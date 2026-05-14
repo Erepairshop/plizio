@@ -546,7 +546,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     id: "georgia-greater-caucasus-relief-v2",
     type: "mountain",
     name: { de: "Großer Kaukasus", hu: "Nagy-Kaukázus", ro: "Caucazul Mare", en: "Greater Caucasus" },
-    coordinates: { lat: 42.6, lng: 44.5 },
+    coords: [44.5, 42.6],
     description: {
       de: "Der Große Kaukasus ist das Hauptgebirge zwischen dem Schwarzen und dem Kaspischen Meer. Er bildet die natürliche Nordgrenze Georgiens.",
       hu: "A Nagy-Kaukázus a Fekete- és a Kaszpi-tenger közötti fő hegységrendszer. Grúzia északi természetes határát alkotja Oroszország felé.",
@@ -560,12 +560,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Length of about 1200 km", "Mount Shkhara is highest point", "Natural border with Russia", "Over 600 sq km of glaciers"],
     },
     imageHint: "Aerial view of snowy Greater Caucasus mountain peaks in Georgia",
+    descriptionAdvanced: {
+      de: "Der Große Kaukasus ist das dominierende Gebirge Georgiens und erstreckt sich von der Schwarzmeerküste bis zur Kaspischen See über etwa 1.200 km. In Georgien erreicht er Höhen von über 5.000 Metern, mit dem höchsten Gipfel Schchara (5.201 m) an der Grenze zu Russland. Das Gebirge ist durch tiefe Täler und Gletscher geprägt; es gibt über 1.500 Gletscher in der georgischen Sektion. Geologisch besteht es aus paläozoischen und mesozoischen Gesteinen. Das Klima variiert stark mit Höhenlage, von subtropisch am Fuß bis zu nival in den Gipfelregionen. Die Nordgrenze Georgiens verläuft entlang der Hauptkammes. Das Gebirge beherbergt bedeutende Biodiversität, darunter den Kaukasischen Leoparden und den Westkaukasischen Steinbock.",
+      hu: "A Nagy-Kaukázus Grúzia uralkodó hegysége, amely a Fekete-tenger partjától a Kaszpi-tengerig húzódik, mintegy 1200 km hosszan. Grúziában eléri az 5000 méter feletti magasságot, a legmagasabb csúcs a Szhara (5201 m) az orosz határon. A hegységet mély völgyek és gleccserek jellemzik; a grúz szakaszon több mint 1500 gleccser található. Geológiailag paleozoos és mezozoos kőzetekből áll. Az éghajlat erősen változik a magassággal, a lábánál szubtrópustól a csúcsokon niválisig. Grúzia északi határa a főgerinc mentén húzódik. A hegység jelentős biodiverzitásnak ad otthont, köztük a kaukázusi leopárdnak és a nyugat-kaukázusi túrának.",
+      ro: "Marele Caucaz este lanțul muntos dominant al Georgiei, întinzându-se de la coasta Mării Negre până la Marea Caspică pe aproximativ 1.200 km. În Georgia, atinge altitudini de peste 5.000 m, cu cel mai înalt vârf Shkhara (5.201 m) la granița cu Rusia. Munții sunt caracterizați de văi adânci și ghețari; există peste 1.500 de ghețari în secțiunea georgiană. Din punct de vedere geologic, este format din roci paleozoice și mezozoice. Clima variază puternic cu altitudinea, de la subtropical la poale până la nival pe vârfuri. Granița de nord a Georgiei urmează creasta principală. Lanțul adăpostește o biodiversitate importantă, inclusiv leopardul caucazian și capra de munte caucaziană de vest.",
+      en: "The Greater Caucasus is the dominant mountain range in Georgia, stretching from the Black Sea to the Caspian Sea over approximately 1,200 km. In Georgia, it reaches heights over 5,000 m, with the highest peak Shkhara (5,201 m) on the Russian border. The range is characterized by deep valleys and glaciers; there are over 1,500 glaciers in the Georgian section. Geologically, it consists of Paleozoic and Mesozoic rocks. Climate varies sharply with altitude, from subtropical at the foothills to nival at the peaks. Georgia's northern border runs along the main crest. The range hosts significant biodiversity, including the Caucasian leopard and the West Caucasian tur.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 1.200 km", "Höchster Gipfel: Schchara (5.201 m)", "Anzahl Gletscher: über 1.500", "Geologische Epochen: Paläozoikum und Mesozoikum", "Klimazonen: subtropisch bis nival", "Endemische Art: Westkaukasischer Steinbock"],
+      hu: ["Hossz: kb. 1200 km", "Legmagasabb csúcs: Szhara (5201 m)", "Gleccserek száma: több mint 1500", "Geológiai korok: paleozoikum és mezozoikum", "Éghajlati övek: szubtrópusitól niválisig", "Endemikus faj: nyugat-kaukázusi túra"],
+      ro: ["Lungime: aprox. 1.200 km", "Cel mai înalt vârf: Shkhara (5.201 m)", "Număr de ghețari: peste 1.500", "Epoci geologice: Paleozoic și Mezozoic", "Zone climatice: subtropical până la nival", "Specie endemică: capra de munte caucaziană de vest"],
+      en: ["Length: approx. 1,200 km", "Highest peak: Shkhara (5,201 m)", "Number of glaciers: over 1,500", "Geological eras: Paleozoic and Mesozoic", "Climate zones: subtropical to nival", "Endemic species: West Caucasian tur"],
+    },
   },
   {
     id: "georgia-lesser-caucasus-relief-v2",
     type: "mountain",
     name: { de: "Kleiner Kaukasus", hu: "Kis-Kaukázus", ro: "Caucazul Mic", en: "Lesser Caucasus" },
-    coordinates: { lat: 41.6, lng: 43.5 },
+    coords: [43.5, 41.6],
     description: {
       de: "Der Kleine Kaukasus verläuft parallel zum Großen Kaukasus im Süden des Landes. Er verbindet Georgien mit Armenien und der Türkei.",
       hu: "A Kis-Kaukázus a Nagy-Kaukázussal párhuzamosan fut az ország déli részén. Grúziát Örményországgal és Törökországgal köti össze.",
@@ -579,12 +591,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Mount Didi Abuli is highest peak", "Average height 2000-3000m", "Volcanic origins in segments", "600 kilometers total length"],
     },
     imageHint: "Rolling green hills and ridges of the Lesser Caucasus mountains",
+    descriptionAdvanced: {
+      de: "Der Kleine Kaukasus ist ein Gebirgssystem im Süden Georgiens, das sich von der Schwarzmeerküste bis nach Armenien und Aserbaidschan erstreckt. In Georgien erreicht es Höhen bis zu 3.300 Metern, mit dem höchsten Gipfel Didi Abuli (3.301 m) in der Trialeti-Kette. Das Gebirge besteht hauptsächlich aus vulkanischem Gestein, darunter Basalt und Andésit. Es ist durch ausgedehnte Hochebenen wie die Dschawachetien-Ebene und zahlreiche Seen geprägt, darunter den Parawani-See (37,5 km²). Der Kleine Kaukasus ist erdbebengefährdet. Die Region ist bekannt für ihre Thermalquellen und Mineralwässer. Die Wälder bestehen vorwiegend aus Eichen und Buchen, darüber liegen alpine Wiesen.",
+      hu: "A Kis-Kaukázus Grúzia déli részén húzódó hegységrendszer, amely a Fekete-tenger partjától Örményországon és Azerbajdzsánon át terjed. Grúziában a magasság eléri a 3300 métert, a legmagasabb csúcs a Didi Abuli (3301 m) a Trialeti-hegységben. A hegység főként vulkáni kőzetekből, bazaltból and andezitből áll. Jellegzetesek a kiterjedt fennsíkok, mint a Dzsavacheti-fennsík, és számos tó, köztük a Paravani-tó (37,5 km²). A Kis-Kaukázus földrengésveszélyes. A régió híres termál- és ásványvízforrásairól. Az erdők főként tölgyből és bükkből állnak, fölöttük alpesi rétek találhatók.",
+      ro: "Caucazul Mic este un sistem muntos din sudul Georgiei, care se întinde de la coasta Mării Negre până în Armenia și Azerbaidjan. În Georgia, atinge altitudini de până la 3.300 m, cu cel mai înalt vârf Didi Abuli (3.301 m) în lanțul Trialeti. Munții sunt formați în principal din roci vulcanice, inclusiv bazalt și andezit. Sunt caracterizați de podișuri întinse, cum ar fi Podișul Javakheti, și numeroase lacuri, inclusiv Lacul Paravani (37,5 km²). Caucazul Mic este predispus la cutremure. Regiunea este renumită pentru izvoarele termale și apele minerale. Pădurile constau în principal din stejar și fag, deasupra aflându-se pajiști alpine.",
+      en: "The Lesser Caucasus is a mountain system in southern Georgia, stretching from the Black Sea coast into Armenia and Azerbaijan. In Georgia, it reaches heights of up to 3,300 m, with the highest peak Didi Abuli (3,301 m) in the Trialeti Range. The mountains are largely composed of volcanic rocks, including basalt and andesite. They are characterized by extensive plateaus such as the Javakheti Plateau and numerous lakes, including Lake Paravani (37.5 km²). The Lesser Caucasus is seismically active. The region is known for its thermal springs and mineral waters. Forests are mainly oak and beech, with alpine meadows above.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Didi Abuli (3.301 m)", "Gesteinsarten: Basalt und Andesit", "Größter See: Parawani (37,5 km²)", "Erdbebengefährdet", "Thermalquellen vorhanden", "Waldtyp: Eichen und Buchen"],
+      hu: ["Legmagasabb csúcs: Didi Abuli (3301 m)", "Kőzetek: bazalt és andezit", "Legnagyobb tó: Paravani (37,5 km²)", "Földrengésveszélyes", "Termálforrások", "Erdőtípus: tölgy és bükk"],
+      ro: ["Cel mai înalt vârf: Didi Abuli (3.301 m)", "Roci: bazalt și andezit", "Cel mai mare lac: Paravani (37,5 km²)", "Activ seismic", "Izvoare termale", "Tip pădure: stejar și fag"],
+      en: ["Highest peak: Didi Abuli (3,301 m)", "Rock types: basalt and andesite", "Largest lake: Paravani (37.5 km²)", "Seismically active", "Thermal springs present", "Forest type: oak and beech"],
+    },
   },
   {
     id: "georgia-colchis-lowland-relief-v2",
     type: "valley",
     name: { de: "Kolchische Tiefebene", hu: "Kolkhisz-alföld", ro: "Câmpia Colchidei", en: "Colchis Lowland" },
-    coordinates: { lat: 42.2, lng: 42.0 },
+    coords: [42.0, 42.2],
     description: {
       de: "Diese dreieckige Tiefebene liegt in Westgeorgien am Schwarzen Meer. Sie entstand durch die Ablagerungen der Flüsse Rioni und Khobi.",
       hu: "Ez a háromszög alakú alföld Nyugat-Grúziában, a Fekete-tenger partján fekszik. A Rioni és Khobi folyók hordaléka alakította ki.",
@@ -598,12 +622,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Elevation of 0-200 meters", "Humid subtropical climate", "Ancient Kingdom of Colchis", "Marshy coastal terrain"],
     },
     imageHint: "Flat green landscape of the Colchis Lowland near the Rioni river",
+    descriptionAdvanced: {
+      de: "Die Kolchis-Tiefebene ist eine Küstenregion im Westen Georgiens zwischen dem Schwarzen Meer und dem Großen Kaukasus. Sie erstreckt sich über etwa 200 km von der Grenze zur Türkei bis zur Stadt Poti. Die Ebene liegt auf Meereshöhe und ist aufgrund der reichlichen Niederschläge (2.000–3.000 mm jährlich) stark von Feuchtgebieten und Auenwäldern geprägt. Der wichtigste Fluss ist der Rioni, der in das Schwarze Meer mündet. Die Region war in der Antike für den Goldreichtum bekannt (Argonautensage). Die Böden sind sehr fruchtbar, was eine intensive Landwirtschaft ermöglicht, insbesondere den Anbau von Tee, Zitrusfrüchten und Mais. Die Städte Batumi und Sugdidi liegen am Rande der Ebene.",
+      hu: "A Kolchisz-alföld egy tengerparti régió Nyugat-Grúziában a Fekete-tenger és a Nagy-Kaukázus között. Hossza mintegy 200 km a török határtól Poti városáig. Az alföld tengerszinten fekszik, és a bőséges csapadék (évi 2000–3000 mm) miatt mocsarak és ártéri erdők jellemzik. A legfontosabb folyó a Rioni, amely a Fekete-tengerbe ömlik. A régió az ókorban aranykincseiről volt ismert (argonauták mondája). A talaj termékeny, ami intenzív mezőgazdaságot tesz lehetővé, különösen tea, citrusfélék és kukorica termesztését. Batumi és Zugdidi városai az alföld szélén fekszenek.",
+      ro: "Câmpia Colchis este o regiune de coastă din vestul Georgiei, între Marea Neagră și Marele Caucaz. Se întinde pe aproximativ 200 km de la granița cu Turcia până la orașul Poti. Câmpia se află la nivelul mării și, datorită precipitațiilor abundente (2.000-3.000 mm anual), este caracterizată de zone umede și păduri de luncă. Principalul râu este Rioni, care se varsă în Marea Neagră. Regiunea a fost cunoscută în antichitate pentru bogățiile în aur (mitul argonauților). Solurile sunt foarte fertile, permițând agricultura intensivă, în special ceai, citrice și porumb. Orașele Batumi și Zugdidi sunt la marginea câmpiei.",
+      en: "The Colchis Lowland is a coastal region in western Georgia between the Black Sea and the Greater Caucasus. It extends about 200 km from the Turkish border to the city of Poti. The lowland is at sea level and, due to abundant precipitation (2,000-3,000 mm annually), is characterized by wetlands and floodplain forests. The main river is the Rioni, flowing into the Black Sea. The region was famed in antiquity for its gold wealth (Argonaut myth). Soils are highly fertile, enabling intensive agriculture, particularly tea, citrus, and corn. The cities of Batumi and Zugdidi lie at the edges of the plain.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 200 km", "Jährlicher Niederschlag: 2.000–3.000 mm", "Hauptfluss: Rioni", "Antiker Goldreichtum: Argonautensage", "Wichtige Anbauprodukte: Tee, Zitrus, Mais", "Städte: Batumi, Sugdidi"],
+      hu: ["Hossz: kb. 200 km", "Évi csapadék: 2000–3000 mm", "Fő folyó: Rioni", "Ókori aranykincs: argonauta monda", "Fő termények: tea, citrus, kukorica", "Városok: Batumi, Zugdidi"],
+      ro: ["Lungime: aprox. 200 km", "Precipitații anuale: 2.000-3.000 mm", "Râu principal: Rioni", "Bogăție antică de aur: mitul argonauților", "Culturi principale: ceai, citrice, porumb", "Orașe: Batumi, Zugdidi"],
+      en: ["Length: approx. 200 km", "Annual precipitation: 2,000-3,000 mm", "Main river: Rioni", "Ancient gold riches: Argonaut myth", "Main crops: tea, citrus, corn", "Cities: Batumi, Zugdidi"],
+    },
   },
   {
     id: "georgia-kartli-plain-relief-v2",
     type: "valley",
     name: { de: "Kartlische Ebene", hu: "Kartli-síkság", ro: "Câmpia Kartli", en: "Kartli Plain" },
-    coordinates: { lat: 41.9, lng: 44.5 },
+    coords: [44.5, 41.9],
     description: {
       de: "Die Kartlische Ebene ist ein fruchtbares Becken im zentralen Teil des Mtkvari-Tals. Sie ist das historische Herzland Ostgeorgiens.",
       hu: "A Kartli-síkság a Mtkvari-völgy középső részén fekvő termékeny medence. Kelet-Grúzia történelmi központi területe.",
@@ -617,12 +653,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Length of about 100 km", "Elevation 500-800 meters", "Major agricultural region", "Central part of Georgia"],
     },
     imageHint: "Wide agricultural plain with the Mtkvari river and distant hills",
+    descriptionAdvanced: {
+      de: "Die Kartli-Ebene ist eine fruchtbare Region im zentralen Georgien, durch die der Fluss Mtkvari (Kura) fließt. Sie erstreckt sich über etwa 150 km von der Stadt Gori bis nach Rustawi. Die Ebene liegt auf einer Höhe von 400–600 Metern und ist das landwirtschaftliche Herz Georgiens, bekannt für Weinbau, Obst- und Gemüseanbau. Das Klima ist gemäßigt kontinental mit heißen Sommern (bis 35 °C) und milden Wintern. Die Böden sind tiefgründige Schwarzerden. Die Hauptstadt Tiflis liegt am östlichen Rand der Ebene. Historisch war die Kartli-Ebene das Kernland des Königreichs Kartlien. Wichtige Städte sind Tiflis, Gori und Rustawi.",
+      hu: "A Kartli-síkság egy termékeny régió Közép-Grúziában, amelyen a Mtkvari (Kura) folyó folyik keresztül. Hossza mintegy 150 km Goritól Rustaviig. A síkság 400–600 méter tengerszint feletti magasságon fekszik, és Grúzia mezőgazdasági szíve, híres szőlő-, gyümölcs- és zöldségtermesztéséről. Az éghajlat mérsékelt kontinentális, forró nyarakkal (35 °C-ig) és enyhe telekkel. A talaj mély fekete föld. A főváros, Tbiliszi a síkság keleti szélén fekszik. Történelmileg a Kartli-síkság volt a Kartli királyság magterülete. Fontos városai Tbiliszi, Gori és Rustavi.",
+      ro: "Câmpia Kartli este o regiune fertilă din centrul Georgiei, străbătută de râul Mtkvari (Kura). Se întinde pe aproximativ 150 km de la orașul Gori la Rustavi. Câmpia se află la altitudini de 400-600 m și este inima agricolă a Georgiei, cunoscută pentru viticultură, fructe și legume. Clima este temperat-continentală, cu veri fierbinți (până la 35°C) și ierni blânde. Solurile sunt cernoziomuri. Capitala Tbilisi se află la marginea estică a câmpiei. Din punct de vedere istoric, Câmpia Kartli a fost nucleul Regatului Kartli. Orașe importante: Tbilisi, Gori, Rustavi.",
+      en: "The Kartli Plain is a fertile region in central Georgia, traversed by the Mtkvari (Kura) River. It extends about 150 km from the city of Gori to Rustavi. The plain lies at elevations of 400-600 meters and is the agricultural heartland of Georgia, known for viticulture, fruit, and vegetable production. Climate is temperate continental with hot summers (up to 35°C) and mild winters. Soils are deep chernozems. The capital Tbilisi is located at the eastern edge of the plain. Historically, the Kartli Plain was the core of the Kingdom of Kartli. Major cities include Tbilisi, Gori, and Rustavi.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 150 km", "Höhenlage: 400–600 m", "Max. Sommertemperatur: 35 °C", "Boden: Schwarzerde", "Historisches Kernland: Königreich Kartlien", "Wichtige Städte: Tiflis, Gori, Rustawi"],
+      hu: ["Hossz: kb. 150 km", "Magasság: 400–600 m", "Nyári max. hőmérséklet: 35 °C", "Talaj: fekete föld", "Történelmi magterület: Kartli királyság", "Fontos városok: Tbiliszi, Gori, Rustavi"],
+      ro: ["Lungime: aprox. 150 km", "Altitudine: 400-600 m", "Temperatură maximă vară: 35 °C", "Sol: cernoziom", "Nucleu istoric: Regatul Kartli", "Orașe importante: Tbilisi, Gori, Rustavi"],
+      en: ["Length: approx. 150 km", "Elevation: 400-600 m", "Summer max temperature: 35°C", "Soil: chernozem", "Historical core: Kingdom of Kartli", "Major cities: Tbilisi, Gori, Rustavi"],
+    },
   },
   {
     id: "georgia-mesheti-range-relief-v2",
     type: "mountain",
     name: { de: "Mescheti-Gebirge", hu: "Meszheti-hegység", ro: "Munții Mesheti", en: "Mesheti Range" },
-    coordinates: { lat: 41.85, lng: 42.65 },
+    coords: [42.65, 41.85],
     description: {
       de: "Das Mescheti-Gebirge ist ein Teil des Kleinen Kaukasus in Südwestgeorgien. Es trennt die Küstenregion Adjara vom Binnenland.",
       hu: "A Meszheti-hegység a Kis-Kaukázus része Délnyugat-Grúziában. Adzsara partvidékét választja el a belső területektől.",
@@ -636,12 +684,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Mount Mepistskharo is highest peak", "Maximum height 2850 meters", "High annual precipitation", "Length of about 150 km"],
     },
     imageHint: "Forested mountain ridges of the Mesheti Range shrouded in mist",
+    descriptionAdvanced: {
+      de: "Die Meschetische Kette (auch Adscharien-Imeretischer Gebirgszug) ist ein Teil des Kleinen Kaukasus im südwestlichen Georgien. Sie erstreckt sich von der Küste des Schwarzen Meeres nach Osten bis zur Region Samzche-Dschawachetien. Die höchste Erhebung ist der Mepistsqaro (2.850 m). Die Kette ist dicht bewaldet mit Laubwäldern (Buchen, Eichen) und hat ein feuchtes subtropisches Klima an den Nordhängen, mit Niederschlägen von über 2.000 mm jährlich. Die Südseite ist trockener. Die Region ist bekannt für ihre Heilquellen und das Skigebiet Goderdzi. Die Meschetische Kette bildet die Wasserscheide zwischen dem Schwarzen Meer und dem Mtkvari-Becken.",
+      hu: "A Mesheti-hegység (más néven Adzsar-Imereți-hegység) a Kis-Kaukázus része Délnyugat-Grúziában. A Fekete-tenger partjától keletre, Szamche-Dzsavacheti régióig húzódik. Legmagasabb pontja a Mepistsqaro (2850 m). A hegység sűrű lombhullató erdőkkel borított (bükk, tölgy), északi lejtőin nedves szubtrópusi éghajlatú, évi 2000 mm feletti csapadékkal. A déli oldal szárazabb. A régió híres gyógyforrásairól és a Goderdzi síterepről. A Mesheti-hegység vízválasztó a Fekete-tenger és a Mtkvari-medence között.",
+      ro: "Munții Mesheti (Cordiliera Adjara-Imereti) fac parte din Caucazul Mic, în sud-vestul Georgiei. Se întind de la coasta Mării Negre spre est, până în regiunea Samtskhe-Javakheti. Cel mai înalt vârf este Mepistsqaro (2.850 m). Munții sunt acoperiți de păduri de foioase (fag, stejar) și au un climat subtropical umed pe versanții nordici, cu precipitații de peste 2.000 mm anual. Partea sudică este mai uscată. Regiunea este cunoscută pentru izvoarele terapeutice și stațiunea de schi Goderdzi. Munții Mesheti formează cumpăna apelor între Marea Neagră și bazinul Mtkvari.",
+      en: "The Mesheti Range (also known as the Adjara-Imereti Range) is part of the Lesser Caucasus in southwestern Georgia. It stretches from the Black Sea coast eastward into the Samtskhe-Javakheti region. The highest point is Mepistsqaro (2,850 m). The range is densely forested with deciduous trees (beech, oak) and has a humid subtropical climate on the northern slopes, with precipitation exceeding 2,000 mm annually. The southern side is drier. The region is known for its therapeutic springs and the Goderdzi ski resort. The Mesheti Range forms the watershed between the Black Sea and the Mtkvari basin.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mepistsqaro (2.850 m)", "Jährlicher Niederschlag Nordhang: >2.000 mm", "Waldtyp: Laubwald (Buche, Eiche)", "Skigebiet: Goderdzi", "Wasserscheide: Schwarzes Meer / Mtkvari", "Klima Nordhang: feucht-subtropisch"],
+      hu: ["Legmagasabb csúcs: Mepistsqaro (2850 m)", "Évi csapadék északi lejtő: >2000 mm", "Erdőtípus: lombhullató (bükk, tölgy)", "Síterep: Goderdzi", "Vízválasztó: Fekete-tenger / Mtkvari", "Éghajlat északi lejtő: nedves szubtrópusi"],
+      ro: ["Cel mai înalt vârf: Mepistsqaro (2.850 m)", "Precipitații anuale versant nordic: >2.000 mm", "Tip pădure: foioase (fag, stejar)", "Stațiune de schi: Goderdzi", "Cumpăna apelor: Marea Neagră / Mtkvari", "Clima versant nordic: subtropical umed"],
+      en: ["Highest peak: Mepistsqaro (2,850 m)", "Annual precipitation north slope: >2,000 mm", "Forest type: deciduous (beech, oak)", "Ski resort: Goderdzi", "Watershed: Black Sea / Mtkvari", "Climate north slope: humid subtropical"],
+    },
   },
   {
     id: "georgia-gagra-range-relief-v2",
     type: "mountain",
     name: { de: "Gagra-Gebirge", hu: "Gagrai-hegység", ro: "Munții Gagra", en: "Gagra Range" },
-    coordinates: { lat: 43.4, lng: 40.5 },
+    coords: [40.5, 43.4],
     description: {
       de: "Das Gagra-Gebirge liegt im Nordwesten Georgiens in Abchasien. Es ist bekannt für seine extrem tiefen Kalksteinhöhlen.",
       hu: "A Gagrai-hegység Északnyugat-Grúziában, Abháziában található. Rendkívül mély mészkőbarlangjairól nevezetes.",
@@ -655,12 +715,24 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Mount Agepsta is highest peak", "Contains world's deepest cave", "Arabika Massif is part of it", "Located in Abkhazia region"],
     },
     imageHint: "Dramatic limestone cliffs and peaks of the Gagra Range",
+    descriptionAdvanced: {
+      de: "Die Gagra-Kette ist ein Gebirgszug im nordwestlichen Teil des Großen Kaukasus in der Region Abchasien. Sie verläuft parallel zur Schwarzmeerküste und ist bekannt für ihre steilen Kalksteinfelsen und tiefen Schluchten. Die höchste Erhebung ist der Berg Agepsta (3.261 m). Die Kette ist reich an Karstformationen, Höhlen und unterirdischen Flüssen, darunter die berühmte Nowoafonskaja-Höhle. Die Vegetation umfasst kolchische Wälder mit Eiben, Buchsbäumen und immergrünen Sträuchern. Die Region ist ein beliebtes Ziel für Bergsteiger und Höhlenforscher. Das Klima ist feucht-gemäßigt mit starken Niederschlägen (1.500–2.000 mm jährlich).",
+      hu: "A Gagra-hegység a Nagy-Kaukázus északnyugati részén, Abháziában található. Párhuzamosan húzódik a Fekete-tenger partjával, és meredek mészkőszikláiról, mély szurdokairól ismert. Legmagasabb csúcsa az Agepsta (3261 m). A hegység gazdag karsztformációkban, barlangokban és föld alatti folyókban, köztük a híres Novij Afon-barlang. Növényzete kolchiszi erdőkből áll tiszafával, puszpánggal és örökzöld cserjékkel. A régió népszerű a hegymászók és barlangkutatók körében. Az éghajlat nedves-mérsékelt, bőséges csapadékkal (évi 1500–2000 mm).",
+      ro: "Munții Gagra sunt un lanț muntos în nord-vestul Marelui Caucaz, în regiunea Abhazia. Se desfășoară paralel cu coasta Mării Negre și sunt cunoscuți pentru stâncile abrupte de calcar și cheile adânci. Cel mai înalt vârf este Agepsta (3.261 m). Lanțul este bogat în formațiuni carstice, peșteri și râuri subterane, inclusiv faimoasa Peșteră Novi Afon. Vegetația constă în păduri colchice cu tisă, cimișir și arbuști veșnic verzi. Regiunea este populară pentru alpinism și speologie. Clima este umed-temperată, cu precipitații abundente (1.500-2.000 mm anual).",
+      en: "The Gagra Range is a mountain chain in the northwestern part of the Greater Caucasus in Abkhazia. It runs parallel to the Black Sea coast and is known for its steep limestone cliffs and deep gorges. The highest peak is Mount Agepsta (3,261 m). The range is rich in karst formations, caves, and underground rivers, including the famous Novi Afon Cave. Vegetation includes Colchic forests with yew, boxwood, and evergreen shrubs. The region is popular for mountaineering and caving. Climate is humid temperate with heavy precipitation (1,500-2,000 mm annually).",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Agepsta (3.261 m)", "Gestein: Kalkstein", "Bekannte Höhle: Nowoafonskaja", "Jährlicher Niederschlag: 1.500–2.000 mm", "Klima: feucht-gemäßigt", "Waldtyp: Kolchische Wälder"],
+      hu: ["Legmagasabb csúcs: Agepsta (3261 m)", "Kőzet: mészkő", "Híres barlang: Novij Afon", "Évi csapadék: 1500–2000 mm", "Éghajlat: nedves-mérsékelt", "Erdőtípus: kolchiszi erdők"],
+      ro: ["Cel mai înalt vârf: Agepsta (3.261 m)", "Rocă: calcar", "Peșteră faimoasă: Novi Afon", "Precipitații anuale: 1.500-2.000 mm", "Climă: umed-temperată", "Tip pădure: păduri colchice"],
+      en: ["Highest peak: Agepsta (3,261 m)", "Rock type: limestone", "Famous cave: Novi Afon", "Annual precipitation: 1,500-2,000 mm", "Climate: humid temperate", "Forest type: Colchic forests"],
+    },
   },
   {
     id: "georgia-chaukhi-massif-relief-v2",
     type: "mountain",
     name: { de: "Chaukhi-Massiv", hu: "Csaukhi-masszívum", ro: "Masivul Chaukhi", en: "Chaukhi Massif" },
-    coordinates: { lat: 42.53, lng: 44.78 },
+    coords: [44.78, 42.53],
     description: {
       de: "Das Chaukhi-Massiv ist eine markante Felsformation im Kazbegi-Distrikt. Es wird oft als die 'Georgischen Dolomiten' bezeichnet.",
       hu: "A Csaukhi-masszívum egy jellegzetes sziklaformáció a Kazbegi járásban. Gyakran nevezik 'grúz Dolomitoknak'.",
@@ -674,5 +746,17 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       en: ["Elevation over 3300 meters", "Near the mountain village Juta", "Composed of volcanic rock", "Major climbing and hiking site"],
     },
     imageHint: "Jagged multi-peaked rock massif rising above alpine meadows",
+    descriptionAdvanced: {
+      de: "Das Chaukhi-Massiv ist ein markanter Gebirgsstock im zentralen Teil des Großen Kaukasus in der Region Mtskheta-Mtianeti. Es liegt in der Nähe des Kazbegi-Nationalparks und ist für seine schroffen Gipfel und Gletscher bekannt. Der höchste Punkt ist der Chaukhi (3.842 m). Das Massiv besteht aus Granit und Gneis und ist durch alpine Wiesen und Felswände geprägt. Es gibt mehrere kleine Gletscher, die sich im Rückzug befinden. Die Region ist ein beliebtes Ziel für Trekking und Bergsteigen, mit Routen wie der Chaukhi-Pass. Die nächstgelegene Siedlung ist das Dorf Roshka. Das Gebiet ist Teil des Sno-Flusstals.",
+      hu: "A Chaukhi-masszívum egy markáns hegytömeg a Nagy-Kaukázus központi részén, Mcheta-Mtianeti régióban. A Kazbegi Nemzeti Park közelében fekszik, és zord csúcsairól, gleccsereiről ismert. Legmagasabb pontja a Chaukhi (3842 m). A masszívum gránitból és gneiszből áll, alpesi rétekkel és sziklafalakkal. Több kisebb gleccser található, amelyek visszahúzódóban vannak. A régió népszerű túra- és hegymászócélpont, útvonalakkal, mint a Chaukhi-hágó. A legközelebbi település Roshka falu. A terület a Sno folyó völgyének része.",
+      ro: "Masivul Chaukhi este un grup muntos proeminent în partea centrală a Marelui Caucaz, în regiunea Mtskheta-Mtianeti. Este situat lângă Parcul Național Kazbegi și este cunoscut pentru vârfurile sale aspre și ghețari. Cel mai înalt punct este Chaukhi (3.842 m). Masivul este format din granit și gneis, cu pajiști alpine și pereți stâncoși. Există câțiva ghețari mici, care se retrag. Zona este o destinație populară pentru drumeții și alpinism, cu trasee precum Pasul Chaukhi. Cea mai apropiată așezare este satul Roshka. Zona face parte din valea râului Sno.",
+      en: "The Chaukhi Massif is a prominent mountain group in the central part of the Greater Caucasus in the Mtskheta-Mtianeti region. It lies near Kazbegi National Park and is known for its rugged peaks and glaciers. The highest point is Mount Chaukhi (3,842 m). The massif is composed of granite and gneiss, characterized by alpine meadows and rock faces. Several small glaciers exist, which are retreating. The area is a popular destination for trekking and mountaineering, with routes like the Chaukhi Pass. The nearest settlement is the village of Roshka. The massif is part of the Sno River valley.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Chaukhi (3.842 m)", "Gesteinsarten: Granit und Gneis", "Gletscher: mehrere, im Rückzug", "Nächstgelegenes Dorf: Roshka", "Beliebter Pass: Chaukhi-Pass", "Lage: Zentraler Großer Kaukasus"],
+      hu: ["Legmagasabb csúcs: Chaukhi (3842 m)", "Kőzetek: gránit és gneisz", "Gleccserek: több, visszahúzódó", "Legközelebbi falu: Roshka", "Népszerű hágó: Chaukhi-hágó", "Elhelyezkedés: Középső Nagy-Kaukázus"],
+      ro: ["Cel mai înalt vârf: Chaukhi (3.842 m)", "Roci: granit și gneis", "Ghețari: câțiva, în retragere", "Satul cel mai apropiat: Roshka", "Pas popular: Pasul Chaukhi", "Locație: Caucazul Mare central"],
+      en: ["Highest peak: Chaukhi (3,842 m)", "Rock types: granite and gneiss", "Glaciers: several, retreating", "Nearest village: Roshka", "Popular pass: Chaukhi Pass", "Location: central Greater Caucasus"],
+    },
   }
 ];

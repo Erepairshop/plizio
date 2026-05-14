@@ -96,6 +96,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: "Seria is a town in the Belait District of Brunei and the commercial heart of the nation's oil and gas industry. The town's history is inextricably linked to the discovery of oil in 1929, which led to the establishment of the settlement centered around the operations of Brunei Shell Petroleum (BSP). The name 'Seria' is derived from the river's original name, 'Sungai Seria'. The iconic Billionth Barrel Monument was erected in 1991 to celebrate the production of the billionth barrel of oil from the Seria oilfield. The town suffered significant damage during World War II but was rapidly rebuilt in the post-war period. Today, Seria is a well-planned town with amenities that cater to its diverse population, including a large expatriate community."
     },
     image: "/poi-images/seria-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohner: 30.000", "Ölfelder in Betrieb seit: 1929", "Billionth Barrel Monument errichtet: 1991", "Erdölförderung (Spitze): 200.000 Barrel/Tag", "Fläche: 50 km²", "Durchschnittstemperatur: 27°C"],
+      hu: ["Lakosság: 30 000", "Olajmezők üzemelés: 1929 óta", "Billionth Barrel Emlékmű: 1991", "Csúcstermelés: 200 000 hordó/nap", "Terület: 50 km²", "Átlaghőmérséklet: 27°C"],
+      ro: ["Populație: 30.000", "Câmpuri petroliere active din: 1929", "Monumentul Bilionului de Barili: 1991", "Producție maximă: 200.000 barili/zi", "Suprafață: 50 km²", "Temperatură medie: 27°C"],
+      en: ["Population: 30,000", "Oil fields operational since: 1929", "Billionth Barrel Monument erected: 1991", "Peak oil production: 200,000 barrels/day", "Area: 50 km²", "Average temperature: 27°C"],
+    },
   },
   {
     id: "tutong-cities-v2",
@@ -532,6 +538,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: "Kilanas is a mukim in the Brunei-Muara District and a rapidly developing suburb of Bandar Seri Begawan. Historically a collection of traditional villages, urbanization has transformed it into a densely populated residential area. The area is characterized by a mix of traditional kampong houses and modern villas, indicative of its demographic shift. It is strategically located near major highways like Jalan Tutong, providing easy access to the capital and other parts of the country. Kilanas is home to several schools, clinics, and a prominent mosque that serves the community. Its proximity to the commercial hub of Gadong and its relatively quiet residential atmosphere make it an attractive location for families. The area also retains some green patches and agricultural lands, a reminder of its more rural past."
     },
     image: "/poi-images/kilanas-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohner: 2.000", "Entfernung zu Bandar Seri Begawan: 15 km", "Höhe über Meer: 10 m", "Reisanbaufläche: 200 ha", "Durchschnittstemperatur: 28°C", "Anzahl der Haushalte: 400"],
+      hu: ["Lakosság: 2000", "Távolság Bandar Seri Begawantól: 15 km", "Tengerszint feletti magasság: 10 m", "Rizsföld terület: 200 ha", "Átlaghőmérséklet: 28°C", "Háztartások száma: 400"],
+      ro: ["Populație: 2.000", "Distanță de Bandar Seri Begawan: 15 km", "Altitudine: 10 m", "Suprafață de orez: 200 ha", "Temperatură medie: 28°C", "Număr de gospodării: 400"],
+      en: ["Population: 2,000", "Distance from Bandar Seri Begawan: 15 km", "Elevation: 10 m", "Rice paddy area: 200 ha", "Average temperature: 28°C", "Number of households: 400"],
+    },
   },
   {
     id: "sungai-akar-cities-v2",
@@ -981,7 +993,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-kianggeh-cities-v2",
     type: "village",
     name: { de: "Kianggeh", hu: "Kianggeh", ro: "Kianggeh", en: "Kianggeh" },
-    coordinates: { lat: 4.891, lng: 114.943 },
+    coords: [114.943, 4.891],
     description: {
       de: "Ein zentraler Stadtteil von Bandar Seri Begawan am Ufer des Kianggeh-Flusses. Er ist bekannt für seinen traditionellen Markt unter freiem Himmel.",
       hu: "Bandar Seri Begawan központi része a Kianggeh-folyó partján. Hagyományos szabadtéri piacáról és élénk kereskedelméről ismert terület.",
@@ -1012,7 +1024,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-kumbang-pasang-cities-v2",
     type: "village",
     name: { de: "Kumbang Pasang", hu: "Kumbang Pasang", ro: "Kumbang Pasang", en: "Kumbang Pasang" },
-    coordinates: { lat: 4.904, lng: 114.935 },
+    coords: [114.935, 4.904],
     description: {
       de: "Ein städtisches Dorf in der Nähe des Stadtzentrums von Bandar Seri Begawan. Es dient als wichtiges Wohn- und Verwaltungsgebiet im Mukim Kianggeh.",
       hu: "Városi falu Bandar Seri Begawan központjának közelében. Fontos lakó- és közigazgatási területként szolgál a Mukim Kianggeh körzetben.",
@@ -1043,7 +1055,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-pangkalan-batu-cities-v2",
     type: "village",
     name: { de: "Pangkalan Batu", hu: "Pangkalan Batu", ro: "Pangkalan Batu", en: "Pangkalan Batu" },
-    coordinates: { lat: 4.821, lng: 114.832 },
+    coords: [114.832, 4.821],
     description: {
       de: "Ein ländliches Dorf im Südwesten des Bezirks Brunei-Muara. Das Gebiet ist durch landwirtschaftliche Aktivitäten und eine ruhige Umgebung geprägt.",
       hu: "Vidéki falu Brunei-Muara körzet délnyugati részén. A területet mezőgazdasági tevékenységek és nyugodt környezet jellemzi.",
@@ -1074,7 +1086,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-burong-pingai-cities-v2",
     type: "village",
     name: { de: "Burong Pingai", hu: "Burong Pingai", ro: "Burong Pingai", en: "Burong Pingai" },
-    coordinates: { lat: 4.878, lng: 114.941 },
+    coords: [114.941, 4.878],
     description: {
       de: "Ein historisches Wasserdorf innerhalb des Kampong Ayer Komplexes. Es ist bekannt für seine traditionellen Pfahlbauten und die reiche Kulturgeschichte.",
       hu: "Történelmi vízifalu a Kampong Ayer komplexumon belül. Hagyományos cölöpházairól és gazdag kulturális múltjáról nevezetes hely.",
@@ -1105,7 +1117,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-peramu-cities-v2",
     type: "village",
     name: { de: "Peramu", hu: "Peramu", ro: "Peramu", en: "Peramu" },
-    coordinates: { lat: 4.881, lng: 114.948 },
+    coords: [114.948, 4.881],
     description: {
       de: "Ein bedeutendes Wasserdorf gegenüber dem Stadtzentrum von Bandar Seri Begawan. Es ist ein integraler Bestandteil des historischen Erbes von Brunei.",
       hu: "Jelentős vízifalu Bandar Seri Begawan városközpontjával szemben. Brunei történelmi örökségének szerves részét képező település.",
@@ -1136,7 +1148,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-sungai-kebun-cities-v2",
     type: "village",
     name: { de: "Sungai Kebun", hu: "Sungai Kebun", ro: "Sungai Kebun", en: "Sungai Kebun" },
-    coordinates: { lat: 4.873, lng: 114.944 },
+    coords: [114.944, 4.873],
     description: {
       de: "Ein Dorf am südlichen Ufer des Brunei-Flusses gegenüber der Hauptstadt. Es ist heute durch eine große Schrägseilbrücke direkt mit dem Zentrum verbunden.",
       hu: "Falu a Brunei-folyó déli partján, a fővárossal szemben. Ma egy nagy ferdekábeles híd köti össze közvetlenül a központtal.",
@@ -1167,7 +1179,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-tamoi-cities-v2",
     type: "village",
     name: { de: "Tamoi", hu: "Tamoi", ro: "Tamoi", en: "Tamoi" },
-    coordinates: { lat: 4.884, lng: 114.936 },
+    coords: [114.936, 4.884],
     description: {
       de: "Ein historisches Viertel im Wasserdorf Kampong Ayer, nahe der Omar-Ali-Saifuddien-Moschee. Es ist eines der am besten erhaltenen Gebiete des Dorfes.",
       hu: "Történelmi negyed a Kampong Ayer vízifaluban, az Omar Ali Saifuddien-mecset közelében. A falu egyik legjobb állapotban fennmaradt területe.",
@@ -1198,7 +1210,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-sungai-kedayan-cities-v2",
     type: "village",
     name: { de: "Sungai Kedayan", hu: "Sungai Kedayan", ro: "Sungai Kedayan", en: "Sungai Kedayan" },
-    coordinates: { lat: 4.89, lng: 114.938 },
+    coords: [114.938, 4.89],
     description: {
       de: "Ein Dorfgebiet entlang des Kedayan-Flusses im Zentrum der Hauptstadt. Das Areal wurde kürzlich saniert und beherbergt nun einen modernen Uferpark.",
       hu: "Falu a Kedayan-folyó mentén, a főváros központjában. A területet nemrégiben rehabilitálták, és most egy modern vízparti parknak ad otthont.",
@@ -1229,7 +1241,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-tanah-jambu-cities-v2",
     type: "village",
     name: { de: "Tanah Jambu", hu: "Tanah Jambu", ro: "Tanah Jambu", en: "Tanah Jambu" },
-    coordinates: { lat: 4.98, lng: 114.985 },
+    coords: [114.985, 4.98],
     description: {
       de: "Ein Dorf im Nordosten von Brunei-Muara, bekannt für seine Militärakademie. Das Gebiet verbindet Wohnsiedlungen mit bedeutenden Verteidigungseinrichtungen.",
       hu: "Falu Brunei-Muara északkeleti részén, amely katonai akadémiájáról ismert. A terület lakóövezeteket és jelentős védelmi létesítményeket ötvöz.",
@@ -1260,7 +1272,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-kapok-cities-v2",
     type: "village",
     name: { de: "Kapok", hu: "Kapok", ro: "Kapok", en: "Kapok" },
-    coordinates: { lat: 5.013, lng: 115.035 },
+    coords: [115.035, 5.013],
     description: {
       de: "Ein Küstendorf in der Nähe der Stadt Muara. Es ist ein wichtiges Wohngebiet, das strategisch günstig zwischen dem Hafen und der Hauptstadt liegt.",
       hu: "Tengerparti falu Muara városa közelében. Fontos lakóövezet, amely stratégiailag a kikötő és a főváros között helyezkedik el.",
@@ -1291,7 +1303,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-rimba-cities-v2",
     type: "town",
     name: { de: "Rimba", hu: "Rimba", ro: "Rimba", en: "Rimba" },
-    coordinates: { lat: 4.942, lng: 114.915 },
+    coords: [114.915, 4.942],
     description: {
       de: "Eine moderne Planstadt und Wohnsiedlung im Bezirk Brunei-Muara. Rimba ist eines der größten staatlichen Wohnungsbauprojekte des Landes.",
       hu: "Modern tervezett város és lakótelep Brunei-Muara körzetében. Rimba az ország egyik legnagyobb állami lakásépítési projektje.",
@@ -1322,7 +1334,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-madang-cities-v2",
     type: "village",
     name: { de: "Madang", hu: "Madang", ro: "Madang", en: "Madang" },
-    coordinates: { lat: 4.935, lng: 114.945 },
+    coords: [114.945, 4.935],
     description: {
       de: "Ein Wohnviertel im Bezirk Berakas, das für seine ruhige Atmosphäre bekannt ist. Das Dorf beherbergt viele Pendler, die in der nahen Hauptstadt arbeiten.",
       hu: "Lakónegyed Berakas körzetében, amely nyugodt légköréről ismert. A falu sok olyan ingázónak ad otthont, akik a közeli fővárosban dolgoznak.",
@@ -1353,7 +1365,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-manggis-cities-v2",
     type: "village",
     name: { de: "Manggis", hu: "Manggis", ro: "Manggis", en: "Manggis" },
-    coordinates: { lat: 4.943, lng: 114.952 },
+    coords: [114.952, 4.943],
     description: {
       de: "Ein florierendes Wohn- und Gewerbegebiet im Nordosten der Hauptstadt. Manggis ist bekannt für seine Einkaufszentren und die gute Verkehrsanbindung.",
       hu: "Virágzó lakó- és kereskedelmi negyed a főváros északkeleti részén. Manggis bevásárlóközpontjairól és jó közlekedési kapcsolatairól ismert.",
@@ -1384,7 +1396,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-sungai-hanching-cities-v2",
     type: "village",
     name: { de: "Sungai Hanching", hu: "Sungai Hanching", ro: "Sungai Hanching", en: "Sungai Hanching" },
-    coordinates: { lat: 4.96, lng: 114.975 },
+    coords: [114.975, 4.96],
     description: {
       de: "Ein Wohnviertel entlang der Verbindungsstraße zwischen BSB und Muara. Das Dorf ist bekannt für seine moderne Architektur und gehobene Wohnanlagen.",
       hu: "Lakónegyed a BSB és Muara közötti összekötő út mentén. A falu modern építészetéről és színvonalas lakóparkjairól ismert.",
@@ -1415,7 +1427,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-melilas-cities-v2",
     type: "village",
     name: { de: "Melilas", hu: "Melilas", ro: "Melilas", en: "Melilas" },
-    coordinates: { lat: 4.234, lng: 114.655 },
+    coords: [114.655, 4.234],
     description: {
       de: "Das südlichste bewohnte Dorf in Brunei, tief im Landesinneren des Belait-Distrikts gelegen. Es ist eine traditionelle Siedlung der Iban am Belait-Fluss.",
       hu: "Brunei legdélebbi lakott faluja, mélyen a Belait körzet belsejében. Egy hagyományos iban település a Belait-folyó mentén.",
@@ -1446,7 +1458,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-sukang-cities-v2",
     type: "village",
     name: { de: "Sukang", hu: "Sukang", ro: "Sukang", en: "Sukang" },
-    coordinates: { lat: 4.335, lng: 114.665 },
+    coords: [114.665, 4.335],
     description: {
       de: "Ein entlegenes Dorf im oberen Belait-Flussgebiet. Es dient als administratives Zentrum für die kleine Bevölkerung im tiefen Regenwald von Belait.",
       hu: "Távoli falu a felső Belait-folyó mentén. Közigazgatási központként szolgál a Belait mély esőerdőiben élő kis lakosság számára.",
@@ -1477,7 +1489,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-bukit-sawat-cities-v2",
     type: "village",
     name: { de: "Bukit Sawat", hu: "Bukit Sawat", ro: "Bukit Sawat", en: "Bukit Sawat" },
-    coordinates: { lat: 4.552, lng: 114.505 },
+    coords: [114.505, 4.552],
     description: {
       de: "Ein Dorf im Bezirk Belait, das am Mittellauf des Belait-Flusses liegt. Es ist bekannt für seine ländliche Ruhe und als Ausgangspunkt für Ausflüge in die Natur.",
       hu: "Falu a Belait körzetben, a Belait-folyó középső szakaszánál. Vidéki nyugalmáról és természetjáró kirándulások kiindulópontjaként ismert.",
@@ -1508,7 +1520,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-keriam-cities-v2",
     type: "village",
     name: { de: "Keriam", hu: "Keriam", ro: "Keriam", en: "Keriam" },
-    coordinates: { lat: 4.825, lng: 114.735 },
+    coords: [114.735, 4.825],
     description: {
       de: "Ein Dorf im Bezirk Tutong, das für seine starken Gemeinschaftsbande und landwirtschaftliche Produktion bekannt ist. Es liegt verkehrsgünstig an der Autobahn.",
       hu: "Falu Tutong körzetében, amely erős közösségi kötelékeiről és mezőgazdasági termeléséről ismert. Előnyös fekvésű az autópálya mentén.",
@@ -1539,7 +1551,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-rambai-cities-v2",
     type: "village",
     name: { de: "Rambai", hu: "Rambai", ro: "Rambai", en: "Rambai" },
-    coordinates: { lat: 4.585, lng: 114.685 },
+    coords: [114.685, 4.585],
     description: {
       de: "Ein Binnendorf im Bezirk Tutong, das von dichten Wäldern und Flüssen umgeben ist. Es ist ein Zentrum für die indigene Kultur der Dusun in Brunei.",
       hu: "Belső falu Tutong körzetében, sűrű erdőkkel és folyókkal körülvéve. A brunei dusun őslakos kultúra egyik központja.",
@@ -1570,7 +1582,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-bokok-cities-v2",
     type: "village",
     name: { de: "Bokok", hu: "Bokok", ro: "Bokok", en: "Bokok" },
-    coordinates: { lat: 4.655, lng: 115.115 },
+    coords: [115.115, 4.655],
     description: {
       de: "Ein bedeutendes Dorf im Distrikt Temburong, gelegen an der Straße nach Bangar. Es ist geprägt durch landwirtschaftliche Nutzflächen und bewaldete Hügel.",
       hu: "Jelentős falu Temburong körzetében, a Bangarba vezető út mentén. Mezőgazdasági területek és erdős dombok jellemzik.",
@@ -1601,7 +1613,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-mabohai-cities-v2",
     type: "village",
     name: { de: "Mabohai", hu: "Mabohai", ro: "Mabohai", en: "Mabohai" },
-    coordinates: { lat: 4.901, lng: 114.932 },
+    coords: [114.932, 4.901],
     description: {
       de: "Ein gehobenes Wohnviertel im Zentrum von Bandar Seri Begawan. Mabohai ist bekannt für seine internationalen Bewohner und die Nähe zu wichtigen Schulen.",
       hu: "Színvonalas lakónegyed Bandar Seri Begawan központjában. Mabohai a külföldi lakóiról és a fontos iskolák közelségéről ismert.",
@@ -1632,7 +1644,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-kiarong-cities-v2",
     type: "village",
     name: { de: "Kiarong", hu: "Kiarong", ro: "Kiarong", en: "Kiarong" },
-    coordinates: { lat: 4.903, lng: 114.918 },
+    coords: [114.918, 4.903],
     description: {
       de: "Ein geschäftiges Dorf- und Gewerbegebiet, das für seine monumentale Architektur bekannt ist. Es bildet eine wichtige Brücke zwischen dem Stadtzentrum und Gadong.",
       hu: "Forgalmas falu és kereskedelmi negyed, amely monumentális építészetéről ismert. Fontos hidat képez a városközpont és Gadong között.",
@@ -1663,7 +1675,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-belimbing-cities-v2",
     type: "village",
     name: { de: "Belimbing", hu: "Belimbing", ro: "Belimbing", en: "Belimbing" },
-    coordinates: { lat: 4.898, lng: 114.892 },
+    coords: [114.892, 4.898],
     description: {
       de: "Ein am Hang gelegenes Dorf mit weitem Blick über die Hauptstadtregion. Belimbing ist für seine hügelige Landschaft und grüne Umgebung beliebt.",
       hu: "Domboldalon fekvő falu, ahonnan tágas kilátás nyílik a fővárosi régióra. Belimbing dombos tájáról és zöld környezetéről népszerű.",
@@ -1694,7 +1706,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-masin-cities-v2",
     type: "village",
     name: { de: "Masin", hu: "Masin", ro: "Masin", en: "Masin" },
-    coordinates: { lat: 4.835, lng: 114.855 },
+    coords: [114.855, 4.835],
     description: {
       de: "Ein ländliches Dorf, das Tradition und Moderne verbindet. Es ist bekannt für seine weiten Reisfelder und die wachsende Wohnbevölkerung im Hinterland von BSB.",
       hu: "Vidéki falu, amely ötvözi a hagyományokat és a modernitást. Hatalmas rizsföldjeiről és növekvő lakosságáról ismert BSB hátországában.",
@@ -1725,7 +1737,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-batong-cities-v2",
     type: "village",
     name: { de: "Batong", hu: "Batong", ro: "Batong", en: "Batong" },
-    coordinates: { lat: 4.845, lng: 114.835 },
+    coords: [114.835, 4.845],
     description: {
       de: "Ein kleines ländliches Dorf im Mukim Pangkalan Batu. Es ist geprägt durch eine enge Gemeinschaft und eine von Landwirtschaft dominierte Landschaft.",
       hu: "Kis vidéki falu a Mukim Pangkalan Batu körzetben. Szoros közösség és mezőgazdaság által dominált táj jellemzi.",
@@ -1756,7 +1768,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-bebuloh-cities-v2",
     type: "village",
     name: { de: "Bebuloh", hu: "Bebuloh", ro: "Bebuloh", en: "Bebuloh" },
-    coordinates: { lat: 4.815, lng: 114.795 },
+    coords: [114.795, 4.815],
     description: {
       de: "Ein Grenzdorf im fernen Südwesten des Bezirks Brunei-Muara. Es ist eine ruhige Siedlung, die hauptsächlich von der Landwirtschaft lebt.",
       hu: "Határmenti falu Brunei-Muara körzet távoli délnyugati részén. Csendes település, amely főként mezőgazdaságból él.",
@@ -1787,7 +1799,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-menunggol-cities-v2",
     type: "village",
     name: { de: "Menunggol", hu: "Menunggol", ro: "Menunggol", en: "Menunggol" },
-    coordinates: { lat: 4.875, lng: 115.025 },
+    coords: [115.025, 4.875],
     description: {
       de: "Ein einzigartiges Inseldorf auf Pulau Berambang in der Bucht von Brunei. Die Bewohner sind stark auf den Wassertransport angewiesen, um das Festland zu erreichen.",
       hu: "Egyedülálló szigeti falu a Brunei-öbölben található Pulau Berambang szigeten. A lakók erősen függenek a vízi közlekedéstől a szárazföld eléréséhez.",
@@ -1818,7 +1830,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-pulaie-cities-v2",
     type: "village",
     name: { de: "Pulaie", hu: "Pulaie", ro: "Pulaie", en: "Pulaie" },
-    coordinates: { lat: 4.915, lng: 114.952 },
+    coords: [114.952, 4.915],
     description: {
       de: "Ein Wohnviertel im Bezirk Berakas, das zentral zwischen dem Flughafen und der Stadt liegt. Es beherbergt eine Mischung aus Regierungsangestellten und Privatleuten.",
       hu: "Lakónegyed Berakas körzetében, amely központilag a repülőtér és a város között helyezkedik el. Állami alkalmazottak és magánszemélyek vegyesen lakják.",
@@ -1849,7 +1861,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "brunei-serusop-cities-v2",
     type: "village",
     name: { de: "Serusop", hu: "Serusop", ro: "Serusop", en: "Serusop" },
-    coordinates: { lat: 4.932, lng: 114.953 },
+    coords: [114.953, 4.932],
     description: {
       de: "Eines der belebtesten Geschäftsviertel von Bandar Seri Begawan. Serusop ist berühmt für seine vielfältigen gastronomischen Angebote und Boutiquen.",
       hu: "Bandar Seri Begawan egyik legforgalmasabb kereskedelmi negyede. Serusop híres változatos gasztronómiai kínálatáról és butikjairól.",

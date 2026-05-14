@@ -1146,7 +1146,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-rio-do-ouro-history-v2",
     type: "ruins",
     name: { de: "Roça Rio do Ouro", hu: "Roça Rio do Ouro", ro: "Roça Rio do Ouro", en: "Roça Rio do Ouro" },
-    coordinates: { lat: 0.3642, lng: 6.6415 },
+    coords: [6.6415, 0.3642],
     description: {
       de: "Ehemalige Plantage Rio do Ouro, heute ein Denkmal der Kolonialzeit. Das Herrenhaus zeigt den Reichtum des Kakao-Booms im 19. Jahrhundert.",
       hu: "A Rio do Ouro ültetvény maradványai a gyarmati korszak fontos emléke. A kúria a 19. századi kakaótermelés gazdagságát tükrözi.",
@@ -1165,7 +1165,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-bela-vista-history-v2",
     type: "landmark",
     name: { de: "Roça Bela Vista", hu: "Roça Bela Vista", ro: "Roça Bela Vista", en: "Roça Bela Vista" },
-    coordinates: { lat: 0.3412, lng: 6.6854 },
+    coords: [6.6854, 0.3412],
     description: {
       de: "Historische Roça mit einem gut erhaltenen Herrenhaus und weitem Blick. Sie diente als administratives Zentrum für die umliegenden Kakaofelder.",
       hu: "Történelmi ültetvény jól megőrzött kúriával és tágas kilátással. A környező kakaóföldek adminisztratív központjaként szolgált.",
@@ -1184,7 +1184,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-generalina-history-v2",
     type: "ruins",
     name: { de: "Roça Generalina", hu: "Roça Generalina", ro: "Roça Generalina", en: "Roça Generalina" },
-    coordinates: { lat: 0.2856, lng: 6.5512 },
+    coords: [6.5512, 0.2856],
     description: {
       de: "Abgelegene historische Plantage im Südwesten der Insel. Die Ruinen zeugen von der harten Arbeit und der Logistik des Kakaotransports.",
       hu: "Távoli történelmi ültetvény a sziget délnyugati részén. A romok a kakaószállítás nehéz munkájáról és logisztikájáról tanúskodnak.",
@@ -1203,7 +1203,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-saudade-history-v2",
     type: "museum",
     name: { de: "Roça Saudade", hu: "Roça Saudade", ro: "Roça Saudade", en: "Roça Saudade" },
-    coordinates: { lat: 0.3012, lng: 6.6434 },
+    coords: [6.6434, 0.3012],
     description: {
       de: "Geburtsort des Malers Almada Negreiros. Die Roça beherbergt heute ein Museum und ein Restaurant in einem historischen Ambiente.",
       hu: "Almada Negreiros festőművész szülőhelye. Az ültetvény ma múzeumnak és étteremnek ad otthont történelmi környezetben.",
@@ -1222,7 +1222,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-java-history-v2",
     type: "ruins",
     name: { de: "Roça Java", hu: "Roça Java", ro: "Roça Java", en: "Roça Java" },
-    coordinates: { lat: 0.2541, lng: 6.6321 },
+    coords: [6.6321, 0.2541],
     description: {
       de: "Eine hochgelegene Roça, die für ihren Kaffee bekannt war. Die Überreste der Trockenterrassen bieten einen Einblick in die Produktionstechniken.",
       hu: "Magasan fekvő ültetvény, amely kávéjáról volt ismert. A szárítóteraszok maradványai betekintést nyújtanak a termelési technikákba.",
@@ -1241,7 +1241,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-mestre-caetano-history-v2",
     type: "landmark",
     name: { de: "Roça Mestre Caetano", hu: "Roça Mestre Caetano", ro: "Roça Mestre Caetano", en: "Roça Mestre Caetano" },
-    coordinates: { lat: 0.3821, lng: 6.6712 },
+    coords: [6.6712, 0.3821],
     description: {
       de: "Ein historisches Anwesen im Norden, das eine zentrale Rolle in der lokalen Landwirtschaft spielte. Die Architektur ist typisch für kleine Roças.",
       hu: "Északi történelmi birtok, amely központi szerepet játszott a helyi mezőgazdaságban. Építészete a kis ültetvényekre jellemző.",
@@ -1260,7 +1260,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-anselmo-andrade-history-v2",
     type: "ruins",
     name: { de: "Roça Anselmo Andrade", hu: "Roça Anselmo Andrade", ro: "Roça Anselmo Andrade", en: "Roça Anselmo Andrade" },
-    coordinates: { lat: 0.2452, lng: 6.5012 },
+    coords: [6.5012, 0.2452],
     description: {
       de: "Eine einsame Ruine an der Westküste, die einst eine blühende Plantage war. Sie verdeutlicht die Expansion der Landwirtschaft in wilde Gebiete.",
       hu: "Magányos rom a nyugati parton, amely egykor virágzó ültetvény volt. A mezőgazdaság vad területekre való kiterjedését szemlélteti.",
@@ -1279,7 +1279,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-diogo-nunes-history-v2",
     type: "landmark",
     name: { de: "Roça Diogo Nunes", hu: "Roça Diogo Nunes", ro: "Roça Diogo Nunes", en: "Roça Diogo Nunes" },
-    coordinates: { lat: 0.1523, lng: 6.7412 },
+    coords: [6.7412, 0.1523],
     description: {
       de: "Eine historische Plantage im Osten, die für ihre Palmenhaine bekannt war. Die Gebäude zeigen maritime Einflüsse in der Gestaltung.",
       hu: "Keleti történelmi ültetvény, amely pálmaligeteiről volt ismert. Az épületek tengeri hatásokat mutatnak a kialakításban.",
@@ -1298,7 +1298,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-nova-olinda-history-v2",
     type: "ruins",
     name: { de: "Roça Nova Olinda", hu: "Roça Nova Olinda", ro: "Roça Nova Olinda", en: "Roça Nova Olinda" },
-    coordinates: { lat: 0.1021, lng: 6.6543 },
+    coords: [6.6543, 0.1021],
     description: {
       de: "Eine ehemals produktive Roça im tiefen Süden der Insel. Die Ruinen umfassen alte Lagerhäuser und Wohnquartiere der Arbeiter.",
       hu: "Egykor termelékeny ültetvény a sziget mélyén, délen. A romok között régi raktárak és munkásszállások találhatók.",
@@ -1317,7 +1317,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-monte-forte-history-v2",
     type: "ruins",
     name: { de: "Roça Monte Forte", hu: "Roça Monte Forte", ro: "Roça Monte Forte", en: "Roça Monte Forte" },
-    coordinates: { lat: 0.4012, lng: 6.5741 },
+    coords: [6.5741, 0.4012],
     description: {
       de: "Eine erhöht gelegene Roça im Nordwesten, die ihren Namen der festungsähnlichen Struktur verdankt. Sie kontrollierte weite Landstriche.",
       hu: "Északnyugati, magaslaton fekvő ültetvény, amely nevét erőd szerű szerkezetéről kapta. Hatalmas területeket felügyelt.",
@@ -1336,7 +1336,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-queluz-history-v2",
     type: "landmark",
     name: { de: "Roça Queluz", hu: "Roça Queluz", ro: "Roça Queluz", en: "Roça Queluz" },
-    coordinates: { lat: 0.3152, lng: 6.6912 },
+    coords: [6.6912, 0.3152],
     description: {
       de: "Benannt nach dem portugiesischen Palast, war diese Roça ein Zentrum der Eleganz und Produktion. Die zentrale Allee ist noch erkennbar.",
       hu: "A portugál palotáról elnevezett ültetvény az elegancia és a termelés központja volt. A központi fasor még ma is felismerhető.",
@@ -1355,7 +1355,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-micondo-history-v2",
     type: "ruins",
     name: { de: "Roça Micondo", hu: "Roça Micondo", ro: "Roça Micondo", en: "Roça Micondo" },
-    coordinates: { lat: 0.1843, lng: 6.7512 },
+    coords: [6.7512, 0.1843],
     description: {
       de: "Direkt am Meer gelegene Plantagenruine, die für den Export per Schiff wichtig war. Die Wellen schlagen heute gegen die alten Kaimauern.",
       hu: "Közvetlenül a tengerparton fekvő ültetvényrom, amely fontos volt a hajós exporthoz. A hullámok ma a régi rakpartfalakat mossák.",
@@ -1374,7 +1374,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-granja-history-v2",
     type: "landmark",
     name: { de: "Roça Granja", hu: "Roça Granja", ro: "Roça Granja", en: "Roça Granja" },
-    coordinates: { lat: 0.3954, lng: 6.7012 },
+    coords: [6.7012, 0.3954],
     description: {
       de: "Eine Modell-Farm der Kolonialzeit im Norden. Sie diente zur Erprobung neuer Anbaumethoden für tropische Früchte und Kaffee.",
       hu: "Gyarmati mintafarm a sziget északi részén. Trópusi gyümölcsök és a kávé új termesztési módszereinek tesztelésére szolgált.",
@@ -1393,7 +1393,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-mendes-da-silva-history-v2",
     type: "ruins",
     name: { de: "Roça Mendes da Silva", hu: "Roça Mendes da Silva", ro: "Roça Mendes da Silva", en: "Roça Mendes da Silva" },
-    coordinates: { lat: 0.2212, lng: 6.7341 },
+    coords: [6.7341, 0.2212],
     description: {
       de: "Eine bedeutende historische Plantage im Osten. Die massiven Steinstrukturen der Fabrik zeugen von der industriellen Dimension der Kakaoproduktion.",
       hu: "Jelentős történelmi ültetvény keleten. A gyár masszív kőszerkezetei a kakaótermelés ipari méreteiről tanúskodnak.",
@@ -1412,7 +1412,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-claudino-faro-history-v2",
     type: "landmark",
     name: { de: "Roça Claudino Faro", hu: "Roça Claudino Faro", ro: "Roça Claudino Faro", en: "Roça Claudino Faro" },
-    coordinates: { lat: 0.2812, lng: 6.6743 },
+    coords: [6.6743, 0.2812],
     description: {
       de: "Eine der architektonisch interessantesten Roças im Zentrum der Insel. Die Gebäude sind terrassenförmig an den Hang gebaut.",
       hu: "Az egyik építészetileg legérdekesebb ültetvény a sziget közepén. Az épületek teraszos elrendezésben épültek a domboldalra.",
@@ -1431,7 +1431,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-pedroma-history-v2",
     type: "ruins",
     name: { de: "Roça Pedroma", hu: "Roça Pedroma", ro: "Roça Pedroma", en: "Roça Pedroma" },
-    coordinates: { lat: 0.2941, lng: 6.6621 },
+    coords: [6.6621, 0.2941],
     description: {
       de: "Versteckte Ruinen einer Roça, die für ihre hochwertigen Kakaobohnen bekannt war. Heute ist der Ort weitgehend vom Dschungel zurückerobert.",
       hu: "Egy ültetvény rejtett romjai, amely kiváló minőségű kakaóbabjairól volt ismert. Mára a dzsungel nagyrészt visszahódította.",
@@ -1450,7 +1450,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-chimbui-history-v2",
     type: "ruins",
     name: { de: "Roça Chimbui", hu: "Roça Chimbui", ro: "Roça Chimbui", en: "Roça Chimbui" },
-    coordinates: { lat: 0.2012, lng: 6.4854 },
+    coords: [6.4854, 0.2012],
     description: {
       de: "Historische Plantage an der wilden Westküste. Die isolierte Lage erforderte eine autarke Versorgung und eigene Werkstätten.",
       hu: "Történelmi ültetvény a vad nyugati parton. Az elszigetelt fekvés önellátást és saját műhelyeket igényelt.",
@@ -1469,7 +1469,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-emilia-history-v2",
     type: "landmark",
     name: { de: "Roça Emília", hu: "Roça Emília", ro: "Roça Emília", en: "Roça Emília" },
-    coordinates: { lat: 0.1412, lng: 6.5212 },
+    coords: [6.5212, 0.1412],
     description: {
       de: "Eine charmante kleine Roça im Südwesten, die für ihre Gastfreundschaft und Gartenanlagen bekannt war. Teile des Haupthauses sind bewohnt.",
       hu: "Bájos kis ültetvény délnyugaton, amely vendégszeretetéről és kertjeiről volt ismert. A kúria egy része ma is lakott.",
@@ -1488,7 +1488,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-prado-history-v2",
     type: "ruins",
     name: { de: "Roça Prado", hu: "Roça Prado", ro: "Roça Prado", en: "Roça Prado" },
-    coordinates: { lat: 0.3912, lng: 6.6212 },
+    coords: [6.6212, 0.3912],
     description: {
       de: "Historische Viehzuchtstation und Plantage im Norden. Sie lieferte Fleisch und Arbeitskraft für die großen Kakaoplantagen der Region.",
       hu: "Történelmi állattenyésztő állomás és ültetvény északon. Húst és munkaerőt biztosított a régió nagy kakaóültetvényei számára.",
@@ -1507,7 +1507,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-ribeira-funda-history-v2",
     type: "ruins",
     name: { de: "Roça Ribeira Funda", hu: "Roça Ribeira Funda", ro: "Roça Ribeira Funda", en: "Roça Ribeira Funda" },
-    coordinates: { lat: 0.3812, lng: 6.5243 },
+    coords: [6.5243, 0.3812],
     description: {
       de: "Tief in einem Tal gelegene Ruine im Nordwesten. Der Ort war bekannt für seine schwierigen Transportwege und die dichte Vegetation.",
       hu: "Völgy mélyén fekvő rom északnyugaton. A hely híres volt nehéz közlekedési útvonalairól és sűrű vegetációjáról.",
@@ -1526,7 +1526,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-binda-history-v2",
     type: "ruins",
     name: { de: "Roça Bindá", hu: "Roça Bindá", ro: "Roça Bindá", en: "Roça Bindá" },
-    coordinates: { lat: 0.2254, lng: 6.4512 },
+    coords: [6.4512, 0.2254],
     description: {
       de: "Verlassene Plantage an der extremen Westküste. Die raue See und der Urwald haben die meisten Gebäude in romantische Ruinen verwandelt.",
       hu: "Elhagyatott ültetvény a szélső nyugati parton. A zord tenger és az őserdő az épületek nagy részét romantikus rommá változtatta.",
@@ -1545,7 +1545,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-jou-history-v2",
     type: "landmark",
     name: { de: "Roça Jou", hu: "Roça Jou", ro: "Roça Jou", en: "Roça Jou" },
-    coordinates: { lat: 0.2741, lng: 6.6112 },
+    coords: [6.6112, 0.2741],
     description: {
       de: "Eine hochgelegene Roça im Herzen von São Tomé. Sie war strategisch wichtig für die Kontrolle des Wasserflusses zu den tieferen Plantagen.",
       hu: "Magasan fekvő ültetvény São Tomé szívében. Stratégiai jelentőségű volt az alacsonyabb ültetvények vízellátásának szabályozásában.",
@@ -1564,7 +1564,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-lemos-history-v2",
     type: "landmark",
     name: { de: "Roça Lemos", hu: "Roça Lemos", ro: "Roça Lemos", en: "Roça Lemos" },
-    coordinates: { lat: 0.3212, lng: 6.7241 },
+    coords: [6.7241, 0.3212],
     description: {
       de: "Historisches Anwesen nahe der Hauptstadt, das für seine Architektur und die Nähe zum Hafen geschätzt wurde. Heute ein lebendiges Viertel.",
       hu: "A fővároshoz közeli történelmi birtok, amelyet építészete és a kikötő közelsége miatt becsültek. Ma nyüzsgő városnegyed.",
@@ -1583,7 +1583,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-caridade-history-v2",
     type: "ruins",
     name: { de: "Roça Caridade", hu: "Roça Caridade", ro: "Roça Caridade", en: "Roça Caridade" },
-    coordinates: { lat: 0.1212, lng: 6.5541 },
+    coords: [6.5541, 0.1212],
     description: {
       de: "Eine abgelegene Plantage im Südwesten, die für ihre soziale Struktur und Wohltätigkeit bekannt war. Die Kapelle ist noch teilweise erhalten.",
       hu: "Távoli ültetvény délnyugaton, amely szociális struktúrájáról és jótékonyságáról volt ismert. A kápolna ma is részben áll.",
@@ -1602,7 +1602,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-gratidao-history-v2",
     type: "landmark",
     name: { de: "Roça Gratidão", hu: "Roça Gratidão", ro: "Roça Gratidão", en: "Roça Gratidão" },
-    coordinates: { lat: 1.6512, lng: 7.4241 },
+    coords: [7.4241, 1.6512],
     description: {
       de: "Historische Roça auf der Insel Príncipe, die für ihre Palmenölproduktion bedeutend war. Das Haupthaus bietet einen Blick über den Norden der Insel.",
       hu: "Történelmi ültetvény Príncipe szigetén, amely pálmaolaj-termeléséről volt nevezetes. A kúria kilátást nyújt a sziget északi részére.",
@@ -1621,7 +1621,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-lucinda-history-v2",
     type: "ruins",
     name: { de: "Roça Lucinda", hu: "Roça Lucinda", ro: "Roça Lucinda", en: "Roça Lucinda" },
-    coordinates: { lat: 1.5841, lng: 7.3812 },
+    coords: [7.3812, 1.5841],
     description: {
       de: "Eine malerische Ruine auf Príncipe, umgeben von dichtem Urwald. Sie war einst ein wichtiger Produzent von Gewürzen und Kakao.",
       hu: "Gleccserkori maradványok és romok Príncipe szigetén, sűrű őserdővel körülvéve. Egykor fontos fűszer- és kakaótermelő volt.",
@@ -1640,7 +1640,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-maria-luisa-history-v2",
     type: "landmark",
     name: { de: "Roça Maria Luísa", hu: "Roça Maria Luísa", ro: "Roça Maria Luísa", en: "Roça Maria Luísa" },
-    coordinates: { lat: 1.6152, lng: 7.4543 },
+    coords: [7.4543, 1.6152],
     description: {
       de: "Eine historische Roça im Osten von Príncipe. Die Architektur besticht durch elegante Veranden und eine symmetrische Gartenanlage.",
       hu: "Keleti történelmi ültetvény Príncipén. Építészete elegáns verandákkal és szimmetrikus kertekkel hívja fel magára a figyelmet.",
@@ -1659,7 +1659,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-vila-elvira-history-v2",
     type: "ruins",
     name: { de: "Roça Vila Elvira", hu: "Roça Vila Elvira", ro: "Roça Vila Elvira", en: "Roça Vila Elvira" },
-    coordinates: { lat: 1.6312, lng: 7.3512 },
+    coords: [7.3512, 1.6312],
     description: {
       de: "Historische Plantage im Nordwesten von Príncipe. Sie war bekannt für ihre fortschrittlichen Bewässerungssysteme und die Hanglage.",
       hu: "Északnyugati történelmi ültetvény Príncipén. Fejlett öntözőrendszereiről és hegyoldali fekvéséről volt ismert.",
@@ -1678,7 +1678,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-santa-cruz-history-v2",
     type: "landmark",
     name: { de: "Roça Santa Cruz", hu: "Roça Santa Cruz", ro: "Roça Santa Cruz", en: "Roça Santa Cruz" },
-    coordinates: { lat: 1.6641, lng: 7.4112 },
+    coords: [7.4112, 1.6641],
     description: {
       de: "Eine der nördlichsten Roças auf Príncipe. Ihre Geschichte ist eng mit der Evangelisierung und dem sozialen Leben der Insel verbunden.",
       hu: "Az egyik legészakibb ültetvény Príncipén. Története szorosan összefonódik az evangelizációval és a sziget társadalmi életével.",
@@ -1697,7 +1697,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
     id: "saotomeandprincipe-roca-sao-januario-history-v2",
     type: "ruins",
     name: { de: "Roça São Januário", hu: "Roça São Januário", ro: "Roça São Januário", en: "Roça São Januário" },
-    coordinates: { lat: 1.5543, lng: 7.4312 },
+    coords: [7.4312, 1.5543],
     description: {
       de: "Versteckte Plantage im südlichen Príncipe. Die massiven Mauern aus lokalem Stein sind beeindruckende Beispiele kolonialer Handwerkskunst.",
       hu: "Rejtett ültetvény Príncipe déli részén. A helyi kőből épült masszív falak a gyarmati kézművesség lenyűgöző példái.",

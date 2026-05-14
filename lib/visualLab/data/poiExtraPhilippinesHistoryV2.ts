@@ -848,7 +848,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-tabon-caves-history-v2",
     type: "ruins",
     name: { de: "Tabon-Höhlen", hu: "Tabon-barlangok", ro: "Peșterile Tabon", en: "Tabon Caves" },
-    coordinates: { lat: 9.2783, lng: 117.9867 },
+    coords: [117.9867, 9.2783],
     description: {
       de: "Diese archäologische Stätte in Palawan ist als Wiege der philippinischen Zivilisation bekannt. Hier wurden die ältesten menschlichen Überreste des Archipels gefunden.",
       hu: "Ez a palawani régészeti lelőhely a fülöp-szigeteki civilizáció bölcsőjeként ismert. Itt találták meg a szigetcsoport legősibb emberi maradványait.",
@@ -867,7 +867,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-fort-san-pedro-history-v2",
     type: "castle",
     name: { de: "Festung San Pedro", hu: "San Pedro erőd", ro: "Fortăreața San Pedro", en: "Fort San Pedro" },
-    coordinates: { lat: 10.2925, lng: 123.9058 },
+    coords: [123.9058, 10.2925],
     description: {
       de: "Diese dreieckige Bastion in Cebu City ist die älteste Verteidigungsanlage des Landes. Sie wurde von den Spaniern unter Miguel López de Legazpi errichtet.",
       hu: "Ez a Cebu Cityben található háromszögletű bástya az ország legrégebbi védműve. A spanyolok építették Miguel López de Legazpi vezetésével.",
@@ -886,7 +886,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-magellans-cross-history-v2",
     type: "monument",
     name: { de: "Magellan-Kreuz", hu: "Magellán keresztje", ro: "Crucea lui Magellan", en: "Magellan's Cross" },
-    coordinates: { lat: 10.2936, lng: 123.9019 },
+    coords: [123.9019, 10.2936],
     description: {
       de: "Dieses christliche Wahrzeichen markiert den Ort, an dem Ferdinand Magellan 1521 das erste Kreuz auf philippinischem Boden aufstellte. Es befindet sich in einem Pavillon in Cebu.",
       hu: "Ez a keresztény jelkép azt a helyet jelöli, ahol Ferdinand Magellán 1521-ben felállította az első keresztet a Fülöp-szigeteken. Egy cebu-i pavilonban található.",
@@ -905,7 +905,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-miagao-church-history-v2",
     type: "church",
     name: { de: "Kirche von Miagao", hu: "Miagao-templom", ro: "Biserica Miagao", en: "Miagao Church" },
-    coordinates: { lat: 10.6421, lng: 122.2356 },
+    coords: [122.2356, 10.6421],
     description: {
       de: "Diese UNESCO-Weltkulturerbestätte in Iloilo ist berühmt für ihre kunstvolle Fassade im Barockstil. Sie diente auch als Festung gegen Piratenangriffe.",
       hu: "Ez az Iloilo-ban található UNESCO világörökségi helyszín híres díszes barokk homlokzatáról. Erődként is szolgált a kalóztámadások ellen.",
@@ -924,7 +924,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-cagsawa-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Cagsawa", hu: "Cagsawa romok", ro: "Ruinele Cagsawa", en: "Cagsawa Ruins" },
-    coordinates: { lat: 13.1792, lng: 123.6888 },
+    coords: [123.6888, 13.1792],
     description: {
       de: "Die Überreste einer Franziskanerkirche aus dem 18. Jahrhundert zeugen von der Zerstörungskraft des Vulkans Mayon. Nur der Glockenturm ragt heute noch aus dem Boden.",
       hu: "A 18. századi ferences templom maradványai a Mayon-vulkán pusztító erejéről tanúskodnak. Ma már csak a harangtorony emelkedik ki a földből.",
@@ -943,7 +943,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-fort-pilar-history-v2",
     type: "castle",
     name: { de: "Festung Pilar", hu: "Pilar erőd", ro: "Fortăreața Pilar", en: "Fort Pilar" },
-    coordinates: { lat: 6.9004, lng: 122.0811 },
+    coords: [122.0811, 6.9004],
     description: {
       de: "Diese spanische Militärfestung aus dem 17. Jahrhundert in Zamboanga City schützte den Süden vor Angriffen. Heute beherbergt sie ein Nationalmuseum.",
       hu: "Ez a 17. századi spanyol katonai erőd Zamboanga Cityben védte a déli területeket a támadásoktól. Ma a Nemzeti Múzeumnak ad otthont.",
@@ -962,7 +962,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-santa-maria-church-history-v2",
     type: "church",
     name: { de: "Kirche Santa Maria", hu: "Santa Maria templom", ro: "Biserica Santa Maria", en: "Santa Maria Church" },
-    coordinates: { lat: 17.3659, lng: 120.4828 },
+    coords: [120.4828, 17.3659],
     description: {
       de: "Diese UNESCO-Barockkirche in Ilocos Sur steht auf einem Hügel und diente früher als Festung. Sie ist über eine beeindruckende Treppe mit 85 Stufen erreichbar.",
       hu: "Ez az Ilocos Sur-ban található UNESCO barokk templom egy dombtetőn áll, és korábban erődként is szolgált. Egy impozáns, 85 fokos lépcsőn érhető el.",
@@ -981,7 +981,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-baclayon-church-history-v2",
     type: "church",
     name: { de: "Kirche von Baclayon", hu: "Baclayon templom", ro: "Biserica Baclayon", en: "Baclayon Church" },
-    coordinates: { lat: 9.6225, lng: 123.9118 },
+    coords: [123.9118, 9.6225],
     description: {
       de: "Die Unbefleckte Empfängnis Kirche in Bohol ist eine der ältesten Kirchen des Landes aus Korallenstein. Sie beherbergt ein Museum mit jahrhundertealter religiöser Kunst.",
       hu: "A Bohol szigetén található Szeplőtelen Fogantatás templom az ország egyik legrégebbi korallkőből készült temploma. Több évszázados vallási műtárgyakat őriz.",
@@ -1000,7 +1000,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-basilica-del-santo-nino-history-v2",
     type: "cathedral",
     name: { de: "Basilika des Heiligen Kindes", hu: "Santo Niño bazilika", ro: "Bazilica del Santo Niño", en: "Basilica del Santo Niño" },
-    coordinates: { lat: 10.2938, lng: 123.9018 },
+    coords: [123.9018, 10.2938],
     description: {
       de: "Diese Basilika in Cebu City beherbergt die älteste christliche Statue der Philippinen. Sie wurde an der Stelle errichtet, an der die Statue 1565 gefunden wurde.",
       hu: "Ez a Cebu Cityben található bazilika őrzi a Fülöp-szigetek legrégebbi keresztény szobrát. Azon a helyen épült, ahol a szobrot 1565-ben megtalálták.",
@@ -1019,7 +1019,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-nagcarlan-underground-cemetery-history-v2",
     type: "landmark",
     name: { de: "Untergrundfriedhof von Nagcarlan", hu: "Nagcarlani földalatti temető", ro: "Cimitirul subteran Nagcarlan", en: "Nagcarlan Underground Cemetery" },
-    coordinates: { lat: 14.1311, lng: 121.4144 },
+    coords: [121.4144, 14.1311],
     description: {
       de: "Dieser einzigartige unterirdische Friedhof in Laguna diente während der philippinischen Revolution als geheimer Treffpunkt für Widerstandskämpfer.",
       hu: "Ez az egyedülálló földalatti temető Lagunában a fülöp-szigeteki forradalom idején az ellenállók titkos találkozóhelyeként szolgált.",
@@ -1038,7 +1038,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-taal-basilica-history-v2",
     type: "cathedral",
     name: { de: "Basilika von Taal", hu: "Taali bazilika", ro: "Bazilica din Taal", en: "Taal Basilica" },
-    coordinates: { lat: 13.8821, lng: 120.9242 },
+    coords: [120.9242, 13.8821],
     description: {
       de: "Die Basilika St. Martin von Tours ist die größte katholische Kirche in Asien. Sie steht im historischen Zentrum der Stadt Taal auf einem Hügel.",
       hu: "A Szent Márton-bazilika Ázsia legnagyobb katolikus temploma. Taal történelmi központjában, egy dombon áll.",
@@ -1057,7 +1057,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-baler-church-history-v2",
     type: "church",
     name: { de: "Kirche von Baler", hu: "Baleri templom", ro: "Biserica din Baler", en: "Baler Church" },
-    coordinates: { lat: 15.7592, lng: 121.5619 },
+    coords: [121.5619, 15.7592],
     description: {
       de: "Diese Kirche war Schauplatz der Belagerung von Baler, bei der sich die letzte spanische Garnison fast ein Jahr lang gegen philippinische Truppen hielt.",
       hu: "Ez a templom volt a baleri ostrom helyszíne, ahol az utolsó spanyol helyőrség csaknem egy éven át tartotta magát a fülöp-szigeteki csapatok ellen.",
@@ -1076,7 +1076,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-pinaglabanan-shrine-history-v2",
     type: "monument",
     name: { de: "Pinaglabanan-Schrein", hu: "Pinaglabanan emlékmű", ro: "Sanctuarul Pinaglabanan", en: "Pinaglabanan Shrine" },
-    coordinates: { lat: 14.6042, lng: 121.0319 },
+    coords: [121.0319, 14.6042],
     description: {
       de: "Dieser Schrein in San Juan erinnert an die erste Schlacht der philippinischen Revolution gegen Spanien im Jahr 1896 um ein Waffenlager.",
       hu: "Ez a San Juan-ban található emlékmű a fülöp-szigeteki forradalom első, 1896-os, egy fegyverraktárért vívott csatájának állít emléket.",
@@ -1095,7 +1095,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-capas-national-shrine-history-v2",
     type: "monument",
     name: { de: "Nationaler Schrein von Capas", hu: "Capas nemzeti emlékhely", ro: "Sanctuarul Național Capas", en: "Capas National Shrine" },
-    coordinates: { lat: 15.3508, lng: 120.4504 },
+    coords: [120.4504, 15.3508],
     description: {
       de: "Dieses Mahnmal in Tarlac erinnert an die Opfer des Todesmarsches von Bataan und steht auf dem Gelände des ehemaligen Gefangenenlagers Camp O'Donnell.",
       hu: "Ez a tarlaci emlékmű a bataani halálmenet áldozataira emlékeztet az egykori Camp O'Donnell hadifogolytábor területén.",
@@ -1114,7 +1114,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-butuan-balangay-sites-history-v2",
     type: "ruins",
     name: { de: "Balangay-Ausgrabungsstätte", hu: "Butuani balangay lelőhely", ro: "Situl arheologic Butuan", en: "Butuan Balangay Sites" },
-    coordinates: { lat: 8.9511, lng: 125.5311 },
+    coords: [125.5311, 8.9511],
     description: {
       de: "In Butuan wurden mehrere antike 'Balangay'-Holzboote entdeckt, die den frühen Handel und die maritimen Fähigkeiten der Filipinos vor der spanischen Zeit belegen.",
       hu: "Butuanban számos ősi 'balangay' fűzött fahajót fedeztek fel, amelyek a spanyol kor előtti filippínók kereskedelmét és tengeri jártasságát bizonyítják.",
@@ -1133,7 +1133,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-panay-church-history-v2",
     type: "church",
     name: { de: "Kirche von Panay", hu: "Panay-i templom", ro: "Biserica din Panay", en: "Panay Church" },
-    coordinates: { lat: 11.5836, lng: 122.7881 },
+    coords: [122.7881, 11.5836],
     description: {
       de: "Die Kirche Santa Monica in Panay beherbergt die größte Glocke Asiens. Sie wurde aus 70 Säcken mit Goldmünzen gegossen, die die Bewohner spendeten.",
       hu: "A Panay-i Szent Mónika-templom Ázsia legnagyobb harangjának ad otthont. A lakosok által adományozott 70 zsák aranypénzből öntötték.",
@@ -1152,7 +1152,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-bantay-bell-tower-history-v2",
     type: "tower",
     name: { de: "Glockenturm von Bantay", hu: "Bantay harangtorony", ro: "Turnul Bantay", en: "Bantay Bell Tower" },
-    coordinates: { lat: 17.5811, lng: 120.3914 },
+    coords: [120.3914, 17.5811],
     description: {
       de: "Dieser markante Backsteinturm in Ilocos Sur diente sowohl als Glockenturm der Kirche als auch als Wachturm gegen herannahende Feinde und Piraten.",
       hu: "Ez a jellegzetes tufa- és téglatorony Ilocos Surban a templom harangtornyaként és ellenséges erők elleni őrtoronyként is szolgált.",
@@ -1171,7 +1171,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-daraga-church-history-v2",
     type: "church",
     name: { de: "Kirche von Daraga", hu: "Daraga-templom", ro: "Biserica Daraga", en: "Daraga Church" },
-    coordinates: { lat: 13.1508, lng: 123.7119 },
+    coords: [123.7119, 13.1508],
     description: {
       de: "Die Kirche Unserer Lieben Frau vom Tor steht auf einem Hügel in Albay und wurde von den Franziskanern nach der Zerstörung von Cagsawa errichtet.",
       hu: "A Daragában található 'Miasszonyunk a Kapunál' templom egy dombon áll Albanyban; a ferencesek építették a Cagsawa-i pusztulás után.",
@@ -1190,7 +1190,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-kabayan-mummy-caves-history-v2",
     type: "ruins",
     name: { de: "Mumienhöhlen von Kabayan", hu: "Kabayan múmiabarlangok", ro: "Peșterile cu mumii din Kabayan", en: "Kabayan Mummy Caves" },
-    coordinates: { lat: 16.6111, lng: 120.8242 },
+    coords: [120.8242, 16.6111],
     description: {
       de: "Diese Höhlen in Benguet beherbergen die 'Feuermumien' des Ibaloi-Volkes, die durch einen komplexen und monatelangen Räucherprozess konserviert wurden.",
       hu: "Ezek a bengueti barlangok az ibaloi nép 'tűzmúmiáit' őrzik, amelyeket egy bonyolult, hónapokig tartó füstölési eljárással konzerváltak.",
@@ -1209,7 +1209,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-angono-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Petroglyphen von Angono", hu: "Angonoi sziklarajzok", ro: "Petroglifele din Angono", en: "Angono Petroglyphs" },
-    coordinates: { lat: 14.5319, lng: 121.1786 },
+    coords: [121.1786, 14.5319],
     description: {
       de: "Dies ist das älteste bekannte Kunstwerk auf den Philippinen. Es handelt sich um 127 in den Fels gravierte Figuren von Menschen und Tieren.",
       hu: "Ez a Fülöp-szigetek legrégebbi ismert műalkotása. 127 sziklába vésett emberi és állati alakot tartalmaz.",
@@ -1228,7 +1228,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-makhdum-mosque-history-v2",
     type: "landmark",
     name: { de: "Moschee von Scheich Karim al Makhdum", hu: "Makhdum sejk mecset", ro: "Moscheea Sheik Karimal Makdum", en: "Sheik Karimal Makdum Mosque" },
-    coordinates: { lat: 4.8821, lng: 119.8219 },
+    coords: [119.8219, 4.8821],
     description: {
       de: "Dies ist die älteste Moschee der Philippinen und markiert den Beginn des Islam im Land. Sie befindet sich auf der Insel Simunul in Tawi-Tawi.",
       hu: "Ez a Fülöp-szigetek legrégebbi mecsete, amely az iszlám kezdetét jelzi az országban. A Tawi-Tawi tartománybeli Simunul szigetén található.",
@@ -1247,7 +1247,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-paco-park-history-v2",
     type: "park",
     name: { de: "Paco-Park", hu: "Paco park", ro: "Parcul Paco", en: "Paco Park" },
-    coordinates: { lat: 14.5819, lng: 120.9881 },
+    coords: [120.9881, 14.5819],
     description: {
       de: "Dieser kreisförmige Park in Manila war ursprünglich ein spanischer Friedhof. Er ist bekannt als die erste Ruhestätte des Nationalhelden Jose Rizal.",
       hu: "Ez a manilai kör alakú park eredetileg spanyol temető volt. Jose Rizal nemzeti hős első nyughelyeként ismert.",
@@ -1266,7 +1266,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-metropolitan-theater-history-v2",
     type: "theater",
     name: { de: "Metropolitan Theater von Manila", hu: "Metropolitan Színház", ro: "Teatrul Metropolitan din Manila", en: "Manila Metropolitan Theater" },
-    coordinates: { lat: 14.5942, lng: 120.9804 },
+    coords: [120.9804, 14.5942],
     description: {
       de: "Dieses Art-Déco-Gebäude ist ein architektonisches Juwel Manilas. Es wurde von Juan Arellano entworfen und spiegelt die kulturelle Blütezeit der 1930er Jahre wider.",
       hu: "Ez az Art Deco épület Manila építészeti gyöngyszeme. Juan Arellano tervezte, és az 1930-as évek kulturális aranykorát tükrözi.",
@@ -1285,7 +1285,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-jimenez-church-history-v2",
     type: "church",
     name: { de: "Kirche von Jimenez", hu: "Jimenez templom", ro: "Biserica din Jimenez", en: "Jimenez Church" },
-    coordinates: { lat: 8.3342, lng: 123.8322 },
+    coords: [123.8322, 8.3342],
     description: {
       de: "Die Kirche San Juan Bautista in Misamis Occidental ist bekannt für ihre gut erhaltenen originalen Deckenfresken aus der spanischen Kolonialzeit.",
       hu: "A Misamis Occidental-ban található Keresztelő Szent János-templom jól megőrzött eredeti koloniális kori mennyezetfreskóiról híres.",
@@ -1304,7 +1304,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-lazi-convent-history-v2",
     type: "landmark",
     name: { de: "Kloster von Lazi", hu: "Lazi kolostor", ro: "Mănăstirea Lazi", en: "Lazi Convent" },
-    coordinates: { lat: 9.1278, lng: 123.6342 },
+    coords: [123.6342, 9.1278],
     description: {
       de: "Dieses riesige Kloster auf Siquijor gilt als eines der größten seiner Art in Asien. Es wurde aus Korallenstein und Hartholz errichtet.",
       hu: "Ez a hatalmas Siquijor-i kolostor Ázsia egyik legnagyobb ilyen típusú épülete. Korallkőből és keményfából épült.",
@@ -1323,7 +1323,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-dumaguete-belfry-history-v2",
     type: "tower",
     name: { de: "Glockenturm von Dumaguete", hu: "Dumaguetei harangtorony", ro: "Clopotnița din Dumaguete", en: "Dumaguete Belfry" },
-    coordinates: { lat: 9.3069, lng: 123.3086 },
+    coords: [123.3086, 9.3069],
     description: {
       de: "Der Glockenturm von Dumaguete ist das älteste Wahrzeichen der Stadt. Er diente früher als Wachturm, um die Stadt vor Piratenangriffen zu warnen.",
       hu: "A dumaguetei harangtorony a város legrégebbi jelképe. Korábban őrtoronyként szolgált, hogy figyelmeztesse a várost a kalóztámadásokra.",
@@ -1342,7 +1342,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-guiuan-church-history-v2",
     type: "church",
     name: { de: "Kirche von Guiuan", hu: "Guiuani templom", ro: "Biserica din Guiuan", en: "Guiuan Church" },
-    coordinates: { lat: 11.0319, lng: 125.7236 },
+    coords: [125.7236, 11.0319],
     description: {
       de: "Die Unbefleckte Empfängnis Kirche in Guiuan ist berühmt für ihre einzigartige Innenausstattung mit Muscheln und Korallen aus dem 18. Jahrhundert.",
       hu: "A guiuani Szeplőtelen Fogantatás templom híres egyedülálló, 18. századi kagylókkal és korallokkal díszített belső teréről.",
@@ -1361,7 +1361,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-dauis-church-history-v2",
     type: "church",
     name: { de: "Kirche von Dauis", hu: "Dauis-templom", ro: "Biserica Dauis", en: "Dauis Church" },
-    coordinates: { lat: 9.6286, lng: 123.8642 },
+    coords: [123.8642, 9.6286],
     description: {
       de: "Diese Kirche auf der Insel Panglao ist bekannt für einen Brunnen im Inneren des Altars, dessen Wasser heilende Kräfte nachgesagt werden.",
       hu: "Ez a Panglao-szigeti templom az oltár belsejében található kútról híres, melynek vizének gyógyító erőt tulajdonítanak.",
@@ -1380,7 +1380,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-loboc-church-history-v2",
     type: "ruins",
     name: { de: "Kirche von Loboc", hu: "Loboc-templom", ro: "Biserica Loboc", en: "Loboc Church" },
-    coordinates: { lat: 9.6419, lng: 124.0358 },
+    coords: [124.0358, 9.6419],
     description: {
       de: "Die Peterskirche in Loboc ist eine der ältesten Kirchen Bohols. Sie wurde 2013 durch ein Erdbeben schwer zerstört und ist heute ein Symbol der Resilienz.",
       hu: "A Loboc-i Szent Péter-templom Bohol egyik legrégebbi temploma. 2013-ban a földrengés súlyosan megrongálta, ma a kitartás jelképe.",
@@ -1399,7 +1399,7 @@ image: "/poi-images/rizal-shrine-dapitan-history-v2.webp"
     id: "philippines-pila-heritage-town-history-v2",
     type: "town",
     name: { de: "Historische Stadt Pila", hu: "Pila örökségvédelmi város", ro: "Orașul istoric Pila", en: "Pila Heritage Town" },
-    coordinates: { lat: 14.2342, lng: 121.3658 },
+    coords: [121.3658, 14.2342],
     description: {
       de: "Pila in Laguna ist eine der wenigen Städte, deren koloniale Stadtplanung mit zentralem Platz und Kirche fast vollständig erhalten geblieben ist.",
       hu: "A Lagunában található Pila egyike azon kevés városnak, ahol szinte teljesen megmaradt a központi térrel és templommal tervezett gyarmati városszerkezet.",

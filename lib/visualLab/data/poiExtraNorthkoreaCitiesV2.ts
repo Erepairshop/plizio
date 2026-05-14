@@ -966,7 +966,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-uiju-cities-v2",
     type: "city",
     name: { de: "Uiju", hu: "Idzsu", ro: "Uiju", en: "Uiju" },
-    coordinates: { lat: 40.198, lng: 124.532 },
+    coords: [124.532, 40.198],
     description: {
       de: "Uiju ist eine historische Grenzstadt am Ufer des Amnok-Flusses im Nordwesten des Landes.",
       hu: "Idzsu egy történelmi határváros az Amnok folyó partján, az ország északnyugati részén.",
@@ -985,7 +985,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kyongsong-cities-v2",
     type: "city",
     name: { de: "Kyongsong", hu: "Kjongszong", ro: "Kyongsong", en: "Kyongsong" },
-    coordinates: { lat: 41.588, lng: 129.607 },
+    coords: [129.607, 41.588],
     description: {
       de: "Kyongsong liegt in der Provinz Nord-Hamgyong und ist berühmt für seine Thermalquellen und Keramiktradition.",
       hu: "Kjongszong Észak-Hamgjong tartományban fekszik, híres termálforrásairól és kerámiahagyományairól.",
@@ -1004,7 +1004,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kilju-cities-v2",
     type: "city",
     name: { de: "Kilju", hu: "Kildzsu", ro: "Kilju", en: "Kilju" },
-    coordinates: { lat: 40.941, lng: 129.327 },
+    coords: [129.327, 40.941],
     description: {
       de: "Kilju ist ein bedeutender Verkehrsknotenpunkt und Industriestandort im Nordosten von Nordkorea.",
       hu: "Kildzsu egy jelentős közlekedési csomópont és ipari központ Észak-Korea északkeleti részén.",
@@ -1023,7 +1023,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-paegam-cities-v2",
     type: "town",
     name: { de: "Paegam", hu: "Pegam", ro: "Paegam", en: "Paegam" },
-    coordinates: { lat: 41.45, lng: 128.85 },
+    coords: [128.85, 41.45],
     description: {
       de: "Paegam ist eine abgelegene Bergstadt in der Provinz Ryanggang, bekannt für ihre raue Natur und Forstwirtschaft.",
       hu: "Pegam egy távoli hegyi város Rjanggang tartományban, amely zord természetéről és erdőgazdálkodásáról ismert.",
@@ -1042,7 +1042,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kapsan-cities-v2",
     type: "town",
     name: { de: "Kapsan", hu: "Kapszan", ro: "Kapsan", en: "Kapsan" },
-    coordinates: { lat: 41.09, lng: 128.3 },
+    coords: [128.3, 41.09],
     description: {
       de: "Kapsan ist eine historische Siedlung in der Provinz Ryanggang, die tief in der bergigen Wildnis liegt.",
       hu: "Kapszan egy történelmi település Rjanggang tartományban, mélyen a hegyvidéki vadonban.",
@@ -1061,7 +1061,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-onsong-cities-v2",
     type: "town",
     name: { de: "Onsong", hu: "Onszong", ro: "Onsong", en: "Onsong" },
-    coordinates: { lat: 42.95, lng: 129.98 },
+    coords: [129.98, 42.95],
     description: {
       de: "Onsong ist die nördlichste Stadt Nordkoreas und liegt direkt an der Grenze zu China am Tumen-Fluss.",
       hu: "Onszong Észak-Korea legészakibb városa, közvetlenül a kínai határon, a Tumen folyó mentén.",
@@ -1080,7 +1080,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-ryongchon-cities-v2",
     type: "town",
     name: { de: "Ryongchon", hu: "Rjongcshon", ro: "Ryongchon", en: "Ryongchon" },
-    coordinates: { lat: 39.89, lng: 124.45 },
+    coords: [124.45, 39.89],
     description: {
       de: "Ryongchon ist eine Industriestadt im Nordwesten, die nahe der Mündung des Yalu-Flusses in das Gelbe Meer liegt.",
       hu: "Rjongcshon egy északnyugati iparváros, amely az Amnok folyó Sárga-tengeri torkolatának közelében fekszik.",
@@ -1099,7 +1099,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-yomju-cities-v2",
     type: "town",
     name: { de: "Yomju", hu: "Jomdzsu", ro: "Yomju", en: "Yomju" },
-    coordinates: { lat: 39.81, lng: 124.61 },
+    coords: [124.61, 39.81],
     description: {
       de: "Yomju ist eine Küstenstadt in der Provinz Nord-Pyongan, die für ihre Salzgewinnung und Fischerei bekannt ist.",
       hu: "Jomdzsu egy parti város Észak-Phjongan tartományban, amely sólepárlásáról és halászatáról ismert.",
@@ -1118,7 +1118,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-pakchon-cities-v2",
     type: "town",
     name: { de: "Pakchon", hu: "Pakcshon", ro: "Pakchon", en: "Pakchon" },
-    coordinates: { lat: 39.71, lng: 125.65 },
+    coords: [125.65, 39.71],
     description: {
       de: "Pakchon ist eine Stadt in der Provinz Nord-Pyongan, die am Unterlauf des Taeryong-Flusses liegt.",
       hu: "Pakcshon egy város Észak-Phjongan tartományban, a Terjong folyó alsó szakaszánál.",
@@ -1137,7 +1137,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-nyongbyon-cities-v2",
     type: "city",
     name: { de: "Nyongbyon", hu: "Njongbjon", ro: "Nyongbyon", en: "Nyongbyon" },
-    coordinates: { lat: 39.83, lng: 125.75 },
+    coords: [125.75, 39.83],
     description: {
       de: "Nyongbyon ist eine geschichtsträchtige Stadt, die für ihre landschaftliche Schönheit und traditionelle Textilkunst bekannt ist.",
       hu: "Njongbjon egy gazdag múltú város, amely festői szépségéről és hagyományos textiliparáról ismert.",
@@ -1156,7 +1156,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-pyongwon-cities-v2",
     type: "town",
     name: { de: "Pyongwon", hu: "Phjongvon", ro: "Pyongwon", en: "Pyongwon" },
-    coordinates: { lat: 39.24, lng: 125.6 },
+    coords: [125.6, 39.24],
     description: {
       de: "Pyongwon ist eine landwirtschaftlich geprägte Stadt nördlich von Pjöngjang in der Provinz Süd-Pyongan.",
       hu: "Phjongvon egy mezőgazdasági jellegű város Phenjantól északra, Dél-Phjongan tartományban.",
@@ -1175,7 +1175,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-cholsan-cities-v2",
     type: "town",
     name: { de: "Cholsan", hu: "Csholszan", ro: "Cholsan", en: "Cholsan" },
-    coordinates: { lat: 39.76, lng: 124.66 },
+    coords: [124.66, 39.76],
     description: {
       de: "Cholsan liegt auf einer Halbinsel im Gelben Meer und ist ein bedeutender Stützpunkt für Fischerei und Industrie.",
       hu: "Csholszan a Sárga-tenger egyik félszigetén fekszik, a halászat és az ipar fontos bázisa.",
@@ -1194,7 +1194,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-pyonggang-cities-v2",
     type: "town",
     name: { de: "Pyonggang", hu: "Phjonggang", ro: "Pyonggang", en: "Pyonggang" },
-    coordinates: { lat: 38.41, lng: 127.3 },
+    coords: [127.3, 38.41],
     description: {
       de: "Pyonggang ist eine strategisch wichtige Stadt in der Provinz Kangwon, nahe der Demilitarisierten Zone.",
       hu: "Phjonggang egy stratégiailag fontos város Kangvon tartományban, a demilitarizált övezet közelében.",
@@ -1213,7 +1213,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-sepo-cities-v2",
     type: "town",
     name: { de: "Sepo", hu: "Szepho", ro: "Sepo", en: "Sepo" },
-    coordinates: { lat: 38.48, lng: 127.39 },
+    coords: [127.39, 38.48],
     description: {
       de: "Sepo ist ein wichtiger Verkehrsknotenpunkt in der Provinz Kangwon und bekannt für seine Viehzuchtprojekte.",
       hu: "Szepho egy fontos közlekedési csomópont Kangvon tartományban, állattenyésztési projektjeiről ismert.",
@@ -1232,7 +1232,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kosong-cities-v2",
     type: "town",
     name: { de: "Kosong", hu: "Koszong", ro: "Kosong", en: "Kosong" },
-    coordinates: { lat: 38.64, lng: 128.2 },
+    coords: [128.2, 38.64],
     description: {
       de: "Kosong ist eine Küstenstadt am Japanischen Meer, direkt am Fuße des berühmten Kumgang-Gebirges.",
       hu: "Koszong egy parti város a Japán-tenger mentén, a híres Gyémánt-hegység lábánál.",
@@ -1251,7 +1251,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kopung-cities-v2",
     type: "town",
     name: { de: "Kopung", hu: "Kopung", ro: "Kopung", en: "Kopung" },
-    coordinates: { lat: 40.6, lng: 125.93 },
+    coords: [125.93, 40.6],
     description: {
       de: "Kopung ist eine Bergstadt in der Provinz Jagang, die für ihre Forstwirtschaft und Bergbauaktivitäten bekannt ist.",
       hu: "Kopung egy hegyi város Csagang tartományban, erdőgazdálkodásáról és bányászatáról ismert.",
@@ -1270,7 +1270,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-ichon-cities-v2",
     type: "town",
     name: { de: "Ichon", hu: "Icshon", ro: "Ichon", en: "Ichon" },
-    coordinates: { lat: 38.5, lng: 126.89 },
+    coords: [126.89, 38.5],
     description: {
       de: "Ichon liegt im Herzen der Provinz Kangwon und ist ein Zentrum für Landwirtschaft und regionales Handwerk.",
       hu: "Icshon Kangvon tartomány szívében fekszik, a mezőgazdaság és a helyi kézművesség központja.",
@@ -1289,7 +1289,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-singye-cities-v2",
     type: "town",
     name: { de: "Singye", hu: "Singje", ro: "Singye", en: "Singye" },
-    coordinates: { lat: 38.5, lng: 126.54 },
+    coords: [126.54, 38.5],
     description: {
       de: "Singye ist eine bedeutende Agrarstadt in der Provinz Nord-Hwanghae, die in einer weiten Hochebene liegt.",
       hu: "Singje egy jelentős agrárváros Észak-Hvanghe tartományban, egy tágas fennsíkon terül el.",
@@ -1308,7 +1308,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-koksan-cities-v2",
     type: "town",
     name: { de: "Koksan", hu: "Kokszan", ro: "Koksan", en: "Koksan" },
-    coordinates: { lat: 38.78, lng: 126.66 },
+    coords: [126.66, 38.78],
     description: {
       de: "Koksan ist eine Bergstadt in der Provinz Nord-Hwanghae, bekannt für ihre Viehzucht und Forstwirtschaft.",
       hu: "Kokszan egy hegyi város Észak-Hvanghe tartományban, állattenyésztéséről és erdőgazdálkodásáról ismert.",
@@ -1327,7 +1327,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-suan-cities-v2",
     type: "town",
     name: { de: "Suan", hu: "Szuan", ro: "Suan", en: "Suan" },
-    coordinates: { lat: 38.71, lng: 126.38 },
+    coords: [126.38, 38.71],
     description: {
       de: "Suan ist eine geschichtsträchtige Bergbaustadt in der Provinz Nord-Hwanghae, umgeben von mineralreichen Gebirgen.",
       hu: "Szuan egy nagy múltú bányaváros Észak-Hvanghe tartományban, ásványkincsekben gazdag hegyek között.",
@@ -1346,7 +1346,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-yontan-cities-v2",
     type: "town",
     name: { de: "Yontan", hu: "Jontan", ro: "Yontan", en: "Yontan" },
-    coordinates: { lat: 38.52, lng: 125.77 },
+    coords: [125.77, 38.52],
     description: {
       de: "Yontan ist eine fruchtbare Agrarstadt in der Provinz Nord-Hwanghae, bekannt für ihren Obstanbau.",
       hu: "Jontan egy termékeny agrárváros Észak-Hvanghe tartományban, gyümölcstermesztéséről ismert.",
@@ -1365,7 +1365,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-unchon-cities-v2",
     type: "town",
     name: { de: "Unchon", hu: "Uncshon", ro: "Unchon", en: "Unchon" },
-    coordinates: { lat: 38.35, lng: 125.35 },
+    coords: [125.35, 38.35],
     description: {
       de: "Unchon liegt in der Provinz Süd-Hwanghae und ist eine wichtige Stadt für die Küstenlandwirtschaft.",
       hu: "Uncshon Dél-Hvanghe tartományban fekszik, a parti mezőgazdaság egyik fontos városa.",
@@ -1384,7 +1384,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-eunyul-cities-v2",
     type: "town",
     name: { de: "Eunyul", hu: "Unjul", ro: "Eunyul", en: "Eunyul" },
-    coordinates: { lat: 38.51, lng: 125.21 },
+    coords: [125.21, 38.51],
     description: {
       de: "Eunyul ist eine bedeutende Bergbaustadt in der Provinz Süd-Hwanghae, bekannt für ihre Eisenerzvorkommen.",
       hu: "Unjul egy jelentős bányaváros Dél-Hvanghe tartományban, vasérclelőhelyeiről ismert.",
@@ -1403,7 +1403,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-songhwa-cities-v2",
     type: "town",
     name: { de: "Songhwa", hu: "Szonghva", ro: "Songhwa", en: "Songhwa" },
-    coordinates: { lat: 38.35, lng: 125.17 },
+    coords: [125.17, 38.35],
     description: {
       de: "Songhwa ist eine malerische Stadt in der Provinz Süd-Hwanghae, berühmt für ihre Thermalquellen und den Obstanbau.",
       hu: "Szonghva egy festői város Dél-Hvanghe tartományban, termálforrásairól és gyümölcstermesztéséről híres.",
@@ -1422,7 +1422,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-jaeryong-cities-v2",
     type: "town",
     name: { de: "Jaeryong", hu: "Cserjong", ro: "Jaeryong", en: "Jaeryong" },
-    coordinates: { lat: 38.4, lng: 125.61 },
+    coords: [125.61, 38.4],
     description: {
       de: "Jaeryong ist eine zentrale Agrar- und Bergbaustadt in der fruchtbaren Jaeryong-Ebene.",
       hu: "Cserjong egy központi agrár- és bányaváros a termékeny Cserjong-síkságon.",
@@ -1441,7 +1441,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-paechon-cities-v2",
     type: "town",
     name: { de: "Paechon", hu: "Pecshon", ro: "Paechon", en: "Paechon" },
-    coordinates: { lat: 37.98, lng: 126.21 },
+    coords: [126.21, 37.98],
     description: {
       de: "Paechon ist eine historische Grenzstadt im Süden, bekannt für ihre Thermalquellen und Landwirtschaft.",
       hu: "Pecshon egy történelmi határváros délen, termálforrásairól és mezőgazdaságáról ismert.",
@@ -1460,7 +1460,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-yonan-cities-v2",
     type: "town",
     name: { de: "Yonan", hu: "Jonan", ro: "Yonan", en: "Yonan" },
-    coordinates: { lat: 37.91, lng: 126.16 },
+    coords: [126.16, 37.91],
     description: {
       de: "Yonan ist eine Küstenstadt am Gelben Meer mit einer langen Geschichte als Festungsstadt.",
       hu: "Jonan egy parti város a Sárga-tenger mentén, hosszú múltra tekint vissza erődvárosként.",
@@ -1479,7 +1479,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-pyoksong-cities-v2",
     type: "town",
     name: { de: "Pyoksong", hu: "Pjokszong", ro: "Pyoksong", en: "Pyoksong" },
-    coordinates: { lat: 38.05, lng: 125.55 },
+    coords: [125.55, 38.05],
     description: {
       de: "Pyoksong ist eine landwirtschaftlich geprägte Stadt in der Provinz Süd-Hwanghae, umgeben von Hügeln.",
       hu: "Pjokszong egy mezőgazdasági jellegű város Dél-Hvanghe tartományban, dombokkal övezve.",
@@ -1498,7 +1498,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-kangryong-cities-v2",
     type: "town",
     name: { de: "Kangryong", hu: "Kangrjong", ro: "Kangryong", en: "Kangryong" },
-    coordinates: { lat: 37.91, lng: 125.47 },
+    coords: [125.47, 37.91],
     description: {
       de: "Kangryong ist eine Küstenstadt auf der Ongjin-Halbinsel, bekannt für Bergbau und Fischerei.",
       hu: "Kangrjong egy parti város az Ondzsin-félszigeten, bányászatáról és halászatáról ismert.",
@@ -1517,7 +1517,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "northkorea-chongdan-cities-v2",
     type: "town",
     name: { de: "Chongdan", hu: "Cshongdan", ro: "Chongdan", en: "Chongdan" },
-    coordinates: { lat: 37.94, lng: 125.85 },
+    coords: [125.85, 37.94],
     description: {
       de: "Chongdan ist eine wichtige Agrarstadt im Süden von Nordkorea, bekannt für Reisanbau und Salzgewinnung.",
       hu: "Cshongdan egy fontos agrárváros Észak-Korea déli részén, rizstermesztéséről és sólepárlásáról ismert.",

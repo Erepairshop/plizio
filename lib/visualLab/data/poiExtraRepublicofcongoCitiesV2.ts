@@ -5,7 +5,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-loandjili-cities-v2",
     type: "city",
     name: { de: "Loandjili", hu: "Loandjili", ro: "Loandjili", en: "Loandjili" },
-    coordinates: { lat: -4.75, lng: 11.833 },
+    coords: [11.833, -4.75],
     description: {
       de: "Loandjili ist ein bedeutender Vorort und Stadtteil von Pointe-Noire. Er wuchs durch die industrielle Entwicklung der Region stark an.",
       hu: "Loandjili jelentős előváros és Pointe-Noire városrésze. A régió ipari fejlődése miatt nőtt meg jelentősen.",
@@ -24,7 +24,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-moussonia-cities-v2",
     type: "city",
     name: { de: "Moussonia", hu: "Moussonia", ro: "Moussonia", en: "Moussonia" },
-    coordinates: { lat: -4.56, lng: 12.33 },
+    coords: [12.33, -4.56],
     description: {
       de: "Moussonia ist eine Stadt in der Nähe der Küstenregion. Sie profitiert von der Nähe zu Pointe-Noire und den Verkehrsverbindungen im Süden.",
       hu: "Moussonia város a partvidék közelében. Hasznot húz Pointe-Noire közelségéből és a déli közlekedési összeköttetésekből.",
@@ -43,7 +43,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-makoua-nord-cities-v2",
     type: "city",
     name: { de: "Makoua-Nord", hu: "Makoua-Nord", ro: "Makoua-Nord", en: "Makoua-Nord" },
-    coordinates: { lat: 0.05, lng: 15.65 },
+    coords: [15.65, 0.05],
     description: {
       de: "Makoua-Nord ist ein Stadtteil nördlich von Makoua. Er ist ein wachsendes Wohngebiet entlang der wichtigen Nord-Süd-Route.",
       hu: "Makoua-Nord városrész Makoua-tól északra. Növekvő lakóövezet a fontos észak-déli útvonal mentén.",
@@ -62,7 +62,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-panga-cities-v2",
     type: "city",
     name: { de: "Panga", hu: "Panga", ro: "Panga", en: "Panga" },
-    coordinates: { lat: 1.48, lng: 16.22 },
+    coords: [16.22, 1.48],
     description: {
       de: "Panga liegt im Norden der Republik Kongo, in der Nähe von Ouesso. Die Stadt ist ein lokaler Handelsplatz in einem Waldgebiet.",
       hu: "Panga a Kongói Köztársaság északi részén fekszik, Ouesso közelében. A város helyi kereskedelmi hely erdős területen.",
@@ -81,7 +81,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kibangou-cities-v2",
     type: "city",
     name: { de: "Kibangou", hu: "Kibangou", ro: "Kibangou", en: "Kibangou" },
-    coordinates: { lat: -3.88, lng: 12.51 },
+    coords: [12.51, -3.88],
     description: {
       de: "Kibangou ist eine Stadt in der Region Niari. Sie dient als lokales Handelszentrum für die umgebenden ländlichen Gebiete.",
       hu: "Kibangou város a Niari régióban. Helyi kereskedelmi központként szolgál a környező vidéki területek számára.",
@@ -100,7 +100,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-dingo-cities-v2",
     type: "city",
     name: { de: "Dingo", hu: "Dingo", ro: "Dingo", en: "Dingo" },
-    coordinates: { lat: -4.68, lng: 11.95 },
+    coords: [11.95, -4.68],
     description: {
       de: "Dingo liegt unweit von Pointe-Noire im Südwesten. Die Stadt ist ein lokales Wohn- und Arbeitsgebiet für die Region.",
       hu: "Dingo Pointe-Noire közelében található délnyugaton. A város helyi lakó- és munkaterület a régió számára.",
@@ -119,7 +119,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-songo-cities-v2",
     type: "city",
     name: { de: "Songo", hu: "Songo", ro: "Songo", en: "Songo" },
-    coordinates: { lat: -3.55, lng: 14.22 },
+    coords: [14.22, -3.55],
     description: {
       de: "Songo ist eine Stadt im zentralen Teil der Republik Kongo. Sie dient als lokaler Handelsplatz in einem eher ländlich geprägten Umfeld.",
       hu: "Songo város a Kongói Köztársaság középső részén. Helyi kereskedelmi helyként szolgál egy inkább vidékies környezetben.",
@@ -138,7 +138,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mouyoundzi-ville-cities-v2",
     type: "city",
     name: { de: "Mouyondzi-Ville", hu: "Mouyondzi-Ville", ro: "Mouyondzi-Ville", en: "Mouyondzi-Ville" },
-    coordinates: { lat: -4.02, lng: 13.97 },
+    coords: [13.97, -4.02],
     description: {
       de: "Mouyondzi-Ville ist ein zentraler Bereich der Stadt Mouyondzi. Hier konzentrieren sich die Verwaltung und die lokalen Märkte.",
       hu: "Mouyondzi-Ville Mouyondzi város központi része. Itt koncentrálódik a közigazgatás és a helyi piacok.",
@@ -157,7 +157,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-madibou-cities-v2",
     type: "city",
     name: { de: "Madibou", hu: "Madibou", ro: "Madibou", en: "Madibou" },
-    coordinates: { lat: -4.33, lng: 15.22 },
+    coords: [15.22, -4.33],
     description: {
       de: "Madibou ist ein Stadtteil im Süden von Brazzaville. Er ist ein dicht besiedeltes Wohn- und Arbeitsgebiet am Rande der Hauptstadt.",
       hu: "Madibou Brazzaville déli részén lévő városrész. Sűrűn lakott lakó- és munkaterület a főváros szélén.",
@@ -176,7 +176,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kintélé-cities-v2",
     type: "city",
     name: { de: "Kintélé", hu: "Kintélé", ro: "Kintélé", en: "Kintélé" },
-    coordinates: { lat: -4.18, lng: 15.28 },
+    coords: [15.28, -4.18],
     description: {
       de: "Kintélé ist ein bedeutender nördlicher Vorort von Brazzaville. Er beherbergt moderne Sporteinrichtungen und wächst schnell.",
       hu: "Kintélé Brazzaville jelentős északi elővárosa. Modern sportlétesítményeknek ad otthont és gyorsan növekszik.",
@@ -195,7 +195,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mfilou-cities-v2",
     type: "city",
     name: { de: "Mfilou", hu: "Mfilou", ro: "Mfilou", en: "Mfilou" },
-    coordinates: { lat: -4.27, lng: 15.18 },
+    coords: [15.18, -4.27],
     description: {
       de: "Mfilou ist ein großer und belebter Stadtteil von Brazzaville. Er zeichnet sich durch seine lebendige lokale Handelsatmosphäre aus.",
       hu: "Mfilou Brazzaville nagy és forgalmas városrésze. Élénk helyi kereskedelmi hangulata jellemzi.",
@@ -214,7 +214,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-talangaï-cities-v2",
     type: "city",
     name: { de: "Talangaï", hu: "Talangaï", ro: "Talangaï", en: "Talangaï" },
-    coordinates: { lat: -4.22, lng: 15.26 },
+    coords: [15.26, -4.22],
     description: {
       de: "Talangaï ist ein dicht besiedelter Stadtteil im Norden von Brazzaville. Er ist ein zentrales Wohngebiet für viele Einwohner.",
       hu: "Talangaï sűrűn lakott városrész Brazzaville északi részén. Sok lakos számára központi lakóövezet.",
@@ -233,7 +233,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ouenzé-cities-v2",
     type: "city",
     name: { de: "Ouenzé", hu: "Ouenzé", ro: "Ouenzé", en: "Ouenzé" },
-    coordinates: { lat: -4.25, lng: 15.25 },
+    coords: [15.25, -4.25],
     description: {
       de: "Ouenzé ist ein historisch wichtiger Stadtteil von Brazzaville. Er dient heute als bedeutendes Handels- und Wohnviertel.",
       hu: "Ouenzé történelmileg fontos városrész Brazzaville-ben. Ma jelentős kereskedelmi és lakónegyedként szolgál.",
@@ -252,7 +252,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mouyoundzi-nord-cities-v2",
     type: "city",
     name: { de: "Mouyondzi-Nord", hu: "Mouyondzi-Nord", ro: "Mouyondzi-Nord", en: "Mouyondzi-Nord" },
-    coordinates: { lat: -4.0, lng: 13.97 },
+    coords: [13.97, -4.0],
     description: {
       de: "Mouyondzi-Nord ist ein Wohn- und Entwicklungsbereich nördlich von Mouyondzi. Er umfasst ländlich geprägte Siedlungsstrukturen.",
       hu: "Mouyondzi-Nord lakó- és fejlesztési terület Mouyondzi-tól északra. Vidékies jellegű településszerkezeteket foglal magában.",
@@ -271,7 +271,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kinkala-sud-cities-v2",
     type: "city",
     name: { de: "Kinkala-Sud", hu: "Kinkala-Sud", ro: "Kinkala-Sud", en: "Kinkala-Sud" },
-    coordinates: { lat: -4.38, lng: 14.77 },
+    coords: [14.77, -4.38],
     description: {
       de: "Kinkala-Sud ist ein Siedlungsgebiet südlich von Kinkala. Es dient primär als Wohn- und Agrarzone für die lokale Bevölkerung.",
       hu: "Kinkala-Sud települési terület Kinkala-tól délre. Elsősorban lakó- és mezőgazdasági övezetként szolgál a helyi lakosság számára.",
@@ -290,7 +290,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-sibiti-nord-cities-v2",
     type: "city",
     name: { de: "Sibiti-Nord", hu: "Sibiti-Nord", ro: "Sibiti-Nord", en: "Sibiti-Nord" },
-    coordinates: { lat: -3.67, lng: 13.35 },
+    coords: [13.35, -3.67],
     description: {
       de: "Sibiti-Nord ist ein Stadtgebiet im Norden von Sibiti. Es beherbergt lokale Einrichtungen und ist ein wachsendes Wohnviertel.",
       hu: "Sibiti-Nord városrész Sibiti északi részén. Helyi létesítményeknek ad otthont, és növekvő lakónegyed.",
@@ -309,7 +309,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-djambala-nord-cities-v2",
     type: "city",
     name: { de: "Djambala-Nord", hu: "Djambala-Nord", ro: "Djambala-Nord", en: "Djambala-Nord" },
-    coordinates: { lat: -2.53, lng: 14.75 },
+    coords: [14.75, -2.53],
     description: {
       de: "Djambala-Nord ist ein Wohnviertel nördlich des Zentrums von Djambala. Es ist Teil der wachsenden städtischen Struktur auf dem Plateau.",
       hu: "Djambala-Nord lakónegyed Djambala központjától északra. A fennsíkon növekvő városi struktúra része.",
@@ -328,7 +328,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-owando-est-cities-v2",
     type: "city",
     name: { de: "Owando-Est", hu: "Owando-Est", ro: "Owando-Est", en: "Owando-Est" },
-    coordinates: { lat: -0.48, lng: 15.91 },
+    coords: [15.91, -0.48],
     description: {
       de: "Owando-Est ist ein Wohn- und Handelsviertel östlich des Zentrums von Owando. Es profitiert von seiner Lage am Kouyou-Fluss.",
       hu: "Owando-Est lakó- és kereskedelmi negyed Owando központjától keletre. A Kouyou folyó melletti elhelyezkedése miatt előnyös.",
@@ -347,7 +347,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ouesso-sud-cities-v2",
     type: "city",
     name: { de: "Ouesso-Sud", hu: "Ouesso-Sud", ro: "Ouesso-Sud", en: "Ouesso-Sud" },
-    coordinates: { lat: 1.6, lng: 16.05 },
+    coords: [16.05, 1.6],
     description: {
       de: "Ouesso-Sud ist ein Siedlungs- und Arbeitsbereich südlich des Ouesso-Stadtzentrums. Er ist für seine Waldarbeiter-Gemeinschaften bekannt.",
       hu: "Ouesso-Sud települési és munkaterület Ouesso városközpontjától délre. Erdőmunkás közösségeiről ismert.",
@@ -366,7 +366,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-impfondo-nord-cities-v2",
     type: "city",
     name: { de: "Impfondo-Nord", hu: "Impfondo-Nord", ro: "Impfondo-Nord", en: "Impfondo-Nord" },
-    coordinates: { lat: 1.65, lng: 18.06 },
+    coords: [18.06, 1.65],
     description: {
       de: "Impfondo-Nord ist ein schnell wachsendes Wohngebiet im Norden der Stadt Impfondo. Es liegt nah am Ubangi-Fluss.",
       hu: "Impfondo-Nord gyorsan növekvő lakónegyed Impfondo északi részén. Közel fekszik az Ubangi folyóhoz.",
@@ -385,7 +385,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-madingou-nord-cities-v2",
     type: "city",
     name: { de: "Madingou-Nord", hu: "Madingou-Nord", ro: "Madingou-Nord", en: "Madingou-Nord" },
-    coordinates: { lat: -4.14, lng: 13.56 },
+    coords: [13.56, -4.14],
     description: {
       de: "Madingou-Nord ist ein stadtnaher Entwicklungsbereich nördlich des Madingou-Stadtzentrums. Es umfasst hauptsächlich Wohngebiete.",
       hu: "Madingou-Nord városhoz közeli fejlesztési terület Madingou városközpontjától északra. Főleg lakóövezeteket foglal magában.",
@@ -404,7 +404,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ewo-sud-cities-v2",
     type: "city",
     name: { de: "Ewo-Sud", hu: "Ewo-Sud", ro: "Ewo-Sud", en: "Ewo-Sud" },
-    coordinates: { lat: -0.88, lng: 14.82 },
+    coords: [14.82, -0.88],
     description: {
       de: "Ewo-Sud ist ein Siedlungs- und Agrarbereich südlich von Ewo. Er ist ein wichtiger Versorgungsbereich für das Stadtzentrum.",
       hu: "Ewo-Sud települési és agrárterület Ewo-tól délre. Fontos ellátási terület a városközpont számára.",
@@ -423,7 +423,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kelle-nord-cities-v2",
     type: "city",
     name: { de: "Kellé-Nord", hu: "Kellé-Nord", ro: "Kellé-Nord", en: "Kellé-Nord" },
-    coordinates: { lat: -1.12, lng: 14.53 },
+    coords: [14.53, -1.12],
     description: {
       de: "Kellé-Nord ist ein Wohngebiet im Norden von Kellé. Es zeichnet sich durch seine ruhige, ländlich-urbane Atmosphäre aus.",
       hu: "Kellé-Nord lakóövezet Kellé északi részén. Nyugodt, vidékies-városi hangulata jellemzi.",
@@ -442,7 +442,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ntoum-nord-cities-v2",
     type: "city",
     name: { de: "Ntoum-Nord", hu: "Ntoum-Nord", ro: "Ntoum-Nord", en: "Ntoum-Nord" },
-    coordinates: { lat: -4.5, lng: 14.98 },
+    coords: [14.98, -4.5],
     description: {
       de: "Ntoum-Nord ist ein wachsendes Stadtviertel nördlich von Ntoum. Es ist ein zunehmend beliebtes Wohngebiet im Großraum.",
       hu: "Ntoum-Nord növekvő városnegyed Ntoum-tól északra. Egyre népszerűbb lakónegyed a nagyvárosi térségben.",
@@ -461,7 +461,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mouyondzi-est-cities-v2",
     type: "city",
     name: { de: "Mouyondzi-Est", hu: "Mouyondzi-Est", ro: "Mouyondzi-Est", en: "Mouyondzi-Est" },
-    coordinates: { lat: -4.01, lng: 13.99 },
+    coords: [13.99, -4.01],
     description: {
       de: "Mouyondzi-Est ist ein Wohn- und Handelsviertel östlich von Mouyondzi. Es beherbergt kleine lokale Geschäfte und Wohnhäuser.",
       hu: "Mouyondzi-Est lakó- és kereskedelmi negyed Mouyondzi-tól keletre. Kis helyi üzleteknek és lakóházaknak ad otthont.",
@@ -480,7 +480,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-panga-nord-cities-v2",
     type: "city",
     name: { de: "Panga-Nord", hu: "Panga-Nord", ro: "Panga-Nord", en: "Panga-Nord" },
-    coordinates: { lat: 1.49, lng: 16.22 },
+    coords: [16.22, 1.49],
     description: {
       de: "Panga-Nord ist ein Wohn- und Siedlungsbereich nördlich von Panga. Er ist stark durch die umliegenden Wälder geprägt.",
       hu: "Panga-Nord lakó- és települési terület Panga-tól északra. Erősen meghatározzák a környező erdők.",
@@ -499,7 +499,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kibangou-sud-cities-v2",
     type: "city",
     name: { de: "Kibangou-Sud", hu: "Kibangou-Sud", ro: "Kibangou-Sud", en: "Kibangou-Sud" },
-    coordinates: { lat: -3.89, lng: 12.51 },
+    coords: [12.51, -3.89],
     description: {
       de: "Kibangou-Sud ist ein ländlich-urbandes Wohngebiet südlich von Kibangou. Es ist für seine landwirtschaftlichen Aktivitäten bekannt.",
       hu: "Kibangou-Sud vidékies-városias lakóövezet Kibangou-tól délre. Mezőgazdasági tevékenységeiről ismert.",
@@ -518,7 +518,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-dingo-nord-cities-v2",
     type: "city",
     name: { de: "Dingo-Nord", hu: "Dingo-Nord", ro: "Dingo-Nord", en: "Dingo-Nord" },
-    coordinates: { lat: -4.67, lng: 11.95 },
+    coords: [11.95, -4.67],
     description: {
       de: "Dingo-Nord ist ein Wohnviertel nördlich von Dingo. Es profitiert von der Anbindung an das nahegelegene Stadtzentrum von Dingo.",
       hu: "Dingo-Nord lakónegyed Dingo-tól északra. Hasznot húz a közeli Dingo városközpontjával való kapcsolatból.",
@@ -537,7 +537,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-songo-ouest-cities-v2",
     type: "city",
     name: { de: "Songo-Ouest", hu: "Songo-Ouest", ro: "Songo-Ouest", en: "Songo-Ouest" },
-    coordinates: { lat: -3.55, lng: 14.21 },
+    coords: [14.21, -3.55],
     description: {
       de: "Songo-Ouest ist ein Wohnbereich westlich von Songo. Es ist ein ruhiges Gebiet mit vielen kleinen Häusern und Siedlungsstrukturen.",
       hu: "Songo-Ouest lakóövezet Songo-tól nyugatra. Nyugodt terület, sok kis házzal és településszerkezettel.",
@@ -556,7 +556,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-loutete-nord-cities-v2",
     type: "city",
     name: { de: "Loutété-Nord", hu: "Loutété-Nord", ro: "Loutété-Nord", en: "Loutété-Nord" },
-    coordinates: { lat: -4.14, lng: 13.25 },
+    coords: [13.25, -4.14],
     description: {
       de: "Loutété-Nord ist ein Wohn- und Entwicklungsgebiet nördlich von Loutété. Es ist ein zentraler Bereich für die lokale Wohnbebauung.",
       hu: "Loutété-Nord lakó- és fejlesztési terület Loutété-től északra. Központi terület a helyi lakóépületek számára.",
@@ -575,7 +575,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mfilou-est-cities-v2",
     type: "city",
     name: { de: "Mfilou-Est", hu: "Mfilou-Est", ro: "Mfilou-Est", en: "Mfilou-Est" },
-    coordinates: { lat: -4.27, lng: 15.19 },
+    coords: [15.19, -4.27],
     description: {
       de: "Mfilou-Est ist ein Wohn- und Handelsviertel im östlichen Teil von Mfilou. Es ist für seine lebendige lokale Atmosphäre bekannt.",
       hu: "Mfilou-Est lakó- és kereskedelmi negyed Mfilou keleti részén. Élénk helyi hangulatáról ismert.",
@@ -594,7 +594,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-talangai-nord-cities-v2",
     type: "city",
     name: { de: "Talangaï-Nord", hu: "Talangaï-Nord", ro: "Talangaï-Nord", en: "Talangaï-Nord" },
-    coordinates: { lat: -4.21, lng: 15.26 },
+    coords: [15.26, -4.21],
     description: {
       de: "Talangaï-Nord ist ein Wohngebiet im nördlichen Talangaï. Es beherbergt eine wachsende Anzahl von Familien und Wohnhäusern.",
       hu: "Talangaï-Nord lakóövezet az északi Talangaï-ban. Családok és lakóházak növekvő számának ad otthont.",
@@ -613,7 +613,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ouenze-sud-cities-v2",
     type: "city",
     name: { de: "Ouenzé-Sud", hu: "Ouenzé-Sud", ro: "Ouenzé-Sud", en: "Ouenzé-Sud" },
-    coordinates: { lat: -4.26, lng: 15.25 },
+    coords: [15.25, -4.26],
     description: {
       de: "Ouenzé-Sud ist ein dicht besiedeltes Wohnviertel im südlichen Ouenzé. Es ist ein zentraler Bereich für den Handel in diesem Stadtteil.",
       hu: "Ouenzé-Sud sűrűn lakott lakónegyed Ouenzé déli részén. A kereskedelem központi területe ebben a városrészben.",
@@ -632,7 +632,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mouyoundzi-ville-ouest-cities-v2",
     type: "city",
     name: { de: "Mouyondzi-Ville-Ouest", hu: "Mouyondzi-Ville-Ouest", ro: "Mouyondzi-Ville-Ouest", en: "Mouyondzi-Ville-Ouest" },
-    coordinates: { lat: -4.02, lng: 13.96 },
+    coords: [13.96, -4.02],
     description: {
       de: "Mouyondzi-Ville-Ouest ist ein Wohn- und Siedlungsgebiet am westlichen Rand von Mouyondzi-Ville.",
       hu: "Mouyondzi-Ville-Ouest lakó- és települési terület Mouyondzi-Ville nyugati szélén.",
@@ -651,7 +651,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kindamba-nord-cities-v2",
     type: "city",
     name: { de: "Kindamba-Nord", hu: "Kindamba-Nord", ro: "Kindamba-Nord", en: "Kindamba-Nord" },
-    coordinates: { lat: -3.94, lng: 14.45 },
+    coords: [14.45, -3.94],
     description: {
       de: "Kindamba-Nord ist ein Wohn- und Arbeitsgebiet nördlich des Kindamba-Stadtzentrums.",
       hu: "Kindamba-Nord lakó- és munkaterület Kindamba városközpontjától északra.",
@@ -670,7 +670,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-madibou-est-cities-v2",
     type: "city",
     name: { de: "Madibou-Est", hu: "Madibou-Est", ro: "Madibou-Est", en: "Madibou-Est" },
-    coordinates: { lat: -4.33, lng: 15.23 },
+    coords: [15.23, -4.33],
     description: {
       de: "Madibou-Est ist ein Wohngebiet östlich von Madibou im Süden von Brazzaville.",
       hu: "Madibou-Est lakóövezet Madibou-tól keletre, Brazzaville déli részén.",
@@ -689,7 +689,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-kintele-sud-cities-v2",
     type: "city",
     name: { de: "Kintélé-Sud", hu: "Kintélé-Sud", ro: "Kintélé-Sud", en: "Kintélé-Sud" },
-    coordinates: { lat: -4.19, lng: 15.28 },
+    coords: [15.28, -4.19],
     description: {
       de: "Kintélé-Sud ist ein Siedlungs- und Entwicklungsbereich südlich von Kintélé in der Nähe von Brazzaville.",
       hu: "Kintélé-Sud települési és fejlesztési terület Kintélé-től délre, Brazzaville közelében.",
@@ -708,7 +708,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mfilou-nord-cities-v2",
     type: "city",
     name: { de: "Mfilou-Nord", hu: "Mfilou-Nord", ro: "Mfilou-Nord", en: "Mfilou-Nord" },
-    coordinates: { lat: -4.26, lng: 15.18 },
+    coords: [15.18, -4.26],
     description: {
       de: "Mfilou-Nord ist ein Wohnviertel nördlich von Mfilou in Brazzaville. Es bietet Wohnmöglichkeiten für viele Familien.",
       hu: "Mfilou-Nord lakónegyed Mfilou-tól északra, Brazzaville-ben. Lakhatási lehetőségeket kínál sok család számára.",
@@ -727,7 +727,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-talangai-sud-cities-v2",
     type: "city",
     name: { de: "Talangaï-Sud", hu: "Talangaï-Sud", ro: "Talangaï-Sud", en: "Talangaï-Sud" },
-    coordinates: { lat: -4.23, lng: 15.26 },
+    coords: [15.26, -4.23],
     description: {
       de: "Talangaï-Sud ist ein lebhafter Bereich im südlichen Talangaï, der sich durch hohe Bevölkerungsdichte auszeichnet.",
       hu: "Talangaï-Sud forgalmas terület a déli Talangaï-ban, nagy népsűrűséggel jellemezhető.",
@@ -746,7 +746,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-ouenze-nord-cities-v2",
     type: "city",
     name: { de: "Ouenzé-Nord", hu: "Ouenzé-Nord", ro: "Ouenzé-Nord", en: "Ouenzé-Nord" },
-    coordinates: { lat: -4.24, lng: 15.25 },
+    coords: [15.25, -4.24],
     description: {
       de: "Ouenzé-Nord ist ein Wohn- und Arbeitsgebiet im nördlichen Ouenzé. Es ist ein wichtiger Teil des städtischen Gefüges.",
       hu: "Ouenzé-Nord lakó- és munkaterület az északi Ouenzé-ben. A városi szövet fontos része.",
@@ -765,7 +765,7 @@ export const republicofcongoCitiesV2: POI[] = [
     id: "republicofcongo-mouyondzi-sud-cities-v2",
     type: "city",
     name: { de: "Mouyondzi-Sud", hu: "Mouyondzi-Sud", ro: "Mouyondzi-Sud", en: "Mouyondzi-Sud" },
-    coordinates: { lat: -4.03, lng: 13.98 },
+    coords: [13.98, -4.03],
     description: {
       de: "Mouyondzi-Sud ist ein Siedlungsbereich südlich von Mouyondzi. Er besteht überwiegend aus Wohngebäuden für die lokale Bevölkerung.",
       hu: "Mouyondzi-Sud települési terület Mouyondzi-tól délre. Főleg a helyi lakosság lakóépületeiből áll.",

@@ -1417,7 +1417,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-musée-national-boubou-hama-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum Boubou Hama", hu: "Boubou Hama Nemzeti Múzeum", ro: "Muzeul Național Boubou Hama", en: "Boubou Hama National Museum" },
-    coordinates: { lat: 13.5186, lng: 2.1158 },
+    coords: [2.1158, 13.5186],
     description: {
       de: "Das Museum in Niamey präsentiert Sammlungen zur Archäologie, Paläontologie und Kunsthandwerk Nigers. Es umfasst auch einen kleinen zoologischen Garten.",
       hu: "A niamey-i múzeum Niger régészeti, őslénytani és kézműves gyűjteményeit mutatja be. Egy kis állatkertet is magában foglal.",
@@ -1436,7 +1436,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-cathédrale-de-niamey-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Niamey", hu: "Niamey-i székesegyház", ro: "Catedrala din Niamey", en: "Cathedral of Niamey" },
-    coordinates: { lat: 13.5125, lng: 2.1186 },
+    coords: [2.1186, 13.5125],
     description: {
       de: "Die Kathedrale St. Philipp und Jakob ist die Hauptkirche des römisch-katholischen Erzbistums Niamey. Sie wurde im 20. Jahrhundert erbaut.",
       hu: "A Szent Fülöp és Jakab-székesegyház a niamey-i római katolikus érsekség főtemploma. A 20. században épült.",
@@ -1455,7 +1455,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-palais-presidentiel-niamey-landmarks-v2",
     type: "palace",
     name: { de: "Präsidentenpalast Niamey", hu: "Niamey Elnöki Palota", ro: "Palatul Prezidențial Niamey", en: "Presidential Palace Niamey" },
-    coordinates: { lat: 13.5167, lng: 2.1139 },
+    coords: [2.1139, 13.5167],
     description: {
       de: "Der Amtssitz des nigrischen Präsidenten befindet sich in Niamey. Das Areal ist ein gesicherter Regierungsbereich am Ufer des Niger.",
       hu: "A nigériai elnök hivatali székhelye Niameyben található. A terület egy védett kormányzati negyed a Niger folyó partján.",
@@ -1474,7 +1474,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-mosquee-kadhafi-niamey-landmarks-v2",
     type: "church",
     name: { de: "Gaddafi-Moschee", hu: "Kaddhafi-mecset", ro: "Moscheea Gaddafi", en: "Gaddafi Mosque" },
-    coordinates: { lat: 13.5244, lng: 2.1122 },
+    coords: [2.1122, 13.5244],
     description: {
       de: "Diese Moschee in der Hauptstadt Niamey wurde mit Unterstützung aus Libyen finanziert. Sie ist eine der größten Moscheen im Land.",
       hu: "Ez a niamey-i mecset líbiai támogatással épült. Az ország egyik legnagyobb mecsetje.",
@@ -1493,7 +1493,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-pont-kennedy-landmarks-v2",
     type: "bridge",
     name: { de: "Kennedy-Brücke", hu: "Kennedy-híd", ro: "Podul Kennedy", en: "Kennedy Bridge" },
-    coordinates: { lat: 13.5133, lng: 2.1097 },
+    coords: [2.1097, 13.5133],
     description: {
       de: "Die Kennedy-Brücke überquert den Fluss Niger in Niamey. Sie verbindet die beiden Hauptteile der Stadt miteinander.",
       hu: "A Kennedy-híd a Niger folyón ível át Niameyben. Összeköti a város két fő részét.",
@@ -1512,7 +1512,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-arène-de-lutte-niamey-landmarks-v2",
     type: "theater",
     name: { de: "Wrestling-Arena Niamey", hu: "Niamey-i Birkózó Aréna", ro: "Arena de lupte Niamey", en: "Wrestling Arena Niamey" },
-    coordinates: { lat: 13.535, lng: 2.1228 },
+    coords: [2.1228, 13.535],
     description: {
       de: "Die Arena ist der zentrale Ort für den traditionellen nigrischen Ringkampf, eine der beliebtesten Sportarten des Landes.",
       hu: "Az aréna a hagyományos nigériai birkózás központi helyszíne, amely az ország egyik legnépszerűbb sportága.",
@@ -1531,7 +1531,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-universite-abdou-moumouni-landmarks-v2",
     type: "university",
     name: { de: "Universität Abdou Moumouni", hu: "Abdou Moumouni Egyetem", ro: "Universitatea Abdou Moumouni", en: "Abdou Moumouni University" },
-    coordinates: { lat: 13.5281, lng: 2.1333 },
+    coords: [2.1333, 13.5281],
     description: {
       de: "Diese öffentliche Universität befindet sich in Niamey und ist die wichtigste Bildungseinrichtung Nigers.",
       hu: "Ez az állami egyetem Niameyben található, és Niger legfontosabb oktatási intézménye.",
@@ -1550,7 +1550,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-grand-marche-niamey-landmarks-v2",
     type: "landmark",
     name: { de: "Großer Markt von Niamey", hu: "Niamey Nagy Piac", ro: "Marea Piață din Niamey", en: "Grand Market of Niamey" },
-    coordinates: { lat: 13.5156, lng: 2.115 },
+    coords: [2.115, 13.5156],
     description: {
       de: "Der Grand Marché ist das wirtschaftliche Herz von Niamey, wo lokale Waren und traditionelles Kunsthandwerk gehandelt werden.",
       hu: "A Grand Marché Niamey gazdasági szíve, ahol helyi árukkal és hagyományos kézműves termékekkel kereskednek.",
@@ -1569,7 +1569,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-palais-du-sultan-de-zinder-landmarks-v2",
     type: "palace",
     name: { de: "Sultanpalast von Zinder", hu: "Zinderi Szultáni Palota", ro: "Palatul Sultanului din Zinder", en: "Sultan's Palace of Zinder" },
-    coordinates: { lat: 13.8058, lng: 8.9867 },
+    coords: [8.9867, 13.8058],
     description: {
       de: "Dieser historische Palast im Stadtviertel Birni von Zinder dient als Residenz für den Sultan von Damagaram.",
       hu: "Ez a Zinder Birni negyedében található történelmi palota a damagarami szultán rezidenciájaként szolgál.",
@@ -1588,7 +1588,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-grande-mosquee-de-zinder-landmarks-v2",
     type: "church",
     name: { de: "Große Moschee von Zinder", hu: "Zinderi Nagy Mecset", ro: "Marea Moschee din Zinder", en: "Great Mosque of Zinder" },
-    coordinates: { lat: 13.8033, lng: 8.9817 },
+    coords: [8.9817, 13.8033],
     description: {
       de: "Die Große Moschee ist ein zentrales religiöses Gebäude im Stadtviertel Birni von Zinder. Sie ist ein bedeutendes Bauwerk der Region.",
       hu: "A Nagy Mecset központi vallási épület Zinder Birni negyedében. A régió fontos építménye.",
@@ -1607,7 +1607,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-fort-de-bilma-landmarks-v2",
     type: "landmark",
     name: { de: "Festung von Bilma", hu: "Bilmai erőd", ro: "Fortăreața din Bilma", en: "Fort of Bilma" },
-    coordinates: { lat: 18.6833, lng: 12.9167 },
+    coords: [12.9167, 18.6833],
     description: {
       de: "Die historische Festung von Bilma diente einst dem Schutz der Trans-Sahara-Karawanenrouten.",
       hu: "A bilmai történelmi erőd egykor a transz-szaharai karavánutak védelmét szolgálta.",
@@ -1626,7 +1626,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-musée-régional-de-zinder-landmarks-v2",
     type: "museum",
     name: { de: "Regionalmuseum von Zinder", hu: "Zinderi Regionális Múzeum", ro: "Muzeul Regional din Zinder", en: "Regional Museum of Zinder" },
-    coordinates: { lat: 13.8011, lng: 8.9886 },
+    coords: [8.9886, 13.8011],
     description: {
       de: "Dieses Museum in Zinder beherbergt Exponate zur Geschichte des Sultanats Damagaram und zur regionalen Kultur.",
       hu: "Ez a zinderi múzeum a Damagaram Szultanátus történelmére és a regionális kultúrára vonatkozó kiállítási tárgyakat őriz.",
@@ -1645,7 +1645,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-centrale-sonichar-landmarks-v2",
     type: "landmark",
     name: { de: "Kraftwerk Sonichar", hu: "Sonichar erőmű", ro: "Centrala Sonichar", en: "Sonichar Power Plant" },
-    coordinates: { lat: 17.0667, lng: 7.4167 },
+    coords: [7.4167, 17.0667],
     description: {
       de: "Das Kohlekraftwerk Sonichar bei Tchirozérine versorgt die Region Agadez mit Strom durch lokale Kohlevorkommen.",
       hu: "A Tchirozérine melletti Sonichar szénerőmű a helyi szénkészletek felhasználásával látja el árammal az Agadez régiót.",
@@ -1664,7 +1664,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-maison-boubou-hama-landmarks-v2",
     type: "landmark",
     name: { de: "Haus von Boubou Hama", hu: "Boubou Hama háza", ro: "Casa lui Boubou Hama", en: "House of Boubou Hama" },
-    coordinates: { lat: 13.515, lng: 2.1145 },
+    coords: [2.1145, 13.515],
     description: {
       de: "Das ehemalige Wohnhaus des bedeutenden nigrischen Politikers und Schriftstellers Boubou Hama in Niamey ist heute ein Gedenkort.",
       hu: "Boubou Hama, a jelentős nigériai politikus és író egykori lakóháza Niameyben ma emlékhely.",
@@ -1683,7 +1683,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-temple-de-la-conciliance-landmarks-v2",
     type: "monument",
     name: { de: "Tempel der Eintracht", hu: "Az Egyetértés Temploma", ro: "Templul Concordiei", en: "Temple of Concord" },
-    coordinates: { lat: 13.5181, lng: 2.1155 },
+    coords: [2.1155, 13.5181],
     description: {
       de: "Dieses Denkmal in Niamey symbolisiert die nationale Einheit Nigers und ist ein bedeutender Ort für offizielle Feierlichkeiten.",
       hu: "Ez a niamey-i emlékmű Niger nemzeti egységét jelképezi, és hivatalos ünnepségek fontos helyszíne.",
@@ -1702,7 +1702,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-cathedrale-de-maradi-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Maradi", hu: "Maradi székesegyház", ro: "Catedrala din Maradi", en: "Cathedral of Maradi" },
-    coordinates: { lat: 13.4833, lng: 7.1 },
+    coords: [7.1, 13.4833],
     description: {
       de: "Die Kathedrale in Maradi ist der Sitz des örtlichen katholischen Bistums und ein religiöses Zentrum der Region.",
       hu: "A maradi székesegyház a helyi katolikus püspökség székhelye és a régió vallási központja.",
@@ -1721,7 +1721,7 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     id: "niger-stadium-seni-kountche-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion Seyni Kountché", hu: "Seyni Kountché Stadion", ro: "Stadionul Seyni Kountché", en: "Seyni Kountché Stadium" },
-    coordinates: { lat: 13.5383, lng: 2.1217 },
+    coords: [2.1217, 13.5383],
     description: {
       de: "Das größte Stadion Nigers befindet sich in Niamey und ist der Austragungsort für wichtige Sport- und Staatsereignisse.",
       hu: "Niger legnagyobb stadionja Niameyben található, és fontos sport- és állami események helyszíne.",

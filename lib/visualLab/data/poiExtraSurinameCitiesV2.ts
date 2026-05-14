@@ -78,7 +78,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-nieuw-nickerie-cities-v2",
     type: "city",
     name: { de: "Nieuw Nickerie", hu: "Nieuw Nickerie", ro: "Nieuw Nickerie", en: "Nieuw Nickerie" },
-    coordinates: { lat: 5.9546, lng: -56.9836 },
+    coords: [-56.9836, 5.9546],
     description: {
       de: "Nieuw Nickerie ist die zweitgrößte Stadt in Suriname und liegt im Distrikt Nickerie. Sie dient als wichtiges Handelszentrum nahe der guyanischen Grenze.",
       hu: "Nieuw Nickerie Suriname második legnagyobb városa Nickerie kerületben. Fontos kereskedelmi központ a guyanai határ közelében.",
@@ -97,7 +97,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-albina-cities-v2",
     type: "city",
     name: { de: "Albina", hu: "Albina", ro: "Albina", en: "Albina" },
-    coordinates: { lat: 5.4952, lng: -54.0538 },
+    coords: [-54.0538, 5.4952],
     description: {
       de: "Albina liegt am Ufer des Marowijne-Flusses im Osten Surinames. Die Stadt dient als wichtiger Grenzposten zum Nachbarland Französisch-Guayana.",
       hu: "Albina a Marowijne folyó partján fekszik Suriname keleti részén. A város fontos határátkelőhely a szomszédos Francia Guyanával.",
@@ -116,7 +116,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-brokopondo-cities-v2",
     type: "city",
     name: { de: "Brokopondo", hu: "Brokopondo", ro: "Brokopondo", en: "Brokopondo" },
-    coordinates: { lat: 5.0531, lng: -54.9667 },
+    coords: [-54.9667, 5.0531],
     description: {
       de: "Brokopondo ist die Hauptstadt des gleichnamigen Distrikts im Landesinneren von Suriname. Sie liegt nahe dem Brokopondo-Stausee.",
       hu: "Brokopondo az azonos nevű kerület fővárosa Suriname belsejében. A Brokopondo-víztározó közelében található.",
@@ -135,7 +135,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-moengo-cities-v2",
     type: "city",
     name: { de: "Moengo", hu: "Moengo", ro: "Moengo", en: "Moengo" },
-    coordinates: { lat: 5.6139, lng: -54.3986 },
+    coords: [-54.3986, 5.6139],
     description: {
       de: "Moengo liegt im Distrikt Marowijne. Die Stadt entwickelte sich durch den Bauxitabbau zu einem bedeutenden Industriestandort.",
       hu: "Moengo Marowijne kerületben található. A város a bauxitbányászat révén jelentős ipari központtá fejlődött.",
@@ -154,7 +154,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-onverwacht-cities-v2",
     type: "city",
     name: { de: "Onverwacht", hu: "Onverwacht", ro: "Onverwacht", en: "Onverwacht" },
-    coordinates: { lat: 5.6744, lng: -55.1953 },
+    coords: [-55.1953, 5.6744],
     description: {
       de: "Onverwacht ist der Hauptort des Distrikts Para. Die Stadt liegt südlich von Paramaribo und dient als lokales Handelszentrum.",
       hu: "Onverwacht Para kerület központja. Paramaribótól délre található, és helyi kereskedelmi központként szolgál.",
@@ -173,7 +173,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-totness-cities-v2",
     type: "city",
     name: { de: "Totness", hu: "Totness", ro: "Totness", en: "Totness" },
-    coordinates: { lat: 5.8778, lng: -56.3267 },
+    coords: [-56.3267, 5.8778],
     description: {
       de: "Totness ist die Hauptstadt des Distrikts Coronie. Sie liegt an der Nordküste Surinames und ist bekannt für ihren Kokosnussanbau.",
       hu: "Totness Coronie kerület fővárosa. Suriname északi partján fekszik, és ismert a kókusztermesztéséről.",
@@ -192,7 +192,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-brownsweg-cities-v2",
     type: "city",
     name: { de: "Brownsweg", hu: "Brownsweg", ro: "Brownsweg", en: "Brownsweg" },
-    coordinates: { lat: 4.9658, lng: -54.9814 },
+    coords: [-54.9814, 4.9658],
     description: {
       de: "Brownsweg ist eine Siedlung im Distrikt Brokopondo. Sie liegt strategisch günstig nahe den touristisch bedeutenden Brownsberg-Reservaten.",
       hu: "Brownsweg egy település Brokopondo kerületben. Stratégiailag kedvező helyen fekszik a turisztikailag jelentős Brownsberg-rezervátumok közelében.",
@@ -211,7 +211,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-pokigron-cities-v2",
     type: "city",
     name: { de: "Pokigron", hu: "Pokigron", ro: "Pokigron", en: "Pokigron" },
-    coordinates: { lat: 4.1481, lng: -55.3347 },
+    coords: [-55.3347, 4.1481],
     description: {
       de: "Pokigron liegt im Distrikt Sipaliwini am Oberlauf des Surinam-Flusses. Die Siedlung ist ein wichtiger Punkt für den Transport in den Süden.",
       hu: "Pokigron Sipaliwini kerületben fekszik, a Suriname folyó felső folyásánál. A település fontos pont a dél felé irányuló szállításban.",
@@ -230,7 +230,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-marienburg-cities-v2",
     type: "city",
     name: { de: "Mariënburg", hu: "Mariënburg", ro: "Mariënburg", en: "Mariënburg" },
-    coordinates: { lat: 5.8647, lng: -55.0347 },
+    coords: [-55.0347, 5.8647],
     description: {
       de: "Mariënburg befindet sich im Distrikt Commewijne. Der Ort ist bekannt für seine Geschichte als ehemalige Zuckerrohrplantage und Fabrik.",
       hu: "Mariënburg Commewijne kerületben található. A hely a cukornádültetvények és a gyár múltjáról ismert.",
@@ -249,7 +249,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-nieuw-amsterdam-cities-v2",
     type: "city",
     name: { de: "Nieuw Amsterdam", hu: "Nieuw Amsterdam", ro: "Nieuw Amsterdam", en: "Nieuw Amsterdam" },
-    coordinates: { lat: 5.8819, lng: -55.0831 },
+    coords: [-55.0831, 5.8819],
     description: {
       de: "Nieuw Amsterdam ist die Hauptstadt des Distrikts Commewijne. Die Stadt liegt an der Mündung der Flüsse Surinam und Commewijne.",
       hu: "Nieuw Amsterdam Commewijne kerület fővárosa. A város a Suriname és a Commewijne folyók torkolatánál fekszik.",
@@ -268,7 +268,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-albina-east-cities-v2",
     type: "city",
     name: { de: "Albina Ost", hu: "Albina Kelet", ro: "Albina Est", en: "Albina East" },
-    coordinates: { lat: 5.498, lng: -54.051 },
+    coords: [-54.051, 5.498],
     description: {
       de: "Dies ist ein expandierender Teil der Siedlung Albina im Distrikt Marowijne. Er dient vornehmlich als Wohn- und Handelsgebiet.",
       hu: "Ez Albina település bővülő része Marowijne kerületben. Főleg lakó- és kereskedelmi területként szolgál.",
@@ -287,7 +287,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tapoeripa-cities-v2",
     type: "city",
     name: { de: "Tapoeripa", hu: "Tapoeripa", ro: "Tapoeripa", en: "Tapoeripa" },
-    coordinates: { lat: 5.5122, lng: -54.0733 },
+    coords: [-54.0733, 5.5122],
     description: {
       de: "Tapoeripa ist eine kleinere Siedlung im Osten Surinames. Sie liegt in der Nähe der Stadt Albina und wird landwirtschaftlich genutzt.",
       hu: "Tapoeripa egy kisebb település Suriname keleti részén. Albina városának közelében fekszik, és mezőgazdasági területként használják.",
@@ -306,7 +306,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-phedra-cities-v2",
     type: "city",
     name: { de: "Phedra", hu: "Phedra", ro: "Phedra", en: "Phedra" },
-    coordinates: { lat: 5.3783, lng: -55.0433 },
+    coords: [-55.0433, 5.3783],
     description: {
       de: "Phedra ist eine kleine Gemeinde im Distrikt Para. Sie zeichnet sich durch ihre Lage entlang des Surinam-Flusses aus.",
       hu: "Phedra egy kis közösség Para kerületben. A Suriname folyó menti fekvésével tűnik ki.",
@@ -325,7 +325,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-bakhuis-cities-v2",
     type: "city",
     name: { de: "Bakhuis", hu: "Bakhuis", ro: "Bakhuis", en: "Bakhuis" },
-    coordinates: { lat: 4.6736, lng: -56.7167 },
+    coords: [-56.7167, 4.6736],
     description: {
       de: "Bakhuis ist eine abgelegene Siedlung im Distrikt Sipaliwini. Sie ist nach dem Bakhuis-Gebirge benannt, das in der Nähe liegt.",
       hu: "Bakhuis egy távoli település Sipaliwini kerületben. A közeli Bakhuis-hegységről nevezték el.",
@@ -344,7 +344,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-drietabbetje-cities-v2",
     type: "city",
     name: { de: "Drietabbetje", hu: "Drietabbetje", ro: "Drietabbetje", en: "Drietabbetje" },
-    coordinates: { lat: 3.9639, lng: -54.4097 },
+    coords: [-54.4097, 3.9639],
     description: {
       de: "Drietabbetje ist eine Siedlung am Marowijne-Fluss. Sie fungiert als administrativer Knotenpunkt für die umliegende Region.",
       hu: "Drietabbetje egy település a Marowijne folyónál. Közigazgatási csomópontként szolgál a környező régió számára.",
@@ -363,7 +363,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kawhage-cities-v2",
     type: "city",
     name: { de: "Kawhage", hu: "Kawhage", ro: "Kawhage", en: "Kawhage" },
-    coordinates: { lat: 5.4322, lng: -54.7811 },
+    coords: [-54.7811, 5.4322],
     description: {
       de: "Kawhage ist eine kleine Siedlung im Distrikt Brokopondo. Sie liegt abgelegen und ist vor allem durch ihr traditionelles Umfeld bekannt.",
       hu: "Kawhage egy kis település Brokopondo kerületben. Fekvése távoli, és leginkább hagyományos környezetéről ismert.",
@@ -382,7 +382,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-awanititopu-cities-v2",
     type: "city",
     name: { de: "Awanititopu", hu: "Awanititopu", ro: "Awanititopu", en: "Awanititopu" },
-    coordinates: { lat: 3.7844, lng: -55.8239 },
+    coords: [-55.8239, 3.7844],
     description: {
       de: "Awanititopu ist eine abgelegene Siedlung im tiefen Süden Surinames. Sie ist geprägt durch die Lebensweise ihrer Bewohner.",
       hu: "Awanititopu egy távoli település Suriname déli részén. Lakóinak életmódja jellemzi.",
@@ -401,7 +401,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kayser-cities-v2",
     type: "city",
     name: { de: "Kayser", hu: "Kayser", ro: "Kayser", en: "Kayser" },
-    coordinates: { lat: 3.2517, lng: -56.5514 },
+    coords: [-56.5514, 3.2517],
     description: {
       de: "Kayser ist ein kleiner Außenposten im südwestlichen Teil Surinames. Die Gegend ist für ihre unberührte Natur bekannt.",
       hu: "Kayser egy kis előőrs Suriname délnyugati részén. A terület érintetlen természetéről ismert.",
@@ -420,7 +420,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-curuni-cities-v2",
     type: "city",
     name: { de: "Curuni", hu: "Curuni", ro: "Curuni", en: "Curuni" },
-    coordinates: { lat: 3.2033, lng: -57.5611 },
+    coords: [-57.5611, 3.2033],
     description: {
       de: "Curuni ist ein Siedlungsplatz am äußersten südwestlichen Rand Surinames. Die Umgebung ist durch dichten Dschungel geprägt.",
       hu: "Curuni egy települési hely Suriname legdélnyugatibb szélén. A környezet sűrű dzsungellel jellemzett.",
@@ -439,7 +439,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-paloemeu-cities-v2",
     type: "city",
     name: { de: "Paloemeu", hu: "Paloemeu", ro: "Paloemeu", en: "Paloemeu" },
-    coordinates: { lat: 3.3444, lng: -55.4417 },
+    coords: [-55.4417, 3.3444],
     description: {
       de: "Paloemeu liegt im Distrikt Sipaliwini. Der Ort ist bekannt für seine kleine Landebahn, die ihn mit der Hauptstadt verbindet.",
       hu: "Paloemeu Sipaliwini kerületben fekszik. A hely ismert kis leszállópályájáról, amely összeköti a fővárossal.",
@@ -458,7 +458,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-oranje-cities-v2",
     type: "city",
     name: { de: "Oranje", hu: "Oranje", ro: "Oranje", en: "Oranje" },
-    coordinates: { lat: 3.5358, lng: -54.7117 },
+    coords: [-54.7117, 3.5358],
     description: {
       de: "Oranje ist eine kleine Siedlung im südöstlichen Inland von Suriname. Sie dient als Ausgangspunkt für Entdeckungen im Hinterland.",
       hu: "Oranje egy kis település Suriname délkeleti belsejében. Kiindulópontként szolgál a hátország felfedezéséhez.",
@@ -477,7 +477,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tapanahony-cities-v2",
     type: "city",
     name: { de: "Tapanahony", hu: "Tapanahony", ro: "Tapanahony", en: "Tapanahony" },
-    coordinates: { lat: 3.7431, lng: -54.3417 },
+    coords: [-54.3417, 3.7431],
     description: {
       de: "Tapanahony bezeichnet eine Region und deren Siedlungskern im Distrikt Sipaliwini, benannt nach dem dort fließenden Tapanahony-Fluss.",
       hu: "Tapanahony egy régiót és annak településközpontját jelöli Sipaliwini kerületben, amelyet az ott folyó Tapanahony folyóról neveztek el.",
@@ -496,7 +496,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-coeroeni-cities-v2",
     type: "city",
     name: { de: "Coeroeni", hu: "Coeroeni", ro: "Coeroeni", en: "Coeroeni" },
-    coordinates: { lat: 3.2536, lng: -57.4856 },
+    coords: [-57.4856, 3.2536],
     description: {
       de: "Coeroeni liegt an der Grenze zu Guyana im tiefen Südwesten Surinames. Die Gegend ist extrem dünn besiedelt.",
       hu: "Coeroeni a Guyana-val határos Suriname mély délnyugati részén fekszik. A terület rendkívül ritkán lakott.",
@@ -515,7 +515,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kwamalasamutu-cities-v2",
     type: "city",
     name: { de: "Kwamalasamutu", hu: "Kwamalasamutu", ro: "Kwamalasamutu", en: "Kwamalasamutu" },
-    coordinates: { lat: 2.3481, lng: -56.8817 },
+    coords: [-56.8817, 2.3481],
     description: {
       de: "Kwamalasamutu ist eine wichtige indigene Siedlung im Distrikt Sipaliwini. Sie liegt im Süden Surinames nahe der brasilianischen Grenze.",
       hu: "Kwamalasamutu egy fontos őslakos település Sipaliwini kerületben. Suriname déli részén fekszik, közel a brazil határhoz.",
@@ -534,7 +534,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kabalebo-cities-v2",
     type: "city",
     name: { de: "Kabalebo", hu: "Kabalebo", ro: "Kabalebo", en: "Kabalebo" },
-    coordinates: { lat: 4.5444, lng: -57.4417 },
+    coords: [-57.4417, 4.5444],
     description: {
       de: "Kabalebo ist ein Siedlungs- und Tourismusgebiet im Südwesten Surinames, benannt nach dem Kabalebo-Fluss.",
       hu: "Kabalebo egy települési és turisztikai terület Suriname délnyugati részén, a Kabalebo folyóról elnevezve.",
@@ -553,7 +553,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-matta-cities-v2",
     type: "city",
     name: { de: "Matta", hu: "Matta", ro: "Matta", en: "Matta" },
-    coordinates: { lat: 5.4344, lng: -55.3347 },
+    coords: [-55.3347, 5.4344],
     description: {
       de: "Matta ist ein Dorf im Distrikt Para. Es ist bekannt für seine indigene Bevölkerung und die umliegende Savannenlandschaft.",
       hu: "Matta egy falu Para kerületben. Ismert őslakos népességéről és a környező szavannás tájról.",
@@ -572,7 +572,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-bitagron-cities-v2",
     type: "city",
     name: { de: "Bitagron", hu: "Bitagron", ro: "Bitagron", en: "Bitagron" },
-    coordinates: { lat: 5.0717, lng: -56.0917 },
+    coords: [-56.0917, 5.0717],
     description: {
       de: "Bitagron ist ein Ort am Coppename-Fluss. Er ist historisch bedeutsam als Zwischenstation für Binnenreisen.",
       hu: "Bitagron egy hely a Coppename folyónál. Történelmileg jelentős, mint köztes állomás a belföldi utazásokhoz.",
@@ -591,7 +591,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-ston-hoeko-cities-v2",
     type: "city",
     name: { de: "Ston Hoeko", hu: "Ston Hoeko", ro: "Ston Hoeko", en: "Ston Hoeko" },
-    coordinates: { lat: 4.9622, lng: -55.5347 },
+    coords: [-55.5347, 4.9622],
     description: {
       de: "Ston Hoeko ist eine kleine Siedlung im Hinterland von Suriname. Die Bewohner leben vornehmlich von der Landwirtschaft.",
       hu: "Ston Hoeko egy kis település Suriname hátországában. A lakók főleg mezőgazdaságból élnek.",
@@ -610,7 +610,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-goddo-cities-v2",
     type: "city",
     name: { de: "Goddo", hu: "Goddo", ro: "Goddo", en: "Goddo" },
-    coordinates: { lat: 3.9619, lng: -55.2817 },
+    coords: [-55.2817, 3.9619],
     description: {
       de: "Goddo ist ein abgelegenes Dorf am oberen Surinam-Fluss. Es ist bekannt für seine tief verwurzelte traditionelle Kultur.",
       hu: "Goddo egy távoli falu a felső Suriname folyónál. Ismert mélyen gyökerező hagyományos kultúrájáról.",
@@ -629,7 +629,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kajana-cities-v2",
     type: "city",
     name: { de: "Kajana", hu: "Kajana", ro: "Kajana", en: "Kajana" },
-    coordinates: { lat: 3.9436, lng: -55.5117 },
+    coords: [-55.5117, 3.9436],
     description: {
       de: "Kajana liegt in der Nähe des oberen Surinam-Flusses. Es dient als wichtiger Stützpunkt für die lokale Bevölkerung.",
       hu: "Kajana a felső Suriname folyó közelében fekszik. Fontos bázisként szolgál a helyi lakosság számára.",
@@ -648,7 +648,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-snesi-kondre-cities-v2",
     type: "city",
     name: { de: "Snesi Kondre", hu: "Snesi Kondre", ro: "Snesi Kondre", en: "Snesi Kondre" },
-    coordinates: { lat: 5.4339, lng: -54.9117 },
+    coords: [-54.9117, 5.4339],
     description: {
       de: "Snesi Kondre ist eine kleine Siedlung im Distrikt Brokopondo. Sie wird von der lokalen Landwirtschaft geprägt.",
       hu: "Snesi Kondre egy kis település Brokopondo kerületben. A helyi mezőgazdaság határozza meg.",
@@ -667,7 +667,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-dam-cities-v2",
     type: "city",
     name: { de: "Dam", hu: "Dam", ro: "Dam", en: "Dam" },
-    coordinates: { lat: 4.8844, lng: -54.9817 },
+    coords: [-54.9817, 4.8844],
     description: {
       de: "Dam ist eine Siedlung am Rande des Stausees von Brokopondo. Der Ort spielt eine Rolle bei der logistischen Anbindung.",
       hu: "Dam egy település a Brokopondo-víztározó szélén. A hely logisztikai szerepet tölt be.",
@@ -686,7 +686,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-akwanga-cities-v2",
     type: "city",
     name: { de: "Akwanga", hu: "Akwanga", ro: "Akwanga", en: "Akwanga" },
-    coordinates: { lat: 3.4419, lng: -55.1217 },
+    coords: [-55.1217, 3.4419],
     description: {
       de: "Akwanga ist ein abgelegenes Dorf in der Sipaliwini-Region. Die Gemeinschaft lebt weitgehend isoliert vom städtischen Leben.",
       hu: "Akwanga egy távoli falu Sipaliwini régióban. A közösség nagyrészt elszigetelten él a városi élettől.",
@@ -705,7 +705,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-awarradam-cities-v2",
     type: "city",
     name: { de: "Awarradam", hu: "Awarradam", ro: "Awarradam", en: "Awarradam" },
-    coordinates: { lat: 3.5822, lng: -55.5117 },
+    coords: [-55.5117, 3.5822],
     description: {
       de: "Awarradam ist ein Ort am oberen Flusslauf, der heute als Ziel für den ökologischen Tourismus bekannt ist.",
       hu: "Awarradam egy hely a felső folyásnál, amely ma az ökológiai turizmus célpontjaként ismert.",
@@ -724,7 +724,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tjitino-cities-v2",
     type: "city",
     name: { de: "Tjitino", hu: "Tjitino", ro: "Tjitino", en: "Tjitino" },
-    coordinates: { lat: 4.1444, lng: -55.4317 },
+    coords: [-55.4317, 4.1444],
     description: {
       de: "Tjitino ist eine Siedlung im Inland Surinames. Sie ist charakteristisch für die kleinen Gemeinschaften am Fluss.",
       hu: "Tjitino egy település Suriname belsejében. Jellemző a folyó menti kis közösségekre.",
@@ -743,7 +743,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-asindoopo-cities-v2",
     type: "city",
     name: { de: "Asindoopo", hu: "Asindoopo", ro: "Asindoopo", en: "Asindoopo" },
-    coordinates: { lat: 4.0244, lng: -55.4517 },
+    coords: [-55.4517, 4.0244],
     description: {
       de: "Asindoopo liegt abgelegen am Fluss. Es fungiert als ein wichtiger Ort für den Austausch in der Region.",
       hu: "Asindoopo távol fekszik a folyónál. Fontos helyként szolgál a régióban való cseréhez.",
@@ -762,7 +762,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-djoemoe-cities-v2",
     type: "city",
     name: { de: "Djoemoe", hu: "Djoemoe", ro: "Djoemoe", en: "Djoemoe" },
-    coordinates: { lat: 3.8444, lng: -55.5117 },
+    coords: [-55.5117, 3.8444],
     description: {
       de: "Djoemoe ist ein Ort am oberen Surinam-Fluss. Er ist typisch für die Siedlungsstruktur im tiefen Dschungel.",
       hu: "Djoemoe egy hely a felső Suriname folyónál. Jellemző a mély dzsungel településszerkezetére.",
@@ -781,7 +781,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-ganga-cities-v2",
     type: "city",
     name: { de: "Ganga", hu: "Ganga", ro: "Ganga", en: "Ganga" },
-    coordinates: { lat: 3.5136, lng: -55.4517 },
+    coords: [-55.4517, 3.5136],
     description: {
       de: "Ganga ist eine sehr kleine Siedlung im abgelegenen Süden Surinames. Sie ist geprägt von der Isolation.",
       hu: "Ganga egy nagyon kis település Suriname távoli déli részén. Az elszigeteltség jellemzi.",
@@ -800,7 +800,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-pikin-slee-cities-v2",
     type: "city",
     name: { de: "Pikin Slee", hu: "Pikin Slee", ro: "Pikin Slee", en: "Pikin Slee" },
-    coordinates: { lat: 3.7917, lng: -55.3347 },
+    coords: [-55.3347, 3.7917],
     description: {
       de: "Pikin Slee ist eine größere indigene Siedlung am oberen Surinam-Fluss. Sie ist ein Zentrum für Kultur und Tradition.",
       hu: "Pikin Slee egy nagyobb őslakos település a felső Suriname folyónál. A kultúra és a hagyomány központja.",
@@ -819,7 +819,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tjaikondre-cities-v2",
     type: "city",
     name: { de: "Tjaikondre", hu: "Tjaikondre", ro: "Tjaikondre", en: "Tjaikondre" },
-    coordinates: { lat: 3.8444, lng: -55.2517 },
+    coords: [-55.2517, 3.8444],
     description: {
       de: "Tjaikondre ist ein abgelegenes Dorf. Die Gemeinschaft ist stark von der Flussschifffahrt abhängig.",
       hu: "Tjaikondre egy távoli falu. A közösség erősen függ a folyami hajózástól.",
@@ -838,7 +838,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-boto-pasi-cities-v2",
     type: "city",
     name: { de: "Boto Pasi", hu: "Boto Pasi", ro: "Boto Pasi", en: "Boto Pasi" },
-    coordinates: { lat: 3.8822, lng: -55.3347 },
+    coords: [-55.3347, 3.8822],
     description: {
       de: "Boto Pasi ist ein kleiner Siedlungsort. Der Ort dient als Anlaufpunkt für Reisende auf dem Fluss.",
       hu: "Boto Pasi egy kis települési hely. A hely találkozási pontként szolgál a folyón utazók számára.",
@@ -857,7 +857,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-lakka-cities-v2",
     type: "city",
     name: { de: "Lakka", hu: "Lakka", ro: "Lakka", en: "Lakka" },
-    coordinates: { lat: 4.1419, lng: -55.5117 },
+    coords: [-55.5117, 4.1419],
     description: {
       de: "Lakka ist eine kleine, isolierte Siedlung. Das Leben in diesem Ort ist eng mit dem umgebenden Wald verbunden.",
       hu: "Lakka egy kis, elszigetelt település. Az élet ezen a helyen szorosan kapcsolódik a környező erdőhöz.",
@@ -876,7 +876,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-daagoe-cities-v2",
     type: "city",
     name: { de: "Daagoe", hu: "Daagoe", ro: "Daagoe", en: "Daagoe" },
-    coordinates: { lat: 3.7544, lng: -55.4317 },
+    coords: [-55.4317, 3.7544],
     description: {
       de: "Daagoe ist ein winziger Siedlungsort. Der Ort ist ein Beispiel für die dünne Besiedlung im Binnenland.",
       hu: "Daagoe egy apró települési hely. A hely példa a ritka népességre a hátországban.",
@@ -895,7 +895,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-kapasi-cities-v2",
     type: "city",
     name: { de: "Kapasi", hu: "Kapasi", ro: "Kapasi", en: "Kapasi" },
-    coordinates: { lat: 3.6544, lng: -55.3347 },
+    coords: [-55.3347, 3.6544],
     description: {
       de: "Kapasi ist eine kleine Ansiedlung. Sie liegt in einem schwer zugänglichen Bereich des Distrikts Sipaliwini.",
       hu: "Kapasi egy kis település. Sipaliwini kerület nehezen megközelíthető részén fekszik.",
@@ -914,7 +914,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-adumukondre-cities-v2",
     type: "city",
     name: { de: "Adumukondre", hu: "Adumukondre", ro: "Adumukondre", en: "Adumukondre" },
-    coordinates: { lat: 3.9922, lng: -55.1517 },
+    coords: [-55.1517, 3.9922],
     description: {
       de: "Adumukondre ist eine Siedlung am Fluss. Sie dient als lokaler Punkt für die indigene Bevölkerung.",
       hu: "Adumukondre egy település a folyónál. Helyi pontként szolgál az őslakos népesség számára.",
@@ -933,7 +933,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-majostee-cities-v2",
     type: "city",
     name: { de: "Majostee", hu: "Majostee", ro: "Majostee", en: "Majostee" },
-    coordinates: { lat: 3.7522, lng: -55.5117 },
+    coords: [-55.5117, 3.7522],
     description: {
       de: "Majostee ist ein abgelegener Ort. Die Siedlung ist für Außenstehende schwer zu finden.",
       hu: "Majostee egy távoli hely. A települést a kívülállók számára nehéz megtalálni.",
@@ -952,7 +952,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-gonin-cities-v2",
     type: "city",
     name: { de: "Gonin", hu: "Gonin", ro: "Gonin", en: "Gonin" },
-    coordinates: { lat: 3.4844, lng: -55.2517 },
+    coords: [-55.2517, 3.4844],
     description: {
       de: "Gonin ist eine kleine Siedlung tief im Süden. Sie ist nur per Boot oder Flugzeug erreichbar.",
       hu: "Gonin egy kis település mélyen délen. Csak csónakkal vagy repülővel érhető el.",
@@ -971,7 +971,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-njoeng-kondre-cities-v2",
     type: "city",
     name: { de: "Njoeng Kondre", hu: "Njoeng Kondre", ro: "Njoeng Kondre", en: "Njoeng Kondre" },
-    coordinates: { lat: 3.9444, lng: -55.0517 },
+    coords: [-55.0517, 3.9444],
     description: {
       de: "Njoeng Kondre liegt in einer bewaldeten Region. Die Menschen dort leben traditionell vom Fischfang.",
       hu: "Njoeng Kondre egy erdős régióban fekszik. Az emberek ott hagyományosan halászatból élnek.",
@@ -990,7 +990,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-pikin-kondre-cities-v2",
     type: "city",
     name: { de: "Pikin Kondre", hu: "Pikin Kondre", ro: "Pikin Kondre", en: "Pikin Kondre" },
-    coordinates: { lat: 4.1222, lng: -55.2817 },
+    coords: [-55.2817, 4.1222],
     description: {
       de: "Pikin Kondre ist eine kleine Siedlung. Sie liegt in einem weniger entwickelten Bereich des Landes.",
       hu: "Pikin Kondre egy kicsi település. Az ország kevésbé fejlett részén található.",
@@ -1009,7 +1009,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-awari-cities-v2",
     type: "city",
     name: { de: "Awari", hu: "Awari", ro: "Awari", en: "Awari" },
-    coordinates: { lat: 3.7544, lng: -55.1217 },
+    coords: [-55.1217, 3.7544],
     description: {
       de: "Awari ist ein entlegener Siedlungsplatz. Das Dorfleben wird durch den Fluss bestimmt.",
       hu: "Awari egy távoli települési hely. A falusi életet a folyó határozza meg.",
@@ -1028,7 +1028,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tapoeripa-boven-cities-v2",
     type: "city",
     name: { de: "Tapoeripa Boven", hu: "Tapoeripa Boven", ro: "Tapoeripa Boven", en: "Tapoeripa Boven" },
-    coordinates: { lat: 5.4844, lng: -54.0817 },
+    coords: [-54.0817, 5.4844],
     description: {
       de: "Tapoeripa Boven liegt flussaufwärts in der Nähe von Albina. Es ist ein ruhiges Gebiet am Marowijne.",
       hu: "Tapoeripa Boven felfelé folyik Albina közelében. Ez egy csendes terület a Marowijne mellett.",
@@ -1047,7 +1047,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-sno-cities-v2",
     type: "city",
     name: { de: "Sno", hu: "Sno", ro: "Sno", en: "Sno" },
-    coordinates: { lat: 4.1444, lng: -55.1517 },
+    coords: [-55.1517, 4.1444],
     description: {
       de: "Sno ist ein sehr abgelegener Ort. Die Verbindung zur Außenwelt erfolgt fast ausschließlich über den Fluss.",
       hu: "Sno egy nagyon távoli hely. A külvilággal való kapcsolat szinte kizárólag a folyón keresztül történik.",
@@ -1066,7 +1066,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-paloemeu-boven-cities-v2",
     type: "city",
     name: { de: "Paloemeu Boven", hu: "Paloemeu Boven", ro: "Paloemeu Boven", en: "Paloemeu Boven" },
-    coordinates: { lat: 3.3844, lng: -55.4517 },
+    coords: [-55.4517, 3.3844],
     description: {
       de: "Paloemeu Boven ist ein Ortsteil oberhalb von Paloemeu. Er ist tief im tropischen Regenwald gelegen.",
       hu: "Paloemeu Boven egy településrész Paloemeu felett. Mélyen a trópusi esőerdőben található.",
@@ -1085,7 +1085,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-tjitino-boven-cities-v2",
     type: "city",
     name: { de: "Tjitino Boven", hu: "Tjitino Boven", ro: "Tjitino Boven", en: "Tjitino Boven" },
-    coordinates: { lat: 4.1822, lng: -55.4117 },
+    coords: [-55.4117, 4.1822],
     description: {
       de: "Tjitino Boven befindet sich flussaufwärts von Tjitino. Das Gebiet ist von unberührter Natur umgeben.",
       hu: "Tjitino Boven Tjitino-tól felfelé folyik. A területet érintetlen természet veszi körül.",
@@ -1104,7 +1104,7 @@ export const poiExtraSurinameCitiesV2: POI[] = [
     id: "suriname-dam-boven-cities-v2",
     type: "city",
     name: { de: "Dam Boven", hu: "Dam Boven", ro: "Dam Boven", en: "Dam Boven" },
-    coordinates: { lat: 4.9244, lng: -54.9517 },
+    coords: [-54.9517, 4.9244],
     description: {
       de: "Dam Boven liegt oberhalb der Dam-Siedlung am Stausee. Es ist ein ruhiger Rückzugsort im Landesinneren.",
       hu: "Dam Boven a Dam-település felett található a víztározónál. Ez egy csendes visszavonulási hely a szárazföld belsejében.",

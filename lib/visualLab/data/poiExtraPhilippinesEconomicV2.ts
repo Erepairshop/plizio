@@ -859,7 +859,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-subic-bay-freeport-zone-economic-v2",
     type: "port",
     name: { de: "Subic Bay Freeport Zone", hu: "Subic-öböl Szabadkikötő Övezet", ro: "Zona Liberă Subic Bay", en: "Subic Bay Freeport Zone" },
-    coordinates: { lat: 14.814, lng: 120.285 },
+    coords: [120.285, 14.814],
     description: {
       de: "Diese Sonderwirtschaftszone war früher ein US-Stützpunkt und ist heute ein bedeutendes maritimes Handelszentrum.",
       hu: "Ez a különleges gazdasági övezet korábban amerikai támaszpont volt, ma pedig jelentős tengeri kereskedelmi központ.",
@@ -878,7 +878,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-clark-freeport-zone-economic-v2",
     type: "industry",
     name: { de: "Clark Freeport Zone", hu: "Clark Szabadkikötő Övezet", ro: "Zona Liberă Clark", en: "Clark Freeport Zone" },
-    coordinates: { lat: 15.185, lng: 120.533 },
+    coords: [120.533, 15.185],
     description: {
       de: "Die Clark Freeport Zone ist ein wichtiges Zentrum für Logistik, Luftfahrt und Hightech-Industrie in Zentralluzon.",
       hu: "A Clark Szabadkikötő Övezet a logisztika, a repülés és a csúcstechnológiás ipar fontos központja Közép-Luzonban.",
@@ -897,7 +897,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-port-of-manila-economic-v2",
     type: "port",
     name: { de: "Hafen von Manila", hu: "Manilai kikötő", ro: "Portul Manila", en: "Port of Manila" },
-    coordinates: { lat: 14.595, lng: 120.954 },
+    coords: [120.954, 14.595],
     description: {
       de: "Dies ist der größte und wichtigste internationale Seehafen der Philippinen für den Containerumschlag.",
       hu: "Ez a Fülöp-szigetek legnagyobb és legfontosabb nemzetközi tengeri kikötője a konténerforgalom szempontjából.",
@@ -916,7 +916,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-port-of-batangas-economic-v2",
     type: "port",
     name: { de: "Hafen von Batangas", hu: "Batangasi kikötő", ro: "Portul Batangas", en: "Port of Batangas" },
-    coordinates: { lat: 13.754, lng: 121.042 },
+    coords: [121.042, 13.754],
     description: {
       de: "Der Hafen von Batangas dient als wichtiges Drehkreuz für Passagierfähren und den Import von Erdölprodukten.",
       hu: "A batangasi kikötő a személyszállító kompok és a kőolajtermékek importjának egyik legfontosabb csomópontja.",
@@ -935,7 +935,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-semirara-coal-mine-economic-v2",
     type: "mine",
     name: { de: "Semirara Kohlebergwerk", hu: "Semirara szénbánya", ro: "Mina de cărbune Semirara", en: "Semirara Coal Mine" },
-    coordinates: { lat: 12.066, lng: 121.385 },
+    coords: [121.385, 12.066],
     description: {
       de: "Dies ist das größte Kohlebergwerk im Tagebau auf den Philippinen und liefert Brennstoff für viele Kraftwerke.",
       hu: "Ez a Fülöp-szigetek legnagyobb külszíni szénbányája, amely számos erőmű számára biztosít üzemanyagot.",
@@ -954,7 +954,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-magat-dam-economic-v2",
     type: "factory",
     name: { de: "Magat-Staudamm", hu: "Magat-gát", ro: "Barajul Magat", en: "Magat Dam" },
-    coordinates: { lat: 16.818, lng: 121.447 },
+    coords: [121.447, 16.818],
     description: {
       de: "Der Magat-Staudamm ist eine Mehrzweckanlage, die sowohl der Bewässerung als auch der Stromerzeugung dient.",
       hu: "A Magat-gát egy többfunkciós létesítmény, amely öntözésre és áramtermelésre egyaránt szolgál.",
@@ -973,7 +973,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-leyte-geothermal-power-field-economic-v2",
     type: "factory",
     name: { de: "Leyte Geothermiefeld", hu: "Leyte geotermikus mező", ro: "Câmpul geotermal Leyte", en: "Leyte Geothermal Power Field" },
-    coordinates: { lat: 11.145, lng: 124.642 },
+    coords: [124.642, 11.145],
     description: {
       de: "Dieses Kraftwerksfeld ist eines der weltweit größten Zentren für die Erzeugung von Erdwärme.",
       hu: "Ez az erőműrendszer a világ egyik legnagyobb központja a geotermikus energia előállítására.",
@@ -992,7 +992,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-bataan-oil-refinery-economic-v2",
     type: "factory",
     name: { de: "Bataan Ölraffinerie", hu: "Bataani olajfinomító", ro: "Rafinăria de petrol Bataan", en: "Bataan Oil Refinery" },
-    coordinates: { lat: 14.524, lng: 120.601 },
+    coords: [120.601, 14.524],
     description: {
       de: "Die Raffinerie in Limay ist die einzige verbliebene Anlage ihrer Art zur Verarbeitung von Rohöl im Land.",
       hu: "A Limay-ben található finomító az egyetlen megmaradt nyersolaj-feldolgozó létesítmény az országban.",
@@ -1011,7 +1011,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-rio-tuba-nickel-mine-economic-v2",
     type: "mine",
     name: { de: "Rio Tuba Nickelmine", hu: "Rio Tuba nikkelbánya", ro: "Mina de nichel Rio Tuba", en: "Rio Tuba Nickel Mine" },
-    coordinates: { lat: 8.515, lng: 117.432 },
+    coords: [117.432, 8.515],
     description: {
       de: "Rio Tuba ist ein bedeutender Nickeltagebau im Süden von Palawan, der Metall für den Weltmarkt exportiert.",
       hu: "Rio Tuba egy jelentős külszíni nikkelbánya Palawan déli részén, amely fémet exportál a világpiacra.",
@@ -1030,7 +1030,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-cebu-south-road-properties-economic-v2",
     type: "industry",
     name: { de: "Cebu South Road Properties", hu: "Cebu South Road Properties", ro: "Cebu South Road Properties", en: "Cebu South Road Properties" },
-    coordinates: { lat: 10.282, lng: 123.885 },
+    coords: [123.885, 10.282],
     description: {
       de: "Dieses Landgewinnungsprojekt in Cebu City ist ein modernes Zentrum für Handel, Tourismus und Wirtschaft.",
       hu: "Ez a Cebu City-ben található feltöltött terület a kereskedelem, a turizmus és az üzleti élet modern központja.",
@@ -1049,7 +1049,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-ortigas-center-economic-v2",
     type: "city",
     name: { de: "Ortigas Center", hu: "Ortigas Center", ro: "Ortigas Center", en: "Ortigas Center" },
-    coordinates: { lat: 14.585, lng: 121.062 },
+    coords: [121.062, 14.585],
     description: {
       de: "Das Ortigas Center ist das zweitwichtigste Geschäftsviertel der Metropolregion Manila mit vielen Hochhäusern.",
       hu: "Az Ortigas Center Manila metropoliszának második legfontosabb üzleti negyede, számos felhőkarcolóval.",
@@ -1068,7 +1068,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-davao-international-container-terminal-economic-v2",
     type: "port",
     name: { de: "Davao Container-Terminal", hu: "Davaói konténerterminál", ro: "Terminalul de containere Davao", en: "Davao International Container Terminal" },
-    coordinates: { lat: 7.254, lng: 125.688 },
+    coords: [125.688, 7.254],
     description: {
       de: "Dieses Terminal ist das modernste Tor für den Export von Agrarprodukten aus der Region Mindanao.",
       hu: "Ez a terminál Mindanao régió mezőgazdasági exportjának legmodernebb kapuja.",
@@ -1087,7 +1087,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-bataan-export-processing-zone-economic-v2",
     type: "industry",
     name: { de: "Bataan Export-Verarbeitungszone", hu: "Bataani Exportfeldolgozó Övezet", ro: "Zona de Procesare a Exportului Bataan", en: "Bataan Export Processing Zone" },
-    coordinates: { lat: 14.444, lng: 120.592 },
+    coords: [120.592, 14.444],
     description: {
       de: "Die Zone in Mariveles war die erste ihrer Art im Land und bleibt ein Zentrum für Fertigungsindustrie.",
       hu: "A Mariveles-ben található övezet az első volt az országban, és máig a gyártóipar központja.",
@@ -1106,7 +1106,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-sual-power-station-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Sual", hu: "Suali erőmű", ro: "Centrala electrică Sual", en: "Sual Power Station" },
-    coordinates: { lat: 16.121, lng: 120.102 },
+    coords: [120.102, 16.121],
     description: {
       de: "Das Kraftwerk Sual ist das größte kohlebefeuerte Kraftwerk der Philippinen und versorgt die Hauptinsel Luzon.",
       hu: "A suali erőmű a Fülöp-szigetek legnagyobb széntüzelésű erőműve, amely Luzon főszigetét látja el.",
@@ -1125,7 +1125,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-phividec-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Phividec Industriegebiet", hu: "Phividec ipari terület", ro: "Domeniul industrial Phividec", en: "Phividec Industrial Estate" },
-    coordinates: { lat: 8.498, lng: 124.754 },
+    coords: [124.754, 8.498],
     description: {
       de: "Dieses riesige Industriegebiet in Misamis Oriental beherbergt schwere Industrien und ein großes Kraftwerk.",
       hu: "Ez a hatalmas ipari terület Misamis Oriental-ban nehézipari létesítményeknek és egy nagy erőműnek ad otthont.",
@@ -1144,7 +1144,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-ambuklao-dam-economic-v2",
     type: "factory",
     name: { de: "Ambuklao-Staudamm", hu: "Ambuklao-gát", ro: "Barajul Ambuklao", en: "Ambuklao Dam" },
-    coordinates: { lat: 16.471, lng: 120.751 },
+    coords: [120.751, 16.471],
     description: {
       de: "Der Ambuklao-Damm war eines der ersten großen Wasserkraftprojekte des Landes in der Provinz Benguet.",
       hu: "Az Ambuklao-gát az ország egyik első nagy vízerőmű-projektje volt Benguet tartományban.",
@@ -1163,7 +1163,7 @@ image: "/poi-images/ph-zamboanga-city-sonderwirtschaftszone-economic-v2.webp"
     id: "philippines-malampaya-natural-gas-plant-economic-v2",
     type: "factory",
     name: { de: "Malampaya Erdgasanlage", hu: "Malampaya földgázüzem", ro: "Instalația de gaze Malampaya", en: "Malampaya Natural Gas Plant" },
-    coordinates: { lat: 13.782, lng: 121.022 },
+    coords: [121.022, 13.782],
     description: {
       de: "Diese Onshore-Anlage in Batangas verarbeitet Erdgas, das aus den Feldern vor Palawan gewonnen wird.",
       hu: "Ez a batangasi szárazföldi üzem dolgozza fel a Palawan partjainál kitermelt földgázt.",

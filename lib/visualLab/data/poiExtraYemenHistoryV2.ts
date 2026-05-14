@@ -646,7 +646,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-zafar-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Zafar", hu: "Zafár romjai", ro: "Ruinele Zafar", en: "Zafar Ruins" },
-    coordinates: { lat: 14.2125, lng: 44.4022 },
+    coords: [44.4022, 14.2125],
     description: {
       de: "Zafar war die Hauptstadt des himjarischen Reiches und ein bedeutendes Zentrum in Südarabien. Die Stätte beherbergt Inschriften und Ruinen aus der Zeit zwischen 115 v. Chr. und 525 n. Chr.",
       hu: "Zafár a Himjarita Királyság egykori fővárosa és Dél-Arábia meghatározó központja volt. A területen Krisztus előtt 115 és Krisztus után 525 közötti feliratok és romok találhatóak.",
@@ -665,7 +665,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-timna-archaeological-history-v2",
     type: "ruins",
     name: { de: "Timna Archäologische Stätte", hu: "Timna régészeti lelőhely", ro: "Situl arheologic Timna", en: "Timna Archaeological Site" },
-    coordinates: { lat: 14.8814, lng: 45.7428 },
+    coords: [45.7428, 14.8814],
     description: {
       de: "Timna war die antike Hauptstadt des Königreichs Qataban im Wadi Beihan. Die Stadt war berühmt für ihren Reichtum durch den Handel mit Myrrhe und Weihrauch.",
       hu: "Timna a Katabán Királyság ősi fővárosa volt a Vádi Bajhán területén. A város a mirha- és tömjénkereskedelemből származó gazdagságáról volt híres.",
@@ -684,7 +684,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-shabwa-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Altes Shabwa", hu: "Ősi Sabva", ro: "Vechiul Shabwa", en: "Ancient Shabwa" },
-    coordinates: { lat: 15.3583, lng: 47.0306 },
+    coords: [47.0306, 15.3583],
     description: {
       de: "Shabwa war die königliche Hauptstadt des Königreichs Hadhramaut in der Antike. Sie diente als obligatorischer Sammelpunkt für die Karawanen der Weihrauchstraße.",
       hu: "Sabva a Hadhramaut Királyság királyi fővárosa volt az ókorban. Kötelező gyülekezőhelyként szolgált a tömjénúti karavánok számára.",
@@ -703,7 +703,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-qarnawu-ma-in-history-v2",
     type: "ruins",
     name: { de: "Qarnawu (Ma'in)", hu: "Karnavu (Maín)", ro: "Qarnawu (Ma'in)", en: "Qarnawu (Ma'in)" },
-    coordinates: { lat: 16.0381, lng: 44.8169 },
+    coords: [44.8169, 16.0381],
     description: {
       de: "Qarnawu war die Hauptstadt des minäischen Königreichs im heutigen Al-Jawf. Die Stadt war ein bedeutendes Handelszentrum für aromatische Harze im ersten Jahrtausend v. Chr.",
       hu: "Karnavu a Mineus Királyság fővárosa volt a mai Al-Dzsauf területén. A város az aromás gyanták kereskedelmének fontos központja volt az i. e. 1. évezredben.",
@@ -722,7 +722,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-janad-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Janad-Moschee", hu: "Al-Dzsanad mecset", ro: "Moscheea Al-Janad", en: "Al-Janad Mosque" },
-    coordinates: { lat: 13.6828, lng: 44.1539 },
+    coords: [44.1539, 13.6828],
     description: {
       de: "Die Al-Janad-Moschee bei Taiz gilt als eine der ältesten Moscheen im Jemen und in der islamischen Welt. Sie wurde während der Lebenszeit des Propheten Mohammed gegründet.",
       hu: "A Taiz közelében található Al-Dzsanad mecset Jemen és az iszlám világ egyik legrégebbi mecsetének számít. Mohamed próféta életében alapították.",
@@ -741,7 +741,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-husn-al-ghuwayzi-history-v2",
     type: "castle",
     name: { de: "Festung Husn al-Ghuwayzi", hu: "Huszn al-Guvajzi erőd", ro: "Fortăreața Husn al-Ghuwayzi", en: "Husn al-Ghuwayzi Fortress" },
-    coordinates: { lat: 14.5467, lng: 49.1286 },
+    coords: [49.1286, 14.5467],
     description: {
       de: "Diese markante Festung thront auf einem Felsvorsprung am Stadtrand von Al-Mukalla. Sie wurde im 18. Jahrhundert zum Schutz der Stadt vor Angriffen aus dem Landesinneren erbaut.",
       hu: "Ez a látványos erőd egy sziklakiszögellésen trónol Al-Mukalla szélén. A 18. században építették, hogy megvédjék a várost a belső területekről érkező támadásoktól.",
@@ -760,7 +760,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-hadi-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Hadi-Moschee", hu: "Al-Hádi mecset", ro: "Moscheea Al-Hadi", en: "Al-Hadi Mosque" },
-    coordinates: { lat: 16.9417, lng: 43.7583 },
+    coords: [43.7583, 16.9417],
     description: {
       de: "Die Al-Hadi-Moschee in Sa'dah ist das religiöse Zentrum der zaiditischen Dynastie im Jemen. Sie beherbergt das Grab von Imam al-Hadi, dem Begründer des Zaiditismus im Land.",
       hu: "A száádai Al-Hádi mecset a jemeni zajdita dinasztia vallási központja. Itt található al-Hádi imám sírja, aki a zajdita irányzat alapítója volt az országban.",
@@ -779,7 +779,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-baynun-ruins-history-v2",
     type: "ruins",
     name: { de: "Baynun-Ruinen", hu: "Bajnun romjai", ro: "Ruinele Baynun", en: "Baynun Ruins" },
-    coordinates: { lat: 14.7333, lng: 44.75 },
+    coords: [44.75, 14.7333],
     description: {
       de: "Baynun war eine antike befestigte Stadt der Himjaren, bekannt für ihre beeindruckenden Bewässerungstunnel. Die Stätte liegt im Gouvernement Dhamar und zeigt fein behauene Steinmetzearbeiten.",
       hu: "Bajnun a himjariták egyik ősi erődített városa volt, amely lenyűgöző öntözőalagútjairól ismert. A lelőhely Dhamar kormányzóságban található, és finoman megmunkált kőfaragásokat mutat be.",
@@ -798,7 +798,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-raybun-archaeological-history-v2",
     type: "ruins",
     name: { de: "Raybun Stätte", hu: "Rajbun régészeti helyszín", ro: "Situl Raybun", en: "Raybun Site" },
-    coordinates: { lat: 15.3522, lng: 48.3014 },
+    coords: [48.3014, 15.3522],
     description: {
       de: "Raybun ist eine bedeutende archäologische Ausgrabungsstätte im Wadi Dawan. Sie war ein religiöses und wirtschaftliches Zentrum des Königreichs Hadhramaut mit mehreren Tempeln.",
       hu: "Rajbun egy jelentős régészeti ásatási terület a Vádi Davanban. A Hadhramaut Királyság vallási és gazdasági központja volt, számos templommal.",
@@ -817,7 +817,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-qani-ancient-port-history-v2",
     type: "port",
     name: { de: "Antiker Hafen Qani", hu: "Káni ősi kikötő", ro: "Vechiul port Qani", en: "Ancient Port of Qani" },
-    coordinates: { lat: 14.0042, lng: 48.3347 },
+    coords: [48.3347, 14.0042],
     description: {
       de: "Qani war der Haupthafen des Königreichs Hadhramaut für den Überseehandel. Von hier aus wurde Weihrauch nach Indien, Ägypten und in das Römische Reich verschifft.",
       hu: "Káni a Hadhramaut Királyság fő tengeri kikötője volt a tengerentúli kereskedelem számára. Innen szállították a tömjént Indiába, Egyiptomba és a Római Birodalomba.",
@@ -836,7 +836,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-qalis-church-site-history-v2",
     type: "ruins",
     name: { de: "Al-Qalis-Ruinen", hu: "Al-Kalisz romok", ro: "Ruinele Al-Qalis", en: "Al-Qalis Ruins" },
-    coordinates: { lat: 15.3533, lng: 44.2153 },
+    coords: [44.2153, 15.3533],
     description: {
       de: "Al-Qalis war eine monumentale christliche Kathedrale, die im 6. Jahrhundert von Abraha in Sanaa erbaut wurde. Sie sollte die Pilgerströme von Mekka nach Sanaa umleiten.",
       hu: "Al-Kalisz egy monumentális keresztény székesegyház volt, amelyet Abraha építtetett Szanaában a 6. században. Célja a mekkai zarándoklatok Szanaába való átterelése volt.",
@@ -855,7 +855,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-nashan-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Nashan", hu: "Nasan ősi városa", ro: "Orașul antic Nashan", en: "Ancient City of Nashan" },
-    coordinates: { lat: 16.155, lng: 44.621 },
+    coords: [44.621, 16.155],
     description: {
       de: "Nashan war ein bedeutender Stadtstaat im Al-Jawf-Becken während der minäischen Ära. Die Ruinen umfassen monumentale Tempelwände und zahlreiche sabäische Inschriften.",
       hu: "Nasan fontos városállam volt az Al-Dzsauf-medencében a mineus korszak alatt. A romok monumentális templomfalakat és számos szábeus feliratot tartalmaznak.",
@@ -874,7 +874,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-haram-archaeological-history-v2",
     type: "ruins",
     name: { de: "Haram (Al-Jawf)", hu: "Haram (Al-Dzsauf)", ro: "Haram (Al-Jawf)", en: "Haram (Al-Jawf)" },
-    coordinates: { lat: 16.1667, lng: 44.7833 },
+    coords: [44.7833, 16.1667],
     description: {
       de: "Haram war eine antike Stadt im Gouvernement Al-Jawf und ein wichtiger Akteur im südostarabischen Handel. Die Stätte ist bekannt für ihre prächtigen Tempelfassaden.",
       hu: "Haram ősi város volt Al-Dzsauf kormányzóságban, és fontos szereplője a délkelet-arábiai kereskedelemnek. A lelőhely pompás templomhomlokzatairól ismert.",
@@ -893,7 +893,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-kamna-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antikes Kamna", hu: "Ősi Kamna", ro: "Vechiul Kamna", en: "Ancient Kamna" },
-    coordinates: { lat: 16.12, lng: 44.75 },
+    coords: [44.75, 16.12],
     description: {
       de: "Kamna, antik bekannt als Kaminahu, war ein bedeutender Stadtstaat im Al-Jawf-Tal. Die Stadt ist für ihre monumentalen Steininschriften und Befestigungen berühmt.",
       hu: "Kamna, ókori nevén Kaminahu, jelentős városállam volt az Al-Dzsauf-völgyben. A város monumentális kőfeliratairól és erődítményeiről híres.",
@@ -912,7 +912,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-inabba-ruins-history-v2",
     type: "ruins",
     name: { de: "Inabba-Ruinen", hu: "Inabba romjai", ro: "Ruinele Inabba", en: "Inabba Ruins" },
-    coordinates: { lat: 16.101, lng: 44.792 },
+    coords: [44.792, 16.101],
     description: {
       de: "Inabba war ein kleinerer sabäischer Außenposten im Al-Jawf-Becken. Die Ruinen zeigen die typische Architektur der südarabischen Antike mit massiven Steinquadern.",
       hu: "Inabba egy kisebb szábeus előőrs volt az Al-Dzsauf-medencében. A romok a dél-arábiai ókor tipikus építészetét mutatják masszív kőtömbökkel.",
@@ -931,7 +931,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-nashqum-al-bayda-history-v2",
     type: "ruins",
     name: { de: "Nashqum (Al-Bayda)", hu: "Naskum (Al-Bajda)", ro: "Nashqum (Al-Bayda)", en: "Nashqum (Al-Bayda)" },
-    coordinates: { lat: 16.14, lng: 44.6 },
+    coords: [44.6, 16.14],
     description: {
       de: "Nashqum, heute bekannt als Al-Bayda, war eine bedeutende antike Stadt im Gouvernement Al-Jawf. Die Stätte beherbergt monumentale Tempelruinen und Befestigungsanlagen.",
       hu: "Naskum, mai nevén Al-Bajda, jelentős ókori város volt Al-Dzsauf kormányzóságban. A lelőhely monumentális templomromoknak és erődítményeknek ad otthont.",
@@ -950,7 +950,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-asas-archaeological-history-v2",
     type: "ruins",
     name: { de: "Al-Asas Stätte", hu: "Al-Aszasz lelőhely", ro: "Situl Al-Asas", en: "Al-Asas Site" },
-    coordinates: { lat: 13.9167, lng: 44.1833 },
+    coords: [44.1833, 13.9167],
     description: {
       de: "Al-Asas ist eine archäologische Stätte in der Nähe von Ibb, die Reste aus der himjarischen Zeit zeigt. Die Funde belegen eine hochentwickelte Siedlungskultur im zentralen Hochland.",
       hu: "Al-Aszasz egy régészeti lelőhely Ibb közelében, amely a himjarita korszak maradványait mutatja be. A leletek a központi felföld fejlett településkultúráját bizonyítják.",
@@ -969,7 +969,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-aqla-inscription-history-v2",
     type: "ruins",
     name: { de: "Al-Uqla Inschriftenfelsen", hu: "Al-Ukla feliratos szikla", ro: "Stânca cu inscripții Al-Uqla", en: "Al-Uqla Inscription Rock" },
-    coordinates: { lat: 15.3167, lng: 47.1 },
+    coords: [47.1, 15.3167],
     description: {
       de: "Al-Uqla ist ein isolierter Felsen in der Nähe von Shabwa, der hunderte von Inschriften der Könige von Hadhramaut trägt. Er diente als ritueller Ort für Krönungszeremonien.",
       hu: "Al-Ukla egy elszigetelt szikla Sabva közelében, amely a hadhramauti királyok több száz feliratát őrzi. Koronázási szertartások rituális helyszíneként szolgált.",
@@ -988,7 +988,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-hajjar-bin-humayd-history-v2",
     type: "ruins",
     name: { de: "Hajjar bin Humayd", hu: "Haddzsár bin Humajd", ro: "Hajjar bin Humayd", en: "Hajjar bin Humayd" },
-    coordinates: { lat: 14.95, lng: 45.8167 },
+    coords: [45.8167, 14.95],
     description: {
       de: "Diese archäologische Stätte im Wadi Beihan ist entscheidend für die Chronologie Südarabiens. Ausgrabungen zeigten eine Siedlungskontinuität vom 11. Jahrhundert v. Chr. an.",
       hu: "Ez a Vádi Bajhánban található régészeti lelőhely kulcsfontosságú Dél-Arábia kronológiája szempontjából. Az ásatások i. e. 11. századi folyamatos lakottságot mutattak ki.",
@@ -1007,7 +1007,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-wadi-markha-ruins-history-v2",
     type: "ruins",
     name: { de: "Wadi Markha Ruinen", hu: "Vádi Markha romok", ro: "Ruinele Wadi Markha", en: "Wadi Markha Ruins" },
-    coordinates: { lat: 14.5, lng: 46.0 },
+    coords: [46.0, 14.5],
     description: {
       de: "Das Wadi Markha beherbergt zahlreiche Ruinen des Königreichs Awsan. Die archäologischen Stätten hier bieten Einblicke in ein weniger bekanntes, aber einst mächtiges Reich.",
       hu: "A Vádi Markha az Avszán Királyság számos romját őrzi. A régészeti helyszínek bepillantást engednek egy kevésbé ismert, de egykor hatalmas birodalom életébe.",
@@ -1026,7 +1026,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-shamsiyyah-madrasa-history-v2",
     type: "monument",
     name: { de: "Shamsiyyah-Medrese", hu: "Samszijja medresze", ro: "Madrasa Shamsiyyah", en: "Shamsiyyah Madrasa" },
-    coordinates: { lat: 14.5333, lng: 44.4 },
+    coords: [44.4, 14.5333],
     description: {
       de: "Die Shamsiyyah-Medrese in Dhamar ist ein bedeutendes Beispiel islamischer Architektur aus dem 15. Jahrhundert. Sie war über Jahrhunderte ein wichtiges religiöses Bildungszentrum.",
       hu: "A dhamari Samszijja medresze a 15. századi iszlám építészet kiemelkedő példája. Évszázadokon át fontos vallási oktatási központ volt.",
@@ -1045,7 +1045,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-bakiriyya-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Bakiriyya-Moschee", hu: "Al-Bakirijja mecset", ro: "Moscheea Al-Bakiriyya", en: "Al-Bakiriyya Mosque" },
-    coordinates: { lat: 15.3567, lng: 44.2181 },
+    coords: [44.2181, 15.3567],
     description: {
       de: "Diese osmanische Moschee in Sanaa zeichnet sich durch ihren markanten Stil aus. Sie wurde im späten 16. Jahrhundert während der ersten osmanischen Besatzung des Jemen erbaut.",
       hu: "Ez a szanaai oszmán mecset jellegzetes stílusával tűnik ki. A 16. század végén épült Jemen első oszmán megszállása idején.",
@@ -1064,7 +1064,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-husn-al-fals-seiyun-history-v2",
     type: "castle",
     name: { de: "Festung Husn al-Fals", hu: "Huszn al-Falsz erőd", ro: "Fortăreața Husn al-Fals", en: "Husn al-Fals Fortress" },
-    coordinates: { lat: 15.94, lng: 48.788 },
+    coords: [48.788, 15.94],
     description: {
       de: "Husn al-Fals ist eine historische Festung auf einem Hügel in Seiyun. Sie diente als strategischer Verteidigungsposten für das Zentrum des Hadhramaut-Tals.",
       hu: "Huszn al-Falsz egy történelmi erőd egy dombtetőn Szajjúnban. Stratégiai védelmi bástyaként szolgált a Hadhramaut-völgy központjában.",
@@ -1083,7 +1083,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-ashair-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Asha'ir-Moschee", hu: "Al-Asair mecset", ro: "Moscheea Al-Asha'ir", en: "Al-Asha'ir Mosque" },
-    coordinates: { lat: 14.2, lng: 43.3167 },
+    coords: [43.3167, 14.2],
     description: {
       de: "Die Al-Asha'ir-Moschee in Zabid wurde im 7. Jahrhundert von Abu Musa al-Ash'ari gegründet. Sie ist eine der ältesten Bildungseinrichtungen des Islam und ein UNESCO-Weltkulturerbe.",
       hu: "A zabidi Al-Asair mecsetet Abu Musza al-Asári alapította a 7. században. Az iszlám egyik legrégebbi oktatási intézménye és az UNESCO Világörökség része.",
@@ -1102,7 +1102,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-luhayyah-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Al-Luhayyah", hu: "Al-Luhajja erőd", ro: "Fortăreața Al-Luhayyah", en: "Al-Luhayyah Fortress" },
-    coordinates: { lat: 15.6942, lng: 42.6953 },
+    coords: [42.6953, 15.6942],
     description: {
       de: "Die Festung von Al-Luhayyah schützte einst den wichtigen Exporthafen am Roten Meer. Sie zeugt von der strategischen Bedeutung des jemenitischen Kaffeehandels im 18. Jahrhundert.",
       hu: "Al-Luhajja erődje egykor a Vörös-tenger fontos exportkikötőjét védte. A 18. századi jemeni kávékereskedelem stratégiai jelentőségéről tanúskodik.",
@@ -1121,7 +1121,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-zuhrah-castle-history-v2",
     type: "castle",
     name: { de: "Burg Al-Zuhrah", hu: "Al-Zuhra vár", ro: "Castelul Al-Zuhrah", en: "Al-Zuhrah Castle" },
-    coordinates: { lat: 15.75, lng: 43.0167 },
+    coords: [43.0167, 15.75],
     description: {
       de: "Burg Al-Zuhrah ist eine imposante Festungsanlage in der Tihama-Ebene. Sie wurde zur Verteidigung der landwirtschaftlich reichen Gebiete Nordjemens gegen Invasoren errichtet.",
       hu: "Al-Zuhra vára egy impozáns erődítmény a Tihama-síkságon. Észak-Jemen mezőgazdaságilag gazdag területeinek védelmére építették a betolakodók ellen.",
@@ -1140,7 +1140,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-shihr-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Shihr", hu: "As-Sihr citadellája", ro: "Citadela Al-Shihr", en: "Al-Shihr Citadel" },
-    coordinates: { lat: 14.76, lng: 49.6083 },
+    coords: [49.6083, 14.76],
     description: {
       de: "Die Zitadelle von Al-Shihr schützte den historischen Hafen, der für den Export von Weihrauch und Fisch bekannt war. Sie spielte eine zentrale Rolle bei der Abwehr portugiesischer Angriffe.",
       hu: "As-Sihr citadellája a történelmi kikötőt védte, amely tömjén- és halexportjáról volt ismert. Központi szerepet játszott a portugál támadások elhárításában.",
@@ -1159,7 +1159,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-husn-al-dhuwaybi-history-v2",
     type: "castle",
     name: { de: "Husn al-Dhuwaybi", hu: "Huszn ad-Duvajbi", ro: "Husn al-Dhuwaybi", en: "Husn al-Dhuwaybi" },
-    coordinates: { lat: 15.5833, lng: 48.0 },
+    coords: [48.0, 15.5833],
     description: {
       de: "Diese isolierte Wüstenfestung bewachte den Zugang zum Hadhramaut-Tal. Sie ist ein hervorragendes Beispiel für die militärische Architektur der Region aus dem Mittelalter.",
       hu: "Ez az elszigetelt sivatagi erőd a Hadhramaut-völgy bejáratát őrizte. Kiváló példája a régió középkori katonai építészetének.",
@@ -1178,7 +1178,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-manakhah-fortified-history-v2",
     type: "town",
     name: { de: "Befestigte Stadt Manakhah", hu: "Manakha erődített városa", ro: "Orașul fortificat Manakhah", en: "Fortified Town of Manakhah" },
-    coordinates: { lat: 15.0667, lng: 43.7333 },
+    coords: [43.7333, 15.0667],
     description: {
       de: "Manakhah ist eine spektakuläre Bergstadt im Haraz-Gebirge, die als Tor zum westlichen Hochland dient. Sie ist bekannt für ihre wehrhafte Architektur und ihre Rolle im jemenitischen Widerstand.",
       hu: "Manakha egy látványos hegyi város a Haraz-hegységben, amely a nyugati felföld kapujaként szolgál. Védelmi építészetéről és a jemeni ellenállásban betöltött szerepéről ismert.",
@@ -1197,7 +1197,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-bukur-historic-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Bukur", hu: "Bukur történelmi falu", ro: "Satul istoric Bukur", en: "Historic Village of Bukur" },
-    coordinates: { lat: 15.2, lng: 43.8 },
+    coords: [43.8, 15.2],
     description: {
       de: "Bukur ist ein perfekt erhaltenes, befestigtes Dorf im Kawkaban-Plateau. Es thront auf einer steilen Klippe und bietet ein authentisches Bild des mittelalterlichen jemenitischen Lebens.",
       hu: "Bukur egy tökéletesen megőrzött, erődített falu a Kavkaban-fennsíkon. Egy meredek sziklán trónol, és hű képet fest a középkori jemeni életről.",
@@ -1216,7 +1216,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-tawila-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Al-Tawila", hu: "Al-Tavila erőd", ro: "Fortăreața Al-Tawila", en: "Al-Tawila Fortress" },
-    coordinates: { lat: 15.4833, lng: 43.7333 },
+    coords: [43.7333, 15.4833],
     description: {
       de: "Die Festung von Al-Tawila liegt auf massiven Felsblöcken oberhalb der gleichnamigen Stadt. Sie war über Jahrhunderte ein unbezwingbarer Posten zum Schutz der Routen zwischen Sanaa und der Tihama.",
       hu: "Al-Tavila erődje masszív kőtömbökön fekszik a város felett. Évszázadokon át bevehetetlen bástyaként védte a Szanaa és a Tihama közötti útvonalakat.",
@@ -1235,7 +1235,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-hababa-town-architecture-history-v2",
     type: "town",
     name: { de: "Historisches Viertel von Hababa", hu: "Hababa történelmi negyede", ro: "Cartierul istoric din Hababa", en: "Historic Quarter of Hababa" },
-    coordinates: { lat: 15.55, lng: 43.8667 },
+    coords: [43.8667, 15.55],
     description: {
       de: "Neben der berühmten Zisterne bietet Hababa ein einzigartiges Ensemble aus mehrstöckigen Steinhäusern. Das Viertel spiegelt die traditionelle Baukunst des jemenitischen Hochlandes wider.",
       hu: "A híres ciszterna mellett Hababa többemeletes kőházakból álló egyedi együttest kínál. A negyed a jemeni felföld hagyományos építőművészetét tükrözi.",
@@ -1254,7 +1254,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-mudhaffar-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Mudhaffar-Moschee", hu: "Al-Muzaffar mecset", ro: "Moscheea Al-Mudhaffar", en: "Al-Mudhaffar Mosque" },
-    coordinates: { lat: 13.575, lng: 44.0117 },
+    coords: [44.0117, 13.575],
     description: {
       de: "Die Al-Mudhaffar-Moschee ist ein Wahrzeichen von Taiz und war die größte Moschee der Stadt während der Rasuliden-Dynastie. Sie ist bekannt für ihre zahlreichen Kuppeln und prachtvollen Minarette.",
       hu: "Az Al-Muzaffar mecset Taiz jelképe, és a város legnagyobb mecsetje volt a Raszulida dinasztia idején. Számos kupolájáról és pompás minaretjeiről ismert.",
@@ -1273,7 +1273,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-ghumdan-palace-site-history-v2",
     type: "ruins",
     name: { de: "Ghumdan-Palast Stätte", hu: "Gumdan-palota helyszíne", ro: "Situl Palatului Ghumdan", en: "Ghumdan Palace Site" },
-    coordinates: { lat: 15.3528, lng: 44.215 },
+    coords: [44.215, 15.3528],
     description: {
       de: "Der Ghumdan-Palast in Sanaa galt als einer der ersten Wolkenkratzer der Welt und als architektonisches Wunder der Antike. Heute markiert die Stätte das historische Herz der Altstadt.",
       hu: "A szanaai Gumdan-palotát a világ egyik első felhőkarcolójaként és az ókor építészeti csodájaként tartották számon. Ma a helyszín az óváros történelmi szívét jelzi.",
@@ -1292,7 +1292,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-hujailah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Hujailah", hu: "Al-Hudzsajla erőd", ro: "Fortul Al-Hujailah", en: "Al-Hujailah Fort" },
-    coordinates: { lat: 14.9833, lng: 43.5167 },
+    coords: [43.5167, 14.9833],
     description: {
       de: "Die Festung Al-Hujailah liegt strategisch günstig am Aufstieg zum Haraz-Gebirge. Sie diente als wichtige Zollstation und Schutzposten für Karawanen auf dem Weg nach Sanaa.",
       hu: "Al-Hudzsajla erődje stratégiai helyen, a Haraz-hegységbe vezető emelkedőnél fekszik. Fontos vámállomásként és őrhelyként szolgált a Szanaába tartó karavánok számára.",
@@ -1311,7 +1311,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-mahwit-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Mahwit", hu: "Al-Mahvit citadellája", ro: "Citadela Al-Mahwit", en: "Al-Mahwit Citadel" },
-    coordinates: { lat: 15.4667, lng: 43.55 },
+    coords: [43.55, 15.4667],
     description: {
       de: "Die Zitadelle von Al-Mahwit dominiert das Panorama der Stadt und ist ein klassisches Beispiel für jemenitische Bergfestungen. Sie schützte die Region vor Angriffen aus den Küstenebenen.",
       hu: "Al-Mahvit citadellája uralja a város látképét, és a jemeni hegyi erődök klasszikus példája. Megvédte a régiót a tengerparti síkság felől érkező támadásoktól.",
@@ -1330,7 +1330,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-utmah-fortified-villages-history-v2",
     type: "village",
     name: { de: "Befestigte Dörfer von Utmah", hu: "Utma erődített falvai", ro: "Satele fortificate din Utmah", en: "Fortified Villages of Utmah" },
-    coordinates: { lat: 14.5, lng: 43.9167 },
+    coords: [43.9167, 14.5],
     description: {
       de: "Die befestigten Dörfer von Utmah liegen in einem der grünsten Gebiete des Jemen. Sie zeichnen sich durch ihre enge Anordnung auf Hügelkuppen aus, um landwirtschaftliche Flächen zu schonen.",
       hu: "Utma erődített falvai Jemen egyik legzöldebb területén találhatók. Jellemzőjük a dombtetőkön való szoros elrendezés, hogy kíméljék a mezőgazdasági területeket.",
@@ -1349,7 +1349,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-bura-historic-terraces-history-v2",
     type: "landmark",
     name: { de: "Historische Terrassen von Bura", hu: "Bura történelmi teraszai", ro: "Terasele istorice din Bura", en: "Historic Terraces of Bura" },
-    coordinates: { lat: 14.8833, lng: 43.4167 },
+    coords: [43.4167, 14.8833],
     description: {
       de: "Die historischen Terrassen von Bura sind ein Meisterwerk des antiken jemenitischen Ingenieurwesens. Sie ermöglichen seit Jahrtausenden den Anbau in den steilen Hängen des Jabal Bura.",
       hu: "Bura történelmi teraszai az ókori jemeni mérnöki munka remekművei. Évezredek óta lehetővé teszik a földművelést a Dzsubal Bura meredek lejtőin.",
@@ -1368,7 +1368,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-khaila-village-history-v2",
     type: "village",
     name: { de: "Dorf Khaila", hu: "Khajla falu", ro: "Satul Khaila", en: "Khaila Village" },
-    coordinates: { lat: 15.1167, lng: 48.3333 },
+    coords: [48.3333, 15.1167],
     description: {
       de: "Khaila ist bekannt für seine spektakuläre Lage am Rand eines Canyons im Wadi Dawan. Die Architektur zeigt die kunstvollsten Lehmbau-Verzierungen der Hadhramaut-Region.",
       hu: "Khajla a Vádi Davan egyik kanyonjának szélén fekvő látványos elhelyezkedéséről ismert. Az építészet a Hadhramaut régió legművészibb vályogdíszítéseit mutatja.",
@@ -1387,7 +1387,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-zubayr-town-history-v2",
     type: "town",
     name: { de: "Historisches Al-Zubayr", hu: "Al-Zubajr történelmi városa", ro: "Al-Zubayr istoric", en: "Historic Al-Zubayr" },
-    coordinates: { lat: 15.1167, lng: 42.8333 },
+    coords: [42.8333, 15.1167],
     description: {
       de: "Al-Zubayr ist eine historische Siedlung in der Nähe von Hodeidah, die für ihre traditionelle Tihama-Architektur bekannt ist. Die Stadt war ein wichtiger Rastplatz für Reisende an der Küste.",
       hu: "Al-Zubajr Hodeidah közelében található történelmi település, amely hagyományos Tihama-építészetéről ismert. A város fontos pihenőhely volt a part menti utazók számára.",
@@ -1406,7 +1406,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-zaydiyah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Zaydiyah", hu: "Al-Zajdijja erőd", ro: "Fortul Al-Zaydiyah", en: "Al-Zaydiyah Fort" },
-    coordinates: { lat: 15.3333, lng: 43.0167 },
+    coords: [43.0167, 15.3333],
     description: {
       de: "Die Festung von Al-Zaydiyah ist ein massives Bollwerk in der nördlichen Tihama. Sie diente zur Sicherung der Nordgrenze und als Verwaltungszentrum während der osmanischen und imamitischen Zeit.",
       hu: "Al-Zajdijja erődje masszív bástya az északi Tihamában. Az északi határ biztosítására és közigazgatási központként szolgált az oszmán és imám korszakban.",
@@ -1425,7 +1425,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-qanawis-district-history-v2",
     type: "town",
     name: { de: "Historisches Al-Qanawis", hu: "Al-Kanavisz történelmi negyede", ro: "Districtul istoric Al-Qanawis", en: "Historic Al-Qanawis" },
-    coordinates: { lat: 15.5, lng: 43.1667 },
+    coords: [43.1667, 15.5],
     description: {
       de: "Al-Qanawis ist bekannt für seine gut erhaltenen historischen Gebäude aus der Tihama-Zeit. Die Stadt war ein wichtiges religiöses Zentrum und Sitz bedeutender jemenitischer Gelehrter.",
       hu: "Al-Kanavisz a Tihama-korszakból származó, jól megőrzött történelmi épületeiről ismert. A város fontos vallási központ és neves jemeni tudósok székhelye volt.",
@@ -1444,7 +1444,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-bajil-fortress-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Bajil", hu: "Badzsíl citadellája", ro: "Citadela Bajil", en: "Bajil Citadel" },
-    coordinates: { lat: 14.98, lng: 43.28 },
+    coords: [43.28, 14.98],
     description: {
       de: "Die Zitadelle von Bajil wachte über den strategischen Durchgang zwischen der Küstenebene und den Bergen. Sie zeigt den Übergang von osmanischen Verteidigungsstilen zu jemenitischen Bauweisen.",
       hu: "Badzsíl citadellája a tengerparti síkság és a hegyek közötti stratégiai átjárót őrizte. Az oszmán védelmi stílusok és a jemeni építési módok közötti átmenetet mutatja.",
@@ -1463,7 +1463,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-husn-al-iryani-history-v2",
     type: "castle",
     name: { de: "Husn al-Iryani", hu: "Huszn al-Irjáni", ro: "Husn al-Iryani", en: "Husn al-Iryani" },
-    coordinates: { lat: 14.05, lng: 44.15 },
+    coords: [44.15, 14.05],
     description: {
       de: "Husn al-Iryani ist ein historischer befestigter Palast der berühmten Iryani-Familie in der Provinz Ibb. Er ist ein exzellentes Beispiel für die herrschaftliche Architektur des jemenitischen Hochlandes.",
       hu: "Huszn al-Irjáni a híres Irjáni család történelmi erődített palotája Ibb tartományban. A jemeni felföldi úri építészet kiváló példája.",
@@ -1482,7 +1482,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-dhuha-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Al-Dhuha", hu: "Al-Duha romjai", ro: "Ruinele Al-Dhuha", en: "Al-Dhuha Ruins" },
-    coordinates: { lat: 15.2, lng: 43.1 },
+    coords: [43.1, 15.2],
     description: {
       de: "Al-Dhuha beherbergt Ruinen aus der frühen islamischen und mittelalterlichen Zeit der Tihama. Die Stätte zeigt die Entwicklung der Küstenstädte vor dem Aufstieg von Hodeidah.",
       hu: "Al-Duha a korai iszlám és a középkori Tihama korszak romjait őrzi. A lelőhely a tengerparti városok fejlődését mutatja be Hodeidah felemelkedése előtt.",
@@ -1501,7 +1501,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-khowkhah-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Khowkhah", hu: "Al-Khoha citadellája", ro: "Citadela Al-Khowkhah", en: "Al-Khowkhah Citadel" },
-    coordinates: { lat: 13.8017, lng: 43.25 },
+    coords: [43.25, 13.8017],
     description: {
       de: "Die Zitadelle von Al-Khowkhah sicherte den südlichen Teil der Tihama-Küste. Sie diente sowohl als Verteidigungsanlage gegen Piraten als auch als Speicher für Exportgüter.",
       hu: "Al-Khoha citadellája a Tihama-part déli részét biztosította. Védelmi létesítményként szolgált a kalózok ellen, és raktárként az exportcikkek számára.",
@@ -1520,7 +1520,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-mansuriyah-madrasa-history-v2",
     type: "monument",
     name: { de: "Al-Mansuriyah-Medrese", hu: "Al-Manszurijja medresze", ro: "Madrasa Al-Mansuriyah", en: "Al-Mansuriyah Madrasa" },
-    coordinates: { lat: 14.5, lng: 43.3333 },
+    coords: [43.3333, 14.5],
     description: {
       de: "Die Al-Mansuriyah-Medrese in der Tihama ist ein historisches Juwel der Rasuliden-Architektur. Sie war berühmt für ihre mathematische und astronomische Ausbildung im Mittelalter.",
       hu: "A tihamai Al-Manszurijja medresze a Raszulida építészet történelmi ékköve. A középkorban matematikai és csillagászati oktatásáról volt híres.",
@@ -1539,7 +1539,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-walan-ancient-site-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Walan", hu: "Walan ősi városa", ro: "Orașul antic Walan", en: "Ancient City of Walan" },
-    coordinates: { lat: 15.0, lng: 44.2 },
+    coords: [44.2, 15.0],
     description: {
       de: "Walan ist eine antike sabäische Stadt im Gouvernement Sanaa. Die Stätte zeigt beeindruckende Reste von Tempeln und Stadtmauern aus dem ersten Jahrtausend v. Chr.",
       hu: "Walan egy ősi szábeus város Szanaa kormányzóságban. A lelőhely templomok és városfalak lenyűgöző maradványait mutatja be az i. e. 1. évezredből.",
@@ -1558,7 +1558,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-masila-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Al-Masila", hu: "Al-Maszila romjai", ro: "Ruinele Al-Masila", en: "Al-Masila Ruins" },
-    coordinates: { lat: 15.5, lng: 50.8333 },
+    coords: [50.8333, 15.5],
     description: {
       de: "Al-Masila im Osten des Jemen beherbergt Ruinen, die bis in die vorislamische Zeit zurückreichen. Die Stätte war ein wichtiger Handelsposten auf der Landroute nach Oman.",
       hu: "Al-Maszila Kelet-Jemenben olyan romoknak ad otthont, amelyek az iszlám előtti időkbe nyúlnak vissza. A lelőhely fontos kereskedelmi állomás volt az Ománba vezető szárazföldi úton.",
@@ -1577,7 +1577,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-khor-umayra-ruins-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Khor Umayra", hu: "Hor Umajra régészeti helyszín", ro: "Situl arheologic Khor Umayra", en: "Khor Umayra Archaeological Site" },
-    coordinates: { lat: 12.6333, lng: 44.1667 },
+    coords: [44.1667, 12.6333],
     description: {
       de: "Khor Umayra an der Küste westlich von Aden beherbergt Reste prähistorischer und antiker Siedlungen. Die Funde belegen eine frühe maritime Kultur und den Austausch mit dem Horn von Afrika.",
       hu: "Ádentől nyugatra, a part mentén fekvő Hor Umajra őskori és ókori települések maradványait őrzi. A leletek korai tengeri kultúrát és az Afrika szarvával való kapcsolatot bizonyítják.",
@@ -1596,7 +1596,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-madinah-mosque-history-v2",
     type: "monument",
     name: { de: "Al-Madinah-Moschee (Zabid)", hu: "Al-Madína mecset (Zabid)", ro: "Moscheea Al-Madinah (Zabid)", en: "Al-Madinah Mosque (Zabid)" },
-    coordinates: { lat: 14.195, lng: 43.315 },
+    coords: [43.315, 14.195],
     description: {
       de: "Die Al-Madinah-Moschee in Zabid ist eines der ältesten Gebäude der historischen Stadt. Sie war über Jahrhunderte ein Zentrum der shafiitischen Rechtsschule im Jemen.",
       hu: "A zabidi Al-Madína mecset a történelmi város egyik legrégebbi épülete. Évszázadokon át a jemeni shafiita jogi iskola központja volt.",
@@ -1615,7 +1615,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-jabal-sabir-palaces-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Sabir-Paläste", hu: "Sabir-paloták romjai", ro: "Ruinele Palatelor Sabir", en: "Sabir Palace Ruins" },
-    coordinates: { lat: 13.55, lng: 44.05 },
+    coords: [44.05, 13.55],
     description: {
       de: "Auf dem Jabal Sabir befinden sich Ruinen antiker und mittelalterlicher Palastanlagen. Diese dienten den Herrschern von Taiz als kühler Rückzugsort und strategischer Ausguck.",
       hu: "A Dzsubal Sabir hegyen ókori és középkori palotakomplexumok romjai találhatók. Ezek Taiz uralkodói számára hűvös menedékként és stratégiai kilátóként szolgáltak.",
@@ -1634,7 +1634,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-bait-al-faqih-historic-history-v2",
     type: "town",
     name: { de: "Historisches Bait al-Faqih", hu: "Bajt al-Fakih történelmi városa", ro: "Bait al-Faqih istoric", en: "Historic Bait al-Faqih" },
-    coordinates: { lat: 14.5017, lng: 43.3167 },
+    coords: [43.3167, 14.5017],
     description: {
       de: "Bait al-Faqih war im 18. Jahrhundert das weltweit wichtigste Zentrum des Kaffeehandels. Die Stadt bewahrt prächtige Häuser von Kaufleuten und Gelehrten aus dieser Blütezeit.",
       hu: "Bajt al-Fakih a 18. században a világ legfontosabb kávékereskedelmi központja volt. A város megőrizte a virágkorból származó pompás kereskedőházakat.",
@@ -1653,7 +1653,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-hudaydah-old-town-history-v2",
     type: "town",
     name: { de: "Altstadt von Al-Hudaydah", hu: "Al-Hodeidah óvárosa", ro: "Orașul vechi Al-Hudaydah", en: "Old Town of Al-Hudaydah" },
-    coordinates: { lat: 14.8, lng: 42.95 },
+    coords: [42.95, 14.8],
     description: {
       de: "Die Altstadt von Al-Hudaydah zeigt einen einzigartigen Mix aus osmanischen und jemenitischen Küstenelementen. Besonders prägnant sind die hölzernen Erkerfenster (Rawashin) der Kaufmannshäuser.",
       hu: "Al-Hodeidah óvárosa az oszmán és a jemeni tengerparti elemek egyedülálló keverékét mutatja. Különösen jellegzetesek a kereskedőházak fából készült zárterkélyei (ravasin).",
@@ -1672,7 +1672,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-baraqish-ancient-ruins-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Baraqish", hu: "Baraqis ókori városa", ro: "Orașul antic Baraqish", en: "Ancient City of Baraqish" },
-    coordinates: { lat: 15.8667, lng: 44.8167 },
+    coords: [44.8167, 15.8667],
     description: {
       de: "Baraqish, antik bekannt als Yathill, ist die am besten erhaltene ummauerte Stadt im Jemen. Die massiven Mauern aus dem ersten Jahrtausend v. Chr. stehen noch fast in voller Höhe.",
       hu: "Baraqis, ókori nevén Jathill, Jemen legjobban megőrzött fallal körülvett városa. Az i. e. 1. évezredből származó masszív falak ma is szinte teljes magasságukban állnak.",
@@ -1691,7 +1691,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-bayda-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Bayda", hu: "Al-Bajda citadellája", ro: "Citadela Al-Bayda", en: "Al-Bayda Citadel" },
-    coordinates: { lat: 13.9833, lng: 45.5667 },
+    coords: [45.5667, 13.9833],
     description: {
       de: "Die Zitadelle von Al-Bayda liegt auf einem markanten Hügel und sicherte den Übergang zwischen Zentraljemen und dem Süden. Sie war ein wichtiger Stützpunkt während der Kriege um die jemenitische Einheit.",
       hu: "Al-Bajda citadellája egy jellegzetes dombon fekszik, és biztosította az átjárást Közép-Jemen és dél között. A jemeni egységért vívott háborúk fontos bázisa volt.",
@@ -1710,7 +1710,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-marib-old-city-ruins-history-v2",
     type: "ruins",
     name: { de: "Altstadt von Marib (Ruinen)", hu: "Marib óvárosának romjai", ro: "Orașul vechi Marib (ruine)", en: "Marib Old City Ruins" },
-    coordinates: { lat: 15.4217, lng: 45.3283 },
+    coords: [45.3283, 15.4217],
     description: {
       de: "Die Ruinen der Altstadt von Marib liegen auf einem Hügel nahe der modernen Stadt. Sie beherbergen Reste aus sabäischer Zeit und traditionelle Lehmziegelhäuser, die während des Bürgerkriegs verlassen wurden.",
       hu: "Marib óvárosának romjai a modern város közelében, egy dombon találhatók. Szábeus korszakból származó maradványokat és a polgárháború idején elhagyott hagyományos vályogházakat őriznek.",
@@ -1729,7 +1729,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-madrasah-al-shamsiyah-dhamar-history-v2",
     type: "monument",
     name: { de: "Al-Shamsiyah Medrese", hu: "Al-Samszijja medresze", ro: "Madrasa Al-Shamsiyah", en: "Al-Shamsiyah Madrasa" },
-    coordinates: { lat: 14.533, lng: 44.4005 },
+    coords: [44.4005, 14.533],
     description: {
       de: "Die Al-Shamsiyah Medrese in Dhamar ist eine der bedeutendsten islamischen Bildungseinrichtungen des Jemen. Sie wurde im 15. Jahrhundert erbaut und ist für ihre kunstvolle Architektur bekannt.",
       hu: "A dhamari Al-Samszijja medresze Jemen egyik legjelentősebb iszlám oktatási intézménye. A 15. században épült, és művészi építészetéről ismert.",
@@ -1748,7 +1748,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-hadi-mosque-saada-history-v2",
     type: "monument",
     name: { de: "Grabmoschee von Imam al-Hadi", hu: "Al-Hádi imám sírmecsetje", ro: "Moscheea mormânt a Imamului al-Hadi", en: "Imam al-Hadi Tomb Mosque" },
-    coordinates: { lat: 16.941, lng: 43.758 },
+    coords: [43.758, 16.941],
     description: {
       de: "Diese Moschee in Sa'dah beherbergt das Grab des Begründers des zaiditischen Imamat im Jemen. Sie ist seit über tausend Jahren ein spiritueller Mittelpunkt des Nordjemens.",
       hu: "Ez a száádai mecset a jemeni zajdita imámság alapítójának sírját őrzi. Több mint ezer éve Észak-Jemen szellemi központja.",
@@ -1767,7 +1767,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-bakiriyah-mosque-sanaa-history-v2",
     type: "monument",
     name: { de: "Al-Bakiriyah Moschee", hu: "Al-Bakirijja mecset", ro: "Moscheea Al-Bakiriyah", en: "Al-Bakiriyah Mosque" },
-    coordinates: { lat: 15.3565, lng: 44.2185 },
+    coords: [44.2185, 15.3565],
     description: {
       de: "Die Al-Bakiriyah-Moschee in Sanaa ist das herausragende Beispiel osmanischer Baukunst im Jemen. Sie wurde während der ersten osmanischen Periode als Symbol der Herrschaft errichtet.",
       hu: "A szanaai Al-Bakirijja mecset az oszmán építőművészet kiemelkedő példája Jemenben. Az első oszmán korszakban épült az uralkodás jelképeként.",
@@ -1786,7 +1786,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-hababa-cisterns-history-v2",
     type: "landmark",
     name: { de: "Cisternen von Hababa", hu: "Hababa ciszternái", ro: "Cisternele din Hababa", en: "Hababa Cisterns" },
-    coordinates: { lat: 15.551, lng: 43.865 },
+    coords: [43.865, 15.551],
     description: {
       de: "Die historischen Zisternen von Hababa sind für ihr klares Wasser und die Spiegelung der umliegenden Steinarchitektur bekannt. Sie sind ein Paradebeispiel für jemenitische Wasserbaukunst.",
       hu: "Hababa történelmi ciszternái tiszta vizükről és a környező kőépítészet tükröződéséről ismertek. A jemeni vízépítő művészet kiváló példái.",
@@ -1805,7 +1805,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-sira-fortress-aden-history-v2",
     type: "castle",
     name: { de: "Sira-Festung (Aden)", hu: "Szira erőd (Áden)", ro: "Fortăreața Sira (Aden)", en: "Sira Fortress (Aden)" },
-    coordinates: { lat: 12.7833, lng: 45.05 },
+    coords: [45.05, 12.7833],
     description: {
       de: "Die Sira-Festung auf einer Vulkaninsel vor Aden war über Jahrtausende der Schlüssel zur Verteidigung des Hafens. Sie wurde im 11. Jahrhundert in ihrer heutigen Form errichtet.",
       hu: "Az Áden előtti vulkáni szigeten fekvő Szira erőd évezredek óta a kikötő védelmének kulcsa volt. Mai formáját a 11. században nyerte el.",
@@ -1824,7 +1824,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-thula-old-walled-history-v2",
     type: "landmark",
     name: { de: "Stadtmauer von Thula", hu: "Thula városfala", ro: "Zidurile orașului Thula", en: "Thula City Walls" },
-    coordinates: { lat: 15.5833, lng: 43.9 },
+    coords: [43.9, 15.5833],
     description: {
       de: "Die Stadt Thula ist von einer massiven, gut erhaltenen Steinmauer umgeben, die ein herausragendes Beispiel für jemenitische Verteidigungsarchitektur ist. Sie schützte die Stadt über Jahrhunderte vor Belagerungen.",
       hu: "Thula városát masszív, jól megőrzött kőfal veszi körül, amely a jemeni védelmi építészet kiemelkedő példája. Évszázadokon át óvta a várost az ostromoktól.",
@@ -1843,7 +1843,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-bait-baws-village-history-v2",
     type: "village",
     name: { de: "Bait Baws Geisterdorf", hu: "Bajt Bávsz szellemfalu", ro: "Satul părăsit Bait Baws", en: "Bait Baws Ghost Village" },
-    coordinates: { lat: 15.2667, lng: 44.2 },
+    coords: [44.2, 15.2667],
     description: {
       de: "Bait Baws ist ein antikes befestigtes Dorf am Rande von Sanaa, das heute weitgehend verlassen ist. Es war einst ein Zentrum der jemenitisch-jüdischen Gemeinde und ist für seine Architektur bekannt.",
       hu: "Bajt Bávsz egy ősi erődített falu Szanaa szélén, amely mára nagyrészt elnéptelenedett. Egykor a jemeni zsidó közösség központja volt, és építészetéről ismert.",
@@ -1862,7 +1862,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-hajjarah-fortified-history-v2",
     type: "village",
     name: { de: "Befestigtes Al-Hajjarah", hu: "Al-Haddzsara erődített falu", ro: "Satul fortificat Al-Hajjarah", en: "Fortified Al-Hajjarah" },
-    coordinates: { lat: 15.0667, lng: 43.7167 },
+    coords: [43.7167, 15.0667],
     description: {
       de: "Al-Hajjarah ist ein spektakuläres Dorf im Haraz-Gebirge, dessen Häuser direkt in den Felsabgrund übergehen. Es wurde im 12. Jahrhundert als Festung gegen Invasoren aus der Tihama-Ebene gegründet.",
       hu: "Al-Haddzsara látványos falu a Haraz-hegységben, amelynek házai közvetlenül a sziklaszakadék szélén állnak. A 12. században alapították erődként a Tihama felől érkező támadók ellen.",
@@ -1881,7 +1881,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-zabid-great-mosque-history-v2",
     type: "monument",
     name: { de: "Große Moschee von Zabid", hu: "Zabidi nagymecset", ro: "Marea Moschee din Zabid", en: "Great Mosque of Zabid" },
-    coordinates: { lat: 14.1967, lng: 43.315 },
+    coords: [43.315, 14.1967],
     description: {
       de: "Die Große Moschee von Zabid ist das spirituelle Zentrum der ehemaligen Hauptstadt. Sie war über Jahrhunderte eine der bedeutendsten Universitäten der islamischen Welt für shafiitisches Recht.",
       hu: "A zabidi nagymecset az egykori főváros szellemi központja. Évszázadokon át az iszlám világ egyik legjelentősebb egyeteme volt a shafiita jogtudomány számára.",
@@ -1900,7 +1900,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-baraqish-temple-history-v2",
     type: "ruins",
     name: { de: "Nakrah-Tempel (Baraqish)", hu: "Nakrah templom (Baraqis)", ro: "Templul Nakrah (Baraqish)", en: "Nakrah Temple (Baraqish)" },
-    coordinates: { lat: 15.867, lng: 44.817 },
+    coords: [44.817, 15.867],
     description: {
       de: "Der Nakrah-Tempel ist das bedeutendste religiöse Bauwerk in der antiken Stadt Baraqish. Er ist bekannt für seine perfekt behauenen Steinpfeiler und die fein gearbeiteten Inschriften der Minäer.",
       hu: "A Nakrah templom a legfontosabb vallási építmény az ókori Baraqis városában. Tökéletesen faragott kőoszlopairól és a mineusok finoman kidolgozott feliratairól ismert.",
@@ -1919,7 +1919,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-amiriya-madrasa-rada-history-v2",
     type: "monument",
     name: { de: "Amiriya-Medrese (Rada'a)", hu: "Amirija medresze (Rada)", ro: "Madrasa Amiriya (Rada'a)", en: "Amiriya Madrasa (Rada'a)" },
-    coordinates: { lat: 14.4833, lng: 44.7833 },
+    coords: [44.7833, 14.4833],
     description: {
       de: "Die Amiriya-Medrese in Rada'a ist ein Juwel der tahiridischen Architektur aus dem frühen 16. Jahrhundert. Sie ist berühmt für ihre aufwendigen Wandmalereien und die kunstvollen Stuckarbeiten.",
       hu: "A radai Amirija medresze a 16. század eleji tahirida építészet ékköve. Bonyolult falfestményeiről és művészi stukkómunkáiról híres.",
@@ -1938,7 +1938,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
     id: "yemen-al-ashrafiya-madrasa-taiz-history-v2",
     type: "monument",
     name: { de: "Al-Ashrafiya Medrese", hu: "Al-Asrafijja medresze", ro: "Madrasa Al-Ashrafiya", en: "Al-Ashrafiya Madrasa" },
-    coordinates: { lat: 13.5755, lng: 44.0125 },
+    coords: [44.0125, 13.5755],
     description: {
       de: "Die Al-Ashrafiya-Medrese ist eines der prächtigsten Bauwerke in Taiz. Sie wurde im 14. Jahrhundert von der Rasuliden-Dynastie erbaut und diente als Zentrum für religiöse und weltliche Bildung.",
       hu: "Az Al-Asrafijja medresze Taiz egyik legpompásabb épülete. A 14. században építtette a Raszulida dinasztia, és vallási, valamint világi oktatási központként szolgált.",

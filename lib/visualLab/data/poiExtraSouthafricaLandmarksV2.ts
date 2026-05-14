@@ -1434,7 +1434,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-iziko-sa-museum-landmarks-v2",
     type: "museum",
     name: { de: "Iziko South African Museum", hu: "Iziko Dél-afrikai Múzeum", ro: "Muzeul Iziko din Africa de Sud", en: "Iziko South African Museum" },
-    coordinates: { lat: -33.9295, lng: 18.4152 },
+    coords: [18.4152, -33.9295],
     description: {
       de: "Das 1825 gegründete Museum in Kapstadt beherbergt über 1,5 Millionen wissenschaftlich bedeutende Exponate in den Company's Gardens.",
       hu: "Az 1825-ben alapított fokvárosi múzeum több mint 1,5 millió tudományos jelentőségű példánynak ad otthont a Társasági Kertben.",
@@ -1453,7 +1453,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-womens-monument-bfn-landmarks-v2",
     type: "monument",
     name: { de: "Nationales Frauendenkmal", hu: "Nemzeti Női Emlékmű", ro: "Monumentul Național al Femeilor", en: "National Women's Monument" },
-    coordinates: { lat: -29.1414, lng: 26.2086 },
+    coords: [26.2086, -29.1414],
     description: {
       de: "Dieses Denkmal in Bloemfontein erinnert an die 27.000 burischen Frauen und Kinder, die während des Burenkrieges in Lagern starben.",
       hu: "Ez a bloemfonteini emlékmű annak a 27 000 búr nőnek és gyermeknek állít emléket, akik a búr háború koncentrációs táboraiban haltak meg.",
@@ -1472,7 +1472,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-artscape-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Artscape Theatre Centre", hu: "Artscape Színházi Központ", ro: "Centrul Teatral Artscape", en: "Artscape Theatre Centre" },
-    coordinates: { lat: -33.9194, lng: 18.4311 },
+    coords: [18.4311, -33.9194],
     description: {
       de: "Das 1971 eröffnete Artscape ist das wichtigste Zentrum für darstellende Künste in Kapstadt und beherbergt Oper, Ballett und Theater.",
       hu: "Az 1971-ben megnyitott Artscape Fokváros legfontosabb előadóművészeti központja, amely operának, balettnek és színháznak ad otthont.",
@@ -1491,7 +1491,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-horse-memorial-pe-landmarks-v2",
     type: "monument",
     name: { de: "The Horse Memorial", hu: "A Ló Emlékműve", ro: "Monumentul Calului", en: "The Horse Memorial" },
-    coordinates: { lat: -33.9622, lng: 25.6033 },
+    coords: [25.6033, -33.9622],
     description: {
       de: "Dieses Bronzedenkmal in Gqeberha ehrt die Hunderttausende Pferde, die während des Zweiten Burenkrieges ihr Leben ließen.",
       hu: "Ez a gqeberhai bronz emlékmű annak a több százezer lónak állít emléket, amelyek a második búr háborúban vesztették életüket.",
@@ -1510,7 +1510,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-national-museum-bfn-landmarks-v2",
     type: "museum",
     name: { de: "National Museum Bloemfontein", hu: "Nemzeti Múzeum Bloemfontein", ro: "Muzeul Național Bloemfontein", en: "National Museum Bloemfontein" },
-    coordinates: { lat: -29.1166, lng: 26.2166 },
+    coords: [26.2166, -29.1166],
     description: {
       de: "Das Nationalmuseum in Bloemfontein wurde 1877 gegründet und ist bekannt für seine umfangreichen paläontologischen Sammlungen.",
       hu: "A bloemfonteini Nemzeti Múzeumot 1877-ben alapították, és híres kiterjedt őslénytani gyűjteményeiről.",
@@ -1529,7 +1529,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-emanuel-cathedral-durban-landmarks-v2",
     type: "cathedral",
     name: { de: "Emmanuel Cathedral", hu: "Emmanuel-székesegyház", ro: "Catedrala Emmanuel", en: "Emmanuel Cathedral" },
-    coordinates: { lat: -29.8572, lng: 31.0188 },
+    coords: [31.0188, -29.8572],
     description: {
       de: "Diese römisch-katholische Kathedrale im Zentrum von Durban besticht durch ihre neugotische Architektur und ihre Rolle im sozialen Kampf.",
       hu: "Ez a Durban központjában található római katolikus székesegyház neogótikus építészetével és a társadalmi küzdelmekben betöltött szerepével tűnik ki.",
@@ -1548,7 +1548,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-groote-kerk-cape-town-landmarks-v2",
     type: "church",
     name: { de: "Groote Kerk", hu: "Groote Kerk", ro: "Groote Kerk", en: "Groote Kerk" },
-    coordinates: { lat: -33.9247, lng: 18.4211 },
+    coords: [18.4211, -33.9247],
     description: {
       de: "Die Groote Kerk in Kapstadt ist das älteste christliche Gotteshaus in Südafrika und dient der Niederländisch-Reformierten Kirche.",
       hu: "A fokvárosi Groote Kerk Dél-Afrika legrégebbi keresztény temploma, amely a Holland Református Egyházat szolgálja.",
@@ -1567,7 +1567,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-market-theatre-jhb-landmarks-v2",
     type: "theater",
     name: { de: "Market Theatre", hu: "Piactér Színház", ro: "Teatrul Pieței", en: "Market Theatre" },
-    coordinates: { lat: -26.2016, lng: 28.0327 },
+    coords: [28.0327, -26.2016],
     description: {
       de: "Dieses Theater in Johannesburg wurde 1976 in einem ehemaligen Obstmarkt eröffnet und wurde als „Theater des Kampfes“ weltbekannt.",
       hu: "Ezt a johannesburgi színházat 1976-ban nyitották meg egy korábbi gyümölcspiacon, és a „küzdelem színházaként” vált világhírűvé.",
@@ -1586,7 +1586,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-sa-national-gallery-landmarks-v2",
     type: "museum",
     name: { de: "South African National Gallery", hu: "Dél-afrikai Nemzeti Galéria", ro: "Galeria Națională a Africii de Sud", en: "South African National Gallery" },
-    coordinates: { lat: -33.9305, lng: 18.4169 },
+    coords: [18.4169, -33.9305],
     description: {
       de: "Südafrikas wichtigste Kunstgalerie in Kapstadt zeigt eine beeindruckende Sammlung südafrikanischer, afrikanischer und europäischer Kunst.",
       hu: "Dél-Afrika legfontosabb művészeti galériája Fokvárosban dél-afrikai, afrikai és európai műalkotások lenyűgöző gyűjteményét mutatja be.",
@@ -1605,7 +1605,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-storms-river-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Paul Sauer Bridge", hu: "Paul Sauer híd", ro: "Podul Paul Sauer", en: "Paul Sauer Bridge" },
-    coordinates: { lat: -33.9686, lng: 23.9297 },
+    coords: [23.9297, -33.9686],
     description: {
       de: "Diese markante Bogenbrücke überspannt die Schlucht des Storms River und ist ein wichtiges Wahrzeichen der Garden Route.",
       hu: "Ez a jellegzetes ívhíd a Storms-folyó szakadéka felett ível át, és a Garden Route egyik fontos jelképe.",
@@ -1624,7 +1624,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-slangkop-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Slangkop Lighthouse", hu: "Slangkop világítótorony", ro: "Farul Slangkop", en: "Slangkop Lighthouse" },
-    coordinates: { lat: -34.1486, lng: 18.3188 },
+    coords: [18.3188, -34.1486],
     description: {
       de: "Der Slangkop-Leuchtturm in Kommetjie ist der höchste gusseiserne Leuchtturm in Südafrika und ein Wahrzeichen der Kaphalbinsel.",
       hu: "A kommetjie-i Slangkop világítótorony Dél-Afrika legmagasabb öntöttvas világítótornya, a Fok-félsziget egyik jelképe.",
@@ -1643,7 +1643,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-kzn-museum-pmb-landmarks-v2",
     type: "museum",
     name: { de: "KwaZulu-Natal Museum", hu: "KwaZulu-Natal Múzeum", ro: "Muzeul KwaZulu-Natal", en: "KwaZulu-Natal Museum" },
-    coordinates: { lat: -29.6025, lng: 30.3788 },
+    coords: [30.3788, -29.6025],
     description: {
       de: "Das Museum in Pietermaritzburg ist eines der größten Südafrikas und zeigt bedeutende Exponate zur Naturgeschichte und Anthropologie.",
       hu: "A pietermaritzburgi múzeum Dél-Afrika egyik legnagyobbja, jelentős természettudományi és antropológiai kiállításokkal.",
@@ -1662,7 +1662,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-origins-centre-museum-landmarks-v2",
     type: "museum",
     name: { de: "Origins Centre Museum", hu: "Eredet Központ Múzeum", ro: "Muzeul Centrul Originilor", en: "Origins Centre Museum" },
-    coordinates: { lat: -26.1913, lng: 28.0294 },
+    coords: [28.0294, -26.1913],
     description: {
       de: "Dieses Museum in Johannesburg erforscht die Ursprünge der Menschheit und die reiche Geschichte der San-Felskunst im südlichen Afrika.",
       hu: "Ez a johannesburgi múzeum az emberiség eredetét és a dél-afrikai szan sziklaművészet gazdag történelmét kutatja.",
@@ -1681,7 +1681,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-drc-graaff-reinet-landmarks-v2",
     type: "church",
     name: { de: "Niederländisch-Reformierte Kirche Graaff-Reinet", hu: "Holland Református Templom Graaff-Reinet", ro: "Biserica Reformată Olandeză Graaff-Reinet", en: "Dutch Reformed Church Graaff-Reinet" },
-    coordinates: { lat: -32.2519, lng: 24.5338 },
+    coords: [24.5338, -32.2519],
     description: {
       de: "Diese neugotische Kirche ist das dominierende Wahrzeichen von Graaff-Reinet und eines der am besten erhaltenen historischen Gebäude der Karoo.",
       hu: "Ez a neogótikus templom Graaff-Reinet meghatározó jelképe és a Karoo egyik legjobban megőrzött történelmi épülete.",
@@ -1700,7 +1700,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-standard-bank-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Standard Bank Gallery", hu: "Standard Bank Galéria", ro: "Galeria Standard Bank", en: "Standard Bank Gallery" },
-    coordinates: { lat: -26.2052, lng: 28.0405 },
+    coords: [28.0405, -26.2052],
     description: {
       de: "Die Galerie im Zentrum von Johannesburg ist ein wichtiger Ort für hochkarätige nationale und internationale Kunstausstellungen.",
       hu: "A Johannesburg központjában található galéria fontos helyszíne a rangos nemzeti és nemzetközi művészeti kiállításoknak.",
@@ -1719,7 +1719,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-reserve-bank-pretoria-landmarks-v2",
     type: "landmark",
     name: { de: "South African Reserve Bank Building", hu: "Dél-afrikai Jegybank épülete", ro: "Clădirea Băncii de Rezervă a Africii de Sud", en: "South African Reserve Bank Building" },
-    coordinates: { lat: -25.7455, lng: 28.1961 },
+    coords: [28.1961, -25.7455],
     description: {
       de: "Das Hauptgebäude der südafrikanischen Zentralbank in Pretoria war zum Zeitpunkt seiner Fertigstellung das höchste Gebäude der Stadt.",
       hu: "A dél-afrikai központi bank főépülete Pretoriában elkészültekor a város legmagasabb épülete volt.",
@@ -1738,7 +1738,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-mandela-statue-sandton-landmarks-v2",
     type: "monument",
     name: { de: "Nelson-Mandela-Statue (Sandton)", hu: "Nelson Mandela-szobor (Sandton)", ro: "Statuia lui Nelson Mandela (Sandton)", en: "Nelson Mandela Statue (Sandton)" },
-    coordinates: { lat: -26.1075, lng: 28.0525 },
+    coords: [28.0525, -26.1075],
     description: {
       de: "Diese sechs Meter hohe Bronzestatue auf dem Nelson Mandela Square in Sandton ist ein beliebtes Fotomotiv und Symbol der Versöhnung.",
       hu: "Ez a hat méter magas bronzszobor a sandtoni Nelson Mandela téren népszerű fotóhelyszín és a megbékélés szimbóluma.",
@@ -1757,7 +1757,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "southafrica-donkin-reserve-lighthouse-landmarks-v2",
     type: "landmark",
     name: { de: "Donkin Reserve Leuchtturm", hu: "Donkin Reserve világítótorony", ro: "Farul Donkin Reserve", en: "Donkin Reserve Lighthouse" },
-    coordinates: { lat: -33.9622, lng: 25.6191 },
+    coords: [25.6191, -33.9622],
     description: {
       de: "Dieser historische Leuchtturm in Gqeberha befindet sich im Donkin Reserve und bietet einen Panoramablick über die Algoa Bay.",
       hu: "Ez a gqeberhai történelmi világítótorony a Donkin Reserve területén található, és panorámás kilátást nyújt az Algoa-öbölre.",

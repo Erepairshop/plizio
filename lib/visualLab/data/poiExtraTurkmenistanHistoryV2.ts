@@ -726,7 +726,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-ekedeshik-history-v2",
     type: "ruins",
     name: { de: "Ekedeshik Höhlenstadt", hu: "Ekedeshik barlangváros", ro: "Orașul în peșteră Ekedeshik", en: "Ekedeshik Cave City" },
-    coordinates: { lat: 35.9431, lng: 62.4822 },
+    coords: [62.4822, 35.9431],
     description: {
       de: "Ekedeshik ist eine antike Höhlenstadt nahe Tagtabazar. Der Komplex umfasst zahlreiche in den Sandstein gehauene Kammern auf mehreren Ebenen.",
       hu: "Ekedeshik egy ősi barlangváros Tagtabazar közelében. A homokkőbe vájt komplexum több szinten elhelyezkedő kamrákat és vallási helyszíneket tartalmaz.",
@@ -745,7 +745,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-jeitun-history-v2",
     type: "ruins",
     name: { de: "Jeitun Siedlung", hu: "Dzsejtun-kultúra helyszíne", ro: "Așezarea Jeitun", en: "Jeitun Neolithic Site" },
-    coordinates: { lat: 38.1611, lng: 58.2105 },
+    coords: [58.2105, 38.1611],
     description: {
       de: "Jeitun ist eine der ältesten neolithischen Siedlungen in Zentralasien. Die Ausgrabungen zeigen frühe Formen des Ackerbaus und der Viehzucht.",
       hu: "Dzsejtun az egyik legrégebbi neolitikus település Közép-Ázsiában. Az ásatások korai földművelés és állattenyésztés nyomait tárták fel.",
@@ -764,7 +764,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-mane-baba-history-v2",
     type: "monument",
     name: { de: "Mane-Baba Mausoleum", hu: "Mane-baba mauzóleum", ro: "Mausoleul Mane-Baba", en: "Mane-Baba Mausoleum" },
-    coordinates: { lat: 36.9112, lng: 59.8544 },
+    coords: [59.8544, 36.9112],
     description: {
       de: "Das Mausoleum von Mane-Baba ist ein bedeutendes Denkmal der seldschukischen Architektur. Es wurde über dem Grab des Sufi-Shaykhs Abu Said errichtet.",
       hu: "A Mane-baba mauzóleum a szeldzsuk építészet jelentős emléke. Abu Szaid szúfi sejk sírja fölé emelték a 11. században.",
@@ -783,7 +783,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-talkhatan-baba-history-v2",
     type: "church",
     name: { de: "Talkhatan-Baba Moschee", hu: "Talkhatan-baba mecset", ro: "Moscheea Talkhatan-Baba", en: "Talkhatan-Baba Mosque" },
-    coordinates: { lat: 37.5255, lng: 61.8512 },
+    coords: [61.8512, 37.5255],
     description: {
       de: "Die Talkhatan-Baba Moschee ist berühmt für ihr kunstvolles Mauerwerk aus dem 11. Jahrhundert. Sie gilt als Meisterwerk der seldschukischen Ziegelkunst.",
       hu: "A Talkhatan-baba mecset híres a 11. századi művészi téglafalazatáról. A szeldzsuk díszítőművészet egyik legszebb példája Közép-Ázsiában.",
@@ -802,7 +802,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-amul-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Amul", hu: "Amul erőd", ro: "Cetatea Amul", en: "Amul Fortress" },
-    coordinates: { lat: 39.0221, lng: 63.5934 },
+    coords: [63.5934, 39.0221],
     description: {
       de: "Amul war eine wichtige Festungsstadt an der Seidenstraße am Ufer des Amu-Darja. Die Lehmziegelruinen zeugen von der strategischen Bedeutung der Region.",
       hu: "Amul fontos erődváros volt a Selyemút mentén, az Amu-darja partján. A vályogtégla romok a régió stratégiai jelentőségéről tanúskodnak.",
@@ -821,7 +821,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-mashhad-i-misrian-history-v2",
     type: "ruins",
     name: { de: "Mashhad-i Misrian", hu: "Mashhad-i Misrian", ro: "Mashhad-i Misrian", en: "Mashhad-i Misrian" },
-    coordinates: { lat: 38.2711, lng: 54.6133 },
+    coords: [54.6133, 38.2711],
     description: {
       de: "Mashhad-i Misrian ist das religiöse Zentrum der antiken Stadt Dekhistan. Die imposanten Minarette und Moscheeruinen ragen aus der Wüste auf.",
       hu: "Mashhad-i Misrian az ősi Dekhisztán városának vallási központja. Az impozáns minaretek és mecsetromok kiemelkednek a sivatagi tájból.",
@@ -840,7 +840,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-izmukshir-history-v2",
     type: "castle",
     name: { de: "Izmukshir Festung", hu: "Izmukshir erőd", ro: "Cetatea Izmukshir", en: "Izmukshir Fortress" },
-    coordinates: { lat: 41.7344, lng: 59.6102 },
+    coords: [59.6102, 41.7344],
     description: {
       de: "Izmukshir ist eine antike Festung in der Nähe von Daşoguz mit massiven Verteidigungswällen. Sie war einst ein bedeutendes kulturelles Zentrum Choresmiens.",
       hu: "Izmukshir egy ősi erőd Daşoguz közelében, hatalmas védőfalakkal. Egykor Hvárezm egyik jelentős kulturális és kereskedelmi központja volt.",
@@ -859,7 +859,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-shahsenem-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Shahsenem", hu: "Shahsenem romjai", ro: "Ruinele Shahsenem", en: "Shahsenem Ruins" },
-    coordinates: { lat: 41.0522, lng: 58.4215 },
+    coords: [58.4215, 41.0522],
     description: {
       de: "Shahsenem ist eine mittelalterliche Stadtruine in der Karakum-Wüste. Der Ort ist eng mit der berühmten Liebeslegende von Shasenem und Garyp verbunden.",
       hu: "Shahsenem egy középkori városrom a Karakum-sivatagban. A helyszín szorosan kötődik Shasenem és Garyp híres szerelmi legendájához.",
@@ -878,7 +878,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-diyar-bekir-history-v2",
     type: "ruins",
     name: { de: "Diyar-Bekir Ruinen", hu: "Diyar-bekir romjai", ro: "Ruinele Diyar-Bekir", en: "Diyar-Bekir Ruins" },
-    coordinates: { lat: 41.6812, lng: 59.2155 },
+    coords: [59.2155, 41.6812],
     description: {
       de: "Diyar-Bekir ist eine antike und mittelalterliche Festungsanlage in Choresmien. Die Ruinen zeigen eine quadratische Anordnung mit massiven Wällen.",
       hu: "Diyar-bekir egy ősi és középkori erődrendszer Hvárezmben. A romok négyzet alakú elrendezést mutatnak hatalmas védőfalakkal.",
@@ -897,7 +897,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-dev-kesen-history-v2",
     type: "castle",
     name: { de: "Dev-kesen Festung", hu: "Dev-kesen erőd", ro: "Cetatea Dev-kesen", en: "Dev-kesen Fortress" },
-    coordinates: { lat: 41.3121, lng: 58.2544 },
+    coords: [58.2544, 41.3121],
     description: {
       de: "Die Festung Dev-kesen liegt auf einem hohen Felsplateau über dem Ustjurt-Abbruch. Sie bietet einen weiten Blick über die Wüste und das alte Amudarja-Bett.",
       hu: "A Dev-kesen erőd egy magas sziklaplatón fekszik az Usztyurt-fennsík szélén. Kilátást nyújt a sivatagra és az Amu-darja egykori medrére.",
@@ -916,7 +916,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-ak-depe-history-v2",
     type: "ruins",
     name: { de: "Ak-depe Ruinen", hu: "Ak-depe romjai", ro: "Ruinele Ak-depe", en: "Ak-depe Ruins" },
-    coordinates: { lat: 37.9855, lng: 58.2133 },
+    coords: [58.2133, 37.9855],
     description: {
       de: "Ak-depe ist eine archäologische Stätte in der Nähe von Ashgabat, die Funde aus verschiedenen Epochen beherbergt. Besonders bedeutend sind die parthischen Schichten.",
       hu: "Ak-depe egy régészeti lelőhely Asgabat közelében, amely több korszak leleteit őrzi. Különösen jelentősek a pártus kori rétegei.",
@@ -935,7 +935,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-togolok-depe-history-v2",
     type: "ruins",
     name: { de: "Togolok-depe", hu: "Togolok-depe", ro: "Togolok-depe", en: "Togolok-depe" },
-    coordinates: { lat: 38.1522, lng: 62.1133 },
+    coords: [62.1133, 38.1522],
     description: {
       de: "Togolok-depe war ein wichtiges religiöses Zentrum der Margiana-Kultur in der späten Bronzezeit. Es umfasste monumentale Tempelanlagen.",
       hu: "Togolok-depe a Margiana-kultúra fontos vallási központja volt a késő bronzkorban. Monumentális templomkomplexumokat foglalt magában.",
@@ -954,7 +954,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-shehr-islam-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Shehr-Islam", hu: "Shehr-Islam romjai", ro: "Ruinele Shehr-Islam", en: "Shehr-Islam Ruins" },
-    coordinates: { lat: 38.6522, lng: 58.0133 },
+    coords: [58.0133, 38.6522],
     description: {
       de: "Shehr-Islam war eine blühende mittelalterliche Stadt an der Seidenstraße. Die Ruinen liegen nördlich der Kopet-Dag-Berge in der Wüste.",
       hu: "Shehr-Islam egy virágzó középkori város volt a Selyemút mentén. A romok a Kopet-dag hegységtől északra, a sivatagban találhatók.",
@@ -973,7 +973,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-parau-bibi-history-v2",
     type: "monument",
     name: { de: "Parau-bibi Heiligtum", hu: "Parau-bibi szentély", ro: "Sanctuarul Parau-bibi", en: "Parau-bibi Shrine" },
-    coordinates: { lat: 38.9211, lng: 56.2522 },
+    coords: [56.2522, 38.9211],
     description: {
       de: "Parau-bibi ist ein bedeutendes Heiligtum an einem Berghang des Kopet-Dag. Es ist ein heiliger Ort für Frauen und reich an volkstümlichen Legenden.",
       hu: "Parau-bibi egy fontos szentély a Kopet-dag hegység egyik lejtőjén. A nők szent helye, amely gazdag népi legendákban és hagyományokban.",
@@ -992,7 +992,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-halk-hakydasy-history-v2",
     type: "monument",
     name: { de: "Halk Hakydasy Gedenkstätte", hu: "Halk Hakydasy emlékhely", ro: "Complexul Memorial Halk Hakydasy", en: "Halk Hakydasy Memorial Complex" },
-    coordinates: { lat: 37.9145, lng: 58.3377 },
+    coords: [58.3377, 37.9145],
     description: {
       de: "Halk Hakydasy ist ein monumentaler Gedenkkomplex in Ashgabat. Er erinnert an die Opfer des Erdbebens von 1948 und gefallene Soldaten vergangener Kriege.",
       hu: "Halk Hakydasy egy monumentális emlékkomplexum Asgabatban. Az 1948-as földrengés áldozatainak és a háborúkban elesett katonáknak állít emléket.",
@@ -1011,7 +1011,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-najm-ed-din-kubra-history-v2",
     type: "monument",
     name: { de: "Najm-ed-din al-Kubra Mausoleum", hu: "Najm-ed-din al-Kubra mauzóleum", ro: "Mausoleul Najm-ed-din al-Kubra", en: "Najm-ed-din al-Kubra Mausoleum" },
-    coordinates: { lat: 42.3211, lng: 59.1822 },
+    coords: [59.1822, 42.3211],
     description: {
       de: "Dieses Mausoleum ist dem Gründer des Kubrawiyya-Sufi-Ordens gewidmet. Es ist eine der heiligsten Stätten in Koneürgenç und Ziel vieler Pilger.",
       hu: "Ez a mauzóleum a kubravijja szúfi rend alapítójának van szentelve. Köneürgenç egyik legszentebb helye és számos zarándok célpontja.",
@@ -1030,7 +1030,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-erk-kala-history-v2",
     type: "ruins",
     name: { de: "Erk-Kala (Alt-Merv)", hu: "Erk-kala (Merv)", ro: "Erk-Kala (Merv)", en: "Erk-Kala (Ancient Merv)" },
-    coordinates: { lat: 37.6655, lng: 62.1933 },
+    coords: [62.1933, 37.6655],
     description: {
       de: "Erk-Kala ist der älteste Teil des antiken Merv, der bis in die achämenidische Zeit zurückreicht. Die massiven Erdwälle umschließen die einstige Zitadelle.",
       hu: "Erk-kala az ősi Merv legidősebb része, amely az Akhaimenida-korig nyúlik vissza. A hatalmas földfalak az egykori citadellát övezik.",
@@ -1049,7 +1049,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-gyaur-kala-bayramaly-history-v2",
     type: "castle",
     name: { de: "Gyaur-Kala Festung", hu: "Gyaur-kala erőd", ro: "Cetatea Gyaur-Kala", en: "Gyaur-Kala Fortress" },
-    coordinates: { lat: 37.6622, lng: 62.1855 },
+    coords: [62.1855, 37.6622],
     description: {
       de: "Gyaur-Kala war das befestigte Zentrum des hellenistischen und sasanidischen Merv. Die weitläufigen Mauern zeugen von der Bedeutung als Handelsmetropole.",
       hu: "Gyaur-kala a hellenisztikus és szaszanida Merv erődített központja volt. A kiterjedt falak a város kereskedelmi központként betöltött szerepét jelzik.",
@@ -1068,7 +1068,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-abdulla-khan-kala-history-v2",
     type: "castle",
     name: { de: "Abdulla-Khan-Kala", hu: "Abdulla-khan-kala", ro: "Abdulla-Khan-Kala", en: "Abdulla-Khan-Kala" },
-    coordinates: { lat: 37.6522, lng: 62.2011 },
+    coords: [62.2011, 37.6522],
     description: {
       de: "Diese Festung aus dem 15. Jahrhundert stellt die späteste Phase der Stadtentwicklung im Merv-Oase dar. Sie wurde unter der Herrschaft der Timuriden erbaut.",
       hu: "Ez a 15. századi erőd a Merv-oázis városfejlődésének kései szakaszát képviseli. A Timurida uralkodók idején épült.",
@@ -1087,7 +1087,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-hoja-yusup-hamadani-history-v2",
     type: "monument",
     name: { de: "Hoja-Yusup-Hamadani Komplex", hu: "Hoja-Yusup-Hamadani komplexum", ro: "Complexul Hoja-Yusup-Hamadani", en: "Hoja-Yusup-Hamadani Complex" },
-    coordinates: { lat: 37.6688, lng: 62.1955 },
+    coords: [62.1955, 37.6688],
     description: {
       de: "Der Komplex ist einem berühmten Sufi-Gelehrten des 12. Jahrhunderts gewidmet. Er ist ein zentrales religiöses Heiligtum in der Region Mary.",
       hu: "A komplexumot egy híres 12. századi szúfi tudósnak szentelték. Ez a Mary régió egyik központi vallási szentélye.",
@@ -1106,7 +1106,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-alkyr-depe-history-v2",
     type: "ruins",
     name: { de: "Alkyr-depe", hu: "Alkyr-depe", ro: "Alkyr-depe", en: "Alkyr-depe" },
-    coordinates: { lat: 38.2111, lng: 61.9122 },
+    coords: [61.9122, 38.2111],
     description: {
       de: "Alkyr-depe ist eine archäologische Stätte aus der Eisenzeit. Die Funde geben Einblick in die frühe Besiedlung und Verteidigung der Merv-Oase.",
       hu: "Alkyr-depe egy vaskori régészeti lelőhely. A leletek betekintést nyújtanak a Merv-oázis korai betelepülésébe és védelmi rendszereibe.",
@@ -1125,7 +1125,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-adži-kui-history-v2",
     type: "ruins",
     name: { de: "Adzhi-kui Siedlung", hu: "Adzhi-kui település", ro: "Așezarea Adzhi-kui", en: "Adzhi-kui Settlement" },
-    coordinates: { lat: 38.3122, lng: 62.0133 },
+    coords: [62.0133, 38.3122],
     description: {
       de: "Adzhi-kui war eine bedeutende Stadt der Margiana-Zivilisation in der Bronzezeit. Die Ausgrabungen legten komplexe Wohnviertel und Werkstätten frei.",
       hu: "Adzhi-kui a Margiana civilizáció jelentős városa volt a bronzkorban. Az ásatások összetett lakónegyedeket és műhelyeket tártak fel.",
@@ -1144,7 +1144,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kellili-history-v2",
     type: "ruins",
     name: { de: "Kellili Ausgrabungen", hu: "Kellili ásatások", ro: "Săpăturile Kellili", en: "Kellili Excavations" },
-    coordinates: { lat: 38.3522, lng: 61.9544 },
+    coords: [61.9544, 38.3522],
     description: {
       de: "Kellili ist eine frühe bronzezeitliche Stätte der Margiana-Kultur. Sie stellt eine der ersten sesshaften Bauerngemeinden in der Region dar.",
       hu: "Kellili a Margiana-kultúra korai bronzkori lelőhelye. A régió egyik első letelepedett földművelő közösségét képviseli.",
@@ -1163,7 +1163,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-pessedzhik-depe-history-v2",
     type: "ruins",
     name: { de: "Pessedzhik-depe", hu: "Pessedzhik-depe", ro: "Pessedzhik-depe", en: "Pessedzhik-depe" },
-    coordinates: { lat: 38.1922, lng: 58.0833 },
+    coords: [58.0833, 38.1922],
     description: {
       de: "Pessedzhik-depe ist bekannt für seine neolithischen Wandmalereien, die Jagdszenen darstellen. Es ist eine der wichtigsten Fundstätten der Jeitun-Kultur.",
       hu: "Pessedzhik-depe a vadászjeleneteket ábrázoló neolitikus falfestményeiről ismert. A Dzsejtun-kultúra egyik legfontosabb lelőhelye.",
@@ -1182,7 +1182,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-chopan-depe-history-v2",
     type: "ruins",
     name: { de: "Chopan-depe", hu: "Chopan-depe", ro: "Chopan-depe", en: "Chopan-depe" },
-    coordinates: { lat: 38.1255, lng: 58.3122 },
+    coords: [58.3122, 38.1255],
     description: {
       de: "Chopan-depe ist eine weitere bedeutende Siedlung der Jeitun-Kultur. Die Ausgrabungen zeigten die Entwicklung der Architektur in der Jungsteinzeit.",
       hu: "Chopan-depe a Dzsejtun-kultúra egy másik jelentős települése. Az ásatások feltárták az építészet fejlődését az újkőkorban.",
@@ -1201,7 +1201,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-elken-depe-history-v2",
     type: "castle",
     name: { de: "Elken-depe Festung", hu: "Elken-depe erőd", ro: "Cetatea Elken-depe", en: "Elken-depe Fortress" },
-    coordinates: { lat: 37.3122, lng: 62.4544 },
+    coords: [62.4544, 37.3122],
     description: {
       de: "Elken-depe ist eine monumentale Festungsruine aus der frühen Eisenzeit. Sie kontrollierte einst wichtige Handelswege in der Murgab-Oase.",
       hu: "Elken-depe egy monumentális erődmű maradványa a korai vaskorból. Egykor a Murgab-oázis fontos kereskedelmi útvonalait ellenőrizte.",
@@ -1220,7 +1220,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-tash-arvat-history-v2",
     type: "ruins",
     name: { de: "Tash-Arvat Karawanserei", hu: "Tash-Arvat karavánszeráj", ro: "Caravanseraiul Tash-Arvat", en: "Tash-Arvat Caravanserai" },
-    coordinates: { lat: 38.9112, lng: 56.4122 },
+    coords: [56.4122, 38.9112],
     description: {
       de: "Tash-Arvat ist eine seldschukische Karawanserei am Nordhang des Kopet-Dag. Sie diente Reisenden auf der Route nach West-Zentralasien als Schutz.",
       hu: "Tash-Arvat egy szeldzsuk karavánszeráj a Kopet-dag hegység északi lejtőjén. Védelmet nyújtott az utazóknak a nyugat-közép-ázsiai útvonalon.",
@@ -1239,7 +1239,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kurbanmurat-ishana-history-v2",
     type: "church",
     name: { de: "Kurbanmurat-Ishana Moschee", hu: "Kurbanmurat-ishana mecset", ro: "Moscheea Kurbanmurat-Ishana", en: "Kurbanmurat-Ishana Mosque" },
-    coordinates: { lat: 37.6112, lng: 61.9544 },
+    coords: [61.9544, 37.6112],
     description: {
       de: "Diese Moschee ist ein Beispiel für die spätere islamische Architektur in der Region Mary. Sie ist nach einem bedeutenden lokalen religiösen Führer benannt.",
       hu: "Ez a mecset a Mary régió későbbi iszlám építészetének példája. Egy jelentős helyi vallási vezetőről nevezték el.",
@@ -1258,7 +1258,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-hoja-alem-baba-history-v2",
     type: "monument",
     name: { de: "Hoja-Alem-Baba Mausoleum", hu: "Hoja-Alem-Baba mauzóleum", ro: "Mausoleul Hoja-Alem-Baba", en: "Hoja-Alem-Baba Mausoleum" },
-    coordinates: { lat: 37.8122, lng: 65.2544 },
+    coords: [65.2544, 37.8122],
     description: {
       de: "Das Hoja-Alem-Baba Mausoleum liegt in der Nähe von Kerki und zeigt typische Merkmale der mittelalterlichen Architektur am Amu-Darja.",
       hu: "A Hoja-Alem-Baba mauzóleum Kerki közelében található. Az Amu-darja menti középkori építészet jellegzetes vonásait mutatja.",
@@ -1277,7 +1277,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kyz-bibi-history-v2",
     type: "monument",
     name: { de: "Kyz-Bibi Heiligtum", hu: "Kyz-bibi szentély", ro: "Sanctuarul Kyz-Bibi", en: "Kyz-Bibi Shrine" },
-    coordinates: { lat: 37.6422, lng: 62.1544 },
+    coords: [62.1544, 37.6422],
     description: {
       de: "Das Kyz-Bibi Heiligtum ist ein historischer Ort in der Merv-Oase, der mit Legenden über eine tugendhafte Frau verbunden ist.",
       hu: "A Kyz-bibi szentély a Merv-oázis egy történelmi helyszíne, amely egy erényes asszonyról szóló legendákhoz kapcsolódik.",
@@ -1296,7 +1296,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-bairam-ali-khan-kala-history-v2",
     type: "castle",
     name: { de: "Bairam-Ali-Khan-Kala", hu: "Bairam-Ali-khan-kala", ro: "Bairam-Ali-Khan-Kala", en: "Bairam-Ali-Khan-Kala" },
-    coordinates: { lat: 37.6611, lng: 62.1722 },
+    coords: [62.1722, 37.6611],
     description: {
       de: "Diese Festung aus dem 18. Jahrhundert war die Residenz des Herrschers von Merv. Sie stellt das jüngste Glied in der Kette der Merv-Städte dar.",
       hu: "Ez a 18. századi erőd Merv uralkodójának rezidenciája volt. A Merv-városok láncolatának legfiatalabb tagja.",
@@ -1315,7 +1315,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-sultan-ali-mausoleum-history-v2",
     type: "monument",
     name: { de: "Sultan Ali Mausoleum", hu: "Sultan Ali mauzóleum", ro: "Mausoleul Sultan Ali", en: "Sultan Ali Mausoleum" },
-    coordinates: { lat: 42.3155, lng: 59.1855 },
+    coords: [59.1855, 42.3155],
     description: {
       de: "Das Sultan Ali Mausoleum in Koneürgenç stammt aus dem 16. Jahrhundert. Es steht gegenüber dem bekannteren Najm-ed-din al-Kubra Mausoleum.",
       hu: "A szultán Ali mauzóleum Köneürgençben található, a 16. századból származik. A híresebb Nadzsm-ad-Din al-Kubra mauzóleummal szemben áll.",
@@ -1334,7 +1334,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-piryar-weli-history-v2",
     type: "monument",
     name: { de: "Piryar-Weli Mausoleum", hu: "Piryar-Weli mauzóleum", ro: "Mausoleul Piryar-Weli", en: "Piryar-Weli Mausoleum" },
-    coordinates: { lat: 42.3255, lng: 59.1911 },
+    coords: [59.1911, 42.3255],
     description: {
       de: "Dieses Mausoleum gehört zum historischen Komplex von Koneürgenç. Es ist die Begräbnisstätte eines verehrten lokalen Heiligen aus dem 14. Jahrhundert.",
       hu: "Ez a mauzóleum Köneürgenç történelmi komplexumához tartozik. Egy tisztelt helyi szent 14. századi nyughelye.",
@@ -1353,7 +1353,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-victory-park-ashgabat-history-v2",
     type: "monument",
     name: { de: "Siegespark Ashgabat", hu: "Győzelem park (Asgabat)", ro: "Parcul Victoriei Ashgabat", en: "Victory Park Ashgabat" },
-    coordinates: { lat: 37.9402, lng: 58.4066 },
+    coords: [58.4066, 37.9402],
     description: {
       de: "Der Siegespark liegt auf einem Hügel über Ashgabat und erinnert an den Sieg im Zweiten Weltkrieg. Ein monumentales Denkmal bildet das Zentrum des Parks.",
       hu: "A Győzelem park egy dombon fekszik Asgabat felett, és a második világháborús győzelemre emlékeztet. A park központjában egy monumentális emlékmű áll.",
@@ -1372,7 +1372,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-earthquake-memorial-ashgabat-history-v2",
     type: "monument",
     name: { de: "Erdbeben-Denkmal", hu: "Földrengés emlékmű", ro: "Monumentul Cutremurului", en: "Earthquake Memorial" },
-    coordinates: { lat: 37.9544, lng: 58.3844 },
+    coords: [58.3844, 37.9544],
     description: {
       de: "Dieses Denkmal erinnert an das katastrophale Erdbeben von 1948, das Ashgabat fast völlig zerstörte. Es zeigt einen Stier, der die Weltkugel trägt.",
       hu: "Ez az emlékmű az 1948-as katasztrofális földrengésre emlékeztet, amely szinte teljesen elpusztította Asgabatot. Egy bikát ábrázol, amely a földgömböt tartja.",
@@ -1391,7 +1391,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kerki-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Kerki", hu: "Kerki erőd", ro: "Cetatea Kerki", en: "Kerki Fortress" },
-    coordinates: { lat: 37.8311, lng: 65.2122 },
+    coords: [65.2122, 37.8311],
     description: {
       de: "Die Überreste der Festung Kerki liegen am Ufer des Amu-Darja. Sie diente jahrhundertelang als Verteidigungspunkt am Flussübergang.",
       hu: "A Kerki erőd maradványai az Amu-darja partján találhatók. Évszázadokon át védelmi pontként szolgált a folyami átkelőnél.",
@@ -1410,7 +1410,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-ak-kala-balkan-history-v2",
     type: "castle",
     name: { de: "Ak-Kala Festung", hu: "Ak-kala erőd", ro: "Cetatea Ak-Kala", en: "Ak-Kala Fortress" },
-    coordinates: { lat: 39.2122, lng: 54.4544 },
+    coords: [54.4544, 39.2122],
     description: {
       de: "Ak-Kala ist eine historische Festung in der Balkan-Region. Ihre Mauern aus gebranntem Ziegel und Lehm zeugen von mittelalterlicher Wehrtechnik.",
       hu: "Ak-kala egy történelmi erőd a Balkan régióban. Égetett téglából és vályogból készült falai a középkori haditechnikáról tanúskodnak.",
@@ -1429,7 +1429,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-artyk-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Artyk", hu: "Artyk romjai", ro: "Ruinele Artyk", en: "Artyk Ruins" },
-    coordinates: { lat: 37.3522, lng: 59.8544 },
+    coords: [59.8544, 37.3522],
     description: {
       de: "Die Ruinen von Artyk liegen in der Nähe der iranischen Grenze. Die Stätte umfasst Siedlungsspuren aus parthischer und sasanidischer Zeit.",
       hu: "Artyk romjai az iráni határ közelében találhatók. A helyszín pártus és szaszanida kori településnyomokat foglal magában.",
@@ -1448,7 +1448,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-garry-kala-history-v2",
     type: "castle",
     name: { de: "Garry-Kala", hu: "Garry-kala", ro: "Garry-Kala", en: "Garry-Kala" },
-    coordinates: { lat: 38.4122, lng: 56.1133 },
+    coords: [56.1133, 38.4122],
     description: {
       de: "Garry-Kala ist eine alte Festungsanlage im Sumbar-Tal. Die Ruinen fügen sich markant in die gebirgige Landschaft des westlichen Kopet-Dag ein.",
       hu: "Garry-kala egy régi erődítmény a Szumbar-völgyben. A romok látványosan illeszkednek a nyugati Kopet-dag hegyvidéki tájába.",
@@ -1467,7 +1467,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kunya-vass-history-v2",
     type: "ruins",
     name: { de: "Kunya-Vass", hu: "Kunya-vass", ro: "Kunya-Vass", en: "Kunya-Vass" },
-    coordinates: { lat: 41.5122, lng: 59.4544 },
+    coords: [59.4544, 41.5122],
     description: {
       de: "Kunya-Vass ist eine bedeutende choresmische Fundstätte. Die Überreste zeigen die fortgeschrittene Stadtplanung und Architektur der Region.",
       hu: "Kunya-vass egy jelentős hvárezmi régészeti lelőhely. A maradványok a régió fejlett várostervezését és építészetét mutatják be.",
@@ -1486,7 +1486,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-butentau-history-v2",
     type: "ruins",
     name: { de: "Butentau Höhlenkomplex", hu: "Butentau barlangkomplexum", ro: "Complexul de peșteri Butentau", en: "Butentau Cave Complex" },
-    coordinates: { lat: 41.9122, lng: 59.0133 },
+    coords: [59.0133, 41.9122],
     description: {
       de: "Butentau ist ein System von künstlichen Höhlen im Norden Turkmenistans. Sie wurden über Jahrhunderte als religiöse Einsiedeleien und Verstecke genutzt.",
       hu: "Butentau egy mesterséges barlangrendszer Türkmenisztán északi részén. Évszázadokon át vallási remetelakként és rejtekhelyként használták.",
@@ -1505,7 +1505,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-old-serdar-history-v2",
     type: "castle",
     name: { de: "Alt-Serdar Festung", hu: "Ó-Serdar erőd", ro: "Cetatea Vechiul Serdar", en: "Old Serdar Fortress" },
-    coordinates: { lat: 38.9855, lng: 56.2822 },
+    coords: [56.2822, 38.9855],
     description: {
       de: "Die Überreste der alten Festung Serdar dienten einst dem Schutz der Oase am Fuße des Kopet-Dag. Sie war ein wichtiger Posten an der Transkaspischen Route.",
       hu: "A régi Serdar erőd maradványai egykor a Kopet-dag lábánál fekvő oázist védték. Fontos őrhely volt a Transzkaszpi-útvonalon.",
@@ -1524,7 +1524,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-zemm-ruins-history-v2",
     type: "ruins",
     name: { de: "Zemm Ruinen", hu: "Zemm romjai", ro: "Ruinele Zemm", en: "Zemm Ruins" },
-    coordinates: { lat: 38.3122, lng: 64.0133 },
+    coords: [64.0133, 38.3122],
     description: {
       de: "Zemm war eine antike Festung am Mittellauf des Amu-Darja. Die Stätte markiert einen wichtigen Punkt der historischen Flussüberquerung.",
       hu: "Zemm egy ősi erőd volt az Amu-darja középső folyásánál. A helyszín a történelmi folyami átkelőhely egyik fontos pontját jelzi.",
@@ -1543,7 +1543,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-bami-ruins-history-v2",
     type: "ruins",
     name: { de: "Bami Siedlung", hu: "Bami település", ro: "Așezarea Bami", en: "Bami Ruins" },
-    coordinates: { lat: 38.4522, lng: 56.8122 },
+    coords: [56.8122, 38.4522],
     description: {
       de: "Bami ist eine antike Siedlung in der Region Ahal. Die Ausgrabungen zeigen die kontinuierliche Besiedlung vom Neolithikum bis ins Mittelalter.",
       hu: "Bami egy ősi település az Ahal régióban. Az ásatások a folyamatos lakottságot mutatják a neolitikumtól a középkorig.",
@@ -1562,7 +1562,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-murza-depe-history-v2",
     type: "ruins",
     name: { de: "Murza-depe", hu: "Murza-depe", ro: "Murza-depe", en: "Murza-depe" },
-    coordinates: { lat: 38.0522, lng: 61.8122 },
+    coords: [61.8122, 38.0522],
     description: {
       de: "Murza-depe ist eine archäologische Stätte in der Nähe von Mary. Sie stammt aus der Bronzezeit und gehört zum Umfeld der Margiana-Zivilisation.",
       hu: "Murza-depe egy régészeti lelőhely Mary közelében. A bronzkorból származik, és a Margiana civilizáció köréhez tartozik.",
@@ -1581,7 +1581,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kosh-kala-history-v2",
     type: "castle",
     name: { de: "Kosh-Kala Festung", hu: "Kosh-kala erőd", ro: "Cetatea Kosh-Kala", en: "Kosh-Kala Fortress" },
-    coordinates: { lat: 41.6122, lng: 59.5122 },
+    coords: [59.5122, 41.6122],
     description: {
       de: "Kosh-Kala ist eine Doppel-Festungsanlage im antiken Choresmien. Die Ruinen zeigen eine für die Region typische Wehrarchitektur mit Doppelmauern.",
       hu: "Kosh-kala egy kettős erődrendszer az ősi Hvárezmben. A romok a régióra jellemző kettős falú védelmi építészetet mutatják be.",
@@ -1600,7 +1600,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kurban-ishana-history-v2",
     type: "monument",
     name: { de: "Kurban-Ishana Denkmal", hu: "Kurban-ishana emlékmű", ro: "Monumentul Kurban-Ishana", en: "Kurban-Ishana Monument" },
-    coordinates: { lat: 37.8544, lng: 61.9544 },
+    coords: [61.9544, 37.8544],
     description: {
       de: "Dieses religiöse Denkmal in der Nähe von Mary ehrt einen lokalen Ishan. Es ist ein Beispiel für die Verehrung geistlicher Führer in der turkmenischen Geschichte.",
       hu: "Ez a Mary közelében található vallási emlékmű egy helyi isannak állít emléket. Példa a szellemi vezetők tiszteletére a türkmén történelemben.",
@@ -1619,7 +1619,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kalaly-gyr-history-v2",
     type: "ruins",
     name: { de: "Kalaly-gyr Siedlung", hu: "Kalaly-gyr település", ro: "Așezarea Kalaly-gyr", en: "Kalaly-gyr Settlement" },
-    coordinates: { lat: 41.7822, lng: 59.2544 },
+    coords: [59.2544, 41.7822],
     description: {
       de: "Kalaly-gyr ist eine große archäologische Stätte in Choresmien. Sie umfasst eine Palastanlage und Befestigungen aus dem 5. bis 4. Jahrhundert v. Chr.",
       hu: "Kalaly-gyr egy nagy régészeti lelőhely Hvárezmben. Egy palotakomplexumot és erődítményeket foglal magában az i. e. 5-4. századból.",
@@ -1638,7 +1638,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-el-arslan-tower-history-v2",
     type: "tower",
     name: { de: "Turm von El-Arslan", hu: "El-Arslan torony", ro: "Turnul lui El-Arslan", en: "El-Arslan Tower" },
-    coordinates: { lat: 42.3322, lng: 59.1855 },
+    coords: [59.1855, 42.3322],
     description: {
       de: "Dieser historische Turm ist Teil der Befestigungen von Kunya-Urgench. Er zeigt die fortgeschrittene Ziegelbauweise des choresmischen Reiches.",
       hu: "Ez a történelmi torony Köneürgenç erődítményeinek része. A hvárezmi birodalom fejlett téglaépítészetét mutatja be.",
@@ -1657,7 +1657,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-abu-said-meana-history-v2",
     type: "monument",
     name: { de: "Mausoleum Abu Said in Meana", hu: "Abu Szaid mauzóleum (Meana)", ro: "Mausoleul Abu Said din Meana", en: "Abu Said Mausoleum in Meana" },
-    coordinates: { lat: 36.8522, lng: 59.8733 },
+    coords: [59.8733, 36.8522],
     description: {
       de: "Das Mausoleum von Abu Said Abul Khair in Meana ist ein Meisterwerk des 11. Jahrhunderts. Es ehrt den berühmten Sufi-Mystiker und Gelehrten.",
       hu: "Abu Szaid Abul Khair mauzóleuma Meanában a 11. század remekműve. A híres szúfi misztikus és tudós előtt tiszteleg.",
@@ -1676,7 +1676,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-eternal-glory-balkanabat-history-v2",
     type: "monument",
     name: { de: "Denkmal des ewigen Ruhms", hu: "Örök dicsőség emlékmű", ro: "Monumentul Gloriei Eterne", en: "Monument of Eternal Glory" },
-    coordinates: { lat: 39.5122, lng: 54.3622 },
+    coords: [54.3622, 39.5122],
     description: {
       de: "Das Denkmal des ewigen Ruhms in Balkanabat erinnert an die Gefallenen des Zweiten Weltkriegs. Es ist ein zentraler Ort für lokale Gedenkfeiern.",
       hu: "Az örök dicsőség emlékmű Balkanabatban a második világháború áldozataira emlékeztet. A helyi megemlékezések központi helyszíne.",
@@ -1695,7 +1695,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-dashly-depe-history-v2",
     type: "ruins",
     name: { de: "Dashly-depe", hu: "Dashly-depe", ro: "Dashly-depe", en: "Dashly-depe" },
-    coordinates: { lat: 38.2522, lng: 61.7544 },
+    coords: [61.7544, 38.2522],
     description: {
       de: "Dashly-depe ist eine bronzezeitliche Siedlung in der Region Mary. Sie ist Teil der Oasenkultur der Margiana und zeigt frühe Urbanisierungstendenzen.",
       hu: "Dashly-depe egy bronzkori település Mary régióban. A Margiana oáziskultúra része, amely korai városiasodási törekvéseket mutat.",
@@ -1714,7 +1714,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kunya-urgench-gates-history-v2",
     type: "ruins",
     name: { de: "Tore von Kunya-Urgench", hu: "Köneürgenç kapui", ro: "Porțile orașului Koneürgenç", en: "Gates of Kunya-Urgench" },
-    coordinates: { lat: 42.3111, lng: 59.1922 },
+    coords: [59.1922, 42.3111],
     description: {
       de: "Die historischen Tore von Kunya-Urgench markieren den Eingang zur einstigen Hauptstadt des choresmischen Reiches. Sie sind Teil des UNESCO-Welterbes.",
       hu: "Köneürgenç történelmi kapui a hvárezmi birodalom egykori fővárosának bejáratát jelzik. Az UNESCO világörökség részét képezik.",
@@ -1733,7 +1733,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-amul-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Amul", hu: "Amul ókori városa", ro: "Orașul antic Amul", en: "Ancient City of Amul" },
-    coordinates: { lat: 39.0111, lng: 63.5822 },
+    coords: [63.5822, 39.0111],
     description: {
       de: "Amul war eine der wichtigsten Städte an der zentralasiatischen Seidenstraße. Die Ausgrabungen haben Wohngebiete, Basare und Werkstätten freigelegt.",
       hu: "Amul a közép-ázsiai Selyemút egyik legfontosabb városa volt. Az ásatások lakónegyedeket, bazárokat és műhelyeket tártak fel.",
@@ -1752,7 +1752,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-darganata-tower-history-v2",
     type: "tower",
     name: { de: "Darganata Turm", hu: "Darganata torony", ro: "Turnul Darganata", en: "Darganata Tower" },
-    coordinates: { lat: 40.4822, lng: 62.1544 },
+    coords: [62.1544, 40.4822],
     description: {
       de: "Der Darganata Turm ist ein historisches Bauwerk in der Lebap-Region. Er diente als Wachturm und Orientierungspunkt für Reisende am Amu-Darja.",
       hu: "A Darganata-torony egy történelmi építmény a Lebap régióban. Őrtoronyként és tájékozódási pontként szolgált az Amu-darja menti utazóknak.",
@@ -1771,7 +1771,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-sayat-historical-site-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte Sayat", hu: "Sayat történelmi helyszín", ro: "Situl istoric Sayat", en: "Sayat Historical Site" },
-    coordinates: { lat: 38.8122, lng: 63.8822 },
+    coords: [63.8822, 38.8122],
     description: {
       de: "Die historische Stätte Sayat umfasst Siedlungsreste aus verschiedenen Epochen der Lebap-Region. Sie zeigt die Bedeutung der Region für den Binnenhandel.",
       hu: "Sayat történelmi helyszíne a Lebap régió különböző korszakaiból származó településmaradványokat foglal magában.",
@@ -1790,7 +1790,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-farap-silk-road-point-history-v2",
     type: "ruins",
     name: { de: "Farap Seidenstraßen-Posten", hu: "Farap Selyemút-állomás", ro: "Postul Farap de pe Drumul Mătăsii", en: "Farap Silk Road Point" },
-    coordinates: { lat: 39.1522, lng: 63.6122 },
+    coords: [63.6122, 39.1522],
     description: {
       de: "Farap war historisch ein wichtiger Grenzübergang und Handelsplatz an der Seidenstraße. Die Ruinen liegen strategisch am Übergang über den Amu-Darja.",
       hu: "Farap történelmileg fontos határátkelő és kereskedelmi hely volt a Selyemút mentén. A romok stratégiai helyen, az Amu-darja átkelőjénél fekszenek.",
@@ -1809,7 +1809,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-misrian-mausoleums-history-v2",
     type: "monument",
     name: { de: "Misrian Mausoleen", hu: "Misrian mauzóleumok", ro: "Mausoleele din Misrian", en: "Misrian Mausoleums" },
-    coordinates: { lat: 38.2755, lng: 54.6155 },
+    coords: [54.6155, 38.2755],
     description: {
       de: "Die Mausoleen von Misrian sind Teil des Dekhistan-Komplexes. Sie zeigen die hohe Qualität der mittelalterlichen Architektur in West-Turkmenistan.",
       hu: "Misrian mauzóleumai a Dekhisztán-komplexum részét képezik. A nyugat-türkmén középkori építészet magas minőségét tükrözik.",
@@ -1828,7 +1828,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-diyar-bekir-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Diyar-Bekir", hu: "Diyar-bekir ókori városa", ro: "Orașul antic Diyar-Bekir", en: "Ancient City of Diyar-Bekir" },
-    coordinates: { lat: 41.6855, lng: 59.2222 },
+    coords: [59.2222, 41.6855],
     description: {
       de: "Diyar-Bekir war ein bedeutendes urbanes Zentrum in Choresmien. Die Ruinen umfassen gut erhaltene Wohnhäuser und ein entwickeltes Kanalsystem.",
       hu: "Diyar-bekir Hvárezm egyik jelentős városi központja volt. A romok jól megőrzött lakóházakat és fejlett csatornarendszert foglalnak magukban.",
@@ -1847,7 +1847,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kene-kala-history-v2",
     type: "ruins",
     name: { de: "Kene-Kala Ruinen", hu: "Kene-kala romjai", ro: "Ruinele Kene-Kala", en: "Kene-Kala Ruins" },
-    coordinates: { lat: 39.4122, lng: 54.5122 },
+    coords: [54.5122, 39.4122],
     description: {
       de: "Kene-Kala ist eine alte Festungsanlage im Balkan-Region. Ihre Überreste zeigen die typische Lehmbauweise zur Verteidigung gegen Nomadenstämme.",
       hu: "Kene-kala egy régi erődítmény a Balkan régióban. Maradványai a nomád törzsek elleni védekezésre jellemző vályogépítészetet mutatják.",
@@ -1866,7 +1866,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-namazga-depe-south-history-v2",
     type: "ruins",
     name: { de: "Namazga-depe (Südsektor)", hu: "Namazga-depe (Déli szektor)", ro: "Namazga-depe (Sectorul Sud)", en: "Namazga-depe (South Sector)" },
-    coordinates: { lat: 37.3622, lng: 59.8722 },
+    coords: [59.8722, 37.3622],
     description: {
       de: "Der südliche Sektor von Namazga-depe umfasst bedeutende Wohnviertel der Bronzezeit. Er zeigt die Entwicklung der urbanen Siedlungsstruktur.",
       hu: "Namazga-depe déli szektora jelentős bronzkori lakónegyedeket foglal magában. A városi településszerkezet fejlődését mutatja be.",
@@ -1885,7 +1885,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-garabogaz-ruins-history-v2",
     type: "ruins",
     name: { de: "Historisches Garabogaz", hu: "Történelmi Garabogaz", ro: "Garabogaz istoric", en: "Historical Garabogaz" },
-    coordinates: { lat: 41.5322, lng: 52.5544 },
+    coords: [52.5544, 41.5322],
     description: {
       de: "Die historischen Stätten um Garabogaz zeugen von der frühen industriellen und maritimen Nutzung der Bucht. Sie umfassen Siedlungsreste am Kaspischen Meer.",
       hu: "Garabogaz történelmi helyszínei az öböl korai ipari és tengeri használatáról tanúskodnak. Településmaradványokat foglalnak magukban a Kaszpi-tenger mentén.",
@@ -1904,7 +1904,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-geok-tepe-museum-history-v2",
     type: "museum",
     name: { de: "Geok-Tepe Museum", hu: "Gökdepe Múzeum", ro: "Muzeul Geok-Tepe", en: "Geok-Tepe Museum" },
-    coordinates: { lat: 38.1655, lng: 58.0122 },
+    coords: [58.0122, 38.1655],
     description: {
       de: "Das Museum in Geok-Tepe widmet sich der Geschichte der berühmten Festung und der Schlacht von 1881. Es zeigt Waffen, Kleidung und historische Dokumente.",
       hu: "A gökdepei múzeum a híres erőd történetének és az 1881-es csatának van szentelve. Fegyvereket, ruházatot és történelmi dokumentumokat mutat be.",
@@ -1923,7 +1923,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-amul-fortress-south-history-v2",
     type: "castle",
     name: { de: "Amul (Südfestung)", hu: "Amul (Déli erőd)", ro: "Amul (Cetatea de Sud)", en: "Amul (South Fortress)" },
-    coordinates: { lat: 39.0022, lng: 63.5722 },
+    coords: [63.5722, 39.0022],
     description: {
       de: "Der südliche Teil der Amul-Festung beherbergt die am besten erhaltenen Bastionen. Sie schützten den südlichen Zugang zur Stadt und die Karawanenwege.",
       hu: "Az Amul-erőd déli része a legjobb állapotban megmaradt bástyákat tartalmazza. A város déli bejáratát és a karavánutakat védték.",
@@ -1942,7 +1942,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-koy-kala-history-v2",
     type: "ruins",
     name: { de: "Koy-Kala Ruinen", hu: "Koy-kala romjai", ro: "Ruinele Koy-Kala", en: "Koy-Kala Ruins" },
-    coordinates: { lat: 41.2122, lng: 59.8122 },
+    coords: [59.8122, 41.2122],
     description: {
       de: "Koy-Kala ist eine antike Siedlungsruine in Choresmien. Sie ist für ihre charakteristische Keramik und die Lage an alten Bewässerungskanälen bekannt.",
       hu: "Koy-kala egy ősi településrom Hvárezmben. Jellegzetes kerámiájáról és a régi öntözőcsatornák mentén elfoglalt helyéről ismert.",
@@ -1961,7 +1961,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-togolok-1-history-v2",
     type: "ruins",
     name: { de: "Togolok-1 Siedlung", hu: "Togolok-1 település", ro: "Așezarea Togolok-1", en: "Togolok-1 Settlement" },
-    coordinates: { lat: 38.1622, lng: 62.1533 },
+    coords: [62.1533, 38.1622],
     description: {
       de: "Togolok-1 ist eine der Hauptfundstellen der Margiana-Zivilisation. Die Stätte lieferte wichtige Beweise für das religiöse Leben der Bronzezeit.",
       hu: "Togolok-1 a Margiana civilizáció egyik legfontosabb lelőhelye. A helyszín fontos bizonyítékokat szolgáltatott a bronzkori vallási életről.",
@@ -1980,7 +1980,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-elken-depe-walls-history-v2",
     type: "ruins",
     name: { de: "Elken-depe Mauern", hu: "Elken-depe falai", ro: "Zidurile Elken-depe", en: "Elken-depe Walls" },
-    coordinates: { lat: 37.3222, lng: 62.4644 },
+    coords: [62.4644, 37.3222],
     description: {
       de: "Die äußeren Mauern von Elken-depe zeigen die beeindruckende Wehrhaftigkeit der eisenzeitlichen Siedlungen in der Region Mary.",
       hu: "Elken-depe külső falai a Mary régió vaskori településeinek lenyűgöző védelmi erejét mutatják be.",
@@ -1999,7 +1999,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-izmukshir-portal-history-v2",
     type: "monument",
     name: { de: "Portal von Izmukshir", hu: "Izmukshir kapuja", ro: "Portalul Izmukshir", en: "Izmukshir Portal" },
-    coordinates: { lat: 41.7311, lng: 59.6155 },
+    coords: [59.6155, 41.7311],
     description: {
       de: "Das monumentale Portal der Festung Izmukshir ist ein bedeutendes Beispiel choresmischer Ziegelbaukunst und diente als herrschaftlicher Eingang.",
       hu: "Az Izmukshir erőd monumentális kapuja a hvárezmi téglaépítészet jelentős példája, és uralkodói bejáratként szolgált.",
@@ -2018,7 +2018,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-shahsenem-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Shahsenem", hu: "Shahsenem citadellája", ro: "Citadela Shahsenem", en: "Shahsenem Citadel" },
-    coordinates: { lat: 41.0555, lng: 58.4255 },
+    coords: [58.4255, 41.0555],
     description: {
       de: "Die Zitadelle von Shahsenem ragt markant über die umgebenden Stadtruinen hinaus. Sie bot den Bewohnern Schutz in Zeiten von Kriegen und Belagerungen.",
       hu: "Shahsenem citadellája látványosan emelkedik a környező városromok fölé. Védelmet nyújtott a lakosoknak háborúk és ostromok idején.",
@@ -2037,7 +2037,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-togolok-depe-west-history-v2",
     type: "ruins",
     name: { de: "Togolok-depe (Westsektor)", hu: "Togolok-depe (Nyugati szektor)", ro: "Togolok-depe (Sectorul Vest)", en: "Togolok-depe (West Sector)" },
-    coordinates: { lat: 38.1511, lng: 62.1022 },
+    coords: [62.1022, 38.1511],
     description: {
       de: "Der westliche Sektor von Togolok-depe umfasst antike Befestigungsanlagen der Margiana-Kultur. Er diente dem Schutz des religiösen Zentrums.",
       hu: "Togolok-depe nyugati szektora a Margiana-kultúra ősi erődítményeit foglalja magában. A vallási központ védelmét szolgálta.",
@@ -2056,7 +2056,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-kunya-urgench-caravanserai-history-v2",
     type: "ruins",
     name: { de: "Karawanserei Kunya-Urgench", hu: "Köneürgenç karavánszeráj", ro: "Caravanseraiul Kunya-Urgench", en: "Kunya-Urgench Caravanserai" },
-    coordinates: { lat: 42.3155, lng: 59.1822 },
+    coords: [59.1822, 42.3155],
     description: {
       de: "Die Überreste der Karawanserei in Kunya-Urgench zeugen vom regen Handel im mittelalterlichen Choresmien. Sie bot Händlern und Tieren Unterkunft.",
       hu: "A köneürgençi karavánszeráj maradványai a középkori Hvárezm élénk kereskedelméről tanúskodnak. Szállást biztosított a kereskedőknek.",
@@ -2075,7 +2075,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-ekedeshik-upper-chambers-history-v2",
     type: "ruins",
     name: { de: "Obere Kammern von Ekedeshik", hu: "Ekedeshik felső kamrái", ro: "Camerele superioare din Ekedeshik", en: "Ekedeshik Upper Chambers" },
-    coordinates: { lat: 35.9455, lng: 62.4855 },
+    coords: [62.4855, 35.9455],
     description: {
       de: "Die oberen Kammern der Höhlenstadt Ekedeshik dienten vermutlich als Wohnbereiche. Sie sind über in den Fels gehauene Treppen erreichbar.",
       hu: "Ekedeshik barlangvárosának felső kamrái feltehetően lakóhelyként szolgáltak. A sziklába vájt lépcsőkön keresztül érhetők el.",
@@ -2094,7 +2094,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-misrian-minaret-north-history-v2",
     type: "tower",
     name: { de: "Nördliches Misrian-Minarett", hu: "Északi Misrian-minaret", ro: "Minaretul de Nord din Misrian", en: "North Misrian Minaret" },
-    coordinates: { lat: 38.2722, lng: 54.6122 },
+    coords: [54.6122, 38.2722],
     description: {
       de: "Das nördliche Minarett von Misrian zeigt kunstvolle Ziegelmosaike aus der Zeit der Choresm-Schahs. Es ragt als markanter Orientierungspunkt aus der Wüste.",
       hu: "Az északi Misrian-minaret a Hvárezmi-sahok korából származó művészi téglamozaikokat mutatja. Jellegzetes tájékozódási pont a sivatagban.",
@@ -2113,7 +2113,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     id: "turkmenistan-mashhad-i-misrian-mosque-history-v2",
     type: "church",
     name: { de: "Große Moschee von Misrian", hu: "Misrian nagy mecsetje", ro: "Marea Moschee din Misrian", en: "Great Mosque of Misrian" },
-    coordinates: { lat: 38.2733, lng: 54.6144 },
+    coords: [54.6144, 38.2733],
     description: {
       de: "Die Große Moschee von Misrian war das religiöse Herz der Stadt Dekhistan. Ihre monumentalen Arkaden und Tore sind bis heute beeindruckend.",
       hu: "A misriani nagy mecset Dekhisztán városának vallási szíve volt. Monumentális árkádjai és kapui a mai napig lenyűgözőek.",

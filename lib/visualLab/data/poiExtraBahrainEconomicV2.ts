@@ -951,7 +951,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-ras-abu-jarjur-economic-v2",
     type: "industry",
     name: { de: "Ras Abu Jarjur Entsalzungsanlage", hu: "Ras Abu Jarjur sótalanító üzem", ro: "Stația de desalinizare Ras Abu Jarjur", en: "Ras Abu Jarjur Desalination Plant" },
-    coordinates: { lat: 26.0461, lng: 50.6214 },
+    coords: [50.6214, 26.0461],
     description: {
       de: "Diese Anlage war die erste am Golf, die Umkehrosmose zur Trinkwassergewinnung nutzte. Sie sichert seit 1984 die Wasserversorgung der Insel.",
       hu: "Ez a létesítmény volt az első az Öbölben, amely fordított ozmózist használt ivóvíz előállítására. 1984 óta segíti a sziget vízellátását.",
@@ -982,7 +982,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-dragon-city-economic-v2",
     type: "industry",
     name: { de: "Dragon City Bahrain", hu: "Dragon City Bahrein", ro: "Dragon City Bahrain", en: "Dragon City Bahrain" },
-    coordinates: { lat: 26.29, lng: 50.64 },
+    coords: [50.64, 26.29],
     description: {
       de: "Ein riesiges Handelszentrum im chinesischen Stil, das als Drehscheibe für den Groß- und Einzelhandel in Diyar Al Muharraq dient.",
       hu: "Hatalmas kínai stílusú kereskedelmi központ, amely a nagy- és kiskereskedelem központjaként szolgál Diyar Al Muharraq területén.",
@@ -1013,7 +1013,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-united-tower-economic-v2",
     type: "industry",
     name: { de: "United Tower", hu: "United Tower", ro: "United Tower", en: "United Tower" },
-    coordinates: { lat: 26.2483, lng: 50.5842 },
+    coords: [50.5842, 26.2483],
     description: {
       de: "Dieser markante spiralförmige Wolkenkratzer in Bahrain Bay beherbergt Luxushotels und moderne Büroflächen für internationale Firmen.",
       hu: "Ez a jellegzetes spirál alakú felhőkarcoló a Bahrein-öbölben luxusszállodáknak és nemzetközi cégek irodáinak ad otthont.",
@@ -1044,7 +1044,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-batelco-hq-economic-v2",
     type: "industry",
     name: { de: "Batelco Hauptquartier", hu: "Batelco központ", ro: "Sediul Batelco", en: "Batelco Headquarters" },
-    coordinates: { lat: 26.1664, lng: 50.5186 },
+    coords: [50.5186, 26.1664],
     description: {
       de: "Der Hauptsitz des führenden Telekommunikationsunternehmens von Bahrain steuert das digitale Infrastrukturnetz des gesamten Königreichs.",
       hu: "Bahrein vezető telekommunikációs vállalatának székhelye, amely a királyság teljes digitális infrastruktúráját irányítja.",
@@ -1075,7 +1075,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-banagas-economic-v2",
     type: "factory",
     name: { de: "Banagas Werk", hu: "Banagas üzem", ro: "Fabrica Banagas", en: "Banagas Plant" },
-    coordinates: { lat: 26.04, lng: 50.58 },
+    coords: [50.58, 26.04],
     description: {
       de: "Die Bahrain National Gas Company verarbeitet Begleitgas aus den Ölfeldern zu wertvollen Exportprodukten wie Propan und Butan.",
       hu: "A Bahreini Nemzeti Gázvállalat az olajmezőkről származó kísérőgázt dolgozza fel értékes exporttermékekké, például propánná.",
@@ -1106,7 +1106,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-central-bank-economic-v2",
     type: "industry",
     name: { de: "Zentralbank von Bahrain", hu: "Bahreini Központi Bank", ro: "Banca Centrală a Bahrainului", en: "Central Bank of Bahrain" },
-    coordinates: { lat: 26.2411, lng: 50.5914 },
+    coords: [50.5914, 26.2411],
     description: {
       de: "Als Regulierungsbehörde des Finanzsektors überwacht die Zentralbank die Banken und sorgt für die Stabilität des Bahrain-Dinars.",
       hu: "A pénzügyi szektor szabályozó hatóságaként a Központi Bank felügyeli a bankokat és biztosítja a bahreini dinár stabilitását.",
@@ -1137,7 +1137,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-nbb-tower-economic-v2",
     type: "industry",
     name: { de: "National Bank of Bahrain Tower", hu: "National Bank of Bahrain torony", ro: "Turnul Băncii Naționale a Bahrainului", en: "National Bank of Bahrain Tower" },
-    coordinates: { lat: 26.2367, lng: 50.5783 },
+    coords: [50.5783, 26.2367],
     description: {
       de: "Dieses architektonische Wahrzeichen im Zentrum von Manama ist der Hauptsitz der ersten lokalen Bank des Königreichs.",
       hu: "Ez a Manama központjában található építészeti nevezetesség a királyság első helyi bankjának központja.",
@@ -1168,7 +1168,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-gulf-air-hq-economic-v2",
     type: "industry",
     name: { de: "Gulf Air Hauptquartier", hu: "Gulf Air központ", ro: "Sediul Gulf Air", en: "Gulf Air Headquarters" },
-    coordinates: { lat: 26.27, lng: 50.63 },
+    coords: [50.63, 26.27],
     description: {
       de: "Das Verwaltungszentrum der nationalen Fluggesellschaft von Bahrain koordiniert den Flugbetrieb und das logistische Netzwerk in Muharraq.",
       hu: "Bahrein nemzeti légitársaságának adminisztratív központja, amely a repülési műveleteket és a logisztikai hálózatot irányítja Muharraqban.",
@@ -1199,7 +1199,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-diyar-al-muharraq-economic-v2",
     type: "industry",
     name: { de: "Diyar Al Muharraq Wirtschaftszone", hu: "Diyar Al Muharraq gazdasági övezet", ro: "Zona economică Diyar Al Muharraq", en: "Diyar Al Muharraq Business District" },
-    coordinates: { lat: 26.295, lng: 50.655 },
+    coords: [50.655, 26.295],
     description: {
       de: "Ein massives Projekt auf künstlichen Inseln, das moderne Geschäftsdistrikte, Logistikzentren und Einzelhandelsprojekte kombiniert.",
       hu: "Hatalmas mesterséges szigetprojekt, amely modern üzleti negyedeket, logisztikai központokat és kereskedelmi projekteket ötvöz.",
@@ -1230,7 +1230,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-durrat-al-bahrain-economic-v2",
     type: "industry",
     name: { de: "Durrat Al Bahrain Entwicklung", hu: "Durrat Al Bahrain fejlesztés", ro: "Dezvoltarea Durrat Al Bahrain", en: "Durrat Al Bahrain Development" },
-    coordinates: { lat: 25.8333, lng: 50.6 },
+    coords: [50.6, 25.8333],
     description: {
       de: "Ein milliardenschweres Immobilien- und Wirtschaftsprojekt im Süden, bestehend aus 15 künstlichen Inseln in Fisch- und Hufeisenform.",
       hu: "Milliárd dolláros ingatlan- és gazdasági projekt délen, amely 15 hal és patkó alakú mesterséges szigetből áll.",
@@ -1261,7 +1261,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-seef-district-economic-v2",
     type: "industry",
     name: { de: "Seef Distrikt Wirtschaftszentrum", hu: "Seef negyed gazdasági központ", ro: "Centrul economic Districtul Seef", en: "Seef District Business Hub" },
-    coordinates: { lat: 26.24, lng: 50.54 },
+    coords: [50.54, 26.24],
     description: {
       de: "Dieses moderne Viertel ist eines der wichtigsten Wirtschaftszentren Manamas mit einer hohen Konzentration an Banken und Firmen.",
       hu: "Ez a modern negyed Manama egyik legfontosabb gazdasági központja, ahol számos bank és vállalat székháza található.",
@@ -1292,7 +1292,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-diplomatic-area-economic-v2",
     type: "industry",
     name: { de: "Diplomatenviertel Wirtschaftszone", hu: "Diplomata negyed gazdasági övezet", ro: "Zona economică Cartierul Diplomatic", en: "Diplomatic Area Hub" },
-    coordinates: { lat: 26.24, lng: 50.59 },
+    coords: [50.59, 26.24],
     description: {
       de: "Das Diplomatenviertel ist das finanzielle Herz Bahrains, wo Regierungsministerien und internationale Banken ansässig sind.",
       hu: "A Diplomata negyed Bahrein pénzügyi szíve, ahol kormányzati minisztériumok és nemzetközi bankok székelnek.",
@@ -1323,7 +1323,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-sulb-steel-economic-v2",
     type: "factory",
     name: { de: "SULB Stahlwerk", hu: "SULB acélmű", ro: "Combinatul siderurgic SULB", en: "SULB Steel Plant" },
-    coordinates: { lat: 26.216, lng: 50.686 },
+    coords: [50.686, 26.216],
     description: {
       de: "SULB ist ein voll integriertes Stahlwerk in Hidd, das eine Schlüsselrolle in der industriellen Lieferkette des Nahen Ostens spielt.",
       hu: "A SULB egy teljesen integrált acélmű Hiddben, amely kulcsszerepet játszik a Közel-Kelet ipari ellátási láncában.",
@@ -1354,7 +1354,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-garmco-economic-v2",
     type: "factory",
     name: { de: "GARMCO Aluminiumwerk", hu: "GARMCO alumíniummű", ro: "Fabrica de aluminiu GARMCO", en: "GARMCO Aluminium Mill" },
-    coordinates: { lat: 26.208, lng: 50.675 },
+    coords: [50.675, 26.208],
     description: {
       de: "Die Gulf Aluminium Rolling Mill ist eines der größten Downstream-Aluminiumunternehmen in der Region und exportiert weltweit.",
       hu: "A Gulf Aluminium Rolling Mill a régió egyik legnagyobb továbbfeldolgozó alumíniumvállalata, amely világszerte exportál.",
@@ -1385,7 +1385,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-midal-cables-economic-v2",
     type: "factory",
     name: { de: "Midal Cables Fabrik", hu: "Midal Cables gyár", ro: "Fabrica Midal Cables", en: "Midal Cables Factory" },
-    coordinates: { lat: 26.215, lng: 50.67 },
+    coords: [50.67, 26.215],
     description: {
       de: "Midal Cables fertigt Aluminium- und Legierungsstäbe sowie elektrische Leiter für den globalen Energiemarkt in Hidd.",
       hu: "A Midal Cables alumíniumrudakat és elektromos vezetőket gyárt a globális energiapiac számára Hidd területén.",
@@ -1416,7 +1416,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-bas-airport-economic-v2",
     type: "industry",
     name: { de: "Bahrain Airport Services (BAS)", hu: "Bahrein Airport Services (BAS)", ro: "Bahrain Airport Services (BAS)", en: "Bahrain Airport Services (BAS)" },
-    coordinates: { lat: 26.273, lng: 50.634 },
+    coords: [50.634, 26.273],
     description: {
       de: "BAS bietet Bodenabfertigung, Catering und Wartungsdienste am internationalen Flughafen von Bahrain an und sichert den Luftverkehr.",
       hu: "A BAS földi kiszolgálást, étkeztetést és karbantartást biztosít a bahreini repülőtéren, fenntartva a légi forgalmat.",
@@ -1447,7 +1447,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-trafco-group-economic-v2",
     type: "industry",
     name: { de: "TRAFCO Gruppe Logistikzentrum", hu: "TRAFCO Group logisztikai központ", ro: "Centrul logistic Grupul TRAFCO", en: "TRAFCO Group Logistics" },
-    coordinates: { lat: 26.205, lng: 50.595 },
+    coords: [50.595, 26.205],
     description: {
       de: "Die General Food Processing Company ist Bahrains größter Importeur und Distributor von Lebensmitteln mit Sitz in Mina Salman.",
       hu: "A General Food Processing Company Bahrein legnagyobb élelmiszerimportőre és forgalmazója, székhelye Mina Salmanban van.",
@@ -1478,7 +1478,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-awal-gulf-economic-v2",
     type: "factory",
     name: { de: "Awal Gulf Fertigung", hu: "Awal Gulf gyártóbázis", ro: "Unitatea de producție Awal Gulf", en: "Awal Gulf Manufacturing" },
-    coordinates: { lat: 26.21, lng: 50.6 },
+    coords: [50.6, 26.21],
     description: {
       de: "Dieser führende Hersteller von Klimaanlagen exportiert Kühltechnik aus Bahrain in den gesamten Nahen Osten und darüber hinaus.",
       hu: "Ez a vezető légkondicionáló-gyártó hűtéstechnikai eszközöket exportál Bahreinből a teljes Közel-Keletre és azon túlra.",
@@ -1509,7 +1509,7 @@ export const poiExtraBahrainEconomicV2: POI[] = [
     id: "bahrain-bfg-international-economic-v2",
     type: "factory",
     name: { de: "BFG International", hu: "BFG International", ro: "BFG International", en: "BFG International" },
-    coordinates: { lat: 26.215, lng: 50.58 },
+    coords: [50.58, 26.215],
     description: {
       de: "BFG ist weltweit führend in der Herstellung von Glasfaserverbundwerkstoffen für Züge, Windkraftanlagen und Architekturprojekte.",
       hu: "A BFG világelső az üvegszálas kompozitok gyártásában, termékeit vonatokhoz, szélturbinákhoz és épületekhez használják.",

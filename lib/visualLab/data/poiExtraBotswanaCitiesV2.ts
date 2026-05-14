@@ -6,7 +6,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-gaborone-cities-v2",
     type: "capital",
     name: { de: "Gaborone", hu: "Gaborone", ro: "Gaborone", en: "Gaborone" },
-    coordinates: { lat: -24.658, lng: 25.908 },
+    coords: [25.908, -24.658],
     description: {
       de: "Gaborone ist die Hauptstadt von Botswana und das wirtschaftliche Zentrum. Sie liegt im Südosten des Landes nahe der Grenze zu Südafrika.",
       hu: "Gaborone Botswana fővárosa és egyben az ország gazdasági központja. Az ország délkeleti részén, a dél-afrikai határ közelében fekszik.",
@@ -37,7 +37,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-francistown-cities-v2",
     type: "city",
     name: { de: "Francistown", hu: "Francistown", ro: "Francistown", en: "Francistown" },
-    coordinates: { lat: -21.173, lng: 27.505 },
+    coords: [27.505, -21.173],
     description: {
       de: "Francistown ist die zweitgrößte Stadt des Landes und gilt als Hauptstadt des Nordens. Sie war einst das Zentrum des ersten Goldrausches in Afrika.",
       hu: "Francistown az ország második legnagyobb városa, Észak fővárosaként ismert. Egykor az első afrikai aranyláz központja volt.",
@@ -68,7 +68,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-molepolole-cities-v2",
     type: "town",
     name: { de: "Molepolole", hu: "Molepolole", ro: "Molepolole", en: "Molepolole" },
-    coordinates: { lat: -24.416, lng: 25.533 },
+    coords: [25.533, -24.416],
     description: {
       de: "Molepolole ist eines der größten traditionellen Dörfer Afrikas und das Tor zur Kalahari. Es ist der Hauptort des Bakwena-Stammes.",
       hu: "Molepolole Afrika egyik legnagyobb hagyományos faluja és a Kalahári kapuja. A bakwena törzs központja.",
@@ -99,7 +99,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-maun-cities-v2",
     type: "town",
     name: { de: "Maun", hu: "Maun", ro: "Maun", en: "Maun" },
-    coordinates: { lat: -19.983, lng: 23.416 },
+    coords: [23.416, -19.983],
     description: {
       de: "Maun ist das touristische Zentrum Botswanas und das Tor zum Okavango-Delta. Die Stadt liegt am Ufer des Thamalakane-Flusses.",
       hu: "Maun Botswana turisztikai központja és az Okavango-delta kapuja. A város a Thamalakane-folyó partján fekszik.",
@@ -130,7 +130,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-serowe-cities-v2",
     type: "town",
     name: { de: "Serowe", hu: "Serowe", ro: "Serowe", en: "Serowe" },
-    coordinates: { lat: -22.383, lng: 26.716 },
+    coords: [26.716, -22.383],
     description: {
       de: "Serowe ist ein bedeutendes historisches Dorf und der Geburtsort des ersten Präsidenten Botswanas. Es liegt am Rande der Kalahari-Wüste.",
       hu: "Serowe jelentős történelmi falu és Botswana első elnökének szülőhelye. A Kalahári-sivatag szélén található.",
@@ -161,7 +161,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-selebi-phikwe-cities-v2",
     type: "town",
     name: { de: "Selebi-Phikwe", hu: "Selebi-Phikwe", ro: "Selebi-Phikwe", en: "Selebi-Phikwe" },
-    coordinates: { lat: -21.966, lng: 27.833 },
+    coords: [27.833, -21.966],
     description: {
       de: "Selebi-Phikwe ist eine Bergbaustadt im Nordosten Botswanas. Sie entstand aus zwei Dörfern nach der Entdeckung von Erzvorkommen.",
       hu: "Selebi-Phikwe bányászváros Botswana északkeleti részén. Két faluból alakult ki az érckészletek felfedezése után.",
@@ -192,7 +192,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-kanye-cities-v2",
     type: "town",
     name: { de: "Kanye", hu: "Kanye", ro: "Kanye", en: "Kanye" },
-    coordinates: { lat: -24.966, lng: 25.333 },
+    coords: [25.333, -24.966],
     description: {
       de: "Kanye ist die Hauptstadt des Southern District und das Zentrum des Bangwaketse-Stammes. Die Stadt liegt in einer hügeligen Landschaft.",
       hu: "Kanye a Déli kerület fővárosa és a bangwaketse törzs központja. A város dombos vidéken fekszik.",
@@ -223,7 +223,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-mahalapye-cities-v2",
     type: "town",
     name: { de: "Mahalapye", hu: "Mahalapye", ro: "Mahalapye", en: "Mahalapye" },
-    coordinates: { lat: -23.1, lng: 26.833 },
+    coords: [26.833, -23.1],
     description: {
       de: "Mahalapye liegt am Rande der Kalahari-Wüste und ist ein wichtiger Halt an der Eisenbahnstrecke zwischen Gaborone und Francistown.",
       hu: "Mahalapye a Kalahári-sivatag szélén található, és fontos megálló a Gaborone és Francistown közötti vasútvonalon.",
@@ -254,7 +254,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-palapye-cities-v2",
     type: "town",
     name: { de: "Palapye", hu: "Palapye", ro: "Palapye", en: "Palapye" },
-    coordinates: { lat: -22.55, lng: 27.116 },
+    coords: [27.116, -22.55],
     description: {
       de: "Palapye ist eine schnell wachsende Stadt im Central District. Sie ist ein strategischer Knotenpunkt zwischen den großen Städten Botswanas.",
       hu: "Palapye egy gyorsan növekvő város a Központi kerületben. Stratégiai csomópont Botswana nagyvárosai között.",
@@ -285,7 +285,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-lobatse-cities-v2",
     type: "town",
     name: { de: "Lobatse", hu: "Lobatse", ro: "Lobatse", en: "Lobatse" },
-    coordinates: { lat: -25.216, lng: 25.666 },
+    coords: [25.666, -25.216],
     description: {
       de: "Lobatse ist eine historische Stadt im Südosten von Botswana. Sie beherbergt den High Court und das Zentrum der Fleischindustrie des Landes.",
       hu: "Lobatse történelmi város Botswana délkeleti részén. Itt található a Legfelsőbb Bíróság és az ország húsiparának központja.",
@@ -316,7 +316,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-moshupa-cities-v2",
     type: "town",
     name: { de: "Moshupa", hu: "Moshupa", ro: "Moshupa", en: "Moshupa" },
-    coordinates: { lat: -24.783, lng: 25.416 },
+    coords: [25.416, -24.783],
     description: {
       de: "Moshupa ist ein großes Dorf im Southern District. Es ist bekannt für seine markanten Granitfelsen, die das Stadtbild prägen.",
       hu: "Moshupa egy nagy falu a Déli kerületben. Jellegzetes gránitszikláiról ismert, amelyek meghatározzák a városképet.",
@@ -347,7 +347,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-tonota-cities-v2",
     type: "town",
     name: { de: "Tonota", hu: "Tonota", ro: "Tonota", en: "Tonota" },
-    coordinates: { lat: -21.483, lng: 27.483 },
+    coords: [27.483, -21.483],
     description: {
       de: "Tonota ist ein großes Dorf im Central District, südlich von Francistown. Es ist ein wichtiges Bildungszentrum in der Region.",
       hu: "Tonota egy nagy falu a Központi kerületben, Francistowntól délre. A régió fontos oktatási központja.",
@@ -378,7 +378,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-bobonong-cities-v2",
     type: "town",
     name: { de: "Bobonong", hu: "Bobonong", ro: "Bobonong", en: "Bobonong" },
-    coordinates: { lat: -21.966, lng: 28.333 },
+    coords: [28.333, -21.966],
     description: {
       de: "Bobonong ist der Hauptort des Bobirwa-Subdistrikts im Nordosten. Die Stadt ist bekannt für ihre Halbedelsteine und die Viehzucht.",
       hu: "Bobonong a Bobirwa alkerület központja az északkeleti részen. Féldrágaköveiről és állattenyésztéséről ismert.",
@@ -409,7 +409,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-letlhakane-cities-v2",
     type: "town",
     name: { de: "Letlhakane", hu: "Letlhakane", ro: "Letlhakane", en: "Letlhakane" },
-    coordinates: { lat: -21.416, lng: 25.583 },
+    coords: [25.583, -21.416],
     description: {
       de: "Letlhakane ist eine bedeutende Bergbaustadt im Central District. Sie liegt in unmittelbarer Nähe zu mehreren großen Diamantenminen.",
       hu: "Letlhakane jelentős bányászváros a Központi kerületben. Számos nagy gyémántbánya közvetlen közelében található.",
@@ -440,7 +440,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-tutume-cities-v2",
     type: "town",
     name: { de: "Tutume", hu: "Tutume", ro: "Tutume", en: "Tutume" },
-    coordinates: { lat: -20.5, lng: 27.05 },
+    coords: [27.05, -20.5],
     description: {
       de: "Tutume ist ein großes Dorf im Nordosten Botswanas, nahe der Grenze zu Simbabwe. Es dient als administratives Zentrum für die umliegenden Siedlungen.",
       hu: "Tutume egy nagy falu Botswana északkeleti részén, a zimbabwei határ közelében. A környező települések adminisztratív központja.",
@@ -471,7 +471,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-thamaga-cities-v2",
     type: "town",
     name: { de: "Thamaga", hu: "Thamaga", ro: "Thamaga", en: "Thamaga" },
-    coordinates: { lat: -24.666, lng: 25.533 },
+    coords: [25.533, -24.666],
     description: {
       de: "Thamaga ist ein bedeutendes Dorf im Kweneng District, westlich von Gaborone. Es ist berühmt für seine traditionelle Töpferei.",
       hu: "Thamaga jelentős falu a Kweneng kerületben, Gaboronétól nyugatra. Hagyományos fazekasságáról híres.",
@@ -502,7 +502,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-gabane-cities-v2",
     type: "town",
     name: { de: "Gabane", hu: "Gabane", ro: "Gabane", en: "Gabane" },
-    coordinates: { lat: -24.666, lng: 25.783 },
+    coords: [25.783, -24.666],
     description: {
       de: "Gabane ist ein großes Dorf in unmittelbarer Nähe von Gaborone. Aufgrund seiner Lage entwickelt es sich zunehmend zu einem Wohnvorort der Hauptstadt.",
       hu: "Gabane egy nagy falu Gaborone közvetlen közelében. Elhelyezkedése miatt egyre inkább a főváros lakóövezetévé válik.",
@@ -533,7 +533,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-ghanzi-cities-v2",
     type: "town",
     name: { de: "Ghanzi", hu: "Ghanzi", ro: "Ghanzi", en: "Ghanzi" },
-    coordinates: { lat: -21.7, lng: 21.65 },
+    coords: [21.65, -21.7],
     description: {
       de: "Ghanzi ist bekannt als die Hauptstadt der Kalahari und ein wichtiges Zentrum der Rinderzucht in Botswana.",
       hu: "Ghanzi a Kalahári fővárosaként ismert, és Botswana szarvasmarha-tenyésztésének fontos központja.",
@@ -547,12 +547,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Home to many San communities.", "Center of meat production.", "Located on the Trans-Kalahari Highway.", "Host of the Ghanzi Show agricultural festival."],
     },
     imageHint: "Cattle ranch near Ghanzi",
+    descriptionAdvanced: {
+      de: "Ghanzi ist eine Stadt im Westen Botswanas, die als Hauptstadt des Distrikts Ghanzi dient. Sie liegt am Rand der Kalahari-Wüste und ist bekannt als Tor zur Kalahari. Die Gegend wird von den San (Buschmännern) bewohnt, deren Kultur und Traditionen hier gepflegt werden. Ghanzi hat etwa 12.000 Einwohner und ist ein wichtiges Handelszentrum für die umliegenden Farmen. Die Wirtschaft basiert auf Viehzucht, Tourismus und Wildtierfarmen. In der Nähe befinden sich Wildreservate wie das Central Kalahari Game Reserve. Die Stadt verfügt über einen Flughafen und mehrere Lodges.",
+      hu: "Ghanzi városa Nyugat-Botswanában található, a Kalahári-sivatag szélén. A Ghanzi körzet fővárosa. A terület a San (busman) nép otthona, akik hagyományőrző életmódjukról ismertek. A városnak kb. 12.000 lakosa van, és a környező farmok kereskedelmi központja. A gazdaság fő ágai a szarvasmarha-tenyésztés, a turizmus és a vadgazdálkodás. A közelben található a Központi Kalahári Vadasrezervátum. Ghanzi repülőtérrel és számos turistaszállással rendelkezik.",
+      ro: "Ghanzi este un oraș din vestul Botswanei, capitala districtului Ghanzi. Situat la marginea deșertului Kalahari, este cunoscut drept poartă către Kalahari. Regiunea este locuită de poporul San, cunoscut pentru cultura sa tradițională. Ghanzi are aproximativ 12.000 de locuitori și este un centru comercial pentru fermele din jur. Economia se bazează pe creșterea vitelor, turism și ferme de vânat. Aproape se află Rezervația Centrală Kalahari. Orașul are un aeroport și mai multe pensiuni.",
+      en: "Ghanzi is a town in western Botswana, serving as the capital of Ghanzi District. Located on the edge of the Kalahari Desert, it is known as the gateway to the Kalahari. The area is home to the San people (Bushmen), and their culture is preserved here. Ghanzi has a population of about 12,000 and is a trading center for surrounding farms. The economy relies on cattle ranching, tourism, and game farming. Nearby attractions include the Central Kalahari Game Reserve. The town has an airport and several lodges.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 12.000", "Höhe über dem Meeresspiegel: 1.100 Meter", "Fläche des Distrikts: 117.000 km²", "Entfernung zur Hauptstadt Gaborone: 600 km", "Jahresniederschlag: 400 mm", "Anzahl der Lodges: 10"],
+      hu: ["Lakosság: kb. 12.000", "Tengerszint feletti magasság: 1100 m", "A körzet területe: 117.000 km²", "Távolság Gaboronétól: 600 km", "Éves csapadék: 400 mm", "San népesség aránya: kb. 30%"],
+      ro: ["Populație: aproximativ 12.000", "Altitudine: 1.100 m", "Suprafața districtului: 117.000 km²", "Distanța până la Gaborone: 600 km", "Precipitații anuale: 400 mm", "Număr de așezări San: 5"],
+      en: ["Population: approx. 12,000", "Elevation: 1,100 m", "District area: 117,000 km²", "Distance to Gaborone: 600 km", "Annual rainfall: 400 mm", "Number of San settlements: 5"],
+    },
   },
   {
     id: "botswana-kasane-cities-v2",
     type: "town",
     name: { de: "Kasane", hu: "Kasane", ro: "Kasane", en: "Kasane" },
-    coordinates: { lat: -17.816, lng: 25.15 },
+    coords: [25.15, -17.816],
     description: {
       de: "Kasane ist eine strategisch wichtige Stadt im Norden Botswanas am Chobe-Fluss. Sie liegt am Treffpunkt von vier Ländern.",
       hu: "Kasane stratégiailag fontos város Botswana északi részén, a Chobe-folyó partján. Négy ország találkozási pontjánál fekszik.",
@@ -566,12 +578,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Gateway to Chobe National Park.", "Near Victoria Falls.", "Junction of Botswana, Namibia, Zambia, and Zimbabwe.", "Main hub for river safaris."],
     },
     imageHint: "Chobe River at sunset in Kasane",
+    descriptionAdvanced: {
+      de: "Kasane ist eine Stadt im Nordosten Botswanas, nahe der Grenze zu Namibia, Sambia und Simbabwe. Sie liegt am Chobe-Fluss und ist das Tor zum Chobe-Nationalpark, einem der größten Wildreservate Afrikas. Kasane hat etwa 9.000 Einwohner. Der Tourismus ist der wichtigste Wirtschaftszweig, mit vielen Safaris und Bootsfahrten. Die Stadt verfügt über einen internationalen Flughafen und mehrere Hotels. Kasane ist auch ein wichtiger Knotenpunkt für Reisen zu den Victoriafällen. Die Gegend ist reich an Wildtieren, insbesondere Elefanten, Büffeln und Löwen. Der Chobe-Nationalpark ist bekannt für seine große Elefantenpopulation.",
+      hu: "Kasane Botswana északkeleti részén fekszik, a Chobe folyó partján, a namíbiai, zambiai és zimbabwei határ közelében. A város a Chobe Nemzeti Park kapuja, amely Afrika egyik legnagyobb vadasparkja. Lakossága kb. 9.000 fő. A gazdaság fő ága a turizmus: szafarik, hajóutak. Kasane nemzetközi repülőtérrel és számos szállodával rendelkezik. A Viktória-vízesés felé vezető út egyik fontos állomása. A térségben sok a vadállat, különösen elefántok. A Chobe Park híres nagy elefántpopulációjáról.",
+      ro: "Kasane este un oraș în nord-estul Botswanei, aproape de granița cu Namibia, Zambia și Zimbabwe. Situat pe malul râului Chobe, este poarta de intrare în Parcul Național Chobe, una dintre cele mai mari rezervații din Africa. Kasane are aproximativ 9.000 de locuitori. Turismul este principala industrie, cu safari și plimbări cu barca. Orașul are un aeroport internațional și multe hoteluri. Este un nod important pentru călătorii către Cascada Victoria. Zona este bogată în animale sălbatice, în special elefanți. Parcul Chobe este renumit pentru populația sa mare de elefanți.",
+      en: "Kasane is a town in northeastern Botswana, near the borders of Namibia, Zambia, and Zimbabwe. Located on the Chobe River, it serves as the gateway to Chobe National Park, one of Africa's largest game reserves. Kasane has a population of about 9,000. Tourism is the main industry, offering safaris and boat cruises. The town has an international airport and numerous hotels. It is a key stop for travelers to Victoria Falls. The area is rich in wildlife, especially elephants. Chobe National Park is famed for its large elephant population.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 9.000", "Höhe über dem Meeresspiegel: 960 Meter", "Fläche des Chobe-Nationalparks: 11.700 km²", "Entfernung zu den Victoriafällen: 70 km", "Jährliche Touristen: über 100.000", "Anzahl der Elefanten im Park: ca. 50.000"],
+      hu: ["Lakosság: kb. 9.000", "Tengerszint feletti magasság: 960 m", "Chobe NP területe: 11.700 km²", "Távolság a Viktória-vízeséstől: 70 km", "Éves turisták száma: több mint 100.000", "Elefántok száma: kb. 50.000"],
+      ro: ["Populație: aproximativ 9.000", "Altitudine: 960 m", "Suprafața Parcului Național Chobe: 11.700 km²", "Distanța până la Cascada Victoria: 70 km", "Turisti anual: peste 100.000", "Număr de elefanți: aprox. 50.000"],
+      en: ["Population: approx. 9,000", "Elevation: 960 m", "Chobe NP area: 11,700 km²", "Distance to Victoria Falls: 70 km", "Annual tourists: over 100,000", "Elephant population: approx. 50,000"],
+    },
   },
   {
     id: "botswana-jwaneng-cities-v2",
     type: "town",
     name: { de: "Jwaneng", hu: "Jwaneng", ro: "Jwaneng", en: "Jwaneng" },
-    coordinates: { lat: -24.6, lng: 24.716 },
+    coords: [24.716, -24.6],
     description: {
       de: "Jwaneng ist eine moderne Stadt, die primär für den Betrieb der reichsten Diamantenmine der Welt errichtet wurde.",
       hu: "Jwaneng egy modern város, amelyet elsősorban a világ leggazdagabb gyémántbányájának kiszolgálására építettek.",
@@ -602,7 +626,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-mmopane-cities-v2",
     type: "town",
     name: { de: "Mmopane", hu: "Mmopane", ro: "Mmopane", en: "Mmopane" },
-    coordinates: { lat: -24.583, lng: 25.833 },
+    coords: [25.833, -24.583],
     description: {
       de: "Mmopane ist ein schnell wachsendes Dorf nördlich von Gaborone, das als wichtiges Wohngebiet für Pendler der Hauptstadt dient.",
       hu: "Mmopane egy gyorsan növekvő falu Gaboronétól északra, amely a fővárosba ingázók fontos lakóövezete.",
@@ -633,7 +657,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-gumare-cities-v2",
     type: "town",
     name: { de: "Gumare", hu: "Gumare", ro: "Gumare", en: "Gumare" },
-    coordinates: { lat: -19.366, lng: 22.166 },
+    coords: [22.166, -19.366],
     description: {
       de: "Gumare ist ein administratives Zentrum im Nordwesten Botswanas, nahe dem westlichen Rand des Okavango-Deltas.",
       hu: "Gumare adminisztratív központ Botswana északnyugati részén, az Okavango-delta nyugati szélének közelében.",
@@ -664,7 +688,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-tsabong-cities-v2",
     type: "town",
     name: { de: "Tsabong", hu: "Tsabong", ro: "Tsabong", en: "Tsabong" },
-    coordinates: { lat: -26.016, lng: 22.4 },
+    coords: [22.4, -26.016],
     description: {
       de: "Tsabong ist die Hauptstadt des Kgalagadi District im äußersten Süden Botswanas, nahe der Grenze zu Südafrika.",
       hu: "Tsabong a Kgalagadi kerület fővárosa Botswana legdélebbi részén, a dél-afrikai határ közelében.",
@@ -695,7 +719,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-lentsweletau-cities-v2",
     type: "town",
     name: { de: "Lentsweletau", hu: "Lentsweletau", ro: "Lentsweletau", en: "Lentsweletau" },
-    coordinates: { lat: -24.25, lng: 25.85 },
+    coords: [25.85, -24.25],
     description: {
       de: "Lentsweletau ist ein malerisches Dorf im Kweneng District, bekannt für die umgebende Hügellandschaft und traditionelle Architektur.",
       hu: "Lentsweletau egy festői falu a Kweneng kerületben, amely a környező dombos tájról és a hagyományos építészetről ismert.",
@@ -726,7 +750,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-sowa-cities-v2",
     type: "town",
     name: { de: "Sowa", hu: "Sowa", ro: "Sowa", en: "Sowa" },
-    coordinates: { lat: -20.55, lng: 26.233 },
+    coords: [26.233, -20.55],
     description: {
       de: "Sowa ist eine spezialisierte Stadt, die für den Abbau von Soda-Asche und Salz in der Sowa Pan gegründet wurde.",
       hu: "Sowa egy speciális város, amelyet a Sowa Pan sziksó- és sóbányászatára hoztak létre.",
@@ -757,7 +781,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-orapa-cities-v2",
     type: "town",
     name: { de: "Orapa", hu: "Orapa", ro: "Orapa", en: "Orapa" },
-    coordinates: { lat: -21.283, lng: 25.366 },
+    coords: [25.366, -21.283],
     description: {
       de: "Orapa ist eine exklusive Bergbaustadt im Central District, die als Wohnort für die Arbeiter der dortigen Diamantenmine dient.",
       hu: "Orapa egy exkluzív bányászváros a Központi kerületben, amely az ottani gyémántbánya dolgozóinak lakóhelye.",
@@ -788,7 +812,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-shakawe-cities-v2",
     type: "town",
     name: { de: "Shakawe", hu: "Shakawe", ro: "Shakawe", en: "Shakawe" },
-    coordinates: { lat: -18.366, lng: 21.85 },
+    coords: [21.85, -18.366],
     description: {
       de: "Shakawe ist ein Dorf am Okavango-Fluss im Nordwesten von Botswana, bekannt für seine exzellenten Angelmöglichkeiten und Vogelbeobachtung.",
       hu: "Shakawe egy falu az Okavango-folyó partján Botswana északnyugati részén, kiváló horgászhelyeiről és madármegfigyeléséről ismert.",
@@ -819,7 +843,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-masunga-cities-v2",
     type: "town",
     name: { de: "Masunga", hu: "Masunga", ro: "Masunga", en: "Masunga" },
-    coordinates: { lat: -20.45, lng: 27.35 },
+    coords: [27.35, -20.45],
     description: {
       de: "Masunga ist die Hauptstadt des North-East District und ein wichtiges administratives Zentrum nahe der simbabwischen Grenze.",
       hu: "Masunga az Északkeleti kerület fővárosa és fontos adminisztratív központ a zimbabwei határ közelében.",
@@ -850,7 +874,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-mmadinare-cities-v2",
     type: "town",
     name: { de: "Mmadinare", hu: "Mmadinare", ro: "Mmadinare", en: "Mmadinare" },
-    coordinates: { lat: -21.883, lng: 27.616 },
+    coords: [27.616, -21.883],
     description: {
       de: "Mmadinare ist ein großes Dorf im Central District, das für seine landwirtschaftliche Produktion und die Nähe zum Letsibogo-Damm bekannt ist.",
       hu: "Mmadinare egy nagy falu a Központi kerületben, amely mezőgazdasági termeléséről és a Letsibogo-gát közelségéről ismert.",
@@ -881,7 +905,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-letlhakeng-cities-v2",
     type: "town",
     name: { de: "Letlhakeng", hu: "Letlhakeng", ro: "Letlhakeng", en: "Letlhakeng" },
-    coordinates: { lat: -24.1, lng: 25.033 },
+    coords: [25.033, -24.1],
     description: {
       de: "Letlhakeng ist ein administrativer Hauptort im Kweneng District und dient als Tor zu den tieferen Regionen der Kalahari.",
       hu: "Letlhakeng a Kweneng kerület egyik adminisztratív központja, és kapuként szolgál a Kalahári belső régiói felé.",
@@ -912,7 +936,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-maitengwe-cities-v2",
     type: "town",
     name: { de: "Maitengwe", hu: "Maitengwe", ro: "Maitengwe", en: "Maitengwe" },
-    coordinates: { lat: -20.216, lng: 27.116 },
+    coords: [27.116, -20.216],
     description: {
       de: "Maitengwe ist ein Grenzdorf im Nordosten Botswanas. Es ist bekannt für seinen traditionellen Handel und die kulturelle Verbindung zu Simbabwe.",
       hu: "Maitengwe egy határmenti falu Botswana északkeleti részén. Hagyományos kereskedelméről és a Zimbabwe felé irányuló kulturális kapcsolatairól ismert.",
@@ -943,7 +967,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-rakops-cities-v2",
     type: "town",
     name: { de: "Rakops", hu: "Rakops", ro: "Rakops", en: "Rakops" },
-    coordinates: { lat: -21.016, lng: 24.383 },
+    coords: [24.383, -21.016],
     description: {
       de: "Rakops ist ein strategisch wichtiges Dorf im Boteti-Subdistrikt, das als Versorgungspunkt für Reisende in die Zentralkalahari dient.",
       hu: "Rakops stratégiailag fontos falu a Boteti alkerületben, amely a Közép-Kalaháriba utazók ellátópontjaként szolgál.",
@@ -974,7 +998,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-charles-hill-cities-v2",
     type: "town",
     name: { de: "Charles Hill", hu: "Charles Hill", ro: "Charles Hill", en: "Charles Hill" },
-    coordinates: { lat: -22.283, lng: 20.083 },
+    coords: [20.083, -22.283],
     description: {
       de: "Charles Hill ist ein administrativer Hauptort im Ghanzi District, direkt an der Grenze zu Namibia gelegen.",
       hu: "Charles Hill egy adminisztratív központ a Ghanzi kerületben, közvetlenül a namíbiai határ mellett.",
@@ -1005,7 +1029,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-kang-cities-v2",
     type: "town",
     name: { de: "Kang", hu: "Kang", ro: "Kang", en: "Kang" },
-    coordinates: { lat: -23.683, lng: 22.783 },
+    coords: [22.783, -23.683],
     description: {
       de: "Kang ist eine wichtige Raststätte an der Trans-Kalahari-Autobahn und bietet essentielle Dienste für Fernfahrer und Touristen.",
       hu: "Kang fontos pihenőhely a Transz-Kalahári autópályán, alapvető szolgáltatásokat nyújtva a kamionsofőröknek és turistáknak.",
@@ -1036,7 +1060,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-hukuntsi-cities-v2",
     type: "town",
     name: { de: "Hukuntsi", hu: "Hukuntsi", ro: "Hukuntsi", en: "Hukuntsi" },
-    coordinates: { lat: -23.983, lng: 21.783 },
+    coords: [21.783, -23.983],
     description: {
       de: "Hukuntsi ist eines der vier Dörfer in der Kgalagadi-Region und ein wichtiges Versorgungszentrum in der Wüste.",
       hu: "Hukuntsi a Kgalagadi régió négy falujának egyike, és fontos ellátó központ a sivatagban.",
@@ -1050,12 +1074,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Name means 'many corners'.", "Administrative hub for Kgalagadi North.", "Features a major airstrip.", "Center for local commerce."],
     },
     imageHint: "Landscape of Hukuntsi village",
+    descriptionAdvanced: {
+      de: "Hukuntsi ist eine kleine Stadt im Süden Botswanas, in der Kalahari-Wüste gelegen. Sie ist Teil des Distrikts Kgalagadi. Die Bevölkerung beträgt etwa 5.000 Einwohner, hauptsächlich Angehörige der Bakwena- und San-Völker. Die Wirtschaft basiert auf Viehzucht, Landwirtschaft und ein wenig Tourismus. Hukuntsi hat eine Schule, eine Klinik und einen kleinen Markt. Die Stadt ist ein Versorgungszentrum für die umliegenden Dörfer. Die Region ist trocken und die Wasserversorgung erfolgt über Bohrlöcher. In der Nähe befindet sich das Wildreservat Mabuasehube, ein Teil des Kgalagadi-Transfrontier-Parks.",
+      hu: "Hukuntsi egy kisváros Dél-Botswanában, a Kalahári sivatagban. A Kgalagadi körzet része. Lakossága kb. 5.000 fő, főleg bakwena és san emberek. A gazdaság a szarvasmarha-tenyésztésre, mezőgazdaságra és egy kis turizmusra épül. Hukuntsiban van iskola, klinika és piac. A város ellátó központ a környező falvak számára. A terület száraz, a vízellátás fúrt kutakból történik. A közelben található a Mabuasehube vadasrezervátum, a Kgalagadi Határon Átnyúló Park része.",
+      ro: "Hukuntsi este un oraș mic în sudul Botswanei, situat în deșertul Kalahari. Face parte din districtul Kgalagadi. Populația este de aproximativ 5.000 de locuitori, în principal Bakwena și San. Economia se bazează pe creșterea vitelor, agricultură și un pic de turism. Hukuntsi are o școală, o clinică și o piață. Este un centru de aprovizionare pentru satele din jur. Regiunea este aridă, iar apa provine din puțuri forate. Aproape se află Rezervația Mabuasehube, parte a Parcului Transfrontalier Kgalagadi.",
+      en: "Hukuntsi is a small town in southern Botswana, located in the Kalahari Desert. It is part of Kgalagadi District. The population is about 5,000, mainly Bakwena and San people. The economy relies on cattle ranching, farming, and limited tourism. Hukuntsi has a school, clinic, and a small market. It serves as a supply center for surrounding villages. The area is arid, with water from boreholes. Nearby is the Mabuasehube Game Reserve, part of the Kgalagadi Transfrontier Park.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 5.000", "Höhe: 1.000 Meter", "Entfernung zum Kgalagadi-Park: 50 km", "Jahresniederschlag: 250 mm", "Anzahl der Bohrlöcher: 15", "Anzahl der San-Familien: 200"],
+      hu: ["Lakosság: kb. 5.000", "Tengerszint feletti magasság: 1000 m", "Távolság a Kgalagadi-parktól: 50 km", "Éves csapadék: 250 mm", "Fúrt kutak száma: 15", "San családok száma: 200"],
+      ro: ["Populație: aprox. 5.000", "Altitudine: 1.000 m", "Distanța până la Parcul Kgalagadi: 50 km", "Precipitații anuale: 250 mm", "Număr de puțuri forate: 15", "Familii San: 200"],
+      en: ["Population: approx. 5,000", "Elevation: 1,000 m", "Distance to Kgalagadi Park: 50 km", "Annual rainfall: 250 mm", "Number of boreholes: 15", "San families: 200"],
+    },
   },
   {
     id: "botswana-nata-cities-v2",
     type: "town",
     name: { de: "Nata", hu: "Nata", ro: "Nata", en: "Nata" },
-    coordinates: { lat: -20.216, lng: 26.183 },
+    coords: [26.183, -20.216],
     description: {
       de: "Nata ist ein wichtiger Verkehrsknotenpunkt im Nordosten Botswanas, gelegen an der Kreuzung der Wege nach Kasane und Maun.",
       hu: "Nata fontos közlekedési csomópont Botswana északkeleti részén, a Kasane és Maun felé vezető utak kereszteződésénél fekszik.",
@@ -1086,7 +1122,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-sefhare-cities-v2",
     type: "town",
     name: { de: "Sefhare", hu: "Sefhare", ro: "Sefhare", en: "Sefhare" },
-    coordinates: { lat: -23.166, lng: 27.183 },
+    coords: [27.183, -23.166],
     description: {
       de: "Sefhare ist ein historisches Dorf im Central District, bekannt für seine Rolle während der Kolonialzeit und seine Hügel.",
       hu: "Sefhare egy történelmi falu a Központi kerületben, a gyarmati korszakban betöltött szerepéről és dombjairól ismert.",
@@ -1117,7 +1153,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-tsetsebjwe-cities-v2",
     type: "town",
     name: { de: "Tsetsebjwe", hu: "Tsetsebjwe", ro: "Tsetsebjwe", en: "Tsetsebjwe" },
-    coordinates: { lat: -22.416, lng: 28.45 },
+    coords: [28.45, -22.416],
     description: {
       de: "Tsetsebjwe ist ein Dorf im Bobirwa-Subdistrikt, bekannt für seine reiche Tierwelt und die Nähe zum Tuli-Block.",
       hu: "Tsetsebjwe egy falu a Bobirwa alkerületben, gazdag vadvilágáról és a Tuli-blokk közelségéről ismert.",
@@ -1131,12 +1167,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Center for local agriculture.", "Key corridor for elephants.", "Population around 4,000.", "Known for traditional dances."],
     },
     imageHint: "Acacia trees in the Tsetsebjwe area",
+    descriptionAdvanced: {
+      de: "Tsetsebjwe ist eine ländliche Siedlung im Osten Botswanas, im Distrikt Central. Die Einwohnerzahl beträgt etwa 2.500, hauptsächlich Angehörige der Bakalanga-Volksgruppe. Die Wirtschaft wird von der Landwirtschaft dominiert, vor allem Mais- und Sorghumanbau sowie Viehzucht. Tsetsebjwe hat eine Grundschule, eine Klinik und eine Kirche. Die Gegend ist hügelig und teilweise bewaldet. In der Nähe befinden sich historische Stätten der San, darunter Felsmalereien. Die Infrastruktur ist begrenzt, aber die Gemeinde ist durch Straßen mit den Nachbarorten verbunden. Der Ort ist bekannt für seine traditionellen Feste.",
+      hu: "Tsetsebjwe egy vidéki település Kelet-Botswanában, a Központi körzetben. Lakossága kb. 2.500 fő, főleg bakalanga emberek. A gazdaság a mezőgazdaságon alapul: kukorica, cirok és szarvasmarha-tenyésztés. Van itt általános iskola, klinika és templom. A környék dombos és erdős. A közelben san sziklarajzok találhatók. Az infrastruktúra korlátozott, de utak kötik össze a szomszédos településekkel. Tsetsebjwe híres hagyományos fesztiváljairól.",
+      ro: "Tsetsebjwe este o așezare rurală în estul Botswanei, în districtul Central. Populația este de aproximativ 2.500 de locuitori, în principal Bakalanga. Economia se bazează pe agricultură: porumb, sorg și creșterea vitelor. Tsetsebjwe are o școală primară, o clinică și o biserică. Zona este deluroasă și parțial împădurită. În apropiere se află picturi rupestre San. Infrastructura este limitată, dar drumuri leagă localitatea de vecini. Satul este cunoscut pentru festivalurile tradiționale.",
+      en: "Tsetsebjwe is a rural settlement in eastern Botswana, Central District. Population is about 2,500, mainly Bakalanga people. Economy is dominated by agriculture: maize, sorghum, and cattle rearing. Tsetsebjwe has a primary school, clinic, and church. The area is hilly and partly forested. Nearby are San rock paintings. Infrastructure is limited but roads connect to neighboring settlements. The village is known for its traditional festivals.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 2.500", "Höhe: 900 Meter", "Entfernung nach Serowe: 60 km", "Jahresniederschlag: 450 mm", "Anzahl der Grundschulen: 1", "Anzahl der Kirchen: 2"],
+      hu: ["Lakosság: kb. 2.500", "Tengerszint feletti magasság: 900 m", "Távolság Serowétól: 60 km", "Éves csapadék: 450 mm", "Általános iskolák száma: 1", "Templomok száma: 2"],
+      ro: ["Populație: aprox. 2.500", "Altitudine: 900 m", "Distanța până la Serowe: 60 km", "Precipitații anuale: 450 mm", "Număr de școli primare: 1", "Număr de biserici: 2"],
+      en: ["Population: approx. 2,500", "Elevation: 900 m", "Distance to Serowe: 60 km", "Annual rainfall: 450 mm", "Primary schools: 1", "Churches: 2"],
+    },
   },
   {
     id: "botswana-lerala-cities-v2",
     type: "town",
     name: { de: "Lerala", hu: "Lerala", ro: "Lerala", en: "Lerala" },
-    coordinates: { lat: -22.75, lng: 27.766 },
+    coords: [27.766, -22.75],
     description: {
       de: "Lerala ist ein Dorf im Central District, das für die nahegelegenen Diamantvorkommen und die Tswapong-Hügel bekannt ist.",
       hu: "Lerala egy falu a Központi kerületben, amely a közeli gyémántlelőhelyekről és a Tswapong-hegyekről ismert.",
@@ -1150,12 +1198,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Site of the Lerala diamond mine.", "Located in a scenic hilly landscape.", "Population around 6,000.", "Hub for agricultural activities."],
     },
     imageHint: "Hills near Lerala village",
+    descriptionAdvanced: {
+      de: "Lerala ist eine kleine Stadt in der Subdistrict Serowe in Zentralbotswana. Sie hat etwa 3.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft (Getreide, Baumwolle) und Viehzucht. Lerala verfügt über eine Schule, eine Klinik und einen Markt. Die Gegend ist flach und trocken, typisch für die Kalahari-Ausläufer. In der Nähe befinden sich die Koalake-Berge, ein bekanntes Wahrzeichen. Die Stadt ist ein lokales Handelszentrum. Die Menschen gehören hauptsächlich den Bakalanga und Batswana an. Es gibt Bestrebungen, den Tourismus durch kulturelle Veranstaltungen zu fördern.",
+      hu: "Lerala egy kisváros a központi Botswanában, Serowe alkerületében. Lakossága kb. 3.000 fő. Gazdasága mezőgazdaságon (gabona, gyapot) és állattenyésztésen alapul. Van iskola, klinika és piac. A környék lapos és száraz, a Kalahári előhegyei jellemzik. A közelben találhatók a Koalake-hegyek, ismert tájterep. Lerala helyi kereskedelmi központ. A lakosság főleg bakalanga és batswana. A turizmust kulturális eseményekkel próbálják fejleszteni.",
+      ro: "Lerala este un oraș mic în Botswana centrală, subdistrictul Serowe. Are aproximativ 3.000 de locuitori. Economia se bazează pe agricultură (cereale, bumbac) și creșterea vitelor. Lerala are o școală, o clinică și o piață. Zona este plată și uscată, cu dealuri ale Kalahari. Aproape se află Munții Koalake, un reper celebru. Orașul este un centru comercial local. Populația este în principal Bakalanga și Batswana. Se încearcă promovarea turismului prin evenimente culturale.",
+      en: "Lerala is a small town in central Botswana, Serowe subdistrict. It has about 3,000 residents. Economy is based on agriculture (cereals, cotton) and livestock. Lerala has a school, clinic, and market. The terrain is flat and dry, typical of Kalahari foothills. Nearby are the Koalake Hills, a notable landmark. The town serves as a local trading center. The people are mainly Bakalanga and Batswana. There are efforts to boost tourism through cultural events.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 3.000", "Höhe: 950 Meter", "Entfernung nach Serowe: 40 km", "Jahresniederschlag: 350 mm", "Anzahl der Märkte: 1", "Höhe der Koalake-Berge: 300 m"],
+      hu: ["Lakosság: kb. 3.000", "Tengerszint feletti magasság: 950 m", "Távolság Serowétól: 40 km", "Éves csapadék: 350 mm", "Piaci napok: hetente kétszer", "Koalake-hegyek magassága: 300 m"],
+      ro: ["Populație: aprox. 3.000", "Altitudine: 950 m", "Distanța până la Serowe: 40 km", "Precipitații anuale: 350 mm", "Număr de piețe: 1", "Înălțimea Munților Koalake: 300 m"],
+      en: ["Population: approx. 3,000", "Elevation: 950 m", "Distance to Serowe: 40 km", "Annual rainfall: 350 mm", "Markets: 1", "Koalake Hills height: 300 m"],
+    },
   },
   {
     id: "botswana-machaneng-cities-v2",
     type: "town",
     name: { de: "Machaneng", hu: "Machaneng", ro: "Machaneng", en: "Machaneng" },
-    coordinates: { lat: -23.183, lng: 27.483 },
+    coords: [27.483, -23.183],
     description: {
       de: "Machaneng ist ein historisches Dorf im Tswapong-Gebiet, bekannt für seine koloniale Architektur und das alte Gefängnis.",
       hu: "Machaneng egy történelmi falu a Tswapong területen, gyarmati építészetéről és régi börtönéről ismert.",
@@ -1186,7 +1246,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-gweta-cities-v2",
     type: "town",
     name: { de: "Gweta", hu: "Gweta", ro: "Gweta", en: "Gweta" },
-    coordinates: { lat: -20.2, lng: 25.25 },
+    coords: [25.25, -20.2],
     description: {
       de: "Gweta ist ein kleines Dorf, das als Tor zu den Makgadikgadi-Pfannen dient und für seine riesigen Affenbrotbäume bekannt ist.",
       hu: "Gweta egy kis falu, amely a Makgadikgadi-sósíkság kapujaként szolgál, és hatalmas majomkenyérfáiról ismert.",
@@ -1217,7 +1277,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-sebina-cities-v2",
     type: "town",
     name: { de: "Sebina", hu: "Sebina", ro: "Sebina", en: "Sebina" },
-    coordinates: { lat: -20.466, lng: 27.3 },
+    coords: [27.3, -20.466],
     description: {
       de: "Sebina ist ein Dorf im North-East District, das an der Hauptstraße von Francistown nach Maun liegt.",
       hu: "Sebina egy falu az Északkeleti kerületben, a Francistown és Maun közötti főút mentén található.",
@@ -1248,7 +1308,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-pandamatenga-cities-v2",
     type: "town",
     name: { de: "Pandamatenga", hu: "Pandamatenga", ro: "Pandamatenga", en: "Pandamatenga" },
-    coordinates: { lat: -18.533, lng: 25.666 },
+    coords: [25.666, -18.533],
     description: {
       de: "Pandamatenga ist ein wichtiges landwirtschaftliches Zentrum im Norden Botswanas, bekannt für seine fruchtbaren schwarzen Böden.",
       hu: "Pandamatenga fontos mezőgazdasági központ Botswana északi részén, termékeny fekete földjeiről ismert.",
@@ -1279,7 +1339,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-ramotswa-cities-v2",
     type: "town",
     name: { de: "Ramotswa", hu: "Ramotswa", ro: "Ramotswa", en: "Ramotswa" },
-    coordinates: { lat: -24.866, lng: 25.866 },
+    coords: [25.866, -24.866],
     description: {
       de: "Ramotswa ist die Hauptstadt des South-East District und das Zentrum des Balete-Stammes. Die Stadt liegt südlich von Gaborone.",
       hu: "Ramotswa a Délkeleti kerület fővárosa és a balete törzs központja. Gaboronétól délre fekszik.",
@@ -1310,7 +1370,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-tlokweng-cities-v2",
     type: "town",
     name: { de: "Tlokweng", hu: "Tlokweng", ro: "Tlokweng", en: "Tlokweng" },
-    coordinates: { lat: -24.666, lng: 25.983 },
+    coords: [25.983, -24.666],
     description: {
       de: "Tlokweng ist ein großes Dorf direkt östlich von Gaborone. Es ist ein wichtiges Tor nach Südafrika und ein wachsendes Wirtschaftszentrum.",
       hu: "Tlokweng egy nagy falu közvetlenül Gaboronétól keletre. Fontos kapu Dél-Afrika felé és növekvő gazdasági központ.",
@@ -1341,7 +1401,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-otse-cities-v2",
     type: "town",
     name: { de: "Otse", hu: "Otse", ro: "Otse", en: "Otse" },
-    coordinates: { lat: -25.016, lng: 25.733 },
+    coords: [25.733, -25.016],
     description: {
       de: "Otse ist ein Dorf im South-East District, umgeben von markanten Hügeln. Es ist bekannt für seine natürliche Schönheit und Bildungsstätten.",
       hu: "Otse egy falu a Délkeleti kerületben, jellegzetes dombokkal körülvéve. Természeti szépségéről és oktatási intézményeiről ismert.",
@@ -1372,7 +1432,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-good-hope-cities-v2",
     type: "town",
     name: { de: "Good Hope", hu: "Good Hope", ro: "Good Hope", en: "Good Hope" },
-    coordinates: { lat: -25.433, lng: 25.416 },
+    coords: [25.416, -25.433],
     description: {
       de: "Good Hope ist das administrative Zentrum des Goodhope-Subdistrikts im Southern District, nahe der Grenze zu Südafrika.",
       hu: "Good Hope a Goodhope alkerület adminisztratív központja a Déli kerületben, a dél-afrikai határ közelében.",
@@ -1403,7 +1463,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-pitsane-cities-v2",
     type: "town",
     name: { de: "Pitsane", hu: "Pitsane", ro: "Pitsane", en: "Pitsane" },
-    coordinates: { lat: -25.433, lng: 25.583 },
+    coords: [25.583, -25.433],
     description: {
       de: "Pitsane ist ein strategisch wichtiges Dorf im Southern District, das für seine Rolle im Handel und in der Geschichte bekannt ist.",
       hu: "Pitsane stratégiailag fontos falu a Déli kerületben, amely a kereskedelemben és a történelemben betöltött szerepéről ismert.",
@@ -1434,7 +1494,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-middlepits-cities-v2",
     type: "town",
     name: { de: "Middlepits", hu: "Middlepits", ro: "Middlepits", en: "Middlepits" },
-    coordinates: { lat: -26.683, lng: 21.883 },
+    coords: [21.883, -26.683],
     description: {
       de: "Middlepits ist ein abgelegenes Dorf im Kgalagadi District, das am Ufer des Molopo-Flusses an der Grenze zu Südafrika liegt.",
       hu: "Middlepits egy távoli falu a Kgalagadi kerületben, a Molopo-folyó partján, a dél-afrikai határ mentén.",
@@ -1465,7 +1525,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-bokspits-cities-v2",
     type: "town",
     name: { de: "Bokspits", hu: "Bokspits", ro: "Bokspits", en: "Bokspits" },
-    coordinates: { lat: -26.9, lng: 20.616 },
+    coords: [20.616, -26.9],
     description: {
       de: "Bokspits ist das südlichste Dorf Botswanas, gelegen im Kgalagadi District am Dreiländereck mit Südafrika und Namibia.",
       hu: "Bokspits Botswana legdélebbi faluja, a Kgalagadi kerületben található, a dél-afrikai és namíbiai hármashatárnál.",
@@ -1496,7 +1556,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-werda-cities-v2",
     type: "town",
     name: { de: "Werda", hu: "Werda", ro: "Werda", en: "Werda" },
-    coordinates: { lat: -25.266, lng: 23.266 },
+    coords: [23.266, -25.266],
     description: {
       de: "Werda ist ein Dorf im Kgalagadi District, das als wichtiges landwirtschaftliches Zentrum in der Kalahari-Wüste fungiert.",
       hu: "Werda egy falu a Kgalagadi kerületben, amely fontos mezőgazdasági központként működik a Kalahári-sivatagban.",
@@ -1510,12 +1570,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Center for cattle ranching.", "Features a major airstrip.", "Key stop on the Sekoma highway.", "Traditional settlement."],
     },
     imageHint: "Village houses in Werda",
+    descriptionAdvanced: {
+      de: "Werda ist eine kleine Siedlung im Süden Botswanas, im Distrikt Kweneng. Die Einwohnerzahl beträgt etwa 1.500. Die Wirtschaft ist landwirtschaftlich geprägt: Viehzucht und Ackerbau. Werda hat eine Grundschule und eine Klinik. Die Gegend ist trocken und buschig. Die Gemeinde ist eng verbunden und pflegt traditionelle Bräuche. In der Nähe gibt es einige kleine Wildreservate. Werda ist abgelegen, aber durch unbefestigte Straßen erreichbar. Die nächste größere Stadt ist Molepolole, etwa 80 km entfernt.",
+      hu: "Werda egy kis település Dél-Botswanában, a Kweneng körzetben. Lakossága kb. 1.500 fő. Gazdasága mezőgazdasági: állattenyésztés és földművelés. Van általános iskola és klinika. A környék száraz és bokros. A közösség szoros kapcsolatot ápol a hagyományokkal. A közelben kis vadasrezervátumok vannak. Werda távoli, de földutakon elérhető. A legközelebbi nagyobb város Molepolole, kb. 80 km-re.",
+      ro: "Werda este o așezare mică în sudul Botswanei, districtul Kweneng. Populația este de aproximativ 1.500 de locuitori. Economia este agricolă: creșterea vitelor și agricultură. Werda are o școală primară și o clinică. Zona este uscată și cu tufișuri. Comunitatea păstrează tradițiile. În apropiere există rezervații de vânătoare mici. Werda este izolat, dar accesibil pe drumuri de pământ. Cel mai apropiat oraș mare este Molepolole, la 80 km.",
+      en: "Werda is a small settlement in southern Botswana, Kweneng District. Population is about 1,500. Economy is agricultural: cattle rearing and farming. Werda has a primary school and a clinic. The area is dry and bushy. The community is close-knit and maintains traditional customs. Nearby are small game reserves. Werda is remote but accessible by dirt roads. The nearest major town is Molepolole, 80 km away.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1.500", "Höhe: 1.100 Meter", "Entfernung nach Molepolole: 80 km", "Jahresniederschlag: 300 mm", "Anzahl der Grundschulen: 1", "Anzahl der Kliniken: 1"],
+      hu: ["Lakosság: kb. 1.500", "Tengerszint feletti magasság: 1100 m", "Távolság Molepolole-tól: 80 km", "Éves csapadék: 300 mm", "Általános iskolák: 1", "Klinikák: 1"],
+      ro: ["Populație: aprox. 1.500", "Altitudine: 1.100 m", "Distanța până la Molepolole: 80 km", "Precipitații anuale: 300 mm", "Școli primare: 1", "Clinici: 1"],
+      en: ["Population: approx. 1,500", "Elevation: 1,100 m", "Distance to Molepolole: 80 km", "Annual rainfall: 300 mm", "Primary schools: 1", "Clinics: 1"],
+    },
   },
   {
     id: "botswana-mabutsane-cities-v2",
     type: "town",
     name: { de: "Mabutsane", hu: "Mabutsane", ro: "Mabutsane", en: "Mabutsane" },
-    coordinates: { lat: -24.4, lng: 23.516 },
+    coords: [23.516, -24.4],
     description: {
       de: "Mabutsane ist der Hauptort des Mabutsane-Subdistrikts im Southern District, gelegen an der Trans-Kalahari-Autobahn.",
       hu: "Mabutsane a Mabutsane alkerület központja a Déli kerületben, a Transz-Kalahári autópálya mentén.",
@@ -1529,12 +1601,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Administrative hub for the region.", "Major stop for long-distance travelers.", "Center for communal services.", "Population around 2,000."],
     },
     imageHint: "Trans-Kalahari road through Mabutsane",
+    descriptionAdvanced: {
+      de: "Mabutsane ist ein Dorf im Südwesten Botswanas, im Distrikt Kgalagadi. Die Einwohnerzahl beträgt etwa 2.000. Die Bewohner gehören größtenteils den Bakwena und San an. Die Wirtschaft stützt sich auf Viehzucht und saisonalen Ackerbau. Mabutsane hat eine Schule, eine Klinik und eine Kirche. Die Umgebung ist typisch für die Kalahari: Sanddünen und Trockenbusch. Die Wasserversorgung erfolgt über Bohrlöcher. Das Dorf ist ein Ausgangspunkt für Touren in den Kgalagadi-Transfrontier-Park. Die traditionelle Lebensweise der San ist hier noch präsent.",
+      hu: "Mabutsane egy falu Délnyugat-Botswanában, a Kgalagadi körzetben. Lakossága kb. 2.000 fő, főleg bakwena és san. Gazdaság: állattenyésztés és idényszerű földművelés. Van iskola, klinika és templom. A környék a Kalahárira jellemző: homokdűnék és száraz bozót. A vizet fúrt kutakból nyerik. A falu a Kgalagadi Határon Átnyúló Parkba induló túrák kiindulópontja. A sanok hagyományos életmódja még fellelhető.",
+      ro: "Mabutsane este un sat în sud-vestul Botswanei, districtul Kgalagadi. Populația este de aproximativ 2.000 de locuitori, în principal Bakwena și San. Economia se bazează pe creșterea vitelor și agricultura sezonieră. Mabutsane are o școală, o clinică și o biserică. Zona este tipică pentru Kalahari: dune de nisip și tufișuri uscate. Apa provine din puțuri forate. Satul este un punct de plecare pentru excursii în Parcul Transfrontalier Kgalagadi. Modul de viață tradițional al San este încă prezent.",
+      en: "Mabutsane is a village in southwestern Botswana, Kgalagadi District. Population is about 2,000, mainly Bakwena and San. Economy relies on cattle rearing and seasonal farming. Mabutsane has a school, clinic, and church. The surroundings are typical Kalahari: sand dunes and dry bush. Water is from boreholes. The village is a starting point for tours to Kgalagadi Transfrontier Park. The traditional San lifestyle is still visible.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 2.000", "Höhe: 1.050 Meter", "Entfernung zum Kgalagadi-Park: 30 km", "Jahresniederschlag: 200 mm", "Anzahl der Bohrlöcher: 10", "Anzahl der San-Haushalte: 150"],
+      hu: ["Lakosság: kb. 2.000", "Tengerszint feletti magasság: 1050 m", "Távolság a Kgalagadi-parktól: 30 km", "Éves csapadék: 200 mm", "Fúrt kutak: 10", "San háztartások: 150"],
+      ro: ["Populație: aprox. 2.000", "Altitudine: 1.050 m", "Distanța până la Parcul Kgalagadi: 30 km", "Precipitații anuale: 200 mm", "Puțuri forate: 10", "Gospodării San: 150"],
+      en: ["Population: approx. 2,000", "Elevation: 1,050 m", "Distance to Kgalagadi Park: 30 km", "Annual rainfall: 200 mm", "Boreholes: 10", "San households: 150"],
+    },
   },
   {
     id: "botswana-sekoma-cities-v2",
     type: "town",
     name: { de: "Sekoma", hu: "Sekoma", ro: "Sekoma", en: "Sekoma" },
-    coordinates: { lat: -24.55, lng: 23.883 },
+    coords: [23.883, -24.55],
     description: {
       de: "Sekoma ist ein strategischer Knotenpunkt im Southern District, wo sich die Straßen nach Jwaneng, Ghanzi und Tsabong treffen.",
       hu: "Sekoma stratégiai csomópont a Déli kerületben, ahol a Jwaneng, Ghanzi és Tsabong felé vezető utak találkoznak.",
@@ -1548,12 +1632,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Major transit point.", "Located near the Sekoma Pan.", "Site of local markets.", "Key for southern logistics."],
     },
     imageHint: "Road junction at Sekoma",
+    descriptionAdvanced: {
+      de: "Sekoma ist ein Dorf im Süden Botswanas, im Distrikt Ngwaketse. Es hat etwa 1.200 Einwohner. Die Wirtschaft basiert auf Viehzucht und Subsistenzlandwirtschaft. Sekoma hat eine Grundschule und eine Klinik. Die Umgebung ist trockene Savanne. Das Dorf liegt an der Straße zwischen Kanye und Jwaneng. Traditionelle Feste sind wichtig. Das Trinkwasser wird aus Tiefbrunnen gewonnen. In der Nähe gibt es einige Diamantenminen, die Arbeitsplätze bieten. Die Jugend wandert oft in die Städte ab.",
+      hu: "Sekoma egy falu Dél-Botswanában, a Ngwaketse körzetben. Lakossága kb. 1.200 fő. Gazdasága állattenyésztésen és önellátó mezőgazdaságon alapul. Van általános iskola és klinika. A környék száraz szavanna. A falu a Kanye és Jwaneng közötti úton fekszik. A hagyományos ünnepek fontosak. Az ivóvizet mély kutakból nyerik. A közelben gyémántbányák vannak, amelyek munkát adnak. A fiatalok gyakran városokba költöznek.",
+      ro: "Sekoma este un sat în sudul Botswanei, districtul Ngwaketse. Are aproximativ 1.200 de locuitori. Economia se bazează pe creșterea vitelor și agricultura de subzistență. Sekoma are o școală primară și o clinică. Zona este savană uscată. Satul se află pe drumul dintre Kanye și Jwaneng. Sărbătorile tradiționale sunt importante. Apa potabilă provine din fântâni adânci. În apropiere există mine de diamante, care oferă locuri de muncă. Tinerii migrează adesea în orașe.",
+      en: "Sekoma is a village in southern Botswana, Ngwaketse District. It has about 1,200 residents. Economy is based on cattle rearing and subsistence farming. Sekoma has a primary school and a clinic. The area is dry savanna. The village lies on the road between Kanye and Jwaneng. Traditional celebrations are important. Drinking water is from deep wells. Nearby diamond mines provide employment. Youth often migrate to cities.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1.200", "Höhe: 1.100 Meter", "Entfernung nach Kanye: 50 km", "Jahresniederschlag: 400 mm", "Anzahl der Schulen: 1", "Anzahl der Brunnen: 5"],
+      hu: ["Lakosság: kb. 1.200", "Tengerszint feletti magasság: 1100 m", "Távolság Kanyé-tól: 50 km", "Éves csapadék: 400 mm", "Iskolák: 1", "Mély kutak: 5"],
+      ro: ["Populație: aprox. 1.200", "Altitudine: 1.100 m", "Distanța până la Kanye: 50 km", "Precipitații anuale: 400 mm", "Școli: 1", "Fântâni: 5"],
+      en: ["Population: approx. 1,200", "Elevation: 1,100 m", "Distance to Kanye: 50 km", "Annual rainfall: 400 mm", "Schools: 1", "Wells: 5"],
+    },
   },
   {
     id: "botswana-khakhea-cities-v2",
     type: "town",
     name: { de: "Khakhea", hu: "Khakhea", ro: "Khakhea", en: "Khakhea" },
-    coordinates: { lat: -24.683, lng: 23.483 },
+    coords: [23.483, -24.683],
     description: {
       de: "Khakhea ist ein Dorf im Southern District, das für seine Salzpfannen und die traditionelle Lebensweise bekannt ist.",
       hu: "Khakhea egy falu a Déli kerületben, amely sósíkságairól és hagyományos életmódjáról ismert.",
@@ -1567,12 +1663,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Located in the Kalahari Desert.", "Cattle farming center.", "Has a primary school.", "Significant for San culture."],
     },
     imageHint: "Salt pan near Khakhea",
+    descriptionAdvanced: {
+      de: "Khakhea ist ein Dorf im Südosten Botswanas, im Distrikt Southern. Die Einwohnerzahl beträgt etwa 1.800. Die Wirtschaft wird von der Landwirtschaft dominiert: Mais, Sorghum und Viehzucht. Khakhea hat eine Grundschule, eine Klinik und einen Markt. Die Gegend ist leicht hügelig mit Akazienbäumen. Das Dorf hat einen traditionellen Häuptlingsrat. In der Nähe fließt der Limpopo-Fluss. Khakhea ist ein lokales Handelszentrum für umliegende Weiler. Die Infrastruktur umfasst eine befestigte Straße. Die Jugendbildung wird durch eine Sekundarschule in der Nähe unterstützt.",
+      hu: "Khakhea egy falu Délkelet-Botswanában, a Southern körzetben. Lakossága kb. 1.800 fő. Gazdasága mezőgazdaságon alapul: kukorica, cirok és állattenyésztés. Van általános iskola, klinika és piac. A környék enyhén dombos, akácfákkal. A falunak hagyományos törzsi tanácsa van. A közelben folyik a Limpopo. Khakhea helyi kereskedelmi központ. Az infrastruktúra magában foglal egy szilárd burkolatú utat. A közeli középiskola segíti a fiatalok oktatását.",
+      ro: "Khakhea este un sat în sud-estul Botswanei, districtul Southern. Populația este de aproximativ 1.800 de locuitori. Economia este dominată de agricultură: porumb, sorg și creșterea vitelor. Khakhea are o școală primară, o clinică și o piață. Zona este ușor deluroasă, cu salcâmi. Satul are un consiliu tribal tradițional. Aproape curge râul Limpopo. Khakhea este un centru comercial local. Infrastructura include un drum asfaltat. Educația tinerilor este sprijinită de o școală secundară din apropiere.",
+      en: "Khakhea is a village in southeastern Botswana, Southern District. Population is about 1,800. Economy is dominated by agriculture: maize, sorghum, and cattle rearing. Khakhea has a primary school, clinic, and market. The area is gently rolling with acacia trees. The village has a traditional tribal council. Nearby flows the Limpopo River. Khakhea is a local trading hub. Infrastructure includes a paved road. Youth education is supported by a nearby secondary school.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1.800", "Höhe: 900 Meter", "Entfernung nach Gaborone: 150 km", "Jahresniederschlag: 500 mm", "Anzahl der Grundschulen: 1", "Länge der befestigten Straße: 5 km"],
+      hu: ["Lakosság: kb. 1.800", "Tengerszint feletti magasság: 900 m", "Távolság Gaborone-tól: 150 km", "Éves csapadék: 500 mm", "Általános iskolák: 1", "Szilárd burkolatú út hossza: 5 km"],
+      ro: ["Populație: aprox. 1.800", "Altitudine: 900 m", "Distanța până la Gaborone: 150 km", "Precipitații anuale: 500 mm", "Școli primare: 1", "Lungime drum asfaltat: 5 km"],
+      en: ["Population: approx. 1,800", "Elevation: 900 m", "Distance to Gaborone: 150 km", "Annual rainfall: 500 mm", "Primary schools: 1", "Paved road length: 5 km"],
+    },
   },
   {
     id: "botswana-kopong-cities-v2",
     type: "town",
     name: { de: "Kopong", hu: "Kopong", ro: "Kopong", en: "Kopong" },
-    coordinates: { lat: -24.483, lng: 25.883 },
+    coords: [25.883, -24.483],
     description: {
       de: "Kopong ist ein wachsendes Dorf im Kweneng District, nördlich der Hauptstadt Gaborone gelegen.",
       hu: "Kopong egy növekvő falu a Kweneng kerületben, a fővárostól, Gaboronétól északra.",
@@ -1603,7 +1711,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-metsimotlhabe-cities-v2",
     type: "town",
     name: { de: "Metsimotlhabe", hu: "Metsimotlhabe", ro: "Metsimotlhabe", en: "Metsimotlhabe" },
-    coordinates: { lat: -24.633, lng: 25.816 },
+    coords: [25.816, -24.633],
     description: {
       de: "Metsimotlhabe ist ein dicht besiedeltes Dorf westlich von Gaborone, das eng in die Metropolregion der Hauptstadt integriert ist.",
       hu: "Metsimotlhabe egy sűrűn lakott falu Gaboronétól nyugatra, amely szorosan integrálódott a fővárosi régióba.",
@@ -1622,7 +1730,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-nkange-cities-v2",
     type: "town",
     name: { de: "Nkange", hu: "Nkange", ro: "Nkange", en: "Nkange" },
-    coordinates: { lat: -20.4, lng: 27.2 },
+    coords: [27.2, -20.4],
     description: {
       de: "Nkange ist ein Dorf im Central District, bekannt für seine kulturelle Verbindung zum Kalanga-Volk.",
       hu: "Nkange egy falu a Központi kerületben, a kalanga néphez fűződő kulturális kapcsolatairól ismert.",
@@ -1636,12 +1744,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Located along the Nkange River.", "Population around 6,000.", "Center for sorghum production.", "Known for traditional music."],
     },
     imageHint: "Nkange river area",
+    descriptionAdvanced: {
+      de: "Nkange ist ein Dorf im Nordosten Botswanas, im Distrikt Central. Es hat etwa 3.500 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, vor allem Hirse und Viehzucht. Nkange hat eine Grundschule, eine Sekundarschule und eine Klinik. Die Umgebung ist flach mit vereinzelten Bäumen. Das Dorf liegt in der Nähe des Nata-Buschelphant-Nationalparks. Die traditionelle Kultur der Bakalanga ist stark ausgeprägt. Es gibt eine Kirche und einen Gemeinschaftsplatz. Die Wasserversorgung erfolgt über Leitungen. Nkange ist ein ruhiges, ländliches Dorf.",
+      hu: "Nkange egy falu Északkelet-Botswanában, a Központi körzetben. Lakossága kb. 3.500 fő. Gazdasága mezőgazdaságon alapul: köles és állattenyésztés. Van általános iskola, középiskola és klinika. A környék lapos, szórt fákkal. A falu a Nata-Madár-Elefánt Nemzeti Park közelében van. A bakalanga hagyományok erősek. Van templom és közösségi tér. A vizet vezetékekből kapják. Nkange csendes vidéki falu.",
+      ro: "Nkange este un sat în nord-estul Botswanei, districtul Central. Are aproximativ 3.500 de locuitori. Economia se bazează pe agricultură: mei și creșterea vitelor. Nkange are o școală primară, o școală secundară și o clinică. Zona este plată cu copaci împrăștiați. Satul este aproape de Parcul Național Nata Păsări Elefanți. Cultura tradițională Bakalanga este puternică. Există o biserică și un loc de întrunire. Apa este furnizată prin conducte. Nkange este un sat rural liniștit.",
+      en: "Nkange is a village in northeastern Botswana, Central District. It has about 3,500 residents. Economy is based on agriculture: millet and cattle rearing. Nkange has a primary school, a secondary school, and a clinic. The area is flat with scattered trees. The village is near Nata Bird and Elephant National Park. Traditional Bakalanga culture is strong. There is a church and a community gathering place. Water is supplied by pipes. Nkange is a quiet rural village.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 3.500", "Höhe: 900 Meter", "Entfernung nach Nata: 30 km", "Jahresniederschlag: 450 mm", "Anzahl der Schulen: 2", "Entfernung zum Nationalpark: 10 km"],
+      hu: ["Lakosság: kb. 3.500", "Tengerszint feletti magasság: 900 m", "Távolság Natától: 30 km", "Éves csapadék: 450 mm", "Iskolák: 2 (általános és középiskola)", "Távolság a nemzeti parktól: 10 km"],
+      ro: ["Populație: aprox. 3.500", "Altitudine: 900 m", "Distanța până la Nata: 30 km", "Precipitații anuale: 450 mm", "Număr de școli: 2", "Distanța până la parc: 10 km"],
+      en: ["Population: approx. 3,500", "Elevation: 900 m", "Distance to Nata: 30 km", "Annual rainfall: 450 mm", "Schools: 2 (primary and secondary)", "Distance to national park: 10 km"],
+    },
   },
   {
     id: "botswana-bokaa-cities-v2",
     type: "town",
     name: { de: "Bokaa", hu: "Bokaa", ro: "Bokaa", en: "Bokaa" },
-    coordinates: { lat: -24.433, lng: 26.016 },
+    coords: [26.016, -24.433],
     description: {
       de: "Bokaa ist ein Dorf im Kgatleng District, berühmt für den Bokaa-Damm, der eine wichtige Wasserquelle darstellt.",
       hu: "Bokaa egy falu a Kgatleng kerületben, a Bokaa-gátról híres, amely fontos vízforrás.",
@@ -1655,12 +1775,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Site of the Bokaa Dam.", "Popular spot for bird watching.", "Population around 5,000.", "Hub for arable farming."],
     },
     imageHint: "Bokaa Dam water surface",
+    descriptionAdvanced: {
+      de: "Bokaa ist ein Dorf im Südosten Botswanas, im Distrikt Kgatleng, nahe Gaborone. Es hat etwa 5.000 Einwohner. Die Wirtschaft besteht aus Landwirtschaft, Kleingewerbe und Pendlerarbeit. Bokaa hat mehrere Schulen, eine Klinik und einen Markt. Das Dorf liegt in der Nähe des Notwane-Flusses. Die Kultur der Bakgatla ist wichtig. Bokaa hat einen traditionellen Kgotla (Versammlungsplatz). Die Infrastruktur umfasst asphaltierte Straßen und Stromversorgung. Die Gemeinde wächst aufgrund der Nähe zu Gaborone. Es gibt einige kleine Industriebetriebe.",
+      hu: "Bokaa egy falu Délkelet-Botswanában, a Kgatleng körzetben, Gaborone közelében. Lakossága kb. 5.000 fő. Gazdasága mezőgazdaságon, kisiparon és ingázáson alapul. Több iskola, klinika és piac található. A falu a Notwane folyó közelében van. A bakgatla kultúra fontos. Van hagyományos Kgotla (gyűlőhely). Az infrastruktúra magában foglal szilárd utakat és villanyt. A közösség növekszik Gaborone közelsége miatt. Néhány kis ipari vállalkozás is van.",
+      ro: "Bokaa este un sat în sud-estul Botswanei, districtul Kgatleng, aproape de Gaborone. Are aproximativ 5.000 de locuitori. Economia constă în agricultură, mici afaceri și navetism. Bokaa are mai multe școli, o clinică și o piață. Satul este situat lângă râul Notwane. Cultura Bakgatla este importantă. Există un Kgotla tradițional (loc de întrunire). Infrastructura include drumuri asfaltate și electricitate. Comunitatea crește datorită apropierii de Gaborone. Există câteva întreprinderi mici.",
+      en: "Bokaa is a village in southeastern Botswana, Kgatleng District, near Gaborone. It has about 5,000 residents. Economy consists of farming, small businesses, and commuting. Bokaa has several schools, a clinic, and a market. The village lies near the Notwane River. Bakgatla culture is prominent. There is a traditional Kgotla (meeting place). Infrastructure includes paved roads and electricity. The community is growing due to proximity to Gaborone. There are a few small industrial enterprises.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 5.000", "Höhe: 1.000 Meter", "Entfernung nach Gaborone: 20 km", "Jahresniederschlag: 500 mm", "Anzahl der Schulen: 3", "Anzahl der Betriebe: 5"],
+      hu: ["Lakosság: kb. 5.000", "Tengerszint feletti magasság: 1000 m", "Távolság Gaborone-tól: 20 km", "Éves csapadék: 500 mm", "Iskolák száma: 3", "Kisipari vállalkozások: 5"],
+      ro: ["Populație: aprox. 5.000", "Altitudine: 1.000 m", "Distanța până la Gaborone: 20 km", "Precipitații anuale: 500 mm", "Număr de școli: 3", "Număr de întreprinderi: 5"],
+      en: ["Population: approx. 5,000", "Elevation: 1,000 m", "Distance to Gaborone: 20 km", "Annual rainfall: 500 mm", "Number of schools: 3", "Number of small businesses: 5"],
+    },
   },
   {
     id: "botswana-kumakwane-cities-v2",
     type: "town",
     name: { de: "Kumakwane", hu: "Kumakwane", ro: "Kumakwane", en: "Kumakwane" },
-    coordinates: { lat: -24.65, lng: 25.7 },
+    coords: [25.7, -24.65],
     description: {
       de: "Kumakwane ist ein Dorf im Kweneng District, gelegen am Metsemotlhabe-Fluss, westlich von Gaborone.",
       hu: "Kumakwane egy falu a Kweneng kerületben, a Metsemotlhabe-folyó partján, Gaboronétól nyugatra.",
@@ -1674,12 +1806,24 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
       en: ["Part of the Gaborone metropolitan area.", "Population around 5,000.", "Key agricultural locality.", "Well-connected by road."],
     },
     imageHint: "Kumakwane village scenery",
+    descriptionAdvanced: {
+      de: "Kumakwane ist ein Dorf im Südosten Botswanas, im Distrikt Kweneng, etwa 30 km westlich von Gaborone. Es hat etwa 4.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht, zunehmend auch auf Pendlerarbeit. Kumakwane hat eine Grundschule, eine Sekundarschule und eine Klinik. Das Dorf liegt in einer trockenen Savannenregion. Die traditionelle Kultur der Bakwena ist stark. Es gibt einen traditionellen Kgotla. Die Wasserversorgung erfolgt über einen Staudamm und Leitungen. Kumakwane erlebt ein langsames Wachstum, da es im Einzugsgebiet der Hauptstadt liegt.",
+      hu: "Kumakwane egy falu Délkelet-Botswanában, a Kweneng körzetben, kb. 30 km-re nyugatra Gaborone-tól. Lakossága kb. 4.000 fő. Gazdasága mezőgazdaságon és állattenyésztésen alapul, egyre inkább ingázásból. Van általános iskola, középiskola és klinika. A falu száraz szavannán fekszik. A bakwena kultúra erős. Van hagyományos Kgotla. A vizet egy gátból és vezetékekből nyerik. Kumakwane lassan növekszik, mivel a főváros vonzáskörzetében van.",
+      ro: "Kumakwane este un sat în sud-estul Botswanei, districtul Kweneng, la aproximativ 30 km vest de Gaborone. Are aproximativ 4.000 de locuitori. Economia se bazează pe agricultură și creșterea vitelor, tot mai mult pe navetism. Kumakwane are o școală primară, o școală secundară și o clinică. Satul este situat într-o regiune de savană uscată. Cultura Bakwena este puternică. Există un Kgotla tradițional. Apa este furnizată printr-un baraj și conducte. Kumakwane crește lent, datorită apropierii de capitală.",
+      en: "Kumakwane is a village in southeastern Botswana, Kweneng District, about 30 km west of Gaborone. It has about 4,000 residents. Economy is based on agriculture and cattle rearing, increasingly on commuting. Kumakwane has a primary school, a secondary school, and a clinic. The village lies in a dry savanna region. Bakwena culture is strong. There is a traditional Kgotla. Water is supplied via a dam and pipes. Kumakwane is slowly growing due to proximity to the capital.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 4.000", "Höhe: 1.050 Meter", "Entfernung nach Gaborone: 30 km", "Jahresniederschlag: 450 mm", "Anzahl der Schulen: 2", "Fassungsvermögen des Staudamms: 1 Mio. m³"],
+      hu: ["Lakosság: kb. 4.000", "Tengerszint feletti magasság: 1050 m", "Távolság Gaborone-tól: 30 km", "Éves csapadék: 450 mm", "Iskolák: 2", "Gát kapacitása: 1 millió m³"],
+      ro: ["Populație: aprox. 4.000", "Altitudine: 1.050 m", "Distanța până la Gaborone: 30 km", "Precipitații anuale: 450 mm", "Școli: 2", "Capacitatea barajului: 1 milion m³"],
+      en: ["Population: approx. 4,000", "Elevation: 1,050 m", "Distance to Gaborone: 30 km", "Annual rainfall: 450 mm", "Schools: 2", "Dam capacity: 1 million m³"],
+    },
   },
   {
     id: "botswana-mmankgodi-cities-v2",
     type: "town",
     name: { de: "Mmankgodi", hu: "Mmankgodi", ro: "Mmankgodi", en: "Mmankgodi" },
-    coordinates: { lat: -24.716, lng: 25.616 },
+    coords: [25.616, -24.716],
     description: {
       de: "Mmankgodi ist ein Dorf im Kweneng District, bekannt für seine hügelige Umgebung und den Kolobeng-Fluss.",
       hu: "Mmankgodi egy falu a Kweneng kerületben, dombos környezetéről és a Kolobeng-folyóról ismert.",
@@ -1710,7 +1854,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-mmathethe-cities-v2",
     type: "town",
     name: { de: "Mmathethe", hu: "Mmathethe", ro: "Mmathethe", en: "Mmathethe" },
-    coordinates: { lat: -25.216, lng: 25.266 },
+    coords: [25.266, -25.216],
     description: {
       de: "Mmathethe ist ein großes Dorf im Southern District, ein wichtiges Zentrum für die lokale Landwirtschaft.",
       hu: "Mmathethe egy nagy falu a Déli kerületben, a helyi mezőgazdaság fontos központja.",
@@ -1741,7 +1885,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-molapowabojang-cities-v2",
     type: "town",
     name: { de: "Molapowabojang", hu: "Molapowabojang", ro: "Molapowabojang", en: "Molapowabojang" },
-    coordinates: { lat: -25.133, lng: 25.5 },
+    coords: [25.5, -25.133],
     description: {
       de: "Molapowabojang ist ein strategisch gelegenes Dorf im Southern District, zwischen Kanye und Lobatse.",
       hu: "Molapowabojang egy stratégiai helyen fekvő falu a Déli kerületben, Kanye és Lobatse között.",
@@ -1772,7 +1916,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-mathathane-cities-v2",
     type: "town",
     name: { de: "Mathathane", hu: "Mathathane", ro: "Mathathane", en: "Mathathane" },
-    coordinates: { lat: -22.266, lng: 28.75 },
+    coords: [28.75, -22.266],
     description: {
       de: "Mathathane ist ein abgelegenes Dorf im Bobirwa-Subdistrikt, bekannt für seine Nähe zum Tuli Game Reserve.",
       hu: "Mathathane egy távoli falu a Bobirwa alkerületben, a Tuli vadrezervátum közelségéről ismert.",
@@ -1803,7 +1947,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-semitwe-cities-v2",
     type: "town",
     name: { de: "Semitwe", hu: "Semitwe", ro: "Semitwe", en: "Semitwe" },
-    coordinates: { lat: -20.65, lng: 27.083 },
+    coords: [27.083, -20.65],
     description: {
       de: "Semitwe ist ein Dorf im Central District, das für seine landwirtschaftliche Gemeinschaft und die ruhige Umgebung bekannt ist.",
       hu: "Semitwe egy falu a Központi kerületben, mezőgazdasági közösségéről és nyugodt környezetéről ismert.",
@@ -1834,7 +1978,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-marobela-cities-v2",
     type: "town",
     name: { de: "Marobela", hu: "Marobela", ro: "Marobela", en: "Marobela" },
-    coordinates: { lat: -20.6, lng: 27.233 },
+    coords: [27.233, -20.6],
     description: {
       de: "Marobela ist ein Dorf im Nordosten von Botswana, das primär von der Landwirtschaft und dem Handel geprägt ist.",
       hu: "Marobela egy falu Botswana északkeleti részén, amelyet elsősorban a mezőgazdaság és a kereskedelem határoz meg.",
@@ -1865,7 +2009,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-borolong-cities-v2",
     type: "town",
     name: { de: "Borolong", hu: "Borolong", ro: "Borolong", en: "Borolong" },
-    coordinates: { lat: -21.283, lng: 27.35 },
+    coords: [27.35, -21.283],
     description: {
       de: "Borolong ist ein Dorf nahe Francistown, das als wichtiges Wohngebiet und landwirtschaftliches Zentrum dient.",
       hu: "Borolong egy falu Francistown közelében, amely fontos lakóövezetként és mezőgazdasági központként szolgál.",
@@ -1896,7 +2040,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-chadibe-cities-v2",
     type: "town",
     name: { de: "Chadibe", hu: "Chadibe", ro: "Chadibe", en: "Chadibe" },
-    coordinates: { lat: -21.133, lng: 27.283 },
+    coords: [27.283, -21.133],
     description: {
       de: "Chadibe ist ein Dorf im Central District, bekannt für seine fruchtbaren Böden und die Nähe zu Francistown.",
       hu: "Chadibe egy falu a Központi kerületben, termékeny földjéről és Francistown közelségéről ismert.",
@@ -1927,7 +2071,7 @@ export const poiExtraBotswanaCitiesV2: POI[] = [
     id: "botswana-shashe-mooke-cities-v2",
     type: "town",
     name: { de: "Shashe Mooke", hu: "Shashe Mooke", ro: "Shashe Mooke", en: "Shashe Mooke" },
-    coordinates: { lat: -21.366, lng: 27.35 },
+    coords: [27.35, -21.366],
     description: {
       de: "Shashe Mooke ist ein Dorf im Central District, das am Ufer des Shashe-Flusses liegt und für seine Landwirtschaft bekannt ist.",
       hu: "Shashe Mooke egy falu a Központi kerületben, a Shashe-folyó partján fekszik, és mezőgazdaságáról ismert.",

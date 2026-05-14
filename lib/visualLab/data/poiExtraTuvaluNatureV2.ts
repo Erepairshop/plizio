@@ -5,7 +5,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-te-namo-lagoon-nature-v2",
     type: "lake",
     name: { de: "Te Namo Lagune", hu: "Te Namo lagúna", ro: "Laguna Te Namo", en: "Te Namo Lagoon" },
-    coordinates: { lat: -8.5, lng: 179.2 },
+    coords: [179.2, -8.5],
     description: {
       de: "Te Namo ist das größte Binnengewässer des Funafuti-Atolls. Die Lagune ist für ihr kristallklares Wasser bekannt.",
       hu: "A Te Namo a Funafuti-atoll legnagyobb belső vize. A lagúna kristálytiszta vizéről és gazdag élővilágáról ismert.",
@@ -24,7 +24,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-nanumea-lagoon-nature-v2",
     type: "lake",
     name: { de: "Nanumea Lagune", hu: "Nanumea lagúna", ro: "Laguna Nanumea", en: "Nanumea Lagoon" },
-    coordinates: { lat: -5.67, lng: 176.12 },
+    coords: [176.12, -5.67],
     description: {
       de: "Diese nördliche Lagune zeichnet sich durch flache Korallenbänke aus. Sie ist von dichten Kokospalmenhainen umgeben.",
       hu: "Ezt az északi lagúnát sekély korallpadok jellemzik. Sűrű kókuszpálma-ligetek veszik körül a partjait.",
@@ -43,7 +43,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-nui-atoll-reefs-nature-v2",
     type: "wildlife",
     name: { de: "Nui-Atoll-Riffe", hu: "Nui-atoll zátonyai", ro: "Recifele Atolului Nui", en: "Nui Atoll Reefs" },
-    coordinates: { lat: -7.22, lng: 177.15 },
+    coords: [177.15, -7.22],
     description: {
       de: "Die Riffe von Nui beherbergen eine große Vielfalt an Hartkorallen. Sie bilden ein komplexes Unterwasser-Ökosystem.",
       hu: "Nui zátonyai a keménykorallok nagy választékának adnak otthont. Összetett víz alatti ökoszisztémát alkotnak.",
@@ -62,7 +62,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-nukufetau-lagoon-nature-v2",
     type: "lake",
     name: { de: "Nukufetau Lagune", hu: "Nukufetau lagúna", ro: "Laguna Nukufetau", en: "Nukufetau Lagoon" },
-    coordinates: { lat: -8.0, lng: 178.5 },
+    coords: [178.5, -8.0],
     description: {
       de: "Nukufetau besitzt eine quadratische Lagune mit tiefem Wasser. Sie bietet einen sicheren Hafen für große Meerestiere.",
       hu: "Nukufetau egy négyzet alakú, mély vizű lagúnával rendelkezik. Biztonságos menedéket nyújt a nagyobb tengeri állatoknak.",
@@ -81,7 +81,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-vaitupu-mangroves-nature-v2",
     type: "forest",
     name: { de: "Vaitupu-Mangroven", hu: "Vaitupu mangrovék", ro: "Mangrovele din Vaitupu", en: "Vaitupu Mangroves" },
-    coordinates: { lat: -7.48, lng: 178.68 },
+    coords: [178.68, -7.48],
     description: {
       de: "Vaitupu beherbergt seltene Mangrovensümpfe im Inneren der Insel. Diese Wälder schützen die Küste vor Erosion.",
       hu: "Vaitupu ritka mocsári mangrovéknak ad otthont a sziget belsejében. Ezek az erdők védik a partot az eróziótól.",
@@ -100,7 +100,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-niutao-salt-lake-nature-v2",
     type: "lake",
     name: { de: "Niutao-Salzsee", hu: "Niutao-sóstó", ro: "Lacul Sărat Niutao", en: "Niutao Salt Lake" },
-    coordinates: { lat: -6.11, lng: 177.34 },
+    coords: [177.34, -6.11],
     description: {
       de: "Der Salzsee im Zentrum von Niutao ist ein geschlossenes Gewässer. Er ist von tropischer Vegetation umgeben.",
       hu: "A Niutao közepén található sóstó egy zárt vízfelület. Trópusi növényzet veszi körül a sziget belsejében.",
@@ -119,7 +119,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-nukulaelae-islets-nature-v2",
     type: "landmark",
     name: { de: "Nukulaelae-Inselkette", hu: "Nukulaelae szigetcsoport", ro: "Insulele Nukulaelae", en: "Nukulaelae Islets" },
-    coordinates: { lat: -9.38, lng: 179.85 },
+    coords: [179.85, -9.38],
     description: {
       de: "Nukulaelae besteht aus zahlreichen unbewohnten Motus. Diese Inseln bieten unberührte Sandstrände und Korallengärten.",
       hu: "Nukulaelae számos lakatlan szigetből (motu) áll. Ezek a szigetek érintetlen homokos partokat kínálnak.",
@@ -138,7 +138,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-niulakita-coastline-nature-v2",
     type: "landmark",
     name: { de: "Küste von Niulakita", hu: "Niulakita tengerpartja", ro: "Coasta Niulakita", en: "Niulakita Coastline" },
-    coordinates: { lat: -10.78, lng: 179.47 },
+    coords: [179.47, -10.78],
     description: {
       de: "Die Küste von Niulakita ist die südlichste Landmasse Tuvalus. Sie besteht aus Korallenkalkstein und feinem Sand.",
       hu: "Niulakita partvidéke Tuvalu legdélebbi szárazföldje. Korallmészkőből és finom homokból épül fel.",
@@ -157,7 +157,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-tepuka-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Tepuka", hu: "Tepuka-sziget", ro: "Insula Tepuka", en: "Tepuka Islet" },
-    coordinates: { lat: -8.46, lng: 179.13 },
+    coords: [179.13, -8.46],
     description: {
       de: "Tepuka ist ein abgelegenes Motu im Nordwesten von Funafuti. Die Insel ist ein wichtiger Brutplatz für Seeschwalben.",
       hu: "Tepuka egy távoli motu Funafuti északnyugati részén. A sziget a csérek fontos fészkelőhelye.",
@@ -176,7 +176,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-funafala-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Funafala", hu: "Funafala-sziget", ro: "Insula Funafala", en: "Funafala Islet" },
-    coordinates: { lat: -8.62, lng: 179.15 },
+    coords: [179.15, -8.62],
     description: {
       de: "Funafala ist eine ruhige Insel im Süden von Funafuti. Sie bewahrt traditionelle Landschaften mit Mangroven und Palmen.",
       hu: "Funafala egy nyugodt sziget Funafuti déli részén. Megőrzi a hagyományos mangrovés és pálmás tájakat.",
@@ -195,7 +195,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-amatuku-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Amatuku", hu: "Amatuku-sziget", ro: "Insula Amatuku", en: "Amatuku Islet" },
-    coordinates: { lat: -8.44, lng: 179.18 },
+    coords: [179.18, -8.44],
     description: {
       de: "Amatuku ist eine schmale Insel nördlich von Fongafale. Sie beherbergt eine maritime Bildungsstätte und dichte Küstenflora.",
       hu: "Amatuku egy keskeny sziget Fongafalétól északra. Tengerészeti képzőhelynek és sűrű parti flórának ad otthont.",
@@ -214,7 +214,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-fatato-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Fatato", hu: "Fatato-sziget", ro: "Insula Fatato", en: "Fatato Islet" },
-    coordinates: { lat: -8.53, lng: 179.19 },
+    coords: [179.19, -8.53],
     description: {
       de: "Fatato ist eine unbewohnte Insel, die oft für wissenschaftliche Studien genutzt wird. Sie zeigt die Erosion der Korallenküste.",
       hu: "Fatato egy lakatlan sziget, amelyet gyakran használnak tudományos kutatásokra. A korallpartok erózióját szemlélteti.",
@@ -233,7 +233,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-fongafale-reef-edge-nature-v2",
     type: "landmark",
     name: { de: "Fongafale Riffkante", hu: "Fongafale zátonyperem", ro: "Marginea Recifului Fongafale", en: "Fongafale Reef Edge" },
-    coordinates: { lat: -8.52, lng: 179.19 },
+    coords: [179.19, -8.52],
     description: {
       de: "Die Riffkante vor Fongafale ist die wichtigste natürliche Barriere gegen den Ozean. Sie schützt das Atollzentrum.",
       hu: "A Fongafale előtti zátonyperem a legfontosabb természetes gát az óceánnal szemben. Védi az atoll központját.",
@@ -252,7 +252,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-motulalo-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Motulalo", hu: "Motulalo-sziget", ro: "Insula Motulalo", en: "Motulalo Islet" },
-    coordinates: { lat: -8.04, lng: 178.53 },
+    coords: [178.53, -8.04],
     description: {
       de: "Motulalo ist die größte Insel des Nukufetau-Atolls. Sie verfügt über ausgedehnte Kokosnussplantagen und Korallenstrände.",
       hu: "Motulalo a Nukufetau-atoll legnagyobb szigete. Kiterjedt kókuszdió-ültetvényekkel és korallos partokkal rendelkezik.",
@@ -271,7 +271,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-savave-islet-nature-v2",
     type: "landmark",
     name: { de: "Insel Savave", hu: "Savave-sziget", ro: "Insula Savave", en: "Savave Islet" },
-    coordinates: { lat: -8.03, lng: 178.48 },
+    coords: [178.48, -8.03],
     description: {
       de: "Savave ist eine kleine Insel im Nukufetau-Atoll mit einer malerischen Küstenlinie. Sie wird von Korallenriffen gesäumt.",
       hu: "Savave egy apró sziget a Nukufetau-atollban, festői partvonallal. Korallzátonyok szegélyezik a partjait.",
@@ -290,7 +290,7 @@ export const tuvaluNatureV2: POI[] = [
     id: "tuvalu-te-akau-reef-nature-v2",
     type: "wildlife",
     name: { de: "Te Akau Riff", hu: "Te Akau zátony", ro: "Reciful Te Akau", en: "Te Akau Reef" },
-    coordinates: { lat: -8.6, lng: 179.1 },
+    coords: [179.1, -8.6],
     description: {
       de: "Te Akau ist ein versunkenes Riff im Süden des Funafuti-Atolls. Es ist bekannt für seine hohe Dichte an Meeresorganismen.",
       hu: "Te Akau egy víz alatti zátony Funafuti déli részén. Ismert a tengeri élőlények nagy sűrűségéről.",

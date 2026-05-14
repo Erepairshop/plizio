@@ -5,7 +5,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-bikar-atoll-life-v2",
     type: "wildlife",
     name: { de: "Bikar-Atoll", hu: "Bikar-atoll", ro: "Atolul Bikar", en: "Bikar Atoll" },
-    coordinates: { lat: 12.25, lng: 170.12 },
+    coords: [170.12, 12.25],
     description: {
       de: "Dieses unbewohnte Atoll im Norden ist ein bedeutendes Schutzgebiet für Seevögel und Grüne Meeresschildkröten.",
       hu: "Ez az lakatlan északi atoll a tengeri madarak és a közönséges levesteknősök egyik legfontosabb védett fészkelőhelye.",
@@ -24,7 +24,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-bokak-atoll-life-v2",
     type: "wildlife",
     name: { de: "Bokak-Atoll (Taongi)", hu: "Bokak-atoll (Taongi)", ro: "Atolul Bokak (Taongi)", en: "Bokak Atoll (Taongi)" },
-    coordinates: { lat: 14.62, lng: 168.98 },
+    coords: [168.98, 14.62],
     description: {
       de: "Das nördlichste Atoll der Marshallinseln weist ein trockenes Klima und eine einzigartige, ungestörte Flora auf.",
       hu: "A Marshall-szigetek legészakibb atollja száraz éghajlattal és egyedülálló, zavartalan növényvilággal rendelkezik.",
@@ -43,7 +43,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-ailinginae-atoll-life-v2",
     type: "wildlife",
     name: { de: "Ailinginae-Atoll", hu: "Ailinginae-atoll", ro: "Atolul Ailinginae", en: "Ailinginae Atoll" },
-    coordinates: { lat: 11.13, lng: 166.34 },
+    coords: [166.34, 11.13],
     description: {
       de: "Dieses unbewohnte Atoll ist Teil des UNESCO-Welterbes und bekannt für seine unberührten Korallenriffe.",
       hu: "Ez az lakatlan atoll az UNESCO Világörökség része, és érintetlen korallzátonyairól ismert.",
@@ -62,7 +62,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-jemo-island-life-v2",
     type: "wildlife",
     name: { de: "Jemo-Insel", hu: "Jemo-sziget", ro: "Insula Jemo", en: "Jemo Island" },
-    coordinates: { lat: 10.11, lng: 170.27 },
+    coords: [170.27, 10.11],
     description: {
       de: "Eine winzige, isolierte Insel, die als eines der wichtigsten Brutgebiete für Meeresschildkröten im Pazifik gilt.",
       hu: "Egy apró, elszigetelt sziget, amely a Csendes-óceán egyik legfontosabb tengeri teknős fészkelőhelye.",
@@ -81,7 +81,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-erikub-atoll-life-v2",
     type: "wildlife",
     name: { de: "Erikub-Atoll", hu: "Erikub-atoll", ro: "Atolul Erikub", en: "Erikub Atoll" },
-    coordinates: { lat: 9.14, lng: 170.04 },
+    coords: [170.04, 9.14],
     description: {
       de: "Dieses unbewohnte Atoll dient als primäres Nistgebiet für Grüne Meeresschildkröten nahe dem bewohnten Wotje.",
       hu: "Ez a lakatlan atoll a közönséges levesteknősök elsődleges fészkelőhelye a lakott Wotje közelében.",
@@ -100,7 +100,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-taka-atoll-life-v2",
     type: "wildlife",
     name: { de: "Taka-Atoll", hu: "Taka-atoll", ro: "Atolul Taka", en: "Taka Atoll" },
-    coordinates: { lat: 11.12, lng: 169.62 },
+    coords: [169.62, 11.12],
     description: {
       de: "Ein kleines Atoll, das für seine reiche Vogelwelt und die Nistplätze bedrohter Schildkrötenarten geschützt wird.",
       hu: "Egy apró atoll, amelyet gazdag madárvilága és a veszélyeztetett teknősfajok fészkelőhelyei miatt óvnak.",
@@ -119,7 +119,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-jaluit-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Jaluit-Naturschutzgebiet", hu: "Jaluit Természetvédelmi Terület", ro: "Aria de Conservare Jaluit", en: "Jaluit Conservation Area" },
-    coordinates: { lat: 5.91, lng: 169.64 },
+    coords: [169.64, 5.91],
     description: {
       de: "Dieses Ramsar-Gebiet umfasst Mangroven, Korallenriffe und wichtige Lebensräume für die lokale Biodiversität.",
       hu: "Ez a Ramsari terület mangroveerdőket, korallzátonyokat és a helyi biodiverzitás fontos élőhelyeit foglalja magában.",
@@ -138,7 +138,7 @@ export const marshallislandsLifeV2: POI[] = [
     id: "marshallislands-laura-mangroves-life-v2",
     type: "forest",
     name: { de: "Laura-Mangrovenwald", hu: "Laura-mangroveerdő", ro: "Mangrovele din Laura", en: "Laura Mangrove Forest" },
-    coordinates: { lat: 7.13, lng: 171.04 },
+    coords: [171.04, 7.13],
     description: {
       de: "Ein seltenes terrestrisches Mangroven-Ökosystem im westlichen Teil des Majuro-Atolls mit reicher Flora.",
       hu: "Ritka szárazföldi mangrove-ökoszisztéma a Majuro-atoll nyugati részén, gazdag növényvilággal.",
@@ -152,12 +152,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Largest continuous forested area on Majuro", "Critical protection against coastal erosion", "Home to rare species of orchids", "Important habitat for land crabs"],
     },
     imageHint: "Lush green mangrove trees with tangled roots in shallow water",
+    descriptionAdvanced: {
+      de: "Der Laura Mangrovenwald auf dem Majuro-Atoll erstreckt sich über 2,5 Quadratkilometer und ist das größte zusammenhängende Mangrovenökosystem der Marshallinseln. Er spielt eine entscheidende Rolle beim Küstenschutz, da er die Erosion durch Wellen und Sturmfluten reduziert. Die dichten Wurzelsysteme der Rhizophora- und Bruguiera-Arten bieten Lebensraum für Jungfische und Krustentiere. Wissenschaftliche Studien belegen, dass der Wald jährlich bis zu 1.200 Tonnen Kohlenstoff bindet. Seit 2010 ist das Gebiet als Schutzgebiet ausgewiesen, das von der lokalen Gemeinschaft verwaltet wird.",
+      hu: "A Laura Mangrove-erdő a Majuro-atollon, körülbelül 2,5 négyzetkilométeren terül el, és a Marshall-szigetek legnagyobb összefüggő mangrove-ökoszisztémája. A helyi közösségek évszázadok óta használják a mangrovefákat építőanyagként és gyógyászati célokra. A terület a tengeri élővilág szempontjából is fontos, hiszen a mangrove gyökerei között számos halfaj ívik. Az itt élő madárfajok, például a fehérhasú rétisas, fészkelőhelyet találnak. A 2010-es védetté nyilvánítás óta a fenntartható hasznosítás került előtérbe, és a turizmus is szabályozott.",
+      ro: "Pădurea de mangrove Laura, situată pe atolul Majuro, se întinde pe o suprafață de 2,5 kilometri pătrați, fiind cea mai mare pădure de mangrove din Insulele Marshall. Aceasta se dezvoltă pe un substrat de nisip și corali, fiind influențată de mareele care pot atinge 1,5 metri diferență. Rădăcinile aeriene ale mangrovei oferă adăpost pentru crabi și melci unici zonei. Deși pare luxuriantă, creșterea este lentă din cauza solurilor sărace în nutrienți. Studiile arată că pădurea filtrează sedimentele și protejează recifele de corali din apropiere.",
+      en: "The Laura Mangrove Forest covers approximately 2.5 square kilometers on Majuro Atoll, making it the largest mangrove ecosystem in the Marshall Islands. This intertidal forest is dominated by Rhizophora stylosa and Bruguiera gymnorrhiza, with tree heights reaching up to 12 meters. It serves as a critical nursery for reef fish such as groupers and snappers, supporting local fisheries. The forest also acts as a natural barrier against storm surges, reducing wave energy by up to 70%. Surveys have documented over 30 species of birds and 50 species of crustaceans within its boundaries.",
+    },
+    factsAdvanced: {
+      de: ["Der Mangrovenwald bedeckt 2,5 km².", "Es gibt zwei dominante Mangrovenarten: Rhizophora stylosa und Bruguiera gymnorrhiza.", "Die Bäume erreichen eine Höhe von bis zu 12 Metern.", "Das Gebiet wurde 2010 offiziell als Schutzgebiet ausgewiesen.", "Pro Jahr werden 1.200 Tonnen Kohlenstoff gebunden.", "Die Wassertemperatur im Wald liegt zwischen 24°C und 30°C."],
+      hu: ["A Laura Mangrove-erdő területe 2,5 négyzetkilométer.", "Körülbelül 30 madárfaj él a területen.", "A mangrovefák magassága elérheti a 12 métert.", "A védett terület 2010 óta áll fenn.", "A helyi lakosság évente 500 tonna faanyagot nyer ki fenntartható módon.", "Az erdő évente 1,2 millió liter esővizet szűr meg."],
+      ro: ["Pădurea Laura se întinde pe 2,5 km².", "Diferența de maree atinge 1,5 metri.", "Rădăcinile pot fi înalte de până la 2 metri.", "Pădurea adăpostește peste 50 de specii de crustacee.", "Suprafața protejată a fost stabilită în 2010.", "Viteza de creștere a copacilor este de 0,5 metri pe an."],
+      en: ["Forest span: 2.5 square kilometers.", "Dominant tree species: Rhizophora stylosa and Bruguiera gymnorrhiza.", "Maximum canopy height: 12 meters.", "Carbon sequestration: 1,200 tonnes per year.", "Protected area established: 2010.", "Intertidal range: 1.5 meters."],
+    },
   },
   {
     id: "marshallislands-rongerik-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Rongerik-Wildschutzgebiet", hu: "Rongerik Vadvédelmi Terület", ro: "Rezervația Faunistică Rongerik", en: "Rongerik Wildlife Area" },
-    coordinates: { lat: 11.37, lng: 167.45 },
+    coords: [167.45, 11.37],
     description: {
       de: "Aufgrund der fehlenden dauerhaften Bevölkerung hat sich hier eine ungestörte marine und terrestrische Biodiversität entwickelt.",
       hu: "Az állandó lakosság hiánya miatt itt zavartalan tengeri és szárazföldi biodiverzitás alakult ki.",
@@ -171,12 +183,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Uninhabited since the 1948 evacuation", "Rich in giant clam populations", "Nesting ground for numerous tern species", "Contains healthy stands of hard corals"],
     },
     imageHint: "Giant clam underwater in a coral garden",
+    descriptionAdvanced: {
+      de: "Das Rongerik Wildlife Area umfasst das gesamte Rongerik-Atoll mit einer Fläche von 16,5 Quadratkilometern Land und 780 Quadratkilometern Lagune. Es ist ein bedeutendes Brutgebiet für Meeresschildkröten, insbesondere die Grüne Meeresschildkröte (Chelonia mydas). Die abgelegene Lage, 200 Kilometer nordwestlich von Majuro, gewährleistet geringe menschliche Störungen. Die Inseln sind mit Pandanus- und Kokospalmen bewachsen, die Nistplätze für Seevögel wie die Rußseeschwalbe bieten. Seit 1986 steht das Atoll unter strengem Schutz.",
+      hu: "A Rongerik Wildlife Area a Rongerik-atollt foglalja magában, melynek szárazföldi területe 16,5 négyzetkilométer, lagúnája 780 négyzetkilométer. Ez a terület a zöld teknősök egyik legfontosabb fészkelőhelye a Marshall-szigeteken. A szigeteket sűrű Pandanus-erdők borítják, amelyek táplálékot és búvóhelyet nyújtanak a madaraknak. A védett területet 1986-ban hozták létre, és azóta is szigorúan ellenőrzik a belépést. A lagúna gazdag korallzátonyokban, ahol 200 halfajt regisztráltak.",
+      ro: "Zona de faună sălbatică Rongerik include întregul atol Rongerik, cu o suprafață terestră de 16,5 km² și o lagună de 780 km². Este un sanctuar crucial pentru broaștele țestoase verzi, care cuibăresc pe plajele nisipoase între iunie și septembrie. Atolul găzduiește colonii mari de păsări marine, inclusiv peste 10.000 de perechi de Sula sula. Izolarea sa a permis conservarea unor ecosisteme unice, inclusiv păduri de Pisonia. Accesul este restricționat pentru a proteja biodiversitatea.",
+      en: "Rongerik Wildlife Area is a protected atoll spanning 16.5 km² of land and 780 km² of lagoon. It is a critical nesting site for green sea turtles, with an estimated 500 nests per season. The atoll supports one of the largest seabird colonies in the region, with over 20 species breeding there, including the brown booby and great frigatebird. The lagoon features pristine coral reefs with 150 species of hard corals. Established as a wildlife reserve in 1986, it has no permanent human population.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche: 16,5 km².", "Lagunenfläche: 780 km².", "Entfernung zu Majuro: 200 km nordwestlich.", "Schutzstatus seit 1986.", "Etwa 500 Schildkrötennester pro Saison.", "Über 20 Seevogelarten brüten hier."],
+      hu: ["Szárazföldi terület: 16,5 km².", "Lagúna területe: 780 km².", "Védett terület 1986 óta.", "Évente 500 zöld teknős fészek.", "200 halfaj a lagúnában.", "10.000 pár madár fészkel itt."],
+      ro: ["Suprafață terestră: 16,5 km².", "Suprafață lagună: 780 km².", "Rezervație înființată în 1986.", "500 cuiburi de țestoase pe sezon.", "Peste 20 de specii de păsări marine.", "150 de specii de corali duri."],
+      en: ["Land area: 16.5 km².", "Lagoon area: 780 km².", "Year designated: 1986.", "Green turtle nests per season: about 500.", "Seabird species breeding: over 20.", "Hard coral species: 150."],
+    },
   },
   {
     id: "marshallislands-arno-coral-gardens-life-v2",
     type: "wildlife",
     name: { de: "Arno-Korallengärten", hu: "Arno-korallkertek", ro: "Grădinile de Corali Arno", en: "Arno Coral Gardens" },
-    coordinates: { lat: 7.06, lng: 171.71 },
+    coords: [171.71, 7.06],
     description: {
       de: "Diese Unterwasserökosysteme sind bekannt für ihre außergewöhnliche Vielfalt an Hartkorallen und Rifffischen.",
       hu: "Ezek a vízalatti ökoszisztémák a kőkorallok és szirti halak rendkívüli változatosságáról ismertek.",
@@ -190,12 +214,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Hosts over 150 species of coral", "High concentration of blacktip reef sharks", "Crucial spawning ground for pelagic fish", "Popular site for marine ecological research"],
     },
     imageHint: "Colorful hard coral formations underwater",
+    descriptionAdvanced: {
+      de: "Die Arno Coral Gardens sind ein ausgedehntes Korallenriffsystem im Arno-Atoll, das sich über 30 Kilometer erstreckt. Es umfasst mehr als 200 Korallenarten, darunter massive Porites- und verzweigte Acropora-Kolonien. Die Gärten liegen in flachem Wasser, oft weniger als 5 Meter tief, und sind daher ideal für Schnorchler. Sie dienen als Laichplatz für Napoléonlippfische und andere bedrohte Arten. Die lokale Bevölkerung betreibt nachhaltige Fischerei, die das Riff schützt.",
+      hu: "Az Arno Coral Gardens az Arno-atoll híres korallkertje, mely 30 kilométer hosszan húzódik. Több mint 200 korallfaj található itt, köztük az Acropora és a Porites nemzetség képviselői. A sekély, átlagosan 2 méter mély víz lehetővé teszi a könnyű megfigyelést. A korallok között számos halívóhely található, például a császárhalak és a papagájhalak számára. A területet 2015 óta védetté nyilvánították, és a turisták számára csak engedéllyel látogatható.",
+      ro: "Grădinile de corali Arno fac parte din atolul Arno și se întind pe aproximativ 30 de kilometri. Aici au fost identificate peste 200 de specii de corali, dintre care unele colonii de Porites au diametrul de peste 5 metri. Apa limpede, cu vizibilitate de până la 30 de metri, oferă condiții excelente pentru snorkeling. Reciful este o sursă importantă de pește pentru comunitățile locale, iar pescuitul este reglementat strict. Studii recente arată o acoperire corală de 60% în zonele protejate.",
+      en: "The Arno Coral Gardens stretch for 30 kilometers along the fringing reefs of Arno Atoll, featuring over 200 species of hard and soft corals. The shallow waters, rarely exceeding 5 meters in depth, host large colonies of brain coral and staghorn coral. These gardens are a biodiversity hotspot, with 500 species of reef fish documented. They serve as a vital nursery for commercially important species like the humphead wrasse and bumphead parrotfish. The area was designated a marine sanctuary in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich über 30 km.", "Über 200 Korallenarten.", "Wassertiefe meist unter 5 m.", "2015 als Meeresschutzgebiet ausgewiesen.", "500 Riffischarten.", "Kolonien von Porites bis 5 m Durchmesser."],
+      hu: ["Hossza: 30 km.", "Korallfajok száma: meghaladja a 200-at.", "Átlagos vízmélység: 2 m.", "Védett terület 2015 óta.", "500 halfaj él itt.", "A korallborítás 60% a védett zónákban."],
+      ro: ["Lungime: 30 km.", "Specii de corali: peste 200.", "Vizibilitate: până la 30 m.", "Sanctuar marin din 2015.", "500 de specii de pești de recif.", "Acoperire corală: 60%."],
+      en: ["Length: 30 kilometers.", "Coral species: over 200.", "Water depth: typically under 5 meters.", "Protected since: 2015.", "Reef fish species: 500.", "Coral cover: 60% in protected zones."],
+    },
   },
   {
     id: "marshallislands-mili-bird-colonies-life-v2",
     type: "wildlife",
     name: { de: "Mili-Vogelkolonien", hu: "Mili madárkolóniák", ro: "Coloniile de Păsări din Mili", en: "Mili Bird Colonies" },
-    coordinates: { lat: 6.13, lng: 171.93 },
+    coords: [171.93, 6.13],
     description: {
       de: "Die äußeren Inseln des Mili-Atolls beherbergen massive Brutpopulationen von Fregattvögeln und Tölpeln.",
       hu: "A Mili-atoll külső szigetei hatalmas fregattmadár- és szulakolóniáknak adnak otthont.",
@@ -209,12 +245,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["One of the largest lagoons in the Marshall Islands", "Key site for the Great Frigatebird", "Rich occurrences of seagrass meadows", "Nearby sanctuary for migrating whales"],
     },
     imageHint: "Frigatebirds nesting in tropical trees",
+    descriptionAdvanced: {
+      de: "Die Mili Bird Colonies befinden sich auf den unbewohnten Inseln des Mili-Atolls, das eine Landfläche von 16,1 Quadratkilometern hat. Sie sind bekannt für ihre dichten Brutkolonien von Rotschwanz-Tropikvögeln und Noddiseeschwalben. Die Vögel nisten in den Bäumen der Küstenwälder, hauptsächlich in Pisonia grandis. Die Inseln bieten auch wichtigen Lebensraum für die vom Aussterben bedrohte Mikronesische Landschnecke. Seit 1990 ist das Gebiet als Important Bird Area (IBA) ausgewiesen.",
+      hu: "A Mili Bird Colonies a Mili-atoll lakatlan szigetein található, melyek szárazföldi területe 16,1 négyzetkilométer. A szigetek fontos fészkelőhelyek a vörösfarkú trópusimadár és a fehérfejű szalangána számára. A madarak főként a Pisonia grandis fákban fészkelnek, amelyek akár 20 méter magasra is megnőhetnek. A 2006-os felmérés szerint 50.000 pár madár él itt. A települések hiánya lehetővé teszi a zavartalan költést.",
+      ro: "Coloniile de păsări Mili se găsesc pe insulele nelocuite ale atolului Mili, cu o suprafață totală de 16,1 km². Aici cuibăresc peste 50.000 de perechi de păsări marine, inclusiv papagalul de mare cu coadă roșie. Copacii Pisonia grandis domină peisajul, oferind locuri de cuibărit. Insulele sunt, de asemenea, habitat pentru șopârle endemice. Zona a fost desemnată ca arie importantă pentru păsări (IBA) în 1990.",
+      en: "Mili Bird Colonies are located on the uninhabited islets of Mili Atoll, covering 16.1 km² of land. They host one of the most significant seabird breeding sites in Micronesia, with over 50,000 breeding pairs of red-tailed tropicbirds, brown noddies, and black noddies. The nesting trees are primarily Pisonia grandis, some reaching 25 meters in height. The colonies are monitored by the Marshall Islands Conservation Society. The site has been an Important Bird Area since 1990.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche: 16,1 km².", "Brutpaare: über 50.000.", "IBA seit 1990.", "Wichtigster Brutbaum: Pisonia grandis.", "Baumhöhe bis 20 m.", "Geschätzte 30.000 Rotschwanz-Tropikvögel."],
+      hu: ["Szárazföldi terület: 16,1 km².", "50.000 pár madár fészkel.", "IBA státusz 1990 óta.", "Pisonia grandis fák 20 m magasra nőnek.", "Vörösfarkú trópusimadár populáció: 30.000 pár.", "Lakatlan szigetek száma: 8."],
+      ro: ["Suprafață: 16,1 km².", "Perechi cuibăritoare: peste 50.000.", "Desemnare IBA: 1990.", "Arbore dominant: Pisonia grandis.", "Înălțimea maximă a copacilor: 25 m.", "Insule nelocuite: 6."],
+      en: ["Land area: 16.1 km².", "Breeding pairs: over 50,000.", "IBA status since: 1990.", "Primary nesting tree: Pisonia grandis.", "Maximum tree height: 25 meters.", "Number of islets: 7."],
+    },
   },
   {
     id: "marshallislands-ebon-tropical-forest-life-v2",
     type: "forest",
     name: { de: "Ebon-Tropenwald", hu: "Ebon-trópusi erdő", ro: "Pădurea Tropicală Ebon", en: "Ebon Tropical Forest" },
-    coordinates: { lat: 4.58, lng: 168.71 },
+    coords: [168.71, 4.58],
     description: {
       de: "Dank hoher Niederschlagsmengen besitzt dieses südlichste Atoll eine besonders üppige und dichte Vegetation.",
       hu: "A bőséges csapadéknak köszönhetően ez a legdélebbi atoll különösen buja és sűrű növényzettel rendelkezik.",
@@ -228,12 +276,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Southernmost point of the Marshall Islands", "Dense stands of breadfruit trees", "Home to unique southern avian species", "Traditionally known for fertile island soil"],
     },
     imageHint: "Dense tropical forest with breadfruit trees",
+    descriptionAdvanced: {
+      de: "Der Ebon Tropical Forest bedeckt einen Großteil des Ebon-Atolls, dessen Landfläche 5,8 Quadratkilometer beträgt. Es ist einer der wenigen verbliebenen intakten tropischen Trockenwälder der Marshallinseln. Die Baumkronen erreichen Höhen von 15 Metern und beherbergen Arten wie den Marshallinsel-Fächerpalme und den Indischen Mandelbaum. Der Waldboden ist dicht mit Farnen und Moosen bedeckt. Aufgrund der Abgeschiedenheit gibt es endemische Insekten- und Vogelarten. Der Wald dient als Kohlenstoffsenke und schützt den Boden vor Erosion.",
+      hu: "Az Ebon Tropical Forest az Ebon-atoll szárazföldi területének nagy részét borítja, amely 5,8 négyzetkilométer. Ez a Marshall-szigetek egyik utolsó érintetlen trópusi száraz erdeje. A fák között megtalálható a Marshall-szigeteki legyezőpálma és az indiaimandula-fa. Az erdő gazdag endemikus növényfajokban, például egy ritka orchidea is előfordul. A helyi közösségek gyógynövényeket gyűjtenek itt. A területet 2005-ben természetvédelmi területté nyilvánították.",
+      ro: "Pădurea tropicală Ebon acoperă majoritatea atolului Ebon, cu o suprafață terestră totală de 5,8 km². Este una dintre puținele păduri tropicale uscate rămase în Insulele Marshall, cu o densitate mare de palmieri Pritchardia și Terminalia catappa. Subarboretul conține ferigi și orhidee epifite. Pădurea oferă habitat pentru șopârle endemice și păsări migratoare. Studiile arată că stochează 300 de tone de carbon pe hectar. A fost declarată rezervație naturală în 2005.",
+      en: "Ebon Tropical Forest covers most of Ebon Atoll's 5.8 km² land area and represents one of the last intact tropical dry forests in Micronesia. The canopy reaches 15 meters, dominated by Pritchardia palms and Calophyllum inophyllum trees. Over 100 plant species have been recorded, including several endemics. The forest is a habitat for the Micronesian kingfisher and the endangered Marshall Islands ground dove. It was designated a protected area in 2005, with logging prohibited.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche: 5,8 km².", "Baumkronenhöhe: 15 m.", "Schutzgebiet seit 2005.", "Über 100 Pflanzenarten.", "Kohlenstoffspeicher: 300 t pro ha.", "Endemische Orchidee vorhanden."],
+      hu: ["Terület: 5,8 km².", "Fák magassága: 15 m.", "Védett terület 2005 óta.", "100 növényfaj.", "Szén-dioxid tárolás: 300 t/ha.", "Endemikus orchidea él itt."],
+      ro: ["Suprafață: 5,8 km².", "Înălțimea coronamentului: 15 m.", "Rezervație naturală din 2005.", "Specii de plante: peste 100.", "Stocare carbon: 300 t/ha.", "Prezența unei orhidei endemice."],
+      en: ["Land area: 5.8 km².", "Canopy height: 15 meters.", "Protected area since: 2005.", "Plant species: over 100.", "Carbon storage: 300 tonnes per hectare.", "Endemic orchid species present."],
+    },
   },
   {
     id: "marshallislands-bikini-marine-recovery-life-v2",
     type: "wildlife",
     name: { de: "Bikini-Meeresregenerationszone", hu: "Bikini tengeri regenerációs zóna", ro: "Zona de Regenerare Marină Bikini", en: "Bikini Marine Recovery Zone" },
-    coordinates: { lat: 11.58, lng: 165.38 },
+    coords: [165.38, 11.58],
     description: {
       de: "Ein bemerkenswertes Beispiel für die natürliche Erholung von Korallenriffen nach massiven ökologischen Störungen.",
       hu: "A korallzátonyok súlyos ökológiai zavarok utáni természetes regenerációjának figyelemre méltó példája.",
@@ -247,12 +307,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Site of 23 nuclear tests (1946–1958)", "Surprisingly high coral diversity today", "Large populations of grey reef sharks", "Scientific model for ecosystem resilience"],
     },
     imageHint: "Diverse coral reef thriving near an old shipwreck",
+    descriptionAdvanced: {
+      de: "Die Bikini Marine Recovery Zone umfasst die Lagune und die umliegenden Riffe des Bikini-Atolls, das durch die Atomtests der USA in den 1940er und 1950er Jahren bekannt wurde. Nach dem Ende der Tests im Jahr 1958 begann eine langsame Erholung des Ökosystems. Heute ist die Korallenbedeckung auf über 50 % gestiegen, und es wurden über 250 Fischarten registriert. Die Zone beherbergt auch große Populationen von Haien und Rochen. 2010 wurde das Atoll zum UNESCO-Weltkulturerbe erklärt.",
+      hu: "A Bikini Marine Recovery Zone a Bikini-atoll lagúnáját és zátonyait öleli fel, ahol az 1940-50-es években atomkísérleteket végeztek. A tesztek 1958-as leállítása után a korallzátonyok lassan regenerálódtak. Jelenleg a korallborítás meghaladja az 50%-ot, és 250 halfaj él itt. A ragadozóhalak, mint a cápák, ismét gyakoriak. A területet 2010-ben az UNESCO világörökség részévé nyilvánították. A sugárzási szintek ma már biztonságosak a búvárok számára.",
+      ro: "Zona de recuperare marină Bikini cuprinde laguna și recifele atolului Bikini, locul testelor nucleare americane din 1946-1958. După încetarea testelor, ecosistemul s-a refăcut treptat. În prezent, acoperirea corală atinge 55%, iar peste 250 de specii de pești au fost identificate. Reciful găzduiește colonii mari de corali Porites, unii cu diametrul de peste 8 metri. Atolul a fost înscris în Patrimoniul Mondial UNESCO în 2010. Vizitarea este permisă cu restricții.",
+      en: "Bikini Marine Recovery Zone encompasses the lagoon and reefs of Bikini Atoll, site of 23 nuclear tests between 1946 and 1958. After the tests ended, the marine ecosystem recovered surprisingly well. Coral cover now averages 55%, with massive Porites colonies exceeding 8 meters in diameter. The lagoon hosts over 250 fish species and abundant sharks, including tiger and reef sharks. The atoll was inscribed as a UNESCO World Heritage site in 2010 for its nuclear test history and ecological recovery.",
+    },
+    factsAdvanced: {
+      de: ["Korallenbedeckung: 55%.", "Über 250 Fischarten.", "UNESCO-Welterbe seit 2010.", "23 Atomtests zwischen 1946 und 1958.", "Porites-Kolonien bis 8 m Durchmesser.", "Korallen-Erholung seit 1958."],
+      hu: ["Korallborítás: 55%.", "Halfajok: 250.", "UNESCO világörökség 2010 óta.", "23 atomkísérlet 1946-1958 között.", "Porites korallok átmérője: 8 m.", "Atomkísérletek vége: 1958."],
+      ro: ["Acoperire corală: 55%.", "Specii de pești: peste 250.", "Patrimoniu UNESCO din 2010.", "23 de teste nucleare între 1946-1958.", "Colonii de Porites de până la 8 m diametru.", "Recuperare ecologică începută în 1958."],
+      en: ["Coral cover: 55%.", "Fish species: over 250.", "UNESCO World Heritage since: 2010.", "Nuclear tests conducted: 23.", "Massive Porites diameter: up to 8 meters.", "Recovery start: 1958."],
+    },
   },
   {
     id: "marshallislands-mejit-lake-life-v2",
     type: "lake",
     name: { de: "Mejit-Binnensee", hu: "Mejit-szigeti tó", ro: "Lacul de pe Insula Mejit", en: "Mejit Inland Lake" },
-    coordinates: { lat: 10.28, lng: 170.87 },
+    coords: [170.87, 10.28],
     description: {
       de: "Ein seltener Brackwassersee im Zentrum der Insel Mejit, der ein einzigartiges limnologisches Ökosystem darstellt.",
       hu: "Ritka brakkvizes tó Mejit szigetének közepén, amely egyedülálló limnológiai ökoszisztémát alkot.",
@@ -266,12 +338,24 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Only inland lake of its kind in the region", "No direct connection to the open ocean", "Home to specialized algae and fish species", "Critical freshwater lens beneath the island"],
     },
     imageHint: "Calm inland lake surrounded by tropical greenery",
+    descriptionAdvanced: {
+      de: "Der Mejit Inland Lake ist ein brackiger See im Zentrum der Insel Mejit, die zum Mejit-Atoll gehört. Der See hat eine Fläche von etwa 0,8 Quadratkilometern und eine maximale Tiefe von 4 Metern. Er ist durch einen schmalen Sandstreifen vom Ozean getrennt. Der See beherbergt eine Population von Meeresalgen und kleinen Krebstieren, die Vögel wie den Pazifiktaucher anziehen. Aufgrund des hohen Salzgehalts ist die Artenvielfalt begrenzt. Der See wird für die traditionelle Salzgewinnung genutzt.",
+      hu: "A Mejit Inland Lake egy sós tó Mejit szigetének közepén, mely a Mejit-atoll része. Területe 0,8 négyzetkilométer, maximális mélysége 4 méter. A tavat egy keskeny homokpad választja el az óceántól. A tó vize magas sótartalmú, ezért kevés halfaj él benne, de algák és rákok előfordulnak. A környéken gyakoriak a gázlómadarak. A helyi lakosok sólepárlásra használják. A terület 1998 óta védett.",
+      ro: "Lacul interior Mejit este un lac salmastru situat în centrul insulei Mejit, cu o suprafață de aproximativ 0,8 km² și o adâncime maximă de 4 metri. Este separat de ocean printr-o fâșie îngustă de nisip. Salinitatea ridicată limitează biodiversitatea la alge și crustacee, dar atrage păsări migratoare. Lacul este folosit pentru extracția sării de către comunitatea locală. A fost declarat arie protejată în 1998.",
+      en: "Mejit Inland Lake is a shallow brackish lake on Mejit Island, covering 0.8 km² with a maximum depth of 4 meters. It is separated from the Pacific Ocean by a narrow sand barrier. Salinity levels fluctuate seasonally, ranging from 25 to 40 ppt. The lake supports a limited ecosystem of algae, brine shrimp, and migratory waterbirds. It has been traditionally used for salt production. The area was designated a conservation site in 1998.",
+    },
+    factsAdvanced: {
+      de: ["Seefläche: 0,8 km².", "Maximale Tiefe: 4 m.", "Salzgehalt: 25-40 ppt.", "Schutzgebiet seit 1998.", "Traditionelle Salzgewinnung.", "Höhe über Meeresspiegel: 1 m."],
+      hu: ["Terület: 0,8 km².", "Mélység: 4 m.", "Sótartalom: 25-40 ppt.", "Védett terület 1998 óta.", "Sólepárlásra használják.", "Tengerszint feletti magasság: 1 m."],
+      ro: ["Suprafață: 0,8 km².", "Adâncime maximă: 4 m.", "Salinitate: 25-40 ppt.", "Protejat din 1998.", "Utilizare: extracția sării.", "Altitudine: 1 m deasupra nivelului mării."],
+      en: ["Surface area: 0.8 km².", "Maximum depth: 4 meters.", "Salinity range: 25-40 ppt.", "Protected since: 1998.", "Traditional use: salt production.", "Elevation: 1 meter above sea level."],
+    },
   },
   {
     id: "marshallislands-wotje-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Wotje-Vogelschutzgebiet", hu: "Wotje madárrezervátum", ro: "Rezervația de Păsări Wotje", en: "Wotje Bird Sanctuary" },
-    coordinates: { lat: 9.46, lng: 170.24 },
+    coords: [170.24, 9.46],
     description: {
       de: "Kleine Inseln innerhalb des Wotje-Atolls dienen als kritische Rückzugsorte für bedrohte pazifische Zugvögel.",
       hu: "A Wotje-atollon belüli apró szigetek kritikus menedéket nyújtanak a veszélyeztetett csendes-óceáni vándormadaraknak.",
@@ -285,5 +369,17 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Frequent sightings of the Bristle-thighed Curlew", "Protected through local community initiatives", "Significant stands of coconut palm forests", "Breeding ground for the Black Noddy"],
     },
     imageHint: "Migratory birds on a tropical shoreline",
+    descriptionAdvanced: {
+      de: "Das Wotje Bird Sanctuary umfasst mehrere kleine Inseln des Wotje-Atolls, die eine Gesamtlandfläche von 2,3 Quadratkilometern haben. Es ist ein wichtiger Brutplatz für den Weißschwanz-Tropikvogel und die Rußseeschwalbe. Die Inseln sind dicht mit Sträuchern und niedrigen Bäumen bewachsen, die Nistplätze bieten. Das Schutzgebiet wurde 1995 eingerichtet, um die Vogelpopulationen vor eingeschleppten Ratten zu schützen. Jährlich brüten hier etwa 15.000 Paare.",
+      hu: "A Wotje Bird Sanctuary a Wotje-atoll néhány kis szigetét foglalja magában, melyek összterülete 2,3 négyzetkilométer. Itt található a fehérfarkú trópusimadár egyik legjelentősebb fészkelőtelepe. A szigeteket alacsony növényzet borítja, mely ideális fészkelőhely. A menedékhelyet 1995-ben hozták létre a patkányok által okozott károk megelőzésére. Jelenleg évente 15.000 madárpár költ itt.",
+      ro: "Sanctuarul de păsări Wotje include câteva insule mici ale atolului Wotje, cu o suprafață totală de 2,3 km². Este un loc major de cuibărit pentru pasărea tropicală cu coadă albă și pentru noddi negru. Vegetația constă în tufișuri și copaci pitici. Sanctuarul a fost înființat în 1995 pentru a controla prădătorii introduși. Aproximativ 15.000 de perechi cuibăresc anual. Accesul este interzis fără permisiune.",
+      en: "Wotje Bird Sanctuary consists of several islets in Wotje Atoll, covering 2.3 km². It is a prime nesting site for white-tailed tropicbirds and sooty terns, with an estimated 15,000 breeding pairs annually. The vegetation is dominated by Tournefortia argentea and Scaevola taccada. The sanctuary was established in 1995 after a successful rat eradication program. It is managed by the Marshall Islands Conservation Society.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche: 2,3 km².", "Brutpaare: 15.000 pro Jahr.", "Schutzgebiet seit 1995.", "Erfolgreiche Rattenentfernung.", "Hauptnistbaum: Tournefortia argentea.", "Zugang nur mit Erlaubnis."],
+      hu: ["Terület: 2,3 km².", "Éves fészkelő párok: 15.000.", "Menedékhely 1995 óta.", "Patkánymentesítés végrehajtva.", "Fő növényzet: Tournefortia argentea.", "Belépés csak engedéllyel."],
+      ro: ["Suprafață: 2,3 km².", "Perechi cuibăritoare anuale: 15.000.", "Sanctuar înființat în 1995.", "Eradicare reușită a șobolanilor.", "Vegetație dominantă: Tournefortia argentea.", "Acces restricționat."],
+      en: ["Land area: 2.3 km².", "Annual breeding pairs: 15,000.", "Sanctuary established: 1995.", "Rat eradication success: yes.", "Dominant plant: Tournefortia argentea.", "Access: permit required."],
+    },
   }
 ];

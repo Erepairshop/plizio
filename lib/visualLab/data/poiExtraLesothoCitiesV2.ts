@@ -1606,7 +1606,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     id: "lesotho-pitseng-cities-v2",
     type: "town",
     name: { de: "Pitseng", hu: "Pitseng", ro: "Pitseng", en: "Pitseng" },
-    coordinates: { lat: -29.15, lng: 28.25 },
+    coords: [28.25, -29.15],
     description: {
       de: "Pitseng ist eine Siedlung im Distrikt Leribe, die als wichtiger Ausgangspunkt für Reisen in das Hochland von Lesotho dient. Die Stadt liegt strategisch günstig an der Hauptstraße zum Katse-Stausee.",
       hu: "Pitseng egy település Leribe körzetben, amely fontos kapuként szolgál a lesothói felföld felé vezető úton. A város stratégiai helyen, a Katse-gát felé vezető főút mentén fekszik.",
@@ -1620,12 +1620,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Leribe District", "Gateway to the highlands", "Near Maloti Mountains", "Altitude over 1800m"],
     },
     imageHint: "Pitseng Lesotho landscape with mountains",
+    descriptionAdvanced: {
+      de: "Pitseng ist eine kleine Stadt im Norden Lesothos, im Distrikt Leribe. Sie liegt auf einer Höhe von etwa 1.600 Metern im malerischen Tal des Phuthiatsana-Flusses. Die Stadt ist ein lokales Handelszentrum für die umliegenden ländlichen Gebiete. Die Wirtschaft basiert auf Landwirtschaft, hauptsächlich Maisanbau und Viehzucht. Pitseng hat eine Grundschule und eine Klinik. Die Bevölkerung besteht hauptsächlich aus Basotho, die ihre traditionelle Kultur bewahren. Die Landschaft ist geprägt von grünen Hügeln und Felsformationen.",
+      hu: "Pitseng egy kisváros Észak-Lesothóban, a Leribe körzetben. Körülbelül 1600 méteres tengerszint feletti magasságban fekszik a Phuthiatsana folyó festői völgyében. A város helyi kereskedelmi központ a környező vidéki területek számára. A gazdaság a mezőgazdaságon alapul, főként kukoricatermesztésen és állattenyésztésen. Pitsengben általános iskola és klinika található. A lakosság túlnyomórészt basotho, akik megőrzik hagyományos kultúrájukat. A tájat zöld dombok és sziklás képződmények jellemzik.",
+      ro: "Pitseng este un mic oraș în nordul Lesotho, în districtul Leribe. Se află la o altitudine de aproximativ 1.600 de metri, în valea pitorească a râului Phuthiatsana. Orașul este un centru comercial local pentru zonele rurale din jur. Economia se bazează pe agricultură, în principal cultivarea porumbului și creșterea animalelor. Pitseng are o școală primară și o clinică. Populația este în mare parte basotho, care își păstrează cultura tradițională. Peisajul este caracterizat de dealuri verzi și formațiuni stâncoase.",
+      en: "Pitseng is a small town in northern Lesotho, in the Leribe District. It lies at an elevation of about 1,600 meters in the scenic valley of the Phuthiatsana River. The town is a local trading center for the surrounding rural areas. The economy is based on agriculture, mainly maize cultivation and livestock farming. Pitseng has a primary school and a clinic. The population is predominantly Basotho, who maintain their traditional culture. The landscape is characterized by green hills and rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.600 Meter", "Distrikt: Leribe", "Fluss: Phuthiatsana", "Hauptanbau: Mais", "Einrichtungen: Grundschule, Klinik", "Bevölkerung: Basotho"],
+      hu: ["Magasság: kb. 1600 méter", "Körzet: Leribe", "Folyó: Phuthiatsana", "Fő termény: kukorica", "Intézmények: általános iskola, klinika", "Lakosság: basotho"],
+      ro: ["Altitudine: aproximativ 1.600 m", "District: Leribe", "Râu: Phuthiatsana", "Cultură principală: porumb", "Facilități: școală primară, clinică", "Populație: basotho"],
+      en: ["Elevation: about 1,600 meters", "District: Leribe", "River: Phuthiatsana", "Main crop: maize", "Facilities: primary school, clinic", "Population: Basotho"],
+    },
   },
   {
     id: "lesotho-kolonyama-cities-v2",
     type: "town",
     name: { de: "Kolonyama", hu: "Kolonyama", ro: "Kolonyama", en: "Kolonyama" },
-    coordinates: { lat: -28.98, lng: 28.05 },
+    coords: [28.05, -28.98],
     description: {
       de: "Kolonyama ist ein geschichtsträchtiger Ort im Distrikt Leribe, der vor allem für seine traditionelle Töpferei bekannt ist. In der Nähe befinden sich historische Höhlen, die mit den Lifaqane-Kriegen verbunden sind.",
       hu: "Kolonyama egy történelmi hely Leribe körzetben, amely elsősorban hagyományos fazekasságáról ismert. A közelben található barlangok a Lifaqane-háborúk idejéhez köthető történelmi emlékhelyek.",
@@ -1639,12 +1651,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Famous for pottery", "Leribe District", "Near the South African border", "Historic cannibal caves"],
     },
     imageHint: "Kolonyama Pottery Lesotho",
+    descriptionAdvanced: {
+      de: "Kolonyama ist eine Siedlung im Distrikt Berea in Lesotho, etwa 40 km nordöstlich der Hauptstadt Maseru. Sie liegt auf einer Höhe von rund 1.700 Metern in einer hügeligen Region. Die Gegend ist landwirtschaftlich geprägt, mit Schwerpunkt auf Mais- und Weizenanbau. Kolonyama ist bekannt für seine traditionelle Basotho-Architektur. Die Gemeinde hat eine Gesundheitsstation und mehrere Kirchen. Die Bevölkerung ist überwiegend katholisch. Die nahe gelegenen Berge bieten Wanderwege und malerische Ausblicke.",
+      hu: "Kolonyama egy település a Berea körzetben Lesothóban, Maseru fővárostól mintegy 40 km-re északkeletre. Körülbelül 1700 méter magasan fekszik egy dombos vidéken. A terület mezőgazdasági jellegű, főként kukorica- és búzatermesztéssel. Kolonyama híres hagyományos basotho építészetéről. A községben egészségügyi állomás és több templom található. A lakosság túlnyomórészt katolikus. A közeli hegyek túraútvonalakat és festői kilátást kínálnak.",
+      ro: "Kolonyama este o așezare în districtul Berea din Lesotho, la aproximativ 40 km nord-est de capitala Maseru. Se află la o altitudine de aproximativ 1.700 de metri, într-o regiune deluroasă. Zona este preponderent agricolă, cu accent pe cultivarea porumbului și grâului. Kolonyama este cunoscută pentru arhitectura tradițională basotho. Comunitatea are un post de sănătate și mai multe biserici. Populația este în mare parte catolică. Munții din apropiere oferă trasee de drumeție și priveliști pitorești.",
+      en: "Kolonyama is a settlement in the Berea District of Lesotho, about 40 km northeast of the capital Maseru. It lies at an elevation of about 1,700 meters in a hilly region. The area is agricultural, focusing on maize and wheat cultivation. Kolonyama is known for its traditional Basotho architecture. The community has a health post and several churches. The population is predominantly Catholic. The nearby mountains offer hiking trails and scenic views.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.700 Meter", "Entfernung von Maseru: 40 km nordöstlich", "Distrikt: Berea", "Hauptanbau: Mais, Weizen", "Einrichtung: Gesundheitsstation", "Religion: überwiegend katholisch"],
+      hu: ["Magasság: kb. 1700 méter", "Maserutól északkeletre: 40 km", "Körzet: Berea", "Fő termények: kukorica, búza", "Egészségügyi állomás", "Vallás: túlnyomórészt katolikus"],
+      ro: ["Altitudine: aproximativ 1.700 m", "Distanța față de Maseru: 40 km nord-est", "District: Berea", "Culturi principale: porumb, grâu", "Post de sănătate", "Religie: predominant catolică"],
+      en: ["Elevation: about 1,700 meters", "Distance from Maseru: 40 km northeast", "District: Berea", "Main crops: maize, wheat", "Health post", "Religion: predominantly Catholic"],
+    },
   },
   {
     id: "lesotho-ha-seshote-cities-v2",
     type: "village",
     name: { de: "Ha Seshote", hu: "Ha Seshote", ro: "Ha Seshote", en: "Ha Seshote" },
-    coordinates: { lat: -29.23, lng: 28.52 },
+    coords: [28.52, -29.23],
     description: {
       de: "Ha Seshote ist ein bedeutender Verkehrsknotenpunkt in den Maloti-Bergen auf dem Weg zum Katse-Stausee. Die Siedlung liegt auf einer Hochebene und ist ein wichtiger Handelsplatz für die lokale Bevölkerung.",
       hu: "Ha Seshote egy jelentős közlekedési csomópont a Maloti-hegységben, a Katse-gát felé vezető úton. A település egy fennsíkon fekszik, és a helyi lakosság fontos kereskedelmi központja.",
@@ -1658,12 +1682,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Maloti Mountains", "Over 2200m elevation", "Major road junction", "Leribe District"],
     },
     imageHint: "Ha Seshote Lesotho mountain village",
+    descriptionAdvanced: {
+      de: "Ha Seshote ist ein Dorf im Distrikt Quthing im Süden Lesothos. Es liegt in der Nähe des Oranje-Flusses, der die Grenze zu Südafrika bildet. Die Region ist bergig und abgelegen. Die Wirtschaft basiert auf Subsistenzlandwirtschaft und Tierhaltung. Das Dorf hat eine Grundschule und eine kleine Kapelle. Die traditionelle Basotho-Kultur ist stark ausgeprägt, mit kunstvoller Strohflechterei und Musik. Die Landschaft bietet spektakuläre Schluchten und Felsformationen, die bei Wanderern beliebt sind.",
+      hu: "Ha Seshote egy falu Lesotho déli részén, a Quthing körzetben. A Dél-afrikai Köztársasággal határt képező Oranje folyó közelében fekszik. A régió hegyes és elszigetelt. A gazdaság önellátó mezőgazdaságon és állattenyésztésen alapul. A faluban általános iskola és egy kis kápolna található. A hagyományos basotho kultúra erős, művészi szalmafonással és zenével. A táj látványos szurdokokat és sziklás képződményeket kínál, amelyek népszerűek a túrázók körében.",
+      ro: "Ha Seshote este un sat în districtul Quthing din sudul Lesotho. Se află în apropierea râului Orange, care formează granița cu Africa de Sud. Regiunea este muntoasă și izolată. Economia se bazează pe agricultura de subzistență și creșterea animalelor. Satul are o școală primară și o capelă mică. Cultura tradițională basotho este puternică, cu împletituri artistice de paie și muzică. Peisajul oferă canioane spectaculoase și formațiuni stâncoase, populare printre drumeți.",
+      en: "Ha Seshote is a village in the Quthing District of southern Lesotho. It lies near the Orange River, which forms the border with South Africa. The region is mountainous and remote. The economy is based on subsistence agriculture and livestock. The village has a primary school and a small chapel. Traditional Basotho culture is strong, with artistic straw weaving and music. The landscape offers spectacular gorges and rock formations, popular with hikers.",
+    },
+    factsAdvanced: {
+      de: ["Distrikt: Quthing", "Fluss: Oranje (Grenze zu Südafrika)", "Wirtschaft: Subsistenzlandwirtschaft", "Schule: Grundschule", "Kulturelle Traditionen: Strohflechterei", "Beliebt für Wandern"],
+      hu: ["Körzet: Quthing", "Folyó: Oranje (Dél-afrikai határ)", "Gazdaság: önellátó mezőgazdaság", "Iskola: általános iskola", "Kultúra: szalmafonás", "Népszerű túracélpont"],
+      ro: ["District: Quthing", "Râu: Orange (graniță cu Africa de Sud)", "Economie: agricultură de subzistență", "Școală: școală primară", "Tradiții: împletituri de paie", "Popular pentru drumeții"],
+      en: ["District: Quthing", "River: Orange (border with South Africa)", "Economy: subsistence agriculture", "School: primary school", "Cultural traditions: straw weaving", "Popular for hiking"],
+    },
   },
   {
     id: "lesotho-tebellong-cities-v2",
     type: "village",
     name: { de: "Tebellong", hu: "Tebellong", ro: "Tebellong", en: "Tebellong" },
-    coordinates: { lat: -30.15, lng: 28.65 },
+    coords: [28.65, -30.15],
     description: {
       de: "Tebellong liegt im Distrikt Qacha's Nek am Ufer des Senqu-Flusses und ist Standort einer bekannten Missionsstation. Die Siedlung dient als regionales Zentrum für das umliegende zerklüftete Bergland.",
       hu: "Tebellong Qacha's Nek körzetben, a Senqu-folyó partján fekszik, és egy ismert missziós állomás helyszíne. A település regionális központként szolgál a környező hegyvidéki terület számára.",
@@ -1677,12 +1713,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["On the Senqu River", "Qacha's Nek District", "Mission hospital site", "Mountainous terrain"],
     },
     imageHint: "Tebellong Lesotho Senqu River valley",
+    descriptionAdvanced: {
+      de: "Tebellong ist eine Siedlung im Distrikt Mokhotlong im östlichen Lesotho, nahe der Grenze zu Südafrika. Sie liegt auf einer Höhe von über 2.000 Metern in der Maloti-Bergkette. Die Region ist karg und dünn besiedelt. Die Hauptwirtschaftszweige sind Schafzucht und der Anbau von Kartoffeln. Tebellong hat eine Gesundheitsstation und eine Grundschule. Die Bevölkerung lebt traditionell, mit vielen Familien, die noch in Rundhütten (rondavels) wohnen. Die Umgebung ist bekannt für ihre atemberaubenden Berglandschaften und ist Teil des Maloti-Drakensberg-Parks.",
+      hu: "Tebellong egy település Lesotho keleti részén, a Mokhotlong körzetben, a Dél-afrikai határ közelében. Több mint 2000 méter magasan fekszik a Maloti-hegységben. A régió kopár és ritkán lakott. A fő gazdasági ágak a juhtenyésztés és a burgonyatermesztés. Tebellongban egészségügyi állomás és általános iskola található. A lakosság hagyományos életmódot folytat, sok család még kerek házakban (rondavel) él. A környék lenyűgöző hegyi tájairól ismert, és a Maloti-Drakensberg Park része.",
+      ro: "Tebellong este o așezare în districtul Mokhotlong din estul Lesotho, aproape de granița cu Africa de Sud. Se află la o altitudine de peste 2.000 de metri, în lanțul muntos Maloti. Regiunea este aridă și slab populată. Principalele activități economice sunt creșterea oilor și cultivarea cartofilor. Tebellong are un post de sănătate și o școală primară. Populația trăiește în mod tradițional, multe familii locuind încă în colibe rotunde (rondavels). Zona este cunoscută pentru peisajele montane spectaculoase și face parte din Parcul Maloti-Drakensberg.",
+      en: "Tebellong is a settlement in the Mokhotlong District of eastern Lesotho, near the border with South Africa. It lies at an elevation of over 2,000 meters in the Maloti Mountains. The region is barren and sparsely populated. The main economic activities are sheep farming and potato cultivation. Tebellong has a health post and a primary school. The population lives traditionally, with many families still living in round huts (rondavels). The area is known for its stunning mountain scenery and is part of the Maloti-Drakensberg Park.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: über 2.000 Meter", "Gebirge: Maloti", "Wirtschaft: Schafzucht, Kartoffelanbau", "Einrichtungen: Gesundheitsstation, Grundschule", "Behausungen: Rundhütten (Rondavels)", "Teil des Maloti-Drakensberg-Parks"],
+      hu: ["Magasság: több mint 2000 méter", "Hegység: Maloti", "Gazdaság: juhtenyésztés, burgonya", "Intézmények: egészségügyi állomás, általános iskola", "Lakóházak: rondavel", "Maloti-Drakensberg Park része"],
+      ro: ["Altitudine: peste 2.000 m", "Munți: Maloti", "Economie: creșterea oilor, cartofi", "Facilități: post de sănătate, școală primară", "Locuințe: colibe rotunde (rondavels)", "Parte a Parcului Maloti-Drakensberg"],
+      en: ["Elevation: over 2,000 meters", "Mountains: Maloti", "Economy: sheep farming, potato cultivation", "Facilities: health post, primary school", "Dwellings: round huts (rondavels)", "Part of Maloti-Drakensberg Park"],
+    },
   },
   {
     id: "lesotho-kolo-cities-v2",
     type: "village",
     name: { de: "Kolo", hu: "Kolo", ro: "Kolo", en: "Kolo" },
-    coordinates: { lat: -29.75, lng: 27.42 },
+    coords: [27.42, -29.75],
     description: {
       de: "Kolo ist ein Ort im Distrikt Mafeteng, der durch seine geologische Bedeutung und den Kolo-Kimberlit-Schlot bekannt wurde. Die Siedlung liegt in den Ausläufern des Maloti-Gebirges und ist von Landwirtschaft geprägt.",
       hu: "Kolo egy település Mafeteng körzetben, amely geológiai jelentőségéről és a Kolo-kimberlitkürtőről vált ismertté. A falu a Maloti-hegység lábánál fekszik, és mezőgazdasági jellegű.",
@@ -1696,12 +1744,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Kolo Mountain (2090m)", "Kimberlite pipe location", "Mafeteng District", "Diamond exploration"],
     },
     imageHint: "Kolo Lesotho mountain and fields",
+    descriptionAdvanced: {
+      de: "Kolo ist eine kleine Stadt im Distrikt Leribe im Norden Lesothos. Sie liegt im Tal des Hlotse-Flusses, auf etwa 1.550 Metern Höhe. Die Stadt ist ein lokales Handelszentrum mit Märkten für landwirtschaftliche Produkte. Die Hauptanbauprodukte sind Mais und Bohnen. Kolo ist bekannt für seine Felsmalereien der San, die Tausende von Jahren alt sind. Die Stadt hat ein Krankenhaus und mehrere Schulen. Die Bevölkerung ist überwiegend protestantisch. Die Umgebung bietet Wandermöglichkeiten und Aussichtspunkte.",
+      hu: "Kolo egy kisváros Észak-Lesothóban, a Leribe körzetben. A Hlotse folyó völgyében fekszik, körülbelül 1550 méteres tengerszint feletti magasságban. A város helyi kereskedelmi központ mezőgazdasági termékek piacaival. A fő termények a kukorica és a bab. Kolo híres a San sziklarajzairól, amelyek több ezer évesek. A városban kórház és több iskola található. A lakosság túlnyomórészt protestáns. A környék túrázási lehetőségeket és kilátópontokat kínál.",
+      ro: "Kolo este un mic oraș în districtul Leribe din nordul Lesotho. Este situat în valea râului Hlotse, la aproximativ 1.550 de metri altitudine. Orașul este un centru comercial local, cu piețe pentru produse agricole. Principalele culturi sunt porumbul și fasolea. Kolo este cunoscut pentru picturile rupestre San, care au mii de ani. Orașul are un spital și mai multe școli. Populația este predominant protestantă. Împrejurimile oferă oportunități de drumeție și puncte de belvedere.",
+      en: "Kolo is a small town in the Leribe District of northern Lesotho. It lies in the valley of the Hlotse River at about 1,550 meters elevation. The town is a local trading center with markets for agricultural produce. Main crops are maize and beans. Kolo is known for its San rock paintings, which are thousands of years old. The town has a hospital and several schools. The population is predominantly Protestant. The area offers hiking opportunities and viewpoints.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.550 Meter", "Distrikt: Leribe", "Fluss: Hlotse", "Anbau: Mais, Bohnen", "Archäologie: San-Felsmalereien", "Einrichtungen: Krankenhaus"],
+      hu: ["Magasság: kb. 1550 méter", "Körzet: Leribe", "Folyó: Hlotse", "Termények: kukorica, bab", "Sziklarajzok: San", "Kórház"],
+      ro: ["Altitudine: aproximativ 1.550 m", "District: Leribe", "Râu: Hlotse", "Culturi: porumb, fasole", "Picturi rupestre San", "Spital"],
+      en: ["Elevation: about 1,550 meters", "District: Leribe", "River: Hlotse", "Crops: maize, beans", "Rock art: San paintings", "Hospital"],
+    },
   },
   {
     id: "lesotho-sehonghong-cities-v2",
     type: "village",
     name: { de: "Sehonghong", hu: "Sehonghong", ro: "Sehonghong", en: "Sehonghong" },
-    coordinates: { lat: -29.73, lng: 28.77 },
+    coords: [28.77, -29.73],
     description: {
       de: "Sehonghong ist eine abgelegene Siedlung im Osten Lesothos, die für ihre historische Bedeutung und den lokalen Flugplatz bekannt ist. Der Ort liegt tief in den Bergen und ist ein wichtiger Versorgungspunkt.",
       hu: "Sehonghong egy távoli település Kelet-Lesothóban, amely történelmi jelentőségéről és helyi repülőteréről ismert. A falu mélyen a hegyekben fekszik, és fontos ellátópont.",
@@ -1715,12 +1775,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Thaba-Tseka District", "Sehonghong Airport", "Nearby rock paintings", "Historical refuge"],
     },
     imageHint: "Sehonghong Lesotho remote mountain village",
+    descriptionAdvanced: {
+      de: "Sehonghong ist eine Siedlung im Distrikt Qacha's Nek im Süden Lesothos. Sie liegt in den Ausläufern der Drakensberge, auf einer Höhe von etwa 1.900 Metern. Die Region ist bekannt für ihre abgelegene Schönheit und die traditionelle Lebensweise der Basotho. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht, hauptsächlich Ziegen und Schafe. Sehonghong hat eine Grundschule und eine Klinik. Die Gegend ist bei Trekkingtouristen beliebt, die die unberührte Natur und die hohen Gipfel erkunden möchten.",
+      hu: "Sehonghong egy település Lesotho déli részén, a Qacha's Nek körzetben. A Drakensberg-hegység lábánál fekszik, körülbelül 1900 méteres tengerszint feletti magasságban. A régió elszigetelt szépségéről és a basotho hagyományos életmódjáról ismert. A gazdaság a mezőgazdaságon és az állattenyésztésen alapul, főleg kecskék és juhok tartásán. Sehonghongban általános iskola és klinika található. A környék népszerű a túrázók körében, akik az érintetlen természetet és a magas csúcsokat szeretnék felfedezni.",
+      ro: "Sehonghong este o așezare în districtul Qacha's Nek din sudul Lesotho. Se află la poalele Munților Drakensberg, la o altitudine de aproximativ 1.900 de metri. Regiunea este cunoscută pentru frumusețea sa izolată și stilul de viață tradițional al basotho. Economia se bazează pe agricultură și creșterea animalelor, în principal capre și oi. Sehonghong are o școală primară și o clinică. Zona este populară printre drumeți, care doresc să exploreze natura nealterată și vârfurile înalte.",
+      en: "Sehonghong is a settlement in the Qacha's Nek District of southern Lesotho. It lies in the foothills of the Drakensberg Mountains at about 1,900 meters elevation. The region is known for its remote beauty and traditional Basotho lifestyle. The economy is based on agriculture and livestock, mainly goats and sheep. Sehonghong has a primary school and a clinic. The area is popular with trekking tourists who wish to explore the pristine nature and high peaks.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.900 Meter", "Distrikt: Qacha's Nek", "Gebirge: Drakensberge", "Tierhaltung: Ziegen, Schafe", "Einrichtungen: Grundschule, Klinik", "Beliebt für Trekking"],
+      hu: ["Magasság: kb. 1900 méter", "Körzet: Qacha's Nek", "Hegység: Drakensberg", "Állattenyésztés: kecske, juh", "Intézmények: általános iskola, klinika", "Népszerű túrázás"],
+      ro: ["Altitudine: aproximativ 1.900 m", "District: Qacha's Nek", "Munți: Drakensberg", "Animale: capre, oi", "Facilități: școală primară, clinică", "Popular pentru drumeții"],
+      en: ["Elevation: about 1,900 meters", "District: Qacha's Nek", "Mountain range: Drakensberg", "Livestock: goats, sheep", "Facilities: primary school, clinic", "Popular for trekking"],
+    },
   },
   {
     id: "lesotho-nkau-cities-v2",
     type: "town",
     name: { de: "Nkau", hu: "Nkau", ro: "Nkau", en: "Nkau" },
-    coordinates: { lat: -30.12, lng: 27.83 },
+    coords: [27.83, -30.12],
     description: {
       de: "Nkau ist eine wachsende Gemeinde im Distrikt Mohale's Hoek, die das wirtschaftliche Zentrum für die umliegenden ländlichen Gebiete bildet. Die Stadt liegt in einer hügeligen Landschaft und ist über Gebirgspfade erreichbar.",
       hu: "Nkau egy növekvő település Mohale's Hoek körzetben, amely a környező vidéki területek gazdasági központját alkotja. A város dombos vidéken fekszik, és hegyi ösvényeken keresztül is megközelíthető.",
@@ -1734,12 +1806,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Mohale's Hoek District", "Regional marketplace", "Hilly terrain", "Traditional architecture"],
     },
     imageHint: "Nkau Lesotho village aerial view",
+    descriptionAdvanced: {
+      de: "Nkau ist eine kleine Siedlung im Distrikt Thaba-Tseka im zentralen Lesotho. Sie liegt auf einem Hochplateau auf etwa 2.200 Metern Höhe. Die Region ist kalt und windig, mit spärlicher Vegetation. Die Hauptwirtschaft ist die Viehzucht, insbesondere die Haltung von Angoraziegen für Mohair. Nkau hat eine Grundschule und eine Kirche. Die Bevölkerung ist sehr traditionell und spricht Sesotho. Die Landschaft ist geprägt von weiten Grasflächen und felsigen Hügeln. Die Abgeschiedenheit macht sie zu einem ruhigen Rückzugsort.",
+      hu: "Nkau egy kis település Közép-Lesothóban, a Thaba-Tseka körzetben. Egy magas fennsíkon fekszik, körülbelül 2200 méter magasan. A régió hideg és szeles, gyér növényzettel. A fő gazdasági ág az állattenyésztés, különösen az angórakecskék tartása mohairért. Nkauban általános iskola és templom található. A lakosság nagyon hagyományos, és szeszotó nyelven beszél. A tájat széles füves területek és sziklás dombok jellemzik. Az elszigeteltség nyugodt menedékké teszi.",
+      ro: "Nkau este o mică așezare în districtul Thaba-Tseka din centrul Lesotho. Se află pe un podiș înalt, la aproximativ 2.200 de metri altitudine. Regiunea este rece și vântoasă, cu vegetație rară. Principala activitate economică este creșterea animalelor, în special a caprelor angora pentru mohair. Nkau are o școală primară și o biserică. Populația este foarte tradițională și vorbește sesotho. Peisajul este caracterizat de întinderi largi de iarbă și dealuri stâncoase. Izolarea face din aceasta un refugiu liniștit.",
+      en: "Nkau is a small settlement in the Thaba-Tseka District of central Lesotho. It lies on a high plateau at about 2,200 meters elevation. The region is cold and windy, with sparse vegetation. The main economy is livestock farming, especially Angora goats for mohair. Nkau has a primary school and a church. The population is very traditional and speaks Sesotho. The landscape is characterized by wide grasslands and rocky hills. The isolation makes it a quiet retreat.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 2.200 Meter", "Distrikt: Thaba-Tseka", "Wirtschaft: Angoraziegen für Mohair", "Einrichtungen: Grundschule, Kirche", "Sprache: Sesotho", "Landschaft: Grasflächen und felsige Hügel"],
+      hu: ["Magasság: kb. 2200 méter", "Körzet: Thaba-Tseka", "Gazdaság: angórakecske (mohair)", "Intézmények: általános iskola, templom", "Nyelv: szeszotó", "Táj: füves területek, sziklás dombok"],
+      ro: ["Altitudine: aproximativ 2.200 m", "District: Thaba-Tseka", "Economie: capre angora (mohair)", "Facilități: școală primară, biserică", "Limbă: sesotho", "Peisaj: pajiști și dealuri stâncoase"],
+      en: ["Elevation: about 2,200 meters", "District: Thaba-Tseka", "Economy: Angora goats for mohair", "Facilities: primary school, church", "Language: Sesotho", "Landscape: grasslands and rocky hills"],
+    },
   },
   {
     id: "lesotho-mpharane-cities-v2",
     type: "village",
     name: { de: "Mpharane", hu: "Mpharane", ro: "Mpharane", en: "Mpharane" },
-    coordinates: { lat: -30.1, lng: 27.45 },
+    coords: [27.45, -30.1],
     description: {
       de: "Mpharane ist ein historisch gewachsener Ort im südlichen Lesotho, der nahe dem Makhaleng-Fluss gelegen ist. Die Siedlung ist für ihre Bildungsstätten und die umgebende fruchtbare Ebene bekannt.",
       hu: "Mpharane egy történelmi település Dél-Lesothóban, amely a Makhaleng-folyó közelében található. A falu oktatási intézményeiről és az azt körülvevő termékeny síkságról ismert.",
@@ -1753,12 +1837,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Near Makhaleng River", "Mohale's Hoek District", "Agricultural center", "Historic mission school"],
     },
     imageHint: "Mpharane Lesotho plains and river",
+    descriptionAdvanced: {
+      de: "Mpharane ist eine Stadt im Distrikt Maseru im westlichen Lesotho, etwa 30 km südöstlich der Hauptstadt. Sie liegt auf einer Höhe von etwa 1.500 Metern im Tal des Mohokare-Flusses (Caledon). Die Stadt ist ein landwirtschaftliches Zentrum mit Schwerpunkt auf Mais- und Gemüseanbau. Mpharane hat mehrere Grundschulen und eine weiterführende Schule. Die Bevölkerung ist gemischt, mit einer wachsenden Zahl von Einwanderern aus anderen Teilen Lesothos. Die nahe gelegenen Caledon-River-Schluchten sind eine Touristenattraktion.",
+      hu: "Mpharane egy város Lesotho nyugati részén, a Maseru körzetben, a fővárostól mintegy 30 km-re délkeletre. Körülbelül 1500 méter magasan fekszik a Mohokare (Caledon) folyó völgyében. A város mezőgazdasági központ, főként kukorica- és zöldségtermesztéssel. Mpharane-ban több általános iskola és egy középiskola található. A lakosság vegyes, egyre több bevándorlóval Lesotho más részeiből. A közeli Caledon-folyó szurdokai turisztikai látványosságok.",
+      ro: "Mpharane este un oraș în districtul Maseru din vestul Lesotho, la aproximativ 30 km sud-est de capitală. Se află la o altitudine de aproximativ 1.500 de metri, în valea râului Mohokare (Caledon). Orașul este un centru agricol, cu accent pe cultivarea porumbului și legumelor. Mpharane are mai multe școli primare și o școală secundară. Populația este mixtă, cu un număr tot mai mare de imigranți din alte părți ale Lesotho. Cheile râului Caledon din apropiere sunt o atracție turistică.",
+      en: "Mpharane is a town in the Maseru District of western Lesotho, about 30 km southeast of the capital. It lies at about 1,500 meters elevation in the valley of the Mohokare (Caledon) River. The town is an agricultural center, focusing on maize and vegetable cultivation. Mpharane has several primary schools and one secondary school. The population is mixed, with a growing number of migrants from other parts of Lesotho. The nearby Caledon River gorges are a tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.500 Meter", "Entfernung von Maseru: 30 km südöstlich", "Distrikt: Maseru", "Fluss: Mohokare (Caledon)", "Hauptanbau: Mais, Gemüse", "Tourismus: Caledon-Schluchten"],
+      hu: ["Magasság: kb. 1500 méter", "Maserutól délkeletre: 30 km", "Körzet: Maseru", "Folyó: Mohokare (Caledon)", "Fő termények: kukorica, zöldség", "Turizmus: Caledon-szurdokok"],
+      ro: ["Altitudine: aproximativ 1.500 m", "Distanța față de Maseru: 30 km sud-est", "District: Maseru", "Râu: Mohokare (Caledon)", "Culturi principale: porumb, legume", "Atracție turistică: Cheile Caledon"],
+      en: ["Elevation: about 1,500 meters", "Distance from Maseru: 30 km southeast", "District: Maseru", "River: Mohokare (Caledon)", "Main crops: maize, vegetables", "Tourist attraction: Caledon gorges"],
+    },
   },
   {
     id: "lesotho-likoeneng-cities-v2",
     type: "village",
     name: { de: "Likoeneng", hu: "Likoeneng", ro: "Likoeneng", en: "Likoeneng" },
-    coordinates: { lat: -28.95, lng: 28.22 },
+    coords: [28.22, -28.95],
     description: {
       de: "Likoeneng ist eine Siedlung im nördlichen Distrikt Leribe, die sich durch ihre Lage am Hlotse-Fluss auszeichnet. Der Ort ist ein Zentrum für lokale Viehzucht und bildet einen Knotenpunkt für Transportwege.",
       hu: "Likoeneng egy település az északi Leribe körzetben, amely a Hlotse-folyó menti fekvésével tűnik ki. A helyi állattenyésztés központja, és a vidéki közlekedési utak egyik csomópontja.",
@@ -1772,12 +1868,24 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["On the Hlotse River", "Leribe District", "Livestock farming center", "Northern Highlands"],
     },
     imageHint: "Likoeneng Lesotho river and hills",
+    descriptionAdvanced: {
+      de: "Likoeneng ist eine Siedlung im Distrikt Berea in Lesotho, etwa 50 km nordöstlich von Maseru. Sie liegt auf einer Höhe von etwa 1.800 Metern in einer bergigen Region. Die Wirtschaft basiert auf Landwirtschaft, vor allem Mais- und Weizenanbau. Likoeneng hat eine Gesundheitsstation und eine Grundschule. Die Gemeinde ist überwiegend protestantisch. Die Umgebung ist bekannt für ihre Basotho-Hüte, die traditionell aus Gras geflochten werden. Wanderungen in den umliegenden Hügeln sind beliebt.",
+      hu: "Likoeneng egy település Lesothóban, a Berea körzetben, Maserutól mintegy 50 km-re északkeletre. Körülbelül 1800 méter magasan fekszik egy hegyvidéki régióban. A gazdaság a mezőgazdaságon alapul, főként kukorica- és búzatermesztésen. Likoenengben egészségügyi állomás és általános iskola található. A község túlnyomórészt protestáns. A környék híres a basotho kalapokról, amelyeket hagyományosan fűből fonnak. A környező dombokon tett túrák népszerűek.",
+      ro: "Likoeneng este o așezare în districtul Berea din Lesotho, la aproximativ 50 km nord-est de Maseru. Se află la o altitudine de aproximativ 1.800 de metri, într-o regiune muntoasă. Economia se bazează pe agricultură, în principal cultivarea porumbului și grâului. Likoeneng are un post de sănătate și o școală primară. Comunitatea este predominant protestantă. Zona este cunoscută pentru pălăriile basotho, împletite tradițional din iarbă. Drumețiile pe dealurile din jur sunt populare.",
+      en: "Likoeneng is a settlement in the Berea District of Lesotho, about 50 km northeast of Maseru. It lies at about 1,800 meters elevation in a mountainous region. The economy is based on agriculture, mainly maize and wheat cultivation. Likoeneng has a health post and a primary school. The community is predominantly Protestant. The area is known for Basotho hats, traditionally woven from grass. Hiking in the surrounding hills is popular.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.800 Meter", "Entfernung von Maseru: 50 km nordöstlich", "Distrikt: Berea", "Hauptanbau: Mais, Weizen", "Einrichtungen: Gesundheitsstation, Grundschule", "Kultur: traditionelle Basotho-Hüte"],
+      hu: ["Magasság: kb. 1800 méter", "Maserutól északkeletre: 50 km", "Körzet: Berea", "Fő termények: kukorica, búza", "Intézmények: egészségügyi állomás, általános iskola", "Kultúra: basotho kalapok"],
+      ro: ["Altitudine: aproximativ 1.800 m", "Distanța față de Maseru: 50 km nord-est", "District: Berea", "Culturi principale: porumb, grâu", "Facilități: post de sănătate, școală primară", "Cultură: pălării basotho"],
+      en: ["Elevation: about 1,800 meters", "Distance from Maseru: 50 km northeast", "District: Berea", "Main crops: maize, wheat", "Facilities: health post, primary school", "Cultural item: Basotho hats"],
+    },
   },
   {
     id: "lesotho-ketane-cities-v2",
     type: "village",
     name: { de: "Ketane", hu: "Ketane", ro: "Ketane", en: "Ketane" },
-    coordinates: { lat: -29.95, lng: 27.95 },
+    coords: [27.95, -29.95],
     description: {
       de: "Ketane liegt isoliert in den Bergen des Mohale's Hoek Distrikts und ist berühmt für den nahegelegenen Ketane-Wasserfall. Die Siedlung bewahrt eine sehr traditionelle Lebensweise der Basotho-Kultur.",
       hu: "Ketane elszigetelten fekszik a Mohale's Hoek körzet hegyei között, és a közeli Ketane-vízesésről híres. A település híven őrzi a basotho kultúra hagyományos életmódját.",
@@ -1791,5 +1899,17 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       en: ["Ketane Waterfall (122m)", "Mohale's Hoek District", "Accessible only by trails", "Traditional settlement"],
     },
     imageHint: "Ketane Waterfall Lesotho",
+    descriptionAdvanced: {
+      de: "Ketane ist eine Siedlung im Distrikt Mohale's Hoek im Süden Lesothos. Sie liegt im Tal des Senqu-Flusses (Oranje), auf einer Höhe von etwa 1.400 Metern. Die Region ist relativ flach und landwirtschaftlich geprägt, mit Schwerpunkt auf Mais und Sorghum. Ketane hat eine Grundschule und eine Kirche. Die Bevölkerung ist hauptsächlich katholisch. Die Gegend ist bekannt für ihre traditionellen Tänze und Musik. Der nahe gelegene Senqu-Fluss bietet Möglichkeiten zum Angeln und Kajakfahren.",
+      hu: "Ketane egy település Dél-Lesothóban, a Mohale's Hoek körzetben. A Senqu (Oranje) folyó völgyében fekszik, körülbelül 1400 méteres tengerszint feletti magasságban. A régió viszonylag sík és mezőgazdasági jellegű, főként kukorica- és ciroktermesztéssel. Ketanéban általános iskola és templom található. A lakosság főleg katolikus. A környék híres hagyományos táncairól és zenéjéről. A közeli Senqu folyó lehetőséget kínál horgászatra és kajakozásra.",
+      ro: "Ketane este o așezare în districtul Mohale's Hoek din sudul Lesotho. Se află în valea râului Senqu (Orange), la o altitudine de aproximativ 1.400 de metri. Regiunea este relativ plată și agricolă, cu accent pe porumb și sorg. Ketane are o școală primară și o biserică. Populația este predominant catolică. Zona este cunoscută pentru dansurile și muzica tradițională. Râul Senqu din apropiere oferă oportunități pentru pescuit și caiac.",
+      en: "Ketane is a settlement in the Mohale's Hoek District of southern Lesotho. It lies in the valley of the Senqu (Orange) River at about 1,400 meters elevation. The region is relatively flat and agricultural, focusing on maize and sorghum. Ketane has a primary school and a church. The population is predominantly Catholic. The area is known for traditional dances and music. The nearby Senqu River offers opportunities for fishing and kayaking.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.400 Meter", "Distrikt: Mohale's Hoek", "Fluss: Senqu (Oranje)", "Anbau: Mais, Sorghum", "Einrichtungen: Grundschule, Kirche", "Aktivitäten: Angeln, Kajakfahren"],
+      hu: ["Magasság: kb. 1400 méter", "Körzet: Mohale's Hoek", "Folyó: Senqu (Oranje)", "Termények: kukorica, cirok", "Intézmények: általános iskola, templom", "Szabadidő: horgászat, kajak"],
+      ro: ["Altitudine: aproximativ 1.400 m", "District: Mohale's Hoek", "Râu: Senqu (Orange)", "Culturi: porumb, sorg", "Facilități: școală primară, biserică", "Activități: pescuit, caiac"],
+      en: ["Elevation: about 1,400 meters", "District: Mohale's Hoek", "River: Senqu (Orange)", "Crops: maize, sorghum", "Facilities: primary school, church", "Activities: fishing, kayaking"],
+    },
   }
 ];

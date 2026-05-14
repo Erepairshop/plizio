@@ -5,7 +5,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-adrar-plateau-nature-v2",
     type: "mountain",
     name: { de: "Adrar-Plateau", hu: "Adrar-fennsík", ro: "Podișul Adrar", en: "Adrar Plateau" },
-    coordinates: { lat: 20.5, lng: -13.0 },
+    coords: [-13.0, 20.5],
     description: {
       de: "Das Adrar-Plateau ist eine weitläufige Sandstein-Hochebene im Westen der Sahara. Es beherbergt zahlreiche Schluchten und fossile Flussbetten.",
       hu: "Az Adrar-fennsík egy kiterjedt homokkő fennsík a Szahara nyugati részén. Számos kanyon és fosszilis folyómeder található rajta.",
@@ -24,7 +24,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-banc-darguin-coast-nature-v2",
     type: "park",
     name: { de: "Banc d'Arguin Küste", hu: "Banc d'Arguin part", ro: "Coasta Banc d'Arguin", en: "Banc d'Arguin Coast" },
-    coordinates: { lat: 20.2, lng: -16.3 },
+    coords: [-16.3, 20.2],
     description: {
       de: "Der Banc-d'Arguin-Nationalpark umfasst eine ausgedehnte Küstenregion am Atlantik. Er ist ein bedeutendes Überwinterungsgebiet für Zugvögel.",
       hu: "A Banc d'Arguin Nemzeti Park egy kiterjedt partvidéket ölel fel az Atlanti-óceán mentén. Jelentős telelőhely a vándormadarak számára.",
@@ -43,7 +43,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-guelta-deli-nature-v2",
     type: "lake",
     name: { de: "Guelta d'Eli", hu: "Guelta d'Eli", ro: "Guelta d'Eli", en: "Guelta d'Eli" },
-    coordinates: { lat: 18.53, lng: -11.95 },
+    coords: [-11.95, 18.53],
     description: {
       de: "Guelta d'Eli ist eine permanente Wasserstelle im Tagant-Plateau. Sie ist ein entscheidendes Überlebensreservoir für die lokale Fauna.",
       hu: "A Guelta d'Eli egy állandó vízlelőhely a Tagant-fennsíkon. Kritikus túlélési tartalék a helyi élővilág számára.",
@@ -62,7 +62,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-el-beyed-crater-nature-v2",
     type: "landmark",
     name: { de: "El-Beyed-Krater", hu: "El-Beyed-kráter", ro: "Craterul El-Beyed", en: "El-Beyed Crater" },
-    coordinates: { lat: 18.1, lng: -7.5 },
+    coords: [-7.5, 18.1],
     description: {
       de: "Der El-Beyed-Krater, auch als Tenoumer bekannt, ist ein fast kreisrunder Einschlagkrater in der Sahara. Er besitzt einen Durchmesser von etwa 1,9 Kilometern.",
       hu: "Az El-Beyed-kráter, más néven Tenoumer, egy majdnem kör alakú becsapódási kráter a Szaharában. Átmérője körülbelül 1,9 kilométer.",
@@ -81,7 +81,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dhar-tichitt-escarpment-nature-v2",
     type: "mountain",
     name: { de: "Dhar Tichitt Steilstufe", hu: "Dhar Tichitt meredély", ro: "Escarpamentul Dhar Tichitt", en: "Dhar Tichitt Escarpment" },
-    coordinates: { lat: 18.4, lng: -9.5 },
+    coords: [-9.5, 18.4],
     description: {
       de: "Die Dhar-Tichitt-Steilstufe bildet die südliche Grenze des Tagant-Plateaus. Sie ist durch ausgeprägte Erosionskanten gekennzeichnet.",
       hu: "A Dhar Tichitt meredély a Tagant-fennsík déli határát alkotja. Kifejezett eróziós peremek jellemzik.",
@@ -100,7 +100,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-ayoun-el-atrous-valley-nature-v2",
     type: "valley",
     name: { de: "Ayoun-el-Atrous Tal", hu: "Ayoun-el-Atrous völgy", ro: "Valea Ayoun el Atrous", en: "Ayoun el Atrous Valley" },
-    coordinates: { lat: 16.6, lng: -9.6 },
+    coords: [-9.6, 16.6],
     description: {
       de: "Das Tal bei Ayoun el Atrous ist eine flache Senke in der östlichen Hodh-Region. Es fungiert als Sammelbecken für periodische Regenfälle.",
       hu: "Az Ayoun el Atrous melletti völgy egy lapos mélyedés a keleti Hodh régióban. Az időszakos esőzések gyűjtőmedencéjeként szolgál.",
@@ -119,7 +119,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-terjit-oasis-gorge-nature-v2",
     type: "valley",
     name: { de: "Terjit Oasen-Schlucht", hu: "Terjit oázis-kanyon", ro: "Cheile Oazei Terjit", en: "Terjit Oasis Gorge" },
-    coordinates: { lat: 20.3, lng: -13.0 },
+    coords: [-13.0, 20.3],
     description: {
       de: "Die Terjit-Schlucht beherbergt eine üppige Oase im Adrar-Gebirge. Sie wird durch natürliche Quellen ganzjährig mit Wasser versorgt.",
       hu: "A Terjit-kanyon egy buja oázist rejt az Adrar-hegységben. Természetes források egész évben vízzel látják el.",
@@ -138,7 +138,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-cap-tafarit-nature-v2",
     type: "landmark",
     name: { de: "Cap Tafarit", hu: "Cap Tafarit", ro: "Cap Tafarit", en: "Cap Tafarit" },
-    coordinates: { lat: 19.8, lng: -16.4 },
+    coords: [-16.4, 19.8],
     description: {
       de: "Cap Tafarit ist eine markante Landzunge entlang der Atlantikküste im Banc-d'Arguin-Nationalpark. Die Küste ist hier durch Sanddünen geprägt.",
       hu: "A Cap Tafarit egy jellegzetes földnyelv az Atlanti-óceán partján, a Banc d'Arguin Nemzeti Parkban. A partot itt homokdűnék jellemzik.",
@@ -157,7 +157,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-ouane-lake-nature-v2",
     type: "lake",
     name: { de: "Lac Ouane", hu: "Ouane-tó", ro: "Lacul Ouane", en: "Lake Ouane" },
-    coordinates: { lat: 18.3, lng: -11.4 },
+    coords: [-11.4, 18.3],
     description: {
       de: "Lac Ouane ist ein saisonales Gewässer im Tagant-Plateau. Es füllt sich nur nach intensiven Niederschlägen in der Regenzeit.",
       hu: "A Lac Ouane egy időszakos vízfelület a Tagant-fennsíkon. Csak az esős évszak intenzív csapadéka után telik meg.",
@@ -176,7 +176,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-idjil-mountain-nature-v2",
     type: "mountain",
     name: { de: "Kedia d'Idjil", hu: "Kedia d'Idjil", ro: "Kedia d'Idjil", en: "Kedia d'Idjil" },
-    coordinates: { lat: 22.6, lng: -12.7 },
+    coords: [-12.7, 22.6],
     description: {
       de: "Kedia d'Idjil ist ein isolierter Bergzug in der Nähe von Zouérat. Er ist bekannt für seine reichen Eisenerzvorkommen.",
       hu: "A Kedia d'Idjil egy izolált hegyvonulat Zouérat közelében. Gazdag vasérclelőhelyeiről ismert.",
@@ -195,7 +195,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-el-abiadh-nature-v2",
     type: "river",
     name: { de: "Oued el Abiadh", hu: "Oued el Abiadh", ro: "Oued el Abiadh", en: "Oued el Abiadh" },
-    coordinates: { lat: 20.4, lng: -13.1 },
+    coords: [-13.1, 20.4],
     description: {
       de: "Oued el Abiadh ist ein fossiles Flussbett im Adrar-Plateau. Es zeichnet sich durch seine hellen Sandablagerungen aus.",
       hu: "Az Oued el Abiadh egy fosszilis folyómeder az Adrar-fennsíkon. Világos homoklerakódásairól ismert.",
@@ -214,7 +214,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-erg-ouarane-nature-v2",
     type: "landmark",
     name: { de: "Erg Ouarane", hu: "Erg Ouarane", ro: "Erg Ouarane", en: "Erg Ouarane" },
-    coordinates: { lat: 19.5, lng: -10.0 },
+    coords: [-10.0, 19.5],
     description: {
       de: "Das Erg Ouarane ist eine ausgedehnte Sandwüste im Landesinneren Mauretaniens. Es ist durch hohe Sicheldünen charakterisiert.",
       hu: "Az Erg Ouarane egy kiterjedt homoksivatag Mauritánia belsejében. Magas sarlódűnék jellemzik.",
@@ -233,7 +233,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dhar-chinguetti-nature-v2",
     type: "mountain",
     name: { de: "Dhar Chinguetti", hu: "Dhar Chinguetti", ro: "Dhar Chinguetti", en: "Dhar Chinguetti" },
-    coordinates: { lat: 20.4, lng: -12.5 },
+    coords: [-12.5, 20.4],
     description: {
       de: "Dhar Chinguetti ist eine Felsformation nahe der historischen Stadt Chinguetti. Sie bietet einen natürlichen Schutz gegen wandernde Sanddünen.",
       hu: "A Dhar Chinguetti egy sziklaformáció a történelmi Chinguetti város közelében. Természetes védelmet nyújt a vándorló homokdűnék ellen.",
@@ -252,7 +252,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-sebkha-el-driaya-nature-v2",
     type: "lake",
     name: { de: "Sebkha el Driaya", hu: "Sebkha el Driaya", ro: "Sebkha el Driaya", en: "Sebkha el Driaya" },
-    coordinates: { lat: 21.3, lng: -14.1 },
+    coords: [-14.1, 21.3],
     description: {
       de: "Sebkha el Driaya ist eine Salzpfanne in einem abflusslosen Becken. Sie entsteht durch die Verdunstung von oberflächennahem Wasser.",
       hu: "A Sebkha el Driaya egy sós lapály egy lefolyástalan medencében. A felszín közeli víz elpárolgásával keletkezik.",
@@ -271,7 +271,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-el-abiod-valley-nature-v2",
     type: "valley",
     name: { de: "Oued el Abiod Tal", hu: "Oued el Abiod völgy", ro: "Valea Oued el Abiod", en: "Oued el Abiod Valley" },
-    coordinates: { lat: 20.35, lng: -13.05 },
+    coords: [-13.05, 20.35],
     description: {
       de: "Das Tal Oued el Abiod liegt zentral im Adrar. Es ist für seine Palmenoasen bekannt, die in den tieferen Lagen liegen.",
       hu: "Az Oued el Abiod völgy az Adrar központjában fekszik. Pálmaoázisairól ismert, amelyek az alacsonyabb szinteken találhatók.",
@@ -290,7 +290,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-tidjikja-gorge-nature-v2",
     type: "valley",
     name: { de: "Tidjikja Schlucht", hu: "Tidjikja-kanyon", ro: "Cheile Tidjikja", en: "Tidjikja Gorge" },
-    coordinates: { lat: 18.6, lng: -11.4 },
+    coords: [-11.4, 18.6],
     description: {
       de: "Die Tidjikja-Schlucht schneidet tief in das Tagant-Plateau ein. Sie bildet einen wichtigen Zugangsweg für nomadische Gruppen.",
       hu: "A Tidjikja-kanyon mélyen bevágódik a Tagant-fennsíkba. Fontos átjárót képez a nomád csoportok számára.",
@@ -309,7 +309,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-oualata-nature-v2",
     type: "river",
     name: { de: "Oued Oualata", hu: "Oued Oualata", ro: "Oued Oualata", en: "Oued Oualata" },
-    coordinates: { lat: 16.6, lng: -7.0 },
+    coords: [-7.0, 16.6],
     description: {
       de: "Oued Oualata ist ein saisonaler Wasserlauf nahe der Stadt Oualata. Er unterstützt die lokale Vegetation in einer ansonsten ariden Zone.",
       hu: "Az Oued Oualata egy időszakos vízfolyás Oualata város közelében. Támogatja a helyi növényzetet egy egyébként száraz zónában.",
@@ -328,7 +328,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dune-de-azefal-nature-v2",
     type: "landmark",
     name: { de: "Azefal-Düne", hu: "Azefal-dűne", ro: "Duna Azefal", en: "Azefal Dune" },
-    coordinates: { lat: 19.4, lng: -15.8 },
+    coords: [-15.8, 19.4],
     description: {
       de: "Die Azefal-Düne ist eine markante Erhebung im westlichen Mauretanien. Sie liegt am Rande der Küstenregion und dient als Orientierungspunkt.",
       hu: "Az Azefal-dűne egy jellegzetes magaslat Nyugat-Mauritániában. A partvidék szélén található, és tájékozódási pontként szolgál.",
@@ -347,7 +347,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-chegga-nature-v2",
     type: "river",
     name: { de: "Oued Chegga", hu: "Oued Chegga", ro: "Oued Chegga", en: "Oued Chegga" },
-    coordinates: { lat: 22.8, lng: -6.5 },
+    coords: [-6.5, 22.8],
     description: {
       de: "Oued Chegga ist ein langer Wüstenflusslauf im extrem trockenen Norden Mauretaniens. Er zeichnet sich durch seine geologische Isolation aus.",
       hu: "Az Oued Chegga egy hosszú sivatagi folyómeder Mauritánia rendkívül száraz északi részén. Geológiai elszigeteltsége jellemzi.",
@@ -366,7 +366,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-erg-in-chich-nature-v2",
     type: "landmark",
     name: { de: "Erg In-Chich", hu: "Erg In-Chich", ro: "Erg In-Chich", en: "Erg In-Chich" },
-    coordinates: { lat: 23.0, lng: -5.0 },
+    coords: [-5.0, 23.0],
     description: {
       de: "Das Erg In-Chich ist ein Dünenfeld im nördlichen Grenzgebiet. Es ist durch weite, unberührte Sandflächen geprägt.",
       hu: "Az Erg In-Chich egy dűnemező az északi határvidéken. Széles, érintetlen homokfelületek jellemzik.",
@@ -385,7 +385,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-tagant-gorge-nature-v2",
     type: "valley",
     name: { de: "Tagant Schlucht", hu: "Tagant-kanyon", ro: "Cheile Tagant", en: "Tagant Gorge" },
-    coordinates: { lat: 18.2, lng: -11.8 },
+    coords: [-11.8, 18.2],
     description: {
       de: "Die Tagant-Schlucht durchquert die Hochebene. Sie ist ein Rückzugsgebiet für die lokale Vegetation in der ansonsten kargen Region.",
       hu: "A Tagant-kanyon átszeli a fennsíkot. Menedékhely a helyi növényzet számára az egyébként kopár régióban.",
@@ -404,7 +404,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dhar-oawalata-nature-v2",
     type: "mountain",
     name: { de: "Dhar Oualata", hu: "Dhar Oualata", ro: "Dhar Oualata", en: "Dhar Oualata" },
-    coordinates: { lat: 16.6, lng: -7.0 },
+    coords: [-7.0, 16.6],
     description: {
       de: "Dhar Oualata ist ein markanter Felszug im Südosten Mauretaniens. Er bildet den natürlichen Abschluss der Wüstenlandschaft vor der Sahelzone.",
       hu: "A Dhar Oualata egy jellegzetes sziklavonulat Mauritánia délkeleti részén. A sivatagi táj természetes lezárását alkotja a Száhel-övezet előtt.",
@@ -423,7 +423,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-el-mya-nature-v2",
     type: "river",
     name: { de: "Oued el Mya", hu: "Oued el Mya", ro: "Oued el Mya", en: "Oued el Mya" },
-    coordinates: { lat: 19.8, lng: -13.5 },
+    coords: [-13.5, 19.8],
     description: {
       de: "Oued el Mya ist ein Trockental, das sich durch Teile des Adrar-Plateaus zieht. Es dient als Transportweg für Sand und Sedimente.",
       hu: "Az Oued el Mya egy száraz völgy, amely az Adrar-fennsík egyes részeit szeli át. Homok és üledék szállítására szolgál.",
@@ -442,7 +442,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-sebkha-de-tidjikja-nature-v2",
     type: "lake",
     name: { de: "Sebkha de Tidjikja", hu: "Sebkha de Tidjikja", ro: "Sebkha de Tidjikja", en: "Sebkha de Tidjikja" },
-    coordinates: { lat: 18.7, lng: -11.5 },
+    coords: [-11.5, 18.7],
     description: {
       de: "Die Sebkha de Tidjikja ist eine ausgedehnte Salzpfanne im Tagant-Gebiet. Sie spiegelt die geologischen Prozesse des Beckens wider.",
       hu: "A Sebkha de Tidjikja egy kiterjedt sós lapály a Tagant területén. A medence geológiai folyamatait tükrözi.",
@@ -461,7 +461,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-erg-de-la-guelta-nature-v2",
     type: "landmark",
     name: { de: "Erg de la Guelta", hu: "Erg de la Guelta", ro: "Erg de la Guelta", en: "Erg de la Guelta" },
-    coordinates: { lat: 18.55, lng: -11.9 },
+    coords: [-11.9, 18.55],
     description: {
       de: "Das Erg de la Guelta umgibt die bekannte Guelta d'Eli. Die Dünen grenzen direkt an die Felsformationen des Tagant-Plateaus.",
       hu: "Az Erg de la Guelta körülveszi a jól ismert Guelta d'Eli-t. A dűnék közvetlenül a Tagant-fennsík sziklaformációival határosak.",
@@ -480,7 +480,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dune-de-terjit-nature-v2",
     type: "landmark",
     name: { de: "Terjit-Düne", hu: "Terjit-dűne", ro: "Duna Terjit", en: "Terjit Dune" },
-    coordinates: { lat: 20.32, lng: -12.98 },
+    coords: [-12.98, 20.32],
     description: {
       de: "Die Terjit-Düne ist eine große Wanderdüne in der Nähe der Terjit-Oase. Sie überragt das Schluchtsystem und bildet ein Kontrastbild.",
       hu: "A Terjit-dűne egy nagy vándordűne a Terjit-oázis közelében. Kiemelkedik a kanyonrendszer fölé, és kontrasztot képez.",
@@ -499,7 +499,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-oued-taoudenni-nature-v2",
     type: "river",
     name: { de: "Oued Taoudenni", hu: "Oued Taoudenni", ro: "Oued Taoudenni", en: "Oued Taoudenni" },
-    coordinates: { lat: 22.5, lng: -4.0 },
+    coords: [-4.0, 22.5],
     description: {
       de: "Oued Taoudenni ist ein riesiges fossiles Flusssystem in der nördlichen Wüste. Es ist ein Überbleibsel ehemaliger feuchterer Klimaperioden.",
       hu: "Az Oued Taoudenni egy hatalmas fosszilis folyórendszer az északi sivatagban. A korábbi, csapadékosabb klímaidőszakok maradványa.",
@@ -518,7 +518,7 @@ export const mauritaniaNatureV2: POI[] = [
     id: "mauritania-dune-du-cap-blanc-nature-v2",
     type: "landmark",
     name: { de: "Cap Blanc Düne", hu: "Cap Blanc dűne", ro: "Duna Cap Blanc", en: "Cap Blanc Dune" },
-    coordinates: { lat: 20.8, lng: -17.0 },
+    coords: [-17.0, 20.8],
     description: {
       de: "Die Düne am Cap Blanc markiert die nordwestliche Spitze Mauretaniens am Atlantik. Sie ist dem direkten Wind des Ozeans ausgesetzt.",
       hu: "A Cap Blanc-dűne Mauritánia északnyugati csücskét jelöli az Atlanti-óceánon. Ki van téve az óceán közvetlen szeleinek.",

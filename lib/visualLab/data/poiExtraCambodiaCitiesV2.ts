@@ -638,7 +638,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-angkor-borei-cities-v2",
     type: "town",
     name: { de: "Angkor Borei", hu: "Angkor Borei", ro: "Angkor Borei", en: "Angkor Borei" },
-    coordinates: { lat: 10.9856, lng: 104.9781 },
+    coords: [104.9781, 10.9856],
     description: {
       de: "Angkor Borei ist eine historische Stadt in der Provinz Takeo, die als eine der ältesten Siedlungen Kambodschas gilt. Sie war ein wichtiges Zentrum der Funan-Zivilisation.",
       hu: "Angkor Borei egy történelmi város Takeo tartományban, amelyet Kambodzsa egyik legrégebbi településeként tartanak számon. A Funan-civilizáció fontos központja volt.",
@@ -669,7 +669,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-anlong-veng-cities-v2",
     type: "town",
     name: { de: "Anlong Veng", hu: "Anlong Veng", ro: "Anlong Veng", en: "Anlong Veng" },
-    coordinates: { lat: 14.3411, lng: 104.1033 },
+    coords: [104.1033, 14.3411],
     description: {
       de: "Anlong Veng liegt in den Dangrek-Bergen und ist historisch als letzte Hochburg der Roten Khmer bekannt. Heute ist es ein Ort für Geschichtstourismus.",
       hu: "Anlong Veng a Dangrek-hegységben található, és történelmileg a Vörös Khmer utolsó bástyájaként ismert. Ma a történelmi turizmus egyik helyszíne.",
@@ -700,7 +700,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-mongkol-borey-cities-v2",
     type: "town",
     name: { de: "Mongkol Borey", hu: "Mongkol Borey", ro: "Mongkol Borey", en: "Mongkol Borey" },
-    coordinates: { lat: 13.5414, lng: 102.9731 },
+    coords: [102.9731, 13.5414],
     description: {
       de: "Mongkol Borey ist eine bevölkerungsreiche Stadt in der Provinz Banteay Meanchey. Sie dient als wichtiges landwirtschaftliches Zentrum im Nordwesten Kambodschas.",
       hu: "Mongkol Borey egy népes város Banteay Meanchey tartományban. Fontos mezőgazdasági központként szolgál Kambodzsa északnyugati részén.",
@@ -731,7 +731,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-sre-ambel-cities-v2",
     type: "town",
     name: { de: "Sre Ambel", hu: "Sre Ambel", ro: "Sre Ambel", en: "Sre Ambel" },
-    coordinates: { lat: 11.1147, lng: 103.7333 },
+    coords: [103.7333, 11.1147],
     description: {
       de: "Sre Ambel ist eine Küstenstadt in der Provinz Koh Kong, die für ihre Fischerei und Landwirtschaft bekannt ist. Sie liegt an einer malerischen Bucht am Golf von Thailand.",
       hu: "Sre Ambel egy tengerparti város Koh Kong tartományban, amely halászatáról és mezőgazdaságáról ismert. A Thai-öböl egy festői öblében fekszik.",
@@ -762,7 +762,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-skun-cities-v2",
     type: "town",
     name: { de: "Skun", hu: "Skun", ro: "Skun", en: "Skun" },
-    coordinates: { lat: 12.0528, lng: 104.9333 },
+    coords: [104.9333, 12.0528],
     description: {
       de: "Skun ist eine geschäftige Marktstadt in der Provinz Kampong Cham. Sie ist weltweit berühmt für ihre kulinarische Spezialität: frittierte Vogelspinnen.",
       hu: "Skun egy forgalmas piaci város Kampong Cham tartományban. Világszerte híres kulináris különlegességéről: a sült madárpókról.",
@@ -793,7 +793,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-oudong-cities-v2",
     type: "town",
     name: { de: "Oudong", hu: "Oudong", ro: "Oudong", en: "Oudong" },
-    coordinates: { lat: 11.8242, lng: 104.7506 },
+    coords: [104.7506, 11.8242],
     description: {
       de: "Oudong war über zwei Jahrhunderte lang die Hauptstadt Kambodschas. Die Stadt liegt am Fuße eines Hügels, der von zahlreichen königlichen Stupas gekrönt wird.",
       hu: "Oudong több mint két évszázadon át volt Kambodzsa fővárosa. A város egy domb lábánál fekszik, amelyet számos királyi sztúpa koronáz meg.",
@@ -824,7 +824,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-memot-cities-v2",
     type: "town",
     name: { de: "Memot", hu: "Memot", ro: "Memot", en: "Memot" },
-    coordinates: { lat: 11.8319, lng: 106.1114 },
+    coords: [106.1114, 11.8319],
     description: {
       de: "Memot ist ein wichtiges landwirtschaftliches Zentrum in der Provinz Tboung Khmum. Die Region ist bekannt für ihre Kautschukplantagen und archäologischen Fundstätten.",
       hu: "Memot fontos mezőgazdasági központ Tboung Khmum tartományban. A régió gumiültetvényeiről és régészeti lelőhelyeiről ismert.",
@@ -855,7 +855,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-chhlong-cities-v2",
     type: "town",
     name: { de: "Chhlong", hu: "Chhlong", ro: "Chhlong", en: "Chhlong" },
-    coordinates: { lat: 12.2417, lng: 105.9614 },
+    coords: [105.9614, 12.2417],
     description: {
       de: "Chhlong ist eine malerische Stadt am Mekong in der Provinz Kratie. Sie ist bekannt für ihre gut erhaltene französische Kolonialarchitektur.",
       hu: "Chhlong egy festői város a Mekong partján, Kratie tartományban. Jól megőrzött francia gyarmati építészetéről ismert.",
@@ -886,7 +886,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-sambour-cities-v2",
     type: "town",
     name: { de: "Sambour", hu: "Sambour", ro: "Sambour", en: "Sambour" },
-    coordinates: { lat: 12.7889, lng: 105.9367 },
+    coords: [105.9367, 12.7889],
     description: {
       de: "Sambour liegt nördlich von Kratie am Mekong. Es war einst die Hauptstadt Sambhupura aus der Chenla-Zeit und beherbergt heute die berühmte 100-Säulen-Pagode.",
       hu: "Sambour Kratie-tól északra, a Mekong partján fekszik. Valamikor a Chenla-korszak Sambhupura fővárosa volt, ma a híres 100 oszlopos pagodának ad otthont.",
@@ -917,7 +917,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-baray-cities-v2",
     type: "town",
     name: { de: "Baray", hu: "Baray", ro: "Baray", en: "Baray" },
-    coordinates: { lat: 12.4167, lng: 105.0167 },
+    coords: [105.0167, 12.4167],
     description: {
       de: "Baray ist eine wichtige Marktstadt in der Provinz Kampong Thom. Sie liegt strategisch günstig an der Nationalstraße 6 zwischen Phnom Penh und Siem Reap.",
       hu: "Baray egy fontos piaci város Kampong Thom tartományban. Stratégiailag a 6-os főút mentén fekszik Phnom Penh és Siem Reap között.",
@@ -948,7 +948,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-saang-cities-v2",
     type: "town",
     name: { de: "Saang", hu: "Saang", ro: "Saang", en: "Saang" },
-    coordinates: { lat: 11.3667, lng: 105.0139 },
+    coords: [105.0139, 11.3667],
     description: {
       de: "Saang ist ein bevölkerungsreiches Zentrum in der Provinz Kandal am Bassac-Fluss. Die Stadt ist für ihre fruchtbaren Böden und intensive Landwirtschaft bekannt.",
       hu: "Saang egy népes központ Kandal tartományban, a Bassac-folyó mentén. A város termékeny földjeiről és intenzív mezőgazdaságáról ismert.",
@@ -979,7 +979,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-koh-thom-cities-v2",
     type: "town",
     name: { de: "Koh Thom", hu: "Koh Thom", ro: "Koh Thom", en: "Koh Thom" },
-    coordinates: { lat: 11.1278, lng: 105.0389 },
+    coords: [105.0389, 11.1278],
     description: {
       de: "Koh Thom liegt im Süden der Provinz Kandal nahe der vietnamesischen Grenze. Die Stadt erstreckt sich entlang der Ufer des Bassac-Flusses.",
       hu: "Koh Thom Kandal tartomány déli részén, a vietnami határ közelében fekszik. A város a Bassac-folyó partja mentén terül el.",
@@ -1010,7 +1010,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-kien-svay-cities-v2",
     type: "town",
     name: { de: "Kien Svay", hu: "Kien Svay", ro: "Kien Svay", en: "Kien Svay" },
-    coordinates: { lat: 11.4917, lng: 105.0417 },
+    coords: [105.0417, 11.4917],
     description: {
       de: "Kien Svay ist ein beliebtes Ausflugsziel südöstlich von Phnom Penh. Die Stadt ist bekannt für ihre schwimmenden Restaurants und entspannte Atmosphäre am Fluss.",
       hu: "Kien Svay népszerű kirándulóhely Phnom Penhtől délkeletre. A város úszó éttermeiről és a folyóparti nyugodt hangulatáról ismert.",
@@ -1041,7 +1041,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-ponhea-lueu-cities-v2",
     type: "town",
     name: { de: "Ponhea Lueu", hu: "Ponhea Lueu", ro: "Ponhea Lueu", en: "Ponhea Lueu" },
-    coordinates: { lat: 11.7528, lng: 104.8111 },
+    coords: [104.8111, 11.7528],
     description: {
       de: "Ponhea Lueu liegt nördlich von Phnom Penh am Tonle Sap Fluss. Die Stadt hat eine lange Geschichte als königliches Siedlungsgebiet nahe der alten Hauptstadt Oudong.",
       hu: "Ponhea Lueu Phnom Penhtől északra, a Tonle Sap-folyó mentén fekszik. A város hosszú múltra tekint vissza királyi településként az ősi főváros, Oudong közelében.",
@@ -1072,7 +1072,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-lovea-aem-cities-v2",
     type: "town",
     name: { de: "Lovea Aem", hu: "Lovea Aem", ro: "Lovea Aem", en: "Lovea Aem" },
-    coordinates: { lat: 11.5444, lng: 104.9833 },
+    coords: [104.9833, 11.5444],
     description: {
       de: "Lovea Aem liegt direkt gegenüber von Phnom Penh auf der anderen Seite des Mekong. Die Stadt ist ein aufstrebendes Vorstadtzentrum mit ländlichem Charakter.",
       hu: "Lovea Aem közvetlenül Phnom Penhtel szemben, a Mekong túlsó partján fekszik. A város egy fejlődő külvárosi központ, vidéki jelleggel.",
@@ -1103,7 +1103,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-peam-ro-cities-v2",
     type: "town",
     name: { de: "Peam Ro", hu: "Peam Ro", ro: "Peam Ro", en: "Peam Ro" },
-    coordinates: { lat: 11.2722, lng: 105.2139 },
+    coords: [105.2139, 11.2722],
     description: {
       de: "Peam Ro ist ein wichtiger Knotenpunkt in der Provinz Prey Veng. Die Stadt liegt an der Mündung eines Nebenflusses in den Mekong.",
       hu: "Peam Ro egy fontos csomópont Prey Veng tartományban. A város egy mellékfolyó Mekongba való torkolatánál fekszik.",
@@ -1134,7 +1134,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-kamchay-mear-cities-v2",
     type: "town",
     name: { de: "Kamchay Mear", hu: "Kamchay Mear", ro: "Kamchay Mear", en: "Kamchay Mear" },
-    coordinates: { lat: 11.5972, lng: 105.4722 },
+    coords: [105.4722, 11.5972],
     description: {
       de: "Kamchay Mear ist eine Stadt im Osten der Provinz Prey Veng. Sie dient als administratives und wirtschaftliches Zentrum für die umliegende Agrarregion.",
       hu: "Kamchay Mear egy város Prey Veng tartomány keleti részén. Adminisztratív és gazdasági központként szolgál a környező mezőgazdasági régió számára.",
@@ -1165,7 +1165,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-mesang-cities-v2",
     type: "town",
     name: { de: "Mesang", hu: "Mesang", ro: "Mesang", en: "Mesang" },
-    coordinates: { lat: 11.5111, lng: 105.5667 },
+    coords: [105.5667, 11.5111],
     description: {
       de: "Mesang ist eine abgelegene Stadt in der Provinz Prey Veng, die für ihre traditionelle Lebensweise und weite Agrarflächen bekannt ist.",
       hu: "Mesang egy távoli város Prey Veng tartományban, amely hagyományos életmódjáról és hatalmas mezőgazdasági területeiről ismert.",
@@ -1196,7 +1196,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-romeas-haek-cities-v2",
     type: "town",
     name: { de: "Romeas Haek", hu: "Romeas Haek", ro: "Romeas Haek", en: "Romeas Haek" },
-    coordinates: { lat: 11.3361, lng: 105.7417 },
+    coords: [105.7417, 11.3361],
     description: {
       de: "Romeas Haek ist ein wichtiges regionales Zentrum in der Provinz Svay Rieng, nahe der Grenze zu Vietnam. Die Stadt ist von Reisfeldern und Teakholz-Plantagen umgeben.",
       hu: "Romeas Haek egy fontos regionális központ Svay Rieng tartományban, a vietnami határ közelében. A várost rizsföldek és teakfa-ültetvények veszik körül.",
@@ -1227,7 +1227,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-chantrea-cities-v2",
     type: "town",
     name: { de: "Chantrea", hu: "Chantrea", ro: "Chantrea", en: "Chantrea" },
-    coordinates: { lat: 11.0167, lng: 106.0111 },
+    coords: [106.0111, 11.0167],
     description: {
       de: "Chantrea liegt im südöstlichsten Zipfel Kambodschas in der Provinz Svay Rieng. Die Stadt ist stark vom grenzüberschreitenden Austausch mit Vietnam geprägt.",
       hu: "Chantrea Kambodzsa legdélkeletibb csücskében fekszik, Svay Rieng tartományban. A várost erősen meghatározza a Vietnammal való határmenti csereforgalom.",
@@ -1258,7 +1258,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-svay-teap-cities-v2",
     type: "town",
     name: { de: "Svay Teap", hu: "Svay Teap", ro: "Svay Teap", en: "Svay Teap" },
-    coordinates: { lat: 11.0833, lng: 105.9 },
+    coords: [105.9, 11.0833],
     description: {
       de: "Svay Teap ist eine strategisch gelegene Stadt an der Nationalstraße 1 in der Provinz Svay Rieng. Sie ist ein wichtiges Handelszentrum zwischen Phnom Penh und Ho-Chi-Minh-Stadt.",
       hu: "Svay Teap egy stratégiailag elhelyezkedő város az 1-es főút mentén, Svay Rieng tartományban. Fontos kereskedelmi központ Phnom Penh és Ho Si Minh-város között.",
@@ -1289,7 +1289,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-krakor-cities-v2",
     type: "town",
     name: { de: "Krakor", hu: "Krakor", ro: "Krakor", en: "Krakor" },
-    coordinates: { lat: 12.5333, lng: 104.1667 },
+    coords: [104.1667, 12.5333],
     description: {
       de: "Krakor ist eine Hafenstadt am Tonle Sap See in der Provinz Pursat. Sie ist vor allem für ihre schwimmenden Dörfer und die Fischereiindustrie bekannt.",
       hu: "Krakor egy kikötőváros a Tonle Sap-tó partján, Pursat tartományban. Elsősorban úszó falvairól és halászati iparáról ismert.",
@@ -1320,7 +1320,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-kandieng-cities-v2",
     type: "town",
     name: { de: "Kandieng", hu: "Kandieng", ro: "Kandieng", en: "Kandieng" },
-    coordinates: { lat: 12.5611, lng: 103.95 },
+    coords: [103.95, 12.5611],
     description: {
       de: "Kandieng ist eine Stadt in der Provinz Pursat, die für ihre Reisfelder und die Produktion von traditionellem Kunsthandwerk bekannt ist.",
       hu: "Kandieng egy város Pursat tartományban, amely rizsföldjeiről és hagyományos kézműves termékeiről ismert.",
@@ -1351,7 +1351,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-bakan-cities-v2",
     type: "town",
     name: { de: "Bakan", hu: "Bakan", ro: "Bakan", en: "Bakan" },
-    coordinates: { lat: 12.4361, lng: 103.7778 },
+    coords: [103.7778, 12.4361],
     description: {
       de: "Bakan ist eine Stadt in der Provinz Pursat, die als wichtiges landwirtschaftliches Zentrum dient. Sie liegt westlich der Provinzhauptstadt Pursat.",
       hu: "Bakan egy város Pursat tartományban, amely fontos mezőgazdasági központként szolgál. Pursat tartományi székhelyétől nyugatra fekszik.",
@@ -1382,7 +1382,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-moung-ruessei-cities-v2",
     type: "town",
     name: { de: "Moung Ruessei", hu: "Moung Ruessei", ro: "Moung Ruessei", en: "Moung Ruessei" },
-    coordinates: { lat: 12.8333, lng: 103.4417 },
+    coords: [103.4417, 12.8333],
     description: {
       de: "Moung Ruessei ist eine bevölkerungsreiche Stadt im Südosten der Provinz Battambang. Sie ist ein bedeutendes Handelszentrum für Reis und landwirtschaftliche Güter.",
       hu: "Moung Ruessei egy népes város Battambang tartomány délkeleti részén. Jelentős kereskedelmi központ a rizs és mezőgazdasági termékek számára.",
@@ -1413,7 +1413,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-thmar-koul-cities-v2",
     type: "town",
     name: { de: "Thmar Koul", hu: "Thmar Koul", ro: "Thmar Koul", en: "Thmar Koul" },
-    coordinates: { lat: 13.2667, lng: 103.05 },
+    coords: [103.05, 13.2667],
     description: {
       de: "Thmar Koul liegt nördlich der Stadt Battambang. Die Stadt ist das Zentrum eines der wichtigsten Reisanbaugebiete Kambodschas.",
       hu: "Thmar Koul Battambang városától északra fekszik. A város Kambodzsa egyik legfontosabb rizstermelő vidékének központja.",
@@ -1444,7 +1444,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-sangkae-cities-v2",
     type: "town",
     name: { de: "Sangkae", hu: "Sangkae", ro: "Sangkae", en: "Sangkae" },
-    coordinates: { lat: 13.1028, lng: 103.2417 },
+    coords: [103.2417, 13.1028],
     description: {
       de: "Sangkae liegt direkt am gleichnamigen Fluss in der Provinz Battambang. Die Stadt ist eng mit der Provinzhauptstadt verwachsen und besticht durch ihre Flussuferlandschaft.",
       hu: "Sangkae közvetlenül az azonos nevű folyó partján fekszik Battambang tartományban. A város szorosan összenőtt a tartományi székhellyel, és folyóparti tájával nyűgöz le.",
@@ -1475,7 +1475,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-samlout-cities-v2",
     type: "town",
     name: { de: "Samlout", hu: "Samlout", ro: "Samlout", en: "Samlout" },
-    coordinates: { lat: 12.65, lng: 102.8139 },
+    coords: [102.8139, 12.65],
     description: {
       de: "Samlout liegt in den bergigen Ausläufern der Provinz Battambang. Die Stadt ist geschichtlich bedeutsam als Ursprungsort bewaffneter Konflikte und heute ein Zentrum für Naturschutz.",
       hu: "Samlout Battambang tartomány hegyvidéki nyúlványainál fekszik. A város történelmileg jelentős a fegyveres konfliktusok kiindulópontjaként, ma pedig természetvédelmi központ.",
@@ -1506,7 +1506,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-kralanh-cities-v2",
     type: "town",
     name: { de: "Kralanh", hu: "Kralanh", ro: "Kralanh", en: "Kralanh" },
-    coordinates: { lat: 13.5889, lng: 103.4167 },
+    coords: [103.4167, 13.5889],
     description: {
       de: "Kralanh ist ein geschäftiger Marktplatz in der Provinz Siem Reap. Die Stadt liegt an der Kreuzung wichtiger Nationalstraßen im Nordwesten Kambodschas.",
       hu: "Kralanh egy forgalmas piaci hely Siem Reap tartományban. A város fontos főutak kereszteződésében fekszik Kambodzsa északnyugati részén.",
@@ -1537,7 +1537,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-puok-cities-v2",
     type: "town",
     name: { de: "Puok", hu: "Puok", ro: "Puok", en: "Puok" },
-    coordinates: { lat: 13.4333, lng: 103.7333 },
+    coords: [103.7333, 13.4333],
     description: {
       de: "Puok ist eine Stadt in der Provinz Siem Reap, die vor allem für ihre traditionelle Seidenherstellung bekannt ist. Sie liegt westlich der berühmten Tempel von Angkor.",
       hu: "Puok egy város Siem Reap tartományban, amely elsősorban hagyományos selyemgyártásáról ismert. Az angkori templomoktól nyugatra fekszik.",

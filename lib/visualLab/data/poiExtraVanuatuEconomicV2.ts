@@ -5,7 +5,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-port-vila-wharf-economic-v2",
     type: "port",
     name: { de: "Hauptkai von Port Vila", hu: "Port Vila főrakpart", ro: "Mollul principal din Port Vila", en: "Port Vila Main Wharf" },
-    coordinates: { lat: -17.7512, lng: 168.3021 },
+    coords: [168.3021, -17.7512],
     description: {
       de: "Der wichtigste Überseehafen Vanuatus dient dem Umschlag von Containern, Stückgut und dem Empfang großer Kreuzfahrtschiffe.",
       hu: "Vanuatu legfontosabb tengeri kikötője, amely konténerszállítmányokat és nagy üdülőhajókat fogad a fővárosban.",
@@ -24,7 +24,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-luganville-wharf-economic-v2",
     type: "port",
     name: { de: "Hafen von Luganville", hu: "Luganville kikötő", ro: "Portul Luganville", en: "Luganville Wharf" },
-    coordinates: { lat: -15.5265, lng: 167.1895 },
+    coords: [167.1895, -15.5265],
     description: {
       de: "Der zweitgrößte Hafen des Landes auf Espiritu Santo ist das Zentrum für den Export von Kopra, Rindfleisch und Kakao.",
       hu: "Az ország második legnagyobb kikötője Espiritu Santo szigetén, a kopra, marhahús és kakaó exportjának központja.",
@@ -43,7 +43,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-lapetasi-wharf-economic-v2",
     type: "port",
     name: { de: "Lapetasi Mehrzweckkai", hu: "Lapetasi többfunkciós kikötő", ro: "Mollul polivalent Lapetasi", en: "Lapetasi Multi-Purpose Wharf" },
-    coordinates: { lat: -17.7495, lng: 168.3048 },
+    coords: [168.3048, -17.7495],
     description: {
       de: "Diese moderne Containeranlage in Port Vila wurde 2018 eröffnet, um die Kapazitäten für den internationalen Handel zu erweitern.",
       hu: "Ezt a modern konténerterminált 2018-ban adták át Port Vilában a nemzetközi kereskedelmi kapacitás növelésére.",
@@ -62,7 +62,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-brewing-limited-economic-v2",
     type: "factory",
     name: { de: "Vanuatu Brewing Limited", hu: "Vanuatu Sörfőzde", ro: "Fabrica de bere Vanuatu", en: "Vanuatu Brewing Limited" },
-    coordinates: { lat: -17.7214, lng: 168.3245 },
+    coords: [168.3245, -17.7214],
     description: {
       de: "Die größte Brauerei des Landes produziert das bekannte 'Tusker' Bier und ist ein bedeutender privater Arbeitgeber in Port Vila.",
       hu: "Az ország legnagyobb sörfőzdéje, a 'Tusker' sör gyártója és Port Vila egyik jelentős magánfoglalkoztatója.",
@@ -81,7 +81,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-tanna-coffee-economic-v2",
     type: "factory",
     name: { de: "Tanna Coffee Rösterei", hu: "Tanna kávépörkölő", ro: "Fabrica de cafea Tanna", en: "Tanna Coffee Roastery" },
-    coordinates: { lat: -17.755, lng: 168.275 },
+    coords: [168.275, -17.755],
     description: {
       de: "Hier wird der auf der Insel Tanna angebaute Arabica-Kaffee verarbeitet, der eines der wichtigsten Exportgüter Vanuatus darstellt.",
       hu: "Itt dolgozzák fel a Tanna-szigeten termelt Arabica kávét, amely Vanuatu egyik legfontosabb exportcikke.",
@@ -100,7 +100,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-metenesel-cocoa-economic-v2",
     type: "industry",
     name: { de: "Metenesel Kakao-Plantage", hu: "Metenesel kakaóültetvény", ro: "Plantația de cacao Metenesel", en: "Metenesel Cocoa Estate" },
-    coordinates: { lat: -16.035, lng: 167.342 },
+    coords: [167.342, -16.035],
     description: {
       de: "Die größte Kakaoplantage Vanuatus auf Malekula ist ein zentraler Pfeiler der Agrarwirtschaft des Landes.",
       hu: "Vanuatu legnagyobb kakaóültetvénye Malekula szigetén, amely az ország agrárgazdaságának egyik tartóoszlopa.",
@@ -119,7 +119,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-sarakata-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Sarakata", hu: "Sarakata vízerőmű", ro: "Hidrocentrala Sarakata", en: "Sarakata Hydroelectric Power Station" },
-    coordinates: { lat: -15.452, lng: 167.145 },
+    coords: [167.145, -15.452],
     description: {
       de: "Dieses Kraftwerk liefert einen Großteil des Stroms für Luganville und reduziert die Abhängigkeit von teuren Dieselimporten.",
       hu: "Ez az erőmű biztosítja Luganville áramellátásának nagy részét, csökkentve a drága dízelimporttól való függőséget.",
@@ -138,7 +138,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-teouma-solar-economic-v2",
     type: "industry",
     name: { de: "Solarpark Teouma", hu: "Teouma naperőmű", ro: "Parcul solar Teouma", en: "Teouma Solar Farm" },
-    coordinates: { lat: -17.785, lng: 168.382 },
+    coords: [168.382, -17.785],
     description: {
       de: "Eine der größten Photovoltaikanlagen Vanuatus, die zur nachhaltigen Energieversorgung der Insel Efate beiträgt.",
       hu: "Vanuatu egyik legnagyobb fotovoltaikus létesítménye, amely hozzájárul Efate szigetének fenntartható energiaellátásához.",
@@ -157,7 +157,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-devils-point-wind-economic-v2",
     type: "industry",
     name: { de: "Windpark Devil's Point", hu: "Devil's Point szélerőmű", ro: "Parcul eolian Devil's Point", en: "Devil's Point Wind Farm" },
-    coordinates: { lat: -17.742, lng: 168.188 },
+    coords: [168.188, -17.742],
     description: {
       de: "Die Windkraftanlagen an diesem Küstenabschnitt von Efate nutzen die stetigen Passatwinde zur Stromerzeugung.",
       hu: "Efate ezen tengerparti szakaszán található szélturbinák az állandó passzátszeleket használják áramtermelésre.",
@@ -176,7 +176,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-forari-mine-economic-v2",
     type: "mine",
     name: { de: "Ehemalige Forari-Manganmine", hu: "Egykori Forari mangánbánya", ro: "Fosta mină de mangan Forari", en: "Former Forari Manganese Mine" },
-    coordinates: { lat: -17.684, lng: 168.528 },
+    coords: [168.528, -17.684],
     description: {
       de: "Forari war einst das Zentrum des Bergbaus in Vanuatu, wo bis in die 1970er Jahre Mangan für den Export abgebaut wurde.",
       hu: "Forari egykor Vanuatu bányászati központja volt, ahol az 1970-es évekig mangánt bányásztak exportra.",
@@ -195,7 +195,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-financial-centre-economic-v2",
     type: "industry",
     name: { de: "Finanzzentrum Port Vila", hu: "Port Vila Pénzügyi Központ", ro: "Centrul Financiar Port Vila", en: "Port Vila Financial Centre" },
-    coordinates: { lat: -17.7345, lng: 168.312 },
+    coords: [168.312, -17.7345],
     description: {
       de: "Das Herz des Offshore-Finanzsektors von Vanuatu, der Dienstleistungen für internationale Unternehmen anbietet.",
       hu: "Vanuatu offshore pénzügyi szektorának szíve, amely nemzetközi cégek számára nyújt szolgáltatásokat.",
@@ -214,7 +214,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-norsup-cocoa-economic-v2",
     type: "industry",
     name: { de: "Norsup Kakao-Verarbeitung", hu: "Norsup kakaófeldolgozó", ro: "Procesarea cacauei la Norsup", en: "Norsup Cocoa Processing" },
-    coordinates: { lat: -16.068, lng: 167.402 },
+    coords: [167.402, -16.068],
     description: {
       de: "Ein wichtiges Zentrum auf Malekula für die Trocknung und Fermentierung von Kakaobohnen vor dem Export.",
       hu: "Fontos malekulai központ a kakaóbab szárítására és fermentálására az exportálás előtt.",
@@ -233,7 +233,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-santo-meat-packers-economic-v2",
     type: "factory",
     name: { de: "Santo Schlachthof", hu: "Santo húsüzem", ro: "Abatorul Santo", en: "Santo Meat Packers" },
-    coordinates: { lat: -15.512, lng: 167.215 },
+    coords: [167.215, -15.512],
     description: {
       de: "Der wichtigste Fleischverarbeitungsbetrieb in Luganville, der hochwertiges Rindfleisch für den Export nach Japan verpackt.",
       hu: "Luganville legfontosabb húsfeldolgozó üzeme, amely kiváló minőségű marhahúst csomagol Japánba irányuló exportra.",
@@ -252,7 +252,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-litzlitz-wharf-economic-v2",
     type: "port",
     name: { de: "Litzlitz Kai", hu: "Litzlitz kikötő", ro: "Mollul Litzlitz", en: "Litzlitz Wharf" },
-    coordinates: { lat: -16.118, lng: 167.425 },
+    coords: [167.425, -16.118],
     description: {
       de: "Ein bedeutender regionaler Hafen auf Malekula, der den Warenverkehr zwischen den Inseln und den Export von Kopra ermöglicht.",
       hu: "Fontos regionális kikötő Malekula szigetén, amely lehetővé teszi a szigetek közötti áruforgalmat és a kopra exportját.",
@@ -271,7 +271,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-bauerfield-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Bauerfield", hu: "Bauerfield logisztikai központ", ro: "Centrul logistic Bauerfield", en: "Bauerfield Logistics Hub" },
-    coordinates: { lat: -17.698, lng: 168.322 },
+    coords: [168.322, -17.698],
     description: {
       de: "Das Luftfrachtzentrum am internationalen Flughafen von Port Vila regelt den Import zeitkritischer Güter.",
       hu: "A Port Vila nemzetközi repülőtéren található légiáru-központ kezeli az időérzékeny termékek importját.",
@@ -290,7 +290,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-pekoa-logistics-economic-v2",
     type: "industry",
     name: { de: "Frachtzentrum Pekoa", hu: "Pekoa áruforgalmi központ", ro: "Centrul de marfă Pekoa", en: "Pekoa Cargo Center" },
-    coordinates: { lat: -15.515, lng: 167.222 },
+    coords: [167.222, -15.515],
     description: {
       de: "Die Logistikanlage am Flughafen Pekoa auf Espiritu Santo unterstützt den Export von Agrarprodukten aus dem Norden.",
       hu: "Az Espiritu Santo-i Pekoa repülőtér logisztikai létesítménye segíti az északi agrártermékek exportját.",
@@ -309,7 +309,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-port-vila-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt Port Vila", hu: "Port Vila központi piac", ro: "Piața Centrală Port Vila", en: "Port Vila Central Market" },
-    coordinates: { lat: -17.741, lng: 168.3145 },
+    coords: [168.3145, -17.741],
     description: {
       de: "Der größte Marktplatz des Landes ist das wirtschaftliche Herz für Kleinbauern, die hier ihre Erzeugnisse direkt verkaufen.",
       hu: "Az ország legnagyobb piaca a kistermelők gazdasági központja, ahol közvetlenül értékesítik terményeiket.",
@@ -328,7 +328,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-luganville-market-economic-v2",
     type: "landmark",
     name: { de: "Markthalle Luganville", hu: "Luganville vásárcsarnok", ro: "Hala pieței Luganville", en: "Luganville Market House" },
-    coordinates: { lat: -15.5165, lng: 167.1845 },
+    coords: [167.1845, -15.5165],
     description: {
       de: "Dieses Handelszentrum in Luganville ist entscheidend für die Versorgung von Espiritu Santo mit frischen Lebensmitteln.",
       hu: "Ez a luganville-i kereskedelmi központ kulcsfontosságú Espiritu Santo friss élelmiszerellátásában.",
@@ -347,7 +347,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-lakatoro-center-economic-v2",
     type: "industry",
     name: { de: "Lakatoro Handelszentrum", hu: "Lakatoro kereskedelmi központ", ro: "Centrul comercial Lakatoro", en: "Lakatoro Trading Center" },
-    coordinates: { lat: -16.104, lng: 167.412 },
+    coords: [167.412, -16.104],
     description: {
       de: "Das Verwaltungs- und Wirtschaftszentrum von Malekula, wo Waren für die zweitgrößte Insel des Landes verteilt werden.",
       hu: "Malekula közigazgatási és gazdasági központja, ahol az ország második legnagyobb szigetének áruit osztják szét.",
@@ -366,7 +366,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-sola-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Sola", hu: "Sola kikötője", ro: "Portul Sola", en: "Sola Port" },
-    coordinates: { lat: -13.885, lng: 167.552 },
+    coords: [167.552, -13.885],
     description: {
       de: "Der nördlichste wichtige Hafen Vanuatus auf Vanua Lava dient der Versorgung der entlegenen Banks-Inseln.",
       hu: "Vanuatu legészakibb fontos kikötője Vanua Lava szigetén, amely a távoli Banks-szigetek ellátását szolgálja.",
@@ -385,7 +385,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-lenakel-wharf-economic-v2",
     type: "port",
     name: { de: "Lenakel Kai", hu: "Lenakel kikötő", ro: "Mollul Lenakel", en: "Lenakel Wharf" },
-    coordinates: { lat: -19.531, lng: 169.268 },
+    coords: [169.268, -19.531],
     description: {
       de: "Der Haupthafen von Tanna ist entscheidend für den Export von Kaffee und die Versorgung der südlichen Provinzen.",
       hu: "Tanna fő kikötője kulcsfontosságú a kávé exportjában és a déli tartományok ellátásában.",
@@ -404,7 +404,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-kava-processing-economic-v2",
     type: "factory",
     name: { de: "Kava-Verarbeitungszentrum", hu: "Kava-feldolgozó központ", ro: "Centrul de procesare Kava", en: "Kava Processing Center" },
-    coordinates: { lat: -17.728, lng: 168.318 },
+    coords: [168.318, -17.728],
     description: {
       de: "Diese Anlage in Port Vila bereitet Kava-Wurzeln für den Export als Pulver oder pharmazeutischen Rohstoff vor.",
       hu: "Ez a Port Vila-i létesítmény készíti elő a kava gyökereket exportra, por vagy gyógyszerészeti alapanyag formájában.",
@@ -423,7 +423,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-efate-quarry-economic-v2",
     type: "mine",
     name: { de: "Efate Steinbruch", hu: "Efate kőfejtő", ro: "Cariera Efate", en: "Efate Quarry" },
-    coordinates: { lat: -17.712, lng: 168.255 },
+    coords: [168.255, -17.712],
     description: {
       de: "Hier werden Korallengestein und Basalt für den Straßenbau und die Bauindustrie der Hauptstadt Port Vila gewonnen.",
       hu: "Itt korallkőzetet és bazaltot bányásznak a főváros, Port Vila útépítéseihez és építőiparához.",
@@ -442,7 +442,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-havannah-shipping-economic-v2",
     type: "port",
     name: { de: "Havannah Schifffahrtskanal", hu: "Havannah hajózási útvonal", ro: "Canalul de navigație Havannah", en: "Havannah Shipping Channel" },
-    coordinates: { lat: -17.585, lng: 168.252 },
+    coords: [168.252, -17.585],
     description: {
       de: "Ein tiefer, geschützter Wasserweg nördlich von Efate, der als strategischer Ankerplatz und Logistikroute genutzt wird.",
       hu: "Efate északi részén található mély, védett vízi út, amelyet stratégiai horgonyzóhelyként és logisztikai útvonalként használnak.",
@@ -461,7 +461,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-whitegrass-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikpunkt Whitegrass", hu: "Whitegrass logisztikai pont", ro: "Punctul logistic Whitegrass", en: "Whitegrass Logistics Point" },
-    coordinates: { lat: -19.455, lng: 169.232 },
+    coords: [169.232, -19.455],
     description: {
       de: "Das Logistikzentrum am Flughafen Whitegrass auf Tanna ist entscheidend für den Transport von Tourismusgütern und Exportprodukten.",
       hu: "A Tanna-szigeti Whitegrass repülőtér logisztikai központja kulcsfontosságú a turisztikai cikkek és exporttermékek szállításában.",
@@ -480,7 +480,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-shark-bay-oil-economic-v2",
     type: "factory",
     name: { de: "Kokosölfabrik Shark Bay", hu: "Shark Bay kókuszolaj gyár", ro: "Fabrica de ulei de cocos Shark Bay", en: "Shark Bay Coconut Oil Factory" },
-    coordinates: { lat: -15.352, lng: 167.155 },
+    coords: [167.155, -15.352],
     description: {
       de: "Ein Verarbeitungsbetrieb auf Espiritu Santo, der hochwertiges Kokosöl aus Kopra für den Export und den lokalen Markt gewinnt.",
       hu: "Espiritu Santo-i feldolgozó üzem, amely kiváló minőségű kókuszolajat állít elő koprából exportra és a helyi piacra.",
@@ -499,7 +499,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-lowanatom-coffee-economic-v2",
     type: "industry",
     name: { de: "Lowanatom Kaffee-Verarbeitung", hu: "Lowanatom kávéfeldolgozó", ro: "Procesarea cafelei Lowanatom", en: "Lowanatom Coffee Processing" },
-    coordinates: { lat: -19.515, lng: 169.282 },
+    coords: [169.282, -19.515],
     description: {
       de: "Ein regionales Zentrum auf Tanna für die Sortierung und Vorbereitung von Kaffeebohnen für den Weitertransport nach Port Vila.",
       hu: "Tanna-szigeti regionális központ a kávébab válogatására és előkészítésére a Port Vilába történő szállítás előtt.",
@@ -518,7 +518,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-lamap-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Lamap", hu: "Lamap kikötője", ro: "Portul Lamap", en: "Lamap Port" },
-    coordinates: { lat: -16.435, lng: 167.805 },
+    coords: [167.805, -16.435],
     description: {
       de: "Ein strategischer kleiner Hafen im Südosten von Malekula, der für den Abtransport von Agrarprodukten der Region Lamap wichtig ist.",
       hu: "Stratégiai kis kikötő Malekula délkeleti részén, amely fontos a lamapi régió agrártermékeinek elszállításához.",
@@ -537,7 +537,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-valesdir-plantation-economic-v2",
     type: "industry",
     name: { de: "Valesdir Plantage", hu: "Valesdir ültetvény", ro: "Plantația Valesdir", en: "Valesdir Plantation" },
-    coordinates: { lat: -16.782, lng: 168.175 },
+    coords: [168.175, -16.782],
     description: {
       de: "Eine historische und aktive Plantage auf Epi, die Kopra produziert und als wirtschaftlicher Anker der Insel fungiert.",
       hu: "Történelmi és aktív ültetvény Epi szigetén, amely koprát termel és a sziget gazdasági horgonyaként szolgál.",
@@ -556,7 +556,7 @@ export const vanuatuEconomicV2: POI[] = [
     id: "vanuatu-craig-cove-wharf-economic-v2",
     type: "port",
     name: { de: "Craig Cove Kai", hu: "Craig Cove kikötő", ro: "Mollul Craig Cove", en: "Craig Cove Wharf" },
-    coordinates: { lat: -16.255, lng: 167.452 },
+    coords: [167.452, -16.255],
     description: {
       de: "Haupthandelspunkt für West-Ambrym, der den Export von Kopra und den Import notwendiger Güter für die Inselbewohner ermöglicht.",
       hu: "Nyugat-Ambrym fő kereskedelmi pontja, amely lehetővé teszi a kopra exportját és a szigetlakók ellátását.",

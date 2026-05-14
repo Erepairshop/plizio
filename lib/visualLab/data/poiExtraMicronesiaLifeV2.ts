@@ -5,7 +5,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-ant-atoll-life-v2",
     type: "wildlife",
     name: { de: "Ant-Atoll", hu: "Ant-atoll", ro: "Atolul Ant", en: "Ant Atoll" },
-    coordinates: { lat: 6.783, lng: 157.933 },
+    coords: [157.933, 6.783],
     description: {
       de: "Das Ant-Atoll ist ein bedeutendes Biosphärenreservat in der Nähe von Pohnpei. Es ist ein wichtiger Nistplatz für Meeresschildkröten und Seevögel.",
       hu: "Az Ant-atoll egy jelentős bioszféra-rezervátum Pohnpei közelében. Fontos fészkelőhely a tengeri teknősök és tengeri madarak számára.",
@@ -24,7 +24,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-yela-ka-forest-life-v2",
     type: "forest",
     name: { de: "Yela-Ka-Wald", hu: "Yela Ka-erdő", ro: "Pădurea Yela Ka", en: "Yela Ka Forest" },
-    coordinates: { lat: 5.333, lng: 162.916 },
+    coords: [162.916, 5.333],
     description: {
       de: "Der Yela-Ka-Wald auf Kosrae beherbergt den weltweit letzten großen Bestand an Terminalia carolinensis. Dieser Süßwassersumpfwald ist ökologisch einzigartig.",
       hu: "A Kosrae-szigeti Yela Ka-erdő ad otthont a világ utolsó nagy Terminalia carolinensis állományának. Ez az édesvízi mocsári erdő ökológiailag egyedülálló.",
@@ -43,7 +43,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-mount-finkol-life-v2",
     type: "peak",
     name: { de: "Mount Finkol", hu: "Finkol-hegy", ro: "Muntele Finkol", en: "Mount Finkol" },
-    coordinates: { lat: 5.312, lng: 162.981 },
+    coords: [162.981, 5.312],
     description: {
       de: "Der Mount Finkol ist der höchste Berg auf Kosrae. Seine Hänge sind mit dichtem tropischem Regenwald und Nebelwald bedeckt, der viele seltene Arten beherbergt.",
       hu: "A Finkol-hegy Kosrae legmagasabb pontja. Lejtőit sűrű trópusi esőerdő és ködfátyolerdő borítja, amely számos ritka fajnak ad otthont.",
@@ -62,7 +62,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-chuuk-lagoon-reefs-life-v2",
     type: "wildlife",
     name: { de: "Chuuk-Lagunen-Riffe", hu: "Chuuk-lagúna korallzátonyai", ro: "Recifele din Laguna Chuuk", en: "Chuuk Lagoon Reefs" },
-    coordinates: { lat: 7.42, lng: 151.78 },
+    coords: [151.78, 7.42],
     description: {
       de: "Die Chuuk-Lagune ist für ihre enorme marine Biodiversität bekannt. Die Korallenriffe umgeben eines der größten Atolle der Welt und bieten Lebensraum für Haie.",
       hu: "A Chuuk-lagúna hatalmas tengeri biodiverzitásáról ismert. A korallzátonyok a világ egyik legnagyobb atollját veszik körül, cápáknak adva otthont.",
@@ -81,7 +81,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-pohnpei-mangroves-life-v2",
     type: "forest",
     name: { de: "Pohnpei-Mangroven", hu: "Pohnpei mangroveerdők", ro: "Mangrovele din Pohnpei", en: "Pohnpei Mangroves" },
-    coordinates: { lat: 6.94, lng: 158.21 },
+    coords: [158.21, 6.94],
     description: {
       de: "Die Mangrovenwälder von Pohnpei bilden einen dichten Küstenschutzgürtel. Sie dienen als Kinderstube für zahlreiche Fischarten und schützen die Korallenriffe.",
       hu: "Pohnpei mangroveerdői sűrű parti védőövezetet alkotnak. Számos halfaj bölcsődéjeként szolgálnak, és védik a korallzátonyokat.",
@@ -100,7 +100,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-yap-manta-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Yap-Manta-Schutzgebiet", hu: "Yap manta-rezervátum", ro: "Sanctuarul de Mante din Yap", en: "Yap Manta Sanctuary" },
-    coordinates: { lat: 9.53, lng: 138.12 },
+    coords: [138.12, 9.53],
     description: {
       de: "Yap ist weltberühmt für seine sesshafte Population von Riffmantas. Die Gewässer um die Insel bieten ideale Bedingungen für diese majestätischen Meeresbewohner.",
       hu: "Yap világhírű az itt élő szirti manta populációjáról. A sziget körüli vizek ideális feltételeket biztosítanak e fenséges tengeri lények számára.",
@@ -119,7 +119,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-mount-nahna-laud-life-v2",
     type: "peak",
     name: { de: "Mount Nahna Laud", hu: "Nahna Laud-hegy", ro: "Muntele Nahna Laud", en: "Mount Nahna Laud" },
-    coordinates: { lat: 6.845, lng: 158.232 },
+    coords: [158.232, 6.845],
     description: {
       de: "Der Mount Nahna Laud ist das Zentrum des unberührten Regenwaldes von Pohnpei. Er erhält extreme Niederschläge, was eine einzigartige Biodiversität begünstigt.",
       hu: "A Nahna Laud-hegy Pohnpei érintetlen esőerdőinek központja. A területen rendkívül sok a csapadék, ami egyedülálló biodiverzitást eredményez.",
@@ -138,7 +138,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-kosrae-mangrove-reserve-life-v2",
     type: "forest",
     name: { de: "Kosrae-Mangrovenreservat", hu: "Kosrae mangrove-rezervátum", ro: "Rezervația de Mangrove Kosrae", en: "Kosrae Mangrove Reserve" },
-    coordinates: { lat: 5.36, lng: 162.96 },
+    coords: [162.96, 5.36],
     description: {
       de: "Das Mangrovenreservat von Kosrae ist eines der intaktesten Ökosysteme seiner Art im Pazifik. Es beherbergt riesige Bäume und eine reiche marine Fauna.",
       hu: "Kosrae mangrove-rezervátuma a Csendes-óceán egyik legépebben maradt ökoszisztémája. Óriási fák és gazdag tengeri élővilág jellemzi.",
@@ -157,7 +157,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-oroluk-atoll-life-v2",
     type: "wildlife",
     name: { de: "Oroluk-Atoll", hu: "Oroluk-atoll", ro: "Atolul Oroluk", en: "Oroluk Atoll" },
-    coordinates: { lat: 7.63, lng: 155.16 },
+    coords: [155.16, 7.63],
     description: {
       de: "Das Oroluk-Atoll ist ein abgelegenes Wildschutzgebiet, das für seine Schildkrötenpopulation bekannt ist. Es ist weitgehend unbewohnt und bietet unberührte Natur.",
       hu: "Az Oroluk-atoll egy távoli vadvédelmi terület, amely teknőspopulációjáról ismert. Nagyrészt lakatlan, így érintetlen természetet kínál.",
@@ -176,7 +176,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-kapingamarangi-marine-life-v2",
     type: "wildlife",
     name: { de: "Kapingamarangi-Meeresleben", hu: "Kapingamarangi tengeri élővilág", ro: "Viața marină din Kapingamarangi", en: "Kapingamarangi Marine Life" },
-    coordinates: { lat: 1.07, lng: 154.8 },
+    coords: [154.8, 1.07],
     description: {
       de: "Kapingamarangi ist das südlichste Atoll Mikronesiens. Seine isolierte Lage hat ein einzigartiges und gesundes marines Ökosystem mit kristallklarem Wasser bewahrt.",
       hu: "Kapingamarangi Mikronézia legdélebbi atollja. Elszigetelt fekvése megőrizte az egyedülálló és egészséges tengeri ökoszisztémát.",
@@ -195,7 +195,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-pakin-atoll-life-v2",
     type: "wildlife",
     name: { de: "Pakin-Atoll", hu: "Pakin-atoll", ro: "Atolul Pakin", en: "Pakin Atoll" },
-    coordinates: { lat: 7.07, lng: 157.8 },
+    coords: [157.8, 7.07],
     description: {
       de: "Das Pakin-Atoll bietet einige der spektakulärsten Korallenformationen Mikronesiens. Die unberührten Riffe sind ein Paradies für Taucher und Meeresforscher.",
       hu: "A Pakin-atoll Mikronézia leglátványosabb korallképződményeit kínálja. Az érintetlen zátonyok a búvárok és tengerkutatók paradicsoma.",
@@ -214,7 +214,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-nanpil-river-life-v2",
     type: "river",
     name: { de: "Nanpil-Flussbecken", hu: "Nanpil-folyó völgye", ro: "Bazinul Râului Nanpil", en: "Nanpil River Basin" },
-    coordinates: { lat: 6.92, lng: 158.21 },
+    coords: [158.21, 6.92],
     description: {
       de: "Das Nanpil-Flussbecken auf Pohnpei ist ein wichtiges Süßwasserökosystem. Es umfasst dichten Dschungel und spektakuläre Wasserfälle mit reicher Flora.",
       hu: "Pohnpei Nanpil-folyó völgye fontos édesvízi ökoszisztéma. Sűrű dzsungelt és látványos vízeséseket foglal magában, gazdag flórával.",
@@ -233,7 +233,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-ulithi-atoll-life-v2",
     type: "wildlife",
     name: { de: "Ulithi-Atoll", hu: "Ulithi-atoll", ro: "Atolul Ulithi", en: "Ulithi Atoll" },
-    coordinates: { lat: 9.92, lng: 139.61 },
+    coords: [139.61, 9.92],
     description: {
       de: "Ulithi ist eines der größten Atolle der Welt und ein kritisches Habitat für Meeresschildkröten. Die weite Lagune beherbergt eine enorme Vielfalt an Meereslebewesen.",
       hu: "Ulithi a világ egyik legnagyobb atollja, és a tengeri teknősök kritikus élőhelye. A tágas lagúna hatalmas tengeri biodiverzitást rejt.",
@@ -252,7 +252,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-utwe-walung-park-life-v2",
     type: "wildlife",
     name: { de: "Utwe-Walung-Meerespark", hu: "Utwe-Walung Tengeri Park", ro: "Parcul Marin Utwe-Walung", en: "Utwe-Walung Marine Park" },
-    coordinates: { lat: 5.28, lng: 162.94 },
+    coords: [162.94, 5.28],
     description: {
       de: "Der Utwe-Walung-Meerespark auf Kosrae schützt wertvolle Mangroven und Korallenriffe. Er ist ein Beispiel für erfolgreichen gemeindebasierten Naturschutz.",
       hu: "A kosrae-i Utwe-Walung Tengeri Park értékes mangroveerdőket és korallzátonyokat véd. A közösségi alapú természetvédelem példája.",
@@ -271,7 +271,7 @@ export const micronesiaLifeV2: POI[] = [
     id: "micronesia-nukuoro-atoll-life-v2",
     type: "wildlife",
     name: { de: "Nukuoro-Atoll", hu: "Nukuoro-atoll", ro: "Atolul Nukuoro", en: "Nukuoro Atoll" },
-    coordinates: { lat: 3.84, lng: 154.98 },
+    coords: [154.98, 3.84],
     description: {
       de: "Das Nukuoro-Atoll besticht durch seine nahezu perfekte kreisrunde Form. Die abgeschiedene Natur hat ein reiches Vogelleben und gesunde Korallenriffe bewahrt.",
       hu: "A Nukuoro-atoll szinte tökéletes kör alakjával tűnik ki. Elszigeteltsége gazdag madárvilágot és egészséges korallzátonyokat őrzött meg.",

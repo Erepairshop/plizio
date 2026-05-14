@@ -2272,7 +2272,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-gbap-cities-v2",
     type: "city",
     name: { de: "Gbap", hu: "Gbap", ro: "Gbap", en: "Gbap" },
-    coordinates: { lat: 7.4251, lng: -12.4497 },
+    coords: [-12.4497, 7.4251],
     description: {
       de: "Gbap ist eine Stadt im Distrikt Bonthe in der Südprovinz von Sierra Leone. Die lokale Wirtschaft basiert hauptsächlich auf Fischerei und kleinteiliger Landwirtschaft.",
       hu: "Gbap egy város Sierra Leone déli tartományának Bonthe kerületében. A helyi gazdaság elsősorban a halászaton és a kisméretű mezőgazdaságon alapul.",
@@ -2291,7 +2291,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-makong-cities-v2",
     type: "city",
     name: { de: "Makong", hu: "Makong", ro: "Makong", en: "Makong" },
-    coordinates: { lat: 8.3241, lng: -12.0494 },
+    coords: [-12.0494, 8.3241],
     description: {
       de: "Makong ist eine Siedlung im Distrikt Tonkolili, die durch den Anbau von Reis geprägt ist. Die Region liegt in einer landwirtschaftlich bedeutenden Zone des Landes.",
       hu: "Makong egy település Tonkolili kerületében, amelyet a rizstermesztés jellemez. A régió az ország mezőgazdaságilag fontos zónájában fekszik.",
@@ -2310,7 +2310,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-gbeika-cities-v2",
     type: "city",
     name: { de: "Gbeika", hu: "Gbeika", ro: "Gbeika", en: "Gbeika" },
-    coordinates: { lat: 8.1691, lng: -11.9564 },
+    coords: [-11.9564, 8.1691],
     description: {
       de: "Gbeika liegt im Distrikt Bo und dient als lokaler Knotenpunkt für den Handel mit landwirtschaftlichen Erzeugnissen. Die Stadt ist durch unbefestigte Straßen mit umliegenden Dörfern verbunden.",
       hu: "Gbeika a Bo kerületben fekszik, és helyi csomópontként szolgál a mezőgazdasági termékek kereskedelmében. A várost földutak kötik össze a környező falvakkal.",
@@ -2329,7 +2329,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-kalamay-cities-v2",
     type: "city",
     name: { de: "Kalamay", hu: "Kalamay", ro: "Kalamay", en: "Kalamay" },
-    coordinates: { lat: 9.4521, lng: -11.7825 },
+    coords: [-11.7825, 9.4521],
     description: {
       de: "Kalamay ist eine Stadt im Distrikt Koinadugu. Sie liegt in den nördlichen Hochlandregionen und ist von ausgedehnten Wald- und Savannengebieten umgeben.",
       hu: "Kalamay egy város Koinadugu kerületben. Az északi felföldi régiókban fekszik, és kiterjedt erdő- és szavannaterületek veszik körül.",
@@ -2348,7 +2348,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-bambara-cities-v2",
     type: "city",
     name: { de: "Bambara", hu: "Bambara", ro: "Bambara", en: "Bambara" },
-    coordinates: { lat: 8.0841, lng: -11.4921 },
+    coords: [-11.4921, 8.0841],
     description: {
       de: "Bambara befindet sich im Distrikt Kenema. Die Ortschaft spielt eine wichtige Rolle in der regionalen Versorgungskette für Kakao und Kaffee.",
       hu: "Bambara a Kenema kerületben található. A település fontos szerepet játszik a regionális kakaó- és kávéellátási láncban.",
@@ -2367,7 +2367,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-masarank-cities-v2",
     type: "city",
     name: { de: "Masarank", hu: "Masarank", ro: "Masarank", en: "Masarank" },
-    coordinates: { lat: 8.7841, lng: -12.3551 },
+    coords: [-12.3551, 8.7841],
     description: {
       de: "Masarank liegt im Distrikt Port Loko. Die lokale Wirtschaft ist stark von der Subsistenzlandwirtschaft und dem lokalen Marktgeschehen beeinflusst.",
       hu: "Masarank a Port Loko kerületben található. A helyi gazdaságot erősen befolyásolja az önellátó mezőgazdaság és a helyi piaci tevékenység.",
@@ -2386,7 +2386,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-mafure-cities-v2",
     type: "city",
     name: { de: "Mafure", hu: "Mafure", ro: "Mafure", en: "Mafure" },
-    coordinates: { lat: 8.4981, lng: -11.9765 },
+    coords: [-11.9765, 8.4981],
     description: {
       de: "Mafure ist ein Ort im Distrikt Moyamba, der für seine landwirtschaftliche Nutzung und die umliegenden Waldgebiete bekannt ist. Die Gemeinde ist eher ländlich geprägt.",
       hu: "Mafure egy település a Moyamba kerületben, amely mezőgazdasági hasznosításáról és a környező erdőségekről ismert. A község inkább vidéki jellegű.",
@@ -2405,7 +2405,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-seli-cities-v2",
     type: "city",
     name: { de: "Seli", hu: "Seli", ro: "Seli", en: "Seli" },
-    coordinates: { lat: 9.1551, lng: -12.0221 },
+    coords: [-12.0221, 9.1551],
     description: {
       de: "Seli liegt im Distrikt Bombali. Die Stadt fungiert als lokales Handelszentrum für die angrenzenden Gemeinschaften im Norden Sierra Leones.",
       hu: "Seli a Bombali kerületben fekszik. A város helyi kereskedelmi központként szolgál a Sierra Leone északi részén található szomszédos közösségek számára.",
@@ -2424,7 +2424,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-kamaa-cities-v2",
     type: "city",
     name: { de: "Kamaa", hu: "Kamaa", ro: "Kamaa", en: "Kamaa" },
-    coordinates: { lat: 7.9151, lng: -11.1215 },
+    coords: [-11.1215, 7.9151],
     description: {
       de: "Kamaa ist eine Siedlung im Distrikt Kailahun. Sie ist in einer hügeligen Gegend gelegen und stützt sich wirtschaftlich auf den Anbau verschiedener Nutzpflanzen.",
       hu: "Kamaa egy település Kailahun kerületben. Dombvidéki területen fekszik, és gazdaságilag a különböző haszonnövények termesztésére támaszkodik.",
@@ -2443,7 +2443,7 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "sierraleone-fina-cities-v2",
     type: "city",
     name: { de: "Fina", hu: "Fina", ro: "Fina", en: "Fina" },
-    coordinates: { lat: 8.8251, lng: -11.9212 },
+    coords: [-11.9212, 8.8251],
     description: {
       de: "Fina ist ein Ort im Distrikt Tonkolili. Die Region zeichnet sich durch landwirtschaftliche Kleinbetriebe aus, die den täglichen Bedarf der Umgebung decken.",
       hu: "Fina egy település Tonkolili kerületben. A régiót kisüzemi mezőgazdaság jellemzi, amely ellátja a környék napi igényeit.",

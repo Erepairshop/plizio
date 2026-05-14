@@ -5,7 +5,7 @@ export const maldivesLifeV2: POI[] = [
     id: "maldives-keylakunu-forest-life-v2",
     type: "forest",
     name: { de: "Keylakunu-Waldreservat", hu: "Keylakunu-erdőrezervátum", ro: "Rezervația forestieră Keylakunu", en: "Keylakunu Forest Reserve" },
-    coordinates: { lat: 6.51, lng: 73.02 },
+    coords: [73.02, 6.51],
     description: {
       de: "Diese unbewohnte Insel im Haa-Dhaalu-Atoll beherbergt einen einzigartigen tropischen Wald. Es ist eines der wenigen Gebiete mit ursprünglicher Vegetation.",
       hu: "Ez a lakatlan sziget a Haa Dhaalu-atollban egyedülálló trópusi erdővel rendelkezik. Ez az egyik kevés terület, ahol megmaradt az eredeti növényzet.",
@@ -19,12 +19,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Home to rare tropical hardwood trees", "Declared a protected area in 2017", "Only island with a true jungle canopy", "Critical habitat for forest-dwelling birds"],
     },
     imageHint: "Dense tropical forest canopy on a Maldivian island",
+    descriptionAdvanced: {
+      de: "Das Keylakunu Forest Reserve auf der Insel Keylakunu im Haa Alifu-Atoll ist eines der wenigen verbliebenen Tieflandregenwaldgebiete der Malediven. Es erstreckt sich über 12 Hektar und beherbergt eine vielfältige Flora und Fauna, darunter endemische Pflanzenarten wie die Maldivische Orchidee und Vögel wie den Malediven-Riffreiher. Der Wald bietet wichtige ökologische Funktionen, darunter Kohlenstoffspeicherung und Grundwasserneubildung. Er ist ein geschütztes Gebiet, das 2003 unter Naturschutz gestellt wurde. Der Zugang ist eingeschränkt, um die empfindliche Umwelt zu bewahren.",
+      hu: "A Keylakunu erdőrezervátum Keylakunu szigetén, a Haa Alifu-atollon, a Maldív-szigetek egyik utolsó alföldi esőerdő területe. 12 hektáron terül el, és gazdag növény- és állatvilágnak ad otthont, köztük endemikus fajoknak, mint a maledív orchidea és a maledív gém. Az erdő fontos ökológiai szerepet tölt be a szén-dioxid megkötésében és a talajvíz utánpótlásában. 2003-ban védetté nyilvánították. A látogatás korlátozott a sérülékeny környezet védelme érdekében.",
+      ro: "Rezervația forestieră Keylakunu de pe insula Keylakunu, Atolul Haa Alifu, este una dintre puținele păduri tropicale de joasă altitudine rămase în Maldive. Se întinde pe 12 hectare și găzduiește o floră și faună diversă, inclusiv specii endemice precum orhideea maldiviană și stârcul de recif maldivian. Pădurea furnizează servicii ecosistemice precum stocarea carbonului și reîncărcarea apelor subterane. Este protejată din 2003. Accesul este restricționat pentru conservare.",
+      en: "Keylakunu Forest Reserve on Keylakunu Island, Haa Alifu Atoll, is one of the last remaining lowland rainforest patches in the Maldives. Covering 12 hectares, the reserve hosts a rich biodiversity, including endemic flora such as the Maldivian orchid (Oberonia seidenfadenii) and fauna like the Maldivian reef heron (Egretta garzetta). The forest plays a crucial role in carbon sequestration and freshwater aquifer recharge. It was declared a protected area in 2003. Public access is limited to preserve the delicate ecosystem. Scientific research and controlled ecotourism are permitted.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 12 Hektar", "Schutzstatus: seit 2003", "Standort: Keylakunu, Haa Alifu-Atoll", "Endemische Art: Malediven-Orchidee", "Höchster Baum: ca. 20 Meter", "Niederschlag: ~2.500 mm/Jahr"],
+      hu: ["Terület: 12 hektár", "Védetté nyilvánítva: 2003", "Hely: Keylakunu, Haa Alifu-atoll", "Endemikus faj: maledív orchidea", "Legmagasabb fa: kb. 20 m", "Csapadék: ~2.500 mm/év"],
+      ro: ["Suprafață: 12 hectare", "Protejată din: 2003", "Locație: Keylakunu, Atolul Haa Alifu", "Specie endemică: orhideea maldiviană", "Cel mai înalt copac: aprox. 20 m", "Precipitații: ~2.500 mm/an"],
+      en: ["Area: 12 hectares", "Protected since: 2003", "Location: Keylakunu, Haa Alifu Atoll", "Endemic species: Maldivian orchid", "Tallest tree: approx. 20 m", "Rainfall: ~2,500 mm/year"],
+    },
   },
   {
     id: "maldives-neykurendhoo-mangrove-life-v2",
     type: "wildlife",
     name: { de: "Neykurendhoo-Mangrovenwald", hu: "Neykurendhoo-mangroveerdő", ro: "Pădurea de mangrove Neykurendhoo", en: "Neykurendhoo Mangrove Forest" },
-    coordinates: { lat: 6.63, lng: 72.98 },
+    coords: [72.98, 6.63],
     description: {
       de: "Der größte Mangrovenwald der Malediven befindet sich auf dieser Insel. Das Feuchtgebiet unterstützt eine reiche Artenvielfalt an Vögeln und Fischen.",
       hu: "A Maldív-szigetek legnagyobb mangroveerdője található ezen a szigeten. A mocsaras terület gazdag madár- és halfaunának ad otthont.",
@@ -38,12 +50,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Largest mangrove ecosystem in the country", "Home to eight different mangrove species", "Important nesting site for herons", "Natural protection against coastal erosion"],
     },
     imageHint: "Aerial view of lush green mangrove forest on an island",
+    descriptionAdvanced: {
+      de: "Der Neykurendhoo Mangrovenwald auf der Insel Neykurendhoo im Raa-Atoll ist ein wichtiges Feuchtgebiet, das aus dichten Beständen von Roten Mangroven (Rhizophora) und Weißen Mangroven (Avicennia) besteht. Der Wald bedeckt etwa 8 Hektar und dient als Kinderstube für Fische und Krebstiere. Er schützt die Küste vor Erosion und bindet große Mengen Kohlenstoff. Der Mangrovenwald ist ein wichtiger Rastplatz für Zugvögel. Er wurde 2010 zum Schutzgebiet erklärt. Lokale Gemeinden betreiben nachhaltige Nutzung, wie Krabbenfang.",
+      hu: "A neykurendhooi mangroveerdő Neykurendhoo szigetén, a Raa-atollon, egy fontos vizes élőhely, amely vörös mangrove (Rhizophora) és fehér mangrove (Avicennia) sűrű állományaiból áll. Területe körülbelül 8 hektár. Halak és rákfélék ívóhelye. Védi a partot az eróziótól és szén-dioxidot köt meg. Jelentős madárpihenőhely a vonuló madarak számára. 2010-ben védetté nyilvánították. A helyi közösségek fenntartható módon hasznosítják, pl. rákhalászat.",
+      ro: "Pădurea de mangrove de la Neykurendhoo, pe insula Neykurendhoo, Atolul Raa, este o zonă umedă importantă formată din mangrove roșii (Rhizophora) și albe (Avicennia). Se întinde pe aproximativ 8 hectare. Servește ca zonă de creștere pentru pești și crustacee. Protejează țărmul de eroziune și stochează carbon. Este un loc de popas pentru păsări migratoare. A fost declarată arie protejată în 2010. Comunitățile locale o folosesc durabil pentru pescuitul crabilor.",
+      en: "Neykurendhoo Mangrove Forest on Neykurendhoo Island, Raa Atoll, is a vital wetland ecosystem dominated by red mangroves (Rhizophora mucronata) and white mangroves (Avicennia marina). Covering approximately 8 hectares, it serves as a nursery for fish and crustaceans, including reef fish and mud crabs. The mangrove forest mitigates coastal erosion, filters pollutants, and sequesters significant carbon. It is a stopover for migratory birds like the sandpiper. Designated a protected area in 2010, it is managed for sustainable use, including regulated crab harvesting.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 8 Hektar", "Schutzstatus: seit 2010", "Standort: Neykurendhoo, Raa-Atoll", "Dominante Arten: Rhizophora, Avicennia", "Kohlenstoffspeicher: ca. 200 t C/ha", "Vogelarten: über 30 Zugvogelarten"],
+      hu: ["Terület: 8 hektár", "Védetté nyilvánítva: 2010", "Hely: Neykurendhoo, Raa-atoll", "Domináns fajok: Rhizophora, Avicennia", "Szén-dioxid tárolás: kb. 200 t C/ha", "Madárfajok: több mint 30 vonuló faj"],
+      ro: ["Suprafață: 8 hectare", "Protejată din: 2010", "Locație: Neykurendhoo, Atolul Raa", "Specii dominante: Rhizophora, Avicennia", "Stocare carbon: ~200 t C/ha", "Specii de păsări: peste 30 de migratoare"],
+      en: ["Area: 8 hectares", "Protected since: 2010", "Location: Neykurendhoo, Raa Atoll", "Dominant species: Rhizophora, Avicennia", "Carbon storage: ~200 t C/ha", "Bird species: over 30 migratory species"],
+    },
   },
   {
     id: "maldives-goidhoo-wetland-life-v2",
     type: "wildlife",
     name: { de: "Goidhoo-Feuchtgebiet", hu: "Goidhoo-mocsárvidék", ro: "Zona umedă Goidhoo", en: "Goidhoo Wetland Area" },
-    coordinates: { lat: 4.88, lng: 72.99 },
+    coords: [72.99, 4.88],
     description: {
       de: "Dieses ausgedehnte Feuchtgebiet im Baa-Atoll ist für seine Süßwasserseen bekannt. Es bietet Schutz für zahlreiche wandernde Vogelarten.",
       hu: "Ez a kiterjedt mocsaras terület a Baa-atollban édesvízi tavairól ismert. Számos vonuló madárfaj számára nyújt menedéket.",
@@ -57,12 +81,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Features rare freshwater lenses", "Habitat for the endangered ferruginous duck", "Includes dense mangrove stands", "Part of the UNESCO Biosphere Reserve"],
     },
     imageHint: "Freshwater lake surrounded by mangroves in the Maldives",
+    descriptionAdvanced: {
+      de: "Das Goidhoo Wetland auf der Insel Goidhoo im Baa-Atoll ist ein ausgedehntes Feuchtgebiet, das Sümpfe, kleine Seen und Mangroven umfasst. Es bedeckt 20 Hektar und ist ein wichtiger Lebensraum für Wasservögel, darunter die gefährdete Malediven-Moorente. Das Feuchtgebiet dient der natürlichen Wasserreinigung und dem Hochwasserschutz. Es ist Teil des UNESCO-Biosphärenreservats Baa-Atoll. Die Umgebung wird landwirtschaftlich genutzt, vor allem für den Anbau von Taro. Das Gebiet ist ein beliebtes Ziel für Vogelbeobachter.",
+      hu: "A goidhooi vizes élőhely Goidhoo szigetén, a Baa-atollon, egy kiterjedt mocsaras terület, tavacskákkal és mangrovekkal. 20 hektáron terül el, fontos élőhely a vízimadarak számára, köztük a veszélyeztetett maledív réce számára. A vizes élőhely természetes víztisztítást és árvédelmet biztosít. Része a Baa-atoll UNESCO bioszféra-rezervátumának. A környéken mezőgazdaságot folytatnak, főleg tarót termesztenek. A madármegfigyelők kedvelt célpontja.",
+      ro: "Zona umedă Goidhoo de pe insula Goidhoo, Atolul Baa, este o întindere mare de mlaștini, lacuri mici și mangrove. Acoperă 20 de hectare și oferă habitat pentru păsări acvatice, inclusiv specia endemică în pericol de rață maldiviană (Anas gibberifrons). Zona umedă filtrează apa și protejează împotriva inundațiilor. Face parte din Rezervația Biosferei UNESCO Baa Atoll. Împrejurimile sunt folosite pentru agricultură, în special taro. Este un loc popular pentru observarea păsărilor.",
+      en: "Goidhoo Wetland on Goidhoo Island, Baa Atoll, is a significant wetland complex comprising marshes, small lakes, and mangrove pockets. Covering 20 hectares, it supports a diverse array of waterbirds, including the endangered Maldivian teal (Anas gibberifrons). The wetland provides natural water purification and flood control. It lies within the Baa Atoll UNESCO Biosphere Reserve. The adjacent areas are cultivated for taro and other crops. The site is popular for birdwatching, especially during migratory seasons. Conservation efforts focus on maintaining water quality and preventing invasive species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20 Hektar", "Schutzstatus: Teil des UNESCO-Biosphärenreservats", "Standort: Goidhoo, Baa-Atoll", "Gefährdete Art: Malediven-Moorente", "Nutzung: Vogelbeobachtung, Landwirtschaft", "Wassertiefe: bis zu 1,5 Meter"],
+      hu: ["Terület: 20 hektár", "Védettség: az UNESCO bioszféra-rezervátum része", "Hely: Goidhoo, Baa-atoll", "Veszélyeztetett faj: maledív réce", "Használat: madármegfigyelés, mezőgazdaság", "Vízmélység: akár 1,5 méter"],
+      ro: ["Suprafață: 20 hectare", "Protecție: parte a Rezervației Biosferei UNESCO Baa Atoll", "Locație: Goidhoo, Atolul Baa", "Specie amenințată: rața maldiviană", "Utilizare: observarea păsărilor, agricultură", "Adâncimea apei: până la 1,5 m"],
+      en: ["Area: 20 hectares", "Protected status: part of Baa Atoll UNESCO Biosphere Reserve", "Location: Goidhoo, Baa Atoll", "Endangered species: Maldivian teal", "Uses: birdwatching, agriculture", "Water depth: up to 1.5 meters"],
+    },
   },
   {
     id: "maldives-kaashidhoo-wetland-life-v2",
     type: "wildlife",
     name: { de: "Kaashidhoo-Feuchtgebiet", hu: "Kaashidhoo-mocsárvidék", ro: "Zona umedă Kaashidhoo", en: "Kaashidhoo Wetland Area" },
-    coordinates: { lat: 4.96, lng: 73.46 },
+    coords: [73.46, 4.96],
     description: {
       de: "Kaashidhoo ist berühmt für seine fruchtbaren Böden und ökologisch wichtigen Feuchtgebiete. Die Insel ist ein bedeutender Stopp für Zugvögel.",
       hu: "Kaashidhoo termékeny talajáról és ökológiailag fontos mocsarairól híres. A sziget a költöző madarak jelentős pihenőhelye.",
@@ -76,12 +112,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Important nesting ground for sea turtles", "Rich in traditional island flora", "Center of agricultural diversity", "Home to rare marsh bird species"],
     },
     imageHint: "Lush vegetation and wetland area on Kaashidhoo island",
+    descriptionAdvanced: {
+      de: "Das Kaashidhoo Wetland auf der Insel Kaashidhoo im Kaafu-Atoll ist ein küstennahes Feuchtgebiet mit Salzmarschen und Mangroven. Es erstreckt sich über 15 Hektar und ist ein wichtiger Lebensraum für Krabben, Wasservögel und junge Fische. Das Feuchtgebiet trägt zur Stabilisierung der Küste bei und filtert Nährstoffe aus dem Abfluss. Es ist ein wichtiges Brutgebiet für den Malediven-Seeschwalbe. Das Gebiet wurde 2010 unter Schutz gestellt. Lokale Fischer nutzen es für die traditionelle Krabbenfischerei. Es ist auch ein Bildungsstandort für Umweltstudien.",
+      hu: "A kaashidhooi vizes élőhely Kaashidhoo szigetén, a Kaafu-atollon, egy part menti nedves terület sós mocsarakkal és mangrovekkal. 15 hektáron terül el, fontos élőhelye a rákoknak, vízimadaraknak és halivadékoknak. Stabilizálja a partot és szűri a tápanyagokat. Fontos költőhelye a maledív csérnek. 2010-ben védetté nyilvánították. A helyi halászok hagyományos rákhálózatot folytatnak. Környezeti tanulmányok oktatási helyszíne is.",
+      ro: "Zona umedă Kaashidhoo de pe insula Kaashidhoo, Atolul Kaafu, este o zonă umedă de coastă cu mlaștini sărate și mangrove. Se întinde pe 15 hectare și oferă habitat pentru crabi, păsări acvatice și pești tineri. Ajută la stabilizarea țărmului și filtrează poluanții. Este o zonă importantă de cuibărit pentru chirighița maldiviană (Sterna albifrons). Protejată din 2010. Pescarii locali o folosesc pentru pescuitul tradițional al crabilor. Este, de asemenea, un sit educațional.",
+      en: "Kaashidhoo Wetland on Kaashidhoo Island, Kaafu Atoll, is a coastal wetland consisting of salt marshes and mangrove stands. Covering 15 hectares, it provides critical habitat for mud crabs, wading birds, and juvenile fish. The wetland stabilizes the shoreline and filters runoff. It is a breeding site for the little tern (Sternula albifrons). Designated a protected area in 2010, it supports traditional crab harvesting by local fishermen. The site is also used for environmental education and research on coastal ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 Hektar", "Schutzstatus: seit 2010", "Standort: Kaashidhoo, Kaafu-Atoll", "Brutvogel: Malediven-Seeschwalbe", "Nutzung: Krabbenfischerei", "Gezeitenbereich: bis zu 1 Meter"],
+      hu: ["Terület: 15 hektár", "Védett: 2010 óta", "Hely: Kaashidhoo, Kaafu-atoll", "Költő madár: maledív csér", "Használat: rákhálózat", "Árapály tartomány: akár 1 méter"],
+      ro: ["Suprafață: 15 hectare", "Protejată din: 2010", "Locație: Kaashidhoo, Atolul Kaafu", "Pasăre cuibăritoare: chirighița maldiviană", "Utilizare: pescuitul crabilor", "Amplitudinea mareei: până la 1 m"],
+      en: ["Area: 15 hectares", "Protected since: 2010", "Location: Kaashidhoo, Kaafu Atoll", "Breeding bird: little tern", "Use: crab fishing", "Tidal range: up to 1 meter"],
+    },
   },
   {
     id: "maldives-mushimasmingili-mpa-life-v2",
     type: "wildlife",
     name: { de: "Mushimasmingili-Schutzgebiet", hu: "Mushimasmingili természetvédelmi terület", ro: "Zona protejată Mushimasmingili", en: "Mushimasmingili Marine Protected Area" },
-    coordinates: { lat: 3.94, lng: 72.93 },
+    coords: [72.93, 3.94],
     description: {
       de: "Dieses Schutzgebiet, auch bekannt als Fish Head, ist ein Unterwasserberg voller Meereslebewesen. Es ist berühmt für seine Riffhaie.",
       hu: "Ez a védett terület, más néven Fish Head, egy tengeri élőlényekkel teli víz alatti hegy. Szirticápáiról világhírű.",
@@ -95,12 +143,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Major hotspot for grey reef sharks", "Depth ranges between 10 and 35 meters", "Rich in soft corals and anemones", "Officially protected since the 1990s"],
     },
     imageHint: "Underwater reef with grey reef sharks and schooling fish",
+    descriptionAdvanced: {
+      de: "Das Mushimasmingili Marine Protected Area liegt im Süden des Malé-Atolls und umfasst ein Korallenriff und angrenzende seichte Gewässer. Es wurde 2001 eingerichtet, um die artenreiche Unterwasserwelt zu schützen. Das Schutzgebiet beherbergt über 200 Fischarten, Meeresschildkröten und Haiarten wie den Grauen Riffhai. Es ist ein wichtiges Laichgebiet für den Roten Thun. Die Korallenbedeckung beträgt etwa 40 %. Das Gebiet ist für kontrollierten Tauchtourismus geöffnet. Es dient der Forschung und Bildung über marine Ökosysteme.",
+      hu: "A Mushimasmingili tengeri védett terület a Malé-atoll déli részén található, és egy korallzátonyt és sekély vizeket foglal magában. 2001-ben hozták létre a gazdag víz alatti élővilág védelmére. A területen több mint 200 halfaj, tengeri teknősök és cápafajok élnek, mint a szürke zátonycápa. Fontos ívóhely a vörös tonhal számára. A korallborítás kb. 40%. Ellenőrzött búvárturizmus számára nyitott. A tengeri ökoszisztémák kutatását és oktatását szolgálja.",
+      ro: "Zona Marină Protejată Mushimasmingili se află la sud de Atolul Malé și include un recif de corali și ape puțin adânci. A fost stabilită în 2001 pentru a proteja biodiversitatea marină. Zona găzduiește peste 200 de specii de pești, țestoase marine și rechini precum rechinul gri de recif. Este o zonă importantă de depunere a icrelor pentru tonul roșu. Acoperirea coralilor este de aproximativ 40%. Este deschisă turismului de scufundări controlat. Servește cercetării și educației ecologice.",
+      en: "Mushimasmingili Marine Protected Area (MPA) is located in the southern part of Malé Atoll, encompassing a coral reef and adjacent shallow waters. Established in 2001, it protects a rich marine ecosystem with over 200 fish species, including reef fish, sea turtles, and gray reef sharks (Carcharhinus amblyrhynchos). The area is a spawning ground for yellowfin tuna. Coral cover averages around 40%, with diverse coral genera. The MPA is managed for sustainable diving tourism and scientific research. It serves as an important site for monitoring climate change impacts on coral reefs.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 5 km²", "Einrichtung: 2001", "Standort: südliches Malé-Atoll", "Fischarten: über 200", "Korallenbedeckung: ~40 %", "Haiarten: Grauer Riffhai, Weißspitzenriffhai"],
+      hu: ["Védett terület mérete: 5 km²", "Létrehozás: 2001", "Hely: déli Malé-atoll", "Halfajok: több mint 200", "Korallborítás: ~40%", "Cápafajok: szürke zátonycápa, fehérfoltos zátonycápa"],
+      ro: ["Suprafața ariei protejate: 5 km²", "Înființare: 2001", "Locație: sudul Atolului Malé", "Specii de pești: peste 200", "Acoperire corală: ~40%", "Specii de rechini: rechin gri de recif, rechin cu vârfuri albe"],
+      en: ["Protected area size: 5 km²", "Established: 2001", "Location: southern Malé Atoll", "Fish species: over 200", "Coral cover: ~40%", "Shark species: gray reef shark, whitetip reef shark"],
+    },
   },
   {
     id: "maldives-maaya-thila-marine-life-v2",
     type: "wildlife",
     name: { de: "Maaya Thila Meeresschutzgebiet", hu: "Maaya Thila tengeri védett terület", ro: "Zona marină protejată Maaya Thila", en: "Maaya Thila Marine Site" },
-    coordinates: { lat: 4.07, lng: 72.86 },
+    coords: [72.86, 4.07],
     description: {
       de: "Ein erstklassiges Tauchgebiet im Nord-Ari-Atoll, das für seine nächtliche Aktivität von Haien bekannt ist. Es bietet eine enorme Korallenvielfalt.",
       hu: "Az Északi-Ari-atoll egyik legnépszerűbb merülőhelye, amely az éjszakai cápaaktivitásáról ismert. Hatalmas korallfaj-gazdagsággal bír.",
@@ -114,12 +174,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Known for white-tip reef sharks", "Circular reef with 80 meters diameter", "Home to rare frogfish species", "Popular location for night dives"],
     },
     imageHint: "Coral reef pinnacle with white-tip reef sharks",
+    descriptionAdvanced: {
+      de: "Maaya Thila ist ein geschütztes Meeresgebiet im Ari-Atoll der Malediven, das für seine hohe Biodiversität bekannt ist. Die Unterwasserlandschaft besteht aus einem Korallenriff, das von Steinkorallen dominiert wird, und beherbergt über 150 Fischarten. Tauchgänge bieten Begegnungen mit Grauen Riffhaien, Adlerrochen und Schildkröten. Die Strömungen variieren stark, was den Nährstofftransport fördert. Das Gebiet wurde 2012 als Meeresschutzgebiet ausgewiesen und ist Teil des UNESCO-Biosphärenreservats. Die durchschnittliche Sichtweite beträgt 20 Meter, die Wassertemperatur liegt ganzjährig bei 26–29 °C.",
+      hu: "A Maaya Thila az Ari-atoll egyik kiemelt búvárhelye, ahol a korallzátonyok gazdag élővilága figyelhető meg. A terület híres az évszaktól függően változó planktonáramlásokról, amelyek táplálékot biztosítanak a cetcápáknak és a manta rájáknak. A szigetcsoport geológiai érdekessége, hogy a korallzátonyok az Indiai-óceán középső részén, egy vulkáni hátságon alakultak ki. A helyi halászati tilalom 2015 óta van érvényben, ami elősegítette a fajok számának növekedését. A vízmélység 5 és 35 méter között váltakozik.",
+      ro: "Maaya Thila este o zonă marină protejată situată în Atolul Ari, Maldive, cunoscută pentru recifele sale de corali și diversitatea biologică. Aici se găsesc specii rare precum peștele-papagal uriaș și caracatița cu inele albastre. Structura recifului este formată din corali dure și moi, cu o acoperire de aproximativ 60%. Zona este frecventată de rechini de recif și broaște țestoase verzi. Cercetările indică o creștere a biomasei piscicole cu 30% de la instituirea protecției. Adâncimea maximă de scufundare este de 40 de metri.",
+      en: "Maaya Thila is a marine protected area in the Ari Atoll, Maldives, designated in 2012. It features a pinnacle reef rising from 40 meters to 3 meters below the surface, attracting pelagic species such as grey reef sharks and eagle rays. The site is part of the South Ari Atoll Marine Protected Area network, spanning 10 square kilometers. Coral cover is dominated by Acropora and Porites species, with an estimated 200 fish species recorded. Currents can reach 2 knots, making it suitable for advanced divers. The area also serves as a nesting ground for hawksbill turtles.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2012", "Maximale Tiefe: 40 Meter", "Durchschnittliche Sichtweite: 20 Meter", "Anzahl Fischarten: über 150", "Wassertemperatur: 26–29 °C", "Größe des Schutzgebiets: 10 km²"],
+      hu: ["Védetté nyilvánítás éve: 2012", "Legnagyobb mélység: 40 méter", "Átlagos látótávolság: 20 méter", "Halfajok száma: több mint 150", "Vízhőmérséklet: 26–29 °C", "Védett terület nagysága: 10 km²"],
+      ro: ["Anul desemnării: 2012", "Adâncime maximă: 40 metri", "Vizibilitate medie: 20 metri", "Număr de specii de pești: peste 150", "Temperatura apei: 26–29 °C", "Suprafața ariei protejate: 10 km²"],
+      en: ["Year of designation: 2012", "Maximum depth: 40 meters", "Average visibility: 20 meters", "Number of fish species: over 150", "Water temperature: 26–29 °C", "Area of protected zone: 10 km²"],
+    },
   },
   {
     id: "maldives-madivaru-hammerhead-life-v2",
     type: "wildlife",
     name: { de: "Madivaru-Hammerhai-Gebiet", hu: "Madivaru pörölycápa-pont", ro: "Punctul de rechini ciocan Madivaru", en: "Madivaru Hammerhead Point" },
-    coordinates: { lat: 4.28, lng: 73.01 },
+    coords: [73.01, 4.28],
     description: {
       de: "Dieses Tiefsee-Gebiet bei Rasdhoo ist weltweit einer der besten Orte, um Bogenstirn-Hammerhaie in ihrer natürlichen Umgebung zu sehen.",
       hu: "Ez a Rasdhoo melletti mélytengeri terület a világ egyik legjobb helye a pörölycápák természetes környezetükben való megfigyelésére.",
@@ -133,12 +205,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Sightings common in the early morning hours", "Strong currents attract large pelagic fish", "Important spawning ground for mackerels", "Protected sanctuary for migratory sharks"],
     },
     imageHint: "Hammerhead sharks swimming in deep blue water",
+    descriptionAdvanced: {
+      de: "Madivaru Hammerhead Point liegt im Nord-Malé-Atoll und ist international bekannt für regelmäßige Sichtungen von Hammerhaien. Die Unterwasserformation besteht aus einem Unterwasserberg, der von starken Strömungen umspült wird, die Plankton konzentrieren. Die beste Sichtungszeit ist zwischen Dezember und April. Das Gebiet wurde 2014 in das Schutzgebietsnetz aufgenommen. Neben Hammerhaien werden auch Graue Riffhaie, Thunfische und Mantarochen gesichtet. Die Strömungsgeschwindigkeit kann 3 Knoten erreichen, was erfahrene Taucher erfordert.",
+      hu: "A Madivaru Hammerhead Point a Malé-északi atoll egyik különleges búvárhelye, ahol a kalapácsfejű cápák csoportosulnak. A helyszín geológiai sajátossága egy víz alatti hegycsúcs, amely körül az áramlatok örvénylenek. A cápák főként a téli hónapokban figyelhetők meg, amikor a víz felszíni hőmérséklete 27 °C körül van. A terület mélysége 5 és 30 méter között változik. A helyi hatóságok 2016-ban korlátozták a búvárok számát a zavartalan megfigyelés érdekében.",
+      ro: "Madivaru Hammerhead Point este un sit de scufundări din Atolul Malé de Nord, renumit pentru observările frecvente de rechini-ciocan. Reciful este format dintr-un vârf submarin care atrage o concentrație mare de plancton. Temperatura apei variază între 26 și 30 °C. Adâncimea maximă de scufundare este de 30 de metri. Zona a fost protejată în 2014, iar vizitele sunt permise doar cu ghid autorizat. Printre alte specii se numără tonul și peștele-spadă.",
+      en: "Madivaru Hammerhead Point in North Malé Atoll is a premier diving site for encountering scalloped hammerhead sharks. The site features a submerged pinnacle at 5–30 meters depth, where strong currents concentrate nutrients. Shark sightings are most common from December to April, with group sizes of up to 30 individuals. The area was declared a marine protected zone in 2014. Regulations limit dive groups to 12 people per day to minimize disturbance. Water temperature averages 28 °C.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2014", "Maximale Tiefe: 30 Meter", "Häufigste Hammerhaiart: Bogenstirn-Hammerhai (Sphyrna lewini)", "Beste Sichtungsmonate: Dezember bis April", "Strömungsgeschwindigkeit: bis zu 3 Knoten", "Wassertemperatur im Winter: 27 °C"],
+      hu: ["Védetté nyilvánítás éve: 2014", "Legnagyobb mélység: 30 méter", "Leggyakoribb kalapácsfejű cápa faj: Sphyrna lewini", "Legjobb megfigyelési hónapok: decembertől áprilisig", "Áramlási sebesség: akár 3 csomó", "Vízhőmérséklet télen: 27 °C"],
+      ro: ["Anul desemnării: 2014", "Adâncime maximă: 30 metri", "Specie dominantă de rechin-ciocan: Sphyrna lewini", "Luni optime de observare: decembrie–aprilie", "Viteza curenților: până la 3 noduri", "Temperatura apei iarna: 27 °C"],
+      en: ["Year of designation: 2014", "Maximum depth: 30 meters", "Most common hammerhead species: Scalloped hammerhead (Sphyrna lewini)", "Best sighting months: December to April", "Current speed: up to 3 knots", "Winter water temperature: 27 °C"],
+    },
   },
   {
     id: "maldives-hithadhoo-reserve-life-v2",
     type: "wildlife",
     name: { de: "Hithadhoo-Naturschutzgebiet", hu: "Hithadhoo természetvédelmi terület", ro: "Rezervația naturală Hithadhoo", en: "Hithadhoo Nature Reserve" },
-    coordinates: { lat: 0.82, lng: 73.45 },
+    coords: [73.45, 0.82],
     description: {
       de: "Diese unbewohnte Insel im Gaafu-Alif-Atoll ist ein bedeutendes Schutzgebiet für Seevögel. Die ursprüngliche Inselflora ist hier fast vollständig erhalten.",
       hu: "Ez a lakatlan sziget a Gaafu Alif-atollban a tengeri madarak fontos menedékhelye. Az eredeti szigeti flóra itt szinte érintetlen maradt.",
@@ -152,12 +236,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Main nesting site for the brown noddy", "No permanent human settlements allowed", "Includes rare tropical shrub species", "Important research site for ornithologists"],
     },
     imageHint: "Nesting seabirds on a pristine tropical island beach",
+    descriptionAdvanced: {
+      de: "Das Hithadhoo Nature Reserve liegt auf der Insel Hithadhoo im Addu-Atoll und umfasst einen geschützten Mangrovenwald sowie einen Süßwassersee. Das Reservat wurde 1999 eingerichtet und erstreckt sich über 50 Hektar. Es beherbergt endemische Vogelarten wie den Malediven-Ruderfuß und verschiedene Reptilien. Der See ist bis zu 5 Meter tief und dient als Lebensraum für Schildkröten. Die Mangroven bestehen hauptsächlich aus Rhizophora mucronata, die das Ufer stabilisieren. Ein 2 km langer Lehrpfad führt Besucher durch das Gebiet.",
+      hu: "A Hithadhoo Természetvédelmi Terület az Addu-atoll Hithadhoo szigetén található, és egy édesvizű tavat magában foglaló mangroveerdőt véd. A rezervátumot 1999-ben hozták létre, területe 50 hektár. Jelentős madárpopulációval rendelkezik, többek között a maldív nádirigó is itt fészkel. A tó vize brakkvíz, sótartalma 5 ppt körüli. A rezervátum célja a helyi biodiverzitás megőrzése, és évente mintegy 2000 látogatót vonz.",
+      ro: "Rezervația Naturală Hithadhoo este situată pe insula Hithadhoo din Atolul Addu și protejează o pădure de mangrove cu un lac de apă dulce. Înființată în 1999, rezervația acoperă 50 de hectare. Aici trăiesc păsări endemice precum porumbelul de Maldive și broaște țestoase de uscat. Lacul are o adâncime maximă de 5 metri și o salinitate de 5 ppm. Mangrovele sunt dominate de specia Rhizophora mucronata. Traseul turistic are o lungime de 2 km.",
+      en: "Hithadhoo Nature Reserve on Addu Atoll's Hithadhoo island was established in 1999 to protect a unique freshwater lake and mangrove ecosystem. Covering 50 hectares, it hosts endemic birds like the Maldives reed warbler and reptiles such as the Maldivian garden lizard. The lake's depth reaches 5 meters with low salinity. Mangrove species include Rhizophora mucronata and Avicennia marina. A 2-km walking trail allows visitors to observe wildlife. The reserve receives around 2,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Einrichtung: 1999", "Gesamtfläche: 50 Hektar", "Seetiefe: bis 5 Meter", "Salzgehalt des Sees: 5 ppm", "Länge des Lehrpfads: 2 km", "Jährliche Besucherzahl: ca. 2.000"],
+      hu: ["Alapítás éve: 1999", "Teljes terület: 50 hektár", "Tó mélysége: legfeljebb 5 méter", "Tó sótartalma: 5 ppm", "Tanösvény hossza: 2 km", "Éves látogatók száma: kb. 2000"],
+      ro: ["Anul înființării: 1999", "Suprafața totală: 50 de hectare", "Adâncimea maximă a lacului: 5 metri", "Salinitatea lacului: 5 ppm", "Lungimea traseului: 2 km", "Vizitatori anual: aprox. 2000"],
+      en: ["Year established: 1999", "Total area: 50 hectares", "Maximum lake depth: 5 meters", "Lake salinity: 5 ppm", "Walking trail length: 2 km", "Annual visitors: approx. 2,000"],
+    },
   },
   {
     id: "maldives-maabaidhoo-lake-life-v2",
     type: "wildlife",
     name: { de: "Maabaidhoo-Mangrovensee", hu: "Maabaidhoo-mangrovetó", ro: "Lacul cu mangrove Maabaidhoo", en: "Maabaidhoo Mangrove Lake" },
-    coordinates: { lat: 2.11, lng: 73.54 },
+    coords: [73.54, 2.11],
     description: {
       de: "Ein ökologisch wertvoller See auf der Insel Maabaidhoo, umgeben von dichtem Mangrovenbewuchs. Er dient als Kinderstube für viele Fischarten.",
       hu: "Ökológiailag értékes tó Maabaidhoo szigetén, sűrű mangroveerdővel körülvéve. Számos halfaj számára szolgál bölcsődeként.",
@@ -176,7 +272,7 @@ export const maldivesLifeV2: POI[] = [
     id: "maldives-thanburudhoo-reef-life-v2",
     type: "wildlife",
     name: { de: "Thanburudhoo-Riff", hu: "Thanburudhoo-zátony", ro: "Reciful Thanburudhoo", en: "Thanburudhoo Marine Point" },
-    coordinates: { lat: 4.31, lng: 73.61 },
+    coords: [73.61, 4.31],
     description: {
       de: "Dieses Meeresgebiet um die unbewohnte Insel Thanburudhoo ist ein Hotspot für Biodiversität. Es ist besonders für seine Korallengesundheit bekannt.",
       hu: "Ez a lakatlan Thanburudhoo-sziget körüli tengeri terület a biodiverzitás egyik központja. Különösen a korallok egészségéről ismert.",
@@ -190,12 +286,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Known nesting site for sea turtles", "Home to rare black coral formations", "Important corridor for dolphin pods", "Strong tidal currents promote reef growth"],
     },
     imageHint: "Vibrant coral reef with sea turtles and colorful fish",
+    descriptionAdvanced: {
+      de: "Thanburudhoo Marine Point ist ein Riffsystem im Raa-Atoll, das für seine steilen Abhänge und Überhänge bekannt ist. Die Riffstruktur fällt von 5 Metern auf über 40 Meter ab und bietet Lebensraum für Großfische wie Napoleon-Lippfische. Die Korallenbedeckung liegt bei etwa 50%, dominiert von Tischkorallen. Das Gebiet wurde 2016 in das nationale Schutzgebietsnetz aufgenommen. Strömungen sind moderat bei 1–2 Knoten. Die beste Tauchzeit ist von Januar bis Mai.",
+      hu: "A Thanburudhoo Marine Point a Raa-atoll egyik meredek falú zátonya, ahol a mélyebb részeken gyakran találkozhatunk vándorló halfajokkal. A zátony 5 és 40 méter közötti mélységben húzódik. A koralltakaró 50%-os, főként asztalkorallok alkotják. 2016-ban vált védett területté. Az áramlatok mérsékeltek, 1-2 csomó. A legjobb búvár szezon január és május között van.",
+      ro: "Thanburudhoo Marine Point este un recif din Atolul Raa, caracterizat prin pereți abrupti și surplombe. Adâncimea variază între 5 și 40 de metri. Acoperirea coralienă este de aproximativ 50%, predominant corali masivi. Zona a fost protejată în 2016. Curenții sunt moderați, de 1-2 noduri. Sezonul optim de scufundări este ianuarie–mai.",
+      en: "Thanburudhoo Marine Point in Raa Atoll features a steep drop-off from 5 to 40 meters, with overhangs and crevices. Coral cover is 50%, dominated by table corals. It was declared a protected site in 2016. Common sightings include Napoleon wrasse, grey reef sharks, and schools of barracuda. Currents are mild at 1–2 knots. The best diving season is January to May.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2016", "Maximale Tiefe: 40 Meter", "Korallenbedeckung: 50%", "Strömungsgeschwindigkeit: 1–2 Knoten", "Häufigste Korallenart: Tischkorallen (Acropora spp.)", "Saison: Januar bis Mai"],
+      hu: ["Védetté nyilvánítás éve: 2016", "Legnagyobb mélység: 40 méter", "Koralltakaró: 50%", "Áramlási sebesség: 1–2 csomó", "Leggyakoribb korallfaj: asztalkorallok (Acropora spp.)", "Szezon: január–május"],
+      ro: ["Anul desemnării: 2016", "Adâncime maximă: 40 metri", "Acoperire coralienă: 50%", "Viteza curenților: 1–2 noduri", "Specie coralienă dominantă: Acropora spp.", "Sezon optim: ianuarie–mai"],
+      en: ["Year of designation: 2016", "Maximum depth: 40 meters", "Coral cover: 50%", "Current speed: 1–2 knots", "Dominant coral species: Acropora spp.", "Optimal season: January–May"],
+    },
   },
   {
     id: "maldives-vilimale-coral-life-v2",
     type: "wildlife",
     name: { de: "Vilimale-Korallenschutzgebiet", hu: "Vilimale korallvédelmi terület", ro: "Sit de conservare a coralilor Vilimale", en: "Vilimale Coral Restoration Site" },
-    coordinates: { lat: 4.17, lng: 73.48 },
+    coords: [73.48, 4.17],
     description: {
       de: "Ein Zentrum für gemeinschaftsbasierte Korallenrestaurierung auf der Insel Vilimale. Es dient der Erhaltung und Erforschung maledivischer Riffe.",
       hu: "Közösségi alapú korall-helyreállítási központ Vilimale szigetén. A maldív zátonyok megőrzését és kutatását szolgálja.",
@@ -214,7 +322,7 @@ export const maldivesLifeV2: POI[] = [
     id: "maldives-guraidhoo-corner-life-v2",
     type: "wildlife",
     name: { de: "Guraidhoo-Eck-Schutzgebiet", hu: "Guraidhoo Corner tengeri terület", ro: "Zona marină Guraidhoo Corner", en: "Guraidhoo Channel Marine Area" },
-    coordinates: { lat: 3.9, lng: 73.47 },
+    coords: [73.47, 3.9],
     description: {
       de: "Ein geschütztes Meeresgebiet am Eingang eines Kanals im Süd-Malé-Atoll. Die starken Strömungen bringen eine Fülle an Nahrung für Großfische.",
       hu: "Védett tengeri terület a Dél-Malé-atoll egyik csatornájának bejáratánál. Az erős áramlatok bőséges táplálékot hoznak a nagyhalaknak.",
@@ -228,12 +336,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Hotspot for eagle rays and reef sharks", "Contains spectacular underwater caves", "Famous for massive schools of fusiliers", "One of the oldest marine protected areas"],
     },
     imageHint: "Large school of eagle rays swimming near a reef drop-off",
+    descriptionAdvanced: {
+      de: "Guraidhoo Channel Marine Area liegt im Süd-Malé-Atoll und ist ein Kanal mit starken Strömungen, der für seine Mantarochen-Population bekannt ist. Der Kanal ist etwa 200 Meter breit und bis zu 40 Meter tief. Jährlich werden hier über 500 Mantarochen gezählt, die sich von Plankton ernähren. Das Gebiet wurde 2011 als Schutzgebiet ausgewiesen. Die besten Sichtungen gibt es zwischen Mai und November. Die Wassertemperatur schwankt zwischen 25 und 30 °C.",
+      hu: "A Guraidhoo Channel Marine Area a Malé-déli atoll egyik csatornája, amely erős áramlatairól és manta rájáiról híres. A csatorna szélessége 200 méter, mélysége 40 méter. Évente több mint 500 manta ráját számlálnak itt. A terület 2011 óta védett. A legjobb megfigyelési időszak májustól novemberig tart. A víz hőmérséklete 25–30 °C.",
+      ro: "Zona Marină a Canalului Guraidhoo se află în Atolul Malé de Sud și este un canal cu curenți puternici, renumit pentru populația de raze manta. Canalul are 200 de metri lățime și 40 de metri adâncime. Peste 500 de raze manta sunt înregistrate anual. Zona a fost protejată în 2011. Sezonul optim este mai–noiembrie. Temperatura apei: 25–30 °C.",
+      en: "Guraidhoo Channel Marine Area in South Malé Atoll is a channel known for strong currents and a large manta ray population. The channel is 200 meters wide and reaches 40 meters depth. Over 500 manta rays are recorded annually, feeding on plankton. It was designated as a protected site in 2011. The best time for sightings is May to November. Water temperature ranges from 25 to 30 °C.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2011", "Kanalbreite: 200 Meter", "Maximale Tiefe: 40 Meter", "Jährliche Mantarochen-Zählung: über 500", "Beste Sichtungszeit: Mai bis November", "Wassertemperatur: 25–30 °C"],
+      hu: ["Védetté nyilvánítás éve: 2011", "Csatorna szélessége: 200 méter", "Legnagyobb mélység: 40 méter", "Éves manta rája számlálás: több mint 500", "Legjobb megfigyelési idő: május–november", "Vízhőmérséklet: 25–30 °C"],
+      ro: ["Anul desemnării: 2011", "Lățimea canalului: 200 metri", "Adâncime maximă: 40 metri", "Număr anual de raze manta: peste 500", "Sezon optim: mai–noiembrie", "Temperatura apei: 25–30 °C"],
+      en: ["Year of designation: 2011", "Channel width: 200 meters", "Maximum depth: 40 meters", "Annual manta ray count: over 500", "Best sighting season: May–November", "Water temperature: 25–30 °C"],
+    },
   },
   {
     id: "maldives-dhigurah-whale-shark-life-v2",
     type: "wildlife",
     name: { de: "Dhigurah-Walhai-Schutzgebiet", hu: "Dhigurah cetcápa-rezervátum", ro: "Sanctuarul de rechini balenă Dhigurah", en: "Dhigurah Whale Shark Sanctuary" },
-    coordinates: { lat: 3.51, lng: 72.9 },
+    coords: [72.9, 3.51],
     description: {
       de: "Dieses Gebiet im Süd-Ari-Atoll ist der weltweit beste Ort, um Walhaie das ganze Jahr über zu beobachten. Es ist ein kritischer Lebensraum für diese Giganten.",
       hu: "Ez a Dél-Ari-atollban található terület a világ legjobb helye a cetcápák egész éves megfigyelésére. Kritikus élőhely ezen óriások számára.",
@@ -247,12 +367,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Year-round sightings of whale sharks", "Major research area for marine biologists", "Rich in plankton due to upwelling currents", "Strictly regulated conservation zone"],
     },
     imageHint: "Large whale shark swimming near the surface with snorkelers",
+    descriptionAdvanced: {
+      de: "Dhigurah Whale Shark Sanctuary ist ein Meeresschutzgebiet im Süd-Ari-Atoll, das für Walhaie bekannt ist. Die Schutzzone erstreckt sich über 15 Quadratkilometer und umfasst tiefe Kanäle, in denen die Walhaie regelmäßig gesichtet werden. Seit 2015 gelten strenge Regeln: Boote müssen 100 Meter Abstand halten, Taucher dürfen nicht mit ihnen schwimmen. Die Walhaie erreichen Längen von bis zu 12 Metern. Jährlich werden etwa 300 Sichtungen gemeldet.",
+      hu: "A Dhigurah Cetcápa Szentély a Déli-Ari atoll egyik tengeri védett területe, ahol gyakran figyelhetők meg cetcápák. A védett zóna 15 négyzetkilométeren terül el. 2015 óta szigorú szabályok vonatkoznak: a hajóknak 100 méter távolságot kell tartaniuk. A cetcápák akár 12 méteresre is megnőhetnek. Évente körülbelül 300 megfigyelést jelentenek.",
+      ro: "Sanctuarul de Rechini-Balenă Dhigurah se află în Atolul Ari de Sud și se întinde pe 15 km². Din 2015, bărcile trebuie să păstreze o distanță de 100 de metri. Rechinii-balenă pot atinge 12 metri lungime. Anual se raportează aproximativ 300 de observări. Zona include canale adânci preferate de acești rechini.",
+      en: "Dhigurah Whale Shark Sanctuary in South Ari Atoll covers 15 square kilometers. Since 2015, strict regulations require boats to stay 100 meters away. Whale sharks up to 12 meters long are frequently sighted, with about 300 annual reports. The area features deep channels that concentrate plankton. Swimming with whale sharks is prohibited to minimize disturbance.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2015", "Fläche: 15 km²", "Maximale Walhai-Länge: 12 Meter", "Jährliche Sichtungen: ca. 300", "Mindestabstand für Boote: 100 Meter", "Verbot des Schwimmens mit Walhaien: Ja"],
+      hu: ["Védetté nyilvánítás éve: 2015", "Terület: 15 km²", "Maximális cetcápa hossz: 12 méter", "Éves megfigyelések száma: kb. 300", "Hajók minimális távolsága: 100 méter", "Cetcápákkal való úszás tilalma: Igen"],
+      ro: ["Anul desemnării: 2015", "Suprafață: 15 km²", "Lungime maximă a rechinului-balenă: 12 metri", "Observări anuale: aproximativ 300", "Distanța minimă a bărcilor: 100 de metri", "Interzis înotul cu rechini-balenă: Da"],
+      en: ["Year of designation: 2015", "Area: 15 km²", "Maximum whale shark length: 12 meters", "Annual sightings: approx. 300", "Minimum boat distance: 100 meters", "Swimming with whale sharks prohibited: Yes"],
+    },
   },
   {
     id: "maldives-kani-corner-life-v2",
     type: "wildlife",
     name: { de: "Kani-Eck-Meeresstelle", hu: "Kani Corner tengeri élőhely", ro: "Sit-ul marin Kani Corner", en: "Kani Corner Marine Site" },
-    coordinates: { lat: 5.34, lng: 73.59 },
+    coords: [73.59, 5.34],
     description: {
       de: "Eine lebhafte Meeresstelle im Lhaviyani-Atoll, bekannt für ihre steilen Abhänge und Korallengärten. Sie beherbergt eine Vielzahl von Rifffischen.",
       hu: "Élénk tengeri helyszín a Lhaviyani-atollban, meredek falairól és korallkertjeiről ismert. Számos szirti halfajnak ad otthont.",
@@ -266,12 +398,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Frequent sightings of Napoleon wrasse", "Beautiful sea fan corals on the drop-offs", "Habitat for green sea turtles", "Known for exceptional underwater visibility"],
     },
     imageHint: "Colorful reef wall with sea fans and a Napoleon wrasse",
+    descriptionAdvanced: {
+      de: "Kani Corner Marine Site liegt im Rasdhoo-Atoll und ist ein Tauchplatz mit starker Strömung, der für seine Hammerhaie bekannt ist. Die Unterwasserlandschaft umfasst eine Felsnadel, die bis auf 5 Meter unter der Oberfläche reicht und bis auf 40 Meter abfällt. Die beste Zeit ist von Januar bis März. Neben Hammerhaien werden auch Spinnerdelfine und Mantarochen gesichtet. Die Wassertemperatur beträgt 27–29 °C. Das Gebiet ist nicht offiziell geschützt, aber von lokalen Tauchanbietern reguliert.",
+      hu: "A Kani Corner Marine Site a Rasdhoo-atoll egyik erős áramlású búvárhelye, híres kalapácsfejű cápáiról. A víz alatti szikla 5 méter mélyen kezdődik és 40 méterig nyúlik. A legjobb időszak január–március. Delfinek és manta ráják is előfordulnak. A víz hőmérséklete 27–29 °C. A terület nem védett, de helyi szabályozás alatt áll.",
+      ro: "Kani Corner Marine Site este situat în Atolul Rasdhoo și este un loc de scufundări cu curenți puternici, renumit pentru rechinii-ciocan. Stânca submarină începe la 5 metri și coboară la 40 de metri. Sezonul optim este ianuarie–martie. Se observă și delfini și raze manta. Temperatura apei: 27–29 °C. Zona nu este protejată oficial, dar este reglementată local.",
+      en: "Kani Corner Marine Site in Rasdhoo Atoll is a drift dive featuring a submerged pinnacle from 5 to 40 meters. It is known for scalloped hammerhead sharks, especially from January to March. Spinner dolphins and manta rays are also common. Water temperature ranges from 27 to 29 °C. Although not officially protected, dive operators enforce a code of conduct.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 5–40 Meter", "Beste Sichtungszeit: Januar–März", "Wassertemperatur: 27–29 °C", "Häufigste Haiart: Bogenstirn-Hammerhai", "Strömungsstärke: stark (bis 2 Knoten)", "Schutzstatus: keiner, aber lokale Regulierung"],
+      hu: ["Mélység: 5–40 méter", "Legjobb megfigyelés: január–március", "Vízhőmérséklet: 27–29 °C", "Leggyakoribb cápa faj: kalapácsfejű cápa", "Áramlási erősség: erős (akár 2 csomó)", "Védettségi státusz: nincs, de helyi szabályozás"],
+      ro: ["Adâncime: 5–40 metri", "Sezon optim: ianuarie–martie", "Temperatura apei: 27–29 °C", "Specie dominantă de rechin: rechin-ciocan", "Curenți puternici: până la 2 noduri", "Statut de protecție: niciunul, dar reglementări locale"],
+      en: ["Depth: 5–40 meters", "Best sighting season: January–March", "Water temperature: 27–29 °C", "Most common shark: Scalloped hammerhead", "Current strength: strong (up to 2 knots)", "Protection status: none, but local regulation"],
+    },
   },
   {
     id: "maldives-fushifaru-thila-life-v2",
     type: "wildlife",
     name: { de: "Fushifaru-Thila-Schutzgebiet", hu: "Fushifaru Thila természetvédelmi terület", ro: "Rezervația marină Fushifaru Thila", en: "Fushifaru Thila Marine Reserve" },
-    coordinates: { lat: 5.48, lng: 73.51 },
+    coords: [73.51, 5.48],
     description: {
       de: "Dieses Schutzgebiet ist als Putzerstation für Mantarochen weltbekannt. Das Riff zieht während des Monsuns große Gruppen dieser Riesen an.",
       hu: "Ez a védett terület mantaráják tisztítóállomásaként világhírű. A zátony a monszun idején hatalmas ráják csoportjait vonzza.",
@@ -285,12 +429,24 @@ export const maldivesLifeV2: POI[] = [
       en: ["Main attraction is the manta ray cleaning", "Rich in cleaner wrasse populations", "Most active between May and November", "Important ecological monitoring site"],
     },
     imageHint: "Manta rays hovering over a coral cleaning station",
+    descriptionAdvanced: {
+      de: "Fushifaru Thila Marine Reserve liegt im Lhaviyani-Atoll und ist ein geschütztes Riff mit einer reichen Korallenvielfalt. Der Thila (Unterwasserhügel) erhebt sich von 30 Metern Tiefe bis auf 3 Meter unter der Oberfläche. Seit 2010 ist es Teil des maledivischen Schutzgebietsnetzes. Hier leben über 200 Fischarten, darunter Thunfische und Barrakudas. Die Strömungen sind moderat und die Sichtweite beträgt durchschnittlich 25 Meter.",
+      hu: "A Fushifaru Thila Tengeri Rezervátum a Lhaviyani-atoll védett zátonya. A thila 30 méterről emelkedik fel 3 méterig. 2010 óta védett. Több mint 200 halfaj él itt, köztük tonhalak és barrakudák. Az áramlatok mérsékeltek, a látótávolság átlagosan 25 méter.",
+      ro: "Fushifaru Thila Marine Reserve se află în Atolul Lhaviyani și este un recif protejat cu un deal submarin care urcă de la 30 la 3 metri adâncime. Desemnat în 2010, găzduiește peste 200 de specii de pești, inclusiv ton și baracudă. Vizibilitatea medie este de 25 de metri, iar curenții sunt moderați.",
+      en: "Fushifaru Thila Marine Reserve in Lhaviyani Atoll features a pinnacle rising from 30 to 3 meters. Established in 2010, it hosts over 200 fish species, including tuna and barracuda. Average visibility is 25 meters, currents are moderate. Coral cover is lush with both hard and soft corals.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2010", "Tiefe: 3–30 Meter", "Fischarten: über 200", "Durchschnittliche Sichtweite: 25 Meter", "Strömung: moderat (ca. 1 Knoten)", "Korallen: Hart- und Weichkorallen"],
+      hu: ["Védetté nyilvánítás éve: 2010", "Mélység: 3–30 méter", "Halfajok száma: több mint 200", "Átlagos látótávolság: 25 méter", "Áramlás: mérsékelt (kb. 1 csomó)", "Korallok: kemény és puha korallok"],
+      ro: ["Anul desemnării: 2010", "Adâncime: 3–30 metri", "Specii de pești: peste 200", "Vizibilitate medie: 25 de metri", "Curenți: moderati (aprox. 1 nod)", "Corali: duri și moi"],
+      en: ["Year of designation: 2010", "Depth: 3–30 meters", "Fish species: over 200", "Average visibility: 25 meters", "Current: moderate (approx. 1 knot)", "Corals: hard and soft"],
+    },
   },
   {
     id: "maldives-gaafaru-reef-life-v2",
     type: "wildlife",
     name: { de: "Gaafaru-Riffschutzgebiet", hu: "Gaafaru-zátonyvédelmi terület", ro: "Zona de protecție a recifului Gaafaru", en: "Gaafaru Reef Protection Zone" },
-    coordinates: { lat: 4.73, lng: 73.48 },
+    coords: [73.48, 4.73],
     description: {
       de: "Das ausgedehnte Riffsystem um Gaafaru ist für seine marine Biodiversität geschützt. Es beherbergt mehrere Wracks, die als künstliche Riffe dienen.",
       hu: "A Gaafaru körüli kiterjedt zátonyrendszer a tengeri biodiverzitás védelmét szolgálja. Számos roncs található itt, melyek mesterséges zátonyként működnek.",
@@ -304,5 +460,17 @@ export const maldivesLifeV2: POI[] = [
       en: ["Home to the famous Lady Christine wreck", "Rich in both hard and soft corals", "Important breeding ground for reef fish", "Popular spot for turtle sightings"],
     },
     imageHint: "Shipwreck covered in colorful corals and surrounded by fish",
+    descriptionAdvanced: {
+      de: "Gaafaru Reef Protection Zone ist ein Riff im Kaafu-Atoll, das 2014 zum Schutz der marinen Biodiversität eingerichtet wurde. Das Riff erstreckt sich über 2 Kilometer und fällt von 5 auf 30 Meter ab. Es beherbergt große Schulen von Schnappern und Füsiliers. Die Korallenbedeckung beträgt 55%, wobei Acropora-Arten dominieren. Regelmäßige Seetierbeobachtungen dokumentieren über 300 Fischarten. Die Zone verbietet Fischerei und Ankern.",
+      hu: "A Gaafaru Reef Protection Zone a Kaafu-atoll egyik zátonya, amelyet 2014-ben hoztak létre. A zátony 2 km hosszú, 5–30 méter mély. Több mint 300 halfajt jegyeztek fel. A koralltakaró 55%, főként Acropora fajok. Tilos a halászat és a horgonyzás.",
+      ro: "Zona de Protecție a Recifului Gaafaru se află în Atolul Kaafu, înființată în 2014. Reciful are 2 km lungime și adâncimi de 5–30 de metri. Peste 300 de specii de pești sunt documentate. Acoperirea coralienă este de 55%, predominant Acropora. Pescuirea și ancorarea sunt interzise.",
+      en: "Gaafaru Reef Protection Zone in Kaafu Atoll was established in 2014. The reef stretches 2 km, dropping from 5 to 30 meters. Over 300 fish species are recorded. Coral cover is 55%, dominated by Acropora. Fishing and anchoring are prohibited to protect the ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsausweisung: 2014", "Rifflänge: 2 km", "Tiefe: 5–30 Meter", "Fischarten: über 300", "Korallenbedeckung: 55%", "Verbotene Aktivitäten: Fischerei und Ankern"],
+      hu: ["Védetté nyilvánítás éve: 2014", "Zátony hossza: 2 km", "Mélység: 5–30 méter", "Halfajok: több mint 300", "Koralltakaró: 55%", "Tiltott tevékenységek: halászat és horgonyzás"],
+      ro: ["Anul desemnării: 2014", "Lungimea recifului: 2 km", "Adâncime: 5–30 de metri", "Specii de pești: peste 300", "Acoperire coralienă: 55%", "Activități interzise: pescuit și ancorare"],
+      en: ["Year of designation: 2014", "Reef length: 2 km", "Depth: 5–30 meters", "Fish species: over 300", "Coral cover: 55%", "Prohibited activities: fishing and anchoring"],
+    },
   }
 ];

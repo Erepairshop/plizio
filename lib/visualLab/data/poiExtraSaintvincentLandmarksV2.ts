@@ -5,7 +5,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-st-georges-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. George's Kathedrale", hu: "Szent György-székesegyház", ro: "Catedrala Sfântul Gheorghe", en: "St. George's Cathedral" },
-    coordinates: { lat: 13.1561, lng: -61.2269 },
+    coords: [-61.2269, 13.1561],
     description: {
       de: "Die anglikanische Kathedrale in Kingstown wurde 1820 im georgianischen Stil erbaut. Sie ist bekannt für ihre kunstvollen Buntglasfenster und die historische Architektur.",
       hu: "A kingstowni anglikán székesegyház 1820-ban épült georgiánus stílusban. Díszes ólomüveg ablakairól és történelmi építészetéről ismert.",
@@ -24,7 +24,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-st-marys-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Mary's Kathedrale der Himmelfahrt", hu: "Szent Mária Mennybemenetele székesegyház", ro: "Catedrala Sfânta Maria a Adormirii", en: "St. Mary's Cathedral of the Assumption" },
-    coordinates: { lat: 13.1565, lng: -61.2272 },
+    coords: [-61.2272, 13.1565],
     description: {
       de: "Diese römisch-katholische Kathedrale besticht durch eine ungewöhnliche Mischung aus gotischen, romanischen und maurischen Baustilen. Sie wurde im frühen 19. Jahrhundert errichtet.",
       hu: "Ez a római katolikus székesegyház gótikus, román és mór építészeti stílusok szokatlan keverékével tűnik ki. A 19. század elején épült.",
@@ -43,7 +43,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-layou-petroglyph-landmarks-v2",
     type: "monument",
     name: { de: "Layou Petroglyphen", hu: "Layou-i petroglifák", ro: "Petrogliifele din Layou", en: "Layou Petroglyph" },
-    coordinates: { lat: 13.2036, lng: -61.2656 },
+    coords: [-61.2656, 13.2036],
     description: {
       de: "Diese präkolumbianischen Felsritzungen stammen vermutlich von den Kariben. Sie befinden sich auf einem großen vulkanischen Felsen im Layou-Tal.",
       hu: "Ezek a kolumbusz előtti sziklavésetek valószínűleg a karib indiánoktól származnak. Egy nagy vulkáni sziklán találhatók a Layou-völgyben.",
@@ -62,7 +62,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-carnegie-building-landmarks-v2",
     type: "landmark",
     name: { de: "Carnegie-Gebäude", hu: "Carnegie-épület", ro: "Clădirea Carnegie", en: "The Carnegie Building" },
-    coordinates: { lat: 13.1558, lng: -61.2258 },
+    coords: [-61.2258, 13.1558],
     description: {
       de: "Das 1909 eröffnete Gebäude in Kingstown beherbergte früher die öffentliche Bibliothek. Es wurde durch eine Spende des Philanthropen Andrew Carnegie finanziert.",
       hu: "A kingstowni épület 1909-ben nyílt meg, és korábban a nyilvános könyvtárnak adott otthont. Andrew Carnegie filantróp adományából finanszírozták.",
@@ -81,7 +81,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-cenotaph-kingstown-landmarks-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal Kingstown", hu: "Kingstowni háborús emlékmű", ro: "Cenotaful din Kingstown", en: "Kingstown Cenotaph" },
-    coordinates: { lat: 13.155, lng: -61.225 },
+    coords: [-61.225, 13.155],
     description: {
       de: "Dieses Denkmal wurde 1925 zum Gedenken an die Soldaten aus St. Vincent errichtet, die im Ersten Weltkrieg kämpften. Es befindet sich im Herzen der Hauptstadt.",
       hu: "Ezt az emlékművet 1925-ben emelték az első világháborúban harcoló St. Vincent-i katonák emlékére. A főváros szívében található.",
@@ -100,7 +100,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-house-of-assembly-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude", hu: "Parlament épülete", ro: "Casa Adunării", en: "House of Assembly" },
-    coordinates: { lat: 13.156, lng: -61.226 },
+    coords: [-61.226, 13.156],
     description: {
       de: "In diesem historischen Gebäude tagt das Parlament von St. Vincent und den Grenadinen. Es ist ein bedeutendes Beispiel für die koloniale Architektur in Kingstown.",
       hu: "Ebben a történelmi épületben ülésezik St. Vincent és a Grenadine-szigetek parlamentje. Kingstown gyarmati építészetének egyik jelentős példája.",
@@ -119,7 +119,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-botanical-gardens-landmarks-v2",
     type: "park",
     name: { de: "Botanischer Garten St. Vincent", hu: "St. Vincent-i botanikus kert", ro: "Grădina Botanică St. Vincent", en: "St. Vincent Botanical Gardens" },
-    coordinates: { lat: 13.1644, lng: -61.2281 },
+    coords: [-61.2281, 13.1644],
     description: {
       de: "Gegründet im Jahr 1765, ist dies einer der ältesten botanischen Gärten in der westlichen Hemisphäre. Er beherbergt seltene Pflanzen und das Nicholas Wildlife Lab.",
       hu: "Az 1765-ben alapított kert a nyugati félteke egyik legrégebbi botanikus kertje. Ritka növényeknek és a Nicholas Wildlife Lab-nak ad otthont.",
@@ -138,7 +138,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-dorsetshire-hill-landmarks-v2",
     type: "monument",
     name: { de: "Dorsetshire Hill Monument", hu: "Dorsetshire Hill emlékmű", ro: "Monumentul Dorsetshire Hill", en: "Dorsetshire Hill Monument" },
-    coordinates: { lat: 13.167, lng: -61.217 },
+    coords: [-61.217, 13.167],
     description: {
       de: "Dieses Denkmal ehrt Joseph Chatoyer, den Nationalhelden von St. Vincent. Es markiert den Ort, an dem er 1795 im Kampf gegen die Briten fiel.",
       hu: "Ez az emlékmű Joseph Chatoyer-nek, St. Vincent nemzeti hősének állít emléket. Megjelöli azt a helyet, ahol 1795-ben a britek elleni harcban elesett.",
@@ -157,7 +157,7 @@ export const saintvincentLandmarksV2: POI[] = [
     id: "saintvincent-victoria-park-landmarks-v2",
     type: "landmark",
     name: { de: "Victoria Park", hu: "Viktória-park", ro: "Parcul Victoria", en: "Victoria Park" },
-    coordinates: { lat: 13.159, lng: -61.23 },
+    coords: [-61.23, 13.159],
     description: {
       de: "Dieser historische Sportplatz wurde 1887 zu Ehren des Goldenen Thronjubiläums von Königin Victoria benannt. Er ist ein zentraler Ort für Cricket und Paraden.",
       hu: "Ezt a történelmi sportpályát 1887-ben nevezték el Viktória királynő aranyjubileuma tiszteletére. A krikett és a parádék központi helyszíne.",

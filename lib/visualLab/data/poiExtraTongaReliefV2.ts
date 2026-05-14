@@ -5,7 +5,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-kao-relief-v2",
     type: "mountain",
     name: { de: "Kao", hu: "Kao", ro: "Kao", en: "Kao" },
-    coordinates: { lat: -19.67, lng: -175.02 },
+    coords: [-175.02, -19.67],
     description: {
       de: "Kao ist der höchste Berg von Tonga und ein symmetrischer Vulkankegel. Er liegt auf einer unbewohnten Insel nördlich von Tofua.",
       hu: "A Kao Tonga legmagasabb pontja, egy szimmetrikus vulkáni kúp. Egy lakatlan szigeten található, Tofua szigetétől északra.",
@@ -24,7 +24,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-tofua-relief-v2",
     type: "mountain",
     name: { de: "Tofua", hu: "Tofua", ro: "Tofua", en: "Tofua" },
-    coordinates: { lat: -19.75, lng: -175.07 },
+    coords: [-175.07, -19.75],
     description: {
       de: "Tofua ist eine kreisförmige Vulkaninsel mit einer breiten Caldera im Zentrum. Der aktive Vulkan beherbergt einen tiefen Kratersee.",
       hu: "Tofua egy kör alakú vulkáni sziget, amelynek közepén egy hatalmas kaldera található. Az aktív vulkán egy mély krátertavat rejt.",
@@ -43,7 +43,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-late-relief-v2",
     type: "mountain",
     name: { de: "Late", hu: "Late", ro: "Late", en: "Late" },
-    coordinates: { lat: -18.8, lng: -174.65 },
+    coords: [-174.65, -18.8],
     description: {
       de: "Die Insel Late ist ein hoher Vulkankegel, der steil aus dem Pazifik aufragt. Er besteht hauptsächlich aus basaltischem Andesit.",
       hu: "Late szigete egy magas vulkáni kúp, amely meredeken emelkedik ki a Csendes-óceánból. Főleg bazaltos andezitből épül fel.",
@@ -62,7 +62,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-fonualei-relief-v2",
     type: "mountain",
     name: { de: "Fonualei", hu: "Fonualei", ro: "Fonualei", en: "Fonualei" },
-    coordinates: { lat: -18.02, lng: -174.32 },
+    coords: [-174.32, -18.02],
     description: {
       de: "Fonualei ist ein aktiver Vulkan auf einer abgelegenen Insel im Norden von Tonga. Er ist bekannt für seine heftigen historischen Eruptionen.",
       hu: "Fonualei egy aktív vulkán egy távoli szigeten Tonga északi részén. Heves történelmi kitöréseiről ismert.",
@@ -81,7 +81,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-niuafoou-relief-v2",
     type: "mountain",
     name: { de: "Niuafo'ou", hu: "Niuafo'ou", ro: "Niuafo'ou", en: "Niuafo'ou" },
-    coordinates: { lat: -15.56, lng: -175.63 },
+    coords: [-175.63, -15.56],
     description: {
       de: "Niuafo'ou ist ein aktiver Schildvulkan und die nördlichste Insel des Königreichs. Ihre kreisförmige Gestalt wird durch einen großen Binnensee geprägt.",
       hu: "Niuafo'ou egy aktív pajzsvulkán, a királyság legészakibb szigete. Gyűrű alakú formáját egy nagy belső tó határozza meg.",
@@ -100,7 +100,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-niuatoputapu-relief-v2",
     type: "mountain",
     name: { de: "Niuatoputapu", hu: "Niuatoputapu", ro: "Niuatoputapu", en: "Niuatoputapu" },
-    coordinates: { lat: -15.95, lng: -173.74 },
+    coords: [-173.74, -15.95],
     description: {
       de: "Niuatoputapu ist eine vulkanische Insel mit einem zentralen Kamm, der von Korallenriffen umgeben ist. Sie ist Teil der nördlichsten Inselgruppe Tongas.",
       hu: "Niuatoputapu egy vulkáni sziget központi gerinccel, amelyet korallzátonyok vesznek körül. Tonga legészakibb szigetcsoportjának része.",
@@ -119,7 +119,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-tafahi-relief-v2",
     type: "mountain",
     name: { de: "Tafahi", hu: "Tafahi", ro: "Tafahi", en: "Tafahi" },
-    coordinates: { lat: -15.85, lng: -173.71 },
+    coords: [-173.71, -15.85],
     description: {
       de: "Tafahi ist ein markanter Vulkankegel nordöstlich von Niuatoputapu. Die Insel besteht fast ausschließlich aus dem steilen Stratovulkan.",
       hu: "Tafahi egy jellegzetes vulkáni kúp Niuatoputapu-tól északkeletre. A sziget szinte teljesen a meredek sztratovulkánból áll.",
@@ -138,7 +138,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-eua-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Eua-Klippen", hu: "Eua-sziklák", ro: "Stâncile Eua", en: "Eua Cliffs" },
-    coordinates: { lat: -21.36, lng: -174.93 },
+    coords: [-174.93, -21.36],
     description: {
       de: "Die Klippen von 'Eua gehören zu den höchsten und dramatischsten Steilküsten im Pazifik. Sie bestehen aus angehobenem Korallenkalkstein.",
       hu: "'Eua sziklái a Csendes-óceán legmagasabb és leglátványosabb partmenti szirtjei közé tartoznak. Megemelkedett korallmészkőből állnak.",
@@ -157,7 +157,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-mount-talau-relief-v2",
     type: "peak",
     name: { de: "Mount Talau", hu: "Talau-hegy", ro: "Muntele Talau", en: "Mount Talau" },
-    coordinates: { lat: -18.65, lng: -173.99 },
+    coords: [-173.99, -18.65],
     description: {
       de: "Der Mount Talau ist ein markanter Tafelberg auf der Insel Vava'u. Er bietet einen weiten Panoramablick über den Hafen von Neiafu.",
       hu: "A Talau-hegy egy jellegzetes táblahegy Vava'u szigetén. Széles panorámát nyújt a Neiafu kikötőre.",
@@ -176,7 +176,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-sia-ko-veiongo-relief-v2",
     type: "landmark",
     name: { de: "Sia Ko Veiongo", hu: "Sia Ko Veiongo", ro: "Sia Ko Veiongo", en: "Sia Ko Veiongo" },
-    coordinates: { lat: -21.14, lng: -175.2 },
+    coords: [-175.2, -21.14],
     description: {
       de: "Sia Ko Veiongo ist ein historischer Hügel in Nuku'alofa auf der Hauptinsel Tongatapu. Er dient als wichtiger Aussichtspunkt der Hauptstadt.",
       hu: "Sia Ko Veiongo egy történelmi domb Nuku'alofában, Tongatapu főszigetén. A főváros fontos kilátópontjaként szolgál.",
@@ -195,7 +195,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-mount-lahi-relief-v2",
     type: "peak",
     name: { de: "Mount Lahi", hu: "Lahi-hegy", ro: "Muntele Lahi", en: "Mount Lahi" },
-    coordinates: { lat: -15.6, lng: -175.63 },
+    coords: [-175.63, -15.6],
     description: {
       de: "Der Mount Lahi ist der höchste Punkt auf der Insel Niuafo'ou. Er liegt am Rand der beeindruckenden Caldera der Insel.",
       hu: "A Lahi-hegy Niuafo'ou szigetének legmagasabb pontja. A sziget lenyűgöző kalderájának peremén található.",
@@ -214,7 +214,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-hunga-tonga-relief-v2",
     type: "mountain",
     name: { de: "Hunga Tonga", hu: "Hunga Tonga", ro: "Hunga Tonga", en: "Hunga Tonga" },
-    coordinates: { lat: -20.54, lng: -175.39 },
+    coords: [-175.39, -20.54],
     description: {
       de: "Hunga Tonga-Hunga Ha'apai ist ein massiver submariner Vulkan. Durch eine gewaltige Eruption im Jahr 2022 wurde die Oberflächengestalt radikal verändert.",
       hu: "A Hunga Tonga-Hunga Ha'apai egy hatalmas víz alatti vulkán. A 2022-es óriási kitörés gyökeresen megváltoztatta a felszíni alakját.",
@@ -233,7 +233,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-lateiki-relief-v2",
     type: "mountain",
     name: { de: "Lateiki", hu: "Lateiki", ro: "Lateiki", en: "Lateiki" },
-    coordinates: { lat: -19.18, lng: -174.87 },
+    coords: [-174.87, -19.18],
     description: {
       de: "Lateiki, früher Metis Shoal genannt, ist ein aktiver submariner Vulkan. Er bildet regelmäßig kurzlebige Inseln während seiner Ausbrüche.",
       hu: "Lateiki, korábbi nevén Metis Shoal, egy aktív víz alatti vulkán. Kitörései során rendszeresen rövid életű szigeteket hoz létre.",
@@ -252,7 +252,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-home-reef-relief-v2",
     type: "mountain",
     name: { de: "Home Reef", hu: "Home Reef", ro: "Home Reef", en: "Home Reef" },
-    coordinates: { lat: -18.99, lng: -174.77 },
+    coords: [-174.77, -18.99],
     description: {
       de: "Home Reef ist ein submariner Vulkan, der gelegentlich Inseln aus Bimsstein bildet. Er befindet sich entlang des aktiven vulkanischen Bogens von Tonga.",
       hu: "A Home Reef egy víz alatti vulkán, amely alkalmanként tajtékkő szigeteket hoz létre. Tonga aktív vulkáni íve mentén található.",
@@ -271,7 +271,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-curacoa-reef-relief-v2",
     type: "mountain",
     name: { de: "Curacoa Reef", hu: "Curacoa-zátony", ro: "Reciful Curacoa", en: "Curacoa Reef" },
-    coordinates: { lat: -15.62, lng: -173.67 },
+    coords: [-173.67, -15.62],
     description: {
       de: "Das Curacoa Reef ist ein aktives submarines Vulkansystem im nördlichen Tonga-Bogen. Es liegt nur wenige Meter unter der Meeresoberfläche.",
       hu: "A Curacoa-zátony egy aktív víz alatti vulkáni rendszer az északi Tonga-ívben. Csak néhány méterrel található a tengerszint alatt.",
@@ -290,7 +290,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-tonga-trench-relief-v2",
     type: "valley",
     name: { de: "Tonga-Graben", hu: "Tonga-árok", ro: "Groapa Tonga", en: "Tonga Trench" },
-    coordinates: { lat: -23.0, lng: -175.0 },
+    coords: [-175.0, -23.0],
     description: {
       de: "Der Tonga-Graben ist ein extrem tiefer ozeanischer Graben im Südwestpazifik. Er bildet die Grenze zwischen der Pazifischen und der Indo-Australischen Platte.",
       hu: "A Tonga-árok egy rendkívül mély óceáni árok a Csendes-óceán délnyugati részén. A Csendes-óceáni és az Indo-Ausztrál lemezek határát képezi.",
@@ -309,7 +309,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-horizon-deep-relief-v2",
     type: "valley",
     name: { de: "Horizon-Tiefe", hu: "Horizon-mélység", ro: "Abisul Horizon", en: "Horizon Deep" },
-    coordinates: { lat: -23.25, lng: -174.75 },
+    coords: [-174.75, -23.25],
     description: {
       de: "Die Horizon-Tiefe ist der tiefste Punkt des Tonga-Grabens. Sie gehört zu den tiefsten Stellen der Erdkruste überhaupt.",
       hu: "A Horizon-mélység a Tonga-árok legmélyebb pontja. A földkéreg egyik legmélyebb helye.",
@@ -328,7 +328,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-mount-holopeka-relief-v2",
     type: "peak",
     name: { de: "Mount Holopeka", hu: "Holopeka-hegy", ro: "Muntele Holopeka", en: "Mount Holopeka" },
-    coordinates: { lat: -19.81, lng: -174.34 },
+    coords: [-174.34, -19.81],
     description: {
       de: "Der Mount Holopeka ist der höchste Hügel auf der Insel Lifuka in der Ha'apai-Gruppe. Er ist eine seltene Erhebung auf der sonst flachen Insel.",
       hu: "A Holopeka-hegy a Ha'apai-csoporthoz tartozó Lifuka szigetének legmagasabb dombja. Ritka kiemelkedés az egyébként lapos szigeten.",
@@ -347,7 +347,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-mount-moungafau-relief-v2",
     type: "peak",
     name: { de: "Mount Mo'ungafau", hu: "Mo'ungafau-hegy", ro: "Muntele Mo'ungafau", en: "Mount Mo'ungafau" },
-    coordinates: { lat: -18.66, lng: -174.02 },
+    coords: [-174.02, -18.66],
     description: {
       de: "Der Mount Mo'ungafau ist einer der markanten Hügel auf der Insel Vava'u. Er prägt das zerklüftete Relief der nördlichen Inselgruppe.",
       hu: "A Mo'ungafau-hegy Vava'u szigetének egyik jellegzetes dombja. Meghatározza az északi szigetcsoport tagolt domborzatát.",
@@ -366,7 +366,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-lokupo-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Lokupo-Klippen", hu: "Lokupo-sziklák", ro: "Stâncile Lokupo", en: "Lokupo Cliffs" },
-    coordinates: { lat: -21.38, lng: -174.91 },
+    coords: [-174.91, -21.38],
     description: {
       de: "Die Lokupo-Klippen an der Ostküste von 'Eua bieten atemberaubende Aussichten auf den Ozean. Sie sind Teil der steilen Kalksteinterrassen der Insel.",
       hu: "'Eua keleti partján található Lokupo-sziklák lélegzetelállító kilátást nyújtanak az óceánra. A sziget meredek mészkőteraszinak részei.",
@@ -385,7 +385,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-hikutamole-relief-v2",
     type: "peak",
     name: { de: "Hikutamole", hu: "Hikutamole", ro: "Hikutamole", en: "Hikutamole" },
-    coordinates: { lat: -21.35, lng: -174.92 },
+    coords: [-174.92, -21.35],
     description: {
       de: "Hikutamole ist der höchste Punkt der Insel 'Eua. Dieser Gipfel markiert das obere Ende der beeindruckenden Verwerfungskante der Insel.",
       hu: "Hikutamole 'Eua szigetének legmagasabb pontja. Ez a csúcs jelzi a sziget lenyűgöző törésvonalának felső szélét.",
@@ -404,7 +404,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-haapai-trough-relief-v2",
     type: "valley",
     name: { de: "Ha'apai-Trog", hu: "Ha'apai-teknő", ro: "Depresiunea Ha'apai", en: "Ha'apai Trough" },
-    coordinates: { lat: -20.0, lng: -174.0 },
+    coords: [-174.0, -20.0],
     description: {
       de: "Der Ha'apai-Trog ist eine tiefere Beckenstruktur innerhalb des Tonga-Inselbogens. Er trennt die westlichen vulkanischen Inseln von den östlichen Koralleninseln.",
       hu: "A Ha'apai-teknő egy mélyebb medenceszerkezet a Tonga-szigetíven belül. Elválasztja a nyugati vulkáni szigeteket a keleti korallszigetektől.",
@@ -423,7 +423,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-vavau-plateau-relief-v2",
     type: "peak",
     name: { de: "Vava'u-Plateau", hu: "Vava'u-fennsík", ro: "Platoul Vava'u", en: "Vava'u Plateau" },
-    coordinates: { lat: -18.6, lng: -174.0 },
+    coords: [-174.0, -18.6],
     description: {
       de: "Das Vava'u-Plateau ist eine angehobene Kalksteinformation, die die Basis der Vava'u-Inselgruppe bildet. Es ist durch tiefe Kanäle und Fjorde gegliedert.",
       hu: "A Vava'u-fennsík egy megemelt mészkőformáció, amely a Vava'u-szigetcsoport alapját képezi. Mély csatornák és fjordok tagolják.",
@@ -442,7 +442,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-tongatapu-terrace-relief-v2",
     type: "landmark",
     name: { de: "Tongatapu-Terrasse", hu: "Tongatapu-terasz", ro: "Terasa Tongatapu", en: "Tongatapu Terrace" },
-    coordinates: { lat: -21.2, lng: -175.1 },
+    coords: [-175.1, -21.2],
     description: {
       de: "Die Tongatapu-Terrasse ist eine submarine Plattform, die die Hauptinsel umgibt. Sie neigt sich sanft nach Osten in Richtung des Tonga-Grabens.",
       hu: "A Tongatapu-terasz egy víz alatti platform, amely a főszigetet veszi körül. Kelet felé finoman lejt a Tonga-árok irányába.",
@@ -461,7 +461,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-vai-lahi-lake-relief-v2",
     type: "lake",
     name: { de: "Vai Lahi", hu: "Vai Lahi", ro: "Vai Lahi", en: "Vai Lahi" },
-    coordinates: { lat: -15.59, lng: -175.63 },
+    coords: [-175.63, -15.59],
     description: {
       de: "Vai Lahi ist der große Kratersee im Zentrum der Insel Niuafo'ou. Das Becken wurde durch den Einsturz des Vulkangipfels geformt.",
       hu: "A Vai Lahi a Niuafo'ou szigetének közepén található nagy kráterstó. A medencét a vulkáncsúcs beomlása hozta létre.",
@@ -480,7 +480,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-niua-plateau-relief-v2",
     type: "peak",
     name: { de: "Niua-Plateau", hu: "Niua-fennsík", ro: "Platoul Niua", en: "Niua Plateau" },
-    coordinates: { lat: -15.6, lng: -174.0 },
+    coords: [-174.0, -15.6],
     description: {
       de: "Das Niua-Plateau ist eine erhobene submarine Region im Norden Tongas. Es ist geprägt durch intensive vulkanische und hydrothermale Aktivität.",
       hu: "A Niua-fennsík egy megemelt víz alatti régió Tonga északi részén. Intenzív vulkáni és hidrotermális tevékenység jellemzi.",
@@ -499,7 +499,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-niuafoou-caldera-relief-v2",
     type: "landmark",
     name: { de: "Niuafo'ou-Caldera", hu: "Niuafo'ou-kaldera", ro: "Caldera Niuafo'ou", en: "Niuafo'ou Caldera" },
-    coordinates: { lat: -15.58, lng: -175.63 },
+    coords: [-175.63, -15.58],
     description: {
       de: "Die Niuafo'ou-Caldera bildet das dramatische Zentrum der gleichnamigen Insel. Sie umfasst einen großen Kratersee und steile Kraterwände.",
       hu: "A Niuafo'ou-kaldera alkotja az azonos nevű sziget drámai központját. Egy nagy krátertavat és meredek kráterfalakat foglal magában.",
@@ -518,7 +518,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-eua-uplands-relief-v2",
     type: "peak",
     name: { de: "Eua-Hochland", hu: "Eua-felföld", ro: "Podișul Eua", en: "Eua Uplands" },
-    coordinates: { lat: -21.37, lng: -174.93 },
+    coords: [-174.93, -21.37],
     description: {
       de: "Das Hochland von 'Eua ist geprägt durch sanfte Hügel und dichten Primärwald. Es liegt deutlich höher als die flache Hauptinsel Tongatapu.",
       hu: "'Eua felföldjét lankás dombok és sűrű őserdő jellemzi. Jelentősen magasabban fekszik, mint a lapos fősziget, Tongatapu.",
@@ -537,7 +537,7 @@ export const tongaReliefV2: POI[] = [
     id: "tonga-vavau-north-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Vava'u Nordküste", hu: "Vava'u északi sziklái", ro: "Stâncile de nord Vava'u", en: "Vava'u North Cliffs" },
-    coordinates: { lat: -18.61, lng: -174.05 },
+    coords: [-174.05, -18.61],
     description: {
       de: "Die Nordküste von Vava'u besteht aus massiven, senkrecht abfallenden Kalksteinklippen. Sie trotzen der direkten Brandung des offenen Pazifiks.",
       hu: "Vava'u északi partja hatalmas, függőleges mészkősziklákból áll. Közvetlenül dacolnak a nyílt Csendes-óceán hullámverésével.",

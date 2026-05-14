@@ -646,7 +646,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-sudochye-wetland-life-v2",
     type: "wildlife",
     name: { de: "Sudochye-Feuchtgebiet", hu: "Sudocsje-mocsárvidék", ro: "Zona umedă Sudocie", en: "Sudochye Wetland" },
-    coordinates: { lat: 43.5125, lng: 58.5167 },
+    coords: [58.5167, 43.5125],
     description: {
       de: "Dieses kritische Feuchtgebiet in Karakalpakistan dient als lebenswichtiger Rastplatz für Tausende von Zugvögeln.",
       hu: "Ez a Karakalpaksztánban található mocsárvidék kulcsfontosságú pihenőhely a költöző madarak ezrei számára.",
@@ -665,7 +665,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-sukok-forest-life-v2",
     type: "forest",
     name: { de: "Sukok-Wald", hu: "Sukok-erdő", ro: "Pădurea Sukok", en: "Sukok Forest" },
-    coordinates: { lat: 41.2667, lng: 69.8333 },
+    coords: [69.8333, 41.2667],
     description: {
       de: "Ein dichter Kiefernwald in den Ausläufern des Chatkal-Gebirges, bekannt für seine saubere Luft und Heilquellen.",
       hu: "Sűrű fenyőerdő a Chatkal-hegység lábánál, amely tiszta levegőjéről és gyógyító forrásairól híres.",
@@ -684,7 +684,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-denau-arboretum-life-v2",
     type: "park",
     name: { de: "Denau-Arboretum", hu: "Denaui Arborétum", ro: "Arboretumul Denau", en: "Denau Arboretum" },
-    coordinates: { lat: 38.2667, lng: 67.9167 },
+    coords: [67.9167, 38.2667],
     description: {
       de: "Ein botanischer Garten in der Region Surkhandarya mit einer riesigen Sammlung subtropischer Pflanzen.",
       hu: "Botanikus kert a Szurhandarja régióban, amely szubtrópusi növények hatalmas gyűjteményével rendelkezik.",
@@ -703,7 +703,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-karabair-horse-center-life-v2",
     type: "wildlife",
     name: { de: "Karabair-Pferdezuchtzentrum", hu: "Karabair Lótenyésztő Központ", ro: "Centrul de Cai Karabair", en: "Karabair Horse Breeding Center" },
-    coordinates: { lat: 39.95, lng: 67.2333 },
+    coords: [67.2333, 39.95],
     description: {
       de: "Ein Zentrum zur Erhaltung der antiken usbekischen Karabair-Pferderasse, bekannt für Ausdauer und Schnelligkeit.",
       hu: "Az ősi usbek karabair lófajta megőrzésére szolgáló központ, amely állóképességéről és gyorsaságáról híres.",
@@ -722,7 +722,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-karakir-lakes-life-v2",
     type: "lake",
     name: { de: "Karakir-Seen", hu: "Karakir-tavak", ro: "Lacurile Karakir", en: "Karakir Lakes" },
-    coordinates: { lat: 39.8167, lng: 64.0333 },
+    coords: [64.0333, 39.8167],
     description: {
       de: "Ein System von Salzseen in der Kyzylkum-Wüste, das einen wichtigen Lebensraum für Wasserfügel bietet.",
       hu: "Sós tavak rendszere a Kizil-kum sivatagban, amely fontos élőhelyet biztosít a vízimadarak számára.",
@@ -741,7 +741,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-bogishamol-park-life-v2",
     type: "park",
     name: { de: "Bogishamol-Park", hu: "Bogisámol Park", ro: "Parcul Bogishamol", en: "Bogishamol Park" },
-    coordinates: { lat: 40.7333, lng: 72.3333 },
+    coords: [72.3333, 40.7333],
     description: {
       de: "Ein historischer Park in Andijan, der an der Stelle der Gärten des Kaisers Babur errichtet wurde.",
       hu: "Történelmi park Andizsánban, amely Babur császár egykori kertjeinek helyén épült.",
@@ -760,7 +760,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-nukus-zoo-life-v2",
     type: "wildlife",
     name: { de: "Zoo von Nukus", hu: "Nukuszi Állatkert", ro: "Grădina Zoologică din Nukus", en: "Nukus Zoo" },
-    coordinates: { lat: 42.45, lng: 59.6167 },
+    coords: [59.6167, 42.45],
     description: {
       de: "Der regionale Zoo der Republik Karakalpakistan, der Arten aus der Aralseeregion und Zentralasien zeigt.",
       hu: "A Karakalpaksztáni Köztársaság regionális állatkertje, amely az Aral-térség és Közép-Ázsia fajait mutatja be.",
@@ -779,7 +779,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-anhor-park-life-v2",
     type: "park",
     name: { de: "Anhor-Vergnügungspark", hu: "Anhor Vidámpark", ro: "Parcul Anhor", en: "Anhor Park" },
-    coordinates: { lat: 41.3312, lng: 69.2645 },
+    coords: [69.2645, 41.3312],
     description: {
       de: "Ein moderner Park in Taschkent am Anhor-Kanal, bekannt für seine Miniaturmodelle usbekischer Wahrzeichen.",
       hu: "Modern park Taskentben az Anhor-csatorna mentén, amely uszbég nevezetességek miniatűr modelljeiről ismert.",
@@ -798,7 +798,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-tashkent-aquapark-life-v2",
     type: "park",
     name: { de: "Taschkent Aquapark", hu: "Taskenti Aquapark", ro: "Aquapark Tașkent", en: "Tashkent Aquapark" },
-    coordinates: { lat: 41.3431, lng: 69.2842 },
+    coords: [69.2842, 41.3431],
     description: {
       de: "Der größte Wasserpark der Hauptstadt, der eine Vielzahl von Pools und Rutschen für die Sommererholung bietet.",
       hu: "A főváros legnagyobb víziparkja, amely számos medencét és csúszdát kínál a nyári kikapcsolódáshoz.",
@@ -817,7 +817,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-bostanlyk-walnuts-life-v2",
     type: "forest",
     name: { de: "Walnusshaine von Bostanlyk", hu: "Bosztanliki diólgetek", ro: "Livezile de nuci din Bostanlyk", en: "Bostanlyk Walnut Groves" },
-    coordinates: { lat: 41.5333, lng: 70.0167 },
+    coords: [70.0167, 41.5333],
     description: {
       de: "Ausgedehnte natürliche und kultivierte Walnusswälder in der Bergregion bei Taschkent.",
       hu: "Kiterjedt természetes és termesztett dióerdők a Taskent környéki hegyvidéken.",
@@ -836,7 +836,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uzbekistan-mingchinar-grove-life-v2",
     type: "park",
     name: { de: "Mingchinar-Hain", hu: "Mingcsinár-liget", ro: "Dumbrava Mingchinar", en: "Mingchinar Grove" },
-    coordinates: { lat: 38.3167, lng: 67.5333 },
+    coords: [67.5333, 38.3167],
     description: {
       de: "Ein heiliger Hain aus tausendjährigen Platanen in der Region Surkhandarya, der als Naturdenkmal gilt.",
       hu: "Szent liget ezeréves platánfákkal a Szurhandarja régióban, amely természeti emlékként védett.",

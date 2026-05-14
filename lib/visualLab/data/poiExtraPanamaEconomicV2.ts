@@ -781,7 +781,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     id: "panama-zona-agricola-penonome-economic-v2",
     type: "industry",
     name: { de: "Agrarzone Penonomé", hu: "Penonomé mezőgazdasági övezet", ro: "Zonă agricolă Penonomé", en: "Penonomé Agricultural Zone" },
-    coordinates: { lat: 8.5167, lng: -80.35 },
+    coords: [-80.35, 8.5167],
     description: {
       de: "Das Gebiet um Penonomé ist ein Zentrum für den Anbau von Zuckerrohr und Getreide in der Provinz Coclé. Die Region trägt erheblich zur nationalen Nahrungsmittelversorgung bei.",
       hu: "Penonomé környéke a cukornád- és gabonatermesztés központja Coclé tartományban. A régió jelentősen hozzájárul az országos élelmiszer-ellátáshoz.",

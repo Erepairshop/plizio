@@ -5,7 +5,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-jabal-al-dukhan-relief-v2",
     type: "peak",
     name: { de: "Jabal al-Dukhan", hu: "Jabal al-Dukhan", ro: "Jabal al-Dukhan", en: "Jabal al-Dukhan" },
-    coordinates: { lat: 26.0375, lng: 50.5516 },
+    coords: [50.5516, 26.0375],
     description: {
       de: "Der Jabal al-Dukhan ist mit 134 Metern der höchste Punkt Bahrains. Er liegt im Zentrum der Insel und ist von Ölefeldern umgeben.",
       hu: "A Jabal al-Dukhan Bahrein legmagasabb pontja, mindössze 134 méter magas. A sziget közepén található, nevét a környező ködről kapta.",
@@ -24,7 +24,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-sakhrat-al-khabiyah-relief-v2",
     type: "landmark",
     name: { de: "Sakhrat al-Khabiyah", hu: "Sakhrat al-Khabiyah", ro: "Sakhrat al-Khabiyah", en: "Sakhrat al-Khabiyah" },
-    coordinates: { lat: 26.052, lng: 50.541 },
+    coords: [50.541, 26.052],
     description: {
       de: "Diese natürliche Felsformation ist ein markantes Beispiel für Wüstenerosion. Sie befindet sich in der Nähe des höchsten Berges des Landes.",
       hu: "Ez a természetes sziklaképződmény a sivatagi erózió egyik legjobb példája. Az ország legmagasabb pontjának közelében fekszik.",
@@ -43,7 +43,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-al-wasmiya-relief-v2",
     type: "landmark",
     name: { de: "Al-Wasmiya", hu: "Al-Wasmiya", ro: "Al-Wasmiya", en: "Al-Wasmiya" },
-    coordinates: { lat: 25.905, lng: 50.552 },
+    coords: [50.552, 25.905],
     description: {
       de: "Al-Wasmiya ist eine weite Ebene im südlichen Zentrum der Insel. Sie ist geprägt von karger Vegetation und sanften topografischen Wellen.",
       hu: "Al-Wasmiya egy kiterjedt síkság a sziget déli-középső részén. Ritkás vegetáció és enyhe domborzati hullámok jellemzik a területet.",
@@ -74,7 +74,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-al-barr-relief-v2",
     type: "landmark",
     name: { de: "Ras al-Barr", hu: "Ras al-Barr", ro: "Ras al-Barr", en: "Ras al-Barr" },
-    coordinates: { lat: 25.795, lng: 50.575 },
+    coords: [50.575, 25.795],
     description: {
       de: "Ras al-Barr ist die südlichste Spitze der Hauptinsel Bahrain. Diese Landzunge ragt weit in das flache Wasser des Persischen Golfs hinein.",
       hu: "Ras al-Barr Bahrein fő szigetének legdélebbi csücske. Ez a földnyelv mélyen benyúlik a Perzsa-öböl sekély vizébe.",
@@ -105,7 +105,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-hayyan-relief-v2",
     type: "landmark",
     name: { de: "Ras Hayyan", hu: "Ras Hayyan", ro: "Ras Hayyan", en: "Ras Hayyan" },
-    coordinates: { lat: 26.071, lng: 50.622 },
+    coords: [50.622, 26.071],
     description: {
       de: "Ras Hayyan ist ein Kap an der Ostküste von Bahrain. Es ist bekannt für seine Mangroven und die flachen Küstengewässer mit reichem Meeresleben.",
       hu: "Ras Hayyan egy fok Bahrein keleti partján. Ismert mangroveerdeiről és a tengeri élővilágban gazdag, sekély parti vizeiről.",
@@ -136,7 +136,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-al-jazayir-relief-v2",
     type: "landmark",
     name: { de: "Ras al-Jazayir", hu: "Ras al-Jazayir", ro: "Ras al-Jazayir", en: "Ras al-Jazayir" },
-    coordinates: { lat: 25.991, lng: 50.452 },
+    coords: [50.452, 25.991],
     description: {
       de: "Dieses Kap an der Westküste ist für seinen langen Sandstrand bekannt. Es markiert einen wichtigen topografischen Punkt im Südwesten.",
       hu: "Ez a nyugati parti fok hosszú homokos strandjáról ismert. Fontos domborzati pontot jelöl a sziget délnyugati részén.",
@@ -167,7 +167,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-umm-al-nassan-relief-v2",
     type: "landmark",
     name: { de: "Umm al-Nassan", hu: "Umm al-Nassan", ro: "Umm al-Nassan", en: "Umm al-Nassan" },
-    coordinates: { lat: 26.142, lng: 50.405 },
+    coords: [50.405, 26.142],
     description: {
       de: "Umm al-Nassan ist die viertgrößte Insel Bahrains und besitzt ein markantes Plateau. Sie liegt westlich der Hauptinsel im Golf von Bahrain.",
       hu: "Umm al-Nassan Bahrein negyedik legnagyobb szigete, jellegzetes fennsíkkal. A főszigettől nyugatra, a Bahreini-öbölben fekszik.",
@@ -198,7 +198,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-jidda-relief-v2",
     type: "landmark",
     name: { de: "Jidda", hu: "Jidda", ro: "Jidda", en: "Jidda" },
-    coordinates: { lat: 26.185, lng: 50.412 },
+    coords: [50.412, 26.185],
     description: {
       de: "Die Insel Jidda besteht aus markanten Kalksteinklippen. In der Vergangenheit diente sie als Gefängnisinsel und Steinbruch für Tempelbauten.",
       hu: "Jidda szigete jellegzetes mészkősziklákból áll. A múltban börtönszigetként és templomépítésekhez használt kőbányaként szolgált.",
@@ -229,7 +229,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-hawar-relief-v2",
     type: "landmark",
     name: { de: "Hawar", hu: "Hawar", ro: "Hawar", en: "Hawar" },
-    coordinates: { lat: 25.655, lng: 50.752 },
+    coords: [50.752, 25.655],
     description: {
       de: "Hawar ist die Hauptinsel des gleichnamigen Archipels. Ein flacher zentraler Bergrücken durchzieht die Insel von Norden nach Süden.",
       hu: "Hawar az azonos nevű szigetcsoport fő szigete. Egy alacsony központi gerinc vonul végig a szigeten északról délre.",
@@ -260,7 +260,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-suwad-al-janubiyah-relief-v2",
     type: "landmark",
     name: { de: "Suwad al-Janubiyah", hu: "Suwad al-Janubiyah", ro: "Suwad al-Janubiyah", en: "Suwad al-Janubiyah" },
-    coordinates: { lat: 25.632, lng: 50.815 },
+    coords: [50.815, 25.632],
     description: {
       de: "Diese Insel im Hawar-Archipel ist flach und sandig. Sie ist ein wichtiger Brutplatz für den Sokotra-Kormoran und andere Seevögel.",
       hu: "Ez a Hawar-szigetcsoportba tartozó sziget lapos és homokos. Fontos fészkelőhelye a szokotrai kárókatonának és más tengeri madaraknak.",
@@ -291,7 +291,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-suwad-al-shamaliyah-relief-v2",
     type: "landmark",
     name: { de: "Suwad al-Shamaliyah", hu: "Suwad al-Shamaliyah", ro: "Suwad al-Shamaliyah", en: "Suwad al-Shamaliyah" },
-    coordinates: { lat: 25.682, lng: 50.805 },
+    coords: [50.805, 25.682],
     description: {
       de: "Suwad al-Shamaliyah ist eine weitere flache Insel der Hawar-Gruppe. Ihre Topografie besteht hauptsächlich aus Sand und Kalksteinablagerungen.",
       hu: "Suwad al-Shamaliyah a Hawar-csoport egy másik lapos szigete. Domborzatát főként homok és mészkőlerakódások alkotják.",
@@ -322,7 +322,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-rubud-al-sharqiyah-relief-v2",
     type: "landmark",
     name: { de: "Rubud al-Sharqiyah", hu: "Rubud al-Sharqiyah", ro: "Rubud al-Sharqiyah", en: "Rubud al-Sharqiyah" },
-    coordinates: { lat: 25.751, lng: 50.785 },
+    coords: [50.785, 25.751],
     description: {
       de: "Diese östliche Insel der Hawar-Gruppe zeichnet sich durch flache Küstenzonen aus. Sie ist geologisch ein Teil der erhobenen Meeresplatte.",
       hu: "A Hawar-csoport ezen keleti szigetét lapos parti zónák jellemzik. Geológiailag a megemelkedett tengeri lemez része.",
@@ -353,7 +353,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-rubud-al-gharbiyah-relief-v2",
     type: "landmark",
     name: { de: "Rubud al-Gharbiyah", hu: "Rubud al-Gharbiyah", ro: "Rubud al-Gharbiyah", en: "Rubud al-Gharbiyah" },
-    coordinates: { lat: 25.742, lng: 50.745 },
+    coords: [50.745, 25.742],
     description: {
       de: "Rubud al-Gharbiyah liegt im Westen der Hawar-Inseln. Die Insel ist topografisch unauffällig und besteht hauptsächlich aus sandigen Ebenen.",
       hu: "Rubud al-Gharbiyah a Hawar-szigetek nyugati részén fekszik. A sziget domborzatilag jelentéktelen, főként homokos síkságokból áll.",
@@ -384,7 +384,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ajirah-relief-v2",
     type: "landmark",
     name: { de: "Ajirah", hu: "Ajirah", ro: "Ajirah", en: "Ajirah" },
-    coordinates: { lat: 25.735, lng: 50.772 },
+    coords: [50.772, 25.735],
     description: {
       de: "Ajirah ist eine kleine Insel im Hawar-Archipel mit felsigen Küstenabschnitten. Sie stellt eine markante topografische Erhebung im Flachwasser dar.",
       hu: "Ajirah egy kis sziget a Hawar-szigetcsoportban, sziklás part szakaszokkal. Jelentős domborzati kiemelkedés a sekély vizekben.",
@@ -415,7 +415,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-fasht-al-azm-relief-v2",
     type: "landmark",
     name: { de: "Fasht al-Azm", hu: "Fasht al-Azm", ro: "Fasht al-Azm", en: "Fasht al-Azm" },
-    coordinates: { lat: 26.155, lng: 50.755 },
+    coords: [50.755, 26.155],
     description: {
       de: "Fasht al-Azm ist eine ausgedehnte Sandbank zwischen Bahrain und Katar. Sie ist eine der größten natürlichen Reliefformen im Persischen Golf.",
       hu: "A Fasht al-Azm egy kiterjedt homokpad Bahrein és Katar között. A Perzsa-öböl egyik legnagyobb természetes domborzati formája.",
@@ -446,7 +446,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-jaradah-relief-v2",
     type: "landmark",
     name: { de: "Jaradah", hu: "Jaradah", ro: "Jaradah", en: "Jaradah" },
-    coordinates: { lat: 26.182, lng: 50.802 },
+    coords: [50.802, 26.182],
     description: {
       de: "Jaradah ist eine kleine Sandbank, die bei Ebbe als Insel erscheint. Sie ist ein dynamisches geomorphologisches Merkmal des Küstenreliefs.",
       hu: "Jaradah egy kis homokpad, amely apálykor szigetként jelenik meg. A parti domborzat dinamikus geomorfológiai jellemzője.",
@@ -477,7 +477,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-al-hamalah-relief-v2",
     type: "landmark",
     name: { de: "Al-Hamalah", hu: "Al-Hamalah", ro: "Al-Hamalah", en: "Al-Hamalah" },
-    coordinates: { lat: 26.152, lng: 50.485 },
+    coords: [50.485, 26.152],
     description: {
       de: "Al-Hamalah ist eine fruchtbare Ebene im Westen von Bahrain. Die Topografie erlaubt hier Landwirtschaft durch artesische Quellen.",
       hu: "Al-Hamalah egy termékeny síkság Bahrein nyugati részén. A domborzat itt lehetővé teszi a mezőgazdaságot az artézi forrásoknak köszönhetően.",
@@ -508,7 +508,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-abu-jarjur-relief-v2",
     type: "landmark",
     name: { de: "Ras Abu Jarjur", hu: "Ras Abu Jarjur", ro: "Ras Abu Jarjur", en: "Ras Abu Jarjur" },
-    coordinates: { lat: 26.082, lng: 50.625 },
+    coords: [50.625, 26.082],
     description: {
       de: "Ras Abu Jarjur ist ein Kap an der Ostküste, das für seine Entsalzungsanlage bekannt ist. Topografisch ist es eine flache Landzunge.",
       hu: "Ras Abu Jarjur egy fok a keleti parton, amely sótalanító üzeméről ismert. Domborzatilag egy alacsony fekvésű földnyelv.",
@@ -539,7 +539,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-mumalah-relief-v2",
     type: "landmark",
     name: { de: "Ras Mumalah", hu: "Ras Mumalah", ro: "Ras Mumalah", en: "Ras Mumalah" },
-    coordinates: { lat: 25.852, lng: 50.605 },
+    coords: [50.605, 25.852],
     description: {
       de: "Ras Mumalah ist ein abgelegenes Kap im Südosten Bahrains. Die karge Topografie ist typisch für die unbewohnten Küstenregionen der Insel.",
       hu: "Ras Mumalah egy távoli fok Bahrein délkeleti részén. A kopár domborzat jellemző a sziget lakatlan parti régióira.",
@@ -570,7 +570,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-al-qurayn-relief-v2",
     type: "landmark",
     name: { de: "Ras al-Qurayn", hu: "Ras al-Qurayn", ro: "Ras al-Qurayn", en: "Ras al-Qurayn" },
-    coordinates: { lat: 25.822, lng: 50.595 },
+    coords: [50.595, 25.822],
     description: {
       de: "Ras al-Qurayn ist eine Landzunge im tiefen Süden von Bahrain. Sie bildet einen markanten Punkt in der Nähe der Bucht von Salwa.",
       hu: "Ras al-Qurayn egy földnyelv Bahrein távoli déli részén. Jelentős pontot alkot a Salwa-öböl közelében.",
@@ -601,7 +601,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-umm-jidr-relief-v2",
     type: "landmark",
     name: { de: "Umm Jidr", hu: "Umm Jidr", ro: "Umm Jidr", en: "Umm Jidr" },
-    coordinates: { lat: 26.105, lng: 50.515 },
+    coords: [50.515, 26.105],
     description: {
       de: "Umm Jidr ist ein erhöhtes Gebiet, das für seine antiken Grabhügel bekannt ist. Die Topografie besteht aus Kalksteinhügeln und Plateaus.",
       hu: "Umm Jidr egy megemelkedett terület, amely ősi sírhalmairól ismert. A domborzat mészkődombokból és fennsíkokból áll.",
@@ -632,7 +632,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-al-markh-relief-v2",
     type: "landmark",
     name: { de: "Al-Markh", hu: "Al-Markh", ro: "Al-Markh", en: "Al-Markh" },
-    coordinates: { lat: 26.115, lng: 50.475 },
+    coords: [50.475, 26.115],
     description: {
       de: "Al-Markh ist eine Küstenebene im Westen der Insel. Sie ist topografisch flach und diente in der Steinzeit als Siedlungsplatz.",
       hu: "Al-Markh egy parti síkság a sziget nyugati részén. Domborzatilag lapos, és kőkorszaki települések helyszíne volt.",
@@ -663,7 +663,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-wadi-al-rammam-relief-v2",
     type: "valley",
     name: { de: "Wadi al-Rammam", hu: "Wadi al-Rammam", ro: "Wadi al-Rammam", en: "Wadi al-Rammam" },
-    coordinates: { lat: 26.045, lng: 50.562 },
+    coords: [50.562, 26.045],
     description: {
       de: "Wadi al-Rammam ist ein kleines Wüstental in der Nähe des Jabal al-Dukhan. Es ist ein Beispiel für die Entwässerungsmuster der Zentralplatte.",
       hu: "Wadi al-Rammam egy kis sivatagi völgy a Jabal al-Dukhan közelében. Jó példája a központi fennsík vízelvezetési mintáinak.",
@@ -694,7 +694,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-ras-al-ghat-relief-v2",
     type: "landmark",
     name: { de: "Ras Al-Ghat", hu: "Ras Al-Ghat", ro: "Ras Al-Ghat", en: "Ras Al-Ghat" },
-    coordinates: { lat: 25.955, lng: 50.605 },
+    coords: [50.605, 25.955],
     description: {
       de: "Ras Al-Ghat ist ein kleiner Küstenpunkt im Süden Bahrains. Die Umgebung besteht aus flachen Salzebenen und sandigen Ablagerungen.",
       hu: "Ras Al-Ghat egy kis parti pont Bahrein déli részén. A környezet lapos sós síkságokból és homokos lerakódásokból áll.",
@@ -725,7 +725,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-al-jasayrah-relief-v2",
     type: "landmark",
     name: { de: "Al-Jasayrah", hu: "Al-Jasayrah", ro: "Al-Jasayrah", en: "Al-Jasayrah" },
-    coordinates: { lat: 25.855, lng: 50.585 },
+    coords: [50.585, 25.855],
     description: {
       de: "Al-Jasayrah ist ein Küstenvorsprung im südlichen Bahrain. Die Topografie ist durch niedrige Sanddünen und maritime Sedimentation geprägt.",
       hu: "Al-Jasayrah egy parti nyúlvány Bahrein déli részén. A domborzatot alacsony homokdűnék és tengeri ülepedés jellemzi.",
@@ -756,7 +756,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-jazirat-mashtan-relief-v2",
     type: "landmark",
     name: { de: "Jazirat Mashtan", hu: "Jazirat Mashtan", ro: "Jazirat Mashtan", en: "Jazirat Mashtan" },
-    coordinates: { lat: 26.115, lng: 50.665 },
+    coords: [50.665, 26.115],
     description: {
       de: "Jazirat Mashtan ist eine kleine Insel östlich der Hauptinsel. Bei Ebbe ist sie mit der Hauptinsel über eine flache Sandbank verbunden.",
       hu: "Jazirat Mashtan egy kis sziget a főszigettől keletre. Apálykor egy sekély homokpadon keresztül kapcsolódik a főszigethez.",
@@ -787,7 +787,7 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-al-hajiyat-relief-v2",
     type: "landmark",
     name: { de: "Al-Hajiyat", hu: "Al-Hajiyat", ro: "Al-Hajiyat", en: "Al-Hajiyat" },
-    coordinates: { lat: 26.125, lng: 50.585 },
+    coords: [50.585, 26.125],
     description: {
       de: "Al-Hajiyat ist ein Gebiet mit niedrigen Kalksteinhügeln im Riffa-Becken. Die Erhebungen bieten einen weiten Blick über die zentrale Ebene.",
       hu: "Al-Hajiyat egy alacsony mészkődombokkal teli terület a Riffa-medencében. A dombokról tágas kilátás nyílik a központi síkságra.",

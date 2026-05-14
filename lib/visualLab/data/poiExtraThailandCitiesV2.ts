@@ -1058,7 +1058,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-chachoengsao-cities-v2",
     type: "city",
     name: { de: "Chachoengsao", hu: "Csacsöngszao", ro: "Chachoengsao", en: "Chachoengsao" },
-    coordinates: { lat: 13.6903, lng: 101.0703 },
+    coords: [101.0703, 13.6903],
     description: {
       de: "Chachoengsao liegt am Bang Pakong Fluss östlich von Bangkok. Die Stadt ist bekannt für den Wat Sothon Wararam Worawihan Tempel.",
       hu: "Csacsöngszao a Bang Pakong folyó partján fekszik Bangkoktól keletre. A város híres a Wat Sothon Wararam Worawihan templomról.",
@@ -1077,7 +1077,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-samut-sakhon-cities-v2",
     type: "city",
     name: { de: "Samut Sakhon", hu: "Szamut Szakhon", ro: "Samut Sakhon", en: "Samut Sakhon" },
-    coordinates: { lat: 13.5475, lng: 100.2744 },
+    coords: [100.2744, 13.5475],
     description: {
       de: "Samut Sakhon ist ein bedeutendes Zentrum der Fischereiindustrie am Golf von Thailand. Die Stadt ist bekannt für ihre großen Fischmärkte.",
       hu: "Szamut Szakhon a thaiföldi halászati ipar egyik legfontosabb központja a Thai-öböl partján. Híres nagy halpiacairól.",
@@ -1096,7 +1096,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-nakhon-pathom-cities-v2",
     type: "city",
     name: { de: "Nakhon Pathom", hu: "Nakhonpathom", ro: "Nakhon Pathom", en: "Nakhon Pathom" },
-    coordinates: { lat: 13.8194, lng: 100.0603 },
+    coords: [100.0603, 13.8194],
     description: {
       de: "Nakhon Pathom ist eine der ältesten Städte Thailands und Sitz des höchsten buddhistischen Bauwerks der Welt. Die Stadt liegt westlich von Bangkok.",
       hu: "Nakhonpathom Thaiföld egyik legrégebbi városa, itt található a világ legmagasabb buddhista építménye. Bangkoktól nyugatra fekszik.",
@@ -1115,7 +1115,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-buri-ram-cities-v2",
     type: "city",
     name: { de: "Buri Ram", hu: "Buriram", ro: "Buri Ram", en: "Buri Ram" },
-    coordinates: { lat: 14.9936, lng: 103.1114 },
+    coords: [103.1114, 14.9936],
     description: {
       de: "Buri Ram bedeutet Stadt der Freude und liegt im Nordosten Thailands. Sie ist bekannt für ihre Khmer-Heiligtümer und den modernen Sportsektor.",
       hu: "Buriram jelentése az öröm városa, Északkelet-Thaiföldön fekszik. Khmer szentélyeiről és modern sportéletéről ismert.",
@@ -1134,7 +1134,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-saraburi-cities-v2",
     type: "city",
     name: { de: "Saraburi", hu: "Szaraburi", ro: "Saraburi", en: "Saraburi" },
-    coordinates: { lat: 14.5289, lng: 100.9114 },
+    coords: [100.9114, 14.5289],
     description: {
       de: "Saraburi ist eine wichtige Industriestadt und das Tor zum Nordosten Thailands. Sie ist berühmt für den Tempel des Fußabdrucks Buddhas.",
       hu: "Szaraburi fontos iparváros és Északkelet-Thaiföld kapuja. Híres a Buddha lábnyomát őrző templomáról.",
@@ -1153,7 +1153,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-si-sa-ket-cities-v2",
     type: "city",
     name: { de: "Si Sa Ket", hu: "Szi Sza Ket", ro: "Si Sa Ket", en: "Si Sa Ket" },
-    coordinates: { lat: 15.115, lng: 104.331 },
+    coords: [104.331, 15.115],
     description: {
       de: "Si Sa Ket liegt im Osten des Isan-Plateaus nahe der Grenze zu Kambodscha. Die Stadt ist ein Handelszentrum für die lokale Agrarwirtschaft.",
       hu: "Szi Sza Ket az Isan-fennsík keleti részén fekszik, a kambodzsai határ közelében. A város a helyi agrárgazdaság kereskedelmi központja.",
@@ -1172,7 +1172,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-roi-et-cities-v2",
     type: "city",
     name: { de: "Roi Et", hu: "Rojet", ro: "Roi Et", en: "Roi Et" },
-    coordinates: { lat: 16.0544, lng: 103.6522 },
+    coords: [103.6522, 16.0544],
     description: {
       de: "Roi Et liegt im Herzen der Isan-Region und ist um einen künstlichen See herum gebaut. Der Name bedeutet 101, bezogen auf historische Satellitenstädte.",
       hu: "Rojet az Isan-régió szívében fekszik, egy mesterséges tó köré épült. A név jelentése 101, a történelmi szatellitvárosokra utalva.",
@@ -1191,7 +1191,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-surin-cities-v2",
     type: "city",
     name: { de: "Surin", hu: "Szurin", ro: "Surin", en: "Surin" },
-    coordinates: { lat: 14.8822, lng: 103.4936 },
+    coords: [103.4936, 14.8822],
     description: {
       de: "Surin ist weltweit bekannt als die Stadt der Elefanten. Sie liegt im Osten Thailands und hat eine reiche Tradition in der Elefantenzucht.",
       hu: "Szurin világszerte az elefántok városaként ismert. Kelet-Thaiföldön fekszik, és gazdag hagyományokkal rendelkezik az elefánttartásban.",
@@ -1210,7 +1210,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-kalasin-cities-v2",
     type: "city",
     name: { de: "Kalasin", hu: "Kalaszin", ro: "Kalasin", en: "Kalasin" },
-    coordinates: { lat: 16.4328, lng: 103.5061 },
+    coords: [103.5061, 16.4328],
     description: {
       de: "Kalasin ist eine landwirtschaftlich geprägte Stadt im Nordosten Thailands. Sie ist national bekannt für bedeutende Dinosaurierfunde in der Region.",
       hu: "Kalaszin egy mezőgazdasági jellegű város Északkelet-Thaiföldön. Országosan ismert a régióban talált jelentős dinoszaurusz-leletekről.",
@@ -1229,7 +1229,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-maha-sarakham-cities-v2",
     type: "city",
     name: { de: "Maha Sarakham", hu: "Mahaszarakham", ro: "Maha Sarakham", en: "Maha Sarakham" },
-    coordinates: { lat: 16.185, lng: 103.3006 },
+    coords: [103.3006, 16.185],
     description: {
       de: "Maha Sarakham gilt als das Bildungszentrum des Nordostens. Die Universitätsstadt liegt geografisch im Zentrum der Isan-Region.",
       hu: "Mahaszarakham az északkeleti régió oktatási központjának számít. Az egyetemváros földrajzilag az Isan-régió központjában fekszik.",
@@ -1248,7 +1248,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-chaiyaphum-cities-v2",
     type: "city",
     name: { de: "Chaiyaphum", hu: "Csajaphum", ro: "Chaiyaphum", en: "Chaiyaphum" },
-    coordinates: { lat: 15.807, lng: 102.032 },
+    coords: [102.032, 15.807],
     description: {
       de: "Chaiyaphum liegt an der Grenze zwischen Zentral- und Nordostthailand. Die Stadt ist von Gebirgsketten und mehreren Nationalparks umgeben.",
       hu: "Csajaphum Közép- és Északkelet-Thaiföld határán fekszik. A várost hegyláncok és számos nemzeti park veszi körül.",
@@ -1267,7 +1267,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-phetchabun-cities-v2",
     type: "city",
     name: { de: "Phetchabun", hu: "Phetcsabun", ro: "Phetchabun", en: "Phetchabun" },
-    coordinates: { lat: 16.419, lng: 101.157 },
+    coords: [101.157, 16.419],
     description: {
       de: "Phetchabun liegt im fruchtbaren Tal des Pa Sak Flusses. Die Stadt ist für ihre kühle Berglandschaft und die Landwirtschaft bekannt.",
       hu: "Phetcsabun a Pa Sak folyó termékeny völgyében fekszik. A város hűvös hegyi tájairól és mezőgazdaságáról ismert.",
@@ -1286,7 +1286,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-kamphaeng-phet-cities-v2",
     type: "city",
     name: { de: "Kamphaeng Phet", hu: "Kamfeng Phet", ro: "Kamphaeng Phet", en: "Kamphaeng Phet" },
-    coordinates: { lat: 16.4828, lng: 99.5228 },
+    coords: [99.5228, 16.4828],
     description: {
       de: "Kamphaeng Phet bedeutet Diamantmauer und war eine wichtige Festungsstadt des Sukhothai-Reiches. Sie liegt am Ping Fluss.",
       hu: "Kamfeng Phet jelentése gyémántfal, és a Szukhotaj Birodalom fontos erődvárosa volt. A Ping folyó partján fekszik.",
@@ -1305,7 +1305,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-nan-cities-v2",
     type: "city",
     name: { de: "Nan", hu: "Nan", ro: "Nan", en: "Nan" },
-    coordinates: { lat: 18.783, lng: 100.781 },
+    coords: [100.781, 18.783],
     description: {
       de: "Nan ist eine ruhige Stadt im Norden Thailands mit einer eigenständigen Geschichte. Sie war lange Zeit ein unabhängiges Fürstentum.",
       hu: "Nan egy csendes város Észak-Thaiföldön, önálló történelemmel. Hosszú ideig független fejedelemség volt.",
@@ -1324,7 +1324,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-phrae-cities-v2",
     type: "city",
     name: { de: "Phrae", hu: "Phre", ro: "Phrae", en: "Phrae" },
-    coordinates: { lat: 18.145, lng: 100.141 },
+    coords: [100.141, 18.145],
     description: {
       de: "Phrae ist eine der ältesten Städte Nordthailands und liegt im Tal des Yom Flusses. Sie ist bekannt für ihre Teakholz-Häuser.",
       hu: "Phre Észak-Thaiföld egyik legrégebbi városa, a Jom folyó völgyében fekszik. Tíkfa házaidról ismert.",
@@ -1343,7 +1343,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-mae-hong-son-cities-v2",
     type: "city",
     name: { de: "Mae Hong Son", hu: "Mehongszon", ro: "Mae Hong Son", en: "Mae Hong Son" },
-    coordinates: { lat: 19.3003, lng: 97.9678 },
+    coords: [97.9678, 19.3003],
     description: {
       de: "Mae Hong Son liegt in einem tiefen Tal an der Grenze zu Myanmar. Die Stadt ist oft in Nebel gehüllt und hat einen starken Shan-Einfluss.",
       hu: "Mehongszon egy mély völgyben fekszik a mianmari határnál. A várost gyakran köd borítja, és erős shan befolyással rendelkezik.",
@@ -1362,7 +1362,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-mukdahan-cities-v2",
     type: "city",
     name: { de: "Mukdahan", hu: "Mukdahan", ro: "Mukdahan", en: "Mukdahan" },
-    coordinates: { lat: 16.545, lng: 104.721 },
+    coords: [104.721, 16.545],
     description: {
       de: "Mukdahan liegt am Mekong gegenüber der laotischen Stadt Savannakhet. Sie ist ein wichtiges Handelszentrum am Ost-West-Wirtschaftskorridor.",
       hu: "Mukdahan a Mekong partján fekszik, szemben a laoszi Savannakhet várossal. Fontos kereskedelmi központ a kelet-nyugati gazdasági folyosón.",
@@ -1381,7 +1381,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-chumphon-cities-v2",
     type: "city",
     name: { de: "Chumphon", hu: "Csumphon", ro: "Chumphon", en: "Chumphon" },
-    coordinates: { lat: 10.493, lng: 99.177 },
+    coords: [99.177, 10.493],
     description: {
       de: "Chumphon ist das Tor zum Süden Thailands am Isthmus von Kra. Die Stadt ist ein wichtiger Verkehrsknotenpunkt für Reisende zu den Inseln.",
       hu: "Csumphon Dél-Thaiföld kapuja a Kra-földszorosnál. A város fontos közlekedési csomópont a szigetekre utazók számára.",
@@ -1400,7 +1400,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-ranong-cities-v2",
     type: "city",
     name: { de: "Ranong", hu: "Ranong", ro: "Ranong", en: "Ranong" },
-    coordinates: { lat: 9.965, lng: 98.634 },
+    coords: [98.634, 9.965],
     description: {
       de: "Ranong liegt an der Westküste Thailands an der Mündung des Kraburi Flusses. Sie ist die regenreichste Stadt des Landes.",
       hu: "Ranong Thaiföld nyugati partján fekszik, a Kraburi folyó torkolatánál. Az ország legcsapadékosabb városa.",
@@ -1419,7 +1419,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "thailand-satun-cities-v2",
     type: "city",
     name: { de: "Satun", hu: "Szatun", ro: "Satun", en: "Satun" },
-    coordinates: { lat: 6.611, lng: 100.066 },
+    coords: [100.066, 6.611],
     description: {
       de: "Satun liegt im tiefen Süden Thailands nahe der malaysischen Grenze. Die Stadt ist bekannt für ihre kulturelle Vielfalt und als Tor zum Tarutao Meerespark.",
       hu: "Szatun Thaiföld távoli déli részén fekszik, a malajziai határ közelében. A város kulturális sokszínűségéről és a Tarutao tengeri park kapujáról ismert.",

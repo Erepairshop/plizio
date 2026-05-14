@@ -1702,7 +1702,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-gihofi-cities-v2",
     type: "town",
     name: { de: "Gihofi", hu: "Gihofi", ro: "Gihofi", en: "Gihofi" },
-    coordinates: { lat: -3.993, lng: 30.138 },
+    coords: [30.138, -3.993],
     description: {
       de: "Gihofi ist eine Stadt im Südosten Burundis in der Provinz Rutana. Sie ist bekannt für ihre Zuckerindustrie und die künstlich bewässerten Plantagen.",
       hu: "Gihofi város Burundi délkeleti részén, Rutana tartományban. A település a cukorgyártásáról és a kiterjedt cukornádültetvényeiről nevezetes.",
@@ -1733,7 +1733,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-kanyosha-cities-v2",
     type: "town",
     name: { de: "Kanyosha", hu: "Kanyosha", ro: "Kanyosha", en: "Kanyosha" },
-    coordinates: { lat: -3.431, lng: 29.372 },
+    coords: [29.372, -3.431],
     description: {
       de: "Kanyosha liegt südlich der Hauptstadt am Ufer des Tanganjikasees. Die Stadt dient als wichtiges Wohn- und Handelszentrum in der Provinz Bujumbura Rural.",
       hu: "Kanyosha a fővárostól délre, a Tanganyika-tó partján fekszik. A város fontos lakó- és kereskedelmi központ Bujumbura Rural tartományban.",
@@ -1764,7 +1764,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-mutimbuzi-cities-v2",
     type: "town",
     name: { de: "Mutimbuzi", hu: "Mutimbuzi", ro: "Mutimbuzi", en: "Mutimbuzi" },
-    coordinates: { lat: -3.324, lng: 29.345 },
+    coords: [29.345, -3.324],
     description: {
       de: "Mutimbuzi liegt nördlich von Bujumbura in der fruchtbaren Imbo-Ebene. Die Stadt ist ein bedeutendes Zentrum für den Reisanbau und den grenznahen Handel.",
       hu: "Mutimbuzi Bujumburától északra fekszik a termékeny Imbo-síkságon. A város a rizstermesztés és a határokon átnyúló kereskedelem jelentős központja.",
@@ -1795,7 +1795,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-bukinanyana-cities-v2",
     type: "town",
     name: { de: "Bukinanyana", hu: "Bukinanyana", ro: "Bukinanyana", en: "Bukinanyana" },
-    coordinates: { lat: -2.855, lng: 29.351 },
+    coords: [29.351, -2.855],
     description: {
       de: "Bukinanyana ist eine hochgelegene Stadt in der Provinz Cibitoke im Nordwesten Burundis. Sie liegt am Rande des dichten Kibira-Nationalparks.",
       hu: "Bukinanyana egy magasan fekvő város Cibitoke tartományban, Burundi északnyugati részén. A település a sűrű Kibira Nemzeti Park szélén található.",
@@ -1826,7 +1826,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-kibago-cities-v2",
     type: "town",
     name: { de: "Kibago", hu: "Kibago", ro: "Kibago", en: "Kibago" },
-    coordinates: { lat: -4.258, lng: 29.982 },
+    coords: [29.982, -4.258],
     description: {
       de: "Kibago ist eine Stadt im äußersten Süden Burundis in der Provinz Makamba. Sie liegt in der Nähe der Grenze zu Tansania und ist ein regionaler Handelsplatz.",
       hu: "Kibago Burundi legdélebbi részén, Makamba tartományban található város. A tanzániai határ közelében fekszik és regionális kereskedelmi központ.",
@@ -1857,7 +1857,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-bugenyuzi-cities-v2",
     type: "town",
     name: { de: "Bugenyuzi", hu: "Bugenyuzi", ro: "Bugenyuzi", en: "Bugenyuzi" },
-    coordinates: { lat: -3.175, lng: 29.934 },
+    coords: [29.934, -3.175],
     description: {
       de: "Bugenyuzi ist ein zentraler Ort in der Provinz Karuzi. Die Stadt liegt im burundischen Hochland und ist ein wichtiger Knotenpunkt für die lokale Landwirtschaft.",
       hu: "Bugenyuzi Karuzi tartomány egyik központi települése. A város a burundi felföldön fekszik, és a helyi mezőgazdaság fontos csomópontja.",
@@ -1888,7 +1888,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-marangara-cities-v2",
     type: "town",
     name: { de: "Marangara", hu: "Marangara", ro: "Marangara", en: "Marangara" },
-    coordinates: { lat: -2.831, lng: 30.052 },
+    coords: [30.052, -2.831],
     description: {
       de: "Marangara liegt im Norden Burundis in der Provinz Ngozi. Die Stadt ist bekannt für ihre dichte Besiedlung und die intensive terrassierte Landwirtschaft.",
       hu: "Marangara Burundi északi részén, Ngozi tartományban található. A város sűrű lakosságáról és az intenzív teraszos mezőgazdaságáról ismert.",
@@ -1919,7 +1919,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-busiga-cities-v2",
     type: "town",
     name: { de: "Busiga", hu: "Busiga", ro: "Busiga", en: "Busiga" },
-    coordinates: { lat: -2.858, lng: 29.754 },
+    coords: [29.754, -2.858],
     description: {
       de: "Busiga ist eine Grenzstadt in der Provinz Ngozi, direkt an der Grenze zu Ruanda. Sie ist ein wichtiger Durchgangsort für den Handel zwischen den Ländern.",
       hu: "Busiga határmenti város Ngozi tartományban, közvetlenül a ruandai határnál. Fontos tranzitpont a két ország közötti kereskedelemben.",
@@ -1950,7 +1950,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-tangara-cities-v2",
     type: "town",
     name: { de: "Tangara", hu: "Tangara", ro: "Tangara", en: "Tangara" },
-    coordinates: { lat: -2.885, lng: 30.151 },
+    coords: [30.151, -2.885],
     description: {
       de: "Tangara ist eine Stadt im Nordosten der Provinz Ngozi. Die Region ist landwirtschaftlich geprägt und ein wichtiges Zentrum für die Produktion von Grundnahrungsmitteln.",
       hu: "Tangara város Ngozi tartomány északkeleti részén. A régió mezőgazdasági jellegű, az alapvető élelmiszerek termelésének fontos központja.",
@@ -1981,7 +1981,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     id: "burundi-kinyinya-cities-v2",
     type: "town",
     name: { de: "Kinyinya", hu: "Kinyinya", ro: "Kinyinya", en: "Kinyinya" },
-    coordinates: { lat: -3.532, lng: 30.334 },
+    coords: [30.334, -3.532],
     description: {
       de: "Kinyinya ist eine Stadt in der Provinz Ruyigi im Osten Burundis. Sie liegt in der Mosso-Region, die für ihren Reichtum an natürlichen Ressourcen bekannt ist.",
       hu: "Kinyinya város Ruyigi tartományban, Burundi keleti részén. A Mosso-régióban fekszik, amely természeti erőforrásokban való gazdagságáról ismert.",

@@ -5,7 +5,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-castries-cities-v2",
     type: "capital",
     name: { de: "Castries", hu: "Castries", ro: "Castries", en: "Castries" },
-    coordinates: { lat: 14.0101, lng: -60.9875 },
+    coords: [-60.9875, 14.0101],
     description: {
       de: "Castries ist die Hauptstadt von Saint Lucia und das wirtschaftliche Zentrum des Landes. Die Stadt ist für ihren großen Naturhafen und den lebhaften Markt bekannt.",
       hu: "Castries Saint Lucia fővárosa és gazdasági központja. A város híres nagy természetes kikötőjéről és élénk piacáról.",
@@ -24,7 +24,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vieux-fort-cities-v2",
     type: "town",
     name: { de: "Vieux Fort", hu: "Vieux Fort", ro: "Vieux Fort", en: "Vieux Fort" },
-    coordinates: { lat: 13.7251, lng: -60.9491 },
+    coords: [-60.9491, 13.7251],
     description: {
       de: "Vieux Fort ist die zweitgrößte Stadt der Insel und liegt an der Südspitze. Sie beherbergt den internationalen Flughafen Hewanorra und ein wichtiges Industriegebiet.",
       hu: "Vieux Fort a sziget második legnagyobb városa, a déli csücsökben található. Itt található a Hewanorra nemzetközi repülőtér és egy fontos ipari negyed.",
@@ -43,7 +43,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-soufriere-cities-v2",
     type: "town",
     name: { de: "Soufrière", hu: "Soufrière", ro: "Soufrière", en: "Soufrière" },
-    coordinates: { lat: 13.8562, lng: -61.0566 },
+    coords: [-61.0566, 13.8562],
     description: {
       de: "Soufrière war die ursprüngliche Hauptstadt der Insel und liegt am Fuße der Pitons. Die Stadt ist für ihre vulkanischen Schwefelquellen bekannt.",
       hu: "Soufrière a sziget eredeti fővárosa volt, a Pitonok lábánál fekszik. A város híres vulkáni kénes forrásairól.",
@@ -62,7 +62,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-gros-islet-cities-v2",
     type: "town",
     name: { de: "Gros Islet", hu: "Gros Islet", ro: "Gros Islet", en: "Gros Islet" },
-    coordinates: { lat: 14.0805, lng: -60.9502 },
+    coords: [-60.9502, 14.0805],
     description: {
       de: "Gros Islet ist eine lebhafte Stadt im Norden von Saint Lucia, bekannt für ihre Freitags-Straßenfeste. Sie grenzt an die Rodney Bay und den Pigeon Island Nationalpark.",
       hu: "Gros Islet egy élénk város Saint Lucia északi részén, amely pénteki utcai partijairól ismert. Határos a Rodney-öböllel és a Pigeon Island Nemzeti Parkkal.",
@@ -81,7 +81,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-micoud-cities-v2",
     type: "village",
     name: { de: "Micoud", hu: "Micoud", ro: "Micoud", en: "Micoud" },
-    coordinates: { lat: 13.8168, lng: -60.9025 },
+    coords: [-60.9025, 13.8168],
     description: {
       de: "Micoud ist eine Siedlung an der Südostküste von Saint Lucia. Die Gegend ist überwiegend landwirtschaftlich geprägt und für ihre Bananenplantagen bekannt.",
       hu: "Micoud egy település Saint Lucia délkeleti partján. A terület túlnyomórészt mezőgazdasági jellegű, és banánültetvényeiről ismert.",
@@ -100,7 +100,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-dennery-cities-v2",
     type: "village",
     name: { de: "Dennery", hu: "Dennery", ro: "Dennery", en: "Dennery" },
-    coordinates: { lat: 13.9115, lng: -60.8905 },
+    coords: [-60.8905, 13.9115],
     description: {
       de: "Dennery liegt an der Ostküste und ist ein bedeutendes Zentrum für die Fischerei. Das Dorf ist auch für seine landwirtschaftliche Produktion, insbesondere Bananen, bekannt.",
       hu: "Dennery a keleti parton fekszik, és jelentős halászati központ. A falu mezőgazdasági termeléséről, különösen a banánról is ismert.",
@@ -119,7 +119,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-laborie-cities-v2",
     type: "village",
     name: { de: "Laborie", hu: "Laborie", ro: "Laborie", en: "Laborie" },
-    coordinates: { lat: 13.7505, lng: -60.9951 },
+    coords: [-60.9951, 13.7505],
     description: {
       de: "Laborie ist ein malerisches Fischerdorf an der Südwestküste. Es bewahrt eine authentische Atmosphäre mit traditionellen kreolischen Holzhäusern.",
       hu: "Laborie egy festői halászfalu a délnyugati parton. Autentikus hangulatát hagyományos kreol faházaival őrizte meg.",
@@ -138,7 +138,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-anse-la-raye-cities-v2",
     type: "village",
     name: { de: "Anse La Raye", hu: "Anse La Raye", ro: "Anse La Raye", en: "Anse La Raye" },
-    coordinates: { lat: 13.9405, lng: -61.0395 },
+    coords: [-61.0395, 13.9405],
     description: {
       de: "Anse La Raye ist ein traditionelles Fischerdorf an der Westküste. Es ist berühmt für seine bunten Boote und die beliebten kulinarischen Veranstaltungen am Freitagabend.",
       hu: "Anse La Raye egy hagyományos halászfalu a nyugati parton. Híres színes csónakjairól és a népszerű péntek esti kulináris eseményekről.",
@@ -157,7 +157,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choiseul-cities-v2",
     type: "village",
     name: { de: "Choiseul", hu: "Choiseul", ro: "Choiseul", en: "Choiseul" },
-    coordinates: { lat: 13.7745, lng: -61.0495 },
+    coords: [-61.0495, 13.7745],
     description: {
       de: "Choiseul ist das Kunstzentrum von Saint Lucia und liegt an der Südwestküste. Das Dorf ist bekannt für seine Töpferwaren, das Korbflechten und andere traditionelle Handwerke.",
       hu: "Choiseul Saint Lucia művészeti központja, a délnyugati parton található. A falu híres fazekasságáról, kosárfonásáról és más hagyományos mesterségeiről.",
@@ -176,7 +176,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-canaries-cities-v2",
     type: "village",
     name: { de: "Canaries", hu: "Canaries", ro: "Canaries", en: "Canaries" },
-    coordinates: { lat: 13.9005, lng: -61.0645 },
+    coords: [-61.0645, 13.9005],
     description: {
       de: "Canaries ist ein ruhiges Fischerdorf an der Westküste. Es liegt zwischen Soufrière und Anse La Raye und bietet eine entspannte Atmosphäre abseits des Tourismus.",
       hu: "Canaries egy csendes halászfalu a nyugati parton. Soufrière és Anse La Raye között fekszik, és nyugodt légkört kínál a turizmustól távol.",
@@ -195,7 +195,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-babonneau-cities-v2",
     type: "village",
     name: { de: "Babonneau", hu: "Babonneau", ro: "Babonneau", en: "Babonneau" },
-    coordinates: { lat: 14.0151, lng: -60.9401 },
+    coords: [-60.9401, 14.0151],
     description: {
       de: "Babonneau ist ein Binnendorf im Norden der Insel, umgeben von üppiger Vegetation. Es ist ein wichtiges landwirtschaftliches Zentrum und bekannt für den Öko-Tourismus.",
       hu: "Babonneau egy belső falu a sziget északi részén, buja növényzettel körülvéve. Fontos mezőgazdasági központ, és ökoturizmusáról ismert.",
@@ -214,7 +214,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-bexon-cities-v2",
     type: "village",
     name: { de: "Bexon", hu: "Bexon", ro: "Bexon", en: "Bexon" },
-    coordinates: { lat: 13.9655, lng: -60.9705 },
+    coords: [-60.9705, 13.9655],
     description: {
       de: "Bexon liegt im Cul de Sac Tal südlich von Castries. Das Dorf ist ein landwirtschaftliches Gebiet, das oft von saisonalen Überschwemmungen betroffen ist.",
       hu: "Bexon a Cul de Sac völgyben fekszik, Castries-től délre. A falu mezőgazdasági terület, amelyet gyakran érintenek a szezonális áradások.",
@@ -233,7 +233,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-ciceron-cities-v2",
     type: "village",
     name: { de: "Ciceron", hu: "Ciceron", ro: "Ciceron", en: "Ciceron" },
-    coordinates: { lat: 13.9905, lng: -61.0105 },
+    coords: [-61.0105, 13.9905],
     description: {
       de: "Ciceron ist eine bevölkerungsreiche Gemeinde an der Westküste südlich des Hafens von Castries. Es ist primär ein Wohngebiet mit Blick auf das Karibische Meer.",
       hu: "Ciceron egy népes közösség a nyugati parton, a Castries-i kikötőtől délre. Elsősorban lakóövezet, kilátással a Karib-tengerre.",
@@ -252,7 +252,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-rodney-bay-cities-v2",
     type: "town",
     name: { de: "Rodney Bay", hu: "Rodney Bay", ro: "Rodney Bay", en: "Rodney Bay" },
-    coordinates: { lat: 14.0755, lng: -60.9505 },
+    coords: [-60.9505, 14.0755],
     description: {
       de: "Rodney Bay ist das touristische Zentrum von Saint Lucia mit einem Yachthafen, Hotels und Einkaufszentren. Es liegt in einer geschützten Bucht im Norden.",
       hu: "Rodney Bay Saint Lucia turisztikai központja kikötővel, szállodákkal és bevásárlóközpontokkal. Egy védett öbölben fekszik északon.",
@@ -271,7 +271,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-cap-estate-cities-v2",
     type: "village",
     name: { de: "Cap Estate", hu: "Cap Estate", ro: "Cap Estate", en: "Cap Estate" },
-    coordinates: { lat: 14.1001, lng: -60.9405 },
+    coords: [-60.9405, 14.1001],
     description: {
       de: "Cap Estate ist eine exklusive Wohngegend an der Nordspitze von Saint Lucia. Die Region ist bekannt für ihre Luxusvillen, Golfplätze und spektakulären Küstenansichten.",
       hu: "Cap Estate egy exkluzív lakónegyed Saint Lucia északi csücskén. A régió luxusvilláiról, golfpályáiról és látványos parti kilátásáról ismert.",
@@ -290,7 +290,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-monchy-cities-v2",
     type: "village",
     name: { de: "Monchy", hu: "Monchy", ro: "Monchy", en: "Monchy" },
-    coordinates: { lat: 14.0655, lng: -60.9255 },
+    coords: [-60.9255, 14.0655],
     description: {
       de: "Monchy ist ein Binnendorf im Norden, das sich schnell zu einem beliebten Wohngebiet entwickelt hat. Es bietet einen kühleren Rückzugsort in den Hügeln über Gros Islet.",
       hu: "Monchy egy belső falu északon, amely gyorsan népszerű lakóövezetté vált. Hűvösebb menedéket kínál a Gros Islet feletti dombokon.",
@@ -309,7 +309,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-augier-cities-v2",
     type: "village",
     name: { de: "Augier", hu: "Augier", ro: "Augier", en: "Augier" },
-    coordinates: { lat: 13.7555, lng: -60.9655 },
+    coords: [-60.9655, 13.7555],
     description: {
       de: "Augier ist eine große Siedlung in der Nähe von Vieux Fort im Süden. Die Gemeinde ist eng mit der Landwirtschaft und der nahen Industrie verbunden.",
       hu: "Augier egy nagy település Vieux Fort közelében, délen. A közösség szorosan kötődik a mezőgazdasághoz és a közeli iparhoz.",
@@ -328,7 +328,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-desruisseaux-cities-v2",
     type: "village",
     name: { de: "Desruisseaux", hu: "Desruisseaux", ro: "Desruisseaux", en: "Desruisseaux" },
-    coordinates: { lat: 13.8155, lng: -60.9355 },
+    coords: [-60.9355, 13.8155],
     description: {
       de: "Desruisseaux ist eine bedeutende Gemeinde im Landesinneren im Südosten. Sie ist das Tor zu vielen landwirtschaftlichen Weilern im Micoud-Distrikt.",
       hu: "Desruisseaux egy jelentős belső közösség délkeleten. Ez a kapu a Micoud körzet számos mezőgazdasági tanyájához.",
@@ -347,7 +347,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-saltibus-cities-v2",
     type: "village",
     name: { de: "Saltibus", hu: "Saltibus", ro: "Saltibus", en: "Saltibus" },
-    coordinates: { lat: 13.8105, lng: -61.0005 },
+    coords: [-61.0005, 13.8105],
     description: {
       de: "Saltibus liegt tief im bergigen Landesinneren des Choiseul-Distrikts. Das Dorf ist für seine unberührte Natur und die zahlreichen Wasserfälle in der Umgebung bekannt.",
       hu: "Saltibus mélyen a Choiseul körzet hegyvidéki belsejében fekszik. A falu érintetlen természetéről és a környék számos vízeséséről ismert.",
@@ -366,7 +366,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-ti-rocher-micoud-cities-v2",
     type: "village",
     name: { de: "Ti Rocher (Micoud)", hu: "Ti Rocher (Micoud)", ro: "Ti Rocher (Micoud)", en: "Ti Rocher (Micoud)" },
-    coordinates: { lat: 13.8405, lng: -60.9105 },
+    coords: [-60.9105, 13.8405],
     description: {
       de: "Ti Rocher ist eine landwirtschaftliche Gemeinde im Micoud-Distrikt. Der Name bedeutet Kleiner Fels im lokalen Patois und spiegelt die hügelige Landschaft wider.",
       hu: "Ti Rocher egy mezőgazdasági közösség a Micoud körzetben. A név kiskövet jelent a helyi patois nyelven, ami a dombos tájat tükrözi.",
@@ -385,7 +385,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-ti-rocher-castries-cities-v2",
     type: "village",
     name: { de: "Ti Rocher (Castries)", hu: "Ti Rocher (Castries)", ro: "Ti Rocher (Castries)", en: "Ti Rocher (Castries)" },
-    coordinates: { lat: 13.9955, lng: -60.9555 },
+    coords: [-60.9555, 13.9955],
     description: {
       de: "Ti Rocher (Castries) ist eine wachsende Wohngemeinde in den Hügeln östlich der Hauptstadt. Sie bietet einen Panoramablick auf Castries und den Hafen.",
       hu: "Ti Rocher (Castries) egy növekvő lakóközösség a fővárostól keletre fekvő dombokon. Panorámás kilátást nyújt Castries-re és a kikötőre.",
@@ -404,7 +404,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-mongiraud-cities-v2",
     type: "village",
     name: { de: "Mongiraud", hu: "Mongiraud", ro: "Mongiraud", en: "Mongiraud" },
-    coordinates: { lat: 14.0605, lng: -60.9405 },
+    coords: [-60.9405, 14.0605],
     description: {
       de: "Mongiraud ist ein Wohnviertel im Norden, das in der Nähe der Rodney Bay liegt. Die Gegend ist für ihre moderne Infrastruktur und den einfachen Zugang zu Annehmlichkeiten bekannt.",
       hu: "Mongiraud egy északi lakónegyed, amely a Rodney-öböl közelében található. A terület modern infrastruktúrájáról és a szolgáltatások könnyű elérhetőségéről ismert.",
@@ -423,7 +423,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-marisule-cities-v2",
     type: "village",
     name: { de: "Marisule", hu: "Marisule", ro: "Marisule", en: "Marisule" },
-    coordinates: { lat: 14.0405, lng: -60.9655 },
+    coords: [-60.9655, 14.0405],
     description: {
       de: "Marisule liegt an der Küste zwischen Castries und Gros Islet. Die Siedlung bietet eine Mischung aus Wohngebieten und touristischen Einrichtungen am Meer.",
       hu: "Marisule a tengerparton található Castries és Gros Islet között. A település lakóövezetek és tengerparti turisztikai létesítmények keverékét kínálja.",
@@ -442,7 +442,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choc-cities-v2",
     type: "village",
     name: { de: "Choc", hu: "Choc", ro: "Choc", en: "Choc" },
-    coordinates: { lat: 14.0455, lng: -60.9755 },
+    coords: [-60.9755, 14.0455],
     description: {
       de: "Choc ist bekannt für seinen langen weißen Sandstrand und das angrenzende Einkaufsviertel. Es liegt nördlich von Castries und ist ein beliebter Erholungsort.",
       hu: "Choc hosszú, fehér homokos strandjáról és a szomszédos bevásárlónegyedről ismert. Castries-től északra fekszik, és népszerű üdülőhely.",
@@ -461,7 +461,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-union-cities-v2",
     type: "village",
     name: { de: "Union", hu: "Union", ro: "Union", en: "Union" },
-    coordinates: { lat: 14.0355, lng: -60.9605 },
+    coords: [-60.9605, 14.0355],
     description: {
       de: "Union ist ein wichtiges Industrie- und Verwaltungsgebiet im Norden. Es beherbergt Regierungsbüros, Schulen und landwirtschaftliche Forschungseinrichtungen.",
       hu: "Union egy fontos ipari és közigazgatási terület északon. Kormányzati irodáknak, iskoláknak és mezőgazdasági kutatóintézeteknek ad otthont.",
@@ -480,7 +480,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-balata-cities-v2",
     type: "village",
     name: { de: "Balata", hu: "Balata", ro: "Balata", en: "Balata" },
-    coordinates: { lat: 14.0205, lng: -60.9555 },
+    coords: [-60.9555, 14.0205],
     description: {
       de: "Balata ist eine ruhige Wohngemeinde in den Hügeln von Castries. Sie ist bekannt für ihre kühlen Brisen und den Blick auf die umliegenden Täler.",
       hu: "Balata egy csendes lakóközösség Castries dombjai között. Hűvös szellőiről és a környező völgyekre nyíló kilátásáról ismert.",
@@ -499,7 +499,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-giraud-cities-v2",
     type: "village",
     name: { de: "Giraud", hu: "Giraud", ro: "Giraud", en: "Giraud" },
-    coordinates: { lat: 14.0255, lng: -60.9305 },
+    coords: [-60.9305, 14.0255],
     description: {
       de: "Giraud ist ein kleiner Weiler in den ländlichen Gebieten von Babonneau. Das Gebiet ist stark in der Subsistenzlandwirtschaft und dem lokalen Handel tätig.",
       hu: "Giraud egy kis tanya Babonneau vidéki területein. A terület intenzíven foglalkozik az önellátó mezőgazdasággal és a helyi kereskedelemmel.",
@@ -518,7 +518,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-monier-cities-v2",
     type: "village",
     name: { de: "Monier", hu: "Monier", ro: "Monier", en: "Monier" },
-    coordinates: { lat: 14.0455, lng: -60.9205 },
+    coords: [-60.9205, 14.0455],
     description: {
       de: "Monier ist eine höher gelegene Wohngemeinde im Norden. Sie bietet eine kühle Umgebung und weite Ausblicke auf die Nordküste und die Atlantikseite.",
       hu: "Monier egy magasabban fekvő lakóközösség északon. Hűvös környezetet és széles kilátást nyújt az északi partra és az atlanti oldalra.",
@@ -537,7 +537,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-fond-st-jacques-cities-v2",
     type: "village",
     name: { de: "Fond St. Jacques", hu: "Fond St. Jacques", ro: "Fond St. Jacques", en: "Fond St. Jacques" },
-    coordinates: { lat: 13.8405, lng: -61.0205 },
+    coords: [-61.0205, 13.8405],
     description: {
       de: "Fond St. Jacques ist eine landwirtschaftliche Gemeinde in den Bergen oberhalb von Soufrière. Das Gebiet ist ein wichtiger Produzent von Obst und Kakao.",
       hu: "Fond St. Jacques egy mezőgazdasági közösség a Soufrière feletti hegyekben. A terület a gyümölcsök és a kakaó fontos termelője.",
@@ -556,7 +556,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-piaye-cities-v2",
     type: "village",
     name: { de: "Piaye", hu: "Piaye", ro: "Piaye", en: "Piaye" },
-    coordinates: { lat: 13.7655, lng: -61.0205 },
+    coords: [-61.0205, 13.7655],
     description: {
       de: "Piaye ist ein Dorf an der Südwestküste. Es ist nach dem Piaye-Fluss benannt und liegt in einer Region mit starkem kulturellen Erbe der Ureinwohner.",
       hu: "Piaye egy falu a délnyugati parton. A Piaye-folyóról nevezték el, és az őslakos kulturális örökséggel rendelkező régióban fekszik.",
@@ -575,7 +575,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-balembouche-cities-v2",
     type: "village",
     name: { de: "Balembouche", hu: "Balembouche", ro: "Balembouche", en: "Balembouche" },
-    coordinates: { lat: 13.7605, lng: -61.0105 },
+    coords: [-61.0105, 13.7605],
     description: {
       de: "Balembouche ist bekannt für sein historisches Anwesen und die umliegenden ländlichen Weiler. Es bietet eine ruhige Atmosphäre mit reicher Kolonialgeschichte.",
       hu: "Balembouche történelmi birtokáról és a környező vidéki tanyákról ismert. Csendes légkört kínál gazdag gyarmati múlttal.",
@@ -594,7 +594,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-praslin-cities-v2",
     type: "village",
     name: { de: "Praslin", hu: "Praslin", ro: "Praslin", en: "Praslin" },
-    coordinates: { lat: 13.8755, lng: -60.8955 },
+    coords: [-60.8955, 13.8755],
     description: {
       de: "Praslin ist ein Fischerdorf an der Ostküste mit einer geschützten Bucht. Es ist bekannt für seine natürliche Schönheit und die Herstellung von Seemoos.",
       hu: "Praslin egy halászfalu a keleti parton, védett öböllel. Természeti szépségéről és a tengeri moha termeléséről ismert.",
@@ -613,7 +613,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-mon-repos-cities-v2",
     type: "village",
     name: { de: "Mon Repos", hu: "Mon Repos", ro: "Mon Repos", en: "Mon Repos" },
-    coordinates: { lat: 13.8655, lng: -60.9055 },
+    coords: [-60.9055, 13.8655],
     description: {
       de: "Mon Repos ist ein Dorf an der Südostküste. Die Gegend ist überwiegend landwirtschaftlich geprägt und für ihre Ruhe und landschaftliche Schönheit bekannt.",
       hu: "Mon Repos egy falu a délkeleti parton. A terület túlnyomórészt mezőgazdasági jellegű, csendjéről és tájképi szépségéről ismert.",
@@ -632,7 +632,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-patience-cities-v2",
     type: "village",
     name: { de: "Patience", hu: "Patience", ro: "Patience", en: "Patience" },
-    coordinates: { lat: 13.8855, lng: -60.8955 },
+    coords: [-60.8955, 13.8855],
     description: {
       de: "Patience ist ein kleiner Weiler im Osten der Insel. Die Gemeinschaft ist eng mit dem Land verbunden und lebt primär von der Landwirtschaft.",
       hu: "Patience egy kis tanya a sziget keleti részén. A közösség szorosan kötődik a földhöz, és elsősorban mezőgazdaságból él.",
@@ -651,7 +651,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-boguis-cities-v2",
     type: "village",
     name: { de: "Boguis", hu: "Boguis", ro: "Boguis", en: "Boguis" },
-    coordinates: { lat: 14.0305, lng: -60.9155 },
+    coords: [-60.9155, 14.0305],
     description: {
       de: "Boguis liegt in den Hügeln von Babonneau. Das Dorf ist für seine reiche landwirtschaftliche Tradition und die malerische Aussicht auf den Atlantik bekannt.",
       hu: "Boguis Babonneau dombjai között található. A falu gazdag mezőgazdasági hagyományairól és az Atlanti-óceánra nyíló festői kilátásáról ismert.",
@@ -670,7 +670,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-garrand-cities-v2",
     type: "village",
     name: { de: "Garrand", hu: "Garrand", ro: "Garrand", en: "Garrand" },
-    coordinates: { lat: 14.0405, lng: -60.9055 },
+    coords: [-60.9055, 14.0405],
     description: {
       de: "Garrand ist eine Binnengemeinde im Nordosten. Sie ist bekannt für ihre üppigen Bananenplantagen und den Blick auf die zerklüftete Atlantikküste.",
       hu: "Garrand egy belső közösség északkeleten. Buja banánültetvényeiről és a tagolt atlanti partra nyíló kilátásáról ismert.",
@@ -689,7 +689,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-ravine-poisson-cities-v2",
     type: "village",
     name: { de: "Ravine Poisson", hu: "Ravine Poisson", ro: "Ravine Poisson", en: "Ravine Poisson" },
-    coordinates: { lat: 13.9455, lng: -60.9455 },
+    coords: [-60.9455, 13.9455],
     description: {
       de: "Ravine Poisson liegt im zentralen Hochland von Saint Lucia. Das Dorf ist Teil des Cul de Sac Wassereinzugsgebiets und von dichten Wäldern umgeben.",
       hu: "Ravine Poisson Saint Lucia központi felföldjén fekszik. A falu a Cul de Sac vízgyűjtő terület része, és sűrű erdők veszik körül.",
@@ -708,7 +708,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vanard-cities-v2",
     type: "village",
     name: { de: "Vanard", hu: "Vanard", ro: "Vanard", en: "Vanard" },
-    coordinates: { lat: 13.9355, lng: -60.9755 },
+    coords: [-60.9755, 13.9355],
     description: {
       de: "Vanard ist eine landwirtschaftliche Gemeinde im oberen Cul de Sac Tal. Sie ist bekannt für ihre fruchtbaren Böden und die Produktion von hochwertigen Bananen.",
       hu: "Vanard egy mezőgazdasági közösség a Cul de Sac felső völgyében. Termékeny talajáról és kiváló minőségű banántermeléséről ismert.",
@@ -727,7 +727,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-millet-cities-v2",
     type: "village",
     name: { de: "Millet", hu: "Millet", ro: "Millet", en: "Millet" },
-    coordinates: { lat: 13.9255, lng: -60.9855 },
+    coords: [-60.9855, 13.9255],
     description: {
       de: "Millet liegt im Herzen des Regenwaldes von Saint Lucia. Es ist ein erstklassiges Ziel für Vogelbeobachtungen und Naturschutz.",
       hu: "Millet Saint Lucia esőerdőinek szívében található. A madármegfigyelés és a természetvédelem elsődleges célpontja.",
@@ -746,7 +746,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-roseau-cities-v2",
     type: "village",
     name: { de: "Roseau", hu: "Roseau", ro: "Roseau", en: "Roseau" },
-    coordinates: { lat: 13.9555, lng: -61.0255 },
+    coords: [-61.0255, 13.9555],
     description: {
       de: "Roseau liegt im fruchtbaren Roseau-Tal an der Westküste. Es ist das Zentrum der Destillerieindustrie der Insel und eine wichtige landwirtschaftliche Region.",
       hu: "Roseau a termékeny Roseau-völgyben fekszik a nyugati parton. Ez a sziget lepárlóiparának központja és egy fontos mezőgazdasági régió.",
@@ -765,7 +765,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-marigot-bay-cities-v2",
     type: "village",
     name: { de: "Marigot Bay", hu: "Marigot Bay", ro: "Marigot Bay", en: "Marigot Bay" },
-    coordinates: { lat: 13.9655, lng: -61.0255 },
+    coords: [-61.0255, 13.9655],
     description: {
       de: "Marigot Bay gilt als einer der schönsten Häfen der Karibik. Das Dorf ist ein luxuriöses Reiseziel für Segler und Touristen mit exklusiven Resorts.",
       hu: "Marigot Bay-t a Karib-térség egyik legszebb kikötőjének tartják. A falu a vitorlázók és turisták luxus célpontja, exkluzív üdülőhelyekkel.",
@@ -784,7 +784,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-la-croix-maingot-cities-v2",
     type: "village",
     name: { de: "La Croix Maingot", hu: "La Croix Maingot", ro: "La Croix Maingot", en: "La Croix Maingot" },
-    coordinates: { lat: 13.9755, lng: -61.0005 },
+    coords: [-61.0005, 13.9755],
     description: {
       de: "La Croix Maingot ist eine Gemeinde in den Hügeln über dem Roseau-Tal. Sie dient als wichtiges Wohngebiet mit Anbindung an Castries und den Süden.",
       hu: "La Croix Maingot egy közösség a Roseau-völgy feletti dombokon. Fontos lakóövezetként szolgál, jó összeköttetéssel Castries és dél felé.",
@@ -803,7 +803,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vigie-cities-v2",
     type: "city",
     name: { de: "Vigie", hu: "Vigie", ro: "Vigie", en: "Vigie" },
-    coordinates: { lat: 14.0255, lng: -61.0055 },
+    coords: [-61.0055, 14.0255],
     description: {
       de: "Vigie ist eine Halbinsel, die den Hafen von Castries schützt. Sie beherbergt den kleineren Inselflughafen, einen beliebten Strand und historische Leuchttürme.",
       hu: "Vigie egy félsziget, amely védi Castries kikötőjét. Itt található a kisebb szigeti repülőtér, egy népszerű strand és történelmi világítótornyok.",
@@ -822,7 +822,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-morne-fortune-cities-v2",
     type: "city",
     name: { de: "Morne Fortune", hu: "Morne Fortune", ro: "Morne Fortune", en: "Morne Fortune" },
-    coordinates: { lat: 14.0001, lng: -61.0001 },
+    coords: [-61.0001, 14.0001],
     description: {
       de: "Morne Fortune ist ein Hügel oberhalb von Castries mit reicher Militärgeschichte. Heute ist er ein Bildungszentrum und bietet erstklassige Ausblicke auf den Norden.",
       hu: "Morne Fortune egy Castries feletti domb, gazdag katonai múlttal. Ma oktatási központ, és kiváló kilátást nyújt észak felé.",
@@ -841,7 +841,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-marchand-cities-v2",
     type: "city",
     name: { de: "Marchand", hu: "Marchand", ro: "Marchand", en: "Marchand" },
-    coordinates: { lat: 14.0105, lng: -60.9805 },
+    coords: [-60.9805, 14.0105],
     description: {
       de: "Marchand ist eine bevölkerungsreiche Gemeinde im Osten von Castries. Es ist ein lebhaftes Viertel, das eine wichtige Rolle im sozialen Gefüge der Hauptstadt spielt.",
       hu: "Marchand egy népes közösség Castries keleti részén. Ez egy élénk negyed, amely fontos szerepet játszik a főváros társadalmi szerkezetében.",
@@ -860,7 +860,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-entrepot-cities-v2",
     type: "city",
     name: { de: "Entrepot", hu: "Entrepot", ro: "Entrepot", en: "Entrepot" },
-    coordinates: { lat: 14.0105, lng: -60.9755 },
+    coords: [-60.9755, 14.0105],
     description: {
       de: "Entrepot ist ein wichtiger Vorort von Castries. Das Gebiet beherbergt mehrere Schulen und Wohnsiedlungen und dient als Bindeglied zwischen Stadt und Land.",
       hu: "Entrepot Castries fontos elővárosa. A terület számos iskolának és lakótelepnek ad otthont, összeköttetést biztosítva a város és a vidék között.",
@@ -879,7 +879,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-carellie-cities-v2",
     type: "city",
     name: { de: "Carellie", hu: "Carellie", ro: "Carellie", en: "Carellie" },
-    coordinates: { lat: 14.0205, lng: -60.9705 },
+    coords: [-60.9705, 14.0205],
     description: {
       de: "Carellie ist ein ruhiges Wohngebiet nordöstlich von Castries. Es ist bekannt für seine geordneten Siedlungen und die friedliche Atmosphäre abseits der Hauptstraßen.",
       hu: "Carellie egy csendes lakóövezet Castries-től északkeletre. Rendezett településeiről és a főutaktól távol eső békés hangulatáról ismert.",
@@ -898,7 +898,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-chase-gardens-cities-v2",
     type: "city",
     name: { de: "Chase Gardens", hu: "Chase Gardens", ro: "Chase Gardens", en: "Chase Gardens" },
-    coordinates: { lat: 14.0155, lng: -60.9855 },
+    coords: [-60.9855, 14.0155],
     description: {
       de: "Chase Gardens ist ein Vorort von Castries. Die Gemeinde ist für ihre Nähe zum Stadtzentrum und ihre engagierten sozialen Organisationen bekannt.",
       hu: "Chase Gardens Castries egyik elővárosa. A közösség a városközpont közelségéről és elkötelezett társadalmi szervezeteiről ismert.",
@@ -917,7 +917,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-la-clery-cities-v2",
     type: "city",
     name: { de: "La Clery", hu: "La Clery", ro: "La Clery", en: "La Clery" },
-    coordinates: { lat: 14.0205, lng: -60.9905 },
+    coords: [-60.9905, 14.0205],
     description: {
       de: "La Clery ist ein nördliches Viertel von Castries. Es beherbergt eine wichtige katholische Kirche und liegt günstig in der Nähe der Stadt und des Hafens.",
       hu: "La Clery Castries északi negyede. Egy fontos katolikus templomnak ad otthont, és kényelmes helyen, a város és a kikötő közelében fekszik.",
@@ -936,7 +936,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vide-bouteille-cities-v2",
     type: "city",
     name: { de: "Vide Bouteille", hu: "Vide Bouteille", ro: "Vide Bouteille", en: "Vide Bouteille" },
-    coordinates: { lat: 14.0305, lng: -60.9855 },
+    coords: [-60.9855, 14.0305],
     description: {
       de: "Vide Bouteille liegt nördlich des Stadtzentrums von Castries. Es ist ein gemischtes Viertel mit Wohngebieten, Schulen und kommerziellen Unternehmungen.",
       hu: "Vide Bouteille Castries városközpontjától északra található. Lakóövezetek, iskolák és kereskedelmi vállalkozások vegyes negyede.",
@@ -955,7 +955,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-bissee-cities-v2",
     type: "city",
     name: { de: "Bissee", hu: "Bissee", ro: "Bissee", en: "Bissee" },
-    coordinates: { lat: 14.0355, lng: -60.9755 },
+    coords: [-60.9755, 14.0355],
     description: {
       de: "Bissee ist eine wachsende Vorstadt nördlich von Castries. Das Gebiet zeichnet sich durch moderne Wohnanlagen und seine strategische Lage am Highway aus.",
       hu: "Bissee egy növekvő előváros Castries-től északra. A területet modern lakóparkok és az autópálya menti stratégiai elhelyezkedés jellemzi.",
@@ -974,7 +974,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-sunny-acres-cities-v2",
     type: "city",
     name: { de: "Sunny Acres", hu: "Sunny Acres", ro: "Sunny Acres", en: "Sunny Acres" },
-    coordinates: { lat: 14.0405, lng: -60.9705 },
+    coords: [-60.9705, 14.0405],
     description: {
       de: "Sunny Acres ist eine etablierte Wohngegend an der Nordküste. Sie ist bekannt für ihre gepflegten Gärten und die Nähe zum Choc-Strand.",
       hu: "Sunny Acres egy jól kiépült lakóövezet az északi parton. Gondozott kertjeiről és a Choc strand közelségéről ismert.",
@@ -993,7 +993,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-beausejour-cities-v2",
     type: "town",
     name: { de: "Beausejour", hu: "Beausejour", ro: "Beausejour", en: "Beausejour" },
-    coordinates: { lat: 14.0855, lng: -60.9405 },
+    coords: [-60.9405, 14.0855],
     description: {
       de: "Beausejour ist eine moderne Gemeinde im Norden, die für ihre erstklassigen Sportanlagen bekannt ist. Sie liegt in den Ebenen in der Nähe von Gros Islet.",
       hu: "Beausejour egy modern közösség északon, amely világszínvonalú sportlétesítményeiről ismert. Gros Islet közelében, a síkságon fekszik.",
@@ -1012,7 +1012,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-bonne-terre-cities-v2",
     type: "town",
     name: { de: "Bonne Terre", hu: "Bonne Terre", ro: "Bonne Terre", en: "Bonne Terre" },
-    coordinates: { lat: 14.0755, lng: -60.9455 },
+    coords: [-60.9455, 14.0755],
     description: {
       de: "Bonne Terre ist eine etablierte Wohngegend im Norden, die an die Rodney Bay grenzt. Sie bietet eine ruhige Umgebung mit vielen privaten Villen.",
       hu: "Bonne Terre egy jól kiépült lakóövezet északon, amely Rodney Bay-jel határos. Csendes környezetet kínál számos magánvillával.",
@@ -1031,7 +1031,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-rodney-heights-cities-v2",
     type: "town",
     name: { de: "Rodney Heights", hu: "Rodney Heights", ro: "Rodney Heights", en: "Rodney Heights" },
-    coordinates: { lat: 14.0705, lng: -60.9455 },
+    coords: [-60.9455, 14.0705],
     description: {
       de: "Rodney Heights liegt auf den Hügeln über der Rodney Bay. Es ist ein erstklassiges Wohnviertel mit einfachem Zugang zu Einkaufszentren und Schulen.",
       hu: "Rodney Heights a Rodney-öböl feletti dombokon található. Ez egy kiváló lakónegyed, ahonnan könnyen elérhetők a bevásárlóközpontok és iskolák.",
@@ -1050,7 +1050,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-mon-repos-east-cities-v2",
     type: "village",
     name: { de: "Mon Repos East", hu: "Mon Repos East", ro: "Mon Repos East", en: "Mon Repos East" },
-    coordinates: { lat: 13.8655, lng: -60.8955 },
+    coords: [-60.8955, 13.8655],
     description: {
       de: "Mon Repos East ist eine Erweiterung der Gemeinde Mon Repos an der Atlantikküste. Sie ist bekannt für ihre raue Schönheit und den traditionellen Fischfang.",
       hu: "Mon Repos East a Mon Repos közösség kiterjesztése az atlanti parton. Vad szépségéről és hagyományos halászatáról ismert.",
@@ -1069,7 +1069,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-balata-east-cities-v2",
     type: "village",
     name: { de: "Balata East", hu: "Balata East", ro: "Balata East", en: "Balata East" },
-    coordinates: { lat: 14.0205, lng: -60.9455 },
+    coords: [-60.9455, 14.0205],
     description: {
       de: "Balata East liegt in den Hügeln östlich von Castries. Diese ländliche Siedlung ist bekannt für ihre kleinen Bauernhöfe und die ruhige Lebensweise.",
       hu: "Balata East Castries-től keletre, a dombokon található. Ez a vidéki település kisgazdaságairól és nyugodt életmódjáról ismert.",
@@ -1088,7 +1088,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-union-west-cities-v2",
     type: "village",
     name: { de: "Union West", hu: "Union West", ro: "Union West", en: "Union West" },
-    coordinates: { lat: 14.0355, lng: -60.9705 },
+    coords: [-60.9705, 14.0355],
     description: {
       de: "Union West ist eine wachsende Wohngemeinde in der Nähe des Industriegebiets Union. Sie bietet bezahlbaren Wohnraum für Arbeiter im Norden.",
       hu: "Union West egy növekvő lakóközösség az Union ipari negyed közelében. Megfizethető lakhatást kínál az északi dolgozók számára.",
@@ -1107,7 +1107,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-marisule-beach-cities-v2",
     type: "village",
     name: { de: "Marisule Beach", hu: "Marisule Beach", ro: "Marisule Beach", en: "Marisule Beach" },
-    coordinates: { lat: 14.0405, lng: -60.9705 },
+    coords: [-60.9705, 14.0405],
     description: {
       de: "Marisule Beach ist eine kleine Küstengemeinde mit direktem Zugang zum Meer. Sie beherbergt mehrere Villen und Ferienhäuser.",
       hu: "Marisule Beach egy kis parti közösség közvetlen tengerparti kapcsolattal. Számos villának és üdülőháznak ad otthont.",
@@ -1126,7 +1126,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choc-commercial-cities-v2",
     type: "city",
     name: { de: "Choc Commercial", hu: "Choc Commercial", ro: "Choc Commercial", en: "Choc Commercial" },
-    coordinates: { lat: 14.0455, lng: -60.9805 },
+    coords: [-60.9805, 14.0455],
     description: {
       de: "Choc Commercial ist das geschäftigste Einkaufsviertel nördlich der Hauptstadt. Es beherbergt große Einkaufszentren, Autohäuser und Unterhaltungseinrichtungen.",
       hu: "Choc Commercial a fővárostól északra fekvő legforgalmasabb bevásárlónegyed. Nagy bevásárlóközpontoknak, autókereskedéseknek és szórakoztató létesítményeknek ad otthont.",
@@ -1145,7 +1145,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-desruisseaux-west-cities-v2",
     type: "village",
     name: { de: "Desruisseaux West", hu: "Desruisseaux West", ro: "Desruisseaux West", en: "Desruisseaux West" },
-    coordinates: { lat: 13.8155, lng: -60.9455 },
+    coords: [-60.9455, 13.8155],
     description: {
       de: "Desruisseaux West ist eine landwirtschaftliche Erweiterung der Gemeinde im Micoud-Distrikt. Es ist ein Zentrum für den Anbau von Zitrusfrüchten.",
       hu: "Desruisseaux West a Micoud körzet közösségének mezőgazdasági kiterjesztése. A citrusfélék termesztésének központja.",
@@ -1164,7 +1164,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-augier-south-cities-v2",
     type: "village",
     name: { de: "Augier South", hu: "Augier South", ro: "Augier South", en: "Augier South" },
-    coordinates: { lat: 13.7455, lng: -60.9655 },
+    coords: [-60.9655, 13.7455],
     description: {
       de: "Augier South grenzt an das Industriegebiet von Vieux Fort. Es ist eine Arbeitergemeinde mit einer starken Verbindung zum nahen Flughafen.",
       hu: "Augier South Vieux Fort ipari negyedével határos. Ez egy munkásközösség, amely szoros kapcsolatban áll a közeli repülőtérrel.",
@@ -1183,7 +1183,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-laborie-north-cities-v2",
     type: "village",
     name: { de: "Laborie North", hu: "Laborie North", ro: "Laborie North", en: "Laborie North" },
-    coordinates: { lat: 13.7655, lng: -60.9955 },
+    coords: [-60.9955, 13.7655],
     description: {
       de: "Laborie North liegt im Hinterland des Küstendorfes. Die Gemeinde ist stark in der Landwirtschaft und der Viehzucht tätig.",
       hu: "Laborie North a tengerparti falu hátországában található. A közösség intenzíven foglalkozik a mezőgazdasággal és az állattenyésztéssel.",
@@ -1202,7 +1202,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-soufriere-hills-cities-v2",
     type: "village",
     name: { de: "Soufrière Hills", hu: "Soufrière Hills", ro: "Soufrière Hills", en: "Soufrière Hills" },
-    coordinates: { lat: 13.8605, lng: -61.0455 },
+    coords: [-61.0455, 13.8605],
     description: {
       de: "Soufrière Hills bietet spektakuläre Ausblicke auf die Pitons und das Karibische Meer. Es ist ein erstklassiges Gebiet für Luxus-Resorts und exklusive Immobilien.",
       hu: "Soufrière Hills látványos kilátást nyújt a Pitonokra és a Karib-tengerre. Luxus üdülőhelyek és exkluzív ingatlanok elsőrendű területe.",
@@ -1221,7 +1221,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-anse-la-raye-inland-cities-v2",
     type: "village",
     name: { de: "Anse La Raye Inland", hu: "Anse La Raye Inland", ro: "Anse La Raye Inland", en: "Anse La Raye Inland" },
-    coordinates: { lat: 13.9355, lng: -61.0305 },
+    coords: [-61.0305, 13.9355],
     description: {
       de: "Anse La Raye Inland liegt in den bewaldeten Tälern hinter der Küste. Die Region ist bekannt für ihre unberührte Natur und die lokale Landwirtschaft.",
       hu: "Anse La Raye Inland a part mögötti erdős völgyekben található. A régió érintetlen természetéről és a helyi mezőgazdaságról ismert.",
@@ -1240,7 +1240,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-canaries-north-cities-v2",
     type: "village",
     name: { de: "Canaries North", hu: "Canaries North", ro: "Canaries North", en: "Canaries North" },
-    coordinates: { lat: 13.9105, lng: -61.0605 },
+    coords: [-61.0605, 13.9105],
     description: {
       de: "Canaries North liegt an der kurvenreichen Küstenstraße zwischen Canaries und Anse La Raye. Es ist bekannt für seine dramatischen Klippen und Meeresblicke.",
       hu: "Canaries North a Canaries és Anse La Raye közötti kanyargós parti úton található. Drámai szikláiról és tengeri kilátásáról ismert.",
@@ -1259,7 +1259,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choiseul-east-cities-v2",
     type: "village",
     name: { de: "Choiseul East", hu: "Choiseul East", ro: "Choiseul East", en: "Choiseul East" },
-    coordinates: { lat: 13.7805, lng: -61.0405 },
+    coords: [-61.0405, 13.7805],
     description: {
       de: "Choiseul East ist bekannt für seine traditionellen Webereien und Kunsthandwerk. Das Dorf bewahrt stolz das kulturelle Erbe von Saint Lucia.",
       hu: "Choiseul East hagyományos szövéséről és kézművességéről ismert. A falu büszkén őrzi Saint Lucia kulturális örökségét.",
@@ -1278,7 +1278,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vieux-fort-north-cities-v2",
     type: "village",
     name: { de: "Vieux Fort North", hu: "Vieux Fort North", ro: "Vieux Fort North", en: "Vieux Fort North" },
-    coordinates: { lat: 13.7355, lng: -60.9405 },
+    coords: [-60.9405, 13.7355],
     description: {
       de: "Vieux Fort North ist eine wachsende Wohngemeinde in der Nähe des internationalen Flughafens. Sie bietet modernen Komfort und einfachen Zugang zum Süden.",
       hu: "Vieux Fort North egy növekvő lakóközösség a nemzetközi repülőtér közelében. Modern kényelmet és könnyű elérhetőséget kínál dél felé.",
@@ -1297,7 +1297,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-micoud-north-cities-v2",
     type: "village",
     name: { de: "Micoud North", hu: "Micoud North", ro: "Micoud North", en: "Micoud North" },
-    coordinates: { lat: 13.8255, lng: -60.8955 },
+    coords: [-60.8955, 13.8255],
     description: {
       de: "Micoud North liegt an der malerischen Atlantikküste. Das Dorf ist für seine Bananenproduktion und seine friedliche ländliche Atmosphäre bekannt.",
       hu: "Micoud North a festői atlanti parton fekszik. A falu banántermeléséről és békés vidéki hangulatáról ismert.",
@@ -1316,7 +1316,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-dennery-south-cities-v2",
     type: "village",
     name: { de: "Dennery South", hu: "Dennery South", ro: "Dennery South", en: "Dennery South" },
-    coordinates: { lat: 13.9055, lng: -60.8955 },
+    coords: [-60.8955, 13.9055],
     description: {
       de: "Dennery South grenzt an die Fischereibucht von Dennery. Es ist das Herz der lokalen Fischereigemeinschaft und ein lebhaftes Handelszentrum.",
       hu: "Dennery South a Dennery halászöböllel határos. Ez a helyi halászközösség szíve és egy élénk kereskedelmi központ.",
@@ -1335,7 +1335,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-babonneau-central-cities-v2",
     type: "village",
     name: { de: "Babonneau Central", hu: "Babonneau Central", ro: "Babonneau Central", en: "Babonneau Central" },
-    coordinates: { lat: 14.0151, lng: -60.9355 },
+    coords: [-60.9355, 14.0151],
     description: {
       de: "Babonneau Central ist das Verwaltungs- und Handelszentrum des Babonneau-Distrikts. Es ist bekannt für seine lebhafte Gemeinschaft und seine reiche Landwirtschaft.",
       hu: "Babonneau Central a Babonneau körzet közigazgatási és kereskedelmi központja. Élénk közösségéről és gazdag mezőgazdaságáról ismert.",
@@ -1354,7 +1354,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-gros-islet-north-cities-v2",
     type: "town",
     name: { de: "Gros Islet North", hu: "Gros Islet North", ro: "Gros Islet North", en: "Gros Islet North" },
-    coordinates: { lat: 14.0905, lng: -60.9505 },
+    coords: [-60.9505, 14.0905],
     description: {
       de: "Gros Islet North liegt in der Nähe des Meeres und grenzt an den Pigeon Island Nationalpark. Es ist ein Gebiet mit einer Mischung aus Tourismus und Wohngebieten.",
       hu: "Gros Islet North a tenger közelében található, a Pigeon Island Nemzeti Parkkal határos. Turizmus és lakóövezetek keveréke jellemzi.",
@@ -1373,7 +1373,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-castries-south-cities-v2",
     type: "city",
     name: { de: "Castries South", hu: "Castries South", ro: "Castries South", en: "Castries South" },
-    coordinates: { lat: 13.9955, lng: -61.0055 },
+    coords: [-61.0055, 13.9955],
     description: {
       de: "Castries South ist eine wichtige Wohnerweiterung der Hauptstadt. Es umfasst mehrere Hügelgemeinden mit Blick auf das Karibische Meer.",
       hu: "Castries South a főváros fontos lakóövezeti kiterjesztése. Számos dombtetői közösséget foglal magában, kilátással a Karib-tengerre.",
@@ -1392,7 +1392,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-soufriere-town-cities-v2",
     type: "town",
     name: { de: "Soufrière Town", hu: "Soufrière Town", ro: "Soufrière Town", en: "Soufrière Town" },
-    coordinates: { lat: 13.8562, lng: -61.0566 },
+    coords: [-61.0566, 13.8562],
     description: {
       de: "Soufrière Town ist das kulturelle Herz der Westküste. Es ist bekannt für seine lebendige Uferpromenade, Kolonialarchitektur und seine freundliche Atmosphäre.",
       hu: "Soufrière Town a nyugati part kulturális szíve. Élénk vízpartjáról, gyarmati építészetéről és barátságos légköréről ismert.",
@@ -1411,7 +1411,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-laborie-village-cities-v2",
     type: "village",
     name: { de: "Laborie Village", hu: "Laborie Village", ro: "Laborie Village", en: "Laborie Village" },
-    coordinates: { lat: 13.7505, lng: -60.9951 },
+    coords: [-60.9951, 13.7505],
     description: {
       de: "Laborie Village ist eine eng verbundene Gemeinde an der Südküste. Es ist berühmt für seine lokalen Festivals und seine gut erhaltene kreolische Kultur.",
       hu: "Laborie Village egy összetartó közösség a déli parton. Híres helyi fesztiváljairól és jól megőrzött kreol kultúrájáról.",
@@ -1430,7 +1430,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-micoud-village-cities-v2",
     type: "village",
     name: { de: "Micoud Village", hu: "Micoud Village", ro: "Micoud Village", en: "Micoud Village" },
-    coordinates: { lat: 13.8168, lng: -60.9025 },
+    coords: [-60.9025, 13.8168],
     description: {
       de: "Micoud Village ist die größte Siedlung an der Südostküste. Es dient als Handelszentrum für den weitreichenden landwirtschaftlichen Distrikt.",
       hu: "Micoud Village a legnagyobb település a délkeleti parton. Kereskedelmi központként szolgál a kiterjedt mezőgazdasági körzet számára.",
@@ -1449,7 +1449,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-dennery-village-cities-v2",
     type: "village",
     name: { de: "Dennery Village", hu: "Dennery Village", ro: "Dennery Village", en: "Dennery Village" },
-    coordinates: { lat: 13.9115, lng: -60.8905 },
+    coords: [-60.8905, 13.9115],
     description: {
       de: "Dennery Village liegt in einer malerischen Bucht an der Ostküste. Es ist das wichtigste Zentrum für Fischerei und Bananenproduktion in der Region.",
       hu: "Dennery Village egy festői öbölben fekszik a keleti parton. A régió halászati és banántermelési központja.",
@@ -1468,7 +1468,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-anse-la-raye-village-cities-v2",
     type: "village",
     name: { de: "Anse La Raye Village", hu: "Anse La Raye Village", ro: "Anse La Raye Village", en: "Anse La Raye Village" },
-    coordinates: { lat: 13.9405, lng: -61.0395 },
+    coords: [-61.0395, 13.9405],
     description: {
       de: "Anse La Raye Village ist ein farbenfrohes Fischerdorf an der Westküste. Es ist berühmt für seine entspannte Atmosphäre und seine reichen kreolischen Traditionen.",
       hu: "Anse La Raye Village egy színes halászfalu a nyugati parton. Nyugodt légköréről és gazdag kreol hagyományairól híres.",
@@ -1487,7 +1487,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choiseul-village-cities-v2",
     type: "village",
     name: { de: "Choiseul Village", hu: "Choiseul Village", ro: "Choiseul Village", en: "Choiseul Village" },
-    coordinates: { lat: 13.7745, lng: -61.0495 },
+    coords: [-61.0495, 13.7745],
     description: {
       de: "Choiseul Village liegt unter dem Gipfel des Gros Piton. Es ist das wichtigste Dorf des Distrikts und ein bedeutender Ort für traditionelles Handwerk.",
       hu: "Choiseul Village a Gros Piton csúcsa alatt fekszik. Ez a körzet fő faluja és a hagyományos kézművesség jelentős helyszíne.",
@@ -1506,7 +1506,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-canaries-village-cities-v2",
     type: "village",
     name: { de: "Canaries Village", hu: "Canaries Village", ro: "Canaries Village", en: "Canaries Village" },
-    coordinates: { lat: 13.9005, lng: -61.0645 },
+    coords: [-61.0645, 13.9005],
     description: {
       de: "Canaries Village ist ein ruhiges und abgeschiedenes Fischerdorf an der Westküste. Es ist bekannt für seine natürliche Schönheit und seine Maniokbrot-Produktion.",
       hu: "Canaries Village egy csendes és elszigetelt halászfalu a nyugati parton. Természeti szépségéről és manióka kenyér gyártásáról ismert.",
@@ -1525,7 +1525,7 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-babonneau-village-cities-v2",
     type: "village",
     name: { de: "Babonneau Village", hu: "Babonneau Village", ro: "Babonneau Village", en: "Babonneau Village" },
-    coordinates: { lat: 14.0151, lng: -60.9401 },
+    coords: [-60.9401, 14.0151],
     description: {
       de: "Babonneau Village ist eine lebendige Gemeinde im fruchtbaren Hochland des Nordens. Es ist bekannt für seine landwirtschaftlichen Erzeugnisse und seine reiche Flora.",
       hu: "Babonneau Village egy élénk közösség az északi termékeny felföldön. Mezőgazdasági termékeiről és gazdag flórájáról ismert.",

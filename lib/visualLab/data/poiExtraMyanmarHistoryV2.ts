@@ -726,7 +726,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-sri-ksetra-history-v2",
     type: "ruins",
     name: { de: "Sri Ksetra", hu: "Sri Ksetra", ro: "Sri Ksetra", en: "Sri Ksetra" },
-    coordinates: { lat: 18.8105, lng: 95.2861 },
+    coords: [95.2861, 18.8105],
     description: {
       de: "Sri Ksetra ist die größte der antiken Pyu-Städte in Myanmar. Die Ruinen stammen aus dem 4. bis 9. Jahrhundert nach Christus.",
       hu: "Sri Ksetra a legnagyobb ősi pü város Mianmarban. A romok az időszámításunk szerinti 4. és 9. század közötti időszakból származnak.",
@@ -745,7 +745,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-beikthano-history-v2",
     type: "ruins",
     name: { de: "Beikthano", hu: "Beikthano", ro: "Beikthano", en: "Beikthano" },
-    coordinates: { lat: 20.0031, lng: 95.3814 },
+    coords: [95.3814, 20.0031],
     description: {
       de: "Beikthano ist eine der ältesten Pyu-Städte in Zentral-Myanmar. Die archäologische Stätte zeigt frühe buddhistische Architektur aus Ziegeln.",
       hu: "Beikthano az egyik legrégebbi pü város Közép-Mianmarban. A régészeti lelőhely korai buddhista téglaépítészetet mutat be.",
@@ -764,7 +764,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-halin-history-v2",
     type: "ruins",
     name: { de: "Halin", hu: "Halin", ro: "Halin", en: "Halin" },
-    coordinates: { lat: 22.4703, lng: 95.8119 },
+    coords: [95.8119, 22.4703],
     description: {
       de: "Halin war ein bedeutendes Zentrum der Pyu-Zivilisation im Norden Myanmars. Die Ausgrabungsstätte ist bekannt für ihre antiken Kanalsysteme.",
       hu: "Halin a pü civilizáció jelentős központja volt Észak-Mianmarban. Az ásatási terület az ősi csatornarendszereiről híres.",
@@ -783,7 +783,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-thaton-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Thaton", hu: "Thaton ókori városa", ro: "Orașul antic Thaton", en: "Thaton Ancient City" },
-    coordinates: { lat: 16.9231, lng: 97.3714 },
+    coords: [97.3714, 16.9231],
     description: {
       de: "Thaton war die Hauptstadt des Mon-Königreichs Suvarnabhumi im Süden Myanmars. Sie spielte eine zentrale Rolle bei der Verbreitung des Buddhismus.",
       hu: "Thaton a déli Mon királyság, Szuvarnabhumi fővárosa volt Mianmarban. Központi szerepet játszott a buddhizmus terjesztésében.",
@@ -802,7 +802,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-martaban-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Martaban", hu: "Martaban erőd", ro: "Cetatea Martaban", en: "Martaban Fortress" },
-    coordinates: { lat: 16.5217, lng: 97.6042 },
+    coords: [97.6042, 16.5217],
     description: {
       de: "Martaban war ein strategischer Hafen und eine Festung am Golf von Martaban. Sie diente im 14. Jahrhundert als Hauptstadt eines Mon-Königreichs.",
       hu: "Martaban stratégiai kikötő és erőd volt a Martaban-öbölben. A 14. században egy Mon királyság fővárosaként szolgált.",
@@ -821,7 +821,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-dhanyawaddy-history-v2",
     type: "ruins",
     name: { de: "Dhanyawaddy", hu: "Dhanyawaddy", ro: "Dhanyawaddy", en: "Dhanyawaddy" },
-    coordinates: { lat: 20.8752, lng: 93.0521 },
+    coords: [93.0521, 20.8752],
     description: {
       de: "Dhanyawaddy war die erste Hauptstadt der antiken Königreiche von Rakhine. Die kreisförmige Stadtruine liegt im Westen Myanmars.",
       hu: "Dhanyawaddy volt Rakhine ősi királyságainak első fővárosa. A kör alakú városrom Mianmar nyugati részén található.",
@@ -840,7 +840,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-vesali-history-v2",
     type: "ruins",
     name: { de: "Vesali", hu: "Vesali", ro: "Vesali", en: "Vesali" },
-    coordinates: { lat: 20.6725, lng: 93.1558 },
+    coords: [93.1558, 20.6725],
     description: {
       de: "Vesali war die Nachfolgerin von Dhanyawaddy als Hauptstadt des Rakhine-Reiches. Sie war ein bedeutendes Seehandelszentrum zwischen Indien und Südostasien.",
       hu: "Vesali Dhanyawaddy utódja volt a Rakhine királyság fővárosaként. Fontos tengeri kereskedelmi központ volt India és Délkelet-Ázsia között.",
@@ -859,7 +859,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-secretariat-history-v2",
     type: "monument",
     name: { de: "Das Sekretariat", hu: "Minisztériumok Épülete", ro: "Clădirea Secretariatului", en: "The Secretariat" },
-    coordinates: { lat: 16.7788, lng: 96.1642 },
+    coords: [96.1642, 16.7788],
     description: {
       de: "Das Sekretariat in Yangon ist ein monumentales koloniales Verwaltungsgebäude. Hier wurde 1947 General Aung San ermordet.",
       hu: "A yangoni Minisztériumok Épülete egy monumentális koloniális közigazgatási központ. Itt gyilkolták meg Aung Szan tábornokot 1947-ben.",
@@ -878,7 +878,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-yangon-high-court-history-v2",
     type: "monument",
     name: { de: "Hoher Gerichtshof von Yangon", hu: "Yangoni Legfelsőbb Bíróság", ro: "Înalta Curte din Yangon", en: "Yangon High Court" },
-    coordinates: { lat: 16.7735, lng: 96.1605 },
+    coords: [96.1605, 16.7735],
     description: {
       de: "Der Hohe Gerichtshof ist ein ikonisches Gebäude im Queen-Anne-Stil im Zentrum von Yangon. Er wurde Anfang des 20. Jahrhunderts erbaut.",
       hu: "A Legfelsőbb Bíróság egy ikonikus Queen Anne stílusú épület Yangon központjában. A 20. század elején épült.",
@@ -897,7 +897,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-custom-house-history-v2",
     type: "monument",
     name: { de: "Zollamt von Yangon", hu: "Vámház Yangon", ro: "Vama din Yangon", en: "Custom House Yangon" },
-    coordinates: { lat: 16.7705, lng: 96.1585 },
+    coords: [96.1585, 16.7705],
     description: {
       de: "Das Zollamt ist ein wichtiges koloniales Bauwerk am Flussufer von Yangon. Es zeugt von der maritimen Handelsgeschichte der Stadt.",
       hu: "A vámház egy fontos gyarmati épület Yangon folyópartján. A város tengeri kereskedelmi múltjának tanúja.",
@@ -916,7 +916,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-tagaung-history-v2",
     type: "ruins",
     name: { de: "Tagaung", hu: "Tagaung", ro: "Tagaung", en: "Tagaung" },
-    coordinates: { lat: 23.5114, lng: 96.0235 },
+    coords: [96.0235, 23.5114],
     description: {
       de: "Tagaung gilt als die älteste Stadt Myanmars und Wiege der birmanischen Zivilisation. Sie liegt am Ostufer des Irrawaddy.",
       hu: "Tagaungot Mianmar legrégebbi városának és a burmai civilizáció bölcsőjének tartják. Az Irrawaddy keleti partján fekszik.",
@@ -935,7 +935,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-pinya-history-v2",
     type: "ruins",
     name: { de: "Pinya", hu: "Pinya", ro: "Pinya", en: "Pinya" },
-    coordinates: { lat: 21.8214, lng: 95.9875 },
+    coords: [95.9875, 21.8214],
     description: {
       de: "Pinya war im 14. Jahrhundert eine wichtige Hauptstadt in Zentral-Myanmar. Heute sind dort überwiegend zerstörte Pagoden und Stupas zu sehen.",
       hu: "Pinya fontos főváros volt Közép-Mianmarban a 14. században. Ma főként romos pagodák és sztúpák láthatók a területen.",
@@ -954,7 +954,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-myinsaing-history-v2",
     type: "ruins",
     name: { de: "Myinsaing", hu: "Myinsaing", ro: "Myinsaing", en: "Myinsaing" },
-    coordinates: { lat: 21.7512, lng: 96.1214 },
+    coords: [96.1214, 21.7512],
     description: {
       de: "Myinsaing war eine der Residenzen der drei Shan-Brüder nach dem Zerfall des Bagan-Reiches. Die Überreste liegen in der Nähe von Kyaukse.",
       hu: "Myinsaing a három San-fivér egyik rezidenciája volt a Bagani Birodalom felbomlása után. A maradványok Kjauksze közelében találhatók.",
@@ -973,7 +973,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-thanlyin-fort-history-v2",
     type: "ruins",
     name: { de: "Portugiesische Festung Thanlyin", hu: "Thanlyin portugál erőd", ro: "Fortul portughez din Thanlyin", en: "Thanlyin Portuguese Fort" },
-    coordinates: { lat: 16.7625, lng: 96.2514 },
+    coords: [96.2514, 16.7625],
     description: {
       de: "Die Festung in Thanlyin erinnert an die kurze Zeit der portugiesischen Herrschaft im 17. Jahrhundert. Sie war der Stützpunkt des Abenteurers Filipe de Brito.",
       hu: "A thanlyini erőd a 17. századi rövid portugál uralomra emlékeztet. Filipe de Brito kalandor támaszpontja volt.",
@@ -992,7 +992,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-mingun-bell-history-v2",
     type: "monument",
     name: { de: "Mingun-Glocke", hu: "Mingun-harang", ro: "Clopotul din Mingun", en: "Mingun Bell" },
-    coordinates: { lat: 22.0514, lng: 95.9168 },
+    coords: [95.9168, 22.0514],
     description: {
       de: "Die Mingun-Glocke ist eine der größten funktionierenden Glocken der Welt. Sie wurde im Jahr 1808 im Auftrag von König Bodawpaya gegossen.",
       hu: "A Mingun-harang a világ egyik legnagyobb működő harangja. 1808-ban öntötték Bodawpaya király megrendelésére.",
@@ -1011,7 +1011,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-bagaya-monastery-history-v2",
     type: "landmark",
     name: { de: "Bagaya-Kloster", hu: "Bagaya-kolostor", ro: "Mănăstirea Bagaya", en: "Bagaya Monastery" },
-    coordinates: { lat: 21.8488, lng: 95.9765 },
+    coords: [95.9765, 21.8488],
     description: {
       de: "Das Bagaya-Kloster ist ein kunstvolles Teakholz-Gebäude in Inwa. Es ist berühmt für seine detaillierten Schnitzereien aus dem 19. Jahrhundert.",
       hu: "A Bagaya-kolostor egy díszes teakfa épület Inwában. Híres a 19. századi részletgazdag fafaragványairól.",
@@ -1030,7 +1030,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-maha-aungmye-bonzan-history-v2",
     type: "landmark",
     name: { de: "Maha Aungmye Bonzan Kloster", hu: "Maha Aungmye Bonzan kolostor", ro: "Mănăstirea Maha Aungmye Bonzan", en: "Maha Aungmye Bonzan Monastery" },
-    coordinates: { lat: 21.8614, lng: 95.9815 },
+    coords: [95.9815, 21.8614],
     description: {
       de: "Das Maha Aungmye Bonzan ist ein massives Backsteinkloster in Inwa. Es wurde von der Königin Nanmadaw Me Nu im Jahr 1818 erbaut.",
       hu: "A Maha Aungmye Bonzan egy hatalmas téglakolostor Inwában. Nanmadaw Me Nu királynő építtette 1818-ban.",
@@ -1049,7 +1049,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-kaunghmudaw-history-v2",
     type: "monument",
     name: { de: "Kaunghmudaw-Pagode", hu: "Kaunghmudaw-pagoda", ro: "Pagoda Kaunghmudaw", en: "Kaunghmudaw Pagoda" },
-    coordinates: { lat: 21.9442, lng: 95.9325 },
+    coords: [95.9325, 21.9442],
     description: {
       de: "Die Kaunghmudaw-Pagode in Sagaing ist für ihre riesige, halbkugelförmige Kuppel bekannt. Sie wurde im 17. Jahrhundert zur Aufbewahrung einer Reliquie errichtet.",
       hu: "A Kaunghmudaw-pagoda Szagaingban hatalmas, félgömb alakú kupolájáról ismert. A 17. században építették egy ereklye őrzésére.",
@@ -1068,7 +1068,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-dhammayangyi-history-v2",
     type: "ruins",
     name: { de: "Dhammayangyi-Tempel", hu: "Dhammayangyi-templom", ro: "Templul Dhammayangyi", en: "Dhammayangyi Temple" },
-    coordinates: { lat: 21.1622, lng: 94.8728 },
+    coords: [94.8728, 21.1622],
     description: {
       de: "Der Dhammayangyi-Tempel ist das massivste Bauwerk in der archäologischen Zone von Bagan. Er wurde im 12. Jahrhundert von König Narathu erbaut.",
       hu: "A Dhammayangyi-templom a legmasszívabb építmény Bagan régészeti övezetében. Narathu király építtette a 12. században.",
@@ -1087,7 +1087,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-thatbyinnyu-history-v2",
     type: "ruins",
     name: { de: "Thatbyinnyu-Tempel", hu: "Thatbyinnyu-templom", ro: "Templul Thatbyinnyu", en: "Thatbyinnyu Temple" },
-    coordinates: { lat: 21.1688, lng: 94.8628 },
+    coords: [94.8628, 21.1688],
     description: {
       de: "Der Thatbyinnyu-Tempel ist mit über 60 Metern das höchste religiöse Monument in Bagan. Er repräsentiert die Blütezeit der Bagan-Architektur.",
       hu: "A Thatbyinnyu-templom több mint 60 méteres magasságával Bagan legmagasabb vallási műemléke. A bagani építészet fénykorát képviseli.",
@@ -1106,7 +1106,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-gawdawpalin-history-v2",
     type: "ruins",
     name: { de: "Gawdawpalin-Tempel", hu: "Gawdawpalin-templom", ro: "Templul Gawdawpalin", en: "Gawdawpalin Temple" },
-    coordinates: { lat: 21.1714, lng: 94.8552 },
+    coords: [94.8552, 21.1714],
     description: {
       de: "Der Gawdawpalin-Tempel ist einer der größten und prächtigsten Tempel in Bagan. Er wurde im späten 12. Jahrhundert erbaut.",
       hu: "A Gawdawpalin-templom Bagan egyik legnagyobb és legpompásabb temploma. A 12. század végén épült.",
@@ -1125,7 +1125,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-htilominlo-history-v2",
     type: "ruins",
     name: { de: "Htilominlo-Tempel", hu: "Htilominlo-templom", ro: "Templul Htilominlo", en: "Htilominlo Temple" },
-    coordinates: { lat: 21.1788, lng: 94.8814 },
+    coords: [94.8814, 21.1788],
     description: {
       de: "Der Htilominlo-Tempel ist bekannt für seine feinen Stuckverzierungen und dreistöckige Bauweise. Er wurde im 13. Jahrhundert in Bagan errichtet.",
       hu: "A Htilominlo-templom finom stukkódíszeiről és háromszintes felépítéséről híres. A 13. században épült Baganban.",
@@ -1144,7 +1144,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-sulamani-history-v2",
     type: "ruins",
     name: { de: "Sulamani-Tempel", hu: "Sulamani-templom", ro: "Templul Sulamani", en: "Sulamani Temple" },
-    coordinates: { lat: 21.1648, lng: 94.8812 },
+    coords: [94.8812, 21.1648],
     description: {
       de: "Der Sulamani-Tempel gilt als einer der elegantesten Tempel von Bagan. Er kombiniert massive Bauweise mit feinen dekorativen Details.",
       hu: "A Sulamani-templomot Bagan egyik legelegánsabb templomának tartják. A masszív felépítést finom dekoratív részletekkel ötvözi.",
@@ -1163,7 +1163,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-shwemawdaw-history-v2",
     type: "monument",
     name: { de: "Shwemawdaw-Pagode", hu: "Shwemawdaw-pagoda", ro: "Pagoda Shwemawdaw", en: "Shwemawdaw Pagoda" },
-    coordinates: { lat: 17.3414, lng: 96.4812 },
+    coords: [96.4812, 17.3414],
     description: {
       de: "Die Shwemawdaw-Pagode in Bago ist die höchste Pagode Myanmars. Sie beherbergt bedeutende Reliquien des Buddha.",
       hu: "A bago-i Shwemawdaw-pagoda Mianmar legmagasabb pagodája. Buddha jelentős ereklyéit őrzi.",
@@ -1182,7 +1182,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-shwethalyaung-history-v2",
     type: "monument",
     name: { de: "Shwethalyaung-Buddha", hu: "Shwethalyaung fekvő Buddha", ro: "Buddha Shwethalyaung", en: "Shwethalyaung Buddha" },
-    coordinates: { lat: 17.3314, lng: 96.4715 },
+    coords: [96.4715, 17.3314],
     description: {
       de: "Der Shwethalyaung ist eine riesige liegende Buddha-Statue in Bago. Sie wurde im 10. Jahrhundert erbaut und später im Dschungel wiederentdeckt.",
       hu: "A Shwethalyaung egy hatalmas fekvő Buddha-szobor Bagóban. A 10. században épült, majd később a dzsungelben fedezték fel újra.",
@@ -1201,7 +1201,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-kyaikpun-history-v2",
     type: "monument",
     name: { de: "Kyaikpun-Pagode", hu: "Kyaikpun-pagoda", ro: "Pagoda Kyaikpun", en: "Kyaikpun Pagoda" },
-    coordinates: { lat: 17.3012, lng: 96.4815 },
+    coords: [96.4815, 17.3012],
     description: {
       de: "Die Kyaikpun-Pagode ist bekannt für ihre vier riesigen sitzenden Buddha-Statuen, die in die vier Himmelsrichtungen blicken.",
       hu: "A Kyaikpun-pagoda négy hatalmas ülő Buddha-szobráról ismert, amelyek a négy égtáj felé néznek.",
@@ -1220,7 +1220,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-sri-ksetra-museum-history-v2",
     type: "museum",
     name: { de: "Sri Ksetra Museum", hu: "Sri Ksetra Múzeum", ro: "Muzeul Sri Ksetra", en: "Sri Ksetra Museum" },
-    coordinates: { lat: 18.8115, lng: 95.2912 },
+    coords: [95.2912, 18.8115],
     description: {
       de: "Dieses Museum beherbergt bedeutende Funde aus der antiken Pyu-Stadt Sri Ksetra, darunter Schmuck, Münzen und Skulpturen.",
       hu: "Ez a múzeum a pü Sri Ksetra városából származó jelentős leleteket, köztük ékszereket, érméket és szobrokat őriz.",
@@ -1239,7 +1239,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-manuha-history-v2",
     type: "ruins",
     name: { de: "Manuha-Tempel", hu: "Manuha-templom", ro: "Templul Manuha", en: "Manuha Temple" },
-    coordinates: { lat: 21.1552, lng: 94.8528 },
+    coords: [94.8528, 21.1552],
     description: {
       de: "Der Manuha-Tempel wurde vom gefangenen Mon-König Manuha in Bagan erbaut. Er drückt die Enge und Not seiner Gefangenschaft aus.",
       hu: "A Manuha-templomot a fogságba esett Mon király, Manuha építtette Baganban. A fogságának szűkösségét és nyomorúságát fejezi ki.",
@@ -1258,7 +1258,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-nanpaya-history-v2",
     type: "ruins",
     name: { de: "Nanpaya-Tempel", hu: "Nanpaya-templom", ro: "Templul Nanpaya", en: "Nanpaya Temple" },
-    coordinates: { lat: 21.1548, lng: 94.8525 },
+    coords: [94.8525, 21.1548],
     description: {
       de: "Nanpaya ist einer der wenigen Tempel in Bagan, die teilweise aus Sandstein bestehen. Er diente vermutlich als Residenz oder Kultstätte für König Manuha.",
       hu: "Nanpaya egyike azon kevés bagani templomoknak, amelyek részben homokkőből épültek. Valószínűleg Manuha király rezidenciája vagy imahelye volt.",
@@ -1277,7 +1277,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-abeyadana-history-v2",
     type: "ruins",
     name: { de: "Abeyadana-Tempel", hu: "Abeyadana-templom", ro: "Templul Abeyadana", en: "Abeyadana Temple" },
-    coordinates: { lat: 21.1488, lng: 94.8542 },
+    coords: [94.8542, 21.1488],
     description: {
       de: "Der Abeyadana-Tempel wurde von der gleichnamigen Königin im 11. Jahrhundert erbaut. Er ist berühmt für seine Mahayana-buddhistischen Wandmalereien.",
       hu: "Az Abeyadana-templomot az azonos nevű királynő építtette a 11. században. Híres mahájána buddhista falfestményeiről.",
@@ -1296,7 +1296,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-nagayon-history-v2",
     type: "ruins",
     name: { de: "Nagayon-Tempel", hu: "Nagayon-templom", ro: "Templul Nagayon", en: "Nagayon Temple" },
-    coordinates: { lat: 21.1412, lng: 94.8568 },
+    coords: [94.8568, 21.1412],
     description: {
       de: "Nagayon ist ein eleganter Tempel in Bagan, dessen Name 'Von einer Schlange bewacht' bedeutet. Er diente als Vorbild für den berühmten Ananda-Tempel.",
       hu: "A Nagayon egy elegáns templom Baganban, amelynek neve jelentése: 'Kígyó által őrzött'. A híres Ananda-templom mintájául szolgált.",
@@ -1315,7 +1315,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-myazedi-history-v2",
     type: "monument",
     name: { de: "Myazedi-Inschriftenstätte", hu: "Myazedi-felirat", ro: "Situl inscripției Myazedi", en: "Myazedi Inscription Site" },
-    coordinates: { lat: 21.1555, lng: 94.8512 },
+    coords: [94.8512, 21.1555],
     description: {
       de: "An der Myazedi-Pagode wurde eine Stele mit Inschriften in vier Sprachen gefunden. Sie gilt als der 'Stein von Rosette' Myanmars.",
       hu: "A Myazedi-pagodánál találtak egy négynelvű feliratos sztélét. Mianmar 'Rosette-i kövének' tekintik.",
@@ -1334,7 +1334,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-upali-thein-history-v2",
     type: "landmark",
     name: { de: "Upali Thein", hu: "Upali Thein", ro: "Upali Thein", en: "Upali Thein" },
-    coordinates: { lat: 21.1812, lng: 94.8715 },
+    coords: [94.8715, 21.1812],
     description: {
       de: "Upali Thein ist eine der bekanntesten Ordinationshallen in Bagan. Sie ist berühmt für ihre farbenfrohen Wandmalereien aus der Konbaung-Ära.",
       hu: "Upali Thein Bagan egyik legismertebb felszentelési csarnoka. Híres a Konbaung-korszakból származó színes falfestményeiről.",
@@ -1353,7 +1353,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-pitakat-taik-history-v2",
     type: "landmark",
     name: { de: "Pitakat Taik", hu: "Pitakat Taik", ro: "Pitakat Taik", en: "Pitakat Taik" },
-    coordinates: { lat: 21.1712, lng: 94.8615 },
+    coords: [94.8615, 21.1712],
     description: {
       de: "Pitakat Taik war die königliche Bibliothek von Bagan. Hier wurden die heiligen Schriften aufbewahrt, die König Anawrahta aus Thaton mitbrachte.",
       hu: "Pitakat Taik Bagan királyi könyvtára volt. Itt őrizték azokat a szent iratokat, amelyeket Anawrahta király hozott Thatonból.",
@@ -1372,7 +1372,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-shaitthaung-history-v2",
     type: "monument",
     name: { de: "Shaitthaung-Tempel", hu: "Shaitthaung-templom", ro: "Templul Shaitthaung", en: "Shaitthaung Temple" },
-    coordinates: { lat: 20.6014, lng: 93.1952 },
+    coords: [93.1952, 20.6014],
     description: {
       de: "Der Shaitthaung-Tempel ist das bedeutendste Bauwerk in Mrauk U. Er ist bekannt als 'Tempel der 80.000 Buddhas'.",
       hu: "A Shaitthaung-templom Mrauk U legjelentősebb építménye. '80 000 Buddha templomaként' is ismerik.",
@@ -1391,7 +1391,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-koethaung-history-v2",
     type: "ruins",
     name: { de: "Koe-thaung-Tempel", hu: "Koe-thaung-templom", ro: "Templul Koe-thaung", en: "Koe-thaung Temple" },
-    coordinates: { lat: 20.6052, lng: 93.2014 },
+    coords: [93.2014, 20.6052],
     description: {
       de: "Der Koe-thaung-Tempel ist das größte religiöse Gebäude in Mrauk U. Sein Name bedeutet 'Tempel der 90.000 Buddhas'.",
       hu: "A Koe-thaung-templom Mrauk U legnagyobb vallási épülete. Neve jelentése: '90 000 Buddha temploma'.",
@@ -1410,7 +1410,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-andawthein-history-v2",
     type: "monument",
     name: { de: "Andaw-thein-Tempel", hu: "Andaw-thein-templom", ro: "Templul Andaw-thein", en: "Andaw-thein Temple" },
-    coordinates: { lat: 20.6012, lng: 93.1955 },
+    coords: [93.1955, 20.6012],
     description: {
       de: "Andaw-thein ist ein achteckiger Tempel in Mrauk U, der eine Zahnreliquie des Buddha beherbergen soll.",
       hu: "Az Andaw-thein egy nyolcszögletű templom Mrauk U-ban, amely a hagyomány szerint Buddha egy fogereklyéjét őrzi.",
@@ -1429,7 +1429,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-hsinbyushin-fort-history-v2",
     type: "ruins",
     name: { de: "Hsinbyushin-Festung", hu: "Hsinbyushin-erőd", ro: "Cetatea Hsinbyushin", en: "Hsinbyushin Fort" },
-    coordinates: { lat: 21.8652, lng: 95.9828 },
+    coords: [95.9828, 21.8652],
     description: {
       de: "Die Hsinbyushin-Festung in Inwa war ein wichtiger Verteidigungsposten der birmanischen Hauptstadt gegen Invasoren.",
       hu: "A Hsinbyushin-erőd Inwában a burmai főváros fontos védelmi állomása volt a megszállók ellen.",
@@ -1448,7 +1448,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-nanmyin-watchtower-history-v2",
     type: "tower",
     name: { de: "Nanmyin-Wachturm", hu: "Nanmyin-őrtorony", ro: "Turnul de veghe Nanmyin", en: "Nanmyin Watchtower" },
-    coordinates: { lat: 21.8548, lng: 95.9812 },
+    coords: [95.9812, 21.8548],
     description: {
       de: "Der Nanmyin-Wachturm ist das einzige erhaltene Element des ehemaligen königlichen Palastes von Ava (Inwa). Er ist wegen seiner Neigung als 'Schiefer Turm von Inwa' bekannt.",
       hu: "A Nanmyin-őrtorony az egykori Ava (Inwa) királyi palotájának egyetlen fennmaradt eleme. Dőlése miatt 'Inwa ferde tornyaként' ismerik.",
@@ -1467,7 +1467,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-ava-bridge-history-v2",
     type: "bridge",
     name: { de: "Alte Ava-Brücke", hu: "Régi Ava-híd", ro: "Vechiul pod Ava", en: "Old Ava Bridge" },
-    coordinates: { lat: 21.9015, lng: 95.9888 },
+    coords: [95.9888, 21.9015],
     description: {
       de: "Die alte Ava-Brücke (Sagaing-Brücke) war die erste Brücke über den Irrawaddy. Sie wurde von den Briten in der Kolonialzeit erbaut.",
       hu: "A régi Ava-híd (Szagaing-híd) volt az első híd az Irrawaddy felett. A britek építették a gyarmati időszakban.",
@@ -1486,7 +1486,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-aung-san-residence-history-v2",
     type: "museum",
     name: { de: "Wohnhaus von General Aung San", hu: "Aung Szan tábornok lakóháza", ro: "Reședința Generalului Aung San", en: "General Aung San Residence" },
-    coordinates: { lat: 16.8014, lng: 96.1552 },
+    coords: [96.1552, 16.8014],
     description: {
       de: "Dieses koloniale Wohnhaus war die letzte Residenz von Myanmars Nationalhelden Aung San vor seiner Ermordung. Es dient heute als Museum.",
       hu: "Ez a gyarmati stílusú lakóház volt Aung Szan, Mianmar nemzeti hőse utolsó lakhelye a meggyilkolása előtt. Ma múzeumként működik.",
@@ -1505,7 +1505,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-strand-hotel-history-v2",
     type: "landmark",
     name: { de: "The Strand Hotel", hu: "Strand Hotel", ro: "Hotelul Strand", en: "The Strand Hotel" },
-    coordinates: { lat: 16.7714, lng: 96.1612 },
+    coords: [96.1612, 16.7714],
     description: {
       de: "The Strand ist eines der bekanntesten Luxushotels aus der Kolonialzeit in Südostasien. Es wurde im Jahr 1901 von den Sarkies-Brüdern eröffnet.",
       hu: "A Strand Délkelet-Ázsia egyik legismertebb gyarmati korszakbeli luxusszállodája. 1901-ben nyitották meg a Sarkies fivérek.",
@@ -1524,7 +1524,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-yangon-railway-history-v2",
     type: "monument",
     name: { de: "Hauptbahnhof von Yangon", hu: "Yangoni központi pályaudvar", ro: "Gara Centrală din Yangon", en: "Yangon Central Railway Station" },
-    coordinates: { lat: 16.7814, lng: 96.1615 },
+    coords: [96.1615, 16.7814],
     description: {
       de: "Der Hauptbahnhof von Yangon ist ein markantes Bauwerk, das traditionelle birmanische Architektur mit modernen Elementen verbindet.",
       hu: "A yangoni központi pályaudvar egy jellegzetes épület, amely a hagyományos burmai építészetet ötvözi modern elemekkel.",
@@ -1543,7 +1543,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-pegu-club-history-v2",
     type: "monument",
     name: { de: "Pegu Club", hu: "Pegu Club", ro: "Clubul Pegu", en: "Pegu Club" },
-    coordinates: { lat: 16.7912, lng: 96.1415 },
+    coords: [96.1415, 16.7912],
     description: {
       de: "Der Pegu Club war der exklusivste Gentlemen's Club in Yangon während der britischen Kolonialherrschaft. Er ist berühmt für den gleichnamigen Cocktail.",
       hu: "A Pegu Club volt a legexkluzívabb úri klub Yangonban a brit gyarmati uralom idején. Híres az azonos nevű koktélról.",
@@ -1562,7 +1562,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-bahadur-shah-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Bahadur Shah Zafar", hu: "Bahadur Shah Zafar sírja", ro: "Mormântul lui Bahadur Shah Zafar", en: "Tomb of Bahadur Shah Zafar" },
-    coordinates: { lat: 16.7852, lng: 96.1714 },
+    coords: [96.1714, 16.7852],
     description: {
       de: "Dies ist die letzte Ruhestätte des letzten Mogulkaisers von Indien, Bahadur Shah Zafar, der von den Briten nach Yangon verbannt wurde.",
       hu: "Ez az utolsó nyughelye India utolsó mogul császárának, Bahadur Shah Zafarnak, akit a britek Yangonba száműztek.",
@@ -1581,7 +1581,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-thanlyin-church-history-v2",
     type: "ruins",
     name: { de: "Kirchenruinen von Thanlyin", hu: "Thanlyin templomromok", ro: "Ruinele bisericii din Thanlyin", en: "Thanlyin Church Ruins" },
-    coordinates: { lat: 16.7615, lng: 96.2612 },
+    coords: [96.2612, 16.7615],
     description: {
       de: "Die Ruinen der katholischen Kirche in Thanlyin stammen aus dem 18. Jahrhundert und sind ein Zeugnis früher christlicher Missionierung in Birma.",
       hu: "A thanlyini katolikus templom romjai a 18. századból származnak, és a burmai keresztény hittérítés korai tanúi.",
@@ -1600,7 +1600,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-bupaya-history-v2",
     type: "monument",
     name: { de: "Bupaya-Pagode", hu: "Bupaya-pagoda", ro: "Pagoda Bupaya", en: "Bupaya Pagoda" },
-    coordinates: { lat: 21.1785, lng: 94.8512 },
+    coords: [94.8512, 21.1785],
     description: {
       de: "Die Bupaya-Pagode am Ufer des Irrawaddy ist eine der ältesten Stupas in Bagan. Ihr Name bedeutet 'Kürbis-Pagode' aufgrund ihrer runden Form.",
       hu: "Az Irrawaddy partján álló Bupaya-pagoda Bagan egyik legrégebbi sztúpája. Neve kerek formája miatt 'Tök-pagodát' jelent.",
@@ -1619,7 +1619,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-seinnyet-nyima-history-v2",
     type: "ruins",
     name: { de: "Seinnyet Nyima Pagode", hu: "Seinnyet Nyima pagoda", ro: "Pagoda Seinnyet Nyima", en: "Seinnyet Nyima Pagoda" },
-    coordinates: { lat: 21.1415, lng: 94.8588 },
+    coords: [94.8588, 21.1415],
     description: {
       de: "Seinnyet Nyima ist eine elegante Stupa im südlichen Teil von Bagan. Sie stammt aus dem 11. Jahrhundert und zeigt Merkmale des frühen birmanischen Baustils.",
       hu: "A Seinnyet Nyima egy elegáns sztúpa Bagan déli részén. A 11. századból származik, és a korai burmai építészeti stílus jegyeit mutatja.",
@@ -1638,7 +1638,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-lawkananda-history-v2",
     type: "monument",
     name: { de: "Lawkananda-Pagode", hu: "Lawkananda-pagoda", ro: "Pagoda Lawkananda", en: "Lawkananda Pagoda" },
-    coordinates: { lat: 21.1312, lng: 94.8514 },
+    coords: [94.8514, 21.1312],
     description: {
       de: "Die Lawkananda-Pagode wurde von König Anawrahta am Ufer des Irrawaddy errichtet. Sie diente als Seezeichen für Schiffe aus Indien und Sri Lanka.",
       hu: "A Lawkananda-pagodát Anawrahta király emeltette az Irrawaddy partján. Tengeri jelzőpontként szolgált az India és Srí Lanka felől érkező hajóknak.",
@@ -1657,7 +1657,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-alodawpyi-history-v2",
     type: "ruins",
     name: { de: "Alodawpyi-Pagode", hu: "Alodawpyi-pagoda", ro: "Pagoda Alodawpyi", en: "Alodawpyi Pagoda" },
-    coordinates: { lat: 21.1715, lng: 94.8712 },
+    coords: [94.8712, 21.1715],
     description: {
       de: "Alodawpyi ist ein bedeutender Tempel in Bagan, dessen Name 'Wunscherfüllung' bedeutet. Er ist ein wichtiges Ziel für Pilger.",
       hu: "Az Alodawpyi egy jelentős templom Baganban, amelynek neve 'kívánságteljesítőt' jelent. Fontos zarándokhely.",
@@ -1676,7 +1676,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-dhamma-yazika-history-v2",
     type: "monument",
     name: { de: "Dhamma Yazika Pagode", hu: "Dhamma Yazika pagoda", ro: "Pagoda Dhamma Yazika", en: "Dhamma Yazika Pagoda" },
-    coordinates: { lat: 21.1448, lng: 94.8815 },
+    coords: [94.8815, 21.1448],
     description: {
       de: "Dhamma Yazika ist eine kreisförmige Pagode in Bagan mit fünf kleinen Tempeln um die Basis. Sie bietet einen weiten Ausblick auf die Ebene.",
       hu: "A Dhamma Yazika egy kör alakú pagoda Baganban, az alapja körül öt kis templommal. Széles kilátást nyújt a síkságra.",
@@ -1695,7 +1695,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-mingun-mya-theindan-history-v2",
     type: "monument",
     name: { de: "Mya Theindan Pagode", hu: "Mya Theindan pagoda", ro: "Pagoda Mya Theindan", en: "Mya Theindan Pagoda" },
-    coordinates: { lat: 22.0522, lng: 95.9188 },
+    coords: [95.9188, 22.0522],
     description: {
       de: "Die Mya Theindan Pagode (auch Hsinbyume) in Mingun ist für ihre sieben wellenförmigen weißen Terrassen bekannt, die den Berg Meru darstellen.",
       hu: "A Mingun-ban található Mya Theindan pagoda (más néven Hsinbyume) hét hullámos fehér teraszáról ismert, amelyek a Meru-hegyet jelképezik.",
@@ -1714,7 +1714,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-nanmadaw-me-nu-fort-history-v2",
     type: "ruins",
     name: { de: "Me Nu Palastfestung", hu: "Me Nu palotaerőd", ro: "Cetatea Palatului Me Nu", en: "Me Nu Palace Fort" },
-    coordinates: { lat: 21.8625, lng: 95.9814 },
+    coords: [95.9814, 21.8625],
     description: {
       de: "Die Überreste der Palastfestung von Königin Me Nu in Inwa zeigen die Macht und den Einfluss dieser Herrscherin im frühen 19. Jahrhundert.",
       hu: "Me Nu királynő inwai palotaerődjének maradványai az uralkodónő 19. század eleji hatalmát és befolyását tükrözik.",
@@ -1733,7 +1733,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-yadanabon-palace-moat-history-v2",
     type: "monument",
     name: { de: "Mandalay-Palastgraben", hu: "Mandalay palotaárok", ro: "Șanțul palatului din Mandalay", en: "Mandalay Palace Moat" },
-    coordinates: { lat: 21.9928, lng: 96.0915 },
+    coords: [96.0915, 21.9928],
     description: {
       de: "Der gewaltige Wassergraben umgibt den Mandalay-Palast. Er ist ein Symbol für die königliche Pracht der letzten birmanischen Dynastie.",
       hu: "A hatalmas vizesárok veszi körül a Mandalay-palotát. Az utolsó burmai dinasztia királyi pompájának szimbóluma.",
@@ -1752,7 +1752,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-atumashi-monastery-history-v2",
     type: "landmark",
     name: { de: "Atumashi-Kloster", hu: "Atumashi-kolostor", ro: "Mănăstirea Atumashi", en: "Atumashi Monastery" },
-    coordinates: { lat: 21.9915, lng: 96.1152 },
+    coords: [96.1152, 21.9915],
     description: {
       de: "Das Atumashi-Kloster in Mandalay war einst eines der prächtigsten Klöster Asiens. Es wurde nach einem Brand originalgetreu rekonstruiert.",
       hu: "A mandalay-i Atumashi-kolostor egykor Ázsia egyik legpompásabb kolostora volt. Egy tűzvész után az eredetivel megegyezően építették újjá.",
@@ -1771,7 +1771,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-sandamuni-pagoda-history-v2",
     type: "monument",
     name: { de: "Sandamuni-Pagode", hu: "Sandamuni-pagoda", ro: "Pagoda Sandamuni", en: "Sandamuni Pagoda" },
-    coordinates: { lat: 21.9952, lng: 96.1114 },
+    coords: [96.1114, 21.9952],
     description: {
       de: "Die Sandamuni-Pagode in Mandalay ist bekannt für ihre hunderten weißen Stupas, die Steintafeln mit Kommentaren zum Tipitaka beherbergen.",
       hu: "A mandalay-i Sandamuni-pagoda több száz fehér sztúpájáról híres, amelyek a Tipitaka magyarázatait tartalmazó kőtáblákat őrzik.",
@@ -1790,7 +1790,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-kyauktawgyi-pagoda-history-v2",
     type: "monument",
     name: { de: "Kyauktawgyi-Pagode", hu: "Kyauktawgyi-pagoda", ro: "Pagoda Kyauktawgyi", en: "Kyauktawgyi Pagoda" },
-    coordinates: { lat: 21.9988, lng: 96.1088 },
+    coords: [96.1088, 21.9988],
     description: {
       de: "Die Kyauktawgyi-Pagode beherbergt eine riesige Buddha-Statue, die aus einem einzigen Marmorblock gehauen wurde.",
       hu: "A Kyauktawgyi-pagoda egy hatalmas Buddha-szobrot őriz, amelyet egyetlen márványtömbből faragtak ki.",
@@ -1809,7 +1809,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-mandalay-hill-pagodas-history-v2",
     type: "monument",
     name: { de: "Mandalay-Hügel Pagoden", hu: "Mandalay-hegyi pagodák", ro: "Pagodele de pe dealul Mandalay", en: "Mandalay Hill Pagodas" },
-    coordinates: { lat: 22.0152, lng: 96.1085 },
+    coords: [96.1085, 22.0152],
     description: {
       de: "Der Mandalay-Hügel ist übersät mit historischen Pagoden und Klöstern. Er ist seit Jahrhunderten ein wichtiges religiöses Zentrum.",
       hu: "A Mandalay-hegyet történelmi pagodák és kolostorok tarkítják. Évszázadok óta fontos vallási központ.",
@@ -1828,7 +1828,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-yadanabon-zoo-history-v2",
     type: "park",
     name: { de: "Königliche Gärten von Mandalay", hu: "Mandalay királyi kertek", ro: "Grădinile Regale din Mandalay", en: "Mandalay Royal Gardens" },
-    coordinates: { lat: 21.9955, lng: 96.1012 },
+    coords: [96.1012, 21.9955],
     description: {
       de: "Die königlichen Gärten waren einst der private Erholungsort der birmanischen Monarchen innerhalb der Palastmauern.",
       hu: "A királyi kertek egykor a burmai uralkodók magán pihenőhelyei voltak a palota falain belül.",
@@ -1847,7 +1847,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-shwemawdaw-ruins-history-v2",
     type: "ruins",
     name: { de: "Alte Mauern von Bago", hu: "Bago régi városfalai", ro: "Zidurile vechi din Bago", en: "Bago Old City Walls" },
-    coordinates: { lat: 17.3352, lng: 96.4888 },
+    coords: [96.4888, 17.3352],
     description: {
       de: "Die Überreste der alten Stadtmauern von Bago (Pegu) zeugen von der Bedeutung der Stadt als Hauptstadt des Hanthawaddy-Reiches.",
       hu: "Bago (Pegu) régi városfalainak maradványai tanúskodnak a város jelentőségéről, mint a Hanthawaddy Birodalom fővárosa.",
@@ -1866,7 +1866,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-bila-river-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld am Bilin-Fluss", hu: "Bilin-folyó csatatér", ro: "Câmpul de luptă de la râul Bilin", en: "Bilin River Battlefield" },
-    coordinates: { lat: 17.2114, lng: 97.2312 },
+    coords: [97.2312, 17.2114],
     description: {
       de: "Der Bilin-Fluss war der Schauplatz einer entscheidenden Schlacht während der japanischen Invasion in Birma im Jahr 1942.",
       hu: "A Bilin-folyó egy döntő ütközet helyszíne volt a burmai japán invázió idején 1942-ben.",
@@ -1885,7 +1885,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-sittang-bridge-history-v2",
     type: "battlefield",
     name: { de: "Sittang-Brücke (Schauplatz)", hu: "Sittang-híd emlékhely", ro: "Podul Sittang (sit istoric)", en: "Sittang Bridge (Historical Site)" },
-    coordinates: { lat: 17.4414, lng: 96.8852 },
+    coords: [96.8852, 17.4414],
     description: {
       de: "Die Zerstörung der Sittang-Brücke im Jahr 1942 war ein dramatisches Ereignis des Rückzugs der britischen Armee vor den Japanern.",
       hu: "A Sittang-híd 1942-es elpusztítása a brit hadsereg japánok elől való visszavonulásának drámai eseménye volt.",
@@ -1904,7 +1904,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-moulmein-colonial-quarter-history-v2",
     type: "landmark",
     name: { de: "Kolonialviertel von Moulmein", hu: "Moulmein gyarmati negyede", ro: "Cartierul colonial din Moulmein", en: "Moulmein Colonial Quarter" },
-    coordinates: { lat: 16.4912, lng: 97.6252 },
+    coords: [97.6252, 16.4912],
     description: {
       de: "Moulmein (Mawlamyine) war die erste Hauptstadt von Britisch-Birma. Das Viertel beherbergt zahlreiche verfallende Kolonialbauten.",
       hu: "Moulmein (Mawlamyine) volt Brit-Burma első fővárosa. A negyed számos pusztuló gyarmati épületnek ad otthont.",
@@ -1923,7 +1923,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-thayet-war-cemetery-history-v2",
     type: "monument",
     name: { de: "Kriegsfriedhof Thayet", hu: "Thayet katonai temető", ro: "Cimitirul de război din Thayet", en: "Thayet War Cemetery" },
-    coordinates: { lat: 19.3312, lng: 95.1814 },
+    coords: [95.1814, 19.3312],
     description: {
       de: "Der Kriegsfriedhof in Thayet beherbergt Gräber osmanischer Kriegsgefangener aus dem Ersten Weltkrieg.",
       hu: "A thayet-i katonai temető az első világháború oszmán hadifoglyainak sírjait őrzi.",
@@ -1942,7 +1942,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-meiktila-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Meiktila", hu: "Meiktila csatatér", ro: "Câmpul de luptă de la Meiktila", en: "Meiktila Battlefield" },
-    coordinates: { lat: 20.8814, lng: 95.8552 },
+    coords: [95.8552, 20.8814],
     description: {
       de: "Die Schlacht von Meiktila im Jahr 1945 war ein entscheidender alliierter Sieg, der den Weg zur Rückeroberung von Rangun ebnete.",
       hu: "A meiktilai csata 1945-ben döntő szövetséges győzelem volt, amely megnyitotta az utat Rangun visszafoglalása előtt.",
@@ -1961,7 +1961,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-ramree-island-history-v2",
     type: "battlefield",
     name: { de: "Ramree-Insel (Schauplatz)", hu: "Ramree-sziget csatatér", ro: "Insula Ramree (sit istoric)", en: "Ramree Island (Historical Site)" },
-    coordinates: { lat: 19.1114, lng: 93.8415 },
+    coords: [93.8415, 19.1114],
     description: {
       de: "Die Insel Ramree war Schauplatz einer blutigen Schlacht im Zweiten Weltkrieg, bekannt für die tragischen Verluste in den Mangrovensümpfen.",
       hu: "Ramree-sziget a második világháború véres csatájának helyszíne volt, amely a mangrove-mocsarakban elszenvedett tragikus veszteségekről ismert.",
@@ -1980,7 +1980,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-prome-clock-tower-history-v2",
     type: "tower",
     name: { de: "Uhrturm von Pyay", hu: "Pyay óratorony", ro: "Turnul cu ceas din Pyay", en: "Pyay Clock Tower" },
-    coordinates: { lat: 18.8235, lng: 95.2212 },
+    coords: [95.2212, 18.8235],
     description: {
       de: "Der Uhrturm im Zentrum von Pyay (Prome) ist ein Wahrzeichen aus der britischen Zeit und ein zentraler Treffpunkt der Stadt.",
       hu: "Pyay (Prome) központjában álló óratorony a brit korszak egyik jelképe és a város központi találkozóhelye.",
@@ -1999,7 +1999,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
     id: "myanmar-yandabo-village-history-v2",
     type: "village",
     name: { de: "Dorf Yandabo", hu: "Jandabo falu", ro: "Satul Yandabo", en: "Yandabo Village" },
-    coordinates: { lat: 21.6414, lng: 95.2115 },
+    coords: [95.2115, 21.6414],
     description: {
       de: "Yandabo ist historisch bedeutsam als Ort der Unterzeichnung des Friedensvertrages nach dem Ersten Britisch-Birmanischen Krieg.",
       hu: "Jandabo történelmi jelentőségét az adja, hogy itt írták alá az első angol–burmai háborút lezáró békeszerződést.",

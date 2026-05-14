@@ -1087,7 +1087,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-jurong-west-cities-v2",
     type: "town",
     name: { de: "Jurong West", hu: "Jurong West", ro: "Jurong West", en: "Jurong West" },
-    coordinates: { lat: 1.3404, lng: 103.709 },
+    coords: [103.709, 1.3404],
     description: {
       de: "Jurong West ist das größte Wohnviertel im Westen von Singapur. Es beherbergt die Nanyang Technological University und zahlreiche Industrieparks.",
       hu: "Jurong West Szingapúr nyugati részének legnagyobb lakónegyede. Itt található a Nanyang Technológiai Egyetem és számos ipari park.",
@@ -1106,7 +1106,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-bukit-panjang-cities-v2",
     type: "town",
     name: { de: "Bukit Panjang", hu: "Bukit Panjang", ro: "Bukit Panjang", en: "Bukit Panjang" },
-    coordinates: { lat: 1.3774, lng: 103.7719 },
+    coords: [103.7719, 1.3774],
     description: {
       de: "Dieses Wohnviertel im Nordwesten ist für seine hügelige Landschaft bekannt. Es bietet eine Mischung aus moderner Architektur und üppigem Grün.",
       hu: "Ez az északnyugati lakónegyed dombos tájáról ismert. A modern építészet és a dús zöld területek keverékét kínálja.",
@@ -1125,7 +1125,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-novena-cities-v2",
     type: "town",
     name: { de: "Novena", hu: "Novena", ro: "Novena", en: "Novena" },
-    coordinates: { lat: 1.3205, lng: 103.8438 },
+    coords: [103.8438, 1.3205],
     description: {
       de: "Novena ist ein zentrales Viertel, das für seine medizinischen Einrichtungen und Einkaufszentren bekannt ist. Es dient als wichtiger Verkehrsknotenpunkt.",
       hu: "Novena egy központi negyed, amely orvosi létesítményeiről és bevásárlóközpontjairól ismert. Fontos közlekedési csomópontként szolgál.",
@@ -1144,7 +1144,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-tanglin-cities-v2",
     type: "town",
     name: { de: "Tanglin", hu: "Tanglin", ro: "Tanglin", en: "Tanglin" },
-    coordinates: { lat: 1.306, lng: 103.8117 },
+    coords: [103.8117, 1.306],
     description: {
       de: "Tanglin ist eine exklusive Gegend mit vielen Botschaften und historischen Bungalows. Es grenzt direkt an den Botanischen Garten von Singapur.",
       hu: "Tanglin egy exkluzív környék számos nagykövetséggel és történelmi bungalóval. Közvetlenül határos a Szingapúri Botanikus Kerttel.",
@@ -1163,7 +1163,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-rochor-cities-v2",
     type: "town",
     name: { de: "Rochor", hu: "Rochor", ro: "Rochor", en: "Rochor" },
-    coordinates: { lat: 1.3033, lng: 103.8524 },
+    coords: [103.8524, 1.3033],
     description: {
       de: "Rochor ist ein lebendiges Kultur- und Geschäftsviertel im Stadtzentrum. Es umfasst Gebiete wie Little India und Bugis.",
       hu: "Rochor egy élénk kulturális és üzleti negyed a városközpontban. Olyan területeket foglal magában, mint Little India és Bugis.",
@@ -1182,7 +1182,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-outram-cities-v2",
     type: "town",
     name: { de: "Outram", hu: "Outram", ro: "Outram", en: "Outram" },
-    coordinates: { lat: 1.282, lng: 103.839 },
+    coords: [103.839, 1.282],
     description: {
       de: "Outram ist ein historisches Viertel am Rande des Geschäftszentrums. Es ist bekannt für seine Kolonialbauten und medizinischen Institute.",
       hu: "Outram egy történelmi negyed az üzleti központ szélén. Gyarmati épületeiről és orvosi intézeteiről ismert.",
@@ -1201,7 +1201,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-mandai-cities-v2",
     type: "town",
     name: { de: "Mandai", hu: "Mandai", ro: "Mandai", en: "Mandai" },
-    coordinates: { lat: 1.42, lng: 103.83 },
+    coords: [103.83, 1.42],
     description: {
       de: "Mandai ist eine grüne Region im Norden, die für ihre Wildtierattraktionen bekannt ist. Es dient als Singapurs Tor zur Natur.",
       hu: "Mandai egy északi zöld régió, amely vadvilági látványosságairól ismert. Szingapúr természetre nyíló kapujaként szolgál.",
@@ -1220,7 +1220,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-sungei-kadut-cities-v2",
     type: "industry",
     name: { de: "Sungei Kadut", hu: "Sungei Kadut", ro: "Sungei Kadut", en: "Sungei Kadut" },
-    coordinates: { lat: 1.41, lng: 103.75 },
+    coords: [103.75, 1.41],
     description: {
       de: "Dieses Industriegebiet im Norden ist das Zentrum der Holz- und Möbelindustrie. Es wird derzeit zu einem modernen Öko-Distrikt umgebaut.",
       hu: "Ez az északi ipari terület a fa- és bútoripar központja. Jelenleg modern öko-negyeddé alakítják át.",
@@ -1239,7 +1239,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-lim-chu-kang-cities-v2",
     type: "village",
     name: { de: "Lim Chu Kang", hu: "Lim Chu Kang", ro: "Lim Chu Kang", en: "Lim Chu Kang" },
-    coordinates: { lat: 1.43, lng: 103.7 },
+    coords: [103.7, 1.43],
     description: {
       de: "Lim Chu Kang ist eine ländliche Region im Nordwesten, die für ihre Bauernhöfe und Naturschutzgebiete bekannt ist. Es bewahrt das ländliche Erbe Singapurs.",
       hu: "Lim Chu Kang egy északnyugati vidéki régió, amely farmjairól és természetvédelmi területeiről ismert. Megőrzi Szingapúr vidéki örökségét.",
@@ -1258,7 +1258,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-simei-cities-v2",
     type: "town",
     name: { de: "Simei", hu: "Simei", ro: "Simei", en: "Simei" },
-    coordinates: { lat: 1.3431, lng: 103.9533 },
+    coords: [103.9533, 1.3431],
     description: {
       de: "Simei ist ein ruhiges Wohnviertel im Osten von Singapur. Es ist nach den vier legendären Schönheiten der chinesischen Mythologie benannt.",
       hu: "Simei egy csendes lakónegyed Szingapúr keleti részén. A kínai mitológia négy legendás szépségéről kapta a nevét.",
@@ -1277,7 +1277,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-kovan-cities-v2",
     type: "town",
     name: { de: "Kovan", hu: "Kovan", ro: "Kovan", en: "Kovan" },
-    coordinates: { lat: 1.3615, lng: 103.886 },
+    coords: [103.886, 1.3615],
     description: {
       de: "Kovan ist ein charmantes Viertel im Nordosten, das für seine niedrigen Wohngebäude und seine kulinarische Vielfalt bekannt ist.",
       hu: "Kovan egy bájos északkeleti negyed, amely alacsony lakóépületeiről és gasztronómiai sokszínűségéről ismert.",
@@ -1296,7 +1296,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-buangkok-cities-v2",
     type: "town",
     name: { de: "Buangkok", hu: "Buangkok", ro: "Buangkok", en: "Buangkok" },
-    coordinates: { lat: 1.3831, lng: 103.892 },
+    coords: [103.892, 1.3831],
     description: {
       de: "Buangkok ist ein modernes Wohngebiet im Nordosten. Es beherbergt das letzte traditionelle 'Kampung'-Dorf auf dem Festland von Singapur.",
       hu: "Buangkok egy modern lakóövezet északkeleten. Itt található az utolsó hagyományos 'Kampung' falu Szingapúr szárazföldi részén.",
@@ -1315,7 +1315,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-holland-village-cities-v2",
     type: "town",
     name: { de: "Holland Village", hu: "Holland Village", ro: "Holland Village", en: "Holland Village" },
-    coordinates: { lat: 1.3113, lng: 103.7963 },
+    coords: [103.7963, 1.3113],
     description: {
       de: "Holland Village ist ein beliebtes Expatriate-Viertel mit einer lebhaften Café-Kultur. Es bietet einen einzigartigen europäischen Charme mitten in Asien.",
       hu: "Holland Village egy népszerű expat negyed élénk kávéházi kultúrával. Egyedülálló európai bájt kínál Ázsia közepén.",
@@ -1334,7 +1334,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-katong-cities-v2",
     type: "town",
     name: { de: "Katong", hu: "Katong", ro: "Katong", en: "Katong" },
-    coordinates: { lat: 1.305, lng: 103.905 },
+    coords: [103.905, 1.305],
     description: {
       de: "Katong ist ein reiches Kulturerbe-Viertel, das für seine Peranakan-Kultur bekannt ist. Die bunten Ladenhäuser sind ein Wahrzeichen der Gegend.",
       hu: "Katong egy gazdag kulturális örökséggel rendelkező negyed, amely a peranakan kultúráról ismert. A színes üzletházak a környék jelképei.",
@@ -1353,7 +1353,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-siglap-cities-v2",
     type: "town",
     name: { de: "Siglap", hu: "Siglap", ro: "Siglap", en: "Siglap" },
-    coordinates: { lat: 1.313, lng: 103.924 },
+    coords: [103.924, 1.313],
     description: {
       de: "Siglap ist eine exklusive Wohngegend im Osten mit einer entspannten Atmosphäre. Es bietet zahlreiche Cafés und eine Nähe zur Küste.",
       hu: "Siglap egy exkluzív lakóövezet keleten, nyugodt légkörrel. Számos kávéházat és a tengerpart közelségét kínálja.",
@@ -1372,7 +1372,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-mountbatten-cities-v2",
     type: "town",
     name: { de: "Mountbatten", hu: "Mountbatten", ro: "Mountbatten", en: "Mountbatten" },
-    coordinates: { lat: 1.3062, lng: 103.8825 },
+    coords: [103.8825, 1.3062],
     description: {
       de: "Mountbatten ist ein geschichtsträchtiges Viertel, das für seine Architektur aus der Kolonialzeit bekannt ist. Es liegt strategisch günstig zwischen Stadt und Flughafen.",
       hu: "Mountbatten egy történelemben gazdag negyed, amely a gyarmati korszak építészetéről ismert. Stratégiai helyen fekszik a város és a repülőtér között.",
@@ -1391,7 +1391,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-potong-pasir-cities-v2",
     type: "town",
     name: { de: "Potong Pasir", hu: "Potong Pasir", ro: "Potong Pasir", en: "Potong Pasir" },
-    coordinates: { lat: 1.3314, lng: 103.869 },
+    coords: [103.869, 1.3314],
     description: {
       de: "Potong Pasir ist ein einzigartiges Wohnviertel, das für seine markanten schrägen Dächer bekannt ist. Es hat eine starke und eng verbundene Gemeinschaft.",
       hu: "Potong Pasir egy egyedülálló lakónegyed, amely jellegzetes ferde tetőiről ismert. Erős és összetartó közösséggel rendelkezik.",
@@ -1410,7 +1410,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-macpherson-cities-v2",
     type: "town",
     name: { de: "MacPherson", hu: "MacPherson", ro: "MacPherson", en: "MacPherson" },
-    coordinates: { lat: 1.325, lng: 103.885 },
+    coords: [103.885, 1.325],
     description: {
       de: "MacPherson ist ein etabliertes Viertel mit einer Mischung aus Industrie und Wohngebieten. Es ist ein wichtiger Knotenpunkt im Zentrum-Osten.",
       hu: "MacPherson egy bevezetett negyed az ipari és lakóövezetek keverékével. Fontos csomópont a közép-keleti részen.",
@@ -1429,7 +1429,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-eunos-cities-v2",
     type: "town",
     name: { de: "Eunos", hu: "Eunos", ro: "Eunos", en: "Eunos" },
-    coordinates: { lat: 1.323, lng: 103.903 },
+    coords: [103.903, 1.323],
     description: {
       de: "Eunos ist ein Viertel im Osten, das seine malaiischen Wurzeln bewahrt hat. Es zeichnet sich durch seine traditionelle Architektur und Gemeinschaft aus.",
       hu: "Eunos egy keleti negyed, amely megőrizte maláj gyökereit. Hagyományos építészete és közösségi élete jellemzi.",
@@ -1448,7 +1448,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-woodleigh-cities-v2",
     type: "town",
     name: { de: "Woodleigh", hu: "Woodleigh", ro: "Woodleigh", en: "Woodleigh" },
-    coordinates: { lat: 1.339, lng: 103.871 },
+    coords: [103.871, 1.339],
     description: {
       de: "Woodleigh ist ein aufstrebendes Wohnviertel im Zentrum. Es ist bekannt für seine neuen Parks und die Integration von Natur in den urbanen Raum.",
       hu: "Woodleigh egy feltörekvő lakónegyed a központban. Új parkjairól és a természet városi térbe való integrálásáról ismert.",
@@ -1467,7 +1467,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-tai-seng-cities-v2",
     type: "industry",
     name: { de: "Tai Seng", hu: "Tai Seng", ro: "Tai Seng", en: "Tai Seng" },
-    coordinates: { lat: 1.335, lng: 103.888 },
+    coords: [103.888, 1.335],
     description: {
       de: "Tai Seng ist ein bedeutendes Industrie- und Gewerbegebiet. Es beherbergt zahlreiche Unternehmen der Lebensmittel- und Technologiebranche.",
       hu: "Tai Seng egy jelentős ipari és kereskedelmi terület. Számos élelmiszeripari és technológiai vállalatnak ad otthont.",
@@ -1486,7 +1486,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-marymount-cities-v2",
     type: "town",
     name: { de: "Marymount", hu: "Marymount", ro: "Marymount", en: "Marymount" },
-    coordinates: { lat: 1.348, lng: 103.839 },
+    coords: [103.839, 1.348],
     description: {
       de: "Marymount ist ein ruhiges Wohnviertel in der Nähe des MacRitchie Reservoirs. Es ist bekannt für seine exklusiven Privatwohnungen und Schulen.",
       hu: "Marymount egy csendes lakónegyed a MacRitchie víztározó közelében. Exkluzív magánlakásairól és iskoláiról ismert.",
@@ -1505,7 +1505,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-lentor-cities-v2",
     type: "town",
     name: { de: "Lentor", hu: "Lentor", ro: "Lentor", en: "Lentor" },
-    coordinates: { lat: 1.385, lng: 103.837 },
+    coords: [103.837, 1.385],
     description: {
       de: "Lentor ist ein neues, grünes Wohnviertel im Norden. Es wird als nachhaltiger 'Wald-Distrikt' entwickelt, der Natur und Urbanität verbindet.",
       hu: "Lentor egy új, zöld lakónegyed északon. Fenntartható 'erdei negyedként' fejlesztik, amely ötvözi a természetet és a városi életet.",
@@ -1524,7 +1524,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-braddell-cities-v2",
     type: "town",
     name: { de: "Braddell", hu: "Braddell", ro: "Braddell", en: "Braddell" },
-    coordinates: { lat: 1.34, lng: 103.847 },
+    coords: [103.847, 1.34],
     description: {
       de: "Braddell ist ein etabliertes Wohngebiet in zentraler Lage. Es zeichnet sich durch seine gute Anbindung und die Nähe zu wichtigen Schulen aus.",
       hu: "Braddell egy bevezetett lakóövezet központi helyen. Kiváló közlekedése és a fontos iskolák közelsége jellemzi.",
@@ -1543,7 +1543,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-boon-lay-cities-v2",
     type: "town",
     name: { de: "Boon Lay", hu: "Boon Lay", ro: "Boon Lay", en: "Boon Lay" },
-    coordinates: { lat: 1.338, lng: 103.705 },
+    coords: [103.705, 1.338],
     description: {
       de: "Boon Lay ist ein wichtiger Industrie- und Wohnstandort im Westen. Es dient als Tor zum Jurong Industriegebiet.",
       hu: "Boon Lay egy fontos ipari és lakóövezet nyugaton. Kapuként szolgál a Jurong ipari területhez.",
@@ -1562,7 +1562,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-pioneer-cities-v2",
     type: "industry",
     name: { de: "Pioneer", hu: "Pioneer", ro: "Pioneer", en: "Pioneer" },
-    coordinates: { lat: 1.337, lng: 103.697 },
+    coords: [103.697, 1.337],
     description: {
       de: "Pioneer ist eine Industrieregion im Westen, die für ihre Schiffbau- und Technologieparks bekannt ist. Es ist ein Motor der Wirtschaft.",
       hu: "Pioneer egy nyugati ipari régió, amely hajóépítő- és technológiai parkjairól ismert. A gazdaság egyik motorja.",
@@ -1581,7 +1581,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-tengah-cities-v2",
     type: "town",
     name: { de: "Tengah", hu: "Tengah", ro: "Tengah", en: "Tengah" },
-    coordinates: { lat: 1.35, lng: 103.73 },
+    coords: [103.73, 1.35],
     description: {
       de: "Tengah ist Singapurs neueste Stadt, die als 'Waldstadt' konzipiert wurde. Sie setzt neue Maßstäbe für umweltfreundliches urbanes Wohnen.",
       hu: "Tengah Szingapúr legújabb városa, amelyet 'erdővárosnak' terveztek. Új mércét állít a környezetbarát városi élet számára.",
@@ -1600,7 +1600,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "singapore-jalan-kayu-cities-v2",
     type: "village",
     name: { de: "Jalan Kayu", hu: "Jalan Kayu", ro: "Jalan Kayu", en: "Jalan Kayu" },
-    coordinates: { lat: 1.391, lng: 103.876 },
+    coords: [103.876, 1.391],
     description: {
       de: "Jalan Kayu ist ein gemütliches Viertel im Nordosten, das für seine reiche kulinarische Geschichte bekannt ist. Es hat eine rustikale Atmosphäre bewahrt.",
       hu: "Jalan Kayu egy hangulatos negyed északkeleten, amely gazdag gasztronómiai múltjáról ismert. Megőrizte rusztikus hangulatát.",

@@ -1686,7 +1686,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
     id: "bahamas-government-house-staircase-landmarks-v2",
     type: "landmark",
     name: { de: "Regierungsgebäude Treppe", hu: "Kormányzati épület lépcsősor", ro: "Scara Clădirii Guvernului", en: "Government House Staircase" },
-    coordinates: { lat: 25.0768, lng: -77.3458 },
+    coords: [-77.3458, 25.0768],
     description: {
       de: "Diese monumentale Treppe führt zum offiziellen Wohnsitz des Generalgouverneurs der Bahamas in Nassau. Sie wurde im 19. Jahrhundert erbaut und ist ein bedeutendes Beispiel kolonialer Architektur.",
       hu: "Ez a monumentális lépcsősor a Bahama-szigetek főkormányzójának nassaui hivatalos rezidenciájához vezet. A 19. században épült, és a gyarmati építészet jelentős példája.",
@@ -1705,7 +1705,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
     id: "bahamas-port-nelson-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Port Nelson Leuchtturm", hu: "Port Nelson világítótorony", ro: "Farul Port Nelson", en: "Port Nelson Lighthouse" },
-    coordinates: { lat: 23.6667, lng: -74.95 },
+    coords: [-74.95, 23.6667],
     description: {
       de: "Der Leuchtturm bei Port Nelson auf Rum Cay dient der Navigation in den umliegenden Gewässern. Er markiert einen wichtigen Punkt entlang der Schifffahrtsroute im Archipel.",
       hu: "A Rum Cay szigetén található Port Nelson világítótorony a környező vizek hajózását segíti. Fontos pontot jelöl az szigetvilág hajózási útvonalán.",
@@ -1724,7 +1724,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
     id: "bahamas-old-jail-marsh-harbour-landmarks-v2",
     type: "ruins",
     name: { de: "Altes Gefängnis von Marsh Harbour", hu: "Marsh Harbour-i régi börtön", ro: "Vechea închisoare din Marsh Harbour", en: "Old Jail of Marsh Harbour" },
-    coordinates: { lat: 26.5447, lng: -77.0633 },
+    coords: [-77.0633, 26.5447],
     description: {
       de: "Die Überreste des alten Gefängnisses in Marsh Harbour auf den Abaco-Inseln stammen aus dem 19. Jahrhundert. Das Bauwerk dokumentiert die frühe Rechtsordnung der Region.",
       hu: "A Marsh Harbour-i, az Abaco-szigeteken található régi börtön maradványai a 19. századból származnak. Az építmény a régió korai jogrendjét dokumentálja.",

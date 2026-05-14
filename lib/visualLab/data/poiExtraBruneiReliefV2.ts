@@ -526,7 +526,7 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "brunei-bukit-biang-relief-v2",
     type: "peak",
     name: { de: "Bukit Biang", hu: "Bukit Biang", ro: "Bukit Biang", en: "Bukit Biang" },
-    coordinates: { lat: 4.793, lng: 115.121 },
+    coords: [115.121, 4.793],
     description: {
       de: "Der Bukit Biang ist ein zentraler Berggipfel im Distrikt Temburong. Er bietet weite Ausblicke über den dichten Regenwald der Region.",
       hu: "A Bukit Biang a Temburong körzet egyik központi csúcsa. Panorámás kilátást nyújt a környező sűrű esőerdőkre.",
@@ -557,7 +557,7 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "brunei-bukit-gana-relief-v2",
     type: "peak",
     name: { de: "Bukit Gana", hu: "Bukit Gana", ro: "Bukit Gana", en: "Bukit Gana" },
-    coordinates: { lat: 4.655, lng: 114.732 },
+    coords: [114.732, 4.655],
     description: {
       de: "Dieser markante Bergrücken im Distrikt Tutong bildet die Wasserscheide zwischen den Flüssen Tutong und Belait. Er ist für seine ökologische Bedeutung bekannt.",
       hu: "Ez a jelentős gerinc Tutong körzetben található, és vízválasztót képez a Tutong és a Belait folyók között. Ökológiai jelentőségéről ismert.",
@@ -588,7 +588,7 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "brunei-bukit-ambog-relief-v2",
     type: "peak",
     name: { de: "Bukit Ambog", hu: "Bukit Ambog", ro: "Bukit Ambog", en: "Bukit Ambog" },
-    coordinates: { lat: 4.781, lng: 114.652 },
+    coords: [114.652, 4.781],
     description: {
       de: "Der Bukit Ambog ist ein markanter Hügel, der die Stadt Tutong und die umliegenden Küstenebenen überragt. Er prägt das lokale Landschaftsbild entscheidend.",
       hu: "A Bukit Ambog egy jellegzetes domb, amely Tutong városa és a környező parti síkságok fölé magasodik. Meghatározza a helyi tájképet.",
@@ -619,7 +619,7 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "brunei-bukit-saeh-relief-v2",
     type: "peak",
     name: { de: "Bukit Saeh", hu: "Bukit Saeh", ro: "Bukit Saeh", en: "Bukit Saeh" },
-    coordinates: { lat: 4.865, lng: 114.938 },
+    coords: [114.938, 4.865],
     description: {
       de: "Dieser Hügel in der Nähe von Bandar Seri Begawan bietet eine natürliche topografische Abwechslung in der Hauptstadtregion. Er ist ein beliebtes Ziel für Wanderer.",
       hu: "Ez a Bandar Seri Begawan közelében található domb természetes domborzati változatosságot nyújt a fővárosi régióban. A túrázók kedvelt célpontja.",
@@ -650,7 +650,7 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "brunei-bukit-batu-patam-relief-v2",
     type: "peak",
     name: { de: "Bukit Batu Patam", hu: "Bukit Batu Patam", ro: "Bukit Batu Patam", en: "Bukit Batu Patam" },
-    coordinates: { lat: 4.312, lng: 114.625 },
+    coords: [114.625, 4.312],
     description: {
       de: "Ein markanter Sandsteingipfel im südlichen Belait-Distrikt, der für seine steilen Felswände bekannt ist. Er stellt ein wichtiges geologisches Wahrzeichen dar.",
       hu: "Egy jellegzetes homokkőcsúcs a déli Belait körzetben, amely meredek sziklafalairól ismert. Fontos földtani jelkép a térségben.",

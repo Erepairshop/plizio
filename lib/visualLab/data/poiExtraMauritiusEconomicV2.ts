@@ -727,7 +727,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-jin-fei-economic-zone-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftszone Jin Fei", hu: "Jin Fei gazdasági övezet", ro: "Zona economică Jin Fei", en: "Jin Fei Economic Trade Zone" },
-    coordinates: { lat: -20.126, lng: 57.487 },
+    coords: [57.487, -20.126],
     description: {
       de: "Ein großes chinesisch-mauritisches Kooperationsprojekt im Norden von Port Louis. Es konzentriert sich auf High-Tech-Industrie und Logistik.",
       hu: "Egy jelentős kínai-mauritiusi együttműködési projekt Port Louistól északra. A csúcstechnológiás iparra és logisztikára összpontosít.",
@@ -746,7 +746,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-caudan-waterfront-economic-v2",
     type: "landmark",
     name: { de: "Caudan Waterfront", hu: "Caudan Waterfront", ro: "Caudan Waterfront", en: "Caudan Waterfront" },
-    coordinates: { lat: -20.1601, lng: 57.4975 },
+    coords: [57.4975, -20.1601],
     description: {
       de: "Das wichtigste Geschäfts- und Gewerbezentrum am Hafen von Port Louis. Es beherbergt Banken, Luxusgeschäfte und das Blue Penny Museum.",
       hu: "Port Louis kikötőjének legfontosabb üzleti és kereskedelmi központja. Bankoknak, luxusüzleteknek és a Blue Penny Múzeumnak ad otthont.",
@@ -765,7 +765,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-la-tour-koenig-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet La Tour Koenig", hu: "La Tour Koenig ipari terület", ro: "Zona industrială La Tour Koenig", en: "La Tour Koenig Industrial Estate" },
-    coordinates: { lat: -20.18, lng: 57.466 },
+    coords: [57.466, -20.18],
     description: {
       de: "Ein bedeutendes Industriezentrum südwestlich der Hauptstadt. Es ist bekannt für Textilfabriken und Informationstechnologie-Unternehmen.",
       hu: "Jelentős ipari központ a fővárostól délnyugatra. Textilgyárairól és informatikai vállalatairól ismert.",
@@ -784,7 +784,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-rose-belle-business-park-economic-v2",
     type: "industry",
     name: { de: "Rose Belle Business Park", hu: "Rose Belle Business Park", ro: "Rose Belle Business Park", en: "Rose Belle Business Park" },
-    coordinates: { lat: -20.398, lng: 57.604 },
+    coords: [57.604, -20.398],
     description: {
       de: "Ein strategischer Wirtschaftsknotenpunkt im Süden der Insel. Er liegt in unmittelbarer Nähe zum internationalen Flughafen.",
       hu: "Stratégiai gazdasági csomópont a sziget déli részén. A nemzetközi repülőtér közvetlen közelében található.",
@@ -803,7 +803,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-valentina-industrial-zone-economic-v2",
     type: "factory",
     name: { de: "Industriezone Valentina", hu: "Valentina ipari övezet", ro: "Zona industrială Valentina", en: "Valentina Industrial Zone" },
-    coordinates: { lat: -20.255, lng: 57.505 },
+    coords: [57.505, -20.255],
     description: {
       de: "Ein geschäftiges Industrie- und Gewerbegebiet in der Nähe von Phoenix. Es beherbergt zahlreiche Lagerhäuser und Produktionsstätten.",
       hu: "Forgalmas ipari és kereskedelmi negyed Phoenix közelében. Számos raktárnak és gyártóüzemnek ad otthont.",
@@ -822,7 +822,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-moka-smart-city-economic-v2",
     type: "industry",
     name: { de: "Moka Smart City", hu: "Moka Smart City", ro: "Moka Smart City", en: "Moka Smart City" },
-    coordinates: { lat: -20.225, lng: 57.495 },
+    coords: [57.495, -20.225],
     description: {
       de: "Ein modernes Wirtschaftszentrum im Herzen von Mauritius. Es kombiniert Bildungseinrichtungen mit Finanzdienstleistungen und Gewerbe.",
       hu: "Modern gazdasági központ Mauritius szívében. Az oktatási intézményeket pénzügyi szolgáltatásokkal és kereskedelemmel ötvözi.",
@@ -841,7 +841,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-saint-felix-sugar-factory-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Saint Felix", hu: "Saint Felix cukorgyár", ro: "Fabrica de zahăr Saint Felix", en: "Saint Felix Sugar Factory" },
-    coordinates: { lat: -20.505, lng: 57.458 },
+    coords: [57.458, -20.505],
     description: {
       de: "Ein historisches und noch aktives Zentrum der Zuckerproduktion im Süden. Es spielt eine wichtige Rolle in der lokalen Agrarwirtschaft.",
       hu: "Történelmi és ma is aktív cukortermelő központ délen. Fontos szerepet játszik a helyi agrárgazdaságban.",
@@ -860,7 +860,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-mon-tresor-smart-city-economic-v2",
     type: "industry",
     name: { de: "Mon Trésor Smart City", hu: "Mon Trésor Smart City", ro: "Mon Trésor Smart City", en: "Mon Trésor Smart City" },
-    coordinates: { lat: -20.445, lng: 57.675 },
+    coords: [57.675, -20.445],
     description: {
       de: "Ein bedeutendes Logistik- und Geschäftsviertel direkt am Flughafen. Es dient als Tor für den internationalen Frachtverkehr.",
       hu: "Jelentős logisztikai és üzleti negyed közvetlenül a repülőtér mellett. A nemzetközi teherforgalom kapujaként szolgál.",
@@ -879,7 +879,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-floreal-textile-cluster-economic-v2",
     type: "industry",
     name: { de: "Textilzentrum Floreal", hu: "Floreal textilipari központ", ro: "Centrul textil Floreal", en: "Floreal Textile Cluster" },
-    coordinates: { lat: -20.318, lng: 57.505 },
+    coords: [57.505, -20.318],
     description: {
       de: "Ein historisches Zentrum der mauritischen Bekleidungsindustrie. Es ist berühmt für die Herstellung hochwertiger Strickwaren für den Export.",
       hu: "A mauritiusi ruházati ipar történelmi központja. Híres a kiváló minőségű kötöttáruk exportra történő gyártásáról.",
@@ -898,7 +898,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     id: "mauritius-port-louis-central-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Port Louis", hu: "Port Louis-i központi piac", ro: "Piața Centrală din Port Louis", en: "Port Louis Central Market" },
-    coordinates: { lat: -20.1606, lng: 57.5019 },
+    coords: [57.5019, -20.1606],
     description: {
       de: "Das wirtschaftliche Herz des lokalen Handels in der Hauptstadt. Hier werden seit Jahrhunderten landwirtschaftliche Produkte und Textilien gehandelt.",
       hu: "A főváros helyi kereskedelmének gazdasági szíve. Évszázadok óta itt folyik a mezőgazdasági termékek és textilek adásvétele.",

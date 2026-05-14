@@ -5,7 +5,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-pulemelei-mound-history-v2",
     type: "ruins",
     name: { de: "Pulemelei-Hügel", hu: "Pulemelei-halom", ro: "Tumulul Pulemelei", en: "Pulemelei Mound" },
-    coordinates: { lat: -13.7158, lng: -172.3167 },
+    coords: [-172.3167, -13.7158],
     description: {
       de: "Die größte antike Struktur in Polynesien ist eine massive Steinplattform auf Savai'i. Sie diente als Zeremonialzentrum und Aussichtspunkt für die Jagd.",
       hu: "Polinézia legnagyobb ősi építménye egy hatalmas kőplatform Savai'i szigetén. Szertartási központként és vadászati figyelőpontként szolgált.",
@@ -24,7 +24,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-villa-vailima-history-v2",
     type: "museum",
     name: { de: "Villa Vailima", hu: "Villa Vailima", ro: "Vila Vailima", en: "Villa Vailima" },
-    coordinates: { lat: -13.8642, lng: -171.7667 },
+    coords: [-171.7667, -13.8642],
     description: {
       de: "Das ehemalige Wohnhaus von Robert Louis Stevenson beherbergt heute ein Museum. Der Autor verbrachte hier seine letzten Lebensjahre auf Samoa.",
       hu: "Robert Louis Stevenson egykori lakóháza ma múzeumnak ad otthont. Az író itt töltötte élete utolsó éveit Szamoán.",
@@ -43,7 +43,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mulinuu-royal-tombs-history-v2",
     type: "monument",
     name: { de: "Königsgräber von Mulinu'u", hu: "Mulinu'u királyi sírok", ro: "Mormintele Regale de la Mulinu'u", en: "Mulinu'u Royal Tombs" },
-    coordinates: { lat: -13.8247, lng: -171.7822 },
+    coords: [-171.7822, -13.8247],
     description: {
       de: "Die Halbinsel Mulinu'u ist die traditionelle Grabstätte der höchsten Häuptlinge Samoas. Die Gräber spiegeln die politische Geschichte des Landes wider.",
       hu: "A Mulinu'u-félsziget Szamoa legfőbb törzsfőnökeinek hagyományos temetkezési helye. A sírok az ország politikai történelmét tükrözik.",
@@ -62,7 +62,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-saleaula-lava-church-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Kirche von Saleaula", hu: "Saleaula templomrom", ro: "Ruinele bisericii din Saleaula", en: "Saleaula Church Ruins" },
-    coordinates: { lat: -13.4475, lng: -172.3411 },
+    coords: [-172.3411, -13.4475],
     description: {
       de: "Diese Kirchenruine wurde während des Vulkanausbruchs des Matavanu von Lava umschlossen. Das Innere der Kirche ist heute mit erstarrtem Gestein gefüllt.",
       hu: "Ezt a templomromot a Matavanu vulkánkitörése során láva vette körül. A templom belsejét ma megkövült kőzet tölti ki.",
@@ -81,7 +81,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-clock-tower-history-v2",
     type: "tower",
     name: { de: "Uhrturm von Apia", hu: "Apia óratorony", ro: "Turnul cu ceas din Apia", en: "Apia Clock Tower" },
-    coordinates: { lat: -13.8328, lng: -171.7656 },
+    coords: [-171.7656, -13.8328],
     description: {
       de: "Der markante Uhrturm im Zentrum von Apia dient als Mahnmal für die Gefallenen der Weltkriege. Er ist ein zentraler Orientierungspunkt der Stadt.",
       hu: "Apia központjában található jellegzetes óratorony a világháborúk áldozatainak emlékműve. A város központi tájékozódási pontja.",
@@ -100,7 +100,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-sapapalii-monument-history-v2",
     type: "monument",
     name: { de: "Denkmal von Sapapali'i", hu: "Sapapali'i emlékmű", ro: "Monumentul din Sapapali'i", en: "Sapapali'i Monument" },
-    coordinates: { lat: -13.6214, lng: -172.1867 },
+    coords: [-172.1867, -13.6214],
     description: {
       de: "Dieses Denkmal markiert den Ort, an dem der Missionar John Williams 1830 landete. Es symbolisiert den Beginn der christlichen Missionierung auf Samoa.",
       hu: "Ez az emlékmű azt a helyet jelöli, ahol John Williams misszionárius 1830-ban partra szállt. A szamoai keresztény hittérítés kezdetét jelképezi.",
@@ -119,7 +119,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-german-courthouse-history-v2",
     type: "landmark",
     name: { de: "Altes Deutsches Gerichtsgebäude", hu: "Régi német bírósági épület", ro: "Vechea Curte de Justiție Germană", en: "Old German Courthouse" },
-    coordinates: { lat: -13.8317, lng: -171.7708 },
+    coords: [-171.7708, -13.8317],
     description: {
       de: "Dieses historische Gebäude in Apia stammt aus der Zeit der deutschen Kolonialherrschaft. Es diente über Jahrzehnte als Sitz der Verwaltung und Justiz.",
       hu: "Ez a történelmi épület Apiában a német gyarmati uralom idejéből származik. Évtizedeken át a közigazgatás és az igazságszolgáltatás székhelye volt.",
@@ -138,7 +138,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falemauga-caves-history-v2",
     type: "ruins",
     name: { de: "Falemauga-Höhlen", hu: "Falemauga-barlangok", ro: "Peșterile Falemauga", en: "Falemauga Caves" },
-    coordinates: { lat: -13.9167, lng: -171.8167 },
+    coords: [-171.8167, -13.9167],
     description: {
       de: "Diese Lavaröhren dienten in Zeiten von Kriegen als Zufluchtsort für die lokale Bevölkerung. Archäologische Funde belegen eine jahrhundertelange Nutzung.",
       hu: "Ezek a lávacsövek háborúk idején óvóhelyként szolgáltak a helyi lakosság számára. Régészeti leletek bizonyítják évszázados használatukat.",
@@ -157,7 +157,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-theological-college-history-v2",
     type: "university",
     name: { de: "Theologisches Kolleg von Malua", hu: "Malua Teológiai Főiskola", ro: "Colegiul Teologic Malua", en: "Malua Theological College" },
-    coordinates: { lat: -13.8056, lng: -171.8567 },
+    coords: [-171.8567, -13.8056],
     description: {
       de: "Malua ist eine der ältesten theologischen Bildungseinrichtungen im Pazifik. Es wurde von der London Missionary Society zur Ausbildung samoanischer Pastoren gegründet.",
       hu: "Malua a Csendes-óceán egyik legrégebbi teológiai oktatási intézménye. A Londoni Missziós Társaság alapította szamoai lelkészek képzésére.",
@@ -176,7 +176,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mount-vaea-rls-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Robert Louis Stevenson", hu: "Robert Louis Stevenson sírja", ro: "Mormântul lui Robert Louis Stevenson", en: "Robert Louis Stevenson Tomb" },
-    coordinates: { lat: -13.8767, lng: -171.7708 },
+    coords: [-171.7708, -13.8767],
     description: {
       de: "Auf dem Gipfel des Mount Vaea befindet sich die letzte Ruhestätte des berühmten Schriftstellers. Der Weg dorthin wird oft als 'Road of Loving Hearts' bezeichnet.",
       hu: "A Vaea-hegy csúcsán található a híres író utolsó nyughelye. Az oda vezető utat gyakran a 'Szerető szívek útjaként' emlegetik.",
@@ -195,7 +195,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-virgin-grave-saleaula-history-v2",
     type: "landmark",
     name: { de: "Grab der Jungfrau", hu: "Szűz sírja", ro: "Mormântul Fecioarei", en: "Virgin's Grave" },
-    coordinates: { lat: -13.4481, lng: -172.3414 },
+    coords: [-172.3414, -13.4481],
     description: {
       de: "Eine kleine Grabstätte inmitten der Lavafelder von Saleaula, die durch ein Wunder von der fließenden Lava verschont blieb. Sie ist ein Ort lokaler Legenden.",
       hu: "Egy kis sírhely a salealauai lávamezők közepén, amelyet csodával határos módon elkerült a folyó láva. Helyi legendák fontos helyszíne.",
@@ -214,7 +214,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-piula-cave-pool-history-v2",
     type: "landmark",
     name: { de: "Piula-Höhlenpool", hu: "Piula-barlangfürdő", ro: "Piscina din peștera Piula", en: "Piula Cave Pool" },
-    coordinates: { lat: -13.8833, lng: -171.6 },
+    coords: [-171.6, -13.8833],
     description: {
       de: "Dieser natürliche Süßwasserpool unter einer historischen Methodistenkirche entstand aus einer Lavaröhre. Die Kirche wurde bereits 1868 gegründet.",
       hu: "Ez a természetes édesvízi medence egy történelmi metodista templom alatt, egy lávacsőből jött létre. A templomot már 1868-ban megalapították.",
@@ -233,7 +233,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-moso-footprint-history-v2",
     type: "landmark",
     name: { de: "Mosos Fußabdruck", hu: "Moso lábnyoma", ro: "Urma lui Moso", en: "Moso's Footprint" },
-    coordinates: { lat: -13.5042, lng: -172.7667 },
+    coords: [-172.7667, -13.5042],
     description: {
       de: "Eine Vertiefung im Lavagestein bei Falealupo, die der Legende nach der Fußabdruck des Riesen Moso ist. Sie ist ein bedeutender Ort samoanischer Mythologie.",
       hu: "Egy mélyedés a lávakőzetben Falealupo közelében, amely a legenda szerint Moso óriás lábnyoma. A szamoai mitológia egyik jelentős helyszíne.",
@@ -252,7 +252,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-german-monument-mulinuu-history-v2",
     type: "monument",
     name: { de: "Deutsches Denkmal in Mulinu'u", hu: "Német emlékmű Mulinu'u-ban", ro: "Monumentul German din Mulinu'u", en: "German Monument at Mulinu'u" },
-    coordinates: { lat: -13.8239, lng: -171.7831 },
+    coords: [-171.7831, -13.8239],
     description: {
       de: "Dieses Denkmal erinnert an die deutsche Herrschaft über Samoa von 1900 bis 1914. Es befindet sich auf dem historisch bedeutsamen Boden von Mulinu'u.",
       hu: "Ez az emlékmű a Szamoa feletti német uralomra emlékeztet 1900 és 1914 között. Mulinu'u történelmileg jelentős területén található.",
@@ -271,7 +271,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-vaimoso-mau-headquarters-history-v2",
     type: "landmark",
     name: { de: "Ehemaliges Mau-Hauptquartier", hu: "Egykori Mau főhadiszállás", ro: "Fostul sediu Mau", en: "Former Mau Headquarters" },
-    coordinates: { lat: -13.8417, lng: -171.7833 },
+    coords: [-171.7833, -13.8417],
     description: {
       de: "Vaimoso war das Zentrum der Mau-Bewegung, die gewaltfrei gegen die neuseeländische Verwaltung kämpfte. Hier wurden wichtige politische Strategien entwickelt.",
       hu: "Vaimoso volt a központja a Mau mozgalomnak, amely erőszakmentesen küzdött az új-zélandi közigazgatás ellen. Itt dolgozták ki a fontos politikai stratégiákat.",
@@ -290,7 +290,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apolima-island-forts-history-v2",
     type: "ruins",
     name: { de: "Befestigungen von Apolima", hu: "Apolima erődítményei", ro: "Fortificațiile din Apolima", en: "Apolima Fortifications" },
-    coordinates: { lat: -13.8167, lng: -172.15 },
+    coords: [-172.15, -13.8167],
     description: {
       de: "Die kleine Vulkaninsel Apolima diente historisch als natürliche Festung. Der einzige Zugang zum Kraterinneren war leicht zu verteidigen.",
       hu: "A kicsiny vulkáni sziget, Apolima, történelmileg természetes erődként szolgált. A kráter belsejébe vezető egyetlen bejárat könnyen védhető volt.",
@@ -309,7 +309,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-manono-star-mound-history-v2",
     type: "ruins",
     name: { de: "Sternhügel von Manono", hu: "Manono csillaghalom", ro: "Tumulul stelat din Manono", en: "Manono Star Mound" },
-    coordinates: { lat: -13.85, lng: -172.1167 },
+    coords: [-172.1167, -13.85],
     description: {
       de: "Auf der Insel Manono befinden sich mehrere Sternhügel (Tia Seu), die für die Taubenjagd genutzt wurden. Sie sind wichtige archäologische Stätten.",
       hu: "Manono szigetén több csillaghalom (Tia Seu) található, amelyeket galambvadászathoz használtak. Fontos régészeti lelőhelyek.",
@@ -328,7 +328,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-vailele-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Vailele", hu: "Vailele csatatér", ro: "Câmpul de luptă de la Vailele", en: "Vailele Battlefield" },
-    coordinates: { lat: -13.8417, lng: -171.7333 },
+    coords: [-171.7333, -13.8417],
     description: {
       de: "Vailele war Schauplatz heftiger Kämpfe während des Ersten Samoanischen Bürgerkriegs. Hier trafen koloniale Interessen und lokale Fraktionen aufeinander.",
       hu: "Vailele heves harcok helyszíne volt az első szamoai polgárháború idején. Itt csaptak össze a gyarmati érdekek és a helyi frakciók.",
@@ -347,7 +347,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-maota-o-taoa-history-v2",
     type: "landmark",
     name: { de: "Maota o Taoa", hu: "Maota o Taoa", ro: "Maota o Taoa", en: "Maota o Taoa" },
-    coordinates: { lat: -13.4333, lng: -172.4333 },
+    coords: [-172.4333, -13.4333],
     description: {
       de: "Ein historischer Versammlungsplatz auf Savai'i, der eng mit dem Titel des Tuimaleali'ifano verbunden ist. Er ist ein zentraler Ort für die traditionelle Rechtsprechung.",
       hu: "Egy történelmi gyülekezőhely Savai'i szigetén, amely szorosan kapcsolódik a Tuimaleali'ifano címhez. A hagyományos jogszolgáltatás központi helyszíne.",
@@ -366,7 +366,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-tufutafoe-underworld-portal-history-v2",
     type: "landmark",
     name: { de: "Fafa o Sauali'i", hu: "Fafa o Sauali'i", ro: "Fafa o Sauali'i", en: "Fafa o Sauali'i" },
-    coordinates: { lat: -13.5167, lng: -172.8 },
+    coords: [-172.8, -13.5167],
     description: {
       de: "Der westlichste Punkt Samoas gilt in der Mythologie als Eingang zur Unterwelt. Verstorbene Seelen sollen hier ihre Reise nach Pulotu antreten.",
       hu: "Szamoa legnyugatibb pontját a mitológiában az alvilág bejáratának tekintik. Az elhunyt lelkek itt kezdik meg utazásukat Pulotu felé.",
@@ -385,7 +385,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-luatuanuu-hillfort-history-v2",
     type: "ruins",
     name: { de: "Festungshügel von Luatuanu'u", hu: "Luatuanu'u domberőd", ro: "Cetatea de pe dealul Luatuanu'u", en: "Luatuanu'u Hillfort" },
-    coordinates: { lat: -13.88, lng: -171.65 },
+    coords: [-171.65, -13.88],
     description: {
       de: "Diese antike Befestigungsanlage auf Upolu besteht aus Terrassen und Gräben. Sie wurde während kriegerischer Auseinandersetzungen als Rückzugsort genutzt.",
       hu: "Ez az ősi erődítmény Upolu szigetén teraszokból és árkokból áll. Háborús összecsapások idején használták védelmi célokra.",
@@ -404,7 +404,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falealupo-old-church-history-v2",
     type: "ruins",
     name: { de: "Alte Kirche von Falealupo", hu: "Falealupo régi temploma", ro: "Vechea biserică din Falealupo", en: "Falealupo Old Church" },
-    coordinates: { lat: -13.5117, lng: -172.7833 },
+    coords: [-172.7833, -13.5117],
     description: {
       de: "Die Ruinen der katholischen Kirche von Falealupo zeugen von der Zerstörungskraft vergangener Wirbelstürme. Das dachlose Gebäude ist heute ein Fotomotiv.",
       hu: "A falealupói katolikus templom romjai a korábbi ciklonok pusztító erejéről tanúskodnak. A tető nélküli épület ma népszerű fotótéma.",
@@ -423,7 +423,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-fangaloa-ancient-village-history-v2",
     type: "ruins",
     name: { de: "Antikes Dorf in der Fangaloa-Bucht", hu: "Ősi falu a Fangaloa-öbölnél", ro: "Satul antic din Golful Fangaloa", en: "Fangaloa Ancient Village" },
-    coordinates: { lat: -13.9167, lng: -171.55 },
+    coords: [-171.55, -13.9167],
     description: {
       de: "Die isolierte Fangaloa-Bucht beherbergt Überreste jahrhundertealter Siedlungen. Archäologische Ausgrabungen lieferten wichtige Daten zur samoanischen Urgeschichte.",
       hu: "Az elszigetelt Fangaloa-öböl évszázados települések maradványainak ad otthont. A régészeti feltárások fontos adatokkal szolgáltak Szamoa őstörténetéhez.",
@@ -442,7 +442,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-lotofaga-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte von Lotofaga", hu: "Lotofaga régészeti lelőhely", ro: "Situl arheologic de la Lotofaga", en: "Lotofaga Archaeological Site" },
-    coordinates: { lat: -14.0167, lng: -171.5 },
+    coords: [-171.5, -14.0167],
     description: {
       de: "Nahe der Südküste von Upolu wurden in Lotofaga bedeutende präkoloniale Strukturen entdeckt. Die Funde umfassen Hausplattformen und Steinwerkzeuge.",
       hu: "Upolu déli partjának közelében, Lotofagánál jelentős gyarmatosítás előtti építményeket fedeztek fel. A leletek házplatformokat és kőeszközöket tartalmaznak.",
@@ -461,7 +461,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-asau-historic-port-history-v2",
     type: "port",
     name: { de: "Historischer Hafen von Asau", hu: "Asau történelmi kikötője", ro: "Portul istoric din Asau", en: "Asau Historic Port" },
-    coordinates: { lat: -13.5167, lng: -172.6333 },
+    coords: [-172.6333, -13.5167],
     description: {
       de: "Asau war ein wichtiger Exporthafen für die samoanische Holzindustrie während der Kolonialzeit. Heute ist die Bucht für ihre Geschichte und Natur bekannt.",
       hu: "Asau a gyarmati időkben a szamoai faipar fontos exportkikötője volt. Ma az öböl történelméről és természetéről nevezetes.",
@@ -480,7 +480,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malietoa-tombs-history-v2",
     type: "monument",
     name: { de: "Malietoa-Gräber", hu: "Malietoa-sírok", ro: "Mormintele Malietoa", en: "Malietoa Tombs" },
-    coordinates: { lat: -13.8242, lng: -171.7811 },
+    coords: [-171.7811, -13.8242],
     description: {
       de: "Diese Gräber gehören zu den Herrschern der Malietoa-Dynastie, einer der vier obersten Häuptlingslinien Samoas. Sie sind Symbole nationaler Identität.",
       hu: "Ezek a sírok a Malietoa-dinasztia uralkodóié, amely Szamoa négy legfőbb törzsfőnöki ágának egyike. A nemzeti identitás jelképei.",
@@ -499,7 +499,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-german-monument-samoa-history-v2",
     type: "monument",
     name: { de: "Deutsches Kolonialdenkmal", hu: "Német gyarmati emlékmű", ro: "Monumentul colonial german", en: "German Colonial Monument" },
-    coordinates: { lat: -13.825, lng: -171.785 },
+    coords: [-171.785, -13.825],
     description: {
       de: "Das Denkmal steht für die Zeit von Deutsch-Samoa und die Gründung der Kolonie. Es ist Teil des historischen Rundgangs auf der Mulinu'u-Halbinsel.",
       hu: "Az emlékmű a Német-Szamoa idejét és a gyarmat alapítását jelképezi. A Mulinu'u-félsziget történelmi sétaútjának része.",
@@ -518,7 +518,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mataafa-tombs-history-v2",
     type: "monument",
     name: { de: "Mata'afa-Gräber", hu: "Mata'afa-sírok", ro: "Mormintele Mata'afa", en: "Mata'afa Tombs" },
-    coordinates: { lat: -13.8256, lng: -171.7828 },
+    coords: [-171.7828, -13.8256],
     description: {
       de: "Die letzte Ruhestätte der Mata'afa-Linie befindet sich ebenfalls in Mulinu'u. Diese Familie führte den Widerstand gegen die deutsche Verwaltung an.",
       hu: "A Mata'afa-ág utolsó nyughelye szintén Mulinu'u-ban található. Ez a család vezette a német közigazgatás elleni ellenállást.",
@@ -537,7 +537,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-lepa-ancient-village-history-v2",
     type: "ruins",
     name: { de: "Altes Dorf von Lepa", hu: "Lepa ősi faluja", ro: "Satul vechi din Lepa", en: "Lepa Ancient Village" },
-    coordinates: { lat: -14.0333, lng: -171.5167 },
+    coords: [-171.5167, -14.0333],
     description: {
       de: "Lepa ist ein historisches Dorf an der Südküste von Upolu mit Überresten antiker Steinmauern. Es ist Geburtsort mehrerer bedeutender samoanischer Politiker.",
       hu: "Lepa egy történelmi falu Upolu déli partján, ősi kőfalak maradványaival. Több jelentős szamoai politikus szülőhelye.",
@@ -556,7 +556,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-siumu-ancient-wells-history-v2",
     type: "ruins",
     name: { de: "Antike Brunnen von Siumu", hu: "Siumu ősi kútjai", ro: "Fântânile antice din Siumu", en: "Siumu Ancient Wells" },
-    coordinates: { lat: -13.9833, lng: -171.7667 },
+    coords: [-171.7667, -13.9833],
     description: {
       de: "In der Region Siumu finden sich alte, aus Stein gemauerte Brunnen, die die Wasserversorgung früherer Generationen sicherten. Sie zeigen frühe Ingenieurskunst.",
       hu: "Siumu régiójában régi, kőből épült kutak találhatók, amelyek a korábbi generációk vízellátását biztosították. Korai mérnöki tudást mutatnak.",
@@ -575,7 +575,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-taga-blowholes-history-v2",
     type: "landmark",
     name: { de: "Alofaaga-Blowholes", hu: "Alofaaga-szökőkutak", ro: "Alofaaga Blowholes", en: "Alofaaga Blowholes" },
-    coordinates: { lat: -13.8167, lng: -172.5167 },
+    coords: [-172.5167, -13.8167],
     description: {
       de: "Diese natürlichen Meeresfontänen bei Taga sind eng mit samoanischen Schöpfungsgeschichten verbunden. Die Kraft des Wassers wird seit Jahrhunderten bestaunt.",
       hu: "Ezek a Tagánál található természetes tengeri szökőkutak szorosan kapcsolódnak a szamoai teremtéstörténetekhez. A víz erejét évszázadok óta csodálják.",
@@ -594,7 +594,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-safune-ancient-landing-history-v2",
     type: "ruins",
     name: { de: "Antike Anlegestelle von Safune", hu: "Safune ősi kikötőhelye", ro: "Locul de debarcare antic din Safune", en: "Safune Ancient Landing" },
-    coordinates: { lat: -13.45, lng: -172.4333 },
+    coords: [-172.4333, -13.45],
     description: {
       de: "Safune war historisch ein bedeutender Ankunftsort für Seefahrer aus anderen pazifischen Regionen. Es gibt dort Reste alter Steinrampen für Kanus.",
       hu: "Safune történelmileg fontos érkezési pont volt más csendes-óceáni régiókból érkező tengerészek számára. Régi kőrámpák maradványai találhatók ott.",
@@ -613,7 +613,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-aopo-lava-tube-refuge-history-v2",
     type: "ruins",
     name: { de: "Lavaröhren-Zuflucht von Aopo", hu: "Aopo lávacső-óvóhely", ro: "Refugiul din tubul de lavă din Aopo", en: "Aopo Lava Tube Refuge" },
-    coordinates: { lat: -13.5167, lng: -172.55 },
+    coords: [-172.55, -13.5167],
     description: {
       de: "Das Dorf Aopo liegt in der Nähe weitläufiger Lavahöhlen, die historisch als Verteidigungsstellungen dienten. Diese unterirdischen Gänge sind Teil der lokalen Wehrgeschichte.",
       hu: "Aopo falu kiterjedt lávabarlangok közelében fekszik, amelyek történelmileg védelmi állásokként szolgáltak. Ezek a föld alatti járatok a helyi hadtörténet részei.",
@@ -632,7 +632,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-samata-ancient-settlement-history-v2",
     type: "ruins",
     name: { de: "Antike Siedlung von Samata", hu: "Samata ősi települése", ro: "Așezarea antică din Samata", en: "Samata Ancient Settlement" },
-    coordinates: { lat: -13.6833, lng: -172.7167 },
+    coords: [-172.7167, -13.6833],
     description: {
       de: "Samata ist eine archäologische Fundstätte an der Südwestküste von Savai'i. Dort befinden sich terrassierte Hänge, die auf eine intensive landwirtschaftliche Nutzung hinweisen.",
       hu: "Samata egy régészeti lelőhely Savai'i délnyugati partján. Teraszos domboldalak találhatók ott, amelyek intenzív mezőgazdasági használatra utalnak.",
@@ -651,7 +651,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-neiafu-archaeological-mound-history-v2",
     type: "ruins",
     name: { de: "Archäologischer Hügel von Neiafu", hu: "Neiafu régészeti halom", ro: "Tumulul arheologic din Neiafu", en: "Neiafu Archaeological Mound" },
-    coordinates: { lat: -13.55, lng: -172.7167 },
+    coords: [-172.7167, -13.55],
     description: {
       de: "Bei Neiafu im Westen von Savai'i liegt eine bedeutende Steinplattform aus vorkolonialer Zeit. Sie war einst Schauplatz wichtiger zeremonieller Rituale.",
       hu: "A Savai'i nyugati részén fekvő Neiafu mellett egy jelentős gyarmatosítás előtti kőplatform található. Egykor fontos szertartási rituálék helyszíne volt.",
@@ -670,7 +670,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-papa-ancient-village-history-v2",
     type: "ruins",
     name: { de: "Antikes Dorf von Papa", hu: "Papa ősi faluja", ro: "Satul antic din Papa", en: "Papa Ancient Village" },
-    coordinates: { lat: -13.7833, lng: -172.4333 },
+    coords: [-172.4333, -13.7833],
     description: {
       de: "Papa ist bekannt für seine historischen Fundamente von traditionellen Wohnhäusern und sakralen Stätten. Es bietet Einblicke in die alte samoanische Gesellschaftsstruktur.",
       hu: "Papa a hagyományos lakóházak és szakrális helyek történelmi alapjairól ismert. Betekintést nyújt a régi szamoai társadalmi szerkezetbe.",
@@ -689,7 +689,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-vaisala-historic-mission-history-v2",
     type: "landmark",
     name: { de: "Historische Mission von Vaisala", hu: "Vaisala történelmi missziója", ro: "Misiunea istorică din Vaisala", en: "Vaisala Historic Mission" },
-    coordinates: { lat: -13.5167, lng: -172.6 },
+    coords: [-172.6, -13.5167],
     description: {
       de: "Vaisala war einer der frühen Standorte christlicher Missionare im Nordwesten von Savai'i. Die alten Kirchengebäude spiegeln den Einfluss der europäischen Architektur wider.",
       hu: "Vaisala a keresztény misszionáriusok egyik korai állomása volt Savai'i északnyugati részén. A régi templomépületek az európai építészet hatását tükrözik.",
@@ -708,7 +708,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-sataua-ancient-mounds-history-v2",
     type: "ruins",
     name: { de: "Hügel von Sataua", hu: "Sataua halmai", ro: "Tumulii din Sataua", en: "Sataua Ancient Mounds" },
-    coordinates: { lat: -13.4833, lng: -172.6833 },
+    coords: [-172.6833, -13.4833],
     description: {
       de: "Sataua beherbergt mehrere künstliche Erdhügel, die historisch für Zeremonien und als Wohnplätze der Elite genutzt wurden. Sie zeugen von der sozialen Hierarchie.",
       hu: "Sataua több mesterséges földhalomnak ad otthont, amelyeket történelmileg szertartásokhoz és az elit lakóhelyeként használtak. A társadalmi hierarchiáról tanúskodnak.",
@@ -727,7 +727,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-vailoa-star-mound-history-v2",
     type: "ruins",
     name: { de: "Vailoa-Sternhügel", hu: "Vailoa csillaghalom", ro: "Tumulul stelat din Vailoa", en: "Vailoa Star Mound" },
-    coordinates: { lat: -13.7333, lng: -172.3333 },
+    coords: [-172.3333, -13.7333],
     description: {
       de: "Dieser Sternhügel bei Vailoa ist ein Beispiel für die komplexe Steinarchitektur Samoas. Diese Plattformen dienten dem rituellen Fang von Pazifiktauben.",
       hu: "Ez a Vailoa melletti csillaghalom a szamoai komplex kőépítészet egyik példája. Ezek a platformok a csendes-óceáni galambok rituális befogására szolgáltak.",
@@ -746,7 +746,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-safotu-ancient-site-history-v2",
     type: "ruins",
     name: { de: "Antike Stätte von Safotu", hu: "Safotu ősi helyszíne", ro: "Situl antic din Safotu", en: "Safotu Ancient Site" },
-    coordinates: { lat: -13.4333, lng: -172.4 },
+    coords: [-172.4, -13.4333],
     description: {
       de: "In Safotu befinden sich bedeutende prähistorische Hausplattformen und Zeremonialplätze. Der Ort ist tief in der mündlichen Überlieferung Samoas verwurzelt.",
       hu: "Safotuban jelentős prehisztorikus házplatformok és szertartási helyek találhatók. A hely mélyen gyökerezik a szamoai szóbeli hagyományokban.",
@@ -765,7 +765,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-letolo-plantation-mound-history-v2",
     type: "ruins",
     name: { de: "Hügel der Letolo-Plantage", hu: "Letolo ültetvény halma", ro: "Tumulul plantației Letolo", en: "Letolo Plantation Mound" },
-    coordinates: { lat: -13.75, lng: -172.3333 },
+    coords: [-172.3333, -13.75],
     description: {
       de: "Auf dem Gelände der Letolo-Plantage befinden sich zahlreiche archäologische Strukturen, darunter große Sternhügel. Sie belegen die dichte Besiedlung vor der Kolonialzeit.",
       hu: "A Letolo ültetvény területén számos régészeti struktúra található, köztük nagy csillaghalmok. A gyarmatosítás előtti sűrű benépesülést bizonyítják.",
@@ -784,7 +784,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-puapua-historic-mission-history-v2",
     type: "landmark",
     name: { de: "Historische Mission von Pu'apu'a", hu: "Pu'apu'a történelmi missziója", ro: "Misiunea istorică din Pu'apu'a", en: "Pu'apu'a Historic Mission" },
-    coordinates: { lat: -13.5667, lng: -172.2333 },
+    coords: [-172.2333, -13.5667],
     description: {
       de: "Pu'apu'a war ein bedeutender Stützpunkt der London Missionary Society auf Savai'i. Die Mission spielte eine Schlüsselrolle bei der Alphabetisierung der Bevölkerung.",
       hu: "Pu'apu'a a Londoni Missziós Társaság jelentős támaszpontja volt Savai'i szigetén. A misszió kulcsszerepet játszott a lakosság írástudásának terjesztésében.",
@@ -803,7 +803,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-sasina-mound-history-v2",
     type: "ruins",
     name: { de: "Sasina-Hügel", hu: "Sasina-halom", ro: "Tumulul din Sasina", en: "Sasina Mound" },
-    coordinates: { lat: -13.4667, lng: -172.4833 },
+    coords: [-172.4833, -13.4667],
     description: {
       de: "In der Nähe von Sasina befinden sich Überreste von zeremoniellen Steinplattformen. Sie sind Teil der reichen archäologischen Landschaft im Norden von Savai'i.",
       hu: "Sasina közelében szertartási kőplatformok maradványai találhatók. Savai'i északi részének gazdag régészeti tájképének részei.",
@@ -822,7 +822,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falelima-historic-site-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte von Falelima", hu: "Falelima történelmi helyszíne", ro: "Situl istoric din Falelima", en: "Falelima Historic Site" },
-    coordinates: { lat: -13.6333, lng: -172.7667 },
+    coords: [-172.7667, -13.6333],
     description: {
       de: "Falelima an der Westküste von Savai'i besitzt bedeutende Ruinen aus der Vorkolonialzeit. Der Ort wird mit frühen Wanderungsbewegungen innerhalb Samoas verknüpft.",
       hu: "A Savai'i nyugati partján fekvő Falelima jelentős gyarmatosítás előtti romokkal rendelkezik. A helyet a Szamoán belüli korai vándorlásokkal hozzák összefüggésbe.",
@@ -841,7 +841,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-tufutafoe-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Tufutafoe", hu: "Tufutafoe romjai", ro: "Ruinele din Tufutafoe", en: "Tufutafoe Ruins" },
-    coordinates: { lat: -13.5167, lng: -172.7833 },
+    coords: [-172.7833, -13.5167],
     description: {
       de: "Die Ruinen bei Tufutafoe umfassen antike Steinwälle und Plattformen. Sie markieren die äußerste Grenze der menschlichen Besiedlung im Westen Samoas.",
       hu: "A Tufutafoe melletti romok ősi kőfalakat és platformokat tartalmaznak. Az emberi betelepülés legszélső határát jelölik Nyugat-Szamoán.",
@@ -860,7 +860,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-church-ruins-history-v2",
     type: "ruins",
     name: { de: "Alte Kirche von Malua", hu: "Malua régi temploma", ro: "Biserica veche din Malua", en: "Old Malua Church" },
-    coordinates: { lat: -13.806, lng: -171.856 },
+    coords: [-171.856, -13.806],
     description: {
       de: "Überreste der ursprünglichen Missionskirche von Malua, die im 19. Jahrhundert errichtet wurde. Sie zeugt von der frühen architektonischen Arbeit der Missionare.",
       hu: "A Malua eredeti missziós templomának maradványai, amelyet a 19. században emeltek. A misszionáriusok korai építészeti munkájáról tanúskodik.",
@@ -879,7 +879,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-wharf-history-v2",
     type: "port",
     name: { de: "Alter Kai von Apia", hu: "Apia régi rakpartja", ro: "Vechiul debarcader din Apia", en: "Apia Old Wharf" },
-    coordinates: { lat: -13.83, lng: -171.7667 },
+    coords: [-171.7667, -13.83],
     description: {
       de: "Der historische Kai von Apia war im 19. Jahrhundert der wichtigste Knotenpunkt für den Handel in Samoa. Er war Schauplatz bedeutender kolonialer Ereignisse.",
       hu: "Apia történelmi rakpartja a 19. században Szamoa legfontosabb kereskedelmi csomópontja volt. Jelentős gyarmati események helyszíne volt.",
@@ -898,7 +898,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mulinuu-german-monument-history-v2",
     type: "monument",
     name: { de: "Deutsches Reichsflaggen-Denkmal", hu: "Német birodalmi zászló emlékmű", ro: "Monumentul steagului imperial german", en: "German Imperial Flag Monument" },
-    coordinates: { lat: -13.824, lng: -171.784 },
+    coords: [-171.784, -13.824],
     description: {
       de: "Dieses spezifische Denkmal markiert die Stelle, an der 1900 die deutsche Reichsflagge offiziell gehisst wurde. Es erinnert an den Beginn der deutschen Kolonialzeit.",
       hu: "Ez a konkrét emlékmű azt a helyet jelöli, ahol 1900-ban hivatalosan felvonták a német birodalmi zászlót. A német gyarmati korszak kezdetére emlékeztet.",
@@ -917,7 +917,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-tamasese-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Tupua Tamasese", hu: "Tupua Tamasese sírja", ro: "Mormântul lui Tupua Tamasese", en: "Tomb of Tupua Tamasese" },
-    coordinates: { lat: -13.8252, lng: -171.7838 },
+    coords: [-171.7838, -13.8252],
     description: {
       de: "Die Grabanlage für Tupua Tamasese Lealofi III., den Anführer der Mau-Bewegung. Er ist ein nationaler Märtyrer, der für die Unabhängigkeit Samoas starb.",
       hu: "Tupua Tamasese Lealofi III, a Mau mozgalom vezetőjének síremléke. Nemzeti mártír, aki Szamoa függetlenségéért áldozta életét.",
@@ -936,7 +936,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-memorial-church-history-v2",
     type: "cathedral",
     name: { de: "Malua-Gedächtniskirche", hu: "Malua emléktemplom", ro: "Biserica Memorială Malua", en: "Malua Memorial Church" },
-    coordinates: { lat: -13.805, lng: -171.855 },
+    coords: [-171.855, -13.805],
     description: {
       de: "Diese imposante Kirche in Malua erinnert an die Missionare, die das Christentum nach Samoa brachten. Sie ist ein architektonisches Wahrzeichen an der Küste.",
       hu: "Ez az impozáns malua-i templom a misszionáriusokra emlékeztet, akik elhozták a kereszténységet Szamoára. A tengerpart egyik építészeti nevezetessége.",
@@ -955,7 +955,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mulinuu-observatory-history-v2",
     type: "landmark",
     name: { de: "Historisches Observatorium von Apia", hu: "Apia történelmi obszervatóriuma", ro: "Observatorul istoric din Apia", en: "Apia Historic Observatory" },
-    coordinates: { lat: -13.8117, lng: -171.7833 },
+    coords: [-171.7833, -13.8117],
     description: {
       de: "Gegründet 1902 von deutschen Wissenschaftlern, war dies eine der wichtigsten Forschungsstationen für Geophysik im Pazifik. Es lieferte wichtige Daten über Erdbeben.",
       hu: "A német tudósok által 1902-ben alapított intézet a Csendes-óceán egyik legfontosabb geofizikai kutatóállomása volt. Fontos adatokat szolgáltatott a földrengésekről.",
@@ -974,7 +974,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falemauga-caves-refuge-history-v2",
     type: "ruins",
     name: { de: "Falemauga-Zufluchtshöhlen", hu: "Falemauga-óvóhelybarlangok", ro: "Peșterile de refugiu Falemauga", en: "Falemauga Refuge Caves" },
-    coordinates: { lat: -13.916, lng: -171.816 },
+    coords: [-171.816, -13.916],
     description: {
       de: "Diese Höhlen boten über Jahrhunderte Schutz vor kriegerischen Stämmen. Im Inneren befinden sich steinerne Schlafplattformen und Herdstellen.",
       hu: "Ezek a barlangok évszázadokon át nyújtottak védelmet a harcias törzsek elől. Belül kőből készült alvóplatformok és tűzhelyek találhatók.",
@@ -993,7 +993,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-lepa-historical-well-history-v2",
     type: "landmark",
     name: { de: "Historischer Brunnen von Lepa", hu: "Lepa történelmi kútja", ro: "Fântâna istorică din Lepa", en: "Lepa Historical Well" },
-    coordinates: { lat: -14.033, lng: -171.517 },
+    coords: [-171.517, -14.033],
     description: {
       de: "Ein alter, aus Korallenstein errichteter Brunnen in Lepa, der einst die einzige Süßwasserquelle des Dorfes war. Er ist ein Denkmal für die dörfliche Gemeinschaftsarbeit.",
       hu: "Egy régi, korallkőből épült kút Lepában, amely valaha a falu egyetlen édesvízforrása volt. A falusi közösségi munka emlékhelye.",
@@ -1012,7 +1012,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-vailele-plantation-history-v2",
     type: "industry",
     name: { de: "Historische Vailele-Plantage", hu: "Vailele történelmi ültetvény", ro: "Plantația istorică Vailele", en: "Vailele Historic Plantation" },
-    coordinates: { lat: -13.84, lng: -171.73 },
+    coords: [-171.73, -13.84],
     description: {
       de: "Vailele war eine der größten deutschen Kopra-Plantagen im Pazifik. Die historischen Strukturen zeigen die wirtschaftliche Bedeutung Samoas um 1900.",
       hu: "Vailele a Csendes-óceán egyik legnagyobb német kopraültetvénye volt. A történelmi építmények Szamoa 1900 körüli gazdasági jelentőségét mutatják.",
@@ -1031,7 +1031,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-post-office-history-v2",
     type: "landmark",
     name: { de: "Altes Postamt von Apia", hu: "Apia régi postahivatala", ro: "Vechiul oficiu poștal din Apia", en: "Apia Old Post Office" },
-    coordinates: { lat: -13.8325, lng: -171.768 },
+    coords: [-171.768, -13.8325],
     description: {
       de: "Ein bedeutendes Gebäude aus der frühen Kolonialzeit, das die Kommunikationswege Samoas mit der Welt sicherstellte. Es ist ein klassisches Beispiel pazifischer Kolonialarchitektur.",
       hu: "A korai gyarmati korszak jelentős épülete, amely biztosította Szamoa kommunikációját a világgal. A pazifikumi gyarmati építészet klasszikus példája.",
@@ -1050,7 +1050,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-historic-library-history-v2",
     type: "museum",
     name: { de: "Historische Bibliothek von Malua", hu: "Malua történelmi könyvtára", ro: "Biblioteca istorică din Malua", en: "Malua Historic Library" },
-    coordinates: { lat: -13.8052, lng: -171.8562 },
+    coords: [-171.8562, -13.8052],
     description: {
       de: "Die Bibliothek beherbergt seltene Dokumente zur Missionsgeschichte und samoanischen Kultur des 19. Jahrhunderts. Sie ist eine wichtige Forschungsstätte für Historiker.",
       hu: "A könyvtár ritka dokumentumokat őriz a missziótörténetről és a 19. századi szamoai kultúráról. A történészek számára fontos kutatóhely.",
@@ -1069,7 +1069,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-salelologa-historic-pier-history-v2",
     type: "port",
     name: { de: "Historischer Pier von Salelologa", hu: "Salelologa történelmi mólója", ro: "Debarcaderul istoric din Salelologa", en: "Salelologa Historic Pier" },
-    coordinates: { lat: -13.7333, lng: -172.2167 },
+    coords: [-172.2167, -13.7333],
     description: {
       de: "Dieser Pier war über Generationen die Hauptverbindung zwischen den Inseln Upolu und Savai'i. Er ist ein Symbol für die Mobilität der samoanischen Bevölkerung.",
       hu: "Ez a móló generációkon át volt a fő összeköttetés Upolu és Savai'i szigetei között. A szamoai lakosság mobilitásának jelképe.",
@@ -1088,7 +1088,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-lufilufi-ancient-well-history-v2",
     type: "landmark",
     name: { de: "Antiker Brunnen von Lufilufi", hu: "Lufilufi ősi kútja", ro: "Fântâna antică din Lufilufi", en: "Lufilufi Ancient Well" },
-    coordinates: { lat: -13.883, lng: -171.6 },
+    coords: [-171.6, -13.883],
     description: {
       de: "Ein historischer, in Stein gefasster Brunnen in Lufilufi, der eng mit dem Tuia'ana-Titel verbunden ist. Er spielte eine Rolle bei zeremoniellen Waschungen.",
       hu: "Egy történelmi, kőbe foglalt kút Lufilufiban, amely szorosan kapcsolódik a Tuia'ana címhez. Szerepet játszott a szertartási mosdásokban.",
@@ -1107,7 +1107,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-maota-o-solosolo-history-v2",
     type: "landmark",
     name: { de: "Maota o Solosolo", hu: "Maota o Solosolo", ro: "Maota o Solosolo", en: "Maota o Solosolo" },
-    coordinates: { lat: -13.8833, lng: -171.6333 },
+    coords: [-171.6333, -13.8833],
     description: {
       de: "Der Versammlungsplatz von Solosolo ist ein historisch bedeutsamer Ort für politische Beratungen auf Upolu. Er wird bis heute für traditionelle Zeremonien genutzt.",
       hu: "Solosolo gyülekezőhelye történelmileg jelentős helyszín az Upolu-szigeti politikai tanácskozásokhoz. A mai napig használják hagyományos szertartásokhoz.",
@@ -1126,7 +1126,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falealupo-canopy-history-v2",
     type: "landmark",
     name: { de: "Falealupo-Baumwipfelpfad-Historie", hu: "Falealupo lombkoronasétány-történet", ro: "Istoria potecii suspendate din Falealupo", en: "Falealupo Canopy Walk History" },
-    coordinates: { lat: -13.5083, lng: -172.7833 },
+    coords: [-172.7833, -13.5083],
     description: {
       de: "Dieser Pfad wurde errichtet, um den Regenwald vor der Abholzung zu schützen. Er ist ein Denkmal für den modernen samoanischen Umweltschutz und Traditionserhalt.",
       hu: "Ez a sétány azért épült, hogy megvédje az esőerdőt a kitermeléstől. A modern szamoai környezetvédelem és a hagyományőrzés emlékműve.",
@@ -1145,7 +1145,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-mission-press-history-v2",
     type: "industry",
     name: { de: "Missionsdruckerei von Malua", hu: "Malua missziós nyomda", ro: "Tipografia misiunii din Malua", en: "Malua Mission Press" },
-    coordinates: { lat: -13.8055, lng: -171.8565 },
+    coords: [-171.8565, -13.8055],
     description: {
       de: "In Malua befand sich die erste bedeutende Druckerei Samoas. Hier wurden religiöse Texte und Lehrbücher in samoanischer Sprache produziert.",
       hu: "Maluában működött Szamoa első jelentős nyomdája. Itt szertartási szövegeket és szamoai nyelvű tankönyveket készítettek.",
@@ -1164,7 +1164,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-town-hall-history-v2",
     type: "landmark",
     name: { de: "Altes Rathaus von Apia", hu: "Apia régi városháza", ro: "Vechea primărie din Apia", en: "Apia Old Town Hall" },
-    coordinates: { lat: -13.831, lng: -171.765 },
+    coords: [-171.765, -13.831],
     description: {
       de: "Das alte Rathaus diente als ziviles Zentrum von Apia während der Zeit der neuseeländischen Verwaltung. Es ist ein Symbol für die städtische Entwicklung Samoas.",
       hu: "A régi városháza Apia polgári központjaként szolgált az új-zélandi közigazgatás idején. Szamoa városi fejlődésének jelképe.",
@@ -1183,7 +1183,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-theological-college-gates-history-v2",
     type: "landmark",
     name: { de: "Tore des Malua-Kollegs", hu: "A Malua Főiskola kapui", ro: "Porțile Colegiului Malua", en: "Malua College Gates" },
-    coordinates: { lat: -13.8058, lng: -171.8569 },
+    coords: [-171.8569, -13.8058],
     description: {
       de: "Die historischen Eingangstore des Malua Theological College sind ein Wahrzeichen der Region. Sie symbolisieren den Eintritt in eine Welt der Gelehrsamkeit.",
       hu: "A Malua Teológiai Főiskola történelmi bejárati kapui a régió egyik nevezetessége. A tudomány világába való belépést jelképezik.",
@@ -1202,7 +1202,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-asau-ancient-star-mound-history-v2",
     type: "ruins",
     name: { de: "Sternhügel von Asau", hu: "Asau csillaghalom", ro: "Tumulul stelat din Asau", en: "Asau Star Mound" },
-    coordinates: { lat: -13.52, lng: -172.63 },
+    coords: [-172.63, -13.52],
     description: {
       de: "Ein großer Sternhügel bei Asau, der auf die Bedeutung des Ortes in der Antike hinweist. Diese Steinstrukturen sind einzigartig für den samoanischen Adel.",
       hu: "Egy nagy csillaghalom Asau közelében, amely a hely ókori jelentőségére utal. Ezek a kőépítmények egyedülállóak a szamoai nemesség körében.",
@@ -1221,7 +1221,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-salelologa-market-history-v2",
     type: "landmark",
     name: { de: "Historischer Markt von Salelologa", hu: "Salelologa történelmi piaca", ro: "Piața istorică din Salelologa", en: "Salelologa Historic Market" },
-    coordinates: { lat: -13.735, lng: -172.215 },
+    coords: [-172.215, -13.735],
     description: {
       de: "Der Markt von Salelologa ist das pulsierende Zentrum des Handels auf Savai'i. Er blickt auf eine lange Tradition als Austauschort für ländliche Produkte zurück.",
       hu: "A salelologai piac Savai'i kereskedelmének lüktető központja. Hosszú múltra tekint vissza a vidéki termékek cserehelyeként.",
@@ -1240,7 +1240,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-tufutafoe-historical-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Tufutafoe", hu: "Tufutafoe történelmi falu", ro: "Satul istoric Tufutafoe", en: "Tufutafoe Historical Village" },
-    coordinates: { lat: -13.518, lng: -172.785 },
+    coords: [-172.785, -13.518],
     description: {
       de: "Tufutafoe bewahrt die traditionelle Lebensweise Samoas in einer abgelegenen Lage. Das Dorfbild ist geprägt von klassischen Strukturen und historischen Plätzen.",
       hu: "Tufutafoe megőrizte a hagyományos szamoai életmódot egy távoli helyszínen. A faluképet klasszikus struktúrák és történelmi terek határozzék meg.",
@@ -1259,7 +1259,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-theological-college-chapel-history-v2",
     type: "church",
     name: { de: "Kapelle des Malua-Kollegs", hu: "A Malua Főiskola kápolnája", ro: "Capela Colegiului Malua", en: "Malua College Chapel" },
-    coordinates: { lat: -13.8054, lng: -171.8564 },
+    coords: [-171.8564, -13.8054],
     description: {
       de: "Die zentrale Kapelle des Kollegs dient der täglichen Andacht der Studenten. Sie ist ein Ort der Ruhe und des Gebets mit historischer Bedeutung.",
       hu: "A főiskola központi kápolnája a hallgatók napi áhítatát szolgálja. A nyugalom és az imádság történelmi jelentőségű helye.",
@@ -1278,7 +1278,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mulinuu-traditional-fale-history-v2",
     type: "landmark",
     name: { de: "Traditioneller Fale von Mulinu'u", hu: "Mulinu'u hagyományos fále", ro: "Fale tradițional din Mulinu'u", en: "Mulinu'u Traditional Fale" },
-    coordinates: { lat: -13.8245, lng: -171.7825 },
+    coords: [-171.7825, -13.8245],
     description: {
       de: "Ein klassisches samoanisches Haus in Mulinu'u, das für hochrangige politische Treffen genutzt wird. Es verkörpert die Beständigkeit der traditionellen Bauweise.",
       hu: "Egy klasszikus szamoai ház Mulinu'u-ban, amelyet magas szintű politikai találkozókhoz használnak. A hagyományos építési mód állandóságát testesíti meg.",
@@ -1297,7 +1297,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-radio-station-history-v2",
     type: "landmark",
     name: { de: "Alte Radiostation von Apia", hu: "Apia régi rádióállomása", ro: "Vechea stație de radio din Apia", en: "Apia Old Radio Station" },
-    coordinates: { lat: -13.835, lng: -171.775 },
+    coords: [-171.775, -13.835],
     description: {
       de: "Die Radiostation 2AP war eine der ersten im Südpazifik und spielte eine wichtige Rolle bei der Information der Bevölkerung. Das Gebäude ist ein Zeitzeuge der Moderne.",
       hu: "A 2AP rádióállomás az elsők között volt a Dél-Pazifikumon, és fontos szerepet játszott a lakosság tájékoztatásában. Az épület a modernitás tanúja.",
@@ -1316,7 +1316,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-print-shop-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Malua-Druckerei", hu: "A Malua nyomda romjai", ro: "Ruinele tipografiei din Malua", en: "Malua Print Shop Ruins" },
-    coordinates: { lat: -13.8057, lng: -171.8567 },
+    coords: [-171.8567, -13.8057],
     description: {
       de: "Überreste der alten Druckwerkstatt in Malua, die den Grundstein für die samoanische Literatur legte. Die Ruinen zeigen die industrielle Vergangenheit der Mission.",
       hu: "A malua-i régi nyomdaműhely maradványai, amely megalapozta a szamoai irodalmat. A romok a misszió ipari múltját mutatják.",
@@ -1335,7 +1335,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-hospital-history-v2",
     type: "landmark",
     name: { de: "Altes Krankenhaus von Apia", hu: "Apia régi kórháza", ro: "Vechiul spital din Apia", en: "Apia Old Hospital" },
-    coordinates: { lat: -13.84, lng: -171.77 },
+    coords: [-171.77, -13.84],
     description: {
       de: "Das ursprüngliche Krankenhaus von Apia wurde während der Kolonialzeit errichtet, um die Gesundheitsversorgung zu modernisieren. Es ist ein Symbol für den sozialen Fortschritt.",
       hu: "Apia eredeti kórháza a gyarmati időkben épült az egészségügyi ellátás modernizálása érdekében. A társadalmi haladás jelképe.",
@@ -1354,7 +1354,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-mulinuu-chiefly-graveyard-history-v2",
     type: "monument",
     name: { de: "Häuptlingsfriedhof von Mulinu'u", hu: "Mulinu'u törzsfőnöki temető", ro: "Cimitirul șefilor din Mulinu'u", en: "Mulinu'u Chiefly Graveyard" },
-    coordinates: { lat: -13.824, lng: -171.782 },
+    coords: [-171.782, -13.824],
     description: {
       de: "Ein weitläufiger Friedhof in Mulinu'u, auf dem zahlreiche Generationen samoanischer Adeliger bestattet sind. Jedes Grab erzählt ein Stück Stammesgeschichte.",
       hu: "Egy kiterjedt temető Mulinu'u-ban, ahol a szamoai nemesség számos generációja nyugszik. Minden sír a törzsi történelem egy darabját meséli el.",
@@ -1373,7 +1373,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-falealupo-ancient-star-mound-history-v2",
     type: "ruins",
     name: { de: "Sternhügel von Falealupo", hu: "Falealupo csillaghalom", ro: "Tumulul stelat din Falealupo", en: "Falealupo Star Mound" },
-    coordinates: { lat: -13.505, lng: -172.785 },
+    coords: [-172.785, -13.505],
     description: {
       de: "Ein beeindruckender Sternhügel im tiefen Regenwald von Falealupo. Er ist eines der am besten erhaltenen Beispiele für diese Form der rituellen Architektur.",
       hu: "Egy lenyűgöző csillaghalom Falealupo mély esőerdejében. A szertartási építészet ezen formájának egyik legjobb állapotban fennmaradt példája.",
@@ -1392,7 +1392,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-library-history-v2",
     type: "landmark",
     name: { de: "Alte Bibliothek von Apia", hu: "Apia régi könyvtára", ro: "Vechea bibliotecă din Apia", en: "Apia Old Library" },
-    coordinates: { lat: -13.832, lng: -171.767 },
+    coords: [-171.767, -13.832],
     description: {
       de: "Die alte Bibliothek in Apia war über Jahrzehnte das Zentrum für Wissen und Forschung in Samoa. Das Gebäude ist ein Symbol für die koloniale Bildungspolitik.",
       hu: "Az apiai régi könyvtár évtizedeken át a tudás és a kutatás központja volt Szamoán. Az épület a gyarmati oktatáspolitika jelképe.",
@@ -1411,7 +1411,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-malua-historic-dormitories-history-v2",
     type: "landmark",
     name: { de: "Historische Wohnheime von Malua", hu: "Malua történelmi kollégiumai", ro: "Căminele istorice din Malua", en: "Malua Historic Dormitories" },
-    coordinates: { lat: -13.8051, lng: -171.8561 },
+    coords: [-171.8561, -13.8051],
     description: {
       de: "Die alten Wohngebäude der Theologiestudenten in Malua zeigen die gemeinschaftliche Lebensweise der frühen Missionare. Sie sind einfache, aber robuste Steinstrukturen.",
       hu: "A malua-i teológus hallgatók régi lakóépületei a korai misszionáriusok közösségi életmódját mutatják. Egyszerű, de robusztus kőépítmények.",
@@ -1430,7 +1430,7 @@ export const samoaHistoryV2: POI[] = [
     id: "samoa-apia-old-lighthouse-history-v2",
     type: "tower",
     name: { de: "Alter Leuchtturm von Apia", hu: "Apia régi világítótornya", ro: "Vechiul far din Apia", en: "Apia Old Lighthouse" },
-    coordinates: { lat: -13.82, lng: -171.77 },
+    coords: [-171.77, -13.82],
     description: {
       de: "Der ehemalige Leuchtturm von Apia sicherte die Einfahrt in den Hafen während der Kolonialzeit. Heute ist er ein maritimes Denkmal an der Uferpromenade.",
       hu: "Apia egykori világítótornya a gyarmati időkben biztosította a kikötőbe való belépést. Ma tengerészeti műemlék a vízparti sétányon.",

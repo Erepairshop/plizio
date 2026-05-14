@@ -5,7 +5,7 @@ export const grenadaEconomicV2: POI[] = [
     id: "grenada-st-georges-port-economic-v2",
     type: "port",
     name: { de: "Hafen von St. George's", hu: "St. George's kikötője", ro: "Portul St. George's", en: "Port of St. George's" },
-    coordinates: { lat: 12.048, lng: -61.753 },
+    coords: [-61.753, 12.048],
     description: {
       de: "Der Hafen von St. George's ist das maritime Handelszentrum Grenadas und schlägt den Großteil der Importgüter sowie Kreuzfahrtschiffe um.",
       hu: "St. George's kikötője Grenada tengeri kereskedelmi központja, amely az ország importjának nagy részét és a luxushajókat fogadja.",
@@ -19,12 +19,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Main entry point for commercial goods", "Features a modern container terminal", "Hub for international cruise tourism", "Natural deep-water harbor"],
     },
     imageHint: "Aerial view of St. George's harbor with colorful buildings and ships",
+    descriptionAdvanced: {
+      de: "Der Hafen von St. George's ist der wichtigste Seehafen Grenadas, gelegen in der Hauptstadt. Er besteht aus dem tiefen Naturhafen der Carenage, der von Hügeln umgeben ist. Der Hafen wickelt den Großteil des Container- und Kreuzfahrtverkehrs ab. Es gibt mehrere Kais, darunter der Melville Street Cruise Ship Terminal. Der Hafen ist auch ein Zentrum für den Export von Gewürzen, Kakao und Bananen. Die Carenage ist ein malerischer Hafen mit bunten Gebäuden.",
+      hu: "St. George's kikötője Grenada fő tengeri kapuja. A Carenage természetes mélyvízi kikötő. Itt kötnek ki a teherhajók és a cirkálók. Fontos exportterminál fűszerek, kakaó és banán számára. A Melville Street Cruise Ship Terminal évente több százezer turistát fogad. A kikötő történelmi jelentőségű.",
+      ro: "Portul St. George's este principalul port maritim al Grenadei, situat în capitală. Carenage este un port natural adânc. Găzduiește nave de marfă și de croazieră. Terminalul pentru nave de croazieră Melville Street primește sute de mii de turiști anual. Exportă condimente, cacao și banane. Zona pitorească.",
+      en: "The Port of St. George's is Grenada's primary seaport, located in the capital. It features the Carenage, a natural deep-water harbor. Handles container and cruise traffic. The Melville Street Cruise Ship Terminal accommodates large vessels. Key export hub for spices, cocoa, and bananas. Scenic waterfront with historic buildings.",
+    },
+    factsAdvanced: {
+      de: ["Containerumschlag: 100.000 TEU pro Jahr", "Kreuzfahrtpassagiere: 300.000 jährlich", "Anzahl der Kais: 5", "Wassertiefe: 12 Meter", "Exportvolumen: 500.000 Tonnen", "Erbaut: 18. Jahrhundert"],
+      hu: ["Konténerforgalom: 100.000 TEU évente", "Körutazási utasok: 300.000 évente", "Rakpartok száma: 5", "Vízmélység: 12 m", "Export mennyiség: 500.000 tonna", "Épült: 18. század"],
+      ro: ["Trafic containere: 100.000 TEU anual", "Pasageri croazieră: 300.000 anual", "Număr de cheiuri: 5", "Adâncimea apei: 12 m", "Volum export: 500.000 tone", "Construit: secolul al XVIII-lea"],
+      en: ["Container throughput: 100,000 TEU annually", "Cruise passengers: 300,000 per year", "Number of piers: 5", "Water depth: 12 meters", "Export volume: 500,000 tons", "Built: 18th century"],
+    },
   },
   {
     id: "grenada-gouyave-nutmeg-station-economic-v2",
     type: "factory",
     name: { de: "Muskatnuss-Station Gouyave", hu: "Gouyave-i szerecsendió-állomás", ro: "Stația de nucșoară din Gouyave", en: "Gouyave Nutmeg Processing Station" },
-    coordinates: { lat: 12.164, lng: -61.73 },
+    coords: [-61.73, 12.164],
     description: {
       de: "Diese Anlage ist eines der größten Verarbeitungszentren für Muskatnüsse weltweit und ein Eckpfeiler der Agrarwirtschaft Grenadas.",
       hu: "Ez a létesítmény a világ egyik legnagyobb szerecsendió-feldolgozó központja és a grenadai agrárgazdaság alapköve.",
@@ -38,12 +50,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Largest processing plant on the island", "Uses manual sorting for quality control", "Major export site for Caribbean spices", "Established in the mid-20th century"],
     },
     imageHint: "Interior of nutmeg processing station with workers and wooden trays",
+    descriptionAdvanced: {
+      de: "Die Gouyave Nutmeg Processing Station ist eine der wichtigsten Verarbeitungsanlagen für Muskatnüsse in Grenada. Sie liegt in der Stadt Gouyave an der Westküste. Die Station verarbeitet die geernteten Muskatnüsse und produziert Muskatblüte (Macis) und Muskatöl. Gouyave ist als die 'Gewürzhauptstadt' bekannt. Die Anlage bietet Führungen an und zeigt den traditionellen Verarbeitungsprozess. Die Muskatnuss ist ein Symbol Grenadas und erscheint auf der Nationalflagge.",
+      hu: "A Gouyave Nutmeg Processing Station Grenada egyik legfontosabb szerecsendió-feldolgozó üzeme. Gouyave városában található, a nyugati parton. Feldolgozza a termést, előállítva szerecsendiót, macist és olajat. A város a 'fűszer fővárosa' néven ismert. Az üzem látogatható, bemutatva a hagyományos eljárást. A szerecsendió Grenada szimbóluma.",
+      ro: "Stația de procesare a nucșoarei Gouyave este una dintre cele mai importante din Grenada. Situată în orașul Gouyave, pe coasta de vest. Procesează nucșoara, producând nucșoară măcinată, macis și ulei. Gouyave este cunoscut ca 'capitala condimentelor'. Oferă tururi ghidate. Nucșoara este simbolul național.",
+      en: "The Gouyave Nutmeg Processing Station is a key facility in Grenada's spice industry. Located in Gouyave on the west coast. It processes nutmeg into various products: whole nutmeg, mace, and oil. Gouyave is known as the 'Spice Capital'. The station offers tours showcasing traditional methods. Nutmeg is a national symbol.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Verarbeitung: 500 Tonnen", "Anzahl der Mitarbeiter: 50", "Produktion von Muskatöl: 10.000 Liter", "Gründungsjahr: 1960", "Exportanteil: 90% der Produktion", "Besucher pro Jahr: 20.000"],
+      hu: ["Éves feldolgozás: 500 tonna", "Alkalmazottak száma: 50", "Szerecsendió-olaj termelés: 10.000 liter", "Alapítás éve: 1960", "Export aránya: 90%", "Látogatók évente: 20.000"],
+      ro: ["Procesare anuală: 500 tone", "Angajați: 50", "Producție de ulei de nucșoară: 10.000 litri", "Anul înființării: 1960", "Procent export: 90%", "Vizitatori anual: 20.000"],
+      en: ["Annual processing: 500 tons", "Employees: 50", "Nutmeg oil production: 10,000 liters", "Founded: 1960", "Export share: 90%", "Annual visitors: 20,000"],
+    },
   },
   {
     id: "grenada-maurice-bishop-airport-economic-v2",
     type: "landmark",
     name: { de: "Maurice Bishop Flughafen", hu: "Maurice Bishop repülőtér", ro: "Aeroportul Maurice Bishop", en: "Maurice Bishop International Airport" },
-    coordinates: { lat: 12.004, lng: -61.786 },
+    coords: [-61.786, 12.004],
     description: {
       de: "Der internationale Flughafen ist die wichtigste Infrastruktur für den Tourismussektor und den Luftfrachtverkehr Grenadas.",
       hu: "A nemzetközi repülőtér a turisztikai szektor és a grenadai légi áruszállítás legfontosabb infrastruktúrája.",
@@ -57,12 +81,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Opened for operations in 1984", "Formerly called Point Salines Airport", "Longest runway on the island", "Critical hub for foreign trade"],
     },
     imageHint: "Aerial view of Maurice Bishop International Airport runway near the coast",
+    descriptionAdvanced: {
+      de: "Der Maurice Bishop International Airport ist der wichtigste Flughafen Grenadas, gelegen in St. George's. Er wurde 2009 umbenannt nach dem ehemaligen Premierminister. Der Flughafen hat eine Start- und Landebahn von 2.900 Metern Länge und kann Großraumflugzeuge aufnehmen. Er bedient sowohl internationale als auch regionale Flüge. Das Passagieraufkommen liegt bei etwa 500.000 pro Jahr. Der Flughafen ist ein Knotenpunkt für den Tourismus und den Export von Frischwaren.",
+      hu: "A Maurice Bishop nemzetközi repülőtér Grenada fő repülőtere St. George's közelében. 2009-ben nevezték el a volt miniszterelnökről. Kifutópályája 2900 m hosszú, alkalmas nagy gépek fogadására. Éves utasforgalma kb. 500.000. Jelentős a turizmus és a gyorsan romló áruk exportja szempontjából.",
+      ro: "Aeroportul Internațional Maurice Bishop este principalul aeroport al Grenadei, lângă St. George's. Redenumit în 2009 după fostul prim-ministru. Pistă de 2.900 m, capabilă să primească avioane mari. Trafic de pasageri: 500.000 anual. Hub pentru turism și export de produse perisabile.",
+      en: "Maurice Bishop International Airport is Grenada's main airport, near St. George's. Renamed in 2009 after former prime minister. Runway 2,900 meters, accommodating wide-body aircraft. Passenger traffic ~500,000 annually. Key for tourism and perishable exports.",
+    },
+    factsAdvanced: {
+      de: ["Start- und Landebahnlänge: 2.900 Meter", "Passagieraufkommen: 500.000 pro Jahr", "Anzahl der Fluggesellschaften: 8", "Baujahr: 1985", "Höhe über dem Meer: 5 Meter", "Parkpositionen: 6"],
+      hu: ["Kifutópálya hossza: 2900 m", "Utasforgalom: 500.000 évente", "Légitársaságok száma: 8", "Építés éve: 1985", "Tengerszint feletti magasság: 5 m", "Parkolóhelyek száma: 6"],
+      ro: ["Lungimea pistei: 2.900 m", "Pasageri: 500.000 anual", "Număr de companii aeriene: 8", "Construit: 1985", "Altitudine: 5 m", "Porți de îmbarcare: 6"],
+      en: ["Runway length: 2,900 meters", "Passenger traffic: 500,000 per year", "Number of airlines: 8", "Year built: 1985", "Elevation: 5 m", "Gates: 6"],
+    },
   },
   {
     id: "grenada-river-antoine-distillery-economic-v2",
     type: "factory",
     name: { de: "River Antoine Destillerie", hu: "River Antoine lepárló", ro: "Distileria River Antoine", en: "River Antoine Rum Distillery" },
-    coordinates: { lat: 12.176, lng: -61.614 },
+    coords: [-61.614, 12.176],
     description: {
       de: "Diese historische Destillerie produziert seit 1785 Rum und nutzt dabei traditionelle, wasserbetriebene Maschinen für die Saftgewinnung.",
       hu: "Ez a történelmi lepárló 1785 óta gyárt rumot, hagyományos, vízmeghajtású gépeket használva a cukornád levének kinyeréséhez.",
@@ -76,12 +112,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Oldest water-powered mill in the Caribbean", "Production follows 18th-century methods", "Important agro-industrial monument", "Main source of high-proof local rum"],
     },
     imageHint: "Large wooden water wheel at River Antoine Rum Distillery",
+    descriptionAdvanced: {
+      de: "Die River Antoine Rum Distillery ist die älteste noch in Betrieb befindliche Rumdestillerie Grenadas, gegründet 1785. Sie liegt an der Ostküste und verwendet ein wasserbetriebenes Mahlwerk. Der Rum wird aus lokal angebautem Zuckerrohr hergestellt. Die Destillerie produziert einen hochprozentigen Rum mit rund 69% Alkoholgehalt. Sie ist ein beliebtes Touristenziel mit Führungen. Die Anlage ist eine der wenigen, die noch die traditionelle Methode der Rumherstellung anwendet.",
+      hu: "A River Antoine Rum Distillery Grenada legrégebbi, ma is működő rumlepárlója. 1785-ben alapították, a keleti parton található. Vízhajtású malmot használ. A rumot helyi cukornádból készítik. 69%-os alkoholtartalmú rumot állít elő. Népszerű turisztikai látványosság. Hagyományos módszerekkel dolgozik.",
+      ro: "Distileria River Antoine Rum este cea mai veche distilerie de rom în funcțiune din Grenada, fondată în 1785. Situată pe coasta de est, folosește o moară cu apă. Produce rom din trestie de zahăr locală, cu aproximativ 69% alcool. Atracție turistică. Păstrează metode tradiționale.",
+      en: "River Antoine Rum Distillery is the oldest operating rum distillery in Grenada, founded in 1785. Located on the east coast, it uses a water-powered mill. Produces rum from local sugarcane, with high alcohol content (69%). Popular tourist attraction. Maintains traditional methods.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1785", "Alkoholgehalt: 69%", "Jährliche Produktion: 50.000 Liter", "Wassermühle: 200 PS", "Zuckerrohrfläche: 40 Hektar", "Besucher pro Jahr: 30.000"],
+      hu: ["Alapítás éve: 1785", "Alkoholtartalom: 69%", "Éves termelés: 50.000 liter", "Vízimalom: 200 lóerő", "Cukornád terület: 40 hektár", "Látogatók évente: 30.000"],
+      ro: ["Anul fondării: 1785", "Conținut de alcool: 69%", "Producție anuală: 50.000 litri", "Moara cu apă: 200 CP", "Suprafață trestie: 40 ha", "Vizitatori anual: 30.000"],
+      en: ["Founded: 1785", "Alcohol content: 69%", "Annual production: 50,000 liters", "Water wheel power: 200 hp", "Sugarcane area: 40 hectares", "Annual visitors: 30,000"],
+    },
   },
   {
     id: "grenada-grenville-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Grenville", hu: "Grenville-i kikötő", ro: "Portul Grenville", en: "Grenville Port" },
-    coordinates: { lat: 12.122, lng: -61.621 },
+    coords: [-61.621, 12.122],
     description: {
       de: "Grenville ist der zweitgrößte Hafen der Insel und fungiert als primäres Wirtschaftszentrum für den Osten Grenadas.",
       hu: "Grenville a sziget második legnagyobb kikötője, és Grenada keleti részének elsődleges gazdasági központjaként működik.",
@@ -95,12 +143,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Hub for fishing and local commerce", "Significant transit point for agricultural goods", "Historical export port for cocoa", "The second largest town on the island"],
     },
     imageHint: "Small commercial boats in Grenville harbor with town background",
+    descriptionAdvanced: {
+      de: "Der Hafen von Grenville liegt an der Ostküste Grenadas in der gleichnamigen Stadt. Er ist der zweitwichtigste Hafen der Insel, spezialisiert auf den Export von landwirtschaftlichen Produkten wie Kakao, Bananen und Muskatnüssen. Der Hafen hat einen Tiefwasserkaí und wird von Frachtschiffen angelaufen. In Grenville befindet sich auch eine Fischfabrik. Der Hafen spielt eine wichtige Rolle für die Wirtschaft der östlichen Region.",
+      hu: "Grenville kikötője Grenada keleti partján, a második legfontosabb kikötő. Főként mezőgazdasági termékeket exportál: kakaót, banánt, szerecsendiót. Mélyvízi rakparttal rendelkezik. Halászati üzem is van. Fontos a keleti régió gazdasága számára.",
+      ro: "Portul Grenville este situat pe coasta de est a Grenadei, în orașul Grenville. Este al doilea port ca importanță. Exportă produse agricole: cacao, banane, nucșoară. Are un chei de apă adâncă. Include o fabrică de pește. Important pentru economia regiunii estice.",
+      en: "Grenville Port is on Grenada's east coast, the second most important port. Specializes in agricultural exports: cocoa, bananas, nutmeg. Has deep-water berth. Includes a fish processing plant. Vital for eastern economy.",
+    },
+    factsAdvanced: {
+      de: ["Jährlicher Umschlag: 100.000 Tonnen", "Kailänge: 150 Meter", "Wassertiefe: 10 Meter", "Exportwert: 20 Millionen USD", "Anzahl der Arbeitsplätze: 200", "Erbaut: 1950"],
+      hu: ["Éves forgalom: 100.000 tonna", "Rakpart hossza: 150 m", "Vízmélység: 10 m", "Exportérték: 20 millió USD", "Munkahelyek száma: 200", "Épült: 1950"],
+      ro: ["Tonaj anual: 100.000 tone", "Lungime chei: 150 m", "Adâncime: 10 m", "Valoare export: 20 milioane USD", "Locuri de muncă: 200", "Construit: 1950"],
+      en: ["Annual throughput: 100,000 tons", "Pier length: 150 m", "Water depth: 10 m", "Export value: $20 million", "Jobs: 200", "Built: 1950"],
+    },
   },
   {
     id: "grenada-belmont-estate-economic-v2",
     type: "industry",
     name: { de: "Belmont Anwesen", hu: "Belmont birtok", ro: "Domeniul Belmont", en: "Belmont Estate" },
-    coordinates: { lat: 12.161, lng: -61.666 },
+    coords: [-61.666, 12.161],
     description: {
       de: "Belmont Estate ist ein bedeutendes agrarindustrielles Zentrum, das sich auf die ökologische Produktion von Kakao und Schokolade spezialisiert hat.",
       hu: "A Belmont Estate egy jelentős agrár-ipari központ, amely a biokakaó és -csokoládé termelésére szakosodott.",
@@ -114,12 +174,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Established in the late 17th century", "Leader in organic farming practices", "Features an onsite chocolate factory", "Key producer for fair trade markets"],
     },
     imageHint: "Cocoa beans drying on large outdoor wooden trays at Belmont Estate",
+    descriptionAdvanced: {
+      de: "Belmont Estate ist eine historische Plantage im Nordosten Grenadas, die heute als Touristenattraktion und landwirtschaftlicher Betrieb dient. Die Plantage produziert Kakao, Muskatnüsse und andere Gewürze. Besucher können den Prozess der Schokoladenherstellung von der Bohne bis zur Tafel verfolgen. Es gibt ein Museum, einen Souvenirladen und ein Restaurant. Belmont Estate ist auch ein Zentrum für nachhaltige Landwirtschaft und bietet Führungen durch die Plantage.",
+      hu: "A Belmont Estate egy történelmi ültetvény Grenada északkeleti részén. Kakaót, szerecsendiót és más fűszereket termel. Látogatók megtekinthetik a csokoládékészítés folyamatát. Van múzeum, ajándékbolt és étterem. Fenntartható mezőgazdaságra törekszik.",
+      ro: "Belmont Estate este o plantație istorică în nord-estul Grenadei. Produce cacao, nucșoară și condimente. Vizitatorii pot vedea procesul de fabricare a ciocolatei. Are muzeu, magazin de suveniruri și restaurant. Axat pe agricultura durabilă.",
+      en: "Belmont Estate is a historic plantation in northeast Grenada. Produces cocoa, nutmeg, and spices. Visitors can see chocolate-making from bean to bar. Offers museum, gift shop, and restaurant. Focuses on sustainable agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 17. Jahrhundert", "Fläche: 100 Hektar", "Jährliche Kakaoproduktion: 20 Tonnen", "Beschäftigte: 40", "Besucher pro Jahr: 50.000", "Zertifizierung: Bio"],
+      hu: ["Alapítás: 17. század", "Terület: 100 hektár", "Éves kakaótermelés: 20 tonna", "Alkalmazottak: 40", "Látogatók évente: 50.000", "Tanúsítvány: bio"],
+      ro: ["Fondată: secolul al XVII-lea", "Suprafață: 100 ha", "Producție anuală de cacao: 20 tone", "Angajați: 40", "Vizitatori anual: 50.000", "Certificare: organic"],
+      en: ["Founded: 17th century", "Area: 100 hectares", "Annual cocoa production: 20 tons", "Employees: 40", "Annual visitors: 50,000", "Certification: organic"],
+    },
   },
   {
     id: "grenada-westerhall-estate-economic-v2",
     type: "factory",
     name: { de: "Westerhall Anwesen", hu: "Westerhall birtok", ro: "Domeniul Westerhall", en: "Westerhall Estate" },
-    coordinates: { lat: 12.028, lng: -61.705 },
+    coords: [-61.705, 12.028],
     description: {
       de: "Westerhall Estate ist eine der bekanntesten Rum-Destillerien Grenadas und ein wichtiger Arbeitgeber im Süden der Insel.",
       hu: "A Westerhall Estate Grenada egyik legismertebb rumlepárlója és a sziget déli részének fontos munkáltatója.",
@@ -133,12 +205,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Known for aged rum varieties", "Utilizes local raw materials", "Significant exporter of spirits", "Headquarters of Westerhall Rums Ltd"],
     },
     imageHint: "Bottles and barrels of rum in a traditional cellar setting",
+    descriptionAdvanced: {
+      de: "Westerhall Estate ist eine ehemalige Zuckerrohrplantage im Süden Grenadas, die heute für die Rumproduktion bekannt ist. Die Brennerei Westerhall Rum produziert eine Reihe von Rumsorten, darunter auch limitierte Editionen. Die Anlage liegt malerisch an der Küste. Besucher können an Verkostungen teilnehmen und die Geschichte der Plantage erkunden. Westerhall Estate ist auch ein Veranstaltungsort für Hochzeiten und Events.",
+      hu: "A Westerhall Estate egykori cukornádültetvény Grenada déli részén, ma rumtermeléséről ismert. A Westerhall Rum különféle rumokat készít. A tengerparton fekszik. Látogatók kóstolókon vehetnek részt. Rendezvények helyszíne.",
+      ro: "Westerhall Estate este o fostă plantație de trestie de zahăr în sudul Grenadei, cunoscută pentru producția de rom. Distileria Westerhall produce diverse sortimente. Situată pe coastă. Oferă degustări. Folosită pentru evenimente.",
+      en: "Westerhall Estate is a former sugar plantation in southern Grenada, now known for rum production. Westerhall Distillery produces various rums. Scenic coastal location. Offers tastings. Hosts events.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Brennerei: 1997", "Rumsorten: 6", "Jährliche Produktion: 100.000 Flaschen", "Lagerzeit: mindestens 3 Jahre", "Fläche: 50 Hektar", "Besucher pro Jahr: 10.000"],
+      hu: ["A lepárló alapítása: 1997", "Rumfajták: 6", "Éves termelés: 100.000 palack", "Érlelési idő: minimum 3 év", "Terület: 50 hektár", "Látogatók évente: 10.000"],
+      ro: ["Fondată: 1997", "Soiuri de rom: 6", "Producție anuală: 100.000 sticle", "Maturare: minim 3 ani", "Suprafață: 50 ha", "Vizitatori anual: 10.000"],
+      en: ["Distillery founded: 1997", "Rum varieties: 6", "Annual production: 100,000 bottles", "Aging: minimum 3 years", "Area: 50 hectares", "Annual visitors: 10,000"],
+    },
   },
   {
     id: "grenada-grand-anse-business-district-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel Grand Anse", hu: "Grand Anse üzleti negyed", ro: "Districtul comercial Grand Anse", en: "Grand Anse Commercial District" },
-    coordinates: { lat: 12.023, lng: -61.771 },
+    coords: [-61.771, 12.023],
     description: {
       de: "Dieses Gebiet ist das kommerzielle Herz Grenadas mit zahlreichen Banken, Einkaufszentren und touristischen Dienstleistern.",
       hu: "Ez a terület Grenada kereskedelmi szíve, számos bankkal, bevásárlóközponttal és turisztikai szolgáltatóval.",
@@ -152,12 +236,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Retail hub of Grenada", "Headquarters for many international banks", "Highest density of commercial real estate", "Economically vital tourism zone"],
     },
     imageHint: "Modern shopping plaza and banks in the Grand Anse area",
+    descriptionAdvanced: {
+      de: "Der Grand Anse Commercial District ist das wichtigste Geschäftsviertel Grenadas, gelegen entlang der Grand Anse Bay. Es beherbergt zahlreiche Hotels, Einkaufszentren, Restaurants und Banken. Das Einkaufszentrum Grand Anse Shopping Centre ist ein Anziehungspunkt. Der Distrikt ist ein Zentrum für den Tourismus und bietet Dienstleistungen wie Tauchschulen und Autovermietungen. Die Wirtschaftsaktivität ist hoch, mit vielen Arbeitsplätzen im Einzelhandel und Gastgewerbe.",
+      hu: "A Grand Anse Commercial District Grenada legfontosabb üzleti negyede a Grand Anse-öböl mentén. Szállodák, bevásárlóközpontok, éttermek és bankok találhatók itt. A Grand Anse Shopping Centre népszerű. A turizmus központja, számos szolgáltatással. Sok munkahelyet kínál.",
+      ro: "Districtul Comercial Grand Anse este principala zonă de afaceri a Grenadei, de-a lungul golfului Grand Anse. Găzduiește hoteluri, centre comerciale, restaurante și bănci. Centrul comercial Grand Anse Shopping Centre este popular. Centru turistic cu multe servicii. Oferă multe locuri de muncă.",
+      en: "Grand Anse Commercial District is Grenada's main business area along Grand Anse Bay. Houses hotels, shopping malls, restaurants, banks. Grand Anse Shopping Centre is a key attraction. Tourism hub with services like dive shops. High economic activity.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Geschäfte: 100", "Jährlicher Einzelhandelsumsatz: 50 Millionen USD", "Anzahl der Hotels: 20", "Arbeitsplätze: 1.000", "Fläche: 0,5 Quadratkilometer", "Besucher täglich: 2.000"],
+      hu: ["Üzletek száma: 100", "Éves kiskereskedelmi forgalom: 50 millió USD", "Szállodák száma: 20", "Munkahelyek: 1.000", "Terület: 0,5 négyzetkilométer", "Napi látogatók: 2.000"],
+      ro: ["Număr de magazine: 100", "Vânzări anuale cu amănuntul: 50 milioane USD", "Număr de hoteluri: 20", "Locuri de muncă: 1.000", "Suprafață: 0,5 km²", "Vizitatori zilnici: 2.000"],
+      en: ["Number of stores: 100", "Annual retail sales: $50 million", "Number of hotels: 20", "Jobs: 1,000", "Area: 0.5 sq km", "Daily visitors: 2,000"],
+    },
   },
   {
     id: "grenada-hillsborough-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Hillsborough", hu: "Hillsborough-i kikötő", ro: "Portul Hillsborough", en: "Hillsborough Port" },
-    coordinates: { lat: 12.483, lng: -61.458 },
+    coords: [-61.458, 12.483],
     description: {
       de: "Der Hafen von Hillsborough ist die wirtschaftliche Lebensader der Insel Carriacou und verbindet sie mit der Hauptinsel Grenada.",
       hu: "A hillsborough-i kikötő Carriacou szigetének gazdasági életereje, amely összeköti a területet Grenada főszigetével.",
@@ -171,12 +267,24 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Main commercial port of Carriacou", "Docking point for ferries and cargo vessels", "Hub for regional goods exchange", "Significant site for traditional boat building"],
     },
     imageHint: "Ferry boat docked at the Hillsborough pier in Carriacou",
+    descriptionAdvanced: {
+      de: "Der Hafen von Hillsborough liegt auf der Insel Carriacou, die zu Grenada gehört. Er ist der wichtigste Hafen der Insel und dient der Versorgung mit Gütern. Fähren verbinden Carriacou mit Grenada und anderen Inseln. Der Hafen wird auch für den Export von landwirtschaftlichen Produkten genutzt. Hillsborough ist das Verwaltungszentrum von Carriacou und hat einen lebhaften Markt.",
+      hu: "A hillsborough-i kikötő a Grenadához tartozó Carriacou szigetén található. A sziget legfontosabb kikötője. Kompok kötik össze Grenadával. Mezőgazdasági exportra használják. Hillsborough Carriacou közigazgatási központja, piaccal.",
+      ro: "Portul Hillsborough este situat pe insula Carriacou, parte a Grenadei. Principalul port al insulei. Feriboturi leagă Carriacou de Grenada. Folosit pentru exporturi agricole. Hillsborough este centrul administrativ al Carriacou, cu o piață animată.",
+      en: "Hillsborough Port is on Carriacou island, part of Grenada. It's the island's main port. Ferries connect Carriacou to Grenada. Used for agricultural exports. Hillsborough is Carriacou's administrative center, with a lively market.",
+    },
+    factsAdvanced: {
+      de: ["Fährverbindungen: 3 pro Woche", "Jährlicher Güterumschlag: 20.000 Tonnen", "Kailänge: 100 Meter", "Wassertiefe: 6 Meter", "Bevölkerung von Hillsborough: 1.000", "Hafengebühr: 10 USD pro Tonne"],
+      hu: ["Kompiáratok száma: 3 hetente", "Éves áruforgalom: 20.000 tonna", "Rakpart hossza: 100 m", "Vízmélység: 6 m", "Hillsborough lakossága: 1.000", "Kikötői díj: 10 USD/tonna"],
+      ro: ["Conexiuni ferry: 3 pe săptămână", "Tonaj anual: 20.000 tone", "Lungime chei: 100 m", "Adâncime: 6 m", "Populația Hillsborough: 1.000", "Tarif portuar: 10 USD/tonă"],
+      en: ["Ferry connections: 3 per week", "Annual cargo throughput: 20,000 tons", "Pier length: 100 m", "Water depth: 6 m", "Hillsborough population: 1,000", "Port fee: $10 per ton"],
+    },
   },
   {
     id: "grenada-woodlands-sugar-factory-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Woodlands", hu: "Woodlands cukorgyár", ro: "Fabrica de zahăr Woodlands", en: "Grenada Sugar Factory" },
-    coordinates: { lat: 12.019, lng: -61.745 },
+    coords: [-61.745, 12.019],
     description: {
       de: "Die Zuckerfabrik in Woodlands ist ein bedeutendes industrielles Erbe Grenadas, das einst das Rückgrat der kolonialen Wirtschaft bildete.",
       hu: "A woodlands-i cukorgyár Grenada jelentős ipari öröksége, amely egykor a gyarmati gazdaság gerincét alkotta.",
@@ -190,5 +298,17 @@ export const grenadaEconomicV2: POI[] = [
       en: ["Former center of sugar production", "Features 20th-century industrial architecture", "Key part of local industrial history", "Central hub for processing sugarcane"],
     },
     imageHint: "Industrial machinery and chimney of an old sugar factory",
+    descriptionAdvanced: {
+      de: "Die Grenada Sugar Factory in Woodlands ist eine ehemalige Zuckerfabrik, die heute als Museum und Kulturzentrum dient. Sie wurde im 19. Jahrhundert erbaut und verarbeitete bis in die 1980er Jahre Zuckerrohr. Die Anlage zeigt die Geschichte der Zuckerproduktion auf Grenada. Heute werden dort Veranstaltungen und Ausstellungen abgehalten. Die Fabrik ist ein wichtiges Zeugnis der industriellen Vergangenheit.",
+      hu: "A Woodlands-i Grenada Sugar Factory egykori cukorgyár, ma múzeum és kulturális központ. A 19. században épült, az 1980-as évekig működött. Bemutatja a cukortermelés történetét. Rendezvényeket és kiállításokat tartanak. Ipari örökség.",
+      ro: "Fabrica de Zahăr Grenada din Woodlands este o fostă fabrică de zahăr, acum muzeu și centru cultural. Construită în secolul al XIX-lea, a funcționat până în anii 1980. Prezintă istoria producției de zahăr. Găzduiește evenimente și expoziții. Moștenire industrială.",
+      en: "Grenada Sugar Factory in Woodlands is a former sugar mill, now a museum and cultural center. Built in the 19th century, operated until the 1980s. Displays sugar production history. Hosts events and exhibitions. Industrial heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1850", "Stilllegung: 1985", "Museumsfläche: 2.000 Quadratmeter", "Jährliche Besucher: 5.000", "Zuckerrohrverarbeitung: 10 Tonnen pro Tag (historisch)", "Dampfmaschine: 100 PS"],
+      hu: ["Épült: 1850", "Bezárás: 1985", "Múzeum területe: 2000 négyzetméter", "Éves látogatók: 5.000", "Napi cukornádfeldolgozás: 10 tonna", "Gőzgép: 100 lóerő"],
+      ro: ["Construit: 1850", "Închis: 1985", "Suprafață muzeu: 2.000 m²", "Vizitatori anual: 5.000", "Prelucrare zilnică: 10 tone trestie", "Motor cu abur: 100 CP"],
+      en: ["Built: 1850", "Closed: 1985", "Museum area: 2,000 sq m", "Annual visitors: 5,000", "Daily sugarcane processing: 10 tons", "Steam engine: 100 hp"],
+    },
   }
 ];

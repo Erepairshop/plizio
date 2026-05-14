@@ -5,7 +5,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-pohnpei-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Pohnpei", hu: "Pohnpei kikötője", ro: "Portul Pohnpei", en: "Port of Pohnpei" },
-    coordinates: { lat: 6.9845, lng: 158.2105 },
+    coords: [158.2105, 6.9845],
     description: {
       de: "Der Hafen von Pohnpei auf der Insel Dekehtik ist das wichtigste maritime Tor des Landes. Er schlägt den Großteil der internationalen Containerfracht um.",
       hu: "Pohnpei kikötője az ország legnagyobb tengeri kapuja a Dekehtik-szigeten. Ez a létesítmény kezeli a nemzetközi konténerforgalom jelentős részét.",
@@ -24,7 +24,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-weno-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Weno", hu: "Weno kikötője", ro: "Portul Weno", en: "Port of Weno" },
-    coordinates: { lat: 7.4498, lng: 151.8475 },
+    coords: [151.8475, 7.4498],
     description: {
       de: "Der Hafen von Weno ist das wirtschaftliche Zentrum des Bundesstaates Chuuk. Er dient als lebenswichtige Versorgungsader für die bevölkerungsreichen Inseln.",
       hu: "Weno kikötője Chuuk állam gazdasági központja és fő ellátóútvonala. Alapvető fontosságú a sűrűn lakott szigetek áruellátása szempontjából.",
@@ -43,7 +43,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-yap-state-port-economic-v2",
     type: "port",
     name: { de: "Yap Staats-Hafen", hu: "Yap állami kikötő", ro: "Portul de Stat Yap", en: "Yap State Port" },
-    coordinates: { lat: 9.5102, lng: 138.1248 },
+    coords: [138.1248, 9.5102],
     description: {
       de: "Der Hafen von Yap in Colonia ist die einzige Tiefwasseranlage des Bundesstaates. Er ermöglicht den direkten Handel mit Asien und den Nachbarinseln.",
       hu: "A Colonia városában található Yap kikötő az állam egyetlen mélyvízi létesítménye. Lehetővé teszi a közvetlen kereskedelmet Ázsiával.",
@@ -62,7 +62,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-kosrae-port-economic-v2",
     type: "port",
     name: { de: "Lelu Hafen (Kosrae)", hu: "Lelu kikötő (Kosrae)", ro: "Portul Lelu (Kosrae)", en: "Lelu Port (Kosrae)" },
-    coordinates: { lat: 5.3345, lng: 163.0245 },
+    coords: [163.0245, 5.3345],
     description: {
       de: "Lelu Port ist der wichtigste Wirtschaftsknotenpunkt der Insel Kosrae. Die Anlage ist entscheidend für den Import von Lebensmitteln und Treibstoff.",
       hu: "A Lelu kikötő Kosrae szigetének legfontosabb gazdasági csomópontja. A létesítmény döntő jelentőségű az élelmiszer- és üzemanyagimportban.",
@@ -81,7 +81,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-pohnpei-coconut-economic-v2",
     type: "factory",
     name: { de: "Kokosnuss-Verarbeitungswerk", hu: "Kókuszfeldolgozó üzem", ro: "Fabrica de procesare a cocosului", en: "Coconut Processing Plant" },
-    coordinates: { lat: 6.9698, lng: 158.2112 },
+    coords: [158.2112, 6.9698],
     description: {
       de: "Dieses Werk wird von der Pohnpei Coconut Development Authority betrieben. Es ist das Zentrum der lokalen Produktion von Speiseöl und Seifen.",
       hu: "Ezt az üzemet a Pohnpei Kókuszfejlesztési Hatóság üzemelteti. Ez a központja a helyi étolaj- és szappangyártásnak.",
@@ -100,7 +100,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-kolonia-commerce-economic-v2",
     type: "town",
     name: { de: "Kolonia Geschäftsviertel", hu: "Kolonia üzleti negyed", ro: "Districtul comercial Kolonia", en: "Kolonia Business District" },
-    coordinates: { lat: 6.9642, lng: 158.2085 },
+    coords: [158.2085, 6.9642],
     description: {
       de: "Kolonia ist das wichtigste Handelszentrum von Pohnpei. Hier konzentrieren sich Banken, Importgeschäfte und die Hauptsitze nationaler Unternehmen.",
       hu: "Kolonia Pohnpei legfontosabb kereskedelmi központja. Itt koncentrálódnak a bankok, az importboltok és a nemzeti vállalatok székhelyei.",
@@ -119,7 +119,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-national-fisheries-economic-v2",
     type: "industry",
     name: { de: "Nationale Fischereigesellschaft", hu: "Nemzeti Halászati Társaság", ro: "Compania Națională de Pescuit", en: "National Fisheries Corporation" },
-    coordinates: { lat: 6.9125, lng: 158.1842 },
+    coords: [158.1842, 6.9125],
     description: {
       de: "Die NFC verwaltet die kommerziellen Fischereiinteressen des Landes. Sie ist verantwortlich für die Nutzung der riesigen exklusiven Wirtschaftszone.",
       hu: "Az NFC kezeli az ország kereskedelmi halászati érdekeit. Felelős a hatalmas exkluzív gazdasági övezet erőforrásainak kihasználásáért.",
@@ -138,7 +138,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-colonia-commerce-yap-economic-v2",
     type: "town",
     name: { de: "Handelszentrum Colonia", hu: "Colonia kereskedelmi központ", ro: "Centrul comercial Colonia", en: "Colonia Commercial Center" },
-    coordinates: { lat: 9.5125, lng: 138.1272 },
+    coords: [138.1272, 9.5125],
     description: {
       de: "Dies ist das wirtschaftliche Herz von Yap, wo der traditionelle und moderne Handel aufeinandertreffen. Hier befinden sich die wichtigsten Märkte der Insel.",
       hu: "Ez Yap gazdasági szíve, ahol a hagyományos és a modern kereskedelem találkozik. Itt találhatók a sziget legfontosabb piacai.",
@@ -157,7 +157,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-weno-commerce-economic-v2",
     type: "city",
     name: { de: "Weno Geschäftszentrum", hu: "Weno üzleti központ", ro: "Centrul de afaceri Weno", en: "Weno Business Center" },
-    coordinates: { lat: 7.4472, lng: 151.8462 },
+    coords: [151.8462, 7.4472],
     description: {
       de: "Weno ist das dichtest besiedelte Handelszentrum der Föderierten Staaten von Mikronesien. Es dient als Hauptknotenpunkt für den Einzelhandel in Chuuk.",
       hu: "Weno a Mikronéziai Szövetségi Államok legsűrűbben lakott kereskedelmi központja. A kiskereskedelem fő csomópontja Chuuk államban.",
@@ -176,7 +176,7 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-tofol-center-economic-v2",
     type: "town",
     name: { de: "Tofol Wirtschaftszentrum", hu: "Tofol gazdasági központ", ro: "Centrul economic Tofol", en: "Tofol Economic Hub" },
-    coordinates: { lat: 5.3282, lng: 163.0035 },
+    coords: [163.0035, 5.3282],
     description: {
       de: "Tofol ist das administrative und wirtschaftliche Zentrum des Bundesstaates Kosrae. Hier werden die staatlichen Finanzen und Wirtschaftsprojekte verwaltet.",
       hu: "Tofol Kosrae állam adminisztratív és gazdasági központja. Itt kezelik az állami pénzügyeket és a gazdasági projekteket.",

@@ -5,7 +5,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-fort-teremba-history-v2",
     type: "fort",
     name: { de: "Fort Teremba", hu: "Fort Teremba", ro: "Fort Teremba", en: "Fort Teremba" },
-    coordinates: { lat: -21.7247, lng: 165.7139 },
+    coords: [165.7139, -21.7247],
     description: {
       de: "Eine ehemalige Militärfestung und Strafanstalt in Moindou, die 1871 errichtet wurde. Sie diente während des Aufstands von 1878 als wichtiges Verteidigungszentrum.",
       hu: "Eredetileg 1871-ben épült katonai erőd és börtön Moindou közelében. Az 1878-as felkelés idején fontos védelmi központként szolgált.",
@@ -24,7 +24,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-cathedrale-saint-joseph-history-v2",
     type: "cathedral",
     name: { de: "Kathedrale Saint-Joseph", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
-    coordinates: { lat: -22.2711, lng: 166.4439 },
+    coords: [166.4439, -22.2711],
     description: {
       de: "Die römisch-katholische Kathedrale in Nouméa wurde zwischen 1887 und 1897 erbaut. Sie ist ein Wahrzeichen der Stadt mit zwei markanten Türmen.",
       hu: "Nouméa római katolikus székesegyháza 1887 és 1897 között épült. A város jelképe két jellegzetes tornyával.",
@@ -43,7 +43,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-phare-amedee-history-v2",
     type: "tower",
     name: { de: "Amedee-Leuchtturm", hu: "Amédée-világítótorony", ro: "Farul Amédée", en: "Amedee Lighthouse" },
-    coordinates: { lat: -22.4772, lng: 166.4678 },
+    coords: [166.4678, -22.4772],
     description: {
       de: "Ein historischer Metallleuchtturm auf der Insel Amédée, der 1865 in Betrieb genommen wurde. Er war einer der ersten Metallleuchttürme der Welt.",
       hu: "Az Amédée-szigeten található történelmi fém világítótorony, amelyet 1865-ben helyeztek üzembe. A világ egyik első fém világítótornya volt.",
@@ -62,7 +62,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-prony-village-history-v2",
     type: "ruins",
     name: { de: "Prony-Dorf", hu: "Prony falu", ro: "Satul Prony", en: "Prony Village" },
-    coordinates: { lat: -22.3194, lng: 166.8208 },
+    coords: [166.8208, -22.3194],
     description: {
       de: "Gegründet 1867 als Forstcamp und später Teil der Strafkolonie. Heute sind dort überwucherte Ruinen und alte Eisenminenanlagen zu sehen.",
       hu: "1867-ben alapították fakitermelő tábor néven, később a büntetőtelep része lett. Ma benőtt romok és régi vasbányászati eszközök láthatók.",
@@ -81,7 +81,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-balade-mission-history-v2",
     type: "church",
     name: { de: "Mission von Balade", hu: "Balade misszió", ro: "Misiunea de la Balade", en: "Balade Mission" },
-    coordinates: { lat: -20.3014, lng: 164.4842 },
+    coords: [164.4842, -20.3014],
     description: {
       de: "Der Ort der ersten französischen Landung im Jahr 1843 und die erste katholische Mission der Insel. Ein bedeutender Ort für die Kolonialgeschichte.",
       hu: "Az 1843-as első francia partraszállás helyszíne és a sziget első katolikus missziója. A gyarmati történelem egyik legfontosabb helyszíne.",
@@ -100,7 +100,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-maison-celieres-history-v2",
     type: "palace",
     name: { de: "Maison Célières", hu: "Célières-ház", ro: "Casa Célières", en: "Maison Celieres" },
-    coordinates: { lat: -22.2756, lng: 166.4528 },
+    coords: [166.4528, -22.2756],
     description: {
       de: "Ein hervorragend erhaltenes Beispiel kolonialer Architektur aus dem Jahr 1898 in Nouméa. Es dient heute als Haus für Buchkultur und Literatur.",
       hu: "A gyarmati építészet kiválóan megőrzött példája 1898-ból Nouméában. Ma a könyvkultúra és az irodalom házaként működik.",
@@ -119,7 +119,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-bourail-nz-cemetery-history-v2",
     type: "monument",
     name: { de: "Neuseeland-Kriegsfriedhof Bourail", hu: "Bouraili új-zélandi katonai temető", ro: "Cimitirul de Război din Noua Zeelandă Bourail", en: "Bourail New Zealand War Cemetery" },
-    coordinates: { lat: -21.5742, lng: 165.4856 },
+    coords: [165.4856, -21.5742],
     description: {
       de: "Ein Commonwealth-Kriegsfriedhof für Soldaten, die während des Zweiten Weltkriegs im Pazifik fielen. Ein Ort des stillen Gedenkens und der Ehre.",
       hu: "Brit Nemzetközösségi katonai temető a második világháború csendes-óceáni hadszínterén elesett katonák számára. A megemlékezés és tisztelet helye.",
@@ -138,7 +138,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-lapita-site-kone-history-v2",
     type: "ruins",
     name: { de: "Lapita-Ausgrabungsstätte", hu: "Lapita régészeti lelőhely", ro: "Situl arheologic Lapita", en: "Lapita Archaeological Site" },
-    coordinates: { lat: -21.0911, lng: 164.8144 },
+    coords: [164.8144, -21.0911],
     description: {
       de: "Die Fundstätte an der Foué-Halbinsel gab der Lapita-Kultur ihren Namen. Hier wurden charakteristische Keramikscherben aus der Zeit um 1000 v. Chr. gefunden.",
       hu: "A Foué-félszigeten található lelőhely adta a Lapita-kultúra nevét. Itt találtak jellegzetes cseréptöredékeket i. e. 1000 körülről.",
@@ -157,7 +157,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-chateau-hagen-history-v2",
     type: "palace",
     name: { de: "Schloss Hagen", hu: "Hagen-kastély", ro: "Castelul Hagen", en: "Hagen Castle" },
-    coordinates: { lat: -22.2797, lng: 166.4428 },
+    coords: [166.4428, -22.2797],
     description: {
       de: "Ein prächtiges Anwesen in Nouméa, das zwischen 1889 und 1892 erbaut wurde. Es ist heute ein kulturelles Zentrum für Ausstellungen und Konzerte.",
       hu: "Nouméa egyik pompás birtoka, amely 1889 és 1892 között épült. Ma kiállítások és koncertek kulturális központja.",
@@ -176,7 +176,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-bagnes-ile-des-pins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Gefängnisses auf der Insel Pins", hu: "Fenyő-szigeti börtönromok", ro: "Ruinele închisorii de pe Insula Pinilor", en: "Isle of Pines Prison Ruins" },
-    coordinates: { lat: -22.6617, lng: 167.4439 },
+    coords: [167.4439, -22.6617],
     description: {
       de: "Überreste einer Strafkolonie aus dem 19. Jahrhundert, in der politische Gefangene der Pariser Kommune interniert waren. Ein melancholischer Ort der Geschichte.",
       hu: "19. századi büntetőtelep maradványai, ahol a Párizsi Kommün politikai foglyait tartották fogva. A történelem melankolikus helyszíne.",
@@ -195,7 +195,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-biblio-bernheim-history-v2",
     type: "monument",
     name: { de: "Bernheim-Bibliothek", hu: "Bernheim Könyvtár", ro: "Biblioteca Bernheim", en: "Bernheim Library" },
-    coordinates: { lat: -22.2725, lng: 166.4411 },
+    coords: [166.4411, -22.2725],
     description: {
       de: "Ein prächtiges Gebäude im Kolonialstil in Nouméa, das 1901 eingeweiht wurde. Es war ursprünglich der Pavillon von Neukaledonien auf der Weltausstellung in Paris.",
       hu: "Nouméa pompás gyarmati stílusú épülete, amelyet 1901-ben avattak fel. Eredetileg Új-Kaledónia pavilonja volt a párizsi világkiállításon.",
@@ -214,7 +214,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-thio-mine-museum-history-v2",
     type: "museum",
     name: { de: "Bergbaumuseum Thio", hu: "Thio Bányászati Múzeum", ro: "Muzeul Mineritului din Thio", en: "Thio Mining Museum" },
-    coordinates: { lat: -21.6117, lng: 166.2167 },
+    coords: [166.2167, -21.6117],
     description: {
       de: "Untergebracht im ehemaligen Bürogebäude der Bergbaugesellschaft SLN, dokumentiert dieses Museum die über 100-jährige Nickelabbaugeschichte der Region.",
       hu: "Az SLN bányatársaság egykori irodaépületében helyet kapó múzeum a régió több mint 100 éves nikkelbányászati múltját dokumentálja.",
@@ -233,7 +233,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-poya-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Petroglyphen von Poya", hu: "Poyai sziklarajzok", ro: "Petroglifele de la Poya", en: "Poya Petroglyphs" },
-    coordinates: { lat: -21.3508, lng: 165.1528 },
+    coords: [165.1528, -21.3508],
     description: {
       de: "Antike Felsritzungen in der Nähe von Poya, die von den frühen Bewohnern der Insel stammen. Sie stellen oft geheimnisvolle Symbole und geometrische Muster dar.",
       hu: "Poya közelében található ősi sziklavésetek, amelyeket a sziget korai lakói készítettek. Gyakran titokzatos szimbólumokat és mértani mintákat ábrázolnak.",
@@ -252,7 +252,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-oubatche-historic-site-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte Oubatche", hu: "Oubatche történelmi helyszín", ro: "Situl istoric Oubatche", en: "Oubatche Historic Site" },
-    coordinates: { lat: -20.4339, lng: 164.6339 },
+    coords: [164.6339, -20.4339],
     description: {
       de: "Einst ein blühender Handelshafen an der Nordostküste im späten 19. Jahrhundert. Heute zeugen nur noch Ruinen von seiner einstigen Bedeutung.",
       hu: "A 19. század végén virágzó kereskedelmi kikötő volt az északkeleti parton. Ma már csak romok tanúskodnak egykori jelentőségéről.",
@@ -271,7 +271,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-arab-cemetery-nessadiou-history-v2",
     type: "monument",
     name: { de: "Arabischer Friedhof von Nessadiou", hu: "Nessadioui arab temető", ro: "Cimitirul arab din Nessadiou", en: "Arab Cemetery of Nessadiou" },
-    coordinates: { lat: -21.6114, lng: 165.5136 },
+    coords: [165.5136, -21.6114],
     description: {
       de: "Ein Friedhof für algerische Häftlinge und deren Nachkommen, die im 19. Jahrhundert deportiert wurden. Ein Zeugnis der multikulturellen Geschichte.",
       hu: "A 19. században deportált algériai foglyok és leszármazottaik temetője. A sziget multikulturális történelmének fontos emléke.",
@@ -290,7 +290,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-fort-anse-vata-history-v2",
     type: "fort",
     name: { de: "Fort von Anse Vata", hu: "Anse Vata-erőd", ro: "Fortul din Anse Vata", en: "Fort of Anse Vata" },
-    coordinates: { lat: -22.3014, lng: 166.4428 },
+    coords: [166.4428, -22.3014],
     description: {
       de: "Eine ehemalige Militäranlage in Nouméa, die Ende des 19. Jahrhunderts zum Schutz der Bucht errichtet wurde. Heute dient das Gelände Erholungszwecken.",
       hu: "Nouméa egykori katonai létesítménye, amelyet a 19. század végén építettek az öböl védelmére. Ma a terület rekreációs célokat szolgál.",
@@ -309,7 +309,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-puebo-mission-history-v2",
     type: "church",
     name: { de: "Mission von Pouébo", hu: "Pouébo misszió", ro: "Misiunea de la Pouébo", en: "Pouébo Mission" },
-    coordinates: { lat: -20.3958, lng: 164.5772 },
+    coords: [164.5772, -20.3958],
     description: {
       de: "Eine historische katholische Mission, die 1847 gegründet wurde. Sie war Schauplatz wichtiger religiöser und politischer Ereignisse in der Frühzeit der Kolonialisierung.",
       hu: "1847-ben alapított történelmi katolikus misszió. Fontos vallási és politikai események színhelye volt a gyarmatosítás korai szakaszában.",
@@ -328,7 +328,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-anse-du-tir-history-v2",
     type: "port",
     name: { de: "Anse du Tir", hu: "Anse du Tir", ro: "Anse du Tir", en: "Anse du Tir" },
-    coordinates: { lat: -22.2617, lng: 166.4389 },
+    coords: [166.4389, -22.2617],
     description: {
       de: "Das historische Hafen- und Industrieviertel von Nouméa, in dem die ersten Werkstätten und Verwaltungsgebäude der Stadt entstanden.",
       hu: "Nouméa történelmi kikötői és ipari negyede, ahol a város első műhelyei és közigazgatási épületei létrejöttek.",
@@ -347,7 +347,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-semaphore-noumea-history-v2",
     type: "tower",
     name: { de: "Sémaphore von Nouméa", hu: "Nouméai szemafor", ro: "Semaforul din Nouméa", en: "Semaphore of Nouméa" },
-    coordinates: { lat: -22.2619, lng: 166.4464 },
+    coords: [166.4464, -22.2619],
     description: {
       de: "Eine historische Signalstation auf einem Hügel über Nouméa, die der Überwachung des Schiffsverkehrs diente. Ein Symbol für die maritime Geschichte.",
       hu: "Nouméa feletti dombon található történelmi jelzőállomás, amely a hajóforgalom felügyeletére szolgált. A tengerészeti múlt szimbóluma.",
@@ -366,7 +366,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-vaillon-dore-estates-history-v2",
     type: "palace",
     name: { de: "Historische Güter von Vallon-Dore", hu: "Vallon-Dore történelmi birtokai", ro: "Domeniile istorice din Vallon-Dore", en: "Vallon-Dore Historic Estates" },
-    coordinates: { lat: -22.2817, lng: 166.5811 },
+    coords: [166.5811, -22.2817],
     description: {
       de: "Ein Gebiet in der Gemeinde Mont-Dore, das für seine alten kolonialen Anwesen und landwirtschaftlichen Pioniere bekannt ist. Ein Blick in das Landleben des 19. Jahrhunderts.",
       hu: "Mont-Dore község területe, amely régi gyarmati birtokairól és mezőgazdasági úttörőiről ismert. Betekintést nyújt a 19. századi vidéki életbe.",
@@ -385,7 +385,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-paita-pioneers-history-v2",
     type: "village",
     name: { de: "Pionierviertel von Païta", hu: "Païtai úttörőnegyed", ro: "Cartierul pionierilor din Païta", en: "Païta Pioneer District" },
-    coordinates: { lat: -22.1311, lng: 166.3622 },
+    coords: [166.3622, -22.1311],
     description: {
       de: "Païta ist bekannt für seine Geschichte als erste große Siedlung außerhalb von Nouméa. Hier ließen sich im 19. Jahrhundert viele europäische Bauern nieder.",
       hu: "Païta Nouméán kívüli első jelentős településként ismert. A 19. században sok európai gazdálkodó telepedett le itt.",
@@ -404,7 +404,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-dumbea-dam-history-v2",
     type: "industry",
     name: { de: "Dumbéa-Staudamm (Historisch)", hu: "Dumbéa-gát (történelmi)", ro: "Barajul Dumbéa (Istoric)", en: "Dumbea Dam (Historic)" },
-    coordinates: { lat: -22.1439, lng: 166.4811 },
+    coords: [166.4811, -22.1439],
     description: {
       de: "Der alte Staudamm von Dumbéa war das erste große Infrastrukturprojekt zur Wasserversorgung von Nouméa im späten 19. Jahrhundert.",
       hu: "Dumbéa régi gátja volt az első jelentős infrastrukturális projekt Nouméa vízellátásának biztosítására a 19. század végén.",
@@ -423,7 +423,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-yate-old-village-history-v2",
     type: "village",
     name: { de: "Altes Dorf von Yaté", hu: "Yaté régi faluja", ro: "Satul vechi din Yaté", en: "Yaté Old Village" },
-    coordinates: { lat: -22.1417, lng: 166.9311 },
+    coords: [166.9311, -22.1417],
     description: {
       de: "Ein historisches Fischerdorf an der Südostküste, das Schauplatz früher europäischer Kontakte und der industriellen Entwicklung durch Wasserkraft war.",
       hu: "Történelmi halászfalu a délkeleti parton, amely a korai európai kapcsolatok és a vízienergia-fejlesztés helyszíne volt.",
@@ -442,7 +442,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-canala-mine-history-v2",
     type: "mine",
     name: { de: "Canala-Minenregion", hu: "Canala bányavidék", ro: "Regiunea minieră Canala", en: "Canala Mining Region" },
-    coordinates: { lat: -21.5117, lng: 165.9528 },
+    coords: [165.9528, -21.5117],
     description: {
       de: "Diese Region im Zentrum der Insel war einer der ersten Orte, an denen Nickel entdeckt wurde, und prägte die Geschichte Neukaledoniens maßgeblich.",
       hu: "A sziget közepén található régió az egyik első hely volt, ahol nikkelt fedeztek fel, ami meghatározta Új-Kaledónia történelmét.",
@@ -461,7 +461,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-saint-louis-mission-history-v2",
     type: "church",
     name: { de: "Mission von Saint-Louis", hu: "Saint-Louis misszió", ro: "Misiunea Saint-Louis", en: "Saint-Louis Mission" },
-    coordinates: { lat: -22.2217, lng: 166.5511 },
+    coords: [166.5511, -22.2217],
     description: {
       de: "Gegründet 1856, war diese Mission ein wichtiges religiöses und landwirtschaftliches Zentrum. Sie spielte eine zentrale Rolle bei der Ansiedlung von Melanesiern.",
       hu: "1856-ban alapították, fontos vallási és mezőgazdasági központ volt. Központi szerepet játszott a melanéziaiak letelepítésében.",
@@ -480,7 +480,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-place-cocotiers-history-v2",
     type: "park",
     name: { de: "Place des Cocotiers", hu: "Place des Cocotiers", ro: "Place des Cocotiers", en: "Place des Cocotiers" },
-    coordinates: { lat: -22.2714, lng: 166.4417 },
+    coords: [166.4417, -22.2714],
     description: {
       de: "Der historische Hauptplatz im Zentrum von Nouméa, der seit dem 19. Jahrhundert der soziale Treffpunkt der Stadt ist. Berühmt für seinen Musikpavillon.",
       hu: "Nouméa központjának történelmi főtere, amely a 19. század óta a város társasági központja. Zenepavilonjáról híres.",
@@ -499,7 +499,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-kiosque-musique-history-v2",
     type: "monument",
     name: { de: "Musikpavillon von Nouméa", hu: "Nouméai zenepavilon", ro: "Chioșcul de muzică din Nouméa", en: "Noumea Bandstand" },
-    coordinates: { lat: -22.2711, lng: 166.4419 },
+    coords: [166.4419, -22.2711],
     description: {
       de: "Ein ikonischer schmiedeeiserner Musikpavillon auf der Place des Cocotiers, der 1879 von Sträflingen errichtet wurde. Ein Herzstück der Stadtgeschichte.",
       hu: "Ikonikus kovácsoltvas zenepavilon a Place des Cocotiers téren, amelyet 1879-ben fegyencek építettek. A várostörténet egyik központi eleme.",
@@ -518,7 +518,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-maritime-museum-history-v2",
     type: "museum",
     name: { de: "Schifffahrtsmuseum von Neukaledonien", hu: "Új-Kaledóniai Tengerészeti Múzeum", ro: "Muzeul Maritim al Noii Caledonii", en: "Maritime Museum of New Caledonia" },
-    coordinates: { lat: -22.2647, lng: 166.4367 },
+    coords: [166.4367, -22.2647],
     description: {
       de: "Das Museum in einem alten Gebäude am Hafen zeigt die maritime Geschichte, von der Entdeckung durch James Cook bis zu den Schiffswracks von La Pérouse.",
       hu: "A kikötő egy régi épületében található múzeum bemutatja a tengerészeti múltat James Cook felfedezésétől La Pérouse hajótöréséig.",
@@ -537,7 +537,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-world-war-2-museum-history-v2",
     type: "museum",
     name: { de: "Zweiter Weltkrieg Museum", hu: "Második Világháború Múzeuma", ro: "Muzeul celui de-al Doilea Război Mondial", en: "World War II Museum" },
-    coordinates: { lat: -22.2639, lng: 166.4389 },
+    coords: [166.4389, -22.2639],
     description: {
       de: "Das Museum ist in einer ehemaligen US-Militärbaracke (Quonset hut) untergebracht und zeigt die wichtige Rolle der Insel als US-Basis im Pazifik.",
       hu: "A múzeum egy korábbi amerikai katonai barakkban (Quonset hut) kapott helyet, bemutatva a sziget fontos szerepét amerikai bázisként.",
@@ -556,7 +556,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-monument-morts-history-v2",
     type: "monument",
     name: { de: "Gefallenen-Denkmal von Nouméa", hu: "Nouméai hősi emlékmű", ro: "Monumentul Eroilor din Nouméa", en: "Nouméa War Memorial" },
-    coordinates: { lat: -22.2742, lng: 166.4447 },
+    coords: [166.4447, -22.2742],
     description: {
       de: "Ein imposantes Denkmal zu Ehren der Neukaledonier, die in den beiden Weltkriegen für Frankreich kämpften. Ein zentraler Ort für nationale Zeremonien.",
       hu: "Impozáns emlékmű azon új-kaledóniaiak tiszteletére, akik a két világháborúban Franciaországért harcoltak. Nemzeti ünnepségek helyszíne.",
@@ -575,7 +575,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-quai-volontaires-history-v2",
     type: "port",
     name: { de: "Quai des Volontaires", hu: "Quai des Volontaires", ro: "Quai des Volontaires", en: "Volunteers Quay" },
-    coordinates: { lat: -22.2689, lng: 166.4361 },
+    coords: [166.4361, -22.2689],
     description: {
       de: "Der Kai in Nouméa, von dem aus die Freiwilligen des Pazifikbataillons 1941 aufbrachen, um für das freie Frankreich zu kämpfen. Ein Ort großen Stolzes.",
       hu: "Nouméa kikötője, ahonnan a Csendes-óceáni Zászlóalj önkéntesei 1941-ben elindultak, hogy a Szabad Franciaországért harcoljanak.",
@@ -594,7 +594,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-tontouta-airbase-history-v2",
     type: "industry",
     name: { de: "Historische Tontouta-Luftwaffenbasis", hu: "Tontouta történelmi légibázis", ro: "Baza aeriană istorică Tontouta", en: "Tontouta Historical Airbase" },
-    coordinates: { lat: -22.0156, lng: 166.2128 },
+    coords: [166.2128, -22.0156],
     description: {
       de: "Heute der internationale Flughafen, war Tontouta im Zweiten Weltkrieg eine massive Luftwaffenbasis der Alliierten für Operationen im Südpazifik.",
       hu: "Ma nemzetközi repülőtér, de a 2. világháborúban Tontouta hatalmas szövetséges légibázis volt a dél-csendes-óceáni hadműveletekhez.",
@@ -613,7 +613,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-route-territoriale-1-history-v2",
     type: "bridge",
     name: { de: "Historische Route Territoriale 1", hu: "Történelmi Route Territoriale 1", ro: "Drumul Teritorial istoric 1", en: "Historic Route Territoriale 1" },
-    coordinates: { lat: -21.8911, lng: 166.0422 },
+    coords: [166.0422, -21.8911],
     description: {
       de: "Die Hauptverkehrsader der Insel, deren Bau im 19. Jahrhundert begann. Sie folgt oft alten Pfaden der Kanak und Siedlerwege.",
       hu: "A sziget főútvonala, amelynek építése a 19. században kezdődött. Gyakran ősi kanak ösvényeket és telepes utakat követ.",
@@ -632,7 +632,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-koumac-old-village-history-v2",
     type: "village",
     name: { de: "Altes Dorf Koumac", hu: "Koumac régi faluja", ro: "Satul vechi Koumac", en: "Koumac Old Village" },
-    coordinates: { lat: -20.5614, lng: 164.2811 },
+    coords: [164.2811, -20.5614],
     description: {
       de: "Ein historisches Zentrum für den Bergbau und die Landwirtschaft im Norden. Hier sind noch alte Gebäude aus der Zeit des ersten Nickel-Booms zu finden.",
       hu: "Északi bányászati és mezőgazdasági központ. Itt még találhatók régi épületek az első nikkel-boom idejéből.",
@@ -651,7 +651,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-port-laguerre-station-history-v2",
     type: "industry",
     name: { de: "Forschungsstation Port-Laguerre", hu: "Port-Laguerre kutatóállomás", ro: "Stația de cercetare Port-Laguerre", en: "Port-Laguerre Research Station" },
-    coordinates: { lat: -22.1017, lng: 166.3011 },
+    coords: [166.3011, -22.1017],
     description: {
       de: "Ein historisches landwirtschaftliches Zentrum, das Ende des 19. Jahrhunderts gegründet wurde, um neue Nutzpflanzen für die Kolonie zu testen.",
       hu: "Történelmi mezőgazdasági központ, amelyet a 19. század végén alapítottak az új haszonnövények tesztelésére a gyarmaton.",
@@ -670,7 +670,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-puebo-cathedral-history-v2",
     type: "church",
     name: { de: "Kathedrale von Pouébo", hu: "Pouébói székesegyház", ro: "Catedrala din Pouébo", en: "Pouébo Cathedral" },
-    coordinates: { lat: -20.3917, lng: 164.5728 },
+    coords: [164.5728, -20.3917],
     description: {
       de: "Eine beeindruckende Steinkirche im Norden, die ein Denkmal für die christliche Geschichte und die Begegnung der Kulturen ist.",
       hu: "Lenyűgöző kőtemplom északon, amely a keresztény történelem és a kultúrák találkozásának emlékműve.",
@@ -689,7 +689,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-hienghene-cultural-history-v2",
     type: "village",
     name: { de: "Kulturhistorisches Hienghène", hu: "Hienghène kultúrtörténeti helyszín", ro: "Hienghène - istorie culturală", en: "Hienghene Cultural History" },
-    coordinates: { lat: -20.6811, lng: 164.9389 },
+    coords: [164.9389, -20.6811],
     description: {
       de: "Ein Ort von großer politischer und kultureller Bedeutung für die Kanak-Identität, bekannt als Heimat einflussreicher Führer wie Jean-Marie Tjibaou.",
       hu: "A kanak identitás számára nagy politikai és kulturális jelentőségű hely, Jean-Marie Tjibaouhoz hasonló befolyásos vezetők hazája.",
@@ -708,7 +708,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-magent-fort-history-v2",
     type: "fort",
     name: { de: "Magenta-Fort", hu: "Magenta-erőd", ro: "Fortul Magenta", en: "Magenta Fort" },
-    coordinates: { lat: -22.2517, lng: 166.4639 },
+    coords: [166.4639, -22.2517],
     description: {
       de: "Ein historisches Fort im heutigen Stadtteil Magenta von Nouméa, das im 19. Jahrhundert zur Verteidigung der Küste errichtet wurde.",
       hu: "Nouméa mai Magenta negyedében található történelmi erőd, amelyet a 19. században építettek a part védelmére.",
@@ -727,7 +727,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-ile-nou-prison-history-v2",
     type: "ruins",
     name: { de: "Gefängnis Île Nou", hu: "Île Nou börtön", ro: "Închisoarea Île Nou", en: "Ile Nou Prison" },
-    coordinates: { lat: -22.2681, lng: 166.4111 },
+    coords: [166.4111, -22.2681],
     description: {
       de: "Das Hauptquartier der neukaledonischen Strafkolonie. Diese Insel vor Nouméa beherbergte die wichtigsten Gefängnisbauten und Verwaltungen.",
       hu: "Az új-kaledóniai büntetőtelep központja. A Nouméa előtti szigeten kaptak helyet a legfontosabb börtönépületek és adminisztráció.",
@@ -746,7 +746,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-ducos-leper-colony-history-v2",
     type: "ruins",
     name: { de: "Leprastation auf der Ducos-Halbinsel", hu: "Ducos-félszigeti lepratelep", ro: "Leprozeria de pe peninsula Ducos", en: "Ducos Peninsula Leper Colony" },
-    coordinates: { lat: -22.2417, lng: 166.4167 },
+    coords: [166.4167, -22.2417],
     description: {
       de: "Ein Ort des Leidens und der Ausgrenzung, der im 19. Jahrhundert als Isolationsstation für Leprakranke auf der Ducos-Halbinsel diente.",
       hu: "A szenvedés és kirekesztés helye, amely a 19. században elkülönítő állomásként szolgált a leprások számára a Ducos-félszigeten.",
@@ -765,7 +765,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-briqueterie-plum-history-v2",
     type: "industry",
     name: { de: "Alte Ziegelei von Plum", hu: "Plumi régi téglagyár", ro: "Vechea fabrică de cărămidă din Plum", en: "Plum Old Brickworks" },
-    coordinates: { lat: -22.2814, lng: 166.6311 },
+    coords: [166.6311, -22.2814],
     description: {
       de: "Die Überreste einer Ziegelei aus dem 19. Jahrhundert in der Nähe von Plum, die das Material für viele koloniale Gebäude in Nouméa lieferte.",
       hu: "Plum közelében található 19. századi téglagyár maradványai, amely sok nouméai gyarmati épülethez biztosította az alapanyagot.",
@@ -784,7 +784,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-deva-archaeology-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Deva", hu: "Deva régészeti lelőhely", ro: "Situl arheologic Deva", en: "Deva Archaeological Site" },
-    coordinates: { lat: -21.5117, lng: 165.3428 },
+    coords: [165.3428, -21.5117],
     description: {
       de: "In der Deva-Domäne wurden bedeutende Funde aus der prähistorischen Zeit und der frühen Besiedlungsgeschichte der Kanak gemacht.",
       hu: "A Deva-birtokon jelentős leleteket találtak a történelem előtti időkből és a kanakok korai betelepülésének idejéből.",
@@ -803,7 +803,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-troisieme-cave-ww2-history-v2",
     type: "ruins",
     name: { de: "Grotte de la Troisième (WWII)", hu: "Grotte de la Troisième (2. vh.)", ro: "Grotte de la Troisième (Al Doilea Război Mondial)", en: "Troisieme Cave (WWII)" },
-    coordinates: { lat: -22.1811, lng: 166.4439 },
+    coords: [166.4439, -22.1811],
     description: {
       de: "Eine Höhle in der Nähe von Dumbéa, die während des Zweiten Weltkriegs als Munitionsdepot und Schutzraum genutzt wurde.",
       hu: "Dumbéa közelében található barlang, amelyet a 2. világháború alatt lőszerraktárként és óvóhelyként használtak.",
@@ -822,7 +822,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-hotel-ville-noumea-history-v2",
     type: "monument",
     name: { de: "Altes Rathaus von Nouméa", hu: "Nouméai régi városháza", ro: "Vechea primărie din Nouméa", en: "Nouméa Old City Hall" },
-    coordinates: { lat: -22.2719, lng: 166.4381 },
+    coords: [166.4381, -22.2719],
     description: {
       de: "Ein schönes Kolonialgebäude am Rande der Place des Cocotiers, das früher das Rathaus beherbergte und heute das Stadtmuseum ist.",
       hu: "Szép gyarmati épület a Place des Cocotiers szélén, amely korábban a városházának adott otthont, ma pedig a városi múzeum.",
@@ -841,7 +841,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-vao-church-history-v2",
     type: "church",
     name: { de: "Kirche von Vao", hu: "Vaói templom", ro: "Biserica din Vao", en: "Vao Church" },
-    coordinates: { lat: -22.6611, lng: 167.4467 },
+    coords: [167.4467, -22.6611],
     description: {
       de: "Die farbenfrohe Kirche von Vao auf der Insel Pins wurde 1860 erbaut und ist das spirituelle Zentrum der Inselbewohner.",
       hu: "A Fenyő-szigeti Vao színes temploma 1860-ban épült, és a szigetlakók spirituális központja.",
@@ -860,7 +860,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-foue-penal-station-history-v2",
     type: "ruins",
     name: { de: "Landwirtschaftliche Strafstation Foué", hu: "Foué-i mezőgazdasági büntetőtelep", ro: "Stația penală agricolă Foué", en: "Foué Agricultural Penal Station" },
-    coordinates: { lat: -21.0942, lng: 164.8211 },
+    coords: [164.8211, -21.0942],
     description: {
       de: "Eine ehemalige Strafstation in der Nähe von Koné, die sich auf landwirtschaftliche Versuche und Ausbildung der Häftlinge konzentrierte.",
       hu: "Koné közelében található egykori büntetőtelep, amely a mezőgazdasági kísérletekre és a foglyok képzésére összpontosított.",
@@ -879,7 +879,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-petit-train-mine-history-v2",
     type: "industry",
     name: { de: "Historische Minenbahn", hu: "Történelmi bányavasút", ro: "Trenulețul minier istoric", en: "Historical Mining Train" },
-    coordinates: { lat: -21.6139, lng: 166.2111 },
+    coords: [166.2111, -21.6139],
     description: {
       de: "Erinnerungen an das Eisenbahnsystem, das einst die Minen von Thio mit dem Hafen verband. Ein Symbol der frühen Industriegeschichte.",
       hu: "Emlék az egykori vasúti rendszerre, amely Thio bányáit kötötte össze a kikötővel. A korai ipartörténet szimbóluma.",
@@ -898,7 +898,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-oubi-village-history-v2",
     type: "village",
     name: { de: "Historisches Oubi-Dorf", hu: "Oubi történelmi falu", ro: "Satul istoric Oubi", en: "Oubi Historic Village" },
-    coordinates: { lat: -21.1417, lng: 165.2111 },
+    coords: [165.2111, -21.1417],
     description: {
       de: "Ein altes Kanak-Dorf, das Schauplatz wichtiger Stammesversammlungen und früher Kontakte mit europäischen Siedlern war.",
       hu: "Régi kanak falu, amely fontos törzsi gyűlések és az európai telepesekkel való korai kapcsolatok helyszíne volt.",
@@ -917,7 +917,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-semaphore-bourail-history-v2",
     type: "tower",
     name: { de: "Sémaphore von Bourail", hu: "Bouraili szemafor", ro: "Semaforul din Bourail", en: "Semaphore of Bourail" },
-    coordinates: { lat: -21.6117, lng: 165.4111 },
+    coords: [165.4111, -21.6117],
     description: {
       de: "Ein historischer Aussichtspunkt und Signalstation an der Küste von Bourail, der früher zur Überwachung des Meeres diente.",
       hu: "Történelmi kilátópont és jelzőállomás Bourail partján, amely korábban a tenger megfigyelésére szolgált.",
@@ -936,7 +936,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-point-zero-noumea-history-v2",
     type: "monument",
     name: { de: "Nullpunkt von Nouméa", hu: "Nouméa nullpontja", ro: "Punctul Zero din Nouméa", en: "Point Zero of Noumea" },
-    coordinates: { lat: -22.2714, lng: 166.4411 },
+    coords: [166.4411, -22.2714],
     description: {
       de: "Die Markierung auf der Place des Cocotiers, von der aus alle Entfernungen auf der Insel Neukaledonien gemessen werden.",
       hu: "A Place des Cocotiers téren található jelölés, amelytől minden távolságot mérnek Új-Kaledónia szigetén.",
@@ -955,7 +955,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-la-foa-bridge-history-v2",
     type: "bridge",
     name: { de: "Marguerite-Brücke in La Foa", hu: "La Foa Marguerite-hídja", ro: "Podul Marguerite din La Foa", en: "La Foa Marguerite Bridge" },
-    coordinates: { lat: -21.7117, lng: 165.8311 },
+    coords: [165.8311, -21.7117],
     description: {
       de: "Eine elegante historische Hängebrücke in La Foa, die nach der Frau des damaligen Gouverneurs benannt wurde. Sie ist ein technisches Denkmal.",
       hu: "Elegáns történelmi függőhíd La Foa-ban, amelyet az akkori kormányzó feleségéről neveztek el. Ipari műemlék.",
@@ -974,7 +974,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-sarramea-agriculture-history-v2",
     type: "village",
     name: { de: "Historisches Sarraméa", hu: "Történelmi Sarraméa", ro: "Sarraméa istorică", en: "Historic Sarraméa" },
-    coordinates: { lat: -21.6417, lng: 165.8511 },
+    coords: [165.8511, -21.6417],
     description: {
       de: "Eine charmante Berggemeinde, die für ihre Geschichte des Kaffeeanbaus und ihre üppige Gartenkultur bekannt ist. Ein Ort der Ruhe und Tradition.",
       hu: "Bájos hegyi település, amely kávétermesztési múltjáról és buja kertjeiről ismert. A nyugalom és a hagyomány helyszíne.",
@@ -993,7 +993,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-farino-pioneers-history-v2",
     type: "village",
     name: { de: "Pionierdorf Farino", hu: "Farino úttörőfalu", ro: "Satul de pionieri Farino", en: "Farino Pioneer Village" },
-    coordinates: { lat: -21.6511, lng: 165.7728 },
+    coords: [165.7728, -21.6511],
     description: {
       de: "Die kleinste Gemeinde der Insel, gegründet von Pionieren am Ende des 19. Jahrhunderts. Sie hat ihre authentische Atmosphäre bewahrt.",
       hu: "A sziget legkisebb községe, amelyet úttörők alapítottak a 19. század végén. Megőrizte autentikus hangulatát.",
@@ -1012,7 +1012,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-ponérihouen-mission-history-v2",
     type: "church",
     name: { de: "Mission von Ponérihouen", hu: "Ponérihouen misszió", ro: "Misiunea Ponérihouen", en: "Ponérihouen Mission" },
-    coordinates: { lat: -21.0717, lng: 165.4011 },
+    coords: [165.4011, -21.0717],
     description: {
       de: "Eine historische Missionsstation an der Ostküste, die ein wichtiger Ort für Bildung und Kultur der Kanak-Gemeinschaft ist.",
       hu: "Történelmi missziós állomás a keleti parton, amely a kanak közösség oktatásának és kultúrájának fontos helyszíne.",
@@ -1031,7 +1031,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-poum-mining-history-v2",
     type: "mine",
     name: { de: "Historischer Bergbau in Poum", hu: "Poum történelmi bányászata", ro: "Mineritul istoric din Poum", en: "Poum Historical Mining" },
-    coordinates: { lat: -20.2311, lng: 164.0111 },
+    coords: [164.0111, -20.2311],
     description: {
       de: "Das nördliche Ende der Insel, wo die Bergbaugeschichte durch die Gewinnung von Kupfer und anderen Mineralien geprägt wurde.",
       hu: "A sziget északi vége, ahol a bányászati múltat a réz és más ásványok kitermelése határozta meg.",
@@ -1050,7 +1050,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-st-joseph-mission-ouv-history-v2",
     type: "church",
     name: { de: "Mission St. Joseph (Ouvéa)", hu: "Szent József-misszió (Ouvéa)", ro: "Misiunea Sf. Iosif (Ouvéa)", en: "St. Joseph Mission (Ouvéa)" },
-    coordinates: { lat: -20.4011, lng: 166.5811 },
+    coords: [166.5811, -20.4011],
     description: {
       de: "Eine historische katholische Mission auf der Insel Ouvéa, die Schauplatz wichtiger religiöser Begegnungen auf den Loyalitätsinseln war.",
       hu: "Ouvéa szigetének történelmi katolikus missziója, amely a Loyalty-szigetek fontos vallási találkozóinak helyszíne volt.",
@@ -1069,7 +1069,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-mare-archaeology-history-v2",
     type: "ruins",
     name: { de: "Archäologie auf Maré", hu: "Maré-szigeti régészet", ro: "Arheologia pe Maré", en: "Maré Archaeology" },
-    coordinates: { lat: -21.5011, lng: 167.9528 },
+    coords: [167.9528, -21.5011],
     description: {
       de: "Die Insel Maré beherbergt monumentale Steinmauern (La Roche), die ein Rätsel für die prähistorische Bauweise im Pazifik darstellen.",
       hu: "Maré szigete monumentális kőfalaknak (La Roche) ad otthont, amelyek a csendes-óceáni őskori építészet rejtélyét hordozzák.",
@@ -1088,7 +1088,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-lifou-mission-history-v2",
     type: "church",
     name: { de: "Mission von Lifou", hu: "Lifou misszió", ro: "Misiunea din Lifou", en: "Lifou Mission" },
-    coordinates: { lat: -20.9117, lng: 167.2411 },
+    coords: [167.2411, -20.9117],
     description: {
       de: "Eine historische Missionsstätte auf Lifou, die den Übergang zur christlichen Kultur auf der größten der Loyalitätsinseln markiert.",
       hu: "Történelmi missziós helyszín Lifou-n, amely a keresztény kultúrára való áttérést jelzi a Loyalty-szigetek legnagyobbikán.",
@@ -1107,7 +1107,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-thierry-mine-history-v2",
     type: "mine",
     name: { de: "Thierry-Mine (Historisch)", hu: "Thierry-bánya (történelmi)", ro: "Mina Thierry (Istorică)", en: "Thierry Mine (Historic)" },
-    coordinates: { lat: -21.4311, lng: 165.9111 },
+    coords: [165.9111, -21.4311],
     description: {
       de: "Eine der frühen Nickelerzminen in der Nähe von Thio, die den Reichtum der Region im späten 19. Jahrhundert begründete.",
       hu: "Thio közelében található korai nikkelbánya, amely a régió gazdagságát megalapozta a 19. század végén.",
@@ -1126,7 +1126,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-voh-pioneers-history-v2",
     type: "village",
     name: { de: "Pioniergeschichte von Voh", hu: "Voh úttörő történelme", ro: "Istoria pionierilor din Voh", en: "Voh Pioneer History" },
-    coordinates: { lat: -20.9614, lng: 164.6928 },
+    coords: [164.6928, -20.9614],
     description: {
       de: "Bekannt für das 'Herz von Voh', hat die Gemeinde auch eine reiche Geschichte des Kaffeeanbaus und der europäischen Besiedlung.",
       hu: "A 'Voh szíve' formációról ismert település kávétermesztési és európai betelepülési múltja is jelentős.",
@@ -1145,7 +1145,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-mont-dore-mining-history-v2",
     type: "mine",
     name: { de: "Bergbaugeschichte am Mont-Dore", hu: "Mont-Dore bányászati történelme", ro: "Istoria mineritului la Mont-Dore", en: "Mont-Dore Mining History" },
-    coordinates: { lat: -22.2817, lng: 166.5811 },
+    coords: [166.5811, -22.2817],
     description: {
       de: "Die Hänge des Mont-Dore waren Schauplatz früherer Chrom- und Nickelminen, die das Erscheinungsbild des Berges prägten.",
       hu: "A Mont-Dore lejtői korai króm- és nikkelbányák helyszínei voltak, amelyek meghatározták a hegy arculatát.",
@@ -1164,7 +1164,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-petroglyphs-mont-mou-history-v2",
     type: "ruins",
     name: { de: "Petroglyphen vom Mont Mou", hu: "Mont Mou-i sziklarajzok", ro: "Petroglifele de pe Muntele Mou", en: "Mont Mou Petroglyphs" },
-    coordinates: { lat: -22.0617, lng: 166.3311 },
+    coords: [166.3311, -22.0617],
     description: {
       de: "Geheimnisvolle antike Felszeichnungen am Fuße des Mont Mou, die kulturelle Symbole der frühen Bewohner darstellen.",
       hu: "Titokzatos ősi sziklavésetek a Mont Mou lábánál, amelyek a korai lakók kulturális szimbólumait ábrázolják.",
@@ -1183,7 +1183,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-st-joseph-cathedral-interior-history-v2",
     type: "monument",
     name: { de: "Innenraum der Kathedrale St. Joseph", hu: "Szent József-székesegyház belső tere", ro: "Interiorul Catedralei Sf. Iosif", en: "St. Joseph's Cathedral Interior" },
-    coordinates: { lat: -22.2711, lng: 166.4439 },
+    coords: [166.4439, -22.2711],
     description: {
       de: "Der prachtvolle Innenraum der Kathedrale von Nouméa mit seinen neugotischen Elementen und historischen Kunstwerken.",
       hu: "A nouméai székesegyház pompás belső tere neogótikus elemekkel és történelmi műalkotásokkal.",
@@ -1202,7 +1202,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-noumea-wharf-history-v2",
     type: "port",
     name: { de: "Historischer Kai von Nouméa", hu: "Nouméai történelmi rakpart", ro: "Cheiul istoric din Nouméa", en: "Historic Noumea Wharf" },
-    coordinates: { lat: -22.2711, lng: 166.4356 },
+    coords: [166.4356, -22.2711],
     description: {
       de: "Der Ort, an dem die ersten Siedler und Waren ankamen, und der Beginn der modernen Stadtentwicklung von Nouméa.",
       hu: "Az a hely, ahol az első telepesek és áruk érkeztek, valamint Nouméa modern városfejlődésének kezdete.",
@@ -1221,7 +1221,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-chateau-hagen-gardens-history-v2",
     type: "park",
     name: { de: "Gärten von Schloss Hagen", hu: "Hagen-kastély kertjei", ro: "Grădinile Castelului Hagen", en: "Chateau Hagen Gardens" },
-    coordinates: { lat: -22.2797, lng: 166.4428 },
+    coords: [166.4428, -22.2797],
     description: {
       de: "Die historischen botanischen Gärten rund um das Schloss Hagen, die eine Sammlung exotischer Pflanzen aus der Kolonialzeit beherbergen.",
       hu: "A Hagen-kastély körüli történelmi botanikus kertek, amelyek a gyarmati kor egzotikus növényeinek gyűjteményét őrzik.",
@@ -1240,7 +1240,7 @@ export const newcaledoniaHistoryV2: POI[] = [
     id: "newcaledonia-païta-old-railway-history-v2",
     type: "industry",
     name: { de: "Alte Eisenbahn von Païta", hu: "Païtai régi vasút", ro: "Vechea cale ferată din Païta", en: "Païta Old Railway" },
-    coordinates: { lat: -22.1339, lng: 166.3611 },
+    coords: [166.3611, -22.1339],
     description: {
       de: "Überreste der einzigen öffentlichen Eisenbahnlinie Neukaledoniens, die einst Nouméa mit Païta verband. Ein Denkmal der Mobilitätsgeschichte.",
       hu: "Új-Kaledónia egyetlen nyilvános vasútvonalának maradványai, amely egykor Nouméát kötötte össze Païtával. A mobilitás történetének emléke.",

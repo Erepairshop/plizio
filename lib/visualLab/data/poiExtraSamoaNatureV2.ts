@@ -5,7 +5,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-lake-lanotoo-nature-v2",
     type: "lake",
     name: { de: "Lanoto'o-See", hu: "Lanoto'o-tó", ro: "Lacul Lanoto'o", en: "Lake Lanoto'o" },
-    coordinates: { lat: -13.916, lng: -171.834 },
+    coords: [-171.834, -13.916],
     description: {
       de: "Der Lanoto'o-See ist ein Kratersee im zentralen Hochland der Insel Upolu. Er ist Teil eines geschützten Nationalparks und Ramsar-Gebiets.",
       hu: "A Lanoto'o-tó egy kráterben elhelyezkedő tó Upolu szigetének központi felföldjén. A terület fontos Ramsari vizes élőhelynek minősül.",
@@ -24,7 +24,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-tosua-ocean-trench-nature-v2",
     type: "wildlife",
     name: { de: "To-Sua Ocean Trench", hu: "To-Sua Ocean Trench", ro: "To-Sua Ocean Trench", en: "To-Sua Ocean Trench" },
-    coordinates: { lat: -14.044, lng: -171.715 },
+    coords: [-171.715, -14.044],
     description: {
       de: "To-Sua ist ein natürliches Schwimmloch, das durch eine eingestürzte Lavaröhre entstanden ist. Es ist mit dem Ozean durch Unterwassertunnel verbunden.",
       hu: "A To-Sua egy természetes úszómedence, amely egy beomlott lávacső következtében jött létre. Vízalatti csatornákon keresztül érintkezik az óceánnal.",
@@ -43,7 +43,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-mt-matavanu-crater-nature-v2",
     type: "peak",
     name: { de: "Matavanu-Krater", hu: "Matavanu-kráter", ro: "Craterul Matavanu", en: "Matavanu Crater" },
-    coordinates: { lat: -13.533, lng: -172.366 },
+    coords: [-172.366, -13.533],
     description: {
       de: "Der Matavanu-Krater auf Savai'i war Schauplatz verheerender Ausbrüche zwischen 1905 und 1911. Die Lavaströme zerstörten weite Teile der Küstenregion.",
       hu: "A Savai'i szigetén található Matavanu-kráter az 1905 és 1911 közötti pusztító kitörések helyszíne volt. A lávafolyamok nagy parti területeket romboltak le.",
@@ -62,7 +62,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-sopoaga-falls-nature-v2",
     type: "river",
     name: { de: "Sopoaga-Wasserfall", hu: "Sopoaga-vízesés", ro: "Cascada Sopoaga", en: "Sopoaga Falls" },
-    coordinates: { lat: -14.011, lng: -171.602 },
+    coords: [-171.602, -14.011],
     description: {
       de: "Der Sopoaga-Wasserfall befindet sich im Osten von Upolu in einem üppigen tropischen Garten. Das Wasser stürzt in eine tiefe, grün bewachsene Schlucht.",
       hu: "A Sopoaga-vízesés Upolu keleti részén található egy buja trópusi kertben. A víz egy mély, zöld növényzettel borított szurdokba zuhan le.",
@@ -81,7 +81,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-fuipisia-falls-nature-v2",
     type: "river",
     name: { de: "Fuipisia-Wasserfall", hu: "Fuipisia-vízesés", ro: "Cascada Fuipisia", en: "Fuipisia Falls" },
-    coordinates: { lat: -13.998, lng: -171.589 },
+    coords: [-171.589, -13.998],
     description: {
       de: "Fuipisia ist ein beeindruckender 55 Meter hoher Zwillingswasserfall auf Upolu. Er bietet einen Blick auf den unberührten Dschungel und steile Felswände.",
       hu: "A Fuipisia egy lenyűgöző, 55 méter magas ikervízesés Upolu szigetén. Kilátást nyújt az érintetlen dzsungelre és a meredek sziklafalakra.",
@@ -100,7 +100,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-papaseea-sliding-rocks-nature-v2",
     type: "river",
     name: { de: "Papase'ea Sliding Rocks", hu: "Papase'ea csúszósziklák", ro: "Stâncile Papase'ea", en: "Papase'ea Sliding Rocks" },
-    coordinates: { lat: -13.874, lng: -171.792 },
+    coords: [-171.792, -13.874],
     description: {
       de: "Die Papase'ea Sliding Rocks sind natürliche Felsformationen in einem Flusslauf bei Apia. Die glatten Felsen ermöglichen das Rutschen in tiefe Wasserbecken.",
       hu: "A Papase'ea csúszósziklák természetes sziklaformációk egy folyómederben Apia közelében. A sima sziklák lehetővé teszik a vízbe csúszást.",
@@ -119,7 +119,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-mt-vaea-nature-v2",
     type: "peak",
     name: { de: "Mount Vaea", hu: "Mount Vaea", ro: "Muntele Vaea", en: "Mount Vaea" },
-    coordinates: { lat: -13.864, lng: -171.775 },
+    coords: [-171.775, -13.864],
     description: {
       de: "Der Mount Vaea überragt die Hauptstadt Apia und ist bekannt als letzte Ruhestätte von Robert Louis Stevenson. Er bietet weite Ausblicke über die Küste.",
       hu: "A Mount Vaea Apia fővárosa fölé magasodik, és Robert Louis Stevenson végső nyughelyeként ismert. Széles kilátást nyújt a partvidékre.",
@@ -138,7 +138,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-lalomanu-beach-nature-v2",
     type: "wildlife",
     name: { de: "Lalomanu-Strand", hu: "Lalomanu-part", ro: "Plaja Lalomanu", en: "Lalomanu Beach" },
-    coordinates: { lat: -14.045, lng: -171.442 },
+    coords: [-171.442, -14.045],
     description: {
       de: "Lalomanu Beach ist ein bekannter Küstenabschnitt am südöstlichen Ende von Upolu. Er bietet Korallenriffe und einen Blick auf die Aleipata-Inseln.",
       hu: "A Lalomanu-part egy ismert tengerparti szakasz Upolu délkeleti végén. Korallzátonyokat és kilátást kínál az Aleipata-szigetekre.",
@@ -157,7 +157,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-o-le-pupu-pue-national-park-nature-v2",
     type: "park",
     name: { de: "O Le Pupu-Pu'e Nationalpark", hu: "O Le Pupu-Pu'e Nemzeti Park", ro: "Parcul Național O Le Pupu-Pu'e", en: "O Le Pupu-Pu'e National Park" },
-    coordinates: { lat: -14.0, lng: -171.733 },
+    coords: [-171.733, -14.0],
     description: {
       de: "Samoas erster Nationalpark erstreckt sich von den Bergen des Upolu-Zentrums bis zur Südküste. Er schützt vulkanische Landschaften und Regenwald.",
       hu: "Szamoa első nemzeti parkja Upolu központi hegyeitől a déli partig terjed. Vulkanikus tájakat és esőerdőt védelmez.",
@@ -176,7 +176,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-nuutele-island-nature-v2",
     type: "wildlife",
     name: { de: "Nu'utele", hu: "Nu'utele-sziget", ro: "Insula Nu'utele", en: "Nu'utele Island" },
-    coordinates: { lat: -14.063, lng: -171.422 },
+    coords: [-171.422, -14.063],
     description: {
       de: "Nu'utele ist die größte der unbewohnten Aleipata-Inseln vor Upolu. Sie ist ein wichtiger Nistplatz für Seevögel und Teil eines Schutzgebiets.",
       hu: "Nu'utele az Upolu melletti lakatlan Aleipata-szigetek legnagyobb tagja. Fontos fészkelőhely a tengeri madarak számára és természetvédelmi terület.",
@@ -195,7 +195,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-nuulua-island-nature-v2",
     type: "wildlife",
     name: { de: "Nu'ulua", hu: "Nu'ulua-sziget", ro: "Insula Nu'ulua", en: "Nu'ulua Island" },
-    coordinates: { lat: -14.074, lng: -171.411 },
+    coords: [-171.411, -14.074],
     description: {
       de: "Nu'ulua ist eine kleine, unbewohnte Insel im Aleipata-Archipel. Sie ist ökologisch bedeutend als Lebensraum für seltene Vogelarten wie die Zahntaube.",
       hu: "Nu'ulua egy kis, lakatlan sziget az Aleipata-szigetcsoportban. Ökológiai jelentőségét a ritka madárfajok, például a fogasgalamb élőhelye adja.",
@@ -214,7 +214,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-namua-island-nature-v2",
     type: "wildlife",
     name: { de: "Namua", hu: "Namua-sziget", ro: "Insula Namua", en: "Namua Island" },
-    coordinates: { lat: -14.02, lng: -171.415 },
+    coords: [-171.415, -14.02],
     description: {
       de: "Namua ist eine kleine Insel vor der Küste von Upolu, die für ihre Strände und Korallenriffe bekannt ist. Sie ist nur per Boot von Lalomanu erreichbar.",
       hu: "Namua egy kis sziget Upolu partjainál, amely strandjairól és korallzátonyairól ismert. Csak csónakkal érhető el Lalomanu felől.",
@@ -233,7 +233,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-fanuatapu-island-nature-v2",
     type: "wildlife",
     name: { de: "Fanuatapu", hu: "Fanuatapu-sziget", ro: "Insula Fanuatapu", en: "Fanuatapu Island" },
-    coordinates: { lat: -14.012, lng: -171.402 },
+    coords: [-171.402, -14.012],
     description: {
       de: "Fanuatapu ist die östlichste Insel des Aleipata-Archipels. Sie zeichnet sich durch einen Leuchtturm und steile vulkanische Klippen aus.",
       hu: "Fanuatapu az Aleipata-szigetcsoport legkeletibb tagja. Egy világítótorony és meredek vulkanikus sziklák jellemzik.",
@@ -252,7 +252,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-cape-mulinuu-nature-v2",
     type: "landmark",
     name: { de: "Kap Mulinu'u", hu: "Mulinu'u-fok", ro: "Capul Mulinu'u", en: "Cape Mulinu'u" },
-    coordinates: { lat: -13.511, lng: -172.798 },
+    coords: [-172.798, -13.511],
     description: {
       de: "Kap Mulinu'u ist der westlichste Punkt der Insel Savai'i. Es ist ein Ort von mythologischer Bedeutung und markiert den Übergang zum offenen Ozean.",
       hu: "A Mulinu'u-fok Savai'i szigetének legnyugatibb pontja. Mitológiai jelentőséggel bíró helyszín, amely a nyílt óceán kezdetét jelzi.",
@@ -271,7 +271,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-tafua-crater-nature-v2",
     type: "peak",
     name: { de: "Tafua-Krater", hu: "Tafua-kráter", ro: "Craterul Tafua", en: "Tafua Crater" },
-    coordinates: { lat: -13.785, lng: -172.253 },
+    coords: [-172.253, -13.785],
     description: {
       de: "Der Tafua-Krater ist ein bewachsener Vulkankrater im Südosten von Savai'i. Er ist Teil eines Reservats zum Schutz von Flughunden und Vögeln.",
       hu: "A Tafua-kráter egy növényzettel borított vulkáni kráter Savai'i délkeleti részén. Egy repülőkutya- és madárvédelmi rezervátum része.",
@@ -290,7 +290,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-peapea-cave-nature-v2",
     type: "landmark",
     name: { de: "Pe'ape'a-Höhle", hu: "Pe'ape'a-barlang", ro: "Peștera Pe'ape'a", en: "Pe'ape'a Cave" },
-    coordinates: { lat: -13.985, lng: -171.715 },
+    coords: [-171.715, -13.985],
     description: {
       de: "Die Pe'ape'a-Höhle ist eine Lavaröhre im O Le Pupu-Pu'e Nationalpark. Sie ist nach den Weißbürzelsalangane-Vögeln benannt, die dort nisten.",
       hu: "A Pe'ape'a-barlang egy lávacső az O Le Pupu-Pu'e Nemzeti Parkban. Nevét az ott fészkelő szamoai szalangána madarakról kapta.",
@@ -309,7 +309,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-nuusafee-island-nature-v2",
     type: "wildlife",
     name: { de: "Nu'usafe'e", hu: "Nu'usafe'e-sziget", ro: "Insula Nu'usafe'e", en: "Nu'usafe'e Island" },
-    coordinates: { lat: -14.045, lng: -171.688 },
+    coords: [-171.688, -14.045],
     description: {
       de: "Nu'usafe'e ist eine winzige, unbewohnte Insel vor der Südküste von Upolu. Sie ist von einem Korallenriff umgeben und für ihre Artenvielfalt bekannt.",
       hu: "Nu'usafe'e egy apró, lakatlan sziget Upolu déli partjainál. Korallzátony veszi körül, és gazdag tengeri élővilágáról ismert.",
@@ -328,7 +328,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-cape-taputapu-nature-v2",
     type: "landmark",
     name: { de: "Kap Taputapu", hu: "Taputapu-fok", ro: "Capul Taputapu", en: "Cape Taputapu" },
-    coordinates: { lat: -13.871, lng: -172.015 },
+    coords: [-172.015, -13.871],
     description: {
       de: "Kap Taputapu bildet das westliche Ende der Insel Upolu. Es ist geprägt durch zerklüftete Klippen und starke Meeresströmungen an der Küste.",
       hu: "A Taputapu-fok Upolu szigetének nyugati végét alkotja. Tagolt sziklák és erős tengeri áramlatok jellemzik a partvonalat.",
@@ -347,7 +347,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-manono-island-nature-v2",
     type: "wildlife",
     name: { de: "Manono", hu: "Manono-sziget", ro: "Insula Manono", en: "Manono Island" },
-    coordinates: { lat: -13.844, lng: -172.106 },
+    coords: [-172.106, -13.844],
     description: {
       de: "Manono ist eine kleine, bewohnte Insel innerhalb eines Korallenriffs. Auf der Insel gibt es keine Autos oder Straßen, was die natürliche Ruhe bewahrt.",
       hu: "Manono egy kis, lakott sziget egy korallzátonyon belül. A szigeten nincsenek autók vagy utak, ami megőrzi a természetes nyugalmát.",
@@ -366,7 +366,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-mt-fito-nature-v2",
     type: "peak",
     name: { de: "Mount Fito", hu: "Mount Fito", ro: "Muntele Fito", en: "Mount Fito" },
-    coordinates: { lat: -13.931, lng: -171.689 },
+    coords: [-171.689, -13.931],
     description: {
       de: "Der Mount Fito ist der höchste Berg der Insel Upolu. Er ist von dichtem, unberührtem Regenwald bedeckt und Teil des zentralen Gebirgszuges.",
       hu: "A Mount Fito Upolu szigetének legmagasabb hegye. Sűrű, érintetlen esőerdő borítja, és a központi hegylánc része.",
@@ -385,7 +385,7 @@ export const samoaNatureV2: POI[] = [
     id: "samoa-paia-dwarfs-cave-nature-v2",
     type: "landmark",
     name: { de: "Zwergenhöhle von Paia", hu: "Paia törpebarlang", ro: "Peștera Piticilor Paia", en: "Paia Dwarfs Cave" },
-    coordinates: { lat: -13.498, lng: -172.421 },
+    coords: [-172.421, -13.498],
     description: {
       de: "Diese Lavaröhre bei Paia auf Savai'i ist von lokalen Legenden über Zwerge umrankt. Die Höhle erstreckt sich kilometerweit unter der Erde.",
       hu: "Ez a Paia melletti lávacső Savai'i szigetén helyi legendák övezik a törpékről. A barlang kilométereken át nyúlik a föld alatt.",

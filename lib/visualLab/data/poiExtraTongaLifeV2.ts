@@ -5,7 +5,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-eua-national-park-life-v2",
     type: "park",
     name: { de: "'Eua Nationalpark", hu: "'Eua Nemzeti Park", ro: "Parcul Național 'Eua", en: "'Eua National Park" },
-    coordinates: { lat: -21.365, lng: -174.918 },
+    coords: [-174.918, -21.365],
     description: {
       de: "Dieser 1992 gegründete Park schützt den größten verbliebenen tropischen Regenwald Tongas auf der hügeligen Insel 'Eua.",
       hu: "Az 1992-ben alapított park Tonga legnagyobb fennmaradt trópusi esőerdejét védi 'Eua dombos szigetén.",
@@ -24,7 +24,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-mount-talau-national-park-life-v2",
     type: "park",
     name: { de: "Mount Talau Nationalpark", hu: "Mount Talau Nemzeti Park", ro: "Parcul Național Mount Talau", en: "Mount Talau National Park" },
-    coordinates: { lat: -18.65, lng: -173.983 },
+    coords: [-173.983, -18.65],
     description: {
       de: "Der Park auf Vava'u schützt den ursprünglichen Küstenregenwald und bietet einen Panoramablick auf den Hafen von Neiafu.",
       hu: "A Vava'u szigetén található park az eredeti parti esőerdőt védi, és panorámás kilátást nyújt Neiafu kikötőjére.",
@@ -43,7 +43,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-eneio-botanical-garden-life-v2",
     type: "park",
     name: { de: "'Ene'io Botanischer Garten", hu: "'Ene'io Botanikus Kert", ro: "Grădina Botanică 'Ene'io", en: "'Ene'io Botanical Garden" },
-    coordinates: { lat: -18.652, lng: -173.932 },
+    coords: [-173.932, -18.652],
     description: {
       de: "Tongas erster botanischer Garten beherbergt über 500 Pflanzenarten und konzentriert sich auf die Erhaltung der lokalen Flora.",
       hu: "Tonga első botanikus kertje több mint 500 növényfajnak ad otthont, és a helyi flóra megőrzésére összpontosít.",
@@ -62,7 +62,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-fata-o-tuiana-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Fata 'o Tuiana Meeresschutzgebiet", hu: "Fata 'o Tuiana Tengeri Rezervátum", ro: "Rezervația Marină Fata 'o Tuiana", en: "Fata 'o Tuiana Marine Reserve" },
-    coordinates: { lat: -21.067, lng: -175.133 },
+    coords: [-175.133, -21.067],
     description: {
       de: "Ein wichtiges Küstenschutzgebiet im Norden von Tongatapu, das Korallenriffe und Fischbrutgebiete vor Überfischung schützt.",
       hu: "Fontos parti védett terület Tongatapu északi részén, amely korallzátonyokat és halívóhelyeket véd a túlhalászattól.",
@@ -81,7 +81,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-pangaimotu-reef-reserve-life-v2",
     type: "wildlife",
     name: { de: "Pangaimotu Riff-Schutzgebiet", hu: "Pangaimotu Zátony Rezervátum", ro: "Rezervația de Recif Pangaimotu", en: "Pangaimotu Reef Reserve" },
-    coordinates: { lat: -21.121, lng: -175.158 },
+    coords: [-175.158, -21.121],
     description: {
       de: "Dieses Reservat in der Nähe von Nuku'alofa umfasst Seegraswiesen und Korallenbänke, die für die marine Artenvielfalt wichtig sind.",
       hu: "Ez a Nuku'alofa közeli rezervátum tengerifű-mezőket és korallpadokat foglal magában, amelyek fontosak a tengeri élővilág számára.",
@@ -100,7 +100,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-monuafe-island-park-life-v2",
     type: "park",
     name: { de: "Monuafe Inselpark und Riff-Schutzgebiet", hu: "Monuafe Szigetpark és Zátony Rezervátum", ro: "Parcul Insular și Rezervația de Recif Monuafe", en: "Monuafe Island Park and Reef Reserve" },
-    coordinates: { lat: -21.1, lng: -175.133 },
+    coords: [-175.133, -21.1],
     description: {
       de: "Ein kleines Inselreservat, das für seine unberührten Korallengärten und den Schutz kleiner Inselvogelarten bekannt ist.",
       hu: "Egy kis szigeti rezervátum, amely érintetlen korallkertjeiről és a kisméretű szigeti madárfajok védelméről ismert.",
@@ -119,7 +119,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-haatafu-beach-reserve-life-v2",
     type: "wildlife",
     name: { de: "Ha'atafu Strand-Schutzgebiet", hu: "Ha'atafu Strand Rezervátum", ro: "Rezervația de Plajă Ha'atafu", en: "Ha'atafu Beach Reserve" },
-    coordinates: { lat: -21.067, lng: -175.333 },
+    coords: [-175.333, -21.067],
     description: {
       de: "Dieses Reservat an der Westspitze von Tongatapu schützt das Küstenökosystem und die umliegenden marinen Ressourcen.",
       hu: "Ez a Tongatapu nyugati csücskén található rezervátum a parti ökoszisztémát és a környező tengeri erőforrásokat védi.",
@@ -138,7 +138,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-malinoa-island-park-life-v2",
     type: "park",
     name: { de: "Malinoa Inselpark", hu: "Malinoa Szigetpark", ro: "Parcul Insular Malinoa", en: "Malinoa Island Park" },
-    coordinates: { lat: -21.033, lng: -175.133 },
+    coords: [-175.133, -21.033],
     description: {
       de: "Ein historisches und ökologisches Reservat, das die Brutstätten von Seevögeln und bedeutende Korallenriffe schützt.",
       hu: "Történelmi és ökológiai rezervátum, amely tengeri madarak költőhelyeit és jelentős korallzátonyokat véd.",
@@ -157,7 +157,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-tofua-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Tofua Insel-Naturschutzgebiet", hu: "Tofua-szigeti Természetvédelmi Terület", ro: "Rezervația Naturală Insula Tofua", en: "Tofua Island Nature Reserve" },
-    coordinates: { lat: -19.75, lng: -175.067 },
+    coords: [-175.067, -19.75],
     description: {
       de: "Eine aktive Vulkaninsel mit einem Caldera-See, die aufgrund ihrer ungestörten Ökosysteme unter Naturschutz steht.",
       hu: "Aktív vulkáni sziget kaldera-tóval, amely zavartalan ökoszisztémája miatt természetvédelmi oltalom alatt áll.",
@@ -176,7 +176,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-kao-island-forest-life-v2",
     type: "forest",
     name: { de: "Kao Inselwald", hu: "Kao-szigeti erdő", ro: "Pădurea Insulei Kao", en: "Kao Island Forest" },
-    coordinates: { lat: -19.667, lng: -175.017 },
+    coords: [-175.017, -19.667],
     description: {
       de: "Die Insel beherbergt den höchsten Gipfel Tongas und ist fast vollständig von dichtem, unberührtem tropischem Regenwald bedeckt.",
       hu: "A sziget ad otthont Tonga legmagasabb csúcsának, és szinte teljesen sűrű, érintetlen trópusi esőerdő borítja.",
@@ -195,7 +195,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-niuafoou-malau-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Niuafo'ou Malau-Schutzgebiet", hu: "Niuafo'ou Malau Rezervátum", ro: "Sanctuarul Malau Niuafo'ou", en: "Niuafo'ou Malau Sanctuary" },
-    coordinates: { lat: -15.583, lng: -175.633 },
+    coords: [-175.633, -15.583],
     description: {
       de: "Dieses Gebiet schützt das einzige natürliche Habitat des Malau-Großfußhuhns, das seine Eier in warmer Vulkanasche ausbrütet.",
       hu: "Ez a terület védi a malau madár egyetlen természetes élőhelyét, amely a tojásait meleg vulkáni hamuban költi ki.",
@@ -214,7 +214,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-mounu-island-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Mounu Insel-Wildschutzgebiet", hu: "Mounu-szigeti Vadvédelmi Rezervátum", ro: "Sanctuarul de Viață Sălbatică Insula Mounu", en: "Mounu Island Wildlife Sanctuary" },
-    coordinates: { lat: -18.733, lng: -174.033 },
+    coords: [-174.033, -18.733],
     description: {
       de: "Ein privates Schutzgebiet auf einer Koralleninsel in Vava'u, das sich auf den Schutz von Seeschildkröten und Walen konzentriert.",
       hu: "Privát rezervátum egy Vava'u-i korallszigeten, amely a tengeri teknősök és bálnák védelmére összpontosít.",
@@ -233,7 +233,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-anahulu-cave-forest-life-v2",
     type: "wildlife",
     name: { de: "'Anahulu Höhle und Wald", hu: "'Anahulu barlang és erdő", ro: "Peștera și Pădurea 'Anahulu", en: "'Anahulu Cave and Forest" },
-    coordinates: { lat: -21.217, lng: -175.117 },
+    coords: [-175.117, -21.217],
     description: {
       de: "Dieses Gebiet umfasst ein Kalksteinhöhlensystem mit Süßwasserbecken, umgeben von einem dichten Küstenwald.",
       hu: "Ez a terület egy mészkőbarlang-rendszert foglal magában édesvízi medencékkel, sűrű parti erdővel körülvéve.",
@@ -252,7 +252,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-hufangalupe-natural-park-life-v2",
     type: "park",
     name: { de: "Hufangalupe Naturpark", hu: "Hufangalupe Naturpark", ro: "Parcul Natural Hufangalupe", en: "Hufangalupe Natural Park" },
-    coordinates: { lat: -21.233, lng: -175.117 },
+    coords: [-175.117, -21.233],
     description: {
       de: "Bekannt für seine monumentale natürliche Felsbrücke, beherbergt dieser Park wichtige Küstenvegetation und Seevögel.",
       hu: "Monumentális természetes kőhídjáról ismert, ez a park fontos parti vegetációnak és tengeri madaraknak ad otthont.",
@@ -271,7 +271,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-pausa-giant-clam-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Pausa Riesenmuschel-Schutzgebiet", hu: "Pausa Óriáskagyló Rezervátum", ro: "Sanctuarul de Scoici Gigante Pausa", en: "Pausa Giant Clam Sanctuary" },
-    coordinates: { lat: -21.133, lng: -175.25 },
+    coords: [-175.25, -21.133],
     description: {
       de: "Ein von der Gemeinschaft verwaltetes Projekt zum Schutz und zur Zucht der gefährdeten Riesenmuscheln in den Lagunen von Tongatapu.",
       hu: "Közösségi kezelésű projekt a veszélyeztetett óriáskagylók védelmére és szaporítására Tongatapu lagúnáiban.",
@@ -290,7 +290,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-haamonga-botanical-park-life-v2",
     type: "park",
     name: { de: "Ha'amonga Botanischer Park", hu: "Ha'amonga Botanikai Park", ro: "Parcul Botanic Ha'amonga", en: "Ha'amonga Botanical Park" },
-    coordinates: { lat: -21.136, lng: -175.048 },
+    coords: [-175.048, -21.136],
     description: {
       de: "Dieses Gelände kombiniert archäologische Denkmäler mit einem Park, der traditionelle tonganische Heilpflanzen bewahrt.",
       hu: "Ez a terület ötvözi a régészeti emlékeket egy parkkal, amely hagyományos tongai gyógynövényeket őriz.",
@@ -309,7 +309,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-niuatoputapu-bird-habitat-life-v2",
     type: "wildlife",
     name: { de: "Niuatoputapu Vogelhabitat", hu: "Niuatoputapu madárélőhely", ro: "Habitatul de păsări Niuatoputapu", en: "Niuatoputapu Bird Habitat" },
-    coordinates: { lat: -15.95, lng: -173.75 },
+    coords: [-173.75, -15.95],
     description: {
       de: "Ein abgelegenes Ökosystem, das als wichtiger Rastplatz für Zugvögel und als Heimat für seltene Landvogelarten dient.",
       hu: "Távoli ökoszisztéma, amely a költöző madarak fontos pihenőhelyeként és ritka szárazföldi madárfajok otthonaként szolgál.",
@@ -328,7 +328,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-late-island-wilderness-life-v2",
     type: "wildlife",
     name: { de: "Late Insel-Wildnis", hu: "Late-szigeti vadon", ro: "Zona Sălbatică Insula Late", en: "Late Island Wilderness" },
-    coordinates: { lat: -18.8, lng: -174.65 },
+    coords: [-174.65, -18.8],
     description: {
       de: "Diese unbewohnte Vulkaninsel ist eines der am besten erhaltenen Naturgebiete Tongas mit ursprünglichen Wäldern.",
       hu: "Ez a lakatlan vulkáni sziget Tonga egyik legjobban megőrzött természeti területe, eredeti erdőkkel.",
@@ -347,7 +347,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-fonualei-island-bird-area-life-v2",
     type: "wildlife",
     name: { de: "Fonualei Insel-Vogelschutzgebiet", hu: "Fonualei-szigeti madárvédelmi körzet", ro: "Zona Avifaunistică Insula Fonualei", en: "Fonualei Island Bird Area" },
-    coordinates: { lat: -18.017, lng: -174.317 },
+    coords: [-174.317, -18.017],
     description: {
       de: "Ein bedeutendes Brutgebiet für Tausende von Seevögeln, geschützt durch seine extreme Abgeschiedenheit.",
       hu: "Jelentős költőhely tengeri madarak ezrei számára, amelyet rendkívüli elszigeteltsége véd.",
@@ -366,7 +366,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-vavau-whale-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Vava'u Walschutzgebiet", hu: "Vava'u Bálnarezervátum", ro: "Sanctuarul de Balene Vava'u", en: "Vava'u Whale Sanctuary" },
-    coordinates: { lat: -19.85, lng: -174.4 },
+    coords: [-174.4, -19.85],
     description: {
       de: "Ein Meeresgebiet, das jedes Jahr Buckelwale empfängt, die aus der Antarktis kommen, um in den warmen Gewässern zu kalben.",
       hu: "Tengeri terület, amely minden évben fogadja az Antarktiszról érkező púpos bálnákat, hogy a meleg vizekben elljenek.",
@@ -385,7 +385,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-haapai-marine-protected-area-life-v2",
     type: "wildlife",
     name: { de: "Ha'apai Meeresschutzgebiet", hu: "Ha'apai Tengeri Védett Terület", ro: "Aria Marină Protejată Ha'apai", en: "Ha'apai Marine Protected Area" },
-    coordinates: { lat: -19.75, lng: -174.417 },
+    coords: [-174.417, -19.75],
     description: {
       de: "Umfasst zahlreiche Riffe und unbewohnte Inseln, um die biologische Vielfalt der zentralen Inselgruppe zu bewahren.",
       hu: "Számos zátonyt és lakatlan szigetet foglal magában a központi szigetcsoport biodiverzitásának megőrzése érdekében.",
@@ -404,7 +404,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-nomuka-blue-lagoon-life-v2",
     type: "lake",
     name: { de: "Nomuka Blaue Lagune", hu: "Nomuka Kék Lagúna", ro: "Laguna Albastră Nomuka", en: "Nomuka Blue Lagoon" },
-    coordinates: { lat: -20.25, lng: -174.8 },
+    coords: [-174.8, -20.25],
     description: {
       de: "Ein brackiges Binnengewässer auf der Insel Nomuka, das eine einzigartige Flora und Fauna beherbergt.",
       hu: "Félsós belvíz Nomuka szigetén, amely egyedülálló flórának és faunának ad otthont.",
@@ -423,7 +423,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-funafua-biodiversity-area-life-v2",
     type: "wildlife",
     name: { de: "Funafoa Biodiversitätsgebiet", hu: "Funafoa biodiverzitási terület", ro: "Zona de Biodiversitate Funafoa", en: "Funafoa Biodiversity Area" },
-    coordinates: { lat: -18.667, lng: -173.95 },
+    coords: [-173.95, -18.667],
     description: {
       de: "Ein geschütztes Gebiet in der Vava'u-Gruppe, das für seine hohe Konzentration an endemischen Landvögeln bekannt ist.",
       hu: "Védett terület a Vava'u-csoportban, amely az endemikus szárazföldi madarak magas koncentrációjáról ismert.",
@@ -442,7 +442,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-teleki-tonga-reef-life-v2",
     type: "wildlife",
     name: { de: "Teleki Tonga Riff", hu: "Teleki Tonga zátony", ro: "Reciful Teleki Tonga", en: "Teleki Tonga Reef" },
-    coordinates: { lat: -21.133, lng: -175.167 },
+    coords: [-175.167, -21.133],
     description: {
       de: "Ein wichtiges Riffsystem, das für den Schutz der lokalen Fischbestände und als Barriere gegen Stürme dient.",
       hu: "Fontos zátonyrendszer, amely a helyi halállományok védelmét és a viharok elleni gátat szolgálja.",
@@ -461,7 +461,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-hunga-tonga-hunga-haapai-life-v2",
     type: "wildlife",
     name: { de: "Hunga Tonga-Hunga Ha'apai Habitat", hu: "Hunga Tonga-Hunga Ha'apai élőhely", ro: "Habitatul Hunga Tonga-Hunga Ha'apai", en: "Hunga Tonga-Hunga Ha'apai Habitat" },
-    coordinates: { lat: -20.545, lng: -175.393 },
+    coords: [-175.393, -20.545],
     description: {
       de: "Ein sich ständig veränderndes vulkanisches Gebiet, das Wissenschaftlern Einblicke in die Besiedlung durch neues Leben bietet.",
       hu: "Folyamatosan változó vulkáni terület, amely betekintést nyújt a kutatóknak az új élet megtelepedésébe.",
@@ -480,7 +480,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-faonelua-nature-park-life-v2",
     type: "park",
     name: { de: "Fa'onelua Naturpark", hu: "Fa'onelua Naturpark", ro: "Parcul Natural Fa'onelua", en: "Fa'onelua Nature Park" },
-    coordinates: { lat: -21.133, lng: -175.2 },
+    coords: [-175.2, -21.133],
     description: {
       de: "Ein städtischer Park in Nuku'alofa, der einheimische Baumarten und gepflegte Gärten für die Öffentlichkeit bewahrt.",
       hu: "Városi park Nuku'alofában, amely őshonos fafajokat és gondozott kerteket őriz a nyilvánosság számára.",
@@ -499,7 +499,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-keleti-marine-terraces-life-v2",
     type: "wildlife",
     name: { de: "Keleti Meeresterrassen", hu: "Keleti tengeri teraszok", ro: "Terasele Marine Keleti", en: "Keleti Marine Terraces" },
-    coordinates: { lat: -21.2, lng: -175.25 },
+    coords: [-175.25, -21.2],
     description: {
       de: "Natürliche Kalksteinformationen an der Küste, die bei Ebbe Gezeitenbecken bilden und eine reiche marine Fauna beherbergen.",
       hu: "Természetes mészkőformációk a parton, amelyek apálykor dagálymedencéket alkotnak, gazdag tengeri faunával.",
@@ -518,7 +518,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-tufuvai-coastal-forest-life-v2",
     type: "forest",
     name: { de: "Tufuvai Küstenwald", hu: "Tufuvai parti erdő", ro: "Pădurea de Coastă Tufuvai", en: "Tufuvai Coastal Forest" },
-    coordinates: { lat: -21.35, lng: -174.967 },
+    coords: [-174.967, -21.35],
     description: {
       de: "Ein schmaler Streifen ursprünglicher Küstenvegetation auf 'Eua, der als Windschutz und Lebensraum dient.",
       hu: "Eredeti parti vegetáció keskeny sávja 'Eua szigetén, amely szélfogóként és élőhelyként szolgál.",
@@ -537,7 +537,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-eua-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "'Eua Meeresschutzgebiet", hu: "'Eua Tengeri Rezervátum", ro: "Rezervația Marină 'Eua", en: "'Eua Marine Reserve" },
-    coordinates: { lat: -21.317, lng: -174.933 },
+    coords: [-174.933, -21.317],
     description: {
       de: "Schützt die tiefen Gewässer und Riffe rund um 'Eua, die für ihre Walbegegnungen und Korallenriffe berühmt sind.",
       hu: "Védi az 'Eua körüli mély vizeket és zátonyokat, amelyek bálna-találkozásaikról és korallzátonyaikról híresek.",
@@ -556,7 +556,7 @@ export const tongaLifeV2: POI[] = [
     id: "tonga-nukualofa-royal-gardens-life-v2",
     type: "park",
     name: { de: "Nuku'alofa Königliche Gärten", hu: "Nuku'alofa Királyi Kertek", ro: "Grădinile Regale Nuku'alofa", en: "Nuku'alofa Royal Gardens" },
-    coordinates: { lat: -21.131, lng: -175.201 },
+    coords: [-175.201, -21.131],
     description: {
       de: "Die Gärten des königlichen Palastes beherbergen seltene Schildkröten und jahrhundertealte einheimische Bäume.",
       hu: "A királyi palota kertjei ritka teknősöknek és évszázados őshonos fáknak adnak otthont.",

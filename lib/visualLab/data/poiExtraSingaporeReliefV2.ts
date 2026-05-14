@@ -727,7 +727,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-bukit-gombak-ridge-relief-v2",
     type: "mountain",
     name: { de: "Bukit Gombak Kamm", hu: "Bukit Gombak-gerinc", ro: "Creasta Bukit Gombak", en: "Bukit Gombak Ridge" },
-    coordinates: { lat: 1.3589, lng: 103.7533 },
+    coords: [103.7533, 1.3589],
     description: {
       de: "Dieser Bergrücken im Westen Singapurs erreicht eine Höhe von 133 Metern über dem Meeresspiegel. Er besteht hauptsächlich aus Norit-Gestein und ist das zweithöchste Relief der Insel.",
       hu: "Ez a Szingapúr nyugati részén található gerinc 133 méteres magasságot ér el a tengerszint felett. Főleg norit kőzetből épül fel, és a sziget második legmagasabb pontját képezi.",
@@ -746,7 +746,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-little-guilin-cliffs-relief-v2",
     type: "peak",
     name: { de: "Little Guilin Felsen", hu: "Kis-Kujlin sziklák", ro: "Stâncile Little Guilin", en: "Little Guilin Cliffs" },
-    coordinates: { lat: 1.3551, lng: 103.7538 },
+    coords: [103.7538, 1.3551],
     description: {
       de: "Diese markante Felsformation aus Granit befindet sich in einem ehemaligen Steinbruch in Bukit Batok. Das Relief erinnert an die Karstlandschaften von Guilin in China.",
       hu: "Ez a jellegzetes gránit sziklaformáció egy korábbi kőbányában található Bukit Batokban. A domborzat a kínai Kujlin karsztvidékére emlékeztet.",
@@ -765,7 +765,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-mount-imbiah-summit-relief-v2",
     type: "peak",
     name: { de: "Mount Imbiah Gipfel", hu: "Mount Imbiah-csúcs", ro: "Vârful Mount Imbiah", en: "Mount Imbiah Summit" },
-    coordinates: { lat: 1.2547, lng: 103.8167 },
+    coords: [103.8167, 1.2547],
     description: {
       de: "Der Mount Imbiah ist einer der höchsten Punkte auf der Insel Sentosa und bietet einen weiten Blick über die Straße von Singapur. Das Gebiet ist von dichtem Sekundärwald bedeckt.",
       hu: "A Mount Imbiah a Sentosa-sziget egyik legmagasabb pontja, ahonnan tágas kilátás nyílik a Szingapúri-szorosra. A területet sűrű másodlagos erdő borítja.",
@@ -784,7 +784,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-mount-serapong-hills-relief-v2",
     type: "mountain",
     name: { de: "Mount Serapong Hügel", hu: "Mount Serapong-dombok", ro: "Dealurile Mount Serapong", en: "Mount Serapong Hills" },
-    coordinates: { lat: 1.2483, lng: 103.8317 },
+    coords: [103.8317, 1.2483],
     description: {
       de: "Dieser Hügel im Osten von Sentosa war historisch ein wichtiger Verteidigungspunkt. Das zerklüftete Relief ist heute weitgehend unerschlossen und mit Ruinen aus der Kolonialzeit bedeckt.",
       hu: "Ez a Sentosa keleti részén található domb történelmileg fontos védelmi pont volt. A tagolt domborzat ma jórészt beépítetlen, és gyarmati kori romok borítják.",
@@ -803,7 +803,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-jurong-hill-lookout-relief-v2",
     type: "mountain",
     name: { de: "Jurong Hügel Aussichtspunkt", hu: "Jurong-domb kilátó", ro: "Belvederea Dealului Jurong", en: "Jurong Hill Lookout" },
-    coordinates: { lat: 1.3103, lng: 103.7047 },
+    coords: [103.7047, 1.3103],
     description: {
       de: "Der Jurong Hill ist die höchste Erhebung im Industriegebiet von Jurong. Er dient als Aussichtspunkt über die umliegenden Häfen und Industrieanlagen im Westen der Insel.",
       hu: "A Jurong-domb a Jurong ipari negyed legmagasabb pontja. Kilátóként szolgál a sziget nyugati részén fekvő kikötőkre és ipari létesítményekre.",
@@ -822,7 +822,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-pearls-hill-reservoir-relief-v2",
     type: "mountain",
     name: { de: "Pearl's Hill Reservoir Gelände", hu: "Pearl's Hill tározó domb", ro: "Dealul Rezervorului Pearl's Hill", en: "Pearl's Hill Reservoir" },
-    coordinates: { lat: 1.2847, lng: 103.8406 },
+    coords: [103.8406, 1.2847],
     description: {
       de: "Dieser Hügel am Rande von Chinatown beherbergt eines der ältesten Wasserreservoirs der Insel. Das Relief erhebt sich markant über das umliegende Geschäftsviertel.",
       hu: "Ez a Chinatown szélén található domb ad otthont a sziget egyik legrégebbi víztározójának. A domborzat markánsan kiemelkedik a környező üzleti negyedből.",
@@ -841,7 +841,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-mount-emily-ridge-relief-v2",
     type: "mountain",
     name: { de: "Mount Emily Bergrücken", hu: "Mount Emily-gerinc", ro: "Creasta Mount Emily", en: "Mount Emily Ridge" },
-    coordinates: { lat: 1.3039, lng: 103.8492 },
+    coords: [103.8492, 1.3039],
     description: {
       de: "Der Mount Emily ist eine hügelige Erhebung in der Nähe der Orchard Road. Er war einst Teil einer zusammenhängenden Hügelkette im Zentrum Singapurs.",
       hu: "A Mount Emily egy dombos emelkedő az Orchard Road közelében. Egykor Szingapúr központi részének összefüggő dombláncolatához tartozott.",
@@ -860,7 +860,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-mount-sophia-hillside-relief-v2",
     type: "mountain",
     name: { de: "Mount Sophia Hanglage", hu: "Mount Sophia-domboldal", ro: "Versantul Mount Sophia", en: "Mount Sophia Hillside" },
-    coordinates: { lat: 1.3008, lng: 103.8475 },
+    coords: [103.8475, 1.3008],
     description: {
       de: "Mount Sophia ist ein markanter Hügel im Stadtzentrum, der für seine steilen Treppen und kolonialen Gebäude bekannt ist. Er bildet eine wichtige topografische Grenze zwischen Dhoby Ghaut und Bras Basah.",
       hu: "A Mount Sophia egy jellegzetes domb a városközpontban, amely meredek lépcsőiről és gyarmati épületeiről ismert. Fontos domborzati határt képez Dhoby Ghaut és Bras Basah között.",
@@ -879,7 +879,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-ann-siang-hill-terrace-relief-v2",
     type: "mountain",
     name: { de: "Ann Siang Hill Terrasse", hu: "Ann Siang Hill terasz", ro: "Terasa Ann Siang Hill", en: "Ann Siang Hill" },
-    coordinates: { lat: 1.2811, lng: 103.8447 },
+    coords: [103.8447, 1.2811],
     description: {
       de: "Ann Siang Hill ist der höchste Punkt des Telok Ayer-Bergrückens im historischen Viertel. Die Topografie ist durch enge Gassen und terrassierte Reihenhäuser geprägt.",
       hu: "Az Ann Siang Hill a történelmi negyedben található Telok Ayer-gerinc legmagasabb pontja. Domborzatát szűk utcák és teraszos sorházak jellemzik.",
@@ -898,7 +898,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-bukit-brown-hills-relief-v2",
     type: "mountain",
     name: { de: "Bukit Brown Hügel", hu: "Bukit Brown-dombok", ro: "Dealurile Bukit Brown", en: "Bukit Brown Hills" },
-    coordinates: { lat: 1.3325, lng: 103.8211 },
+    coords: [103.8211, 1.3325],
     description: {
       de: "Das hügelige Gelände von Bukit Brown ist eine natürliche Erweiterung des zentralen Wassereinzugsgebiets. Es besteht aus einer Reihe von sanften Erhebungen und Tälern.",
       hu: "A Bukit Brown dombos vidéke a központi vízgyűjtő terület természetes meghosszabbítása. Lanyha emelkedők és völgyek sorozatából áll.",
@@ -917,7 +917,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-bukit-kalang-highland-relief-v2",
     type: "mountain",
     name: { de: "Bukit Kalang Hochland", hu: "Bukit Kalang-fennsík", ro: "Podișul Bukit Kalang", en: "Bukit Kalang" },
-    coordinates: { lat: 1.3622, lng: 103.8139 },
+    coords: [103.8139, 1.3622],
     description: {
       de: "Bukit Kalang ist eine der höchsten Erhebungen im zentralen Einzugsgebiet und Standort des TreeTop Walk. Das Relief ist durch dichten Primär- und Sekundärwald geprägt.",
       hu: "A Bukit Kalang a központi vízgyűjtő terület egyik legmagasabb pontja, a TreeTop Walk lombkorona-ösvény helyszíne. Domborzatát sűrű elsődleges és másodlagos erdő jellemzi.",
@@ -936,7 +936,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-pulau-tekong-highlands-relief-v2",
     type: "mountain",
     name: { de: "Pulau Tekong Hochland", hu: "Pulau Tekong-felföld", ro: "Zona înaltă Pulau Tekong", en: "Pulau Tekong Highlands" },
-    coordinates: { lat: 1.4111, lng: 104.0417 },
+    coords: [104.0417, 1.4111],
     description: {
       de: "Das Hochland von Pulau Tekong umfasst die hügelige Mitte der größten Nebeninsel Singapurs. Das Relief ist geprägt von Granitformationen und dichtem Küstenwald.",
       hu: "A Pulau Tekong-felföld Szingapúr legnagyobb mellékszigetének dombos középső részét foglalja magában. A domborzatot gránitformációk és sűrű parti erdő jellemzi.",
@@ -955,7 +955,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     id: "singapore-bukit-batok-hill-relief-v2",
     type: "peak",
     name: { de: "Bukit Batok Hügel", hu: "Bukit Batok-domb", ro: "Dealul Bukit Batok", en: "Bukit Batok Hill" },
-    coordinates: { lat: 1.3483, lng: 103.7631 },
+    coords: [103.7631, 1.3483],
     description: {
       de: "Dieser 108 Meter hohe Hügel ist ein markantes geografisches Merkmal im westlichen Singapur. Er besteht aus massivem Granitgestein, das in der Vergangenheit intensiv abgebaut wurde.",
       hu: "Ez a 108 méter magas domb Szingapúr nyugati részének jellegzetes földrajzi formája. Tömör gránitkőzetből áll, amelyet a múltban intenzíven bányásztak.",

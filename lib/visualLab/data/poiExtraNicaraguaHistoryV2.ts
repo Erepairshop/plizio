@@ -817,7 +817,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-minas-de-la-luz-history-v2",
     type: "mine",
     name: { de: "Minen von La Luz", hu: "La Luz bányák", ro: "Minele La Luz", en: "La Luz Mines" },
-    coordinates: { lat: 13.9167, lng: -84.45 },
+    coords: [-84.45, 13.9167],
     description: {
       de: "Die Minen von La Luz waren ein bedeutendes Zentrum der Goldgewinnung in der Region Siuna. Sie prägten die wirtschaftliche und industrielle Entwicklung der nicaraguanischen Karibikküste.",
       hu: "A La Luz bányák az aranykitermelés fontos központja volt a Siuna régióban. Meghatározták a nicaraguai karibi partvidék gazdasági és ipari fejlődését.",
@@ -836,7 +836,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-iglesia-san-nicolas-de-tolentino-history-v2",
     type: "church",
     name: { de: "Iglesia San Nicolás de Tolentino", hu: "San Nicolás de Tolentino templom", ro: "Biserica San Nicolás de Tolentino", en: "San Nicolás de Tolentino Church" },
-    coordinates: { lat: 12.1558, lng: -86.5056 },
+    coords: [-86.5056, 12.1558],
     description: {
       de: "Diese koloniale Kirche in Nagarote ist eines der ältesten religiösen Gebäude in der Region. Sie bewahrt charakteristische architektonische Elemente aus der spanischen Ära.",
       hu: "Ez a nagarote-i koloniális templom a régió egyik legrégebbi vallási épülete. Megőrzi a spanyol korszak jellegzetes építészeti elemeit.",
@@ -855,7 +855,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-fortin-de-acahualinca-history-v2",
     type: "ruins",
     name: { de: "Fortín de Acahualinca", hu: "Acahualinca erődítmény", ro: "Fortăreața Acahualinca", en: "Acahualinca Fortification" },
-    coordinates: { lat: 12.1625, lng: -86.2972 },
+    coords: [-86.2972, 12.1625],
     description: {
       de: "Das Fortín de Acahualinca diente zur strategischen Überwachung des Managuasees. Die Überreste zeugen von den militärischen Strukturen während verschiedener Bürgerkriege.",
       hu: "Az Acahualinca erődítmény a Managua-tó stratégiai megfigyelését szolgálta. A romok a különböző polgárháborúk alatti katonai struktúrákról tanúskodnak.",
@@ -874,7 +874,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-casa-del-obrero-history-v2",
     type: "museum",
     name: { de: "Casa del Obrero", hu: "Casa del Obrero", ro: "Casa del Obrero", en: "Casa del Obrero" },
-    coordinates: { lat: 12.4331, lng: -86.8778 },
+    coords: [-86.8778, 12.4331],
     description: {
       de: "Die Casa del Obrero in León ist ein historisches Gebäude, das für die frühe Arbeiterbewegung in Nicaragua von Bedeutung war. Heute beherbergt es kulturelle Ausstellungen.",
       hu: "A leóni Casa del Obrero egy történelmi épület, amely fontos szerepet játszott a korai nicaraguai munkásmozgalomban. Ma kulturális kiállításoknak ad otthont.",
@@ -893,7 +893,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-fuerte-la-loma-history-v2",
     type: "fortress",
     name: { de: "Fuerte La Loma", hu: "La Loma erőd", ro: "Fortăreața La Loma", en: "La Loma Fortress" },
-    coordinates: { lat: 12.1389, lng: -86.2736 },
+    coords: [-86.2736, 12.1389],
     description: {
       de: "Fuerte La Loma war eine zentrale Verteidigungsanlage über Managua. Sie war während der Somoza-Diktatur militärisch und politisch von großer Bedeutung.",
       hu: "A Fuerte La Loma egy központi védelmi létesítmény volt Managua felett. Jelentős katonai és politikai szerepet játszott a Somoza-diktatúra idején.",
@@ -912,7 +912,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-sitio-pueblo-viejo-history-v2",
     type: "ruins",
     name: { de: "Sitio Pueblo Viejo", hu: "Sitio Pueblo Viejo", ro: "Sitio Pueblo Viejo", en: "Pueblo Viejo Site" },
-    coordinates: { lat: 13.0167, lng: -86.3833 },
+    coords: [-86.3833, 13.0167],
     description: {
       de: "Das Sitio Pueblo Viejo in der Nähe von Estelí enthält Überreste vorspanischer Siedlungen. Die archäologischen Funde geben Einblicke in frühe indigene Kulturen.",
       hu: "Az Estelí közelében található Sitio Pueblo Viejo a spanyolok előtti települések maradványait tartalmazza. A régészeti leletek betekintést nyújtanak a korai bennszülött kultúrákba.",
@@ -931,7 +931,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-tumba-de-pedro-joaquin-chamorro-history-v2",
     type: "monument",
     name: { de: "Grab von Pedro Joaquín Chamorro", hu: "Pedro Joaquín Chamorro sírja", ro: "Mormântul lui Pedro Joaquín Chamorro", en: "Grave of Pedro Joaquín Chamorro" },
-    coordinates: { lat: 12.145, lng: -86.265 },
+    coords: [-86.265, 12.145],
     description: {
       de: "Das Grab des Journalisten Pedro Joaquín Chamorro in Managua ist ein bedeutendes Denkmal des nicaraguanischen politischen Widerstands. Er gilt als Symbol der Pressefreiheit.",
       hu: "Pedro Joaquín Chamorro újságíró sírja Managuában a nicaraguai politikai ellenállás jelentős emlékműve. A sajtószabadság jelképeként tisztelik.",
@@ -950,7 +950,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-ruinas-iglesia-san-sebastian-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Kirche San Sebastián", hu: "San Sebastián templom romjai", ro: "Ruinele Bisericii San Sebastián", en: "Ruins of San Sebastián Church" },
-    coordinates: { lat: 11.9667, lng: -86.25 },
+    coords: [-86.25, 11.9667],
     description: {
       de: "Die Ruinen der San Sebastián Kirche in Diriamba sind Zeugen der vergangenen kolonialen Baukunst. Erdbeben haben das Bauwerk im Laufe der Jahrhunderte stark beschädigt.",
       hu: "A diriambai San Sebastián templom romjai a múltbéli koloniális építészet tanúi. A földrengések évszázadok során súlyosan megrongálták az építményt.",
@@ -969,7 +969,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-museo-antropologico-david-guzman-history-v2",
     type: "museum",
     name: { de: "Museo Antropológico David Guzmán", hu: "Museo Antropológico David Guzmán", ro: "Museo Antropológico David Guzmán", en: "David Guzmán Anthropological Museum" },
-    coordinates: { lat: 13.0833, lng: -86.5833 },
+    coords: [-86.5833, 13.0833],
     description: {
       de: "Dieses Museum in Ocotal bewahrt die anthropologische Geschichte der Region. Es beherbergt Artefakte indigener Gruppen aus Nord-Nicaragua.",
       hu: "Ez az ocotali múzeum őrzi a régió antropológiai történelmét. Észak-Nicaragua bennszülött csoportjainak leleteit mutatja be.",
@@ -988,7 +988,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-hacienda-san-gabriel-history-v2",
     type: "palace",
     name: { de: "Hacienda San Gabriel", hu: "Hacienda San Gabriel", ro: "Hacienda San Gabriel", en: "Hacienda San Gabriel" },
-    coordinates: { lat: 12.3333, lng: -86.1667 },
+    coords: [-86.1667, 12.3333],
     description: {
       de: "Die Hacienda San Gabriel in der Nähe von Masaya ist ein historisches Anwesen. Es ist ein Beispiel für den Wohlstand der Kaffeeproduzenten im 19. Jahrhundert.",
       hu: "A Masaya melletti Hacienda San Gabriel egy történelmi birtok. Példa a 19. századi kávétermesztők jólétére.",
@@ -1007,7 +1007,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     id: "nicaragua-fuerte-san-antonio-history-v2",
     type: "fortress",
     name: { de: "Fuerte San Antonio", hu: "San Antonio erőd", ro: "Fortăreața San Antonio", en: "San Antonio Fortress" },
-    coordinates: { lat: 12.45, lng: -87.1667 },
+    coords: [-87.1667, 12.45],
     description: {
       de: "Fuerte San Antonio war ein wichtiger Verteidigungsposten nahe Chinandega. Er schützte den Zugang zum Hafen Corinto vor Angriffen in früheren Jahrhunderten.",
       hu: "A Fuerte San Antonio fontos védelmi állás volt Chinandega közelében. Korábbi századokban védte a Corinto kikötőhöz vezető hozzáférést a támadásoktól.",

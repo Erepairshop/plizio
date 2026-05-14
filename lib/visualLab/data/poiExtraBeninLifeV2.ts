@@ -727,7 +727,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-boukomb-hippopotamus-pool-life-v2",
     type: "wildlife",
     name: { de: "Boukombé Flusspferd-Becken", hu: "Boukombé víziló-medence", ro: "Bazinul hipopotamilor din Boukombé", en: "Boukombé Hippopotamus Pool" },
-    coordinates: { lat: 10.158, lng: 1.135 },
+    coords: [1.135, 10.158],
     description: {
       de: "Natürliches Wasserbecken nahe Boukombé, das regelmäßig von Flusspferden aufgesucht wird. Es dient als lokaler Rückzugsort für die Wildfauna der Region.",
       hu: "Természetes víznyelő Boukombé közelében, amelyet rendszeresen látogatnak a vízilovak. A régió vadvilágának helyi menedékhelyeként szolgál.",
@@ -758,7 +758,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-forêt-classée-de-dogo-life-v2",
     type: "forest",
     name: { de: "Klassifizierter Wald von Dogo", hu: "Dogo minősített erdő", ro: "Pădurea clasificată Dogo", en: "Dogo Classified Forest" },
-    coordinates: { lat: 6.845, lng: 2.235 },
+    coords: [2.235, 6.845],
     description: {
       de: "Ein geschütztes Waldgebiet, das der Bewahrung der lokalen Biodiversität dient. Das Areal ist ein wichtiger Lebensraum für verschiedene Primatenarten.",
       hu: "Védett erdőterület, amely a helyi biológiai sokféleség megőrzését szolgálja. A terület számos főemlősfaj számára fontos élőhely.",
@@ -789,7 +789,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-jardin-zoologique-parakou-life-v2",
     type: "wildlife",
     name: { de: "Zoologischer Garten Parakou", hu: "Parakou Állatkert", ro: "Grădina Zoologică din Parakou", en: "Parakou Zoological Garden" },
-    coordinates: { lat: 9.352, lng: 2.628 },
+    coords: [2.628, 9.352],
     description: {
       de: "Eine zoologische Einrichtung in Parakou zur Aufzucht und Beobachtung heimischer westafrikanischer Tierarten. Sie dient primär Bildungs- und Erhaltungszwecken.",
       hu: "Állattani intézmény Parakouban, a honos nyugat-afrikai állatfajok tenyésztésére és megfigyelésére. Elsősorban oktatási és állatvédelmi célokat szolgál.",
@@ -820,7 +820,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-wetlands-djougou-life-v2",
     type: "park",
     name: { de: "Feuchtgebiete von Djougou", hu: "Djougou vizes élőhelyek", ro: "Zonele umede din Djougou", en: "Djougou Wetlands" },
-    coordinates: { lat: 9.684, lng: 1.621 },
+    coords: [1.621, 9.684],
     description: {
       de: "Ein weitläufiges Sumpfgebiet nördlich von Djougou, das während der Regenzeit als wichtiger Rastplatz für Zugvögel dient. Es beherbergt eine diverse Flora.",
       hu: "Kiterjedt mocsárvidék Djougou-tól északra, amely az esős évszakban fontos pihenőhelyként szolgál a vándormadarak számára. Változatos flórával rendelkezik.",
@@ -851,7 +851,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-sanctuaire-mangrove-grand-popo-life-v2",
     type: "wildlife",
     name: { de: "Mangrovenschutzgebiet Grand-Popo", hu: "Grand-Popo mangrove rezervátum", ro: "Rezervația de mangrove Grand-Popo", en: "Grand-Popo Mangrove Sanctuary" },
-    coordinates: { lat: 6.275, lng: 1.838 },
+    coords: [1.838, 6.275],
     description: {
       de: "Ein geschütztes Mangroven-Ökosystem nahe der Küste, das als Brutstätte für zahlreiche Fischarten dient. Das Gebiet ist essenziell für die Küstenstabilisierung.",
       hu: "Védett mangrove-ökoszisztéma a tengerpart közelében, amely számos halfaj számára szolgál szaporodóhelyként. A terület elengedhetetlen a partvonal stabilizálásához.",
@@ -882,7 +882,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-reserve-ornithologique-djondji-life-v2",
     type: "wildlife",
     name: { de: "Vogelschutzgebiet Djondji", hu: "Djondji madárrezervátum", ro: "Rezervația ornitologică Djondji", en: "Djondji Ornithological Reserve" },
-    coordinates: { lat: 6.302, lng: 1.954 },
+    coords: [1.954, 6.302],
     description: {
       de: "Ein spezialisiertes Vogelschutzgebiet in der Region Mono, das für seine hohe Dichte an Wasservögeln bekannt ist. Es unterliegt strengen Naturschutzauflagen.",
       hu: "Speciális madárvédelmi terület a Mono régióban, amely a vízimadarak nagy sűrűségéről ismert. Szigorú természetvédelmi szabályozás alatt áll.",
@@ -913,7 +913,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-parc-botanique-kandi-life-v2",
     type: "park",
     name: { de: "Botanischer Park Kandi", hu: "Kandi Botanikus Park", ro: "Parcul Botanic din Kandi", en: "Kandi Botanical Park" },
-    coordinates: { lat: 11.129, lng: 2.942 },
+    coords: [2.942, 11.129],
     description: {
       de: "Ein botanischer Garten in der nordbeninischen Stadt Kandi, der sich auf die Erhaltung lokaler Trockengebietsflora konzentriert. Er bietet Einblicke in die regionale Pflanzenwelt.",
       hu: "Botanikus kert az észak-benini Kandiban, amely a helyi szárazföldi flóra megőrzésére összpontosít. Betekintést nyújt a regionális növényvilágba.",
@@ -944,7 +944,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-zone-biodiversite-bori-life-v2",
     type: "park",
     name: { de: "Biodiversitätszone Bori", hu: "Bori biodiverzitási zóna", ro: "Zona de biodiversitate Bori", en: "Bori Biodiversity Zone" },
-    coordinates: { lat: 9.721, lng: 2.384 },
+    coords: [2.384, 9.721],
     description: {
       de: "Ein schutzwürdiges Gebiet, das durch eine hohe Vielfalt an endemischen Pflanzen- und Insektenarten gekennzeichnet ist. Es fungiert als lokales ökologisches Forschungslabor.",
       hu: "Védelemre érdemes terület, amelyet az endemikus növény- és rovarfajok nagy változatossága jellemez. Helyi ökológiai kutatólaboratóriumként működik.",
@@ -975,7 +975,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-reserve-faune-kouffé-life-v2",
     type: "wildlife",
     name: { de: "Wildschutzgebiet Kouffé", hu: "Kouffé vadrezervátum", ro: "Rezervația de faună Kouffé", en: "Kouffé Wildlife Reserve" },
-    coordinates: { lat: 8.784, lng: 1.982 },
+    coords: [1.982, 8.784],
     description: {
       de: "Großflächiges Wildschutzgebiet im Zentrum von Benin, bekannt für seine Populationen von Antilopen und verschiedenen Raubvögeln. Das Areal unterliegt staatlichem Schutz.",
       hu: "Nagy kiterjedésű vadrezervátum Benin központjában, amely antilopállományáról és különféle ragadozó madarairól ismert. A terület állami védelem alatt áll.",
@@ -1006,7 +1006,7 @@ export const poiExtraBeninLifeV2: POI[] = [
     id: "benin-jardin-tropical-comé-life-v2",
     type: "park",
     name: { de: "Tropischer Garten Comé", hu: "Comé trópusi kert", ro: "Grădina tropicală Comé", en: "Comé Tropical Garden" },
-    coordinates: { lat: 6.643, lng: 1.884 },
+    coords: [1.884, 6.643],
     description: {
       de: "Ein botanischer Garten in Comé, der sich auf die Pflege seltener tropischer Zierpflanzen spezialisiert hat. Er dient als Erholungsort für die lokale Bevölkerung.",
       hu: "Botanikus kert Comé városában, amely ritka trópusi dísznövények gondozására szakosodott. A helyi lakosság kikapcsolódását szolgálja.",

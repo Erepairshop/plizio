@@ -728,7 +728,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-deoksugung-palace-landmarks-v2",
     type: "palace",
     name: { de: "Deoksugung-Palast", hu: "Deokszugung palota", ro: "Palatul Deoksugung", en: "Deoksugung Palace" },
-    coordinates: { lat: 37.5658, lng: 126.9751 },
+    coords: [126.9751, 37.5658],
     description: {
       de: "Einer der fünf großen Paläste Seouls, der für seine einzigartige Mischung aus traditioneller koreanischer und westlicher Architektur bekannt ist.",
       hu: "Szöul öt nagy palotájának egyike, amely egyedülálló módon ötvözi a hagyományos koreai és a nyugati stílusú építészetet.",
@@ -747,7 +747,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-changgyeonggung-palace-landmarks-v2",
     type: "palace",
     name: { de: "Changgyeonggung-Palast", hu: "Csanggjonggung palota", ro: "Palatul Changgyeonggung", en: "Changgyeonggung Palace" },
-    coordinates: { lat: 37.5788, lng: 126.9948 },
+    coords: [126.9948, 37.5788],
     description: {
       de: "Dieser im 15. Jahrhundert erbaute Palast diente oft als Residenz für Königinnen und Konkubinen der Joseon-Dynastie.",
       hu: "A 15. században épült palota gyakran szolgált a Csoszon-dinasztia királynéinak és ágyasainak lakhelyéül.",
@@ -766,7 +766,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-gyeonghuigung-palace-landmarks-v2",
     type: "palace",
     name: { de: "Gyeonghuigung-Palast", hu: "Kjonghigung palota", ro: "Palatul Gyeonghuigung", en: "Gyeonghuigung Palace" },
-    coordinates: { lat: 37.5711, lng: 126.9682 },
+    coords: [126.9682, 37.5711],
     description: {
       de: "Der als Westpalast bekannte Komplex diente in der späten Joseon-Zeit als kaiserliche Sekundärresidenz.",
       hu: "A Nyugati palotaként ismert épületegyüttes a kései Csoszon-korban másodlagos királyi rezidenciaként szolgált.",
@@ -785,7 +785,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-bongeunsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Bongeunsa-Tempel", hu: "Pongeunsza templom", ro: "Templul Bongeunsa", en: "Bongeunsa Temple" },
-    coordinates: { lat: 37.5149, lng: 127.0573 },
+    coords: [127.0573, 37.5149],
     description: {
       de: "Ein bedeutender buddhistischer Tempel im modernen Stadtteil Gangnam, der für seine 23 Meter hohe Buddha-Statue bekannt ist.",
       hu: "Egy jelentős buddhista templom a modern Kangnam negyedben, amely 23 méter magas Buddha-szobráról ismert.",
@@ -804,7 +804,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-jogyesa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Jogyesa-Tempel", hu: "Csogjesza templom", ro: "Templul Jogyesa", en: "Jogyesa Temple" },
-    coordinates: { lat: 37.5744, lng: 126.9822 },
+    coords: [126.9822, 37.5744],
     description: {
       de: "Das spirituelle Zentrum des koreanischen Seon-Buddhismus liegt im Herzen des historischen Viertels von Seoul.",
       hu: "A koreai szon-buddhizmus spirituális központja Szöul történelmi negyedének szívében található.",
@@ -823,7 +823,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-myeongdong-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Myeongdong-Kathedrale", hu: "Mjongdong-székesegyház", ro: "Catedrala Myeongdong", en: "Myeongdong Cathedral" },
-    coordinates: { lat: 37.5631, lng: 126.9873 },
+    coords: [126.9873, 37.5631],
     description: {
       de: "Die erste gotische Kirche Koreas ist ein Wahrzeichen des Katholizismus und ein historisches Symbol der Demokratiebewegung.",
       hu: "Korea első gótikus temploma a katolicizmus jelképe és a demokratikus mozgalmak történelmi szimbóluma.",
@@ -842,7 +842,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-banpo-bridge-rainbow-fountain-landmarks-v2",
     type: "bridge",
     name: { de: "Banpo-Brücke Regenbogenfontäne", hu: "Banpo híd szivárvány szökőkút", ro: "Fântâna Curcubeu de pe podul Banpo", en: "Banpo Bridge Rainbow Fountain" },
-    coordinates: { lat: 37.5133, lng: 127.0017 },
+    coords: [127.0017, 37.5133],
     description: {
       de: "Die längste Brückenfontäne der Welt bietet eine spektakuläre Licht- und Wassershow über dem Han-Fluss in Seoul.",
       hu: "A világ leghosszabb hídi szökőkútja látványos fény- és vízijátékot kínál a szöuli Han-folyó felett.",
@@ -861,7 +861,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-national-museum-of-korea-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Korea", hu: "Koreai Nemzeti Múzeum", ro: "Muzeul Național al Coreei", en: "National Museum of Korea" },
-    coordinates: { lat: 37.5238, lng: 126.9796 },
+    coords: [126.9796, 37.5238],
     description: {
       de: "Das größte Museum Koreas beherbergt über 220.000 Artefakte, die die Geschichte von der Steinzeit bis zur Neuzeit abdecken.",
       hu: "Korea legnagyobb múzeuma több mint 220 000 műtárgynak ad otthont a kőkorszaktól a modern korig.",
@@ -880,7 +880,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-sungnyemun-gate-landmarks-v2",
     type: "monument",
     name: { de: "Sungnyemun-Tor (Namdaemun)", hu: "Szungnjemun kapu (Namdemun)", ro: "Poarta Sungnyemun (Namdaemun)", en: "Sungnyemun Gate (Namdaemun)" },
-    coordinates: { lat: 37.5599, lng: 126.9753 },
+    coords: [126.9753, 37.5599],
     description: {
       de: "Das historische Südtor der Stadtmauer von Seoul ist der erste Nationalschatz Südkoreas und ein Symbol der Stadt.",
       hu: "Szöul városfalának történelmi déli kapuja Dél-Korea első számú nemzeti kincse és a város jelképe.",
@@ -899,7 +899,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-heunginjimun-gate-landmarks-v2",
     type: "monument",
     name: { de: "Heunginjimun-Tor (Dongdaemun)", hu: "Hungindzsimun kapu (Tongdemun)", ro: "Poarta Heunginjimun (Dongdaemun)", en: "Heunginjimun Gate (Dongdaemun)" },
-    coordinates: { lat: 37.5711, lng: 127.0096 },
+    coords: [127.0096, 37.5711],
     description: {
       de: "Das Osttor der alten Stadtmauer von Seoul ist bekannt für seine äußere Schutzmauer, die Ongseong genannt wird.",
       hu: "Szöul régi városfalának keleti kapuja, amely az Ongszongnak nevezett külső védőfaláról ismert.",
@@ -918,7 +918,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-blue-house-cheong-wa-dae-landmarks-v2",
     type: "landmark",
     name: { de: "Das Blaue Haus (Cheong Wa Dae)", hu: "Kék Ház (Cshongvade)", ro: "Casa Albastră (Cheong Wa Dae)", en: "The Blue House (Cheong Wa Dae)" },
-    coordinates: { lat: 37.5866, lng: 126.9748 },
+    coords: [126.9748, 37.5866],
     description: {
       de: "Der ehemalige Amtssitz des südkoreanischen Präsidenten ist für seine markanten blauen Dachziegel bekannt.",
       hu: "A dél-koreai elnök egykori hivatalos rezidenciája jellegzetes kék tetőcserepeiről ismert.",
@@ -937,7 +937,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-namhansanseong-fortress-landmarks-v2",
     type: "castle",
     name: { de: "Festung Namhansanseong", hu: "Namhanszanszong erőd", ro: "Cetatea Namhansanseong", en: "Namhansanseong Fortress" },
-    coordinates: { lat: 37.4772, lng: 127.1772 },
+    coords: [127.1772, 37.4772],
     description: {
       de: "Diese UNESCO-Welterbestätte diente als provisorische Hauptstadt der Joseon-Dynastie während Notzeiten.",
       hu: "Ez az UNESCO Világörökség részét képező erőd a Csoszon-dinasztia ideiglenes fővárosaként szolgált vészhelyzetekben.",
@@ -956,7 +956,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-hahoe-folk-village-landmarks-v2",
     type: "village",
     name: { de: "Hahoe-Volksdorf", hu: "Hahoe népi falu", ro: "Satul folcloric Hahoe", en: "Hahoe Folk Village" },
-    coordinates: { lat: 36.5393, lng: 128.5173 },
+    coords: [128.5173, 36.5393],
     description: {
       de: "Ein traditionelles Dorf aus der Joseon-Zeit, das für seine gut erhaltene Architektur und die Maskentanz-Tradition bekannt ist.",
       hu: "A Csoszon-korból származó hagyományos falu, amely jól megőrzött építészetéről és maszkos tánchagyományáról ismert.",
@@ -975,7 +975,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-yangdong-folk-village-landmarks-v2",
     type: "village",
     name: { de: "Yangdong-Volksdorf", hu: "Jangdong népi falu", ro: "Satul folcloric Yangdong", en: "Yangdong Folk Village" },
-    coordinates: { lat: 36.0006, lng: 129.2525 },
+    coords: [129.2525, 36.0006],
     description: {
       de: "Südkoreas größtes traditionelles Dorf zeigt die aristokratische Kultur und konfuzianische Lebensweise der Joseon-Dynastie.",
       hu: "Dél-Korea legnagyobb hagyományos faluja a Csoszon-dinasztia arisztokrata kultúráját és konfuciánus életmódját mutatja be.",
@@ -994,7 +994,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-beomeosa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Beomeosa-Tempel", hu: "Pomeosza templom", ro: "Templul Beomeosa", en: "Beomeosa Temple" },
-    coordinates: { lat: 35.2839, lng: 129.0614 },
+    coords: [129.0614, 35.2839],
     description: {
       de: "Dieser am Fuße des Berges Geumjeongsan in Busan gelegene Tempel ist einer der wichtigsten buddhistischen Orte Südkoreas.",
       hu: "A puszani Kumdzsongszan-hegy lábánál található templom Dél-Korea egyik legfontosabb buddhista helyszíne.",
@@ -1013,7 +1013,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-gwangan-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Gwangan-Brücke (Diamantbrücke)", hu: "Kvangan híd (Gyémánt híd)", ro: "Podul Gwangan (Podul de Diamant)", en: "Gwangan Bridge (Diamond Bridge)" },
-    coordinates: { lat: 35.1485, lng: 129.1271 },
+    coords: [129.1271, 35.1485],
     description: {
       de: "Busans Wahrzeichen ist die zweitlängste Hängebrücke Koreas und bietet nachts ein spektakuläres LED-Lichtspiel.",
       hu: "Puszan jelképe Korea második leghosszabb függőhídja, amely éjszaka látványos LED-fényjátékkal kápráztat el.",
@@ -1032,7 +1032,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-busan-tower-landmarks-v2",
     type: "tower",
     name: { de: "Busan-Turm", hu: "Puszan-torony", ro: "Turnul Busan", en: "Busan Tower" },
-    coordinates: { lat: 35.1007, lng: 129.0326 },
+    coords: [129.0326, 35.1007],
     description: {
       de: "Der im Yongdusan-Park gelegene Turm bietet einen 360-Grad-Panoramablick auf den Hafen und die Stadt Busan.",
       hu: "A Jongduszan-parkban található torony 360 fokos panorámát nyújt Puszan kikötőjére és a városra.",
@@ -1051,7 +1051,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-un-memorial-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "UN-Gedenkfriedhof", hu: "ENSZ-emléktemető", ro: "Cimitirul Memorial al ONU", en: "UN Memorial Cemetery" },
-    coordinates: { lat: 35.1278, lng: 129.0978 },
+    coords: [129.0978, 35.1278],
     description: {
       de: "Der weltweit einzige UN-Friedhof ehrt die Soldaten, die während des Koreakriegs unter dem UN-Kommando fielen.",
       hu: "A világ egyetlen ENSZ-temetője azoknak a katonáknak állít emléket, akik az ENSZ parancsnoksága alatt estek el a koreai háborúban.",
@@ -1070,7 +1070,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-haeinsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Haeinsa-Tempel", hu: "Heinsza templom", ro: "Templul Haeinsa", en: "Haeinsa Temple" },
-    coordinates: { lat: 35.8011, lng: 128.0984 },
+    coords: [128.0984, 35.8011],
     description: {
       de: "Ein bedeutender Tempel, der die Tripitaka Koreana beherbergt, die weltweit vollständigste Sammlung buddhistischer Texte auf Holzblöcken.",
       hu: "Jelentős templom, amely a Tripitaka Koreana-nak ad otthont, a világ legteljesebb buddhista szöveggyűjteményének fadúcokon.",
@@ -1089,7 +1089,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-tongdosa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Tongdosa-Tempel", hu: "Thongdosza templom", ro: "Templul Tongdosa", en: "Tongdosa Temple" },
-    coordinates: { lat: 35.4831, lng: 129.0642 },
+    coords: [129.0642, 35.4831],
     description: {
       de: "Dieser Tempel ist berühmt dafür, dass er keine Buddha-Statuen in der Haupthalle hat, da er echte Reliquien Buddhas beherbergt.",
       hu: "Ez a templom arról híres, hogy a főcsarnokában nincsenek Buddha-szobrok, mivel Buddha valódi ereklyéit őrzi.",
@@ -1108,7 +1108,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-songgwangsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Songgwangsa-Tempel", hu: "Szonggvangsza templom", ro: "Templul Songgwangsa", en: "Songgwangsa Temple" },
-    coordinates: { lat: 34.9961, lng: 127.2718 },
+    coords: [127.2718, 34.9961],
     description: {
       de: "Songgwangsa ist als einer der drei Juwelen-Tempel Koreas bekannt und repräsentiert die buddhistische Gemeinschaft (Sangha).",
       hu: "Szonggvangsza Korea három „ékszertemplomának” egyikeként ismert, a buddhista közösséget (szangha) képviseli.",
@@ -1127,7 +1127,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-beopjusa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Beopjusa-Tempel", hu: "Popdzsusza templom", ro: "Templul Beopjusa", en: "Beopjusa Temple" },
-    coordinates: { lat: 36.5413, lng: 127.8315 },
+    coords: [127.8315, 36.5413],
     description: {
       de: "Ein historischer Tempel im Songnisan-Nationalpark, der für seine riesige goldene Buddha-Statue und eine fünfstöckige Holzpagode bekannt ist.",
       hu: "Történelmi templom a Szongniszan Nemzeti Parkban, amely hatalmas arany Buddha-szobráról és egy ötszintes fapagodáról ismert.",
@@ -1146,7 +1146,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-hwaeomsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Hwaeomsa-Tempel", hu: "Hveomsza templom", ro: "Templul Hwaeomsa", en: "Hwaeomsa Temple" },
-    coordinates: { lat: 35.2575, lng: 127.4914 },
+    coords: [127.4914, 35.2575],
     description: {
       de: "Ein prächtiger Tempel am Hang des Jirisan-Gebirges, der einige der wertvollsten Nationalschätze Koreas beherbergt.",
       hu: "Pompás templom a Csiriszan-hegység lejtőjén, amely Korea néhány legértékesebb nemzeti kincsének ad otthont.",
@@ -1165,7 +1165,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-tapsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Tapsa-Tempel", hu: "Thapsza templom", ro: "Templul Tapsa", en: "Tapsa Temple" },
-    coordinates: { lat: 35.6317, lng: 127.4089 },
+    coords: [127.4089, 35.6317],
     description: {
       de: "Ein mysteriöser Tempel am Fuße des Berges Maisan, der für seine über 80 handgestapelten Steintürme bekannt ist.",
       hu: "Egy titokzatos templom a Maiszan-hegy lábánál, amely több mint 80 kézzel rakott kőtornyáról ismert.",
@@ -1184,7 +1184,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-seongsan-ilchulbong-tuff-cone-landmarks-v2",
     type: "peak",
     name: { de: "Seongsan Ilchulbong (Sonnenaufgangsgipfel)", hu: "Szongszan Ilcshulbong (Napfelkelte-csúcs)", ro: "Seongsan Ilchulbong (Vârful Răsăritului)", en: "Seongsan Ilchulbong (Sunrise Peak)" },
-    coordinates: { lat: 33.4585, lng: 126.9431 },
+    coords: [126.9431, 33.4585],
     description: {
       de: "Ein riesiger Tuffkegel an der Ostküste von Jeju, der durch eine Unterwassereruption vor etwa 5.000 Jahren entstand.",
       hu: "Hatalmas tufakúp Csedzsu keleti partján, amely egy körülbelül 5000 évvel ezelőtti víz alatti kitörés során keletkezett.",
@@ -1203,7 +1203,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-manjanggul-cave-landmarks-v2",
     type: "landmark",
     name: { de: "Manjanggul-Höhle", hu: "Mandzsanggul-barlang", ro: "Peștera Manjanggul", en: "Manjanggul Cave" },
-    coordinates: { lat: 33.5283, lng: 126.7715 },
+    coords: [126.7715, 33.5283],
     description: {
       de: "Einer der feinsten Lavatunnel der Welt mit einer beeindruckenden Vielfalt an geologischen Formationen auf Jeju.",
       hu: "A világ egyik legszebb lávabarlangja Csedzsu-szigetén, lenyűgöző geológiai képződményekkel.",
@@ -1222,7 +1222,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-daepo-jusangjeolli-cliff-landmarks-v2",
     type: "landmark",
     name: { de: "Daepo Jusangjeolli-Klippen", hu: "Tepo Csuszangdzsolli-sziklák", ro: "Faleza Daepo Jusangjeolli", en: "Daepo Jusangjeolli Cliff" },
-    coordinates: { lat: 33.2378, lng: 126.4251 },
+    coords: [126.4251, 33.2378],
     description: {
       de: "Spektakuläre hexagonale Steinsäulen an der Südküste von Jeju, die durch die schnelle Abkühlung von Lava entstanden sind.",
       hu: "Látványos hatszögletű kőoszlopok Csedzsu déli partján, amelyek a láva gyors lehűlése során keletkeztek.",
@@ -1241,7 +1241,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-yakcheonsa-temple-landmarks-v2",
     type: "monument",
     name: { de: "Yakcheonsa-Tempel", hu: "Jakcshonsza templom", ro: "Templul Yakcheonsa", en: "Yakcheonsa Temple" },
-    coordinates: { lat: 33.245, lng: 126.4526 },
+    coords: [126.4526, 33.245],
     description: {
       de: "Einer der größten Tempel Asiens auf der Insel Jeju, bekannt für seine beeindruckende Architektur und die heilende Quelle.",
       hu: "Ázsia egyik legnagyobb temploma Csedzsu-szigetén, amely lenyűgöző építészetéről és gyógyforrásáról ismert.",
@@ -1260,7 +1260,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-odusan-unification-observatory-landmarks-v2",
     type: "landmark",
     name: { de: "Odusan-Vereinigungs-Observatorium", hu: "Oduszan Egyesítési Obszervatórium", ro: "Observatorul Unificării Odusan", en: "Odusan Unification Observatory" },
-    coordinates: { lat: 37.7711, lng: 126.6853 },
+    coords: [126.6853, 37.7711],
     description: {
       de: "Ein strategischer Beobachtungspunkt am Zusammenfluss der Flüsse Han und Imjin mit Blick auf Nordkorea.",
       hu: "Stratégiai megfigyelőpont a Han és az Imdzsin folyók találkozásánál, kilátással Észak-Koreára.",
@@ -1279,7 +1279,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-imjingak-pyeonghwa-nuri-park-landmarks-v2",
     type: "park",
     name: { de: "Imjingak Pyeonghwa-Nuri Park", hu: "Imdzsingak Phjonghva-Nuri Park", ro: "Parcul Imjingak Pyeonghwa-Nuri", en: "Imjingak Pyeonghwa-Nuri Park" },
-    coordinates: { lat: 37.8893, lng: 126.7408 },
+    coords: [126.7408, 37.8893],
     description: {
       de: "Ein Friedenspark nahe der DMZ, der die Sehnsucht nach der Wiedervereinigung der koreanischen Halbinsel symbolisiert.",
       hu: "A DMZ közelében található békepark, amely a koreai félsziget újraegyesítése utáni vágyat szimbolizálja.",
@@ -1298,7 +1298,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-incheon-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Incheon-Brücke", hu: "Incshon híd", ro: "Podul Incheon", en: "Incheon Bridge" },
-    coordinates: { lat: 37.4144, lng: 126.5403 },
+    coords: [126.5403, 37.4144],
     description: {
       de: "Südkoreas längste Brücke verbindet den internationalen Flughafen Incheon mit der modernen Planstadt Songdo.",
       hu: "Dél-Korea leghosszabb hídja, amely az Incshon nemzetközi repülőteret köti össze Szongdo modern városával.",
@@ -1317,7 +1317,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-namwon-gwanghallu-won-garden-landmarks-v2",
     type: "landmark",
     name: { de: "Gwanghallu-won Garten", hu: "Kvanghallu-von kert", ro: "Grădina Gwanghallu-won", en: "Gwanghallu-won Garden" },
-    coordinates: { lat: 35.4042, lng: 127.3872 },
+    coords: [127.3872, 35.4042],
     description: {
       de: "Ein klassischer koreanischer Garten in Namwon, der als Schauplatz der berühmten Liebesgeschichte von Chunhyang bekannt ist.",
       hu: "Hagyományos koreai kert Namvonban, amely a híres Cshunhjang-szerelmi történet helyszíneként ismert.",
@@ -1336,7 +1336,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-sosunseowon-confucian-academy-landmarks-v2",
     type: "university",
     name: { de: "Sosunseowon Konfuzianische Akademie", hu: "Szoszunseovon konfuciánus akadémia", ro: "Academia Confucianistă Sosunseowon", en: "Sosunseowon Confucian Academy" },
-    coordinates: { lat: 36.9247, lng: 128.5778 },
+    coords: [128.5778, 36.9247],
     description: {
       de: "Die erste staatlich anerkannte konfuzianische Akademie Koreas ist ein Symbol für Bildung und Ahnenverehrung der Joseon-Zeit.",
       hu: "Korea első államilag elismert konfuciánus akadémiája a Csoszon-kori oktatás és ősök tiszteletének jelképe.",
@@ -1355,7 +1355,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-buyeo-jeongnimsa-temple-site-landmarks-v2",
     type: "ruins",
     name: { de: "Jeongnimsa-Tempelruine", hu: "Csongnimsza templomrom", ro: "Situl templului Jeongnimsa", en: "Jeongnimsa Temple Site" },
-    coordinates: { lat: 36.2792, lng: 126.9158 },
+    coords: [126.9158, 36.2792],
     description: {
       de: "Ein bedeutendes Relikt der Baekje-Dynastie in Buyeo, bekannt für seine elegante fünfstöckige Steinpagode.",
       hu: "A Pekcse-dinasztia jelentős emléke Pujeóban, amely elegáns, ötszintes kőpagodájáról ismert.",
@@ -1374,7 +1374,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-gongju-gongsanseong-fortress-landmarks-v2",
     type: "castle",
     name: { de: "Festung Gongsanseong", hu: "Kongszanszong erőd", ro: "Cetatea Gongsanseong", en: "Gongsanseong Fortress" },
-    coordinates: { lat: 36.4604, lng: 127.1264 },
+    coords: [127.1264, 36.4604],
     description: {
       de: "Die Bergfestung in Gongju schützte die Hauptstadt der Baekje-Dynastie über 60 Jahre lang gegen Angreifer.",
       hu: "A kongdzsui hegyi erőd több mint 60 éven át védte a Pekcse-dinasztia fővárosát a támadóktól.",
@@ -1393,7 +1393,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-sejong-center-performing-arts-landmarks-v2",
     type: "theater",
     name: { de: "Sejong Center für darstellende Künste", hu: "Szedzsong Előadóművészeti Központ", ro: "Centrul Sejong pentru Artele Spectacolului", en: "Sejong Center for the Performing Arts" },
-    coordinates: { lat: 37.5722, lng: 126.9757 },
+    coords: [126.9757, 37.5722],
     description: {
       de: "Einer der größten Kulturkomplexe in Seoul, bekannt für seine traditionell inspirierte moderne Architektur am Gwanghwamun-Platz.",
       hu: "Szöul egyik legnagyobb kulturális központja, amely a Kvanghvamun téren található, hagyomány ihlette modern építészetéről ismert.",
@@ -1412,7 +1412,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-leeum-samsung-museum-of-art-landmarks-v2",
     type: "museum",
     name: { de: "Leeum, Samsung Kunstmuseum", hu: "Leeum, Samsung Művészeti Múzeum", ro: "Leeum, Muzeul de Artă Samsung", en: "Leeum, Samsung Museum of Art" },
-    coordinates: { lat: 37.5385, lng: 126.9997 },
+    coords: [126.9997, 37.5385],
     description: {
       de: "Ein weltweit renommiertes Museum in Seoul, das traditionelle koreanische Kunst und internationale zeitgenössische Kunst vereint.",
       hu: "Világszerte elismert szöuli múzeum, amely a hagyományos koreai művészetet és a nemzetközi kortárs művészetet ötvözi.",
@@ -1431,7 +1431,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-incheon-wolmi-park-landmarks-v2",
     type: "park",
     name: { de: "Wolmi-Park", hu: "Volmi-park", ro: "Parcul Wolmi", en: "Wolmi Park" },
-    coordinates: { lat: 37.4764, lng: 126.5986 },
+    coords: [126.5986, 37.4764],
     description: {
       de: "Ein geschichtsträchtiger Park auf der Insel Wolmido, der für seine traditionellen Gärten und seine Rolle in der Incheon-Landung bekannt ist.",
       hu: "Történelmi jelentőségű park a Volmido-szigeten, amely hagyományos kertjeiről és az incshoni partraszállásban játszott szerepéről ismert.",
@@ -1450,7 +1450,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-seodaemun-independence-park-landmarks-v2",
     type: "park",
     name: { de: "Seodaemun-Unabhängigkeitspark", hu: "Szodemun Függetlenségi Park", ro: "Parcul Independenței Seodaemun", en: "Seodaemun Independence Park" },
-    coordinates: { lat: 37.5741, lng: 126.9602 },
+    coords: [126.9602, 37.5741],
     description: {
       de: "Ein historischer Ort in Seoul, der an den Widerstand Koreas gegen die japanische Kolonialherrschaft erinnert.",
       hu: "Szöuli történelmi emlékhely, amely Korea japán gyarmati uralom elleni ellenállásának állít emléket.",
@@ -1469,7 +1469,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-haemindang-oriental-pharmacy-landmarks-v2",
     type: "landmark",
     name: { de: "Haemindang-Apotheke", hu: "Hemindang gyógyszertár", ro: "Farmacia Haemindang", en: "Haemindang Oriental Pharmacy" },
-    coordinates: { lat: 37.5662, lng: 126.9898 },
+    coords: [126.9898, 37.5662],
     description: {
       de: "Ein historisches Gebäude im Viertel Euljiro, das einst als kaiserliche Apotheke zur medizinischen Versorgung des Volkes diente.",
       hu: "Az Uldzsiro negyedben található történelmi épület, amely egykor királyi gyógyszertárként szolgált a nép orvosi ellátására.",
@@ -1488,7 +1488,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-myeongdong-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Myeongdong-Theater", hu: "Mjongdong Színház", ro: "Teatrul Myeongdong", en: "Myeongdong Theatre" },
-    coordinates: { lat: 37.5641, lng: 126.9845 },
+    coords: [126.9845, 37.5641],
     description: {
       de: "Ein bedeutendes Kulturdenkmal und ehemaliges Nationaltheater im Herzen des geschäftigen Einkaufsviertels Myeongdong.",
       hu: "Jelentős kulturális műemlék és egykori nemzeti színház a nyüzsgő Mjongdong bevásárlónegyed szívében.",
@@ -1507,7 +1507,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
     id: "southkorea-jangchung-arena-landmarks-v2",
     type: "landmark",
     name: { de: "Jangchung-Arena", hu: "Csangcshung Aréna", ro: "Arena Jangchung", en: "Jangchung Arena" },
-    coordinates: { lat: 37.5583, lng: 127.0067 },
+    coords: [127.0067, 37.5583],
     description: {
       de: "Die erste multifunktionale Sporthalle Koreas ist ein ikonisches Gebäude am Fuße des Namsan-Berges in Seoul.",
       hu: "Korea első többfunkciós sportcsarnoka egy ikonikus épület a szöuli Namszan-hegy lábánál.",

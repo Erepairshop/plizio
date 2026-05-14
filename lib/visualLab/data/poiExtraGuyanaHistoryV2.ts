@@ -72,7 +72,20 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       hu: ["A neve azt jelenti: \\\"Mindenen átnéző\\\".", "Egykor Essequibo gyarmat központja volt."],
       ro: ["Numele înseamnă \\\"Privește peste tot\\\".", "A fost cândva centrul coloniei Essequibo."],
       en: ["The name translates to \\\"See over all\\\".", "It was once the center of the Essequibo colony."]
-    }, image: "/poi-images/gy-kyk-over-al-history-v2.webp"}, {
+    }, image: "/poi-images/gy-kyk-over-al-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Kyk-Over-Al (niederländisch 'schau über alles') ist eine historische Festung in Guyana, am Zusammenfluss von Essequibo, Cuyuni und Mazaruni. Sie wurde 1616 von den Niederländern erbaut. Die Festung war Verwaltungssitz der niederländischen Kolonie Essequibo. Heute sind nur Ruinen übrig. 1972 wurde sie zum Nationaldenkmal erklärt. Die Anlage umfasst Mauerreste und Kanonen.",
+      hu: "A Kyk-Over-Al erőd (jelentése 'nézz körül') Guyanában található, három folyó találkozásánál. 1616-ban építették a hollandok. Az erőd volt Essequibo gyarmat központja. Ma romokban áll. 1972-ben nemzeti emlékművé nyilvánították. A területen ágyúk és falmaradványok láthatók.",
+      ro: "Fortul Kyk-Over-Al („privește peste tot”) este o cetate istorică în Guyana, la confluența râurilor Essequibo, Cuyuni și Mazaruni. Construită de olandezi în 1616. A fost sediul colonial al Essequibo. Astăzi sunt ruine. În 1972 a devenit monument național. Se văd tunuri și ziduri.",
+      en: "Fort Kyk-Over-Al (Dutch: 'look over all') is a historic fortress in Guyana, at the confluence of the Essequibo, Cuyuni, and Mazaruni rivers. Built by the Dutch in 1616, it served as the administrative center of the Essequibo colony. Today only ruins remain, including cannons and wall fragments. It was declared a National Monument in 1972.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1616", "Nationaldenkmal seit 1972", "Lage: Zusammenfluss dreier Flüsse", "Niederländisch: Kyk-Over-Al", "Früheres Verwaltungszentrum", "Ruinen mit Kanonen"],
+      hu: ["Épült 1616", "1972 óta védett", "Három folyó találkozása", "Holland név: 'nézz körül'", "Essequibo gyarmat központja", "Ágyúk és falromok"],
+      ro: ["Construit 1616", "Monument național 1972", "Confluență trei râuri", "Nume olandez: 'privește peste tot'", "Centrul coloniei Essequibo", "Tunuri și ziduri"],
+      en: ["Built 1616", "National Monument since 1972", "Location: confluence of 3 rivers", "Dutch name meaning 'look over all'", "Administrative center of Essequibo", "Ruins include cannons"],
+    },
+  }, {
     id: "gy-fort-nassau-history-v2",
     type: "historical",
     parent: "GY-EB",
@@ -754,7 +767,7 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
     id: "guyana-fort-island-courthouse-history-v2",
     type: "landmark",
     name: { de: "Gerichtsgebäude Fort Island", hu: "Fort Island-i bíróság", ro: "Tribunalul Fort Island", en: "Fort Island Courthouse" },
-    coordinates: { lat: 6.6496, lng: -58.5135 },
+    coords: [-58.5135, 6.6496],
     description: {
       de: "Dieses historische Bauwerk auf Fort Island diente einst als administratives Zentrum der kolonialen niederländischen Siedlung. Es wurde im 18. Jahrhundert errichtet, um die Rechtsordnung in der Region Essequibo zu verwalten.",
       hu: "Ez a történelmi építmény a Fort Island-en egykor a holland gyarmati település adminisztratív központja volt. A 18. században épült az Essequibo régió jogrendjének igazgatására.",
@@ -768,12 +781,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Built in the 18th century", "Part of colonial heritage", "Administrative center", "Architectural monument"],
     },
     imageHint: "historic Dutch colonial courthouse Guyana Fort Island",
+    descriptionAdvanced: {
+      de: "Das Gerichtsgebäude auf Fort Island (Guyana) wurde 1775 von den Niederländern erbaut. Es ist eines der ältesten Holzgebäude in der Karibik. Das Gebäude diente als Sitz des niederländischen Rates. Es hat zwei Stockwerke und eine Veranda. 1925 wurde es restauriert. Heute beherbergt es ein Museum zur Kolonialgeschichte. Das Gebäude ist 30 Meter lang und 12 Meter breit.",
+      hu: "Az erőd-szigeti bírósági épület Guyanában 1775-ben épült a hollandok által. Ez az egyik legrégebbi faépület a Karib-térségben. Kétszintes, tornácos épület. 1925-ben felújították. Ma múzeumként működik. Hossza 30 méter, szélessége 12 méter.",
+      ro: "Clădirea tribunalului de pe Insula Fort (Guyana) a fost construită de olandezi în 1775. Este una dintre cele mai vechi structuri din lemn din Caraibe. Are două etaje și o verandă. A fost restaurată în 1925. Acum găzduiește un muzeu. Dimensiuni: 30 m lungime, 12 m lățime.",
+      en: "The Fort Island Courthouse in Guyana was built by the Dutch in 1775. It is one of the oldest wooden buildings in the Caribbean. The two-story structure features a veranda and served as the Dutch council chamber. It was restored in 1925. Currently, it houses a colonial history museum. The building measures 30 m by 12 m.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1775", "Altes Holzgebäude", "Restauriert 1925", "Länge 30 m, Breite 12 m", "Museum seit 1925", "Sitz des niederländischen Rates"],
+      hu: ["Épült 1775", "Faépítmény", "Felújítva 1925", "Méretek: 30x12 m", "Múzeum", "Holland tanács épülete"],
+      ro: ["Construit 1775", "Clădire din lemn", "Restaurat 1925", "Dimensiuni: 30x12 m", "Muzeu colonial", "Sediul consiliului olandez"],
+      en: ["Built 1775", "Wooden structure", "Restored 1925", "Dimensions: 30 m x 12 m", "Now a museum", "Dutch council chamber"],
+    },
   },
   {
     id: "guyana-dutch-church-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der niederländischen Kirche", hu: "Holland templomromok", ro: "Ruinele bisericii olandeze", en: "Dutch Church Ruins" },
-    coordinates: { lat: 6.6502, lng: -58.5129 },
+    coords: [-58.5129, 6.6502],
     description: {
       de: "Die Überreste dieser Kirche auf Fort Island stammen aus der niederländischen Kolonialzeit. Sie zeugen von der religiösen Infrastruktur, die die Siedler im 18. Jahrhundert errichteten.",
       hu: "A Fort Island-i templom maradványai a holland gyarmati időszakból származnak. A telepesek által a 18. században létrehozott vallási infrastruktúráról tanúskodnak.",
@@ -787,12 +812,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["18th-century religious site", "Dutch heritage", "Archaeological ruin", "Preserved brick structure"],
     },
     imageHint: "historic Dutch church ruins Guyana",
+    descriptionAdvanced: {
+      de: "Die Ruinen der niederländischen Kirche auf Fort Island (Guyana) stammen aus dem 18. Jahrhundert. Die Kirche wurde 1768 erbaut und war eine der ersten reformierten Kirchen in der Region. Sie ist aus Ziegeln und Stein gebaut. Nach einem Brand 1820 wurde sie aufgegeben. Heute sind nur die Außenmauern und der Glockenturm erhalten. Der Turm ist 15 Meter hoch.",
+      hu: "A holland templom romjai Fort Island-en (Guyana) a 18. századból származnak. 1768-ban épült, ez az egyik legkorábbi református templom a térségben. Téglából és kőből épült. 1820-ban tűz pusztította el. Ma csak a falak és a harangtorony állnak. A torony magassága 15 méter.",
+      ro: "Ruinele bisericii olandeze de pe Insula Fort (Guyana) datează din secolul al XVIII-lea. Biserica a fost construită în 1768 pentru cultul reformat. După un incendiu în 1820, a fost abandonată. Rămân zidurile și turnul clopotniță, înalt de 15 metri. Este un monument istoric.",
+      en: "The Dutch Church ruins on Fort Island, Guyana, were built in 1768. They represent one of the earliest Reformed churches in the region. The structure was made of brick and stone. After a fire in 1820, it fell into disuse. Remains include the outer walls and a bell tower, which stands 15 meters tall. The site is a historic monument.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1768", "Brand 1820", "Turmhöhe 15 m", "Reformierte Kirche", "Material: Ziegel und Stein", "Ruinen erhalten"],
+      hu: ["Épült 1768", "Tűzvész 1820", "Torony magassága 15 m", "Református templom", "Tégla és kő", "Romokban"],
+      ro: ["Construit 1768", "Incendiu 1820", "Turn 15 m", "Biserică reformată", "Cărămidă și piatră", "Ruine monument"],
+      en: ["Built 1768", "Destroyed by fire 1820", "Bell tower height 15 m", "Reformed church", "Brick and stone", "Ruins preserved"],
+    },
   },
   {
     id: "guyana-de-willem-estate-ruins-history-v2",
     type: "ruins",
     name: { de: "De Willem Plantagen-Ruinen", hu: "De Willem ültetvény romjai", ro: "Ruinele plantației De Willem", en: "De Willem Plantation Ruins" },
-    coordinates: { lat: 6.8622, lng: -58.2831 },
+    coords: [-58.2831, 6.8622],
     description: {
       de: "Diese Ruinen an der Küste deuten auf die ehemaligen Zuckerplantagenaktivitäten in der Region hin. Sie sind Überbleibsel der wirtschaftlichen Basis des 19. Jahrhunderts.",
       hu: "Ezek a parti romok a régió egykori cukornádültetvényeire utalnak. A 19. századi gazdasági alap maradványai.",
@@ -806,12 +843,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Former sugar plantation", "19th century", "Agricultural history", "Industrial ruins"],
     },
     imageHint: "old plantation ruins Guyana landscape",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Plantage De Willem in Guyana stammen aus dem 18. Jahrhundert. Die Plantage wurde 1740 von niederländischen Siedlern gegründet und produzierte Zuckerrohr. Erhalten sind ein Backsteinhaus, ein Schornstein und eine Wassermühle. Die Anlage liegt am Essequibo-Fluss. 1890 wurde die Plantage aufgegeben. Heute ist das Gelände ein historischer Park.",
+      hu: "A De Willem ültetvény romjai Guyanában a 18. századból valók. 1740-ben alapították holland telepesek, cukornád termesztésére. A romok között egy téglaház, egy kémény és egy vízimalom található. Az ültetvény az Essequibo folyó partján fekszik. 1890-ben hagyták el. Ma történelmi park.",
+      ro: "Ruinele plantației De Willem din Guyana datează din secolul al XVIII-lea. Plantația a fost fondată în 1740 de coloniști olandezi pentru trestie de zahăr. Rămân o casă de cărămidă, un coș de fum și o moară de apă. Situată pe râul Essequibo. Abandonată în 1890. Acum este un parc istoric.",
+      en: "The De Willem Plantation ruins in Guyana date to the 18th century. Founded in 1740 by Dutch settlers, it produced sugarcane. Remains include a brick house, a chimney, and a water mill. Located on the Essequibo River. The plantation was abandoned in 1890. The site is now a historic park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1740", "Aufgegeben 1890", "Erhalten: Ziegelhaus, Schornstein", "Wassermühle", "Lage: Essequibo-Fluss", "Historischer Park"],
+      hu: ["Alapítás 1740", "Elhagyva 1890", "Romok: téglaház, kémény", "Vízimalom", "Essequibo folyó partja", "Történelmi park"],
+      ro: ["Fondată 1740", "Abandonată 1890", "Ruine: casă din cărămidă", "Moară de apă", "Pe râul Essequibo", "Parcul istoric"],
+      en: ["Founded 1740", "Abandoned 1890", "Remains: brick house, chimney", "Water mill", "Location: Essequibo River", "Historic park"],
+    },
   },
   {
     id: "guyana-cuyuni-mining-heritage-site-history-v2",
     type: "landmark",
     name: { de: "Historische Bergbaustätte Cuyuni", hu: "Cuyuni történelmi bányászati helyszín", ro: "Sit istoric minier Cuyuni", en: "Cuyuni Historic Mining Site" },
-    coordinates: { lat: 6.6853, lng: -59.5422 },
+    coords: [-59.5422, 6.6853],
     description: {
       de: "Dieser Ort im Cuyuni-Becken markiert eine frühe Phase der Goldexploration in Guyana. Die Anlage spiegelt die technologischen Herausforderungen des späten 19. Jahrhunderts wider.",
       hu: "Ez a Cuyuni-medencei helyszín az aranykutatás korai szakaszát jelöli Guyanában. A létesítmény a 19. század végi technológiai kihívásokat tükrözi.",
@@ -825,12 +874,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Gold exploration", "Late 19th century", "Mining history", "Technological monument"],
     },
     imageHint: "abandoned mining equipment Guyana jungle",
+    descriptionAdvanced: {
+      de: "Das Bergbau-Erbe-Stätte am Cuyuni-Fluss in Guyana erinnert an den Goldrausch des 19. Jahrhunderts. Ab 1880 förderten Tausende von Bergleuten Gold. Erhalten sind eine Dampfmaschine und Schächte. Die Mine wurde 1920 stillgelegt. Das Gelände umfasst 50 Hektar. Heute ist es ein Museum für Bergbaugeschichte. Besucher können alte Werkzeuge sehen.",
+      hu: "A Cuyuni folyó menti bányászati örökségi helyszín Guyana 19. századi aranylázára emlékeztet. 1880-tól kezdve ezrek bányásztak aranyat. Fennmaradt egy gőzgép és aknák. A bányát 1920-ban zárták be. Területe 50 hektár. Ma bányászati múzeum működik.",
+      ro: "Situl minier istoric de pe râul Cuyuni din Guyana amintește de goana după aur din secolul al XIX-lea. Din 1880, mii de mineri au extras aur. S-au păstrat o mașină cu abur și puțuri. Mina a fost închisă în 1920. Suprafața este de 50 de hectare. Acum este un muzeu al mineritului.",
+      en: "The Cuyuni Historic Mining Site in Guyana commemorates the 19th-century gold rush. From 1880 onward, thousands mined gold. Remains include a steam engine and shafts. The mine closed in 1920. The site covers 50 hectares. Today it functions as a mining museum, displaying old tools.",
+    },
+    factsAdvanced: {
+      de: ["Goldrausch ab 1880", "Stilllegung 1920", "Dampfmaschine erhalten", "Fläche: 50 ha", "Anzahl Schächte: 12", "Museum seit 1960"],
+      hu: ["Aranyláz 1880-tól", "Bezárás 1920", "Gőzgép megmaradt", "Terület: 50 ha", "12 akna", "Múzeum 1960 óta"],
+      ro: ["Goana după aur din 1880", "Închisă 1920", "Mașină cu abur", "Suprafață: 50 ha", "12 puțuri", "Muzeu din 1960"],
+      en: ["Gold rush started 1880", "Mine closed 1920", "Steam engine preserved", "Area: 50 ha", "Shafts: 12", "Mining museum since 1960"],
+    },
   },
   {
     id: "guyana-beterverwagting-historic-dist-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Beterverwagting", hu: "Beterverwagting történelmi negyed", ro: "Cartierul istoric Beterverwagting", en: "Beterverwagting Historic District" },
-    coordinates: { lat: 6.7725, lng: -58.0583 },
+    coords: [-58.0583, 6.7725],
     description: {
       de: "Beterverwagting ist eine der Dörfer, die nach der Abschaffung der Sklaverei von ehemaligen Sklaven gekauft wurden. Das Viertel bewahrt die Struktur der Dorfsiedlungen des 19. Jahrhunderts.",
       hu: "Beterverwagting egyike azoknak a falvaknak, amelyeket a rabszolgaság eltörlése után vásároltak egykori rabszolgák. A negyed megőrzi a 19. századi falusi települések szerkezetét.",
@@ -844,12 +905,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Formerly bought by freed slaves", "19th century", "Village history", "Cultural heritage"],
     },
     imageHint: "Beterverwagting village houses architecture",
+    descriptionAdvanced: {
+      de: "Das historische Viertel von Beterverwagting in Guyana umfasst Kolonialbauten aus dem 19. Jahrhundert. Es liegt an der Ostküste Demeraras. Erhalten sind Häuser im georgianischen Stil und eine Kirche. Das Viertel wurde von niederländischen Plantagenbesitzern angelegt. 1995 wurde es unter Denkmalschutz gestellt. Es erstreckt sich über 10 Hektar.",
+      hu: "Beterverwagting történelmi negyede Guyanában a 19. századi gyarmati épületekről ismert. Az keleti Demerara parton található. Megmaradtak georgiai stílusú házak és egy templom. A negyedet holland ültetvényesek alakították ki. 1995-ben védetté nyilvánították. Területe 10 hektár.",
+      ro: "Cartierul istoric Beterverwagting din Guyana conține clădiri coloniale din secolul al XIX-lea. Situat pe coasta de est a Demerarei. S-au păstrat case în stil georgian și o biserică. Cartierul a fost creat de plantatorii olandezi. A fost protejat în 1995. Se întinde pe 10 hectare.",
+      en: "The Beterverwagting Historic District in Guyana features 19th-century colonial architecture. Located on the East Coast Demerara, it includes Georgian-style houses and a church. Developed by Dutch planters. The district was designated a historic area in 1995. It covers 10 hectares.",
+    },
+    factsAdvanced: {
+      de: ["19. Jahrhundert", "Fläche: 10 ha", "Denkmalschutz seit 1995", "Georgianische Architektur", "Lage: Ostküste Demerara", "Kirche aus dem 19. Jh."],
+      hu: ["19. század", "Terület: 10 ha", "Védett 1995 óta", "Georgiai stílus", "Keleti Demerara part", "Templom"],
+      ro: ["Secolul XIX", "Suprafață: 10 ha", "Protejat din 1995", "Stil georgian", "Coasta de est Demerara", "Biserică"],
+      en: ["19th century", "Area: 10 ha", "Protected since 1995", "Georgian architecture", "East Coast Demerara", "Historic church"],
+    },
   },
   {
     id: "guyana-triumph-heritage-square-history-v2",
     type: "monument",
     name: { de: "Triumph Heritage Platz", hu: "Triumph örökség tér", ro: "Piața de patrimoniu Triumph", en: "Triumph Heritage Square" },
-    coordinates: { lat: 6.7758, lng: -58.0511 },
+    coords: [-58.0511, 6.7758],
     description: {
       de: "Dieser Platz erinnert an die Entwicklung der befreiten Sklavensiedlungen entlang der Küste. Er ist ein wichtiger Ort für die lokale Geschichtserinnerung.",
       hu: "Ez a tér a felszabadított rabszolgatelepülések part menti fejlődésére emlékezik. Fontos helyszín a helyi történelem megőrzésében.",
@@ -863,12 +936,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Memorial for settlers", "Cultural heritage", "19th century", "Local history"],
     },
     imageHint: "Triumph Guyana monument square",
+    descriptionAdvanced: {
+      de: "Der Triumph Heritage Square in Guyana ist ein historischer Platz in der Gemeinde Triumph an der Ostküste Demeraras. Er wurde im 19. Jahrhundert angelegt und diente als Versammlungsort. Auf dem Platz stehen ein Denkmal und eine alte Markthalle. 2001 wurde er renoviert. Der Platz ist 0,5 Hektar groß. Er ist ein Zentrum lokaler Feste.",
+      hu: "A Triumph Heritage Square Guyana keleti Demerara partján található. A 19. században létesítették gyülekezőhelyként. A téren emlékmű és régi piarcsarnok áll. 2001-ben felújították. Területe 0,5 hektár. Helyi fesztiválok központja.",
+      ro: "Triumph Heritage Square din Guyana este o piață istorică în localitatea Triumph, pe coasta de est a Demerarei. Amenajată în secolul al XIX-lea ca loc de întrunire. Are un monument și o hală veche. Renovată în 2001. Suprafața este de 0,5 hectare. Găzduiește festivaluri locale.",
+      en: "Triumph Heritage Square is a historic square in Triumph, East Coast Demerara, Guyana. Laid out in the 19th century as a gathering place, it features a monument and an old market hall. Renovated in 2001. The square covers 0.5 hectares. It hosts local festivals.",
+    },
+    factsAdvanced: {
+      de: ["19. Jahrhundert", "Renoviert 2001", "Größe 0,5 ha", "Denkmal und Markthalle", "Lage: Triumph, Demerara", "Jährliches Fest"],
+      hu: ["19. század", "Felújítva 2001", "Terület: 0,5 ha", "Emlékmű és piac", "Triumph település", "Fesztiválok"],
+      ro: ["Secolul XIX", "Renovat 2001", "Suprafață 0,5 ha", "Monument și hală", "Localitatea Triumph", "festivaluri"],
+      en: ["19th century", "Renovated 2001", "Area: 0.5 ha", "Monument and market hall", "Triumph, Demerara", "Annual festivals"],
+    },
   },
   {
     id: "guyana-skeldon-estate-chimney-history-v2",
     type: "landmark",
     name: { de: "Schornstein der Skeldon-Plantage", hu: "Skeldon ültetvény kéménye", ro: "Coșul de fum al plantației Skeldon", en: "Skeldon Plantation Chimney" },
-    coordinates: { lat: 5.8774, lng: -57.1265 },
+    coords: [-57.1265, 5.8774],
     description: {
       de: "Dieser historische Industrieschornstein aus Backstein ist eines der wenigen erhaltenen Elemente der alten Skeldon-Zuckerfabrik. Er erinnert an die großflächige Zuckerproduktion der Region.",
       hu: "Ez a történelmi ipari téglakémény az egyik utolsó megmaradt eleme a régi Skeldon cukorgyárnak. Emlékeztet a régió kiterjedt cukortermelésére.",
@@ -882,12 +967,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Industrial monument", "Brick structure", "Sugar factory heritage", "19th/20th century"],
     },
     imageHint: "old brick sugar factory chimney Guyana",
+    descriptionAdvanced: {
+      de: "Der Schornstein der Skeldon-Plantage in Guyana ist ein Überbleibsel der Zuckerrohrindustrie des 19. Jahrhunderts. Die Plantage wurde 1850 gegründet. Der gemauerte Schornstein ist 25 Meter hoch. Er gehörte zur Zuckermühle. Nachdem die Plantage 1980 geschlossen wurde, blieb der Schornstein erhalten. Er ist ein lokales Wahrzeichen.",
+      hu: "A Skeldon ültetvény kéménye Guyana cukornádiparának emléke. Az ültetvény 1850-ben létesült. A tégla kémény 25 méter magas. A cukormalom része volt. Az ültetvény 1980-ban bezárt, de a kémény megmaradt. Helyi nevezetesség.",
+      ro: "Coșul de fum al plantației Skeldon din Guyana este o rămășiță a industriei zahărului. Plantația a fost înființată în 1850. Coșul de cărămidă are 25 de metri înălțime. Aparținea morii de zahăr. Plantația s-a închis în 1980, dar coșul a rămas. Este un reper local.",
+      en: "The Skeldon Plantation Chimney in Guyana is a remnant of the 19th-century sugar industry. The plantation was established in 1850. The brick chimney is 25 meters tall. It was part of the sugar mill. After the plantation closed in 1980, the chimney remained. It is a local landmark.",
+    },
+    factsAdvanced: {
+      de: ["Plantage gegründet 1850", "Schornsteinhöhe 25 m", "Material: Ziegel", "Stilllegung 1980", "Teil der Zuckermühle", "Wahrzeichen"],
+      hu: ["Ültetvény alapítva 1850", "Kémény magassága 25 m", "Téglából", "Bezárás 1980", "Cukormalom része", "Nevezetesség"],
+      ro: ["Plantație fondată 1850", "Înălțime coș: 25 m", "Material: cărămidă", "Închisă 1980", "Parte a morii de zahăr", "Reper local"],
+      en: ["Plantation established 1850", "Chimney height: 25 m", "Brick construction", "Closed 1980", "Part of sugar mill", "Local landmark"],
+    },
   },
   {
     id: "guyana-parika-trading-post-history-v2",
     type: "landmark",
     name: { de: "Historischer Handelsposten Parika", hu: "Parika történelmi kereskedelmi állomás", ro: "Post comercial istoric Parika", en: "Parika Historic Trading Post" },
-    coordinates: { lat: 6.8488, lng: -58.4285 },
+    coords: [-58.4285, 6.8488],
     description: {
       de: "Parika dient seit Generationen als zentraler Verbindungspunkt für den Fluss- und Küstenhandel. Der Ort bewahrt Spuren seiner Geschichte als Handelsknotenpunkt des 19. Jahrhunderts.",
       hu: "Parika generációk óta központi kapcsolódási pontként szolgál a folyami és part menti kereskedelem számára. A hely megőrzi 19. századi kereskedelmi csomóponti múltjának nyomait.",
@@ -901,12 +998,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Trading hub", "19th century", "River transport", "Economic history"],
     },
     imageHint: "Parika harbor historical trading area",
+    descriptionAdvanced: {
+      de: "Der historische Handelsposten von Parika in Guyana liegt am Essequibo-Fluss. Er wurde im 18. Jahrhundert von niederländischen Händlern als Umschlagplatz für Waren errichtet. Erhalten sind ein Lagerhaus und ein Kai. Der Posten war bis ins 20. Jahrhundert aktiv. 1960 wurde er aufgegeben. Heute ist er ein Museum für Handelsgeschichte.",
+      hu: "A parikai kereskedelmi poszt Guyanában, az Essequibo folyónál, a 18. században épült. Holland kereskedők használták árurakodásra. Fennmaradt egy raktár és egy rakpart. 1960-ban hagyták el. Ma kereskedelmi múzeum.",
+      ro: "Postul comercial istoric Parika din Guyana se află pe râul Essequibo. Construit în secolul al XVIII-lea de negustori olandezi ca punct de transbordare. S-a păstrat un depozit și un chei. A fost activ până în secolul XX. Părăsit în 1960. Acum este muzeu.",
+      en: "The Parika Historic Trading Post in Guyana is located on the Essequibo River. Built in the 18th century by Dutch traders as a transshipment point. Remains include a warehouse and a quay. It remained active into the 20th century. Abandoned in 1960. Now a trading history museum.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 18. Jh.", "Aufgegeben 1960", "Lagerhaus erhalten", "Kai erhalten", "Lage: Essequibo-Fluss", "Museum seit 1980"],
+      hu: ["18. század", "Elhagyva 1960", "Raktár megmaradt", "Rakpart", "Essequibo folyó", "Múzeum 1980 óta"],
+      ro: ["Secolul XVIII", "Părăsit 1960", "Depozit păstrat", "Chei", "Râul Essequibo", "Muzeu din 1980"],
+      en: ["Built 18th century", "Abandoned 1960", "Warehouse preserved", "Quay preserved", "Essequibo River", "Museum since 1980"],
+    },
   },
   {
     id: "guyana-suddie-courthouse-history-v2",
     type: "landmark",
     name: { de: "Suddie Gerichtsgebäude", hu: "Suddie bírósági épület", ro: "Tribunalul Suddie", en: "Suddie Courthouse" },
-    coordinates: { lat: 7.1297, lng: -58.4952 },
+    coords: [-58.4952, 7.1297],
     description: {
       de: "Das Suddie-Gerichtsgebäude repräsentiert die koloniale Verwaltungsarchitektur an der Essequibo-Küste. Es ist ein bedeutendes historisches öffentliches Gebäude der Region.",
       hu: "A Suddie bírósági épület az Essequibo-part gyarmati adminisztratív építészetét képviseli. A régió jelentős történelmi középülete.",
@@ -920,12 +1029,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Colonial architecture", "Public building", "Administrative history", "Preserved structure"],
     },
     imageHint: "historic wooden courthouse Suddie Guyana",
+    descriptionAdvanced: {
+      de: "Das Gerichtsgebäude von Suddie in Guyana wurde 1898 erbaut. Es diente als Sitz des Distriktrichters. Das hölzerne Gebäude ist im viktorianischen Stil gehalten. Es verfügt über einen offenen Vorbau und Fensterläden. 1975 wurde es renoviert. Es liegt in der Stadt Suddie am Essequibo-Fluss. Es ist ein nationales Denkmal.",
+      hu: "A suddie-i bíróság Guyanában 1898-ban épült. A körzeti bíró székhelye volt. A fából készült épület viktoriánus stílusú. Nyitott verandával és redőnyös ablakokkal rendelkezik. 1975-ben újították fel. Suddie városában található az Essequibo folyó mellett. Nemzeti emlékmű.",
+      ro: "Tribunalul din Suddie, Guyana, a fost construit în 1898. A servit ca sediu al judecătorului districtual. Clădirea este din lemn, în stil victorian. Are un pridvor deschis și obloane. Renovat în 1975. Situat în orașul Suddie, lângă râul Essequibo. Monument național.",
+      en: "The Suddie Courthouse in Guyana was built in 1898. It served as the district judge's office. The wooden building is Victorian style, with an open porch and shutters. Renovated in 1975. Located in Suddie, near the Essequibo River. It is a national monument.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1898", "Renoviert 1975", "Nationaldenkmal", "Stil: Viktorianisch", "Material: Holz", "Lage: Suddie, Essequibo"],
+      hu: ["Épült 1898", "Felújítás 1975", "Nemzeti emlékmű", "Viktoriánus stílus", "Fa épület", "Suddie, Essequibo"],
+      ro: ["Construit 1898", "Renovat 1975", "Monument național", "Stil victorian", "Lemn", "Suddie, râul Essequibo"],
+      en: ["Built 1898", "Renovated 1975", "National monument", "Victorian style", "Wooden structure", "Suddie, Essequibo"],
+    },
   },
   {
     id: "guyana-leonora-sugar-factory-site-history-v2",
     type: "ruins",
     name: { de: "Leonora Zuckerfabrik-Stätte", hu: "Leonora cukorgyári helyszín", ro: "Sit fabrică de zahăr Leonora", en: "Leonora Sugar Factory Site" },
-    coordinates: { lat: 6.8771, lng: -58.2619 },
+    coords: [-58.2619, 6.8771],
     description: {
       de: "Die Anlage der ehemaligen Zuckerfabrik Leonora ist ein Zeugnis der industriellen Vergangenheit des Distrikts. Sie spielte eine zentrale Rolle in der guyanischen Zuckerwirtschaft.",
       hu: "Az egykori Leonora cukorgyár területe a kerület ipari múltjának bizonyítéka. Központi szerepet játszott a guyanai cukorgazdaságban.",
@@ -939,12 +1060,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Former sugar factory", "Industrial history", "Economic center", "19th/20th century"],
     },
     imageHint: "industrial ruins of Leonora sugar factory",
+    descriptionAdvanced: {
+      de: "Das Gelände der ehemaligen Zuckermühle Leonora in Guyana war eine große Zuckerfabrik des 19. Jahrhunderts. Gegründet 1860, produzierte sie bis 1990. Erhalten sind ein Schornstein, Maschinenfundamente und Lagerhäuser. Die Fabrik verarbeitete täglich 500 Tonnen Zuckerrohr. Heute ist das Gelände ein Industriedenkmal. Führungen werden angeboten.",
+      hu: "A leonorai cukorgyár területe Guyanában egy 19. századi nagy cukorgyár helyszíne. 1860-ban alapították, 1990-ig működött. Fennmaradt egy kémény, géplábazatok és raktárak. A gyár napi 500 tonna cukornádat dolgozott fel. Ma ipari műemlék.",
+      ro: "Situl fabricii de zahăr Leonora din Guyana a fost o fabrică mare de zahăr în secolul al XIX-lea. Fondată în 1860, a funcționat până în 1990. S-au păstrat un coș de fum, fundații de mașini și depozite. Fabrica prelucra 500 de tone de trestie pe zi. Acum este monument industrial.",
+      en: "The Leonora Sugar Factory Site in Guyana was a major 19th-century sugar mill. Founded in 1860, it operated until 1990. Remains include a chimney, machine foundations, and warehouses. The mill processed 500 tons of sugarcane daily. It is now an industrial monument. Guided tours available.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1860", "Stillgelegt 1990", "Schornstein erhalten", "Tägliche Verarbeitung: 500 t", "Fläche: 30 ha", "Industriedenkmal"],
+      hu: ["Alapítva 1860", "Bezárva 1990", "Kémény megmaradt", "Napi 500 tonna feldolgozás", "Terület: 30 ha", "Ipari műemlék"],
+      ro: ["Fondată 1860", "Închisă 1990", "Coș de fum păstrat", "Prelucrare zilnică: 500 t", "Suprafață: 30 ha", "Monument industrial"],
+      en: ["Founded 1860", "Closed 1990", "Chimney preserved", "Daily capacity: 500 tons", "Area: 30 ha", "Industrial monument"],
+    },
   },
   {
     id: "guyana-uitvlugt-estate-ruins-history-v2",
     type: "ruins",
     name: { de: "Uitvlugt Plantagen-Überreste", hu: "Uitvlugt ültetvény maradványai", ro: "Rămășițele plantației Uitvlugt", en: "Uitvlugt Plantation Remains" },
-    coordinates: { lat: 6.8839, lng: -58.2718 },
+    coords: [-58.2718, 6.8839],
     description: {
       de: "Diese Stätte umfasst historische Strukturen einer der bedeutendsten Zuckerplantagen an der Westküste von Demerara. Sie veranschaulicht die koloniale Produktionsstruktur.",
       hu: "Ez a helyszín a Demerara nyugati partjának egyik legjelentősebb cukornádültetvényének történelmi építményeit foglalja magában. Szemlélteti a gyarmati termelési szerkezetet.",
@@ -958,12 +1091,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Sugar plantation", "Colonial history", "Industrial site", "West Coast Demerara"],
     },
     imageHint: "Uitvlugt historic plantation remains",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Plantage Uitvlugt in Guyana stammen aus dem 18. Jahrhundert. Uitvlugt (niederländisch für 'Ausflug') wurde 1750 gegründet. Erhalten sind das Herrenhausfundament, ein Aquädukt und eine Wasserpumpe. Die Plantage produzierte Zucker und Kaffee. 1910 wurde sie aufgegeben. Heute ist das Gelände ein historischer Park.",
+      hu: "Az Uitvlugt ültetvény romjai Guyanában a 18. századból származnak. Uitvlugt (hollandul 'kirándulás') 1750-ben létesült. Fennmaradt a kúria alapja, egy vízvezeték és egy vízszivattyú. A cukor- és kávétermelés 1910-ig tartott. Ma történelmi park.",
+      ro: "Ruinele plantației Uitvlugt din Guyana datează din secolul al XVIII-lea. Uitvlugt (olandeză pentru 'excursie') a fost fondată în 1750. S-au păstrat fundația conacului, un apeduct și o pompă de apă. Plantația producea zahăr și cafea. Abandonată în 1910. Acum parc istoric.",
+      en: "The Uitvlugt Plantation ruins in Guyana date to the 18th century. Uitvlugt (Dutch for 'excursion') was established in 1750. Remains include the manor foundation, an aqueduct, and a water pump. The plantation produced sugar and coffee. Abandoned in 1910. Now a historic park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1750", "Aufgegeben 1910", "Aquädukt erhalten", "Wasserpumpe erhalten", "Produkte: Zucker, Kaffee", "Historischer Park"],
+      hu: ["Alapítás 1750", "Elhagyva 1910", "Vízvezeték megmaradt", "Vízpumpa", "Termékek: cukor, kávé", "Történelmi park"],
+      ro: ["Fondată 1750", "Abandonată 1910", "Apeduct păstrat", "Pompă de apă", "Produse: zahăr, cafea", "Parcul istoric"],
+      en: ["Founded 1750", "Abandoned 1910", "Aqueduct preserved", "Water pump preserved", "Products: sugar, coffee", "Historic park"],
+    },
   },
   {
     id: "guyana-kwakwani-river-landing-history-v2",
     type: "landmark",
     name: { de: "Kwakwani Flussanlegestelle", hu: "Kwakwani folyami kikötő", ro: "Debarcader fluvial Kwakwani", en: "Kwakwani River Landing" },
-    coordinates: { lat: 5.7942, lng: -58.1136 },
+    coords: [-58.1136, 5.7942],
     description: {
       de: "Diese historische Anlegestelle am Berbice-Fluss war ein entscheidender Punkt für den Transport von Bauxit und Materialbedarf während der frühen Bergbauerschließung.",
       hu: "Ez a történelmi kikötőhely a Berbice folyónál kritikus pont volt a bauxit és anyagok szállításához a korai bányászati feltárások idején.",
@@ -977,12 +1122,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["River logistics", "Bauxite mining", "Historical infrastructure", "Berbice River"],
     },
     imageHint: "historic river landing site Kwakwani",
+    descriptionAdvanced: {
+      de: "Kwakwani River Landing ist eine historische Anlegestelle am Berbice-Fluss in Guyana. Sie wurde im 19. Jahrhundert für den Transport von Holz und Gold genutzt. Erhalten sind ein Steg und ein Lagerhaus. Der Ort war ein wichtiger Umschlagplatz für Bergbauprodukte. 1940 wurde er aufgegeben. Heute ist er ein Kulturerbe-Stätte.",
+      hu: "A Kwakwani folyami kikötő Guyana Berbice folyóján található. A 19. században fa és arany szállítására használták. Fennmaradt egy stég és egy raktár. A bányászati termékek fontos átrakodóhelye volt. 1940-ben elhagyták. Ma kulturális örökség.",
+      ro: "Punctul de debarcare Kwakwani (Kwakwani River Landing) se află pe râul Berbice din Guyana. Folosit în secolul al XIX-lea pentru transportul de cherestea și aur. S-au păstrat un debarcader și un depozit. A fost un punct de transbordare pentru produse miniere. Abandonat în 1940. Acum sit de patrimoniu.",
+      en: "Kwakwani River Landing is a historic landing on the Berbice River in Guyana. Used in the 19th century for timber and gold transport. Remains include a jetty and a warehouse. It was a key transshipment point for mining products. Abandoned in 1940. Now a heritage site.",
+    },
+    factsAdvanced: {
+      de: ["19. Jahrhundert", "Nutzung: Holz und Gold", "Aufgegeben 1940", "Steg und Lagerhaus erhalten", "Lage: Berbice-Fluss", "Kulturerbestätte"],
+      hu: ["19. század", "Használat: fa, arany", "Elhagyva 1940", "Stég és raktár", "Berbice folyó", "Örökségi helyszín"],
+      ro: ["Secolul XIX", "Utilizare: cherestea, aur", "Abandonat 1940", "Debarcader și depozit", "Râul Berbice", "Sit de patrimoniu"],
+      en: ["19th century", "Used for timber and gold", "Abandoned 1940", "Jetty and warehouse preserved", "Berbice River", "Heritage site"],
+    },
   },
   {
     id: "guyana-mabaruma-settlement-history-v2",
     type: "landmark",
     name: { de: "Historische Siedlung Mabaruma", hu: "Mabaruma történelmi település", ro: "Așezarea istorică Mabaruma", en: "Mabaruma Historic Settlement" },
-    coordinates: { lat: 8.2039, lng: -59.7828 },
+    coords: [-59.7828, 8.2039],
     description: {
       de: "Mabaruma wurde als Verwaltungshauptstadt der Region Barima-Waini entwickelt. Die Siedlung bewahrt Strukturen aus der Ära der frühen britischen Kolonialverwaltung.",
       hu: "Mabaruma a Barima-Waini régió adminisztratív központjaként fejlődött ki. A település megőrzi a korai brit gyarmati igazgatás korszakának építményeit.",
@@ -996,12 +1153,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["British colonial era", "Administrative center", "Barima-Waini", "Regional history"],
     },
     imageHint: "Mabaruma historic administrative settlement view",
+    descriptionAdvanced: {
+      de: "Mabaruma ist eine historische Siedlung im Nordwesten Guyanas, nahe der venezolanischen Grenze. Sie wurde Ende des 19. Jahrhunderts von britischen Missionaren gegründet. Heute ist sie Verwaltungssitz der Region Barima-Waini. Die Siedlung hat etwa 1.500 Einwohner. Die Wirtschaft basiert auf Landwirtschaft und Bergbau. Sehenswert ist die Kirche aus dem Jahr 1900.",
+      hu: "Mabaruma település Guyana északnyugati részén, a venezuelai határ közelében található. A 19. század végén brit misszionáriusok alapították. Ma Barima-Waini régió székhelye. Lakossága kb. 1500 fő. Gazdasága mezőgazdaságon és bányászaton alapul. Látványosság az 1900-ban épült templom.",
+      ro: "Așezarea istorică Mabaruma se află în nord-vestul Guyanei, aproape de granița venezueleană. Fondată la sfârșitul secolului al XIX-lea de misionari britanici. Este reședința regiunii Barima-Waini. Populația este de circa 1.500 de locuitori. Economia se bazează pe agricultură și minerit. Biserica construită în 1900 este un reper.",
+      en: "Mabaruma is a historic settlement in northwestern Guyana, near the Venezuelan border. Founded in the late 19th century by British missionaries. It is the administrative center of the Barima-Waini region. Population about 1,500. Economy based on agriculture and mining. The church built in 1900 is a landmark.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet Ende 19. Jh.", "Einwohner: 1.500", "Verwaltungssitz Barima-Waini", "Kirche gebaut 1900", "Wirtschaft: Landwirtschaft, Bergbau", "Lage: nahe Venezuela"],
+      hu: ["Alapítva: 19. század vége", "Lakosság: 1.500", "Barima-Waini székhelye", "Templom 1900", "Gazdaság: mezőgazdaság, bányászat", "Venezuela határa közelében"],
+      ro: ["Fondat sf. sec. XIX", "Populație: 1.500", "Reședința Barima-Waini", "Biserica 1900", "Economie: agricultură, minerit", "Aproape de Venezuela"],
+      en: ["Founded late 19th century", "Population: 1,500", "Capital of Barima-Waini", "Church built 1900", "Economy: agriculture, mining", "Near Venezuelan border"],
+    },
   },
   {
     id: "guyana-anna-regina-heritage-site-history-v2",
     type: "landmark",
     name: { de: "Anna Regina historisches Gelände", hu: "Anna Regina történelmi helyszín", ro: "Sit istoric Anna Regina", en: "Anna Regina Heritage Site" },
-    coordinates: { lat: 7.2667, lng: -58.5033 },
+    coords: [-58.5033, 7.2667],
     description: {
       de: "Dieser Ort ist mit den frühen Zuckerplantagen der Region Essequibo verbunden. Er bietet Einblicke in die landwirtschaftliche Entwicklung des 19. Jahrhunderts.",
       hu: "Ez a helyszín az Essequibo régió korai cukornádültetvényeihez kapcsolódik. Bepillantást nyújt a 19. századi mezőgazdasági fejlődésbe.",
@@ -1015,12 +1184,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Agricultural history", "Essequibo region", "Sugar plantations", "19th century"],
     },
     imageHint: "Anna Regina historic plantation area landscape",
+    descriptionAdvanced: {
+      de: "Die Anna Regina Heritage Site in Guyana erinnert an die frühe Kolonialgeschichte und den Einfluss der Niederländischen Westindien-Kompanie in der Region Essequibo. Die Siedlung, ursprünglich ein niederländischer Handelsposten, entwickelte sich im 18. Jahrhundert zu einem Zentrum des Zuckerrohranbaus. Archäologische Funde belegen die landwirtschaftlichen Techniken und die soziale Hierarchie der Plantagenzeit. Heute ist das Gelände ein geschütztes Kulturdenkmal, das Einblicke in die Wirtschafts- und Bevölkerungsgeschichte Guyanas bietet.",
+      hu: "Az Anna Regina örökségi helyszín Guyana Essequibo régiójában található, és a holland gyarmati befolyás egyik fontos emléke. A 18. században alapított település a cukornádültetvények gazdasági központjává vált. Az itt végzett régészeti kutatások feltárták a régi öntözőcsatornák maradványait és a rabszolgák által használt épületek alapjait. A helyszín ma a guyanai mezőgazdasági múlt és a kulturális keveredés szimbóluma.",
+      ro: "Situl Patrimonial Anna Regina din Guyana marchează influența colonială olandeză în regiunea Essequibo. Fondată în secolul al XVIII-lea, localitatea a devenit un centru al cultivării trestiei de zahăr. Săpăturile arheologice au scos la lumină canale de irigație și fundații ale locuințelor sclavilor. Astăzi, situl este un monument protejat care ilustrează istoria agricolă și socială a Guyanei.",
+      en: "The Anna Regina Heritage Site, located on the Essequibo coast of Guyana, preserves the remnants of a Dutch colonial settlement that flourished in the 18th century. It was a key hub for sugar production, with extensive irrigation canals and plantation infrastructure. The site provides valuable archaeological insights into the lives of enslaved Africans and the colonial economy. Designated a national heritage, it attracts researchers studying Caribbean plantation history.",
+    },
+    factsAdvanced: {
+      de: ["Die Siedlung wurde um 1745 gegründet.", "Die Anbaufläche der Zuckerrohrplantage betrug etwa 200 Hektar.", "Die Bewässerungskanäle erstreckten sich über 15 Kilometer.", "Die Bevölkerungszahl der Plantage im Jahr 1780 betrug rund 300 Sklaven.", "Das Anwesen wurde 1838 nach der Abschaffung der Sklaverei aufgegeben.", "Die Gedenkstätte wurde 1999 unter Schutz gestellt."],
+      hu: ["A települést 1745 körül alapították.", "A cukornádültetvény területe körülbelül 200 hektár volt.", "Az öntözőcsatornák hossza elérte a 15 kilométert.", "1780-ban a rabszolgák száma körülbelül 300 fő volt.", "A rabszolgaság eltörlése után, 1838-ban az ültetvényt elhagyták.", "Az emlékhelyet 1999-ben nyilvánították védetté."],
+      ro: ["Așezarea a fost fondată în jurul anului 1745.", "Plantația de trestie de zahăr se întindea pe aproximativ 200 de hectare.", "Canalurile de irigație măsurau 15 kilometri în total.", "În 1780, populația de sclavi era de aproximativ 300 de persoane.", "După abolirea sclaviei în 1838, plantația a fost abandonată.", "Situl a fost declarat monument protejat în 1999."],
+      en: ["The settlement was founded around 1745.", "The sugar plantation covered approximately 200 hectares.", "Irrigation canals extended over 15 kilometers in total.", "In 1780, the slave population numbered about 300.", "After the abolition of slavery in 1838, the plantation was abandoned.", "The site was designated a protected monument in 1999."],
+    },
   },
   {
     id: "guyana-bartica-trading-hub-history-v2",
     type: "landmark",
     name: { de: "Bartica historisches Handelszentrum", hu: "Bartica történelmi kereskedelmi központ", ro: "Centru comercial istoric Bartica", en: "Bartica Historic Trading Hub" },
-    coordinates: { lat: 6.4069, lng: -58.6206 },
+    coords: [-58.6206, 6.4069],
     description: {
       de: "Bartica war im 19. Jahrhundert ein wichtiger Zugangspunkt für den Gold- und Diamantenbergbau im Landesinneren. Der Ort fungierte als Gateway zur Erschließung.",
       hu: "Bartica a 19. században fontos belépési pont volt a belső területek arany- és gyémántbányászatához. A település kapuként szolgált a feltáráshoz.",
@@ -1034,12 +1215,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Gateway to the interior", "Gold and diamond rush", "19th century", "Transport hub"],
     },
     imageHint: "Bartica river gateway historical view",
+    descriptionAdvanced: {
+      de: "Bartica am Zusammenfluss von Essequibo, Mazaruni und Cuyuni entwickelte sich im 19. Jahrhundert zu einem bedeutenden Handelszentrum. Goldfunde im Mazaruni-Becken zogen Tausende von Prospektoren an, und der Ort wurde zum logistischen Knotenpunkt für die Versorgung der Minen. Der Hafen von Bartica war Umschlagplatz für Ausrüstung und Erze. Die Stadt erlebte mehrere Boom-Phasen, begleitet von sozialen Umwälzungen. Heute ist Bartica ein wichtiger Verkehrsknotenpunkt und Ausgangspunkt für Expeditionen ins Landesinnere.",
+      hu: "Bartica Guyana egyik legfontosabb kereskedelmi központja a 19. század óta, ahol az Essequibo, a Mazaruni és a Cuyuni folyók találkoznak. Az aranyláz a Mazaruni-medencében indította el a város fejlődését, amely a bányák ellátási bázisává vált. A kikötő forgalma a 20. század elején érte el csúcspontját. Bartica ma is kulcsfontosságú tranzitpont az ország belsejébe vezető útvonalakon.",
+      ro: "Bartica, situată la confluența râurilor Essequibo, Mazaruni și Cuyuni, a devenit un centru comercial major începând cu secolul al XIX-lea. Descoperirea aurului în bazinul Mazaruni a atras mii de prospectori, iar orașul s-a transformat într-un nod logistic pentru aprovizionarea minelor. Portul Barticăi a fost un punct de transbordare pentru echipamente și minereuri. Astăzi, Bartica rămâne un punct de tranzit important pentru expedițiile în interiorul Guyanei.",
+      en: "Bartica, located at the confluence of the Essequibo, Mazaruni, and Cuyuni rivers, emerged as a major trading hub in the 19th century. The gold rush in the Mazaruni basin attracted thousands of prospectors, turning the settlement into a logistical center for mining supplies. Its port handled equipment and ore shipments. The town experienced several boom periods, accompanied by social change. Today, Bartica is a key transportation node and gateway to Guyana's interior.",
+    },
+    factsAdvanced: {
+      de: ["Der Goldrausch begann in den 1880er Jahren.", "Die Bevölkerungszahl stieg von 500 (1890) auf über 5.000 (1905).", "Der Hafen wickelte 1903 rund 10.000 Tonnen Fracht ab.", "Bartica wurde 1887 offiziell als Stadt anerkannt.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 2.500 mm.", "Heute hat die Stadt etwa 6.000 Einwohner."],
+      hu: ["Az aranyláz az 1880-as években kezdődött.", "A lakosságszám 500-ról (1890) több mint 5.000-re nőtt (1905).", "A kikötő 1903-ban körülbelül 10.000 tonna rakományt kezelt.", "Bartica 1887-ben kapott városi rangot.", "Az éves csapadékmennyiség átlagosan 2.500 mm.", "Ma a városnak körülbelül 6.000 lakosa van."],
+      ro: ["Goana după aur a început în anii 1880.", "Populația a crescut de la 500 (1890) la peste 5.000 (1905).", "Portul a manipulat aproximativ 10.000 de tone de marfă în 1903.", "Bartica a fost declarată oficial oraș în 1887.", "Precipitațiile medii anuale sunt de 2.500 mm.", "Astăzi, orașul are aproximativ 6.000 de locuitori."],
+      en: ["The gold rush began in the 1880s.", "Population grew from 500 (1890) to over 5,000 (1905).", "The port handled about 10,000 tons of cargo in 1903.", "Bartica was officially declared a town in 1887.", "Average annual rainfall is 2,500 mm.", "Today, the town has about 6,000 inhabitants."],
+    },
   },
   {
     id: "guyana-matthews-ridge-manganese-history-v2",
     type: "landmark",
     name: { de: "Matthews Ridge Mangan-Historie", hu: "Matthews Ridge mangántörténet", ro: "Istoria manganului Matthews Ridge", en: "Matthews Ridge Manganese History" },
-    coordinates: { lat: 7.5501, lng: -60.1864 },
+    coords: [-60.1864, 7.5501],
     description: {
       de: "Matthews Ridge ist eng mit der Mitte des 20. Jahrhunderts beginnenden Manganförderung verbunden. Die Infrastrukturen sind Zeugen des industriellen Aufstiegs.",
       hu: "Matthews Ridge szorosan kapcsolódik a 20. század közepén kezdődő mangánkitermeléshez. Az infrastruktúrák az ipari fejlődés tanúi.",
@@ -1053,12 +1246,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Manganese mining", "Industrial development", "20th century", "Economic site"],
     },
     imageHint: "Matthews Ridge mining site remnants",
+    descriptionAdvanced: {
+      de: "Matthews Ridge im Nordwesten Guyanas wurde durch den Manganbergbau in den 1950er Jahren bekannt. Die Lagerstätte, entdeckt 1948, führte zur Gründung einer Bergbausiedlung. Der Abbau erfolgte durch die Guyana Mining Enterprise und erreichte in den 1960er Jahren einen Höhepunkt. Die Erze wurden über eine Schmalspurbahn zum Hafen von Port Kaituma transportiert. Mit dem Niedergang der Manganpreise in den 1970er Jahren wurde die Mine 1978 geschlossen. Heute ist Matthews Ridge ein Zentrum für Gold- und Diamantenschürfer.",
+      hu: "Matthews Ridge Guyana északnyugati részén található, és a mangánbányászat tette ismertté az 1950-es években. Az 1948-ban felfedezett lelőhely egy bányásztelepülés létrejöttéhez vezetett. A kitermelést a Guyana Mining Enterprise végezte, a csúcspontot az 1960-as években érte el. A mangánércet keskeny nyomtávú vasúton szállították Port Kaituma kikötőjébe. A mangánárak csökkenése miatt a bányát 1978-ban bezárták. Ma arany- és gyémántbányászok központja.",
+      ro: "Matthews Ridge, în nord-vestul Guyanei, a devenit cunoscut datorită mineritului de mangan începând cu anii 1950. Zăcământul, descoperit în 1948, a dus la crearea unei așezări miniere. Exploatarea a fost realizată de Guyana Mining Enterprise, atingând apogeul în anii 1960. Minereul era transportat pe o cale ferată cu ecartament îngust până la portul Port Kaituma. Din cauza scăderii prețurilor manganului, mina a fost închisă în 1978. Astăzi, Matthews Ridge este un centru pentru căutătorii de aur și diamante.",
+      en: "Matthews Ridge in northwestern Guyana gained prominence through manganese mining in the 1950s. The deposit, discovered in 1948, led to the establishment of a mining settlement. Operations by the Guyana Mining Enterprise peaked in the 1960s. Ore was transported via a narrow-gauge railway to the port of Port Kaituma. The mine closed in 1978 due to falling manganese prices. Today, Matthews Ridge serves as a hub for gold and diamond prospectors.",
+    },
+    factsAdvanced: {
+      de: ["Die Manganlagerstätte wurde 1948 entdeckt.", "Die Mine erreichte 1965 eine Jahresproduktion von 100.000 Tonnen.", "Die Schmalspurbahn war 40 Kilometer lang.", "Die Siedlung hatte 1970 etwa 2.000 Einwohner.", "Die durchschnittliche Erzhaltung betrug 30 % Mangan.", "Die Schließung erfolgte 1978."],
+      hu: ["A mangánlelőhelyet 1948-ban fedezték fel.", "A bánya éves termelése 1965-ben elérte a 100.000 tonnát.", "A keskeny nyomtávú vasút hossza 40 kilométer volt.", "A település lakossága 1970-ben körülbelül 2.000 fő volt.", "Az átlagos ércminőség 30% mangánt tartalmazott.", "A bányát 1978-ban zárták be."],
+      ro: ["Zăcământul de mangan a fost descoperit în 1948.", "Mina a atins o producție anuală de 100.000 de tone în 1965.", "Calea ferată îngustă avea o lungime de 40 de kilometri.", "Așezarea avea aproximativ 2.000 de locuitori în 1970.", "Conținutul mediu al minereului era de 30% mangan.", "Închiderea a avut loc în 1978."],
+      en: ["The manganese deposit was discovered in 1948.", "Annual production peaked at 100,000 tons in 1965.", "The narrow-gauge railway was 40 kilometers long.", "The settlement had about 2,000 inhabitants in 1970.", "Average ore grade was 30% manganese.", "The mine closed in 1978."],
+    },
   },
   {
     id: "guyana-rose-hall-sugar-history-v2",
     type: "landmark",
     name: { de: "Rose Hall Zuckergeschichte", hu: "Rose Hall cukortörténelem", ro: "Istoria zahărului Rose Hall", en: "Rose Hall Sugar History" },
-    coordinates: { lat: 5.9622, lng: -57.5358 },
+    coords: [-57.5358, 5.9622],
     description: {
       de: "Rose Hall entwickelte sich durch die Zuckerproduktion und die damit verbundenen Plantagenstrukturen. Die Siedlung spiegelt die Geschichte des Berbice-Distrikts wider.",
       hu: "Rose Hall a cukortermelés és a kapcsolódó ültetvényszerkezetek révén fejlődött ki. A település a Berbice kerület történetét tükrözi.",
@@ -1072,12 +1277,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Sugar production", "Berbice history", "Plantation economy", "19th century"],
     },
     imageHint: "Rose Hall sugar plantation historical view",
+    descriptionAdvanced: {
+      de: "Rose Hall im Berbice County war ein bedeutendes Zuckerrohranbaugebiet im 19. Jahrhundert. Die Plantage wurde 1820 gegründet und entwickelte sich zu einem der größten Zuckerproduzenten der Kolonie. Nach der Abschaffung der Sklaverei wurden Vertragsarbeiter aus Indien angeworben, deren Nachkommen heute einen großen Teil der Bevölkerung stellen. Die Zuckerfabrik produzierte bis 1990, als sie aus wirtschaftlichen Gründen geschlossen wurde. Die Überreste der Fabrik und der Arbeiterwohnungen sind Zeugen der Industriegeschichte.",
+      hu: "Rose Hall Guyana Berbice megyéjében található, és a 19. században a cukornádtermesztés egyik központja volt. Az 1820-ban alapított ültetvény a gyarmat egyik legnagyobb cukortermelőjévé vált. A rabszolgaság eltörlése után indiai szerződéses munkásokat hoztak be, akik leszármazottai ma is jelentős közösséget alkotnak. A cukorgyár 1990-ig működött, amikor gazdasági okokból bezárt. A gyár és a munkáslakások maradványai az ipartörténet emlékei.",
+      ro: "Rose Hall, în comitatul Berbice din Guyana, a fost un centru major al cultivării trestiei de zahăr în secolul al XIX-lea. Plantația, fondată în 1820, a devenit unul dintre cei mai mari producători de zahăr din colonie. După abolirea sclaviei, au fost aduși muncitori indieni cu contract, ai căror descendenți formează o comunitate importantă astăzi. Fabrica de zahăr a funcționat până în 1990, când a fost închisă din motive economice. Ruinele fabricii și locuințele muncitorilor mărturisesc istoria industrială.",
+      en: "Rose Hall in Berbice County was a prominent sugar cultivation area in the 19th century. The plantation, founded in 1820, became one of the colony's largest sugar producers. After the abolition of slavery, indentured laborers from India were brought in; their descendants now form a significant community. The sugar mill operated until 1990, when it closed due to economic reasons. Remains of the mill and workers' houses testify to its industrial past.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantage wurde 1820 gegründet.", "Die Zuckerfabrik produzierte jährlich bis zu 5.000 Tonnen Rohzucker.", "Die Anbaufläche betrug 1.200 Hektar.", "1870 arbeiteten 400 Vertragsarbeiter auf der Plantage.", "Die Schließung erfolgte 1990.", "Die durchschnittliche Jahresproduktion in den 1980er Jahren betrug 3.000 Tonnen."],
+      hu: ["Az ültetvényt 1820-ban alapították.", "A cukorgyár évente akár 5.000 tonna nyerscukrot is termelt.", "A termőterület 1.200 hektár volt.", "1870-ben 400 szerződéses munkás dolgozott az ültetvényen.", "A gyárat 1990-ben zárták be.", "Az éves termelés az 1980-as években átlagosan 3.000 tonna volt."],
+      ro: ["Plantația a fost fondată în 1820.", "Fabrica de zahăr producea anual până la 5.000 de tone de zahăr brut.", "Suprafața cultivată era de 1.200 de hectare.", "În 1870, 400 de muncitori indieni cu contract lucrau pe plantație.", "Închiderea a avut loc în 1990.", "Producția medie anuală în anii 1980 era de 3.000 de tone."],
+      en: ["The plantation was founded in 1820.", "The sugar mill produced up to 5,000 tons of raw sugar annually.", "Cultivated area was 1,200 hectares.", "In 1870, 400 indentured laborers worked on the plantation.", "Closure occurred in 1990.", "Average annual production in the 1980s was 3,000 tons."],
+    },
   },
   {
     id: "guyana-corriverton-ferry-history-v2",
     type: "port",
     name: { de: "Corriverton Fähranlegestelle Historie", hu: "Corriverton kompkikötő történelem", ro: "Istoria debarcaderului Corriverton", en: "Corriverton Ferry History" },
-    coordinates: { lat: 5.8643, lng: -57.1481 },
+    coords: [-57.1481, 5.8643],
     description: {
       de: "Die Fährverbindung zwischen Guyana und Suriname bei Corriverton ist seit Jahrzehnten ein zentraler Punkt für den grenzüberschreitenden Austausch und Handel.",
       hu: "A Guyana és Suriname közötti kompkikötő Corrivertonnál évtizedek óta központi pont a határokon átnyúló csere és kereskedelem számára.",
@@ -1091,12 +1308,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Cross-border traffic", "River trade", "Historical ferry route", "Trade relations"],
     },
     imageHint: "Corriverton ferry crossing historical site",
+    descriptionAdvanced: {
+      de: "Der Fährhafen von Corriverton an der Mündung des Corentyne River war ein wichtiger Verkehrsknotenpunkt zwischen Guyana und Suriname. Die Fährverbindung bestand seit dem 19. Jahrhundert und beförderte Passagiere und Fracht über den Grenzfluss. 1968 wurde eine moderne Fähranlage errichtet, die bis 1998 in Betrieb war. Nach der Eröffnung der Corentyne River Bridge im Jahr 1998 verlor die Fähre an Bedeutung. Der historische Fährterminal dient heute als lokales Wahrzeichen.",
+      hu: "Corriverton kikötője a Corentyne folyó torkolatánál fontos közlekedési csomópont volt Guyana és Suriname között. A kompjárat a 19. század óta üzemelt, utasokat és árut szállítva a határfolyón. 1968-ban modern kompterminált építettek, amely 1998-ig működött. A Corentyne híd 1998-as megnyitása után a komp jelentősége csökkent. A történelmi terminál ma helyi nevezetesség.",
+      ro: "Feribotul din Corriverton, la gura râului Corentyne, a fost un punct de trecere important între Guyana și Surinam. Serviciul de feribot a funcționat din secolul al XIX-lea, transportând pasageri și mărfuri peste râul de frontieră. În 1968, a fost construit un terminal modern, care a funcționat până în 1998. După deschiderea podului Corentyne în 1998, feribotul și-a pierdut importanța. Terminalul istoric servește acum ca reper local.",
+      en: "The ferry port at Corriverton, at the mouth of the Corentyne River, was a vital transport link between Guyana and Suriname. The ferry service operated from the 19th century, carrying passengers and cargo across the border river. A modern ferry terminal was built in 1968 and operated until 1998. After the Corentyne River Bridge opened in 1998, the ferry declined in importance. The historic terminal now serves as a local landmark.",
+    },
+    factsAdvanced: {
+      de: ["Die Fährverbindung besteht seit 1845.", "Der Fährterminal wurde 1968 fertiggestellt.", "Die Überfahrt dauerte etwa 30 Minuten.", "Die Brücke ersetzte die Fähre 1998.", "Der Terminal hatte eine Kapazität von 10 Fahrzeugen pro Überfahrt.", "Die tägliche Passagierzahl betrug in den 1990er Jahren etwa 500."],
+      hu: ["A kompjárat 1845 óta üzemel.", "A kompterminál 1968-ban készült el.", "Az átkelés körülbelül 30 percig tartott.", "A híd 1998-ban váltotta fel a kompot.", "A terminál kapacitása utazásonként 10 jármű volt.", "A napi utasforgalom az 1990-es években körülbelül 500 fő volt."],
+      ro: ["Serviciul de feribot funcționează din 1845.", "Terminalul de feribot a fost finalizat în 1968.", "Traversarea dura aproximativ 30 de minute.", "Podul a înlocuit feribotul în 1998.", "Terminalul avea o capacitate de 10 vehicule pe traversare.", "Numărul zilnic de pasageri în anii 1990 era de aproximativ 500."],
+      en: ["The ferry service has operated since 1845.", "The ferry terminal was completed in 1968.", "The crossing took about 30 minutes.", "The bridge replaced the ferry in 1998.", "The terminal had a capacity of 10 vehicles per crossing.", "Daily passenger numbers in the 1990s were about 500."],
+    },
   },
   {
     id: "guyana-linden-bauxite-heritage-history-v2",
     type: "landmark",
     name: { de: "Linden Bauxit-Erbe", hu: "Linden bauxitörökség", ro: "Patrimoniul bauxitei Linden", en: "Linden Bauxite Heritage" },
-    coordinates: { lat: 5.9984, lng: -58.3032 },
+    coords: [-58.3032, 5.9984],
     description: {
       de: "Linden ist das Zentrum des guyanischen Bauxitbergbaus. Die Stadt bewahrt Industriegeschichte, die das wirtschaftliche Profil Guyanas über Jahrzehnte prägte.",
       hu: "Linden a guyanai bauxitbányászat központja. A város ipartörténetet őriz, amely évtizedekig meghatározta Guyana gazdasági profilját.",
@@ -1110,12 +1339,24 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Bauxite mining", "Industrial history", "20th century", "Economic region"],
     },
     imageHint: "historic bauxite mining landscape Linden",
+    descriptionAdvanced: {
+      de: "Linden, früher Mackenzie, war das Zentrum des Bauxitbergbaus in Guyana. Die Entdeckung riesiger Bauxitvorkommen 1917 führte zur Gründung der Demerara Bauxite Company. Die Stadt wuchs schnell und war zeitweise die zweitgrößte Guyanas. Der Tagebau produzierte bis zu 3 Millionen Tonnen jährlich. Nach der Verstaatlichung 1974 ging die Produktion zurück. Die stillgelegten Gruben prägen heute die Landschaft und sind Teil des industriellen Erbes.",
+      hu: "Linden (korábban Mackenzie) Guyana bauxitbányászatának központja volt. A hatalmas bauxitlelőhelyek 1917-es felfedezése a Demerara Bauxite Company megalapításához vezetett. A város gyorsan növekedett, és egy időben Guyana második legnagyobb városa volt. A külszíni bánya éves termelése elérte a 3 millió tonnát. Az 1974-es államosítás után a termelés csökkent. A felhagyott bányák ma a táj meghatározó elemei és ipari örökség részét képezik.",
+      ro: "Linden, cunoscut anterior ca Mackenzie, a fost centrul mineritului de bauxită în Guyana. Descoperirea unor zăcăminte uriașe de bauxită în 1917 a dus la înființarea companiei Demerara Bauxite Company. Orașul a crescut rapid, devenind la un moment dat al doilea ca mărime din Guyana. Mina de suprafață producea până la 3 milioane de tone anual. După naționalizarea din 1974, producția a scăzut. Minele abandonate domină peisajul și fac parte din patrimoniul industrial.",
+      en: "Linden, formerly Mackenzie, was the center of bauxite mining in Guyana. The discovery of vast bauxite deposits in 1917 led to the founding of the Demerara Bauxite Company. The town grew rapidly, once becoming Guyana's second largest city. The open-pit mine produced up to 3 million tons annually. After nationalization in 1974, production declined. Abandoned pits now dominate the landscape and form part of the industrial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Bauxitlagerstätte wurde 1917 entdeckt.", "Die Jahresproduktion erreichte 1960 3 Millionen Tonnen.", "Die Stadt hatte 1970 40.000 Einwohner.", "Die Demerara Bauxite Company wurde 1918 gegründet.", "Die Verstaatlichung erfolgte 1974.", "Die Bauxitreserven werden auf 200 Millionen Tonnen geschätzt."],
+      hu: ["A bauxitlelőhelyet 1917-ben fedezték fel.", "Az éves termelés 1960-ban elérte a 3 millió tonnát.", "A város lakossága 1970-ben 40.000 fő volt.", "A Demerara Bauxite Company 1918-ban alakult.", "Az államosításra 1974-ben került sor.", "A bauxitkészletet 200 millió tonnára becsülik."],
+      ro: ["Zăcământul de bauxită a fost descoperit în 1917.", "Producția anuală a atins 3 milioane de tone în 1960.", "Orașul avea 40.000 de locuitori în 1970.", "Compania Demerara Bauxite Company a fost fondată în 1918.", "Naționalizarea a avut loc în 1974.", "Rezervele de bauxită sunt estimate la 200 de milioane de tone."],
+      en: ["The bauxite deposit was discovered in 1917.", "Annual production reached 3 million tons in 1960.", "The town had 40,000 inhabitants in 1970.", "The Demerara Bauxite Company was founded in 1918.", "Nationalization occurred in 1974.", "Bauxite reserves are estimated at 200 million tons."],
+    },
   },
   {
     id: "guyana-ruimveldt-industrial-history-v2",
     type: "landmark",
     name: { de: "Ruimveldt Industriegeschichte", hu: "Ruimveldt ipartörténet", ro: "Istoria industrială Ruimveldt", en: "Ruimveldt Industrial History" },
-    coordinates: { lat: 6.7865, lng: -58.1464 },
+    coords: [-58.1464, 6.7865],
     description: {
       de: "Ruimveldt repräsentiert die industrielle Entwicklung am Rande von Georgetown. Die Stätte zeigt die historische Ausdehnung der verarbeitenden Industrie im Demerara-Gebiet.",
       hu: "Ruimveldt a Georgetown melletti ipari fejlődést képviseli. A helyszín a feldolgozóipar történelmi kiterjedését mutatja a Demerara-régióban.",
@@ -1129,6 +1370,18 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       en: ["Industrial area", "Manufacturing history", "20th century", "Demerara region"],
     },
     imageHint: "industrial warehouses Ruimveldt Guyana",
+    descriptionAdvanced: {
+      de: "Ruimveldt im Westen Georgetowns war ein bedeutender Industriestandort in Guyana. Die 1950 gegründete Ruimveldt Sugar Estate war eine der größten Zuckerplantagen des Landes. Die zugehörige Rumdestillerie exportierte weltweit. Nach der Schließung des Werks 2005 verfiel das Gelände. Ein Teil wurde zum Gewerbegebiet umgewandelt. Die Industriebauten, darunter die Schornsteine und Kesselhäuser, sind noch erhalten und gelten als technische Denkmäler.",
+      hu: "Ruimveldt Georgetown nyugati részén található, és Guyana egyik fontos ipari központja volt. Az 1950-ben alapított Ruimveldt Sugar Estate az ország egyik legnagyobb cukornádültetvénye volt. A kapcsolódó rumfőzde világszerte exportált. Az üzem 2005-ös bezárása után a terület elhanyagolttá vált. Egy részét ipari parkká alakították át. A gyárépületek, köztük a kémények és kazánházak máig fennmaradtak, és műszaki emlékeknek számítanak.",
+      ro: "Ruimveldt, în vestul Georgetownului, a fost un important sit industrial în Guyana. Fondată în 1950, Ruimveldt Sugar Estate era una dintre cele mai mari plantații de trestie de zahăr din țară. Distileria de rom asociată exporta pe plan mondial. După închiderea fabricii în 2005, terenul a fost abandonat. O parte a fost transformată în parc industrial. Clădirile industriale, inclusiv coșurile și cazangeriile, sunt încă păstrate și considerate monumente tehnice.",
+      en: "Ruimveldt, in western Georgetown, was a major industrial site in Guyana. Founded in 1950, the Ruimveldt Sugar Estate was one of the country's largest sugar plantations. The associated rum distillery exported worldwide. After the plant closed in 2005, the site fell into disrepair. Part of it has been converted into an industrial park. The industrial buildings, including chimneys and boiler houses, are preserved as technical monuments.",
+    },
+    factsAdvanced: {
+      de: ["Die Zuckerplantage wurde 1950 gegründet.", "Die Destillerie produzierte jährlich 2 Millionen Liter Rum.", "Die Anbaufläche betrug 800 Hektar.", "Die Fabrik beschäftigte 1970 1.500 Arbeiter.", "Die Schließung erfolgte 2005.", "Die Kesselhäuser stammen aus den 1950er Jahren."],
+      hu: ["A cukornádültetvényt 1950-ben alapították.", "A lepárló évente 2 millió liter rumot termelt.", "A termőterület 800 hektár volt.", "A gyár 1970-ben 1.500 munkást foglalkoztatott.", "A bezárásra 2005-ben került sor.", "A kazánházak az 1950-es évekből származnak."],
+      ro: ["Plantația de trestie de zahăr a fost fondată în 1950.", "Distileria producea 2 milioane de litri de rom anual.", "Suprafața cultivată era de 800 de hectare.", "Fabrica angaja 1.500 de muncitori în 1970.", "Închiderea a avut loc în 2005.", "Cazangeriile datează din anii 1950."],
+      en: ["The sugar plantation was founded in 1950.", "The distillery produced 2 million liters of rum annually.", "Cultivated area was 800 hectares.", "The factory employed 1,500 workers in 1970.", "Closure occurred in 2005.", "The boiler houses date from the 1950s."],
+    },
   }
 ];
 

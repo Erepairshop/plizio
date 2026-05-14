@@ -747,7 +747,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-laongo-granite-history-v2",
     type: "landmark",
     name: { de: "Granitsteinbrüche von Laongo", hu: "Laongo gránit szoborpark", ro: "Sculpturile în granit de la Laongo", en: "Laongo Granite Sculptures" },
-    coordinates: { lat: 12.5512, lng: -1.2834 },
+    coords: [-1.2834, 12.5512],
     description: {
       de: "Ein 1989 gegründetes internationales Bildhauersymposium auf natürlichem Granitgelände.",
       hu: "Egy 1989-ben alapított nemzetközi szobrászati helyszín természetes gránitfelszínen.",
@@ -778,7 +778,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-guimbi-ouattara-history-v2",
     type: "monument",
     name: { de: "Mausoleum der Prinzessin Guimbi Ouattara", hu: "Guimbi Ouattara hercegnő mauzóleuma", ro: "Mausoleul Prințesei Guimbi Ouattara", en: "Mausoleum of Princess Guimbi Ouattara" },
-    coordinates: { lat: 11.1765, lng: -4.2954 },
+    coords: [-4.2954, 11.1765],
     description: {
       de: "Grabstätte der legendären Herrscherin von Bobo-Dioulasso aus dem 19. Jahrhundert.",
       hu: "Bobo-Dioulasso legendás 19. századi uralkodónőjének sírhelye és emlékhelye.",
@@ -809,7 +809,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-koumi-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Koumi", hu: "Koumi történelmi falu", ro: "Satul istoric Koumi", en: "Koumi Historical Village" },
-    coordinates: { lat: 11.1523, lng: -4.4812 },
+    coords: [-4.4812, 11.1523],
     description: {
       de: "Ein traditionelles Bobo-Dorf mit jahrhundertealter Architektur und heiligen Grotten.",
       hu: "Hagyományos bobo falu évszázados építészettel és szent barlangokkal.",
@@ -840,7 +840,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-sapone-hats-history-v2",
     type: "landmark",
     name: { de: "Traditionelles Zentrum von Saponé", hu: "Saponé hagyományos központja", ro: "Centrul tradițional Saponé", en: "Saponé Traditional Center" },
-    coordinates: { lat: 12.0845, lng: -1.4832 },
+    coords: [-1.4832, 12.0845],
     description: {
       de: "Heimat des berühmten kegelförmigen Strohhuts, ein nationales Symbol Burkina Fasos.",
       hu: "A híres kúp alakú szalmakalap hazája, amely Burkina Faso nemzeti szimbóluma.",
@@ -871,7 +871,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-dafra-catfish-history-v2",
     type: "landmark",
     name: { de: "Heiliges Dafra-Becken", hu: "Dafra szent halastó", ro: "Iazul sacru Dafra", en: "Dafra Sacred Pond" },
-    coordinates: { lat: 11.1215, lng: -4.3321 },
+    coords: [-4.3321, 11.1215],
     description: {
       de: "Ein spiritueller Ort mit heiligen Welsen, die als Ahnengeister verehrt werden.",
       hu: "Spirituális helyszín szent harcsákkal, amelyeket ősi szellemekként tisztelnek.",
@@ -902,7 +902,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-sabou-pond-history-v2",
     type: "lake",
     name: { de: "Heiliger Krokodilteich von Sabou", hu: "Sabou szent krokodil tava", ro: "Iazul cu crocodili sacri din Sabou", en: "Sabou Sacred Crocodile Pond" },
-    coordinates: { lat: 12.0642, lng: -2.2315 },
+    coords: [-2.2315, 12.0642],
     description: {
       de: "Ein historischer Teich, in dem harmlose Krokodile als Beschützer des Dorfes gelten.",
       hu: "Történelmi tó, ahol a szelíd krokodilokat a falu védelmezőinek tartják.",
@@ -933,7 +933,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-gounghin-quarter-history-v2",
     type: "landmark",
     name: { de: "Königsviertel Gounghin", hu: "Gounghin királyi negyed", ro: "Cartierul regal Gounghin", en: "Gounghin Royal Quarter" },
-    coordinates: { lat: 12.3521, lng: -1.5514 },
+    coords: [-1.5514, 12.3521],
     description: {
       de: "Das historische Viertel in Ouagadougou, Sitz traditioneller Mossi-Autoritäten.",
       hu: "Ouagadougou történelmi negyede, a hagyományos mossi hatalom székhelye.",
@@ -964,7 +964,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-national-museum-ouaga-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Burkina Faso", hu: "Burkina Faso Nemzeti Múzeuma", ro: "Muzeul Național al Burkina Faso", en: "National Museum of Burkina Faso" },
-    coordinates: { lat: 12.3734, lng: -1.4812 },
+    coords: [-1.4812, 12.3734],
     description: {
       de: "Ein 1962 gegründetes Museum zur Bewahrung des kulturellen und ethnografischen Erbes.",
       hu: "Egy 1962-ben alapított múzeum a kulturális és néprajzi örökség megőrzésére.",
@@ -995,7 +995,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-kampti-stone-history-v2",
     type: "landmark",
     name: { de: "Heiligtum von Kampti", hu: "Kampti szentély", ro: "Sanctuarul din Kampti", en: "Kampti Sanctuary" },
-    coordinates: { lat: 10.1321, lng: -3.4543 },
+    coords: [-3.4543, 10.1321],
     description: {
       de: "Ein spirituelles Zentrum der Lobi, bekannt für seine heiligen Statuen und Steine.",
       hu: "A lobi nép spirituális központja, amely szent szobrairól és köveiről ismert.",
@@ -1026,7 +1026,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-volta-bani-memorial-history-v2",
     type: "monument",
     name: { de: "Mahnmal des Volta-Bani-Krieges", hu: "Volta-Bani háborús emlékmű", ro: "Memorialul Războiului Volta-Bani", en: "Volta-Bani War Memorial" },
-    coordinates: { lat: 12.4612, lng: -3.4654 },
+    coords: [-3.4654, 12.4612],
     description: {
       de: "Denkmal für den Widerstand gegen die Kolonialmacht während des Aufstands von 1915.",
       hu: "Az 1915-ös felkelés során a gyarmati hatalom elleni ellenállás emlékműve.",
@@ -1057,7 +1057,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-lobi-fortress-history-v2",
     type: "ruins",
     name: { de: "Befestigte Lobi-Häuser (Sukala)", hu: "Lobi erődített házak (Sukala)", ro: "Casele fortificate Lobi (Sukala)", en: "Lobi Fortified Houses (Sukala)" },
-    coordinates: { lat: 10.3345, lng: -3.1812 },
+    coords: [-3.1812, 10.3345],
     description: {
       de: "Traditionelle, festungsähnliche Lehmbauten zum Schutz gegen Sklavenjäger.",
       hu: "Hagyományos, erőd jellegű vályogépületek a rabszolgavadászok elleni védekezésül.",
@@ -1088,7 +1088,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-yameogo-palace-history-v2",
     type: "palace",
     name: { de: "Palast von Maurice Yaméogo", hu: "Maurice Yaméogo palotája", ro: "Palatul lui Maurice Yaméogo", en: "Maurice Yaméogo Palace" },
-    coordinates: { lat: 12.2534, lng: -2.3612 },
+    coords: [-2.3612, 12.2534],
     description: {
       de: "Die ehemalige Residenz des ersten Präsidenten von Obervolta in Koudougou.",
       hu: "Felső-Volta első elnökének egykori rezidenciája Koudougouban.",
@@ -1119,7 +1119,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-birifu-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Birifu", hu: "Birifu romjai", ro: "Ruinele de la Birifu", en: "Ruins of Birifu" },
-    coordinates: { lat: 10.6312, lng: -2.8543 },
+    coords: [-2.8543, 10.6312],
     description: {
       de: "Antike Siedlungsüberreste der Dagara mit historisch bedeutsamen Befestigungen.",
       hu: "A dagara nép ősi településmaradványai történelmileg jelentős erődítményekkel.",
@@ -1150,7 +1150,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-binger-monument-history-v2",
     type: "monument",
     name: { de: "Binger-Denkmal", hu: "Binger-emlékmű", ro: "Monumentul lui Binger", en: "Binger Monument" },
-    coordinates: { lat: 11.1812, lng: -4.3123 },
+    coords: [-4.3123, 11.1812],
     description: {
       de: "Erinnert an den französischen Entdecker Louis-Gustave Binger, der 1888 Bobo erreichte.",
       hu: "Louis-Gustave Binger francia felfedező emlékére, aki 1888-ban érte el Bobót.",
@@ -1181,7 +1181,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-logonie-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte von Logonie", hu: "Logonie történelmi helyszín", ro: "Situl istoric Logonie", en: "Logonie Historical Site" },
-    coordinates: { lat: 10.1543, lng: -3.2012 },
+    coords: [-3.2012, 10.1543],
     description: {
       de: "Eine archäologische Stätte mit Ruinen antiker befestigter Siedlungen im Lobi-Land.",
       hu: "Régészeti lelőhely ősi erődített települések romjaival a lobi vidéken.",
@@ -1212,7 +1212,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-bitou-kingdom-history-v2",
     type: "landmark",
     name: { de: "Altes Königreich Bitou", hu: "Bitou ősi királysága", ro: "Vechiul regat din Bitou", en: "Ancient Kingdom of Bitou" },
-    coordinates: { lat: 11.2643, lng: -0.1523 },
+    coords: [-0.1523, 11.2643],
     description: {
       de: "Ein historisches Grenzgebiet und Handelszentrum an der Kreuzung alter Karawanenwege.",
       hu: "Történelmi határvidék és kereskedelmi központ ősi karavánutak kereszteződésében.",
@@ -1243,7 +1243,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-poura-ancient-mine-history-v2",
     type: "mine",
     name: { de: "Historische Goldmine von Poura", hu: "Poura történelmi aranybányája", ro: "Mina istorică de aur din Poura", en: "Historical Gold Mine of Poura" },
-    coordinates: { lat: 11.6012, lng: -2.7543 },
+    coords: [-2.7543, 11.6012],
     description: {
       de: "Eine der ältesten dokumentierten Goldminen des Landes mit präkolonialer Bedeutung.",
       hu: "Az ország egyik legrégebbi dokumentált aranybányája, gyarmatosítás előtti jelentőséggel.",
@@ -1274,7 +1274,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-ramongo-stones-history-v2",
     type: "landmark",
     name: { de: "Heilige Steine von Ramongo", hu: "Ramongo szent kövei", ro: "Pietrele sacre din Ramongo", en: "Sacred Stones of Ramongo" },
-    coordinates: { lat: 12.2812, lng: -2.1843 },
+    coords: [-2.1843, 12.2812],
     description: {
       de: "Eine antike Kultstätte mit mysteriösen Steinformationen, die den Ahnen gewidmet sind.",
       hu: "Ősi kultikus helyszín rejtélyes kőformációkkal, amelyeket az ősöknek szenteltek.",
@@ -1305,7 +1305,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-fada-colonial-history-v2",
     type: "landmark",
     name: { de: "Kolonialviertel von Fada N'Gourma", hu: "Fada N'Gourma gyarmati negyede", ro: "Cartierul colonial din Fada N'Gourma", en: "Fada N'Gourma Colonial Quarter" },
-    coordinates: { lat: 12.0612, lng: 0.3612 },
+    coords: [0.3612, 12.0612],
     description: {
       de: "Überreste der französischen Kolonialverwaltung im Osten des Landes.",
       hu: "A francia gyarmati közigazgatás maradványai az ország keleti részén.",
@@ -1336,7 +1336,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "burkinafaso-garango-royal-history-v2",
     type: "landmark",
     name: { de: "Königsstätte von Garango", hu: "Garango királyi helyszín", ro: "Situl regal din Garango", en: "Garango Royal Site" },
-    coordinates: { lat: 11.8012, lng: -0.5523 },
+    coords: [-0.5523, 11.8012],
     description: {
       de: "Historisches Zentrum der Bissa-Kultur und Sitz des traditionellen Oberhauptes.",
       hu: "A bissa kultúra történelmi központja és a hagyományos vezető székhelye.",

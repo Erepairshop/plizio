@@ -658,7 +658,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     id: "morocco-jbel-sirwa-relief-v2",
     type: "mountain",
     name: { de: "Jbel Sirwa", hu: "Jbel Sirwa", ro: "Jbel Sirwa", en: "Jbel Sirwa" },
-    coordinates: { lat: 30.825, lng: -7.533 },
+    coords: [-7.533, 30.825],
     description: {
       de: "Jbel Sirwa ist ein vulkanisches Massiv im Anti-Atlas-Gebirge in Marokko. Es erreicht eine Höhe von 3.305 Metern über dem Meeresspiegel.",
       hu: "A Jbel Sirwa egy vulkanikus hegység az Anti-Atlasz hegységben, Marokkóban. A tengerszint feletti magassága eléri a 3305 métert.",

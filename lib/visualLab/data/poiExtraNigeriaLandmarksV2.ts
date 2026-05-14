@@ -1088,7 +1088,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-assembly-complex-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalversammlungskomplex", hu: "Nemzetgyűlés épületegyüttese", ro: "Complexul Adunării Naționale", en: "National Assembly Complex" },
-    coordinates: { lat: 9.0667, lng: 7.4914 },
+    coords: [7.4914, 9.0667],
     description: {
       de: "Der Komplex dient als Sitz des nigerianischen Zweikammerparlaments in Abuja. Er wurde 1999 nach der Rückkehr zur Demokratie eingeweiht.",
       hu: "Az épületegyüttes a kétkamarás nigériai parlament székhelye Abujában. 1999-ben avatták fel a demokráciába való visszatérés után.",
@@ -1107,7 +1107,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-city-hall-lagos-landmarks-v2",
     type: "landmark",
     name: { de: "Lagos City Hall", hu: "Lagos Városháza", ro: "Primăria Lagos", en: "Lagos City Hall" },
-    coordinates: { lat: 6.4526, lng: 3.3934 },
+    coords: [3.3934, 6.4526],
     description: {
       de: "Das Gebäude befindet sich auf Lagos Island und war einst das administrative Zentrum der Stadt. Es wurde in den 1960er Jahren fertiggestellt.",
       hu: "Az épület Lagos szigetén található, egykor a város adminisztratív központja volt. Az 1960-as években fejezték be az építését.",
@@ -1126,7 +1126,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-theatre-abuja-landmarks-v2",
     type: "theater",
     name: { de: "Nationaltheater Abuja", hu: "Abujai Nemzeti Színház", ro: "Teatrul Național din Abuja", en: "National Theatre Abuja" },
-    coordinates: { lat: 9.0722, lng: 7.4891 },
+    coords: [7.4891, 9.0722],
     description: {
       de: "Dieses Gebäude dient als wichtiges Kulturzentrum in der Hauptstadt Abuja. Es beherbergt verschiedene Aufführungen und nationale Veranstaltungen.",
       hu: "Ez az épület fontos kulturális központként szolgál Abuja fővárosában. Különféle előadásoknak és nemzeti eseményeknek ad otthont.",
@@ -1145,7 +1145,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-ikoyi-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Ikoyi Leuchtturm", hu: "Ikoyi világítótorony", ro: "Farul Ikoyi", en: "Ikoyi Lighthouse" },
-    coordinates: { lat: 6.4447, lng: 3.4281 },
+    coords: [3.4281, 6.4447],
     description: {
       de: "Der Leuchtturm dient der Navigation im Hafenbereich von Lagos. Er ist ein markantes Bauwerk in der Nähe der Küste.",
       hu: "A világítótorony a lagosi kikötő területén történő hajózást segíti. Jellegzetes építmény a part közelében.",
@@ -1164,7 +1164,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-central-mosque-lagos-landmarks-v2",
     type: "church",
     name: { de: "Zentralmoschee Lagos", hu: "Lagosi Központi Mecset", ro: "Marea Moschee din Lagos", en: "Lagos Central Mosque" },
-    coordinates: { lat: 6.4533, lng: 3.3932 },
+    coords: [3.3932, 6.4533],
     description: {
       de: "Die Moschee ist eine bedeutende religiöse Stätte in Lagos Island. Sie zeichnet sich durch ihre Architektur mit vier Minaretten aus.",
       hu: "A mecset jelentős vallási helyszín Lagos szigetén. Négy minaretjével kitűnő építészeti stílus jellemzi.",
@@ -1183,7 +1183,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-kaduna-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kaduna Nationalmuseum", hu: "Kadunai Nemzeti Múzeum", ro: "Muzeul Național din Kaduna", en: "Kaduna National Museum" },
-    coordinates: { lat: 10.5105, lng: 7.4332 },
+    coords: [7.4332, 10.5105],
     description: {
       de: "Das Museum bewahrt archäologische Funde aus der Nok-Kultur auf. Es ist eine der wichtigsten kulturellen Einrichtungen in Nordnigeria.",
       hu: "A múzeum a Nok-kultúrából származó régészeti leleteket őriz. Észak-Nigéria egyik legfontosabb kulturális intézménye.",
@@ -1202,7 +1202,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-ibadan-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum Ibadan", hu: "Ibadani Nemzeti Múzeum", ro: "Muzeul Național din Ibadan", en: "National Museum Ibadan" },
-    coordinates: { lat: 7.3986, lng: 3.8967 },
+    coords: [3.8967, 7.3986],
     description: {
       de: "Dieses Museum in Ibadan zeigt zahlreiche Artefakte der Yoruba-Kunst und Geschichte. Es ist Teil des nigerianischen Museumssystems.",
       hu: "Ez az ibadani múzeum számos joruba művészeti és történelmi tárgyat mutat be. A nigériai múzeumi rendszer része.",
@@ -1221,7 +1221,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-st-nicholas-church-abuja-landmarks-v2",
     type: "church",
     name: { de: "St. Nicholas Kirche Abuja", hu: "Szent Miklós-templom Abuja", ro: "Biserica Sfântul Nicolae Abuja", en: "St. Nicholas Church Abuja" },
-    coordinates: { lat: 9.0765, lng: 7.3985 },
+    coords: [7.3985, 9.0765],
     description: {
       de: "Diese Kirche ist ein bekanntes religiöses Gebäude in Abuja. Sie dient der lokalen christlichen Gemeinschaft als Ort des Gottesdienstes.",
       hu: "Ez a templom ismert vallási épület Abujában. A helyi keresztény közösség számára istentiszteleti helyként szolgál.",
@@ -1240,7 +1240,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-palace-of-the-oba-of-lagos-landmarks-v2",
     type: "palace",
     name: { de: "Palast des Oba von Lagos", hu: "Lagos Oba palotája", ro: "Palatul Oba din Lagos", en: "Palace of the Oba of Lagos" },
-    coordinates: { lat: 6.4518, lng: 3.3912 },
+    coords: [3.3912, 6.4518],
     description: {
       de: "Der Palast ist der traditionelle Sitz des Königs von Lagos. Er ist ein kulturell bedeutsames historisches Anwesen.",
       hu: "A palota a lagosi király hagyományos székhelye. Kulturálisan jelentős történelmi épület.",
@@ -1259,7 +1259,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-assembly-building-abuja-landmarks-v2",
     type: "landmark",
     name: { de: "Abuja Repräsentantenhaus", hu: "Abujai Képviselőház", ro: "Casa Reprezentanților Abuja", en: "Abuja House of Representatives" },
-    coordinates: { lat: 9.0658, lng: 7.4925 },
+    coords: [7.4925, 9.0658],
     description: {
       de: "Ein Teil des parlamentarischen Gebäudekomplexes in Abuja. Es ist ein zentraler Ort für die politische Entscheidungsfindung Nigerias.",
       hu: "Az abujai parlamenti épületegyüttes része. Nigéria politikai döntéshozatalának központi helyszíne.",
@@ -1278,7 +1278,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-central-bank-lagos-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralbank Lagos", hu: "Lagosi Központi Bank", ro: "Banca Centrală Lagos", en: "Central Bank Lagos" },
-    coordinates: { lat: 6.4497, lng: 3.3922 },
+    coords: [3.3922, 6.4497],
     description: {
       de: "Dieses Bürogebäude ist ein wichtiger Ort für Finanzangelegenheiten. Es befindet sich im Geschäftsviertel von Lagos Island.",
       hu: "Ez az irodaház fontos pénzügyi központ. Lagos szigetének üzleti negyedében található.",
@@ -1297,7 +1297,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-nnamdi-azikiwe-mausoleum-landmarks-v2",
     type: "monument",
     name: { de: "Nnamdi Azikiwe Mausoleum", hu: "Nnamdi Azikiwe Mauzóleum", ro: "Mausoleul Nnamdi Azikiwe", en: "Nnamdi Azikiwe Mausoleum" },
-    coordinates: { lat: 6.1345, lng: 6.9412 },
+    coords: [6.9412, 6.1345],
     description: {
       de: "Das Mausoleum in Onitsha erinnert an den ersten Präsidenten Nigerias. Es ist ein nationales Gedenkmonument.",
       hu: "Az onitshai mauzóleum Nigéria első elnökének állít emléket. Nemzeti emlékhely.",
@@ -1316,7 +1316,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-abuja-international-conference-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Internationales Konferenzzentrum Abuja", hu: "Abujai Nemzetközi Konferencia Központ", ro: "Centrul Internațional de Conferințe Abuja", en: "International Conference Centre Abuja" },
-    coordinates: { lat: 9.0682, lng: 7.4855 },
+    coords: [7.4855, 9.0682],
     description: {
       de: "Das Zentrum ist ein wichtiger Ort für internationale Versammlungen und Konferenzen. Es liegt strategisch in der Hauptstadt.",
       hu: "A központ fontos helyszín nemzetközi találkozók és konferenciák számára. Stratégiailag a fővárosban helyezkedik el.",
@@ -1335,7 +1335,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-murtala-muhammed-monument-landmarks-v2",
     type: "monument",
     name: { de: "Murtala Muhammed Denkmal", hu: "Murtala Muhammed emlékmű", ro: "Monumentul Murtala Muhammed", en: "Murtala Muhammed Monument" },
-    coordinates: { lat: 6.5772, lng: 3.3213 },
+    coords: [3.3213, 6.5772],
     description: {
       de: "Dieses Denkmal in der Nähe des internationalen Flughafens ehrt den ehemaligen Staatschef. Es ist ein Symbol der nationalen Geschichte.",
       hu: "Ez a nemzetközi repülőtér melletti emlékmű a volt államfő előtt tiszteleg. A nemzeti történelem jelképe.",
@@ -1354,7 +1354,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-stadium-surulere-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalstadion Surulere", hu: "Surulere Nemzeti Stadion", ro: "Stadionul Național Surulere", en: "National Stadium Surulere" },
-    coordinates: { lat: 6.4967, lng: 3.3601 },
+    coords: [3.3601, 6.4967],
     description: {
       de: "Das Stadion in Surulere war lange Zeit das Hauptstadion Nigerias. Es wurde für nationale Sportevents genutzt.",
       hu: "A Surulere-i stadion hosszú ideig Nigéria fő stadionja volt. Nemzeti sporteseményekre használták.",
@@ -1373,7 +1373,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-esie-museum-stone-figures-landmarks-v2",
     type: "museum",
     name: { de: "Esie Museum Steinstatuen", hu: "Esie Múzeum kőszobrok", ro: "Muzeul Esie figurine de piatră", en: "Esie Museum Stone Figures" },
-    coordinates: { lat: 8.1654, lng: 4.9082 },
+    coords: [4.9082, 8.1654],
     description: {
       de: "Das Museum beherbergt eine umfangreiche Sammlung von Steinstatuen. Es gilt als eines der ersten Museen Nigerias.",
       hu: "A múzeum kőszobrok széles gyűjteményét őrzi. Nigéria egyik első múzeumának tekintik.",
@@ -1392,7 +1392,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-kogi-state-house-of-assembly-landmarks-v2",
     type: "landmark",
     name: { de: "Kogi House of Assembly", hu: "Kogi Állami Gyűlés", ro: "Casa Adunării de Stat Kogi", en: "Kogi House of Assembly" },
-    coordinates: { lat: 7.8089, lng: 6.7456 },
+    coords: [6.7456, 7.8089],
     description: {
       de: "Das Gebäude ist der Sitz der gesetzgebenden Versammlung des Bundesstaates Kogi in Lokoja. Es ist ein wichtiges lokales Regierungsgebäude.",
       hu: "Az épület a Kogi állami törvényhozó gyűlés székhelye Lokojában. Fontos helyi kormányzati épület.",
@@ -1411,7 +1411,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-arewa-house-kaduna-landmarks-v2",
     type: "museum",
     name: { de: "Arewa House Kaduna", hu: "Arewa Ház Kaduna", ro: "Arewa House Kaduna", en: "Arewa House Kaduna" },
-    coordinates: { lat: 10.5182, lng: 7.4298 },
+    coords: [7.4298, 10.5182],
     description: {
       de: "Das Haus dient als Forschungs- und Kulturzentrum. Es bewahrt die Geschichte der nördlichen Region Nigerias.",
       hu: "A ház kutatási és kulturális központként szolgál. Nigéria északi régiójának történelmét őrzi.",
@@ -1430,7 +1430,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-library-abuja-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalbibliothek Abuja", hu: "Abujai Nemzeti Könyvtár", ro: "Biblioteca Națională Abuja", en: "National Library Abuja" },
-    coordinates: { lat: 9.0715, lng: 7.4933 },
+    coords: [7.4933, 9.0715],
     description: {
       de: "Dieses institutionelle Gebäude beherbergt eine umfangreiche Sammlung an Literatur und Dokumenten. Es ist das Zentrum für nationale Bildung.",
       hu: "Ez az intézményi épület irodalmi és dokumentációs gyűjteményt tartalmaz. A nemzeti oktatás központja.",
@@ -1449,7 +1449,7 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
     id: "nigeria-national-art-gallery-abuja-landmarks-v2",
     type: "museum",
     name: { de: "Nationale Kunstgalerie Abuja", hu: "Abujai Nemzeti Művészeti Galéria", ro: "Galeria Națională de Artă Abuja", en: "National Art Gallery Abuja" },
-    coordinates: { lat: 9.0751, lng: 7.4882 },
+    coords: [7.4882, 9.0751],
     description: {
       de: "Die Galerie präsentiert nigerianische Kunstwerke und fördert lokale Künstler. Sie ist ein bedeutendes Ziel für Kunstinteressierte.",
       hu: "A galéria nigériai művészeti alkotásokat mutat be és támogatja a helyi művészeket. Jelentős úticél a művészetkedvelők számára.",

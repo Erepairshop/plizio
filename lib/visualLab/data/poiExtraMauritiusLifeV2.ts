@@ -727,7 +727,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-ssr-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Sir Seewoosagur Ramgoolam", hu: "Sir Seewoosagur Ramgoolam Botanikus Kert", ro: "Grădina Botanică Sir Seewoosagur Ramgoolam", en: "Sir Seewoosagur Ramgoolam Botanical Garden" },
-    coordinates: { lat: -20.1068, lng: 57.5683 },
+    coords: [57.5683, -20.1068],
     description: {
       de: "Dieser 1770 gegründete Garten ist der älteste seiner Art in der südlichen Hemisphäre. Er ist weltberühmt für seine riesigen Victoria-amazonica-Wasserlilien.",
       hu: "Ez az 1770-ben alapított kert a déli félteke legrégebbi botanikus kertje. Világszerte híres a hatalmas Victoria amazonica tündérrózsáiról.",
@@ -746,7 +746,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-blue-bay-marine-park-life-v2",
     type: "wildlife",
     name: { de: "Meerespark Blue Bay", hu: "Blue Bay Tengeri Park", ro: "Parcul Marin Blue Bay", en: "Blue Bay Marine Park" },
-    coordinates: { lat: -20.4447, lng: 57.7128 },
+    coords: [57.7128, -20.4447],
     description: {
       de: "Dieser Meerespark schützt ein 353 Hektar großes Korallenriff-Ökosystem. Er ist ein wichtiger Lebensraum für Hunderte von Fischarten und Meeresschildkröten.",
       hu: "Ez a tengeri park 353 hektáros korallzátony-ökoszisztémát védelmez. Számos halfaj és tengeri teknős fontos élőhelye a térségben.",
@@ -765,7 +765,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-la-vallee-de-ferney-life-v2",
     type: "park",
     name: { de: "Ferney-Tal", hu: "Ferney-völgy", ro: "Valea Ferney", en: "La Vallée de Ferney" },
-    coordinates: { lat: -20.395, lng: 57.7 },
+    coords: [57.7, -20.395],
     description: {
       de: "Dieses 200 Hektar große Schutzgebiet bewahrt den einheimischen mauritischen Wald. Es ist einer der letzten Zufluchtsorte für den seltenen Mauritiusturmfalken.",
       hu: "Ez a 200 hektáros természetvédelmi terület az őshonos mauritiusi erdőt őrzi. A ritka mauritiusi vércse egyik utolsó menedékhelye.",
@@ -784,7 +784,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-flat-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Flat Island", hu: "Flat Island Természetvédelmi Terület", ro: "Rezervația Naturală Flat Island", en: "Flat Island Nature Reserve" },
-    coordinates: { lat: -19.873, lng: 57.658 },
+    coords: [57.658, -19.873],
     description: {
       de: "Diese 253 Hektar große Insel ist ein wichtiges Schutzgebiet für Seevögel und einheimische Reptilien. Sie beherbergt einen historischen Leuchtturm aus dem Jahr 1855.",
       hu: "Ez a 253 hektáros sziget a tengeri madarak és őshonos hüllők fontos védett területe. Egy 1855-ből származó történelmi világítótoronynak ad otthont.",
@@ -803,7 +803,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-gabriel-island-life-v2",
     type: "wildlife",
     name: { de: "Gabriel-Insel", hu: "Gabriel-sziget", ro: "Insula Gabriel", en: "Gabriel Island" },
-    coordinates: { lat: -19.882, lng: 57.665 },
+    coords: [57.665, -19.882],
     description: {
       de: "Die Gabriel-Insel ist ein 42 Hektar großes Naturschutzgebiet, das für seine unberührten Strände bekannt ist. Sie bietet Schutz für seltene Küstenpflanzen und Vögel.",
       hu: "A Gabriel-sziget egy 42 hektáros természetvédelmi terület, amely érintetlen strandjairól ismert. Ritka parti növényeknek és madaraknak nyújt menedéket.",
@@ -822,7 +822,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-terre-rouge-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Vogelschutzgebiet Terre Rouge", hu: "Terre Rouge Madárrezervátum", ro: "Rezervația de Păsări Terre Rouge", en: "Rivière Terre Rouge Bird Sanctuary" },
-    coordinates: { lat: -20.1417, lng: 57.4875 },
+    coords: [57.4875, -20.1417],
     description: {
       de: "Dieses Mündungsgebiet ist ein wichtiger Zwischenstopp für über 1000 Zugvögel pro Jahr. Es ist seit 2001 als international bedeutendes Ramsar-Gebiet geschützt.",
       hu: "Ez a torkolatvidék évente több mint 1000 költöző madár fontos pihenőhelye. 2001 óta nemzetközi jelentőségű Ramsar-területként védett.",
@@ -841,7 +841,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-curepipe-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Curepipe", hu: "Curepipe-i Botanikus Kert", ro: "Grădina Botanică Curepipe", en: "Curepipe Botanical Garden" },
-    coordinates: { lat: -20.316, lng: 57.514 },
+    coords: [57.514, -20.316],
     description: {
       de: "Der 1870 angelegte Garten beherbergt die seltenste Palme der Welt, die Hyophorbe amaricaulis. Er ist der zweitgrößte botanische Garten der Insel Mauritius.",
       hu: "Az 1870-ben létrehozott kert a világ legritkább pálmájának, a Hyophorbe amaricaulis-nak az otthona. Ez Mauritius második legnagyobb botanikus kertje.",
@@ -860,7 +860,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-round-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Round Island", hu: "Round Island Természetvédelmi Terület", ro: "Rezervația Naturală Round Island", en: "Round Island Nature Reserve" },
-    coordinates: { lat: -19.851, lng: 57.785 },
+    coords: [57.785, -19.851],
     description: {
       de: "Diese rattenfreie Insel ist ein wichtiges Refugium für endemische Reptilien und bedrohte Vögel. Sie ist nur für Naturschutz- und Forschungszwecke zugänglich.",
       hu: "Ez a patkánymentes sziget az endemikus hüllők és veszélyeztetett madarak fontos menedékhelye. Csak természetvédelmi és kutatási célból látogatható.",
@@ -879,7 +879,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-pointe-desny-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Feuchtgebiete von Pointe d'Esny", hu: "Pointe d'Esny vizes élőhelyek", ro: "Zonele umede Pointe d'Esny", en: "Pointe d'Esny Wetlands" },
-    coordinates: { lat: -20.428, lng: 57.721 },
+    coords: [57.721, -20.428],
     description: {
       de: "Dieses 22 Hektar große Mangroven-Ökosystem ist ein geschütztes Ramsar-Gebiet. Es spielt eine entscheidende Rolle für die Artenvielfalt der Küste von Mauritius.",
       hu: "Ez a 22 hektáros mangrove-ökoszisztéma védett Ramsar-terület. Meghatározó szerepet játszik Mauritius part menti biológiai sokféleségében.",
@@ -898,7 +898,7 @@ export const poiExtraMauritiusLifeV2: POI[] = [
     id: "mauritius-monvert-nature-park-life-v2",
     type: "park",
     name: { de: "Naturpark Monvert", hu: "Monvert Natúrpark", ro: "Parcul Natural Monvert", en: "Monvert Nature Park" },
-    coordinates: { lat: -20.32, lng: 57.53 },
+    coords: [57.53, -20.32],
     description: {
       de: "Dieser Park verfügt über ein Arboretum mit über 150 einheimischen Baumarten. Er dient als Bildungszentrum für die Wiederherstellung einheimischer Wälder.",
       hu: "Ez a park több mint 150 őshonos fafajnak otthont adó arborétummal rendelkezik. Az őshonos erdők helyreállításának oktatási központjaként szolgál.",

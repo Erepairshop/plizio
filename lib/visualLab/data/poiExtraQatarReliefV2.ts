@@ -646,7 +646,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-rawdat-al-faras-relief-v2",
     type: "valley",
     name: { de: "Rawdat Al Faras", hu: "Rawdat Al Faras", ro: "Rawdat Al Faras", en: "Rawdat Al Faras" },
-    coordinates: { lat: 25.6833, lng: 51.2667 },
+    coords: [51.2667, 25.6833],
     description: {
       de: "Ein fruchtbares Tiefland im Norden Katars, das für seine reiche Vegetation nach Regenfällen bekannt ist.",
       hu: "Egy termékeny mélyedés Katar északi részén, amely az esőzések utáni dús növényzetéről ismert.",
@@ -665,7 +665,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-jebel-ghada-relief-v2",
     type: "peak",
     name: { de: "Jebel Ghada", hu: "Jebel Ghada", ro: "Jebel Ghada", en: "Jebel Ghada" },
-    coordinates: { lat: 24.8512, lng: 50.8845 },
+    coords: [50.8845, 24.8512],
     description: {
       de: "Eine markante Kalksteinerhebung im Südwesten, die sich deutlich von der flachen Wüstenlandschaft abhebt.",
       hu: "Egy jellegzetes mészkőkiemelkedés a délnyugati részen, amely élesen elválik a sík sivatagi tájtól.",
@@ -684,7 +684,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-sabkhat-al-hamla-relief-v2",
     type: "valley",
     name: { de: "Sabkhat Al-Hamla", hu: "Sabkhat Al-Hamla", ro: "Sabkhat Al-Hamla", en: "Sabkhat Al-Hamla" },
-    coordinates: { lat: 25.1556, lng: 50.9521 },
+    coords: [50.9521, 25.1556],
     description: {
       de: "Eine ausgedehnte Salzebene im westlichen Katar, die durch Verdunstung von Brackwasser entstanden ist.",
       hu: "Egy kiterjedt sós síkság Nyugat-Katarban, amely a félsós víz elpárolgásával jött létre.",
@@ -703,7 +703,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-wadi-diab-relief-v2",
     type: "valley",
     name: { de: "Wadi Diab", hu: "Wadi Diab", ro: "Wadi Diab", en: "Wadi Diab" },
-    coordinates: { lat: 25.5589, lng: 51.0542 },
+    coords: [51.0542, 25.5589],
     description: {
       de: "Ein saisonales Trockental, das das Gelände durchschneidet und seltene Wüstenpflanzen beheimatet.",
       hu: "Egy időszakos száraz völgy, amely felszabdalja a terepet és ritka sivatagi növényeknek ad otthont.",
@@ -722,7 +722,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-jebel-al-kharaza-relief-v2",
     type: "peak",
     name: { de: "Jebel Al-Kharaza", hu: "Jebel Al-Kharaza", ro: "Jebel Al-Kharaza", en: "Jebel Al-Kharaza" },
-    coordinates: { lat: 25.0234, lng: 51.1567 },
+    coords: [51.1567, 25.0234],
     description: {
       de: "Eine markante Hügelkette im zentralen Süden, die wichtige geologische Aufschlüsse bietet.",
       hu: "Egy jellegzetes dombsor a déli középső részen, amely fontos geológiai feltárásokat kínál.",
@@ -741,7 +741,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-wadi-al-jimal-relief-v2",
     type: "valley",
     name: { de: "Wadi Al Jimal", hu: "Wadi Al Jimal", ro: "Wadi Al Jimal", en: "Wadi Al Jimal" },
-    coordinates: { lat: 24.9541, lng: 51.2289 },
+    coords: [51.2289, 24.9541],
     description: {
       de: "Ein weitläufiges Trockental im Süden, dessen Name auf die historische Nutzung durch Kamelherden hinweist.",
       hu: "Egy tágas száraz völgy délen, amelynek neve a tevecsordák történelmi használatára utal.",
@@ -760,7 +760,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-ras-qirtas-relief-v2",
     type: "landmark",
     name: { de: "Ras Qirtas", hu: "Ras Qirtas", ro: "Ras Qirtas", en: "Ras Qirtas" },
-    coordinates: { lat: 25.9212, lng: 51.5345 },
+    coords: [51.5345, 25.9212],
     description: {
       de: "Ein Kap an der Nordostküste, das durch flache Korallenriffe und Kalksteinfelsen geprägt ist.",
       hu: "Egy fok az északkeleti parton, amelyet sekély korallzátonyok és mészkősziklák jellemeznek.",
@@ -779,7 +779,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-ghadir-al-bushairiya-relief-v2",
     type: "valley",
     name: { de: "Ghadir Al Bushairiya", hu: "Ghadir Al Bushairiya", ro: "Ghadir Al Bushairiya", en: "Ghadir Al Bushairiya" },
-    coordinates: { lat: 25.2234, lng: 51.3567 },
+    coords: [51.3567, 25.2234],
     description: {
       de: "Eine natürliche Senke, in der sich Regenwasser ansammelt und eine temporäre ökologische Oase bildet.",
       hu: "Egy természetes mélyedés, ahol összegyűlik az esővíz, időszakos ökológiai oázist hozva létre.",
@@ -798,7 +798,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-rawdat-al-hajun-relief-v2",
     type: "valley",
     name: { de: "Rawdat Al Hajun", hu: "Rawdat Al Hajun", ro: "Rawdat Al Hajun", en: "Rawdat Al Hajun" },
-    coordinates: { lat: 25.4876, lng: 51.1823 },
+    coords: [51.1823, 25.4876],
     description: {
       de: "Ein fruchtbares Becken im Landesinneren, das als Sammelbecken für feine Sedimente und Wasser dient.",
       hu: "Egy termékeny belső medence, amely a finom üledékek és a víz gyűjtőhelyeként szolgál.",
@@ -817,7 +817,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-jebel-barzah-relief-v2",
     type: "peak",
     name: { de: "Jebel Barzah", hu: "Jebel Barzah", ro: "Jebel Barzah", en: "Jebel Barzah" },
-    coordinates: { lat: 25.7512, lng: 51.1245 },
+    coords: [51.1245, 25.7512],
     description: {
       de: "Ein isolierter Kalksteinhügel, der einen weiten Blick über die flachen Ebenen des nördlichen Katars bietet.",
       hu: "Egy elszigetelt mészkődomb, amely széles kilátást nyújt Észak-Katar sík vidékeire.",
@@ -836,7 +836,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-sabkhat-sawda-nathil-relief-v2",
     type: "valley",
     name: { de: "Sabkhat Sawda Nathil", hu: "Sabkhat Sawda Nathil", ro: "Sabkhat Sawda Nathil", en: "Sabkhat Sawda Nathil" },
-    coordinates: { lat: 24.1256, lng: 51.1034 },
+    coords: [51.1034, 24.1256],
     description: {
       de: "Eine riesige Salzwüste an der südlichen Grenze, die zu den tiefstgelegenen Gebieten des Landes gehört.",
       hu: "Egy hatalmas sós sivatag a déli határon, amely az ország legalacsonyabban fekvő területei közé tartozik.",
@@ -855,7 +855,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-ras-al-matbakh-relief-v2",
     type: "landmark",
     name: { de: "Ras Al Matbakh", hu: "Ras Al Matbakh", ro: "Ras Al Matbakh", en: "Ras Al Matbakh" },
-    coordinates: { lat: 25.6889, lng: 51.5512 },
+    coords: [51.5512, 25.6889],
     description: {
       de: "Eine vorspringende Landzunge bei Al Khor, bekannt für ihre charakteristischen marinen Sedimentablagerungen.",
       hu: "Egy kinyúló földnyelv Al Khor közelében, amely jellegzetes tengeri üledéklerakódásairól ismert.",
@@ -874,7 +874,7 @@ export const poiExtraQatarReliefV2: POI[] = [
     id: "qatar-wadi-al-hawshiya-relief-v2",
     type: "valley",
     name: { de: "Wadi Al Hawshiya", hu: "Wadi Al Hawshiya", ro: "Wadi Al Hawshiya", en: "Wadi Al Hawshiya" },
-    coordinates: { lat: 25.3212, lng: 50.8545 },
+    coords: [50.8545, 25.3212],
     description: {
       de: "Ein gewundenes Trockental im Westen, das die harte Kalksteinoberfläche der Halbinsel durchbricht.",
       hu: "Egy kanyargós száraz völgy nyugaton, amely áttöri a félsziget kemény mészkőfelszínét.",

@@ -546,7 +546,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-pho-kyar-life-v2",
     type: "wildlife",
     name: { de: "Elefantencamp Pho Kyar", hu: "Pho Kyar elefánttábor", ro: "Tabăra de elefanți Pho Kyar", en: "Pho Kyar Elephant Camp" },
-    coordinates: { lat: 18.9912, lng: 96.0845 },
+    coords: [96.0845, 18.9912],
     description: {
       de: "Das Camp in der Region Bago ist ein wichtiges Zentrum für Ökotourismus und den Schutz von Arbeitselefanten. Es bietet Einblicke in die traditionelle Elefantenhaltung.",
       hu: "A Bago régióban található tábor az ökoturizmus és a munkáselefántok védelmének központja. Betekintést nyújt a tradicionális elefánttartás folyamataiba.",
@@ -565,7 +565,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-pidaung-life-v2",
     type: "wildlife",
     name: { de: "Pidaung-Wildschutzgebiet", hu: "Pidaung vadvédelmi terület", ro: "Rezervația Pidaung", en: "Pidaung Wildlife Sanctuary" },
-    coordinates: { lat: 25.3521, lng: 97.2543 },
+    coords: [97.2543, 25.3521],
     description: {
       de: "Das Pidaung-Schutzgebiet im Bundesstaat Kachin ist Myanmars ältestes Reservat. Es schützt bedeutende Populationen von asiatischen Elefanten und Gauren.",
       hu: "A Kachin államban található Pidaung Mianmar legrégebbi védett területe. Jelentős ázsiai elefánt- és gaurpopulációknak nyújt menedéket.",
@@ -584,7 +584,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-lawkananda-life-v2",
     type: "wildlife",
     name: { de: "Lawkananda-Wildschutzgebiet", hu: "Lawkananda vadvédelmi terület", ro: "Rezervația Lawkananda", en: "Lawkananda Wildlife Sanctuary" },
-    coordinates: { lat: 21.1345, lng: 94.8512 },
+    coords: [94.8512, 21.1345],
     description: {
       de: "Dieses kleine Schutzgebiet bei Bagan am Irrawaddy-Fluss dient primär dem Erhalt der Sternschildkröte. Es ist auch ein Refugium für seltene Wasservögel.",
       hu: "Ez a kis védett terület Bagan mellett, az Ayeyarwady folyó partján a csillagteknősök megőrzését szolgálja. Ritka vízimadarak menedéke is.",
@@ -603,7 +603,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-minzontaung-life-v2",
     type: "wildlife",
     name: { de: "Minzontaung-Wildschutzgebiet", hu: "Minzontaung vadvédelmi terület", ro: "Rezervația Minzontaung", en: "Minzontaung Wildlife Sanctuary" },
-    coordinates: { lat: 20.9567, lng: 95.7834 },
+    coords: [95.7834, 20.9567],
     description: {
       de: "In der zentralen Trockenzone gelegen, ist dieses Reservat international bekannt für sein erfolgreiches Zuchtprogramm der gefährdeten Sternschildkröte.",
       hu: "A központi száraz zónában fekvő rezervátum nemzetközileg ismert a veszélyeztetett csillagteknősök sikeres tenyésztési programjáról.",
@@ -622,7 +622,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-wetthigan-life-v2",
     type: "wildlife",
     name: { de: "Wetthigan-See-Schutzgebiet", hu: "Wetthigan-tó vadvédelmi terület", ro: "Rezervația Lacului Wetthigan", en: "Wetthigan Lake Wildlife Sanctuary" },
-    coordinates: { lat: 20.2112, lng: 94.7545 },
+    coords: [94.7545, 20.2112],
     description: {
       de: "Dieser See in der Region Magway ist ein entscheidendes Überwinterungsgebiet für Zugvögel. Er beherbergt zahlreiche Arten von Enten und Reihern.",
       hu: "Ez a Magway régióban található tó a vándormadarak kulcsfontosságú telelőhelye. Számos réce- és kócsagfajnak ad otthont.",
@@ -641,7 +641,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-pyadalin-life-v2",
     type: "wildlife",
     name: { de: "Panlaung-Pyadalin-Schutzgebiet", hu: "Panlaung-Pyadalin vadvédelmi terület", ro: "Rezervația Panlaung-Pyadalin", en: "Panlaung-Pyadalin Cave Sanctuary" },
-    coordinates: { lat: 21.1213, lng: 96.3541 },
+    coords: [96.3541, 21.1213],
     description: {
       de: "Dieses Reservat kombiniert Naturschutz mit Archäologie. Es beherbergt die Pyadalin-Höhlen mit über 10.000 Jahre alten Felsmalereien.",
       hu: "Ez a rezervátum ötvözi a természetvédelmet az régészettel. Itt találhatók a Pyadalin-barlangok több mint 10 000 éves sziklarajzokkal.",
@@ -660,7 +660,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-htamanthi-life-v2",
     type: "wildlife",
     name: { de: "Htamanthi-Wildschutzgebiet", hu: "Htamanthi vadvédelmi terület", ro: "Rezervația Htamanthi", en: "Htamanthi Wildlife Sanctuary" },
-    coordinates: { lat: 25.3214, lng: 95.3325 },
+    coords: [95.3325, 25.3214],
     description: {
       de: "Eines der größten Reservate in der Region Sagaing. Es ist ein kritischer Lebensraum für Tiger und beherbergt die seltene Batagur-Schildkröte.",
       hu: "A Sagaing régió egyik legnagyobb rezervátuma. A tigrisek kritikus élőhelye, és otthont ad a ritka Batagur teknősfajnak is.",
@@ -679,7 +679,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-kahilu-life-v2",
     type: "wildlife",
     name: { de: "Kahilu-Wildschutzgebiet", hu: "Kahilu vadvédelmi terület", ro: "Rezervația Kahilu", en: "Kahilu Wildlife Sanctuary" },
-    coordinates: { lat: 17.5512, lng: 97.8523 },
+    coords: [97.8523, 17.5512],
     description: {
       de: "Das im Kayin-Staat gelegene Schutzgebiet bewahrt dichte Tropenwälder. Es bietet Schutz für bedrohte Säugetiere wie den Schabrackentapir.",
       hu: "A Kayin államban fekvő védett terület sűrű trópusi erdőket őriz. Veszélyeztetett emlősöknek, például a maláj tapírnak nyújt védelmet.",
@@ -698,7 +698,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-loimwe-life-v2",
     type: "park",
     name: { de: "Loimwe-Nationalpark", hu: "Loimwe Nemzeti Park", ro: "Parcul Național Loimwe", en: "Loimwe National Park" },
-    coordinates: { lat: 21.1845, lng: 99.7521 },
+    coords: [99.7521, 21.1845],
     description: {
       de: "Dieser Hochgebirgspark im Shan-Staat ist für seine kühle Bergluft und Pinienwälder bekannt. Er beherbergt eine einzigartige montane Flora.",
       hu: "Ez a Shan államban található magashegyi park hűvös hegyi levegőjéről és fenyőerdőiről ismert. Egyedülálló hegyi flórának ad otthont.",
@@ -717,7 +717,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-kelatha-life-v2",
     type: "wildlife",
     name: { de: "Kelatha-Wildschutzgebiet", hu: "Kelatha vadvédelmi terület", ro: "Rezervația Kelatha", en: "Kelatha Wildlife Sanctuary" },
-    coordinates: { lat: 17.2514, lng: 97.0532 },
+    coords: [97.0532, 17.2514],
     description: {
       de: "Das Schutzgebiet im Mon-Staat umfasst den Berg Kelatha und seine Umgebung. Es bewahrt seltene immergrüne Hügelwälder und diverse Vogelarten.",
       hu: "A Mon államban található védett terület a Kelatha-hegyet és környékét foglalja magában. Ritka örökzöld dombi erdőket és madárfajokat őriz.",
@@ -736,7 +736,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     id: "myanmar-mulayit-life-v2",
     type: "wildlife",
     name: { de: "Mulayit-Wildschutzgebiet", hu: "Mulayit vadvédelmi terület", ro: "Rezervația Mulayit", en: "Mulayit Wildlife Sanctuary" },
-    coordinates: { lat: 16.1823, lng: 98.5314 },
+    coords: [98.5314, 16.1823],
     description: {
       de: "Mulayit im Dawna-Gebirge ist ein bedeutender Hotspot für Biodiversität. Es ist besonders bekannt für seine außergewöhnliche Vielfalt an montanen Vogelarten.",
       hu: "A Dawna-hegységben található Mulayit a biodiverzitás egyik fontos forrópontja. Különösen a hegyi madárfajok rendkívüli gazdagságáról ismert.",

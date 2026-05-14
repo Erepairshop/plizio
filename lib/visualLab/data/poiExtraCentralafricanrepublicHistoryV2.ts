@@ -1052,7 +1052,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-ouanda-djalle-fort-history-v2",
     type: "landmark",
     name: { de: "Fort von Ouanda-Djallé", hu: "Ouanda-Djallé erődje", ro: "Fortăreața din Ouanda-Djallé", en: "Fort of Ouanda-Djallé" },
-    coordinates: { lat: 8.3117, lng: 22.8136 },
+    coords: [22.8136, 8.3117],
     description: {
       de: "Historischer französischer Außenposten in der Region Vakaga. Die Struktur diente während der Kolonialzeit als administratives Zentrum.",
       hu: "Történelmi francia előőrs a Vakaga régióban. Az építmény adminisztratív központként szolgált a gyarmati időszakban.",
@@ -1083,7 +1083,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-kabo-handelsfestung-history-v2",
     type: "landmark",
     name: { de: "Handelsfestung Kabo", hu: "Kabo kereskedelmi erőd", ro: "Fortăreața comercială Kabo", en: "Kabo Trading Fort" },
-    coordinates: { lat: 7.7028, lng: 18.6297 },
+    coords: [18.6297, 7.7028],
     description: {
       de: "Ehemaliger Handelsposten im Norden der Zentralafrikanischen Republik. Er spielte eine Rolle im regionalen Austausch des 20. Jahrhunderts.",
       hu: "Egykori kereskedelmi állomás a Közép-afrikai Köztársaság északi részén. Szerepet játszott a 20. századi regionális cserében.",
@@ -1114,7 +1114,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-kaga-bandoro-altstadt-history-v2",
     type: "landmark",
     name: { de: "Historischer Distrikt Kaga-Bandoro", hu: "Kaga-Bandoro történelmi negyede", ro: "Districtul istoric Kaga-Bandoro", en: "Historic District of Kaga-Bandoro" },
-    coordinates: { lat: 6.9067, lng: 19.1872 },
+    coords: [19.1872, 6.9067],
     description: {
       de: "Dieser Bereich bewahrt Strukturen der frühen städtischen Entwicklung. Er zeigt die Architektur der Verwaltungshäuser aus der Kolonialära.",
       hu: "Ez a terület megőrzi a korai városfejlesztés szerkezetét. A gyarmati korszakból származó adminisztratív épületek építészetét mutatja.",
@@ -1145,7 +1145,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-bria-minendenkmal-history-v2",
     type: "monument",
     name: { de: "Bria Bergbaudenkmal", hu: "Bria bányászati emlékmű", ro: "Monumentul minier din Bria", en: "Bria Mining Memorial" },
-    coordinates: { lat: 6.5414, lng: 21.9864 },
+    coords: [21.9864, 6.5414],
     description: {
       de: "Das Denkmal erinnert an die Geschichte der Diamantenextraktion in der Region Haute-Kotto. Es markiert die industrielle Erschließung des 20. Jahrhunderts.",
       hu: "Az emlékmű a Haute-Kotto régióban folyó gyémántkitermelés történetére utal. A 20. századi ipari feltárást jelöli.",
@@ -1176,7 +1176,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-ouadda-festung-history-v2",
     type: "ruins",
     name: { de: "Ouadda Befestigung", hu: "Ouadda erődítmény", ro: "Fortificația Ouadda", en: "Ouadda Fortification" },
-    coordinates: { lat: 8.0777, lng: 22.4042 },
+    coords: [22.4042, 8.0777],
     description: {
       de: "Reste einer Verteidigungsanlage aus der frühen Kolonialzeit. Die Struktur diente der Sicherung strategisch wichtiger Handelsrouten.",
       hu: "A kora gyarmati korból származó védelmi létesítmény maradványai. A szerkezet stratégiailag fontos kereskedelmi útvonalak biztosítására szolgált.",
@@ -1207,7 +1207,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-gambo-posten-history-v2",
     type: "landmark",
     name: { de: "Gambo Posten", hu: "Gambo őrhely", ro: "Postul Gambo", en: "Gambo Post" },
-    coordinates: { lat: 4.6467, lng: 22.2575 },
+    coords: [22.2575, 4.6467],
     description: {
       de: "Historische Station am Mbomou-Fluss. Der Posten markierte während der Kolonialzeit die Grenze und den Austausch zwischen den Regionen.",
       hu: "Történelmi állomás a Mbomou folyón. Az őrhely a gyarmati időszakban a határt és a régiók közötti cserét jelölte.",
@@ -1238,7 +1238,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-rafai-sultanat-palast-history-v2",
     type: "palace",
     name: { de: "Ruinen des Sultanatspalastes von Rafaï", hu: "Rafaï szultanátusi palota romjai", ro: "Ruinele palatului sultanatului din Rafaï", en: "Ruins of the Sultanate Palace of Rafaï" },
-    coordinates: { lat: 4.9667, lng: 23.9333 },
+    coords: [23.9333, 4.9667],
     description: {
       de: "Überreste des traditionellen Herrschersitzes von Rafaï. Zeugnis der lokalen Sultanatstrukturen vor der vollständigen kolonialen Integration.",
       hu: "A hagyományos Rafaï uralkodói székhely maradványai. A helyi szultanátusi struktúrák tanúja a teljes gyarmati integráció előtt.",
@@ -1269,7 +1269,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-kembe-missionsposten-history-v2",
     type: "church",
     name: { de: "Kembé Missionsposten", hu: "Kembé missziós állomás", ro: "Postul misionar Kembé", en: "Kembé Mission Post" },
-    coordinates: { lat: 4.62, lng: 21.8833 },
+    coords: [21.8833, 4.62],
     description: {
       de: "Ehemalige religiöse Station in der Basse-Kotto Präfektur. Sie prägte das soziale und kulturelle Leben der Region im 20. Jahrhundert.",
       hu: "Egykori vallási állomás a Basse-Kotto prefektúrában. Meghatározta a régió társadalmi és kulturális életét a 20. században.",
@@ -1300,7 +1300,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-alindao-kolonialzentrum-history-v2",
     type: "landmark",
     name: { de: "Alindao Kolonialzentrum", hu: "Alindao gyarmati központ", ro: "Centrul colonial Alindao", en: "Alindao Colonial Center" },
-    coordinates: { lat: 5.0267, lng: 21.2089 },
+    coords: [21.2089, 5.0267],
     description: {
       de: "Historischer Verwaltungsort in der Basse-Kotto Region. Die Gebäude zeugen von der administrativen Organisation des frühen 20. Jahrhunderts.",
       hu: "Történelmi közigazgatási helyszín a Basse-Kotto régióban. Az épületek a 20. század eleji adminisztratív szervezetről tanúskodnak.",
@@ -1331,7 +1331,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-bambari-handelsbruecke-history-v2",
     type: "bridge",
     name: { de: "Bambari Handelsbrücke", hu: "Bambari kereskedelmi híd", ro: "Podul comercial Bambari", en: "Bambari Trading Bridge" },
-    coordinates: { lat: 5.7667, lng: 20.6667 },
+    coords: [20.6667, 5.7667],
     description: {
       de: "Historische Brücke über den Ouaka-Fluss. Sie war zentral für den Warentransport während der Expansionsphase der Region.",
       hu: "Történelmi híd az Ouaka folyón. Központi szerepet játszott az áruszállításban a régió expanziós fázisa idején.",
@@ -1362,7 +1362,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-grimari-verwaltungsposten-history-v2",
     type: "landmark",
     name: { de: "Grimari Verwaltungsposten", hu: "Grimari igazgatási állomás", ro: "Postul administrativ Grimari", en: "Grimari Administrative Post" },
-    coordinates: { lat: 5.7278, lng: 20.0633 },
+    coords: [20.0633, 5.7278],
     description: {
       de: "Ehemalige Verwaltungsstation, die den Baumwollanbau und Handel in der Region Ouaka steuerte. Ein Zeuge industrieller Geschichte.",
       hu: "Egykori adminisztratív állomás, amely az Ouaka régió gyapottermesztését és kereskedelmét irányította. Ipari történeti tanú.",
@@ -1393,7 +1393,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-dekoa-historisches-viertel-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Dékoa", hu: "Dékoa történelmi negyede", ro: "Cartierul istoric Dékoa", en: "Historic Quarter of Dékoa" },
-    coordinates: { lat: 5.1167, lng: 19.0333 },
+    coords: [19.0333, 5.1167],
     description: {
       de: "Bereich mit alten französischen Handelsgebäuden aus der Zeit vor 1940. Ein wichtiger Punkt für die Erforschung der kolonialen Infrastruktur.",
       hu: "Az 1940 előtti időkből származó régi francia kereskedelmi épületekkel rendelkező terület. Fontos pont a gyarmati infrastruktúra kutatásához.",
@@ -1424,7 +1424,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-mala-handelsplatz-history-v2",
     type: "landmark",
     name: { de: "Handelsplatz Mala", hu: "Mala kereskedelmi tér", ro: "Piața comercială Mala", en: "Mala Trading Place" },
-    coordinates: { lat: 5.4833, lng: 19.3167 },
+    coords: [19.3167, 5.4833],
     description: {
       de: "Historischer Ort für lokalen Tauschhandel in der Präfektur Kémo. Er spielte eine Rolle bei der Verbindung der ländlichen Gebiete.",
       hu: "Történelmi helyszín a helyi árucseréhez a Kémo prefektúrában. Szerepet játszott a vidéki területek összekapcsolásában.",
@@ -1455,7 +1455,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-ippy-missionsgelaende-history-v2",
     type: "church",
     name: { de: "Ippy Missionsgelände", hu: "Ippy missziós terület", ro: "Terenul misiunii Ippy", en: "Ippy Mission Grounds" },
-    coordinates: { lat: 6.2667, lng: 21.2333 },
+    coords: [21.2333, 6.2667],
     description: {
       de: "Ehemalige Missionsstation, die zur Bildung und zur kulturellen Integration in der Ouaka-Präfektur beitrug.",
       hu: "Egykori missziós állomás, amely hozzájárult az Ouaka prefektúra oktatásához és kulturális integrációjához.",
@@ -1486,7 +1486,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-ndjoukou-flussstation-history-v2",
     type: "landmark",
     name: { de: "Flussstation Ndjoukou", hu: "Ndjoukou folyami állomás", ro: "Stația fluvială Ndjoukou", en: "Ndjoukou River Station" },
-    coordinates: { lat: 4.5167, lng: 18.5333 },
+    coords: [18.5333, 4.5167],
     description: {
       de: "Historischer Stützpunkt am Flussufer, der als Knotenpunkt für den Handel mit dem Süden diente.",
       hu: "Történelmi bázis a folyóparton, amely csomópontként szolgált a déli kereskedelem számára.",
@@ -1517,7 +1517,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-bogangolo-handelsposten-history-v2",
     type: "landmark",
     name: { de: "Handelsposten Bogangolo", hu: "Bogangolo kereskedelmi állomás", ro: "Postul comercial Bogangolo", en: "Bogangolo Trading Post" },
-    coordinates: { lat: 5.25, lng: 18.45 },
+    coords: [18.45, 5.25],
     description: {
       de: "Alter französischer Handelsposten in der Ombella-Mpoko Präfektur. Wichtig für die Geschichte der regionalen Warenwege.",
       hu: "Régi francia kereskedelmi állomás az Ombella-Mpoko prefektúrában. Fontos a regionális áruutak történetében.",
@@ -1548,7 +1548,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-baboua-grenzposten-history-v2",
     type: "landmark",
     name: { de: "Baboua Grenzposten", hu: "Baboua határőrhely", ro: "Postul de frontieră Baboua", en: "Baboua Frontier Post" },
-    coordinates: { lat: 5.7, lng: 15.6 },
+    coords: [15.6, 5.7],
     description: {
       de: "Historische Grenzstation im Westen des Landes. Sie diente der Verwaltung des Warenverkehrs mit den Nachbarregionen.",
       hu: "Történelmi határállomás az ország nyugati részén. Az áruforgalom kezelésére szolgált a szomszédos régiókkal.",
@@ -1579,7 +1579,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-baoro-missionsstation-history-v2",
     type: "church",
     name: { de: "Baoro Missionsstation", hu: "Baoro missziós állomás", ro: "Stația misionară Baoro", en: "Baoro Mission Station" },
-    coordinates: { lat: 5.65, lng: 15.9667 },
+    coords: [15.9667, 5.65],
     description: {
       de: "Religiöses Zentrum mit langer Geschichte im Westen der Zentralafrikanischen Republik. Es spielte eine zentrale Rolle bei der Ausbildung der lokalen Bevölkerung.",
       hu: "Vallási központ hosszú történelemmel a Közép-afrikai Köztársaság nyugati részén. Központi szerepet játszott a helyi lakosság képzésében.",
@@ -1610,7 +1610,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-bambio-handelsniederlassung-history-v2",
     type: "landmark",
     name: { de: "Bambio Handelsniederlassung", hu: "Bambio kereskedelmi telep", ro: "Așezarea comercială Bambio", en: "Bambio Trading Settlement" },
-    coordinates: { lat: 3.75, lng: 17.65 },
+    coords: [17.65, 3.75],
     description: {
       de: "Historisches Zentrum für den Holz- und Agrarhandel in der Lobaye-Region. Zeugt von der wirtschaftlichen Entwicklung unter kolonialem Einfluss.",
       hu: "Történelmi központ a fa- és mezőgazdasági kereskedelem számára a Lobaye régióban. A gyarmati befolyás alatti gazdasági fejlődés tanúja.",
@@ -1641,7 +1641,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-abba-handelsplatz-history-v2",
     type: "landmark",
     name: { de: "Handelsplatz Abba", hu: "Abba kereskedelmi tér", ro: "Piața comercială Abba", en: "Abba Trading Place" },
-    coordinates: { lat: 6.8333, lng: 15.0 },
+    coords: [15.0, 6.8333],
     description: {
       de: "Historischer Handelsort nahe der westlichen Grenze. Er diente als wichtiges Bindeglied für den Austausch von Agrarprodukten.",
       hu: "Történelmi kereskedelmi helyszín a nyugati határ közelében. Fontos láncszemként szolgált a mezőgazdasági termékek cseréjében.",
@@ -1672,7 +1672,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-gadzi-kolonialstation-history-v2",
     type: "landmark",
     name: { de: "Gadzi Kolonialstation", hu: "Gadzi gyarmati állomás", ro: "Stația colonială Gadzi", en: "Gadzi Colonial Station" },
-    coordinates: { lat: 4.5667, lng: 16.4833 },
+    coords: [16.4833, 4.5667],
     description: {
       de: "Ehemaliger Außenposten der Verwaltung in der Mambéré-Kadéï Region. Er war zentral für die Kontrolle der lokalen Ressourcen.",
       hu: "Egykori adminisztratív előőrs a Mambéré-Kadéï régióban. Központi szerepet játszott a helyi erőforrások ellenőrzésében.",
@@ -1703,7 +1703,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-mongoumba-flusshafen-history-v2",
     type: "port",
     name: { de: "Historischer Flusshafen Mongoumba", hu: "Mongoumba történelmi folyami kikötője", ro: "Portul fluvial istoric Mongoumba", en: "Historic River Port of Mongoumba" },
-    coordinates: { lat: 3.7, lng: 18.5833 },
+    coords: [18.5833, 3.7],
     description: {
       de: "Wichtiger Umschlagplatz am Ubangi-Fluss während der Kolonialzeit. Er verband die Zentralafrikanische Republik mit dem Kongobecken.",
       hu: "Fontos átrakodóhely az Ubangi folyón a gyarmati korszakban. Összekötötte a Közép-afrikai Köztársaságot a Kongó-medencével.",
@@ -1734,7 +1734,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-amada-gaza-handelszentrum-history-v2",
     type: "landmark",
     name: { de: "Amada-Gaza Handelszentrum", hu: "Amada-Gaza kereskedelmi központ", ro: "Centrul comercial Amada-Gaza", en: "Amada-Gaza Trading Center" },
-    coordinates: { lat: 4.1, lng: 16.0333 },
+    coords: [16.0333, 4.1],
     description: {
       de: "Historischer Ort in der Mambéré-Kadéï Präfektur, der als Sammelpunkt für lokale Agrarprodukte diente.",
       hu: "Történelmi helyszín a Mambéré-Kadéï prefektúrában, amely a helyi mezőgazdasági termékek gyűjtőpontjaként szolgált.",
@@ -1765,7 +1765,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-boda-handelsposten-history-v2",
     type: "landmark",
     name: { de: "Boda Handelsposten", hu: "Boda kereskedelmi állomás", ro: "Postul comercial Boda", en: "Boda Trading Post" },
-    coordinates: { lat: 4.3167, lng: 17.4667 },
+    coords: [17.4667, 4.3167],
     description: {
       de: "Historische Handelsstation in der Lobaye Präfektur. Wichtig für die Geschichte des Holzhandels und der Forstwirtschaft.",
       hu: "Történelmi kereskedelmi állomás a Lobaye prefektúrában. Fontos a fa-kereskedelem és az erdőgazdálkodás történetében.",
@@ -1796,7 +1796,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-damara-kolonialposten-history-v2",
     type: "landmark",
     name: { de: "Damara Kolonialposten", hu: "Damara gyarmati őrhely", ro: "Postul colonial Damara", en: "Damara Colonial Post" },
-    coordinates: { lat: 4.95, lng: 18.6667 },
+    coords: [18.6667, 4.95],
     description: {
       de: "Ehemaliger Posten nahe Bangui, der strategische Bedeutung für die Überwachung der Handelsrouten nach Norden hatte.",
       hu: "Egykori őrhely Bangui közelében, amely stratégiai jelentőséggel bírt az északi kereskedelmi útvonalak megfigyelésében.",
@@ -1827,7 +1827,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-baoro-handelsturm-history-v2",
     type: "tower",
     name: { de: "Handelsturm Baoro", hu: "Baoro kereskedelmi torony", ro: "Turnul comercial Baoro", en: "Baoro Trading Tower" },
-    coordinates: { lat: 5.6667, lng: 15.9833 },
+    coords: [15.9833, 5.6667],
     description: {
       de: "Historischer Beobachtungs- und Lagerturm aus der Zeit der frühen Warenkontrolle im Westen des Landes.",
       hu: "Történelmi megfigyelő- és raktár-torony az ország nyugati részén folyó korai áruellenőrzés korszakából.",
@@ -1858,7 +1858,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-ndele-fort-history-v2",
     type: "landmark",
     name: { de: "Ndélé Verteidigungsfort", hu: "Ndélé védelmi erőd", ro: "Fortul de apărare Ndélé", en: "Ndélé Defensive Fort" },
-    coordinates: { lat: 8.4167, lng: 20.65 },
+    coords: [20.65, 8.4167],
     description: {
       de: "Historische Festungsanlage in der Bamingui-Bangoran Präfektur. Sie war wichtig für den Schutz der nördlichen Handelsinteressen.",
       hu: "Történelmi erődítmény a Bamingui-Bangoran prefektúrában. Fontos volt az északi kereskedelmi érdekek védelmében.",
@@ -1889,7 +1889,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-bocaranga-missionsposten-history-v2",
     type: "church",
     name: { de: "Bocaranga Missionsposten", hu: "Bocaranga missziós állomás", ro: "Postul misionar Bocaranga", en: "Bocaranga Mission Post" },
-    coordinates: { lat: 7.4167, lng: 15.6 },
+    coords: [15.6, 7.4167],
     description: {
       de: "Ehemalige Missions- und Bildungsstation im Nordwesten. Sie spielte eine wichtige Rolle bei der lokalen Entwicklung im 20. Jahrhundert.",
       hu: "Egykori missziós és oktatási állomás az északnyugati régióban. Fontos szerepet játszott a helyi fejlődésben a 20. században.",
@@ -1920,7 +1920,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-kabo-handelsspeicher-history-v2",
     type: "landmark",
     name: { de: "Handelsspeicher Kabo", hu: "Kabo kereskedelmi raktár", ro: "Depozitul comercial Kabo", en: "Kabo Trading Warehouse" },
-    coordinates: { lat: 7.7167, lng: 18.6333 },
+    coords: [18.6333, 7.7167],
     description: {
       de: "Historisches Lagerhaus aus der Kolonialzeit. Es diente der Sicherung landwirtschaftlicher Erzeugnisse für den Export nach Norden.",
       hu: "Történelmi raktárépület a gyarmati időszakból. Mezőgazdasági termékek északra irányuló exportjának biztosítására szolgált.",
@@ -1951,7 +1951,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     id: "centralafricanrepublic-birao-handelsplatz-history-v2",
     type: "landmark",
     name: { de: "Handelsplatz Birao", hu: "Birao kereskedelmi tér", ro: "Piața comercială Birao", en: "Birao Trading Place" },
-    coordinates: { lat: 10.2833, lng: 22.7833 },
+    coords: [22.7833, 10.2833],
     description: {
       de: "Historischer Knotenpunkt für den Handel in der Vakaga-Präfektur nahe der nördlichen Grenze. Er war zentral für den trans-sahelischen Austausch.",
       hu: "Történelmi kereskedelmi csomópont a Vakaga prefektúrában, az északi határ közelében. Központi szerepet játszott a transz-száheli cserében.",

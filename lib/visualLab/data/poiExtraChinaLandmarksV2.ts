@@ -727,7 +727,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-canton-tower-landmarks-v2",
     type: "tower",
     name: { de: "Canton Tower", hu: "Kantoni tévétorony", ro: "Turnul Canton", en: "Canton Tower" },
-    coordinates: { lat: 23.1088, lng: 113.3245 },
+    coords: [113.3245, 23.1088],
     description: {
       de: "Der Canton Tower ist ein 604 Meter hoher Fernseh- und Aussichtsturm in Guangzhou. Er war bei seiner Eröffnung 2010 der höchste Turm der Welt.",
       hu: "A Kantoni tévétorony egy 604 méter magas kilátótorony Kanton városában. Átadásakor, 2010-ben a világ legmagasabb ilyen építménye volt.",
@@ -758,7 +758,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-tengwang-pavilion-landmarks-v2",
     type: "landmark",
     name: { de: "Pavillon des Prinzen Teng", hu: "Teng herceg pavilonja", ro: "Pavilionul Prințului Teng", en: "Pavilion of Prince Teng" },
-    coordinates: { lat: 28.6922, lng: 115.8753 },
+    coords: [115.8753, 28.6922],
     description: {
       de: "Dieser Pavillon in Nanchang ist einer der drei großen Türme Südchinas. Er wurde im Jahr 653 vom Prinzen Li Yuanying erbaut.",
       hu: "Ez a nanchangi pavilon Dél-Kína három nagy tornyának egyike. 653-ban építtette Li Yuanying herceg a Tang-dinasztia idején.",
@@ -789,7 +789,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-confucius-temple-qufu-landmarks-v2",
     type: "landmark",
     name: { de: "Konfuziustempel von Qufu", hu: "Konfuciusz-templom (Csüfu)", ro: "Templul lui Confucius din Qufu", en: "Temple of Confucius, Qufu" },
-    coordinates: { lat: 35.5908, lng: 116.9833 },
+    coords: [116.9833, 35.5908],
     description: {
       de: "Dies ist der größte und älteste Tempel, der Konfuzius gewidmet ist. Er befindet sich in seiner Heimatstadt Qufu in der Provinz Shandong.",
       hu: "Ez a legnagyobb és legrégebbi Konfuciusznak szentelt templom. A bölcs szülővárosában, Csüfuban található, Santung tartományban.",
@@ -820,7 +820,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-iron-pagoda-kaifeng-landmarks-v2",
     type: "tower",
     name: { de: "Eisen-Pagode", hu: "Vas-pagoda", ro: "Pagoda de Fier", en: "Iron Pagoda" },
-    coordinates: { lat: 34.8197, lng: 114.3644 },
+    coords: [114.3644, 34.8197],
     description: {
       de: "Die Eisen-Pagode in Kaifeng besteht aus glasierten Ziegeln, die wie Eisen aussehen. Sie wurde im Jahr 1049 während der Song-Dynastie erbaut.",
       hu: "A kájfengi Vas-pagoda valójában mázas téglákból épült, amelyek vasnak tűnnek. 1049-ben emelték a Szung-dinasztia idején.",
@@ -851,7 +851,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-sakyamuni-pagoda-yingxian-landmarks-v2",
     type: "tower",
     name: { de: "Sakyamuni-Pagode (Yingxian)", hu: "Szakjamuni-pagoda (Jinghszien)", ro: "Pagoda Sakyamuni din Yingxian", en: "Sakyamuni Pagoda of Fogong Temple" },
-    coordinates: { lat: 39.5644, lng: 113.1825 },
+    coords: [113.1825, 39.5644],
     description: {
       de: "Diese Pagode ist das älteste vollständig aus Holz bestehende Gebäude Chinas. Sie wurde 1056 ohne einen einzigen Metallnagel errichtet.",
       hu: "Ez a pagoda Kína legrégebbi, teljesen fából készült építménye. 1056-ban emelték, egyetlen fém szög használata nélkül.",
@@ -882,7 +882,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-shanghai-tower-landmarks-v2",
     type: "tower",
     name: { de: "Shanghai Tower", hu: "Sanghaj-torony", ro: "Turnul Shanghai", en: "Shanghai Tower" },
-    coordinates: { lat: 31.2335, lng: 121.5055 },
+    coords: [121.5055, 31.2335],
     description: {
       de: "Der Shanghai Tower ist mit 632 Metern das höchste Gebäude Chinas. Seine spiralförmige Form reduziert die Windbelastung erheblich.",
       hu: "A Sanghaj-torony 632 méteres magasságával Kína legmagasabb épülete. Csavart formája jelentősen csökkenti a szélterhelést.",
@@ -913,7 +913,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-jin-mao-tower-landmarks-v2",
     type: "tower",
     name: { de: "Jin Mao Tower", hu: "Csin Mao-torony", ro: "Turnul Jin Mao", en: "Jin Mao Tower" },
-    coordinates: { lat: 31.2351, lng: 121.5061 },
+    coords: [121.5061, 31.2351],
     description: {
       de: "Der Jin Mao Tower ist ein Wolkenkratzer in Shanghai mit einer Architektur, die an traditionelle chinesische Pagoden erinnert.",
       hu: "A Csin Mao-torony Sanghaj egyik felhőkarcolója, melynek építészete a hagyományos kínai pagodákat idézi.",
@@ -944,7 +944,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-national-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalstadion Peking", hu: "Pekingi Nemzeti Stadion", ro: "Stadionul Național din Beijing", en: "National Stadium (Bird's Nest)" },
-    coordinates: { lat: 39.993, lng: 116.3961 },
+    coords: [116.3961, 39.993],
     description: {
       de: "Das wegen seiner Stahlstruktur als 'Vogelnest' bekannte Stadion war der Hauptaustragungsort der Olympischen Spiele 2008.",
       hu: "Az acélszerkezete miatt „Madárfészek” néven ismert stadion a 2008-as olimpiai játékok központi helyszíne volt.",
@@ -958,12 +958,24 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Location: Beijing", "Built: 2008", "Capacity: 91,000", "Steel structure"],
     },
     imageHint: "Beijing National Stadium Bird's Nest at night",
+    descriptionAdvanced: {
+      de: "Das Nationalstadion in Peking, auch bekannt als Vogelnest, wurde für die Olympischen Spiele 2008 erbaut. Es fasst 91.000 Zuschauer und ist eines der größten Stadien der Welt. Die Stahlkonstruktion wiegt 42.000 Tonnen und wurde von den Architekten Herzog & de Meuron entworfen. Das Stadion war Austragungsort der Eröffnungs- und Schlussfeier sowie der Leichtathletikwettbewerbe. Nach den Spielen wird es für Sportveranstaltungen und Konzerte genutzt. Die einzigartige Fassade aus verschränkten Stahlträgern symbolisiert die chinesische Kultur.",
+      hu: "A Pekingi Nemzeti Stadion, becenevén a Madárfészek, a 2008-as olimpiai játékokra épült 91 000 férőhellyel. A 42 000 tonnás acélszerkezetet a svájci Herzog & de Meuron tervezte. Az épület az olimpia nyitó- és záróünnepségének, valamint az atlétikai versenyeknek adott otthont. A stadionban 2022-ben a téli olimpia megnyitója is volt. Jelenleg multifunkcionális sport- és kulturális központként működik. A homlokzatot borító acélrács a kínai hagyományos rácsos szerkezetekre utal.",
+      ro: "Stadionul Național din Beijing, cunoscut sub numele de Cuibul Păsării, a fost construit pentru Jocurile Olimpice din 2008. Are o capacitate de 91.000 de locuri și o greutate a structurii de oțel de 42.000 de tone. Proiectat de arhitecții Herzog & de Meuron, stadionul a găzduit ceremoniile de deschidere și închidere, precum și competițiile de atletism. În 2022, a fost utilizat și pentru Jocurile Olimpice de Iarnă. Acum este un centru polivalent pentru evenimente sportive și culturale. Designul iconic imită un cuib de pasăre, simbolizând armonia.",
+      en: "The National Stadium in Beijing, known as the Bird's Nest, was built for the 2008 Summer Olympics. With a capacity of 91,000, it is one of the largest stadiums globally. The steel structure weighs 42,000 tons and was designed by Herzog & de Meuron. It hosted the opening and closing ceremonies, as well as athletics events. In 2022, it was reused for the Winter Olympics. The stadium now serves as a multi-purpose venue for sports and concerts. Its lattice facade is inspired by Chinese traditional art.",
+    },
+    factsAdvanced: {
+      de: ["Das Stadion fasst 91.000 Zuschauer.", "Die Stahlkonstruktion wiegt 42.000 Tonnen.", "Es wurde 2008 eröffnet.", "Die Baukosten betrugen 423 Millionen US-Dollar.", "Die Höhe beträgt 69 Meter.", "Die Spannweite des Daches beträgt 340 Meter."],
+      hu: ["A stadion 91 000 fő befogadására alkalmas.", "Az acélszerkezet súlya 42 000 tonna.", "2008-ban adták át.", "Az építési költség 423 millió USD volt.", "Magassága 69 méter.", "A tető fesztávja 340 méter."],
+      ro: ["Capacitatea este de 91.000 de locuri.", "Structura din oțel cântărește 42.000 de tone.", "A fost deschis în 2008.", "Costul construcției a fost de 423 milioane USD.", "Înălțimea este de 69 m.", "Deschiderea acoperișului este de 340 m."],
+      en: ["The stadium holds 91,000 spectators.", "The steel structure weighs 42,000 tons.", "It was opened in 2008.", "Construction cost was $423 million.", "Height is 69 meters.", "Roof span is 340 meters."],
+    },
   },
   {
     id: "china-national-aquatics-center-landmarks-v2",
     type: "landmark",
     name: { de: "Nationales Schwimmzentrum", hu: "Nemzeti Vízi Központ", ro: "Centrul Național de Natație", en: "National Aquatics Center" },
-    coordinates: { lat: 39.9917, lng: 116.3842 },
+    coords: [116.3842, 39.9917],
     description: {
       de: "Das als 'Water Cube' bekannte Gebäude in Peking hat eine Fassade, die an Wasserblasen erinnert. Es wurde für Olympia 2008 gebaut.",
       hu: "A pekingi „Vizes Kocka” néven ismert épület homlokzata vízbuborékokat idéz. A 2008-as olimpiára készült.",
@@ -977,12 +989,24 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Nickname: Water Cube", "Location: Beijing", "Built: 2008", "ETFE facade"],
     },
     imageHint: "National Aquatics Center Water Cube Beijing blue lighting",
+    descriptionAdvanced: {
+      de: "Das Nationale Schwimmzentrum in Peking, auch als Wasserwürfel bekannt, wurde für die Olympischen Spiele 2008 erbaut. Es fasst 17.000 Zuschauer und war Austragungsort der Schwimm-, Tauch- und Synchronschwimmwettbewerbe. Die Außenhülle besteht aus ETFE-Kunststoffkissen, die Energieeffizienz ermöglichen. Nach den Spielen wurde es in eine Wasserrutsche und ein Spa umgewandelt. Das Gebäude ist 35 Meter hoch und bedeckt 65.000 Quadratmeter. Es symbolisiert die Verbindung von Wasser und Architektur.",
+      hu: "A Pekingi Nemzeti Vízi Központ, a Vizes Kocka, a 2008-as olimpiai úszóversenyek helyszíne volt 17 000 férőhellyel. Az épület külső borítása ETFE műanyag párnákból áll, amelyek energiatakarékosak. A központ 35 méter magas, alapterülete 65 000 m². Az olimpia után szórakoztató központtá alakították, vízi csúszdákkal és fürdővel. A különleges buborékos homlokzat a vízcseppeket idézi. A létesítményt 2008-ban adták át.",
+      ro: "Centrul Național de Sporturi Acvatice din Beijing, cunoscut sub numele de Cubul de Apă, a fost construit pentru Jocurile Olimpice din 2008. Are o capacitate de 17.000 de locuri și a găzduit competiții de înot, sărituri și natație sincronă. Fațada este realizată din perne ETFE, eficiente energetic. Clădirea are 35 m înălțime și o suprafață de 65.000 m². După Jocuri, a fost transformată într-un parc acvatic. Designul cu bule simbolizează apa.",
+      en: "The National Aquatics Center in Beijing, known as the Water Cube, was built for the 2008 Olympics. It has a capacity of 17,000 and hosted swimming, diving, and synchronized swimming events. The exterior is made of ETFE cushions, providing insulation and light transmission. The building is 35 meters tall and covers 65,000 square meters. After the Olympics, it was converted into a water park with slides and a spa. Its bubble-like facade represents water molecules.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum fasst 17.000 Zuschauer.", "Die Außenhülle besteht aus 100.000 ETFE-Kissen.", "Erbaut für die Olympischen Spiele 2008.", "Höhe: 35 Meter.", "Fläche: 65.000 m².", "Umbaukosten nach den Spielen: 200 Millionen Yuan."],
+      hu: ["Befogadóképesség: 17 000 fő.", "A borítás 100 000 ETFE-párnából áll.", "2008-ban épült az olimpiára.", "Magasság: 35 méter.", "Terület: 65 000 m².", "Az átalakítás költsége 200 millió jüan volt."],
+      ro: ["Capacitatea este de 17.000 de locuri.", "Fațada are 100.000 de perne ETFE.", "Construit pentru Jocurile Olimpice din 2008.", "Înălțime: 35 m.", "Suprafața: 65.000 m².", "Costul conversiei: 200 milioane yuani."],
+      en: ["Capacity of 17,000 spectators.", "Exterior has 100,000 ETFE cushions.", "Built for the 2008 Olympics.", "Height: 35 meters.", "Area: 65,000 m².", "Conversion cost after games: 200 million yuan."],
+    },
   },
   {
     id: "china-cctv-headquarters-landmarks-v2",
     type: "landmark",
     name: { de: "CCTV-Zentrale", hu: "CCTV-székház", ro: "Sediul CCTV", en: "CCTV Headquarters" },
-    coordinates: { lat: 39.9144, lng: 116.4608 },
+    coords: [116.4608, 39.9144],
     description: {
       de: "Die CCTV-Zentrale in Peking ist ein kühner Wolkenkratzer mit einer geschlossenen Schleifenform. Er wurde von Rem Koolhaas entworfen.",
       hu: "A pekingi CCTV-székház egy merész formájú felhőkarcoló, mely egy zárt hurkot alkot. Rem Koolhaas tervezte.",
@@ -1013,7 +1037,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-ncpa-beijing-landmarks-v2",
     type: "theater",
     name: { de: "Nationales Zentrum für Darstellende Künste", hu: "Nemzeti Előadóművészeti Központ", ro: "Centrul Național de Arte ale Spectacolului", en: "National Centre for the Performing Arts" },
-    coordinates: { lat: 39.9038, lng: 116.3897 },
+    coords: [116.3897, 39.9038],
     description: {
       de: "Dieses Opernhaus in Peking wird wegen seiner Form oft als 'Ei' bezeichnet. Es ist von einem künstlichen See umgeben.",
       hu: "Ezt a pekingi operaházat formája miatt gyakran „Tojásnak” hívják. Egy mesterséges tó veszi körül az épületet.",
@@ -1027,12 +1051,24 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Location: Beijing", "Architect: Paul Andreu", "Capacity: 5,452", "Opened: 2007"],
     },
     imageHint: "National Centre for the Performing Arts Beijing water reflection",
+    descriptionAdvanced: {
+      de: "Das Nationale Zentrum für Darstellende Künste in Peking, auch als Riesen-Ei bekannt, wurde 2007 eröffnet. Es liegt im Herzen der Stadt nahe dem Tiananmen-Platz. Das Gebäude besteht aus einer Titan- und Glaskuppel, die von einem künstlichen See umgeben ist. Es umfasst drei Säle: Oper, Konzert und Theater. Die Akustik wurde von führenden Ingenieuren entworfen. Mit einer Fläche von 200.000 Quadratmetern ist es das größte Kulturzentrum Asiens. Es bietet Platz für 5.452 Besucher.",
+      hu: "A Pekingi Nemzeti Nagyszínház, becenevén az Óriás Tojás, 2007-ben nyílt meg. Az épület titánból és üvegből álló kupolája mesterséges tóban tükröződik. Három előadóterem található benne: opera-, koncert- és színházterem. Az akusztikát világhírű szakemberek tervezték. 200 000 m²-es területével Ázsia legnagyobb kulturális központja. A látogatók számára 5 452 férőhely áll rendelkezésre. Az épület a modern kínai építészet kiemelkedő példája.",
+      ro: "Centrul Național pentru Artele Spectacolului din Beijing, cunoscut sub numele de Oul Uriaș, a fost inaugurat în 2007. Este situat în apropiere de Piața Tiananmen. Clădirea are un dom din titan și sticlă, înconjurat de un lac artificial. Cuprinde trei săli: operă, concerte și teatru. Acustica a fost proiectată de ingineri renumiți. Cu 200.000 m², este cel mai mare centru cultural din Asia. Capacitatea totală este de 5.452 de locuri.",
+      en: "The National Centre for the Performing Arts in Beijing, known as the Giant Egg, opened in 2007. Located near Tiananmen Square, it features a titanium and glass dome surrounded by an artificial lake. It houses three halls: opera, concert, and theater. The acoustics were designed by top engineers. Covering 200,000 square meters, it is Asia's largest cultural center. It seats 5,452 visitors. The building is a landmark of modern Chinese architecture.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 2007.", "Kuppel aus Titan und Glas.", "Fläche: 200.000 m².", "5.452 Sitzplätze.", "Baukosten: 2,6 Milliarden Yuan.", "Tiefe des künstlichen Sees: 3 Meter."],
+      hu: ["2007-ben nyílt meg.", "Titán és üveg kupola.", "Terület: 200 000 m².", "5 452 ülőhely.", "Építési költség: 2,6 milliárd jüan.", "A mesterséges tó mélysége: 3 méter."],
+      ro: ["Inaugurat în 2007.", "Dom din titan și sticlă.", "Suprafață: 200.000 m².", "5.452 de locuri.", "Cost de construcție: 2,6 miliarde yuani.", "Adâncimea lacului artificial: 3 m."],
+      en: ["Opened in 2007.", "Titanium and glass dome.", "Area: 200,000 m².", "5,452 seats.", "Construction cost: 2.6 billion yuan.", "Artificial lake depth: 3 meters."],
+    },
   },
   {
     id: "china-small-wild-goose-pagoda-landmarks-v2",
     type: "tower",
     name: { de: "Kleine Wildganspagode", hu: "Kis Vadlúd-pagoda", ro: "Mica Pagodă a Gâștei Sălbatice", en: "Small Wild Goose Pagoda" },
-    coordinates: { lat: 34.2389, lng: 108.9406 },
+    coords: [108.9406, 34.2389],
     description: {
       de: "Die Kleine Wildganspagode in Xi'an wurde während der Tang-Dynastie erbaut. Sie überstand mehrere Erdbeben nahezu unbeschadet.",
       hu: "A hsziani Kis Vadlúd-pagoda a Tang-dinasztia idején épült. Több földrengést is túlélt szinte sértetlenül.",
@@ -1063,7 +1099,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-yonghe-temple-landmarks-v2",
     type: "palace",
     name: { de: "Lama-Tempel (Yonghe-Palast)", hu: "Láma-templom (Jungho-palota)", ro: "Templul Lama (Palatul Yonghe)", en: "Lama Temple (Yonghe Palace)" },
-    coordinates: { lat: 39.9472, lng: 116.4172 },
+    coords: [116.4172, 39.9472],
     description: {
       de: "Der Yonghe-Palast in Peking ist eines der bedeutendsten tibetisch-buddhistischen Klöster außerhalb Tibets.",
       hu: "A pekingi Jungho-palota az egyik legfontosabb tibeti buddhista kolostor Tibeten kívül. Eredetileg császári palota volt.",
@@ -1094,7 +1130,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-jiayu-pass-landmarks-v2",
     type: "landmark",
     name: { de: "Jiayuguan-Pass", hu: "Csiajuguan-hágó", ro: "Pasul Jiayuguan", en: "Jiayu Pass" },
-    coordinates: { lat: 39.8128, lng: 98.2144 },
+    coords: [98.2144, 39.8128],
     description: {
       de: "Dies ist der westlichste Pass der Großen Mauer aus der Ming-Zeit. Er war ein wichtiger Kontrollpunkt an der antiken Seidenstraße.",
       hu: "Ez a Ming-kori Nagy Fal legnyugatibb hágója. Fontos ellenőrző pont volt az ősi Selyemút mentén.",
@@ -1125,7 +1161,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-foguang-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Foguang-Tempel", hu: "Fokuang-templom", ro: "Templul Foguang", en: "Foguang Temple" },
-    coordinates: { lat: 38.8686, lng: 113.4839 },
+    coords: [113.4839, 38.8686],
     description: {
       de: "Die Haupthalle des Foguang-Tempels ist eines der wenigen erhaltenen Holzgebäude der Tang-Dynastie in China.",
       hu: "A Fokuang-templom főcsarnoka egyike Kína kevés fennmaradt Tang-kori faépületének. A Vutaj-hegy közelében található.",
@@ -1156,7 +1192,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-kumbum-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster Kumbum", hu: "Kumbum kolostor", ro: "Mănăstirea Kumbum", en: "Kumbum Monastery" },
-    coordinates: { lat: 36.4872, lng: 101.5714 },
+    coords: [101.5714, 36.4872],
     description: {
       de: "Kumbum ist ein bedeutendes tibetisches Kloster der Gelug-Schule. Es liegt in der Provinz Qinghai am Geburtsort von Tsongkhapa.",
       hu: "A Kumbum a Gelug iskola egyik legjelentősebb tibeti kolostora. Csinghaj tartományban, Congkapa szülőhelyén található.",
@@ -1187,7 +1223,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-labrang-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster Labrang", hu: "Labrang kolostor", ro: "Mănăstirea Labrang", en: "Labrang Monastery" },
-    coordinates: { lat: 35.1953, lng: 102.5053 },
+    coords: [102.5053, 35.1953],
     description: {
       de: "Labrang beherbergt die größte Anzahl an Mönchen außerhalb der Autonomen Region Tibet. Es ist ein Zentrum der tibetischen Kultur.",
       hu: "A Labrang kolostorban él a legtöbb szerzetes a Tibeti Autonóm Területen kívül. A tibeti kultúra fontos központja Gansuban.",
@@ -1218,7 +1254,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-jokhang-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Jokhang-Tempel", hu: "Dzsokhang-templom", ro: "Templul Jokhang", en: "Jokhang Temple" },
-    coordinates: { lat: 29.6531, lng: 91.1317 },
+    coords: [91.1317, 29.6531],
     description: {
       de: "Der Jokhang-Tempel in Lhasa gilt als das heiligste Heiligtum des tibetischen Buddhismus. Er wurde im 7. Jahrhundert gegründet.",
       hu: "A lhaszai Dzsokhang-templom a tibeti buddhizmus legszentebb kegyhelye. A 7. században alapították Szongcen Gampo király idején.",
@@ -1232,12 +1268,24 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Location: Lhasa", "UNESCO World Heritage", "7th century", "Songtsen Gampo"],
     },
     imageHint: "Jokhang Temple Lhasa square pilgrims",
+    descriptionAdvanced: {
+      de: "Der Jokhang-Tempel in Lhasa, Tibet, ist eines der heiligsten Heiligtümer des tibetischen Buddhismus. Er wurde im 7. Jahrhundert unter König Songtsen Gampo erbaut. Der Tempel beherbergt die lebensgroße Statue von Buddha Shakyamuni im Alter von 12 Jahren, die als die heiligste Statue Tibets gilt. Die Architektur vereint indische, nepalesische und chinesische Stile. Der Tempel ist von einer Pilgerstraße umgeben. Er wurde 2000 zum UNESCO-Weltkulturerbe erklärt und zieht jährlich Hunderttausende von Pilgern an.",
+      hu: "A lhászai Jokhang-templom Tibet legszentebb buddhista szentélye. A 7. században építtette Szongcen Gampo király. A templomban őrzik a 12 éves Buddha Sákjamuni életnagyságú szobrát, amely Tibet legszentebb ereklyéje. Az épület indiai, nepáli és kínai építészeti elemeket ötvöz. A templomot körülvevő zarándokút a kora (kör) része. 2000-ben az UNESCO Világörökség részévé nyilvánították. Évente több százezer zarándok keresi fel.",
+      ro: "Templul Jokhang din Lhasa, Tibet, este unul dintre cele mai sfinte lăcașuri budiste. A fost construit în secolul al VII-lea de regele Songtsen Gampo. Adăpostește o statuie a lui Buddha Shakyamuni la vârsta de 12 ani, considerată cea mai sfântă din Tibet. Arhitectura combină stiluri indiene, nepaleze și chineze. Templul este înconjurat de un drum de pelerinaj. În 2000 a fost declarat patrimoniu mondial UNESCO. Atrage sute de mii de pelerini anual.",
+      en: "Jokhang Temple in Lhasa, Tibet, is the most sacred Buddhist site in Tibet. Built in the 7th century by King Songtsen Gampo, it houses a life-sized statue of Buddha Shakyamuni at age 12, the holiest in Tibet. The architecture blends Indian, Nepalese, and Chinese influences. The temple is surrounded by a pilgrim circuit. It was designated a UNESCO World Heritage site in 2000. Hundreds of thousands of pilgrims visit each year.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 7. Jahrhundert.", "Höhe: 25 Meter.", "Die Buddha-Statue ist 1,5 Meter hoch.", "UNESCO-Weltkulturerbe seit 2000.", "Besucher pro Jahr: 500.000.", "Der Tempel liegt auf 3.650 Metern Höhe."],
+      hu: ["7. században épült.", "Magasság: 25 méter.", "A Buddha-szobor 1,5 méter magas.", "UNESCO Világörökség 2000 óta.", "Éves látogatók: 500 000.", "A templom 3 650 méter magasan fekszik."],
+      ro: ["Construit în secolul al VII-lea.", "Înălțime: 25 m.", "Statuia lui Buddha are 1,5 m.", "Patrimoniu UNESCO din 2000.", "500.000 de vizitatori pe an.", "Altitudine: 3.650 m."],
+      en: ["Built in the 7th century.", "Height: 25 meters.", "Buddha statue is 1.5 meters tall.", "UNESCO World Heritage since 2000.", "Annual visitors: 500,000.", "Elevation: 3,650 meters."],
+    },
   },
   {
     id: "china-tashilhunpo-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster Trashilhünpo", hu: "Tasilhunpo kolostor", ro: "Mănăstirea Tashilhunpo", en: "Tashilhunpo Monastery" },
-    coordinates: { lat: 29.2683, lng: 88.8703 },
+    coords: [88.8703, 29.2683],
     description: {
       de: "Das Kloster Trashilhünpo in Shigatse ist der traditionelle Sitz des Panchen Lama. Es wurde 1447 vom ersten Dalai Lama gegründet.",
       hu: "A sigacei Tasilhunpo kolostor a pancsen láma hagyományos székhelye. 1447-ben alapította az első dalai láma.",
@@ -1268,7 +1316,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-ruins-of-st-pauls-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von St. Paul", hu: "Szent Pál-székesegyház romjai", ro: "Ruinele Sfântului Paul", en: "Ruins of St. Paul's" },
-    coordinates: { lat: 22.1975, lng: 113.5408 },
+    coords: [113.5408, 22.1975],
     description: {
       de: "Die Ruinen von St. Paul in Macau sind die Überreste einer Jesuitenkirche aus dem 17. Jahrhundert. Nur die prächtige Fassade blieb erhalten.",
       hu: "A makaói Szent Pál-romok egy 17. századi jezsuita templom maradványai. Csak a díszes homlokzat maradt meg a tűzvész után.",
@@ -1299,7 +1347,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-a-ma-temple-landmarks-v2",
     type: "landmark",
     name: { de: "A-Ma-Tempel", hu: "A-Ma templom", ro: "Templul A-Ma", en: "A-Ma Temple" },
-    coordinates: { lat: 22.1864, lng: 113.5314 },
+    coords: [113.5314, 22.1864],
     description: {
       de: "Der A-Ma-Tempel in Macau ist der Göttin der Fischer gewidmet. Von seinem Namen leitet sich die Bezeichnung 'Macau' ab.",
       hu: "A makaói A-Ma templom a halászok istennőjének szentelt hely. Erről a templomról kapta Makaó a nevét.",
@@ -1330,7 +1378,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-tian-tan-buddha-landmarks-v2",
     type: "monument",
     name: { de: "Tian Tan Buddha", hu: "Tian Tan Buddha", ro: "Buddha Tian Tan", en: "Tian Tan Buddha" },
-    coordinates: { lat: 22.2539, lng: 113.905 },
+    coords: [113.905, 22.2539],
     description: {
       de: "Der Tian Tan Buddha ist eine große Bronzestatue auf Lantau Island in Hongkong. Sie symbolisiert die Harmonie zwischen Mensch und Natur.",
       hu: "A Tian Tan Buddha egy hatalmas bronzszobor Hongkongban, Lantau szigetén. Az ember és természet közötti harmóniát jelképezi.",
@@ -1361,7 +1409,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-saint-sophia-cathedral-harbin-landmarks-v2",
     type: "cathedral",
     name: { de: "Sophienkathedrale (Harbin)", hu: "Szent Szófia-székesegyház (Harbin)", ro: "Catedrala Sfânta Sofia din Harbin", en: "Saint Sophia Cathedral, Harbin" },
-    coordinates: { lat: 45.7686, lng: 126.6214 },
+    coords: [126.6214, 45.7686],
     description: {
       de: "Die Sophienkathedrale in Harbin ist eine ehemalige russisch-orthodoxe Kirche. Sie ist eines der bekanntesten Symbole der Stadt.",
       hu: "A harbini Szent Szófia-székesegyház egy egykori orosz ortodox templom. A város orosz örökségének legismertebb jelképe.",
@@ -1392,7 +1440,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-six-harmonies-pagoda-landmarks-v2",
     type: "tower",
     name: { de: "Pagode der Sechs Harmonien", hu: "Hat Harmónia-pagoda", ro: "Pagoda celor Șase Armonii", en: "Six Harmonies Pagoda" },
-    coordinates: { lat: 30.1983, lng: 120.1264 },
+    coords: [120.1264, 30.1983],
     description: {
       de: "Die Liuhe-Pagode in Hangzhou steht am Qiantang-Fluss. Sie wurde ursprünglich erbaut, um die zerstörerischen Flutwellen des Flusses zu bändigen.",
       hu: "A hangcsoui Liuhe-pagoda a Csientang-folyó partján áll. Eredetileg azért építették, hogy megfékezzék a folyó áradásait.",
@@ -1423,7 +1471,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-leifeng-pagoda-landmarks-v2",
     type: "tower",
     name: { de: "Leifeng-Pagode", hu: "Leifeng-pagoda", ro: "Pagoda Leifeng", en: "Leifeng Pagoda" },
-    coordinates: { lat: 30.2325, lng: 120.1472 },
+    coords: [120.1472, 30.2325],
     description: {
       de: "Die Leifeng-Pagode am Westsee in Hangzhou ist berühmt durch die Legende der Weißen Schlange. Der heutige Bau wurde 2002 fertiggestellt.",
       hu: "A hangcsoui Nyugati-tónál álló Leifeng-pagoda a Fehér Kígyó legendájáról híres. A mai modern épület 2002-ben készült el.",
@@ -1454,7 +1502,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-tiger-hill-pagoda-landmarks-v2",
     type: "tower",
     name: { de: "Pagode des Tigerhügels", hu: "Tigris-domb pagodája", ro: "Pagoda de pe Dealul Tigrului", en: "Tiger Hill Pagoda" },
-    coordinates: { lat: 31.3458, lng: 120.5783 },
+    coords: [120.5783, 31.3458],
     description: {
       de: "Die Yunyan-Pagode in Suzhou wird oft als der Schiefe Turm von China bezeichnet. Sie neigt sich aufgrund von Fundamentproblemen zur Seite.",
       hu: "A szucsoui Junjan-pagodát gyakran Kína ferde tornyaként emlegetik. Az alapozási hibák miatt szemmel láthatóan dől az egyik irányba.",
@@ -1485,7 +1533,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-humble-administrators-garden-landmarks-v2",
     type: "park",
     name: { de: "Garten des bescheidenen Beamten", hu: "Az Alázatos Tisztviselő kertje", ro: "Grădina Administratorului Umil", en: "Humble Administrator's Garden" },
-    coordinates: { lat: 31.3253, lng: 120.6247 },
+    coords: [120.6247, 31.3253],
     description: {
       de: "Dies ist der größte klassische Garten in Suzhou und gilt als einer der vier berühmtesten Gärten Chinas.",
       hu: "Ez Szucsou legnagyobb klasszikus kertje, és Kína négy leghíresebb kertjének egyike. A Ming-dinasztia idején alakították ki.",
@@ -1516,7 +1564,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-lingering-garden-landmarks-v2",
     type: "park",
     name: { de: "Garten des Verweilens", hu: "Megmaradás kertje", ro: "Grădina Zăbovirii", en: "Lingering Garden" },
-    coordinates: { lat: 31.3175, lng: 120.5881 },
+    coords: [120.5881, 31.3175],
     description: {
       de: "Der Garten des Verweilens ist ein klassischer Privatgarten in Suzhou. Er ist berühmt für seine kunstvollen Steinarrangements.",
       hu: "A Megmaradás kertje egy klasszikus magánkert Szucsouban. Híres különleges sziklakertjeiről és díszes pavilonjairól.",
@@ -1530,12 +1578,24 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Location: Suzhou", "UNESCO World Heritage", "Founded: 1593", "Classical style"],
     },
     imageHint: "Lingering Garden Suzhou traditional courtyard",
+    descriptionAdvanced: {
+      de: "Der Lingering Garden in Suzhou gehört zu den vier berühmtesten Gärten Chinas. Er wurde 1593 während der Ming-Dynastie angelegt und später erweitert. Der Garten ist bekannt für seine kunstvollen Felsformationen, Pavillons und Teiche. Er erstreckt sich über 2,3 Hektar und ist in vier Abschnitte unterteilt: Zentral, Ost, Nord und West. Jeder Abschnitt bietet eine andere landschaftliche Stimmung. Der Garten wurde 1997 zum UNESCO-Weltkulturerbe erklärt und ist ein Meisterwerk der chinesischen Gartenkunst.",
+      hu: "A suzhoui Lingering Garden Kína négy leghíresebb kertjének egyike. 1593-ban, a Ming-dinasztia idején hozták létre. A kert híres sziklakertekről, pavilonokról és tavakról. Területe 2,3 hektár, négy részből áll: központi, keleti, északi és nyugati. Mindegyik rész más hangulatot tükröz. 1997-ben az UNESCO Világörökség részévé nyilvánították. A kert a kínai tájépítészet kiemelkedő példája.",
+      ro: "Grădina Lingering din Suzhou este una dintre cele mai faimoase grădini chinezești. A fost creată în 1593, în timpul dinastiei Ming. Este renumită pentru formațiunile de stânci, pavilioane și iazuri. Se întinde pe 2,3 hectare și este împărțită în patru secțiuni: centrală, est, nord și vest. Fiecare secțiune are o atmosferă distinctă. A fost declarată patrimoniu UNESCO în 1997. Reprezintă o capodoperă a peisagisticii chineze.",
+      en: "The Lingering Garden in Suzhou is one of the four most famous gardens in China. Built in 1593 during the Ming Dynasty, it features elaborate rockeries, pavilions, and ponds. Covering 2.3 hectares, it is divided into four sections: central, eastern, northern, and western. Each section offers a different landscape mood. It was designated a UNESCO World Heritage site in 1997. The garden exemplifies classical Chinese garden design.",
+    },
+    factsAdvanced: {
+      de: ["Angelegt 1593.", "Fläche: 2,3 Hektar.", "UNESCO-Weltkulturerbe seit 1997.", "Enthält über 50 Pavillons.", "Die zentrale Sektion hat einen 1.000 m² großen Teich.", "Die höchste Felsformation ist 6 Meter hoch."],
+      hu: ["1593-ban hozták létre.", "Terület: 2,3 hektár.", "UNESCO Világörökség 1997 óta.", "Több mint 50 pavilon található benne.", "A központi részben egy 1000 m²-es tó van.", "A legmagasabb szikla 6 méter magas."],
+      ro: ["Creat în 1593.", "Suprafață: 2,3 ha.", "Patrimoniu UNESCO din 1997.", "Peste 50 de pavilioane.", "Zona centrală are un iaz de 1.000 m².", "Cea mai înaltă stâncă are 6 m."],
+      en: ["Built in 1593.", "Area: 2.3 hectares.", "UNESCO World Heritage since 1997.", "Contains over 50 pavilions.", "Central section has a 1,000 m² pond.", "Tallest rock formation is 6 meters."],
+    },
   },
   {
     id: "china-master-of-the-nets-garden-landmarks-v2",
     type: "park",
     name: { de: "Garten des Meisters der Netze", hu: "A Hálóvető Mester kertje", ro: "Grădina Maestrului Plasei", en: "Master of the Nets Garden" },
-    coordinates: { lat: 31.3003, lng: 120.6294 },
+    coords: [120.6294, 31.3003],
     description: {
       de: "Dieser Garten in Suzhou ist ein Meisterwerk der Raumausnutzung auf kleiner Fläche. Er wurde ursprünglich in der Song-Dynastie angelegt.",
       hu: "Ez a szucsoui kert a térkihasználás mesterműve kis területen. Eredetileg a Szung-dinasztia idején hozták létre.",
@@ -1566,7 +1626,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
     id: "china-lion-grove-garden-landmarks-v2",
     type: "park",
     name: { de: "Löwenwald-Garten", hu: "Oroszlánliget kert", ro: "Grădina Pădurii Leilor", en: "Lion Grove Garden" },
-    coordinates: { lat: 31.3233, lng: 120.6253 },
+    coords: [120.6253, 31.3233],
     description: {
       de: "Der Löwenwald-Garten ist bekannt für sein Labyrinth aus bizarren Felsen, die an Löwen erinnern. Er wurde 1342 von einem Mönch gegründet.",
       hu: "Az Oroszlánliget kert bizarr, oroszlánokra emlékeztető sziklalabirintusáról nevezetes. 1342-ben alapította egy buddhista szerzetes.",
@@ -1580,6 +1640,18 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: ["Location: Suzhou", "Founded: 1342", "Rock labyrinth", "UNESCO World Heritage"],
     },
     imageHint: "Lion Grove Garden Suzhou rock formations",
+    descriptionAdvanced: {
+      de: "Der Lion Grove Garden in Suzhou ist ein klassischer chinesischer Garten aus dem 14. Jahrhundert. Er wurde 1342 während der Yuan-Dynastie von einem buddhistischen Mönch erbaut. Der Garten ist berühmt für seine labyrinthartigen Felsformationen, die an Löwen erinnern. Er bedeckt 1,1 Hektar und umfasst einen Teich, Pavillons und eine Halle. Die Steine stammen vom Taihu-See und sind von einzigartiger Form. Der Garten wurde 2000 zum UNESCO-Weltkulturerbe erklärt und ist ein beliebtes Ziel für Touristen.",
+      hu: "A suzhoui Lion Grove Garden a 14. században épült, 1342-ben, a Jüan-dinasztia idején. Egy buddhista szerzetes hozta létre. A kert híres a labirintusszerű szikla-együtteséről, amelyek oroszlánokra hasonlítanak. Területe 1,1 hektár, van benne tó, pavilonok és egy csarnok. A kövek a Taihu-tóból származnak. 2000-ben az UNESCO Világörökség része lett. Évente sok turista keresi fel.",
+      ro: "Grădina Lion Grove din Suzhou este o grădină clasică chinezească din secolul al XIV-lea. A fost construită în 1342, în timpul dinastiei Yuan, de un călugăr budist. Este renumită pentru formațiunile de stânci ce amintesc de lei. Se întinde pe 1,1 hectare și include un iaz, pavilioane și o sală. Pietrele provin de la lacul Taihu. În 2000 a fost declarată patrimoniu UNESCO.",
+      en: "The Lion Grove Garden in Suzhou is a classical Chinese garden dating to the 14th century. Built in 1342 during the Yuan Dynasty by a Buddhist monk, it is famous for its labyrinthine rock formations resembling lions. Covering 1.1 hectares, it features a pond, pavilions, and a hall. The stones are from Taihu Lake. It was made a UNESCO World Heritage site in 2000. The garden is a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1342.", "Fläche: 1,1 Hektar.", "UNESCO-Weltkulturerbe seit 2000.", "Enthält über 100 Felsformationen.", "Die höchste Felsformation ist 4 Meter hoch.", "Der Teich hat eine Fläche von 500 m²."],
+      hu: ["1342-ben épült.", "Terület: 1,1 hektár.", "UNESCO Világörökség 2000 óta.", "Több mint 100 sziklaalakzat található.", "A legmagasabb szikla 4 méter.", "A tó területe 500 m²."],
+      ro: ["Construită în 1342.", "Suprafață: 1,1 ha.", "Patrimoniu UNESCO din 2000.", "Peste 100 de formațiuni de stânci.", "Cea mai înaltă stâncă are 4 m.", "Iazul are 500 m²."],
+      en: ["Built in 1342.", "Area: 1.1 hectares.", "UNESCO World Heritage since 2000.", "Contains over 100 rock formations.", "Tallest rock formation is 4 meters.", "Pond area is 500 m²."],
+    },
   }
 ];
 

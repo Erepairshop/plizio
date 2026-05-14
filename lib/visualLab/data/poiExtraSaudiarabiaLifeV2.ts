@@ -546,7 +546,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-saja-um-al-rimth-life-v2",
     type: "wildlife",
     name: { de: "Saja-Um-Al-Rimth-Schutzgebiet", hu: "Saja Um Al-Rimth Természetvédelmi Terület", ro: "Rezervația Saja Um Al-Rimth", en: "Saja Um Al-Rimth Protected Area" },
-    coordinates: { lat: 22.84, lng: 42.5 },
+    coords: [42.5, 22.84],
     description: {
       de: "Dieses Reservat in der zentralen Region schützt wichtige Lebensräume für die Kragentrappe. Es umfasst weite Schotterebenen und niedrige Hügelketten.",
       hu: "Ez a központi régióban található rezervátum fontos élőhelyet biztosít a galléros túzok számára. Kavicsos síkságok és alacsony dombok jellemzik.",
@@ -565,7 +565,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-at-taysiyah-life-v2",
     type: "wildlife",
     name: { de: "At-Taysiyah-Schutzgebiet", hu: "At-Taysiyah Természetvédelmi Terület", ro: "Rezervația At-Taysiyah", en: "At-Taysiyah Protected Area" },
-    coordinates: { lat: 28.5, lng: 45.0 },
+    coords: [45.0, 28.5],
     description: {
       de: "Ein bedeutendes Schutzgebiet im Nordosten, das für den Erhalt der Kragentrappe bekannt ist. Es besteht hauptsächlich aus einer sandigen Hochebene.",
       hu: "Északkeleten fekvő jelentős védett terület, amely a galléros túzok megőrzéséről ismert. Főleg homokos fennsíkból áll.",
@@ -584,7 +584,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-al-khunfah-life-v2",
     type: "wildlife",
     name: { de: "Al-Khunfah-Schutzgebiet", hu: "Al-Khunfah Természetvédelmi Terület", ro: "Rezervația Al-Khunfah", en: "Al-Khunfah Protected Area" },
-    coordinates: { lat: 28.3, lng: 38.5 },
+    coords: [38.5, 28.3],
     description: {
       de: "Am Rande der Nefud-Wüste gelegen, beherbergt dieses große Reservat bedeutende Populationen der Kropfgazelle. Es ist geprägt von weiten Sanddünen.",
       hu: "A Nefud-sivatag szélén található nagy rezervátum a golyvás gazellák jelentős populációjának ad otthont. Hatalmas homokdűnék jellemzik.",
@@ -603,7 +603,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-harrat-al-harrah-life-v2",
     type: "wildlife",
     name: { de: "Harrat-al-Harrah-Schutzgebiet", hu: "Harrat al-Harrah Természetvédelmi Terület", ro: "Rezervația Harrat al-Harrah", en: "Harrat al-Harrah Protected Area" },
-    coordinates: { lat: 31.0, lng: 38.5 },
+    coords: [38.5, 31.0],
     description: {
       de: "Dies war das erste Schutzgebiet Saudi-Arabiens und besteht aus einem vulkanischen Basaltplateau. Es beherbergt Rehe und verschiedene Raubvögel.",
       hu: "Ez volt Szaúd-Arábia első védett területe, amely egy vulkanikus bazaltfennsíkon terül el. Őzeknek és különféle ragadozó madaraknak ad otthont.",
@@ -622,7 +622,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-saiysad-national-park-life-v2",
     type: "park",
     name: { de: "Nationalpark Saiysad", hu: "Saiysad Nemzeti Park", ro: "Parcul Național Saiysad", en: "Saiysad National Park" },
-    coordinates: { lat: 21.32, lng: 40.5 },
+    coords: [40.5, 21.32],
     description: {
       de: "Ein bewaldeter Nationalpark nordöstlich von Taif, der für seine antiken Kanäle und Dämme bekannt ist. Er bietet grüne Landschaften in bergiger Umgebung.",
       hu: "Taiftól északkeletre fekvő erdős nemzeti park, amely ősi csatornáiról és gátjairól ismert. Zöld tájakat kínál hegyvidéki környezetben.",
@@ -641,7 +641,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-prince-saud-bin-naif-park-life-v2",
     type: "park",
     name: { de: "Prinz-Saud-bin-Naif-Park", hu: "Saud bin Naif herceg park", ro: "Parcul Prințul Saud bin Naif", en: "Prince Saud bin Naif Park" },
-    coordinates: { lat: 26.3, lng: 50.19 },
+    coords: [50.19, 26.3],
     description: {
       de: "Ein moderner Stadtpark in Al Khobar mit geometrischen Gärten und Wasserspielen. Er dient als wichtiges Zentrum für Freizeit und Gemeinschaftsveranstaltungen.",
       hu: "Modern városi park Al Khobarban, geometrikus kertekkel és vízfelületekkel. Fontos szabadidős és közösségi központként szolgál.",
@@ -660,7 +660,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-taif-zoo-life-v2",
     type: "wildlife",
     name: { de: "Zoo von Taif", hu: "Taifi Állatkert", ro: "Grădina Zoologică din Taif", en: "Taif Zoo" },
-    coordinates: { lat: 21.24, lng: 40.42 },
+    coords: [40.42, 21.24],
     description: {
       de: "Ein etablierter Tierpark in Taif, der eine Vielzahl von exotischen und lokalen Tierarten beherbergt. Er bietet Bildungsprogramme für Besucher an.",
       hu: "Taif egyik patinás állatkertje, amely számos egzotikus és helyi állatfajnak ad otthont. Oktatási programokat is kínál a látogatóknak.",
@@ -679,7 +679,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-al-ais-national-park-life-v2",
     type: "park",
     name: { de: "Nationalpark Al-Ais", hu: "Al-Ais Nemzeti Park", ro: "Parcul Național Al-Ais", en: "Al-Ais National Park" },
-    coordinates: { lat: 24.95, lng: 38.12 },
+    coords: [38.12, 24.95],
     description: {
       de: "Dieser Park in der Provinz Medina ist bekannt für seine wilden Pflanzen und vulkanischen Formationen. Er dient dem Schutz der lokalen Artenvielfalt.",
       hu: "Ez a Medina tartományban található park vadon élő növényeiről és vulkáni képződményeiről ismert. A helyi biológiai sokféleség védelmét szolgálja.",
@@ -698,7 +698,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-harrat-al-uwayrid-reserve-life-v2",
     type: "wildlife",
     name: { de: "Harrat-Al-Uwayrid-Reservat", hu: "Harrat Al-Uwayrid Rezervátum", ro: "Rezervația Harrat Al-Uwayrid", en: "Harrat Al-Uwayrid Reserve" },
-    coordinates: { lat: 26.85, lng: 37.2 },
+    coords: [37.2, 26.85],
     description: {
       de: "Ein Hochplateau-Reservat in der Nähe von AlUla, das für die Wiederansiedlung bedrohter Arten genutzt wird. Es bietet spektakuläre Aussichten auf Täler.",
       hu: "AlUla közelében fekvő fennsíki rezervátum, amelyet veszélyeztetett fajok visszatelepítésére használnak. Látványos kilátást nyújt a völgyekre.",
@@ -717,7 +717,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-umm-al-qamari-life-v2",
     type: "wildlife",
     name: { de: "Umm-Al-Qamari-Inselreservat", hu: "Umm Al-Qamari-szigeti Rezervátum", ro: "Rezervația Insulei Umm Al-Qamari", en: "Umm Al-Qamari Island Reserve" },
-    coordinates: { lat: 18.98, lng: 41.1 },
+    coords: [41.1, 18.98],
     description: {
       de: "Zwei kleine Koralleninseln im Roten Meer, die für ihre dichte Vegetation und als Vogelparadies bekannt sind. Besonders die Türkentaube brütet hier.",
       hu: "Két kis korallsziget a Vörös-tengerben, amelyek sűrű növényzetükről és madárparadicsomukról ismertek. Különösen a balkáni gerle fészkel itt.",
@@ -736,7 +736,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     id: "saudiarabia-rawdat-at-tanhat-life-v2",
     type: "park",
     name: { de: "Rawdat At-Tanhat-Wiese", hu: "Rawdat At-Tanhat mező", ro: "Rawdat At-Tanhat", en: "Rawdat At-Tanhat" },
-    coordinates: { lat: 25.43, lng: 46.8 },
+    coords: [46.8, 25.43],
     description: {
       de: "Eine der größten saisonalen Wiesen in Saudi-Arabien, die nach Regenfällen mit Lavendel und Akazien erblüht. Sie ist ein beliebtes Ziel für Naturfreunde.",
       hu: "Szaúd-Arábia egyik legnagyobb időszakos mezője, amely esőzések után levendulával és akácokkal virágzik. Népszerű úti cél a természetkedvelőknek.",

@@ -5,7 +5,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-nan-madol-history-v2",
     type: "ruins",
     name: { de: "Nan Madol", hu: "Nan Madol", ro: "Nan Madol", en: "Nan Madol" },
-    coordinates: { lat: 6.845, lng: 158.335 },
+    coords: [158.335, 6.845],
     description: {
       de: "Nan Madol ist eine Ruinenstadt auf Pohnpei, die auf künstlichen Inseln erbaut wurde. Sie war bis zum 16. Jahrhundert Sitz der Saudeleur-Dynastie.",
       hu: "Nan Madol romvárosa Pohnpei mellett, mesterséges szigeteken épült. A Saudeleur-dinasztia központja volt egészen a 16. századig.",
@@ -24,7 +24,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-lelu-ruins-history-v2",
     type: "ruins",
     name: { de: "Lelu Ruinen", hu: "Lelu romjai", ro: "Ruinele Lelu", en: "Lelu Ruins" },
-    coordinates: { lat: 5.3333, lng: 163.027 },
+    coords: [163.027, 5.3333],
     description: {
       de: "Die Lelu-Ruinen auf Kosrae sind Überreste einer prähistorischen Stadt aus Basaltmauern. Sie war einst das Zentrum eines mächtigen Königtums.",
       hu: "A Kosrae-szigeten található Lelu romjai egy őskori, bazaltfalakkal övezett város maradványai. Egykor egy hatalmas királyság központja volt.",
@@ -43,7 +43,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-spanish-wall-history-v2",
     type: "monument",
     name: { de: "Spanische Mauer", hu: "Spanyol fal", ro: "Zidul Spaniol", en: "Spanish Wall" },
-    coordinates: { lat: 6.9631, lng: 158.214 },
+    coords: [158.214, 6.9631],
     description: {
       de: "Die Spanische Mauer in Kolonia ist ein Relikt der spanischen Kolonialherrschaft am Ende des 19. Jahrhunderts. Sie schützte einst die Garnison.",
       hu: "A Kolonia városában található Spanyol fal a 19. század végi spanyol gyarmati uralom emléke. Egykor a katonai helyőrséget védte.",
@@ -62,7 +62,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-chuuk-lagoon-wrecks-history-v2",
     type: "battlefield",
     name: { de: "Chuuk-Lagune Schiffswracks", hu: "Chuuk-lagúna roncsai", ro: "Epavele din Laguna Chuuk", en: "Chuuk Lagoon Wrecks" },
-    coordinates: { lat: 7.34, lng: 151.85 },
+    coords: [151.85, 7.34],
     description: {
       de: "Die Chuuk-Lagune beherbergt eine versenkte japanische Flotte aus dem Zweiten Weltkrieg. Sie ist heute eine der bedeutendsten Unterwasser-Gedenkstätten.",
       hu: "A Chuuk-lagúna egy elsüllyesztett japán flottának ad otthont a második világháborúból. Ma a világ egyik legjelentősebb víz alatti emlékhelye.",
@@ -81,7 +81,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-yap-stone-money-banks-history-v2",
     type: "landmark",
     name: { de: "Yap Steingeldbanken", hu: "Yapi kőpénz-bankok", ro: "Băncile de bani de piatră din Yap", en: "Yap Stone Money Banks" },
-    coordinates: { lat: 9.503, lng: 138.125 },
+    coords: [138.125, 9.503],
     description: {
       de: "Die Steingeldbanken auf Yap bestehen aus massiven Kalksteinscheiben, dem Rai. Sie dienten über Jahrhunderte als traditionelle Währung.",
       hu: "A Yap-szigeti kőpénz-bankok hatalmas mészkőkorongokból, a Rai-ból állnak. Évszázadokon át hagyományos fizetőeszközként szolgáltak.",
@@ -100,7 +100,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-sokehs-rock-history-v2",
     type: "battlefield",
     name: { de: "Sokehs Rock", hu: "Sokehs-szikla", ro: "Stânca Sokehs", en: "Sokehs Rock" },
-    coordinates: { lat: 6.974, lng: 158.188 },
+    coords: [158.188, 6.974],
     description: {
       de: "Sokehs Rock ist eine markante Felsformation auf Pohnpei und Ort der Sokehs-Rebellion von 1910. Hier leisteten Einheimische Widerstand gegen deutsche Kolonialherren.",
       hu: "A Sokehs-szikla egy látványos képződmény Pohnpein, az 1910-es Sokehs-lázadás helyszíne. Itt álltak ellen a helyiek a német gyarmatosítóknak.",
@@ -119,7 +119,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-menke-ruins-history-v2",
     type: "ruins",
     name: { de: "Menke Ruinen", hu: "Menke romjai", ro: "Ruinele Menke", en: "Menke Ruins" },
-    coordinates: { lat: 5.312, lng: 162.96 },
+    coords: [162.96, 5.312],
     description: {
       de: "Die Menke-Ruinen im Dschungel von Kosrae waren ein wichtiges religiöses Zentrum. Sie sind der Göttin Sinlaku gewidmet, der Gottheit der Brotfrucht.",
       hu: "A Kosrae dzsungelében található Menke romjai fontos vallási központnak számítottak. Sinlaku istennőnek, a kenyérfa istenségének szentelték.",
@@ -138,7 +138,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-japanese-radio-station-history-v2",
     type: "landmark",
     name: { de: "Japanische Funkstation", hu: "Japán rádióállomás", ro: "Stația Radio Japoneză", en: "Japanese Radio Station" },
-    coordinates: { lat: 6.961, lng: 158.215 },
+    coords: [158.215, 6.961],
     description: {
       de: "Die Ruine der japanischen Funkstation in Kolonia stammt aus der Zeit vor dem Zweiten Weltkrieg. Das Gebäude zeigt deutliche Spuren von Bombardierungen.",
       hu: "A Kolonia városában lévő japán rádióállomás romjai a második világháború előtti időkből származnak. Az épületen jól látszanak a bombázások nyomai.",
@@ -157,7 +157,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-bechiyal-cultural-village-history-v2",
     type: "village",
     name: { de: "Bechiyal Kulturdorf", hu: "Bechiyal skanzen", ro: "Satul Cultural Bechiyal", en: "Bechiyal Cultural Village" },
-    coordinates: { lat: 9.61, lng: 138.12 },
+    coords: [138.12, 9.61],
     description: {
       de: "Bechiyal auf Yap ist ein historisches Dorf mit traditionellen Männerhäusern und Steingeldbanken. Es bewahrt die jahrtausendealte yapesische Kultur.",
       hu: "A Yap-szigeti Bechiyal egy történelmi falu hagyományos férfiházakkal és kőpénz-bankokkal. Az évezredes yapi kultúrát őrzi.",
@@ -176,7 +176,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-tamilyog-stone-money-bank-history-v2",
     type: "landmark",
     name: { de: "Tamilyog Steingeldbank", hu: "Tamilyog kőpénz-bank", ro: "Banca de bani de piatră Tamilyog", en: "Tamilyog Stone Money Bank" },
-    coordinates: { lat: 9.52, lng: 138.13 },
+    coords: [138.13, 9.52],
     description: {
       de: "Die Tamilyog-Bank beherbergt einige der größten Steingeld-Scheiben auf Yap. Sie liegen entlang eines alten Pfades im Dschungel.",
       hu: "A Tamilyog-bank őrzi a legnagyobb kőpénz-korongok közül néhányat Yap szigetén. Egy ősi dzsungelösvény mentén sorakoznak.",
@@ -195,7 +195,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-wiir-ruins-history-v2",
     type: "ruins",
     name: { de: "Wiir Ruinen", hu: "Wiir romjai", ro: "Ruinele Wiir", en: "Wiir Ruins" },
-    coordinates: { lat: 7.41, lng: 151.88 },
+    coords: [151.88, 7.41],
     description: {
       de: "Die Wiir-Ruinen auf der Insel Tonoas sind antike Steinplattformen, die von der frühen chuukesischen Zivilisation zeugen. Sie dienten als Wohn- und Zeremonialplätze.",
       hu: "A Tonoas-szigeten lévő Wiir romjai ősi kőplatformok, amelyek a korai chuuki civilizációról tanúskodnak. Lakó- és szertartási helyként szolgáltak.",
@@ -214,7 +214,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-sapwuahfik-massacre-site-history-v2",
     type: "battlefield",
     name: { de: "Sapwuahfik Massaker-Gedenkstätte", hu: "Sapwuahfik mészárlás emlékhelye", ro: "Locul Masacrului din Sapwuahfik", en: "Sapwuahfik Massacre Site" },
-    coordinates: { lat: 5.79, lng: 157.28 },
+    coords: [157.28, 5.79],
     description: {
       de: "Diese Stätte auf dem Sapwuahfik-Atoll erinnert an das Massaker von 1837, bei dem die lokale Bevölkerung fast vollständig ausgelöscht wurde.",
       hu: "A Sapwuahfik-atollon található helyszín az 1837-es mészárlásra emlékeztet, amikor a helyi lakosságot szinte teljesen kiirtották.",
@@ -233,7 +233,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-nantaku-communication-center-history-v2",
     type: "landmark",
     name: { de: "Nantaku Kommunikationszentrum", hu: "Nantaku híradóközpont", ro: "Centrul de Comunicații Nantaku", en: "Nantaku Communication Center" },
-    coordinates: { lat: 7.443, lng: 151.848 },
+    coords: [151.848, 7.443],
     description: {
       de: "Das Nantaku-Zentrum war eine wichtige japanische Kommandozentrale während des Zweiten Weltkriegs in Chuuk. Der Bunker aus Stahlbeton ist weitgehend intakt.",
       hu: "A Nantaku-központ fontos japán parancsnoki állomás volt a második világháború alatt Chuuk szigetén. A vasbeton bunker nagyrészt érintetlen.",
@@ -252,7 +252,7 @@ export const micronesiaHistoryV2: POI[] = [
     id: "micronesia-paliikir-historical-base-history-v2",
     type: "landmark",
     name: { de: "Historische Basis Paliikir", hu: "Paliikir történelmi támaszpont", ro: "Baza Istorică Paliikir", en: "Paliikir Historical Base" },
-    coordinates: { lat: 6.918, lng: 158.158 },
+    coords: [158.158, 6.918],
     description: {
       de: "Paliikir, heute die Hauptstadt der Föderierten Staaten von Mikronesien, war im Zweiten Weltkrieg ein wichtiger japanischer Flugplatz und Stützpunkt.",
       hu: "Paliikir, a Mikronéziai Szövetségi Államok mai fővárosa, a második világháborúban fontos japán repülőtér és támaszpont volt.",

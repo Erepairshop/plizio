@@ -429,7 +429,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-hamun-e-puzak-life-v2",
     type: "wildlife",
     name: { de: "Hamun-e Puzak", hu: "Hamun-e Puzak", ro: "Hamun-e Puzak", en: "Hamun-e Puzak" },
-    coordinates: { lat: 31.5033, lng: 61.8021 },
+    coords: [61.8021, 31.5033],
     description: {
       de: "Das Hamun-e Puzak ist ein bedeutendes Feuchtgebiet im Südwesten Afghanistans. Es dient als wichtiger Rastplatz für Zugvögel aus Sibirien.",
       hu: "A Hamun-e Puzak egy kiterjedt vizes élőhely Afganisztán délnyugati részén. Fontos megállóhely a Szibériából érkező vándorló madarak számára.",
@@ -443,12 +443,24 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
       en: ["Part of the Hamun Lake system", "Designated as a Ramsar wetland", "Located on the border with Iran", "Primary source is the Helmand River"],
     },
     imageHint: "Aerial view of Hamun-e Puzak wetlands in Afghanistan",
+    descriptionAdvanced: {
+      de: "Hamun-e Puzak ist ein saisonaler See und Feuchtgebietskomplex im äußersten Osten des Iran, nahe der Grenze zu Afghanistan. Dieses Ökosystem wird hauptsächlich durch den Fluss Helmand gespeist und unterliegt starken jahreszeitlichen Schwankungen. In regenreichen Jahren kann der See eine Fläche von bis zu 4.000 km² bedecken, während er in Dürreperioden fast vollständig austrocknet. Die Region ist ein wichtiger Rastplatz für Zugvögel, darunter Flamingos, Pelikane und Kraniche. Die umliegenden Feuchtgebiete beherbergen eine vielfältige Flora, darunter Schilfrohr und Tamarisken. Menschliche Aktivitäten wie Bewässerungsprojekte und der Bau von Dämmen haben den Wasserhaushalt des Sees erheblich beeinträchtigt, was zu ökologischen Problemen führt.",
+      hu: "A Hamun-e Puzak egy idõszakos tó és vizes élõhelyrendszer Irán keleti részén, az afgán határ közelében. A területet a Helmand folyó táplálja, és erõsen függ a csapadék mennyiségétõl. Csapadékos években a tó akár 4000 km²-es területet is eláraszthat, míg szárazság idején szinte teljesen kiszárad. A régió fontos pihenõhelye a vonuló madaraknak, mint a flamingók, pelikánok és darvak. A mocsaras területeken nád és tamariska nõ. Az emberi beavatkozások, mint az öntözõrendszerek és gátépítések, jelentõsen megváltoztatták a tó vízmérlegét és ökológiai egyensúlyát.",
+      ro: "Hamun-e Puzak este un lac sezonier și un complex de zone umede situat în estul Iranului, aproape de granița cu Afganistanul. Ecosistemul este alimentat în principal de râul Helmand și este supus unor fluctuații sezoniere semnificative. În anii ploioși, lacul poate acoperi o suprafață de până la 4.000 km², în timp ce în perioadele de secetă aproape că se usucă complet. Regiunea este un important loc de popas pentru păsările migratoare, inclusiv flamingo, pelicani și cocori. Plantația din jur include stuf și tamarisc. Activitățile umane, cum ar fi proiectele de irigații și construcția de baraje, au afectat semnificativ regimul hidrologic al lacului, ducând la probleme ecologice.",
+      en: "Hamun-e Puzak is a seasonal lake and wetland complex in eastern Iran, near the Afghan border. Fed primarily by the Helmand River, its water levels fluctuate dramatically between wet and dry years. During peak floods, the lake can expand to 4,000 km², but it often shrinks to a fraction of that during droughts. The wetlands serve as a critical stopover for migratory birds such as greater flamingos, Dalmatian pelicans, and common cranes. The surrounding vegetation is dominated by reeds and salt-tolerant tamarisk shrubs. However, upstream dams and irrigation canals have reduced water inflow, leading to ecological degradation and loss of biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Ausdehnung: 4.000 km² in feuchten Jahren", "Höhe: ca. 500 m über dem Meeresspiegel", "Zufluss: Fluss Helmand, Länge 1.150 km", "Vogelarten: über 200, darunter der seltene Krauskopfpelikan", "Dürreperioden: zuletzt 1999–2001 mit vollständiger Austrocknung", "Schutzstatus: nicht offiziell geschützt"],
+      hu: ["Legnagyobb kiterjedés: 4000 km² nedves években", "Tengerszint feletti magasság: kb. 500 m", "Tápláló folyó: Helmand, hossza 1150 km", "Madárfajok száma: több mint 200, köztük a ritka kormorán", "Aszályos idõszak: 1999–2001, teljes kiszáradás", "Védettség: nem hivatalosan védett"],
+      ro: ["Suprafață maximă: 4.000 km² în anii ploioși", "Altitudine: aproximativ 500 m deasupra nivelului mării", "Afluent: râul Helmand, lungime 1.150 km", "Specii de păsări: peste 200, inclusiv pelicanul creț", "Perioade de secetă: 1999–2001, secare completă", "Statut de protecție: neprotejat oficial"],
+      en: ["Maximum area: 4,000 km² in wet years", "Elevation: approx. 500 m above sea level", "Inflow: Helmand River, length 1,150 km", "Bird species: over 200, including the Dalmatian pelican", "Drought periods: 1999–2001, complete desiccation", "Protected status: not officially protected"],
+    },
   },
   {
     id: "afghanistan-imam-sahib-reserve-life-v2",
     type: "wildlife",
     name: { de: "Imam Sahib Wildreservat", hu: "Imam Sahib vadvédelmi terület", ro: "Rezervația Imam Sahib", en: "Imam Sahib Wildlife Reserve" },
-    coordinates: { lat: 37.185, lng: 68.912 },
+    coords: [68.912, 37.185],
     description: {
       de: "Dieses Reservat in der Provinz Kundus schützt die Auenlandschaft des Amu Darja. Es beherbergt seltene Tierarten wie den Bucharahirsch.",
       hu: "Ez a Kunduz tartománybeli rezervátum az Amu-darja ártereit védi. Olyan ritka fajoknak ad otthont, mint a buharai szarvas.",
@@ -462,12 +474,24 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
       en: ["Protects Tugay forest ecosystems", "Home to the endangered Bukhara deer", "Located along the Tajikistan border", "Important nesting site for waterbirds"],
     },
     imageHint: "Riverine forest landscape in Imam Sahib Afghanistan",
+    descriptionAdvanced: {
+      de: "Das Imam-Sahib-Wildtierreservat liegt in der Provinz Kunduz im Norden Afghanistans, nahe der Grenze zu Tadschikistan. Es umfasst eine Fläche von etwa 150 km² und schützt Flussuferlebensräume entlang des Amudarja. Das Reservat ist bekannt für seine Populationen von Wildschweinen, Füchsen und verschiedenen Vogelarten. In den letzten Jahren wurden auch Streifenhyänen und gelegentlich Kropfgazellen gesichtet. Die Vegetation besteht aus Auwäldern mit Weiden und Pappeln. Das Gebiet ist jedoch durch illegale Jagd und Holzeinschlag bedroht. Es wurde 1978 als Schutzgebiet ausgewiesen, aber die Infrastruktur ist minimal.",
+      hu: "Az Imam Sahib Vadvédelmi Rezervátum Észak-Afganisztánban, Kunduz tartományban, a tadzsik határ közelében található. Területe kb. 150 km², és az Amudarja folyó menti ártéri élõhelyeket védi. A rezervátum híres vaddisznók, rókák és madárfajok populációiról. Az utóbbi években csíkos hiénákat és idõnként golyvás gazellákat is észleltek. A növényzet ártéri erdõkbõl áll, füzekkel és nyárfákkal. A területet illegális vadászat és fakitermelés fenyegeti. 1978-ban nyilvánították védetté, de az infrastruktúra minimális.",
+      ro: "Rezervația de animale sălbatice Imam Sahib este situată în provincia Kunduz din nordul Afganistanului, aproape de granița cu Tadjikistanul. Acoperă o suprafață de aproximativ 150 km² și protejează habitatele riverane de-a lungul râului Amudarya. Rezervația este cunoscută pentru populațiile de mistreți, vulpi și diverse specii de păsări. În ultimii ani, au fost observate hiene dungate și ocazional gazele cu gușă. Vegetația constă din păduri de luncă cu sălcii și plopi. Zona este amenințată de vânătoarea ilegală și tăierea lemnului. A fost desemnată arie protejată în 1978, dar infrastructura este minimă.",
+      en: "Imam Sahib Wildlife Reserve is a protected area in Kunduz Province, northern Afghanistan, near the Tajik border. Covering roughly 150 km², it encompasses riparian forests along the Amu Darya River. The reserve hosts wild boar, red fox, and numerous waterbirds, and has been identified as a potential habitat for the striped hyena and goitered gazelle. The vegetation is dominated by willow and poplar trees. Despite its official designation in 1978, enforcement is weak, with ongoing threats from illegal hunting and logging. The reserve also serves as a corridor for wildlife moving between the river and the steppe.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 150 km²", "Gründungsjahr: 1978", "Höhe: ca. 350 m ü. M.", "Wichtigster Fluss: Amudarja (Länge 2.400 km)", "Säugetierarten: Wildschwein, Fuchs, Streifenhyäne", "Vogelarten: über 100, darunter Seeadler"],
+      hu: ["Terület: 150 km²", "Alapítás éve: 1978", "Tengerszint feletti magasság: kb. 350 m", "Folyó: Amudarja (hossza 2400 km)", "Emlõsfajok: vaddisznó, róka, csíkos hiéna", "Madárfajok: több mint 100, köztük rétisas"],
+      ro: ["Suprafață: 150 km²", "Anul înființării: 1978", "Altitudine: aproximativ 350 m", "Râu principal: Amudarya (lungime 2.400 km)", "Specii de mamifere: mistreț, vulpe, hienă dungată", "Specii de păsări: peste 100, inclusiv acvila de mare"],
+      en: ["Area: 150 km²", "Established: 1978", "Elevation: approx. 350 m", "Main river: Amu Darya (length 2,400 km)", "Mammal species: wild boar, fox, striped hyena", "Bird species: over 100, including white-tailed eagle"],
+    },
   },
   {
     id: "afghanistan-darqad-reserve-life-v2",
     type: "wildlife",
     name: { de: "Darqad Wildreservat", hu: "Darqad vadvédelmi terület", ro: "Rezervația Darqad", en: "Darqad Wildlife Reserve" },
-    coordinates: { lat: 37.421, lng: 69.455 },
+    coords: [69.455, 37.421],
     description: {
       de: "Das Darqad-Reservat liegt auf einer großen Flussinsel im Amu Darja. Es ist bekannt für seine dichten Wälder und vielfältige Vogelwelt.",
       hu: "A Darqad rezervátum az Amu-darja egyik nagy folyami szigetén található. Sűrű erdőiről és változatos madárvilágáról ismert.",
@@ -481,12 +505,24 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
       en: ["Located in Takhar Province", "Encompasses dense Tugay forests", "Isolated location on a river island", "Home to pheasants and wild boars"],
     },
     imageHint: "Island forest in the Amu Darya river Takhar Afghanistan",
+    descriptionAdvanced: {
+      de: "Das Darqad-Wildtierreservat liegt in der Provinz Takhar im Nordosten Afghanistans und erstreckt sich über etwa 200 km² entlang des Kokcha-Flusses. Es wurde 1978 eingerichtet, um die letzte verbliebene Population des Kaspischen Tigers in Afghanistan zu schützen – obwohl diese Unterart heute als ausgestorben gilt. Heute beherbergt das Reservat eine vielfältige Fauna, darunter Rehe, Wildschweine, Schakale und verschiedene Greifvögel. Die dichten Flussuferwälder bestehen aus Tamarisken und Weiden. Illegale Abholzung und Überweidung sind große Probleme. Das Reservat hat keine ständige Verwaltung.",
+      hu: "A Darqad Vadvédelmi Rezervátum Északkelet-Afganisztánban, Takhar tartományban, a Kokcha folyó mentén található, kb. 200 km² kiterjedéssel. 1978-ban hozták létre a Kaszpi-tigris utolsó afganisztáni populációjának védelmére, bár ez az alfaj ma már kihaltnak tekinthetõ. A rezervátum ma sokféle állatnak ad otthont, mint õz, vaddisznó, sakál és ragadozó madarak. A sûrû ártéri erdõk tamariskából és fûzbõl állnak. Az illegális fakitermelés és túllegeltetés komoly problémát jelentenek. Állandó kezelés nincs.",
+      ro: "Rezervația de animale sălbatice Darqad este situată în provincia Takhar din nord-estul Afganistanului, întinzându-se pe aproximativ 200 km² de-a lungul râului Kokcha. A fost înființată în 1978 pentru a proteja ultima populație a tigrului caspic din Afganistan, deși această subspecie este acum considerată dispărută. Astăzi, rezervația găzduiește o faună diversă, inclusiv căprioare, mistreți, șacali și diverse păsări răpitoare. Pădurile dense riverane constau din tamarisc și sălcii. Defrișările ilegale și pășunatul excesiv sunt probleme majore. Rezervația nu are o administrație permanentă.",
+      en: "Darqad Wildlife Reserve is a protected area in Takhar Province, northeastern Afghanistan, covering approximately 200 km² along the Kokcha River. Established in 1978, it was originally intended to safeguard the now-extinct Caspian tiger. Currently, the reserve supports populations of roe deer, wild boar, golden jackal, and birds of prey such as the eastern imperial eagle. The riverine forest is characterized by tamarisk and willow thickets. Despite its legal status, the reserve suffers from intensive illegal logging and overgrazing by local livestock. It lacks on-site management and is considered a paper park.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 km²", "Gründungsjahr: 1978", "Ehemaliger Schutz des Kaspischen Tigers (ausgestorben seit 1970er)", "Höhe: 500–700 m ü. M.", "Fluss: Kokcha, Nebenfluss des Amudarja", "Bedrohung: illegale Abholzung von 30% der Waldfläche seit 2000"],
+      hu: ["Terület: 200 km²", "Alapítás éve: 1978", "Egykor a Kaszpi-tigris védelmére (kihalt az 1970-es években)", "Tengerszint feletti magasság: 500–700 m", "Folyó: Kokcha, az Amudarja mellékfolyója", "Fenyegetés: illegális fakitermelés, 30% erdõvesztés 2000 óta"],
+      ro: ["Suprafață: 200 km²", "Anul înființării: 1978", "A protejat tigrul caspic (dispărut din anii 1970)", "Altitudine: 500–700 m", "Râu: Kokcha, afluent al Amudaryei", "Amenințare: defrișare ilegală, pierdere de 30% din pădure din 2000"],
+      en: ["Area: 200 km²", "Established: 1978", "Originally protected Caspian tiger (extinct since 1970s)", "Elevation: 500–700 m", "River: Kokcha, tributary of Amu Darya", "Threat: illegal logging, 30% forest loss since 2000"],
+    },
   },
   {
     id: "afghanistan-little-pamir-reserve-life-v2",
     type: "wildlife",
     name: { de: "Kleiner Pamir Reservat", hu: "Kis-Pamír rezervátum", ro: "Rezervația Micul Pamir", en: "Little Pamir Reserve" },
-    coordinates: { lat: 37.155, lng: 74.312 },
+    coords: [74.312, 37.155],
     description: {
       de: "Dieses Hochgebirgsreservat im Wakhan-Korridor schützt die Heimat der Marco-Polo-Schafe. Es ist eine der abgelegensten Regionen der Welt.",
       hu: "Ez a vachán-folyosói magashegyi rezervátum a Marco Polo-juhok élőhelyét védi. A világ egyik legtávolabbi vidéke.",
@@ -500,12 +536,24 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
       en: ["Protected area for Marco Polo sheep", "Average altitude above 4000 meters", "Home to Kyrgyz nomadic tribes", "Borders China and Tajikistan"],
     },
     imageHint: "High altitude plateau in Little Pamir Afghanistan with Marco Polo sheep",
+    descriptionAdvanced: {
+      de: "Das Little-Pamir-Reservat liegt im äußersten Nordosten Afghanistans im Wakhan-Korridor, auf einer Höhe von über 4.000 Metern. Es wurde 1980 ausgewiesen und umfasst 1.500 km² alpine Steppe und Gletscher. Die Region ist Lebensraum für den bedrohten Schneeleoparden, den Sibirischen Steinbock und den Marco-Polo-Argali, eine der größten Wildschafarten. Die sommerlichen Weideflächen werden von nomadischen Kirgisen genutzt. Die Durchschnittstemperatur liegt selbst im Sommer unter 10 °C. Das Reservat hat keine Infrastruktur und ist nur über Saumpfade erreichbar. Illegale Jagd auf Argali für Trophäen ist eine anhaltende Bedrohung.",
+      hu: "A Kis-Pamir Rezervátum Afganisztán legészakkeletibb részén, a Wakhan folyosóban található, 4000 méter feletti magasságban. 1980-ban hozták létre, területe 1500 km² alpesi sztyeppe és gleccser. A régió ad otthont a veszélyeztetett havas leopárdnak, a szibériai kõszáli kecskének és a Marco Polo-argalinak, a vadon élõ juhok egyik legnagyobb fajának. A nyári legelõket nomád kirgizek használják. Nyáron is ritkán haladja meg a 10 °C-ot a hõmérséklet. Nincs infrastruktúra, csak ösvényeken közelíthetõ meg. Az illegális vadászat az argalira trófeákért komoly fenyegetés.",
+      ro: "Rezervația Little Pamir este situată în extremitatea nord-estică a Afganistanului, în coridorul Wakhan, la altitudini de peste 4.000 de metri. A fost înființată în 1980 și acoperă 1.500 km² de stepă alpină și ghețari. Regiunea găzduiește leopardul zăpezilor, capra siberiană și argalul Marco Polo, una dintre cele mai mari specii de oi sălbatice. Pășunile de vară sunt folosite de nomazii kirghizi. Temperatura medie vara este sub 10 °C. Nu există infrastructură, accesibilă doar pe cărări. Vânătoarea ilegală de argali pentru trofee este o amenințare persistentă.",
+      en: "Little Pamir Reserve is a high-altitude protected area in the Wakhan Corridor of northeastern Afghanistan, established in 1980. Covering 1,500 km² of alpine steppe and glaciers above 4,000 m, it harbors snow leopard, Siberian ibex, and Marco Polo argali—the world's largest wild sheep. The reserve is also a summer pasture for Kyrgyz nomads. Temperatures rarely exceed 10°C even in July. Access is limited to rugged trails; there are no roads or facilities. Poaching for argali horns, used as trophies, remains the most urgent conservation challenge.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.500 km²", "Gründungsjahr: 1980", "Höhe: 4.000–6.000 m ü. M.", "Gletscherbedeckung: 30% der Fläche", "Argali-Population: ca. 500 Tiere (Schätzung 2015)", "Schneeleoparden: ca. 30–40 Individuen"],
+      hu: ["Terület: 1500 km²", "Alapítás éve: 1980", "Tengerszint feletti magasság: 4000–6000 m", "Gleccserborítás: 30%", "Argali populáció: kb. 500 egyed (2015-ös becslés)", "Havas leopárd: kb. 30–40 egyed"],
+      ro: ["Suprafață: 1.500 km²", "Anul înființării: 1980", "Altitudine: 4.000–6.000 m", "Acoperire glaciară: 30%", "Populație argali: circa 500 de indivizi (est. 2015)", "Leoparzi ai zăpezilor: circa 30–40 de indivizi"],
+      en: ["Area: 1,500 km²", "Established: 1980", "Elevation: 4,000–6,000 m", "Glacier cover: 30%", "Argali population: approx. 500 individuals (2015 estimate)", "Snow leopards: approx. 30–40 individuals"],
+    },
   },
   {
     id: "afghanistan-zebak-wetland-life-v2",
     type: "wildlife",
     name: { de: "Zebak Feuchtgebiet", hu: "Zebak vizes élőhely", ro: "Zona umedă Zebak", en: "Zebak Wetland" },
-    coordinates: { lat: 36.535, lng: 71.342 },
+    coords: [71.342, 36.535],
     description: {
       de: "Das Zebak-Feuchtgebiet in Badachschan ist ein wichtiges Brutgebiet für Bergvögel. Es ist von den hohen Gipfeln des Hindukusch umgeben.",
       hu: "A badahsáni Zebak vizes élőhely fontos fészkelőhely a hegyi madarak számára. A Hindukus magas csúcsai veszik körül.",
@@ -536,7 +584,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-national-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Nationalgarten", hu: "Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională", en: "Afghanistan National Botanical Garden" },
-    coordinates: { lat: 34.512, lng: 69.135 },
+    coords: [69.135, 34.512],
     description: {
       de: "Dieser Garten in Kabul beherbergt eine umfangreiche Sammlung afghanischer Flora. Er dient der Forschung und dem Erhalt einheimischer Pflanzen.",
       hu: "Ez a kabuli kert az afgán flóra gazdag gyűjteményének ad otthont. Kutatási és növényvédelmi célokat szolgál.",
@@ -567,7 +615,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-national-herbarium-kabul-life-v2",
     type: "museum",
     name: { de: "Nationalherbar von Afghanistan", hu: "Afganisztáni Nemzeti Herbárium", ro: "Herbarul Național al Afganistanului", en: "National Herbarium of Afghanistan" },
-    coordinates: { lat: 34.524, lng: 69.182 },
+    coords: [69.182, 34.524],
     description: {
       de: "Das Nationalherbar in Kabul bewahrt Tausende von getrockneten Pflanzenspezimen auf. Es ist die wichtigste Referenz für die Biodiversität des Landes.",
       hu: "A kabuli nemzeti herbárium több ezer szárított növénypéldányt őriz. Az ország biodiverzitásának legfontosabb referenciája.",
@@ -598,7 +646,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-tani-wildlife-area-life-v2",
     type: "wildlife",
     name: { de: "Tani Wildschutzgebiet", hu: "Tani vadvédelmi terület", ro: "Zona de protecție Tani", en: "Tani Wildlife Area" },
-    coordinates: { lat: 33.235, lng: 69.822 },
+    coords: [69.822, 33.235],
     description: {
       de: "Dieses Gebiet in der Provinz Khost ist für seine dichten Eichen- und Pinienwälder bekannt. Es schützt den Lebensraum zahlreicher Wildtiere.",
       hu: "Ez a Chost tartománybeli terület sűrű tölgy- és fenyőerdőiről ismert. Számos vadon élő állat élőhelyét óvja.",
@@ -629,7 +677,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-kandahar-public-zoo-life-v2",
     type: "wildlife",
     name: { de: "Zoo von Kandahar", hu: "Kandahári állatkert", ro: "Grădina Zoologică din Kandahar", en: "Kandahar Public Zoo" },
-    coordinates: { lat: 31.625, lng: 65.712 },
+    coords: [65.712, 31.625],
     description: {
       de: "Der Zoo von Kandahar ist eine wichtige Freizeiteinrichtung im Süden Afghanistans. Er beherbergt verschiedene im Land heimische Tierarten.",
       hu: "A kandahári állatkert fontos kikapcsolódási hely Afganisztán déli részén. Számos őshonos állatfajt mutat be.",
@@ -660,7 +708,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-bibi-mahru-park-life-v2",
     type: "park",
     name: { de: "Bibi-Mahru-Park", hu: "Bibi Mahru park", ro: "Parcul Bibi Mahru", en: "Bibi Mahru Hill Park" },
-    coordinates: { lat: 34.542, lng: 69.192 },
+    coords: [69.192, 34.542],
     description: {
       de: "Dieser Park auf einem Hügel in Kabul bietet weite Grünflächen und Ausblicke. Er ist ein bekannter Erholungsort für die Stadtbewohner.",
       hu: "Ez a kabuli dombon fekvő park tágas zöldterületeket és kilátást kínál. A városlakók kedvelt pihenőhelye.",
@@ -691,7 +739,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-siraj-ul-emart-gardens-life-v2",
     type: "park",
     name: { de: "Siraj-ul-Emart Gärten", hu: "Szirádzs-ul-Emart kertek", ro: "Grădinile Siraj-ul-Emart", en: "Siraj-ul-Emart Gardens" },
-    coordinates: { lat: 34.425, lng: 70.452 },
+    coords: [70.452, 34.425],
     description: {
       de: "Die historischen Gärten von Jalalabad sind für ihr mildes Klima und die Zitrusbäume bekannt. Sie waren einst eine königliche Sommerresidenz.",
       hu: "Dzsalálábád történelmi kertjei enyhe klímájukról és narancsfáikról híresek. Egykor királyi nyári rezidencia volt.",
@@ -722,7 +770,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-herat-tariqi-park-life-v2",
     type: "park",
     name: { de: "Tariqi-Park Herat", hu: "Tariki park Herát", ro: "Parcul Tariqi Herat", en: "Herat Tariqi Park" },
-    coordinates: { lat: 34.348, lng: 62.195 },
+    coords: [62.195, 34.348],
     description: {
       de: "Dieser Park ist eine der größten Grünflächen im Stadtzentrum von Herat. Er bietet Spielplätze und Spazierwege für die Bevölkerung.",
       hu: "Ez a park Herát belvárosának egyik legnagyobb zöldterülete. Játszótereket és sétányokat kínál a lakosságnak.",
@@ -753,7 +801,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-kabul-womens-garden-life-v2",
     type: "park",
     name: { de: "Frauengarten Kabul", hu: "Kabuli női kert", ro: "Grădina Femeilor din Kabul", en: "Bagh-e-Zanana Kabul" },
-    coordinates: { lat: 34.535, lng: 69.145 },
+    coords: [69.145, 34.535],
     description: {
       de: "Der Bagh-e-Zanana ist ein Park in Kabul, der ausschließlich Frauen und Kindern vorbehalten ist. Er bietet einen geschützten Raum für Freizeit.",
       hu: "A Bagh-e-Zanana egy kabuli park, amelyet kizárólag nők és gyermekek használhatnak. Biztonságos helyet nyújt a pihenéshez.",
@@ -784,7 +832,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-dasht-e-archi-reserve-life-v2",
     type: "wildlife",
     name: { de: "Dasht-e-Archi Reservat", hu: "Dast-e-Arcsi rezervátum", ro: "Rezervația Dasht-e-Archi", en: "Dasht-e-Archi Reserve" },
-    coordinates: { lat: 37.125, lng: 69.162 },
+    coords: [69.162, 37.125],
     description: {
       de: "Dieses Schutzgebiet in Kundus liegt am Koktscha-Fluss. Es ist ein wertvoller Lebensraum für Wasservögel und die Flussvegetation.",
       hu: "Ez a Kunduz tartománybeli védett terület a Kokcsa-folyó mentén fekszik. Fontos élőhely vízi madarak és folyami növényzet számára.",
@@ -815,7 +863,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-khwaja-khadir-park-life-v2",
     type: "park",
     name: { de: "Khwaja-Khadir-Park", hu: "Hvadzsa Hadir park", ro: "Parcul Khwaja Khadir", en: "Khwaja Khadir Park" },
-    coordinates: { lat: 36.708, lng: 67.115 },
+    coords: [67.115, 36.708],
     description: {
       de: "Der Khwaja-Khadir-Park ist eine beliebte Grünanlage in Mazar-i-Sharif. Er dient als grünes Zentrum für Erholung und Familienfreizeit.",
       hu: "A Hvadzsa Hadir park Mazár-e Sarif kedvelt zöldterülete. A pihenés és a családi kikapcsolódás központja.",
@@ -846,7 +894,7 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     id: "afghanistan-salang-wildlife-corridor-life-v2",
     type: "wildlife",
     name: { de: "Salang-Wildtierkorridor", hu: "Szalang vadvédelmi folyosó", ro: "Coridorul de faună Salang", en: "Salang Wildlife Corridor" },
-    coordinates: { lat: 35.315, lng: 69.122 },
+    coords: [69.122, 35.315],
     description: {
       de: "Dieser Korridor im Hindukusch ist entscheidend für die Wanderung von Schneeleoparden. Er verbindet verschiedene Bergregionen miteinander.",
       hu: "Ez a Hindukus-hegységben található folyosó létfontosságú a hópárducok vándorlásához. Különböző hegyi régiókat köt össze.",

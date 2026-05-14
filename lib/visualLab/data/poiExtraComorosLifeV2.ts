@@ -727,7 +727,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-mitsamiouli-baobabs-life-v2",
     type: "forest",
     name: { de: "Mitsamiouli-Baobab-Hain", hu: "Mitsamiouli majomkenyérfa-liget", ro: "Crângul de baobabi din Mitsamiouli", en: "Mitsamiouli Baobab Grove" },
-    coordinates: { lat: -11.3925, lng: 43.3214 },
+    coords: [43.3214, -11.3925],
     description: {
       de: "Ein historischer Hain von Adansonia digitata Bäumen im Norden von Grande Comore, die bis zu 1000 Jahre alt werden.",
       hu: "Adansonia digitata fákból álló történelmi liget Grande Comore északi részén, melyek akár 1000 évesek is lehetnek.",
@@ -758,7 +758,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-moheli-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Moheli-Mangrovenwald", hu: "Moheli mangroveerdő", ro: "Pădurea de mangrove din Moheli", en: "Moheli Mangrove Forest" },
-    coordinates: { lat: -12.3211, lng: 43.7542 },
+    coords: [43.7542, -12.3211],
     description: {
       de: "Wichtige Mangrovenökosysteme an der Südküste von Moheli, die als Brutstätte für Fische und Küstenvögel dienen.",
       hu: "Fontos mangrovés ökoszisztémák Moheli déli partján, amelyek halak és tengerparti madarak szaporodóhelyéül szolgálnak.",
@@ -789,7 +789,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-la-grille-cloud-forest-life-v2",
     type: "forest",
     name: { de: "La Grille Nebelwald", hu: "La Grille köderdő", ro: "Pădurea de nori La Grille", en: "La Grille Cloud Forest" },
-    coordinates: { lat: -11.4582, lng: 43.3456 },
+    coords: [43.3456, -11.4582],
     description: {
       de: "Ein biodiverser Höhennebelwald im Norden von Grande Comore, bekannt für endemische Orchideen und seltene Farne.",
       hu: "Biodiverz magaslati köderdő Grande Comore északi részén, amely endemikus orchideáiról és ritka páfrányairól ismert.",
@@ -820,7 +820,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-anjouan-tree-ferns-life-v2",
     type: "wildlife",
     name: { de: "Anjouan Baumfarn-Reservat", hu: "Anjouani páfrányfa-rezervátum", ro: "Rezervația de ferigi arborescente din Anjouan", en: "Anjouan Tree Fern Sanctuary" },
-    coordinates: { lat: -12.2241, lng: 44.4528 },
+    coords: [44.4528, -12.2241],
     description: {
       de: "Ein geschütztes Gebiet im Hochland von Anjouan, das dichte Bestände der endemischen Baumfarne der Komoren beherbergt.",
       hu: "Védett terület Anjouan felföldjén, amely a Comore-szigetek endemikus páfrányfáinak sűrű állományainak ad otthont.",
@@ -851,7 +851,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-itsandra-coral-garden-life-v2",
     type: "wildlife",
     name: { de: "Itsandra Korallengarten", hu: "Itsandra korallkert", ro: "Grădina de corali Itsandra", en: "Itsandra Coral Garden" },
-    coordinates: { lat: -11.6745, lng: 43.2512 },
+    coords: [43.2512, -11.6745],
     description: {
       de: "Ein artenreiches Korallenriff vor der Küste von Itsandra, bekannt für seine bunte Vielfalt an Hart- und Weichkorallen.",
       hu: "Fajokban gazdag korallzátony Itsandra partjainál, amely kemény- és lágykorallok színes választékáról ismert.",
@@ -882,7 +882,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-karthala-birds-life-v2",
     type: "wildlife",
     name: { de: "Karthala Endemische Vogelzone", hu: "Karthala endemikus madárzóna", ro: "Zonă de păsări endemice Karthala", en: "Karthala Endemic Bird Zone" },
-    coordinates: { lat: -11.7582, lng: 43.3814 },
+    coords: [43.3814, -11.7582],
     description: {
       de: "Die oberen Hänge des Karthala-Vulkans beherbergen seltene Vögel wie die Karthala-Zwergeule und den Komorenfliegenschnäpper.",
       hu: "A Karthala-vulkán felső lejtői olyan ritka madaraknak adnak otthont, mint a Karthala-törpekuvik és a comore-szigeteki légykapó.",
@@ -913,7 +913,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-bambao-butterflies-life-v2",
     type: "wildlife",
     name: { de: "Bambao Schmetterlingsreservat", hu: "Bambao pillangórezervátum", ro: "Rezervația de fluturi Bambao", en: "Bambao Butterfly Reserve" },
-    coordinates: { lat: -11.7612, lng: 43.3245 },
+    coords: [43.3245, -11.7612],
     description: {
       de: "Eine feuchte Waldregion in Bambao, die für ihren Reichtum an endemischen Schmetterlingsarten bekannt ist.",
       hu: "Párás erdei régió Bambaóban, amely endemikus pillangófajainak gazdagságáról ismert.",
@@ -944,7 +944,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-moheli-blue-pigeon-life-v2",
     type: "wildlife",
     name: { de: "Moheli-Blautauben-Habitat", hu: "Moheli kék galamb élőhely", ro: "Habitatul porumbelului albastru din Moheli", en: "Moheli Blue Pigeon Habitat" },
-    coordinates: { lat: -12.3521, lng: 43.7845 },
+    coords: [43.7845, -12.3521],
     description: {
       de: "Eines der wenigen Rückzugsgebiete der endemischen Moheli-Blautaube in den verbliebenen Primärwäldern der Insel.",
       hu: "Az endemikus moheli kék galamb egyik utolsó menedékhelye a sziget megmaradt őserdeiben.",
@@ -975,7 +975,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-grande-comore-geckos-life-v2",
     type: "wildlife",
     name: { de: "Grande-Comore-Gecko-Kolonie", hu: "Grande Comore gekkókolónia", ro: "Colonia de gecko din Grande Comore", en: "Grande Comore Gecko Colony" },
-    coordinates: { lat: -11.7014, lng: 43.2541 },
+    coords: [43.2541, -11.7014],
     description: {
       de: "Ein geschützter Bereich für Phelsuma-Geckos, bekannt für ihre leuchtend grüne Farbe und ihre Rolle im Ökosystem.",
       hu: "Phelsuma gekkók számára fenntartott védett terület, melyek élénkzöld színükről és ökológiai szerepükről ismertek.",
@@ -1006,7 +1006,7 @@ export const poiExtraComorosLifeV2: POI[] = [
     id: "comoros-mitsoudje-nursery-life-v2",
     type: "park",
     name: { de: "Botanische Gärtnerei Mitsoudje", hu: "Mitsoudje botanikai faiskola", ro: "Pepiniera botanică Mitsoudje", en: "Mitsoudje Botanical Nursery" },
-    coordinates: { lat: -11.8021, lng: 43.2954 },
+    coords: [43.2954, -11.8021],
     description: {
       de: "Eine staatliche Baumschule, die sich auf die Aufzucht von endemischen Heilpflanzen und seltenen Bäumen spezialisiert hat.",
       hu: "Állami faiskola, amely endemikus gyógynövények és ritka fák szaporítására és nevelésére szakosodott.",

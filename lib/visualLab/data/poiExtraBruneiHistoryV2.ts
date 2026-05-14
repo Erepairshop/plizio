@@ -641,7 +641,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-istana-darussalam-history-v2",
     type: "palace",
     name: { de: "Istana Darussalam", hu: "Istana Darussalam", ro: "Istana Darussalam", en: "Istana Darussalam" },
-    coordinates: { lat: 4.8847, lng: 114.9392 },
+    coords: [114.9392, 4.8847],
     description: {
       de: "Dieser historische Holzpalast war der Geburtsort von Sultan Hassanal Bolkiah im Jahr 1946. Er repräsentiert die traditionelle Architektur der königlichen Residenzen Bruneis.",
       hu: "Ez a történelmi fapalota volt Hassanal Bolkiah szultán születési helye 1946-ban. Brunei királyi rezidenciáinak hagyományos építészetét képviseli.",
@@ -672,7 +672,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-pulau-chermin-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Pulau Chermin", hu: "Pulau Chermin erőd", ro: "Cetatea Pulau Chermin", en: "Pulau Chermin Fortress" },
-    coordinates: { lat: 4.9306, lng: 115.0211 },
+    coords: [115.0211, 4.9306],
     description: {
       de: "Diese Inselruinen markieren den Ort einer entscheidenden Festung während des bruneiischen Bürgerkriegs im 17. Jahrhundert. Sie diente als strategischer Verteidigungspunkt im Flussdelta.",
       hu: "Ezek a szigeti romok a 17. századi brunei polgárháború egyik döntő fontosságú erődjének helyszínét jelölik. Stratégiai védelmi pontként szolgált a folyó torkolatánál.",
@@ -703,7 +703,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-shah-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Shah", hu: "I. Muhammad szultán sírja", ro: "Mormântul Sultanului Muhammad Shah", en: "Tomb of Sultan Muhammad Shah" },
-    coordinates: { lat: 4.8872, lng: 114.9255 },
+    coords: [114.9255, 4.8872],
     description: {
       de: "Die letzte Ruhestätte des ersten Sultans von Brunei, der das Sultanat im 14. Jahrhundert begründete. Er war der erste Herrscher, der zum Islam konvertierte.",
       hu: "Brunei első szultánjának nyughelye, aki a 14. században alapította meg a szultanátust. Ő volt az első uralkodó, aki felvette az iszlám vallást.",
@@ -734,7 +734,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-padang-merdeka-bsb-history-v2",
     type: "landmark",
     name: { de: "Padang Merdeka", hu: "Padang Merdeka", ro: "Padang Merdeka", en: "Padang Merdeka" },
-    coordinates: { lat: 4.8894, lng: 114.9416 },
+    coords: [114.9416, 4.8894],
     description: {
       de: "Dieser zentrale Platz in der Hauptstadt war der Ort der offiziellen Unabhängigkeitserklärung Bruneis am 1. Januar 1984. Er dient heute für nationale Zeremonien.",
       hu: "Ez a fővárosi központi tér volt Brunei függetlenségének hivatalos kikiáltási helyszíne 1984. január 1-jén. Ma nemzeti ünnepségek helyszíne.",
@@ -765,7 +765,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-secretariat-building-bsb-history-v2",
     type: "landmark",
     name: { de: "Sekretariatsgebäude", hu: "Titkársági épület", ro: "Clădirea Secretariatului", en: "Secretariat Building" },
-    coordinates: { lat: 4.8896, lng: 114.9436 },
+    coords: [114.9436, 4.8896],
     description: {
       de: "Eines der ältesten Regierungsgebäude in Bandar Seri Begawan, erbaut in der Mitte des 20. Jahrhunderts. Es verkörpert den Übergang zur modernen Verwaltung Bruneis.",
       hu: "Bandar Seri Begawan egyik legrégebbi kormányzati épülete, amely a 20. század közepén épült. Brunei modern közigazgatásba való átmenetét testesíti meg.",
@@ -796,7 +796,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-istana-mangelella-history-v2",
     type: "palace",
     name: { de: "Istana Mangelella", hu: "Istana Mangelella", ro: "Istana Mangelella", en: "Istana Mangelella" },
-    coordinates: { lat: 4.5905, lng: 114.1952 },
+    coords: [114.1952, 4.5905],
     description: {
       de: "Ein historischer königlicher Palast in Kuala Belait, der dem Sultan während seiner Besuche im Belait-Distrikt als Residenz diente. Er zeigt traditionelle malaiische Designelemente.",
       hu: "Kuala Belait történelmi királyi palotája, amely a szultán rezidenciájaként szolgált a Belait körzetben tett látogatásai során. Hagyományos maláj stílusjegyeket mutat.",
@@ -827,7 +827,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-tomb-of-dang-ayang-history-v2",
     type: "monument",
     name: { de: "Grab von Dang Ayang", hu: "Dang Ayang sírja", ro: "Mormântul lui Dang Ayang", en: "Tomb of Dang Ayang" },
-    coordinates: { lat: 4.8912, lng: 114.9455 },
+    coords: [114.9455, 4.8912],
     description: {
       de: "Ein sagenumwobenes Grabmal im Zentrum der Hauptstadt, das mit der Legende einer Frau verbunden ist, die wegen eines Tabubruchs aus der Gesellschaft verstoßen wurde.",
       hu: "A főváros központjában található legendás sírbolt, amely egy asszony történetéhez kapcsolódik, akit egy tabu megsértése miatt zártak ki a társadalomból.",
@@ -858,7 +858,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-ahmad-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Ahmad", hu: "Ahmad szultán sírja", ro: "Mormântul Sultanului Ahmad", en: "Tomb of Sultan Ahmad" },
-    coordinates: { lat: 4.8871, lng: 114.9251 },
+    coords: [114.9251, 4.8871],
     description: {
       de: "Das Grab des zweiten Sultans von Brunei, der die Nachfolge von Muhammad Shah antrat. Er war bekannt für die Festigung der Herrschaft und den Bau von Befestigungen.",
       hu: "Brunei második szultánjának sírja, aki Muhammad Shah-t követte a trónon. Az uralom megerősítéséről és erődítmények építéséről volt ismert.",
@@ -889,7 +889,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-berakat-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Berakat", hu: "Berakat szultán sírja", ro: "Mormântul Sultanului Berakat", en: "Tomb of Sultan Berakat" },
-    coordinates: { lat: 4.8873, lng: 114.9258 },
+    coords: [114.9258, 4.8873],
     description: {
       de: "Die Ruhestätte des dritten Sultans, Sharif Ali, auch bekannt als Sultan Berakat. Er war ein Nachfahre des Propheten Muhammad und stammte aus dem heutigen Saudi-Arabien.",
       hu: "A harmadik szultán, Sharif Ali, más néven Berakat szultán nyughelye. Mohamed próféta leszármazottja volt, és a mai Szaúd-Arábia területéről érkezett.",
@@ -920,7 +920,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-abdul-kahar-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Abdul Kahar", hu: "Abdul Kahar szultán sírja", ro: "Mormântul Sultanului Abdul Kahar", en: "Tomb of Sultan Abdul Kahar" },
-    coordinates: { lat: 4.8874, lng: 114.9262 },
+    coords: [114.9262, 4.8874],
     description: {
       de: "Die letzte Ruhestätte des sechsten Sultans, der während des 'Goldenen Zeitalters' von Brunei im 16. Jahrhundert regierte. Er erweiterte den Einfluss Bruneis über ganz Borneo.",
       hu: "A hatodik szultán nyughelye, aki Brunei 'aranykorában' uralkodott a 16. században. Kiterjesztette Brunei befolyását egész Borneóra.",
@@ -951,7 +951,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-saiful-rijal-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Saiful Rijal", hu: "Saiful Rijal szultán sírja", ro: "Mormântul Sultanului Saiful Rijal", en: "Tomb of Sultan Saiful Rijal" },
-    coordinates: { lat: 4.8875, lng: 114.9265 },
+    coords: [114.9265, 4.8875],
     description: {
       de: "Grabmal des siebten Sultans, der Brunei während des Castilianischen Krieges gegen die Spanier im Jahr 1578 verteidigte. Er gilt als wichtiger militärischer Anführer.",
       hu: "A hetedik szultán síremléke, aki 1578-ban megvédte Bruneit a spanyolok elleni kasztíliai háborúban. Fontos katonai vezetőként tartják számon.",
@@ -982,7 +982,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-hassan-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Hassan", hu: "IX. Muhammad Hassan szultán sírja", ro: "Mormântul Sultanului Muhammad Hassan", en: "Tomb of Sultan Muhammad Hassan" },
-    coordinates: { lat: 4.8602, lng: 114.9085 },
+    coords: [114.9085, 4.8602],
     description: {
       de: "Das Grab des neunten Sultans, der für die Kodifizierung der bruneiischen Gesetze bekannt ist. Er residierte in Tanjung Kindana und stärkte die Verwaltung des Landes.",
       hu: "A kilencedik szultán sírja, aki a brunei törvények kodifikálásáról ismert. Tanjung Kindana területén székelt, és megerősítette az ország közigazgatását.",
@@ -1013,7 +1013,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-jalilul-akbar-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Abdul Jalilul Akbar", hu: "Abdul Jalilul Akbar szultán sírja", ro: "Mormântul Sultanului Abdul Jalilul Akbar", en: "Tomb of Sultan Abdul Jalilul Akbar" },
-    coordinates: { lat: 4.8876, lng: 114.9268 },
+    coords: [114.9268, 4.8876],
     description: {
       de: "Grabstätte des zehnten Sultans, unter dessen Herrschaft Brunei engen Kontakt mit den Niederländern pflegte. Er stärkte die diplomatischen Beziehungen des Sultanats.",
       hu: "A tizedik szultán sírhelye, akinek uralkodása alatt Brunei szoros kapcsolatot ápolt a hollandokkal. Megerősítette a szultanátus diplomáciai kapcsolatait.",
@@ -1044,7 +1044,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-jalilul-jabbar-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Abdul Jalilul Jabbar", hu: "Abdul Jalilul Jabbar szultán sírja", ro: "Mormântul Sultanului Abdul Jalilul Jabbar", en: "Tomb of Sultan Abdul Jalilul Jabbar" },
-    coordinates: { lat: 4.8877, lng: 114.9271 },
+    coords: [114.9271, 4.8877],
     description: {
       de: "Die letzte Ruhestätte des elften Sultans, dessen kurze Herrschaft durch innerfamiliäre Stabilität gekennzeichnet war. Er setzte die Politik seines Vaters fort.",
       hu: "A tizenegyedik szultán nyughelye, akinek rövid uralkodását a családon belüli stabilitás jellemezte. Apja politikáját folytatta.",
@@ -1075,7 +1075,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-ali-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Haji Muhammad Ali", hu: "Haji Muhammad Ali szultán sírja", ro: "Mormântul Sultanului Haji Muhammad Ali", en: "Tomb of Sultan Haji Muhammad Ali" },
-    coordinates: { lat: 4.8878, lng: 114.9274 },
+    coords: [114.9274, 4.8878],
     description: {
       de: "Grab des zwölften Sultans, dessen Tod den Beginn des bruneiischen Bürgerkriegs auslöste. Er wurde nach einem Palaststreit hingerichtet.",
       hu: "A tizenkettedik szultán sírja, akinek halála kirobbantotta a brunei polgárháborút. Egy palotai viszályt követően végezték ki.",
@@ -1106,7 +1106,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-hakkul-mubin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Abdul Hakkul Mubin", hu: "Abdul Hakkul Mubin szultán sírja", ro: "Mormântul Sultanului Abdul Hakkul Mubin", en: "Tomb of Sultan Abdul Hakkul Mubin" },
-    coordinates: { lat: 4.931, lng: 115.0215 },
+    coords: [115.0215, 4.931],
     description: {
       de: "Grabstätte des 13. Sultans auf Pulau Chermin, der als eine der Hauptfiguren des Bürgerkriegs gilt. Er wurde nach der Niederlage seiner Fraktion getötet.",
       hu: "A 13. szultán sírhelye Pulau Chermin szigetén, aki a polgárháború egyik főszereplője volt. Frakciója veresége után ölték meg.",
@@ -1137,7 +1137,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhyiddin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhyiddin", hu: "Muhyiddin szultán sírja", ro: "Mormântul Sultanului Muhyiddin", en: "Tomb of Sultan Muhyiddin" },
-    coordinates: { lat: 4.8605, lng: 114.9088 },
+    coords: [114.9088, 4.8605],
     description: {
       de: "Die Ruhestätte des 14. Sultans, der den Bürgerkrieg beendete und die Einheit Bruneis wiederherstellte. Er residierte nach dem Krieg in Luba.",
       hu: "A 14. szultán nyughelye, aki véget vetett a polgárháborúnak és helyreállította Brunei egységét. A háború után Luba területén székelt.",
@@ -1168,7 +1168,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-nassaruddin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Nassaruddin", hu: "Nassaruddin szultán sírja", ro: "Mormântul Sultanului Nassaruddin", en: "Tomb of Sultan Nassaruddin" },
-    coordinates: { lat: 4.8608, lng: 114.9092 },
+    coords: [114.9092, 4.8608],
     description: {
       de: "Grabmal des 15. Sultans von Brunei, der das Land während einer stabilen Periode nach dem Bürgerkrieg regierte. Sein Grab befindet sich im Luba-Friedhof.",
       hu: "Brunei 15. szultánjának síremléke, aki a polgárháború utáni stabil időszakban irányította az országot. Sírja a Luba temetőben található.",
@@ -1199,7 +1199,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-hussin-kamaluddin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Hussin Kamaluddin", hu: "Hussin Kamaluddin szultán sírja", ro: "Mormântul Sultanului Hussin Kamaluddin", en: "Tomb of Sultan Hussin Kamaluddin" },
-    coordinates: { lat: 4.861, lng: 114.9095 },
+    coords: [114.9095, 4.861],
     description: {
       de: "Die Ruhestätte des 16. Sultans, der zweimal regierte und schließlich abdankte, um ein frommes Leben in Luba zu führen. Er gilt als weiser Herrscher.",
       hu: "A 16. szultán nyughelye, aki kétszer is uralkodott, majd végül lemondott, hogy kegyes életet éljen Luba-ban. Bölcs uralkodóként tartják számon.",
@@ -1230,7 +1230,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-alauddin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Alauddin", hu: "Muhammad Alauddin szultán sírja", ro: "Mormântul Sultanului Muhammad Alauddin", en: "Tomb of Sultan Muhammad Alauddin" },
-    coordinates: { lat: 4.8879, lng: 114.9277 },
+    coords: [114.9277, 4.8879],
     description: {
       de: "Grab des 17. Sultans, unter dessen Herrschaft Brunei bedeutende Fortschritte in der Landwirtschaft und im Handel machte. Sein Grab liegt im Makam Diraja.",
       hu: "A 17. szultán sírja, akinek uralkodása alatt Brunei jelentős fejlődést ért el a mezőgazdaságban és a kereskedelemben. Sírja a Makam Diraja-ban található.",
@@ -1261,7 +1261,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-omar-ali-saifuddin-i-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Omar Ali Saifuddin I", hu: "I. Omar Ali Saifuddin szultán sírja", ro: "Mormântul Sultanului Omar Ali Saifuddin I", en: "Tomb of Sultan Omar Ali Saifuddin I" },
-    coordinates: { lat: 4.888, lng: 114.928 },
+    coords: [114.928, 4.888],
     description: {
       de: "Grabstätte des 18. Sultans, der Brunei durch die Herausforderungen des späten 18. Jahrhunderts führte. Er war bekannt für seine diplomatische Vorsicht.",
       hu: "A 18. szultán sírhelye, aki a 18. század végi kihívásokon vezette át Bruneit. Diplomáciai óvatosságáról volt ismert.",
@@ -1292,7 +1292,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-tajuddin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Tajuddin", hu: "Muhammad Tajuddin szultán sírja", ro: "Mormântul Sultanului Muhammad Tajuddin", en: "Tomb of Sultan Muhammad Tajuddin" },
-    coordinates: { lat: 4.8881, lng: 114.9283 },
+    coords: [114.9283, 4.8881],
     description: {
       de: "Das Grabmal des 19. Sultans, der zweimal regierte und die Beziehungen zu den Briten und anderen Mächten am Beginn des 19. Jahrhunderts regelte.",
       hu: "A 19. szultán síremléke, aki kétszer uralkodott, és a 19. század elején rendezte a kapcsolatokat a britekkel és más hatalmakkal.",
@@ -1323,7 +1323,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-jamalul-alam-i-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Jamalul Alam I", hu: "I. Muhammad Jamalul Alam szultán sírja", ro: "Mormântul Sultanului Muhammad Jamalul Alam I", en: "Tomb of Sultan Muhammad Jamalul Alam I" },
-    coordinates: { lat: 4.8882, lng: 114.9286 },
+    coords: [114.9286, 4.8882],
     description: {
       de: "Die Ruhestätte des 20. Sultans, dessen Herrschaft nur wenige Monate dauerte. Er starb kurz nach seiner Thronbesteigung im Jahr 1804.",
       hu: "A 20. szultán nyughelye, akinek uralkodása csak néhány hónapig tartott. 1804-ben, röviddel a trónra lépése után hunyt el.",
@@ -1354,7 +1354,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-kanzul-alam-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Kanzul Alam", hu: "Muhammad Kanzul Alam szultán sírja", ro: "Mormântul Sultanului Muhammad Kanzul Alam", en: "Tomb of Sultan Muhammad Kanzul Alam" },
-    coordinates: { lat: 4.8883, lng: 114.9289 },
+    coords: [114.9289, 4.8883],
     description: {
       de: "Grabmal des 21. Sultans, der nach dem Tod seines Neffen die Macht übernahm. Er war für die innere Stabilisierung des Sultanats verantwortlich.",
       hu: "A 21. szultán síremléke, aki unokaöccse halála után vette át a hatalmat. A szultanátus belső stabilizálásáért volt felelős.",
@@ -1385,7 +1385,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-muhammad-alam-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Alam", hu: "Muhammad Alam szultán sírja", ro: "Mormântul Sultanului Muhammad Alam", en: "Tomb of Sultan Muhammad Alam" },
-    coordinates: { lat: 4.8884, lng: 114.9292 },
+    coords: [114.9292, 4.8884],
     description: {
       de: "Grab des 22. Sultans, dessen Herrschaft von Unruhen und der Thronfolgekrise geprägt war. Er regierte nur für kurze Zeit in den 1820er Jahren.",
       hu: "A 22. szultán sírja, akinek uralkodását zavargások és trónöröklési válság jellemezte. Csak rövid ideig uralkodott az 1820-as években.",
@@ -1416,7 +1416,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-omar-ali-saifuddin-ii-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Omar Ali Saifuddin II", hu: "II. Omar Ali Saifuddin szultán sírja", ro: "Mormântul Sultanului Omar Ali Saifuddin II", en: "Tomb of Sultan Omar Ali Saifuddin II" },
-    coordinates: { lat: 4.8885, lng: 114.9295 },
+    coords: [114.9295, 4.8885],
     description: {
       de: "Grabmal des 23. Sultans, der während der Zeit des wachsenden britischen Einflusses unter James Brooke regierte. Er war eine Schlüsselfigur in der modernen Geschichte Borneos.",
       hu: "A 23. szultán síremléke, aki a James Brooke alatti növekvő brit befolyás idején uralkodott. Borneó modern történelmének kulcsfigurája volt.",
@@ -1447,7 +1447,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-abdul-momin-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Abdul Momin", hu: "Abdul Momin szultán sírja", ro: "Mormântul Sultanului Abdul Momin", en: "Tomb of Sultan Abdul Momin" },
-    coordinates: { lat: 4.8886, lng: 114.9298 },
+    coords: [114.9298, 4.8886],
     description: {
       de: "Grab des 24. Sultans, bekannt für die Unterzeichnung der 'Amanat', einer heiligen Verpflichtung zum Erhalt des bruneiischen Territoriums gegen ausländische Ansprüche.",
       hu: "A 24. szultán sírja, aki az 'Amanat' aláírásáról ismert, amely egy szent kötelezettségvállalás volt Brunei területének megőrzésére a külföldi igényekkel szemben.",
@@ -1478,7 +1478,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-hashim-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Hashim Jalilul Alam", hu: "Hashim Jalilul Alam szultán sírja", ro: "Mormântul Sultanului Hashim Jalilul Alam", en: "Tomb of Sultan Hashim Jalilul Alam" },
-    coordinates: { lat: 4.8887, lng: 114.9301 },
+    coords: [114.9301, 4.8887],
     description: {
       de: "Das Grabmal des 25. Sultans, der 1888 das britische Protektorat unterzeichnete, um den Rest des Landes vor der weiteren Aufteilung durch Kolonialmächte zu retten.",
       hu: "A 25. szultán síremléke, aki 1888-ban aláírta a brit protektorátust, hogy megmentse az ország maradékát a gyarmati hatalmak további felosztásától.",
@@ -1509,7 +1509,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-jamalul-alam-ii-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Muhammad Jamalul Alam II", hu: "II. Muhammad Jamalul Alam szultán sírja", ro: "Mormântul Sultanului Muhammad Jamalul Alam II", en: "Tomb of Sultan Muhammad Jamalul Alam II" },
-    coordinates: { lat: 4.8888, lng: 114.9304 },
+    coords: [114.9304, 4.8888],
     description: {
       de: "Grabstätte des 26. Sultans, unter dessen Herrschaft Brunei den Übergang zur modernen Verwaltung durch das britische Residenzsystem im Jahr 1906 begann.",
       hu: "A 26. szultán sírhelye, akinek uralkodása alatt Brunei 1906-ban megkezdte az átmenetet a modern közigazgatásba a brit rezidensi rendszeren keresztül.",
@@ -1540,7 +1540,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-makam-luba-cemetery-history-v2",
     type: "monument",
     name: { de: "Makam Luba Friedhof", hu: "Makam Luba temető", ro: "Cimitirul Makam Luba", en: "Makam Luba Cemetery" },
-    coordinates: { lat: 4.8615, lng: 114.9102 },
+    coords: [114.9102, 4.8615],
     description: {
       de: "Ein historisches Gräberfeld in Luba, das als Begräbnisstätte für mehrere Sultane des 17. und 18. Jahrhunderts diente. Es ist ein wichtiger Ort für die Erforschung der Familiengeschichte.",
       hu: "Luba-i történelmi temető, amely több 17. és 18. századi szultán nyughelyeként szolgált. Fontos helyszín a családtörténet kutatása szempontjából.",
@@ -1571,7 +1571,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-old-residency-bsb-history-v2",
     type: "landmark",
     name: { de: "Alte Residenz", hu: "Régi Rezidencia", ro: "Vechea Rezidență", en: "Old Residency" },
-    coordinates: { lat: 4.8855, lng: 114.9485 },
+    coords: [114.9485, 4.8855],
     description: {
       de: "Dieses Gebäude wurde 1906 als erste Residenz für den britischen Vertreter in Brunei errichtet. Es steht symbolisch für den Beginn der britischen Verwaltungsära.",
       hu: "Ez az épület 1906-ban épült a brunei brit képviselő első rezidenciájaként. A brit közigazgatási korszak kezdetének szimbóluma.",
@@ -1602,7 +1602,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-tugu-merdeka-history-v2",
     type: "monument",
     name: { de: "Tugu Merdeka", hu: "Tugu Merdeka", ro: "Tugu Merdeka", en: "Tugu Merdeka" },
-    coordinates: { lat: 4.8901, lng: 114.9422 },
+    coords: [114.9422, 4.8901],
     description: {
       de: "Ein Unabhängigkeitsdenkmal, das an die Souveränität Bruneis erinnert. Es ist ein markantes Symbol für den Nationalstolz und die Geschichte der Befreiung.",
       hu: "Függetlenségi emlékmű, amely Brunei szuverenitására emlékeztet. A nemzeti büszkeség és a felszabadulás történetének jellegzetes szimbóluma.",
@@ -1633,7 +1633,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-istana-pantai-history-v2",
     type: "palace",
     name: { de: "Istana Pantai", hu: "Istana Pantai", ro: "Istana Pantai", en: "Istana Pantai" },
-    coordinates: { lat: 4.6145, lng: 114.3218 },
+    coords: [114.3218, 4.6145],
     description: {
       de: "Dieser Küstenpalast in Seria wurde in der Mitte des 20. Jahrhunderts als Residenz für die königliche Familie während ihrer Aufenthalte in der Ölregion erbaut.",
       hu: "Ezt a seria-i tengerparti palotát a 20. század közepén építették a királyi család rezidenciájaként az olajrégióban tett látogatásaik idejére.",
@@ -1664,7 +1664,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-istana-edinburg-history-v2",
     type: "palace",
     name: { de: "Istana Edinburg", hu: "Istana Edinburg", ro: "Istana Edinburg", en: "Istana Edinburg" },
-    coordinates: { lat: 4.8935, lng: 114.9355 },
+    coords: [114.9355, 4.8935],
     description: {
       de: "Ein historisches Gästehaus der Regierung, das für hochrangige Staatsgäste und Mitglieder des Commonwealth genutzt wurde. Es spiegelt die internationale Vernetzung Bruneis wider.",
       hu: "Történelmi kormányzati vendégház, amelyet magas rangú állami vendégek és a Nemzetközösség tagjai számára használtak. Brunei nemzetközi kapcsolatait tükrözi.",
@@ -1695,7 +1695,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-pengiran-muda-hashim-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Pengiran Muda Hashim", hu: "Pengiran Muda Hashim sírja", ro: "Mormântul lui Pengiran Muda Hashim", en: "Tomb of Pengiran Muda Hashim" },
-    coordinates: { lat: 4.8865, lng: 114.9242 },
+    coords: [114.9242, 4.8865],
     description: {
       de: "Das Grab einer einflussreichen Persönlichkeit, die eine Schlüsselrolle bei der Übergabe von Sarawak an James Brooke spielte. Es ist ein Ort von großer historischer Bedeutung.",
       hu: "Egy befolyásos személyiség sírja, aki kulcsszerepet játszott Sarawak James Brooke-nak történő átadásában. Nagy történelmi jelentőségű helyszín.",
@@ -1726,7 +1726,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-kiudang-japanese-tunnels-history-v2",
     type: "ruins",
     name: { de: "Japanische Tunnel in Kiudang", hu: "Kiudangi japán alagutak", ro: "Tunelurile japoneze din Kiudang", en: "Kiudang Japanese Tunnels" },
-    coordinates: { lat: 4.7455, lng: 114.7122 },
+    coords: [114.7122, 4.7455],
     description: {
       de: "Überreste von Tunneln, die während der japanischen Besetzung Bruneis im Zweiten Weltkrieg als Unterstände und Lager genutzt wurden. Sie sind Zeugen der Kriegsgeschichte.",
       hu: "A második világháború alatti japán megszállás idején óvóhelyként és raktárként használt alagutak maradványai. A háborús történelem tanúi.",
@@ -1757,7 +1757,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-ancient-kota-batu-wall-history-v2",
     type: "ruins",
     name: { de: "Antike Mauer von Kota Batu", hu: "Kota Batu ősi fala", ro: "Zidul antic din Kota Batu", en: "Ancient Kota Batu Wall" },
-    coordinates: { lat: 4.8822, lng: 114.9655 },
+    coords: [114.9655, 4.8822],
     description: {
       de: "Die Überreste einer massiven Steinmauer, die einst die Hauptstadt Kota Batu schützte. Sie belegt die frühe urbane Organisation und Verteidigung Bruneis.",
       hu: "Egy masszív kőfal maradványai, amely egykor Kota Batu fővárosát védte. Brunei korai városi szerveződését és védelmét bizonyítja.",
@@ -1788,7 +1788,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-tanjong-batu-site-history-v2",
     type: "ruins",
     name: { de: "Tanjong Batu Ausgrabungsstätte", hu: "Tanjong Batu régészeti lelőhely", ro: "Situl Tanjong Batu", en: "Tanjong Batu Archaeological Site" },
-    coordinates: { lat: 5.0345, lng: 115.0512 },
+    coords: [115.0512, 5.0345],
     description: {
       de: "Eine bedeutende archäologische Stätte an der Küste von Muara, wo Keramik und Artefakte aus der Zeit des intensiven Überseehandels gefunden wurden.",
       hu: "Jelentős régészeti lelőhely Muara partjainál, ahol az intenzív tengerentúli kereskedelem idejéből származó kerámiákat és műtárgyakat találtak.",
@@ -1819,7 +1819,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-pulau-berambang-inscriptions-history-v2",
     type: "monument",
     name: { de: "Inschriften von Pulau Berambang", hu: "Pulau Berambang feliratok", ro: "Inscripțiile de pe Pulau Berambang", en: "Pulau Berambang Inscriptions" },
-    coordinates: { lat: 4.881, lng: 114.9755 },
+    coords: [114.9755, 4.881],
     description: {
       de: "Historische Steininschriften auf der Insel Pulau Berambang, die Hinweise auf die frühe religiöse und kulturelle Entwicklung der Region geben.",
       hu: "Történelmi kőfeliratok Pulau Berambang szigetén, amelyek a régió korai vallási és kulturális fejlődésére utalnak.",
@@ -1850,7 +1850,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-lumut-wwii-bunker-history-v2",
     type: "monument",
     name: { de: "Lumut Zweiter Weltkrieg Bunker", hu: "Lumuti II. világháborús bunker", ro: "Buncărul din al Doilea Război Mondial Lumut", en: "Lumut WWII Bunker" },
-    coordinates: { lat: 4.6545, lng: 114.4422 },
+    coords: [114.4422, 4.6545],
     description: {
       de: "Ein gut erhaltener Bunker aus dem Zweiten Weltkrieg, der Teil der Verteidigungslinien an der Küste von Lumut war. Er wurde von japanischen Truppen genutzt.",
       hu: "Egy jó állapotban fennmaradt II. világháborús bunker, amely a lumuti tengerparti védelmi vonalak része volt. Japán csapatok használták.",
@@ -1881,7 +1881,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-seria-well-s1-history-v2",
     type: "monument",
     name: { de: "Seria Ölquelle S-1", hu: "Seria S-1 olajkút", ro: "Seria S-1 Oil Well", en: "Seria Well S-1" },
-    coordinates: { lat: 4.6085, lng: 114.3155 },
+    coords: [114.3155, 4.6085],
     description: {
       de: "Der Ort der ersten kommerziell erfolgreichen Ölbohrung in Brunei im Jahr 1929. Er markiert den Beginn der modernen wirtschaftlichen Ära des Sultanats.",
       hu: "Brunei első kereskedelmileg sikeres olajfúrásának helyszíne 1929-ben. A szultanátus modern gazdasági korszakának kezdetét jelzi.",
@@ -1912,7 +1912,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-old-muara-customs-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus Muara", hu: "Régi vámszékház Muara", ro: "Vechea vamă din Muara", en: "Old Muara Customs" },
-    coordinates: { lat: 5.0185, lng: 115.0645 },
+    coords: [115.0645, 5.0185],
     description: {
       de: "Ein historisches Verwaltungsgebäude in Muara, das einst als Zollstation für den Schiffsverkehr diente. Es erinnert an die Bedeutung Muaras als Handelstor.",
       hu: "Történelmi adminisztratív épület Muarában, amely egykor a hajóforgalom vámállomásaként szolgált. Muara kereskedelmi kapuként betöltött szerepére emlékeztet.",
@@ -1943,7 +1943,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-teraja-ruins-history-v2",
     type: "ruins",
     name: { de: "Teraja Ruinen", hu: "Teraja romok", ro: "Ruinele Teraja", en: "Teraja Ruins" },
-    coordinates: { lat: 4.2855, lng: 114.4322 },
+    coords: [114.4322, 4.2855],
     description: {
       de: "Überreste einer alten Siedlung im Teraja-Gebiet, die Beweise für das historische Leben der indigenen Gemeinschaften im tiefen Dschungel liefert.",
       hu: "Egy régi település maradványai a Teraja-vidéken, amelyek az őslakos közösségek történelmi életét bizonyítják a dzsungel mélyén.",
@@ -1974,7 +1974,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-bukit-teraja-site-history-v2",
     type: "ruins",
     name: { de: "Bukit Teraja Ausgrabungsstätte", hu: "Bukit Teraja lelőhely", ro: "Situl Bukit Teraja", en: "Bukit Teraja Site" },
-    coordinates: { lat: 4.2955, lng: 114.4122 },
+    coords: [114.4122, 4.2955],
     description: {
       de: "Eine archäologische Fundstelle auf dem Hügel Bukit Teraja, wo antike Werkzeuge und Spuren früherer Besiedlung entdeckt wurden.",
       hu: "Régészeti lelőhely a Bukit Teraja dombon, ahol ősi eszközöket és korábbi települések nyomait fedezték fel.",
@@ -2005,7 +2005,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-kampong-parit-park-history-v2",
     type: "museum",
     name: { de: "Kampong Parit Kulturpark", hu: "Kampong Parit kultúrpark", ro: "Parcul Cultural Kampong Parit", en: "Kampong Parit Park" },
-    coordinates: { lat: 4.8455, lng: 114.8645 },
+    coords: [114.8645, 4.8455],
     description: {
       de: "Ein rekonstruiertes historisches Dorf, das das traditionelle Leben der Bruneier zeigt. Es dient als Bildungsort für das kulturelle Erbe des Landes.",
       hu: "Rekonstruált történelmi falu, amely a bruneiek hagyományos életét mutatja be. Oktatási helyszínként szolgál az ország kulturális örökségéhez.",
@@ -2036,7 +2036,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-istana-nurul-izzah-history-v2",
     type: "palace",
     name: { de: "Istana Nurul Izzah", hu: "Istana Nurul Izzah", ro: "Istana Nurul Izzah", en: "Istana Nurul Izzah" },
-    coordinates: { lat: 4.9355, lng: 114.8355 },
+    coords: [114.8355, 4.9355],
     description: {
       de: "Ein bedeutender Palast in Jerudong, der für private königliche Anlässe genutzt wird. Er ist ein Beispiel für die moderne prachtvolle Architektur Bruneis.",
       hu: "Jelentős palota Jerudongban, amelyet magánjellegű királyi eseményekre használnak. Brunei modern, pompás építészetének példája.",
@@ -2067,7 +2067,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-makam-raja-ayang-history-v2",
     type: "monument",
     name: { de: "Grab von Raja Ayang", hu: "Raja Ayang sírja", ro: "Mormântul lui Raja Ayang", en: "Tomb of Raja Ayang" },
-    coordinates: { lat: 4.8925, lng: 114.9455 },
+    coords: [114.9455, 4.8925],
     description: {
       de: "Ein historisches Grabmal in der Nähe des Stadtzentrums, das einer legendären Persönlichkeit der bruneiischen Geschichte gewidmet ist. Es ist reich an Folklore.",
       hu: "Történelmi síremlék a városközpont közelében, amelyet a brunei történelem egyik legendás alakjának szenteltek. Gazdag folklór kapcsolódik hozzá.",
@@ -2098,7 +2098,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-berakas-war-site-history-v2",
     type: "battlefield",
     name: { de: "Berakas Kriegsgeschichtsstätte", hu: "Berakasi hadtörténeti helyszín", ro: "Situl istoric de război Berakas", en: "Berakas War Site" },
-    coordinates: { lat: 4.9655, lng: 114.9222 },
+    coords: [114.9222, 4.9655],
     description: {
       de: "Ein Gebiet in Berakas, das während des Zweiten Weltkriegs Schauplatz von Landeoperationen und Militärlagern war. Es bewahrt die Erinnerung an die Befreiung.",
       hu: "Berakas-i terület, amely a második világháború alatt partraszállási műveletek és katonai táborok helyszíne volt. A felszabadulás emlékét őrzi.",
@@ -2129,7 +2129,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-pulau-baru-baru-history-v2",
     type: "ruins",
     name: { de: "Pulau Baru-Baru Historische Stätte", hu: "Pulau Baru-Baru történelmi helyszín", ro: "Sit istoric Pulau Baru-Baru", en: "Pulau Baru-Baru Historical Site" },
-    coordinates: { lat: 4.8855, lng: 115.0112 },
+    coords: [115.0112, 4.8855],
     description: {
       de: "Eine Insel im Brunei-Fluss, die historisch als Quarantänestation und Verteidigungspunkt genutzt wurde. Sie birgt Überreste aus der Kolonialzeit.",
       hu: "A Brunei-folyó egyik szigete, amelyet történelmileg karanténállomásként és védelmi pontként használtak. Gyarmati kori maradványokat rejt.",
@@ -2160,7 +2160,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-tomb-of-sharif-husin-history-v2",
     type: "monument",
     name: { de: "Grab von Sharif Husin", hu: "Sharif Husin sírja", ro: "Mormântul lui Sharif Husin", en: "Tomb of Sharif Husin" },
-    coordinates: { lat: 4.885, lng: 114.9315 },
+    coords: [114.9315, 4.885],
     description: {
       de: "Die Grabstätte eines bedeutenden religiösen Führers und Beraters der frühen Sultane. Er trug wesentlich zur religiösen Festigung in Brunei bei.",
       hu: "A korai szultánok egyik jelentős vallási vezetőjének és tanácsadójának sírhelye. Jelentősen hozzájárult Brunei vallási megerősítéséhez.",
@@ -2191,7 +2191,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-muara-old-jetty-history-v2",
     type: "monument",
     name: { de: "Alter Anlegesteg von Muara", hu: "Muara régi mólója", ro: "Vechiul debarcader din Muara", en: "Old Muara Jetty" },
-    coordinates: { lat: 5.0195, lng: 115.0665 },
+    coords: [115.0665, 5.0195],
     description: {
       de: "Dieser historische Anlegesteg war einst der Hauptankunftspunkt für Kohletransporte aus der Brooketon Colliery. Er ist ein Relikt der industriellen Frühzeit.",
       hu: "Ez a történelmi móló egykor a Brooketon szénbányából érkező szállítmányok fő érkezési pontja volt. Az ipari korszak kezdetének maradványa.",
@@ -2222,7 +2222,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-labi-road-wwii-site-history-v2",
     type: "ruins",
     name: { de: "Labi Road Kriegsgeschichtspfad", hu: "Labi Road hadtörténeti ösvény", ro: "Situl istoric de război Labi Road", en: "Labi Road War Site" },
-    coordinates: { lat: 4.5455, lng: 114.3422 },
+    coords: [114.3422, 4.5455],
     description: {
       de: "Ein geschichtsträchtiger Abschnitt der Labi Road, der während des Zweiten Weltkriegs als Versorgungsroute und Verteidigungslinie diente. Spuren von Stellungen sind noch sichtbar.",
       hu: "A Labi Road történelmi szakasza, amely a második világháború alatt utánpótlási útvonalként és védelmi vonalként szolgált. Az állások nyomai még láthatók.",
@@ -2253,7 +2253,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-bukit-subok-defense-history-v2",
     type: "ruins",
     name: { de: "Bukit Subok Verteidigungsruinen", hu: "Bukit Subok védelmi romok", ro: "Ruinele de apărare Bukit Subok", en: "Bukit Subok Defense Ruins" },
-    coordinates: { lat: 4.8915, lng: 114.9555 },
+    coords: [114.9555, 4.8915],
     description: {
       de: "Überreste von Verteidigungsanlagen auf den Hügeln von Bukit Subok, die einen strategischen Überblick über den Brunei-Fluss und die Hauptstadt boten.",
       hu: "Védelmi létesítmények maradványai a Bukit Subok dombjain, amelyek stratégiai kilátást biztosítottak a Brunei-folyóra és a fővárosra.",
@@ -2284,7 +2284,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-muara-beach-landing-marker-history-v2",
     type: "monument",
     name: { de: "Muara Beach Landungsdenkmal", hu: "Muara Beach partraszállási emlékhely", ro: "Monumentul debarcării de pe plaja Muara", en: "Muara Beach Landing Marker" },
-    coordinates: { lat: 5.0345, lng: 115.0585 },
+    coords: [115.0585, 5.0345],
     description: {
       de: "Eine Gedenkstätte am Strand von Muara, die den genauen Ort markiert, an dem alliierte Truppen im Juni 1945 zur Befreiung Bruneis landeten.",
       hu: "Emlékhely Muara strandján, amely azt a pontos helyet jelöli, ahol a szövetséges csapatok 1945 júniusában partra szálltak Brunei felszabadítására.",
@@ -2315,7 +2315,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-bolkiah-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Sultan Bolkiah Palastes", hu: "Bolkiah szultán palotájának romjai", ro: "Ruinele palatului Sultanului Bolkiah", en: "Sultan Bolkiah Palace Ruins" },
-    coordinates: { lat: 4.8835, lng: 114.9662 },
+    coords: [114.9662, 4.8835],
     description: {
       de: "Die archäologischen Überreste des Palastes von Sultan Bolkiah in Kota Batu. Sie spiegeln die Pracht des 15. Jahrhunderts wider, als Brunei ein mächtiges Imperium war.",
       hu: "Bolkiah szultán palotájának régészeti maradványai Kota Batu területén. A 15. századi pompát tükrözik, amikor Brunei hatalmas birodalom volt.",
@@ -2346,7 +2346,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-temburong-rebellion-site-history-v2",
     type: "battlefield",
     name: { de: "Schauplatz der Temburong-Rebellion", hu: "A temburongi lázadás helyszíne", ro: "Locul rebeliunii din Temburong", en: "Temburong Rebellion Site" },
-    coordinates: { lat: 4.7112, lng: 115.0745 },
+    coords: [115.0745, 4.7112],
     description: {
       de: "Ein historisches Gebiet in Bangar, das während der Brunei-Rebellion von 1962 ein Zentrum des Widerstands war. Es ist ein wichtiger Ort für die neuere Geschichte.",
       hu: "Bangar-i történelmi terület, amely az 1962-es brunei lázadás idején az ellenállás központja volt. Fontos helyszín a közelmúlt történelmében.",
@@ -2377,7 +2377,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "brunei-sultan-bolkiah-mausoleum-history-v2",
     type: "monument",
     name: { de: "Sultan Bolkiah Mausoleum", hu: "Bolkiah szultán mauzóleuma", ro: "Mausoleul Sultanului Bolkiah", en: "Sultan Bolkiah Mausoleum" },
-    coordinates: { lat: 4.8841, lng: 114.9658 },
+    coords: [114.9658, 4.8841],
     description: {
       de: "Das prächtige Mausoleum des fünften Sultans, Bolkiah, bekannt als 'Der singende Admiral'. Unter ihm erreichte Brunei seine größte geografische Ausdehnung.",
       hu: "Az ötödik szultán, Bolkiah pompás mauzóleuma, akit 'éneklő admirális' néven ismertek. Alatta érte el Brunei a legnagyobb kiterjedését.",

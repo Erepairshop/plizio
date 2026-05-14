@@ -5,7 +5,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-vermont-nature-trail-life-v2",
     type: "wildlife",
     name: { de: "Vermont Naturpfad", hu: "Vermont Tanösvény", ro: "Traseul Naturii Vermont", en: "Vermont Nature Trail" },
-    coordinates: { lat: 13.21, lng: -61.22 },
+    coords: [-61.22, 13.21],
     description: {
       de: "Dieses Reservat bewahrt den Lebensraum der seltenen Königsamazone inmitten dichter tropischer Regenwälder.",
       hu: "Ez a rezervátum a ritka Szent Vincent-i amazon élőhelyét őrzi a sűrű trópusi esőerdők mélyén.",
@@ -24,7 +24,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-montreal-gardens-life-v2",
     type: "park",
     name: { de: "Montreal Gärten", hu: "Montreal Kertek", ro: "Grădinile Montreal", en: "Montreal Gardens" },
-    coordinates: { lat: 13.205, lng: -61.185 },
+    coords: [-61.185, 13.205],
     description: {
       de: "Ein privater botanischer Garten in einem üppigen Tal mit einer vielfältigen Sammlung exotischer Blumen.",
       hu: "Magánkézben lévő botanikus kert egy buja völgyben, egzotikus virágok változatos gyűjteményével.",
@@ -43,7 +43,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-tobago-cays-marine-park-life-v2",
     type: "wildlife",
     name: { de: "Tobago Cays Marinepark", hu: "Tobago Cays Tengeri Park", ro: "Parcul Marin Tobago Cays", en: "Tobago Cays Marine Park" },
-    coordinates: { lat: 12.633, lng: -61.355 },
+    coords: [-61.355, 12.633],
     description: {
       de: "Dieses Meeresschutzgebiet umfasst fünf unbewohnte Inseln und ist bekannt für seine Korallenriffe und Meeresschildkröten.",
       hu: "Ez a tengeri védett terület öt lakatlan szigetet foglal magában, korallzátonyairól és teknőseiről ismert.",
@@ -62,7 +62,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-union-island-gecko-reserve-life-v2",
     type: "wildlife",
     name: { de: "Union Island Gecko Reservat", hu: "Union Island-i Gekkó Rezervátum", ro: "Rezervația de Gekko din Union Island", en: "Union Island Gecko Reserve" },
-    coordinates: { lat: 12.603, lng: -61.446 },
+    coords: [-61.446, 12.603],
     description: {
       de: "Dieses Reservat schützt den extrem gefährdeten Union Island Gecko, eine winzige endemische Reptilienart.",
       hu: "Ez a rezervátum a rendkívül veszélyeztetett Union Island-i gekkót, egy apró, endemikus hüllőfajt védi.",
@@ -81,7 +81,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-ashton-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Ashton Lagune", hu: "Ashton-lagúna", ro: "Laguna Ashton", en: "Ashton Lagoon" },
-    coordinates: { lat: 12.595, lng: -61.438 },
+    coords: [-61.438, 12.595],
     description: {
       de: "Das größte Mangroven-Ökosystem in St. Vincent und den Grenadinen, das nach umfangreichen Bemühungen wiederhergestellt wurde.",
       hu: "Szent Vincent és a Grenadine-szigetek legnagyobb mangrove ökoszisztémája, amelyet hosszas munka után állítottak helyre.",
@@ -100,7 +100,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-petit-canouan-wildlife-reserve-life-v2",
     type: "wildlife",
     name: { de: "Petit Canouan Wildtierreservat", hu: "Petit Canouan Vadvédelmi Rezervátum", ro: "Rezervația de Faună Petit Canouan", en: "Petit Canouan Wildlife Reserve" },
-    coordinates: { lat: 12.802, lng: -61.252 },
+    coords: [-61.252, 12.802],
     description: {
       de: "Eine unbewohnte Insel, die als strenges Wildtierreservat für brütende Seevögel ausgewiesen ist.",
       hu: "Egy lakatlan sziget, amelyet szigorú vadvédelmi rezervátumnak jelöltek ki a fészkelő tengeri madarak számára.",
@@ -119,7 +119,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-mustique-turtle-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Mustique Schildkrötenschutzgebiet", hu: "Mustique-i Teknősrezervátum", ro: "Sanctuarul de Țestoase din Mustique", en: "Mustique Turtle Sanctuary" },
-    coordinates: { lat: 12.88, lng: -61.18 },
+    coords: [-61.18, 12.88],
     description: {
       de: "Ein Schutzgebiet auf der Insel Mustique, das sich der Erhaltung und Überwachung von Meeresschildkröten widmet.",
       hu: "Mustique szigetén található védett terület, amely a tengeri teknősök megőrzésére és megfigyelésére összpontosít.",
@@ -138,7 +138,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-palm-island-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Palm Island Vogelschutzgebiet", hu: "Palm Island Madárrezervátum", ro: "Sanctuarul de Păsări din Palm Island", en: "Palm Island Bird Sanctuary" },
-    coordinates: { lat: 12.585, lng: -61.398 },
+    coords: [-61.398, 12.585],
     description: {
       de: "Ein privates Reservat auf Palm Island, das als Zufluchtsort für Land- und Seevögel sowie Landschildkröten dient.",
       hu: "Magánrezervátum a Palm Islanden, amely szárazföldi és tengeri madarak, valamint teknősök menedékhelye.",
@@ -157,7 +157,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-richmond-vale-nature-park-life-v2",
     type: "park",
     name: { de: "Richmond Vale Naturpark", hu: "Richmond Vale Natúrpark", ro: "Parcul Natural Richmond Vale", en: "Richmond Vale Nature Park" },
-    coordinates: { lat: 13.31, lng: -61.205 },
+    coords: [-61.205, 13.31],
     description: {
       de: "Ein Park im Nordwesten der Insel, der sich auf Nachhaltigkeit und die Erhaltung des tropischen Waldes konzentriert.",
       hu: "A sziget északnyugati részén fekvő park, amely a fenntarthatóságra és a trópusi erdő megőrzésére összpontosít.",
@@ -176,7 +176,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-cumberland-nature-trail-life-v2",
     type: "park",
     name: { de: "Cumberland Naturpfad", hu: "Cumberland Tanösvény", ro: "Traseul Naturii Cumberland", en: "Cumberland Nature Trail" },
-    coordinates: { lat: 13.268, lng: -61.218 },
+    coords: [-61.218, 13.268],
     description: {
       de: "Ein Wanderweg durch Sekundärregenwald, der für seine Vogelbeobachtungsmöglichkeiten und Farnvielfalt bekannt ist.",
       hu: "Másodlagos esőerdőn áthaladó ösvény, amely madármegfigyelési lehetőségeiről és páfrányairól ismert.",
@@ -195,7 +195,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-wallilabou-nature-park-life-v2",
     type: "park",
     name: { de: "Wallilabou Naturpark", hu: "Wallilabou Natúrpark", ro: "Parcul Natural Wallilabou", en: "Wallilabou Nature Park" },
-    coordinates: { lat: 13.248, lng: -61.266 },
+    coords: [-61.266, 13.248],
     description: {
       de: "Ein Küstenpark mit Wasserfällen und üppiger Vegetation, der auch als Drehort für Hollywood-Filme diente.",
       hu: "Vízesésekkel és dús növényzettel teli parti park, amely hollywoodi filmek forgatási helyszíneként is szolgált.",
@@ -214,7 +214,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-dark-view-nature-area-life-v2",
     type: "wildlife",
     name: { de: "Dark View Naturgebiet", hu: "Dark View Természeti Terület", ro: "Zona Naturală Dark View", en: "Dark View Nature Area" },
-    coordinates: { lat: 13.285, lng: -61.25 },
+    coords: [-61.25, 13.285],
     description: {
       de: "Ein geschütztes Gebiet mit spektakulären Doppelwasserfällen und einem intakten Flussökosystem.",
       hu: "Védett terület látványos kettős vízeséssel és érintetlen folyami ökoszisztémával.",
@@ -233,7 +233,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-owia-salt-pond-park-life-v2",
     type: "park",
     name: { de: "Owia Salzteich Park", hu: "Owia Sóstó Park", ro: "Parcul Owia Salt Pond", en: "Owia Salt Pond Park" },
-    coordinates: { lat: 13.375, lng: -61.145 },
+    coords: [-61.145, 13.375],
     description: {
       de: "Ein natürliches Meeresbecken an der Nordostküste, das durch vulkanische Felsbarrieren vor der Brandung geschützt ist.",
       hu: "Természetes tengeri medence az északkeleti parton, amelyet vulkáni kőzetgát véd a hullámoktól.",
@@ -252,7 +252,7 @@ export const saintvincentLifeV2: POI[] = [
     id: "saintvincent-mesopotamia-valley-nature-reserve-life-v2",
     type: "forest",
     name: { de: "Mesopotamia Tal Naturschutzgebiet", hu: "Mezopotámia-völgy Természetvédelmi Terület", ro: "Rezervația Naturală Valea Mesopotamia", en: "Mesopotamia Valley Nature Reserve" },
-    coordinates: { lat: 13.175, lng: -61.175 },
+    coords: [-61.175, 13.175],
     description: {
       de: "Bekannt als die Speisekammer der Insel, beherbergt dieses Tal eine immense Vielfalt an tropischen Pflanzen und Feldfrüchten.",
       hu: "A sziget élelemraktáraként ismert völgy trópusi növények és termények hatalmas választékának ad otthont.",

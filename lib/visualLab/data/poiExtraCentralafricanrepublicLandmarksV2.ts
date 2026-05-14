@@ -754,7 +754,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-musee-des-arts-et-traditions-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Kunst und Traditionen", hu: "Művészeti és Hagyományok Múzeuma", ro: "Muzeul de Artă și Tradiții", en: "Museum of Arts and Traditions" },
-    coordinates: { lat: 4.3642, lng: 18.5581 },
+    coords: [18.5581, 4.3642],
     description: {
       de: "Dieses Museum in Bangui bewahrt Artefakte der zentralafrikanischen Kultur. Es dokumentiert die Geschichte und Kunst verschiedener Volksgruppen.",
       hu: "Ez a bangui-i múzeum közép-afrikai kulturális leleteket őriz. Dokumentálja a különböző népcsoportok történelmét és művészetét.",
@@ -785,7 +785,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-eglise-catholique-saint-joseph-landmarks-v2",
     type: "church",
     name: { de: "Sankt-Joseph-Kirche", hu: "Szent József-templom", ro: "Biserica Sfântul Iosif", en: "Saint Joseph Church" },
-    coordinates: { lat: 4.3725, lng: 18.5639 },
+    coords: [18.5639, 4.3725],
     description: {
       de: "Die Sankt-Joseph-Kirche ist ein sakrales Gebäude im Zentrum von Bangui. Sie dient der lokalen katholischen Gemeinde als spirituelles Zentrum.",
       hu: "A Szent József-templom egy szakrális épület Bangui központjában. A helyi katolikus közösség spirituális központjaként szolgál.",
@@ -816,7 +816,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-bibliotheque-nationale-centrafricaine-landmarks-v2",
     type: "museum",
     name: { de: "Zentralafrikanische Nationalbibliothek", hu: "Közép-afrikai Nemzeti Könyvtár", ro: "Biblioteca Națională a Republicii Centrafricane", en: "Central African National Library" },
-    coordinates: { lat: 4.3688, lng: 18.5712 },
+    coords: [18.5712, 4.3688],
     description: {
       de: "Die Nationalbibliothek bewahrt das literarische und historische Erbe des Landes. Sie dient als zentrale Anlaufstelle für Forschung und Archivierung.",
       hu: "A Nemzeti Könyvtár az ország irodalmi és történelmi örökségét őrzi. A kutatás és archiválás központi helyszíneként szolgál.",
@@ -847,7 +847,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-palais-du-peuple-landmarks-v2",
     type: "palace",
     name: { de: "Palast des Volkes", hu: "A Nép Palotája", ro: "Palatul Poporului", en: "People's Palace" },
-    coordinates: { lat: 4.3755, lng: 18.5755 },
+    coords: [18.5755, 4.3755],
     description: {
       de: "Der Palast des Volkes ist ein offizielles Gebäude in Bangui. Er wird für staatliche Zeremonien und Versammlungen genutzt.",
       hu: "A Nép Palotája egy hivatalos épület Banguiban. Állami ünnepségek és gyűlések számára használják.",
@@ -878,7 +878,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-pont-sur-la-riviere-mpoko-landmarks-v2",
     type: "bridge",
     name: { de: "Mpoko-Flussbrücke", hu: "Mpoko folyami híd", ro: "Podul peste râul Mpoko", en: "Mpoko River Bridge" },
-    coordinates: { lat: 4.3892, lng: 18.5145 },
+    coords: [18.5145, 4.3892],
     description: {
       de: "Diese Brücke überquert den Mpoko-Fluss in der Nähe von Bangui. Sie ist eine wichtige Infrastrukturverbindung für den regionalen Verkehr.",
       hu: "Ez a híd a Mpoko folyón ível át Bangui közelében. Fontos infrastrukturális kapcsolat a regionális forgalom számára.",
@@ -909,7 +909,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-cathedrale-saint-charles-borromee-landmarks-v2",
     type: "cathedral",
     name: { de: "Sankt-Karl-Borromäus-Kathedrale", hu: "Szent Károly Borromeo-katedrális", ro: "Catedrala Sfântul Carol Borromeo", en: "Saint Charles Borromeo Cathedral" },
-    coordinates: { lat: 5.2891, lng: 15.6823 },
+    coords: [15.6823, 5.2891],
     description: {
       de: "Diese Kathedrale befindet sich in Berberati. Sie ist eines der größten religiösen Gebäude im Westen des Landes.",
       hu: "Ez a katedrális Berberátiban található. Az ország nyugati részének egyik legnagyobb vallási épülete.",
@@ -940,7 +940,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-hopital-de-bouar-landmarks-v2",
     type: "landmark",
     name: { de: "Krankenhaus von Bouar", hu: "Bouar kórháza", ro: "Spitalul din Bouar", en: "Hospital of Bouar" },
-    coordinates: { lat: 5.9688, lng: 15.6021 },
+    coords: [15.6021, 5.9688],
     description: {
       de: "Das Krankenhaus von Bouar ist eine bedeutende medizinische Einrichtung in der Region Nana-Mambéré. Es leistet medizinische Grundversorgung für die Bevölkerung.",
       hu: "Bouar kórháza egy jelentős egészségügyi intézmény Nana-Mambéré régióban. Alapvető orvosi ellátást biztosít a lakosság számára.",
@@ -971,7 +971,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-maison-de-la-culture-bambari-landmarks-v2",
     type: "museum",
     name: { de: "Kulturhaus Bambari", hu: "Bambari Kulturális Ház", ro: "Casa de Cultură din Bambari", en: "Bambari Culture House" },
-    coordinates: { lat: 5.7651, lng: 20.6792 },
+    coords: [20.6792, 5.7651],
     description: {
       de: "Das Kulturhaus in Bambari ist ein Treffpunkt für lokale Kunst und Musik. Es fördert das kulturelle Leben in der Ouaka-Region.",
       hu: "A bambari-i Kulturális Ház a helyi művészet és zene találkozóhelye. Támogatja a kulturális életet a Ouaka régióban.",
@@ -1002,7 +1002,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-stade-municipal-de-berberati-landmarks-v2",
     type: "landmark",
     name: { de: "Städtisches Stadion Berberati", hu: "Berberati Városi Stadion", ro: "Stadionul Municipal din Berberati", en: "Berberati Municipal Stadium" },
-    coordinates: { lat: 4.2755, lng: 15.7922 },
+    coords: [15.7922, 4.2755],
     description: {
       de: "Das städtische Stadion von Berberati dient als Sport- und Veranstaltungsort. Es ist die wichtigste Sportstätte in dieser Stadt.",
       hu: "Berberati városi stadionja sport- és rendezvényhelyszínként szolgál. Ez a város legfontosabb sportlétesítménye.",
@@ -1033,7 +1033,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-lycee-boganda-bangui-landmarks-v2",
     type: "landmark",
     name: { de: "Lycée Boganda", hu: "Boganda Gimnázium", ro: "Liceul Boganda", en: "Boganda High School" },
-    coordinates: { lat: 4.3655, lng: 18.5788 },
+    coords: [18.5788, 4.3655],
     description: {
       de: "Das Lycée Boganda ist eine bekannte Bildungseinrichtung in Bangui. Es trägt den Namen des ersten Premierministers der Republik.",
       hu: "A Boganda Gimnázium egy ismert oktatási intézmény Banguiban. A köztársaság első miniszterelnökének nevét viseli.",
@@ -1064,7 +1064,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-cathedrale-saint-pierre-bossangoa-landmarks-v2",
     type: "cathedral",
     name: { de: "Sankt-Peter-Kathedrale Bossangoa", hu: "Szent Péter-katedrális Bossangoa", ro: "Catedrala Sfântul Petru din Bossangoa", en: "Saint Peter Cathedral Bossangoa" },
-    coordinates: { lat: 6.4955, lng: 17.4488 },
+    coords: [17.4488, 6.4955],
     description: {
       de: "Die Sankt-Peter-Kathedrale in Bossangoa ist ein wichtiges religiöses Zentrum in der Region Ouham. Sie hat eine bedeutende Architektur.",
       hu: "A bossangoai Szent Péter-katedrális fontos vallási központ Ouham régióban. Jelentős építészettel rendelkezik.",
@@ -1095,7 +1095,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-mairie-de-berberati-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Berberati", hu: "Berberati Városháza", ro: "Primăria din Berberati", en: "City Hall of Berberati" },
-    coordinates: { lat: 4.2762, lng: 15.7935 },
+    coords: [15.7935, 4.2762],
     description: {
       de: "Das Rathaus von Berberati ist der Sitz der städtischen Verwaltung. Es befindet sich im Stadtzentrum.",
       hu: "Berberati városháza a városi közigazgatás székhelye. A városközpontban található.",
@@ -1126,7 +1126,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-pont-de-bambari-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Bambari", hu: "Bambari híd", ro: "Podul din Bambari", en: "Bambari Bridge" },
-    coordinates: { lat: 5.7622, lng: 20.6755 },
+    coords: [20.6755, 5.7622],
     description: {
       de: "Diese Brücke überquert den Ouaka-Fluss in Bambari. Sie ist ein entscheidender Punkt für den lokalen Transport.",
       hu: "Ez a híd a Ouaka folyót keresztezi Bambariban. Döntő pont a helyi közlekedés számára.",
@@ -1157,7 +1157,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-lycee-berberati-landmarks-v2",
     type: "landmark",
     name: { de: "Lycée Berberati", hu: "Berberati Gimnázium", ro: "Liceul din Berberati", en: "Berberati High School" },
-    coordinates: { lat: 4.2711, lng: 15.7895 },
+    coords: [15.7895, 4.2711],
     description: {
       de: "Das Lycée Berberati ist eine wichtige Schule in der Stadt Berberati. Sie ist ein zentraler Ort für die Sekundarbildung in der Region.",
       hu: "A Berberati Gimnázium egy fontos iskola Berberati városában. Központi helyszín a középfokú oktatás számára a régióban.",
@@ -1188,7 +1188,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-mosquee-de-bambari-landmarks-v2",
     type: "church",
     name: { de: "Moschee von Bambari", hu: "Bambari mecset", ro: "Moscheea din Bambari", en: "Mosque of Bambari" },
-    coordinates: { lat: 5.7685, lng: 20.6811 },
+    coords: [20.6811, 5.7685],
     description: {
       de: "Die Moschee von Bambari ist ein bedeutendes religiöses Zentrum für die muslimische Gemeinschaft in der Stadt.",
       hu: "A bambari-i mecset a város muszlim közösségének jelentős vallási központja.",
@@ -1219,7 +1219,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-stade-kaga-bandoro-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion Kaga-Bandoro", hu: "Kaga-Bandoro Stadion", ro: "Stadionul Kaga-Bandoro", en: "Kaga-Bandoro Stadium" },
-    coordinates: { lat: 6.9625, lng: 19.1882 },
+    coords: [19.1882, 6.9625],
     description: {
       de: "Das Stadion in Kaga-Bandoro dient für Sportveranstaltungen der lokalen Gemeinschaft. Es ist das wichtigste Stadion in Nana-Gribizi.",
       hu: "A kaga-bandoro-i stadion a helyi közösség sporteseményei számára szolgál. Ez a legfontosabb stadion Nana-Gribiziben.",
@@ -1250,7 +1250,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-hotel-de-ville-bossangoa-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Bossangoa", hu: "Bossangoa Városháza", ro: "Primăria din Bossangoa", en: "City Hall of Bossangoa" },
-    coordinates: { lat: 6.4912, lng: 17.4422 },
+    coords: [17.4422, 6.4912],
     description: {
       de: "Das Rathaus von Bossangoa ist das Verwaltungszentrum der Stadt. Es ist ein wichtiger Ort für die lokale Regierung.",
       hu: "Bossangoa városháza a város közigazgatási központja. Fontos helyszín a helyi önkormányzat számára.",
@@ -1281,7 +1281,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-eglise-baptiste-bangui-landmarks-v2",
     type: "church",
     name: { de: "Baptistenkirche Bangui", hu: "Bangui Baptista Templom", ro: "Biserica Baptistă din Bangui", en: "Baptist Church of Bangui" },
-    coordinates: { lat: 4.3633, lng: 18.5711 },
+    coords: [18.5711, 4.3633],
     description: {
       de: "Die Baptistenkirche in Bangui ist ein Ort des Gottesdienstes für die lokale protestantische Gemeinde. Sie hat eine moderne Architektur.",
       hu: "A bangui-i Baptista Templom az istentisztelet helyszíne a helyi protestáns közösség számára. Modern építészettel rendelkezik.",
@@ -1312,7 +1312,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-tour-de-l-horloge-bangui-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm Bangui", hu: "Bangui óratorony", ro: "Turnul cu ceas din Bangui", en: "Clock Tower of Bangui" },
-    coordinates: { lat: 4.3675, lng: 18.5755 },
+    coords: [18.5755, 4.3675],
     description: {
       de: "Der Uhrturm in Bangui ist ein bekanntes architektonisches Element im Stadtzentrum. Er dient zur Zeitangabe für die Einwohner.",
       hu: "A bangui-i óratorony egy ismert építészeti elem a városközpontban. Időjelzésre szolgál a lakosok számára.",
@@ -1343,7 +1343,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-palais-de-la-culture-mbaiki-landmarks-v2",
     type: "museum",
     name: { de: "Kulturpalast Mbaïki", hu: "Mbaïki Kulturális Palota", ro: "Palatul Culturii din Mbaïki", en: "Mbaïki Culture Palace" },
-    coordinates: { lat: 3.8712, lng: 17.9822 },
+    coords: [17.9822, 3.8712],
     description: {
       de: "Der Kulturpalast in Mbaïki ist ein Zentrum zur Förderung lokaler Traditionen. Er beherbergt Ausstellungen über die Geschichte der Region.",
       hu: "Az mbaïki-i Kulturális Palota a helyi hagyományok népszerűsítésének központja. Kiállításoknak ad otthont a régió történetéről.",
@@ -1374,7 +1374,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-ecole-superieure-bangassou-landmarks-v2",
     type: "landmark",
     name: { de: "Hochschule Bangassou", hu: "Bangassou Főiskola", ro: "Colegiul Superior din Bangassou", en: "Higher Education College Bangassou" },
-    coordinates: { lat: 4.7411, lng: 22.8122 },
+    coords: [22.8122, 4.7411],
     description: {
       de: "Diese Bildungseinrichtung in Bangassou bietet fortgeschrittene Ausbildungsmöglichkeiten. Sie ist für die Region Mbomou wichtig.",
       hu: "Ez az oktatási intézmény Bangassouban fejlett képzési lehetőségeket kínál. Fontos a Mbomou régió számára.",
@@ -1405,7 +1405,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-pont-de-berberati-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Berberati", hu: "Berberati híd", ro: "Podul din Berberati", en: "Berberati Bridge" },
-    coordinates: { lat: 4.2725, lng: 15.7955 },
+    coords: [15.7955, 4.2725],
     description: {
       de: "Diese Brücke ist ein wichtiger Knotenpunkt für den Verkehr in Berberati. Sie ermöglicht den Zugang zum Stadtzentrum.",
       hu: "Ez a híd fontos közlekedési csomópont Berberátiban. Lehetővé teszi a belépést a városközpontba.",
@@ -1436,7 +1436,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     id: "centralafricanrepublic-monument-de-la-paix-bangassou-landmarks-v2",
     type: "monument",
     name: { de: "Friedensdenkmal Bangassou", hu: "Bangassou Békemű", ro: "Monumentul Păcii din Bangassou", en: "Peace Monument Bangassou" },
-    coordinates: { lat: 4.7455, lng: 22.8211 },
+    coords: [22.8211, 4.7455],
     description: {
       de: "Das Friedensdenkmal in Bangassou symbolisiert das Streben nach Stabilität in der Region. Es steht in einem öffentlichen Park.",
       hu: "A bangassou-i Békemű a régió stabilitásának törekvését szimbolizálja. Egy közparkban áll.",

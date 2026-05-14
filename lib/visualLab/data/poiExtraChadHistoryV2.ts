@@ -650,7 +650,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-fort-lamy-remnants-history-v2",
     type: "ruins",
     name: { de: "Überreste von Fort-Lamy", hu: "Fort-Lamy maradványai", ro: "Rămășițe ale Fort-Lamy", en: "Fort-Lamy Remnants" },
-    coordinates: { lat: 12.1348, lng: 15.0441 },
+    coords: [15.0441, 12.1348],
     description: {
       de: "Historische Überreste der französischen Befestigungsanlage aus dem Jahr 1900. Sie markiert den Ursprung des modernen N'Djamena.",
       hu: "Az 1900-ban épült francia erődítmény történelmi maradványai. Ez jelzi a modern N'Djamena eredetét.",
@@ -681,7 +681,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-kouloudia-archaeological-history-v2",
     type: "ruins",
     name: { de: "Kouloudia archäologische Stätte", hu: "Kouloudia régészeti lelőhely", ro: "Sit arheologic Kouloudia", en: "Kouloudia Archaeological Site" },
-    coordinates: { lat: 11.85, lng: 14.9 },
+    coords: [14.9, 11.85],
     description: {
       de: "Eine bedeutende Fundstätte der Sao-Kultur nahe dem Tschadsee. Hier wurden Fragmente von Terrakotta-Gefäßen entdeckt.",
       hu: "Jelentős Sao-kulturális lelőhely a Csád-tó közelében. Terrakotta edénytöredékeket tártak fel itt.",
@@ -712,7 +712,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-barka-sultanate-ruins-history-v2",
     type: "ruins",
     name: { de: "Barka Sultanat Ruinen", hu: "Barka Szultanátus romjai", ro: "Ruinele Sultanatului Barka", en: "Barka Sultanate Ruins" },
-    coordinates: { lat: 13.5, lng: 21.2 },
+    coords: [21.2, 13.5],
     description: {
       de: "Überreste einer historischen Siedlung des Barka-Sultanats im Osten des Tschad. Die Stätte zeigt Einflüsse regionaler Handelsnetzwerke.",
       hu: "A Barka Szultanátus történelmi településének maradványai Csád keleti részén. A lelőhely regionális kereskedelmi hatásokat mutat.",
@@ -743,7 +743,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-kalam-ancient-settlement-history-v2",
     type: "ruins",
     name: { de: "Kalam antike Siedlung", hu: "Kalam ősi település", ro: "Așezarea antică Kalam", en: "Kalam Ancient Settlement" },
-    coordinates: { lat: 10.55, lng: 15.6 },
+    coords: [15.6, 10.55],
     description: {
       de: "Eine antike Siedlungsstätte, die Aufschluss über frühe landwirtschaftliche Praktiken in der Region gibt. Die Stätte wird von Archäologen untersucht.",
       hu: "Ősi település, amely betekintést nyújt a régió korai mezőgazdasági gyakorlataiba. A helyszínt régészek kutatják.",
@@ -774,7 +774,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-dourbali-colonial-fort-history-v2",
     type: "monument",
     name: { de: "Dourbali Kolonialfestung", hu: "Dourbali gyarmati erőd", ro: "Fortul colonial Dourbali", en: "Dourbali Colonial Fort" },
-    coordinates: { lat: 11.81, lng: 15.82 },
+    coords: [15.82, 11.81],
     description: {
       de: "Ein ehemaliges französisches Militärgebäude aus der Zeit der Kolonialisierung. Es diente als Kontrollpunkt für die Handelsrouten.",
       hu: "Egykori francia katonai épület a gyarmatosítás idejéből. A kereskedelmi útvonalak ellenőrzőpontjaként szolgált.",
@@ -805,7 +805,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-tata-fort-history-v2",
     type: "ruins",
     name: { de: "Tata Befestigung", hu: "Tata erődítmény", ro: "Fortificația Tata", en: "Tata Fortification" },
-    coordinates: { lat: 12.5, lng: 18.2 },
+    coords: [18.2, 12.5],
     description: {
       de: "Traditionelle Befestigungsmauern aus Lehm, die einst zum Schutz lokaler Gemeinschaften dienten. Ein Beispiel für regionale Verteidigungsarchitektur.",
       hu: "Hagyományos vályog védőfalak, amelyek egykor a helyi közösségek védelmét szolgálták. A regionális védelmi építészet példája.",
@@ -836,7 +836,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-massakory-monument-history-v2",
     type: "monument",
     name: { de: "Massakory Denkmal", hu: "Massakory emlékmű", ro: "Monumentul Massakory", en: "Massakory Monument" },
-    coordinates: { lat: 13.0, lng: 15.73 },
+    coords: [15.73, 13.0],
     description: {
       de: "Ein lokales Denkmal, das an historische Ereignisse der Region Hadjer-Lamis erinnert. Es steht im Zentrum der Stadt.",
       hu: "Helyi emlékmű, amely a Hadjer-Lamis régió történelmi eseményeire emlékezik. A város központjában áll.",
@@ -867,7 +867,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-koro-toro-ruins-history-v2",
     type: "ruins",
     name: { de: "Koro Toro Ruinen", hu: "Koro Toro romok", ro: "Ruinele Koro Toro", en: "Koro Toro Ruins" },
-    coordinates: { lat: 16.03, lng: 17.5 },
+    coords: [17.5, 16.03],
     description: {
       de: "Historische Stätte im Borkou-Gebiet, die für ihre archäologischen Funde bekannt ist. Sie belegt frühe menschliche Aktivitäten in der Sahara.",
       hu: "Történelmi lelőhely a Borkou régióban, amely régészeti leleteiről ismert. Tanúskodik a korai emberi tevékenységről a Szaharában.",
@@ -898,7 +898,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-abeche-royal-tomb-history-v2",
     type: "monument",
     name: { de: "Abéché Königliches Grabmal", hu: "Abéché királyi sírhely", ro: "Mormântul regal Abéché", en: "Abéché Royal Tomb" },
-    coordinates: { lat: 13.82, lng: 20.83 },
+    coords: [20.83, 13.82],
     description: {
       de: "Historische Grabstätte bedeutender Herrscher des Ouaddaï-Sultanats. Ein architektonisch bedeutsames Zeugnis der lokalen Geschichte.",
       hu: "Az Ouaddaï Szultanátus jelentős uralkodóinak történelmi sírhelye. Építészetileg jelentős tanúbizonysága a helyi történelemnek.",
@@ -929,7 +929,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-ati-historic-market-history-v2",
     type: "landmark",
     name: { de: "Historischer Markt von Ati", hu: "Ati történelmi piaca", ro: "Piața istorică din Ati", en: "Ati Historic Market" },
-    coordinates: { lat: 13.21, lng: 18.33 },
+    coords: [18.33, 13.21],
     description: {
       de: "Ein alter Handelsplatz, der seit Jahrhunderten ein Zentrum für den Austausch zwischen den nördlichen und südlichen Regionen des Tschad ist.",
       hu: "Régi kereskedelmi tér, amely évszázadok óta a Csád északi és déli régiói közötti cserekereskedelem központja.",
@@ -960,7 +960,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-gaoui-sao-ruins-history-v2",
     type: "ruins",
     name: { de: "Gaoui Sao Ruinen", hu: "Gaoui Sao romok", ro: "Ruinele Sao din Gaoui", en: "Gaoui Sao Ruins" },
-    coordinates: { lat: 12.16, lng: 15.11 },
+    coords: [15.11, 12.16],
     description: {
       de: "Überreste der alten Sao-Zivilisation nahe N'Djamena. Bekannt für ihre einzigartige Architektur und Töpferwaren.",
       hu: "Az ókori Sao civilizáció maradványai N'Djamena közelében. Egyedi építészetéről és kerámiáiról ismert.",
@@ -991,7 +991,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-barda-historic-oasis-history-v2",
     type: "landmark",
     name: { de: "Bardaï Historische Oase", hu: "Bardaï történelmi oázis", ro: "Oaza istorică Bardaï", en: "Bardaï Historic Oasis" },
-    coordinates: { lat: 21.35, lng: 17.0 },
+    coords: [17.0, 21.35],
     description: {
       de: "Eine bedeutende Oase im Tibesti-Gebirge, die seit langer Zeit ein Zufluchtsort und Handelszentrum für Nomaden ist.",
       hu: "Jelentős oázis a Tibesti-hegységben, amely hosszú ideje menedék és kereskedelmi központ a nomádok számára.",
@@ -1022,7 +1022,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-fada-ancient-cave-history-v2",
     type: "ruins",
     name: { de: "Fada Antike Höhlenmalerei", hu: "Fada ősi barlangrajzok", ro: "Picturi rupestre antice Fada", en: "Fada Ancient Cave Art" },
-    coordinates: { lat: 17.18, lng: 21.5 },
+    coords: [21.5, 17.18],
     description: {
       de: "Prähistorische Höhlenmalereien im Ennedi-Massiv, die das tägliche Leben früher Bewohner der Region darstellen.",
       hu: "Őskori barlangrajzok az Ennedi-masszívumban, amelyek a régió korai lakóinak mindennapjait ábrázolják.",
@@ -1053,7 +1053,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-yamu-sultanate-ruins-history-v2",
     type: "ruins",
     name: { de: "Yamu Sultanat Ruinen", hu: "Yamu Szultanátus romjai", ro: "Ruinele Sultanatului Yamu", en: "Yamu Sultanate Ruins" },
-    coordinates: { lat: 12.8, lng: 19.4 },
+    coords: [19.4, 12.8],
     description: {
       de: "Überreste der Residenz des Yamu-Sultanats im Herzen der Region Ouaddaï. Ein Zeugnis vergangener regionaler Macht.",
       hu: "A Yamu Szultanátus rezidenciájának maradványai az Ouaddaï régió szívében. A múltbeli regionális hatalom tanúbizonysága.",
@@ -1084,7 +1084,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-gounou-gaya-historic-site-history-v2",
     type: "ruins",
     name: { de: "Gounou-Gaya historische Stätte", hu: "Gounou-Gaya történelmi lelőhely", ro: "Sit istoric Gounou-Gaya", en: "Gounou-Gaya Historic Site" },
-    coordinates: { lat: 9.65, lng: 15.5 },
+    coords: [15.5, 9.65],
     description: {
       de: "Eine Stätte mit architektonischen Überresten der lokalen Stämme, die die Entwicklung der Siedlungsstruktur im Südwesten dokumentiert.",
       hu: "Olyan helyszín a helyi törzsek építészeti maradványaival, amely dokumentálja a településszerkezet fejlődését délnyugaton.",
@@ -1115,7 +1115,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-bongor-colonial-administration-history-v2",
     type: "monument",
     name: { de: "Bongor Kolonialgebäude", hu: "Bongor gyarmati épület", ro: "Clădire colonială Bongor", en: "Bongor Colonial Building" },
-    coordinates: { lat: 10.28, lng: 15.37 },
+    coords: [15.37, 10.28],
     description: {
       de: "Ein ehemaliges Verwaltungsgebäude aus der französischen Kolonialzeit, das heute an die Geschichte der Logone-Region erinnert.",
       hu: "Egykori közigazgatási épület a francia gyarmati időkből, amely ma a Logone régió történetére emlékeztet.",
@@ -1146,7 +1146,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-léré-historical-palace-history-v2",
     type: "palace",
     name: { de: "Léré Historischer Palast", hu: "Léré történelmi palota", ro: "Palatul istoric din Léré", en: "Léré Historical Palace" },
-    coordinates: { lat: 9.58, lng: 14.15 },
+    coords: [14.15, 9.58],
     description: {
       de: "Der Palast des lokalen Herrschers, ein Zentrum der traditionellen Macht im Südwesten des Landes.",
       hu: "A helyi uralkodó palotája, a hagyományos hatalom központja az ország délnyugati részén.",
@@ -1177,7 +1177,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-faya-military-ruins-history-v2",
     type: "ruins",
     name: { de: "Faya Militärruinen", hu: "Faya katonai romok", ro: "Ruine militare Faya", en: "Faya Military Ruins" },
-    coordinates: { lat: 17.92, lng: 19.1 },
+    coords: [19.1, 17.92],
     description: {
       de: "Reste einer Befestigungsanlage in der Sahara, die strategisch wichtig für die Kontrolle des Nordens war.",
       hu: "Egy erődítmény maradványai a Szaharában, amely stratégiailag fontos volt az északi területek ellenőrzéséhez.",
@@ -1208,7 +1208,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-mao-traditional-seat-history-v2",
     type: "landmark",
     name: { de: "Mao Historischer Sitz", hu: "Mao történelmi székhely", ro: "Sediul istoric din Mao", en: "Mao Historical Seat" },
-    coordinates: { lat: 14.12, lng: 15.3 },
+    coords: [15.3, 14.12],
     description: {
       de: "Historischer Regierungssitz des Kanem-Sultanats. Die Stätte symbolisiert die Verbindung zwischen alter Macht und lokaler Tradition.",
       hu: "A Kanem Szultanátus történelmi kormányzati székhelye. A helyszín az ősi hatalom és a helyi tradíció közötti kapcsolatot szimbolizálja.",
@@ -1239,7 +1239,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-sarh-colonial-bridge-history-v2",
     type: "bridge",
     name: { de: "Sarh Kolonialbrücke", hu: "Sarh gyarmati híd", ro: "Pod colonial Sarh", en: "Sarh Colonial Bridge" },
-    coordinates: { lat: 9.14, lng: 18.39 },
+    coords: [18.39, 9.14],
     description: {
       de: "Eine historische Brückenkonstruktion, die die Infrastruktur des Süd-Tschad während der Kolonialzeit prägte.",
       hu: "Történelmi hídépítmény, amely a gyarmati időkben meghatározta Dél-Csád infrastruktúráját.",
@@ -1270,7 +1270,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-massenya-ruins-v2-history-v2",
     type: "ruins",
     name: { de: "Massenya Ruinenkomplex", hu: "Massenya romkomplexum", ro: "Complexul de ruine Massenya", en: "Massenya Ruins Complex" },
-    coordinates: { lat: 11.4, lng: 16.16 },
+    coords: [16.16, 11.4],
     description: {
       de: "Überreste der Hauptstadt des alten Baguirmi-Königreichs. Diese Stätte ist von zentraler Bedeutung für das Verständnis der Region.",
       hu: "Az ősi Baguirmi Királyság fővárosának maradványai. Ez a lelőhely központi jelentőségű a régió megértéséhez.",
@@ -1301,7 +1301,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-am-timan-historic-settlement-history-v2",
     type: "town",
     name: { de: "Am Timan historische Siedlung", hu: "Am Timan történelmi település", ro: "Așezarea istorică Am Timan", en: "Am Timan Historic Settlement" },
-    coordinates: { lat: 11.03, lng: 20.28 },
+    coords: [20.28, 11.03],
     description: {
       de: "Ein alter Handelsort im Südosten, der eine wichtige Rolle in der Geschichte der nomadischen Handelsrouten spielte.",
       hu: "Régi kereskedelmi hely délkeleten, amely fontos szerepet játszott a nomád kereskedelmi útvonalak történelmében.",
@@ -1332,7 +1332,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-mongo-sultanate-seat-history-v2",
     type: "landmark",
     name: { de: "Mongo Sultanatssitz", hu: "Mongo szultanátusi székhely", ro: "Sediul sultanatului Mongo", en: "Mongo Sultanate Seat" },
-    coordinates: { lat: 12.18, lng: 18.65 },
+    coords: [18.65, 12.18],
     description: {
       de: "Historisches Zentrum der Verwaltung für die Region Guéra, mit Einflüssen aus der Zeit der alten Sultanate.",
       hu: "A Guéra régió közigazgatásának történelmi központja, a régi szultanátusok időszakából származó hatásokkal.",
@@ -1363,7 +1363,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-doba-historic-cemetery-history-v2",
     type: "monument",
     name: { de: "Doba historischer Friedhof", hu: "Doba történelmi temető", ro: "Cimitirul istoric din Doba", en: "Doba Historic Cemetery" },
-    coordinates: { lat: 8.68, lng: 16.86 },
+    coords: [16.86, 8.68],
     description: {
       de: "Ein alter Friedhof, der die kulturelle und religiöse Entwicklung der Region Logone Oriental widerspiegelt.",
       hu: "Régi temető, amely tükrözi a Logone Oriental régió kulturális és vallási fejlődését.",
@@ -1394,7 +1394,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-biline-plateau-sites-history-v2",
     type: "ruins",
     name: { de: "Biltine Plateau historische Stätten", hu: "Biltine-fennsík történelmi helyszínei", ro: "Situri istorice Platoul Biltine", en: "Biltine Plateau Historic Sites" },
-    coordinates: { lat: 14.5, lng: 20.9 },
+    coords: [20.9, 14.5],
     description: {
       de: "Verschiedene archäologische Stätten auf dem Plateau, die nomadische Siedlungsmuster früherer Jahrhunderte belegen.",
       hu: "Különböző régészeti helyszínek a fennsíkon, amelyek igazolják a korábbi évszázadok nomád települési mintáit.",
@@ -1425,7 +1425,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-bol-historical-landing-history-v2",
     type: "landmark",
     name: { de: "Bol historische Anlegestelle", hu: "Bol történelmi kikötő", ro: "Debarcaderul istoric Bol", en: "Bol Historical Landing" },
-    coordinates: { lat: 13.45, lng: 14.71 },
+    coords: [14.71, 13.45],
     description: {
       de: "Eine traditionelle Anlegestelle am Tschadsee, die seit langer Zeit der zentrale Handels- und Kommunikationsknotenpunkt ist.",
       hu: "Hagyományos kikötő a Csád-tónál, amely hosszú ideje a kereskedelem és kommunikáció központi csomópontja.",
@@ -1456,7 +1456,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-kyabe-sacred-site-history-v2",
     type: "landmark",
     name: { de: "Kyabé heilige Stätte", hu: "Kyabé szent hely", ro: "Sit sacru Kyabé", en: "Kyabé Sacred Site" },
-    coordinates: { lat: 9.45, lng: 18.9 },
+    coords: [18.9, 9.45],
     description: {
       de: "Eine kulturell bedeutsame Stätte im Süden, die eng mit der Geschichte und den Traditionen der lokalen Gemeinschaften verbunden ist.",
       hu: "Kulturálisan jelentős helyszín délen, amely szorosan kapcsolódik a helyi közösségek történetéhez és hagyományaihoz.",
@@ -1487,7 +1487,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-gore-colonial-post-history-v2",
     type: "monument",
     name: { de: "Goré Kolonialposten", hu: "Goré gyarmati állomás", ro: "Post colonial Goré", en: "Goré Colonial Post" },
-    coordinates: { lat: 7.94, lng: 15.5 },
+    coords: [15.5, 7.94],
     description: {
       de: "Überreste eines alten französischen Außenpostens, der an der Handelsroute im Süden des Landes lag.",
       hu: "Egy régi francia előőrs maradványai, amely az ország déli részén fekvő kereskedelmi útvonalon helyezkedett el.",
@@ -1518,7 +1518,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     id: "chad-iriba-historical-center-history-v2",
     type: "town",
     name: { de: "Iriba Historisches Zentrum", hu: "Iriba történelmi központ", ro: "Centrul istoric Iriba", en: "Iriba Historical Center" },
-    coordinates: { lat: 15.1, lng: 22.2 },
+    coords: [22.2, 15.1],
     description: {
       de: "Ein bedeutender Ort im Osten, der historisch als Treffpunkt für verschiedene nomadische Stämme diente.",
       hu: "Jelentős település keleten, amely történelmileg találkozóhelyként szolgált a különböző nomád törzsek számára.",

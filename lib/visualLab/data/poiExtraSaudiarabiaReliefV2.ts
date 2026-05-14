@@ -1046,7 +1046,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-jabal-ajja-relief-v2",
     type: "mountain",
     name: { de: "Jabal Ajja", hu: "Dzsebel Addzsa", ro: "Jabal Ajja", en: "Jabal Ajja" },
-    coordinates: { lat: 27.5125, lng: 41.5231 },
+    coords: [41.5231, 27.5125],
     description: {
       de: "Ein Granitgebirge im Norden Saudi-Arabiens nahe der Stadt Hail. Es bildet zusammen mit dem Jabal Salma das historische Shammar-Gebirge.",
       hu: "Gránithegység Szaúd-Arábia északi részén, Hail városa közelében. A történelmi Shammar-hegység része, legmagasabb pontja 1550 méter.",
@@ -1065,7 +1065,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-najd-plateau-relief-v2",
     type: "mountain",
     name: { de: "Nadschd-Plateau", hu: "Nedzsd-fennsík", ro: "Podișul Najd", en: "Najd Plateau" },
-    coordinates: { lat: 24.5231, lng: 45.0125 },
+    coords: [45.0125, 24.5231],
     description: {
       de: "Das zentrale Hochland der Arabischen Halbinsel mit einer Höhe von 760 bis 1.500 Metern. Es ist das geografische Herzstück Saudi-Arabiens.",
       hu: "Az Arab-félsziget központi fennsíkja, amely 760 és 1500 méter közötti magasságban fekszik. Ez Szaúd-Arábia földrajzi szíve.",
@@ -1084,7 +1084,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-summan-plateau-relief-v2",
     type: "mountain",
     name: { de: "Summan-Plateau", hu: "Szumman-fennsík", ro: "Podișul Summan", en: "Summan Plateau" },
-    coordinates: { lat: 25.5142, lng: 48.5231 },
+    coords: [48.5231, 25.5142],
     description: {
       de: "Eine ausgedehnte Kalksteinebene im Osten des Landes, die das Nadschd-Hochland von der Küste trennt. Sie ist für ihre Karsthöhlen bekannt.",
       hu: "Hatalmas mészkőfennsík az ország keleti részén, amely elválasztja a Nedzsd-fennsíkot a tengerparttól. Karsztbarlangjairól nevezetes.",
@@ -1103,7 +1103,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-jabal-al-qarah-relief-v2",
     type: "landmark",
     name: { de: "Jabal Al-Qarah", hu: "Dzsebel al-Kára", ro: "Jabal Al-Qarah", en: "Jabal Al-Qarah" },
-    coordinates: { lat: 25.4125, lng: 49.6912 },
+    coords: [49.6912, 25.4125],
     description: {
       de: "Ein markanter Kalksteinhügel in der Oase Al-Ahsa, bekannt für sein komplexes Höhlensystem. Die Felsen sind durch Erosion geformte Sedimentgesteine.",
       hu: "Jellegzetes mészkőhegy az Al-Ahsza oázisban, amely bonyolult barlangrendszeréről ismert. A kőzeteket az erózió formálta különleges alakúra.",
@@ -1122,7 +1122,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-harrat-al-labbah-relief-v2",
     type: "mountain",
     name: { de: "Harrat al-Labbah", hu: "Harrat al-Labbah", ro: "Harrat al-Labbah", en: "Harrat al-Labbah" },
-    coordinates: { lat: 30.1245, lng: 40.2152 },
+    coords: [40.2152, 30.1245],
     description: {
       de: "Ein riesiges Vulkanfeld im Norden Saudi-Arabiens mit Basalt-Lavaflüssen. Es erstreckt sich über eine Fläche von etwa 6.000 Quadratkilometern.",
       hu: "Hatalmas vulkáni mező Szaúd-Arábia északi részén, bazalt lávafolyamokkal. Területe megközelítőleg 6000 négyzetkilométer.",
@@ -1141,7 +1141,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     id: "saudiarabia-wadi-as-sirhan-relief-v2",
     type: "valley",
     name: { de: "Wadi As-Sirhan", hu: "Vádi asz-Szirhán", ro: "Wadi As-Sirhan", en: "Wadi As-Sirhan" },
-    coordinates: { lat: 31.0215, lng: 38.0125 },
+    coords: [38.0125, 31.0215],
     description: {
       de: "Eine tektonische Senke und ein Tal, das sich von Jordanien bis in den Nordwesten Saudi-Arabiens erstreckt. Es war historisch eine wichtige Karawanenstraße.",
       hu: "Tektonikus süllyedék és völgy, amely Jordániától Szaúd-Arábia északnyugati részéig húzódik. Történelmileg fontos karavánút volt.",

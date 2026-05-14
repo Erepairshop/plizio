@@ -5,7 +5,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-mount-popomanaseu-nature-v2",
     type: "peak",
     name: { de: "Mount Popomanaseu", hu: "Mount Popomanaseu", ro: "Muntele Popomanaseu", en: "Mount Popomanaseu" },
-    coordinates: { lat: -9.702, lng: 160.067 },
+    coords: [160.067, -9.702],
     description: {
       de: "Dies ist der höchste Berg der Salomonen auf der Insel Guadalcanal. Er erreicht eine Höhe von 2335 Metern über dem Meeresspiegel.",
       hu: "Ez a Salamon-szigetek legmagasabb hegycsúcsa Guadalcanal szigetén. Tengerszint feletti magassága eléri a 2335 métert.",
@@ -24,7 +24,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-lake-te-nggano-nature-v2",
     type: "lake",
     name: { de: "Te Nggano See", hu: "Te Nggano-tó", ro: "Lacul Te Nggano", en: "Lake Te Nggano" },
-    coordinates: { lat: -11.75, lng: 160.333 },
+    coords: [160.333, -11.75],
     description: {
       de: "Dies ist der größte Binnensee im Südpazifik auf der Insel Rennell. Er ist Teil des UNESCO-Welterbes East Rennell.",
       hu: "Ez a dél-csendes-óceáni térség legnagyobb belső tava Rennell szigetén. Az East Rennell UNESCO világörökségi helyszín része.",
@@ -43,7 +43,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-kolombangara-nature-v2",
     type: "peak",
     name: { de: "Kolombangara", hu: "Kolombangara", ro: "Kolombangara", en: "Kolombangara" },
-    coordinates: { lat: -7.97, lng: 157.08 },
+    coords: [157.08, -7.97],
     description: {
       de: "Diese Insel ist ein erloschener Schichtvulkan mit einer fast kreisförmigen Form. Der Mount Veve erreicht dort eine Höhe von 1770 Metern.",
       hu: "Ez a sziget egy kialudt rétegvulkán, amely szinte tökéletesen kör alakú. A Mount Veve 1770 méteres magasságot ér el rajta.",
@@ -62,7 +62,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-kavachi-volcano-nature-v2",
     type: "wildlife",
     name: { de: "Kavachi-Vulkan", hu: "Kavachi-vulkán", ro: "Vulcanul Kavachi", en: "Kavachi Volcano" },
-    coordinates: { lat: -9.02, lng: 157.97 },
+    coords: [157.97, -9.02],
     description: {
       de: "Dieser Unterwasservulkan im New-Georgia-Archipel ist einer der aktivsten im Südwestpazifik. Er bildet gelegentlich kurzlebige Inseln.",
       hu: "Ez a New Georgia-szigetcsoportban található víz alatti vulkán az egyik legaktívabb a Csendes-óceán délnyugati részén.",
@@ -81,7 +81,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-lau-lagoon-nature-v2",
     type: "wildlife",
     name: { de: "Lau-Lagune", hu: "Lau-lagúna", ro: "Laguna Lau", en: "Lau Lagoon" },
-    coordinates: { lat: -8.317, lng: 160.617 },
+    coords: [160.617, -8.317],
     description: {
       de: "Diese Lagune im Nordosten von Malaita ist bekannt für ihre künstlichen Inseln, die von den Einheimischen aus Korallengestein erbaut wurden.",
       hu: "Ez a Malaita északkeleti részén található lagúna a helyiek által korallkőből épített mesterséges szigeteiről ismert.",
@@ -100,7 +100,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-mount-makarakomburu-nature-v2",
     type: "peak",
     name: { de: "Mount Makarakomburu", hu: "Mount Makarakomburu", ro: "Muntele Makarakomburu", en: "Mount Makarakomburu" },
-    coordinates: { lat: -9.733, lng: 160.033 },
+    coords: [160.033, -9.733],
     description: {
       de: "Dies ist der zweithöchste Berg der Salomonen auf Guadalcanal. Er ist oft in Wolken gehüllt und beherbergt seltene Bergregenwälder.",
       hu: "Ez a Salamon-szigetek második legmagasabb hegye Guadalcanal szigetén. Gyakran felhőbe burkolózik, és ritka hegyi esőerdőknek ad otthont.",
@@ -119,7 +119,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-bauro-highlands-nature-v2",
     type: "forest",
     name: { de: "Bauro-Hochland", hu: "Bauro-felföld", ro: "Podișul Bauro", en: "Bauro Highlands" },
-    coordinates: { lat: -10.517, lng: 161.85 },
+    coords: [161.85, -10.517],
     description: {
       de: "Dieses zerklüftete Hochland auf der Insel Makira beherbergt dichte Regenwälder und viele endemische Vogelarten.",
       hu: "Ez a Makira-szigeten található egyenetlen felföld sűrű esőerdőknek és számos endemikus madárfajnak ad otthont.",
@@ -138,7 +138,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-ghizo-island-nature-v2",
     type: "wildlife",
     name: { de: "Ghizo-Insel", hu: "Ghizo-sziget", ro: "Insula Ghizo", en: "Ghizo Island" },
-    coordinates: { lat: -8.1, lng: 156.833 },
+    coords: [156.833, -8.1],
     description: {
       de: "Dies ist eine zentrale Insel im Westen der Salomonen, bekannt für ihre klaren Gewässer und exzellenten Tauchplätze.",
       hu: "Ez a Salamon-szigetek nyugati részének központi szigete, tiszta vizéről és kiváló merülőhelyeiről ismert.",
@@ -157,7 +157,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-uepi-island-nature-v2",
     type: "wildlife",
     name: { de: "Uepi-Insel", hu: "Uepi-sziget", ro: "Insula Uepi", en: "Uepi Island" },
-    coordinates: { lat: -8.417, lng: 157.933 },
+    coords: [157.933, -8.417],
     description: {
       de: "Diese kleine Barriereriff-Insel in der Marovo-Lagune bietet Zugang zu tiefen Meeresgräben und lebhaften Korallengärten.",
       hu: "Ez a Marovo-lagúnában található kis korallsziget hozzáférést biztosít mély tengeri árkokhoz és élénk korallkertekhez.",
@@ -176,7 +176,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-manning-strait-nature-v2",
     type: "wildlife",
     name: { de: "Manning-Straße", hu: "Manning-szoros", ro: "Strâmtoarea Manning", en: "Manning Strait" },
-    coordinates: { lat: -7.417, lng: 157.517 },
+    coords: [157.517, -7.417],
     description: {
       de: "Diese Meerenge trennt die Inseln Choiseul und Santa Isabel. Sie ist für ihre starken Strömungen und Fischreichtum bekannt.",
       hu: "Ez a tengerszoros választja el Choiseul és Santa Isabel szigetét. Erős áramlatairól és bőséges halállományáról ismert.",
@@ -195,7 +195,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-indispensable-strait-nature-v2",
     type: "wildlife",
     name: { de: "Indispensable-Straße", hu: "Indispensable-szoros", ro: "Strâmtoarea Indispensabilă", en: "Indispensable Strait" },
-    coordinates: { lat: -9.0, lng: 160.5 },
+    coords: [160.5, -9.0],
     description: {
       de: "Diese breite Meerenge verläuft zwischen den Inseln Malaita, Guadalcanal und San Cristobal. Sie ist eine wichtige maritime Passage.",
       hu: "Ez a széles tengerszoros Malaita, Guadalcanal és San Cristobal szigetei között húzódik. Fontos tengeri átjáró.",
@@ -214,7 +214,7 @@ export const solomonislandsNatureV2: POI[] = [
     id: "solomonislands-florida-islands-nature-v2",
     type: "wildlife",
     name: { de: "Florida-Inseln", hu: "Florida-szigetek", ro: "Insulele Florida", en: "Florida Islands" },
-    coordinates: { lat: -9.05, lng: 160.167 },
+    coords: [160.167, -9.05],
     description: {
       de: "Diese auch als Nggela-Inseln bekannten Inseln nördlich von Guadalcanal verfügen über tiefe Naturhäfen wie Tulagi.",
       hu: "Ezek a Nggela-szigetek néven is ismert szigetek Guadalcanaltól északra mély természetes kikötőkkel rendelkeznek, mint például Tulagi.",

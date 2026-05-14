@@ -654,7 +654,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tilaurakot-history-v2",
     type: "ruins",
     name: { de: "Tilaurakot", hu: "Tilaurakot", ro: "Tilaurakot", en: "Tilaurakot" },
-    coordinates: { lat: 27.575, lng: 83.003 },
+    coords: [83.003, 27.575],
     description: {
       de: "Diese archäologische Stätte gilt als das antike Kapilvastu, die Heimatstadt von Lord Buddha. Massive Befestigungsanlagen und Palastruinen zeugen von der Shakya-Dynastie.",
       hu: "Ez a régészeti lelőhely az ősi Kapilvastu városaként ismert, ahol Buddha hercegként felnőtt. A romok között erődítmények és paloták maradványai láthatók.",
@@ -673,7 +673,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-simraungadh-history-v2",
     type: "ruins",
     name: { de: "Simraungadh", hu: "Simraungadh", ro: "Simraungadh", en: "Simraungadh" },
-    coordinates: { lat: 26.897, lng: 85.121 },
+    coords: [85.121, 26.897],
     description: {
       de: "Einst die Hauptstadt des Mithila-Königreichs im 11. Jahrhundert, ist dieser Ort für seine kunstvollen Steinskulpturen bekannt. Die Ruinen erinnern an die Karnat-Dynastie.",
       hu: "A 11. századi Mithila királyság egykori fővárosa, amely híres a díszes kőfaragványairól. A romok a Karnat-dinasztia gazdag örökségét őrzik.",
@@ -692,7 +692,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-makwanpurgadhi-history-v2",
     type: "battlefield",
     name: { de: "Makwanpurgadhi", hu: "Makwanpurgadhi", ro: "Makwanpurgadhi", en: "Makwanpurgadhi" },
-    coordinates: { lat: 27.424, lng: 85.111 },
+    coords: [85.111, 27.424],
     description: {
       de: "Diese historische Bergfestung war Schauplatz bedeutender Schlachten zwischen Gorkhali-Truppen und Truppen aus Bengalen. Sie war ein strategischer Knotenpunkt Süd-Nepals.",
       hu: "Ez a történelmi hegyi erőd jelentős csaták helyszíne volt a gorkhali csapatok és a bengáli erők között. Dél-Nepál egyik legfontosabb stratégiai pontja volt.",
@@ -711,7 +711,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-singh-durbar-history-v2",
     type: "palace",
     name: { de: "Singha Durbar", hu: "Szingha Durbar", ro: "Singha Durbar", en: "Singha Durbar" },
-    coordinates: { lat: 27.697, lng: 85.323 },
+    coords: [85.323, 27.697],
     description: {
       de: "Dieser neoklassizistische Palast war einst der größte Wohnsitz Asiens und dient heute als Regierungssitz. Er wurde während der Rana-Dynastie erbaut.",
       hu: "Ez a neoklasszicista palota egykor Ázsia legnagyobb lakóépülete volt, ma pedig a kormány székhelye. A Rana-dinasztia idején épült.",
@@ -730,7 +730,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-national-museum-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Nepal", hu: "Nepáli Nemzeti Múzeum", ro: "Muzeul Național al Nepalului", en: "National Museum of Nepal" },
-    coordinates: { lat: 27.705, lng: 85.289 },
+    coords: [85.289, 27.705],
     description: {
       de: "Das 1928 eröffnete Museum in Chhauni beherbergt eine umfangreiche Sammlung historischer Waffen und Kunstwerke. Es ist in einem ehemaligen Generalspalast untergebracht.",
       hu: "Az 1928-ban megnyitott chhauni múzeum történelmi fegyverek és műalkotások hatalmas gyűjteményének ad otthont. Egy egykori tábornoki palotában található.",
@@ -749,7 +749,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kasthamandap-history-v2",
     type: "monument",
     name: { de: "Kasthamandap", hu: "Kaszthamandap", ro: "Kasthamandap", en: "Kasthamandap" },
-    coordinates: { lat: 27.704, lng: 85.306 },
+    coords: [85.306, 27.704],
     description: {
       de: "Dieser legendäre Holztempel gab der Stadt Kathmandu ihren Namen. Er wurde angeblich aus dem Holz eines einzigen Sal-Baumes im 12. Jahrhundert erbaut.",
       hu: "Ez a legendás fatemplom adta Katmandu városának a nevét. A hagyomány szerint egyetlen szálafából építették a 12. században.",
@@ -768,7 +768,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-lo-manthang-history-v2",
     type: "capital",
     name: { de: "Lo Manthang", hu: "Lo Manthang", ro: "Lo Manthang", en: "Lo Manthang" },
-    coordinates: { lat: 29.183, lng: 83.957 },
+    coords: [83.957, 29.183],
     description: {
       de: "Die ummauerte Hauptstadt des ehemaligen Königreichs Lo liegt im entlegenen Upper Mustang. Sie ist ein Zentrum der tibetisch-buddhistischen Kultur und Klöster.",
       hu: "Az egykori Lo királyság fallal körülvett fővárosa a távoli Felső-Mustangban található. A tibeti buddhista kultúra és kolostorok központja.",
@@ -787,7 +787,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kagbeni-village-history-v2",
     type: "village",
     name: { de: "Kagbeni", hu: "Kagbeni", ro: "Kagbeni", en: "Kagbeni" },
-    coordinates: { lat: 28.835, lng: 83.784 },
+    coords: [83.784, 28.835],
     description: {
       de: "Dieses mittelalterliche Dorf dient als Tor zum Upper Mustang und liegt am Kali Gandaki Fluss. Es zeichnet sich durch seine Lehmhaus-Architektur und Gassen aus.",
       hu: "Ez a középkori falu a Felső-Mustang kapujaként szolgál a Kali Gandaki-folyó partján. Jellegzetessége a vályogházas építészet és a szűk utcák.",
@@ -806,7 +806,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-sankhu-town-history-v2",
     type: "town",
     name: { de: "Sankhu", hu: "Sankhu", ro: "Sankhu", en: "Sankhu" },
-    coordinates: { lat: 27.729, lng: 85.483 },
+    coords: [85.483, 27.729],
     description: {
       de: "Diese antike Newar-Stadt im nordöstlichen Kathmandu-Tal war einst ein blühender Knotenpunkt am Handelsweg nach Tibet. Sie bewahrt ein schachbrettartiges Straßenlayout.",
       hu: "Ez az ősi newar város a Katmandu-völgy északkeleti részén egykor a tibeti kereskedelmi útvonal virágzó csomópontja volt. Megőrizte sakktáblaszerű utcaszerkezetét.",
@@ -825,7 +825,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-khokana-village-history-v2",
     type: "village",
     name: { de: "Khokana", hu: "Khokana", ro: "Khokana", en: "Khokana" },
-    coordinates: { lat: 27.636, lng: 85.297 },
+    coords: [85.297, 27.636],
     description: {
       de: "Dieses traditionelle Dorf ist berühmt für seine jahrhundertealte Methode der Senfölproduktion. Es war die erste Siedlung in Nepal, die elektrisches Licht erhielt.",
       hu: "Ez a hagyományos falu híres az évszázados módszerrel készített mustárolajáról. Ez volt az első település Nepálban, ahol bevezették az elektromos világítást.",
@@ -844,7 +844,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bungamati-village-history-v2",
     type: "village",
     name: { de: "Bungamati", hu: "Bungamati", ro: "Bungamati", en: "Bungamati" },
-    coordinates: { lat: 27.63, lng: 85.3 },
+    coords: [85.3, 27.63],
     description: {
       de: "Dieses Dorf aus dem 6. Jahrhundert ist die Heimat von Rato Machindranath, dem Gott des Regens. Es ist ein bedeutendes Zentrum für traditionelle Holzschnitzerei.",
       hu: "Ez a 6. századi falu Rato Machindranathnak, az eső istenének otthona. A hagyományos fafaragás egyik legfontosabb központja.",
@@ -863,7 +863,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-upardangadhi-fort-history-v2",
     type: "castle",
     name: { de: "Upardangadhi", hu: "Upardangadhi", ro: "Upardangadhi", en: "Upardangadhi" },
-    coordinates: { lat: 27.665, lng: 84.532 },
+    coords: [84.532, 27.665],
     description: {
       de: "Dieses alte Hauptquartier des Chitwan-Distrikts verfügt über eine Steinfestung, die im späten 18. Jahrhundert erbaut wurde. Sie diente dem Schutz gegen britische Truppen.",
       hu: "Chitwan körzet egykori székhelye, amely egy 18. század végén épült kőerőddel rendelkezik. A brit csapatok elleni védekezésre szolgált.",
@@ -882,7 +882,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-chisapanigadhi-fort-history-v2",
     type: "battlefield",
     name: { de: "Chisapani Gadhi", hu: "Chisapani Gadhi", ro: "Chisapani Gadhi", en: "Chisapani Gadhi" },
-    coordinates: { lat: 27.514, lng: 85.127 },
+    coords: [85.127, 27.514],
     description: {
       de: "Diese strategische Festung südlich von Kathmandu kontrollierte einst den Zugang zum Tal. Sie war ein wichtiger Kontrollpunkt während der Kriege gegen die Briten.",
       hu: "Ez a Katmandutól délre fekvő stratégiai erőd egykor a völgybe való bejutást ellenőrizte. Fontos ellenőrző pont volt a britek elleni háborúk idején.",
@@ -901,7 +901,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-taleju-bhaktapur-history-v2",
     type: "monument",
     name: { de: "Taleju Bhawani Tempel", hu: "Taleju Bhawani-templom", ro: "Templul Taleju Bhawani", en: "Taleju Bhawani Temple" },
-    coordinates: { lat: 27.672, lng: 85.428 },
+    coords: [85.428, 27.672],
     description: {
       de: "Dieser heilige Tempel in Bhaktapur ist der Familiengottheit der Malla-Könige gewidmet. Er ist für seine exquisiten goldenen Türen und Holzschnitzereien bekannt.",
       hu: "Ez a szent templom Bhaktapurban a Malla királyok családi istenségének szentelt hely. Híres gyönyörű aranykapujáról és fafaragásairól.",
@@ -920,7 +920,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-dattatreya-temple-history-v2",
     type: "monument",
     name: { de: "Dattatreya Tempel", hu: "Dattatreya-templom", ro: "Templul Dattatreya", en: "Dattatreya Temple" },
-    coordinates: { lat: 27.673, lng: 85.435 },
+    coords: [85.435, 27.673],
     description: {
       de: "Dieser massive Tempel aus dem 15. Jahrhundert wurde angeblich aus dem Holz eines einzigen Baumes erbaut. Er dominiert den Dattatreya-Platz in Bhaktapur.",
       hu: "Ez a hatalmas, 15. századi templom állítólag egyetlen fából készült. Meghatározó eleme a bhaktapuri Dattatreya térnek.",
@@ -939,7 +939,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-krishna-mandir-patan-history-v2",
     type: "monument",
     name: { de: "Krishna Mandir", hu: "Krisna-mandir", ro: "Krishna Mandir", en: "Krishna Mandir" },
-    coordinates: { lat: 27.673, lng: 85.325 },
+    coords: [85.325, 27.673],
     description: {
       de: "Dieser prächtige Shikhara-Stil Steintempel in Patan zeigt detaillierte Reliefs aus den Epen Mahabharata und Ramayana. Er ist ein Meisterwerk der Newar-Architektur.",
       hu: "Ez a pompás shikhara stílusú kőtemplom Patanban a Mahabharata és a Ramayana eposzok részletes domborműveit mutatja be. A newar építészet remekműve.",
@@ -958,7 +958,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-mahabuddha-temple-history-v2",
     type: "monument",
     name: { de: "Mahabuddha Tempel", hu: "Mahabuddha-templom", ro: "Templul Mahabuddha", en: "Mahabuddha Temple" },
-    coordinates: { lat: 27.671, lng: 85.327 },
+    coords: [85.327, 27.671],
     description: {
       de: "Dieser einzigartige Terrakotta-Tempel ist als 'Tempel der tausend Buddhas' bekannt. Jeder Ziegel trägt ein eingeprägtes Bildnis Buddhas.",
       hu: "Ez az egyedülálló terrakotta templom az 'ezer Buddha templomaként' ismert. Minden egyes téglája egy-egy Buddha-képmást ábrázol.",
@@ -977,7 +977,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bijayapur-ancient-history-v2",
     type: "ruins",
     name: { de: "Bijayapur", hu: "Bijayapur", ro: "Bijayapur", en: "Bijayapur" },
-    coordinates: { lat: 26.825, lng: 87.3 },
+    coords: [87.3, 26.825],
     description: {
       de: "Bijayapur war die historische Hauptstadt des Sen-Königreichs im östlichen Nepal. Heute beherbergt die Stätte antike Tempelruinen und religiöse Monumente.",
       hu: "Bijayapur Kelet-Nepál egykori Sen királyságának történelmi fővárosa volt. Ma a helyszín ősi templomromoknak és vallási műemlékeknek ad otthont.",
@@ -996,7 +996,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-barahachhetra-history-v2",
     type: "monument",
     name: { de: "Barahachhetra", hu: "Barahachhetra", ro: "Barahachhetra", en: "Barahachhetra" },
-    coordinates: { lat: 26.92, lng: 87.165 },
+    coords: [87.165, 26.92],
     description: {
       de: "Dieser antike Wallfahrtsort am Zusammenfluss von Sapta Koshi und Koka ist Vishnu gewidmet. Er wird bereits in den Puranas als heiliger Ort erwähnt.",
       hu: "Ez az ősi zarándokhely a Sapta Koshi és a Koka folyók találkozásánál Vishnunak van szentelve. Már a puránákban is említik szent helyként.",
@@ -1015,7 +1015,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-janakpur-railway-history-v2",
     type: "landmark",
     name: { de: "Bahnhof Janakpurdham", hu: "Janakpurdham vasútállomás", ro: "Gara Janakpurdham", en: "Janakpurdham Railway Station" },
-    coordinates: { lat: 26.721, lng: 85.932 },
+    coords: [85.932, 26.721],
     description: {
       de: "Der historische Bahnhof war Teil der einzigen Eisenbahnlinie Nepals, die 1937 von den Briten gebaut wurde. Er verbindet Janakpur mit der indischen Grenze.",
       hu: "A történelmi vasútállomás Nepál egyetlen vasútvonalának része volt, amelyet a britek építettek 1937-ben. Janakpurt köti össze az indiai határral.",
@@ -1034,7 +1034,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-jajarkot-palace-history-v2",
     type: "palace",
     name: { de: "Jajarkot Palast", hu: "Jajarkoti palota", ro: "Palatul Jajarkot", en: "Jajarkot Palace" },
-    coordinates: { lat: 28.704, lng: 82.202 },
+    coords: [82.202, 28.704],
     description: {
       de: "Dieser historische Palast im Westen Nepals war der Sitz des Jajarkoti-Königreichs. Er zeigt die Architektur des frühen 19. Jahrhunderts und lokale Bauweise.",
       hu: "Ez a nyugat-nepáli történelmi palota a Jajarkoti királyság székhelye volt. A 19. század eleji építészetet és a helyi stílust tükrözi.",
@@ -1053,7 +1053,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-dailekh-durbar-history-v2",
     type: "palace",
     name: { de: "Dailekh Durbar", hu: "Dailekhi Durbar", ro: "Dailekh Durbar", en: "Dailekh Durbar" },
-    coordinates: { lat: 28.841, lng: 81.71 },
+    coords: [81.71, 28.841],
     description: {
       de: "Dieser Palast in Dailekh ist für seine antiken Inschriften und archäologischen Relikte aus der Khas-Ära bekannt. Er war ein wichtiges administratives Zentrum.",
       hu: "Ez a dailekhi palota az ősi feliratokról és a Khas-korszak régészeti emlékeiről ismert. Fontos adminisztratív központ volt.",
@@ -1072,7 +1072,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-doti-durbar-history-v2",
     type: "palace",
     name: { de: "Doti Durbar", hu: "Doti Durbar", ro: "Doti Durbar", en: "Doti Durbar" },
-    coordinates: { lat: 29.261, lng: 80.939 },
+    coords: [80.939, 29.261],
     description: {
       de: "Doti Durbar war der Hauptpalast des mächtigen Doti-Königreichs in Fernwest-Nepal. Die Ruinen zeugen von der Unabhängigkeit des Staates vor 1790.",
       hu: "A Doti Durbar a távoli nyugat-nepáli hatalmas Doti királyság fő palotája volt. A romok az állam 1790 előtti függetlenségéről tanúskodnak.",
@@ -1091,7 +1091,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-chainpur-historic-history-v2",
     type: "town",
     name: { de: "Chainpur", hu: "Chainpur", ro: "Chainpur", en: "Chainpur" },
-    coordinates: { lat: 27.284, lng: 87.323 },
+    coords: [87.323, 27.284],
     description: {
       de: "Chainpur ist eine historische Stadt im Osten Nepals, berühmt für die traditionelle Herstellung von Karuwa-Wassergefäßen. Sie bewahrt ihren Charme als Handelszentrum.",
       hu: "Chainpur egy kelet-nepáli történelmi város, amely a hagyományos Karuwa víztartó edények készítéséről híres. Megőrizte kereskedelmi központ jellegét.",
@@ -1110,7 +1110,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bhojpur-historic-history-v2",
     type: "town",
     name: { de: "Bhojpur", hu: "Bhojpur", ro: "Bhojpur", en: "Bhojpur" },
-    coordinates: { lat: 27.171, lng: 87.047 },
+    coords: [87.047, 27.171],
     description: {
       de: "Diese Stadt ist historisch bedeutsam für die Herstellung des Khukuri, des berühmten nepalesischen Messers. Sie war ein wichtiges Zentrum der Metallverarbeitung.",
       hu: "Ez a város történelmileg jelentős a híres nepáli kés, a khukuri készítése miatt. A fémfeldolgozás egyik legfontosabb központja volt.",
@@ -1129,7 +1129,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-lamjung-durbar-history-v2",
     type: "palace",
     name: { de: "Lamjung Durbar", hu: "Lamjung Durbar", ro: "Lamjung Durbar", en: "Lamjung Durbar" },
-    coordinates: { lat: 28.232, lng: 84.379 },
+    coords: [84.379, 28.232],
     description: {
       de: "Dieser Palast war das Herrschaftszentrum des Lamjung-Königreichs, aus dem die Vorfahren der Shah-Dynastie stammten. Er liegt majestätisch auf einem Hügel.",
       hu: "Ez a palota volt a Lamjung királyság központja, ahonnan a Shah-dinasztia ősei származtak. Fenségesen helyezkedik el egy dombtetőn.",
@@ -1148,7 +1148,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tanahu-sur-history-v2",
     type: "battlefield",
     name: { de: "Tanahu Sur", hu: "Tanahu Sur", ro: "Tanahu Sur", en: "Tanahu Sur" },
-    coordinates: { lat: 27.954, lng: 84.316 },
+    coords: [84.316, 27.954],
     description: {
       de: "Tanahu Sur war die historische Hauptstadt des Tanahu-Königreichs und beherbergt Ruinen einer alten Festung. Sie war ein bedeutender Staat der Chaubisi-Konföderation.",
       hu: "Tanahu Sur a Tanahu királyság történelmi fővárosa volt, és egy ősi erődítmény romjait őrzi. A Chaubisi szövetség egyik jelentős állama volt.",
@@ -1167,7 +1167,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-sinja-valley-history-v2",
     type: "ruins",
     name: { de: "Sinja-Tal", hu: "Sinja-völgy", ro: "Valea Sinja", en: "Sinja Valley" },
-    coordinates: { lat: 29.255, lng: 81.972 },
+    coords: [81.972, 29.255],
     description: {
       de: "Dieses Tal ist der Geburtsort der nepalesischen Sprache und war die Hauptstadt des mächtigen Khas-Königreichs. Es beherbergt zahlreiche archäologische Fundstätten.",
       hu: "Ez a völgy a nepáli nyelv szülőhelye és a hatalmas Khas királyság fővárosa volt. Számos régészeti lelőhelyet őriz.",
@@ -1186,7 +1186,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-dulwa-archaeological-history-v2",
     type: "ruins",
     name: { de: "Dulwa", hu: "Dulwa", ro: "Dulwa", en: "Dulwa" },
-    coordinates: { lat: 28.79, lng: 81.65 },
+    coords: [81.65, 28.79],
     description: {
       de: "Dulwa ist eine bedeutende archäologische Stätte im Westen Nepals mit Resten antiker Siedlungen und Steinmonumenten. Sie stammt vermutlich aus der Licchavi-Zeit.",
       hu: "Dulwa egy jelentős régészeti lelőhely Nyugat-Nepálban, ősi települések és kőemlékek maradványaival. Feltehetően a Licchavi-korszakból származik.",
@@ -1205,7 +1205,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kalu-pande-memorial-history-v2",
     type: "monument",
     name: { de: "Kalu Pande Denkmal", hu: "Kalu Pande emlékhely", ro: "Monumentul Kalu Pande", en: "Kalu Pande Memorial" },
-    coordinates: { lat: 27.712, lng: 85.228 },
+    coords: [85.228, 27.712],
     description: {
       de: "Dieses Denkmal auf dem Dahachowk-Hügel ehrt den tapferen General Kalu Pande, der während der Vereinigungsschlachten fiel. Es bietet einen Blick auf Gorkha und Kathmandu.",
       hu: "Ez a Dahachowk-dombon található emlékhely a hősies Kalu Pande tábornok előtt tiszteleg, aki az egyesítő csatákban esett el. Kilátást nyújt Gorkhára és Katmandura.",
@@ -1224,7 +1224,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bhakti-thapa-memorial-history-v2",
     type: "monument",
     name: { de: "Bhakti Thapa Park", hu: "Bhakti Thapa emlékpark", ro: "Parcul Memorial Bhakti Thapa", en: "Bhakti Thapa Park" },
-    coordinates: { lat: 27.72, lng: 85.33 },
+    coords: [85.33, 27.72],
     description: {
       de: "Dieser Park ehrt Bhakti Thapa, einen nationalen Helden Nepals, der während des anglo-nepalesischen Krieges kämpfte. Er war bekannt für seine außergewöhnliche Tapferkeit.",
       hu: "Ez a park Bhakti Thapa, Nepál nemzeti hőse előtt tiszteleg, aki az angol-nepáli háborúban harcolt. Rendkívüli bátorságáról volt ismert.",
@@ -1243,7 +1243,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bir-library-history-v2",
     type: "landmark",
     name: { de: "Bir Bibliothek", hu: "Bir Könyvtár", ro: "Biblioteca Bir", en: "Bir Library" },
-    coordinates: { lat: 27.707, lng: 85.315 },
+    coords: [85.315, 27.707],
     description: {
       de: "Die Bir-Bibliothek ist eine der ältesten öffentlichen Bibliotheken Nepals und beherbergt wertvolle antike Manuskripte. Sie wurde während der Rana-Zeit gegründet.",
       hu: "A Bir Könyvtár Nepál egyik legrégebbi nyilvános könyvtára, amely értékes ősi kéziratokat őriz. A Rana-korszakban alapították.",
@@ -1262,7 +1262,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-rani-pokhari-history-v2",
     type: "landmark",
     name: { de: "Rani Pokhari", hu: "Rani Pokhari", ro: "Rani Pokhari", en: "Rani Pokhari" },
-    coordinates: { lat: 27.708, lng: 85.316 },
+    coords: [85.316, 27.708],
     description: {
       de: "Dieser historische künstliche Teich im Herzen von Kathmandu wurde von einem Malla-König zum Trost seiner Frau erbaut. In seiner Mitte steht ein Shiva-Tempel.",
       hu: "Ez a Katmandu szívében található történelmi mesterséges tó egy Malla király építtette felesége vigasztalására. Közepén egy Siva-templom áll.",
@@ -1281,7 +1281,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tundikhel-history-v2",
     type: "landmark",
     name: { de: "Tundikhel", hu: "Tundikhel", ro: "Tundikhel", en: "Tundikhel" },
-    coordinates: { lat: 27.701, lng: 85.315 },
+    coords: [85.315, 27.701],
     description: {
       de: "Tundikhel ist ein riesiges Exerzierfeld in Kathmandu, das seit Jahrhunderten für militärische Paraden und religiöse Feste genutzt wird. Es ist ein Symbol nationaler Geschichte.",
       hu: "A Tundikhel egy hatalmas gyakorlótér Katmanduban, amelyet évszázadok óta katonai parádékra és vallási ünnepekre használnak. A nemzeti történelem szimbóluma.",
@@ -1300,7 +1300,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-patan-museum-history-v2",
     type: "museum",
     name: { de: "Patan Museum", hu: "Patan Múzeum", ro: "Muzeul Patan", en: "Patan Museum" },
-    coordinates: { lat: 27.673, lng: 85.325 },
+    coords: [85.325, 27.673],
     description: {
       de: "Das im ehemaligen Königspalast von Patan untergebrachte Museum zeigt eine der besten Sammlungen sakraler Kunst in Asien. Es ist ein UNESCO-Weltkulturerbe.",
       hu: "A Patan egykori királyi palotájában elhelyezett múzeum Ázsia egyik legjobb szakrális művészeti gyűjteményét mutatja be. UNESCO világörökségi helyszín.",
@@ -1319,7 +1319,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-woodcarving-museum-history-v2",
     type: "museum",
     name: { de: "Holzschnitzmuseum", hu: "Fafaragó Múzeum", ro: "Muzeul Sculpturii în Lemn", en: "Woodcarving Museum" },
-    coordinates: { lat: 27.672, lng: 85.429 },
+    coords: [85.429, 27.672],
     description: {
       de: "Das Museum in Bhaktapur präsentiert die hohe Kunst der Newar-Holzschnitzerei. Es ist im historischen Pujari Math Gebäude mit seinen berühmten Fenstern untergebracht.",
       hu: "Ez a bhaktapuri múzeum a newar fafaragás magas szintű művészetét mutatja be. A történelmi Pujari Math épületében található, híres ablakaival.",
@@ -1338,7 +1338,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-gotihawa-pillar-history-v2",
     type: "monument",
     name: { de: "Gotihawa Ashoka-Säule", hu: "Gotihawa Ashoka-oszlop", ro: "Coloana Ashoka din Gotihawa", en: "Gotihawa Ashoka Pillar" },
-    coordinates: { lat: 27.525, lng: 82.93 },
+    coords: [82.93, 27.525],
     description: {
       de: "Dieser Ort beherbergt die Überreste einer Ashoka-Säule und wird als Geburtsort von Krakuchhanda Buddha verehrt. Er ist eine wichtige buddhistische Ausgrabungsstätte.",
       hu: "Ez a hely egy Ashoka-oszlop maradványait őrzi, és Krakuchhanda Buddha szülőhelyeként tisztelik. Fontos buddhista régészeti lelőhely.",
@@ -1357,7 +1357,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-niglihawa-pillar-history-v2",
     type: "monument",
     name: { de: "Niglihawa Ashoka-Säule", hu: "Niglihawa Ashoka-oszlop", ro: "Coloana Ashoka din Niglihawa", en: "Niglihawa Ashoka Pillar" },
-    coordinates: { lat: 27.606, lng: 83.053 },
+    coords: [83.053, 27.606],
     description: {
       de: "Dieser Ort ist als Geburtsort von Kanakamuni Buddha bekannt und beherbergt Inschriften von Kaiser Ashoka. Die Säule liegt heute in zwei Teilen am Ufer eines Teiches.",
       hu: "Ez a hely Kanakamuni Buddha szülőhelyeként ismert, és Ashoka császár feliratait őrzi. Az oszlop ma két darabban fekszik egy tó partján.",
@@ -1376,7 +1376,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kudan-ancient-monument-history-v2",
     type: "ruins",
     name: { de: "Kudan", hu: "Kudan", ro: "Kudan", en: "Kudan" },
-    coordinates: { lat: 27.535, lng: 83.011 },
+    coords: [83.011, 27.535],
     description: {
       de: "Dieser Ort, auch Nyigrodharama genannt, ist der Ort, an dem Buddha seinen Vater König Suddhodana nach seiner Erleuchtung traf. Er beherbergt drei antike Stupa-Hügel.",
       hu: "Ezt a helyet Nyigrodharama néven is ismerik; itt találkozott Buddha apjával, Suddhodana királlyal a megvilágosodása után. Három ősi sztúpadomb található itt.",
@@ -1395,7 +1395,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-sagarhawa-ruins-history-v2",
     type: "ruins",
     name: { de: "Sagarhawa", hu: "Sagarhawa", ro: "Sagarhawa", en: "Sagarhawa" },
-    coordinates: { lat: 27.636, lng: 83.06 },
+    coords: [83.06, 27.636],
     description: {
       de: "Sagarhawa ist der tragische Ort des Massakers am Shakya-Clan durch König Virudhaka. Es beherbergt Ruinen zahlreicher kleiner Votiv-Stupas.",
       hu: "Sagarhawa a Shakya klán Virudhaka király általi lemészárlásának tragikus helyszíne. Számos kis fogadalmi sztúpa romja található itt.",
@@ -1414,7 +1414,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-hariharpurgadhi-fort-history-v2",
     type: "battlefield",
     name: { de: "Hariharpurgadhi", hu: "Hariharpurgadhi", ro: "Hariharpurgadhi", en: "Hariharpurgadhi" },
-    coordinates: { lat: 27.34, lng: 85.45 },
+    coords: [85.45, 27.34],
     description: {
       de: "Diese historische Festung war ein entscheidender Stützpunkt während der Vereinigung Nepals. Sie sicherte den Zugang zum Kathmandu-Tal von Süden her.",
       hu: "Ez a történelmi erőd döntő fontosságú bázis volt Nepál egyesítése során. Dél felől biztosította a Katmandu-völgybe való bejutást.",
@@ -1433,7 +1433,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-jeetgadh-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Jitgadhi", hu: "Jitgadhi", ro: "Jitgadhi", en: "Jitgadhi" },
-    coordinates: { lat: 27.701, lng: 83.447 },
+    coords: [83.447, 27.701],
     description: {
       de: "Jitgadhi ist eine historische Festung in Butwal, in der die nepalesische Armee die britischen Truppen im Jahr 1814 besiegte. Sie ist ein Symbol des Widerstands.",
       hu: "Jitgadhi egy történelmi erőd Butwalban, ahol a nepáli hadsereg 1814-ben legyőzte a brit csapatokat. Az ellenállás szimbóluma.",
@@ -1452,7 +1452,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-dhunge-dhara-kathmandu-history-v2",
     type: "landmark",
     name: { de: "Dhunge Dhara", hu: "Dhunge Dhara", ro: "Dhunge Dhara", en: "Dhunge Dhara" },
-    coordinates: { lat: 27.705, lng: 85.31 },
+    coords: [85.31, 27.705],
     description: {
       de: "Diese antiken steinernen Wasserspeier sind Teil des traditionellen Wasserversorgungssystems von Kathmandu. Sie zeigen oft kunstvolle Schnitzereien von Makaras.",
       hu: "Ezek az ősi kő vízköpők Katmandu hagyományos vízellátó rendszerének részei. Gyakran díszes makara-faragásokkal vannak ellátva.",
@@ -1471,7 +1471,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-lele-ancient-site-history-v2",
     type: "village",
     name: { de: "Lele", hu: "Lele", ro: "Lele", en: "Lele" },
-    coordinates: { lat: 27.58, lng: 85.32 },
+    coords: [85.32, 27.58],
     description: {
       de: "Lele ist eine antike Siedlung südlich von Kathmandu mit bedeutenden Inschriften aus der Licchavi-Zeit. Es war ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Lele egy Katmandutól délre fekvő ősi település, jelentős Licchavi-kori feliratokkal. Fontos mezőgazdasági központ volt.",
@@ -1490,7 +1490,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kirateshwar-mahadev-history-v2",
     type: "monument",
     name: { de: "Kirateshwar Mahadev", hu: "Kirateshwar Mahadev", ro: "Kirateshwar Mahadev", en: "Kirateshwar Mahadev" },
-    coordinates: { lat: 27.711, lng: 85.35 },
+    coords: [85.35, 27.711],
     description: {
       de: "Dieser antike Tempel in Pashupati ist Shiva in seiner Kirat-Form gewidmet. Er ist historisch bedeutsam als einer der ältesten Schreine des Tals.",
       hu: "Ez a Pashupatiban található ősi templom Sivának van szentelve Kirat formájában. Történelmileg jelentős, mint a völgy egyik legrégebbi szentélye.",
@@ -1509,7 +1509,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-ashoka-stupa-patan-history-v2",
     type: "monument",
     name: { de: "Patan Ashoka-Stupas", hu: "Patani Ashoka-sztúpák", ro: "Stupele Ashoka din Patan", en: "Patan Ashoka Stupas" },
-    coordinates: { lat: 27.675, lng: 85.32 },
+    coords: [85.32, 27.675],
     description: {
       de: "Diese vier Stupas markieren die Himmelsrichtungen der Stadt Patan und wurden angeblich von Kaiser Ashoka erbaut. Sie bewahren die Form antiker Erdhügel-Stupas.",
       hu: "Ez a négy sztúpa jelöli Patan városának égtájait, és állítólag Ashoka császár építtette őket. Megőrizték az ősi földhalom-sztúpák formáját.",
@@ -1528,7 +1528,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tripura-sundari-baitadi-history-v2",
     type: "monument",
     name: { de: "Tripura Sundari", hu: "Tripura Sundari", ro: "Tripura Sundari", en: "Tripura Sundari" },
-    coordinates: { lat: 29.535, lng: 80.485 },
+    coords: [80.485, 29.535],
     description: {
       de: "Dieser historische Tempel in Baitadi ist einer der bedeutendsten Schreine in Fernwest-Nepal. Er zeigt die einzigartige Bergtempel-Architektur der Region.",
       hu: "Ez a baitadi történelmi templom Távol-Nyugat-Nepál egyik legfontosabb szentélye. A régió egyedülálló hegyi templomi építészetét mutatja be.",
@@ -1547,7 +1547,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tehrathum-historic-town-history-v2",
     type: "town",
     name: { de: "Tehrathum", hu: "Tehrathum", ro: "Tehrathum", en: "Tehrathum" },
-    coordinates: { lat: 27.145, lng: 87.53 },
+    coords: [87.53, 27.145],
     description: {
       de: "Tehrathum ist für seine reiche Geschichte als administrativer Knotenpunkt in den östlichen Hügeln bekannt. Die Stadt bewahrt traditionelle Newar- und Limbu-Architektur.",
       hu: "Tehrathum a keleti dombvidék adminisztratív központjaként ismert gazdag történelméről. A város megőrizte a hagyományos newar és limbu építészetet.",
@@ -1566,7 +1566,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-manigram-ancient-trade-history-v2",
     type: "village",
     name: { de: "Manigram", hu: "Manigram", ro: "Manigram", en: "Manigram" },
-    coordinates: { lat: 27.65, lng: 83.47 },
+    coords: [83.47, 27.65],
     description: {
       de: "Manigram war ein bedeutendes Handelszentrum in der Antike und beherbergt Inschriften, die auf wirtschaftliche Aktivitäten hinweisen. Es liegt im fruchtbaren Terai.",
       hu: "Manigram jelentős kereskedelmi központ volt az ókorban, és gazdasági tevékenységekre utaló feliratokat őriz. A termékeny Terai-síkságon fekszik.",
@@ -1585,7 +1585,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-birupaksha-statue-history-v2",
     type: "monument",
     name: { de: "Birupaksha", hu: "Birupaksha", ro: "Birupaksha", en: "Birupaksha" },
-    coordinates: { lat: 27.711, lng: 85.348 },
+    coords: [85.348, 27.711],
     description: {
       de: "Die Birupaksha-Statue in Pashupati gilt als eines der ältesten Steinmonumente in Kathmandu. Sie wird oft mit der legendären Kirat-Periode in Verbindung gebracht.",
       hu: "A pashupati Birupaksha-szobrot Katmandu egyik legrégebbi kőemlékeként tartják számon. Gyakran a legendás Kirat-korszakkal hozzák összefüggésbe.",
@@ -1604,7 +1604,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kailashkut-bhawan-history-v2",
     type: "ruins",
     name: { de: "Kailashkut Bhawan", hu: "Kailashkut Bhawan", ro: "Kailashkut Bhawan", en: "Kailashkut Bhawan" },
-    coordinates: { lat: 27.71, lng: 85.34 },
+    coords: [85.34, 27.71],
     description: {
       de: "Kailashkut Bhawan war der legendäre Palast von König Amshuverma aus dem 7. Jahrhundert. Er wurde in Reiseberichten chinesischer Pilger als architektonisches Wunder gepriesen.",
       hu: "A Kailashkut Bhawan Amshuverma király legendás 7. századi palotája volt. Kínai zarándokok útibeszámolói építészeti csodaként emlegették.",
@@ -1623,7 +1623,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-mangriha-ancient-palace-history-v2",
     type: "ruins",
     name: { de: "Mangriha", hu: "Mangriha", ro: "Mangriha", en: "Mangriha" },
-    coordinates: { lat: 27.705, lng: 85.335 },
+    coords: [85.335, 27.705],
     description: {
       de: "Mangriha war die Residenz der frühen Licchavi-Könige, insbesondere von König Manadeva. Es war das erste aufgezeichnete Machtzentrum in Kathmandu.",
       hu: "A Mangriha a korai Licchavi királyok, különösen Manadeva király rezidenciája volt. Ez volt Katmandu első feljegyzett hatalmi központja.",
@@ -1642,7 +1642,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kirateshwar-statue-history-v2",
     type: "monument",
     name: { de: "Kirat-Statue", hu: "Kirat-szobor", ro: "Statuia Kirat", en: "Kirat Statue" },
-    coordinates: { lat: 27.708, lng: 85.352 },
+    coords: [85.352, 27.708],
     description: {
       de: "Diese seltene Steinstatue zeigt einen Krieger aus der Kirat-Zeit und ist ein wichtiges Zeugnis der vor-Licchavi Geschichte Nepals.",
       hu: "Ez a ritka kőszobor egy Kirat-kori harcost ábrázol, és fontos bizonyítéka Nepál Licchavik előtti történelmének.",
@@ -1661,7 +1661,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-sankhu-bajrayogini-history-v2",
     type: "monument",
     name: { de: "Sankhu Bajrayogini", hu: "Sankhu Bajrayogini", ro: "Sankhu Bajrayogini", en: "Sankhu Bajrayogini" },
-    coordinates: { lat: 27.735, lng: 85.485 },
+    coords: [85.485, 27.735],
     description: {
       de: "Dieser antike Tempelkomplex oberhalb von Sankhu ist sowohl für Hindus als auch für Buddhisten heilig. Er wird mit tantrischen Praktiken der Malla-Zeit in Verbindung gebracht.",
       hu: "Ez a Sankhu feletti ősi templomkomplexum mind a hinduk, mind a buddhisták számára szent. A Malla-korszak tantrikus gyakorlataihoz kötik.",
@@ -1680,7 +1680,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-pashupati-western-gate-history-v2",
     type: "landmark",
     name: { de: "Westtor von Pashupatinath", hu: "Pashupatinath nyugati kapuja", ro: "Poarta de vest a Pashupatinath", en: "Western Gate of Pashupatinath" },
-    coordinates: { lat: 27.711, lng: 85.347 },
+    coords: [85.347, 27.711],
     description: {
       de: "Das massive Westtor ist der Haupteingang zum heiligsten Hindutempel Nepals. Es ist reich mit Gold und Silber verziert und spiegelt die Rana-Architektur wider.",
       hu: "A hatalmas nyugati kapu Nepál legszentebb hindu templomának főbejárata. Gazdagon díszített arannyal és ezüsttel, tükrözve a Rana-építészetet.",
@@ -1699,7 +1699,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-taleju-patan-history-v2",
     type: "monument",
     name: { de: "Taleju Tempel Patan", hu: "Taleju-templom Patan", ro: "Templul Taleju din Patan", en: "Taleju Temple Patan" },
-    coordinates: { lat: 27.673, lng: 85.326 },
+    coords: [85.326, 27.673],
     description: {
       de: "Dieser Tempel im Patan Durbar Square ist der königlichen Gottheit Taleju gewidmet. Er ist ein herausragendes Beispiel für die Pagoden-Architektur des 17. Jahrhunderts.",
       hu: "Ez a Patan Durbar téren található templom a királyi Taleju istennőnek van szentelve. A 17. századi pagoda-építészet kiemelkedő példája.",
@@ -1718,7 +1718,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-hiranya-varna-mahavihar-history-v2",
     type: "monument",
     name: { de: "Hiranya Varna Mahavihar", hu: "Hiranya Varna Mahavihar", ro: "Hiranya Varna Mahavihar", en: "Hiranya Varna Mahavihar" },
-    coordinates: { lat: 27.676, lng: 85.324 },
+    coords: [85.324, 27.676],
     description: {
       de: "Auch bekannt als der Goldene Tempel von Patan, ist dieses Vihara berühmt für seine prächtige Metallkunst. Es gilt als eines der reichsten buddhistischen Klöster.",
       hu: "Patan Aranytemplomaként is ismert; ez a vihara híres pompás fémművességéről. Az egyik leggazdagabb buddhista kolostornak tartják.",
@@ -1737,7 +1737,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-pujari-math-history-v2",
     type: "landmark",
     name: { de: "Pujari Math", hu: "Pujari Math", ro: "Pujari Math", en: "Pujari Math" },
-    coordinates: { lat: 27.673, lng: 85.436 },
+    coords: [85.436, 27.673],
     description: {
       de: "Pujari Math ist eines der bedeutendsten historischen Priesterhäuser in Bhaktapur. Es ist weltberühmt für seine meisterhaften Holzschnitzereien, besonders das Pfauenfenster.",
       hu: "A Pujari Math az egyik legfontosabb történelmi paplak Bhaktapurban. Világhírű mesteri fafaragásairól, különösen a Páva-ablakról.",
@@ -1756,7 +1756,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-national-archives-history-v2",
     type: "museum",
     name: { de: "Nationalarchiv von Nepal", hu: "Nepáli Nemzeti Archívum", ro: "Arhivele Naționale ale Nepalului", en: "National Archives of Nepal" },
-    coordinates: { lat: 27.707, lng: 85.317 },
+    coords: [85.317, 27.707],
     description: {
       de: "Das Nationalarchiv bewahrt die schriftliche Geschichte Nepals auf, darunter Tausende von Manuskripten auf Palmblättern und Papier. Es ist ein Schatzhaus des Wissens.",
       hu: "A Nemzeti Archívum Nepál írott történelmét őrzi, több ezer pálmaleveles és papírkézirattal. A tudás valóságos kincstára.",
@@ -1775,7 +1775,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-chhauni-arms-museum-history-v2",
     type: "museum",
     name: { de: "Historisches Waffenmuseum", hu: "Történelmi Fegyverraktár", ro: "Arsenalul Istoric", en: "Historical Arsenal" },
-    coordinates: { lat: 27.704, lng: 85.29 },
+    coords: [85.29, 27.704],
     description: {
       de: "Teil des Nationalmuseumskomplexes, konzentriert sich dieses Arsenal auf die militärische Geschichte Nepals. Es zeigt Kanonen und Waffen aus den Vereinigungskriegen.",
       hu: "A Nemzeti Múzeum komplexumának része, ez a fegyverraktár Nepál katonai történelmére összpontosít. Az egyesítő háborúk ágyúit és fegyvereit mutatja be.",
@@ -1794,7 +1794,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-tri-chandra-college-history-v2",
     type: "university",
     name: { de: "Tri-Chandra College", hu: "Tri-Chandra Kollégium", ro: "Colegiul Tri-Chandra", en: "Tri-Chandra College" },
-    coordinates: { lat: 27.707, lng: 85.314 },
+    coords: [85.314, 27.707],
     description: {
       de: "Das 1918 gegründete Tri-Chandra ist die älteste Hochschule Nepals. Es markiert den Beginn der modernen höheren Bildung im Land unter der Rana-Herrschaft.",
       hu: "Az 1918-ban alapított Tri-Chandra Nepál legrégebbi felsőoktatási intézménye. A modern felsőoktatás kezdetét jelzi az országban a Rana-uralom alatt.",
@@ -1813,7 +1813,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-ghanta-ghar-history-v2",
     type: "tower",
     name: { de: "Ghanta Ghar", hu: "Ghanta Ghar", ro: "Ghanta Ghar", en: "Ghanta Ghar" },
-    coordinates: { lat: 27.707, lng: 85.315 },
+    coords: [85.315, 27.707],
     description: {
       de: "Ghanta Ghar ist der älteste Uhrturm Nepals, erbaut im Jahr 1894. Er ist ein markantes Wahrzeichen von Kathmandu und wurde nach dem Vorbild des Big Ben entworfen.",
       hu: "A Ghanta Ghar Nepál legrégebbi óratornya, amely 1894-ben épült. Katmandu egyik jellegzetes épülete, amelyet a Big Ben mintájára terveztek.",
@@ -1832,7 +1832,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-nuwakot-sattale-durbar-history-v2",
     type: "palace",
     name: { de: "Saat Tale Durbar", hu: "Saat Tale Durbar", ro: "Saat Tale Durbar", en: "Saat Tale Durbar" },
-    coordinates: { lat: 27.915, lng: 85.165 },
+    coords: [85.165, 27.915],
     description: {
       de: "Dieser 'siebenstöckige Palast' in Nuwakot war die strategische Basis von Prithvi Narayan Shah während der Vereinigung Nepals. Er bietet einen Blick auf das Trishuli-Tal.",
       hu: "Ez a nuwakoti 'hétemeletes palota' Prithvi Narayan Shah stratégiai bázisa volt Nepál egyesítése során. Kilátást nyújt a Trishuli-völgyre.",
@@ -1851,7 +1851,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kirtipur-bagh-bhairav-history-v2",
     type: "monument",
     name: { de: "Bagh Bhairav Tempel", hu: "Bagh Bhairav-templom", ro: "Templul Bagh Bhairav", en: "Bagh Bhairav Temple" },
-    coordinates: { lat: 27.679, lng: 85.275 },
+    coords: [85.275, 27.679],
     description: {
       de: "Dieser antike Tempel in Kirtipur ist Bhairav in Form eines Tigers gewidmet. Er ist berühmt für die Waffen, die nach historischen Schlachten an seinen Wänden aufgehängt wurden.",
       hu: "Ez a kirtipuri ősi templom Bhairavnak van szentelve tigris formájában. Híres a falaira függesztett fegyverekről, amelyeket a történelmi csaták után hagytak ott.",
@@ -1870,7 +1870,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-uma-maheshwor-kirtipur-history-v2",
     type: "monument",
     name: { de: "Uma Maheshwor Tempel", hu: "Uma Maheshwor-templom", ro: "Templul Uma Maheshwor", en: "Uma Maheshwor Temple" },
-    coordinates: { lat: 27.68, lng: 85.273 },
+    coords: [85.273, 27.68],
     description: {
       de: "Auf dem höchsten Punkt von Kirtipur gelegen, bietet dieser Tempel aus dem 17. Jahrhundert einen weiten Blick auf das Tal. Er bewahrt bedeutende Steinschnitzereien.",
       hu: "Kirtipur legmagasabb pontján található ez a 17. századi templom, amely tágas kilátást nyújt a völgyre. Jelentős kőfaragványokat őriz.",
@@ -1889,7 +1889,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-chilcho-stupa-kirtipur-history-v2",
     type: "monument",
     name: { de: "Chilcho Stupa", hu: "Chilcho-sztúpa", ro: "Stupa Chilcho", en: "Chilcho Stupa" },
-    coordinates: { lat: 27.678, lng: 85.276 },
+    coords: [85.276, 27.678],
     description: {
       de: "Diese antike buddhistische Stupa im Zentrum von Kirtipur zeigt die klassische Newar-Stupa-Architektur. Sie ist ein spirituelles Zentrum der lokalen Gemeinschaft.",
       hu: "Ez az ősi buddhista sztúpa Kirtipur központjában a klasszikus newar sztúpa-építészetet mutatja be. A helyi közösség spirituális központja.",
@@ -1908,7 +1908,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bal-gopal-temple-history-v2",
     type: "monument",
     name: { de: "Bal-Gopal-Tempel", hu: "Bal-Gopal-templom", ro: "Templul Bal-Gopal", en: "Bal-Gopal Temple" },
-    coordinates: { lat: 27.708, lng: 85.316 },
+    coords: [85.316, 27.708],
     description: {
       de: "Der Bal-Gopal-Tempel steht im Zentrum des Rani Pokhari Teiches. Er ist für seine Shikara-Architektur bekannt und nur einmal im Jahr für Besucher zugänglich.",
       hu: "A Bal-Gopal-templom a Rani Pokhari tó közepén áll. Shikara-stílusú építészetéről ismert, és évente csak egyszer látogatható.",
@@ -1927,7 +1927,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-kirat-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Kirat-Palastruinen", hu: "Kirat palotaromok", ro: "Ruinele palatului Kirat", en: "Kirat Palace Ruins" },
-    coordinates: { lat: 27.712, lng: 85.355 },
+    coords: [85.355, 27.712],
     description: {
       de: "Überreste des legendären Palastes der Kirat-Dynastie, die das Tal vor den Licchavis beherrschte. Die Stätte liefert Hinweise auf die früheste urbane Besiedlung.",
       hu: "A legendás Kirat-dinasztia palotájának maradványai, akik a Licchavik előtt uralták a völgyet. A lelőhely a legkorábbi városi településekre utal.",
@@ -1946,7 +1946,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-ichangu-narayan-history-v2",
     type: "monument",
     name: { de: "Ichangu Narayan", hu: "Ichangu Narayan", ro: "Ichangu Narayan", en: "Ichangu Narayan" },
-    coordinates: { lat: 27.73, lng: 85.27 },
+    coords: [85.27, 27.73],
     description: {
       de: "Einer der vier bedeutendsten Vishnu-Tempel im Kathmandu-Tal, erbaut im 5. Jahrhundert. Er liegt am Fuße des Nagarjun-Hügels.",
       hu: "A Katmandu-völgy négy legjelentősebb Vishnu-templomának egyike, amely az 5. században épült. A Nagarjun-domb lábánál található.",
@@ -1965,7 +1965,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
     id: "nepal-bishnu-devi-temple-history-v2",
     type: "monument",
     name: { de: "Bishnu Devi Tempel", hu: "Bishnu Devi-templom", ro: "Templul Bishnu Devi", en: "Bishnu Devi Temple" },
-    coordinates: { lat: 27.653, lng: 85.295 },
+    coords: [85.295, 27.653],
     description: {
       de: "Dieser historische Tempel am Ufer des Bagmati-Flusses ist der Göttin Bishnu Devi gewidmet. Er ist bekannt für seine ruhige Lage und antike Schreine.",
       hu: "Ez a Bagmati-folyó partján fekvő történelmi templom Bishnu Devi istennőnek van szentelve. Nyugodt környezetéről és ősi szentélyeiről ismert.",

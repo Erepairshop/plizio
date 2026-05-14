@@ -651,7 +651,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-doba-refinery-economic-v2",
     type: "factory",
     name: { de: "Ölraffinerie Doba", hu: "Doba Olajfinomító", ro: "Rafinăria de petrol Doba", en: "Doba Oil Refinery" },
-    coordinates: { lat: 8.647, lng: 16.858 },
+    coords: [16.858, 8.647],
     description: {
       de: "Eine bedeutende Anlage zur Verarbeitung von Rohöl aus den umliegenden Feldern. Sie spielt eine zentrale Rolle in der lokalen Energieindustrie.",
       hu: "Jelentős létesítmény a környező mezőkről származó nyersolaj feldolgozására. Központi szerepet játszik a helyi energiaiparban.",
@@ -682,7 +682,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-lala-cotton-gin-economic-v2",
     type: "factory",
     name: { de: "Baumwollentkernungsanlage Lala", hu: "Lala Pamutmagtalanító", ro: "Fabrica de egrenare a bumbacului Lala", en: "Lala Cotton Gin" },
-    coordinates: { lat: 9.421, lng: 15.684 },
+    coords: [15.684, 9.421],
     description: {
       de: "Ein Verarbeitungsbetrieb für die lokale Baumwollernte im Süden des Landes. Die Anlage bereitet die Rohfaser für den Export vor.",
       hu: "Feldolgozóüzem az ország déli részén termesztett gyapot számára. A létesítmény előkészíti a nyersrostot az exportra.",
@@ -713,7 +713,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-koumra-milling-economic-v2",
     type: "factory",
     name: { de: "Getreidemühle Koumra", hu: "Koumra Gabonaőrlő", ro: "Moara de cereale Koumra", en: "Koumra Grain Mill" },
-    coordinates: { lat: 8.911, lng: 17.551 },
+    coords: [17.551, 8.911],
     description: {
       de: "Industrielle Mühle zur Verarbeitung von Hirse und Sorghum für die regionale Versorgung. Sie unterstützt die lokale Ernährungssicherheit.",
       hu: "Ipari malom köles és cirok feldolgozására a regionális ellátás érdekében. Támogatja a helyi élelmezésbiztonságot.",
@@ -744,7 +744,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-massakory-cattle-market-economic-v2",
     type: "industry",
     name: { de: "Viehmarkt Massakory", hu: "Massakory Állatvásár", ro: "Piața de vite Massakory", en: "Massakory Livestock Market" },
-    coordinates: { lat: 12.983, lng: 15.728 },
+    coords: [15.728, 12.983],
     description: {
       de: "Ein bedeutender Handelsplatz für Rinder und Kamele im zentralen Tschad. Er verbindet nomadische Viehzüchter mit städtischen Händlern.",
       hu: "Jelentős kereskedelmi központ szarvasmarhák és tevék számára Közép-Csádban. Összeköti a nomád állattenyésztőket a városi kereskedőkkel.",
@@ -775,7 +775,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-pala-ore-processing-economic-v2",
     type: "industry",
     name: { de: "Erzaufbereitungsanlage Pala", hu: "Pala Ércfeldolgozó", ro: "Uzina de procesare a minereului Pala", en: "Pala Ore Processing Plant" },
-    coordinates: { lat: 9.369, lng: 14.908 },
+    coords: [14.908, 9.369],
     description: {
       de: "Moderne Anlage zur Trennung von Gold und anderen Erzen aus lokalem Gestein. Sie ist ein Schlüsselpunkt für den Bergbausektor.",
       hu: "Modern üzem arany és egyéb ércek leválasztására a helyi kőzetekből. A bányászati szektor kulcspontja.",
@@ -806,7 +806,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-bol-commercial-dock-economic-v2",
     type: "port",
     name: { de: "Handelskai Bol", hu: "Bol Kereskedelmi Kikötő", ro: "Docul comercial Bol", en: "Bol Commercial Dock" },
-    coordinates: { lat: 13.458, lng: 14.717 },
+    coords: [14.717, 13.458],
     description: {
       de: "Wichtiger Binnenhafen am Tschadsee für den Umschlag von Fisch und landwirtschaftlichen Gütern. Er dient als logistisches Zentrum.",
       hu: "Fontos belvízi kikötő a Csád-tavon hal és mezőgazdasági termékek átrakodására. Logisztikai központként szolgál.",
@@ -837,7 +837,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-am-timan-trading-zone-economic-v2",
     type: "city",
     name: { de: "Handelszone Am Timan", hu: "Am Timan Kereskedelmi Zóna", ro: "Zona comercială Am Timan", en: "Am Timan Trading Zone" },
-    coordinates: { lat: 11.036, lng: 20.285 },
+    coords: [20.285, 11.036],
     description: {
       de: "Ein geschäftiges Handelsgebiet für lokale Erzeugnisse wie Erdnüsse und Vieh im Südosten. Es fungiert als regionaler Umschlagplatz.",
       hu: "Forgalmas kereskedelmi terület helyi termékek, például földimogyoró és állatállomány számára délkeleten. Regionális csomópontként funkcionál.",
@@ -868,7 +868,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-doba-power-plant-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Doba", hu: "Doba Erőmű", ro: "Centrala electrică Doba", en: "Doba Power Plant" },
-    coordinates: { lat: 8.655, lng: 16.865 },
+    coords: [16.865, 8.655],
     description: {
       de: "Eine thermische Anlage zur Energieerzeugung für den industriellen Betrieb der Ölfelder. Sie stellt die Stromversorgung vor Ort sicher.",
       hu: "Termikus erőmű az olajmezők ipari üzemeinek energiaellátására. Biztosítja a helyi áramellátást.",
@@ -899,7 +899,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-beac-logistics-ndjamena-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum BEAC N'Djamena", hu: "BEAC Logisztikai Központ N'Djamena", ro: "Centru logistic BEAC N'Djamena", en: "BEAC Logistics Center N'Djamena" },
-    coordinates: { lat: 12.115, lng: 15.045 },
+    coords: [15.045, 12.115],
     description: {
       de: "Ein zentraler Standort für die Verwaltung und Verteilung von Finanzströmen und operativen Ressourcen in der Hauptstadt.",
       hu: "Központi helyszín pénzügyi áramlások és operatív erőforrások kezelésére és elosztására a fővárosban.",
@@ -930,7 +930,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     id: "chad-mandou-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Moundou", hu: "Moundou Cementgyár", ro: "Fabrica de ciment Moundou", en: "Moundou Cement Factory" },
-    coordinates: { lat: 8.568, lng: 16.085 },
+    coords: [16.085, 8.568],
     description: {
       de: "Produktionsstätte für Baustoffe, die den wachsenden Infrastrukturbedarf der Region deckt. Sie fördert den lokalen Bau-Sektor.",
       hu: "Építőanyag-gyártó üzem, amely kielégíti a régió növekvő infrastrukturális igényeit. Előmozdítja a helyi építőipart.",

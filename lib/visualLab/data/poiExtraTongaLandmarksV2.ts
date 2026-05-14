@@ -5,7 +5,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-haamonga-a-maui-landmarks-v2",
     type: "monument",
     name: { de: "Ha'amonga 'a Maui", hu: "Ha'amonga 'a Maui trilition", ro: "Ha'amonga 'a Maui", en: "Ha'amonga 'a Maui" },
-    coordinates: { lat: -21.1364, lng: -175.0483 },
+    coords: [-175.0483, -21.1364],
     description: {
       de: "Dieser massive Steintrilith aus dem 13. Jahrhundert gilt als das Stonehenge des Pazifiks. Er besteht aus drei großen Korallenkalksteinblöcken.",
       hu: "Ez a 13. századi masszív kőtömbcsoport a Csendes-óceán Stonehenge-eként ismert. Három hatalmas korallmészkő tömbből áll.",
@@ -24,7 +24,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-malaekula-landmarks-v2",
     type: "monument",
     name: { de: "Mala'ekula", hu: "Mala'ekula királyi sírok", ro: "Mala'ekula", en: "Mala'ekula" },
-    coordinates: { lat: -21.1361, lng: -175.2011 },
+    coords: [-175.2011, -21.1361],
     description: {
       de: "Mala'ekula ist die offizielle Begräbnisstätte der königlichen Familie von Tonga in Nuku'alofa. Die Grabanlagen wurden ab 1893 genutzt.",
       hu: "A Mala'ekula a tongai királyi család hivatalos temetkezési helye Nuku'alofában. A síremlékeket 1893 óta használják.",
@@ -43,7 +43,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-paepae-o-telea-landmarks-v2",
     type: "ruins",
     name: { de: "Paepae 'o Tele'a", hu: "Paepae 'o Tele'a síremlék", ro: "Paepae 'o Tele'a", en: "Paepae 'o Tele'a" },
-    coordinates: { lat: -21.1794, lng: -175.1211 },
+    coords: [-175.1211, -21.1794],
     description: {
       de: "Diese terrassenförmige Grabanlage in Lapaha wurde für den 29. Tu'i Tonga im 16. Jahrhundert errichtet. Sie besteht aus riesigen Korallengesteinsplatten.",
       hu: "Ez a Lapahában található teraszos síremlék a 16. században épült a 29. Tu'i Tonga számára. Hatalmas korallkő lapokból áll.",
@@ -62,7 +62,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-langi-namoala-landmarks-v2",
     type: "ruins",
     name: { de: "Langi Namoala", hu: "Langi Namoala sírhalom", ro: "Langi Namoala", en: "Langi Namoala" },
-    coordinates: { lat: -21.1788, lng: -175.1225 },
+    coords: [-175.1225, -21.1788],
     description: {
       de: "Ein gut erhaltenes terrassenförmiges Grabmal der königlichen Dynastie in Mu'a. Es ist bekannt für seine präzise bearbeiteten Korallenblöcke.",
       hu: "A királyi dinasztia jól megőrzött teraszos síremléke Mu'ában. Precízen megmunkált koralltömbjeiről ismert.",
@@ -81,7 +81,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-centenary-chapel-landmarks-v2",
     type: "church",
     name: { de: "Zentenarkapelle", hu: "Centenáriumi kápolna", ro: "Capela Centenarului", en: "Centenary Chapel" },
-    coordinates: { lat: -21.1353, lng: -175.1978 },
+    coords: [-175.1978, -21.1353],
     description: {
       de: "Die Zentenarkapelle ist die Hauptkirche der Free Wesleyan Church in Nuku'alofa. Sie wurde 1952 zum Gedenken an den Sieg über die Lepra errichtet.",
       hu: "A Centenáriumi kápolna a Szabad Wesleyánus Egyház főtemploma Nuku'alofában. 1952-ben épült a lepra feletti győzelem emlékére.",
@@ -100,7 +100,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-free-church-landmarks-v2",
     type: "church",
     name: { de: "Freikirche von Tonga", hu: "Tongai Szabadegyház", ro: "Biserica Liberă din Tonga", en: "Free Church of Tonga" },
-    coordinates: { lat: -21.1333, lng: -175.2044 },
+    coords: [-175.2044, -21.1333],
     description: {
       de: "Dieses historische Kirchengebäude in Nuku'alofa ist ein zentrales Symbol der religiösen Unabhängigkeit Tongas. Es wurde im späten 19. Jahrhundert gegründet.",
       hu: "Ez a történelmi nuku'alofai templomépület Tonga vallási függetlenségének központi szimbóluma. A 19. század végén alapították.",
@@ -119,7 +119,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Tonga Nationalmuseum", hu: "Tongai Nemzeti Múzeum", ro: "Muzeul Național din Tonga", en: "Tonga National Museum" },
-    coordinates: { lat: -21.1394, lng: -175.1953 },
+    coords: [-175.1953, -21.1394],
     description: {
       de: "Das Museum bewahrt die kulturellen Schätze und die königliche Geschichte Tongas. Es zeigt archäologische Funde und traditionelle Textilien.",
       hu: "A múzeum Tonga kulturális kincseit és királyi történelmét őrzi. Régészeti leleteket és hagyományos textíliákat mutat be.",
@@ -138,7 +138,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-vuna-wharf-landmarks-v2",
     type: "port",
     name: { de: "Vuna-Kai", hu: "Vuna rakpart", ro: "Moll-ul Vuna", en: "Vuna Wharf" },
-    coordinates: { lat: -21.1308, lng: -175.1958 },
+    coords: [-175.1958, -21.1308],
     description: {
       de: "Der historische Vuna-Kai in Nuku'alofa dient als Anlegestelle für Kreuzfahrtschiffe und bietet einen weiten Blick über den Hafen.",
       hu: "A nuku'alofai történelmi Vuna rakpart az üdülőhajók kikötőjeként szolgál, és tágas kilátást nyújt a kikötőre.",
@@ -157,7 +157,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-captain-cook-landing-landmarks-v2",
     type: "monument",
     name: { de: "Captain Cooks Landungsplatz", hu: "Cook kapitány partraszállási helye", ro: "Locul de debarcare al căpitanului Cook", en: "Captain Cook's Landing Place" },
-    coordinates: { lat: -21.1561, lng: -175.1242 },
+    coords: [-175.1242, -21.1561],
     description: {
       de: "Ein Gedenkstein in Holonga markiert die Stelle, an der Captain James Cook 1777 während seiner dritten Pazifikreise an Land ging.",
       hu: "Holongában egy emlékkő jelöli azt a helyet, ahol James Cook kapitány 1777-ben, harmadik csendes-óceáni útja során partra szállt.",
@@ -176,7 +176,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-abel-tasman-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Abel Tasman Denkmal", hu: "Abel Tasman emlékmű", ro: "Monumentul lui Abel Tasman", en: "Abel Tasman Memorial" },
-    coordinates: { lat: -21.0853, lng: -175.3358 },
+    coords: [-175.3358, -21.0853],
     description: {
       de: "Dieses Denkmal bei Hihifo erinnert an die Landung des niederländischen Entdeckers Abel Tasman im Jahr 1643 auf der Insel Tongatapu.",
       hu: "Ez a Hihifo melletti emlékmű Abel Tasman holland felfedező 1643-as partraszállására emlékeztet Tongatapu szigetén.",
@@ -195,7 +195,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-langi-tuofafa-landmarks-v2",
     type: "ruins",
     name: { de: "Langi Tu'ofafa", hu: "Langi Tu'ofafa síremlék", ro: "Langi Tu'ofafa", en: "Langi Tu'ofafa" },
-    coordinates: { lat: -21.1772, lng: -175.1236 },
+    coords: [-175.1236, -21.1772],
     description: {
       de: "Eines der majestätischen terrassenförmigen Gräber der Tu'i Tonga in Lapaha, erbaut aus massiven Steinblöcken ohne Mörtel.",
       hu: "A Tu'i Tonga uralkodók egyik fenséges teraszos síremléke Lapahában, habarcs nélkül, masszív kőtömbökből építve.",
@@ -214,7 +214,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-langi-katoa-landmarks-v2",
     type: "ruins",
     name: { de: "Langi Katoa", hu: "Langi Katoa sírhely", ro: "Langi Katoa", en: "Langi Katoa" },
-    coordinates: { lat: -21.1764, lng: -175.1247 },
+    coords: [-175.1247, -21.1764],
     description: {
       de: "Diese alte Grabanlage in Mu'a zeugt von der hoch entwickelten Steinmetzkunst der frühen tongaischen Zivilisation und Herrscherdynastie.",
       hu: "Ez a Mu'ában található ősi sírhely a korai tongai civilizáció és uralkodó dinasztia fejlett kőfaragó művészetéről tanúskodik.",
@@ -233,7 +233,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-st-marys-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Marien Kathedrale", hu: "Szent Mária-székesegyház", ro: "Catedrala Sfânta Maria", en: "St. Mary's Cathedral" },
-    coordinates: { lat: -21.1394, lng: -175.2058 },
+    coords: [-175.2058, -21.1394],
     description: {
       de: "Diese katholische Kathedrale in Nuku'alofa ist bekannt für ihre Architektur und die wunderschönen Gärten, die das Gebäude umgeben.",
       hu: "Ez a nuku'alofai katolikus székesegyház építészetéről és az épületet körülvevő gyönyörű kertekről ismert.",
@@ -252,7 +252,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-st-josephs-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Josephs Kathedrale", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
-    coordinates: { lat: -18.6508, lng: -173.9833 },
+    coords: [-173.9833, -18.6508],
     description: {
       de: "Die Hauptkirche von Neiafu überragt den Hafen von Vava'u. Sie ist ein markantes Wahrzeichen mit zwei markanten Türmen.",
       hu: "Neiafu főtemploma a Vava'u-kikötő fölé magasodik. Jellegzetes nevezetesség két hangsúlyos tornyával.",
@@ -271,7 +271,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-shirley-baker-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Shirley Baker Denkmal", hu: "Shirley Baker emlékmű", ro: "Monumentul Shirley Baker", en: "Shirley Baker Memorial" },
-    coordinates: { lat: -19.8144, lng: -174.3467 },
+    coords: [-174.3467, -19.8144],
     description: {
       de: "Dieses Denkmal in Pangai erinnert an Shirley Waldemar Baker, einen ehemaligen Premierminister Tongas und Missionar.",
       hu: "Ez a pangaiban található emlékmű Shirley Waldemar Bakernek, Tonga egykori miniszterelnökének és misszionáriusának állít emléket.",
@@ -290,7 +290,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-taufaahau-tupou-i-statue-landmarks-v2",
     type: "monument",
     name: { de: "Statue von Taufa'ahau Tupou I.", hu: "I. Taufa'ahau Tupou szobra", ro: "Statuia lui Taufa'ahau Tupou I", en: "Taufa'ahau Tupou I Statue" },
-    coordinates: { lat: -19.8153, lng: -174.3458 },
+    coords: [-174.3458, -19.8153],
     description: {
       de: "Die Statue ehrt den ersten König und Gründer des modernen Staates Tonga. Sie steht im Zentrum von Pangai auf der Insel Lifuka.",
       hu: "A szobor Tonga első királya és a modern állam alapítója előtt tiszteleg. Pangai központjában, Lifuka szigetén áll.",
@@ -309,7 +309,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-sia-heu-lupe-tongatapu-landmarks-v2",
     type: "ruins",
     name: { de: "Sia Heu Lupe (Tongatapu)", hu: "Sia Heu Lupe (Tongatapu)", ro: "Sia Heu Lupe (Tongatapu)", en: "Sia Heu Lupe (Tongatapu)" },
-    coordinates: { lat: -21.1378, lng: -175.1436 },
+    coords: [-175.1436, -21.1378],
     description: {
       de: "Ein künstlicher Erdhügel, der früher vom Adel für das traditionelle Taubengeschicklichkeitsspiel genutzt wurde.",
       hu: "Egy mesterséges földhalom, amelyet régen a nemesség használt a hagyományos galambfogó ügyességi játékhoz.",
@@ -328,7 +328,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-sia-heu-lupe-vavau-landmarks-v2",
     type: "ruins",
     name: { de: "Sia Heu Lupe (Vava'u)", hu: "Sia Heu Lupe (Vava'u)", ro: "Sia Heu Lupe (Vava'u)", en: "Sia Heu Lupe (Vava'u)" },
-    coordinates: { lat: -18.6367, lng: -173.9614 },
+    coords: [-173.9614, -18.6367],
     description: {
       de: "Dieser zeremonielle Hügel auf Vava'u diente den Häuptlingen als erhöhte Plattform für die traditionelle Taubenjagd.",
       hu: "Ez a Vava'un található szertartási halom a főnökök számára szolgált emelt platformként a hagyományos galambvadászathoz.",
@@ -347,7 +347,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-treasury-building-landmarks-v2",
     type: "monument",
     name: { de: "Schatzamtsgebäude", hu: "Pénzügyminisztérium épülete", ro: "Clădirea Trezoreriei", en: "Treasury Building" },
-    coordinates: { lat: -21.1347, lng: -175.2017 },
+    coords: [-175.2017, -21.1347],
     description: {
       de: "Ein charakteristisches Regierungsgebäude in Nuku'alofa, das die koloniale Architekturgeschichte der Hauptstadt widerspiegelt.",
       hu: "Egy jellegzetes kormányzati épület Nuku'alofában, amely a főváros gyarmati építészeti múltját tükrözi.",
@@ -366,7 +366,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-post-office-nukualofa-landmarks-v2",
     type: "monument",
     name: { de: "Hauptpostamt Nuku'alofa", hu: "Nuku'alofai főposta", ro: "Poșta Centrală Nuku'alofa", en: "Main Post Office Nuku'alofa" },
-    coordinates: { lat: -21.1358, lng: -175.2028 },
+    coords: [-175.2028, -21.1358],
     description: {
       de: "Das Postamt ist ein zentraler Treffpunkt und ein funktionales Denkmal im Herzen der Hauptstadt.",
       hu: "A postaépület központi találkozóhely és funkcionális műemlék a főváros szívében.",
@@ -385,7 +385,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-high-court-nukualofa-landmarks-v2",
     type: "monument",
     name: { de: "Oberster Gerichtshof", hu: "Legfelsőbb Bíróság", ro: "Înalta Curte", en: "High Court of Tonga" },
-    coordinates: { lat: -21.1339, lng: -175.2019 },
+    coords: [-175.2019, -21.1339],
     description: {
       de: "Der Oberste Gerichtshof in Nuku'alofa ist ein imposantes Gebäude, das die Justizgewalt des Königreichs repräsentiert.",
       hu: "A nuku'alofai Legfelsőbb Bíróság egy impozáns épület, amely a királyság igazságszolgáltatási hatalmát képviseli.",
@@ -404,7 +404,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-tonga-college-atele-landmarks-v2",
     type: "university",
     name: { de: "Tonga College 'Atele", hu: "Tonga College 'Atele", ro: "Colegiul Tonga 'Atele", en: "Tonga College 'Atele" },
-    coordinates: { lat: -21.1833, lng: -175.2056 },
+    coords: [-175.2056, -21.1833],
     description: {
       de: "Das 1882 gegründete Tonga College ist die älteste staatliche Schule des Landes und ein wichtiges Bildungsdenkmal.",
       hu: "Az 1882-ben alapított Tonga College az ország legrégebbi állami iskolája és fontos oktatási műemléke.",
@@ -423,7 +423,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-tupou-college-toloa-landmarks-v2",
     type: "university",
     name: { de: "Tupou College Toloa", hu: "Tupou College Toloa", ro: "Colegiul Tupou Toloa", en: "Tupou College Toloa" },
-    coordinates: { lat: -21.2386, lng: -175.1481 },
+    coords: [-175.1481, -21.2386],
     description: {
       de: "Diese 1866 gegründete methodistische Schule ist bekannt für ihre historische Bedeutung und ihren weitläufigen Campus in Toloa.",
       hu: "Ezt az 1866-ban alapított metodista iskolát történelmi jelentősége és kiterjedt toloai kampusza tette ismertté.",
@@ -442,7 +442,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-queen-salote-memorial-hall-landmarks-v2",
     type: "theater",
     name: { de: "Königin Salote Gedächtnishalle", hu: "Salote Királynő Emlékcsarnok", ro: "Sala Memorială Regina Salote", en: "Queen Salote Memorial Hall" },
-    coordinates: { lat: -21.1383, lng: -175.1964 },
+    coords: [-175.1964, -21.1383],
     description: {
       de: "Die Halle ist ein wichtiges kulturelles Zentrum für Veranstaltungen und Konzerte in Nuku'alofa, benannt nach der beliebten Königin Salote.",
       hu: "A csarnok fontos kulturális központ rendezvények és koncertek számára Nuku'alofában, a népszerű Salote királynőről nevezték el.",
@@ -461,7 +461,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-wwii-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Zweiter Weltkrieg Denkmal", hu: "II. világháborús emlékmű", ro: "Monumentul celui de-al Doilea Război Mondial", en: "WWII War Memorial" },
-    coordinates: { lat: -21.1317, lng: -175.1975 },
+    coords: [-175.1975, -21.1317],
     description: {
       de: "Dieses Denkmal in Nuku'alofa ehrt die tongaischen Soldaten, die im Ersten und Zweiten Weltkrieg gedient haben.",
       hu: "Ez a nuku'alofai emlékmű azoknak a tongai katonáknak állít emléket, akik az első és második világháborúban szolgáltak.",
@@ -480,7 +480,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-1918-epidemic-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Epidemie-Denkmal von 1918", hu: "1918-as járvány emlékműve", ro: "Monumentul epidemiei din 1918", en: "1918 Epidemic Memorial" },
-    coordinates: { lat: -21.1417, lng: -175.2033 },
+    coords: [-175.2033, -21.1417],
     description: {
       de: "Ein Gedenkstein, der an die Opfer der verheerenden Grippeepidemie von 1918 erinnert, die einen großen Teil der Bevölkerung Tongas forderte.",
       hu: "Emlékkő, amely az 1918-as pusztító influenzajárvány áldozataira emlékeztet, amely Tonga lakosságának jelentős részét követelte.",
@@ -499,7 +499,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-missionary-landing-pangaimotu-landmarks-v2",
     type: "monument",
     name: { de: "Missionars-Landungsplatz", hu: "Misszionáriusok partraszállási helye", ro: "Locul de debarcare al misionarilor", en: "Missionary Landing Place" },
-    coordinates: { lat: -21.1217, lng: -175.1603 },
+    coords: [-175.1603, -21.1217],
     description: {
       de: "Diese Stätte auf der Insel Pangaimotu markiert den Ort, an dem 1797 die ersten christlichen Missionare in Tonga landeten.",
       hu: "Ez a Pangaimotu szigetén található helyszín jelöli azt a pontot, ahol 1797-ben az első keresztény misszionáriusok partra szálltak.",
@@ -518,7 +518,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-haapai-high-school-landmarks-v2",
     type: "university",
     name: { de: "Ha'apai Oberschule", hu: "Ha'apai középiskola", ro: "Liceul Ha'apai", en: "Ha'apai High School" },
-    coordinates: { lat: -19.8083, lng: -174.3486 },
+    coords: [-174.3486, -19.8083],
     description: {
       de: "Die Ha'apai High School ist ein bedeutendes Bildungszentrum auf der Insel Lifuka und ein markantes Gebäude der Region.",
       hu: "A Ha'apai középiskola Lifuka szigetének jelentős oktatási központja és a régió meghatározó épülete.",
@@ -537,7 +537,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-prince-wellington-gu-monument-landmarks-v2",
     type: "monument",
     name: { de: "Prinz Wellington Gu Denkmal", hu: "Wellington Gu herceg emlékműve", ro: "Monumentul Prințului Wellington Gu", en: "Prince Wellington Gu Monument" },
-    coordinates: { lat: -18.6486, lng: -173.9847 },
+    coords: [-173.9847, -18.6486],
     description: {
       de: "Dieses Denkmal in Neiafu ehrt Prinz Wellington Ngu, einen Sohn von König George Tupou I. und ehemaligen Gouverneur von Vava'u.",
       hu: "Ez a neiafui emlékmű Wellington Ngu hercegnek, I. György Tupou király fiának és Vava'u egykori kormányzójának állít emléket.",
@@ -556,7 +556,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-taufaahau-memorial-church-landmarks-v2",
     type: "church",
     name: { de: "Taufa'ahau Gedenkkirche", hu: "Taufa'ahau Emléktemplom", ro: "Biserica Memorială Taufa'ahau", en: "Taufa'ahau Memorial Church" },
-    coordinates: { lat: -19.8136, lng: -174.3469 },
+    coords: [-174.3469, -19.8136],
     description: {
       de: "Diese bedeutende methodistische Kirche in Pangai ist dem Gründer des modernen Tonga, König Taufa'ahau Tupou I., gewidmet.",
       hu: "Ez a jelentős pangaiban található metodista templom a modern Tonga alapítójának, I. Taufa'ahau Tupou királynak van szentelve.",
@@ -575,7 +575,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-neiafu-old-post-office-landmarks-v2",
     type: "monument",
     name: { de: "Altes Postamt Neiafu", hu: "Neiafui régi posta", ro: "Vechea Poștă din Neiafu", en: "Neiafu Old Post Office" },
-    coordinates: { lat: -18.6517, lng: -173.9825 },
+    coords: [-173.9825, -18.6517],
     description: {
       de: "Ein historisches Gebäude in Neiafu, das früher als Postamt diente und heute ein Relikt aus der Kolonialzeit darstellt.",
       hu: "Egy történelmi épület Neiafuban, amely korábban postaként szolgált, ma pedig a gyarmati korszak emlékét őrzi.",
@@ -594,7 +594,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-vavau-high-school-landmarks-v2",
     type: "university",
     name: { de: "Vava'u Oberschule", hu: "Vava'u középiskola", ro: "Liceul Vava'u", en: "Vava'u High School" },
-    coordinates: { lat: -18.6389, lng: -173.9667 },
+    coords: [-173.9667, -18.6389],
     description: {
       de: "Die zentrale Bildungseinrichtung der Vava'u-Inselgruppe, bekannt für ihren Campus in der Nähe von Neiafu.",
       hu: "A Vava'u-szigetcsoport központi oktatási intézménye, amely a Neiafu melletti kampuszáról ismert.",
@@ -613,7 +613,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-eua-old-school-house-landmarks-v2",
     type: "monument",
     name: { de: "Altes Schulhaus auf 'Eua", hu: "'Euai régi iskolaépület", ro: "Vechea școală din 'Eua", en: "'Eua Old School House" },
-    coordinates: { lat: -21.3667, lng: -174.95 },
+    coords: [-174.95, -21.3667],
     description: {
       de: "Dieses historische Gebäude auf der Insel 'Eua zeugt von der frühen Missionsarbeit und dem Aufbau des Schulwesens.",
       hu: "Ez a történelmi épület 'Eua szigetén a korai missziós tevékenységről és az iskolarendszer kiépítéséről tanúskodik.",
@@ -632,7 +632,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-niuatoputapu-church-landmarks-v2",
     type: "church",
     name: { de: "Niuatoputapu Kirche", hu: "Niuatoputapui templom", ro: "Biserica Niuatoputapu", en: "Niuatoputapu Church" },
-    coordinates: { lat: -15.955, lng: -173.7433 },
+    coords: [-173.7433, -15.955],
     description: {
       de: "Ein zentrales Wahrzeichen auf der abgelegenen Insel Niuatoputapu, das der lokalen Gemeinde als religiöser Mittelpunkt dient.",
       hu: "A távoli Niuatoputapu szigetének központi nevezetessége, amely a helyi közösség vallási központjaként szolgál.",
@@ -651,7 +651,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-niuafoou-landing-pier-landmarks-v2",
     type: "port",
     name: { de: "Niuafo'ou Anlegestelle", hu: "Niuafo'ou kikötőmóló", ro: "Debarcaderul Niuafo'ou", en: "Niuafo'ou Landing Pier" },
-    coordinates: { lat: -15.5617, lng: -175.6417 },
+    coords: [-175.6417, -15.5617],
     description: {
       de: "Die einzige Anlegestelle der Vulkaninsel Niuafo'ou, berühmt für die historische Postübermittlung per Schwimmer.",
       hu: "A vulkáni Niuafo'ou sziget egyetlen kikötője, amely a történelmi úszó postai szolgáltatásáról vált híressé.",
@@ -670,7 +670,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-mua-ancient-capital-landmarks-v2",
     type: "ruins",
     name: { de: "Mu'a Antike Hauptstadt", hu: "Mu'a ősi főváros", ro: "Mu'a Capitala Antică", en: "Mu'a Ancient Capital" },
-    coordinates: { lat: -21.1817, lng: -175.1217 },
+    coords: [-175.1217, -21.1817],
     description: {
       de: "Mu'a war über Jahrhunderte die Hauptstadt des tongaischen Imperiums und beherbergt zahlreiche monumentale Königsgräber.",
       hu: "Mu'a évszázadokon át a tongai birodalom fővárosa volt, és számos monumentális királyi sírnak ad otthont.",
@@ -689,7 +689,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-kanokupolu-site-landmarks-v2",
     type: "monument",
     name: { de: "Kanokupolu Krönungsstätte", hu: "Kanokupolu beiktatási helyszín", ro: "Sit-ul Kanokupolu", en: "Kanokupolu Investiture Site" },
-    coordinates: { lat: -21.0733, lng: -175.3403 },
+    coords: [-175.3403, -21.0733],
     description: {
       de: "In Kanokupolu werden traditionell die Herrscher Tongas in ihr Amt eingeführt. Es ist ein heiliger Ort der politischen Tradition.",
       hu: "Kanokupoluban iktatják be hagyományosan Tonga uralkodóit. Ez a politikai hagyományok szent helye.",
@@ -708,7 +708,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-nukuleka-archaeological-site-landmarks-v2",
     type: "ruins",
     name: { de: "Nukuleka Archäologische Stätte", hu: "Nukuleka régészeti lelőhely", ro: "Sit-ul arheologic Nukuleka", en: "Nukuleka Archaeological Site" },
-    coordinates: { lat: -21.1517, lng: -175.1267 },
+    coords: [-175.1267, -21.1517],
     description: {
       de: "Nukuleka gilt als eine der ersten Siedlungen der Lapita-Kultur in Tonga, die über 3.000 Jahre alt ist.",
       hu: "Nukuleka a Lapita-kultúra egyik első tongai településeként ismert, amely több mint 3000 éves.",
@@ -727,7 +727,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-haateiho-stone-pillars-landmarks-v2",
     type: "ruins",
     name: { de: "Steinpfosten von Ha'ateiho", hu: "Ha'ateiho kőoszlopok", ro: "Stâlpii de piatră din Ha'ateiho", en: "Ha'ateiho Stone Pillars" },
-    coordinates: { lat: -21.1683, lng: -175.1883 },
+    coords: [-175.1883, -21.1683],
     description: {
       de: "Diese antiken künstlichen Steinstrukturen in Ha'ateiho dienten vermutlich als Basis für Zeremonialgebäude.",
       hu: "Ezek az ősi, mesterséges kőszerkezetek Ha'ateihóban valószínűleg szertartási épületek alapjaként szolgáltak.",
@@ -746,7 +746,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-talasiu-ancient-docks-landmarks-v2",
     type: "ruins",
     name: { de: "Antike Docks von Talasiu", hu: "Talasiu ősi kikötői", ro: "Docurile antice din Talasiu", en: "Talasiu Ancient Docks" },
-    coordinates: { lat: -21.1667, lng: -175.1167 },
+    coords: [-175.1167, -21.1667],
     description: {
       de: "Überreste antiker Hafenanlagen in Talasiu, die einst den Seeverkehr des tongaischen Reiches unterstützten.",
       hu: "Talasiu ősi kikötői létesítményeinek maradványai, amelyek egykor a tongai birodalom tengeri forgalmát szolgálták.",
@@ -765,7 +765,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-popua-fortress-landmarks-v2",
     type: "ruins",
     name: { de: "Popua Festungsruinen", hu: "Popua erőd romjai", ro: "Ruinele cetății Popua", en: "Popua Fortress Ruins" },
-    coordinates: { lat: -21.1417, lng: -175.1617 },
+    coords: [-175.1617, -21.1417],
     description: {
       de: "Historische Verteidigungsanlagen in Popua, die während regionaler Konflikte als Schutzraum dienten.",
       hu: "Popua történelmi védelmi rendszere, amely a regionális konfliktusok idején óvóhelyként szolgált.",
@@ -784,7 +784,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-cathedral-of-st-joseph-neiafu-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale des Heiligen Joseph", hu: "Szent József-székesegyház (Neiafu)", ro: "Catedrala Sfântul Iosif (Neiafu)", en: "Cathedral of St. Joseph (Neiafu)" },
-    coordinates: { lat: -18.6506, lng: -173.9831 },
+    coords: [-173.9831, -18.6506],
     description: {
       de: "Dieses religiöse Zentrum in Neiafu ist eines der bedeutendsten Wahrzeichen der Vava'u-Inselgruppe.",
       hu: "Ez a neiafui vallási központ a Vava'u-szigetcsoport egyik legjelentősebb nevezetessége.",
@@ -803,7 +803,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-atele-indoor-stadium-landmarks-v2",
     type: "theater",
     name: { de: "Atele Sporthalle", hu: "Atele sportcsarnok", ro: "Stadionul Indoor Atele", en: "Atele Indoor Stadium" },
-    coordinates: { lat: -21.1825, lng: -175.2047 },
+    coords: [-175.2047, -21.1825],
     description: {
       de: "Ein modernes Sport- und Veranstaltungszentrum, das ein wichtiges Wahrzeichen für nationale Ereignisse darstellt.",
       hu: "Egy modern sport- és rendezvényközpont, amely a nemzeti események fontos nevezetessége.",
@@ -822,7 +822,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-nukualofa-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Nuku'alofa", hu: "Nuku'alofai világítótorony", ro: "Farul din Nuku'alofa", en: "Nuku'alofa Lighthouse" },
-    coordinates: { lat: -21.1303, lng: -175.1917 },
+    coords: [-175.1917, -21.1303],
     description: {
       de: "Der Leuchtturm sichert die Einfahrt in den Hafen von Nuku'alofa und ist ein funktionales maritimes Denkmal.",
       hu: "A világítótorony biztosítja a bejutást a nuku'alofai kikötőbe, és funkcionális tengerészeti műemlék.",
@@ -841,7 +841,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-st-peters-church-vavau-landmarks-v2",
     type: "church",
     name: { de: "St. Peters Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru", en: "St. Peter's Church" },
-    coordinates: { lat: -18.6667, lng: -173.95 },
+    coords: [-173.95, -18.6667],
     description: {
       de: "Eine charmante Kirche in einem der Küstendörfer von Vava'u, die für ihre ruhige Lage und Architektur bekannt ist.",
       hu: "Vava'u egyik parti falujának bájos temploma, amely nyugodt elhelyezkedéséről és építészetéről ismert.",
@@ -860,7 +860,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-royal-residence-kauvai-landmarks-v2",
     type: "palace",
     name: { de: "Königliche Residenz Kauvai", hu: "Kauvai királyi rezidencia", ro: "Reședința Regală Kauvai", en: "Royal Residence at Kauvai" },
-    coordinates: { lat: -21.1717, lng: -175.145 },
+    coords: [-175.145, -21.1717],
     description: {
       de: "Ein privater Landsitz der königlichen Familie von Tonga, der für Staatsempfänge und private Aufenthalte genutzt wird.",
       hu: "A tongai királyi család egyik magánbirtoka, amelyet állami fogadásokra és magáncélú tartózkodásra használnak.",
@@ -879,7 +879,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-house-of-nobles-landmarks-v2",
     type: "monument",
     name: { de: "Haus der Edelleute", hu: "Nemesek Háza", ro: "Casa Nobililor", en: "House of Nobles" },
-    coordinates: { lat: -21.1328, lng: -175.2011 },
+    coords: [-175.2011, -21.1328],
     description: {
       de: "Das Haus der Edelleute ist Teil des parlamentarischen Systems Tongas und repräsentiert den tongaischen Adel.",
       hu: "A Nemesek Háza a tongai parlamenti rendszer része, és a tongai nemességet képviseli.",
@@ -898,7 +898,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-hufangalupe-natural-monument-landmarks-v2",
     type: "monument",
     name: { de: "Hufangalupe Naturmonument", hu: "Hufangalupe természeti emlékmű", ro: "Monumentul Natural Hufangalupe", en: "Hufangalupe Natural Monument" },
-    coordinates: { lat: -21.2167, lng: -175.1167 },
+    coords: [-175.1167, -21.2167],
     description: {
       de: "Hufangalupe ist eine beeindruckende natürliche Steinbrücke an der Küste, die als wichtiges geologisches Wahrzeichen gilt.",
       hu: "A Hufangalupe egy lenyűgöző természetes kőhíd a tengerparton, amely fontos geológiai nevezetesség.",
@@ -917,7 +917,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-falaleu-church-landmarks-v2",
     type: "church",
     name: { de: "Falaleu Kirche", hu: "Falaleu templom", ro: "Biserica Falaleu", en: "Falaleu Church" },
-    coordinates: { lat: -18.6583, lng: -173.9833 },
+    coords: [-173.9833, -18.6583],
     description: {
       de: "Eine markante Kirche in der Nähe von Neiafu, die für ihre Lage und ihre Bedeutung für die lokale Gemeinschaft bekannt ist.",
       hu: "Egy jellegzetes templom Neiafu közelében, amely elhelyezkedéséről és a helyi közösség számára fontos szerepéről ismert.",
@@ -936,7 +936,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-vaipua-bridge-vavau-landmarks-v2",
     type: "bridge",
     name: { de: "Vaipua-Brücke", hu: "Vaipua-híd", ro: "Podul Vaipua", en: "Vaipua Bridge" },
-    coordinates: { lat: -18.6417, lng: -173.9889 },
+    coords: [-173.9889, -18.6417],
     description: {
       de: "Diese Brücke verbindet Neiafu mit den nördlichen Gebieten von Vava'u und bietet einen Blick auf die Vaipua-Bucht.",
       hu: "Ez a híd köti össze Neiafut Vava'u északi területeivel, és kilátást nyújt a Vaipua-öbölre.",
@@ -955,7 +955,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-utui-village-monument-landmarks-v2",
     type: "monument",
     name: { de: "Utui Dorfdenkmal", hu: "Utui falusi emlékmű", ro: "Monumentul satului Utui", en: "Utui Village Monument" },
-    coordinates: { lat: -18.6333, lng: -173.95 },
+    coords: [-173.95, -18.6333],
     description: {
       de: "Ein lokales Denkmal im Dorf Utui auf Vava'u, das an die Geschichte und die Vorfahren der Gemeinschaft erinnert.",
       hu: "Vava'u Utui falujának helyi emlékműve, amely a közösség történelmének és őseinek állít emléket.",
@@ -974,7 +974,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-leimatua-church-landmarks-v2",
     type: "church",
     name: { de: "Leimatua Kirche", hu: "Leimatua templom", ro: "Biserica Leimatua", en: "Leimatua Church" },
-    coordinates: { lat: -18.6083, lng: -173.9667 },
+    coords: [-173.9667, -18.6083],
     description: {
       de: "Die Kirche von Leimatua ist ein zentrales Gebäude in einem der größten Dörfer auf Vava'u.",
       hu: "Leimatua temploma Vava'u egyik legnagyobb falujának központi épülete.",
@@ -993,7 +993,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-haalaufuli-school-landmarks-v2",
     type: "university",
     name: { de: "Ha'alaufuli Schule", hu: "Ha'alaufuli iskola", ro: "Școala Ha'alaufuli", en: "Ha'alaufuli School" },
-    coordinates: { lat: -18.6, lng: -173.9167 },
+    coords: [-173.9167, -18.6],
     description: {
       de: "Diese historische Schule in Ha'alaufuli dient als Bildungszentrum für die umliegenden ländlichen Gemeinden auf Vava'u.",
       hu: "Ez a ha'alaufuli történelmi iskola Vava'u környékbeli vidéki közösségeinek oktatási központjaként szolgál.",
@@ -1012,7 +1012,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-longoteme-stone-monument-landmarks-v2",
     type: "monument",
     name: { de: "Steinmonument von Longoteme", hu: "Longoteme kőemlékmű", ro: "Monumentul de piatră din Longoteme", en: "Longoteme Stone Monument" },
-    coordinates: { lat: -21.1833, lng: -175.15 },
+    coords: [-175.15, -21.1833],
     description: {
       de: "Ein lokales architektonisches Merkmal im Dorf Longoteme, das aus bearbeiteten Steinen besteht.",
       hu: "Longoteme falujának helyi építészeti nevezetessége, amely megmunkált kövekből áll.",
@@ -1031,7 +1031,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-vuna-road-landmarks-v2",
     type: "landmark",
     name: { de: "Vuna-Straße Wahrzeichen", hu: "Vuna út nevezetességei", ro: "Reperele de pe Vuna Road", en: "Vuna Road Landmarks" },
-    coordinates: { lat: -21.1311, lng: -175.1953 },
+    coords: [-175.1953, -21.1311],
     description: {
       de: "Die Vuna Road ist die Prachtstraße von Nuku'alofa, gesäumt von historischen Gebäuden und Denkmälern.",
       hu: "A Vuna út Nuku'alofa főútja, amelyet történelmi épületek és emlékművek szegélyeznek.",
@@ -1050,7 +1050,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-tonga-broadcasting-building-landmarks-v2",
     type: "monument",
     name: { de: "Sendegebäude von Tonga", hu: "Tongai műsorszóró épület", ro: "Clădirea Radiodifuziunii Tonga", en: "Tonga Broadcasting Building" },
-    coordinates: { lat: -21.1389, lng: -175.2014 },
+    coords: [-175.2014, -21.1389],
     description: {
       de: "Das Gebäude der Tonga Broadcasting Commission ist ein funktionales Wahrzeichen der Kommunikation in Nuku'alofa.",
       hu: "A Tongai Műsorszolgáltató Bizottság épülete a kommunikáció funkcionális nevezetessége Nuku'alofában.",
@@ -1069,7 +1069,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-dateline-hotel-historic-landmarks-v2",
     type: "monument",
     name: { de: "Historisches Dateline Hotel", hu: "Történelmi Dateline Hotel", ro: "Hotelul istoric Dateline", en: "Historic Dateline Hotel" },
-    coordinates: { lat: -21.1317, lng: -175.1936 },
+    coords: [-175.1936, -21.1317],
     description: {
       de: "Das einstige Dateline Hotel war über Jahrzehnte das vornehmste Hotel Tongas und ein gesellschaftliches Wahrzeichen.",
       hu: "Az egykori Dateline Hotel évtizedeken át Tonga legelegánsabb szállodája és társadalmi nevezetessége volt.",
@@ -1088,7 +1088,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-government-building-nukualofa-landmarks-v2",
     type: "monument",
     name: { de: "Regierungsgebäude Nuku'alofa", hu: "Nuku'alofai kormányzati épület", ro: "Clădirea Guvernului Nuku'alofa", en: "Government Building Nuku'alofa" },
-    coordinates: { lat: -21.1344, lng: -175.2025 },
+    coords: [-175.2025, -21.1344],
     description: {
       de: "Ein zentrales administratives Gebäude, das verschiedene Ministerien des Königreichs Tonga beherbergt.",
       hu: "Központi közigazgatási épület, amely a Tongai Királyság különféle minisztériumainak ad otthont.",
@@ -1107,7 +1107,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-st-andrews-school-landmarks-v2",
     type: "university",
     name: { de: "St. Andreas Schule", hu: "Szent András-iskola", ro: "Școala Sfântul Andrei", en: "St. Andrew's School" },
-    coordinates: { lat: -21.1397, lng: -175.2089 },
+    coords: [-175.2089, -21.1397],
     description: {
       de: "Eine anglikanische Schule in Nuku'alofa, die für ihre lange Tradition und ihre historischen Gebäude bekannt ist.",
       hu: "Nuku'alofai anglikán iskola, amely hosszú hagyományairól és történelmi épületeiről ismert.",
@@ -1126,7 +1126,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-nuku-historic-site-landmarks-v2",
     type: "ruins",
     name: { de: "Historische Stätte von Nuku", hu: "Nuku történelmi helyszín", ro: "Situl istoric Nuku", en: "Nuku Historic Site" },
-    coordinates: { lat: -21.13, lng: -175.2 },
+    coords: [-175.2, -21.13],
     description: {
       de: "Ein geschichtlich bedeutsamer Ort in Nuku'alofa, der mit der Gründung der modernen Hauptstadt verbunden ist.",
       hu: "Történelmileg jelentős helyszín Nuku'alofában, amely a modern főváros alapításához köthető.",
@@ -1145,7 +1145,7 @@ export const tongaLandmarksV2: POI[] = [
     id: "tonga-lapaha-royal-tombs-complex-landmarks-v2",
     type: "ruins",
     name: { de: "Langi Königsgräber von Lapaha", hu: "Lapahai Langi királyi sírok", ro: "Complexul mormintelor regale Lapaha", en: "Lapaha Royal Tombs Complex" },
-    coordinates: { lat: -21.178, lng: -175.122 },
+    coords: [-175.122, -21.178],
     description: {
       de: "Ein ganzer Komplex von terrassenförmigen Grabanlagen (Langi) in Lapaha, die das religiöse und politische Zentrum des alten Tonga bildeten.",
       hu: "Lapahában található teraszos síremlékek (Langi) teljes komplexuma, amely az ősi Tonga vallási és politikai központja volt.",

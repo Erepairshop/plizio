@@ -1087,7 +1087,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-karkoj-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Karkoj", hu: "Karkoj romjai", ro: "Ruinele din Karkoj", en: "Ruins of Karkoj" },
-    coordinates: { lat: 12.5667, lng: 34.0 },
+    coords: [34.0, 12.5667],
     description: {
       de: "Archäologische Stätte am Blauen Nil, die Überreste einer Siedlung aus der Funj-Zeit enthält. Die Ausgrabungen geben Einblicke in die regionale Geschichte des 17. Jahrhunderts.",
       hu: "A Kék-Níluson található régészeti lelőhely, amely a funj korszak településmaradványait tartalmazza. Az ásatások betekintést nyújtanak a 17. századi regionális történelembe.",
@@ -1106,7 +1106,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-damer-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Ad-Damer", hu: "Ad-Damer-i csatatér", ro: "Câmpul de luptă de la Ad-Damer", en: "Battlefield of Ad-Damer" },
-    coordinates: { lat: 17.5833, lng: 33.95 },
+    coords: [33.95, 17.5833],
     description: {
       de: "Historisches Gelände, auf dem im 19. Jahrhundert Kämpfe während des Mahdi-Aufstands stattfanden. Die Stadt war ein strategischer Knotenpunkt für die Kontrolle des Nils.",
       hu: "Történelmi terület, ahol a 19. században a mahdi felkelés alatti harcok zajlottak. A város stratégiai csomópont volt a Nílus ellenőrzéséhez.",
@@ -1125,7 +1125,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-jebel-moya-archaeology-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Jebel Moya", hu: "Jebel Moya régészeti lelőhely", ro: "Situl arheologic Jebel Moya", en: "Jebel Moya Archaeological Site" },
-    coordinates: { lat: 13.5, lng: 33.5 },
+    coords: [33.5, 13.5],
     description: {
       de: "Eine bedeutende Ausgrabungsstätte in der Nähe von Sennar, die Siedlungsspuren aus dem ersten Jahrtausend vor Christus aufweist. Sie belegt frühe Handelsbeziehungen in der Region.",
       hu: "Jelentős ásatási helyszín Sennar közelében, amely az időszámításunk előtti első évezredből származó településnyomokat mutat. Bizonyítja a korai kereskedelmi kapcsolatokat a régióban.",
@@ -1144,7 +1144,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-tankassi-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Tankassi", hu: "Tankassi romjai", ro: "Ruinele din Tankassi", en: "Ruins of Tankassi" },
-    coordinates: { lat: 18.25, lng: 31.8 },
+    coords: [31.8, 18.25],
     description: {
       de: "Eine archäologische Fundstätte mit Überresten einer christlichen nubischen Siedlung. Die Stätte zeigt die Entwicklung der Architektur vor der Islamisierung.",
       hu: "Régészeti lelőhely egy keresztény núbiai település maradványaival. A helyszín az építészet fejlődését mutatja az iszlamizáció előtt.",
@@ -1163,7 +1163,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-el-hosh-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte El-Hosh", hu: "El-Hosh történelmi helyszíne", ro: "Sit istoric El-Hosh", en: "El-Hosh Historic Site" },
-    coordinates: { lat: 14.28, lng: 33.25 },
+    coords: [33.25, 14.28],
     description: {
       de: "Ein Ort mit archäologischen Überresten aus der Zeit der meroitischen Kultur. Die Stätte bietet Einblicke in die landwirtschaftlichen Techniken des antiken Sudan.",
       hu: "A meroéi kultúra korszakából származó régészeti maradványokkal rendelkező helyszín. Betekintést nyújt az ókori Szudán mezőgazdasági technikáiba.",
@@ -1182,7 +1182,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-al-takamul-battle-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Al-Takamul", hu: "Al-Takamul-i csatatér", ro: "Câmpul de luptă de la Al-Takamul", en: "Battlefield of Al-Takamul" },
-    coordinates: { lat: 15.6, lng: 32.6 },
+    coords: [32.6, 15.6],
     description: {
       de: "Historischer Ort bei Khartoum, an dem wichtige militärische Auseinandersetzungen im 20. Jahrhundert stattfanden. Er dient heute als Gedenkstätte für gefallene Soldaten.",
       hu: "Khartoum melletti történelmi helyszín, ahol a 20. században jelentős katonai összecsapások zajlottak. Ma emlékhelyként szolgál az elesett katonák számára.",
@@ -1201,7 +1201,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-gedar-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Gedar", hu: "Gedar romjai", ro: "Ruinele din Gedar", en: "Ruins of Gedar" },
-    coordinates: { lat: 14.02, lng: 36.3 },
+    coords: [36.3, 14.02],
     description: {
       de: "Überreste einer alten Handelsstation an den Routen zwischen dem äthiopischen Hochland und dem Niltal. Die Architektur deutet auf einen regen kulturellen Austausch hin.",
       hu: "Egy ősi kereskedőállomás maradványai az etióp felföld és a Nílus-völgy közötti útvonalakon. Az építészet élénk kulturális cserére utal.",
@@ -1220,7 +1220,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-kawa-temple-history-v2",
     type: "ruins",
     name: { de: "Tempelstätte von Kawa", hu: "Kawa templomának helyszíne", ro: "Situl templului din Kawa", en: "Kawa Temple Site" },
-    coordinates: { lat: 18.2, lng: 30.7 },
+    coords: [30.7, 18.2],
     description: {
       de: "Die antike Stadt Kawa beherbergt bedeutende ägyptische Tempelbauten, die während der 25. Dynastie errichtet wurden. Sie zeugt von der engen Verbindung zwischen Ägypten und Nubien.",
       hu: "Az ókori Kawa város jelentős egyiptomi templomépületeknek ad otthont, amelyeket a 25. dinasztia idején emeltek. Tanúskodik Egyiptom és Núbia szoros kapcsolatáról.",
@@ -1239,7 +1239,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-al-fashir-palace-history-v2",
     type: "palace",
     name: { de: "Sultanpalast von Al-Fashir", hu: "Al-Fashir szultáni palotája", ro: "Palatul Sultanului din Al-Fashir", en: "Sultan Palace of Al-Fashir" },
-    coordinates: { lat: 13.63, lng: 25.33 },
+    coords: [25.33, 13.63],
     description: {
       de: "Der ehemalige Sitz der Sultane von Darfur im 19. Jahrhundert. Das Gebäude ist ein herausragendes Beispiel für die traditionelle Bauweise der Region.",
       hu: "Darfur szultánjainak egykori székhelye a 19. században. Az épület a régió hagyományos építészetének kiemelkedő példája.",
@@ -1258,7 +1258,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-abud-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Abud", hu: "Abud romjai", ro: "Ruinele din Abud", en: "Ruins of Abud" },
-    coordinates: { lat: 14.5, lng: 33.3 },
+    coords: [33.3, 14.5],
     description: {
       de: "Historische Siedlungsstätte in der Gezira-Region. Ausgrabungen legten Werkzeuge und Keramik frei, die auf eine lange Besiedlungstradition hindeuten.",
       hu: "Történelmi településhely a Gezira régióban. Az ásatások olyan szerszámokat és kerámiákat tártak fel, amelyek hosszú letelepedési hagyományra utalnak.",
@@ -1277,7 +1277,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-berber-historic-fort-history-v2",
     type: "monument",
     name: { de: "Historisches Fort von Berber", hu: "Berber történelmi erődje", ro: "Fortul istoric din Berber", en: "Historic Fort of Berber" },
-    coordinates: { lat: 18.0, lng: 33.9 },
+    coords: [33.9, 18.0],
     description: {
       de: "Überreste eines Forts in der Nähe des Nils, das während der türkisch-ägyptischen Herrschaft eine wichtige strategische Rolle spielte.",
       hu: "A Nílus melletti erőd maradványai, amely a török-egyiptomi uralom alatt fontos stratégiai szerepet játszott.",
@@ -1296,7 +1296,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-argo-island-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Insel Argo", hu: "Argo-sziget régészeti lelőhelye", ro: "Sit arheologic Insula Argo", en: "Argo Island Archaeological Site" },
-    coordinates: { lat: 19.45, lng: 30.45 },
+    coords: [30.45, 19.45],
     description: {
       de: "Die Insel im Nil beherbergt bedeutende nubische Monumente und Tempelreste. Sie diente als wichtiges regionales Zentrum in der Kerma-Zeit.",
       hu: "A Nílus-sziget jelentős núbiai műemlékeknek és templommaradványoknak ad otthont. Fontos regionális központként szolgált a Kerma-korszakban.",
@@ -1315,7 +1315,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-khor-attar-settlement-history-v2",
     type: "ruins",
     name: { de: "Siedlungsruinen von Khor Attar", hu: "Khor Attar településromjai", ro: "Ruinele așezării din Khor Attar", en: "Settlement Ruins of Khor Attar" },
-    coordinates: { lat: 9.4, lng: 31.5 },
+    coords: [31.5, 9.4],
     description: {
       de: "Archäologischer Fundort, der frühe Siedlungsspuren im südlichen Sudan zeigt. Er ist entscheidend für das Verständnis der regionalen Migrationsgeschichte.",
       hu: "Régészeti lelőhely, amely a korai településnyomokat mutatja Dél-Szudánban. Döntő fontosságú a regionális migráció történetének megértésében.",
@@ -1334,7 +1334,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-tabat-historic-settlement-history-v2",
     type: "ruins",
     name: { de: "Historische Siedlung Tabat", hu: "Tabat történelmi települése", ro: "Așezarea istorică Tabat", en: "Tabat Historic Settlement" },
-    coordinates: { lat: 14.8, lng: 33.1 },
+    coords: [33.1, 14.8],
     description: {
       de: "Überreste einer Stadt aus der Funj-Zeit, die als lokales Verwaltungszentrum diente. Die Stätte zeigt die soziale Struktur der damaligen Zeit.",
       hu: "A Funj-korból származó város maradványai, amely helyi közigazgatási központként szolgált. A helyszín az akkori társadalmi szerkezetet mutatja be.",
@@ -1353,7 +1353,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-jebel-dair-fort-history-v2",
     type: "monument",
     name: { de: "Festung Jebel Dair", hu: "Jebel Dair erődje", ro: "Fortăreața Jebel Dair", en: "Jebel Dair Fortress" },
-    coordinates: { lat: 12.35, lng: 30.65 },
+    coords: [30.65, 12.35],
     description: {
       de: "Eine historische Bergfestung, die als Schutzraum für lokale Gemeinschaften diente. Die Anlage integriert die natürliche Felsformation in die Architektur.",
       hu: "Történelmi hegyi erőd, amely menedékként szolgált a helyi közösségek számára. Az építmény integrálja a természetes sziklaformációt az építészetbe.",
@@ -1372,7 +1372,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-seddeinga-temple-history-v2",
     type: "ruins",
     name: { de: "Tempel von Seddeinga", hu: "Seddeinga temploma", ro: "Templul din Seddeinga", en: "Temple of Seddeinga" },
-    coordinates: { lat: 20.45, lng: 30.55 },
+    coords: [30.55, 20.45],
     description: {
       de: "Ein antiker Tempelkomplex, der Königin Tiye gewidmet war. Er gilt als einer der wichtigsten religiösen Orte im nördlichen Nubien.",
       hu: "Ókori templomkomplexum, amelyet Tiye királynőnek szenteltek. Észak-Núbia egyik legfontosabb vallási helyszínének számít.",
@@ -1391,7 +1391,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-al-managil-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Al-Managil", hu: "Al-Managil romjai", ro: "Ruinele din Al-Managil", en: "Ruins of Al-Managil" },
-    coordinates: { lat: 14.5, lng: 33.15 },
+    coords: [33.15, 14.5],
     description: {
       de: "Archäologische Stätte, die Siedlungsmuster der mittelalterlichen Zeit zeigt. Sie liefert Belege für das Leben abseits der großen Handelszentren.",
       hu: "Régészeti lelőhely, amely a középkori településmintákat mutatja be. Bizonyítékot szolgáltat a nagy kereskedelmi központoktól távol eső életről.",
@@ -1410,7 +1410,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-mirgissa-fort-history-v2",
     type: "ruins",
     name: { de: "Festung Mirgissa", hu: "Mirgissa erődje", ro: "Fortăreața Mirgissa", en: "Fortress of Mirgissa" },
-    coordinates: { lat: 21.8, lng: 31.1 },
+    coords: [31.1, 21.8],
     description: {
       de: "Eine bedeutende ägyptische Festung aus dem Mittleren Reich, die zum Schutz des Nilhandels errichtet wurde. Die Anlage ist ein Beispiel für massive Militärarchitektur.",
       hu: "Jelentős egyiptomi erőd a Középbirodalomból, amelyet a Nílus menti kereskedelem védelmére emeltek. A komplexum a masszív katonai építészet példája.",
@@ -1429,7 +1429,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-kosti-historic-market-history-v2",
     type: "monument",
     name: { de: "Historischer Markt von Kosti", hu: "Kosti történelmi piaca", ro: "Piața istorică din Kosti", en: "Historic Market of Kosti" },
-    coordinates: { lat: 13.15, lng: 32.65 },
+    coords: [32.65, 13.15],
     description: {
       de: "Traditioneller Handelsplatz, der seit dem 19. Jahrhundert besteht. Er spielt eine zentrale Rolle in der wirtschaftlichen Geschichte der Weiß-Nil-Region.",
       hu: "Hagyományos kereskedelmi helyszín, amely a 19. század óta létezik. Központi szerepet játszik a Fehér-Nílus régió gazdaságtörténetében.",
@@ -1448,7 +1448,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
     id: "sudan-el-kurru-pyramid-history-v2",
     type: "ruins",
     name: { de: "Pyramidenfeld von El-Kurru", hu: "El-Kurru piramismezeje", ro: "Câmpul de piramide de la El-Kurru", en: "Pyramid Field of El-Kurru" },
-    coordinates: { lat: 18.4, lng: 31.75 },
+    coords: [31.75, 18.4],
     description: {
       de: "Eine historische Nekropole der kuschitischen Könige. Die Gräber enthalten wertvolle Wandmalereien und Einblicke in die Bestattungskultur der nubischen Antike.",
       hu: "A kushita királyok történelmi nekropolisza. A sírok értékes falfestményeket és betekintést nyújtanak a núbiai ókor temetkezési kultúrájába.",

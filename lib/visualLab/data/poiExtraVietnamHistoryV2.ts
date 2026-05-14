@@ -719,7 +719,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dien-bien-phu-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Dien Bien Phu", hu: "Dien Bien Phu-i csatamező", ro: "Câmpul de luptă Dien Bien Phu", en: "Dien Bien Phu Battlefield" },
-    coordinates: { lat: 21.3833, lng: 103.0167 },
+    coords: [103.0167, 21.3833],
     description: {
       de: "Dieser Ort markiert den entscheidenden Sieg der Viet Minh über die französischen Kolonialtruppen im Jahr 1954. Das Gelände umfasst Bunker, Gräben und ein Museum zur Schlacht.",
       hu: "Ez a helyszín jelzi a Viet Minh döntő győzelmét a francia gyarmati csapatok felett 1954-ben. A terület bunkereket, lövészárkokat és egy emlékmúzeumot foglal magában.",
@@ -738,7 +738,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-temple-of-literature-history-v2",
     type: "university",
     name: { de: "Literaturtempel", hu: "Irodalom Temploma", ro: "Templul Literaturii", en: "Temple of Literature" },
-    coordinates: { lat: 21.0285, lng: 105.8355 },
+    coords: [105.8355, 21.0285],
     description: {
       de: "Der im Jahr 1070 gegründete Tempel beherbergte die erste kaiserliche Akademie Vietnams. Er ist ein herausragendes Beispiel für die traditionelle Architektur der Ly-Dynastie.",
       hu: "Az 1070-ben alapított templom adott otthont Vietnam első királyi akadémiájának. A Ly-dinasztia hagyományos építészetének kiemelkedő példája.",
@@ -757,7 +757,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-independence-palace-history-v2",
     type: "palace",
     name: { de: "Unabhängigkeitspalast", hu: "Függetlenségi Palota", ro: "Palatul Independenței", en: "Independence Palace" },
-    coordinates: { lat: 10.777, lng: 106.6953 },
+    coords: [106.6953, 10.777],
     description: {
       de: "Dieses Gebäude war der Amtssitz des Präsidenten von Südvietnam während des Vietnamkrieges. Es wurde weltberühmt, als 1975 ein nordvietnamesischer Panzer das Tor durchbrach.",
       hu: "Ez az épület volt Dél-Vietnam elnökének hivatalos rezidenciája a vietnami háború alatt. Világhírűvé vált, amikor 1975-ben egy észak-vietnami tank áttörte a kapuját.",
@@ -776,7 +776,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-hoa-lo-prison-history-v2",
     type: "museum",
     name: { de: "Hoa-Lo-Gefängnis", hu: "Hoa Lo börtön", ro: "Închisoarea Hoa Lo", en: "Hoa Lo Prison" },
-    coordinates: { lat: 21.0253, lng: 105.8464 },
+    coords: [105.8464, 21.0253],
     description: {
       de: "Einst von französischen Kolonisten für politische Gefangene erbaut, wurde es später von Nordvietnam für US-Kriegsgefangene genutzt. Bekannt wurde es unter dem Namen Hanoi Hilton.",
       hu: "A francia gyarmatosítók építették politikai foglyoknak, később Észak-Vietnam használta amerikai hadifoglyok számára. Hanoi Hilton néven vált ismertté.",
@@ -795,7 +795,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-co-loa-citadel-history-v2",
     type: "fort",
     name: { de: "Zitadelle von Co Loa", hu: "Co Loa citadella", ro: "Cetatea Co Loa", en: "Co Loa Citadel" },
-    coordinates: { lat: 21.1122, lng: 105.8731 },
+    coords: [105.8731, 21.1122],
     description: {
       de: "Diese antike Festung war die Hauptstadt des Staates Au Lac im 3. Jahrhundert v. Chr. Sie ist für ihre spiralförmige Bauweise mit drei konzentrischen Erdwällen bekannt.",
       hu: "Ez az ősi erődítmény volt Au Lac állam fővárosa az i. e. 3. században. Spirális felépítéséről híres, amely három koncentrikus földfalból áll.",
@@ -814,7 +814,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-hien-luong-bridge-history-v2",
     type: "bridge",
     name: { de: "Hien-Luong-Brücke", hu: "Hien Luong-híd", ro: "Podul Hien Luong", en: "Hien Luong Bridge" },
-    coordinates: { lat: 17.0011, lng: 107.0317 },
+    coords: [107.0317, 17.0011],
     description: {
       de: "Die Brücke überquert den Ben-Hai-Fluss und markierte während der Teilung Vietnams die Grenze zwischen Nord und Süd. Sie war das zentrale Symbol der Demilitarisierten Zone.",
       hu: "A híd a Ben Hai-folyón ível át, és Vietnam kettéosztása idején az észak-déli határt jelölte. A demilitarizált övezet központi szimbóluma volt.",
@@ -833,7 +833,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-nha-rong-wharf-history-v2",
     type: "museum",
     name: { de: "Nha Rong Kai", hu: "Nha Rong rakpart", ro: "Docul Nha Rong", en: "Nha Rong Wharf" },
-    coordinates: { lat: 10.7702, lng: 106.7067 },
+    coords: [106.7067, 10.7702],
     description: {
       de: "An diesem historischen Kai in Saigon verließ Ho Chi Minh 1911 Vietnam an Bord eines französischen Schiffes. Heute beherbergt das markante Gebäude ein Museum über sein Leben.",
       hu: "Ezen a történelmi saigoni rakparton hagyta el Ho Si Minh Vietnamot 1911-ben egy francia hajó fedélzetén. Ma a jellegzetes épület életéről szóló múzeumnak ad otthont.",
@@ -852,7 +852,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-long-bien-bridge-history-v2",
     type: "bridge",
     name: { de: "Long-Bien-Brücke", hu: "Long Bien-híd", ro: "Podul Long Bien", en: "Long Bien Bridge" },
-    coordinates: { lat: 21.04, lng: 105.8567 },
+    coords: [105.8567, 21.04],
     description: {
       de: "Die von den Franzosen erbaute Stahlbrücke über den Roten Fluss war ein strategisches Ziel im Vietnamkrieg. Sie gilt als architektonisches Erbe und Symbol der Standhaftigkeit Hanois.",
       hu: "A franciák által épített acélhíd a Vörös-folyón stratégiai célpont volt a vietnami háborúban. Hanoi építészeti örökségének és állhatatosságának szimbóluma.",
@@ -871,7 +871,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-minh-mang-tomb-history-v2",
     type: "landmark",
     name: { de: "Grabmal von Minh Mang", hu: "Minh Mang sírja", ro: "Mormântul lui Minh Mang", en: "Tomb of Minh Mang" },
-    coordinates: { lat: 16.3881, lng: 107.5706 },
+    coords: [107.5706, 16.3881],
     description: {
       de: "Dieses kaiserliche Grabmal in Hue ist für seine harmonische Verbindung von Architektur und Natur bekannt. Die Anlage wurde 1843 nach dem Tod des Kaisers fertiggestellt.",
       hu: "Ez a Hue melletti császári sírhely az építészet és a természet harmonikus egységéről híres. A komplexum 1843-ban, a császár halála után készült el.",
@@ -890,7 +890,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-tu-duc-tomb-history-v2",
     type: "landmark",
     name: { de: "Grabmal von Tu Duc", hu: "Tu Duc sírja", ro: "Mormântul lui Tu Duc", en: "Tomb of Tu Duc" },
-    coordinates: { lat: 16.4328, lng: 107.5658 },
+    coords: [107.5658, 16.4328],
     description: {
       de: "Kaiser Tu Duc entwarf seine Grabstätte selbst als prachtvollen Park mit Seen und Pavillons. Er nutzte die Anlage schon zu Lebzeiten als Ort der Erholung und Poesie.",
       hu: "Tu Duc császár maga tervezte sírhelyét, mint egy pompás parkot tavakkal és pavilonokkal. Már életében is pihenésre és költészetre használta a területet.",
@@ -909,7 +909,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-gia-long-tomb-history-v2",
     type: "landmark",
     name: { de: "Grabmal von Gia Long", hu: "Gia Long sírja", ro: "Mormântul lui Gia Long", en: "Tomb of Gia Long" },
-    coordinates: { lat: 16.3475, lng: 107.5725 },
+    coords: [107.5725, 16.3475],
     description: {
       de: "Dies ist die Ruhestätte des Gründers der Nguyen-Dynastie, gelegen in einer abgelegenen Gebirgslandschaft. Die Architektur ist schlicht und strahlt eine erhabene Ruhe aus.",
       hu: "Ez a Nguyen-dinasztia alapítójának nyughelye, egy távoli hegyvidéki tájon. Az építészet egyszerű, és fenséges nyugalmat áraszt.",
@@ -928,7 +928,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-oc-eo-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Oc Eo", hu: "Oc Eo régészeti lelőhely", ro: "Situl arheologic Oc Eo", en: "Oc Eo Archaeological Site" },
-    coordinates: { lat: 10.2228, lng: 105.1436 },
+    coords: [105.1436, 10.2228],
     description: {
       de: "Oc Eo war eine bedeutende Hafenstadt des antiken Königreichs Funan im Mekong-Delta. Archäologische Funde belegen Handelsbeziehungen bis nach Rom und Indien.",
       hu: "Oc Eo az ókori Funan királyság jelentős kikötővárosa volt a Mekong-deltában. A leletek kereskedelmi kapcsolatokat igazolnak egészen Rómáig és Indiáig.",
@@ -947,7 +947,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-sa-huynh-site-history-v2",
     type: "ruins",
     name: { de: "Kulturstätte Sa Huynh", hu: "Sa Huynh kultúra helyszíne", ro: "Situl culturii Sa Huynh", en: "Sa Huynh Archaeological Site" },
-    coordinates: { lat: 14.6564, lng: 109.0767 },
+    coords: [109.0767, 14.6564],
     description: {
       de: "Die Sa-Huynh-Kultur war eine eisenzeitliche Gesellschaft in Zentralvietnam, bekannt für ihre markanten Bestattungsriten in großen Tonkrügen.",
       hu: "A Sa Huynh-kultúra egy vaskori társadalom volt Közép-Vietnamban, amely a nagy agyagkorsókban történő jellegzetes temetkezési rítusairól ismert.",
@@ -966,7 +966,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-but-thap-pagoda-history-v2",
     type: "landmark",
     name: { de: "But-Thap-Pagode", hu: "But Thap pagoda", ro: "Pagoda But Thap", en: "But Thap Pagoda" },
-    coordinates: { lat: 21.0608, lng: 106.0544 },
+    coords: [106.0544, 21.0608],
     description: {
       de: "Diese buddhistische Pagode aus dem 17. Jahrhundert beherbergt eine beeindruckende Statue der tausendarmigen Kuan Yin. Die Architektur zeigt klassische Merkmale der Le-Dynastie.",
       hu: "Ez a 17. századi buddhista pagoda ad otthont az ezerkarú Kuan Yin lenyűgöző szobrának. Az építészet a Le-dinasztia klasszikus vonásait mutatja.",
@@ -985,7 +985,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-keo-pagoda-history-v2",
     type: "landmark",
     name: { de: "Keo-Pagode", hu: "Keo pagoda", ro: "Pagoda Keo", en: "Keo Pagoda" },
-    coordinates: { lat: 20.3589, lng: 106.3014 },
+    coords: [106.3014, 20.3589],
     description: {
       de: "Die Keo-Pagode in der Provinz Thai Binh ist eines der am besten erhaltenen historischen Holzbauwerke Vietnams. Sie wurde ursprünglich im 11. Jahrhundert gegründet.",
       hu: "A Thai Binh tartományban található Keo pagoda Vietnam egyik legjobb állapotban megmaradt történelmi faépítménye. Eredetileg a 11. században alapították.",
@@ -1004,7 +1004,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-thay-pagoda-history-v2",
     type: "landmark",
     name: { de: "Thay-Pagode", hu: "Thay pagoda", ro: "Pagoda Thay", en: "Thay Pagoda" },
-    coordinates: { lat: 21.015, lng: 105.6267 },
+    coords: [105.6267, 21.015],
     description: {
       de: "Die am Fuße des Sai-Berges gelegene Pagode ist dem Mönch Tu Dao Hanh gewidmet, dem Erfinder des Wasserpuppentheaters. Ein kleiner See mit einem Pavillon prägt das Bild.",
       hu: "A Sai-hegy lábánál fekvő pagoda Tu Dao Hanh szerzetesnek szentelt, aki a vízi bábszínház feltalálója. A képet egy kis tó és egy pavilon határozza meg.",
@@ -1023,7 +1023,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-tay-phuong-pagoda-history-v2",
     type: "landmark",
     name: { de: "Tay-Phuong-Pagode", hu: "Tay Phuong pagoda", ro: "Pagoda Tay Phuong", en: "Tay Phuong Pagoda" },
-    coordinates: { lat: 21.0203, lng: 105.5947 },
+    coords: [105.5947, 21.0203],
     description: {
       de: "Diese auf einem Hügel gelegene Pagode ist berühmt für ihre 76 wertvollen Holzstatuen von Arhats. Sie gilt als ein Juwel der vietnamesischen Schnitzkunst.",
       hu: "Ez a dombtetőn álló pagoda híres 76 értékes Arhat-faszobráról. A vietnami fafaragó művészet ékkövének tekintik.",
@@ -1042,7 +1042,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-phat-tich-pagoda-history-v2",
     type: "landmark",
     name: { de: "Phat-Tich-Pagode", hu: "Phat Tich pagoda", ro: "Pagoda Phat Tich", en: "Phat Tich Pagoda" },
-    coordinates: { lat: 21.0967, lng: 106.0233 },
+    coords: [106.0233, 21.0967],
     description: {
       de: "Die Phat-Tich-Pagode ist bekannt für ihre monumentale Buddha-Statue aus Stein aus der Ly-Dynastie. Sie war im 11. Jahrhundert ein bedeutendes religiöses Zentrum.",
       hu: "A Phat Tich pagoda a Ly-dinasztia korából származó monumentális kő Buddha-szobráról ismert. A 11. században jelentős vallási központ volt.",
@@ -1061,7 +1061,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-son-tay-citadel-history-v2",
     type: "fort",
     name: { de: "Zitadelle von Son Tay", hu: "Son Tay citadella", ro: "Cetatea Son Tay", en: "Son Tay Citadel" },
-    coordinates: { lat: 21.135, lng: 105.5033 },
+    coords: [105.5033, 21.135],
     description: {
       de: "Diese unter Kaiser Minh Mang erbaute Festung aus Lateritgestein diente dem Schutz der westlichen Gebiete von Hanoi. Sie ist eine der wenigen erhaltenen Zitadellen ihrer Art.",
       hu: "Ez a Minh Mang császár idején épült laterit erődítmény Hanoi nyugati területeinek védelmét szolgálta. Egyike a kevés fennmaradt ilyen típusú citadellának.",
@@ -1080,7 +1080,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dong-da-mound-history-v2",
     type: "monument",
     name: { de: "Dong-Da-Hügel", hu: "Dong Da-halom", ro: "Movila Dong Da", en: "Dong Da Mound" },
-    coordinates: { lat: 21.0117, lng: 105.8233 },
+    coords: [105.8233, 21.0117],
     description: {
       de: "Der Hügel markiert den Ort eines historischen Sieges über die chinesische Qing-Dynastie im Jahr 1789. Er ist ein bedeutendes Symbol für den vietnamesischen Patriotismus.",
       hu: "A halom az 1789-es, kínai Qing-dinasztia feletti történelmi győzelem helyszínét jelöli. A vietnami patriotizmus jelentős szimbóluma.",
@@ -1099,7 +1099,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-rach-gam-xoai-mut-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Rach Gam-Xoai Mut", hu: "Rach Gam-Xoai Mut csatamező", ro: "Câmpul de luptă Rach Gam-Xoai Mut", en: "Rach Gam-Xoai Mut Battlefield" },
-    coordinates: { lat: 10.3444, lng: 106.2753 },
+    coords: [106.2753, 10.3444],
     description: {
       de: "An diesem Ort am Tien-Fluss besiegte die Tay-Son-Armee 1785 eine siamesische Invasionsflotte. Ein Denkmal erinnert an den strategischen Sieg im Mekong-Delta.",
       hu: "A Tien-folyó ezen szakaszán a Tay Son sereg 1785-ben legyőzött egy sziámi megszálló flottát. Emlékmű hirdeti a stratégiai győzelmet a Mekong-deltában.",
@@ -1118,7 +1118,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-tan-trao-history-v2",
     type: "landmark",
     name: { de: "Historische Stätte Tan Trao", hu: "Tan Trao történelmi helyszín", ro: "Situl istoric Tan Trao", en: "Tan Trao Historic Site" },
-    coordinates: { lat: 21.7511, lng: 105.5164 },
+    coords: [105.5164, 21.7511],
     description: {
       de: "Tan Trao war die provisorische Hauptstadt der vietnamesischen Revolution im Jahr 1945. Hier fand der Nationalkongress statt, der den Generalaufstand beschloss.",
       hu: "Tan Trao volt a vietnami forradalom ideiglenes fővárosa 1945-ben. Itt tartották azt a nemzeti kongresszust, amely az általános felkelésről döntött.",
@@ -1137,7 +1137,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-ia-drang-valley-history-v2",
     type: "battlefield",
     name: { de: "Ia-Drang-Tal Schlachtfeld", hu: "Ia Drang-völgyi csatamező", ro: "Câmpul de luptă Valea Ia Drang", en: "Ia Drang Valley Battlefield" },
-    coordinates: { lat: 13.5833, lng: 107.75 },
+    coords: [107.75, 13.5833],
     description: {
       de: "Im November 1965 fand hier die erste große Schlacht zwischen regulären US-Truppen und der nordvietnamesischen Armee statt. Sie prägte den weiteren Verlauf des Krieges maßgeblich.",
       hu: "1965 novemberében itt zajlott az első nagy csata az amerikai reguláris csapatok és az észak-vietnami hadsereg között. Meghatározta a háború további menetét.",
@@ -1156,7 +1156,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-an-loc-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von An Loc", hu: "An Loc-i csatamező", ro: "Câmpul de luptă An Loc", en: "An Loc Battlefield" },
-    coordinates: { lat: 11.6489, lng: 106.6083 },
+    coords: [106.6083, 11.6489],
     description: {
       de: "An Loc war 1972 Schauplatz einer der härtesten Belagerungen des Vietnamkrieges während der Osteroffensive. Die Stadt wurde fast vollständig durch Artilleriefeuer zerstört.",
       hu: "An Loc 1972-ben a vietnami háború egyik legkeményebb ostromának helyszíne volt a húsvéti offenzíva idején. A várost szinte teljesen elpusztította a tüzérségi tűz.",
@@ -1175,7 +1175,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-pleime-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Plei Me", hu: "Plei Me-i csatamező", ro: "Câmpul de luptă Plei Me", en: "Pleime Battlefield" },
-    coordinates: { lat: 13.6264, lng: 107.9158 },
+    coords: [107.9158, 13.6264],
     description: {
       de: "Plei Me war ein wichtiges Lager der Special Forces im zentralen Hochland, das 1965 Schauplatz heftiger Kämpfe war. Die Schlacht gilt als Auftakt zur Ia-Drang-Kampagne.",
       hu: "Plei Me a különleges erők fontos tábora volt a központi felföldön, amely 1965-ben heves harcok helyszínévé vált. A csata az Ia Drang-i hadjárat nyitánya volt.",
@@ -1194,7 +1194,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dak-to-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Dak To", hu: "Dak To-i csatamező", ro: "Câmpul de luptă Dak To", en: "Dak To Battlefield" },
-    coordinates: { lat: 14.6464, lng: 107.8186 },
+    coords: [107.8186, 14.6464],
     description: {
       de: "In den Bergen um Dak To fanden 1967 einige der blutigsten Kämpfe des Krieges statt. Die strategische Lage nahe der Grenze zu Laos machte es zu einem dauerhaften Brennpunkt.",
       hu: "A Dak To környéki hegyekben 1967-ben zajlottak a háború legvéresebb harcai. A laoszi határ közelsége miatti stratégiai helyzete állandó gócponttá tette.",
@@ -1213,7 +1213,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dong-loc-junction-history-v2",
     type: "monument",
     name: { de: "Dong-Loc-Verkehrsknotenpunkt", hu: "Dong Loc csomópont", ro: "Intersecția Dong Loc", en: "Dong Loc Junction" },
-    coordinates: { lat: 18.4414, lng: 105.7481 },
+    coords: [105.7481, 18.4414],
     description: {
       de: "Dong Loc war ein strategisch wichtiger Punkt auf dem Ho-Chi-Minh-Pfad, der massiv bombardiert wurde. Es ist heute ein nationales Denkmal, das zehn jungen Frauen gewidmet ist.",
       hu: "Dong Loc a Ho Si Minh-ösvény stratégiai pontja volt, amelyet masszívan bombáztak. Ma nemzeti emlékhely, amelyet tíz fiatal nőnek szenteltek.",
@@ -1232,7 +1232,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-con-thien-history-v2",
     type: "battlefield",
     name: { de: "Con Thien Kampfbasis", hu: "Con Thien harci bázis", ro: "Baza de luptă Con Thien", en: "Con Thien Combat Base" },
-    coordinates: { lat: 16.9144, lng: 106.9753 },
+    coords: [106.9753, 16.9144],
     description: {
       de: "Con Thien war eine Basis der US-Marines direkt an der Demilitarisierten Zone. Sie wurde aufgrund des extremen Artilleriebeschusses als 'Ort der Engel' bekannt.",
       hu: "Con Thien az amerikai tengerészgyalogosok bázisa volt közvetlenül a demilitarizált övezetnél. A heves tüzérségi tűz miatt az 'angyalok helyeként' vált ismertté.",
@@ -1251,7 +1251,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-camp-carroll-history-v2",
     type: "battlefield",
     name: { de: "Camp Carroll", hu: "Camp Carroll bázis", ro: "Camp Carroll", en: "Camp Carroll" },
-    coordinates: { lat: 16.7667, lng: 106.9333 },
+    coords: [106.9333, 16.7667],
     description: {
       de: "Dieses ehemalige US-Artillerie-Lager war die größte Basis ihrer Art in der Provinz Quang Tri. Es ist historisch bedeutsam für seine Kapitulation während der Osteroffensive 1972.",
       hu: "Ez az egykori amerikai tüzérségi tábor a legnagyobb volt Quang Tri tartományban. Történelmileg az 1972-es húsvéti offenzíva alatti megadása miatt jelentős.",
@@ -1270,7 +1270,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-rockpile-history-v2",
     type: "mountain",
     name: { de: "Der Rockpile", hu: "A Rockpile", ro: "Rockpile", en: "The Rockpile" },
-    coordinates: { lat: 16.8089, lng: 106.8344 },
+    coords: [106.8344, 16.8089],
     description: {
       de: "Der Rockpile ist ein markanter, steiler Felsen in der Provinz Quang Tri, der im Krieg als wichtiger Beobachtungspunkt diente. Er war nur per Hubschrauber erreichbar.",
       hu: "A Rockpile egy jellegzetes, meredek szikla Quang Tri tartományban, amely a háborúban fontos megfigyelőpontként szolgált. Csak helikopterrel volt megközelíthető.",
@@ -1289,7 +1289,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-doc-mieu-history-v2",
     type: "battlefield",
     name: { de: "Doc-Mieu-Basis", hu: "Doc Mieu bázis", ro: "Baza Doc Mieu", en: "Doc Mieu Base" },
-    coordinates: { lat: 16.94, lng: 107.03 },
+    coords: [107.03, 16.94],
     description: {
       de: "Doc Mieu war einst die nördlichste Basis der McNamara-Linie direkt an der Demilitarisierten Zone. Heute befinden sich dort Denkmäler und Überreste von Bunkern.",
       hu: "Doc Mieu egykor a McNamara-vonal legészakibb bázisa volt közvetlenül a demilitarizált övezetnél. Ma emlékművek és bunkermaradványok találhatók itt.",
@@ -1308,7 +1308,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-nam-giao-esplanade-history-v2",
     type: "monument",
     name: { de: "Nam-Giao-Altar", hu: "Nam Giao oltár", ro: "Esplanada Nam Giao", en: "Nam Giao Esplanade" },
-    coordinates: { lat: 16.4431, lng: 107.585 },
+    coords: [107.585, 16.4431],
     description: {
       de: "Dieser heilige Ort in Hue wurde für kaiserliche Opferrituale an den Himmel und die Erde genutzt. Die Architektur symbolisiert die Verbindung zwischen Mensch und Kosmos.",
       hu: "Ezt a szent helyet Huéban a császári ég- és földáldozati rituálékhoz használták. Az építészet az ember és a kozmosz közötti kapcsolatot szimbolizálja.",
@@ -1327,7 +1327,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-an-dinh-palace-history-v2",
     type: "palace",
     name: { de: "An-Dinh-Palast", hu: "An Dinh palota", ro: "Palatul An Dinh", en: "An Dinh Palace" },
-    coordinates: { lat: 16.46, lng: 107.595 },
+    coords: [107.595, 16.46],
     description: {
       de: "Der Palast in Hue ist ein einzigartiges Beispiel für die Verschmelzung von vietnamesischem und europäischem Baustil. Er war der Wohnsitz der letzten Kaiserfamilie.",
       hu: "Ez a huei palota a vietnami és az európai építészeti stílus ötvözésének egyedülálló példája. Az utolsó császári család lakóhelye volt.",
@@ -1346,7 +1346,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bao-dai-palace-1-history-v2",
     type: "palace",
     name: { de: "Bao-Dai-Palast I", hu: "I. Bao Dai palota", ro: "Palatul I al lui Bao Dai", en: "Bao Dai Summer Palace I" },
-    coordinates: { lat: 11.9333, lng: 108.455 },
+    coords: [108.455, 11.9333],
     description: {
       de: "Dieser Palast in Da Lat wurde ursprünglich von einem französischen Millionär erbaut und später vom letzten Kaiser genutzt. Er besticht durch seine koloniale Architektur.",
       hu: "Ezt a Da Lat-i palotát eredetileg egy francia milliomos építette, később az utolsó császár használta. Gyarmati építészetével tűnik ki.",
@@ -1365,7 +1365,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bao-dai-palace-2-history-v2",
     type: "palace",
     name: { de: "Bao-Dai-Palast II", hu: "II. Bao Dai palota", ro: "Palatul II al lui Bao Dai", en: "Bao Dai Summer Palace II" },
-    coordinates: { lat: 11.945, lng: 108.4483 },
+    coords: [108.4483, 11.945],
     description: {
       de: "Einst der Sitz der französischen Generalgouverneure, diente dieser Palast später Kaiser Bao Dai. Das Gebäude ist ein prächtiges Beispiel für die Architektur der 1930er Jahre.",
       hu: "Egykor a francia főkormányzók székháza volt, később Bao Dai császárt szolgálta. Az épület az 1930-as évek építészetének pompás példája.",
@@ -1384,7 +1384,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bao-dai-palace-3-history-v2",
     type: "palace",
     name: { de: "Bao-Dai-Palast III", hu: "III. Bao Dai palota", ro: "Palatul III al lui Bao Dai", en: "Bao Dai Summer Palace III" },
-    coordinates: { lat: 11.9303, lng: 108.4294 },
+    coords: [108.4294, 11.9303],
     description: {
       de: "Dies ist die bekannteste der kaiserlichen Residenzen in Da Lat, erbaut im Art-déco-Stil. Hier verbrachte die Kaiserfamilie ihre Sommer und empfing Gäste.",
       hu: "Ez a legismertebb Da Lat-i császári rezidencia, amely art deco stílusban épült. Itt töltötte a császári család a nyarakat és fogadta a vendégeket.",
@@ -1403,7 +1403,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-cat-tien-archaeology-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Cat Tien", hu: "Cat Tien régészeti lelőhely", ro: "Situl arheologic Cat Tien", en: "Cat Tien Archaeological Site" },
-    coordinates: { lat: 11.52, lng: 107.38 },
+    coords: [107.38, 11.52],
     description: {
       de: "Diese antike religiöse Stätte wurde erst in den 1980er Jahren entdeckt. Sie enthält Tempelruinen aus Ziegeln und Stein, die einer unbekannten Zivilisation zugeschrieben werden.",
       hu: "Ezt az ókori vallási helyszínt csak az 1980-as években fedezték fel. Tégla- és kőtemplomok romjait tartalmazza, amelyeket egy ismeretlen civilizációnak tulajdonítanak.",
@@ -1422,7 +1422,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-go-thap-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Go Thap", hu: "Go Thap régészeti lelőhely", ro: "Situl arheologic Go Thap", en: "Go Thap Archaeological Site" },
-    coordinates: { lat: 10.6067, lng: 105.8117 },
+    coords: [105.8117, 10.6067],
     description: {
       de: "Go Thap ist eine bedeutende Fundstätte der Oc-Eo-Kultur im Dong-Thap-Muoi-Gebiet. Sie umfasst antike Gräber, Tempelfundamente und religiöse Artefakte.",
       hu: "Go Thap az Oc Eo-kultúra jelentős lelőhelye a Dong Thap Muoi vidéken. Ősi sírokat, templomalapokat és vallási műtárgyakat foglal magában.",
@@ -1441,7 +1441,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-ba-chuc-memorial-history-v2",
     type: "monument",
     name: { de: "Gedenkstätte Ba Chuc", hu: "Ba Chuc emlékhely", ro: "Memorialul Ba Chuc", en: "Ba Chuc Memorial" },
-    coordinates: { lat: 10.5011, lng: 104.8867 },
+    coords: [104.8867, 10.5011],
     description: {
       de: "Diese Gedenkstätte erinnert an das Massaker von 1978, das von Truppen der Roten Khmer verübt wurde. Das zentrale Beinhaus bewahrt die Überreste der Opfer auf.",
       hu: "Ez az emlékhely az 1978-as mészárlásra emlékeztet, amelyet a Vörös Khmer csapatai követtek el. A központi osszárium az áldozatok maradványait őrzi.",
@@ -1460,7 +1460,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-truong-son-museum-history-v2",
     type: "museum",
     name: { de: "Truong-Son-Pfad Museum", hu: "Truong Son-ösvény Múzeum", ro: "Muzeul Traseului Truong Son", en: "Truong Son Trail Museum" },
-    coordinates: { lat: 20.9417, lng: 105.7667 },
+    coords: [105.7667, 20.9417],
     description: {
       de: "Das Museum dokumentiert den Bau und Betrieb des strategischen Ho-Chi-Minh-Pfades. Es zeigt Fahrzeuge, Waffen und persönliche Gegenstände der Soldaten.",
       hu: "A múzeum a stratégiai Ho Si Minh-ösvény építését és működését dokumentálja. Járműveket, fegyvereket és a katonák személyes tárgyait mutatja be.",
@@ -1479,7 +1479,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-quan-thanh-temple-history-v2",
     type: "landmark",
     name: { de: "Quan-Thanh-Tempel", hu: "Quan Thanh templom", ro: "Templul Quan Thanh", en: "Quan Thanh Temple" },
-    coordinates: { lat: 21.0436, lng: 105.8347 },
+    coords: [105.8347, 21.0436],
     description: {
       de: "Dieser taoistische Tempel am Westsee ist eine der vier heiligen Stätten, die Hanoi schützen. Er beherbergt eine gigantische Bronzestatue des Gottes Huyen Thien Tran Vu.",
       hu: "Ez a Nyugati-tó partján álló taoista templom egyike a Hanoi-t védelmező négy szent helynek. Huyen Thien Tran Vu isten óriási bronzszobrát őrzi.",
@@ -1498,7 +1498,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bach-ma-temple-history-v2",
     type: "landmark",
     name: { de: "Bach-Ma-Tempel", hu: "Bach Ma templom", ro: "Templul Bach Ma", en: "Bach Ma Temple" },
-    coordinates: { lat: 21.0361, lng: 105.85 },
+    coords: [105.85, 21.0361],
     description: {
       de: "Der Tempel des weißen Pferdes ist der älteste Tempel in Hanois Altstadt. Er wurde zu Ehren des Schutzgeistes erbaut, der König Ly Thai To beim Bau der Stadt half.",
       hu: "A Fehér Ló temploma Hanoi óvárosának legrégebbi temploma. Annak a védőszellemnek a tiszteletére épült, aki segített Ly Thai To királynak a városépítésben.",
@@ -1517,7 +1517,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-kim-lien-relic-history-v2",
     type: "landmark",
     name: { de: "Kim-Lien-Gedenkstätte", hu: "Kim Lien emlékhely", ro: "Situl Kim Lien", en: "Kim Lien Relic" },
-    coordinates: { lat: 18.6667, lng: 105.5167 },
+    coords: [105.5167, 18.6667],
     description: {
       de: "Diese Stätte umfasst das Elternhaus von Ho Chi Minh in seinem Geburtsort Kim Lien. Die schlichten Strohhütten vermitteln einen Einblick in seine frühen Lebensjahre.",
       hu: "Ez a helyszín Ho Si Minh szülőházát foglalja magában Kim Lien falujában. Az egyszerű nádfedeles házak bepillantást engednek korai éveibe.",
@@ -1536,7 +1536,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-lam-kinh-history-v2",
     type: "ruins",
     name: { de: "Historische Stätte Lam Kinh", hu: "Lam Kinh történelmi helyszín", ro: "Situl istoric Lam Kinh", en: "Lam Kinh Historic Site" },
-    coordinates: { lat: 19.9167, lng: 105.4167 },
+    coords: [105.4167, 19.9167],
     description: {
       de: "Lam Kinh war die Heimatstadt von König Le Loi und Schauplatz des Lam-Son-Aufstands gegen die Ming-Dynastie. Die Anlage beherbergt Palastruinen und kaiserliche Gräber.",
       hu: "Lam Kinh Le Loi király szülővárosa volt, és a Ming-dinasztia elleni Lam Son-felkelés központja. Palotaromokat és császári sírokat őriz.",
@@ -1555,7 +1555,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bach-dang-victory-history-v2",
     type: "battlefield",
     name: { de: "Bach-Dang-Siegstätte", hu: "Bach Dang győzelmi helyszín", ro: "Situl victoriei Bach Dang", en: "Bach Dang Victory Site" },
-    coordinates: { lat: 20.9167, lng: 106.8833 },
+    coords: [106.8833, 20.9167],
     description: {
       de: "Diese Stätte erinnert an die Seeschlachten am Bach-Dang-Fluss, bei denen die Vietnamesen Invasoren mit hölzernen Pfählen besiegten. Sie ist ein Symbol für militärisches Genie.",
       hu: "Ez a helyszín a Bach Dang-folyón vívott tengeri csatákra emlékeztet, ahol a vietnamiak facölöpökkel győzték le a megszállókat. A katonai zsenialitás jelképe.",
@@ -1574,7 +1574,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-ham-rong-bridge-history-v2",
     type: "bridge",
     name: { de: "Ham-Rong-Brücke", hu: "Ham Rong-híd", ro: "Podul Ham Rong", en: "Ham Rong Bridge" },
-    coordinates: { lat: 19.8333, lng: 105.8167 },
+    coords: [105.8167, 19.8333],
     description: {
       de: "Die Drachenrachen-Brücke war ein strategisches Ziel im Vietnamkrieg und hielt unzähligen US-Luftangriffen stand. Sie wurde zum Symbol für den Widerstand Nordvietnams.",
       hu: "A Sárkányszáj-híd stratégiai célpont volt a vietnami háborúban, és számtalan amerikai légitámadásnak ellenállt. Észak-Vietnam ellenállásának jelképévé vált.",
@@ -1593,7 +1593,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-van-mieu-hanoi-history-v2",
     type: "university",
     name: { de: "Văn Miếu - Quoc Tu Giam", hu: "Văn Miếu - Quoc Tu Giam", ro: "Văn Miếu - Quoc Tu Giam", en: "Van Mieu - Quoc Tu Giam" },
-    coordinates: { lat: 21.029, lng: 105.836 },
+    coords: [105.836, 21.029],
     description: {
       de: "Dieser Komplex in Hanoi umfasst den Literaturtempel und die erste Universität des Landes. Er ist ein Zentrum für Gelehrsamkeit und konfuzianische Tradition.",
       hu: "Ez a hanoi komplexum magában foglalja az Irodalom Templomát és az ország első egyetemét. A tudomány és a konfuciánus hagyomány központja.",
@@ -1612,7 +1612,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-khue-van-cac-history-v2",
     type: "monument",
     name: { de: "Khue-Van-Pavillon", hu: "Khue Van pavilon", ro: "Pavilionul Khue Van", en: "Khue Van Pavilion" },
-    coordinates: { lat: 21.0287, lng: 105.8357 },
+    coords: [105.8357, 21.0287],
     description: {
       de: "Der Khue-Van-Pavillon ist das Wahrzeichen von Hanoi und befindet sich im Literaturtempel. Er symbolisiert die leuchtende Konstellation der Literatur.",
       hu: "A Khue Van pavilon Hanoi jelképe, amely az Irodalom Templomában található. Az irodalom ragyogó csillagképét szimbolizálja.",
@@ -1631,7 +1631,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dong-si-cemetery-history-v2",
     type: "monument",
     name: { de: "Nationalfriedhof Dong Si", hu: "Dong Si nemzeti temető", ro: "Cimitirul Național Dong Si", en: "Dong Si National Cemetery" },
-    coordinates: { lat: 16.9, lng: 106.9 },
+    coords: [106.9, 16.9],
     description: {
       de: "Dieser Friedhof in der Provinz Quang Tri ist die letzte Ruhestätte für Tausende von Soldaten, die an der DMZ kämpften. Er ist ein Ort des Gedenkens und der stillen Reflexion.",
       hu: "Ez a Quang Tri tartományban található temető több ezer, a DMZ-nél harcoló katona végső nyughelye. Az emlékezés és a csendes reflexió helyszíne.",
@@ -1650,7 +1650,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-vinh-citadel-history-v2",
     type: "fort",
     name: { de: "Zitadelle von Vinh", hu: "Vinh citadella", ro: "Cetatea Vinh", en: "Vinh Citadel" },
-    coordinates: { lat: 18.666, lng: 105.67 },
+    coords: [105.67, 18.666],
     description: {
       de: "Die Zitadelle von Vinh wurde unter der Nguyen-Dynastie im Vauban-Stil erbaut. Heute sind vor allem die monumentalen Tore und Teile der Wälle erhalten geblieben.",
       hu: "A vinhi citadella a Nguyen-dinasztia idején épült Vauban-stílusban. Ma főként a monumentális kapuk és a falak részei maradtak meg.",
@@ -1669,7 +1669,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-nam-dinh-citadel-history-v2",
     type: "fort",
     name: { de: "Zitadelle von Nam Dinh", hu: "Nam Dinh citadella", ro: "Cetatea Nam Dinh", en: "Nam Dinh Citadel" },
-    coordinates: { lat: 20.42, lng: 106.17 },
+    coords: [106.17, 20.42],
     description: {
       de: "Die Zitadelle von Nam Dinh war ein wichtiges administratives Zentrum im Norden. Von der ursprünglichen Festung sind heute noch historische Tore und Wälle zu sehen.",
       hu: "A Nam Dinh-i citadella az északi rész fontos adminisztratív központja volt. Az eredeti erődből ma is láthatók a történelmi kapuk és falak.",
@@ -1688,7 +1688,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-thanh-chuong-palace-history-v2",
     type: "palace",
     name: { de: "Thanh-Chuong-Palast", hu: "Thanh Chuong palota", ro: "Palatul Thanh Chuong", en: "Thanh Chuong Viet Palace" },
-    coordinates: { lat: 21.25, lng: 105.78 },
+    coords: [105.78, 21.25],
     description: {
       de: "Dieser privat errichtete Palastkomplex bei Hanoi bewahrt traditionelle vietnamesische Architektur und Kunst. Er ist ein lebendiges Museum für das kulturelle Erbe des Landes.",
       hu: "Ez a Hanoi közelében található, magánkézben lévő palotakomplexum a hagyományos vietnami építészetet és művészetet őrzi. Az ország kulturális örökségének élő múzeuma.",
@@ -1707,7 +1707,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-tran-quoc-pagoda-history-v2",
     type: "landmark",
     name: { de: "Trấn Quốc-Pagode", hu: "Trấn Quốc pagoda", ro: "Pagoda Trấn Quốc", en: "Tran Quoc Pagoda" },
-    coordinates: { lat: 21.0478, lng: 105.8367 },
+    coords: [105.8367, 21.0478],
     description: {
       de: "Die Trấn Quốc-Pagode ist die älteste buddhistische Pagode in Hanoi und liegt malerisch auf einer Insel im Westsee. Sie hat eine über 1500-jährige Geschichte.",
       hu: "A Trấn Quốc pagoda Hanoi legrégebbi buddhista pagodája, amely festői helyen, a Nyugati-tó egyik szigetén fekszik. Több mint 1500 éves múltra tekint vissza.",
@@ -1726,7 +1726,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-phu-day-temple-history-v2",
     type: "landmark",
     name: { de: "Phu-Day-Tempelkomplex", hu: "Phu Day templomkomplexum", ro: "Complexul de temple Phu Day", en: "Phu Day Temple Complex" },
-    coordinates: { lat: 20.37, lng: 106.08 },
+    coords: [106.08, 20.37],
     description: {
       de: "Dieser Komplex in der Provinz Nam Dinh ist der Göttin Lieu Hanh gewidmet. Er ist das Zentrum des vietnamesischen Muttergöttinnen-Kults, der zum UNESCO-Erbe gehört.",
       hu: "Ez a Nam Dinh tartományban található komplexum Lieu Hanh istennőnek szentelt. A vietnami anyaistennő-kultusz központja, amely az UNESCO örökség része.",
@@ -1745,7 +1745,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-do-temple-history-v2",
     type: "landmark",
     name: { de: "Do-Tempel", hu: "Do templom", ro: "Templul Do", en: "Do Temple" },
-    coordinates: { lat: 21.11, lng: 105.95 },
+    coords: [105.95, 21.11],
     description: {
       de: "Der Do-Tempel ist den acht Königen der Ly-Dynastie gewidmet. Er ist ein bedeutender Ort zur Feier des Erbes der Dynastie, die Hanoi zur Hauptstadt machte.",
       hu: "A Do templom a Ly-dinasztia nyolc királyának szentelt. Jelentős helyszín a dinasztia örökségének megünneplésére, amely Hanoit tette fővárossá.",
@@ -1764,7 +1764,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-trieu-da-temple-history-v2",
     type: "landmark",
     name: { de: "Trieu-Da-Tempel", hu: "Trieu Da templom", ro: "Templul Trieu Da", en: "Trieu Da Temple" },
-    coordinates: { lat: 20.91, lng: 105.9 },
+    coords: [105.9, 20.91],
     description: {
       de: "Dieser Tempel ist König Trieu Da gewidmet, dem Gründer des antiken Staates Nam Viet. Er ist ein wichtiges Zeugnis für die frühe Geschichte und Identität Vietnams.",
       hu: "Ez a templom Trieu Da királynak, az ókori Nam Viet állam alapítójának szentelt. Fontos tanúbizonyság Vietnam korai történelméről és identitásáról.",
@@ -1783,7 +1783,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-hung-kings-temple-history-v2",
     type: "landmark",
     name: { de: "Hung-Könige Tempelkomplex", hu: "Hung királyok templomkomplexuma", ro: "Complexul de temple al regilor Hung", en: "Hung Kings Temple Complex" },
-    coordinates: { lat: 21.3667, lng: 105.3333 },
+    coords: [105.3333, 21.3667],
     description: {
       de: "Auf dem Berg Nghia Linh gelegen, ist dieser Komplex den mythischen Hung-Königen gewidmet, den Gründern Vietnams. Er ist der heiligste Ahnenkultort des Landes.",
       hu: "A Nghia Linh-hegyen található komplexum a mitikus Hung királyoknak, Vietnam alapítóinak szentelt. Az ország legszentebb őskultusz-helyszíne.",
@@ -1802,7 +1802,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-hai-ba-trung-temple-history-v2",
     type: "landmark",
     name: { de: "Hai-Ba-Trung-Tempel", hu: "Hai Ba Trung templom", ro: "Templul Hai Ba Trung", en: "Hai Ba Trung Temple" },
-    coordinates: { lat: 21.008, lng: 105.856 },
+    coords: [105.856, 21.008],
     description: {
       de: "Der Tempel ehrt die Trung-Schwestern, die im 1. Jahrhundert einen Aufstand gegen die chinesische Fremdherrschaft anführten. Er ist ein Symbol für den weiblichen Widerstand.",
       hu: "A templom a Trung-nővérek előtt tiszteleg, akik az 1. században felkelést vezettek a kínai uralom ellen. A női ellenállás szimbóluma.",
@@ -1821,7 +1821,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-le-mat-snake-village-history-v2",
     type: "village",
     name: { de: "Le-Mat-Schlangendorf", hu: "Le Mat kígyófalu", ro: "Satul șerpilor Le Mat", en: "Le Mat Snake Village" },
-    coordinates: { lat: 21.05, lng: 105.9 },
+    coords: [105.9, 21.05],
     description: {
       de: "Le Mat ist ein geschichtsträchtiges Handwerkerdorf bei Hanoi, das für seine Tradition der Schlangenjagd bekannt ist. Die Geschichte reicht bis in die Ly-Dynastie zurück.",
       hu: "Le Mat egy történelmi kézműves falu Hanoi közelében, amely kígyóvadászati hagyományairól ismert. Története a Ly-dinasztia idejéig nyúlik vissza.",
@@ -1840,7 +1840,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-bat-trang-ceramics-history-v2",
     type: "village",
     name: { de: "Keramikdorf Bat Trang", hu: "Bat Trang kerámiafalu", ro: "Satul de ceramică Bat Trang", en: "Bat Trang Ceramics Village" },
-    coordinates: { lat: 20.9767, lng: 105.9125 },
+    coords: [105.9125, 20.9767],
     description: {
       de: "Bat Trang ist ein 700 Jahre altes Dorf am Roten Fluss, das weltberühmt für seine Porzellan- und Keramikproduktion ist. Es belieferte einst den kaiserlichen Hof.",
       hu: "Bat Trang egy 700 éves falu a Vörös-folyó partján, amely világhírű porcelán- és kerámiagyártásáról. Egykor a császári udvart is kiszolgálta.",
@@ -1859,7 +1859,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-dong-ho-painting-village-history-v2",
     type: "village",
     name: { de: "Maldorf Dong Ho", hu: "Dong Ho festőfalu", ro: "Satul de pictură Dong Ho", en: "Dong Ho Painting Village" },
-    coordinates: { lat: 21.05, lng: 106.1 },
+    coords: [106.1, 21.05],
     description: {
       de: "Dong Ho ist berühmt für seine volkstümlichen Holzschnittbilder auf speziellem Diep-Papier. Die Motive spiegeln das traditionelle bäuerliche Leben und Träume wider.",
       hu: "Dong Ho híres a speciális Diep-papírra készült népi fametszeteiről. A motívumok a hagyományos paraszti életet és álmokat tükrözik.",
@@ -1878,7 +1878,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-ha-thai-lacquerware-history-v2",
     type: "village",
     name: { de: "Lackdorf Ha Thai", hu: "Ha Thai lakkfalu", ro: "Satul de lac Ha Thai", en: "Ha Thai Lacquerware Village" },
-    coordinates: { lat: 20.88, lng: 105.85 },
+    coords: [105.85, 20.88],
     description: {
       de: "Ha Thai ist ein Zentrum für die traditionelle Lackkunst in Nordvietnam. Die Handwerker nutzen überlieferte Techniken zur Veredelung von Holz- und Bambuswaren.",
       hu: "Ha Thai az észak-vietnami hagyományos lakkművészet központja. A kézművesek ősi technikákat alkalmaznak a fa- és bambusztárgyak díszítésére.",
@@ -1897,7 +1897,7 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "vietnam-van-phuc-silk-history-v2",
     type: "village",
     name: { de: "Seidendorf Van Phuc", hu: "Van Phuc selyemfalu", ro: "Satul de mătase Van Phuc", en: "Van Phuc Silk Village" },
-    coordinates: { lat: 20.977, lng: 105.776 },
+    coords: [105.776, 20.977],
     description: {
       de: "Van Phuc ist das berühmteste Seidendorf Vietnams mit einer über 1000-jährigen Geschichte. Es ist bekannt für seine hochwertige 'Ha Dong Seide' und traditionelle Webstühle.",
       hu: "Van Phuc Vietnam leghíresebb selyemfaluja, több mint 1000 éves múltra tekint vissza. Kiváló minőségű 'Ha Dong selyméről' és szövőszékeiről ismert.",

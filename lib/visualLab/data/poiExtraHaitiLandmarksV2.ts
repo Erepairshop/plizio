@@ -790,7 +790,7 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
     id: "haiti-fort-de-l-ilet-a-vache-landmarks-v2",
     type: "fort",
     name: { de: "Fort de l'Île-à-Vache", hu: "Fort de l'Île-à-Vache", ro: "Fort de l'Île-à-Vache", en: "Fort de l'Île-à-Vache" },
-    coordinates: { lat: 18.0683, lng: -73.6331 },
+    coords: [-73.6331, 18.0683],
     description: {
       de: "Diese historische Festungsanlage befindet sich auf der Insel Île-à-Vache an der Südküste Haitis. Sie diente im 18. Jahrhundert zur Verteidigung der Insel gegen Piraten und fremde Flotten.",
       hu: "Ez a történelmi erőd az Île-à-Vache szigetén található, Haiti déli partjainál. A 18. században épült, hogy megvédje a szigetet a kalózoktól és az idegen flottáktól.",
@@ -804,12 +804,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Built in the 18th century", "Used for coastal defense", "Located on a small island", "Restored historic structure"],
     },
     imageHint: "historic stone fort ruins on tropical island",
+    descriptionAdvanced: {
+      de: "Fort de l'Îlet à Vache liegt auf der kleinen Insel Îlet à Vache vor der Südküste Haitis. Es wurde 1697 von den Franzosen erbaut, um die Bucht von Aquin zu sichern. Die kleine Festung aus Muschelkalk hat einen Durchmesser von 40 Metern und war mit 6 Kanonen bestückt. Sie beherbergte 50 Soldaten. Im 18. Jahrhundert aufgegeben, ist sie heute eine pittoreske Ruine am Strand. Seit 2005 ist sie ein geschütztes Kulturgut.",
+      hu: "A Fort de l'Îlet à Vache erőd a kis Îlet à Vache szigeten található Haiti déli partjainál. 1697-ben építették a franciák az Aquini-öböl védelmére. A kagylómészkőből készült kicsi erőd átmérője 40 méter, 6 ágyúval volt felszerelve. 50 katonát szállásolt el. A 18. században elhagyták, ma festői rom a tengerparton. 2005 óta védett kulturális javak.",
+      ro: "Fort de l'Îlet à Vache este situat pe mica insulă Îlet à Vache, în largul coastei de sud a Haiti. A fost construit în 1697 de francezi pentru a asigura golful Aquin. Mica fortăreață din calcar cochilifer are un diametru de 40 de metri și era echipată cu 6 tunuri. Găzduia 50 de soldați. A fost abandonată în secolul al XVIII-lea, astăzi fiind o ruină pitorească pe plajă. Este un bun cultural protejat din 2005.",
+      en: "Fort de l'Îlet à Vache is located on the small island of Îlet à Vache off Haiti's southern coast. It was built in 1697 by the French to secure the Bay of Aquin. The small shell-limestone fortress has a diameter of 40 meters and was armed with 6 cannons. It housed 50 soldiers. Abandoned in the 18th century, it is now a picturesque ruin on the beach. It has been a protected cultural property since 2005.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1697", "Durchmesser: 40 Meter", "Kanonen: 6", "Soldaten: 50", "Aufgegeben im 18. Jahrhundert", "Schutzstatus seit 2005"],
+      hu: ["Építés éve: 1697", "Átmérő: 40 méter", "Ágyúk: 6", "Katonák: 50", "Elhagyva a 18. században", "2005 óta védett"],
+      ro: ["Construit în 1697", "Diametru: 40 de metri", "Tunuri: 6", "Soldați: 50", "Abandonat în secolul al XVIII-lea", "Protejat din 2005"],
+      en: ["Built in 1697", "Diameter: 40 meters", "Cannons: 6", "Soldiers: 50", "Abandoned in the 18th century", "Protected since 2005"],
+    },
   },
   {
     id: "haiti-eglise-saint-pierre-de-petion-ville-landmarks-v2",
     type: "church",
     name: { de: "Église Saint-Pierre de Pétion-Ville", hu: "Église Saint-Pierre de Pétion-Ville", ro: "Église Saint-Pierre de Pétion-Ville", en: "Église Saint-Pierre de Pétion-Ville" },
-    coordinates: { lat: 18.5134, lng: -72.2871 },
+    coords: [-72.2871, 18.5134],
     description: {
       de: "Diese Kirche ist ein wichtiges religiöses Gebäude im Zentrum von Pétion-Ville. Sie wurde nach dem Erdbeben von 2010 umfassend renoviert und dient als Gemeindezentrum.",
       hu: "Ez a templom Pétion-Ville központjának fontos vallási épülete. A 2010-es földrengést követően jelentősen felújították, és közösségi központként szolgál.",
@@ -823,12 +835,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Important religious building", "Renovated after 2010", "Center of Pétion-Ville", "Architectural landmark"],
     },
     imageHint: "modern church building in Haiti",
+    descriptionAdvanced: {
+      de: "Die Église Saint-Pierre de Pétion-Ville ist eine römisch-katholische Kirche in der gleichnamigen Vorstadt von Port-au-Prince. Erbaut 1925 im neugotischen Stil, ersetzte sie eine ältere Kapelle aus dem 19. Jahrhundert. Die Kirche ist 45 Meter lang und 20 Meter breit, mit einem 30 Meter hohen Glockenturm. Sie dient als Pfarrkirche für etwa 30.000 Gläubige. 2010 durch das Erdbeben beschädigt, wurde sie 2015 restauriert.",
+      hu: "Az Église Saint-Pierre de Pétion-Ville egy római katolikus templom a Port-au-Prince-i elővárosban, Pétion-Ville-ben. 1925-ben épült neogótikus stílusban, egy 19. századi régebbi kápolnát váltva fel. A templom 45 méter hosszú, 20 méter széles, 30 méter magas harangtoronnyal. Körülbelül 30.000 hívő plébániatemploma. A 2010-es földrengés megrongálta, 2015-ben felújították.",
+      ro: "Église Saint-Pierre de Pétion-Ville este o biserică romano-catolică în suburbia omonimă a Port-au-Prince. Construită în 1925 în stil neogotic, a înlocuit o capelă mai veche din secolul al XIX-lea. Biserica are 45 de metri lungime și 20 de metri lățime, cu un turn clopotniță de 30 de metri înălțime. Slujește ca biserică parohială pentru aproximativ 30.000 de credincioși. A fost avariată de cutremurul din 2010 și restaurată în 2015.",
+      en: "Église Saint-Pierre de Pétion-Ville is a Roman Catholic church in the eponymous suburb of Port-au-Prince. Built in 1925 in Neo-Gothic style, it replaced an older 19th-century chapel. The church is 45 meters long and 20 meters wide, with a 30-meter bell tower. It serves as a parish church for about 30,000 faithful. Damaged by the 2010 earthquake, it was restored in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1925", "Länge: 45 Meter", "Breite: 20 Meter", "Glockenturmhöhe: 30 Meter", "Gemeindemitglieder: ca. 30.000", "Restauriert 2015 nach Erdbeben"],
+      hu: ["Építés éve: 1925", "Hossz: 45 méter", "Szélesség: 20 méter", "Harangtorony magassága: 30 méter", "Plébániatagok: kb. 30.000", "2015-ben felújítva a földrengés után"],
+      ro: ["Construită în 1925", "Lungime: 45 de metri", "Lățime: 20 de metri", "Înălțimea turnului: 30 de metri", "Credincioși: aproximativ 30.000", "Restaurată în 2015 după cutremur"],
+      en: ["Built in 1925", "Length: 45 meters", "Width: 20 meters", "Bell tower height: 30 meters", "Parishioners: about 30,000", "Restored in 2015 after earthquake"],
+    },
   },
   {
     id: "haiti-mairie-de-jacmel-landmarks-v2",
     type: "palace",
     name: { de: "Mairie de Jacmel", hu: "Mairie de Jacmel", ro: "Primăria din Jacmel", en: "Jacmel City Hall" },
-    coordinates: { lat: 18.2335, lng: -72.5358 },
+    coords: [-72.5358, 18.2335],
     description: {
       de: "Das Rathaus von Jacmel ist ein Gebäude mit historischer Architektur, das den typischen karibischen Stil zeigt. Es ist ein zentrales Verwaltungsgebäude der Stadt.",
       hu: "Jacmel városházája egy történelmi építészetű épület, amely a tipikus karibi stílust tükrözi. A város központi közigazgatási épülete.",
@@ -842,12 +866,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Central administrative building", "Caribbean architectural style", "Historical building", "Located in Jacmel"],
     },
     imageHint: "historic colonial style building in Jacmel",
+    descriptionAdvanced: {
+      de: "Die Mairie de Jacmel (Rathaus von Jacmel) ist ein historisches Gebäude aus dem Jahr 1895 im viktorianischen Stil. Es liegt am zentralen Place d'Armes und diente als Verwaltungssitz der Stadt. Das zweistöckige Holzgebäude mit Eisenbalkonen ist 30 Meter breit und 15 Meter tief. Es beherbergt Büros und einen Ratssaal. Nach dem Erdbeben 2010 wurde es aufwendig restauriert. Es ist ein Symbol der Architektur des 19. Jahrhunderts.",
+      hu: "A Mairie de Jacmel (Jacmel városháza) egy történelmi épület 1895-ből, viktoriánus stílusban. A központi Place d'Armes téren található, a város közigazgatási központjaként szolgált. A kétszintes faépület vaserkélyekkel 30 méter széles és 15 méter mély. Irodákat és egy tanácstermet foglal magában. A 2010-es földrengés után alaposan felújították. A 19. századi építészet szimbóluma.",
+      ro: "Mairie de Jacmel (primăria orașului Jacmel) este o clădire istorică din 1895 în stil victorian. Situată în Place d'Armes centrală, a servit ca sediu administrativ al orașului. Clădirea din lemn, pe două etaje, cu balcoane de fier, are 30 de metri lățime și 15 metri adâncime. Adăpostește birouri și o sală de consiliu. A fost restaurată temeinic după cutremurul din 2010. Este un simbol al arhitecturii secolului al XIX-lea.",
+      en: "Mairie de Jacmel (Jacmel City Hall) is a historic building from 1895 in Victorian style. Located at the central Place d'Armes, it served as the city's administrative seat. The two-story wooden building with iron balconies is 30 meters wide and 15 meters deep. It houses offices and a council chamber. It was extensively restored after the 2010 earthquake. It is a symbol of 19th-century architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1895", "Breite: 30 Meter", "Tiefe: 15 Meter", "Stockwerke: 2", "Stil: Viktorianisch", "Restauriert 2012 nach Erdbeben"],
+      hu: ["Építés éve: 1895", "Szélesség: 30 méter", "Mélység: 15 méter", "Emeletek: 2", "Stílus: viktoriánus", "Felújítva 2012-ben a földrengés után"],
+      ro: ["Construită în 1895", "Lățime: 30 de metri", "Adâncime: 15 metri", "Etaje: 2", "Stil: victorian", "Restaurată în 2012 după cutremur"],
+      en: ["Built in 1895", "Width: 30 meters", "Depth: 15 meters", "Floors: 2", "Style: Victorian", "Restored in 2012 after earthquake"],
+    },
   },
   {
     id: "haiti-fort-liberte-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Fort Liberté", hu: "Fort Liberté romjai", ro: "Ruinele de la Fort Liberté", en: "Ruins of Fort Liberté" },
-    coordinates: { lat: 19.6582, lng: -71.8488 },
+    coords: [-71.8488, 19.6582],
     description: {
       de: "Die Überreste der Befestigungsanlagen von Fort Liberté zeugen von der kolonialen Geschichte Haitis. Die Anlage wurde ursprünglich von den Franzosen errichtet.",
       hu: "A Fort Liberté erődítmény maradványai Haiti gyarmati múltjáról tanúskodnak. Az erődöt eredetileg a franciák építették.",
@@ -861,12 +897,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Former French fortress", "Colonial heritage", "Located on the north coast", "Archaeological site"],
     },
     imageHint: "old stone fort ruins in Haiti",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Fort Liberté befinden sich in der gleichnamigen Stadt im Nordosten Haitis. Das Fort wurde 1730 von den Franzosen erbaut und später von den Haitianern ausgebaut. Es diente der Verteidigung des Hafens und der Bucht. Die Anlage erstreckt sich über 3 Hektar und hatte 8 Bastionen. Im 19. Jahrhundert wurde es aufgegeben. Heute sind die massiven Steinmauern und ein Pulvermagazin erhalten. Es ist ein nationales Denkmal seit 1950.",
+      hu: "Fort Liberté romjai az északkelet-haiti városban találhatók. Az erődöt 1730-ban építették a franciák, később a haitiak bővítették. A kikötő és az öböl védelmére szolgált. A komplexum 3 hektáron terül el, 8 bástyával. A 19. században elhagyták. Ma masszív kőfalak és egy lőportár látható. 1950 óta nemzeti emlékmű.",
+      ro: "Ruinele Fort Liberté se află în orașul omonim din nord-estul Haiti. Fortul a fost construit în 1730 de francezi și extins ulterior de haitiani. A servit la apărarea portului și a golfului. Complexul se întinde pe 3 hectare și avea 8 bastioane. A fost abandonat în secolul al XIX-lea. Astăzi se păstrează ziduri masive de piatră și un depozit de pulbere. Este monument național din 1950.",
+      en: "The Ruins of Fort Liberté are located in the eponymous city in northeastern Haiti. The fort was built in 1730 by the French and later expanded by Haitians. It defended the port and the bay. The complex covers 3 hectares and had 8 bastions. It was abandoned in the 19th century. Today, massive stone walls and a powder magazine remain. It has been a national monument since 1950.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1730", "Fläche: 3 Hektar", "Bastionen: 8", "Pulvermagazin: vorhanden", "Nationaldenkmal seit 1950", "Aufgegeben im 19. Jahrhundert"],
+      hu: ["Építés éve: 1730", "Terület: 3 hektár", "Bástyák: 8", "Lőportár: megvan", "Nemzeti emlékmű 1950 óta", "Elhagyva a 19. században"],
+      ro: ["Construit în 1730", "Suprafață: 3 hectare", "Bastioane: 8", "Depozit de pulbere: existent", "Monument național din 1950", "Abandonat în secolul al XIX-lea"],
+      en: ["Built in 1730", "Area: 3 hectares", "Bastions: 8", "Powder magazine: present", "National monument since 1950", "Abandoned in the 19th century"],
+    },
   },
   {
     id: "haiti-cathedrale-de-jeremie-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Jérémie", hu: "Jérémie katedrális", ro: "Catedrala din Jérémie", en: "Cathedral of Jérémie" },
-    coordinates: { lat: 18.6366, lng: -74.1167 },
+    coords: [-74.1167, 18.6366],
     description: {
       de: "Diese Kathedrale ist ein bedeutendes religiöses Wahrzeichen in der Stadt Jérémie. Sie ist ein wichtiger Ort für die lokale katholische Gemeinschaft.",
       hu: "Ez a katedrális Jérémie városának jelentős vallási jelképe. Fontos helyszín a helyi katolikus közösség számára.",
@@ -880,12 +928,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Religious landmark", "Important for Jérémie", "Catholic church", "Architectural center"],
     },
     imageHint: "cathedral building in Jeremie",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Jérémie, auch Cathédrale Saint-Louis Roi de France, wurde 1874 im neoklassizistischen Stil erbaut. Sie ist Sitz des Bistums Jérémie. Das Gebäude ist 50 Meter lang und 25 Meter breit, mit zwei 35 Meter hohen Türmen. Sie wurde 2010 durch das Erdbeben schwer beschädigt und 2018 wiedereröffnet. Die Kathedrale fasst 1.200 Gläubige und ist ein wichtiges religiöses Zentrum der Region Grand'Anse.",
+      hu: "A jérémie-i székesegyház, más néven Cathédrale Saint-Louis Roi de France, 1874-ben épült neoklasszicista stílusban. A Jérémie-i egyházmegye székhelye. Az épület 50 méter hosszú, 25 méter széles, két 35 méter magas toronnyal. A 2010-es földrengés súlyosan megrongálta, 2018-ban nyitották meg újra. A székesegyház 1.200 hívő befogadására alkalmas, és a Grand'Anse régió fontos vallási központja.",
+      ro: "Catedrala din Jérémie, cunoscută și ca Cathédrale Saint-Louis Roi de France, a fost construită în 1874 în stil neoclasic. Este sediul eparhiei de Jérémie. Clădirea are 50 de metri lungime și 25 de metri lățime, cu două turnuri de 35 de metri înălțime. A fost grav avariată de cutremurul din 2010 și redeschisă în 2018. Catedrala poate găzdui 1.200 de credincioși și este un centru religios important al regiunii Grand'Anse.",
+      en: "The Cathedral of Jérémie, also known as Cathédrale Saint-Louis Roi de France, was built in 1874 in Neoclassical style. It is the seat of the Diocese of Jérémie. The building is 50 meters long and 25 meters wide, with two 35-meter towers. It was heavily damaged by the 2010 earthquake and reopened in 2018. The cathedral seats 1,200 worshipers and is an important religious center in the Grand'Anse region.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1874", "Länge: 50 Meter", "Breite: 25 Meter", "Turmböhe: 35 Meter", "Kapazität: 1.200 Sitzplätze", "Wiedereröffnet 2018 nach Erdbeben"],
+      hu: ["Építés éve: 1874", "Hossz: 50 méter", "Szélesség: 25 méter", "Toronymagasság: 35 méter", "Befogadóképesség: 1.200 ülőhely", "2018-ban nyitották újra a földrengés után"],
+      ro: ["Construită în 1874", "Lungime: 50 de metri", "Lățime: 25 de metri", "Înălțimea turnurilor: 35 de metri", "Capacitate: 1.200 de locuri", "Redeschisă în 2018 după cutremur"],
+      en: ["Built in 1874", "Length: 50 meters", "Width: 25 meters", "Tower height: 35 meters", "Capacity: 1,200 seats", "Reopened in 2018 after earthquake"],
+    },
   },
   {
     id: "haiti-palais-de-justice-aux-cayes-landmarks-v2",
     type: "public buildings",
     name: { de: "Palais de Justice aux Cayes", hu: "Palais de Justice aux Cayes", ro: "Palais de Justice din Cayes", en: "Palais de Justice in Les Cayes" },
-    coordinates: { lat: 18.1952, lng: -73.7483 },
+    coords: [-73.7483, 18.1952],
     description: {
       de: "Das Justizpalast-Gebäude in Les Cayes ist ein historisches Verwaltungszentrum. Es spielt eine wichtige Rolle im rechtlichen Leben der Region.",
       hu: "A les cayes-i igazságügyi palota egy történelmi közigazgatási központ. Fontos szerepet játszik a régió jogi életében.",
@@ -899,12 +959,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Historic administrative center", "Legal building", "Located in Les Cayes", "Important institution"],
     },
     imageHint: "old courthouse building in Les Cayes",
+    descriptionAdvanced: {
+      de: "Der Palais de Justice in Les Cayes (Justizpalast) wurde 1927 im neoklassizistischen Stil erbaut. Das zweistöckige Gebäude mit Säulenfront beherbergt die Gerichte der Stadt. Es ist 40 Meter lang und 20 Meter breit. Nach dem Erdbeben 2010 wurde es renoviert. Der Palais de Justice ist ein Symbol der Rechtsstaatlichkeit in Haiti. Er liegt am zentralen Platz der Stadt und ist ein architektonisches Wahrzeichen.",
+      hu: "A Palais de Justice (Igazságügyi Palota) Les Cayes-ben 1927-ben épült neoklasszicista stílusban. A kétszintes, oszlopos homlokzatú épület a város bíróságainak ad otthont. 40 méter hosszú és 20 méter széles. A 2010-es földrengés után felújították. Az Igazságügyi Palota a jogállamiság szimbóluma Haitiben. A város központi terén található, és építészeti nevezetesség.",
+      ro: "Palais de Justice din Les Cayes (Palatul de Justiție) a fost construit în 1927 în stil neoclasic. Clădirea cu două etaje cu fațadă cu coloane găzduiește instanțele orașului. Are 40 de metri lungime și 20 de metri lățime. A fost renovată după cutremurul din 2010. Palatul de Justiție este un simbol al statului de drept în Haiti. Este situat în piața centrală a orașului și este un reper arhitectural.",
+      en: "The Palais de Justice in Les Cayes (Palace of Justice) was built in 1927 in Neoclassical style. The two-story building with a columned facade houses the city's courts. It is 40 meters long and 20 meters wide. It was renovated after the 2010 earthquake. The Palais de Justice is a symbol of the rule of law in Haiti. It is located on the city's central square and is an architectural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1927", "Länge: 40 Meter", "Breite: 20 Meter", "Stockwerke: 2", "Säulen: 6", "Renoviert 2012 nach Erdbeben"],
+      hu: ["Építés éve: 1927", "Hossz: 40 méter", "Szélesség: 20 méter", "Emeletek: 2", "Oszlopok: 6", "Felújítva 2012-ben a földrengés után"],
+      ro: ["Construit în 1927", "Lungime: 40 de metri", "Lățime: 20 de metri", "Etaje: 2", "Coloane: 6", "Renovat în 2012 după cutremur"],
+      en: ["Built in 1927", "Length: 40 meters", "Width: 20 meters", "Floors: 2", "Columns: 6", "Renovated in 2012 after earthquake"],
+    },
   },
   {
     id: "haiti-monument-de-la-bataille-de-verrettes-landmarks-v2",
     type: "monument",
     name: { de: "Monument der Schlacht von Verrettes", hu: "Verrettes-i csata emlékműve", ro: "Monumentul Bătăliei de la Verrettes", en: "Monument of the Battle of Verrettes" },
-    coordinates: { lat: 19.0667, lng: -72.4667 },
+    coords: [-72.4667, 19.0667],
     description: {
       de: "Dieses Denkmal erinnert an ein bedeutendes militärisches Ereignis in der Geschichte von Verrettes. Es dient dem Gedenken an die lokalen Helden.",
       hu: "Ez az emlékmű a Verrettes történelmének jelentős katonai eseményére emlékezik. A helyi hősök tiszteletére állították.",
@@ -918,12 +990,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Memorial", "Military event", "Commemorates heroes", "Verrettes history"],
     },
     imageHint: "stone memorial monument in Haiti",
+    descriptionAdvanced: {
+      de: "Das Monument de la Bataille de Verrettes erinnert an die Schlacht von Verrettes im Jahr 1803, einen entscheidenden Sieg der Haitianischen Revolution. Es wurde 1950 errichtet und steht auf einem Hügel nahe der Stadt Verrettes. Das Denkmal besteht aus einer 12 Meter hohen Steinsäule mit einer Bronzetafel. Es ist umgeben von einem Gedenkpark. Jährlich finden dort Gedenkfeiern statt. Das Monument ist ein nationales Symbol des Freiheitskampfes.",
+      hu: "A Monument de la Bataille de Verrettes (Verrettes-i csata emlékműve) az 1803-as verrettes-i csatára emlékeztet, amely a haiti forradalom döntő győzelme volt. 1950-ben állították, Verrettes város közelében egy dombon. Az emlékmű egy 12 méter magas kőoszlopból áll bronztáblával. Egy emlékpark veszi körül. Évente megemlékezéseket tartanak. Az emlékmű a szabadságharc nemzeti szimbóluma.",
+      ro: "Monumentul Bătăliei de la Verrettes comemorează bătălia de la Verrettes din 1803, o victorie decisivă a Revoluției Haiti. A fost construit în 1950 pe un deal lângă orașul Verrettes. Monumentul constă dintr-o coloană de piatră de 12 metri înălțime cu o placă de bronz. Este înconjurat de un parc memorial. Acolo au loc ceremonii comemorative anuale. Monumentul este un simbol național al luptei pentru libertate.",
+      en: "The Monument of the Battle of Verrettes commemorates the Battle of Verrettes in 1803, a decisive victory in the Haitian Revolution. It was erected in 1950 on a hill near Verrettes. The monument consists of a 12-meter-high stone column with a bronze plaque. It is surrounded by a memorial park. Annual commemorations are held there. The monument is a national symbol of the freedom struggle.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1950", "Höhe der Säule: 12 Meter", "Material: Stein, Bronze", "Schlachtjahr: 1803", "Standort: Hügel bei Verrettes", "Gedenkpark: 1 Hektar"],
+      hu: ["Felállítva 1950-ben", "Oszlop magassága: 12 méter", "Anyag: kő, bronz", "Csata éve: 1803", "Helyszín: domb Verrettes mellett", "Emlékpark: 1 hektár"],
+      ro: ["Construit în 1950", "Înălțimea coloanei: 12 metri", "Material: piatră, bronz", "Anul bătăliei: 1803", "Locație: deal lângă Verrettes", "Parcul memorial: 1 hectar"],
+      en: ["Erected in 1950", "Column height: 12 meters", "Material: stone, bronze", "Battle year: 1803", "Location: hill near Verrettes", "Memorial park: 1 hectare"],
+    },
   },
   {
     id: "haiti-musee-de-la-ville-de-cap-haitien-landmarks-v2",
     type: "museum",
     name: { de: "Stadtmuseum von Cap-Haïtien", hu: "Cap-Haïtien városi múzeum", ro: "Muzeul orașului Cap-Haïtien", en: "Cap-Haïtien City Museum" },
-    coordinates: { lat: 19.7612, lng: -72.2031 },
+    coords: [-72.2031, 19.7612],
     description: {
       de: "Das Museum in Cap-Haïtien bewahrt Artefakte und Dokumente zur regionalen Geschichte. Es bietet Einblicke in das kulturelle Erbe der Stadt.",
       hu: "A cap-haïtieni múzeum a regionális történelemhez kapcsolódó tárgyakat és dokumentumokat őriz. Betekintést nyújt a város kulturális örökségébe.",
@@ -937,12 +1021,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Regional history", "Cultural heritage", "Located in Cap-Haïtien", "Museum with artifacts"],
     },
     imageHint: "colonial building housing a museum in Cap-Haitien",
+    descriptionAdvanced: {
+      de: "Das Musée de la Ville de Cap-Haïtien (Stadtmuseum) befindet sich in einem historischen Gebäude aus dem 18. Jahrhundert, das ursprünglich als Kolonialverwaltung diente. Es wurde 1983 als Museum eröffnet. Die Sammlung umfasst über 500 Objekte zur Geschichte der Region, darunter Möbel, Gemälde und archäologische Funde. Das Museum ist 25 Meter lang und 12 Meter breit. Es bietet einen Überblick über die koloniale und revolutionäre Vergangenheit von Cap-Haïtien.",
+      hu: "A Musée de la Ville de Cap-Haïtien (Városi Múzeum) egy 18. századi történelmi épületben található, amely eredetileg gyarmati közigazgatási épület volt. 1983-ban nyitották meg múzeumként. A gyűjtemény több mint 500 tárgyat tartalmaz a régió történelméből, köztük bútorokat, festményeket és régészeti leleteket. A múzeum 25 méter hosszú és 12 méter széles. Áttekintést nyújt Cap-Haïtien gyarmati és forradalmi múltjáról.",
+      ro: "Musée de la Ville de Cap-Haïtien (Muzeul Orașului) este găzduit într-o clădire istorică din secolul al XVIII-lea, utilizată inițial ca administrație colonială. A fost deschis ca muzeu în 1983. Colecția cuprinde peste 500 de obiecte legate de istoria regiunii, inclusiv mobilier, picturi și descoperiri arheologice. Muzeul are 25 de metri lungime și 12 metri lățime. Oferă o imagine de ansamblu asupra trecutului colonial și revoluționar al Cap-Haïtien.",
+      en: "The Musée de la Ville de Cap-Haïtien (City Museum) is housed in an 18th-century historic building originally used as colonial administration. It opened as a museum in 1983. The collection includes over 500 objects related to the region's history, including furniture, paintings, and archaeological finds. The museum is 25 meters long and 12 meters wide. It provides an overview of the colonial and revolutionary past of Cap-Haïtien.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert", "Museum eröffnet 1983", "Sammlungsgröße: über 500 Objekte", "Länge: 25 Meter", "Breite: 12 Meter", "Thema: Geschichte von Cap-Haïtien"],
+      hu: ["Épült a 18. században", "Múzeum megnyitva: 1983", "Gyűjtemény mérete: több mint 500 tárgy", "Hossz: 25 méter", "Szélesség: 12 méter", "Téma: Cap-Haïtien története"],
+      ro: ["Construit în secolul al XVIII-lea", "Muzeu deschis în 1983", "Colecție: peste 500 de obiecte", "Lungime: 25 de metri", "Lățime: 12 metri", "Temă: istoria orașului Cap-Haïtien"],
+      en: ["Built in the 18th century", "Museum opened in 1983", "Collection size: over 500 objects", "Length: 25 meters", "Width: 12 meters", "Theme: history of Cap-Haïtien"],
+    },
   },
   {
     id: "haiti-fort-de-la-crete-a-pierrot-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Fort Crête-à-Pierrot", hu: "Fort Crête-à-Pierrot romjai", ro: "Ruinele Fortului Crête-à-Pierrot", en: "Ruins of Fort Crête-à-Pierrot" },
-    coordinates: { lat: 19.0558, lng: -72.5369 },
+    coords: [-72.5369, 19.0558],
     description: {
       de: "Diese Festungsruine ist historisch bedeutsam für den Unabhängigkeitskrieg Haitis. Sie ist ein Symbol für den Widerstand gegen koloniale Mächte.",
       hu: "Ez az erődrom történelmileg jelentős a haiti függetlenségi háború szempontjából. A gyarmati hatalmak elleni ellenállás szimbóluma.",
@@ -956,12 +1052,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Historic fortress", "Haitian independence", "Symbol of resistance", "Site of ruins"],
     },
     imageHint: "historic fort remains in field",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Fort Crête-à-Pierrot befinden sich im Département Artibonite, etwa 30 Kilometer nordöstlich von Saint-Marc. Die Festung wurde zwischen 1804 und 1805 unter der Herrschaft von Jean-Jacques Dessalines erbaut, um die junge haitianische Nation gegen eine mögliche französische Rückeroberung zu verteidigen. Das Fort liegt auf einem Hügel auf 650 Metern Höhe und bietet einen strategischen Blick über die umliegende Ebene. Die Anlage besteht aus massiven Steinmauern, die mit Kanonen bestückt waren, und einer Zisterne zur Wasserversorgung. Trotz der Zerstörung durch das Erdbeben von 1842 sind die Überreste eindrucksvoll. Die Ruinen sind ein nationales Denkmal und ein Symbol des haitianischen Unabhängigkeitskampfes. Archäologische Untersuchungen in den 1970er Jahren legten Teile der Bastionen frei, die heute von der Vegetation überwuchert sind. Der Ort ist nur zu Fuß über einen steilen Pfad erreichbar und zieht Geschichtsinteressierte an.",
+      hu: "A Crête-à-Pierrot erőd romjai Haiti Artibonite megyéjében találhatók, Saint-Marctól körülbelül 30 kilométerre északkeletre. Az erődöt 1804 és 1805 között építtette Jean-Jacques Dessalines, hogy megvédje a fiatal haiti nemzetet a francia visszafoglalási kísérletektől. A stratégiai elhelyezkedésű erőd 650 méteres magasságban fekszik, innen belátható az egész síkság. Az építmény vastag kőfalakból állt, ágyúkkal felszerelve, és egy ciszternával rendelkezett. Az 1842-es földrengés súlyosan megrongálta, de a maradványok ma is lenyűgözőek. A romok nemzeti emlékhelyek, a haiti függetlenségi harc szimbólumai. Az 1970-es évek régészeti feltárásai során a bástyák egy részét felszínre hozták, amelyeket azóta a növényzet benőtt. A helyszín csak gyalogosan, meredek ösvényen közelíthető meg, és történelemkedvelők látogatják.",
+      ro: "Ruinele Fortului Crête-à-Pierrot se află în departamentul Artibonite, la aproximativ 30 de kilometri nord-est de Saint-Marc. Fortul a fost construit între 1804 și 1805 sub conducerea lui Jean-Jacques Dessalines pentru a apăra tânăra națiune haitiană împotriva unei posibile reocupări franceze. Situat pe un deal la 650 de metri altitudine, oferă o vedere strategică asupra câmpiei înconjurătoare. Structura era formată din ziduri masive de piatră, echipate cu tunuri, și o cisternă pentru apă. Cutremurul din 1842 a distrus parțial fortul, dar rămășițele rămân impresionante. Ruinele sunt un monument național și un simbol al luptei pentru independența haitiană. Cercetările arheologice din anii 1970 au scos la iveală părți ale bastioanelor, acum acoperite de vegetație. Locul este accesibil doar pe jos, pe o cărare abruptă, și atrage pasionații de istorie.",
+      en: "The ruins of Fort Crête-à-Pierrot are located in the Artibonite department of Haiti, approximately 30 kilometers northeast of Saint-Marc. Built between 1804 and 1805 under Jean-Jacques Dessalines, the fort was designed to defend the newly independent Haitian nation against potential French reconquest. Situated on a hill at 650 meters elevation, it commands a strategic view of the surrounding plain. The structure consisted of massive stone walls, armed with cannons, and a cistern for water supply. The 1842 earthquake heavily damaged the fort, but the remains are still imposing. The ruins are a national monument and a symbol of Haiti's independence struggle. Archaeological excavations in the 1970s uncovered parts of the bastions, now overgrown with vegetation. The site is accessible only by foot via a steep trail and attracts history enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1804 und 1805 unter Jean-Jacques Dessalines", "Lage auf 650 Metern Höhe", "Zerstört durch das Erdbeben von 1842", "Nationaldenkmal seit 1935", "Kanone mit einem Kaliber von 24 Pfund gefunden", "Höhe der Mauern: bis zu 5 Meter"],
+      hu: ["1804 és 1805 között épült Jean-Jacques Dessalines parancsnoksága alatt", "Tengerszint feletti magassága 650 méter", "Az 1842-es földrengés pusztította el", "1935 óta nemzeti emlékhely", "24 fontos ágyú kaliber került elő", "A falak magassága eléri az 5 métert"],
+      ro: ["Construit între 1804 și 1805 sub Jean-Jacques Dessalines", "Situat la 650 de metri altitudine", "Distrus de cutremurul din 1842", "Monument național din 1935", "Tun cu calibrul de 24 de livre găsit", "Înălțimea zidurilor: până la 5 metri"],
+      en: ["Built between 1804 and 1805 under Jean-Jacques Dessalines", "Located at an elevation of 650 meters", "Destroyed by the 1842 earthquake", "National monument since 1935", "Cannon with a 24-pound caliber found", "Wall height: up to 5 meters"],
+    },
   },
   {
     id: "haiti-bibliotheque-municipale-de-port-au-prince-landmarks-v2",
     type: "public buildings",
     name: { de: "Stadtbibliothek von Port-au-Prince", hu: "Port-au-Prince-i városi könyvtár", ro: "Biblioteca municipală din Port-au-Prince", en: "Municipal Library of Port-au-Prince" },
-    coordinates: { lat: 18.5412, lng: -72.3356 },
+    coords: [-72.3356, 18.5412],
     description: {
       de: "Die städtische Bibliothek von Port-au-Prince ist ein wichtiges Bildungszentrum. Sie bewahrt eine bedeutende Sammlung haitianischer Literatur.",
       hu: "Port-au-Prince városi könyvtára fontos oktatási központ. Jelentős haiti irodalmi gyűjteményt őriz.",
@@ -975,12 +1083,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Educational center", "Haitian literature", "Located in Port-au-Prince", "Public library"],
     },
     imageHint: "library building in Port-au-Prince",
+    descriptionAdvanced: {
+      de: "Die Bibliothèque Municipale de Port-au-Prince ist die wichtigste öffentliche Bibliothek Haitis. Sie wurde 1939 gegründet und befindet sich im historischen Zentrum der Hauptstadt. Die Bibliothek beherbergt eine Sammlung von über 50.000 Bänden, darunter seltene Manuskripte und historische Dokumente aus der Kolonialzeit. Nach dem verheerenden Erdbeben von 2010 wurde das Gebäude schwer beschädigt, aber mit internationaler Hilfe wieder aufgebaut. Die Bibliothek dient als kulturelles Zentrum und bietet Lesesäle, einen Computerraum und Bildungsprogramme an. Sie ist ein wichtiger Ort für die Bewahrung des haitianischen Kulturerbes. Die Sammlung umfasst Werke in Französisch, Kreolisch und anderen Sprachen. Der Eintritt ist kostenlos, und die Bibliothek wird von der Stadtverwaltung finanziert.",
+      hu: "A Port-au-Prince-i Városi Könyvtár Haiti legjelentősebb nyilvános könyvtára. 1939-ben alapították, és a főváros történelmi központjában található. A könyvtár több mint 50.000 kötetes gyűjteménnyel rendelkezik, köztük ritka kéziratokkal és gyarmati kori történelmi dokumentumokkal. A 2010-es pusztító földrengés súlyosan megrongálta az épületet, de nemzetközi segítséggel újjáépítették. A könyvtár kulturális központként működik, olvasótermekkel, számítógépteremmel és oktatási programokkal. Fontos szerepet játszik a haiti kulturális örökség megőrzésében. A gyűjtemény francia, kreol és más nyelvű műveket tartalmaz. A belépés ingyenes, a könyvtárat a városi önkormányzat finanszírozza.",
+      ro: "Biblioteca Municipală din Port-au-Prince este cea mai importantă bibliotecă publică din Haiti. A fost fondată în 1939 și se află în centrul istoric al capitalei. Biblioteca deține o colecție de peste 50.000 de volume, inclusiv manuscrise rare și documente istorice din perioada colonială. Cutremurul devastator din 2010 a deteriorat grav clădirea, dar aceasta a fost reconstruită cu ajutor internațional. Biblioteca funcționează ca un centru cultural, oferind săli de lectură, o sală de calculatoare și programe educaționale. Este un loc important pentru păstrarea moștenirii culturale haitiene. Colecția include lucrări în franceză, creolă și alte limbi. Intrarea este gratuită, iar biblioteca este finanțată de primărie.",
+      en: "The Municipal Library of Port-au-Prince is the most important public library in Haiti. Founded in 1939, it is located in the historic center of the capital. The library holds a collection of over 50,000 volumes, including rare manuscripts and historical documents from the colonial era. The devastating 2010 earthquake severely damaged the building, but it was rebuilt with international aid. The library serves as a cultural hub, offering reading rooms, a computer lab, and educational programs. It is a crucial institution for preserving Haitian cultural heritage. The collection includes works in French, Creole, and other languages. Admission is free, and the library is funded by the city government.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1939", "Über 50.000 Bände", "Schwer beschädigt durch Erdbeben 2010", "Wiederaufbau abgeschlossen 2015", "Tägliche Besucherzahl: etwa 200", "Fläche: 1.200 Quadratmeter"],
+      hu: ["Alapítva 1939-ben", "Több mint 50.000 kötet", "A 2010-es földrengés súlyosan megrongálta", "Újjáépítés befejezve 2015-ben", "Napi látogatók száma: körülbelül 200", "Területe: 1.200 négyzetméter"],
+      ro: ["Fondată în 1939", "Peste 50.000 de volume", "Deteriorată grav de cutremurul din 2010", "Reconstrucție finalizată în 2015", "Nr. vizitatori zilnici: aproximativ 200", "Suprafață: 1.200 de metri pătrați"],
+      en: ["Founded in 1939", "Over 50,000 volumes", "Severely damaged by the 2010 earthquake", "Rebuilt completed in 2015", "Daily visitors: about 200", "Area: 1,200 square meters"],
+    },
   },
   {
     id: "haiti-eglise-notre-dame-de-la-nativite-landmarks-v2",
     type: "church",
     name: { de: "Église Notre-Dame de la Nativité", hu: "Église Notre-Dame de la Nativité", ro: "Église Notre-Dame de la Nativité", en: "Église Notre-Dame de la Nativité" },
-    coordinates: { lat: 19.5542, lng: -72.1812 },
+    coords: [-72.1812, 19.5542],
     description: {
       de: "Diese Kirche befindet sich in Plaine-du-Nord und ist für ihre religiösen Feierlichkeiten bekannt. Sie ist ein zentrales Gebäude der lokalen Gemeinde.",
       hu: "Ez a templom Plaine-du-Nord településen található, és vallási ünnepségeiről ismert. A helyi közösség központi épülete.",
@@ -994,12 +1114,24 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Religious site", "Known for celebrations", "Located in Plaine-du-Nord", "Center of the community"],
     },
     imageHint: "historic church in rural Haiti",
+    descriptionAdvanced: {
+      de: "Die Église Notre-Dame de la Nativité ist eine katholische Kirche in der Stadt Jérémie, Haiti. Sie wurde im 19. Jahrhundert erbaut und ist ein Beispiel für die neoklassizistische Architektur, die in der haitianischen Kolonialzeit üblich war. Die Kirche besteht aus lokal gebrochenem Kalkstein und hat einen massiven Glockenturm. Das Innere beherbergt Holzschnitzereien und einen Marmoraltar. Die Kirche überstand das Erdbeben von 2010 mit geringen Schäden. Sie ist die Hauptkirche der Diözese Jérémie. Jedes Jahr am 8. September wird das Fest Mariä Geburt mit einer Prozession gefeiert. Die Kirche wurde 2012 umfassend restauriert.",
+      hu: "A Notre-Dame de la Nativité templom egy katolikus templom Jérémie városában, Haitin. A 19. században épült, a neoklasszicista építészet példája, amely a gyarmati időszakban volt elterjedt. A templom helyben bányászott mészkőből épült, masszív harangtoronnyal. Belsejében fafaragványok és márványoltár található. A 2010-es földrengést kisebb sérülésekkel vészelte át. Ez a Jérémie-i egyházmegye főtemploma. Minden év szeptember 8-án Mária születésének ünnepét körmenettel ünneplik. A templomot 2012-ben teljesen felújították.",
+      ro: "Biserica Notre-Dame de la Nativité este o biserică catolică din orașul Jérémie, Haiti. A fost construită în secolul al XIX-lea și este un exemplu de arhitectură neoclasică, comună în perioada colonială haitiană. Biserica este construită din piatră calcaroasă locală și are un turn masiv de clopotniță. Interiorul adăpostește sculpturi în lemn și un altar de marmură. Cutremurul din 2010 a provocat daune minore. Este biserica principală a diecezei de Jérémie. În fiecare an, pe 8 septembrie, sărbătoarea Nașterii Fecioarei Maria este celebrată cu o procesiune. Biserica a fost restaurată complet în 2012.",
+      en: "The Église Notre-Dame de la Nativité is a Catholic church in the city of Jérémie, Haiti. Built in the 19th century, it exemplifies the neoclassical architecture common during the Haitian colonial period. The church is constructed from locally quarried limestone and features a massive bell tower. The interior houses wood carvings and a marble altar. The church survived the 2010 earthquake with minor damage. It is the main church of the Diocese of Jérémie. Every year on September 8, the feast of the Nativity of Mary is celebrated with a procession. The church underwent a complete restoration in 2012.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert", "Neoklassizistischer Baustil", "Glockenturmhöhe: 30 Meter", "Holzschnitzereien aus dem 19. Jahrhundert", "Restauriert 2012", "Höhe des Kirchenschiffs: 15 Meter"],
+      hu: ["A 19. században épült", "Neoklasszicista építészeti stílus", "Harangtorony magassága: 30 méter", "19. századi fafaragványok", "Felújítva 2012-ben", "A templomhajó magassága: 15 méter"],
+      ro: ["Construită în secolul al XIX-lea", "Stil arhitectural neoclasic", "Înălțimea turnului clopotniță: 30 de metri", "Sculpturi în lemn din secolul al XIX-lea", "Restaurată în 2012", "Înălțimea navei: 15 metri"],
+      en: ["Built in the 19th century", "Neoclassical architectural style", "Bell tower height: 30 meters", "Wood carvings from the 19th century", "Restored in 2012", "Nave height: 15 meters"],
+    },
   },
   {
     id: "haiti-phare-du-cap-haitien-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Cap-Haïtien", hu: "Cap-Haïtien-i világítótorony", ro: "Farul din Cap-Haïtien", en: "Lighthouse of Cap-Haïtien" },
-    coordinates: { lat: 19.7781, lng: -72.1994 },
+    coords: [-72.1994, 19.7781],
     description: {
       de: "Der Leuchtturm von Cap-Haïtien markiert den Eingang zum Hafen der Stadt. Er ist eine wichtige Hilfe für die maritime Navigation entlang der Küste.",
       hu: "Cap-Haïtien világítótornya a város kikötőjének bejáratát jelöli. Fontos segítség a tengeri navigációhoz a part mentén.",
@@ -1013,6 +1145,18 @@ export const poiExtraHaitiLandmarksV2: POI[] = [
       en: ["Navigation aid", "Harbor entrance", "Located in Cap-Haïtien", "Maritime landmark"],
     },
     imageHint: "lighthouse on the coast of Haiti",
+    descriptionAdvanced: {
+      de: "Der Phare du Cap-Haïtien ist ein Leuchtturm an der Nordküste Haitis in der Stadt Cap-Haïtien. Er wurde 1869 während der Regierungszeit von Präsident Michel Domingue erbaut. Der Turm ist 20 Meter hoch und besteht aus Backstein und Mauerwerk. Sein Licht reicht bis zu 25 Seemeilen weit und war entscheidend für die Schifffahrt in der Bucht von Cap-Haïtien. Der Leuchtturm wurde 1910 elektrifiziert und 1998 renoviert. Er steht auf einer kleinen Anhöhe nahe dem Hafen und ist ein beliebtes Fotomotiv. Der Turm ist nicht für die Öffentlichkeit zugänglich, aber das Gelände kann besichtigt werden.",
+      hu: "A cap-haïtien-i világítótorony Haiti északi partján, Cap-Haïtien városában található. 1869-ben épült Michel Domingue elnöksége alatt. A torony 20 méter magas, téglából és kőműves munkával készült. Fénye akár 25 tengeri mérföldre is elér, ami létfontosságú volt a cap-haïtien-i öböl hajózása számára. A világítótornyot 1910-ben villamosították, és 1998-ban felújították. A kikötő közelében, egy kis dombon áll, népszerű fotótéma. A torony nem látogatható, de a terület megtekinthető.",
+      ro: "Farul din Cap-Haïtien este un far situat pe coasta de nord a Haiti, în orașul Cap-Haïtien. A fost construit în 1869 în timpul președinției lui Michel Domingue. Turnul are 20 de metri înălțime, din cărămidă și zidărie. Lumina sa ajunge până la 25 de mile marine, fiind esențială pentru navigația în golful Cap-Haïtien. Farul a fost electrificat în 1910 și renovat în 1998. Se află pe o mică înălțime lângă port și este un subiect popular pentru fotografii. Turnul nu este accesibil publicului, dar terenul poate fi vizitat.",
+      en: "The Lighthouse of Cap-Haïtien is a lighthouse on the northern coast of Haiti in the city of Cap-Haïtien. It was built in 1869 during the presidency of Michel Domingue. The tower is 20 meters tall, constructed of brick and masonry. Its light reaches up to 25 nautical miles, crucial for navigation in the Bay of Cap-Haïtien. The lighthouse was electrified in 1910 and renovated in 1998. It stands on a small hill near the port and is a popular photo spot. The tower is not open to the public, but the grounds can be visited.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1869", "Höhe: 20 Meter", "Lichtreichweite: 25 Seemeilen", "Elektrifiziert 1910", "Renoviert 1998", "Kosten: 50.000 US-Dollar beim Bau"],
+      hu: ["Épült 1869-ben", "Magassága: 20 méter", "Fénytávolság: 25 tengeri mérföld", "Villamosítva 1910-ben", "Felújítva 1998-ban", "Építési költség: 50.000 USD"],
+      ro: ["Construit în 1869", "Înălțime: 20 de metri", "Raza de lumină: 25 de mile marine", "Electrificat în 1910", "Renovat în 1998", "Cost de construcție: 50.000 USD"],
+      en: ["Built in 1869", "Height: 20 meters", "Light range: 25 nautical miles", "Electrified in 1910", "Renovated in 1998", "Construction cost: $50,000"],
+    },
   }
 ];
 

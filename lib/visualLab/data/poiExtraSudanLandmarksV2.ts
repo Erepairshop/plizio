@@ -1687,7 +1687,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-al-tijani-mosque-landmarks-v2",
     type: "mosque",
     name: { de: "Al-Tijani-Moschee", hu: "Al-Tidzsáni-mecset", ro: "Moscheea Al-Tijani", en: "Al-Tijani Mosque" },
-    coordinates: { lat: 15.6331, lng: 32.5332 },
+    coords: [32.5332, 15.6331],
     description: {
       de: "Die Al-Tijani-Moschee ist ein zentrales religiöses Gebäude in Omdurman. Sie dient als spiritueller Mittelpunkt für die lokalen Anhänger des Tijaniyya-Ordens.",
       hu: "Az Al-Tidzsáni-mecset egy központi vallási épület Omdurmanban. A helyi Tizsáni-rend követőinek spirituális központjaként szolgál.",
@@ -1706,7 +1706,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-doungola-historical-gate-landmarks-v2",
     type: "monument",
     name: { de: "Historisches Tor von Dongola", hu: "Dongola történelmi kapuja", ro: "Poarta istorică din Dongola", en: "Historical Gate of Dongola" },
-    coordinates: { lat: 19.1725, lng: 30.4856 },
+    coords: [30.4856, 19.1725],
     description: {
       de: "Das historische Tor von Dongola markiert den Eingang zum alten Stadtkern. Es zeugt von der architektonischen Geschichte der Region am Nil.",
       hu: "Dongola történelmi kapuja a város régi magjának bejáratát jelöli. A Nílus-menti régió építészeti történetéről tanúskodik.",
@@ -1725,7 +1725,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-al-qadarif-great-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Großer Uhrturm von Al-Qadarif", hu: "Al-Qadarif nagy óratornya", ro: "Marele Turn cu Ceas din Al-Qadarif", en: "Great Clock Tower of Al-Qadarif" },
-    coordinates: { lat: 14.0333, lng: 35.3833 },
+    coords: [35.3833, 14.0333],
     description: {
       de: "Der Große Uhrturm befindet sich im Stadtzentrum von Al-Qadarif. Er wurde in der Mitte des 20. Jahrhunderts errichtet und ist ein lokales Wahrzeichen.",
       hu: "A nagy óratorony Al-Qadarif városközpontjában található. A 20. század közepén épült, és a város egyik jelképe.",
@@ -1744,7 +1744,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-nile-view-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nile View Museum", hu: "Nílus-kilátó Múzeum", ro: "Muzeul Nile View", en: "Nile View Museum" },
-    coordinates: { lat: 15.6031, lng: 32.5298 },
+    coords: [32.5298, 15.6031],
     description: {
       de: "Das Nile View Museum präsentiert Artefakte zur Geschichte des sudanesischen Niltals. Es bietet zudem einen Panoramablick auf den Zusammenfluss von Blauem und Weißem Nil.",
       hu: "A Nílus-kilátó Múzeum a szudáni Nílus-völgy történetével kapcsolatos leleteket mutatja be. Emellett panorámás kilátást nyújt a Kék- és a Fehér-Nílus összefolyására.",
@@ -1763,7 +1763,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-port-sudan-water-tower-landmarks-v2",
     type: "tower",
     name: { de: "Wasserturm von Port Sudan", hu: "Port Szudán víztornya", ro: "Turnul de apă din Port Sudan", en: "Water Tower of Port Sudan" },
-    coordinates: { lat: 19.6175, lng: 37.2211 },
+    coords: [37.2211, 19.6175],
     description: {
       de: "Der Wasserturm in Port Sudan ist ein markantes technisches Bauwerk der Stadt. Er wurde zu Beginn des 20. Jahrhunderts zur Versorgung der Hafenanlage gebaut.",
       hu: "Port Szudán víztornya a város egyik kiemelkedő mérnöki építménye. A 20. század elején épült a kikötő ellátására.",
@@ -1782,7 +1782,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-kassala-historic-railway-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Historische Eisenbahnbrücke von Kassala", hu: "Kassala történelmi vasúti hídja", ro: "Podul feroviar istoric din Kassala", en: "Historical Railway Bridge of Kassala" },
-    coordinates: { lat: 15.4667, lng: 36.4 },
+    coords: [36.4, 15.4667],
     description: {
       de: "Diese historische Brücke überquert den Gash bei Kassala. Sie ist ein wichtiges Überbleibsel der sudanesischen Eisenbahnentwicklung im 20. Jahrhundert.",
       hu: "Ez a történelmi híd a Gash folyót keresztezi Kassala közelében. A 20. századi szudáni vasútfejlesztés fontos maradványa.",
@@ -1801,7 +1801,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-wadi-halfa-old-market-gate-landmarks-v2",
     type: "monument",
     name: { de: "Tor zum alten Markt von Wadi Halfa", hu: "Wadi Halfa régi piacának kapuja", ro: "Poarta pieței vechi din Wadi Halfa", en: "Gate to the Old Market of Wadi Halfa" },
-    coordinates: { lat: 21.8, lng: 31.35 },
+    coords: [31.35, 21.8],
     description: {
       de: "Das Tor kennzeichnet den ehemaligen Eingang zum Handelsviertel von Wadi Halfa. Es erinnert an die Ära des alten Marktes vor der Überflutung.",
       hu: "A kapu jelöli Wadi Halfa kereskedelmi negyedének egykori bejáratát. Az elárasztás előtti régi piac korszakára emlékeztet.",
@@ -1820,7 +1820,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-el-obeid-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von El-Obeid", hu: "El-Obeid katedrálisa", ro: "Catedrala din El-Obeid", en: "Cathedral of El-Obeid" },
-    coordinates: { lat: 13.1833, lng: 30.2167 },
+    coords: [30.2167, 13.1833],
     description: {
       de: "Die Kathedrale von El-Obeid ist eine römisch-katholische Kirche in Kordofan. Sie wurde im frühen 20. Jahrhundert erbaut und ist architektonisch bedeutsam.",
       hu: "El-Obeid katedrálisa egy római katolikus templom Kordofánban. A 20. század elején épült, és építészetileg jelentős.",
@@ -1839,7 +1839,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-omdurman-al-nilin-library-landmarks-v2",
     type: "museum",
     name: { de: "Al-Nilin Bibliothek", hu: "Al-Nilin Könyvtár", ro: "Biblioteca Al-Nilin", en: "Al-Nilin Library" },
-    coordinates: { lat: 15.65, lng: 32.4833 },
+    coords: [32.4833, 15.65],
     description: {
       de: "Die Al-Nilin Bibliothek in Omdurman beherbergt eine bedeutende Sammlung historischer Dokumente. Sie ist eine wichtige Forschungsstätte zur sudanesischen Geschichte.",
       hu: "Az omdurmani Al-Nilin Könyvtár történelmi dokumentumok jelentős gyűjteményét őrzi. Fontos kutatóhely a szudáni történelem számára.",
@@ -1858,7 +1858,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-atbara-railway-station-landmarks-v2",
     type: "monument",
     name: { de: "Bahnhof von Atbara", hu: "Atbara vasútállomása", ro: "Gara din Atbara", en: "Railway Station of Atbara" },
-    coordinates: { lat: 17.7, lng: 33.9833 },
+    coords: [33.9833, 17.7],
     description: {
       de: "Der Bahnhof von Atbara ist das historische Herz des sudanesischen Eisenbahnnetzes. Er fungierte als wichtiger Knotenpunkt für den Transport im Landesinneren.",
       hu: "Atbara vasútállomása a szudáni vasúthálózat történelmi szíve. Fontos csomópontként szolgált a belföldi szállításban.",
@@ -1877,7 +1877,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-singa-old-district-building-landmarks-v2",
     type: "palace",
     name: { de: "Historisches Verwaltungsgebäude in Singa", hu: "Történelmi közigazgatási épület Singában", ro: "Clădire administrativă istorică din Singa", en: "Historical Administrative Building in Singa" },
-    coordinates: { lat: 13.15, lng: 33.9333 },
+    coords: [33.9333, 13.15],
     description: {
       de: "Dieses Gebäude in Singa diente während der Kolonialzeit als lokales Verwaltungszentrum. Es ist bekannt für seinen traditionellen sudanesischen Baustil.",
       hu: "Ez a singai épület a gyarmati korszakban helyi közigazgatási központként szolgált. Hagyományos szudáni stílusáról ismert.",
@@ -1896,7 +1896,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-al-fashir-old-palace-landmarks-v2",
     type: "palace",
     name: { de: "Alter Palast von Al-Fashir", hu: "Al-Fashir régi palotája", ro: "Vechiul Palat din Al-Fashir", en: "Old Palace of Al-Fashir" },
-    coordinates: { lat: 13.6267, lng: 25.3286 },
+    coords: [25.3286, 13.6267],
     description: {
       de: "Der Alte Palast in Al-Fashir war einst die Residenz des Sultans von Darfur. Heute dient er als historisches Zeugnis der regionalen Macht.",
       hu: "Az Al-Fashir-i régi palota egykor a darfúri szultán rezidenciája volt. Ma a regionális hatalom történelmi tanújaként szolgál.",
@@ -1915,7 +1915,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-ad-duwaim-river-mosque-landmarks-v2",
     type: "mosque",
     name: { de: "Moschee am Flussufer in Ad-Duwaim", hu: "Ad-Duwaim-i folyóparti mecset", ro: "Moscheea de pe malul râului din Ad-Duwaim", en: "Riverside Mosque in Ad-Duwaim" },
-    coordinates: { lat: 14.0, lng: 32.3333 },
+    coords: [32.3333, 14.0],
     description: {
       de: "Die Moschee in Ad-Duwaim liegt direkt am Weißen Nil. Sie ist ein bedeutender Ort für das tägliche religiöse Leben in der Uferstadt.",
       hu: "Az Ad-Duwaim-i mecset közvetlenül a Fehér-Nílus partján fekszik. Fontos helyszín a folyóparti város mindennapi vallási életében.",
@@ -1934,7 +1934,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-kosti-old-railway-engine-monument-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der alten Lokomotive in Kosti", hu: "Kosti régi gőzmozdony-emlékműve", ro: "Monumentul vechii locomotive din Kosti", en: "Old Locomotive Monument in Kosti" },
-    coordinates: { lat: 13.1667, lng: 32.6667 },
+    coords: [32.6667, 13.1667],
     description: {
       de: "Dieses Denkmal in Kosti zeigt eine historische Dampflokomotive. Es erinnert an die zentrale Rolle der Eisenbahn für die Entwicklung der Stadt.",
       hu: "Ez a kosti-i emlékmű egy történelmi gőzmozdonyt ábrázol. A vasút városfejlesztésben betöltött központi szerepére emlékeztet.",
@@ -1953,7 +1953,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-shendi-market-gate-landmarks-v2",
     type: "monument",
     name: { de: "Markttor von Shendi", hu: "Shendi piaci kapuja", ro: "Poarta pieței din Shendi", en: "Market Gate of Shendi" },
-    coordinates: { lat: 16.6833, lng: 33.4333 },
+    coords: [33.4333, 16.6833],
     description: {
       de: "Das Markttor von Shendi dient als symbolischer Eingang zum traditionellen Souq. Es ist ein zentraler Treffpunkt in der historischen Handelsstadt.",
       hu: "Shendi piaci kapuja a hagyományos bazár szimbolikus bejárata. Központi találkozóhely a történelmi kereskedővárosban.",
@@ -1972,7 +1972,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-al-managil-mosque-landmarks-v2",
     type: "mosque",
     name: { de: "Große Moschee von Al-Managil", hu: "Al-Managil nagymecsete", ro: "Marea Moschee din Al-Managil", en: "Great Mosque of Al-Managil" },
-    coordinates: { lat: 14.5, lng: 33.0 },
+    coords: [33.0, 14.5],
     description: {
       de: "Die Große Moschee von Al-Managil ist ein zentrales Gotteshaus in der landwirtschaftlich geprägten Region. Sie ist bekannt für ihre schlichte Architektur.",
       hu: "Al-Managil nagymecsete a mezőgazdasági régió központi istentiszteleti helye. Egyszerű építészetéről ismert.",
@@ -1991,7 +1991,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-wad-madani-old-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Alte Brücke von Wad Madani", hu: "Wad Madani régi hídja", ro: "Podul vechi din Wad Madani", en: "Old Bridge of Wad Madani" },
-    coordinates: { lat: 14.4, lng: 33.5167 },
+    coords: [33.5167, 14.4],
     description: {
       de: "Die alte Brücke über den Blauen Nil in Wad Madani ist ein historisches Wahrzeichen. Sie ermöglichte die Verbindung zwischen beiden Flussufern.",
       hu: "A Wad Madani-i Kék-Nílus-híd történelmi jelkép. Lehetővé tette az összeköttetést a folyó két partja között.",
@@ -2010,7 +2010,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-nyala-historic-mosque-landmarks-v2",
     type: "mosque",
     name: { de: "Historische Moschee von Nyala", hu: "Nyala történelmi mecsete", ro: "Moscheea istorică din Nyala", en: "Historic Mosque of Nyala" },
-    coordinates: { lat: 12.05, lng: 24.8833 },
+    coords: [24.8833, 12.05],
     description: {
       de: "Die historische Moschee von Nyala ist ein bedeutender spiritueller Ort im Südwesten Sudans. Sie wurde in der ersten Hälfte des 20. Jahrhunderts errichtet.",
       hu: "Nyala történelmi mecsete jelentős spirituális hely Délnyugat-Szudánban. A 20. század első felében épült.",
@@ -2029,7 +2029,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-kaduqli-administration-building-landmarks-v2",
     type: "palace",
     name: { de: "Verwaltungsgebäude von Kaduqli", hu: "Kaduqli közigazgatási épülete", ro: "Clădire administrativă din Kaduqli", en: "Administrative Building of Kaduqli" },
-    coordinates: { lat: 11.0167, lng: 29.7167 },
+    coords: [29.7167, 11.0167],
     description: {
       de: "Dieses Verwaltungsgebäude in Kaduqli ist ein bekanntes koloniales Bauwerk der Region. Es steht beispielhaft für die Architektur der Nuba-Berge.",
       hu: "Ez a kaduqli-i közigazgatási épület a régió jól ismert gyarmati építménye. Példaértékű a Nuba-hegység építészete számára.",
@@ -2048,7 +2048,7 @@ export const poiExtraSudanLandmarksV2: POI[] = [
     id: "sudan-dongola-national-theater-landmarks-v2",
     type: "theater",
     name: { de: "Nationaltheater von Dongola", hu: "Dongola Nemzeti Színháza", ro: "Teatrul Național din Dongola", en: "National Theater of Dongola" },
-    coordinates: { lat: 19.1667, lng: 30.4833 },
+    coords: [30.4833, 19.1667],
     description: {
       de: "Das Nationaltheater von Dongola ist ein Zentrum für Kultur und Aufführungen am Nil. Es spielt eine wichtige Rolle im lokalen öffentlichen Leben.",
       hu: "Dongola Nemzeti Színháza a kultúra és az előadások központja a Nílusnál. Fontos szerepet játszik a helyi közéletben.",

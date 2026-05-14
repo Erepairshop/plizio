@@ -726,7 +726,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-semail-gap-relief-v2",
     type: "valley",
     name: { de: "Semail-Lücke", hu: "Semail-árok", ro: "Pasul Semail", en: "Semail Gap" },
-    coordinates: { lat: 23.5167, lng: 58.15 },
+    coords: [58.15, 23.5167],
     description: {
       de: "Die Semail-Lücke ist ein breiter natürlicher Pass, der das Hadschar-Gebirge in einen östlichen und einen westlichen Teil trennt.",
       hu: "A Semail-árok egy természetes hágó, amely keleti és nyugati részre osztja a Hadsar-hegységet, fontos kereskedelmi útvonalat alkotva.",
@@ -745,7 +745,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-jebel-jaalan-relief-v2",
     type: "mountain",
     name: { de: "Jebel Ja'alan", hu: "Dzsebel Dzsaalan", ro: "Jebel Ja'alan", en: "Jebel Ja'alan" },
-    coordinates: { lat: 22.1125, lng: 59.3241 },
+    coords: [59.3241, 22.1125],
     description: {
       de: "Der Jebel Ja'alan ist das östlichste Gebirgsmassiv des Hadschar-Systems und markiert das Ende der Kette nahe dem Arabischen Meer.",
       hu: "A Dzsebel Dzsaalan a Hadsar-hegység legkeletibb vonulata, amely az Arab-tenger közelében emelkedik ki a sivatagi környezetből.",
@@ -764,7 +764,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-wadi-sahtan-relief-v2",
     type: "valley",
     name: { de: "Wadi Sahtan", hu: "Vadi Szahtan", ro: "Wadi Sahtan", en: "Wadi Sahtan" },
-    coordinates: { lat: 23.4028, lng: 57.3214 },
+    coords: [57.3214, 23.4028],
     description: {
       de: "Wadi Sahtan ist ein markantes, kesselförmiges Becken im Hadschar-Gebirge, das von steilen, über 1000 Meter hohen Wänden umgeben ist.",
       hu: "A Vadi Szahtan egy látványos, medence alakú mélyedés a Hadsar-hegységben, amelyet meredek, 1000 méternél magasabb sziklafalak öveznek.",
@@ -783,7 +783,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-huqf-escarpment-relief-v2",
     type: "landmark",
     name: { de: "Huqf-Absturz", hu: "Huqf-lépcső", ro: "Escarpamentul Huqf", en: "Huqf Escarpment" },
-    coordinates: { lat: 19.8333, lng: 57.55 },
+    coords: [57.55, 19.8333],
     description: {
       de: "Der Huqf-Absturz ist eine geologisch bedeutende Geländestufe in Zentraloman, die uralte Gesteinsschichten an die Oberfläche bringt.",
       hu: "A Huqf-lépcső egy geológiailag jelentős tereplépcső Közép-Ománban, amely ősi kőzetrétegeket tár fel a felszínen.",
@@ -802,7 +802,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-jebel-al-lathib-relief-v2",
     type: "peak",
     name: { de: "Jebel Al-Lathib", hu: "Dzsebel el-Latib", ro: "Jebel Al-Lathib", en: "Jebel Al-Lathib" },
-    coordinates: { lat: 17.1555, lng: 54.4522 },
+    coords: [54.4522, 17.1555],
     description: {
       de: "Jebel Al-Lathib ist ein prominenter Gipfel im Dhofar-Gebirge, bekannt für seine üppige Vegetation während der Monsunzeit.",
       hu: "A Dzsebel el-Latib a Dhofar-hegység egyik kiemelkedő csúcsa, amely dús növényzetéről ismert a monszunidőszak idején.",
@@ -821,7 +821,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-wadi-tanuf-relief-v2",
     type: "valley",
     name: { de: "Wadi Tanuf", hu: "Vadi Tanuf", ro: "Wadi Tanuf", en: "Wadi Tanuf" },
-    coordinates: { lat: 23.0583, lng: 57.425 },
+    coords: [57.425, 23.0583],
     description: {
       de: "Wadi Tanuf ist eine beeindruckende Schlucht am Fuße des Jebel Akhdar, berühmt für ihre vertikalen Kalksteinwände und Wasserquellen.",
       hu: "A Vadi Tanuf egy lenyűgöző szurdok a Dzsebel Ahdar lábánál, amely függőleges mészkőfalairól és vízforrásairól nevezetes.",
@@ -840,7 +840,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-jebel-al-rawdah-relief-v2",
     type: "mountain",
     name: { de: "Jebel Al-Rawdah", hu: "Dzsebel el-Ravda", ro: "Jebel Al-Rawdah", en: "Jebel Al-Rawdah" },
-    coordinates: { lat: 25.8333, lng: 56.15 },
+    coords: [56.15, 25.8333],
     description: {
       de: "Der Jebel Al-Rawdah ist ein Hochplateau in der Musandam-Exklave, das durch seine kühle Luft und karge Berglandschaft besticht.",
       hu: "A Dzsebel el-Ravda egy magaslati fennsík Muszandamban, amely hűvös levegőjével és kopár hegyi tájaival tűnik ki.",
@@ -859,7 +859,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-wadi-al-khoudh-relief-v2",
     type: "valley",
     name: { de: "Wadi Al-Khoudh", hu: "Vadi el-Hud", ro: "Wadi Al-Khoudh", en: "Wadi Al-Khoudh" },
-    coordinates: { lat: 23.5833, lng: 58.125 },
+    coords: [58.125, 23.5833],
     description: {
       de: "Wadi Al-Khoudh ist ein weitläufiges Schwemmlandbecken nahe Maskat, das für seine vielfältigen Gesteinsformationen bekannt ist.",
       hu: "A Vadi el-Hud egy kiterjedt hordalékmedence Maszkat közelében, amely változatos kőzetformációiról és medrének szélességéről ismert.",
@@ -878,7 +878,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-jebel-khadar-relief-v2",
     type: "mountain",
     name: { de: "Jebel Khadar", hu: "Dzsebel Hadar", ro: "Jebel Khadar", en: "Jebel Khadar" },
-    coordinates: { lat: 23.125, lng: 58.95 },
+    coords: [58.95, 23.125],
     description: {
       de: "Jebel Khadar ist ein markanter Berg im östlichen Hadschar-Gebirge, der sich über die umliegenden Wadis der Sharqiyah-Region erhebt.",
       hu: "A Dzsebel Hadar a Keleti-Hadsar egyik jellegzetes hegye, amely a Sharqiyah régió vádi fölé magasodik.",
@@ -897,7 +897,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-wadi-halfayn-relief-v2",
     type: "valley",
     name: { de: "Wadi Halfayn", hu: "Vadi Halfajn", ro: "Wadi Halfayn", en: "Wadi Halfayn" },
-    coordinates: { lat: 22.5, lng: 57.8 },
+    coords: [57.8, 22.5],
     description: {
       de: "Wadi Halfayn ist einer der längsten saisonalen Flussläufe Omans, der vom Hadschar-Gebirge bis in die zentralen Wüstenebenen fließt.",
       hu: "A Vadi Halfajn Omán egyik leghosszabb időszakos vízfolyása, amely a Hadsar-hegységtől egészen a központi sivatagi síkságokig tart.",
@@ -916,7 +916,7 @@ export const poiExtraOmanReliefV2: POI[] = [
     id: "oman-al-hamra-foothills-relief-v2",
     type: "landmark",
     name: { de: "Al-Hamra-Vorberge", hu: "Al-Hamra-dombvidék", ro: "Dealurile Al-Hamra", en: "Al-Hamra Foothills" },
-    coordinates: { lat: 23.1, lng: 57.25 },
+    coords: [57.25, 23.1],
     description: {
       de: "Die Vorberge von Al-Hamra bilden die Übergangszone zwischen der Ebene und dem mächtigen Massiv des Jebel Shams.",
       hu: "Az Al-Hamra-dombvidék az átmeneti zónát alkotja a síkság és a Dzsebel Sams hatalmas hegytömbje között.",

@@ -727,7 +727,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-montagne-du-rempart-relief-v2",
     type: "mountain",
     name: { de: "Montagne du Rempart", hu: "Montagne du Rempart", ro: "Montagne du Rempart", en: "Montagne du Rempart" },
-    coordinates: { lat: -20.316, lng: 57.411 },
+    coords: [57.411, -20.316],
     description: {
       de: "Ein markanter Basaltgipfel im Westen von Mauritius, der wegen seines steilen Profils oft mit dem Matterhorn verglichen wird.",
       hu: "Hegyes bazaltcsúcs Mauritius nyugati részén, amelyet meredek formája miatt gyakran a Matterhornhoz hasonlítanak.",
@@ -746,7 +746,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-les-trois-mamelles-relief-v2",
     type: "mountain",
     name: { de: "Les Trois Mamelles", hu: "Les Trois Mamelles", ro: "Les Trois Mamelles", en: "Les Trois Mamelles" },
-    coordinates: { lat: -20.306, lng: 57.448 },
+    coords: [57.448, -20.306],
     description: {
       de: "Ein Gebirgszug mit drei markanten Gipfeln im Westen der Insel, in der Nähe von Vacoas-Phoenix gelegen.",
       hu: "Három különálló csúccsal rendelkező hegyvonulat a sziget nyugati részén, Vacoas-Phoenix közelében.",
@@ -765,7 +765,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-montagne-cocotte-relief-v2",
     type: "peak",
     name: { de: "Montagne Cocotte", hu: "Montagne Cocotte", ro: "Montagne Cocotte", en: "Montagne Cocotte" },
-    coordinates: { lat: -20.435, lng: 57.472 },
+    coords: [57.472, -20.435],
     description: {
       de: "Ein Gipfel im Black River Gorges National Park, bekannt für seine hochgelegene, moosige Waldumgebung.",
       hu: "A Black River Gorges Nemzeti Parkban található csúcs, amely magaslati, mohás erdőiről ismert.",
@@ -784,7 +784,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-piton-du-milieu-relief-v2",
     type: "peak",
     name: { de: "Piton du Milieu", hu: "Piton du Milieu", ro: "Piton du Milieu", en: "Piton du Milieu" },
-    coordinates: { lat: -20.276, lng: 57.585 },
+    coords: [57.585, -20.276],
     description: {
       de: "Ein einzelner Vulkangipfel im Zentrum von Mauritius, der markant aus der umgebenden Plateaulandschaft hervorsticht.",
       hu: "Magányos vulkáni csúcs Mauritius közepén, amely kiemelkedik a környező fennsíkból.",
@@ -803,7 +803,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-mont-ory-relief-v2",
     type: "mountain",
     name: { de: "Mont Ory", hu: "Mont Ory", ro: "Mont Ory", en: "Mont Ory" },
-    coordinates: { lat: -20.203, lng: 57.502 },
+    coords: [57.502, -20.203],
     description: {
       de: "Ein Berg in der Moka-Kette bei Port Louis, der Ausblicke auf die Hauptstadt und die Nordwestküste bietet.",
       hu: "A Moka-hegység egyik hegye Port Louis közelében, kilátással a fővárosra és az északnyugati partra.",
@@ -822,7 +822,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-la-tourelle-de-tamarin-relief-v2",
     type: "mountain",
     name: { de: "La Tourelle de Tamarin", hu: "La Tourelle de Tamarin", ro: "La Tourelle de Tamarin", en: "La Tourelle de Tamarin" },
-    coordinates: { lat: -20.329, lng: 57.382 },
+    coords: [57.382, -20.329],
     description: {
       de: "Ein Berg mit Blick auf das Dorf Tamarin, bekannt für seine Wanderwege und den Panoramablick auf die Küste.",
       hu: "A Tamarin falu fölé magasodó hegy, amely túraútvonalairól és panorámás tengerparti kilátásáról ismert.",
@@ -841,7 +841,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-piton-savanne-relief-v2",
     type: "peak",
     name: { de: "Piton Savanne", hu: "Piton Savanne", ro: "Piton Savanne", en: "Piton Savanne" },
-    coordinates: { lat: -20.468, lng: 57.525 },
+    coords: [57.525, -20.468],
     description: {
       de: "Ein Gipfel in der südlichen Bergkette mit Blick auf die zerklüftete Südküste und den Distrikt Savanne.",
       hu: "A déli hegylánc egyik csúcsa, amely kilátást nyújt a sziklás déli tengerpartra és Savanne kerületre.",
@@ -860,7 +860,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-curepipe-point-relief-v2",
     type: "peak",
     name: { de: "Curepipe Point", hu: "Curepipe Point", ro: "Curepipe Point", en: "Curepipe Point" },
-    coordinates: { lat: -20.31, lng: 57.545 },
+    coords: [57.545, -20.31],
     description: {
       de: "Einer der höchsten Punkte des zentralen Plateaus, in der Nähe der Stadt Curepipe gelegen.",
       hu: "A központi fennsík egyik legmagasabb pontja Curepipe városa közelében.",
@@ -879,7 +879,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     id: "mauritius-montagne-lagrave-relief-v2",
     type: "mountain",
     name: { de: "Montagne Lagrave", hu: "Montagne Lagrave", ro: "Montagne Lagrave", en: "Montagne Lagrave" },
-    coordinates: { lat: -20.316, lng: 57.625 },
+    coords: [57.625, -20.316],
     description: {
       de: "Ein Berg in der Grand Port-Kette, der Teil der malerischen Kulisse im Südosten von Mauritius ist.",
       hu: "A Grand Port-hegység egyik hegye, amely Mauritius délkeleti részének festői hátterét alkotja.",

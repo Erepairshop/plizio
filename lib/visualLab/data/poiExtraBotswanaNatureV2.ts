@@ -6,7 +6,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-thamalakane-river-nature-v2",
     type: "river",
     name: { de: "Thamalakane-Fluss", hu: "Thamalakane-folyó", ro: "Râul Thamalakane", en: "Thamalakane River" },
-    coordinates: { lat: -19.98, lng: 23.42 },
+    coords: [23.42, -19.98],
     description: {
       de: "Dieser Fluss bildet das südliche Ende des Okavango-Deltas und fließt durch die Stadt Maun.",
       hu: "Ez a folyó az Okavango-delta déli végét alkotja, és Maun városán folyik keresztül.",
@@ -37,7 +37,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-lake-ngami-nature-v2",
     type: "lake",
     name: { de: "Ngamisee", hu: "Ngami-tó", ro: "Lacul Ngami", en: "Lake Ngami" },
-    coordinates: { lat: -20.48, lng: 22.75 },
+    coords: [22.75, -20.48],
     description: {
       de: "Ein endorheischer See in der Kalahari-Wüste, der durch den Fluss Taughe gespeist wird.",
       hu: "Egy lefolyástalan tó a Kalahári-sivatagban, amelyet a Taughe-folyó táplál.",
@@ -68,7 +68,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-otse-hill-nature-v2",
     type: "peak",
     name: { de: "Otse-Hügel", hu: "Otse-domb", ro: "Dealul Otse", en: "Otse Hill" },
-    coordinates: { lat: -25.01, lng: 25.73 },
+    coords: [25.73, -25.01],
     description: {
       de: "Der Berg Otse gilt mit einer Höhe von 1491 Metern als der höchste Punkt Botswanas.",
       hu: "Az Otse-hegy 1491 méteres magasságával Botswana legmagasabb pontjának számít.",
@@ -99,7 +99,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-monalanong-hill-nature-v2",
     type: "peak",
     name: { de: "Monalanong-Hügel", hu: "Monalanong-domb", ro: "Dealul Monalanong", en: "Monalanong Hill" },
-    coordinates: { lat: -24.84, lng: 25.8 },
+    coords: [25.8, -24.84],
     description: {
       de: "Ein Gipfel, der oft mit dem Otse-Hügel um den Titel des höchsten Berges des Landes konkurriert.",
       hu: "Egy csúcs, amely gyakran verseng az Otse-dombbal az ország legmagasabb pontja címért.",
@@ -130,7 +130,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-tswapong-hills-nature-v2",
     type: "mountain",
     name: { de: "Tswapong-Hügel", hu: "Tswapong-dombság", ro: "Dealurile Tswapong", en: "Tswapong Hills" },
-    coordinates: { lat: -22.65, lng: 27.25 },
+    coords: [27.25, -22.65],
     description: {
       de: "Ein Gebirgszug aus Sandstein mit tiefen Schluchten und ganzjährigen Wasserfällen.",
       hu: "Homokkőből álló hegylánc mély szurdokokkal és egész évben aktív vízesésekkel.",
@@ -161,7 +161,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-aha-hills-nature-v2",
     type: "mountain",
     name: { de: "Aha-Hügel", hu: "Aha-dombság", ro: "Dealurile Aha", en: "Aha Hills" },
-    coordinates: { lat: -19.78, lng: 21.0 },
+    coords: [21.0, -19.78],
     description: {
       de: "Diese Hügel aus Marmor und Dolomit liegen an der Grenze zwischen Botswana und Namibia.",
       hu: "Ezek a márványból és dolomitból álló dombok Botswana és Namíbia határán fekszenek.",
@@ -192,7 +192,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-koanaka-hills-nature-v2",
     type: "mountain",
     name: { de: "Koanaka-Hügel", hu: "Koanaka-dombok", ro: "Dealurile Koanaka", en: "Koanaka Hills" },
-    coordinates: { lat: -20.15, lng: 21.1 },
+    coords: [21.1, -20.15],
     description: {
       de: "Ein kleines Kalksteingebirge, das für seine bedeutenden paläontologischen Fundstätten bekannt ist.",
       hu: "Egy kis mészkőhegység, amely jelentős őslénytani lelőhelyeiről ismert.",
@@ -223,7 +223,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-savuti-channel-nature-v2",
     type: "river",
     name: { de: "Savuti-Kanal", hu: "Savuti-csatorna", ro: "Canalul Savuti", en: "Savuti Channel" },
-    coordinates: { lat: -18.57, lng: 23.95 },
+    coords: [23.95, -18.57],
     description: {
       de: "Eine ephemere Wasserstraße, die unvorhersehbar zwischen Überflutung und Austrocknung wechselt.",
       hu: "Egy időszakos víziút, amely kiszámíthatatlanul váltakozik az áradás és a kiszáradás között.",
@@ -254,7 +254,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-khwai-river-nature-v2",
     type: "river",
     name: { de: "Khwai-Fluss", hu: "Khwai-folyó", ro: "Râul Khwai", en: "Khwai River" },
-    coordinates: { lat: -19.16, lng: 23.75 },
+    coords: [23.75, -19.16],
     description: {
       de: "Ein Flussarm des Okavango, der die nördliche Grenze des Moremi-Wildreservats bildet.",
       hu: "Az Okavango egyik ága, amely a Moremi vadvédelmi terület északi határát alkotja.",
@@ -285,7 +285,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-sua-pan-nature-v2",
     type: "valley",
     name: { de: "Sua-Pfanne", hu: "Sua-sóstó", ro: "Sua Pan", en: "Sua Pan" },
-    coordinates: { lat: -20.75, lng: 26.0 },
+    coords: [26.0, -20.75],
     description: {
       de: "Die östlichste der drei großen Pfannen, die das Makgadikgadi-Becken bilden.",
       hu: "A Makgadikgadi-medencét alkotó három nagy sóstó közül a legkeletibb.",
@@ -316,7 +316,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-nwetwe-pan-nature-v2",
     type: "valley",
     name: { de: "Nwetwe-Pfanne", hu: "Nwetwe-sóstó", ro: "Nwetwe Pan", en: "Nwetwe Pan" },
-    coordinates: { lat: -20.65, lng: 25.4 },
+    coords: [25.4, -20.65],
     description: {
       de: "Ein riesiger Salzsee im Westen des Makgadikgadi-Komplexes, bekannt für Fata Morganas.",
       hu: "Hatalmas sóstó a Makgadikgadi-komplexum nyugati részén, délibábjairól ismert.",
@@ -347,7 +347,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-lake-xau-nature-v2",
     type: "lake",
     name: { de: "Xausee", hu: "Xau-tó", ro: "Lacul Xau", en: "Lake Xau" },
-    coordinates: { lat: -21.28, lng: 24.78 },
+    coords: [24.78, -21.28],
     description: {
       de: "Ein flacher See, in dem der Boteti-Fluss nach seiner Reise aus dem Okavango endet.",
       hu: "Egy sekély tó, ahol a Boteti-folyó véget ér az Okavangóból induló útja után.",
@@ -378,7 +378,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-savuti-marsh-nature-v2",
     type: "wildlife",
     name: { de: "Savuti-Sumpf", hu: "Savuti-mocsár", ro: "Mlaștina Savuti", en: "Savuti Marsh" },
-    coordinates: { lat: -18.58, lng: 24.08 },
+    coords: [24.08, -18.58],
     description: {
       de: "Ein großes Feuchtgebiet am Ende des Savuti-Kanals, bekannt für seine abgestorbenen Akazien.",
       hu: "Nagy kiterjedésű vizes élőhely a Savuti-csatorna végén, elpusztult akáciáiról ismert.",
@@ -409,7 +409,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-gudigwa-forest-nature-v2",
     type: "forest",
     name: { de: "Gudigwa-Wald", hu: "Gudigwa-erdő", ro: "Pădurea Gudigwa", en: "Gudigwa Forest" },
-    coordinates: { lat: -18.4, lng: 22.6 },
+    coords: [22.6, -18.4],
     description: {
       de: "Ein dichter Wald im hohen Norden Botswanas, der an die Region des Okavango-Pfannenstiels grenzt.",
       hu: "Sűrű erdő Botswana északi részén, az Okavango-serpenyőnyél régiója mellett.",
@@ -440,7 +440,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-kasane-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "Kasane-Waldschutzgebiet", hu: "Kasane erdőrezervátum", ro: "Rezervația Forestieră Kasane", en: "Kasane Forest Reserve" },
-    coordinates: { lat: -17.9, lng: 25.1 },
+    coords: [25.1, -17.9],
     description: {
       de: "Ein geschütztes Waldgebiet in der Nähe der Stadt Kasane, das an den Chobe-Nationalpark grenzt.",
       hu: "Védett erdőterület Kasane városa mellett, amely határos a Chobe Nemzeti Parkkal.",
@@ -471,7 +471,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-chobe-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "Chobe-Waldschutzgebiet", hu: "Chobe erdőrezervátum", ro: "Rezervația Forestieră Chobe", en: "Chobe Forest Reserve" },
-    coordinates: { lat: -18.1, lng: 24.6 },
+    coords: [24.6, -18.1],
     description: {
       de: "Ein Waldgebiet im Norden, das als Pufferzone für wandernde Wildtiere dient.",
       hu: "Északi erdőterület, amely pufferzónaként szolgál a vándorló vadon élő állatok számára.",
@@ -502,7 +502,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-maikaelelo-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "Maikaelelo-Waldschutzgebiet", hu: "Maikaelelo erdőrezervátum", ro: "Rezervația Forestieră Maikaelelo", en: "Maikaelelo Forest Reserve" },
-    coordinates: { lat: -18.5, lng: 25.4 },
+    coords: [25.4, -18.5],
     description: {
       de: "Ein entlegenes Waldgebiet im Distrikt Chobe, das Schutz für wertvolle Holzarten bietet.",
       hu: "Távoli erdőterület a Chobe körzetben, amely értékes fafajoknak nyújt védelmet.",
@@ -533,7 +533,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-sibuyu-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "Sibuyu-Waldschutzgebiet", hu: "Sibuyu erdőrezervátum", ro: "Rezervația Forestieră Sibuyu", en: "Sibuyu Forest Reserve" },
-    coordinates: { lat: -18.6, lng: 25.7 },
+    coords: [25.7, -18.6],
     description: {
       de: "Ein Waldreservat an der Grenze zu Simbabwe, das Teil des Kalahari-Ökosystems ist.",
       hu: "Erdőrezervátum a zimbabwei határon, amely a Kalahári ökoszisztéma része.",
@@ -564,7 +564,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-kazuma-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "Kazuma-Waldschutzgebiet", hu: "Kazuma erdőrezervátum", ro: "Rezervația Forestieră Kazuma", en: "Kazuma Forest Reserve" },
-    coordinates: { lat: -18.2, lng: 25.5 },
+    coords: [25.5, -18.2],
     description: {
       de: "Dieses Reservat im Norden Botswanas schützt offene Grassavannen und kleine Waldinseln.",
       hu: "Ez a rezervátum Észak-Botswanában nyílt füves szavannákat és kis erdőfoltokat véd.",
@@ -595,7 +595,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-nyangane-hill-nature-v2",
     type: "peak",
     name: { de: "Nyangane-Hügel", hu: "Nyangane-domb", ro: "Dealul Nyangane", en: "Nyangane Hill" },
-    coordinates: { lat: -18.4, lng: 21.8 },
+    coords: [21.8, -18.4],
     description: {
       de: "Ein markanter Hügel im Norden des Landes, unweit des Dorfes Shakawe am Okavango.",
       hu: "Jellegzetes domb az ország északi részén, nem messze Shakawe falutól az Okavangónál.",
@@ -626,7 +626,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-thari-ya-bana-hill-nature-v2",
     type: "peak",
     name: { de: "Thari-ya-Bana-Hügel", hu: "Thari-ya-Bana domb", ro: "Dealul Thari-ya-Bana", en: "Thari-ya-Bana Hill" },
-    coordinates: { lat: -22.3, lng: 28.9 },
+    coords: [28.9, -22.3],
     description: {
       de: "Ein historisch bedeutender Hügel im Tuli-Block mit markanten Felsformationen.",
       hu: "Történelmi jelentőségű domb a Tuli-blokkban, jellegzetes sziklaalakzatokkal.",
@@ -657,7 +657,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-khutse-pan-nature-v2",
     type: "valley",
     name: { de: "Khutse-Pfanne", hu: "Khutse-sóstó", ro: "Khutse Pan", en: "Khutse Pan" },
-    coordinates: { lat: -23.3, lng: 24.4 },
+    coords: [24.4, -23.3],
     description: {
       de: "Eine markante fossile Pfanne im Khutse-Wildreservat, die ausgetrocknete Seen repräsentiert.",
       hu: "Jellegzetes fosszilis sóstó a Khutse vadvédelmi területen, amely kiszáradt tavakat jelképez.",
@@ -688,7 +688,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-gemsbok-pan-nature-v2",
     type: "valley",
     name: { de: "Gemsbok-Pfanne", hu: "Gemsbok-sóstó", ro: "Gemsbok Pan", en: "Gemsbok Pan" },
-    coordinates: { lat: -21.7, lng: 21.6 },
+    coords: [21.6, -21.7],
     description: {
       de: "Eine kreisförmige Senke in der westlichen Kalahari, die für ihre Salzvorkommen bekannt ist.",
       hu: "Kör alakú mélyedés a nyugati Kalaháriban, amely sólelőhelyeiről ismert.",
@@ -719,7 +719,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-mabuasehube-pan-nature-v2",
     type: "valley",
     name: { de: "Mabuasehube-Pfanne", hu: "Mabuasehube-sóstó", ro: "Mabuasehube Pan", en: "Mabuasehube Pan" },
-    coordinates: { lat: -24.9, lng: 22.0 },
+    coords: [22.0, -24.9],
     description: {
       de: "Eine rote Lehm-Pfanne im Kgalagadi-Transfrontier-Park, umgeben von hohen Dünen.",
       hu: "Vörös agyagú sóstó a Kgalagadi Nemzeti Parkban, magas dűnékkel körülvéve.",
@@ -750,7 +750,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-boro-river-nature-v2",
     type: "river",
     name: { de: "Boro-Fluss", hu: "Boro-folyó", ro: "Râul Boro", en: "Boro River" },
-    coordinates: { lat: -19.6, lng: 23.0 },
+    coords: [23.0, -19.6],
     description: {
       de: "Einer der Hauptkanäle des Okavango-Deltas, der für Mokoro-Fahrten genutzt wird.",
       hu: "Az Okavango-delta egyik fő csatornája, amelyet mokoro-túrákra használnak.",
@@ -781,7 +781,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-nhabe-river-nature-v2",
     type: "river",
     name: { de: "Nhabe-Fluss", hu: "Nhabe-folyó", ro: "Râul Nhabe", en: "Nhabe River" },
-    coordinates: { lat: -20.1, lng: 23.2 },
+    coords: [23.2, -20.1],
     description: {
       de: "Ein westlicher Ausläufer des Okavango-Systems, der in Richtung des Ngamisees fließt.",
       hu: "Az Okavango-rendszer nyugati kifolyása, amely a Ngami-tó irányába folyik.",
@@ -812,7 +812,7 @@ export const poiExtraBotswanaNatureV2: POI[] = [
     id: "botswana-phikwe-hill-nature-v2",
     type: "peak",
     name: { de: "Phikwe-Hügel", hu: "Phikwe-domb", ro: "Dealul Phikwe", en: "Phikwe Hill" },
-    coordinates: { lat: -21.9, lng: 27.8 },
+    coords: [27.8, -21.9],
     description: {
       de: "Ein Hügel im Osten Botswanas, der der Stadt Selebi-Phikwe ihren zweiten Namen gab.",
       hu: "Domb Kelet-Botswanában, amely Selebi-Phikwe városának második nevét adta.",

@@ -5,7 +5,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-honiara-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Honiara", hu: "Honiara kikötője", ro: "Portul Honiara", en: "Honiara Port" },
-    coordinates: { lat: -9.428, lng: 159.953 },
+    coords: [159.953, -9.428],
     description: {
       de: "Dies ist der wichtigste internationale Seehafen der Salomonen am Point Cruz. Er wickelt den Großteil des nationalen Containerumschlags ab.",
       hu: "Ez a Salamon-szigetek legfontosabb nemzetközi tengeri kikötője a Point Cruz-nál. Itt bonyolódik az ország konténerforgalmának nagy része.",
@@ -24,7 +24,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-noro-cannery-economic-v2",
     type: "factory",
     name: { de: "Konservenfabrik Noro", hu: "Noro konzervgyár", ro: "Fabrica de conserve din Noro", en: "Noro Cannery" },
-    coordinates: { lat: -8.221, lng: 157.202 },
+    coords: [157.202, -8.221],
     description: {
       de: "Die Fabrik in der Western Province ist das Zentrum der Thunfischverarbeitung. Sie ist einer der größten Arbeitgeber des Inselstaates.",
       hu: "A Nyugati tartományban található gyár a tonhalfeldolgozás központja. Az ország egyik legnagyobb foglalkoztatója és exportőre.",
@@ -43,7 +43,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-gold-ridge-mine-economic-v2",
     type: "mine",
     name: { de: "Gold Ridge Mine", hu: "Gold Ridge bánya", ro: "Mina Gold Ridge", en: "Gold Ridge Mine" },
-    coordinates: { lat: -9.601, lng: 160.134 },
+    coords: [160.134, -9.601],
     description: {
       de: "Diese Goldmine auf Guadalcanal ist das bedeutendste Bergbauprojekt des Landes. Sie liegt etwa 30 Kilometer südöstlich der Hauptstadt.",
       hu: "Ez a Guadalcanal szigetén található aranybánya az ország legjelentősebb bányászati projektje. Honiarától 30 kilométerre délkeletre fekszik.",
@@ -62,7 +62,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-yandina-copra-center-economic-v2",
     type: "industry",
     name: { de: "Kopra-Zentrum Yandina", hu: "Yandina kopra központ", ro: "Centrul de copra din Yandina", en: "Yandina Copra Center" },
-    coordinates: { lat: -9.083, lng: 159.217 },
+    coords: [159.217, -9.083],
     description: {
       de: "Yandina auf den Russell-Inseln ist ein historisches Zentrum der Kokosnussverarbeitung. Es dient als Sammelstelle für die Kopra-Produktion.",
       hu: "A Russell-szigeteken található Yandina a kókuszfeldolgozás történelmi központja. A régió kopra-termelésének gyűjtőhelyeként szolgál.",
@@ -81,7 +81,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-point-cruz-business-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel Point Cruz", hu: "Point Cruz üzleti negyed", ro: "Cartierul de afaceri Point Cruz", en: "Point Cruz Business District" },
-    coordinates: { lat: -9.431, lng: 159.951 },
+    coords: [159.951, -9.431],
     description: {
       de: "Dieses Viertel in Honiara ist das kommerzielle Herz des Landes. Hier konzentrieren sich Banken, Regierungsgebäude und Firmenzentralen.",
       hu: "Ez a honiarai negyed az ország kereskedelmi szíve. Itt összpontosulnak a bankok, kormányzati épületek és cégközpontok.",
@@ -100,7 +100,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-ringgi-timber-economic-v2",
     type: "industry",
     name: { de: "Holzwirtschaftszentrum Ringgi", hu: "Ringgi faipari központ", ro: "Centrul forestier Ringgi", en: "Ringgi Timber Center" },
-    coordinates: { lat: -8.134, lng: 157.132 },
+    coords: [157.132, -8.134],
     description: {
       de: "Ringgi auf der Insel Kolombangara ist ein führender Standort für nachhaltige Forstwirtschaft. Hier wird hochwertiges Rundholz für den Export verarbeitet.",
       hu: "A Kolombangara szigetén található Ringgi a fenntartható erdőgazdálkodás vezető helyszíne. Itt készítik elő a rönkfát exportra.",
@@ -119,7 +119,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-auki-market-economic-v2",
     type: "town",
     name: { de: "Marktplatz von Auki", hu: "Auki piaci központ", ro: "Piața din Auki", en: "Auki Market Center" },
-    coordinates: { lat: -8.772, lng: 160.701 },
+    coords: [160.701, -8.772],
     description: {
       de: "Auki ist das wirtschaftliche Zentrum der Provinz Malaita. Der Markt ist der wichtigste Umschlagplatz für landwirtschaftliche Erzeugnisse der Insel.",
       hu: "Auki Malaita tartomány gazdasági központja. A helyi piac a sziget legfontosabb mezőgazdasági kereskedelmi csomópontja.",
@@ -138,7 +138,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-gizo-trade-port-economic-v2",
     type: "port",
     name: { de: "Handelshafen Gizo", hu: "Gizo kereskedelmi kikötő", ro: "Portul comercial Gizo", en: "Gizo Trade Port" },
-    coordinates: { lat: -8.103, lng: 156.842 },
+    coords: [156.842, -8.103],
     description: {
       de: "Gizo ist der wichtigste Handelsknotenpunkt im Westen der Salomonen. Der Hafen verbindet die umliegenden Inseln mit internationalen Märkten.",
       hu: "Gizo a Salamon-szigetek nyugati részének legfontosabb kereskedelmi csomópontja. Kikötője összeköti a szigeteket a külföldi piacokkal.",
@@ -157,7 +157,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-munda-logistics-economic-v2",
     type: "town",
     name: { de: "Logistikzentrum Munda", hu: "Munda logisztikai központ", ro: "Centrul logistic Munda", en: "Munda Logistics Center" },
-    coordinates: { lat: -8.328, lng: 157.269 },
+    coords: [157.269, -8.328],
     description: {
       de: "Munda auf New Georgia dient als strategischer Logistikknotenpunkt. Der internationale Flughafen macht es zu einem Tor für Luftfracht im Westen.",
       hu: "Az Új-Georgia szigetén fekvő Munda stratégiai logisztikai csomópont. Nemzetközi repülőtere a nyugati légi áruszállítás kapuja.",
@@ -176,7 +176,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-tulagi-fisheries-economic-v2",
     type: "port",
     name: { de: "Fischereibasis Tulagi", hu: "Tulagi halászati bázis", ro: "Baza de pescuit Tulagi", en: "Tulagi Fisheries Base" },
-    coordinates: { lat: -9.102, lng: 160.151 },
+    coords: [160.151, -9.102],
     description: {
       de: "Tulagi, die ehemalige Hauptstadt, ist heute ein Zentrum der Fischereiindustrie. Die geschützte Bucht bietet ideale Bedingungen für Schiffsreparaturen.",
       hu: "Tulagi, az egykori főváros, ma a halászati ipar központja. Védett öble ideális feltételeket kínál a hajójavításhoz és karbantartáshoz.",
@@ -195,7 +195,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-kirakira-trade-economic-v2",
     type: "town",
     name: { de: "Handelszentrum Kirakira", hu: "Kirakira kereskedelmi központ", ro: "Centrul comercial Kirakira", en: "Kirakira Trade Center" },
-    coordinates: { lat: -10.454, lng: 161.921 },
+    coords: [161.921, -10.454],
     description: {
       de: "Kirakira ist der Verwaltungssitz der Provinz Makira-Ulawa. Es dient als primäres Handelszentrum für den Export von Kakao und Kopra.",
       hu: "Kirakira Makira-Ulawa tartomány székhelye. Elsődleges kereskedelmi központként szolgál a kakaó és a kopra exportjához.",
@@ -214,7 +214,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-lata-export-economic-v2",
     type: "town",
     name: { de: "Exportpunkt Lata", hu: "Lata exportpont", ro: "Punctul de export Lata", en: "Lata Export Point" },
-    coordinates: { lat: -10.721, lng: 165.801 },
+    coords: [165.801, -10.721],
     description: {
       de: "Lata ist das wirtschaftliche Zentrum der abgelegenen Santa-Cruz-Inseln. Es ist der wichtigste Punkt für den Warenverkehr in der Provinz Temotu.",
       hu: "Lata a távoli Santa Cruz-szigetek gazdasági központja. Ez a legfontosabb áruforgalmi pont Temotu tartományban.",
@@ -233,7 +233,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-taro-trade-post-economic-v2",
     type: "town",
     name: { de: "Handelsposten Taro Island", hu: "Taro-szigeti kereskedelmi állomás", ro: "Postul comercial Taro Island", en: "Taro Island Trade Post" },
-    coordinates: { lat: -6.712, lng: 156.398 },
+    coords: [156.398, -6.712],
     description: {
       de: "Taro Island ist die Hauptstadt der Provinz Choiseul. Die Stadt fungiert als wichtiger Grenzhandelspunkt in der Nähe von Papua-Neuguinea.",
       hu: "Taro-sziget Choiseul tartomány székhelye. A város fontos határmenti kereskedelmi pontként működik Pápua Új-Guinea közelében.",
@@ -252,7 +252,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-tetere-agriculture-economic-v2",
     type: "industry",
     name: { de: "Agrarstation Tetere", hu: "Tetere mezőgazdasági állomás", ro: "Stația agricolă Tetere", en: "Tetere Agriculture Station" },
-    coordinates: { lat: -9.414, lng: 160.252 },
+    coords: [160.252, -9.414],
     description: {
       de: "Tetere in den Guadalcanal-Ebenen ist ein Schlüsselstandort für die kommerzielle Landwirtschaft. Hier befinden sich große Reis- und Palmanbauflächen.",
       hu: "A Guadalcanal-síkságon található Tetere a kereskedelmi mezőgazdaság kulcsfontosságú helyszíne. Itt nagy rizs- és pálmaültetvények fekszenek.",
@@ -271,7 +271,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-aruligo-mill-economic-v2",
     type: "factory",
     name: { de: "Kopramühle Aruligo", hu: "Aruligói kopramalom", ro: "Moara de copra din Aruligo", en: "Aruligo Copra Mill" },
-    coordinates: { lat: -9.351, lng: 159.803 },
+    coords: [159.803, -9.351],
     description: {
       de: "Die Mühle bei Aruligo verarbeitet Kokosnüsse zu Öl und Kopra-Schrot. Sie ist eine wichtige industrielle Einrichtung an der Nordküste Guadalcanals.",
       hu: "Az aruligói malom kókuszt dolgoz fel olajjá és kopra-darává. Fontos ipari létesítmény Guadalcanal északi partján.",
@@ -290,7 +290,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-viru-timber-port-economic-v2",
     type: "port",
     name: { de: "Holzhafen Viru", hu: "Viru-öböl faipari kikötő", ro: "Portul de cherestea Viru", en: "Viru Timber Port" },
-    coordinates: { lat: -8.502, lng: 157.734 },
+    coords: [157.734, -8.502],
     description: {
       de: "Viru Harbour ist ein bedeutender Exporthafen für die Holzwirtschaft in der Western Province. Die tiefen Gewässer erlauben das Anlegen großer Frachter.",
       hu: "A Viru-öböl a Nyugati tartomány faiparának jelentős exportkikötője. Mély vize lehetővé teszi a nagy teherhajók kikötését.",
@@ -309,7 +309,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-suavanao-fisheries-economic-v2",
     type: "industry",
     name: { de: "Fischereizentrum Suavanao", hu: "Suavanao halászati központ", ro: "Centrul de pescuit Suavanao", en: "Suavanao Fisheries Point" },
-    coordinates: { lat: -7.501, lng: 158.852 },
+    coords: [158.852, -7.501],
     description: {
       de: "Suavanao auf der Insel Santa Isabel ist ein Zentrum für die nachhaltige Gewinnung von Meeresressourcen. Hier werden Fischfänge für den Markt aufbereitet.",
       hu: "A Santa Isabel szigetén található Suavanao a fenntartható tengeri erőforrás-kiaknázás központja. Itt készítik elő a halat a piacra.",
@@ -328,7 +328,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-allardyce-logging-economic-v2",
     type: "industry",
     name: { de: "Forstlager Allardyce", hu: "Allardyce erdészeti tábor", ro: "Tabăra forestieră Allardyce", en: "Allardyce Logging Camp" },
-    coordinates: { lat: -7.702, lng: 158.701 },
+    coords: [158.701, -7.702],
     description: {
       de: "Allardyce ist einer der größten forstwirtschaftlichen Standorte auf Santa Isabel. Das Lager dient als Basis für den Einschlag von Tropenholz.",
       hu: "Allardyce az egyik legnagyobb erdészeti helyszín Santa Isabel szigetén. A tábor a trópusi fa kitermelésének bázisául szolgál.",
@@ -347,7 +347,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-binu-palm-oil-economic-v2",
     type: "industry",
     name: { de: "Ölpalmenplantage Binu", hu: "Binu pálmaolaj ültetvény", ro: "Plantația de ulei de palmier Binu", en: "Binu Palm Oil Plantation" },
-    coordinates: { lat: -9.481, lng: 160.302 },
+    coords: [160.302, -9.481],
     description: {
       de: "Binu ist ein zentraler Bestandteil der Ölpalmenindustrie auf Guadalcanal. Hier befinden sich ausgedehnte Plantagen und Verarbeitungsstationen.",
       hu: "Binu a guadalcanali pálmaolaj-ipar központi eleme. Itt kiterjedt ültetvények és feldolgozóállomások találhatók.",
@@ -366,7 +366,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-henderson-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikzone Henderson", hu: "Henderson logisztikai zóna", ro: "Zona logistică Henderson", en: "Henderson Logistics Zone" },
-    coordinates: { lat: -9.431, lng: 160.052 },
+    coords: [160.052, -9.431],
     description: {
       de: "Das Gebiet um Henderson ist das logistische Zentrum für Luftfracht. Es liegt direkt am internationalen Flughafen von Honiara.",
       hu: "A Henderson környéki terület a légi áruszállítás logisztikai központja. Közvetlenül Honiara nemzetközi repülőtere mellett fekszik.",
@@ -385,7 +385,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-lungga-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Lungga", hu: "Lungga ipari negyed", ro: "Zona industrială Lungga", en: "Lungga Industrial Estate" },
-    coordinates: { lat: -9.432, lng: 160.021 },
+    coords: [160.021, -9.432],
     description: {
       de: "Lungga ist ein bedeutendes Leichtindustriegebiet östlich der Hauptstadt. Hier befinden sich Fabriken für Konsumgüter und Baustoffe.",
       hu: "Lungga egy jelentős könnyűipari terület a fővárostól keletre. Fogyasztási cikkeket és építőanyagokat gyártó üzemek találhatók itt.",
@@ -404,7 +404,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-marau-fisheries-economic-v2",
     type: "town",
     name: { de: "Fischereihafen Marau", hu: "Marau halászati kikötő", ro: "Portul de pescuit Marau", en: "Marau Fisheries Hub" },
-    coordinates: { lat: -9.861, lng: 160.852 },
+    coords: [160.852, -9.861],
     description: {
       de: "Marau Sound an der Ostspitze Guadalcanals ist ein Zentrum für den Handel mit Meeresfrüchten. Es dient als Sammelstelle für die umliegenden Inseln.",
       hu: "A Guadalcanal keleti csücskén lévő Marau-szoros a tengeri gyümölcsök kereskedelmi központja. A környező szigetek gyűjtőpontjaként szolgál.",
@@ -423,7 +423,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-choiseul-bay-timber-economic-v2",
     type: "port",
     name: { de: "Holzverladestelle Choiseul Bay", hu: "Choiseul-öböl faipari rakodó", ro: "Punctul de cherestea Choiseul Bay", en: "Choiseul Bay Timber Post" },
-    coordinates: { lat: -6.703, lng: 156.401 },
+    coords: [156.401, -6.703],
     description: {
       de: "Die Bucht dient als Hauptverladestation für die Forstwirtschaft im Norden von Choiseul. Hier werden Stämme für den Weltmarkt verschifft.",
       hu: "Az öböl Észak-Choiseul erdőgazdálkodásának fő rakodóállomása. Itt hajózzák be a rönköket a világpiacra.",
@@ -442,7 +442,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-lofung-border-trade-economic-v2",
     type: "port",
     name: { de: "Grenzhandelsposten Lofung", hu: "Lofung határmenti kereskedelmi pont", ro: "Punctul de frontieră Lofung", en: "Lofung Border Trade Post" },
-    coordinates: { lat: -7.052, lng: 155.851 },
+    coords: [155.851, -7.052],
     description: {
       de: "Lofung ist ein strategischer Außenposten für den Handel mit der benachbarten Provinz Bougainville. Er ist ein Tor für grenzüberschreitende Waren.",
       hu: "Lofung stratégiai előőrs a szomszédos Bougainville tartománnyal való kereskedelemben. A határon átnyúló áruk kapuja.",
@@ -461,7 +461,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-santa-cruz-copra-economic-v2",
     type: "industry",
     name: { de: "Koprazentrum Santa Cruz", hu: "Santa Cruz kopra központ", ro: "Centrul de copra Santa Cruz", en: "Santa Cruz Copra Center" },
-    coordinates: { lat: -10.751, lng: 166.002 },
+    coords: [166.002, -10.751],
     description: {
       de: "Dieses Zentrum koordiniert die Kopra-Produktion der östlichen Inseln. Es ist der wichtigste Wirtschaftsfaktor für die Bewohner von Temotu.",
       hu: "Ez a központ koordinálja a keleti szigetek kopra-termelését. Temotu lakói számára ez a legfontosabb gazdasági tényező.",
@@ -480,7 +480,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-kolombangara-forest-economic-v2",
     type: "industry",
     name: { de: "Forststation Kolombangara", hu: "Kolombangara erdészeti állomás", ro: "Stația forestieră Kolombangara", en: "Kolombangara Forest Station" },
-    coordinates: { lat: -8.001, lng: 157.082 },
+    coords: [157.082, -8.001],
     description: {
       de: "Die Station leitet die nachhaltigen Aufforstungsprojekte der Insel. Sie ist ein Vorbild für moderne Forstwirtschaft im Südpazifik.",
       hu: "Az állomás irányítja a sziget fenntartható erdőtelepítési projektjeit. A modern erdőgazdálkodás mintaképe a dél-csendes-óceáni térségben.",
@@ -499,7 +499,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-guadalcanal-rice-economic-v2",
     type: "industry",
     name: { de: "Guadalcanal Reisprojekt", hu: "Guadalcanal rizsprojekt", ro: "Proiectul de orez Guadalcanal", en: "Guadalcanal Rice Project" },
-    coordinates: { lat: -9.452, lng: 160.151 },
+    coords: [160.151, -9.452],
     description: {
       de: "Dieses groß angelegte Projekt zielt auf die Selbstversorgung des Landes mit Reis ab. Es umfasst moderne Bewässerungssysteme in den fruchtbaren Ebenen.",
       hu: "Ez a nagyszabású projekt az ország önellátását célozza rizsből. Modern öntözőrendszereket foglal magában a termékeny síkságokon.",
@@ -518,7 +518,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-ranadi-estate-economic-v2",
     type: "industry",
     name: { de: "Industriepark Ranadi", hu: "Ranadi ipari negyed", ro: "Parcul industrial Ranadi", en: "Ranadi Industrial Estate" },
-    coordinates: { lat: -9.434, lng: 160.002 },
+    coords: [160.002, -9.434],
     description: {
       de: "Ranadi ist das größte und vielfältigste Industriegebiet von Honiara. Es beherbergt zahlreiche kleine und mittlere Produktionsbetriebe.",
       hu: "Ranadi Honiara legnagyobb és legsokoldalúbb ipari övezete. Számos kis- és középvállalkozásnak ad otthont.",
@@ -537,7 +537,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-wagina-seaweed-economic-v2",
     type: "industry",
     name: { de: "Algenfarmen von Wagina", hu: "Wagina-szigeti algatelepek", ro: "Fermele de alge din Wagina", en: "Wagina Seaweed Farms" },
-    coordinates: { lat: -7.432, lng: 157.771 },
+    coords: [157.771, -7.432],
     description: {
       de: "Wagina Island ist das Zentrum der aufstrebenden Algenindustrie. Die flachen Lagunen bieten perfekte Bedingungen für den Export von Algenprodukten.",
       hu: "Wagina-sziget a felemelkedő algaipar központja. A sekély lagúnák tökéletes feltételeket biztosítanak az algatermékek exportjához.",
@@ -556,7 +556,7 @@ export const solomonislandsEconomicV2: POI[] = [
     id: "solomonislands-pavuvu-copra-economic-v2",
     type: "industry",
     name: { de: "Koprazentrum Pavuvu", hu: "Pavuvu kopra központ", ro: "Centrul de copra Pavuvu", en: "Pavuvu Copra Center" },
-    coordinates: { lat: -9.052, lng: 159.151 },
+    coords: [159.151, -9.052],
     description: {
       de: "Pavuvu ist die größte der Russell-Inseln und ein historischer Gigant der Kopra-Produktion. Es verfügt über ausgedehnte Kokosnuss-Plantagen.",
       hu: "Pavuvu a Russell-szigetek legnagyobb tagja és a kopra-termelés történelmi óriása. Kiterjedt kókuszültetvényekkel rendelkezik.",

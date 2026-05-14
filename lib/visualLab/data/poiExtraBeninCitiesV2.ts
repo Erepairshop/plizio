@@ -6,7 +6,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-boukoumbe-cities-v2",
     type: "city",
     name: { de: "Boukombé", hu: "Boukombé", ro: "Boukombé", en: "Boukombé" },
-    coordinates: { lat: 10.2307, lng: 1.1121 },
+    coords: [1.1121, 10.2307],
     description: {
       de: "Boukombé ist eine Stadt im Nordwesten Benins im Atakora-Gebirge. Sie ist bekannt als Zentrum der traditionellen Tata-Somba-Architektur.",
       hu: "Boukombé északnyugat-benini város az Atakora-hegységben. A hagyományos Tata-Somba építészet központjaként ismert.",
@@ -37,7 +37,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-koussoucoingou-cities-v2",
     type: "city",
     name: { de: "Koussoucoingou", hu: "Koussoucoingou", ro: "Koussoucoingou", en: "Koussoucoingou" },
-    coordinates: { lat: 10.3235, lng: 1.0567 },
+    coords: [1.0567, 10.3235],
     description: {
       de: "Koussoucoingou ist ein Dorf in der Region Atakora. Es zeichnet sich durch seine gut erhaltenen, traditionellen Lehmburgen aus.",
       hu: "Koussoucoingou falu az Atakora régióban. Jól megőrzött, hagyományos vályogvárairól nevezetes.",
@@ -68,7 +68,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-perere-cities-v2",
     type: "city",
     name: { de: "Pèrèrè", hu: "Pèrèrè", ro: "Pèrèrè", en: "Pèrèrè" },
-    coordinates: { lat: 9.7126, lng: 3.0906 },
+    coords: [3.0906, 9.7126],
     description: {
       de: "Pèrèrè ist eine Stadt im Departement Borgou. Sie dient als lokales Handelszentrum für die umliegenden landwirtschaftlichen Gebiete.",
       hu: "Pèrèrè város a Borgou megyében. A környező mezőgazdasági területek helyi kereskedelmi központjaként szolgál.",
@@ -99,7 +99,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-kalale-cities-v2",
     type: "city",
     name: { de: "Kalalé", hu: "Kalalé", ro: "Kalalé", en: "Kalalé" },
-    coordinates: { lat: 10.2783, lng: 3.2393 },
+    coords: [3.2393, 10.2783],
     description: {
       de: "Kalalé liegt im Departement Borgou im Nordosten des Landes. Die Wirtschaft der Stadt basiert hauptsächlich auf Ackerbau und Viehzucht.",
       hu: "Kalalé az ország északkeleti részén, Borgou megyében található. A város gazdasága főként földművelésen és állattenyésztésen alapul.",
@@ -130,7 +130,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-n'dali-cities-v2",
     type: "city",
     name: { de: "N'Dali", hu: "N'Dali", ro: "N'Dali", en: "N'Dali" },
-    coordinates: { lat: 9.5165, lng: 2.7237 },
+    coords: [2.7237, 9.5165],
     description: {
       de: "N'Dali ist eine Stadt in der Borgou-Region. Sie liegt an der wichtigen Verbindungsstraße zwischen Parakou und Kandi.",
       hu: "N'Dali város a Borgou régióban. A Parakou és Kandi közötti fontos összekötő úton fekszik.",
@@ -161,7 +161,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-bembereke-cities-v2",
     type: "city",
     name: { de: "Bembèrèkè", hu: "Bembèrèkè", ro: "Bembèrèkè", en: "Bembèrèkè" },
-    coordinates: { lat: 10.2283, lng: 2.6797 },
+    coords: [2.6797, 10.2283],
     description: {
       de: "Bembèrèkè ist eine bedeutende Stadt im Departement Borgou. Sie ist ein bekanntes Zentrum für medizinische Einrichtungen in Nordbenin.",
       hu: "Bembèrèkè fontos város Borgou megyében. Észak-Benin egyik ismert orvosi ellátási központja.",
@@ -192,7 +192,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-segbana-cities-v2",
     type: "city",
     name: { de: "Ségbana", hu: "Ségbana", ro: "Ségbana", en: "Ségbana" },
-    coordinates: { lat: 10.9525, lng: 3.6872 },
+    coords: [3.6872, 10.9525],
     description: {
       de: "Ségbana liegt im Departement Alibori im Nordosten Benins. Die Stadt ist ein Grenzort nahe der Grenze zu Nigeria.",
       hu: "Ségbana az Alibori megyében, Benin északkeleti részén található. A város határtelepülés Nigéria határának közelében.",
@@ -223,7 +223,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-gogounou-cities-v2",
     type: "city",
     name: { de: "Gogounou", hu: "Gogounou", ro: "Gogounou", en: "Gogounou" },
-    coordinates: { lat: 10.6558, lng: 3.1492 },
+    coords: [3.1492, 10.6558],
     description: {
       de: "Gogounou liegt im Departement Alibori. Die lokale Wirtschaft basiert auf dem Anbau von Baumwolle und anderen Feldfrüchten.",
       hu: "Gogounou az Alibori megyében található. A helyi gazdaság gyapot és más termények termesztésén alapul.",
@@ -254,7 +254,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-kerou-cities-v2",
     type: "city",
     name: { de: "Kérou", hu: "Kérou", ro: "Kérou", en: "Kérou" },
-    coordinates: { lat: 10.5133, lng: 2.1006 },
+    coords: [2.1006, 10.5133],
     description: {
       de: "Kérou ist eine Stadt im Departement Atakora. Sie dient als Verwaltungszentrum für den umliegenden Distrikt.",
       hu: "Kérou város az Atakora megyében. A környező kerület közigazgatási központjaként szolgál.",
@@ -285,7 +285,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-kouande-cities-v2",
     type: "city",
     name: { de: "Kouandé", hu: "Kouandé", ro: "Kouandé", en: "Kouandé" },
-    coordinates: { lat: 10.3347, lng: 1.6964 },
+    coords: [1.6964, 10.3347],
     description: {
       de: "Kouandé ist eine Stadt im Departement Atakora. Sie hat eine reiche Geschichte und ist als Sitz eines traditionellen Königreiches bekannt.",
       hu: "Kouandé város az Atakora megyében. Gazdag történelemmel rendelkezik, és hagyományos királyság székhelyeként ismert.",
@@ -316,7 +316,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-tanguieta-cities-v2",
     type: "city",
     name: { de: "Tanguiéta", hu: "Tanguiéta", ro: "Tanguiéta", en: "Tanguiéta" },
-    coordinates: { lat: 10.6225, lng: 1.2503 },
+    coords: [1.2503, 10.6225],
     description: {
       de: "Tanguiéta liegt im Atakora-Gebirge nahe dem Nationalpark Pendjari. Es ist ein wichtiger Ausgangspunkt für Safari-Touristen.",
       hu: "Tanguiéta az Atakora-hegységben fekszik, a Pendjari Nemzeti Park közelében. Fontos kiindulópont szafarituristák számára.",
@@ -347,7 +347,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-toucountouna-cities-v2",
     type: "city",
     name: { de: "Toucountouna", hu: "Toucountouna", ro: "Toucountouna", en: "Toucountouna" },
-    coordinates: { lat: 10.5186, lng: 1.2678 },
+    coords: [1.2678, 10.5186],
     description: {
       de: "Toucountouna ist eine Stadt im Departement Atakora. Sie liegt in einer bergigen Landschaft und ist landwirtschaftlich geprägt.",
       hu: "Toucountouna város az Atakora megyében. Hegyes tájon fekszik, és mezőgazdasági jellegű.",
@@ -378,7 +378,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-cobly-cities-v2",
     type: "city",
     name: { de: "Cobly", hu: "Cobly", ro: "Cobly", en: "Cobly" },
-    coordinates: { lat: 10.2981, lng: 0.9328 },
+    coords: [0.9328, 10.2981],
     description: {
       de: "Cobly liegt im Departement Atakora nahe der Grenze zu Togo. Es ist bekannt für seine natürliche Schönheit und die lokale Kultur.",
       hu: "Cobly az Atakora megyében, Togo határának közelében található. Természeti szépségéről és helyi kultúrájáról ismert.",
@@ -409,7 +409,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-materi-cities-v2",
     type: "city",
     name: { de: "Materi", hu: "Matéri", ro: "Matéri", en: "Matéri" },
-    coordinates: { lat: 10.7933, lng: 1.0369 },
+    coords: [1.0369, 10.7933],
     description: {
       de: "Matéri ist eine Stadt im nördlichen Atakora-Departement. Sie dient als Tor zu den nördlichen Naturschutzgebieten Benins.",
       hu: "Matéri város az északi Atakora megyében. Kapuként szolgál Benin északi természetvédelmi területei felé.",
@@ -440,7 +440,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-pehunco-cities-v2",
     type: "city",
     name: { de: "Péhunco", hu: "Péhunco", ro: "Péhunco", en: "Péhunco" },
-    coordinates: { lat: 10.0242, lng: 2.2575 },
+    coords: [2.2575, 10.0242],
     description: {
       de: "Péhunco ist eine Stadt im Departement Atakora. Die Region ist landwirtschaftlich geprägt und weist eine vielfältige Bevölkerung auf.",
       hu: "Péhunco város az Atakora megyében. A régió mezőgazdasági jellegű és sokszínű lakossággal rendelkezik.",
@@ -471,7 +471,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-djougou-cities-v2",
     type: "city",
     name: { de: "Djougou", hu: "Djougou", ro: "Djougou", en: "Djougou" },
-    coordinates: { lat: 9.7042, lng: 1.6661 },
+    coords: [1.6661, 9.7042],
     description: {
       de: "Djougou ist eine wichtige Handelsstadt im Departement Donga. Sie ist als Schmelztiegel verschiedener ethnischer Gruppen bekannt.",
       hu: "Djougou fontos kereskedőváros a Donga megyében. Különböző etnikai csoportok olvasztótégelyeként ismert.",
@@ -502,7 +502,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-bassila-cities-v2",
     type: "city",
     name: { de: "Bassila", hu: "Bassila", ro: "Bassila", en: "Bassila" },
-    coordinates: { lat: 9.0083, lng: 1.6736 },
+    coords: [1.6736, 9.0083],
     description: {
       de: "Bassila liegt im südlichen Teil des Departements Donga. Die Stadt ist von bewaldeten Hügeln umgeben und landwirtschaftlich aktiv.",
       hu: "Bassila a Donga megye déli részén fekszik. A várost erdős dombok veszik körül, és mezőgazdaságilag aktív.",
@@ -533,7 +533,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-copargo-cities-v2",
     type: "city",
     name: { de: "Copargo", hu: "Copargo", ro: "Copargo", en: "Copargo" },
-    coordinates: { lat: 9.8322, lng: 1.5542 },
+    coords: [1.5542, 9.8322],
     description: {
       de: "Copargo liegt im Departement Donga. Es ist ein kleineres Handelszentrum in einer Region, die stark von der Landwirtschaft abhängt.",
       hu: "Copargo a Donga megyében található. Kisebb kereskedelmi központ egy olyan régióban, amely erősen függ a mezőgazdaságtól.",
@@ -564,7 +564,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-ouake-cities-v2",
     type: "city",
     name: { de: "Ouaké", hu: "Ouaké", ro: "Ouaké", en: "Ouaké" },
-    coordinates: { lat: 9.7153, lng: 1.5878 },
+    coords: [1.5878, 9.7153],
     description: {
       de: "Ouaké liegt in der Nähe der Grenze zu Togo im Departement Donga. Die Stadt profitiert von ihrem Status als Grenzhandelsplatz.",
       hu: "Ouaké a Donga megyében, Togo határának közelében található. A város profitál a határ menti kereskedelmi központ státuszából.",
@@ -595,7 +595,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-savalou-cities-v2",
     type: "city",
     name: { de: "Savalou", hu: "Savalou", ro: "Savalou", en: "Savalou" },
-    coordinates: { lat: 7.9422, lng: 1.9753 },
+    coords: [1.9753, 7.9422],
     description: {
       de: "Savalou liegt im Departement Collines. Die Stadt ist für ihre kulturelle Bedeutung und den Berg Chahé bekannt.",
       hu: "Savalou a Collines megyében található. A város kulturális jelentőségéről és a Chahé-hegyről ismert.",
@@ -626,7 +626,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-dassa-zoume-cities-v2",
     type: "city",
     name: { de: "Dassa-Zoumé", hu: "Dassa-Zoumé", ro: "Dassa-Zoumé", en: "Dassa-Zoumé" },
-    coordinates: { lat: 7.7508, lng: 2.1833 },
+    coords: [2.1833, 7.7508],
     description: {
       de: "Dassa-Zoumé liegt im Departement Collines. Sie ist als religiöser Wallfahrtsort und für ihre umliegenden Hügel bekannt.",
       hu: "Dassa-Zoumé a Collines megyében található. Vallási zarándokhelyként és környező dombjairól ismert.",
@@ -657,7 +657,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-glazoue-cities-v2",
     type: "city",
     name: { de: "Glazoué", hu: "Glazoué", ro: "Glazoué", en: "Glazoué" },
-    coordinates: { lat: 7.9706, lng: 2.2961 },
+    coords: [2.2961, 7.9706],
     description: {
       de: "Glazoué liegt im Departement Collines. Die Stadt ist ein wichtiger Handelsknotenpunkt an der Hauptstraße nach Norden.",
       hu: "Glazoué a Collines megyében fekszik. A város fontos kereskedelmi csomópont az észak felé vezető főúton.",
@@ -688,7 +688,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-bantè-cities-v2",
     type: "city",
     name: { de: "Bantè", hu: "Bantè", ro: "Bantè", en: "Bantè" },
-    coordinates: { lat: 8.4414, lng: 1.9167 },
+    coords: [1.9167, 8.4414],
     description: {
       de: "Bantè ist eine Stadt im Departement Collines. Sie ist ein landwirtschaftliches Zentrum, das für seine Produktion bekannt ist.",
       hu: "Bantè város a Collines megyében. Mezőgazdasági központ, amely termeléséről ismert.",
@@ -719,7 +719,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-ouessè-cities-v2",
     type: "city",
     name: { de: "Ouèssè", hu: "Ouèssè", ro: "Ouèssè", en: "Ouèssè" },
-    coordinates: { lat: 8.0833, lng: 2.4333 },
+    coords: [2.4333, 8.0833],
     description: {
       de: "Ouèssè liegt im Departement Collines. Die Region ist von weitläufigen Feldern und einer ländlichen Lebensweise geprägt.",
       hu: "Ouèssè a Collines megyében fekszik. A régiót kiterjedt mezők és vidéki életmód jellemzi.",
@@ -750,7 +750,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-parakou-cities-v2",
     type: "city",
     name: { de: "Parakou", hu: "Parakou", ro: "Parakou", en: "Parakou" },
-    coordinates: { lat: 9.3503, lng: 2.6322 },
+    coords: [2.6322, 9.3503],
     description: {
       de: "Parakou ist die größte Stadt im Norden Benins und ein wichtiges wirtschaftliches Zentrum im Departement Borgou.",
       hu: "Parakou Észak-Benin legnagyobb városa és fontos gazdasági központ Borgou megyében.",
@@ -781,7 +781,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-kandi-cities-v2",
     type: "city",
     name: { de: "Kandi", hu: "Kandi", ro: "Kandi", en: "Kandi" },
-    coordinates: { lat: 11.1325, lng: 2.9369 },
+    coords: [2.9369, 11.1325],
     description: {
       de: "Kandi liegt im Departement Alibori im Norden Benins. Es ist als Handelszentrum bekannt, besonders für Baumwollhandel.",
       hu: "Kandi az Alibori megyében, Benin északi részén található. Kereskedelmi központként ismert, különösen a gyapotkereskedelem terén.",
@@ -812,7 +812,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-malanville-cities-v2",
     type: "city",
     name: { de: "Malanville", hu: "Malanville", ro: "Malanville", en: "Malanville" },
-    coordinates: { lat: 11.8711, lng: 3.3853 },
+    coords: [3.3853, 11.8711],
     description: {
       de: "Malanville liegt im Departement Alibori an der Grenze zu Niger. Die Stadt ist ein wichtiger Umschlagplatz für den grenzüberschreitenden Handel.",
       hu: "Malanville az Alibori megyében található, Niger határán. A város fontos átrakodóhely a határokon átnyúló kereskedelem számára.",
@@ -843,7 +843,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-karimama-cities-v2",
     type: "city",
     name: { de: "Karimama", hu: "Karimama", ro: "Karimama", en: "Karimama" },
-    coordinates: { lat: 12.0725, lng: 3.1836 },
+    coords: [3.1836, 12.0725],
     description: {
       de: "Karimama liegt im Departement Alibori am Fluss Niger. Es ist ein Ausgangspunkt für den Nationalpark W.",
       hu: "Karimama az Alibori megyében, a Niger folyó mentén található. Kiindulópont a W Nemzeti Park felé.",
@@ -874,7 +874,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-banikoara-cities-v2",
     type: "city",
     name: { de: "Banikoara", hu: "Banikoara", ro: "Banikoara", en: "Banikoara" },
-    coordinates: { lat: 11.2986, lng: 2.4386 },
+    coords: [2.4386, 11.2986],
     description: {
       de: "Banikoara liegt im Departement Alibori. Es gilt als eine der wichtigsten Regionen für den Baumwollanbau in Benin.",
       hu: "Banikoara az Alibori megyében található. Benin egyik legfontosabb gyapottermesztő régiójának számít.",
@@ -905,7 +905,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-gouande-cities-v2",
     type: "city",
     name: { de: "Gouandé", hu: "Gouandé", ro: "Gouandé", en: "Gouandé" },
-    coordinates: { lat: 10.3631, lng: 1.7769 },
+    coords: [1.7769, 10.3631],
     description: {
       de: "Gouandé liegt im Departement Atakora. Die Stadt ist ein lokaler Marktort für die umliegende ländliche Bevölkerung.",
       hu: "Gouandé az Atakora megyében található. A város helyi piac a környező vidéki lakosság számára.",
@@ -936,7 +936,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-boukou-cities-v2",
     type: "city",
     name: { de: "Boukou", hu: "Boukou", ro: "Boukou", en: "Boukou" },
-    coordinates: { lat: 9.5858, lng: 1.9567 },
+    coords: [1.9567, 9.5858],
     description: {
       de: "Boukou liegt im Departement Donga. Es ist ein kleines Dorf, das tief in der ländlichen Struktur der Region verwurzelt ist.",
       hu: "Boukou a Donga megyében fekszik. Kisebb falu, amely mélyen gyökerezik a régió vidéki struktúrájában.",
@@ -967,7 +967,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-birni-cities-v2",
     type: "city",
     name: { de: "Birni", hu: "Birni", ro: "Birni", en: "Birni" },
-    coordinates: { lat: 10.4267, lng: 1.7483 },
+    coords: [1.7483, 10.4267],
     description: {
       de: "Birni ist eine Stadt im Departement Atakora. Sie zeichnet sich durch traditionelle Siedlungsstrukturen und lokale Landwirtschaft aus.",
       hu: "Birni város az Atakora megyében. Hagyományos településszerkezet és helyi mezőgazdaság jellemzi.",
@@ -998,7 +998,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-tchaourou-cities-v2",
     type: "city",
     name: { de: "Tchaourou", hu: "Tchaourou", ro: "Tchaourou", en: "Tchaourou" },
-    coordinates: { lat: 8.8911, lng: 2.5975 },
+    coords: [2.5975, 8.8911],
     description: {
       de: "Tchaourou liegt im Departement Borgou. Es ist flächenmäßig eine der größten Gemeinden Benins und landwirtschaftlich sehr aktiv.",
       hu: "Tchaourou a Borgou megyében található. Területét tekintve Benin egyik legnagyobb települése és mezőgazdaságilag nagyon aktív.",
@@ -1029,7 +1029,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-sinende-cities-v2",
     type: "city",
     name: { de: "Sinendé", hu: "Sinendé", ro: "Sinendé", en: "Sinendé" },
-    coordinates: { lat: 9.8731, lng: 2.5486 },
+    coords: [2.5486, 9.8731],
     description: {
       de: "Sinendé liegt im Departement Borgou. Die Stadt ist ein lokaler Marktort für die umliegende landwirtschaftliche Region.",
       hu: "Sinendé a Borgou megyében található. A város helyi piac a környező mezőgazdasági régió számára.",
@@ -1060,7 +1060,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-sakete-cities-v2",
     type: "city",
     name: { de: "Sakété", hu: "Sakété", ro: "Sakété", en: "Sakété" },
-    coordinates: { lat: 6.7444, lng: 2.6592 },
+    coords: [2.6592, 6.7444],
     description: {
       de: "Sakété liegt im Departement Plateau im Südosten Benins. Es ist ein bedeutender Handelsort nahe der Grenze zu Nigeria.",
       hu: "Sakété a Plateau megyében, Benin délkeleti részén fekszik. Fontos kereskedelmi hely Nigéria határának közelében.",
@@ -1091,7 +1091,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-pobe-cities-v2",
     type: "city",
     name: { de: "Pobè", hu: "Pobè", ro: "Pobè", en: "Pobè" },
-    coordinates: { lat: 6.9653, lng: 2.6783 },
+    coords: [2.6783, 6.9653],
     description: {
       de: "Pobè ist die Hauptstadt des Departements Plateau. Die Region ist bekannt für ihre umfangreichen Palmölplantagen.",
       hu: "Pobè a Plateau megye fővárosa. A régió kiterjedt pálmaolaj-ültetvényeiről ismert.",
@@ -1122,7 +1122,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-ketou-cities-v2",
     type: "city",
     name: { de: "Kétou", hu: "Kétou", ro: "Kétou", en: "Kétou" },
-    coordinates: { lat: 7.3614, lng: 2.6028 },
+    coords: [2.6028, 7.3614],
     description: {
       de: "Kétou ist eine historische Stadt im Departement Plateau. Sie war das Zentrum eines mächtigen Yoruba-Königreichs.",
       hu: "Kétou történelmi város a Plateau megyében. Egy hatalmas joruba királyság központja volt.",
@@ -1153,7 +1153,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-ifangni-cities-v2",
     type: "city",
     name: { de: "Ifangni", hu: "Ifangni", ro: "Ifangni", en: "Ifangni" },
-    coordinates: { lat: 6.6414, lng: 2.6667 },
+    coords: [2.6667, 6.6414],
     description: {
       de: "Ifangni liegt im Departement Plateau. Die Stadt ist ein lokales Handelszentrum im Süden Benins.",
       hu: "Ifangni a Plateau megyében fekszik. A város helyi kereskedelmi központ Benin déli részén.",
@@ -1184,7 +1184,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-adjohoun-cities-v2",
     type: "city",
     name: { de: "Adjohoun", hu: "Adjohoun", ro: "Adjohoun", en: "Adjohoun" },
-    coordinates: { lat: 6.6853, lng: 2.4939 },
+    coords: [2.4939, 6.6853],
     description: {
       de: "Adjohoun liegt im Departement Ouémé. Die Region ist landwirtschaftlich geprägt und grenzt an das Ouémé-Flusstal.",
       hu: "Adjohoun az Ouémé megyében található. A régió mezőgazdasági jellegű és az Ouémé-folyó völgyével határos.",
@@ -1215,7 +1215,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-dangbo-cities-v2",
     type: "city",
     name: { de: "Dangbo", hu: "Dangbo", ro: "Dangbo", en: "Dangbo" },
-    coordinates: { lat: 6.5683, lng: 2.5317 },
+    coords: [2.5317, 6.5683],
     description: {
       de: "Dangbo liegt im Departement Ouémé. Es ist ein lokaler Marktort in der Nähe der Stadt Porto-Novo.",
       hu: "Dangbo az Ouémé megyében fekszik. Helyi piac a Porto-Novo város közelében.",
@@ -1229,12 +1229,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Ouémé Department", "Near Porto-Novo", "Marketplace", "Rural"],
     },
     imageHint: "Dangbo market stalls",
+    descriptionAdvanced: {
+      de: "Dangbo ist eine Stadt und Kommune im Departement Ouémé in Benin, etwa 30 km nordöstlich von Porto-Novo. Die Bevölkerung beträgt rund 50.000 Einwohner, hauptsächlich der ethnischen Gruppe der Goun. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Mais, Maniok und Gemüse. Dangbo ist bekannt für seine traditionellen Märkte und das jährliche Festival der Goun-Kultur. Die Stadt hat eine Grundschule und ein Gesundheitszentrum.",
+      hu: "Dangbo város és község Benin Ouémé megyéjében, mintegy 30 km-re északkeletre Porto-Novótól. Lakossága körülbelül 50 000 fő, főként a goun etnikai csoporthoz tartoznak. A gazdaság a mezőgazdaságon alapul, különösen kukorica, manióka és zöldségek termelésén. Dangbo híres hagyományos piacairól és a goun kultúra éves fesztiváljáról. A városban általános iskola és egészségügyi központ működik.",
+      ro: "Dangbo este un oraș și o comună din departamentul Ouémé din Benin, la aproximativ 30 km nord-est de Porto-Novo. Populația este de aproximativ 50.000 de locuitori, în principal din grupul etnic Goun. Economia se bazează pe agricultură, în special porumb, manioc și legume. Dangbo este cunoscut pentru piețele sale tradiționale și festivalul anual al culturii Goun. Orașul are o școală primară și un centru de sănătate.",
+      en: "Dangbo is a town and commune in the Ouémé Department of Benin, about 30 km northeast of Porto-Novo. The population is around 50,000, mainly of the Goun ethnic group. The economy is based on agriculture, especially maize, cassava, and vegetables. Dangbo is known for its traditional markets and the annual Goun cultural festival. The town has a primary school and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 50.000", "Entfernung zu Porto-Novo: 30 km", "Durchschnittstemperatur: 27°C", "Niederschlag: 1200 mm/Jahr", "Markttag: Samstag", "Gegründet: 19. Jahrhundert"],
+      hu: ["Lakosság: 50.000", "Távolság Porto-Novótól: 30 km", "Átlaghőmérséklet: 27°C", "Csapadék: 1200 mm/év", "Piac nap: szombat", "Alapítva: 19. század"],
+      ro: ["Populație: 50.000", "Distanța până la Porto-Novo: 30 km", "Temperatura medie: 27°C", "Precipitații: 1200 mm/an", "Ziua de piață: sâmbătă", "Fondat: secolul al XIX-lea"],
+      en: ["Population: 50,000", "Distance to Porto-Novo: 30 km", "Average temperature: 27°C", "Rainfall: 1200 mm/year", "Market day: Saturday", "Founded: 19th century"],
+    },
   },
   {
     id: "benin-akpro-misserete-cities-v2",
     type: "city",
     name: { de: "Akpro-Missérété", hu: "Akpro-Missérété", ro: "Akpro-Missérété", en: "Akpro-Missérété" },
-    coordinates: { lat: 6.55, lng: 2.5833 },
+    coords: [2.5833, 6.55],
     description: {
       de: "Akpro-Missérété ist eine Stadt im Departement Ouémé. Sie liegt in der Nähe von Porto-Novo und ist stark urbanisiert.",
       hu: "Akpro-Missérété város az Ouémé megyében. Porto-Novo közelében található és erősen urbanizált.",
@@ -1248,12 +1260,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Ouémé Department", "Urbanized", "Near capital", "Residential area"],
     },
     imageHint: "Akpro-Misserete urban scene",
+    descriptionAdvanced: {
+      de: "Akpro-Missérété ist eine Kommune im Departement Ouémé in Benin, bestehend aus den Dörfern Akpro und Missérété. Sie liegt nahe der Grenze zu Nigeria und hat etwa 80.000 Einwohner. Die Wirtschaft ist landwirtschaftlich geprägt, mit Schwerpunkt auf Baumwolle und Palmöl. Die Kommune hat einen kleinen Markt und mehrere Grundschulen. Das Gebiet war im 19. Jahrhundert Teil des Königreichs Porto-Novo.",
+      hu: "Akpro-Missérété egy község Benin Ouémé megyéjében, amely Akpro és Missérété falvakból áll. Nigéria határához közel fekszik, és körülbelül 80 000 lakosa van. A gazdaság mezőgazdasági jellegű, a gyapot és a pálmaolaj a fő termékek. A községben kis piac és több általános iskola található. A terület a 19. században a Porto-Novo Királyság része volt.",
+      ro: "Akpro-Missérété este o comună din departamentul Ouémé din Benin, formată din satele Akpro și Missérété. Se află aproape de granița cu Nigeria și are aproximativ 80.000 de locuitori. Economia se bazează pe agricultură, în principal bumbac și ulei de palmier. Comuna are o piață mică și mai multe școli primare. Zona a făcut parte din Regatul Porto-Novo în secolul al XIX-lea.",
+      en: "Akpro-Missérété is a commune in the Ouémé Department of Benin, comprising the villages of Akpro and Missérété. It lies near the border with Nigeria and has about 80,000 residents. The economy is agricultural, focusing on cotton and palm oil. The commune has a small market and several primary schools. The area was part of the Kingdom of Porto-Novo in the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 80.000", "Fläche: 200 km²", "Baumwollproduktion: 500 t/Jahr", "Schulen: 5", "Markt: zweimal wöchentlich", "Grenze zu Nigeria: 10 km"],
+      hu: ["Lakosság: 80.000", "Terület: 200 km²", "Gyapottermelés: 500 t/év", "Iskolák száma: 5", "Piac: hetente kétszer", "Nigériai határ: 10 km"],
+      ro: ["Populație: 80.000", "Suprafață: 200 km²", "Producție de bumbac: 500 t/an", "Școli: 5", "Piață: de două ori pe săptămână", "Granța cu Nigeria: 10 km"],
+      en: ["Population: 80,000", "Area: 200 km²", "Cotton production: 500 t/year", "Schools: 5", "Market: twice weekly", "Distance to Nigeria border: 10 km"],
+    },
   },
   {
     id: "benin-avrankou-cities-v2",
     type: "city",
     name: { de: "Avrankou", hu: "Avrankou", ro: "Avrankou", en: "Avrankou" },
-    coordinates: { lat: 6.65, lng: 2.65 },
+    coords: [2.65, 6.65],
     description: {
       de: "Avrankou liegt im Departement Ouémé. Die Stadt ist ein lokales Handelszentrum nahe der Grenze zu Nigeria.",
       hu: "Avrankou az Ouémé megyében található. A város helyi kereskedelmi központ Nigéria határának közelében.",
@@ -1267,12 +1291,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Ouémé Department", "Near Nigeria border", "Trade", "Rural"],
     },
     imageHint: "Avrankou market",
+    descriptionAdvanced: {
+      de: "Avrankou ist eine Stadt und Kommune im Departement Ouémé in Benin, etwa 15 km nordöstlich von Porto-Novo. Mit rund 100.000 Einwohnern ist sie ein wichtiges landwirtschaftliches Zentrum für Mais, Maniok und Bohnen. Die Stadt ist bekannt für ihre Handwerkskunst, insbesondere Töpferei und Korbflechterei. Avrankou beherbergt ein Krankenhaus und mehrere Schulen. Die lokale Verwaltung fördert nachhaltige landwirtschaftliche Praktiken.",
+      hu: "Avrankou város és község Benin Ouémé megyéjében, mintegy 15 km-re északkeletre Porto-Novótól. Körülbelül 100 000 lakosával fontos mezőgazdasági központ kukorica, manióka és bab termesztésében. A város híres kézműves termékeiről, különösen a fazekasságról és a kosárfonásról. Avrankouban kórház és több iskola működik. A helyi önkormányzat a fenntartható mezőgazdasági gyakorlatokat támogatja.",
+      ro: "Avrankou este un oraș și o comună din departamentul Ouémé din Benin, la aproximativ 15 km nord-est de Porto-Novo. Cu aproximativ 100.000 de locuitori, este un important centru agricol pentru porumb, manioc și fasole. Orașul este cunoscut pentru mesteșugurile sale, în special olăritul și împletitura de coșuri. Avrankou găzduiește un spital și mai multe școli. Administrația locală promovează practici agricole durabile.",
+      en: "Avrankou is a town and commune in the Ouémé Department of Benin, about 15 km northeast of Porto-Novo. With around 100,000 inhabitants, it is an important agricultural center for maize, cassava, and beans. The town is known for its handicrafts, especially pottery and basket weaving. Avrankou hosts a hospital and several schools. Local government promotes sustainable agricultural practices.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 100.000", "Fläche: 250 km²", "Krankenhausbetten: 50", "Töpferwerkstätten: 30", "Niederschlag: 1100 mm/Jahr", "Gründungsjahr: 1900"],
+      hu: ["Lakosság: 100.000", "Terület: 250 km²", "Kórházi ágyak: 50", "Fazekasműhelyek: 30", "Csapadék: 1100 mm/év", "Alapítás éve: 1900"],
+      ro: ["Populație: 100.000", "Suprafață: 250 km²", "Paturi de spital: 50", "Ateliere de olărit: 30", "Precipitații: 1100 mm/an", "Anul fondării: 1900"],
+      en: ["Population: 100,000", "Area: 250 km²", "Hospital beds: 50", "Pottery workshops: 30", "Rainfall: 1100 mm/year", "Founded: 1900"],
+    },
   },
   {
     id: "benin-bonou-cities-v2",
     type: "city",
     name: { de: "Bonou", hu: "Bonou", ro: "Bonou", en: "Bonou" },
-    coordinates: { lat: 6.75, lng: 2.45 },
+    coords: [2.45, 6.75],
     description: {
       de: "Bonou liegt im Departement Ouémé entlang des Ouémé-Flusses. Die Wirtschaft basiert auf Fischerei und Landwirtschaft.",
       hu: "Bonou az Ouémé megyében, az Ouémé-folyó mentén fekszik. Gazdasága halászaton és mezőgazdaságon alapul.",
@@ -1286,12 +1322,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Ouémé Department", "Fishing", "Agriculture", "Ouémé river"],
     },
     imageHint: "Bonou river scene",
+    descriptionAdvanced: {
+      de: "Bonou ist eine Stadt und Kommune im Departement Ouémé in Benin, etwa 40 km nordwestlich von Porto-Novo. Die Bevölkerung beträgt rund 60.000, hauptsächlich Angehörige der Yoruba- und Goun-Ethnien. Die Wirtschaft basiert auf Landwirtschaft (Yams, Mais) und Viehzucht. Bonou hat einen Wochenmarkt und mehrere Grundschulen. Die Stadt ist bekannt für ihre traditionelle Architektur mit Lehmziegelhäusern.",
+      hu: "Bonou város és község Benin Ouémé megyéjében, mintegy 40 km-re északnyugatra Porto-Novótól. Lakossága körülbelül 60.000 fő, főként joruba és goun etnikumúak. A gazdaság a mezőgazdaságon (jam, kukorica) és állattenyésztésen alapul. Bonou-ban heti piac és több általános iskola működik. A város híres hagyományos agyagtégla építészetéről.",
+      ro: "Bonou este un oraș și o comună din departamentul Ouémé din Benin, la aproximativ 40 km nord-vest de Porto-Novo. Populația este de aproximativ 60.000, în principal de etnie yoruba și goun. Economia se bazează pe agricultură (igname, porumb) și creșterea animalelor. Bonou are o piață săptămânală și mai multe școli primare. Orașul este cunoscut pentru arhitectura sa tradițională din cărămidă de noroi.",
+      en: "Bonou is a town and commune in the Ouémé Department of Benin, about 40 km northwest of Porto-Novo. The population is around 60,000, primarily of Yoruba and Goun ethnicity. The economy is based on agriculture (yams, maize) and livestock. Bonou has a weekly market and several primary schools. The town is known for its traditional mud-brick architecture.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 60.000", "Entfernung zu Porto-Novo: 40 km", "Viehbestand: 10.000 Rinder", "Yamsproduktion: 2000 t/Jahr", "Schulen: 4", "Märkte: 1"],
+      hu: ["Lakosság: 60.000", "Távolság Porto-Novótól: 40 km", "Állatállomány: 10.000 szarvasmarha", "Jamtermelés: 2000 t/év", "Iskolák: 4", "Piacok: 1"],
+      ro: ["Populație: 60.000", "Distanța până la Porto-Novo: 40 km", "Efective de animale: 10.000 bovine", "Producție de igname: 2000 t/an", "Școli: 4", "Piețe: 1"],
+      en: ["Population: 60,000", "Distance to Porto-Novo: 40 km", "Livestock: 10,000 cattle", "Yam production: 2,000 t/year", "Schools: 4", "Markets: 1"],
+    },
   },
   {
     id: "benin-abomey-calavi-cities-v2",
     type: "city",
     name: { de: "Abomey-Calavi", hu: "Abomey-Calavi", ro: "Abomey-Calavi", en: "Abomey-Calavi" },
-    coordinates: { lat: 6.45, lng: 2.3667 },
+    coords: [2.3667, 6.45],
     description: {
       de: "Abomey-Calavi ist eine große Stadt in der Nähe von Cotonou im Departement Atlantique. Sie beherbergt die größte Universität des Landes.",
       hu: "Abomey-Calavi nagyváros Cotonou közelében, az Atlantique megyében. Az ország legnagyobb egyeteme található itt.",
@@ -1305,12 +1353,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Major city", "University of Abomey-Calavi", "Near Cotonou"],
     },
     imageHint: "Abomey-Calavi university campus",
+    descriptionAdvanced: {
+      de: "Abomey-Calavi ist eine Stadt und Kommune im Departement Atlantique in Benin, etwa 20 km nordwestlich von Cotonou. Mit über 650.000 Einwohnern ist sie eine der größten Städte Benins. Sie beherbergt die Universität von Abomey-Calavi (UAC), die größte Universität des Landes. Die Wirtschaft umfasst Landwirtschaft, Handel und Dienstleistungen. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und hat einen lebhaften Markt. Abomey-Calavi ist bekannt für seine kulturelle Vielfalt.",
+      hu: "Abomey-Calavi város és község Benin Atlantique megyéjében, mintegy 20 km-re északnyugatra Cotonoutól. Több mint 650 000 lakosával Benin egyik legnagyobb városa. Itt található az Abomey-Calavi Egyetem (UAC), az ország legnagyobb egyeteme. A gazdaság magában foglalja a mezőgazdaságot, kereskedelmet és szolgáltatásokat. A város fontos közlekedési csomópont, és élénk piaca van. Abomey-Calavi kulturális sokszínűségéről ismert.",
+      ro: "Abomey-Calavi este un oraș și o comună din departamentul Atlantique din Benin, la aproximativ 20 km nord-vest de Cotonou. Cu peste 650.000 de locuitori, este unul dintre cele mai mari orașe din Benin. Găzduiește Universitatea din Abomey-Calavi (UAC), cea mai mare universitate din țară. Economia include agricultură, comerț și servicii. Orașul este un important nod de transport și are o piață animată. Abomey-Calavi este cunoscut pentru diversitatea sa culturală.",
+      en: "Abomey-Calavi is a city and commune in the Atlantique Department of Benin, about 20 km northwest of Cotonou. With over 650,000 inhabitants, it is one of Benin's largest cities. It hosts the University of Abomey-Calavi (UAC), the country's largest university. The economy includes agriculture, commerce, and services. The city is a major transport hub and has a bustling market. Abomey-Calavi is known for its cultural diversity.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 650.000", "Fläche: 650 km²", "Universität gegründet 1970", "Studenten: 50.000", "Marktfläche: 5 ha", "Entfernung zu Cotonou: 20 km"],
+      hu: ["Lakosság: 650.000", "Terület: 650 km²", "Egyetem alapítva: 1970", "Hallgatók száma: 50.000", "Piac területe: 5 ha", "Távolság Cotonoutól: 20 km"],
+      ro: ["Populație: 650.000", "Suprafață: 650 km²", "Universitate fondată în 1970", "Studenți: 50.000", "Suprafața pieței: 5 ha", "Distanța până la Cotonou: 20 km"],
+      en: ["Population: 650,000", "Area: 650 km²", "University founded in 1970", "Students: 50,000", "Market area: 5 ha", "Distance to Cotonou: 20 km"],
+    },
   },
   {
     id: "benin-ouidah-cities-v2",
     type: "city",
     name: { de: "Ouidah", hu: "Ouidah", ro: "Ouidah", en: "Ouidah" },
-    coordinates: { lat: 6.3667, lng: 2.0833 },
+    coords: [2.0833, 6.3667],
     description: {
       de: "Ouidah ist eine historische Küstenstadt im Departement Atlantique. Sie war einst ein bedeutendes Zentrum des Sklavenhandels.",
       hu: "Ouidah történelmi tengerparti város az Atlantique megyében. Egykor a rabszolga-kereskedelem jelentős központja volt.",
@@ -1324,12 +1384,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Historical", "Coast", "Slave trade history"],
     },
     imageHint: "Ouidah slave route museum",
+    descriptionAdvanced: {
+      de: "Ouidah ist eine historische Stadt im Departement Atlantique in Benin, etwa 40 km westlich von Cotonou. Sie war ein wichtiger Hafen für den atlantischen Sklavenhandel und ist heute ein UNESCO-Weltkulturerbe-Kandidat. Die Stadt hat rund 90.000 Einwohner und ist bekannt für die Sklavenroute, das Museum von Ouidah und den Python-Tempel. Die Wirtschaft basiert auf Tourismus, Fischerei und Landwirtschaft. Ouidah beherbergt das jährliche Festival der Voodoo-Kultur.",
+      hu: "Ouidah történelmi város Benin Atlantique megyéjében, mintegy 40 km-re nyugatra Cotonoutól. Fontos kikötő volt az atlanti rabszolga-kereskedelem számára, ma pedig az UNESCO világörökség javasolt helyszíne. A városnak körülbelül 90.000 lakosa van, és ismert a rabszolga útvonalról, az Ouidah Múzeumról és a Piton Templomról. A gazdaság a turizmuson, halászaton és mezőgazdaságon alapul. Ouidah ad otthont a voodoo kultúra éves fesztiváljának.",
+      ro: "Ouidah este un oraș istoric în departamentul Atlantique din Benin, la aproximativ 40 km vest de Cotonou. A fost un port important pentru comerțul transatlantic cu sclavi și este acum un candidat la Patrimoniul Mondial UNESCO. Orașul are aproximativ 90.000 de locuitori și este cunoscut pentru Ruta Sclavilor, Muzeul Ouidah și Templul Pitonilor. Economia se bazează pe turism, pescuit și agricultură. Ouidah găzduiește festivalul anual al culturii Voodoo.",
+      en: "Ouidah is a historic city in the Atlantique Department of Benin, about 40 km west of Cotonou. It was a major port for the Atlantic slave trade and is now a UNESCO World Heritage candidate. The city has about 90,000 inhabitants and is known for the Slave Route, the Ouidah Museum, and the Python Temple. The economy is based on tourism, fishing, and agriculture. Ouidah hosts the annual Voodoo cultural festival.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 90.000", "Sklavenroute: 4 km lang", "Museum eröffnet 1967", "Python-Tempel: 1857 erbaut", "Festival: Januar", "Entfernung zu Cotonou: 40 km"],
+      hu: ["Lakosság: 90.000", "Rabszolga útvonal: 4 km hosszú", "Múzeum megnyílt: 1967", "Piton Templom: 1857-ben épült", "Fesztivál: január", "Távolság Cotonoutól: 40 km"],
+      ro: ["Populație: 90.000", "Ruta Sclavilor: 4 km lungime", "Muzeu deschis în 1967", "Templul Pitonilor construit în 1857", "Festival: ianuarie", "Distanța până la Cotonou: 40 km"],
+      en: ["Population: 90,000", "Slave Route: 4 km long", "Museum opened in 1967", "Python Temple built in 1857", "Festival: January", "Distance to Cotonou: 40 km"],
+    },
   },
   {
     id: "benin-allada-cities-v2",
     type: "city",
     name: { de: "Allada", hu: "Allada", ro: "Allada", en: "Allada" },
-    coordinates: { lat: 6.6667, lng: 2.15 },
+    coords: [2.15, 6.6667],
     description: {
       de: "Allada liegt im Departement Atlantique. Die Stadt war einst die Hauptstadt des mächtigen Königreichs Allada.",
       hu: "Allada az Atlantique megyében található. A város egykor a hatalmas Allada királyság fővárosa volt.",
@@ -1343,12 +1415,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Former capital", "Allada kingdom", "Historical"],
     },
     imageHint: "Allada historical monument",
+    descriptionAdvanced: {
+      de: "Allada ist eine historische Stadt im Departement Atlantique in Benin, etwa 50 km nordwestlich von Cotonou. Sie war die Hauptstadt des Königreichs Allada, das im 16. Jahrhundert existierte. Heute hat die Stadt rund 80.000 Einwohner. Allada ist bekannt für den Königspalast, der heute ein Museum ist, und für seine traditionellen Feste. Die Wirtschaft umfasst Landwirtschaft und Kunsthandwerk. Die Stadt ist ein wichtiger Ort für die Erforschung der Geschichte der afrikanischen Königreiche.",
+      hu: "Allada történelmi város Benin Atlantique megyéjében, mintegy 50 km-re északnyugatra Cotonoutól. A 16. században létezett Allada Királyság fővárosa volt. Ma a városnak körülbelül 80.000 lakosa van. Allada híres a királyi palotáról, amely ma múzeum, és hagyományos fesztiváljairól. A gazdaság magában foglalja a mezőgazdaságot és a kézművességet. A város fontos hely az afrikai királyságok történelmének kutatásában.",
+      ro: "Allada este un oraș istoric în departamentul Atlantique din Benin, la aproximativ 50 km nord-vest de Cotonou. A fost capitala Regatului Allada, care a existat în secolul al XVI-lea. Astăzi orașul are aproximativ 80.000 de locuitori. Allada este cunoscut pentru Palatul Regal, acum muzeu, și pentru festivalurile sale tradiționale. Economia include agricultura și meșteșugurile. Orașul este un loc important pentru studiul istoriei regatelor africane.",
+      en: "Allada is a historic city in the Atlantique Department of Benin, about 50 km northwest of Cotonou. It was the capital of the Kingdom of Allada, which existed in the 16th century. Today the city has about 80,000 inhabitants. Allada is known for the Royal Palace, now a museum, and its traditional festivals. The economy includes agriculture and handicrafts. The city is an important site for researching the history of African kingdoms.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 80.000", "Königspalast erbaut 1570", "Museum seit 1945", "Festival: November", "Fläche: 300 km²", "Entfernung zu Cotonou: 50 km"],
+      hu: ["Lakosság: 80.000", "Királyi palota épült 1570", "Múzeum 1945 óta", "Fesztivál: november", "Terület: 300 km²", "Távolság Cotonoutól: 50 km"],
+      ro: ["Populație: 80.000", "Palatul Regal construit în 1570", "Muzeu din 1945", "Festival: noiembrie", "Suprafață: 300 km²", "Distanța până la Cotonou: 50 km"],
+      en: ["Population: 80,000", "Royal Palace built in 1570", "Museum since 1945", "Festival: November", "Area: 300 km²", "Distance to Cotonou: 50 km"],
+    },
   },
   {
     id: "benin-toffi-cities-v2",
     type: "city",
     name: { de: "Toffo", hu: "Toffo", ro: "Toffo", en: "Toffo" },
-    coordinates: { lat: 6.85, lng: 2.1 },
+    coords: [2.1, 6.85],
     description: {
       de: "Toffo liegt im Departement Atlantique. Die Region ist landwirtschaftlich geprägt und von grüner Vegetation umgeben.",
       hu: "Toffo az Atlantique megyében található. A régió mezőgazdasági jellegű és zöld növényzettel van körülvéve.",
@@ -1362,12 +1446,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Agriculture", "Green", "Rural"],
     },
     imageHint: "Toffo green fields",
+    descriptionAdvanced: {
+      de: "Toffo ist eine Stadt und Kommune im Departement Atlantique in Benin, etwa 60 km nördlich von Cotonou. Die Bevölkerung beträgt rund 70.000, hauptsächlich Angehörige der Fon-Ethnie. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Palmöl, Mais und Maniok. Toffo hat einen Gesundheitsposten und mehrere Grundschulen. Die Stadt ist für ihre traditionellen Tänze und Musik bekannt, die bei lokalen Festen aufgeführt werden.",
+      hu: "Toffo város és község Benin Atlantique megyéjében, mintegy 60 km-re északra Cotonoutól. Lakossága körülbelül 70.000 fő, főként fon etnikumúak. A gazdaság a mezőgazdaságon alapul, különösen pálmaolaj, kukorica és manióka. Toffo-ban egészségügyi állomás és több általános iskola működik. A város híres hagyományos táncairól és zenéjéről, amelyeket helyi ünnepeken adnak elő.",
+      ro: "Toffo este un oraș și o comună din departamentul Atlantique din Benin, la aproximativ 60 km nord de Cotonou. Populația este de aproximativ 70.000 de locuitori, în principal de etnie Fon. Economia se bazează pe agricultură, în special ulei de palmier, porumb și manioc. Toffo are un post de sănătate și mai multe școli primare. Orașul este cunoscut pentru dansurile și muzica tradițională, prezentate la festivaluri locale.",
+      en: "Toffo is a town and commune in the Atlantique Department of Benin, about 60 km north of Cotonou. The population is around 70,000, mainly of the Fon ethnic group. The economy is based on agriculture, especially palm oil, maize, and cassava. Toffo has a health post and several primary schools. The town is known for its traditional dances and music performed at local festivals.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 70.000", "Fläche: 400 km²", "Palmölproduktion: 1000 t/Jahr", "Schulen: 6", "Gesundheitsposten: 1", "Festival: August"],
+      hu: ["Lakosság: 70.000", "Terület: 400 km²", "Pálmaolaj termelés: 1000 t/év", "Iskolák: 6", "Egészségügyi állomás: 1", "Fesztivál: augusztus"],
+      ro: ["Populație: 70.000", "Suprafață: 400 km²", "Producție ulei de palmier: 1000 t/an", "Școli: 6", "Post de sănătate: 1", "Festival: august"],
+      en: ["Population: 70,000", "Area: 400 km²", "Palm oil production: 1,000 t/year", "Schools: 6", "Health posts: 1", "Festival: August"],
+    },
   },
   {
     id: "benin-ze-cities-v2",
     type: "city",
     name: { de: "Zè", hu: "Zè", ro: "Zè", en: "Zè" },
-    coordinates: { lat: 6.6333, lng: 2.25 },
+    coords: [2.25, 6.6333],
     description: {
       de: "Zè liegt im Departement Atlantique. Die Stadt ist ein lokaler Marktort und landwirtschaftlich aktiv.",
       hu: "Zè az Atlantique megyében található. A város helyi piac és mezőgazdaságilag aktív.",
@@ -1381,12 +1477,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Marketplace", "Agriculture", "Southern Benin"],
     },
     imageHint: "Ze market street",
+    descriptionAdvanced: {
+      de: "Zè ist eine Stadt und Kommune im Departement Atlantique in Benin, etwa 50 km nördlich von Cotonou. Die Bevölkerung beträgt rund 60.000. Die Wirtschaft basiert auf Landwirtschaft (Mais, Maniok) und Handwerk. Zè hat einen Markt, eine Sekundarschule und ein Gesundheitszentrum. Die Stadt ist bekannt für ihre traditionelle Webkunst, insbesondere Baumwollstoffe. Die Umgebung ist geprägt von Palmenhainen und Savannen.",
+      hu: "Zè város és község Benin Atlantique megyéjében, mintegy 50 km-re északra Cotonoutól. Lakossága körülbelül 60.000 fő. A gazdaság a mezőgazdaságon (kukorica, manióka) és kézművességen alapul. Zè-ben piac, középiskola és egészségügyi központ működik. A város híres hagyományos szövéséről, különösen a pamutszövetekről. A környéket pálmaligetek és szavannák jellemzik.",
+      ro: "Zè este un oraș și o comună din departamentul Atlantique din Benin, la aproximativ 50 km nord de Cotonou. Populația este de aproximativ 60.000 de locuitori. Economia se bazează pe agricultură (porumb, manioc) și meșteșuguri. Zè are o piață, o școală secundară și un centru de sănătate. Orașul este cunoscut pentru țesutul tradițional, în special țesături de bumbac. Împrejurimile sunt caracterizate de palmieri și savane.",
+      en: "Zè is a town and commune in the Atlantique Department of Benin, about 50 km north of Cotonou. The population is around 60,000. The economy is based on agriculture (maize, cassava) and handicrafts. Zè has a market, a secondary school, and a health center. The town is known for its traditional weaving, especially cotton fabrics. The surrounding area features palm groves and savannas.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 60.000", "Fläche: 350 km²", "Webereien: 20", "Markttag: Donnerstag", "Entfernung zu Cotonou: 50 km", "Durchschnittstemperatur: 28°C"],
+      hu: ["Lakosság: 60.000", "Terület: 350 km²", "Szövőműhelyek: 20", "Piac nap: csütörtök", "Távolság Cotonoutól: 50 km", "Átlaghőmérséklet: 28°C"],
+      ro: ["Populație: 60.000", "Suprafață: 350 km²", "Ateliere de țesut: 20", "Ziua de piață: joi", "Distanța până la Cotonou: 50 km", "Temperatura medie: 28°C"],
+      en: ["Population: 60,000", "Area: 350 km²", "Weaving workshops: 20", "Market day: Thursday", "Distance to Cotonou: 50 km", "Average temperature: 28°C"],
+    },
   },
   {
     id: "benin-kpomassè-cities-v2",
     type: "city",
     name: { de: "Kpomassè", hu: "Kpomassè", ro: "Kpomassè", en: "Kpomassè" },
-    coordinates: { lat: 6.4167, lng: 2.1833 },
+    coords: [2.1833, 6.4167],
     description: {
       de: "Kpomassè liegt im Departement Atlantique. Die Region ist für ihre Nähe zum Lake Ahémé bekannt.",
       hu: "Kpomassè az Atlantique megyében található. A régió az Ahémé-tóhoz való közelségéről ismert.",
@@ -1400,12 +1508,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Near Lake Ahémé", "Landscape", "Rural"],
     },
     imageHint: "Kpomasse landscape",
+    descriptionAdvanced: {
+      de: "Kpomassè ist eine Stadt und Kommune im Departement Atlantique in Benin, etwa 30 km nordwestlich von Cotonou. Die Bevölkerung beträgt rund 50.000. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Gemüseanbau und Viehzucht. Kpomassè hat einen Wochenmarkt und mehrere Grundschulen. Die Stadt ist bekannt für ihre Seefahrtstradition, da sie nahe dem Nokoué-See liegt. Der lokale Fischmarkt ist ein wichtiger Anziehungspunkt.",
+      hu: "Kpomassè város és község Benin Atlantique megyéjében, mintegy 30 km-re északnyugatra Cotonoutól. Lakossága körülbelül 50.000 fő. A gazdaság a mezőgazdaságon, különösen zöldségtermesztésen és állattenyésztésen alapul. Kpomassè-ban heti piac és több általános iskola működik. A város híres tengerészeti hagyományairól, mivel közel fekszik a Nokoué-tóhoz. A helyi halpiac fontos vonzerő.",
+      ro: "Kpomassè este un oraș și o comună din departamentul Atlantique din Benin, la aproximativ 30 km nord-vest de Cotonou. Populația este de aproximativ 50.000 de locuitori. Economia se bazează pe agricultură, în special cultivarea legumelor și creșterea animalelor. Kpomassè are o piață săptămânală și mai multe școli primare. Orașul este cunoscut pentru tradițiile sale maritime, deoarece este situat aproape de Lacul Nokoué. Piața locală de pește este o atracție importantă.",
+      en: "Kpomassè is a town and commune in the Atlantique Department of Benin, about 30 km northwest of Cotonou. The population is around 50,000. The economy is based on agriculture, especially vegetable farming and livestock. Kpomassè has a weekly market and several primary schools. The town is known for its maritime traditions, as it is located near Lake Nokoué. The local fish market is a major attraction.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 50.000", "Entfernung zu Cotonou: 30 km", "Fischproduktion: 500 t/Jahr", "Viehbestand: 5.000 Rinder", "Schulen: 5", "Markttag: Mittwoch"],
+      hu: ["Lakosság: 50.000", "Távolság Cotonoutól: 30 km", "Halfogás: 500 t/év", "Állatállomány: 5.000 szarvasmarha", "Iskolák: 5", "Piac nap: szerda"],
+      ro: ["Populație: 50.000", "Distanța până la Cotonou: 30 km", "Producție de pește: 500 t/an", "Efective de animale: 5.000 bovine", "Școli: 5", "Ziua de piață: miercuri"],
+      en: ["Population: 50,000", "Distance to Cotonou: 30 km", "Fish production: 500 t/year", "Livestock: 5,000 cattle", "Schools: 5", "Market day: Wednesday"],
+    },
   },
   {
     id: "benin-torri-bossito-cities-v2",
     type: "city",
     name: { de: "Torri-Bossito", hu: "Torri-Bossito", ro: "Torri-Bossito", en: "Torri-Bossito" },
-    coordinates: { lat: 6.4667, lng: 2.2333 },
+    coords: [2.2333, 6.4667],
     description: {
       de: "Torri-Bossito liegt im Departement Atlantique. Die Stadt ist ein aufstrebender Vorort im Großraum Cotonou.",
       hu: "Torri-Bossito az Atlantique megyében található. A város egy feltörekvő előváros a Cotonou régióban.",
@@ -1419,12 +1539,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Atlantique Department", "Suburb of Cotonou", "Growth", "Residential area"],
     },
     imageHint: "Torri-Bossito suburban road",
+    descriptionAdvanced: {
+      de: "Torri-Bossito ist eine Stadt und Kommune im Departement Atlantique in Benin, etwa 40 km nordwestlich von Cotonou. Die Bevölkerung beträgt rund 55.000. Die Wirtschaft basiert auf Landwirtschaft (Mais, Maniok) und Kleinviehzucht. Der Ort verfügt über einen Gesundheitsposten und Grundschulen. Torri-Bossito ist umgeben von landwirtschaftlich genutzten Flächen und hat eine ländliche Atmosphäre. Die lokale Bevölkerung pflegt traditionelle Bräuche und Feste.",
+      hu: "Torri-Bossito város és község Benin Atlantique megyéjében, mintegy 40 km-re északnyugatra Cotonoutól. Lakossága körülbelül 55.000 fő. A gazdaság a mezőgazdaságon (kukorica, manióka) és a kisállat-tenyésztésen alapul. A településen egészségügyi állomás és általános iskolák működnek. Torri-Bossito-t mezőgazdasági területek veszik körül, vidéki hangulatú. A helyi lakosság ápolja a hagyományos szokásokat és ünnepeket.",
+      ro: "Torri-Bossito este un oraș și o comună din departamentul Atlantique din Benin, la aproximativ 40 km nord-vest de Cotonou. Populația este de aproximativ 55.000 de locuitori. Economia se bazează pe agricultură (porumb, manioc) și creșterea animalelor mici. Localitatea are un post de sănătate și școli primare. Torri-Bossito este înconjurat de terenuri agricole și are o atmosferă rurală. Populația locală păstrează obiceiurile și festivalurile tradiționale.",
+      en: "Torri-Bossito is a town and commune in the Atlantique Department of Benin, about 40 km northwest of Cotonou. The population is around 55,000. The economy is based on agriculture (maize, cassava) and small livestock. The locality has a health post and primary schools. Torri-Bossito is surrounded by agricultural land and has a rural atmosphere. The local people maintain traditional customs and festivals.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 55.000", "Fläche: 200 km²", "Kleinviehbestand: 20.000 Ziegen", "Schulen: 4", "Gesundheitsposten: 1", "Entfernung zu Cotonou: 40 km"],
+      hu: ["Lakosság: 55.000", "Terület: 200 km²", "Kisállat állomány: 20.000 kecske", "Iskolák: 4", "Egészségügyi állomás: 1", "Távolság Cotonoutól: 40 km"],
+      ro: ["Populație: 55.000", "Suprafață: 200 km²", "Efective de animale mici: 20.000 capre", "Școli: 4", "Post de sănătate: 1", "Distanța până la Cotonou: 40 km"],
+      en: ["Population: 55,000", "Area: 200 km²", "Small livestock: 20,000 goats", "Schools: 4", "Health posts: 1", "Distance to Cotonou: 40 km"],
+    },
   },
   {
     id: "benin-comè-cities-v2",
     type: "city",
     name: { de: "Comè", hu: "Comè", ro: "Comè", en: "Comè" },
-    coordinates: { lat: 6.4, lng: 1.8833 },
+    coords: [1.8833, 6.4],
     description: {
       de: "Comè ist eine Stadt im Departement Mono. Sie dient als Verwaltungssitz für den umliegenden Distrikt.",
       hu: "Comè város a Mono megyében. A környező kerület közigazgatási központjaként szolgál.",
@@ -1438,12 +1570,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Mono Department", "Administrative seat", "Southern Benin", "Local trade"],
     },
     imageHint: "Come town administration",
+    descriptionAdvanced: {
+      de: "Comè ist eine Stadt im Südwesten Benins, gelegen im Département Mono an der Grenze zu Togo. Die Stadt dient als wichtiger Handelsknotenpunkt für landwirtschaftliche Produkte wie Mais, Maniok und Baumwolle. Gegründet im 19. Jahrhundert als Teil des Königreichs Dahomey, wuchs Comè durch den Grenzhandel. Die Bevölkerung besteht hauptsächlich aus der ethnischen Gruppe der Adja. Comè hat eine Fläche von etwa 1.200 km² und ist Verwaltungssitz der gleichnamigen Kommune. Die Stadt verfügt über einen Markt, der regionale Bedeutung hat. In den letzten Jahrzehnten erlebte Comè ein moderates Bevölkerungswachstum, mit etwa 75.000 Einwohnern laut Schätzungen von 2013.",
+      hu: "Comè város Benin délnyugati részén, a Mono megyében, a togói határ közelében található. Gazdasági szerepe a határmenti kereskedelemben rejlik, főként mezőgazdasági termékek, mint kukorica, manióka és gyapot cseréje. A várost a 19. században alapították, és a Dahomey Királyság része volt. Lakossága túlnyomórészt adja etnikumú. Comè területe körülbelül 1200 km², és az azonos nevű község székhelye. A város piaca regionális jelentőségű. Népessége hozzávetőlegesen 75 000 fő (2013-as becslés). Az utóbbi évtizedekben mérsékelt növekedést mutatott.",
+      ro: "Comè este un oraș în sud-vestul Beninului, în departamentul Mono, aproape de granița cu Togo. Funcționează ca un nod comercial important pentru produse agricole precum porumb, manioc și bumbac. Fondat în secolul al XIX-lea ca parte a Regatului Dahomey, Comè s-a dezvoltat datorită comerțului transfrontalier. Populația este compusă în principal din etnia adja. Orașul are o suprafață de aproximativ 1.200 km² și este reședința comunei omonime. Piața locală are importanță regională. În ultimele decenii, Comè a cunoscut o creștere moderată a populației, ajungând la aproximativ 75.000 de locuitori (estimare 2013).",
+      en: "Comè is a town in southwestern Benin, located in the Mono Department near the border with Togo. It serves as a key trading hub for agricultural products such as maize, cassava, and cotton. Founded in the 19th century as part of the Kingdom of Dahomey, Comè grew due to cross-border trade. The population is predominantly of the Adja ethnic group. The town covers an area of about 1,200 km² and is the administrative seat of the Commune of Comè. Its market holds regional significance. In recent decades, Comè has experienced moderate population growth, with an estimated 75,000 inhabitants as of 2013.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1.200 km²", "Bevölkerung: etwa 75.000 (2013)", "Höhe: ca. 10 m über dem Meeresspiegel", "Gegründet im 19. Jahrhundert", "Wichtigste ethnische Gruppe: Adja", "Durchschnittliche Jahrestemperatur: 27°C"],
+      hu: ["Terület: kb. 1200 km²", "Népesség: hozzávetőlegesen 75 000 fő (2013)", "Tengerszint feletti magasság: kb. 10 m", "Alapítás: 19. század", "Legfontosabb etnikai csoport: adja", "Átlagos évi hőmérséklet: 27°C"],
+      ro: ["Suprafață: aprox. 1.200 km²", "Populație: circa 75.000 (2013)", "Altitudine: aprox. 10 m deasupra nivelului mării", "Fondat în secolul al XIX-lea", "Grup etnic principal: Adja", "Temperatura medie anuală: 27°C"],
+      en: ["Area: approx. 1,200 km²", "Population: about 75,000 (2013)", "Elevation: approx. 10 m above sea level", "Founded in the 19th century", "Main ethnic group: Adja", "Average annual temperature: 27°C"],
+    },
   },
   {
     id: "benin-lokossa-cities-v2",
     type: "city",
     name: { de: "Lokossa", hu: "Lokossa", ro: "Lokossa", en: "Lokossa" },
-    coordinates: { lat: 6.6333, lng: 1.7167 },
+    coords: [1.7167, 6.6333],
     description: {
       de: "Lokossa ist die Hauptstadt des Departements Mono. Die Stadt liegt in einem landwirtschaftlich genutzten Gebiet.",
       hu: "Lokossa a Mono megye fővárosa. A város egy mezőgazdaságilag használt területen fekszik.",
@@ -1457,12 +1601,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Capital of Mono", "Agriculture", "Southwestern Benin", "Important market town"],
     },
     imageHint: "Lokossa market",
+    descriptionAdvanced: {
+      de: "Lokossa ist die Hauptstadt des Départements Mono im Südwesten Benins. Die Stadt liegt etwa 100 Kilometer westlich von Cotonou und ist ein landwirtschaftliches Zentrum, insbesondere für Palmöl, Mais und Maniok. Gegründet im 19. Jahrhundert, wurde Lokossa 1960 Verwaltungssitz. Die Bevölkerungszahl beträgt etwa 106.000 (2013). Lokossa beherbergt den Sitz einer katholischen Diözese und mehrere Bildungseinrichtungen, darunter eine Zweigstelle der Universität Abomey-Calavi. Die Stadt ist durch die Nationalstraße RN2 an das Straßennetz angebunden. Das tropische Klima ist durch eine Regen- und eine Trockenzeit gekennzeichnet.",
+      hu: "Lokossa Benin délnyugati részén, a Mono megye székhelye, mintegy 100 km-re nyugatra Cotonoutól. Mezőgazdasági központ, főként pálmaolaj, kukorica és manióka termelésével. A várost a 19. században alapították, 1960-ban lett megyeszékhely. Lakossága körülbelül 106 000 fő (2013). Lokossa ad otthont egy katolikus egyházmegye székhelyének és több oktatási intézménynek, köztük az Abomey-Calavi Egyetem kihelyezett tagozatának. A város a RN2-es nemzeti úton közelíthető meg. Az éghajlat trópusi, esős és száraz évszakokkal.",
+      ro: "Lokossa este capitala departamentului Mono din sud-vestul Beninului, situată la aproximativ 100 km vest de Cotonou. Este un centru agricol, în special pentru ulei de palmier, porumb și manioc. Fondat în secolul al XIX-lea, Lokossa a devenit reședință departamentală în 1960. Populația este de aproximativ 106.000 (2013). Orașul găzduiește sediul unei eparhii catolice și mai multe instituții de învățământ, inclusiv o filială a Universității Abomey-Calavi. Este accesibil pe drumul național RN2. Clima este tropicală, cu un sezon ploios și unul uscat.",
+      en: "Lokossa is the capital of the Mono Department in southwestern Benin, located about 100 kilometers west of Cotonou. It is an agricultural center, especially for palm oil, maize, and cassava. Founded in the 19th century, Lokossa became the departmental seat in 1960. The population is about 106,000 (2013). Lokossa hosts the seat of a Catholic diocese and several educational institutions, including a branch of the University of Abomey-Calavi. The town is accessible via National Road RN2. The climate is tropical, with a rainy and a dry season.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Départements Mono", "Bevölkerung: etwa 106.000 (2013)", "Entfernung zu Cotonou: ca. 100 km westlich", "Verwaltungssitz seit 1960", "Landwirtschaft: Palmöl, Mais, Maniok", "Höhe: ca. 50 m über dem Meeresspiegel"],
+      hu: ["Mono megye székhelye", "Népesség: kb. 106 000 fő (2013)", "Távolság Cotonoutól: kb. 100 km nyugatra", "Megyeszékhely 1960 óta", "Mezőgazdaság: pálmaolaj, kukorica, manióka", "Tengerszint feletti magasság: kb. 50 m"],
+      ro: ["Capitala departamentului Mono", "Populație: circa 106.000 (2013)", "Distanță față de Cotonou: aprox. 100 km vest", "Reședință departamentală din 1960", "Agricultură: ulei de palmier, porumb, manioc", "Altitudine: aprox. 50 m deasupra nivelului mării"],
+      en: ["Capital of Mono Department", "Population: about 106,000 (2013)", "Distance to Cotonou: approx. 100 km west", "Became departmental seat in 1960", "Agriculture: palm oil, maize, cassava", "Elevation: approx. 50 m above sea level"],
+    },
   },
   {
     id: "benin-houeyogbe-cities-v2",
     type: "city",
     name: { de: "Houéyogbé", hu: "Houéyogbé", ro: "Houéyogbé", en: "Houéyogbé" },
-    coordinates: { lat: 6.55, lng: 1.8333 },
+    coords: [1.8333, 6.55],
     description: {
       de: "Houéyogbé liegt im Departement Mono. Die Region ist von Ackerland und kleinen Dörfern geprägt.",
       hu: "Houéyogbé a Mono megyében található. A régiót termőföldek és kis falvak jellemzik.",
@@ -1476,12 +1632,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Mono Department", "Agriculture", "Village", "Southern Benin"],
     },
     imageHint: "Houeyogbe rural fields",
+    descriptionAdvanced: {
+      de: "Houéyogbé ist eine Gemeinde im Département Mono im Südwesten Benins. Sie liegt etwa 20 Kilometer nordöstlich von Lokossa. Die Landwirtschaft dominiert die Wirtschaft, mit Anbau von Mais, Maniok, Bohnen und Baumwolle. Houéyogbé hat eine Fläche von etwa 350 km². Die Bevölkerung beträgt rund 50.000 (2013). Der Ort ist bekannt für seine traditionelle Architektur, darunter Häuser mit Lehmwänden und Strohdächern. Die Anlage des Ortes erfolgte im 18. Jahrhundert. Houéyogbé hat keinen großen Tourismus, aber kulturelle Veranstaltungen wie lokale Feste ziehen Besucher an.",
+      hu: "Houéyogbé egy község Benin délnyugati részén, a Mono megyében, körülbelül 20 km-re északkeletre Lokossától. Gazdaságát a mezőgazdaság uralja: kukorica, manióka, bab és gyapot termesztése. Területe kb. 350 km². Népessége hozzávetőlegesen 50 000 fő (2013). A település híres hagyományos építészetéről, vályogházairól és szalmatetőiről. A 18. században alapították. Houéyogbé nem rendelkezik nagy turizmussal, de kulturális eseményei, mint a helyi fesztiválok, látogatókat vonzanak.",
+      ro: "Houéyogbé este o comună în departamentul Mono din sud-vestul Beninului, situată la aproximativ 20 km nord-est de Lokossa. Economia este dominată de agricultură: porumb, manioc, fasole și bumbac. Suprafața este de aproximativ 350 km². Populația este de circa 50.000 (2013). Localitatea este cunoscută pentru arhitectura tradițională, cu case din lut și acoperișuri de paie. A fost fondată în secolul al XVIII-lea. Houéyogbé nu are un turism dezvoltat, dar evenimente culturale precum festivalurile locale atrag vizitatori.",
+      en: "Houéyogbé is a commune in the Mono Department of southwestern Benin, located about 20 kilometers northeast of Lokossa. Agriculture dominates the economy, with crops such as maize, cassava, beans, and cotton. The commune covers an area of about 350 km². The population is around 50,000 (2013). The settlement is known for its traditional architecture, including mud-walled houses with thatched roofs. It was founded in the 18th century. Houéyogbé has limited tourism, but cultural events such as local festivals attract visitors.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 350 km²", "Bevölkerung: rund 50.000 (2013)", "Entfernung zu Lokossa: ca. 20 km nordöstlich", "Gegründet im 18. Jahrhundert", "Hauptanbauprodukte: Mais, Maniok, Bohnen, Baumwolle", "Höhe: ca. 60 m über dem Meeresspiegel"],
+      hu: ["Terület: kb. 350 km²", "Népesség: kb. 50 000 fő (2013)", "Távolság Lokossától: kb. 20 km északkeletre", "Alapítás: 18. század", "Főbb termények: kukorica, manióka, bab, gyapot", "Tengerszint feletti magasság: kb. 60 m"],
+      ro: ["Suprafață: aprox. 350 km²", "Populație: circa 50.000 (2013)", "Distanță față de Lokossa: aprox. 20 km nord-est", "Fondat în secolul al XVIII-lea", "Culturi principale: porumb, manioc, fasole, bumbac", "Altitudine: aprox. 60 m deasupra nivelului mării"],
+      en: ["Area: approx. 350 km²", "Population: around 50,000 (2013)", "Distance to Lokossa: approx. 20 km northeast", "Founded in the 18th century", "Main crops: maize, cassava, beans, cotton", "Elevation: approx. 60 m above sea level"],
+    },
   },
   {
     id: "benin-bopa-cities-v2",
     type: "city",
     name: { de: "Bopa", hu: "Bopa", ro: "Bopa", en: "Bopa" },
-    coordinates: { lat: 6.5833, lng: 1.95 },
+    coords: [1.95, 6.5833],
     description: {
       de: "Bopa liegt im Departement Mono am Rande des Lake Ahémé. Die Fischerei ist ein bedeutender Wirtschaftsfaktor.",
       hu: "Bopa a Mono megyében, az Ahémé-tó szélén található. A halászat jelentős gazdasági tényező.",
@@ -1495,12 +1663,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Mono Department", "Lake Ahémé", "Fishing", "Landscape"],
     },
     imageHint: "Bopa fishing boats on lake",
+    descriptionAdvanced: {
+      de: "Bopa ist eine Stadt und Gemeinde im Département Mono im Südwesten Benins. Sie liegt etwa 15 Kilometer südwestlich von Lokossa nahe der togolesischen Grenze. Die Wirtschaft basiert auf Landwirtschaft, Fischerei (Tove-See) und Handel. Bopa hat eine Fläche von etwa 450 km². Die Bevölkerung beträgt rund 40.000 (2013). Die Stadt ist bekannt für ihren großen Markt, der insbesondere Fisch und landwirtschaftliche Erzeugnisse umschlägt. Gegründet im 19. Jahrhundert, diente Bopa als Handelsstation für Sklaven und später für Palmöl. Heute ist die Stadt ein wichtiger Grenzort.",
+      hu: "Bopa város és község Benin délnyugati részén, a Mono megyében, mintegy 15 km-re délnyugatra Lokossától, a togói határ közelében. Gazdasága mezőgazdaságon, halászaton (Tove-tó) és kereskedelmen alapul. Területe kb. 450 km². Népessége kb. 40 000 fő (2013). A város híres nagy piacáról, ahol főként halat és mezőgazdasági termékeket árusítanak. A 19. században alapították, rabszolga- és később pálmaolaj-kereskedelmi állomásként szolgált. Ma fontos határváros.",
+      ro: "Bopa este un oraș și o comună în departamentul Mono din sud-vestul Beninului, situat la aproximativ 15 km sud-vest de Lokossa, aproape de granița cu Togo. Economia se bazează pe agricultură, pescuit (Lacul Tove) și comerț. Suprafața este de aproximativ 450 km². Populația este de circa 40.000 (2013). Orașul este cunoscut pentru piața sa mare, care comercializează în special pește și produse agricole. Fondat în secolul al XIX-lea, Bopa a servit ca stație de comerț cu sclavi și mai târziu cu ulei de palmier. Astăzi, este un important oraș de frontieră.",
+      en: "Bopa is a town and commune in the Mono Department of southwestern Benin, located about 15 kilometers southwest of Lokossa near the Togolese border. The economy relies on agriculture, fishing (Lake Tove), and trade. Bopa covers an area of about 450 km². The population is around 40,000 (2013). The town is known for its large market, which trades primarily in fish and agricultural products. Founded in the 19th century, Bopa served as a trading post for slaves and later for palm oil. Today, it is an important border town.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 450 km²", "Bevölkerung: rund 40.000 (2013)", "Entfernung zu Lokossa: ca. 15 km südwestlich", "Gegründet im 19. Jahrhundert", "Wirtschaft: Landwirtschaft, Fischerei, Handel", "Höhe: ca. 20 m über dem Meeresspiegel"],
+      hu: ["Terület: kb. 450 km²", "Népesség: kb. 40 000 fő (2013)", "Távolság Lokossától: kb. 15 km délnyugatra", "Alapítás: 19. század", "Gazdaság: mezőgazdaság, halászat, kereskedelem", "Tengerszint feletti magasság: kb. 20 m"],
+      ro: ["Suprafață: aprox. 450 km²", "Populație: circa 40.000 (2013)", "Distanță față de Lokossa: aprox. 15 km sud-vest", "Fondat în secolul al XIX-lea", "Economie: agricultură, pescuit, comerț", "Altitudine: aprox. 20 m deasupra nivelului mării"],
+      en: ["Area: approx. 450 km²", "Population: around 40,000 (2013)", "Distance to Lokossa: approx. 15 km southwest", "Founded in the 19th century", "Economy: agriculture, fishing, trade", "Elevation: approx. 20 m above sea level"],
+    },
   },
   {
     id: "benin-grand-popo-cities-v2",
     type: "city",
     name: { de: "Grand-Popo", hu: "Grand-Popo", ro: "Grand-Popo", en: "Grand-Popo" },
-    coordinates: { lat: 6.2833, lng: 1.8167 },
+    coords: [1.8167, 6.2833],
     description: {
       de: "Grand-Popo ist eine Küstenstadt im Departement Mono. Sie ist für ihre Strände und den Tourismus bekannt.",
       hu: "Grand-Popo tengerparti város a Mono megyében. Strandjairól és turizmusáról ismert.",
@@ -1514,12 +1694,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Mono Department", "Coast", "Beach tourism", "Southern Benin"],
     },
     imageHint: "Grand-Popo beach scenery",
+    descriptionAdvanced: {
+      de: "Grand-Popo ist eine Küstenstadt im Département Mono im Südwesten Benins, direkt am Atlantischen Ozean gelegen. Sie liegt etwa 30 Kilometer westlich von Cotonou. Die Stadt hat eine historische Bedeutung als Zentrum des Sklavenhandels und später als Kolonialhafen. Grand-Popo hat eine Fläche von etwa 200 km². Die Bevölkerung beträgt rund 20.000 (2013). Die Wirtschaft basiert auf Fischerei, Tourismus und Landwirtschaft. Sehenswürdigkeiten sind der Strand und das alte Fort. Grand-Popo wurde im 17. Jahrhundert gegründet. Das Klima ist tropisch mit hoher Luftfeuchtigkeit.",
+      hu: "Grand-Popo tengerparti város Benin délnyugati részén, a Mono megyében, közvetlenül az Atlanti-óceán partján, kb. 30 km-re nyugatra Cotonoutól. Történelmi jelentősége a rabszolga-kereskedelem központjaként, később gyarmati kikötőként volt. Területe kb. 200 km². Népessége kb. 20 000 fő (2013). Gazdasága halászaton, turizmuson és mezőgazdaságon alapul. Látnivalók a strand és a régi erőd. Grand-Popo-t a 17. században alapították. Az éghajlat trópusi, magas páratartalommal.",
+      ro: "Grand-Popo este un oraș de coastă în departamentul Mono din sud-vestul Beninului, situat direct pe Oceanul Atlantic, la aproximativ 30 km vest de Cotonou. Are o importanță istorică ca centru al comerțului cu sclavi și mai târziu ca port colonial. Suprafața este de aproximativ 200 km². Populația este de circa 20.000 (2013). Economia se bazează pe pescuit, turism și agricultură. Atracțiile includ plaja și fortul vechi. Grand-Popo a fost fondat în secolul al XVII-lea. Clima este tropicală, cu umiditate ridicată.",
+      en: "Grand-Popo is a coastal town in the Mono Department of southwestern Benin, located directly on the Atlantic Ocean about 30 kilometers west of Cotonou. It has historical significance as a center of the slave trade and later as a colonial port. Grand-Popo covers an area of about 200 km². The population is around 20,000 (2013). The economy relies on fishing, tourism, and agriculture. Attractions include the beach and the old fort. Grand-Popo was founded in the 17th century. The climate is tropical with high humidity.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 200 km²", "Bevölkerung: rund 20.000 (2013)", "Entfernung zu Cotonou: ca. 30 km westlich", "Gegründet im 17. Jahrhundert", "Wirtschaft: Fischerei, Tourismus, Landwirtschaft", "Höhe: ca. 2 m über dem Meeresspiegel"],
+      hu: ["Terület: kb. 200 km²", "Népesség: kb. 20 000 fő (2013)", "Távolság Cotonoutól: kb. 30 km nyugatra", "Alapítás: 17. század", "Gazdaság: halászat, turizmus, mezőgazdaság", "Tengerszint feletti magasság: kb. 2 m"],
+      ro: ["Suprafață: aprox. 200 km²", "Populație: circa 20.000 (2013)", "Distanță față de Cotonou: aprox. 30 km vest", "Fondat în secolul al XVII-lea", "Economie: pescuit, turism, agricultură", "Altitudine: aprox. 2 m deasupra nivelului mării"],
+      en: ["Area: approx. 200 km²", "Population: around 20,000 (2013)", "Distance to Cotonou: approx. 30 km west", "Founded in the 17th century", "Economy: fishing, tourism, agriculture", "Elevation: approx. 2 m above sea level"],
+    },
   },
   {
     id: "benin-athieme-cities-v2",
     type: "city",
     name: { de: "Athiémé", hu: "Athiémé", ro: "Athiémé", en: "Athiémé" },
-    coordinates: { lat: 6.5667, lng: 1.7667 },
+    coords: [1.7667, 6.5667],
     description: {
       de: "Athiémé liegt im Departement Mono nahe der Grenze zu Togo. Es ist ein bedeutender Marktort in der Region.",
       hu: "Athiémé a Mono megyében, Togo határának közelében található. Jelentős piacos város a régióban.",
@@ -1533,12 +1725,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Mono Department", "Near Togo border", "Marketplace", "Rural"],
     },
     imageHint: "Athieme local market",
+    descriptionAdvanced: {
+      de: "Athiémé ist eine Stadt im Département Mono im Südwesten Benins, etwa 20 Kilometer nördlich von Lokossa. Sie liegt am Fluss Mono. Die Wirtschaft wird von Landwirtschaft, insbesondere dem Anbau von Kaffee, Kakao und Palmöl, dominiert. Athiémé hat eine Fläche von etwa 250 km². Die Bevölkerung beträgt rund 30.000 (2013). Die Stadt ist ein lokales Handelszentrum und bekannt für ihre traditionellen Handwerkskünste. Gegründet im 19. Jahrhundert, entwickelte sich Athiémé als Marktort. Die Stadt hat eine Grundschule und Gesundheitszentrum.",
+      hu: "Athiémé egy város Benin délnyugati részén, a Mono megyében, kb. 20 km-re északra Lokossától, a Mono folyó mellett. Gazdaságát a mezőgazdaság uralja, különösen a kávé, kakaó és pálmaolaj termesztése. Területe kb. 250 km². Népessége kb. 30 000 fő (2013). A város helyi kereskedelmi központ, és híres hagyományos kézművességéről. A 19. században alapították, piaci településként fejlődött. Rendelkezik általános iskolával és egészségügyi központtal.",
+      ro: "Athiémé este un oraș în departamentul Mono din sud-vestul Beninului, la aproximativ 20 km nord de Lokossa, pe râul Mono. Economia este dominată de agricultură, în special cafea, cacao și ulei de palmier. Suprafața este de aproximativ 250 km². Populația este de circa 30.000 (2013). Orașul este un centru comercial local și cunoscut pentru meșteșugurile tradiționale. Fondat în secolul al XIX-lea, Athiémé s-a dezvoltat ca târg. Are o școală primară și un centru de sănătate.",
+      en: "Athiémé is a town in the Mono Department of southwestern Benin, about 20 kilometers north of Lokossa, on the Mono River. The economy is dominated by agriculture, particularly coffee, cocoa, and palm oil. Athiémé covers an area of about 250 km². The population is around 30,000 (2013). The town is a local trading center and known for traditional crafts. Founded in the 19th century, Athiémé developed as a market town. It has a primary school and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 250 km²", "Bevölkerung: rund 30.000 (2013)", "Entfernung zu Lokossa: ca. 20 km nördlich", "Gegründet im 19. Jahrhundert", "Hauptanbauprodukte: Kaffee, Kakao, Palmöl", "Höhe: ca. 30 m über dem Meeresspiegel"],
+      hu: ["Terület: kb. 250 km²", "Népesség: kb. 30 000 fő (2013)", "Távolság Lokossától: kb. 20 km északra", "Alapítás: 19. század", "Főbb termények: kávé, kakaó, pálmaolaj", "Tengerszint feletti magasság: kb. 30 m"],
+      ro: ["Suprafață: aprox. 250 km²", "Populație: circa 30.000 (2013)", "Distanță față de Lokossa: aprox. 20 km nord", "Fondat în secolul al XIX-lea", "Culturi principale: cafea, cacao, ulei de palmier", "Altitudine: aprox. 30 m deasupra nivelului mării"],
+      en: ["Area: approx. 250 km²", "Population: around 30,000 (2013)", "Distance to Lokossa: approx. 20 km north", "Founded in the 19th century", "Main crops: coffee, cocoa, palm oil", "Elevation: approx. 30 m above sea level"],
+    },
   },
   {
     id: "benin-dogbo-cities-v2",
     type: "city",
     name: { de: "Dogbo", hu: "Dogbo", ro: "Dogbo", en: "Dogbo" },
-    coordinates: { lat: 6.8, lng: 1.7833 },
+    coords: [1.7833, 6.8],
     description: {
       de: "Dogbo liegt im Departement Couffo. Die Region ist landwirtschaftlich geprägt und ein wichtiger Handelsstandort.",
       hu: "Dogbo a Couffo megyében található. A régió mezőgazdasági jellegű és fontos kereskedelmi központ.",
@@ -1552,12 +1756,24 @@ export const poiExtraBeninCitiesV2: POI[] = [
       en: ["Couffo Department", "Agriculture", "Commercial center", "Southern Benin"],
     },
     imageHint: "Dogbo town street",
+    descriptionAdvanced: {
+      de: "Dogbo ist eine Stadt im Département Mono im Südwesten Benins, etwa 30 Kilometer nordwestlich von Lokossa. Sie liegt in der Nähe der Grenze zu Togo. Die Stadt ist ein Zentrum der Palmölproduktion, daneben werden Mais und Maniok angebaut. Dogbo hat eine Fläche von etwa 400 km². Die Bevölkerung beträgt rund 45.000 (2013). Gegründet im 18. Jahrhundert, war Dogbo ein wichtiger Marktort. Traditionelle Feste wie das Animistische Fest ziehen Besucher an. Die Stadt hat ein Postamt und eine weiterführende Schule.",
+      hu: "Dogbo város Benin délnyugati részén, a Mono megyében, kb. 30 km-re északnyugatra Lokossától, a togói határ közelében. A pálmaolaj-termelés központja, emellett kukoricát és maniókát termesztenek. Területe kb. 400 km². Népessége kb. 45 000 fő (2013). A 18. században alapították, fontos piaci település volt. Hagyományos ünnepei, mint az animista fesztivál, vonzzák a látogatókat. A városban posta és középiskola működik.",
+      ro: "Dogbo este un oraș în departamentul Mono din sud-vestul Beninului, la aproximativ 30 km nord-vest de Lokossa, aproape de granița cu Togo. Este un centru al producției de ulei de palmier, alături de porumb și manioc. Suprafața este de aproximativ 400 km². Populația este de circa 45.000 (2013). Fondat în secolul al XVIII-lea, Dogbo a fost un important târg. Sărbători tradiționale precum festivalul animist atrag vizitatori. Orașul are un oficiu poștal și o școală secundară.",
+      en: "Dogbo is a town in the Mono Department of southwestern Benin, about 30 kilometers northwest of Lokossa, near the Togolese border. It is a center of palm oil production, along with maize and cassava. Dogbo covers an area of about 400 km². The population is around 45,000 (2013). Founded in the 18th century, Dogbo was an important market town. Traditional festivals such as the animist festival attract visitors. The town has a post office and a secondary school.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 400 km²", "Bevölkerung: rund 45.000 (2013)", "Entfernung zu Lokossa: ca. 30 km nordwestlich", "Gegründet im 18. Jahrhundert", "Hauptprodukt: Palmöl", "Höhe: ca. 70 m über dem Meeresspiegel"],
+      hu: ["Terület: kb. 400 km²", "Népesség: kb. 45 000 fő (2013)", "Távolság Lokossától: kb. 30 km északnyugatra", "Alapítás: 18. század", "Fő termék: pálmaolaj", "Tengerszint feletti magasság: kb. 70 m"],
+      ro: ["Suprafață: aprox. 400 km²", "Populație: circa 45.000 (2013)", "Distanță față de Lokossa: aprox. 30 km nord-vest", "Fondat în secolul al XVIII-lea", "Produs principal: ulei de palmier", "Altitudine: aprox. 70 m deasupra nivelului mării"],
+      en: ["Area: approx. 400 km²", "Population: around 45,000 (2013)", "Distance to Lokossa: approx. 30 km northwest", "Founded in the 18th century", "Main product: palm oil", "Elevation: approx. 70 m above sea level"],
+    },
   },
   {
     id: "benin-aplahoue-cities-v2",
     type: "city",
     name: { de: "Aplahoué", hu: "Aplahoué", ro: "Aplahoué", en: "Aplahoué" },
-    coordinates: { lat: 6.95, lng: 1.6833 },
+    coords: [1.6833, 6.95],
     description: {
       de: "Aplahoué ist die Hauptstadt des Departements Couffo. Sie fungiert als administratives und wirtschaftliches Zentrum.",
       hu: "Aplahoué a Couffo megye fővárosa. Közigazgatási és gazdasági központként funkcionál.",
@@ -1588,7 +1804,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-klouekanme-cities-v2",
     type: "city",
     name: { de: "Klouékanmè", hu: "Klouékanmè", ro: "Klouékanmè", en: "Klouékanmè" },
-    coordinates: { lat: 6.95, lng: 1.8333 },
+    coords: [1.8333, 6.95],
     description: {
       de: "Klouékanmè liegt im Departement Couffo. Die Stadt ist ein lokales Zentrum in einer landwirtschaftlich geprägten Region.",
       hu: "Klouékanmè a Couffo megyében fekszik. A város helyi központ egy mezőgazdasági jellegű régióban.",
@@ -1619,7 +1835,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-lalo-cities-v2",
     type: "city",
     name: { de: "Lalo", hu: "Lalo", ro: "Lalo", en: "Lalo" },
-    coordinates: { lat: 6.8333, lng: 1.95 },
+    coords: [1.95, 6.8333],
     description: {
       de: "Lalo liegt im Departement Couffo. Die Region ist von kleinen Dörfern und Ackerflächen geprägt.",
       hu: "Lalo a Couffo megyében található. A régiót kis falvak és termőföldek jellemzik.",
@@ -1650,7 +1866,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-djakotomey-cities-v2",
     type: "city",
     name: { de: "Djakotomey", hu: "Djakotomey", ro: "Djakotomey", en: "Djakotomey" },
-    coordinates: { lat: 6.8167, lng: 1.6667 },
+    coords: [1.6667, 6.8167],
     description: {
       de: "Djakotomey liegt im Departement Couffo. Es ist ein wichtiger Handelsort in der Region.",
       hu: "Djakotomey a Couffo megyében fekszik. Fontos kereskedelmi helyszín a régióban.",
@@ -1681,7 +1897,7 @@ export const poiExtraBeninCitiesV2: POI[] = [
     id: "benin-tori-bossito-cities-v2",
     type: "city",
     name: { de: "Tori-Bossito", hu: "Tori-Bossito", ro: "Tori-Bossito", en: "Tori-Bossito" },
-    coordinates: { lat: 6.4667, lng: 2.2333 },
+    coords: [2.2333, 6.4667],
     description: {
       de: "Tori-Bossito liegt im Departement Atlantique. Die Stadt ist ein aufstrebender Ort in der Nähe von Cotonou.",
       hu: "Tori-Bossito az Atlantique megyében található. A város egy feltörekvő helység Cotonou közelében.",

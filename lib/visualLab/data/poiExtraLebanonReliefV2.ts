@@ -646,7 +646,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
     id: "lebanon-mount-lebanon-range-relief-v2",
     type: "mountain",
     name: { de: "Libanon-Gebirge", hu: "Libanoni-hegység", ro: "Munții Liban", en: "Mount Lebanon Range" },
-    coordinates: { lat: 34.0, lng: 35.8 },
+    coords: [35.8, 34.0],
     description: {
       de: "Dieses zentrale Gebirge erstreckt sich über 170 Kilometer parallel zur Mittelmeerküste. Es prägt das Klima und die Geografie des gesamten Landes.",
       hu: "Ez a központi hegylánc 170 kilométer hosszan húzódik a tengerparttal párhuzamosan. Meghatározza az ország egészének éghajlatát és domborzatát.",
@@ -660,12 +660,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Highest mountain range in the Levant region", "Length of approximately 170 kilometers north to south", "Separates the coastal plain from the Beqaa Valley", "Composed primarily of limestone and dolomite"],
     },
     imageHint: "Mount Lebanon range snow covered peaks",
+    descriptionAdvanced: {
+      de: "Das Libanongebirge ist eine beeindruckende Bergkette, die sich parallel zur Küste erstreckt. Es erreicht Höhen von über 3000 Metern und ist von tiefen Tälern durchzogen. Die Bergkette ist reich an Zedernwäldern und bietet Lebensraum für eine Vielzahl von Tierarten. Sie hat eine zentrale Rolle in der Geschichte und Kultur des Libanon.",
+      hu: "A Libanon-hegység az ország gerincét alkotja, a tengerparttal párhuzamosan húzódva. Legmagasabb csúcsai közé tartozik a Qurnat as-Sawda (3088 m). A hegység fontos vízgyűjtő terület, ahonnan számos folyó ered. A hegyoldalakon híres cédruserdők találhatók.",
+      ro: "Munții Libanului formează un lanț muntos care se întinde de-a lungul coastei, cu vârfuri ce depășesc 3000 de metri. Aceștia sunt acoperiți de păduri de cedri și pini, oferind habitate pentru specii rare. Munții sunt o sursă majoră de apă și au o importanță culturală deosebită.",
+      en: "The Mount Lebanon Range is a mountain range extending over 160 km along the Mediterranean coast. Its highest peak, Qurnat as-Sawda, reaches 3,088 meters. The range is characterized by deep gorges and karstic plateaus, with significant snow cover in winter. It is the source of many rivers and has been inhabited since ancient times.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 160 km", "Höchster Gipfel: Qurnat as-Sawda, 3088 m", "Durchschnittliche Höhe: 1800 m", "Gletscherreste: 0 (keine aktiven Gletscher)", "Bedeutendster Gipfel: Sannine (2628 m)", "Jährliche Schneefallmenge auf den Gipfeln: 5 m"],
+      hu: ["Hossz: 160 km", "Legmagasabb csúcs: Qurnat as-Sawda (3088 m)", "Átlagmagasság: 1800 m", "Gleccserek: nincsenek", "Fontos csúcs: Sannine (2628 m)", "Éves hómennyiség a csúcsokon: 5 m"],
+      ro: ["Lungime: 160 km", "Cel mai înalt vârf: Qurnat as-Sawda (3088 m)", "Altitudine medie: 1800 m", "Ghețari: niciunul", "Vârf important: Sannine (2628 m)", "Zăpadă anuală pe vârfuri: 5 m"],
+      en: ["Length: 160 km", "Highest peak: Qurnat as-Sawda (3,088 m)", "Average elevation: 1,800 m", "Glaciers: none", "Notable peak: Mount Sannine (2,628 m)", "Annual snowfall on peaks: 5 m"],
+    },
   },
   {
     id: "lebanon-jabal-amel-relief-v2",
     type: "mountain",
     name: { de: "Jabal Amel", hu: "Dzsebel Amel", ro: "Jabal Amel", en: "Jabal Amel" },
-    coordinates: { lat: 33.25, lng: 35.35 },
+    coords: [35.35, 33.25],
     description: {
       de: "Eine hügelige Hochlandschaft im Südlibanon, die für ihre terrassierten Hänge und Olivenhaine bekannt ist. Sie bildet den südlichen Ausläufer des Libanongebirges.",
       hu: "Dél-Libanon dombos fennsíkja, amely teraszos lejtőiről és olajfaligeteiről ismert. A Libanoni-hegység déli nyúlványát alkotja.",
@@ -679,12 +691,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Average elevation of about 600 meters", "Historically known as Belad Bshara", "Important agricultural center for tobacco farming", "Consists of rolling limestone hills"],
     },
     imageHint: "South Lebanon hills and olive groves",
+    descriptionAdvanced: {
+      de: "Jabal Amel ist eine hügelige Region im Südlibanon, die sich durch sanfte Hügel und fruchtbare Täler auszeichnet. Sie ist bekannt für den Tabakanbau und die Olivenölproduktion. Die Region hat eine reiche schiitische Kultur und Geschichte. Die Landschaft ist von Terrassenfeldern und kleinen Dörfern geprägt.",
+      hu: "A Jabal Amel Dél-Libanon dombsága, ahol a mezőgazdaság dominál. A régió híres dohány- és olívaolaj-termeléséről. A dombok között számos történelmi város található, mint Nábatiye. A terület változatos élővilággal rendelkezik, és fontos a vándormadarak számára.",
+      ro: "Jabal Amel este o regiune deluroasă din sudul Libanului, cunoscută pentru agricultura intensivă, în special cultivarea tutunului și a măslinilor. Peisajul este alcătuit din dealuri line și văi fertile. Zona are o semnificație culturală și religioasă importantă pentru comunitatea șiită.",
+      en: "Jabal Amel is a highland region in southern Lebanon, with elevations ranging from 400 to 900 meters. The area is predominantly agricultural, producing tobacco, olives, and figs. It has a long history of settlement, with archaeological sites from the Phoenician and Roman periods. The region also hosts several nature reserves that protect native vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 400 bis 900 m", "Anbaufläche für Tabak: 10.000 ha", "Jährliche Olivenölproduktion: 2000 Tonnen", "Bevölkerungsdichte: 200 Einwohner/km²", "Anzahl der Gemeinden: 80", "Durchschnittstemperatur: 20 °C"],
+      hu: ["Magasság: 400-900 m", "Dohánytermő terület: 10.000 ha", "Éves olívaolaj-termelés: 2000 tonna", "Népsűrűség: 200 fő/km²", "Települések száma: 80", "Átlaghőmérséklet: 20 °C"],
+      ro: ["Altitudine: 400-900 m", "Suprafața cultivată cu tutun: 10.000 ha", "Producția anuală de ulei de măsline: 2000 de tone", "Densitatea populației: 200 locuitori/km²", "Număr de comune: 80", "Temperatura medie: 20 °C"],
+      en: ["Elevation range: 400 to 900 m", "Tobacco cultivation area: 10,000 ha", "Annual olive oil production: 2,000 tons", "Population density: 200 inh./km²", "Number of municipalities: 80", "Average temperature: 20 °C"],
+    },
   },
   {
     id: "lebanon-ras-al-shaqaa-relief-v2",
     type: "landmark",
     name: { de: "Ras al-Shaqaa", hu: "Rasz es-Saka", ro: "Ras al-Shaqaa", en: "Ras al-Shaqaa" },
-    coordinates: { lat: 34.31, lng: 35.66 },
+    coords: [35.66, 34.31],
     description: {
       de: "Eine massive Kalkstein-Landzunge zwischen Batroun und Tripolis. Die Klippen stürzen hier fast senkrecht über 300 Meter tief in das Mittelmeer.",
       hu: "Hatalmas mészkőfok Batrúm és Tripoli között. A sziklák itt majdnem függőlegesen, több mint 300 méter mélyen szakadnak a Földközi-tengerbe.",
@@ -698,12 +722,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Known in ancient times as Theoprosopon", "Highest point reaches 300 meters above sea level", "Historical obstacle for coastal transportation", "Composed of vertical limestone strata"],
     },
     imageHint: "Ras al-Shaqaa cliffs Mediterranean Lebanon",
+    descriptionAdvanced: {
+      de: "Ras al-Shaqaa ist ein markanter Felsvorsprung an der libanesischen Mittelmeerküste, etwa 30 km nördlich von Tripoli. Die Kreidefelsen erreichen eine Höhe von bis zu 150 Metern und bieten spektakuläre Ausblicke auf das Meer. Geologisch gehört die Formation zur Jurazeit und besteht aus hartem Kalkstein, der durch Erosion geformt wurde. In der Antike diente der Ort als strategischer Aussichtspunkt, von dem aus Schiffsbewegungen beobachtet werden konnten. Heute ist Ras al-Shaqaa ein beliebtes Ziel für Touristen und Naturliebhaber, die die unberührte Landschaft und die reiche Vogelwelt genießen. Die Region ist auch für ihren Olivenanbau bekannt, wobei die steinigen Böden ideale Bedingungen bieten.",
+      hu: "Ras al-Shaqaa egy jellegzetes sziklafok a libanoni Földközi-tenger partján, mintegy 30 km-re északra Tripolitól. A sziklafalak magassága eléri a 150 métert, és lenyűgöző kilátást nyújtanak a tengerre. A geológiai képződmény a jura korból származó kemény mészkőből áll, amelyet az erózió formált. Az ókorban stratégiai megfigyelőpontként szolgált, ahonnan a hajók mozgását követhették. Ma a Ras al-Shaqaa népszerű turisztikai célpont, ahonnan a természeti szépségek és a gazdag madárvilág élvezhető. A környék olívaültetvényeiről híres, a köves talaj kiváló termőhelyet biztosít.",
+      ro: "Ras al-Shaqaa este un promontoriu stâncos pe coasta mediteraneană a Libanului, la aproximativ 30 km nord de Tripoli. Stâncile de cretă ating înălțimi de până la 150 de metri și oferă priveliști spectaculoase asupra mării. Din punct de vedere geologic, formațiunea aparține perioadei jurasice și este compusă din calcar dur, modelat de eroziune. În antichitate, locul a servit ca punct strategic de observare a mișcărilor navelor. Astăzi, Ras al-Shaqaa este o destinație populară pentru turiști și iubitori ai naturii, care se bucură de peisajul nealterat și de avifauna bogată. Regiunea este cunoscută și pentru culturile de măsline, solurile pietroase oferind condiții ideale.",
+      en: "Ras al-Shaqaa is a prominent cliff formation on the Lebanese Mediterranean coast, about 30 km north of Tripoli. The chalk cliffs rise up to 150 meters high and offer stunning views of the sea. Geologically, the formation dates from the Jurassic period and consists of hard limestone shaped by erosion. In antiquity, it served as a strategic lookout point for monitoring ship movements. Today, Ras al-Shaqaa is a popular destination for tourists and nature enthusiasts, who enjoy the pristine landscape and rich birdlife. The area is also known for olive cultivation, as the rocky soils provide ideal growing conditions.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Klippen: bis zu 150 Meter", "Entfernung von Tripoli: etwa 30 Kilometer nördlich", "Geologisches Zeitalter: Jura", "Gesteinsart: harter Kalkstein", "Bekannt für Olivenanbau auf steinigen Böden", "Beliebtes Ziel für Vogelbeobachtung"],
+      hu: ["Sziklafalak magassága: 150 méter", "Tripolitól északra: 30 km", "Geológiai kor: jura", "Kőzet: kemény mészkő", "Olívaültetvények a köves talajon", "Népszerű madármegfigyelő hely"],
+      ro: ["Înălțimea stâncilor: până la 150 de metri", "Distanța față de Tripoli: aproximativ 30 km nord", "Perioada geologică: Jurasic", "Rocă: calcar dur", "Cultură de măsline pe soluri pietroase", "Destinație populară pentru observarea păsărilor"],
+      en: ["Cliff height: up to 150 meters", "Distance from Tripoli: about 30 km north", "Geological period: Jurassic", "Rock type: hard limestone", "Known for olive cultivation on rocky soils", "Popular birdwatching spot"],
+    },
   },
   {
     id: "lebanon-hermel-plain-relief-v2",
     type: "landmark",
     name: { de: "Hermel-Ebene", hu: "Hermel-síkság", ro: "Câmpia Hermel", en: "Hermel Plain" },
-    coordinates: { lat: 34.45, lng: 36.42 },
+    coords: [36.42, 34.45],
     description: {
       de: "Ein trockenes Hochplateau im Nordosten Libanons, das den Übergang zur syrischen Steppe bildet. Es ist die trockenste Region des Landes.",
       hu: "Száraz fennsík Libanon északkeleti részén, amely átmenetet képez a szíriai sztyeppéhez. Ez az ország legszárazabb vidéke.",
@@ -717,12 +753,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Part of the Syrian-African Rift Valley system", "Contains the source of the Orontes River", "Semi-desert climate with very low rainfall", "Known for the ancient Pyramid of Hermel monument"],
     },
     imageHint: "Hermel plain arid landscape Lebanon",
+    descriptionAdvanced: {
+      de: "Die Hermel-Ebene ist eine weite, fruchtbare Hochebene im Nordosten des Libanon, nahe der Stadt Hermel. Sie liegt auf einer Höhe von etwa 600 bis 800 Metern über dem Meeresspiegel und wird vom Orontes-Fluss durchzogen. Die Ebene ist ein bedeutendes landwirtschaftliches Gebiet, in dem vor allem Weizen, Gerste und Obst angebaut werden. Aufgrund der Nähe zur syrischen Grenze hat die Region eine strategische Bedeutung. Das Klima ist kontinental geprägt mit heißen, trockenen Sommern und kalten Wintern. In der Antike war die Hermel-Ebene Teil des Königreichs von Ebla, und archäologische Funde belegen eine lange Besiedlungsgeschichte.",
+      hu: "A Hermel-síkság egy hatalmas, termékeny fennsík Libanon északkeleti részén, Hermel városa közelében. Magassága 600-800 méter tengerszint felett, és az Orontész folyó szeli át. A síkság fontos mezőgazdasági terület, ahol elsősorban búzát, árpát és gyümölcsöket termesztenek. A szíriai határ közelsége miatt a régiónak stratégiai jelentősége van. Az éghajlat kontinentális, forró, száraz nyarakkal és hideg telekkel. Az ókorban a Hermel-síkság Ebla királyságának része volt, és a régészeti leletek hosszú településtörténetet igazolnak.",
+      ro: "Câmpia Hermel este o vastă și fertilă podiș în nord-estul Libanului, lângă orașul Hermel. Se află la o altitudine de 600-800 de metri deasupra nivelului mării și este străbătută de râul Orontes. Câmpia este o zonă agricolă importantă, cultivându-se în principal grâu, orz și fructe. Datorită apropierii de granița cu Siria, regiunea are o importanță strategică. Clima este continentală, cu veri fierbinți și uscate și ierni reci. În antichitate, Câmpia Hermel făcea parte din regatul Ebla, iar descoperirile arheologice atestă o istorie îndelungată de locuire.",
+      en: "The Hermel Plain is a vast, fertile high plateau in northeastern Lebanon, near the town of Hermel. It lies at an elevation of about 600 to 800 meters above sea level and is traversed by the Orontes River. The plain is a significant agricultural area, cultivating mainly wheat, barley, and fruits. Due to its proximity to the Syrian border, the region has strategic importance. The climate is continental with hot, dry summers and cold winters. In antiquity, the Hermel Plain was part of the Kingdom of Ebla, and archaeological findings attest to a long settlement history.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 600-800 Meter über dem Meeresspiegel", "Fluss: Orontes", "Hauptanbauprodukte: Weizen, Gerste, Obst", "Nähe zur syrischen Grenze: etwa 10 km", "Historisch: Teil des Königreichs Ebla", "Klima: kontinental mit heißen Sommern und kalten Wintern"],
+      hu: ["Magasság: 600-800 méter tengerszint felett", "Folyó: Orontész", "Fő termények: búza, árpa, gyümölcs", "Távolság a szíriai határtól: kb. 10 km", "Történelem: Ebla királysága", "Éghajlat: kontinentális"],
+      ro: ["Altitudine: 600-800 m deasupra nivelului mării", "Râu: Orontes", "Culturi principale: grâu, orz, fructe", "Distanța până la granița cu Siria: aproximativ 10 km", "Istoric: parte a regatului Ebla", "Climă: continentală"],
+      en: ["Elevation: 600-800 meters above sea level", "River: Orontes", "Main crops: wheat, barley, fruits", "Distance to Syrian border: about 10 km", "Historical: part of the Kingdom of Ebla", "Climate: continental with hot summers and cold winters"],
+    },
   },
   {
     id: "lebanon-mount-mnaitra-relief-v2",
     type: "peak",
     name: { de: "Berg Mnaitra", hu: "Mnaitra-hegy", ro: "Muntele Mnaitra", en: "Mount Mnaitra" },
-    coordinates: { lat: 34.08, lng: 35.88 },
+    coords: [35.88, 34.08],
     description: {
       de: "Ein prominenter Gipfel im zentralen Libanongebirge, der über der Afqa-Grotte thront. Er ist eine wichtige Quelle für das Schmelzwasser des Adonis-Flusses.",
       hu: "A központi Libanoni-hegység egyik kiemelkedő csúcsa, amely az Afka-barlang fölé magasodik. Az Adonis-folyó olvadékvízének fontos forrása.",
@@ -736,12 +784,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Maximum elevation of 2911 meters", "Offers views over the Nahr Ibrahim valley", "Significant karstic area with many sinkholes", "Almost entirely snow-covered during winter"],
     },
     imageHint: "Mount Mnaitra snowy peak Lebanon",
+    descriptionAdvanced: {
+      de: "Der Berg Mnaitra ist ein Gipfel im Libanon-Gebirge, etwa 40 km südöstlich von Beirut. Mit einer Höhe von 1.900 Metern bietet er eine beeindruckende Aussicht auf die Bekaa-Ebene und das Mittelmeer. Die Region ist für ihre dichten Wälder aus Libanonzedern und Kiefern bekannt. Der Berg ist ein beliebtes Wanderziel, mit Wegen durch malerische Täler und vorbei an alten Terrassenfeldern. In der Umgebung gibt es mehrere Dörfer, die für ihre traditionelle Lebensweise bekannt sind. Die Fauna umfasst Wölfe, Wildschweine und verschiedene Greifvögel.",
+      hu: "A Mnaitra-hegy egy csúcs a Libanoni-hegységben, Beirúttól mintegy 40 km-re délkeletre. Magassága 1900 méter, lenyűgöző kilátást nyújt a Bekaa-völgyre és a Földközi-tengerre. A régió sűrű libanoni cédrus- és fenyőerdőiről ismert. A hegy népszerű túracélpont, ösvényei festői völgyeken és régi teraszos mezők mellett vezetnek. A környéken számos falu található, amelyek hagyományos életmódjukról híresek. Az állatvilág farkasokat, vaddisznókat és különféle ragadozó madarakat foglal magában.",
+      ro: "Muntele Mnaitra este un vârf din Munții Libanului, la aproximativ 40 km sud-est de Beirut. Cu o înălțime de 1.900 de metri, oferă o priveliște impresionantă asupra Câmpiei Bekaa și a Mării Mediterane. Regiunea este cunoscută pentru pădurile dese de cedri libanezi și pini. Muntele este o destinație populară pentru drumeții, cu trasee prin văi pitorești și pe lângă terase agricole vechi. În jur se află sate care păstrează un stil de viață tradițional. Fauna include lupi, mistreți și diverse păsări de pradă.",
+      en: "Mount Mnaitra is a peak in the Lebanon Mountains, about 40 km southeast of Beirut. At an elevation of 1,900 meters, it offers impressive views of the Bekaa Valley and the Mediterranean Sea. The region is known for its dense forests of Lebanese cedar and pine. The mountain is a popular hiking destination, with trails through picturesque valleys and past ancient terraced fields. Surrounding villages are known for their traditional way of life. Wildlife includes wolves, wild boars, and various birds of prey.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.900 Meter", "Entfernung von Beirut: 40 km südöstlich", "Bekannte Wälder: Libanonzeder und Kiefer", "Beliebtes Wanderziel", "Vorkommen von Wölfen und Wildschweinen", "Traditionelle Terrassenfelder in der Umgebung"],
+      hu: ["Magasság: 1900 méter", "Beirúttól délkeletre: 40 km", "Erdők: libanoni cédrus, fenyő", "Népszerű túracélpont", "Állatok: farkas, vaddisznó", "Régi teraszos mezők"],
+      ro: ["Înălțime: 1.900 m", "Distanța față de Beirut: 40 km sud-est", "Păduri: cedru libanez, pin", "Destinație populară pentru drumeții", "Faună: lupi, mistreți", "Terase agricole antice"],
+      en: ["Elevation: 1,900 meters", "Distance from Beirut: 40 km southeast", "Forests: Lebanese cedar and pine", "Popular hiking destination", "Wildlife: wolves, wild boars", "Ancient terraced fields nearby"],
+    },
   },
   {
     id: "lebanon-danniyeh-mountains-relief-v2",
     type: "mountain",
     name: { de: "Danniyeh-Gebirge", hu: "Dannije-hegység", ro: "Munții Danniyeh", en: "Danniyeh Mountains" },
-    coordinates: { lat: 34.36, lng: 36.05 },
+    coords: [36.05, 34.36],
     description: {
       de: "Die Gebirgsregion im Norden Libanons umfasst einige der höchsten Gipfel der Levante. Sie ist geprägt durch wasserreiche Täler und dichte Wälder.",
       hu: "Észak-Libanon hegyvidéki régiója, amely a Levante legmagasabb csúcsait foglalja magában. Bővizű völgyek és sűrű erdők jellemzik.",
@@ -755,12 +815,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Home to over 25 peaks above 2000 meters", "Region with the highest rainfall in Lebanon", "Known for the largest juniper forests in the country", "Adjacent to the highest point Qurnat as Sawda"],
     },
     imageHint: "Danniyeh mountains green slopes Lebanon",
+    descriptionAdvanced: {
+      de: "Die Danniyeh-Berge sind eine Gebirgskette im Nordlibanon, die sich von den Hängen des Libanon-Gebirges bis zur Mittelmeerküste erstreckt. Die höchsten Gipfel erreichen etwa 1.500 Meter. Die Region ist bekannt für ihre fruchtbaren Täler, in denen Oliven, Feigen und Wein angebaut werden. Die Berge sind von zahlreichen Dörfern geprägt, die für ihre traditionelle Architektur aus Stein und Lehm bekannt sind. Historisch war die Gegend ein Zentrum der maronitischen Gemeinschaft. Die Biodiversität ist hoch, mit endemischen Pflanzenarten und einer reichen Vogelwelt.",
+      hu: "A Danniyeh-hegyek egy hegylánc Észak-Libanonban, amely a Libanoni-hegység lejtőitől a Földközi-tenger partjáig húzódik. A legmagasabb csúcsok elérik az 1500 métert. A régió termékeny völgyeiről ismert, ahol olívát, fügét és szőlőt termesztenek. A hegyeket számos falu tarkítja, amelyek kőből és vályogból készült hagyományos építészetükről híresek. Történelmileg a terület a maronita közösség központja volt. A biodiverzitás magas, endemikus növényfajokkal és gazdag madárvilággal.",
+      ro: "Munții Danniyeh sunt un lanț muntos în nordul Libanului, care se întinde de pe versanții Munților Libanului până la coasta mediteraneană. Cele mai înalte vârfuri ating aproximativ 1.500 de metri. Regiunea este cunoscută pentru văile sale fertile, unde se cultivă măsline, smochine și struguri. Munții sunt presărați cu sate care păstrează arhitectura tradițională din piatră și lut. Din punct de vedere istoric, zona a fost un centru al comunității maronite. Biodiversitatea este ridicată, cu specii endemice de plante și o avifaună bogată.",
+      en: "The Danniyeh Mountains are a mountain range in northern Lebanon, stretching from the slopes of the Lebanon Mountains to the Mediterranean coast. The highest peaks reach about 1,500 meters. The region is known for its fertile valleys, where olives, figs, and grapes are cultivated. The mountains are dotted with numerous villages known for their traditional stone and mud-brick architecture. Historically, the area was a center of the Maronite community. Biodiversity is high, with endemic plant species and rich birdlife.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Gipfel: etwa 1.500 Meter", "Anbauprodukte: Oliven, Feigen, Weintrauben", "Historisch: Zentrum der maronitischen Gemeinschaft", "Architektur: Stein und Lehm", "Endemische Pflanzenarten vorhanden", "Vogelarten: reichhaltig"],
+      hu: ["Legmagasabb csúcsok: kb. 1500 méter", "Termények: olíva, füge, szőlő", "Történelem: maronita központ", "Építészet: kő, vályog", "Endemikus növényfajok", "Gazdag madárvilág"],
+      ro: ["Cele mai înalte vârfuri: aproximativ 1.500 m", "Culturi: măsline, smochine, struguri", "Istoric: centru al comunității maronite", "Arhitectură: piatră și lut", "Specii endemice de plante", "Avifaună bogată"],
+      en: ["Highest peaks: about 1,500 meters", "Crops: olives, figs, grapes", "Historical: center of Maronite community", "Architecture: stone and mud-brick", "Endemic plant species present", "Rich birdlife"],
+    },
   },
   {
     id: "lebanon-damour-valley-relief-v2",
     type: "valley",
     name: { de: "Damour-Tal", hu: "Damour-völgy", ro: "Valea Damour", en: "Damour Valley" },
-    coordinates: { lat: 33.71, lng: 35.48 },
+    coords: [35.48, 33.71],
     description: {
       de: "Ein tief eingeschnittenes Flusstal südlich von Beirut, das von den Chouf-Bergen zum Meer führt. Es ist ein wichtiges landwirtschaftliches Gebiet.",
       hu: "Beiruttól délre fekvő, mélyen bevágott folyóvölgy, amely a Suf-hegységből a tengerig vezet. Fontos mezőgazdasági terület.",
@@ -774,12 +846,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["The Damour River has a length of 33 km", "Famous for banana and citrus plantations", "Forms a natural corridor through the mountains", "Popular destination for hiking and rafting"],
     },
     imageHint: "Damour valley river and citrus trees",
+    descriptionAdvanced: {
+      de: "Das Damour-Tal ist ein fruchtbares Tal im Libanon, etwa 20 km südlich von Beirut. Der Damour-Fluss durchfließt das Tal und mündet ins Mittelmeer. Das Tal ist bekannt für seine landwirtschaftliche Produktion, insbesondere Zitrusfrüchte, Bananen und Gemüse. Es hat eine reiche Geschichte, die bis in die phönizische Zeit zurückreicht. In der Antike war es für seinen Weinbau berühmt. Während des libanesischen Bürgerkriegs war das Tal ein strategischer Ort. Heute ist es ein beliebtes Ausflugsziel für Beirut und bietet Wanderwege und Picknickplätze entlang des Flusses.",
+      hu: "A Damour-völgy egy termékeny völgy Libanonban, Beirúttól mintegy 20 km-re délre. A Damour folyó szeli át, amely a Földközi-tengerbe ömlik. A völgy mezőgazdasági termeléséről ismert, különösen citrusfélék, banán és zöldségek termesztéséről. Gazdag történelme van, egészen a föníciai időkig nyúlik vissza. Az ókorban híres volt borászatáról. A libanoni polgárháború idején stratégiai helyszín volt. Ma népszerű kirándulóhely Bejrút közelében, a folyó mentén túraútvonalakkal és piknikezőhelyekkel.",
+      ro: "Valea Damour este o vale fertilă în Liban, la aproximativ 20 km sud de Beirut. Râul Damour străbate valea și se varsă în Marea Mediterană. Valea este cunoscută pentru producția agricolă, în special citrice, banane și legume. Are o istorie bogată, care datează din perioada feniciană. În antichitate, era renumită pentru viticultură. În timpul războiului civil libanez, valea a fost un loc strategic. Astăzi, este o destinație populară de excursii din Beirut, oferind trasee de drumeție și locuri de picnic de-a lungul râului.",
+      en: "The Damour Valley is a fertile valley in Lebanon, about 20 km south of Beirut. The Damour River flows through the valley and empties into the Mediterranean. The valley is known for its agricultural production, especially citrus fruits, bananas, and vegetables. It has a rich history dating back to Phoenician times. In antiquity, it was famous for its wine production. During the Lebanese Civil War, the valley was a strategic location. Today, it is a popular excursion destination from Beirut, offering hiking trails and picnic spots along the river.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung von Beirut: 20 km südlich", "Fluss: Damour", "Hauptprodukte: Zitrusfrüchte, Bananen, Gemüse", "Historischer Weinbau", "Strategische Rolle im Bürgerkrieg", "Beliebtes Ausflugsziel"],
+      hu: ["Beirúttól délre: 20 km", "Folyó: Damour", "Fő termékek: citrusfélék, banán, zöldség", "Történelmi borászat", "Polgárháború: stratégiai helyszín", "Népszerű kirándulóhely"],
+      ro: ["Distanța față de Beirut: 20 km sud", "Râu: Damour", "Principalele produse: citrice, banane, legume", "Viticultură istorică", "Rol strategic în războiul civil", "Destinație populară de excursii"],
+      en: ["Distance from Beirut: 20 km south", "River: Damour", "Main products: citrus, bananas, vegetables", "Historical wine production", "Strategic role in civil war", "Popular excursion destination"],
+    },
   },
   {
     id: "lebanon-keserwan-plateau-relief-v2",
     type: "mountain",
     name: { de: "Keserwan-Plateau", hu: "Keszeruán-fennsík", ro: "Podișul Keserwan", en: "Keserwan Plateau" },
-    coordinates: { lat: 34.02, lng: 35.75 },
+    coords: [35.75, 34.02],
     description: {
       de: "Ein karsztiges Hochplateau östlich von Jounieh, das durch bizarre Felsformationen und tiefe Höhlensysteme geprägt ist. Es liegt auf mittlerer Höhe.",
       hu: "Dzsunije-től keletre fekvő karsztfennsík, amelyet bizarr sziklaalakzatok és mély barlangrendszerek jellemeznek. Közepes magasságban fekszik.",
@@ -793,12 +877,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Average altitude of about 1200 meters", "Famous for the natural stone bridge of Kfardebian", "Contains the largest ski resort in the country", "Composed of heavily eroded Jurassic limestone"],
     },
     imageHint: "Keserwan plateau rock formations Lebanon",
+    descriptionAdvanced: {
+      de: "Das Keserwan-Plateau ist eine Hochfläche im Libanon-Gebirge, östlich von Beirut. Es erstreckt sich auf einer Höhe von etwa 800 bis 1.200 Metern und ist bekannt für seine malerischen Dörfer und Weinberge. Die Region ist ein bedeutendes Weinanbaugebiet des Libanon, insbesondere für die Rebsorten Cinsault und Cabernet Sauvignon. Das Plateau hat ein gemäßigtes Mittelmeerklima mit kühlen Sommern. Es ist auch ein Zentrum des Sommertourismus, mit vielen Ferienhäusern und Resorts. Historisch war Keserwan ein Rückzugsort für die maronitische Gemeinschaft.",
+      hu: "A Keserwan-fennsík egy magasföld a Libanoni-hegységben, Beirúttól keletre. 800-1200 méteres tengerszint feletti magasságban terül el, és festői falvairól és szőlőültetvényeiről ismert. A régió Libanon egyik fontos bortermelő területe, különösen a Cinsault és Cabernet Sauvignon szőlőfajták termesztéséről. A fennsík mérsékelt mediterrán éghajlatú, hűvös nyarakkal. A nyári turizmus központja, számos üdülőházzal és üdülővel. Történelmileg Keserwan a maronita közösség menedékhelye volt.",
+      ro: "Podisul Keserwan este o zonă înaltă din Munții Libanului, la est de Beirut. Se întinde la o altitudine de aproximativ 800-1.200 de metri și este cunoscut pentru satele sale pitorești și podgorii. Regiunea este o zonă importantă de viticultură în Liban, în special pentru soiurile Cinsault și Cabernet Sauvignon. Podișul are un climat mediteranean moderat, cu veri răcoroase. Este, de asemenea, un centru al turismului de vară, cu multe case de vacanță și stațiuni. Din punct de vedere istoric, Keserwan a fost un refugiu pentru comunitatea maronită.",
+      en: "The Keserwan Plateau is a highland in the Lebanon Mountains, east of Beirut. It lies at an elevation of about 800 to 1,200 meters and is known for its picturesque villages and vineyards. The region is a major wine-producing area in Lebanon, especially for Cinsault and Cabernet Sauvignon grapes. The plateau has a moderate Mediterranean climate with cool summers. It is also a center of summer tourism, with many vacation homes and resorts. Historically, Keserwan was a refuge for the Maronite community.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 800-1.200 Meter", "Lage: östlich von Beirut", "Wichtige Rebsorten: Cinsault, Cabernet Sauvignon", "Weinbau: bedeutend", "Klima: gemäßigt mediterran", "Tourismus: Sommerresorts"],
+      hu: ["Magasság: 800-1200 méter", "Beirúttól keletre", "Szőlőfajták: Cinsault, Cabernet Sauvignon", "Fontos borvidék", "Éghajlat: mérsékelt mediterrán", "Nyári turizmus"],
+      ro: ["Altitudine: 800-1.200 m", "Est de Beirut", "Soiuri de struguri: Cinsault, Cabernet Sauvignon", "Viticultură importantă", "Climat mediteranean moderat", "Turism de vară"],
+      en: ["Elevation: 800-1,200 meters", "Location: east of Beirut", "Grape varieties: Cinsault, Cabernet Sauvignon", "Major wine region", "Climate: moderate Mediterranean", "Summer tourism"],
+    },
   },
   {
     id: "lebanon-mount-rihane-relief-v2",
     type: "mountain",
     name: { de: "Berg Rihane", hu: "Rihane-hegy", ro: "Muntele Rihane", en: "Mount Rihane" },
-    coordinates: { lat: 33.45, lng: 35.55 },
+    coords: [35.55, 33.45],
     description: {
       de: "Ein Bergzug im Südlibanon, der für seine dichten Eichenwälder und biologische Vielfalt bekannt ist. Er bietet einen Panoramablick über den Litani-Fluss.",
       hu: "Dél-Libanoni hegyvonulat, amely sűrű tölgyerdőiről és biológiai sokféleségéről ismert. Panorámás kilátást nyújt a Litáni-folyóra.",
@@ -812,12 +908,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Highest point reaches 1100 meters", "Part of a significant ecological corridor", "Dominated by Kermes oak forests", "Strategic location overlooking the Beqaa Valley"],
     },
     imageHint: "Mount Rihane forest Lebanon",
+    descriptionAdvanced: {
+      de: "Der Berg Rihane ist ein Gipfel im südlichen Libanon-Gebirge, etwa 60 km südöstlich von Sidon. Mit einer Höhe von 1.700 Metern ist er einer der höchsten Berge der Region. Der Berg ist Teil eines Schutzgebiets, das für seine Biodiversität bekannt ist, darunter seltene Orchideen und endemische Vogelarten. Die Hänge sind mit Eichen- und Kiefernwäldern bedeckt. In der Antike war der Berg heilig, und es gibt Überreste phönizischer und römischer Tempel. Heute ist Mount Rihane ein Ziel für Ökotourismus und Bergsteigen.",
+      hu: "A Rihane-hegy egy csúcs a déli Libanoni-hegységben, Szidóntól mintegy 60 km-re délkeletre. Magassága 1700 méter, a régió egyik legmagasabb hegye. A hegy egy védett terület része, amely biodiverzitásáról ismert, beleértve a ritka orchideákat és endemikus madárfajokat. A lejtőket tölgy- és fenyőerdők borítják. Az ókorban a hegy szent volt, és föníciai és római templomok maradványai találhatók. Ma a Mount Rihane az ökoturizmus és a hegymászás célpontja.",
+      ro: "Muntele Rihane este un vârf din sudul Munților Libanului, la aproximativ 60 km sud-est de Sidon. Cu o înălțime de 1.700 de metri, este unul dintre cei mai înalți munți din regiune. Muntele face parte dintr-o arie protejată cunoscută pentru biodiversitatea sa, inclusiv orhidee rare și specii endemice de păsări. Pantele sunt acoperite cu păduri de stejar și pin. În antichitate, muntele era sacru, existând ruine ale templelor feniciene și romane. Astăzi, Mount Rihane este o destinație pentru ecoturism și alpinism.",
+      en: "Mount Rihane is a peak in the southern Lebanon Mountains, about 60 km southeast of Sidon. At an elevation of 1,700 meters, it is one of the highest mountains in the region. The mountain is part of a protected area known for its biodiversity, including rare orchids and endemic bird species. The slopes are covered with oak and pine forests. In antiquity, the mountain was sacred, with remnants of Phoenician and Roman temples. Today, Mount Rihane is a destination for ecotourism and mountaineering.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.700 Meter", "Entfernung von Sidon: 60 km südöstlich", "Schutzgebiet: bekannt für Biodiversität", "Seltene Orchideen", "Eichen- und Kiefernwälder", "Antike Tempelruinen (phönizisch/römisch)"],
+      hu: ["Magasság: 1700 méter", "Sidontól délkeletre: 60 km", "Védett terület", "Ritka orchideák", "Tölgy- és fenyőerdők", "Föníciai és római templomromok"],
+      ro: ["Înălțime: 1.700 m", "Distanța față de Sidon: 60 km sud-est", "Arie protejată cu biodiversitate", "Orhidee rare", "Păduri de stejar și pin", "Ruine de temple feniciene și romane"],
+      en: ["Elevation: 1,700 meters", "Distance from Sidon: 60 km southeast", "Protected area with high biodiversity", "Rare orchids", "Oak and pine forests", "Ancient temple ruins (Phoenician/Roman)"],
+    },
   },
   {
     id: "lebanon-wadi-al-taym-relief-v2",
     type: "valley",
     name: { de: "Wadi al-Taym", hu: "Vádi et-Tejm", ro: "Wadi al-Taym", en: "Wadi al-Taym" },
-    coordinates: { lat: 33.45, lng: 35.85 },
+    coords: [35.85, 33.45],
     description: {
       de: "Ein strategisches Tal am Fuße des Berges Hermon im Südosten des Landes. Es bildet eine natürliche Senke zwischen dem Anti-Libanon und dem Libanongebirge.",
       hu: "Stratégiai völgy a Hermon-hegy lábánál az ország délkeleti részén. Természetes mélyedést képez az Anti-Libanon és a Libanoni-hegység között.",
@@ -831,12 +939,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Valley floor approximately 10 kilometers wide", "Contains the headwaters of the Hasbani River", "Key historical route between Syria and Palestine", "Fertile soil used for grain and fruit cultivation"],
     },
     imageHint: "Wadi al-Taym valley floor Lebanon",
+    descriptionAdvanced: {
+      de: "Das Wadi al-Taym ist ein fruchtbares Tal im südöstlichen Libanon, das sich entlang der Grenze zu Syrien erstreckt. Es ist Teil der Bekaa-Ebene und wird vom Hasbani-Fluss bewässert. Das Tal ist bekannt für seinen Weinbau, insbesondere die Rebsorte Merwah, die für die Herstellung von Arak verwendet wird. Die Region hat eine reiche landwirtschaftliche Tradition mit Olivenhainen und Obstgärten. Wadi al-Taym ist auch kulturell bedeutend, da es Heimat vieler drusischer Dörfer ist. Die Landschaft ist geprägt von sanften Hügeln und weiten Feldern.",
+      hu: "A Wadi al-Taym egy termékeny völgy Délkelet-Libanonban, a szíriai határ mentén. A Bekaa-völgy része, és a Hasbani folyó öntözi. A völgy híres borászatáról, különösen a Merwah szőlőfajtáról, amelyet arak készítéséhez használnak. A régió gazdag mezőgazdasági hagyományokkal rendelkezik, olívaligetekkel és gyümölcsösökkel. A Wadi al-Taym kulturálisan is jelentős, mivel számos drúz falu található itt. A tájat enyhe dombok és széles mezők jellemzik.",
+      ro: "Wadi al-Taym este o vale fertilă în sud-estul Libanului, de-a lungul graniței cu Siria. Face parte din Câmpia Bekaa și este irigată de râul Hasbani. Valea este cunoscută pentru viticultură, în special soiul Merwah, folosit pentru producerea de arak. Regiunea are o bogată tradiție agricolă, cu livezi de măsline și pomi fructiferi. Wadi al-Taym este, de asemenea, importantă din punct de vedere cultural, găzduind multe sate druze. Peisajul este caracterizat de dealuri line și câmpii întinse.",
+      en: "Wadi al-Taym is a fertile valley in southeastern Lebanon, stretching along the border with Syria. It is part of the Bekaa Valley and is irrigated by the Hasbani River. The valley is known for its wine production, especially the Merwah grape variety used for making arak. The region has a rich agricultural tradition with olive groves and fruit orchards. Wadi al-Taym is also culturally significant, as it is home to many Druze villages. The landscape is characterized by gentle hills and wide fields.",
+    },
+    factsAdvanced: {
+      de: ["Lage: an der syrischen Grenze", "Fluss: Hasbani", "Rebsorte: Merwah für Arak", "Landwirtschaft: Oliven, Obst", "Bedeutende drusische Gemeinschaft", "Teil der Bekaa-Ebene"],
+      hu: ["Szíriai határ mellett", "Folyó: Hasbani", "Szőlőfajta: Merwah", "Mezőgazdaság: olíva, gyümölcs", "Drúz falvak", "A Bekaa-völgy része"],
+      ro: ["Lângă granița cu Siria", "Râu: Hasbani", "Soi de struguri: Merwah", "Agricultură: măsline, fructe", "Comunitate druză", "Parte a Câmpiei Bekaa"],
+      en: ["Location: along Syrian border", "River: Hasbani", "Grape variety: Merwah (for arak)", "Agriculture: olives, fruits", "Druze community presence", "Part of Bekaa Valley"],
+    },
   },
   {
     id: "lebanon-iklim-al-kharrub-relief-v2",
     type: "landmark",
     name: { de: "Iklim al-Kharrub", hu: "Iklim al-Harrub", ro: "Iklim al-Kharrub", en: "Iklim al-Kharrub" },
-    coordinates: { lat: 33.63, lng: 35.48 },
+    coords: [35.48, 33.63],
     description: {
       de: "Ein sanft hügeliges Gebiet zwischen der Mittelmeerküste und dem Chouf-Gebirge. Es ist geprägt durch Kalksteinhügel und traditionelle Terrassenwirtschaft.",
       hu: "Enyhén dombos terület a földközi-tengeri partvidék és a Suf-hegység között. Mészkődombok és hagyományos teraszos gazdálkodás jellemzi.",
@@ -850,12 +970,24 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Name translates to District of Carob Trees", "Composed mainly of marine limestone", "Connects coastal cities with the mountainous interior", "Rich in pine forests and olive groves"],
     },
     imageHint: "Iklim al-Kharrub hills Lebanon",
+    descriptionAdvanced: {
+      de: "Das Iklim al-Kharrub ist eine Küstenregion im südlichen Libanon, zwischen Sidon und Tyros. Es ist eine hügelige Landschaft, die für ihren Anbau von Johannisbrot (Kharrub) bekannt ist, nach dem die Region benannt ist. Das Gebiet ist landwirtschaftlich geprägt mit Olivenbäumen, Zitrusfrüchten und Bananen. Es hat eine reiche Geschichte mit Ruinen aus der phönizischen, römischen und byzantinischen Zeit. Die Strände sind relativ unberührt und ziehen Besucher an. Die lokale Wirtschaft basiert auf Landwirtschaft und Tourismus.",
+      hu: "Az Iklim al-Kharrub egy tengerparti régió Dél-Libanonban, Szidón és Tírusz között. Dombos táj, amely a szentjánoskenyérfa (kharrub) termesztéséről ismert, amelyről a régiót elnevezték. A terület mezőgazdasági jellegű, olívafákkal, citrusfélékkel és banánnal. Gazdag történelme van, föníciai, római és bizánci kori romokkal. A strandok viszonylag érintetlenek, vonzzák a látogatókat. A helyi gazdaság a mezőgazdaságon és a turizmuson alapul.",
+      ro: "Iklim al-Kharrub este o regiune de coastă în sudul Libanului, între Sidon și Tyros. Este un peisaj deluros cunoscut pentru cultivarea roșcovului (kharrub), de la care regiunea își trage numele. Zona este preponderent agricolă, cu măslini, citrice și banane. Are o istorie bogată, cu ruine din perioadele feniciană, romană și bizantină. Plajele sunt relativ nealterate, atrăgând vizitatori. Economia locală se bazează pe agricultură și turism.",
+      en: "Iklim al-Kharrub is a coastal region in southern Lebanon, between Sidon and Tyre. It is a hilly landscape known for its cultivation of carob (kharrub), after which the region is named. The area is agricultural, with olive trees, citrus fruits, and bananas. It has a rich history with ruins from Phoenician, Roman, and Byzantine times. The beaches are relatively untouched, attracting visitors. The local economy is based on agriculture and tourism.",
+    },
+    factsAdvanced: {
+      de: ["Lage: zwischen Sidon und Tyros", "Namensgebend: Johannisbrot (Kharrub)", "Anbau: Oliven, Zitrusfrüchte, Bananen", "Historische Ruinen aus Phönizischer, Römischer, Byzantinischer Zeit", "Unberührte Strände", "Wirtschaft: Landwirtschaft und Tourismus"],
+      hu: ["Szidón és Tírusz között", "Névadó: szentjánoskenyérfa", "Termények: olíva, citrus, banán", "Történelmi romok: föníciai, római, bizánci", "Érintetlen strandok", "Gazdaság: mezőgazdaság, turizmus"],
+      ro: ["Între Sidon și Tyros", "Denumire: roșcov (kharrub)", "Culturi: măsline, citrice, banane", "Ruine istorice: feniciene, romane, bizantine", "Plaje nealterate", "Economie: agricultură și turism"],
+      en: ["Location: between Sidon and Tyre", "Named after: carob (kharrub)", "Crops: olives, citrus, bananas", "Historical ruins: Phoenician, Roman, Byzantine", "Undeveloped beaches", "Economy: agriculture and tourism"],
+    },
   },
   {
     id: "lebanon-koura-plain-relief-v2",
     type: "landmark",
     name: { de: "Koura-Ebene", hu: "Kura-síkság", ro: "Câmpia Koura", en: "Koura Plain" },
-    coordinates: { lat: 34.32, lng: 35.81 },
+    coords: [35.81, 34.32],
     description: {
       de: "Eine fruchtbare Küstenebene südlich von Tripolis, die für ihre endlosen Olivenhaine bekannt ist. Sie bildet eine der wenigen flacheren Zonen am Meer.",
       hu: "Tripoli-tól délre fekvő termékeny parti síkság, amely végtelen olajfaligeteiről ismert. A tengerpart kevés laposabb övezetének egyike.",
@@ -869,5 +1001,17 @@ export const poiExtraLebanonReliefV2: POI[] = [
       en: ["Area of approximately 173 square kilometers", "Home to over 1.5 million olive trees", "Red terra rossa soils rich in iron", "Extends from sea level to 400 meters altitude"],
     },
     imageHint: "Koura plain olive groves Lebanon",
+    descriptionAdvanced: {
+      de: "Die Koura-Ebene ist eine fruchtbare Küstenebene im Nordlibanon, östlich von Tripoli. Sie erstreckt sich über etwa 30 km entlang des Mittelmeers und wird vom Nahr al-Bared Fluss durchzogen. Die Ebene ist ein bedeutendes landwirtschaftliches Gebiet, bekannt für den Anbau von Oliven und die Produktion von Olivenöl. Die Stadt Koura ist das Zentrum der Region. Die Ebene hat eine reiche Geschichte mit vielen archäologischen Stätten aus der phönizischen und römischen Zeit. Das mediterrane Klima begünstigt den Anbau von Zitrusfrüchten und Gemüse.",
+      hu: "A Koura-síkság egy termékeny tengerparti síkság Észak-Libanonban, Tripolitól keletre. Körülbelül 30 km hosszan húzódik a Földközi-tenger mentén, és a Nahr al-Bared folyó szeli át. A síkság fontos mezőgazdasági terület, híres olíva termesztéséről és olívaolaj-termeléséről. Koura városa a régió központja. A síkság gazdag történelmi múlttal rendelkezik, számos régészeti lelőhellyel a föníciai és római korból. A mediterrán éghajlat kedvez a citrusfélék és zöldségek termesztésének.",
+      ro: "Câmpia Koura este o câmpie fertilă de coastă în nordul Libanului, la est de Tripoli. Se întinde pe aproximativ 30 km de-a lungul Mării Mediterane și este străbătută de râul Nahr al-Bared. Câmpia este o zonă agricolă importantă, cunoscută pentru cultivarea măslinelor și producția de ulei de măsline. Orașul Koura este centrul regiunii. Câmpia are o istorie bogată, cu numeroase situri arheologice din perioadele feniciană și romană. Clima mediteraneană favorizează cultivarea citricelor și legumelor.",
+      en: "The Koura Plain is a fertile coastal plain in northern Lebanon, east of Tripoli. It stretches about 30 km along the Mediterranean Sea and is traversed by the Nahr al-Bared River. The plain is a significant agricultural area, known for olive cultivation and olive oil production. The town of Koura is the regional center. The plain has a rich history with many archaeological sites from Phoenician and Roman times. The Mediterranean climate favors the cultivation of citrus fruits and vegetables.",
+    },
+    factsAdvanced: {
+      de: ["Länge: etwa 30 km entlang der Küste", "Fluss: Nahr al-Bared", "Hauptprodukt: Oliven und Olivenöl", "Stadtzentrum: Koura", "Archäologische Stätten: phönizisch / römisch", "Anbau: Zitrusfrüchte, Gemüse"],
+      hu: ["Hossz: kb. 30 km a part mentén", "Folyó: Nahr al-Bared", "Fő termék: olíva, olívaolaj", "Központ: Koura", "Régészeti lelőhelyek: föníciai, római", "Termények: citrus, zöldség"],
+      ro: ["Lungime: aproximativ 30 km de-a lungul coastei", "Râu: Nahr al-Bared", "Produs principal: măsline, ulei de măsline", "Centru: orașul Koura", "Situri arheologice: feniciene, romane", "Culturi: citrice, legume"],
+      en: ["Length: about 30 km along coast", "River: Nahr al-Bared", "Main product: olives and olive oil", "Regional center: Koura town", "Archaeological sites: Phoenician, Roman", "Crops: citrus, vegetables"],
+    },
   }
 ];

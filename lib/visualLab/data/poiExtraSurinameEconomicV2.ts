@@ -712,7 +712,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-wageningen-rijstindustrie-economic-v2",
     type: "industry",
     name: { de: "Wageningen Reisindustrie", hu: "Wageningen Rizsipar", ro: "Industria Orezului Wageningen", en: "Wageningen Rice Industry" },
-    coordinates: { lat: 5.7608, lng: -56.6917 },
+    coords: [-56.6917, 5.7608],
     description: {
       de: "Dies ist ein zentraler Standort für die großflächige Reisverarbeitung im Distrikt Nickerie. Die Region bildet das Herz der surinamischen Landwirtschaft.",
       hu: "Ez egy központi helyszín a nagyüzemi rizsfeldolgozáshoz Nickerie körzetben. A régió Suriname mezőgazdaságának szíve.",
@@ -731,7 +731,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-smc-suiker-economic-v2",
     type: "factory",
     name: { de: "SMC Zuckeranlage", hu: "SMC Cukorüzem", ro: "Instalația de zahăr SMC", en: "SMC Sugar Facility" },
-    coordinates: { lat: 5.85, lng: -55.15 },
+    coords: [-55.15, 5.85],
     description: {
       de: "Diese Anlage konzentriert sich auf die industrielle Verarbeitung von Zuckerrohr. Sie trägt wesentlich zur regionalen Wirtschaft bei.",
       hu: "Ez az üzem a cukornád ipari feldolgozására összpontosít. Jelentősen hozzájárul a regionális gazdasághoz.",
@@ -750,7 +750,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-suralco-bauxit-economic-v2",
     type: "industry",
     name: { de: "Suralco Bauxitverarbeitung", hu: "Suralco Bauxitfeldolgozó", ro: "Procesarea bauxitei Suralco", en: "Suralco Bauxite Processing" },
-    coordinates: { lat: 5.6333, lng: -55.0833 },
+    coords: [-55.0833, 5.6333],
     description: {
       de: "Standort für die Verarbeitung von Bauxit zu Aluminiumerzeugnissen. Der Bergbau war historisch der wichtigste Sektor.",
       hu: "Bauxit alumíniumtermékekké történő feldolgozásának helyszíne. A bányászat történelmileg a legfontosabb ágazat volt.",
@@ -769,7 +769,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-waka-pasi-markt-economic-v2",
     type: "city",
     name: { de: "Waka Pasi Handelszentrum", hu: "Waka Pasi Kereskedelmi Központ", ro: "Centrul Comercial Waka Pasi", en: "Waka Pasi Commercial Center" },
-    coordinates: { lat: 5.8286, lng: -55.1583 },
+    coords: [-55.1583, 5.8286],
     description: {
       de: "Dieses Handelsareal in Paramaribo unterstützt lokale Handwerker und kleine Unternehmen. Es dient als wichtiger Marktplatz für die Stadt.",
       hu: "Ez a paramaribói kereskedelmi terület támogatja a helyi kézműveseket és kisvállalkozásokat. Fontos piactérként szolgál a város számára.",
@@ -788,7 +788,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-paranam-kraftwerk-economic-v2",
     type: "industry",
     name: { de: "Paranam Kraftwerk", hu: "Paranam Erőmű", ro: "Centrala Electrică Paranam", en: "Paranam Power Plant" },
-    coordinates: { lat: 5.6333, lng: -55.0833 },
+    coords: [-55.0833, 5.6333],
     description: {
       de: "Ein bedeutendes Kraftwerk zur Versorgung der lokalen Industrie. Es ist ein kritischer Bestandteil der nationalen Energieinfrastruktur.",
       hu: "Jelentős erőmű a helyi ipar energiaellátásához. A nemzeti energia-infrastruktúra kritikus része.",
@@ -807,7 +807,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-nickerie-fischereizentrum-economic-v2",
     type: "port",
     name: { de: "Nickerie Fischereizentrum", hu: "Nickerie Halászati Központ", ro: "Centrul de Pescuit Nickerie", en: "Nickerie Fishing Center" },
-    coordinates: { lat: 5.95, lng: -57.0 },
+    coords: [-57.0, 5.95],
     description: {
       de: "Dieses Zentrum koordiniert den Fischereibetrieb in der Region. Es spielt eine zentrale Rolle in der Meeresfrüchteproduktion des Landes.",
       hu: "Ez a központ koordinálja a régió halászati tevékenységét. Központi szerepet játszik az ország tengeri élelmiszer-termelésében.",
@@ -826,7 +826,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-brownsberg-gold-economic-v2",
     type: "mine",
     name: { de: "Brownsberg Goldabbau-Zone", hu: "Brownsberg Aranybányászati Zóna", ro: "Zona de Minerit Aurifer Brownsberg", en: "Brownsberg Gold Mining Zone" },
-    coordinates: { lat: 4.95, lng: -55.1833 },
+    coords: [-55.1833, 4.95],
     description: {
       de: "Ein Gebiet für die aktive Extraktion von Goldvorkommen. Diese Aktivitäten bilden einen wichtigen Wirtschaftszweig in der Region.",
       hu: "Terület az aktív aranykitermeléshez. Ezek a tevékenységek fontos gazdasági ágat jelentenek a régióban.",
@@ -845,7 +845,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-paranam-hafen-economic-v2",
     type: "port",
     name: { de: "Paranam Frachthafen", hu: "Paranam Teherkikötő", ro: "Portul de Marfă Paranam", en: "Paranam Cargo Port" },
-    coordinates: { lat: 5.63, lng: -55.08 },
+    coords: [-55.08, 5.63],
     description: {
       de: "Ein industrieller Verladehafen am Suriname-Fluss. Er dient vor allem dem Export von Rohstoffen und dem Import von Industriegütern.",
       hu: "Ipari rakodókikötő a Suriname-folyón. Elsősorban nyersanyagok exportjára és ipari áruk importjára szolgál.",
@@ -864,7 +864,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-moengo-bauxit-economic-v2",
     type: "mine",
     name: { de: "Moengo Bauxitmine", hu: "Moengo Bauxitbánya", ro: "Mina de Bauxită Moengo", en: "Moengo Bauxite Mine" },
-    coordinates: { lat: 5.62, lng: -54.4 },
+    coords: [-54.4, 5.62],
     description: {
       de: "Ein Standort der historischen Bauxitförderung in Suriname. Die Mine war prägend für die wirtschaftliche Entwicklung des Ostens.",
       hu: "Suriname történelmi bauxitkitermelésének egyik helyszíne. A bánya meghatározó volt a keleti régió gazdasági fejlődése szempontjából.",
@@ -883,7 +883,7 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     id: "suriname-marowijne-holzverarbeitung-economic-v2",
     type: "industry",
     name: { de: "Marowijne Holzverarbeitung", hu: "Marowijne Faipari Feldolgozó", ro: "Prelucrarea Lemnului Marowijne", en: "Marowijne Timber Processing" },
-    coordinates: { lat: 5.75, lng: -54.0833 },
+    coords: [-54.0833, 5.75],
     description: {
       de: "Ein Zentrum für die nachhaltige Verarbeitung von Holz aus den umliegenden Wäldern. Es unterstützt die lokale Forstwirtschaft.",
       hu: "Központ a környező erdőkből származó fa fenntartható feldolgozásához. Támogatja a helyi erdőgazdálkodást.",

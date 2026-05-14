@@ -5,7 +5,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-es-sultan-history-v2",
     type: "ruins",
     name: { de: "Tell es-Sultan", hu: "Tell es-Szultán", ro: "Tell es-Sultan", en: "Tell es-Sultan" },
-    coordinates: { lat: 31.8708, lng: 35.4444 },
+    coords: [35.4444, 31.8708],
     description: {
       de: "Diese archäologische Stätte bei Jericho gilt als eine der ältesten Städte der Welt. Sie bewahrt Siedlungsspuren aus dem Epipaläolithikum.",
       hu: "Ez a Jerikó melletti régészeti helyszín a világ egyik legősibb városának számít. Több mint tízezer éves településnyomokat őriz.",
@@ -24,7 +24,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-hishams-palace-history-v2",
     type: "palace",
     name: { de: "Hischam-Palast", hu: "Hisám-palota", ro: "Palatul lui Hisham", en: "Hisham's Palace" },
-    coordinates: { lat: 31.8825, lng: 35.4597 },
+    coords: [35.4597, 31.8825],
     description: {
       de: "Der Palast ist ein bedeutendes Beispiel der frühen islamischen Architektur. Er ist berühmt für seine prächtigen Bodenmosaike und Skulpturen.",
       hu: "A palota a korai iszlám építészet egyik legfontosabb példája. Híres a látványos padlómozaikjairól és kőfaragványairól.",
@@ -43,7 +43,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-sebastia-ruins-history-v2",
     type: "ruins",
     name: { de: "Sebastia", hu: "Sebastia", ro: "Sebastia", en: "Sebastia" },
-    coordinates: { lat: 32.2764, lng: 35.1908 },
+    coords: [35.1908, 32.2764],
     description: {
       de: "Diese antike Stätte beherbergt Überreste aus der Eisenzeit und der Römerzeit. Sie war einst die Hauptstadt des Königreichs Israel.",
       hu: "Ez az antik helyszín vaskori és római kori maradványokat őriz. Egykor az Izraeli Királyság fővárosaként szolgált.",
@@ -62,7 +62,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-hebron-old-city-history-v2",
     type: "city",
     name: { de: "Hebron Altstadt", hu: "Hebron óvárosa", ro: "Orașul vechi Hebron", en: "Hebron Old City" },
-    coordinates: { lat: 31.5242, lng: 35.1086 },
+    coords: [35.1086, 31.5242],
     description: {
       de: "Die Altstadt von Hebron ist geprägt von schmalen Gassen und Mamluken-Architektur. Sie ist ein spirituelles Zentrum für drei Religionen.",
       hu: "Hebron óvárosát szűk utcák és mamlúk építészet jellemzi. Három világvallás számára is fontos spirituális központ.",
@@ -81,7 +81,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-cave-patriarchs-history-v2",
     type: "monument",
     name: { de: "Höhle der Patriarchen", hu: "Pátriárkák sírja", ro: "Peștera Patriarhilor", en: "Cave of the Patriarchs" },
-    coordinates: { lat: 31.5247, lng: 35.1107 },
+    coords: [35.1107, 31.5247],
     description: {
       de: "Diese religiöse Stätte in Hebron beherbergt die Gräber von Abraham und seiner Familie. Sie ist ein bedeutendes Ziel für Pilger.",
       hu: "Ez a hebroni vallási helyszín Ábrahám és családjának sírjait őrzi. Kiemelkedő jelentőségű zarándokhely.",
@@ -100,7 +100,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-church-nativity-history-v2",
     type: "church",
     name: { de: "Geburtskirche", hu: "Születés Temploma", ro: "Biserica Nașterii Domnului", en: "Church of the Nativity" },
-    coordinates: { lat: 31.7044, lng: 35.2076 },
+    coords: [35.2076, 31.7044],
     description: {
       de: "Diese Basilika in Bethlehem steht über dem Ort, der als Geburtsstätte Jesu gilt. Sie ist eine der ältesten Kirchen der Welt.",
       hu: "Ez a betlehemi bazilika Jézus feltételezett születési helye fölé épült. A világ egyik legrégebbi keresztény temploma.",
@@ -119,7 +119,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-solomons-pools-history-v2",
     type: "landmark",
     name: { de: "Salomons Teiche", hu: "Salamon tavai", ro: "Bazinele lui Solomon", en: "Solomon's Pools" },
-    coordinates: { lat: 31.6894, lng: 35.1683 },
+    coords: [35.1683, 31.6894],
     description: {
       de: "Drei riesige antike Wasserreservoirs südlich von Bethlehem versorgten einst Jerusalem mit Wasser. Sie sind technische Meisterwerke.",
       hu: "Három hatalmas ókori víztározó Betlehemtől délre, amelyek egykor Jeruzsálem vízellátását biztosították. Mérnöki remekművek.",
@@ -138,7 +138,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-mar-saba-monastery-history-v2",
     type: "landmark",
     name: { de: "Kloster Mar Saba", hu: "Már Szába kolostor", ro: "Mănăstirea Mar Saba", en: "Mar Saba Monastery" },
-    coordinates: { lat: 31.7052, lng: 35.3312 },
+    coords: [35.3312, 31.7052],
     description: {
       de: "Das griechisch-orthodoxe Kloster hängt spektakulär an den Klippen des Kidrontals. Es ist eines der ältesten bewohnten Klöster.",
       hu: "Ez a görög ortodox kolostor látványosan függ a Kidron-völgy szikláin. A világ egyik legrégebbi lakott kolostora.",
@@ -157,7 +157,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-monastery-temptation-history-v2",
     type: "church",
     name: { de: "Kloster der Versuchung", hu: "Megkísértés kolostora", ro: "Mănăstirea Ispitirii", en: "Monastery of the Temptation" },
-    coordinates: { lat: 31.8744, lng: 35.4319 },
+    coords: [35.4319, 31.8744],
     description: {
       de: "Das Kloster liegt an einer steilen Felswand über Jericho. Es markiert den Ort, an dem Jesus der Versuchung des Teufels widerstand.",
       hu: "A kolostor egy meredek sziklafalon található Jerikó felett. Itt állt ellen Jézus a sátán kísértésének.",
@@ -176,7 +176,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-st-georges-monastery-history-v2",
     type: "landmark",
     name: { de: "Kloster St. Georg", hu: "Szent György kolostor", ro: "Mănăstirea Sf. Gheorghe", en: "St. George's Monastery" },
-    coordinates: { lat: 31.8439, lng: 35.4142 },
+    coords: [35.4142, 31.8439],
     description: {
       de: "Dieses Kloster im Wadi Qelt ist berühmt für seine Lage in einer tiefen Schlucht. Es wurde im 5. Jahrhundert von Eremiten gegründet.",
       hu: "Ez a Vadi Keltben található kolostor híres mély szurdokvölgyi fekvéséről. Remeték alapították az 5. században.",
@@ -195,7 +195,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-balata-history-v2",
     type: "ruins",
     name: { de: "Tell Balata", hu: "Tell Balata", ro: "Tell Balata", en: "Tell Balata" },
-    coordinates: { lat: 32.2133, lng: 35.2825 },
+    coords: [35.2825, 32.2133],
     description: {
       de: "Dieser Siedlungshügel bei Nablus enthält die Überreste des biblischen Sichem. Er zeigt monumentale Tore aus der Bronzezeit.",
       hu: "Ez a Nablusz melletti halom a bibliai Sikem maradványait tartalmazza. Monumentális bronzkori kapukat mutat be.",
@@ -214,7 +214,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-jacobs-well-history-v2",
     type: "monument",
     name: { de: "Jakobsbrunnen", hu: "Jákob kútja", ro: "Fântâna lui Iacov", en: "Jacob's Well" },
-    coordinates: { lat: 32.2094, lng: 35.2853 },
+    coords: [35.2853, 32.2094],
     description: {
       de: "Dieser tiefe Brunnen befindet sich in einer griechisch-orthodoxen Kirche in Nablus. Er ist mit einer biblischen Erzählung verbunden.",
       hu: "Ez a mély kút egy nabluszi görög ortodox templomban található. Fontos bibliai történetek helyszíneként ismert.",
@@ -233,7 +233,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-battir-history-v2",
     type: "village",
     name: { de: "Battir", hu: "Battir", ro: "Battir", en: "Battir" },
-    coordinates: { lat: 31.7297, lng: 35.1383 },
+    coords: [35.1383, 31.7297],
     description: {
       de: "Dieses Dorf ist berühmt für seine antiken Terrassen und das Bewässerungssystem. Es ist ein lebendiges Beispiel für traditionelle Landwirtschaft.",
       hu: "Ez a falu híres ókori teraszairól és öntözőrendszeréről. A hagyományos mezőgazdaság élő példája és világörökségi helyszín.",
@@ -252,7 +252,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-saint-hilarion-history-v2",
     type: "ruins",
     name: { de: "Kloster St. Hilarion", hu: "Szent Hilárión kolostor", ro: "Mănăstirea Sf. Ilarion", en: "Saint Hilarion Monastery" },
-    coordinates: { lat: 31.4483, lng: 34.3731 },
+    coords: [34.3731, 31.4483],
     description: {
       de: "Diese archäologische Stätte im Gazastreifen beherbergt die Überreste eines der ältesten Klöster im Nahen Osten.",
       hu: "Ez a Gázai övezetben található régészeti lelőhely a Közel-Kelet egyik legősibb kolostorának maradványait őrzi.",
@@ -271,7 +271,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-great-mosque-gaza-history-v2",
     type: "church",
     name: { de: "Große Moschee von Gaza", hu: "Gázai nagymecset", ro: "Marea Moschee din Gaza", en: "Great Mosque of Gaza" },
-    coordinates: { lat: 31.5042, lng: 34.4633 },
+    coords: [34.4633, 31.5042],
     description: {
       de: "Die Al-Omari-Moschee ist die größte und älteste Moschee im Gazastreifen. Sie wurde ursprünglich als christliche Kirche errichtet.",
       hu: "Az Al-Omari mecset Gáza legnagyobb és legősibb mecsetje. Eredetileg keresztény templomnak épült a bizánci korban.",
@@ -290,7 +290,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-qasr-al-basha-history-v2",
     type: "palace",
     name: { de: "Qasr al-Basha", hu: "Kaszr al-Basa", ro: "Qasr al-Basha", en: "Qasr al-Basha" },
-    coordinates: { lat: 31.5055, lng: 34.4664 },
+    coords: [34.4664, 31.5055],
     description: {
       de: "Dieser historische Palast in Gaza diente einst als Sitz des Paschas. Er beherbergt heute ein Museum mit lokalen archäologischen Funden.",
       hu: "Ez a gázai történelmi palota egykor a pasa székhelyeként szolgált. Ma múzeumnak ad otthont helyi régészeti leletekkel.",
@@ -309,7 +309,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-anthedon-harbor-history-v2",
     type: "port",
     name: { de: "Anthedon Hafen", hu: "Anthedon kikötő", ro: "Portul Anthedon", en: "Anthedon Harbor" },
-    coordinates: { lat: 31.5383, lng: 34.4533 },
+    coords: [34.4533, 31.5383],
     description: {
       de: "Anthedon war der erste bekannte Seehafen von Gaza. Er zeigt Siedlungsschichten aus der Eisenzeit bis zur byzantinischen Periode.",
       hu: "Anthedon volt Gáza első ismert tengeri kikötője. A vaskortól a bizánci korszakig terjedő településrétegeket mutat be.",
@@ -328,7 +328,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-saint-porphyrius-history-v2",
     type: "church",
     name: { de: "St.-Porphyrius-Kirche", hu: "Szent Porphyrius-templom", ro: "Biserica Sf. Porfirie", en: "Church of Saint Porphyrius" },
-    coordinates: { lat: 31.5033, lng: 34.4611 },
+    coords: [34.4611, 31.5033],
     description: {
       de: "Diese griechisch-orthodoxe Kirche ist die älteste aktive Kirche in Gaza. Sie wurde ursprünglich im 5. Jahrhundert errichtet.",
       hu: "Ez a görög ortodox templom Gáza legrégebbi aktív temploma. Eredetileg az 5. században épült a névadó püspök tiszteletére.",
@@ -347,7 +347,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-es-sakan-history-v2",
     type: "ruins",
     name: { de: "Tell es-Sakan", hu: "Tell es-Szakan", ro: "Tell es-Sakan", en: "Tell es-Sakan" },
-    coordinates: { lat: 31.4742, lng: 34.4175 },
+    coords: [34.4175, 31.4742],
     description: {
       de: "Tell es-Sakan war eine bedeutende bronzezeitliche kanaanitische und ägyptische Siedlung. Sie liegt südlich von Gaza-Stadt.",
       hu: "Tell es-Szakan egy fontos bronzkori kánaáni és egyiptomi település volt. Gáza városától délre található régészeti helyszín.",
@@ -366,7 +366,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-jabalia-byzantine-church-history-v2",
     type: "ruins",
     name: { de: "Byzantinische Kirche Jabalia", hu: "Jabaliai bizánci templom", ro: "Biserica bizantină din Jabalia", en: "Byzantine Church of Jabalia" },
-    coordinates: { lat: 31.5333, lng: 34.4983 },
+    coords: [34.4983, 31.5333],
     description: {
       de: "Diese Ruine im Norden Gazas ist bekannt für ihre außergewöhnlichen Mosaikböden. Sie stammen aus dem 5. Jahrhundert.",
       hu: "Ez az észak-gázai rom kivételes mozaikpadlóiról ismert. Az 5. századból származó bizánci templom maradványa.",
@@ -385,7 +385,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-nablus-old-city-history-v2",
     type: "city",
     name: { de: "Altstadt von Nablus", hu: "Nablusz óvárosa", ro: "Orașul vechi Nablus", en: "Nablus Old City" },
-    coordinates: { lat: 32.2197, lng: 35.2611 },
+    coords: [35.2611, 32.2197],
     description: {
       de: "Die Altstadt ist bekannt für ihren historischen Markt und die Seifenfabriken. Sie besitzt eine dichte mittelalterliche Struktur.",
       hu: "Az óváros híres történelmi piacáról és szappanfőzőiről. Sűrű középkori építészeti szerkezettel rendelkezik.",
@@ -404,7 +404,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-burqin-church-history-v2",
     type: "church",
     name: { de: "Burqin-Kirche", hu: "Burkini templom", ro: "Biserica din Burqin", en: "Burqin Church" },
-    coordinates: { lat: 32.4633, lng: 35.2683 },
+    coords: [35.2683, 32.4633],
     description: {
       de: "Die St.-Georgs-Kirche in Burqin gilt als eine der ältesten Kirchen der Welt. Sie markiert die Stelle der Heilung der Aussätzigen.",
       hu: "A burkini Szent György-templomot a világ egyik legrégebbi templomaként tartják számon. A leprások meggyógyításának helye.",
@@ -423,7 +423,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-birzeit-old-city-history-v2",
     type: "city",
     name: { de: "Birzeit Altstadt", hu: "Birzeit óvárosa", ro: "Orașul vechi Birzeit", en: "Birzeit Old City" },
-    coordinates: { lat: 31.9686, lng: 35.1825 },
+    coords: [35.1825, 31.9686],
     description: {
       de: "Das historische Zentrum von Birzeit ist ein gut erhaltenes Beispiel für ländliche palästinensische Architektur aus osmanischer Zeit.",
       hu: "Birzeit történelmi központja a vidéki palesztin építészet jól megőrzött példája az oszmán korból.",
@@ -442,7 +442,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-taybeh-ruins-history-v2",
     type: "ruins",
     name: { de: "Taybeh Ruinen", hu: "Taybeh romjai", ro: "Ruinele din Taybeh", en: "Taybeh Ruins" },
-    coordinates: { lat: 31.9542, lng: 35.2994 },
+    coords: [35.2994, 31.9542],
     description: {
       de: "Das Dorf Taybeh beherbergt Ruinen der byzantinischen St.-Georgs-Kirche. Es gilt als der biblische Ort Ephraim.",
       hu: "Taybeh faluja a bizánci Szent György-templom romjait őrzi. A bibliai Efraim városaként azonosítják.",
@@ -461,7 +461,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-nebi-musa-history-v2",
     type: "landmark",
     name: { de: "Nabi Musa", hu: "Nabi Músza", ro: "Nabi Musa", en: "Nebi Musa" },
-    coordinates: { lat: 31.7875, lng: 35.4311 },
+    coords: [35.4311, 31.7875],
     description: {
       de: "Dieses Heiligtum in der Wüste gilt als Grabstätte des Propheten Moses. Es ist ein bedeutender muslimischer Wallfahrtsort.",
       hu: "Ez a sivatagi szentély Mózes próféta feltételezett sírhelye. Fontos muszlim zarándokhely és építészeti emlék.",
@@ -480,7 +480,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-en-nasbeh-history-v2",
     type: "ruins",
     name: { de: "Tell en-Nasbeh", hu: "Tell en-Naszbe", ro: "Tell en-Nasbeh", en: "Tell en-Nasbeh" },
-    coordinates: { lat: 31.8853, lng: 35.2167 },
+    coords: [35.2167, 31.8853],
     description: {
       de: "Dieser Hügel wird mit dem biblischen Mizpa identifiziert. Er weist massive Befestigungsanlagen aus der Eisenzeit auf.",
       hu: "Ezt a dombot a bibliai Micpával azonosítják. Hatalmas vaskori erődítményrendszer maradványait találták itt.",
@@ -499,7 +499,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-shiloh-history-v2",
     type: "ruins",
     name: { de: "Schilo", hu: "Siló", ro: "Shiloh", en: "Shiloh" },
-    coordinates: { lat: 32.0558, lng: 35.2894 },
+    coords: [35.2894, 32.0558],
     description: {
       de: "Das antike Schilo war das erste religiöse Zentrum der Israeliten. Es beherbergte einst das Tabernakel und die Bundeslade.",
       hu: "Az ókori Siló az izraeliták első vallási központja volt. Itt őrizték egykor a szent sátrat és a frigyládát.",
@@ -518,7 +518,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-beitin-history-v2",
     type: "ruins",
     name: { de: "Beitin", hu: "Bejtin", ro: "Beitin", en: "Beitin" },
-    coordinates: { lat: 31.9275, lng: 35.2367 },
+    coords: [35.2367, 31.9275],
     description: {
       de: "Dieses Dorf liegt an der Stelle des biblischen Bethel. Es enthält Ruinen einer byzantinischen Kirche und einer mittelalterlichen Burg.",
       hu: "Ez a falu a bibliai Bétel helyén fekszik. Bizánci templom és középkori vár romjait őrzi a domboldalon.",
@@ -537,7 +537,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-el-farah-history-v2",
     type: "ruins",
     name: { de: "Tell el-Far'ah", hu: "Tell el-Far'ah", ro: "Tell el-Far'ah", en: "Tell el-Far'ah" },
-    coordinates: { lat: 32.2856, lng: 35.3383 },
+    coords: [35.3383, 32.2856],
     description: {
       de: "Dieser Ort wird mit der biblischen Stadt Tirza identifiziert. Er war die erste Hauptstadt des Nordreichs Israel.",
       hu: "Ezt a helyszínt a bibliai Tirza városával azonosítják. Az Izraeli Királyság első fővárosa volt az északi részen.",
@@ -556,7 +556,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tell-taannek-history-v2",
     type: "ruins",
     name: { de: "Tell Taannek", hu: "Tell Taannek", ro: "Tell Taannek", en: "Tell Taannek" },
-    coordinates: { lat: 32.5186, lng: 35.2214 },
+    coords: [35.2214, 32.5186],
     description: {
       de: "Diese antike kanaanitische Stadt liegt am Rand der Jesreelebene. Sie ist bekannt für die Entdeckung von Keilschrifttafeln.",
       hu: "Ez az ókori kánaáni város a Jezréel-völgy szélén fekszik. Híres az itt talált ékírásos agyagtáblákról.",
@@ -575,7 +575,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-tel-dothan-history-v2",
     type: "ruins",
     name: { de: "Tell Dothan", hu: "Tell Dotán", ro: "Tell Dothan", en: "Tel Dothan" },
-    coordinates: { lat: 32.4142, lng: 35.2425 },
+    coords: [35.2425, 32.4142],
     description: {
       de: "Dieser Hügel nördlich von Nablus markiert die biblische Stadt Dothan. Er ist bekannt als Ort, an dem Joseph verkauft wurde.",
       hu: "Ez a Nablusztól északra fekvő domb az ókori Dotán városát jelzi. József történetének bibliai helyszíneként ismert.",
@@ -594,7 +594,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-archelais-history-v2",
     type: "ruins",
     name: { de: "Archelais", hu: "Archelaisz", ro: "Archelais", en: "Archelais" },
-    coordinates: { lat: 31.9442, lng: 35.4514 },
+    coords: [35.4514, 31.9442],
     description: {
       de: "Archelais war eine antike Siedlung im Jordantal, die von Archelaus gegründet wurde. Sie beherbergt Reste einer byzantinischen Kirche.",
       hu: "Archelaisz egy ókori település volt a Jordán-völgyben, amelyet Archelaosz alapított. Bizánci templom romjait őrzi.",
@@ -613,7 +613,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-baptism-site-history-v2",
     type: "monument",
     name: { de: "Taufstelle Qasr el-Yahud", hu: "Kaszer el-Jahud", ro: "Qasr el-Yahud", en: "Baptism Site" },
-    coordinates: { lat: 31.8375, lng: 35.5458 },
+    coords: [35.5458, 31.8375],
     description: {
       de: "Diese Stätte am Jordan gilt als der Ort, an dem Jesus von Johannes getauft wurde. Sie ist ein bedeutendes Ziel für Pilger.",
       hu: "A Jordán folyónál található helyszín, ahol a hagyomány szerint Keresztelő János megkeresztelte Jézust. Fontos zarándokhely.",
@@ -632,7 +632,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-khan-al-lubban-history-v2",
     type: "landmark",
     name: { de: "Khan al-Lubban", hu: "Hán al-Lubbán", ro: "Khan al-Lubban", en: "Khan al-Lubban" },
-    coordinates: { lat: 32.0675, lng: 35.2433 },
+    coords: [35.2433, 32.0675],
     description: {
       de: "Diese osmanische Karawanserei liegt an der historischen Straße zwischen Jerusalem und Nablus. Sie diente Reisenden als Raststätte.",
       hu: "Ez az oszmán karavánszeráj a Jeruzsálem és Nablusz közötti történelmi úton fekszik. Utazók fontos pihenőhelye volt.",
@@ -651,7 +651,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-deir-ghassaneh-history-v2",
     type: "village",
     name: { de: "Deir Ghassaneh", hu: "Deir Gasszane", ro: "Deir Ghassaneh", en: "Deir Ghassaneh" },
-    coordinates: { lat: 32.0356, lng: 35.0994 },
+    coords: [35.0994, 32.0356],
     description: {
       de: "Dieses Dorf ist berühmt für seine gut erhaltenen Paläste aus osmanischer Zeit. Es war einst der Sitz lokaler Herrscher.",
       hu: "Ez a falu híres a jó állapotban fennmaradt oszmán kori palotáiról. Egykor helyi uralkodók székhelye volt.",
@@ -670,7 +670,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-aboud-history-v2",
     type: "village",
     name: { de: "Aboud", hu: "Abúd", ro: "Aboud", en: "Aboud" },
-    coordinates: { lat: 32.0333, lng: 35.0817 },
+    coords: [35.0817, 32.0333],
     description: {
       de: "Aboud wird als Dorf der Kirchen bezeichnet und beherbergt antike christliche Stätten. Es hat Wurzeln bis in die römische Zeit.",
       hu: "Abúd a templomok falvaként ismert, számos ókori keresztény helyszínnel. Gyökerei a római korig nyúlnak vissza.",
@@ -689,7 +689,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-jifna-history-v2",
     type: "village",
     name: { de: "Jifna", hu: "Dzsiszna", ro: "Jifna", en: "Jifna" },
-    coordinates: { lat: 31.9633, lng: 35.2167 },
+    coords: [35.2167, 31.9633],
     description: {
       de: "Jifna, das antike Gophna, ist für seine byzantinischen Ruinen und fruchtbaren Gärten bekannt. Es ist ein Zentrum der Aprikosenkultur.",
       hu: "Dzsiszna, az ókori Gophna, bizánci romjairól és termékeny kertjeiről ismert. A sárgabarack-termesztés központja.",
@@ -708,7 +708,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-kur-village-history-v2",
     type: "village",
     name: { de: "Kur", hu: "Kur", ro: "Kur", en: "Kur" },
-    coordinates: { lat: 32.2183, lng: 35.0975 },
+    coords: [35.0975, 32.2183],
     description: {
       de: "Dieses Bergdorf ist berühmt für seine trutzigen mittelalterlichen Paläste. Es bietet einen weiten Blick über die Küstenebene.",
       hu: "Ez a hegyi falu híres középkori palotáiról. Lenyűgöző kilátást nyújt a tengerparti síkság felé.",
@@ -727,7 +727,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-arraba-palaces-history-v2",
     type: "palace",
     name: { de: "Paläste von Arraba", hu: "Arraba palotái", ro: "Palatele din Arraba", en: "Arraba Palaces" },
-    coordinates: { lat: 32.4042, lng: 35.2025 },
+    coords: [35.2025, 32.4042],
     description: {
       de: "Arraba beherbergt prächtige Paläste der lokalen herrschenden Familien aus osmanischer Zeit. Die Architektur ist reich verziert.",
       hu: "Arraba az oszmán kori helyi uralkodó családok pazar palotáinak ad otthont. Az építészet gazdagon díszített.",
@@ -746,7 +746,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-sanur-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Sanur", hu: "Szannúr citadellája", ro: "Cetatea din Sanur", en: "Sanur Citadel" },
-    coordinates: { lat: 32.3556, lng: 35.2442 },
+    coords: [35.2442, 32.3556],
     description: {
       de: "Die Zitadelle von Sanur war eine bedeutende Festung im Norden des Westjordanlandes. Sie widerstand einst mehreren Belagerungen.",
       hu: "Szannúr citadellája fontos erődítmény volt Ciszjordánia északi részén. Egykor több ostromnak is ellenállt.",
@@ -765,7 +765,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-via-dolorosa-history-v2",
     type: "landmark",
     name: { de: "Via Dolorosa", hu: "Via Dolorosa", ro: "Via Dolorosa", en: "Via Dolorosa" },
-    coordinates: { lat: 31.7797, lng: 35.2319 },
+    coords: [35.2319, 31.7797],
     description: {
       de: "Die Via Dolorosa in Jerusalem gilt als der Weg, den Jesus zur Kreuzigung ging. Sie umfasst 14 Kreuzwegstationen.",
       hu: "A jeruzsálemi Via Dolorosa az az út, amelyen a hagyomány szerint Jézus a keresztet vitte. 14 állomást foglal magában.",
@@ -784,7 +784,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-rachel-tomb-history-v2",
     type: "monument",
     name: { de: "Rahels Grab", hu: "Ráchel sírja", ro: "Mormântul Rahelei", en: "Rachel's Tomb" },
-    coordinates: { lat: 31.7208, lng: 35.2019 },
+    coords: [35.2019, 31.7208],
     description: {
       de: "Diese heilige Stätte am Eingang von Bethlehem wird als Grab der biblischen Matriarchin Rahel verehrt. Sie ist ein spirituelles Ziel.",
       hu: "Ez a Betlehem bejáratánál található szent hely a bibliai Ráchel ősanya sírja. Kiemelkedő spirituális jelentőséggel bír.",

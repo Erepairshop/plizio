@@ -5,7 +5,7 @@ export const cookislandsLifeV2: POI[] = [
     id: "cookislands-takitumu-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Takitumu Schutzgebiet", hu: "Takitumu Természetvédelmi Terület", ro: "Zona de Conservare Takitumu", en: "Takitumu Conservation Area" },
-    coordinates: { lat: -21.258, lng: -159.752 },
+    coords: [-159.752, -21.258],
     description: {
       de: "Dieses Schutzgebiet auf Rarotonga dient der Erhaltung des endemischen Rarotonga-Monarchen. Es umfasst 155 Hektar unberührten Regenwald im Süden.",
       hu: "Ez a rarotongai védett terület az őshonos madárfajok megőrzésére jött létre. A 155 hektáros erdő fontos élőhelye a ritka Rarotonga-monarchának.",
@@ -19,12 +19,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Established in 1996.", "Home to the Kakerori bird.", "Area of 1.55 square kilometers.", "Managed by local landowning clans."],
     },
     imageHint: "Lush tropical rainforest canopy in Rarotonga mountains",
+    descriptionAdvanced: {
+      de: "Das Takitumu Conservation Area im Südosten von Rarotonga ist ein Schutzgebiet von 155 Hektar, das zur Erhaltung des endemischen Kakerori-Fliegenschnäppers (Pomarea dimidiata) eingerichtet wurde. Der Wald besteht aus einheimischen Bäumen wie Rarotonga-Kastanie und Banyan. Das Gebiet ist Lebensraum für viele Vogelarten, darunter der Rarotonga-Star und der Cookinsel-Rohrsänger. Es gibt Wanderwege durch den Nebelwald und Aussichtspunkte. Die Gegend ist auch kulturell bedeutend, da sie alte polynesische Siedlungsstätten enthält. Der Zugang ist auf Führungen beschränkt, um die Umwelt zu schützen.",
+      hu: "A Takitumu Természetvédelmi Terület Rarotonga délkeleti részén egy 155 hektáros védett terület, amelyet az endemikus kakerori légykapó (Pomarea dimidiata) védelmére hoztak létre. Az erdő őshonos fákból, például rarotongai gesztenyéből és banyanból áll. A terület számos madárfaj élőhelye, köztük a rarotongai seregély és a cook-szigeteki nádirigó. Ködfelhős erdőn át vezető túraútvonalak és kilátópontok találhatók. A környék kulturálisan is jelentős, mivel ősi polinéz települések maradványait tartalmazza. A hozzáférés túrákra korlátozott a környezet védelme érdekében.",
+      ro: "Zona de Conservare Takitumu din sud-estul Rarotongăi este o arie protejată de 155 de hectare, înființată pentru conservarea mușcarului endemic kakerori (Pomarea dimidiata). Pădurea constă din copaci nativi precum castanul de Rarotonga și banyan. Zona este habitat pentru multe specii de păsări, inclusiv graurul de Rarotonga și lăcarul din Insulele Cook. Există trasee de drumeție prin pădurea de ceață și puncte de belvedere. Zona are și semnificație culturală, conținând situri străvechi de așezări polineziene. Accesul este limitat la tururi ghidate pentru protejarea mediului.",
+      en: "Takitumu Conservation Area in southeastern Rarotonga is a protected area of 155 hectares established to conserve the endemic kakerori flycatcher (Pomarea dimidiata). The forest consists of native trees such as Rarotonga chestnut and banyan. The area is habitat for many bird species, including the Rarotonga starling and Cook Islands reed warbler. There are hiking trails through the cloud forest and viewpoints. The area is also culturally significant, containing ancient Polynesian settlement sites. Access is limited to guided tours to protect the environment.",
+    },
+    factsAdvanced: {
+      de: ["Geschützte Fläche: 155 Hektar.", "Kakerori-Population: gestiegen von 21 Exemplaren (1989) auf über 350 (2020).", "Höchster Punkt: 300 Meter über dem Meeresspiegel.", "Jährlicher Niederschlag: ca. 3.000 mm.", "Wanderweg: 2,5 km lang.", "Gegründet 1996 vom Kakerori Recovery Project."],
+      hu: ["Védett terület: 155 hektár.", "Kakerori-populáció: 21 egyedről (1989) több mint 350-re nőtt (2020).", "Legmagasabb pont: 300 méter tengerszint felett.", "Éves csapadék: kb. 3.000 mm.", "Túraútvonal hossza: 2,5 km.", "1996-ban alapította a Kakerori Helyreállítási Projekt."],
+      ro: ["Suprafață protejată: 155 de hectare.", "Populația de kakerori: a crescut de la 21 de indivizi (1989) la peste 350 (2020).", "Cel mai înalt punct: 300 de metri deasupra nivelului mării.", "Precipitații anuale: aproximativ 3.000 mm.", "Traseul de drumeție: 2,5 km lungime.", "Fondată în 1996 de Kakerori Recovery Project."],
+      en: ["Protected area: 155 hectares.", "Kakerori population: increased from 21 individuals (1989) to over 350 (2020).", "Highest point: 300 meters above sea level.", "Annual rainfall: about 3,000 mm.", "Hiking trail: 2.5 km long.", "Established in 1996 by the Kakerori Recovery Project."],
+    },
   },
   {
     id: "cookislands-suwarrow-national-park-life-v2",
     type: "wildlife",
     name: { de: "Suwarrow-Nationalpark", hu: "Suwarrow Nemzeti Park", ro: "Parcul Național Suwarrow", en: "Suwarrow National Park" },
-    coordinates: { lat: -13.251, lng: -163.102 },
+    coords: [-163.102, -13.251],
     description: {
       de: "Dieses unbewohnte Atoll ist der erste Nationalpark der Cookinseln und ein wichtiges Vogelschutzgebiet. Es dient als bedeutender Brutplatz für Seevögel.",
       hu: "Ez a lakatlan atoll a Cook-szigetek első nemzeti parkja és fontos madárvédelmi terület. Jelentős fészkelőhely számos tengeri madárfaj számára.",
@@ -38,12 +50,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["National park since 1978.", "Famous for coconut crabs.", "Key site for frigatebirds.", "Only seasonally inhabited by rangers."],
     },
     imageHint: "Suwarrow atoll with white sand and turquoise water",
+    descriptionAdvanced: {
+      de: "Der Suwarrow-Nationalpark umfasst das gesamte Suwarrow-Atoll in den nördlichen Cookinseln und ist eines der abgelegensten Schutzgebiete des Pazifiks. Er wurde 1978 zum Nationalpark erklärt und erstreckt sich über eine Meeresfläche von etwa 160 km². Der Park schützt eine einzigartige Meeres- und Vogelwelt, darunter große Populationen von Seeschwalben, Fregattvögeln und Tropikvögeln. Die Korallenriffe sind weitgehend unberührt. Der Park wird von der Cook Islands National Environment Service verwaltet. Besuche sind streng reglementiert, um die ökologische Integrität zu bewahren.",
+      hu: "A Suwarrow Nemzeti Park az északi Cook-szigeteken található teljes Suwarrow-atollt magában foglalja, és a Csendes-óceán egyik legtávolabbi védett területe. 1978-ban nyilvánították nemzeti parkká, és körülbelül 160 km² tengeri területre terjed ki. A park egyedülálló tengeri és madárvilágot véd, beleértve a csérek, fregattmadarak és trópusi madarak nagy populációit. A korallzátonyok nagyrészt érintetlenek. A parkot a Cook-szigeteki Nemzeti Környezetvédelmi Szolgálat kezeli. A látogatások szigorúan szabályozottak az ökológiai integritás megőrzése érdekében.",
+      ro: "Parcul Național Suwarrow cuprinde întregul atol Suwarrow din nordul Insulelor Cook și este una dintre cele mai îndepărtate arii protejate din Pacific. A fost declarat parc național în 1978 și se întinde pe o suprafață marină de aproximativ 160 km². Parcul protejează o faună marină și aviară unică, inclusiv populații mari de rândunele de mare, fregate și păsări tropicale. Recifele de corali sunt în mare parte neatinse. Parcul este administrat de Serviciul Național de Mediu din Insulele Cook. Vizitele sunt strict reglementate pentru a păstra integritatea ecologică.",
+      en: "Suwarrow National Park encompasses the entire Suwarrow Atoll in the northern Cook Islands and is one of the most remote protected areas in the Pacific. It was declared a national park in 1978 and covers a marine area of about 160 km². The park protects unique marine and bird life, including large populations of terns, frigatebirds, and tropicbirds. The coral reefs are largely pristine. The park is managed by the Cook Islands National Environment Service. Visits are strictly regulated to preserve ecological integrity.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark seit 1978.", "Gesamtfläche: 160 km² (davon 1,8 km² Land).", "Nistende Meeresschildkröten: jährlich 50–100 Grüne Meeresschildkröten.", "Vogelarten: 15 Seevogelarten brüten hier.", "Größte Kolonie von Rußseeschwalben im Pazifik: bis zu 100.000 Paare.", "Jährliche Besucher: weniger als 100 (Forscher und lizenzierte Touren)."],
+      hu: ["Nemzeti park 1978 óta.", "Teljes terület: 160 km² (ebből 1,8 km² szárazföld).", "Fészkelő tengeri teknősök: évente 50–100 zöld tengeri teknős.", "Madárfajok: 15 tengeri madárfaj költ itt.", "A szürkecsér legnagyobb kolóniája a Csendes-óceánban: akár 100.000 pár.", "Éves látogatók: kevesebb mint 100 (kutatók és engedéllyel rendelkező túrák)."],
+      ro: ["Parc național din 1978.", "Suprafață totală: 160 km² (din care 1,8 km² teren).", "Țestoase marine cuibăritoare: 50–100 de țestoase verzi anual.", "Specii de păsări: 15 specii de păsări marine cuibăresc aici.", "Cea mai mare colonie de chiră de fum în Pacific: până la 100.000 de perechi.", "Vizitatori anuali: mai puțin de 100 (cercetători și tururi autorizate)."],
+      en: ["National park since 1978.", "Total area: 160 km² (of which 1.8 km² land).", "Nesting sea turtles: 50–100 green turtles annually.", "Bird species: 15 seabird species breed here.", "Largest colony of sooty terns in the Pacific: up to 100,000 pairs.", "Annual visitors: fewer than 100 (researchers and licensed tours)."],
+    },
   },
   {
     id: "cookislands-takutea-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Wildtierschutzgebiet Takutea", hu: "Takutea Vadvédelmi Terület", ro: "Sanctuarul de Viață Sălbatică Takutea", en: "Takutea Wildlife Sanctuary" },
-    coordinates: { lat: -19.814, lng: -158.284 },
+    coords: [-158.284, -19.814],
     description: {
       de: "Takutea ist eine kleine, unbewohnte Insel, die ausschließlich dem Schutz von Seevögeln gewidmet ist. Besonders Rotschwanz-Tropikvögel brüten hier zahlreich.",
       hu: "Takutea egy apró, lakatlan sziget, amelyet kizárólag a tengeri madarak védelmének szenteltek. Különösen a vörösfarkú trópusimadarak fészkelnek itt.",
@@ -57,12 +81,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Access requires special permission.", "Owned by the people of Atiu.", "No permanent settlements allowed.", "Major breeding site for boobies."],
     },
     imageHint: "Aerial view of Takutea island bird sanctuary",
+    descriptionAdvanced: {
+      de: "Das Takutea-Wildtierreservat umfasst die unbewohnte Insel Takutea in den südlichen Cookinseln, etwa 20 Kilometer nordwestlich von Atiu gelegen. Die Insel wurde 1903 offiziell zum Schutzgebiet erklärt und ist heute ein wichtiger Nistplatz für Seevögel. Die Vegetation besteht hauptsächlich aus Strand- und Buschvegetation mit Pandanus und Kokospalmen. Das Reservat schützt Populationen von Rotfußtölpeln, Fregattvögeln und verschiedenen Seeschwalbenarten. Der Zugang ist auf wissenschaftliche Forschung und geführte Gruppen beschränkt, die eine Genehmigung benötigen.",
+      hu: "A Takutea Vadvédelmi Terület magában foglalja a lakatlan Takutea-szigetet a déli Cook-szigeteken, körülbelül 20 kilométerre Atiu-tól északnyugatra. A szigetet 1903-ban nyilvánították hivatalosan védett területté, és ma a tengeri madarak fontos fészkelőhelye. A növényzet főként tengerparti és bokros növényekből áll, pandánusszal és kókuszpálmákkal. A rezervátum védi a vöröslábú szulák, fregattmadarak és különböző csérfajok populációit. A hozzáférés tudományos kutatásra és engedéllyel rendelkező vezetett csoportokra korlátozódik.",
+      ro: "Sanctuarul de Faună Takutea cuprinde insula nelocuită Takutea din sudul Insulelor Cook, situată la aproximativ 20 de kilometri nord-vest de Atiu. Insula a fost declarată oficial arie protejată în 1903 și este acum un important loc de cuibărit pentru păsările marine. Vegetația constă în principal din plante de coastă și arbuști, cu pandanus și palmieri de cocos. Sanctuarul protejează populații de fregate, sula cu picioare roșii și diferite specii de rândunele de mare. Accesul este limitat la cercetare științifică și grupuri ghidate cu permis.",
+      en: "Takutea Wildlife Sanctuary encompasses the uninhabited Takutea Island in the southern Cook Islands, located about 20 kilometers northwest of Atiu. The island was officially declared a protected area in 1903 and is now an important nesting site for seabirds. Vegetation consists mainly of coastal and scrub vegetation with pandanus and coconut palms. The sanctuary protects populations of red-footed boobies, frigatebirds, and various tern species. Access is limited to scientific research and guided groups with permits.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebiet seit 1903.", "Inselfläche: 1,0 km².", "Höchste Erhebung: 6 Meter über dem Meer.", "Brutpopulation des Rotfußtölpels: ca. 10.000 Paare.", "Geschätzte 20.000 Fregattvögel (Fregata minor).", "Jährliche Besucher: < 50 Personen."],
+      hu: ["1903 óta védett terület.", "Sziget területe: 1,0 km².", "Legmagasabb pont: 6 méter tengerszint felett.", "Vöröslábú szula költőpopulációja: kb. 10.000 pár.", "Becslések szerint 20.000 fregattmadár (Fregata minor).", "Éves látogatók: < 50 fő."],
+      ro: ["Arie protejată din 1903.", "Suprafața insulei: 1,0 km².", "Cel mai înalt punct: 6 metri deasupra mării.", "Populația cuibăritoare de sula cu picioare roșii: aprox. 10.000 de perechi.", "Estimativ 20.000 de fregate (Fregata minor).", "Vizitatori anuali: < 50 de persoane."],
+      en: ["Protected area since 1903.", "Island area: 1.0 km².", "Highest elevation: 6 meters above sea.", "Breeding population of red-footed boobies: approx. 10,000 pairs.", "Estimated 20,000 frigatebirds (Fregata minor).", "Annual visitors: < 50 people."],
+    },
   },
   {
     id: "cookislands-atiu-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Atiu Vogelschutzgebiet", hu: "Atiu Madárrezervátum", ro: "Rezervația de Păsări Atiu", en: "Atiu Bird Sanctuary" },
-    coordinates: { lat: -18.723, lng: -158.115 },
+    coords: [-158.115, -18.723],
     description: {
       de: "Die Insel Atiu ist bekannt für ihre Höhlen, in denen der seltene Kopeka-Vogel nistet. Dieses Schutzgebiet bewahrt den Lebensraum dieser einzigartigen Art.",
       hu: "Atiu szigete híres barlangjairól, ahol a ritka kopeka madár fészkel. Ez a rezervátum megőrzi ezen egyedülálló faj természetes élőhelyét.",
@@ -76,12 +112,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Home to the Atiu Swiftlet.", "Kopeka bird uses echolocation.", "Ancient coral cliffs (Makatea).", "Protected by local traditions."],
     },
     imageHint: "Kopeka bird in Anatakitaki cave Atiu",
+    descriptionAdvanced: {
+      de: "Das Atiu Bird Sanctuary auf der Insel Atiu ist ein wichtiges Schutzgebiet für endemische Vogelarten, das 1973 eingerichtet wurde. Es umfasst 15 Hektar tropischen Regenwaldes, der von der Atiu-Höhenbrut (Acrocephalus kerearako) und dem Rarotonga-Fruchttaube (Ptilinopus rarotongensis) bewohnt wird. Die Insel beherbergt über 130 Vogelarten, darunter Zugvögel aus Sibirien. Das Sanctuary liegt im Südosten der Insel und ist nur über einen Wanderweg erreichbar, der durch Kalksteinhöhlen führt. Der Boden besteht aus vulkanischem Basalt und Korallenkalk, was eine einzigartige Flora begünstigt.",
+      hu: "Az Atiu Madárrezervátum a Cook-szigetek egyik legrégebbi természetvédelmi területe, amelyet 1973-ban hoztak létre a helyi madárpopuláció védelmére. A rezervátum területe 15 hektár, és az Atiu-sziget trópusi esőerdejében található. A védett fajok közé tartozik az atiu-i bozótposzáta (Acrocephalus kerearako) és a rarotongai gyümölcsgalamb (Ptilinopus rarotongensis). A rezervátum fontos szerepet játszik a madárvonulás kutatásában, mivel évente több mint 30 vonuló fajt regisztrálnak. A területet a helyi közösség kezeli, és a turisták csak vezetett túrák keretében látogathatják.",
+      ro: "Sanctuarul de păsări Atiu, situat pe insula Atiu din arhipelagul Cook, a fost înființat în 1973 pentru protejarea speciilor aviare endemice. Cu o suprafață de 15 hectare, sanctuarul cuprinde pădure tropicală umedă pe sol carstic. Aici trăiesc acrocefalul de Atiu (Acrocephalus kerearako) și porumbelul cu fructe de Rarotonga (Ptilinopus rarotongensis). Peisajul include peșteri de calcar și formațiuni de coral fosil. Flora este dominată de ferigi, orhidee și copaci de pâine. Sanctuarul este un punct important pentru observarea păsărilor migratoare, cu peste 40 de specii înregistrate anual.",
+      en: "Atiu Bird Sanctuary on Atiu Island was established in 1973 to protect endemic bird species. Spanning 15 hectares of tropical rainforest on karst limestone, it is home to the Atiu reed warbler (Acrocephalus kerearako) and the Rarotonga fruit dove (Ptilinopus rarotongensis). The sanctuary is managed by the Atiu community and hosts over 130 bird species, including migratory shorebirds from Siberia and Alaska. Geological features include solution caves and fossil coral outcrops. Research programs focus on the impact of invasive species and climate change on native avifauna.",
+    },
+    factsAdvanced: {
+      de: ["Das Atiu Bird Sanctuary wurde 1973 gegründet.", "Die Fläche beträgt 15 Hektar.", "Es beheimatet über 130 Vogelarten.", "Der Wanderweg ist 2 km lang.", "Jährlich werden 30 Zugvogelarten registriert.", "Die Höhe des Regenwaldes liegt bei 50 m ü. M."],
+      hu: ["A rezervátumot 1973-ban alapították.", "Területe 15 hektár.", "Az atiu-i bozótposzáta populációja 500 egyed.", "Évente 30 vonuló fajt regisztrálnak.", "A legmagasabb pont 70 m tszf.", "A rezervátumot évente 2000 turista látogatja."],
+      ro: ["Sanctuarul a fost înființat în 1973.", "Suprafața este de 15 hectare.", "Peste 130 de specii de păsări au fost observate.", "Populația de acrocefal de Atiu este estimată la 500 de perechi.", "Înălțimea medie a copacilor este de 25 m.", "Temperatura anuală medie este de 26°C."],
+      en: ["Established in 1973.", "Area: 15 hectares.", "Home to 130+ bird species.", "Elevation: 50–70 m above sea level.", "Annual rainfall: 2,000 mm.", "Managed by the Atiu community."],
+    },
   },
   {
     id: "cookislands-manuae-marine-park-life-v2",
     type: "wildlife",
     name: { de: "Manuae Meerespark", hu: "Manuae Tengeri Park", ro: "Parcul Marin Manuae", en: "Manuae Marine Park" },
-    coordinates: { lat: -19.262, lng: -158.934 },
+    coords: [-158.934, -19.262],
     description: {
       de: "Das unbewohnte Atoll Manuae ist ein wichtiges Schutzgebiet für Meeresschildkröten und Haie. Die Lagune bietet ein intaktes Ökosystem für marine Arten.",
       hu: "A lakatlan Manuae-atoll a tengeri teknősök és cápák fontos védelmi területe. A lagúna érintetlen ökoszisztémát biztosít a tengeri fajoknak.",
@@ -95,12 +143,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Major turtle nesting ground.", "Consists of two small islets.", "Part of Marae Moana marine park.", "Abundant reef shark population."],
     },
     imageHint: "Green sea turtle swimming in Manuae lagoon",
+    descriptionAdvanced: {
+      de: "Der Manuae Marine Park umgibt das unbewohnte Atoll Manuae im Süden der Cookinseln und wurde 1997 als Meeresschutzgebiet ausgewiesen. Er erstreckt sich über 15 km² und schützt ein Ökosystem aus Korallenriffen, Lagunen und Seegraswiesen. Die Wassertiefe variiert von 2 bis 30 Metern. Das Gebiet ist bekannt für seine Population von Suppenschildkröten (Chelonia mydas) und über 80 Fischarten. Die Korallenbleiche infolge der Erwärmung des Pazifiks stellt eine zunehmende Bedrohung dar. Forschungsstationen auf dem Atoll dokumentieren die Artenvielfalt.",
+      hu: "A Manuae Tengeri Parkot 1997-ben hozták létre a Cook-szigetek lakatlan atollja, Manuae körül. A 15 km²-es terület korallzátonyokat, lagúnákat és tengerifű-mezőket foglal magában. A park célja a zöld teknős (Chelonia mydas) védelme, amely több száz egyedből álló populációval rendelkezik. A vizekben 80 halfajt azonosítottak, köztük a papagájhalakat és a cápákat. A park a helyi halászat tilalma alatt áll, és a kutatás mellett az ökoturizmusra is hangsúlyt fektet.",
+      ro: "Parcul Marin Manuae, creat în 1997, protejează atolul nelocuit Manuae și o suprafață de 15 km² de ecosisteme marine. Include recife de corali, lagune și pajiști de iarbă marină. Adăpostește o populație semnificativă de țestoase verzi (Chelonia mydas) și peste 80 de specii de pești recifali. Adâncimea apei variază între 2 și 30 m. Parcul este o zonă de restricție a pescuitului, permițând doar cercetarea științifică și turismul controlat. Schimbările climatice amenință recifele prin albirea coralilor.",
+      en: "Manuae Marine Park, established in 1997, encompasses the uninhabited Manuae Atoll in the southern Cook Islands. It covers 15 km² of coral reefs, lagoons, and seagrass beds. The park is a critical habitat for the endangered green sea turtle (Chelonia mydas) with a nesting population of approximately 500 females. Over 80 fish species have been recorded, including parrotfish and reef sharks. Fishing is prohibited, and the park serves as a research site for coral resilience and marine ecology.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1997.", "Fläche: 15 km².", "Wassertiefe: 2–30 m.", "Über 80 Fischarten.", "Suppenschildkrötenpopulation: 500 Weibchen.", "Korallenbedeckung: 40%."],
+      hu: ["1997-ben alapították.", "Területe 15 km².", "A zöld teknősök száma kb. 500 nőstény.", "80 halfajt azonosítottak.", "A lagúna mélysége 5 m.", "Éves látogatószám: 1000 fő."],
+      ro: ["Înființat în 1997.", "Suprafața: 15 km².", "Adâncimea maximă: 30 m.", "Peste 80 de specii de pești.", "Populația de țestoase verzi: 500 femele.", "Temperatura apei: 26–28°C."],
+      en: ["Established in 1997.", "Area: 15 km².", "Depth: 2–30 m.", "80+ fish species.", "Green turtle population: 500 nesting females.", "Coral cover: 40%."],
+    },
   },
   {
     id: "cookislands-aitutaki-clam-reserve-life-v2",
     type: "wildlife",
     name: { de: "Aitutaki Riesenmuschel-Reservat", hu: "Aitutaki Óriáskagyló-rezervátum", ro: "Rezervația de Scoici Gigante Aitutaki", en: "Aitutaki Giant Clam Reserve" },
-    coordinates: { lat: -18.852, lng: -159.764 },
+    coords: [-159.764, -18.852],
     description: {
       de: "In der Lagune von Aitutaki werden bedrohte Riesenmuscheln gezüchtet und geschützt. Das Reservat trägt zur Wiederherstellung der marinen Bestände bei.",
       hu: "Az Aitutaki-lagúnában veszélyeztetett óriáskagylókat tenyésztenek és védenek. A rezervátum segít a tengeri állományok helyreállításában.",
@@ -114,12 +174,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Home to Tridacna maxima.", "Protected from overfishing.", "Vibrant clam mantles visible.", "Marine research breeding project."],
     },
     imageHint: "Vibrant blue giant clam in shallow lagoon water",
+    descriptionAdvanced: {
+      de: "Das Aitutaki Giant Clam Reserve wurde 2005 eingerichtet, um die Überfischung der Riesenmuscheln (Tridacna gigas) zu stoppen. Es liegt in der Lagune von Aitutaki und umfasst 0,5 km². Die Muscheln können bis zu 1,2 m lang und 200 kg schwer werden. Das Reservat dient als Brutgebiet, aus dem Larven in die gesamte Lagune verdriftet werden. Die Wassertiefe beträgt 2–8 m. Lokale Taucher überwachen die Bestände. Die Muschelpopulation hat sich seit 2005 von 500 auf über 3.000 Exemplare erholt.",
+      hu: "Az Aitutaki Óriáskagyló-rezervátumot 2005-ben hozták létre a túlhalászott óriáskagylók (Tridacna gigas) védelmére. A 0,5 km²-es terület Aitutaki lagúnájában található. Az itt élő kagylók akár 1,2 m hosszúra és 200 kg súlyúra is megnőhetnek. A rezervátum fontos szaporodási hely, ahonnan a lárvák a lagúna más részeibe sodródnak. A vízmélység 2–8 m. A helyi búvárok rendszeresen ellenőrzik a populációt, amely 500-ról 3000 egyedre nőtt.",
+      ro: "Rezervația de scoici uriașe Aitutaki (Tridacna gigas) a fost creată în 2005 pentru a proteja specia de pescuitul excesiv. Situată în laguna Aitutaki, ocupă 0,5 km². Scoicile ating 1,2 m lungime și 200 kg greutate. Rezervația funcționează ca zonă de reproducere, larvele fiind dispersate de curenți. Adâncimea apei este de 2–8 m. Monitorizarea locală a dus la creșterea populației de la 500 la peste 3.000 de exemplare.",
+      en: "Aitutaki Giant Clam Reserve, established in 2005, protects the overharvested giant clam (Tridacna gigas) in Aitutaki Lagoon. It covers 0.5 km² at depths of 2–8 m. The clams can grow up to 1.2 m in length and weigh 200 kg. The reserve serves as a larval source, repopulating the lagoon. Population increased from 500 in 2005 to over 3,000 individuals by 2020. Local dive operators conduct regular surveys.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2005.", "Fläche: 0,5 km².", "Wassertiefe: 2–8 m.", "Maximale Länge: 1,2 m.", "Maximales Gewicht: 200 kg.", "Populationsentwicklung: 500 auf 3000."],
+      hu: ["2005-ben alapították.", "Területe 0,5 km².", "Vízmélység: 2–8 m.", "Kagylók maximális hossza: 1,2 m.", "Súlyuk elérheti a 200 kg-ot.", "Populáció: 500-ról 3000-re nőtt."],
+      ro: ["Înființată în 2005.", "Suprafața: 0,5 km².", "Adâncime: 2–8 m.", "Lungimea maximă a scoicilor: 1,2 m.", "Greutatea maximă: 200 kg.", "Populația a crescut de la 500 la 3.000."],
+      en: ["Established in 2005.", "Area: 0.5 km².", "Depth: 2–8 m.", "Max length: 1.2 m.", "Max weight: 200 kg.", "Population growth: 500 to 3,000."],
+    },
   },
   {
     id: "cookislands-ngatangiia-mangroves-life-v2",
     type: "forest",
     name: { de: "Ngatangiia Mangroven", hu: "Ngatangiia Mangroveerdő", ro: "Mangrovele din Ngatangiia", en: "Ngatangiia Mangroves" },
-    coordinates: { lat: -21.252, lng: -159.734 },
+    coords: [-159.734, -21.252],
     description: {
       de: "Dieses Feuchtgebiet schützt die Küste Rarotongas und bietet Lebensraum für zahlreiche Krebstiere. Die Mangroven sind essenziell für die Wasserqualität.",
       hu: "Ez a vizes élőhely védi Rarotonga partjait és számos rákfélének ad otthont. A mangroveerdő alapvető fontosságú a vízminőség javításában.",
@@ -133,12 +205,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Provides nursery for fish larvae.", "Prevents coastal erosion.", "Unique brackish water system.", "Home to fiddler crabs."],
     },
     imageHint: "Mangrove roots and trees along the harbor edge",
+    descriptionAdvanced: {
+      de: "Die Ngatangiia-Mangroven auf Rarotonga erstrecken sich entlang der Südküste der Insel und bedecken etwa 10 Hektar. Sie bestehen hauptsächlich aus der Roten Mangrove (Rhizophora stylosa). Das Gebiet ist ein wichtiger Lebensraum für Jungfische und Krabben. Die Mangroven filtern Sedimente aus dem Abfluss und schützen die Küste vor Erosion. Der Ngatangiia Swamp Walk ist ein 1,5 km langer Holzsteg, der Besucher durch das Ökosystem führt. Die lokale Gemeinschaft führt regelmäßige Reinigungen durch, um Plastikmüll zu entfernen.",
+      hu: "A Ngatangiia Mangrovélők Rarotonga déli partján húzódnak, területük mintegy 10 hektár. Az uralkodó faj a vörös mangrove (Rhizophora stylosa). Ez az élőhely létfontosságú a halivadékok és rákok számára. A mangrovék kiszűrik az üledéket a lefolyásból és védik a partot az eróziótól. A Ngatangiia Swamp Walk egy 1,5 km hosszú fasétány, ahonnan a látogatók megfigyelhetik az ökoszisztémát. A helyi közösség rendszeresen takarítja a területet a műanyag szeméttől.",
+      ro: "Pădurea de mangrove Ngatangiia, situată pe coasta de sud a insulei Rarotonga, acoperă aproximativ 10 hectare. Specia dominantă este mangrovele roșu (Rhizophora stylosa). Acest habitat este vital pentru peștii tineri și crabi. Mangrovele filtrează sedimentele și protejează țărmul de eroziune. Traseul Ngatangiia Swamp Walk, un pod de lemn de 1,5 km, permite vizitatorilor să exploreze ecosistemul. Comunitatea locală organizează curățenii regulate pentru a îndepărta deșeurile de plastic.",
+      en: "Ngatangiia Mangroves on the south coast of Rarotonga cover about 10 hectares, dominated by Rhizophora stylosa. These mangroves provide critical nursery habitat for juvenile fish and crabs, filter runoff sediment, and reduce coastal erosion. The 1.5 km Ngatangiia Swamp Walk boardwalk offers visitors an immersive experience. Community-led cleanups remove plastic debris. The site is also a research area for blue carbon sequestration.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 10 Hektar.", "Hauptart: Rhizophora stylosa.", "Holzsteglänge: 1,5 km.", "Höhe der Mangroven: 3–5 m.", "Jährliche Sedimentablagerung: 2 cm.", "Reinigungsaktionen: monatlich."],
+      hu: ["Területe 10 hektár.", "Uralkodó faj: Rhizophora stylosa.", "Sétány hossza: 1,5 km.", "Mangrovék magassága: 3–5 m.", "Éves üledéklerakódás: 2 cm.", "Takarítási akciók: havonta."],
+      ro: ["Suprafața: 10 hectare.", "Specie dominantă: Rhizophora stylosa.", "Lungimea pasarelei: 1,5 km.", "Înălțimea mangrovele: 3–5 m.", "Depunerea anuală de sediment: 2 cm.", "Acțiuni de curățare: lunare."],
+      en: ["Area: 10 ha.", "Dominant species: Rhizophora stylosa.", "Boardwalk length: 1.5 km.", "Mangrove height: 3–5 m.", "Annual sediment deposition: 2 cm.", "Cleanup frequency: monthly."],
+    },
   },
   {
     id: "cookislands-muri-lagoon-reserve-life-v2",
     type: "wildlife",
     name: { de: "Muri Lagunen-Schutzgebiet", hu: "Muri-lagúna Rezervátum", ro: "Rezervația Lagunei Muri", en: "Muri Lagoon Reserve" },
-    coordinates: { lat: -21.264, lng: -159.731 },
+    coords: [-159.731, -21.264],
     description: {
       de: "Muri ist ein wichtiger Lebensraum für Seegurken und tropische Fische in Rarotonga. Schutzmaßnahmen zielen auf die Regeneration der Korallenriffe ab.",
       hu: "Muri fontos élőhelye a tengeri uborkáknak és trópusi halaknak Rarotongán. A védelmi intézkedések a korallzátonyok regenerálódását célozzák.",
@@ -157,7 +241,7 @@ export const cookislandsLifeV2: POI[] = [
     id: "cookislands-raemaru-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Raemaru Waldreservat", hu: "Raemaru Erdőrezervátum", ro: "Rezervația Forestieră Raemaru", en: "Raemaru Forest Reserve" },
-    coordinates: { lat: -21.231, lng: -159.812 },
+    coords: [-159.812, -21.231],
     description: {
       de: "Der Wald am Berg Raemaru beherbergt viele einheimische Farne und Blütenpflanzen. Das Reservat schützt die Artenvielfalt der höheren Lagen Rarotongas.",
       hu: "A Raemaru-hegy erdeje számos őshonos páfránynak és virágos növénynek ad otthont. A rezervátum védi a magasabb területek biodiverzitását.",
@@ -176,7 +260,7 @@ export const cookislandsLifeV2: POI[] = [
     id: "cookislands-te-manga-cloud-forest-life-v2",
     type: "forest",
     name: { de: "Te Manga Nebelwald", hu: "Te Manga Köderdő", ro: "Pădurea de Ceață Te Manga", en: "Te Manga Cloud Forest" },
-    coordinates: { lat: -21.242, lng: -159.761 },
+    coords: [-159.761, -21.242],
     description: {
       de: "An den Hängen des höchsten Berges der Cookinseln gedeiht ein seltener Nebelwald. Er ist bekannt für seine Moose und endemischen Pflanzenarten.",
       hu: "A Cook-szigetek legmagasabb hegyének lejtőin ritka köderdő virágzik. Moháiról és endemikus növényfajairól nevezetes ez a terület.",
@@ -190,12 +274,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Highest point at 652 meters.", "Special orchid species present.", "Constant high humidity levels.", "Vital water catchment area."],
     },
     imageHint: "Misty cloud forest interior with mossy trees",
+    descriptionAdvanced: {
+      de: "Der Te Manga Cloud Forest auf Rarotonga ist ein einzigartiges Ökosystem in Höhenlagen zwischen 400 und 652 Metern. Er ist durch ständige Wolkenbildung und hohe Luftfeuchtigkeit gekennzeichnet. Der Boden besteht aus vulkanischem Andosomit. Die Flora umfasst endemische Moose, Farne und Orchideen. Der Wald ist die Heimat des seltenen Rarotonga-Fliegenfängers (Pomarea dimidiata). Der Te Manga-Gipfel ist der höchste Punkt der Cookinseln (652 m). Der Nebelwald speichert große Mengen an Wasser und versorgt die Tieflandbäche.",
+      hu: "A Te Manga Felhőerdő Rarotonga szigetén 400 és 652 m közötti magasságban terül el. Állandó felhőzet és magas páratartalom jellemzi. Talaja vulkanikus andozomit. Itt él a ritka rarotongai légykapó (Pomarea dimidiata). A Te Manga-csúcs (652 m) a Cook-szigetek legmagasabb pontja. A felhőerdő nagy mennyiségű vizet tárol, táplálva az alföldi patakokat.",
+      ro: "Pădurea de nori Te Manga de pe insula Rarotonga se întinde între 400 și 652 m altitudine. Este caracterizată de ceață constantă și umiditate ridicată. Solul este andozomit vulcanic. Adăpostește mușchi endemici, ferigi și orhidee, precum și muscarul de Rarotonga (Pomarea dimidiata). Vârful Te Manga (652 m) este cel mai înalt punct din Insulele Cook. Pădurea stochează apă și alimentează pâraiele din zonele joase.",
+      en: "Te Manga Cloud Forest on Rarotonga spans elevations from 400 m to the peak at 652 m. It is characterized by persistent cloud cover, high humidity, and volcanic andosol soils. The forest hosts endemic mosses, ferns, and orchids, and is critical habitat for the endangered Rarotonga flycatcher (Pomarea dimidiata). Te Manga is the highest point in the Cook Islands. The cloud forest acts as a water tower, providing dry-season flow to streams.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 400–652 m.", "Höchster Punkt der Cookinseln: 652 m.", "Jährlicher Niederschlag: 4.000 mm.", "Luftfeuchtigkeit: 90%.", "Temperaturbereich: 15–20°C.", "Endemische Vogelart: Rarotonga-Fliegenfänger."],
+      hu: ["Magasság: 400–652 m.", "Legmagasabb pont: 652 m.", "Éves csapadék: 4.000 mm.", "Páratartalom: 90%.", "Hőmérséklet: 15–20°C.", "Endemikus madár: rarotongai légykapó."],
+      ro: ["Altitudine: 400–652 m.", "Cel mai înalt punct: 652 m.", "Precipitații anuale: 4.000 mm.", "Umiditate: 90%.", "Temperatură: 15–20°C.", "Pasăre endemică: muscarul de Rarotonga."],
+      en: ["Elevation: 400–652 m.", "Highest point in Cook Islands: 652 m.", "Annual rainfall: 4,000 mm.", "Humidity: 90%.", "Temperature range: 15–20°C.", "Endemic bird: Rarotonga flycatcher."],
+    },
   },
   {
     id: "cookislands-palmerston-seabird-colony-life-v2",
     type: "wildlife",
     name: { de: "Palmerston Seevogelkolonie", hu: "Palmerston tengerimadár-kolónia", ro: "Colonia de Păsări din Palmerston", en: "Palmerston Seabird Colony" },
-    coordinates: { lat: -18.053, lng: -163.192 },
+    coords: [-163.192, -18.053],
     description: {
       de: "Das entlegene Palmerston-Atoll beherbergt riesige Kolonien von Rußseeschwalben und anderen Seevögeln. Die Inseln sind wichtige Brutstätten im Pazifik.",
       hu: "A távoli Palmerston-atoll hatalmas füstös csér és más tengeri madárkolóniáknak ad otthont. A szigetek fontos fészkelőhelyek a Csendes-óceánon.",
@@ -209,12 +305,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Thousands of nesting birds.", "Protected by extreme isolation.", "Abundant coconut crabs.", "Coral atoll with 35 small islets."],
     },
     imageHint: "Swarm of seabirds over a small coral motu",
+    descriptionAdvanced: {
+      de: "Die Palmerston-Seebird-Kolonie auf dem Palmerston-Atoll ist einer der bedeutendsten Brutplätze für Seevögel im Südpazifik. Die Kolonie umfasst sechs Motus (kleine Inseln) und beherbergt Zehntausende von Rußseeschwalben (Sterna fuscata), Noddiseeschwalben (Anous stolidus) und Fregattvögeln (Fregata minor). Die Inseln bestehen aus Korallensand und sind von Riffen umgeben. Die Brutzeit erstreckt sich von Oktober bis April. Wissenschaftliche Expeditionen dokumentieren die Populationsdynamik.",
+      hu: "A Palmerston Tengerimadár-telep a Palmerston-atollon a Csendes-óceán déli részének egyik legfontosabb tengerimadár-költőhelye. A telep hat motu-n (kis szigeten) helyezkedik el, és több tízezer pár fekete csérmének (Sterna fuscata), csérféléknek (Anous stolidus) és fregattmadaraknak (Fregata minor) ad otthont. A szigetek korallhomokból állnak. A költési időszak októbertől áprilisig tart. Tudományos expedíciók kísérik figyelemmel a populáció változásait.",
+      ro: "Colonia de păsări marine Palmerston, situată pe atolul Palmerston, este unul dintre cele mai importante locuri de cuibărit din Pacificul de Sud. Colonizarea cuprinde șase motu (insulițe) și găzduiește zeci de mii de perechi de drepnea neagră (Sterna fuscata), drepnea maro (Anous stolidus) și fregate (Fregata minor). Insulele sunt formate din nisip coralier. Sezonul de reproducere este din octombrie până în aprilie. Expedițiile științifice monitorizează dinamica populației.",
+      en: "Palmerston Seabird Colony on Palmerston Atoll is a major breeding site for seabirds in the South Pacific. The colony spans six motus and hosts tens of thousands of sooty terns (Sterna fuscata), brown noddies (Anous stolidus), and great frigatebirds (Fregata minor). The islets are coral sand with sparse vegetation. Breeding occurs from October to April. Research focuses on population trends, diet, and impact of climate change on nesting success.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Motus: 6.", "Rußseeschwalben-Population: 20.000 Paare.", "Noddiseeschwalben: 15.000 Paare.", "Fregattvögel: 5.000 Paare.", "Brutzeit: Oktober–April.", "Inselhöhe: 2 m ü. M."],
+      hu: ["Motusok száma: 6.", "Fekete csérmék: 20.000 pár.", "Csérfélék: 15.000 pár.", "Fregattmadarak: 5.000 pár.", "Költési időszak: októbertől áprilisig.", "Szigetek magassága: 2 m tszf."],
+      ro: ["Număr de motu: 6.", "Populație de drepnea neagră: 20.000 perechi.", "Drepnea maro: 15.000 perechi.", "Fregate: 5.000 perechi.", "Sezon de reproducere: octombrie–aprilie.", "Înălțimea insulei: 2 m deasupra nivelului mării."],
+      en: ["Number of motus: 6.", "Sooty tern population: 20,000 pairs.", "Brown noddy population: 15,000 pairs.", "Great frigatebird population: 5,000 pairs.", "Breeding season: October–April.", "Elevation: 2 m above sea level."],
+    },
   },
   {
     id: "cookislands-pukapuka-lagoon-reserve-life-v2",
     type: "wildlife",
     name: { de: "Pukapuka Lagunenschutz", hu: "Pukapuka-lagúna Rezervátum", ro: "Rezervația Lagunei Pukapuka", en: "Pukapuka Lagoon Reserve" },
-    coordinates: { lat: -10.884, lng: -165.852 },
+    coords: [-165.852, -10.884],
     description: {
       de: "Pukapuka ist bekannt für sein traditionelles Naturschutzsystem, das Fischbestände und Vögel schützt. Die Lagune ist reich an tropischen Meeresbewohnern.",
       hu: "Pukapuka híres hagyományos természetvédelmi rendszeréről, amely védi a halakat és madarakat. A lagúna gazdag trópusi tengeri élőlényekben.",
@@ -228,12 +336,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Traditional 'Puy' management.", "Presence of green sea turtles.", "Crystal clear lagoon water.", "Highly isolated ecosystem."],
     },
     imageHint: "Clear turquoise lagoon water in Pukapuka",
+    descriptionAdvanced: {
+      de: "Das Pukapuka Lagoon Reserve wurde 2010 auf dem abgelegenen Atoll Pukapuka eingerichtet, um die Lagune und ihre Riffe zu schützen. Es umfasst 4 km² und ist bekannt für seine hohe Biodiversität an Korallen und Fischen. Die Lagune hat eine maximale Tiefe von 12 m. Das Reservat wird von der traditionellen lokalen Verwaltung, dem Pukapuka Council, gemeinsam mit dem Umweltministerium gemanagt. Nachhaltige Fischerei ist nur mit traditionellen Methoden erlaubt. Die Lagune ist auch ein wichtiger Rastplatz für Zugvögel.",
+      hu: "A Pukapuka Lagúna Rezervátumot 2010-ben hozták létre a távoli Pukapuka atoll lagúnájának védelmére. Területe 4 km², és gazdag korall- és halfajokban. A lagúna maximális mélysége 12 m. A rezervátumot a Pukapuka Tanács és a környezetvédelmi minisztérium közösen kezeli. Hagyományos halászati módszerek engedélyezettek. A lagúna fontos pihenőhely a vonuló madarak számára.",
+      ro: "Rezervația Lagunei Pukapuka, creată în 2010 pe atolul izolat Pukapuka, protejează 4 km² de lagună și recife. Este cunoscută pentru biodiversitatea ridicată a coralilor și peștilor. Adâncimea maximă este de 12 m. Managementul este realizat de Consiliul Pukapuka și Ministerul Mediului. Pescuitul tradițional este permis. Laguna este un loc important de popas pentru păsările migratoare.",
+      en: "Pukapuka Lagoon Reserve, established in 2010 on remote Pukapuka Atoll, covers 4 km² of lagoon and reef habitat. It is noted for high coral and fish biodiversity, with maximum depth of 12 m. Management is co-led by the traditional Pukapuka Council and the Ministry of Environment. Only traditional fishing methods are permitted. The lagoon serves as a stopover for migratory birds and a nursery for juvenile fish.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2010.", "Fläche: 4 km².", "Maximale Tiefe: 12 m.", "Mehr als 100 Fischarten.", "Korallenbedeckung: 50%.", "Einwohner von Pukapuka: 400."],
+      hu: ["2010-ben alapították.", "Területe 4 km².", "Maximális mélység: 12 m.", "Több mint 100 halfaj.", "Korallborítottság: 50%.", "Pukapuka lakossága: 400 fő."],
+      ro: ["Înființată în 2010.", "Suprafața: 4 km².", "Adâncimea maximă: 12 m.", "Peste 100 de specii de pești.", "Acoperire coralină: 50%.", "Populația Pukapuka: 400 de locuitori."],
+      en: ["Established in 2010.", "Area: 4 km².", "Maximum depth: 12 m.", "Over 100 fish species.", "Coral cover: 50%.", "Population of Pukapuka: 400."],
+    },
   },
   {
     id: "cookislands-penrhyn-shark-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Penrhyn Hai-Schutzgebiet", hu: "Penrhyn Cáparezervátum", ro: "Sanctuarul de Rechini Penrhyn", en: "Penrhyn Shark Sanctuary" },
-    coordinates: { lat: -8.982, lng: -157.974 },
+    coords: [-157.974, -8.982],
     description: {
       de: "Die riesige Lagune von Penrhyn ist ein sicherer Zufluchtsort für zahlreiche Haiarten. Es ist eines der bedeutendsten marinen Habitate im Nordpazifik.",
       hu: "Penrhyn hatalmas lagúnája biztonságos menedék számos cápafaj számára. Ez az egyik legjelentősebb tengeri élőhely a Csendes-óceán északi részén.",
@@ -247,12 +367,24 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Large blacktip reef shark population.", "Largest lagoon in the Cook Islands.", "Part of the national shark sanctuary.", "Important for black pearl farming."],
     },
     imageHint: "School of reef sharks in Penrhyn lagoon",
+    descriptionAdvanced: {
+      de: "Das Penrhyn Shark Sanctuary wurde 2019 um das Penrhyn-Atoll eingerichtet und erstreckt sich über die gesamte Ausschließliche Wirtschaftszone (AWZ) von Penrhyn, eine Fläche von 12.000 km². Es schützt Haie, insbesondere den Grauen Riffhai (Carcharhinus amblyrhynchos) und den Hammerhai (Sphyrna lewini). Die kommerzielle Haifischerei ist verboten. Das Schutzgebiet ist Teil des regionalen Netzwerks der Pazifik-Hai-Reservate. Die lokale Bevölkerung ist in die Überwachung eingebunden.",
+      hu: "A Penrhyn Cápa-rezervátumot 2019-ben hozták létre a Penrhyn-atoll körül, amely a teljes 12.000 km²-es kizárólagos gazdasági övezetet lefedi. Védi a cápákat, különösen a szürke zátonycápát (Carcharhinus amblyrhynchos) és a pörölycápát (Sphyrna lewini). A kereskedelmi célú cáphalászat tilos. A rezervátum a Csendes-óceáni cápa-rezervátumok regionális hálózatának része. A helyi lakosok részt vesznek a megfigyelésben.",
+      ro: "Sanctuarul de rechini Penrhyn, înființat în 2019, acoperă întreaga zonă economică exclusivă a atolului Penrhyn, 12.000 km². Protejează rechinii, în special rechinul de recif cenușiu (Carcharhinus amblyrhynchos) și rechinul ciocan (Sphyrna lewini). Pescuitul comercial de rechini este interzis. Sanctuarul face parte din rețeaua regională de rezervații pentru rechini din Pacific. Comunitatea locală este implicată în monitorizare.",
+      en: "Penrhyn Shark Sanctuary, established in 2019, covers the entire exclusive economic zone of Penrhyn Atoll, 12,000 km². It protects gray reef sharks (Carcharhinus amblyrhynchos), scalloped hammerheads (Sphyrna lewini), and other species. Commercial shark fishing is banned. The sanctuary is part of the Pacific Shark Sanctuary network. Local fishermen are engaged in surveillance and data collection.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2019.", "Fläche: 12.000 km².", "Geschützte Haiarten: 7.", "Grauer Riffhai: 80% der Population.", "Verbot der Haifischerei: 2019.", "Bevölkerung von Penrhyn: 200."],
+      hu: ["2019-ben alapították.", "Területe 12.000 km².", "Védett cápa fajok: 7.", "Szürke zátonycápa: a populáció 80%-a.", "Cáphalászat tilalma: 2019.", "Penrhyn lakossága: 200 fő."],
+      ro: ["Înființat în 2019.", "Suprafața: 12.000 km².", "Specii de rechini protejate: 7.", "Rechin de recif cenușiu: 80% din populație.", "Interzicerea pescuitului de rechini: 2019.", "Populația Penrhyn: 200 de locuitori."],
+      en: ["Established in 2019.", "Area: 12,000 km².", "Protected shark species: 7.", "Gray reef shark: 80% of population.", "Shark fishing ban: 2019.", "Population of Penrhyn: 200."],
+    },
   },
   {
     id: "cookislands-mauke-biodiversity-forest-life-v2",
     type: "forest",
     name: { de: "Mauke Biodiversitätswald", hu: "Mauke Biodiverzitás-erdő", ro: "Pădurea de Biodiversitate Mauke", en: "Mauke Biodiversity Forest" },
-    coordinates: { lat: -20.154, lng: -157.352 },
+    coords: [-157.352, -20.154],
     description: {
       de: "Auf der Garteninsel Mauke wachsen seltene Pandanus-Bäume und endemische Orchideen. Der dichte Wald auf Korallenfelsen bewahrt die ursprüngliche Flora.",
       hu: "Mauke 'kertszigetén' ritka pandanusfák és endemikus orchideák nőnek. A korallsziklákon fekvő sűrű erdő megőrzi az eredeti flórát.",
@@ -266,5 +398,17 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Raised coral limestone island.", "Home to the Mauke Kingfisher.", "Known for fragrant flowers.", "Features natural freshwater caves."],
     },
     imageHint: "Dense tropical forest growing on coral rocks",
+    descriptionAdvanced: {
+      de: "Der Mauke Biodiversity Forest ist ein 1998 ausgewiesenes Schutzgebiet von 50 Hektar auf der Insel Mauke. Er schützt einen der letzten verbliebenen Primärwälder der südlichen Cookinseln. Die Flora umfasst endemische Bäume wie den Mauke-Sandelbaum (Santalum austrocaledonicum) und seltene Orchideen. Der Wald ist Lebensraum für den Mauke-Flughund (Pteropus tonganus) und den Rarotonga-Brillenvogel (Zosterops lateralis). Der Kalksteinboden ist von Dolinen und Höhlen geprägt.",
+      hu: "A Mauke Biodiverzitás Erdőt 1998-ban hozták létre Mauke szigetén, területe 50 hektár. Ez a déli Cook-szigetek egyik utolsó őserdeje. Növényvilágában endemikus fák, mint a mauke-i szantálfa (Santalum austrocaledonicum) és ritka orchideák találhatók. Az erdő a mauke-i repülőkutya (Pteropus tonganus) és a rarotongai fehérszemű (Zosterops lateralis) élőhelye. A mészkőtalajt dolinák és barlangok tarkítják.",
+      ro: "Pădurea de Biodiversitate Mauke, desemnată în 1998, acoperă 50 de hectare pe insula Mauke. Protejează una dintre ultimele păduri primare din sudul Insulelor Cook. Flora include copaci endemici precum lemnul de santal Mauke (Santalum austrocaledonicum) și orhidee rare. Pădurea găzduiește liliacul uriaș de Mauke (Pteropus tonganus) și ochiul alb de Rarotonga (Zosterops lateralis). Solul carstic prezintă doline și peșteri.",
+      en: "Mauke Biodiversity Forest, established in 1998, covers 50 hectares on Mauke Island, protecting one of the last primary forests in the southern Cook Islands. Flora includes endemic trees such as Mauke sandalwood (Santalum austrocaledonicum) and rare orchids. Fauna includes the Mauke flying fox (Pteropus tonganus) and the Rarotonga white-eye (Zosterops lateralis). The karst landscape features sinkholes and caves.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1998.", "Fläche: 50 Hektar.", "Endemische Baumarten: 10.", "Flughundpopulation: 1.000.", "Höchster Punkt: 28 m ü. M.", "Jährlicher Niederschlag: 2.000 mm."],
+      hu: ["1998-ban alapították.", "Területe 50 hektár.", "Endemikus fafajok: 10.", "Repülőkutya populáció: 1.000 egyed.", "Legmagasabb pont: 28 m tszf.", "Éves csapadék: 2.000 mm."],
+      ro: ["Înființată în 1998.", "Suprafața: 50 de hectare.", "Specii de copaci endemice: 10.", "Populație de lilieci uriași: 1.000.", "Altitudine maximă: 28 m.", "Precipitații anuale: 2.000 mm."],
+      en: ["Established in 1998.", "Area: 50 ha.", "Endemic tree species: 10.", "Flying fox population: 1,000.", "Highest point: 28 m.", "Annual rainfall: 2,000 mm."],
+    },
   }
 ];

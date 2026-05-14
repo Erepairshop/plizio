@@ -966,7 +966,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-astara-cities-v2",
     type: "city",
     name: { de: "Astara", hu: "Asztara", ro: "Astara", en: "Astara" },
-    coordinates: { lat: 38.4552, lng: 48.8736 },
+    coords: [48.8736, 38.4552],
     description: {
       de: "Astara liegt im äußersten Süden Aserbaidschans direkt an der Grenze zum Iran und an der Küste des Kaspischen Meeres.",
       hu: "Asztara Azerbajdzsán legdélebbi városa, közvetlenül az iráni határnál, a Kaszpi-tenger partján fekszik.",
@@ -997,7 +997,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-naftalan-cities-v2",
     type: "city",
     name: { de: "Naftalan", hu: "Naftalan", ro: "Naftalan", en: "Naftalan" },
-    coordinates: { lat: 40.5067, lng: 46.825 },
+    coords: [46.825, 40.5067],
     description: {
       de: "Die Stadt ist weltweit bekannt für ihre einzigartigen Erdölbäder, die zu medizinischen Zwecken genutzt werden.",
       hu: "A város világszerte ismert egyedülálló kőolajfürdőiről, amelyeket gyógyászati célokra használnak.",
@@ -1028,7 +1028,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-xirdalan-cities-v2",
     type: "city",
     name: { de: "Xırdalan", hu: "Xırdalan", ro: "Xîrdalan", en: "Khirdalan" },
-    coordinates: { lat: 40.4481, lng: 49.755 },
+    coords: [49.755, 40.4481],
     description: {
       de: "Xirdalan ist das Verwaltungszentrum des Bezirks Absheron und liegt nur wenige Kilometer nordwestlich der Hauptstadt Baku.",
       hu: "Xırdalan az Abşeron járás közigazgatási központja, mindössze néhány kilométerre északnyugatra fekszik Bakutól.",
@@ -1059,7 +1059,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-shusha-cities-v2",
     type: "city",
     name: { de: "Schuscha", hu: "Susa", ro: "Șușa", en: "Shusha" },
-    coordinates: { lat: 39.7592, lng: 46.7461 },
+    coords: [46.7461, 39.7592],
     description: {
       de: "Schuscha gilt als kulturelle Hauptstadt Aserbaidschans und liegt auf einem strategischen Bergplateau in der Region Karabach.",
       hu: "Susa Azerbajdzsán kulturális fővárosa, stratégiai fontosságú hegyi fennsíkon fekszik Karabah régióban.",
@@ -1090,7 +1090,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-kalbajar-cities-v2",
     type: "city",
     name: { de: "Kälbäjär", hu: "Kelbadzsár", ro: "Kelbadjar", en: "Kalbajar" },
-    coordinates: { lat: 40.1111, lng: 46.035 },
+    coords: [46.035, 40.1111],
     description: {
       de: "Kalbajar liegt im Tal des Flusses Tartar in einem der höchstgelegenen Gebiete des Kleinen Kaukasus.",
       hu: "Kelbadzsár a Tartar-folyó völgyében fekszik, a Kis-Kaukázus egyik legmagasabb területén.",
@@ -1121,7 +1121,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-ismayilli-cities-v2",
     type: "city",
     name: { de: "İsmayıllı", hu: "Iszmajilli", ro: "Ismayilli", en: "Ismayilli" },
-    coordinates: { lat: 40.7847, lng: 48.1511 },
+    coords: [48.1511, 40.7847],
     description: {
       de: "Ismayilli liegt am südlichen Fuß des Großen Kaukasus und ist bekannt für seine natürliche Schönheit und ethnische Vielfalt.",
       hu: "Iszmajilli a Nagy-Kaukázus déli lábánál fekszik, természeti szépségéről és etnikai sokszínűségéről ismert.",
@@ -1152,7 +1152,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-lerik-cities-v2",
     type: "city",
     name: { de: "Lerik", hu: "Lerik", ro: "Lerik", en: "Lerik" },
-    coordinates: { lat: 38.7753, lng: 48.4128 },
+    coords: [48.4128, 38.7753],
     description: {
       de: "Lerik liegt hoch im Talysch-Gebirge im Südosten Aserbaidschans und ist als Ort der Langlebigkeit bekannt.",
       hu: "Lerik magasan a Talis-hegységben fekszik Azerbajdzsán délkeleti részén, és a hosszú életűek földjeként ismert.",
@@ -1183,7 +1183,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-gazakh-cities-v2",
     type: "city",
     name: { de: "Qazax", hu: "Kazah", ro: "Gazakh", en: "Gazakh" },
-    coordinates: { lat: 41.0922, lng: 45.3653 },
+    coords: [45.3653, 41.0922],
     description: {
       de: "Gazakh liegt im Nordwesten des Landes nahe der Grenze zu Georgien und Armenien und ist ein historisches Zentrum der Teppichweberei.",
       hu: "Kazah az ország északnyugati részén, a grúz és örmény határ közelében fekszik, a szőnyegszövés történelmi központja.",
@@ -1214,7 +1214,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-agstafa-cities-v2",
     type: "city",
     name: { de: "Ağstafa", hu: "Agsztafa", ro: "Agstafa", en: "Agstafa" },
-    coordinates: { lat: 41.1189, lng: 45.4539 },
+    coords: [45.4539, 41.1189],
     description: {
       de: "Agstafa ist ein wichtiger Verkehrsknotenpunkt im Nordwesten Aserbaidschans an der Eisenbahnstrecke von Baku nach Tiflis.",
       hu: "Agsztafa fontos közlekedési csomópont Azerbajdzsán északnyugati részén, a Baku–Tbiliszi vasútvonal mentén.",
@@ -1245,7 +1245,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-qakh-cities-v2",
     type: "city",
     name: { de: "Qax", hu: "Kah", ro: "Qakh", en: "Qakh" },
-    coordinates: { lat: 41.4239, lng: 44.4828 },
+    coords: [44.4828, 41.4239],
     description: {
       de: "Qakh liegt am Fuße des Großen Kaukasus und ist reich an Bergflüssen, Wasserfällen und historischen christlichen Denkmälern.",
       hu: "Kah a Nagy-Kaukázus lábánál fekszik, bővelkedik hegyi folyókban, vízesésekben és történelmi keresztény emlékekben.",
@@ -1276,7 +1276,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-balakan-cities-v2",
     type: "city",
     name: { de: "Balakän", hu: "Balakan", ro: "Balakan", en: "Balakan" },
-    coordinates: { lat: 41.7258, lng: 46.4083 },
+    coords: [46.4083, 41.7258],
     description: {
       de: "Balakan ist die nordwestlichste Stadt Aserbaidschans und liegt in einer malerischen Region an der Grenze zu Georgien.",
       hu: "Balakan Azerbajdzsán legészaknyugatibb városa, egy festői régióban, a grúz határ mentén fekszik.",
@@ -1307,7 +1307,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-oguz-cities-v2",
     type: "city",
     name: { de: "Oğuz", hu: "Oguz", ro: "Oguz", en: "Oguz" },
-    coordinates: { lat: 41.0714, lng: 47.4653 },
+    coords: [47.4653, 41.0714],
     description: {
       de: "Oguz wird oft als die 'Schweiz Aserbaidschans' bezeichnet und ist bekannt für seine reine Bergluft und kristallklaren Flüsse.",
       hu: "Oguzt gyakran 'Azerbajdzsán Svájcaként' emlegetik, tiszta hegyi levegőjéről és kristálytiszta folyóiról ismert.",
@@ -1338,7 +1338,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-shabran-cities-v2",
     type: "city",
     name: { de: "Şabran", hu: "Sabran", ro: "Șabran", en: "Shabran" },
-    coordinates: { lat: 41.2131, lng: 48.9875 },
+    coords: [48.9875, 41.2131],
     description: {
       de: "Shabran ist eine historische Stadt im Nordosten, die früher Davachi hieß und an der alten Seidenstraße lag.",
       hu: "Sabran történelmi város északkeleten, korábban Davacsi néven volt ismert, az ősi Selyemút mentén feküdt.",
@@ -1369,7 +1369,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-siazan-cities-v2",
     type: "city",
     name: { de: "Siyəzän", hu: "Szijazan", ro: "Siazan", en: "Siazan" },
-    coordinates: { lat: 41.0772, lng: 49.1147 },
+    coords: [49.1147, 41.0772],
     description: {
       de: "Siazan liegt an der Küste des Kaspischen Meeres und ist ein wichtiges Zentrum der Erdölindustrie im Norden des Landes.",
       hu: "Szijazan a Kaszpi-tenger partján fekszik, és az ország északi részének fontos kőolajipari központja.",
@@ -1400,7 +1400,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-khizi-cities-v2",
     type: "city",
     name: { de: "Xızı", hu: "Hizi", ro: "Khizi", en: "Khizi" },
-    coordinates: { lat: 40.9111, lng: 49.0722 },
+    coords: [49.0722, 40.9111],
     description: {
       de: "Khizi ist die am dünnsten besiedelte Region Aserbaidschans und berühmt für seine einzigartigen roten Berge.",
       hu: "Hizi Azerbajdzsán legritkábban lakott régiója, egyedülálló vörös hegyeiről híres.",
@@ -1431,7 +1431,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-neftchala-cities-v2",
     type: "city",
     name: { de: "Neftçala", hu: "Neftcsala", ro: "Neftchala", en: "Neftchala" },
-    coordinates: { lat: 39.3586, lng: 49.2467 },
+    coords: [49.2467, 39.3586],
     description: {
       de: "Neftchala liegt an der Mündung des Flusses Kura in das Kaspische Meer und ist ein bedeutendes Industriezentrum.",
       hu: "Neftcsala a Kura-folyó torkolatánál fekszik a Kaszpi-tengernél, jelentős ipari központ.",
@@ -1462,7 +1462,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-hajigabul-cities-v2",
     type: "city",
     name: { de: "Hacıqabul", hu: "Hadzsigabul", ro: "Hajigabul", en: "Hajigabul" },
-    coordinates: { lat: 40.0394, lng: 48.9442 },
+    coords: [48.9442, 40.0394],
     description: {
       de: "Hajigabul liegt in der Kura-Aras-Niederung und dient als strategischer Verkehrsknotenpunkt zwischen Baku und dem Westen.",
       hu: "Hadzsigabul a Kura-Arasz-alföldön fekszik, stratégiai közlekedési csomópont Baku és nyugat között.",
@@ -1493,7 +1493,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-saatly-cities-v2",
     type: "city",
     name: { de: "Saatlı", hu: "Szaatli", ro: "Saatly", en: "Saatly" },
-    coordinates: { lat: 39.9314, lng: 48.3697 },
+    coords: [48.3697, 39.9314],
     description: {
       de: "Saatly liegt im Zentrum Aserbaidschans am Ufer des Flusses Aras und ist ein wichtiges Agrarzentrum.",
       hu: "Szaatli Azerbajdzsán központi részén, az Arasz-folyó partján fekszik, fontos mezőgazdasági központ.",
@@ -1524,7 +1524,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-zardab-cities-v2",
     type: "city",
     name: { de: "Zärdab", hu: "Zardab", ro: "Zardab", en: "Zardab" },
-    coordinates: { lat: 40.2192, lng: 47.7142 },
+    coords: [47.7142, 40.2192],
     description: {
       de: "Zardab liegt am linken Ufer des Flusses Kura und ist Geburtsort des Begründers der aserbaidschanischen Presse.",
       hu: "Zardab a Kura-folyó bal partján fekszik, az azerbajdzsáni sajtó alapítójának szülőhelye.",
@@ -1555,7 +1555,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-beylagan-cities-v2",
     type: "city",
     name: { de: "Beyläqan", hu: "Bejlagan", ro: "Beylagan", en: "Beylagan" },
-    coordinates: { lat: 39.7756, lng: 47.6186 },
+    coords: [47.6186, 39.7756],
     description: {
       de: "Beylagan ist eine antike Stadt in der Mil-Steppe, die für ihre historischen Ruinen und Landwirtschaft bekannt ist.",
       hu: "Bejlagan egy ókori város a Mil-sztyeppén, történelmi romjairól és mezőgazdaságáról ismert.",
@@ -1586,7 +1586,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-tartar-cities-v2",
     type: "city",
     name: { de: "Tärtär", hu: "Tartar", ro: "Tartar", en: "Tartar" },
-    coordinates: { lat: 40.3414, lng: 46.9328 },
+    coords: [46.9328, 40.3414],
     description: {
       de: "Tartar liegt am Ufer des gleichnamigen Flusses und ist ein wichtiges landwirtschaftliches Zentrum im Westen Aserbaidschans.",
       hu: "Tartar az azonos nevű folyó partján fekszik, Azerbajdzsán nyugati részének fontos mezőgazdasági központja.",
@@ -1617,7 +1617,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-goranboy-cities-v2",
     type: "city",
     name: { de: "Goranboy", hu: "Goranboy", ro: "Goranboy", en: "Goranboy" },
-    coordinates: { lat: 40.6106, lng: 46.7886 },
+    coords: [46.7886, 40.6106],
     description: {
       de: "Goranboy liegt im Westen des Landes und ist ein bedeutendes landwirtschaftliches und industrielles Zentrum.",
       hu: "Goranboy az ország nyugati részén fekszik, jelentős mezőgazdasági és ipari központ.",
@@ -1648,7 +1648,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-ordubad-cities-v2",
     type: "city",
     name: { de: "Ordubad", hu: "Ordubad", ro: "Ordubad", en: "Ordubad" },
-    coordinates: { lat: 38.9103, lng: 46.0236 },
+    coords: [46.0236, 38.9103],
     description: {
       de: "Ordubad ist die zweitgrößte Stadt in der Republik Nachitschewan und bekannt für seine mittelalterliche Architektur.",
       hu: "Ordubad a Nahicseváni Köztársaság második legnagyobb városa, középkori építészetéről ismert.",
@@ -1679,7 +1679,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-julfa-cities-v2",
     type: "city",
     name: { de: "Culfa", hu: "Culfa", ro: "Julfa", en: "Julfa" },
-    coordinates: { lat: 38.9558, lng: 45.6308 },
+    coords: [45.6308, 38.9558],
     description: {
       de: "Julfa ist eine Grenzstadt in Nachitschewan am Fluss Aras und ein wichtiger Eisenbahnknotenpunkt zum Iran.",
       hu: "Culfa határváros Nahicsevánban az Arasz-folyó mentén, fontos vasúti csomópont Irán felé.",
@@ -1710,7 +1710,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-sharur-cities-v2",
     type: "city",
     name: { de: "Şərur", hu: "Sarur", ro: "Șarur", en: "Sharur" },
-    coordinates: { lat: 39.5442, lng: 44.9753 },
+    coords: [44.9753, 39.5442],
     description: {
       de: "Sharur ist das Verwaltungszentrum der gleichnamigen Region in Nachitschewan und liegt in einer fruchtbaren Ebene.",
       hu: "Sarur az azonos nevű régió közigazgatási központja Nahicsevánban, egy termékeny síkságon fekszik.",
@@ -1741,7 +1741,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-yardimli-cities-v2",
     type: "city",
     name: { de: "Yardımlı", hu: "Jardimli", ro: "Yardimli", en: "Yardimli" },
-    coordinates: { lat: 38.9131, lng: 48.2411 },
+    coords: [48.2411, 38.9131],
     description: {
       de: "Yardimli liegt hoch im Talysch-Gebirge und ist bekannt für seine dichten Wälder und frischen Bergquellen.",
       hu: "Jardimli magasan a Talis-hegységben fekszik, sűrű erdőiről és friss hegyi forrásairól ismert.",
@@ -1772,7 +1772,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-goygol-city-cities-v2",
     type: "city",
     name: { de: "Göygöl", hu: "Göygöl", ro: "Goygol", en: "Goygol" },
-    coordinates: { lat: 40.5858, lng: 46.3275 },
+    coords: [46.3275, 40.5858],
     description: {
       de: "Goygol ist bekannt für seine deutsche Geschichte und liegt malerisch am Fuße des Kleinen Kaukasus.",
       hu: "Göygöl német történelmi múltjáról ismert, festői környezetben fekszik a Kis-Kaukázus lábánál.",
@@ -1803,7 +1803,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-agsu-cities-v2",
     type: "city",
     name: { de: "Ağsu", hu: "Agsu", ro: "Agsu", en: "Agsu" },
-    coordinates: { lat: 40.5703, lng: 48.4008 },
+    coords: [48.4008, 40.5703],
     description: {
       de: "Agsu liegt im Zentrum des Landes und ist bekannt für seine archäologischen Ausgrabungen und den Weinbau.",
       hu: "Agsu az ország központi részén fekszik, régészeti ásatásairól és bortermeléséről ismert.",
@@ -1834,7 +1834,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-zangilan-cities-v2",
     type: "city",
     name: { de: "Zängilan", hu: "Zangilan", ro: "Zangilan", en: "Zangilan" },
-    coordinates: { lat: 39.0725, lng: 46.6575 },
+    coords: [46.6575, 39.0725],
     description: {
       de: "Zangilan liegt im Südwesten Aserbaidschans am Fluss Okhchuchay und ist für seine wertvollen Platanenwälder bekannt.",
       hu: "Zangilan Azerbajdzsán délnyugati részén fekszik az Ohcsucsaj-folyónál, értékes platánerdeiről ismert.",
@@ -1865,7 +1865,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     id: "azerbaijan-gubadly-cities-v2",
     type: "city",
     name: { de: "Qubadlı", hu: "Gubadli", ro: "Gubadly", en: "Gubadly" },
-    coordinates: { lat: 39.345, lng: 46.5833 },
+    coords: [46.5833, 39.345],
     description: {
       de: "Gubadly liegt am Ufer des Flusses Bazarachay im Südwesten des Landes und ist von Gebirgskämmen umgeben.",
       hu: "Gubadli a Bazaracsaj-folyó partján fekszik az ország délnyugati részén, hegygerincek veszik körül.",

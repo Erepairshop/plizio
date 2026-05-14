@@ -969,7 +969,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     id: "uzbekistan-mirzachul-steppe-relief-v2",
     type: "valley",
     name: { de: "Hungersteppe", hu: "Éhes-puszta", ro: "Stepa Foamei", en: "Hungry Steppe" },
-    coordinates: { lat: 40.5, lng: 68.5 },
+    coords: [68.5, 40.5],
     description: {
       de: "Die Hungersteppe ist eine ausgedehnte Löss-Ebene im Osten Usbekistans, südlich des Flusses Syrdarja.",
       hu: "Az Éhes-puszta egy kiterjedt löszsíkság Üzbegisztán keleti részén, a Szir-darja folyótól délre.",
@@ -988,7 +988,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     id: "uzbekistan-boysun-mountains-relief-v2",
     type: "mountain",
     name: { de: "Boysun-Gebirge", hu: "Boysun-hegység", ro: "Munții Boysun", en: "Boysun Mountains" },
-    coordinates: { lat: 38.3, lng: 67.2 },
+    coords: [67.2, 38.3],
     description: {
       de: "Das Boysun-Gebirge im Süden Usbekistans ist für seine tiefen Schluchten und hohen Kalksteingipfel bekannt.",
       hu: "A Boysun-hegység Üzbegisztán déli részén található, mély szurdokairól és magas mészkőcsúcsairól ismert.",
@@ -1007,7 +1007,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     id: "uzbekistan-kuldjuktau-mountains-relief-v2",
     type: "mountain",
     name: { de: "Kuldjuktau-Gebirge", hu: "Kuldzsuktau-hegység", ro: "Munții Kuldjuktau", en: "Kuldjuktau Mountains" },
-    coordinates: { lat: 40.7, lng: 63.7 },
+    coords: [63.7, 40.7],
     description: {
       de: "Das Kuldjuktau-Gebirge ist ein isolierter Gebirgszug im Zentrum der Kyzylkum-Wüste mit trockener Vegetation.",
       hu: "A Kuldzsuktau-hegység egy izolált hegyvonulat a Kizil-kum sivatag közepén, száraz növényzettel.",
@@ -1026,7 +1026,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     id: "uzbekistan-kashkadarya-valley-relief-v2",
     type: "valley",
     name: { de: "Kashkadarya-Becken", hu: "Kaskadarja-medence", ro: "Valea Kașkadaria", en: "Kashkadarya Valley" },
-    coordinates: { lat: 38.8, lng: 66.0 },
+    coords: [66.0, 38.8],
     description: {
       de: "Das Kashkadarya-Becken ist eine fruchtbare Senke zwischen dem Serafschan- und dem Hissargebirge im Süden.",
       hu: "A Kaskadarja-medence egy termékeny süllyedék a Zeravsán- és a Gisszar-hegység között délen.",
@@ -1045,7 +1045,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     id: "uzbekistan-sultan-uvays-range-relief-v2",
     type: "mountain",
     name: { de: "Sultan-Uvays-Berge", hu: "Szultán-Uvajsz-hegység", ro: "Munții Sultan-Uvays", en: "Sultan-Uvays Range" },
-    coordinates: { lat: 42.1, lng: 60.6 },
+    coords: [60.6, 42.1],
     description: {
       de: "Die Sultan-Uvays-Berge sind eine niedrige Gebirgskette in Karakalpakstan, die aus dem Wüstenboden aufragt.",
       hu: "A Szultán-Uvajsz-hegység egy alacsony vonulat Karakalpaksztánban, amely a sivatagi síkságból emelkedik ki.",

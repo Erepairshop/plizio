@@ -726,7 +726,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-dapaong-cotton-ginning-economic-v2",
     type: "factory",
     name: { de: "Dapaong Baumwollentkernung", hu: "Dapaong gyapotfeldolgozó", ro: "Fabrica de procesare a bumbacului Dapaong", en: "Dapaong Cotton Ginning Plant" },
-    coordinates: { lat: 10.855, lng: 0.203 },
+    coords: [0.203, 10.855],
     description: {
       de: "Diese Anlage verarbeitet in der Region Savanes angebaute Baumwolle. Sie dient als zentraler Umschlagplatz für landwirtschaftliche Rohstoffe.",
       hu: "Ez az üzem a Savanes régióban termesztett gyapotot dolgozza fel. Központi átrakodóhelyként szolgál a mezőgazdasági nyersanyagok számára.",
@@ -745,7 +745,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-kpalime-palm-oil-mill-economic-v2",
     type: "factory",
     name: { de: "Kpalimé Palmölmühle", hu: "Kpalimé pálmaolaj-üzem", ro: "Moara de ulei de palmier Kpalimé", en: "Kpalimé Palm Oil Mill" },
-    coordinates: { lat: 6.908, lng: 0.635 },
+    coords: [0.635, 6.908],
     description: {
       de: "Die Mühle extrahiert Öl aus den in der Umgebung geernteten Ölfrüchten. Sie trägt signifikant zur lokalen Wertschöpfungskette bei.",
       hu: "Az üzem a környéken betakarított olajpálma-termésekből állít elő olajat. Jelentősen hozzájárul a helyi értéklánchoz.",
@@ -764,7 +764,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-sokode-dairy-processing-economic-v2",
     type: "factory",
     name: { de: "Sokodé Molkerei", hu: "Sokodé tejüzem", ro: "Fabrica de lactate Sokodé", en: "Sokodé Dairy Plant" },
-    coordinates: { lat: 8.983, lng: 1.137 },
+    coords: [1.137, 8.983],
     description: {
       de: "Dieser Betrieb verarbeitet Milch von lokalen Rinderzuchtbetrieben. Er produziert verschiedene Molkereiprodukte für den regionalen Markt.",
       hu: "Az üzem a helyi szarvasmarha-telepekről származó tejet dolgozza fel. Különböző tejtermékeket gyárt a regionális piac számára.",
@@ -783,7 +783,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-kara-milling-complex-economic-v2",
     type: "industry",
     name: { de: "Kara Getreidemühle", hu: "Kara gabonafeldolgozó", ro: "Moara de cereale Kara", en: "Kara Grain Milling Complex" },
-    coordinates: { lat: 9.551, lng: 1.184 },
+    coords: [1.184, 9.551],
     description: {
       de: "Dieser industrielle Komplex vermahlt Hirse und Mais aus der Region Kara. Er ist ein wichtiger Versorger für die nördlichen Landesteile.",
       hu: "Ez az ipari komplexum a Kara régió köles- és kukoricatermését dolgozza fel. Fontos ellátó a ország északi részei számára.",
@@ -802,7 +802,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-tsevie-ananas-packing-economic-v2",
     type: "industry",
     name: { de: "Tsévié Ananas-Verpackungszentrum", hu: "Tsévié ananász-csomagoló", ro: "Centru de ambalare a ananasului Tsévié", en: "Tsévié Pineapple Packing Center" },
-    coordinates: { lat: 6.425, lng: 1.215 },
+    coords: [1.215, 6.425],
     description: {
       de: "Das Zentrum spezialisiert sich auf die Aufbereitung und Verpackung von Ananas für den Export. Es nutzt moderne Kühltechnologien.",
       hu: "A központ az ananász exportra történő előkészítésére és csomagolására szakosodott. Modern hűtési technológiákat alkalmaz.",
@@ -821,7 +821,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-aneho-fishery-hub-economic-v2",
     type: "port",
     name: { de: "Aného Fischerei-Umschlagplatz", hu: "Aného halászati központ", ro: "Centru de pescuit Aného", en: "Aného Fishery Hub" },
-    coordinates: { lat: 6.234, lng: 1.597 },
+    coords: [1.597, 6.234],
     description: {
       de: "Dieser Standort dient der Anlandung und dem Weiterverkauf von frischem Fisch. Er ist ein zentraler Knotenpunkt für den Handel an der Küste.",
       hu: "Ez a telephely a friss hal partra szállítására és továbbértékesítésére szolgál. Központi kereskedelmi csomópont a tengerparton.",
@@ -840,7 +840,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-atakpame-textile-weaving-economic-v2",
     type: "factory",
     name: { de: "Atakpamé Weberei", hu: "Atakpamé szövőüzem", ro: "Fabrica de țesături Atakpamé", en: "Atakpamé Weaving Mill" },
-    coordinates: { lat: 7.561, lng: 1.121 },
+    coords: [1.121, 7.561],
     description: {
       de: "Diese Weberei produziert traditionelle und moderne Stoffe. Sie ist bekannt für die Verarbeitung lokal angebauter Baumwolle.",
       hu: "A szövőüzem hagyományos és modern textíliákat gyárt. Ismert a helyileg termesztett gyapot feldolgozásáról.",
@@ -859,7 +859,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-bassar-metal-workshop-economic-v2",
     type: "industry",
     name: { de: "Bassar Metallwerkstatt", hu: "Bassar fémmegmunkáló műhely", ro: "Atelier de prelucrare a metalelor Bassar", en: "Bassar Metal Workshop" },
-    coordinates: { lat: 9.255, lng: 0.783 },
+    coords: [0.783, 9.255],
     description: {
       de: "Dieser Betrieb stellt landwirtschaftliche Werkzeuge aus Metall her. Er basiert auf einer langjährigen Tradition der Metallverarbeitung.",
       hu: "Ez az üzem mezőgazdasági szerszámokat készít fémből. A fémfeldolgozás hosszú távú hagyományára épül.",
@@ -878,7 +878,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-blitta-transport-hub-economic-v2",
     type: "industry",
     name: { de: "Blitta Logistikzentrum", hu: "Blitta logisztikai központ", ro: "Centru logistic Blitta", en: "Blitta Logistics Hub" },
-    coordinates: { lat: 8.181, lng: 0.995 },
+    coords: [0.995, 8.181],
     description: {
       de: "Das Logistikzentrum koordiniert den Güterverkehr zwischen dem Norden und dem Süden Togos. Es dient als wichtiger Umladeplatz.",
       hu: "A logisztikai központ koordinálja az áruforgalmat Togo északi és déli része között. Fontos átrakodóhelyként szolgál.",
@@ -897,7 +897,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
     id: "togo-vogan-grain-market-economic-v2",
     type: "city",
     name: { de: "Vogan Getreidemarkt", hu: "Vogan gabonapiac", ro: "Piața de cereale Vogan", en: "Vogan Grain Market" },
-    coordinates: { lat: 6.335, lng: 1.512 },
+    coords: [1.512, 6.335],
     description: {
       de: "Dieser Markt ist ein bedeutendes Handelszentrum für lokal produziertes Getreide. Er zieht Händler aus der gesamten Region an.",
       hu: "Ez a piac jelentős kereskedelmi központ a helyben termelt gabonafélék számára. A régió egészéből vonzza a kereskedőket.",

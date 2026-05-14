@@ -1446,7 +1446,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-khalifa-city-cities-v2",
     type: "city",
     name: { de: "Khalifa City", hu: "Khalifa City", ro: "Khalifa City", en: "Khalifa City" },
-    coordinates: { lat: 24.423, lng: 54.582 },
+    coords: [54.582, 24.423],
     description: {
       de: "Eine moderne Vorstadt von Abu Dhabi in der Nähe des internationalen Flughafens. Sie ist nach dem ehemaligen Präsidenten der VAE benannt.",
       hu: "Abu Dhabi modern külvárosa a nemzetközi repülőtér közelében. Az Egyesült Arab Emírségek korábbi elnökéről nevezték el.",
@@ -1465,7 +1465,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-musaffah-cities-v2",
     type: "city",
     name: { de: "Musaffah", hu: "Musaffah", ro: "Musaffah", en: "Musaffah" },
-    coordinates: { lat: 24.352, lng: 54.505 },
+    coords: [54.505, 24.352],
     description: {
       de: "Ein wichtiges Industrie- und Wohngebiet südwestlich von Abu Dhabi. Es verfügt über einen bedeutenden Hafen und zahlreiche Werkstätten.",
       hu: "Fontos ipari és lakóövezet Abu Dhabitól délnyugatra. Jelentős kikötővel és számos műhellyel rendelkezik.",
@@ -1484,7 +1484,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-mohammed-bin-zayed-city-cities-v2",
     type: "city",
     name: { de: "Mohammed Bin Zayed City", hu: "Mohammed Bin Zayed City", ro: "Mohammed Bin Zayed City", en: "Mohammed Bin Zayed City" },
-    coordinates: { lat: 24.331, lng: 54.555 },
+    coords: [54.555, 24.331],
     description: {
       de: "Ein schnell wachsendes Wohngebiet in Abu Dhabi, benannt nach dem derzeitigen Präsidenten. Es ist bekannt für seine ruhige Atmosphäre.",
       hu: "Gyorsan fejlődő lakóövezet Abu Dhabiban, amely a jelenlegi elnökről kapta a nevét. Csendes légköréről ismert.",
@@ -1503,7 +1503,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-shamkha-cities-v2",
     type: "city",
     name: { de: "Al Shamkha", hu: "Al Shamkha", ro: "Al Shamkha", en: "Al Shamkha" },
-    coordinates: { lat: 24.398, lng: 54.721 },
+    coords: [54.721, 24.398],
     description: {
       de: "Ein riesiges Wohnprojekt im Landesinneren von Abu Dhabi, das für emiratische Staatsbürger konzipiert wurde. Es liegt fernab der Küste.",
       hu: "Hatalmas lakóprojekt Abu Dhabi belső részén, amelyet az emírségi állampolgárok számára terveztek. Távol esik a tengerparttól.",
@@ -1522,7 +1522,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-wathba-cities-v2",
     type: "town",
     name: { de: "Al Wathba", hu: "Al Wathba", ro: "Al Wathba", en: "Al Wathba" },
-    coordinates: { lat: 24.225, lng: 54.698 },
+    coords: [54.698, 24.225],
     description: {
       de: "Ein ländlich geprägtes Gebiet südlich von Abu Dhabi, bekannt für Kamelrennen und sein bedeutendes Feuchtgebietsreservat.",
       hu: "Vidéki jellegű terület Abu Dhabitól délre, amely teveversenyeiről és jelentős vizes élőhelyi rezervátumáról ismert.",
@@ -1541,7 +1541,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-rahba-cities-v2",
     type: "town",
     name: { de: "Al Rahba", hu: "Al Rahba", ro: "Al Rahba", en: "Al Rahba" },
-    coordinates: { lat: 24.621, lng: 54.695 },
+    coords: [54.695, 24.621],
     description: {
       de: "Eine Wohnstadt an der Autobahn zwischen Abu Dhabi und Dubai, bekannt für ihr Krankenhaus und die umliegenden Bauernhöfe.",
       hu: "Lakóváros az Abu Dhabi és Dubai közötti autópálya mentén, amely kórházáról és a környező farmokról ismert.",
@@ -1560,7 +1560,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-bahia-cities-v2",
     type: "town",
     name: { de: "Al Bahia", hu: "Al Bahia", ro: "Al Bahia", en: "Al Bahia" },
-    coordinates: { lat: 24.587, lng: 54.653 },
+    coords: [54.653, 24.587],
     description: {
       de: "Ein Küstenwohngebiet in Abu Dhabi, das zwischen Shahama und Al Rahba liegt. Es ist für seinen Tierpark bekannt.",
       hu: "Parti lakóövezet Abu Dhabiban, Shahama és Al Rahba között. Állatkertjéről ismert.",
@@ -1579,7 +1579,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-samha-cities-v2",
     type: "town",
     name: { de: "Al Samha", hu: "Al Samha", ro: "Al Samha", en: "Al Samha" },
-    coordinates: { lat: 24.715, lng: 54.782 },
+    coords: [54.782, 24.715],
     description: {
       de: "Ein kleinerer Ort im Norden von Abu Dhabi, nahe der Grenze zum Emirat Dubai. Er dient als wichtiger Rastplatz für Reisende.",
       hu: "Kisebb település Abu Dhabi északi részén, Dubai emírség határához közel. Fontos pihenőhely az utazók számára.",
@@ -1598,7 +1598,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-khatim-cities-v2",
     type: "village",
     name: { de: "Al Khatim", hu: "Al Khatim", ro: "Al Khatim", en: "Al Khatim" },
-    coordinates: { lat: 24.168, lng: 55.035 },
+    coords: [55.035, 24.168],
     description: {
       de: "Ein Wüstendorf an der Straße zwischen Abu Dhabi und Al Ain, berühmt für seine hohen Sanddünen und Wüstensafaris.",
       hu: "Sivatagi falu az Abu Dhabi és Al Ain közötti út mentén, amely magas homokdűnéiről és sivatagi szafarijairól híres.",
@@ -1617,7 +1617,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-khazna-cities-v2",
     type: "village",
     name: { de: "Al Khazna", hu: "Al Khazna", ro: "Al Khazna", en: "Al Khazna" },
-    coordinates: { lat: 24.155, lng: 55.202 },
+    coords: [55.202, 24.155],
     description: {
       de: "Ein ruhiger Ort in der Wüste von Abu Dhabi, der für seine landwirtschaftlichen Betriebe und die Palmenzucht bekannt ist.",
       hu: "Csendes település Abu Dhabi sivatagában, amely mezőgazdasági farmjairól és pálmamegmunkálásáról ismert.",
@@ -1636,7 +1636,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-hayer-cities-v2",
     type: "town",
     name: { de: "Al-Hayer", hu: "Al-Hayer", ro: "Al-Hayer", en: "Al-Hayer" },
-    coordinates: { lat: 24.498, lng: 55.795 },
+    coords: [55.795, 24.498],
     description: {
       de: "Ein landwirtschaftlich geprägter Ort im Norden der Al Ain Region, bekannt für sein kühleres Klima und fruchtbare Böden.",
       hu: "Mezőgazdasági jellegű település Al Ain régió északi részén, amely hűvösebb éghajlatáról és termékeny talajáról ismert.",
@@ -1655,7 +1655,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-yahar-cities-v2",
     type: "town",
     name: { de: "Al-Yahar", hu: "Al-Yahar", ro: "Al-Yahar", en: "Al-Yahar" },
-    coordinates: { lat: 24.185, lng: 55.488 },
+    coords: [55.488, 24.185],
     description: {
       de: "Ein Vorort von Al Ain, der hauptsächlich aus Wohngebieten für emiratische Bürger besteht. Er liegt an der Straße nach Abu Dhabi.",
       hu: "Al Ain külvárosa, amely főleg emírségi állampolgárok lakónegyedeiből áll. Az Abu Dhabi felé vezető út mentén fekszik.",
@@ -1674,7 +1674,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-nahil-cities-v2",
     type: "village",
     name: { de: "Nahil", hu: "Nahil", ro: "Nahil", en: "Nahil" },
-    coordinates: { lat: 24.512, lng: 55.508 },
+    coords: [55.508, 24.512],
     description: {
       de: "Ein Wüstenort nördlich von Al Ain, der für seine Ruhe und weiten Ausblicke auf die Dünen bekannt ist.",
       hu: "Sivatagi település Al Aintól északra, amely nyugalmáról és a dűnékre nyíló tágas kilátásáról ismert.",
@@ -1693,7 +1693,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-wagan-cities-v2",
     type: "town",
     name: { de: "Al Wagan", hu: "Al Wagan", ro: "Al Wagan", en: "Al Wagan" },
-    coordinates: { lat: 23.632, lng: 55.505 },
+    coords: [55.505, 23.632],
     description: {
       de: "Ein abgelegener Ort im Süden der Al Ain Region, nahe der Grenze zu Saudi-Arabien. Er ist ein wichtiger Stützpunkt in der Wüste.",
       hu: "Távoli település Al Ain régió déli részén, a szaúd-arábiai határ közelében. Fontos sivatagi támaszpont.",
@@ -1712,7 +1712,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-quaa-cities-v2",
     type: "town",
     name: { de: "Al Qua'a", hu: "Al Qua'a", ro: "Al Qua'a", en: "Al Qua'a" },
-    coordinates: { lat: 23.195, lng: 55.442 },
+    coords: [55.442, 23.195],
     description: {
       de: "Die südlichste Stadt der Region Al Ain, tief in der Wüste gelegen. Sie ist bekannt für ihre extreme Abgeschiedenheit.",
       hu: "Al Ain régió legdélibb városa, mélyen a sivatagban. Rendkívüli elszigeteltségéről ismert.",
@@ -1731,7 +1731,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-mazyad-cities-v2",
     type: "town",
     name: { de: "Mazyad", hu: "Mazyad", ro: "Mazyad", en: "Mazyad" },
-    coordinates: { lat: 24.032, lng: 55.845 },
+    coords: [55.845, 24.032],
     description: {
       de: "Ein Ort am Fuße des Jebel Hafeet, der für seine historische Festung und den Grenzübergang zum Oman bekannt ist.",
       hu: "Település a Jebel Hafeet lábánál, amely történelmi erődjéről és az ománi határátkelőről ismert.",
@@ -1750,7 +1750,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-awir-cities-v2",
     type: "town",
     name: { de: "Al Awir", hu: "Al Awir", ro: "Al Awir", en: "Al Awir" },
-    coordinates: { lat: 25.175, lng: 55.535 },
+    coords: [55.535, 25.175],
     description: {
       de: "Ein ländlicher Vorort von Dubai, der für seinen großen Gebrauchtwagenmarkt und seine Obst- und Gemüsegärten bekannt ist.",
       hu: "Dubai vidéki külvárosa, amely hatalmas használt autópiacáról, valamint gyümölcs- és zöldségkertjeiről ismert.",
@@ -1769,7 +1769,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-lahbab-cities-v2",
     type: "village",
     name: { de: "Lahbab", hu: "Lahbab", ro: "Lahbab", en: "Lahbab" },
-    coordinates: { lat: 25.045, lng: 55.592 },
+    coords: [55.592, 25.045],
     description: {
       de: "Ein Dorf im Emirat Dubai, das ein Zentrum für Kamelzucht und Wüstensafaris ist. Es ist von roten Sanddünen umgeben.",
       hu: "Falu Dubai emírségben, amely a tevegelés és a sivatagi szafarik központja. Vörös homokdűnék veszik körül.",
@@ -1788,7 +1788,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-lisaili-cities-v2",
     type: "village",
     name: { de: "Al Lisaili", hu: "Al Lisaili", ro: "Al Lisaili", en: "Al Lisaili" },
-    coordinates: { lat: 24.935, lng: 55.452 },
+    coords: [55.452, 24.935],
     description: {
       de: "Ein bedeutendes Zentrum für Kamelrennen und Ausrüstung in Dubai. Es beherbergt einen großen Markt für Kamelzubehör.",
       hu: "A teveversenyzés és felszerelések jelentős központja Dubaiban. Itt található egy nagy tevefelszerelés-piac.",
@@ -1807,7 +1807,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-margham-cities-v2",
     type: "village",
     name: { de: "Margham", hu: "Margham", ro: "Margham", en: "Margham" },
-    coordinates: { lat: 24.915, lng: 55.625 },
+    coords: [55.625, 24.915],
     description: {
       de: "Ein Wüstenort in Dubai, bekannt für Heißluftballonfahrten und als Zentrum für Fallschirmspringen im Hinterland.",
       hu: "Sivatagi település Dubaiban, amely hőlégballonos repüléseiről és vidéki ejtőernyős központjáról ismert.",
@@ -1826,7 +1826,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-digdaga-cities-v2",
     type: "town",
     name: { de: "Digdaga", hu: "Digdaga", ro: "Digdaga", en: "Digdaga" },
-    coordinates: { lat: 25.685, lng: 55.952 },
+    coords: [55.952, 25.685],
     description: {
       de: "Ein bedeutender landwirtschaftlicher Ort in Ras Al Khaimah, bekannt für seine Milchviehhaltung und Pferdezucht.",
       hu: "Jelentős mezőgazdasági település Ras Al Khaimah-ban, amely tejtermeléséről és lótenyésztéséről ismert.",
@@ -1845,7 +1845,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-shaam-cities-v2",
     type: "town",
     name: { de: "Sha'am", hu: "Sha'am", ro: "Sha'am", en: "Sha'am" },
-    coordinates: { lat: 26.025, lng: 56.092 },
+    coords: [56.092, 26.025],
     description: {
       de: "Eine Küstenstadt im äußersten Norden von Ras Al Khaimah, die malerisch zwischen den Bergen und dem Meer liegt.",
       hu: "Parti város Ras Al Khaimah legészakibb részén, amely festői helyen, a hegyek és a tenger között fekszik.",
@@ -1864,7 +1864,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-ghalilah-cities-v2",
     type: "town",
     name: { de: "Ghalilah", hu: "Ghalilah", ro: "Ghalilah", en: "Ghalilah" },
-    coordinates: { lat: 25.985, lng: 56.082 },
+    coords: [56.082, 25.985],
     description: {
       de: "Ein Ort in Ras Al Khaimah am Fuße der Berge, bekannt für seine Staudämme und als Ausgangspunkt für Wanderungen.",
       hu: "Település Ras Al Khaimah-ban a hegyek lábánál, amely gátjairól és túraútvonalak kiindulópontjaként ismert.",
@@ -1883,7 +1883,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-jeer-cities-v2",
     type: "town",
     name: { de: "Al Jeer", hu: "Al Jeer", ro: "Al Jeer", en: "Al Jeer" },
-    coordinates: { lat: 26.045, lng: 56.088 },
+    coords: [56.088, 26.045],
     description: {
       de: "Ein Grenzdorf im Norden von Ras Al Khaimah, das für seinen Hafen und als Verbindung zum omanischen Musandam bekannt ist.",
       hu: "Határmenti falu Ras Al Khaimah északi részén, amely kikötőjéről és az ománi Muszandamba vezető útról ismert.",
@@ -1902,7 +1902,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-qidfa-cities-v2",
     type: "town",
     name: { de: "Qidfa", hu: "Qidfa", ro: "Qidfa", en: "Qidfa" },
-    coordinates: { lat: 25.295, lng: 56.362 },
+    coords: [56.362, 25.295],
     description: {
       de: "Ein Ort an der Ostküste von Fujairah, der für sein großes Kraftwerk und seine Entsalzungsanlage bekannt ist.",
       hu: "Település Fujairah keleti partján, amely nagy erőművéről és sótalanító üzeméről ismert.",
@@ -1921,7 +1921,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-mirbah-cities-v2",
     type: "town",
     name: { de: "Mirbah", hu: "Mirbah", ro: "Mirbah", en: "Mirbah" },
-    coordinates: { lat: 25.265, lng: 56.355 },
+    coords: [56.355, 25.265],
     description: {
       de: "Eine lebhafte Wohn- und Küstenstadt im Emirat Fujairah, die direkt an Qidfa angrenzt.",
       hu: "Élénk lakó- és partiváros Fujairah emírségben, amely közvetlenül határos Qidfával.",
@@ -1940,7 +1940,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-siji-cities-v2",
     type: "village",
     name: { de: "Al-Siji", hu: "Al-Siji", ro: "Al-Siji", en: "Al-Siji" },
-    coordinates: { lat: 25.255, lng: 56.072 },
+    coords: [56.072, 25.255],
     description: {
       de: "Ein Dorf im Landesinneren von Fujairah, umgeben vom Hadschar-Gebirge, bekannt für seine Staudämme und Gesteinsindustrie.",
       hu: "Település Fujairah belső részén, a Hajar-hegység gyűrűjében, amely gátjairól és kőiparáról ismert.",
@@ -1959,7 +1959,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-bithnah-cities-v2",
     type: "village",
     name: { de: "Al-Bithnah", hu: "Al-Bithnah", ro: "Al-Bithnah", en: "Al-Bithnah" },
-    coordinates: { lat: 25.185, lng: 56.242 },
+    coords: [56.242, 25.185],
     description: {
       de: "Ein strategisch wichtiges Dorf in einem Wadi des Hadschar-Gebirges, berühmt für seine gut erhaltene Festung.",
       hu: "Stratégiailag fontos falu a Hajar-hegység egyik völgyében (vádi), amely jól megőrzött erődjéről híres.",

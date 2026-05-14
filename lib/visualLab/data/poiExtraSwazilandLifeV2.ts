@@ -726,7 +726,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-hawane-reserve-life-v2",
     type: "wildlife",
     name: { de: "Hawane-Naturreservat", hu: "Hawane Természetvédelmi Terület", ro: "Rezervația Naturală Hawane", en: "Hawane Nature Reserve" },
-    coordinates: { lat: -26.192, lng: 31.084 },
+    coords: [31.084, -26.192],
     description: {
       de: "Dieses Reservat schützt ein wichtiges Hochland-Feuchtgebiet am Hawane-Staudamm, das als Lebensraum für seltene Vögel dient.",
       hu: "Ez a rezervátum egy fontos felföldi vizes élőhelyet véd a Hawane-gátnál, amely ritka madárfajok lakóhelye.",
@@ -745,7 +745,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-mhlosinga-reserve-life-v2",
     type: "wildlife",
     name: { de: "Mhlosinga-Naturreservat", hu: "Mhlosinga Természetvédelmi Terület", ro: "Rezervația Naturală Mhlosinga", en: "Mhlosinga Nature Reserve" },
-    coordinates: { lat: -26.702, lng: 31.834 },
+    coords: [31.834, -26.702],
     description: {
       de: "Ein privates Naturschutzgebiet im Lowveld, das für seine Bestände an einheimischen Bäumen und Antilopen bekannt ist.",
       hu: "Egy magánkézben lévő természetvédelmi terület az alföldön, amely őshonos fáiról és antilopjairól ismert.",
@@ -764,7 +764,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-national-botanical-garden-life-v2",
     type: "park",
     name: { de: "Nationaler Botanischer Garten von Eswatini", hu: "Eswatini Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională din Eswatini", en: "Eswatini National Botanical Garden" },
-    coordinates: { lat: -26.315, lng: 31.134 },
+    coords: [31.134, -26.315],
     description: {
       de: "Dieser Garten in Mbabane widmet sich der Erhaltung und Erforschung der vielfältigen einheimischen Flora des Landes.",
       hu: "Ez a mbabanei kert az ország változatos őshonos flórájának megőrzésével és tanulmányozásával foglalkozik.",
@@ -783,7 +783,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-wide-horizons-life-v2",
     type: "wildlife",
     name: { de: "Wide Horizons Naturreservat", hu: "Wide Horizons Természetvédelmi Terület", ro: "Rezervația Naturală Wide Horizons", en: "Wide Horizons Nature Reserve" },
-    coordinates: { lat: -26.516, lng: 31.157 },
+    coords: [31.157, -26.516],
     description: {
       de: "Ein auf einem Bergplateau gelegenes Reservat, das den Schutz von Berggrasland und einer reichen Vogelwelt priorisiert.",
       hu: "Egy hegyi fennsíkon fekvő rezervátum, amely a hegyi gyepek és a gazdag madárvilág védelmét prioritásként kezeli.",
@@ -802,7 +802,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-lubombo-conservancy-life-v2",
     type: "park",
     name: { de: "Lubombo-Schutzgebiet", hu: "Lubombo Természetvédelmi Terület", ro: "Rezervația Lubombo", en: "Lubombo Conservancy" },
-    coordinates: { lat: -26.25, lng: 31.95 },
+    coords: [31.95, -26.25],
     description: {
       de: "Ein Verbund mehrerer Schutzgebiete, der den natürlichen Korridor für Wildtiere entlang der Lubombo-Berge sichert.",
       hu: "Több védett terület összefogása, amely biztosítja a vadon élő állatok természetes folyosóját a Lubombo-hegység mentén.",
@@ -821,7 +821,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-ngonini-citrus-life-v2",
     type: "industry",
     name: { de: "Ngonini-Zitrusplantagen", hu: "Ngonini Citrusültetvények", ro: "Plantațiile de Citrice Ngonini", en: "Ngonini Citrus Estates" },
-    coordinates: { lat: -25.795, lng: 31.393 },
+    coords: [31.393, -25.795],
     description: {
       de: "Ein bedeutendes landwirtschaftliches Zentrum im Norden, das Zitrusfrüchte für den internationalen Export produziert.",
       hu: "Egy jelentős északi mezőgazdasági központ, amely citrusféléket termel nemzetközi exportra.",
@@ -840,7 +840,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-malkerns-orchards-life-v2",
     type: "industry",
     name: { de: "Obstgärten im Malkerns-Tal", hu: "Malkerns-völgyi gyümölcsösök", ro: "Livezile din Valea Malkerns", en: "Malkerns Valley Orchards" },
-    coordinates: { lat: -26.495, lng: 31.198 },
+    coords: [31.198, -26.495],
     description: {
       de: "In den fruchtbaren Gebieten des Malkerns-Tals werden verschiedene Obst- und Gemüsesorten für den Handel angebaut.",
       hu: "A Malkerns-völgy termékeny területein különféle gyümölcsöket és zöldségeket termesztenek kereskedelmi céllal.",
@@ -859,7 +859,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-jabulani-reserve-life-v2",
     type: "wildlife",
     name: { de: "Jabulani-Wildreservat", hu: "Jabulani Vadvédelmi Terület", ro: "Rezervația de Vânat Jabulani", en: "Jabulani Game Reserve" },
-    coordinates: { lat: -26.342, lng: 31.854 },
+    coords: [31.854, -26.342],
     description: {
       de: "Ein kleineres Schutzgebiet in der Nähe der Lebombo-Berge, das Zebras, Impalas und vielen Vogelarten Zuflucht bietet.",
       hu: "Egy kisebb védett terület a Lebombo-hegység közelében, amely zebráknak, impaláknak és madárfajoknak ad otthont.",
@@ -878,7 +878,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-ezulwini-biodiversity-life-v2",
     type: "park",
     name: { de: "Ezulwini-Biodiversitätszone", hu: "Ezulwini Biológiai Sokféleség Zóna", ro: "Zona de Biodiversitate Ezulwini", en: "Ezulwini Valley Biodiversity Zone" },
-    coordinates: { lat: -26.417, lng: 31.183 },
+    coords: [31.183, -26.417],
     description: {
       de: "Diese Zone schützt die verbliebenen natürlichen Lebensräume im Ezulwini-Tal und bewahrt die lokale Gebirgsflora.",
       hu: "Ez a zóna védi az Ezulwini-völgy megmaradt természetes élőhelyeit és megőrzi a helyi hegyi flórát.",
@@ -897,7 +897,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
     id: "swaziland-usutu-riparian-life-v2",
     type: "park",
     name: { de: "Usutu-Uferschutzzone", hu: "Usutu-parti övezet", ro: "Zona Riverană a Râului Usutu", en: "Usutu River Riparian Zone" },
-    coordinates: { lat: -26.745, lng: 31.372 },
+    coords: [31.372, -26.745],
     description: {
       de: "Die Uferzone entlang des Usutu-Flusses ist ein wichtiger Korridor für Wassertiere und Säugetiere in den südlichen Ebenen.",
       hu: "Az Usutu-folyó menti parti sáv fontos folyosó a vízi állatok és az emlősök számára a déli síkságokon.",

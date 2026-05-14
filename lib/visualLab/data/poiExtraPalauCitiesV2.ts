@@ -5,7 +5,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-koror-cities-v2",
     type: "city",
     name: { de: "Koror", hu: "Koror", ro: "Koror", en: "Koror" },
-    coordinates: { lat: 7.3419, lng: 134.4781 },
+    coords: [134.4781, 7.3419],
     description: {
       de: "Koror ist die bevölkerungsreichste Stadt Palaus und war bis 2006 die Hauptstadt des Landes. Sie dient als wirtschaftliches Zentrum.",
       hu: "Koror Palau legnépesebb városa és korábbi fővárosa. A szigetország gazdasági, kereskedelmi és turisztikai központjaként funkcionál.",
@@ -24,7 +24,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ngerulmud-cities-v2",
     type: "capital",
     name: { de: "Ngerulmud", hu: "Ngerulmud", ro: "Ngerulmud", en: "Ngerulmud" },
-    coordinates: { lat: 7.5005, lng: 134.6242 },
+    coords: [134.6242, 7.5005],
     description: {
       de: "Ngerulmud ist seit 2006 die Hauptstadt von Palau. Der Regierungskomplex liegt auf der größten Insel des Landes, Babeldaob.",
       hu: "Ngerulmud 2006 óta Palau fővárosa. A kormányzati negyed az ország legnagyobb szigetén, Babeldaob területén található.",
@@ -43,7 +43,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-airai-cities-v2",
     type: "town",
     name: { de: "Airai", hu: "Airai", ro: "Airai", en: "Airai" },
-    coordinates: { lat: 7.3611, lng: 134.5161 },
+    coords: [134.5161, 7.3611],
     description: {
       de: "Airai ist die zweitbevölkerungsreichste Siedlung in Palau. Hier befindet sich der wichtigste internationale Flughafen des Landes.",
       hu: "Airai Palau második legnépesebb települése. Itt található az ország legfontosabb nemzetközi repülőtere és több történelmi helyszín.",
@@ -62,7 +62,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-meyuns-cities-v2",
     type: "village",
     name: { de: "Meyuns", hu: "Meyuns", ro: "Meyuns", en: "Meyuns" },
-    coordinates: { lat: 7.3533, lng: 134.4533 },
+    coords: [134.4533, 7.3533],
     description: {
       de: "Meyuns ist ein bedeutendes Dorf auf der Insel Ngerekebesang. Es beherbergt das größte Krankenhaus von Palau.",
       hu: "Meyuns egy jelentős falu Ngerekebesang szigetén. Itt található Palau legnagyobb és legfontosabb kórháza.",
@@ -81,7 +81,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-melekeok-cities-v2",
     type: "village",
     name: { de: "Melekeok", hu: "Melekeok", ro: "Melekeok", en: "Melekeok" },
-    coordinates: { lat: 7.4947, lng: 134.6367 },
+    coords: [134.6367, 7.4947],
     description: {
       de: "Melekeok ist ein Dorf an der Ostküste von Babeldaob. Es ist der Hauptort des gleichnamigen Bundesstaates, in dem Ngerulmud liegt.",
       hu: "Melekeok egy falu Babeldaob keleti partján. Ez az azonos nevű állam központja, amelynek területén a főváros, Ngerulmud is fekszik.",
@@ -100,7 +100,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-kloulklubed-cities-v2",
     type: "village",
     name: { de: "Kloulklubed", hu: "Kloulklubed", ro: "Kloulklubed", en: "Kloulklubed" },
-    coordinates: { lat: 7.042, lng: 134.256 },
+    coords: [134.256, 7.042],
     description: {
       de: "Kloulklubed ist das Hauptdorf auf der Insel Peleliu. Es hat eine große historische Bedeutung aufgrund der Kämpfe im Zweiten Weltkrieg.",
       hu: "Kloulklubed Peleliu szigetének fő települése. Jelentős történelmi helyszín a második világháborús peleliui csata miatt.",
@@ -119,7 +119,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-angaur-cities-v2",
     type: "village",
     name: { de: "Angaur", hu: "Angaur", ro: "Angaur", en: "Angaur" },
-    coordinates: { lat: 6.911, lng: 134.131 },
+    coords: [134.131, 6.911],
     description: {
       de: "Angaur ist die Hauptsiedlung auf der gleichnamigen Insel im Süden Palaus. Die Insel ist für ihre Geschichte im Phosphatabbau bekannt.",
       hu: "Angaur az azonos nevű sziget fő települése Palau déli részén. A sziget a foszfátbányászat történelméről ismert.",
@@ -138,7 +138,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-kayangel-cities-v2",
     type: "village",
     name: { de: "Kayangel", hu: "Kayangel", ro: "Kayangel", en: "Kayangel" },
-    coordinates: { lat: 8.083, lng: 134.717 },
+    coords: [134.717, 8.083],
     description: {
       de: "Kayangel ist die nördlichste bewohnte Siedlung Palaus und liegt auf einem Korallenatoll. Es ist bekannt für unberührte Natur.",
       hu: "Kayangel Palau legészakibb lakott települése, amely egy korallatollon fekszik. Híres érintetlen természeti környezetéről.",
@@ -157,7 +157,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ngardmau-cities-v2",
     type: "village",
     name: { de: "Ngardmau", hu: "Ngardmau", ro: "Ngardmau", en: "Ngardmau" },
-    coordinates: { lat: 7.595, lng: 134.558 },
+    coords: [134.558, 7.595],
     description: {
       de: "Ngardmau ist eine Siedlung an der Westküste von Babeldaob. Die Region ist bekannt für den höchsten Wasserfall des Landes.",
       hu: "Ngardmau egy település Babeldaob nyugati partján. A régió az ország legmagasabb vízeséséről nevezetes.",
@@ -176,7 +176,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ulimang-cities-v2",
     type: "village",
     name: { de: "Ulimang", hu: "Ulimang", ro: "Ulimang", en: "Ulimang" },
-    coordinates: { lat: 7.625, lng: 134.636 },
+    coords: [134.636, 7.625],
     description: {
       de: "Ulimang ist der Hauptort des Bundesstaates Ngaraard auf Babeldaob. Das Dorf liegt an der schmalsten Stelle der Insel.",
       hu: "Ulimang Ngaraard állam központja Babeldaob szigetén. A falu a sziget legkeskenyebb részén helyezkedik el.",
@@ -195,7 +195,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-mengellang-cities-v2",
     type: "village",
     name: { de: "Mengellang", hu: "Mengellang", ro: "Mengellang", en: "Mengellang" },
-    coordinates: { lat: 7.705, lng: 134.629 },
+    coords: [134.629, 7.705],
     description: {
       de: "Mengellang ist das Hauptdorf des Bundesstaates Ngarchelong an der Nordspitze von Babeldaob. Es liegt nahe den berühmten Megalithen.",
       hu: "Mengellang Ngarchelong állam fő települése Babeldaob északi csücskén. Közel fekszik a híres megalitikus kőoszlopokhoz.",
@@ -214,7 +214,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ngchesar-cities-v2",
     type: "village",
     name: { de: "Ngchesar", hu: "Ngchesar", ro: "Ngchesar", en: "Ngchesar" },
-    coordinates: { lat: 7.456, lng: 134.604 },
+    coords: [134.604, 7.456],
     description: {
       de: "Ngchesar ist eine ruhige Siedlung an der Ostküste von Babeldaob. Das Dorf ist für seine traditionellen Kanus und Schnitzereien bekannt.",
       hu: "Ngchesar egy nyugodt település Babeldaob keleti partján. A falu hagyományos kenujairól és fafaragásairól ismert.",
@@ -233,7 +233,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ngiwal-cities-v2",
     type: "village",
     name: { de: "Ngiwal", hu: "Ngiwal", ro: "Ngiwal", en: "Ngiwal" },
-    coordinates: { lat: 7.555, lng: 134.637 },
+    coords: [134.637, 7.555],
     description: {
       de: "Ngiwal ist ein Dorf im Osten von Babeldaob. Es ist als Ort des Überflusses bekannt und besitzt fruchtbares Ackerland.",
       hu: "Ngiwal egy falu Babeldaob keleti részén. A bőség helyeként ismerik, és termékeny mezőgazdasági területekkel rendelkezik.",
@@ -252,7 +252,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-ngatpang-cities-v2",
     type: "village",
     name: { de: "Ngatpang", hu: "Ngatpang", ro: "Ngatpang", en: "Ngatpang" },
-    coordinates: { lat: 7.477, lng: 134.538 },
+    coords: [134.538, 7.477],
     description: {
       de: "Ngatpang liegt an der Westseite von Babeldaob. Es ist ein Zentrum für Aquakultur und Forstwirtschaft in Palau.",
       hu: "Ngatpang Babeldaob nyugati oldalán fekszik. Palau akvakultúra- és erdőgazdálkodási központja.",
@@ -271,7 +271,7 @@ export const palauCitiesV2: POI[] = [
     id: "palau-aimeliik-cities-v2",
     type: "village",
     name: { de: "Aimeliik", hu: "Aimeliik", ro: "Aimeliik", en: "Aimeliik" },
-    coordinates: { lat: 7.442, lng: 134.502 },
+    coords: [134.502, 7.442],
     description: {
       de: "Aimeliik ist eine Siedlung im Südwesten von Babeldaob. Es ist bekannt für seine historischen Terrassen und die Landwirtschaft.",
       hu: "Aimeliik egy település Babeldaob délnyugati részén. Történelmi teraszairól és mezőgazdaságáról nevezetes.",

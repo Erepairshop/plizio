@@ -1558,7 +1558,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-jemaa-el-fna-landmarks-v2",
     type: "landmark",
     name: { de: "Jemaa el-Fna", hu: "Jemaa el-Fna", ro: "Jemaa el-Fna", en: "Jemaa el-Fna" },
-    coordinates: { lat: 31.6258, lng: -7.9893 },
+    coords: [-7.9893, 31.6258],
     description: {
       de: "Jemaa el-Fna ist ein zentraler Marktplatz in der Medina von Marrakesch. Er ist seit 2001 als UNESCO-Meisterwerk des mündlichen und immateriellen Erbes der Menschheit gelistet.",
       hu: "A Jemaa el-Fna egy központi piactér Marrákes medinájában. 2001 óta az UNESCO emberiség szellemi kulturális örökségének része.",
@@ -1577,7 +1577,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-medersa-attarine-landmarks-v2",
     type: "landmark",
     name: { de: "Attarine-Medersa", hu: "Attarine-medresze", ro: "Medresa Attarine", en: "Attarine Madrasa" },
-    coordinates: { lat: 34.0655, lng: -4.9733 },
+    coords: [-4.9733, 34.0655],
     description: {
       de: "Die Attarine-Medersa befindet sich in der Medina von Fès. Sie wurde zwischen 1323 und 1325 unter der Meriniden-Dynastie erbaut.",
       hu: "Az Attarine-medresze Fèsz medinájában található. A merinida dinasztia idején épült 1323 és 1325 között.",
@@ -1596,7 +1596,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-place-mohammed-v-casablanca-landmarks-v2",
     type: "landmark",
     name: { de: "Place Mohammed V", hu: "Mohammed V tér", ro: "Piața Mohammed V", en: "Place Mohammed V Casablanca" },
-    coordinates: { lat: 33.5855, lng: -7.6219 },
+    coords: [-7.6219, 33.5855],
     description: {
       de: "Die Place Mohammed V ist ein zentraler öffentlicher Platz in Casablanca. Er ist bekannt für seine Architektur im neo-maurischen Stil.",
       hu: "A Place Mohammed V egy központi közterület Casablancában. Neomór építészeti stílusáról ismert.",
@@ -1615,7 +1615,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-gran-teatro-cervantes-landmarks-v2",
     type: "theater",
     name: { de: "Gran Teatro Cervantes", hu: "Gran Teatro Cervantes", ro: "Gran Teatro Cervantes", en: "Gran Teatro Cervantes" },
-    coordinates: { lat: 35.7766, lng: -5.8115 },
+    coords: [-5.8115, 35.7766],
     description: {
       de: "Das Gran Teatro Cervantes wurde 1913 in Tanger eröffnet. Es gilt als eines der historisch bedeutendsten Theater in Nordafrika.",
       hu: "A Gran Teatro Cervantes 1913-ban nyílt meg Tangerben. Észak-Afrika egyik történelmileg legjelentősebb színháza.",
@@ -1634,7 +1634,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-casbah-ait-ouioughene-landmarks-v2",
     type: "castle",
     name: { de: "Kasbah Ait Ouiooughene", hu: "Ait Ouiooughene Kasbah", ro: "Kasbah Ait Ouiooughene", en: "Kasbah Ait Ouiooughene" },
-    coordinates: { lat: 30.9167, lng: -6.5833 },
+    coords: [-6.5833, 30.9167],
     description: {
       de: "Die Kasbah Ait Ouiooughene ist eine traditionelle Befestigungsanlage im Dadès-Tal. Sie zeigt typische Lehmbauarchitektur der Region.",
       hu: "Az Ait Ouiooughene Kasbah egy hagyományos erődítmény a Dadès-völgyben. A régió tipikus vályogépítészetét mutatja be.",
@@ -1653,7 +1653,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-port-de-peche-essaouira-landmarks-v2",
     type: "port",
     name: { de: "Fischereihafen von Essaouira", hu: "Essaouira halászkikötője", ro: "Portul de pescuit din Essaouira", en: "Essaouira Fishing Port" },
-    coordinates: { lat: 31.5126, lng: -9.7745 },
+    coords: [-9.7745, 31.5126],
     description: {
       de: "Der Fischereihafen von Essaouira ist ein aktiver Hafen am Atlantik. Er ist bekannt für seine blau bemalten Holzboote.",
       hu: "Essaouira halászkikötője egy aktív kikötő az Atlanti-óceán partján. Kékre festett fa csónakjairól ismert.",
@@ -1672,7 +1672,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-synagoge-slat-alfassiyine-landmarks-v2",
     type: "church",
     name: { de: "Synagoge Slat Alfassiyine", hu: "Slat Alfassiyine zsinagóga", ro: "Sinagoga Slat Alfassiyine", en: "Slat Alfassiyine Synagogue" },
-    coordinates: { lat: 34.0622, lng: -4.9744 },
+    coords: [-4.9744, 34.0622],
     description: {
       de: "Die Slat Alfassiyine Synagoge befindet sich im jüdischen Viertel von Fès. Sie wurde im 17. Jahrhundert gegründet.",
       hu: "A Slat Alfassiyine zsinagóga Fèsz zsidó negyedében található. A 17. században alapították.",
@@ -1691,7 +1691,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-pont-hassan-ii-landmarks-v2",
     type: "bridge",
     name: { de: "Hassan-II.-Brücke", hu: "Hassan II híd", ro: "Podul Hassan al II-lea", en: "Hassan II Bridge" },
-    coordinates: { lat: 34.0333, lng: -6.8333 },
+    coords: [-6.8333, 34.0333],
     description: {
       de: "Die Hassan-II.-Brücke verbindet Rabat und Salé. Sie überquert den Fluss Bou Regreg und wurde 2011 eröffnet.",
       hu: "A Hassan II híd köti össze Rabatot és Salét. Átível a Bou Regreg folyón és 2011-ben nyitották meg.",
@@ -1710,7 +1710,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-bab-el-mansour-landmarks-v2",
     type: "landmark",
     name: { de: "Bab el-Mansour", hu: "Bab el-Mansour", ro: "Bab el-Mansour", en: "Bab el-Mansour" },
-    coordinates: { lat: 33.8929, lng: -5.5623 },
+    coords: [-5.5623, 33.8929],
     description: {
       de: "Das Bab el-Mansour ist ein bedeutendes Stadttor in Meknès. Es wurde im frühen 18. Jahrhundert unter Moulay Ismail erbaut.",
       hu: "A Bab el-Mansour egy jelentős városkapu Meknèsben. A 18. század elején épült Moulay Ismail uralkodása alatt.",
@@ -1729,7 +1729,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "morocco-bab-bou-jeloud-landmarks-v2",
     type: "landmark",
     name: { de: "Bab Bou Jeloud", hu: "Bab Bou Jeloud", ro: "Bab Bou Jeloud", en: "Bab Bou Jeloud" },
-    coordinates: { lat: 34.0628, lng: -4.9817 },
+    coords: [-4.9817, 34.0628],
     description: {
       de: "Bab Bou Jeloud ist das bekannteste Stadttor von Fès. Es markiert den Eingang zur Medina und ist mit blauen Kacheln verziert.",
       hu: "A Bab Bou Jeloud Fèsz legismertebb városkapuja. A medinába vezető bejáratot jelöli, kék csempékkel díszítve.",

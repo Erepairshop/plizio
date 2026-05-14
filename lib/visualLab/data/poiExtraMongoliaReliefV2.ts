@@ -966,7 +966,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     id: "mongolia-menengiin-steppe-relief-v2",
     type: "valley",
     name: { de: "Menengiin-Steppe", hu: "Menengiin-sztyeppe", ro: "Stepa Menengiin", en: "Menengiin Steppe" },
-    coordinates: { lat: 47.7833, lng: 115.35 },
+    coords: [115.35, 47.7833],
     description: {
       de: "Die Menengiin-Steppe ist das größte Flachlandgebiet im Osten der Mongolei. Sie liegt auf einer durchschnittlichen Höhe von etwa 600 Metern.",
       hu: "A Menengiin-sztyeppe Kelet-Mongólia legnagyobb síksága. Több száz kilométer hosszan terül el 600 méteres tengerszint feletti magasságban.",
@@ -985,7 +985,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     id: "mongolia-turgen-mountain-relief-v2",
     type: "peak",
     name: { de: "Turgen-Gebirge", hu: "Turgen-hegy", ro: "Muntele Turgen", en: "Turgen Mountain" },
-    coordinates: { lat: 49.7711, lng: 91.5236 },
+    coords: [91.5236, 49.7711],
     description: {
       de: "Das Turgen-Gebirge liegt in der Provinz Uws und erreicht eine Höhe von 3965 Metern. Es ist bekannt für seine Gletscher und alpinen Ökosysteme.",
       hu: "A Turgen-hegy Uvsz tartományban található, legmagasabb pontja 3965 méter. Gleccsereiről és alpesi ökoszisztémájáról nevezetes.",
@@ -1004,7 +1004,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     id: "mongolia-hoh-nuur-basin-relief-v2",
     type: "valley",
     name: { de: "Hoh-Nuur-Becken", hu: "Hoh Nuur-medence", ro: "Depresiunea Hoh Nuur", en: "Hoh Nuur Basin" },
-    coordinates: { lat: 49.5111, lng: 115.725 },
+    coords: [115.725, 49.5111],
     description: {
       de: "Das Hoh-Nuur-Becken im Osten der Mongolei enthält den tiefsten Punkt des Landes. Es liegt etwa 560 Meter über dem Meeresspiegel.",
       hu: "A Kelet-Mongóliában található Hoh Nuur-medence az ország legmélyebb pontja. Körülbelül 560 méterrel fekszik a tengerszint felett.",

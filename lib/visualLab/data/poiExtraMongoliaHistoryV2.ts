@@ -988,7 +988,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-avarga-palace-history-v2",
     type: "ruins",
     name: { de: "Palast von Avarga", hu: "Avarga palota", ro: "Palatul Avarga", en: "Avarga Palace" },
-    coordinates: { lat: 47.1121, lng: 108.9712 },
+    coords: [108.9712, 47.1121],
     description: {
       de: "Überreste des ersten nomadischen Zentrums und der Hauptresidenz von Dschingis Khan im 13. Jahrhundert.",
       hu: "Dzsingisz kán első nomád központjának és főhadiszállásának maradványai a 13. századból.",
@@ -1007,7 +1007,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khar-bukh-ruins-history-v2",
     type: "fortress",
     name: { de: "Khar Bukh Ruinen", hu: "Khar Bukh romjai", ro: "Ruinele Khar Bukh", en: "Khar Bukh Ruins" },
-    coordinates: { lat: 47.9242, lng: 103.5415 },
+    coords: [103.5415, 47.9242],
     description: {
       de: "Bedeutende Festungsanlage aus dem 10. Jahrhundert, die von den Kitan erbaut wurde.",
       hu: "Jelentős 10. századi erődítményrendszer, amelyet a kitajok építettek.",
@@ -1026,7 +1026,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-ordu-baliq-history-v2",
     type: "ruins",
     name: { de: "Ordu-Baliq", hu: "Ordu-Balik", ro: "Ordu-Baliq", en: "Ordu-Baliq" },
-    coordinates: { lat: 47.4308, lng: 102.6322 },
+    coords: [102.6322, 47.4308],
     description: {
       de: "Die ehemalige Hauptstadt des Uigurischen Khaganats aus dem 8. und 9. Jahrhundert.",
       hu: "Az Ujgur Kaganátus egykori fővárosa a 8. és 9. századból.",
@@ -1045,7 +1045,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tonyukuk-inscriptions-history-v2",
     type: "monument",
     name: { de: "Tonyukuk-Inschriften", hu: "Tonyukuk feliratok", ro: "Inscripțiile Tonyukuk", en: "Tonyukuk Inscriptions" },
-    coordinates: { lat: 47.7033, lng: 107.4728 },
+    coords: [107.4728, 47.7033],
     description: {
       de: "Zwei Steinstelen mit alttürkischen Runeninschriften aus dem frühen 8. Jahrhundert.",
       hu: "Két kősztélé ótörök rovásírásos feliratokkal a 8. század elejéről.",
@@ -1064,7 +1064,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-noin-ula-tombs-history-v2",
     type: "ruins",
     name: { de: "Noin-Ula Grabstätten", hu: "Nojin-ula sírok", ro: "Mormintele Noin-Ula", en: "Noin-Ula Tombs" },
-    coordinates: { lat: 48.4167, lng: 106.3333 },
+    coords: [106.3333, 48.4167],
     description: {
       de: "Eine Gruppe von über 200 Grabhügeln der Xiongnu-Aristokratie im Norden der Mongolei.",
       hu: "Több mint 200 kurgánból álló hun (Xiongnu) nemesi sírcsoport Észak-Mongóliában.",
@@ -1083,7 +1083,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khoit-tsenkher-cave-history-v2",
     type: "ruins",
     name: { de: "Khoit-Tsenkher-Höhle", hu: "Khoit Tsenkher-barlang", ro: "Peștera Khoit Tsenkher", en: "Khoit Tsenkher Cave" },
-    coordinates: { lat: 47.3486, lng: 91.9542 },
+    coords: [91.9542, 47.3486],
     description: {
       de: "Berühmte paläolithische Höhle mit Wandmalereien, die bis zu 20.000 Jahre alt sind.",
       hu: "Híres paleolit barlang, akár 20 000 éves sziklarajzokkal.",
@@ -1102,7 +1102,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-gol-mod-cemetery-history-v2",
     type: "ruins",
     name: { de: "Gol Mod II Friedhof", hu: "Gol Mod II temető", ro: "Cimitirul Gol Mod II", en: "Gol Mod II Cemetery" },
-    coordinates: { lat: 48.0167, lng: 101.2167 },
+    coords: [101.2167, 48.0167],
     description: {
       de: "Massive Xiongnu-Königsnekropole mit über 100 monumentalen Gräbern.",
       hu: "Hatalmas hun (Xiongnu) királyi nekropolisz, több mint 100 monumentális sírral.",
@@ -1121,7 +1121,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bars-khot-ruins-history-v2",
     type: "ruins",
     name: { de: "Bars Khot Ruinen", hu: "Barsz-khot romjai", ro: "Ruinele Bars Khot", en: "Bars Khot Ruins" },
-    coordinates: { lat: 48.0267, lng: 113.3917 },
+    coords: [113.3917, 48.0267],
     description: {
       de: "Ehemalige Handelsstadt der Kitan aus dem 10. bis 12. Jahrhundert am Kherlen-Fluss.",
       hu: "Egykori kitaj kereskedőváros a 10-12. századból a Kerülen-folyó mentén.",
@@ -1140,7 +1140,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-rashaan-khad-complex-history-v2",
     type: "landmark",
     name: { de: "Rashaan Khad Felskunst", hu: "Rashaan Khad sziklarajzok", ro: "Complexul Rashaan Khad", en: "Rashaan Khad Complex" },
-    coordinates: { lat: 48.3333, lng: 109.1667 },
+    coords: [109.1667, 48.3333],
     description: {
       de: "Ein heiliger Felsen mit Inschriften und Petroglyphen aus verschiedenen Epochen.",
       hu: "Szent szikla különféle korszakokból származó feliratokkal és sziklarajzokkal.",
@@ -1159,7 +1159,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-shankh-monastery-history-v2",
     type: "temple",
     name: { de: "Shankh-Kloster", hu: "Sankh kolostor", ro: "Mănăstirea Shankh", en: "Shankh Monastery" },
-    coordinates: { lat: 47.0503, lng: 102.8508 },
+    coords: [102.8508, 47.0503],
     description: {
       de: "Eines der ältesten und bedeutendsten Klöster der Mongolei, gegründet im Jahr 1647.",
       hu: "Mongólia egyik legrégebbi és legjelentősebb kolostora, amelyet 1647-ben alapítottak.",
@@ -1178,7 +1178,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-chin-tolgoi-balgas-history-v2",
     type: "ruins",
     name: { de: "Chin Tolgoi Festung", hu: "Csin Tolgoj erőd", ro: "Cetatea Chin Tolgoi", en: "Chin Tolgoi Fortress" },
-    coordinates: { lat: 47.9667, lng: 102.5833 },
+    coords: [102.5833, 47.9667],
     description: {
       de: "Überreste einer befestigten Stadt der Kitan aus dem 10. Jahrhundert.",
       hu: "Egy 10. századi fallal körülvett kitaj város maradványai.",
@@ -1197,7 +1197,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tsatsiin-ereg-stones-history-v2",
     type: "monument",
     name: { de: "Tsatsiin Ereg Hirschsteine", hu: "Tsatsiin Ereg szarvaskövek", ro: "Pietrele cerb Tsatsiin Ereg", en: "Tsatsiin Ereg Deer Stones" },
-    coordinates: { lat: 47.85, lng: 101.4167 },
+    coords: [101.4167, 47.85],
     description: {
       de: "Eine der weltweit größten Konzentrationen bronzezeitlicher Hirschsteine und Grabmale.",
       hu: "A bronzkori szarvaskövek és síremlékek egyik legnagyobb lelőhelye a világon.",
@@ -1216,7 +1216,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-shiveet-ulaan-memorial-history-v2",
     type: "monument",
     name: { de: "Shiveet Ulaan Denkmal", hu: "Shiveet Ulaan emlékhely", ro: "Memorialul Shiveet Ulaan", en: "Shiveet Ulaan Memorial" },
-    coordinates: { lat: 47.5333, lng: 101.55 },
+    coords: [101.55, 47.5333],
     description: {
       de: "Bedeutender Kultkomplex aus der Zeit des Zweiten Türkischen Khaganats (8. Jahrhundert).",
       hu: "Jelentős kultikus komplexum a Második Türk Kaganátus idejéből (8. század).",
@@ -1235,7 +1235,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-olon-sume-ruins-history-v2",
     type: "ruins",
     name: { de: "Olon Süme Ruinen", hu: "Olon Szüme romjai", ro: "Ruinele Olon Sume", en: "Olon Sume Ruins" },
-    coordinates: { lat: 42.4333, lng: 110.2167 },
+    coords: [110.2167, 42.4333],
     description: {
       de: "Ehemalige Hauptstadt der Onguden, einem christlich geprägten Stamm der Mongolenzeit.",
       hu: "Az ongutok egykori fővárosa, akik egy keresztény vallású mongol törzs voltak.",
@@ -1254,7 +1254,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khundui-river-balbals-history-v2",
     type: "monument",
     name: { de: "Balbals vom Khundui-Fluss", hu: "Khundui-folyó balbaljai", ro: "Balbalii de pe râul Khundui", en: "Khundui River Balbals" },
-    coordinates: { lat: 46.5167, lng: 102.3333 },
+    coords: [102.3333, 46.5167],
     description: {
       de: "Alttürkische Gedenkstätten mit anthropomorphen Steinstelen (Balbals).",
       hu: "Ótörök emlékhelyek ember alakú kősztélékkel (balbalokkal).",
@@ -1273,7 +1273,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-emgentiin-kherem-wall-history-v2",
     type: "ruins",
     name: { de: "Emgentiin Kherem Mauer", hu: "Emgentiin Kherem fala", ro: "Zidul Emgentiin Kherem", en: "Emgentiin Kherem Wall" },
-    coordinates: { lat: 48.15, lng: 103.2333 },
+    coords: [103.2333, 48.15],
     description: {
       de: "Teil eines ausgedehnten historischen Befestigungssystems im Norden der Mongolei.",
       hu: "Észak-Mongólia kiterjedt történelmi erődítményrendszerének része.",
@@ -1292,7 +1292,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kherlen-bars-tower-history-v2",
     type: "tower",
     name: { de: "Kherlen Bars Turm", hu: "Kerülen-Barsz torony", ro: "Turnul Kherlen Bars", en: "Kherlen Bars Tower" },
-    coordinates: { lat: 48.0167, lng: 113.3833 },
+    coords: [113.3833, 48.0167],
     description: {
       de: "Ein einsamer, 16 Meter hoher Ziegelturm aus der Kitan-Zeit (10. Jahrhundert).",
       hu: "Egy magányos, 16 méter magas téglatorony a kitaj korból (10. század).",
@@ -1311,7 +1311,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-arshaan-khad-rock-history-v2",
     type: "landmark",
     name: { de: "Arshaan Khad Fels", hu: "Arshaan Khad szikla", ro: "Stânca Arshaan Khad", en: "Arshaan Khad Rock" },
-    coordinates: { lat: 48.3417, lng: 109.1833 },
+    coords: [109.1833, 48.3417],
     description: {
       de: "Archäologischer Fundplatz mit hunderten Felsritzungen vom Paläolithikum bis zum Mittelalter.",
       hu: "Régészeti lelőhely több száz sziklavésettel a paleolitikumtól a középkorig.",
@@ -1330,7 +1330,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bichigt-khad-petroglyphs-history-v2",
     type: "landmark",
     name: { de: "Bichigt Khad Petroglyphen", hu: "Bichigt Khad sziklarajzok", ro: "Petroglifele Bichigt Khad", en: "Bichigt Khad Petroglyphs" },
-    coordinates: { lat: 44.8833, lng: 100.25 },
+    coords: [100.25, 44.8833],
     description: {
       de: "Eine beeindruckende Galerie von Felsbildern aus der Bronze- und Eisenzeit.",
       hu: "Lenyűgöző sziklarajz-galéria a bronz- és vaskorból.",
@@ -1349,7 +1349,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tsagaan-agui-cave-history-v2",
     type: "ruins",
     name: { de: "Tsagaan Agui Höhle", hu: "Tsagaan Agui-barlang", ro: "Peștera Tsagaan Agui", en: "Tsagaan Agui Cave" },
-    coordinates: { lat: 44.7167, lng: 100.5833 },
+    coords: [100.5833, 44.7167],
     description: {
       de: "Eine bedeutende archäologische Stätte in der Gobi-Wüste mit Funden aus der Altsteinzeit.",
       hu: "Jelentős régészeti lelőhely a Góbi-sivatagban, kőkorszaki leletekkel.",
@@ -1368,7 +1368,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-jargalant-deer-stones-history-v2",
     type: "monument",
     name: { de: "Jargalant Hirschsteine", hu: "Jargalant szarvaskövek", ro: "Pietrele cerb Jargalant", en: "Jargalant Deer Stones" },
-    coordinates: { lat: 48.0667, lng: 101.3333 },
+    coords: [101.3333, 48.0667],
     description: {
       de: "Komplex aus 30 Hirschsteinen aus der späten Bronzezeit in der Provinz Arkhangai.",
       hu: "30 darab késő bronzkori szarvaskőből álló komplexum Arkhangai tartományban.",
@@ -1387,7 +1387,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tureen-tsagaan-balgas-history-v2",
     type: "ruins",
     name: { de: "Tureetiin Tsagaan Balgas", hu: "Türetiin Tsagaan Balgas", ro: "Tureetiin Tsagaan Balgas", en: "Tureetiin Tsagaan Balgas" },
-    coordinates: { lat: 48.45, lng: 102.1333 },
+    coords: [102.1333, 48.45],
     description: {
       de: "Überreste einer befestigten Siedlung aus der Zeit des Kitan-Reiches (10.-12. Jahrhundert).",
       hu: "Egy fallal körülvett település maradványai a kitaj birodalom idejéből (10-12. század).",
@@ -1406,7 +1406,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bugat-inscription-history-v2",
     type: "monument",
     name: { de: "Bugat-Inschrift", hu: "Bugat felirat", ro: "Inscripția Bugat", en: "Bugat Inscription" },
-    coordinates: { lat: 47.9167, lng: 103.45 },
+    coords: [103.45, 47.9167],
     description: {
       de: "Eine der ältesten türkischen Inschriften der Mongolei aus dem späten 6. Jahrhundert.",
       hu: "Mongólia egyik legrégebbi türk felirata a 6. század végéről.",
@@ -1425,7 +1425,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-morin-tolgoi-stones-history-v2",
     type: "monument",
     name: { de: "Morin Tolgoi Hirschsteine", hu: "Morin Tolgoj szarvaskövek", ro: "Pietrele cerb Morin Tolgoi", en: "Morin Tolgoi Deer Stones" },
-    coordinates: { lat: 47.7833, lng: 101.2167 },
+    coords: [101.2167, 47.7833],
     description: {
       de: "Bronzezeitliches Monumentfeld mit Hirschsteinen und Grabstätten.",
       hu: "Bronzkori emlékhely szarvaskövekkel és sírhelyekkel.",
@@ -1444,7 +1444,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khoid-tsenkher-rockart-history-v2",
     type: "landmark",
     name: { de: "Khoit Tsenkher Felsbilder", hu: "Khoit Tsenkher sziklaművészet", ro: "Arta rupestră Khoit Tsenkher", en: "Khoit Tsenkher Rock Art" },
-    coordinates: { lat: 47.35, lng: 91.9667 },
+    coords: [91.9667, 47.35],
     description: {
       de: "Zusätzliche Felsbilder in der Nähe der berühmten Höhle aus verschiedenen Epochen.",
       hu: "További sziklarajzok a híres barlang közelében, különböző korszakokból.",
@@ -1463,7 +1463,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-chandman-mountain-burials-history-v2",
     type: "ruins",
     name: { de: "Chandman-Uul Grabstätten", hu: "Csandman-hegyi sírok", ro: "Mormintele de pe muntele Chandman", en: "Chandman Mountain Burials" },
-    coordinates: { lat: 49.9167, lng: 92.1167 },
+    coords: [92.1167, 49.9167],
     description: {
       de: "Eponyme Stätte der Chandman-Kultur aus der frühen Eisenzeit.",
       hu: "A kora vaskori Csandman-kultúra névadó lelőhelye.",
@@ -1482,7 +1482,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tenuun-paleolithic-site-history-v2",
     type: "ruins",
     name: { de: "Tenuun-Lagerstätte", hu: "Tenuun paleolit lelőhely", ro: "Situl paleolitic Tenuun", en: "Tenuun Paleolithic Site" },
-    coordinates: { lat: 45.15, lng: 101.45 },
+    coords: [101.45, 45.15],
     description: {
       de: "Eine der ältesten Freilandstationen der Steinzeit in der Mongolei.",
       hu: "Mongólia egyik legrégebbi nyílt színi kőkorszaki lelőhelye.",
@@ -1501,7 +1501,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bayan-bulag-fort-history-v2",
     type: "fortress",
     name: { de: "Bayan Bulag Festung", hu: "Bajan Bulag erőd", ro: "Cetatea Bayan Bulag", en: "Bayan Bulag Fortress" },
-    coordinates: { lat: 44.5833, lng: 102.1667 },
+    coords: [102.1667, 44.5833],
     description: {
       de: "Historische Festung aus der Zeit der Xiongnu-Konföderation.",
       hu: "Történelmi erőd a hun (Xiongnu) konföderáció idejéből.",
@@ -1520,7 +1520,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khanui-gol-tombs-history-v2",
     type: "ruins",
     name: { de: "Khanui-Gol Gräber", hu: "Khanui-gol sírok", ro: "Mormintele Khanui-Gol", en: "Khanui-Gol Tombs" },
-    coordinates: { lat: 48.3333, lng: 102.4167 },
+    coords: [102.4167, 48.3333],
     description: {
       de: "Ein weites Feld monumentaler Gräber aus der Bronzezeit.",
       hu: "Monumentális bronzkori sírok kiterjedt mezője.",
@@ -1539,7 +1539,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bain-tsokto-stelae-history-v2",
     type: "monument",
     name: { de: "Bain-Tsokto Stelen", hu: "Bain-Tsokto sztélék", ro: "Stelele Bain-Tsokto", en: "Bain-Tsokto Stelae" },
-    coordinates: { lat: 47.7167, lng: 107.5 },
+    coords: [107.5, 47.7167],
     description: {
       de: "Der Standort der Tonyukuk-Inschriften mit weiteren archäologischen Überresten.",
       hu: "A Tonyukuk-feliratok helyszíne további régészeti maradványokkal.",
@@ -1558,7 +1558,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khustayn-bulag-site-history-v2",
     type: "ruins",
     name: { de: "Khustayn Bulag Fundstätte", hu: "Khustayn Bulag lelőhely", ro: "Situl Khustayn Bulag", en: "Khustayn Bulag Site" },
-    coordinates: { lat: 47.75, lng: 105.8833 },
+    coords: [105.8833, 47.75],
     description: {
       de: "Wichtige archäologische Stätte mit Siedlungsspuren aus der Bronzezeit.",
       hu: "Fontos régészeti lelőhely bronzkori településnyomokkal.",
@@ -1577,7 +1577,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-temeen-chuluu-megaliths-history-v2",
     type: "monument",
     name: { de: "Temeen Chuluu Megalithen", hu: "Temeen Chuluu megalitok", ro: "Megaliții Temeen Chuluu", en: "Temeen Chuluu Megaliths" },
-    coordinates: { lat: 47.9333, lng: 100.9167 },
+    coords: [100.9167, 47.9333],
     description: {
       de: "Eine Gruppe riesiger stehender Steine aus der Bronzezeit.",
       hu: "Hatalmas állókövekből álló bronzkori csoport.",
@@ -1596,7 +1596,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-chikhen-agui-cave-history-v2",
     type: "ruins",
     name: { de: "Chikhen Agui Höhle", hu: "Chikhen Agui-barlang", ro: "Peștera Chikhen Agui", en: "Chikhen Agui Cave" },
-    coordinates: { lat: 44.75, lng: 99.0333 },
+    coords: [99.0333, 44.75],
     description: {
       de: "Wichtige steinzeitliche Höhle in der Provinz Bayankhongor.",
       hu: "Fontos kőkorszaki barlang Bayankhongor tartományban.",
@@ -1615,7 +1615,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kherlen-bridge-history-v2",
     type: "bridge",
     name: { de: "Historische Kherlen-Brücke", hu: "Történelmi Kerülen-híd", ro: "Podul istoric Kherlen", en: "Historical Kherlen Bridge" },
-    coordinates: { lat: 48.0167, lng: 113.3667 },
+    coords: [113.3667, 48.0167],
     description: {
       de: "Überreste einer alten Steinbrücke an einem strategischen Flussübergang.",
       hu: "Egy régi kőhíd maradványai egy stratégiai folyami átkelőnél.",
@@ -1634,7 +1634,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-maidar-monastery-ruins-history-v2",
     type: "ruins",
     name: { de: "Maidar-Klosterruinen", hu: "Maidar kolostorromok", ro: "Ruinele mănăstirii Maidar", en: "Maidar Monastery Ruins" },
-    coordinates: { lat: 47.6667, lng: 107.0333 },
+    coords: [107.0333, 47.6667],
     description: {
       de: "Zerstörtes buddhistisches Kloster, das einst ein religiöses Zentrum war.",
       hu: "Elpusztított buddhista kolostor, amely egykor vallási központ volt.",
@@ -1653,7 +1653,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-baruun-khuree-monastery-history-v2",
     type: "temple",
     name: { de: "Baruun Khuree Kloster", hu: "Baruun Khuree kolostor", ro: "Mănăstirea Baruun Khuree", en: "Baruun Khuree Monastery" },
-    coordinates: { lat: 47.2, lng: 102.7333 },
+    coords: [102.7333, 47.2],
     description: {
       de: "Historisches Klostergelände in der Nähe der antiken Stadt Karakorum.",
       hu: "Történelmi kolostorhelyszín az ősi Karakorum város közelében.",
@@ -1672,7 +1672,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khirigsuur-of-khoton-history-v2",
     type: "ruins",
     name: { de: "Khoton Khirigsuur", hu: "Khoton khirigsuur", ro: "Khirigsuur din Khoton", en: "Khoton Khirigsuur" },
-    coordinates: { lat: 48.6167, lng: 98.45 },
+    coords: [98.45, 48.6167],
     description: {
       de: "Monumentales Steingrabmal (Khirigsuur) aus der Bronzezeit.",
       hu: "Monumentális bronzkori kősíremlék (khirigsuur).",
@@ -1691,7 +1691,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-olon-khuree-ruins-history-v2",
     type: "ruins",
     name: { de: "Olon Khuree Ruinen", hu: "Olon Khuree romjai", ro: "Ruinele Olon Khuree", en: "Olon Khuree Ruins" },
-    coordinates: { lat: 47.9833, lng: 103.1167 },
+    coords: [103.1167, 47.9833],
     description: {
       de: "Überreste einer historischen Siedlung, die während der Mandschu-Zeit bedeutend war.",
       hu: "Egy történelmi település maradványai, amely a mandzsu korszakban volt jelentős.",
@@ -1710,7 +1710,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-victims-repression-museum-history-v2",
     type: "museum",
     name: { de: "Museum der Opfer politischer Verfolgung", hu: "Politikai üldözöttek múzeuma", ro: "Muzeul Victimelor Represiunii Politice", en: "Victims of Political Repression Museum" },
-    coordinates: { lat: 47.9158, lng: 106.9189 },
+    coords: [106.9189, 47.9158],
     description: {
       de: "Ein Museum in einem historischen Holzhaus, das der tragischen Zeit der Säuberungen gewidmet ist.",
       hu: "Egy történelmi faházban berendezett múzeum, a tisztogatások tragikus korszakának emléke.",
@@ -1729,7 +1729,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-dinosaur-museum-ub-history-v2",
     type: "museum",
     name: { de: "Zentralmuseum für Dinosaurier", hu: "Központi Dinoszaurusz Múzeum", ro: "Muzeul Central de Dinozauri", en: "Central Museum of Mongolian Dinosaurs" },
-    coordinates: { lat: 47.9239, lng: 106.9114 },
+    coords: [106.9114, 47.9239],
     description: {
       de: "Museum, das die weltberühmten paläontologischen Funde aus der Mongolei ausstellt.",
       hu: "A Mongóliából származó világhírű őslénytani leleteket bemutató múzeum.",
@@ -1748,7 +1748,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-shovkh-tomb-history-v2",
     type: "ruins",
     name: { de: "Shovkh-Grab", hu: "Shovkh-sír", ro: "Mormântul Shovkh", en: "Shovkh Tomb" },
-    coordinates: { lat: 48.1167, lng: 101.9167 },
+    coords: [101.9167, 48.1167],
     description: {
       de: "Ein gut erhaltenes Adelsgrab aus der frühen Eisenzeit.",
       hu: "Egy jól megőrzött nemesi sír a kora vaskorból.",
@@ -1767,7 +1767,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-sayan-uul-archaeological-history-v2",
     type: "ruins",
     name: { de: "Sayan-Uul Fundplatz", hu: "Szajan-uul lelőhely", ro: "Situl Sayan-Uul", en: "Sayan-Uul Site" },
-    coordinates: { lat: 49.8833, lng: 104.3333 },
+    coords: [104.3333, 49.8833],
     description: {
       de: "Archäologische Stätte mit Siedlungsresten aus der Jungsteinzeit.",
       hu: "Régészeti lelőhely újkőkori településmaradványokkal.",
@@ -1786,7 +1786,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-gungai-burial-complex-history-v2",
     type: "ruins",
     name: { de: "Gungai Gräberfeld", hu: "Gungai sírmező", ro: "Complexul funerar Gungai", en: "Gungai Burial Complex" },
-    coordinates: { lat: 48.7167, lng: 105.15 },
+    coords: [105.15, 48.7167],
     description: {
       de: "Ein Komplex aus Grabmälern der Xiongnu- und Alttürkischen Zeit.",
       hu: "Hun (Xiongnu) és ótörök kori síremlékek komplexuma.",
@@ -1805,7 +1805,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-del-uul-petroglyphs-history-v2",
     type: "landmark",
     name: { de: "Del-Uul Felsmalereien", hu: "Del-uul sziklarajzok", ro: "Petroglifele Del-Uul", en: "Del Uul Petroglyphs" },
-    coordinates: { lat: 45.3167, lng: 105.8167 },
+    coords: [105.8167, 45.3167],
     description: {
       de: "Umfangreiche Galerie von Felsritzungen in der mittleren Gobi.",
       hu: "Kiterjedt sziklavéset-galéria a Középső-Góbiban.",
@@ -1824,7 +1824,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-moiltam-xiongnu-site-history-v2",
     type: "ruins",
     name: { de: "Moiltam Xiongnu-Siedlung", hu: "Moiltam hun település", ro: "Așezarea Xiongnu Moiltam", en: "Moiltam Xiongnu Site" },
-    coordinates: { lat: 47.95, lng: 102.8333 },
+    coords: [102.8333, 47.95],
     description: {
       de: "Überreste einer befestigten Stadt aus der Xiongnu-Zeit.",
       hu: "Egy fallal körülvett város maradványai a hun (Xiongnu) korszakból.",
@@ -1843,7 +1843,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-emgentiin-fort-history-v2",
     type: "fortress",
     name: { de: "Emgentiin Festungsruine", hu: "Emgentiin erődróm", ro: "Ruina fortăreței Emgentiin", en: "Emgentiin Fort Ruins" },
-    coordinates: { lat: 48.1667, lng: 103.25 },
+    coords: [103.25, 48.1667],
     description: {
       de: "Eine bedeutende Wehranlage der Kitan aus dem 11. Jahrhundert.",
       hu: "Jelentős 11. századi kitaj védelmi létesítmény.",
@@ -1862,7 +1862,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-baishingin-am-site-history-v2",
     type: "ruins",
     name: { de: "Baishingiin-Am Gräber", hu: "Baishingiin-Am sírok", ro: "Mormintele Baishingiin-Am", en: "Baishingiin Am Burials" },
-    coordinates: { lat: 48.2167, lng: 100.8333 },
+    coords: [100.8333, 48.2167],
     description: {
       de: "Ein Friedhof aus der Bronzezeit mit markanten Steinplatten-Gräbern.",
       hu: "Bronzkori temető jellegzetes kőlapos sírokkal.",
@@ -1881,7 +1881,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kherlen-bars-city-history-v2",
     type: "ruins",
     name: { de: "Kherlen Bars Stadtruinen", hu: "Kerülen-Barsz városromok", ro: "Ruinele orașului Kherlen Bars", en: "Kherlen Bars City Ruins" },
-    coordinates: { lat: 48.0167, lng: 113.3667 },
+    coords: [113.3667, 48.0167],
     description: {
       de: "Das gesamte Areal der befestigten Kitan-Stadt am Ufer des Kherlen.",
       hu: "A fallal körülvett kitaj város teljes területe a Kerülen partján.",
@@ -1900,7 +1900,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-dan-zan-rav-jaa-caves-history-v2",
     type: "landmark",
     name: { de: "Danzanravjaa-Meditationshöhlen", hu: "Danzanravjaa meditációs barlangjai", ro: "Peșterile de meditație Danzanravjaa", en: "Danzanravjaa Meditation Caves" },
-    coordinates: { lat: 44.2167, lng: 108.45 },
+    coords: [108.45, 44.2167],
     description: {
       de: "Ein Netzwerk von 108 Höhlen, die vom berühmten Mönch Danzanravjaa im 19. Jahrhundert genutzt wurden.",
       hu: "108 barlangból álló hálózat, amelyet a híres szerzetes, Danzanravjaa használt a 19. században.",
@@ -1919,7 +1919,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-danzanravjaa-museum-history-v2",
     type: "museum",
     name: { de: "Danzanravjaa-Museum", hu: "Danzanravjaa Múzeum", ro: "Muzeul Danzanravjaa", en: "Danzanravjaa Museum" },
-    coordinates: { lat: 44.8917, lng: 110.1333 },
+    coords: [110.1333, 44.8917],
     description: {
       de: "Museum, das das Erbe des 5. Noyon Khutagt von Gobi bewahrt.",
       hu: "A Góbi 5. Noyon Khutagt-jának örökségét őrző múzeum.",
@@ -1938,7 +1938,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-ikh-kherem-wall-history-v2",
     type: "ruins",
     name: { de: "Ikh-Kherem Mauerruine", hu: "Ikh-Kherem falmaradvány", ro: "Ruina zidului Ikh-Kherem", en: "Ikh Kherem Wall Ruins" },
-    coordinates: { lat: 48.0833, lng: 103.55 },
+    coords: [103.55, 48.0833],
     description: {
       de: "Überreste einer massiven Wehrmauer, die ein großes Gebiet umschließt.",
       hu: "Egy hatalmas területet körülvevő masszív védőfal maradványai.",
@@ -1957,7 +1957,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-shiveet-ulaan-lion-history-v2",
     type: "monument",
     name: { de: "Löwen von Shiveet Ulaan", hu: "Shiveet Ulaan oroszlánjai", ro: "Leii din Shiveet Ulaan", en: "Shiveet Ulaan Lions" },
-    coordinates: { lat: 47.535, lng: 101.551 },
+    coords: [101.551, 47.535],
     description: {
       de: "Sorgfältig skulptierte Steinlöwen an einem alttürkischen Gedenkort.",
       hu: "Gondosan kifaragott kőoroszlánok egy ótörök emlékhelyen.",
@@ -1976,7 +1976,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kharkhorum-museum-history-v2",
     type: "museum",
     name: { de: "Karakorum-Museum", hu: "Karakorum Múzeum", ro: "Muzeul Karakorum", en: "Kharakhorum Museum" },
-    coordinates: { lat: 47.1992, lng: 102.8256 },
+    coords: [102.8256, 47.1992],
     description: {
       de: "Ein modernes Museum, das Funde aus der ehemaligen Hauptstadt des Mongolenreiches zeigt.",
       hu: "A Mongol Birodalom egykori fővárosának leleteit bemutató modern múzeum.",
@@ -1995,7 +1995,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-darkhan-history-museum-history-v2",
     type: "museum",
     name: { de: "Museum der Provinz Darkhan-Uul", hu: "Darkhan-Uul tartományi múzeum", ro: "Muzeul de Istorie Darkhan-Uul", en: "Darkhan-Uul History Museum" },
-    coordinates: { lat: 49.4667, lng: 105.9167 },
+    coords: [105.9167, 49.4667],
     description: {
       de: "Regionales Museum, das die Geschichte und Kultur Nordmongoliens dokumentiert.",
       hu: "Észak-Mongólia történelmét és kultúráját dokumentáló regionális múzeum.",
@@ -2014,7 +2014,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-avarga-first-capital-history-v2",
     type: "ruins",
     name: { de: "Avarga - Die erste Hauptstadt", hu: "Avarga - Az első főváros", ro: "Avarga - Prima Capitală", en: "Avarga - The First Capital" },
-    coordinates: { lat: 47.11, lng: 108.975 },
+    coords: [108.975, 47.11],
     description: {
       de: "Ein weites archäologisches Feld, das die frühen Paläste des Reiches umfasst.",
       hu: "Kiterjedt régészeti terület, amely a birodalom korai palotáit foglalja magában.",
@@ -2033,7 +2033,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-nine-white-banners-history-v2",
     type: "monument",
     name: { de: "Die Neun Weißen Banner", hu: "A kilenc fehér zászló", ro: "Cele Nouă Steaguri Albe", en: "The Nine White Banners" },
-    coordinates: { lat: 47.9192, lng: 106.9175 },
+    coords: [106.9175, 47.9192],
     description: {
       de: "Historisches Staatssymbol, das im Regierungspalast von Ulaanbaatar aufbewahrt wird.",
       hu: "Történelmi állami jelkép, amelyet az ulánbátori kormányzati palotában őriznek.",
@@ -2052,7 +2052,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kherlen-bars-pagoda-history-v2",
     type: "landmark",
     name: { de: "Kherlen Bars Pagode", hu: "Kerülen-Barsz pagoda", ro: "Pagoda Kherlen Bars", en: "Kherlen Bars Pagoda" },
-    coordinates: { lat: 48.0165, lng: 113.383 },
+    coords: [113.383, 48.0165],
     description: {
       de: "Die berühmte Ziegelpagode aus der Kitan-Zeit, ein Wahrzeichen der Ostmongolei.",
       hu: "A híres kitaj kori tégla pagoda, Kelet-Mongólia egyik jelképe.",
@@ -2071,7 +2071,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bars-khot-city-wall-history-v2",
     type: "ruins",
     name: { de: "Stadtmauer von Bars-Khot", hu: "Barsz-khot városfala", ro: "Zidul orașului Bars Khot", en: "Bars Khot City Wall" },
-    coordinates: { lat: 48.028, lng: 113.395 },
+    coords: [113.395, 48.028],
     description: {
       de: "Reste der Befestigungswälle einer mittelalterlichen Kitan-Stadt.",
       hu: "Egy középkori kitaj város védőfalainak maradványai.",
@@ -2090,7 +2090,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-khundui-memorial-site-history-v2",
     type: "monument",
     name: { de: "Khundui Gedenkstätte", hu: "Khundui emlékhely", ro: "Situl memorial Khundui", en: "Khundui Memorial Site" },
-    coordinates: { lat: 46.52, lng: 102.34 },
+    coords: [102.34, 46.52],
     description: {
       de: "Eine Ansammlung von alttürkischen Steinstatuen und Balbals im Khundui-Tal.",
       hu: "Ótörök kőszobrok és balbalok gyűjteménye a Khundui-völgyben.",
@@ -2109,7 +2109,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-rashaan-khad-petroglyphs-history-v2",
     type: "landmark",
     name: { de: "Petroglyphen von Rashaan Khad", hu: "Rashaan Khad sziklavésetek", ro: "Petroglifele de la Rashaan Khad", en: "Rashaan Khad Petroglyphs" },
-    coordinates: { lat: 48.335, lng: 109.168 },
+    coords: [109.168, 48.335],
     description: {
       de: "Detaillierte Felsritzungen an einem historisch bedeutenden Kultplatz.",
       hu: "Részletes sziklavésetek egy történelmileg jelentős kultikus helyen.",
@@ -2128,7 +2128,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-jargalant-ruins-history-v2",
     type: "ruins",
     name: { de: "Jargalant Ruinenstätte", hu: "Jargalant romterület", ro: "Situl ruinelor Jargalant", en: "Jargalant Ruins" },
-    coordinates: { lat: 48.065, lng: 101.335 },
+    coords: [101.335, 48.065],
     description: {
       de: "Archäologische Überreste von bronzezeitlichen Strukturen in Arkhangai.",
       hu: "Bronzkori építmények régészeti maradványai Arkhangai-ban.",
@@ -2147,7 +2147,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-kherlen-bars-gate-history-v2",
     type: "ruins",
     name: { de: "Tor von Kherlen Bars", hu: "Kerülen-Barsz kapuja", ro: "Poarta din Kherlen Bars", en: "Kherlen Bars Gate" },
-    coordinates: { lat: 48.016, lng: 113.385 },
+    coords: [113.385, 48.016],
     description: {
       de: "Überreste des Haupteingangs der befestigten Stadt Bars-Khot.",
       hu: "Barsz-khot erődített városának főkapujának maradványai.",
@@ -2166,7 +2166,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-tsatsiin-ereg-complex-history-v2",
     type: "ruins",
     name: { de: "Archäologisches Feld Tsatsiin Ereg", hu: "Tsatsiin Ereg régészeti terület", ro: "Câmpul arheologic Tsatsiin Ereg", en: "Tsatsiin Ereg Archaeological Field" },
-    coordinates: { lat: 47.852, lng: 101.42 },
+    coords: [101.42, 47.852],
     description: {
       de: "Ein weites Gebiet mit über 500 Gräbern und Hirschsteinen in Arkhangai.",
       hu: "Több mint 500 sírt és szarvaskövet tartalmazó terület Arkhangaiban.",
@@ -2185,7 +2185,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-avarga-statue-history-v2",
     type: "monument",
     name: { de: "Gedenkstatue von Avarga", hu: "Avarga emlékoszlop", ro: "Statuia memorială Avarga", en: "Avarga Memorial Statue" },
-    coordinates: { lat: 47.1115, lng: 108.973 },
+    coords: [108.973, 47.1115],
     description: {
       de: "Ein Denkmal zur Markierung der Stelle des ersten mongolischen Palastes.",
       hu: "Emlékmű, amely az első mongol palota helyét jelöli.",
@@ -2204,7 +2204,7 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mongolia-bars-khot-pagoda-ruins-history-v2",
     type: "ruins",
     name: { de: "Überreste der Bars-Khot Pagoden", hu: "Barsz-khot pagodák maradványai", ro: "Rămășițele pagodelor Bars Khot", en: "Bars Khot Pagoda Remains" },
-    coordinates: { lat: 48.017, lng: 113.384 },
+    coords: [113.384, 48.017],
     description: {
       de: "Fundamente und Ziegelreste weiterer religiöser Türme in Bars-Khot.",
       hu: "További vallási tornyok alapzatai és tégla maradványai Barsz-khotban.",

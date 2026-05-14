@@ -894,7 +894,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-praia-ethnographic-museum-landmarks-v2",
     type: "museum",
     name: { de: "Ethnographisches Museum Praia", hu: "Praia Néprajzi Múzeum", ro: "Muzeul Etnografic din Praia", en: "Ethnographic Museum of Praia" },
-    coordinates: { lat: 14.9181, lng: -23.5083 },
+    coords: [-23.5083, 14.9181],
     description: {
       de: "Das Museum befindet sich in einem historischen Kolonialgebäude im Viertel Plateau. Es präsentiert traditionelle kapverdische Werkzeuge und Textilien.",
       hu: "A múzeum egy történelmi koloniális épületben található a Plateau negyedben. Hagyományos zöld-foki eszközöket és textileket mutat be.",
@@ -925,7 +925,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-santa-isabel-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche Santa Isabel", hu: "Szent Erzsébet templom", ro: "Biserica Santa Isabel", en: "Church of Santa Isabel" },
-    coordinates: { lat: 16.1772, lng: -22.9171 },
+    coords: [-22.9171, 16.1772],
     description: {
       de: "Diese katholische Kirche dominiert den Hauptplatz von Sal Rei auf Boa Vista. Sie zeichnet sich durch ihre sandfarbene Fassade und barocke Elemente aus.",
       hu: "Ez a katolikus templom uralja Sal Rei főterét Boa Vista szigetén. Homokszínű homlokzata és barokk elemei jellemzik.",
@@ -956,7 +956,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-ponta-preta-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Farol da Ponta Preta", hu: "Ponta Preta világítótorony", ro: "Farul Ponta Preta", en: "Ponta Preta Lighthouse" },
-    coordinates: { lat: 16.6081, lng: -22.9278 },
+    coords: [-22.9278, 16.6081],
     description: {
       de: "Ein kleiner weißer Signalturm an der Westküste der Insel Sal nahe Santa Maria. Er markiert einen wichtigen Punkt für die Schifffahrt im Süden.",
       hu: "Egy kis fehér jelzőtorony Sal szigetének nyugati partján, Santa Maria közelében. Fontos pontot jelöl a déli hajózás számára.",
@@ -970,12 +970,24 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       en: ["Height: 6 meters", "Design: Pyramidal frustum", "Location: Sal island west coast", "Active since the 20th century"],
     },
     imageHint: "Farol da Ponta Preta Sal Cape Verde white tower",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm Ponta Preta auf der Insel Sal in Kap Verde markiert die südlichste Spitze der Insel. Er wurde 1892 erbaut und ist ein bedeutendes Navigationshilfe für Schiffe im Atlantik. Der Turm ist 15 Meter hoch und hat eine Reichweite von 22 Seemeilen. Er steht in einer kargen, von Wind und Meer geprägten Landschaft. In der Nähe des Leuchtturms befinden sich die berühmten Salinen von Pedra de Lume. Der Leuchtturm ist ein beliebtes Fotomotiv und Teil der maritimen Geschichte der Insel. Sein Licht blinkt alle 10 Sekunden.",
+      hu: "A Ponta Preta világítótorony a Zöld-foki Köztársaság Sal szigetén található, és a sziget legdélebbi csücskét jelöli. 1892-ben épült, és jelentős navigációs segédeszköz az atlanti-óceáni hajók számára. A torony 15 méter magas, hatótávolsága 22 tengeri mérföld. Kopár, szél és tenger által formált tájban áll. A világítótorony közelében találhatók a híres pedra de lume-i sólepárlók. A világítótorony népszerű fotótéma, és a sziget tengeri történelmének része. Fénye 10 másodpercenként villan.",
+      ro: "Farul Ponta Preta de pe insula Sal din Capul Verde marchează extremitatea sudică a insulei. A fost construit în 1892 și este un ajutor important de navigație pentru navele din Atlantic. Turnul are 15 metri înălțime și o rază de acțiune de 22 de mile marine. Se află într-un peisaj arid, modelat de vânt și mare. În apropierea farului se află celebrele saline de la Pedra de Lume. Farul este un subiect popular pentru fotografie și face parte din istoria maritimă a insulei. Lumina sa clipește la fiecare 10 secunde.",
+      en: "The Ponta Preta lighthouse on Sal Island, Cape Verde marks the southernmost point of the island. It was built in 1892 and is an important navigational aid for ships in the Atlantic. The tower is 15 meters high with a range of 22 nautical miles. It stands in an arid landscape shaped by wind and sea. Near the lighthouse are the famous salt pans of Pedra de Lume. The lighthouse is a popular photographic subject and part of the island's maritime history. Its light flashes every 10 seconds.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde 1892 erbaut.", "Er ist 15 Meter hoch.", "Die Lichtreichweite beträgt 22 Seemeilen.", "Er steht auf der Insel Sal.", "Die Kennung ist ein weißer Blitz alle 10 Sekunden.", "Der Turm besteht aus Steinmauerwerk."],
+      hu: ["A világítótorony 1892-ben épült.", "Magassága 15 méter.", "A fény hatótávolsága 22 tengeri mérföld.", "Sal szigetén található.", "A fényjelzés fehér villanás 10 másodpercenként.", "A torony kőből készült."],
+      ro: ["Farul a fost construit în 1892.", "Are 15 metri înălțime.", "Raza de acțiune a luminii este de 22 mile marine.", "Se află pe insula Sal.", "Semnul luminos este un fulger alb la fiecare 10 secunde.", "Turnul este construit din piatră."],
+      en: ["The lighthouse was built in 1892.", "It is 15 meters high.", "The light range is 22 nautical miles.", "It is located on Sal Island.", "The light characteristic is a white flash every 10 seconds.", "The tower is made of stone masonry."],
+    },
   },
   {
     id: "capeverde-tabanka-museum-landmarks-v2",
     type: "museum",
     name: { de: "Tabanka-Museum", hu: "Tabanka Múzeum", ro: "Muzeul Tabanka", en: "Tabanka Museum" },
-    coordinates: { lat: 15.0933, lng: -23.6517 },
+    coords: [-23.6517, 15.0933],
     description: {
       de: "Dieses Museum in Assomada widmet sich der Tabanka-Musik und dem kulturellen Erbe. Es bewahrt Instrumente und Dokumente dieser traditionellen Kunstform.",
       hu: "Ez az assomadai múzeum a Tabanka zenének és a kulturális örökségnek szentelt. Megőrzi e hagyományos művészeti ág hangszereit és dokumentumait.",
@@ -1006,7 +1018,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-our-lady-of-light-church-maio-landmarks-v2",
     type: "church",
     name: { de: "Kirche Nossa Senhora da Luz (Maio)", hu: "Nossa Senhora da Luz templom (Maio)", ro: "Biserica Nossa Senhora da Luz (Maio)", en: "Church of Our Lady of Light (Maio)" },
-    coordinates: { lat: 15.1331, lng: -23.2153 },
+    coords: [-23.2153, 15.1331],
     description: {
       de: "Die Hauptkirche von Vila do Maio zeichnet sich durch ihre helle Fassade und ihre Lage auf einem Hügel aus. Sie wurde im 19. Jahrhundert im Kolonialstil erbaut.",
       hu: "Vila do Maio főtemploma világos homlokzatáról és egy dombon való elhelyezkedéséről ismert. A 19. században épült gyarmati stílusban.",
@@ -1037,7 +1049,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-ildo-lobo-culture-palace-landmarks-v2",
     type: "palace",
     name: { de: "Kulturpalast Ildo Lobo", hu: "Ildo Lobo Kulturális Palota", ro: "Palatul Culturii Ildo Lobo", en: "Ildo Lobo Palace of Culture" },
-    coordinates: { lat: 14.9175, lng: -23.5092 },
+    coords: [-23.5092, 14.9175],
     description: {
       de: "Dieses Kulturzentrum im Plateau-Viertel von Praia ist dem berühmten Sänger Ildo Lobo gewidmet. Es beherbergt Ausstellungen, Konzerte und Workshops.",
       hu: "Ez a Praia Plateau negyedében található kulturális központ Ildo Lobo híres énekesnek van szentelve. Kiállításoknak, koncerteknek és workshopoknak ad otthont.",
@@ -1068,7 +1080,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-nho-martinho-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Farol da Ponta Nhô Martinho", hu: "Nhô Martinho-fok világítótorony", ro: "Farul Ponta Nhô Martinho", en: "Ponta Nhô Martinho Lighthouse" },
-    coordinates: { lat: 14.8111, lng: -24.6667 },
+    coords: [-24.6667, 14.8111],
     description: {
       de: "Der südlichste Leuchtturm der Kapverden markiert die Südspitze der Insel Brava. Der weiße Turm dient der Sicherheit des Seeverkehrs in Küstennähe.",
       hu: "A Zöld-foki-szigetek legdélebbi világítótornya Brava szigetének déli csúcsát jelöli. A fehér torony a partközeli tengeri közlekedés biztonságát szolgálja.",
@@ -1082,12 +1094,24 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       en: ["Built in 1930", "Location: Brava island", "Southernmost point of the archipelago", "White concrete tower"],
     },
     imageHint: "Farol da Ponta Nhô Martinho Brava Cape Verde",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm Ponta Nhô Martinho befindet sich auf der Insel São Nicolau in Kap Verde. Er wurde 1913 erbaut und warnt Schiffe vor der felsigen Küste. Der Turm ist 12 Meter hoch und sein Licht hat eine Reichweite von 15 Seemeilen. Er steht an einem abgelegenen, einsamen Punkt der Insel, umgeben von steilen Klippen. Der Leuchtturm ist ein wichtiges kulturelles Erbe und wurde 2014 renoviert. Er bietet einen weiten Blick auf den Atlantik. In der Nähe liegt das Fischerdorf Tarrafal de São Nicolau.",
+      hu: "A Ponta Nhô Martinho világítótorony a Zöld-foki Köztársaság São Nicolau szigetén található. 1913-ban épült, és figyelmezteti a hajókat a sziklás partra. A torony 12 méter magas, fényének hatótávolsága 15 tengeri mérföld. A sziget távoli, elszigetelt pontján áll, meredek sziklafalakkal körülvéve. A világítótorony fontos kulturális örökség, és 2014-ben felújították. Panorámás kilátást nyújt az Atlanti-óceánra. A közelben található Tarrafal de São Nicolau halászfalva.",
+      ro: "Farul Ponta Nhô Martinho se află pe insula São Nicolau din Capul Verde. A fost construit în 1913 și avertizează navele de coasta stâncoasă. Turnul are 12 metri înălțime, iar lumina sa are o rază de 15 mile marine. Se află într-un punct îndepărtat și izolat al insulei, înconjurat de stânci abrupte. Farul este o importantă moștenire culturală și a fost renovat în 2014. Oferă o vedere panoramică asupra Atlanticului. În apropiere se află satul pescăresc Tarrafal de São Nicolau.",
+      en: "The Ponta Nhô Martinho lighthouse on São Nicolau Island, Cape Verde was built in 1913 to warn ships of the rocky coast. The tower is 12 meters high with a light range of 15 nautical miles. It stands at a remote, isolated point of the island, surrounded by steep cliffs. The lighthouse is an important cultural heritage and was renovated in 2014. It offers panoramic views of the Atlantic. Nearby is the fishing village of Tarrafal de São Nicolau.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde 1913 erbaut.", "Er ist 12 Meter hoch.", "Die Lichtreichweite beträgt 15 Seemeilen.", "Er befindet sich auf der Insel São Nicolau.", "Die Kennung ist ein weißer Blitz alle 5 Sekunden.", "Die Renovierung erfolgte 2014."],
+      hu: ["A világítótorony 1913-ban épült.", "Magassága 12 méter.", "A fény hatótávolsága 15 tengeri mérföld.", "São Nicolau szigetén található.", "A fényjelzés fehér villanás 5 másodpercenként.", "A felújítás 2014-ben történt."],
+      ro: ["Farul a fost construit în 1913.", "Are 12 metri înălțime.", "Raza de acțiune a luminii este de 15 mile marine.", "Se află pe insula São Nicolau.", "Semnul luminos este un fulger alb la fiecare 5 secunde.", "Renovarea a avut loc în 2014."],
+      en: ["The lighthouse was built in 1913.", "It is 12 meters high.", "The light range is 15 nautical miles.", "It is located on São Nicolau Island.", "The light characteristic is a white flash every 5 seconds.", "The renovation took place in 2014."],
+    },
   },
   {
     id: "capeverde-sao-joao-baptista-church-brava-landmarks-v2",
     type: "church",
     name: { de: "Kirche São João Baptista (Brava)", hu: "Keresztelő Szent János templom (Brava)", ro: "Biserica São João Baptista (Brava)", en: "Church of São João Baptista (Brava)" },
-    coordinates: { lat: 14.8692, lng: -24.6972 },
+    coords: [-24.6972, 14.8692],
     description: {
       de: "Die Hauptkirche von Nova Sintra auf Brava ist bekannt für ihre Architektur und ihre Lage im grünen Stadtzentrum. Sie ist dem Schutzpatron der Insel gewidmet.",
       hu: "Nova Sintra főtemploma Braván építészetéről és a zöld városközpontban való elhelyezkedéséről ismert. A sziget védőszentjének van szentelve.",
@@ -1118,7 +1142,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-eden-park-cinema-landmarks-v2",
     type: "theater",
     name: { de: "Cine-Teatro Eden Park", hu: "Eden Park mozi-színház", ro: "Cine-Teatru Eden Park", en: "Eden Park Cinema-Theater" },
-    coordinates: { lat: 16.8878, lng: -24.9881 },
+    coords: [-24.9881, 16.8878],
     description: {
       de: "Ein ikonisches Gebäude in Mindelo, das ein wichtiges Zentrum des kulturellen Lebens auf São Vicente war. Es repräsentiert die Architektur der Mitte des 20. Jahrhunderts.",
       hu: "Mindelo egyik ikonikus épülete, amely São Vicente kulturális életének fontos központja volt. A 20. század közepének építészetét képviseli.",
@@ -1149,7 +1173,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-amilcar-cabral-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Amílcar-Cabral-Gedenkstätte", hu: "Amílcar Cabral Emlékhely", ro: "Memorialul Amílcar Cabral", en: "Amílcar Cabral Memorial" },
-    coordinates: { lat: 14.9158, lng: -23.5111 },
+    coords: [-23.5111, 14.9158],
     description: {
       de: "Dieses Denkmal und Museum in Praia ehrt den Nationalhelden Amílcar Cabral. Es beherbergt persönliche Gegenstände und Dokumente des Unabhängigkeitskampfes.",
       hu: "Ez a Praiában található emlékmű és múzeum Amílcar Cabral nemzeti hős előtt tiszteleg. Személyes tárgyakat és a függetlenségi harc dokumentumait őrzi.",
@@ -1180,7 +1204,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-mindelo-customs-building-landmarks-v2",
     type: "landmark",
     name: { de: "Zollgebäude Mindelo", hu: "Mindelo vámház", ro: "Vama din Mindelo", en: "Mindelo Customs Building" },
-    coordinates: { lat: 16.8883, lng: -24.9903 },
+    coords: [-24.9903, 16.8883],
     description: {
       de: "Die Alfândega do Mindelo ist ein markantes Bauwerk am Hafenrand. Das Gebäude aus der Kolonialzeit zeugt von der Bedeutung des Hafens Porto Grande.",
       hu: "Az Alfândega do Mindelo egy jellegzetes épület a kikötő szélén. A gyarmati korszakból származó épület a Porto Grande kikötő jelentőségét tanúsítja.",
@@ -1211,7 +1235,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-alcatraz-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Farol de Alcatraz", hu: "Alcatraz világítótorony", ro: "Farul Alcatraz", en: "Alcatraz Lighthouse" },
-    coordinates: { lat: 15.2411, lng: -23.1164 },
+    coords: [-23.1164, 15.2411],
     description: {
       de: "Ein einsamer Leuchtturm an der Ostküste der Insel Maio. Er dient der Warnung vor den gefährlichen Riffen und Felsen im Osten der Insel.",
       hu: "Egy magányos világítótorony Maio szigetének keleti partján. A sziget keleti részén található veszélyes zátonyokra és sziklákra figyelmeztet.",
@@ -1242,7 +1266,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-shipwreck-museum-landmarks-v2",
     type: "museum",
     name: { de: "Schiffswrack-Museum (Santa Maria Wrack)", hu: "Hajóroncs múzeum (Santa Maria roncs)", ro: "Muzeul Naufragiilor (Epava Santa Maria)", en: "Shipwreck Museum (Santa Maria Wreck)" },
-    coordinates: { lat: 16.1764, lng: -22.9167 },
+    coords: [-22.9167, 16.1764],
     description: {
       de: "Dieses kleine Museum in Sal Rei dokumentiert die zahlreichen Schiffswracks vor der Küste von Boa Vista, darunter das berühmte Wrack der Cabo Santa Maria.",
       hu: "Ez a Sal Rei-i kis múzeum dokumentálja a Boa Vista partjai előtt történt számos hajótörést, köztük a híres Cabo Santa Maria roncsát.",
@@ -1273,7 +1297,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-sao-nicolau-tolentino-church-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche São Nicolau Tolentino", hu: "Tolentinói Szent Miklós plébániatemplom", ro: "Biserica São Nicolau Tolentino", en: "Church of São Nicolau Tolentino" },
-    coordinates: { lat: 16.6192, lng: -24.2981 },
+    coords: [-24.2981, 16.6192],
     description: {
       de: "Die Hauptkirche von Ribeira Brava auf São Nicolau ist eines der ältesten religiösen Zentren der Insel. Sie beeindruckt durch ihre Größe und den Kolonialstil.",
       hu: "A São Nicolau-i Ribeira Brava főtemploma a sziget egyik legrégebbi vallási központja. Méretével és gyarmati stílusával nyűgöz le.",
@@ -1304,7 +1328,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-jorge-barbosa-auditorium-landmarks-v2",
     type: "theater",
     name: { de: "Nationalauditiorium Jorge Barbosa", hu: "Jorge Barbosa Nemzeti Auditórium", ro: "Auditoriul Național Jorge Barbosa", en: "National Auditorium Jorge Barbosa" },
-    coordinates: { lat: 14.9122, lng: -23.5133 },
+    coords: [-23.5133, 14.9122],
     description: {
       de: "Dieses wichtige Kulturzentrum in Praia ist nach dem kapverdischen Dichter Jorge Barbosa benannt. Es dient als Veranstaltungsort für Theater und Musik.",
       hu: "Ez a Praiában található fontos kulturális központ Jorge Barbosa zöld-foki költőről kapta a nevét. Színházi és zenei események helyszíne.",
@@ -1335,7 +1359,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-ribeira-de-prata-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Farol de Ribeira de Prata", hu: "Ribeira de Prata világítótorony", ro: "Farul Ribeira de Prata", en: "Ribeira de Prata Lighthouse" },
-    coordinates: { lat: 15.2158, lng: -23.7583 },
+    coords: [-23.7583, 15.2158],
     description: {
       de: "Ein kleiner Leuchtturm an der Nordwestküste der Insel Santiago. Er markiert den Küstenabschnitt nahe der Ortschaft Ribeira da Prata für die Seefahrt.",
       hu: "Egy kis világítótorony Santiago szigetének északnyugati partján. Ribeira da Prata település közelében jelöli a partvonalat a tengerészek számára.",
@@ -1366,7 +1390,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-freedom-fighters-monument-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Freiheitskämpfer", hu: "A haza szabadságharcosainak emlékműve", ro: "Monumentul Luptătorilor pentru Libertate", en: "Freedom Fighters Monument" },
-    coordinates: { lat: 14.9103, lng: -23.5153 },
+    coords: [-23.5153, 14.9103],
     description: {
       de: "Dieses moderne Denkmal in Praia ist jenen gewidmet, die für die Unabhängigkeit der Kapverden kämpften. Es befindet sich in einer Parkanlage nahe dem Zentrum.",
       hu: "Ez a Praiában található modern emlékmű azoknak van szentelve, akik a Zöld-foki-szigetek függetlenségéért harcoltak. A központ közeli parkban található.",
@@ -1397,7 +1421,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-our-lady-of-help-boavista-landmarks-v2",
     type: "church",
     name: { de: "Kapelle Nossa Senhora da Ajuda", hu: "Nossa Senhora da Ajuda kápolna", ro: "Capela Nossa Senhora da Ajuda", en: "Chapel of Our Lady of Help" },
-    coordinates: { lat: 16.1951, lng: -22.9052 },
+    coords: [-22.9052, 16.1951],
     description: {
       de: "Diese kleine, historische Kapelle auf Boa Vista ist eine der ältesten Kirchen der Insel. Sie liegt nördlich von Sal Rei nahe der Küste.",
       hu: "Ez a kis, történelmi kápolna Boa Vista egyik legrégebbi temploma. Sal Reitől északra, a part közelében található.",
@@ -1428,7 +1452,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     id: "capeverde-praia-old-customs-house-landmarks-v2",
     type: "landmark",
     name: { de: "Alte Zollstation von Praia", hu: "Praia régi vámháza", ro: "Vechea Vamă din Praia", en: "Old Customs House of Praia" },
-    coordinates: { lat: 14.9161, lng: -23.5072 },
+    coords: [-23.5072, 14.9161],
     description: {
       de: "Die Antiga Alfândega im Hafenviertel von Praia ist ein Zeugnis der maritimen Handelsgeschichte. Das Gebäude wurde im 19. Jahrhundert errichtet.",
       hu: "A Praia kikötői negyedében található Antiga Alfândega a tengeri kereskedelmi múlt emléke. Az épület a 19. században épült.",

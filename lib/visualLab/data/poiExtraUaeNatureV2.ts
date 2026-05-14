@@ -966,7 +966,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-wadi-shees-nature-v2",
     type: "valley",
     name: { de: "Wadi Shees", hu: "Vádi Sísz", ro: "Wadi Shees", en: "Wadi Shees" },
-    coordinates: { lat: 25.2911, lng: 56.2425 },
+    coords: [56.2425, 25.2911],
     description: {
       de: "Ein natürliches Tal im Hadschar-Gebirge, bekannt für seine Süßwasserquellen und traditionellen Bewässerungssysteme.",
       hu: "A Hádzsar-hegység egyik völgye, amely édesvízi forrásairól és hagyományos öntözőrendszereiről nevezetes.",
@@ -985,7 +985,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-snoopy-island-nature-v2",
     type: "island",
     name: { de: "Snoopy Island", hu: "Snoopy-sziget", ro: "Insula Snoopy", en: "Snoopy Island" },
-    coordinates: { lat: 25.4912, lng: 56.3615 },
+    coords: [56.3615, 25.4912],
     description: {
       de: "Eine kleine felsige Insel vor der Küste von Fujairah, berühmt für ihre marine Artenvielfalt und Schnorchelplätze.",
       hu: "Fujairah partjainál fekvő kis sziklás sziget, amely tengeri élővilágáról és búvárhelyeiről híres.",
@@ -1004,7 +1004,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-al-rafisah-dam-nature-v2",
     type: "lake",
     name: { de: "Al-Rafisah-Stausee", hu: "Al Rafisah-gát", ro: "Barajul Al Rafisah", en: "Al Rafisah Dam" },
-    coordinates: { lat: 25.3501, lng: 56.2825 },
+    coords: [56.2825, 25.3501],
     description: {
       de: "Ein malerischer Stausee inmitten von Bergen, der Lebensraum für Zugvögel bietet und Wassersport ermöglicht.",
       hu: "Hegyekkel körülvett festői víztározó, amely vándormadarak élőhelye és vízi sportok helyszíne.",
@@ -1023,7 +1023,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-tel-moreeb-nature-v2",
     type: "peak",
     name: { de: "Tel Moreeb", hu: "Tel Moreeb", ro: "Tel Moreeb", en: "Tel Moreeb" },
-    coordinates: { lat: 22.9755, lng: 53.7885 },
+    coords: [53.7885, 22.9755],
     description: {
       de: "Eine der höchsten Sanddünen der Welt, gelegen in der Liwa-Oase im Leeren Viertel der Wüste.",
       hu: "A világ egyik legmagasabb homokdűnéje, amely a Liwa-oázis közelében, a Rub-el-Háli sivatagban található.",
@@ -1042,7 +1042,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-bu-tinah-nature-v2",
     type: "wildlife",
     name: { de: "Bu Tinah", hu: "Bu Tinah", ro: "Bu Tinah", en: "Bu Tinah" },
-    coordinates: { lat: 24.6015, lng: 53.0822 },
+    coords: [53.0822, 24.6015],
     description: {
       de: "Ein geschütztes Korallenarchipel und Seegraswiesen, Teil des Marawah Marine Biosphärenreservats.",
       hu: "Védett korallszigetcsoport és tengerifű-mező, a Marawah tengeri bioszféra-rezervátum része.",
@@ -1061,7 +1061,7 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "uae-sir-abu-nuayr-nature-v2",
     type: "island",
     name: { de: "Sir Abu Nu’ayr", hu: "Sir Abu Nu’ayr", ro: "Sir Abu Nu’ayr", en: "Sir Abu Nu’ayr" },
-    coordinates: { lat: 25.2215, lng: 54.2255 },
+    coords: [54.2255, 25.2215],
     description: {
       de: "Eine Salzdom-Insel im Arabischen Golf, die als wichtiger Nistplatz für Echte Karettschildkröten dient.",
       hu: "Sópajzs-alapú sziget a Perzsa-öbölben, amely a közönséges cserepesteknősök fontos fészkelőhelye.",

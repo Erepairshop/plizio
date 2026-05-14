@@ -458,7 +458,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-juliaca-cities-v2",
     type: "city",
     name: { de: "Juliaca", hu: "Juliaca", ro: "Juliaca", en: "Juliaca" },
-    coordinates: { lat: -15.498, lng: -70.13 },
+    coords: [-70.13, -15.498],
     description: {
       de: "Juliaca ist eine wichtige Handelsstadt im südlichen Hochland von Peru. Sie liegt in der Nähe des Titicacasees auf einer Höhe von 3825 Metern.",
       hu: "Juliaca fontos kereskedelmi város Peru déli felföldjén. A Titicaca-tó közelében található, 3825 méteres tengerszint feletti magasságban.",
@@ -477,7 +477,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-pucallpa-cities-v2",
     type: "city",
     name: { de: "Pucallpa", hu: "Pucallpa", ro: "Pucallpa", en: "Pucallpa" },
-    coordinates: { lat: -8.379, lng: -74.553 },
+    coords: [-74.553, -8.379],
     description: {
       de: "Pucallpa liegt am Ufer des Ucayali-Flusses im Amazonasbecken. Die Stadt ist ein wichtiger Umschlagplatz für Holz und landwirtschaftliche Produkte.",
       hu: "Pucallpa az Ucayali folyó partján, az Amazonas-medencében fekszik. A város fontos faipari és mezőgazdasági elosztó központ.",
@@ -496,7 +496,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-tarapoto-cities-v2",
     type: "city",
     name: { de: "Tarapoto", hu: "Tarapoto", ro: "Tarapoto", en: "Tarapoto" },
-    coordinates: { lat: -6.484, lng: -76.368 },
+    coords: [-76.368, -6.484],
     description: {
       de: "Tarapoto ist eine bedeutende Stadt im Departamento San Martín. Sie fungiert als Tor zum peruanischen Regenwald.",
       hu: "Tarapoto fontos város San Martín megyében. A perui esőerdő kapujaként szolgál.",
@@ -515,7 +515,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huaraz-cities-v2",
     type: "city",
     name: { de: "Huaraz", hu: "Huaraz", ro: "Huaraz", en: "Huaraz" },
-    coordinates: { lat: -9.527, lng: -77.527 },
+    coords: [-77.527, -9.527],
     description: {
       de: "Huaraz ist das administrative Zentrum der Region Ancash. Die Stadt liegt im Tal des Río Santa zwischen der Cordillera Blanca und der Cordillera Negra.",
       hu: "Huaraz Ancash régió közigazgatási központja. A Río Santa völgyében, a Cordillera Blanca és a Cordillera Negra hegységek között fekszik.",
@@ -534,7 +534,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huacho-cities-v2",
     type: "city",
     name: { de: "Huacho", hu: "Huacho", ro: "Huacho", en: "Huacho" },
-    coordinates: { lat: -11.109, lng: -77.604 },
+    coords: [-77.604, -11.109],
     description: {
       de: "Huacho ist eine Hafenstadt nördlich von Lima in der Region Lima. Sie ist bekannt für ihre landwirtschaftlichen Produkte und Fischerei.",
       hu: "Huacho egy kikötőváros Lima régióban, Limától északra. Mezőgazdasági termékeiről és halászatáról ismert.",
@@ -553,7 +553,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-chincha-alta-cities-v2",
     type: "city",
     name: { de: "Chincha Alta", hu: "Chincha Alta", ro: "Chincha Alta", en: "Chincha Alta" },
-    coordinates: { lat: -13.435, lng: -76.131 },
+    coords: [-76.131, -13.435],
     description: {
       de: "Chincha Alta liegt in der Region Ica und ist das Zentrum der afro-peruanischen Kultur. Die Region ist bekannt für den Anbau von Baumwolle und Wein.",
       hu: "Chincha Alta Ica régióban található, az afro-perui kultúra központja. A régió gyapot- és szőlőtermesztéséről ismert.",
@@ -572,7 +572,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-cajamarca-cities-v2",
     type: "city",
     name: { de: "Cajamarca", hu: "Cajamarca", ro: "Cajamarca", en: "Cajamarca" },
-    coordinates: { lat: -7.163, lng: -78.514 },
+    coords: [-78.514, -7.163],
     description: {
       de: "Cajamarca liegt in den nördlichen Anden und ist eine geschichtlich bedeutende Stadt. Sie ist für ihre koloniale Architektur und heißen Quellen bekannt.",
       hu: "Cajamarca az északi Andokban fekszik, történelmileg jelentős város. Koloniális építészetéről és hőforrásairól ismert.",
@@ -591,7 +591,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-puno-cities-v2",
     type: "city",
     name: { de: "Puno", hu: "Puno", ro: "Puno", en: "Puno" },
-    coordinates: { lat: -15.84, lng: -70.022 },
+    coords: [-70.022, -15.84],
     description: {
       de: "Puno ist eine Stadt am Ufer des Titicacasees auf über 3800 Metern Höhe. Sie gilt als die Folklore-Hauptstadt von Peru.",
       hu: "Puno a Titicaca-tó partján fekszik, több mint 3800 méteres magasságban. Peru folklór fővárosának tartják.",
@@ -610,7 +610,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-moquegua-cities-v2",
     type: "city",
     name: { de: "Moquegua", hu: "Moquegua", ro: "Moquegua", en: "Moquegua" },
-    coordinates: { lat: -17.198, lng: -70.932 },
+    coords: [-70.932, -17.198],
     description: {
       de: "Moquegua liegt in einem fruchtbaren Tal im Süden Perus. Die Stadt ist für ihren Pisco und Wein bekannt.",
       hu: "Moquegua egy termékeny völgyben fekszik Peru déli részén. A város a pisco-ról és a boráról ismert.",
@@ -629,7 +629,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-ayacucho-cities-v2",
     type: "city",
     name: { de: "Ayacucho", hu: "Ayacucho", ro: "Ayacucho", en: "Ayacucho" },
-    coordinates: { lat: -13.158, lng: -74.223 },
+    coords: [-74.223, -13.158],
     description: {
       de: "Ayacucho ist berühmt für seine vielen Kirchen und handwerkliche Tradition. Die Stadt liegt in der zentralen Hochlandregion Perus.",
       hu: "Ayacucho híres számos templomáról és kézműves hagyományairól. A város Peru központi felföldi régiójában fekszik.",
@@ -648,7 +648,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-tumbes-cities-v2",
     type: "city",
     name: { de: "Tumbes", hu: "Tumbes", ro: "Tumbes", en: "Tumbes" },
-    coordinates: { lat: -3.567, lng: -80.45 },
+    coords: [-80.45, -3.567],
     description: {
       de: "Tumbes liegt im äußersten Norden Perus an der Pazifikküste nahe der Grenze zu Ecuador. Die Stadt ist ein Tor zu den Mangroven-Ökosystemen.",
       hu: "Tumbes Peru legészakibb részén, a Csendes-óceán partján fekszik, közel Ecuador határához. A város kapu a mangrove ökoszisztémák felé.",
@@ -667,7 +667,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-abancay-cities-v2",
     type: "city",
     name: { de: "Abancay", hu: "Abancay", ro: "Abancay", en: "Abancay" },
-    coordinates: { lat: -13.633, lng: -72.883 },
+    coords: [-72.883, -13.633],
     description: {
       de: "Abancay ist die Hauptstadt der Region Apurímac. Sie liegt in einer tiefen Schlucht zwischen hohen Bergketten.",
       hu: "Abancay Apurímac régió fővárosa. Egy mély szurdokban fekszik, magas hegyvonulatok között.",
@@ -686,7 +686,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-ica-cities-v2",
     type: "city",
     name: { de: "Ica", hu: "Ica", ro: "Ica", en: "Ica" },
-    coordinates: { lat: -14.067, lng: -75.733 },
+    coords: [-75.733, -14.067],
     description: {
       de: "Ica liegt in einer Wüstenregion im Süden Perus und ist bekannt für Wein- und Pisco-Produktion. In der Nähe befindet sich die Huacachina-Oase.",
       hu: "Ica sivatagi régióban fekszik Peru déli részén, ismert bor- és pisco-termeléséről. A közelben található a Huacachina oázis.",
@@ -705,7 +705,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huancavelica-cities-v2",
     type: "city",
     name: { de: "Huancavelica", hu: "Huancavelica", ro: "Huancavelica", en: "Huancavelica" },
-    coordinates: { lat: -12.784, lng: -74.972 },
+    coords: [-74.972, -12.784],
     description: {
       de: "Huancavelica ist eine der höchstgelegenen Städte Perus und Hauptstadt der gleichnamigen Region. Sie war historisch bedeutend für den Bergbau.",
       hu: "Huancavelica Peru egyik legmagasabban fekvő városa, az azonos nevű régió fővárosa. Történelmileg jelentős volt a bányászat számára.",
@@ -724,7 +724,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-cerro-de-pasco-cities-v2",
     type: "city",
     name: { de: "Cerro de Pasco", hu: "Cerro de Pasco", ro: "Cerro de Pasco", en: "Cerro de Pasco" },
-    coordinates: { lat: -10.681, lng: -76.257 },
+    coords: [-76.257, -10.681],
     description: {
       de: "Cerro de Pasco ist eine der höchstgelegenen Städte der Welt. Die Wirtschaft der Stadt ist stark vom Tagebau geprägt.",
       hu: "Cerro de Pasco a világ egyik legmagasabban fekvő városa. A város gazdaságát erősen meghatározza a külszíni bányászat.",
@@ -743,7 +743,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-moyobamba-cities-v2",
     type: "city",
     name: { de: "Moyobamba", hu: "Moyobamba", ro: "Moyobamba", en: "Moyobamba" },
-    coordinates: { lat: -6.046, lng: -76.974 },
+    coords: [-76.974, -6.046],
     description: {
       de: "Moyobamba ist die Hauptstadt der Region San Martín. Die Stadt ist bekannt für ihre Orchideen und das feuchte Klima.",
       hu: "Moyobamba San Martín régió fővárosa. A város orchideáiról és párás éghajlatáról ismert.",
@@ -762,7 +762,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-puerto-maldonado-cities-v2",
     type: "city",
     name: { de: "Puerto Maldonado", hu: "Puerto Maldonado", ro: "Puerto Maldonado", en: "Puerto Maldonado" },
-    coordinates: { lat: -12.593, lng: -69.189 },
+    coords: [-69.189, -12.593],
     description: {
       de: "Puerto Maldonado liegt am Zusammenfluss des Madre de Dios und Tambopata Flusses. Es ist ein wichtiger Ausgangspunkt für den Amazonas-Tourismus.",
       hu: "Puerto Maldonado a Madre de Dios és a Tambopata folyók összefolyásánál fekszik. Fontos kiindulópont az amazóniai turizmus számára.",
@@ -781,7 +781,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-chiclayo-v2-cities-v2",
     type: "city",
     name: { de: "Lambayeque", hu: "Lambayeque", ro: "Lambayeque", en: "Lambayeque" },
-    coordinates: { lat: -6.708, lng: -79.911 },
+    coords: [-79.911, -6.708],
     description: {
       de: "Lambayeque ist eine Stadt in der Region Lambayeque. Sie liegt nahe Chiclayo und ist für ihre Museen über die Sican-Kultur bekannt.",
       hu: "Lambayeque egy város Lambayeque régióban. Chiclayo közelében fekszik, és a Sican-kultúráról szóló múzeumairól ismert.",
@@ -800,7 +800,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-barranca-cities-v2",
     type: "city",
     name: { de: "Barranca", hu: "Barranca", ro: "Barranca", en: "Barranca" },
-    coordinates: { lat: -10.75, lng: -77.767 },
+    coords: [-77.767, -10.75],
     description: {
       de: "Barranca ist eine Küstenstadt in der Region Lima. Die Wirtschaft basiert hauptsächlich auf Landwirtschaft und Fischerei.",
       hu: "Barranca egy part menti város Lima régióban. A gazdaság elsősorban a mezőgazdaságra és a halászatra épül.",
@@ -819,7 +819,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-talara-cities-v2",
     type: "city",
     name: { de: "Talara", hu: "Talara", ro: "Talara", en: "Talara" },
-    coordinates: { lat: -4.577, lng: -81.272 },
+    coords: [-81.272, -4.577],
     description: {
       de: "Talara liegt an der nördlichen Pazifikküste in der Region Piura. Die Stadt ist ein wichtiges Zentrum der Erdölindustrie.",
       hu: "Talara a Csendes-óceán északi partján fekszik, Piura régióban. A város az olajipar fontos központja.",
@@ -838,7 +838,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-sullana-cities-v2",
     type: "city",
     name: { de: "Sullana", hu: "Sullana", ro: "Sullana", en: "Sullana" },
-    coordinates: { lat: -4.896, lng: -80.69 },
+    coords: [-80.69, -4.896],
     description: {
       de: "Sullana liegt in der Region Piura im Nordwesten Perus. Sie dient als landwirtschaftliches Handelszentrum für Reis und Baumwolle.",
       hu: "Sullana Piura régióban fekszik, Peru északnyugati részén. Mezőgazdasági kereskedelmi központként szolgál rizs és gyapot számára.",
@@ -857,7 +857,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-taca-v2-cities-v2",
     type: "city",
     name: { de: "Tarma", hu: "Tarma", ro: "Tarma", en: "Tarma" },
-    coordinates: { lat: -11.423, lng: -75.689 },
+    coords: [-75.689, -11.423],
     description: {
       de: "Tarma liegt in den zentralen Anden in der Region Junín. Die Stadt ist für ihr angenehmes Klima und ihre Blumenproduktion bekannt.",
       hu: "Tarma a középső Andokban fekszik, Junín régióban. A város kellemes éghajlatáról és virágtermesztéséről ismert.",
@@ -876,7 +876,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huacho-v2-cities-v2",
     type: "city",
     name: { de: "Huaral", hu: "Huaral", ro: "Huaral", en: "Huaral" },
-    coordinates: { lat: -11.503, lng: -77.213 },
+    coords: [-77.213, -11.503],
     description: {
       de: "Huaral ist eine Stadt nördlich von Lima in der Region Lima. Sie ist ein Zentrum für die Produktion von Mandarinen und Obst.",
       hu: "Huaral egy város Limától északra, Lima régióban. Mandarin- és gyümölcstermesztési központ.",
@@ -895,7 +895,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-santiago-de-chuco-cities-v2",
     type: "city",
     name: { de: "Santiago de Chuco", hu: "Santiago de Chuco", ro: "Santiago de Chuco", en: "Santiago de Chuco" },
-    coordinates: { lat: -8.148, lng: -78.179 },
+    coords: [-78.179, -8.148],
     description: {
       de: "Santiago de Chuco liegt in der Region La Libertad. Die Stadt ist der Geburtsort des berühmten Dichters César Vallejo.",
       hu: "Santiago de Chuco La Libertad régióban fekszik. A város a híres költő, César Vallejo szülőhelye.",
@@ -914,7 +914,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-pisco-cities-v2",
     type: "city",
     name: { de: "Pisco", hu: "Pisco", ro: "Pisco", en: "Pisco" },
-    coordinates: { lat: -13.708, lng: -76.216 },
+    coords: [-76.216, -13.708],
     description: {
       de: "Pisco ist eine Küstenstadt in der Region Ica. Sie ist berühmt als Namensgeber für das Nationalgetränk Pisco.",
       hu: "Pisco egy part menti város Ica régióban. Híres arról, hogy a nemzeti ital, a Pisco névadója.",
@@ -933,7 +933,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-jauja-cities-v2",
     type: "city",
     name: { de: "Jauja", hu: "Jauja", ro: "Jauja", en: "Jauja" },
-    coordinates: { lat: -11.777, lng: -75.498 },
+    coords: [-75.498, -11.777],
     description: {
       de: "Jauja liegt in den zentralen Anden in der Region Junín. Sie diente als die erste Hauptstadt des spanischen Reiches in Peru.",
       hu: "Jauja a középső Andokban fekszik, Junín régióban. A spanyol birodalom első fővárosaként szolgált Peruban.",
@@ -952,7 +952,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-lambayeque-cities-v2",
     type: "city",
     name: { de: "Ferreñafe", hu: "Ferreñafe", ro: "Ferreñafe", en: "Ferreñafe" },
-    coordinates: { lat: -6.638, lng: -79.79 },
+    coords: [-79.79, -6.638],
     description: {
       de: "Ferreñafe liegt in der Region Lambayeque. Die Stadt ist für ihre reiche archäologische Geschichte und Nähe zu Tempeln bekannt.",
       hu: "Ferreñafe Lambayeque régióban fekszik. A város gazdag régészeti történelméről és a templomok közelségéről ismert.",
@@ -971,7 +971,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huancayo-v2-cities-v2",
     type: "city",
     name: { de: "La Oroya", hu: "La Oroya", ro: "La Oroya", en: "La Oroya" },
-    coordinates: { lat: -11.527, lng: -75.908 },
+    coords: [-75.908, -11.527],
     description: {
       de: "La Oroya liegt in der Region Junín und ist ein bedeutendes Zentrum der Metallindustrie in den Anden.",
       hu: "La Oroya Junín régióban fekszik, és a fémipar jelentős központja az Andokban.",
@@ -990,7 +990,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-ascope-cities-v2",
     type: "city",
     name: { de: "Ascope", hu: "Ascope", ro: "Ascope", en: "Ascope" },
-    coordinates: { lat: -7.712, lng: -79.11 },
+    coords: [-79.11, -7.712],
     description: {
       de: "Ascope liegt in der Region La Libertad im Norden Perus. Die Umgebung ist von landwirtschaftlichen Plantagen geprägt.",
       hu: "Ascope La Libertad régióban fekszik, Peru északi részén. A környéket mezőgazdasági ültetvények jellemzik.",
@@ -1009,7 +1009,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-chachapoyas-cities-v2",
     type: "city",
     name: { de: "Chachapoyas", hu: "Chachapoyas", ro: "Chachapoyas", en: "Chachapoyas" },
-    coordinates: { lat: -6.229, lng: -77.871 },
+    coords: [-77.871, -6.229],
     description: {
       de: "Chachapoyas ist die Hauptstadt der Region Amazonas. Die Stadt ist ein Ausgangspunkt für Reisen zu den Chachapoyas-Ruinen.",
       hu: "Chachapoyas Amazonas régió fővárosa. A város kiindulópont a Chachapoyas-romokhoz való utazásokhoz.",
@@ -1028,7 +1028,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-curahuasi-cities-v2",
     type: "city",
     name: { de: "Curahuasi", hu: "Curahuasi", ro: "Curahuasi", en: "Curahuasi" },
-    coordinates: { lat: -13.542, lng: -72.684 },
+    coords: [-72.684, -13.542],
     description: {
       de: "Curahuasi liegt in der Region Apurímac. Die Region ist bekannt für den Anbau von Anis und landwirtschaftliche Vielfalt.",
       hu: "Curahuasi Apurímac régióban fekszik. A régió az ánizstermesztésről és mezőgazdasági sokszínűségéről ismert.",
@@ -1047,7 +1047,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-nazca-v2-cities-v2",
     type: "city",
     name: { de: "Nasca", hu: "Nasca", ro: "Nasca", en: "Nasca" },
-    coordinates: { lat: -14.825, lng: -74.94 },
+    coords: [-74.94, -14.825],
     description: {
       de: "Nasca liegt in der Region Ica. Die Stadt ist weltbekannt als Basis für die Besichtigung der berühmten Nasca-Linien.",
       hu: "Nasca Ica régióban fekszik. A város világszerte ismert a híres Nasca-vonalak megtekintésének bázisaként.",
@@ -1066,7 +1066,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-quillabamba-cities-v2",
     type: "city",
     name: { de: "Quillabamba", hu: "Quillabamba", ro: "Quillabamba", en: "Quillabamba" },
-    coordinates: { lat: -12.868, lng: -72.697 },
+    coords: [-72.697, -12.868],
     description: {
       de: "Quillabamba liegt im Departamento Cusco. Die Stadt ist ein wichtiges Zentrum für den Anbau von Kaffee und exotischen Früchten.",
       hu: "Quillabamba Cusco megyében fekszik. A város a kávé és egzotikus gyümölcsök termesztésének fontos központja.",
@@ -1085,7 +1085,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-urubamba-cities-v2",
     type: "city",
     name: { de: "Urubamba", hu: "Urubamba", ro: "Urubamba", en: "Urubamba" },
-    coordinates: { lat: -13.308, lng: -72.115 },
+    coords: [-72.115, -13.308],
     description: {
       de: "Urubamba liegt im Heiligen Tal der Inkas in der Region Cusco. Es ist ein Zentrum für Landwirtschaft und Tourismus.",
       hu: "Urubamba az Inka Szent Völgyben fekszik, Cusco régióban. A mezőgazdaság és a turizmus központja.",
@@ -1104,7 +1104,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-casma-cities-v2",
     type: "city",
     name: { de: "Casma", hu: "Casma", ro: "Casma", en: "Casma" },
-    coordinates: { lat: -9.479, lng: -78.307 },
+    coords: [-78.307, -9.479],
     description: {
       de: "Casma liegt in der Region Ancash an der Pazifikküste. Die Stadt ist bekannt für ihre Nähe zu alten archäologischen Stätten.",
       hu: "Casma az Ancash régióban fekszik, a Csendes-óceán partján. A város az ősi régészeti lelőhelyek közelségéről ismert.",
@@ -1123,7 +1123,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huamachuco-cities-v2",
     type: "city",
     name: { de: "Huamachuco", hu: "Huamachuco", ro: "Huamachuco", en: "Huamachuco" },
-    coordinates: { lat: -7.817, lng: -78.05 },
+    coords: [-78.05, -7.817],
     description: {
       de: "Huamachuco liegt in der Region La Libertad. Die Stadt liegt in den Anden und ist reich an historischem Erbe.",
       hu: "Huamachuco La Libertad régióban fekszik. A város az Andokban található és gazdag történelmi örökséggel rendelkezik.",
@@ -1142,7 +1142,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-sicuani-cities-v2",
     type: "city",
     name: { de: "Sicuani", hu: "Sicuani", ro: "Sicuani", en: "Sicuani" },
-    coordinates: { lat: -14.272, lng: -71.226 },
+    coords: [-71.226, -14.272],
     description: {
       de: "Sicuani liegt in der Region Cusco im südlichen Hochland. Die Stadt ist ein wichtiger Handelsknotenpunkt für die umliegenden Andengemeinden.",
       hu: "Sicuani Cusco régióban fekszik, a déli felföldön. A város fontos kereskedelmi csomópont a környező andoki közösségek számára.",
@@ -1161,7 +1161,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huamanga-cities-v2",
     type: "city",
     name: { de: "Huanta", hu: "Huanta", ro: "Huanta", en: "Huanta" },
-    coordinates: { lat: -12.934, lng: -74.248 },
+    coords: [-74.248, -12.934],
     description: {
       de: "Huanta liegt in der Region Ayacucho. Sie ist bekannt für ihre fruchtbaren Täler und die Produktion von Honig und Früchten.",
       hu: "Huanta Ayacucho régióban fekszik. Termékeny völgyeiről, valamint méz- és gyümölcstermeléséről ismert.",
@@ -1180,7 +1180,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-andahuaylas-cities-v2",
     type: "city",
     name: { de: "Andahuaylas", hu: "Andahuaylas", ro: "Andahuaylas", en: "Andahuaylas" },
-    coordinates: { lat: -13.655, lng: -73.383 },
+    coords: [-73.383, -13.655],
     description: {
       de: "Andahuaylas liegt in der Region Apurímac. Die Stadt ist bekannt für ihre kulturelle Bedeutung und die Nähe zu archäologischen Stätten.",
       hu: "Andahuaylas Apurímac régióban fekszik. A város kulturális jelentőségéről és a régészeti lelőhelyek közelségéről ismert.",
@@ -1199,7 +1199,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-viru-cities-v2",
     type: "city",
     name: { de: "Virú", hu: "Virú", ro: "Virú", en: "Virú" },
-    coordinates: { lat: -8.423, lng: -78.784 },
+    coords: [-78.784, -8.423],
     description: {
       de: "Virú liegt in der Region La Libertad. Die Region ist ein bedeutendes Zentrum für die industrielle Landwirtschaft.",
       hu: "Virú La Libertad régióban fekszik. A régió az ipari mezőgazdaság fontos központja.",
@@ -1218,7 +1218,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-checras-cities-v2",
     type: "city",
     name: { de: "Sayán", hu: "Sayán", ro: "Sayán", en: "Sayán" },
-    coordinates: { lat: -11.134, lng: -77.42 },
+    coords: [-77.42, -11.134],
     description: {
       de: "Sayán liegt in der Region Lima. Die Gegend ist für ihre fruchtbaren Täler und die Produktion von Zuckerrohr bekannt.",
       hu: "Sayán Lima régióban fekszik. A környék a termékeny völgyeiről és a cukornádtermesztéséről ismert.",
@@ -1237,7 +1237,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-chanchamayo-cities-v2",
     type: "city",
     name: { de: "La Merced", hu: "La Merced", ro: "La Merced", en: "La Merced" },
-    coordinates: { lat: -11.056, lng: -75.334 },
+    coords: [-75.334, -11.056],
     description: {
       de: "La Merced liegt in der Region Junín am Rande des Dschungels. Die Stadt ist ein Handelszentrum für Kaffee und Zitrusfrüchte.",
       hu: "La Merced Junín régióban fekszik, a dzsungel szélén. A város a kávé és a citrusfélék kereskedelmi központja.",
@@ -1256,7 +1256,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-mollendo-cities-v2",
     type: "city",
     name: { de: "Mollendo", hu: "Mollendo", ro: "Mollendo", en: "Mollendo" },
-    coordinates: { lat: -17.025, lng: -72.016 },
+    coords: [-72.016, -17.025],
     description: {
       de: "Mollendo ist eine Hafenstadt in der Region Arequipa an der Pazifikküste. Sie ist bekannt für ihre Strände und Fischerei.",
       hu: "Mollendo egy kikötőváros Arequipa régióban, a Csendes-óceán partján. Strandjairól és halászatáról ismert.",
@@ -1275,7 +1275,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-yungay-cities-v2",
     type: "city",
     name: { de: "Yungay", hu: "Yungay", ro: "Yungay", en: "Yungay" },
-    coordinates: { lat: -9.138, lng: -77.747 },
+    coords: [-77.747, -9.138],
     description: {
       de: "Yungay liegt in der Region Ancash im Tal des Río Santa. Die Stadt wurde nach einem verheerenden Erdbeben 1970 neu aufgebaut.",
       hu: "Yungay Ancash régióban fekszik, a Río Santa völgyében. A város egy 1970-es pusztító földrengés után épült újjá.",
@@ -1294,7 +1294,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-chanchay-cities-v2",
     type: "city",
     name: { de: "Chancay", hu: "Chancay", ro: "Chancay", en: "Chancay" },
-    coordinates: { lat: -11.565, lng: -77.27 },
+    coords: [-77.27, -11.565],
     description: {
       de: "Chancay liegt nördlich von Lima an der Pazifikküste. Die Stadt ist bekannt für ihre Geschichte und den neuen Megahafen.",
       hu: "Chancay Limától északra fekszik, a Csendes-óceán partján. A város történelméről és az új megakikötőről ismert.",
@@ -1313,7 +1313,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-huaraz-v2-cities-v2",
     type: "city",
     name: { de: "Carhuaz", hu: "Carhuaz", ro: "Carhuaz", en: "Carhuaz" },
-    coordinates: { lat: -9.277, lng: -77.643 },
+    coords: [-77.643, -9.277],
     description: {
       de: "Carhuaz liegt in der Region Ancash im Tal des Río Santa. Die Stadt ist für ihre traditionelle Küche und Textilien bekannt.",
       hu: "Carhuaz Ancash régióban fekszik, a Río Santa völgyében. A város hagyományos konyhájáról és textíliáiról ismert.",
@@ -1332,7 +1332,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-jaen-v2-cities-v2",
     type: "city",
     name: { de: "Bagua", hu: "Bagua", ro: "Bagua", en: "Bagua" },
-    coordinates: { lat: -5.647, lng: -78.528 },
+    coords: [-78.528, -5.647],
     description: {
       de: "Bagua liegt in der Region Amazonas. Die Stadt ist ein wichtiges Handelszentrum zwischen dem Hochland und dem Regenwald.",
       hu: "Bagua Amazonas régióban fekszik. A város fontos kereskedelmi csomópont a felföld és az esőerdő között.",
@@ -1351,7 +1351,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-ilave-cities-v2",
     type: "city",
     name: { de: "Ilave", hu: "Ilave", ro: "Ilave", en: "Ilave" },
-    coordinates: { lat: -16.084, lng: -69.645 },
+    coords: [-69.645, -16.084],
     description: {
       de: "Ilave liegt in der Region Puno am Titicacasee. Die Stadt ist für ihre Märkte und die indigene Kultur bekannt.",
       hu: "Ilave Puno régióban fekszik, a Titicaca-tónál. A város piacairól és az őslakos kultúráról ismert.",
@@ -1370,7 +1370,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
     id: "peru-azangaro-cities-v2",
     type: "city",
     name: { de: "Azángaro", hu: "Azángaro", ro: "Azángaro", en: "Azángaro" },
-    coordinates: { lat: -14.914, lng: -70.198 },
+    coords: [-70.198, -14.914],
     description: {
       de: "Azángaro liegt in der Region Puno. Die Stadt hat eine lange Geschichte und ist ein Zentrum für die Viehzucht in der Region.",
       hu: "Azángaro Puno régióban fekszik. A város hosszú történelemmel rendelkezik és az állattenyésztés központja a régióban.",

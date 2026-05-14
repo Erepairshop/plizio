@@ -546,7 +546,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-mleiha-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Mleiha", hu: "Mleiha régészeti lelőhely", ro: "Situl arheologic Mleiha", en: "Mleiha Archaeological Site" },
-    coordinates: { lat: 25.1167, lng: 55.85 },
+    coords: [55.85, 25.1167],
     description: {
       de: "Diese bedeutende Fundstätte zeigt Siedlungsspuren von der Altsteinzeit bis in die vorislamische Zeit.",
       hu: "Ez a jelentős lelőhely a paleolitikumtól a pre-iszlám korig mutat be településnyomokat.",
@@ -565,7 +565,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-hili-archaeological-park-history-v2",
     type: "ruins",
     name: { de: "Archäologischer Park Hili", hu: "Hili Régészeti Park", ro: "Parcul Arheologic Hili", en: "Hili Archaeological Park" },
-    coordinates: { lat: 24.2922, lng: 55.7914 },
+    coords: [55.7914, 24.2922],
     description: {
       de: "Der Park umfasst die größten bronzezeitlichen Ausgrabungen der Vereinigten Arabischen Emirate.",
       hu: "A park az Egyesült Arab Emírségek legnagyobb bronzkori ásatásait foglalja magában.",
@@ -584,7 +584,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-saruq-al-hadid-history-v2",
     type: "ruins",
     name: { de: "Saruq Al-Hadid Fundstätte", hu: "Saruq Al-Hadid régészeti helyszín", ro: "Situl Saruq Al-Hadid", en: "Saruq Al-Hadid Site" },
-    coordinates: { lat: 24.83, lng: 55.08 },
+    coords: [55.08, 24.83],
     description: {
       de: "Dieses antike Zentrum der Metallverarbeitung liegt tief in der Wüste südlich von Dubai.",
       hu: "Ez az ősi fémmegmunkáló központ mélyen a sivatagban található, Dubaitól délre.",
@@ -603,7 +603,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-badiya-mosque-history-v2",
     type: "church",
     name: { de: "Al-Badiya Moschee", hu: "Al-Badiya mecset", ro: "Moscheea Al-Badiya", en: "Al Badiya Mosque" },
-    coordinates: { lat: 25.4385, lng: 56.3538 },
+    coords: [56.3538, 25.4385],
     description: {
       de: "Dies ist die älteste noch genutzte Moschee in den Vereinigten Arabischen Emiraten.",
       hu: "Ez az Egyesült Arab Emírségek legrégebbi, ma is használatban lévő mecsete.",
@@ -622,7 +622,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-fujairah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Fujairah", hu: "Fujairah erőd", ro: "Fortăreața Fujairah", en: "Fujairah Fort" },
-    coordinates: { lat: 25.1388, lng: 56.3361 },
+    coords: [56.3361, 25.1388],
     description: {
       de: "Die auf einem Hügel gelegene Festung war über Jahrhunderte das Verteidigungszentrum der Stadt.",
       hu: "A dombtetőn álló erőd évszázadokon át a város védelmi központjaként szolgált.",
@@ -641,7 +641,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-bithnah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Bithnah", hu: "Al-Bithnah erőd", ro: "Fortul Al-Bithnah", en: "Al Bithnah Fort" },
-    coordinates: { lat: 25.1878, lng: 56.2361 },
+    coords: [56.2361, 25.1878],
     description: {
       de: "Diese Festung bewachte historisch den strategischen Durchgang durch das Wadi Ham.",
       hu: "Ez az erőd történelmileg a Wadi Ham stratégiai jelentőségű hágóját őrizte.",
@@ -660,7 +660,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-hayl-castle-history-v2",
     type: "castle",
     name: { de: "Schloss Al-Hayl", hu: "Al-Hayl kastély", ro: "Castelul Al-Hayl", en: "Al Hayl Castle" },
-    coordinates: { lat: 25.0833, lng: 56.2239 },
+    coords: [56.2239, 25.0833],
     description: {
       de: "Das Schloss Al-Hayl war einst die Residenz der Herrscherfamilie von Fujairah im Wadi Hayl.",
       hu: "Az Al-Hayl kastély egykor a fujairahi uralkodócsalád rezidenciája volt a Wadi Haylban.",
@@ -679,7 +679,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-qasr-al-muwaiji-history-v2",
     type: "palace",
     name: { de: "Qasr Al Muwaiji", hu: "Qasr Al Muwaiji", ro: "Qasr Al Muwaiji", en: "Qasr Al Muwaiji" },
-    coordinates: { lat: 24.2189, lng: 55.7364 },
+    coords: [55.7364, 24.2189],
     description: {
       de: "Diese historische Festung ist der Geburtsort von Scheich Khalifa bin Zayed Al Nahyan.",
       hu: "Ez a történelmi erőd Khalifa bin Zayed Al Nahyan sejk születési helye.",
@@ -698,7 +698,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-mezyad-fort-history-v2",
     type: "castle",
     name: { de: "Festung Mezyad", hu: "Mezyad erőd", ro: "Fortul Mezyad", en: "Mezyad Fort" },
-    coordinates: { lat: 24.185, lng: 55.842 },
+    coords: [55.842, 24.185],
     description: {
       de: "Eine große Festungsanlage am Fuße des Jebel Hafeet, die einst die Grenze bewachte.",
       hu: "Hatalmas erődrendszer a Jebel Hafeet lábánál, amely egykor a határt őrizte.",
@@ -717,7 +717,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-wahat-al-karama-history-v2",
     type: "monument",
     name: { de: "Wahat Al Karama", hu: "Wahat Al Karama", ro: "Wahat Al Karama", en: "Wahat Al Karama" },
-    coordinates: { lat: 24.4111, lng: 54.4744 },
+    coords: [54.4744, 24.4111],
     description: {
       de: "Dieses Denkmal wurde zu Ehren der gefallenen Soldaten der Vereinigten Arabischen Emirate errichtet.",
       hu: "Ezt az emlékművet az Egyesült Arab Emírségek elesett katonáinak tiszteletére emelték.",
@@ -736,7 +736,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-sir-bani-yas-monastery-history-v2",
     type: "ruins",
     name: { de: "Kloster von Sir Bani Yas", hu: "Sir Bani Yas keresztény kolostor", ro: "Mănăstirea de pe Sir Bani Yas", en: "Sir Bani Yas Christian Monastery" },
-    coordinates: { lat: 24.3167, lng: 52.6083 },
+    coords: [52.6083, 24.3167],
     description: {
       de: "Diese Ruinen sind das einzige bekannte antike christliche Kloster in den Emiraten.",
       hu: "Ezek a romok az egyetlen ismert ősi keresztény kolostor az Emírségekben.",
@@ -755,7 +755,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-ed-dur-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Ed-Dur", hu: "Ed-Dur régészeti helyszín", ro: "Situl arheologic Ed-Dur", en: "Ed-Dur Archaeological Site" },
-    coordinates: { lat: 25.51, lng: 55.62 },
+    coords: [55.62, 25.51],
     description: {
       de: "Ed-Dur war einer der wichtigsten Handelshäfen am Persischen Golf während der ersten Jahrhunderte n. Chr.",
       hu: "Ed-Dur a Perzsa-öböl egyik legfontosabb kereskedelmi kikötője volt az i. sz. első századokban.",
@@ -774,7 +774,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-muweilah-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Muweilah", hu: "Muweilah régészeti lelőhely", ro: "Situl arheologic Muweilah", en: "Muweilah Archaeological Site" },
-    coordinates: { lat: 25.328, lng: 55.516 },
+    coords: [55.516, 25.328],
     description: {
       de: "Diese Siedlung aus der Eisenzeit ist bekannt für ihre frühen Beweise der Domestizierung von Kamelen.",
       hu: "Ez a vaskori település a tevék háziasításának korai bizonyítékairól ismert.",
@@ -793,7 +793,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-shindagha-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Al Shindagha", hu: "Al Shindagha történelmi negyed", ro: "Cartierul istoric Al Shindagha", en: "Al Shindagha Historical District" },
-    coordinates: { lat: 25.267, lng: 55.288 },
+    coords: [55.288, 25.267],
     description: {
       de: "Al Shindagha ist das älteste Viertel Dubais und war einst das Zentrum der herrschenden Familie.",
       hu: "Al Shindagha Dubai legősibb negyede, és egykor az uralkodócsalád központja volt.",
@@ -812,7 +812,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-murabaa-watchtower-history-v2",
     type: "tower",
     name: { de: "Al Muraba'a Wachturm", hu: "Al Muraba'a őrtorony", ro: "Turnul de veghe Al Muraba'a", en: "Al Muraba'a Watchtower" },
-    coordinates: { lat: 24.212, lng: 55.766 },
+    coords: [55.766, 24.212],
     description: {
       de: "Dieser ikonische Wachturm im Zentrum von Al Ain ist ein Wahrzeichen der Stadt.",
       hu: "Ez az ikonikus őrtorony Al Ain központjában a város egyik jelképe.",
@@ -831,7 +831,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-kalba-fort-history-v2",
     type: "castle",
     name: { de: "Festung Kalba", hu: "Kalba erőd", ro: "Fortul Kalba", en: "Kalba Fort" },
-    coordinates: { lat: 25.044, lng: 56.355 },
+    coords: [56.355, 25.044],
     description: {
       de: "Diese Festung an der Ostküste diente dem Schutz des Hafens und der Stadt Kalba.",
       hu: "Ez a keleti parti erőd Kalba kikötőjének és városának védelmét szolgálta.",
@@ -850,7 +850,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-sharjah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Sharjah (Al Hisn)", hu: "Sharjah erőd (Al Hisn)", ro: "Fortul Sharjah (Al Hisn)", en: "Sharjah Fort (Al Hisn)" },
-    coordinates: { lat: 25.356, lng: 55.385 },
+    coords: [55.385, 25.356],
     description: {
       de: "Das Al Hisn war die Residenz der Al Qasimi Herrscherfamilie und das politische Zentrum von Sharjah.",
       hu: "Az Al Hisn az Al Qasimi uralkodócsalád rezidenciája és Sharjah politikai központja volt.",
@@ -869,7 +869,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-maqta-fort-history-v2",
     type: "castle",
     name: { de: "Al Maqta Fort", hu: "Al Maqta erőd", ro: "Fortul Al Maqta", en: "Al Maqta Fort" },
-    coordinates: { lat: 24.414, lng: 54.496 },
+    coords: [54.496, 24.414],
     description: {
       de: "Dieser kleine Wachturm schützte historisch den Zugang zur Insel Abu Dhabi über die Maqta-Brücke.",
       hu: "Ez a kis őrtorony történelmileg Abu Dhabi szigetének bejáratát védte a Maqta-gázlónál.",
@@ -888,7 +888,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-jumeirah-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Jumeirah", hu: "Jumeirah régészeti lelőhely", ro: "Situl arheologic Jumeirah", en: "Jumeirah Archaeological Site" },
-    coordinates: { lat: 25.216, lng: 55.248 },
+    coords: [55.248, 25.216],
     description: {
       de: "Diese Stätte zeigt die Überreste einer wichtigen Siedlung aus der Abbasiden-Zeit.",
       hu: "Ez a lelőhely egy fontos abbászida-kori település maradványait mutatja be.",
@@ -907,7 +907,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-kush-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Kush Archäologische Stätte", hu: "Kush régészeti helyszín", ro: "Situl arheologic Kush", en: "Kush Archaeological Site" },
-    coordinates: { lat: 25.864, lng: 56.046 },
+    coords: [56.046, 25.864],
     description: {
       de: "Kush war eine bedeutende mittelalterliche Hafenstadt in der Region Ras Al Khaimah.",
       hu: "Kush jelentős középkori kikötőváros volt Ras Al Khaimah régiójában.",
@@ -926,7 +926,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-shimal-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Shimal", hu: "Shimal régészeti lelőhely", ro: "Situl arheologic Shimal", en: "Shimal Archaeological Site" },
-    coordinates: { lat: 25.833, lng: 56.033 },
+    coords: [56.033, 25.833],
     description: {
       de: "Shimal beherbergt hunderte von vorislamischen Gräbern und die Überreste einer Bergfestung.",
       hu: "Shimal több száz pre-iszlám sírnak és egy hegyi erőd maradványainak ad otthont.",
@@ -945,7 +945,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-ghalilah-tomb-history-v2",
     type: "ruins",
     name: { de: "Grab von Ghalilah", hu: "Ghalilah sírbolt", ro: "Mormântul din Ghalilah", en: "Ghalilah Tomb" },
-    coordinates: { lat: 25.922, lng: 56.088 },
+    coords: [56.088, 25.922],
     description: {
       de: "Ein monumentales Gemeinschaftsgrab aus der Bronzezeit im Wadi Ghalilah.",
       hu: "Egy monumentális bronzkori közösségi sír a Wadi Ghalilah területén.",
@@ -964,7 +964,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-khan-watchtower-history-v2",
     type: "tower",
     name: { de: "Al-Khan Wachturm", hu: "Al-Khan őrtorony", ro: "Turnul de veghe Al-Khan", en: "Al-Khan Watchtower" },
-    coordinates: { lat: 25.338, lng: 55.365 },
+    coords: [55.365, 25.338],
     description: {
       de: "Dieser historische Turm bewachte früher das Fischerdorf Al Khan in Sharjah.",
       hu: "Ez a történelmi torony korábban Al Khan halászfaluját őrizte Sharjah-ban.",
@@ -983,7 +983,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-thuqaibah-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Thuqaibah", hu: "Thuqaibah régészeti lelőhely", ro: "Situl arheologic Thuqaibah", en: "Thuqaibah Archaeological Site" },
-    coordinates: { lat: 25.07, lng: 55.88 },
+    coords: [55.88, 25.07],
     description: {
       de: "Eine gut erhaltene Siedlung aus der Eisenzeit in der Nähe von Al Madam.",
       hu: "Egy jól megőrzött vaskori település Al Madam közelében.",
@@ -1002,7 +1002,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-marawah-island-archaeological-history-v2",
     type: "ruins",
     name: { de: "Archäologie der Insel Marawah", hu: "Marawah-sziget régészeti helyszíne", ro: "Arheologia insulei Marawah", en: "Marawah Island Archaeological Site" },
-    coordinates: { lat: 24.28, lng: 53.25 },
+    coords: [53.25, 24.28],
     description: {
       de: "Auf Marawah wurde das älteste bekannte Dorf der VAE aus der Jungsteinzeit entdeckt.",
       hu: "Marawah szigetén fedezték fel az Emírségek legrégebbi ismert neolitikus faluját.",
@@ -1021,7 +1021,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-hili-8-site-history-v2",
     type: "ruins",
     name: { de: "Hili 8 Fundstätte", hu: "Hili 8 régészeti lelőhely", ro: "Situl Hili 8", en: "Hili 8 Site" },
-    coordinates: { lat: 24.288, lng: 55.788 },
+    coords: [55.788, 24.288],
     description: {
       de: "Hili 8 ist eine der wichtigsten bronzezeitlichen Siedlungen in Al Ain.",
       hu: "A Hili 8 az egyik legfontosabb bronzkori település Al Ain városában.",
@@ -1040,7 +1040,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-seih-al-harf-tombs-history-v2",
     type: "ruins",
     name: { de: "Gräber von Seih Al Harf", hu: "Seih Al Harf sírok", ro: "Mormintele din Seih Al Harf", en: "Seih Al Harf Tombs" },
-    coordinates: { lat: 25.75, lng: 55.98 },
+    coords: [55.98, 25.75],
     description: {
       de: "Ein umfangreiches Gräberfeld aus der Bronzezeit in Ras Al Khaimah.",
       hu: "Kiterjedt bronzkori sírmező Ras Al Khaimah emírségben.",
@@ -1059,7 +1059,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-masafi-fort-history-v2",
     type: "castle",
     name: { de: "Festung Masafi", hu: "Masafi erőd", ro: "Fortul Masafi", en: "Masafi Fort" },
-    coordinates: { lat: 25.305, lng: 56.166 },
+    coords: [56.166, 25.305],
     description: {
       de: "Diese Festung im Hadschar-Gebirge bewachte die wichtige Kreuzung der Wadis.",
       hu: "Ez a Hadsar-hegységben található erőd a fontos völgykereszteződést őrizte.",
@@ -1078,7 +1078,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-aqah-fort-history-v2",
     type: "tower",
     name: { de: "Al-Aqah Wachturm", hu: "Al-Aqah őrtorony", ro: "Turnul de veghe Al-Aqah", en: "Al Aqah Watchtower" },
-    coordinates: { lat: 25.503, lng: 56.358 },
+    coords: [56.358, 25.503],
     description: {
       de: "Ein einsamer Wachturm, der die Bucht von Al Aqah an der Ostküste überwachte.",
       hu: "Egy magányos őrtorony, amely a keleti parti Al Aqah-öblöt felügyelte.",
@@ -1097,7 +1097,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-khor-fakkan-fort-history-v2",
     type: "castle",
     name: { de: "Khor Fakkan Festung (Hisn)", hu: "Khor Fakkan erőd (Hisn)", ro: "Fortul Khor Fakkan (Hisn)", en: "Khor Fakkan Fort (Hisn)" },
-    coordinates: { lat: 25.344, lng: 56.362 },
+    coords: [56.362, 25.344],
     description: {
       de: "Dieses restaurierte Fort beherbergt ein Museum zur Geschichte der Hafenstadt Khor Fakkan.",
       hu: "Ez a felújított erőd Khor Fakkan kikötőváros történelmét bemutató múzeumnak ad otthont.",
@@ -1116,7 +1116,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-hamriyah-tower-history-v2",
     type: "tower",
     name: { de: "Wachturm von Al Hamriyah", hu: "Al Hamriyah őrtorony", ro: "Turnul din Al Hamriyah", en: "Al Hamriyah Tower" },
-    coordinates: { lat: 25.475, lng: 55.485 },
+    coords: [55.485, 25.475],
     description: {
       de: "Ein markanter runder Turm, der früher den Hafen von Al Hamriyah schützte.",
       hu: "Egy jellegzetes kerek torony, amely korábban Al Hamriyah kikötőjét védte.",
@@ -1135,7 +1135,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-thabaniah-fort-history-v2",
     type: "castle",
     name: { de: "Al Thabaniah Fort", hu: "Al Thabaniah erőd", ro: "Fortul Al Thabaniah", en: "Al Thabaniah Fort" },
-    coordinates: { lat: 24.205, lng: 55.705 },
+    coords: [55.705, 24.205],
     description: {
       de: "Ein historisches Verteidigungsgebäude am Rande der Al Ain Oasen.",
       hu: "Történelmi védelmi építmény az Al Ain oázisok szélén.",
@@ -1154,7 +1154,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-qutuf-fort-history-v2",
     type: "castle",
     name: { de: "Festung Qutuf", hu: "Qutuf erőd", ro: "Fortul Qutuf", en: "Qutuf Fort" },
-    coordinates: { lat: 23.132, lng: 53.791 },
+    coords: [53.791, 23.132],
     description: {
       de: "Eines der historischen Forts in der Liwa-Oase, das zum Schutz der Siedlung diente.",
       hu: "A Liwa-oázis egyik történelmi erődje, amely a település védelmét szolgálta.",
@@ -1173,7 +1173,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-dhafeer-fort-history-v2",
     type: "castle",
     name: { de: "Festung Dhafeer", hu: "Dhafeer erőd", ro: "Fortul Dhafeer", en: "Dhafeer Fort" },
-    coordinates: { lat: 23.148, lng: 53.742 },
+    coords: [53.742, 23.148],
     description: {
       de: "Ein kleines, aber strategisch wichtiges Fort in der Liwa-Oase.",
       hu: "Egy kicsi, de stratégiailag fontos erőd a Liwa-oázisban.",
@@ -1192,7 +1192,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-jabbana-fort-history-v2",
     type: "castle",
     name: { de: "Festung Jabbana", hu: "Jabbana erőd", ro: "Fortul Jabbana", en: "Jabbana Fort" },
-    coordinates: { lat: 23.155, lng: 54.102 },
+    coords: [54.102, 23.155],
     description: {
       de: "Die Festung Jabbana schützte eine der östlichsten Siedlungen der Liwa-Oase.",
       hu: "A Jabbana erőd a Liwa-oázis egyik legkeletibb települését védte.",
@@ -1211,7 +1211,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-maria-al-gharbiya-fort-history-v2",
     type: "castle",
     name: { de: "Maria al Gharbiya Fort", hu: "Maria al Gharbiya erőd", ro: "Fortul Maria al Gharbiya", en: "Maria al Gharbiya Fort" },
-    coordinates: { lat: 23.141, lng: 53.702 },
+    coords: [53.702, 23.141],
     description: {
       de: "Ein historisches Fort, das tief in der Wüstenregion Al Dhafra liegt.",
       hu: "Történelmi erőd, amely mélyen az Al Dhafra sivatagi régióban található.",
@@ -1230,7 +1230,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-heritage-village-abu-dhabi-history-v2",
     type: "museum",
     name: { de: "Heritage Village Abu Dhabi", hu: "Heritage Village Abu Dhabi", ro: "Heritage Village Abu Dhabi", en: "Heritage Village Abu Dhabi" },
-    coordinates: { lat: 24.477, lng: 54.331 },
+    coords: [54.331, 24.477],
     description: {
       de: "Eine Rekonstruktion eines traditionellen Dorfes, das das Leben in den Emiraten vor der Moderne zeigt.",
       hu: "Egy hagyományos falu rekonstrukciója, amely a modern kor előtti emírségi életet mutatja be.",
@@ -1249,7 +1249,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-heritage-village-dubai-history-v2",
     type: "museum",
     name: { de: "Heritage Village Dubai", hu: "Heritage Village Dubai", ro: "Heritage Village Dubai", en: "Heritage Village Dubai" },
-    coordinates: { lat: 25.269, lng: 55.289 },
+    coords: [55.289, 25.269],
     description: {
       de: "Dieses Dorf in Dubai widmet sich der Bewahrung des maritimen und bergigen Erbes der Region.",
       hu: "Ez a dubai falu a régió tengeri és hegyvidéki örökségének megőrzésére hivatott.",
@@ -1268,7 +1268,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-jarah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Jarah", hu: "Al Jarah erőd", ro: "Fortul Al Jarah", en: "Al Jarah Fort" },
-    coordinates: { lat: 25.418, lng: 55.442 },
+    coords: [55.442, 25.418],
     description: {
       de: "Ein kleines Verteidigungswerk in Ajman, das der lokalen Überwachung diente.",
       hu: "Kisebb védelmi építmény Ajmanban, amely a helyi felügyeletet szolgálta.",
@@ -1287,7 +1287,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-bait-al-serkal-history-v2",
     type: "landmark",
     name: { de: "Bait Al Serkal", hu: "Bait Al Serkal", ro: "Bait Al Serkal", en: "Bait Al Serkal" },
-    coordinates: { lat: 25.358, lng: 55.386 },
+    coords: [55.386, 25.358],
     description: {
       de: "Bait Al Serkal ist ein prächtiges historisches Haus in Sharjah, das heute als Kunstzentrum dient.",
       hu: "A Bait Al Serkal egy pompás történelmi ház Sharjah-ban, amely ma művészeti központként működik.",
@@ -1306,7 +1306,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-eslah-school-history-v2",
     type: "museum",
     name: { de: "Al Eslah Schule Museum", hu: "Al Eslah Iskola Múzeum", ro: "Muzeul Școlii Al Eslah", en: "Al Eslah School Museum" },
-    coordinates: { lat: 25.357, lng: 55.387 },
+    coords: [55.387, 25.357],
     description: {
       de: "Die Al Eslah Schule war die erste formelle Bildungseinrichtung im Emirat Sharjah.",
       hu: "Az Al Eslah iskola volt Sharjah emírség első hivatalos oktatási intézménye.",
@@ -1325,7 +1325,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-etihad-museum-history-v2",
     type: "museum",
     name: { de: "Etihad Museum", hu: "Etihad Múzeum", ro: "Muzeul Etihad", en: "Etihad Museum" },
-    coordinates: { lat: 25.241, lng: 55.268 },
+    coords: [55.268, 25.241],
     description: {
       de: "Dieses Museum markiert den Ort, an dem 1971 die Verfassung der Vereinigten Arabischen Emirate unterzeichnet wurde.",
       hu: "Ez a múzeum azt a helyet jelöli, ahol 1971-ben aláírták az Egyesült Arab Emírségek alkotmányát.",
@@ -1344,7 +1344,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-majlis-ghorfat-umm-al-sheif-history-v2",
     type: "palace",
     name: { de: "Majlis Ghorfat Umm Al Sheif", hu: "Majlis Ghorfat Umm Al Sheif", ro: "Majlis Ghorfat Umm Al Sheif", en: "Majlis Ghorfat Umm Al Sheif" },
-    coordinates: { lat: 25.195, lng: 55.239 },
+    coords: [55.239, 25.195],
     description: {
       de: "Dieses Gebäude war das Sommerhaus von Scheich Rashid bin Saeed Al Maktoum in Jumeirah.",
       hu: "Ez az épület Rashid bin Saeed Al Maktoum sejk nyári rezidenciája volt Jumeirah-ban.",
@@ -1363,7 +1363,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-bin-huda-house-history-v2",
     type: "landmark",
     name: { de: "Bin Huda Haus", hu: "Bin Huda ház", ro: "Casa Bin Huda", en: "Bin Huda House" },
-    coordinates: { lat: 25.359, lng: 55.388 },
+    coords: [55.388, 25.359],
     description: {
       de: "Ein hervorragendes Beispiel für die traditionelle Wohnarchitektur in Sharjah.",
       hu: "A hagyományos sharjah-i lakóépítészet kiváló példája.",
@@ -1382,7 +1382,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-bidya-watchtower-history-v2",
     type: "tower",
     name: { de: "Al-Bidya Wachtürme", hu: "Al-Bidya őrtorony", ro: "Turnurile de veghe Al-Bidya", en: "Al Bidya Watchtower" },
-    coordinates: { lat: 25.439, lng: 56.354 },
+    coords: [56.354, 25.439],
     description: {
       de: "Zwei historische Wachtürme, die über der Al-Badiya-Moschee auf den Hügeln thronen.",
       hu: "Két történelmi őrtorony, amely az Al-Badiya mecset feletti dombokon trónol.",
@@ -1401,7 +1401,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-dibba-fort-history-v2",
     type: "castle",
     name: { de: "Festung Dibba", hu: "Dibba erőd", ro: "Fortul Dibba", en: "Dibba Fort" },
-    coordinates: { lat: 25.594, lng: 56.272 },
+    coords: [56.272, 25.594],
     description: {
       de: "Dibba war ein historisch umkämpftes Gebiet zwischen verschiedenen Mächten und besitzt eine alte Festung.",
       hu: "Dibba történelmileg vitatott terület volt a különböző hatalmak között, és egy régi erőddel rendelkezik.",
@@ -1420,7 +1420,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-mamzar-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Al Mamzar", hu: "Al Mamzar régészeti lelőhely", ro: "Situl arheologic Al Mamzar", en: "Al Mamzar Archaeological Site" },
-    coordinates: { lat: 25.302, lng: 55.355 },
+    coords: [55.355, 25.302],
     description: {
       de: "Diese Stätte zeigt Besiedlungsspuren aus der Bronzezeit am nördlichen Rand von Dubai.",
       hu: "Ez a lelőhely bronzkori településnyomokat mutat be Dubai északi szélén.",
@@ -1439,7 +1439,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-sir-abu-nuayr-island-history-v2",
     type: "landmark",
     name: { de: "Insel Sir Abu Nu'ayr Geschichte", hu: "Sir Abu Nu'ayr-sziget történelme", ro: "Istoria insulei Sir Abu Nu'ayr", en: "Sir Abu Nu'ayr Island History" },
-    coordinates: { lat: 25.228, lng: 54.225 },
+    coords: [54.225, 25.228],
     description: {
       de: "Diese Insel war historisch ein wichtiger Ort für die Perlenfischerei und den Abbau von Mineralien.",
       hu: "Ez a sziget történelmileg fontos helyszíne volt az igazgyöngyhalászatnak és az ásványkincsek bányászatának.",
@@ -1458,7 +1458,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-ghagha-island-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Insel Ghagha", hu: "Ghagha-sziget régészeti helyszín", ro: "Situl arheologic insula Ghagha", en: "Ghagha Island Archaeological Site" },
-    coordinates: { lat: 24.417, lng: 51.558 },
+    coords: [51.558, 24.417],
     description: {
       de: "Ghagha beherbergt steinzeitliche Funde, die zu den ältesten des Landes zählen.",
       hu: "Ghagha-szigete az ország egyik legősibb kőkorszaki leleteinek ad otthont.",
@@ -1477,7 +1477,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-hili-oasis-historic-watchtowers-history-v2",
     type: "tower",
     name: { de: "Historische Wachtürme der Hili-Oase", hu: "Hili-oázis történelmi őrtornyai", ro: "Turnurile istorice din oaza Hili", en: "Hili Oasis Historic Watchtowers" },
-    coordinates: { lat: 24.295, lng: 55.782 },
+    coords: [55.782, 24.295],
     description: {
       de: "Mehrere historische Türme bewachten den Zugang zu den lebenswichtigen Ressourcen der Hili-Oase.",
       hu: "Több történelmi torony őrizte a Hili-oázis létfontosságú erőforrásaihoz vezető utat.",
@@ -1496,7 +1496,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-marmoom-archaeological-history-v2",
     type: "ruins",
     name: { de: "Archäologie von Al Marmoom", hu: "Al Marmoom régészeti leletek", ro: "Arheologia din Al Marmoom", en: "Al Marmoom Archaeological Site" },
-    coordinates: { lat: 24.815, lng: 55.325 },
+    coords: [55.325, 24.815],
     description: {
       de: "In der Wüste von Al Marmoom wurden bedeutende Artefakte aus der Eisenzeit gefunden.",
       hu: "Az Al Marmoom sivatagban jelentős vaskori műtárgyakat találtak.",
@@ -1515,7 +1515,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-khatt-fort-history-v2",
     type: "castle",
     name: { de: "Festung Khatt", hu: "Khatt erőd", ro: "Fortul Khatt", en: "Khatt Fort" },
-    coordinates: { lat: 25.615, lng: 56.002 },
+    coords: [56.002, 25.615],
     description: {
       de: "Khatt ist bekannt für seine heißen Quellen und seine historische Bergfestung.",
       hu: "Khatt a meleg forrásairól és történelmi hegyi erődjéről ismert.",
@@ -1534,7 +1534,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-ar-rams-watchtower-history-v2",
     type: "tower",
     name: { de: "Wachturm von Ar-Rams", hu: "Ar-Rams őrtorony", ro: "Turnul din Ar-Rams", en: "Ar-Rams Watchtower" },
-    coordinates: { lat: 25.875, lng: 56.022 },
+    coords: [56.022, 25.875],
     description: {
       de: "Ein historischer Küstenwachturm im Fischerort Ar-Rams.",
       hu: "Történelmi partmenti őrtorony Ar-Rams halászvárosában.",
@@ -1553,7 +1553,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-mafraq-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Mafraq", hu: "Al Mafraq erőd", ro: "Fortul Al Mafraq", en: "Al Mafraq Fort" },
-    coordinates: { lat: 24.288, lng: 54.588 },
+    coords: [54.588, 24.288],
     description: {
       de: "Dieses Fort sicherte früher die Hauptwege landeinwärts von Abu Dhabi.",
       hu: "Ez az erőd korábban az Abu Dhabiból a szárazföld belsejébe vezető főutakat biztosította.",
@@ -1572,7 +1572,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-wadi-al-helo-watchtower-history-v2",
     type: "tower",
     name: { de: "Wachturm Wadi Al Helo", hu: "Wadi Al Helo őrtorony", ro: "Turnul din Wadi Al Helo", en: "Wadi Al Helo Watchtower" },
-    coordinates: { lat: 24.985, lng: 56.215 },
+    coords: [56.215, 24.985],
     description: {
       de: "Ein Wachturm, der über der historischen Siedlung im Wadi Al Helo steht.",
       hu: "Őrtorony, amely a Wadi Al Helo történelmi települése felett magasodik.",
@@ -1591,7 +1591,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-shimal-fort-history-v2",
     type: "castle",
     name: { de: "Bergfestung Shimal", hu: "Shimal hegyi erőd", ro: "Fortăreața montană Shimal", en: "Shimal Mountain Fort" },
-    coordinates: { lat: 25.835, lng: 56.035 },
+    coords: [56.035, 25.835],
     description: {
       de: "Diese schwer zugängliche Festung liegt auf einem Felsrücken nördlich von Ras Al Khaimah.",
       hu: "Ez a nehezen megközelíthető erőd egy sziklagerincen található Ras Al Khaimah-tól északra.",
@@ -1610,7 +1610,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-husn-dibba-history-v2",
     type: "castle",
     name: { de: "Husn Dibba", hu: "Husn Dibba", ro: "Husn Dibba", en: "Husn Dibba" },
-    coordinates: { lat: 25.602, lng: 56.265 },
+    coords: [56.265, 25.602],
     description: {
       de: "Die zentrale Festung von Dibba, die über Jahrhunderte ein Machtzentrum war.",
       hu: "Dibba központi erődje, amely évszázadokon át hatalmi központ volt.",
@@ -1629,7 +1629,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-hamra-tower-rak-history-v2",
     type: "tower",
     name: { de: "Al Hamra Wachturm (RAK)", hu: "Al Hamra őrtorony (RAK)", ro: "Turnul Al Hamra (RAK)", en: "Al Hamra Watchtower (RAK)" },
-    coordinates: { lat: 25.698, lng: 55.785 },
+    coords: [55.785, 25.698],
     description: {
       de: "Ein historischer Wachturm am Rande des Jazirat Al Hamra Viertels.",
       hu: "Történelmi őrtorony a Jazirat Al Hamra negyed szélén.",
@@ -1648,7 +1648,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-kalba-watchtower-history-v2",
     type: "tower",
     name: { de: "Küstenturm von Kalba", hu: "Kalba partmenti őrtorony", ro: "Turnul de coastă din Kalba", en: "Kalba Coastal Watchtower" },
-    coordinates: { lat: 25.045, lng: 56.365 },
+    coords: [56.365, 25.045],
     description: {
       de: "Dieser Turm direkt am Strand von Kalba schützte das Dorf vor Seeangriffen.",
       hu: "Ez a közvetlenül a kalbai strandon álló torony védte a falut a tengeri támadásoktól.",
@@ -1667,7 +1667,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-masfout-watchtower-history-v2",
     type: "tower",
     name: { de: "Masfout Wachturm", hu: "Masfout őrtorony", ro: "Turnul de veghe Masfout", en: "Masfout Watchtower" },
-    coordinates: { lat: 24.818, lng: 56.098 },
+    coords: [56.098, 24.818],
     description: {
       de: "Ein Wachturm auf einem Hügel, der das Bergdorf Masfout in Ajman überblickt.",
       hu: "Domboldali őrtorony, amely Ajman hegyi falujára, Masfoutra néz.",
@@ -1686,7 +1686,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-manama-fort-ajman-history-v2",
     type: "castle",
     name: { de: "Festung Al Manama", hu: "Al Manama erőd", ro: "Fortul Al Manama", en: "Al Manama Fort" },
-    coordinates: { lat: 25.328, lng: 56.022 },
+    coords: [56.022, 25.328],
     description: {
       de: "Dieses Fort liegt in der Exklave Al Manama und bewachte die dortigen Wasserressourcen.",
       hu: "Ez az erőd Al Manama exklávéban található, és az ottani vízkészleteket őrizte.",
@@ -1705,7 +1705,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-ayyah-watchtower-history-v2",
     type: "tower",
     name: { de: "Al-Ayyah Wachturm", hu: "Al-Ayyah őrtorony", ro: "Turnul de veghe Al-Ayyah", en: "Al-Ayyah Watchtower" },
-    coordinates: { lat: 25.555, lng: 55.955 },
+    coords: [55.955, 25.555],
     description: {
       de: "Ein einsamer Turm, der früher die Wege zwischen den Oasen und der Küste sicherte.",
       hu: "Magányos torony, amely korábban az oázisok és a part közötti utakat biztosította.",
@@ -1724,7 +1724,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-tell-abraq-archaeological-history-v2",
     type: "ruins",
     name: { de: "Tell Abraq Ausgrabungen", hu: "Tell Abraq ásatások", ro: "Excavările Tell Abraq", en: "Tell Abraq Excavations" },
-    coordinates: { lat: 25.512, lng: 55.618 },
+    coords: [55.618, 25.512],
     description: {
       de: "Tell Abraq ist eine der bedeutendsten mehrschichtigen archäologischen Stätten der Emirate.",
       hu: "Tell Abraq az Emírségek egyik legjelentősebb többrétegű régészeti lelőhelye.",
@@ -1743,7 +1743,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-shimal-tomb-complex-history-v2",
     type: "ruins",
     name: { de: "Grabkomplex von Shimal", hu: "Shimal sírkomplexum", ro: "Complexul de morminte Shimal", en: "Shimal Tomb Complex" },
-    coordinates: { lat: 25.83, lng: 56.04 },
+    coords: [56.04, 25.83],
     description: {
       de: "Ein großes Areal mit Gräbern aus verschiedenen Epochen am Fuße der Berge.",
       hu: "Hatalmas terület különböző korszakokból származó sírokkal a hegyek lábánál.",
@@ -1762,7 +1762,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-ain-old-souq-history-v2",
     type: "landmark",
     name: { de: "Al Ain Alter Souq", hu: "Al Ain régi piac", ro: "Vechiul Souq din Al Ain", en: "Al Ain Old Souq" },
-    coordinates: { lat: 24.225, lng: 55.762 },
+    coords: [55.762, 24.225],
     description: {
       de: "Das historische Marktviertel von Al Ain war über Generationen das Handelszentrum der Oasen.",
       hu: "Al Ain történelmi piaca generációkon át az oázisok kereskedelmi központja volt.",
@@ -1781,7 +1781,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-falaj-al-mualla-fort-v2-history-v2",
     type: "castle",
     name: { de: "Festung Falaj Al Mualla", hu: "Falaj Al Mualla erőd", ro: "Fortul Falaj Al Mualla", en: "Falaj Al Mualla Fort" },
-    coordinates: { lat: 25.358, lng: 55.852 },
+    coords: [55.852, 25.358],
     description: {
       de: "Dieses Fort im Landesinneren von Umm Al Quwain schützte die gleichnamige Oase.",
       hu: "Ez az Umm Al Quwain belsejében található erőd a hasonló nevű oázist védte.",
@@ -1800,7 +1800,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-manama-watchtowers-history-v2",
     type: "tower",
     name: { de: "Wachtürme von Al Manama", hu: "Al Manama őrtornyai", ro: "Turnurile de veghe din Al Manama", en: "Al Manama Watchtowers" },
-    coordinates: { lat: 25.325, lng: 56.015 },
+    coords: [56.015, 25.325],
     description: {
       de: "Zwei historische Wachtürme (Hassa und Bin Alwan), die das Dorf Manama überblicken.",
       hu: "Két történelmi őrtorony (Hassa és Bin Alwan), amelyek Manama falura néznek.",
@@ -1819,7 +1819,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-shimal-palace-history-v2",
     type: "ruins",
     name: { de: "Shimal Palast Ruinen", hu: "Shimal palota romok", ro: "Ruinele palatului Shimal", en: "Shimal Palace Ruins" },
-    coordinates: { lat: 25.836, lng: 56.037 },
+    coords: [56.037, 25.836],
     description: {
       de: "Die Überreste eines mittelalterlichen Palastes auf einem Felsvorsprung in Ras Al Khaimah.",
       hu: "Egy középkori palota maradványai egy sziklás kiszögellésen Ras Al Khaimah-ban.",
@@ -1838,7 +1838,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-al-bidya-excavations-history-v2",
     type: "ruins",
     name: { de: "Ausgrabungen von Al-Bidya", hu: "Al-Bidya ásatások", ro: "Săpăturile din Al-Bidya", en: "Al Bidya Excavations" },
-    coordinates: { lat: 25.44, lng: 56.35 },
+    coords: [56.35, 25.44],
     description: {
       de: "Archäologische Untersuchungen rund um die Al-Badiya-Moschee offenbarten jahrtausendealte Siedlungsspuren.",
       hu: "Az Al-Badiya mecset körüli régészeti kutatások több évezredes településnyomokat tártak fel.",
@@ -1857,7 +1857,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-ghub-watchtower-history-v2",
     type: "tower",
     name: { de: "Ghub Wachturm", hu: "Ghub őrtorony", ro: "Turnul de veghe Ghub", en: "Ghub Watchtower" },
-    coordinates: { lat: 25.562, lng: 56.242 },
+    coords: [56.242, 25.562],
     description: {
       de: "Ein Wachturm, der die landwirtschaftlichen Flächen im Hinterland von Dibba sicherte.",
       hu: "Őrtorony, amely Dibba hátországának mezőgazdasági területeit biztosította.",
@@ -1876,7 +1876,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
     id: "uae-masafi-archaeological-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Masafi", hu: "Masafi régészeti lelőhely", ro: "Situl arheologic Masafi", en: "Masafi Archaeological Site" },
-    coordinates: { lat: 25.312, lng: 56.172 },
+    coords: [56.172, 25.312],
     description: {
       de: "Bedeutende Funde aus der Eisenzeit belegen die Bedeutung von Masafi als antikes Zentrum.",
       hu: "Jelentős vaskori leletek igazolják Masafi ókori központi szerepét.",

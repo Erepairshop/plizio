@@ -1051,7 +1051,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-ticonderoga-history-v2",
     type: "fortress",
     name: { de: "Fort Ticonderoga", hu: "Fort Ticonderoga", ro: "Fort Ticonderoga", en: "Fort Ticonderoga" },
-    coordinates: { lat: 43.8407, lng: -73.3912 },
+    coords: [-73.3912, 43.8407],
     description: {
       de: "Das Fort wurde im 18. Jahrhundert von den Franzosen erbaut. Es war ein strategischer Ort während des Siebenjährigen Krieges und des Amerikanischen Unabhängigkeitskrieges.",
       hu: "Az erődöt a 18. században építették a franciák. Stratégiai jelentőségű volt a hétéves háború és az amerikai függetlenségi háború idején.",
@@ -1070,7 +1070,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-niagara-history-v2",
     type: "fortress",
     name: { de: "Fort Niagara", hu: "Fort Niagara", ro: "Fort Niagara", en: "Fort Niagara" },
-    coordinates: { lat: 43.2625, lng: -79.0622 },
+    coords: [-79.0622, 43.2625],
     description: {
       de: "Dieses Fort liegt an der Mündung des Niagara-Flusses in den Ontariosee. Es diente als militärischer Stützpunkt für mehrere europäische Mächte und später für die USA.",
       hu: "Ez az erőd a Niagara folyó Ontario-tóba torkolatánál fekszik. Több európai hatalom, majd később az USA katonai támaszpontjaként szolgált.",
@@ -1089,7 +1089,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-laramie-history-v2",
     type: "fortress",
     name: { de: "Fort Laramie", hu: "Fort Laramie", ro: "Fort Laramie", en: "Fort Laramie" },
-    coordinates: { lat: 42.2079, lng: -104.5678 },
+    coords: [-104.5678, 42.2079],
     description: {
       de: "Fort Laramie war ein wichtiger Handels- und Militärposten im 19. Jahrhundert. Es spielte eine zentrale Rolle bei der Besiedlung des amerikanischen Westens.",
       hu: "Fort Laramie fontos kereskedelmi és katonai állomás volt a 19. században. Központi szerepet játszott az amerikai nyugat benépesítésében.",
@@ -1108,7 +1108,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-scott-history-v2",
     type: "fortress",
     name: { de: "Fort Scott", hu: "Fort Scott", ro: "Fort Scott", en: "Fort Scott" },
-    coordinates: { lat: 37.8427, lng: -94.7042 },
+    coords: [-94.7042, 37.8427],
     description: {
       de: "Fort Scott war ein Militärposten zur Sicherung der Grenze im 19. Jahrhundert. Heute zeigt es die Geschichte der Besiedlung und des Bleeding Kansas-Konflikts.",
       hu: "Fort Scott katonai állomás volt a határ biztosítására a 19. században. Ma a betelepülés és a Bleeding Kansas konfliktus történetét mutatja be.",
@@ -1127,7 +1127,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-pulaski-history-v2",
     type: "fortress",
     name: { de: "Fort Pulaski", hu: "Fort Pulaski", ro: "Fort Pulaski", en: "Fort Pulaski" },
-    coordinates: { lat: 32.0232, lng: -80.8925 },
+    coords: [-80.8925, 32.0232],
     description: {
       de: "Das Fort wurde zum Schutz des Hafens von Savannah errichtet. Es ist bekannt für den Einsatz gezogener Geschütze während des Bürgerkrieges.",
       hu: "Az erődöt Savannah kikötőjének védelmére építették. Híres a polgárháború alatti huzagolt ágyúk használatáról.",
@@ -1146,7 +1146,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-tompkins-history-v2",
     type: "fortress",
     name: { de: "Fort Tompkins", hu: "Fort Tompkins", ro: "Fort Tompkins", en: "Fort Tompkins" },
-    coordinates: { lat: 40.6033, lng: -74.0583 },
+    coords: [-74.0583, 40.6033],
     description: {
       de: "Fort Tompkins liegt auf Staten Island und war Teil der Verteidigungsanlagen von New York Harbor. Es stammt aus der Mitte des 19. Jahrhunderts.",
       hu: "Fort Tompkins Staten Islanden fekszik, és a New York-i kikötő védelmi rendszerének része volt. A 19. század közepéből származik.",
@@ -1165,7 +1165,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-jefferson-history-v2",
     type: "fortress",
     name: { de: "Fort Jefferson", hu: "Fort Jefferson", ro: "Fort Jefferson", en: "Fort Jefferson" },
-    coordinates: { lat: 24.6289, lng: -82.8732 },
+    coords: [-82.8732, 24.6289],
     description: {
       de: "Dieses massive Ziegelstein-Fort befindet sich im Dry Tortugas National Park. Es ist eines der größten Küstenbefestigungen, die je in den USA gebaut wurden.",
       hu: "Ez a hatalmas téglaerőd a Dry Tortugas Nemzeti Parkban található. Az USA-ban valaha épített egyik legnagyobb tengerparti erődítmény.",
@@ -1184,7 +1184,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-st-philip-history-v2",
     type: "fortress",
     name: { de: "Fort St. Philip", hu: "Fort St. Philip", ro: "Fort St. Philip", en: "Fort St. Philip" },
-    coordinates: { lat: 29.3667, lng: -89.4667 },
+    coords: [-89.4667, 29.3667],
     description: {
       de: "Dieses Fort liegt am Mississippi-Fluss in Louisiana. Es spielte eine wichtige Rolle bei der Verteidigung von New Orleans während des Amerikanischen Bürgerkriegs.",
       hu: "Ez az erőd Louisiana Mississippi folyóján fekszik. Fontos szerepet játszott New Orleans védelmében az amerikai polgárháború alatt.",
@@ -1203,7 +1203,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-kearny-history-v2",
     type: "fortress",
     name: { de: "Fort Kearny", hu: "Fort Kearny", ro: "Fort Kearny", en: "Fort Kearny" },
-    coordinates: { lat: 40.6558, lng: -99.0494 },
+    coords: [-99.0494, 40.6558],
     description: {
       de: "Fort Kearny wurde zum Schutz der Siedler auf dem Oregon Trail erbaut. Es diente als zentraler Stützpunkt für die westliche Expansion in Nebraska.",
       hu: "Fort Kearny-t az Oregon Trail mentén utazó telepesek védelmére építették. Központi támaszpontként szolgált a nebraskai nyugati terjeszkedéshez.",
@@ -1222,7 +1222,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-baker-history-v2",
     type: "fortress",
     name: { de: "Fort Baker", hu: "Fort Baker", ro: "Fort Baker", en: "Fort Baker" },
-    coordinates: { lat: 37.8344, lng: -122.4831 },
+    coords: [-122.4831, 37.8344],
     description: {
       de: "Fort Baker liegt direkt nördlich der Golden Gate Bridge in Kalifornien. Es diente im 20. Jahrhundert als Teil der Hafenverteidigung von San Francisco.",
       hu: "Fort Baker közvetlenül a Golden Gate híd északra található Kaliforniában. A 20. században San Francisco kikötőjének védelmét szolgálta.",
@@ -1241,7 +1241,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-simcoe-history-v2",
     type: "fortress",
     name: { de: "Fort Simcoe", hu: "Fort Simcoe", ro: "Fort Simcoe", en: "Fort Simcoe" },
-    coordinates: { lat: 46.4119, lng: -120.9161 },
+    coords: [-120.9161, 46.4119],
     description: {
       de: "Fort Simcoe wurde 1856 im heutigen Washington State errichtet. Es diente als Militärlager während der indianischen Konflikte im pazifischen Nordwesten.",
       hu: "Fort Simcoe-t 1856-ban építették a mai Washington államban. Katonai táborként szolgált az indián konfliktusok idején a csendes-óceáni északnyugaton.",
@@ -1260,7 +1260,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-moses-history-v2",
     type: "fortress",
     name: { de: "Fort Mose", hu: "Fort Mose", ro: "Fort Mose", en: "Fort Mose" },
-    coordinates: { lat: 29.9214, lng: -81.3069 },
+    coords: [-81.3069, 29.9214],
     description: {
       de: "Fort Mose bei St. Augustine war die erste gesetzlich anerkannte Siedlung für freie Afroamerikaner in Nordamerika.",
       hu: "A St. Augustine melletti Fort Mose volt az első törvényesen elismert település a szabad afroamerikaiak számára Észak-Amerikában.",
@@ -1279,7 +1279,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-tejon-history-v2",
     type: "fortress",
     name: { de: "Fort Tejon", hu: "Fort Tejon", ro: "Fort Tejon", en: "Fort Tejon" },
-    coordinates: { lat: 34.8872, lng: -118.8953 },
+    coords: [-118.8953, 34.8872],
     description: {
       de: "Fort Tejon war ein Stützpunkt der US-Armee in den Tehachapi Mountains. Es wurde genutzt, um die Ordnung im kalifornischen Hinterland aufrechtzuerhalten.",
       hu: "Fort Tejon az amerikai hadsereg egyik támaszpontja volt a Tehachapi-hegységben. A kaliforniai hátország rendjének fenntartására használták.",
@@ -1298,7 +1298,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-brady-history-v2",
     type: "fortress",
     name: { de: "Fort Brady", hu: "Fort Brady", ro: "Fort Brady", en: "Fort Brady" },
-    coordinates: { lat: 46.5056, lng: -84.3472 },
+    coords: [-84.3472, 46.5056],
     description: {
       de: "Fort Brady war eine militärische Anlage in Sault Ste. Marie, Michigan. Sie diente der Sicherung des strategisch wichtigen St. Marys River.",
       hu: "Fort Brady egy katonai létesítmény volt Michiganben, Sault Ste. Marie-ban. A stratégiailag fontos St. Marys folyó biztosítására szolgált.",
@@ -1317,7 +1317,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-point-history-v2",
     type: "fortress",
     name: { de: "Fort Point", hu: "Fort Point", ro: "Fort Point", en: "Fort Point" },
-    coordinates: { lat: 37.8103, lng: -122.477 },
+    coords: [-122.477, 37.8103],
     description: {
       de: "Fort Point befindet sich unter der Golden Gate Bridge. Die Festung wurde im 19. Jahrhundert zur Verteidigung der San Francisco Bay errichtet.",
       hu: "Fort Point a Golden Gate híd alatt található. Az erődöt a 19. században építették a San Francisco-i öböl védelmére.",
@@ -1336,7 +1336,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "usa-fort-caswell-history-v2",
     type: "fortress",
     name: { de: "Fort Caswell", hu: "Fort Caswell", ro: "Fort Caswell", en: "Fort Caswell" },
-    coordinates: { lat: 33.8739, lng: -78.0211 },
+    coords: [-78.0211, 33.8739],
     description: {
       de: "Fort Caswell schützte die Mündung des Cape Fear River in North Carolina. Es war ein wichtiger Teil der Küstenverteidigung im 19. und 20. Jahrhundert.",
       hu: "Fort Caswell a Cape Fear folyó torkolatát védte Észak-Karolinában. Fontos része volt a partvédelmi rendszernek a 19. és 20. században.",

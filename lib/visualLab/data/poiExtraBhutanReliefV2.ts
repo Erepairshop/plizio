@@ -491,7 +491,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-gangchhenta-relief-v2",
     type: "peak",
     name: { de: "Gangchhenta", hu: "Gangchhenta", ro: "Gangchhenta", en: "Gangchhenta" },
-    coordinates: { lat: 28.093, lng: 90.016 },
+    coords: [90.016, 28.093],
     description: {
       de: "Ein markanter Gipfel im Norden Bhutans mit einer Höhe von 6840 Metern. Er ist lokal als Großer Tigerberg bekannt.",
       hu: "Észak-Bhután egyik jellegzetes csúcsa, amely 6840 méteres magasságba emelkedik. Helyi neve a Nagy Tigris-hegy.",
@@ -522,7 +522,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-jejezangbo-relief-v2",
     type: "peak",
     name: { de: "Jejezangbo", hu: "Jejezangbo", ro: "Jejezangbo", en: "Jejezangbo" },
-    coordinates: { lat: 28.163, lng: 90.304 },
+    coords: [90.304, 28.163],
     description: {
       de: "Ein hoher Berg im Lunana-Gebiet im Norden Bhutans mit etwa 7150 Metern. Er liegt in der abgelegenen Himalaya-Kette.",
       hu: "Magas hegycsúcs az észak-bhutáni Lunana régióban, körülbelül 7150 méter magas. A távoli Himalája vonulatában fekszik.",
@@ -553,7 +553,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-lunana-highlands-relief-v2",
     type: "valley",
     name: { de: "Lunana-Hochland", hu: "Lunana-felföld", ro: "Podișul Lunana", en: "Lunana Highlands" },
-    coordinates: { lat: 28.033, lng: 90.216 },
+    coords: [90.216, 28.033],
     description: {
       de: "Eine extrem abgelegene Hochgebirgsregion im Norden Bhutans mit Gletschertälern. Sie ist bekannt für ihre schwierige Erreichbarkeit.",
       hu: "Rendkívül távoli magashegyi régió Észak-Bhutánban, gleccservölgyekkel. Nehéz megközelíthetőségéről ismert.",
@@ -584,7 +584,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-tsering-kang-relief-v2",
     type: "peak",
     name: { de: "Tsering Kang", hu: "Tsering Kang", ro: "Tsering Kang", en: "Tsering Kang" },
-    coordinates: { lat: 27.852, lng: 89.381 },
+    coords: [89.381, 27.852],
     description: {
       de: "Ein bedeutender Gipfel im Nordwesten Bhutans mit einer Höhe von 6789 Metern. Er prägt das Panorama nahe der Jomolhari-Kette.",
       hu: "Jelentős hegycsúcs Északnyugat-Bhutánban, 6789 méteres tengerszint feletti magassággal. A Jomolhari-vonulat panorámáját gazdagítja.",
@@ -615,7 +615,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-gipmochi-relief-v2",
     type: "peak",
     name: { de: "Gipmochi", hu: "Gipmochi", ro: "Gipmochi", en: "Gipmochi" },
-    coordinates: { lat: 27.271, lng: 88.831 },
+    coords: [88.831, 27.271],
     description: {
       de: "Ein Berg am Dreiländereck von Bhutan, Sikkim und Tibet mit 4420 Metern Höhe. Er dient als natürlicher Grenzpunkt im Westen.",
       hu: "Bhután, Szikkim és Tibet hármashatáránál fekvő hegycsúcs, 4420 méter magas. Természetes határpontként szolgál nyugaton.",
@@ -646,7 +646,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     id: "bhutan-duars-plain-relief-v2",
     type: "valley",
     name: { de: "Duars-Ebene", hu: "Duars-alföld", ro: "Câmpia Duars", en: "Duars Plain" },
-    coordinates: { lat: 26.85, lng: 90.45 },
+    coords: [90.45, 26.85],
     description: {
       de: "Die südliche Tieflandregion Bhutans am Übergang zum Brahmaputra-Becken. Sie besteht aus fruchtbaren Schwemmebenen und Wäldern.",
       hu: "Bhután déli síksága a Brahmaputra-medence találkozásánál. Termékeny hordaléksíkságokból és erdőkből áll.",

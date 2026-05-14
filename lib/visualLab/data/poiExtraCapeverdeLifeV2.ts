@@ -727,7 +727,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-morocos-natural-park-life-v2",
     type: "park",
     name: { de: "Naturpark Moroços", hu: "Moroços Természeti Park", ro: "Parcul Natural Moroços", en: "Moroços Natural Park" },
-    coordinates: { lat: 17.0783, lng: -25.1525 },
+    coords: [-25.1525, 17.0783],
     description: {
       de: "Der Park auf Santo Antão schützt Gebirgslandschaften und endemische Pflanzenarten. Er ist ein wichtiges Rückzugsgebiet für die lokale Flora.",
       hu: "A Santo Antão szigetén található park hegyvidéki tájakat és őshonos növényfajokat védelmez. Fontos menedékhely a helyi flóra számára.",
@@ -758,7 +758,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-cruzinha-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Cruzinha", hu: "Cruzinha Természetvédelmi Terület", ro: "Rezervația Naturală Cruzinha", en: "Cruzinha Nature Reserve" },
-    coordinates: { lat: 17.1558, lng: -25.0994 },
+    coords: [-25.0994, 17.1558],
     description: {
       de: "Dieses Küstenschutzgebiet im Norden von Santo Antão bewahrt maritime Ökosysteme. Es ist bekannt für seine zerklüfteten Klippen und Seevögel.",
       hu: "Ez a Santo Antão északi részén található parti védett terület tengeri ökoszisztémákat őriz. Híres sziklás partjairól és tengeri madarairól.",
@@ -789,7 +789,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-monte-velha-forest-life-v2",
     type: "forest",
     name: { de: "Waldgebiet Monte Velha", hu: "Monte Velha Erdőterület", ro: "Perimetrul Forestier Monte Velha", en: "Monte Velha Forest Perimeter" },
-    coordinates: { lat: 14.9812, lng: -24.3586 },
+    coords: [-24.3586, 14.9812],
     description: {
       de: "Ein bedeutendes Aufforstungsprojekt auf der Insel Fogo mit Zypressen und Eukalyptusbäumen. Es verbessert das lokale Mikroklima erheblich.",
       hu: "Egy jelentős erdősítési projekt Fogo szigetén ciprusokkal és eukaliptuszfákkal. Jelentősen javítja a helyi mikroklímát.",
@@ -820,7 +820,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-ilheu-raso-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Ilhéu Raso", hu: "Ilhéu Raso Természetvédelmi Terület", ro: "Rezervația Naturală Ilhéu Raso", en: "Ilhéu Raso Nature Reserve" },
-    coordinates: { lat: 16.6111, lng: -24.5822 },
+    coords: [-24.5822, 16.6111],
     description: {
       de: "Diese unbewohnte Insel ist ein streng geschütztes Reservat für seltene Vögel. Sie ist der einzige Lebensraum der Raso-Lerche weltweit.",
       hu: "Ez a lakatlan sziget szigorúan védett rezervátum ritka madarak számára. Ez a Raso-pacsirta egyetlen élőhelye a világon.",
@@ -851,7 +851,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-ilheu-branco-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Ilhéu Branco", hu: "Ilhéu Branco Természetvédelmi Terület", ro: "Rezervația Naturală Ilhéu Branco", en: "Ilhéu Branco Nature Reserve" },
-    coordinates: { lat: 16.6558, lng: -24.6803 },
+    coords: [-24.6803, 16.6558],
     description: {
       de: "Eine felsige, unbewohnte Insel, bekannt für ihre weißen Guano-Ablagerungen. Sie beherbergt einzigartige Reptilien und zahlreiche Seevögel.",
       hu: "Egy sziklás, lakatlan sziget, amely fehér guanó-lerakódásairól ismert. Egyedülálló hüllőknek és számos tengeri madárnak ad otthont.",
@@ -882,7 +882,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-curral-velho-wetland-life-v2",
     type: "park",
     name: { de: "Feuchtgebiet Curral Velho", hu: "Curral Velho Vizenyős Terület", ro: "Zona Umedă Curral Velho", en: "Curral Velho Wetland" },
-    coordinates: { lat: 15.9833, lng: -22.7833 },
+    coords: [-22.7833, 15.9833],
     description: {
       de: "Ein Ramsar-Schutzgebiet im Süden von Boavista mit Salzpfannen und Dünen. Es ist ein kritischer Lebensraum für bedrohte Vogelarten.",
       hu: "Ramsari védett terület Boavista déli részén, sós mocsarakkal és dűnékkel. Kritikus élőhely a veszélyeztetett madárfajok számára.",
@@ -913,7 +913,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-salinas-porto-ingles-life-v2",
     type: "wildlife",
     name: { de: "Salinen von Porto Inglês", hu: "Porto Inglês Sóstó", ro: "Salinele din Porto Inglês", en: "Salinas of Porto Inglês" },
-    coordinates: { lat: 15.1386, lng: -23.2322 },
+    coords: [-23.2322, 15.1386],
     description: {
       de: "Diese bedeutenden Salzpfannen auf Maio sind ein wichtiges Feuchtgebiet. Sie dienen als Lebensraum für zahlreiche Watt- und Seevögel.",
       hu: "Ezek a jelentős sólepárlók Maio szigetén fontos vizes élőhelyek. Számos gázló- és tengeri madár számára biztosítanak élőhelyet.",
@@ -944,7 +944,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-baia-inferno-life-v2",
     type: "wildlife",
     name: { de: "Bucht Inferno Reserve", hu: "Inferno-öböl Rezervátum", ro: "Rezervația Baía do Inferno", en: "Baía do Inferno Reserve" },
-    coordinates: { lat: 15.025, lng: -23.7667 },
+    coords: [-23.7667, 15.025],
     description: {
       de: "Ein Küstenreservat auf Santiago mit beeindruckenden Klippen und Meereshöhlen. Es beherbergt eine der größten Seevogelkolonien des Archipels.",
       hu: "Parti rezervátum Santiago szigetén lenyűgöző sziklákkal és tengeri barlangokkal. A szigetcsoport egyik legnagyobb tengerimadár-kolóniájának otthona.",
@@ -975,7 +975,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-lagoa-caeira-life-v2",
     type: "lake",
     name: { de: "Lagune von Caeira", hu: "Caeira-lagúna", ro: "Laguna Caeira", en: "Caeira Lagoon" },
-    coordinates: { lat: 15.2611, lng: -23.1333 },
+    coords: [-23.1333, 15.2611],
     description: {
       de: "Eine saisonale Lagune auf der Insel Maio, die nach Regenfällen erscheint. Sie ist ein wichtiger Magnet für wandernde Wasservögel.",
       hu: "Maio szigetén található időszakos lagúna, amely esőzések után jelenik meg. Fontos vonzerő a vándorló vízimadarak számára.",
@@ -1006,7 +1006,7 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "capeverde-northern-park-boavista-life-v2",
     type: "park",
     name: { de: "Nördlicher Naturpark Boavista", hu: "Északi Boavista Természeti Park", ro: "Parcul Natural Nordul Boavista", en: "Northern Boavista Natural Park" },
-    coordinates: { lat: 16.185, lng: -22.7525 },
+    coords: [-22.7525, 16.185],
     description: {
       de: "Dieser weitläufige Park umfasst Dünen, Feuchtgebiete und Strände. Er ist weltweit bedeutend für den Schutz der Unechten Karettschildkröte.",
       hu: "Ez a kiterjedt park dűnéket, vizes élőhelyeket és strandokat foglal magában. Világszinten jelentős az álcserepesteknősök védelmében.",

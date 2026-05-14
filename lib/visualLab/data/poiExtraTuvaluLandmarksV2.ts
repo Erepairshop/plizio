@@ -5,7 +5,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-government-building-landmarks-v2",
     type: "landmark",
     name: { de: "Regierungsgebäude von Tuvalu", hu: "Tuvalu kormányzati épülete", ro: "Clădirea Guvernului din Tuvalu", en: "Tuvalu Government Building" },
-    coordinates: { lat: -8.5215, lng: 179.1915 },
+    coords: [179.1915, -8.5215],
     description: {
       de: "Das Regierungsgebäude in Funafuti ist das administrative Zentrum des Inselstaates. Es beherbergt das Büro des Premierministers und wichtige Ministerien.",
       hu: "A funafuti kormányzati épület a szigetország adminisztratív központja. Itt található a miniszterelnöki hivatal és a legfontosabb minisztériumok.",
@@ -24,7 +24,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-fetu-ao-lima-church-landmarks-v2",
     type: "church",
     name: { de: "Fetu Ao Lima Kirche", hu: "Fetu Ao Lima templom", ro: "Biserica Fetu Ao Lima", en: "Fetu Ao Lima Church" },
-    coordinates: { lat: -8.518, lng: 179.1945 },
+    coords: [179.1945, -8.518],
     description: {
       de: "Die Fetu Ao Lima Kirche ist das größte Gotteshaus in Funafuti und ein zentraler Ort für die Gemeinde. Sie gehört zur Ekalesia Kelisiano Tuvalu.",
       hu: "A Fetu Ao Lima templom Funafuti legnagyobb istenháza és a közösség központi helyszíne. Az Ekalesia Kelisiano Tuvalu egyházhoz tartozik.",
@@ -43,7 +43,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-philatelic-bureau-landmarks-v2",
     type: "museum",
     name: { de: "Philatelistisches Büro von Tuvalu", hu: "Tuvalui Filatéliai Iroda", ro: "Biroul Filatelic din Tuvalu", en: "Tuvalu Philatelic Bureau" },
-    coordinates: { lat: -8.523, lng: 179.192 },
+    coords: [179.192, -8.523],
     description: {
       de: "Das Philatelic Bureau in Funafuti ist weltweit bekannt für die Ausgabe seltener Briefmarken. Es ist ein wichtiger Ort für Sammler und Touristen.",
       hu: "A funafuti Filatéliai Iroda világszerte ismert ritka bélyegeinek kiadásáról. Fontos helyszín a gyűjtők és turisták számára.",
@@ -62,7 +62,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-princess-margaret-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Princess Margaret Krankenhaus", hu: "Princess Margaret Kórház", ro: "Spitalul Princess Margaret", en: "Princess Margaret Hospital" },
-    coordinates: { lat: -8.5145, lng: 179.197 },
+    coords: [179.197, -8.5145],
     description: {
       de: "Das Princess Margaret Hospital ist das einzige Krankenhaus in Tuvalu und bietet medizinische Grundversorgung. Es wurde nach einem Besuch der Prinzessin benannt.",
       hu: "A Princess Margaret Kórház Tuvalu egyetlen kórháza, amely alapvető orvosi ellátást biztosít. Nevét a hercegnő látogatása után kapta.",
@@ -81,7 +81,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-vaiaku-lagi-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Vaiaku Lagi Hotel", hu: "Vaiaku Lagi Hotel", ro: "Hotelul Vaiaku Lagi", en: "Vaiaku Lagi Hotel" },
-    coordinates: { lat: -8.5222, lng: 179.1925 },
+    coords: [179.1925, -8.5222],
     description: {
       de: "Das Vaiaku Lagi Hotel ist das einzige staatliche Hotel in Tuvalu und liegt am Ufer der Lagune. Es ist ein markanter Treffpunkt für Besucher.",
       hu: "A Vaiaku Lagi Hotel Tuvalu egyetlen állami tulajdonú szállodája, amely a lagúna partján fekszik. A látogatók jellegzetes találkozóhelye.",
@@ -100,7 +100,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-womens-handicraft-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Kunsthandwerkszentrum der Frauen", hu: "Női Kézműves Központ", ro: "Centrul de Meșteșuguri al Femeilor", en: "Women's Handicraft Centre" },
-    coordinates: { lat: -8.5245, lng: 179.1915 },
+    coords: [179.1915, -8.5245],
     description: {
       de: "Das Kunsthandwerkszentrum der Frauen in Funafuti bietet traditionelle Webereien und Kunstgegenstände an. Es fördert das lokale Erbe und Design.",
       hu: "A funafuti Női Kézműves Központ hagyományos szőtteseket és művészeti tárgyakat kínál. A helyi örökséget és designt népszerűsíti.",
@@ -119,7 +119,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-nanumea-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Nanumea", hu: "Nanumeai templom", ro: "Biserica din Nanumea", en: "Nanumea Church" },
-    coordinates: { lat: -5.6766, lng: 176.1265 },
+    coords: [176.1265, -5.6766],
     description: {
       de: "Die Kirche auf der Insel Nanumea ist ein markantes Bauwerk mit einer hohen Turmspitze. Sie ist das geistige Zentrum des nördlichsten Atolls.",
       hu: "A Nanumea-szigeten található templom egy jellegzetes épület magas toronnyal. Ez az ország legészakibb atolljának szellemi központja.",
@@ -138,7 +138,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-teone-church-landmarks-v2",
     type: "church",
     name: { de: "Teone-Kirche", hu: "Teone-templom", ro: "Biserica Teone", en: "Teone Church" },
-    coordinates: { lat: -8.511, lng: 179.198 },
+    coords: [179.198, -8.511],
     description: {
       de: "Die Teone-Kirche ist ein wichtiger katholischer Versammlungsort in Funafuti. Sie zeichnet sich durch ihre schlichte und einladende Architektur aus.",
       hu: "A Teone-templom fontos katolikus gyülekezeti hely Funafutiban. Egyszerű és hívogató építészeti stílus jellemzi.",
@@ -157,7 +157,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-funafuti-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptpostamt Funafuti", hu: "Funafuti postahivatal", ro: "Poșta din Funafuti", en: "Funafuti Post Office" },
-    coordinates: { lat: -8.5232, lng: 179.1918 },
+    coords: [179.1918, -8.5232],
     description: {
       de: "Das Postamt von Funafuti ist der zentrale Knotenpunkt für die Kommunikation auf den Atollen. Es ist ein wichtiger Teil der täglichen Infrastruktur.",
       hu: "A funafuti postahivatal az atollok közötti kommunikáció központi csomópontja. A mindennapi infrastruktúra fontos részét képezi.",
@@ -176,7 +176,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-meteorological-service-landmarks-v2",
     type: "landmark",
     name: { de: "Wetterdienst von Tuvalu", hu: "Tuvalui Meteorológiai Szolgálat", ro: "Serviciul Meteorologic din Tuvalu", en: "Tuvalu Meteorological Service" },
-    coordinates: { lat: -8.525, lng: 179.19 },
+    coords: [179.19, -8.525],
     description: {
       de: "Das Gebäude des Wetterdienstes in Funafuti überwacht das Klima und Wetterphänomene. Es ist entscheidend für die Frühwarnung vor Zyklonen.",
       hu: "A funafuti meteorológiai szolgálat épülete figyeli az éghajlatot és az időjárási jelenségeket. Kulcsfontosságú a ciklonok elleni korai riasztásban.",
@@ -195,7 +195,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-niutao-maneapa-landmarks-v2",
     type: "landmark",
     name: { de: "Maneapa von Niutao", hu: "Niutaoi Maneapa", ro: "Maneapa din Niutao", en: "Niutao Maneapa" },
-    coordinates: { lat: -6.111, lng: 177.344 },
+    coords: [177.344, -6.111],
     description: {
       de: "Die Maneapa von Niutao ist ein traditionelles Gemeinschaftshaus für Versammlungen und Tänze. Sie ist ein Symbol für die lokale Kultur.",
       hu: "A niutaoi Maneapa egy hagyományos közösségi ház gyűlésekhez és táncokhoz. A helyi kultúra és önkormányzatiság szimbóluma.",
@@ -214,7 +214,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-nui-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Nui", hu: "Nui templom", ro: "Biserica din Nui", en: "Nui Church" },
-    coordinates: { lat: -7.221, lng: 177.151 },
+    coords: [177.151, -7.221],
     description: {
       de: "Die Kirche auf der Insel Nui ist ein zentrales Bauwerk des Atolls. Sie spiegelt den Einfluss christlicher Missionen auf die Inselbewohner wider.",
       hu: "A Nui-szigeten található templom az atoll központi épülete. A keresztény missziók szigetlakókra gyakorolt hatását tükrözi.",
@@ -233,7 +233,7 @@ export const tuvaluLandmarksV2: POI[] = [
     id: "tuvalu-nukufetau-wwii-memorial-landmarks-v2",
     type: "monument",
     name: { de: "WWII-Denkmal Nukufetau", hu: "Nukufetaui világháborús emlékmű", ro: "Monumentul WWII din Nukufetau", en: "Nukufetau WWII Memorial" },
-    coordinates: { lat: -8.033, lng: 178.483 },
+    coords: [178.483, -8.033],
     description: {
       de: "Das WWII-Denkmal in Nukufetau erinnert an die Präsenz der US-Streitkräfte während des Krieges. Es ist ein historisches Zeugnis jener Zeit.",
       hu: "A nukufetaui második világháborús emlékmű az amerikai erők jelenlétére emlékeztet. A korszak fontos történelmi tanúságtétele.",

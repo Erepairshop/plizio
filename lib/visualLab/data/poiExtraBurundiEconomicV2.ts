@@ -717,7 +717,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-mugere-power-station-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Mugere", hu: "Mugere vízerőmű", ro: "Hidrocentrala Mugere", en: "Mugere Power Station" },
-    coordinates: { lat: -3.4683, lng: 29.3852 },
+    coords: [29.3852, -3.4683],
     description: {
       de: "Das Wasserkraftwerk am Mugere-Fluss versorgt die Hauptstadtregion zuverlässig mit Strom. Die 1982 in Betrieb genommene Anlage hat 8 Megawatt Leistung.",
       hu: "A Bujumbura közelében a Mugere-folyón épült vízerőmű fontos áramforrás. Az 1982-ben átadott létesítmény kapacitása eredetileg 8 megawatt volt.",
@@ -748,7 +748,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-nyakarambo-rice-mill-economic-v2",
     type: "factory",
     name: { de: "Reismühle Nyakarambo", hu: "Nyakarambo rizsmalom", ro: "Moara de orez Nyakarambo", en: "Nyakarambo Rice Mill" },
-    coordinates: { lat: -3.0831, lng: 29.3504 },
+    coords: [29.3504, -3.0831],
     description: {
       de: "Diese große Industrieanlage in der Provinz Bubanza verarbeitet Reis aus der Imbo-Ebene. Sie ist entscheidend für die Ernährungssicherung des Landes.",
       hu: "Ez a Bubanza tartományban található ipari létesítmény az Imbo-síkság rizstermését dolgozza fel. Kulcsszerepe van az ország élelmezésében.",
@@ -779,7 +779,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-sogestal-gitega-economic-v2",
     type: "industry",
     name: { de: "Kaffeezentrum SOGESTAL Gitega", hu: "SOGESTAL Gitega kávéközpont", ro: "Centrul de cafea SOGESTAL Gitega", en: "SOGESTAL Gitega Coffee Hub" },
-    coordinates: { lat: -3.4285, lng: 29.9258 },
+    coords: [29.9258, -3.4285],
     description: {
       de: "Dieses Zentrum koordiniert die Kaffeeverarbeitung und den Export in der Region Gitega. Es verwaltet über 30 Waschstationen für Arabica-Bohnen.",
       hu: "Ez a központ koordinálja a kávéfeldolgozást és az exportot Gitega régiójában. Több mint 30 mosóállomást felügyel az Arabica babokhoz.",
@@ -810,7 +810,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-buterere-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriezone Buterere", hu: "Buterere ipari negyed", ro: "Zona industrială Buterere", en: "Buterere Industrial Zone" },
-    coordinates: { lat: -3.3352, lng: 29.3654 },
+    coords: [29.3654, -3.3352],
     description: {
       de: "Im Norden von Bujumbura gelegen, beherbergt diese Zone Fabriken für Chemie, Plastik und Baumaterialien. Es ist das industrielle Herz der Stadt.",
       hu: "Bujumbura északi részén található ipari övezet vegyipari és építőanyag-gyáraknak ad otthont. A város egyik legfontosabb termelési központja.",
@@ -841,7 +841,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-muyinga-mining-sector-economic-v2",
     type: "mine",
     name: { de: "Bergbauzone Muyinga", hu: "Muyinga bányászati övezet", ro: "Sectorul minier Muyinga", en: "Muyinga Mining Sector" },
-    coordinates: { lat: -2.8502, lng: 30.3405 },
+    coords: [30.3405, -2.8502],
     description: {
       de: "Ein bedeutendes Gebiet für den handwerklichen Goldabbau im Nordosten Burundis. Der Sektor ist eine wichtige Einnahmequelle für die lokale Bevölkerung.",
       hu: "Burundi északkeleti részén fekvő jelentős terület az kézműves aranybányászat számára. Fontos bevételi forrás a helyi lakosság körében.",
@@ -872,7 +872,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-mbirizi-station-economic-v2",
     type: "factory",
     name: { de: "Kaffeestation Mbirizi", hu: "Mbirizi kávéállomás", ro: "Stația de cafea Mbirizi", en: "Mbirizi Coffee Station" },
-    coordinates: { lat: -2.9305, lng: 29.6251 },
+    coords: [29.6251, -2.9305],
     description: {
       de: "Diese preisgekrönte Waschstation in Kayanza ist bekannt für hochwertigen Spezialitätenkaffee. Sie bedient hunderte lokale Kleinbauern.",
       hu: "Ez a Kayanza tartománybeli díjnyertes mosóállomás kiváló minőségű specialty kávéiról híres. Több száz kistermelő termését dolgozza fel.",
@@ -903,7 +903,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-bujumbura-finance-district-economic-v2",
     type: "landmark",
     name: { de: "Finanzviertel Bujumbura", hu: "Bujumbura pénzügyi negyed", ro: "Districtul financiar Bujumbura", en: "Bujumbura Finance District" },
-    coordinates: { lat: -3.3835, lng: 29.3658 },
+    coords: [29.3658, -3.3835],
     description: {
       de: "Das kommerzielle Herz der Stadt beherbergt die Zentralbank und zahlreiche Finanzinstitute. Es ist das Zentrum für Investitionen in Burundi.",
       hu: "A város kereskedelmi szíve, ahol a központi bank és számos pénzintézet székel. Ez a burundi befektetések és pénzügyi szolgáltatások központja.",
@@ -934,7 +934,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-ngozi-commercial-zone-economic-v2",
     type: "landmark",
     name: { de: "Handelszone Ngozi", hu: "Ngozi kereskedelmi zóna", ro: "Zona comercială Ngozi", en: "Ngozi Commercial Hub" },
-    coordinates: { lat: -2.9082, lng: 29.8341 },
+    coords: [29.8341, -2.9082],
     description: {
       de: "Ein florierendes Handelszentrum nahe der Grenze zu Ruanda, das den Austausch von Waren erleichtert. Die Märkte gehören zu den belebtesten im Norden.",
       hu: "A ruandai határ közelében fekvő virágzó kereskedelmi központ, amely megkönnyíti az árucserét. Piacai a legforgalmasabbak északon.",
@@ -965,7 +965,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-kabonga-landing-site-economic-v2",
     type: "port",
     name: { de: "Fischereihafen Kabonga", hu: "Kabonga halászkikötő", ro: "Portul de pescuit Kabonga", en: "Kabonga Fishing Port" },
-    coordinates: { lat: -4.3164, lng: 29.7548 },
+    coords: [29.7548, -4.3164],
     description: {
       de: "Ein strategischer Anlegeplatz am Südufer des Tanganjikasees nahe der tansanischen Grenze. Er ist ein Zentrum für den regionalen Fischhandel.",
       hu: "Stratégiai kikötőhely a Tanganyika-tó déli partján, a tanzániai határ közelében. A regionális halkereskedelem egyik fő központja.",
@@ -996,7 +996,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     id: "burundi-buhinga-logistics-zone-economic-v2",
     type: "industry",
     name: { de: "Logistikzone Buhinga", hu: "Buhinga logisztikai zóna", ro: "Zona logistică Buhinga", en: "Buhinga Logistics Zone" },
-    coordinates: { lat: -3.4354, lng: 29.9152 },
+    coords: [29.9152, -3.4354],
     description: {
       de: "Diese aufstrebende Wirtschaftszone in der neuen Hauptstadt Gitega konzentriert sich auf Leichtindustrie und Logistik. Sie entlastet Bujumbura.",
       hu: "Ez a felemelkedő gazdasági övezet az új fővárosban, Gitegában található, és a könnyűiparra összpontosít. Segíti a gazdaság decentralizálását.",

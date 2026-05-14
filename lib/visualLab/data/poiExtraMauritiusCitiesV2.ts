@@ -5,7 +5,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-port-louis-cities-v2",
     type: "capital",
     name: { de: "Port Louis", hu: "Port Louis", ro: "Port Louis", en: "Port Louis" },
-    coordinates: { lat: -20.1611, lng: 57.505 },
+    coords: [57.505, -20.1611],
     description: {
       de: "Port Louis ist die Hauptstadt von Mauritius und das wirtschaftliche Zentrum des Landes. Die Stadt wurde 1735 von den Franzosen als wichtiger Hafen gegründet.",
       hu: "Port Louis Mauritius fővárosa és az ország gazdasági központja. A várost 1735-ben alapították a franciák mint fontos kikötőt.",
@@ -24,7 +24,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-beau-bassin-cities-v2",
     type: "town",
     name: { de: "Beau Bassin", hu: "Beau Bassin", ro: "Beau Bassin", en: "Beau Bassin" },
-    coordinates: { lat: -20.2225, lng: 57.4731 },
+    coords: [57.4731, -20.2225],
     description: {
       de: "Beau Bassin ist Teil der größeren städtischen Zone Beau Bassin-Rose Hill im Zentrum der Insel. Die Stadt ist für ihr angenehmes Klima und Wohnviertel bekannt.",
       hu: "Beau Bassin a sziget központjában található Beau Bassin-Rose Hill nagyobb városi övezetének része. A város kellemes klímájáról ismert.",
@@ -43,7 +43,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-rose-hill-cities-v2",
     type: "town",
     name: { de: "Rose Hill", hu: "Rose Hill", ro: "Rose Hill", en: "Rose Hill" },
-    coordinates: { lat: -20.2431, lng: 57.4772 },
+    coords: [57.4772, -20.2431],
     description: {
       de: "Rose Hill ist ein bedeutendes Einkaufs- und Kulturzentrum in Mauritius. Es bildet zusammen mit Beau Bassin eine der bevölkerungsreichsten Kommunen.",
       hu: "Rose Hill Mauritius egyik jelentős bevásárló- és kulturális központja. Beau Bassinnal együtt az egyik legnépesebb önkormányzatot alkotja.",
@@ -62,7 +62,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-vacoas-cities-v2",
     type: "town",
     name: { de: "Vacoas", hu: "Vacoas", ro: "Vacoas", en: "Vacoas" },
-    coordinates: { lat: -20.2975, lng: 57.4764 },
+    coords: [57.4764, -20.2975],
     description: {
       de: "Vacoas liegt im Herzen der Insel und ist für seine kühleren Temperaturen bekannt. Es ist Teil der Zwillingsstadt Vacoas-Phoenix.",
       hu: "Vacoas a sziget szívében fekszik, és hűvösebb hőmérsékletéről ismert. Vacoas-Phoenix ikerváros részét képezi.",
@@ -81,7 +81,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-curepipe-cities-v2",
     type: "town",
     name: { de: "Curepipe", hu: "Curepipe", ro: "Curepipe", en: "Curepipe" },
-    coordinates: { lat: -20.3167, lng: 57.5167 },
+    coords: [57.5167, -20.3167],
     description: {
       de: "Curepipe, auch bekannt als 'La Ville Lumière', ist die höchstgelegene Stadt auf Mauritius. Sie ist berühmt für ihr kühles Klima und den Vulkankrater Trou aux Cerfs.",
       hu: "Curepipe, más néven 'La Ville Lumière', Mauritius legmagasabban fekvő városa. Hűvös klímájáról és a Trou aux Cerfs vulkáni kráterről híres.",
@@ -100,7 +100,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-triolet-town-cities-v2",
     type: "village",
     name: { de: "Triolet", hu: "Triolet", ro: "Triolet", en: "Triolet" },
-    coordinates: { lat: -20.05, lng: 57.55 },
+    coords: [57.55, -20.05],
     description: {
       de: "Triolet ist eines der längsten Dörfer der Insel und liegt im Norden von Mauritius. Es beherbergt den größten Hindu-Tempel des Landes.",
       hu: "Triolet a sziget egyik leghosszabb faluja Mauritius északi részén. Itt található az ország legnagyobb hindu temploma.",
@@ -119,7 +119,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-goodlands-town-cities-v2",
     type: "village",
     name: { de: "Goodlands", hu: "Goodlands", ro: "Goodlands", en: "Goodlands" },
-    coordinates: { lat: -20.0333, lng: 57.65 },
+    coords: [57.65, -20.0333],
     description: {
       de: "Goodlands ist ein geschäftiges Dorf im Norden von Mauritius, das als wichtiges Wirtschaftszentrum der Region dient. Es ist bekannt für seine Märkte und Geschäfte.",
       hu: "Goodlands egy nyüzsgő falu Mauritius északi részén, amely a régió fontos gazdasági központjaként szolgál. Piacairól és üzleteiről ismert.",
@@ -138,7 +138,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-centre-de-flacq-cities-v2",
     type: "village",
     name: { de: "Centre de Flacq", hu: "Centre de Flacq", ro: "Centre de Flacq", en: "Centre de Flacq" },
-    coordinates: { lat: -20.1833, lng: 57.7167 },
+    coords: [57.7167, -20.1833],
     description: {
       de: "Centre de Flacq ist der Hauptort des Distrikts Flacq im Osten der Insel. Es ist berühmt für seinen großen Freiluftmarkt, der Besucher aus der ganzen Region anzieht.",
       hu: "Centre de Flacq a sziget keleti részén található Flacq kerület központja. Híres szabadtéri piacáról, amely az egész régióból vonzza a látogatókat.",
@@ -157,7 +157,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bel-air-riviere-seche-cities-v2",
     type: "village",
     name: { de: "Bel Air Rivière Sèche", hu: "Bel Air Rivière Sèche", ro: "Bel Air Rivière Sèche", en: "Bel Air Rivière Sèche" },
-    coordinates: { lat: -20.245, lng: 57.755 },
+    coords: [57.755, -20.245],
     description: {
       de: "Bel Air Rivière Sèche ist ein großes Dorf im Osten von Mauritius. Es ist ein wichtiges lokales Verwaltungs- und Handelszentrum im Distrikt Flacq.",
       hu: "Bel Air Rivière Sèche egy nagy falu Mauritius keleti részén. Fontos helyi közigazgatási és kereskedelmi központ Flacq kerületben.",
@@ -176,7 +176,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-mahebourg-cities-v2",
     type: "town",
     name: { de: "Mahébourg", hu: "Mahébourg", ro: "Mahébourg", en: "Mahébourg" },
-    coordinates: { lat: -20.4083, lng: 57.7083 },
+    coords: [57.7083, -20.4083],
     description: {
       de: "Mahébourg ist eine historische Küstenstadt im Südosten der Insel. Sie war die erste Hauptstadt von Mauritius während der französischen Kolonialzeit.",
       hu: "Mahébourg egy történelmi tengerparti város a sziget délkeleti részén. Mauritius első fővárosa volt a francia gyarmati időkben.",
@@ -195,7 +195,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-saint-pierre-cities-v2",
     type: "village",
     name: { de: "Saint Pierre", hu: "Saint Pierre", ro: "Saint Pierre", en: "Saint Pierre" },
-    coordinates: { lat: -20.2167, lng: 57.55 },
+    coords: [57.55, -20.2167],
     description: {
       de: "Saint Pierre ist ein zentral gelegenes Dorf im Moka Distrikt. Es hat sich von einer landwirtschaftlichen Siedlung zu einem modernen Geschäftszentrum entwickelt.",
       hu: "Saint Pierre egy központi fekvésű falu a Moka kerületben. Mezőgazdasági településből modern üzleti központtá fejlődött.",
@@ -214,7 +214,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-le-hochet-cities-v2",
     type: "village",
     name: { de: "Le Hochet", hu: "Le Hochet", ro: "Le Hochet", en: "Le Hochet" },
-    coordinates: { lat: -20.1333, lng: 57.5167 },
+    coords: [57.5167, -20.1333],
     description: {
       de: "Le Hochet ist ein dicht besiedeltes Dorf im Distrikt Pamplemousses, direkt nördlich der Hauptstadt Port Louis. Es dient hauptsächlich als Wohngebiet.",
       hu: "Le Hochet egy sűrűn lakott falu Pamplemousses kerületben, közvetlenül Port Louistól északra. Elsősorban lakóövezetként szolgál.",
@@ -233,7 +233,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-baie-du-tombeau-town-cities-v2",
     type: "village",
     name: { de: "Baie du Tombeau", hu: "Baie du Tombeau", ro: "Baie du Tombeau", en: "Baie du Tombeau" },
-    coordinates: { lat: -20.1167, lng: 57.4833 },
+    coords: [57.4833, -20.1167],
     description: {
       de: "Baie du Tombeau liegt an der Nordwestküste und ist eine Mischung aus Wohngebiet und Industriezone. Der Name erinnert an Schiffswracks in der Bucht.",
       hu: "Baie du Tombeau az északnyugati parton fekszik, lakóövezet és ipari zóna keveréke. Neve az öbölben történt hajótörésekre emlékeztet.",
@@ -252,7 +252,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bambous-cities-v2",
     type: "village",
     name: { de: "Bambous", hu: "Bambous", ro: "Bambous", en: "Bambous" },
-    coordinates: { lat: -20.25, lng: 57.4 },
+    coords: [57.4, -20.25],
     description: {
       de: "Bambous ist der Verwaltungssitz des Distrikts Rivière Noire im Westen der Insel. Das Dorf liegt zwischen Bergen und der Westküste.",
       hu: "Bambous a Rivière Noire kerület közigazgatási székhelye a sziget nyugati részén. A falu a hegyek és a nyugati part között fekszik.",
@@ -271,7 +271,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-rose-belle-cities-v2",
     type: "village",
     name: { de: "Rose Belle", hu: "Rose Belle", ro: "Rose Belle", en: "Rose Belle" },
-    coordinates: { lat: -20.4, lng: 57.6 },
+    coords: [57.6, -20.4],
     description: {
       de: "Rose Belle ist ein wichtiger Verkehrsknotenpunkt und Handelsort im Südosten von Mauritius. Es beherbergt eines der größten Krankenhäuser des Landes.",
       hu: "Rose Belle egy fontos közlekedési csomópont és kereskedelmi helyszín Mauritius délkeleti részén. Itt található az ország egyik legnagyobb kórháza.",
@@ -290,7 +290,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-chemin-grenier-cities-v2",
     type: "village",
     name: { de: "Chemin Grenier", hu: "Chemin Grenier", ro: "Chemin Grenier", en: "Chemin Grenier" },
-    coordinates: { lat: -20.4833, lng: 57.4667 },
+    coords: [57.4667, -20.4833],
     description: {
       de: "Chemin Grenier ist ein großes Dorf im Süden von Mauritius. Es dient als wichtiges Handelszentrum für die ländlichen Küstengemeinden der Region.",
       hu: "Chemin Grenier egy nagy falu Mauritius déli részén. Fontos kereskedelmi központként szolgál a régió vidéki part menti közösségei számára.",
@@ -309,7 +309,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-riviere-du-rempart-cities-v2",
     type: "village",
     name: { de: "Rivière du Rempart", hu: "Rivière du Rempart", ro: "Rivière du Rempart", en: "Rivière du Rempart" },
-    coordinates: { lat: -20.1, lng: 57.6833 },
+    coords: [57.6833, -20.1],
     description: {
       de: "Rivière du Rempart ist der Hauptort des gleichnamigen Distrikts im Nordosten. Es ist eine ländliche Stadt mit starker Anbindung an die Zuckerindustrie.",
       hu: "Rivière du Rempart az azonos nevű északkeleti kerület központja. Vidéki város, amely erős szálakkal kötődik a cukoriparhoz.",
@@ -328,7 +328,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-grand-baie-cities-v2",
     type: "town",
     name: { de: "Grand Baie", hu: "Grand Baie", ro: "Grand Baie", en: "Grand Baie" },
-    coordinates: { lat: -20.0167, lng: 57.5833 },
+    coords: [57.5833, -20.0167],
     description: {
       de: "Grand Baie ist das touristische Zentrum im Norden von Mauritius. Es ist bekannt für seine Strände, das Nachtleben und erstklassige Einkaufsmöglichkeiten.",
       hu: "Grand Baie Mauritius északi részének turisztikai központja. Strandjairól, éjszakai életéről és kiváló vásárlási lehetőségeiről ismert.",
@@ -347,7 +347,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-plaine-magnien-cities-v2",
     type: "village",
     name: { de: "Plaine Magnien", hu: "Plaine Magnien", ro: "Plaine Magnien", en: "Plaine Magnien" },
-    coordinates: { lat: -20.4333, lng: 57.6667 },
+    coords: [57.6667, -20.4333],
     description: {
       de: "Plaine Magnien ist ein Dorf im Südosten, das hauptsächlich für die Beherbergung des internationalen Flughafens von Mauritius bekannt ist.",
       hu: "Plaine Magnien egy falu délkeleten, amely leginkább arról ismert, hogy itt található Mauritius nemzetközi repülőtere.",
@@ -366,7 +366,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pailles-cities-v2",
     type: "village",
     name: { de: "Pailles", hu: "Pailles", ro: "Pailles", en: "Pailles" },
-    coordinates: { lat: -20.1833, lng: 57.4833 },
+    coords: [57.4833, -20.1833],
     description: {
       de: "Pailles ist ein Vorort am südlichen Eingang der Hauptstadt Port Louis. Es ist bekannt für seine Mischung aus Industrie und historischen Domänen.",
       hu: "Pailles egy előváros a főváros, Port Louis déli bejáratánál. Az ipar és a történelmi birtokok keverékéről ismert.",
@@ -385,7 +385,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-surinam-cities-v2",
     type: "village",
     name: { de: "Surinam", hu: "Surinam", ro: "Surinam", en: "Surinam" },
-    coordinates: { lat: -20.5, lng: 57.5 },
+    coords: [57.5, -20.5],
     description: {
       de: "Surinam ist ein Küstendorf im Süden von Mauritius, direkt neben Chemin Grenier. Es ist für seine ruhige Atmosphäre und seine multikulturelle Gemeinschaft bekannt.",
       hu: "Surinam egy tengerparti falu Mauritius déli részén, Chemin Grenier mellett. Nyugodt légköréről és multikulturális közösségéről ismert.",
@@ -404,7 +404,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-lallmatie-cities-v2",
     type: "village",
     name: { de: "Lallmatie", hu: "Lallmatie", ro: "Lallmatie", en: "Lallmatie" },
-    coordinates: { lat: -20.1833, lng: 57.65 },
+    coords: [57.65, -20.1833],
     description: {
       de: "Lallmatie ist ein großes Dorf im Distrikt Flacq. Es ist ein bedeutendes landwirtschaftliches Zentrum, das besonders für den Anbau von Gemüse bekannt ist.",
       hu: "Lallmatie egy nagy falu Flacq kerületben. Jelentős mezőgazdasági központ, amely különösen a zöldségtermesztéséről ismert.",
@@ -423,7 +423,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-new-grove-cities-v2",
     type: "village",
     name: { de: "New Grove", hu: "New Grove", ro: "New Grove", en: "New Grove" },
-    coordinates: { lat: -20.4, lng: 57.6167 },
+    coords: [57.6167, -20.4],
     description: {
       de: "New Grove ist ein großes Wohn- und Landwirtschaftsdorf im Distrikt Grand Port. Es liegt verkehrsgünstig an der Hauptverbindung zum Süden.",
       hu: "New Grove egy nagy lakó- és mezőgazdasági falu Grand Port kerületben. Kényelmesen, a délre vezető főút mentén fekszik.",
@@ -442,7 +442,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-riviere-des-anguilles-cities-v2",
     type: "village",
     name: { de: "Rivière des Anguilles", hu: "Rivière des Anguilles", ro: "Rivière des Anguilles", en: "Rivière des Anguilles" },
-    coordinates: { lat: -20.4833, lng: 57.5667 },
+    coords: [57.5667, -20.4833],
     description: {
       de: "Rivière des Anguilles ist ein malerisches Dorf im Süden von Mauritius. Der Name bedeutet 'Aal-Fluss' und bezieht sich auf den durchfließenden Fluss.",
       hu: "Rivière des Anguilles egy festői falu Mauritius déli részén. Neve 'angolna-folyót' jelent, a falun áthaladó folyóra utalva.",
@@ -461,7 +461,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-terre-rouge-town-cities-v2",
     type: "village",
     name: { de: "Terre Rouge", hu: "Terre Rouge", ro: "Terre Rouge", en: "Terre Rouge" },
-    coordinates: { lat: -20.1167, lng: 57.5333 },
+    coords: [57.5333, -20.1167],
     description: {
       de: "Terre Rouge ist ein lebendiges Dorf im Distrikt Pamplemousses. Es verdankt seinen Namen der charakteristischen roten Erde der Region.",
       hu: "Terre Rouge egy élettel teli falu Pamplemousses kerületben. Nevét a régió jellegzetes vörös földjéről kapta.",
@@ -480,7 +480,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-petit-raffray-cities-v2",
     type: "village",
     name: { de: "Petit Raffray", hu: "Petit Raffray", ro: "Petit Raffray", en: "Petit Raffray" },
-    coordinates: { lat: -20.0167, lng: 57.6167 },
+    coords: [57.6167, -20.0167],
     description: {
       de: "Petit Raffray ist ein wachsendes Dorf im Norden von Mauritius. Es ist bekannt für seine ruhige Atmosphäre und die Nähe zu den beliebten Stränden.",
       hu: "Petit Raffray egy fejlődő falu Mauritius északi részén. Nyugodt légköréről és a népszerű strandok közelségéről ismert.",
@@ -499,7 +499,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pamplemousses-village-cities-v2",
     type: "village",
     name: { de: "Pamplemousses", hu: "Pamplemousses", ro: "Pamplemousses", en: "Pamplemousses" },
-    coordinates: { lat: -20.1, lng: 57.5667 },
+    coords: [57.5667, -20.1],
     description: {
       de: "Pamplemousses ist ein historisches Dorf im Norden, das weltweit für seinen Botanischen Garten bekannt ist. Es hat eine tiefe koloniale Geschichte.",
       hu: "Pamplemousses egy történelmi falu északon, amely világszerte ismert botanikus kertjéről. Mély gyarmati múlttal rendelkezik.",
@@ -518,7 +518,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-montagne-blanche-cities-v2",
     type: "village",
     name: { de: "Montagne Blanche", hu: "Montagne Blanche", ro: "Montagne Blanche", en: "Montagne Blanche" },
-    coordinates: { lat: -20.2667, lng: 57.65 },
+    coords: [57.65, -20.2667],
     description: {
       de: "Montagne Blanche ist ein Dorf im Moka-Distrikt, benannt nach dem nahegelegenen Berg. Es ist ein ruhiges ländliches Gebiet mit Fokus auf Landwirtschaft.",
       hu: "Montagne Blanche egy falu Moka kerületben, a közeli hegyről kapta a nevét. Nyugodt vidéki terület, amely a mezőgazdaságra összpontosít.",
@@ -537,7 +537,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-grand-bois-cities-v2",
     type: "village",
     name: { de: "Grand Bois", hu: "Grand Bois", ro: "Grand Bois", en: "Grand Bois" },
-    coordinates: { lat: -20.4167, lng: 57.55 },
+    coords: [57.55, -20.4167],
     description: {
       de: "Grand Bois ist ein Dorf im Distrikt Savanne. Es liegt im Hochland und ist historisch mit der Forstwirtschaft und dem Zuckerrohranbau verbunden.",
       hu: "Grand Bois egy falu Savanne kerületben. A felföldön fekszik, történelmileg az erdészethez és a cukornádtermesztéshez kötődik.",
@@ -556,7 +556,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-riche-terre-village-cities-v2",
     type: "village",
     name: { de: "Riche Terre", hu: "Riche Terre", ro: "Riche Terre", en: "Riche Terre" },
-    coordinates: { lat: -20.1333, lng: 57.5 },
+    coords: [57.5, -20.1333],
     description: {
       de: "Riche Terre liegt am Stadtrand von Port Louis. Es hat sich von einem landwirtschaftlichen Dorf zu einer wichtigen Industrie- und Handelszone entwickelt.",
       hu: "Riche Terre Port Louis peremén található. Mezőgazdasági faluból fontos ipari és kereskedelmi övezetté vált.",
@@ -575,7 +575,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-quartier-militaire-cities-v2",
     type: "village",
     name: { de: "Quartier Militaire", hu: "Quartier Militaire", ro: "Quartier Militaire", en: "Quartier Militaire" },
-    coordinates: { lat: -20.25, lng: 57.6 },
+    coords: [57.6, -20.25],
     description: {
       de: "Quartier Militaire ist der Hauptort des Distrikts Moka. Es liegt im feuchten Zentrum der Insel und ist ein wichtiger regionaler Verwaltungsknotenpunkt.",
       hu: "Quartier Militaire Moka kerület központja. A sziget csapadékos középső részén fekszik, fontos regionális közigazgatási csomópont.",
@@ -594,7 +594,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-cap-malheureux-cities-v2",
     type: "village",
     name: { de: "Cap Malheureux", hu: "Cap Malheureux", ro: "Cap Malheureux", en: "Cap Malheureux" },
-    coordinates: { lat: -19.9833, lng: 57.6167 },
+    coords: [57.6167, -19.9833],
     description: {
       de: "Cap Malheureux ist ein malerisches Fischerdorf am nördlichsten Punkt der Insel. Es ist berühmt für seine Kirche mit dem leuchtend roten Dach.",
       hu: "Cap Malheureux egy festői halászfalu a sziget legészakibb pontján. Híres az élénkvörös tetős templomáról.",
@@ -613,7 +613,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-flic-en-flac-village-cities-v2",
     type: "village",
     name: { de: "Flic en Flac", hu: "Flic en Flac", ro: "Flic en Flac", en: "Flic en Flac" },
-    coordinates: { lat: -20.2833, lng: 57.3667 },
+    coords: [57.3667, -20.2833],
     description: {
       de: "Flic en Flac ist ein bedeutendes touristisches Dorf an der Westküste. Es verfügt über einen der längsten weißen Sandstrände der Insel.",
       hu: "Flic en Flac egy jelentős turisztikai falu a nyugati parton. A sziget egyik leghosszabb fehér homokos strandjával rendelkezik.",
@@ -632,7 +632,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-souillac-cities-v2",
     type: "village",
     name: { de: "Souillac", hu: "Souillac", ro: "Souillac", en: "Souillac" },
-    coordinates: { lat: -20.5167, lng: 57.5167 },
+    coords: [57.5167, -20.5167],
     description: {
       de: "Souillac ist der Hauptort des Distrikts Savanne im Süden. Das Dorf ist bekannt für seine zerklüftete Steilküste ohne schützendes Korallenriff.",
       hu: "Souillac Savanne kerület központja délen. A falu a korallzátony nélküli, sziklás partvonaláról ismert.",
@@ -651,7 +651,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-tamarin-cities-v2",
     type: "village",
     name: { de: "Tamarin", hu: "Tamarin", ro: "Tamarin", en: "Tamarin" },
-    coordinates: { lat: -20.325, lng: 57.375 },
+    coords: [57.375, -20.325],
     description: {
       de: "Tamarin ist ein Küstendorf im Westen, das für seine Salzpfannen und Delfinbeobachtungen bekannt ist. Es ist ein beliebter Ort für Surfer.",
       hu: "Tamarin egy tengerparti falu nyugaton, amely sólepárlóiról és delfinfelvonulásairól ismert. A szörfösök kedvelt helye.",
@@ -670,7 +670,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pointe-aux-piments-cities-v2",
     type: "village",
     name: { de: "Pointe aux Piments", hu: "Pointe aux Piments", ro: "Pointe aux Piments", en: "Pointe aux Piments" },
-    coordinates: { lat: -20.0667, lng: 57.5167 },
+    coords: [57.5167, -20.0667],
     description: {
       de: "Pointe aux Piments ist ein charmantes Dorf an der Nordwestküste. Es ist bekannt für seine felsige Küste und das Aquarium von Mauritius.",
       hu: "Pointe aux Piments egy bájos falu az északnyugati parton. Sziklás partvonaláról és a Mauritiusi Akváriumról ismert.",
@@ -689,7 +689,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-trou-deau-douce-cities-v2",
     type: "village",
     name: { de: "Trou d'Eau Douce", hu: "Trou d'Eau Douce", ro: "Trou d'Eau Douce", en: "Trou d'Eau Douce" },
-    coordinates: { lat: -20.2333, lng: 57.7833 },
+    coords: [57.7833, -20.2333],
     description: {
       de: "Trou d'Eau Douce ist ein malerisches Fischerdorf an der Ostküste. Es ist der wichtigste Abfahrtsort für Boote zur berühmten Insel Île aux Cerfs.",
       hu: "Trou d'Eau Douce egy festői halászfalu a keleti parton. A híres Île aux Cerfs szigetre induló hajók legfontosabb indulási pontja.",
@@ -708,7 +708,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-poste-de-flacq-cities-v2",
     type: "village",
     name: { de: "Poste de Flacq", hu: "Poste de Flacq", ro: "Poste de Flacq", en: "Poste de Flacq" },
-    coordinates: { lat: -20.15, lng: 57.7333 },
+    coords: [57.7333, -20.15],
     description: {
       de: "Poste de Flacq liegt an der Nordostküste und ist für seine exklusiven Resorts und seine religiöse Vielfalt bekannt. Es ist ein ruhiges Küstengebiet.",
       hu: "Poste de Flacq az északkeleti parton fekszik, exkluzív üdülőhelyeiről és vallási sokszínűségéről ismert. Nyugodt tengerparti terület.",
@@ -727,7 +727,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bassin-village-cities-v2",
     type: "village",
     name: { de: "Bassin", hu: "Bassin", ro: "Bassin", en: "Bassin" },
-    coordinates: { lat: -20.2833, lng: 57.45 },
+    coords: [57.45, -20.2833],
     description: {
       de: "Bassin ist ein Wohnviertel im Distrikt Plaines Wilhems, nahe Quatre Bornes. Es ist ein ruhiges Gebiet mit Blick auf die umliegenden Gebirgsketten.",
       hu: "Bassin egy lakóövezet Plaines Wilhems kerületben, Quatre Bornes közelében. Nyugodt terület, kilátással a környező hegyláncokra.",
@@ -746,7 +746,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-gros-cailloux-village-cities-v2",
     type: "village",
     name: { de: "Gros Cailloux", hu: "Gros Cailloux", ro: "Gros Cailloux", en: "Gros Cailloux" },
-    coordinates: { lat: -20.2, lng: 57.4333 },
+    coords: [57.4333, -20.2],
     description: {
       de: "Gros Cailloux ist ein ländliches Dorf im Westen der Insel. Es ist historisch für seine Landwirtschaft und heute für seine Freizeiteinrichtungen bekannt.",
       hu: "Gros Cailloux egy vidéki falu a sziget nyugati részén. Történelmileg mezőgazdaságáról, ma pedig szabadidős létesítményeiről ismert.",
@@ -765,7 +765,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-midlands-cities-v2",
     type: "village",
     name: { de: "Midlands", hu: "Midlands", ro: "Midlands", en: "Midlands" },
-    coordinates: { lat: -20.3167, lng: 57.5667 },
+    coords: [57.5667, -20.3167],
     description: {
       de: "Midlands liegt im zentralen Hochland von Mauritius. Es ist vor allem für den Midlands-Staudamm bekannt, der die Wasserversorgung der Insel unterstützt.",
       hu: "Midlands Mauritius központi felföldjén található. Leginkább a Midlands-gátról ismert, amely a sziget vízellátását segíti.",
@@ -784,7 +784,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-dubreuil-cities-v2",
     type: "village",
     name: { de: "Dubreuil", hu: "Dubreuil", ro: "Dubreuil", en: "Dubreuil" },
-    coordinates: { lat: -20.3, lng: 57.5833 },
+    coords: [57.5833, -20.3],
     description: {
       de: "Dubreuil ist ein abgelegenes Bergdorf im Zentrum von Mauritius. Es ist eines der regenreichsten Gebiete der Insel und stark landwirtschaftlich geprägt.",
       hu: "Dubreuil egy távoli hegyi falu Mauritius központjában. A sziget egyik legcsapadékosabb területe, erős mezőgazdasági jelleggel.",
@@ -803,7 +803,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-sebastopol-cities-v2",
     type: "village",
     name: { de: "Sebastopol", hu: "Sebastopol", ro: "Sebastopol", en: "Sebastopol" },
-    coordinates: { lat: -20.2833, lng: 57.6833 },
+    coords: [57.6833, -20.2833],
     description: {
       de: "Sebastopol ist ein Dorf im Distrikt Flacq. Es liegt am Fuße der Berge und ist von weiten Zuckerrohrfeldern umgeben.",
       hu: "Sebastopol egy falu Flacq kerületben. A hegyek lábánál fekszik, és hatalmas cukornádültetvények veszik körül.",
@@ -822,7 +822,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-ecroignard-cities-v2",
     type: "village",
     name: { de: "Ecroignard", hu: "Ecroignard", ro: "Ecroignard", en: "Ecroignard" },
-    coordinates: { lat: -20.2167, lng: 57.7333 },
+    coords: [57.7333, -20.2167],
     description: {
       de: "Ecroignard ist ein kleines ländliches Dorf im Osten von Mauritius. Es ist bekannt für seinen Fokus auf die Landwirtschaft und die enge Gemeinschaft.",
       hu: "Ecroignard egy kis vidéki falu Mauritius keleti részén. Mezőgazdasági fókuszáról és szoros közösségéről ismert.",
@@ -841,7 +841,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-camp-ithier-cities-v2",
     type: "village",
     name: { de: "Camp Ithier", hu: "Camp Ithier", ro: "Camp Ithier", en: "Camp Ithier" },
-    coordinates: { lat: -20.2, lng: 57.75 },
+    coords: [57.75, -20.2],
     description: {
       de: "Camp Ithier ist ein Dorf im Osten von Mauritius, im Distrikt Flacq. Es ist ein typisches mauritisches Dorf mit Fokus auf Landwirtschaft.",
       hu: "Camp Ithier egy falu Mauritius keleti részén, Flacq kerületben. Tipikus mauritiusi falu, amely a mezőgazdaságra összpontosít.",
@@ -860,7 +860,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bon-accueil-cities-v2",
     type: "village",
     name: { de: "Bon Accueil", hu: "Bon Accueil", ro: "Bon Accueil", en: "Bon Accueil" },
-    coordinates: { lat: -20.15, lng: 57.6833 },
+    coords: [57.6833, -20.15],
     description: {
       de: "Bon Accueil ist ein großes Dorf im Distrikt Flacq. Der Name bedeutet 'Herzliches Willkommen' und spiegelt die lokale Gastfreundschaft wider.",
       hu: "Bon Accueil egy nagy falu Flacq kerületben. A neve 'szíves fogadtatást' jelent, ami a helyi vendégszeretetet tükrözi.",
@@ -879,7 +879,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-laventure-cities-v2",
     type: "village",
     name: { de: "Laventure", hu: "Laventure", ro: "Laventure", en: "Laventure" },
-    coordinates: { lat: -20.1333, lng: 57.6667 },
+    coords: [57.6667, -20.1333],
     description: {
       de: "Laventure ist ein ländliches Dorf im Nordosten von Mauritius. Es ist bekannt für seine ruhige Lage abseits der Hauptverkehrswege.",
       hu: "Laventure egy vidéki falu Mauritius északkeleti részén. Csendes fekvéséről ismert, távol a főbb közlekedési utaktól.",
@@ -898,7 +898,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-brisee-verdiere-cities-v2",
     type: "village",
     name: { de: "Brisée Verdière", hu: "Brisée Verdière", ro: "Brisée Verdière", en: "Brisée Verdière" },
-    coordinates: { lat: -20.15, lng: 57.65 },
+    coords: [57.65, -20.15],
     description: {
       de: "Brisée Verdière ist ein geschäftiges Dorf im Distrikt Flacq. Es dient als lokales Handelszentrum für die umliegenden Siedlungen.",
       hu: "Brisée Verdière egy nyüzsgő falu Flacq kerületben. Helyi kereskedelmi központként szolgál a környező települések számára.",
@@ -917,7 +917,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-chamouny-cities-v2",
     type: "village",
     name: { de: "Chamouny", hu: "Chamouny", ro: "Chamouny", en: "Chamouny" },
-    coordinates: { lat: -20.4667, lng: 57.4833 },
+    coords: [57.4833, -20.4667],
     description: {
       de: "Chamouny ist ein Binnendorf im Distrikt Savanne. Es liegt malerisch zwischen Bergen und ist Ausgangspunkt für Naturerkundungen.",
       hu: "Chamouny egy szárazföldi falu Savanne kerületben. Festői hegyek között fekszik, és a természetjárás kiindulópontja.",
@@ -936,7 +936,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-baie-du-cap-cities-v2",
     type: "village",
     name: { de: "Baie du Cap", hu: "Baie du Cap", ro: "Baie du Cap", en: "Baie du Cap" },
-    coordinates: { lat: -20.4833, lng: 57.3833 },
+    coords: [57.3833, -20.4833],
     description: {
       de: "Baie du Cap ist ein idyllisches Küstendorf an der Südwestspitze der Insel. Es ist bekannt für seine berühmte Haarnadelkurve an der Küstenstraße.",
       hu: "Baie du Cap egy idilli tengerparti falu a sziget délnyugati csücskén. Híres a part menti út hajtűkanyarjáról.",
@@ -955,7 +955,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-le-morne-village-cities-v2",
     type: "village",
     name: { de: "Le Morne Village", hu: "Le Morne Village", ro: "Le Morne Village", en: "Le Morne Village" },
-    coordinates: { lat: -20.45, lng: 57.3333 },
+    coords: [57.3333, -20.45],
     description: {
       de: "Le Morne Village liegt am Fuße des majestätischen Berges Le Morne Brabant. Das Dorf ist eng mit der Geschichte der ehemaligen Sklaven verbunden.",
       hu: "Le Morne falu a fenséges Le Morne Brabant hegy lábánál fekszik. A falu szorosan kötődik az egykori rabszolgák történetéhez.",
@@ -974,7 +974,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-la-gaulette-cities-v2",
     type: "village",
     name: { de: "La Gaulette", hu: "La Gaulette", ro: "La Gaulette", en: "La Gaulette" },
-    coordinates: { lat: -20.4167, lng: 57.35 },
+    coords: [57.35, -20.4167],
     description: {
       de: "La Gaulette ist ein Fischerdorf im Südwesten, das bei Windsurfern und Kitesurfern sehr beliebt ist. Es bietet eine gute Infrastruktur für Touristen.",
       hu: "La Gaulette egy halászfalu délnyugaton, amely nagyon népszerű a szörfösök és a kiteszörfösök körében. Jó infrastruktúrával rendelkezik.",
@@ -993,7 +993,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-case-noyale-cities-v2",
     type: "village",
     name: { de: "Case Noyale", hu: "Case Noyale", ro: "Case Noyale", en: "Case Noyale" },
-    coordinates: { lat: -20.4, lng: 57.35 },
+    coords: [57.35, -20.4],
     description: {
       de: "Case Noyale ist ein kleines, authentisches Küstendorf im Westen von Mauritius. Es liegt am Fuße der Berge des Black River Gorges Nationalparks.",
       hu: "Case Noyale egy kis, autentikus tengerparti falu Mauritius nyugati részén. A Fekete-folyó-szurdok Nemzeti Park hegyeinek lábánál fekszik.",
@@ -1012,7 +1012,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-grande-riviere-noire-cities-v2",
     type: "village",
     name: { de: "Grande Rivière Noire", hu: "Grande Rivière Noire", ro: "Grande Rivière Noire", en: "Grande Rivière Noire" },
-    coordinates: { lat: -20.3667, lng: 57.3667 },
+    coords: [57.3667, -20.3667],
     description: {
       de: "Grande Rivière Noire ist der Sitz des Distrikts Rivière Noire. Es ist ein exklusives Wohngebiet mit vielen Luxusvillen und Yachthäfen.",
       hu: "Grande Rivière Noire a Rivière Noire kerület székhelye. Exkluzív lakóövezet számos luxusvillával és jachtkikötővel.",
@@ -1031,7 +1031,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-petite-riviere-cities-v2",
     type: "village",
     name: { de: "Petite Rivière", hu: "Petite Rivière", ro: "Petite Rivière", en: "Petite Rivière" },
-    coordinates: { lat: -20.1833, lng: 57.45 },
+    coords: [57.45, -20.1833],
     description: {
       de: "Petite Rivière ist ein Wohn- und Industriegebiet westlich von Port Louis. Es ist ein wichtiger Durchgangsort an der Westküstenstraße.",
       hu: "Petite Rivière egy lakó- és ipari terület Port Louistól nyugatra. Fontos átmenő helyszín a nyugati parti úton.",
@@ -1050,7 +1050,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-grand-gaube-cities-v2",
     type: "village",
     name: { de: "Grand Gaube", hu: "Grand Gaube", ro: "Grand Gaube", en: "Grand Gaube" },
-    coordinates: { lat: -20, lng: 57.6667 },
+    coords: [57.6667, -20],
     description: {
       de: "Grand Gaube ist ein ruhiges Fischerdorf an der Nordostküste. Es ist bekannt für den Bau traditioneller mauritischer Fischerboote, der 'Pirogen'.",
       hu: "Grand Gaube egy csendes halászfalu az északkeleti parton. Híres a hagyományos mauritiusi halászcsónakok, a pirogok építéséről.",
@@ -1069,7 +1069,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-roches-noires-cities-v2",
     type: "village",
     name: { de: "Roches Noires", hu: "Roches Noires", ro: "Roches Noires", en: "Roches Noires" },
-    coordinates: { lat: -20.1083, lng: 57.7125 },
+    coords: [57.7125, -20.1083],
     description: {
       de: "Roches Noires ist für seine raue, schwarze Lavaküste und exklusive Sommerresidenzen bekannt. Es ist ein windiges Gebiet an der Nordostküste.",
       hu: "Roches Noires durva, fekete lávapartjáról és exkluzív nyári rezidenciáiról ismert. Szeles terület az északkeleti parton.",
@@ -1088,7 +1088,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-poudre-dor-cities-v2",
     type: "village",
     name: { de: "Poudre d'Or", hu: "Poudre d'Or", ro: "Poudre d'Or", en: "Poudre d'Or" },
-    coordinates: { lat: -20.0667, lng: 57.6833 },
+    coords: [57.6833, -20.0667],
     description: {
       de: "Poudre d'Or ist ein ruhiges Dorf an der Nordostküste. Der Name bedeutet 'Goldstaub' und bezieht sich auf den feinen hellen Sand der Region.",
       hu: "Poudre d'Or egy csendes falu az északkeleti parton. Neve 'aranyport' jelent, a régió finom, világos homokjára utalva.",
@@ -1107,7 +1107,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-plaine-des-papayes-cities-v2",
     type: "village",
     name: { de: "Plaine des Papayes", hu: "Plaine des Papayes", ro: "Plaine des Papayes", en: "Plaine des Papayes" },
-    coordinates: { lat: -20.0667, lng: 57.5833 },
+    coords: [57.5833, -20.0667],
     description: {
       de: "Plaine des Papayes ist ein landwirtschaftliches Dorf im Distrikt Pamplemousses. Es liegt inmitten von weiten Ebenen, die für den Anbau genutzt werden.",
       hu: "Plaine des Papayes egy mezőgazdasági falu Pamplemousses kerületben. Mezőgazdasági művelésre használt hatalmas síkságok közepén fekszik.",
@@ -1126,7 +1126,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-mapou-cities-v2",
     type: "village",
     name: { de: "Mapou", hu: "Mapou", ro: "Mapou", en: "Mapou" },
-    coordinates: { lat: -20.0667, lng: 57.6 },
+    coords: [57.6, -20.0667],
     description: {
       de: "Mapou ist ein geschichtsträchtiges Dorf im Norden von Mauritius. Es beherbergt mehrere gut erhaltene koloniale Anwesen und Gartenanlagen.",
       hu: "Mapou egy történelmi falu Mauritius északi részén. Számos jól megőrzött gyarmati birtoknak és kertnek ad otthont.",
@@ -1145,7 +1145,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-fond-du-sac-cities-v2",
     type: "village",
     name: { de: "Fond du Sac", hu: "Fond du Sac", ro: "Fond du Sac", en: "Fond du Sac" },
-    coordinates: { lat: -20.05, lng: 57.5833 },
+    coords: [57.5833, -20.05],
     description: {
       de: "Fond du Sac ist ein Dorf im Norden von Mauritius. Es liegt in einer flachen Ebene und ist vor allem für seine ländliche Wohnstruktur bekannt.",
       hu: "Fond du Sac egy falu Mauritius északi részén. Sík területen fekszik, és leginkább vidéki lakókörnyezetéről ismert.",
@@ -1164,7 +1164,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-mont-choisy-cities-v2",
     type: "village",
     name: { de: "Mont Choisy", hu: "Mont Choisy", ro: "Mont Choisy", en: "Mont Choisy" },
-    coordinates: { lat: -20.0167, lng: 57.55 },
+    coords: [57.55, -20.0167],
     description: {
       de: "Mont Choisy ist für seinen kilometerlangen, bogenförmigen Sandstrand bekannt. Es ist ein aufstrebendes touristisches Gebiet im Norden.",
       hu: "Mont Choisy kilométer hosszú, íves homokos strandjáról ismert. Feltörekvő turisztikai terület északon.",
@@ -1183,7 +1183,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-trou-aux-biches-cities-v2",
     type: "village",
     name: { de: "Trou aux Biches", hu: "Trou aux Biches", ro: "Trou aux Biches", en: "Trou aux Biches" },
-    coordinates: { lat: -20.0333, lng: 57.5333 },
+    coords: [57.5333, -20.0333],
     description: {
       de: "Trou aux Biches ist ein exklusives Küstendorf im Nordwesten. Es ist weltberühmt für seinen weißen Sandstrand und erstklassige Tauchgründe.",
       hu: "Trou aux Biches egy exkluzív tengerparti falu északnyugaton. Világhírű fehér homokos strandjáról és kiváló merülőhelyeiről.",
@@ -1202,7 +1202,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pereybere-cities-v2",
     type: "village",
     name: { de: "Pereybere", hu: "Pereybere", ro: "Pereybere", en: "Pereybere" },
-    coordinates: { lat: -19.9833, lng: 57.5833 },
+    coords: [57.5833, -19.9833],
     description: {
       de: "Pereybere ist ein lebhaftes Touristendorf nördlich von Grand Baie. Seine kleine Bucht gilt als einer der besten Badeplätze der Insel.",
       hu: "Pereybere egy nyüzsgő turisztikai falu Grand Baie-től északra. Kis öble a sziget egyik legjobb fürdőhelyének számít.",
@@ -1221,7 +1221,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-madrague-cities-v2",
     type: "village",
     name: { de: "Madrague", hu: "Madrague", ro: "Madrague", en: "Madrague" },
-    coordinates: { lat: -20.4, lng: 57.3667 },
+    coords: [57.3667, -20.4],
     description: {
       de: "Madrague ist ein kleiner Küstenort im Südwesten von Mauritius, nahe Bel Ombre. Er ist für seine unberührte Natur und die felsige Küste bekannt.",
       hu: "Madrague egy kis tengerparti település Mauritius délnyugati részén, Bel Ombre közelében. Érintetlen természetéről és sziklás partjáról ismert.",
@@ -1240,7 +1240,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-la-flora-cities-v2",
     type: "village",
     name: { de: "La Flora", hu: "La Flora", ro: "La Flora", en: "La Flora" },
-    coordinates: { lat: -20.3833, lng: 57.5667 },
+    coords: [57.5667, -20.3833],
     description: {
       de: "La Flora ist ein Bergdorf im Distrikt Savanne. Es liegt im kühleren Hochland und ist von ausgedehnten Teeplantagen umgeben.",
       hu: "La Flora egy hegyi falu Savanne kerületben. A hűvösebb felföldön fekszik, és kiterjedt teaültetvények veszik körül.",
@@ -1259,7 +1259,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bois-cheri-village-cities-v2",
     type: "village",
     name: { de: "Bois Chéri", hu: "Bois Chéri", ro: "Bois Chéri", en: "Bois Chéri" },
-    coordinates: { lat: -20.4, lng: 57.5333 },
+    coords: [57.5333, -20.4],
     description: {
       de: "Bois Chéri ist die Wiege des mauritischen Tees. Das Dorf beherbergt die älteste Teeplantage und Fabrik des Landes aus dem Jahr 1892.",
       hu: "Bois Chéri a mauritiusi tea bölcsője. A faluban található az ország legrégebbi, 1892-ből származó teaültetvénye és gyára.",
@@ -1278,7 +1278,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-britannia-cities-v2",
     type: "village",
     name: { de: "Britannia", hu: "Britannia", ro: "Britannia", en: "Britannia" },
-    coordinates: { lat: -20.4167, lng: 57.5667 },
+    coords: [57.5667, -20.4167],
     description: {
       de: "Britannia ist ein historisches Dorf im Süden von Mauritius. Es ist eng mit der ehemaligen Zuckerfabrik Britannia verbunden, die einst das Dorf dominierte.",
       hu: "Britannia egy történelmi falu Mauritius déli részén. Szorosan kötődik az egykori Britannia cukorgyárhoz, amely egykor uralta a falut.",
@@ -1297,7 +1297,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bois-des-amourettes-cities-v2",
     type: "village",
     name: { de: "Bois des Amourettes", hu: "Bois des Amourettes", ro: "Bois des Amourettes", en: "Bois des Amourettes" },
-    coordinates: { lat: -20.3667, lng: 57.7167 },
+    coords: [57.7167, -20.3667],
     description: {
       de: "Bois des Amourettes ist ein charmantes Küstendorf an der Bucht von Grand Port. Es ist bekannt für seine Ruhe und den historischen Landungssteg.",
       hu: "Bois des Amourettes egy bájos tengerparti falu a Grand Port-öbölben. Nyugalmáról és történelmi mólójáról ismert.",
@@ -1316,7 +1316,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-plaines-des-roches-cities-v2",
     type: "village",
     name: { de: "Plaines des Roches", hu: "Plaines des Roches", ro: "Plaines des Roches", en: "Plaines des Roches" },
-    coordinates: { lat: -20.1167, lng: 57.6667 },
+    coords: [57.6667, -20.1167],
     description: {
       de: "Plaines des Roches ist ein ländliches Dorf im Nordosten. Es ist für seine felsigen Böden und die Lavaströme bekannt, die die Landschaft prägen.",
       hu: "Plaines des Roches egy vidéki falu északkeleten. Sziklás talajáról és a tájat meghatározó lávafolyamokról ismert.",
@@ -1335,7 +1335,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-medine-camp-de-masque-cities-v2",
     type: "village",
     name: { de: "Médine Camp de Masque", hu: "Médine Camp de Masque", ro: "Médine Camp de Masque", en: "Médine Camp de Masque" },
-    coordinates: { lat: -20.2333, lng: 57.6667 },
+    coords: [57.6667, -20.2333],
     description: {
       de: "Médine Camp de Masque ist ein großes Binnendorf im Osten von Mauritius. Es ist ein wichtiger Standort für den Anbau von Gemüse und Zuckerrohr.",
       hu: "Médine Camp de Masque egy nagy szárazföldi falu Mauritius keleti részén. A zöldség- és cukornádtermesztés fontos helyszíne.",
@@ -1354,7 +1354,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-creve-coeur-cities-v2",
     type: "village",
     name: { de: "Crève Coeur", hu: "Crève Coeur", ro: "Crève Coeur", en: "Crève Coeur" },
-    coordinates: { lat: -20.1833, lng: 57.5333 },
+    coords: [57.5333, -20.1833],
     description: {
       de: "Crève Coeur ist ein malerisches Bergdorf am Fuße des Pieter Both Berges. Es ist berühmt für seinen intensiven Anbau von Ingwer und Ananas.",
       hu: "Crève Coeur egy festői hegyi falu a Pieter Both hegy lábánál. Híres az intenzív gyömbér- és ananásztermesztéséről.",
@@ -1373,7 +1373,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-petiti-verger-cities-v2",
     type: "village",
     name: { de: "Petit Verger", hu: "Petit Verger", ro: "Petit Verger", en: "Petit Verger" },
-    coordinates: { lat: -20.2, lng: 57.5167 },
+    coords: [57.5167, -20.2],
     description: {
       de: "Petit Verger ist ein kleines Wohngebiet im Moka-Distrikt. Es hat seinen dörflichen Charakter trotz der Nähe zu städtischen Gebieten bewahrt.",
       hu: "Petit Verger egy kis lakóövezet Moka kerületben. Megőrizte falusias jellegét a városi területek közelsége ellenére.",
@@ -1392,7 +1392,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-mont-idat-cities-v2",
     type: "village",
     name: { de: "Mont Ida", hu: "Mont Ida", ro: "Mont Ida", en: "Mont Ida" },
-    coordinates: { lat: -20.2167, lng: 57.6333 },
+    coords: [57.6333, -20.2167],
     description: {
       de: "Mont Ida ist ein ruhiges Dorf im Distrikt Flacq. Es liegt am Fuße der zentralen Bergkette und ist stark landwirtschaftlich geprägt.",
       hu: "Mont Ida egy csendes falu Flacq kerületben. A központi hegylánc lábánál fekszik, és erős mezőgazdasági jelleggel bír.",
@@ -1411,7 +1411,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-melrose-cities-v2",
     type: "village",
     name: { de: "Melrose", hu: "Melrose", ro: "Melrose", en: "Melrose" },
-    coordinates: { lat: -20.25, lng: 57.6333 },
+    coords: [57.6333, -20.25],
     description: {
       de: "Melrose ist ein Binnendorf im Distrikt Moka. Es beherbergt eines der modernsten Hochsicherheitsgefängnisse von Mauritius.",
       hu: "Melrose egy szárazföldi falu Moka kerületben. Itt található Mauritius egyik legmodernebb fegyháza.",
@@ -1430,7 +1430,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-cluny-cities-v2",
     type: "village",
     name: { de: "Cluny", hu: "Cluny", ro: "Cluny", en: "Cluny" },
-    coordinates: { lat: -20.3667, lng: 57.6167 },
+    coords: [57.6167, -20.3667],
     description: {
       de: "Cluny ist ein kleines Dorf im Distrikt Grand Port. Es liegt inmitten einer waldreichen Berglandschaft und ist für seine Ruhe bekannt.",
       hu: "Cluny egy kis falu Grand Port kerületben. Erdős hegyi táj közepén fekszik, és nyugalmáról ismert.",
@@ -1449,7 +1449,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-bananes-cities-v2",
     type: "village",
     name: { de: "Bananes", hu: "Bananes", ro: "Bananes", en: "Bananes" },
-    coordinates: { lat: -20.3333, lng: 57.5833 },
+    coords: [57.5833, -20.3333],
     description: {
       de: "Bananes ist ein kleines, abgelegenes Dorf im zentralen Mauritius. Es verdankt seinen Namen den Bananenplantagen, die das Gebiet einst prägten.",
       hu: "Bananes egy kis, távoli falu Mauritius középső részén. Nevét a banánültetvényekről kapta, amelyek egykor jellemezték a területet.",
@@ -1468,7 +1468,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-le-val-cities-v2",
     type: "village",
     name: { de: "Le Val", hu: "Le Val", ro: "Le Val", en: "Le Val" },
-    coordinates: { lat: -20.35, lng: 57.65 },
+    coords: [57.65, -20.35],
     description: {
       de: "Le Val ist ein kleines Dorf in einem üppigen Tal im Südosten. Es ist für seinen Naturpark und seine Quellen bekannt.",
       hu: "Le Val egy kis falu egy buja völgyben délkeleten. Természeti parkjáról és forrásairól ismert.",
@@ -1487,7 +1487,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-clémencia-cities-v2",
     type: "village",
     name: { de: "Clémencia", hu: "Clémencia", ro: "Clémencia", en: "Clémencia" },
-    coordinates: { lat: -20.25, lng: 57.7167 },
+    coords: [57.7167, -20.25],
     description: {
       de: "Clémencia ist ein ländliches Dorf im Osten von Mauritius. Es ist bekannt für seine Ruhe und die weiten Zuckerrohrfelder der Umgebung.",
       hu: "Clémencia egy vidéki falu Mauritius keleti részén. Nyugalmáról és a környező hatalmas cukornádmezőkről ismert.",
@@ -1506,7 +1506,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-olivier-cities-v2",
     type: "village",
     name: { de: "Olivier", hu: "Olivier", ro: "Olivier", en: "Olivier" },
-    coordinates: { lat: -20.4, lng: 57.7333 },
+    coords: [57.7333, -20.4],
     description: {
       de: "Olivier ist ein kleines Dorf im Distrikt Grand Port. Es liegt in der Nähe von Mahébourg und ist ein ruhiges Wohngebiet.",
       hu: "Olivier egy kis falu Grand Port kerületben. Mahébourg közelében fekszik, és csendes lakóövezet.",
@@ -1525,7 +1525,7 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-vacoas-phoenix-cities-v2",
     type: "city",
     name: { de: "Vacoas-Phoenix", hu: "Vacoas-Phoenix", ro: "Vacoas-Phoenix", en: "Vacoas-Phoenix" },
-    coordinates: { lat: -20.2917, lng: 57.4833 },
+    coords: [57.4833, -20.2917],
     description: {
       de: "Vacoas-Phoenix ist eine der bevölkerungsreichsten Kommunen von Mauritius. Sie entstand durch den Zusammenschluss der beiden ehemals eigenständigen Städte.",
       hu: "Vacoas-Phoenix Mauritius egyik legnépesebb önkormányzata. A két korábban önálló város egyesülésével jött létre.",

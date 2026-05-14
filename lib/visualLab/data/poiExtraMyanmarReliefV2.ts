@@ -886,7 +886,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-loi-leng-relief-v2",
     type: "peak",
     name: { de: "Loi Leng", hu: "Loi Leng", ro: "Loi Leng", en: "Loi Leng" },
-    coordinates: { lat: 22.42, lng: 98.11 },
+    coords: [98.11, 22.42],
     description: {
       de: "Er ist der höchste Gipfel der Shan-Hügel und liegt bei Lashio. Das Bergmassiv besteht überwiegend aus Kalkstein und Schiefergestein.",
       hu: "A Shan-fennsík legmagasabb csúcsa Lashio városa közelében található. A hegytömb főként mészkőből és pala kőzetekből épül fel.",
@@ -905,7 +905,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-gamlang-razi-relief-v2",
     type: "peak",
     name: { de: "Gamlang Razi", hu: "Gamlang Razi", ro: "Gamlang Razi", en: "Gamlang Razi" },
-    coordinates: { lat: 28.31, lng: 97.45 },
+    coords: [97.45, 28.31],
     description: {
       de: "Dieser schneebedeckte Gipfel im Norden von Kachin gehört zum Himalaya. Er gilt als einer der höchsten Berge in ganz Südostasien.",
       hu: "Ez a havas hegycsúcs Kachin állam északi részén, a Himalájában található. Délkelet-Ázsia egyik legmagasabb pontjaként ismert.",
@@ -924,7 +924,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-danu-plateau-relief-v2",
     type: "mountain",
     name: { de: "Danu-Plateau", hu: "Danu-fennsík", ro: "Platoul Danu", en: "Danu Plateau" },
-    coordinates: { lat: 20.9, lng: 96.65 },
+    coords: [96.65, 20.9],
     description: {
       de: "Ein fruchtbares Hochplateau im westlichen Shan-Staat mit roter Erde. Die Region liegt durchschnittlich 1000 Meter über dem Meeresspiegel.",
       hu: "Termékeny fennsík Shan állam nyugati részén, vörös talajjal. A terület átlagosan 1000 méter tengerszint feletti magasságban fekszik.",
@@ -943,7 +943,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-kennedy-peak-relief-v2",
     type: "peak",
     name: { de: "Kennedy-Gipfel", hu: "Kennedy-csúcs", ro: "Vârful Kennedy", en: "Kennedy Peak" },
-    coordinates: { lat: 23.33, lng: 93.73 },
+    coords: [93.73, 23.33],
     description: {
       de: "Der prominente Gipfel liegt in den Chin-Hügeln nahe der Stadt Tedim. Während des Zweiten Weltkriegs war der Berg Schauplatz heftiger Kämpfe.",
       hu: "A Chin-hegység kiemelkedő csúcsa Tedim városa közelében található. A második világháború alatt heves harcok helyszíne volt a hegy.",
@@ -962,7 +962,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-sagaing-hills-relief-v2",
     type: "mountain",
     name: { de: "Sagaing-Hügel", hu: "Sagaing-dombság", ro: "Dealurile Sagaing", en: "Sagaing Hills" },
-    coordinates: { lat: 21.9, lng: 95.95 },
+    coords: [95.95, 21.9],
     description: {
       de: "Diese Hügelkette erstreckt sich am westlichen Ufer des Irrawaddy. Sie besteht aus Sandstein und bildet eine markante topografische Barriere.",
       hu: "Ez a dombsor az Irrawaddy-folyó nyugati partján húzódik végig. Geológiailag homokkőből épül fel, és jellegzetes tájképi elem.",
@@ -981,7 +981,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-mergui-archipelago-relief-v2",
     type: "landmark",
     name: { de: "Mergui-Archipel", hu: "Mergui-szigetvilág", ro: "Arhipelagul Mergui", en: "Mergui Archipelago" },
-    coordinates: { lat: 12.0, lng: 98.0 },
+    coords: [98.0, 12.0],
     description: {
       de: "Eine Inselgruppe mit gebirgiger Topografie in der Andamanensee. Die Reliefstruktur umfasst Kalksteinfelsen und zahlreiche Meereshöhlen.",
       hu: "Több mint 800 szigetből álló csoport az Andaman-tengerben, hegyes domborzattal. Mészkősziklák és tengeri barlangok jellemzik a vidéket.",
@@ -1000,7 +1000,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-mong-hsat-basin-relief-v2",
     type: "valley",
     name: { de: "Mong-Hsat-Becken", hu: "Mong Hsat-medence", ro: "Bazinul Mong Hsat", en: "Mong Hsat Basin" },
-    coordinates: { lat: 20.5, lng: 99.25 },
+    coords: [99.25, 20.5],
     description: {
       de: "Ein großes intramontanes Becken im östlichen Shan-Staat nahe Thailand. Es ist von Bergen umgeben, die bis zu 2000 Meter Höhe erreichen.",
       hu: "Nagy hegyközi medence Shan állam keleti részén, a thai határ közelében. 2000 méter magas hegyek veszik körül az agrárterületet.",
@@ -1019,7 +1019,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     id: "myanmar-naga-hills-relief-v2",
     type: "mountain",
     name: { de: "Naga-Berge", hu: "Naga-hegység", ro: "Munții Naga", en: "Naga Hills" },
-    coordinates: { lat: 26.0, lng: 95.3 },
+    coords: [95.3, 26.0],
     description: {
       de: "Diese Bergkette bildet die natürliche Grenze zwischen Myanmar und Indien. Sie zeichnet sich durch steile Hänge und tiefe Flusstäler aus.",
       hu: "Ez a hegylánc alkotja a természetes határt Mianmar és India között. Meredek lejtők és mély folyóvölgyek jellemzik a domborzatát.",

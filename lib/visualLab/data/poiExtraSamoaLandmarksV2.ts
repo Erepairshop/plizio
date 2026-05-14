@@ -5,7 +5,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-robert-louis-stevenson-museum-landmarks-v2",
     type: "museum",
     name: { de: "Robert-Louis-Stevenson-Museum", hu: "Robert Louis Stevenson Múzeum", ro: "Muzeul Robert Louis Stevenson", en: "Robert Louis Stevenson Museum" },
-    coordinates: { lat: -13.8642, lng: -171.7601 },
+    coords: [-171.7601, -13.8642],
     description: {
       de: "Dieses Museum ist das ehemalige Wohnhaus des Autors Robert Louis Stevenson. Es liegt in Vailima und bewahrt seine Möbel und Bibliothek.",
       hu: "Ez a múzeum Robert Louis Stevenson író egykori otthona Vailimában. Az épületben az író bútorai és kiterjedt könyvtára tekinthető meg.",
@@ -24,7 +24,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-bahai-house-of-worship-landmarks-v2",
     type: "church",
     name: { de: "Haus der Andacht der Bahai", hu: "Bahái imaház", ro: "Casa de Adorație Baha'i", en: "Baha'i House of Worship" },
-    coordinates: { lat: -13.8819, lng: -171.7761 },
+    coords: [-171.7761, -13.8819],
     description: {
       de: "Dies ist eines von nur acht Bahai-Häusern der Andacht weltweit. Das Bauwerk steht in Tiapapata und ist für alle Religionen offen.",
       hu: "Ez a világ mindössze nyolc Bahái imaházának egyike. Az épület Tiapapatában található, és minden vallás híve előtt nyitva áll.",
@@ -43,7 +43,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-museum-of-samoa-landmarks-v2",
     type: "museum",
     name: { de: "Museum von Samoa", hu: "Szamoai Múzeum", ro: "Muzeul Samoa", en: "Museum of Samoa" },
-    coordinates: { lat: -13.8328, lng: -171.7631 },
+    coords: [-171.7631, -13.8328],
     description: {
       de: "Das Nationalmuseum befindet sich in einem ehemaligen deutschen Schulgebäude. Es zeigt Exponate zur Kultur, Geschichte und Umwelt Samoas.",
       hu: "A nemzeti múzeum egy egykori német iskolaépületben kapott helyet. Szamoa kultúráját, történelmét és élővilágát mutatja be.",
@@ -62,7 +62,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-parliament-house-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Samoa", hu: "Szamoai parlamenti épület", ro: "Clădirea Parlamentului din Samoa", en: "Parliament House of Samoa" },
-    coordinates: { lat: -13.8239, lng: -171.7825 },
+    coords: [-171.7825, -13.8239],
     description: {
       de: "Das Maota Fono ist der Sitz der gesetzgebenden Versammlung von Samoa. Das moderne Gebäude orientiert sich an der Form eines traditionellen Fale.",
       hu: "A Maota Fono Szamoa törvényhozó gyűlésének székhelye. A modern épület kialakítása a hagyományos fale házak formáját követi.",
@@ -81,7 +81,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-old-courthouse-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Gerichtsgebäude", hu: "Régi bírósági épület", ro: "Vechea clădire a tribunalului", en: "Old Courthouse of Apia" },
-    coordinates: { lat: -13.8321, lng: -171.7661 },
+    coords: [-171.7661, -13.8321],
     description: {
       de: "Dieses koloniale Holzgebäude war einst das Verwaltungszentrum von Deutsch-Samoa. Es ist eines der ältesten erhaltenen Bauwerke der Stadt.",
       hu: "Ez a gyarmati faépület egykor Német Szamoa adminisztratív központja volt. A város egyik legrégebbi fennmaradt építménye.",
@@ -100,7 +100,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-government-building-landmarks-v2",
     type: "landmark",
     name: { de: "Regierungsgebäude", hu: "Kormányzati épület", ro: "Clădirea Guvernului", en: "Government Building" },
-    coordinates: { lat: -13.8306, lng: -171.7681 },
+    coords: [-171.7681, -13.8306],
     description: {
       de: "Das Fiame Mataafa Faumuina Mulinuu II Gebäude beherbergt wichtige Regierungsbüros. Es dominiert die Skyline am Hafen von Apia.",
       hu: "A Fiame Mataafa Faumuina Mulinuu II épület fontos kormányzati irodáknak ad helyet. Meghatározza Apia kikötői látképét.",
@@ -119,7 +119,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-central-bank-building-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralbank-Gebäude", hu: "Központi Bank épülete", ro: "Clădirea Băncii Centrale", en: "Central Bank Building" },
-    coordinates: { lat: -13.8301, lng: -171.7685 },
+    coords: [-171.7685, -13.8301],
     description: {
       de: "Das Gebäude der Zentralbank von Samoa ist ein markantes Beispiel für moderne Architektur in der Hauptstadt. Es verwaltet die nationale Währung.",
       hu: "A Szamoai Központi Bank épülete a modern építészet egyik meghatározó példája a fővárosban. Itt kezelik a nemzeti valutát.",
@@ -138,7 +138,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-nelson-memorial-library-landmarks-v2",
     type: "landmark",
     name: { de: "Nelson-Gedächtnisbibliothek", hu: "Nelson Emlékkönyvtár", ro: "Biblioteca Memorială Nelson", en: "Nelson Memorial Library" },
-    coordinates: { lat: -13.8325, lng: -171.7665 },
+    coords: [-171.7665, -13.8325],
     description: {
       de: "Dies ist die Hauptbibliothek von Samoa und ein wichtiges kulturelles Zentrum in Apia. Sie bietet Zugang zu Wissen und historischem Archivmaterial.",
       hu: "Ez Szamoa központi könyvtára és Apia egyik fontos kulturális központja. Tudást és történelmi archívumokat kínál a látogatóknak.",
@@ -157,7 +157,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-stevenson-tomb-landmarks-v2",
     type: "monument",
     name: { de: "Stevenson-Grab", hu: "Stevenson-sír", ro: "Mormântul lui Stevenson", en: "Stevenson's Tomb" },
-    coordinates: { lat: -13.8694, lng: -171.7589 },
+    coords: [-171.7589, -13.8694],
     description: {
       de: "Das Grab von Robert Louis Stevenson befindet sich auf dem Gipfel des Mount Vaea. Es ist ein bedeutender Wallfahrtsort für Literaturliebhaber.",
       hu: "Robert Louis Stevenson sírja a Vaea-hegy csúcsán található. Az irodalomkedvelők egyik fontos zarándokhelye a szigeten.",
@@ -176,7 +176,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-saleaula-lava-church-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Kirchenruinen von Saleaula", hu: "Saleaula-i templomromok", ro: "Ruinele bisericii din Saleaula", en: "Saleaula Lava Church Ruins" },
-    coordinates: { lat: -13.4475, lng: -172.3411 },
+    coords: [-172.3411, -13.4475],
     description: {
       de: "Diese Kirchenruinen zeugen vom Vulkanausbruch des Mount Matavanu. Die Lava floss direkt durch das Gebäude und erstarrte im Inneren.",
       hu: "Ezek a templomromok a Matavanu-hegy vulkánkitörésének emlékei. A láva közvetlenül az épületen keresztül folyt át.",
@@ -195,7 +195,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-piula-theological-college-landmarks-v2",
     type: "university",
     name: { de: "Theologisches Kolleg Piula", hu: "Piula Teológiai Főiskola", ro: "Colegiul Teologic Piula", en: "Piula Theological College" },
-    coordinates: { lat: -13.8814, lng: -171.5833 },
+    coords: [-171.5833, -13.8814],
     description: {
       de: "Das methodistische Kolleg in Piula ist für seine historische Architektur und das angrenzende Höhlenschwimmbad bekannt.",
       hu: "A piulai metodista főiskola történelmi építészetéről és a mellette található barlangi medencéről nevezetes.",
@@ -214,7 +214,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-efks-museum-landmarks-v2",
     type: "museum",
     name: { de: "EFKS Museum", hu: "EFKS Múzeum", ro: "Muzeul EFKS", en: "EFKS Museum" },
-    coordinates: { lat: -13.8158, lng: -171.8675 },
+    coords: [-171.8675, -13.8158],
     description: {
       de: "Dieses moderne Museum in Malua zeigt die Geschichte der christlichen Missionierung und die Kultur Samoas in beeindruckender Weise.",
       hu: "Ez a modern múzeum Maluában a keresztény missziók történetét és Szamoa kultúráját mutatja be lenyűgöző módon.",
@@ -233,7 +233,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-aggie-greys-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Aggie Grey's Hotel", hu: "Aggie Grey's Hotel", ro: "Hotelul Aggie Grey", en: "Aggie Grey's Hotel" },
-    coordinates: { lat: -13.8325, lng: -171.7611 },
+    coords: [-171.7611, -13.8325],
     description: {
       de: "Dieses berühmte Hotel ist eine historische Institution in Apia. Es war während des Zweiten Weltkriegs ein beliebter Treffpunkt für Soldaten.",
       hu: "Ez a híres szálloda Apia egyik történelmi intézménye. A második világháború alatt a katonák népszerű találkozóhelye volt.",
@@ -252,7 +252,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-malietoa-tomb-landmarks-v2",
     type: "monument",
     name: { de: "Malietoa-Grabmal", hu: "Malietoa-sír", ro: "Mormântul lui Malietoa", en: "Malietoa Tanumafili II Tomb" },
-    coordinates: { lat: -13.8245, lng: -171.7815 },
+    coords: [-171.7815, -13.8245],
     description: {
       de: "Dies ist die letzte Ruhestätte von Malietoa Tanumafili II., einem ehemaligen Staatsoberhaupt von Samoa. Das Grab liegt in Mulinuu.",
       hu: "Ez II. Malietoa Tanumafili, Szamoa egykori államfőjének végső nyughelye. A síremlék a Mulinuu-félszigeten található.",
@@ -271,7 +271,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-tanumapua-temple-landmarks-v2",
     type: "church",
     name: { de: "Apia-Samoa-Tempel", hu: "Apia Szamoa templom", ro: "Templul Apia Samoa", en: "Tanumapua LDS Temple" },
-    coordinates: { lat: -13.8453, lng: -171.8011 },
+    coords: [-171.8011, -13.8453],
     description: {
       de: "Dieser Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage ist ein markantes Bauwerk in Tanumapua. Er wurde nach einem Brand neu errichtet.",
       hu: "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma Tanumapuában áll. Egy tűzeset után építették újjá.",
@@ -290,7 +290,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-mau-monument-landmarks-v2",
     type: "monument",
     name: { de: "Mau-Denkmal", hu: "Mau-emlékmű", ro: "Monumentul Mau", en: "Vaimoso Mau Monument" },
-    coordinates: { lat: -13.8331, lng: -171.7811 },
+    coords: [-171.7811, -13.8331],
     description: {
       de: "Dieses Denkmal in Vaimoso ehrt die Mitglieder der Mau-Bewegung, die für die Unabhängigkeit Samoas kämpften. Es ist ein Symbol des Widerstands.",
       hu: "Ez a vaimosói emlékmű a Mau mozgalom tagjai előtt tiszteleg, akik Szamoa függetlenségéért küzdöttek. Az ellenállás szimbóluma.",
@@ -309,7 +309,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-fugalei-market-landmarks-v2",
     type: "landmark",
     name: { de: "Fugalei-Markt", hu: "Fugalei piac", ro: "Piața Fugalei", en: "Fugalei Produce Market" },
-    coordinates: { lat: -13.8361, lng: -171.7711 },
+    coords: [-171.7711, -13.8361],
     description: {
       de: "Der Fugalei-Markt ist das wirtschaftliche Herz von Apia. Das große Marktgebäude ist ein zentraler Handelsplatz für lokale Erzeugnisse.",
       hu: "A Fugalei piac Apia gazdasági szíve. A hatalmas piacépület a helyi termékek központi kereskedelmi helyszíne.",
@@ -328,7 +328,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-salelologa-market-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Salelologa", hu: "Salelologa piac", ro: "Piața Salelologa", en: "Salelologa Market Building" },
-    coordinates: { lat: -13.7381, lng: -172.2151 },
+    coords: [-172.2151, -13.7381],
     description: {
       de: "Dieses Marktgebäude in Salelologa ist das wichtigste Handelszentrum auf der Insel Savaii. Es liegt direkt am Fährterminal.",
       hu: "Ez a salelologai piacépület Savaii szigetének legfontosabb kereskedelmi központja. Közvetlenül a kompállomásnál található.",
@@ -347,7 +347,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-apia-fish-market-landmarks-v2",
     type: "landmark",
     name: { de: "Fischmarkt von Apia", hu: "Apiai halpiac", ro: "Piața de pește din Apia", en: "Apia Fish Market" },
-    coordinates: { lat: -13.8305, lng: -171.7655 },
+    coords: [-171.7655, -13.8305],
     description: {
       de: "Der Fischmarkt von Apia ist ein lebhaftes Wahrzeichen am Hafen. Das Gebäude dient dem täglichen Verkauf von frischem Fisch.",
       hu: "Az apiai halpiac a kikötő melletti nyüzsgő látnivaló. Az épület a friss halak napi értékesítésének helyszíne.",
@@ -366,7 +366,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-star-mound-landmarks-v2",
     type: "ruins",
     name: { de: "Sternenhügel von Letolo", hu: "Letolo-i csillaghalom", ro: "Tumulul stelar din Letolo", en: "Tia Seu Lupe Star Mound" },
-    coordinates: { lat: -13.7541, lng: -172.3155 },
+    coords: [-172.3155, -13.7541],
     description: {
       de: "Diese antike Steinplattform in Form eines Sterns wurde einst für den Sport des Taubenfangens genutzt. Sie ist ein rätselhaftes archäologisches Denkmal.",
       hu: "Ezt a csillag alakú ősi kőplatformot egykor galambfogó sportra használták. Rejtélyes régészeti emlék Savaii szigetén.",
@@ -385,7 +385,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-royal-tombs-mulinuu-landmarks-v2",
     type: "monument",
     name: { de: "Königsgräber von Mulinuu", hu: "Mulinuu-i királysírok", ro: "Mormintele Regale din Mulinuu", en: "Royal Tombs of Mulinuu" },
-    coordinates: { lat: -13.8241, lng: -171.7821 },
+    coords: [-171.7821, -13.8241],
     description: {
       de: "Diese Gräber auf der Mulinuu-Halbinsel sind die letzte Ruhestätte der ranghöchsten Häuptlinge Samoas. Der Ort hat eine große historische Bedeutung.",
       hu: "A Mulinuu-félszigeten található sírok Szamoa legmagasabb rangú törzsfőnökeinek nyughelyei. A helyszín nagy történelmi jelentőségű.",
@@ -404,7 +404,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-german-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Deutsches Denkmal", hu: "Német emlékmű", ro: "Monumentul German", en: "German Memorial Mulinuu" },
-    coordinates: { lat: -13.8235, lng: -171.7831 },
+    coords: [-171.7831, -13.8235],
     description: {
       de: "Dieses Denkmal in Mulinuu erinnert an die deutsche Kolonialzeit in Samoa. Es steht an einem historisch bedeutsamen Ort der Hauptstadt.",
       hu: "Ez a mulinuui emlékmű Szamoa német gyarmati korszakára emlékeztet. A főváros egyik történelmileg fontos helyszínén áll.",
@@ -423,7 +423,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-independence-monument-landmarks-v2",
     type: "monument",
     name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi emlékmű", ro: "Monumentul Independenței", en: "Independence Monument Mulinuu" },
-    coordinates: { lat: -13.8231, lng: -171.7835 },
+    coords: [-171.7835, -13.8231],
     description: {
       de: "Das Denkmal erinnert an die Erlangung der Unabhängigkeit Samoas im Jahr 1962. Es ist ein zentrales Symbol für die Freiheit der Nation.",
       hu: "Az emlékmű Szamoa 1962-es függetlenné válásának állít emléket. A nemzet szabadságának központi szimbóluma.",
@@ -442,7 +442,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-tatte-building-landmarks-v2",
     type: "landmark",
     name: { de: "TATTE-Gebäude", hu: "TATTE épület", ro: "Clădirea TATTE", en: "Tuiatua Tupua Tamasese Efi Building" },
-    coordinates: { lat: -13.8315, lng: -171.7691 },
+    coords: [-171.7691, -13.8315],
     description: {
       de: "Dieses große Bürogebäude beherbergt verschiedene Ministerien und Behörden. Es ist nach einem ehemaligen Staatsoberhaupt benannt.",
       hu: "Ez a nagy irodaépület különböző minisztériumoknak és hatóságoknak ad otthont. Egy egykori államfőről nevezték el.",
@@ -461,7 +461,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-st-marys-convent-landmarks-v2",
     type: "landmark",
     name: { de: "St.-Marien-Konvent", hu: "Szent Mária kolostor", ro: "Conventul Sfânta Maria", en: "St. Mary's Convent Apia" },
-    coordinates: { lat: -13.8321, lng: -171.7641 },
+    coords: [-171.7641, -13.8321],
     description: {
       de: "Dieser Konvent ist ein historisches religiöses Zentrum in Apia. Er gehört zur katholischen Kirche und beherbergt eine bekannte Schule.",
       hu: "Ez a kolostor Apia egyik történelmi vallási központja. A katolikus egyházhoz tartozik, és egy neves iskolának ad otthont.",
@@ -480,7 +480,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-don-bosco-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Don-Bosco-Zentrum", hu: "Don Bosco Központ", ro: "Centrul Don Bosco", en: "Don Bosco Technical Centre" },
-    coordinates: { lat: -13.7411, lng: -172.2181 },
+    coords: [-172.2181, -13.7411],
     description: {
       de: "Dieses technische Bildungszentrum in Salelologa ist ein wichtiges Wahrzeichen für die berufliche Ausbildung Jugendlicher auf Savaii.",
       hu: "Ez a salelologai műszaki oktatási központ fontos szerepet játszik a savaii fiatalok szakképzésében.",
@@ -499,7 +499,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-leone-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Leone-Brücke", hu: "Leone-híd", ro: "Podul Leone", en: "Leone Bridge" },
-    coordinates: { lat: -13.8335, lng: -171.7651 },
+    coords: [-171.7651, -13.8335],
     description: {
       de: "Die Leone-Brücke ist ein wichtiges infrastrukturelles Wahrzeichen im Zentrum von Apia. Sie verbindet zentrale Stadtteile über einen Fluss.",
       hu: "A Leone-híd fontos infrastrukturális látnivaló Apia központjában. Központi városrészeket köt össze a folyó felett.",
@@ -518,7 +518,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-vaisigano-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Vaisigano-Brücke", hu: "Vaisigano-híd", ro: "Podul Vaisigano", en: "Vaisigano Bridge" },
-    coordinates: { lat: -13.8311, lng: -171.7615 },
+    coords: [-171.7615, -13.8311],
     description: {
       de: "Diese moderne Brücke ist ein entscheidendes Bauwerk für den Verkehr in Apia. Sie führt die Hauptstraße über die Mündung des Vaisigano-Flusses.",
       hu: "Ez a modern híd kulcsfontosságú Apia közlekedése szempontjából. A főutat vezeti át a Vaisigano-folyó torkolata felett.",
@@ -537,7 +537,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-falefa-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Falefa-Brücke", hu: "Falefa-híd", ro: "Podul Falefa", en: "Falefa Bridge" },
-    coordinates: { lat: -13.9041, lng: -171.5911 },
+    coords: [-171.5911, -13.9041],
     description: {
       de: "Die Falefa-Brücke bietet einen Blick auf die berühmten Falefa-Wasserfälle. Sie ist ein bekanntes technisches Bauwerk an der Nordküste.",
       hu: "A Falefa-híd kilátást nyújt a híres Falefa-vízesésre. Az északi part egyik legismertebb mérnöki alkotása.",
@@ -556,7 +556,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-cape-mulinuu-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm am Cape Mulinuu", hu: "Mulinuu-foki világítótorony", ro: "Farul de la Capul Mulinuu", en: "Cape Mulinuu Lighthouse" },
-    coordinates: { lat: -13.5111, lng: -172.7911 },
+    coords: [-172.7911, -13.5111],
     description: {
       de: "Dieser Leuchtturm markiert den westlichsten Punkt der Insel Savaii. Er ist eine wichtige Navigationshilfe für den Schiffsverkehr im Pazifik.",
       hu: "Ez a világítótorony jelzi Savaii szigetének legnyugatibb pontját. Fontos navigációs segédlet a csendes-óceáni hajózás számára.",
@@ -575,7 +575,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-tapaau-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Tapaau-Leuchtturm", hu: "Tapaau világítótorony", ro: "Farul Tapaau", en: "Tapaau Lighthouse" },
-    coordinates: { lat: -13.7611, lng: -172.2211 },
+    coords: [-172.2211, -13.7611],
     description: {
       de: "Der Leuchtturm in Tapaau sichert die Hafeneinfahrt von Salelologa auf Savaii. Er ist ein markantes Landmarke für ankommende Fähren.",
       hu: "A tapaaui világítótorony biztosítja Savaii szigetén a salelologai kikötő bejáratát. Fontos tájékozódási pont a kompoknak.",
@@ -594,7 +594,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-apolima-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Apolima-Leuchtturm", hu: "Apolima világítótorony", ro: "Farul Apolima", en: "Apolima Island Lighthouse" },
-    coordinates: { lat: -13.8191, lng: -172.1491 },
+    coords: [-172.1491, -13.8191],
     description: {
       de: "Dieser Leuchtturm auf der kleinen Insel Apolima dient der Navigation in der Meerenge zwischen Upolu und Savaii.",
       hu: "Ez az Apolima kis szigetén található világítótorony az Upolu és Savaii közötti szoros navigációját segíti.",
@@ -613,7 +613,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-manono-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Manono", hu: "Manono templom", ro: "Biserica Manono", en: "Manono Island Church" },
-    coordinates: { lat: -13.8411, lng: -172.1091 },
+    coords: [-172.1091, -13.8411],
     description: {
       de: "Die Hauptkirche auf der Insel Manono ist ein zentrales Landmarke der kleinen Gemeinschaft. Sie spiegelt die Bedeutung des Glaubens wider.",
       hu: "Manono szigetének főtemploma a kis közösség központi látnivalója. Híven tükrözi a vallás fontosságát a szigetlakók életében.",
@@ -632,7 +632,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-safotu-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Safotu", hu: "Safotu templom", ro: "Biserica din Safotu", en: "Safotu Catholic Church" },
-    coordinates: { lat: -13.4411, lng: -172.4011 },
+    coords: [-172.4011, -13.4411],
     description: {
       de: "Die katholische Kirche in Safotu ist für ihre beeindruckende Architektur an der Nordküste von Savaii bekannt. Sie ist weithin sichtbar.",
       hu: "A safotui katolikus templom lenyűgöző építészetéről nevezetes Savaii északi partján. Már messziről jól látható.",
@@ -651,7 +651,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-siumu-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Siumu", hu: "Siumu templom", ro: "Biserica din Siumu", en: "Siumu Catholic Church" },
-    coordinates: { lat: -13.9911, lng: -171.7611 },
+    coords: [-171.7611, -13.9911],
     description: {
       de: "Diese Kirche in Siumu ist ein markantes Bauwerk an der Südküste von Upolu. Sie dient als geistliches Zentrum für die Region.",
       hu: "Ez a siumui templom Upolu déli partjának egyik jellegzetes épülete. A régió szellemi központjaként szolgál.",
@@ -670,7 +670,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-fagamalo-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Fagamalo", hu: "Fagamalo templom", ro: "Biserica din Fagamalo", en: "Fagamalo Methodist Church" },
-    coordinates: { lat: -13.4311, lng: -172.3211 },
+    coords: [-172.3211, -13.4311],
     description: {
       de: "Die methodistische Kirche von Fagamalo ist ein historisches Wahrzeichen im Norden von Savaii. Sie liegt malerisch nahe der Küste.",
       hu: "A fagamalói metodista templom történelmi látnivaló Savaii északi részén. Festői környezetben, a part közelében fekszik.",
@@ -689,7 +689,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-lalomanu-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Lalomanu-Gedenkstätte", hu: "Lalomanu-emlékmű", ro: "Monumentul Lalomanu", en: "Lalomanu Memorial" },
-    coordinates: { lat: -14.0411, lng: -171.4411 },
+    coords: [-171.4411, -14.0411],
     description: {
       de: "Dieses Denkmal in Lalomanu erinnert an die Opfer des Tsunamis von 2009. Es ist ein Ort der Stille und des Gedenkens an der Ostküste.",
       hu: "Ez a lalomanui emlékmű a 2009-es szökőár áldozatainak állít emléket. A csend és az emlékezés helye a keleti parton.",
@@ -708,7 +708,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-peace-chapel-landmarks-v2",
     type: "church",
     name: { de: "Friedenskapelle", hu: "Béke-kápolna", ro: "Capela Păcii", en: "Peace Chapel Apia" },
-    coordinates: { lat: -13.8341, lng: -171.7621 },
+    coords: [-171.7621, -13.8341],
     description: {
       de: "Die Friedenskapelle in Apia ist eine kleine, aber historisch bedeutende Kirche. Sie ist für ihre schlichte Architektur und friedliche Atmosphäre bekannt.",
       hu: "Az apiai Béke-kápolna egy kicsi, de történelmileg jelentős templom. Egyszerű építészetéről és békés hangulatáról ismert.",
@@ -727,7 +727,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-john-williams-memorial-landmarks-v2",
     type: "monument",
     name: { de: "John-Williams-Denkmal", hu: "John Williams emlékmű", ro: "Monumentul John Williams", en: "John Williams Memorial" },
-    coordinates: { lat: -13.8315, lng: -171.7661 },
+    coords: [-171.7661, -13.8315],
     description: {
       de: "Dieses Denkmal ehrt den Missionar John Williams, der das Christentum nach Samoa brachte. Es ist ein zentrales Monument in Apia.",
       hu: "Ez az emlékmű John Williams misszionárius előtt tiszteleg, aki elhozta a kereszténységet Szamoára. Központi emlékmű Apiában.",
@@ -746,7 +746,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-usp-alafua-landmarks-v2",
     type: "university",
     name: { de: "USP-Campus Alafua", hu: "USP Alafua kampusz", ro: "Campusul USP Alafua", en: "USP Alafua Campus" },
-    coordinates: { lat: -13.8541, lng: -171.7811 },
+    coords: [-171.7811, -13.8541],
     description: {
       de: "Der Alafua-Campus der University of the South Pacific ist ein wichtiges Bildungszentrum. Die Gebäude beherbergen die Fakultät für Landwirtschaft.",
       hu: "A University of the South Pacific alafuai kampusza fontos oktatási központ. Az épületek a mezőgazdasági karnak adnak helyet.",
@@ -765,7 +765,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-samoa-college-landmarks-v2",
     type: "university",
     name: { de: "Samoa College", hu: "Szamoa Kollégium", ro: "Colegiul Samoa", en: "Samoa College" },
-    coordinates: { lat: -13.8511, lng: -171.7711 },
+    coords: [-171.7711, -13.8511],
     description: {
       de: "Das Samoa College ist eine der angesehensten Schulen des Landes. Das historische Hauptgebäude ist ein Symbol für akademische Exzellenz.",
       hu: "A Szamoa Kollégium az ország egyik legnevesebb iskolája. Történelmi főépülete az akadémiai kiválóság szimbóluma.",
@@ -784,7 +784,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-avele-college-landmarks-v2",
     type: "university",
     name: { de: "Avele College", hu: "Avele Kollégium", ro: "Colegiul Avele", en: "Avele College" },
-    coordinates: { lat: -13.8611, lng: -171.7611 },
+    coords: [-171.7611, -13.8611],
     description: {
       de: "Das Avele College ist für seine lange Tradition und die Ausbildung vieler samoanischer Anführer bekannt. Es liegt nahe dem Stevenson-Museum.",
       hu: "Az Avele Kollégium hosszú hagyományairól és számos szamoai vezető képzéséről ismert. A Stevenson-múzeum közelében fekszik.",
@@ -803,7 +803,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-chanel-college-landmarks-v2",
     type: "university",
     name: { de: "Chanel College", hu: "Chanel Kollégium", ro: "Colegiul Chanel", en: "Chanel College" },
-    coordinates: { lat: -13.8651, lng: -171.8111 },
+    coords: [-171.8111, -13.8651],
     description: {
       de: "Das Chanel College ist eine katholische Bildungseinrichtung mit einer markanten Kapelle. Die Anlage ist ein wichtiges Wahrzeichen in Moamoa.",
       hu: "A Chanel Kollégium egy katolikus oktatási intézmény, amely jellegzetes kápolnával rendelkezik. Moamoa egyik fontos látnivalója.",
@@ -822,7 +822,7 @@ export const samoaLandmarksV2: POI[] = [
     id: "samoa-marist-brothers-school-landmarks-v2",
     type: "landmark",
     name: { de: "Maristenbrüder-Schule", hu: "Marista testvérek iskolája", ro: "Școala Fraților Mariști", en: "Marist Brothers School" },
-    coordinates: { lat: -13.8345, lng: -171.7681 },
+    coords: [-171.7681, -13.8345],
     description: {
       de: "Dieses historische Schulgebäude der Maristenbrüder ist ein fester Bestandteil des Stadtbildes von Apia. Es blickt auf eine lange Bildungsgeschichte zurück.",
       hu: "A marista testvérek történelmi iskolaépülete Apia városképének szerves része. Hosszú múltra tekint vissza az oktatás területén.",

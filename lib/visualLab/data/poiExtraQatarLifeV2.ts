@@ -548,7 +548,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-panda-house-park-life-v2",
     type: "park",
     name: { de: "Panda-Haus-Park", hu: "Pandaház Park", ro: "Parcul Casa Pandemiei", en: "Panda House Park" },
-    coordinates: { lat: 25.6601, lng: 51.4802 },
+    coords: [51.4802, 25.6601],
     description: {
       de: "Dies ist das erste Panda-Schutzgebiet im Nahen Osten und beherbergt zwei Riesenpandas aus China. Der Park bietet eine klimatisierte Umgebung, die dem natürlichen Lebensraum der Tiere nachempfunden ist.",
       hu: "Ez a Közel-Kelet első pandarezervátuma, amely Kínából származó óriáspandáknak ad otthont. A park légkondicionált környezetet biztosít, amely az állatok természetes élőhelyét utánozza.",
@@ -567,7 +567,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-quranic-botanic-garden-life-v2",
     type: "park",
     name: { de: "Quranic Botanic Garden", hu: "Koráni Botanikus Kert", ro: "Grădina Botanică Coranică", en: "Quranic Botanic Garden" },
-    coordinates: { lat: 25.3134, lng: 51.4352 },
+    coords: [51.4352, 25.3134],
     description: {
       de: "Dieser botanische Garten in der Education City zeigt Pflanzen, die im Heiligen Koran und in den Hadithen erwähnt werden. Er dient der Erhaltung der biologischen Vielfalt und der islamischen Kultur.",
       hu: "Ez az Education Cityben található botanikus kert a Szent Koránban és a hadíszokban említett növényeket mutatja be. A biológiai sokféleség és az iszlám kultúra megőrzését szolgálja.",
@@ -586,7 +586,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-rawdat-al-khail-park-life-v2",
     type: "park",
     name: { de: "Rawdat Al Khail Park", hu: "Rawdat Al Khail Park", ro: "Parcul Rawdat Al Khail", en: "Rawdat Al Khail Park" },
-    coordinates: { lat: 25.2672, lng: 51.5175 },
+    coords: [51.5175, 25.2672],
     description: {
       de: "Dieser Park, auch als Al Muntazah Park bekannt, ist eine der ältesten Grünanlagen in Doha. Nach einer umfassenden Renovierung bietet er nun moderne Sportanlagen und weitläufige Rasenflächen.",
       hu: "Az Al Muntazah parkként is ismert terület Doha egyik legrégebbi zöldfelülete. Egy átfogó felújítás után modern sportlétesítményeket és hatalmas füves területeket kínál.",
@@ -605,7 +605,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-dahl-al-hammam-park-life-v2",
     type: "park",
     name: { de: "Dahl Al Hammam Park", hu: "Dahl Al Hammam Park", ro: "Parcul Dahl Al Hammam", en: "Dahl Al Hammam Park" },
-    coordinates: { lat: 25.3341, lng: 51.4885 },
+    coords: [51.4885, 25.3341],
     description: {
       de: "Dieser beliebte Stadtpark im Norden von Doha zeichnet sich durch seine natürliche Höhle im Zentrum aus. Er ist ein wichtiger Erholungsort mit zahlreichen Spielplätzen und einem Amphitheater.",
       hu: "Ez a népszerű észak-dohai városi park a közepén található természetes barlangról híres. Fontos szabadidős helyszín játszóterekkel és amfiteátrummal.",
@@ -624,7 +624,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-al-gharrafa-family-park-life-v2",
     type: "park",
     name: { de: "Al-Gharrafa-Familienpark", hu: "Al Gharrafa Családi Park", ro: "Parcul Familiei Al Gharrafa", en: "Al Gharrafa Family Park" },
-    coordinates: { lat: 25.3325, lng: 51.455 },
+    coords: [51.455, 25.3325],
     description: {
       de: "Der Park ist bekannt für seine innovativen, klimatisierten Lauf- und Radwege, die das Training im Freien auch im Sommer ermöglichen. Er bietet eine moderne Infrastruktur für Familien im Stadtteil Al Rayyan.",
       hu: "A park innovatív, légkondicionált futó- és kerékpárútjairól ismert, amelyek nyáron is lehetővé teszik a kinti edzést. Modern infrastruktúrát kínál az Al Rayyan negyed családjainak.",
@@ -643,7 +643,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-al-legtaifiya-park-life-v2",
     type: "park",
     name: { de: "Al-Legtaifiya-Park", hu: "Al Legtaifiya Park", ro: "Parcul Al Legtaifiya", en: "Al Legtaifiya Park" },
-    coordinates: { lat: 25.3622, lng: 51.5205 },
+    coords: [51.5205, 25.3622],
     description: {
       de: "Ein moderner Stadtpark in der Nähe der Pearl-Insel, der für seine inklusiven Spielbereiche für Kinder mit Behinderungen bekannt ist. Er ist ein beliebter Treffpunkt mit interaktiven Installationen.",
       hu: "Egy modern városi park a Pearl-sziget közelében, amely a fogyatékkal élő gyermekek számára kialakított befogadó játszótereiről ismert. Népszerű közösségi hely interaktív elemekkel.",
@@ -662,7 +662,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-doha-quest-life-v2",
     type: "park",
     name: { de: "Doha Quest", hu: "Doha Quest", ro: "Doha Quest", en: "Doha Quest" },
-    coordinates: { lat: 25.2825, lng: 51.5208 },
+    coords: [51.5208, 25.2825],
     description: {
       de: "Dieser riesige Indoor-Themenpark befindet sich im Msheireb-Viertel und bietet über 30 Fahrgeschäfte und Attraktionen. Er hält zwei Guinness-Weltrekorde für seine extremen mechanischen Fahrgeschäfte.",
       hu: "Ez a hatalmas fedett vidámpark a Msheireb negyedben található, és több mint 30 játékot és attrakciót kínál. Két Guinness-világrekordot is tart extrém mechanikus játékaival.",
@@ -681,7 +681,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-falcon-hospital-life-v2",
     type: "museum",
     name: { de: "Falkenkrankenhaus im Souq Waqif", hu: "Souq Waqif Sólyomkórház", ro: "Spitalul de Șoimi Souq Waqif", en: "Souq Waqif Falcon Hospital" },
-    coordinates: { lat: 25.2875, lng: 51.5332 },
+    coords: [51.5332, 25.2875],
     description: {
       de: "Ein weltweit führendes medizinisches Zentrum, das ausschließlich der Gesundheitsversorgung von Falken gewidmet ist. Besucher können im Wartebereich die kulturelle Bedeutung der Falknerei in Katar beobachten.",
       hu: "Világszínvonalú orvosi központ, amely kizárólag a sólymok egészségügyi ellátására szakosodott. A látogatók a váróteremben megfigyelhetik a solymászat kulturális jelentőségét.",
@@ -700,7 +700,7 @@ export const poiExtraQatarLifeV2: POI[] = [
     id: "qatar-simaisma-family-park-life-v2",
     type: "park",
     name: { de: "Simaisma-Familienpark", hu: "Simaisma Családi Park", ro: "Parcul Familiei Simaisma", en: "Simaisma Family Park" },
-    coordinates: { lat: 25.5702, lng: 51.4888 },
+    coords: [51.4888, 25.5702],
     description: {
       de: "Ein ruhiger Landschaftsgarten im Küstenort Simaisma, der Grünflächen für die lokale Gemeinde bietet. Der Park ist ideal für Familienausflüge abseits der Hektik von Doha.",
       hu: "Csendes, tájképi kert Simaisma tengerparti városában, amely zöldterületet biztosít a helyi közösségnek. Ideális családi kirándulóhely a dohai nyüzsgéstől távol.",

@@ -817,7 +817,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-fort-saint-joseph-history-v2",
     type: "ruins",
     name: { de: "Fort Saint-Joseph", hu: "Saint-Joseph erőd", ro: "Fortul Saint-Joseph", en: "Fort Saint-Joseph" },
-    coordinates: { lat: 14.651, lng: -11.962 },
+    coords: [-11.962, 14.651],
     description: {
       de: "Diese historische Befestigungsanlage am Senegalfluss diente dem französischen Kolonialhandel. Heute sind nur noch Ruinen der ehemaligen Handelsstation erhalten.",
       hu: "Ez az egykori francia erődítmény a Szenegál folyó partján állt. Ma már csak a kereskedőállomás romjai láthatóak a területen.",
@@ -836,7 +836,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-bambouk-gold-sites-history-v2",
     type: "ruins",
     name: { de: "Bambouk Goldfelder", hu: "Bambouk aranybányák", ro: "Minele de aur Bambouk", en: "Bambouk Gold Sites" },
-    coordinates: { lat: 13.5, lng: -11.5 },
+    coords: [-11.5, 13.5],
     description: {
       de: "Die historische Region Bambouk war ein bedeutendes Zentrum der Goldgewinnung im mittelalterlichen Westafrika. Archäologische Funde belegen eine jahrhundertelange Bergbautradition.",
       hu: "Bambouk térsége az aranykitermelés központja volt a középkori Nyugat-Afrikában. Régészeti leletek tanúskodnak a több évszázados bányászati hagyományokról.",
@@ -855,7 +855,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-fort-de-dagana-history-v2",
     type: "fort",
     name: { de: "Fort de Dagana", hu: "Dagana erőd", ro: "Fortul Dagana", en: "Fort of Dagana" },
-    coordinates: { lat: 16.516, lng: -15.602 },
+    coords: [-15.602, 16.516],
     description: {
       de: "Das im 19. Jahrhundert errichtete Fort diente der Kontrolle des Handels entlang des Senegalflusses. Es spielte eine zentrale Rolle bei der französischen Expansion in der Region.",
       hu: "A 19. században épült erőd a Szenegál folyó menti kereskedelem ellenőrzésére szolgált. Központi szerepet játszott a régió francia gyarmatosításában.",
@@ -874,7 +874,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-mbayard-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Mbayard", hu: "Mbayard régészeti lelőhely", ro: "Sit arheologic Mbayard", en: "Mbayard Archaeological Site" },
-    coordinates: { lat: 14.8, lng: -16.4 },
+    coords: [-16.4, 14.8],
     description: {
       de: "Diese Stätte umfasst Reste von Siedlungen, die für die Erforschung der prähistorischen Besiedlung in der Region um Sine-Saloum bedeutend sind. Keramikfunde datieren die Nutzung auf die Zeit vor der Kolonialisierung.",
       hu: "A lelőhely a Sine-Saloum környéki őskori települések kutatásához nyújt adatokat. A kerámialeletek a gyarmatosítás előtti korba datálják a terület használatát.",
@@ -893,7 +893,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-tata-de-tior-history-v2",
     type: "battlefield",
     name: { de: "Tata de Tior", hu: "Tior erődített faluja", ro: "Tata din Tior", en: "Tata of Tior" },
-    coordinates: { lat: 12.8, lng: -15.5 },
+    coords: [-15.5, 12.8],
     description: {
       de: "Die Tata ist eine befestigte Anlage, die zur Verteidigung lokaler Gemeinschaften in der Region Casamance errichtet wurde. Sie stellt ein wichtiges Zeugnis des Widerstands gegen regionale Überfälle dar.",
       hu: "A Tata egy megerősített építmény, amelyet a Casamance régióbeli helyi közösségek védelmére emeltek. Fontos bizonyítéka a regionális támadások elleni védekezésnek.",
@@ -912,7 +912,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-palais-du-gouverneur-podor-history-v2",
     type: "palace",
     name: { de: "Gouverneurspalast Podor", hu: "Podor kormányzói palota", ro: "Palatul Guvernatorului din Podor", en: "Governor's Palace in Podor" },
-    coordinates: { lat: 16.649, lng: -14.965 },
+    coords: [-14.965, 16.649],
     description: {
       de: "Das Gebäude diente als Sitz der französischen Verwaltung am Ufer des Senegalflusses. Die Architektur spiegelt den koloniale Baustil des 19. Jahrhunderts wider.",
       hu: "Az épület a francia közigazgatás székhelyeként szolgált a Szenegál folyó partján. Építészete a 19. századi gyarmati stílust tükrözi.",
@@ -931,7 +931,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-mosquee-de-omarian-history-v2",
     type: "landmark",
     name: { de: "Omarian-Moschee", hu: "Omarian mecset", ro: "Moscheea Omarian", en: "Omarian Mosque" },
-    coordinates: { lat: 16.5, lng: -15.5 },
+    coords: [-15.5, 16.5],
     description: {
       de: "Die Moschee ist eng mit der Geschichte der islamischen Expansion unter El Hadj Omar Tall verbunden. Sie ist ein bedeutendes religiöses und historisches Monument.",
       hu: "A mecset szorosan kötődik El Hadj Omar Tall iszlám terjeszkedési mozgalmának történetéhez. Fontos vallási és történelmi emlékhely.",
@@ -950,7 +950,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-fort-de-bakel-historique-history-v2",
     type: "fort",
     name: { de: "Historisches Fort Bakel", hu: "Bakel történelmi erőd", ro: "Fortul istoric Bakel", en: "Historic Fort Bakel" },
-    coordinates: { lat: 14.895, lng: -12.464 },
+    coords: [-12.464, 14.895],
     description: {
       de: "Dieses Fort am Ufer des Senegalflusses markierte die Grenze der französischen Einflussnahme. Es diente über Jahrzehnte als wichtiger strategischer Stützpunkt.",
       hu: "Ez a Szenegál folyó partján álló erőd jelölte a francia befolyás határát. Évtizedeken át fontos stratégiai bázisként szolgált.",
@@ -969,7 +969,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-sites-megalithiques-de-sine-history-v2",
     type: "ruins",
     name: { de: "Megalith-Stätten Sine", hu: "Sine megalitikus lelőhelyek", ro: "Situl megalitic Sine", en: "Megalithic Sites of Sine" },
-    coordinates: { lat: 14.1, lng: -16.2 },
+    coords: [-16.2, 14.1],
     description: {
       de: "Diese Stätten beherbergen eine Sammlung von Steinkreisen, die auf die Eisenzeit datiert werden. Sie sind wesentliche Zeugnisse der frühen Bestattungskultur in der Region.",
       hu: "Ezek a lelőhelyek a vaskorra datálható kőköröket tartalmaznak. A régió korai temetkezési kultúrájának alapvető bizonyítékai.",
@@ -988,7 +988,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-camp-de-thiaroye-histoire-history-v2",
     type: "battlefield",
     name: { de: "Militärlager Thiaroye", hu: "Thiaroye katonai tábor", ro: "Tabăra militară Thiaroye", en: "Military Camp Thiaroye" },
-    coordinates: { lat: 14.75, lng: -17.38 },
+    coords: [-17.38, 14.75],
     description: {
       de: "Das Lager ist ein zentraler Ort des Gedenkens an die Ereignisse von 1944. Es erinnert an die Geschichte der senegalesischen Soldaten während der Kolonialzeit.",
       hu: "A tábor az 1944-es események emlékhelye. A szenegáli katonák gyarmati időszakbeli történelmére emlékeztet.",
@@ -1007,7 +1007,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-pont-faidherbe-historique-history-v2",
     type: "bridge",
     name: { de: "Historische Faidherbe-Brücke", hu: "Történelmi Faidherbe-híd", ro: "Podul istoric Faidherbe", en: "Historic Faidherbe Bridge" },
-    coordinates: { lat: 16.033, lng: -16.497 },
+    coords: [-16.497, 16.033],
     description: {
       de: "Die Brücke verbindet Saint-Louis mit dem Festland und ist ein Meisterwerk des Ingenieurwesens aus dem späten 19. Jahrhundert. Sie ist ein Symbol der kolonialen Infrastruktur.",
       hu: "A híd összeköti Saint-Louis-t a szárazfölddel, és a 19. század végi mérnöki munka remekműve. A gyarmati infrastruktúra szimbóluma.",
@@ -1026,7 +1026,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-maison-des-signares-history-v2",
     type: "palace",
     name: { de: "Haus der Signares", hu: "Signares háza", ro: "Casa Signares", en: "House of the Signares" },
-    coordinates: { lat: 16.02, lng: -16.5 },
+    coords: [-16.5, 16.02],
     description: {
       de: "Dieses Gebäude zeugt von der einflussreichen Rolle der Signares, den einheimischen Frauen im Handel von Saint-Louis. Es ist ein Beispiel für den kreolischen Baustil.",
       hu: "Ez az épület a signares, a Saint-Louis-i kereskedelemben befolyásos helyi nők szerepéről tanúskodik. A kreol építészeti stílus példája.",
@@ -1045,7 +1045,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-grotte-des-ancetres-history-v2",
     type: "ruins",
     name: { de: "Höhle der Ahnen", hu: "Ősök barlangja", ro: "Peștera strămoșilor", en: "Cave of the Ancestors" },
-    coordinates: { lat: 12.5, lng: -16.3 },
+    coords: [-16.3, 12.5],
     description: {
       de: "Diese Höhlenstätte enthält archäologische Spuren früher menschlicher Besiedlung. Sie wird von lokalen Gemeinschaften als spiritueller Ort mit historischer Bedeutung bewahrt.",
       hu: "Ez a barlanghelyszín a korai emberi letelepedés régészeti nyomait tartalmazza. A helyi közösségek történelmi jelentőségű szellemi helyként őrzik.",
@@ -1064,7 +1064,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-fort-de-sédhiou-history-v2",
     type: "fort",
     name: { de: "Fort Sédhiou", hu: "Sédhiou erőd", ro: "Fortul Sédhiou", en: "Fort Sédhiou" },
-    coordinates: { lat: 12.7, lng: -15.5 },
+    coords: [-15.5, 12.7],
     description: {
       de: "Die Befestigungsanlage diente der kolonialen Sicherung des Casamance-Gebietes. Heute dient das ehemalige Militärgebäude als lokales historisches Museum.",
       hu: "A megerősített létesítmény a Casamance terület gyarmati biztosítását szolgálta. Ma az egykori katonai épület helytörténeti múzeumként szolgál.",
@@ -1083,7 +1083,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-ruines-de-nder-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Nder", hu: "Nder romjai", ro: "Ruinele din Nder", en: "Ruins of Nder" },
-    coordinates: { lat: 16.2, lng: -16.2 },
+    coords: [-16.2, 16.2],
     description: {
       de: "Nder ist ein symbolischer Ort für den historischen Widerstand des Walo-Reiches. Das ehemalige Dorf ist heute eine Gedenkstätte für die Opfer der kolonialen Konflikte.",
       hu: "Nder a Walo Birodalom történelmi ellenállásának szimbolikus helyszíne. Az egykori falu ma emlékhely a gyarmati konfliktusok áldozatai számára.",
@@ -1102,7 +1102,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-marche-esclaves-gorée-annexe-history-v2",
     type: "landmark",
     name: { de: "Gorée Sklavenhandel-Nebenstätte", hu: "Gorée rabszolga-kereskedelmi mellékhelyszín", ro: "Situl secundar comerț sclavi Gorée", en: "Gorée Slave Trade Annex Site" },
-    coordinates: { lat: 14.66, lng: -17.39 },
+    coords: [-17.39, 14.66],
     description: {
       de: "Dies ist ein historisch bedeutendes Nebengebäude auf der Insel Gorée, das mit dem transatlantischen Sklavenhandel verbunden ist. Es dient heute der musealen Aufarbeitung.",
       hu: "Ez egy történelmileg jelentős melléképület Gorée szigetén, amely kapcsolódik a transzatlanti rabszolga-kereskedelemhez. Ma a múzeumi feldolgozást szolgálja.",
@@ -1121,7 +1121,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-palais-gouverneur-saint-louis-history-v2",
     type: "palace",
     name: { de: "Gouverneurspalast Saint-Louis", hu: "Saint-Louis kormányzói palota", ro: "Palatul Guvernatorului din Saint-Louis", en: "Governor's Palace in Saint-Louis" },
-    coordinates: { lat: 16.03, lng: -16.5 },
+    coords: [-16.5, 16.03],
     description: {
       de: "Das imposante Bauwerk diente als Sitz der französischen Kolonialverwaltung in Westafrika. Heute beherbergt es historische Ausstellungen und administrative Funktionen.",
       hu: "Az impozáns épület a francia gyarmati közigazgatás székhelyeként szolgált Nyugat-Afrikában. Ma történelmi kiállításoknak és adminisztratív funkcióknak ad otthont.",
@@ -1140,7 +1140,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-fort-de-podor-historique-history-v2",
     type: "fort",
     name: { de: "Historisches Fort Podor", hu: "Podor történelmi erődje", ro: "Fortul istoric Podor", en: "Historic Fort of Podor" },
-    coordinates: { lat: 16.64, lng: -14.96 },
+    coords: [-14.96, 16.64],
     description: {
       de: "Das Fort wurde an einer strategischen Stelle des Senegalflusses erbaut. Es stellt ein wichtiges Zeugnis der kolonialen Handelsgeschichte und Militärarchitektur dar.",
       hu: "Az erőd a Szenegál folyó stratégiai pontján épült. A gyarmati kereskedelmi történelem és katonai építészet fontos bizonyítéka.",
@@ -1159,7 +1159,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     id: "senegal-site-archeologique-joal-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Joal", hu: "Joal régészeti lelőhely", ro: "Sit arheologic Joal", en: "Archaeological Site of Joal" },
-    coordinates: { lat: 14.16, lng: -16.84 },
+    coords: [-16.84, 14.16],
     description: {
       de: "Diese archäologische Stätte zeugt von der frühen Besiedlung der Küste. Die Funde dokumentieren den Übergang zur sesshaften Lebensweise vor der Kolonialzeit.",
       hu: "Ez a régészeti lelőhely a tengerparti korai letelepedésről tanúskodik. A leletek dokumentálják a letelepedett életmódra való áttérést a gyarmati kor előtt.",

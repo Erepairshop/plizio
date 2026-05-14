@@ -5,7 +5,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-malakal-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Malakal", hu: "Malakal-kikötő", ro: "Portul Malakal", en: "Malakal Port" },
-    coordinates: { lat: 7.3303, lng: 134.4506 },
+    coords: [134.4506, 7.3303],
     description: {
       de: "Der Hafen von Malakal ist der wichtigste internationale Seehafen von Palau. Er dient als zentraler Knotenpunkt für den Warenumschlag und die Treibstoffversorgung.",
       hu: "Malakal kikötője Palau elsődleges nemzetközi tengeri kapuja. Ez a központ felel az országba érkező importtermékek és az üzemanyag-ellátás nagy részéért.",
@@ -24,7 +24,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-koror-business-district-economic-v2",
     type: "town",
     name: { de: "Geschäftsviertel Koror", hu: "Korori üzleti negyed", ro: "Districtul comercial Koror", en: "Koror Business District" },
-    coordinates: { lat: 7.3425, lng: 134.4785 },
+    coords: [134.4785, 7.3425],
     description: {
       de: "Dieses Viertel bildet das wirtschaftliche Herz von Palau. Es beherbergt die wichtigsten Banken, Einzelhandelszentren und Dienstleistungsunternehmen des Landes.",
       hu: "Ez a negyed Palau gazdasági szíve. Itt találhatók az ország legfontosabb bankjai, kiskereskedelmi központjai és szolgáltató vállalatai.",
@@ -43,7 +43,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-aimeliik-power-plant-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Aimeliik", hu: "Aimeliik erőmű", ro: "Centrala electrică Aimeliik", en: "Aimeliik Power Plant" },
-    coordinates: { lat: 7.4522, lng: 134.5021 },
+    coords: [134.5021, 7.4522],
     description: {
       de: "Das Kraftwerk Aimeliik ist die größte Energieerzeugungsanlage in Palau. Es sichert die Stromversorgung für Koror und den Großteil der Insel Babeldaob.",
       hu: "Az aimeliiki erőmű Palau legnagyobb energiatermelő létesítménye. Ez biztosítja az áramellátást Koror és Babeldaob szigetének nagy része számára.",
@@ -62,7 +62,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-airai-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarpark Airai", hu: "Airai napelemfarm", ro: "Parcul solar Airai", en: "Airai Solar Farm" },
-    coordinates: { lat: 7.3685, lng: 134.5381 },
+    coords: [134.5381, 7.3685],
     description: {
       de: "Dieser Solarpark stellt Palaus Engagement für erneuerbare Energien dar. Die Anlage reduziert die Abhängigkeit von teuren importierten fossilen Brennstoffen.",
       hu: "Ez a napelemfarm Palau megújuló energia melletti elkötelezettségét jelképezi. A létesítmény csökkenti a drága import fosszilis tüzelőanyagoktól való függőséget.",
@@ -81,7 +81,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-kb-bridge-infrastructure-economic-v2",
     type: "bridge",
     name: { de: "Koror-Babeldaob-Brücke", hu: "Koror-Babeldaob híd", ro: "Podul Koror-Babeldaob", en: "Koror-Babeldaob Bridge" },
-    coordinates: { lat: 7.3619, lng: 134.5122 },
+    coords: [134.5122, 7.3619],
     description: {
       de: "Die KB-Brücke ist die wichtigste Verkehrsader des Landes. Sie verbindet das Handelszentrum Koror mit dem Flughafen und der Hauptinsel Babeldaob.",
       hu: "A KB-híd az ország legfontosabb közlekedési útvonala. Összeköti Koror kereskedelmi központját a repülőtérrel és Babeldaob főszigetével.",
@@ -100,7 +100,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-ngatpang-aquaculture-center-economic-v2",
     type: "factory",
     name: { de: "Aquakulturzentrum Ngatpang", hu: "Ngatpangi akvakultúra központ", ro: "Centrul de acvacultură Ngatpang", en: "Ngatpang Aquaculture Center" },
-    coordinates: { lat: 7.4755, lng: 134.5452 },
+    coords: [134.5452, 7.4755],
     description: {
       de: "Dieses Zentrum ist auf die nachhaltige Zucht von Meeresfrüchten spezialisiert. Es spielt eine wichtige Rolle für die lokale Fischereiindustrie und den Export.",
       hu: "Ez a központ a tengeri termékek fenntartható tenyésztésére specializálódott. Fontos szerepet játszik a helyi haliparban és az exportban.",
@@ -119,7 +119,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-peleliu-south-harbor-economic-v2",
     type: "port",
     name: { de: "Südhafen von Peleliu", hu: "Peleliu déli kikötő", ro: "Portul de Sud Peleliu", en: "Peleliu South Harbor" },
-    coordinates: { lat: 7.0418, lng: 134.2585 },
+    coords: [134.2585, 7.0418],
     description: {
       de: "Der Südhafen von Peleliu ist der logistische Knotenpunkt der Insel. Er ermöglicht den Transport von Agrarprodukten und Fischfang zum Hauptmarkt in Koror.",
       hu: "Peleliu déli kikötője a sziget logisztikai csomópontja. Ez lehetővé teszi a mezőgazdasági termékek és a halzsákmány szállítását a korori piacra.",
@@ -138,7 +138,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-angaur-harbor-economic-v2",
     type: "port",
     name: { de: "Hafen von Angaur", hu: "Angaur kikötő", ro: "Portul Angaur", en: "Angaur Harbor" },
-    coordinates: { lat: 6.9085, lng: 134.1352 },
+    coords: [134.1352, 6.9085],
     description: {
       de: "Dieser Hafen ist die einzige Versorgungsader für die südlichste bewohnte Insel Palaus. Er sichert die Lieferung von Lebensmitteln, Treibstoff und Post.",
       hu: "Ez a kikötő az egyetlen ellátási útvonal Palau legdélebbi lakott szigete számára. Biztosítja az élelmiszer, az üzemanyag és a posta szállítását.",
@@ -157,7 +157,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-ngerulmud-administrative-economic-v2",
     type: "capital",
     name: { de: "Regierungsviertel Ngerulmud", hu: "Ngerulmud kormányzati negyed", ro: "Centrul administrativ Ngerulmud", en: "Ngerulmud Administrative Center" },
-    coordinates: { lat: 7.5004, lng: 134.6242 },
+    coords: [134.6242, 7.5004],
     description: {
       de: "Als Sitz der Regierung ist Ngerulmud das Zentrum für öffentliche Ausgaben und nationale Verwaltung. Es ist ein wichtiger Arbeitgeber im öffentlichen Sektor.",
       hu: "Ngerulmud a kormány székhelyeként a közkiadások és a nemzeti közigazgatás központja. A közszféra egyik legfontosabb munkáltatója az országban.",
@@ -176,7 +176,7 @@ export const palauEconomicV2: POI[] = [
     id: "palau-ngardmau-mining-ruins-economic-v2",
     type: "mine",
     name: { de: "Ngardmau-Bergbaugelände", hu: "Ngardmaui bányaterület", ro: "Situl minier Ngardmau", en: "Ngardmau Mining Site" },
-    coordinates: { lat: 7.5952, lng: 134.5805 },
+    coords: [134.5805, 7.5952],
     description: {
       de: "Dieses Gelände war einst ein Zentrum für Bauxit- und Phosphatabbau. Heute zeugen die Ruinen von der industriellen Vergangenheit Palaus während der Kolonialzeit.",
       hu: "Ez a terület egykor a bauxit- és foszfátbányászat központja volt. Ma a romok Palau gyarmati korszak alatti ipari múltjáról tanúskodnak.",

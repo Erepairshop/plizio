@@ -5,7 +5,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-east-jerusalem-cities-v2",
     type: "capital",
     name: { de: "Ostjerusalem", hu: "Kelet-Jeruzsálem", ro: "Ierusalimul de Est", en: "East Jerusalem" },
-    coordinates: { lat: 31.7833, lng: 35.2333 },
+    coords: [35.2333, 31.7833],
     description: {
       de: "Ostjerusalem umfasst die Altstadt und bedeutende religiöse Stätten wie den Felsendom. Es gilt als das kulturelle und politische Zentrum Palästinas.",
       hu: "Kelet-Jeruzsálem magában foglalja az Óvárost és olyan vallási helyszíneket, mint a Szikladóm. Palesztina kulturális és politikai központja.",
@@ -24,7 +24,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-gaza-city-cities-v2",
     type: "city",
     name: { de: "Gaza-Stadt", hu: "Gázaváros", ro: "Gaza", en: "Gaza City" },
-    coordinates: { lat: 31.5, lng: 34.4667 },
+    coords: [34.4667, 31.5],
     description: {
       de: "Gaza-Stadt ist die größte Stadt im Gazastreifen und ein historisches Handelszentrum am Mittelmeer. Sie blickt auf eine über 3000-jährige Geschichte zurück.",
       hu: "Gázaváros a Gázai övezet legnagyobb települése és történelmi kereskedelmi központ a Földközi-tenger partján. Több mint 3000 éves múltra tekint vissza.",
@@ -43,7 +43,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-hebron-cities-v2",
     type: "city",
     name: { de: "Hebron", hu: "Hebron", ro: "Hebron", en: "Hebron" },
-    coordinates: { lat: 31.5333, lng: 35.0944 },
+    coords: [35.0944, 31.5333],
     description: {
       de: "Hebron ist eine der ältesten kontinuierlich bewohnten Städte der Welt und bekannt für das Grab der Patriarchen. Sie liegt im südlichen Westjordanland.",
       hu: "Hebron a világ egyik legrégebbi, folyamatosan lakott városa, híres a Pátriárkák sírjáról. Ciszjordánia déli részén található.",
@@ -62,7 +62,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-nablus-cities-v2",
     type: "city",
     name: { de: "Nablus", hu: "Nablusz", ro: "Nablus", en: "Nablus" },
-    coordinates: { lat: 32.2211, lng: 35.2544 },
+    coords: [35.2544, 32.2211],
     description: {
       de: "Nablus liegt zwischen den Bergen Ebal und Garizim und ist berühmt für seine traditionelle Seifenherstellung. Die Stadt hat eine bedeutende Altstadt.",
       hu: "Nablusz az Ebál és Garizim hegyek között fekszik, híres a hagyományos szappanfőzéséről. A város jelentős óvárossal rendelkezik.",
@@ -81,7 +81,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-khan-yunis-cities-v2",
     type: "city",
     name: { de: "Chan Yunis", hu: "Hán Júnisz", ro: "Khan Yunis", en: "Khan Yunis" },
-    coordinates: { lat: 31.345, lng: 34.3033 },
+    coords: [34.3033, 31.345],
     description: {
       de: "Chan Yunis ist ein wichtiges Agrar- und Handelszentrum im südlichen Gazastreifen. Die Stadt entstand um eine Karawanserei aus dem 14. Jahrhundert.",
       hu: "Hán Júnisz fontos mezőgazdasági és kereskedelmi központ a Gázai övezet déli részén. A város egy 14. századi karavánszeráj körül alakult ki.",
@@ -100,7 +100,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jabalia-cities-v2",
     type: "city",
     name: { de: "Dschabaliya", hu: "Dzsabalija", ro: "Jabalia", en: "Jabalia" },
-    coordinates: { lat: 31.5289, lng: 34.4981 },
+    coords: [34.4981, 31.5289],
     description: {
       de: "Dschabaliya liegt nördlich von Gaza-Stadt und ist bekannt für seine dichte Besiedlung und Landwirtschaft. Die Region hat antike byzantinische Wurzeln.",
       hu: "Dzsabalija Gázavárostól északra fekszik, sűrű lakosságáról és mezőgazdaságáról ismert. A régiónak ókori bizánci gyökerei vannak.",
@@ -119,7 +119,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-rafah-cities-v2",
     type: "city",
     name: { de: "Rafah", hu: "Rafah", ro: "Rafah", en: "Rafah" },
-    coordinates: { lat: 31.2844, lng: 34.2508 },
+    coords: [34.2508, 31.2844],
     description: {
       de: "Rafah ist die südlichste Stadt im Gazastreifen an der Grenze zu Ägypten. Sie ist ein strategisch wichtiger Grenzort für den Personen- und Warenverkehr.",
       hu: "Rafah a Gázai övezet legdélibbi városa az egyiptomi határon. Stratégiailag fontos határátkelőhely a személy- és áruforgalom számára.",
@@ -138,7 +138,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tulkarm-cities-v2",
     type: "city",
     name: { de: "Tulkarm", hu: "Tulkarm", ro: "Tulkarm", en: "Tulkarm" },
-    coordinates: { lat: 32.3117, lng: 35.0253 },
+    coords: [35.0253, 32.3117],
     description: {
       de: "Tulkarm liegt im Nordwesten des Westjordanlands am Rande der Scharon-Ebene. Die Stadt ist ein bedeutendes Handelszentrum für landwirtschaftliche Produkte.",
       hu: "Tulkarm Ciszjordánia északnyugati részén, a Sáron-síkság szélén fekszik. A város a mezőgazdasági termékek jelentős kereskedelmi központja.",
@@ -157,7 +157,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-qalqilya-cities-v2",
     type: "city",
     name: { de: "Qalqilya", hu: "Kalkilja", ro: "Qalqilya", en: "Qalqilya" },
-    coordinates: { lat: 32.1933, lng: 34.9739 },
+    coords: [34.9739, 32.1933],
     description: {
       de: "Qalqilya ist eine Stadt im Westjordanland, die fast vollständig von der Grenzanlage umgeben ist. Sie ist für ihren Zoo und ihre Zitrusfrüchte bekannt.",
       hu: "Kalkilja egy ciszjordániai város, amelyet szinte teljesen körülvesz a határépítmény. Állatkertjéről és citrusféléiről ismert.",
@@ -176,7 +176,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jenin-cities-v2",
     type: "city",
     name: { de: "Dschenin", hu: "Dzsenín", ro: "Jenin", en: "Jenin" },
-    coordinates: { lat: 32.4578, lng: 35.2978 },
+    coords: [35.2978, 32.4578],
     description: {
       de: "Dschenin ist eine historische Stadt im Norden des Westjordanlands am südlichen Rand der Jesreel-Ebene. Sie ist ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Dzsenín egy történelmi város Ciszjordánia északi részén, a Jezréel-völgy déli szélén. Fontos mezőgazdasági központ.",
@@ -195,7 +195,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-hanoun-cities-v2",
     type: "town",
     name: { de: "Beit Hanun", hu: "Bét Hanún", ro: "Beit Hanoun", en: "Beit Hanoun" },
-    coordinates: { lat: 31.5414, lng: 34.535 },
+    coords: [34.535, 31.5414],
     description: {
       de: "Beit Hanun liegt im nordöstlichen Gazastreifen nahe der Grenze. Die Stadt ist vor allem für ihre Zitrusplantagen und Landwirtschaft bekannt.",
       hu: "Bét Hanún a Gázai övezet északkeleti részén fekszik, közel a határhoz. A város főként citrusültetvényeiről és mezőgazdaságáról ismert.",
@@ -214,7 +214,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-lahiya-cities-v2",
     type: "town",
     name: { de: "Beit Lahiya", hu: "Bét Lahija", ro: "Beit Lahiya", en: "Beit Lahiya" },
-    coordinates: { lat: 31.5539, lng: 34.505 },
+    coords: [34.505, 31.5539],
     description: {
       de: "Beit Lahiya liegt im nördlichen Gazastreifen und ist für seinen fruchtbaren Boden bekannt. Hier werden vor allem Erdbeeren und Blumen für den Export angebaut.",
       hu: "Bét Lahija a Gázai övezet északi részén fekszik, termékeny talajáról ismert. Itt főleg szamócát és virágokat termesztenek exportra.",
@@ -233,7 +233,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-deir-al-balah-cities-v2",
     type: "city",
     name: { de: "Deir al-Balah", hu: "Dejr el-Balah", ro: "Deir al-Balah", en: "Deir al-Balah" },
-    coordinates: { lat: 31.4178, lng: 34.3503 },
+    coords: [34.3503, 31.4178],
     description: {
       de: "Deir al-Balah liegt im zentralen Gazastreifen und ist berühmt für seine Dattelpalmen. Der Name der Stadt bedeutet wörtlich 'Kloster der Datteln'.",
       hu: "Dejr el-Balah a Gázai övezet középső részén fekszik, híres a datolyapálmáiról. A város neve szó szerint 'datolyák kolostorát' jelenti.",
@@ -252,7 +252,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jericho-cities-v2",
     type: "city",
     name: { de: "Jericho", hu: "Jerikó", ro: "Ierihon", en: "Jericho" },
-    coordinates: { lat: 31.85, lng: 35.45 },
+    coords: [35.45, 31.85],
     description: {
       de: "Jericho gilt als eine der ältesten kontinuierlich bewohnten Städte der Welt und liegt tief unter dem Meeresspiegel. Sie ist eine Oasenstadt im Jordantal.",
       hu: "Jerikó a világ egyik legrégebbi, folyamatosan lakott városa, mélyen a tengerszint alatt fekszik. Oázisváros a Jordán-völgyben.",
@@ -271,7 +271,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-jala-cities-v2",
     type: "town",
     name: { de: "Beit Dschala", hu: "Bét Dzsala", ro: "Beit Jala", en: "Beit Jala" },
-    coordinates: { lat: 31.7144, lng: 35.1867 },
+    coords: [35.1867, 31.7144],
     description: {
       de: "Beit Dschala ist eine christlich geprägte Stadt westlich von Bethlehem. Sie ist bekannt für ihre Olivenhaine und die Produktion von hochwertigem Olivenöl.",
       hu: "Bét Dzsala egy keresztény többségű város Betlehemtől nyugatra. Olajfaligeteiről és kiváló minőségű olívaolajáról ismert.",
@@ -290,7 +290,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-sahour-cities-v2",
     type: "town",
     name: { de: "Beit Sahur", hu: "Bét Szahúr", ro: "Beit Sahour", en: "Beit Sahour" },
-    coordinates: { lat: 31.7011, lng: 35.2281 },
+    coords: [35.2281, 31.7011],
     description: {
       de: "Beit Sahur liegt östlich von Bethlehem und wird traditionell mit den Hirtenfeldern der biblischen Weihnachtsgeschichte identifiziert.",
       hu: "Bét Szahúr Betlehemtől keletre fekszik, a hagyomány szerint itt találhatók a bibliai karácsonyi történet pásztormezői.",
@@ -309,7 +309,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-ramallah-cities-v2",
     type: "city",
     name: { de: "Ramallah", hu: "Rámalláh", ro: "Ramallah", en: "Ramallah" },
-    coordinates: { lat: 31.9025, lng: 35.2006 },
+    coords: [35.2006, 31.9025],
     description: {
       de: "Ramallah ist das politische und wirtschaftliche Verwaltungszentrum des Westjordanlands. Die Stadt ist für ihr lebendiges kulturelles Leben und Cafés bekannt.",
       hu: "Rámalláh Ciszjordánia politikai és gazdasági közigazgatási központja. A város élénk kulturális életéről és kávézóiról ismert.",
@@ -328,7 +328,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-bireh-cities-v2",
     type: "city",
     name: { de: "al-Bira", hu: "el-Bíra", ro: "Al-Bireh", en: "Al-Bireh" },
-    coordinates: { lat: 31.91, lng: 35.21 },
+    coords: [35.21, 31.91],
     description: {
       de: "al-Bira grenzt direkt an Ramallah und bildet mit dieser Stadt ein zusammenhängendes urbanes Gebiet. Sie liegt an der historischen Route nach Nablus.",
       hu: "el-Bíra közvetlenül határos Rámalláhhal, és egy összefüggő városi területet alkot vele. A Nabluszba vezető történelmi útvonalon fekszik.",
@@ -347,7 +347,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-salfit-cities-v2",
     type: "town",
     name: { de: "Salfit", hu: "Szalfít", ro: "Salfit", en: "Salfit" },
-    coordinates: { lat: 32.0833, lng: 35.1833 },
+    coords: [35.1833, 32.0833],
     description: {
       de: "Salfit liegt im zentralen Westjordanland und ist als 'Stadt der Oliven' bekannt. Die Region produziert das meiste Olivenöl im Westjordanland.",
       hu: "Szalfít Ciszjordánia középső részén fekszik, az 'olajbogyók városaként' ismert. A régió termeli a legtöbb olívaolajat Ciszjordániában.",
@@ -366,7 +366,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tubas-cities-v2",
     type: "town",
     name: { de: "Tubas", hu: "Tubász", ro: "Tubas", en: "Tubas" },
-    coordinates: { lat: 32.32, lng: 35.3694 },
+    coords: [35.3694, 32.32],
     description: {
       de: "Tubas liegt im Nordosten des Westjordanlands oberhalb des Jordantals. Die Stadt ist ein wichtiges Tor zum fruchtbaren Umland der Ghor-Region.",
       hu: "Tubász Ciszjordánia északkeleti részén, a Jordán-völgy felett fekszik. A város fontos kapu a Ghor-régió termékeny vidéke felé.",
@@ -385,7 +385,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-halhul-cities-v2",
     type: "town",
     name: { de: "Halhul", hu: "Halhúl", ro: "Halhul", en: "Halhul" },
-    coordinates: { lat: 31.5833, lng: 35.1111 },
+    coords: [35.1111, 31.5833],
     description: {
       de: "Halhul liegt nördlich von Hebron auf einem der höchsten Punkte des Westjordanlands. Die Stadt ist berühmt für ihren Weinbau und Obstgärten.",
       hu: "Halhúl Hebrontól északra fekszik Ciszjordánia egyik legmagasabb pontján. A város híres szőlőtermesztéséről és gyümölcsöseiről.",
@@ -404,7 +404,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-dura-cities-v2",
     type: "town",
     name: { de: "Dura", hu: "Dúra", ro: "Dura", en: "Dura" },
-    coordinates: { lat: 31.5, lng: 35.0333 },
+    coords: [35.0333, 31.5],
     description: {
       de: "Dura liegt im Gouvernement Hebron und ist ein wichtiges regionales Zentrum. Die Stadt hat eine lange Geschichte, die bis in die kanaanitische Zeit zurückreicht.",
       hu: "Dúra Hebron kormányzóságban fekszik, és fontos regionális központ. A város hosszú történelemmel bír, amely a kánaáni időkig nyúlik vissza.",
@@ -423,7 +423,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-yatta-cities-v2",
     type: "city",
     name: { de: "Yatta", hu: "Jatta", ro: "Yatta", en: "Yatta" },
-    coordinates: { lat: 31.4608, lng: 35.0933 },
+    coords: [35.0933, 31.4608],
     description: {
       de: "Yatta liegt im südlichen Gouvernement Hebron und ist ein Zentrum für Viehzucht und Landwirtschaft. Die Stadt ist für ihre traditionelle Lebensweise bekannt.",
       hu: "Jatta Hebron kormányzóság déli részén fekszik, az állattenyésztés és a mezőgazdaság központja. A város hagyományos életmódjáról ismert.",
@@ -442,7 +442,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-bani-naim-cities-v2",
     type: "town",
     name: { de: "Bani Naim", hu: "Bani Naim", ro: "Bani Na'im", en: "Bani Na'im" },
-    coordinates: { lat: 31.5167, lng: 35.1667 },
+    coords: [35.1667, 31.5167],
     description: {
       de: "Bani Naim liegt östlich von Hebron und ist als 'Stadt der Märtyrer' bekannt. Sie bietet weite Ausblicke auf das Tote Meer und die Wüste.",
       hu: "Bani Naim Hebrontól keletre fekszik, a 'mártírok városaként' ismert. Tágas kilátást nyújt a Holt-tengerre és a sivatagra.",
@@ -461,7 +461,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-ad-dhahiriya-cities-v2",
     type: "town",
     name: { de: "ad-Dhahiriya", hu: "ed-Dahirijja", ro: "Ad-Dhahiriya", en: "Ad-Dhahiriya" },
-    coordinates: { lat: 31.4422, lng: 34.9708 },
+    coords: [34.9708, 31.4422],
     description: {
       de: "ad-Dhahiriya liegt im äußersten Süden des Westjordanlands. Die Stadt ist ein wichtiger Verkehrsknotenpunkt zwischen Hebron und dem Negev.",
       hu: "ed-Dahirijja Ciszjordánia legdélebbi részén fekszik. A város fontos közlekedési csomópont Hebron és a Negev-sivatag között.",
@@ -480,7 +480,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-ummar-cities-v2",
     type: "town",
     name: { de: "Beit Ummar", hu: "Bét Ummar", ro: "Beit Ummar", en: "Beit Ummar" },
-    coordinates: { lat: 31.6233, lng: 35.1008 },
+    coords: [35.1008, 31.6233],
     description: {
       de: "Beit Ummar liegt im nördlichen Gouvernement Hebron und ist für seinen Obstanbau, insbesondere Trauben und Pflaumen, berühmt.",
       hu: "Bét Ummar Hebron kormányzóság északi részén fekszik, gyümölcstermesztéséről, különösen szőlőjéről és szilvájáról híres.",
@@ -499,7 +499,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-surif-cities-v2",
     type: "town",
     name: { de: "Surif", hu: "Szuríf", ro: "Surif", en: "Surif" },
-    coordinates: { lat: 31.65, lng: 35.0667 },
+    coords: [35.0667, 31.65],
     description: {
       de: "Surif liegt im nordwestlichen Gouvernement Hebron an der Grenze zur Grüne Linie. Die Stadt ist von Olivenhainen und Pinienwäldern umgeben.",
       hu: "Szuríf Hebron kormányzóság északnyugati részén fekszik, a zöld vonal közelében. A várost olajfaligetek és fenyőerdők veszik körül.",
@@ -518,7 +518,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-sair-cities-v2",
     type: "town",
     name: { de: "Sa'ir", hu: "Száír", ro: "Sa'ir", en: "Sa'ir" },
-    coordinates: { lat: 31.5833, lng: 35.1333 },
+    coords: [35.1333, 31.5833],
     description: {
       de: "Sa'ir liegt nordöstlich von Hebron in einem tiefen Tal. Die Stadt ist für ihre Quellen und die fruchtbare landwirtschaftliche Ebene bekannt.",
       hu: "Száír Hebrontól északkeletre fekszik egy mély völgyben. A város forrásairól és termékeny mezőgazdasági síkságáról ismert.",
@@ -537,7 +537,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-ash-shuyukh-cities-v2",
     type: "town",
     name: { de: "ash-Shuyukh", hu: "es-Sujúh", ro: "Ash-Shuyukh", en: "Ash-Shuyukh" },
-    coordinates: { lat: 31.58, lng: 35.15 },
+    coords: [35.15, 31.58],
     description: {
       de: "ash-Shuyukh grenzt an Sa'ir und liegt auf einem Hügel mit Blick auf die Wüste Judäa. Die Stadt ist ein traditionelles landwirtschaftliches Zentrum.",
       hu: "es-Sujúh Száírral határos, és egy dombon fekszik, kilátással a Júdeai-sivatagra. A város hagyományos mezőgazdasági központ.",
@@ -556,7 +556,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-idhna-cities-v2",
     type: "town",
     name: { de: "Idhna", hu: "Idna", ro: "Idhna", en: "Idhna" },
-    coordinates: { lat: 31.5583, lng: 34.9833 },
+    coords: [34.9833, 31.5583],
     description: {
       de: "Idhna liegt westlich von Hebron nahe der Grüne Linie. Die Stadt ist für ihre bedeutende Rolle in der Recycling- und Schrottindustrie bekannt.",
       hu: "Idna Hebrontól nyugatra fekszik, a zöld vonal közelében. A város jelentős szerepéről ismert az újrahasznosítási és fémhulladék-iparban.",
@@ -575,7 +575,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tarqumiya-cities-v2",
     type: "town",
     name: { de: "Tarqumiya", hu: "Tarkumijja", ro: "Tarqumiya", en: "Tarqumiya" },
-    coordinates: { lat: 31.5833, lng: 35.0 },
+    coords: [35.0, 31.5833],
     description: {
       de: "Tarqumiya ist eine Stadt westlich von Hebron, die als wichtiger Handels- und Transportknotenpunkt dient, insbesondere durch den nahegelegenen Grenzübergang.",
       hu: "Tarkumijja Hebrontól nyugatra fekvő város, amely fontos kereskedelmi és szállítási csomópontként szolgál a közeli határátkelő miatt.",
@@ -594,7 +594,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-kharas-cities-v2",
     type: "town",
     name: { de: "Charas", hu: "Harász", ro: "Kharas", en: "Kharas" },
-    coordinates: { lat: 31.61, lng: 35.03 },
+    coords: [35.03, 31.61],
     description: {
       de: "Charas liegt im Nordwesten von Hebron und ist eine ländliche Stadt, die hauptsächlich von der Oliven- und Getreideproduktion lebt.",
       hu: "Harász Hebron északnyugati részén fekszik, vidéki város, amely főként az olajbogyó- és gabonatermelésből él.",
@@ -613,7 +613,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-nuba-cities-v2",
     type: "town",
     name: { de: "Nuba", hu: "Nuba", ro: "Nuba", en: "Nuba" },
-    coordinates: { lat: 31.59, lng: 35.02 },
+    coords: [35.02, 31.59],
     description: {
       de: "Nuba ist eine kleine Stadt westlich von Hebron. Sie ist für ihre historischen Inschriften bekannt, die die Verbindung zum Felsendom in Jerusalem erwähnen.",
       hu: "Nuba egy kisváros Hebrontól nyugatra. Történelmi feliratairól ismert, amelyek a jeruzsálemi Szikladómhoz való kötődést említik.",
@@ -632,7 +632,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beit-kahel-cities-v2",
     type: "town",
     name: { de: "Beit Kahel", hu: "Bét Kahel", ro: "Beit Kahel", en: "Beit Kahel" },
-    coordinates: { lat: 31.5667, lng: 35.075 },
+    coords: [35.075, 31.5667],
     description: {
       de: "Beit Kahel liegt nordwestlich von Hebron auf einem Kamm. Die Stadt ist für ihre Olivenbäume und die malerische Aussicht auf das Umland bekannt.",
       hu: "Bét Kahel Hebrontól északnyugatra, egy hegygerincen fekszik. A város olajfáiról és a környékre nyíló festői kilátásáról ismert.",
@@ -651,7 +651,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tafpuh-cities-v2",
     type: "town",
     name: { de: "Taffuh", hu: "Taffuh", ro: "Taffuh", en: "Taffuh" },
-    coordinates: { lat: 31.52, lng: 35.04 },
+    coords: [35.04, 31.52],
     description: {
       de: "Taffuh liegt westlich von Hebron und ist für seinen Olivenanbau und seine Quellen bekannt. Der Name bedeutet im Arabischen 'Äpfel'.",
       hu: "Taffuh Hebrontól nyugatra fekszik, olajbogyó-termesztéséről és forrásairól ismert. A név arabul 'almát' jelent.",
@@ -670,7 +670,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-as-samu-cities-v2",
     type: "town",
     name: { de: "as-Samu", hu: "es-Szamu", ro: "As-Samu", en: "As-Samu" },
-    coordinates: { lat: 31.4022, lng: 35.0664 },
+    coords: [35.0664, 31.4022],
     description: {
       de: "as-Samu ist die südlichste Stadt im Gouvernement Hebron. Sie ist für ihre antiken Ruinen, einschließlich einer Synagoge aus der byzantinischen Zeit, bekannt.",
       hu: "es-Szamu Hebron kormányzóság legdélibbi városa. Ókori romjairól ismert, beleértve egy bizánci kori zsinagógát.",
@@ -689,7 +689,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-eizariya-cities-v2",
     type: "town",
     name: { de: "al-Eizariya", hu: "el-Ajzaríjja", ro: "Al-Eizariya", en: "Al-Eizariya" },
-    coordinates: { lat: 31.77, lng: 35.26 },
+    coords: [35.26, 31.77],
     description: {
       de: "al-Eizariya ist historisch als Bethanien bekannt und liegt am Osthang des Ölbergs. Die Stadt beherbergt das Grab von Lazarus.",
       hu: "el-Ajzaríjja történelmileg Betániaként ismert, az Olajfák hegyének keleti lejtőjén fekszik. A városban található Lázár sírja.",
@@ -708,7 +708,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-abu-dis-cities-v2",
     type: "town",
     name: { de: "Abu Dis", hu: "Abu Disz", ro: "Abu Dis", en: "Abu Dis" },
-    coordinates: { lat: 31.7667, lng: 35.2667 },
+    coords: [35.2667, 31.7667],
     description: {
       de: "Abu Dis grenzt an das östliche Jerusalem und ist Sitz bedeutender Bildungseinrichtungen wie der Al-Quds-Universität.",
       hu: "Abu Disz Kelet-Jeruzsálemmel határos, és olyan jelentős oktatási intézmények székhelye, mint az Al-Quds Egyetem.",
@@ -727,7 +727,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-ram-cities-v2",
     type: "town",
     name: { de: "al-Ram", hu: "er-Ram", ro: "Al-Ram", en: "Al-Ram" },
-    coordinates: { lat: 31.85, lng: 35.23 },
+    coords: [35.23, 31.85],
     description: {
       de: "al-Ram liegt nördlich von Jerusalem und ist ein geschäftiges Handels- und Wohngebiet. Die Stadt hat eine hohe Bevölkerungsdichte.",
       hu: "er-Ram Jeruzsálemtől északra fekszik, forgalmas kereskedelmi és lakóövezet. A város népsűrűsége igen magas.",
@@ -746,7 +746,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-anata-cities-v2",
     type: "town",
     name: { de: "Anata", hu: "Anata", ro: "Anata", en: "Anata" },
-    coordinates: { lat: 31.81, lng: 35.26 },
+    coords: [35.26, 31.81],
     description: {
       de: "Anata liegt nordöstlich von Jerusalem und wird oft mit dem biblischen Anatot identifiziert, dem Geburtsort des Propheten Jeremia.",
       hu: "Anata Jeruzsálemtől északkeletre fekszik, gyakran a bibliai Anatóttal, Jeremiás próféta szülőhelyével azonosítják.",
@@ -765,7 +765,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-birzeit-cities-v2",
     type: "town",
     name: { de: "Bir Zait", hu: "Bírzeit", ro: "Birzeit", en: "Birzeit" },
-    coordinates: { lat: 31.9694, lng: 35.1811 },
+    coords: [35.1811, 31.9694],
     description: {
       de: "Bir Zait ist bekannt für die gleichnamige Universität, die eine der renommiertesten Bildungseinrichtungen Palästinas ist. Die Stadt hat einen historischen Kern.",
       hu: "Bírzeit az azonos nevű egyetemről ismert, amely Palesztina egyik legnevesebb oktatási intézménye. A városnak történelmi magja van.",
@@ -784,7 +784,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-beitunia-cities-v2",
     type: "city",
     name: { de: "Beitunia", hu: "Bétunja", ro: "Beitunia", en: "Beitunia" },
-    coordinates: { lat: 31.89, lng: 35.17 },
+    coords: [35.17, 31.89],
     description: {
       de: "Beitunia grenzt im Westen an Ramallah und ist ein wichtiges Industrie- und Handelszentrum. Die Stadt blickt auf eine lange landwirtschaftliche Tradition zurück.",
       hu: "Bétunja nyugatról határos Rámalláhhal, és fontos ipari és kereskedelmi központ. A város hosszú mezőgazdasági múltra tekint vissza.",
@@ -803,7 +803,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-silwad-cities-v2",
     type: "town",
     name: { de: "Silwad", hu: "Szilvád", ro: "Silwad", en: "Silwad" },
-    coordinates: { lat: 31.98, lng: 35.26 },
+    coords: [35.26, 31.98],
     description: {
       de: "Silwad liegt nordöstlich von Ramallah auf einem Hügel. Die Stadt ist bekannt für ihre ländliche Umgebung und ihre enge Gemeinschaft.",
       hu: "Szilvád Rámalláhtól északkeletre fekszik egy dombon. A város vidéki környezetéről és szoros közösségéről ismert.",
@@ -822,7 +822,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-mazraa-ash-sharqiya-cities-v2",
     type: "town",
     name: { de: "al-Mazra'a ash-Sharqiya", hu: "el-Mazraa es-Sarkijja", ro: "Al-Mazra'a ash-Sharqiya", en: "Al-Mazra'a ash-Sharqiya" },
-    coordinates: { lat: 32.0, lng: 35.27 },
+    coords: [35.27, 32.0],
     description: {
       de: "al-Mazra'a ash-Sharqiya liegt im Gouvernement Ramallah und ist für seine beeindruckenden Villen und die Verbindung zur palästinensischen Diaspora bekannt.",
       hu: "el-Mazraa es-Sarkijja Rámalláh kormányzóságban fekszik, lenyűgöző villáiról és a palesztin diaszpórával való kapcsolatáról ismert.",
@@ -841,7 +841,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-turmus-ayya-cities-v2",
     type: "town",
     name: { de: "Turmus Ayya", hu: "Turmusz Ajja", ro: "Turmus Ayya", en: "Turmus Ayya" },
-    coordinates: { lat: 32.03, lng: 35.27 },
+    coords: [35.27, 32.03],
     description: {
       de: "Turmus Ayya ist eine wohlhabende Stadt nördlich von Ramallah, bekannt für ihre moderne Architektur und die weitläufigen Olivenhaine.",
       hu: "Turmusz Ajja egy tehetős város Rámalláhtól északra, modern építészetéről és kiterjedt olajfaligeteiről ismert.",
@@ -860,7 +860,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-sinjil-cities-v2",
     type: "town",
     name: { de: "Sindschil", hu: "Szindzsíl", ro: "Sinjil", en: "Sinjil" },
-    coordinates: { lat: 32.03, lng: 35.25 },
+    coords: [35.25, 32.03],
     description: {
       de: "Sindschil ist nach dem Kreuzritter Raymond de Saint-Gilles benannt und liegt auf einem Hügel an der Straße zwischen Ramallah und Nablus.",
       hu: "Szindzsíl Raymond de Saint-Gilles keresztes lovagról kapta a nevét, a Rámalláh és Nablusz közötti út mentén, egy dombon fekszik.",
@@ -879,7 +879,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jalazone-cities-v2",
     type: "town",
     name: { de: "Dschalazun", hu: "Dzsalazun", ro: "Jalazone", en: "Jalazone" },
-    coordinates: { lat: 31.95, lng: 35.22 },
+    coords: [35.22, 31.95],
     description: {
       de: "Dschalazun ist ein bedeutendes Siedlungsgebiet nördlich von Ramallah, das ursprünglich als Flüchtlingslager entstand und heute ein fester urbaner Bestandteil ist.",
       hu: "Dzsalazun jelentős település Rámalláhtól északra, amely eredetileg menekülttáborként jött létre, ma már a városi szövet része.",
@@ -898,7 +898,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-azzun-cities-v2",
     type: "town",
     name: { de: "Azzun", hu: "Azzun", ro: "Azzun", en: "Azzun" },
-    coordinates: { lat: 32.1933, lng: 35.02 },
+    coords: [35.02, 32.1933],
     description: {
       de: "Azzun liegt im Gouvernement Qalqilya und ist für seine strategische Lage an der Verbindungsstraße zwischen Qalqilya und Nablus bekannt.",
       hu: "Azzun Kalkilja kormányzóságban fekszik, és a Kalkilja és Nablusz közötti összekötő út menti stratégiai elhelyezkedéséről ismert.",
@@ -917,7 +917,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-hableh-cities-v2",
     type: "town",
     name: { de: "Habla", hu: "Habla", ro: "Hableh", en: "Hableh" },
-    coordinates: { lat: 32.17, lng: 34.99 },
+    coords: [34.99, 32.17],
     description: {
       de: "Habla liegt südlich von Qalqilya und ist ein Zentrum der lokalen Landwirtschaft, insbesondere für den Anbau von Gemüse und Zitrusfrüchten.",
       hu: "Habla Kalkiljától délre fekszik, a helyi mezőgazdaság központja, különösen a zöldség- és citrustermesztés területén.",
@@ -936,7 +936,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jayyous-cities-v2",
     type: "town",
     name: { de: "Dschayyus", hu: "Dzsajjúsz", ro: "Jayyous", en: "Jayyous" },
-    coordinates: { lat: 32.22, lng: 35.04 },
+    coords: [35.04, 32.22],
     description: {
       de: "Dschayyus liegt nordöstlich von Qalqilya und ist eine ländliche Stadt, die stark vom Oliven- und Obstanbau geprägt ist.",
       hu: "Dzsajjúsz Kalkiljától északkeletre fekszik, vidéki város, amelyre jellemző az olajbogyó- és gyümölcstermesztés.",
@@ -955,7 +955,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-kafr-thulth-cities-v2",
     type: "town",
     name: { de: "Kafr Thulth", hu: "Kafr Thulth", ro: "Kafr Thulth", en: "Kafr Thulth" },
-    coordinates: { lat: 32.17, lng: 35.06 },
+    coords: [35.06, 32.17],
     description: {
       de: "Kafr Thulth liegt im Gouvernement Qalqilya auf einem Hügel. Die Stadt ist für ihre Olivenölproduktion und ihre historische Bedeutung bekannt.",
       hu: "Kafr Thulth Kalkilja kormányzóságban, egy dombon fekszik. A város az olívaolaj-termeléséről és történelmi jelentőségéről ismert.",
@@ -974,7 +974,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-yabad-cities-v2",
     type: "town",
     name: { de: "Ya'bad", hu: "Jabad", ro: "Ya'bad", en: "Ya'bad" },
-    coordinates: { lat: 32.45, lng: 35.1667 },
+    coords: [35.1667, 32.45],
     description: {
       de: "Ya'bad liegt westlich von Dschenin und ist berühmt für seine Holzkohleproduktion und den Anbau von Tabak.",
       hu: "Jabad Dzseníntől nyugatra fekszik, híres a faszéntermeléséről és a dohánytermesztéséről.",
@@ -993,7 +993,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-arraba-cities-v2",
     type: "town",
     name: { de: "Arraba", hu: "Arraba", ro: "Arraba", en: "Arraba" },
-    coordinates: { lat: 32.405, lng: 35.205 },
+    coords: [35.205, 32.405],
     description: {
       de: "Arraba liegt südwestlich von Dschenin auf einem Hügel. Die Stadt ist für ihre gut erhaltene Altstadt und ihre historische Architektur bekannt.",
       hu: "Arraba Dzseníntől délnyugatra, egy dombon fekszik. A város jól megőrzött óvárosáról és történelmi építészetéről ismert.",
@@ -1012,7 +1012,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-qabatiya-cities-v2",
     type: "town",
     name: { de: "Qabatiya", hu: "Kabatija", ro: "Qabatiya", en: "Qabatiya" },
-    coordinates: { lat: 32.41, lng: 35.28 },
+    coords: [35.28, 32.41],
     description: {
       de: "Qabatiya liegt südlich von Dschenin und ist ein bedeutendes Zentrum für die Gewinnung und Verarbeitung von Naturstein.",
       hu: "Kabatija Dzseníntől délre fekszik, a természetes kő kitermelésének és feldolgozásának jelentős központja.",
@@ -1031,7 +1031,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jaba-cities-v2",
     type: "town",
     name: { de: "Dschaba", hu: "Dzsuba", ro: "Jaba'", en: "Jaba'" },
-    coordinates: { lat: 32.34, lng: 35.24 },
+    coords: [35.24, 32.34],
     description: {
       de: "Dschaba liegt im Gouvernement Dschenin auf einem Hügel und ist für seine Olivenölproduktion und die ländliche Umgebung bekannt.",
       hu: "Dzsuba Dzsenín kormányzóságban, egy dombon fekszik, olívaolaj-termeléséről és vidéki környezetéről ismert.",
@@ -1050,7 +1050,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-silat-ad-dhahr-cities-v2",
     type: "town",
     name: { de: "Silat ad-Dhahr", hu: "Szilat ed-Dahr", ro: "Silat ad-Dhahr", en: "Silat ad-Dhahr" },
-    coordinates: { lat: 32.32, lng: 35.22 },
+    coords: [35.22, 32.32],
     description: {
       de: "Silat ad-Dhahr liegt südwestlich von Dschenin an der Hauptstraße nach Nablus. Die Stadt ist für ihre Olivenhaine und Mandelanlagen bekannt.",
       hu: "Szilat ed-Dahr Dzseníntől délnyugatra, a Nabluszba vezető főút mentén fekszik. Olajfaligeteiről és mandulaültetvényeiről ismert.",
@@ -1069,7 +1069,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-burqin-cities-v2",
     type: "town",
     name: { de: "Burqin", hu: "Burkin", ro: "Burqin", en: "Burqin" },
-    coordinates: { lat: 32.45, lng: 35.2667 },
+    coords: [35.2667, 32.45],
     description: {
       de: "Burqin liegt westlich von Dschenin und beherbergt die St.-Georgs-Kirche, die als eine der ältesten Kirchen der Welt gilt.",
       hu: "Burkin Dzseníntől nyugatra fekszik, itt található a Szent György-templom, amelyet a világ egyik legrégebbi templomaként tartanak számon.",
@@ -1088,7 +1088,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tamun-cities-v2",
     type: "town",
     name: { de: "Tamun", hu: "Tamun", ro: "Tamun", en: "Tamun" },
-    coordinates: { lat: 32.29, lng: 35.38 },
+    coords: [35.38, 32.29],
     description: {
       de: "Tamun liegt im Gouvernement Tubas und ist ein wichtiges landwirtschaftliches Zentrum im östlichen Westjordanland nahe dem Jordantal.",
       hu: "Tamun Tubász kormányzóságban fekszik, Ciszjordánia keleti részének fontos mezőgazdasági központja a Jordán-völgy közelében.",
@@ -1107,7 +1107,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-yamun-cities-v2",
     type: "town",
     name: { de: "al-Yamun", hu: "el-Jamun", ro: "Al-Yamun", en: "Al-Yamun" },
-    coordinates: { lat: 32.48, lng: 35.23 },
+    coords: [35.23, 32.48],
     description: {
       de: "al-Yamun liegt nordwestlich von Dschenin und ist für seinen Olivenanbau und seine reiche Geschichte bekannt. Die Stadt hat ein fruchtbares Umland.",
       hu: "el-Jamun Dzseníntől északnyugatra fekszik, olajbogyó-termesztéséről és gazdag történelméről ismert. A város környéke termékeny.",
@@ -1126,7 +1126,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-bani-suheila-cities-v2",
     type: "town",
     name: { de: "Bani Suheila", hu: "Bani Szuhejla", ro: "Bani Suheila", en: "Bani Suheila" },
-    coordinates: { lat: 31.34, lng: 34.34 },
+    coords: [34.34, 31.34],
     description: {
       de: "Bani Suheila liegt östlich von Chan Yunis im Gazastreifen. Die Stadt ist für ihre Landwirtschaft und ihre dichte Besiedlung bekannt.",
       hu: "Bani Szuhejla Hán Júnisztól keletre fekszik a Gázai övezetben. A város mezőgazdaságáról és sűrű lakosságáról ismert.",
@@ -1145,7 +1145,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-abasan-al-kabira-cities-v2",
     type: "town",
     name: { de: "Abasan al-Kabira", hu: "Abaszan el-Kabíra", ro: "Abasan al-Kabira", en: "Abasan al-Kabira" },
-    coordinates: { lat: 31.33, lng: 34.35 },
+    coords: [34.35, 31.33],
     description: {
       de: "Abasan al-Kabira liegt im südlichen Gazastreifen und ist ein ländlich geprägtes Siedlungsgebiet mit Fokus auf Getreide- und Gemüseanbau.",
       hu: "Abaszan el-Kabíra a Gázai övezet déli részén fekszik, vidéki jellegű település, ahol a gabona- és zöldségtermesztés dominál.",
@@ -1164,7 +1164,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-zawayda-cities-v2",
     type: "town",
     name: { de: "al-Zawaida", hu: "ez-Zavajda", ro: "Al-Zawayda", en: "Al-Zawayda" },
-    coordinates: { lat: 31.43, lng: 34.39 },
+    coords: [34.39, 31.43],
     description: {
       de: "al-Zawaida liegt im zentralen Gazastreifen und ist bekannt für seine fruchtbaren Böden und den Anbau von Obst und Gemüse.",
       hu: "ez-Zavajda a Gázai övezet középső részén fekszik, termékeny talajáról, valamint gyümölcs- és zöldségtermesztéséről ismert.",
@@ -1183,7 +1183,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-nuseirat-cities-v2",
     type: "town",
     name: { de: "an-Nuseirat", hu: "en-Nuszejrát", ro: "Al-Nuseirat", en: "Al-Nuseirat" },
-    coordinates: { lat: 31.45, lng: 34.4 },
+    coords: [34.4, 31.45],
     description: {
       de: "an-Nuseirat ist ein dicht besiedeltes urbanes Zentrum im zentralen Gazastreifen, das für seine geschäftigen Märkte bekannt ist.",
       hu: "en-Nuszejrát egy sűrűn lakott városi központ a Gázai övezet középső részén, amely forgalmas piacairól ismert.",
@@ -1202,7 +1202,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-bureij-cities-v2",
     type: "town",
     name: { de: "al-Bureidsch", hu: "el-Burejdzs", ro: "Al-Bureij", en: "Al-Bureij" },
-    coordinates: { lat: 31.44, lng: 34.41 },
+    coords: [34.41, 31.44],
     description: {
       de: "al-Bureidsch liegt im Zentrum des Gazastreifens und ist ein urbanes Siedlungsgebiet mit einer Mischung aus Wohn- und Gewerbeflächen.",
       hu: "el-Burejdzs a Gázai övezet központjában fekszik, lakó- és kereskedelmi területek keverékéből álló városi település.",
@@ -1221,7 +1221,7 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-maghazi-cities-v2",
     type: "town",
     name: { de: "al-Maghazi", hu: "el-Magázi", ro: "Al-Maghazi", en: "Al-Maghazi" },
-    coordinates: { lat: 31.43, lng: 34.42 },
+    coords: [34.42, 31.43],
     description: {
       de: "al-Maghazi ist ein kleines, aber dicht besiedeltes urbanes Zentrum im zentralen Gazastreifen, geprägt von eng bebauten Wohnvierteln.",
       hu: "el-Magázi egy kicsi, de sűrűn lakott városi központ a Gázai övezet középső részén, sűrűn beépített lakónegyedek jellemzik.",

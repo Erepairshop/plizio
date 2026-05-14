@@ -707,7 +707,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-muyaga-mission-history-v2",
     type: "church",
     name: { de: "Katholische Mission Muyaga", hu: "Muyaga katolikus misszió", ro: "Misiunea Catolică Muyaga", en: "Muyaga Catholic Mission" },
-    coordinates: { lat: -3.2051, lng: 30.6528 },
+    coords: [30.6528, -3.2051],
     description: {
       de: "Diese 1898 gegründete Station war die erste katholische Mission in Burundi. Sie liegt in der östlichen Provinz Cankuzo nahe der Grenze.",
       hu: "Ez az 1898-ban alapított állomás volt az első katolikus misszió Burundiban. Cankuzo tartományban található, a tanzániai határ közelében.",
@@ -738,7 +738,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-mbuye-court-history-v2",
     type: "palace",
     name: { de: "Königshof von Mbuye", hu: "Mbuye királyi udvar", ro: "Curtea Regală din Mbuye", en: "Mbuye Royal Court" },
-    coordinates: { lat: -3.3122, lng: 29.7415 },
+    coords: [29.7415, -3.3122],
     description: {
       de: "Ein historischer Ort in Muramvya, der als Residenz für die burundischen Monarchen diente. Er bewahrt traditionelle Baustrukturen.",
       hu: "Történelmi helyszín Muramvyában, amely a burundi uralkodók lakóhelyeként szolgált. Hagyományos építészeti elemeket őriz.",
@@ -769,7 +769,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-rubumba-hill-history-v2",
     type: "landmark",
     name: { de: "Rubumba-Hügel Krönungsstätte", hu: "Rubumba-domb koronázási helyszín", ro: "Dealul Rubumba sit de încoronare", en: "Rubumba Hill Enthronement Site" },
-    coordinates: { lat: -3.3245, lng: 29.6912 },
+    coords: [29.6912, -3.3245],
     description: {
       de: "Dieser Hügel in Kiganda ist als traditioneller Ort für die Einsetzung der burundischen Könige bekannt. Er besitzt hohe symbolische Bedeutung.",
       hu: "Ez a Kigandában található domb a burundi királyok beiktatásának hagyományos helyszíneként ismert. Jelentős szimbolikus értékkel bír.",
@@ -800,7 +800,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-buhiga-mission-history-v2",
     type: "church",
     name: { de: "Buhiga Mission", hu: "Buhiga misszió", ro: "Misiunea Buhiga", en: "Buhiga Mission" },
-    coordinates: { lat: -3.1214, lng: 30.1522 },
+    coords: [30.1522, -3.1214],
     description: {
       de: "Eine bedeutende Missionsstation in der Provinz Karuzi, die während der belgischen Kolonialzeit gegründet wurde. Sie umfasst eine historische Kirche.",
       hu: "Jelentős missziós állomás Karuzi tartományban, amelyet a belga gyarmati időszakban alapítottak. Egy történelmi templomot foglal magában.",
@@ -831,7 +831,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-vugizo-memorial-history-v2",
     type: "monument",
     name: { de: "Vugizo Kriegsdenkmal", hu: "Vugizo háborús emlékmű", ro: "Monumentul de Război Vugizo", en: "Vugizo War Memorial" },
-    coordinates: { lat: -3.3912, lng: 29.3785 },
+    coords: [29.3785, -3.3912],
     description: {
       de: "Ein Denkmal in den Hügeln von Bujumbura, das den gefallenen Soldaten gewidmet ist. Es bietet einen weiten Blick über die Stadt.",
       hu: "Bujumbura dombjai között található emlékmű, amelyet az elesett katonák tiszteletére emeltek. Széles kilátást nyújt a városra.",
@@ -862,7 +862,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-usumbura-residency-history-v2",
     type: "landmark",
     name: { de: "Alte Residenz von Usumbura", hu: "Usumbura régi rezidencia", ro: "Vechea Rezidență din Usumbura", en: "Old Usumbura Residency" },
-    coordinates: { lat: -3.3821, lng: 29.3615 },
+    coords: [29.3615, -3.3821],
     description: {
       de: "Der ehemalige Sitz der deutschen und später belgischen Verwaltung in Bujumbura. Das Gebäude repräsentiert die koloniale Architektur des frühen 20. Jahrhunderts.",
       hu: "A német, majd később a belga adminisztráció korábbi székhelye Bujumburában. Az épület a 20. század eleji gyarmati építészetet képviseli.",
@@ -893,7 +893,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-muyinga-colonial-office-history-v2",
     type: "landmark",
     name: { de: "Kolonialgebäude von Muyinga", hu: "Muyinga gyarmati épület", ro: "Clădirea Colonială din Muyinga", en: "Muyinga Colonial Office" },
-    coordinates: { lat: -2.8455, lng: 30.3422 },
+    coords: [30.3422, -2.8455],
     description: {
       de: "Ein gut erhaltenes Verwaltungsgebäude aus der Kolonialzeit in Muyinga. Es zeugt von der administrativen Struktur Nord-Burundis im letzten Jahrhundert.",
       hu: "Egy jól megőrzött gyarmati kori közigazgatási épület Muyingában. Észak-Burundi múlt századi közigazgatási szerkezetéről tanúskodik.",
@@ -924,7 +924,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-rutovu-pyramid-history-v2",
     type: "monument",
     name: { de: "Pyramide der Nilquelle", hu: "A Nílus-forrás piramisa", ro: "Piramida Izvorului Nilului", en: "Nile Source Pyramid" },
-    coordinates: { lat: -3.9142, lng: 29.8315 },
+    coords: [29.8315, -3.9142],
     description: {
       de: "Dieses 1938 errichtete Denkmal markiert die südlichste Quelle des Nils. Die kleine Pyramide steht auf dem Berg Gikizi in Rutovu.",
       hu: "Ez az 1938-ban emelt emlékmű a Nílus legdélebbi forrását jelöli. A kis piramis a Rutovuban található Gikizi-hegyen áll.",
@@ -955,7 +955,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-gitega-german-post-history-v2",
     type: "ruins",
     name: { de: "Deutscher Militärposten Gitega", hu: "Gitega német katonai poszt", ro: "Postul Militar German Gitega", en: "Gitega German Military Post" },
-    coordinates: { lat: -3.4285, lng: 29.9255 },
+    coords: [29.9255, -3.4285],
     description: {
       de: "Überreste des ehemaligen deutschen Stützpunktes in Gitega aus der Zeit vor 1916. Der Ort war strategisch wichtig für die Kontrolle Zentral-Burundis.",
       hu: "Az 1916 előtti egykori német bázis maradványai Gitegában. A helyszín stratégiai fontosságú volt Közép-Burundi ellenőrzése szempontjából.",
@@ -986,7 +986,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-minago-ruins-history-v2",
     type: "ruins",
     name: { de: "Historischer Handelsposten Minago", hu: "Minago történelmi kereskedelmi poszt", ro: "Postul Comercial Istoric Minago", en: "Minago Historic Trade Post" },
-    coordinates: { lat: -3.7822, lng: 29.5415 },
+    coords: [29.5415, -3.7822],
     description: {
       de: "Ein bedeutender Ort am Tanganjikasee, der im 19. Jahrhundert als Handelsposten für Karawanen diente. Er ist mit der Geschichte des arabischen Einflusses verknüpft.",
       hu: "A Tanganyika-tó partján fekvő jelentős helyszín, amely a 19. században karavánok kereskedelmi állomásaként szolgált. Az arab befolyás történetéhez kapcsolódik.",
@@ -1017,7 +1017,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-gatumba-memorial-history-v2",
     type: "monument",
     name: { de: "Gatumba Mahnmal", hu: "Gatumba emlékmű", ro: "Memorialul Gatumba", en: "Gatumba Memorial" },
-    coordinates: { lat: -3.3412, lng: 29.2455 },
+    coords: [29.2455, -3.3412],
     description: {
       de: "Ein Gedenkort in Gatumba, der an die Opfer der Massaker während der jüngeren Konflikte erinnert. Er ist ein Ort der Trauer und Mahnung.",
       hu: "Emlékhely Gatumbában, amely a közelmúltbeli konfliktusok mészárlásainak áldozataira emlékeztet. A gyász és az emlékezés helyszíne.",
@@ -1048,7 +1048,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-kavumu-palace-history-v2",
     type: "ruins",
     name: { de: "Kavumu Palastruinen", hu: "Kavumu palotaromok", ro: "Ruinele Palatului Kavumu", en: "Kavumu Palace Ruins" },
-    coordinates: { lat: -3.4512, lng: 29.9815 },
+    coords: [29.9815, -3.4512],
     description: {
       de: "Die Überreste einer alten königlichen Residenz in der Nähe von Gitega. Der Ort war ein wichtiger Knotenpunkt für die monarchische Verwaltung.",
       hu: "Egy régi királyi rezidencia maradványai Gitega közelében. A helyszín a monarchikus közigazgatás fontos csomópontja volt.",
@@ -1079,7 +1079,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-nkondo-site-history-v2",
     type: "landmark",
     name: { de: "Königliche Stätte von Nkondo", hu: "Nkondo királyi helyszín", ro: "Situl Regal din Nkondo", en: "Nkondo Royal Site" },
-    coordinates: { lat: -3.3845, lng: 29.6222 },
+    coords: [29.6222, -3.3845],
     description: {
       de: "Ein historisches Gebiet in der Provinz Mwaro, das eng mit den Zeremonien der burundischen Monarchen verbunden ist. Es umfasst heilige Haine.",
       hu: "Történelmi terület Mwaro tartományban, amely szorosan kapcsolódik a burundi uralkodók szertartásaihoz. Szent ligeteket foglal magában.",
@@ -1110,7 +1110,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-bukeye-enclosure-history-v2",
     type: "ruins",
     name: { de: "Historisches Gehege von Bukeye", hu: "Bukeye történelmi bekerített hely", ro: "Incinta Istorică din Bukeye", en: "Bukeye Historical Enclosure" },
-    coordinates: { lat: -3.1512, lng: 29.5822 },
+    coords: [29.5822, -3.1512],
     description: {
       de: "Diese Stätte in Muramvya diente als befestigte Residenz und Lagerort während der Zeit der Monarchie. Sie ist von historischer Bedeutung.",
       hu: "Ez a Muramvyában található helyszín megerősített rezidenciaként és tárolóhelyként szolgált a monarchia idején. Történelmi jelentőségű.",
@@ -1141,7 +1141,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-busiga-court-history-v2",
     type: "landmark",
     name: { de: "Alter Gerichtshof von Busiga", hu: "Busiga ősi bíróság", ro: "Curtea Veche din Busiga", en: "Busiga Ancient Court" },
-    coordinates: { lat: -2.8512, lng: 29.9115 },
+    coords: [29.9115, -2.8512],
     description: {
       de: "Ein Ort in der Provinz Ngozi, an dem traditionell Recht nach burundischem Brauch gesprochen wurde. Er repräsentiert das historische Justizsystem.",
       hu: "Ngozi tartományban található helyszín, ahol hagyományosan a burundi szokások szerint szolgáltattak igazságot. A történelmi igazságszolgáltatási rendszert képviseli.",
@@ -1172,7 +1172,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-mugera-iron-age-history-v2",
     type: "ruins",
     name: { de: "Eisenzeitliche Stätte Mugera", hu: "Mugera vaskori lelőhely", ro: "Situl din Epoca Fierului Mugera", en: "Mugera Iron Age Site" },
-    coordinates: { lat: -3.2455, lng: 30.1422 },
+    coords: [30.1422, -3.2455],
     description: {
       de: "Ein archäologischer Fundort in Mugera, der Beweise für frühe Eisenverhüttung in der Region liefert. Die Funde reichen über ein Jahrtausend zurück.",
       hu: "Régészeti lelőhely Mugerában, amely bizonyítékot szolgáltat a régió korai vasművességéről. A leletek több mint egy évezreddel ezelőttről származnak.",
@@ -1203,7 +1203,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-cankuzo-fort-history-v2",
     type: "ruins",
     name: { de: "Belgisches Fort Cankuzo", hu: "Cankuzo belga erőd", ro: "Fortul Belgian din Cankuzo", en: "Cankuzo Belgian Fort" },
-    coordinates: { lat: -3.2185, lng: 30.4515 },
+    coords: [30.4515, -3.2185],
     description: {
       de: "Überreste einer befestigten Stellung der belgischen Kolonialtruppen in Cankuzo. Das Fort diente der Grenzsicherung und Kontrolle der Region.",
       hu: "A belga gyarmati csapatok megerősített állásainak maradványai Cankuzóban. Az erőd a határvédelemre és a régió ellenőrzésére szolgált.",
@@ -1234,7 +1234,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-gitega-cemetery-history-v2",
     type: "landmark",
     name: { de: "Kolonialfriedhof Gitega", hu: "Gitega gyarmati temető", ro: "Cimitirul Colonial Gitega", en: "Gitega Colonial Cemetery" },
-    coordinates: { lat: -3.4212, lng: 29.9322 },
+    coords: [29.9322, -3.4212],
     description: {
       de: "Ein historischer Friedhof in Gitega, auf dem europäische Siedler und Beamte der Kolonialzeit bestattet sind. Er ist ein Zeugnis der Stadtgeschichte.",
       hu: "Történelmi temető Gitegában, ahol az európai telepesek és a gyarmati korszak tisztviselői nyugszanak. A várostörténet tanúja.",
@@ -1265,7 +1265,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-ismaili-mosque-history-v2",
     type: "church",
     name: { de: "Ismailitische Moschee Bujumbura", hu: "Bujumbura iszmáilita mecset", ro: "Moscheea Ismaili din Bujumbura", en: "Bujumbura Ismaili Mosque" },
-    coordinates: { lat: -3.3855, lng: 29.3642 },
+    coords: [29.3642, -3.3855],
     description: {
       de: "Eine der ältesten Moscheen in Bujumbura, die von der ismailitischen Gemeinschaft erbaut wurde. Sie ist ein bedeutendes religiöses Wahrzeichen.",
       hu: "Bujumbura egyik legrégebbi mecsete, amelyet az iszmáilita közösség épített. Jelentős vallási nevezetesség.",
@@ -1296,7 +1296,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-hotel-contacts-history-v2",
     type: "landmark",
     name: { de: "Historische Stätte Hotel des Contacts", hu: "Hotel des Contacts történelmi helyszín", ro: "Situl Istoric Hotel des Contacts", en: "Hotel des Contacts Historic Site" },
-    coordinates: { lat: -3.3812, lng: 29.3585 },
+    coords: [29.3585, -3.3812],
     description: {
       de: "Der Ort in Bujumbura, an dem Prinz Louis Rwagasore, der Held der Unabhängigkeit, im Jahr 1961 ermordet wurde. Er ist ein zentraler Ort des Gedenkens.",
       hu: "A helyszín Bujumburában, ahol 1961-ben meggyilkolták Louis Rwagasore herceget, a függetlenségi hőst. A megemlékezés központi helye.",
@@ -1327,7 +1327,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-gitaza-pier-history-v2",
     type: "port",
     name: { de: "Historischer Pier von Gitaza", hu: "Gitaza történelmi móló", ro: "Mollul Istoric din Gitaza", en: "Gitaza Historic Pier" },
-    coordinates: { lat: -3.5822, lng: 29.3512 },
+    coords: [29.3512, -3.5822],
     description: {
       de: "Ein alter Anlegeplatz am Tanganjikasee, der während der Kolonialzeit für den Warentransport genutzt wurde. Er spiegelt die maritime Handelsgeschichte wider.",
       hu: "Régi kikötőhely a Tanganyika-tónál, amelyet a gyarmati időszakban áruszállításra használtak. A tengeri kereskedelem történetét tükrözi.",
@@ -1358,7 +1358,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-makamba-german-ruins-history-v2",
     type: "ruins",
     name: { de: "Deutscher Außenposten Makamba", hu: "Makamba német külbirtok", ro: "Avanpostul German din Makamba", en: "Makamba German Outpost" },
-    coordinates: { lat: -4.1355, lng: 29.8022 },
+    coords: [29.8022, -4.1355],
     description: {
       de: "Ruinen eines deutschen Militärpostens im Süden Burundis. Er wurde zur Überwachung der südlichen Grenzen von Deutsch-Ostafrika errichtet.",
       hu: "Egy német katonai poszt romjai Burundi déli részén. Német-Kelet-Afrika déli határainak ellenőrzésére építették.",
@@ -1389,7 +1389,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-ngozi-old-town-history-v2",
     type: "landmark",
     name: { de: "Historisches Zentrum von Ngozi", hu: "Ngozi történelmi központja", ro: "Centrul Istoric din Ngozi", en: "Ngozi Historical Center" },
-    coordinates: { lat: -2.9055, lng: 29.8322 },
+    coords: [29.8322, -2.9055],
     description: {
       de: "Der Kern der Stadt Ngozi bewahrt Gebäude aus der Kolonialzeit, die den Übergang zur modernen Stadtplanung markieren. Es war ein wichtiges Handelszentrum.",
       hu: "Ngozi városmagja gyarmati kori épületeket őriz, amelyek a modern várostervezésbe való átmenetet jelzik. Fontos kereskedelmi központ volt.",
@@ -1420,7 +1420,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-ruyigi-church-history-v2",
     type: "church",
     name: { de: "Alte Kirche von Ruyigi", hu: "Ruyigi régi templom", ro: "Biserica Veche din Ruyigi", en: "Ruyigi Old Church" },
-    coordinates: { lat: -3.4722, lng: 30.2515 },
+    coords: [30.2515, -3.4722],
     description: {
       de: "Diese Kirche in Ruyigi ist ein bedeutendes Beispiel für die sakrale Architektur der Missionszeit. Sie diente als religiöses Zentrum im Osten.",
       hu: "Ez a ruyigi templom a missziós korszak szakrális építészetének jelentős példája. Kelet-Burundi vallási központjaként szolgált.",
@@ -1451,7 +1451,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-bubanza-compound-history-v2",
     type: "landmark",
     name: { de: "Königliche Anlage von Bubanza", hu: "Bubanza királyi körzet", ro: "Complexul Regal din Bubanza", en: "Bubanza Royal Compound" },
-    coordinates: { lat: -3.0822, lng: 29.3912 },
+    coords: [29.3912, -3.0822],
     description: {
       de: "Eine historische Stätte in Bubanza, die als einer der Außenposten der burundischen Monarchen genutzt wurde. Sie spiegelt die regionale Verwaltung der Könige wider.",
       hu: "Bubanza történelmi helyszíne, amelyet a burundi uralkodók egyik külbirtokaként használtak. A királyok regionális igazgatását tükrözi.",
@@ -1482,7 +1482,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-bwagiriza-site-history-v2",
     type: "landmark",
     name: { de: "Königliche Residenz Bwagiriza", hu: "Bwagiriza királyi rezidencia", ro: "Reședința Regală Bwagiriza", en: "Bwagiriza Royal Residence" },
-    coordinates: { lat: -3.2845, lng: 29.6522 },
+    coords: [29.6522, -3.2845],
     description: {
       de: "Ein geschichtsträchtiger Ort in Muramvya, der als Ruheplatz und Residenz für reisende Monarchen diente. Er ist von heiligen Bäumen umgeben.",
       hu: "Múltidéző helyszín Muramvyában, amely a utazó uralkodók pihenőhelyeként és rezidenciájaként szolgált. Szent fák veszik körül.",
@@ -1513,7 +1513,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-gitega-swahili-quarter-history-v2",
     type: "landmark",
     name: { de: "Historisches Suaheli-Viertel Gitega", hu: "Gitega történelmi szuahéli negyede", ro: "Cartierul Istoric Swahili din Gitega", en: "Gitega Swahili Quarter" },
-    coordinates: { lat: -3.4255, lng: 29.9212 },
+    coords: [29.9212, -3.4255],
     description: {
       de: "Dieses Viertel in Gitega zeugt vom Einfluss der Suaheli-Händler aus Ostafrika im 19. und frühen 20. Jahrhundert. Es ist ein Zentrum multikulturellen Austauschs.",
       hu: "Ez a gitegai negyed a 19. és 20. század eleji kelet-afrikai szuahéli kereskedők befolyásáról tanúskodik. A multikulturális csere központja.",
@@ -1544,7 +1544,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-kirundo-ruins-history-v2",
     type: "ruins",
     name: { de: "Belgische Verwaltungruinen Kirundo", hu: "Kirundo belga adminisztrációs romok", ro: "Ruinele Administrative Belgiene din Kirundo", en: "Kirundo Belgian Admin Ruins" },
-    coordinates: { lat: -2.5855, lng: 30.0912 },
+    coords: [30.0912, -2.5855],
     description: {
       de: "Überreste der belgischen Verwaltungsgebäude in der nördlichen Provinz Kirundo. Die Ruinen markieren das ehemalige koloniale Zentrum der Seenregion.",
       hu: "A belga közigazgatási épületek maradványai az északi Kirundo tartományban. A romok a tavak régiójának egykori gyarmati központját jelzik.",
@@ -1575,7 +1575,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-post-independence-hall-history-v2",
     type: "landmark",
     name: { de: "Halle der Unabhängigkeit", hu: "Függetlenség Csarnoka", ro: "Sala Independenței", en: "Post-Independence Hall" },
-    coordinates: { lat: -3.3785, lng: 29.3512 },
+    coords: [29.3512, -3.3785],
     description: {
       de: "Ein historisches Gebäude in Bujumbura, das nach 1962 für offizielle Staatsakte genutzt wurde. Es repräsentiert den Aufbruch Burundis in die Souveränität.",
       hu: "Történelmi épület Bujumburában, amelyet 1962 után hivatalos állami aktusokra használtak. Burundi szuverenitásának kezdetét jelképezi.",
@@ -1606,7 +1606,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     id: "burundi-rutana-german-outpost-history-v2",
     type: "ruins",
     name: { de: "Deutscher Posten Rutana", hu: "Rutana német poszt", ro: "Postul German din Rutana", en: "Rutana German Outpost" },
-    coordinates: { lat: -3.9212, lng: 29.9915 },
+    coords: [29.9915, -3.9212],
     description: {
       de: "Überreste einer deutschen Befestigung im Südosten des Landes. Der Posten diente der Kontrolle der Bergregionen nahe der heutigen tansanischen Grenze.",
       hu: "Német erődítmény maradványai az ország délkeleti részén. A poszt a mai tanzániai határ közeli hegyvidéki területek ellenőrzésére szolgált.",

@@ -527,7 +527,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-taza-pir-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Teze-Pir-Moschee", hu: "Taza Pir-mecset", ro: "Moscheea Taza Pir", en: "Taza Pir Mosque" },
-    coordinates: { lat: 40.371, lng: 49.829 },
+    coords: [49.829, 40.371],
     description: {
       de: "Diese zwischen 1905 und 1914 errichtete Moschee in Baku ist ein bedeutendes religiöses Zentrum aus weißem Kalkstein.",
       hu: "Ez az 1905 és 1914 között épült bakui mecset fehér mészkőből készült, és a régió egyik legfontosabb vallási központja.",
@@ -558,7 +558,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-government-house-baku-landmarks-v2",
     type: "landmark",
     name: { de: "Regierungsgebäude Baku", hu: "Bakui Kormányzati Ház", ro: "Casa Guvernului din Baku", en: "Government House, Baku" },
-    coordinates: { lat: 40.374, lng: 49.853 },
+    coords: [49.853, 40.374],
     description: {
       de: "Ein monumentaler Palast am Azadliq-Platz, der 1952 fertiggestellt wurde und heute verschiedene Ministerien beherbergt.",
       hu: "Az 1952-ben befejezett monumentális palota az Azadliq téren található, és ma több minisztériumnak ad otthont.",
@@ -589,7 +589,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-baku-philharmonic-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Staatliche Philharmonie Aserbaidschans", hu: "Azerbajdzsáni Állami Filharmónia", ro: "Filarmonica de Stat din Azerbaidjan", en: "Azerbaijan State Philharmonic Hall" },
-    coordinates: { lat: 40.364, lng: 49.832 },
+    coords: [49.832, 40.364],
     description: {
       de: "Das 1912 im Neorenaissance-Stil erbaute Gebäude ist das führende Konzerthaus für klassische Musik in Baku.",
       hu: "Az 1912-ben neoreneszánsz stílusban épült épület Baku vezető hangversenyterme a komolyzene számára.",
@@ -620,7 +620,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-ismailiyya-palace-landmarks-v2",
     type: "palace",
     name: { de: "Ismailiyya-Palast", hu: "Ismailiyya-palota", ro: "Palatul Ismailiyya", en: "Ismailiyya Palace" },
-    coordinates: { lat: 40.369, lng: 49.835 },
+    coords: [49.835, 40.369],
     description: {
       de: "Ein prächtiges Gebäude im venezianisch-gotischen Stil, das 1913 für die Wohltätigkeitsgesellschaft Muslim erbaut wurde.",
       hu: "Pompás velencei gótikus stílusú épület, amely 1913-ban épült a Muszlim Jótékonysági Társaság számára.",
@@ -651,7 +651,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-palace-of-happiness-landmarks-v2",
     type: "palace",
     name: { de: "Palast des Glücks", hu: "A boldogság palotája", ro: "Palatul Fericirii", en: "Palace of Happiness" },
-    coordinates: { lat: 40.369, lng: 49.831 },
+    coords: [49.831, 40.369],
     description: {
       de: "Dieses neugotische Herrenhaus aus dem Jahr 1912 dient heute als Standesamt und ist als Mukhtarov-Palast bekannt.",
       hu: "Ez az 1912-ben épült neogótikus kúria ma házasságkötő teremként szolgál, és Mukhtarov-palotaként ismert.",
@@ -665,12 +665,24 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       en: ["Built by Murtuza Mukhtarov", "Designed by Jozef Plosko", "Inspired by French Gothic", "Restored between 2007 and 2012"],
     },
     imageHint: "Palace of Happiness Baku wedding palace",
+    descriptionAdvanced: {
+      de: "Der Palast des Glücks (auch bekannt als Palast der Hochzeiten) ist ein prächtiges Gebäude in Baku, Aserbaidschan, das 1912 im neoklassizistischen Stil erbaut wurde. Es wurde von dem Architekten Józef Gosławski entworfen und ursprünglich als Wohnhaus für den Ölmagnaten Murtuza Mukhtarov gebaut. Die Fassade ist reich mit skulpturalen Elementen verziert, darunter Karyatiden und Löwenköpfe. Nach der Sowjetisierung diente das Gebäude als Hochzeitspalast. Heute wird es für standesamtliche Trauungen und kulturelle Veranstaltungen genutzt. Der Palast ist ein Symbol der Belle Époque in Baku und ein beliebtes Fotomotiv.",
+      hu: "A Boldogság Palotája (más néven Esküvői Palota) egy pompás épület Baku belvárosában, Azerbajdzsánban, amely 1912-ben épült neoklasszicista stílusban. Józef Gosławski építész tervezte, és eredetileg Murtuza Mukhtarov olajmágnás lakóházaként szolgált. A homlokzat gazdagon díszített szobrászati elemekkel, például kariatidákkal és oroszlánfejekkel. A szovjet időkben Esküvői Palotaként működött. Ma polgári házasságkötésekre és kulturális eseményekre használják. A palota Baku belle époque-jának szimbóluma és népszerű fotó témája.",
+      ro: "Palatul Fericirii (cunoscut și ca Palatul Nuntă) este o clădire somptuoasă din Baku, Azerbaidjan, construită în 1912 în stil neoclasic. A fost proiectat de arhitectul Józef Gosławski și a servit inițial ca reședință pentru magnatul petrolier Murtuza Mukhtarov. Fațada este bogat ornamentată cu elemente sculpturale, inclusiv cariatide și capete de leu. După sovietizare, a funcționat ca Palat al Nunților. Astăzi este folosit pentru căsătorii civile și evenimente culturale. Palatul este un simbol al epocii belle époque din Baku și un subiect popular pentru fotografii.",
+      en: "The Palace of Happiness, also known as the Mukhtarov Palace, is a neoclassical mansion in Baku, built in 1912 by architect Józef Gosławski for oil baron Murtuza Mukhtarov. The building features ornate sculptures, including caryatids and lion heads on its facade. After the Russian Revolution, it was nationalized and served as the Wedding Palace during Soviet times. Today, it hosts civil marriage ceremonies and cultural events. The palace is a prime example of the eclectic architecture that flourished in Baku's oil boom era. Its interior includes a grand staircase, chandeliers, and frescoes.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1912 für Murtuza Mukhtarov.", "Architekt: Józef Gosławski (1865-1910).", "Höhe des Gebäudes: 20 Meter.", "Fassadenbreite: 30 Meter.", "Anzahl der Räume: 18.", "Baufläche: 1.200 Quadratmeter."],
+      hu: ["1912-ben épült Murtuza Mukhtarov számára.", "Építész: Józef Gosławski (1865-1910).", "Épület magassága: 20 méter.", "Homlokzat szélessége: 30 méter.", "Szobák száma: 18.", "Beépített terület: 1200 négyzetméter."],
+      ro: ["Construit în 1912 pentru Murtuza Mukhtarov.", "Arhitect: Józef Gosławski (1865-1910).", "Înălțimea clădirii: 20 de metri.", "Lățimea fațadei: 30 de metri.", "Număr de camere: 18.", "Suprafața construită: 1.200 de metri pătrați."],
+      en: ["Built in 1912 for Murtuza Mukhtarov.", "Architect Józef Gosławski (1865-1910).", "Building height 20 meters.", "Facade width 30 meters.", "Number of rooms: 18.", "Built area 1,200 square meters."],
+    },
   },
   {
     id: "azerbaijan-nizami-literature-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nizami-Museum für Literatur", hu: "Nizami Irodalmi Múzeum", ro: "Muzeul Literaturii Nizami", en: "Nizami Museum of Literature" },
-    coordinates: { lat: 40.37, lng: 49.837 },
+    coords: [49.837, 40.37],
     description: {
       de: "Dieses Museum am Rande der Altstadt ist der aserbaidschanischen Literatur gewidmet und nach Nizami Ganjavi benannt.",
       hu: "Az óváros szélén található múzeumot az azerbajdzsáni irodalomnak szentelték, és Nizami Ganjaviról nevezték el.",
@@ -689,7 +701,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-baku-opera-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Aserbaidschanisches Opernhaus", hu: "Azerbajdzsáni Állami Operaház", ro: "Opera de Stat din Azerbaidjan", en: "Azerbaijan State Opera Theatre" },
-    coordinates: { lat: 40.374, lng: 49.846 },
+    coords: [49.846, 40.374],
     description: {
       de: "Ein 1911 eröffnetes architektonisches Juwel im Jugendstil, das heute das Zentrum für Oper und Ballett in Baku ist.",
       hu: "1911-ben megnyitott szecessziós építészeti gyöngyszem, amely ma Baku opera- és balettközpontja.",
@@ -708,7 +720,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-eternal-flame-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Ewige Flamme (Baku)", hu: "Örökláng emlékmű", ro: "Monumentul Flacăra Eternă", en: "Eternal Flame Memorial" },
-    coordinates: { lat: 40.358, lng: 49.828 },
+    coords: [49.828, 40.358],
     description: {
       de: "Ein Mahnmal in der Allee der Märtyrer, das den Opfern der Ereignisse von 1990 und des Bergkarabach-Krieges gewidmet ist.",
       hu: "Emlékmű a Mártírok sugárútján, amelyet az 1990-es események és a hegyi-karabahi háború áldozatainak szenteltek.",
@@ -727,7 +739,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-old-city-gates-landmarks-v2",
     type: "landmark",
     name: { de: "Doppeltore der Altstadt", hu: "Óvárosi kettős kapu", ro: "Porțile Duble ale Orașului Vechi", en: "Old City Double Gates" },
-    coordinates: { lat: 40.366, lng: 49.836 },
+    coords: [49.836, 40.366],
     description: {
       de: "Die als Gosha Gala Gapisi bekannten Haupttore führen in die historische Altstadt (Icherisheher) von Baku.",
       hu: "A Gosha Gala Gapisi néven ismert főkapu Baku történelmi óvárosába (Icherisheher) vezet.",
@@ -746,7 +758,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-heydar-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Heydar-Moschee", hu: "Heydar-mecset", ro: "Moscheea Heydar", en: "Heydar Mosque" },
-    coordinates: { lat: 40.428, lng: 49.818 },
+    coords: [49.818, 40.428],
     description: {
       de: "Die 2014 fertiggestellte Heydar-Moschee ist die flächenmäßig größte Moschee im gesamten Kaukasus.",
       hu: "A 2014-ben elkészült Heydar-mecset területét tekintve a legnagyobb mecset az egész Kaukázusban.",
@@ -765,7 +777,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-tofiq-bahramov-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Tofiq-Bähramov-Stadion", hu: "Tofik Bahramov Stadion", ro: "Stadionul Tofiq Bahramov", en: "Tofiq Bahramov Stadium" },
-    coordinates: { lat: 40.398, lng: 49.851 },
+    coords: [49.851, 40.398],
     description: {
       de: "Ein ikonisches Nationalstadion in Baku, benannt nach dem berühmten Linienrichter des WM-Finales von 1966.",
       hu: "Ikonikus nemzeti stadion Bakuban, amelyet az 1966-os világbajnoki döntő híres partjelzőjéről neveztek el.",
@@ -784,7 +796,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-baku-tv-tower-landmarks-v2",
     type: "tower",
     name: { de: "Fernsehturm Baku", hu: "Bakui tévétorony", ro: "Turnul TV din Baku", en: "Baku TV Tower" },
-    coordinates: { lat: 40.352, lng: 49.823 },
+    coords: [49.823, 40.352],
     description: {
       de: "Der 1996 fertiggestellte Fernsehturm ist das höchste Bauwerk in Aserbaidschan und prägt die Skyline von Baku.",
       hu: "Az 1996-ban elkészült tévétorony Azerbajdzsán legmagasabb építménye, és meghatározza Baku látképét.",
@@ -803,7 +815,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-bottle-house-ganja-landmarks-v2",
     type: "landmark",
     name: { de: "Flaschenhaus von Ganja", hu: "Gancsai palackház", ro: "Casa de Sticlă din Ganja", en: "Bottle House of Ganja" },
-    coordinates: { lat: 40.677, lng: 46.361 },
+    coords: [46.361, 40.677],
     description: {
       de: "Ein einzigartiges Privathaus in Ganja, das aus rund 48.000 Glasflaschen und bunten Mosaiken erbaut wurde.",
       hu: "Egyedülálló magánház Gancsa városában, amely mintegy 48 000 üvegpalackból és színes mozaikokból épült.",
@@ -822,7 +834,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-imamzadeh-complex-ganja-landmarks-v2",
     type: "landmark",
     name: { de: "Imamzadeh-Komplex", hu: "Imamzadeh-komplexum", ro: "Complexul Imamzadeh", en: "Imamzadeh Complex" },
-    coordinates: { lat: 40.713, lng: 46.398 },
+    coords: [46.398, 40.713],
     description: {
       de: "Ein historisches religiöses Denkmal in Ganja, bekannt für seine prächtige blaue Kuppel und kunstvolle Ziegelarbeit.",
       hu: "Történelmi vallási műemlék Gancsa városában, amely pompás kék kupolájáról és díszes téglafalairól ismert.",
@@ -841,7 +853,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-alexander-nevsky-church-ganja-landmarks-v2",
     type: "church",
     name: { de: "Alexander-Newski-Kirche Ganja", hu: "Szent Sándor Nyevszkij-templom", ro: "Biserica Alexandru Nevski din Ganja", en: "Alexander Nevsky Church, Ganja" },
-    coordinates: { lat: 40.676, lng: 46.368 },
+    coords: [46.368, 40.676],
     description: {
       de: "Eine russisch-orthodoxe Kirche in Ganja, die 1887 im byzantinischen Stil aus Ziegelsteinen erbaut wurde.",
       hu: "Orosz ortodox templom Gancsa városában, amely 1887-ben épült bizánci stílusban, téglából.",
@@ -860,7 +872,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-ganja-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Ganja", hu: "Gancsai városháza", ro: "Primăria din Ganja", en: "Ganja City Hall" },
-    coordinates: { lat: 40.678, lng: 46.358 },
+    coords: [46.358, 40.678],
     description: {
       de: "Das Verwaltungsgebäude am Hauptplatz von Ganja ist ein markantes Beispiel für den aserbaidschanischen Stalin-Stil.",
       hu: "Gancsa főterén található közigazgatási épület az azerbajdzsáni sztálini stílus egyik jellegzetes példája.",
@@ -879,7 +891,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-shah-abbas-mosque-ganja-landmarks-v2",
     type: "landmark",
     name: { de: "Schah-Abbas-Moschee", hu: "Shah Abbas-mecset", ro: "Moscheea Shah Abbas", en: "Shah Abbas Mosque" },
-    coordinates: { lat: 40.678, lng: 46.359 },
+    coords: [46.359, 40.678],
     description: {
       de: "Die auch als Dschuma-Moschee bekannte Gebetsstätte wurde 1606 vom Architekten Sheikh Baheddin erbaut.",
       hu: "A Juma-mecsetként is ismert imaházat 1606-ban építette Sheikh Baheddin építész.",
@@ -898,7 +910,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-gilahli-mosque-shaki-landmarks-v2",
     type: "landmark",
     name: { de: "Gilahli-Moschee", hu: "Gilahli-mecset", ro: "Moscheea Gilahli", en: "Gilahli Mosque" },
-    coordinates: { lat: 41.204, lng: 47.19 },
+    coords: [47.19, 41.204],
     description: {
       de: "Eine historische Moschee aus dem 18. Jahrhundert in Shaki, bekannt für ihre kunstvollen Wandmalereien.",
       hu: "18. századi történelmi mecset Saki városában, amely művészi falfestményeiről ismert.",
@@ -917,7 +929,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-gelersen-gerersen-fortress-landmarks-v2",
     type: "castle",
     name: { de: "Festung Gelersen-Gerersen", hu: "Gelersen-Gerersen erőd", ro: "Cetatea Gelersen-Gerersen", en: "Gelersen-Gerersen Fortress" },
-    coordinates: { lat: 41.264, lng: 47.227 },
+    coords: [47.227, 41.264],
     description: {
       de: "Eine mittelalterliche Festung am Ufer des Kish-Flusses, die für ihre strategische Unbezwingbarkeit bekannt war.",
       hu: "Középkori erőd a Kis-folyó partján, amely stratégiai bevehetetlenségéről volt híres.",
@@ -936,7 +948,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-chokak-bath-shaki-landmarks-v2",
     type: "landmark",
     name: { de: "Chokak-Hammams", hu: "Csokak-fürdő", ro: "Baia Chokak", en: "Chokak Bath" },
-    coordinates: { lat: 41.199, lng: 47.176 },
+    coords: [47.176, 41.199],
     description: {
       de: "Ein historisches Badehaus aus dem 19. Jahrhundert in Shaki, das durch seine charakteristischen Kuppeln besticht.",
       hu: "19. századi történelmi fürdőház Saki városában, amely jellegzetes kupoláival hívja fel magára a figyelmet.",
@@ -967,7 +979,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-sumuq-gala-ilisu-landmarks-v2",
     type: "tower",
     name: { de: "Sumuq-Gala", hu: "Sumuq-gala", ro: "Sumuq Gala", en: "Sumuq Gala" },
-    coordinates: { lat: 41.468, lng: 47.062 },
+    coords: [47.062, 41.468],
     description: {
       de: "Ein Wehrturm im Bergdorf Ilisu, der ein hervorragendes Beispiel für die Verteidigungsarchitektur des 18. Jahrhunderts ist.",
       hu: "Védőtorony Ilisu hegyi faluban, amely a 18. századi védelmi építészet kiváló példája.",
@@ -981,12 +993,24 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       en: ["Built in the 18th century", "Belonged to Ilisu Sultanate", "Built of river stones", "Served as a watchtower"],
     },
     imageHint: "Sumuq Gala tower Ilisu Qax",
+    descriptionAdvanced: {
+      de: "Die Festung Sumuq Gala liegt im Dorf İlisu im Nordwesten Aserbaidschans, in der historischen Region Saingilo. Sie stammt aus dem 14. Jahrhundert und diente als Residenz der örtlichen Sultane. Die Festung ist aus Flusssteinen und gebrannten Ziegeln erbaut, ihre Mauern sind bis zu 6 Meter dick. Sie verfügt über vier Türme an den Ecken und einen zentralen Hof. Die Anlage wurde im 17. Jahrhundert renoviert und diente während der russisch-kaukasischen Kriege als militärischer Stützpunkt. Heute ist sie eine wichtige historische Sehenswürdigkeit und steht unter staatlichem Schutz.",
+      hu: "A Sumuq Gala egy középkori erődítmény Azerbajdzsán északnyugati részén, İlisu faluban. Az erőd a 14. században épült, és a helyi szultánok lakhelyéül szolgált. A négytornyos építmény vastag, folyami kövekből rakott falakkal rendelkezik. A 17. században jelentős átépítésen esett át, amikor bővítették a védműveket. Az erőd stratégiai jelentőségű volt a Kaukázus északi és déli része közötti kereskedelmi útvonalak ellenőrzésében. Ma a turisták számára nyitva áll, és része Azerbajdzsán kulturális örökségének.",
+      ro: "Sumuq Gala este o cetate medievală situată în satul İlisu, în nord-vestul Azerbaidjanului. Construită în secolul al XIV-lea, a servit drept reședință a sultanilor locali. Zidurile groase de până la 6 metri sunt construite din piatră de râu și cărămidă arsă. Cetatea are patru turnuri de colț și o curte interioară. În secolul al XVII-lea a fost renovată și extinsă, devenind un important centru militar și administrativ. Astăzi este o atracție turistică majoră și un monument istoric protejat de statul azer.",
+      en: "Sumuq Gala is a medieval fortress in the village of Ilisu, northwest Azerbaijan, dating from the 14th century. It was the residence of local sultans and features thick walls built from river stones and fired bricks, up to 6 meters thick. The fortress has four corner towers and a central courtyard. It underwent major renovations in the 17th century and played a strategic role in controlling trade routes between the northern and southern Caucasus. Today, it is a protected historical monument and a popular tourist destination.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 14. Jahrhundert", "Mauerstärke bis zu 6 Meter", "Vier Türme an den Ecken", "Renovierung im 17. Jahrhundert", "Höhe der erhaltenen Mauern ca. 10 Meter", "Fläche des Innenhofs ca. 800 m²"],
+      hu: ["Épült a 14. században", "Falvastagság 6 méter", "Négy saroktorony", "Renoválás a 17. században", "Belső udvar területe körülbelül 800 m²", "Tengerszint feletti magasság 1200 méter"],
+      ro: ["Construit în secolul al XIV-lea", "Grosimea zidurilor până la 6 m", "Patru turnuri de colț", "Renovat în secolul al XVII-lea", "Suprafața curții interioare aprox. 800 m²", "Altitudine 1200 m deasupra nivelului mării"],
+      en: ["Built in the 14th century", "Wall thickness up to 6 meters", "Four corner towers", "Renovated in the 17th century", "Inner courtyard area approx. 800 m²", "Elevation 1,200 m above sea level"],
+    },
   },
   {
     id: "azerbaijan-round-castle-mardakan-landmarks-v2",
     type: "tower",
     name: { de: "Runder Turm von Mardakan", hu: "Mardakani kerek torony", ro: "Turnul Rotund din Mardakan", en: "Round Castle of Mardakan" },
-    coordinates: { lat: 40.492, lng: 50.142 },
+    coords: [50.142, 40.492],
     description: {
       de: "Ein kreisförmiger mittelalterlicher Turm in Mardakan, der im 13. Jahrhundert als Teil einer Verteidigungsanlage erbaut wurde.",
       hu: "Kör alakú középkori torony Mardakanban, amely a 13. században épült egy védelmi rendszer részeként.",
@@ -1017,7 +1041,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-shaghan-castle-landmarks-v2",
     type: "ruins",
     name: { de: "Burg Shaghan", hu: "Sagani vár", ro: "Castelul Shaghan", en: "Shaghan Castle" },
-    coordinates: { lat: 40.489, lng: 50.119 },
+    coords: [50.119, 40.489],
     description: {
       de: "Die Überreste einer Festung aus dem 12. Jahrhundert auf der Halbinsel Absheron, von der heute nur noch ein Turm steht.",
       hu: "Egy 12. századi erőd maradványai az Absheron-félszigeten, amelyből mára csak egy torony maradt meg.",
@@ -1048,7 +1072,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-quadrangular-castle-mardakan-landmarks-v2",
     type: "castle",
     name: { de: "Viereckige Burg Mardakan", hu: "Mardakani négyszögletes vár", ro: "Castelul Patrulater din Mardakan", en: "Quadrangular Castle of Mardakan" },
-    coordinates: { lat: 40.494, lng: 50.145 },
+    coords: [50.145, 40.494],
     description: {
       de: "Diese imposante Festung aus dem 14. Jahrhundert verfügt über einen 22 Meter hohen, quadratischen Donjon.",
       hu: "Ez az impozáns 14. századi erőd egy 22 méter magas, négyszögletes öregtoronnyal (donjon) rendelkezik.",
@@ -1079,7 +1103,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-gedabek-maiden-tower-landmarks-v2",
     type: "castle",
     name: { de: "Jungfrauenturm von Gedabek", hu: "Gedabeki leánytorony", ro: "Turnul Fecioarei din Gedabek", en: "Maiden Tower, Gedabek" },
-    coordinates: { lat: 40.565, lng: 45.694 },
+    coords: [45.694, 40.565],
     description: {
       de: "Eine hochgelegene Bergfestung aus dem 9. Jahrhundert, die einen weiten Blick über die Region Gedabek bietet.",
       hu: "9. századi magaslati hegyi erőd, amely széles kilátást nyújt a Gedabeki régióra.",
@@ -1110,7 +1134,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-red-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Rote Brücke", hu: "Vörös híd", ro: "Podul Roșu", en: "Red Bridge" },
-    coordinates: { lat: 41.328, lng: 45.072 },
+    coords: [45.072, 41.328],
     description: {
       de: "Eine mittelalterliche Bogenbrücke aus dem 12. Jahrhundert, die den Fluss Khrami an der Grenze zu Georgien überspannt.",
       hu: "12. századi középkori íves híd, amely a Khrami-folyót íveli át a grúz határon.",
@@ -1141,7 +1165,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     id: "azerbaijan-museum-of-miniature-books-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Miniaturbücher", hu: "Miniatűr Könyvek Múzeuma", ro: "Muzeul Cărților în Miniatură", en: "Museum of Miniature Books" },
-    coordinates: { lat: 40.366, lng: 49.834 },
+    coords: [49.834, 40.366],
     description: {
       de: "Das einzige Museum seiner Art weltweit, das tausende winzige Bücher in der Altstadt von Baku ausstellt.",
       hu: "A világon az egyetlen ilyen jellegű múzeum, amely több ezer apró könyvet mutat be Baku óvárosában.",

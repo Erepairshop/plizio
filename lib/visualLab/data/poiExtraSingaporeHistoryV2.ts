@@ -727,7 +727,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-battlebox-history-v2",
     type: "museum",
     name: { de: "The Battlebox", hu: "The Battlebox", ro: "The Battlebox", en: "The Battlebox" },
-    coordinates: { lat: 1.2965, lng: 103.8475 },
+    coords: [103.8475, 1.2965],
     description: {
       de: "Ein ehemaliger unterirdischer Bunker aus dem Zweiten Weltkrieg unter dem Fort Canning Hill. Er diente als Kommandozentrale während der Verteidigung von Singapur gegen die japanische Invasion.",
       hu: "Egy korábbi föld alatti bunker a Fort Canning Hill alatt, amely a második világháborúban szolgált. Ez volt a brit parancsnokság központja Szingapúr védelme során.",
@@ -746,7 +746,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-pow-memorial-museum-history-v2",
     type: "museum",
     name: { de: "Kriegsgefangenen-Gedenkmuseum", hu: "Hadifogoly Emlékmúzeum", ro: "Muzeul Memorial al Prizonierilor de Război", en: "POW Memorial Museum" },
-    coordinates: { lat: 1.3622, lng: 103.9733 },
+    coords: [103.9733, 1.3622],
     description: {
       de: "Dieses Museum erinnert an die Leiden der alliierten Kriegsgefangenen während der japanischen Besatzung. Es beherbergt eine Nachbildung der Kapelle und persönliche Gegenstände der Inhaftierten.",
       hu: "Ez a múzeum a japán megszállás alatt fogva tartott szövetséges hadifoglyoknak állít emléket. Egy kápolna-másolatot és a foglyok személyes tárgyait mutatja be.",
@@ -765,7 +765,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-siloso-battery-history-v2",
     type: "fort",
     name: { de: "Siloso-Batterie", hu: "Siloso-üteg", ro: "Bateria Siloso", en: "Siloso Battery" },
-    coordinates: { lat: 1.2586, lng: 103.8111 },
+    coords: [103.8111, 1.2586],
     description: {
       de: "Eine restaurierte Küstenfestung am westlichen Ende der Insel Sentosa. Sie wurde im späten 19. Jahrhundert zur Verteidigung der westlichen Einfahrt zum Keppel Harbour errichtet.",
       hu: "Szentosa-sziget nyugati végén található restaurált parti erőd. A 19. század végén épült a Keppel Harbour nyugati bejáratának védelmére.",
@@ -784,7 +784,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-opium-hill-memorial-history-v2",
     type: "battlefield",
     name: { de: "Opium-Hügel Gedenkstätte", hu: "Ópium-domb Emlékhely", ro: "Memorialul Dealul Opiumului", en: "Opium Hill Memorial" },
-    coordinates: { lat: 1.2783, lng: 103.7997 },
+    coords: [103.7997, 1.2783],
     description: {
       de: "Schauplatz der erbitterten Schlacht von Pasir Panjang im Jahr 1942. Hier leistete das Malay Regiment unter Leutnant Adnan Saidi heroischen Widerstand gegen die japanischen Truppen.",
       hu: "Az 1942-es Pasir Panjang-i csata helyszíne. Itt tanúsított hősies ellenállást a Maláj Ezred Adnan Saidi hadnagy vezetésével a japán csapatokkal szemben.",
@@ -803,7 +803,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-war-cemetery-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegsfriedhof-Gedenkstätte", hu: "Háborús Temető Emlékhely", ro: "Memorialul Cimitirul de Război", en: "War Cemetery Memorial" },
-    coordinates: { lat: 1.4194, lng: 103.7578 },
+    coords: [103.7578, 1.4194],
     description: {
       de: "Die letzte Ruhestätte für Tausende von alliierten Soldaten aus dem Zweiten Weltkrieg. Die Gedenkstätte umfasst Gräber von Soldaten aus Großbritannien, Australien, Indien und Malaysia.",
       hu: "Több ezer második világháborús szövetséges katona végső nyughelye. Az emlékhely brit, ausztrál, indiai és maláj katonák sírjait foglalja magában.",
@@ -822,7 +822,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-rainbow-building-history-v2",
     type: "landmark",
     name: { de: "Regenbogen-Gebäude", hu: "Szivárvány-épület", ro: "Clădirea Curcubeu", en: "Rainbow Building" },
-    coordinates: { lat: 1.2917, lng: 103.8483 },
+    coords: [103.8483, 1.2917],
     description: {
       de: "Die ehemalige Polizeistation in der Hill Street, bekannt für ihre 927 farbenfrohen Fensterläden. Das 1934 fertiggestellte Gebäude war einst die größte Polizeistation in Singapur.",
       hu: "A korábbi Hill Street-i rendőrőrs, amely 927 színes ablaktáblájáról ismert. Az 1934-ben befejezett épület egykor Szingapúr legnagyobb rendőrkapitánysága volt.",
@@ -841,7 +841,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-former-ford-factory-history-v2",
     type: "museum",
     name: { de: "Ehemalige Ford-Fabrik", hu: "Egykori Ford Gyár", ro: "Fosta Fabrică Ford", en: "Former Ford Factory" },
-    coordinates: { lat: 1.3533, lng: 103.7686 },
+    coords: [103.7686, 1.3533],
     description: {
       de: "Der historische Ort, an dem die britischen Streitkräfte 1942 offiziell vor der japanischen Armee kapitulierten. Heute beherbergt das Gebäude eine Ausstellung über die Kriegszeit.",
       hu: "Történelmi helyszín, ahol a brit erők 1942-ben hivatalosan megadták magukat a japán hadseregnek. Ma az épület a háborús éveket bemutató kiállításnak ad otthont.",
@@ -860,7 +860,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-lim-bo-seng-memorial-history-v2",
     type: "monument",
     name: { de: "Lim Bo Seng Denkmal", hu: "Lim Bo Seng emlékmű", ro: "Memorialul Lim Bo Seng", en: "Lim Bo Seng Memorial" },
-    coordinates: { lat: 1.2897, lng: 103.8533 },
+    coords: [103.8533, 1.2897],
     description: {
       de: "Ein Pagoden-ähnliches Denkmal im Esplanade Park, das dem Widerstandskämpfer Lim Bo Seng gewidmet ist. Er starb während des Zweiten Weltkriegs in japanischer Gefangenschaft.",
       hu: "A szingapúri Esplanade Parkban található, pagoda stílusú emlékmű, amelyet Lim Bo Seng ellenállónak szenteltek. A második világháború alatt japán fogságban halt meg.",
@@ -879,7 +879,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-ina-monument-history-v2",
     type: "monument",
     name: { de: "Denkmal der Indischen Nationalarmee", hu: "Indiai Nemzeti Hadsereg emlékműve", ro: "Monumentul Armatei Naționale Indiene", en: "INA Monument Site" },
-    coordinates: { lat: 1.2905, lng: 103.8525 },
+    coords: [103.8525, 1.2905],
     description: {
       de: "Die Stelle des ursprünglichen Denkmals der Indischen Nationalarmee, das 1945 von Mountbatten zerstört wurde. Heute erinnert eine Gedenktafel an den Kampf für Indiens Unabhängigkeit.",
       hu: "Az Indiai Nemzeti Hadsereg eredeti emlékművének helyszíne, amelyet 1945-ben Mountbatten leromboltatott. Ma emléktábla jelzi az India függetlenségéért vívott harcot.",
@@ -898,7 +898,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-dalhousie-obelisk-history-v2",
     type: "monument",
     name: { de: "Dalhousie-Obelisk", hu: "Dalhousie-obeliszk", ro: "Obeliscul Dalhousie", en: "Dalhousie Obelisk" },
-    coordinates: { lat: 1.2886, lng: 103.8522 },
+    coords: [103.8522, 1.2886],
     description: {
       de: "Ein neoklassizistisches Denkmal am Nordufer des Singapore River, errichtet zur Erinnerung an den Besuch von Lord Dalhousie im Jahr 1850. Es ist das älteste öffentliche Denkmal der Stadt.",
       hu: "A Szingapúr-folyó északi partján álló neoklasszicista emlékmű, amelyet Lord Dalhousie 1850-es látogatásának emlékére emeltek. A város legrégebbi köztéri emlékműve.",
@@ -917,7 +917,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-sun-yat-sen-nanyang-memorial-history-v2",
     type: "palace",
     name: { de: "Sun Yat Sen Nanyang Gedenkhalle", hu: "Sun Yat Sen Nanyang Emlékcsarnok", ro: "Vila Memorială Sun Yat Sen", en: "Sun Yat Sen Nanyang Memorial" },
-    coordinates: { lat: 1.3283, lng: 103.8472 },
+    coords: [103.8472, 1.3283],
     description: {
       de: "Eine zweistöckige Kolonialvilla, die einst der Hauptstützpunkt von Dr. Sun Yat Sen in Südostasien war. Sie spielte eine zentrale Rolle bei der Planung der chinesischen Revolution von 1911.",
       hu: "Kétszintes gyarmati villa, amely egykor Dr. Szun Jat-szen délkelet-ázsiai bázisa volt. Központi szerepet játszott az 1911-es kínai forradalom tervezésében.",
@@ -936,7 +936,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-maghain-aboth-synagogue-history-v2",
     type: "church",
     name: { de: "Maghain-Aboth-Synagoge", hu: "Maghain Aboth zsinagóga", ro: "Sinagoga Maghain Aboth", en: "Maghain Aboth Synagogue" },
-    coordinates: { lat: 1.2983, lng: 103.8494 },
+    coords: [103.8494, 1.2983],
     description: {
       de: "Die älteste noch genutzte Synagoge in Südostasien, erbaut im Jahr 1878. Sie ist ein bedeutendes Zentrum für die jüdische Gemeinde in Singapur und besticht durch ihren neoklassizistischen Stil.",
       hu: "Délkelet-Ázsia legrégebbi, ma is működő zsinagógája, amely 1878-ban épült. A szingapúri zsidó közösség fontos központja, neoklasszicista stílusban készült.",
@@ -955,7 +955,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-sri-mariamman-temple-history-v2",
     type: "landmark",
     name: { de: "Sri Mariamman Tempel", hu: "Sri Mariamman templom", ro: "Templul Sri Mariamman", en: "Sri Mariamman Temple" },
-    coordinates: { lat: 1.2825, lng: 103.8453 },
+    coords: [103.8453, 1.2825],
     description: {
       de: "Der älteste Hindu-Tempel Singapurs, berühmt für seinen kunstvoll verzierten Gopuram (Torturm). Er wurde 1827 gegründet und ist der Göttin Mariamman gewidmet.",
       hu: "Szingapúr legrégebbi hindu temploma, amely díszes gopuramjáról (bejárati torony) híres. 1827-ben alapították, és Mariamman istennőnek szentelték.",
@@ -974,7 +974,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-sri-srinivasa-perumal-history-v2",
     type: "landmark",
     name: { de: "Sri Srinivasa Perumal Tempel", hu: "Sri Srinivasa Perumal templom", ro: "Templul Sri Srinivasa Perumal", en: "Sri Srinivasa Perumal Temple" },
-    coordinates: { lat: 1.3125, lng: 103.8558 },
+    coords: [103.8558, 1.3125],
     description: {
       de: "Ein bedeutender Hindu-Tempel in Little India, der Gott Vishnu gewidmet ist. Der 1855 erbaute Tempel dient als Ausgangspunkt für die jährliche Thaipusam-Prozession.",
       hu: "Fontos hindu templom a Kis Indiában, amelyet Visnu istennek szenteltek. Az 1855-ben épült templom az évenkénti Thaipusam körmenet kiindulópontja.",
@@ -993,7 +993,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-jamae-mosque-history-v2",
     type: "church",
     name: { de: "Jamae-Moschee", hu: "Jamae mecset", ro: "Moscheea Jamae", en: "Jamae Mosque" },
-    coordinates: { lat: 1.2833, lng: 103.8458 },
+    coords: [103.8458, 1.2833],
     description: {
       de: "Eine der ältesten Moscheen in Singapur, im Stadtteil Chinatown gelegen. Sie wurde 1826 von Chulia-Muslimen erbaut und ist für ihre einzigartige indogotische Architektur bekannt.",
       hu: "Szingapúr egyik legrégebbi mecsete, a Chinatown negyedben. 1826-ban építették Chulia muszlimok, és egyedülálló indo-gótikus építészetéről ismert.",
@@ -1012,7 +1012,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-al-abrar-mosque-history-v2",
     type: "church",
     name: { de: "Al-Abrar-Moschee", hu: "Al-Abrar mecset", ro: "Moscheea Al-Abrar", en: "Al-Abrar Mosque" },
-    coordinates: { lat: 1.2817, lng: 103.8478 },
+    coords: [103.8478, 1.2817],
     description: {
       de: "Diese 1827 gegründete Moschee in der Telok Ayer Street war ursprünglich eine kleine Reetdachhütte. Das heutige Ziegelgebäude stammt aus dem Jahr 1855.",
       hu: "Az 1827-ben alapított mecset a Telok Ayer utcában eredetileg egy kis nádfedeles kunyhó volt. A jelenlegi téglaépület 1855-ből származik.",
@@ -1031,7 +1031,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-ying-fo-fui-kun-history-v2",
     type: "landmark",
     name: { de: "Ying Fo Fui Kun", hu: "Ying Fo Fui Kun", ro: "Ying Fo Fui Kun", en: "Ying Fo Fui Kun" },
-    coordinates: { lat: 1.2811, lng: 103.8478 },
+    coords: [103.8478, 1.2811],
     description: {
       de: "Das älteste Hakka-Clanhaus in Singapur, gegründet im Jahr 1822. Das Gebäude diente als wichtiger Treffpunkt und Unterstützungszentrum für Hakka-Einwanderer aus Guangdong.",
       hu: "Szingapúr legrégebbi Hakka klánháza, amelyet 1822-ben alapítottak. Az épület fontos találkozóhelyként és központként szolgált a Guangdongból érkező bevándorlóknak.",
@@ -1050,7 +1050,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-nagore-dargah-history-v2",
     type: "monument",
     name: { de: "Nagore Dargah Schrein", hu: "Nagore Dargah szentély", ro: "Sanctuarul Nagore Dargah", en: "Nagore Dargah Shrine" },
-    coordinates: { lat: 1.2819, lng: 103.8475 },
+    coords: [103.8475, 1.2819],
     description: {
       de: "Ein historischer Schrein, der von Chulia-Muslimen zu Ehren eines indischen Heiligen errichtet wurde. Das markante Gebäude in der Telok Ayer Street besticht durch seine aufwendigen Miniatur-Minarette.",
       hu: "Chulia muszlimok által egy indiai szent tiszteletére emelt történelmi szentély. A Telok Ayer utcai különleges épület bonyolult miniatűr minaretjeiről ismert.",
@@ -1069,7 +1069,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-tan-kim-sen-fountain-history-v2",
     type: "monument",
     name: { de: "Tan Kim Seng Brunnen", hu: "Tan Kim Seng kút", ro: "Fântâna Tan Kim Seng", en: "Tan Kim Seng Fountain" },
-    coordinates: { lat: 1.2894, lng: 103.8533 },
+    coords: [103.8533, 1.2894],
     description: {
       de: "Ein gusseiserner viktorianischer Brunnen im Esplanade Park, der zur Erinnerung an die Spende von Tan Kim Seng für das erste Wasserleitungssystem der Stadt errichtet wurde.",
       hu: "Az Esplanade Parkban található öntöttvas viktoriánus kút, amelyet Tan Kim Seng tiszteletére emeltek, aki a város első vízhálózatára adományozott.",
@@ -1088,7 +1088,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-municipal-building-history-v2",
     type: "landmark",
     name: { de: "Städtisches Gebäude", hu: "Városháza épülete", ro: "Clădirea Municipală", en: "Municipal Building" },
-    coordinates: { lat: 1.29, lng: 103.8519 },
+    coords: [103.8519, 1.29],
     description: {
       de: "Das 1929 fertiggestellte Gebäude war der Verwaltungssitz der Stadt und Zeuge vieler historischer Ereignisse, darunter die Proklamation der Unabhängigkeit Singapurs im Jahr 1965.",
       hu: "Az 1929-ben befejezett épület a város közigazgatási székhelye volt, és számos történelmi esemény, köztük Szingapúr 1965-ös függetlenségének szemtanúja.",
@@ -1107,7 +1107,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-justice-palace-history-v2",
     type: "landmark",
     name: { de: "Justizpalast", hu: "Igazságügyi Palota", ro: "Palatul Justiției", en: "Justice Palace" },
-    coordinates: { lat: 1.2897, lng: 103.8511 },
+    coords: [103.8511, 1.2897],
     description: {
       de: "Das ehemalige Gebäude des Obersten Gerichtshofs wurde 1939 fertiggestellt und ist eines der bedeutendsten Wahrzeichen der Kolonialzeit am Padang.",
       hu: "A Legfelsőbb Bíróság korábbi épülete 1939-ben készült el, és a Padang melletti gyarmati korszak egyik legjelentősebb jelképe.",
@@ -1126,7 +1126,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-chijmes-history-v2",
     type: "landmark",
     name: { de: "CHIJMES", hu: "CHIJMES", ro: "CHIJMES", en: "CHIJMES" },
-    coordinates: { lat: 1.2953, lng: 103.8519 },
+    coords: [103.8519, 1.2953],
     description: {
       de: "Ein ehemaliger katholischer Klosterkomplex, der einst als Waisenhaus und Schule diente. Die prachtvolle neugotische Kapelle ist das Herzstück dieser historischen Anlage.",
       hu: "Egykori katolikus kolostorkomplexum, amely árvaházként és iskolaként is szolgált. A csodálatos neogótikus kápolna a történelmi együttes központi eleme.",
@@ -1145,7 +1145,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-cathedral-good-shepherd-history-v2",
     type: "cathedral",
     name: { de: "Kathedrale zum Guten Hirten", hu: "Jó Pásztor székesegyház", ro: "Catedrala Bunul Păstor", en: "Cathedral of the Good Shepherd" },
-    coordinates: { lat: 1.2972, lng: 103.8514 },
+    coords: [103.8514, 1.2972],
     description: {
       de: "Die älteste katholische Kirche Singapurs, erbaut im Jahr 1847. Sie ist der Sitz des Erzbischofs von Singapur und ein bedeutendes Beispiel für die Kolonialarchitektur.",
       hu: "Szingapúr legrégebbi katolikus temploma, amely 1847-ben épült. A szingapúri érsek székhelye és a gyarmati építészet fontos példája.",
@@ -1164,7 +1164,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-peranakan-museum-history-v2",
     type: "museum",
     name: { de: "Peranakan-Museum", hu: "Peranakan Múzeum", ro: "Muzeul Peranakan", en: "Peranakan Museum" },
-    coordinates: { lat: 1.2944, lng: 103.8492 },
+    coords: [103.8492, 1.2944],
     description: {
       de: "Das Museum ist in der ehemaligen Tao Nan Schule untergebracht und widmet sich der reichen Kultur der Peranakan-Gemeinschaften in Südostasien.",
       hu: "A múzeum az egykori Tao Nan iskolában kapott helyet, és a délkelet-ázsiai peranakan közösségek gazdag kultúráját mutatja be.",
@@ -1183,7 +1183,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-fullerton-building-history-v2",
     type: "landmark",
     name: { de: "Fullerton-Gebäude", hu: "Fullerton-épület", ro: "Clădirea Fullerton", en: "Fullerton Building" },
-    coordinates: { lat: 1.2861, lng: 103.8533 },
+    coords: [103.8533, 1.2861],
     description: {
       de: "Ein prächtiges neoklassizistisches Gebäude, das einst als Hauptpostamt Singapurs diente. Heute beherbergt es ein Luxushotel und ist ein Symbol für die koloniale Pracht.",
       hu: "Pompás neoklasszicista épület, amely egykor Szingapúr központi postahivatala volt. Ma luxusszállodának ad otthont, és a gyarmati fényűzés jelképe.",
@@ -1202,7 +1202,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-clifford-pier-history-v2",
     type: "port",
     name: { de: "Clifford-Anlegestelle", hu: "Clifford-móló", ro: "Clifford Pier", en: "Clifford Pier" },
-    coordinates: { lat: 1.2839, lng: 103.8533 },
+    coords: [103.8533, 1.2839],
     description: {
       de: "Eine historische Anlegestelle an der Marina Bay, die 1933 eröffnet wurde. Sie war der Hauptankunftspunkt für Einwanderer, die auf dem Seeweg nach Singapur kamen.",
       hu: "Történelmi móló a Marina Bay-nél, amelyet 1933-ban nyitottak meg. Ez volt a fő érkezési pont a tengeren érkező bevándorlók számára.",
@@ -1221,7 +1221,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-central-fire-station-history-v2",
     type: "museum",
     name: { de: "Zentrale Feuerwache", hu: "Központi Tűzoltóállomás", ro: "Stația Centrală de Pompieri", en: "Central Fire Station" },
-    coordinates: { lat: 1.2928, lng: 103.8489 },
+    coords: [103.8489, 1.2928],
     description: {
       de: "Die älteste noch bestehende Feuerwache Singapurs, erkennbar an ihrer markanten rot-weißen Ziegelfassade. Sie wurde 1908 erbaut und beherbergt heute ein Museum.",
       hu: "Szingapúr legrégebbi tűzoltóállomása, amely jellegzetes vörös-fehér téglafaláról ismerhető fel. 1908-ban épült, ma múzeumnak ad otthont.",
@@ -1240,7 +1240,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-canberra-house-history-v2",
     type: "landmark",
     name: { de: "Canberra-Haus", hu: "Canberra-ház", ro: "Casa Canberra", en: "Canberra House" },
-    coordinates: { lat: 1.455, lng: 103.8267 },
+    coords: [103.8267, 1.455],
     description: {
       de: "Eine ehemalige Residenz der britischen Marineadmiralität in Sembawang. Das Gebäude ist ein herausragendes Beispiel für die Kolonialarchitektur der Zwischenkriegszeit.",
       hu: "A brit haditengerészeti admirálisok egykori rezidenciája Sembawangban. Az épület a két világháború közötti gyarmati építészet kiváló példája.",
@@ -1259,7 +1259,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-house-tan-teng-niah-history-v2",
     type: "landmark",
     name: { de: "Haus von Tan Teng Niah", hu: "Tan Teng Niah háza", ro: "Casa lui Tan Teng Niah", en: "House of Tan Teng Niah" },
-    coordinates: { lat: 1.3061, lng: 103.8514 },
+    coords: [103.8514, 1.3061],
     description: {
       de: "Die letzte erhaltene chinesische Villa in Little India, bekannt für ihre extrem farbenfrohe Gestaltung. Sie wurde 1900 von einem wohlhabenden Geschäftsmann erbaut.",
       hu: "Az utolsó fennmaradt kínai villa a Kis Indiában, amely rendkívül színes megjelenéséről ismert. 1900-ban építette egy tehetős üzletember.",
@@ -1278,7 +1278,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-sarimbun-beach-landing-history-v2",
     type: "battlefield",
     name: { de: "Landestelle am Strand von Sarimbun", hu: "Sarimbun-parti partraszállási hely", ro: "Locul debarcării de la plaja Sarimbun", en: "Sarimbun Beach Landing Site" },
-    coordinates: { lat: 1.4422, lng: 103.6814 },
+    coords: [103.6814, 1.4422],
     description: {
       de: "Der Ort, an dem die japanische Armee am 8. Februar 1942 erstmals auf der Insel Singapur landete. Dies markierte den Beginn der Bodenoffensive im Zweiten Weltkrieg.",
       hu: "Az a hely, ahol a japán hadsereg 1942. február 8-án először partra szállt Szingapúr szigetén. Ez jelentette a szárazföldi offenzíva kezdetét.",
@@ -1297,7 +1297,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-johore-battery-history-v2",
     type: "fort",
     name: { de: "Johore-Batterie", hu: "Johore-üteg", ro: "Bateria Johore", en: "Johore Battery" },
-    coordinates: { lat: 1.365, lng: 103.9858 },
+    coords: [103.9858, 1.365],
     description: {
       de: "Ein ehemaliger Küstengeschützstandort in Changi, der mit massiven 15-Zoll-Kanonen ausgestattet war. Er wurde gebaut, um Singapur vor Angriffen von der Seeseite zu schützen.",
       hu: "Egykori parti tüzérségi állás Changiban, amelyet hatalmas, 15 hüvelykes ágyúkkal szereltek fel. Szingapúr tengeri védelmére épült.",
@@ -1316,7 +1316,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-imbiah-battery-history-v2",
     type: "ruins",
     name: { de: "Imbiah-Batterie", hu: "Imbiah-üteg", ro: "Bateria Imbiah", en: "Imbiah Battery" },
-    coordinates: { lat: 1.2558, lng: 103.8164 },
+    coords: [103.8164, 1.2558],
     description: {
       de: "Die Ruinen einer britischen Küstenartilleriebatterie auf dem Mount Imbiah auf Sentosa. Sie wurde in den 1880er Jahren errichtet, um die südlichen Gewässer zu überwachen.",
       hu: "Egy brit parti tüzérségi üteg romjai a Mount Imbiahon, a Szentosa-szigeten. Az 1880-as években épült a déli vizek felügyeletére.",
@@ -1335,7 +1335,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-fort-connaught-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Fort Connaught", hu: "Fort Connaught romjai", ro: "Ruinele Fortului Connaught", en: "Fort Connaught Ruins" },
-    coordinates: { lat: 1.2425, lng: 103.8344 },
+    coords: [103.8344, 1.2425],
     description: {
       de: "Die Überreste einer bedeutenden Festung an der Ostküste von Sentosa. Sie wurde gebaut, um den Keppel Harbour gegen feindliche Flotten von Osten zu verteidigen.",
       hu: "Egy jelentős erőd maradványai a Szentosa-sziget keleti partján. A Keppel Harbour védelmére épült a keletről érkező ellenséges flották ellen.",
@@ -1354,7 +1354,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-sime-road-camp-history-v2",
     type: "battlefield",
     name: { de: "Sime-Road-Lager", hu: "Sime Road tábor", ro: "Tabăra Sime Road", en: "Sime Road Camp Site" },
-    coordinates: { lat: 1.3411, lng: 103.8211 },
+    coords: [103.8211, 1.3411],
     description: {
       de: "Dieses Gelände diente im Zweiten Weltkrieg als kombiniertes Hauptquartier der britischen Streitkräfte und später als Internierungslager für Zivilisten.",
       hu: "Ez a terület a második világháborúban a brit fegyveres erők kombinált parancsnokságaként, később pedig polgári internálótáborként szolgált.",
@@ -1373,7 +1373,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-berlayer-battery-history-v2",
     type: "fort",
     name: { de: "Berlayer-Batterie", hu: "Berlayer-üteg", ro: "Bateria Berlayer", en: "Berlayer Point Battery" },
-    coordinates: { lat: 1.2647, lng: 103.8019 },
+    coords: [103.8019, 1.2647],
     description: {
       de: "Eine historische Küstenbatterie in der Nähe des Labrador Parks. Sie wurde errichtet, um den Berlayer Creek und die westliche Zufahrt zum Hafen zu sichern.",
       hu: "Történelmi parti üteg a Labrador Park közelében. A Berlayer Creek és a kikötő nyugati bejáratának védelmére épült.",
@@ -1392,7 +1392,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-reflections-pillbox-history-v2",
     type: "monument",
     name: { de: "Bunker von Pasir Panjang", hu: "Pasir Panjang-i bunker", ro: "Buncărul Pasir Panjang", en: "Reflections Pillbox" },
-    coordinates: { lat: 1.275, lng: 103.805 },
+    coords: [103.805, 1.275],
     description: {
       de: "Ein kleiner Betonbunker aus dem Zweiten Weltkrieg an der Pasir Panjang Road. Er diente als Verteidigungsposten während der Schlacht um den Bergrücken.",
       hu: "Kisméretű betonbunker a második világháborúból a Pasir Panjang úton. Védelmi pontként szolgált a gerincért vívott csata során.",
@@ -1411,7 +1411,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-prison-gatehouse-history-v2",
     type: "landmark",
     name: { de: "Gefängnis-Torhaus", hu: "Börtön kapuépülete", ro: "Poarta Închisorii", en: "Prison Gatehouse" },
-    coordinates: { lat: 1.3642, lng: 103.9725 },
+    coords: [103.9725, 1.3642],
     description: {
       de: "Der erhaltene Eingangsbereich des ursprünglichen Changi-Gefängnisses aus dem Jahr 1936. Er ist ein Symbol für die Inhaftierung Tausender während des Krieges.",
       hu: "Az 1936-ban épült eredeti Changi börtön fennmaradt bejárata. Ez a háború alatt fogva tartott ezrek szenvedésének szimbóluma.",
@@ -1430,7 +1430,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-empress-place-building-history-v2",
     type: "museum",
     name: { de: "Empress-Place-Gebäude", hu: "Empress Place épület", ro: "Clădirea Empress Place", en: "Empress Place Building" },
-    coordinates: { lat: 1.2889, lng: 103.8517 },
+    coords: [103.8517, 1.2889],
     description: {
       de: "Ein prachtvolles Kolonialgebäude am Singapore River, das 1867 fertiggestellt wurde. Früher beherbergte es Regierungsbüros und heute das Asian Civilisations Museum.",
       hu: "Pompás gyarmati épület a Szingapúr-folyó partján, amelyet 1867-ben fejeztek be. Korábban kormányhivataloknak, ma az Ázsiai Civilizációk Múzeumának ad otthont.",
@@ -1449,7 +1449,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-fort-serapong-history-v2",
     type: "ruins",
     name: { de: "Fort Serapong", hu: "Fort Serapong", ro: "Fortul Serapong", en: "Fort Serapong" },
-    coordinates: { lat: 1.2514, lng: 103.8322 },
+    coords: [103.8322, 1.2514],
     description: {
       de: "Eine verlassene britische Festung auf dem Mount Serapong auf Sentosa. Die Ruinen bieten einen faszinierenden Einblick in die Militärarchitektur des späten 19. Jahrhunderts.",
       hu: "Elhagyatott brit erőd a Mount Serapongon, a Szentosa-szigeten. A romok lenyűgöző bepillantást nyújtanak a 19. század végi katonai építészetbe.",
@@ -1468,7 +1468,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-main-strait-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Hauptstraße", hu: "Fő-szoros romok", ro: "Ruinele Strâmtorii Principale", en: "Main Strait Ruins" },
-    coordinates: { lat: 1.2736, lng: 103.8419 },
+    coords: [103.8419, 1.2736],
     description: {
       de: "Die Überreste alter Hafenmauern und Lagerhäuser am Rande von Tanjong Pagar. Sie zeugen von Singapurs Aufstieg als bedeutender Handelshafen im 19. Jahrhundert.",
       hu: "Régi kikötői falak és raktárak maradványai Tanjong Pagar szélén. Szingapúr 19. századi jelentős kereskedelmi kikötővé válásáról tanúskodnak.",
@@ -1487,7 +1487,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-woodneuk-house-history-v2",
     type: "ruins",
     name: { de: "Haus Woodneuk", hu: "Woodneuk-ház", ro: "Casa Woodneuk", en: "Woodneuk House" },
-    coordinates: { lat: 1.3086, lng: 103.8153 },
+    coords: [103.8153, 1.3086],
     description: {
       de: "Die Ruine einer ehemals prunkvollen Residenz des Sultans von Johor in der Nähe des Botanischen Gartens. Das Herrenhaus wurde bei einem Brand schwer beschädigt.",
       hu: "Johor szultánjának egykori pompás rezidenciája a Botanikus kert közelében. Az udvarház egy tűzvészben súlyosan megsérült és ma romos.",
@@ -1506,7 +1506,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-selarang-barracks-history-v2",
     type: "landmark",
     name: { de: "Selarang-Kasernen", hu: "Selarang laktanya", ro: "Cazarma Selarang", en: "Selarang Barracks Site" },
-    coordinates: { lat: 1.3636, lng: 103.9786 },
+    coords: [103.9786, 1.3636],
     description: {
       de: "Ein historisches Militärgelände, das während des Zweiten Weltkriegs Schauplatz des Selarang-Zwischenfalls war. Tausende Kriegsgefangene weigerten sich hier, ein Nicht-Flucht-Gelöbnis zu unterschreiben.",
       hu: "Történelmi katonai terület, amely a második világháború alatt a Selarang-incidens helyszíne volt. Hadifoglyok ezrei tagadták meg itt a fogolyszökés elleni eskü aláírását.",
@@ -1525,7 +1525,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-chesed-el-synagogue-history-v2",
     type: "church",
     name: { de: "Chesed-El-Synagoge", hu: "Chesed-El zsinagóga", ro: "Sinagoga Chesed-El", en: "Chesed-El Synagogue" },
-    coordinates: { lat: 1.3, lng: 103.8419 },
+    coords: [103.8419, 1.3],
     description: {
       de: "Eine prachtvolle Synagoge an der Oxley Rise, erbaut im Jahr 1905 von Sir Manasseh Meyer. Sie wurde im palladianischen Stil errichtet und ist ein privates Gotteshaus.",
       hu: "Pompás zsinagóga az Oxley Rise-nál, amelyet 1905-ben építtetett Sir Manasseh Meyer. Palladiánus stílusban készült, magán-istentiszteleti helyként.",
@@ -1544,7 +1544,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-fullerton-waterboat-house-history-v2",
     type: "landmark",
     name: { de: "Fullerton-Wasserboot-Haus", hu: "Fullerton vízi-hajó ház", ro: "Casa bărcii cu apă Fullerton", en: "Fullerton Waterboat House" },
-    coordinates: { lat: 1.2869, lng: 103.8542 },
+    coords: [103.8542, 1.2869],
     description: {
       de: "Ein markantes Art-Déco-Gebäude am Esplanade Drive. Es diente früher als Versorgungsstation für Schiffe, die im Hafen von Singapur ankerten.",
       hu: "Jellegzetes Art Deco épület az Esplanade Drive-nál. Korábban a szingapúri kikötőben horgonyzó hajók vízellátását biztosító állomásként szolgált.",
@@ -1563,7 +1563,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-customs-house-history-v2",
     type: "landmark",
     name: { de: "Zollhaus", hu: "Vámház", ro: "Casa Vămii", en: "Customs House" },
-    coordinates: { lat: 1.2828, lng: 103.8531 },
+    coords: [103.8531, 1.2828],
     description: {
       de: "Dieses Gebäude am Marina Boulevard war früher der Sitz der Zollbehörden. Von hier aus wurde der Seehandel und die Bekämpfung des Schmuggels überwacht.",
       hu: "A Marina Boulevardnál található épület egykor a vámhatóság székhelye volt. Innen felügyelték a tengeri kereskedelmet és küzdöttek a csempészet ellen.",
@@ -1582,7 +1582,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-memorial-cross-history-v2",
     type: "monument",
     name: { de: "Gedenkkreuz", hu: "Emlékkereszt", ro: "Crucea Memorială", en: "Memorial Cross Site" },
-    coordinates: { lat: 1.3486, lng: 103.7694 },
+    coords: [103.7694, 1.3486],
     description: {
       de: "Ein Gedenkort auf dem Bukit Batok, wo im Zweiten Weltkrieg ein Schrein für die japanischen Gefallenen und ein Kreuz für die Alliierten standen.",
       hu: "Emlékhely a Bukit Batokon, ahol a második világháború alatt egy japán szentély és egy szövetséges kereszt állt.",
@@ -1601,7 +1601,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-justice-wing-history-v2",
     type: "landmark",
     name: { de: "Justiz-Flügel", hu: "Igazságügyi szárny", ro: "Aripa Justiției", en: "Justice Wing" },
-    coordinates: { lat: 1.2911, lng: 103.8505 },
+    coords: [103.8505, 1.2911],
     description: {
       de: "Ein Teil des Ensembles historischer Regierungsgebäude im Herzen des Zentrums. Er spiegelt die juristische Geschichte und Architektur Singapurs wider.",
       hu: "A belváros szívében található történelmi kormányzati épületegyüttes része. Szingapúr jogi történelmét és építészetét tükrözi.",
@@ -1620,7 +1620,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-seletar-barracks-history-v2",
     type: "landmark",
     name: { de: "Seletar-Kasernen", hu: "Seletar laktanyák", ro: "Cazărmile Seletar", en: "Seletar Barracks" },
-    coordinates: { lat: 1.4111, lng: 103.865 },
+    coords: [103.865, 1.4111],
     description: {
       de: "Ehemalige Kasernen der Royal Air Force in Seletar. Das Gebiet ist bekannt für seine gut erhaltenen kolonialen Schwarz-Weiß-Häuser und Flugzeughangars.",
       hu: "A Királyi Légierő egykori laktanyái Seletarban. A terület a jól megőrzött fekete-fehér gyarmati házairól és hangárjairól ismert.",
@@ -1639,7 +1639,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-labrador-tunnels-history-v2",
     type: "ruins",
     name: { de: "Labrador-Tunnel", hu: "Labrador-alagutak", ro: "Tunelurile Labrador", en: "Labrador Tunnels" },
-    coordinates: { lat: 1.265, lng: 103.8025 },
+    coords: [103.8025, 1.265],
     description: {
       de: "Ein Netzwerk unterirdischer Gänge und Munitionslager im Labrador Park, das während des Zweiten Weltkriegs zur Unterstützung der Küstenbatterien genutzt wurde.",
       hu: "Föld alatti folyosók és lőszerraktárak hálózata a Labrador Parkban, amelyet a parti ütegek kiszolgálására használtak a háborúban.",
@@ -1658,7 +1658,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-hong-lim-park-history-v2",
     type: "park",
     name: { de: "Hong-Lim-Park", hu: "Hong Lim Park", ro: "Parcul Hong Lim", en: "Hong Lim Park" },
-    coordinates: { lat: 1.2861, lng: 103.8464 },
+    coords: [103.8464, 1.2861],
     description: {
       de: "Ein geschichtsträchtiger Park, der als erste öffentliche Grünanlage Singapurs gilt. Er ist bekannt als 'Speakers' Corner', der einzige Ort für öffentliche Reden.",
       hu: "Szingapúr első közparkjaként számontartott történelmi helyszín. 'Speakers' Corner' néven ismert, az egyetlen hely a városban a nyilvános felszólalásokra.",
@@ -1677,7 +1677,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-geylang-serai-history-v2",
     type: "landmark",
     name: { de: "Geylang-Serai-Marktgelände", hu: "Geylang Serai piactér", ro: "Zona Geylang Serai", en: "Geylang Serai District" },
-    coordinates: { lat: 1.3167, lng: 103.8967 },
+    coords: [103.8967, 1.3167],
     description: {
       de: "Das historische Zentrum der malaiischen Gemeinschaft in Singapur. Das Viertel entstand aus ehemaligen Zitronengras-Plantagen und ist heute für sein kulturelles Erbe bekannt.",
       hu: "A szingapúri maláj közösség történelmi központja. A negyed korábbi citromfű-ültetvények helyén alakult ki, ma kulturális örökségéről nevezetes.",
@@ -1696,7 +1696,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-katong-shophouses-history-v2",
     type: "landmark",
     name: { de: "Katong-Ladenhäuser", hu: "Katong üzletházak", ro: "Casele comerciale din Katong", en: "Katong Shophouses" },
-    coordinates: { lat: 1.305, lng: 103.905 },
+    coords: [103.905, 1.305],
     description: {
       de: "Einzigartige, farbenfrohe Ladenhäuser in Katong, die den Reichtum der Peranakan-Kultur widerspiegeln. Die verzierten Fassaden stammen meist aus dem frühen 20. Jahrhundert.",
       hu: "Egyedi, színes üzletházak Katongban, amelyek a peranakan kultúra gazdagságát tükrözik. A díszes homlokzatok többsége a 20. század elejéről származik.",
@@ -1715,7 +1715,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-old-bukit-timah-railway-history-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof Bukit Timah", hu: "Régi Bukit Timah vasútállomás", ro: "Vechea Gară Bukit Timah", en: "Old Bukit Timah Railway" },
-    coordinates: { lat: 1.3364, lng: 103.7811 },
+    coords: [103.7811, 1.3364],
     description: {
       de: "Ein ehemaliger Bahnhof an der stillgelegten Eisenbahnstrecke zwischen Singapur und Malaysia. Er wurde 1932 erbaut und ist heute ein beliebter Teil des 'Rail Corridor'.",
       hu: "Egykori vasútállomás a Szingapúr és Malajzia közötti üzemen kívüli vonalon. 1932-ben épült, ma a 'Vasúti Folyosó' népszerű része.",
@@ -1734,7 +1734,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-st-joseph-church-history-v2",
     type: "church",
     name: { de: "St.-Joseph-Kirche", hu: "Szent József-templom", ro: "Biserica Sfântul Iosif", en: "St. Joseph's Church" },
-    coordinates: { lat: 1.2975, lng: 103.8531 },
+    coords: [103.8531, 1.2975],
     description: {
       de: "Eine katholische Kirche an der Victoria Street, die 1912 von der portugiesischen Mission erbaut wurde. Sie ist bekannt für ihre prachtvollen Prozessionen.",
       hu: "Katolikus templom a Victoria utcában, amelyet 1912-ben a portugál misszió épített. Pompás körmeneteiről és vallási hagyományairól ismert.",
@@ -1753,7 +1753,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-tian-fu-gong-temple-history-v2",
     type: "landmark",
     name: { de: "Tian-Fu-Gong-Tempel", hu: "Tian Fu Gong templom", ro: "Templul Tian Fu Gong", en: "Tian Fu Gong Temple" },
-    coordinates: { lat: 1.2817, lng: 103.8475 },
+    coords: [103.8475, 1.2817],
     description: {
       de: "Einer der ältesten Hokkien-Tempel in der Telok Ayer Street, der Ma Zu gewidmet ist. Er diente Einwanderern als erster Anlaufpunkt nach der gefährlichen Überfahrt.",
       hu: "Az egyik legrégebbi hokkien templom a Telok Ayer utcában, Ma Zu-nak szentelve. A bevándorlók első állomása volt a veszélyes tengeri út után.",
@@ -1772,7 +1772,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-fort-canning-lighthouse-history-v2",
     type: "tower",
     name: { de: "Fort Canning Leuchtturm", hu: "Fort Canning világítótorony", ro: "Farul Fort Canning", en: "Fort Canning Lighthouse" },
-    coordinates: { lat: 1.2917, lng: 103.8467 },
+    coords: [103.8467, 1.2917],
     description: {
       de: "Eine Nachbildung des historischen Leuchtturms auf dem Fort Canning Hill. Das Original diente Schiffen über ein Jahrhundert lang zur Navigation in den Gewässern von Singapur.",
       hu: "A Fort Canning Hillen található történelmi világítótorony másolata. Az eredeti több mint egy évszázadon át segítette a hajók tájékozódását.",
@@ -1791,7 +1791,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-tan-tock-seng-hospital-old-v2",
     type: "landmark",
     name: { de: "Altes Tan Tock Seng Krankenhaus", hu: "Régi Tan Tock Seng Kórház", ro: "Vechiul Spital Tan Tock Seng", en: "Old Tan Tock Seng Hospital" },
-    coordinates: { lat: 1.3217, lng: 103.8467 },
+    coords: [103.8467, 1.3217],
     description: {
       de: "Die ursprüngliche Stelle des von Tan Tock Seng gegründeten Krankenhauses für Arme. Es war das erste von einem Philanthropen finanzierte Krankenhaus in Singapur.",
       hu: "A Tan Tock Seng által az elesettek számára alapított kórház eredeti helyszíne. Ez volt az első magánadományból finanszírozott kórház Szingapúrban.",
@@ -1810,7 +1810,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-princess-elizabeth-estate-v2",
     type: "landmark",
     name: { de: "Prinzessin-Elisabeth-Siedlung", hu: "Erzsébet hercegnő lakótelep", ro: "Cartierul Prințesa Elisabeta", en: "Princess Elizabeth Estate" },
-    coordinates: { lat: 1.3558, lng: 103.7667 },
+    coords: [103.7667, 1.3558],
     description: {
       de: "Eine historische Wohnsiedlung, die zur Hochzeit der späteren Königin Elisabeth II. im Jahr 1947 benannt wurde. Sie war eine der ersten modernen Sozialwohnungsprojekte.",
       hu: "Történelmi lakónegyed, amelyet a későbbi II. Erzsébet királynő 1947-es esküvője tiszteletére neveztek el. Az egyik első modern bérlakásprojekt volt.",
@@ -1829,7 +1829,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-serangoon-road-old-v2",
     type: "landmark",
     name: { de: "Alte Serangoon Road", hu: "Régi Serangoon út", ro: "Vechea stradă Serangoon", en: "Old Serangoon Road" },
-    coordinates: { lat: 1.3083, lng: 103.8508 },
+    coords: [103.8508, 1.3083],
     description: {
       de: "Eine der ältesten Durchgangsstraßen Singapurs, die bereits im frühen 19. Jahrhundert existierte. Sie war die Lebensader für die Landwirtschaft im Norden der Insel.",
       hu: "Szingapúr egyik legrégebbi útvonala, amely már a 19. század elején is létezett. A sziget északi részén folyó mezőgazdaság fő ütőere volt.",
@@ -1848,7 +1848,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-victoria-street-convent-v2",
     type: "ruins",
     name: { de: "Kloster in der Victoria Street", hu: "Victoria utcai kolostor", ro: "Mănăstirea din strada Victoria", en: "Victoria Street Convent" },
-    coordinates: { lat: 1.2961, lng: 103.8525 },
+    coords: [103.8525, 1.2961],
     description: {
       de: "Die verbliebenen historischen Mauern und das Gelände eines ehemaligen katholischen Konvents. Es ist ein ruhiger Ort des Gedenkens inmitten der modernen Stadt.",
       hu: "Egy korábbi katolikus zárda fennmaradt falai és területe. A nyugalom és az emlékezés helyszíne a modern város szívében.",
@@ -1867,7 +1867,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-bukit-cross-wwii-history-v2",
     type: "monument",
     name: { de: "Bukit-Gedenkkreuz", hu: "Bukit emlékkereszt", ro: "Crucea de pe dealul Bukit", en: "Bukit Cross WWII Site" },
-    coordinates: { lat: 1.3483, lng: 103.7692 },
+    coords: [103.7692, 1.3483],
     description: {
       de: "Ein historisches Gedenkkreuz auf dem Bukit Batok, das an die Gefallenen der Alliierten erinnert. Es markiert den Ort eines ehemaligen britischen Kriegsdenkmals.",
       hu: "Történelmi emlékkereszt a Bukit Batokon, amely a szövetséges áldozatokra emlékeztet. Egy korábbi brit háborús emlékmű helyét jelöli.",
@@ -1886,7 +1886,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-old-prison-gate-history-v2",
     type: "landmark",
     name: { de: "Altes Gefängnistor", hu: "Régi börtönkapu", ro: "Vechea poartă a închisorii", en: "Old Prison Gate" },
-    coordinates: { lat: 1.3644, lng: 103.9727 },
+    coords: [103.9727, 1.3644],
     description: {
       de: "Die massiven Stahltore des ursprünglichen Changi-Gefängnisses, die nach dem Abriss des alten Gebäudes als historisches Denkmal erhalten wurden.",
       hu: "Az eredeti Changi börtön masszív acélkapui, amelyeket a régi épület lebontása után történelmi emlékként őriztek meg.",
@@ -1905,7 +1905,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-empress-statue-history-v2",
     type: "monument",
     name: { de: "Kaiserin-Statue", hu: "Császárnő szobra", ro: "Statuia Împărătesei", en: "Empress Statue" },
-    coordinates: { lat: 1.2883, lng: 103.8514 },
+    coords: [103.8514, 1.2883],
     description: {
       de: "Eine Bronzestatue zu Ehren von Königin Victoria, die ursprünglich im Jahr 1888 errichtet wurde. Sie erinnert an die Verbindung Singapurs zum britischen Empire.",
       hu: "Viktória királynő tiszteletére emelt bronzszobor, amelyet eredetileg 1888-ban állítottak fel. Szingapúr és a Brit Birodalom kapcsolatára emlékeztet.",
@@ -1924,7 +1924,7 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "singapore-old-dock-wall-history-v2",
     type: "ruins",
     name: { de: "Alte Dockmauer", hu: "Régi kikötőfal", ro: "Vechiul zid al docului", en: "Old Dock Wall" },
-    coordinates: { lat: 1.2725, lng: 103.84 },
+    coords: [103.84, 1.2725],
     description: {
       de: "Die verbliebenen Überreste der alten Kaianlagen von Tanjong Pagar aus dem 19. Jahrhundert. Diese Granitmauern waren entscheidend für den frühen Erfolg des Hafens.",
       hu: "A 19. századi Tanjong Pagar-i rakpartfalak maradványai. Ezek a gránitfalak döntő fontosságúak voltak a kikötő korai sikereiben.",

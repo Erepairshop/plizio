@@ -796,7 +796,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-museu-antropologia-landmarks-v2",
     type: "museum",
     name: { de: "Nationales Anthropologiemuseum", hu: "Nemzeti Antropológiai Múzeum", ro: "Muzeul Național de Antropologie", en: "National Museum of Anthropology" },
-    coordinates: { lat: -8.8139, lng: 13.2303 },
+    coords: [13.2303, -8.8139],
     description: {
       de: "Das Museum beherbergt eine umfangreiche Sammlung zur Ethnografie Angolas. Es befindet sich in einem historischen Gebäude in Luanda.",
       hu: "A múzeum Angola néprajzi örökségét mutatja be Luanda szívében. Gyűjteménye több ezer hagyományos tárgyat és maszkot tartalmaz.",
@@ -827,7 +827,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-museu-historia-natural-landmarks-v2",
     type: "museum",
     name: { de: "Naturhistorisches Museum Luanda", hu: "Luandai Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală din Luanda", en: "National Museum of Natural History" },
-    coordinates: { lat: -8.8164, lng: 13.2356 },
+    coords: [13.2356, -8.8164],
     description: {
       de: "Das Museum zeigt die reiche Artenvielfalt Angolas in Luanda. Die Sammlung umfasst zahlreiche Tierpräparate und Fossilien der Region.",
       hu: "A múzeum Angola gazdag biológiai sokféleségét mutatja be. Gyűjteménye kitömött állatokat és helyi kövületeket tartalmaz.",
@@ -858,7 +858,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-museu-regional-dundo-landmarks-v2",
     type: "museum",
     name: { de: "Regionalmuseum von Dundo", hu: "Dundói Regionális Múzeum", ro: "Muzeul Regional din Dundo", en: "Dundo Regional Museum" },
-    coordinates: { lat: -7.3611, lng: 20.8422 },
+    coords: [20.8422, -7.3611],
     description: {
       de: "Das Museum in Lunda Norte ist bekannt für seine bedeutende Sammlung von Chokwe-Kunst. Es bewahrt das kulturelle Erbe der Region.",
       hu: "A Lunda Norte tartományban található múzeum híres csokve művészeti gyűjteményéről. A régió kulturális örökségét őrzi.",
@@ -889,7 +889,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-igreja-conceicao-luanda-landmarks-v2",
     type: "church",
     name: { de: "Kirche Unserer Lieben Frau der Empfängnis", hu: "Szeplőtelen Fogantatás templom", ro: "Biserica Maicii Domnului a Concepției", en: "Church of Our Lady of the Conception" },
-    coordinates: { lat: -8.8092, lng: 13.2361 },
+    coords: [13.2361, -8.8092],
     description: {
       de: "Eine der ältesten Kirchen in Luanda, erbaut im Kolonialstil. Sie ist ein bedeutendes religiöses Denkmal in der Nähe des Hafens.",
       hu: "Luanda egyik legrégebbi temploma, gyarmati stílusban épült. Jelentős vallási műemlék a kikötő közelében.",
@@ -903,12 +903,24 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       en: ["Built in the 17th century", "Baroque architectural elements", "Historical parish seat", "Located in downtown Luanda"],
     },
     imageHint: "Church of Our Lady of the Conception Luanda facade",
+    descriptionAdvanced: {
+      de: "Die Kirche Unserer Lieben Frau von der Empfängnis, portugiesisch Igreja da Conceição, ist eine römisch-katholische Kirche in Luanda, Angola. Sie wurde zwischen 1664 und 1679 von den Jesuiten erbaut und ist eine der ältesten Kirchen der Stadt. Die Fassade im Barockstil ist schlicht, mit einem dreieckigen Giebel und zwei seitlichen Glockentürmen. Im Inneren befindet sich ein kunstvoller vergoldeter Altar im neoklassizistischen Stil. Die Kirche diente zeitweise als Sitz des ersten Jesuitenkollegs in Angola. Während der Kolonialzeit war sie eine wichtige religiöse Einrichtung. Sie überstand das Erdbeben von 1755 und wurde im 19. Jahrhundert restauriert. Heute ist sie eine aktive Pfarrkirche und ein beliebtes Ziel für Gläubige und Touristen.",
+      hu: "A Szeplõtelen Fogantatás temploma (portugálul Igreja da Conceição) egy római katolikus templom Luandában, Angolában. 1664 és 1679 között építették a jezsuiták, és a város egyik legrégebbi temploma. Barokk homlokzata egyszerû, háromszögletû oromfallal és két oldalsó harangtoronnyal. Belül egy díszes, aranyozott neoklasszikus oltár található. A templom egykor az elsõ jezsuita kollégium székhelye volt. Túlélte az 1755-ös földrengést, és a 19. században felújították. Ma aktív plébániatemplom, népszerû a hívek és turisták körében.",
+      ro: "Biserica Maicii Domnului a Zămislirii (portugheză Igreja da Conceição) este o biserică romano-catolică din Luanda, Angola. A fost construită între 1664 și 1679 de iezuiți și este una dintre cele mai vechi biserici din oraș. Fațada barocă este simplă, cu un fronton triunghiular și două turnuri clopotniță laterale. Interiorul conține un altar aurit ornamentat în stil neoclasic. Biserica a servit cândva ca sediu al primului colegiu iezuit din Angola. A supraviețuit cutremurului din 1755 și a fost restaurată în secolul al XIX-lea. Astăzi este o biserică parohială activă și o destinație populară pentru credincioși și turiști.",
+      en: "The Church of Our Lady of the Conception (Igreja da Conceição) is a Roman Catholic church in Luanda, Angola, built by the Jesuits between 1664 and 1679. It is one of the oldest surviving colonial churches in the city. The baroque facade features a triangular pediment and twin bell towers, while the interior boasts a gilded neoclassical altarpiece. The church once housed the first Jesuit college in Angola. It survived the 1755 Lisbon earthquake, though damaged, and was later restored in the 19th century. Today, it remains an active parish church, known for its annual feast of Our Lady of the Conception on December 8.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1664–1679", "Architekturstil: Barock", "Höhe der Glockentürme: 30 m", "Erdbeben 1755: überlebt mit Schäden", "Erste Restaurierung: 1840", "Tägliche Messen: 3 (morgens, mittags, abends)"],
+      hu: ["Építés: 1664–1679", "Stílus: barokk", "Harangtornyok magassága: 30 m", "1755-ös földrengés: túlélte, de megrongálódott", "Elsõ felújítás: 1840", "Napi misék: 3 (reggel, délben, este)"],
+      ro: ["Construit: 1664–1679", "Stil arhitectural: baroc", "Înălțimea turnurilor: 30 m", "Cutremurul din 1755: a supraviețuit cu daune", "Prima restaurare: 1840", "Misse zilnice: 3 (dimineața, amiaza, seara)"],
+      en: ["Built: 1664–1679", "Architectural style: Baroque", "Bell tower height: 30 m", "1755 earthquake: survived with damage", "First restoration: 1840", "Daily masses: 3 (morning, noon, evening)"],
+    },
   },
   {
     id: "angola-igreja-jesus-luanda-landmarks-v2",
     type: "church",
     name: { de: "Jesuskirche", hu: "Jézus-templom", ro: "Biserica lui Iisus", en: "Church of Jesus" },
-    coordinates: { lat: -8.8131, lng: 13.2325 },
+    coords: [13.2325, -8.8131],
     description: {
       de: "Diese historische Jesuitenkirche in Luanda stammt aus dem frühen 17. Jahrhundert. Sie ist bekannt für ihre klassische Fassade.",
       hu: "Ez a történelmi jezsuita templom Luandában a 17. század elejéről származik. Klasszikus homlokzatáról ismert.",
@@ -922,12 +934,24 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       en: ["Built between 1612 and 1636", "Former Jesuit college", "Part of the historic center", "Restored in the 21st century"],
     },
     imageHint: "Church of Jesus Luanda historic facade",
+    descriptionAdvanced: {
+      de: "Die Jesuitenkirche in Luanda, offiziell Igreja de Jesus, ist ein weiteres bedeutendes kolonialzeitliches Bauwerk. Sie wurde im 17. Jahrhundert errichtet, etwa zwischen 1620 und 1640. Die Kirche ist im manieristischen Stil gehalten, einer Übergangsform zwischen Spätrenaissance und Barock. Die Fassade ist schlicht, mit einem großen Rundbogenportal und einem krönenden Dreiecksgiebel. Im Inneren beeindrucken die Holzschnitzereien des Altars und die Wandkacheln (Azulejos), die biblische Szenen darstellen. Während der Kolonialzeit diente die Kirche als wichtiger Stützpunkt der Jesuitenmission. Nach der Vertreibung der Jesuiten im 18. Jahrhundert wurde sie säkularisiert und später wieder der katholischen Kirche übergeben. Heute ist sie ein kulturelles Erbe und eine aktive Kirche.",
+      hu: "A Jézus-templom (Igreja de Jesus) Luandában egy másik jelentõs gyarmati kori épület. A 17. században épült, 1620 és 1640 között. Stílusa manierista, a késõ reneszánsz és a barokk közötti átmenet. Homlokzata egyszerû, nagy íves portálissal és háromszögletû oromzattal. Belül lenyûgözõek a faragott fa oltárok és az azulejo csempék, amelyek bibliai jeleneteket ábrázolnak. A jezsuiták kulcsfontosságú missziós bázisa volt. A jezsuiták kiûzése után a 18. században szekularizálták, majd visszaadták az egyháznak. Ma kulturális örökség és aktív templom.",
+      ro: "Biserica lui Isus (Igreja de Jesus) din Luanda este o altă clădire colonială importantă. A fost construită în secolul al XVII-lea, între 1620 și 1640. Stilul este manierist, o tranziție între Renașterea târzie și baroc. Fațada este simplă, cu un portal mare arcuit și un fronton triunghiular. Interiorul impresionează prin altarele din lemn sculptat și plăcile de azulejo care înfățișează scene biblice. A servit ca bază misionară cheie pentru iezuiți. După expulzarea iezuiților în secolul al XVIII-lea, a fost secularizată și ulterior returnată Bisericii. Astăzi este un patrimoniu cultural și o biserică activă.",
+      en: "The Church of Jesus (Igreja de Jesus) in Luanda is a 17th-century Jesuit church built between 1620 and 1640. Its mannerist architecture blends late Renaissance symmetry with baroque ornamentation. The facade features a large arched portal surmounted by a triangular pediment, flanked by pilasters. Inside, the church is adorned with intricate woodcarvings and blue-and-white azulejo tiles depicting scenes from the life of Christ. During the colonial era, it served as the headquarters of the Jesuit mission in Angola. After the Jesuits were expelled in 1759, the building was used as a warehouse and later reconsecrated. It now functions as a parish church and is considered a national monument.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1620–1640", "Stil: Manierismus", "Länge: 45 m, Breite: 15 m", "Azulejos: 17. Jahrhundert, handbemalt", "Höhe des Altars: 8 m", "Nationaldenkmal seit 1923"],
+      hu: ["Építés: 1620–1640", "Stílus: manierizmus", "Hossz: 45 m, szélesség: 15 m", "Azulejók: 17. század, kézzel festett", "Oltár magassága: 8 m", "Nemzeti emlékmû 1923 óta"],
+      ro: ["Construit: 1620–1640", "Stil: manierist", "Lungime: 45 m, lățime: 15 m", "Azulejos: secolul al XVII-lea, pictate manual", "Înălțimea altarului: 8 m", "Monument național din 1923"],
+      en: ["Built: 1620–1640", "Style: Mannerist", "Length: 45 m, width: 15 m", "Azulejos: 17th century, hand-painted", "Altar height: 8 m", "National monument since 1923"],
+    },
   },
   {
     id: "angola-estacao-bungo-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof Bungo", hu: "Bungo vasútállomás", ro: "Gara Bungo", en: "Bungo Railway Station" },
-    coordinates: { lat: -8.8115, lng: 13.2422 },
+    coords: [13.2422, -8.8115],
     description: {
       de: "Der Endbahnhof der Luandabahn in der Hauptstadt. Das Gebäude zeichnet sich durch seine klassische koloniale Architektur aus.",
       hu: "A Luanda-vasútvonal végállomása a fővárosban. Az épületet klasszikus gyarmati építészet jellemzi.",
@@ -958,7 +982,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-palacio-governo-benguela-landmarks-v2",
     type: "palace",
     name: { de: "Gouverneurspalast von Benguela", hu: "Benguelai kormányzói palota", ro: "Palatul Guvernatorului din Benguela", en: "Benguela Governor's Palace" },
-    coordinates: { lat: -12.5833, lng: 13.4072 },
+    coords: [13.4072, -12.5833],
     description: {
       de: "Ein prächtiges Gebäude im neoklassizistischen Stil in Benguela. Es dient als Sitz der Provinzregierung und ist ein Wahrzeichen.",
       hu: "Egy pompás neoklasszicista stílusú épület Benguelában. A tartományi kormány székhelye és a város jelképe.",
@@ -989,7 +1013,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-cine-atlantico-landmarks-v2",
     type: "theater",
     name: { de: "Cine Atlântico", hu: "Cine Atlântico", ro: "Cine Atlântico", en: "Cine Atlântico" },
-    coordinates: { lat: -8.8241, lng: 13.2433 },
+    coords: [13.2433, -8.8241],
     description: {
       de: "Ein bekanntes Freilufttheater und Kino in Luanda. Es ist ein markantes Beispiel für die modernistische Architektur der 1960er Jahre.",
       hu: "Ismert szabadtéri színház és mozi Luandában. A 1960-as évek modernista építészetének egyik kiemelkedő példája.",
@@ -1020,7 +1044,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-teatro-avenida-landmarks-v2",
     type: "theater",
     name: { de: "Avenida-Theater", hu: "Avenida Színház", ro: "Teatrul Avenida", en: "Avenida Theatre" },
-    coordinates: { lat: -8.8125, lng: 13.2341 },
+    coords: [13.2341, -8.8125],
     description: {
       de: "Ein historisches Kulturzentrum an einer der Hauptstraßen Luandas. Es spielt eine wichtige Rolle im künstlerischen Leben der Stadt.",
       hu: "Történelmi kulturális központ Luanda egyik főútján. Fontos szerepet játszik a város művészeti életében.",
@@ -1051,7 +1075,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-biblioteca-nacional-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek von Angola", hu: "Angolai Nemzeti Könyvtár", ro: "Biblioteca Națională a Angolei", en: "National Library of Angola" },
-    coordinates: { lat: -8.8182, lng: 13.2374 },
+    coords: [13.2374, -8.8182],
     description: {
       de: "Die zentrale Bibliothek des Landes in Luanda bewahrt das literarische Erbe. Sie ist der wichtigste Aufbewahrungsort für Bücher.",
       hu: "Az ország központi könyvtára Luandában, amely az irodalmi örökséget őrzi. A legfontosabb könyvgyűjtemény Angolában.",
@@ -1082,7 +1106,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-se-catedral-saurimo-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Saurimo", hu: "Saurimói katedrális", ro: "Catedrala din Saurimo", en: "Cathedral of Saurimo" },
-    coordinates: { lat: -9.6582, lng: 20.3925 },
+    coords: [20.3925, -9.6582],
     description: {
       de: "Die Hauptkirche der Stadt Saurimo in der Provinz Lunda Sul. Sie ist ein modernes religiöses Bauwerk und Sitz des Bistums.",
       hu: "Saurimo város főtemploma Lunda Sul tartományban. Modern vallási épület és a püspökség székhelye.",
@@ -1113,7 +1137,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-se-catedral-malanje-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Malanje", hu: "Malanjei katedrális", ro: "Catedrala din Malanje", en: "Cathedral of Malanje" },
-    coordinates: { lat: -9.5441, lng: 16.3472 },
+    coords: [16.3472, -9.5441],
     description: {
       de: "Diese markante Kathedrale mit zwei Türmen prägt das Stadtbild von Malanje. Sie ist der Maria Himmelfahrt geweiht.",
       hu: "Ez a jellegzetes két toronnyal rendelkező katedrális Malanje városképét határozza meg. Szűz Mária mennybevételének szentelték.",
@@ -1144,7 +1168,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-ponte-rio-catumbela-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke über den Catumbela-Fluss", hu: "Catumbela-folyó hídja", ro: "Podul peste râul Catumbela", en: "Catumbela River Bridge" },
-    coordinates: { lat: -12.4285, lng: 13.5481 },
+    coords: [13.5481, -12.4285],
     description: {
       de: "Eine moderne Schrägseilbrücke, die Lobito und Benguela verbindet. Sie ist ein bedeutendes Ingenieurbauwerk der Region.",
       hu: "Egy modern ferdekábeles híd, amely Lobitót és Benguelát köti össze. A régió jelentős mérnöki létesítménye.",
@@ -1175,7 +1199,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-memorial-neto-catete-landmarks-v2",
     type: "monument",
     name: { de: "Agostinho Neto Gedenkstätte Catete", hu: "Agostinho Neto Emlékhely Catete", ro: "Memorialul Agostinho Neto din Catete", en: "Agostinho Neto Memorial (Catete)" },
-    coordinates: { lat: -9.1025, lng: 13.7182 },
+    coords: [13.7182, -9.1025],
     description: {
       de: "Die Geburtsstätte des ersten Präsidenten Angolas in Catete. Die Anlage umfasst ein Museum und ein Kulturzentrum.",
       hu: "Angola első elnökének szülőhelye Catete-ben. A létesítmény múzeumot és kulturális központot is magában foglal.",
@@ -1206,7 +1230,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-igreja-sao-jose-cluny-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Josef von Cluny", hu: "Cluny Szent József templom", ro: "Biserica Sfântul Iosif din Cluny", en: "Church of Saint Joseph of Cluny" },
-    coordinates: { lat: -8.8192, lng: 13.2405 },
+    coords: [13.2405, -8.8192],
     description: {
       de: "Eine neugotische Kirche in Luanda aus dem späten 19. Jahrhundert. Sie ist bekannt für ihre markante Architektur und Geschichte.",
       hu: "Neogótikus templom Luandában a 19. század végéről. Jellegzetes építészetéről és történelméről ismert.",
@@ -1237,7 +1261,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     id: "angola-banco-comercial-historico-landmarks-v2",
     type: "landmark",
     name: { de: "Historisches Geschäftsbankgebäude", hu: "Történelmi Kereskedelmi Banképület", ro: "Clădirea Istorică a Băncii Comerciale", en: "Historical Commercial Bank Building" },
-    coordinates: { lat: -8.8112, lng: 13.2315 },
+    coords: [13.2315, -8.8112],
     description: {
       de: "Ein ikonisches Beispiel modernistischer Architektur in der Innenstadt von Luanda. Es wurde Mitte des 20. Jahrhunderts erbaut.",
       hu: "A modernista építészet ikonikus példája Luanda belvárosában. A 20. század közepén épült.",

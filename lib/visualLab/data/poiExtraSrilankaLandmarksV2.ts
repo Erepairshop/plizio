@@ -546,7 +546,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-national-museum-colombo-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Colombo", hu: "Colombói Nemzeti Múzeum", ro: "Muzeul Național din Colombo", en: "National Museum of Colombo" },
-    coordinates: { lat: 6.9103, lng: 79.8611 },
+    coords: [79.8611, 6.9103],
     description: {
       de: "Dies ist das größte Museum Sri Lankas, untergebracht in einem italienischen Gebäude. Es wurde 1877 vom britischen Gouverneur gegründet.",
       hu: "Ez Srí Lanka legnagyobb múzeuma, amely egy elegáns olasz stílusú épületben székel. 1877-ben alapította Sir William Henry Gregory kormányzó.",
@@ -565,7 +565,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-st-lucias-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Lucia Kathedrale", hu: "Szent Lúcia-székesegyház", ro: "Catedrala Sfânta Lucia", en: "St. Lucia's Cathedral" },
-    coordinates: { lat: 6.9472, lng: 79.8647 },
+    coords: [79.8647, 6.9472],
     description: {
       de: "Die Kathedrale in Kotahena ist der Sitz des Erzbischofs von Colombo. Ihr Bau dauerte über 50 Jahre und wurde 1902 offiziell abgeschlossen.",
       hu: "Ez a kotahenai székesegyház a colombói érsek székhelye. Építése több mint 50 évig tartott, és végül 1902-ben fejeződött be.",
@@ -584,7 +584,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-nelum-pokuna-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Nelum Pokuna Theater", hu: "Nelum Pokuna Színház", ro: "Teatrul Nelum Pokuna", en: "Nelum Pokuna Theatre" },
-    coordinates: { lat: 6.9114, lng: 79.8661 },
+    coords: [79.8661, 6.9114],
     description: {
       de: "Dieses moderne Zentrum für darstellende Künste ist wie eine Lotusblume geformt. Es wurde 2011 eröffnet und ist ein Wahrzeichen der Stadt.",
       hu: "Ez a modern előadóművészeti központ egy lótuszvirágot formáz. 2011-ben nyílt meg, és Colombo egyik leglátványosabb modern épülete.",
@@ -603,7 +603,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-bmich-landmarks-v2",
     type: "landmark",
     name: { de: "BMICH Konferenzzentrum", hu: "BMICH Konferencia-központ", ro: "Centrul de Conferințe BMICH", en: "BMICH" },
-    coordinates: { lat: 6.9014, lng: 79.8731 },
+    coords: [79.8731, 6.9014],
     description: {
       de: "Dieses internationale Konferenzzentrum war das erste seiner Art in Südasien. Es wurde 1973 als Geschenk der Volksrepublik China erbaut.",
       hu: "Ez a nemzetközi konferenciaközpont az első volt a maga nemében Dél-Ázsiában. 1973-ban épült a Kínai Népköztársaság ajándékaként.",
@@ -622,7 +622,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-dutch-hospital-colombo-landmarks-v2",
     type: "landmark",
     name: { de: "Niederländisches Krankenhaus", hu: "Holland Kórház negyed", ro: "Vechiul Spital Olandez", en: "Dutch Hospital Colombo" },
-    coordinates: { lat: 6.9322, lng: 79.8444 },
+    coords: [79.8444, 6.9322],
     description: {
       de: "Das alte niederländische Krankenhaus ist eines der ältesten Gebäude im Fort-Viertel. Heute dient es als beliebtes Einkaufs- und Gastronomieviertel.",
       hu: "A régi holland kórház az egyik legrégebbi épület Colombo Fort negyedében. Ma népszerű bevásárló- és éttermi komplexumként működik.",
@@ -641,7 +641,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-jaffna-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek von Jaffna", hu: "Jaffna központi könyvtár", ro: "Biblioteca Publică din Jaffna", en: "Jaffna Public Library" },
-    coordinates: { lat: 9.6622, lng: 80.0114 },
+    coords: [80.0114, 9.6622],
     description: {
       de: "Diese Bibliothek ist ein Symbol der kulturellen Identität von Jaffna. Sie wurde nach ihrer Zerstörung im Bürgerkrieg im Jahr 2003 wiederaufgebaut.",
       hu: "Ez a könyvtár Jaffna kulturális identitásának jelképe. A polgárháborúban elszenvedett pusztítás után 2003-ban építették újjá.",
@@ -660,7 +660,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-all-saints-church-galle-landmarks-v2",
     type: "church",
     name: { de: "Allerheiligenkirche Galle", hu: "Mindenszentek temploma, Galle", ro: "Biserica Toți Sfinții din Galle", en: "All Saints' Church, Galle" },
-    coordinates: { lat: 6.0267, lng: 80.2178 },
+    coords: [80.2178, 6.0267],
     description: {
       de: "Diese anglikanische Kirche im Fort von Galle ist ein bedeutendes neugotisches Bauwerk. Sie wurde 1871 auf dem Gelände eines ehemaligen Gefängnisses geweiht.",
       hu: "Ez az anglikán templom a Galle erődben egy jelentős neogótikus építmény. 1871-ben szentelték fel egy korábbi börtön helyén.",
@@ -679,7 +679,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-barberyn-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Barberyn-Leuchtturm", hu: "Barberyn-világítótorony", ro: "Farul Barberyn", en: "Barberyn Lighthouse" },
-    coordinates: { lat: 6.4633, lng: 79.9639 },
+    coords: [79.9639, 6.4633],
     description: {
       de: "Dieser weiße Leuchtturm steht auf der Insel Barberyn in Beruwala. Er wurde 1889 erbaut und markiert einen wichtigen Punkt für die Schifffahrt.",
       hu: "Ez a fehér világítótorony a Beruwala melletti Barberyn-szigeten áll. 1889-ben épült, és fontos tájékozódási pont a hajózás számára.",
@@ -698,7 +698,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-point-pedro-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Point Pedro Leuchtturm", hu: "Point Pedro világítótorony", ro: "Farul Point Pedro", en: "Point Pedro Lighthouse" },
-    coordinates: { lat: 9.8314, lng: 80.2475 },
+    coords: [80.2475, 9.8314],
     description: {
       de: "Der Point Pedro Leuchtturm markiert den nördlichsten Punkt von Sri Lanka. Der heutige Betonturm wurde 1916 zur Orientierung der Seefahrer errichtet.",
       hu: "A Point Pedro világítótorony Srí Lanka legészakibb pontját jelzi. A mai betontorony 1916-ban épült a tengerészek tájékozódásának segítésére.",
@@ -717,7 +717,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-star-fort-matara-landmarks-v2",
     type: "monument",
     name: { de: "Sternfort Matara", hu: "Matarai Csillagerőd", ro: "Fortul Stea din Matara", en: "Star Fort Matara" },
-    coordinates: { lat: 5.9511, lng: 80.545 },
+    coords: [80.545, 5.9511],
     description: {
       de: "Dieses einzigartige sternförmige Fort wurde 1765 von den Niederländern erbaut. Es sollte den strategisch wichtigen Flussübergang in Matara schützen.",
       hu: "Ezt az egyedi csillag alakú erődöt a hollandok építették 1765-ben. Célja a Matarában található stratégiai folyóátkelő védelme volt.",
@@ -736,7 +736,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-kinniya-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Kinniya-Brücke", hu: "Kinniya-híd", ro: "Podul Kinniya", en: "Kinniya Bridge" },
-    coordinates: { lat: 8.5133, lng: 81.1897 },
+    coords: [81.1897, 8.5133],
     description: {
       de: "Die Kinniya-Brücke ist die längste Brücke in Sri Lanka. Sie überspannt die Lagune von Koddiyar und wurde 2009 für den Verkehr freigegeben.",
       hu: "A Kinniya-híd Srí Lanka leghosszabb hídja. A Koddiyar-lagúnán ível át, és 2009-ben nyitották meg a forgalom előtt.",
@@ -755,7 +755,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-manmunai-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Manmunai-Brücke", hu: "Manmunai-híd", ro: "Podul Manmunai", en: "Manmunai Bridge" },
-    coordinates: { lat: 7.6833, lng: 81.7167 },
+    coords: [81.7167, 7.6833],
     description: {
       de: "Diese Brücke verbindet die West- und Ostseite der Lagune von Batticaloa. Sie wurde 2014 fertiggestellt und ersetzte einen mühsamen Fährdienst.",
       hu: "Ez a híd köti össze a batticaloai lagúna nyugati és keleti oldalát. 2014-ben készült el, felváltva a korábbi lassú kompjáratot.",
@@ -774,7 +774,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-madu-church-landmarks-v2",
     type: "church",
     name: { de: "Schrein Unserer Lieben Frau von Madhu", hu: "Madhu-i Szűz Mária-kegyhely", ro: "Sanctuarul Maicii Domnului din Madhu", en: "Shrine of Our Lady of Madhu" },
-    coordinates: { lat: 8.855, lng: 80.0192 },
+    coords: [80.0192, 8.855],
     description: {
       de: "Dieser römisch-katholische Schrein in Mannar ist einer der heiligsten Orte des Landes. Er blickt auf eine über 400-jährige Geschichte zurück.",
       hu: "Ez a mannari római katolikus kegyhely az ország egyik legszentebb helye. Több mint 400 éves történelemmel rendelkezik.",
@@ -793,7 +793,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-vallipuram-alvar-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Vallipuram-Alvar-Tempel", hu: "Vallipuram Alvar templom", ro: "Templul Vallipuram Alvar", en: "Vallipuram Alvar Temple" },
-    coordinates: { lat: 9.7761, lng: 80.2356 },
+    coords: [80.2356, 9.7761],
     description: {
       de: "Dieser Hindu-Tempel ist Lord Vishnu gewidmet und befindet sich in der Nähe von Point Pedro. Er gilt als einer der ältesten Vishnu-Tempel in Jaffna.",
       hu: "Ez a Visnu istennek szentelt hindu templom Point Pedro közelében található. Jaffna egyik legrégebbi Visnu-templomának tartják.",
@@ -812,7 +812,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-keerimalai-springs-landmarks-v2",
     type: "landmark",
     name: { de: "Keerimalai-Quellen", hu: "Keerimalai szent források", ro: "Izvoarele din Keerimalai", en: "Keerimalai Springs" },
-    coordinates: { lat: 9.8164, lng: 80.0142 },
+    coords: [80.0142, 9.8164],
     description: {
       de: "Die heiligen Wasserquellen von Keerimalai befinden sich nördlich von Jaffna. Ihnen werden heilende Kräfte zugeschrieben und sie liegen direkt am Meer.",
       hu: "Keerimalai szent forrásai Jaffnától északra találhatók. Gyógyító erőt tulajdonítanak nekik, és közvetlenül a tengerparton fekszenek.",
@@ -831,7 +831,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-arcade-independence-square-landmarks-v2",
     type: "landmark",
     name: { de: "Arcade Independence Square", hu: "Arcade Függetlenségi tér", ro: "Arcade Independence Square", en: "Arcade Independence Square" },
-    coordinates: { lat: 6.9039, lng: 79.8672 },
+    coords: [79.8672, 6.9039],
     description: {
       de: "Dieser prächtige Baukomplex war früher eine psychiatrische Klinik. Nach einer umfassenden Renovierung beherbergt er heute ein elegantes Einkaufszentrum.",
       hu: "Ez a pompás épületegyüttes korábban elmegyógyintézetként működött. A teljes felújítás után ma egy elegáns bevásárlóközpont.",
@@ -850,7 +850,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-national-museum-kandy-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Kandy", hu: "Kandyi Nemzeti Múzeum", ro: "Muzeul Național din Kandy", en: "National Museum of Kandy" },
-    coordinates: { lat: 7.2939, lng: 80.6414 },
+    coords: [80.6414, 7.2939],
     description: {
       de: "Das Nationalmuseum von Kandy befindet sich im ehemaligen königlichen Palastkomplex. Es zeigt Artefakte aus der Zeit des Königreichs Kandy.",
       hu: "A Kandyi Nemzeti Múzeum az egykori királyi palotakomplexumban található. A Kandyi Királyság idejéből származó tárgyakat mutat be.",
@@ -869,7 +869,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-dutch-reformed-church-matara-landmarks-v2",
     type: "church",
     name: { de: "Niederländisch-reformierte Kirche Matara", hu: "Holland református templom, Matara", ro: "Biserica Reformată Olandeză din Matara", en: "Dutch Reformed Church, Matara" },
-    coordinates: { lat: 5.9469, lng: 80.5481 },
+    coords: [80.5481, 5.9469],
     description: {
       de: "Diese kleine Kirche im Fort von Matara ist ein wichtiges Beispiel niederländischer Architektur. Sie wurde 1706 erbaut und ist gut erhalten.",
       hu: "Ez a matarai erődben található kis templom a holland építészet egyik fontos példája. 1706-ban épült és kiváló állapotban maradt fenn.",
@@ -888,7 +888,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-talaimannar-pier-landmarks-v2",
     type: "landmark",
     name: { de: "Talaimannar Pier", hu: "Talaimannar móló", ro: "Mollul Talaimannar", en: "Talaimannar Pier" },
-    coordinates: { lat: 9.1064, lng: 79.7347 },
+    coords: [79.7347, 9.1064],
     description: {
       de: "Dieser Pier war einst Teil der Fährverbindung zwischen Indien und Sri Lanka. Er befindet sich am westlichen Ende der Insel Mannar.",
       hu: "Ez a móló egykor az India és Srí Lanka közötti kompjárat fontos része volt. Mannar-sziget legnyugatibb csücskén található.",
@@ -907,7 +907,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-altair-tower-landmarks-v2",
     type: "tower",
     name: { de: "Altair Turm", hu: "Altair-torony", ro: "Turnul Altair", en: "Altair Tower" },
-    coordinates: { lat: 6.9247, lng: 79.8517 },
+    coords: [79.8517, 6.9247],
     description: {
       de: "Altair ist ein auffälliges Wohngebäude in Colombo mit einem geneigten Turm. Es wurde vom Architekten Moshe Safdie entworfen.",
       hu: "Az Altair egy feltűnő lakóépület Colombóban, amely egy ferde toronyból áll. Moshe Safdie építész tervezte és 2021-ben fejezték be.",
@@ -926,7 +926,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     id: "srilanka-tsunami-museum-hikkaduwa-landmarks-v2",
     type: "museum",
     name: { de: "Tsunami-Museum Hikkaduwa", hu: "Hikkaduwai Tsunami Múzeum", ro: "Muzeul Tsunami din Hikkaduwa", en: "Community Tsunami Museum" },
-    coordinates: { lat: 6.1628, lng: 80.0983 },
+    coords: [80.0983, 6.1628],
     description: {
       de: "Dieses Museum in Hikkaduwa erinnert an die Opfer des Tsunami von 2004. Es zeigt berührende Fotos und Geschichten über die Katastrophe.",
       hu: "Ez a hikkaduwai múzeum a 2004-es szökőár áldozatainak állít emléket. Megható fotókat és történeteket mutat be a katasztrófáról.",

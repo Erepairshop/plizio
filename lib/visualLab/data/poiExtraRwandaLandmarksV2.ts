@@ -1449,7 +1449,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-campaign-genocide-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Kampagne gegen den Völkermord", hu: "Népirtás Elleni Kampány Múzeuma", ro: "Muzeul Campaniei Împotriva Genocidului", en: "Campaign Against Genocide Museum" },
-    coordinates: { lat: -1.9443, lng: 30.0964 },
+    coords: [30.0964, -1.9443],
     description: {
       de: "Dieses Museum befindet sich im Parlamentsgebäude von Kigali. Es dokumentiert die Bemühungen der RPF zur Beendigung des Völkermords von 1994.",
       hu: "Ez a múzeum Kigali parlamenti épületében található. Az RPF erőfeszítéseit dokumentálja az 1994-es népirtás megállítására.",
@@ -1468,7 +1468,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kabgayi-basilica-landmarks-v2",
     type: "cathedral",
     name: { de: "Basilika von Kabgayi", hu: "Kabgayi-bazilika", ro: "Bazilica din Kabgayi", en: "Kabgayi Basilica" },
-    coordinates: { lat: -2.0991, lng: 29.7544 },
+    coords: [29.7544, -2.0991],
     description: {
       de: "Die Basilika ist die älteste katholische Kathedrale Ruandas. Sie wurde in den 1920er Jahren in der Nähe von Muhanga erbaut.",
       hu: "A bazilika Ruanda legrégebbi katolikus székesegyháza. Az 1920-as években épült Muhanga közelében.",
@@ -1487,7 +1487,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kigali-public-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek von Kigali", hu: "Kigali Közkönyvtár", ro: "Biblioteca Publică din Kigali", en: "Kigali Public Library" },
-    coordinates: { lat: -1.9452, lng: 30.0631 },
+    coords: [30.0631, -1.9452],
     description: {
       de: "Dieses moderne Gebäude in Kacyiru ist die erste öffentliche Bibliothek des Landes. Sie dient als Zentrum für Bildung und digitale Ressourcen.",
       hu: "Ez a modern kacyirui épület az ország első közkönyvtára. Az oktatás és a digitális erőforrások központjaként szolgál.",
@@ -1506,7 +1506,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-university-rwanda-huye-landmarks-v2",
     type: "university",
     name: { de: "Universität Ruanda - Campus Huye", hu: "Ruandai Egyetem - Huye Campus", ro: "Universitatea din Rwanda - Campusul Huye", en: "University of Rwanda Huye Campus" },
-    coordinates: { lat: -2.5971, lng: 29.7402 },
+    coords: [29.7402, -2.5971],
     description: {
       de: "Der Huye-Campus ist der älteste und größte Campus der Universität Ruanda. Er wurde in den 1960er Jahren als Nationaluniversität gegründet.",
       hu: "A huye-i kampusz a Ruandai Egyetem legrégebbi és legnagyobb kampusza. Az 1960-as években alapították Nemzeti Egyetemként.",
@@ -1525,7 +1525,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kibungo-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Kibungo", hu: "Kibungói székesegyház", ro: "Catedrala din Kibungo", en: "Kibungo Cathedral" },
-    coordinates: { lat: -2.1642, lng: 30.5421 },
+    coords: [30.5421, -2.1642],
     description: {
       de: "Diese markante katholische Kathedrale ist der Sitz des Bistums Kibungo. Sie dominiert das Stadtbild der Bezirkshauptstadt im Osten Ruandas.",
       hu: "Ez a jellegzetes katolikus székesegyház a Kibungói Egyházmegye székhelye. Kelet-Ruanda egyik legfontosabb egyházi épülete.",
@@ -1544,7 +1544,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-byumba-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Byumba", hu: "Byumbai székesegyház", ro: "Catedrala din Byumba", en: "Byumba Cathedral" },
-    coordinates: { lat: -1.5835, lng: 30.0612 },
+    coords: [30.0612, -1.5835],
     description: {
       de: "Die Kathedrale von Byumba befindet sich im hügeligen Norden Ruandas. Sie dient als Hauptkirche der Diözese in der Provinz Gicumbi.",
       hu: "A byumbai székesegyház Ruanda dombos északi részén található. Gicumbi tartomány egyházmegyéjének főtemplomaként szolgál.",
@@ -1563,7 +1563,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-nyundo-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Nyundo", hu: "Nyundói székesegyház", ro: "Catedrala din Nyundo", en: "Nyundo Cathedral" },
-    coordinates: { lat: -1.6961, lng: 29.3175 },
+    coords: [29.3175, -1.6961],
     description: {
       de: "Die Kathedrale liegt in der Nähe von Rubavu im Westen Ruandas. Sie ist bekannt für ihre historische Bedeutung und ihre Kunstschule.",
       hu: "A székesegyház Rubavu közelében, Nyugat-Ruandában található. Történelmi jelentőségéről és művészeti iskolájáról ismert.",
@@ -1582,7 +1582,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kigali-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Kigali", hu: "Kigali Városháza", ro: "Primăria din Kigali", en: "Kigali City Hall" },
-    coordinates: { lat: -1.9441, lng: 30.0615 },
+    coords: [30.0615, -1.9441],
     description: {
       de: "Das Rathaus ist das administrative Zentrum der ruandischen Hauptstadt. Es befindet sich im Geschäftsviertel von Nyarugenge.",
       hu: "A városháza a ruandai főváros adminisztratív központja. Nyarugenge üzleti negyedében található.",
@@ -1601,7 +1601,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-nyarugenge-market-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Nyarugenge", hu: "Nyarugenge központi piac", ro: "Piața Centrală Nyarugenge", en: "Nyarugenge Central Market" },
-    coordinates: { lat: -1.9482, lng: 30.0574 },
+    coords: [30.0574, -1.9482],
     description: {
       de: "Dieser große Marktkomplex ist das wirtschaftliche Herz von Kigali. Hier werden Lebensmittel, Textilien und traditionelles Kunsthandwerk verkauft.",
       hu: "Ez a hatalmas piac-komplexum Kigali gazdasági szíve. Élelmiszereket, textíliákat és hagyományos kézműves termékeket árulnak itt.",
@@ -1620,7 +1620,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kimironko-market-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Kimironko", hu: "Kimironko piac", ro: "Piața Kimironko", en: "Kimironko Market" },
-    coordinates: { lat: -1.9495, lng: 30.1261 },
+    coords: [30.1261, -1.9495],
     description: {
       de: "Der Kimironko-Markt ist einer der lebhaftesten Orte in Kigali. Er ist berühmt für seine bunte Auswahl an Stoffen und frischen Lebensmitteln.",
       hu: "A Kimironko piac Kigali egyik legélénkebb helyszíne. Híres a színes szövetválasztékáról és a friss élelmiszereiről.",
@@ -1639,7 +1639,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-umuganda-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Umuganda-Stadion", hu: "Umuganda Stadion", ro: "Stadionul Umuganda", en: "Umuganda Stadium" },
-    coordinates: { lat: -1.7051, lng: 29.2622 },
+    coords: [29.2622, -1.7051],
     description: {
       de: "Das Umuganda-Stadion ist die größte Sportstätte in Rubavu. Es liegt direkt an der Grenze zur Demokratischen Republik Kongo.",
       hu: "Az Umuganda Stadion Rubavu legnagyobb sportlétesítménye. Közvetlenül a Kongói Demokratikus Köztársaság határán található.",
@@ -1658,7 +1658,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-huye-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Huye-Stadion", hu: "Huye Stadion", ro: "Stadionul Huye", en: "Huye Stadium" },
-    coordinates: { lat: -2.6012, lng: 29.7424 },
+    coords: [29.7424, -2.6012],
     description: {
       de: "Das Huye-Stadion ist ein bedeutendes Sportstadion im Süden Ruandas. Es wird für Fußballspiele und nationale Feierlichkeiten genutzt.",
       hu: "A Huye Stadion egy jelentős sportlétesítmény Dél-Ruandában. Labdarúgó-mérkőzésekre és nemzeti ünnepségekre használják.",
@@ -1677,7 +1677,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-zaza-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Zaza", hu: "Zazai templom", ro: "Biserica din Zaza", en: "Zaza Church" },
-    coordinates: { lat: -2.1462, lng: 30.4351 },
+    coords: [30.4351, -2.1462],
     description: {
       de: "Zaza ist eine der ältesten katholischen Missionen in Ruanda. Die Kirche wurde Anfang des 20. Jahrhunderts im Osten des Landes gegründet.",
       hu: "Zaza az egyik legrégebbi katolikus misszió Ruandában. A templomot a 20. század elején alapították az ország keleti részén.",
@@ -1696,7 +1696,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-al-fatah-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Fatah Moschee", hu: "Al-Fatah mecset", ro: "Moscheea Al-Fatah", en: "Al-Fatah Mosque" },
-    coordinates: { lat: -1.9642, lng: 30.0515 },
+    coords: [30.0515, -1.9642],
     description: {
       de: "Die Al-Fatah Moschee befindet sich im Stadtteil Nyamirambo in Kigali. Sie ist ein wichtiges religiöses Zentrum der muslimischen Gemeinschaft.",
       hu: "Az Al-Fatah mecset Kigali Nyamirambo negyedében található. A muszlim közösség egyik fontos vallási központja.",
@@ -1715,7 +1715,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-save-parish-church-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche von Save", hu: "Save-i plébániatemplom", ro: "Biserica parohială din Save", en: "Save Parish Church" },
-    coordinates: { lat: -2.5361, lng: 29.7712 },
+    coords: [29.7712, -2.5361],
     description: {
       de: "Diese Kirche markiert den Ort der allerersten katholischen Mission in Ruanda. Sie liegt im Bezirk Gisagara in der Südprovinz.",
       hu: "Ez a templom az legelső ruandai katolikus misszió helyszínét jelöli. Gisagara körzetben, a Déli Tartományban található.",
@@ -1734,7 +1734,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-kigali-business-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Kigali Business Centre (KBC)", hu: "Kigali Business Centre (KBC)", ro: "Kigali Business Centre (KBC)", en: "Kigali Business Centre (KBC)" },
-    coordinates: { lat: -1.9531, lng: 30.0922 },
+    coords: [30.0922, -1.9531],
     description: {
       de: "Das KBC ist ein markantes kreisförmiges Gebäude in Kimihurura. Es liegt direkt gegenüber dem Kigali Convention Centre.",
       hu: "A KBC egy jellegzetes kör alakú épület Kimihururában. Közvetlenül a Kigali Convention Centre-rel szemben található.",
@@ -1753,7 +1753,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-imbuga-city-walk-landmarks-v2",
     type: "landmark",
     name: { de: "Imbuga City Walk", hu: "Imbuga City Walk", ro: "Imbuga City Walk", en: "Imbuga City Walk" },
-    coordinates: { lat: -1.9442, lng: 30.0611 },
+    coords: [30.0611, -1.9442],
     description: {
       de: "Die Imbuga City Walk ist die erste autofreie Zone im Zentrum von Kigali. Sie wurde geschaffen, um den Bürgern mehr Erholungsraum zu bieten.",
       hu: "Az Imbuga City Walk az első autómentes övezet Kigali központjában. Úgy alakították ki, hogy több pihenőhelyet biztosítson a polgároknak.",
@@ -1772,7 +1772,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-centenary-park-landmarks-v2",
     type: "landmark",
     name: { de: "Centenary Park", hu: "Centenary Park", ro: "Centenary Park", en: "Centenary Park" },
-    coordinates: { lat: -1.9535, lng: 30.0881 },
+    coords: [30.0881, -1.9535],
     description: {
       de: "Dieser Stadtpark liegt im Viertel Kimihurura in Kigali. Er bietet eine grüne Oase inmitten der schnell wachsenden Metropole.",
       hu: "Ez a városi park Kigali Kimihurura negyedében található. Zöld oázist nyújt a gyorsan növekvő metropolisz közepén.",
@@ -1791,7 +1791,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-gisenyi-parish-church-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche von Gisenyi", hu: "Gisenyi plébániatemplom", ro: "Biserica parohială din Gisenyi", en: "Gisenyi Parish Church" },
-    coordinates: { lat: -1.7011, lng: 29.2592 },
+    coords: [29.2592, -1.7011],
     description: {
       de: "Die katholische Kirche von Gisenyi liegt am Ufer des Kivu-Sees. Sie ist ein markantes Bauwerk in der Grenzstadt zu Goma.",
       hu: "Gisenyi katolikus temploma a Kivu-tó partján fekszik. A Gomával határos város egyik jellegzetes épülete.",
@@ -1810,7 +1810,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rwanda-im-bank-building-landmarks-v2",
     type: "landmark",
     name: { de: "I&M Bank Gebäude", hu: "I&M Bank épület", ro: "Clădirea Băncii I&M", en: "I&M Bank Building" },
-    coordinates: { lat: -1.9444, lng: 30.0601 },
+    coords: [30.0601, -1.9444],
     description: {
       de: "Dieses architektonisch markante Gebäude im Zentrum von Kigali war früher als BCR bekannt. Es ist ein Symbol für den Finanzsektor des Landes.",
       hu: "Ez az építészetileg jellegzetes épület Kigali központjában korábban BCR-ként volt ismert. Az ország pénzügyi szektorának szimbóluma.",

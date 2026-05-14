@@ -708,7 +708,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-phu-chi-fa-nature-v2",
     type: "peak",
     name: { de: "Phu Chi Fa", hu: "Phu Chi Fa", ro: "Phu Chi Fa", en: "Phu Chi Fa" },
-    coordinates: { lat: 19.8514, lng: 100.4539 },
+    coords: [100.4539, 19.8514],
     description: {
       de: "Ein Gebirgskamm in der Provinz Chiang Rai an der Grenze zu Laos. Der Gipfel liegt 1628 Meter über dem Meeresspiegel.",
       hu: "Hegygerinc Chiang Rai tartományban, a laoszi határ mentén. A csúcs 1628 méteres tengerszint feletti magasságban található.",
@@ -727,7 +727,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-thi-lo-su-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Thi-Lo-Su-Wasserfall", hu: "Thi Lo Su-vízesés", ro: "Cascada Thi Lo Su", en: "Thi Lo Su Waterfall" },
-    coordinates: { lat: 15.9272, lng: 98.7525 },
+    coords: [98.7525, 15.9272],
     description: {
       de: "Mit einer Höhe von 250 Metern gilt er als der größte Wasserfall Thailands. Er liegt im Umphang-Wildschutzgebiet in der Provinz Tak.",
       hu: "250 méteres magasságával ez Thaiföld legnagyobb vízesése. Az Umphang vadvédelmi területen található Tak tartományban.",
@@ -746,7 +746,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-pha-taem-national-park-nature-v2",
     type: "park",
     name: { de: "Pha-Taem-Nationalpark", hu: "Pha Taem Nemzeti Park", ro: "Parcul Național Pha Taem", en: "Pha Taem National Park" },
-    coordinates: { lat: 15.3992, lng: 105.5039 },
+    coords: [105.5039, 15.3992],
     description: {
       de: "Ein Nationalpark am Mekong in der Provinz Ubon Ratchathani. Er ist bekannt für seine prähistorischen Felsmalereien und Sandsteinklippen.",
       hu: "Nemzeti park a Mekong mentén, Ubon Ratchathani tartományban. Híres őskori sziklarajzairól és homokkő szikláiról.",
@@ -765,7 +765,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-pa-hin-ngam-nature-v2",
     type: "park",
     name: { de: "Pa-Hin-Ngam-Nationalpark", hu: "Pa Hin Ngam Nemzeti Park", ro: "Parcul Național Pa Hin Ngam", en: "Pa Hin Ngam National Park" },
-    coordinates: { lat: 15.6322, lng: 101.3931 },
+    coords: [101.3931, 15.6322],
     description: {
       de: "Ein Nationalpark in der Provinz Chaiyaphum, bekannt für seine bizarren Felsformationen und saisonalen Blumenfelder.",
       hu: "Nemzeti park Chaiyaphum tartományban, amely különleges sziklaformációiról és szezonális virágmezőiről ismert.",
@@ -784,7 +784,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-nam-tok-phlio-nature-v2",
     type: "park",
     name: { de: "Nam-Tok-Phlio-Nationalpark", hu: "Nam Tok Phlio Nemzeti Park", ro: "Parcul Național Nam Tok Phlio", en: "Nam Tok Phlio National Park" },
-    coordinates: { lat: 12.5125, lng: 102.1625 },
+    coords: [102.1625, 12.5125],
     description: {
       de: "Ein bewaldeter Nationalpark in der Provinz Chanthaburi, dessen Hauptattraktion ein dreistufiger Wasserfall ist.",
       hu: "Erdős nemzeti park Chanthaburi tartományban, amelynek fő vonzereje egy háromlépcsős vízesés.",
@@ -803,7 +803,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-ob-khan-gorge-nature-v2",
     type: "valley",
     name: { de: "Ob-Khan-Schlucht", hu: "Ob Khan-szurdok", ro: "Cheile Ob Khan", en: "Ob Khan Gorge" },
-    coordinates: { lat: 18.5772, lng: 98.8147 },
+    coords: [98.8147, 18.5772],
     description: {
       de: "Eine markante Flussschlucht in der Provinz Chiang Mai, die vom Mae Khan Fluss durch den Kalkstein gegraben wurde.",
       hu: "Látványos folyóvölgy Chiang Mai tartományban, amelyet a Mae Khan folyó vájt ki a mészkőből.",
@@ -822,7 +822,7 @@ export const poiExtraThailandNatureV2: POI[] = [
     id: "thailand-khao-kho-nature-v2",
     type: "mountain",
     name: { de: "Khao Kho", hu: "Khao Kho", ro: "Khao Kho", en: "Khao Kho" },
-    coordinates: { lat: 16.6331, lng: 101.0 },
+    coords: [101.0, 16.6331],
     description: {
       de: "Ein Gebirgszug in der Provinz Phetchabun, der eine durchschnittliche Höhe von 1143 Metern erreicht.",
       hu: "Hegység Phetchabun tartományban, amelynek átlagos magassága 1143 méter.",

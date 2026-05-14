@@ -727,7 +727,7 @@ export const poiExtraBeninReliefV2: POI[] = [
     id: "benin-landes-de-kandi-relief-v2",
     type: "valley",
     name: { de: "Landes de Kandi", hu: "Landes de Kandi", ro: "Landes de Kandi", en: "Landes de Kandi" },
-    coordinates: { lat: 11.13, lng: 2.93 },
+    coords: [2.93, 11.13],
     description: {
       de: "Die Landes de Kandi bilden eine weitläufige Beckenlandschaft im Norden Benins. Die Region ist durch flache Ebenen und sanfte Erosionsrinnen charakterisiert.",
       hu: "A Landes de Kandi egy kiterjedt medencevidék Benin északi részén. A területet sík vidékek és eróziós árkok jellemzik.",
@@ -758,7 +758,7 @@ export const poiExtraBeninReliefV2: POI[] = [
     id: "benin-plateau-de-bembereke-relief-v2",
     type: "mountain",
     name: { de: "Plateau de Bembéréké", hu: "Plateau de Bembéréké", ro: "Plateau de Bembéréké", en: "Plateau de Bembéréké" },
-    coordinates: { lat: 10.23, lng: 2.66 },
+    coords: [2.66, 10.23],
     description: {
       de: "Das Plateau de Bembéréké erstreckt sich über den nördlichen Teil des Borgou-Departements. Es bildet eine erhöhte, leicht wellige Gesteinsformation im Landesinneren.",
       hu: "A Plateau de Bembéréké a Borgou megye északi részén terül el. Ez egy kiemelt, enyhén hullámos kőzetképződmény az ország belsejében.",
@@ -789,7 +789,7 @@ export const poiExtraBeninReliefV2: POI[] = [
     id: "benin-collines-de-houeyogbe-relief-v2",
     type: "mountain",
     name: { de: "Collines de Houéyogbé", hu: "Collines de Houéyogbé", ro: "Collines de Houéyogbé", en: "Collines de Houéyogbé" },
-    coordinates: { lat: 6.55, lng: 1.77 },
+    coords: [1.77, 6.55],
     description: {
       de: "Die Collines de Houéyogbé befinden sich im südwestlichen Benin. Diese kleine hügelige Struktur erhebt sich flach über das Küstentiefland.",
       hu: "A Collines de Houéyogbé Benin délnyugati részén található. Ez a kis dombos szerkezet alacsonyan emelkedik a parti alföld fölé.",

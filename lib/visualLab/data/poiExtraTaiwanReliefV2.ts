@@ -646,7 +646,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-central-mountain-range-relief-v2",
     type: "mountain",
     name: { de: "Zentralgebirge", hu: "Központi-hegység", ro: "Lanțul Muntos Central", en: "Central Mountain Range" },
-    coordinates: { lat: 23.8, lng: 121.1 },
+    coords: [121.1, 23.8],
     description: {
       de: "Das Zentralgebirge bildet das topografische Rückgrat Taiwans und erstreckt sich über die gesamte Länge der Insel.",
       hu: "A Központi-hegység Tajvan domborzati gerince, amely a sziget teljes hosszában észak-déli irányban nyúlik el.",
@@ -665,7 +665,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-chianan-plain-relief-v2",
     type: "landmark",
     name: { de: "Chianan-Ebene", hu: "Csianan-alföld", ro: "Câmpia Chianan", en: "Chianan Plain" },
-    coordinates: { lat: 23.3, lng: 120.3 },
+    coords: [120.3, 23.3],
     description: {
       de: "Die Chianan-Ebene ist die größte Schwemmlandebene Taiwans und das wichtigste landwirtschaftliche Gebiet im Westen.",
       hu: "A Csianan-alföld Tajvan legnagyobb hordalékos síksága és a legfontosabb mezőgazdasági terület nyugaton.",
@@ -684,7 +684,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-tatun-volcano-group-relief-v2",
     type: "mountain",
     name: { de: "Tatun-Vulkangruppe", hu: "Tatun-vulkáncsoport", ro: "Grupul vulcanic Tatun", en: "Tatun Volcano Group" },
-    coordinates: { lat: 25.17, lng: 121.52 },
+    coords: [121.52, 25.17],
     description: {
       de: "Diese vulkanische Gebirgsgruppe im Norden ist bekannt für ihre geothermische Aktivität und heißen Quellen.",
       hu: "Ez az északi vulkanikus hegységcsoport a geotermikus aktivitásáról és hőforrásairól ismert.",
@@ -703,7 +703,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-penghu-basalt-relief-v2",
     type: "landmark",
     name: { de: "Penghu-Basaltsäulen", hu: "Penghu-oszlopos bazalt", ro: "Bazaltul columnar din Penghu", en: "Penghu Columnar Basalt" },
-    coordinates: { lat: 23.6, lng: 119.5 },
+    coords: [119.5, 23.6],
     description: {
       de: "Das Relief der Penghu-Inseln ist durch spektakuläre vertikale Basaltsäulen geprägt, die aus erkalteter Lava entstanden.",
       hu: "A Penghu-szigetek domborzatát látványos függőleges bazaltoszlopok jellemzik, amelyek lehűlt lávából jöttek létre.",
@@ -722,7 +722,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-tianliao-moon-world-relief-v2",
     type: "valley",
     name: { de: "Tianliao Mondwelt", hu: "Tianliao Holdvilág", ro: "Tianliao Moon World", en: "Tianliao Moon World" },
-    coordinates: { lat: 22.88, lng: 120.39 },
+    coords: [120.39, 22.88],
     description: {
       de: "Tianliao Moon World ist ein Badland-Relief mit kargen, zerklüfteten Hügeln aus erodiertem Schlammstein.",
       hu: "A Tianliao Holdvilág egy erodált agyagkőből álló, kopár és tagolt dombokkal teli „rosszföld” típusú vidék.",
@@ -741,7 +741,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     id: "taiwan-coastal-range-relief-v2",
     type: "mountain",
     name: { de: "Küstengebirge", hu: "Parti-hegység", ro: "Lanțul Muntos de Coastă", en: "Coastal Mountain Range" },
-    coordinates: { lat: 23.4, lng: 121.4 },
+    coords: [121.4, 23.4],
     description: {
       de: "Das Küstengebirge erstreckt sich entlang der Pazifikküste und ist tektonisch von der Hauptinsel getrennt.",
       hu: "A Parti-hegység a Csendes-óceán partja mentén húzódik, és tektonikailag elkülönül a sziget többi részétől.",

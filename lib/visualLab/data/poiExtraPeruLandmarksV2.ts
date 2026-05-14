@@ -994,7 +994,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-monasterio-santa-rosa-landmarks-v2",
     type: "church",
     name: { de: "Kloster Santa Rosa de Lima", hu: "Santa Rosa de Lima kolostor", ro: "Mănăstirea Santa Rosa de Lima", en: "Monastery of Santa Rosa de Lima" },
-    coordinates: { lat: -12.0464, lng: -77.0285 },
+    coords: [-77.0285, -12.0464],
     description: {
       de: "Dieses religiöse Bauwerk befindet sich im Zentrum von Lima. Es ist der Geburtsort und dem Gedenken an die heilige Rosa von Lima gewidmet.",
       hu: "Ez a vallási épület Lima központjában található. A hely Lima Szent Róza szülőhelye és emlékhelye.",
@@ -1013,7 +1013,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-palacio-arzobispal-landmarks-v2",
     type: "palace",
     name: { de: "Erzbischöflicher Palast von Lima", hu: "Lima érseki palotája", ro: "Palatul Arhiepiscopal din Lima", en: "Archiepiscopal Palace of Lima" },
-    coordinates: { lat: -12.0461, lng: -77.0294 },
+    coords: [-77.0294, -12.0461],
     description: {
       de: "Der Palast befindet sich an der Plaza Mayor in Lima. Er ist die offizielle Residenz des Erzbischofs von Lima und Sitz der Erzdiözese.",
       hu: "A palota Lima főterén, a Plaza Mayoron található. Ez a lima-i érsek hivatalos rezidenciája és az érsekség székhelye.",
@@ -1032,7 +1032,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-casa-aliaga-landmarks-v2",
     type: "palace",
     name: { de: "Casa de Aliaga", hu: "Casa de Aliaga", ro: "Casa de Aliaga", en: "Casa de Aliaga" },
-    coordinates: { lat: -12.0455, lng: -77.0304 },
+    coords: [-77.0304, -12.0455],
     description: {
       de: "Dies ist eines der ältesten kolonialen Wohnhäuser in Lima. Das Gebäude ist seit seiner Errichtung im 16. Jahrhundert in Familienbesitz.",
       hu: "Ez Lima egyik legrégebbi fennmaradt gyarmati lakóháza. Az épület a 16. századi megépítése óta ugyanannak a családnak a tulajdonában van.",
@@ -1051,7 +1051,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-museo-arte-lima-landmarks-v2",
     type: "museum",
     name: { de: "Kunstmuseum von Lima", hu: "Lima Művészeti Múzeum", ro: "Muzeul de Artă din Lima", en: "Lima Art Museum" },
-    coordinates: { lat: -12.0645, lng: -77.0354 },
+    coords: [-77.0354, -12.0645],
     description: {
       de: "Das Museum befindet sich im Ausstellungspalast im Parque de la Exposición. Es präsentiert eine umfangreiche Sammlung peruanischer Kunst.",
       hu: "A múzeum a Parque de la Exposición kiállítási palotájában található. A perui művészet széles körű gyűjteményét mutatja be.",
@@ -1070,7 +1070,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-teatro-municipal-lima-landmarks-v2",
     type: "theater",
     name: { de: "Stadttheater von Lima", hu: "Lima Városi Színház", ro: "Teatrul Municipal din Lima", en: "Municipal Theater of Lima" },
-    coordinates: { lat: -12.0438, lng: -77.0345 },
+    coords: [-77.0345, -12.0438],
     description: {
       de: "Dieses Theater ist ein bedeutendes kulturelles Zentrum in Lima. Es wurde Anfang des 20. Jahrhunderts erbaut und im neoklassizistischen Stil gestaltet.",
       hu: "Ez a színház Lima egyik jelentős kulturális központja. A 20. század elején épült, neoklasszicista stílusban.",
@@ -1089,7 +1089,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-fortaleza-paramonga-landmarks-v2",
     type: "ruins",
     name: { de: "Festung Paramonga", hu: "Paramonga erőd", ro: "Fortăreața Paramonga", en: "Paramonga Fortress" },
-    coordinates: { lat: -10.6756, lng: -77.8113 },
+    coords: [-77.8113, -10.6756],
     description: {
       de: "Die Festung ist ein archäologischer Komplex aus der Chimú-Zeit. Sie liegt in der Nähe von Barranca an der peruanischen Küste.",
       hu: "Az erőd a Chimú-kultúra idejéből származó régészeti komplexum. A perui tengerparton, Barranca közelében található.",
@@ -1108,7 +1108,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-museo-nacional-arqueologia-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum für Archäologie, Anthropologie und Geschichte", hu: "Nemzeti Régészeti, Antropológiai és Történeti Múzeum", ro: "Muzeul Național de Arheologie, Antropologie și Istorie", en: "National Museum of Archaeology, Anthropology and History" },
-    coordinates: { lat: -12.0735, lng: -77.0652 },
+    coords: [-77.0652, -12.0735],
     description: {
       de: "Das Museum liegt im Stadtteil Pueblo Libre in Lima. Es beherbergt eine umfangreiche Sammlung von Artefakten aus der präkolumbianischen Zeit.",
       hu: "A múzeum Lima Pueblo Libre kerületében található. A prekolumbiánus korból származó tárgyak kiterjedt gyűjteményét őrzi.",
@@ -1127,7 +1127,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-casa-osambela-landmarks-v2",
     type: "palace",
     name: { de: "Casa de Osambela", hu: "Casa de Osambela", ro: "Casa de Osambela", en: "Casa de Osambela" },
-    coordinates: { lat: -12.0435, lng: -77.0305 },
+    coords: [-77.0305, -12.0435],
     description: {
       de: "Dieses historische Gebäude in Lima stammt aus der Zeit des Vizekönigreichs. Es ist bekannt für seine Fassade und seine hölzernen Balkone.",
       hu: "Ez a lima-i történelmi épület az alkirályság idejéből származik. Híres homlokzatáról és fa erkélyeiről.",
@@ -1146,7 +1146,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-museo-oro-landmarks-v2",
     type: "museum",
     name: { de: "Goldmuseum von Peru", hu: "Peru Arany Múzeuma", ro: "Muzeul Aurului din Peru", en: "Gold Museum of Peru" },
-    coordinates: { lat: -12.0915, lng: -76.9622 },
+    coords: [-76.9622, -12.0915],
     description: {
       de: "Das Museum liegt in Santiago de Surco. Es beherbergt eine bedeutende Sammlung von Goldobjekten aus alten peruanischen Kulturen.",
       hu: "A múzeum Santiago de Surcóban található. Jelentős aranytárgy-gyűjteményt őriz az ősi perui kultúrákból.",
@@ -1165,7 +1165,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-iglesia-san-pedro-landmarks-v2",
     type: "church",
     name: { de: "Kirche San Pedro", hu: "San Pedro templom", ro: "Biserica San Pedro", en: "Church of San Pedro" },
-    coordinates: { lat: -12.0475, lng: -77.0275 },
+    coords: [-77.0275, -12.0475],
     description: {
       de: "Diese jesuitische Kirche in Lima wurde im 17. Jahrhundert erbaut. Sie ist berühmt für ihre prachtvolle barocke Innenausstattung.",
       hu: "Ez a lima-i jezsuita templom a 17. században épült. Híres gazdag barokk belső díszítéséről.",
@@ -1184,7 +1184,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-museo-italiano-landmarks-v2",
     type: "museum",
     name: { de: "Italienisches Kunstmuseum", hu: "Olasz Művészeti Múzeum", ro: "Muzeul de Artă Italiană", en: "Italian Art Museum" },
-    coordinates: { lat: -12.0635, lng: -77.0335 },
+    coords: [-77.0335, -12.0635],
     description: {
       de: "Das Museum in Lima wurde von der italienischen Gemeinschaft gestiftet. Es zeigt eine Sammlung klassischer europäischer Kunst.",
       hu: "A lima-i múzeumot az olasz közösség alapította. Klasszikus európai művészeti gyűjteményt mutat be.",
@@ -1203,7 +1203,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-torre-tagle-palace-landmarks-v2",
     type: "palace",
     name: { de: "Palacio de Torre Tagle", hu: "Torre Tagle-palota", ro: "Palatul Torre Tagle", en: "Torre Tagle Palace" },
-    coordinates: { lat: -12.0468, lng: -77.0322 },
+    coords: [-77.0322, -12.0468],
     description: {
       de: "Dieses Palastgebäude in Lima beherbergt heute das peruanische Außenministerium. Es ist ein herausragendes Beispiel für die Kolonialarchitektur.",
       hu: "Ez a lima-i palotaépület ma a perui külügyminisztériumnak ad otthont. A gyarmati építészet kiemelkedő példája.",
@@ -1222,7 +1222,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-iglesia-merced-landmarks-v2",
     type: "church",
     name: { de: "Basílica de la Merced", hu: "Basílica de la Merced", ro: "Basílica de la Merced", en: "Basílica de la Merced" },
-    coordinates: { lat: -12.047, lng: -77.0312 },
+    coords: [-77.0312, -12.047],
     description: {
       de: "Diese Kirche befindet sich im Zentrum von Lima. Sie ist für ihre aufwendige Fassade und ihre koloniale Geschichte bekannt.",
       hu: "Ez a templom Lima központjában található. Híres bonyolult homlokzatáról és gyarmati történelméről.",
@@ -1241,7 +1241,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-casa-garcilaso-landmarks-v2",
     type: "museum",
     name: { de: "Haus von Garcilaso de la Vega", hu: "Garcilaso de la Vega háza", ro: "Casa lui Garcilaso de la Vega", en: "House of Garcilaso de la Vega" },
-    coordinates: { lat: -13.5165, lng: -71.9772 },
+    coords: [-71.9772, -13.5165],
     description: {
       de: "Das Gebäude befindet sich in Cusco. Es ist dem berühmten peruanischen Chronisten Garcilaso de la Vega gewidmet.",
       hu: "Az épület Cuscóban található. A híres perui krónikásnak, Garcilaso de la Vegának szentelték.",
@@ -1260,7 +1260,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-casa-piedra-landmarks-v2",
     type: "landmark",
     name: { de: "Casa de Piedra", hu: "Casa de Piedra", ro: "Casa de Piedra", en: "Casa de Piedra" },
-    coordinates: { lat: -13.1635, lng: -72.545 },
+    coords: [-72.545, -13.1635],
     description: {
       de: "Dieses historische Bauwerk befindet sich in der Nähe des Inka-Pfades. Es dient heute als wichtige archäologische Station.",
       hu: "Ez a történelmi építmény az Inka ösvény közelében található. Ma fontos régészeti állomásként szolgál.",
@@ -1279,7 +1279,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     id: "peru-museo-ceramica-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Keramik", hu: "Kerámia Múzeum", ro: "Muzeul de Ceramică", en: "Museum of Ceramics" },
-    coordinates: { lat: -12.0485, lng: -77.036 },
+    coords: [-77.036, -12.0485],
     description: {
       de: "Das Museum in Lima konzentriert sich auf die prähistorische Keramik peruanischer Kulturen. Es bietet Einblicke in antike Handwerkstechniken.",
       hu: "A lima-i múzeum a perui kultúrák történelem előtti kerámiáira összpontosít. Betekintést nyújt az ókori kézműves technikákba.",

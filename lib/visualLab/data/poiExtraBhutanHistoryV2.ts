@@ -666,7 +666,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-zhongar-dzong-history-v2",
     type: "ruins",
     name: { de: "Zhongar Dzong Ruinen", hu: "Zhongar Dzong romjai", ro: "Ruinele Zhongar Dzong", en: "Zhongar Dzong Ruins" },
-    coordinates: { lat: 27.243, lng: 91.226 },
+    coords: [91.226, 27.243],
     description: {
       de: "Diese Ruinen einer Festung aus dem 17. Jahrhundert liegen auf einem Hügel in Mongar und waren einst ein wichtiges Verwaltungszentrum.",
       hu: "A 17. századi erőd romjai Mongar egyik dombján találhatók, egykor a régió fontos közigazgatási központjaként szolgáltak.",
@@ -697,7 +697,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-dobji-dzong-history-v2",
     type: "castle",
     name: { de: "Dobji Dzong", hu: "Dobji Dzong", ro: "Dobji Dzong", en: "Dobji Dzong" },
-    coordinates: { lat: 27.352, lng: 89.381 },
+    coords: [89.381, 27.352],
     description: {
       de: "Die im Jahr 1531 von Ngawang Chogyal errichtete Festung gilt als eine der ältesten erhaltenen Dzongs des Landes.",
       hu: "A Ngawang Chogyal által 1531-ben épített erőd az ország egyik legrégebbi fennmaradt dzongja.",
@@ -728,7 +728,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-tachog-lhakhang-history-v2",
     type: "landmark",
     name: { de: "Tachog Lhakhang", hu: "Tachog Lhakhang", ro: "Tachog Lhakhang", en: "Tachog Lhakhang" },
-    coordinates: { lat: 27.322, lng: 89.501 },
+    coords: [89.501, 27.322],
     description: {
       de: "Dieser Tempel aus dem 15. Jahrhundert ist berühmt für seine Nähe zu einer historischen Eisenkettenbrücke über den Pa Chhu.",
       hu: "Ez a 15. századi templom a Pa Chhu folyón átívelő történelmi lánchídjáról híres.",
@@ -759,7 +759,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-lhakhang-karpo-history-v2",
     type: "monument",
     name: { de: "Lhakhang Karpo", hu: "Lhakhang Karpo", ro: "Lhakhang Karpo", en: "Lhakhang Karpo" },
-    coordinates: { lat: 27.375, lng: 89.281 },
+    coords: [89.281, 27.375],
     description: {
       de: "Der Weiße Tempel im Haa-Tal stammt aus dem 7. Jahrhundert und wurde laut Legende vom tibetischen König Songtsen Gampo errichtet.",
       hu: "A Haa-völgyben található Fehér Templom a 7. századból származik, a legenda szerint Songtsen Gampo tibeti király építtette.",
@@ -790,7 +790,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-lhakhang-nagpo-history-v2",
     type: "monument",
     name: { de: "Lhakhang Nagpo", hu: "Lhakhang Nagpo", ro: "Lhakhang Nagpo", en: "Lhakhang Nagpo" },
-    coordinates: { lat: 27.373, lng: 89.278 },
+    coords: [89.278, 27.373],
     description: {
       de: "Der Schwarze Tempel steht in der Nähe des Lhakhang Karpo und ist ein wesentlicher Teil der religiösen Geschichte des Haa-Tals.",
       hu: "A Fekete Templom a Lhakhang Karpo közelében áll, és a Haa-völgy vallástörténetének szerves részét képezi.",
@@ -821,7 +821,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-dungtse-lhakhang-history-v2",
     type: "monument",
     name: { de: "Dungtse Lhakhang", hu: "Dungtse Lhakhang", ro: "Dungtse Lhakhang", en: "Dungtse Lhakhang" },
-    coordinates: { lat: 27.435, lng: 89.412 },
+    coords: [89.412, 27.435],
     description: {
       de: "Dieser chortenförmige Tempel in Paro wurde 1421 erbaut, um die Menschen vor einem lokalen Dämon zu schützen.",
       hu: "Ez a csörten alakú templom Paróban 1421-ben épült, hogy megvédje az embereket egy helyi démontól.",
@@ -852,7 +852,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-singye-dzong-history-v2",
     type: "landmark",
     name: { de: "Singye Dzong", hu: "Singye Dzong", ro: "Singye Dzong", en: "Singye Dzong" },
-    coordinates: { lat: 27.952, lng: 91.251 },
+    coords: [91.251, 27.952],
     description: {
       de: "Diese abgelegene Festung in Lhuentse ist ein bedeutender Pilgerort, der eng mit dem Wirken von Guru Rinpoche verbunden ist.",
       hu: "Ez a távoli erőd Lhuentse-ben fontos zarándokhely, amely szorosan kapcsolódik Guru Rinpoche tevékenységéhez.",
@@ -883,7 +883,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-somthrang-lhakhang-history-v2",
     type: "monument",
     name: { de: "Somthrang Lhakhang", hu: "Somthrang Lhakhang", ro: "Somthrang Lhakhang", en: "Somthrang Lhakhang" },
-    coordinates: { lat: 27.502, lng: 90.751 },
+    coords: [90.751, 27.502],
     description: {
       de: "Der Tempel im Bumthang-Tal wurde im 13. Jahrhundert gegründet und beherbergt antike religiöse Reliquien.",
       hu: "A Bumthang-völgyben található templomot a 13. században alapították, és ősi vallási ereklyéket őriz.",
@@ -914,7 +914,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-petsheling-monastery-history-v2",
     type: "landmark",
     name: { de: "Petsheling Kloster", hu: "Petsheling kolostor", ro: "Mănăstirea Petsheling", en: "Petsheling Monastery" },
-    coordinates: { lat: 27.551, lng: 90.752 },
+    coords: [90.752, 27.551],
     description: {
       de: "Dieses Kloster bietet einen weiten Blick über das Bumthang-Tal und ist bekannt für seine strenge klösterliche Disziplin.",
       hu: "Ez a kolostor széles kilátást nyújt a Bumthang-völgyre, és szigorú szerzetesi fegyelméről ismert.",
@@ -945,7 +945,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-kunzandrak-goemba-history-v2",
     type: "monument",
     name: { de: "Kunzandrak Goemba", hu: "Kunzandrak Goemba", ro: "Kunzandrak Goemba", en: "Kunzandrak Goemba" },
-    coordinates: { lat: 27.572, lng: 90.852 },
+    coords: [90.852, 27.572],
     description: {
       de: "Dieses Kloster wurde 1488 von Pema Lingpa gegründet und liegt spektakulär an einer Felswand im Tang-Tal.",
       hu: "Ezt a kolostort 1488-ban alapította Pema Lingpa, és látványos módon egy sziklafalon fekszik a Tang-völgyben.",
@@ -976,7 +976,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-thangbi-goemba-history-v2",
     type: "monument",
     name: { de: "Thangbi Goemba", hu: "Thangbi Goemba", ro: "Thangbi Goemba", en: "Thangbi Goemba" },
-    coordinates: { lat: 27.601, lng: 90.732 },
+    coords: [90.732, 27.601],
     description: {
       de: "Dieses 1470 vom vierten Shamarpa errichtete Kloster im Chokhor-Tal ist für sein jährliches Mani-Rimdu-Fest bekannt.",
       hu: "A negyedik Shamarpa által 1470-ben épített kolostor a Chokhor-völgyben híres az éves Mani Rimdu fesztiváljáról.",
@@ -1007,7 +1007,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-ngang-lhakhang-history-v2",
     type: "monument",
     name: { de: "Ngang Lhakhang", hu: "Ngang Lhakhang", ro: "Ngang Lhakhang", en: "Ngang Lhakhang" },
-    coordinates: { lat: 27.621, lng: 90.721 },
+    coords: [90.721, 27.621],
     description: {
       de: "Der Schwanentempel wurde im 15. Jahrhundert vom tibetischen Lama Namkha Samdrup an einem Ort errichtet, der für seine Fruchtbarkeit bekannt war.",
       hu: "A Hattyú-templomot a 15. században építette Namkha Samdrup tibeti láma egy termékenységéről ismert helyen.",
@@ -1038,7 +1038,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-shingkhar-lhakhang-history-v2",
     type: "monument",
     name: { de: "Shingkhar Lhakhang", hu: "Shingkhar Lhakhang", ro: "Shingkhar Lhakhang", en: "Shingkhar Lhakhang" },
-    coordinates: { lat: 27.552, lng: 90.881 },
+    coords: [90.881, 27.552],
     description: {
       de: "Dieser Tempel im entlegenen Ura-Tal wurde im 14. Jahrhundert von Kuenkhen Longchen Rabjam gegründet.",
       hu: "Ez az elszigetelt Ura-völgyben található templom a 14. században épült Kuenkhen Longchen Rabjam által.",
@@ -1069,7 +1069,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-ura-lhakhang-history-v2",
     type: "monument",
     name: { de: "Ura Lhakhang", hu: "Ura Lhakhang", ro: "Ura Lhakhang", en: "Ura Lhakhang" },
-    coordinates: { lat: 27.471, lng: 90.912 },
+    coords: [90.912, 27.471],
     description: {
       de: "Der Tempel im Herzen des Dorfes Ura ist dem Guru Rinpoche gewidmet und bildet das soziale Zentrum der Gemeinde.",
       hu: "Az Ura falu szívében található templom Guru Rinpoche-nek van szentelve, és a közösség társadalmi központját alkotja.",
@@ -1100,7 +1100,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-buli-lhakhang-history-v2",
     type: "monument",
     name: { de: "Buli Lhakhang", hu: "Buli Lhakhang", ro: "Buli Lhakhang", en: "Buli Lhakhang" },
-    coordinates: { lat: 27.152, lng: 90.651 },
+    coords: [90.651, 27.152],
     description: {
       de: "Dieser Tempel in Zhemgang wurde im 15. Jahrhundert gegründet und ist für seine Verbindung zum lokalen Schutzgott bekannt.",
       hu: "Ezt a zhemgangi templomot a 15. században alapították, és a helyi védőistenhez fűződő kapcsolatáról ismert.",
@@ -1131,7 +1131,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-tharpa-choling-history-v2",
     type: "monument",
     name: { de: "Tharpa Choling Kloster", hu: "Tharpa Choling kolostor", ro: "Mănăstirea Tharpa Choling", en: "Tharpa Choling Monastery" },
-    coordinates: { lat: 27.553, lng: 90.722 },
+    coords: [90.722, 27.553],
     description: {
       de: "Das im 14. Jahrhundert gegründete Kloster ist eines der ältesten spirituellen Zentren im Bumthang-Tal.",
       hu: "A 14. században alapított kolostor a Bumthang-völgy egyik legrégebbi szellemi központja.",
@@ -1162,7 +1162,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-merak-settlement-history-v2",
     type: "village",
     name: { de: "Historische Siedlung Merak", hu: "Merak történelmi település", ro: "Așezarea istorică Merak", en: "Merak Historical Settlement" },
-    coordinates: { lat: 27.302, lng: 91.851 },
+    coords: [91.851, 27.302],
     description: {
       de: "Diese isolierte Siedlung ist die Heimat der Brokpas, eines halbnomadischen Volkes mit einer jahrhundertealten Geschichte.",
       hu: "Ez az elszigetelt település a brokpa nép otthona, egy félnomád népcsoporté, évszázados történelemmel.",
@@ -1193,7 +1193,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-sakteng-heritage-history-v2",
     type: "village",
     name: { de: "Sakteng Kulturerbe", hu: "Sakteng kulturális örökség", ro: "Patrimoniul Sakteng", en: "Sakteng Heritage Site" },
-    coordinates: { lat: 27.382, lng: 91.881 },
+    coords: [91.881, 27.382],
     description: {
       de: "Sakteng ist ein historisches Dorf im Osten Bhutans, das für die Erhaltung der Brokpa-Kultur und Legenden über den Yeti bekannt ist.",
       hu: "Sakteng egy történelmi falu Kelet-Bhutánban, amely a brokpa kultúra és a jeti-legendák megőrzéséről híres.",
@@ -1224,7 +1224,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-deothang-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Deothang", hu: "Deothangi csatatér", ro: "Câmpul de luptă de la Deothang", en: "Deothang Battlefield" },
-    coordinates: { lat: 26.852, lng: 91.451 },
+    coords: [91.451, 26.852],
     description: {
       de: "Ort der bedeutenden Schlacht von 1865 während des Duar-Krieges, in der bhutanische Kräfte gegen britische Truppen kämpften.",
       hu: "Az 1865-ös fontos csata helyszíne a Duar-háború idején, ahol a bhutáni erők a brit csapatok ellen harcoltak.",
@@ -1255,7 +1255,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-sangbay-dzong-history-v2",
     type: "castle",
     name: { de: "Sangbay Dzong", hu: "Sangbay Dzong", ro: "Sangbay Dzong", en: "Sangbay Dzong" },
-    coordinates: { lat: 27.151, lng: 89.152 },
+    coords: [89.152, 27.151],
     description: {
       de: "Diese Festung im Haa-Tal diente historisch als wichtiger Verteidigungsposten gegen Einfälle aus dem Westen.",
       hu: "Ez a Haa-völgyi erőd történelmileg fontos védelmi pontként szolgált a nyugati betörések ellen.",
@@ -1286,7 +1286,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-genekha-heritage-history-v2",
     type: "village",
     name: { de: "Genekha Kulturerbe", hu: "Genekha kulturális örökség", ro: "Patrimoniul Genekha", en: "Genekha Heritage Village" },
-    coordinates: { lat: 27.351, lng: 89.602 },
+    coords: [89.602, 27.351],
     description: {
       de: "Dieses alte Dorf ist für seine traditionellen Steinhäuser und seine Rolle in der frühen Agrargeschichte der Thimphu-Region bekannt.",
       hu: "Ez az ősi falu hagyományos kőházairól és a Thimphu-régió korai mezőgazdasági történetében betöltött szerepéről ismert.",
@@ -1317,7 +1317,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-jashibi-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Jashibi", hu: "Jashibi romjai", ro: "Ruinele Jashibi", en: "Jashibi Ruins" },
-    coordinates: { lat: 27.121, lng: 91.152 },
+    coords: [91.152, 27.121],
     description: {
       de: "Überreste einer historischen Siedlung in der Region Lhuentse, die Einblicke in mittelalterliche bhutanische Bauweisen bieten.",
       hu: "Egy történelmi település maradványai Lhuentse régióban, amelyek betekintést nyújtanak a középkori bhutáni építési módokba.",
@@ -1348,7 +1348,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-bjoka-history-v2",
     type: "village",
     name: { de: "Bjoka Handwerkszentrum", hu: "Bjoka kézműves központ", ro: "Centrul de meșteșuguri Bjoka", en: "Bjoka Craft Heritage" },
-    coordinates: { lat: 26.902, lng: 91.051 },
+    coords: [91.051, 26.902],
     description: {
       de: "Bjoka ist historisch bekannt für seine Bambus- und Rohrwebtradition, die seit Generationen in Zhemgang gepflegt wird.",
       hu: "Bjoka történelmileg híres a bambusz- és nádvágási hagyományairól, amelyeket generációk óta ápolnak Zhemgangban.",
@@ -1379,7 +1379,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-nabji-lhakhang-history-v2",
     type: "monument",
     name: { de: "Nabji Lhakhang", hu: "Nabji Lhakhang", ro: "Nabji Lhakhang", en: "Nabji Lhakhang" },
-    coordinates: { lat: 27.252, lng: 90.451 },
+    coords: [90.451, 27.252],
     description: {
       de: "Ein historisch bedeutender Tempel, an dem Guru Rinpoche im 8. Jahrhundert einen Friedensvertrag zwischen zwei Königen vermittelte.",
       hu: "Egy történelmileg fontos templom, ahol Guru Rinpoche a 8. században békét kötött két király között.",
@@ -1410,7 +1410,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-korphu-heritage-history-v2",
     type: "village",
     name: { de: "Korphu Kulturerbe", hu: "Korphu kulturális örökség", ro: "Satul istoric Korphu", en: "Korphu Heritage Village" },
-    coordinates: { lat: 27.262, lng: 90.431 },
+    coords: [90.431, 27.262],
     description: {
       de: "Ein altes Dorf in der Nähe von Nabji, das für seine gut erhaltenen Traditionen und die frühe Geschichte des Buddhismus in Zentralbhutan steht.",
       hu: "Egy ősi falu Nabji közelében, amely jól megőrzött hagyományairól és a közép-bhutáni buddhizmus korai történetéről ismert.",
@@ -1441,7 +1441,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-langthel-ruins-history-v2",
     type: "ruins",
     name: { de: "Langthel Ruinen", hu: "Langthel romjai", ro: "Ruinele Langthel", en: "Langthel Ruins" },
-    coordinates: { lat: 27.251, lng: 90.552 },
+    coords: [90.552, 27.251],
     description: {
       de: "Diese Ruinen in Trongsa waren einst Teil einer wichtigen Zwischenstation auf den historischen Handelswegen zwischen Nord und Süd.",
       hu: "Ezek a trongsai romok egykor fontos állomást képeztek az észak-déli történelmi kereskedelmi utakon.",
@@ -1472,7 +1472,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-eusa-ruins-history-v2",
     type: "ruins",
     name: { de: "Eusa Ruinen", hu: "Eusa romjai", ro: "Ruinele Eusa", en: "Eusa Ruins" },
-    coordinates: { lat: 27.452, lng: 90.601 },
+    coords: [90.601, 27.452],
     description: {
       de: "Überreste mittelalterlicher Befestigungen in der Bumthang-Region, die Zeugnis von lokalen feudalen Konflikten ablegen.",
       hu: "Középkori erődítmények maradványai Bumthang régióban, amelyek a helyi feudális konfliktusok tanúi.",
@@ -1503,7 +1503,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-gom-kora-history-v2",
     type: "monument",
     name: { de: "Gom Kora Tempel", hu: "Gom Kora templom", ro: "Templul Gom Kora", en: "Gom Kora Temple" },
-    coordinates: { lat: 27.451, lng: 91.482 },
+    coords: [91.482, 27.451],
     description: {
       de: "Dieser Tempel aus dem 8. Jahrhundert in Trashiyangtse ist berühmt für eine Höhle, in der Guru Rinpoche meditiert haben soll.",
       hu: "Ez a 8. századi trashiyangtsei templom egy barlangról híres, ahol a legenda szerint Guru Rinpoche meditált.",
@@ -1534,7 +1534,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-yonphula-base-history-v2",
     type: "monument",
     name: { de: "Yonphula Historische Basis", hu: "Yonphula történelmi bázis", ro: "Baza istorică Yonphula", en: "Yonphula Historical Base" },
-    coordinates: { lat: 27.252, lng: 91.501 },
+    coords: [91.501, 27.252],
     description: {
       de: "Ursprünglich während des Kalten Krieges als Flugplatz gebaut, spielt dieser Ort eine wichtige Rolle in der modernen Militärgeschichte Bhutans.",
       hu: "Eredetileg a hidegháború idején épült repülőtérként, ez a hely fontos szerepet játszik Bhután modern hadtörténetében.",
@@ -1565,7 +1565,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-samdrup-choling-palace-history-v2",
     type: "palace",
     name: { de: "Samdrup Choling Palast", hu: "Samdrup Choling palota", ro: "Palatul Samdrup Choling", en: "Samdrup Choling Palace" },
-    coordinates: { lat: 26.882, lng: 91.651 },
+    coords: [91.651, 26.882],
     description: {
       de: "Dieser Palast diente einst als königliche Residenz und ist ein feines Beispiel für die bhutanische Palastarchitektur des 20. Jahrhunderts.",
       hu: "Ez a palota egykor királyi rezidenciaként szolgált, és a 20. századi bhutáni palotaépítészet szép példája.",
@@ -1596,7 +1596,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-dechenchoeling-palace-history-v2",
     type: "palace",
     name: { de: "Dechenchoeling Palast", hu: "Dechenchoeling palota", ro: "Palatul Dechenchoeling", en: "Dechenchoeling Palace" },
-    coordinates: { lat: 27.522, lng: 89.631 },
+    coords: [89.631, 27.522],
     description: {
       de: "Der 1953 fertiggestellte Palast war die Residenz des dritten Königs von Bhutan und liegt im Norden von Thimphu.",
       hu: "Az 1953-ban elkészült palota Bhután harmadik királyának rezidenciája volt, Thimphutól északra található.",
@@ -1627,7 +1627,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-samtenling-palace-history-v2",
     type: "palace",
     name: { de: "Samtenling Palast", hu: "Samtenling palota", ro: "Palatul Samtenling", en: "Samtenling Palace" },
-    coordinates: { lat: 27.501, lng: 89.642 },
+    coords: [89.642, 27.501],
     description: {
       de: "Ein weiterer königlicher Palast in Thimphu, der für seine elegante Einfachheit und seine gepflegten Grünanlagen bekannt ist.",
       hu: "Egy másik királyi palota Thimphuban, amely elegáns egyszerűségéről és gondozott zöldfelületeiről ismert.",
@@ -1658,7 +1658,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-chhukha-dzong-history-v2",
     type: "castle",
     name: { de: "Chhukha Dzong", hu: "Chhukha Dzong", ro: "Chhukha Dzong", en: "Chhukha Dzong" },
-    coordinates: { lat: 27.052, lng: 89.581 },
+    coords: [89.581, 27.052],
     description: {
       de: "Die im 17. Jahrhundert gegründete Festung diente historisch der Kontrolle der Handelswege nach Indien.",
       hu: "A 17. században alapított erőd történelmileg az India felé vezető kereskedelmi utak ellenőrzésére szolgált.",
@@ -1689,7 +1689,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-dagana-dzong-history-v2",
     type: "castle",
     name: { de: "Dagana Dzong", hu: "Dagana Dzong", ro: "Dagana Dzong", en: "Dagana Dzong" },
-    coordinates: { lat: 27.072, lng: 89.881 },
+    coords: [89.881, 27.072],
     description: {
       de: "Dieser Dzong wurde 1651 errichtet und markiert die erfolgreiche Befriedung der Region durch die vereinte bhutanische Regierung.",
       hu: "Ez a dzong 1651-ben épült, és a régió sikeres pacifikálását jelzi az egyesült bhutáni kormány által.",
@@ -1720,7 +1720,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-tshaluna-monastery-history-v2",
     type: "monument",
     name: { de: "Tshaluna Kloster", hu: "Tshaluna kolostor", ro: "Mănăstirea Tshaluna", en: "Tshaluna Monastery" },
-    coordinates: { lat: 27.452, lng: 89.551 },
+    coords: [89.551, 27.452],
     description: {
       de: "Das im 13. Jahrhundert gegründete Kloster liegt in einem idyllischen Tal westlich von Thimphu und hat eine reiche spirituelle Geschichte.",
       hu: "A 13. században alapított kolostor egy idilli völgyben fekszik Thimphutól nyugatra, gazdag szellemi múlttal rendelkezik.",
@@ -1751,7 +1751,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-hongtsho-monastery-history-v2",
     type: "monument",
     name: { de: "Hongtsho Kloster", hu: "Hongtsho kolostor", ro: "Mănăstirea Hongtsho", en: "Hongtsho Monastery" },
-    coordinates: { lat: 27.482, lng: 89.751 },
+    coords: [89.751, 27.482],
     description: {
       de: "Ein alter Tempel an der Passstraße nach Dochula, der historisch ein wichtiger Rastplatz für Reisende und Pilger war.",
       hu: "Egy régi templom a Dochulába vezető hágó mellett, amely történelmileg fontos pihenőhely volt az utazók és zarándokok számára.",
@@ -1782,7 +1782,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-gidagom-lhakhang-history-v2",
     type: "monument",
     name: { de: "Gidagom Lhakhang", hu: "Gidagom Lhakhang", ro: "Gidagom Lhakhang", en: "Gidagom Lhakhang" },
-    coordinates: { lat: 27.402, lng: 89.521 },
+    coords: [89.521, 27.402],
     description: {
       de: "Ein Tempel mit langer Geschichte, der für seine Heilrituale und seine Bedeutung für die lokale Gemeinschaft in der Nähe von Thimphu bekannt ist.",
       hu: "Hosszú múltra visszatekintő templom, amely gyógyító rituáléiról és a Thimphu környéki helyi közösség számára betöltött szerepéről ismert.",
@@ -1813,7 +1813,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-pangbisa-heritage-history-v2",
     type: "village",
     name: { de: "Pangbisa Kulturerbe", hu: "Pangbisa kulturális örökség", ro: "Patrimoniul Pangbisa", en: "Pangbisa Heritage Village" },
-    coordinates: { lat: 27.401, lng: 89.452 },
+    coords: [89.452, 27.401],
     description: {
       de: "Dieses Dorf in Paro bewahrt die traditionelle bhutanische Farmhauskultur und bietet Einblicke in das ländliche Leben vergangener Jahrhunderte.",
       hu: "Ez a parói falu őrzi a hagyományos bhutáni parasztházi kultúrát, betekintést nyújtva az elmúlt évszázadok vidéki életébe.",
@@ -1844,7 +1844,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-neyphug-lhakhang-history-v2",
     type: "monument",
     name: { de: "Neyphug Lhakhang", hu: "Neyphug Lhakhang", ro: "Neyphug Lhakhang", en: "Neyphug Lhakhang" },
-    coordinates: { lat: 27.422, lng: 89.481 },
+    coords: [89.481, 27.422],
     description: {
       de: "Der im 16. Jahrhundert gegründete Tempel beherbergt eine wichtige Reinkarnationslinie und ist für seine feine Architektur bekannt.",
       hu: "A 16. században alapított templom egy fontos reinkarnációs vonal székhelye, és finom építészetéről híres.",
@@ -1875,7 +1875,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-chizhi-goemba-history-v2",
     type: "monument",
     name: { de: "Chizhi Goemba", hu: "Chizhi Goemba", ro: "Chizhi Goemba", en: "Chizhi Goemba" },
-    coordinates: { lat: 27.552, lng: 89.501 },
+    coords: [89.501, 27.552],
     description: {
       de: "Ein hochgelegenes Kloster, das historisch als Rückzugsort für Meditation und Studium diente.",
       hu: "Magaslati kolostor, amely történelmileg meditációs és tanulmányi elvonulóhelyként szolgált.",
@@ -1906,7 +1906,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-sanga-choling-history-v2",
     type: "monument",
     name: { de: "Sanga Choling Kloster", hu: "Sanga Choling kolostor", ro: "Mănăstirea Sanga Choling", en: "Sanga Choling Monastery" },
-    coordinates: { lat: 27.251, lng: 89.202 },
+    coords: [89.202, 27.251],
     description: {
       de: "Dieses 1697 gegründete Kloster im Haa-Tal ist bekannt für seine ruhige Lage und seine historische Bedeutung für den Drukpa-Orden.",
       hu: "Ez az 1697-ben alapított kolostor a Haa-völgyben híres nyugodt elhelyezkedéséről és a Drukpa rend számára betöltött történelmi szerepéről.",
@@ -1937,7 +1937,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-wangsisina-bridge-history-v2",
     type: "landmark",
     name: { de: "Historische Brücke von Wangsisina", hu: "Wangsisinai történelmi híd", ro: "Podul istoric Wangsisina", en: "Wangsisina Historic Bridge Area" },
-    coordinates: { lat: 27.451, lng: 89.672 },
+    coords: [89.672, 27.451],
     description: {
       de: "Ein Ort an einem alten Übergang über den Wang Chhu, der historisch ein wichtiger Knotenpunkt auf dem Weg nach Thimphu war.",
       hu: "Egy régi átkelőhely a Wang Chhu folyón, amely történelmileg fontos csomópont volt a Thimphuba vezető úton.",
@@ -1968,7 +1968,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-khangkhu-lhakhang-history-v2",
     type: "monument",
     name: { de: "Khangkhu Lhakhang", hu: "Khangkhu Lhakhang", ro: "Khangkhu Lhakhang", en: "Khangkhu Lhakhang" },
-    coordinates: { lat: 27.441, lng: 89.432 },
+    coords: [89.432, 27.441],
     description: {
       de: "Ein alter Tempel in der Paro-Region, der seit Jahrhunderten ein Zentrum für lokale Zeremonien und Gebete ist.",
       hu: "Ősi templom a Paró régióban, amely évszázadok óta a helyi szertartások és imádságok központja.",
@@ -1999,7 +1999,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-zuri-dzong-history-v2",
     type: "castle",
     name: { de: "Zuri Dzong", hu: "Zuri Dzong", ro: "Zuri Dzong", en: "Zuri Dzong" },
-    coordinates: { lat: 27.432, lng: 89.421 },
+    coords: [89.421, 27.432],
     description: {
       de: "Eine Festung oberhalb von Paro, die im 14. Jahrhundert erbaut wurde und einen weiten Blick über das gesamte Tal bietet.",
       hu: "Egy Paro felett álló erőd, amely a 14. században épült, és széles kilátást nyújt az egész völgyre.",
@@ -2030,7 +2030,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-drangme-bridge-history-v2",
     type: "landmark",
     name: { de: "Drangme Chhu Eisenbrücke", hu: "Drangme Chhu lánchíd", ro: "Podul de fier Drangme Chhu", en: "Drangme Chhu Iron Bridge" },
-    coordinates: { lat: 27.301, lng: 91.551 },
+    coords: [91.551, 27.301],
     description: {
       de: "Eine historische Eisenkettenbrücke, die dem Brückenbauer Thangtong Gyalpo zugeschrieben wird und den Drangme Chhu überspannt.",
       hu: "Egy történelmi lánchíd a Drangme Chhu folyó felett, amelyet Thangtong Gyalpo hídépítőnek tulajdonítanak.",
@@ -2061,7 +2061,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-nyalum-bridge-history-v2",
     type: "landmark",
     name: { de: "Nyalum Brücke", hu: "Nyalum-híd", ro: "Podul Nyalum", en: "Nyalum Bridge Area" },
-    coordinates: { lat: 27.551, lng: 89.451 },
+    coords: [89.451, 27.551],
     description: {
       de: "Ein antiker Brückenstandort, der über Jahrhunderte eine lebenswichtige Verbindung zwischen den Tälern von Paro und Thimphu war.",
       hu: "Ősi hídhelyszín, amely évszázadokon át létfontosságú összeköttetést jelentett Paro és Thimphu völgyei között.",
@@ -2092,7 +2092,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-bjoka-bamboo-history-v2",
     type: "village",
     name: { de: "Bjoka Bambuszentrum", hu: "Bjoka bambuszközpont", ro: "Centrul Bjoka pentru bambus", en: "Bjoka Bamboo Craft Site" },
-    coordinates: { lat: 26.901, lng: 91.052 },
+    coords: [91.052, 26.901],
     description: {
       de: "Dieses Dorf in Zhemgang ist das historische Herz der bhutanischen Bambusflechtkunst, die hier seit dem Mittelalter praktiziert wird.",
       hu: "Ez a zhemgangi falu a bhutáni bambuszfonás történelmi központja, amelyet itt a középkor óta gyakorolnak.",
@@ -2123,7 +2123,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-pelyel-lhakhang-history-v2",
     type: "monument",
     name: { de: "Pelyel Lhakhang", hu: "Pelyel Lhakhang", ro: "Pelyel Lhakhang", en: "Pelyel Lhakhang" },
-    coordinates: { lat: 27.122, lng: 90.851 },
+    coords: [90.851, 27.122],
     description: {
       de: "Ein alter Tempel in der Kheng-Region, der wichtige historische Reliquien und Dokumente zur lokalen Herrschaftsgeschichte bewahrt.",
       hu: "Ősi templom a Kheng régióban, amely fontos történelmi ereklyéket és a helyi hatalmi történet dokumentumait őrzi.",
@@ -2154,7 +2154,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-rimchu-lhakhang-history-v2",
     type: "monument",
     name: { de: "Rimchu Lhakhang", hu: "Rimchu Lhakhang", ro: "Rimchu Lhakhang", en: "Rimchu Lhakhang" },
-    coordinates: { lat: 27.752, lng: 89.751 },
+    coords: [89.751, 27.752],
     description: {
       de: "Dieser Tempel am Oberlauf des Mo Chhu ist bekannt für seine ruhige Atmosphäre und seine Rolle in der frühen religiösen Entwicklung von Punakha.",
       hu: "A Mo Chhu felső folyásánál található templom nyugodt légköréről és Punakha korai vallási fejlődésében betöltött szerepéről ismert.",
@@ -2185,7 +2185,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     id: "bhutan-summer-palace-history-v2",
     type: "palace",
     name: { de: "Königlicher Sommerpalast", hu: "Királyi nyári palota", ro: "Palatul Regal de Vară", en: "Royal Summer Residence" },
-    coordinates: { lat: 27.481, lng: 89.752 },
+    coords: [89.752, 27.481],
     description: {
       de: "Eine historische Sommerresidenz der bhutanischen Könige, bekannt für ihre traditionelle Bauweise und ihre kühle Lage in den Bergen.",
       hu: "A bhutáni királyok történelmi nyári rezidenciája, amely hagyományos építészetéről és hűvös hegyi fekvéséről ismert.",

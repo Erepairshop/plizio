@@ -546,7 +546,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-tuyamuyun-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Tuyamuyun", hu: "Tujamujun vízerőmű", ro: "Complexul hidroenergetic Tuyamuyun", en: "Tuyamuyun Hydroelectric Complex" },
-    coordinates: { lat: 41.215, lng: 61.411 },
+    coords: [61.411, 41.215],
     description: {
       de: "Dieses Kraftwerk am Amudarja regelt die Wasserversorgung für die Bewässerung in Usbekistan und Turkmenistan. Es ist ein zentrales Element der regionalen Agrarwirtschaft.",
       hu: "Az Amu-darja folyón található létesítmény kulcsfontosságú az üzbég és türkmén mezőgazdaság öntözéséhez. Jelentős szerepet játszik a térség energiatermelésében.",
@@ -565,7 +565,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-termez-cargo-centre-economic-v2",
     type: "port",
     name: { de: "Frachtzentrum Termez", hu: "Termezi Logisztikai Központ", ro: "Centrul de marfă Termez", en: "Termez Cargo Centre" },
-    coordinates: { lat: 37.285, lng: 67.311 },
+    coords: [67.311, 37.285],
     description: {
       de: "Dieses Logistikzentrum ist ein wichtiger Knotenpunkt für den Handel mit Afghanistan und Südasien. Es bietet umfassende Zolldienstleistungen und Lagerkapazitäten.",
       hu: "Ez a logisztikai központ kulcsfontosságú csomópont az Afganisztánnal és Dél-Ázsiával folytatott kereskedelemben. Vámszolgáltatásokat és raktározást biztosít.",
@@ -584,7 +584,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-tashkent-it-park-economic-v2",
     type: "industry",
     name: { de: "IT-Park Taschkent", hu: "Taskenti IT Park", ro: "Parcul IT Tașkent", en: "Tashkent IT Park" },
-    coordinates: { lat: 41.334, lng: 69.324 },
+    coords: [69.324, 41.334],
     description: {
       de: "Der IT-Park ist das Zentrum der digitalen Wirtschaft in Usbekistan. Er fördert Start-ups und bietet exportorientierten Technologieunternehmen moderne Büroräume.",
       hu: "Az IT Park az üzbég digitális gazdaság központja. Támogatja a startupokat és modern irodákat biztosít az exportorientált technológiai cégeknek.",
@@ -603,7 +603,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-oltin-yol-gtl-economic-v2",
     type: "factory",
     name: { de: "Oltin Yo'l GTL Anlage", hu: "Oltin Yo'l GTL üzem", ro: "Uzina Oltin Yo'l GTL", en: "Oltin Yo'l GTL Plant" },
-    coordinates: { lat: 38.517, lng: 66.214 },
+    coords: [66.214, 38.517],
     description: {
       de: "Diese hochmoderne Anlage wandelt Erdgas in flüssige Brennstoffe um. Sie ist eine der weltweit fortschrittlichsten Fabriken ihrer Art zur Treibstoffproduktion.",
       hu: "Ez a korszerű üzem földgázt alakít át folyékony üzemanyaggá. Világszinten is kiemelkedő technológiát alkalmaz az üzemanyaggyártásban.",
@@ -622,7 +622,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-khandiza-mine-economic-v2",
     type: "mine",
     name: { de: "Khandiza-Mine", hu: "Handiza-bánya", ro: "Mina Khandiza", en: "Khandiza Mine" },
-    coordinates: { lat: 38.35, lng: 67.45 },
+    coords: [67.45, 38.35],
     description: {
       de: "Die Mine in der Provinz Surkhondaryo ist auf die Gewinnung von Polymetallen spezialisiert. Sie ist ein wichtiger Lieferant für Blei, Zink und Kupfer.",
       hu: "A Szurhandarja régióban található bánya polimetallikus ércek kitermelésére szakosodott. Jelentős ólom-, cink- és rézforrás.",
@@ -641,7 +641,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-khazarasp-fez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Khazarasp", hu: "Hazarapsz Különleges Gazdasági Övezet", ro: "Zona Economică Liberă Khazarasp", en: "Khazarasp Free Economic Zone" },
-    coordinates: { lat: 41.51, lng: 61.05 },
+    coords: [61.05, 41.51],
     description: {
       de: "Diese Wirtschaftszone in der Region Khorezm fördert die industrielle Entwicklung durch Steuerbefreiungen. Sie konzentriert sich auf Textilien und Baumaterialien.",
       hu: "Ez a Horezm régióban található övezet adómentességgel ösztönzi az ipari fejlődést. Főleg textil- és építőanyag-iparra összpontosít.",
@@ -660,7 +660,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-quvasoy-cement-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Quvasoy", hu: "Quvasoyi cementgyár", ro: "Fabrica de ciment Quvasoy", en: "Quvasoy Cement Plant" },
-    coordinates: { lat: 40.297, lng: 71.975 },
+    coords: [71.975, 40.297],
     description: {
       de: "Das Werk in Quvasoy ist einer der größten Produzenten von Baumaterialien im Fergana-Tal. Es versorgt große Infrastrukturprojekte im gesamten Land.",
       hu: "A quvasoyi gyár a Fergana-völgy egyik legnagyobb építőanyag-gyártója. Országszerte fontos infrastrukturális projekteket lát el.",
@@ -679,7 +679,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-urganch-wine-factory-economic-v2",
     type: "factory",
     name: { de: "Urganch Weinfabrik", hu: "Urgancsi borgyár", ro: "Fabrica de vin din Urganch", en: "Urganch Wine Factory" },
-    coordinates: { lat: 41.55, lng: 60.62 },
+    coords: [60.62, 41.55],
     description: {
       de: "Diese Fabrik ist bekannt für die Verarbeitung lokaler Traubensorten in der Region Khorezm. Sie verbindet traditionelle Weinbereitung mit moderner Produktion.",
       hu: "Ez a gyár a horezmi régió helyi szőlőfajtáinak feldolgozásáról ismert. A hagyományos borkészítést ötvözi a modern gyártással.",
@@ -698,7 +698,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-navoi-solar-plant-economic-v2",
     type: "industry",
     name: { de: "Solarpark Navoi", hu: "Navoiy napelempark", ro: "Parcul fotovoltaic Navoi", en: "Navoi Solar PV Plant" },
-    coordinates: { lat: 40.15, lng: 65.31 },
+    coords: [65.31, 40.15],
     description: {
       de: "Usbekistans erster großer Solarpark markiert den Übergang zu erneuerbaren Energien. Die Anlage nutzt die hohe Sonneneinstrahlung der Region Navoi.",
       hu: "Üzbegisztán első nagy napelemparkja a megújuló energiára való átállást jelzi. A létesítmény Navoiy régió magas napsütéses óráit használja ki.",
@@ -717,7 +717,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     id: "uzbekistan-kokand-fez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Kokand", hu: "Kokandi Különleges Gazdasági Övezet", ro: "Zona Economică Liberă Kokand", en: "Kokand Free Economic Zone" },
-    coordinates: { lat: 40.53, lng: 70.94 },
+    coords: [70.94, 40.53],
     description: {
       de: "Dieser Industriekomplex in der Nähe von Kokand konzentriert sich auf Leichtindustrie und Chemie. Er ist ein Motor für den Export im Fergana-Tal.",
       hu: "Ez a Kokand melletti ipari komplexum a könnyűiparra és vegyiparra összpontosít. A Fergana-völgy exportjának egyik motorja.",

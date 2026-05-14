@@ -5,7 +5,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-queen-salote-wharf-economic-v2",
     type: "port",
     name: { de: "Queen Salote Wharf", hu: "Queen Salote kikötő", ro: "Mollul Queen Salote", en: "Queen Salote Wharf" },
-    coordinates: { lat: -21.1394, lng: -175.1831 },
+    coords: [-175.1831, -21.1394],
     description: {
       de: "Dies ist der wichtigste internationale Seehafen von Tonga in der Hauptstadt Nuku'alofa. Er schlägt den Großteil der Container- und Treibstoffimporte des Inselstaates umschlägt.",
       hu: "Tonga elsődleges nemzetközi tengeri kikötője a fővárosban, Nuku'alofában található. Ez a létesítmény kezeli az ország konténeres forgalmának és üzemanyag-behozatalának döntő többségét.",
@@ -24,7 +24,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-talamahu-market-economic-v2",
     type: "landmark",
     name: { de: "Talamahu-Markt", hu: "Talamahu piac", ro: "Piața Talamahu", en: "Talamahu Market" },
-    coordinates: { lat: -21.1378, lng: -175.2015 },
+    coords: [-175.2015, -21.1378],
     description: {
       de: "Der zentrale Marktplatz in Nuku'alofa ist das wirtschaftliche Herz der heimischen Landwirtschaft. Bauern aus ganz Tongatapu verkaufen hier frische Erzeugnisse und Handwerkskunst.",
       hu: "Nuku'alofa központi piaca a helyi mezőgazdaság gazdasági központja. A Tongatapu minden részéről érkező gazdák itt értékesítik friss terményeiket és kézműves áruikat.",
@@ -43,7 +43,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-maama-mai-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Maama Mai Solarpark", hu: "Maama Mai napelempark", ro: "Parcul Solar Maama Mai", en: "Maama Mai Solar Farm" },
-    coordinates: { lat: -21.1732, lng: -175.2341 },
+    coords: [-175.2341, -21.1732],
     description: {
       de: "Diese Photovoltaikanlage ist ein Meilenstein für Tongas Energieunabhängigkeit und reduziert die Importkosten für Diesel. Sie liefert sauberen Strom für das nationale Stromnetz.",
       hu: "Ez a fotovoltaikus létesítmény mérföldkő Tonga energiafüggetlensége felé, csökkentve az importált gázolaj költségeit. Tiszta energiával látja el az országos hálózatot.",
@@ -62,7 +62,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-vava-u-pearl-farm-economic-v2",
     type: "industry",
     name: { de: "Vava'u Perlenfarm", hu: "Vava'u gyöngyfarm", ro: "Ferma de Perle Vava'u", en: "Vava'u Pearl Farm" },
-    coordinates: { lat: -18.6472, lng: -173.9825 },
+    coords: [-173.9825, -18.6472],
     description: {
       de: "Die Aquakultur in den geschützten Gewässern von Vava'u konzentriert sich auf die Zucht von Mabe-Perlen. Dieser Sektor bietet wichtige Exportmöglichkeiten und Arbeitsplätze für lokale Gemeinschaften.",
       hu: "Vava'u védett vizeiben folyó akvakultúra a Mabe gyöngyök tenyésztésére összpontosít. Ez az ágazat fontos exportlehetőségeket és munkahelyeket biztosít a helyieknek.",
@@ -81,7 +81,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-small-industries-centre-economic-v2",
     type: "industry",
     name: { de: "Kleingewerbezentrum Ma'ufanga", hu: "Ma'ufanga Kisipari Központ", ro: "Centrul de Industrii Mici Ma'ufanga", en: "Small Industries Centre Ma'ufanga" },
-    coordinates: { lat: -21.1415, lng: -175.1885 },
+    coords: [-175.1885, -21.1415],
     description: {
       de: "Dieses Gewerbegebiet in der Nähe des Hafens beherbergt kleine Produktionsbetriebe und Lagerhäuser. Es ist das Zentrum für die leichte industrielle Fertigung in Tonga.",
       hu: "Ez a kikötő közelében található ipari park kisüzemeknek és raktáraknak ad otthont. Ez Tonga könnyűipari gyártásának központi helyszíne.",
@@ -100,7 +100,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-vaini-agricultural-station-economic-v2",
     type: "industry",
     name: { de: "Vaini Forschungsstation für Landwirtschaft", hu: "Vaini Mezőgazdasági Kutatóállomás", ro: "Stația de Cercetare Agricolă Vaini", en: "Vaini Agricultural Research Station" },
-    coordinates: { lat: -21.1925, lng: -175.1764 },
+    coords: [-175.1764, -21.1925],
     description: {
       de: "Die Forschungsstation entwickelt verbesserte Anbaumethoden für Exportfrüchte wie Kürbis und Vanille. Sie spielt eine entscheidende Rolle bei der Steigerung der landwirtschaftlichen Produktivität.",
       hu: "A kutatóállomás továbbfejlesztett termesztési módszereket dolgoz ki az olyan exportterményekhez, mint a tök és a vanília. Döntő szerepe van a mezőgazdasági hozamok növelésében.",
@@ -119,7 +119,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-tuimatamoana-fish-market-economic-v2",
     type: "industry",
     name: { de: "Tuimatamoana Fischmarkt", hu: "Tuimatamoana halpiac", ro: "Piața de Pește Tuimatamoana", en: "Tuimatamoana Fish Market" },
-    coordinates: { lat: -21.1385, lng: -175.1912 },
+    coords: [-175.1912, -21.1385],
     description: {
       de: "Dieser am Wasser gelegene Markt ist das Zentrum für den Handel mit Meeresfrüchten in Nuku'alofa. Er dient sowohl dem lokalen Konsum als auch der Vorbereitung von Fischexporten.",
       hu: "Ez a vízparti piac a tenger gyümölcsei kereskedelmének központja Nuku'alofában. A helyi fogyasztást és a halexport előkészítését egyaránt kiszolgálja.",
@@ -138,7 +138,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-fuaamotu-cargo-terminal-economic-v2",
     type: "industry",
     name: { de: "Frachtterminal Fua'amotu", hu: "Fua'amotu teherterminál", ro: "Terminalul de Marfă Fua'amotu", en: "Fua'amotu Cargo Terminal" },
-    coordinates: { lat: -21.2405, lng: -175.1382 },
+    coords: [-175.1382, -21.2405],
     description: {
       de: "Das Luftfrachtterminal am internationalen Flughafen Fua'amotu ist entscheidend für den Export von verderblichen Waren. Hier werden hochwertige Güter wie Vanille und frischer Fisch verladen.",
       hu: "A Fua'amotu nemzetközi repülőtér légi teherterminálja kulcsfontosságú a romlandó áruk exportjához. Itt rakodják be a nagy értékű javakat, például a vaníliát és a friss halat.",
@@ -157,7 +157,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-neiafu-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Neiafu", hu: "Neiafu kikötő", ro: "Portul Neiafu", en: "Neiafu Port" },
-    coordinates: { lat: -18.6515, lng: -173.9842 },
+    coords: [-173.9842, -18.6515],
     description: {
       de: "Dies ist der zweitwichtigste Hafen von Tonga und das wirtschaftliche Zentrum der Vava'u-Inselgruppe. Er ist ein wichtiger Stützpunkt für den Tourismus und den regionalen Handel.",
       hu: "Ez Tonga második legfontosabb kikötője és a Vava'u-szigetcsoport gazdasági központja. A turizmus és a regionális kereskedelem kulcsfontosságú bázisa.",
@@ -176,7 +176,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-pangai-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Pangai", hu: "Pangai kikötő", ro: "Portul Pangai", en: "Pangai Port" },
-    coordinates: { lat: -19.8115, lng: -174.3485 },
+    coords: [-174.3485, -19.8115],
     description: {
       de: "Der Hafen von Pangai ist die lebenswichtige Versorgungsader für die Ha'apai-Inseln. Über ihn werden Lebensmittel, Baustoffe und Treibstoff in die entlegene Region geliefert.",
       hu: "Pangai kikötője a Ha'apai-szigetek létfontosságú ellátási útvonala. Ezen keresztül érkezik az élelmiszer, az építőanyag és az üzemanyag a távoli régióba.",
@@ -195,7 +195,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-popua-power-station-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Popua", hu: "Popua erőmű", ro: "Centrala Electrică Popua", en: "Popua Power Station" },
-    coordinates: { lat: -21.1452, lng: -175.1685 },
+    coords: [-175.1685, -21.1452],
     description: {
       de: "Das Kraftwerk Popua ist die wichtigste Energiequelle für die Insel Tongatapu. Es kombiniert Dieselgeneratoren mit modernen Solarsystemen zur Stromerzeugung.",
       hu: "A Popua erőmű Tongatapu szigetének legfontosabb energiaforrása. Dízelgenerátorokat kombinál modern napelemes rendszerekkel az áramtermeléshez.",
@@ -214,7 +214,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-eua-forestry-base-economic-v2",
     type: "industry",
     name: { de: "Forstwirtschaftsbasis 'Eua", hu: "'Eua erdészeti központ", ro: "Baza Forestieră 'Eua", en: "'Eua Forestry Base" },
-    coordinates: { lat: -21.3685, lng: -174.9312 },
+    coords: [-174.9312, -21.3685],
     description: {
       de: "Die Insel 'Eua ist das Zentrum der tonganischen Holzwirtschaft. Hier werden Plantagen bewirtschaftet, die Baumaterial für den Inlandsmarkt liefern.",
       hu: "'Eua szigete a tongai faipar központja. Itt olyan ültetvényeket kezelnek, amelyek építőanyagot biztosítanak a hazai piac számára.",
@@ -233,7 +233,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-national-reserve-bank-economic-v2",
     type: "landmark",
     name: { de: "National Reserve Bank of Tonga", hu: "Tongai Nemzeti Jegybank", ro: "Banca Națională de Rezervă a Tonga", en: "National Reserve Bank of Tonga" },
-    coordinates: { lat: -21.1355, lng: -175.2012 },
+    coords: [-175.2012, -21.1355],
     description: {
       de: "Dies ist die Zentralbank des Königreichs Tonga in Nuku'alofa. Sie regelt die Geldpolitik, gibt die Währung Pa'anga heraus und überwacht den Finanzsektor.",
       hu: "Ez a Tongai Királyság központi bankja Nuku'alofában. Szabályozza a monetáris politikát, kibocsátja a pa'anga valutát és felügyeli a pénzügyi szektort.",
@@ -252,7 +252,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-mataki-eua-water-works-economic-v2",
     type: "industry",
     name: { de: "Wasserwerk Mataki'eua", hu: "Mataki'eua vízmű", ro: "Uzina de Apă Mataki'eua", en: "Mataki'eua Water Works" },
-    coordinates: { lat: -21.1585, lng: -175.2154 },
+    coords: [-175.2154, -21.1585],
     description: {
       de: "Das Wasserwerk Mataki'eua ist die wichtigste Einrichtung für die Trinkwasserversorgung der Hauptstadt. Es verwaltet die unterirdischen Süßwasserlinsen der Insel.",
       hu: "A Mataki'eua vízmű a főváros ivóvízellátásának legfontosabb létesítménye. A sziget föld alatti édesvízkészleteit kezeli.",
@@ -271,7 +271,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-lapaha-vanilla-estates-economic-v2",
     type: "industry",
     name: { de: "Vanilleplantagen von Lapaha", hu: "Lapahai vaníliaültetvények", ro: "Plantațiile de Vanilie din Lapaha", en: "Lapaha Vanilla Estates" },
-    coordinates: { lat: -21.1785, lng: -175.1152 },
+    coords: [-175.1152, -21.1785],
     description: {
       de: "Die Region um Lapaha ist bekannt für den Anbau hochwertiger Vanille, eines der wertvollsten Exportgüter Tongas. Die Ernte erfordert intensive Handarbeit und Fachwissen.",
       hu: "Lapaha környéke a kiváló minőségű vanília termesztéséről híres, amely Tonga egyik legértékesebb exportterméke. A betakarítás intenzív kézi munkát igényel.",
@@ -290,7 +290,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-niuatoputapu-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Niuatoputapu", hu: "Niuatoputapu kikötő", ro: "Portul Niuatoputapu", en: "Niuatoputapu Port" },
-    coordinates: { lat: -15.9485, lng: -173.7542 },
+    coords: [-173.7542, -15.9485],
     description: {
       de: "Dies ist der nördlichste Handelshafen Tongas. Er ist die einzige Verbindung für den Warenaustausch der abgelegenen Niua-Inseln mit dem Rest des Landes.",
       hu: "Ez Tonga legészakibb kereskedelmi kikötője. Ez az egyetlen összeköttetés a távoli Niua-szigetek és az ország többi része közötti árucsere számára.",
@@ -309,7 +309,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-fangaloto-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Fangaloto", hu: "Fangaloto ipari negyed", ro: "Zona Industrială Fangaloto", en: "Fangaloto Industrial Estate" },
-    coordinates: { lat: -21.1485, lng: -175.1812 },
+    coords: [-175.1812, -21.1485],
     description: {
       de: "Fangaloto ist ein ausgewiesenes Industriegebiet in Nuku'alofa, das sich auf Bauwesen und Lagerhaltung konzentriert. Es beherbergt mehrere große Import-Export-Unternehmen.",
       hu: "Fangaloto egy kijelölt ipari övezet Nuku'alofában, amely az építőiparra és a raktározásra összpontosít. Több nagy import-export vállalat székhelye.",
@@ -328,7 +328,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-tonga-power-popua-solar-economic-v2",
     type: "industry",
     name: { de: "Popua Solar-Erweiterung", hu: "Popua szolár bővítés", ro: "Extinderea Solară Popua", en: "Tonga Power Popua Solar Park" },
-    coordinates: { lat: -21.1445, lng: -175.1662 },
+    coords: [-175.1662, -21.1445],
     description: {
       de: "Diese großflächige Solaranlage ergänzt das benachbarte Wärmekraftwerk Popua. Sie ist Teil des nationalen Plans, 50% des Stroms aus erneuerbaren Quellen zu gewinnen.",
       hu: "Ez a nagyméretű napelemes létesítmény kiegészíti a szomszédos Popua hőerőművet. Része annak a tervnek, hogy az áram 50%-át megújuló forrásból nyerjék.",
@@ -347,7 +347,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-nukualofa-waterfront-commercial-economic-v2",
     type: "city",
     name: { de: "Nuku'alofa Waterfront Zone", hu: "Nuku'alofa parti kereskedelmi negyed", ro: "Zona Comercială Faleză Nuku'alofa", en: "Nuku'alofa Waterfront Commercial Zone" },
-    coordinates: { lat: -21.1352, lng: -175.1985 },
+    coords: [-175.1985, -21.1352],
     description: {
       de: "Das sanierte Uferviertel von Nuku'alofa ist ein Zentrum für Einzelhandel, Tourismus und Gastronomie. Es verbindet den Hafen direkt mit dem Geschäftszentrum der Stadt.",
       hu: "Nuku'alofa megújult parti negyede a kiskereskedelem, a turizmus és a vendéglátás központja. Közvetlenül összeköti a kikötőt a város üzleti központjával.",
@@ -366,7 +366,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-hala-o-vave-manufacturing-economic-v2",
     type: "industry",
     name: { de: "Hala-o-Vave Fertigungszentrum", hu: "Hala-o-Vave gyártónegyed", ro: "Centrul de Producție Hala-o-Vave", en: "Hala-o-Vave Manufacturing Site" },
-    coordinates: { lat: -21.1485, lng: -175.2152 },
+    coords: [-175.2152, -21.1485],
     description: {
       de: "Dieses Gebiet am Stadtrand von Nuku'alofa beherbergt verschiedene Kleinindustrien, darunter Möbelherstellung und Metallverarbeitung. Es ist ein wichtiger Arbeitgeber für die lokale Bevölkerung.",
       hu: "Nuku'alofa szélén található terület különböző kisiparoknak ad otthont, beleértve a bútorgyártást és a fémmegmunkálást. Fontos munkaadó a helyiek számára.",
@@ -385,7 +385,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-niuafoou-copra-centre-economic-v2",
     type: "industry",
     name: { de: "Kopra-Zentrum Niuafo'ou", hu: "Niuafo'ou kopra-központ", ro: "Centrul de Copra Niuafo'ou", en: "Niuafo'ou Copra Centre" },
-    coordinates: { lat: -15.5615, lng: -175.6312 },
+    coords: [-175.6312, -15.5615],
     description: {
       de: "Auf der abgelegenen Vulkaninsel Niuafo'ou ist die Kopra-Produktion (getrocknetes Kokosnussfleisch) die wichtigste wirtschaftliche Aktivität. Das Zentrum koordiniert den Sammelprozess für den Export.",
       hu: "A távoli Niuafo'ou vulkáni szigetén a kopra-termelés (szárított kókuszbél) a fő gazdasági tevékenység. A központ koordinálja az exportra szánt gyűjtést.",
@@ -404,7 +404,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-hihifo-root-crop-station-economic-v2",
     type: "industry",
     name: { de: "Hihifo Wurzelgemüse-Station", hu: "Hihifoi gyökérnövény-állomás", ro: "Stația de Culturi de Rădăcinoase Hihifo", en: "Hihifo Root Crop Station" },
-    coordinates: { lat: -21.1085, lng: -175.3154 },
+    coords: [-175.3154, -21.1085],
     description: {
       de: "Diese Einrichtung im Westen von Tongatapu ist auf den großflächigen Anbau von Maniok und Taro spezialisiert. Diese Feldfrüchte sind sowohl Grundnahrungsmittel als auch wichtige Exportgüter.",
       hu: "Ez a Tongatapu nyugati részén található létesítmény a manióka és a taro nagyüzemi termesztésére specializálódott. Ezek alapvető élelmiszerek és fontos exportcikkek.",
@@ -423,7 +423,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-tatakamotonga-handicraft-hub-economic-v2",
     type: "industry",
     name: { de: "Handwerkszentrum Tatakamotonga", hu: "Tatakamotonga kézműves központ", ro: "Centrul de Artizanat Tatakamotonga", en: "Tatakamotonga Handicraft Hub" },
-    coordinates: { lat: -21.1985, lng: -175.1252 },
+    coords: [-175.1252, -21.1985],
     description: {
       de: "Dieses Dorf ist ein wichtiges Zentrum für die Produktion von Tapa-Stoffen und feinen Matten. Das Handwerk bietet eine bedeutende Einkommensquelle für Frauen in ländlichen Gebieten.",
       hu: "Ez a falu a tapa-szövetek és a finom gyékények gyártásának központja. A kézművesség jelentős bevételi forrást biztosít a vidéki nők számára.",
@@ -442,7 +442,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-vavau-coconut-oil-mill-economic-v2",
     type: "factory",
     name: { de: "Kokosölmühle Vava'u", hu: "Vava'u kókuszolaj-sajtoló", ro: "Presa de Ulei de Cocos Vava'u", en: "Vava'u Coconut Oil Mill" },
-    coordinates: { lat: -18.6652, lng: -173.9612 },
+    coords: [-173.9612, -18.6652],
     description: {
       de: "Die Mühle in Vava'u verarbeitet lokale Kokosnüsse zu Öl für den Export und den Inlandsverbrauch. Dies ist ein wichtiger Schritt zur Wertschöpfung innerhalb der lokalen Landwirtschaft.",
       hu: "A Vava'u-i malom a helyi kókuszt dolgozza fel olajjá exportra és hazai fogyasztásra. Ez fontos lépés a helyi mezőgazdaság hozzáadott értékének növeléséhez.",
@@ -461,7 +461,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-haapai-fisheries-station-economic-v2",
     type: "industry",
     name: { de: "Fischereistation Ha'apai", hu: "Ha'apai halászati állomás", ro: "Stația de Pescuit Ha'apai", en: "Ha'apai Fisheries Station" },
-    coordinates: { lat: -19.8085, lng: -174.3412 },
+    coords: [-174.3412, -19.8085],
     description: {
       de: "Diese Station koordiniert die kommerziellen Fischereitätigkeiten in den Ha'apai-Gewässern. Sie stellt Eismaschinen und Lagerhäuser für die Fischer der Region bereit.",
       hu: "Ez az állomás koordinálja a kereskedelmi halászatot a Ha'apai-vizeken. Jégkészítő gépeket és raktárakat biztosít a régió halászai számára.",
@@ -480,7 +480,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-nukualofa-marina-economic-v2",
     type: "port",
     name: { de: "Nuku'alofa Marina", hu: "Nuku'alofa jachtkikötő", ro: "Marina Nuku'alofa", en: "Nuku'alofa Marina" },
-    coordinates: { lat: -21.1372, lng: -175.1915 },
+    coords: [-175.1915, -21.1372],
     description: {
       de: "Die Marina ist ein wichtiger Stützpunkt für private Yachten und kleine Charterboote. Sie generiert Einnahmen durch Liegeplatzgebühren und touristische Dienstleistungen.",
       hu: "A jachtkikötő a magánjachtok és a kisebb bérelhető hajók fontos bázisa. Bevételeket generál a kikötői díjakból és a turisztikai szolgáltatásokból.",
@@ -499,7 +499,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-maufanga-oil-terminal-economic-v2",
     type: "industry",
     name: { de: "Ölterminal Ma'ufanga", hu: "Ma'ufanga olajterminál", ro: "Terminalul Petrolier Ma'ufanga", en: "Ma'ufanga Petroleum Terminal" },
-    coordinates: { lat: -21.1405, lng: -175.1852 },
+    coords: [-175.1852, -21.1405],
     description: {
       de: "Dies ist das strategische Treibstofflager von Tonga. Hier werden importiertes Benzin, Diesel und Flugkraftstoff für die nationale Verteilung gelagert.",
       hu: "Ez Tonga stratégiai üzemanyagraktára. Itt tárolják az importált benzint, gázolajat és kerozint az országos elosztáshoz.",
@@ -518,7 +518,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-tonga-communications-hq-economic-v2",
     type: "landmark",
     name: { de: "Zentrale der Tonga Communications Corporation", hu: "Tonga Communications Corporation székház", ro: "Sediul Tonga Communications Corporation", en: "Tonga Communications Corporation HQ" },
-    coordinates: { lat: -21.1378, lng: -175.2032 },
+    coords: [-175.2032, -21.1378],
     description: {
       de: "Das Hauptquartier des staatlichen Telekommunikationsanbieters steuert die digitale Infrastruktur des Landes. Es ist entscheidend für den modernen Geschäftsverkehr und den Internetzugang.",
       hu: "Az állami telekommunikációs szolgáltató székháza kezeli az ország digitális infrastruktúráját. Kulcsfontosságú a modern üzleti élet és az internetelérés számára.",
@@ -537,7 +537,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-digicel-square-economic-v2",
     type: "city",
     name: { de: "Digicel Square", hu: "Digicel tér", ro: "Piața Digicel", en: "Digicel Square" },
-    coordinates: { lat: -21.1365, lng: -175.2005 },
+    coords: [-175.2005, -21.1365],
     description: {
       de: "Dieses Gewerbegebiet im Zentrum von Nuku'alofa beherbergt den Hauptstandort des privaten Mobilfunkanbieters. Es ist ein wichtiger Ort für den mobilen Handel und Finanzdienstleistungen.",
       hu: "Ez a Nuku'alofa központjában található kereskedelmi terület a privát mobilszolgáltató fő bázisa. Fontos helyszín a mobilkereskedelem és a pénzügyi szolgáltatások számára.",
@@ -556,7 +556,7 @@ export const tongaEconomicV2: POI[] = [
     id: "tonga-bank-south-pacific-building-economic-v2",
     type: "landmark",
     name: { de: "Bank South Pacific Gebäude", hu: "Bank South Pacific épület", ro: "Clădirea Bank South Pacific", en: "Bank South Pacific Building" },
-    coordinates: { lat: -21.1358, lng: -175.2018 },
+    coords: [-175.2018, -21.1358],
     description: {
       de: "Dieses Gebäude ist der Sitz einer der größten Geschäftsbanken in Tonga. Es ist ein zentraler Punkt für den kommerziellen Kreditverkehr und internationale Überweisungen.",
       hu: "Ez az épület Tonga egyik legnagyobb kereskedelmi bankjának székháza. A kereskedelmi hitelezés és a nemzetközi átutalások központi helyszíne.",

@@ -546,7 +546,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-tal-moreeb-relief-v2",
     type: "mountain",
     name: { de: "Tal Moreeb", hu: "Tal Moreeb", ro: "Tal Moreeb", en: "Tal Moreeb" },
-    coordinates: { lat: 22.9753, lng: 53.7858 },
+    coords: [53.7858, 22.9753],
     description: {
       de: "Tal Moreeb ist eine der weltweit höchsten Sanddünen im Liwa-Oasen-Gebiet von Abu Dhabi. Sie erreicht eine Höhe von über 300 Metern über dem Wüstenboden.",
       hu: "A Tal Moreeb a világ egyik legmagasabb homokdűnéje, amely Abu-Dzabi Liwa-oázis régiójában található. Magassága meghaladja a 300 métert.",
@@ -565,7 +565,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-ham-relief-v2",
     type: "valley",
     name: { de: "Wadi Ham", hu: "Wadi Ham", ro: "Wadi Ham", en: "Wadi Ham" },
-    coordinates: { lat: 25.1381, lng: 56.2414 },
+    coords: [56.2414, 25.1381],
     description: {
       de: "Wadi Ham ist das längste Wadi der Vereinigten Arabischen Emirate und erstreckt sich über 30 Kilometer durch das Hadschar-Gebirge. Es mündet nahe Fujairah Stadt.",
       hu: "A Wadi Ham az Egyesült Arab Emírségek leghosszabb völgye, amely több mint 30 kilométer hosszan húzódik a Hadzsar-hegységen keresztül.",
@@ -584,7 +584,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-big-red-relief-v2",
     type: "mountain",
     name: { de: "Big Red (Al Hammar)", hu: "Big Red (Al Hammar)", ro: "Big Red (Al Hammar)", en: "Big Red (Al Hammar)" },
-    coordinates: { lat: 24.9664, lng: 55.7275 },
+    coords: [55.7275, 24.9664],
     description: {
       de: "Big Red, auch bekannt als Tal Al Hammar, ist eine markante rote Sanddüne in der Wüste von Dubai, die etwa 100 Meter hoch aufragt.",
       hu: "A Big Red, más néven Tal Al Hammar, egy jellegzetes vörös homokdűne Dubaj sivatagában, amely körülbelül 100 méter magasra emelkedik.",
@@ -603,7 +603,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-siji-relief-v2",
     type: "valley",
     name: { de: "Wadi Siji", hu: "Wadi Siji", ro: "Wadi Siji", en: "Wadi Siji" },
-    coordinates: { lat: 25.2341, lng: 56.0528 },
+    coords: [56.0528, 25.2341],
     description: {
       de: "Wadi Siji ist ein bedeutendes Flusstal im Hadschar-Gebirge zwischen Fujairah und Ras Al Khaimah, bekannt für seine Wasserressourcen und Landwirtschaft.",
       hu: "A Wadi Siji egy jelentős folyóvölgy a Hadzsar-hegységben Fudzsejra és Rász el-Haima között, amely vízkészleteiről és mezőgazdaságáról ismert.",
@@ -622,7 +622,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-abadilah-relief-v2",
     type: "valley",
     name: { de: "Wadi Abadilah", hu: "Wadi Abadilah", ro: "Wadi Abadilah", en: "Wadi Abadilah" },
-    coordinates: { lat: 25.4358, lng: 56.2019 },
+    coords: [56.2019, 25.4358],
     description: {
       de: "Wadi Abadilah ist ein beliebtes Wandertal im nördlichen Hadschar-Gebirge, das für sein ganzjähriges Rinnsal und seine üppige Vegetation bekannt ist.",
       hu: "A Wadi Abadilah egy népszerű túravölgy az északi Hadzsar-hegységben, amely állandó csermelyéről és dús növényzetéről híres.",
@@ -641,7 +641,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-munay-relief-v2",
     type: "valley",
     name: { de: "Wadi Munay", hu: "Wadi Munay", ro: "Wadi Munay", en: "Wadi Munay" },
-    coordinates: { lat: 24.9822, lng: 56.1247 },
+    coords: [56.1247, 24.9822],
     description: {
       de: "Wadi Munay ist ein historisch bedeutsames Tal im südlichen Ras Al Khaimah, geprägt von schroffen Bergformationen und archäologischen Fundstätten.",
       hu: "A Wadi Munay egy történelmileg jelentős völgy Rász el-Haima déli részén, amelyet zord hegyalakzatok és régészeti lelőhelyek jellemeznek.",
@@ -660,7 +660,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-hayl-relief-v2",
     type: "valley",
     name: { de: "Wadi Hayl", hu: "Wadi Hayl", ro: "Wadi Hayl", en: "Wadi Hayl" },
-    coordinates: { lat: 25.0833, lng: 56.2267 },
+    coords: [56.2267, 25.0833],
     description: {
       de: "Wadi Hayl ist ein markantes Tal in Fujairah, das tief in das Hadschar-Gebirge einschneidet und für seine historische Festung und Felsbilder bekannt ist.",
       hu: "A Wadi Hayl egy jellegzetes völgy Fudzsejrában, amely mélyen benyúlik a Hadzsar-hegységbe, és történelmi erődjéről, valamint sziklarajzairól ismert.",
@@ -679,7 +679,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-tayyibah-relief-v2",
     type: "valley",
     name: { de: "Wadi Tayyibah", hu: "Wadi Tayyibah", ro: "Wadi Tayyibah", en: "Wadi Tayyibah" },
-    coordinates: { lat: 25.3853, lng: 56.1722 },
+    coords: [56.1722, 25.3853],
     description: {
       de: "Wadi Tayyibah ist ein malerisches Tal, das früher die Hauptroute zwischen Masafi und Dibba bildete und heute für seine Terrassengärten bekannt ist.",
       hu: "A Wadi Tayyibah egy festői völgy, amely korábban a Masafi és Dibba közötti főútvonalat alkotta, ma pedig teraszos kertjeiről ismert.",
@@ -698,7 +698,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-shi-relief-v2",
     type: "valley",
     name: { de: "Wadi Shi", hu: "Wadi Shi", ro: "Wadi Shi", en: "Wadi Shi" },
-    coordinates: { lat: 25.3586, lng: 56.3458 },
+    coords: [56.3458, 25.3586],
     description: {
       de: "Wadi Shi ist ein landschaftlich reizvolles Tal oberhalb von Khor Fakkan, das durch den Wadi-Shi-Staudamm und das historische Dorf Al Rafisah geprägt wird.",
       hu: "A Wadi Shi egy látványos völgy Hor Fakkan felett, amelyet a Wadi Shi gát és Al Rafisah történelmi faluja határoz meg.",
@@ -717,7 +717,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-al-aimi-relief-v2",
     type: "valley",
     name: { de: "Wadi Al-Aimi", hu: "Wadi Al-Aimi", ro: "Wadi Al-Aimi", en: "Wadi Al-Aimi" },
-    coordinates: { lat: 24.8389, lng: 56.0683 },
+    coords: [56.0683, 24.8389],
     description: {
       de: "Wadi Al-Aimi ist ein abgelegenes Gebirgstal in der Nähe der Ajman-Enklave Manama, bekannt für seine raue Schönheit und Geologie.",
       hu: "A Wadi Al-Aimi egy elszigetelt hegyi völgy Adzsmán Manama-enklávéja közelében, amely nyers szépségéről és geológiájáról ismert.",
@@ -736,7 +736,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-lasal-relief-v2",
     type: "valley",
     name: { de: "Wadi Lasal", hu: "Wadi Lasal", ro: "Wadi Lasal", en: "Wadi Lasal" },
-    coordinates: { lat: 24.9561, lng: 56.0125 },
+    coords: [56.0125, 24.9561],
     description: {
       de: "Wadi Lasal ist ein weites, flaches Tal südlich von Wadi Shawka, das den Übergang zwischen der Sandwüste und den Hadschar-Bergen markiert.",
       hu: "A Wadi Lasal egy széles, lapos völgy Wadi Shawka déli részén, amely átmenetet képez a homoksivatag és a Hadzsar-hegység között.",
@@ -755,7 +755,7 @@ export const poiExtraUaeReliefV2: POI[] = [
     id: "uae-wadi-khabb-relief-v2",
     type: "valley",
     name: { de: "Wadi Khabb", hu: "Wadi Khabb", ro: "Wadi Khabb", en: "Wadi Khabb" },
-    coordinates: { lat: 25.7511, lng: 56.0536 },
+    coords: [56.0536, 25.7511],
     description: {
       de: "Wadi Khabb ist ein tief eingeschnittenes Kalksteintal im Norden von Ras Al Khaimah, bekannt für seine steilen Klippen und traditionelle Imkerei.",
       hu: "A Wadi Khabb egy mélyen bevágott mészkővölgy Rász el-Haima északi részén, amely meredek szikláiról és hagyományos méhészetéről ismert.",

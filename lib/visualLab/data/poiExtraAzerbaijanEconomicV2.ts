@@ -453,7 +453,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-agdam-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Agdam Industriepark", hu: "Agdami Ipari Park", ro: "Parcul Industrial Agdam", en: "Agdam Industrial Park" },
-    coordinates: { lat: 39.993, lng: 46.931 },
+    coords: [46.931, 39.993],
     description: {
       de: "Dieser Industriepark ist ein zentraler Knotenpunkt für den Wiederaufbau der Region Karabach. Er beherbergt Unternehmen aus den Bereichen Baustoffe und Leichtindustrie.",
       hu: "Ez az ipari park a karabahi régió újjáépítésének központi csomópontja. Építőanyag-ipari és könnyűipari vállalatoknak ad otthont a területen.",
@@ -484,7 +484,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-hajigabul-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Hajigabul", hu: "Hadzsikabuli Ipari Negyed", ro: "Zona Industrială Hajigabul", en: "Hajigabul Industrial Estate" },
-    coordinates: { lat: 40.041, lng: 48.941 },
+    coords: [48.941, 40.041],
     description: {
       de: "Ein bedeutendes Industriezentrum im Osten Aserbaidschans, das auf Automobilbau und Maschinenbau spezialisiert ist. Es liegt verkehrsgünstig an der Autobahn M2.",
       hu: "Jelentős ipari központ Kelet-Azerbajdzsánban, amely autógyártásra és gépgyártásra szakosodott. Kedvező helyen, az M2-es autópálya mentén található.",
@@ -515,7 +515,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-pirallahi-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Pirallahi", hu: "Pirallahi Ipari Park", ro: "Parcul Industrial Pirallahi", en: "Pirallahi Industrial Park" },
-    coordinates: { lat: 40.471, lng: 50.334 },
+    coords: [50.334, 40.471],
     description: {
       de: "Dieser Park auf der Insel Pirallahi ist das Zentrum der aserbaidschanischen Pharmaindustrie. Hier werden Medikamente und medizinische Geräte hergestellt.",
       hu: "A Pirallahi-szigeten található park az azerbajdzsáni gyógyszeripar központja. Itt gyógyszereket és orvosi eszközöket gyártanak.",
@@ -546,7 +546,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-neftchala-industrial-district-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Neftchala", hu: "Neftcsalai Ipari Körzet", ro: "Districtul Industrial Neftchala", en: "Neftchala Industrial District" },
-    coordinates: { lat: 39.362, lng: 49.255 },
+    coords: [49.255, 39.362],
     description: {
       de: "Ein wichtiges Industrieareal, das für die Automobilmontage und die Gewinnung von Jod bekannt ist. Es stärkt die lokale Wirtschaft südlich von Baku.",
       hu: "Fontos ipari terület, amely az autóösszeszerelésről és a jódkitermelésről ismert. Erősíti a helyi gazdaságot Bakutól délre.",
@@ -577,7 +577,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-garadagh-solar-plant-economic-v2",
     type: "energy",
     name: { de: "Solarpark Garadagh", hu: "Garadagi Naperőmű", ro: "Parcul Solar Garadagh", en: "Garadagh Solar Power Plant" },
-    coordinates: { lat: 40.231, lng: 49.521 },
+    coords: [49.521, 40.231],
     description: {
       de: "Das größte Solarkraftwerk der Region mit einer Kapazität von 230 Megawatt. Es ist ein bedeutender Schritt Aserbaidschans in Richtung erneuerbare Energien.",
       hu: "A régió legnagyobb naperőműve, 230 megawattos kapacitással. Azerbajdzsán jelentős lépése a megújuló energiaforrások felé.",
@@ -608,7 +608,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-azerfloat-glass-plant-economic-v2",
     type: "factory",
     name: { de: "Azerfloat Glaswerk", hu: "Azerfloat Üveggyár", ro: "Fabrica de Sticlă Azerfloat", en: "Azerfloat Glass Plant" },
-    coordinates: { lat: 40.598, lng: 49.612 },
+    coords: [49.612, 40.598],
     description: {
       de: "Die erste Fabrik in Aserbaidschan, die Flachglas im Thermo-Verfahren herstellt. Sie befindet sich im Chemie-Industriepark von Sumqayit.",
       hu: "Az első gyár Azerbajdzsánban, amely hőkezeléssel állít elő síküveget. A Szumgajit Vegyipari Park területén található.",
@@ -639,7 +639,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-astara-railway-terminal-economic-v2",
     type: "industry",
     name: { de: "Eisenbahnterminal Astara", hu: "Asztarai Vasúti Terminál", ro: "Terminalul Feroviar Astara", en: "Astara Railway Terminal" },
-    coordinates: { lat: 38.455, lng: 48.877 },
+    coords: [48.877, 38.455],
     description: {
       de: "Ein wichtiger Grenzbahnhof an der Grenze zum Iran, der Teil des Nord-Süd-Verkehrskorridors ist. Er dient dem Umschlag von Waren zwischen Schiene und Straße.",
       hu: "Fontos határállomás az iráni határon, amely az Észak-Dél közlekedési folyosó része. Vasúti és közúti áruk átrakodására szolgál.",
@@ -670,7 +670,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-hovsan-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Hovsan", hu: "Hovsani Kikötő", ro: "Portul Hovsan", en: "Port of Hovsan" },
-    coordinates: { lat: 40.375, lng: 50.088 },
+    coords: [50.088, 40.375],
     description: {
       de: "Ein strategischer Seehafen am Kaspischen Meer, der hauptsächlich für den Export von Baumaterialien und Massengütern genutzt wird. Er entlastet den Haupthafen von Baku.",
       hu: "Stratégiai tengeri kikötő a Kaszpi-tengeren, amelyet főként építőanyagok és ömlesztett áruk exportjára használnak. Tehermentesíti Baku fő kikötőjét.",
@@ -701,7 +701,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-baku-white-city-economic-v2",
     type: "landmark",
     name: { de: "Baku White City", hu: "Baku White City", ro: "Baku White City", en: "Baku White City" },
-    coordinates: { lat: 40.381, lng: 49.888 },
+    coords: [49.888, 40.381],
     description: {
       de: "Eines der weltweit größten ökologischen Stadtentwicklungsprojekte auf dem Gelände des ehemaligen 'Black City'. Es ist ein modernes Geschäfts- und Wohnviertel.",
       hu: "A világ egyik legnagyobb ökológiai városfejlesztési projektje az egykori 'Fekete Város' területén. Modern üzleti és lakónegyed.",
@@ -732,7 +732,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-zangilan-airport-economic-v2",
     type: "industry",
     name: { de: "Flughafen Zangilan", hu: "Zangilani Repülőtér", ro: "Aeroportul Zangilan", en: "Zangilan International Airport" },
-    coordinates: { lat: 39.066, lng: 46.722 },
+    coords: [46.722, 39.066],
     description: {
       de: "Ein neu errichteter internationaler Flughafen, der als Logistikzentrum für die Region Zangilan dient. Er unterstützt die wirtschaftliche Entwicklung im Südwesten.",
       hu: "Újonnan épült nemzetközi repülőtér, amely a zangilani régió logisztikai központjaként szolgál. Támogatja a délnyugati gazdasági fejlődést.",
@@ -763,7 +763,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-fuzuli-airport-economic-v2",
     type: "industry",
     name: { de: "Flughafen Fuzuli", hu: "Fuzuli Repülőtér", ro: "Aeroportul Fuzuli", en: "Fuzuli International Airport" },
-    coordinates: { lat: 39.596, lng: 47.192 },
+    coords: [47.192, 39.596],
     description: {
       de: "Der 'Luftweg nach Karabach' wurde in Rekordzeit erbaut, um die Region für Investitionen und Tourismus zu öffnen. Er ist für große Frachtflugzeuge ausgelegt.",
       hu: "A 'Karabah kapuja' repülőtér rekordidő alatt épült fel, hogy megnyissa a régiót a befektetések és a turizmus előtt. Nagy tehergépek fogadására is alkalmas.",
@@ -794,7 +794,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-balakhany-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Balakhany", hu: "Balakhany Ipari Park", ro: "Parcul Industrial Balakhany", en: "Balakhany Industrial Park" },
-    coordinates: { lat: 40.465, lng: 49.921 },
+    coords: [49.921, 40.465],
     description: {
       de: "Ein moderner Industriekomplex, der auf Recycling und Abfallverwertung spezialisiert ist. Er fördert die grüne Wirtschaft in der Nähe von Baku.",
       hu: "Modern ipari komplexum, amely az újrahasznosításra és a hulladékkezelésre szakosodott. A zöld gazdaságot népszerűsíti Baku közelében.",
@@ -825,7 +825,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-imishli-sugar-refinery-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Imishli", hu: "Imishli Cukorgyár", ro: "Rafinăria de Zahăr Imishli", en: "Imishli Sugar Refinery" },
-    coordinates: { lat: 39.871, lng: 48.061 },
+    coords: [48.061, 39.871],
     description: {
       de: "Die größte Zuckerfabrik im Südkaukasus, die Aserbaidschans Bedarf an Zucker fast vollständig deckt. Sie verarbeitet sowohl Zuckerrüben als auch Rohzucker.",
       hu: "A Dél-Kaukázus legnagyobb cukorgyára, amely szinte teljesen fedezi Azerbajdzsán cukorszükségletét. Cukorrépát és nyerscukrot is feldolgoz.",
@@ -856,7 +856,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-yalama-agropark-economic-v2",
     type: "industry",
     name: { de: "Agropark Yalama", hu: "Yalama Agropark", ro: "Agropark Yalama", en: "Yalama Agricultural Park" },
-    coordinates: { lat: 41.731, lng: 48.655 },
+    coords: [48.655, 41.731],
     description: {
       de: "Ein riesiges landwirtschaftliches Zentrum im Norden Aserbaidschans, das sich auf Milchviehhaltung und Getreideanbau konzentriert. Es nutzt moderne Bewässerungssysteme.",
       hu: "Hatalmas mezőgazdasági központ Észak-Azerbajdzsánban, amely tejtermelésre és gabonatermesztésre összpontosít. Modern öntözőrendszereket használ.",
@@ -887,7 +887,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-khizi-absheron-wind-farm-economic-v2",
     type: "energy",
     name: { de: "Windpark Khizi-Absheron", hu: "Khizi-Absheron Szélerőmű", ro: "Parcul Eolian Khizi-Absheron", en: "Khizi-Absheron Wind Farm" },
-    coordinates: { lat: 40.681, lng: 49.281 },
+    coords: [49.281, 40.681],
     description: {
       de: "Aserbaidschans erstes großes Windkraftprojekt, das sauberen Strom für Tausende Haushalte liefert. Es nutzt die starken Winde der Absheron-Halbinsel.",
       hu: "Azerbajdzsán első nagy szélerőműprojektje, amely tiszta energiát szolgáltat több ezer háztartás számára. Az Absheron-félsziget erős szeleit használja.",
@@ -918,7 +918,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-mingachevir-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Mingachevir", hu: "Mingacseviri Ipari Park", ro: "Parcul Industrial Mingachevir", en: "Mingachevir Industrial Park" },
-    coordinates: { lat: 40.761, lng: 47.051 },
+    coords: [47.051, 40.761],
     description: {
       de: "Ein wichtiges Zentrum für die Textilindustrie, das Garn und Stoffe für den Export produziert. Es wurde geschaffen, um die Industrie in Zentralaserbaidschan zu stärken.",
       hu: "A textilipar fontos központja, amely fonalat és szöveteket gyárt exportra. Közép-Azerbajdzsán iparának erősítésére jött létre.",
@@ -949,7 +949,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-yevlakh-pilot-agropark-economic-v2",
     type: "industry",
     name: { de: "Pilot-Agropark Yevlakh", hu: "Jevlaki Mintagazdaság", ro: "Agropark Pilot Yevlakh", en: "Yevlakh Pilot Agropark" },
-    coordinates: { lat: 40.621, lng: 47.151 },
+    coords: [47.151, 40.621],
     description: {
       de: "Ein Modellprojekt für intensive Landwirtschaft, das Obstgärten und Viehzucht kombiniert. Es dient als Vorbild für die Entwicklung moderner Farmen im Land.",
       hu: "Intenzív mezőgazdasági modellprojekt, amely gyümölcsösöket és állattenyésztést ötvöz. Mintaként szolgál a modern gazdaságok fejlesztéséhez.",
@@ -980,7 +980,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-sabirabad-industrial-district-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Sabirabad", hu: "Sabirabadi Ipari Körzet", ro: "Districtul Industrial Sabirabad", en: "Sabirabad Industrial District" },
-    coordinates: { lat: 39.981, lng: 48.471 },
+    coords: [48.471, 39.981],
     description: {
       de: "Dieses Industriegebiet ist auf die Verarbeitung landwirtschaftlicher Produkte spezialisiert, insbesondere auf die Entkörnung von Baumwolle und Wollverarbeitung.",
       hu: "Ez az ipari körzet mezőgazdasági termékek feldolgozására szakosodott, különösen a gyapot- és gyapjúfeldolgozásra.",
@@ -1011,7 +1011,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-socar-urea-plant-economic-v2",
     type: "factory",
     name: { de: "SOCAR Harnstoffwerk", hu: "SOCAR Karbamid Gyár", ro: "Fabrica de Uree SOCAR", en: "SOCAR Urea Plant" },
-    coordinates: { lat: 40.625, lng: 49.638 },
+    coords: [49.638, 40.625],
     description: {
       de: "Eine hochmoderne Anlage zur Herstellung von Stickstoffdüngemitteln. Das Werk ist ein wichtiger Exporteur und versorgt auch den heimischen Markt.",
       hu: "Korszerű nitrogénműtrágya-gyártó üzem. A gyár fontos exportőr, és a hazai piacot is ellátja termékeivel.",
@@ -1042,7 +1042,7 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "azerbaijan-sumqayit-technologies-park-economic-v2",
     type: "industry",
     name: { de: "Technologiepark Sumqayit (STP)", hu: "Szumgajiti Technológiák Parkja", ro: "Parcul de Tehnologii Sumqayit", en: "Sumqayit Technologies Park" },
-    coordinates: { lat: 40.585, lng: 49.601 },
+    coords: [49.601, 40.585],
     description: {
       de: "Ein riesiger Komplex mit über 30 Fabriken, die alles von Stromkabeln bis hin zu schweren Stahlkonstruktionen produzieren. Er ist das industrielle Herz von Sumqayit.",
       hu: "Hatalmas komplexum több mint 30 gyárral, amelyek az elektromos kábelektől a nehéz acélszerkezetekig mindent gyártanak. Szumgajit ipari szíve.",

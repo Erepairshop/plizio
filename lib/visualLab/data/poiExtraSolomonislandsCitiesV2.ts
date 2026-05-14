@@ -5,7 +5,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-honiara-cities-v2",
     type: "capital",
     name: { de: "Honiara", hu: "Honiara", ro: "Honiara", en: "Honiara" },
-    coordinates: { lat: -9.4333, lng: 159.95 },
+    coords: [159.95, -9.4333],
     description: {
       de: "Die Hauptstadt der Salomonen liegt an der Nordküste von Guadalcanal. Sie ist das politische und wirtschaftliche Zentrum des Archipels.",
       hu: "A Salamon-szigetek fővárosa Guadalcanal északi partján fekszik. Ez az ország politikai és gazdasági központja.",
@@ -24,7 +24,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-auki-cities-v2",
     type: "city",
     name: { de: "Auki", hu: "Auki", ro: "Auki", en: "Auki" },
-    coordinates: { lat: -8.7667, lng: 160.7 },
+    coords: [160.7, -8.7667],
     description: {
       de: "Auki ist die Hauptstadt der Provinz Malaita und eine der größten Städte des Landes. Sie liegt am nördlichen Ende der Langa Langa Lagune.",
       hu: "Auki Malaita tartomány fővárosa és az ország egyik legnagyobb városa. A Langa Langa lagúna északi végén található.",
@@ -43,7 +43,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-gizo-cities-v2",
     type: "city",
     name: { de: "Gizo", hu: "Gizo", ro: "Gizo", en: "Gizo" },
-    coordinates: { lat: -8.1, lng: 156.84 },
+    coords: [156.84, -8.1],
     description: {
       de: "Gizo ist das Verwaltungszentrum der Westprovinz und bekannt für seine touristische Bedeutung. Die Stadt liegt auf der gleichnamigen Insel.",
       hu: "Gizo a Nyugati tartomány közigazgatási központja, amely turisztikai jelentőségéről ismert. A város az azonos nevű szigeten található.",
@@ -62,7 +62,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-noro-cities-v2",
     type: "port",
     name: { de: "Noro", hu: "Noro", ro: "Noro", en: "Noro" },
-    coordinates: { lat: -8.2167, lng: 157.2 },
+    coords: [157.2, -8.2167],
     description: {
       de: "Noro ist eine wichtige Industriestadt in der Westprovinz, die für ihren Tiefwasserhafen bekannt ist. Sie ist das Zentrum der Thunfischverarbeitung.",
       hu: "Noro a Nyugati tartomány jelentős ipari városa, amely mélyvízi kikötőjéről ismert. A tonhal-feldolgozás központja.",
@@ -81,7 +81,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-munda-cities-v2",
     type: "town",
     name: { de: "Munda", hu: "Munda", ro: "Munda", en: "Munda" },
-    coordinates: { lat: -8.3283, lng: 157.2661 },
+    coords: [157.2661, -8.3283],
     description: {
       de: "Munda ist die größte Siedlung auf der Insel New Georgia. Die Stadt ist ein wichtiger Verkehrsknotenpunkt mit einem internationalen Flughafen.",
       hu: "Munda New Georgia szigetének legnagyobb települése. A város fontos közlekedési csomópont nemzetközi repülőtérrel.",
@@ -100,7 +100,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kirakira-cities-v2",
     type: "town",
     name: { de: "Kirakira", hu: "Kirakira", ro: "Kirakira", en: "Kirakira" },
-    coordinates: { lat: -10.45, lng: 161.92 },
+    coords: [161.92, -10.45],
     description: {
       de: "Kirakira ist die Hauptstadt der Provinz Makira-Ulawa. Sie liegt an der Nordküste der Insel Makira, früher bekannt als San Cristobal.",
       hu: "Kirakira Makira-Ulawa tartomány fővárosa. Makira szigetének északi partján található, amelyet korábban San Cristobal néven ismertek.",
@@ -119,7 +119,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-tulagi-cities-v2",
     type: "town",
     name: { de: "Tulagi", hu: "Tulagi", ro: "Tulagi", en: "Tulagi" },
-    coordinates: { lat: -9.0917, lng: 160.15 },
+    coords: [160.15, -9.0917],
     description: {
       de: "Tulagi war die ehemalige Hauptstadt des britischen Protektorats und ist heute die Hauptstadt der Zentralprovinz.",
       hu: "Tulagi a Brit Protektorátus egykori fővárosa volt, ma pedig a Központi tartomány fővárosa.",
@@ -138,7 +138,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-lata-cities-v2",
     type: "town",
     name: { de: "Lata", hu: "Lata", ro: "Lata", en: "Lata" },
-    coordinates: { lat: -10.7167, lng: 165.8 },
+    coords: [165.8, -10.7167],
     description: {
       de: "Lata ist die Hauptstadt der Provinz Temotu auf der Insel Nendo. Sie ist die östlichste Provinzhauptstadt des Landes.",
       hu: "Lata a Temotu tartomány fővárosa Nendo szigetén. Ez az ország legkeletibb tartományi fővárosa.",
@@ -157,7 +157,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-buala-cities-v2",
     type: "town",
     name: { de: "Buala", hu: "Buala", ro: "Buala", en: "Buala" },
-    coordinates: { lat: -8.1444, lng: 159.5917 },
+    coords: [159.5917, -8.1444],
     description: {
       de: "Buala ist die Hauptstadt der Provinz Isabel und liegt an der Maringe-Lagune. Die Siedlung erstreckt sich entlang der Küste.",
       hu: "Buala Isabel tartomány fővárosa, a Maringe-lagúnánál található. A település a tengerpart mentén húzódik.",
@@ -176,7 +176,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-taro-cities-v2",
     type: "town",
     name: { de: "Taro", hu: "Taro", ro: "Taro", en: "Taro" },
-    coordinates: { lat: -6.7111, lng: 156.3972 },
+    coords: [156.3972, -6.7111],
     description: {
       de: "Taro ist die Hauptstadt der Provinz Choiseul und liegt auf einer kleinen Insel in der Choiseul-Bucht.",
       hu: "Taro Choiseul tartomány fővárosa, amely egy kis szigeten található a Choiseul-öbölben.",
@@ -195,7 +195,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-tigoa-cities-v2",
     type: "town",
     name: { de: "Tigoa", hu: "Tigoa", ro: "Tigoa", en: "Tigoa" },
-    coordinates: { lat: -11.6, lng: 160.1667 },
+    coords: [160.1667, -11.6],
     description: {
       de: "Tigoa ist das Verwaltungszentrum der Provinz Rennell und Bellona und liegt auf der Insel Rennell.",
       hu: "Tigoa Rennell és Bellona tartomány közigazgatási központja, amely Rennell szigetén található.",
@@ -214,7 +214,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-maluu-cities-v2",
     type: "town",
     name: { de: "Malu'u", hu: "Malu'u", ro: "Malu'u", en: "Malu'u" },
-    coordinates: { lat: -8.35, lng: 160.65 },
+    coords: [160.65, -8.35],
     description: {
       de: "Malu'u ist eine bedeutende Siedlung im Norden der Insel Malaita, die als regionales Bildungs- und Handelszentrum dient.",
       hu: "Malu'u egy jelentős település Malaita szigetének északi részén, amely regionális oktatási és kereskedelmi központként szolgál.",
@@ -233,7 +233,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-seghe-cities-v2",
     type: "village",
     name: { de: "Seghe", hu: "Seghe", ro: "Seghe", en: "Seghe" },
-    coordinates: { lat: -8.58, lng: 157.87 },
+    coords: [157.87, -8.58],
     description: {
       de: "Seghe ist ein wichtiger Verkehrsknotenpunkt an der Südspitze der Insel New Georgia in der Westprovinz.",
       hu: "Seghe fontos közlekedési csomópont New Georgia szigetének déli csücskén, a Nyugati tartományban.",
@@ -252,7 +252,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ringgi-cities-v2",
     type: "industry",
     name: { de: "Ringgi", hu: "Ringgi", ro: "Ringgi", en: "Ringgi" },
-    coordinates: { lat: -8.12, lng: 157.12 },
+    coords: [157.12, -8.12],
     description: {
       de: "Ringgi ist eine Industriesiedlung auf der Insel Kolombangara, die hauptsächlich für forstwirtschaftliche Aktivitäten bekannt ist.",
       hu: "Ringgi egy ipari település Kolombangara szigetén, amely főként erdészeti tevékenységeiről ismert.",
@@ -271,7 +271,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-sasamungga-cities-v2",
     type: "village",
     name: { de: "Sasamungga", hu: "Sasamungga", ro: "Sasamungga", en: "Sasamungga" },
-    coordinates: { lat: -7.04, lng: 156.76 },
+    coords: [156.76, -7.04],
     description: {
       de: "Sasamungga ist eine bedeutende Siedlung an der Südwestküste der Insel Choiseul und ein Zentrum der Vereinten Kirche.",
       hu: "Sasamungga egy jelentős település Choiseul szigetének délnyugati partján, az Egyesült Egyház egyik központja.",
@@ -290,7 +290,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-marau-cities-v2",
     type: "village",
     name: { de: "Marau", hu: "Marau", ro: "Marau", en: "Marau" },
-    coordinates: { lat: -9.85, lng: 160.85 },
+    coords: [160.85, -9.85],
     description: {
       de: "Marau liegt am östlichen Ende von Guadalcanal und ist für seinen Sound und die zahlreichen kleinen Inseln bekannt.",
       hu: "Marau Guadalcanal keleti végén található, híres tengerszorosáról és a számos kis szigetről.",
@@ -309,7 +309,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-tenaru-cities-v2",
     type: "village",
     name: { de: "Tenaru", hu: "Tenaru", ro: "Tenaru", en: "Tenaru" },
-    coordinates: { lat: -9.44, lng: 160.1 },
+    coords: [160.1, -9.44],
     description: {
       de: "Tenaru ist ein Ort östlich von Honiara, der historisch durch die Schlachten am Tenaru-Fluss im Zweiten Weltkrieg bekannt wurde.",
       hu: "Tenaru egy Honiarától keletre fekvő helyszín, amely történelmileg a második világháborús Tenaru-folyó menti csatákról ismert.",
@@ -328,7 +328,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-visale-cities-v2",
     type: "village",
     name: { de: "Visale", hu: "Visale", ro: "Visale", en: "Visale" },
-    coordinates: { lat: -9.3, lng: 159.7 },
+    coords: [159.7, -9.3],
     description: {
       de: "Visale ist eine historische katholische Missionsstation an der Westspitze von Guadalcanal mit einer markanten Kirche.",
       hu: "Visale egy történelmi katolikus missziós állomás Guadalcanal nyugati csücskén, jellegzetes templommal.",
@@ -347,7 +347,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-fera-cities-v2",
     type: "village",
     name: { de: "Fera", hu: "Fera", ro: "Fera", en: "Fera" },
-    coordinates: { lat: -8.1, lng: 159.6 },
+    coords: [159.6, -8.1],
     description: {
       de: "Fera ist eine kleine Insel gegenüber von Buala, die den wichtigsten Flugplatz der Provinz Isabel beherbergt.",
       hu: "Fera egy kis sziget Bualával szemben, ahol Isabel tartomány fő repülőtere található.",
@@ -366,7 +366,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-afutara-cities-v2",
     type: "village",
     name: { de: "Afutara", hu: "Afutara", ro: "Afutara", en: "Afutara" },
-    coordinates: { lat: -9.2, lng: 161.0 },
+    coords: [161.0, -9.2],
     description: {
       de: "Afutara ist eine Missionsstation und Siedlung an der Westküste von Malaita, bekannt für ihr landwirtschaftliches Zentrum.",
       hu: "Afutara egy missziós állomás és település Malaita nyugati partján, amely mezőgazdasági központjáról ismert.",
@@ -385,7 +385,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-mono-cities-v2",
     type: "village",
     name: { de: "Mono", hu: "Mono", ro: "Mono", en: "Mono" },
-    coordinates: { lat: -7.35, lng: 155.55 },
+    coords: [155.55, -7.35],
     description: {
       de: "Mono ist die größte Siedlung auf den Treasury-Inseln und liegt im äußersten Westen der Salomonen.",
       hu: "Mono a Treasury-szigetek legnagyobb települése, a Salamon-szigetek távoli nyugati részén.",
@@ -404,7 +404,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-lambi-cities-v2",
     type: "village",
     name: { de: "Lambi", hu: "Lambi", ro: "Lambi", en: "Lambi" },
-    coordinates: { lat: -9.6, lng: 159.6 },
+    coords: [159.6, -9.6],
     description: {
       de: "Lambi ist eine Küstensiedlung an der Westküste von Guadalcanal, bekannt für ihre traditionellen Gemeinschaften.",
       hu: "Lambi egy parti település Guadalcanal nyugati partján, amely hagyományos közösségeiről ismert.",
@@ -423,7 +423,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-aola-cities-v2",
     type: "village",
     name: { de: "Aola", hu: "Aola", ro: "Aola", en: "Aola" },
-    coordinates: { lat: -9.53, lng: 160.48 },
+    coords: [160.48, -9.53],
     description: {
       de: "Aola ist eine Siedlung an der Nordostküste von Guadalcanal, die historisch als Stützpunkt während des Krieges diente.",
       hu: "Aola egy település Guadalcanal északkeleti partján, amely történelmileg bázisként szolgált a háború alatt.",
@@ -442,7 +442,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-atulagi-cities-v2",
     type: "village",
     name: { de: "A-Tulagi", hu: "A-Tulagi", ro: "A-Tulagi", en: "A-Tulagi" },
-    coordinates: { lat: -9.1, lng: 160.14 },
+    coords: [160.14, -9.1],
     description: {
       de: "Die Umgebung von Tulagi umfasst mehrere kleine Inselsiedlungen in der Provinz Central.",
       hu: "Tulagi környéke számos kis szigeti települést foglal magában a Központi tartományban.",
@@ -461,7 +461,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-fauabu-cities-v2",
     type: "village",
     name: { de: "Fauabu", hu: "Fauabu", ro: "Fauabu", en: "Fauabu" },
-    coordinates: { lat: -8.8, lng: 160.75 },
+    coords: [160.75, -8.8],
     description: {
       de: "Fauabu ist eine Missionsstation an der Westküste von Malaita, die für ihr bedeutendes Krankenhaus bekannt ist.",
       hu: "Fauabu egy missziós állomás Malaita nyugati partján, amely jelentős kórházáról ismert.",
@@ -480,7 +480,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-atori-cities-v2",
     type: "village",
     name: { de: "Atori", hu: "Atori", ro: "Atori", en: "Atori" },
-    coordinates: { lat: -8.9, lng: 161.1 },
+    coords: [161.1, -8.9],
     description: {
       de: "Atori ist ein wichtiges Handelszentrum an der Ostküste von Malaita und Endpunkt der Straße von Auki.",
       hu: "Atori fontos kereskedelmi központ Malaita keleti partján, az Aukiból induló út végpontja.",
@@ -499,7 +499,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-afio-cities-v2",
     type: "village",
     name: { de: "Afio", hu: "Afio", ro: "Afio", en: "Afio" },
-    coordinates: { lat: -9.6, lng: 161.4 },
+    coords: [161.4, -9.6],
     description: {
       de: "Afio ist eine bedeutende Siedlung an der Maramasike-Passage im Süden von Malaita.",
       hu: "Afio egy jelentős település a Maramasike-szorosnál, Malaita déli részén.",
@@ -518,7 +518,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-choiseulbay-cities-v2",
     type: "port",
     name: { de: "Choiseul Bay", hu: "Choiseul Bay", ro: "Choiseul Bay", en: "Choiseul Bay" },
-    coordinates: { lat: -6.7, lng: 156.4 },
+    coords: [156.4, -6.7],
     description: {
       de: "Choiseul Bay ist der Haupthafen und Zugangspunkt zur Provinz Choiseul im Nordwesten des Landes.",
       hu: "Choiseul Bay az ország északnyugati részén fekvő Choiseul tartomány fő kikötője és belépési pontja.",
@@ -537,7 +537,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kukudu-cities-v2",
     type: "village",
     name: { de: "Kukudu", hu: "Kukudu", ro: "Kukudu", en: "Kukudu" },
-    coordinates: { lat: -8.15, lng: 156.95 },
+    coords: [156.95, -8.15],
     description: {
       de: "Kukudu ist eine bekannte Siedlung der Siebenten-Tags-Adventisten auf der Insel Kolombangara.",
       hu: "Kukudu a Hetednapi Adventista Egyház ismert települése Kolombangara szigetén.",
@@ -556,7 +556,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-tetere-cities-v2",
     type: "village",
     name: { de: "Tetere", hu: "Tetere", ro: "Tetere", en: "Tetere" },
-    coordinates: { lat: -9.48, lng: 160.25 },
+    coords: [160.25, -9.48],
     description: {
       de: "Tetere ist eine landwirtschaftliche Siedlung östlich von Honiara, bekannt für ihre großen Plantagen.",
       hu: "Tetere egy mezőgazdasági település Honiarától keletre, nagy ültetvényeiről ismert.",
@@ -575,7 +575,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-maru-cities-v2",
     type: "village",
     name: { de: "Maru", hu: "Maru", ro: "Maru", en: "Maru" },
-    coordinates: { lat: -8.1, lng: 156.8 },
+    coords: [156.8, -8.1],
     description: {
       de: "Maru ist eine Küstengemeinde in der Nähe von Gizo, die für ihre traditionelle Fischerei bekannt ist.",
       hu: "Maru egy Gizo közelében fekvő tengerparti közösség, amely hagyományos halászatáról ismert.",
@@ -594,7 +594,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ringgi-cove-cities-v2",
     type: "village",
     name: { de: "Ringgi Cove", hu: "Ringgi Cove", ro: "Ringgi Cove", en: "Ringgi Cove" },
-    coordinates: { lat: -8.13, lng: 157.11 },
+    coords: [157.11, -8.13],
     description: {
       de: "Ringgi Cove ist eine Siedlung an der Westküste von Kolombangara, die als Basis für die Holzwirtschaft dient.",
       hu: "Ringgi Cove egy település Kolombangara nyugati partján, amely az erdőgazdálkodás bázisául szolgál.",
@@ -613,7 +613,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-susubona-cities-v2",
     type: "village",
     name: { de: "Susubona", hu: "Susubona", ro: "Susubona", en: "Susubona" },
-    coordinates: { lat: -8.2, lng: 159.6 },
+    coords: [159.6, -8.2],
     description: {
       de: "Susubona ist eine Siedlung auf der Insel Isabel, bekannt für ihre traditionelle Kultur und Handwerkskunst.",
       hu: "Susubona egy település Isabel szigetén, amely hagyományos kultúrájáról és kézművességéről ismert.",
@@ -632,7 +632,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kaevanga-cities-v2",
     type: "village",
     name: { de: "Kaevanga", hu: "Kaevanga", ro: "Kaevanga", en: "Kaevanga" },
-    coordinates: { lat: -8.5, lng: 157.5 },
+    coords: [157.5, -8.5],
     description: {
       de: "Kaevanga ist eine ländliche Siedlung in der Westprovinz, die für ihre landwirtschaftliche Produktion bekannt ist.",
       hu: "Kaevanga egy vidéki település a Nyugati tartományban, amely mezőgazdasági termeléséről ismert.",
@@ -651,7 +651,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-viruharbour-cities-v2",
     type: "port",
     name: { de: "Viru Harbour", hu: "Viru Harbour", ro: "Viru Harbour", en: "Viru Harbour" },
-    coordinates: { lat: -8.5, lng: 157.75 },
+    coords: [157.75, -8.5],
     description: {
       de: "Viru Harbour ist ein natürlicher Tiefwasserhafen auf der Insel New Georgia, der eine wichtige Rolle in der lokalen Wirtschaft spielt.",
       hu: "Viru Harbour egy természetes mélyvízi kikötő New Georgia szigetén, amely fontos szerepet játszik a helyi gazdaságban.",
@@ -670,7 +670,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-batuna-cities-v2",
     type: "village",
     name: { de: "Batuna", hu: "Batuna", ro: "Batuna", en: "Batuna" },
-    coordinates: { lat: -8.6, lng: 158.1 },
+    coords: [158.1, -8.6],
     description: {
       de: "Batuna ist eine Missionsstation der Siebenten-Tags-Adventisten in der Marovo-Lagune, bekannt für ihre Berufsbildung.",
       hu: "Batuna a Hetednapi Adventista Egyház missziós állomása a Marovo-lagúnában, szakképzéséről ismert.",
@@ -689,7 +689,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ramasatu-cities-v2",
     type: "village",
     name: { de: "Ramasatu", hu: "Ramasatu", ro: "Ramasatu", en: "Ramasatu" },
-    coordinates: { lat: -9.5, lng: 161.5 },
+    coords: [161.5, -9.5],
     description: {
       de: "Ramasatu ist eine Siedlung im Süden von Malaita, die für ihre starke Gemeinschaft und Landwirtschaft bekannt ist.",
       hu: "Ramasatu egy település Malaita déli részén, amely erős közösségéről és mezőgazdaságáról ismert.",
@@ -708,7 +708,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-avuavu-cities-v2",
     type: "village",
     name: { de: "Avu Avu", hu: "Avu Avu", ro: "Avu Avu", en: "Avu Avu" },
-    coordinates: { lat: -9.8, lng: 160.4 },
+    coords: [160.4, -9.8],
     description: {
       de: "Avu Avu ist eine Siedlung an der Wetterküste von Guadalcanal, die als Zugangspunkt zu den abgelegenen südlichen Regionen dient.",
       hu: "Avu Avu egy település Guadalcanal déli (Weather Coast) partján, amely a távoli déli régiók belépési pontjaként szolgál.",
@@ -727,7 +727,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-mbabanakira-cities-v2",
     type: "village",
     name: { de: "Mbabanakira", hu: "Mbabanakira", ro: "Mbabanakira", en: "Mbabanakira" },
-    coordinates: { lat: -9.75, lng: 159.85 },
+    coords: [159.85, -9.75],
     description: {
       de: "Mbabanakira ist eine isolierte Siedlung an der Südwestküste von Guadalcanal, umgeben von dichten Regenwäldern.",
       hu: "Mbabanakira egy elszigetelt település Guadalcanal délnyugati partján, sűrű esőerdőkkel körülvéve.",
@@ -746,7 +746,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-aruligo-cities-v2",
     type: "village",
     name: { de: "Aruligo", hu: "Aruligo", ro: "Aruligo", en: "Aruligo" },
-    coordinates: { lat: -9.35, lng: 159.8 },
+    coords: [159.8, -9.35],
     description: {
       de: "Aruligo ist eine wachsende ländliche Gemeinde nordwestlich von Honiara, bekannt für ihre Landwirtschaft.",
       hu: "Aruligo egy növekvő vidéki közösség Honiarától északnyugatra, mezőgazdaságáról ismert.",
@@ -765,7 +765,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-koli-cities-v2",
     type: "village",
     name: { de: "Koli", hu: "Koli", ro: "Koli", en: "Koli" },
-    coordinates: { lat: -9.45, lng: 160.15 },
+    coords: [160.15, -9.45],
     description: {
       de: "Koli ist ein bedeutendes landwirtschaftliches Gebiet östlich von Honiara, das für seine Ölpalmen- und Reisproduktion bekannt ist.",
       hu: "Koli egy jelentős mezőgazdasági terület Honiarától keletre, olajpálma- és rizstermeléséről ismert.",
@@ -784,7 +784,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-lungga-cities-v2",
     type: "town",
     name: { de: "Lungga", hu: "Lungga", ro: "Lungga", en: "Lungga" },
-    coordinates: { lat: -9.43, lng: 160.03 },
+    coords: [160.03, -9.43],
     description: {
       de: "Lungga ist eine Industrie- und Wohnsiedlung am östlichen Rand von Honiara, am gleichnamigen Fluss gelegen.",
       hu: "Lungga egy ipari és lakótelepülés Honiara keleti szélén, az azonos nevű folyó mellett.",
@@ -803,7 +803,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kolipoint-cities-v2",
     type: "village",
     name: { de: "Koli Point", hu: "Koli Point", ro: "Koli Point", en: "Koli Point" },
-    coordinates: { lat: -9.4, lng: 160.1 },
+    coords: [160.1, -9.4],
     description: {
       de: "Koli Point ist ein markanter Küstenabschnitt und eine Siedlung, die für ihre Geschichte im Zweiten Weltkrieg bekannt ist.",
       hu: "Koli Point egy jellegzetes tengerparti szakasz és település, amely a második világháborús történelméről ismert.",
@@ -822,7 +822,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-redbeach-cities-v2",
     type: "village",
     name: { de: "Red Beach", hu: "Red Beach", ro: "Red Beach", en: "Red Beach" },
-    coordinates: { lat: -9.42, lng: 160.12 },
+    coords: [160.12, -9.42],
     description: {
       de: "Red Beach ist eine Siedlung an der Küste von Guadalcanal, benannt nach den alliierten Landezonen im Jahr 1942.",
       hu: "Red Beach egy település Guadalcanal partján, amely az 1942-es szövetséges partraszállási zónákról kapta a nevét.",
@@ -841,7 +841,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kia-cities-v2",
     type: "village",
     name: { de: "Kia", hu: "Kia", ro: "Kia", en: "Kia" },
-    coordinates: { lat: -7.5, lng: 158.5 },
+    coords: [158.5, -7.5],
     description: {
       de: "Kia ist eine abgelegene Siedlung im Norden der Insel Isabel, bekannt für ihre Seefahrtstradition.",
       hu: "Kia egy távoli település Isabel szigetének északi részén, amely tengerészeti hagyományairól ismert.",
@@ -860,7 +860,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-allardyce-cities-v2",
     type: "village",
     name: { de: "Allardyce", hu: "Allardyce", ro: "Allardyce", en: "Allardyce" },
-    coordinates: { lat: -7.8, lng: 159.2 },
+    coords: [159.2, -7.8],
     description: {
       de: "Allardyce ist eine Siedlung an der Nordküste von Isabel, die hauptsächlich für die Forstwirtschaft genutzt wird.",
       hu: "Allardyce egy település Isabel északi partján, amelyet főként erdőgazdálkodásra használnak.",
@@ -879,7 +879,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-dadali-cities-v2",
     type: "village",
     name: { de: "Dadali", hu: "Dadali", ro: "Dadali", en: "Dadali" },
-    coordinates: { lat: -7.9, lng: 159.0 },
+    coords: [159.0, -7.9],
     description: {
       de: "Dadali ist eine traditionelle Siedlung auf Isabel, die für ihre kulturelle Bedeutung bekannt ist.",
       hu: "Dadali egy hagyományos település Isabelen, amely kulturális jelentőségéről ismert.",
@@ -898,7 +898,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-baolo-cities-v2",
     type: "village",
     name: { de: "Baolo", hu: "Baolo", ro: "Baolo", en: "Baolo" },
-    coordinates: { lat: -7.6, lng: 158.6 },
+    coords: [158.6, -7.6],
     description: {
       de: "Baolo ist eine Küstensiedlung auf Isabel, die als regionales Zentrum für Bildung und Religion dient.",
       hu: "Baolo egy tengerparti település Isabelen, amely regionális oktatási és vallási központként szolgál.",
@@ -917,7 +917,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ghatere-cities-v2",
     type: "village",
     name: { de: "Ghatere", hu: "Ghatere", ro: "Ghatere", en: "Ghatere" },
-    coordinates: { lat: -7.8, lng: 158.8 },
+    coords: [158.8, -7.8],
     description: {
       de: "Ghatere ist eine kleine Siedlung an der Küste von Isabel, bekannt für ihren Fischreichtum.",
       hu: "Ghatere egy kis település Isabel partján, amely halgazdagságáról ismert.",
@@ -936,7 +936,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-sirovai-cities-v2",
     type: "village",
     name: { de: "Sirovai", hu: "Sirovai", ro: "Sirovai", en: "Sirovai" },
-    coordinates: { lat: -6.9, lng: 156.6 },
+    coords: [156.6, -6.9],
     description: {
       de: "Sirovai ist eine ländliche Gemeinde auf der Insel Choiseul, die für ihren starken Gemeinschaftssinn bekannt ist.",
       hu: "Sirovai egy vidéki közösség Choiseul szigetén, amely erős közösségi szelleméről ismert.",
@@ -955,7 +955,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-moli-cities-v2",
     type: "village",
     name: { de: "Moli", hu: "Moli", ro: "Moli", en: "Moli" },
-    coordinates: { lat: -6.75, lng: 156.45 },
+    coords: [156.45, -6.75],
     description: {
       de: "Moli ist eine Siedlung auf der Insel Moli, direkt vor der Küste von Choiseul gelegen.",
       hu: "Moli egy település Moli szigetén, közvetlenül Choiseul partjainál.",
@@ -974,7 +974,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kumboro-cities-v2",
     type: "village",
     name: { de: "Kumboro", hu: "Kumboro", ro: "Kumboro", en: "Kumboro" },
-    coordinates: { lat: -6.6, lng: 156.55 },
+    coords: [156.55, -6.6],
     description: {
       de: "Kumboro ist eine abgelegene Siedlung im Norden von Choiseul, bekannt für ihre unberührte Natur.",
       hu: "Kumboro egy távoli település Choiseul északi részén, érintetlen természetéről ismert.",
@@ -993,7 +993,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-buni-cities-v2",
     type: "village",
     name: { de: "Buni", hu: "Buni", ro: "Buni", en: "Buni" },
-    coordinates: { lat: -8.25, lng: 157.3 },
+    coords: [157.3, -8.25],
     description: {
       de: "Buni ist eine Küstensiedlung in der Westprovinz, bekannt für ihre landschaftliche Schönheit.",
       hu: "Buni egy tengerparti település a Nyugati tartományban, természeti szépségéről ismert.",
@@ -1012,7 +1012,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ballalae-cities-v2",
     type: "village",
     name: { de: "Ballalae", hu: "Ballalae", ro: "Ballalae", en: "Ballalae" },
-    coordinates: { lat: -6.99, lng: 155.88 },
+    coords: [155.88, -6.99],
     description: {
       de: "Ballalae ist eine Inselgemeinde im Shortland-Archipel, berühmt für die Relikte aus dem Zweiten Weltkrieg.",
       hu: "Ballalae egy szigeti közösség a Shortland-szigetcsoportban, híres a második világháborús ereklyékről.",
@@ -1031,7 +1031,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-uepi-cities-v2",
     type: "village",
     name: { de: "Uepi", hu: "Uepi", ro: "Uepi", en: "Uepi" },
-    coordinates: { lat: -8.4, lng: 157.9 },
+    coords: [157.9, -8.4],
     description: {
       de: "Uepi ist eine kleine Inselsiedlung am Rand der Marovo-Lagune, bekannt für erstklassigen Tauchtourismus.",
       hu: "Uepi egy kis szigeti település a Marovo-lagúna szélén, első osztályú búvárturizmusáról ismert.",
@@ -1050,7 +1050,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-nairatonga-cities-v2",
     type: "village",
     name: { de: "Nairatonga", hu: "Nairatonga", ro: "Nairatonga", en: "Nairatonga" },
-    coordinates: { lat: -9.5, lng: 160.5 },
+    coords: [160.5, -9.5],
     description: {
       de: "Nairatonga ist eine ländliche Siedlung im Osten von Guadalcanal, bekannt für ihre traditionellen Gemeinschaftsstrukturen.",
       hu: "Nairatonga egy vidéki település Kelet-Guadalcanalon, hagyományos közösségi struktúráiról ismert.",
@@ -1069,7 +1069,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-pangoe-cities-v2",
     type: "village",
     name: { de: "Pangoe", hu: "Pangoe", ro: "Pangoe", en: "Pangoe" },
-    coordinates: { lat: -7.0, lng: 156.8 },
+    coords: [156.8, -7.0],
     description: {
       de: "Pangoe ist eine Küstensiedlung auf der Insel Choiseul, die für ihre Seefahrtskompetenz bekannt ist.",
       hu: "Pangoe egy tengerparti település Choiseul szigetén, amely tengerészeti szakértelméről ismert.",
@@ -1088,7 +1088,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-rohinari-cities-v2",
     type: "village",
     name: { de: "Rohinari", hu: "Rohinari", ro: "Rohinari", en: "Rohinari" },
-    coordinates: { lat: -9.45, lng: 161.3 },
+    coords: [161.3, -9.45],
     description: {
       de: "Rohinari ist eine katholische Missionsstation und Siedlung im Süden der Insel Malaita.",
       hu: "Rohinari egy katolikus missziós állomás és település Malaita szigetének déli részén.",
@@ -1107,7 +1107,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-kia-islet-cities-v2",
     type: "village",
     name: { de: "Kia Islet", hu: "Kia Islet", ro: "Kia Islet", en: "Kia Islet" },
-    coordinates: { lat: -7.51, lng: 158.51 },
+    coords: [158.51, -7.51],
     description: {
       de: "Kia Islet ist eine markante Inselsiedlung, die für ihre Stelzenhäuser über dem Meer bekannt ist.",
       hu: "Kia Islet egy jellegzetes szigeti település, amely a tenger fölé épített cölöpházairól ismert.",
@@ -1126,7 +1126,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-tangarahe-cities-v2",
     type: "village",
     name: { de: "Tangarahe", hu: "Tangarahe", ro: "Tangarahe", en: "Tangarahe" },
-    coordinates: { lat: -9.7, lng: 160.0 },
+    coords: [160.0, -9.7],
     description: {
       de: "Tangarahe ist eine Siedlung an der Wetterküste von Guadalcanal, bekannt für ihre dramatischen Berglandschaften.",
       hu: "Tangarahe egy település Guadalcanal déli partján, drámai hegyi tájairól ismert.",
@@ -1145,7 +1145,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-ruasura-cities-v2",
     type: "village",
     name: { de: "Rua Sura", hu: "Rua Sura", ro: "Rua Sura", en: "Rua Sura" },
-    coordinates: { lat: -9.5, lng: 160.6 },
+    coords: [160.6, -9.5],
     description: {
       de: "Rua Sura ist eine kleine Inselsiedlung vor der Küste von Guadalcanal, bekannt für ihre Korallenriffe.",
       hu: "Rua Sura egy kis szigeti település Guadalcanal partjainál, korallzátonyairól ismert.",
@@ -1164,7 +1164,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-maringe-cities-v2",
     type: "village",
     name: { de: "Maringe", hu: "Maringe", ro: "Maringe", en: "Maringe" },
-    coordinates: { lat: -8.15, lng: 159.65 },
+    coords: [159.65, -8.15],
     description: {
       de: "Maringe ist ein bedeutendes Gebiet auf Isabel, das mehrere Küstensiedlungen entlang der Lagune umfasst.",
       hu: "Maringe egy jelentős terület Isabelen, amely számos tengerparti települést foglal magában a lagúna mentén.",
@@ -1183,7 +1183,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-poitete-cities-v2",
     type: "village",
     name: { de: "Poitete", hu: "Poitete", ro: "Poitete", en: "Poitete" },
-    coordinates: { lat: -8.04, lng: 157.17 },
+    coords: [157.17, -8.04],
     description: {
       de: "Poitete ist eine kleine Siedlung auf der Insel Kolombangara, die hauptsächlich für die Forstwirtschaft genutzt wird.",
       hu: "Poitete egy kis település Kolombangara szigetén, amelyet főként erdőgazdálkodásra használnak.",
@@ -1202,7 +1202,7 @@ export const solomonislandsCitiesV2: POI[] = [
     id: "solomonislands-nairatonga-east-cities-v2",
     type: "village",
     name: { de: "Nairatonga-Ost", hu: "Nairatonga-Kelet", ro: "Nairatonga-Est", en: "Nairatonga-East" },
-    coordinates: { lat: -9.51, lng: 160.51 },
+    coords: [160.51, -9.51],
     description: {
       de: "Nairatonga-Ost ist ein Teil der größeren Nairatonga-Gemeinschaft im Osten von Guadalcanal.",
       hu: "Nairatonga-Kelet a nagyobb nairatongai közösség része Kelet-Guadalcanalon.",

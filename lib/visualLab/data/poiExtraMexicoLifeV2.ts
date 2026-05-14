@@ -1146,7 +1146,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-cumbres-monterrey-life-v2",
     type: "park",
     name: { de: "Nationalpark Cumbres de Monterrey", hu: "Cumbres de Monterrey Nemzeti Park", ro: "Parcul Național Cumbres de Monterrey", en: "Cumbres de Monterrey National Park" },
-    coordinates: { lat: 25.5667, lng: -100.35 },
+    coords: [-100.35, 25.5667],
     description: {
       de: "Dieser Nationalpark erstreckt sich über die Sierra Madre Oriental nahe Monterrey. Er umfasst bedeutende Gebirgsökosysteme und tiefe Canyons.",
       hu: "Ez a nemzeti park a Monterrey melletti Sierra Madre Oriental hegységben terül el. Jelentős hegyi ökoszisztémákat és mély kanyonokat foglal magában.",
@@ -1165,7 +1165,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-zoologico-leon-life-v2",
     type: "wildlife",
     name: { de: "Zoologischer Garten León", hu: "Leóni Állatkert", ro: "Grădina Zoologică din León", en: "León Zoo" },
-    coordinates: { lat: 21.1895, lng: -101.6212 },
+    coords: [-101.6212, 21.1895],
     description: {
       de: "Der Zoo in León beherbergt eine Vielzahl von Tierarten aus verschiedenen Kontinenten. Er dient der Bildung und dem Artenschutz in der Region Guanajuato.",
       hu: "A leóni állatkert különféle kontinensekről származó állatfajoknak ad otthont. Oktatási és fajmegőrzési célt szolgál Guanajuato régióban.",
@@ -1184,7 +1184,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-lagunas-de-zempoala-life-v2",
     type: "park",
     name: { de: "Nationalpark Lagunas de Zempoala", hu: "Lagunas de Zempoala Nemzeti Park", ro: "Parcul Național Lagunas de Zempoala", en: "Lagunas de Zempoala National Park" },
-    coordinates: { lat: 19.03, lng: -99.3167 },
+    coords: [-99.3167, 19.03],
     description: {
       de: "Dieser Park liegt in einer hochgelegenen Region zwischen Morelos und dem Bundesdistrikt. Er ist bekannt für seine Bergseen und Nadelwälder.",
       hu: "Ez a park egy magasan fekvő régióban található Morelos és a szövetségi körzet között. Hegyi tavairól és tűlevelű erdőiről ismert.",
@@ -1203,7 +1203,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-jardin-botanico-charco-del-ingenio-life-v2",
     type: "park",
     name: { de: "Botanischer Garten El Charco del Ingenio", hu: "El Charco del Ingenio Botanikus Kert", ro: "Grădina Botanică El Charco del Ingenio", en: "El Charco del Ingenio Botanical Garden" },
-    coordinates: { lat: 20.9195, lng: -100.7328 },
+    coords: [-100.7328, 20.9195],
     description: {
       de: "Das Reservat nahe San Miguel de Allende schützt einheimische Flora und Sukkulenten. Es integriert ökologische Erhaltung mit historischem Kulturerbe.",
       hu: "A San Miguel de Allende melletti rezervátum a helyi növényvilágot és a pozsgásokat védi. Összekapcsolja az ökológiai megőrzést a történelmi örökséggel.",
@@ -1222,7 +1222,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-reserva-biosfera-pinacate-life-v2",
     type: "wildlife",
     name: { de: "Biosphärenreservat El Pinacate und Gran Desierto de Altar", hu: "El Pinacate és Gran Desierto de Altar Bioszféra-rezervátum", ro: "Rezervația Biosferei El Pinacate și Gran Desierto de Altar", en: "El Pinacate and Gran Desierto de Altar Biosphere Reserve" },
-    coordinates: { lat: 31.85, lng: -113.5 },
+    coords: [-113.5, 31.85],
     description: {
       de: "Dieses UNESCO-Welterbe in Sonora zeichnet sich durch vulkanische Landschaften und riesige Sanddünen aus. Es beherbergt eine einzigartige Wüstenfauna.",
       hu: "Ez a Sonorában található UNESCO-világörökségi helyszín vulkanikus tájairól és hatalmas homokdűnéiről nevezetes. Egyedi sivatagi állatvilágnak ad otthont.",
@@ -1241,7 +1241,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-iztaccihuatl-popocatepetl-life-v2",
     type: "park",
     name: { de: "Nationalpark Iztaccíhuatl-Popocatépetl", hu: "Iztaccíhuatl-Popocatépetl Nemzeti Park", ro: "Parcul Național Iztaccíhuatl-Popocatépetl", en: "Iztaccíhuatl-Popocatépetl National Park" },
-    coordinates: { lat: 19.1667, lng: -98.6667 },
+    coords: [-98.6667, 19.1667],
     description: {
       de: "Der Park schützt die Umgebung um zwei der höchsten Vulkane Mexikos. Er dient als wichtiges Ökosystem für hochgelegene Bergwälder.",
       hu: "A park Mexikó két legmagasabb vulkánjának környezetét védi. Fontos ökoszisztémaként szolgál a magashegyi erdők számára.",
@@ -1260,7 +1260,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-cumbres-de-ajusco-life-v2",
     type: "park",
     name: { de: "Nationalpark Cumbres de Ajusco", hu: "Cumbres de Ajusco Nemzeti Park", ro: "Parcul Național Cumbres de Ajusco", en: "Cumbres de Ajusco National Park" },
-    coordinates: { lat: 19.214, lng: -99.255 },
+    coords: [-99.255, 19.214],
     description: {
       de: "Dieser Park liegt südlich von Mexiko-Stadt und umfasst bergige Gebiete mit Nadelwäldern. Er ist ein wichtiges Naherholungsgebiet der Hauptstadt.",
       hu: "Ez a park Mexikóvárostól délre fekszik, és tűlevelű erdőkkel borított hegyvidéki területeket foglal magában. A főváros fontos rekreációs területe.",
@@ -1279,7 +1279,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-zoologico-guadalajara-wildlife-v2",
     type: "wildlife",
     name: { de: "Zoologischer Garten Guadalajara", hu: "Guadalajarai Állatkert", ro: "Grădina Zoologică din Guadalajara", en: "Guadalajara Zoo (Safari)" },
-    coordinates: { lat: 20.7336, lng: -103.3131 },
+    coords: [-103.3131, 20.7336],
     description: {
       de: "Ein bedeutender Zoo in Guadalajara, der sich über weitläufige Gebiete erstreckt. Er bietet Safari-ähnliche Erlebnisse mit Tieren aus verschiedenen Klimazonen.",
       hu: "Jelentős állatkert Guadalajarában, amely kiterjedt területeken fekszik. Szafari-szerű élményeket kínál különböző éghajlati övekből származó állatokkal.",
@@ -1298,7 +1298,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-cascadas-de-basaseachi-life-v2",
     type: "park",
     name: { de: "Nationalpark Cascada de Basaseachi", hu: "Cascada de Basaseachi Nemzeti Park", ro: "Parcul Național Cascada de Basaseachi", en: "Basaseachi Falls National Park" },
-    coordinates: { lat: 28.17, lng: -108.2 },
+    coords: [-108.2, 28.17],
     description: {
       de: "Dieser Park in Chihuahua ist berühmt für den Basaseachi-Wasserfall, einen der höchsten Mexikos. Das Gebiet beherbergt beeindruckende Felsformationen.",
       hu: "Ez a chihuahua-i park a Basaseachi-vízesésről, Mexikó egyik legmagasabb vízeséséről nevezetes. A terület lenyűgöző sziklaképződményeknek ad otthont.",
@@ -1317,7 +1317,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-reserva-biosfera-pantanos-de-centla-life-v2",
     type: "wildlife",
     name: { de: "Biosphärenreservat Pantanos de Centla", hu: "Pantanos de Centla Bioszféra-rezervátum", ro: "Rezervația Biosferei Pantanos de Centla", en: "Pantanos de Centla Biosphere Reserve" },
-    coordinates: { lat: 18.25, lng: -92.5 },
+    coords: [-92.5, 18.25],
     description: {
       de: "Diese riesigen Feuchtgebiete in Tabasco stellen ein entscheidendes Ökosystem dar. Sie dienen als Lebensraum für zahlreiche Zugvögel und Reptilien.",
       hu: "Ezek a hatalmas tabascoi vizes élőhelyek döntő fontosságú ökoszisztémát alkotnak. Számos vándormadár és hüllő élőhelyeként szolgálnak.",
@@ -1336,7 +1336,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-parque-nacional-palenque-life-v2",
     type: "park",
     name: { de: "Nationalpark Palenque", hu: "Palenque Nemzeti Park", ro: "Parcul Național Palenque", en: "Palenque National Park" },
-    coordinates: { lat: 17.48, lng: -92.05 },
+    coords: [-92.05, 17.48],
     description: {
       de: "Neben den bekannten Maya-Ruinen bietet dieser Park dichten Dschungel. Er ist Heimat für viele tropische Vogel- und Affenarten.",
       hu: "A híres maja romok mellett ez a park sűrű dzsungelt kínál. Számos trópusi madár- és majomfaj otthona.",
@@ -1355,7 +1355,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
     id: "mexico-reserva-biosfera-sierra-de-manantlan-life-v2",
     type: "wildlife",
     name: { de: "Biosphärenreservat Sierra de Manantlán", hu: "Sierra de Manantlán Bioszféra-rezervátum", ro: "Rezervația Biosferei Sierra de Manantlán", en: "Sierra de Manantlán Biosphere Reserve" },
-    coordinates: { lat: 19.58, lng: -104.25 },
+    coords: [-104.25, 19.58],
     description: {
       de: "Dieses Reservat in Jalisco beherbergt eine außergewöhnliche Artenvielfalt. Es dient dem Schutz seltener mexikanischer Kiefernarten und Bergwälder.",
       hu: "Ez a jaliscoi rezervátum kivételes biológiai sokféleségnek ad otthont. A ritka mexikói fenyőfajok és hegyi erdők védelmét szolgálja.",

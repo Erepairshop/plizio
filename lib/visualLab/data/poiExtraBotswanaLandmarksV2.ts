@@ -906,7 +906,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-office-president-landmarks-v2",
     type: "landmark",
     name: { de: "Büro des Präsidenten", hu: "Elnöki Hivatal", ro: "Biroul Președintelui", en: "Office of the President" },
-    coordinates: { lat: -24.6585, lng: 25.9088 },
+    coords: [25.9088, -24.6585],
     description: {
       de: "Das Büro des Präsidenten ist das Machtzentrum in Gaborone. Es beherbergt die Exekutive und liegt im Regierungsviertel.",
       hu: "Az Elnöki Hivatal Botswana végrehajtó hatalmának központja Gaboronéban. A kormányzati negyedben található fontos épület.",
@@ -937,7 +937,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-btv-headquarters-landmarks-v2",
     type: "landmark",
     name: { de: "BTV-Hauptquartier", hu: "BTV székház", ro: "Sediul BTV", en: "Botswana Television Headquarters" },
-    coordinates: { lat: -24.6531, lng: 25.8752 },
+    coords: [25.8752, -24.6531],
     description: {
       de: "Das Hauptquartier des staatlichen Fernsehens in Gaborone West. Das markante kreisförmige Gebäude ist ein Wahrzeichen der Medienlandschaft.",
       hu: "Az állami televízió központja Gaborone nyugati részén. A jellegzetes kör alakú épület a médiaipar egyik mérföldköve.",
@@ -968,7 +968,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-ub-library-landmarks-v2",
     type: "landmark",
     name: { de: "Bibliothek der Universität Botswana", hu: "Botswanai Egyetemi Könyvtár", ro: "Biblioteca Universității din Botswana", en: "University of Botswana Library" },
-    coordinates: { lat: -24.6625, lng: 25.9321 },
+    coords: [25.9321, -24.6625],
     description: {
       de: "Die Bibliothek der Universität von Botswana ist die größte des Landes. Das moderne Gebäude ist ein Zentrum für Bildung und Forschung.",
       hu: "A Botswanai Egyetem könyvtára az ország legnagyobb ilyen intézménye. A modern épület az oktatás és kutatás központja.",
@@ -999,7 +999,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-gaborone-main-mall-landmarks-v2",
     type: "landmark",
     name: { de: "Gaborone Main Mall", hu: "Gaborone Main Mall", ro: "Gaborone Main Mall", en: "Gaborone Main Mall" },
-    coordinates: { lat: -24.6581, lng: 25.9152 },
+    coords: [25.9152, -24.6581],
     description: {
       de: "Das Main Mall ist das älteste Einkaufszentrum in der Hauptstadt. Es wurde in den 1960ern erbaut und ist eine lebhafte Fußgängerzone.",
       hu: "A Main Mall a főváros legrégebbi kereskedelmi központja. Az 1960-as években épült, és máig forgalmas sétálóövezet.",
@@ -1030,7 +1030,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-national-stadium-gaborone-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalstadion Gaborone", hu: "Nemzeti Stadion Gaborone", ro: "Stadionul Național Gaborone", en: "Gaborone National Stadium" },
-    coordinates: { lat: -24.6592, lng: 25.9391 },
+    coords: [25.9391, -24.6592],
     description: {
       de: "Das Nationalstadion ist die wichtigste Sportstätte des Landes. Es ist die Heimat der Nationalmannschaft und Austragungsort großer Events.",
       hu: "A Nemzeti Stadion az ország legfontosabb sportlétesítménye. A válogatott otthona és nagy rendezvények helyszíne.",
@@ -1061,7 +1061,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-jamia-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Jamia-Moschee Gaborone", hu: "Jamia mecset Gaborone", ro: "Moscheea Jamia Gaborone", en: "Jamia Mosque Gaborone" },
-    coordinates: { lat: -24.6548, lng: 25.9231 },
+    coords: [25.9231, -24.6548],
     description: {
       de: "Die Jamia-Moschee ist ein zentrales religiöses Wahrzeichen in Gaborone. Sie besticht durch ihre markante grüne Kuppel und Minarette.",
       hu: "A Jamia mecset Gaborone központi vallási épülete. Jellegzetes zöld kupolájáról és minaretjeiről ismerhető fel.",
@@ -1092,7 +1092,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-holy-cross-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale zum Heiligen Kreuz", hu: "Szent Kereszt-székesegyház", ro: "Catedrala Sfânta Cruce", en: "Holy Cross Anglican Cathedral" },
-    coordinates: { lat: -24.6575, lng: 25.9221 },
+    coords: [25.9221, -24.6575],
     description: {
       de: "Die anglikanische Kathedrale in Gaborone ist für ihre moderne kreisförmige Architektur bekannt. Sie ist ein friedlicher Ort im Stadtzentrum.",
       hu: "Gaborone anglikán székesegyháza modern, kör alakú építészetéről híres. A városközpont egyik békés szigete.",
@@ -1123,7 +1123,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-st-josephs-khale-landmarks-v2",
     type: "landmark",
     name: { de: "St. Joseph's College (Khale)", hu: "Szent József Kollégium (Khale)", ro: "Colegiul Sfântul Iosif (Khale)", en: "St. Joseph's College (Khale)" },
-    coordinates: { lat: -24.7171, lng: 25.8815 },
+    coords: [25.8815, -24.7171],
     description: {
       de: "Eine historische katholische Schule südlich von Gaborone am Khale Hill. Die Anlage umfasst beeindruckende Steingebäude aus der Kolonialzeit.",
       hu: "Történelmi katolikus iskola Gaboronétól délre, a Khale-hegynél. Az épületegyüttes lenyűgöző gyarmati stílusú kőépületekből áll.",
@@ -1154,7 +1154,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-police-headquarters-landmarks-v2",
     type: "landmark",
     name: { de: "Polizeihauptquartier Botswana", hu: "Botswanai Rendőr-főkapitányság", ro: "Sediul Poliției din Botswana", en: "Botswana Police Headquarters" },
-    coordinates: { lat: -24.6605, lng: 25.9102 },
+    coords: [25.9102, -24.6605],
     description: {
       de: "Die Zentrale der Polizei von Botswana in der Hauptstadt. Ein wichtiges öffentliches Gebäude, das die Sicherheit und Ordnung des Landes repräsentiert.",
       hu: "A botswanai rendőrség központi épülete a fővárosban. Fontos középület, amely az ország rendjét és biztonságát képviseli.",
@@ -1185,7 +1185,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-gaborone-civic-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Gaborone Civic Centre", hu: "Gaborone Civic Centre", ro: "Gaborone Civic Centre", en: "Gaborone Civic Centre" },
-    coordinates: { lat: -24.6582, lng: 25.9135 },
+    coords: [25.9135, -24.6582],
     description: {
       de: "Das Civic Centre ist der Sitz des Stadtrats von Gaborone. Es beherbergt zudem die städtische Bibliothek und ist ein lokales Verwaltungszentrum.",
       hu: "A Civic Centre a Gaborone Városi Tanács székhelye. Itt található a városi könyvtár is, és fontos helyi igazgatási központ.",
@@ -1216,7 +1216,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-dtcb-building-landmarks-v2",
     type: "industry",
     name: { de: "DTC Botswana Gebäude", hu: "DTC Botswana épület", ro: "Clădirea DTC Botswana", en: "DTC Botswana Building" },
-    coordinates: { lat: -24.6435, lng: 25.8675 },
+    coords: [25.8675, -24.6435],
     description: {
       de: "Die Diamond Trading Company Botswana ist eine riesige Anlage nahe dem Flughafen. Sie ist eines der weltgrößten Zentren für Rohdiamanten.",
       hu: "A Diamond Trading Company Botswana egy hatalmas létesítmény a repülőtér közelében. A világ egyik legnagyobb nyersgyémánt-központja.",
@@ -1247,7 +1247,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-biust-palapye-landmarks-v2",
     type: "university",
     name: { de: "BIUST Campus Palapye", hu: "BIUST Kampusz Palapye", ro: "Campusul BIUST Palapye", en: "BIUST Campus Palapye" },
-    coordinates: { lat: -22.5955, lng: 27.1231 },
+    coords: [27.1231, -22.5955],
     description: {
       de: "Der Campus der Internationalen Universität für Wissenschaft und Technologie in Palapye. Ein moderner Architekturkomplex für höhere Bildung.",
       hu: "A Nemzetközi Tudományos és Technológiai Egyetem kampusza Palapyében. Modern építészeti komplexum a felsőoktatás számára.",
@@ -1278,7 +1278,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-francistown-high-court-landmarks-v2",
     type: "landmark",
     name: { de: "Oberster Gerichtshof Francistown", hu: "Francistowni Legfelsőbb Bíróság", ro: "Înalta Curte din Francistown", en: "Francistown High Court" },
-    coordinates: { lat: -21.1558, lng: 27.5105 },
+    coords: [27.5105, -21.1558],
     description: {
       de: "Das Gebäude des Obersten Gerichtshofs in Francistown ist ein markantes Symbol der Justiz im Norden Botswanas. Es besticht durch moderne Architektur.",
       hu: "A Francistowni Legfelsőbb Bíróság épülete a botswanai igazságszolgáltatás északi központja. Modern építészeti stílus jellemzi.",
@@ -1309,7 +1309,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-nyangabgwe-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Nyangabgwe-Krankenhaus", hu: "Nyangabgwe Kórház", ro: "Spitalul Nyangabgwe", en: "Nyangabgwe Referral Hospital" },
-    coordinates: { lat: -21.1825, lng: 27.5021 },
+    coords: [27.5021, -21.1825],
     description: {
       de: "Das Nyangabgwe-Krankenhaus in Francistown ist das größte medizinische Zentrum im Norden des Landes und ein bedeutender öffentlicher Komplex.",
       hu: "A francistowni Nyangabgwe Kórház az ország északi részének legnagyobb orvosi központja és jelentős közintézménye.",
@@ -1340,7 +1340,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-sskia-airport-landmarks-v2",
     type: "landmark",
     name: { de: "Flughafen Sir Seretse Khama", hu: "Sir Seretse Khama repülőtér", ro: "Aeroportul Sir Seretse Khama", en: "Sir Seretse Khama International Airport" },
-    coordinates: { lat: -24.5562, lng: 25.9185 },
+    coords: [25.9185, -24.5562],
     description: {
       de: "Botswanas wichtigstes internationales Tor nahe Gaborone. Das moderne Terminal ist nach dem ersten Präsidenten des Landes benannt.",
       hu: "Botswana legfontosabb nemzetközi kapuja Gaborone közelében. A modern terminál az ország első elnökéről kapta nevét.",
@@ -1371,7 +1371,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-gaborone-west-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Gaborone-West-Moschee", hu: "Gaborone nyugati mecset", ro: "Moscheea Gaborone West", en: "Gaborone West Mosque" },
-    coordinates: { lat: -24.6525, lng: 25.8855 },
+    coords: [25.8855, -24.6525],
     description: {
       de: "Diese Moschee ist ein weithin sichtbares religiöses Wahrzeichen in Gaborone West. Sie dient der wachsenden lokalen muslimischen Gemeinde.",
       hu: "Ez a mecset Gaborone nyugati részének jól látható vallási jelképe. A növekvő helyi muszlim közösséget szolgálja.",
@@ -1402,7 +1402,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-thapong-arts-centre-landmarks-v2",
     type: "museum",
     name: { de: "Thapong-Kunstzentrum", hu: "Thapong Művészeti Központ", ro: "Centrul de Arte Thapong", en: "Thapong Visual Arts Centre" },
-    coordinates: { lat: -24.6595, lng: 25.9215 },
+    coords: [25.9215, -24.6595],
     description: {
       de: "Das Kunstzentrum befindet sich in einem historischen Kolonialgebäude in Gaborone. Es ist ein kreativer Hub für lokale Künstler und Ausstellungen.",
       hu: "A művészeti központ egy történelmi gyarmati épületben működik Gaboronéban. Kreatív csomópont a helyi művészek számára.",
@@ -1433,7 +1433,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-trinity-church-landmarks-v2",
     type: "church",
     name: { de: "Dreifaltigkeitskirche Gaborone", hu: "Szentháromság-templom Gaborone", ro: "Biserica Sfânta Treime Gaborone", en: "Trinity Church Gaborone" },
-    coordinates: { lat: -24.6588, lng: 25.9181 },
+    coords: [25.9181, -24.6588],
     description: {
       de: "Die Dreifaltigkeitskirche war die erste Kirche, die in Gaborone errichtet wurde. Sie ist ein historisches Symbol des Glaubens in der Hauptstadt.",
       hu: "A Szentháromság-templom volt az első templom, amelyet Gaboronéban emeltek. A hitélet történelmi jelképe a fővárosban.",
@@ -1464,7 +1464,7 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
     id: "botswana-st-marys-francistown-landmarks-v2",
     type: "church",
     name: { de: "St.-Marien-Kirche Francistown", hu: "Szent Mária-templom Francistown", ro: "Biserica Sfânta Maria Francistown", en: "St. Mary's Catholic Church" },
-    coordinates: { lat: -21.1715, lng: 27.5085 },
+    coords: [27.5085, -21.1715],
     description: {
       de: "Eine bedeutende katholische Kirche im Herzen von Francistown. Sie ist bekannt für ihre klassische Architektur und ihre Rolle in der lokalen Gemeinde.",
       hu: "Jelentős katolikus templom Francistown szívében. Klasszikus építészetéről és a helyi közösségben betöltött szerepéről ismert.",

@@ -726,7 +726,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-tsevie-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Tsévié", hu: "Tsévié Botanikus Kert", ro: "Grădina Botanică Tsévié", en: "Tsévié Botanical Garden" },
-    coordinates: { lat: 6.425, lng: 1.218 },
+    coords: [1.218, 6.425],
     description: {
       de: "Dieser Garten bewahrt lokale Flora der Region Maritime. Er dient der Erhaltung seltener Pflanzenarten.",
       hu: "Ez a kert a Maritime régió helyi flóráját őrzi. A ritka növényfajok megőrzésére szolgál.",
@@ -745,7 +745,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-kara-zoologischer-garten-life-v2",
     type: "wildlife",
     name: { de: "Zoologischer Garten Kara", hu: "Kara Állatkert", ro: "Grădina Zoologică Kara", en: "Kara Zoological Garden" },
-    coordinates: { lat: 9.552, lng: 1.189 },
+    coords: [1.189, 9.552],
     description: {
       de: "Der Zoo in Kara beherbergt verschiedene Arten der togolesischen Fauna. Er informiert Besucher über Tierschutz.",
       hu: "A karai állatkert a togói fauna különféle fajainak ad otthont. Tájékoztatja a látogatókat az állatvédelemről.",
@@ -764,7 +764,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-lome-naturmuseum-life-v2",
     type: "museum",
     name: { de: "Naturhistorisches Museum Lomé", hu: "Lomé Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală Lomé", en: "Lomé Natural History Museum" },
-    coordinates: { lat: 6.137, lng: 1.215 },
+    coords: [1.215, 6.137],
     description: {
       de: "Dieses Museum zeigt die Biodiversität Togos. Es umfasst Sammlungen zu Geologie und heimischen Ökosystemen.",
       hu: "Ez a múzeum Togo biológiai sokféleségét mutatja be. Geológiai és helyi ökoszisztémákról szóló gyűjteményeket tartalmaz.",
@@ -783,7 +783,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-anfoin-feuchtgebiet-life-v2",
     type: "park",
     name: { de: "Feuchtgebiet Anfoin", hu: "Anfoin Vizesélőhely", ro: "Zona Umedă Anfoin", en: "Anfoin Wetland" },
-    coordinates: { lat: 6.273, lng: 1.354 },
+    coords: [1.354, 6.273],
     description: {
       de: "Das Feuchtgebiet bei Anfoin ist ein wichtiger Lebensraum für Wasservögel. Es ist durch saisonale Überschwemmungen geprägt.",
       hu: "Az anfoini vizesélőhely fontos élőhely a vízi madarak számára. Szezonális áradások jellemzik.",
@@ -802,7 +802,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-kpalime-botanisches-zentrum-life-v2",
     type: "park",
     name: { de: "Botanisches Zentrum Kpalimé", hu: "Kpalimé Botanikai Központ", ro: "Centrul Botanic Kpalimé", en: "Kpalimé Botanical Center" },
-    coordinates: { lat: 6.902, lng: 0.631 },
+    coords: [0.631, 6.902],
     description: {
       de: "Dieses Zentrum erforscht tropische Nutzpflanzen und Zierpflanzen der Bergregion. Es dient der botanischen Ausbildung.",
       hu: "Ez a központ a hegyvidéki trópusi haszonnövényeket és dísznövényeket kutatja. Botanikai oktatási célokat szolgál.",
@@ -821,7 +821,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-sokode-vogelreservat-life-v2",
     type: "wildlife",
     name: { de: "Vogelreservat Sokodé", hu: "Sokodé Madárrezervátum", ro: "Rezervația de Păsări Sokodé", en: "Sokodé Bird Reserve" },
-    coordinates: { lat: 8.988, lng: 1.135 },
+    coords: [1.135, 8.988],
     description: {
       de: "Das Reservat schützt die lokale Vogelwelt in der Umgebung von Sokodé. Es ist ein Rückzugsort für Zugvögel.",
       hu: "A rezervátum a Sokodé környéki helyi madárvilágot védi. A vonuló madarak menedékhelye.",
@@ -840,7 +840,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-dapaong-naturgarten-life-v2",
     type: "park",
     name: { de: "Naturgarten Dapaong", hu: "Dapaong Természetkert", ro: "Grădina Naturală Dapaong", en: "Dapaong Nature Garden" },
-    coordinates: { lat: 10.858, lng: 0.207 },
+    coords: [0.207, 10.858],
     description: {
       de: "Dieser Garten zeigt die trockene Savannenvegetation der nördlichen Region. Er fördert das Verständnis für die Flora.",
       hu: "Ez a kert az északi régió száraz szavannai növényzetét mutatja be. Elősegíti a flóra megértését.",
@@ -859,7 +859,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-bassar-wildschutzgebiet-life-v2",
     type: "wildlife",
     name: { de: "Wildschutzgebiet Bassar", hu: "Bassar Vadrezervátum", ro: "Rezervația de Animale Bassar", en: "Bassar Wildlife Reserve" },
-    coordinates: { lat: 9.255, lng: 0.781 },
+    coords: [0.781, 9.255],
     description: {
       de: "Das Reservat dient dem Schutz lokaler Wildtierpopulationen in der Bassar-Region. Es umfasst bewaldete Hügel.",
       hu: "A rezervátum a Bassar régió helyi vadállományának védelmét szolgálja. Erdős dombokat foglal magában.",
@@ -878,7 +878,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-tabligbo-grünanlage-life-v2",
     type: "park",
     name: { de: "Stadtpark Tabligbo", hu: "Tabligbo Városi Park", ro: "Parcul Orășenesc Tabligbo", en: "Tabligbo City Park" },
-    coordinates: { lat: 6.587, lng: 1.503 },
+    coords: [1.503, 6.587],
     description: {
       de: "Der Stadtpark von Tabligbo dient der Erholung der Bewohner. Er enthält einheimische schattenspendende Bäume.",
       hu: "A tabligbói városi park a lakosok kikapcsolódását szolgálja. Őshonos árnyékot adó fákat tartalmaz.",
@@ -897,7 +897,7 @@ export const poiExtraTogoLifeV2: POI[] = [
     id: "togo-tsevie-faunazentrum-life-v2",
     type: "wildlife",
     name: { de: "Faunazentrum Tsévié", hu: "Tsévié Faunaközpont", ro: "Centrul de Faună Tsévié", en: "Tsévié Fauna Center" },
-    coordinates: { lat: 6.419, lng: 1.222 },
+    coords: [1.222, 6.419],
     description: {
       de: "Das Zentrum ist auf die Rehabilitation verletzter Wildtiere spezialisiert. Es informiert über die lokale Fauna.",
       hu: "A központ sérült vadállatok rehabilitációjára specializálódott. Tájékoztat a helyi faunáról.",

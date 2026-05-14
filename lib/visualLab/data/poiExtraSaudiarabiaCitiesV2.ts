@@ -1299,7 +1299,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-az-zulfi-cities-v2",
     type: "city",
     name: { de: "Az Zulfi", hu: "Az-Zulfi", ro: "Az Zulfi", en: "Az Zulfi" },
-    coordinates: { lat: 26.29, lng: 44.82 },
+    coords: [44.82, 26.29],
     description: {
       de: "Az Zulfi ist eine bedeutende Stadt in der Provinz Riad im Herzen der Region Nadschd. Sie ist bekannt für ihre Sanddünen und die Landwirtschaft.",
       hu: "Az Zulfi egy jelentős város Rijád tartományban, a Nedzsd régió szívében. Homokdűnéiről és fejlett mezőgazdaságáról ismert.",
@@ -1318,7 +1318,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-dumat-al-jandal-cities-v2",
     type: "city",
     name: { de: "Dumat al-Dschandal", hu: "Dumat al-Dzsandál", ro: "Dumat al-Jandal", en: "Dumat al-Jandal" },
-    coordinates: { lat: 29.81, lng: 39.87 },
+    coords: [39.87, 29.81],
     description: {
       de: "Dumat al-Dschandal ist eine antike Stadt in der Provinz al-Dschauf. Sie war historisch ein wichtiger Knotenpunkt für den Karawanenhandel.",
       hu: "Dumat al-Dzsandál egy ősi város az Al-Dzsauf tartományban. Történelmileg a karavánkereskedelem fontos csomópontja volt.",
@@ -1337,7 +1337,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-ad-dilam-cities-v2",
     type: "city",
     name: { de: "Ad-Dilam", hu: "Ad-Dilam", ro: "Ad-Dilam", en: "Ad-Dilam" },
-    coordinates: { lat: 23.99, lng: 47.16 },
+    coords: [47.16, 23.99],
     description: {
       de: "Ad-Dilam ist eine historische Stadt südlich von Riad. Sie ist bekannt für ihre fruchtbaren Palmenhaine und bedeutende historische Schlachten.",
       hu: "Ad-Dilam egy történelmi város Rijádtól délre. Termékeny pálmaligeteiről és jelentős történelmi csatáiról ismert.",
@@ -1356,7 +1356,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-badayi-cities-v2",
     type: "city",
     name: { de: "Al-Badayi", hu: "Al-Badaji", ro: "Al-Badayi", en: "Al-Badayi" },
-    coordinates: { lat: 25.96, lng: 43.76 },
+    coords: [43.76, 25.96],
     description: {
       de: "Al-Badayi ist eine Stadt in der Region al-Qasim. Sie gilt als landwirtschaftliches Zentrum, das für den Anbau hochwertiger Früchte bekannt ist.",
       hu: "Al-Badaji egy város az Al-Kaszim régióban. Mezőgazdasági központként ismert, amely kiváló minőségű gyümölcsök termesztéséről híres.",
@@ -1375,7 +1375,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-wajh-cities-v2",
     type: "city",
     name: { de: "Al-Wadschh", hu: "Al-Vadzsh", ro: "Al-Wajh", en: "Al-Wajh" },
-    coordinates: { lat: 26.23, lng: 36.45 },
+    coords: [36.45, 26.23],
     description: {
       de: "Al-Wadschh ist eine Küstenstadt am Roten Meer in der Provinz Tabuk. Sie besitzt eine malerische Altstadt mit traditioneller Architektur.",
       hu: "Al-Vadzsh egy kikötőváros a Vörös-tenger partján, Tabuk tartományban. Festői óvárosa hagyományos építészeti stílusáról ismert.",
@@ -1394,7 +1394,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-umluj-cities-v2",
     type: "city",
     name: { de: "Umludsch", hu: "Umludzs", ro: "Umluj", en: "Umluj" },
-    coordinates: { lat: 25.02, lng: 37.26 },
+    coords: [37.26, 25.02],
     description: {
       de: "Umludsch wird oft als die Malediven von Saudi-Arabien bezeichnet. Die Stadt ist berühmt für ihr kristallklares Wasser und die weißen Sandstrände.",
       hu: "Umludzsot gyakran Szaúd-Arábia Maldív-szigeteinek nevezik. A város kristálytiszta vizéről és fehér homokos strandjairól híres.",
@@ -1413,7 +1413,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-duba-cities-v2",
     type: "city",
     name: { de: "Duba", hu: "Duba", ro: "Duba", en: "Duba" },
-    coordinates: { lat: 27.35, lng: 35.69 },
+    coords: [35.69, 27.35],
     description: {
       de: "Duba ist eine wichtige Hafenstadt am Roten Meer, bekannt als die Perle des Nordens. Sie dient als Tor für den Schiffsverkehr nach Ägypten.",
       hu: "Duba egy fontos kikötőváros a Vörös-tengeren, amelyet az Észak Gyöngyszemének neveznek. Kapuként szolgál az Egyiptomba tartó hajóforgalom számára.",
@@ -1432,7 +1432,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-sabya-cities-v2",
     type: "city",
     name: { de: "Sabya", hu: "Szabja", ro: "Sabya", en: "Sabya" },
-    coordinates: { lat: 17.15, lng: 42.62 },
+    coords: [42.62, 17.15],
     description: {
       de: "Sabya ist eine der größten Städte in der Region Jazan. Sie ist ein bedeutendes landwirtschaftliches und kommerzielles Zentrum im Südwesten.",
       hu: "Szabja Jazan régió egyik legnagyobb városa. Jelentős mezőgazdasági és kereskedelmi központ az ország délnyugati részén.",
@@ -1451,7 +1451,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-abu-arish-cities-v2",
     type: "city",
     name: { de: "Abu Arisch", hu: "Abu Aris", ro: "Abu Arish", en: "Abu Arish" },
-    coordinates: { lat: 16.97, lng: 42.83 },
+    coords: [42.83, 16.97],
     description: {
       de: "Abu Arisch liegt im Landesinneren der Region Jazan. Die Stadt ist ein wichtiger Handelsknotenpunkt und bekannt für ihre fruchtbare Umgebung.",
       hu: "Abu Aris Jazan régió belsejében található. A város fontos kereskedelmi csomópont és termékeny környezetéről ismert.",
@@ -1470,7 +1470,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-samtah-cities-v2",
     type: "city",
     name: { de: "Samtah", hu: "Szamtah", ro: "Samtah", en: "Samtah" },
-    coordinates: { lat: 16.59, lng: 42.94 },
+    coords: [42.94, 16.59],
     description: {
       de: "Samtah ist eine südliche Grenzstadt in der Region Jazan. Sie spielt eine wichtige Rolle als administratives und kommerzielles Zentrum nahe dem Jemen.",
       hu: "Szamtah egy déli határváros Jazan régióban. Fontos közigazgatási és kereskedelmi központként szolgál a jemeni határ közelében.",
@@ -1489,7 +1489,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-lith-cities-v2",
     type: "city",
     name: { de: "Al-Lith", hu: "Al-Lisz", ro: "Al-Lith", en: "Al-Lith" },
-    coordinates: { lat: 20.15, lng: 40.26 },
+    coords: [40.26, 20.15],
     description: {
       de: "Al-Lith ist eine Küstenstadt südlich von Dschidda am Roten Meer. Sie ist weltweit bekannt als einer der besten Orte zum Tauchen mit Walhaien.",
       hu: "Al-Lisz egy kikötőváros Dzsidda mellett a Vörös-tengeren. Világszerte az egyik legjobb helyként ismert a cetcápákkal való búvárkodáshoz.",
@@ -1508,7 +1508,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-quwayiyah-cities-v2",
     type: "city",
     name: { de: "Al-Quwayiyah", hu: "Al-Quvajijah", ro: "Al-Quwayiyah", en: "Al-Quwayiyah" },
-    coordinates: { lat: 24.05, lng: 45.26 },
+    coords: [45.26, 24.05],
     description: {
       de: "Al-Quwayiyah liegt strategisch günstig an der Autobahn zwischen Riad und Mekka. Die Stadt ist ein bedeutendes Zentrum für Bergbau und Transport.",
       hu: "Al-Quvajijah stratégiai helyen fekszik a Rijád és Mekka közötti autópályán. A város a bányászat és a szállítás egyik fontos központja.",
@@ -1527,7 +1527,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-afif-cities-v2",
     type: "city",
     name: { de: "Afif", hu: "Afif", ro: "Afif", en: "Afif" },
-    coordinates: { lat: 23.91, lng: 42.92 },
+    coords: [42.92, 23.91],
     description: {
       de: "Afif ist eine Stadt in der Provinz Riad, genau auf halbem Weg zwischen Riad und Medina. Sie diente historisch als wichtiger Rastplatz.",
       hu: "Afif egy város Rijád tartományban, pontosan félúton Rijád és Medina között. Történelmileg fontos pihenőhelyként szolgált.",
@@ -1546,7 +1546,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-dawadmi-cities-v2",
     type: "city",
     name: { de: "Dawadmi", hu: "Davadmi", ro: "Dawadmi", en: "Dawadmi" },
-    coordinates: { lat: 24.5, lng: 44.4 },
+    coords: [44.4, 24.5],
     description: {
       de: "Dawadmi ist eine bedeutende Stadt in der Region Nadschd. Sie ist bekannt für ihre reiche Geschichte und als administratives Zentrum der Provinz.",
       hu: "Davadmi egy jelentős város a Nedzsd régióban. Gazdag történelméről és a tartomány közigazgatási központjaként ismert.",
@@ -1565,7 +1565,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-rafha-cities-v2",
     type: "city",
     name: { de: "Rafha", hu: "Rafha", ro: "Rafha", en: "Rafha" },
-    coordinates: { lat: 29.62, lng: 43.51 },
+    coords: [43.51, 29.62],
     description: {
       de: "Rafha ist eine Stadt im Norden Saudi-Arabiens nahe der irakischen Grenze. Sie wuchs historisch durch die Trans-Arabische Pipeline (Tapline).",
       hu: "Rafha egy város Szaúd-Arábia északi részén, az iraki határ közelében. Történelmileg a Transz-Arab Csővezeték (Tapline) mentén nőtt ki.",
@@ -1584,7 +1584,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-tayma-cities-v2",
     type: "city",
     name: { de: "Tayma", hu: "Tajma", ro: "Tayma", en: "Tayma" },
-    coordinates: { lat: 27.63, lng: 38.54 },
+    coords: [38.54, 27.63],
     description: {
       de: "Tayma ist eine der ältesten Oasenstädte Saudi-Arabiens mit einer Geschichte, die bis in die Bronzezeit zurückreicht. Sie liegt in der Provinz Tabuk.",
       hu: "Tajma Szaúd-Arábia egyik legrégebbi oázisvárosa, amelynek történelme a bronzkorig nyúlik vissza. Tabuk tartományban található.",
@@ -1603,7 +1603,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-hariq-cities-v2",
     type: "city",
     name: { de: "Al-Hariq", hu: "Al-Harik", ro: "Al-Hariq", en: "Al-Hariq" },
-    coordinates: { lat: 23.63, lng: 46.51 },
+    coords: [46.51, 23.63],
     description: {
       de: "Al-Hariq liegt in einem fruchtbaren Tal südlich von Riad. Die Stadt ist berühmt für ihre hochwertige Landwirtschaft, besonders für Zitrusfrüchte.",
       hu: "Al-Harik egy termékeny völgyben fekszik Rijádtól délre. A város híres kiváló mezőgazdaságáról, különösen a citrusféléiről.",
@@ -1622,7 +1622,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-hotat-bani-tamim-cities-v2",
     type: "city",
     name: { de: "Hotat Bani Tamim", hu: "Hotat Bani Tamim", ro: "Hotat Bani Tamim", en: "Hotat Bani Tamim" },
-    coordinates: { lat: 23.52, lng: 46.84 },
+    coords: [46.84, 23.52],
     description: {
       de: "Hotat Bani Tamim ist eine traditionsreiche Stadt südlich von Riad. Sie ist ein Zentrum für den Dattelanbau und bekannt für ihre Stammesgeschichte.",
       hu: "Hotat Bani Tamim egy hagyományőrző város Rijádtól délre. A datolyatermesztés központja és törzsi történelméről ismert.",
@@ -1641,7 +1641,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-laila-cities-v2",
     type: "city",
     name: { de: "Laila", hu: "Lajla", ro: "Laila", en: "Laila" },
-    coordinates: { lat: 22.28, lng: 46.73 },
+    coords: [46.73, 22.28],
     description: {
       de: "Laila ist die Hauptstadt des Gouvernements al-Afladsch. Die Stadt wurde nach Laila, der Geliebten aus dem berühmten arabischen Epos, benannt.",
       hu: "Lajla az Al-Afladzs kormányzóság központja. A várost a híres arab eposz szerelmese, Lajla után nevezték el.",
@@ -1660,7 +1660,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-sharurah-cities-v2",
     type: "city",
     name: { de: "Scharurah", hu: "Sarurah", ro: "Sharurah", en: "Sharurah" },
-    coordinates: { lat: 17.48, lng: 47.11 },
+    coords: [47.11, 17.48],
     description: {
       de: "Scharurah liegt im fernen Südosten an der Grenze zum Jemen. Sie wird oft als die Braut des Leeren Viertels (Rub al-Chali) bezeichnet.",
       hu: "Sarurah az ország távoli délkeleti részén, a jemeni határnál fekszik. Gyakran az Üres Negyed (Rub el-Háli) menyasszonyának hívják.",
@@ -1679,7 +1679,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-baljurashi-cities-v2",
     type: "city",
     name: { de: "Baldschuraschi", hu: "Baldzsulasi", ro: "Baljurashi", en: "Baljurashi" },
-    coordinates: { lat: 19.85, lng: 41.56 },
+    coords: [41.56, 19.85],
     description: {
       de: "Baldschuraschi ist eine Bergstadt in der Provinz al-Bahah. Sie ist berühmt für ihr angenehmes Klima und ihren historischen Samstagsmarkt.",
       hu: "Baldzsulasi egy hegyi város Al-Bahah tartományban. Kellemes éghajlatáról és történelmi szombati piacáról híres.",
@@ -1698,7 +1698,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-makhwah-cities-v2",
     type: "city",
     name: { de: "Al-Machwah", hu: "Al-Mahvah", ro: "Al-Makhwah", en: "Al-Makhwah" },
-    coordinates: { lat: 19.78, lng: 41.43 },
+    coords: [41.43, 19.78],
     description: {
       de: "Al-Machwah liegt in der Tihama-Ebene am Fuße der al-Bahah-Berge. Die Stadt ist ein vitales Zentrum für den Handel zwischen Küste und Hochland.",
       hu: "Al-Mahvah a Tihama-síkságon fekszik, az Al-Bahah hegyek lábánál. A város létfontosságú kereskedelmi központ a partvidék és a felföld között.",
@@ -1717,7 +1717,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-namas-cities-v2",
     type: "city",
     name: { de: "Al-Namas", hu: "An-Namasz", ro: "Al-Namas", en: "Al-Namas" },
-    coordinates: { lat: 19.11, lng: 42.12 },
+    coords: [42.12, 19.11],
     description: {
       de: "Al-Namas ist eine hochgelegene Stadt in der Provinz Asir. Sie ist bekannt für ihre dichten Nebel, Wacholderwälder und kühlen Sommertemperaturen.",
       hu: "An-Namasz egy magasan fekvő város Aszir tartományban. Sűrű ködéről, borókafenyő-erdőiről és hűvös nyári időjárásáról ismert.",
@@ -1736,7 +1736,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-tanomah-cities-v2",
     type: "city",
     name: { de: "Tanomah", hu: "Tanomah", ro: "Tanomah", en: "Tanomah" },
-    coordinates: { lat: 18.91, lng: 42.16 },
+    coords: [42.16, 18.91],
     description: {
       de: "Tanomah ist eine malerische Bergstadt in der Region Asir. Sie ist berühmt für ihre Wasserfälle, Pinienwälder und dramatischen Felsformationen.",
       hu: "Tanomah egy festői hegyi város Aszir régióban. Híres vízeséseiről, fenyőerdőiről és drámai sziklaformációiról.",
@@ -1755,7 +1755,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-bariq-cities-v2",
     type: "city",
     name: { de: "Bariq", hu: "Barik", ro: "Bariq", en: "Bariq" },
-    coordinates: { lat: 18.91, lng: 41.94 },
+    coords: [41.94, 18.91],
     description: {
       de: "Bariq ist eine historische Stadt in der Region Asir, die in der Tihama-Ebene liegt. Sie war ein wichtiger Stopp auf der alten Karawanenroute.",
       hu: "Barik egy történelmi város Aszir régióban, a Tihama-síkságon. Fontos állomás volt az ősi karavánút mentén.",
@@ -1774,7 +1774,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-muhayil-cities-v2",
     type: "city",
     name: { de: "Muhayil", hu: "Muhajil", ro: "Muhayil", en: "Muhayil" },
-    coordinates: { lat: 18.55, lng: 42.04 },
+    coords: [42.04, 18.55],
     description: {
       de: "Muhayil ist ein bedeutendes Handelszentrum in der Provinz Asir. Die Stadt liegt in einem warmen Becken und zieht im Winter viele Besucher an.",
       hu: "Muhajil egy jelentős kereskedelmi központ Aszir tartományban. A város egy meleg medencében fekszik, és télen sok látogatót vonz.",
@@ -1793,7 +1793,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-bukayriyah-cities-v2",
     type: "city",
     name: { de: "Al-Bukayriyah", hu: "Al-Bukajrijah", ro: "Al-Bukayriyah", en: "Al-Bukayriyah" },
-    coordinates: { lat: 26.14, lng: 43.65 },
+    coords: [43.65, 26.14],
     description: {
       de: "Al-Bukayriyah ist eine Stadt in der Provinz al-Qasim. Sie ist bekannt für ihre weitläufigen Grünflächen, Parks und den florierenden Agrarsektor.",
       hu: "Al-Bukajrijah egy város az Al-Kaszim tartományban. Hatalmas zöld területeiről, parkjairól és virágzó mezőgazdaságáról ismert.",
@@ -1812,7 +1812,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-al-mithnab-cities-v2",
     type: "city",
     name: { de: "Al-Mithnab", hu: "Al-Misznab", ro: "Al-Mithnab", en: "Al-Mithnab" },
-    coordinates: { lat: 25.84, lng: 44.22 },
+    coords: [44.22, 25.84],
     description: {
       de: "Al-Mithnab liegt in der Region al-Qasim und ist berühmt für sein gut erhaltenes historisches Erbe-Dorf. Die Stadt vereint Tradition und Moderne.",
       hu: "Al-Misznab az Al-Kaszim régióban található, és jól megőrzött történelmi skanzen-falujáról híres. A város ötvözi a hagyományt és a modernitást.",
@@ -1831,7 +1831,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-shaqra-cities-v2",
     type: "city",
     name: { de: "Schakra", hu: "Sakra", ro: "Shaqra", en: "Shaqra" },
-    coordinates: { lat: 25.24, lng: 45.24 },
+    coords: [45.24, 25.24],
     description: {
       de: "Schakra ist eine historische Stadt in der Region Nadschd. Sie war einst die Hauptstadt der Region al-Waschm und ein bedeutendes Handelszentrum.",
       hu: "Sakra egy történelmi város a Nedzsd régióban. Egykor az Al-Vashm régió fővárosa és jelentős kereskedelmi központ volt.",
@@ -1850,7 +1850,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "saudiarabia-sajir-cities-v2",
     type: "city",
     name: { de: "Sajir", hu: "Szadzsir", ro: "Sajir", en: "Sajir" },
-    coordinates: { lat: 25.04, lng: 44.64 },
+    coords: [44.64, 25.04],
     description: {
       de: "Sajir ist eine bedeutende Agrarstadt in der Provinz Riad. Sie gilt als einer der wichtigsten Produzenten von Weizen und Gemüse in Zentralarabien.",
       hu: "Szadzsir egy jelentős mezőgazdasági város Rijád tartományban. Közép-Arábia egyik legfontosabb búza- és zöldségtermelőjének számít.",

@@ -5,7 +5,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-tabac-relief-v2",
     type: "peak",
     name: { de: "Mount Tabac", hu: "Mount Tabac", ro: "Muntele Tabac", en: "Mount Tabac" },
-    coordinates: { lat: 13.8647, lng: -61.0258 },
+    coords: [-61.0258, 13.8647],
     description: {
       de: "Mount Tabac ist ein bedeutender Gipfel im zentralen Hochland von Saint Lucia. Er liegt nördlich der Pitons in einer dicht bewaldeten Region.",
       hu: "A Mount Tabac Saint Lucia központi felföldjének egyik jelentős csúcsa. A Pitonoktól északra, sűrűn erdősült területen fekszik.",
@@ -24,7 +24,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-grand-magazin-relief-v2",
     type: "peak",
     name: { de: "Mount Grand Magazin", hu: "Mount Grand Magazin", ro: "Muntele Grand Magazin", en: "Mount Grand Magazin" },
-    coordinates: { lat: 13.8294, lng: -61.0117 },
+    coords: [-61.0117, 13.8294],
     description: {
       de: "Der Mount Grand Magazin ist ein markanter Berg im Süden der Insel. Er bildet einen Teil des bergigen Rückgrats von Saint Lucia.",
       hu: "A Mount Grand Magazin egy jellegzetes hegy a sziget déli részén. Saint Lucia hegyvidéki gerincének részét képezi.",
@@ -43,7 +43,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-parasol-relief-v2",
     type: "peak",
     name: { de: "Mount Parasol", hu: "Mount Parasol", ro: "Muntele Parasol", en: "Mount Parasol" },
-    coordinates: { lat: 13.8825, lng: -60.9983 },
+    coords: [-60.9983, 13.8825],
     description: {
       de: "Mount Parasol ist ein Berg im zentralen Hochland südlich von Castries. Er ist Teil der Wasserscheide, die das Relief der Insel prägt.",
       hu: "A Mount Parasol egy hegy a központi felföldön, Castriestől délre. A sziget domborzatát meghatározó vízválasztó részét képezi.",
@@ -62,7 +62,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-piton-canarie-relief-v2",
     type: "peak",
     name: { de: "Piton Canarie", hu: "Piton Canarie", ro: "Piton Canarie", en: "Piton Canarie" },
-    coordinates: { lat: 13.8961, lng: -61.0458 },
+    coords: [-61.0458, 13.8961],
     description: {
       de: "Der Piton Canarie liegt an der Westküste oberhalb des Dorfes Canaries. Dieser Berg ist ein klassisches Beispiel für das steile Relief der Insel.",
       hu: "A Piton Canarie a nyugati parton fekszik, Canaries falu felett. Ez a hegy kiváló példája a sziget meredek domborzatának.",
@@ -81,7 +81,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-du-chazeau-relief-v2",
     type: "peak",
     name: { de: "Mount du Chazeau", hu: "Mount du Chazeau", ro: "Muntele du Chazeau", en: "Mount du Chazeau" },
-    coordinates: { lat: 13.9536, lng: -60.9258 },
+    coords: [-60.9258, 13.9536],
     description: {
       de: "Mount du Chazeau ist ein Hügelzug im Nordosten der Insel bei Babonneau. Das Gebiet ist durch sanftere Hügel im Vergleich zum Süden geprägt.",
       hu: "A Mount du Chazeau egy dombsor a sziget északkeleti részén, Babonneau közelében. A terület a déli részekhez képest lankásabb dombokkal jellemezhető.",
@@ -100,7 +100,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-barre-de-lisle-ridge-relief-v2",
     type: "peak",
     name: { de: "Barre de l'Isle Gebirgskamm", hu: "Barre de l'Isle hegylánc", ro: "Creasta Barre de l'Isle", en: "Barre de l'Isle Ridge" },
-    coordinates: { lat: 13.9181, lng: -60.9575 },
+    coords: [-60.9575, 13.9181],
     description: {
       de: "Die Barre de l'Isle ist der zentrale Gebirgskamm, der die Insel in eine Ost- und eine Westseite teilt. Er dient als primäre Wasserscheide.",
       hu: "A Barre de l'Isle a központi hegygerinc, amely keleti és nyugati oldalra osztja a szigetet. Elsődleges vízválasztóként szolgál.",
@@ -119,7 +119,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mabouya-valley-relief-v2",
     type: "valley",
     name: { de: "Mabouya-Tal", hu: "Mabouya-völgy", ro: "Valea Mabouya", en: "Mabouya Valley" },
-    coordinates: { lat: 13.9042, lng: -60.9167 },
+    coords: [-60.9167, 13.9042],
     description: {
       de: "Das Mabouya-Tal ist eines der fruchtbarsten Gebiete Saint Lucias. Es erstreckt sich vom zentralen Gebirge bis zur Ostküste der Insel.",
       hu: "A Mabouya-völgy Saint Lucia egyik legtermékenyebb területe. A központi hegységtől a sziget keleti partjáig húzódik.",
@@ -138,7 +138,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-roseau-valley-relief-v2",
     type: "valley",
     name: { de: "Roseau-Tal", hu: "Roseau-völgy", ro: "Valea Roseau", en: "Roseau Valley" },
-    coordinates: { lat: 13.9511, lng: -61.0267 },
+    coords: [-61.0267, 13.9511],
     description: {
       de: "Das Roseau-Tal liegt an der Westküste und ist geprägt durch große Bananenplantagen. Es bildet eine breite Tiefebene zwischen den Bergzügen.",
       hu: "A Roseau-völgy a nyugati parton fekszik, és hatalmas banánültetvények jellemzik. Széles síkságot alkot a hegyláncok között.",
@@ -157,7 +157,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-soufriere-volcanic-basin-relief-v2",
     type: "landmark",
     name: { de: "Soufrière-Vulkanbecken", hu: "Soufrière vulkáni medence", ro: "Bazinul Vulcanic Soufrière", en: "Soufrière Volcanic Basin" },
-    coordinates: { lat: 13.8333, lng: -61.05 },
+    coords: [-61.05, 13.8333],
     description: {
       de: "Das Soufrière-Becken ist eine eingestürzte vulkanische Caldera. Das Relief wird hier durch hydrothermale Aktivitäten und steile Kraterwände dominiert.",
       hu: "A Soufrière-medence egy beomlott vulkáni kaldera. A domborzatot itt hidrotermális tevékenység és meredek kráterfalak uralják.",
@@ -176,7 +176,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-bellevue-relief-v2",
     type: "peak",
     name: { de: "Mount Bellevue", hu: "Mount Bellevue", ro: "Muntele Bellevue", en: "Mount Bellevue" },
-    coordinates: { lat: 13.7917, lng: -60.975 },
+    coords: [-60.975, 13.7917],
     description: {
       de: "Mount Bellevue ist eine Erhebung im Südosten von Saint Lucia. Der Berg bietet weite Ausblicke über die Atlantikküste der Insel.",
       hu: "A Mount Bellevue egy magaslat Saint Lucia délkeleti részén. A hegy széles kilátást nyújt a sziget atlanti-óceáni partvidékére.",
@@ -195,7 +195,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-vigie-promontory-relief-v2",
     type: "landmark",
     name: { de: "Vigie-Halbinsel", hu: "Vigie-félsziget", ro: "Promontoriul Vigie", en: "Vigie Promontory" },
-    coordinates: { lat: 14.025, lng: -61.0083 },
+    coords: [-61.0083, 14.025],
     description: {
       de: "Die Vigie-Halbinsel ist eine schmale Landzunge, die den Hafen von Castries schützt. Sie besteht aus einem flachen Plateau mit strategischer Lage.",
       hu: "A Vigie-félsziget egy keskeny földnyelv, amely Castries kikötőjét védi. Stratégiai elhelyezkedésű, sík fennsíkból áll.",
@@ -214,7 +214,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-pimard-relief-v2",
     type: "peak",
     name: { de: "Mount Pimard", hu: "Mount Pimard", ro: "Muntele Pimard", en: "Mount Pimard" },
-    coordinates: { lat: 14.07, lng: -60.96 },
+    coords: [-60.96, 14.07],
     description: {
       de: "Mount Pimard ist ein Küstenberg an der Rodney Bay im Norden. Er begrenzt die Bucht nach Süden und bietet beliebte Wanderpfade.",
       hu: "A Mount Pimard egy parti hegy az északi Rodney-öbölnél. Délről határolja az öblöt, és népszerű túraútvonalakat kínál.",
@@ -233,7 +233,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-moule-a-chique-relief-v2",
     type: "landmark",
     name: { de: "Moule à Chique", hu: "Moule à Chique", ro: "Moule à Chique", en: "Moule à Chique" },
-    coordinates: { lat: 13.7167, lng: -60.9417 },
+    coords: [-60.9417, 13.7167],
     description: {
       de: "Moule à Chique ist die südlichste Halbinsel von Saint Lucia. Sie besteht aus einem hohen Kap, das steil in den Ozean abfällt.",
       hu: "A Moule à Chique Saint Lucia legdélibb félszigete. Egy magas fokból áll, amely meredeken zuhan az óceánba.",
@@ -252,7 +252,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-dennery-highlands-relief-v2",
     type: "mountain",
     name: { de: "Dennery Hochland", hu: "Dennery-felföld", ro: "Podișul Dennery", en: "Dennery Highlands" },
-    coordinates: { lat: 13.9167, lng: -60.9 },
+    coords: [-60.9, 13.9167],
     description: {
       de: "Das Dennery Hochland liegt an der Ostküste und ist durch schroffe Gipfel und tiefe Schluchten geprägt. Es bildet den östlichen Ausläufer des Zentralmassivs.",
       hu: "A Dennery-felföld a keleti parton fekszik, zord csúcsok és mély szurdokok jellemzik. A központi masszívum keleti nyúlványát alkotja.",
@@ -271,7 +271,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-choiseul-plateau-relief-v2",
     type: "landmark",
     name: { de: "Choiseul-Plateau", hu: "Choiseul-fennsík", ro: "Platoul Choiseul", en: "Choiseul Plateau" },
-    coordinates: { lat: 13.7833, lng: -61.0333 },
+    coords: [-61.0333, 13.7833],
     description: {
       de: "Das Choiseul-Plateau im Südwesten ist ein erhöhtes Gebiet mit vulkanischen Böden. Das Relief ist hier flacher als in den zentralen Bergen.",
       hu: "A délnyugati Choiseul-fennsík egy vulkáni talajú, megemelt terület. A domborzat itt lankásabb, mint a központi hegyekben.",
@@ -290,7 +290,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-laborie-hills-relief-v2",
     type: "mountain",
     name: { de: "Laborie Hügel", hu: "Laborie-dombság", ro: "Dealurile Laborie", en: "Laborie Hills" },
-    coordinates: { lat: 13.7667, lng: -60.9833 },
+    coords: [-60.9833, 13.7667],
     description: {
       de: "Die Laborie Hügel bilden ein sanft gewelltes Relief im Süden der Insel. Sie fallen moderat zum Karibischen Meer ab.",
       hu: "A Laborie-dombság enyhén hullámos domborzatot alkot a sziget déli részén. Mérsékelten lejtenek a Karib-tenger felé.",
@@ -309,7 +309,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-marigot-bay-ridge-relief-v2",
     type: "peak",
     name: { de: "Marigot Bay Gebirgsrücken", hu: "Marigot-öböl hegygerinc", ro: "Creasta Golfului Marigot", en: "Marigot Bay Ridge" },
-    coordinates: { lat: 13.9667, lng: -61.025 },
+    coords: [-61.025, 13.9667],
     description: {
       de: "Dieser Gebirgsrücken umschließt die berühmte Marigot Bay. Das steile Relief sorgt dafür, dass die Bucht von drei Seiten vor Wind geschützt ist.",
       hu: "Ez a hegygerinc veszi körül a híres Marigot-öblöt. A meredek domborzat biztosítja, hogy az öböl három oldalról védett legyen a széltől.",
@@ -328,7 +328,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-cap-estate-plateau-relief-v2",
     type: "landmark",
     name: { de: "Cap Estate Plateau", hu: "Cap Estate fennsík", ro: "Platoul Cap Estate", en: "Cap Estate Plateau" },
-    coordinates: { lat: 14.095, lng: -60.945 },
+    coords: [-60.945, 14.095],
     description: {
       de: "Cap Estate ist das nördliche Ende der Insel. Es besteht aus einem flachwelligen Plateau, das nach drei Seiten zum Meer abfällt.",
       hu: "Cap Estate a sziget északi vége. Enyhén hullámos fennsíkból áll, amely három oldalról a tenger felé lejt.",
@@ -347,7 +347,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-mortier-relief-v2",
     type: "peak",
     name: { de: "Mount Mortier", hu: "Mount Mortier", ro: "Muntele Mortier", en: "Mount Mortier" },
-    coordinates: { lat: 13.8125, lng: -60.9583 },
+    coords: [-60.9583, 13.8125],
     description: {
       de: "Mount Mortier ist ein Berg im Südosten, nahe Micoud. Er gehört zu den weniger bekannten, aber reliefprägenden Erhebungen der Ostküste.",
       hu: "A Mount Mortier egy hegy délkeleten, Micoud közelében. A keleti part kevésbé ismert, de meghatározó magaslatai közé tartozik.",
@@ -366,7 +366,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-grand-riviere-valley-relief-v2",
     type: "valley",
     name: { de: "Grand Rivière Tal", hu: "Grand Rivière völgy", ro: "Valea Grand Rivière", en: "Grand Rivière Valley" },
-    coordinates: { lat: 14.0417, lng: -60.9167 },
+    coords: [-60.9167, 14.0417],
     description: {
       de: "Das Grand Rivière Tal im Nordosten ist durch ein tief eingeschnittenes Flusssystem geprägt. Es zeigt die starke Erosion durch tropische Regenfälle.",
       hu: "Az északkeleti Grand Rivière völgyet egy mélyen bevágódott folyórendszer jellemzi. Jól mutatja a trópusi esők okozta erős eróziót.",
@@ -385,7 +385,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-troumassee-river-basin-relief-v2",
     type: "valley",
     name: { de: "Troumassée-Flussbecken", hu: "Troumassée-folyómedence", ro: "Bazinul Râului Troumassée", en: "Troumassée River Basin" },
-    coordinates: { lat: 13.8333, lng: -60.9167 },
+    coords: [-60.9167, 13.8333],
     description: {
       de: "Das Troumassée-Becken ist eines der größten Entwässerungsgebiete an der Ostküste. Das Relief ist hier durch terrassierte Ebenen geprägt.",
       hu: "A Troumassée-medence az egyik legnagyobb vízgyűjtő terület a keleti parton. A domborzatot itt teraszos síkságok jellemzik.",
@@ -404,7 +404,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-fond-d-or-bay-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Fond d'Or Klippen", hu: "Fond d'Or sziklák", ro: "Stâncile Fond d'Or", en: "Fond d'Or Cliffs" },
-    coordinates: { lat: 13.925, lng: -60.8917 },
+    coords: [-60.8917, 13.925],
     description: {
       de: "Die Klippen von Fond d'Or an der Atlantikküste zeigen die Kraft der Ozeanwellen. Das Relief ist hier rau und durch Brandungshöhlen gekennzeichnet.",
       hu: "Az atlanti-parti Fond d'Or sziklái az óceáni hullámok erejét mutatják. A domborzat itt zord, és hullámverés vájta barlangok jellemzik.",
@@ -423,7 +423,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-mount-sion-relief-v2",
     type: "peak",
     name: { de: "Mount Sion", hu: "Mount Sion", ro: "Muntele Sion", en: "Mount Sion" },
-    coordinates: { lat: 13.7833, lng: -61.0 },
+    coords: [-61.0, 13.7833],
     description: {
       de: "Mount Sion ist eine markante Erhebung im Hinterland von Choiseul. Er gehört zum südlichen vulkanischen Komplex der Insel.",
       hu: "A Mount Sion egy jellegzetes magaslat Choiseul hátországában. A sziget déli vulkáni komplexumához tartozik.",
@@ -442,7 +442,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-petit-piton-waterfall-relief-v2",
     type: "landmark",
     name: { de: "Petit Piton Wasserfall-Relief", hu: "Petit Piton vízesés-domborzat", ro: "Relieful Cascadei Petit Piton", en: "Petit Piton Waterfall Relief" },
-    coordinates: { lat: 13.84, lng: -61.06 },
+    coords: [-61.06, 13.84],
     description: {
       de: "Die Hänge des Petit Piton sind durch steile Klippen und versteckte Wasserfälle geprägt. Das Relief ist hier extrem steil und fast unzugänglich.",
       hu: "A Petit Piton lejtőit meredek sziklák és rejtett vízesések jellemzik. A domborzat itt rendkívül meredek és szinte megközelíthetetlen.",
@@ -461,7 +461,7 @@ export const saintluciaReliefV2: POI[] = [
     id: "saintlucia-morne-coubaril-plateau-relief-v2",
     type: "landmark",
     name: { de: "Morne Coubaril Plateau", hu: "Morne Coubaril fennsík", ro: "Platoul Morne Coubaril", en: "Morne Coubaril Plateau" },
-    coordinates: { lat: 13.845, lng: -61.055 },
+    coords: [-61.055, 13.845],
     description: {
       de: "Das Morne Coubaril Plateau ist ein erhöhtes Gebiet oberhalb von Soufrière. Es bietet eine flachere Zone inmitten des sonst extremen Reliefs.",
       hu: "A Morne Coubaril fennsík egy megemelt terület Soufrière felett. Lankásabb zónát kínál az egyébként szélsőséges domborzat közepén.",

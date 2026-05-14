@@ -1087,7 +1087,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-barlonyo-memorial-history-v2",
     type: "monument",
     name: { de: "Barlonyo-Gedenkstätte", hu: "Barlonyo emlékhely", ro: "Memorialul Barlonyo", en: "Barlonyo Memorial Site" },
-    coordinates: { lat: 2.502, lng: 33.155 },
+    coords: [33.155, 2.502],
     description: {
       de: "Diese Gedenkstätte erinnert an das Massaker von 2004 während des Bürgerkriegs im Norden Ugandas. Sie ist ein Ort der Trauer und Besinnung.",
       hu: "Ez az emlékhely a 2004-es mészárlás áldozatainak állít emléket az észak-ugandai polgárháború idejéből. A hely a gyász és a reflexió színtere.",
@@ -1106,7 +1106,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-naggalabi-buddo-history-v2",
     type: "ruins",
     name: { de: "Naggalabi Buddo Krönungsstätte", hu: "Naggalabi Buddo koronázási hely", ro: "Sit de încoronare Naggalabi Buddo", en: "Naggalabi Buddo Coronation Site" },
-    coordinates: { lat: 0.252, lng: 32.484 },
+    coords: [32.484, 0.252],
     description: {
       de: "Auf diesem Hügel werden seit Jahrhunderten die Könige von Buganda gekrönt. Die Stätte bewahrt die traditionellen Rituale der Monarchie.",
       hu: "Ezen a dombon évszázadok óta koronázzák Buganda királyait. A helyszín őrzi a monarchia hagyományos rituáléit és szokásait.",
@@ -1125,7 +1125,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-munsa-earthworks-history-v2",
     type: "ruins",
     name: { de: "Munsa Erdarbeiten", hu: "Munsa földsáncok", ro: "Munsa Earthworks", en: "Munsa Earthworks" },
-    coordinates: { lat: 0.817, lng: 31.333 },
+    coords: [31.333, 0.817],
     description: {
       de: "Munsa ist eine bedeutende archäologische Stätte mit konzentrischen Gräben aus dem 15. Jahrhundert. Sie war ein Zentrum des Bachwezi-Reiches.",
       hu: "Munsa egy jelentős régészeti lelőhely a 15. századból származó koncentrikus árkokkal. A Bachwezi Birodalom egyik központja volt.",
@@ -1144,7 +1144,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-katereke-prison-ditch-history-v2",
     type: "ruins",
     name: { de: "Katereke Gefängnisgraben", hu: "Katereke börtönárok", ro: "Șanțul închisorii Katereke", en: "Katereke Prison Ditch" },
-    coordinates: { lat: 0.236, lng: 32.455 },
+    coords: [32.455, 0.236],
     description: {
       de: "Dieser kreisförmige Graben wurde von Kabaka Kalema im späten 19. Jahrhundert als Gefängnis genutzt. Er diente zur Inhaftierung politischer Rivalen.",
       hu: "Ezt a kör alakú árkot Kalema király használta börtönként a 19. század végén. Politikai riválisok fogvatartására szolgált.",
@@ -1163,7 +1163,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-bishop-hannington-site-history-v2",
     type: "monument",
     name: { de: "Bishop-Hannington-Gedenkstätte", hu: "Bishop Hannington emlékhely", ro: "Situl Memorial Bishop Hannington", en: "Bishop Hannington Memorial Site" },
-    coordinates: { lat: 0.583, lng: 33.45 },
+    coords: [33.45, 0.583],
     description: {
       de: "Diese Stätte markiert den Ort, an dem der anglikanische Bischof James Hannington 1885 getötet wurde. Er war der erste Bischof von Äquatorialafrika.",
       hu: "Ez a hely jelöli James Hannington anglikán püspök 1885-ös halálának helyszínét. Ő volt Egyenlítői-Afrika első püspöke.",
@@ -1182,7 +1182,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-dolwe-island-art-history-v2",
     type: "ruins",
     name: { de: "Dolwe-Insel Felsmalereien", hu: "Dolwe-szigeti sziklarajzok", ro: "Picturile rupestre de pe Insula Dolwe", en: "Dolwe Island Rock Art" },
-    coordinates: { lat: -0.116, lng: 33.866 },
+    coords: [33.866, -0.116],
     description: {
       de: "Dolwe Island beherbergt prähistorische Felsmalereien und geometrische Muster. Die Granitfelsen zeigen Kunstwerke früherer Zivilisationen.",
       hu: "A Dolwe-sziget prehisztorikus sziklarajzoknak és geometrikus mintáknak ad otthont. A gránitsziklák korai civilizációk műveit őrizik.",
@@ -1201,7 +1201,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-hamu-mukasa-house-history-v2",
     type: "landmark",
     name: { de: "Hamu-Mukasa-Haus", hu: "Hamu Mukasa ház", ro: "Casa Hamu Mukasa", en: "Hamu Mukasa House" },
-    coordinates: { lat: 0.32, lng: 32.595 },
+    coords: [32.595, 0.32],
     description: {
       de: "Dieses historische Wohnhaus gehörte Hamu Mukasa, einem bedeutenden Modernisierer und Schreiber von Buganda. Es zeigt koloniale Architektur.",
       hu: "Ez a történelmi lakóház Hamu Mukasáé volt, aki Buganda jelentős modernizálója és írója volt. Korai gyarmati építészetet mutat be.",
@@ -1220,7 +1220,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-kagulu-hill-history-v2",
     type: "peak",
     name: { de: "Kagulu-Hügel", hu: "Kagulu-domb", ro: "Dealul Kagulu", en: "Kagulu Hill" },
-    coordinates: { lat: 1.116, lng: 33.5 },
+    coords: [33.5, 1.116],
     description: {
       de: "Kagulu Hill ist eine heilige Stätte für das Volk der Basoga und der Ort ihrer frühen Besiedlung. Er bietet einen Blick auf den Kioga-See.",
       hu: "A Kagulu-domb a Basoga nép szent helye és korai letelepedésük helyszíne. Panorámás kilátást nyújt a Kyoga-tóra.",
@@ -1239,7 +1239,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-white-fathers-kazi-history-v2",
     type: "monument",
     name: { de: "Weiße Väter Gedenkstätte Kazi", hu: "Fehér Atyák Kazi emlékhely", ro: "Memorialul Părinților Albi Kazi", en: "White Fathers Memorial Kazi" },
-    coordinates: { lat: 0.2, lng: 32.616 },
+    coords: [32.616, 0.2],
     description: {
       de: "Dieses Denkmal am Ufer des Viktoriasees markiert die Landestelle der ersten katholischen Missionare im Jahr 1879. Sie kamen auf Einladung von Mutesa I.",
       hu: "Ez az emlékhely a Viktória-tó partján az első katolikus misszionáriusok 1879-es kikötési helyét jelzi. Mutesa I. király meghívására érkeztek.",
@@ -1258,7 +1258,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-masaka-old-mosque-history-v2",
     type: "landmark",
     name: { de: "Alte Moschee von Masaka", hu: "Masaka régi mecset", ro: "Moscheea Veche din Masaka", en: "Masaka Old Mosque" },
-    coordinates: { lat: -0.333, lng: 31.733 },
+    coords: [31.733, -0.333],
     description: {
       de: "Die alte Moschee von Masaka ist ein bedeutendes religiöses Wahrzeichen der muslimischen Gemeinschaft in der Region. Sie spiegelt die lokale Geschichte wider.",
       hu: "A masakai régi mecset a régió muzulmán közösségének jelentős vallási emléke. A helyi közösség történelmét és fejlődését tükrözi.",
@@ -1277,7 +1277,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-kisubi-mission-history-v2",
     type: "landmark",
     name: { de: "Missionsstation Kisubi", hu: "Kisubi missziós állomás", ro: "Misiunea Kisubi", en: "Kisubi Mission Station" },
-    coordinates: { lat: 0.125, lng: 32.533 },
+    coords: [32.533, 0.125],
     description: {
       de: "Kisubi wurde Ende des 19. Jahrhunderts als Pionierstandort für Bildung und Religion gegründet. Es beherbergt einige der ältesten Schulen Ugandas.",
       hu: "Kisubi a 19. század végén alapított úttörő oktatási és vallási központ. Itt találhatók Uganda legidősebb iskolái.",
@@ -1296,7 +1296,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-kichwamba-memorial-history-v2",
     type: "monument",
     name: { de: "Kichwamba-Gedenkstätte", hu: "Kichwamba emlékhely", ro: "Memorialul Kichwamba", en: "Kichwamba Memorial Site" },
-    coordinates: { lat: 0.25, lng: 30.183 },
+    coords: [30.183, 0.25],
     description: {
       de: "Diese Gedenkstätte erinnert an den tragischen Angriff auf das Kichwamba Technical College im Jahr 1998. Sie ist ein Mahnmal für den Frieden.",
       hu: "Ez az emlékhely a Kichwamba Műszaki Főiskola elleni 1998-as tragikus támadásnak állít emléket. A béke mementójaként szolgál.",
@@ -1315,7 +1315,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-arua-hill-history-v2",
     type: "landmark",
     name: { de: "Arua-Hügel", hu: "Arua-domb", ro: "Dealul Arua", en: "Arua Hill" },
-    coordinates: { lat: 3.016, lng: 30.916 },
+    coords: [30.916, 3.016],
     description: {
       de: "Arua Hill war ein administratives Zentrum während der Kolonialzeit unter belgischer und britischer Herrschaft. Er prägt das Stadtbild von Arua.",
       hu: "Az Arua-domb a belga és brit fennhatóság alatt álló gyarmati korszak adminisztratív központja volt. Meghatározza Arua városképét.",
@@ -1334,7 +1334,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-luzira-prison-museum-history-v2",
     type: "museum",
     name: { de: "Luzira-Gefängnismuseum", hu: "Luzira börtönmúzeum", ro: "Muzeul Închisorii Luzira", en: "Luzira Prison Museum" },
-    coordinates: { lat: 0.297, lng: 32.641 },
+    coords: [32.641, 0.297],
     description: {
       de: "Das Museum befindet sich im Luzira-Gefängniskomplex und dokumentiert die Geschichte des ugandischen Strafvollzugs seit der Kolonialzeit.",
       hu: "A múzeum a Luzira börtönkomplexumban található, és az ugandai büntetés-végrehajtás történetét dokumentálja a gyarmati korszaktól kezdve.",
@@ -1353,7 +1353,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-apollo-kaggwa-house-history-v2",
     type: "landmark",
     name: { de: "Sir-Apollo-Kaggwa-Haus", hu: "Sir Apollo Kaggwa ház", ro: "Casa Sir Apollo Kaggwa", en: "Sir Apollo Kaggwa House" },
-    coordinates: { lat: 0.32, lng: 32.583 },
+    coords: [32.583, 0.32],
     description: {
       de: "Dieses Haus gehörte Sir Apollo Kaggwa, dem langjährigen Premierminister von Buganda. Er war eine zentrale Figur der ugandischen Politik um 1900.",
       hu: "Ez a ház Sir Apollo Kaggwáé volt, aki Buganda hosszú ideig hivatalban lévő miniszterelnöke volt. Az 1900-as évek ugandai politikájának kulcsfigurája.",
@@ -1372,7 +1372,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-nalukolongo-martyrs-history-v2",
     type: "cathedral",
     name: { de: "Nalukolongo Märtyrerschrein", hu: "Nalukolongo mártír szentély", ro: "Sanctuarul Martirilor Nalukolongo", en: "Nalukolongo Martyrs Shrine" },
-    coordinates: { lat: 0.298, lng: 32.548 },
+    coords: [32.548, 0.298],
     description: {
       de: "Nalukolongo ist eine wichtige Station auf dem Weg der Uganda-Märtyrer. Hier erlitten einige der ersten Christen Verfolgung und Tod.",
       hu: "Nalukolongo az ugandai mártírok útjának egyik fontos állomása. Itt szenvedett üldöztetést és halált néhány korai keresztény.",
@@ -1391,7 +1391,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-karuziika-palace-history-v2",
     type: "palace",
     name: { de: "Karuziika-Palast Hoima", hu: "Karuziika palota Hoima", ro: "Palatul Karuziika Hoima", en: "Karuziika Palace Hoima" },
-    coordinates: { lat: 1.433, lng: 31.35 },
+    coords: [31.35, 1.433],
     description: {
       de: "Der Karuziika-Palast ist der offizielle Sitz des Omukama (Königs) von Bunyoro-Kitara. Er ist ein Symbol der kulturellen Identität des Reiches.",
       hu: "A Karuziika palota a Bunyoro-Kitara királyság Omukama-jának (királyának) hivatalos székhelye. A birodalom kulturális identitásának szimbóluma.",
@@ -1410,7 +1410,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-pubungu-site-history-v2",
     type: "landmark",
     name: { de: "Pubungu Kulturstätte", hu: "Pubungu kulturális helyszín", ro: "Situl Cultural Pubungu", en: "Pubungu Cultural Site" },
-    coordinates: { lat: 2.295, lng: 31.432 },
+    coords: [31.432, 2.295],
     description: {
       de: "Pubungu ist der Ort, an dem sich laut Legende die Luo-Brüder Nyipir und Labongo trennten. Dies markiert den Beginn verschiedener ethnischer Gruppen.",
       hu: "Pubungu az a hely, ahol a legenda szerint a Luo testvérek, Nyipir és Labongo elváltak. Ez jelzi a különböző etnikai csoportok eredetét.",
@@ -1429,7 +1429,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "uganda-banda-palace-history-v2",
     type: "palace",
     name: { de: "Königspalast von Banda", hu: "Banda királyi palota", ro: "Palatul Regal Banda", en: "Buganda Royal Palace Banda" },
-    coordinates: { lat: 0.347, lng: 32.628 },
+    coords: [32.628, 0.347],
     description: {
       de: "In Banda befand sich einer der Hauptpaläste von Kabaka Mutesa I., bevor er nach Kasubi umzog. Es war ein bedeutendes Machtzentrum im 19. Jahrhundert.",
       hu: "Bandában volt Mutesa I. király egyik fő palotája, mielőtt Kasubiba költözött volna. A 19. század egyik jelentős hatalmi központja volt.",

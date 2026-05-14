@@ -727,7 +727,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-place-de-france-moroni-history-v2",
     type: "landmark",
     name: { de: "Place de France Moroni", hu: "Place de France Moroni", ro: "Piața Franței din Moroni", en: "Place de France Moroni" },
-    coordinates: { lat: -11.7022, lng: 43.2481 },
+    coords: [43.2481, -11.7022],
     description: {
       de: "Dieser zentrale Platz in Moroni war während der Kolonialzeit der administrative Mittelpunkt der Stadt. Er beherbergt Denkmäler, die an die gemeinsame Geschichte mit Frankreich erinnern.",
       hu: "Moroni központi tere a gyarmati korszakban a város adminisztratív központja volt. Olyan emlékműveknek ad otthont, amelyek a Franciaországgal közös történelmi múltra emlékeztetnek.",
@@ -758,7 +758,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-tomb-sultan-said-ali-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Said Ali", hu: "Said Ali szultán sírja", ro: "Mormântul Sultanului Said Ali", en: "Tomb of Sultan Said Ali" },
-    coordinates: { lat: -11.7051, lng: 43.2503 },
+    coords: [43.2503, -11.7051],
     description: {
       de: "In diesem Grabmal ruht der letzte regierende Sultan von Grande Comore, der 1916 verstarb. Die Stätte ist ein wichtiges Symbol für das Ende der traditionellen Sultanate.",
       hu: "Ebben a sírboltban nyugszik Grande Comore utolsó uralkodó szultánja, aki 1916-ban hunyt el. A helyszín a hagyományos szultanátusok végének fontos szimbóluma.",
@@ -789,7 +789,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-miringoni-palace-history-v2",
     type: "palace",
     name: { de: "Sultanatspalast von Miringoni", hu: "Miringoni szultáni palota", ro: "Palatul Sultanatului din Miringoni", en: "Miringoni Sultanate Palace" },
-    coordinates: { lat: -12.2952, lng: 43.6554 },
+    coords: [43.6554, -12.2952],
     description: {
       de: "Diese Ruinen auf Mohéli markieren den Sitz des einstigen lokalen Sultanats der Insel. Der Palast verband arabische Architekturmotive mit lokalen Bautechniken.",
       hu: "Ezek a Mohéli-szigeti romok a sziget egykori helyi szultanátusának székhelyét jelzik. A palota az arab építészeti motívumokat ötvözte a helyi technikákkal.",
@@ -820,7 +820,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-mutsamudu-customs-house-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus Mutsamudu", hu: "Régi városháza Mutsamudu", ro: "Vechia Vamă din Mutsamudu", en: "Old Mutsamudu Customs House" },
-    coordinates: { lat: -12.1643, lng: 44.3962 },
+    coords: [44.3962, -12.1643],
     description: {
       de: "Das historische Zollgebäude im Hafen von Mutsamudu zeugt von der Bedeutung des Handels im 19. Jahrhundert. Es ist eines der ältesten kolonialen Gebäude auf Anjouan.",
       hu: "A mutsamudui kikötő történelmi vámépülete a 19. századi kereskedelem jelentőségéről tanúskodik. Anjouan egyik legrégebbi gyarmati épülete.",
@@ -851,7 +851,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-sultan-abdallah-palace-history-v2",
     type: "palace",
     name: { de: "Palast von Sultan Abdallah II.", hu: "II. Abdallah szultán palotája", ro: "Palatul Sultanului Abdallah II", en: "Sultan Abdallah II Palace" },
-    coordinates: { lat: -12.1655, lng: 44.4001 },
+    coords: [44.4001, -12.1655],
     description: {
       de: "Dieser ehemalige Sultanspalast auf Anjouan war das Machtzentrum während der Regierungszeit von Abdallah II. Die Architektur zeigt Einflüsse aus Arabien und Europa.",
       hu: "Ez az egykori szultáni palota Anjouan szigetén a hatalom központja volt II. Abdallah uralkodása alatt. Építészete arab és európai hatásokat mutat.",
@@ -882,7 +882,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-independence-square-moroni-history-v2",
     type: "landmark",
     name: { de: "Unabhängigkeitsplatz Moroni", hu: "Függetlenség tere Moroni", ro: "Piața Independenței din Moroni", en: "Independence Square Moroni" },
-    coordinates: { lat: -11.7005, lng: 43.2452 },
+    coords: [43.2452, -11.7005],
     description: {
       de: "Der Platz erinnert an die Unabhängigkeit der Komoren von Frankreich im Jahr 1975. Er ist Schauplatz für nationale Paraden und offizielle Staatszeremonien.",
       hu: "A tér a Comore-szigetek Franciaországtól való 1975-ös függetlenedésének állít emléket. Nemzeti parádék és hivatalos állami ünnepségek helyszíne.",
@@ -913,7 +913,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-portuguese-ruins-moheli-history-v2",
     type: "ruins",
     name: { de: "Portugiesische Ruinen von Mohéli", hu: "Portugál romok Mohélin", ro: "Ruinele portugheze din Mohéli", en: "Portuguese Ruins of Mohéli" },
-    coordinates: { lat: -12.3301, lng: 43.7202 },
+    coords: [43.7202, -12.3301],
     description: {
       de: "Diese spärlichen Überreste weisen auf die Anwesenheit portugiesischer Seefahrer im 16. Jahrhundert hin. Sie dienten als temporäre befestigte Posten an der Küste.",
       hu: "Ezek a ritka maradványok a portugál tengerészek 16. századi jelenlétére utalnak. Ideiglenes megerősített őrhelyekként szolgáltak a parton.",
@@ -944,7 +944,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-old-moroni-lighthouse-history-v2",
     type: "tower",
     name: { de: "Alter Leuchtturm von Moroni", hu: "Moroni régi világítótornya", ro: "Vechiul far din Moroni", en: "Old Moroni Lighthouse" },
-    coordinates: { lat: -11.7011, lng: 43.2444 },
+    coords: [43.2444, -11.7011],
     description: {
       de: "Der alte Leuchtturm am Hafen von Moroni leitete Jahrzehnte lang Schiffe sicher in die Bucht. Er ist ein Wahrzeichen der maritimen Geschichte der Hauptstadt.",
       hu: "A moroni kikötő régi világítótornya évtizedeken át segítette a hajók biztonságos bejutását az öbölbe. A főváros tengeri történelmének jelképe.",
@@ -975,7 +975,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-sultanate-cemetery-domoni-history-v2",
     type: "ruins",
     name: { de: "Sultanatsfriedhof von Domoni", hu: "Domoni szultáni temető", ro: "Cimitirul Sultanatului din Domoni", en: "Sultanate Cemetery of Domoni" },
-    coordinates: { lat: -12.2582, lng: 44.5325 },
+    coords: [44.5325, -12.2582],
     description: {
       de: "Dieser heilige Ort in Domoni beherbergt die Gräber früherer Sultane und adliger Familien von Anjouan. Die Grabmäler sind mit feinen arabischen Inschriften verziert.",
       hu: "Ez a domoni szent hely korábbi szultánok és Anjouan nemesi családjainak sírjait őrzi. A síremlékeket finom arab feliratok díszítik.",
@@ -1006,7 +1006,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-colonial-school-fomboni-history-v2",
     type: "landmark",
     name: { de: "Kolonialschule von Fomboni", hu: "Fomboni gyarmati iskola", ro: "Școala colonială din Fomboni", en: "French Colonial School Fomboni" },
-    coordinates: { lat: -12.2825, lng: 43.7431 },
+    coords: [43.7431, -12.2825],
     description: {
       de: "Eines der ersten modernen Bildungsgebäude auf Mohéli, errichtet während der französischen Mandatszeit. Es diente der Ausbildung lokaler Verwalter.",
       hu: "Az egyik első modern oktatási épület Mohélin, amelyet a francia mandátum idején emeltek. A helyi közigazgatási tisztviselők képzésére szolgált.",
@@ -1037,7 +1037,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-ouani-sultan-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Palastruinen von Ouani", hu: "Ouani szultáni palota romjai", ro: "Ruinele palatului sultanului din Ouani", en: "Ouani Sultan Palace Ruins" },
-    coordinates: { lat: -12.1385, lng: 44.4262 },
+    coords: [44.4262, -12.1385],
     description: {
       de: "In Ouani befinden sich die Überreste eines Palastes, der einst einem lokalen Adligen gehörte. Er zeigt die Pracht der anjouanischen Elite im 18. Jahrhundert.",
       hu: "Ouani városában egy egykor helyi nemes tulajdonában lévő palota maradványai találhatók. Az anjouani elit 18. századi pompáját mutatja be.",
@@ -1068,7 +1068,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-wallah-shirazi-ruins-history-v2",
     type: "ruins",
     name: { de: "Shirazi-Ruinen von Wallah", hu: "Wallah Shirazi romjai", ro: "Ruinele Shirazi din Wallah", en: "Wallah Shirazi Ruins" },
-    coordinates: { lat: -12.3155, lng: 43.6652 },
+    coords: [43.6652, -12.3155],
     description: {
       de: "Die Ruinen von Wallah auf Mohéli zeugen von der frühen Besiedlung durch Shirazi-Einwanderer aus Persien. Sie umfassen Fundamente von Häusern und Moscheen.",
       hu: "A mohéli Wallah romjai a Perzsiából érkező Shirazi bevándorlók korai letelepedéséről tanúskodnak. Házak és mecsetek alapjait foglalják magukban.",
@@ -1082,12 +1082,24 @@ export const poiExtraComorosHistoryV2: POI[] = [
       en: ["Dated to the 14th century", "Persian influences in construction", "Oldest stone structures on the island", "Archaeological excavation site"],
     },
     imageHint: "Ancient stone foundations and walls of Shirazi ruins in Wallah",
+    descriptionAdvanced: {
+      de: "Die Wallah-Shirazi-Ruinen auf der Komoreninsel Grande Comore sind Überreste einer Siedlung aus dem 15. Jahrhundert. Sie gelten als Zeugnis des persischen Einflusses in der Region, da der Name auf die iranische Stadt Schiraz verweist. Die Ruinen bestehen aus Korallensteinmauern, die einst Moscheen und Häuser bildeten. 1993 wurden sie zum UNESCO-Weltkulturerbe nominiert. Die Stätte ist archäologisch bedeutend und gibt Einblicke in das mittelalterliche Handelsnetz des Indischen Ozeans.",
+      hu: "A Wallah Shirazi romok Grande Comore szigetén találhatók, a 15. századból származó település maradványai. A név a perzsa Shiraz városra utal, ami a perzsa hatást jelzi a térségben. A korallkőből épült falak mecsetek és házak alapjait mutatják. 1993-ban az UNESCO ideiglenes világörökségi listájára került. A romok fontos régészeti lelőhelyek, amelyek az Indiai-óceáni kereskedelem történetét tárják fel.",
+      ro: "Ruinele Wallah Shirazi de pe insula Grande Comore sunt vestigiile unei așezări din secolul al XV-lea. Numele sugerează o legătură cu orașul persan Shiraz. Construcțiile din piatră de corali includ fundațiile unei moschei și ale unor case. Situl a fost nominalizat pentru Patrimoniul Mondial UNESCO în 1993. Aceste ruine oferă informații despre influența persană și comerțul medieval din Oceanul Indian.",
+      en: "The Wallah Shirazi Ruins on Grande Comore are the remains of a 15th-century settlement, indicating Persian influence in the Comoros. The site features coral stone foundations of a mosque and houses. It was added to the UNESCO Tentative List in 1993. The ruins span approximately 2 hectares. Artifacts found include pottery from China and Persia, evidencing trade networks. The site is threatened by coastal erosion and vegetation growth.",
+    },
+    factsAdvanced: {
+      de: ["15. Jahrhundert erbaut", "Fläche: 2 Hektar", "Korallensteinbauweise", "1993 auf UNESCO-Tentativliste", "Keramikfunde aus China und Persien", "Lage: Grande Comore, Nähe zu Moroni"],
+      hu: ["15. századi település", "Terület: 2 hektár", "Korallkőből épült", "UNESCO előzetes lista 1993", "Kínai és perzsa kerámia leletek", "Grande Comore szigetén"],
+      ro: ["Datând din secolul al XV-lea", "Suprafață: 2 ha", "Ziduri din piatră de corali", "Lista tentativă UNESCO din 1993", "Ceramică chineză și persană descoperită", "Situat pe insula Grande Comore"],
+      en: ["15th-century settlement", "Area: 2 ha", "Coral stone construction", "UNESCO tentative listing 1993", "Artifacts: Chinese porcelain, Persian pottery", "Location: near Moroni, Grande Comore"],
+    },
   },
   {
     id: "comoros-tomb-seven-virgins-history-v2",
     type: "monument",
     name: { de: "Grab der sieben Jungfrauen", hu: "A hét szűz sírja", ro: "Mormântul celor șapte fecioare", en: "Tomb of the Seven Virgins" },
-    coordinates: { lat: -11.3955, lng: 43.3301 },
+    coords: [43.3301, -11.3955],
     description: {
       de: "Eine legendäre historische Stätte im Norden von Grande Comore. Das Gemeinschaftsgrab ist mit Mythen über die Bewahrung der Reinheit und Ehre verbunden.",
       hu: "Legendás történelmi helyszín Grande Comore északi részén. A közös sírhoz a tisztaság és a becsület megőrzéséről szóló mítoszok kapcsolódnak.",
@@ -1118,7 +1130,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-matsamoudou-royal-throne-history-v2",
     type: "landmark",
     name: { de: "Königlicher Thron von Mutsamudu", hu: "Mutsamudui királyi trón", ro: "Tronul regal din Mutsamudu", en: "Matsamoudou Royal Throne Site" },
-    coordinates: { lat: -12.1662, lng: 44.4021 },
+    coords: [44.4021, -12.1662],
     description: {
       de: "Dieser historische Ort markiert die Stelle, an der die Sultane von Anjouan während offizieller Audienzen thronten. Er symbolisiert die dynastische Kontinuität der Insel.",
       hu: "Ez a történelmi hely azt a pontot jelöli, ahol Anjouan szultánjai trónoltak a hivatalos kihallgatások során. A sziget dinasztikus folytonosságát jelképezi.",
@@ -1149,7 +1161,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-colonial-gendarmerie-moroni-history-v2",
     type: "landmark",
     name: { de: "Koloniale Gendarmerie Moroni", hu: "Moroni gyarmati csendőrség", ro: "Gendarmeria colonială din Moroni", en: "Colonial Gendarmerie Moroni" },
-    coordinates: { lat: -11.7032, lng: 43.2491 },
+    coords: [43.2491, -11.7032],
     description: {
       de: "Das Gebäude der ehemaligen französischen Gendarmerie ist ein markantes Beispiel kolonialer Zweckarchitektur. Es diente zur Aufrechterhaltung der Ordnung in der Hauptstadt.",
       hu: "Az egykori francia csendőrség épülete a gyarmati funkcionális építészet jellegzetes példája. A rend fenntartására szolgált a fővárosban.",
@@ -1180,7 +1192,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-old-prison-moroni-history-v2",
     type: "landmark",
     name: { de: "Altes Gefängnis von Moroni", hu: "Moroni régi börtöne", ro: "Vechia închisoare din Moroni", en: "Old Prison of Moroni" },
-    coordinates: { lat: -11.7082, lng: 43.2521 },
+    coords: [43.2521, -11.7082],
     description: {
       de: "Dieses ehemalige Gefängnis wurde während der Kolonialzeit errichtet und spiegelt die Justizgeschichte der Inseln wider. Heute ist es ein Ort der Erinnerung an politische Gefangene.",
       hu: "Ezt az egykori börtönt a gyarmati korszakban építették, és a szigetek igazságszolgáltatási történelmét tükrözi. Ma a politikai foglyok emlékhelye.",
@@ -1211,7 +1223,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-historic-post-office-history-v2",
     type: "landmark",
     name: { de: "Historisches Postamt Moroni", hu: "Moroni történelmi postahivatala", ro: "Poșta istorică din Moroni", en: "Historic Moroni Post Office" },
-    coordinates: { lat: -11.7042, lng: 43.2471 },
+    coords: [43.2471, -11.7042],
     description: {
       de: "Das alte Postgebäude von Moroni war das Kommunikationszentrum der Inseln mit Europa. Die Architektur ist typisch für die französische Überseeverwaltung.",
       hu: "Moroni régi postaépülete volt a szigetek Európával való kommunikációjának központja. Az építészet a francia tengerentúli igazgatásra jellemző.",
@@ -1242,7 +1254,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-itsandra-ancient-well-history-v2",
     type: "landmark",
     name: { de: "Alter Brunnen von Itsandra", hu: "Itsandra régi kútja", ro: "Vechea fântână din Itsandra", en: "Itsandra Ancient Well" },
-    coordinates: { lat: -11.6685, lng: 43.2552 },
+    coords: [43.2552, -11.6685],
     description: {
       de: "Dieser tiefe Brunnen in Itsandra war jahrhundertelang die Hauptwasserquelle der alten Stadtmauer-Siedlung. Er ist ein technisches Denkmal der traditionellen komorischen Baukunst.",
       hu: "Ez a mély kút Itsandrában évszázadokon át a régi várfallal körbevett település fő vízforrása volt. A hagyományos comore-i építészet műszaki emléke.",
@@ -1273,7 +1285,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-mbeni-royal-cemetery-history-v2",
     type: "ruins",
     name: { de: "Königlicher Friedhof von Mbeni", hu: "Mbeni királyi temető", ro: "Cimitirul regal din Mbeni", en: "Mbeni Royal Cemetery" },
-    coordinates: { lat: -11.5122, lng: 43.3751 },
+    coords: [43.3751, -11.5122],
     description: {
       de: "Ein Friedhof im Nordosten von Grande Comore, auf dem lokale Stammesfürsten und Sultane bestattet wurden. Die Gräber zeigen kunstvolle Steinmetzarbeiten.",
       hu: "Egy temető Grande Comore északkeleti részén, ahol helyi törzsfőnököket és szultánokat temettek el. A sírok művészi kőfaragásokat mutatnak be.",
@@ -1304,7 +1316,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-nioumachoua-shirazi-tomb-history-v2",
     type: "monument",
     name: { de: "Shirazi-Grab von Nioumachoua", hu: "Nioumachoua Shirazi sírja", ro: "Mormântul Shirazi din Nioumachoua", en: "Nioumachoua Shirazi Tomb" },
-    coordinates: { lat: -12.3582, lng: 43.7151 },
+    coords: [43.7151, -12.3582],
     description: {
       de: "Dieses alte Grabmal auf Mohéli ist einem bedeutenden Shirazi-Führer gewidmet. Es ist ein Beweis für die historische Verbindung der Inseln mit der persischen Welt.",
       hu: "Ez a mohéli síremlék egy jelentős Shirazi vezetőnek van szentelve. Bizonyítéka a szigetek és a perzsa világ közötti történelmi kapcsolatnak.",
@@ -1335,7 +1347,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-miringoni-colonial-building-history-v2",
     type: "landmark",
     name: { de: "Kolonialgebäude von Miringoni", hu: "Miringoni gyarmati épület", ro: "Clădirea colonială din Miringoni", en: "Miringoni Colonial Building" },
-    coordinates: { lat: -12.2961, lng: 43.6562 },
+    coords: [43.6562, -12.2961],
     description: {
       de: "Ein gut erhaltenes Beispiel kolonialer Wohnarchitektur auf Mohéli. Es wurde ursprünglich für französische Plantagenbesitzer oder Verwalter errichtet.",
       hu: "A gyarmati lakóépítészet jól megőrzött példája Mohélin. Eredetileg francia ültetvénytulajdonosok vagy adminisztrátorok számára épült.",
@@ -1366,7 +1378,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-bimbini-ancient-settlement-history-v2",
     type: "ruins",
     name: { de: "Alte Siedlung von Bimbini", hu: "Bimbini ősi települése", ro: "Așezarea veche din Bimbini", en: "Bimbini Ancient Settlement" },
-    coordinates: { lat: -12.1852, lng: 44.2254 },
+    coords: [44.2254, -12.1852],
     description: {
       de: "Die antike Siedlung Bimbini auf Anjouan beherbergt Überreste von Hafenanlagen und Häusern aus der vorkolonialen Zeit. Sie war ein wichtiger Punkt für den regionalen Seehandel.",
       hu: "Anjouan ősi Bimbini települése kikötői létesítmények és házak maradványait őrzi a gyarmatosítás előtti időkből. Fontos pont volt a regionális tengeri kereskedelemben.",
@@ -1397,7 +1409,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-sima-historical-center-history-v2",
     type: "village",
     name: { de: "Historisches Zentrum von Sima", hu: "Sima történelmi központja", ro: "Centrul istoric din Sima", en: "Sima Historical Center" },
-    coordinates: { lat: -12.1955, lng: 44.2752 },
+    coords: [44.2752, -12.1955],
     description: {
       de: "Sima ist eine der ältesten Siedlungen auf Anjouan mit einer reichen Geschichte als religiöses und politisches Zentrum. Die Stadtstruktur bewahrt mittelalterliche Merkmale.",
       hu: "Sima Anjouan egyik legrégebbi települése, gazdag vallási és politikai múlttal. A városszerkezet megőrzi a középkori jellegzetességeket.",
@@ -1428,7 +1440,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-fomboni-colonial-hospital-history-v2",
     type: "landmark",
     name: { de: "Kolonialkrankenhaus von Fomboni", hu: "Fomboni gyarmati kórház", ro: "Spitalul colonial din Fomboni", en: "Fomboni Colonial Hospital" },
-    coordinates: { lat: -12.2815, lng: 43.7444 },
+    coords: [43.7444, -12.2815],
     description: {
       de: "Dieses Gebäude war die erste medizinische Einrichtung moderner Art auf Mohéli. Es wurde von der französischen Verwaltung erbaut, um die Gesundheitsversorgung zu sichern.",
       hu: "Ez az épület volt az első modern típusú egészségügyi intézmény Mohélin. A francia közigazgatás építette az egészségügyi ellátás biztosítására.",
@@ -1459,7 +1471,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-mitsamiouli-fort-ruins-history-v2",
     type: "ruins",
     name: { de: "Festungsruinen von Mitsamiouli", hu: "Mitsamiouli erődromjai", ro: "Ruinele fortăreței din Mitsamiouli", en: "Mitsamiouli Fort Ruins" },
-    coordinates: { lat: -11.3852, lng: 43.3255 },
+    coords: [43.3255, -11.3852],
     description: {
       de: "Die Überreste dieser Festung im Norden von Grande Comore dienten einst zum Schutz vor Piratenüberfällen aus Madagaskar. Die Mauern bestehen aus Korallengestein.",
       hu: "Grande Comore északi részén található erőd maradványai egykor a Madagaszkárról érkező kalóztámadások elleni védekezésre szolgáltak. Falai korallkőből épültek.",
@@ -1490,7 +1502,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-badjanani-ancient-quarter-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Badjanani", hu: "Badjanani történelmi negyed", ro: "Cartierul istoric Badjanani", en: "Badjanani Ancient Quarter" },
-    coordinates: { lat: -11.7035, lng: 43.2472 },
+    coords: [43.2472, -11.7035],
     description: {
       de: "Das Viertel Badjanani ist der älteste Teil von Moroni und das Herz der Altstadt. Es ist geprägt von engen Gassen, geschnitzten Holztüren und traditioneller Architektur.",
       hu: "Badjanani negyed Moroni legrégebbi része és az óváros szíve. Szűk sikátorok, faragott faajtók és hagyományos építészet jellemzi.",
@@ -1521,7 +1533,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-domoni-city-walls-history-v2",
     type: "ruins",
     name: { de: "Stadtmauern von Domoni", hu: "Domoni városfalai", ro: "Zidurile orașului Domoni", en: "Domoni City Walls" },
-    coordinates: { lat: -12.2591, lng: 44.5312 },
+    coords: [44.5312, -12.2591],
     description: {
       de: "Die massiven Stadtmauern von Domoni schützten die Residenz der Sultane von Anjouan vor Angriffen. Sie sind ein beeindruckendes Beispiel für mittelalterliche Befestigungskunst.",
       hu: "Domoni masszív városfalai védték Anjouan szultánjainak rezidenciáját a támadásoktól. A középkori erődítési művészet lenyűgöző példái.",
@@ -1552,7 +1564,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-mirontsi-sultan-residence-history-v2",
     type: "ruins",
     name: { de: "Sultansresidenz von Mirontsi", hu: "Mirontsi szultáni rezidencia", ro: "Reședința sultanului din Mirontsi", en: "Mirontsi Sultan Residence" },
-    coordinates: { lat: -12.1552, lng: 44.4055 },
+    coords: [44.4055, -12.1552],
     description: {
       de: "Die Ruinen in Mirontsi bei Mutsamudu dienten den Sultanen von Anjouan als Sommerresidenz oder Rückzugsort. Das Areal zeigt Reste von prunkvollen Gärten.",
       hu: "A Mutsamudu melletti Mirontsi romjai Anjouan szultánjainak nyári rezidenciájaként vagy pihenőhelyeként szolgáltak. A területen pompás kertek maradványai láthatók.",
@@ -1583,7 +1595,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-iconi-battlefield-site-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Iconi", hu: "Iconi csatatér", ro: "Locul bătăliei de la Iconi", en: "Iconi Battlefield Site" },
-    coordinates: { lat: -11.7352, lng: 43.2455 },
+    coords: [43.2455, -11.7352],
     description: {
       de: "Dieser Ort bei den Klippen von Iconi war Schauplatz historischer Konflikte zwischen lokalen Sultanaten und madagassischen Angreifern. Die Klippen dienten als natürliche Barriere.",
       hu: "Ez az Iconi sziklái melletti helyszín történelmi konfliktusok színhelye volt a helyi szultanátusok és a madagaszkári támadók között. A sziklák természetes gátként szolgáltak.",
@@ -1614,7 +1626,7 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "comoros-ntsoudjini-historical-square-history-v2",
     type: "landmark",
     name: { de: "Historischer Platz von Ntsoudjini", hu: "Ntsoudjini történelmi tere", ro: "Piața istorică din Ntsoudjini", en: "Ntsoudjini Historical Square" },
-    coordinates: { lat: -11.6552, lng: 43.2951 },
+    coords: [43.2951, -11.6552],
     description: {
       de: "Der zentrale Platz von Ntsoudjini war über Jahrhunderte ein Ort für politische Versammlungen und kulturelle Feste. Er ist das soziale Zentrum dieser historisch bedeutsamen Stadt.",
       hu: "Ntsoudjini központi tere évszázadokon át politikai gyűlések és kulturális fesztiválok helyszíne volt. E történelmileg jelentős város társadalmi központja.",

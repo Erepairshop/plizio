@@ -792,7 +792,7 @@ export const poiExtraRwandaLifeV2: POI[] = [
     id: "rwanda-nyandungu-eco-park-life-v2",
     type: "park",
     name: { de: "Nyandungu Eco-Park", hu: "Nyandungu Ökopark", ro: "Eco-Parcul Nyandungu", en: "Nyandungu Eco-Park" },
-    coordinates: { lat: -1.948, lng: 30.144 },
+    coords: [30.144, -1.948],
     description: {
       de: "Dieses 121 Hektar große Feuchtgebiet in Kigali dient als Schutzgebiet. Es bietet Heilgärten, Wanderwege und Lebensraum für viele Vögel.",
       hu: "Ez a Kigali melletti 121 hektáros mocsárvidék városi menedékhely. Gyógynövénykertekkel és gazdag madárvilággal rendelkezik.",

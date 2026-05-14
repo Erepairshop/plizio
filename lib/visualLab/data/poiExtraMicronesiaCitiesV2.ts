@@ -5,7 +5,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-palikir-cities-v2",
     type: "capital",
     name: { de: "Palikir", hu: "Palikir", ro: "Palikir", en: "Palikir" },
-    coordinates: { lat: 6.9248, lng: 158.1611 },
+    coords: [158.1611, 6.9248],
     description: {
       de: "Palikir ist die Hauptstadt der Föderierten Staaten von Mikronesien auf der Insel Pohnpei. Sie ist seit 1989 das administrative Zentrum des Inselstaates.",
       hu: "Palikir a Mikronéziai Szövetségi Államok fővárosa Pohnpei szigetén. Az 1980-as évek vége óta az ország kormányzati központja.",
@@ -24,7 +24,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-weno-cities-v2",
     type: "city",
     name: { de: "Weno", hu: "Weno", ro: "Weno", en: "Weno" },
-    coordinates: { lat: 7.4491, lng: 151.8469 },
+    coords: [151.8469, 7.4491],
     description: {
       de: "Weno ist die bevölkerungsreichste Stadt des Landes und das wirtschaftliche Zentrum des Staates Chuuk. Sie liegt in der riesigen Chuuk-Lagune.",
       hu: "Weno az ország legnépesebb városa és Chuuk állam gazdasági központja. A hatalmas Chuuk-lagúna egyik szigetén található.",
@@ -43,7 +43,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-kolonia-cities-v2",
     type: "city",
     name: { de: "Kolonia", hu: "Kolonia", ro: "Kolonia", en: "Kolonia" },
-    coordinates: { lat: 6.964, lng: 158.2037 },
+    coords: [158.2037, 6.964],
     description: {
       de: "Kolonia ist die größte Siedlung auf Pohnpei und war früher die Hauptstadt des Landes. Sie dient als wichtigster Hafen und Handelsplatz der Insel.",
       hu: "Kolonia Pohnpei legnagyobb települése és az ország korábbi fővárosa. A sziget legfontosabb kikötőjeként és kereskedelmi központjaként szolgál.",
@@ -62,7 +62,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-colonia-yap-cities-v2",
     type: "town",
     name: { de: "Colonia", hu: "Colonia", ro: "Colonia", en: "Colonia" },
-    coordinates: { lat: 9.5164, lng: 138.1271 },
+    coords: [138.1271, 9.5164],
     description: {
       de: "Colonia ist der Hauptort des Staates Yap und liegt an der Ostküste der Insel. Die Stadt ist bekannt für die Bewahrung traditioneller mikronesischer Kultur.",
       hu: "Colonia Yap állam központja, amely a sziget keleti partján fekszik. A város híres a hagyományos mikronéziai kultúra megőrzéséről.",
@@ -81,7 +81,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-tofol-cities-v2",
     type: "capital",
     name: { de: "Tofol", hu: "Tofol", ro: "Tofol", en: "Tofol" },
-    coordinates: { lat: 5.3314, lng: 163.0039 },
+    coords: [163.0039, 5.3314],
     description: {
       de: "Tofol ist das administrative Zentrum des Staates Kosrae. Die Siedlung beherbergt die wichtigsten Regierungsgebäude und Schulen der Insel.",
       hu: "Tofol Kosrae állam adminisztratív központja. A település ad otthont a sziget legfontosabb kormányzati épületeinek és iskoláinak.",
@@ -100,7 +100,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-lelu-cities-v2",
     type: "ruins",
     name: { de: "Lelu", hu: "Lelu", ro: "Lelu", en: "Lelu" },
-    coordinates: { lat: 5.3333, lng: 163.0167 },
+    coords: [163.0167, 5.3333],
     description: {
       de: "Lelu ist eine historische Stadt auf Kosrae, die für ihre massiven megalithischen Ruinen aus dem 14. Jahrhundert bekannt ist.",
       hu: "Lelu egy történelmi város Kosrae szigetén, amely a 14. századból származó hatalmas megalitikus romjairól ismert.",
@@ -119,7 +119,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-tol-cities-v2",
     type: "town",
     name: { de: "Tol", hu: "Tol", ro: "Tol", en: "Tol" },
-    coordinates: { lat: 7.345, lng: 151.621 },
+    coords: [151.621, 7.345],
     description: {
       de: "Tol ist die größte Insel und Gemeinde im Faichuk-Distrikt von Chuuk. Sie ist bekannt für ihre hohen Berge und die dichte tropische Vegetation.",
       hu: "Tol a legnagyobb sziget és község Chuuk Faichuk körzetében. Magas hegyeiről és sűrű trópusi növényzetéről ismert.",
@@ -138,7 +138,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-fefan-cities-v2",
     type: "town",
     name: { de: "Fefan", hu: "Fefan", ro: "Fefan", en: "Fefan" },
-    coordinates: { lat: 7.35, lng: 151.8333 },
+    coords: [151.8333, 7.35],
     description: {
       de: "Fefan ist die drittgrößte bewohnte Insel der Chuuk-Lagune. Sie ist ein bedeutendes landwirtschaftliches Zentrum, das die umliegenden Inseln mit Nahrung versorgt.",
       hu: "Fefan a Chuuk-lagúna harmadik legnagyobb lakott szigete. Jelentős mezőgazdasági központ, amely élelemmel látja el a környező szigeteket.",
@@ -157,7 +157,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-tonoas-cities-v2",
     type: "town",
     name: { de: "Tonoas", hu: "Tonoas", ro: "Tonoas", en: "Tonoas" },
-    coordinates: { lat: 7.3833, lng: 151.8833 },
+    coords: [151.8833, 7.3833],
     description: {
       de: "Tonoas, auch als Dublon bekannt, war während des Zweiten Weltkriegs ein wichtiger Stützpunkt der japanischen kaiserlichen Marine.",
       hu: "Tonoas, más néven Dublon, a második világháború alatt a Japán Császári Haditengerészet fontos bázisa volt.",
@@ -176,7 +176,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-nett-cities-v2",
     type: "town",
     name: { de: "Nett", hu: "Nett", ro: "Nett", en: "Nett" },
-    coordinates: { lat: 6.95, lng: 158.2167 },
+    coords: [158.2167, 6.95],
     description: {
       de: "Nett ist eine bevölkerungsreiche Gemeinde auf der Insel Pohnpei, die direkt an die Stadt Kolonia grenzt und wichtige Infrastruktur beherbergt.",
       hu: "Nett egy népes község Pohnpei szigetén, amely közvetlenül határos Kolonia városával, és fontos infrastruktúrának ad otthont.",
@@ -195,7 +195,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-kitti-cities-v2",
     type: "town",
     name: { de: "Kitti", hu: "Kitti", ro: "Kitti", en: "Kitti" },
-    coordinates: { lat: 6.8333, lng: 158.1667 },
+    coords: [158.1667, 6.8333],
     description: {
       de: "Kitti ist eine Gemeinde im Süden von Pohnpei, die für ihre spektakulären Wasserfälle und die unberührte Natur bekannt ist.",
       hu: "Kitti egy község Pohnpei déli részén, amely látványos vízeséseiről és érintetlen természetéről ismert.",
@@ -214,7 +214,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-madolenihmw-cities-v2",
     type: "town",
     name: { de: "Madolenihmw", hu: "Madolenihmw", ro: "Madolenihmw", en: "Madolenihmw" },
-    coordinates: { lat: 6.85, lng: 158.3 },
+    coords: [158.3, 6.85],
     description: {
       de: "Madolenihmw ist eine Gemeinde auf Pohnpei, auf deren Gebiet sich die berühmte Ruinenstadt Nan Madol befindet.",
       hu: "Madolenihmw egy község Pohnpei szigetén, amelynek területén található a híres Nan Madol romvárosa.",
@@ -233,7 +233,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-sokehs-cities-v2",
     type: "town",
     name: { de: "Sokehs", hu: "Sokehs", ro: "Sokehs", en: "Sokehs" },
-    coordinates: { lat: 6.9667, lng: 158.1833 },
+    coords: [158.1833, 6.9667],
     description: {
       de: "Sokehs ist eine Gemeinde auf Pohnpei, die für den markanten Sokehs Rock bekannt ist, einen vulkanischen Felsen, der den Hafen überragt.",
       hu: "Sokehs egy község Pohnpei szigetén, amely a jellegzetes Sokehs-szikláról ismert, egy vulkáni kúp, amely a kikötő fölé magasodik.",
@@ -252,7 +252,7 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-tafunsak-cities-v2",
     type: "town",
     name: { de: "Tafunsak", hu: "Tafunsak", ro: "Tafunsak", en: "Tafunsak" },
-    coordinates: { lat: 5.3667, lng: 162.9833 },
+    coords: [162.9833, 5.3667],
     description: {
       de: "Tafunsak ist die bevölkerungsreichste Gemeinde auf der Insel Kosrae. Sie liegt im Norden und beherbergt den internationalen Flughafen der Insel.",
       hu: "Tafunsak Kosrae szigetének legnépesebb községe. Az északi részen található, és itt székel a sziget nemzetközi repülőtere.",

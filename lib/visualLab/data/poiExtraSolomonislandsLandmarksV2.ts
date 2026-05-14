@@ -5,7 +5,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-parliament-building-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude der Salomonen", hu: "Salamon-szigeteki Parlament", ro: "Parlamentul Insulelor Solomon", en: "Solomon Islands Parliament Building" },
-    coordinates: { lat: -9.4361, lng: 159.9572 },
+    coords: [159.9572, -9.4361],
     description: {
       de: "Das markante kegelförmige Gebäude in Honiara wurde 1993 mit Unterstützung der USA fertiggestellt. Es ist das Zentrum der Legislative.",
       hu: "A Honiarában található, jellegzetes kúp alakú épület 1993-ban készült el amerikai segítséggel. Ez az ország törvényhozásának központja.",
@@ -24,7 +24,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum der Salomonen", hu: "Salamon-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Insulelor Solomon", en: "National Museum of Solomon Islands" },
-    coordinates: { lat: -9.4314, lng: 159.9611 },
+    coords: [159.9611, -9.4314],
     description: {
       de: "Das 1969 eröffnete Museum in Honiara zeigt Exponate zur Kultur, Geschichte und Archäologie der Inseln. Es liegt gegenüber dem Mendana Hotel.",
       hu: "Az 1969-ben megnyílt honiarai múzeum a szigetek kultúráját, történelmét és régészetét mutatja be. A Mendana Hotellel szemben található.",
@@ -43,7 +43,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-us-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Amerikanisches Kriegsdenkmal", hu: "Amerikai Háborús Emlékmű", ro: "Memorialul de Război American", en: "US War Memorial" },
-    coordinates: { lat: -9.4394, lng: 159.9483 },
+    coords: [159.9483, -9.4394],
     description: {
       de: "Dieses Denkmal auf dem Skyline Ridge erinnert an die Schlacht um Guadalcanal im Zweiten Weltkrieg. Es bietet einen weiten Blick über Honiara.",
       hu: "Ez a Skyline-gerincen álló emlékmű a guadalcanali csatának állít emléket. Széles kilátást nyújt Honiara városára.",
@@ -62,7 +62,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-japanese-peace-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Japanisches Friedensdenkmal", hu: "Japán Békeemlékmű", ro: "Memorialul Păcii Japonez", en: "Japanese Peace Memorial" },
-    coordinates: { lat: -9.4794, lng: 159.9722 },
+    coords: [159.9722, -9.4794],
     description: {
       de: "Das Denkmal auf dem Mount Austen erinnert an die japanischen Gefallenen der Kämpfe von 1942. Es ist ein Ort der Stille und Versöhnung.",
       hu: "Az Austen-hegyen található emlékmű az 1942-es harcok japán áldozataira emlékeztet. A csend és a megbékélés helyszíne.",
@@ -81,7 +81,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-st-barnabas-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Barnabas Kathedrale", hu: "Szent Barnabás-székesegyház", ro: "Catedrala Sfântul Barnaba", en: "St. Barnabas Cathedral" },
-    coordinates: { lat: -9.4367, lng: 159.9764 },
+    coords: [159.9764, -9.4367],
     description: {
       de: "Diese anglikanische Kathedrale in Honiara ist bekannt für ihre Architektur und Holzschnitzereien. Sie ist der Sitz des Erzbischofs.",
       hu: "Ez az anglikán székesegyház Honiarában építészetéről és fafaragványairól ismert. Itt található az érsek székhelye.",
@@ -100,7 +100,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-holy-cross-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Heilig-Kreuz-Kathedrale", hu: "Szent Kereszt-székesegyház", ro: "Catedrala Sfânta Cruce", en: "Holy Cross Cathedral" },
-    coordinates: { lat: -9.4317, lng: 159.9575 },
+    coords: [159.9575, -9.4317],
     description: {
       de: "Die katholische Kathedrale thront auf einem Hügel über Honiara und ist ein weithin sichtbares Wahrzeichen. Sie wurde im späten 20. Jahrhundert erbaut.",
       hu: "A katolikus székesegyház egy dombon magasodik Honiara felett, és messziről látható jelkép. A 20. század végén épült.",
@@ -119,7 +119,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-bonegi-ii-wreck-landmarks-v2",
     type: "landmark",
     name: { de: "Bonegi II Schiffswrack", hu: "Bonegi II hajóroncs", ro: "Epava Bonegi II", en: "Bonegi II Wreck" },
-    coordinates: { lat: -9.3811, lng: 159.8789 },
+    coords: [159.8789, -9.3811],
     description: {
       de: "Die Bonegi II ist ein japanisches Transportschiff, das nur wenige Meter vom Strand entfernt liegt. Es ist ein berühmtes Wahrzeichen für Taucher.",
       hu: "A Bonegi II egy japán szállítóhajó, amely mindössze néhány méterre fekszik a parttól. A búvárok körében híres jelkép.",
@@ -138,7 +138,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-skull-island-landmarks-v2",
     type: "landmark",
     name: { de: "Schädelinsel (Skull Island)", hu: "Koponya-sziget", ro: "Insula Craniilor", en: "Skull Island" },
-    coordinates: { lat: -8.2433, lng: 157.3486 },
+    coords: [157.3486, -8.2433],
     description: {
       de: "Diese kleine Insel in der Vona Vona Lagune beherbergt einen Schrein mit Schädeln ehemaliger Häuptlinge und Krieger. Es ist ein heiliger Ort.",
       hu: "Ez a Vona Vona-lagúnában található kis sziget egy szentélyt őriz egykori törzsfők és harcosok koponyáival. Szent helynek számít.",
@@ -157,7 +157,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-kennedy-island-landmarks-v2",
     type: "landmark",
     name: { de: "Kennedy-Insel", hu: "Kennedy-sziget", ro: "Insula Kennedy", en: "Kennedy Island" },
-    coordinates: { lat: -8.1153, lng: 156.9189 },
+    coords: [156.9189, -8.1153],
     description: {
       de: "Hier strandete John F. Kennedy 1943 nach dem Untergang seines Bootes PT-109. Die Insel ist ein historisches Denkmal nahe Gizo.",
       hu: "Itt kötött ki John F. Kennedy 1943-ban, miután PT-109-es hajója elsüllyedt. A sziget Gizo közelében található történelmi emlékhely.",
@@ -176,7 +176,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-peter-joseph-museum-landmarks-v2",
     type: "museum",
     name: { de: "Peter Joseph WWII Museum", hu: "Peter Joseph Világháborús Múzeum", ro: "Muzeul celui de-al Doilea Război Mondial Peter Joseph", en: "Peter Joseph WWII Museum" },
-    coordinates: { lat: -8.3283, lng: 157.2711 },
+    coords: [157.2711, -8.3283],
     description: {
       de: "Dieses private Museum in Munda zeigt eine beeindruckende Sammlung von Relikten aus dem Zweiten Weltkrieg. Es ist nach einem US-Soldaten benannt.",
       hu: "Ez a Mundában található magánmúzeum a második világháború relikviáinak lenyűgöző gyűjteményét mutatja be. Egy amerikai katonáról nevezték el.",
@@ -195,7 +195,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-st-peters-cathedral-auki-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Peter Kathedrale, Auki", hu: "Szent Péter-székesegyház, Auki", ro: "Catedrala Sfântul Petru din Auki", en: "St. Peter's Cathedral, Auki" },
-    coordinates: { lat: -8.7667, lng: 160.7 },
+    coords: [160.7, -8.7667],
     description: {
       de: "Die wichtigste katholische Kirche in Auki, Malaita, ist ein monumentales religiöses Bauwerk der Region. Sie dient der Diözese Auki.",
       hu: "Malaita szigetén, Aukiban található legfontosabb katolikus templom a régió monumentális vallási építménye. Az Auki egyházmegye központja.",
@@ -214,7 +214,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-langa-langa-artificial-islands-landmarks-v2",
     type: "landmark",
     name: { de: "Künstliche Inseln von Langa Langa", hu: "Langa Langa mesterséges szigetek", ro: "Insulele artificiale Langa Langa", en: "Langa Langa Artificial Islands" },
-    coordinates: { lat: -8.8833, lng: 160.75 },
+    coords: [160.75, -8.8833],
     description: {
       de: "Diese Inseln wurden von Hand aus Korallensteinen in der Lagune von Malaita erbaut. Sie sind einzigartige kulturelle Wahrzeichen.",
       hu: "Ezeket a szigeteket kézzel építették korallkövekből a Malaita-lagúnában. Egyedülálló kulturális jelképek.",
@@ -233,7 +233,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-henderson-field-monument-landmarks-v2",
     type: "monument",
     name: { de: "Henderson Field Denkmal", hu: "Henderson Field emlékmű", ro: "Monumentul Henderson Field", en: "Henderson Field Monument" },
-    coordinates: { lat: -9.4281, lng: 160.0547 },
+    coords: [160.0547, -9.4281],
     description: {
       de: "Henderson Field war das strategische Ziel der Schlacht um Guadalcanal. Heute steht hier der internationale Flughafen mit Gedenktafeln.",
       hu: "A Henderson Field a guadalcanali csata stratégiai célpontja volt. Ma itt található a nemzetközi repülőtér és több emléktábla.",
@@ -252,7 +252,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-fatima-cathedral-gizo-landmarks-v2",
     type: "cathedral",
     name: { de: "Fatima Kathedrale, Gizo", hu: "Fatima-székesegyház, Gizo", ro: "Catedrala Fatima din Gizo", en: "Fatima Cathedral, Gizo" },
-    coordinates: { lat: -8.1033, lng: 156.8417 },
+    coords: [156.8417, -8.1033],
     description: {
       de: "Die Kathedrale von Gizo ist ein zentrales religiöses Wahrzeichen in der Western Province. Sie wurde nach dem Tsunami von 2007 renoviert.",
       hu: "Gizo székesegyháza a Nyugati tartomány központi vallási jelképe. A 2007-es szökőár után felújították.",
@@ -271,7 +271,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-tulagi-wharf-landmarks-v2",
     type: "ruins",
     name: { de: "Tulagi Kai und Ruinen", hu: "Tulagi rakpart és romok", ro: "Docul Tulagi și ruinele", en: "Tulagi Wharf and Ruins" },
-    coordinates: { lat: -9.1031, lng: 160.1506 },
+    coords: [160.1506, -9.1031],
     description: {
       de: "Tulagi war vor dem Krieg die Hauptstadt der Salomonen. Heute zeugen Ruinen und der alte Kai von der kolonialen Vergangenheit.",
       hu: "Tulagi a háború előtt a Salamon-szigetek fővárosa volt. Ma romok és a régi rakpart tanúskodik a gyarmati múltról.",
@@ -290,7 +290,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-tetere-beach-war-museum-landmarks-v2",
     type: "museum",
     name: { de: "Tetere Beach Kriegsmuseum", hu: "Tetere Beach Háborús Múzeum", ro: "Muzeul de Război Tetere Beach", en: "Tetere Beach War Museum" },
-    coordinates: { lat: -9.4167, lng: 160.25 },
+    coords: [160.25, -9.4167],
     description: {
       de: "An diesem Strand befinden sich zahlreiche verlassene Landungsboote der US-Marines. Es ist ein surrealer Ort am Meer.",
       hu: "Ezen a strandon az amerikai tengerészgyalogosok számos elhagyott partraszálló hajója található. Ez egy szürreális helyszín a tengerparton.",
@@ -309,7 +309,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-all-saints-church-landmarks-v2",
     type: "church",
     name: { de: "Allerheiligenkirche Honiara", hu: "Mindenszentek-templom, Honiara", ro: "Biserica Toți Sfinții din Honiara", en: "All Saints Church, Honiara" },
-    coordinates: { lat: -9.4344, lng: 159.9536 },
+    coords: [159.9536, -9.4344],
     description: {
       de: "Die anglikanische Kirche im Stadtzentrum ist ein wichtiger religiöser Treffpunkt. Sie ist für ihre Offenheit und Gemeinschaft bekannt.",
       hu: "A városközpontban található anglikán templom fontos vallási találkozóhely. Nyitottságáról és közösségi életéről ismert.",
@@ -328,7 +328,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-lake-tengano-monument-landmarks-v2",
     type: "landmark",
     name: { de: "Ost-Rennell (Lake Tengano)", hu: "Kelet-Rennell (Tengano-tó)", ro: "Rennell de Est (Lacul Tengano)", en: "East Rennell (Lake Tengano)" },
-    coordinates: { lat: -11.75, lng: 160.4667 },
+    coords: [160.4667, -11.75],
     description: {
       de: "Ost-Rennell ist ein UNESCO-Welterbe und beherbergt den größten Binnensee des Südpazifiks. Es ist ein einzigartiges Naturdenkmal.",
       hu: "Kelet-Rennell UNESCO világörökségi helyszín, itt található a Dél-Csendes-óceán legnagyobb tava. Egyedülálló természeti emlék.",
@@ -347,7 +347,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-point-cruz-yacht-club-landmarks-v2",
     type: "landmark",
     name: { de: "Point Cruz Yacht Club", hu: "Point Cruz Yacht Club", ro: "Clubul de Yacht Point Cruz", en: "Point Cruz Yacht Club" },
-    coordinates: { lat: -9.4311, lng: 159.9514 },
+    coords: [159.9514, -9.4311],
     description: {
       de: "Der Yacht Club ist ein soziales Wahrzeichen von Honiara am Hafen. Er ist ein beliebter Treffpunkt für Segler und Einheimische.",
       hu: "A Yacht Club Honiara társasági életének fontos helyszíne a kikötőben. Népszerű találkozóhely a vitorlázók és helyiek számára.",
@@ -366,7 +366,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-munda-airfield-monument-landmarks-v2",
     type: "monument",
     name: { de: "Munda Flugplatz Denkmal", hu: "Munda repülőtér emlékmű", ro: "Monumentul Aerodromului Munda", en: "Munda Airfield Monument" },
-    coordinates: { lat: -8.3278, lng: 157.2633 },
+    coords: [157.2633, -8.3278],
     description: {
       de: "Der Flugplatz von Munda war Schauplatz schwerer Kämpfe. Ein Denkmal erinnert heute an die Eroberung durch alliierte Truppen 1943.",
       hu: "A mundai repülőtér súlyos harcok helyszíne volt. Egy emlékmű állít emléket a szövetséges csapatok 1943-as győzelmének.",
@@ -385,7 +385,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-honiara-city-council-landmarks-v2",
     type: "landmark",
     name: { de: "Stadtrat von Honiara", hu: "Honiara Városi Tanács", ro: "Consiliul Municipal Honiara", en: "Honiara City Council" },
-    coordinates: { lat: -9.4328, lng: 159.9531 },
+    coords: [159.9531, -9.4328],
     description: {
       de: "Das Verwaltungsgebäude des Stadtrats ist das Zentrum der kommunalen Verwaltung von Honiara. Es liegt in der Nähe des Hafens.",
       hu: "A városi tanács igazgatási épülete Honiara önkormányzati igazgatásának központja. A kikötő közelében található.",
@@ -404,7 +404,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-ironbottom-sound-memorial-landmarks-v2",
     type: "landmark",
     name: { de: "Ironbottom Sound Gedenkstätte", hu: "Ironbottom Sound emlékhely", ro: "Memorialul Ironbottom Sound", en: "Ironbottom Sound Memorial" },
-    coordinates: { lat: -9.25, lng: 160.0 },
+    coords: [160.0, -9.25],
     description: {
       de: "Dieser Meeresabschnitt zwischen Guadalcanal und Savo ist ein Unterwasserdenkmal für Dutzende gesunkene Schiffe. Er ist weltberühmt.",
       hu: "A Guadalcanal és Savo közötti tengerszakasz víz alatti emlékhely több tucat elsüllyedt hajó számára. Világszerte híres helyszín.",
@@ -423,7 +423,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-red-beach-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Red Beach Denkmal", hu: "Red Beach emlékmű", ro: "Monumentul Red Beach", en: "Red Beach Memorial" },
-    coordinates: { lat: -9.4189, lng: 160.1014 },
+    coords: [160.1014, -9.4189],
     description: {
       de: "Red Beach war 1942 der Ort der ersten alliierten Landung auf Guadalcanal. Ein einfaches Denkmal erinnert heute an diesen historischen Moment.",
       hu: "Red Beach volt az első szövetséges partraszállás helyszíne Guadalcanalon 1942-ben. Egy egyszerű emlékmű állít emléket a történelmi pillanatnak.",
@@ -442,7 +442,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-japanese-seaplane-base-tulagi-landmarks-v2",
     type: "ruins",
     name: { de: "Japanische Wasserflugzeugbasis", hu: "Japán vízi repülőgép bázis", ro: "Baza japoneză de hidroavioane", en: "Japanese Seaplane Base" },
-    coordinates: { lat: -9.1, lng: 160.1333 },
+    coords: [160.1333, -9.1],
     description: {
       de: "Die Ruinen der japanischen Wasserflugzeugbasis auf Gavutu und Tanambogo sind heute noch sichtbar. Sie waren 1942 heftig umkämpft.",
       hu: "Gavutu és Tanambogo szigetén ma is láthatók a japán vízi repülőgép bázis romjai. 1942-ben heves harcok folytak itt.",
@@ -461,7 +461,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-national-parliament-library-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsbibliothek", hu: "Parlamenti Könyvtár", ro: "Biblioteca Parlamentului", en: "National Parliament Library" },
-    coordinates: { lat: -9.4358, lng: 159.957 },
+    coords: [159.957, -9.4358],
     description: {
       de: "Die Bibliothek ist Teil des Parlamentskomplexes und beherbergt wichtige nationale Dokumente. Sie ist architektonisch in das Hauptgebäude integriert.",
       hu: "A könyvtár a parlamenti komplexum része, és fontos nemzeti dokumentumokat őriz. Építészetileg a főépületbe integrálták.",
@@ -480,7 +480,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-gizo-central-market-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Gizo", hu: "Gizói Központi Piac", ro: "Piața Centrală Gizo", en: "Gizo Central Market" },
-    coordinates: { lat: -8.1028, lng: 156.8406 },
+    coords: [156.8406, -8.1028],
     description: {
       de: "Der Markt in Gizo ist bekannt für seine lebhafte Atmosphäre und frischen Fisch direkt aus den Kanus. Er ist das Herz der Stadt.",
       hu: "Gizo piaca híres nyüzsgő hangulatáról és a közvetlenül a kenukból árult friss halakról. Ez a város szíve.",
@@ -499,7 +499,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-marovo-lagoon-monuments-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturelle Stätten der Marovo Lagune", hu: "Marovo-lagúna kulturális helyszínei", ro: "Siturile culturale din Laguna Marovo", en: "Marovo Lagoon Cultural Sites" },
-    coordinates: { lat: -8.4833, lng: 158.15 },
+    coords: [158.15, -8.4833],
     description: {
       de: "Die Marovo Lagune beherbergt zahlreiche traditionelle Schnitzerdörfer und historische Schreine. Sie ist die größte Salzwasserlagune der Welt.",
       hu: "A Marovo-lagúna számos hagyományos fafaragó falunak és történelmi szentélynek ad otthont. Ez a világ legnagyobb sós vizes lagúnája.",
@@ -518,7 +518,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-king-george-vi-school-landmarks-v2",
     type: "landmark",
     name: { de: "King George VI Schule", hu: "VI. György király Iskola", ro: "Școala Regele George al VI-lea", en: "King George VI School" },
-    coordinates: { lat: -9.4444, lng: 159.9917 },
+    coords: [159.9917, -9.4444],
     description: {
       de: "Dies ist die älteste und renommierteste weiterführende Schule der Salomonen. Sie hat viele Führungspersönlichkeiten des Landes ausgebildet.",
       hu: "Ez a Salamon-szigetek legrégebbi és legnevesebb középiskolája. Az ország számos vezetője itt végezte tanulmányait.",
@@ -537,7 +537,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-savo-island-volcano-landmarks-v2",
     type: "mountain",
     name: { de: "Savo Island Vulkan", hu: "Savo-szigeti vulkán", ro: "Vulcanul de pe Insula Savo", en: "Savo Island Volcano" },
-    coordinates: { lat: -9.1333, lng: 159.8167 },
+    coords: [159.8167, -9.1333],
     description: {
       de: "Der Vulkan auf der Insel Savo ist ein markantes geografisches Wahrzeichen. Er ist bekannt für seine heißen Quellen und Megapoden-Eier.",
       hu: "A Savo-szigeten található vulkán jellegzetes földrajzi képződmény. Híres meleg forrásairól és a talegallatyúkok tojásairól.",
@@ -556,7 +556,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-pt-boat-base-sesapi-landmarks-v2",
     type: "ruins",
     name: { de: "PT-Boot-Basis Sesapi", hu: "Sesapi PT-hajó bázis", ro: "Baza de bărci PT Sesapi", en: "PT Boat Base Sesapi" },
-    coordinates: { lat: -9.1122, lng: 160.1644 },
+    coords: [160.1644, -9.1122],
     description: {
       de: "In Sesapi auf Tulagi befand sich während des Zweiten Weltkriegs eine wichtige Basis für US-Schnellboote. Relikte sind noch heute zu finden.",
       hu: "A Tulagin található Sesapi a második világháború alatt az amerikai gyorsnaszádok fontos bázisa volt. Relikviái ma is fellelhetők.",
@@ -575,7 +575,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-mataniko-falls-landmark-landmarks-v2",
     type: "landmark",
     name: { de: "Mataniko Wasserfälle", hu: "Mataniko-vízesés", ro: "Cascada Mataniko", en: "Mataniko Falls" },
-    coordinates: { lat: -9.4667, lng: 159.9333 },
+    coords: [159.9333, -9.4667],
     description: {
       de: "Die spektakulären Wasserfälle stürzen in eine Schlucht nahe Honiara. Während des Krieges dienten die Höhlen dort als Versteck.",
       hu: "A látványos vízesések egy szakadékba zuhannak Honiara közelében. A háború alatt az itteni barlangok rejtekhelyként szolgáltak.",
@@ -594,7 +594,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-tinakula-volcano-landmarks-v2",
     type: "mountain",
     name: { de: "Tinakula Vulkan", hu: "Tinakula-vulkán", ro: "Vulcanul Tinakula", en: "Tinakula Volcano" },
-    coordinates: { lat: -10.3861, lng: 165.8056 },
+    coords: [165.8056, -10.3861],
     description: {
       de: "Tinakula ist der aktivste Vulkan der Salomonen und bildet eine eigene kegelförmige Insel. Er ist ein markantes Wahrzeichen der Santa-Cruz-Inseln.",
       hu: "Tinakula a Salamon-szigetek legaktívabb vulkánja, amely egy különálló kúp alakú szigetet alkot. A Santa Cruz-szigetek jelképe.",
@@ -613,7 +613,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-fanalei-traditional-village-landmarks-v2",
     type: "landmark",
     name: { de: "Traditionelles Dorf Fanalei", hu: "Fanalei hagyományos falu", ro: "Satul tradițional Fanalei", en: "Fanalei Traditional Village" },
-    coordinates: { lat: -9.3833, lng: 161.4333 },
+    coords: [161.4333, -9.3833],
     description: {
       de: "Fanalei ist bekannt für den traditionellen Delfinfang und die Herstellung von Delfinzähnen als Währung. Es ist ein kulturelles Denkmal.",
       hu: "Fanalei a hagyományos delfinvadászatról és a delfinfog-pénz készítéséről híres. Fontos kulturális emlékhely.",
@@ -632,7 +632,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-hells-point-landmarks-v2",
     type: "battlefield",
     name: { de: "Hell's Point", hu: "Hell's Point", ro: "Hell's Point", en: "Hell's Point" },
-    coordinates: { lat: -9.4222, lng: 160.0333 },
+    coords: [160.0333, -9.4222],
     description: {
       de: "Hell's Point war im Zweiten Weltkrieg ein riesiges Munitionsdepot. Heute ist es eine geschützte historische Stätte mit vielen Überresten.",
       hu: "Hell's Point egy hatalmas lőszerraktár volt a második világháborúban. Ma védett történelmi helyszín, számos maradvánnyal.",
@@ -651,7 +651,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-gifu-battlefield-landmarks-v2",
     type: "battlefield",
     name: { de: "Gifu Schlachtfeld", hu: "Gifu csatatér", ro: "Câmpul de luptă Gifu", en: "Gifu Battlefield" },
-    coordinates: { lat: -9.475, lng: 159.975 },
+    coords: [159.975, -9.475],
     description: {
       de: "Der Gifu-Stützpunkt auf dem Mount Austen war die letzte japanische Festung auf Guadalcanal. Ruinen von Bunkern sind dort noch zu finden.",
       hu: "Az Austen-hegyen lévő Gifu-támaszpont volt az utolsó japán erődítmény Guadalcanalon. Bunkerromok ma is találhatók a területen.",
@@ -670,7 +670,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-bishop-brosnahan-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Bishop Brosnahan Denkmal", hu: "Brosnahan püspök emlékmű", ro: "Memorialul Episcopului Brosnahan", en: "Bishop Brosnahan Memorial" },
-    coordinates: { lat: -9.4319, lng: 159.9572 },
+    coords: [159.9572, -9.4319],
     description: {
       de: "Dieses Denkmal ehrt den ersten katholischen Bischof von Honiara. Es steht in der Nähe der Holy Cross Kathedrale.",
       hu: "Ez az emlékmű Honiara első katolikus püspökének állít emléket. A Szent Kereszt-székesegyház közelében található.",
@@ -689,7 +689,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-buala-market-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Buala", hu: "Bualai piac", ro: "Piața din Buala", en: "Buala Market" },
-    coordinates: { lat: -8.1444, lng: 159.1028 },
+    coords: [159.1028, -8.1444],
     description: {
       de: "Der Markt in Buala ist das wirtschaftliche Zentrum der Insel Isabel. Hier tauschen Einheimische landwirtschaftliche Produkte aus.",
       hu: "Buala piaca az Isabel-sziget gazdasági központja. Itt a helyiek mezőgazdasági termékeket cserélnek és árulnak.",
@@ -708,7 +708,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-kirakira-port-landmarks-v2",
     type: "port",
     name: { de: "Hafen von Kirakira", hu: "Kirakirai kikötő", ro: "Portul Kirakira", en: "Kirakira Port" },
-    coordinates: { lat: -10.4533, lng: 161.9189 },
+    coords: [161.9189, -10.4533],
     description: {
       de: "Der Hafen von Kirakira ist das Tor zur Provinz Makira-Ulawa. Er ist ein wichtiger Umschlagplatz für Waren und Passagiere.",
       hu: "Kirakira kikötője a Makira-Ulawa tartomány kapuja. Fontos csomópont az áruk és az utasok számára.",
@@ -727,7 +727,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-auki-central-market-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Auki", hu: "Auki Központi Piac", ro: "Piața Centrală Auki", en: "Auki Central Market" },
-    coordinates: { lat: -8.7658, lng: 160.7011 },
+    coords: [160.7011, -8.7658],
     description: {
       de: "Der Markt in Auki ist ein lebhafter Ort, an dem landwirtschaftliche Produkte aus dem Hochland von Malaita verkauft werden.",
       hu: "Az auki piac egy nyüzsgő hely, ahol a Malaita-fennsík mezőgazdasági termékeit árusítják.",
@@ -746,7 +746,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-solomon-peace-memorial-park-landmarks-v2",
     type: "park",
     name: { de: "Solomon Friedensgedenkpark", hu: "Salamon Béke Emlékpark", ro: "Parcul Memorial al Păcii Solomon", en: "Solomon Peace Memorial Park" },
-    coordinates: { lat: -9.4389, lng: 159.965 },
+    coords: [159.965, -9.4389],
     description: {
       de: "Dieser Park in Honiara ist dem Frieden und dem Gedenken an alle Opfer des Zweiten Weltkriegs gewidmet. Er bietet Raum für Reflexion.",
       hu: "Ez a honiarai park a békének és a második világháború összes áldozatának szentelt emlékhely. Teret ad az elmélyülésnek.",
@@ -765,7 +765,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-national-university-campus-landmarks-v2",
     type: "university",
     name: { de: "Nationaluniversität der Salomonen", hu: "Salamon-szigeteki Nemzeti Egyetem", ro: "Universitatea Națională a Insulelor Solomon", en: "Solomon Islands National University" },
-    coordinates: { lat: -9.4353, lng: 159.9867 },
+    coords: [159.9867, -9.4353],
     description: {
       de: "Der Hauptcampus der SINU in Honiara ist ein bedeutendes Bildungszentrum. Die Gebäude spiegeln die Entwicklung des Landes wider.",
       hu: "A SINU fő kampusza Honiarában jelentős oktatási központ. Az épületek az ország fejlődését tükrözik.",
@@ -784,7 +784,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-tenaru-falls-landmark-landmarks-v2",
     type: "landmark",
     name: { de: "Tenaru Wasserfälle", hu: "Tenaru-vízesés", ro: "Cascada Tenaru", en: "Tenaru Falls" },
-    coordinates: { lat: -9.5167, lng: 160.0167 },
+    coords: [160.0167, -9.5167],
     description: {
       de: "Die Tenaru Falls sind ein beeindruckendes Naturwahrzeichen im Dschungel von Guadalcanal. Das Wasser stürzt über 60 Meter in die Tiefe.",
       hu: "A Tenaru-vízesés lenyűgöző természeti jelenség Guadalcanal dzsungelében. A víz több mint 60 méter magasból zúdul le.",
@@ -803,7 +803,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-kavachi-submarine-volcano-landmarks-v2",
     type: "landmark",
     name: { de: "Untersee-Vulkan Kavachi", hu: "Kavachi víz alatti vulkán", ro: "Vulcanul submarin Kavachi", en: "Kavachi Submarine Volcano" },
-    coordinates: { lat: -9.02, lng: 157.97 },
+    coords: [157.97, -9.02],
     description: {
       de: "Kavachi ist einer der aktivsten Untersee-Vulkane im Pazifik. Er bildet gelegentlich kurzlebige Inseln aus Lava und Asche.",
       hu: "Kavachi a Csendes-óceán egyik legaktívabb víz alatti vulkánja. Alkalmanként rövid életű szigeteket hoz létre lávából és hamuból.",
@@ -822,7 +822,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-mbokonavera-market-landmarks-v2",
     type: "landmark",
     name: { de: "Mbokonavera Markt", hu: "Mbokonavera piac", ro: "Piața Mbokonavera", en: "Mbokonavera Market" },
-    coordinates: { lat: -9.4381, lng: 159.9556 },
+    coords: [159.9556, -9.4381],
     description: {
       de: "Dieser lokale Markt in einem Wohnviertel von Honiara ist ein authentisches Wahrzeichen des täglichen Lebens. Er ist kleiner als der Zentralmarkt.",
       hu: "Ez a honiarai lakónegyedben található piac a mindennapi élet hiteles helyszíne. Kisebb, mint a központi piac.",
@@ -841,7 +841,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-walande-island-ruins-landmarks-v2",
     type: "landmark",
     name: { de: "Sinkende Insel Walande", hu: "Walande süllyedő szigete", ro: "Insula scufundată Walande", en: "Sinking Island of Walande" },
-    coordinates: { lat: -9.4167, lng: 161.4167 },
+    coords: [161.4167, -9.4167],
     description: {
       de: "Walande ist ein künstliches Eiland, das durch den Klimawandel fast vollständig verschwunden ist. Es ist ein mahnendes Denkmal der Gegenwart.",
       hu: "Walande egy mesterséges sziget, amely a klímaváltozás miatt szinte teljesen eltűnt. A jelenkor egyik figyelmeztető emlékműve.",
@@ -860,7 +860,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-honiara-public-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek Honiara", hu: "Honiarai Nyilvános Könyvtár", ro: "Biblioteca Publică Honiara", en: "Honiara Public Library" },
-    coordinates: { lat: -9.4314, lng: 159.9592 },
+    coords: [159.9592, -9.4314],
     description: {
       de: "Die öffentliche Bibliothek im Herzen von Honiara ist ein wichtiges kulturelles und bildungsorientiertes Wahrzeichen. Sie fördert die Alphabetisierung.",
       hu: "Honiara szívében található nyilvános könyvtár fontos kulturális és oktatási központ. Támogatja az írásbeliség fejlődését.",
@@ -879,7 +879,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-munda-wharf-landmarks-v2",
     type: "port",
     name: { de: "Kai von Munda", hu: "Mundai rakpart", ro: "Docul din Munda", en: "Munda Wharf" },
-    coordinates: { lat: -8.3297, lng: 157.2694 },
+    coords: [157.2694, -8.3297],
     description: {
       de: "Der Kai von Munda ist der wichtigste Zugangspunkt zur Roviana Lagune. Er ist ein lebhaftes Wahrzeichen der Western Province.",
       hu: "Munda rakpartja a Roviana-lagúna legfontosabb belépési pontja. A Nyugati tartomány nyüzsgő jelképe.",
@@ -898,7 +898,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-gavutu-island-monuments-landmarks-v2",
     type: "monument",
     name: { de: "Gavutu Insel Denkmäler", hu: "Gavutu-szigeti emlékművek", ro: "Monumentele de pe Insula Gavutu", en: "Gavutu Island Monuments" },
-    coordinates: { lat: -9.1025, lng: 160.1344 },
+    coords: [160.1344, -9.1025],
     description: {
       de: "Gavutu beherbergt Denkmäler, die an die verlustreichen Kämpfe zwischen US-Marines und japanischen Truppen 1942 erinnern.",
       hu: "Gavutu emlékművei az amerikai tengerészgyalogosok és a japán csapatok közötti 1942-es véres harcoknak állítanak emléket.",
@@ -917,7 +917,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-honiara-yacht-club-pier-landmarks-v2",
     type: "bridge",
     name: { de: "Yacht Club Pier", hu: "Yacht Club móló", ro: "Moll-ul Clubului de Yacht", en: "Yacht Club Pier" },
-    coordinates: { lat: -9.4308, lng: 159.9511 },
+    coords: [159.9511, -9.4308],
     description: {
       de: "Der Pier des Yacht Clubs ist ein bekannter Orientierungspunkt im Hafen von Point Cruz. Er bietet Liegeplätze für internationale Segelschiffe.",
       hu: "A Yacht Club mólója ismert tájékozódási pont a Point Cruz kikötőben. Nemzetközi vitorláshajók számára kínál kikötőhelyet.",
@@ -936,7 +936,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-choiseul-bay-monument-landmarks-v2",
     type: "monument",
     name: { de: "Choiseul Bay Denkmal", hu: "Choiseul-öböl emlékmű", ro: "Monumentul Golfului Choiseul", en: "Choiseul Bay Monument" },
-    coordinates: { lat: -6.7083, lng: 156.4 },
+    coords: [156.4, -6.7083],
     description: {
       de: "Dieses Denkmal in der Choiseul Bay erinnert an die Bewohner der Insel, die während des Pazifikkrieges Widerstand leisteten.",
       hu: "A Choiseul-öbölben található emlékmű a sziget azon lakóinak állít emléket, akik ellenálltak a csendes-óceáni háború alatt.",
@@ -955,7 +955,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-pt-boat-base-sesapi-remnants-landmarks-v2",
     type: "ruins",
     name: { de: "Überreste der PT-Boot-Basis", hu: "PT-hajó bázis maradványok", ro: "Rămășițele bazei de bărci PT", en: "PT Boat Base Remnants" },
-    coordinates: { lat: -9.115, lng: 160.16 },
+    coords: [160.16, -9.115],
     description: {
       de: "Die Überreste der US-amerikanischen PT-Boot-Basis bei Sesapi auf Tulagi umfassen alte Fundamente und verrostete Relikte im Dschungel.",
       hu: "A Tulagin, Sesapi közelében található amerikai PT-hajó bázis maradványai régi alapokat és rozsdás dzsungelrelikviákat tartalmaznak.",
@@ -974,7 +974,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-honiara-heritage-park-landmarks-v2",
     type: "park",
     name: { de: "Heritage Park Honiara", hu: "Heritage Park Honiara", ro: "Heritage Park Honiara", en: "Heritage Park Honiara" },
-    coordinates: { lat: -9.4306, lng: 159.9567 },
+    coords: [159.9567, -9.4306],
     description: {
       de: "Der Heritage Park ist ein zentrales Wahrzeichen in Honiara, das moderne Hotelarchitektur mit historischem Grund und Boden verbindet.",
       hu: "A Heritage Park Honiara központi jelképe, amely a modern szállodai építészetet ötvözi a történelmi területtel.",
@@ -993,7 +993,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-santa-ana-spirit-houses-landmarks-v2",
     type: "landmark",
     name: { de: "Geisterhäuser von Santa Ana", hu: "Santa Ana szellemházai", ro: "Casele spiritelor din Santa Ana", en: "Santa Ana Spirit Houses" },
-    coordinates: { lat: -10.8333, lng: 162.45 },
+    coords: [162.45, -10.8333],
     description: {
       de: "Diese traditionellen Gebäude auf der Insel Santa Ana beherbergen kunstvoll geschnitzte Reliquien und sind religiöse Wahrzeichen.",
       hu: "Ezek a Santa Ana-szigeten található hagyományos épületek művészien faragott relikviákat őriznek és vallási jelképek.",
@@ -1012,7 +1012,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-tulagi-colonial-cemetery-landmarks-v2",
     type: "ruins",
     name: { de: "Kolonialfriedhof Tulagi", hu: "Tulagi gyarmati temető", ro: "Cimitirul colonial Tulagi", en: "Tulagi Colonial Cemetery" },
-    coordinates: { lat: -9.1044, lng: 160.1489 },
+    coords: [160.1489, -9.1044],
     description: {
       de: "Der alte Friedhof von Tulagi enthält Gräber britischer Kolonialbeamter und Händler. Er ist ein stilles Denkmal der britischen Ära.",
       hu: "A régi tulagi temető brit gyarmati tisztviselők és kereskedők sírjait tartalmazza. A brit korszak csendes emlékműve.",
@@ -1031,7 +1031,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-henderson-field-control-tower-landmarks-v2",
     type: "tower",
     name: { de: "Kontrollturm von Henderson Field", hu: "Henderson Field irányítótorony", ro: "Turnul de control Henderson Field", en: "Henderson Field Control Tower" },
-    coordinates: { lat: -9.4286, lng: 160.0539 },
+    coords: [160.0539, -9.4286],
     description: {
       de: "Der historische Kontrollturm des Flughafens ist ein Wahrzeichen für die moderne Luftfahrtgeschichte der Salomonen.",
       hu: "A repülőtér történelmi irányítótornya a Salamon-szigetek modern repüléstörténetének egyik jelképe.",
@@ -1050,7 +1050,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-vona-vona-lagoon-monuments-landmarks-v2",
     type: "landmark",
     name: { de: "Denkmäler der Vona Vona Lagune", hu: "Vona Vona-lagúna emlékművei", ro: "Monumentele din Laguna Vona Vona", en: "Vona Vona Lagoon Monuments" },
-    coordinates: { lat: -8.25, lng: 157.3 },
+    coords: [157.3, -8.25],
     description: {
       de: "Die Lagune ist reich an historischen Stätten, darunter Kriegswracks und traditionelle Gräber. Sie ist ein bedeutendes kulturelles Gebiet.",
       hu: "A lagúna gazdag történelmi helyszínekben, beleértve háborús roncsokat és hagyományos sírokat. Jelentős kulturális terület.",
@@ -1069,7 +1069,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-all-saints-school-landmarks-v2",
     type: "landmark",
     name: { de: "Allerheiligenschule Honiara", hu: "Mindenszentek Iskola, Honiara", ro: "Școala Toți Sfinții din Honiara", en: "All Saints School, Honiara" },
-    coordinates: { lat: -9.4347, lng: 159.9539 },
+    coords: [159.9539, -9.4347],
     description: {
       de: "Diese historische Schule ist eng mit der anglikanischen Kirche verbunden. Sie ist ein Wahrzeichen der Bildung in der Hauptstadt.",
       hu: "Ez a történelmi iskola szorosan kapcsolódik az anglikán egyházhoz. A fővárosi oktatás egyik jelképe.",
@@ -1088,7 +1088,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-marist-training-center-landmarks-v2",
     type: "university",
     name: { de: "Marist Ausbildungszentrum", hu: "Marista Képzési Központ", ro: "Centrul de Instruire Marist", en: "Marist Training Center" },
-    coordinates: { lat: -9.45, lng: 160.0333 },
+    coords: [160.0333, -9.45],
     description: {
       de: "Das Schulungszentrum der Maristen-Brüder in Tenaru ist ein wichtiges religiöses und pädagogisches Wahrzeichen auf Guadalcanal.",
       hu: "A Tenaruban található marista testvérek képzési központja fontos vallási és oktatási intézmény Guadalcanalon.",
@@ -1107,7 +1107,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-fatima-monument-gizo-landmarks-v2",
     type: "monument",
     name: { de: "Fatima-Statue, Gizo", hu: "Fatima-szobor, Gizo", ro: "Statuia Fatima din Gizo", en: "Fatima Statue, Gizo" },
-    coordinates: { lat: -8.1031, lng: 156.8419 },
+    coords: [156.8419, -8.1031],
     description: {
       de: "Die Statue Unserer Lieben Frau von Fatima vor der Kathedrale in Gizo ist ein bekanntes religiöses Denkmal der Stadt.",
       hu: "A gizói székesegyház előtt álló Fatimai Szűzanya szobor a város ismert vallási emlékműve.",
@@ -1126,7 +1126,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-custom-house-santa-ana-landmarks-v2",
     type: "landmark",
     name: { de: "Traditionelles Custom House", hu: "Hagyományos Custom House", ro: "Casa tradițională Custom House", en: "Traditional Custom House" },
-    coordinates: { lat: -10.83, lng: 162.455 },
+    coords: [162.455, -10.83],
     description: {
       de: "Das 'Custom House' auf Santa Ana ist ein rituelles Gebäude, das reich an Schnitzereien und kultureller Bedeutung ist. Es ist ein heiliger Ort.",
       hu: "A Santa Ana-szigeten található 'Custom House' egy rituális épület, amely gazdag faragványokban és kulturális jelentőségben. Szent hely.",
@@ -1145,7 +1145,7 @@ export const solomonislandsLandmarksV2: POI[] = [
     id: "solomonislands-point-cruz-yacht-club-monument-landmarks-v2",
     type: "monument",
     name: { de: "Point Cruz Gedenktafel", hu: "Point Cruz emléktábla", ro: "Placa memorială Point Cruz", en: "Point Cruz Plaque" },
-    coordinates: { lat: -9.4297, lng: 159.9517 },
+    coords: [159.9517, -9.4297],
     description: {
       de: "Diese Gedenktafel am Yacht Club erinnert an die historische Bedeutung von Point Cruz während der Seeschlachten von 1942.",
       hu: "A Yacht Clubnál található emléktábla Point Cruz történelmi jelentőségére emlékeztet az 1942-es tengeri csaták idején.",

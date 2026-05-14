@@ -646,7 +646,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-kathiri-palace-landmarks-v2",
     type: "palace",
     name: { de: "Kathiri-Palast", hu: "Kathiri-palota", ro: "Palatul Kathiri", en: "Kathiri Palace" },
-    coordinates: { lat: 15.9325, lng: 48.7886 },
+    coords: [48.7886, 15.9325],
     description: {
       de: "Dieses markante weiße Gebäude in Seiyun ist einer der weltweit größten Lehmziegelpaläste. Es diente einst als Residenz der Sultane des Kathiri-Staates.",
       hu: "Szejjun városának jellegzetes fehér épülete a világ egyik legnagyobb vályogtéglából készült palotája. Egykor a Kathiri-állam szultánjainak székhelye volt.",
@@ -665,7 +665,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-al-ghwayzi-fort-landmarks-v2",
     type: "castle",
     name: { de: "Al-Ghwayzi-Fort", hu: "Al-Ghwayzi erőd", ro: "Fortăreața Al-Ghwayzi", en: "Al-Ghwayzi Fort" },
-    coordinates: { lat: 14.5458, lng: 49.1319 },
+    coords: [49.1319, 14.5458],
     description: {
       de: "Diese historische Festung in Mukalla thront spektakulär auf einem steilen Felsen. Sie wurde im 18. Jahrhundert zum Schutz der Stadt vor Angriffen errichtet.",
       hu: "Ez a Mukallában található történelmi erőd látványosan egy meredek szikla tetején trónol. A 18. században épült, hogy megvédje a várost a támadásoktól.",
@@ -684,7 +684,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-national-museum-sanaa-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Jemen", hu: "Jemeni Nemzeti Múzeum", ro: "Muzeul Național al Yemenului", en: "National Museum of Yemen" },
-    coordinates: { lat: 15.3533, lng: 44.2058 },
+    coords: [44.2058, 15.3533],
     description: {
       de: "Das Nationalmuseum in Sanaa befindet sich in einem ehemaligen Palast nahe dem Tahrir-Platz. Es beherbergt Artefakte aus den antiken Königreichen Saba und Himyar.",
       hu: "A Szanaában található Nemzeti Múzeum egy korábbi palotában kapott helyet a Tahrir tér közelében. Sába és Himjar ősi királyságainak leleteit őrzi.",
@@ -703,7 +703,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-military-museum-sanaa-landmarks-v2",
     type: "museum",
     name: { de: "Militärmuseum Sanaa", hu: "Szanaai Haditechnikai Múzeum", ro: "Muzeul Militar din Sana'a", en: "Military Museum Sana'a" },
-    coordinates: { lat: 15.3542, lng: 44.2052 },
+    coords: [44.2052, 15.3542],
     description: {
       de: "Dieses Museum dokumentiert die jemenitische Militärgeschichte von der Antike bis zur Gegenwart. Es zeigt Waffen, Uniformen und historische Dokumente.",
       hu: "Ez a múzeum a jemeni hadtörténetet dokumentálja az ókortól napjainkig. Fegyvereket, egyenruhákat és történelmi dokumentumokat mutat be.",
@@ -722,7 +722,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-aden-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Aden", hu: "Adeni óratorony", ro: "Turnul cu Ceas din Aden", en: "Aden Clock Tower" },
-    coordinates: { lat: 12.7889, lng: 45.0336 },
+    coords: [45.0336, 12.7889],
     description: {
       de: "Der Uhrturm von Aden ist eine Nachbildung des Londoner Big Ben aus der britischen Kolonialzeit. Er steht auf einem Hügel im Stadtteil Steamer Point.",
       hu: "Az adeni óratorony a londoni Big Ben másolata a brit gyarmati korszakból. A Steamer Point negyed egyik dombján található.",
@@ -741,7 +741,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-national-museum-aden-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum Aden", hu: "Adeni Nemzeti Múzeum", ro: "Muzeul Național din Aden", en: "National Museum of Aden" },
-    coordinates: { lat: 12.7844, lng: 45.0394 },
+    coords: [45.0394, 12.7844],
     description: {
       de: "Dieses Museum in Aden widmet sich dem Erbe der Stadt und der Geschichte Südjemens. Es ist im prachtvollen ehemaligen Palast des Sultans von Lahej untergebracht.",
       hu: "Ez az adeni múzeum a város örökségének és Dél-Jemen történelmének szenteltetett. Lahej szultánjának egykori pompás palotájában található.",
@@ -760,7 +760,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-timna-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Timna Ruinen", hu: "Timna romjai", ro: "Ruinele Timna", en: "Timna Ruins" },
-    coordinates: { lat: 14.9567, lng: 45.8114 },
+    coords: [45.8114, 14.9567],
     description: {
       de: "Timna war die antike Hauptstadt des Königreichs Qataban. Die Ruinen im Wadi Beihan zeigen beeindruckende Tempelanlagen und ein monumentales Stadttor.",
       hu: "Timna a Katabán Királyság ősi fővárosa volt. A Vádi Beihanban található romok lenyűgöző templomkomplexumokat és egy monumentális városkaput mutatnak be.",
@@ -779,7 +779,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-sultan-palace-mukalla-landmarks-v2",
     type: "palace",
     name: { de: "Palast des Sultans (Mukalla)", hu: "Szultáni palota (Mukalla)", ro: "Palatul Sultanului (Mukalla)", en: "Sultan's Palace (Mukalla)" },
-    coordinates: { lat: 14.5311, lng: 49.1317 },
+    coords: [49.1317, 14.5311],
     description: {
       de: "Der ehemalige Sultanspalast von Mukalla vereint indische und arabische Baustile direkt an der Küste. Heute dient das Gebäude als Museum für Stadtgeschichte.",
       hu: "Mukalla egykori szultáni palotája az indiai és az arab építészeti stílusokat ötvözi közvetlenül a parton. Ma várostörténeti múzeumként működik.",
@@ -798,7 +798,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-bir-ali-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Bir Ali", hu: "Bir Ali romjai", ro: "Ruinele Bir Ali", en: "Bir Ali Ruins" },
-    coordinates: { lat: 14.0167, lng: 48.3333 },
+    coords: [48.3333, 14.0167],
     description: {
       de: "In der Nähe von Bir Ali liegen die Ruinen des antiken Hafens Cana. Dieser war in der Antike der wichtigste Umschlagplatz für Weihrauch aus dem Hadramaut.",
       hu: "Bir Ali közelében találhatók az ősi Kána kikötőjének romjai. Az ókorban ez volt a Hadhramautból származó tömjén legfontosabb rakodóhelye.",
@@ -817,7 +817,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-aden-main-pass-gate-landmarks-v2",
     type: "monument",
     name: { de: "Hauptpass-Tor Aden", hu: "Adeni hágókapu", ro: "Poarta Pasului Principal Aden", en: "Aden Main Pass Gate" },
-    coordinates: { lat: 12.7917, lng: 45.025 },
+    coords: [45.025, 12.7917],
     description: {
       de: "Das Hauptpass-Tor ist ein historischer Durchgang in der Bergkette, die den Stadtteil Crater vom Rest Adens trennt. Es war einst der einzige Landzugang.",
       hu: "A hágókapu egy történelmi átjáró abban a hegyláncban, amely elválasztja Crater negyedet Aden többi részétől. Egykor ez volt az egyetlen szárazföldi bejárat.",
@@ -836,7 +836,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-talha-mosque-sanaa-landmarks-v2",
     type: "monument",
     name: { de: "Talha-Moschee", hu: "Talha-mecset", ro: "Moscheea Talha", en: "Talha Mosque" },
-    coordinates: { lat: 15.3528, lng: 44.2117 },
+    coords: [44.2117, 15.3528],
     description: {
       de: "Diese Moschee in der Altstadt von Sanaa zeichnet sich durch ihren einzigartigen Stil aus. Sie wurde im frühen 17. Jahrhundert während der osmanischen Ära errichtet.",
       hu: "Ez a Szanaa óvárosában található mecset egyedi stílusával tűnik ki. A 17. század elején, az oszmán korszakban épült.",
@@ -855,7 +855,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-husn-al-fals-landmarks-v2",
     type: "castle",
     name: { de: "Husn al-Fals", hu: "Huszn al-Falsz", ro: "Husn al-Fals", en: "Husn al-Fals" },
-    coordinates: { lat: 15.935, lng: 48.7917 },
+    coords: [48.7917, 15.935],
     description: {
       de: "Husn al-Fals ist eine Bergfestung, die die Stadt Seiyun im Hadramaut überblickt. Sie diente jahrhundertelang der Verteidigung des Tals vor Eindringlingen.",
       hu: "A Huszn al-Falsz egy hegyi erőd, amely a hadhramauti Szejjun városára néz. Évszázadokon át szolgált a völgy védelmére a betolakodók ellen.",
@@ -874,7 +874,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-great-mosque-jibla-landmarks-v2",
     type: "monument",
     name: { de: "Große Moschee von Jibla", hu: "Dzsibla nagy mecsetje", ro: "Marea Moschee din Jibla", en: "Great Mosque of Jibla" },
-    coordinates: { lat: 13.9214, lng: 44.1481 },
+    coords: [44.1481, 13.9214],
     description: {
       de: "Diese historische Moschee in Jibla wurde von Königin Arwa al-Sulayhi im 11. Jahrhundert gegründet. Sie beherbergt auch das Grab der berühmten Herrscherin.",
       hu: "Ezt a történelmi mecsetet Dzsiblában Arwa al-Szulajhi királynő alapította a 11. században. Itt található a híres uralkodónő sírja is.",
@@ -893,7 +893,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-national-museum-taiz-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum Taiz", hu: "Taizi Nemzeti Múzeum", ro: "Muzeul Național din Taiz", en: "National Museum of Taiz" },
-    coordinates: { lat: 13.5822, lng: 44.0158 },
+    coords: [44.0158, 13.5822],
     description: {
       de: "Das Nationalmuseum in Taiz ist im ehemaligen Palast von Imam Ahmad untergebracht. Es zeigt die königliche Lebensweise und die Geschichte der Imame Jemens.",
       hu: "A Taizban található Nemzeti Múzeum Ahmad imám egykori palotájában kapott helyet. A királyi életmódot és a jemeni imámok történelmét mutatja be.",
@@ -912,7 +912,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-shihr-gate-landmarks-v2",
     type: "monument",
     name: { de: "Shihr-Tor", hu: "Sihr-kapu", ro: "Poarta Shihr", en: "Shihr Gate" },
-    coordinates: { lat: 14.7558, lng: 49.6056 },
+    coords: [49.6056, 14.7558],
     description: {
       de: "Das Shihr-Tor (Bab al-Khor) ist das markanteste verbliebene Stadttor der alten Hafenstadt Ash-Shihr. Es zeugt von der einstigen Befestigung der Stadt.",
       hu: "A Sihr-kapu (Bab al-Khor) az ősi kikötőváros, Ash-Shihr legjellegzetesebb megmaradt városkapuja. A város egykori erődítményeinek emlékét őrzi.",
@@ -931,7 +931,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-al-mutawakkil-mosque-landmarks-v2",
     type: "monument",
     name: { de: "Al-Mutawakkil-Moschee", hu: "Al-Mutavakkil-mecset", ro: "Moscheea Al-Mutawakkil", en: "Al-Mutawakkil Mosque" },
-    coordinates: { lat: 15.3536, lng: 44.2047 },
+    coords: [44.2047, 15.3536],
     description: {
       de: "Diese Moschee in Sanaa liegt am Rande des Tahrir-Platzes und ist Teil eines größeren Gebäudekomplexes. Sie wurde von Imam al-Mutawakkil Yahya erbaut.",
       hu: "Ez a szanaai mecset a Tahrir tér szélén található, és egy nagyobb épületegyüttes része. Al-Mutavakkil Yahya imám építtette.",
@@ -950,7 +950,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-dar-al-imara-landmarks-v2",
     type: "palace",
     name: { de: "Dar al-Imara (Zabid)", hu: "Dar al-Imara (Zabid)", ro: "Dar al-Imara (Zabid)", en: "Dar al-Imara (Zabid)" },
-    coordinates: { lat: 14.1978, lng: 43.3211 },
+    coords: [43.3211, 14.1978],
     description: {
       de: "Das Dar al-Imara war das Verwaltungszentrum und die Residenz des Gouverneurs in der Stadt Zabid. Es ist eines der größten historischen Gebäude der Region.",
       hu: "A Dar al-Imara Zabid városának közigazgatási központja és a kormányzó rezidenciája volt. A régió egyik legnagyobb történelmi épülete.",
@@ -969,7 +969,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-fort-al-asha-landmarks-v2",
     type: "castle",
     name: { de: "Fort Al-Asha", hu: "Al-Asa erőd", ro: "Fortul Al-Asha", en: "Fort Al-Asha" },
-    coordinates: { lat: 15.6542, lng: 43.9117 },
+    coords: [43.9117, 15.6542],
     description: {
       de: "Das Fort Al-Asha ist eine beeindruckende Verteidigungsanlage in der Nähe von Thula. Es thront auf einem Felsvorsprung und kontrollierte einst die Handelswege.",
       hu: "Az Al-Asa erőd egy lenyűgöző védelmi létesítmény Thula közelében. Egy sziklakiszögellésen trónol, és egykor a kereskedelmi utakat ellenőrizte.",
@@ -988,7 +988,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-husn-al-khadra-landmarks-v2",
     type: "ruins",
     name: { de: "Husn al-Khadra", hu: "Huszn al-Khadra", ro: "Husn al-Khadra", en: "Husn al-Khadra" },
-    coordinates: { lat: 12.685, lng: 53.4886 },
+    coords: [53.4886, 12.685],
     description: {
       de: "Husn al-Khadra ist eine antike Festungsruine auf der Insel Sokotra nahe Qalansiyah. Sie zeugt von der strategischen Bedeutung der Insel im Indischen Ozean.",
       hu: "A Huszn al-Khadra egy ősi erődrom Szokotra szigetén, Qalansiyah közelében. A sziget Indiai-óceánban betöltött stratégiai jelentőségéről tanúskodik.",
@@ -1007,7 +1007,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-qanit-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Qanit Ruinen", hu: "Qanit romjai", ro: "Ruinele Qanit", en: "Qanit Ruins" },
-    coordinates: { lat: 15.7111, lng: 44.225 },
+    coords: [44.225, 15.7111],
     description: {
       de: "Qanit ist eine archäologische Fundstätte im nördlichen Jemen mit Ruinen aus der himyarischen Zeit. Sie umfasst Reste von Palästen und antiken Tempeln.",
       hu: "Qanit egy régészeti lelőhely Észak-Jemenben, himjarita korszakból származó romokkal. Paloták és ősi templomok maradványait foglalja magában.",
@@ -1026,7 +1026,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-al-rawda-mosque-landmarks-v2",
     type: "monument",
     name: { de: "Al-Rawda-Moschee", hu: "Al-Ravda-mecset", ro: "Moscheea Al-Rawda", en: "Al-Rawda Mosque" },
-    coordinates: { lat: 15.4217, lng: 44.2289 },
+    coords: [44.2289, 15.4217],
     description: {
       de: "Diese Moschee liegt im Vorort Al-Rawda nördlich von Sanaa. Sie ist berühmt für ihre prächtige Architektur und die umliegenden historischen Gärten.",
       hu: "Ez a mecset Al-Ravda külvárosában található, Szanától északra. Pompás építészetéről és a környező történelmi kertekről híres.",
@@ -1045,7 +1045,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-national-archives-sanaa-landmarks-v2",
     type: "museum",
     name: { de: "Nationalarchiv von Jemen", hu: "Jemeni Nemzeti Levéltár", ro: "Arhivele Naționale ale Yemenului", en: "National Archives of Yemen" },
-    coordinates: { lat: 15.3539, lng: 44.2125 },
+    coords: [44.2125, 15.3539],
     description: {
       de: "Das Nationalarchiv in Sanaa bewahrt die wichtigsten historischen Dokumente und Manuskripte des Landes auf. Es befindet sich in einem repräsentativen Gebäude.",
       hu: "A szanaai Nemzeti Levéltár őrzi az ország legfontosabb történelmi dokumentumait és kéziratait. Egy reprezentatív épületben található.",
@@ -1064,7 +1064,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     id: "yemen-aden-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Aden", hu: "Adeni világítótorony", ro: "Farul din Aden", en: "Aden Lighthouse" },
-    coordinates: { lat: 12.7758, lng: 45.0617 },
+    coords: [45.0617, 12.7758],
     description: {
       de: "Der Leuchtturm von Aden steht am Kap Elephant's Back und leitete Schiffe sicher in den Hafen. Er stammt aus der Mitte des 19. Jahrhunderts.",
       hu: "Az adeni világítótorony az Elephant's Back fokon áll, és biztonságosan vezette a hajókat a kikötőbe. A 19. század közepéről származik.",

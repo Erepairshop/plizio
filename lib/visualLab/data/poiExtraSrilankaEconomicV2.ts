@@ -646,7 +646,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-lakvijaya-power-plant-economic-v2",
     type: "industry",
     name: { de: "Lakvijaya-Kraftwerk", hu: "Lakvijaya Erőmű", ro: "Centrala Electrică Lakvijaya", en: "Lakvijaya Power Plant" },
-    coordinates: { lat: 8.017, lng: 79.721 },
+    coords: [79.721, 8.017],
     description: {
       de: "Das Lakvijaya-Kraftwerk ist die größte Stromerzeugungsanlage in Sri Lanka. Es liefert rund 40 % des nationalen Strombedarfs aus Kohleenergie.",
       hu: "A Lakvijaya Erőmű Srí Lanka legnagyobb áramtermelő létesítménye. A nemzeti villamosenergia-szükséglet mintegy 40%-át biztosítja szénből.",
@@ -665,7 +665,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-victoria-dam-economic-v2",
     type: "industry",
     name: { de: "Victoria-Talsperre", hu: "Victoria-gát", ro: "Barajul Victoria", en: "Victoria Dam" },
-    coordinates: { lat: 7.218, lng: 80.785 },
+    coords: [80.785, 7.218],
     description: {
       de: "Die Victoria-Talsperre ist die höchste Talsperre Sri Lankas und ein wichtiges Wasserkraftwerk. Sie staut den Mahaweli-Fluss zur Energiegewinnung.",
       hu: "A Victoria-gát Srí Lanka legmagasabb gátja és fontos vízerőműve. A Mahaweli-folyót duzzasztja fel elektromos energia termelése céljából.",
@@ -684,7 +684,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-katunayake-epz-economic-v2",
     type: "factory",
     name: { de: "Exportzone Katunayake", hu: "Katunayake Exportövezet", ro: "Zona Economică Katunayake", en: "Katunayake Export Processing Zone" },
-    coordinates: { lat: 7.165, lng: 79.885 },
+    coords: [79.885, 7.165],
     description: {
       de: "Die Exportzone Katunayake ist das erste und größte Industriegebiet dieser Art in Sri Lanka. Sie liegt strategisch günstig in der Nähe des Flughafens.",
       hu: "A Katunayake Exportövezet az első és legnagyobb ilyen típusú ipari park Srí Lankán. Stratégiai helyen, a nemzetközi reptér mellett található.",
@@ -703,7 +703,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-biyagama-epz-economic-v2",
     type: "factory",
     name: { de: "Exportzone Biyagama", hu: "Biyagama Exportövezet", ro: "Zona Economică Biyagama", en: "Biyagama Export Processing Zone" },
-    coordinates: { lat: 6.945, lng: 80.005 },
+    coords: [80.005, 6.945],
     description: {
       de: "Die Exportzone Biyagama beherbergt zahlreiche multinationale Unternehmen und Fabriken. Sie spielt eine zentrale Rolle für die Exporteinnahmen des Landes.",
       hu: "A Biyagama Exportövezet számos multinacionális vállalatnak és gyárnak ad otthont. Kiemelt szerepet játszik az ország exportbevételeiben.",
@@ -722,7 +722,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-peliyagoda-fish-market-economic-v2",
     type: "industry",
     name: { de: "Fischmarkt Peliyagoda", hu: "Peliyagoda Halpiac", ro: "Piața de Pește Peliyagoda", en: "Peliyagoda Central Fish Market" },
-    coordinates: { lat: 6.958, lng: 79.882 },
+    coords: [79.882, 6.958],
     description: {
       de: "Der Fischmarkt in Peliyagoda ist das wichtigste Handelszentrum für Meeresfrüchte in Sri Lanka. Täglich werden hier Tonnen von Fisch umgeschlagen.",
       hu: "A peliyagodai halpiac Srí Lanka legfontosabb tengeri gyümölcs kereskedelmi központja. Naponta több tonna halat adnak itt el és vesznek.",
@@ -741,7 +741,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-eppawala-phosphate-mine-economic-v2",
     type: "mine",
     name: { de: "Phosphatmine Eppawala", hu: "Eppawala Foszfátbánya", ro: "Mina de Fosfat Eppawala", en: "Eppawala Phosphate Mine" },
-    coordinates: { lat: 8.136, lng: 80.413 },
+    coords: [80.413, 8.136],
     description: {
       de: "Die Phosphatmine in Eppawala nutzt eines der weltweit bedeutendsten Apatit-Vorkommen. Das Material wird hauptsächlich für Düngemittel verwendet.",
       hu: "Az eppawalai foszfátbánya a világ egyik legjelentősebb apatit-lelőhelyét aknázza ki. Az anyagot főként műtrágyagyártáshoz használják fel.",
@@ -760,7 +760,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-bogala-graphite-mine-economic-v2",
     type: "mine",
     name: { de: "Graphitmine Bogala", hu: "Bogala Grafitbánya", ro: "Mina de Grafit Bogala", en: "Bogala Graphite Mine" },
-    coordinates: { lat: 7.114, lng: 80.267 },
+    coords: [80.267, 7.114],
     description: {
       de: "Die Bogala-Mine ist eine der ältesten und produktivsten Graphitminen in Sri Lanka. Sie ist bekannt für die Förderung von Graphit mit extrem hoher Reinheit.",
       hu: "A Bogala-bánya Srí Lanka egyik legrégebbi és legtermelékenyebb grafitbányája. Világhírű a rendkívül tiszta grafit kitermeléséről.",
@@ -779,7 +779,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-kahatagaha-graphite-mine-economic-v2",
     type: "mine",
     name: { de: "Graphitmine Kahatagaha", hu: "Kahatagaha Grafitbánya", ro: "Mina de Grafit Kahatagaha", en: "Kahatagaha Graphite Mine" },
-    coordinates: { lat: 7.502, lng: 80.533 },
+    coords: [80.533, 7.502],
     description: {
       de: "Kahatagaha ist eine staatlich betriebene Graphitmine von großer wirtschaftlicher Bedeutung. Sie fördert hochwertigen Graphit aus tiefen Erdschichten.",
       hu: "A Kahatagaha egy állami tulajdonú grafitbánya, amely nagy gazdasági jelentőséggel bír. Kiváló minőségű grafitot termel ki mély rétegekből.",
@@ -798,7 +798,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-pelwatte-sugar-industries-economic-v2",
     type: "factory",
     name: { de: "Pelwatte Zuckerindustrie", hu: "Pelwatte Cukorgyár", ro: "Industria de Zahăr Pelwatte", en: "Pelwatte Sugar Industries" },
-    coordinates: { lat: 6.745, lng: 81.258 },
+    coords: [81.258, 6.745],
     description: {
       de: "Pelwatte Sugar Industries ist einer der größten Zuckerproduzenten in Sri Lanka. Das Werk umfasst riesige Zuckerrohrplantagen und eine moderne Fabrik.",
       hu: "A Pelwatte Cukorgyár Srí Lanka egyik legnagyobb cukortermelője. A létesítmény hatalmas cukornádültetvényeket és egy modern gyárat foglal magában.",
@@ -817,7 +817,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-muturajawela-oil-terminal-economic-v2",
     type: "industry",
     name: { de: "Ölterminal Muturajawela", hu: "Muturajawela Olajterminál", ro: "Terminalul Petrolier Muturajawela", en: "Muturajawela Oil Terminal" },
-    coordinates: { lat: 7.025, lng: 79.865 },
+    coords: [79.865, 7.025],
     description: {
       de: "Das Ölterminal Muturajawela ist ein zentraler Knotenpunkt für die Lagerung und Verteilung von Treibstoffen. Es versorgt Kraftwerke und Tankstellen.",
       hu: "A Muturajawela olajterminál az üzemanyag-tárolás és -elosztás központi csomópontja. Erőműveket és benzinkutakat lát el energiával.",
@@ -836,7 +836,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-kerawalapitiya-power-station-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Kerawalapitiya", hu: "Kerawalapitiya Erőmű", ro: "Centrala Electrică Kerawalapitiya", en: "Kerawalapitiya Power Station" },
-    coordinates: { lat: 7.005, lng: 79.875 },
+    coords: [79.875, 7.005],
     description: {
       de: "Das Kraftwerk Kerawalapitiya ist eine moderne Anlage, die sowohl mit Öl als auch mit Gas betrieben werden kann. Es stabilisiert das Stromnetz.",
       hu: "A Kerawalapitiya Erőmű egy modern létesítmény, amely olajjal és gázzal is üzemeltethető. Fontos szerepet játszik az elektromos hálózat stabilizálásában.",
@@ -855,7 +855,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-kotmale-hydroelectric-project-economic-v2",
     type: "industry",
     name: { de: "Kotmale Wasserkraftwerk", hu: "Kotmale Vízerőmű", ro: "Proiectul Hidroelectric Kotmale", en: "Kotmale Hydroelectric Project" },
-    coordinates: { lat: 7.058, lng: 80.595 },
+    coords: [80.595, 7.058],
     description: {
       de: "Das Kotmale-Projekt ist ein bedeutendes Wasserkraftwerk im zentralen Hochland. Es nutzt das Wasser des Kotmale Oya zur sauberen Energiegewinnung.",
       hu: "A Kotmale-projekt egy jelentős vízerőmű a központi felföldön. A Kotmale Oya vizét használja fel tiszta energia előállítására.",
@@ -874,7 +874,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-sapugaskanda-oil-refinery-economic-v2",
     type: "industry",
     name: { de: "Ölraffinerie Sapugaskanda", hu: "Sapugaskanda Olajfinomító", ro: "Rafinăria de Petrol Sapugaskanda", en: "Sapugaskanda Oil Refinery" },
-    coordinates: { lat: 6.965, lng: 79.945 },
+    coords: [79.945, 6.965],
     description: {
       de: "Die Raffinerie Sapugaskanda ist die einzige Anlage zur Verarbeitung von Rohöl in Sri Lanka. Sie produziert Benzin, Diesel und Kerosin für das Land.",
       hu: "A Sapugaskanda finomító Srí Lanka egyetlen nyersolaj-feldolgozó üzeme. Benzint, gázolajat és kerozint állít elő az ország számára.",
@@ -893,7 +893,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-kekirawa-economic-centre-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftszentrum Kekirawa", hu: "Kekirawa Gazdasági Központ", ro: "Centrul Economic Kekirawa", en: "Kekirawa Economic Centre" },
-    coordinates: { lat: 8.041, lng: 80.512 },
+    coords: [80.512, 8.041],
     description: {
       de: "Das Wirtschaftszentrum Kekirawa ist ein bedeutender Großhandelsmarkt für landwirtschaftliche Produkte. Es verbindet Bauern mit Händlern im ganzen Land.",
       hu: "A Kekirawa Gazdasági Központ a mezőgazdasági termékek jelentős nagykereskedelmi piaca. Összeköti a gazdákat az országos kereskedőkkel.",
@@ -912,7 +912,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-veyangoda-textile-mill-economic-v2",
     type: "factory",
     name: { de: "Textilfabrik Veyangoda", hu: "Veyangodai Textilgyár", ro: "Fabrica de Textile Veyangoda", en: "Veyangoda Textile Mill" },
-    coordinates: { lat: 7.146, lng: 80.052 },
+    coords: [80.052, 7.146],
     description: {
       de: "Die Textilfabrik Veyangoda ist ein historischer Industriebetrieb, der die Textiltradition des Landes prägte. Sie liefert Stoffe für den Export und Inland.",
       hu: "A Veyangodai Textilgyár egy történelmi ipari létesítmény, amely meghatározta az ország textiliparát. Szöveteket gyárt exportra és hazai piacra.",
@@ -931,7 +931,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-pannala-industrial-estate-economic-v2",
     type: "factory",
     name: { de: "Industriegebiet Pannala", hu: "Pannala Ipari Park", ro: "Zona Industrială Pannala", en: "Pannala Industrial Estate" },
-    coordinates: { lat: 7.348, lng: 79.988 },
+    coords: [79.988, 7.348],
     description: {
       de: "Das Industriegebiet Pannala beherbergt verschiedene Fabriken, von der Lebensmittelverarbeitung bis zur Fertigung. Es fördert das regionale Wachstum.",
       hu: "A Pannala Ipari Park különféle gyáraknak ad otthont az élelmiszer-feldolgozástól a gyártásig. Elősegíti a regionális gazdasági növekedést.",
@@ -950,7 +950,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
     id: "srilanka-orugodawatta-container-terminal-economic-v2",
     type: "port",
     name: { de: "Containerterminal Orugodawatta", hu: "Orugodawatta Konténerterminál", ro: "Terminalul de Containere Orugodawatta", en: "Orugodawatta Container Terminal" },
-    coordinates: { lat: 6.941, lng: 79.883 },
+    coords: [79.883, 6.941],
     description: {
       de: "Orugodawatta ist ein wichtiges Logistikzentrum für den Containerumschlag in Sri Lanka. Es dient als zentrales Depot und Zollabfertigungsstelle.",
       hu: "Orugodawatta Srí Lanka egyik legfontosabb konténeres logisztikai központja. Központi depóként és vámkezelési pontként működik.",

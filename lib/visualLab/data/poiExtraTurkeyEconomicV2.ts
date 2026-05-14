@@ -547,7 +547,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Petkim Petrochemie-Komplex", hu: "Petkim petrolkémiai komplexum", ro: "Complexul petrochimic Petkim", en: "Petkim Petrochemical Complex" },
-    coordinates: { lat: 38.826, lng: 26.933 },
+    coords: [26.933, 38.826],
     description: {
       de: "Petkim ist der größte Petrochemie-Produzent der Türkei in Aliağa. Der Komplex stellt Rohstoffe für Kunststoffe, Textilien und Pharmazeutika her.",
       hu: "A Petkim Törökország vezető petrolkémiai üzeme Aliağa mellett. A komplexum műanyagokhoz és textilekhez szükséges alapanyagokat gyárt.",
@@ -567,7 +567,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Kardemir Eisen- und Stahlwerke", hu: "Kardemir vas- és acélművek", ro: "Uzina de fier și oțel Kardemir", en: "Kardemir Iron and Steel Works" },
-    coordinates: { lat: 41.193, lng: 32.625 },
+    coords: [32.625, 41.193],
     description: {
       de: "Kardemir ist das erste integrierte Eisen- und Stahlwerk der Türkei in Karabük. Es ist ein zentraler Pfeiler der nationalen Schwerindustrie.",
       hu: "A Kardemir Törökország első integrált vas- és acélműve Karabük városában. A gyár a nemzeti nehézipar egyik legfontosabb központja.",
@@ -587,7 +587,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "port",
     parent: "TR",
     name: { de: "Hafen von Haydarpaşa", hu: "Haydarpaşa kikötő", ro: "Portul Haydarpașa", en: "Haydarpaşa Port" },
-    coordinates: { lat: 40.999, lng: 29.019 },
+    coords: [29.019, 40.999],
     description: {
       de: "Der Hafen von Haydarpaşa ist ein bedeutender Containerhafen auf der asiatischen Seite Istanbuls. Er dient als wichtiges Handelsdrehkreuz.",
       hu: "A Haydarpaşa kikötő Isztambul ázsiai oldalának jelentős konténerkikötője. Fontos kereskedelmi központ a Márvány-tenger partján.",
@@ -607,7 +607,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Ilısu-Talsperre", hu: "Ilısu-gát", ro: "Barajul Ilısu", en: "Ilısu Dam" },
-    coordinates: { lat: 37.53, lng: 41.848 },
+    coords: [41.848, 37.53],
     description: {
       de: "Die Ilısu-Talsperre ist ein großes Wasserkraftwerk am Fluss Tigris im Südosten der Türkei. Sie ist Teil des Südostanatolien-Projekts GAP.",
       hu: "Az Ilısu-gát egy hatalmas vízerőmű a Tigris folyón Törökország délkeleti részén. A GAP regionális fejlesztési projekt fontos eleme.",
@@ -627,7 +627,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "factory",
     parent: "TR",
     name: { de: "Aselsan Macunköy-Anlage", hu: "Aselsan Macunköy létesítmény", ro: "Facilitatea Aselsan Macunköy", en: "Aselsan Macunköy Facility" },
-    coordinates: { lat: 39.966, lng: 32.783 },
+    coords: [32.783, 39.966],
     description: {
       de: "Die Macunköy-Anlage in Ankara ist der Hauptsitz von Aselsan, dem führenden Verteidigungsunternehmen der Türkei. Hier werden High-Tech-Elektroniksysteme entwickelt.",
       hu: "Az ankarai Macunköy létesítmény az Aselsan központja, amely Törökország vezető hadiipari cége. Itt csúcstechnológiás elektronikai rendszereket gyártanak.",
@@ -647,7 +647,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Türkische Luft- und Raumfahrtindustrie (TUSAŞ)", hu: "Török Légiközlekedési és Űripari Rt. (TUSAŞ)", ro: "Industria Aerospațială Turcă (TUSAȘ)", en: "Turkish Aerospace Industries (TUSAŞ)" },
-    coordinates: { lat: 40.116, lng: 32.585 },
+    coords: [32.585, 40.116],
     description: {
       de: "TUSAŞ ist das Zentrum für Technologie in der Luft- und Raumfahrtindustrie der Türkei. Die Anlage in Kahramankazan produziert Flugzeuge und Hubschrauber.",
       hu: "A TUSAŞ Törökország repülőgépgyártó és űrtechnológiai központja. A Kahramankazan melletti üzemben repülőgépeket és helikoptereket fejlesztenek.",
@@ -667,7 +667,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "OSTİM Industriezone", hu: "OSTİM ipari zóna", ro: "Zona industrială OSTİM", en: "OSTİM Industrial Zone" },
-    coordinates: { lat: 39.968, lng: 32.752 },
+    coords: [32.752, 39.968],
     description: {
       de: "OSTİM in Ankara ist eine der größten organisierten Industriezonen für KMU weltweit. Sie beherbergt Tausende von kleinen und mittleren Unternehmen.",
       hu: "Az ankarai OSTİM a világ egyik legnagyobb kkv-kra szakosodott ipari zónája. Több ezer kis- és középvállalkozásnak ad otthont.",
@@ -687,7 +687,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "port",
     parent: "TR",
     name: { de: "Hafen von Alsancak", hu: "Alsancak kikötő", ro: "Portul Alsancak", en: "Port of Alsancak" },
-    coordinates: { lat: 38.442, lng: 27.15 },
+    coords: [27.15, 38.442],
     description: {
       de: "Der Hafen von Alsancak in İzmir ist ein wichtiges Tor für den Export von Agrar- und Industriegütern. Er liegt direkt im Stadtzentrum von İzmir.",
       hu: "Az Alsancak kikötő İzmir központjában Törökország egyik legfontosabb exportkapuja. Ipari és mezőgazdasági termékek kivitelére specializálódott.",
@@ -707,7 +707,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Birecik-Talsperre", hu: "Birecik-gát", ro: "Barajul Birecik", en: "Birecik Dam" },
-    coordinates: { lat: 37.055, lng: 37.892 },
+    coords: [37.892, 37.055],
     description: {
       de: "Die Birecik-Talsperre ist ein kombiniertes Energie- und Bewässerungsprojekt am Euphrat. Sie versorgt weite Teile Südostanatoliens mit Wasser.",
       hu: "A Birecik-gát egy kombinált energiatermelő és öntözési projekt az Eufráteszen. Délkelet-Anatólia jelentős részét látja el vízzel.",
@@ -727,7 +727,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "factory",
     parent: "TR",
     name: { de: "Eti Maden Bor-Werke Bandırma", hu: "Eti Maden Bandırma bórművek", ro: "Uzinele de bor Eti Maden Bandırma", en: "Eti Maden Bandırma Boron Works" },
-    coordinates: { lat: 40.346, lng: 27.947 },
+    coords: [27.947, 40.346],
     description: {
       de: "Diese Anlage in Bandırma veredelt Bor-Rohstoffe aus anatolischen Minen für den Weltmarkt. Die Türkei besitzt die weltweit größten Bor-Reserven.",
       hu: "Ez a bandırmai létesítmény az anatóliai bányákból származó bór-nyersanyagot dolgozza fel. Törökország rendelkezik a világ legnagyobb bórkészletével.",
@@ -747,7 +747,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "port",
     parent: "TR",
     name: { de: "Filyos Mega-Hafen", hu: "Filyos mega-kikötő", ro: "Mega-portul Filyos", en: "Filyos Mega Port" },
-    coordinates: { lat: 41.576, lng: 32.065 },
+    coords: [32.065, 41.576],
     description: {
       de: "Filyos ist ein neues maritimes Industriezentrum am Schwarzen Meer. Der Hafen dient als Logistikstützpunkt für Erdgasausbeutungen im Meer.",
       hu: "Filyos egy új tengeri ipari központ a Fekete-tenger partján. A kikötő a tengeri földgázkitermelés fő logisztikai bázisa.",
@@ -767,7 +767,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Dinar Windpark", hu: "Dinar szélerőműpark", ro: "Parcul eolian Dinar", en: "Dinar Wind Farm" },
-    coordinates: { lat: 38.07, lng: 30.16 },
+    coords: [30.16, 38.07],
     description: {
       de: "Der Windpark Dinar in Afyonkarahisar ist eine der größten Windenergieanlagen der Türkei. Er leistet einen wichtigen Beitrag zur grünen Energieversorgung.",
       hu: "Az Afyonkarahisarban található Dinar szélerőműpark Törökország egyik legnagyobb szélfarmja. Jelentősen hozzájárul a zöldenergia-termeléshez.",
@@ -787,7 +787,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "Organisierte Industriezone İkitelli", hu: "İkitelli szervezett ipari zóna", ro: "Zona industrială organizată İkitelli", en: "İkitelli Organized Industrial Zone" },
-    coordinates: { lat: 41.077, lng: 28.795 },
+    coords: [28.795, 41.077],
     description: {
       de: "İkitelli in Istanbul ist die größte organisierte Industriezone der Türkei. Sie beherbergt Zehntausende Betriebe in 37 spezialisierten Kooperativen.",
       hu: "Az isztambuli İkitelli Törökország legnagyobb szervezett ipari zónája. Tízezernyi vállalkozás működik itt 37 különböző szövetkezetben.",
@@ -807,7 +807,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "factory",
     parent: "TR",
     name: { de: "Şişecam Flachglaswerk Polatlı", hu: "Şişecam Polatlı síküveggyár", ro: "Fabrica de sticlă Şişecam Polatlı", en: "Şişecam Polatlı Glass Plant" },
-    coordinates: { lat: 39.585, lng: 32.138 },
+    coords: [32.138, 39.585],
     description: {
       de: "Das Şişecam-Werk in Polatlı ist eine der größten Flachglas-Produktionsstätten in Europa. Es liefert Glas für Bau- und Automobilsektoren weltweit.",
       hu: "A polatlıi Şişecam üzem Európa egyik legnagyobb síküveggyára. Az építőipar és az autóipar számára gyártanak üveget globális piacra.",
@@ -827,7 +827,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     type: "industry",
     parent: "TR",
     name: { de: "TÜPRAŞ Kocaeli Raffinerie", hu: "TÜPRAŞ Kocaeli finomító", ro: "Rafinăria TÜPRAŞ Kocaeli", en: "TÜPRAŞ Kocaeli Refinery" },
-    coordinates: { lat: 40.758, lng: 29.756 },
+    coords: [29.756, 40.758],
     description: {
       de: "Die TÜPRAŞ-Raffinerie in Kocaeli ist die größte Erdölraffinerie der Türkei. Sie deckt einen erheblichen Teil des nationalen Treibstoffbedarfs.",
       hu: "A kocaeli TÜPRAŞ finomító Törökország legnagyobb kőolajfinomítója. Az ország üzemanyagszükségletének jelentős részét fedezi.",

@@ -646,7 +646,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-chau-say-tevoda-landmarks-v2",
     type: "ruins",
     name: { de: "Chau Say Tevoda", hu: "Chau Say Tevoda", ro: "Chau Say Tevoda", en: "Chau Say Tevoda" },
-    coordinates: { lat: 13.445, lng: 103.878 },
+    coords: [103.878, 13.445],
     description: {
       de: "Ein Hindu-Tempel aus dem 12. Jahrhundert östlich von Angkor Thom. Er ist bekannt für seine detaillierten Devata-Schnitzereien.",
       hu: "Egy 12. századi hindu templom Angkor Thomtól keletre. Részletesen kidolgozott devata faragványairól ismert.",
@@ -677,7 +677,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-spean-thma-landmarks-v2",
     type: "bridge",
     name: { de: "Spean Thma", hu: "Spean Thma", ro: "Spean Thma", en: "Spean Thma" },
-    coordinates: { lat: 13.447, lng: 103.878 },
+    coords: [103.878, 13.447],
     description: {
       de: "Eine historische Brücke aus Sandsteinblöcken in der Nähe von Angkor Thom. Sie überquert ein altes Flussbett des Siem Reap Flusses.",
       hu: "Történelmi híd homokkő tömbökből Angkor Thom közelében. A Siem Reap folyó egykori medre felett ível át.",
@@ -708,7 +708,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-prasat-kravan-landmarks-v2",
     type: "ruins",
     name: { de: "Prasat Kravan", hu: "Prasat Kravan", ro: "Prasat Kravan", en: "Prasat Kravan" },
-    coordinates: { lat: 13.42, lng: 103.901 },
+    coords: [103.901, 13.42],
     description: {
       de: "Ein kleiner Tempel aus dem 10. Jahrhundert, der für seine Backsteinreliefs bekannt ist. Er ist dem Gott Vishnu gewidmet.",
       hu: "Egy kisméretű, 10. századi templom, amely tégla domborműveiről nevezetes. Visnu istennek szentelték.",
@@ -739,7 +739,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-baksei-chamkrong-landmarks-v2",
     type: "monument",
     name: { de: "Baksei Chamkrong", hu: "Baksei Chamkrong", ro: "Baksei Chamkrong", en: "Baksei Chamkrong" },
-    coordinates: { lat: 13.424, lng: 103.854 },
+    coords: [103.854, 13.424],
     description: {
       de: "Ein pyramidenförmiger Hindu-Tempel am Fuße des Phnom Bakheng. Er wurde im 10. Jahrhundert aus Laterit und Sandstein erbaut.",
       hu: "Piramis alakú hindu templom a Phnom Bakheng lábánál. A 10. században épült lateritből és homokkőből.",
@@ -770,7 +770,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-bat-chum-landmarks-v2",
     type: "ruins",
     name: { de: "Bat Chum", hu: "Bat Chum", ro: "Bat Chum", en: "Bat Chum" },
-    coordinates: { lat: 13.423, lng: 103.906 },
+    coords: [103.906, 13.423],
     description: {
       de: "Ein buddhistischer Tempel aus dem 10. Jahrhundert mit drei Backsteintürmen. Er wurde vom Architekten Kavindrarimathana erbaut.",
       hu: "10. századi buddhista templom három tégla toronnyal. Kavindrarimathana építész tervezte.",
@@ -801,7 +801,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-west-mebon-landmarks-v2",
     type: "ruins",
     name: { de: "Westlicher Mebon", hu: "Nyugati Mebon", ro: "Mebonul de Vest", en: "West Mebon" },
-    coordinates: { lat: 13.435, lng: 103.8 },
+    coords: [103.8, 13.435],
     description: {
       de: "Ein Tempel auf einer künstlichen Insel im Zentrum des Westlichen Baray. Er ist nur per Boot von der Küste aus erreichbar.",
       hu: "Templom a Nyugati Baray víztározó közepén lévő mesterséges szigeten. Csak csónakkal érhető el.",
@@ -832,7 +832,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-preah-palilay-landmarks-v2",
     type: "ruins",
     name: { de: "Preah Palilay", hu: "Preah Palilay", ro: "Preah Palilay", en: "Preah Palilay" },
-    coordinates: { lat: 13.447, lng: 103.854 },
+    coords: [103.854, 13.447],
     description: {
       de: "Ein kleiner buddhistischer Schrein im Wald nördlich des Königspalastes. Er besitzt einen markanten, kaminähnlichen Turm.",
       hu: "Kisméretű buddhista szentély az erdőben, a királyi palotától északra. Jellegzetes, kéményszerű tornya van.",
@@ -863,7 +863,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-preah-pithu-landmarks-v2",
     type: "ruins",
     name: { de: "Preah Pithu", hu: "Preah Pithu", ro: "Preah Pithu", en: "Preah Pithu" },
-    coordinates: { lat: 13.446, lng: 103.86 },
+    coords: [103.86, 13.446],
     description: {
       de: "Eine Gruppe von fünf hinduistischen und buddhistischen Tempeln in Angkor Thom. Sie stammen aus verschiedenen Epochen zwischen dem 12. und 13. Jahrhundert.",
       hu: "Öt hindu és buddhista templomból álló csoport Angkor Thomban. A 12. és 13. század között épültek.",
@@ -894,7 +894,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-preah-khan-kompong-svay-landmarks-v2",
     type: "ruins",
     name: { de: "Preah Khan Kompong Svay", hu: "Preah Khan Kompong Svay", ro: "Preah Khan Kompong Svay", en: "Preah Khan Kompong Svay" },
-    coordinates: { lat: 13.43, lng: 104.75 },
+    coords: [104.75, 13.43],
     description: {
       de: "Ein riesiger Tempelkomplex etwa 100 Kilometer östlich von Angkor. Er war eine wichtige Zweitresidenz der Khmer-Könige.",
       hu: "Hatalmas templomkomplexum Angkortól kb. 100 kilométerre keletre. A khmer királyok fontos másodlagos székhelye volt.",
@@ -925,7 +925,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-banteay-prei-landmarks-v2",
     type: "ruins",
     name: { de: "Banteay Prei", hu: "Banteay Prei", ro: "Banteay Prei", en: "Banteay Prei" },
-    coordinates: { lat: 13.483, lng: 103.875 },
+    coords: [103.875, 13.483],
     description: {
       de: "Ein kleiner Tempel im Bayon-Stil nördlich von Preah Khan. Er ist von einem Wassergraben umgeben und liegt ruhig im Wald.",
       hu: "Kisméretű, Bajon-stílusú templom Preah Khantól északra. Vizesárok veszi körül, csendes erdei környezetben fekszik.",
@@ -956,7 +956,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-banteay-samre-landmarks-v2",
     type: "ruins",
     name: { de: "Banteay Samre", hu: "Banteay Samre", ro: "Banteay Samre", en: "Banteay Samre" },
-    coordinates: { lat: 13.452, lng: 103.931 },
+    coords: [103.931, 13.452],
     description: {
       de: "Ein festungsähnlicher Tempel im klassischen Stil von Angkor Wat. Er zeichnet sich durch seine aufwendigen Giebel und Steinreliefs aus.",
       hu: "Erődszerű templom klasszikus Angkorvat-stílusban. Bonyolult oromzatairól és kődomborműveiről nevezetes.",
@@ -987,7 +987,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-krol-ko-landmarks-v2",
     type: "ruins",
     name: { de: "Krol Ko", hu: "Krol Ko", ro: "Krol Ko", en: "Krol Ko" },
-    coordinates: { lat: 13.466, lng: 103.896 },
+    coords: [103.896, 13.466],
     description: {
       de: "Ein kleiner buddhistischer Tempel aus der Zeit von Jayavarman VII. Er liegt in der Nähe von Neak Pean und bedeutet 'Park der Ochsen'.",
       hu: "Kisméretű buddhista templom VII. Jayavarman idejéből. Neak Pean közelében fekszik, neve 'Ökrök parkját' jelenti.",
@@ -1018,7 +1018,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-srah-srang-terrace-landmarks-v2",
     type: "monument",
     name: { de: "Terrasse von Srah Srang", hu: "Srah Srang terasza", ro: "Terasa Srah Srang", en: "Srah Srang Terrace" },
-    coordinates: { lat: 13.43, lng: 103.901 },
+    coords: [103.901, 13.43],
     description: {
       de: "Eine prachtvolle Anlegestelle am Westufer des Srah Srang Reservoirs. Sie wird von Löwen- und Naga-Statuen flankiert.",
       hu: "Pompás kikötőterasz a Srah Srang víztározó nyugati partján. Oroszlán- és naga-szobrok díszítik.",
@@ -1049,7 +1049,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-phnom-krom-landmarks-v2",
     type: "ruins",
     name: { de: "Phnom Krom", hu: "Phnom Krom", ro: "Phnom Krom", en: "Phnom Krom" },
-    coordinates: { lat: 13.284, lng: 103.818 },
+    coords: [103.818, 13.284],
     description: {
       de: "Ein Tempel aus dem 10. Jahrhundert auf einem Hügel nahe dem Tonle-Sap-See. Er bietet einen weiten Blick über die Wasserlandschaft.",
       hu: "10. századi templom a Tonle Sap-tó melletti dombon. Széles kilátást nyújt a vizes tájra.",
@@ -1080,7 +1080,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-phnom-bok-landmarks-v2",
     type: "ruins",
     name: { de: "Phnom Bok", hu: "Phnom Bok", ro: "Phnom Bok", en: "Phnom Bok" },
-    coordinates: { lat: 13.466, lng: 103.982 },
+    coords: [103.982, 13.466],
     description: {
       de: "Ein historischer Bergtempel nordöstlich des Östlichen Baray. Er gehört zu den drei heiligen Hügeln, die Yasovarman I. erschloss.",
       hu: "Történelmi hegyi templom a Keleti Baray-tól északkeletre. Egyike annak a három szent dombnak, amelyeket I. Jaszovarman épített be.",
@@ -1111,7 +1111,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-kizuna-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Kizuna-Brücke", hu: "Kizuna híd", ro: "Podul Kizuna", en: "Kizuna Bridge" },
-    coordinates: { lat: 12.003, lng: 105.474 },
+    coords: [105.474, 12.003],
     description: {
       de: "Die erste Brücke über den Mekong in Kambodscha, gelegen in Kampong Cham. Sie wurde mit finanzieller Hilfe Japans errichtet.",
       hu: "Az első híd a Mekong felett Kambodzsában, Kampong Cham városában. Japán pénzügyi támogatással épült.",
@@ -1142,7 +1142,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-tsubasa-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Tsubasa-Brücke", hu: "Tsubasa híd", ro: "Podul Tsubasa", en: "Tsubasa Bridge" },
-    coordinates: { lat: 11.285, lng: 105.231 },
+    coords: [105.231, 11.285],
     description: {
       de: "Eine markante Schrägseilbrücke über den Mekong bei Neak Loeung. Sie ist das längste Brückenbauwerk in Kambodscha.",
       hu: "Jellegzetes ferdekábeles híd a Mekong felett Neak Loeungnál. Ez Kambodzsa leghosszabb hídja.",
@@ -1173,7 +1173,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-national-library-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek von Kambodscha", hu: "Kambodzsai Nemzeti Könyvtár", ro: "Biblioteca Națională a Cambodgiei", en: "National Library of Cambodia" },
-    coordinates: { lat: 11.576, lng: 104.918 },
+    coords: [104.918, 11.576],
     description: {
       de: "Ein koloniales Gebäude in Phnom Penh, das über 100.000 Bände beherbergt. Es wurde während des französischen Protektorats eröffnet.",
       hu: "Koloniális épület Phnom Penhben, amely több mint 100 000 kötetet őriz. A francia protektorátus idején nyílt meg.",
@@ -1204,7 +1204,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-olympic-stadium-phnom-penh-landmarks-v2",
     type: "monument",
     name: { de: "Olympiastadion Phnom Penh", hu: "Phnom Penh-i Olimpiai Stadion", ro: "Stadionul Olimpic Phnom Penh", en: "Olympic Stadium Phnom Penh" },
-    coordinates: { lat: 11.558, lng: 104.912 },
+    coords: [104.912, 11.558],
     description: {
       de: "Ein markanter Sportkomplex im brutalistischen Stil im Zentrum der Hauptstadt. Er wurde vom Architekten Vann Molyvann entworfen.",
       hu: "Jellegzetes, brutalista stílusú sportkomplexum a főváros központjában. Vann Molyvann építész tervezte.",
@@ -1235,7 +1235,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-wat-langka-landmarks-v2",
     type: "church",
     name: { de: "Wat Langka", hu: "Wat Langka", ro: "Wat Langka", en: "Wat Langka" },
-    coordinates: { lat: 11.558, lng: 104.928 },
+    coords: [104.928, 11.558],
     description: {
       de: "Eines der ältesten Klöster in Phnom Penh, gegründet im 15. Jahrhundert. Es ist ein wichtiges Zentrum für Meditation und Pali-Studien.",
       hu: "Phnom Penh egyik legrégebbi kolostora, amelyet a 15. században alapítottak. A meditáció és a páli tanulmányok fontos központja.",
@@ -1266,7 +1266,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-wat-moha-montrey-landmarks-v2",
     type: "church",
     name: { de: "Wat Moha Montrey", hu: "Wat Moha Montrey", ro: "Wat Moha Montrey", en: "Wat Moha Montrey" },
-    coordinates: { lat: 11.554, lng: 104.912 },
+    coords: [104.912, 11.554],
     description: {
       de: "Eine farbenprächtige Pagode in Phnom Penh mit einem hohen zentralen Turm. Sie ist bekannt für ihre detaillierten Wandmalereien.",
       hu: "Színpompás pagoda Phnom Penhben, magas központi toronnyal. Részletes falfestményeiről híres.",
@@ -1297,7 +1297,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-russian-market-phsar-toul-tom-poung-landmarks-v2",
     type: "landmark",
     name: { de: "Russischer Markt (Phsar Toul Tom Poung)", hu: "Orosz piac (Phsar Toul Tom Poung)", ro: "Piața Rusă (Phsar Toul Tom Poung)", en: "Russian Market (Phsar Toul Tom Poung)" },
-    coordinates: { lat: 11.54, lng: 104.91 },
+    coords: [104.91, 11.54],
     description: {
       de: "Ein geschichtsträchtiger Markt in Phnom Penh, der in den 1980ern von sowjetischen Bürgern frequentiert wurde. Er ist ein Zentrum für Handwerk und Antiquitäten.",
       hu: "Történelmi piac Phnom Penhben, amelyet az 1980-as években szovjet állampolgárok látogattak. Kézműves termékek és régiségek központja.",
@@ -1328,7 +1328,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-bamboo-bridge-kampong-cham-landmarks-v2",
     type: "bridge",
     name: { de: "Bambusbrücke (Kampong Cham)", hu: "Bambuszhíd (Kampong Cham)", ro: "Podul de bambus (Kampong Cham)", en: "Bamboo Bridge (Kampong Cham)" },
-    coordinates: { lat: 11.97, lng: 105.48 },
+    coords: [105.48, 11.97],
     description: {
       de: "Eine saisonale Brücke aus Bambus, die jedes Jahr nach der Regenzeit neu gebaut wird. Sie verbindet Kampong Cham mit der Insel Koh Paen.",
       hu: "Szezonális bambuszhíd, amelyet minden évben az esős évszak után újjáépítenek. Kampong Chamot köti össze Koh Paen szigetével.",
@@ -1359,7 +1359,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-old-french-lighthouse-kampot-landmarks-v2",
     type: "tower",
     name: { de: "Alter französischer Leuchtturm (Kampot)", hu: "Régi francia világítótorony (Kampot)", ro: "Vechiul far francez (Kampot)", en: "Old French Lighthouse (Kampot)" },
-    coordinates: { lat: 10.59, lng: 104.16 },
+    coords: [104.16, 10.59],
     description: {
       de: "Ein historischer Leuchtturm aus der französischen Kolonialzeit an der Küste. Er ist ein Wahrzeichen der maritimen Geschichte der Region Kampot.",
       hu: "Történelmi világítótorony a francia gyarmati időkből a tengerparton. Kampot tartomány tengerészeti múltjának emléke.",
@@ -1390,7 +1390,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-preah-vihear-museum-landmarks-v2",
     type: "museum",
     name: { de: "Preah-Vihear-Museum", hu: "Preah Vihear Múzeum", ro: "Muzeul Preah Vihear", en: "Preah Vihear Museum" },
-    coordinates: { lat: 13.8, lng: 104.9 },
+    coords: [104.9, 13.8],
     description: {
       de: "Ein Kulturmuseum in der Stadt Preah Vihear, das die Geschichte des berühmten Bergtempels dokumentiert. Es stellt archäologische Funde der Region aus.",
       hu: "Kulturális múzeum Preah Vihear városában, amely a híres hegyi templom történetét mutatja be. A régió régészeti leleteit őrzi.",
@@ -1421,7 +1421,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     id: "cambodia-angkor-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Angkor Nationalmuseum", hu: "Angkori Nemzeti Múzeum", ro: "Muzeul Național Angkor", en: "Angkor National Museum" },
-    coordinates: { lat: 13.366, lng: 103.86 },
+    coords: [103.86, 13.366],
     description: {
       de: "Ein modernes Museum in Siem Reap, das die Zivilisation des Khmer-Reiches präsentiert. Es beherbergt eine beeindruckende Sammlung von Buddha-Statuen.",
       hu: "Modern múzeum Siem Reapben, amely a Khmer Birodalom civilizációját mutatja be. Lenyűgöző Buddha-szobor gyűjteménnyel rendelkezik.",

@@ -585,7 +585,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-bhitargarh-history-v2",
     type: "ruins",
     name: { de: "Bhitargarh", hu: "Bhitargarh", ro: "Bhitargarh", en: "Bhitargarh" },
-    coordinates: { lat: 26.242, lng: 88.543 },
+    coords: [88.543, 26.242],
     description: {
       de: "Diese antike Festungsstadt im Distrikt Panchagarh stammt aus dem 6. Jahrhundert. Sie umfasst ein riesiges Areal mit konzentrischen Mauern und Teichen.",
       hu: "Ez az ókori erődített város Panchagarh kerületben a 6. századból származik. Hatalmas területet foglal el koncentrikus falakkal és mesterséges tavakkal.",
@@ -616,7 +616,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-jagaddala-mahavihara-history-v2",
     type: "ruins",
     name: { de: "Jagaddala Mahavihara", hu: "Jagaddala Mahavihara", ro: "Jagaddala Mahavihara", en: "Jagaddala Mahavihara" },
-    coordinates: { lat: 25.155, lng: 88.887 },
+    coords: [88.887, 25.155],
     description: {
       de: "Ein bedeutendes buddhistisches Kloster und Zentrum des Lernens aus der Pala-Dynastie. Es wurde im späten 11. Jahrhundert unter König Ramapala erbaut.",
       hu: "A Pala-dinasztia jelentős buddhista kolostora és oktatási központja. A 11. század végén épült Ramapala király uralkodása alatt.",
@@ -647,7 +647,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-halud-vihara-history-v2",
     type: "ruins",
     name: { de: "Halud Vihara", hu: "Halud Vihara", ro: "Halud Vihara", en: "Halud Vihara" },
-    coordinates: { lat: 24.965, lng: 88.975 },
+    coords: [88.975, 24.965],
     description: {
       de: "Diese archäologische Stätte beherbergt die Überreste eines buddhistischen Klosters aus der Pala-Zeit. Sie liegt etwa 15 Kilometer südlich von Paharpur.",
       hu: "Ez a régészeti lelőhely egy Pala-kori buddhista kolostor maradványait őrzi. Paharpurtól körülbelül 15 kilométerre délre található.",
@@ -678,7 +678,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-sitakot-vihara-history-v2",
     type: "ruins",
     name: { de: "Sitakot Vihara", hu: "Sitakot Vihara", ro: "Sitakot Vihara", en: "Sitakot Vihara" },
-    coordinates: { lat: 25.467, lng: 88.983 },
+    coords: [88.983, 25.467],
     description: {
       de: "Ein antikes buddhistisches Kloster in Dinajpur mit einem quadratischen Grundriss. Es besteht aus 41 Schlafräumen für Mönche rund um einen Innenhof.",
       hu: "Ókori buddhista kolostor Dinajpurban, négyzet alakú alaprajzzal. 41 szerzetesi cellából áll, amelyek egy belső udvart vesznek körül.",
@@ -709,7 +709,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-khan-jahan-ali-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Khan Jahan Ali", hu: "Khán Dzsahán Ali sírja", ro: "Mormântul lui Khan Jahan Ali", en: "Tomb of Khan Jahan Ali" },
-    coordinates: { lat: 22.659, lng: 89.773 },
+    coords: [89.773, 22.659],
     description: {
       de: "Das Mausoleum des Heiligen und Kriegers Khan Jahan Ali, der die Stadt Bagerhat gründete. Es ist ein bedeutendes religiöses und historisches Denkmal.",
       hu: "Bagerhat városát alapító Khán Dzsahán Ali szent és harcos mauzóleuma. Jelentős vallási és történelmi emlékhely.",
@@ -740,7 +740,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-nine-dome-mosque-history-v2",
     type: "landmark",
     name: { de: "Neun-Kuppel-Moschee", hu: "Kilenckupolás mecset", ro: "Moscheea cu nouă cupole", en: "Nine Dome Mosque" },
-    coordinates: { lat: 22.661, lng: 89.775 },
+    coords: [89.775, 22.661],
     description: {
       de: "Diese historische Moschee in Bagerhat stammt aus dem 15. Jahrhundert. Sie zeichnet sich durch ihre namensgebenden neun Kuppeln aus.",
       hu: "Ez a bagerhati történelmi mecset a 15. századból származik. Névadó kilenc kupolájáról nevezetes.",
@@ -771,7 +771,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-choto-katra-history-v2",
     type: "landmark",
     name: { de: "Choto Katra", hu: "Choto Katra", ro: "Choto Katra", en: "Choto Katra" },
-    coordinates: { lat: 23.715, lng: 90.395 },
+    coords: [90.395, 23.715],
     description: {
       de: "Eine historische Karawanserei in Dhaka, die während der Mogulzeit im 17. Jahrhundert erbaut wurde. Sie diente als Unterkunft für Reisende und Händler.",
       hu: "Történelmi karavánszeráj Dhakában, amely a 17. századi mogul korszakban épült. Utazók és kereskedők szállásaként szolgált.",
@@ -802,7 +802,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-binat-bibi-mosque-history-v2",
     type: "landmark",
     name: { de: "Binat-Bibi-Moschee", hu: "Binat Bibi-mecset", ro: "Moscheea Binat Bibi", en: "Binat Bibi Mosque" },
-    coordinates: { lat: 23.708, lng: 90.417 },
+    coords: [90.417, 23.708],
     description: {
       de: "Die älteste erhaltene Moschee in Dhaka, erbaut im Jahr 1454 während der Herrschaft des Sultans Mahmud Shah. Sie ist ein wertvolles Zeugnis vor-mogulischer Architektur.",
       hu: "Dhaka legkorábbi fennmaradt mecsetje, amely 1454-ben épült Mahmud Shah szultán uralkodása alatt. A mogul korszak előtti építészet értékes emléke.",
@@ -833,7 +833,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-curzon-hall-history-v2",
     type: "university",
     name: { de: "Curzon Hall", hu: "Curzon Hall", ro: "Curzon Hall", en: "Curzon Hall" },
-    coordinates: { lat: 23.727, lng: 90.4 },
+    coords: [90.4, 23.727],
     description: {
       de: "Ein prächtiges Gebäude der Universität von Dhaka, das Architekturstile der Mogulzeit und des britischen Empires verbindet. Es wurde 1904 von Lord Curzon eingeweiht.",
       hu: "A Dakkai Egyetem impozáns épülete, amely a mogul és a brit birodalmi stílusokat ötvözi. Lord Curzon avatta fel 1904-ben.",
@@ -864,7 +864,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-armenian-church-history-v2",
     type: "church",
     name: { de: "Armenische Kirche", hu: "Örmény templom", ro: "Biserica Armeană", en: "Armenian Church" },
-    coordinates: { lat: 23.712, lng: 90.398 },
+    coords: [90.398, 23.712],
     description: {
       de: "Die Kirche der Heiligen Auferstehung zeugt von der einst blühenden armenischen Gemeinschaft in Dhaka. Sie wurde 1781 in Armanitola erbaut.",
       hu: "A Szent Feltámadás temploma a dhakai örmény közösség egykori virágzásának tanúja. 1781-ben épült Armanitolában.",
@@ -895,7 +895,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-st-thomas-cathedral-history-v2",
     type: "cathedral",
     name: { de: "St.-Thomas-Kathedrale", hu: "Szent Tamás-székesegyház", ro: "Catedrala Sfântul Toma", en: "St. Thomas Cathedral" },
-    coordinates: { lat: 23.709, lng: 90.412 },
+    coords: [90.412, 23.709],
     description: {
       de: "Eine anglikanische Kirche im Distrikt Old Dhaka, die 1824 geweiht wurde. Sie ist bekannt für ihre elegante britische Kolonialarchitektur.",
       hu: "Anglikán templom Old Dhaka negyedében, amelyet 1824-ben szenteltek fel. Elegáns brit gyarmati építészetéről ismert.",
@@ -914,7 +914,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-northbrook-hall-history-v2",
     type: "landmark",
     name: { de: "Northbrook Hall", hu: "Northbrook Hall", ro: "Northbrook Hall", en: "Northbrook Hall" },
-    coordinates: { lat: 23.708, lng: 90.412 },
+    coords: [90.412, 23.708],
     description: {
       de: "Auch bekannt als Lalkuthi, wurde dieses Rathaus 1874 zu Ehren des Besuchs von Lord Northbrook erbaut. Es liegt am Ufer des Flusses Buriganga.",
       hu: "Lalkuthi néven is ismert, ez a városháza 1874-ben épült Lord Northbrook látogatásának tiszteletére. A Buriganga folyó partján fekszik.",
@@ -928,12 +928,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built in 1874", "Blend of Mughal and Renaissance styles", "Served as a public town hall", "Known for its red color"],
     },
     imageHint: "Northbrook Hall Lalkuthi Dhaka",
+    descriptionAdvanced: {
+      de: "Northbrook Hall, auch bekannt als Lalkuthi, ist ein historisches Gebäude in Dhaka, Bangladesch. Erbaut im Jahr 1880 während der britischen Kolonialzeit, diente es als Rathaus und Versammlungsort für die Stadtverwaltung. Das Gebäude vereint viktorianische und mogulische Architekturelemente, was auf den kulturellen Synkretismus der damaligen Zeit hinweist. Sein Name ehrt Lord Northbrook, den damaligen Vizekönig von Indien. Nach der Unabhängigkeit verfiel die Halle zunehmend, wurde aber in den 2010er Jahren restauriert. Heute wird sie für kulturelle Veranstaltungen und als Museum genutzt. Der Bau umfasst eine große Halle, Galerien und Innenhöfe. Die Restaurierung bewahrte die ursprünglichen Stuckarbeiten und Holzschnitzereien. Trotz seiner historischen Bedeutung ist der Northbrook Hall weniger bekannt als andere Dhakaer Sehenswürdigkeiten, bietet aber einen Einblick in die koloniale Stadtgeschichte.",
+      hu: "A Northbrook Hall, más néven Lalkuthi, Dhaka egyik történelmi épülete. 1880-ban épült a brit gyarmati időszakban, városházaként és gyűlésteremként szolgált. Az épület a viktoriánus és mogul építészeti elemeket ötvözi, tükrözve a korszak kulturális szinkretizmusát. Nevét Lord Northbrookról, India akkori alkirályáról kapta. A függetlenség után az épület fokozatosan leromlott, de a 2010-es években felújították. Ma kulturális rendezvényeknek és múzeumnak ad otthont. A felújítás megőrizte az eredeti stukkómunkákat és favágásokat. Bár történelmi jelentősége ellenére kevésbé ismert, mint más dhakai nevezetességek, bepillantást nyújt a gyarmati várostörténetbe.",
+      ro: "Northbrook Hall, cunoscut și sub numele de Lalkuthi, este o clădire istorică din Dhaka, Bangladesh. Construită în 1880 în perioada colonială britanică, a servit ca primărie și loc de întrunire pentru administrația orașului. Clădirea îmbină elemente arhitecturale victoriene și mogule, reflectând sincretismul cultural al vremii. Numele său îl onorează pe Lord Northbrook, viceregele Indiei de atunci. După independență, sala s-a deteriorat treptat, dar a fost restaurată în anii 2010. Astăzi, găzduiește evenimente culturale și un muzeu. Restaurarea a păstrat ornamentele originale din stuc și gravurile în lemn. În ciuda importanței sale istorice, Northbrook Hall este mai puțin cunoscută decât alte atracții din Dhaka, dar oferă o perspectivă asupra istoriei coloniale a orașului.",
+      en: "Northbrook Hall, also known as Lalkuthi, is a historic building located in Dhaka, Bangladesh. Constructed in 1880 during the British colonial era, it served as the town hall and meeting place for the city administration. The architecture blends Victorian and Mughal elements, showcasing the cultural syncretism of the period. It was named after Lord Northbrook, then Viceroy of India. After Bangladesh's independence, the hall fell into disrepair but underwent restoration in the 2010s. Today, it is used for cultural events and houses a museum. The restoration preserved original stucco work and wood carvings. Despite its historical significance, Northbrook Hall is less prominent than other Dhaka landmarks, offering insight into the city's colonial past.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1880.", "Benannt nach Lord Northbrook, Vizekönig von Indien von 1872 bis 1876.", "Das Gebäude hat eine Fläche von etwa 1.200 Quadratmetern.", "Die Restaurierung begann 2012 und wurde 2015 abgeschlossen.", "Die Haupthalle bietet Platz für bis zu 500 Personen.", "Die Höhe des zentralen Turms beträgt 15 Meter."],
+      hu: ["Építés éve: 1880.", "Lord Northbrook indiai alkirályról nevezték el (1872-1876 között volt hivatalban).", "Az épület alapterülete kb. 1.200 négyzetméter.", "A felújítás 2012-ben kezdődött és 2015-ben fejeződött be.", "A főterem 500 fő befogadására alkalmas.", "A központi torony magassága 15 méter."],
+      ro: ["Construit în 1880.", "Denumit după Lord Northbrook, Vicerege al Indiei între 1872 și 1876.", "Clădirea are o suprafață de aproximativ 1.200 de metri pătrați.", "Restaurarea a început în 2012 și s-a finalizat în 2015.", "Sala principală poate găzdui până la 500 de persoane.", "Înălțimea turnului central este de 15 metri."],
+      en: ["Built in 1880.", "Named after Lord Northbrook, Viceroy of India from 1872 to 1876.", "The building covers an area of about 1,200 square meters.", "Restoration began in 2012 and was completed in 2015.", "The main hall can accommodate up to 500 people.", "The central tower is 15 meters high."],
+    },
   },
   {
     id: "bangladesh-baliati-palace-history-v2",
     type: "palace",
     name: { de: "Baliati-Palast", hu: "Baliati-palota", ro: "Palatul Baliati", en: "Baliati Palace" },
-    coordinates: { lat: 23.996, lng: 90.041 },
+    coords: [90.041, 23.996],
     description: {
       de: "Einer der prächtigsten Paläste von Zamindaren (Großgrundbesitzern) in Bangladesch. Die Anlage in Manikganj umfasst sieben monumentale Gebäude.",
       hu: "Banglades egyik legimpozánsabb zamindár (földesúri) palotája. A Manikganjban található komplexum hét monumentális épületből áll.",
@@ -947,12 +959,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built in the 19th century", "Located in Saturia, Manikganj", "Features 200 ornate rooms", "Significant example of Greco-Roman influences"],
     },
     imageHint: "Baliati Palace Manikganj",
+    descriptionAdvanced: {
+      de: "Der Baliati-Palast im Dorf Baliati im Distrikt Manikganj ist ein herausragendes Beispiel der Zamindar-Architektur in Bangladesch. Erbaut im späten 19. Jahrhundert von der Zamindar-Familie der Nag, diente der Palast als Residenz und Verwaltungssitz. Der Komplex umfasst mehrere Gebäude, darunter den Hauptpalast, einen Tempel, einen Teich und Gärten. Die Architektur zeigt europäische Einflüsse, insbesondere neoklassizistische Elemente, kombiniert mit traditionellen bengalischen Stilen. Der Palast verfügt über große Säle, kunstvolle Treppen und dekorative Säulen. Nach dem Ende der Zamindari-Herrschaft verfiel das Anwesen, wurde aber später von der archäologischen Abteilung Bangladeschs als geschütztes Denkmal ausgewiesen. Heute zieht es Besucher an, die sich für die Geschichte der Landbesitzer und die Architektur des 19. Jahrhunderts interessieren.",
+      hu: "A baliati palota Manikganj körzet Baliati falujában található, a bangladesi zamindar építészet kiemelkedő példája. A 19. század végén épült a Nag zamindar család által, a palota rezidenciaként és adminisztrációs központként szolgált. Az együttes több épületből áll, köztük a főpalotából, egy templomból, egy tóból és kertekből. Az építészet európai hatásokat mutat, különösen neoklasszicista elemeket, hagyományos bengáli stílusokkal kombinálva. A palota nagy termekkel, díszes lépcsőkkel és dekoratív oszlopokkal rendelkezik. A zamindari uralom vége után az ingatlan leromlott, de később Banglades régészeti osztálya védett műemlékké nyilvánította. Ma a látogatókat vonzza, akiket érdekel a földbirtokosok története és a 19. századi építészet.",
+      ro: "Palatul Baliati, situat în satul Baliati din districtul Manikganj, este un exemplu remarcabil al arhitecturii zamindar din Bangladesh. Construit la sfârșitul secolului al XIX-lea de familia zamindar Nag, palatul a servit drept reședință și sediu administrativ. Complexul cuprinde mai multe clădiri, inclusiv palatul principal, un templu, un iaz și grădini. Arhitectura prezintă influențe europene, în special elemente neoclasice, combinate cu stiluri tradiționale bengaleze. Palatul are săli mari, scări ornamentate și coloane decorative. După sfârșitul dominației zamindari, proprietatea a intrat în declin, dar mai târziu a fost declarată monument protejat de departamentul arheologic din Bangladesh. Astăzi, atrage vizitatori interesați de istoria proprietarilor de pământ și de arhitectura secolului al XIX-lea.",
+      en: "Baliati Palace, located in Baliati village in Manikganj District, is a notable example of zamindar architecture in Bangladesh. Built in the late 19th century by the Nag zamindar family, it served as both a residence and administrative center. The complex includes multiple buildings: the main palace, a temple, a pond, and gardens. The architecture blends European neoclassical elements with traditional Bengali styles. Features include grand halls, ornate staircases, and decorative columns. After the abolition of the zamindari system, the property deteriorated but was later declared a protected monument by the Bangladesh Department of Archaeology. Today, it attracts visitors interested in the history of landholding elites and 19th-century architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1890 und 1900.", "Die Palastanlage umfasst eine Fläche von etwa 2 Hektar.", "Der Hauptpalast hat 52 Räume.", "Der Tempel im Komplex ist der hinduistischen Göttin Kali geweiht.", "Der Teich hat eine Fläche von 0,5 Hektar.", "Das Anwesen wurde 1987 zum geschützten Denkmal erklärt."],
+      hu: ["Épült 1890 és 1900 között.", "A palotaegyüttes területe kb. 2 hektár.", "A főpalota 52 szobával rendelkezik.", "A komplexumban lévő templom a hindu istennő, Kali tiszteletére épült.", "A tó területe 0,5 hektár.", "Az ingatlant 1987-ben nyilvánították védett műemlékké."],
+      ro: ["Construit între 1890 și 1900.", "Complexul palatului se întinde pe aproximativ 2 hectare.", "Palatul principal are 52 de camere.", "Templul din complex este dedicat zeiței hinduse Kali.", "Iazul are o suprafață de 0,5 hectare.", "Proprietatea a fost declarată monument protejat în 1987."],
+      en: ["Built between 1890 and 1900.", "The palace complex covers about 2 hectares.", "The main palace has 52 rooms.", "The temple in the complex is dedicated to the Hindu goddess Kali.", "The pond covers 0.5 hectares.", "The property was declared a protected monument in 1987."],
+    },
   },
   {
     id: "bangladesh-mohera-zamindar-house-history-v2",
     type: "palace",
     name: { de: "Mohera-Zamindar-Haus", hu: "Mohera zamindár-ház", ro: "Casa Zamindarului Mohera", en: "Mohera Zamindar House" },
-    coordinates: { lat: 24.162, lng: 90.052 },
+    coords: [90.052, 24.162],
     description: {
       de: "Ein historisches Anwesen in Tangail, das durch seine farbenfrohe Architektur und gepflegten Gärten besticht. Es dient heute als Ausbildungszentrum der Polizei.",
       hu: "Tangailban található történelmi birtok, amely színes építészetével és gondozott kertjeivel tűnik ki. Ma rendőrségi kiképző központként szolgál.",
@@ -966,12 +990,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Founded around 1890", "Consists of four main buildings", "Colonial style architecture", "Popular destination for film shootings"],
     },
     imageHint: "Mohera Zamindar House Tangail",
+    descriptionAdvanced: {
+      de: "Das Mohera Zamindar House in der Tangail-Region ist ein historisches Herrenhaus, das im frühen 20. Jahrhundert von der Zamindar-Familie der Chowdhurys erbaut wurde. Es diente als Wohnsitz und Wirtschaftszentrum für die umliegenden Ländereien. Das zweistöckige Gebäude im neoklassizistischen Stil zeichnet sich durch seine korinthischen Säulen, großen Veranden und kunstvollen Giebel aus. Nach der Abschaffung des Zamindari-Systems 1950 verfiel das Haus allmählich. In den 2000er Jahren wurde es von der bangladeschischen Regierung als historische Stätte eingestuft und teilweise restauriert. Heute wird es als Museum genutzt, das Artefakte aus der Zamindar-Zeit zeigt, darunter Möbel, Gemälde und Alltagsgegenstände. Die Stätte bietet Einblicke in das feudale Leben im ländlichen Bengalen zu Beginn des 20. Jahrhunderts.",
+      hu: "A tangaili régióban található Mohera Zamindar Ház egy történelmi kúria, amelyet a 20. század elején építtetett a Chowdhury zamindar család. Lakóhelyként és gazdasági központként szolgált a környező birtokok számára. A kétszintes neoklasszicista épület jellegzetességei a korinthoszi oszlopok, a tágas verandák és a díszes oromzatok. A zamindari rendszer 1950-es megszüntetése után a ház fokozatosan leromlott. A 2000-es években a bangladesi kormány történelmi helyszínné nyilvánította és részlegesen felújította. Ma múzeumként működik, amely a zamindar korszak tárgyait mutatja be, köztük bútorokat, festményeket és mindennapi használati tárgyakat. A helyszín betekintést nyújt a feudális életmódba a vidéki Bengáliában a 20. század elején.",
+      ro: "Mohera Zamindar House, situat în regiunea Tangail, este un conac istoric construit la începutul secolului al XX-lea de către familia zamindar Chowdhury. A servit drept reședință și centru economic pentru moșiile înconjurătoare. Clădirea cu două etaje, în stil neoclasic, se remarcă prin coloanele corintice, verandele mari și frontoanele ornamentate. După abolirea sistemului zamindari în 1950, conacul s-a deteriorat treptat. În anii 2000, a fost declarat sit istoric de către guvernul Bangladeshului și parțial restaurat. Astăzi, funcționează ca muzeu, expunând artefacte din perioada zamindar, inclusiv mobilier, picturi și obiecte de uz zilnic. Situl oferă perspective asupra vieții feudale din Bengalul rural la începutul secolului al XX-lea.",
+      en: "Mohera Zamindar House in the Tangail region is a historic mansion built in the early 20th century by the Chowdhury zamindar family. It served as a residence and economic hub for surrounding estates. The two-story neoclassical building features Corinthian columns, large verandas, and ornate pediments. After the abolition of the zamindari system in 1950, the house gradually fell into disrepair. In the 2000s, it was declared a historic site by the Bangladesh government and partially restored. Today, it operates as a museum displaying artifacts from the zamindar era, including furniture, paintings, and everyday items. The site offers insights into feudal life in rural Bengal in the early 20th century.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1910.", "Das Herrenhaus hat eine Grundfläche von etwa 800 Quadratmetern.", "Es verfügt über 30 Zimmer.", "Die Restaurierung begann 2005 und dauerte drei Jahre.", "Das Museum beherbergt über 200 Artefakte.", "Die Höhe der Säulen beträgt 4,5 Meter."],
+      hu: ["Épült 1910-ben.", "A kúria alapterülete kb. 800 négyzetméter.", "30 szobával rendelkezik.", "A felújítás 2005-ben kezdődött és három évig tartott.", "A múzeum több mint 200 műtárgyat őriz.", "Az oszlopok magassága 4,5 méter."],
+      ro: ["Construit în 1910.", "Conacul are o suprafață de aproximativ 800 de metri pătrați.", "Are 30 de camere.", "Restaurarea a început în 2005 și a durat trei ani.", "Muzeul adăpostește peste 200 de artefacte.", "Înălțimea coloanelor este de 4,5 metri."],
+      en: ["Built in 1910.", "The mansion has a floor area of about 800 square meters.", "It has 30 rooms.", "Restoration began in 2005 and lasted three years.", "The museum houses over 200 artifacts.", "The columns are 4.5 meters high."],
+    },
   },
   {
     id: "bangladesh-natore-rajbari-history-v2",
     type: "palace",
     name: { de: "Natore Rajbari", hu: "Natore Rajbari", ro: "Natore Rajbari", en: "Natore Rajbari" },
-    coordinates: { lat: 24.417, lng: 88.981 },
+    coords: [88.981, 24.417],
     description: {
       de: "Ein weitläufiger Palastkomplex in Natore, der einst Sitz der Maharadscha-Familie war. Die Anlage wird von mehreren großen Teichen und Gräben umgeben.",
       hu: "Kiterjedt palotakomplexum Natore-ban, amely egykor a maharadzsa család székhelye volt. A területet több nagy mesterséges tó és vizesárok veszi körül.",
@@ -985,12 +1021,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built in the 18th century", "Former center of the Natore Zamindari", "Covers an area of 48 acres", "Houses several Hindu temples"],
     },
     imageHint: "Natore Rajbari palace complex",
+    descriptionAdvanced: {
+      de: "Der Natore Rajbari ist ein historischer Palastkomplex in der Stadt Natore, Bangladesch. Erbaut im 18. Jahrhundert von der Zamindar-Familie der Singha, war er eines der größten Herrenhäuser in Bengalen. Der Komplex umfasst mehrere Paläste, Tempel, Gärten und einen großen Teich. Die Architektur ist eine Mischung aus mogulischen, europäischen und traditionellen bengalischen Stilen. Der Palast war bekannt für seine Opulenz und diente als Machtzentrum in der Region. Nach der Teilung Indiens und der Unabhängigkeit Bangladeschs verfiel die Anlage. Einige Teile wurden jedoch restauriert, darunter der Hauptpalast und der Tempel. Heute ist der Natore Rajbari eine beliebte Touristenattraktion und ein wichtiges archäologisches Denkmal. Er bietet einen Einblick in das Leben der bengalischen Zamindare und die Architektur des 18. bis 19. Jahrhunderts.",
+      hu: "A Natore Rajbari egy történelmi palotaegyüttes a bangladesi Natore városában. A 18. században építtette a Singha zamindar család, és Bengália egyik legnagyobb kastélya volt. Az együttes több palotát, templomot, kertet és egy nagy tavat foglal magában. Az építészet a mogul, európai és hagyományos bengáli stílusok keveréke. A palota híres volt fényűzéséről, és a régió hatalmi központjaként szolgált. India felosztása és Banglades függetlensége után az épületegyüttes leromlott. Néhány részt azonban felújítottak, köztük a főpalotát és a templomot. Ma a Natore Rajbari népszerű turistacélpont és fontos régészeti emlék. Betekintést nyújt a bengáli zamindarok életébe és a 18-19. századi építészetbe.",
+      ro: "Natore Rajbari este un complex palatial istoric din orașul Natore, Bangladesh. Construit în secolul al XVIII-lea de familia zamindar Singha, a fost unul dintre cele mai mari conace din Bengal. Complexul cuprinde mai multe palate, temple, grădini și un iaz mare. Arhitectura este un amestec de stiluri mogul, european și bengalez tradițional. Palatul era cunoscut pentru opulența sa și a servit ca centru de putere în regiune. După Partiția Indiei și independența Bangladeshului, complexul a intrat în declin. Cu toate acestea, unele părți au fost restaurate, inclusiv palatul principal și templul. Astăzi, Natore Rajbari este o atracție turistică populară și un important monument arheologic. Oferă o perspectivă asupra vieții zamindarilor bengalezi și a arhitecturii secolelor XVIII-XIX.",
+      en: "Natore Rajbari is a historic palace complex in the town of Natore, Bangladesh. Built in the 18th century by the Singha zamindar family, it was one of the largest mansions in Bengal. The complex includes several palaces, temples, gardens, and a large pond. The architecture blends Mughal, European, and traditional Bengali styles. The palace was known for its opulence and served as a power center in the region. After the Partition of India and Bangladesh's independence, the complex fell into disrepair. However, some parts have been restored, including the main palace and the temple. Today, Natore Rajbari is a popular tourist attraction and an important archaeological monument. It offers insight into the lives of Bengal's zamindars and the architecture of the 18th-19th centuries.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1760 und 1780.", "Der Palastkomplex erstreckt sich über eine Fläche von etwa 10 Hektar.", "Der Hauptpalast hat 3 Stockwerke und 75 Räume.", "Der Tempelkomplex umfasst 5 einzelne Tempel.", "Der Teich hat einen Durchmesser von 90 Metern.", "Die Restaurierung des Hauptpalastes wurde 2010 abgeschlossen."],
+      hu: ["Épült 1760 és 1780 között.", "A palotaegyüttes területe kb. 10 hektár.", "A főpalota 3 emeletes és 75 szobás.", "A templomegyüttes 5 különálló templomot foglal magában.", "A tó átmérője 90 méter.", "A főpalota felújítása 2010-ben fejeződött be."],
+      ro: ["Construit între 1760 și 1780.", "Complexul palatului se întinde pe aproximativ 10 hectare.", "Palatul principal are 3 etaje și 75 de camere.", "Complexul de temple cuprinde 5 temple separate.", "Iazul are un diametru de 90 de metri.", "Restaurarea palatului principal a fost finalizată în 2010."],
+      en: ["Built between 1760 and 1780.", "The palace complex covers an area of about 10 hectares.", "The main palace has 3 floors and 75 rooms.", "The temple complex includes 5 separate temples.", "The pond has a diameter of 90 meters.", "Restoration of the main palace was completed in 2010."],
+    },
   },
   {
     id: "bangladesh-dighapatia-rajbari-history-v2",
     type: "palace",
     name: { de: "Dighapatia Rajbari", hu: "Dighapatia Rajbari", ro: "Dighapatia Rajbari", en: "Dighapatia Rajbari" },
-    coordinates: { lat: 24.433, lng: 88.983 },
+    coords: [88.983, 24.433],
     description: {
       de: "Dieser prunkvolle Palast, heute als Uttara Ganabhaban bekannt, dient als offizielle Residenz des Präsidenten in Nord-Bangladesch.",
       hu: "Ez a pompás palota, amely ma Uttara Ganabhaban néven ismert, az elnök hivatalos rezidenciájaként szolgál Észak-Bangladesben.",
@@ -1004,12 +1052,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built in 1734", "Seat of the Dighapatia Raj family", "Now an official state guest house", "Famous for its large clock gate"],
     },
     imageHint: "Dighapatia Rajbari Uttara Ganabhaban",
+    descriptionAdvanced: {
+      de: "Der Dighapatia Rajbari ist ein historischer Palast in der Stadt Natore, Bangladesch, erbaut im 19. Jahrhundert von der Zamindar-Familie der Dighapatia. Der Palast ist bekannt für seine einzigartige Architektur, die neoklassizistische und mogulische Elemente vereint. Er umfasst einen Hauptpalast, einen Tanzsaal, einen Tempel und weitläufige Gärten. Der Palast war das kulturelle Zentrum der Region und veranstaltete Musik- und Tanzaufführungen. Nach dem Ende der Zamindari-Herrschaft verfiel das Anwesen, wurde aber in den 1980er Jahren von der bangladeschischen Regierung übernommen und als Museum eingerichtet. Das Museum zeigt Sammlungen von Porzellan, Möbeln, Gemälden und historischen Dokumenten. Der Dighapatia Rajbari ist ein beliebtes Ausflugsziel und ein wichtiges Beispiel für die Architektur der Zamindar-Ära.",
+      hu: "A Dighapatia Rajbari egy történelmi palota a bangladesi Natore városában, amelyet a 19. században építtetett a Dighapatia zamindar család. A palota egyedülálló építészetéről ismert, amely neoklasszicista és mogul elemeket ötvöz. Magában foglal egy főpalotát, egy báltermet, egy templomot és kiterjedt kerteket. A palota a régió kulturális központja volt, ahol zenei és táncelőadásokat tartottak. A zamindari uralom vége után az ingatlan leromlott, de az 1980-as években a bangladesi kormány átvette és múzeumként rendezte be. A múzeum porcelán-, bútor-, festmény- és történelmi dokumentumgyűjteményeket mutat be. A Dighapatia Rajbari népszerű kirándulóhely és a zamindar korszak építészetének fontos példája.",
+      ro: "Dighapatia Rajbari este un palat istoric din orașul Natore, Bangladesh, construit în secolul al XIX-lea de familia zamindar Dighapatia. Palatul este cunoscut pentru arhitectura sa unică, care îmbină elemente neoclasice și mogule. Include un palat principal, o sală de bal, un templu și grădini întinse. Palatul a fost centrul cultural al regiunii, găzduind spectacole de muzică și dans. După sfârșitul dominației zamindari, proprietatea a intrat în declin, dar în anii 1980 a fost preluată de guvernul Bangladeshului și transformată în muzeu. Muzeul expune colecții de porțelanuri, mobilier, picturi și documente istorice. Dighapatia Rajbari este o destinație populară de excursii și un exemplu important al arhitecturii din era zamindar.",
+      en: "Dighapatia Rajbari is a historic palace in Natore, Bangladesh, built in the 19th century by the Dighapatia zamindar family. The palace is known for its unique architecture, combining neoclassical and Mughal elements. It includes a main palace, a dance hall, a temple, and extensive gardens. The palace was the cultural center of the region, hosting music and dance performances. After the end of zamindari rule, the property fell into disrepair, but in the 1980s it was taken over by the Bangladesh government and turned into a museum. The museum displays collections of porcelain, furniture, paintings, and historical documents. Dighapatia Rajbari is a popular excursion destination and an important example of zamindar-era architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1840 und 1860.", "Der Palastkomplex umfasst 6 Hektar.", "Die Haupthalle hat eine Deckenhöhe von 6 Metern.", "Der Tanzsaal ist 20 mal 15 Meter groß.", "Das Museum beherbergt mehr als 500 Exponate.", "Der Palast wurde 1985 als Museum eröffnet."],
+      hu: ["Épült 1840 és 1860 között.", "A palotaegyüttes 6 hektáron terül el.", "A főterem belmagassága 6 méter.", "A bálterem 20x15 méteres.", "A múzeum több mint 500 kiállítási tárgyat őriz.", "A palotát 1985-ben nyitották meg múzeumként."],
+      ro: ["Construit între 1840 și 1860.", "Complexul palatului se întinde pe 6 hectare.", "Sala principală are o înălțime a tavanului de 6 metri.", "Sala de bal are dimensiunile de 20 pe 15 metri.", "Muzeul adăpostește peste 500 de exponate.", "Palatul a fost deschis ca muzeu în 1985."],
+      en: ["Built between 1840 and 1860.", "The palace complex covers 6 hectares.", "The main hall has a ceiling height of 6 meters.", "The dance hall measures 20 by 15 meters.", "The museum houses over 500 exhibits.", "The palace was opened as a museum in 1985."],
+    },
   },
   {
     id: "bangladesh-vasu-vihara-history-v2",
     type: "ruins",
     name: { de: "Vasu Vihara", hu: "Vasu Vihara", ro: "Vasu Vihara", en: "Vasu Vihara" },
-    coordinates: { lat: 24.975, lng: 89.317 },
+    coords: [89.317, 24.975],
     description: {
       de: "Überreste eines antiken buddhistischen Klosters in Bogra, das vermutlich vom chinesischen Pilger Xuanzang im 7. Jahrhundert besucht wurde.",
       hu: "Ókori buddhista kolostor maradványai Bográban, amelyet feltehetően a kínai zarándok, Xuanzang is meglátogatott a 7. században.",
@@ -1023,12 +1083,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Archaeological site near Mahasthangarh", "Consists of two monasteries and one temple", "Discovery of valuable bronze statues", "Dates back to Gupta and Pala eras"],
     },
     imageHint: "Vasu Vihara Buddhist monastery ruins",
+    descriptionAdvanced: {
+      de: "Vasu Vihara ist eine archäologische Stätte in der Region Mahasthangarh in Bangladesch, die auf das 4. bis 8. Jahrhundert n. Chr. zurückgeht. Es handelt sich um ein buddhistisches Kloster (Vihara), das Teil der antiken Stadt Pundranagara war. Die Stätte umfasst Überreste von Zellen, einer zentralen Halle, einem Schrein und einer Mauer. Die Anlage wurde im 20. Jahrhundert ausgegraben und legte Ziegelstrukturen, Terrakottaplatten und Münzen frei. Vasu Vihara ist ein wichtiges Zeugnis des Buddhismus in Bengalen während der Gupta- und Pala-Zeit. Die Stätte ist heute ein geschütztes archäologisches Denkmal und zieht Forscher und Touristen an. Sie bietet Einblicke in die klösterliche Organisation und die materielle Kultur des frühmittelalterlichen Bengalen.",
+      hu: "A Vasu Vihara egy régészeti lelőhely a bangladesi Mahasthangarh régióban, amely a Kr. u. 4-8. századra datálható. Ez egy buddhista kolostor (vihara), amely Pundranagara ősi városának része volt. A lelőhely cellák, egy központi terem, egy szentély és egy fal maradványait foglalja magában. A komplexumot a 20. században tárták fel, téglaszerkezetek, terrakotta lapok és érmék kerültek elő. A Vasu Vihara fontos bizonyítéka a buddhizmusnak Bengáliában a Gupta és Pála korban. A lelőhely ma védett régészeti emlék, és kutatókat valamint turistákat vonz. Betekintést nyújt a koraközépkori Bengália kolostori szervezetébe és anyagi kultúrájába.",
+      ro: "Vasu Vihara este un sit arheologic în regiunea Mahasthangarh din Bangladesh, datând din secolele IV-VIII d.Hr. Este o mănăstire budistă (vihara) care făcea parte din orașul antic Pundranagara. Situl cuprinde rămășițe de chilii, o sală centrală, un altar și un zid. Complexul a fost excavat în secolul al XX-lea, descoperindu-se structuri din cărămidă, plăci de teracotă și monede. Vasu Vihara este o mărturie importantă a budismului în Bengal în perioadele Gupta și Pala. Situl este astăzi un monument arheologic protejat și atrage cercetători și turiști. Oferă perspective asupra organizării monahale și a culturii materiale din Bengalul medieval timpuriu.",
+      en: "Vasu Vihara is an archaeological site in the Mahasthangarh region of Bangladesh, dating from the 4th to 8th centuries AD. It is a Buddhist monastery (vihara) that was part of the ancient city of Pundranagara. The site includes remains of cells, a central hall, a shrine, and a wall. The complex was excavated in the 20th century, revealing brick structures, terracotta plaques, and coins. Vasu Vihara is an important testimony to Buddhism in Bengal during the Gupta and Pala periods. The site is now a protected archaeological monument and attracts researchers and tourists. It offers insights into monastic organization and material culture in early medieval Bengal.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 4. Jahrhundert n. Chr.", "Die Anlage misst 45 Meter mal 40 Meter.", "Es wurden 15 Mönchszellen freigelegt.", "Die Mauern sind 2 Meter dick.", "Ausgrabungen begannen 1928 unter K.N. Dikshit.", "Es wurden Münzen aus der Gupta-Zeit gefunden."],
+      hu: ["Épült a Kr. u. 4. században.", "A komplexum 45x40 méteres.", "15 szerzetesi cellát tártak fel.", "A falak vastagsága 2 méter.", "Az ásatások 1928-ban kezdődtek K.N. Dikshit vezetésével.", "Gupta-kori érméket találtak."],
+      ro: ["Construit în secolul al IV-lea d.Hr.", "Complexul măsoară 45 de metri pe 40 de metri.", "Au fost dezgropate 15 chilii monahale.", "Zidurile au o grosime de 2 metri.", "Săpăturile au început în 1928 sub conducerea lui K.N. Dikshit.", "Au fost găsite monede din perioada Gupta."],
+      en: ["Built in the 4th century AD.", "The complex measures 45 meters by 40 meters.", "15 monk cells were excavated.", "The walls are 2 meters thick.", "Excavations began in 1928 under K.N. Dikshit.", "Coins from the Gupta period were found."],
+    },
   },
   {
     id: "bangladesh-shahi-eidgah-sylhet-history-v2",
     type: "landmark",
     name: { de: "Shahi Eidgah Sylhet", hu: "Shahi Eidgah Szilhet", ro: "Shahi Eidgah Sylhet", en: "Shahi Eidgah Sylhet" },
-    coordinates: { lat: 24.896, lng: 91.879 },
+    coords: [91.879, 24.896],
     description: {
       de: "Ein monumentaler Gebetsplatz in Sylhet, der während der Mogulzeit für große Versammlungen erbaut wurde. Er beeindruckt durch seine weitläufigen Terrassenmauern.",
       hu: "Monumentális imatér Szilhetben, amely a mogul korszakban épült nagy gyűlések számára. Kiterjedt teraszos falaival nyűgöz le.",
@@ -1042,12 +1114,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built by Mughal Emperor Aurangzeb", "Used for Eid prayers for centuries", "Fort-like architecture with battlements", "One of the largest Eidgahs in the country"],
     },
     imageHint: "Shahi Eidgah Sylhet historical prayer ground",
+    descriptionAdvanced: {
+      de: "Das Shahi Eidgah in Sylhet ist eine historische Gebetsstätte für das Eid-Gebet, erbaut im 17. Jahrhundert während der Mogulzeit. Es befindet sich am Ufer des Surma-Flusses und ist ein bedeutendes islamisches Bauwerk in Bangladesch. Die Struktur besteht aus einer großen, offenen rechteckigen Fläche, die von einer Mauer umgeben ist, mit einer Mihrab-Nische in der Qibla-Wand. Die Mauer ist mit dekorativen Zinnen und Türmen verziert. Das Shahi Eidgah wird noch heute von der muslimischen Gemeinde für die Eid-Gebete genutzt. Es ist ein geschütztes Denkmal der archäologischen Abteilung Bangladeschs. Die Stätte zieht sowohl Gläubige als auch Touristen an, die sich für die Mogul-Architektur und die islamische Geschichte der Region interessieren.",
+      hu: "A Sylheti Shahi Eidgah egy történelmi imahely az Eid imához, amely a 17. században épült a mogul korban. A Surma folyó partján található, és Banglades egyik jelentős iszlám építménye. A szerkezet egy nagy, nyitott téglalap alakú területből áll, amelyet egy fal vesz körül, és egy mihrab fülke található a kibla falban. A falat díszes lőrések és tornyok díszítik. A Shahi Eidgah-t ma is használja a muszlim közösség az Eid imákra. Banglades régészeti osztályának védett műemléke. A helyszín vonzza mind a hívőket, mind a turistákat, akik érdeklődnek a mogul építészet és a régió iszlám története iránt.",
+      ro: "Shahi Eidgah din Sylhet este un loc de rugăciune istoric pentru rugăciunea de Eid, construit în secolul al XVII-lea în perioada Mogulă. Este situat pe malul râului Surma și este o clădire islamică importantă în Bangladesh. Structura constă dintr-o suprafață dreptunghiulară mare, deschisă, înconjurată de un zid, cu o nișă mihrab în peretele Qibla. Zidul este decorat cu creneluri ornamentale și turnuri. Shahi Eidgah este încă folosit de comunitatea musulmană pentru rugăciunile de Eid. Este un monument protejat de departamentul arheologic din Bangladesh. Situl atrage atât credincioșii, cât și turiștii interesați de arhitectura Mogulă și istoria islamică a regiunii.",
+      en: "Shahi Eidgah in Sylhet is a historic open-air prayer ground for Eid prayers, built in the 17th century during the Mughal period. Located on the banks of the Surma River, it is a significant Islamic structure in Bangladesh. The construction consists of a large open rectangular area enclosed by a wall, with a mihrab niche in the Qibla wall. The wall is adorned with decorative battlements and turrets. Shahi Eidgah is still used by the Muslim community for Eid prayers. It is a protected monument under the Bangladesh Department of Archaeology. The site attracts both worshippers and tourists interested in Mughal architecture and the Islamic history of the region.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1640.", "Die Fläche beträgt etwa 1,5 Hektar.", "Die Mauer hat eine Länge von 150 Metern.", "Die Höhe der Mauer beträgt 3 Meter.", "Es gibt 5 Tore im Komplex.", "Die Mihrab-Nische ist 2 Meter hoch."],
+      hu: ["Épült 1640-ben.", "A terület kb. 1,5 hektár.", "A fal hossza 150 méter.", "A fal magassága 3 méter.", "A komplexum 5 kapuval rendelkezik.", "A mihrab fülke 2 méter magas."],
+      ro: ["Construit în 1640.", "Suprafața este de aproximativ 1,5 hectare.", "Zidul are o lungime de 150 de metri.", "Înălțimea zidului este de 3 metri.", "Există 5 porți în complex.", "Nișa mihrab are 2 metri înălțime."],
+      en: ["Built in 1640.", "The area covers about 1.5 hectares.", "The wall is 150 meters long.", "The wall height is 3 meters.", "There are 5 gates in the complex.", "The mihrab niche is 2 meters high."],
+    },
   },
   {
     id: "bangladesh-pathrail-mosque-history-v2",
     type: "landmark",
     name: { de: "Pathrail-Moschee", hu: "Pathrail-mecset", ro: "Moscheea Pathrail", en: "Pathrail Mosque" },
-    coordinates: { lat: 23.518, lng: 89.845 },
+    coords: [89.845, 23.518],
     description: {
       de: "Eine beeindruckende Moschee aus der Zeit des Husain-Shahi-Sultanats im Distrikt Faridpur. Sie ist für ihre kunstvollen Terrakotta-Fassaden bekannt.",
       hu: "Lenyűgöző mecset a Husain Shahi szultanátus idejéből Faridpur kerületben. Művészi terracotta homlokzatairól ismert.",
@@ -1078,7 +1162,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-atia-mosque-history-v2",
     type: "landmark",
     name: { de: "Atia-Moschee", hu: "Atia-mecset", ro: "Moscheea Atia", en: "Atia Mosque" },
-    coordinates: { lat: 24.185, lng: 89.911 },
+    coords: [89.911, 24.185],
     description: {
       de: "Diese historische Moschee in Tangail ist berühmt für ihre Abbildung auf dem alten 10-Taka-Geldschein. Sie verbindet vor-mogulische und Mogul-Elemente.",
       hu: "Ez a tangaili történelmi mecset híres arról, hogy szerepelt a régi 10 takás bankjegyen. Ötvözi a mogul korszak előtti és a mogul elemeket.",
@@ -1109,7 +1193,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-idrakpur-fort-history-v2",
     type: "castle",
     name: { de: "Idrakpur-Fort", hu: "Idrakpur-erőd", ro: "Fortul Idrakpur", en: "Idrakpur Fort" },
-    coordinates: { lat: 23.548, lng: 90.536 },
+    coords: [90.536, 23.548],
     description: {
       de: "Eine Mogul-Festung in Munshiganj, die zum Schutz Dhakas vor Piratenangriffen erbaut wurde. Sie verfügt über eine hohe Plattform zur Aufstellung von Kanonen.",
       hu: "Mogul erőd Munshiganjban, amelyet Dhaka kalóztámadások elleni védelmére építettek. Magas platformmal rendelkezik az ágyúk elhelyezésére.",
@@ -1140,7 +1224,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-sonakanda-fort-history-v2",
     type: "castle",
     name: { de: "Sonakanda-Fort", hu: "Sonakanda-erőd", ro: "Fortul Sonakanda", en: "Sonakanda Fort" },
-    coordinates: { lat: 23.596, lng: 90.512 },
+    coords: [90.512, 23.596],
     description: {
       de: "Ein am Fluss gelegenes Fort in Narayanganj aus der Mogulzeit. Es diente als Verteidigungsanlage gegen portugiesische und Magh-Piraten.",
       hu: "Narayanganjban található folyóparti erőd a mogul korszakból. Védelmi létesítményként szolgált a portugál és mag kalózok ellen.",
@@ -1171,7 +1255,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-hajiganj-fort-history-v2",
     type: "castle",
     name: { de: "Hajiganj-Fort", hu: "Hajiganj-erőd", ro: "Fortul Hajiganj", en: "Hajiganj Fort" },
-    coordinates: { lat: 23.618, lng: 90.505 },
+    coords: [90.505, 23.618],
     description: {
       de: "Dieses auch als Khizirpur-Fort bekannte Bauwerk ist Teil der Mogul-Flussverteidigung in Narayanganj. Es sicherte den Zugang zum Buriganga-Fluss.",
       hu: "Ez a Khizirpur-erőd néven is ismert építmény a mogul folyami védelem része Narayanganjban. A Buriganga folyóhoz való hozzáférést biztosította.",
@@ -1202,7 +1286,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-zinda-pir-mosque-history-v2",
     type: "landmark",
     name: { de: "Zinda-Pir-Moschee", hu: "Zinda Pir-mecset", ro: "Moscheea Zinda Pir", en: "Zinda Pir Mosque" },
-    coordinates: { lat: 22.662, lng: 89.772 },
+    coords: [89.772, 22.662],
     description: {
       de: "Eine kleine Ein-Kuppel-Moschee in Bagerhat, die nach einem lokalen Heiligen benannt ist. Sie ist Teil des UNESCO-Welterbes der Moscheestadt.",
       hu: "Kisméretű, egykupolás mecset Bagerhatban, amelyet egy helyi szentről neveztek el. Része az UNESCO világörökségi mecsetvárosnak.",
@@ -1233,7 +1317,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-singar-mosque-history-v2",
     type: "landmark",
     name: { de: "Singar-Moschee", hu: "Singar-mecset", ro: "Moscheea Singar", en: "Singar Mosque" },
-    coordinates: { lat: 22.673, lng: 89.785 },
+    coords: [89.785, 22.673],
     description: {
       de: "Diese Ein-Kuppel-Moschee in Bagerhat besticht durch ihre massiven Wände und die schlichte Eleganz. Sie gehört zum historischen Komplex der Stadt.",
       hu: "Ez a bagerhati egykupolás mecset masszív falaival és egyszerű eleganciájával tűnik ki. A város történelmi komplexumának része.",
@@ -1264,7 +1348,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-ronbijoypur-mosque-history-v2",
     type: "landmark",
     name: { de: "Ronbijoypur-Moschee", hu: "Ronbijoypur-mecset", ro: "Moscheea Ronbijoypur", en: "Ronbijoypur Mosque" },
-    coordinates: { lat: 22.668, lng: 89.782 },
+    coords: [89.782, 22.668],
     description: {
       de: "Diese Moschee in Bagerhat besitzt die größte einzelne Kuppel in Bangladesch. Sie ist ein Meisterwerk der mittelalterlichen Backsteinarchitektur.",
       hu: "Ez a bagerhati mecset rendelkezik Banglades legnagyobb egybefüggő kupolájával. A középkori téglaépítészet mesterműve.",
@@ -1295,7 +1379,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-chunakhola-mosque-history-v2",
     type: "landmark",
     name: { de: "Chunakhola-Moschee", hu: "Chunakhola-mecset", ro: "Moscheea Chunakhola", en: "Chunakhola Mosque" },
-    coordinates: { lat: 22.682, lng: 89.783 },
+    coords: [89.783, 22.682],
     description: {
       de: "Eine elegante Mogul-Moschee in Bagerhat, die inmitten von Reisfeldern liegt. Sie zeichnet sich durch ihre geschwungene Dachlinie und feine Details aus.",
       hu: "Elegáns mogul mecset Bagerhatban, amely rizsföldek közepén található. Ívelt tetővonala és finom részletei jellemzik.",
@@ -1326,7 +1410,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-nayabad-mosque-history-v2",
     type: "landmark",
     name: { de: "Nayabad-Moschee", hu: "Nayabad-mecset", ro: "Moscheea Nayabad", en: "Nayabad Mosque" },
-    coordinates: { lat: 25.792, lng: 88.665 },
+    coords: [88.665, 25.792],
     description: {
       de: "Diese Moschee in Dinajpur wurde im 18. Jahrhundert von Handwerkern erbaut, die auch am nahegelegenen Kantajew-Tempel arbeiteten.",
       hu: "Ez a Dinajpurban található mecset a 18. században épült azon kézművesek által, akik a közeli Kantajew-templomon is dolgoztak.",
@@ -1357,7 +1441,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-kusumba-mosque-history-v2",
     type: "landmark",
     name: { de: "Kusumba-Moschee", hu: "Kusumba-mecset", ro: "Moscheea Kusumba", en: "Kusumba Mosque" },
-    coordinates: { lat: 24.754, lng: 88.683 },
+    coords: [88.683, 24.754],
     description: {
       de: "Eine seltene Steinmoschee aus der Zeit des Sultanats im Distrikt Naogaon. Sie ist bekannt für ihre massiven schwarzen Basaltmauern und feinen Schnitzereien.",
       hu: "Ritka, szultanátus kori kőmecset Naogaon kerületben. Masszív fekete bazaltfalairól és finom faragásairól ismert.",
@@ -1388,7 +1472,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-sura-mosque-history-v2",
     type: "landmark",
     name: { de: "Sura-Moschee", hu: "Sura-mecset", ro: "Moscheea Sura", en: "Sura Mosque" },
-    coordinates: { lat: 25.461, lng: 88.995 },
+    coords: [88.995, 25.461],
     description: {
       de: "Diese Moschee in Dinajpur besticht durch ihre exzellente Terrakotta-Arbeit. Sie stammt aus der Husain-Shahi-Zeit des frühen 16. Jahrhunderts.",
       hu: "Ez a Dinajpurban található mecset kiváló terracotta munkáiról híres. A 16. század eleji Husain Shahi korszakból származik.",
@@ -1419,7 +1503,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-goaldi-mosque-history-v2",
     type: "landmark",
     name: { de: "Goaldi-Moschee", hu: "Goaldi-mecset", ro: "Moscheea Goaldi", en: "Goaldi Mosque" },
-    coordinates: { lat: 23.655, lng: 90.598 },
+    coords: [90.598, 23.655],
     description: {
       de: "Die am besten erhaltene Moschee in der antiken Stadt Sonargaon. Sie wurde 1519 während der Herrschaft von Sultan Alauddin Husain Shah erbaut.",
       hu: "Az ősi Sonargaon városának legjobb állapotban fennmaradt mecsetje. 1519-ben épült Alauddin Husain Shah szultán uralkodása alatt.",
@@ -1450,7 +1534,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-shelidah-kuthibari-history-v2",
     type: "museum",
     name: { de: "Shelidah Kuthibari", hu: "Shelidah Kuthibari", ro: "Shelidah Kuthibari", en: "Shelidah Kuthibari" },
-    coordinates: { lat: 23.923, lng: 89.215 },
+    coords: [89.215, 23.923],
     description: {
       de: "Das Landhaus des Nobelpreisträgers Rabindranath Tagore in Kushtia. Hier verbrachte er viel Zeit und schrieb viele seiner berühmten Werke.",
       hu: "Rabindranath Tagore Nobel-díjas író vidéki háza Kushtiában. Sok időt töltött itt, és itt írta számos híres művét.",
@@ -1481,7 +1565,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-handial-jagannath-temple-history-v2",
     type: "landmark",
     name: { de: "Handial-Jagannath-Tempel", hu: "Handial Jagannath-templom", ro: "Templul Jagannath din Handial", en: "Handial Jagannath Temple" },
-    coordinates: { lat: 24.322, lng: 89.263 },
+    coords: [89.263, 24.322],
     description: {
       de: "Ein historischer Hindu-Tempel im Distrikt Pabna, bekannt für seine prächtige Terrakotta-Kunst. Er ist Gott Jagannath gewidmet.",
       hu: "Pabna kerületben található történelmi hindu templom, amely pompás terracotta művészetéről ismert. Dzsagannáth istennek szentelték.",
@@ -1512,7 +1596,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-hatikumrul-navaratna-temple-history-v2",
     type: "landmark",
     name: { de: "Hatikumrul-Navaratna-Tempel", hu: "Hatikumrul Navaratna-templom", ro: "Templul Navaratna din Hatikumrul", en: "Hatikumrul Navaratna Temple" },
-    coordinates: { lat: 24.417, lng: 89.553 },
+    coords: [89.553, 24.417],
     description: {
       de: "Ein seltener neun-türmiger (Navaratna) Tempel im Distrikt Sirajganj. Er ist eines der bedeutendsten Beispiele für Terrakotta-Architektur in Nord-Bangladesch.",
       hu: "Ritka, kilenctornyú (Navaratna) templom Sirajganj kerületben. Észak-Banglades terracotta építészetének egyik legjelentősebb példája.",
@@ -1543,7 +1627,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-kodla-math-history-v2",
     type: "tower",
     name: { de: "Kodla Math", hu: "Kodla Math", ro: "Kodla Math", en: "Kodla Math" },
-    coordinates: { lat: 22.756, lng: 89.815 },
+    coords: [89.815, 22.756],
     description: {
       de: "Ein antiker Hindu-Tempel in Bagerhat, der durch seine turmartige (Sikhara) Architektur auffällt. Er ist reich an filigranen Terrakotta-Ornamenten.",
       hu: "Bagerhatban található ókori hindu templom, amely toronyszerű (Sikhara) építészetével tűnik ki. Filigrán terracotta díszítésekben gazdag.",
@@ -1574,7 +1658,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-suhrawardy-udyan-history-v2",
     type: "landmark",
     name: { de: "Suhrawardy Udyan", hu: "Suhrawardy Udyan", ro: "Suhrawardy Udyan", en: "Suhrawardy Udyan" },
-    coordinates: { lat: 23.733, lng: 90.398 },
+    coords: [90.398, 23.733],
     description: {
       de: "Ein historischer Park in Dhaka, in dem die Unabhängigkeit Bangladeschs ausgerufen wurde. Er beherbergt die ewige Flamme 'Shikha Chirantana'.",
       hu: "Dhakai történelmi park, ahol kikiáltották Banglades függetlenségét. Itt található a 'Shikha Chirantana' örökláng.",
@@ -1605,7 +1689,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-dharmarajika-monastery-history-v2",
     type: "monument",
     name: { de: "Dharmarajika-Kloster", hu: "Dharmarajika-kolostor", ro: "Mănăstirea Dharmarajika", en: "Dharmarajika Monastery" },
-    coordinates: { lat: 23.734, lng: 90.428 },
+    coords: [90.428, 23.734],
     description: {
       de: "Das erste buddhistische Kloster in Dhaka nach 1947. Es dient als bedeutendes spirituelles Zentrum und Waisenhaus im Stadtteil Basabo.",
       hu: "Az első buddhista kolostor Dhakában 1947 után. Jelentős spirituális központként és árvaházként szolgál Basabo negyedben.",
@@ -1636,7 +1720,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-chittagong-war-cemetery-history-v2",
     type: "landmark",
     name: { de: "Kriegsgräberstätte Chittagong", hu: "Csittagongi katonai temető", ro: "Cimitirul de Război din Chittagong", en: "Chittagong Commonwealth War Cemetery" },
-    coordinates: { lat: 22.358, lng: 91.828 },
+    coords: [91.828, 22.358],
     description: {
       de: "Ein Commonwealth-Kriegsfriedhof für Gefallene des Zweiten Weltkriegs. Er liegt in einer hügeligen Gegend und wird von der CWGC gepflegt.",
       hu: "Commonwealth katonai temető a második világháború áldozatai számára. Dombos területen fekszik, a CWGC gondozza.",
@@ -1667,7 +1751,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-rayer-bazar-memorial-history-v2",
     type: "monument",
     name: { de: "Rayer-Bazar-Gedenkstätte", hu: "Rayer Bazar-emlékhely", ro: "Memorialul Rayer Bazar", en: "Rayer Bazar Memorial" },
-    coordinates: { lat: 23.748, lng: 90.364 },
+    coords: [90.364, 23.748],
     description: {
       de: "Ein Mahnmal zum Gedenken an die ermordeten Intellektuellen während des Unabhängigkeitskrieges 1971. Die Architektur symbolisiert die Zerstörung des Wissens.",
       hu: "Emlékmű az 1971-es függetlenségi háború alatt meggyilkolt értelmiségiek emlékére. Az építészet a tudás elpusztítását jelképezi.",
@@ -1698,7 +1782,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-gokul-medh-history-v2",
     type: "ruins",
     name: { de: "Gokul Medh", hu: "Gokul Medh", ro: "Gokul Medh", en: "Gokul Medh" },
-    coordinates: { lat: 24.933, lng: 89.355 },
+    coords: [89.355, 24.933],
     description: {
       de: "Ein hoher archäologischer Hügel in Bogra, der als 'Behulas Haus' bekannt ist. Er beherbergt die Überreste eines buddhistischen Tempels mit Zellenstruktur.",
       hu: "Magas régészeti domb Bográban, amelyet 'Behula házaként' ismernek. Egy cellás szerkezetű buddhista templom maradványait őrzi.",
@@ -1729,7 +1813,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-kherua-mosque-history-v2",
     type: "landmark",
     name: { de: "Kherua-Moschee", hu: "Kherua-mecset", ro: "Moscheea Kherua", en: "Kherua Mosque" },
-    coordinates: { lat: 24.665, lng: 89.412 },
+    coords: [89.412, 24.665],
     description: {
       de: "Eine bedeutende Moschee aus der späten Mogul-Übergangszeit in Sherpur, Bogra. Sie zeichnet sich durch ihre schlichte, aber solide Bauweise aus.",
       hu: "Jelentős mecset a késő mogul átmeneti korszakból Sherpur, Bogra területén. Egyszerű, de szilárd felépítése jellemzi.",
@@ -1760,7 +1844,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-baba-adam-mosque-history-v2",
     type: "landmark",
     name: { de: "Baba-Adam-Moschee", hu: "Baba Adam-mecset", ro: "Moscheea Baba Adam", en: "Baba Adam's Mosque" },
-    coordinates: { lat: 23.551, lng: 90.493 },
+    coords: [90.493, 23.551],
     description: {
       de: "Eine sechskuppelige Moschee in Munshiganj, die während des Sultanats erbaut wurde. Sie liegt direkt neben dem Grab des Heiligen Baba Adam Shahid.",
       hu: "Hatkupolás mecset Munshiganjban, amely a szultanátus idején épült. Közvetlenül Baba Adam Shahid szent sírja mellett található.",
@@ -1791,7 +1875,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-gurudwara-nanakshahi-history-v2",
     type: "landmark",
     name: { de: "Gurudwara Nanakshahi", hu: "Gurudwara Nanakshahi", ro: "Gurudwara Nanakshahi", en: "Gurudwara Nanakshahi" },
-    coordinates: { lat: 23.734, lng: 90.396 },
+    coords: [90.396, 23.734],
     description: {
       de: "Der größte Sikh-Tempel (Gurudwara) in Bangladesch, der auf dem Campus der Universität Dhaka liegt. Er erinnert an den Besuch von Guru Nanak im 16. Jahrhundert.",
       hu: "Banglades legnagyobb szikh temploma (Gurudwara), amely a Dakkai Egyetem kampuszán található. Guru Nanak 16. századi látogatásának állít emléket.",
@@ -1822,7 +1906,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-holy-rosary-church-history-v2",
     type: "church",
     name: { de: "Rosenkranzkirche Dhaka", hu: "Rózsafüzér Királynője-templom", ro: "Biserica Sfântul Rozariu Dhaka", en: "Holy Rosary Church Dhaka" },
-    coordinates: { lat: 23.757, lng: 90.391 },
+    coords: [90.391, 23.757],
     description: {
       de: "Eine der ältesten Kirchen in Dhaka, ursprünglich 1677 von den Portugiesen erbaut. Sie ist ein bedeutendes Zeugnis der christlichen Geschichte in der Region.",
       hu: "Dhaka egyik legrégebbi temploma, amelyet eredetileg a portugálok építettek 1677-ben. A keresztény történelem jelentős emléke a régióban.",
@@ -1853,7 +1937,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-darasbari-mosque-history-v2",
     type: "ruins",
     name: { de: "Darasbari-Moschee", hu: "Darasbari-mecset", ro: "Moscheea Darasbari", en: "Darasbari Mosque" },
-    coordinates: { lat: 24.793, lng: 88.163 },
+    coords: [88.163, 24.793],
     description: {
       de: "Die Überreste einer großen Moschee in der antiken Stadt Gaur. Sie war einst mit einer Medrese verbunden und für ihre prächtige Bauweise bekannt.",
       hu: "Egy nagy mecset maradványai az ősi Gaur városában. Egykor medresze is kapcsolódott hozzá, és pompás felépítéséről volt ismert.",
@@ -1867,12 +1951,24 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
       en: ["Built in 1479 AD", "Founded by Sultan Yusuf Shah", "Largest mosque on the BD side of Gaur", "Famous for its terracotta works"],
     },
     imageHint: "Darasbari Mosque ruins Gaur",
+    descriptionAdvanced: {
+      de: "Die Darasbari-Moschee im Distrikt Sherpur ist eine historische Moschee aus der Sultanszeit von Bengalen, erbaut im 15. Jahrhundert. Sie ist ein hervorragendes Beispiel für die bengalische islamische Architektur mit Einflüssen aus der Tughlaq- und Sayyid-Dynastie. Die Moschee hat eine rechteckige Form mit mehreren Kuppeln und einem großen Innenhof. Die Wände sind mit Terrakotta-Fliesen und Steinmetzarbeiten verziert, die geometrische Muster und pflanzliche Motive zeigen. Die Moschee diente als wichtiges religiöses Zentrum und beherbergte eine Madrasa. Nach Jahrhunderten des Verfalls wurde sie von der archäologischen Abteilung Bangladeschs restauriert. Heute ist die Darasbari-Moschee ein geschütztes Denkmal und zieht Besucher an, die sich für die mittelalterliche islamische Architektur Bengals interessieren.",
+      hu: "A Darasbari mecset Sherpur körzetben egy történelmi mecset a bengáli szultanátus korából, a 15. században épült. Kiváló példája a bengáli iszlám építészetnek, amely a Tughlaq és Sayyid dinasztiák hatását tükrözi. A mecset téglalap alakú, több kupolával és egy nagy belső udvarral. A falak terrakotta csempékkel és kőfaragványokkal díszítettek, geometrikus mintákkal és növényi motívumokkal. A mecset fontos vallási központként szolgált, és egy medreszének adott otthont. Évszázados pusztulás után Banglades régészeti osztálya felújította. Ma a Darasbari mecset védett műemlék, és látogatókat vonz, akik érdeklődnek a középkori bengáli iszlám építészet iránt.",
+      ro: "Moscheea Darasbari, situată în districtul Sherpur, este o moschee istorică din perioada sultanatului Bengalului, construită în secolul al XV-lea. Este un exemplu excelent al arhitecturii islamice bengaleze, cu influențe din dinastiile Tughlaq și Sayyid. Moscheea are o formă dreptunghiulară, cu mai multe domuri și o curte mare interioară. Pereții sunt decorați cu plăci de teracotă și sculpturi în piatră, prezentând modele geometrice și motive vegetale. Moscheea a servit ca centru religios important și a găzduit o madrasa. După secole de deteriorare, a fost restaurată de departamentul arheologic din Bangladesh. Astăzi, Moscheea Darasbari este un monument protejat și atrage vizitatori interesați de arhitectura islamică medievală din Bengal.",
+      en: "Darasbari Mosque in Sherpur District is a historic mosque from the Bengal Sultanate period, built in the 15th century. It is an excellent example of Bengali Islamic architecture, with influences from the Tughlaq and Sayyid dynasties. The mosque has a rectangular shape with multiple domes and a large courtyard. The walls are decorated with terracotta tiles and stone carvings featuring geometric patterns and floral motifs. The mosque served as an important religious center and housed a madrasa. After centuries of neglect, it was restored by the Bangladesh Department of Archaeology. Today, Darasbari Mosque is a protected monument and attracts visitors interested in medieval Bengali Islamic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1450 und 1470.", "Die Moschee misst 30 Meter mal 15 Meter.", "Sie hat 6 Kuppeln.", "Der Innenhof hat eine Fläche von 200 Quadratmetern.", "Die Minarette sind 8 Meter hoch.", "Die Restaurierung wurde 1998 abgeschlossen."],
+      hu: ["Épült 1450 és 1470 között.", "A mecset 30x15 méteres.", "6 kupolája van.", "A belső udvar területe 200 négyzetméter.", "A minaretek 8 méter magasak.", "A felújítás 1998-ban fejeződött be."],
+      ro: ["Construit între 1450 și 1470.", "Moscheea măsoară 30 de metri pe 15 metri.", "Are 6 domuri.", "Curtea interioară are o suprafață de 200 de metri pătrați.", "Minaretele au 8 metri înălțime.", "Restaurarea a fost finalizată în 1998."],
+      en: ["Built between 1450 and 1470.", "The mosque measures 30 meters by 15 meters.", "It has 6 domes.", "The courtyard covers 200 square meters.", "The minarets are 8 meters high.", "Restoration was completed in 1998."],
+    },
   },
   {
     id: "bangladesh-dhanichak-mosque-history-v2",
     type: "landmark",
     name: { de: "Dhanichak-Moschee", hu: "Dhanichak-mecset", ro: "Moscheea Dhanichak", en: "Dhanichak Mosque" },
-    coordinates: { lat: 24.79, lng: 88.15 },
+    coords: [88.15, 24.79],
     description: {
       de: "Eine mittelalterliche Moschee im Gaur-Gebiet des Distrikts Chapai Nawabganj. Sie zeichnet sich durch ihre solide Backsteinbauweise aus.",
       hu: "Középkori mecset Gaur területén, Chapai Nawabganj kerületben. Szilárd téglaépítése jellemzi.",
@@ -1903,7 +1999,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-khania-dighi-mosque-history-v2",
     type: "landmark",
     name: { de: "Khania-Dighi-Moschee", hu: "Khania Dighi-mecset", ro: "Moscheea Khania Dighi", en: "Khania Dighi Mosque" },
-    coordinates: { lat: 24.78, lng: 88.14 },
+    coords: [88.14, 24.78],
     description: {
       de: "Auch als Rajbibi-Moschee bekannt, befindet sich dieses Bauwerk in Gaur. Sie besticht durch ihre eleganten Proportionen und feine Backsteinmetzkunst.",
       hu: "Rajbibi-mecset néven is ismert, ez az építmény Gaurban található. Elegáns arányaival és finom téglafaragásaival tűnik ki.",
@@ -1934,7 +2030,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-teota-zamindar-bari-history-v2",
     type: "palace",
     name: { de: "Teota-Zamindar-Bari", hu: "Teota zamindár-ház", ro: "Casa Zamindarului Teota", en: "Teota Zamindar Bari" },
-    coordinates: { lat: 23.85, lng: 89.83 },
+    coords: [89.83, 23.85],
     description: {
       de: "Ein geschichtsträchtiges Anwesen in Manikganj, das mit dem Dichter Kazi Nazrul Islam in Verbindung steht. Es liegt idyllisch am Zusammenfluss von Padma und Jamuna.",
       hu: "Történelmi birtok Manikganjban, amely Kazi Nazrul Islam költőhöz kötődik. Idilli helyen, a Padma és Jamuna folyók találkozásánál fekszik.",
@@ -1965,7 +2061,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-pakutia-zamindar-bari-history-v2",
     type: "palace",
     name: { de: "Pakutia-Zamindar-Bari", hu: "Pakutia zamindár-ház", ro: "Casa Zamindarului Pakutia", en: "Pakutia Zamindar Bari" },
-    coordinates: { lat: 24.08, lng: 90.04 },
+    coords: [90.04, 24.08],
     description: {
       de: "Ein beeindruckendes Landgut in Tangail mit drei prächtigen Gebäuden. Es zeigt den Reichtum der Zamindaren im frühen 20. Jahrhundert.",
       hu: "Lenyűgöző vidéki birtok Tangailban, három pompás épülettel. A 20. század eleji zamindárok gazdagságát mutatja be.",
@@ -1996,7 +2092,7 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     id: "bangladesh-gandhi-ashram-noakhali-history-v2",
     type: "museum",
     name: { de: "Gandhi-Ashram Noakhali", hu: "Gandhi-asram Noakhali", ro: "Ashramul Gandhi din Noakhali", en: "Gandhi Ashram Noakhali" },
-    coordinates: { lat: 22.99, lng: 91.09 },
+    coords: [91.09, 22.99],
     description: {
       de: "Ein Ashram, den Mahatma Gandhi 1946 während seiner Friedensmission in Noakhali besuchte. Er dient heute als Museum und Zentrum für soziale Arbeit.",
       hu: "Asram, amelyet Mahatma Gandhi látogatott meg 1946-os noakhali békemissziója során. Ma múzeumként és szociális központként működik.",

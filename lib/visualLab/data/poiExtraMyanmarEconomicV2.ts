@@ -886,7 +886,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-dala-shipyard-economic-v2",
     type: "port",
     name: { de: "Dala Werft", hu: "Dala hajógyár", ro: "Șantierul naval Dala", en: "Dala Shipyard" },
-    coordinates: { lat: 16.7686, lng: 96.1575 },
+    coords: [96.1575, 16.7686],
     description: {
       de: "Die Werft in Dala liegt gegenüber von Rangun am Fluss. Sie ist ein wichtiges Zentrum für Schiffbau und Reparaturen in Myanmar.",
       hu: "A Dala hajógyár Rangunnal szemben, a folyó túlpartján található. Ez a létesítmény Myanmar egyik legfontosabb hajóépítő központja.",
@@ -905,7 +905,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-baluchaung-hydropower-economic-v2",
     type: "industry",
     name: { de: "Baluchaung Wasserkraftwerk", hu: "Baluchaung vízerőmű", ro: "Hidrocentrala Baluchaung", en: "Baluchaung Hydropower Plant" },
-    coordinates: { lat: 19.2311, lng: 97.1089 },
+    coords: [97.1089, 19.2311],
     description: {
       de: "Das Kraftwerk liegt im Kayah-Staat am Baluchaung-Fluss. Es war das erste große Wasserkraftprojekt des Landes nach der Unabhängigkeit.",
       hu: "Az erőmű a Kayah államban, a Baluchaung-folyón található. Ez volt az ország első jelentős vízerőművi projektje a függetlenség után.",
@@ -924,7 +924,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-hlaing-tharyar-industrial-economic-v2",
     type: "industry",
     name: { de: "Hlaing Tharyar Industriezone", hu: "Hlaing Tharyar ipari zóna", ro: "Zona industrială Hlaing Tharyar", en: "Hlaing Tharyar Industrial Zone" },
-    coordinates: { lat: 16.855, lng: 96.065 },
+    coords: [96.065, 16.855],
     description: {
       de: "Diese Industriezone im Westen von Rangun ist die größte des Landes. Sie beherbergt zahlreiche Textilfabriken und Produktionsbetriebe.",
       hu: "Ez a Rangun nyugati részén fekvő ipari zóna az ország legnagyobbja. Számos textilgyárnak és termelőüzemnek ad otthont.",
@@ -943,7 +943,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-namtu-mine-economic-v2",
     type: "mine",
     name: { de: "Namtu Mine", hu: "Namtu bánya", ro: "Mina Namtu", en: "Namtu Mine" },
-    coordinates: { lat: 23.085, lng: 97.408 },
+    coords: [97.408, 23.085],
     description: {
       de: "Die Mine bei Namtu im Norden des Shan-Staates ist für Blei- und Silbervorkommen bekannt. Sie war einst eine der produktivsten Minen weltweit.",
       hu: "A Shan állam északi részén fekvő Namtu bánya ólom- és ezüstkészleteiről ismert. Egykor a világ egyik legtermékenyebb bányája volt.",
@@ -962,7 +962,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-kyaukse-cement-economic-v2",
     type: "factory",
     name: { de: "Kyaukse Zementfabrik", hu: "Kyaukse cementgyár", ro: "Fabrica de ciment Kyaukse", en: "Kyaukse Cement Factory" },
-    coordinates: { lat: 21.605, lng: 96.138 },
+    coords: [96.138, 21.605],
     description: {
       de: "Diese große Industrieanlage befindet sich in Kyaukse, südlich von Mandalay. Sie produziert Zement für die nationale Bauindustrie.",
       hu: "Ez a nagy ipari létesítmény Kyauksében, Mandalaytól délre található. Cementet állít elő az országos építőipar számára.",
@@ -981,7 +981,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-tharkayta-power-economic-v2",
     type: "industry",
     name: { de: "Tharkayta Kraftwerk", hu: "Tharkayta erőmű", ro: "Centrala electrică Tharkayta", en: "Tharkayta Power Station" },
-    coordinates: { lat: 16.812, lng: 96.223 },
+    coords: [96.223, 16.812],
     description: {
       de: "Das Kraftwerk liegt im Osten von Rangun und wird mit Erdgas betrieben. Es ist entscheidend für die Stromversorgung der Metropole.",
       hu: "A Rangun keleti részén található erőmű földgázzal üzemel. Kulcsfontosságú a metropolisz áramellátása szempontjából.",
@@ -1000,7 +1000,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-ahlone-port-economic-v2",
     type: "port",
     name: { de: "Ahlone Hafenterminal", hu: "Ahlone kikötői terminál", ro: "Terminalul portuar Ahlone", en: "Ahlone Port Terminal" },
-    coordinates: { lat: 16.785, lng: 96.122 },
+    coords: [96.122, 16.785],
     description: {
       de: "Das Terminal in Ahlone ist ein spezialisierter Teil des Hafens von Rangun. Es dient hauptsächlich dem Umschlag von Containern und Stückgut.",
       hu: "Az Ahlone terminál a ranguni kikötő egyik speciális része. Elsősorban konténerek és darabáruk rakodására szolgál.",
@@ -1019,7 +1019,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-mingaladon-industrial-economic-v2",
     type: "industry",
     name: { de: "Mingaladon Industriepark", hu: "Mingaladon ipari park", ro: "Parcul industrial Mingaladon", en: "Mingaladon Industrial Park" },
-    coordinates: { lat: 16.982, lng: 96.128 },
+    coords: [96.128, 16.982],
     description: {
       de: "Dieser Industriepark liegt im Norden von Rangun in der Nähe des Flughafens. Er ist ein wichtiger Standort für ausländische Investitionen.",
       hu: "Ez az ipari park Rangun északi részén, a repülőtér közelében található. A külföldi befektetések egyik kiemelt helyszíne.",
@@ -1038,7 +1038,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-paunglaung-hydropower-economic-v2",
     type: "industry",
     name: { de: "Paunglaung Wasserkraftwerk", hu: "Paunglaung vízerőmű", ro: "Hidrocentrala Paunglaung", en: "Paunglaung Hydropower Plant" },
-    coordinates: { lat: 19.851, lng: 96.354 },
+    coords: [96.354, 19.851],
     description: {
       de: "Das Kraftwerk am Paunglaung-Fluss liegt nahe der Hauptstadt Naypyidaw. Es ist eine der bedeutendsten Anlagen zur Stromerzeugung in Zentralmyanmar.",
       hu: "A Paunglaung-folyón épült erőmű a főváros, Naypyidaw közelében található. Közép-Mianmar egyik legfontosabb energiatermelő létesítménye.",
@@ -1057,7 +1057,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-mandalay-inland-port-economic-v2",
     type: "port",
     name: { de: "Binnenhafen Mandalay", hu: "Mandalay folyami kikötő", ro: "Portul fluvial Mandalay", en: "Mandalay Inland Port" },
-    coordinates: { lat: 21.981, lng: 96.062 },
+    coords: [96.062, 21.981],
     description: {
       de: "Der Binnenhafen von Mandalay am Irrawaddy ist das logistische Zentrum Obermyanmars. Er verbindet den Norden des Landes mit dem Delta.",
       hu: "Mandalay folyami kikötője az Irrawaddy mentén Felső-Mianmar logisztikai központja. Összeköti az ország északi részét a deltával.",
@@ -1076,7 +1076,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-bawdwin-mine-economic-v2",
     type: "mine",
     name: { de: "Bawdwin Mine", hu: "Bawdwin bánya", ro: "Mina Bawdwin", en: "Bawdwin Mine" },
-    coordinates: { lat: 23.112, lng: 97.305 },
+    coords: [97.305, 23.112],
     description: {
       de: "Bawdwin ist eine historische Silber- und Bleimine im nördlichen Shan-Staat. Sie galt zur Kolonialzeit als die reichste Mine des britischen Empire.",
       hu: "Bawdwin egy történelmi ezüst- és ólombánya az északi Shan államban. A gyarmati időkben a Brit Birodalom leggazdagabb bányájának számított.",
@@ -1095,7 +1095,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-mawlamyine-cement-economic-v2",
     type: "factory",
     name: { de: "Mawlamyine Zementwerk", hu: "Mawlamyine cementgyár", ro: "Fabrica de ciment Mawlamyine", en: "Mawlamyine Cement Plant" },
-    coordinates: { lat: 16.535, lng: 97.642 },
+    coords: [97.642, 16.535],
     description: {
       de: "Das Werk liegt im Mon-Staat und produziert hochwertigen Zement für den Süden Myanmars. Es nutzt die Kalksteinvorkommen der nahen Gebirge.",
       hu: "A Mon államban található gyár kiváló minőségű cementet állít elő Dél-Mianmar számára. A közeli hegyek mészkőkészleteit hasznosítja.",
@@ -1114,7 +1114,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-myitsone-dam-economic-v2",
     type: "industry",
     name: { de: "Myitsone Staudamm-Gelände", hu: "Myitsone gát helyszíne", ro: "Locul barajului Myitsone", en: "Myitsone Dam Site" },
-    coordinates: { lat: 25.712, lng: 97.502 },
+    coords: [97.502, 25.712],
     description: {
       de: "Dies ist der Ort eines geplanten Megastaudamms am Zusammenfluss des Irrawaddy im Kachin-Staat. Das Projekt ist aufgrund von Umweltbedenken umstritten.",
       hu: "Ez egy tervezett óriásgát helyszíne az Irrawaddy összefolyásánál, Kachin államban. A projekt környezetvédelmi aggályok miatt vitatott.",
@@ -1133,7 +1133,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-insein-workshop-economic-v2",
     type: "factory",
     name: { de: "Insein Eisenbahnwerkstätten", hu: "Insein vasúti műhelyek", ro: "Atelierele feroviare Insein", en: "Insein Railway Workshop" },
-    coordinates: { lat: 16.892, lng: 96.115 },
+    coords: [96.115, 16.892],
     description: {
       de: "Die Werkstätten in Insein sind das Herzstück der Wartung für Myanmars Eisenbahnen. Sie befinden sich im Norden von Rangun.",
       hu: "Az insein-i műhelyek a mianmari vasutak karbantartásának központi helyszínei. Rangun északi részén találhatók.",
@@ -1152,7 +1152,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-hmawbi-agriculture-economic-v2",
     type: "village",
     name: { de: "Hmawbi Landwirtschaftszentrum", hu: "Hmawbi mezőgazdasági központ", ro: "Centrul agricol Hmawbi", en: "Hmawbi Agricultural Station" },
-    coordinates: { lat: 17.115, lng: 96.012 },
+    coords: [96.012, 17.115],
     description: {
       de: "Das Zentrum in Hmawbi ist eine wichtige Forschungsstation für tropische Landwirtschaft. Es liegt nördlich der Wirtschaftsmetropole Rangun.",
       hu: "A Hmawbiban található központ a trópusi mezőgazdaság fontos kutatóállomása. A gazdasági központtól, Ranguntól északra fekszik.",
@@ -1171,7 +1171,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-ywama-power-economic-v2",
     type: "industry",
     name: { de: "Ywama Kraftwerk", hu: "Ywama erőmű", ro: "Centrala electrică Ywama", en: "Ywama Power Plant" },
-    coordinates: { lat: 16.885, lng: 96.108 },
+    coords: [96.108, 16.885],
     description: {
       de: "Das Ywama-Kraftwerk ist eine gasbetriebene Anlage im Norden von Rangun. Es gehört zu den ältesten thermischen Kraftwerken der Stadt.",
       hu: "A Ywama erőmű egy gázüzemű létesítmény Rangun északi részén. A város egyik legrégebbi hőerőműve.",
@@ -1190,7 +1190,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-thaketa-industrial-economic-v2",
     type: "industry",
     name: { de: "Thaketa Industriezone", hu: "Thaketa ipari zóna", ro: "Zona industrială Thaketa", en: "Thaketa Industrial Zone" },
-    coordinates: { lat: 16.802, lng: 96.215 },
+    coords: [96.215, 16.802],
     description: {
       de: "Diese Zone im Südosten von Rangun beherbergt eine Vielzahl von kleinen und mittelständischen Unternehmen. Sie ist ein Motor der lokalen Wirtschaft.",
       hu: "Ez a Rangun délkeleti részén fekvő zóna számos kis- és középvállalkozásnak ad otthont. A helyi gazdaság egyik motorja.",
@@ -1209,7 +1209,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "myanmar-pinpet-iron-mine-economic-v2",
     type: "mine",
     name: { de: "Pinpet Eisenerzmine", hu: "Pinpet vasércbánya", ro: "Mina de fier Pinpet", en: "Pinpet Iron Mine" },
-    coordinates: { lat: 20.765, lng: 97.125 },
+    coords: [97.125, 20.765],
     description: {
       de: "Die Mine bei Taunggyi im Shan-Staat verfügt über Myanmars größte Eisenerzvorkommen. Sie ist eng mit der nationalen Stahlproduktion verbunden.",
       hu: "A Taunggyi közelében, Shan államban található bánya Mianmar legnagyobb vasérckészleteivel rendelkezik. Szorosan kötődik az acélgyártáshoz.",

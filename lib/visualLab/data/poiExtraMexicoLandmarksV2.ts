@@ -5,7 +5,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-metropolitan-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Mexiko-Stadt", hu: "Mexikóvárosi székesegyház", ro: "Catedrala Metropolitană din Ciudad de México", en: "Mexico City Metropolitan Cathedral" },
-    coordinates: { lat: 19.4344, lng: -99.1331 },
+    coords: [-99.1331, 19.4344],
     description: {
       de: "Die Kathedrale am Zócalo ist eine der ältesten Amerikas. Sie wurde über drei Jahrhunderte hinweg auf einem Aztekentempel errichtet.",
       hu: "A Zócalo téren álló katedrális Amerika egyik legrégebbi temploma. Három évszázadon át épült egy egykori azték templom helyén.",
@@ -24,7 +24,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-angel-of-independence-landmarks-v2",
     type: "monument",
     name: { de: "Engel der Unabhängigkeit", hu: "A Függetlenség Angyala", ro: "Îngerul Independenței", en: "Angel of Independence" },
-    coordinates: { lat: 19.427, lng: -99.1677 },
+    coords: [-99.1677, 19.427],
     description: {
       de: "Diese Siegetreppe am Paseo de la Reforma ehrt die mexikanische Unabhängigkeit. Sie ist ein zentrales Symbol von Mexiko-Stadt.",
       hu: "A Paseo de la Reforma sugárúton álló emlékmű a mexikói függetlenségnek állít emléket. Mexikóváros egyik legfontosabb jelképe.",
@@ -43,7 +43,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-soumaya-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museo Soumaya", hu: "Soumaya Múzeum", ro: "Muzeul Soumaya", en: "Soumaya Museum" },
-    coordinates: { lat: 19.4407, lng: -99.2047 },
+    coords: [-99.2047, 19.4407],
     description: {
       de: "Ein futuristisches Gebäude mit einer Fassade aus silbernen Sechsecken. Es beherbergt die Kunstsammlung von Carlos Slim.",
       hu: "Futurisztikus épület, melyet ezüstszínű hatszögek borítanak. Carlos Slim hatalmas művészeti gyűjteményének ad otthont.",
@@ -62,7 +62,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-guadalupe-basilica-landmarks-v2",
     type: "church",
     name: { de: "Basilika Unserer Lieben Frau von Guadalupe", hu: "Guadalupei Miasszonyunk-bazilika", ro: "Bazilica Maicii Domnului din Guadalupe", en: "Basilica of Our Lady of Guadalupe" },
-    coordinates: { lat: 19.4847, lng: -99.1177 },
+    coords: [-99.1177, 19.4847],
     description: {
       de: "Eines der bedeutendsten katholischen Heiligtümer der Welt. Der Komplex umfasst eine alte und eine moderne Basilika.",
       hu: "A világ egyik legfontosabb katolikus zarándokhelye. A komplexum egy régi és egy modern bazilikát is magában foglal.",
@@ -81,7 +81,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-postal-palace-landmarks-v2",
     type: "palace",
     name: { de: "Palacio Postal", hu: "Postapalota", ro: "Palatul Poștei", en: "Postal Palace" },
-    coordinates: { lat: 19.4355, lng: -99.1396 },
+    coords: [-99.1396, 19.4355],
     description: {
       de: "Ein prächtiges Gebäude im historischen Zentrum von Mexiko-Stadt. Es ist bekannt für seine eklektische Architektur und goldene Treppe.",
       hu: "Pompás épület Mexikóváros történelmi központjában. Eklektikus építészetéről és aranyozott lépcsőházáról híres.",
@@ -100,7 +100,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-temple-of-kukulcan-landmarks-v2",
     type: "ruins",
     name: { de: "Tempel des Kukulcán", hu: "Kukulkán-templom", ro: "Templul lui Kukulcan", en: "Temple of Kukulcan" },
-    coordinates: { lat: 20.6843, lng: -88.5678 },
+    coords: [-88.5678, 20.6843],
     description: {
       de: "Die berühmte Stufenpyramide in Chichén Itzá, auch El Castillo genannt. Sie ist ein Meisterwerk der Maya-Astronomie.",
       hu: "Chichén Itzá híres lépcsős piramisa, más néven El Castillo. A maja csillagászat és építészet mesterműve.",
@@ -119,7 +119,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-pyramid-of-the-sun-landmarks-v2",
     type: "ruins",
     name: { de: "Sonnenpyramide", hu: "Nap-piramis", ro: "Piramida Soarelui", en: "Pyramid of the Sun" },
-    coordinates: { lat: 19.6925, lng: -98.8438 },
+    coords: [-98.8438, 19.6925],
     description: {
       de: "Das größte Gebäude in der antiken Stadt Teotihuacán. Sie gehört zu den massivsten präkolumbianischen Bauwerken in Mexiko.",
       hu: "Teotihuacán ókori városának legnagyobb épülete. Mexikó egyik legmasztívabb prekolumbián építménye.",
@@ -138,7 +138,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-pyramid-of-the-moon-landmarks-v2",
     type: "ruins",
     name: { de: "Mondpyramide", hu: "Hold-piramis", ro: "Piramida Lunii", en: "Pyramid of the Moon" },
-    coordinates: { lat: 19.6997, lng: -98.8441 },
+    coords: [-98.8441, 19.6997],
     description: {
       de: "Die zweitgrößte Pyramide von Teotihuacán am nördlichen Ende der Straße der Toten. Sie diente für zeremonielle Rituale.",
       hu: "Teotihuacán második legnagyobb piramisa a Holtak útja északi végén. Fontos szertartási helyszín volt az ókorban.",
@@ -157,7 +157,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-temple-of-inscriptions-landmarks-v2",
     type: "ruins",
     name: { de: "Tempel der Inschriften", hu: "Feliratok temploma", ro: "Templul Inscripțiilor", en: "Temple of the Inscriptions" },
-    coordinates: { lat: 17.4837, lng: -91.9994 },
+    coords: [-91.9994, 17.4837],
     description: {
       de: "Ein bedeutendes Monument in der Maya-Stadt Palenque. Es beherbergt das Grab des berühmten Herrschers Pakal des Großen.",
       hu: "Fontos emlékmű Palenque maja városában. Itt található a híres uralkodó, Nagy Pakal király sírja.",
@@ -176,7 +176,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-baluarte-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Baluarte-Brücke", hu: "Baluarte-híd", ro: "Podul Baluarte", en: "Baluarte Bridge" },
-    coordinates: { lat: 23.5358, lng: -105.8447 },
+    coords: [-105.8447, 23.5358],
     description: {
       de: "Eine der höchsten Schrägseilbrücken der Welt. Sie verbindet die Bundesstaaten Durango und Sinaloa über eine tiefe Schlucht.",
       hu: "A világ egyik legmagasabb ferdekábeles hídja. Durango és Sinaloa államokat köti össze egy mély szakadék felett.",
@@ -195,7 +195,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-expiatory-temple-guadalajara-landmarks-v2",
     type: "church",
     name: { de: "Templo Expiatorio (Guadalajara)", hu: "Expiatorio-templom (Guadalajara)", ro: "Templul Expiatoriu (Guadalajara)", en: "Expiatory Temple of Guadalajara" },
-    coordinates: { lat: 20.6744, lng: -103.3547 },
+    coords: [-103.3547, 20.6744],
     description: {
       de: "Eine prächtige neugotische Kirche in Guadalajara. Sie ist bekannt für ihre detaillierten Steinmetzarbeiten und bunten Glasfenster.",
       hu: "Pompás neogótikus templom Guadalajarában. Részletes kőfaragásairól és színes ólomüveg ablakairól híres.",
@@ -214,7 +214,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-queretaro-aqueduct-landmarks-v2",
     type: "monument",
     name: { de: "Aquädukt von Querétaro", hu: "Querétarói akvedukt", ro: "Apeductul din Querétaro", en: "Queretaro Aqueduct" },
-    coordinates: { lat: 20.5968, lng: -100.3734 },
+    coords: [-100.3734, 20.5968],
     description: {
       de: "Ein Wahrzeichen der Stadt Querétaro aus der Kolonialzeit. Die massiven Steinbögen versorgten die Stadt früher mit Wasser.",
       hu: "Querétaro városának gyarmati kori jelképe. A hatalmas kőívek egykor vízzel látták el a települést.",
@@ -233,7 +233,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-degollado-theater-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Degollado", hu: "Degollado Színház", ro: "Teatrul Degollado", en: "Degollado Theater" },
-    coordinates: { lat: 20.6772, lng: -103.3444 },
+    coords: [-103.3444, 20.6772],
     description: {
       de: "Ein prächtiges Opernhaus in Guadalajara im neoklassizistischen Stil. Es ist bekannt für seine Wandmalereien von Dantes Göttlicher Komödie.",
       hu: "Pompás neoklasszicista operaház Guadalajarában. Híres a Dante Isteni színjátékát ábrázoló belső freskóiról.",
@@ -252,7 +252,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-morelia-aqueduct-landmarks-v2",
     type: "monument",
     name: { de: "Aquädukt von Morelia", hu: "Moreliai akvedukt", ro: "Apeductul din Morelia", en: "Morelia Aqueduct" },
-    coordinates: { lat: 19.7008, lng: -101.1822 },
+    coords: [-101.1822, 19.7008],
     description: {
       de: "Eines der besterhaltenen Bauwerke dieser Art in Mexiko. Es wurde aus rosa Stein im Barockstil errichtet.",
       hu: "Mexikó egyik legjobb állapotban megmaradt akveduktja. Barokk stílusban, rózsaszín kőből épült.",
@@ -271,7 +271,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-guanajuato-mummies-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mumienmuseum von Guanajuato", hu: "Guanajuatói Múmiamúzeum", ro: "Muzeul Mumiilor din Guanajuato", en: "Mummies of Guanajuato Museum" },
-    coordinates: { lat: 21.02, lng: -101.2661 },
+    coords: [-101.2661, 21.02],
     description: {
       de: "Ein weltweit bekanntes Museum, das natürlich mumifizierte Körper ausstellt. Die Körper stammen vom örtlichen Friedhof.",
       hu: "Világszerte ismert múzeum, amely természetes úton mumifikálódott testeket mutat be a helyi temetőből.",
@@ -290,7 +290,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-juarez-theater-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Juárez", hu: "Juárez Színház", ro: "Teatrul Juárez", en: "Juarez Theater" },
-    coordinates: { lat: 21.015, lng: -101.2528 },
+    coords: [-101.2528, 21.015],
     description: {
       de: "Eines der schönsten Theater Mexikos in Guanajuato. Es zeichnet sich durch seine dorische Fassade und bronzenen Musenstatuen aus.",
       hu: "Mexikó egyik legszebb színháza Guanajuatóban. Dór homlokzata és bronz múzsaszobrai teszik különlegessé.",
@@ -309,7 +309,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-alhondiga-granaditas-landmarks-v2",
     type: "monument",
     name: { de: "Alhóndiga de Granaditas", hu: "Alhóndiga de Granaditas", ro: "Alhóndiga de Granaditas", en: "Alhondiga de Granaditas" },
-    coordinates: { lat: 21.0186, lng: -101.2586 },
+    coords: [-101.2586, 21.0186],
     description: {
       de: "Ein ehemaliger Kornspeicher, der zum Schauplatz der ersten großen Schlacht des mexikanischen Unabhängigkeitskrieges wurde.",
       hu: "Egykori magtár, amely a mexikói függetlenségi háború első nagy csatájának helyszíne volt Guanajuatóban.",
@@ -328,7 +328,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-pipila-monument-landmarks-v2",
     type: "monument",
     name: { de: "El Pípila Monument", hu: "El Pípila-emlékmű", ro: "Monumentul El Pípila", en: "El Pipila Monument" },
-    coordinates: { lat: 21.015, lng: -101.2514 },
+    coords: [-101.2514, 21.015],
     description: {
       de: "Ein Denkmal auf einem Hügel über Guanajuato zu Ehren eines lokalen Helden der Unabhängigkeit. Es bietet eine tolle Aussicht.",
       hu: "Guanajuato felett álló emlékmű a függetlenségi háború egyik helyi hőse tiszteletére. Kiváló kilátópont.",
@@ -347,7 +347,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-guadalajara-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Guadalajara", hu: "Guadalajarai székesegyház", ro: "Catedrala din Guadalajara", en: "Guadalajara Cathedral" },
-    coordinates: { lat: 20.677, lng: -103.3468 },
+    coords: [-103.3468, 20.677],
     description: {
       de: "Ein Wahrzeichen von Guadalajara mit markanten neugotischen Türmen. Sie verbindet verschiedene Baustile über Jahrhunderte.",
       hu: "Guadalajara jelképe jellegzetes neogótikus tornyaival. Több évszázad különböző építészeti stílusait ötvözi.",
@@ -366,7 +366,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-morelia-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Morelia", hu: "Moreliai székesegyház", ro: "Catedrala din Morelia", en: "Morelia Cathedral" },
-    coordinates: { lat: 19.7027, lng: -101.1923 },
+    coords: [-101.1923, 19.7027],
     description: {
       de: "Eine beeindruckende Barockkathedrale aus rosa Stein. Sie dominiert das historische Zentrum der Stadt Morelia.",
       hu: "Lenyűgöző barokk székesegyház rózsaszín kőből. Morelia történelmi központjának meghatározó épülete.",
@@ -385,7 +385,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-chihuahua-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Chihuahua", hu: "Chihuahuai székesegyház", ro: "Catedrala din Chihuahua", en: "Chihuahua Cathedral" },
-    coordinates: { lat: 28.6353, lng: -106.0771 },
+    coords: [-106.0771, 28.6353],
     description: {
       de: "Ein herausragendes Beispiel für die Barockarchitektur in Nordmexiko. Sie liegt an der Plaza de Armas der Stadt.",
       hu: "Észak-Mexikó barokk építészetének kiemelkedő példája. A város főterén, a Plaza de Armason található.",
@@ -404,7 +404,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-merida-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Mérida", hu: "Méridai székesegyház", ro: "Catedrala din Mérida", en: "Merida Cathedral" },
-    coordinates: { lat: 20.967, lng: -89.6225 },
+    coords: [-89.6225, 20.967],
     description: {
       de: "Die älteste Kathedrale auf dem amerikanischen Festland. Sie wurde unter Verwendung von Steinen ehemaliger Maya-Tempel erbaut.",
       hu: "Az amerikai kontinens legrégebbi székesegyháza. Korábbi maja templomok köveinek felhasználásával építették.",
@@ -423,7 +423,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-great-pyramid-cholula-landmarks-v2",
     type: "ruins",
     name: { de: "Große Pyramide von Cholula", hu: "Cholulai nagy piramis", ro: "Marea Piramidă din Cholula", en: "Great Pyramid of Cholula" },
-    coordinates: { lat: 19.0575, lng: -98.3014 },
+    coords: [-98.3014, 19.0575],
     description: {
       de: "Das volumenmäßig größte jemals errichtete Denkmal der Welt. Heute ähnelt es einem Hügel mit einer Kirche auf der Spitze.",
       hu: "Térfogatát tekintve a világ legnagyobb valaha épített emlékműve. Ma egy dombra emlékeztet, tetején egy templommal.",
@@ -442,7 +442,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-frida-kahlo-museum-landmarks-v2",
     type: "museum",
     name: { de: "Frida-Kahlo-Museum", hu: "Frida Kahlo Múzeum", ro: "Muzeul Frida Kahlo", en: "Frida Kahlo Museum" },
-    coordinates: { lat: 19.3552, lng: -99.1625 },
+    coords: [-99.1625, 19.3552],
     description: {
       de: "Das 'Blaue Haus' war der Geburts- und Wohnort der Malerin Frida Kahlo. Es zeigt persönliche Gegenstände und Kunstwerke.",
       hu: "A 'Kék Ház' Frida Kahlo szülőhelye és otthona volt. Személyes tárgyakat és műalkotásokat mutat be Coyoacánban.",
@@ -461,7 +461,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-torre-latinoamericana-landmarks-v2",
     type: "tower",
     name: { de: "Torre Latinoamericana", hu: "Torre Latinoamericana", ro: "Torre Latinoamericana", en: "Torre Latinoamericana" },
-    coordinates: { lat: 19.4339, lng: -99.1406 },
+    coords: [-99.1406, 19.4339],
     description: {
       de: "Ein Wolkenkratzer im Zentrum von Mexiko-Stadt, der für seine Erdbebensicherheit berühmt ist. Er war lange das höchste Gebäude der Stadt.",
       hu: "Mexikóváros központjában álló felhőkarcoló, amely földrengésbiztos szerkezetéről híres. Sokáig a város legmagasabbja volt.",
@@ -480,7 +480,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-house-of-tiles-landmarks-v2",
     type: "palace",
     name: { de: "Haus der Fliesen", hu: "Csempés Ház", ro: "Casa de los Azulejos", en: "House of Tiles" },
-    coordinates: { lat: 19.4348, lng: -99.1402 },
+    coords: [-99.1402, 19.4348],
     description: {
       de: "Ein prachtvoller Palast aus dem 18. Jahrhundert in Mexiko-Stadt. Die Fassade ist vollständig mit blauen und weißen Fliesen bedeckt.",
       hu: "Pompás 18. századi palota Mexikóvárosban. Homlokzatát teljesen kék és fehér csempék borítják.",
@@ -499,7 +499,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-templo-mayor-landmarks-v2",
     type: "ruins",
     name: { de: "Templo Mayor", hu: "Templo Mayor", ro: "Templo Mayor", en: "Templo Mayor" },
-    coordinates: { lat: 19.4348, lng: -99.1303 },
+    coords: [-99.1303, 19.4348],
     description: {
       de: "Das religiöse Zentrum der Aztekenstadt Tenochtitlán. Die Ruinen befinden sich direkt neben der modernen Kathedrale.",
       hu: "Az egykori azték főváros, Tenochtitlán vallási központja. A romok a mai katedrális közvetlen szomszédságában találhatók.",
@@ -518,7 +518,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-san-antonio-padua-convent-landmarks-v2",
     type: "church",
     name: { de: "Konvent San Antonio de Padua", hu: "Szent Antal-kolostor (Izamal)", ro: "Mănăstirea San Antonio de Padua", en: "San Antonio de Padua Convent" },
-    coordinates: { lat: 20.9328, lng: -89.0172 },
+    coords: [-89.0172, 20.9328],
     description: {
       de: "Ein riesiger Klosterkomplex in Izamal, bekannt für seine leuchtend gelbe Farbe. Er besitzt den zweitgrößten geschlossenen Vorhof der Welt.",
       hu: "Hatalmas kolostorkomplexum Izamalban, élénksárga színéről híres. A világ második legnagyobb zárt udvarával rendelkezik.",
@@ -537,7 +537,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-padre-tembleque-aqueduct-landmarks-v2",
     type: "monument",
     name: { de: "Aquädukt des Padre Tembleque", hu: "Padre Tembleque akvedukt", ro: "Apeductul Padre Tembleque", en: "Aqueduct of Padre Tembleque" },
-    coordinates: { lat: 19.843, lng: -98.663 },
+    coords: [-98.663, 19.843],
     description: {
       de: "Ein beeindruckendes technisches Meisterwerk der Kolonialzeit. Es verbindet europäische Bögen mit traditionellen Bautechniken.",
       hu: "Lenyűgöző mérnöki teljesítmény a gyarmati korból. Az európai boltíveket ötvözi a hagyományos helyi építészeti technikákkal.",
@@ -556,7 +556,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-santa-prisca-church-landmarks-v2",
     type: "church",
     name: { de: "Santa-Prisca-Kirche", hu: "Szent Prisca-templom", ro: "Biserica Santa Prisca", en: "Santa Prisca Church" },
-    coordinates: { lat: 18.5564, lng: -99.6047 },
+    coords: [-99.6047, 18.5564],
     description: {
       de: "Eine prächtige Barockkirche in der Silberstadt Taxco. Sie wurde von einem reichen Minenbesitzer im 18. Jahrhundert gestiftet.",
       hu: "Pompás barokk templom Taxco ezüstvárosában. Egy gazdag bányatulajdonos építtette a 18. században.",
@@ -575,7 +575,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-tijuana-arch-landmarks-v2",
     type: "monument",
     name: { de: "Bogen von Tijuana", hu: "Tijuana-ív", ro: "Arcul din Tijuana", en: "Tijuana Arch" },
-    coordinates: { lat: 32.533, lng: -117.0378 },
+    coords: [-117.0378, 32.533],
     description: {
       de: "Ein modernes Monument an der Avenida Revolución, das den Eingang zur Stadt Tijuana markiert. Es ist als Millenium-Bogen bekannt.",
       hu: "Modern emlékmű az Avenida Revolución sugárúton, amely Tijuana bejáratát jelzi. Millenium-ívként is ismerik.",
@@ -594,7 +594,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-matute-remus-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Matute-Remus-Brücke", hu: "Matute Remus-híd", ro: "Podul Matute Remus", en: "Matute Remus Bridge" },
-    coordinates: { lat: 20.6658, lng: -103.3917 },
+    coords: [-103.3917, 20.6658],
     description: {
       de: "Eine moderne Schrägseilbrücke in Guadalajara. Sie ist nach einem bedeutenden mexikanischen Bauingenieur benannt.",
       hu: "Modern ferdekábeles híd Guadalajarában. Egy híres mexikói építőmérnökről nevezték el.",
@@ -613,7 +613,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-uxmal-governors-palace-landmarks-v2",
     type: "ruins",
     name: { de: "Gouverneurspalast (Uxmal)", hu: "Kormányzói palota (Uxmal)", ro: "Palatul Guvernatorului (Uxmal)", en: "Governor's Palace (Uxmal)" },
-    coordinates: { lat: 20.3592, lng: -89.7711 },
+    coords: [-89.7711, 20.3592],
     description: {
       de: "Ein herausragendes Gebäude der Maya-Architektur im Puuc-Stil. Es ist berühmt für seine langen Friese mit komplexen Mustern.",
       hu: "A maja építészet kiemelkedő példája Puuc stílusban. Hosszú, bonyolult mintázatú frízei teszik világhírűvé.",
@@ -632,7 +632,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-uxmal-magician-house-landmarks-v2",
     type: "ruins",
     name: { de: "Pyramide des Wahrsagers", hu: "A varázsló piramisa", ro: "Piramida Magicianului", en: "Pyramid of the Magician" },
-    coordinates: { lat: 20.3611, lng: -89.77 },
+    coords: [-89.77, 20.3611],
     description: {
       de: "Die höchste Struktur in Uxmal, einzigartig durch ihren elliptischen Grundriss. Sie wurde in fünf Phasen übereinander gebaut.",
       hu: "Uxmal legmagasabb építménye, egyedülálló elliptikus alaprajzzal. Öt építési fázisban épült egymásra.",
@@ -651,7 +651,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-calakmul-great-pyramid-landmarks-v2",
     type: "ruins",
     name: { de: "Große Pyramide von Calakmul", hu: "Calakmuli nagy piramis", ro: "Marea Piramidă din Calakmul", en: "Great Pyramid of Calakmul" },
-    coordinates: { lat: 18.106, lng: -89.81 },
+    coords: [-89.81, 18.106],
     description: {
       de: "Eine der höchsten Maya-Pyramiden, tief im Dschungel von Campeche gelegen. Von oben blickt man über das grüne Kronendach.",
       hu: "Az egyik legmagasabb maja piramis Campeche dzsungelének mélyén. Tetejéről végtelen kilátás nyílik az őserdőre.",
@@ -670,7 +670,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-kohunlich-masks-temple-landmarks-v2",
     type: "ruins",
     name: { de: "Tempel der Masken (Kohunlich)", hu: "Maszkok temploma (Kohunlich)", ro: "Templul Măștilor (Kohunlich)", en: "Temple of the Masks (Kohunlich)" },
-    coordinates: { lat: 18.42, lng: -88.79 },
+    coords: [-88.79, 18.42],
     description: {
       de: "Bekannt für die großen, stuckverzierten Masken des Sonnengottes an der Treppenfassade. Es liegt in Quintana Roo.",
       hu: "A lépcsősor mellett található hatalmas, stukkóból készült Napisten-maszkokról híres. Quintana Roo államban fekszik.",
@@ -689,7 +689,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-san-diego-fort-landmarks-v2",
     type: "monument",
     name: { de: "Fort San Diego (Acapulco)", hu: "Szent Diego-erőd (Acapulco)", ro: "Fortăreața San Diego (Acapulco)", en: "Fort of San Diego (Acapulco)" },
-    coordinates: { lat: 16.8497, lng: -99.9022 },
+    coords: [-99.9022, 16.8497],
     description: {
       de: "Eine sternförmige Festung, die den Hafen von Acapulco schützte. Sie ist das bedeutendste historische Bauwerk der Stadt.",
       hu: "Csillag alakú erődítmény, amely Acapulco kikötőjét védte. A város legfontosabb történelmi építménye.",
@@ -708,7 +708,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-monterrey-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Monterrey", hu: "Monterreyi székesegyház", ro: "Catedrala din Monterrey", en: "Monterrey Metropolitan Cathedral" },
-    coordinates: { lat: 25.6653, lng: -100.31 },
+    coords: [-100.31, 25.6653],
     description: {
       de: "Ein barockes Juwel im Zentrum von Monterrey. Die Mischung aus Kolonialstil und modernen Elementen macht sie einzigartig.",
       hu: "Barokk gyöngyszem Monterrey központjában. A gyarmati stílus és a modern elemek keveréke teszi különlegessé.",
@@ -727,7 +727,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-san-luis-potosi-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von San Luis Potosí", hu: "San Luis Potosí-i székesegyház", ro: "Catedrala din San Luis Potosí", en: "San Luis Potosi Cathedral" },
-    coordinates: { lat: 22.1517, lng: -100.9753 },
+    coords: [-100.9753, 22.1517],
     description: {
       de: "Ein prächtiges Gebäude an der Plaza de Armas. Sie ist bekannt für ihre zwei markanten Türme aus rosa Sandstein.",
       hu: "Pompás épület a Plaza de Armas téren. Két jellegzetes, rózsaszín homokkőből készült tornyáról ismert.",
@@ -746,7 +746,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-mazatlan-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Mazatlán", hu: "Mazatláni székesegyház", ro: "Catedrala din Mazatlán", en: "Mazatlan Cathedral" },
-    coordinates: { lat: 23.2, lng: -106.416 },
+    coords: [-106.416, 23.2],
     description: {
       de: "Eine farbenfrohe Kathedrale im historischen Zentrum von Mazatlán. Sie zeichnet sich durch ihre gelben Türme und den eklektischen Stil aus.",
       hu: "Színes székesegyház Mazatlán történelmi központjában. Sárga tornyai és eklektikus stílusa teszik egyedivé.",
@@ -765,7 +765,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-hermosillo-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Hermosillo", hu: "Hermosillói székesegyház", ro: "Catedrala din Hermosillo", en: "Hermosillo Cathedral" },
-    coordinates: { lat: 29.074, lng: -110.957 },
+    coords: [-110.957, 29.074],
     description: {
       de: "Das Wahrzeichen der Hauptstadt von Sonora. Die Kathedrale Nuestra Señora de la Asunción besticht durch ihre weiße Fassade.",
       hu: "Sonora állam fővárosának jelképe. A Nagyboldogasszony-székesegyház lenyűgöző fehér homlokzatáról ismert.",
@@ -784,7 +784,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-culiacan-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Culiacán", hu: "Culiacáni székesegyház", ro: "Catedrala din Culiacán", en: "Culiacan Cathedral" },
-    coordinates: { lat: 24.808, lng: -107.394 },
+    coords: [-107.394, 24.808],
     description: {
       de: "Ein schönes Beispiel neoklassizistischer Architektur im Zentrum von Sinaloa. Sie ist dem Heiligen Michael geweiht.",
       hu: "A neoklasszikus építészet szép példája Sinaloa állam központjában. Szent Mihály arkangyalnak szentelték.",
@@ -803,7 +803,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-saltillo-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Saltillo", hu: "Saltillói székesegyház", ro: "Catedrala din Saltillo", en: "Saltillo Cathedral" },
-    coordinates: { lat: 25.422, lng: -101.0 },
+    coords: [-101.0, 25.422],
     description: {
       de: "Eines der schönsten sakralen Bauwerke in Nordmexiko. Die Fassade ist ein Meisterwerk des mexikanischen Barockstils.",
       hu: "Észak-Mexikó egyik legszebb egyházi épülete. Homlokzata a mexikói barokk stílus mesterműve.",
@@ -822,7 +822,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-la-paz-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von La Paz", hu: "La Paz-i székesegyház", ro: "Catedrala din La Paz", en: "Cathedral of Our Lady of Peace" },
-    coordinates: { lat: 24.161, lng: -110.313 },
+    coords: [-110.313, 24.161],
     description: {
       de: "Eine schlichte und elegante Kathedrale in Baja California Sur. Sie markiert den Ort einer ehemaligen Jesuitenmission.",
       hu: "Egyszerű és elegáns székesegyház Baja California Sur államban. Egy egykori jezsuita misszió helyén áll.",
@@ -841,7 +841,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-puebla-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Puebla", hu: "Pueblai székesegyház", ro: "Catedrala din Puebla", en: "Puebla Cathedral" },
-    coordinates: { lat: 19.0425, lng: -98.1985 },
+    coords: [-98.1985, 19.0425],
     description: {
       de: "Diese Kathedrale besitzt die höchsten Kirchtürme Mexikos. Sie ist ein prachtvolles Beispiel kolonialer Architektur.",
       hu: "Ez a katedrális rendelkezik Mexikó legmagasabb templomtornyaival. A gyarmati építészet pompás példája.",
@@ -860,7 +860,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-monument-to-the-homeland-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Heimat", hu: "A Haza emlékműve", ro: "Monumentul Patriei", en: "Monument to the Homeland" },
-    coordinates: { lat: 20.9897, lng: -89.6172 },
+    coords: [-89.6172, 20.9897],
     description: {
       de: "Ein monumentales Steinmonument in Mérida an der Paseo de Montejo. Es erzählt die Geschichte Mexikos durch Skulpturen.",
       hu: "Hatalmas kőemlékmű Méridában, a Paseo de Montejo sugárúton. Szobrokon keresztül meséli el Mexikó történelmét.",
@@ -879,7 +879,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-oaxaca-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Oaxaca", hu: "Oaxacai székesegyház", ro: "Catedrala din Oaxaca", en: "Oaxaca Cathedral" },
-    coordinates: { lat: 17.0617, lng: -96.725 },
+    coords: [-96.725, 17.0617],
     description: {
       de: "Eine beeindruckende Kathedrale aus grünem Stein direkt an der Plaza de la Constitución. Sie ist dem Heiligen Marcial geweiht.",
       hu: "Lenyűgöző zöld kőből épült székesegyház a Plaza de la Constitución téren. Szent Marcial tiszteletére szentelték.",
@@ -898,7 +898,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-santo-domingo-church-oaxaca-landmarks-v2",
     type: "church",
     name: { de: "Kirche Santo Domingo (Oaxaca)", hu: "Szent Domonkos-templom (Oaxaca)", ro: "Biserica Santo Domingo (Oaxaca)", en: "Santo Domingo Church (Oaxaca)" },
-    coordinates: { lat: 17.0658, lng: -96.7231 },
+    coords: [-96.7231, 17.0658],
     description: {
       de: "Eine prächtige Barockkirche, die für ihr prunkvolles, mit Blattgold verziertes Inneres bekannt ist. Sie war Teil eines Klosters.",
       hu: "Pompás barokk templom, amely aranyfüsttel borított, gazdagon díszített belsejéről híres. Egykori kolostor része.",
@@ -917,7 +917,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-colima-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Colima", hu: "Colimai székesegyház", ro: "Catedrala din Colima", en: "Colima Cathedral" },
-    coordinates: { lat: 19.243, lng: -103.727 },
+    coords: [-103.727, 19.243],
     description: {
       de: "Eine elegante Kathedrale an der Plaza Principal von Colima. Sie ist der Basilika Unserer Lieben Frau von Guadalupe gewidmet.",
       hu: "Elegáns székesegyház Colima főterén. A Guadalupei Szűzanya tiszteletére szentelték.",
@@ -936,7 +936,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-queretaro-convent-landmarks-v2",
     type: "church",
     name: { de: "Konvent des Heiligen Kreuzes", hu: "Szent Kereszt-kolostor (Querétaro)", ro: "Mănăstirea Sfintei Cruci", en: "Convent of the Holy Cross" },
-    coordinates: { lat: 20.5927, lng: -100.3847 },
+    coords: [-100.3847, 20.5927],
     description: {
       de: "Ein historisches Kloster in Querétaro, berühmt für einen Baum mit kreuzförmigen Dornen. Es spielte eine Rolle im Unabhängigkeitskrieg.",
       hu: "Történelmi kolostor Querétaróban, híres a kereszt alakú töviseket növesztő fájáról. Fontos szerep a szabadságharcban.",
@@ -955,7 +955,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-toluca-cosmovitral-landmarks-v2",
     type: "museum",
     name: { de: "Cosmovitral Botanischer Garten", hu: "Cosmovitral botanikus kert", ro: "Grădina Botanică Cosmovitral", en: "Cosmovitral Botanical Garden" },
-    coordinates: { lat: 19.293, lng: -99.654 },
+    coords: [-99.654, 19.293],
     description: {
       de: "Ein ehemaliges Marktgebäude in Toluca, das heute einen botanischen Garten und riesige Glasmalereien beherbergt.",
       hu: "Egykori vásárcsarnok Tolucában, amely ma botanikus kertnek és hatalmas ólomüveg alkotásoknak ad otthont.",
@@ -974,7 +974,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-tequila-express-landmarks-v2",
     type: "monument",
     name: { de: "Tequila Express Bahnhof", hu: "Tequila Express állomás", ro: "Gara Tequila Express", en: "Tequila Express Station" },
-    coordinates: { lat: 20.884, lng: -103.837 },
+    coords: [-103.837, 20.884],
     description: {
       de: "Der historische Bahnhof in der Stadt Tequila. Er ist der Ankunftspunkt für Touristen, die die Agavenfelder besuchen.",
       hu: "Történelmi vasútállomás Tequila városában. Az agaveföldeket látogató turisták érkezési pontja.",
@@ -993,7 +993,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-zacatecas-cable-car-landmarks-v2",
     type: "monument",
     name: { de: "Seilbahn von Zacatecas", hu: "Zacatecasi kötélpálya", ro: "Telefericul din Zacatecas", en: "Zacatecas Cable Car" },
-    coordinates: { lat: 22.7758, lng: -102.5714 },
+    coords: [-102.5714, 22.7758],
     description: {
       de: "Die erste Seilbahn Mexikos für touristische Zwecke. Sie verbindet den Cerro del Grillo mit dem Cerro de la Bufa.",
       hu: "Mexikó első turisztikai célú kötélpályája. A Cerro del Grillo és a Cerro de la Bufa dombokat köti össze.",
@@ -1012,7 +1012,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-tampico-customs-building-landmarks-v2",
     type: "palace",
     name: { de: "Zollgebäude von Tampico", hu: "Tampicói vámház", ro: "Clădirea Vămii din Tampico", en: "Tampico Customs Building" },
-    coordinates: { lat: 22.213, lng: -97.854 },
+    coords: [-97.854, 22.213],
     description: {
       de: "Ein prächtiges Backsteingebäude im Hafen von Tampico. Es spiegelt die wirtschaftliche Bedeutung der Stadt im frühen 20. Jh. wider.",
       hu: "Pompás téglaépület Tampico kikötőjében. A város 20. század eleji gazdasági jelentőségét tükrözi.",
@@ -1031,7 +1031,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-villahermosa-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Villahermosa", hu: "Villahermosai székesegyház", ro: "Catedrala din Villahermosa", en: "Villahermosa Cathedral" },
-    coordinates: { lat: 17.989, lng: -92.923 },
+    coords: [-92.923, 17.989],
     description: {
       de: "Die Hauptkirche des Bundesstaates Tabasco. Sie besitzt zwei der höchsten Glockentürme in ganz Mexiko.",
       hu: "Tabasco állam főtemploma. Mexikó egyik legmagasabb harangtoronypárjával büszkélkedhet.",
@@ -1050,7 +1050,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-veracruz-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Veracruz", hu: "Veracruzi székesegyház", ro: "Catedrala din Veracruz", en: "Veracruz Cathedral" },
-    coordinates: { lat: 19.2, lng: -96.138 },
+    coords: [-96.138, 19.2],
     description: {
       de: "Eine elegante weiße Kathedrale im historischen Herzen von Veracruz. Sie ist der Maria Himmelfahrt gewidmet.",
       hu: "Elegáns fehér székesegyház Veracruz történelmi szívében. Nagyboldogasszony tiszteletére szentelték.",
@@ -1069,7 +1069,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-pachuca-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Pachuca", hu: "Pachucai óratorony", ro: "Turnul cu Ceas din Pachuca", en: "Pachuca Clock Tower" },
-    coordinates: { lat: 20.126, lng: -98.73 },
+    coords: [-98.73, 20.126],
     description: {
       de: "Ein monumentaler Uhrturm an der Plaza Independencia. Er ist das wichtigste Wahrzeichen der Stadt Pachuca.",
       hu: "Monumentális óratorony a Plaza Independencia téren. Pachuca városának legfőbb jelképe.",
@@ -1088,7 +1088,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-guadalupe-island-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm der Insel Guadalupe", hu: "Guadalupe-szigeti világítótorony", ro: "Farul Insulei Guadalupe", en: "Guadalupe Island Lighthouse" },
-    coordinates: { lat: 29.15, lng: -118.28 },
+    coords: [-118.28, 29.15],
     description: {
       de: "Ein einsamer Leuchtturm auf der abgelegenen Insel Guadalupe im Pazifik. Er dient der Navigation in fischreichen Gewässern.",
       hu: "Magányos világítótorony a távoli Guadalupe-szigeten a Csendes-óceánban. A navigációt segíti a halakban gazdag vizeken.",
@@ -1107,7 +1107,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-monumento-a-la-patria-v2",
     type: "monument",
     name: { de: "Mérida-Denkmal der Geschichte", hu: "Méridai történelmi emlékmű", ro: "Monumentul Istoriei din Mérida", en: "Merida History Monument" },
-    coordinates: { lat: 20.99, lng: -89.617 },
+    coords: [-89.617, 20.99],
     description: {
       de: "Ein riesiger Skulpturenkomplex am Paseo de Montejo. Er stellt die wichtigsten Ereignisse der Geschichte Mexikos dar.",
       hu: "Hatalmas szoborkomplexum a Paseo de Montejo végén. Mexikó történelmének legfontosabb eseményeit ábrázolja.",
@@ -1126,7 +1126,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-convent-san-gabriel-cholula-landmarks-v2",
     type: "church",
     name: { de: "Konvent San Gabriel (Cholula)", hu: "Szent Gábor-kolostor (Cholula)", ro: "Mănăstirea San Gabriel (Cholula)", en: "San Gabriel Convent (Cholula)" },
-    coordinates: { lat: 19.062, lng: -98.305 },
+    coords: [-98.305, 19.062],
     description: {
       de: "Eines der ältesten Klöster Mexikos, auf dem Gelände eines ehemaligen Quetzalcoatl-Tempels erbaut. Es hat eine festungsartige Optik.",
       hu: "Mexikó egyik legrégebbi kolostora, egy egykori Quetzalcoatl-templom helyén. Erődszerű megjelenése van.",
@@ -1145,7 +1145,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-teatro-macedonio-alcala-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Macedonio Alcalá", hu: "Macedonio Alcalá Színház", ro: "Teatrul Macedonio Alcalá", en: "Macedonio Alcala Theater" },
-    coordinates: { lat: 17.0622, lng: -96.7214 },
+    coords: [-96.7214, 17.0622],
     description: {
       de: "Ein prachtvolles Theater in Oaxaca, das für seinen eklektischen Stil und die opulente Innenausstattung bekannt ist.",
       hu: "Pompás színház Oaxacában, amely eklektikus stílusáról és fényűző belső díszítéséről híres.",
@@ -1164,7 +1164,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-guadalupe-shrine-san-luis-potosi-landmarks-v2",
     type: "church",
     name: { de: "Heiligtum von Guadalupe (SLP)", hu: "Guadalupei szentély (SLP)", ro: "Sanctuarul din Guadalupe (SLP)", en: "Guadalupe Sanctuary (San Luis Potosi)" },
-    coordinates: { lat: 22.14, lng: -100.97 },
+    coords: [-100.97, 22.14],
     description: {
       de: "Eine bedeutende Barockkirche in San Luis Potosí, bekannt für ihre detailreiche Fassade und den langen Pilgerweg.",
       hu: "Fontos barokk templom San Luis Potosíban, részletgazdag homlokzatáról és hosszú zarándokútjáról ismert.",
@@ -1183,7 +1183,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-aguascalientes-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Aguascalientes", hu: "Aguascalientesi székesegyház", ro: "Catedrala din Aguascalientes", en: "Aguascalientes Cathedral" },
-    coordinates: { lat: 21.881, lng: -102.296 },
+    coords: [-102.296, 21.881],
     description: {
       de: "Die Hauptkirche der Stadt Aguascalientes. Sie ist bekannt für ihre zwei neoklassizistischen Türme und das barocke Hauptportal.",
       hu: "Aguascalientes városának főtemploma. Két neoklasszicista tornyáról és barokk főkapujáról ismert.",
@@ -1202,7 +1202,7 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-san-antonio-church-aguascalientes-landmarks-v2",
     type: "church",
     name: { de: "San-Antonio-Kirche (Aguascalientes)", hu: "Szent Antal-templom (Aguascalientes)", ro: "Biserica San Antonio (Aguascalientes)", en: "San Antonio Church (Aguascalientes)" },
-    coordinates: { lat: 21.885, lng: -102.291 },
+    coords: [-102.291, 21.885],
     description: {
       de: "Ein architektonisches Juwel in Aguascalientes mit einer Mischung aus verschiedenen Stilen wie Gotik, Barock und Neoklassik.",
       hu: "Építészeti gyöngyszem Aguascalientesben, ahol a gótikus, barokk és neoklasszikus stílusok keverednek.",

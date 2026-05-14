@@ -817,7 +817,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Aydın", hu: "Aydın", ro: "Aydın", en: "Aydın" },
-    coordinates: { lat: 37.8444, lng: 27.8458 },
+    coords: [27.8458, 37.8444],
     description: {
       de: "Aydın liegt im fruchtbaren Tal des Großen Mäander im Westen der Türkei. Die Stadt ist das Zentrum der weltweiten Feigenproduktion und blickt auf eine Geschichte bis in die Antike zurück.",
       hu: "Aydın a termékeny Büyük Menderes-völgyben fekszik Törökország nyugati részén. A város a világ fügetermelésének központja, és az ókori Trallész romjaira épült.",
@@ -837,7 +837,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Çanakkale", hu: "Çanakkale", ro: "Çanakkale", en: "Çanakkale" },
-    coordinates: { lat: 40.1553, lng: 26.4142 },
+    coords: [26.4142, 40.1553],
     description: {
       de: "Çanakkale ist eine Hafenstadt an der schmalsten Stelle der Dardanellen. Sie ist der wichtigste Ausgangspunkt für Besuche der antiken Stadt Troja und der Schlachtfelder von Gallipoli.",
       hu: "Çanakkale kikötőváros a Dardanellák legkeskenyebb pontjánál. Ez a legfontosabb kiindulópont az ókori Trója és a gallipoli csataterek meglátogatásához.",
@@ -857,7 +857,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "capital",
     parent: "TR",
     name: { de: "Edirne", hu: "Edirne", ro: "Edirne", en: "Edirne" },
-    coordinates: { lat: 41.6771, lng: 26.5592 },
+    coords: [26.5592, 41.6771],
     description: {
       de: "Edirne liegt im europäischen Teil der Türkei nahe der Grenze zu Bulgarien und Griechenland. Von 1363 bis 1453 war die Stadt die zweite Hauptstadt des Osmanischen Reiches.",
       hu: "Edirne Törökország európai részén fekszik, a bolgár és görög határ közelében. 1363 és 1453 között az Oszmán Birodalom második fővárosa volt.",
@@ -877,7 +877,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Afyonkarahisar", hu: "Afyonkarahisar", ro: "Afyonkarahisar", en: "Afyonkarahisar" },
-    coordinates: { lat: 38.7507, lng: 30.5413 },
+    coords: [30.5413, 38.7507],
     description: {
       de: "Afyonkarahisar ist als türkische Hauptstadt der Thermalbäder und des Mohnanbaus bekannt. Die Stadt liegt am Fuße einer markanten Burgruine auf einem 226 Meter hohen schwarzen Felsen.",
       hu: "Afyonkarahisar a török termálfürdők és a máktermesztés fővárosaként ismert. A város egy jellegzetes, 226 méter magas fekete sziklán álló várrom lábánál fekszik.",
@@ -897,7 +897,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Amasya", hu: "Amasya", ro: "Amasya", en: "Amasya" },
-    coordinates: { lat: 40.6506, lng: 35.8303 },
+    coords: [35.8303, 40.6506],
     description: {
       de: "Amasya liegt in einem engen Tal des Flusses Yeşilırmak und ist berühmt für seine in den Fels gehauenen Gräber der pontischen Könige. Im Osmanischen Reich war es ein Zentrum für die Ausbildung von Prinzen.",
       hu: "Amasya a Yeşilırmak folyó szűk völgyében fekszik, és a sziklába vájt pontoszi királysírokról híres. Az Oszmán Birodalomban a hercegek képzésének központja volt.",
@@ -917,7 +917,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Isparta", hu: "Isparta", ro: "Isparta", en: "Isparta" },
-    coordinates: { lat: 37.7648, lng: 30.5566 },
+    coords: [30.5566, 37.7648],
     description: {
       de: "Isparta wird oft als 'Stadt der Rosen' bezeichnet, da sie das Zentrum der türkischen Rosenölproduktion ist. Sie liegt im türkischen Seengebiet am Fuße des Taurusgebirges.",
       hu: "Ispartát gyakran a 'rózsák városának' nevezik, mivel ez a török rózsaolaj-termelés központja. A török tóvidéken, a Toros-hegység lábánál fekszik.",
@@ -937,7 +937,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Mardin", hu: "Mardin", ro: "Mardin", en: "Mardin" },
-    coordinates: { lat: 37.3129, lng: 40.7339 },
+    coords: [40.7339, 37.3129],
     description: {
       de: "Mardin thront auf einem felsigen Hügel über der mesopotamischen Ebene im Südosten der Türkei. Die Stadt ist weltberühmt für ihre honigfarbenen Steinhäuser und die Architektur aus der Artuqiden-Zeit.",
       hu: "Mardin egy sziklás dombon trónol a mezopotámiai síkság felett Törökország délkeleti részén. A város világhírű mézszínű kőházairól és az artukida kori építészetéről.",
@@ -957,7 +957,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Muğla", hu: "Muğla", ro: "Muğla", en: "Muğla" },
-    coordinates: { lat: 37.2181, lng: 28.3665 },
+    coords: [28.3665, 37.2181],
     description: {
       de: "Muğla ist das Verwaltungszentrum einer Provinz, die einige der bekanntesten Ferienorte der Türkei umfasst. Die Stadt selbst liegt landeinwärts auf einer Hochebene und bewahrt ein historisches Viertel mit osmanischen Häusern.",
       hu: "Muğla egy olyan tartomány közigazgatási központja, amely Törökország legismertebb üdülőhelyeit foglalja magában. Maga a város a szárazföld belsejében, egy fennsíkon fekszik, és őrzi oszmán házakból álló történelmi negyedét.",
@@ -977,7 +977,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Tokat", hu: "Tokat", ro: "Tokat", en: "Tokat" },
-    coordinates: { lat: 40.3139, lng: 36.5544 },
+    coords: [36.5544, 40.3139],
     description: {
       de: "Tokat ist eine geschichtsträchtige Stadt im Norden Anatoliens, die für ihre Architektur aus der Seldschuken- und Osmanenzeit bekannt ist. Sie war ein bedeutender Knotenpunkt an der Seidenstraße.",
       hu: "Tokat egy történelmi város Észak-Anatóliában, amely szeldzsuk és oszmán kori építészetéről ismert. A selyemút egyik jelentős csomópontja volt.",
@@ -997,7 +997,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Uşak", hu: "Uşak", ro: "Uşak", en: "Uşak" },
-    coordinates: { lat: 38.6742, lng: 29.4058 },
+    coords: [29.4058, 38.6742],
     description: {
       de: "Uşak liegt in der inneren Ägäisregion und ist historisch für seine Teppichproduktion und Textilindustrie bekannt. Die Stadt beherbergt bedeutende archäologische Schätze aus der lydischen Zeit.",
       hu: "Uşak a belső égei-tengeri régióban fekszik, és történelmileg szőnyeggyártásáról és textiliparáról ismert. A város jelentős régészeti kincseket őriz a lüd korszakból.",
@@ -1017,7 +1017,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Yalova", hu: "Yalova", ro: "Yalova", en: "Yalova" },
-    coordinates: { lat: 40.6552, lng: 29.2769 },
+    coords: [29.2769, 40.6552],
     description: {
       de: "Yalova liegt am südlichen Ufer des Marmarameers und ist ein beliebtes Ziel für seine Thermalquellen und botanischen Gärten. Mustafa Kemal Atatürk unterhielt hier eine bedeutende Sommerresidenz.",
       hu: "Yalova a Márvány-tenger déli partján fekszik, és kedvelt úti cél termálforrásai és botanikus kertjei miatt. Mustafa Kemal Atatürknek itt volt egy jelentős nyári rezidenciája.",
@@ -1037,7 +1037,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Karabük", hu: "Karabük", ro: "Karabük", en: "Karabük" },
-    coordinates: { lat: 41.2061, lng: 32.6204 },
+    coords: [32.6204, 41.2061],
     description: {
       de: "Karabük im Norden der Türkei ist eines der wichtigsten Zentren der Schwerindustrie des Landes. Die Stadt entstand um das erste integrierte Eisen- und Stahlwerk der Türkei, das in den 1930er Jahren gegründet wurde.",
       hu: "Karabük Észak-Törökország egyik legfontosabb nehézipari központja. A város az első integrált török vas- és acélmű köré épült, amelyet az 1930-as években alapítottak.",
@@ -1057,7 +1057,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Kırıkkale", hu: "Kırıkkale", ro: "Kırıkkale", en: "Kırıkkale" },
-    coordinates: { lat: 39.8461, lng: 33.5153 },
+    coords: [33.5153, 39.8461],
     description: {
       de: "Kırıkkale liegt im Zentrum Anatoliens und ist ein bedeutender Industriestandort, insbesondere für die Rüstungs- und petrochemische Industrie. Die Stadt entwickelte sich rasant nach der Gründung von Fabriken in den 1920er Jahren.",
       hu: "Kırıkkale Közép-Anatóliában fekszik, és jelentős ipari központ, különösen a hadiipar és a petrolkémia területén. A város az 1920-as évek gyáralapításai után indult gyors fejlődésnek.",
@@ -1077,7 +1077,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Aksaray", hu: "Aksaray", ro: "Aksaray", en: "Aksaray" },
-    coordinates: { lat: 38.3687, lng: 34.037 },
+    coords: [34.037, 38.3687],
     description: {
       de: "Aksaray liegt an der historischen Seidenstraße in Zentralanatolien. Die Stadt ist ein Tor zur Region Kappadokien und bekannt für ihre bedeutenden Karawansereien aus der Seldschukenzeit.",
       hu: "Aksaray a történelmi selyemút mentén fekszik Közép-Anatóliában. A város Kappadókia kapuja, és híres jelentős szeldzsuk kori karavánszerájairól.",
@@ -1097,7 +1097,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Niğde", hu: "Niğde", ro: "Niğde", en: "Niğde" },
-    coordinates: { lat: 37.9667, lng: 34.6833 },
+    coords: [34.6833, 37.9667],
     description: {
       de: "Niğde liegt im südlichen Teil Zentralanatoliens und ist eine Stadt mit einer langen Geschichte, die bis zu den Hethitern zurückreicht. Sie ist bekannt für ihre seldschukischen Bauwerke und die Landwirtschaft.",
       hu: "Niğde Közép-Anatólia déli részén fekszik, történelme egészen a hettitákig nyúlik vissza. A város híres szeldzsuk építményeiről és mezőgazdaságáról.",
@@ -1117,7 +1117,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Nevşehir", hu: "Nevşehir", ro: "Nevşehir", en: "Nevşehir" },
-    coordinates: { lat: 38.6247, lng: 34.7144 },
+    coords: [34.7144, 38.6247],
     description: {
       de: "Nevşehir ist die Provinzhauptstadt im Herzen der Region Kappadokien. Die Stadt dient als zentraler Ausgangspunkt für die Erkundung der berühmten Feenkamine und unterirdischen Städte.",
       hu: "Nevşehir Kappadókia szívében található tartományi székhely. A város központi kiindulópontként szolgál a híres tündérkémények és föld alatti városok felfedezéséhez.",
@@ -1137,7 +1137,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Bolu", hu: "Bolu", ro: "Bolu", en: "Bolu" },
-    coordinates: { lat: 40.735, lng: 31.605 },
+    coords: [31.605, 40.735],
     description: {
       de: "Bolu liegt im Nordwesten der Türkei inmitten von dichten Wäldern und Bergen. Die Stadt ist bekannt für ihre kulinarische Tradition und die Nähe zu landschaftlich reizvollen Seen.",
       hu: "Bolu Törökország északnyugati részén fekszik, sűrű erdők és hegyek között. A város gasztronómiai hagyományairól és a közeli festői tavakról ismert.",
@@ -1157,7 +1157,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Kastamonu", hu: "Kastamonu", ro: "Kastamonu", en: "Kastamonu" },
-    coordinates: { lat: 41.3787, lng: 33.7744 },
+    coords: [33.7744, 41.3787],
     description: {
       de: "Kastamonu liegt in der westlichen Schwarzmeerregion und ist reich an historischer Architektur. Die Stadt ist bekannt für ihre gut erhaltenen osmanischen Holzhäuser und ihre religiösen Stätten.",
       hu: "Kastamonu a nyugat-fekete-tengeri régióban fekszik, és gazdag történelmi építészetben. A város jól megőrzött oszmán faházairól és vallási helyszíneiről ismert.",
@@ -1177,7 +1177,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Ordu", hu: "Ordu", ro: "Ordu", en: "Ordu" },
-    coordinates: { lat: 40.9862, lng: 37.8797 },
+    coords: [37.8797, 40.9862],
     description: {
       de: "Ordu ist eine malerische Hafenstadt am Schwarzen Meer und das Zentrum der weltweiten Haselnussproduktion. Die Stadt ist bekannt für ihre Seilbahn, die zum Aussichtspunkt Boztepe führt.",
       hu: "Ordu egy festői kikötőváros a Fekete-tenger partján, a világ mogyorótermelésének központja. A város híres a Boztepe kilátóhoz vezető felvonójáról.",
@@ -1197,7 +1197,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Giresun", hu: "Giresun", ro: "Giresun", en: "Giresun" },
-    coordinates: { lat: 40.9175, lng: 38.3878 },
+    coords: [38.3878, 40.9175],
     description: {
       de: "Giresun liegt auf einer Halbinsel am Schwarzen Meer und ist als Heimat der Kirsche bekannt. Die Stadt verfügt über eine antike Burg und die einzige bewohnbare Insel im südlichen Schwarzen Meer.",
       hu: "Giresun a Fekete-tenger egy félszigetén fekszik, és a cseresznye hazájaként ismert. A város egy ókori várral és a déli Fekete-tenger egyetlen lakható szigetével rendelkezik.",
@@ -1217,7 +1217,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Rize", hu: "Rize", ro: "Rize", en: "Rize" },
-    coordinates: { lat: 41.0201, lng: 40.5234 },
+    coords: [40.5234, 41.0201],
     description: {
       de: "Rize ist das Zentrum der türkischen Teeproduktion und liegt in einer der regenreichsten Regionen des Landes. Die Stadt ist von terrassierten Teegärten und steilen Bergen umgeben.",
       hu: "Rize a török teatermelés központja, az ország egyik legcsapadékosabb régiójában fekszik. A várost teraszos teakert és meredek hegyek veszik körül.",
@@ -1237,7 +1237,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Artvin", hu: "Artvin", ro: "Artvin", en: "Artvin" },
-    coordinates: { lat: 41.1828, lng: 41.8211 },
+    coords: [41.8211, 41.1828],
     description: {
       de: "Artvin ist eine spektakulär am Hang gelegene Stadt im Nordosten der Türkei, nahe der georgischen Grenze. Sie liegt oberhalb des Çoruh-Flusses und ist bekannt für ihre raue Gebirgslandschaft.",
       hu: "Artvin egy látványosan a hegyoldalba épült város Törökország északkeleti részén, a grúz határ közelében. A Çoruh-folyó felett fekszik, és zord hegyi tájairól ismert.",
@@ -1257,7 +1257,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Erzincan", hu: "Erzincan", ro: "Erzincan", en: "Erzincan" },
-    coordinates: { lat: 39.75, lng: 39.5 },
+    coords: [39.5, 39.75],
     description: {
       de: "Erzincan liegt in einer Hochebene in Ostanatolie und wurde nach einem verheerenden Erdbeben 1939 völlig neu aufgebaut. Die Stadt ist bekannt für ihr Kupferhandwerk und den Erzincan-Tulum-Käse.",
       hu: "Erzincan egy kelet-anatóliai fennsíkon fekszik, és az 1939-es pusztító földrengés után teljesen újjáépítették. A város rézművességéről és az Erzincan tulum sajtról ismert.",
@@ -1277,7 +1277,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Kilis", hu: "Kilis", ro: "Kilis", en: "Kilis" },
-    coordinates: { lat: 36.7161, lng: 37.115 },
+    coords: [37.115, 36.7161],
     description: {
       de: "Kilis liegt im Süden der Türkei direkt an der Grenze zu Syrien. Die Stadt ist bekannt für ihre Olivenhaine, Weinberge und die traditionelle Küche, die Einflüsse aus dem gesamten Nahen Osten vereint.",
       hu: "Kilis Törökország déli részén, közvetlenül a szíriai határ mentén fekszik. A város olajfaligeteiről, szőlőültetvényeiről és hagyományos konyhájáról ismert.",
@@ -1297,7 +1297,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Karaman", hu: "Karaman", ro: "Karaman", en: "Karaman" },
-    coordinates: { lat: 37.1759, lng: 33.2214 },
+    coords: [33.2214, 37.1759],
     description: {
       de: "Karaman liegt nördlich des Taurusgebirges und war die Hauptstadt des Karamaniden-Fürstentums. Die Stadt spielte eine entscheidende Rolle bei der Etablierung des Türkischen als Amtssprache.",
       hu: "Karaman a Toros-hegységtől északra fekszik, és a Karamanida Fejedelemség fővárosa volt. A város döntő szerepet játszott a török nyelv hivatalos nyelvvé tételében.",
@@ -1317,7 +1317,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Çankırı", hu: "Çankırı", ro: "Çankırı", en: "Çankırı" },
-    coordinates: { lat: 40.6014, lng: 33.6133 },
+    coords: [33.6133, 40.6014],
     description: {
       de: "Çankırı liegt nordöstlich von Ankara und ist vor allem für seine riesigen prähistorischen Steinsalzhöhlen bekannt. Die Stadt blickt auf eine lange Geschichte als antikes Gangra zurück.",
       hu: "Çankırı Ankarától északkeletre fekszik, és leginkább hatalmas, őskori kősóbányáiról ismert. A város hosszú történelemre tekint vissza, az ókorban Gangra néven volt ismert.",
@@ -1337,7 +1337,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Bilecik", hu: "Bilecik", ro: "Bilecik", en: "Bilecik" },
-    coordinates: { lat: 40.1419, lng: 29.9793 },
+    coords: [29.9793, 40.1419],
     description: {
       de: "Bilecik gilt als Geburtsort des Osmanischen Reiches. Die Stadt liegt in einem zerklüfteten Tal im Nordwesten der Türkei und ist reich an Denkmälern aus der Gründungszeit der Dynastie.",
       hu: "Bilecik az Oszmán Birodalom szülőhelyeként ismert. A város Törökország északnyugati részén, egy szaggatott völgyben fekszik, és gazdag a dinasztia alapításának idejéből származó műemlékekben.",
@@ -1357,7 +1357,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Kırşehir", hu: "Kırşehir", ro: "Kırşehir", en: "Kırşehir" },
-    coordinates: { lat: 39.1425, lng: 34.1709 },
+    coords: [34.1709, 39.1425],
     description: {
       de: "Kırşehir liegt im Herzen Anatoliens und war ein bedeutendes kulturelles Zentrum des Seldschukenreichs. Die Stadt ist bekannt als Ursprungsort der Ahi-Evran-Gildenbewegung.",
       hu: "Kırşehir Közép-Anatóliában fekszik, és a Szeldzsuk Birodalom jelentős kulturális központja volt. A város az Ahi-Evran céhmozgalom származási helyeként ismert.",
@@ -1377,7 +1377,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Yozgat", hu: "Yozgat", ro: "Yozgat", en: "Yozgat" },
-    coordinates: { lat: 39.8181, lng: 34.8147 },
+    coords: [34.8147, 39.8181],
     description: {
       de: "Yozgat liegt in den Hochlandebenen Zentralanatoliens und wurde im 18. Jahrhundert von der Familie Çapanoğlu gegründet. Die Stadt ist bekannt für den ersten Nationalpark der Türkei.",
       hu: "Yozgat Közép-Anatólia fennsíkjain fekszik, és a 18. században alapította a Çapanoğlu család. A város Törökország első nemzeti parkjáról ismert.",
@@ -1397,7 +1397,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "city",
     parent: "TR",
     name: { de: "Sinop", hu: "Sinop", ro: "Sinop", en: "Sinop" },
-    coordinates: { lat: 42.0267, lng: 35.1511 },
+    coords: [35.1511, 42.0267],
     description: {
       de: "Sinop liegt am nördlichsten Punkt der Türkei auf einer Halbinsel am Schwarzen Meer. Die Stadt ist bekannt für ihren natürlichen Hafen, ihre antike Geschichte und das berüchtigte historische Gefängnis.",
       hu: "Sinop Törökország legészakibb pontján fekszik, a Fekete-tenger egyik félszigetén. A város természetes kikötőjéről, ókori történelméről és hírhedt történelmi börtönéről ismert.",

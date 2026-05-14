@@ -5,7 +5,7 @@ export const westernsaharaCitiesV2: POI[] = [
     id: "westernsahara-smara-cities-v2",
     type: "city",
     name: { de: "Smara", hu: "Szamara", ro: "Smara", en: "Smara" },
-    coordinates: { lat: 26.7408, lng: -11.6732 },
+    coords: [-11.6732, 26.7408],
     description: {
       de: "Smara ist eine Stadt im Landesinneren und ein historisch bedeutender Knotenpunkt. Sie wurde im späten 19. Jahrhundert gegründet.",
       hu: "Szamara egy szárazföldi város és történelmileg fontos csomópont. A 19. század végén alapították.",
@@ -24,7 +24,7 @@ export const westernsaharaCitiesV2: POI[] = [
     id: "westernsahara-guelta-zemmur-cities-v2",
     type: "town",
     name: { de: "Guelta Zemmur", hu: "Guelta Zemmur", ro: "Guelta Zemmur", en: "Guelta Zemmur" },
-    coordinates: { lat: 24.129, lng: -12.235 },
+    coords: [-12.235, 24.129],
     description: {
       de: "Guelta Zemmur ist eine Siedlung im Landesinneren, die an einer strategisch wichtigen Stelle in der Wüste liegt. Sie ist dünn besiedelt.",
       hu: "Guelta Zemmur egy szárazföldi település, amely a sivatag egy stratégiailag fontos pontján fekszik. Ritkán lakott.",
@@ -43,7 +43,7 @@ export const westernsaharaCitiesV2: POI[] = [
     id: "westernsahara-bir-mogrein-cities-v2",
     type: "town",
     name: { de: "Bir Mogrein", hu: "Bir Mogrein", ro: "Bir Mogrein", en: "Bir Mogrein" },
-    coordinates: { lat: 25.222, lng: -11.603 },
+    coords: [-11.603, 25.222],
     description: {
       de: "Bir Mogrein liegt im nördlichen Teil der Region. Die Stadt dient als wichtiger Knotenpunkt für den Wüstentransport.",
       hu: "Bir Mogrein a régió északi részén található. A város fontos csomópont a sivatagi szállítás számára.",
@@ -62,7 +62,7 @@ export const westernsaharaCitiesV2: POI[] = [
     id: "westernsahara-tifariti-cities-v2",
     type: "town",
     name: { de: "Tifariti", hu: "Tifariti", ro: "Tifariti", en: "Tifariti" },
-    coordinates: { lat: 26.5833, lng: -10.5667 },
+    coords: [-10.5667, 26.5833],
     description: {
       de: "Tifariti ist eine Stadt im nordöstlichen Teil des Gebiets. Sie ist ein Zentrum für kulturelle Aktivitäten in der Region.",
       hu: "Tifariti a terület északkeleti részén fekvő város. A régió kulturális tevékenységeinek egyik központja.",
@@ -81,7 +81,7 @@ export const westernsaharaCitiesV2: POI[] = [
     id: "westernsahara-ausserd-cities-v2",
     type: "town",
     name: { de: "Ausserd", hu: "Auszard", ro: "Ausserd", en: "Ausserd" },
-    coordinates: { lat: 22.5667, lng: -12.65 },
+    coords: [-12.65, 22.5667],
     description: {
       de: "Ausserd ist eine abgelegene Stadt im südlichen Teil der Region. Die Wirtschaft basiert hauptsächlich auf lokaler Viehzucht.",
       hu: "Auszard egy távoli város a régió déli részén. A gazdaság elsősorban a helyi állattenyésztésen alapul.",

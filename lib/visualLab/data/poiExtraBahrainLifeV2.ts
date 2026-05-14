@@ -790,7 +790,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-hawar-islands-life-v2",
     type: "wildlife",
     name: { de: "Hawar-Inseln", hu: "Hawar-szigetek", ro: "Insulele Hawar", en: "Hawar Islands" },
-    coordinates: { lat: 25.65, lng: 50.75 },
+    coords: [50.75, 25.65],
     description: {
       de: "Eine Inselgruppe im Golf von Bahrain, die für ihre Seevogelkolonien und Dugong-Populationen bekannt ist.",
       hu: "Szigetcsoport a Bahreini-öbölben, amely híres tengeri madárkolóniáiról és dugong-populációjáról.",
@@ -821,7 +821,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-tubli-bay-life-v2",
     type: "wildlife",
     name: { de: "Tubli-Bucht", hu: "Tubli-öböl", ro: "Golful Tubli", en: "Tubli Bay" },
-    coordinates: { lat: 26.19, lng: 50.59 },
+    coords: [50.59, 26.19],
     description: {
       de: "Ein ökologisch bedeutsames Feuchtgebiet mit Mangrovenwäldern an der Ostküste von Bahrain.",
       hu: "Ökológiailag jelentős vizes élőhely mangroveerdőkkel Bahrein keleti partján.",
@@ -852,7 +852,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-dohat-arad-life-v2",
     type: "wildlife",
     name: { de: "Dohat-Arad-Schutzgebiet", hu: "Dohat Arad rezervátum", ro: "Rezervația Dohat Arad", en: "Dohat Arad Sanctuary" },
-    coordinates: { lat: 26.25, lng: 50.62 },
+    coords: [50.62, 26.25],
     description: {
       de: "Ein geschütztes Küstengebiet bei Muharraq, das ein wichtiger Rastplatz für Zugvögel ist.",
       hu: "Védett parti terület Muharraq közelében, amely a vándormadarak fontos pihenőhelye.",
@@ -883,7 +883,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Bahrain", hu: "Bahreini Botanikus Kert", ro: "Grădina Botanică din Bahrain", en: "Bahrain Botanical Garden" },
-    coordinates: { lat: 26.21, lng: 50.46 },
+    coords: [50.46, 26.21],
     description: {
       de: "Ein öffentlicher Garten in Budaiya, der eine Vielzahl lokaler und exotischer Pflanzenarten beherbergt.",
       hu: "Nyilvános kert Budaiya-ban, amely számos helyi és egzotikus növényfajnak ad otthont.",
@@ -914,7 +914,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-andalus-garden-life-v2",
     type: "park",
     name: { de: "Andalus-Garten", hu: "Andalúzia kert", ro: "Grădina Andalus", en: "Andalus Garden" },
-    coordinates: { lat: 26.23, lng: 50.59 },
+    coords: [50.59, 26.23],
     description: {
       de: "Einer der ältesten Gärten Manamas, gestaltet im islamischen Stil mit Springbrunnen und schattigen Wegen.",
       hu: "Manama egyik legrégebbi kertje, iszlám stílusban tervezve, szökőkutakkal és árnyas ösvényekkel.",
@@ -945,7 +945,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-ras-sanad-life-v2",
     type: "wildlife",
     name: { de: "Ras-Sanad-Mangroven", hu: "Ras Sanad mangroveerdő", ro: "Mangrovele Ras Sanad", en: "Ras Sanad Mangroves" },
-    coordinates: { lat: 26.17, lng: 50.59 },
+    coords: [50.59, 26.17],
     description: {
       de: "Ein dichtes Mangrovengebiet in der Tubli-Bucht, das Lebensraum für zahlreiche Meeresbewohner bietet.",
       hu: "Sűrű mangrove-terület a Tubli-öbölben, amely számos tengeri élőlénynek nyújt élőhelyet.",
@@ -976,7 +976,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-mashtan-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Mashtan", hu: "Mashtan-sziget", ro: "Insula Mashtan", en: "Mashtan Island" },
-    coordinates: { lat: 25.83, lng: 50.66 },
+    coords: [50.66, 25.83],
     description: {
       de: "Ein unbewohntes Eiland und Meeresschutzgebiet, das für seine reiche marine Biodiversität bekannt ist.",
       hu: "Lakatlan sziget és tengeri védett terület, amely gazdag tengeri biológiai sokféleségéről ismert.",
@@ -1007,7 +1007,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-marina-garden-life-v2",
     type: "park",
     name: { de: "Marina Garden Park", hu: "Marina Garden park", ro: "Parcul Marina Garden", en: "Marina Garden Park" },
-    coordinates: { lat: 26.24, lng: 50.59 },
+    coords: [50.59, 26.24],
     description: {
       de: "Ein beliebter Park am Meer in Manama mit weiten Grünflächen für Freizeit und Erholung.",
       hu: "Népszerű tengerparti park Manamában, tágas zöld területekkel a kikapcsolódáshoz.",
@@ -1038,7 +1038,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-prince-khalifa-park-life-v2",
     type: "park",
     name: { de: "Prinz-Khalifa-Bin-Salman-Park", hu: "Khalifa bin Salman herceg park", ro: "Parcul Prince Khalifa Bin Salman", en: "Prince Khalifa Bin Salman Park" },
-    coordinates: { lat: 26.22, lng: 50.63 },
+    coords: [50.63, 26.22],
     description: {
       de: "Eine weitläufige Parkanlage in Hidd mit einem See und Blick auf die Skyline von Manama.",
       hu: "Kiterjedt park Hiddben, tóval és kilátással Manama látképére.",
@@ -1069,7 +1069,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-jaradah-island-life-v2",
     type: "wildlife",
     name: { de: "Jaradah-Insel", hu: "Jaradah-sziget", ro: "Insula Jaradah", en: "Jaradah Island" },
-    coordinates: { lat: 26.33, lng: 50.81 },
+    coords: [50.81, 26.33],
     description: {
       de: "Eine temporäre Sandbank, die bei Ebbe erscheint und für ihr klares Wasser beliebt ist.",
       hu: "Ideiglenes homokpad, amely apálykor jelenik meg, és tiszta vizéről népszerű.",
@@ -1100,7 +1100,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-ras-hayyan-life-v2",
     type: "wildlife",
     name: { de: "Ras-Hayyan-Feuchtgebiet", hu: "Ras Hayyan vizes élőhely", ro: "Zona umedă Ras Hayyan", en: "Ras Hayyan Wetland" },
-    coordinates: { lat: 26.04, lng: 50.63 },
+    coords: [50.63, 26.04],
     description: {
       de: "Ein Küstenstreifen mit Kanälen und Mangroven, der ein Refugium für Wasservögel darstellt.",
       hu: "Parti sáv csatornákkal és mangrovékkal, amely vízimadarak menedékhelye.",
@@ -1131,7 +1131,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-umm-an-nasan-life-v2",
     type: "wildlife",
     name: { de: "Insel Umm an Nasan", hu: "Umm an Nasan-sziget", ro: "Insula Umm an Nasan", en: "Umm an Nasan Island" },
-    coordinates: { lat: 26.14, lng: 50.41 },
+    coords: [50.41, 26.14],
     description: {
       de: "Die viertgrößte Insel Bahrains, die als privates Naturschutzgebiet für Gazellen dient.",
       hu: "Bahrein negyedik legnagyobb szigete, amely gazellák magán-természetvédelmi területe.",
@@ -1162,7 +1162,7 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "bahrain-fasht-al-adhom-life-v2",
     type: "wildlife",
     name: { de: "Fasht al-Adhom", hu: "Fasht al-Adhom zátony", ro: "Fasht al-Adhom", en: "Fasht al-Adhom" },
-    coordinates: { lat: 26.25, lng: 50.85 },
+    coords: [50.85, 26.25],
     description: {
       de: "Eines der größten Korallenriffe Bahrains und ein wichtiges Ökosystem für Meereslebewesen.",
       hu: "Bahrein egyik legnagyobb korallzátonya és fontos tengeri ökoszisztéma.",

@@ -816,7 +816,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-lukang-cities-v2",
     type: "town",
     name: { de: "Lukang", hu: "Lukang", ro: "Lukang", en: "Lukang" },
-    coordinates: { lat: 24.0583, lng: 120.4353 },
+    coords: [120.4353, 24.0583],
     description: {
       de: "Eine historische Stadt im Landkreis Changhua, bekannt für ihre engen Gassen und jahrhundertealten Tempel.",
       hu: "Történelmi város Changhua megyében, amely szűk utcáiról és évszázados templomairól ismert.",
@@ -835,7 +835,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-puli-cities-v2",
     type: "town",
     name: { de: "Puli", hu: "Puli", ro: "Puli", en: "Puli" },
-    coordinates: { lat: 23.9667, lng: 120.9667 },
+    coords: [120.9667, 23.9667],
     description: {
       de: "Puli liegt im geografischen Zentrum von Taiwan und ist ein Tor zum Sun Moon Lake und den Bergen.",
       hu: "Puli Tajvan földrajzi középpontjában fekszik, és kapuként szolgál a Nap-Hold-tóhoz.",
@@ -854,7 +854,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-meinong-cities-v2",
     type: "town",
     name: { de: "Meinong", hu: "Meinong", ro: "Meinong", en: "Meinong" },
-    coordinates: { lat: 22.8986, lng: 120.5489 },
+    coords: [120.5489, 22.8986],
     description: {
       de: "Meinong ist ein wichtiges Zentrum der Hakka-Kultur in Süd-Taiwan, bekannt für seine Öl-Papier-Schirme.",
       hu: "Meinong a hakka kultúra jelentős központja Dél-Tajvanon, papírernyőiről híres.",
@@ -873,7 +873,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-suao-cities-v2",
     type: "town",
     name: { de: "Suao", hu: "Suao", ro: "Suao", en: "Suao" },
-    coordinates: { lat: 24.5951, lng: 121.8522 },
+    coords: [121.8522, 24.5951],
     description: {
       de: "Suao ist eine Hafenstadt im Landkreis Yilan, bekannt für ihre seltenen Kaltwasserquellen.",
       hu: "Suao egy kikötőváros Yilan megyében, amely ritka hidegvizes forrásairól ismert.",
@@ -892,7 +892,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-jiaoxi-cities-v2",
     type: "town",
     name: { de: "Jiaoxi", hu: "Jiaoxi", ro: "Jiaoxi", en: "Jiaoxi" },
-    coordinates: { lat: 24.8294, lng: 121.7719 },
+    coords: [121.7719, 24.8294],
     description: {
       de: "Jiaoxi ist ein beliebter Ferienort im Landkreis Yilan, berühmt für seine Thermalquellen im Flachland.",
       hu: "Jiaoxi népszerű üdülőhely Yilan megyében, híres síksági melegvízű forrásairól.",
@@ -911,7 +911,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-toucheng-cities-v2",
     type: "town",
     name: { de: "Toucheng", hu: "Toucheng", ro: "Toucheng", en: "Toucheng" },
-    coordinates: { lat: 24.8591, lng: 121.8239 },
+    coords: [121.8239, 24.8591],
     description: {
       de: "Toucheng ist die älteste Stadt im Landkreis Yilan und bekannt für den Hafen Wushi und das Lanyang-Museum.",
       hu: "Toucheng Yilan megye legrégebbi városa, ismert a Wushi-kikötőről és a Lanyang Múzeumról.",
@@ -930,7 +930,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-sanxia-cities-v2",
     type: "town",
     name: { de: "Sanxia", hu: "Sanxia", ro: "Sanxia", en: "Sanxia" },
-    coordinates: { lat: 24.9351, lng: 121.3711 },
+    coords: [121.3711, 24.9351],
     description: {
       de: "Sanxia in Neu-Taipeh ist berühmt für den Zushi-Tempel und seine gut erhaltene historische Geschäftsstraße.",
       hu: "Sanxia Új-Tajpejben található, híres a Zushi-templomáról és a jól megőrzött történelmi sétálóutcájáról.",
@@ -949,7 +949,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-yingge-cities-v2",
     type: "town",
     name: { de: "Yingge", hu: "Yingge", ro: "Yingge", en: "Yingge" },
-    coordinates: { lat: 24.9547, lng: 121.3551 },
+    coords: [121.3551, 24.9547],
     description: {
       de: "Yingge ist Taiwans Hauptstadt der Keramik, mit zahlreichen Werkstätten und einem spezialisierten Keramikmuseum.",
       hu: "Yingge Tajvan kerámia fővárosa, számos műhellyel és egy specializált kerámia múzeummal.",
@@ -968,7 +968,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-beidou-cities-v2",
     type: "town",
     name: { de: "Beidou", hu: "Beidou", ro: "Beidou", en: "Beidou" },
-    coordinates: { lat: 23.8739, lng: 120.5261 },
+    coords: [120.5261, 23.8739],
     description: {
       de: "Beidou im Landkreis Changhua ist ein historischer Binnenhafen, berühmt für seine kulinarischen Spezialitäten.",
       hu: "Beidou Changhua megyében egy történelmi folyami kikötő, amely kulináris különlegességeiről híres.",
@@ -987,7 +987,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-xiluo-cities-v2",
     type: "town",
     name: { de: "Xiluo", hu: "Xiluo", ro: "Xiluo", en: "Xiluo" },
-    coordinates: { lat: 23.8011, lng: 120.4631 },
+    coords: [120.4631, 23.8011],
     description: {
       de: "Xiluo ist eine historische Stadt am Zhuoshui-Fluss, berühmt für ihre Sojasauce und die historische rote Brücke.",
       hu: "Xiluo egy történelmi város a Zhuoshui-folyónál, híres szójaszószáról és a történelmi vörös hídról.",
@@ -1006,7 +1006,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-minxiong-cities-v2",
     type: "town",
     name: { de: "Minxiong", hu: "Minxiong", ro: "Minxiong", en: "Minxiong" },
-    coordinates: { lat: 23.5517, lng: 120.4303 },
+    coords: [120.4303, 23.5517],
     description: {
       de: "Minxiong ist die größte Stadt im Landkreis Chiayi und bekannt für seine Ananasproduktion und Bildungseinrichtungen.",
       hu: "Minxiong Chiayi megye legnagyobb városa, híres ananásztermeléséről és oktatási intézményeiről.",
@@ -1025,7 +1025,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-fengyuan-cities-v2",
     type: "city",
     name: { de: "Fengyuan", hu: "Fengyuan", ro: "Fengyuan", en: "Fengyuan" },
-    coordinates: { lat: 24.2547, lng: 120.7225 },
+    coords: [120.7225, 24.2547],
     description: {
       de: "Fengyuan ist ein bedeutendes Wirtschaftszentrum in Taichung, bekannt für seine Gebäcktradition und Nachtmärkte.",
       hu: "Fengyuan Taichung jelentős gazdasági központja, híres süteménygyártásáról és éjszakai piacairól.",
@@ -1044,7 +1044,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-zhunan-cities-v2",
     type: "town",
     name: { de: "Zhunan", hu: "Zhunan", ro: "Zhunan", en: "Zhunan" },
-    coordinates: { lat: 24.6853, lng: 120.8753 },
+    coords: [120.8753, 24.6853],
     description: {
       de: "Zhunan ist ein wichtiger Verkehrsknotenpunkt und Industriestandort an der Küste des Landkreises Miaoli.",
       hu: "Zhunan egy fontos közlekedési csomópont és ipari központ Miaoli megye tengerpartján.",
@@ -1063,7 +1063,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-sanyi-cities-v2",
     type: "town",
     name: { de: "Sanyi", hu: "Sanyi", ro: "Sanyi", en: "Sanyi" },
-    coordinates: { lat: 24.4121, lng: 120.7711 },
+    coords: [120.7711, 24.4121],
     description: {
       de: "Sanyi ist Taiwans berühmtestes Zentrum für Holzschnitzerei, gelegen in den nebligen Bergen von Miaoli.",
       hu: "Sanyi Tajvan leghíresebb fafaragó központja, Miaoli ködös hegyei között fekszik.",
@@ -1082,7 +1082,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-hukou-cities-v2",
     type: "town",
     name: { de: "Hukou", hu: "Hukou", ro: "Hukou", en: "Hukou" },
-    coordinates: { lat: 24.9039, lng: 121.0511 },
+    coords: [121.0511, 24.9039],
     description: {
       de: "Hukou im Landkreis Hsinchu ist bekannt für seine historische Barockstraße und seine militärische Bedeutung.",
       hu: "Hukou Hsinchu megyében barokk történelmi utcájáról és katonai jelentőségéről ismert.",
@@ -1101,7 +1101,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-jinshan-cities-v2",
     type: "town",
     name: { de: "Jinshan", hu: "Jinshan", ro: "Jinshan", en: "Jinshan" },
-    coordinates: { lat: 25.2219, lng: 121.6386 },
+    coords: [121.6386, 25.2219],
     description: {
       de: "Jinshan liegt an der Nordküste und ist berühmt für seine Thermalquellen und Süßkartoffeln.",
       hu: "Jinshan az északi parton fekszik, híres melegvízű forrásairól és édesburgonyájáról.",
@@ -1120,7 +1120,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-ruifang-cities-v2",
     type: "town",
     name: { de: "Ruifang", hu: "Ruifang", ro: "Ruifang", en: "Ruifang" },
-    coordinates: { lat: 25.1119, lng: 121.8101 },
+    coords: [121.8101, 25.1119],
     description: {
       de: "Ruifang ist ein ehemaliges Bergbauzentrum und heute der Hauptzugang zu den Touristenorten Jiufen und Shifen.",
       hu: "Ruifang egykori bányászati központ, ma a Jiufen és Shifen turisztikai helyszínek fő kapuja.",
@@ -1139,7 +1139,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-wulai-cities-v2",
     type: "village",
     name: { de: "Wulai", hu: "Wulai", ro: "Wulai", en: "Wulai" },
-    coordinates: { lat: 24.8639, lng: 121.5511 },
+    coords: [121.5511, 24.8639],
     description: {
       de: "Wulai ist ein Bergdorf bei Taipeh, berühmt für seine indigenen Atayal-Wurzeln und natürlichen Thermalquellen.",
       hu: "Wulai egy hegyi falu Tajpej közelében, híres atayal őslakos gyökereiről és természetes forrásairól.",
@@ -1158,7 +1158,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-bali-cities-v2",
     type: "town",
     name: { de: "Bali", hu: "Bali", ro: "Bali", en: "Bali" },
-    coordinates: { lat: 25.1501, lng: 121.4001 },
+    coords: [121.4001, 25.1501],
     description: {
       de: "Bali liegt an der Mündung des Tamsui-Flusses und ist bekannt für seine archäologischen Stätten und Uferpromenaden.",
       hu: "Bali a Tamsui-folyó torkolatánál fekszik, régészeti lelőhelyeiről és vízparti sétányairól ismert.",
@@ -1177,7 +1177,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-linkou-cities-v2",
     type: "town",
     name: { de: "Linkou", hu: "Linkou", ro: "Linkou", en: "Linkou" },
-    coordinates: { lat: 25.0811, lng: 121.3911 },
+    coords: [121.3911, 25.0811],
     description: {
       de: "Linkou ist eine moderne Planstadt auf einem Plateau, bekannt für seine Einkaufszentren und Wohnanlagen.",
       hu: "Linkou egy modern tervezett város egy fennsíkon, bevásárlóközpontjairól és lakóparkjairól ismert.",
@@ -1196,7 +1196,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-zhongli-cities-v2",
     type: "city",
     name: { de: "Zhongli", hu: "Zhongli", ro: "Zhongli", en: "Zhongli" },
-    coordinates: { lat: 24.9651, lng: 121.2211 },
+    coords: [121.2211, 24.9651],
     description: {
       de: "Zhongli ist ein wichtiges Bildungs- und Industriezentrum in Taoyuan mit einer vielfältigen Bevölkerung.",
       hu: "Zhongli Taoyuan jelentős oktatási és ipari központja, sokszínű lakossággal.",
@@ -1215,7 +1215,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-bade-cities-v2",
     type: "city",
     name: { de: "Bade", hu: "Bade", ro: "Bade", en: "Bade" },
-    coordinates: { lat: 24.9311, lng: 121.2911 },
+    coords: [121.2911, 24.9311],
     description: {
       de: "Bade ist ein schnell wachsender Bezirk in Taoyuan, bekannt für seine künstlichen Teiche und Grüngürtel.",
       hu: "Bade Taoyuan gyorsan növekvő kerülete, mesterséges tavairól és zöldövezeteiről ismert.",
@@ -1234,7 +1234,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-yangmei-cities-v2",
     type: "city",
     name: { de: "Yangmei", hu: "Yangmei", ro: "Yangmei", en: "Yangmei" },
-    coordinates: { lat: 24.9101, lng: 121.1501 },
+    coords: [121.1501, 24.9101],
     description: {
       de: "Yangmei ist ein bedeutender Industriestandort und Sitz einer Teeforschungsstation im Süden von Taoyuan.",
       hu: "Yangmei jelentős ipari helyszín és egy teakutató állomás székhelye Taoyuan déli részén.",
@@ -1253,7 +1253,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-longtan-cities-v2",
     type: "town",
     name: { de: "Longtan", hu: "Longtan", ro: "Longtan", en: "Longtan" },
-    coordinates: { lat: 24.8651, lng: 121.2111 },
+    coords: [121.2111, 24.8651],
     description: {
       de: "Longtan ist bekannt für seinen großen Teich und als strategischer Standort für Taiwans Militär und Technologie.",
       hu: "Longtan nagy taváról, valamint Tajvan katonai és technológiai stratégiai helyszíneként ismert.",
@@ -1272,7 +1272,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-guishan-cities-v2",
     type: "city",
     name: { de: "Guishan", hu: "Guishan", ro: "Guishan", en: "Guishan" },
-    coordinates: { lat: 25.0001, lng: 121.3411 },
+    coords: [121.3411, 25.0001],
     description: {
       de: "Guishan ist ein wichtiger Bildungs- und Gesundheitsstandort in Taoyuan, direkt angrenzend an Neu-Taipeh.",
       hu: "Guishan Taoyuan fontos oktatási és egészségügyi helyszíne, közvetlenül Új-Tajpej szomszédságában.",
@@ -1291,7 +1291,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-madou-cities-v2",
     type: "town",
     name: { de: "Madou", hu: "Madou", ro: "Madou", en: "Madou" },
-    coordinates: { lat: 23.1811, lng: 120.2501 },
+    coords: [120.2501, 23.1811],
     description: {
       de: "Madou im Landkreis Tainan ist berühmt für seine Zitrusfrüchte und seine reiche religiöse Tradition.",
       hu: "Madou Tainan megyében híres citrusféléiről és gazdag vallási hagyományairól.",
@@ -1310,7 +1310,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-xinhua-cities-v2",
     type: "town",
     name: { de: "Xinhua", hu: "Xinhua", ro: "Xinhua", en: "Xinhua" },
-    coordinates: { lat: 23.0331, lng: 120.3331 },
+    coords: [120.3331, 23.0331],
     description: {
       de: "Xinhua ist eine historische Stadt in Tainan, bekannt für ihre Architektur aus der japanischen Zeit und ihre Süßkartoffeln.",
       hu: "Xinhua egy történelmi város Tainanban, a japán korszak építészetéről és édesburgonyájáról ismert.",
@@ -1329,7 +1329,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "taiwan-jiji-cities-v2",
     type: "town",
     name: { de: "Jiji", hu: "Dzsidzsi", ro: "Jiji", en: "Jiji" },
-    coordinates: { lat: 23.8311, lng: 120.7831 },
+    coords: [120.7831, 23.8311],
     description: {
       de: "Jiji ist eine charmante Kleinstadt im Landkreis Nantou, berühmt für ihren historischen Bahnhof und Radwege.",
       hu: "Jiji egy bájos kisváros Nantou megyében, híres történelmi vasútállomásáról és kerékpárútjairól.",

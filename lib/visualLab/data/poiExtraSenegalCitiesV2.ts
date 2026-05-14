@@ -205,7 +205,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-cities-v2",
     type: "city",
     name: { de: "Kolda", hu: "Kolda", ro: "Kolda", en: "Kolda" },
-    coordinates: { lat: 12.8955, lng: -14.9451 },
+    coords: [-14.9451, 12.8955],
     description: {
       de: "Kolda ist eine Stadt in der Casamance-Region am Ufer des Casamance-Flusses. Sie dient als wichtiges regionales Handelszentrum für landwirtschaftliche Erzeugnisse.",
       hu: "Kolda a Casamance régió egyik városa, a Casamance folyó partján fekszik. Fontos regionális kereskedelmi központ a mezőgazdasági termékek számára.",
@@ -224,7 +224,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-louga-cities-v2",
     type: "city",
     name: { de: "Louga", hu: "Louga", ro: "Louga", en: "Louga" },
-    coordinates: { lat: 15.6136, lng: -16.2238 },
+    coords: [-16.2238, 15.6136],
     description: {
       de: "Louga liegt im Nordwesten des Landes zwischen Saint-Louis und Touba. Die Stadt ist bekannt für ihr Handwerk und als Knotenpunkt im Erdnussbecken.",
       hu: "Louga az ország északnyugati részén fekszik, Saint-Louis és Touba között. A város kézművességéről és a földimogyoró-medence csomópontjaként ismert.",
@@ -243,7 +243,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-fatick-cities-v2",
     type: "city",
     name: { de: "Fatick", hu: "Fatick", ro: "Fatick", en: "Fatick" },
-    coordinates: { lat: 14.3486, lng: -16.5865 },
+    coords: [-16.5865, 14.3486],
     description: {
       de: "Fatick ist eine bedeutende Stadt im zentralen Senegal und das Verwaltungszentrum der gleichnamigen Region. Sie liegt in der Nähe des Sine-Saloum-Deltas.",
       hu: "Fatick jelentős város Szenegál középső részén, az azonos nevű régió közigazgatási központja. A Sine-Saloum delta közelében fekszik.",
@@ -262,7 +262,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-tambacounda-cities-v2",
     type: "city",
     name: { de: "Tambacounda", hu: "Tambacounda", ro: "Tambacounda", en: "Tambacounda" },
-    coordinates: { lat: 13.7745, lng: -13.6672 },
+    coords: [-13.6672, 13.7745],
     description: {
       de: "Tambacounda liegt im Osten des Landes und ist die größte Stadt in diesem Gebiet. Sie dient als wichtiges Tor zum Niokolo-Koba-Nationalpark.",
       hu: "Tambacounda az ország keleti részén fekszik, és a legnagyobb város ebben a térségben. Fontos kapuként szolgál a Niokolo-Koba Nemzeti Park felé.",
@@ -281,7 +281,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-diourbel-cities-v2",
     type: "city",
     name: { de: "Diourbel", hu: "Diourbel", ro: "Diourbel", en: "Diourbel" },
-    coordinates: { lat: 14.654, lng: -16.2407 },
+    coords: [-16.2407, 14.654],
     description: {
       de: "Diourbel befindet sich im Herzen des Erdnussbeckens. Die Stadt ist für ihre große Moschee und ihre Rolle im religiösen Leben der Mouriden bekannt.",
       hu: "Diourbel a földimogyoró-medence szívében található. A város nagy mecsetjéről és a muridizmus vallási életében betöltött szerepéről ismert.",
@@ -300,7 +300,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-tivaouane-cities-v2",
     type: "city",
     name: { de: "Tivaouane", hu: "Tivaouane", ro: "Tivaouane", en: "Tivaouane" },
-    coordinates: { lat: 14.958, lng: -16.818 },
+    coords: [-16.818, 14.958],
     description: {
       de: "Tivaouane ist eine Stadt in der Region Thiès und ein bedeutendes Zentrum der Tidjani-Sufi-Bruderschaft. Sie zieht jährlich zahlreiche Pilger an.",
       hu: "Tivaouane egy város Thiès régióban, a Tidjani szúfi testvériség jelentős központja. Évente számos zarándokot vonz.",
@@ -319,7 +319,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-town-v2",
     type: "city",
     name: { de: "Vélingara", hu: "Vélingara", ro: "Vélingara", en: "Vélingara" },
-    coordinates: { lat: 12.8797, lng: -14.1294 },
+    coords: [-14.1294, 12.8797],
     description: {
       de: "Vélingara liegt im Süden des Senegal nahe der Grenze zu Guinea-Bissau und Gambia. Die Stadt ist ein lokaler Marktort für den Agrarsektor.",
       hu: "Vélingara Szenegál déli részén fekszik, Guinea-Bissau és Gambia határának közelében. A város helyi piac a mezőgazdasági szektor számára.",
@@ -338,7 +338,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-podor-cities-v2",
     type: "city",
     name: { de: "Podor", hu: "Podor", ro: "Podor", en: "Podor" },
-    coordinates: { lat: 16.6496, lng: -14.9658 },
+    coords: [-14.9658, 16.6496],
     description: {
       de: "Podor liegt am Senegal-Fluss an der Grenze zu Mauretanien. Die Stadt besitzt einen historischen Stadtkern und ein altes Fort aus der Kolonialzeit.",
       hu: "Podor a Szenegál folyó partján fekszik, Mauritánia határán. A város történelmi városközponttal és egy régi gyarmati erődítménnyel rendelkezik.",
@@ -357,7 +357,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-matam-cities-v2",
     type: "city",
     name: { de: "Matam", hu: "Matam", ro: "Matam", en: "Matam" },
-    coordinates: { lat: 15.6587, lng: -13.2547 },
+    coords: [-13.2547, 15.6587],
     description: {
       de: "Matam liegt im Nordosten des Landes direkt am Senegal-Fluss. Die Stadt ist ein administratives und wirtschaftliches Zentrum für die Region Matam.",
       hu: "Matam az ország északkeleti részén fekszik, közvetlenül a Szenegál folyó partján. A város a Matam régió közigazgatási és gazdasági központja.",
@@ -376,7 +376,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-bakel-cities-v2",
     type: "city",
     name: { de: "Bakel", hu: "Bakel", ro: "Bakel", en: "Bakel" },
-    coordinates: { lat: 14.9085, lng: -12.4673 },
+    coords: [-12.4673, 14.9085],
     description: {
       de: "Bakel liegt im Osten des Landes am Zusammenfluss von Senegal- und Falémé-Fluss. Die Stadt war historisch ein bedeutender Stützpunkt für den Handel.",
       hu: "Bakel az ország keleti részén fekszik, a Szenegál és a Falémé folyók összefolyásánál. A város történelmileg fontos kereskedelmi állomás volt.",
@@ -395,7 +395,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-sédhiou-v2",
     type: "city",
     name: { de: "Sédhiou", hu: "Sédhiou", ro: "Sédhiou", en: "Sédhiou" },
-    coordinates: { lat: 12.7093, lng: -15.5567 },
+    coords: [-15.5567, 12.7093],
     description: {
       de: "Sédhiou liegt in der Casamance-Region am Casamance-Fluss. Die Stadt dient als Verwaltungszentrum und Marktort für die umliegende Landwirtschaft.",
       hu: "Sédhiou a Casamance régióban fekszik, a Casamance folyó partján. A város adminisztratív központként és mezőgazdasági vásárhelyként szolgál.",
@@ -414,7 +414,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-guédiawaye-cities-v2",
     type: "city",
     name: { de: "Guédiawaye", hu: "Guédiawaye", ro: "Guédiawaye", en: "Guédiawaye" },
-    coordinates: { lat: 14.764, lng: -17.375 },
+    coords: [-17.375, 14.764],
     description: {
       de: "Guédiawaye ist eine dicht besiedelte Stadt nahe Dakar. Sie ist ein bedeutendes urbanes Zentrum in der Agglomeration der Hauptstadt.",
       hu: "Guédiawaye egy sűrűn lakott város Dakar közelében. A főváros agglomerációjának jelentős városi központja.",
@@ -433,7 +433,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-pikine-mbao-v2",
     type: "city",
     name: { de: "Mbao", hu: "Mbao", ro: "Mbao", en: "Mbao" },
-    coordinates: { lat: 14.743, lng: -17.324 },
+    coords: [-17.324, 14.743],
     description: {
       de: "Mbao ist eine Stadt im Großraum Dakar. Sie ist bekannt für ihre industrielle Bedeutung und ihre Nähe zum Mbao-Waldgebiet.",
       hu: "Mbao egy város a nagy Dakar területén. Ipari jelentőségéről és a Mbao erdőhöz való közelségéről ismert.",
@@ -452,7 +452,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-touba-diourbel-v2",
     type: "city",
     name: { de: "Mbacké", hu: "Mbacké", ro: "Mbacké", en: "Mbacké" },
-    coordinates: { lat: 14.793, lng: -16.11 },
+    coords: [-16.11, 14.793],
     description: {
       de: "Mbacké ist eine bedeutende Stadt nahe Touba. Sie ist eng mit der religiösen Geschichte der Mouriden-Bruderschaft verbunden.",
       hu: "Mbacké egy jelentős város Touba közelében. Szorosan kapcsolódik a muridizmus vallási történetéhez.",
@@ -471,7 +471,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kiffa-cities-v2",
     type: "city",
     name: { de: "Kébémer", hu: "Kébémer", ro: "Kébémer", en: "Kébémer" },
-    coordinates: { lat: 15.378, lng: -16.45 },
+    coords: [-16.45, 15.378],
     description: {
       de: "Kébémer liegt in der Region Louga. Die Stadt dient als lokaler Knotenpunkt für den Handel mit Erdnüssen und für das lokale Gewerbe.",
       hu: "Kébémer Louga régióban fekszik. A város helyi csomópontként szolgál a földimogyoró-kereskedelem és a helyi ipar számára.",
@@ -490,7 +490,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-ngor-cities-v2",
     type: "city",
     name: { de: "Ngor", hu: "Ngor", ro: "Ngor", en: "Ngor" },
-    coordinates: { lat: 14.75, lng: -17.51 },
+    coords: [-17.51, 14.75],
     description: {
       de: "Ngor ist ein Küstenort im Großraum Dakar. Bekannt für seine Strände und die kleine vorgelagerte Insel Île de Ngor.",
       hu: "Ngor egy tengerparti város a nagy Dakar területén. Ismert strandjairól és az Île de Ngor nevű kis szigetről.",
@@ -509,7 +509,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kédougou-cities-v2",
     type: "city",
     name: { de: "Kédougou", hu: "Kédougou", ro: "Kédougou", en: "Kédougou" },
-    coordinates: { lat: 12.55, lng: -12.18 },
+    coords: [-12.18, 12.55],
     description: {
       de: "Kédougou liegt im äußersten Südosten des Senegal. Es ist das Tor zu den bergigen Regionen und den Nationalparks des Südens.",
       hu: "Kédougou Szenegál legdélkeletibb részén fekszik. Kapu a déli hegyvidéki régiók és a nemzeti parkok felé.",
@@ -528,7 +528,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-nioro-du-rip-v2",
     type: "city",
     name: { de: "Nioro du Rip", hu: "Nioro du Rip", ro: "Nioro du Rip", en: "Nioro du Rip" },
-    coordinates: { lat: 13.75, lng: -15.78 },
+    coords: [-15.78, 13.75],
     description: {
       de: "Nioro du Rip liegt in der Region Kaolack nahe der Grenze zu Gambia. Die Stadt ist ein wichtiger lokaler Marktort.",
       hu: "Nioro du Rip Kaolack régióban fekszik, Gambia határának közelében. A város fontos helyi piac.",
@@ -547,7 +547,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-richard-toll-cities-v2",
     type: "city",
     name: { de: "Richard Toll", hu: "Richard Toll", ro: "Richard Toll", en: "Richard Toll" },
-    coordinates: { lat: 16.45, lng: -15.7 },
+    coords: [-15.7, 16.45],
     description: {
       de: "Richard Toll liegt am Senegal-Fluss und ist berühmt für seine Zuckerrohrplantagen. Die Stadt besitzt eine große Zuckerfabrik.",
       hu: "Richard Toll a Szenegál folyó partján fekszik, cukornádültetvényeiről híres. A város nagy cukorgyárral rendelkezik.",
@@ -566,7 +566,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-bambey-cities-v2",
     type: "city",
     name: { de: "Bambey", hu: "Bambey", ro: "Bambey", en: "Bambey" },
-    coordinates: { lat: 14.69, lng: -16.48 },
+    coords: [-16.48, 14.69],
     description: {
       de: "Bambey liegt in der Region Diourbel. Die Stadt ist ein Knotenpunkt für den Handel und bekannt für ihre Universitätseinrichtungen.",
       hu: "Bambey Diourbel régióban fekszik. A város kereskedelmi csomópont, egyetemi intézményeiről ismert.",
@@ -585,7 +585,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-goudiry-cities-v2",
     type: "city",
     name: { de: "Goudiry", hu: "Goudiry", ro: "Goudiry", en: "Goudiry" },
-    coordinates: { lat: 14.17, lng: -12.72 },
+    coords: [-12.72, 14.17],
     description: {
       de: "Goudiry liegt in der Region Tambacounda. Die Stadt ist ein lokales Zentrum in einer ländlich geprägten, trockenen Region im Osten.",
       hu: "Goudiry Tambacounda régióban fekszik. A város helyi központ egy vidéki, száraz régióban keleten.",
@@ -604,7 +604,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kanel-cities-v2",
     type: "city",
     name: { de: "Kanel", hu: "Kanel", ro: "Kanel", en: "Kanel" },
-    coordinates: { lat: 15.48, lng: -13.17 },
+    coords: [-13.17, 15.48],
     description: {
       de: "Kanel liegt in der Region Matam. Die Stadt ist ein wichtiges lokales Zentrum am Rande des Senegal-Flusstals.",
       hu: "Kanel Matam régióban fekszik. A város fontos helyi központ a Szenegál folyóvölgyének szélén.",
@@ -623,7 +623,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-ourossogui-cities-v2",
     type: "city",
     name: { de: "Ourossogui", hu: "Ourossogui", ro: "Ourossogui", en: "Ourossogui" },
-    coordinates: { lat: 15.6, lng: -13.35 },
+    coords: [-13.35, 15.6],
     description: {
       de: "Ourossogui liegt in der Region Matam und ist ein wichtiger Verkehrsknotenpunkt. Die Stadt ist bekannt für ihren regen Handel.",
       hu: "Ourossogui Matam régióban fekszik, fontos közlekedési csomópont. A város az élénk kereskedelemről ismert.",
@@ -642,7 +642,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-mekhe-cities-v2",
     type: "city",
     name: { de: "Mékhé", hu: "Mékhé", ro: "Mékhé", en: "Mékhé" },
-    coordinates: { lat: 15.1, lng: -16.6 },
+    coords: [-16.6, 15.1],
     description: {
       de: "Mékhé liegt in der Region Thiès. Die Stadt ist für ihre Schuhproduktion und ihr lokales Handwerk bekannt.",
       hu: "Mékhé Thiès régióban fekszik. A város cipőgyártásáról és helyi kézművességéről ismert.",
@@ -661,7 +661,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-tivaouane-diaksao-v2",
     type: "city",
     name: { de: "Diaksao", hu: "Diaksao", ro: "Diaksao", en: "Diaksao" },
-    coordinates: { lat: 14.78, lng: -17.38 },
+    coords: [-17.38, 14.78],
     description: {
       de: "Diaksao ist ein urbanes Zentrum im Großraum Dakar. Die Stadt beherbergt eine lebendige Handelsgemeinschaft.",
       hu: "Diaksao egy városi központ Dakar nagy területén. Élénk kereskedelmi közösségnek ad otthont.",
@@ -680,7 +680,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-thiès-keur-moussa-v2",
     type: "city",
     name: { de: "Keur Moussa", hu: "Keur Moussa", ro: "Keur Moussa", en: "Keur Moussa" },
-    coordinates: { lat: 14.8, lng: -17.1 },
+    coords: [-17.1, 14.8],
     description: {
       de: "Keur Moussa ist eine Ortschaft bei Thiès, bekannt für seine Abtei und das friedliche landwirtschaftliche Umland.",
       hu: "Keur Moussa egy település Thiès mellett, apátságáról és békés mezőgazdasági környezetéről ismert.",
@@ -699,7 +699,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-faoune-v2",
     type: "city",
     name: { de: "Faoune", hu: "Faoune", ro: "Faoune", en: "Faoune" },
-    coordinates: { lat: 12.6, lng: -15.2 },
+    coords: [-15.2, 12.6],
     description: {
       de: "Faoune ist eine Stadt in der Casamance-Region, die als lokaler Marktort für die Umgebung dient.",
       hu: "Faoune egy város a Casamance régióban, amely helyi vásárhelyként szolgál a környék számára.",
@@ -718,7 +718,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-bignona-cities-v2",
     type: "city",
     name: { de: "Bignona", hu: "Bignona", ro: "Bignona", en: "Bignona" },
-    coordinates: { lat: 12.78, lng: -16.2 },
+    coords: [-16.2, 12.78],
     description: {
       de: "Bignona ist eine bedeutende Stadt in der Region Ziguinchor. Sie fungiert als administratives und wirtschaftliches Zentrum der nördlichen Casamance.",
       hu: "Bignona fontos város Ziguinchor régióban. Észak-Casamance közigazgatási és gazdasági központjaként működik.",
@@ -737,7 +737,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-dakar-ouakam-v2",
     type: "city",
     name: { de: "Ouakam", hu: "Ouakam", ro: "Ouakam", en: "Ouakam" },
-    coordinates: { lat: 14.72, lng: -17.48 },
+    coords: [-17.48, 14.72],
     description: {
       de: "Ouakam ist ein Stadtviertel und ehemaliger Fischerort bei Dakar. Heute ist es ein dicht besiedeltes urbanes Zentrum.",
       hu: "Ouakam egy városnegyed és egykori halászfalu Dakar mellett. Ma sűrűn lakott városi központ.",
@@ -756,7 +756,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-medina-yoro-v2",
     type: "city",
     name: { de: "Médina Yoro Foulah", hu: "Médina Yoro Foulah", ro: "Médina Yoro Foulah", en: "Médina Yoro Foulah" },
-    coordinates: { lat: 13.0, lng: -14.3 },
+    coords: [-14.3, 13.0],
     description: {
       de: "Médina Yoro Foulah liegt in der Region Kolda. Es dient als administratives Zentrum für die lokale Bevölkerung im Landesinneren.",
       hu: "Médina Yoro Foulah Kolda régióban fekszik. Helyi adminisztratív központként szolgál a belföldi lakosság számára.",
@@ -775,7 +775,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-gandiaye-cities-v2",
     type: "city",
     name: { de: "Gandiaye", hu: "Gandiaye", ro: "Gandiaye", en: "Gandiaye" },
-    coordinates: { lat: 14.28, lng: -16.3 },
+    coords: [-16.3, 14.28],
     description: {
       de: "Gandiaye liegt in der Nähe von Kaolack. Die Stadt ist ein lokales Zentrum für den Handel und die umliegende Landwirtschaft.",
       hu: "Gandiaye Kaolack közelében fekszik. A város a kereskedelem és a környező mezőgazdaság helyi központja.",
@@ -794,7 +794,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-koussanar-cities-v2",
     type: "city",
     name: { de: "Koussanar", hu: "Koussanar", ro: "Koussanar", en: "Koussanar" },
-    coordinates: { lat: 13.7, lng: -13.3 },
+    coords: [-13.3, 13.7],
     description: {
       de: "Koussanar liegt in der Region Tambacounda. Die Stadt ist ein bedeutender Haltepunkt und Marktort an der Verkehrsverbindung.",
       hu: "Koussanar Tambacounda régióban fekszik. A város fontos megállóhely és piac a közlekedési összeköttetésen.",
@@ -813,7 +813,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-sokone-cities-v2",
     type: "city",
     name: { de: "Sokone", hu: "Sokone", ro: "Sokone", en: "Sokone" },
-    coordinates: { lat: 13.88, lng: -16.38 },
+    coords: [-16.38, 13.88],
     description: {
       de: "Sokone liegt in der Region Fatick nahe dem Saloum-Delta. Die Stadt ist bekannt für ihre Rolle im Handel und in der Fischerei.",
       hu: "Sokone Fatick régióban fekszik, a Saloum-delta közelében. A város kereskedelmi és halászati szerepéről ismert.",
@@ -832,7 +832,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-fick-cities-v2",
     type: "city",
     name: { de: "Foundiougne", hu: "Foundiougne", ro: "Foundiougne", en: "Foundiougne" },
-    coordinates: { lat: 14.12, lng: -16.48 },
+    coords: [-16.48, 14.12],
     description: {
       de: "Foundiougne liegt in der Region Fatick am Saloum-Fluss. Die Stadt ist ein wichtiger Hafenstandort für die lokale Schifffahrt.",
       hu: "Foundiougne Fatick régióban fekszik, a Saloum folyó partján. A város fontos kikötő a helyi hajózás számára.",
@@ -851,7 +851,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-nioro-cities-v2",
     type: "city",
     name: { de: "Nioro", hu: "Nioro", ro: "Nioro", en: "Nioro" },
-    coordinates: { lat: 13.78, lng: -15.79 },
+    coords: [-15.79, 13.78],
     description: {
       de: "Nioro ist eine Ortschaft in der Region Kaolack. Die Stadt dient als lokaler Mittelpunkt für die Umgebung.",
       hu: "Nioro egy település Kaolack régióban. A város a környezet helyi központjaként szolgál.",
@@ -870,7 +870,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kaffrine-cities-v2",
     type: "city",
     name: { de: "Kaffrine", hu: "Kaffrine", ro: "Kaffrine", en: "Kaffrine" },
-    coordinates: { lat: 14.1, lng: -15.5 },
+    coords: [-15.5, 14.1],
     description: {
       de: "Kaffrine liegt im Zentrum des Senegal. Die Stadt ist das Verwaltungszentrum der Region Kaffrine.",
       hu: "Kaffrine Szenegál központjában fekszik. A város Kaffrine régió adminisztratív központja.",
@@ -889,7 +889,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-koungheul-cities-v2",
     type: "city",
     name: { de: "Koungheul", hu: "Koungheul", ro: "Koungheul", en: "Koungheul" },
-    coordinates: { lat: 13.98, lng: -14.8 },
+    coords: [-14.8, 13.98],
     description: {
       de: "Koungheul liegt in der Region Kaffrine. Die Stadt ist ein wichtiger lokaler Knotenpunkt und Marktort.",
       hu: "Koungheul Kaffrine régióban fekszik. A város fontos helyi csomópont és piachely.",
@@ -908,7 +908,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-malem-hodar-v2",
     type: "city",
     name: { de: "Malem Hodar", hu: "Malem Hodar", ro: "Malem Hodar", en: "Malem Hodar" },
-    coordinates: { lat: 14.15, lng: -15.55 },
+    coords: [-15.55, 14.15],
     description: {
       de: "Malem Hodar liegt in der Region Kaffrine. Die Stadt dient als lokaler Marktplatz für die umliegenden ländlichen Gebiete.",
       hu: "Malem Hodar Kaffrine régióban fekszik. A város helyi piactérként szolgál a környező vidéki területek számára.",
@@ -927,7 +927,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-birkelane-cities-v2",
     type: "city",
     name: { de: "Birkelane", hu: "Birkelane", ro: "Birkelane", en: "Birkelane" },
-    coordinates: { lat: 14.16, lng: -15.8 },
+    coords: [-15.8, 14.16],
     description: {
       de: "Birkelane liegt in der Region Kaffrine. Die Stadt ist ein lokales Zentrum für den Handel und die umliegende Landwirtschaft.",
       hu: "Birkelane Kaffrine régióban fekszik. A város a kereskedelem és a környező mezőgazdaság helyi központja.",
@@ -946,7 +946,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-gossas-cities-v2",
     type: "city",
     name: { de: "Gossas", hu: "Gossas", ro: "Gossas", en: "Gossas" },
-    coordinates: { lat: 14.45, lng: -16.08 },
+    coords: [-16.08, 14.45],
     description: {
       de: "Gossas liegt in der Region Fatick. Die Stadt dient als lokales administratives und wirtschaftliches Zentrum.",
       hu: "Gossas Fatick régióban fekszik. A város helyi adminisztratív és gazdasági központként szolgál.",
@@ -965,7 +965,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-niakhene-cities-v2",
     type: "city",
     name: { de: "Niakhar", hu: "Niakhar", ro: "Niakhar", en: "Niakhar" },
-    coordinates: { lat: 14.5, lng: -16.4 },
+    coords: [-16.4, 14.5],
     description: {
       de: "Niakhar liegt in der Region Fatick. Die Stadt ist ein lokaler Mittelpunkt in einer landwirtschaftlich geprägten Gegend.",
       hu: "Niakhar Fatick régióban fekszik. A város helyi központ egy mezőgazdasági jellegű környéken.",
@@ -984,7 +984,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-passy-cities-v2",
     type: "city",
     name: { de: "Passy", hu: "Passy", ro: "Passy", en: "Passy" },
-    coordinates: { lat: 13.9, lng: -16.2 },
+    coords: [-16.2, 13.9],
     description: {
       de: "Passy liegt in der Region Fatick. Es ist ein lokaler Marktplatz und Zentrum für den Handel in einer ländlichen Region.",
       hu: "Passy Fatick régióban fekszik. Ez egy helyi piactér és a kereskedelem központja egy vidéki régióban.",
@@ -1003,7 +1003,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-guinguineo-cities-v2",
     type: "city",
     name: { de: "Guinguinéo", hu: "Guinguinéo", ro: "Guinguinéo", en: "Guinguinéo" },
-    coordinates: { lat: 14.28, lng: -16.4 },
+    coords: [-16.4, 14.28],
     description: {
       de: "Guinguinéo liegt in der Region Kaolack. Die Stadt ist ein lokaler Knotenpunkt und Handelsplatz.",
       hu: "Guinguinéo Kaolack régióban fekszik. A város helyi csomópont és kereskedelmi hely.",
@@ -1022,7 +1022,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kelle-kelle-v2",
     type: "city",
     name: { de: "Kelle Guèye", hu: "Kelle Guèye", ro: "Kelle Guèye", en: "Kelle Guèye" },
-    coordinates: { lat: 15.2, lng: -16.5 },
+    coords: [-16.5, 15.2],
     description: {
       de: "Kelle Guèye ist eine Ortschaft in der Region Thiès, die als lokaler Handelsort dient.",
       hu: "Kelle Guèye egy település Thiès régióban, amely helyi kereskedelmi helyként szolgál.",
@@ -1041,7 +1041,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-nioro-rip-v2",
     type: "city",
     name: { de: "Paoskoto", hu: "Paoskoto", ro: "Paoskoto", en: "Paoskoto" },
-    coordinates: { lat: 13.8, lng: -15.9 },
+    coords: [-15.9, 13.8],
     description: {
       de: "Paoskoto liegt in der Region Kaolack. Die Stadt dient als lokaler Marktplatz und Zentrum für die Umgebung.",
       hu: "Paoskoto Kaolack régióban fekszik. A város helyi piactérként és a környezet központjaként szolgál.",
@@ -1060,7 +1060,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-diourbel-ndoulo-v2",
     type: "city",
     name: { de: "Ndoulo", hu: "Ndoulo", ro: "Ndoulo", en: "Ndoulo" },
-    coordinates: { lat: 14.65, lng: -16.1 },
+    coords: [-16.1, 14.65],
     description: {
       de: "Ndoulo liegt in der Region Diourbel. Die Stadt ist ein lokales Zentrum für Handel und Landwirtschaft.",
       hu: "Ndoulo Diourbel régióban fekszik. A város a kereskedelem és a mezőgazdaság helyi központja.",
@@ -1079,7 +1079,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-mampatim-v2",
     type: "city",
     name: { de: "Mampatim", hu: "Mampatim", ro: "Mampatim", en: "Mampatim" },
-    coordinates: { lat: 12.8, lng: -14.6 },
+    coords: [-14.6, 12.8],
     description: {
       de: "Mampatim liegt in der Region Kolda. Die Stadt ist ein lokaler Marktplatz und Zentrum für die umliegende Region.",
       hu: "Mampatim Kolda régióban fekszik. A város helyi piactér és központ a környező régió számára.",
@@ -1098,7 +1098,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-thiès-pout-v2",
     type: "city",
     name: { de: "Pout", hu: "Pout", ro: "Pout", en: "Pout" },
-    coordinates: { lat: 14.77, lng: -17.0 },
+    coords: [-17.0, 14.77],
     description: {
       de: "Pout liegt in der Region Thiès nahe Dakar. Die Stadt ist ein wichtiger Umschlagplatz für landwirtschaftliche Produkte.",
       hu: "Pout Thiès régióban fekszik, Dakar közelében. A város mezőgazdasági termékek fontos átrakodóhelye.",
@@ -1117,7 +1117,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-diaobe-v2",
     type: "city",
     name: { de: "Diaobé", hu: "Diaobé", ro: "Diaobé", en: "Diaobé" },
-    coordinates: { lat: 12.6, lng: -14.2 },
+    coords: [-14.2, 12.6],
     description: {
       de: "Diaobé liegt in der Region Kolda nahe der Grenze. Die Stadt ist berühmt für ihren großen, grenzüberschreitenden Wochenmarkt.",
       hu: "Diaobé Kolda régióban fekszik, a határ közelében. A város híres nagy, határon átnyúló heti piacáról.",
@@ -1136,7 +1136,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-ziguinchor-oussouye-v2",
     type: "city",
     name: { de: "Oussouye", hu: "Oussouye", ro: "Oussouye", en: "Oussouye" },
-    coordinates: { lat: 12.48, lng: -16.54 },
+    coords: [-16.54, 12.48],
     description: {
       de: "Oussouye liegt in der Region Ziguinchor in der unteren Casamance. Die Stadt ist ein lokales kulturelles Zentrum der Diola-Bevölkerung.",
       hu: "Oussouye Ziguinchor régióban fekszik, az alsó Casamance-ban. A város a diola népesség helyi kulturális központja.",
@@ -1155,7 +1155,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-tanaff-v2",
     type: "city",
     name: { de: "Tanaff", hu: "Tanaff", ro: "Tanaff", en: "Tanaff" },
-    coordinates: { lat: 12.6, lng: -15.0 },
+    coords: [-15.0, 12.6],
     description: {
       de: "Tanaff liegt in der Casamance-Region. Die Stadt ist ein lokaler Marktort und Zentrum für die Agrarwirtschaft.",
       hu: "Tanaff a Casamance régióban fekszik. A város helyi vásárhely és központ a mezőgazdasági gazdaság számára.",
@@ -1174,7 +1174,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-thiès-ngaye-v2",
     type: "city",
     name: { de: "Ngaye Mékhé", hu: "Ngaye Mékhé", ro: "Ngaye Mékhé", en: "Ngaye Mékhé" },
-    coordinates: { lat: 15.1, lng: -16.6 },
+    coords: [-16.6, 15.1],
     description: {
       de: "Ngaye Mékhé ist eine bedeutende Stadt in der Region Thiès, bekannt für ihr Handwerk, insbesondere die Schuhproduktion.",
       hu: "Ngaye Mékhé fontos város Thiès régióban, ismert kézművességéről, különösen a cipőgyártásról.",
@@ -1193,7 +1193,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-kolda-kolda-v2",
     type: "city",
     name: { de: "Gadoufaï", hu: "Gadoufaï", ro: "Gadoufaï", en: "Gadoufaï" },
-    coordinates: { lat: 12.9, lng: -14.8 },
+    coords: [-14.8, 12.9],
     description: {
       de: "Gadoufaï ist eine lokale Ortschaft in der Region Kolda. Sie dient als Marktort für die ländliche Umgebung.",
       hu: "Gadoufaï egy helyi település Kolda régióban. Piactérként szolgál a vidéki környezet számára.",
@@ -1212,7 +1212,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-fatick-ndangane-v2",
     type: "city",
     name: { de: "Ndangane", hu: "Ndangane", ro: "Ndangane", en: "Ndangane" },
-    coordinates: { lat: 14.0, lng: -16.7 },
+    coords: [-16.7, 14.0],
     description: {
       de: "Ndangane liegt im Saloum-Delta in der Region Fatick. Die Ortschaft ist ein bedeutender Ausgangspunkt für die lokale Schifffahrt.",
       hu: "Ndangane a Saloum-deltában fekszik, Fatick régióban. A település a helyi hajózás fontos kiindulópontja.",
@@ -1231,7 +1231,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "senegal-thiès-diender-v2",
     type: "city",
     name: { de: "Diender", hu: "Diender", ro: "Diender", en: "Diender" },
-    coordinates: { lat: 14.8, lng: -17.0 },
+    coords: [-17.0, 14.8],
     description: {
       de: "Diender liegt in der Region Thiès. Die Stadt ist ein lokales Zentrum für den Gartenbau und den Handel.",
       hu: "Diender Thiès régióban fekszik. A város a kertészet és a kereskedelem helyi központja.",

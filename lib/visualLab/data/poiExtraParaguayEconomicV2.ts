@@ -5,7 +5,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-puerto-falcón-economic-v2",
     type: "port",
     name: { de: "Puerto Falcón", hu: "Puerto Falcón", ro: "Puerto Falcón", en: "Puerto Falcón" },
-    coordinates: { lat: -25.2639, lng: -57.7281 },
+    coords: [-57.7281, -25.2639],
     description: {
       de: "Puerto Falcón ist ein bedeutender Grenzübergang und Logistikstandort nahe Asunción. Er dient als wichtiger Umschlagplatz für den Warenverkehr.",
       hu: "Puerto Falcón jelentős határátkelőhely és logisztikai központ Asunción közelében. Fontos áruforgalmi csomópontként szolgál.",
@@ -24,7 +24,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-parque-tecnologico-itaipu-economic-v2",
     type: "industry",
     name: { de: "Technologiepark Itaipú", hu: "Itaipú Technológiai Park", ro: "Parcul Tehnologic Itaipú", en: "Itaipu Technological Park" },
-    coordinates: { lat: -25.433, lng: -54.617 },
+    coords: [-54.617, -25.433],
     description: {
       de: "Der Technologiepark Itaipú fördert Innovation und Forschung in Hernandarias. Er unterstützt regionale Entwicklungsprojekte und technologische Bildung.",
       hu: "Az Itaipú Technológiai Park innovációt és kutatást támogat Hernandariasban. Támogatja a regionális fejlesztési projekteket és a technológiai képzést.",
@@ -43,7 +43,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-franca-global-economic-v2",
     type: "industry",
     name: { de: "Zona Franca Global", hu: "Zona Franca Global", ro: "Zona Franca Global", en: "Zona Franca Global" },
-    coordinates: { lat: -25.495, lng: -54.652 },
+    coords: [-54.652, -25.495],
     description: {
       de: "Die Zona Franca Global in Ciudad del Este ist eine Freihandelszone. Sie bietet steuerliche Vorteile für Unternehmen im Import-Export-Bereich.",
       hu: "A Ciudad del Este-i Zona Franca Global egy szabadkereskedelmi övezet. Adózási előnyöket kínál az import-export szektor vállalkozásai számára.",
@@ -62,7 +62,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-puerto-abierto-asuncion-economic-v2",
     type: "port",
     name: { de: "Puerto Abierto", hu: "Puerto Abierto", ro: "Puerto Abierto", en: "Puerto Abierto" },
-    coordinates: { lat: -25.27, lng: -57.64 },
+    coords: [-57.64, -25.27],
     description: {
       de: "Der Hafen von Asunción ist ein historischer Handelsort. Er wird zunehmend in ein multifunktionales urbanes und kommerzielles Zentrum umgewandelt.",
       hu: "Asunción kikötője történelmi kereskedelmi helyszín. Egyre inkább multifunkcionális városi és kereskedelmi központtá alakítják át.",
@@ -81,7 +81,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-mercado-de-abasto-economic-v2",
     type: "industry",
     name: { de: "Mercado de Abasto", hu: "Mercado de Abasto", ro: "Mercado de Abasto", en: "Mercado de Abasto" },
-    coordinates: { lat: -25.32, lng: -57.55 },
+    coords: [-57.55, -25.32],
     description: {
       de: "Der Mercado de Abasto in Asunción ist der zentrale Großmarkt für landwirtschaftliche Produkte. Er versorgt die Hauptstadtregion mit Lebensmitteln.",
       hu: "Az asuncióni Mercado de Abasto a mezőgazdasági termékek központi nagybani piaca. Élelmiszerrel látja el a fővárosi régiót.",
@@ -100,7 +100,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-central-sugar-mill-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Tebicuary", hu: "Tebicuary cukorgyár", ro: "Fabrica de zahăr Tebicuary", en: "Tebicuary Sugar Mill" },
-    coordinates: { lat: -25.75, lng: -56.8 },
+    coords: [-56.8, -25.75],
     description: {
       de: "Die Zuckerfabrik in Tebicuary ist eine bedeutende industrielle Anlage. Sie verarbeitet Zuckerrohr aus der umliegenden Region.",
       hu: "A tebicuary-i cukorgyár jelentős ipari létesítmény. A környező régióból származó cukornádat dolgozza fel.",
@@ -119,7 +119,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-parque-industrial-villeta-economic-v2",
     type: "industry",
     name: { de: "Industriepark Villeta", hu: "Villeta Ipari Park", ro: "Parcul Industrial Villeta", en: "Villeta Industrial Park" },
-    coordinates: { lat: -25.48, lng: -57.55 },
+    coords: [-57.55, -25.48],
     description: {
       de: "Der Industriepark in Villeta beherbergt zahlreiche Produktionsstätten. Er ist ein strategischer Standort für die Industrie in der Nähe von Asunción.",
       hu: "A villetai ipari park számos termelőüzemnek ad otthont. Stratégiai helyszín az ipar számára Asunción közelében.",
@@ -138,7 +138,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-parque-industrial-santa-rita-economic-v2",
     type: "industry",
     name: { de: "Industriepark Santa Rita", hu: "Santa Rita Ipari Park", ro: "Parcul Industrial Santa Rita", en: "Santa Rita Industrial Park" },
-    coordinates: { lat: -25.9, lng: -54.75 },
+    coords: [-54.75, -25.9],
     description: {
       de: "Der Industriepark in Santa Rita fokussiert sich auf Agrarindustrie. Er ist ein Zentrum für die Verarbeitung und den Export landwirtschaftlicher Güter.",
       hu: "A santa rita-i ipari park az agrár-iparra összpontosít. A mezőgazdasági termékek feldolgozásának és exportjának központja.",
@@ -157,7 +157,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-puerto-concepcion-economic-v2",
     type: "port",
     name: { de: "Hafen Concepción", hu: "Concepción kikötő", ro: "Portul Concepción", en: "Concepción Port" },
-    coordinates: { lat: -23.4, lng: -57.3 },
+    coords: [-57.3, -23.4],
     description: {
       de: "Der Hafen von Concepción am Paraguay-Fluss ist ein wichtiger Knotenpunkt. Er unterstützt den regionalen Handel und den Warentransport im Norden.",
       hu: "A Concepción kikötő a Paraguay folyón fontos csomópont. Támogatja a regionális kereskedelmet és az északi áruszállítást.",
@@ -176,7 +176,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-planta-cemento-vallemi-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Vallemí", hu: "Vallemí cementgyár", ro: "Fabrica de ciment Vallemí", en: "Vallemí Cement Plant" },
-    coordinates: { lat: -22.1, lng: -57.95 },
+    coords: [-57.95, -22.1],
     description: {
       de: "Das Zementwerk in Vallemí ist ein staatlicher Betrieb. Es ist eine der wichtigsten industriellen Anlagen für den Bausektor in Paraguay.",
       hu: "A vallemí-i cementgyár állami üzem. Paraguay építőipara számára az egyik legfontosabb ipari létesítmény.",
@@ -195,7 +195,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-terminal-cargas-aeropuerto-economic-v2",
     type: "industry",
     name: { de: "Frachtterminal Asunción", hu: "Asuncióni áruterminál", ro: "Terminalul de marfă Asunción", en: "Asunción Cargo Terminal" },
-    coordinates: { lat: -25.24, lng: -57.51 },
+    coords: [-57.51, -25.24],
     description: {
       de: "Das Frachtterminal am internationalen Flughafen Silvio Pettirossi ist das Hauptdrehkreuz für Luftfracht in Paraguay.",
       hu: "A Silvio Pettirossi nemzetközi repülőtér áruterminálja Paraguay fő légiáru-központja.",
@@ -214,7 +214,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-parque-industrial-minga-guazu-economic-v2",
     type: "industry",
     name: { de: "Industriepark Minga Guazú", hu: "Minga Guazú Ipari Park", ro: "Parcul Industrial Minga Guazú", en: "Minga Guazú Industrial Park" },
-    coordinates: { lat: -25.47, lng: -54.78 },
+    coords: [-54.78, -25.47],
     description: {
       de: "Der Industriepark Minga Guazú nahe Ciudad del Este fördert die industrielle Ansiedlung. Er bietet moderne Infrastruktur für Produktionsbetriebe.",
       hu: "A Ciudad del Este melletti Minga Guazú Ipari Park támogatja az ipari betelepülést. Modern infrastruktúrát kínál termelőüzemek számára.",
@@ -233,7 +233,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-limpio-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Limpio", hu: "Limpio ipari övezet", ro: "Zona industrială Limpio", en: "Limpio Industrial Zone" },
-    coordinates: { lat: -25.18, lng: -57.48 },
+    coords: [-57.48, -25.18],
     description: {
       de: "Das Industriegebiet in Limpio beherbergt eine wachsende Anzahl an Fabriken. Es profitiert von der Nähe zum städtischen Zentrum von Asunción.",
       hu: "A Limpio ipari övezetben egyre több gyár található. Hasznát látja az Asunción városközponthoz való közelségének.",
@@ -252,7 +252,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-planta-procesamiento-soja-economic-v2",
     type: "factory",
     name: { de: "Sojaverarbeitungsanlage", hu: "Szójafeldolgozó üzem", ro: "Unitate de procesare a soiei", en: "Soy Processing Plant" },
-    coordinates: { lat: -25.6, lng: -54.9 },
+    coords: [-54.9, -25.6],
     description: {
       de: "Diese Anlage in der Region Caaguazú verarbeitet Sojabohnen für den Export. Paraguay gehört zu den weltweit führenden Sojaexporteuren.",
       hu: "Ez a Caaguazú régióban található üzem exportra szánt szójababot dolgoz fel. Paraguay a világ vezető szójaexportőrei közé tartozik.",
@@ -271,7 +271,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-complejo-industrial-san-antonio-economic-v2",
     type: "industry",
     name: { de: "Industriekomplex San Antonio", hu: "San Antonio ipari komplexum", ro: "Complex industrial San Antonio", en: "San Antonio Industrial Complex" },
-    coordinates: { lat: -25.38, lng: -57.57 },
+    coords: [-57.57, -25.38],
     description: {
       de: "Der Industriekomplex in San Antonio konzentriert sich auf verschiedene Verarbeitungsbereiche. Er spielt eine Rolle in der regionalen Wirtschaft.",
       hu: "A San Antonio-i ipari komplexum különböző feldolgozási területekre összpontosít. Szerepet játszik a regionális gazdaságban.",
@@ -290,7 +290,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-luque-economic-v2",
     type: "industry",
     name: { de: "Industriezone Luque", hu: "Luque ipari övezet", ro: "Zona industrială Luque", en: "Luque Industrial Zone" },
-    coordinates: { lat: -25.27, lng: -57.48 },
+    coords: [-57.48, -25.27],
     description: {
       de: "Die Industriezone in Luque beherbergt vielfältige Betriebe. Sie ist ein wichtiger Wirtschaftsstandort nahe der Hauptstadt Asunción.",
       hu: "A Luque ipari övezet változatos vállalkozásoknak ad otthont. Fontos gazdasági helyszín Asunción főváros közelében.",
@@ -309,7 +309,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-puerto-franco-economic-v2",
     type: "port",
     name: { de: "Hafen Presidente Franco", hu: "Presidente Franco kikötő", ro: "Portul Presidente Franco", en: "Presidente Franco Port" },
-    coordinates: { lat: -25.53, lng: -54.62 },
+    coords: [-54.62, -25.53],
     description: {
       de: "Der Hafen von Presidente Franco am Paraná-Fluss ist ein wichtiger Knotenpunkt. Er ist eng mit der grenzüberschreitenden Wirtschaft verbunden.",
       hu: "A Presidente Franco kikötő a Paraná folyón fontos csomópont. Szorosan kapcsolódik a határon átnyúló gazdasághoz.",
@@ -328,7 +328,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-parque-tecnologico-encarnacion-economic-v2",
     type: "industry",
     name: { de: "Technologiepark Encarnación", hu: "Encarnacióni Technológiai Park", ro: "Parcul Tehnologic Encarnación", en: "Encarnación Technological Park" },
-    coordinates: { lat: -27.33, lng: -55.85 },
+    coords: [-55.85, -27.33],
     description: {
       de: "Der Technologiepark in Encarnación unterstützt regionale Technologieprojekte. Er ist auf digitale Innovation und Wissensdienstleistungen ausgerichtet.",
       hu: "Az Encarnacióni Technológiai Park támogatja a regionális technológiai projekteket. A digitális innovációra és tudásszolgáltatásokra összpontosít.",
@@ -347,7 +347,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-capiata-economic-v2",
     type: "industry",
     name: { de: "Industriezone Capiatá", hu: "Capiatá ipari övezet", ro: "Zona industrială Capiatá", en: "Capiatá Industrial Zone" },
-    coordinates: { lat: -25.35, lng: -57.45 },
+    coords: [-57.45, -25.35],
     description: {
       de: "Das Industriegebiet in Capiatá beherbergt verschiedene Produktions- und Logistikbetriebe. Es ist ein wichtiger Standort für den Raum Asunción.",
       hu: "A Capiatá ipari övezetben különféle termelő és logisztikai üzemek találhatók. Fontos helyszín Asunción térsége számára.",
@@ -366,7 +366,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-terminal-puerto-itapua-economic-v2",
     type: "port",
     name: { de: "Hafen Itapúa", hu: "Itapúa kikötő", ro: "Portul Itapúa", en: "Itapúa Port Terminal" },
-    coordinates: { lat: -27.2, lng: -55.8 },
+    coords: [-55.8, -27.2],
     description: {
       de: "Dieser Terminal im Departement Itapúa dient dem Export landwirtschaftlicher Erzeugnisse. Er ist wichtig für den Getreidehandel am Paraná-Fluss.",
       hu: "Ez az Itapúa megyei terminál mezőgazdasági termékek exportját szolgálja. Fontos a Paraná folyón zajló gabonakereskedelem számára.",
@@ -385,7 +385,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-fernando-de-la-mora-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Fernando de la Mora", hu: "Fernando de la Mora ipari övezet", ro: "Zona industrială Fernando de la Mora", en: "Fernando de la Mora Industrial Zone" },
-    coordinates: { lat: -25.32, lng: -57.54 },
+    coords: [-57.54, -25.32],
     description: {
       de: "Dieses Industriegebiet ist ein Zentrum für Dienstleistungen und Leichtindustrie. Es profitiert von seiner Lage im Ballungsraum Asunción.",
       hu: "Ez az ipari övezet a szolgáltatások és a könnyűipar központja. Hasznát látja az Asuncióni agglomerációban elfoglalt helyzetének.",
@@ -404,7 +404,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-centro-logistico-norte-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Nord", hu: "Északi Logisztikai Központ", ro: "Centrul Logistic Nord", en: "Northern Logistics Center" },
-    coordinates: { lat: -23.1, lng: -57.4 },
+    coords: [-57.4, -23.1],
     description: {
       de: "Dieses Logistikzentrum im Norden Paraguays unterstützt den Handel. Es ist ein zentraler Anlaufpunkt für Warenströme in dieser Region.",
       hu: "Ez az észak-paraguayi logisztikai központ támogatja a kereskedelmet. Központi állomás a régióbeli áramlatok számára.",
@@ -423,7 +423,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-planta-harinera-economic-v2",
     type: "factory",
     name: { de: "Mehlmühle", hu: "Malomipari üzem", ro: "Moară de făină", en: "Flour Mill Plant" },
-    coordinates: { lat: -25.4, lng: -57.4 },
+    coords: [-57.4, -25.4],
     description: {
       de: "Diese Mehlmühle ist eine wichtige Anlage der Lebensmittelindustrie. Sie verarbeitet Getreide für den nationalen Markt und den Export.",
       hu: "Ez a malomipari üzem az élelmiszeripar fontos létesítménye. Gabonát dolgoz fel a nemzeti piac és az export számára.",
@@ -442,7 +442,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-aregua-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Areguá", hu: "Areguá ipari övezet", ro: "Zona industrială Areguá", en: "Areguá Industrial Zone" },
-    coordinates: { lat: -25.3, lng: -57.38 },
+    coords: [-57.38, -25.3],
     description: {
       de: "Das Industriegebiet in Areguá unterstützt lokale Produktionsprozesse. Neben dem Handwerk gibt es hier auch moderne industrielle Aktivitäten.",
       hu: "Az Areguá ipari övezet támogatja a helyi termelési folyamatokat. A kézművesség mellett modern ipari tevékenységek is zajlanak.",
@@ -461,7 +461,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-terminal-granos-vallemi-economic-v2",
     type: "industry",
     name: { de: "Getreideterminal Vallemí", hu: "Vallemí gabonaterminál", ro: "Terminal de cereale Vallemí", en: "Vallemí Grain Terminal" },
-    coordinates: { lat: -22.12, lng: -57.9 },
+    coords: [-57.9, -22.12],
     description: {
       de: "Dieser Terminal in Vallemí dient der Verschiffung von Getreide. Er nutzt die Lage am Paraguay-Fluss für logistische Vorteile.",
       hu: "Ez a vallemí-i terminál gabona szállítását szolgálja. A Paraguay folyó melletti elhelyezkedését logisztikai előnyökre használja.",
@@ -480,7 +480,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-planta-textil-economic-v2",
     type: "factory",
     name: { de: "Textilfabrik", hu: "Textilgyár", ro: "Fabrică de textile", en: "Textile Factory Plant" },
-    coordinates: { lat: -25.33, lng: -57.5 },
+    coords: [-57.5, -25.33],
     description: {
       de: "Diese Textilfabrik in der Region Asunción ist ein moderner Produktionsbetrieb. Sie beliefert sowohl den nationalen Markt als auch den Export.",
       hu: "Ez az Asunción régióbeli textilgyár modern termelőüzem. Hazai és exportpiacokat egyaránt kiszolgál.",
@@ -499,7 +499,7 @@ export const poiExtraParaguayEconomicV2: POI[] = [
     id: "paraguay-zona-industrial-guarambare-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Guarambaré", hu: "Guarambaré ipari övezet", ro: "Zona industrială Guarambaré", en: "Guarambaré Industrial Zone" },
-    coordinates: { lat: -25.45, lng: -57.5 },
+    coords: [-57.5, -25.45],
     description: {
       de: "Das Industriegebiet in Guarambaré bietet Raum für verschiedene kleine und mittlere Unternehmen. Es ist gut an die Infrastruktur angebunden.",
       hu: "A Guarambaré ipari övezet teret biztosít különféle kis- és középvállalkozások számára. Jól kapcsolódik az infrastruktúrához.",

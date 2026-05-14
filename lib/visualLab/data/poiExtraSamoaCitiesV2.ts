@@ -5,7 +5,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-apia-cities-v2",
     type: "capital",
     name: { de: "Apia", hu: "Apia", ro: "Apia", en: "Apia" },
-    coordinates: { lat: -13.8333, lng: -171.7667 },
+    coords: [-171.7667, -13.8333],
     description: {
       de: "Apia ist die Hauptstadt von Samoa und liegt an der Nordküste der Insel Upolu. Sie ist das wirtschaftliche und politische Zentrum des Landes.",
       hu: "Apia Szamoa fővárosa és legnagyobb városa, amely Upolu szigetének északi partján fekszik. Ez az ország politikai és gazdasági központja.",
@@ -24,7 +24,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaitele-cities-v2",
     type: "city",
     name: { de: "Vaitele", hu: "Vaitele", ro: "Vaitele", en: "Vaitele" },
-    coordinates: { lat: -13.8433, lng: -171.8106 },
+    coords: [-171.8106, -13.8433],
     description: {
       de: "Vaitele ist eine große Siedlung westlich von Apia und gilt als eines der wichtigsten Industriegebiete des Landes. Es wächst stetig.",
       hu: "Vaitele egy nagy település Apiától nyugatra, és az ország egyik legfontosabb ipari övezetének számít. Folyamatosan növekszik.",
@@ -43,7 +43,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-faleasiu-cities-v2",
     type: "village",
     name: { de: "Faleasiu", hu: "Faleasiu", ro: "Faleasiu", en: "Faleasiu" },
-    coordinates: { lat: -13.8167, lng: -171.9333 },
+    coords: [-171.9333, -13.8167],
     description: {
       de: "Faleasiu ist ein bedeutendes Dorf im Distrikt Aana an der Nordwestküste von Upolu. Es ist bekannt für seine weitläufigen Siedlungsstrukturen.",
       hu: "Faleasiu egy jelentős falu Aana körzetében, Upolu északnyugati partján. Kiterjedt települési szerkezetéről ismert.",
@@ -62,7 +62,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vailele-cities-v2",
     type: "village",
     name: { de: "Vailele", hu: "Vailele", ro: "Vailele", en: "Vailele" },
-    coordinates: { lat: -13.8442, lng: -171.7344 },
+    coords: [-171.7344, -13.8442],
     description: {
       de: "Vailele liegt östlich von Apia und ist eine der größten Siedlungen in Samoa. Es spielt eine wichtige Rolle in der Geschichte der Insel.",
       hu: "Vailele Apiától keletre fekszik, és Szamoa egyik legnagyobb települése. Fontos szerepet játszik a sziget történelmében.",
@@ -81,7 +81,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-leauvaa-cities-v2",
     type: "village",
     name: { de: "Le'auva'a", hu: "Le'auva'a", ro: "Le'auva'a", en: "Le'auva'a" },
-    coordinates: { lat: -13.8058, lng: -171.8667 },
+    coords: [-171.8667, -13.8058],
     description: {
       de: "Le'auva'a ist ein Dorf auf Upolu, dessen Bewohner ursprünglich von der Insel Savai'i stammen. Sie siedelten nach Vulkanausbrüchen hierher um.",
       hu: "Le'auva'a egy falu Upolun, amelynek lakói eredetileg Savai'i szigetéről származnak. Vulkánkitörések után telepedtek át ide.",
@@ -100,7 +100,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-faleula-cities-v2",
     type: "village",
     name: { de: "Faleula", hu: "Faleula", ro: "Faleula", en: "Faleula" },
-    coordinates: { lat: -13.8167, lng: -171.8333 },
+    coords: [-171.8333, -13.8167],
     description: {
       de: "Faleula ist ein bevölkerungsreiches Dorf an der Nordküste von Upolu. Es dient als wichtiger Vorort der Hauptstadt Apia.",
       hu: "Faleula egy népes falu Upolu északi partján. Apia főváros fontos elővárosaként szolgál.",
@@ -119,7 +119,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-siusega-cities-v2",
     type: "city",
     name: { de: "Siusega", hu: "Siusega", ro: "Siusega", en: "Siusega" },
-    coordinates: { lat: -13.8567, lng: -171.8122 },
+    coords: [-171.8122, -13.8567],
     description: {
       de: "Siusega ist eine wachsende städtische Siedlung in der Nähe von Apia. Es beherbergt viele Pendler, die in der Hauptstadt arbeiten.",
       hu: "Siusega egy növekvő városi település Apia közelében. Sok olyan ingázónak ad otthont, akik a fővárosban dolgoznak.",
@@ -138,7 +138,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-malie-cities-v2",
     type: "village",
     name: { de: "Malie", hu: "Malie", ro: "Malie", en: "Malie" },
-    coordinates: { lat: -13.8014, lng: -171.85 },
+    coords: [-171.85, -13.8014],
     description: {
       de: "Malie ist ein traditionelles Dorf an der Nordwestküste von Upolu. Es hat eine hohe Bedeutung in der lokalen Hierarchie.",
       hu: "Malie egy tradicionális falu Upolu északnyugati partján. Nagy jelentőséggel bír a helyi hierarchiában.",
@@ -157,7 +157,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-fasitoo-uta-cities-v2",
     type: "village",
     name: { de: "Fasito'o Uta", hu: "Fasito'o Uta", ro: "Fasito'o Uta", en: "Fasito'o Uta" },
-    coordinates: { lat: -13.8264, lng: -171.9567 },
+    coords: [-171.9567, -13.8264],
     description: {
       de: "Fasito'o Uta liegt im Aana-Distrikt und ist bekannt für seine landwirtschaftlichen Flächen und die Nähe zum Flughafen.",
       hu: "Fasito'o Uta az Aana körzetben található, mezőgazdasági területeiről és a repülőtér közelségéről ismert.",
@@ -176,7 +176,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaiusu-cities-v2",
     type: "village",
     name: { de: "Vaiusu", hu: "Vaiusu", ro: "Vaiusu", en: "Vaiusu" },
-    coordinates: { lat: -13.8333, lng: -171.7917 },
+    coords: [-171.7917, -13.8333],
     description: {
       de: "Vaiusu ist ein Vorort von Apia, der an einer Bucht liegt. Es ist bekannt für seine Mangrovensümpfe und Fischfangtradition.",
       hu: "Vaiusu Apia egyik elővárosa, amely egy öböl partján fekszik. Mangrovemocsarairól és halászati hagyományairól ismert.",
@@ -195,7 +195,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-afega-cities-v2",
     type: "village",
     name: { de: "Afega", hu: "Afega", ro: "Afega", en: "Afega" },
-    coordinates: { lat: -13.8, lng: -171.8333 },
+    coords: [-171.8333, -13.8],
     description: {
       de: "Afega ist das Verwaltungszentrum des Tuamasaga-Distrikts. Es liegt an der zentralen Nordküste von Upolu.",
       hu: "Afega a Tuamasaga körzet adminisztratív központja. Upolu központi északi partján található.",
@@ -214,7 +214,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-nuu-cities-v2",
     type: "village",
     name: { de: "Nuu", hu: "Nuu", ro: "Nuu", en: "Nuu" },
-    coordinates: { lat: -13.8444, lng: -171.825 },
+    coords: [-171.825, -13.8444],
     description: {
       de: "Nuu ist eine neuere Siedlung im Landesinneren von Upolu. Es ist bekannt für staatliche Forschungsstationen und moderne Landwirtschaft.",
       hu: "Nuu egy újabb település Upolu belsejében. Állami kutatóállomásairól és modern mezőgazdaságáról ismert.",
@@ -233,7 +233,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-solosolo-cities-v2",
     type: "village",
     name: { de: "Solosolo", hu: "Solosolo", ro: "Solosolo", en: "Solosolo" },
-    coordinates: { lat: -13.8833, lng: -171.6333 },
+    coords: [-171.6333, -13.8833],
     description: {
       de: "Solosolo liegt im Osten von Apia und ist berühmt für seine Surfspots und die starke Brandung an der Küste.",
       hu: "Solosolo Apiától keletre található, és híres szörfözésre alkalmas helyeiről, valamint a part menti erős hullámzásról.",
@@ -252,7 +252,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lufilufi-cities-v2",
     type: "village",
     name: { de: "Lufilufi", hu: "Lufilufi", ro: "Lufilufi", en: "Lufilufi" },
-    coordinates: { lat: -13.8667, lng: -171.6 },
+    coords: [-171.6, -13.8667],
     description: {
       de: "Lufilufi ist ein historisches politisches Zentrum auf Upolu. Es ist die traditionelle Hauptstadt des Atua-Distrikts.",
       hu: "Lufilufi egy történelmi politikai központ Upolun. Ez Atua körzet hagyományos fővárosa.",
@@ -271,7 +271,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-falefa-cities-v2",
     type: "village",
     name: { de: "Falefa", hu: "Falefa", ro: "Falefa", en: "Falefa" },
-    coordinates: { lat: -13.9, lng: -171.5833 },
+    coords: [-171.5833, -13.9],
     description: {
       de: "Falefa liegt an einer malerischen Bucht und ist bekannt für den Falefa-Wasserfall und seine reiche mythologische Geschichte.",
       hu: "Falefa egy festői öbölben fekszik, és a Falefa-vízesésről, valamint gazdag mitológiai történelméről ismert.",
@@ -290,7 +290,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-luatuanuu-cities-v2",
     type: "village",
     name: { de: "Luatuanu'u", hu: "Luatuanu'u", ro: "Luatuanu'u", en: "Luatuanu'u" },
-    coordinates: { lat: -13.8667, lng: -171.6667 },
+    coords: [-171.6667, -13.8667],
     description: {
       de: "Luatuanu'u ist ein Dorf an der Nordküste, das für seine kriegerische Geschichte und seine strategische Lage bekannt ist.",
       hu: "Luatuanu'u az északi parton fekvő falu, amely hadi történelméről és stratégiai fekvéséről ismert.",
@@ -309,7 +309,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-saleimoa-cities-v2",
     type: "village",
     name: { de: "Saleimoa", hu: "Saleimoa", ro: "Saleimoa", en: "Saleimoa" },
-    coordinates: { lat: -13.8, lng: -171.9 },
+    coords: [-171.9, -13.8],
     description: {
       de: "Saleimoa ist eine große Dorfgemeinschaft an der Nordwestküste von Upolu. Es besteht aus mehreren kleineren Weilern entlang der Straße.",
       hu: "Saleimoa egy nagy faluközösség Upolu északnyugati partján. Több kisebb településrészből áll az út mentén.",
@@ -328,7 +328,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-samatau-cities-v2",
     type: "village",
     name: { de: "Samatau", hu: "Samatau", ro: "Samatau", en: "Samatau" },
-    coordinates: { lat: -13.8833, lng: -172.0333 },
+    coords: [-172.0333, -13.8833],
     description: {
       de: "Samatau liegt an der westlichen Spitze von Upolu. Es ist ein ruhiges Fischerdorf mit starkem Sinn für Tradition.",
       hu: "Samatau Upolu nyugati csücskén található. Ez egy csendes halászfalu, erős hagyománytisztelettel.",
@@ -347,7 +347,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-mulifanua-cities-v2",
     type: "port",
     name: { de: "Mulifanua", hu: "Mulifanua", ro: "Mulifanua", en: "Mulifanua" },
-    coordinates: { lat: -13.8217, lng: -172.04 },
+    coords: [-172.04, -13.8217],
     description: {
       de: "Mulifanua ist der wichtigste Fährhafen auf Upolu für Verbindungen zur Insel Savai'i. Es ist ein lebenswichtiger Verkehrsknotenpunkt.",
       hu: "Mulifanua Upolu legfontosabb kompkikötője a Savai'i szigetére irányuló közlekedéshez. Létfontosságú közlekedési csomópont.",
@@ -366,7 +366,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-salelologa-cities-v2",
     type: "town",
     name: { de: "Salelologa", hu: "Salelologa", ro: "Salelologa", en: "Salelologa" },
-    coordinates: { lat: -13.74, lng: -172.2167 },
+    coords: [-172.2167, -13.74],
     description: {
       de: "Salelologa ist das wichtigste Handelszentrum und der Haupthafen der Insel Savai'i. Es ist das Tor zur größten Insel Samoas.",
       hu: "Salelologa Savai'i szigetének legfontosabb kereskedelmi központja és fő kikötője. Ez a kapu Szamoa legnagyobb szigetéhez.",
@@ -385,7 +385,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-safotulafai-cities-v2",
     type: "village",
     name: { de: "Safotulafai", hu: "Safotulafai", ro: "Safotulafai", en: "Safotulafai" },
-    coordinates: { lat: -13.6833, lng: -172.1833 },
+    coords: [-172.1833, -13.6833],
     description: {
       de: "Safotulafai ist ein historisch bedeutsames Dorf auf Savai'i. Es war das Zentrum der Mau-Bewegung auf dieser Insel.",
       hu: "Safotulafai egy történelmileg jelentős falu Savai'in. A Mau mozgalom központja volt ezen a szigeten.",
@@ -404,7 +404,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-sapapalii-cities-v2",
     type: "village",
     name: { de: "Sapapali'i", hu: "Sapapali'i", ro: "Sapapali'i", en: "Sapapali'i" },
-    coordinates: { lat: -13.6667, lng: -172.1667 },
+    coords: [-172.1667, -13.6667],
     description: {
       de: "Sapapali'i ist bekannt als der Ort, an dem das Christentum 1830 durch John Williams in Samoa eingeführt wurde.",
       hu: "Sapapali'i arról ismert, hogy 1830-ban itt vezette be a kereszténységet Szamoán John Williams.",
@@ -423,7 +423,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-puapua-cities-v2",
     type: "village",
     name: { de: "Pu'apu'a", hu: "Pu'apu'a", ro: "Pu'apu'a", en: "Pu'apu'a" },
-    coordinates: { lat: -13.5833, lng: -172.2333 },
+    coords: [-172.2333, -13.5833],
     description: {
       de: "Pu'apu'a ist ein Küstendorf im Nordosten von Savai'i. Es ist bekannt für seine natürliche Schönheit und die Nähe zu Lavaströmen.",
       hu: "Pu'apu'a egy tengerparti falu Savai'i északkeleti részén. Természeti szépségéről és a lávafolyamok közelségéről ismert.",
@@ -442,7 +442,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-asau-cities-v2",
     type: "town",
     name: { de: "Asau", hu: "Asau", ro: "Asau", en: "Asau" },
-    coordinates: { lat: -13.5222, lng: -172.6361 },
+    coords: [-172.6361, -13.5222],
     description: {
       de: "Asau ist eine Hafenstadt im Nordwesten von Savai'i. Sie war früher das Zentrum der samoanischen Holzindustrie.",
       hu: "Asau egy kikötőváros Savai'i északnyugati részén. Korábban a szamoai faipar központja volt.",
@@ -461,7 +461,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-safotu-cities-v2",
     type: "village",
     name: { de: "Safotu", hu: "Safotu", ro: "Safotu", en: "Safotu" },
-    coordinates: { lat: -13.45, lng: -172.4 },
+    coords: [-172.4, -13.45],
     description: {
       de: "Safotu ist ein großes Dorf an der Nordküste von Savai'i. Es ist ein Zentrum für Bildung und Gesundheitsversorgung in der Region.",
       hu: "Safotu egy nagy falu Savai'i északi partján. Az oktatás és az egészségügyi ellátás központja a régióban.",
@@ -480,7 +480,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-fagamalo-cities-v2",
     type: "village",
     name: { de: "Fagamalo", hu: "Fagamalo", ro: "Fagamalo", en: "Fagamalo" },
-    coordinates: { lat: -13.45, lng: -172.35 },
+    coords: [-172.35, -13.45],
     description: {
       de: "Fagamalo war früher das Verwaltungszentrum der deutschen Kolonialverwaltung auf Savai'i. Heute ist es ein ruhiger Ort am Meer.",
       hu: "Fagamalo korábban a német gyarmati adminisztráció központja volt Savai'in. Ma egy csendes hely a tengerparton.",
@@ -499,7 +499,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-satoalepai-cities-v2",
     type: "village",
     name: { de: "Sato'alepai", hu: "Sato'alepai", ro: "Sato'alepai", en: "Sato'alepai" },
-    coordinates: { lat: -13.45, lng: -172.3333 },
+    coords: [-172.3333, -13.45],
     description: {
       de: "Sato'alepai ist ein berühmtes Ziel für Ökotourismus auf Savai'i. Es ist bekannt für seine Lagune mit grünen Meeresschildkröten.",
       hu: "Sato'alepai az ökoturizmus híres célpontja Savai'in. A zöld tengeri teknősöknek otthont adó lagúnájáról ismert.",
@@ -518,7 +518,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-manase-cities-v2",
     type: "village",
     name: { de: "Manase", hu: "Manase", ro: "Manase", en: "Manase" },
-    coordinates: { lat: -13.45, lng: -172.3667 },
+    coords: [-172.3667, -13.45],
     description: {
       de: "Manase ist ein bedeutendes Touristenzentrum an der Nordküste von Savai'i, bekannt für seine schönen Strände und Unterkünfte.",
       hu: "Manase jelentős turisztikai központ Savai'i északi partján, amely gyönyörű strandjairól és szálláshelyeiről ismert.",
@@ -537,7 +537,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-saleaula-cities-v2",
     type: "village",
     name: { de: "Sale'aula", hu: "Sale'aula", ro: "Sale'aula", en: "Sale'aula" },
-    coordinates: { lat: -13.4333, lng: -172.3333 },
+    coords: [-172.3333, -13.4333],
     description: {
       de: "Sale'aula ist berühmt für seine Lavafelder, die durch den Ausbruch des Mount Matavanu zwischen 1905 und 1911 entstanden sind.",
       hu: "Sale'aula híres lávamezőiről, amelyek a Matavanu-hegy 1905 és 1911 közötti kitörése során keletkeztek.",
@@ -556,7 +556,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-samalaeulu-cities-v2",
     type: "village",
     name: { de: "Samalae'ulu", hu: "Samalae'ulu", ro: "Samalae'ulu", en: "Samalae'ulu" },
-    coordinates: { lat: -13.5167, lng: -172.2833 },
+    coords: [-172.2833, -13.5167],
     description: {
       de: "Samalae'ulu liegt im Nordosten von Savai'i an der Hauptstraße. Es wurde stark von den historischen Lavaflüssen betroffen.",
       hu: "Samalae'ulu Savai'i északkeleti részén, a főút mentén található. Erősen érintették a történelmi lávafolyamok.",
@@ -575,7 +575,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-gataivai-cities-v2",
     type: "village",
     name: { de: "Gataivai", hu: "Gataivai", ro: "Gataivai", en: "Gataivai" },
-    coordinates: { lat: -13.7833, lng: -172.3833 },
+    coords: [-172.3833, -13.7833],
     description: {
       de: "Gataivai ist ein Dorf im Süden von Savai'i, das für seinen Fluss und die natürlichen Wasserbecken bekannt ist.",
       hu: "Gataivai Savai'i déli részén fekvő falu, amely folyójáról és természetes vizes medencéiről ismert.",
@@ -594,7 +594,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-taga-cities-v2",
     type: "village",
     name: { de: "Taga", hu: "Taga", ro: "Taga", en: "Taga" },
-    coordinates: { lat: -13.8, lng: -172.5167 },
+    coords: [-172.5167, -13.8],
     description: {
       de: "Taga ist ein abgelegenes Dorf im Südwesten von Savai'i und berühmt für die Alofaaga Blowholes in der Nähe.",
       hu: "Taga egy távoli falu Savai'i délnyugati részén, híres a közelben található Alofaaga-sziklaszökőkutakról.",
@@ -613,7 +613,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-sagone-cities-v2",
     type: "village",
     name: { de: "Sagone", hu: "Sagone", ro: "Sagone", en: "Sagone" },
-    coordinates: { lat: -13.7667, lng: -172.6167 },
+    coords: [-172.6167, -13.7667],
     description: {
       de: "Sagone ist ein Dorf an der Westküste von Savai'i. Es ist bekannt für seine weiten Kokosnussplantagen und den Export von Kopra.",
       hu: "Sagone Savai'i nyugati partján fekvő falu. Hatalmas kókuszültetvényeiről és a kopraexportról ismert.",
@@ -632,7 +632,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaisala-cities-v2",
     type: "village",
     name: { de: "Vaisala", hu: "Vaisala", ro: "Vaisala", en: "Vaisala" },
-    coordinates: { lat: -13.5333, lng: -172.7 },
+    coords: [-172.7, -13.5333],
     description: {
       de: "Vaisala liegt im fernen Westen von Savai'i und bietet einige der besten Sonnenuntergänge Samoas. Es ist ein beliebter Ort für Öko-Hotels.",
       hu: "Vaisala Savai'i távoli nyugati részén található, és Szamoa legszebb naplementéit kínálja. Népszerű hely az öko-szállodák számára.",
@@ -651,7 +651,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-siumu-cities-v2",
     type: "village",
     name: { de: "Siumu", hu: "Siumu", ro: "Siumu", en: "Siumu" },
-    coordinates: { lat: -13.9833, lng: -171.7667 },
+    coords: [-171.7667, -13.9833],
     description: {
       de: "Siumu ist ein bedeutendes Dorf an der Südküste von Upolu. Es ist bekannt für seine Luxusresorts und kulturellen Darbietungen.",
       hu: "Siumu egy jelentős falu Upolu déli partján. Luxusüdülőhelyeiről és kulturális előadásairól ismert.",
@@ -670,7 +670,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-poutasi-cities-v2",
     type: "village",
     name: { de: "Poutasi", hu: "Poutasi", ro: "Poutasi", en: "Poutasi" },
-    coordinates: { lat: -13.9833, lng: -171.65 },
+    coords: [-171.65, -13.9833],
     description: {
       de: "Poutasi ist das Verwaltungszentrum des Falealili-Distrikts. Es hat sich nach dem Tsunami von 2009 erfolgreich wieder aufgebaut.",
       hu: "Poutasi a Falealili körzet adminisztratív központja. A 2009-es szökőár után sikeresen újjáépült.",
@@ -689,7 +689,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lalomanu-cities-v2",
     type: "village",
     name: { de: "Lalomanu", hu: "Lalomanu", ro: "Lalomanu", en: "Lalomanu" },
-    coordinates: { lat: -14.0333, lng: -171.45 },
+    coords: [-171.45, -14.0333],
     description: {
       de: "Lalomanu ist bekannt für einen der schönsten Strände Samoas am östlichen Ende von Upolu. Es ist ein erstklassiges Reiseziel.",
       hu: "Lalomanu Szamoa egyik legszebb strandjáról ismert Upolu keleti végén. Elsőrangú utazási célpont.",
@@ -708,7 +708,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lotofaga-cities-v2",
     type: "village",
     name: { de: "Lotofaga", hu: "Lotofaga", ro: "Lotofaga", en: "Lotofaga" },
-    coordinates: { lat: -14.0, lng: -171.55 },
+    coords: [-171.55, -14.0],
     description: {
       de: "Lotofaga ist ein historisches Dorf an der Südküste, bekannt für die To-Sua Ocean Trench, eine berühmte natürliche Schwimmgrube.",
       hu: "Lotofaga egy történelmi falu a déli parton, a To-Sua Ocean Trench-ről, egy híres természetes úszómedencéről ismert.",
@@ -727,7 +727,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lepa-cities-v2",
     type: "village",
     name: { de: "Lepa", hu: "Lepa", ro: "Lepa", en: "Lepa" },
-    coordinates: { lat: -14.0167, lng: -171.5167 },
+    coords: [-171.5167, -14.0167],
     description: {
       de: "Lepa ist ein kleines Dorf an der Südostküste von Upolu. Es ist bekannt als Heimatort ehemaliger samoanischer Regierungschefs.",
       hu: "Lepa egy kis falu Upolu délkeleti partján. Ismert, mint egykori szamoai kormányfők szülőhelye.",
@@ -746,7 +746,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-satitoa-cities-v2",
     type: "village",
     name: { de: "Satitoa", hu: "Satitoa", ro: "Satitoa", en: "Satitoa" },
-    coordinates: { lat: -14.0167, lng: -171.4333 },
+    coords: [-171.4333, -14.0167],
     description: {
       de: "Satitoa ist ein Küstendorf am östlichsten Punkt von Upolu. Es bietet einen direkten Blick auf die Aleipata-Inseln.",
       hu: "Satitoa egy tengerparti falu Upolu legkeletibb pontján. Közvetlen kilátást nyújt az Aleipata-szigetekre.",
@@ -765,7 +765,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-tiavea-cities-v2",
     type: "village",
     name: { de: "Ti'avea", hu: "Ti'avea", ro: "Ti'avea", en: "Ti'avea" },
-    coordinates: { lat: -13.95, lng: -171.45 },
+    coords: [-171.45, -13.95],
     description: {
       de: "Ti'avea ist ein Dorf in einer tiefen Bucht an der Nordostküste. Es ist bekannt für seine Abgeschiedenheit und dramatische Klippen.",
       hu: "Ti'avea egy falu az északkeleti part mély öblében. Elszigeteltségéről és drámai szikláiról ismert.",
@@ -784,7 +784,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-amaile-cities-v2",
     type: "village",
     name: { de: "Amaile", hu: "Amaile", ro: "Amaile", en: "Amaile" },
-    coordinates: { lat: -14.0333, lng: -171.4333 },
+    coords: [-171.4333, -14.0333],
     description: {
       de: "Amaile liegt nahe Lalomanu und ist bekannt für seinen traditionellen Matai-Rat und die Bewahrung samoanischer Bräuche.",
       hu: "Amaile Lalomanu közelében fekszik, és hagyományos Matai tanácsáról, valamint a szamoai szokások megőrzéséről ismert.",
@@ -803,7 +803,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-samamea-cities-v2",
     type: "village",
     name: { de: "Samamea", hu: "Samamea", ro: "Samamea", en: "Samamea" },
-    coordinates: { lat: -13.9333, lng: -171.5333 },
+    coords: [-171.5333, -13.9333],
     description: {
       de: "Samamea liegt tief in der Fagaloa-Bucht und ist umgeben von steilen Bergen und tropischem Regenwald.",
       hu: "Samamea a Fagaloa-öböl mélyén fekszik, meredek hegyekkel és trópusi esőerdővel körülvéve.",
@@ -822,7 +822,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-taelefaga-cities-v2",
     type: "village",
     name: { de: "Taelefaga", hu: "Taelefaga", ro: "Taelefaga", en: "Taelefaga" },
-    coordinates: { lat: -13.94, lng: -171.545 },
+    coords: [-171.545, -13.94],
     description: {
       de: "Taelefaga ist ein weiteres malerisches Dorf in der Fagaloa-Bucht, bekannt für sein Wasserkraftwerk und die spektakuläre Aussicht.",
       hu: "Taelefaga egy másik festői falu a Fagaloa-öbölben, vízerőművéről és látványos kilátásáról ismert.",
@@ -841,7 +841,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-aufaga-cities-v2",
     type: "village",
     name: { de: "Aufaga", hu: "Aufaga", ro: "Aufaga", en: "Aufaga" },
-    coordinates: { lat: -14.0167, lng: -171.5333 },
+    coords: [-171.5333, -14.0167],
     description: {
       de: "Aufaga ist ein ruhiges Dorf an der Südküste von Upolu. Es ist bekannt für seine Fischgründe und die Nähe zu den Wasserfällen.",
       hu: "Aufaga egy csendes falu Upolu déli partján. Halászhelyeiről és a vízesések közelségéről ismert.",
@@ -860,7 +860,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vavau-cities-v2",
     type: "village",
     name: { de: "Vavau", hu: "Vavau", ro: "Vavau", en: "Vavau" },
-    coordinates: { lat: -14.0333, lng: -171.4833 },
+    coords: [-171.4833, -14.0333],
     description: {
       de: "Vavau ist ein kleiner Ort an der Südostküste, berühmt für den Vavau Beach, der oft als einer der fotogensten Orte Samoas gilt.",
       hu: "Vavau egy kis hely a délkeleti parton, híres a Vavau Beach-ről, amelyet gyakran Szamoa egyik legfotogénebb helyének tartanak.",
@@ -879,7 +879,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-saleapaga-cities-v2",
     type: "village",
     name: { de: "Saleapaga", hu: "Saleapaga", ro: "Saleapaga", en: "Saleapaga" },
-    coordinates: { lat: -14.0333, lng: -171.4667 },
+    coords: [-171.4667, -14.0333],
     description: {
       de: "Saleapaga liegt neben Lalomanu und ist bekannt für seine Strand-Fale direkt am Ozean. Es bietet eine authentische samoanische Erfahrung.",
       hu: "Saleapaga Lalomanu mellett található, és közvetlenül az óceán partján fekvő strand-fale házairól ismert. Hiteles szamoai élményt nyújt.",
@@ -898,7 +898,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-matatufu-cities-v2",
     type: "village",
     name: { de: "Matatufu", hu: "Matatufu", ro: "Matatufu", en: "Matatufu" },
-    coordinates: { lat: -14.0167, lng: -171.5 },
+    coords: [-171.5, -14.0167],
     description: {
       de: "Matatufu ist ein Küstendorf, das für seine weißen Sandstrände und die Nähe zu den Korallenriffen bekannt ist.",
       hu: "Matatufu egy tengerparti falu, amely fehér homokos strandjairól és a korallzátonyok közelségéről ismert.",
@@ -917,7 +917,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-salani-cities-v2",
     type: "village",
     name: { de: "Salani", hu: "Salani", ro: "Salani", en: "Salani" },
-    coordinates: { lat: -13.9833, lng: -171.6 },
+    coords: [-171.6, -13.9833],
     description: {
       de: "Salani liegt an der Mündung eines Flusses an der Südküste und ist international als erstklassiger Surfspot bekannt.",
       hu: "Salani egy folyó torkolatánál fekszik a déli parton, és nemzetközileg elsőrangú szörfhelyként ismert.",
@@ -936,7 +936,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-sapoe-cities-v2",
     type: "village",
     name: { de: "Sapoe", hu: "Sapoe", ro: "Sapoe", en: "Sapoe" },
-    coordinates: { lat: -13.9833, lng: -171.6167 },
+    coords: [-171.6167, -13.9833],
     description: {
       de: "Sapoe ist ein kleines Dorf im Distrikt Falealili. Es ist umgeben von Kokosnusshainen und üppiger Vegetation.",
       hu: "Sapoe egy kis falu Falealili körzetben. Kókuszligetek és buja növényzet veszi körül.",
@@ -955,7 +955,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-salamumu-cities-v2",
     type: "village",
     name: { de: "Salamumu", hu: "Salamumu", ro: "Salamumu", en: "Salamumu" },
-    coordinates: { lat: -13.9833, lng: -171.9333 },
+    coords: [-171.9333, -13.9833],
     description: {
       de: "Salamumu wurde von Bewohnern aus Savai'i gegründet, die vor Vulkanausbrüchen flohen. Es liegt an der Südküste von Upolu.",
       hu: "Salamumut Savai'i lakói alapították, akik a vulkánkitörések elől menekültek. Upolu déli partján fekszik.",
@@ -974,7 +974,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lona-cities-v2",
     type: "village",
     name: { de: "Lona", hu: "Lona", ro: "Lona", en: "Lona" },
-    coordinates: { lat: -13.9333, lng: -171.55 },
+    coords: [-171.55, -13.9333],
     description: {
       de: "Lona ist ein abgeschiedenes Dorf in der Fagaloa-Bucht. Es ist für seine unberührte Natur und den traditionellen Lebensstil bekannt.",
       hu: "Lona egy elszigetelt falu a Fagaloa-öbölben. Érintetlen természetéről és hagyományos életmódjáról ismert.",
@@ -993,7 +993,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-musumusu-cities-v2",
     type: "village",
     name: { de: "Musumusu", hu: "Musumusu", ro: "Musumusu", en: "Musumusu" },
-    coordinates: { lat: -13.9167, lng: -171.55 },
+    coords: [-171.55, -13.9167],
     description: {
       de: "Musumusu liegt am Rande der Fagaloa-Bucht und ist bekannt für seine ruhige Lage und den dichten umliegenden Regenwald.",
       hu: "Musumusu a Fagaloa-öböl szélén található, csendes fekvéséről és a sűrű környező esőerdőről ismert.",
@@ -1012,7 +1012,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-maasina-cities-v2",
     type: "village",
     name: { de: "Ma'asina", hu: "Ma'asina", ro: "Ma'asina", en: "Ma'asina" },
-    coordinates: { lat: -13.9167, lng: -171.5667 },
+    coords: [-171.5667, -13.9167],
     description: {
       de: "Ma'asina ist ein traditionelles Dorf in der Fagaloa-Bucht, das für die Erhaltung der samoanischen Kultur und Architektur bekannt ist.",
       hu: "Ma'asina egy tradicionális falu a Fagaloa-öbölben, amely a szamoai kultúra és építészet megőrzéséről ismert.",
@@ -1031,7 +1031,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-fasitoo-tai-cities-v2",
     type: "village",
     name: { de: "Fasito'o Tai", hu: "Fasito'o Tai", ro: "Fasito'o Tai", en: "Fasito'o Tai" },
-    coordinates: { lat: -13.8167, lng: -171.9667 },
+    coords: [-171.9667, -13.8167],
     description: {
       de: "Fasito'o Tai liegt an der Küste des Aana-Distrikts. Es ist bekannt für seine historischen Kirchen und den traditionellen Fischfang.",
       hu: "Fasito'o Tai az Aana körzet partján fekszik. Történelmi templomairól és hagyományos halászatáról ismert.",
@@ -1050,7 +1050,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-faleula-tai-cities-v2",
     type: "village",
     name: { de: "Faleula Tai", hu: "Faleula Tai", ro: "Faleula Tai", en: "Faleula Tai" },
-    coordinates: { lat: -13.805, lng: -171.835 },
+    coords: [-171.835, -13.805],
     description: {
       de: "Faleula Tai ist der küstennahe Teil des Dorfes Faleula. Es spielt eine wichtige Rolle bei lokalen Meeresaktivitäten.",
       hu: "Faleula Tai Faleula falu tengerparti része. Fontos szerepet játszik a helyi tengeri tevékenységekben.",
@@ -1069,7 +1069,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vausu-tai-cities-v2",
     type: "village",
     name: { de: "Vaiusu Tai", hu: "Vaiusu Tai", ro: "Vaiusu Tai", en: "Vaiusu Tai" },
-    coordinates: { lat: -13.825, lng: -171.795 },
+    coords: [-171.795, -13.825],
     description: {
       de: "Vaiusu Tai ist der am Wasser gelegene Teil von Vaiusu, der sich durch seine Nähe zum Mangroven-Ökosystem auszeichnet.",
       hu: "Vaiusu Tai Vaiusu tengerparti része, amely a mangrove-ökoszisztéma közelségével tűnik ki.",
@@ -1088,7 +1088,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-malua-cities-v2",
     type: "university",
     name: { de: "Malua", hu: "Malua", ro: "Malua", en: "Malua" },
-    coordinates: { lat: -13.8167, lng: -171.85 },
+    coords: [-171.85, -13.8167],
     description: {
       de: "Malua ist das spirituelle Zentrum der Kongregationskirche in Samoa und beherbergt das bedeutendste theologische Seminar.",
       hu: "Malua a szamoai Kongregációs Egyház szellemi központja, és itt található a legjelentősebb teológiai szeminárium.",
@@ -1107,7 +1107,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-afiamalu-cities-v2",
     type: "village",
     name: { de: "Afiamalu", hu: "Afiamalu", ro: "Afiamalu", en: "Afiamalu" },
-    coordinates: { lat: -13.9167, lng: -171.7833 },
+    coords: [-171.7833, -13.9167],
     description: {
       de: "Afiamalu liegt im Hochland von Upolu und ist bekannt für sein kühleres Klima und die dichten Nebelwälder.",
       hu: "Afiamalu Upolu felföldjén található, hűvösebb éghajlatáról és sűrű köderdőiről ismert.",
@@ -1126,7 +1126,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-safata-cities-v2",
     type: "village",
     name: { de: "Safata", hu: "Safata", ro: "Safata", en: "Safata" },
-    coordinates: { lat: -14.0, lng: -171.8333 },
+    coords: [-171.8333, -14.0],
     description: {
       de: "Safata ist ein bedeutendes Dorf an der Südküste, bekannt für seine Mangroven-Lagune und die traditionelle Fischerei.",
       hu: "Safata egy jelentős falu a déli parton, mangrovés lagúnájáról és a hagyományos halászatáról ismert.",
@@ -1145,7 +1145,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-salamumu-tai-cities-v2",
     type: "village",
     name: { de: "Salamumu Tai", hu: "Salamumu Tai", ro: "Salamumu Tai", en: "Salamumu Tai" },
-    coordinates: { lat: -13.9917, lng: -171.94 },
+    coords: [-171.94, -13.9917],
     description: {
       de: "Salamumu Tai ist der küstennahe Bereich von Salamumu, der für seine schönen schwarzen Felsen und weißen Sandstrände bekannt ist.",
       hu: "Salamumu Tai Salamumu tengerparti része, amely gyönyörű fekete szikláiról és fehér homokos strandjairól ismert.",
@@ -1164,7 +1164,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lepua-cities-v2",
     type: "village",
     name: { de: "Lepua", hu: "Lepua", ro: "Lepua", en: "Lepua" },
-    coordinates: { lat: -13.84, lng: -171.755 },
+    coords: [-171.755, -13.84],
     description: {
       de: "Lepua ist ein kleiner Vorort von Apia, der sich entlang der Küstenstraße nach Osten erstreckt.",
       hu: "Lepua Apia egyik kis elővárosa, amely a tengerparti úton kelet felé húzódik.",
@@ -1183,7 +1183,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-moataa-cities-v2",
     type: "village",
     name: { de: "Moata'a", hu: "Moata'a", ro: "Moata'a", en: "Moata'a" },
-    coordinates: { lat: -13.8417, lng: -171.745 },
+    coords: [-171.745, -13.8417],
     description: {
       de: "Moata'a ist ein bekanntes Dorf östlich von Apia, berühmt für seine Mangroven und seine starke Gemeinschaft.",
       hu: "Moata'a egy ismert falu Apiától keletre, mangrovéiról és erős közösségéről híres.",
@@ -1202,7 +1202,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaiala-cities-v2",
     type: "village",
     name: { de: "Vaiala", hu: "Vaiala", ro: "Vaiala", en: "Vaiala" },
-    coordinates: { lat: -13.8333, lng: -171.75 },
+    coords: [-171.75, -13.8333],
     description: {
       de: "Vaiala ist ein prestigeträchtiger Vorort von Apia, bekannt für seinen Strand und die vielen historischen Gebäude.",
       hu: "Vaiala Apia egyik tekintélyes elővárosa, strandjáról és számos történelmi épületéről ismert.",
@@ -1221,7 +1221,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-fogapoa-cities-v2",
     type: "village",
     name: { de: "Fogapoa", hu: "Fogapoa", ro: "Fogapoa", en: "Fogapoa" },
-    coordinates: { lat: -13.6833, lng: -172.1833 },
+    coords: [-172.1833, -13.6833],
     description: {
       de: "Fogapoa ist ein Küstendorf auf Savai'i, das Teil des Safotulafai-Verbundes ist und für seine traditionellen Werte bekannt ist.",
       hu: "Fogapoa egy tengerparti falu Savai'in, amely a Safotulafai településcsoport része, és hagyományos értékeiről ismert.",
@@ -1240,7 +1240,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-eva-cities-v2",
     type: "village",
     name: { de: "Eva", hu: "Eva", ro: "Eva", en: "Eva" },
-    coordinates: { lat: -13.8833, lng: -171.6167 },
+    coords: [-171.6167, -13.8833],
     description: {
       de: "Eva ist ein kleines Dorf an der Nordküste von Upolu, eingebettet zwischen grünen Bergen und dem Pazifik.",
       hu: "Eva egy kis falu Upolu északi partján, zöld hegyek és a Csendes-óceán közé ékelődve.",
@@ -1259,7 +1259,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-falelatai-cities-v2",
     type: "village",
     name: { de: "Falelatai", hu: "Falelatai", ro: "Falelatai", en: "Falelatai" },
-    coordinates: { lat: -13.8833, lng: -171.9833 },
+    coords: [-171.9833, -13.8833],
     description: {
       de: "Falelatai ist ein großes historisches Dorf im Westen von Upolu. Es ist bekannt für seine starke politische Rolle in Samoa.",
       hu: "Falelatai egy nagy történelmi falu Upolu nyugati részén. Szamoa erős politikai szerepéről ismert.",
@@ -1278,7 +1278,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lotofaga-tai-cities-v2",
     type: "village",
     name: { de: "Lotofaga Tai", hu: "Lotofaga Tai", ro: "Lotofaga Tai", en: "Lotofaga Tai" },
-    coordinates: { lat: -14.005, lng: -171.555 },
+    coords: [-171.555, -14.005],
     description: {
       de: "Lotofaga Tai ist der küstennahe Teil des Dorfes Lotofaga, in dem sich die meisten touristischen Aktivitäten konzentrieren.",
       hu: "Lotofaga Tai Lotofaga falu tengerparti része, ahol a legtöbb turisztikai tevékenység összpontosul.",
@@ -1297,7 +1297,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaiala-tai-cities-v2",
     type: "village",
     name: { de: "Vaiala Tai", hu: "Vaiala Tai", ro: "Vaiala Tai", en: "Vaiala Tai" },
-    coordinates: { lat: -13.83, lng: -171.748 },
+    coords: [-171.748, -13.83],
     description: {
       de: "Vaiala Tai umfasst die direkte Uferzone von Vaiala und ist ein Zentrum für Wassersport in der Hauptstadtregion.",
       hu: "Vaiala Tai Vaiala közvetlen vízparti részét foglalja magában, és a fővárosi régió vízisport-központja.",
@@ -1316,7 +1316,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-siumu-tai-cities-v2",
     type: "village",
     name: { de: "Siumu Tai", hu: "Siumu Tai", ro: "Siumu Tai", en: "Siumu Tai" },
-    coordinates: { lat: -14.0, lng: -171.77 },
+    coords: [-171.77, -14.0],
     description: {
       de: "Siumu Tai ist der Küstenteil von Siumu, bekannt für seine gehobenen Resorts und die schöne Lagune.",
       hu: "Siumu Tai Siumu tengerparti része, híres elegáns üdülőhelyeiről és gyönyörű lagúnájáról.",
@@ -1335,7 +1335,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vailima-cities-v2",
     type: "village",
     name: { de: "Vailima", hu: "Vailima", ro: "Vailima", en: "Vailima" },
-    coordinates: { lat: -13.875, lng: -171.765 },
+    coords: [-171.765, -13.875],
     description: {
       de: "Vailima liegt oberhalb von Apia und ist berühmt als ehemaliger Wohnsitz des Schriftstellers Robert Louis Stevenson.",
       hu: "Vailima Apia felett található, és Robert Louis Stevenson író egykori lakóhelyeként híres.",
@@ -1354,7 +1354,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-samalaeulu-uta-cities-v2",
     type: "village",
     name: { de: "Samalae'ulu Uta", hu: "Samalae'ulu Uta", ro: "Samalae'ulu Uta", en: "Samalae'ulu Uta" },
-    coordinates: { lat: -13.525, lng: -172.29 },
+    coords: [-172.29, -13.525],
     description: {
       de: "Samalae'ulu Uta ist der landeinwärts gelegene Teil von Samalae'ulu, der stark landwirtschaftlich geprägt ist.",
       hu: "Samalae'ulu Uta Samalae'ulu szárazföldi része, amely erősen mezőgazdasági jellegű.",
@@ -1373,7 +1373,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-safotu-tai-cities-v2",
     type: "village",
     name: { de: "Safotu Tai", hu: "Safotu Tai", ro: "Safotu Tai", en: "Safotu Tai" },
-    coordinates: { lat: -13.445, lng: -172.405 },
+    coords: [-172.405, -13.445],
     description: {
       de: "Safotu Tai ist der Küstenteil von Safotu, ein wichtiges Zentrum für den lokalen Fischhandel auf Savai'i.",
       hu: "Safotu Tai Safotu tengerparti része, a helyi halkereskedelem fontos központja Savai'in.",
@@ -1392,7 +1392,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-fagamalo-tai-cities-v2",
     type: "village",
     name: { de: "Fagamalo Tai", hu: "Fagamalo Tai", ro: "Fagamalo Tai", en: "Fagamalo Tai" },
-    coordinates: { lat: -13.445, lng: -172.355 },
+    coords: [-172.355, -13.445],
     description: {
       de: "Fagamalo Tai ist der wasserseitige Teil von Fagamalo, der durch seine historische Hafenbedeutung geprägt ist.",
       hu: "Fagamalo Tai Fagamalo vízparti része, amelyet történelmi kikötői jelentősége határoz meg.",
@@ -1411,7 +1411,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-taga-tai-cities-v2",
     type: "village",
     name: { de: "Taga Tai", hu: "Taga Tai", ro: "Taga Tai", en: "Taga Tai" },
-    coordinates: { lat: -13.81, lng: -172.52 },
+    coords: [-172.52, -13.81],
     description: {
       de: "Taga Tai bezeichnet den Küstenstreifen des Dorfes Taga, wo die gewaltige Kraft des Pazifiks auf Lavaklippen trifft.",
       hu: "Taga Tai Taga falu tengerparti sávja, ahol a Csendes-óceán hatalmas ereje lávasziklákkal találkozik.",
@@ -1430,7 +1430,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-sagone-tai-cities-v2",
     type: "village",
     name: { de: "Sagone Tai", hu: "Sagone Tai", ro: "Sagone Tai", en: "Sagone Tai" },
-    coordinates: { lat: -13.775, lng: -172.625 },
+    coords: [-172.625, -13.775],
     description: {
       de: "Sagone Tai ist der Küstenbereich von Sagone, bekannt für seine weiten Horizonte und den traditionellen Fischfang.",
       hu: "Sagone Tai Sagone tengerparti része, tágas horizontjáról és hagyományos halászatáról ismert.",
@@ -1449,7 +1449,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaisala-tai-cities-v2",
     type: "village",
     name: { de: "Vaisala Tai", hu: "Vaisala Tai", ro: "Vaisala Tai", en: "Vaisala Tai" },
-    coordinates: { lat: -13.535, lng: -172.705 },
+    coords: [-172.705, -13.535],
     description: {
       de: "Vaisala Tai liegt an einer geschützten Bucht im Westen von Savai'i und ist ein Juwel für Individualreisende.",
       hu: "Vaisala Tai egy védett öbölben fekszik Savai'i nyugati részén, az egyéni utazók kedvelt helye.",
@@ -1468,7 +1468,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-salelologa-tai-cities-v2",
     type: "village",
     name: { de: "Salelologa Tai", hu: "Salelologa Tai", ro: "Salelologa Tai", en: "Salelologa Tai" },
-    coordinates: { lat: -13.745, lng: -172.22 },
+    coords: [-172.22, -13.745],
     description: {
       de: "Salelologa Tai ist der unmittelbare Hafenbereich von Salelologa, das geschäftige Zentrum für den Inselverkehr.",
       hu: "Salelologa Tai Salelologa közvetlen kikötői területe, a szigetek közötti forgalom nyüzsgő központja.",
@@ -1487,7 +1487,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-safotulafai-tai-cities-v2",
     type: "village",
     name: { de: "Safotulafai Tai", hu: "Safotulafai Tai", ro: "Safotulafai Tai", en: "Safotulafai Tai" },
-    coordinates: { lat: -13.69, lng: -172.19 },
+    coords: [-172.19, -13.69],
     description: {
       de: "Safotulafai Tai ist der Küstenbereich eines der historischsten Dörfer Samoas, geprägt von religiöser Geschichte.",
       hu: "Safotulafai Tai Szamoa egyik legtörténelmibb falujának tengerparti része, vallási történelem jellemzi.",
@@ -1506,7 +1506,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-sapapalii-tai-cities-v2",
     type: "village",
     name: { de: "Sapapali'i Tai", hu: "Sapapali'i Tai", ro: "Sapapali'i Tai", en: "Sapapali'i Tai" },
-    coordinates: { lat: -13.67, lng: -172.17 },
+    coords: [-172.17, -13.67],
     description: {
       de: "Sapapali'i Tai ist die Uferzone des Dorfes Sapapali'i, wo die ersten christlichen Missionare Samoas Boden betraten.",
       hu: "Sapapali'i Tai Sapapali'i falu vízparti övezete, ahol az első keresztény misszionáriusok Szamoa földjére léptek.",
@@ -1525,7 +1525,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-puapua-tai-cities-v2",
     type: "village",
     name: { de: "Pu'apu'a Tai", hu: "Pu'apu'a Tai", ro: "Pu'apu'a Tai", en: "Pu'apu'a Tai" },
-    coordinates: { lat: -13.585, lng: -172.235 },
+    coords: [-172.235, -13.585],
     description: {
       de: "Pu'apu'a Tai ist der Küstenteil des Dorfes Pu'apu'a, bekannt für seine weite Sicht auf den Ozean und seine Kanu-Rennfahrer.",
       hu: "Pu'apu'a Tai Pu'apu'a falu tengerparti része, tágas óceáni kilátásáról és kenuversenyzőiről ismert.",
@@ -1544,7 +1544,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-asau-tai-cities-v2",
     type: "village",
     name: { de: "Asau Tai", hu: "Asau Tai", ro: "Asau Tai", en: "Asau Tai" },
-    coordinates: { lat: -13.525, lng: -172.64 },
+    coords: [-172.64, -13.525],
     description: {
       de: "Asau Tai ist das Hafenviertel von Asau, geprägt von den Überresten der einst blühenden Holzexportindustrie.",
       hu: "Asau Tai Asau kikötőnegyede, amelyet az egykor virágzó faexport-ipar maradványai jellemeznek.",
@@ -1563,7 +1563,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-siumu-uta-cities-v2",
     type: "village",
     name: { de: "Siumu Uta", hu: "Siumu Uta", ro: "Siumu Uta", en: "Siumu Uta" },
-    coordinates: { lat: -13.975, lng: -171.765 },
+    coords: [-171.765, -13.975],
     description: {
       de: "Siumu Uta ist der höher gelegene Teil von Siumu, der durch seine fruchtbaren Böden und üppigen Plantagen besticht.",
       hu: "Siumu Uta Siumu magasabban fekvő része, amely termékeny talajával és buja ültetvényeivel hódít.",
@@ -1582,7 +1582,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lalomanu-uta-cities-v2",
     type: "village",
     name: { de: "Lalomanu Uta", hu: "Lalomanu Uta", ro: "Lalomanu Uta", en: "Lalomanu Uta" },
-    coordinates: { lat: -14.025, lng: -171.455 },
+    coords: [-171.455, -14.025],
     description: {
       de: "Lalomanu Uta liegt etwas landeinwärts vom berühmten Strand und ist der Wohnkern der Gemeinde Lalomanu.",
       hu: "Lalomanu Uta kicsit beljebb fekszik a híres strandtól, és a Lalomanu közösség lakóövezetének magját alkotja.",
@@ -1601,7 +1601,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-lotofaga-uta-cities-v2",
     type: "village",
     name: { de: "Lotofaga Uta", hu: "Lotofaga Uta", ro: "Lotofaga Uta", en: "Lotofaga Uta" },
-    coordinates: { lat: -13.99, lng: -171.545 },
+    coords: [-171.545, -13.99],
     description: {
       de: "Lotofaga Uta ist der landeinwärts gelegene Teil von Lotofaga, der für seine reichen Taro-Felder und die Forstwirtschaft bekannt ist.",
       hu: "Lotofaga Uta Lotofaga szárazföldi része, gazdag taróföldjeiről és erdőgazdálkodásáról ismert.",
@@ -1620,7 +1620,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-poutasi-tai-cities-v2",
     type: "village",
     name: { de: "Poutasi Tai", hu: "Poutasi Tai", ro: "Poutasi Tai", en: "Poutasi Tai" },
-    coordinates: { lat: -13.99, lng: -171.655 },
+    coords: [-171.655, -13.99],
     description: {
       de: "Poutasi Tai ist der am Meer gelegene Teil von Poutasi, ein Musterbeispiel für den Wiederaufbau nach Naturkatastrophen.",
       hu: "Poutasi Tai Poutasi tengerparti része, mintapéldája a természeti katasztrófák utáni újjáépítésnek.",
@@ -1639,7 +1639,7 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-falealili-cities-v2",
     type: "village",
     name: { de: "Falealili", hu: "Falealili", ro: "Falealili", en: "Falealili" },
-    coordinates: { lat: -13.9833, lng: -171.6667 },
+    coords: [-171.6667, -13.9833],
     description: {
       de: "Falealili ist ein weitläufiger Distrikt an der Südküste von Upolu mit mehreren traditionellen Dörfern.",
       hu: "Falealili egy kiterjedt körzet Upolu déli partján, számos hagyományos faluval.",

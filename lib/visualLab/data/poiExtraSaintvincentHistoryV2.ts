@@ -5,7 +5,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-fort-duvernette-history-v2",
     type: "monument",
     name: { de: "Fort Duvernette", hu: "Fort Duvernette", ro: "Fort Duvernette", en: "Fort Duvernette" },
-    coordinates: { lat: 13.1256, lng: -61.2117 },
+    coords: [-61.2117, 13.1256],
     description: {
       de: "Befestigungsanlage aus dem Jahr 1800 auf einem Vulkanfelsen bei Young Island. Es schützte die Calliaqua-Bucht mit zwei Batterien.",
       hu: "1800 körül épült védmű a Young Island melletti vulkáni sziklán. Két ágyúütegével a Calliaqua-öblöt védelmezte.",
@@ -24,7 +24,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-black-point-tunnel-history-v2",
     type: "landmark",
     name: { de: "Black Point Tunnel", hu: "Black Point alagút", ro: "Tunelul Black Point", en: "Black Point Tunnel" },
-    coordinates: { lat: 13.2625, lng: -61.1214 },
+    coords: [-61.1214, 13.2625],
     description: {
       de: "Ein 1815 von Sklaven erbauter, 90 Meter langer Tunnel durch Vulkangestein. Er diente dem Transport von Zucker zur Küste.",
       hu: "1815-ben, rabszolgák által vájt, 90 méter hosszú alagút. A vulkáni sziklán keresztül szállították rajta a cukrot a tengerpartra.",
@@ -43,7 +43,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-layou-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Layou Petroglyphen", hu: "Layou petroglifák", ro: "Petroglifele Layou", en: "Layou Petroglyphs" },
-    coordinates: { lat: 13.2031, lng: -61.2683 },
+    coords: [-61.2683, 13.2031],
     description: {
       de: "Antike Felsritzungen der präkolumbianischen Amerindianer auf vulkanischen Felsbrocken. Sie zeigen Gesichter und geometrische Muster.",
       hu: "Ősi sziklarajzok, melyeket a kolumbusz előtti amerindiánok készítettek. A vulkáni köveken arcok és geometriai minták láthatók.",
@@ -62,7 +62,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-st-georges-cathedral-history-v2",
     type: "cathedral",
     name: { de: "St. George's Cathedral", hu: "Szent György-székesegyház", ro: "Catedrala Sf. Gheorghe", en: "St. George's Cathedral" },
-    coordinates: { lat: 13.1578, lng: -61.2272 },
+    coords: [-61.2272, 13.1578],
     description: {
       de: "Anglikanische Kirche in Kingstown, 1820 im georgianischen Stil fertiggestellt. Bekannt für das Glasfenster mit dem roten Engel.",
       hu: "1820-ban befejezett anglikán székesegyház Kingstownban, georgiánus stílusban. Híres a vörös ruhás angyalt ábrázoló ablakáról.",
@@ -81,7 +81,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-st-marys-cathedral-history-v2",
     type: "cathedral",
     name: { de: "St. Mary's Cathedral", hu: "Szent Mária-székesegyház", ro: "Catedrala Sf. Maria", en: "St. Mary's Cathedral" },
-    coordinates: { lat: 13.1572, lng: -61.2278 },
+    coords: [-61.2278, 13.1572],
     description: {
       de: "Einzigartige Kirche in Kingstown mit Elementen aus Romanik, Gotik und Barock. Sie wurde in den 1930er Jahren umfassend umgebaut.",
       hu: "Különleges építészeti emlék Kingstownban, amely román, gótikus és barokk elemeket ötvöz. Az 1930-as években építették át.",
@@ -100,7 +100,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-barrouallie-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Barrouallie Petroglyphen", hu: "Barrouallie petroglifák", ro: "Petroglifele Barrouallie", en: "Barrouallie Petroglyphs" },
-    coordinates: { lat: 13.235, lng: -61.271 },
+    coords: [-61.271, 13.235],
     description: {
       de: "Auch bekannt als Glebe Rock, beherbergt diese Stätte bedeutende Felskunst der Amerindianer mit anthropomorphen Figuren.",
       hu: "Más néven Glebe Rock, a Karib-térség egyik legjelentősebb amerindián sziklarajz lelőhelye antropomorf alakokkal.",
@@ -119,7 +119,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-chatoyer-memorial-history-v2",
     type: "monument",
     name: { de: "Chatoyer Memorial", hu: "Chatoyer-emlékmű", ro: "Monumentul Chatoyer", en: "Chatoyer Memorial" },
-    coordinates: { lat: 13.1667, lng: -61.2167 },
+    coords: [-61.2167, 13.1667],
     description: {
       de: "Denkmal auf dem Dorsetshire Hill für Joseph Chatoyer, den Anführer des Kariben-Widerstands, der hier 1795 fiel.",
       hu: "Emlékmű a Dorsetshire Hillen Joseph Chatoyer karib főnök tiszteletére, aki 1795-ben itt esett el a brit uralom elleni harcban.",
@@ -138,7 +138,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-kingstown-methodist-church-history-v2",
     type: "church",
     name: { de: "Kingstown Methodist Church", hu: "Kingstowni metodista templom", ro: "Biserica Metodistă din Kingstown", en: "Kingstown Methodist Church" },
-    coordinates: { lat: 13.156, lng: -61.226 },
+    coords: [-61.226, 13.156],
     description: {
       de: "Historisches Gebäude von 1841, errichtet auf dem Gelände einer ehemaligen katholischen Kirche. Es zeigt markantes Mauerwerk.",
       hu: "1841-ben készült történelmi templom, amely egy korábbi római katolikus templom helyén áll. Jellegzetes kőfalazatú.",
@@ -157,7 +157,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-argyle-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Argyle Petroglyphen", hu: "Argyle petroglifák", ro: "Petroglifele Argyle", en: "Argyle Petroglyphs" },
-    coordinates: { lat: 13.152, lng: -61.155 },
+    coords: [-61.155, 13.152],
     description: {
       de: "Diese präkolumbianischen Felsritzungen wurden zum Schutz in die Nähe des Flughafens Argyle verlegt. Sie stammen von Ureinwohnern.",
       hu: "Megóvásuk érdekében az Argyle repülőtér közelébe áthelyezett sziklarajzok. Az ősi amerindián települések idejéből származnak.",
@@ -176,7 +176,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-old-public-library-history-v2",
     type: "museum",
     name: { de: "Alte Öffentliche Bibliothek", hu: "Régi Nyilvános Könyvtár", ro: "Vechea Bibliotecă Publică", en: "Old Public Library" },
-    coordinates: { lat: 13.155, lng: -61.228 },
+    coords: [-61.228, 13.155],
     description: {
       de: "Kolonialgebäude in Kingstown, das heute als Heritage Hall dient. Es spiegelt die britische Verwaltungsarchitektur des 19. Jahrhunderts wider.",
       hu: "Gyarmati korszakból származó épület Kingstownban, ma Heritage Hallként ismert. A 19. századi brit építészetet tükrözi.",
@@ -195,7 +195,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-dorsetshire-hill-history-v2",
     type: "battlefield",
     name: { de: "Dorsetshire Hill", hu: "Dorsetshire Hill", ro: "Dealul Dorsetshire", en: "Dorsetshire Hill" },
-    coordinates: { lat: 13.165, lng: -61.215 },
+    coords: [-61.215, 13.165],
     description: {
       de: "Strategische Militärposition während des Zweiten Karibenkrieges Ende des 18. Jahrhunderts. Ort heftiger Kämpfe gegen britische Truppen.",
       hu: "Stratégiai katonai állomás a 18. század végi második karib háború idején. Heves harcok helyszíne volt a karibok és a britek között.",
@@ -214,7 +214,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-wallilabou-estate-history-v2",
     type: "landmark",
     name: { de: "Wallilabou Estate", hu: "Wallilabou-birtok", ro: "Domeniul Wallilabou", en: "Wallilabou Estate" },
-    coordinates: { lat: 13.249, lng: -61.268 },
+    coords: [-61.268, 13.249],
     description: {
       de: "Historische Plantage mit den Ruinen einer Zuckermühle aus dem 18. Jahrhundert. Bekannt als Drehort für Fluch der Karibik.",
       hu: "Történelmi ültetvény, ahol egy 18. századi cukormalom romjai láthatók. A Karib-tenger kalózai forgatási helyszíneként vált ismertté.",
@@ -233,7 +233,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-rabacca-dry-river-history-v2",
     type: "landmark",
     name: { de: "Rabacca Dry River", hu: "Rabacca Dry River", ro: "Râul Sec Rabacca", en: "Rabacca Dry River" },
-    coordinates: { lat: 13.316, lng: -61.133 },
+    coords: [-61.133, 13.316],
     description: {
       de: "Vulkanisches Flussbett, das historisch Schauplatz großer Lahare des La Soufrière war. Es markierte die Grenze des Garifuna-Gebiets.",
       hu: "Vulkáni meder, amely történelmileg a La Soufrière vulkán kitöréseinek útvonala volt. A garifuna területek határát jelölte.",
@@ -252,7 +252,7 @@ export const saintvincentHistoryV2: POI[] = [
     id: "saintvincent-buccament-rock-art-history-v2",
     type: "ruins",
     name: { de: "Buccament Felskunst", hu: "Buccamenti sziklarajzok", ro: "Arta rupestră Buccament", en: "Buccament Rock Art" },
-    coordinates: { lat: 13.192, lng: -61.265 },
+    coords: [-61.265, 13.192],
     description: {
       de: "Felsritzungen an einer Klippe nahe dem Buccament River. Die Symbole werden den frühen Saladoid- und Maguroid-Kulturen zugeordnet.",
       hu: "Sziklafalba vésett petroglifák a Buccament-folyó közelében. Az ősi szimbólumok a korai saladoid kultúrához köthetők.",

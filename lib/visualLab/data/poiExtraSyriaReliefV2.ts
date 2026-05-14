@@ -521,7 +521,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
     id: "syria-jabal-al-hass-relief-v2",
     type: "mountain",
     name: { de: "Dschebel al-Hass", hu: "Dzsebel al-Hassz", ro: "Jabal al-Hass", en: "Jabal al-Hass" },
-    coordinates: { lat: 35.85, lng: 37.35 },
+    coords: [37.35, 35.85],
     description: {
       de: "Basaltisches Hochland südlich von Aleppo, bekannt für fruchtbaren vulkanischen Boden und traditionelle Bauweisen in Bienenkorbform.",
       hu: "Jelentős bazaltfennsík Aleppótól délre, amely termékeny vulkanikus talajáról és a hagyományos, méhkas alakú agyagházairól nevezetes.",
@@ -540,7 +540,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
     id: "syria-jabal-sis-relief-v2",
     type: "peak",
     name: { de: "Dschebel Sis", hu: "Dzsebel Szisz", ro: "Jabal Sis", en: "Jabal Sis" },
-    coordinates: { lat: 33.43, lng: 37.37 },
+    coords: [37.37, 33.43],
     description: {
       de: "Ein isolierter, erloschener Vulkankegel in der syrischen Wüste, der als markanter Orientierungspunkt an alten Handelswegen dient.",
       hu: "Elszigetelt, kialudt vulkáni kúp a Szíriai-sivatagban, amely kiemelkedő természetes tájékozódási pontként szolgált az ősi utakon.",
@@ -559,7 +559,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
     id: "syria-yarmouk-valley-relief-v2",
     type: "valley",
     name: { de: "Jarmuk-Tal", hu: "Jarmúk-völgy", ro: "Valea Yarmouk", en: "Yarmouk Valley" },
-    coordinates: { lat: 32.74, lng: 35.88 },
+    coords: [35.88, 32.74],
     description: {
       de: "Ein tiefer Fluss-Canyon an der Grenze zu Jordanien, geprägt durch steile Basaltfelsen und ein besonderes lokales Mikroklima.",
       hu: "Mély folyóvölgy a jordán határon, amelyet meredek bazaltsziklák és egyedi mikroklima jellemez a dél-szíriai tájegységben.",

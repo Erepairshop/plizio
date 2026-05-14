@@ -1284,7 +1284,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-siphofaneni-cities-v2",
     type: "town",
     name: { de: "Siphofaneni", hu: "Siphofaneni", ro: "Siphofaneni", en: "Siphofaneni" },
-    coordinates: { lat: -26.685, lng: 31.684 },
+    coords: [31.684, -26.685],
     description: {
       de: "Siphofaneni ist ein wichtiger Verkehrsknotenpunkt am Usutu-Fluss im Lowveld. Der Ort ist bekannt für seinen lebhaften Markt und die umliegende Landwirtschaft.",
       hu: "Siphofaneni egy fontos közlekedési csomópont az Usutu-folyó mentén a Lowveld területén. A település híres élénk piacáról és a környező mezőgazdaságról.",
@@ -1303,7 +1303,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-motshane-cities-v2",
     type: "town",
     name: { de: "Motshane", hu: "Motshane", ro: "Motshane", en: "Motshane" },
-    coordinates: { lat: -26.284, lng: 31.062 },
+    coords: [31.062, -26.284],
     description: {
       de: "Motshane liegt an einer wichtigen Straßenkreuzung in den Highveld-Bergen westlich von Mbabane. Die Stadt gilt als Tor zum westlichen Teil des Landes.",
       hu: "Motshane egy fontos útkereszteződésnél fekszik a Highveld-hegységben, Mbabanétól nyugatra. A város az ország nyugati felébe vezető kapuként ismert.",
@@ -1322,7 +1322,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-mliba-cities-v2",
     type: "village",
     name: { de: "Mliba", hu: "Mliba", ro: "Mliba", en: "Mliba" },
-    coordinates: { lat: -26.152, lng: 31.585 },
+    coords: [31.585, -26.152],
     description: {
       de: "Mliba ist eine strategische Siedlung an der Kreuzung wichtiger Überlandstraßen im Norden. Sie dient als wichtiger Umsteigepunkt für Reisende und Händler.",
       hu: "Mliba egy stratégiai jelentőségű település a fontos északi utak kereszteződésében. Fontos átszállópontként szolgál az utazók és kereskedők számára.",
@@ -1341,7 +1341,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-maphalaleni-cities-v2",
     type: "village",
     name: { de: "Maphalaleni", hu: "Maphalaleni", ro: "Maphalaleni", en: "Maphalaleni" },
-    coordinates: { lat: -26.15, lng: 31.25 },
+    coords: [31.25, -26.15],
     description: {
       de: "Maphalaleni ist ein ländliches Zentrum in einem malerischen Tal der Hhohho-Region. Die Gemeinde lebt hauptsächlich von der traditionellen Landwirtschaft.",
       hu: "Maphalaleni egy vidéki központ a Hhohho régió egyik festői völgyében. A közösség főként hagyományos mezőgazdaságból él.",
@@ -1360,7 +1360,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-nkhaba-cities-v2",
     type: "village",
     name: { de: "Nkhaba", hu: "Nkhaba", ro: "Nkhaba", en: "Nkhaba" },
-    coordinates: { lat: -26.21, lng: 31.14 },
+    coords: [31.14, -26.21],
     description: {
       de: "Nkhaba ist ein bedeutendes Häuptlingstum und Siedlungsgebiet in den kühlen Bergen nördlich von Mbabane. Es ist ein Zentrum für traditionelle Kultur und Ackerbau.",
       hu: "Nkhaba egy jelentős törzsfői terület és település a hűvös hegyekben, Mbabanétól északra. A hagyományos kultúra és földművelés egyik központja.",
@@ -1379,7 +1379,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-sithobela-cities-v2",
     type: "town",
     name: { de: "Sithobela", hu: "Sithobela", ro: "Sithobela", en: "Sithobela" },
-    coordinates: { lat: -26.905, lng: 31.602 },
+    coords: [31.602, -26.905],
     description: {
       de: "Sithobela ist ein wichtiges Dienstleistungszentrum in der trockenen Lubombo-Region. Die Stadt beherbergt eine bedeutende Klinik und versorgt das umliegende Buschland.",
       hu: "Sithobela egy fontos szolgáltató központ a száraz Lubombo régióban. A város egy jelentős klinikának ad otthont, és a környező bozótvidéket látja el.",
@@ -1398,7 +1398,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-sicunusa-cities-v2",
     type: "town",
     name: { de: "Sicunusa", hu: "Sicunusa", ro: "Sicunusa", en: "Sicunusa" },
-    coordinates: { lat: -26.862, lng: 30.792 },
+    coords: [30.792, -26.862],
     description: {
       de: "Sicunusa ist ein Grenzort im Südwesten von Eswatini. Er fungiert als wichtiger Handelspunkt und Übergang zwischen Eswatini und Südafrika.",
       hu: "Sicunusa egy határmenti település Eswatini délnyugati részén. Fontos kereskedelmi pontként és átkelőként működik Eswatini és Dél-Afrika között.",
@@ -1417,7 +1417,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-mayiwane-cities-v2",
     type: "town",
     name: { de: "Mayiwane", hu: "Mayiwane", ro: "Mayiwane", en: "Mayiwane" },
-    coordinates: { lat: -25.85, lng: 31.42 },
+    coords: [31.42, -25.85],
     description: {
       de: "Mayiwane ist ein ländlicher Ort im nördlichen Teil der Hhohho-Region. Die Stadt dient als lokales Handelszentrum für die verstreuten Gemeinschaften der Gegend.",
       hu: "Mayiwane egy vidéki település a Hhohho régió északi részén. A város helyi kereskedelmi központként szolgál a környék szórványközösségei számára.",
@@ -1436,7 +1436,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-horo-cities-v2",
     type: "village",
     name: { de: "Horo", hu: "Horo", ro: "Horo", en: "Horo" },
-    coordinates: { lat: -25.75, lng: 31.35 },
+    coords: [31.35, -25.75],
     description: {
       de: "Horo liegt im äußersten Norden von Eswatini, nahe der Grenze zu Südafrika. Das Gebiet ist durch hügeliges Gelände und kleine landwirtschaftliche Betriebe geprägt.",
       hu: "Horo Eswatini távoli északi részén található, a dél-afrikai határ közelében. A területet dombos terep és kis mezőgazdasági farmok jellemzik.",
@@ -1455,7 +1455,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     id: "swaziland-ndzingeni-cities-v2",
     type: "village",
     name: { de: "Ndzingeni", hu: "Ndzingeni", ro: "Ndzingeni", en: "Ndzingeni" },
-    coordinates: { lat: -26.08, lng: 31.2 },
+    coords: [31.2, -26.08],
     description: {
       de: "Ndzingeni ist eine Bergortschaft in der Hhohho-Region, bekannt für ihre malerische Lage am Hang. Die Siedlung ist ein Zentrum für die lokale Gemeinschaft und Bildung.",
       hu: "Ndzingeni egy hegyi település a Hhohho régióban, amely festői domboldali elhelyezkedéséről ismert. A település a helyi közösség és az oktatás központja.",

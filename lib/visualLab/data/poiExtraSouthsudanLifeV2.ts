@@ -727,7 +727,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-mvolo-wetland-life-v2",
     type: "park",
     name: { de: "Mvolo Feuchtgebiet", hu: "Mvolo-vizesés", ro: "Zona umedă Mvolo", en: "Mvolo Wetland" },
-    coordinates: { lat: 6.3333, lng: 29.8333 },
+    coords: [29.8333, 6.3333],
     description: {
       de: "Das Mvolo-Feuchtgebiet umfasst ein ausgedehntes Schwemmlandbecken im Bundesstaat Western Equatoria. Es bietet Lebensraum für zahlreiche Zugvogelarten während der Regenzeit.",
       hu: "A Mvolo-vizesés egy kiterjedt mocsaras medence Western Equatoria államban. A csapadékos időszakban számos vonuló madárfaj számára biztosít élőhelyet.",
@@ -746,7 +746,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-bahr-el-ghazal-wildlife-corridor-life-v2",
     type: "wildlife",
     name: { de: "Bahr el-Ghazal Wildtierkorridor", hu: "Bahr el-Ghazal vadvilági folyosó", ro: "Coridorul de faună Bahr el-Ghazal", en: "Bahr el-Ghazal Wildlife Corridor" },
-    coordinates: { lat: 8.5, lng: 28.5 },
+    coords: [28.5, 8.5],
     description: {
       de: "Dieser Wildtierkorridor verbindet die Schutzgebiete im Nordwesten des Landes. Er spielt eine zentrale Rolle für die Migration der lokalen Antilopenpopulationen.",
       hu: "Ez a vadvilági folyosó összeköti az ország északnyugati védett területeit. Központi szerepet játszik a helyi antiloppopulációk vándorlásában.",
@@ -765,7 +765,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-juba-botanical-garden-life-v2",
     type: "park",
     name: { de: "Juba Botanischer Garten", hu: "Juba Botanikus Kert", ro: "Grădina Botanică Juba", en: "Juba Botanical Garden" },
-    coordinates: { lat: 4.85, lng: 31.6 },
+    coords: [31.6, 4.85],
     description: {
       de: "Der Botanische Garten in Juba beherbergt eine Sammlung einheimischer Pflanzenarten des Südsudans. Er dient zudem als kleiner Erholungsraum in der Hauptstadt.",
       hu: "A jubai botanikus kert Dél-Szudán őshonos növényfajainak gyűjteményét őrzi. Emellett kisebb pihenőhelyként is szolgál a fővárosban.",
@@ -784,7 +784,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-loku-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Loku Waldreservat", hu: "Loku erdőrezervátum", ro: "Rezervația forestieră Loku", en: "Loku Forest Reserve" },
-    coordinates: { lat: 4.5833, lng: 31.8333 },
+    coords: [31.8333, 4.5833],
     description: {
       de: "Das Loku Waldreservat liegt südlich von Juba am Weißen Nil. Es besteht primär aus dichtem Galeriewald und bietet Lebensraum für Primaten.",
       hu: "A Loku erdőrezervátum Jubától délre, a Fehér-Nílus mentén fekszik. Elsősorban sűrű galériaerdőből áll, és főemlősök számára nyújt élőhelyet.",
@@ -803,7 +803,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-boma-wetland-buffer-life-v2",
     type: "wildlife",
     name: { de: "Boma Feuchtgebiet Pufferzone", hu: "Boma vizesés pufferzóna", ro: "Zona tampon a zonei umede Boma", en: "Boma Wetland Buffer Zone" },
-    coordinates: { lat: 6.8, lng: 34.2 },
+    coords: [34.2, 6.8],
     description: {
       de: "Diese Pufferzone grenzt an den Boma-Nationalpark an und erweitert den Schutzraum für Wildtiere. Sie ist ein wichtiges Gebiet für die saisonale Tierwanderung.",
       hu: "Ez a pufferzóna a Boma Nemzeti Parkkal határos, és kibővíti a vadon élő állatok védett területét. Fontos terület a szezonális állatvándorlás számára.",
@@ -822,7 +822,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-yambio-botanical-zone-life-v2",
     type: "forest",
     name: { de: "Yambio Botanik-Zone", hu: "Yambio botanikai övezet", ro: "Zona botanică Yambio", en: "Yambio Botanical Zone" },
-    coordinates: { lat: 4.5667, lng: 28.4 },
+    coords: [28.4, 4.5667],
     description: {
       de: "Die botanische Zone um Yambio zeichnet sich durch hohe Niederschläge und dichte äquatoriale Vegetation aus. Sie umfasst mehrere geschützte Waldgebiete.",
       hu: "A Yambio körüli botanikai övezetet nagy csapadékmennyiség és sűrű egyenlítői növényzet jellemzi. Több védett erdőterületet foglal magában.",
@@ -841,7 +841,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-raja-wildlife-reserve-life-v2",
     type: "wildlife",
     name: { de: "Raja Wildreservat", hu: "Raja vadvédelmi terület", ro: "Rezervația de faună Raja", en: "Raja Wildlife Reserve" },
-    coordinates: { lat: 8.45, lng: 25.6833 },
+    coords: [25.6833, 8.45],
     description: {
       de: "Das Raja Wildreservat liegt im Nordwesten nahe der Grenze zur Zentralafrikanischen Republik. Es schützt bedeutende Vorkommen von Huftieren in dieser Region.",
       hu: "A Raja vadvédelmi terület északnyugaton, a Közép-afrikai Köztársasággal határosan fekszik. Védi a patás állatok jelentős állományát ebben a régióban.",
@@ -860,7 +860,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-sobat-basin-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Sobat Becken Schutzgebiet", hu: "Sobat-medence védett terület", ro: "Sanctuarul bazinului Sobat", en: "Sobat Basin Sanctuary" },
-    coordinates: { lat: 8.1667, lng: 32.5 },
+    coords: [32.5, 8.1667],
     description: {
       de: "Dieses Schutzgebiet im Sobat-Becken bewahrt die natürliche Lebensgrundlage entlang der Flussniederungen. Es ist ein Rückzugsort für diverse afrikanische Wasservögel.",
       hu: "A Sobat-medencében található védett terület megőrzi a folyóvölgyek mentén húzódó természetes életteret. Különböző afrikai vízimadarak menedéke.",
@@ -879,7 +879,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-nimule-buffer-zone-life-v2",
     type: "wildlife",
     name: { de: "Nimule Pufferzone", hu: "Nimule pufferzóna", ro: "Zona tampon Nimule", en: "Nimule Buffer Zone" },
-    coordinates: { lat: 3.65, lng: 32.05 },
+    coords: [32.05, 3.65],
     description: {
       de: "Die Pufferzone um den Nimule-Nationalpark unterstützt den Schutz der Elefantenpopulationen bei ihren Wanderungen. Sie dient als Sicherheitsraum am Grenzfluss.",
       hu: "A Nimule Nemzeti Park körüli pufferzóna támogatja az elefántpopulációk vándorlásának védelmét. Biztonsági területként szolgál a határfolyónál.",
@@ -898,7 +898,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     id: "southsudan-kidepo-valley-extension-life-v2",
     type: "park",
     name: { de: "Kidepo Tal Erweiterung", hu: "Kidepo-völgy kiterjesztés", ro: "Extinderea văii Kidepo", en: "Kidepo Valley Extension" },
-    coordinates: { lat: 4.15, lng: 33.7 },
+    coords: [33.7, 4.15],
     description: {
       de: "Diese Erweiterung des Schutzgebietes im Kidepo-Tal sichert wichtige Weidegründe für Wildtiere. Sie verstärkt die ökologische Anbindung über die Staatsgrenze hinweg.",
       hu: "A Kidepo-völgyi védett terület ezen kiterjesztése fontos legelőket biztosít a vadon élő állatok számára. Erősíti az ökológiai kapcsolatot az államhatáron túl.",

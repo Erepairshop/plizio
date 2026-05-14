@@ -1086,7 +1086,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-buhanga-eco-park-history-v2",
     type: "forest",
     name: { de: "Buhanga Ökopark", hu: "Buhanga Ökopark", ro: "Parcul Eco Buhanga", en: "Buhanga Eco-Park" },
-    coordinates: { lat: -1.503, lng: 29.626 },
+    coords: [29.626, -1.503],
     description: {
       de: "Dieser heilige Wald war der Ort der Krönungszeremonien der ruandischen Könige. Er beherbergt seltene Baumarten und rituelle Stätten.",
       hu: "Ez a szent erdő a ruandai királyok koronázási ceremóniáinak helyszíne volt. Ritka fafajoknak és rituális helyszíneknek ad otthont.",
@@ -1105,7 +1105,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-shangi-historic-site-history-v2",
     type: "landmark",
     name: { de: "Historische Stätte Shangi", hu: "Shangi történelmi helyszín", ro: "Situl istoric Shangi", en: "Shangi Historic Site" },
-    coordinates: { lat: -2.408, lng: 28.983 },
+    coords: [28.983, -2.408],
     description: {
       de: "Hier errichtete Richard Kandt 1897 die erste deutsche Kolonialstation in Ruanda. Es markiert den Beginn der europäischen Präsenz.",
       hu: "Itt alapította Richard Kandt 1897-ben az első német gyarmati állomást Ruandában. Az európai jelenlét kezdetét jelzi.",
@@ -1124,7 +1124,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-zaza-mission-history-v2",
     type: "church",
     name: { de: "Historische Mission Zaza", hu: "Zaza történelmi misszió", ro: "Misiunea istorică Zaza", en: "Zaza Historic Mission" },
-    coordinates: { lat: -2.144, lng: 30.432 },
+    coords: [30.432, -2.144],
     description: {
       de: "Die 1900 gegründete Mission Zaza ist eine der ältesten katholischen Stationen Ruandas. Sie spielte eine zentrale Rolle bei der frühen Bildung.",
       hu: "Az 1900-ban alapított Zaza misszió Ruanda egyik legrégebbi katolikus állomása. Központi szerepet játszott a korai oktatásban.",
@@ -1143,7 +1143,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-gahanga-archaeology-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Gahanga", hu: "Gahanga régészeti helyszín", ro: "Situl arheologic Gahanga", en: "Gahanga Archaeological Site" },
-    coordinates: { lat: -2.042, lng: 30.111 },
+    coords: [30.111, -2.042],
     description: {
       de: "Dieser Ort ist bekannt für Funde aus der frühen Eisenzeit, darunter Werkzeuge und Töpferwaren. Er belegt die lange Siedlungsgeschichte der Region.",
       hu: "Ez a hely a korai vaskorból származó leleteiről, például eszközökről és kerámiákról ismert. A régió hosszú betelepülési múltját igazolja.",
@@ -1162,7 +1162,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-nkotsi-na-bikara-history-v2",
     type: "landmark",
     name: { de: "Königliche Stätte Nkotsi na Bikara", hu: "Nkotsi na Bikara királyi helyszín", ro: "Situl regal Nkotsi na Bikara", en: "Nkotsi na Bikara Royal Site" },
-    coordinates: { lat: -1.531, lng: 29.619 },
+    coords: [29.619, -1.531],
     description: {
       de: "Dies ist der Ort, an dem die ersten Könige der Nyiginya-Dynastie residierten. Er gilt als die Wiege des ruandischen Königreichs.",
       hu: "Ez az a hely, ahol a Nyiginya-dinasztia első királyai székeltek. A ruandai királyság bölcsőjének tekintik.",
@@ -1181,7 +1181,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-nyamirambo-old-quarter-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Nyamirambo", hu: "Nyamirambo történelmi negyed", ro: "Cartierul istoric Nyamirambo", en: "Nyamirambo Old Quarter" },
-    coordinates: { lat: -1.975, lng: 30.045 },
+    coords: [30.045, -1.975],
     description: {
       de: "Nyamirambo ist das älteste kosmopolitische Viertel von Kigali. Es entstand im frühen 20. Jahrhundert und ist bekannt für seine muslimische Gemeinde.",
       hu: "Nyamirambo Kigali legrégebbi kozmopolita negyede. A 20. század elején alakult ki, és muzulmán közösségéről ismert.",
@@ -1200,7 +1200,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-save-mission-site-history-v2",
     type: "church",
     name: { de: "Missionsstation Save", hu: "Save missziós helyszín", ro: "Situl misiunii Save", en: "Save Catholic Mission Site" },
-    coordinates: { lat: -2.552, lng: 29.771 },
+    coords: [29.771, -2.552],
     description: {
       de: "Save ist der Ort der allerersten katholischen Mission in Ruanda, gegründet im Februar 1900. Es ist die Geburtsstätte der Kirche im Land.",
       hu: "Save az első ruandai katolikus misszió helyszíne, amelyet 1900 februárjában alapítottak. Az egyház szülőhelye az országban.",
@@ -1219,7 +1219,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-nyundo-mission-history-v2",
     type: "church",
     name: { de: "Historische Mission Nyundo", hu: "Nyundo történelmi misszió", ro: "Misiunea istorică Nyundo", en: "Nyundo Historic Mission" },
-    coordinates: { lat: -1.691, lng: 29.324 },
+    coords: [29.324, -1.691],
     description: {
       de: "Die 1901 gegründete Mission Nyundo war ein bedeutendes Zentrum für Bildung und Kunsthandwerk. Sie liegt im Westen des Landes.",
       hu: "Az 1901-ben alapított Nyundo misszió az oktatás és a kézművesség jelentős központja volt. Az ország nyugati részén található.",
@@ -1238,7 +1238,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-cyangugu-old-town-history-v2",
     type: "landmark",
     name: { de: "Altstadt von Cyangugu", hu: "Cyangugu óvárosa", ro: "Orașul vechi Cyangugu", en: "Cyangugu Old Town" },
-    coordinates: { lat: -2.484, lng: 28.905 },
+    coords: [28.905, -2.484],
     description: {
       de: "Cyangugu war ein wichtiges koloniales Verwaltungszentrum an der Grenze zum Kongo. Die Altstadt bewahrt noch Architektur aus der belgischen Ära.",
       hu: "Cyangugu fontos gyarmati közigazgatási központ volt a kongói határon. Az óváros még őrzi a belga korszak építészetét.",
@@ -1257,7 +1257,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-rwaza-hill-history-v2",
     type: "landmark",
     name: { de: "Königlicher Hügel Rwaza", hu: "Rwaza királyi domb", ro: "Dealul regal Rwaza", en: "Rwaza Royal Hill" },
-    coordinates: { lat: -1.572, lng: 29.704 },
+    coords: [29.704, -1.572],
     description: {
       de: "Rwaza war ein Standort eines königlichen Palastes und eine der ersten katholischen Missionsstationen im Norden Ruandas.",
       hu: "Rwaza egy királyi palota helyszíne és az egyik első katolikus missziós állomás volt Ruanda északi részén.",
@@ -1276,7 +1276,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-mount-jali-memorial-history-v2",
     type: "mountain",
     name: { de: "Historische Stätte Berg Jali", hu: "Jali-hegy történelmi helyszín", ro: "Situl istoric Muntele Jali", en: "Mount Jali Historical Site" },
-    coordinates: { lat: -1.912, lng: 30.015 },
+    coords: [30.015, -1.912],
     description: {
       de: "Der Berg Jali überblickt Kigali und war historisch ein strategischer Punkt für Kommunikation und Verteidigung.",
       hu: "A Jali-hegy Kigali fölé magasodik, és történelmileg stratégiai pont volt a kommunikáció és a védelem szempontjából.",
@@ -1295,7 +1295,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-mushubati-royal-site-history-v2",
     type: "landmark",
     name: { de: "Königliche Stätte Mushubati", hu: "Mushubati királyi helyszín", ro: "Situl regal Mushubati", en: "Mushubati Royal Site" },
-    coordinates: { lat: -2.001, lng: 29.654 },
+    coords: [29.654, -2.001],
     description: {
       de: "Mushubati beherbergte mehrere königliche Residenzen und war Schauplatz bedeutender Schlachten in der ruandischen Geschichte.",
       hu: "Mushubati több királyi rezidenciának adott otthont, és jelentős csaták helyszíne volt a ruandai történelemben.",
@@ -1314,7 +1314,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-nyakizu-historic-hill-history-v2",
     type: "landmark",
     name: { de: "Historischer Hügel Nyakizu", hu: "Nyakizu történelmi domb", ro: "Dealul istoric Nyakizu", en: "Nyakizu Historic Hill" },
-    coordinates: { lat: -2.754, lng: 29.752 },
+    coords: [29.752, -2.754],
     description: {
       de: "Nyakizu ist bekannt für seine archäologischen Stätten mit antiken Eisenschmelzöfen, die eine lange Metallurgie-Tradition belegen.",
       hu: "Nyakizu az ősi vaskohókat tartalmazó régészeti helyszíneiről ismert, amelyek a régi kohászati hagyományokat bizonyítják.",
@@ -1333,7 +1333,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-gihuta-ancient-site-history-v2",
     type: "landmark",
     name: { de: "Antike Stätte Gihuta", hu: "Gihuta ősi helyszín", ro: "Situl antic Gihuta", en: "Gihuta Ancient Site" },
-    coordinates: { lat: -2.602, lng: 29.701 },
+    coords: [29.701, -2.602],
     description: {
       de: "Gihuta ist ein historischer Hügel, der eng mit der Regierungszeit von König Kigeli IV Rwabugiri und seinen Feldzügen verbunden ist.",
       hu: "Gihuta egy történelmi domb, amely szorosan kapcsolódik IV. Kigeli Rwabugiri király uralkodásához és hadjárataihoz.",
@@ -1352,7 +1352,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-kibirizi-royal-residence-history-v2",
     type: "palace",
     name: { de: "Königliche Residenz Kibirizi", hu: "Kibirizi királyi rezidencia", ro: "Reședința regală Kibirizi", en: "Kibirizi Royal Residence" },
-    coordinates: { lat: -2.651, lng: 29.723 },
+    coords: [29.723, -2.651],
     description: {
       de: "Kibirizi war die Residenz mehrerer ruandischer Monarchen im 19. Jahrhundert und ein Zentrum der königlichen Verwaltung.",
       hu: "Kibirizi több ruandai uralkodó rezidenciája volt a 19. században, és a királyi közigazgatás egyik központja.",
@@ -1371,7 +1371,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-runda-ancient-capital-history-v2",
     type: "landmark",
     name: { de: "Antike Hauptstadt Runda", hu: "Runda ősi főváros", ro: "Capitala antică Runda", en: "Runda Ancient Capital" },
-    coordinates: { lat: -1.954, lng: 29.952 },
+    coords: [29.952, -1.954],
     description: {
       de: "Runda diente unter der Herrschaft von König Cyilima II. Rujugira als eine der Wanderhauptstädte des ruandischen Königreichs.",
       hu: "Runda II. Cyilima Rujugira király uralkodása alatt a ruandai királyság egyik vándorló fővárosaként szolgált.",
@@ -1390,7 +1390,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-kamonyi-royal-hill-history-v2",
     type: "landmark",
     name: { de: "Königlicher Hügel Kamonyi", hu: "Kamonyi királyi domb", ro: "Dealul regal Kamonyi", en: "Kamonyi Royal Hill" },
-    coordinates: { lat: -1.982, lng: 29.901 },
+    coords: [29.901, -1.982],
     description: {
       de: "Auf diesem Hügel wurde König Yuhi IV. Gahindiro inthronisiert. Er ist ein zentraler Ort der königlichen Traditionen und Geschichte.",
       hu: "Ezen a dombon iktatták be IV. Yuhi Gahindiro királyt. A királyi hagyományok és történelem központi helyszíne.",
@@ -1409,7 +1409,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-remera-historic-settlement-history-v2",
     type: "landmark",
     name: { de: "Historische Siedlung Remera", hu: "Remera történelmi település", ro: "Așezarea istorică Remera", en: "Remera Historic Settlement" },
-    coordinates: { lat: -1.961, lng: 30.122 },
+    coords: [30.122, -1.961],
     description: {
       de: "Remera war historisch ein wichtiger Knotenpunkt für Karawanen und den Handel zwischen Zentralruanda und den östlichen Regionen.",
       hu: "Remera történelmileg fontos csomópont volt a karavánok és a Közép-Ruanda és a keleti régiók közötti kereskedelem számára.",
@@ -1428,7 +1428,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-mabanza-historic-site-history-v2",
     type: "landmark",
     name: { de: "Historische Stätte Mabanza", hu: "Mabanza történelmi helyszín", ro: "Situl istoric Mabanza", en: "Mabanza Historic Site" },
-    coordinates: { lat: -2.045, lng: 29.542 },
+    coords: [29.542, -2.045],
     description: {
       de: "Mabanza ist bekannt für seine frühe koloniale Infrastruktur und eine der ersten protestantischen Missionen in der Region.",
       hu: "Mabanza korai gyarmati infrastruktúrájáról és a régió egyik első protestáns missziójáról ismert.",
@@ -1447,7 +1447,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "rwanda-kansi-historic-mission-history-v2",
     type: "church",
     name: { de: "Historische Mission Kansi", hu: "Kansi történelmi misszió", ro: "Misiunea istorică Kansi", en: "Kansi Historic Mission" },
-    coordinates: { lat: -2.631, lng: 29.814 },
+    coords: [29.814, -2.631],
     description: {
       de: "Die Mission Kansi war ein bedeutendes religiöses und schulisches Zentrum im Süden Ruandas, gegründet in der frühen Kolonialzeit.",
       hu: "A Kansi misszió jelentős vallási és oktatási központ volt Ruanda déli részén, a korai gyarmati időszakban alapították.",

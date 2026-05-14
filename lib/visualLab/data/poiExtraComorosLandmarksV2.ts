@@ -907,7 +907,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-moroni-town-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Moroni", hu: "Moroni városháza", ro: "Primăria din Moroni", en: "Moroni Town Hall" },
-    coordinates: { lat: -11.701, lng: 43.245 },
+    coords: [43.245, -11.701],
     description: {
       de: "Das Verwaltungsgebäude im Zentrum von Moroni dient als Sitz der Stadtverwaltung der komorischen Hauptstadt.",
       hu: "A komori főváros központjában található épület a helyi önkormányzat és a városvezetés székhelye.",
@@ -938,7 +938,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-moroni-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptpost von Moroni", hu: "Moroni főposta", ro: "Poșta Mare din Moroni", en: "Moroni Main Post Office" },
-    coordinates: { lat: -11.703, lng: 43.247 },
+    coords: [43.247, -11.703],
     description: {
       de: "Das zentrale Postgebäude ist ein bekannter Orientierungspunkt in der Hauptstadt Grande Comores.",
       hu: "A központi postaépület ismert tájékozódási pont Nagy-Comore szigetének fővárosában.",
@@ -969,7 +969,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mvouni-campus-landmarks-v2",
     type: "university",
     name: { de: "Universitätscampus Mvouni", hu: "Mvouni egyetemi campus", ro: "Campusul Universitar Mvouni", en: "Mvouni University Campus" },
-    coordinates: { lat: -11.719, lng: 43.273 },
+    coords: [43.273, -11.719],
     description: {
       de: "Der Mvouni-Campus ist der wichtigste akademische Standort der Universität der Komoren am Fuße des Karthala.",
       hu: "A Mvouni campus a Komori-szigetek Egyetemének legfontosabb akadémiai helyszíne a Karthala lábánál.",
@@ -1000,7 +1000,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-national-library-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek der Komoren", hu: "Komori Nemzeti Könyvtár", ro: "Biblioteca Națională a Comorelor", en: "National Library of the Comoros" },
-    coordinates: { lat: -11.705, lng: 43.249 },
+    coords: [43.249, -11.705],
     description: {
       de: "Die Nationalbibliothek in Moroni bewahrt das literarische Erbe und offizielle Dokumente des Inselstaates auf.",
       hu: "A moroni nemzeti könyvtár őrzi a szigetország irodalmi örökségét és hivatalos dokumentumait.",
@@ -1031,7 +1031,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-el-maarouf-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "El-Maarouf Krankenhaus", hu: "El-Maarouf kórház", ro: "Spitalul El-Maarouf", en: "El-Maarouf Hospital" },
-    coordinates: { lat: -11.707, lng: 43.243 },
+    coords: [43.243, -11.707],
     description: {
       de: "Dieses Krankenhaus ist das größte medizinische Zentrum der Komoren und ein wichtiger Orientierungspunkt in Moroni.",
       hu: "Ez a kórház a Komori-szigetek legnagyobb orvosi központja és Moroni egyik fontos tájékozódási pontja.",
@@ -1062,7 +1062,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mutsamudu-courthouse-landmarks-v2",
     type: "landmark",
     name: { de: "Gerichtsgebäude von Mutsamudu", hu: "Mutsamudu bírósági épülete", ro: "Palatul de Justiție din Mutsamudu", en: "Mutsamudu Courthouse" },
-    coordinates: { lat: -12.165, lng: 44.401 },
+    coords: [44.401, -12.165],
     description: {
       de: "Dieses Justizgebäude in der Hafenstadt Mutsamudu ist das rechtliche Zentrum der Insel Anjouan.",
       hu: "Ez az igazságügyi épület Mutsamudu kikötővárosában Anjouan szigetének jogi központja.",
@@ -1093,7 +1093,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-anjouan-council-building-landmarks-v2",
     type: "landmark",
     name: { de: "Regionalrat von Anjouan", hu: "Anjouan Regionális Tanácsa", ro: "Consiliul Regional din Anjouan", en: "Anjouan Regional Council" },
-    coordinates: { lat: -12.167, lng: 44.398 },
+    coords: [44.398, -12.167],
     description: {
       de: "Das Verwaltungsgebäude des Regionalrats beherbergt die lokale Regierung der Insel Anjouan in Mutsamudu.",
       hu: "A regionális tanács adminisztratív épülete Anjouan szigetének helyi kormányzatának ad otthont Mutsamuduban.",
@@ -1124,7 +1124,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mitsamiouli-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Mitsamiouli", hu: "Mitsamiouli világítótorony", ro: "Farul din Mitsamiouli", en: "Mitsamiouli Lighthouse" },
-    coordinates: { lat: -11.385, lng: 43.275 },
+    coords: [43.275, -11.385],
     description: {
       de: "Der Leuchtturm im Norden von Grande Comore leitet den Schiffsverkehr an der strategischen Küste bei Mitsamiouli.",
       hu: "Nagy-Comore északi részén található világítótorony segíti a hajóforgalmat Mitsamiouli stratégiai partvidékénél.",
@@ -1155,7 +1155,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mutsamudu-customs-house-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus von Mutsamudu", hu: "Mutsamudu régi vámszékháza", ro: "Vechea Vamă din Mutsamudu", en: "Mutsamudu Old Customs House" },
-    coordinates: { lat: -12.162, lng: 44.403 },
+    coords: [44.403, -12.162],
     description: {
       de: "Dieses historische Gebäude am Hafen von Mutsamudu war einst der Drehpunkt für den Handel auf Anjouan.",
       hu: "Ez a Mutsamudu kikötőjében álló történelmi épület egykor az Anjouan-szigeti kereskedelem központja volt.",
@@ -1186,7 +1186,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-domoni-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Domoni", hu: "Domoni városháza", ro: "Primăria din Domoni", en: "Domoni City Hall" },
-    coordinates: { lat: -12.258, lng: 44.532 },
+    coords: [44.532, -12.258],
     description: {
       de: "Das Rathaus der historischen Stadt Domoni auf Anjouan verwaltet die lokalen Angelegenheiten dieser alten Sultansstadt.",
       hu: "Az anjouani Domoni történelmi városának városháza irányítja a régi szultáni város helyi ügyeit.",
@@ -1217,7 +1217,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-fomboni-library-landmarks-v2",
     type: "museum",
     name: { de: "Öffentliche Bibliothek von Fomboni", hu: "Fomboni közkönyvtár", ro: "Biblioteca Publică din Fomboni", en: "Fomboni Public Library" },
-    coordinates: { lat: -12.281, lng: 43.732 },
+    coords: [43.732, -12.281],
     description: {
       de: "Die Bibliothek in Fomboni ist das wichtigste Bildungs- und Lesezentrum der kleinsten Hauptinsel Mohéli.",
       hu: "A fomboni könyvtár a legkisebb fősziget, Mohéli legfontosabb oktatási és olvasási központja.",
@@ -1248,7 +1248,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-moheli-council-building-landmarks-v2",
     type: "landmark",
     name: { de: "Regionalrat von Mohéli", hu: "Mohéli Regionális Tanácsa", ro: "Consiliul Regional din Mohéli", en: "Mohéli Regional Council Building" },
-    coordinates: { lat: -12.279, lng: 43.735 },
+    coords: [43.735, -12.279],
     description: {
       de: "Dieses Gebäude dient als Sitz des Regionalrats und der Inselregierung von Mohéli in der Stadt Fomboni.",
       hu: "Ez az épület a regionális tanács és Mohéli szigeti kormányzatának székhelye Fomboni városában.",
@@ -1279,7 +1279,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-sheikh-said-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Cheikh Saïd Denkmal", hu: "Cheikh Saïd emlékmű", ro: "Memorialul Cheikh Saïd", en: "Sheikh Saïd Memorial" },
-    coordinates: { lat: -12.164, lng: 44.405 },
+    coords: [44.405, -12.164],
     description: {
       de: "Das Denkmal in Mutsamudu ehrt einen der bedeutendsten religiösen und politischen Führer der Insel Anjouan.",
       hu: "A mutsamudui emlékmű Anjouan szigetének egyik legjelentősebb vallási és politikai vezetője előtt tiszteleg.",
@@ -1310,7 +1310,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-oubini-fort-landmarks-v2",
     type: "ruins",
     name: { de: "Festung von Oubini", hu: "Oubini erőd", ro: "Fortăreața Oubini", en: "Oubini Fortification" },
-    coordinates: { lat: -12.185, lng: 44.432 },
+    coords: [44.432, -12.185],
     description: {
       de: "Diese Ruinen einer ehemaligen Befestigungsanlage auf Anjouan zeugen von der strategischen Verteidigung der Küste.",
       hu: "Egy korábbi erődítmény romjai Anjouan szigetén, amely a tengerpart stratégiai védelméről tanúskodik.",
@@ -1341,7 +1341,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mirontsi-bastion-landmarks-v2",
     type: "monument",
     name: { de: "Bastion von Mirontsi", hu: "Mirontsi bástya", ro: "Bastionul din Mirontsi", en: "Mirontsi Bastion" },
-    coordinates: { lat: -12.155, lng: 44.415 },
+    coords: [44.415, -12.155],
     description: {
       de: "Die Bastion von Mirontsi ist ein Überrest der historischen Stadtmauer, die den Zugang zur Region Mutsamudu schützte.",
       hu: "A Mirontsi bástya a történelmi városfal maradványa, amely a Mutsamudu régió bejáratát védte.",
@@ -1372,7 +1372,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-moroni-harbor-light-landmarks-v2",
     type: "tower",
     name: { de: "Hafenfeuer von Moroni", hu: "Moroni kikötői fény", ro: "Lumina Portului Moroni", en: "Moroni Harbor Light" },
-    coordinates: { lat: -11.702, lng: 43.242 },
+    coords: [43.242, -11.702],
     description: {
       de: "Dieses kleine Signalfeuer am Eingang des Hafens von Moroni ist entscheidend für die Sicherheit der ankommenden Dhaus.",
       hu: "Ez a moroni kikötő bejáratánál lévő kis jelzőfény döntő fontosságú az érkező dhow-k biztonsága szempontjából.",
@@ -1403,7 +1403,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-cndrs-archive-landmarks-v2",
     type: "museum",
     name: { de: "CNDRS Archivgebäude", hu: "CNDRS archívum épülete", ro: "Clădirea Arhivelor CNDRS", en: "CNDRS Archive Building" },
-    coordinates: { lat: -11.706, lng: 43.248 },
+    coords: [43.248, -11.706],
     description: {
       de: "Das Archiv des Nationalen Forschungszentrums bewahrt seltene Manuskripte und historische Aufzeichnungen der Komoren auf.",
       hu: "A Nemzeti Kutatóközpont archívuma ritka kéziratokat és a Komori-szigetek történelmi feljegyzéseit őrzi.",
@@ -1434,7 +1434,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mutsamudu-cultural-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturzentrum von Mutsamudu", hu: "Mutsamudu kulturális központja", ro: "Centrul Cultural din Mutsamudu", en: "Mutsamudu Cultural Center" },
-    coordinates: { lat: -12.166, lng: 44.399 },
+    coords: [44.399, -12.166],
     description: {
       de: "Dieses Zentrum ist der Treffpunkt für Kunst und Kultur in der zweitgrößten Stadt des Landes auf der Insel Anjouan.",
       hu: "Ez a központ a művészet és a kultúra találkozóhelye az ország második legnagyobb városában, Anjouan szigetén.",
@@ -1465,7 +1465,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-iconi-piazza-landmarks-v2",
     type: "landmark",
     name: { de: "Platz von Iconi", hu: "Iconi tere", ro: "Piața din Iconi", en: "Iconi Village Square" },
-    coordinates: { lat: -11.735, lng: 43.248 },
+    coords: [43.248, -11.735],
     description: {
       de: "Der Dorfplatz von Iconi ist das soziale Zentrum der ehemaligen Hauptstadt mit Blick auf die markanten Klippen.",
       hu: "Iconi falu tere az egykori főváros társadalmi központja, kilátással a jellegzetes sziklákra.",
@@ -1496,7 +1496,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-gendarmerie-hq-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptquartier der Gendarmerie", hu: "Csendőrségi főhadiszállás", ro: "Sediul Jandarmeriei", en: "Gendarmerie Headquarters" },
-    coordinates: { lat: -11.708, lng: 43.25 },
+    coords: [43.25, -11.708],
     description: {
       de: "Das Hauptquartier der Gendarmerie Nationale in Moroni ist ein bedeutendes staatliches Sicherheitsgebäude.",
       hu: "A Nemzeti Csendőrség moroni főhadiszállása jelentős állami biztonsági épület.",
@@ -1527,7 +1527,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-fomboni-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Krankenhaus von Fomboni", hu: "Fomboni kórház", ro: "Spitalul din Fomboni", en: "Fomboni Hospital" },
-    coordinates: { lat: -12.283, lng: 43.73 },
+    coords: [43.73, -12.283],
     description: {
       de: "Das Regionalhospital von Fomboni sichert die medizinische Versorgung der gesamten Bevölkerung auf der Insel Mohéli.",
       hu: "A fomboni regionális kórház biztosítja a teljes lakosság orvosi ellátását Mohéli szigetén.",
@@ -1558,7 +1558,7 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     id: "comoros-mirontsi-palace-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Palastruinen von Mirontsi", hu: "Mirontsi palotaromok", ro: "Ruinele Palatului din Mirontsi", en: "Mirontsi Royal Palace Ruins" },
-    coordinates: { lat: -12.158, lng: 44.412 },
+    coords: [44.412, -12.158],
     description: {
       de: "Diese Ruinen in Mirontsi erinnern an die einstige Pracht der Sultanspaläste auf der Insel Anjouan.",
       hu: "Ezek a mirontsi romok az anjouani szultáni paloták egykori fényére emlékeztetnek.",

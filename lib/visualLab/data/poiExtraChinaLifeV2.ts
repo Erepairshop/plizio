@@ -727,7 +727,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-dafeng-milu-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Dafeng Milu Naturreservat", hu: "Dafeng Milu Természetvédelmi Terület", ro: "Rezervația Naturală Dafeng Milu", en: "Dafeng Milu Nature Reserve" },
-    coordinates: { lat: 33.05, lng: 120.84 },
+    coords: [120.84, 33.05],
     description: {
       de: "Dieses Schutzgebiet am Gelben Meer beherbergt die weltweit größte Population von Milu-Hirschen. Es umfasst ausgedehnte Küstenfeuchtgebiete in der Provinz Jiangsu.",
       hu: "Ez a Sárga-tenger partján fekvő rezervátum ad otthont a világ legnagyobb milu-szarvas populációjának. Jiangsu tartomány kiterjedt mocsárvidékeit foglalja magában.",
@@ -758,7 +758,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-xishuangbanna-botanical-garden-life-v2",
     type: "park",
     name: { de: "Tropischer Botanischer Garten Xishuangbanna", hu: "Hszishuangbanna Trópusi Botanikus Kert", ro: "Grădina Botanică Tropicală Xishuangbanna", en: "Xishuangbanna Tropical Botanical Garden" },
-    coordinates: { lat: 21.92, lng: 101.25 },
+    coords: [101.25, 21.92],
     description: {
       de: "Diese führende Forschungseinrichtung in Yunnan kultiviert über 13.000 Pflanzenarten. Sie liegt auf einer Halbinsel, die vom Luosuo-Fluss umgeben ist.",
       hu: "Ez a jünnani kutatóintézet több mint 13 000 növényfajt gondoz. A kert egy félszigeten terül el, amelyet a Luosuo-folyó ölel körbe.",
@@ -789,7 +789,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-shennongjia-national-park-life-v2",
     type: "wildlife",
     name: { de: "Shennongjia Nationalpark", hu: "Sennungcsia Nemzeti Park", ro: "Parcul Național Shennongjia", en: "Shennongjia National Park" },
-    coordinates: { lat: 31.49, lng: 110.32 },
+    coords: [110.32, 31.49],
     description: {
       de: "Ein UNESCO-Weltnaturerbe in Hubei, bekannt für seine unberührten Primärwälder. Es bietet Schutz für den seltenen Goldenen Stumpfnasenaffen.",
       hu: "Hubei tartomány UNESCO világörökségi helyszíne, amely érintetlen őserdeiről ismert. Fontos menedéket nyújt a ritka arany piszeorrú majomnak.",
@@ -820,7 +820,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-poyang-lake-wetland-life-v2",
     type: "wildlife",
     name: { de: "Poyang-See Feuchtgebiet", hu: "Pojang-tó vizes élőhely", ro: "Zona umedă a lacului Poyang", en: "Poyang Lake Wetland" },
-    coordinates: { lat: 29.15, lng: 116.27 },
+    coords: [116.27, 29.15],
     description: {
       de: "Das größte Süßwasser-Feuchtgebiet Chinas dient als lebenswichtiger Rastplatz für Zugvögel. Es beherbergt im Winter fast die gesamte Weltpopulation der Schneekraniche.",
       hu: "Kína legnagyobb édesvízi mocsárvidéke létfontosságú pihenőhely a vándormadarak számára. Télen itt él a hódarvak szinte teljes világpopulációja.",
@@ -851,7 +851,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-hoh-xil-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Hoh Xil Naturreservat", hu: "Hoh Xil Természetvédelmi Terület", ro: "Rezervația Naturală Hoh Xil", en: "Hoh Xil Nature Reserve" },
-    coordinates: { lat: 35.25, lng: 92.4 },
+    coords: [92.4, 35.25],
     description: {
       de: "Dieses Hochplateau-Reservat in Qinghai schützt die Wanderroute der Tibetantilope. Es liegt auf einer durchschnittlichen Höhe von über 4.500 Metern.",
       hu: "Ez a csinghaji magasföldi rezervátum a tibeti antilop vándorlási útvonalát védi. Átlagosan 4500 méter feletti tengerszint feletti magasságban fekszik.",
@@ -882,7 +882,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-sanjiangyuan-national-park-life-v2",
     type: "park",
     name: { de: "Sanjiangyuan Nationalpark", hu: "Szancsiangyuan Nemzeti Park", ro: "Parcul Național Sanjiangyuan", en: "Sanjiangyuan National Park" },
-    coordinates: { lat: 34.5, lng: 96.5 },
+    coords: [96.5, 34.5],
     description: {
       de: "Dieses Schutzgebiet beherbergt die Quellen des Gelben Flusses, des Jangtse und des Mekong. Es ist bekannt für seine Hochgebirgsökosysteme und reiche Flora.",
       hu: "Ez a védett terület a Sárga-folyó, a Jangce és a Mekong forrásvidékét foglalja magában. Magashegyi ökoszisztémáiról és gazdag flórájáról ismert.",
@@ -913,7 +913,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-xixi-wetland-park-life-v2",
     type: "park",
     name: { de: "Xixi Nationaler Feuchtgebietspark", hu: "Hsziszi Nemzeti Mocsárpark", ro: "Parcul Național de Zonă Umedă Xixi", en: "Xixi National Wetland Park" },
-    coordinates: { lat: 30.27, lng: 120.06 },
+    coords: [120.06, 30.27],
     description: {
       de: "Ein seltener städtischer Feuchtgebietspark in Hangzhou, der Natur mit traditioneller lokaler Kultur verbindet. Er besteht aus zahlreichen Wasserläufen und Inseln.",
       hu: "Ritka városi mocsárpark Hangcsouban, amely a természetet a hagyományos helyi kultúrával ötvözi. Számos vízi útból és szigetből áll.",
@@ -944,7 +944,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-guangzhou-chimelong-safari-life-v2",
     type: "wildlife",
     name: { de: "Chimelong Safari Park Guangzhou", hu: "Kuangcsou Chimelong Szafari Park", ro: "Parcul Safari Chimelong Guangzhou", en: "Guangzhou Chimelong Safari Park" },
-    coordinates: { lat: 22.99, lng: 113.32 },
+    coords: [113.32, 22.99],
     description: {
       de: "Einer der größten Safariparks der Welt mit über 20.000 seltenen Tieren aus 500 Arten. Er bietet großzügige Freilandgehege für Tiere aller Kontinente.",
       hu: "A világ egyik legnagyobb szafariparkja, több mint 20 000 ritka állattal és 500 fajjal. Tágas, szabad kifutókat kínál minden kontinens állatainak.",
@@ -975,7 +975,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-shanghai-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Shanghai", hu: "Sanghaji Botanikus Kert", ro: "Grădina Botanică din Shanghai", en: "Shanghai Botanical Garden" },
-    coordinates: { lat: 31.14, lng: 121.44 },
+    coords: [121.44, 31.14],
     description: {
       de: "Ein bedeutendes Zentrum für Pflanzenschutz und Forschung in der Metropole Shanghai. Der Garten ist berühmt für seine umfangreiche Bonsai-Sammlung.",
       hu: "A növényvédelem és kutatás jelentős központja Sanghaj metropoliszában. A kert híres kiterjedt bonsai-gyűjteményéről (penjing).",
@@ -1006,7 +1006,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-caohai-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Caohai Naturreservat", hu: "Caohai Természetvédelmi Terület", ro: "Rezervația Naturală Caohai", en: "Caohai Nature Reserve" },
-    coordinates: { lat: 26.85, lng: 104.25 },
+    coords: [104.25, 26.85],
     description: {
       de: "Ein wichtiges Feuchtgebiet auf dem Hochplateau von Guizhou, das als 'Meer aus Gras' bekannt ist. Es ist ein bedeutender Winterquartier für Schwarzhalskraniche.",
       hu: "Fontos mocsárvidék a kujcsoui fennsíkon, amelyet 'fűtenger' néven ismernek. A feketenyakú darvak egyik legfontosabb telelőhelye.",
@@ -1037,7 +1037,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-nanjing-hongshan-zoo-life-v2",
     type: "wildlife",
     name: { de: "Hongshan Waldzoo Nanjing", hu: "Nankingi Hongshan Erdei Állatkert", ro: "Grădina Zoologică Forestieră Hongshan din Nanjing", en: "Nanjing Hongshan Forest Zoo" },
-    coordinates: { lat: 32.09, lng: 118.8 },
+    coords: [118.8, 32.09],
     description: {
       de: "Ein innovativer Zoo in Nanjing, der für seine naturnahen Gehege und Tierschutzprogramme bekannt ist. Er erstreckt sich über drei bewaldete Hügel.",
       hu: "Innovatív állatkert Nankingban, amely természethű kifutóiról és állatvédelmi programjairól ismert. Három erdős dombon terül el.",
@@ -1068,7 +1068,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-tangjiahe-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Tangjiahe Naturreservat", hu: "Tangcsiahe Természetvédelmi Terület", ro: "Rezervația Naturală Tangjiahe", en: "Tangjiahe Nature Reserve" },
-    coordinates: { lat: 32.58, lng: 104.85 },
+    coords: [104.85, 32.58],
     description: {
       de: "Dieses Reservat in Sichuan gilt als einer der besten Orte weltweit, um seltene Säugetiere wie den Takin in freier Wildbahn zu sehen.",
       hu: "Ez a szecsuáni rezervátum a világ egyik legjobb helye olyan ritka emlősök megfigyelésére, mint a takin a vadonban.",
@@ -1099,7 +1099,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-keqiao-torreya-garden-life-v2",
     type: "park",
     name: { de: "Keqiao Torreya Nationalpark", hu: "Ko-csiao Torreya Nemzeti Park", ro: "Parcul Național Keqiao Torreya", en: "Keqiao Torreya National Park" },
-    coordinates: { lat: 29.8, lng: 120.5 },
+    coords: [120.5, 29.8],
     description: {
       de: "Dieser Park in Zhejiang bewahrt einen uralten Wald aus Chinesischen Torreya-Bäumen. Viele dieser Bäume sind über 1.000 Jahre alt und tragen essbare Nüsse.",
       hu: "Ez a Csöcsiang tartománybeli park ősi kínai Torreya-erdőt őriz. Sok fa több mint 1000 éves, és ehető magvakat terem.",
@@ -1130,7 +1130,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-bawangling-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Bawangling Naturreservat", hu: "Bavangling Természetvédelmi Terület", ro: "Rezervația Naturală Bawangling", en: "Bawangling Nature Reserve" },
-    coordinates: { lat: 19.12, lng: 109.15 },
+    coords: [109.15, 19.12],
     description: {
       de: "Das Reservat auf der Insel Hainan schützt den Hainan-Gibbon, den seltensten Primaten der Welt. Es besteht aus tropischem Bergregenwald.",
       hu: "A Hainan-szigeti rezervátum a világ legritkább főemlősét, a hainani gibbont védi. Trópusi hegyi esőerdők alkotják a területét.",
@@ -1161,7 +1161,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-gaoligong-mountains-life-v2",
     type: "wildlife",
     name: { de: "Gaoligong Shan Nationalreservat", hu: "Kaolikungsan Nemzeti Rezervátum", ro: "Rezervația Națională Munții Gaoligong", en: "Gaoligong Mountains National Reserve" },
-    coordinates: { lat: 25.35, lng: 98.8 },
+    coords: [98.8, 25.35],
     description: {
       de: "Ein Biodiversitäts-Hotspot an der Grenze zu Myanmar, bekannt für seine enorme Artenvielfalt. Es beherbergt vertikale Klimazonen von subtropisch bis alpin.",
       hu: "Biodiverzitási hotspot a mianmari határon, amely óriási fajgazdagságáról ismert. Függőleges éghajlati övezetek találhatók itt a szubtrópustól az alpesiig.",
@@ -1192,7 +1192,7 @@ export const poiExtraChinaLifeV2: POI[] = [
     id: "china-dongting-lake-wetland-life-v2",
     type: "wildlife",
     name: { de: "Dongting-See Feuchtgebiet", hu: "Tungting-tó vizes élőhely", ro: "Zona umedă a lacului Dongting", en: "Dongting Lake Wetland" },
-    coordinates: { lat: 29.32, lng: 112.95 },
+    coords: [112.95, 29.32],
     description: {
       de: "Dieses riesige Überschwemmungsgebiet des Jangtse ist ein wichtiger Lebensraum für Süßwasserfische und Vögel. Es ist der zweitgrößte Süßwassersee Chinas.",
       hu: "A Jangce hatalmas árterülete, amely az édesvízi halak és madarak fontos élőhelye. Kína második legnagyobb édesvízi tava.",

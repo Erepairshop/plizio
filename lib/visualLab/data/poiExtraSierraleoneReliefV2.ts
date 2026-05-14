@@ -1046,7 +1046,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
     id: "sierraleone-konkori-escarpment-relief-v2",
     type: "mountain",
     name: { de: "Konkori-Steilhang", hu: "Konkori-lejtő", ro: "Ecarpamentul Konkori", en: "Konkori Escarpment" },
-    coordinates: { lat: 9.42, lng: -11.95 },
+    coords: [-11.95, 9.42],
     description: {
       de: "Der Konkori-Steilhang markiert eine markante topographische Stufe in der Nordprovinz von Sierra Leone. Er bildet die Grenze zwischen den östlichen Hochlandgebieten und dem tiefer gelegenen Gelände.",
       hu: "A Konkori-lejtő egy markáns domborzati lépcső Sierra Leone északi tartományában. Határt képez a keleti felföldi régiók és az alacsonyabban fekvő területek között.",

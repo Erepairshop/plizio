@@ -804,7 +804,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-mosquee-faya-largeau-landmarks-v2",
     type: "church",
     name: { de: "Moschee von Faya-Largeau", hu: "Faya-Largeau mecset", ro: "Moscheea din Faya-Largeau", en: "Mosque of Faya-Largeau" },
-    coordinates: { lat: 17.915, lng: 19.102 },
+    coords: [19.102, 17.915],
     description: {
       de: "Die Hauptmoschee von Faya-Largeau dient der lokalen Gemeinschaft im Norden des Tschad. Sie ist aus traditionellen Materialien errichtet.",
       hu: "Faya-Largeau központi mecsete a helyi közösséget szolgálja Csád északi részén. Hagyományos építőanyagokból készült.",
@@ -835,7 +835,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-tomb-mahamat-ouya-landmarks-v2",
     type: "monument",
     name: { de: "Grabmal von Idriss Mahamat Ouya", hu: "Idriss Mahamat Ouya síremléke", ro: "Mormântul lui Idriss Mahamat Ouya", en: "Tomb of Idriss Mahamat Ouya" },
-    coordinates: { lat: 12.115, lng: 15.045 },
+    coords: [15.045, 12.115],
     description: {
       de: "Dieses Grabmal ehrt den tschadischen Athleten Idriss Mahamat Ouya. Es befindet sich in N'Djamena.",
       hu: "Ez a síremlék Idriss Mahamat Ouya csádi atlétának állít emléket. N'Djamenában található.",
@@ -866,7 +866,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-stade-moundou-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion von Moundou", hu: "Moundou-i stadion", ro: "Stadionul din Moundou", en: "Stadium of Moundou" },
-    coordinates: { lat: 8.567, lng: 16.083 },
+    coords: [16.083, 8.567],
     description: {
       de: "Das Stadion in Moundou wird für lokale Sportveranstaltungen genutzt. Es ist eine der größeren Sportstätten im Süden des Landes.",
       hu: "A moundou-i stadiont helyi sporteseményekre használják. Ez az egyik legnagyobb sportlétesítmény az ország déli részén.",
@@ -897,7 +897,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-pont-chari-sarh-landmarks-v2",
     type: "bridge",
     name: { de: "Chari-Brücke in Sarh", hu: "Chari-híd Sarhban", ro: "Podul peste Chari din Sarh", en: "Chari Bridge in Sarh" },
-    coordinates: { lat: 9.155, lng: 18.392 },
+    coords: [18.392, 9.155],
     description: {
       de: "Die Brücke über den Chari in Sarh verbindet wichtige Stadtteile. Sie ist ein entscheidendes Infrastrukturprojekt für den Transport.",
       hu: "A Chari folyón átívelő híd Sarhban összeköti a fontos városrészeket. Kulcsfontosságú infrastrukturális projekt a szállításban.",
@@ -928,7 +928,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-archives-abeche-landmarks-v2",
     type: "museum",
     name: { de: "Archivgebäude in Abéché", hu: "Levéltár épülete Abéchében", ro: "Clădirea arhivei din Abéché", en: "Archive Building in Abéché" },
-    coordinates: { lat: 13.826, lng: 20.835 },
+    coords: [20.835, 13.826],
     description: {
       de: "Das Archivgebäude in Abéché bewahrt wichtige regionale Dokumente auf. Es ist ein Beispiel für die historische Verwaltung in Ouaddaï.",
       hu: "Az abéchéi levéltár fontos regionális dokumentumokat őriz. Az Ouaddaï-i történelmi adminisztráció egyik példája.",
@@ -959,7 +959,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-place-moundou-landmarks-v2",
     type: "landmark",
     name: { de: "Marktplatz von Moundou", hu: "Moundou piactér", ro: "Piața din Moundou", en: "Market Square of Moundou" },
-    coordinates: { lat: 8.565, lng: 16.081 },
+    coords: [16.081, 8.565],
     description: {
       de: "Dieser zentrale Marktplatz ist das Herzstück des Handels in Moundou. Er zieht täglich zahlreiche lokale Händler an.",
       hu: "Ez a központi piactér Moundou kereskedelmének központja. Naponta számos helyi árust vonz.",
@@ -990,7 +990,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-bibliotheque-ndjamena-landmarks-v2",
     type: "landmark",
     name: { de: "Stadtbibliothek von N'Djamena", hu: "N'Djamena városi könyvtár", ro: "Biblioteca orașului N'Djamena", en: "City Library of N'Djamena" },
-    coordinates: { lat: 12.112, lng: 15.051 },
+    coords: [15.051, 12.112],
     description: {
       de: "Die Bibliothek in N'Djamena bietet Zugang zu Bildungsmaterialien für die Öffentlichkeit. Sie fördert das Lesen in der Hauptstadt.",
       hu: "A N'Djamena-i könyvtár hozzáférést biztosít oktatási anyagokhoz a nagyközönség számára. Ösztönzi az olvasást a fővárosban.",
@@ -1021,7 +1021,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-tour-radio-ndjamena-landmarks-v2",
     type: "tower",
     name: { de: "Funkturm in N'Djamena", hu: "N'Djamena-i rádiótorony", ro: "Turnul radio din N'Djamena", en: "Radio Tower in N'Djamena" },
-    coordinates: { lat: 12.12, lng: 15.06 },
+    coords: [15.06, 12.12],
     description: {
       de: "Der Funkturm ist ein markantes Bauwerk in N'Djamena. Er unterstützt die Telekommunikation in der Region.",
       hu: "A rádiótorony egy jellegzetes építmény N'Djamenában. Támogatja a távközlést a régióban.",
@@ -1052,7 +1052,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-college-doba-landmarks-v2",
     type: "landmark",
     name: { de: "Schule in Doba", hu: "Doba-i iskola", ro: "Școala din Doba", en: "School in Doba" },
-    coordinates: { lat: 8.679, lng: 16.864 },
+    coords: [16.864, 8.679],
     description: {
       de: "Dieses Schulgebäude in Doba ist ein wesentlicher Bestandteil der sozialen Infrastruktur. Es dient der lokalen Bildung.",
       hu: "Ez a Doba-i iskolaépület a szociális infrastruktúra lényeges része. A helyi oktatást szolgálja.",
@@ -1083,7 +1083,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-palais-justice-sarh-landmarks-v2",
     type: "palace",
     name: { de: "Justizpalast in Sarh", hu: "Sarh-i igazságügyi palota", ro: "Palatul de justiție din Sarh", en: "Palace of Justice in Sarh" },
-    coordinates: { lat: 9.145, lng: 18.385 },
+    coords: [18.385, 9.145],
     description: {
       de: "Der Justizpalast in Sarh ist ein offizielles Verwaltungsgebäude. Er beherbergt lokale gerichtliche Institutionen.",
       hu: "A sarh-i igazságügyi palota egy hivatalos közigazgatási épület. Helyi igazságügyi intézményeknek ad otthont.",
@@ -1114,7 +1114,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-monument-paix-ati-landmarks-v2",
     type: "monument",
     name: { de: "Friedensdenkmal in Ati", hu: "Ati béke-emlékmű", ro: "Monumentul păcii din Ati", en: "Peace Monument in Ati" },
-    coordinates: { lat: 13.215, lng: 18.332 },
+    coords: [18.332, 13.215],
     description: {
       de: "Dieses Denkmal in Ati steht für die Stabilität in der Region. Es ist ein Symbol für den lokalen gesellschaftlichen Zusammenhalt.",
       hu: "Ez az Ati-ban található emlékmű a régió stabilitását jelképezi. A helyi társadalmi kohézió szimbóluma.",
@@ -1145,7 +1145,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-cathedrale-pala-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Pala", hu: "Pala-i katedrális", ro: "Catedrala din Pala", en: "Cathedral of Pala" },
-    coordinates: { lat: 9.37, lng: 14.9 },
+    coords: [14.9, 9.37],
     description: {
       de: "Die Kathedrale von Pala ist das Zentrum der christlichen Gemeinde in dieser Region. Sie weist einen schlichten Stil auf.",
       hu: "A pala-i katedrális a keresztény közösség központja ebben a régióban. Egyszerű stílus jellemzi.",
@@ -1176,7 +1176,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-hotel-de-ville-mao-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Mao", hu: "Mao városháza", ro: "Primăria din Mao", en: "City Hall of Mao" },
-    coordinates: { lat: 14.118, lng: 15.308 },
+    coords: [15.308, 14.118],
     description: {
       de: "Das Rathaus von Mao fungiert als administratives Zentrum der Stadt. Es verwaltet die lokalen Regierungsgeschäfte.",
       hu: "A mao-i városháza a város közigazgatási központjaként működik. Kezeli a helyi kormányzati ügyeket.",
@@ -1207,7 +1207,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-stade-bongor-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion von Bongor", hu: "Bongor stadion", ro: "Stadionul din Bongor", en: "Stadium of Bongor" },
-    coordinates: { lat: 10.28, lng: 15.37 },
+    coords: [15.37, 10.28],
     description: {
       de: "Das Bongor-Stadion ist ein Veranstaltungsort für Sport und lokale Treffen. Es dient der sportlichen Förderung in der Stadt.",
       hu: "A Bongor-stadion sportesemények és helyi találkozók helyszíne. A város sportéletének fellendítését szolgálja.",
@@ -1238,7 +1238,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-mosquee-mongo-landmarks-v2",
     type: "church",
     name: { de: "Große Moschee von Mongo", hu: "Mongo nagymecsete", ro: "Marea moschee din Mongo", en: "Grand Mosque of Mongo" },
-    coordinates: { lat: 12.18, lng: 18.65 },
+    coords: [18.65, 12.18],
     description: {
       de: "Die Große Moschee von Mongo ist ein wichtiges religiöses Gebäude. Sie prägt das Stadtbild von Mongo.",
       hu: "A Mongo nagymecsete fontos vallási épület. Meghatározza Mongo városképét.",
@@ -1269,7 +1269,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-bibliotheque-moundou-landmarks-v2",
     type: "museum",
     name: { de: "Öffentliche Bibliothek Moundou", hu: "Moundou nyilvános könyvtár", ro: "Biblioteca publică din Moundou", en: "Public Library of Moundou" },
-    coordinates: { lat: 8.568, lng: 16.085 },
+    coords: [16.085, 8.568],
     description: {
       de: "Diese Bibliothek in Moundou unterstützt die Ausbildung der jungen Generation. Sie bietet lokale Lesemöglichkeiten.",
       hu: "Ez a moundou-i könyvtár a fiatal generáció képzését támogatja. Helyi olvasási lehetőségeket biztosít.",
@@ -1300,7 +1300,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-palais-gouverneur-bol-landmarks-v2",
     type: "palace",
     name: { de: "Gouverneurspalast von Bol", hu: "Bol-i kormányzói palota", ro: "Palatul guvernatorului din Bol", en: "Governor's Palace of Bol" },
-    coordinates: { lat: 13.455, lng: 14.715 },
+    coords: [14.715, 13.455],
     description: {
       de: "Der Gouverneurspalast in Bol ist ein historisch bedeutendes Gebäude. Er dient administrativen Zwecken in der Provinz.",
       hu: "A bol-i kormányzói palota egy történelmileg jelentős épület. Adminisztratív célokat szolgál a tartományban.",
@@ -1331,7 +1331,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-monument-independance-doba-landmarks-v2",
     type: "monument",
     name: { de: "Unabhängigkeitsdenkmal von Doba", hu: "Doba-i függetlenségi emlékmű", ro: "Monumentul independenței din Doba", en: "Independence Monument of Doba" },
-    coordinates: { lat: 8.67, lng: 16.86 },
+    coords: [16.86, 8.67],
     description: {
       de: "Das Denkmal erinnert an die Unabhängigkeit des Tschad. Es befindet sich in Doba.",
       hu: "Az emlékmű Csád függetlenségére emlékeztet. Dobában található.",
@@ -1362,7 +1362,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-mosquee-ati-landmarks-v2",
     type: "church",
     name: { de: "Moschee von Ati", hu: "Ati mecset", ro: "Moscheea din Ati", en: "Mosque of Ati" },
-    coordinates: { lat: 13.218, lng: 18.335 },
+    coords: [18.335, 13.218],
     description: {
       de: "Die Moschee in Ati ist ein wichtiges Zentrum für den Glauben. Sie ist architektonisch in das Stadtgefüge eingebettet.",
       hu: "Az Ati-ban található mecset a hit fontos központja. Építészetileg illeszkedik a város szerkezetébe.",
@@ -1393,7 +1393,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-eglise-sarh-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Sarh", hu: "Sarh-i templom", ro: "Biserica din Sarh", en: "Church of Sarh" },
-    coordinates: { lat: 9.15, lng: 18.39 },
+    coords: [18.39, 9.15],
     description: {
       de: "Diese Kirche in Sarh dient der lokalen christlichen Gemeinschaft. Sie ist ein schlichtes Gebäude in der Stadt.",
       hu: "Ez a sarh-i templom a helyi keresztény közösséget szolgálja. Egyszerű épület a városban.",
@@ -1424,7 +1424,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-centre-culturel-abeche-landmarks-v2",
     type: "museum",
     name: { de: "Kulturzentrum in Abéché", hu: "Kulturális központ Abéchében", ro: "Centrul cultural din Abéché", en: "Cultural Center in Abéché" },
-    coordinates: { lat: 13.82, lng: 20.83 },
+    coords: [20.83, 13.82],
     description: {
       de: "Das Kulturzentrum in Abéché fördert lokale Kunst und Traditionen. Es dient als Veranstaltungsort für die Bevölkerung.",
       hu: "Az abéchéi kulturális központ a helyi művészeteket és hagyományokat népszerűsíti. A lakosság rendezvényhelyszíne.",
@@ -1455,7 +1455,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-pont-gounou-gaya-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Gounou Gaya", hu: "Gounou Gaya híd", ro: "Podul din Gounou Gaya", en: "Bridge of Gounou Gaya" },
-    coordinates: { lat: 9.65, lng: 15.52 },
+    coords: [15.52, 9.65],
     description: {
       de: "Die Brücke bei Gounou Gaya ist für den regionalen Verkehr wichtig. Sie verbessert die Erreichbarkeit in der Region.",
       hu: "A Gounou Gaya-i híd fontos a regionális forgalom számára. Javítja az elérhetőséget a régióban.",
@@ -1486,7 +1486,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-marche-moussoro-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Moussoro", hu: "Moussoro piac", ro: "Piața din Moussoro", en: "Market of Moussoro" },
-    coordinates: { lat: 13.63, lng: 16.48 },
+    coords: [16.48, 13.63],
     description: {
       de: "Der Markt in Moussoro ist ein zentraler Treffpunkt. Er ist bekannt für den Handel mit lokalen Waren.",
       hu: "A moussorói piac központi találkozóhely. Ismert a helyi áruk kereskedelméről.",
@@ -1517,7 +1517,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "chad-maison-culture-pala-landmarks-v2",
     type: "museum",
     name: { de: "Haus der Kultur in Pala", hu: "Pala-i kulturális ház", ro: "Casa culturii din Pala", en: "House of Culture in Pala" },
-    coordinates: { lat: 9.375, lng: 14.905 },
+    coords: [14.905, 9.375],
     description: {
       de: "Das Kulturhaus in Pala dient der Unterhaltung der lokalen Bevölkerung. Es bietet Räume für künstlerische Aktivitäten.",
       hu: "A pala-i kulturális ház a helyi lakosság szórakozását szolgálja. Teret biztosít művészeti tevékenységeknek.",

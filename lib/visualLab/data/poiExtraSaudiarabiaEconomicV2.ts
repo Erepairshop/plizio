@@ -546,7 +546,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-khurais-oil-field-economic-v2",
     type: "industry",
     name: { de: "Khurais-Ölfeld", hu: "Khurais olajmező", ro: "Câmpul petrolifer Khurais", en: "Khurais Oil Field" },
-    coordinates: { lat: 25.105, lng: 48.032 },
+    coords: [48.032, 25.105],
     description: {
       de: "Dieses gigantische Onshore-Ölfeld ist für eine Kapazität von 1,2 Millionen Barrel pro Tag ausgelegt.",
       hu: "Ez az óriási szárazföldi olajmező napi 1,2 millió hordó nyersolaj kitermelésére képes.",
@@ -565,7 +565,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-manifa-oil-field-economic-v2",
     type: "industry",
     name: { de: "Manifa-Ölfeld", hu: "Manifa olajmező", ro: "Câmpul petrolifer Manifa", en: "Manifa Oil Field" },
-    coordinates: { lat: 27.601, lng: 48.955 },
+    coords: [48.955, 27.601],
     description: {
       de: "Ein Offshore-Ölfeld im Arabischen Golf, das über ein System von künstlichen Inseln und Dämmen betrieben wird.",
       hu: "Az Arab-öbölben található tengeri olajmező, amelyet mesterséges szigetek és gátak rendszerén keresztül üzemeltetnek.",
@@ -584,7 +584,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-abqaiq-processing-plant-economic-v2",
     type: "industry",
     name: { de: "Abqaiq-Verarbeitungsanlage", hu: "Abqaiq feldolgozó üzem", ro: "Instalația de procesare Abqaiq", en: "Abqaiq Processing Plant" },
-    coordinates: { lat: 25.932, lng: 49.671 },
+    coords: [49.671, 25.932],
     description: {
       de: "Die weltweit größte Anlage zur Stabilisierung von Rohöl und zur Verarbeitung von Erdgasflüssigkeiten.",
       hu: "A világ legnagyobb kőolaj-stabilizáló és földgáz-folyadék feldolgozó létesítménye Abqaiq városában.",
@@ -603,7 +603,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-kafd-economic-v2",
     type: "industry",
     name: { de: "KAFD Finanzdistrikt", hu: "KAFD pénzügyi negyed", ro: "Districtul financiar KAFD", en: "KAFD Financial District" },
-    coordinates: { lat: 24.762, lng: 46.641 },
+    coords: [46.641, 24.762],
     description: {
       de: "Das King Abdullah Financial District in Riad ist ein modernes Wirtschaftszentrum mit über 60 Hochhäusern.",
       hu: "A rijádi King Abdullah pénzügyi negyed egy modern gazdasági központ több mint 60 felhőkarcolóval.",
@@ -622,7 +622,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-jazan-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Jazan", hu: "Jazan kikötője", ro: "Portul Jazan", en: "Jazan Port" },
-    coordinates: { lat: 16.892, lng: 42.541 },
+    coords: [42.541, 16.892],
     description: {
       de: "Ein strategischer Tiefwasserhafen am Roten Meer, der als Tor für den Handel mit Afrika und Asien dient.",
       hu: "Stratégiai mélyvízi kikötő a Vörös-tengeren, amely Afrika és Ázsia felé irányuló kereskedelem kapuja.",
@@ -641,7 +641,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-duba-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Duba", hu: "Duba kikötője", ro: "Portul Duba", en: "Duba Port" },
-    coordinates: { lat: 27.345, lng: 35.692 },
+    coords: [35.692, 27.345],
     description: {
       de: "Dieser Hafen im Nordwesten Saudi-Arabiens wird derzeit als Haupthafen für das NEOM-Projekt ausgebaut.",
       hu: "Szaúd-Arábia északnyugati részén fekvő kikötő, amelyet jelenleg a NEOM projekt fő kikötőjeként fejlesztenek.",
@@ -660,7 +660,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-jabal-sayid-mine-economic-v2",
     type: "mine",
     name: { de: "Jabal Sayid Mine", hu: "Jabal Sayid bánya", ro: "Mina Jabal Sayid", en: "Jabal Sayid Mine" },
-    coordinates: { lat: 23.851, lng: 40.942 },
+    coords: [40.942, 23.851],
     description: {
       de: "Eine bedeutende Kupfermine, die als Joint Venture zwischen Ma'aden und Barrick Gold betrieben wird.",
       hu: "Jelentős rézbánya, amelyet a Ma'aden és a Barrick Gold közös vállalkozásaként üzemeltetnek.",
@@ -679,7 +679,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-al-batha-economic-v2",
     type: "industry",
     name: { de: "Al-Batha Grenzübergang", hu: "Al-Batha határátkelő", ro: "Punctul de frontieră Al-Batha", en: "Al-Batha Border Crossing" },
-    coordinates: { lat: 24.131, lng: 51.582 },
+    coords: [51.582, 24.131],
     description: {
       de: "Der wichtigste Landgrenzübergang zwischen Saudi-Arabien und den Vereinigten Arabischen Emiraten.",
       hu: "Szaúd-Arábia és az Egyesült Arab Emírségek közötti legfontosabb szárazföldi határátkelőhely.",
@@ -698,7 +698,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-tanajib-economic-v2",
     type: "industry",
     name: { de: "Tanajib Ölkomplex", hu: "Tanajib olajkomplexum", ro: "Complexul petrolier Tanajib", en: "Tanajib Oil Complex" },
-    coordinates: { lat: 27.842, lng: 48.871 },
+    coords: [48.871, 27.842],
     description: {
       de: "Ein wichtiger Industriestützpunkt für die Offshore-Ölförderung im Norden des Arabischen Golfs.",
       hu: "Fontos ipari támaszpont az Arab-öböl északi részén folyó tengeri olajkitermeléshez.",
@@ -717,7 +717,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-khafji-joint-operations-economic-v2",
     type: "industry",
     name: { de: "Khafji Joint Operations", hu: "Khafji közös műveletek", ro: "Khafji Joint Operations", en: "Khafji Joint Operations" },
-    coordinates: { lat: 28.421, lng: 48.512 },
+    coords: [48.512, 28.421],
     description: {
       de: "Ein gemeinsames Ölprojekt von Saudi-Arabien und Kuwait in der ehemals neutralen Zone.",
       hu: "Szaúd-Arábia és Kuvait közös olajprojektje az egykori semleges zónában.",
@@ -736,7 +736,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-zuluf-oil-field-economic-v2",
     type: "industry",
     name: { de: "Zuluf-Ölfeld", hu: "Zuluf olajmező", ro: "Câmpul petrolifer Zuluf", en: "Zuluf Oil Field" },
-    coordinates: { lat: 28.402, lng: 49.251 },
+    coords: [49.251, 28.402],
     description: {
       de: "Eines der größten Offshore-Ölfelder der Welt, gelegen im flachen Wasser des Arabischen Golfs.",
       hu: "A világ egyik legnagyobb tengeri olajmezője az Arab-öböl sekély vizeiben.",
@@ -755,7 +755,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-satorp-refinery-economic-v2",
     type: "factory",
     name: { de: "SATORP Raffinerie", hu: "SATORP finomító", ro: "Rafinăria SATORP", en: "SATORP Refinery" },
-    coordinates: { lat: 27.012, lng: 49.431 },
+    coords: [49.431, 27.012],
     description: {
       de: "Eine hochmoderne Raffinerie in Jubail, betrieben als Joint Venture zwischen Aramco und TotalEnergies.",
       hu: "Ultramodern finomító Jubailban, az Aramco és a TotalEnergies közös vállalkozása.",
@@ -774,7 +774,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-mansourah-massarah-mine-economic-v2",
     type: "mine",
     name: { de: "Mansourah-Massarah Goldmine", hu: "Mansourah-Massarah aranybánya", ro: "Mina de aur Mansourah-Massarah", en: "Mansourah-Massarah Gold Mine" },
-    coordinates: { lat: 22.182, lng: 42.501 },
+    coords: [42.501, 22.182],
     description: {
       de: "Die größte Goldmine Saudi-Arabiens, die moderne Technologien zur Erzverarbeitung einsetzt.",
       hu: "Szaúd-Arábia legnagyobb aranybányája, amely modern technológiákat alkalmaz az ércfeldolgozáshoz.",
@@ -793,7 +793,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-dhahran-techno-valley-economic-v2",
     type: "industry",
     name: { de: "Dhahran Techno Valley", hu: "Dhahran Techno Valley", ro: "Dhahran Techno Valley", en: "Dhahran Techno Valley" },
-    coordinates: { lat: 26.311, lng: 50.152 },
+    coords: [50.152, 26.311],
     description: {
       de: "Ein Innovationszentrum für Energietechnik, das Forschung mit industrieller Anwendung verbindet.",
       hu: "Energetikai innovációs központ, amely összeköti a kutatást az ipari alkalmazással.",
@@ -812,7 +812,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-sakaka-solar-plant-economic-v2",
     type: "industry",
     name: { de: "Sakaka Solarpark", hu: "Sakaka naperőmű", ro: "Parcul solar Sakaka", en: "Sakaka Solar Power Plant" },
-    coordinates: { lat: 29.982, lng: 40.201 },
+    coords: [40.201, 29.982],
     description: {
       de: "Das erste groß angelegte Photovoltaik-Projekt Saudi-Arabiens im Rahmen der Energiewende.",
       hu: "Szaúd-Arábia első nagyszabású fotovoltaikus projektje az energiaátállás keretében.",
@@ -831,7 +831,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-king-abdullah-economic-city-economic-v2",
     type: "city",
     name: { de: "King Abdullah Economic City", hu: "King Abdullah gazdasági város", ro: "Orașul economic King Abdullah", en: "King Abdullah Economic City" },
-    coordinates: { lat: 22.421, lng: 39.122 },
+    coords: [39.122, 22.421],
     description: {
       de: "KAEC ist eine geplante Megastadt am Roten Meer, die als globales Logistik- und Industriezentrum fungiert.",
       hu: "A KAEC egy tervezett megaváros a Vörös-tenger partján, globális logisztikai és ipari központ.",
@@ -850,7 +850,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-haradh-gas-plant-economic-v2",
     type: "industry",
     name: { de: "Haradh Gasanlage", hu: "Haradh gázüzem", ro: "Instalația de gaz Haradh", en: "Haradh Gas Plant" },
-    coordinates: { lat: 24.011, lng: 49.072 },
+    coords: [49.072, 24.011],
     description: {
       de: "Eine massive Anlage zur Verarbeitung von nicht-assoziiertem Gas im Süden des Ghawar-Ölfeldes.",
       hu: "Hatalmas nem-társult gázfeldolgozó üzem a Ghawar olajmező déli részén.",
@@ -869,7 +869,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     id: "saudiarabia-nariyah-logistics-hub-economic-v2",
     type: "industry",
     name: { de: "Nariyah Logistikzentrum", hu: "Nariyah logisztikai központ", ro: "Hub-ul logistic Nariyah", en: "Nariyah Logistics Hub" },
-    coordinates: { lat: 27.501, lng: 48.452 },
+    coords: [48.452, 27.501],
     description: {
       de: "Ein wichtiger Knotenpunkt für den Schienentransport und die Wartung von Zügen, die Phosphat und Bauxit befördern.",
       hu: "Fontos vasúti szállítási és karbantartási csomópont a foszfátot és bauxitot szállító vonatok számára.",

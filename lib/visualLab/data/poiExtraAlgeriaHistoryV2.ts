@@ -1058,7 +1058,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-thubursicum-numidarum-history-v2",
     type: "ruins",
     name: { de: "Thubursicum Numidarum", hu: "Thubursicum Numidarum", ro: "Thubursicum Numidarum", en: "Thubursicum Numidarum" },
-    coordinates: { lat: 36.273, lng: 8.167 },
+    coords: [8.167, 36.273],
     description: {
       de: "Diese antike numidische und römische Stadt liegt nahe der heutigen Stadt Khemissa. Die Ruinen umfassen ein gut erhaltenes Theater aus dem 2. Jahrhundert.",
       hu: "Ez az ókori numídiai és római város a mai Khemissa közelében fekszik. A romok között egy jó állapotban fennmaradt, 2. századi színház található.",
@@ -1089,7 +1089,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-kalat-beni-rached-history-v2",
     type: "ruins",
     name: { de: "Qal'at Bani Rached", hu: "Qal'at Bani Rached", ro: "Qal'at Bani Rached", en: "Qal'at Bani Rached" },
-    coordinates: { lat: 35.881, lng: 0.812 },
+    coords: [0.812, 35.881],
     description: {
       de: "Diese befestigte mittelalterliche Stadt diente im 11. Jahrhundert als wichtiger politischer Standort. Heute sind Teile der Befestigungsmauern und Siedlungsreste sichtbar.",
       hu: "Ez az erődített középkori város a 11. században fontos politikai központként szolgált. Ma a védművek és településmaradványok láthatók.",
@@ -1120,7 +1120,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-lambiridi-history-v2",
     type: "ruins",
     name: { de: "Lambiridi", hu: "Lambiridi", ro: "Lambiridi", en: "Lambiridi" },
-    coordinates: { lat: 35.631, lng: 6.136 },
+    coords: [6.136, 35.631],
     description: {
       de: "Lambiridi war eine römische Stadt in der Provinz Numidien, nahe dem heutigen Merouana. Archäologische Ausgrabungen belegen eine lange Siedlungsgeschichte.",
       hu: "Lambiridi egy római város volt Numídia tartományban, a mai Merouana közelében. A régészeti feltárások hosszú településtörténetet igazolnak.",
@@ -1151,7 +1151,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-djemila-amphitheater-history-v2",
     type: "battlefield",
     name: { de: "Amphitheater von Cuicul", hu: "Cuicul Amfiteátruma", ro: "Amfiteatrul din Cuicul", en: "Amphitheater of Cuicul" },
-    coordinates: { lat: 36.321, lng: 5.742 },
+    coords: [5.742, 36.321],
     description: {
       de: "Dieses antike Amphitheater befindet sich in der Nähe der Ruinen von Djemila. Es wurde für öffentliche Veranstaltungen und Unterhaltung während der römischen Ära genutzt.",
       hu: "Ez az ókori amfiteátrum Djemila romjainak közelében található. A római korban nyilvános rendezvényekre és szórakoztatásra használták.",
@@ -1182,7 +1182,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-fort-turc-mostaganem-history-v2",
     type: "castle",
     name: { de: "Türkisches Fort von Mostaganem", hu: "Mostaganem török erődje", ro: "Fortul turcesc din Mostaganem", en: "Turkish Fort of Mostaganem" },
-    coordinates: { lat: 35.932, lng: 0.088 },
+    coords: [0.088, 35.932],
     description: {
       de: "Diese Verteidigungsanlage stammt aus der Zeit der osmanischen Präsenz in Algerien. Sie sicherte die Stadt Mostaganem gegen Angriffe vom Meer aus.",
       hu: "Ez a védelmi létesítmény az Algériában való oszmán jelenlét idejéből származik. Megvédte Mostaganem városát a tenger felől érkező támadásoktól.",
@@ -1213,7 +1213,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-ksar-tafilelt-history-v2",
     type: "village",
     name: { de: "Ksar Tafilelt", hu: "Ksar Tafilelt", ro: "Ksar Tafilelt", en: "Ksar Tafilelt" },
-    coordinates: { lat: 32.483, lng: 3.667 },
+    coords: [3.667, 32.483],
     description: {
       de: "Dieser Ksar in der Mzab-Region wurde nach traditionellen architektonischen Prinzipien erbaut. Er demonstriert nachhaltige Bauweise in der Sahara.",
       hu: "Ez a Mzab régióban található kszár a hagyományos építészeti elvek alapján épült. A Szaharában alkalmazott fenntartható építészetet mutatja be.",
@@ -1244,7 +1244,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-medina-de-bejaia-history-v2",
     type: "ruins",
     name: { de: "Medina von Béjaïa", hu: "Béjaïa Medinája", ro: "Medina din Béjaïa", en: "Medina of Béjaïa" },
-    coordinates: { lat: 36.753, lng: 5.084 },
+    coords: [5.084, 36.753],
     description: {
       de: "Die historischen Stadtviertel von Béjaïa bewahren die Spuren der verschiedenen Dynastien. Sie umfassen antike Tore und Befestigungsanlagen.",
       hu: "Béjaïa történelmi városnegyedei megőrzik a különböző dinasztiák nyomait. Ókori kapuk és erődítmények találhatók bennük.",
@@ -1258,12 +1258,24 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       en: ["Former capital of the Hammadids", "Important Mediterranean port", "Medieval urban structure", "Includes the old Kasbah"],
     },
     imageHint: "Béjaïa historic medina walls",
+    descriptionAdvanced: {
+      de: "Die Medina von Béjaïa ist die historische Altstadt der algerischen Hafenstadt Béjaïa (früher Bougie). Sie wurde im 11. Jahrhundert unter den Hammadiden gegründet und war ein bedeutendes Handelszentrum im Mittelmeerraum. Die Medina erstreckt sich über etwa 40 Hektar und ist von einer Stadtmauer aus dem 13. Jahrhundert umgeben. Enge, gewundene Gassen führen zu Souks, Moscheen und traditionellen Häusern im maurischen Stil. Die Große Moschee aus dem 11. Jahrhundert ist ein herausragendes Bauwerk. Die Medina war bekannt für ihre Wachskerzenproduktion, die der Stadt ihren französischen Namen Bougie gab. Heute ist sie ein Touristenziel mit vielen Kunsthandwerksläden.",
+      hu: "Béjaïa medinája az algériai kikötõváros történelmi óvárosa (korábban Bougie). A 11. században alapították a Hammádida dinasztia idején, és fontos kereskedelmi központ volt a Földközi-tenger térségében. A medina kb. 40 hektáron terül el, és a 13. századi városfal veszi körül. Szûk, kanyargós utcák vezetnek a szukokba, mecsetekbe és mór stílusú házakba. A 11. századi Nagymecset kiemelkedõ építmény. A medina híres volt viaszgyertyáiról, amelyekrõl a francia Bougie nevet kapta. Ma turistacélpont, számos kézmûves bolt található itt.",
+      ro: "Medina din Béjaïa este centrul istoric al orașului portuar algerian Béjaïa (cunoscut anterior ca Bougie). A fost fondată în secolul al XI-lea sub dinastia Hammadizilor și a fost un important centru comercial în Mediterana. Medina se întinde pe aproximativ 40 de hectare și este înconjurată de un zid de oraș din secolul al XIII-lea. Străzi înguste și întortocheate duc la souk-uri, moschei și case tradiționale în stil maur. Marea Moschee din secolul al XI-lea este o clădire remarcabilă. Medina a fost renumită pentru producția de lumânări din ceară, care a dat orașului numele francez Bougie. Astăzi este o destinație turistică cu multe magazine de artizanat.",
+      en: "The Medina of Béjaïa is the historic old town of the Algerian port city Béjaïa, formerly known as Bougie. Founded in the 11th century under the Hammadid dynasty, it became a thriving trade hub connecting North Africa with Europe and the Levant. The medina covers about 40 hectares and is enclosed by 13th-century ramparts. Its labyrinthine alleys house souks, mosques, and traditional Moorish houses with ornate tilework. The Great Mosque, built in 1090, features a hypostyle prayer hall and a square minaret. The city's name Bougie derives from the wax candles produced here, which were exported across the Mediterranean. Today, the medina is a vibrant tourist and artisan quarter.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Medina: 40 Hektar", "Stadtmauer aus dem 13. Jahrhundert", "Große Moschee: erbaut 1090", "Höchstpunkt: 150 m ü. M.", "Einwohner der Medina: ca. 15.000", "Früherer Name: Bougie (Wachskerzenproduktion)"],
+      hu: ["Medina területe: 40 hektár", "Városfal a 13. századból", "Nagymecset: 1090-ben épült", "Legmagasabb pont: 150 m tengerszint felett", "Medina lakossága: kb. 15.000 fõ", "Korábbi név: Bougie (viaszgyertya-termelés)"],
+      ro: ["Suprafața medina: 40 de hectare", "Zidul orașului din secolul al XIII-lea", "Marea Moschee: construită în 1090", "Punctul cel mai înalt: 150 m deasupra nivelului mării", "Populația medinei: aproximativ 15.000", "Nume anterior: Bougie (producția de lumânări din ceară)"],
+      en: ["Medina area: 40 hectares", "City walls from the 13th century", "Great Mosque: built in 1090", "Highest point: 150 m above sea level", "Medina population: approx. 15,000", "Former name: Bougie (wax candle production)"],
+    },
   },
   {
     id: "algeria-sig-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Sig", hu: "Sig csatamező", ro: "Câmpul de luptă de la Sig", en: "Battlefield of Sig" },
-    coordinates: { lat: 35.535, lng: -0.183 },
+    coords: [-0.183, 35.535],
     description: {
       de: "Dieser Ort nahe Sig war im 19. Jahrhundert Schauplatz bedeutender Auseinandersetzungen. Er ist mit der Geschichte des Widerstands gegen die Kolonialmächte verbunden.",
       hu: "Ez a Sig melletti terület a 19. században jelentős összecsapások színhelye volt. A gyarmati hatalmakkal szembeni ellenállás történetéhez kapcsolódik.",
@@ -1294,7 +1306,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-ksar-dellys-history-v2",
     type: "ruins",
     name: { de: "Altstadt von Dellys", hu: "Dellys óvárosa", ro: "Orașul vechi din Dellys", en: "Old City of Dellys" },
-    coordinates: { lat: 36.915, lng: 3.907 },
+    coords: [3.907, 36.915],
     description: {
       de: "Die historische Medina von Dellys liegt auf einer Klippe. Sie ist bekannt für ihre traditionelle Architektur und Überreste aus der osmanischen Ära.",
       hu: "Dellys történelmi medinája egy sziklán fekszik. Hagyományos építészetéről és az oszmán korszakból fennmaradt maradványairól ismert.",
@@ -1325,7 +1337,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-temple-of-minerva-guelma-history-v2",
     type: "ruins",
     name: { de: "Tempel der Minerva in Guelma", hu: "Minerva temploma Guelmában", ro: "Templul Minervei din Guelma", en: "Temple of Minerva in Guelma" },
-    coordinates: { lat: 36.463, lng: 7.428 },
+    coords: [7.428, 36.463],
     description: {
       de: "Dieser antike Tempel ist ein bedeutender archäologischer Fund in Guelma. Er bietet Einblicke in die römische Sakralarchitektur der Region.",
       hu: "Ez az ókori templom jelentős régészeti lelet Guelmában. Bepillantást enged a régió római szakrális építészetébe.",
@@ -1356,7 +1368,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-kasbah-of-dellys-history-v2",
     type: "castle",
     name: { de: "Kasbah von Dellys", hu: "Dellys Kasbah-ja", ro: "Kasbah din Dellys", en: "Kasbah of Dellys" },
-    coordinates: { lat: 36.916, lng: 3.908 },
+    coords: [3.908, 36.916],
     description: {
       de: "Die Kasbah von Dellys dient als historisches Zentrum der Stadt. Ihre Architektur spiegelt jahrhundertealte kulturelle Einflüsse wider.",
       hu: "Dellys Kasbah-ja a város történelmi központjaként szolgál. Építészete több évszázados kulturális hatásokat tükröz.",
@@ -1387,7 +1399,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-tichy-roman-ruins-history-v2",
     type: "ruins",
     name: { de: "Römische Ruinen von Tichy", hu: "Tichy római romjai", ro: "Ruinele romane din Tichy", en: "Roman Ruins of Tichy" },
-    coordinates: { lat: 36.685, lng: 5.253 },
+    coords: [5.253, 36.685],
     description: {
       de: "In der Nähe der Küstenstadt Tichy wurden Überreste antiker römischer Villen und Anlagen freigelegt. Sie zeugen von der Besiedlung der Region.",
       hu: "A tengerparti Tichy város közelében ókori római villák és létesítmények maradványait tárták fel. A régió benépesítéséről tanúskodnak.",
@@ -1418,7 +1430,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-mansourah-tlemcen-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Mansourah", hu: "Mansourah romjai", ro: "Ruinele din Mansourah", en: "Ruins of Mansourah" },
-    coordinates: { lat: 34.872, lng: -1.332 },
+    coords: [-1.332, 34.872],
     description: {
       de: "Mansourah war einst eine befestigte Stadt der Meriniden bei Tlemcen. Heute sind Teile der großen Moschee und die Stadtmauer gut sichtbar.",
       hu: "Mansourah egykor a merinidák erődített városa volt Tlemcen mellett. Ma a nagy mecset részei és a városfal jól láthatóak.",
@@ -1449,7 +1461,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-roknia-necropolis-history-v2",
     type: "ruins",
     name: { de: "Nekropole von Roknia", hu: "Rokniai nekropolisz", ro: "Necropola din Roknia", en: "Necropolis of Roknia" },
-    coordinates: { lat: 36.425, lng: 7.158 },
+    coords: [7.158, 36.425],
     description: {
       de: "Diese prähistorische Nekropole in Roknia umfasst zahlreiche Dolmen. Sie gehört zu den bedeutendsten megalithischen Stätten Nordafrikas.",
       hu: "Ez a Rokniában található őskori nekropolisz számos dolment foglal magába. Észak-Afrika egyik legjelentősebb megalitikus helyszíne.",
@@ -1480,7 +1492,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-madauros-theater-history-v2",
     type: "ruins",
     name: { de: "Theater von Madauros", hu: "Madauros színháza", ro: "Teatrul din Madauros", en: "Theater of Madauros" },
-    coordinates: { lat: 35.894, lng: 7.785 },
+    coords: [7.785, 35.894],
     description: {
       de: "Das römische Theater von Madauros liegt nahe M'Daourouch. Es ist bekannt für seine gute architektonische Erhaltung in einer historischen Stadt.",
       hu: "Madauros római színháza M'Daourouch közelében fekszik. Jó építészeti állapotáról ismert egy történelmi városban.",
@@ -1511,7 +1523,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "algeria-fort-de-la-kasbah-oran-history-v2",
     type: "castle",
     name: { de: "Fort der Kasbah von Oran", hu: "Oran Kasbah-jának erődje", ro: "Fortul Kasbah din Oran", en: "Fort of the Kasbah of Oran" },
-    coordinates: { lat: 35.702, lng: -0.655 },
+    coords: [-0.655, 35.702],
     description: {
       de: "Die Kasbah von Oran ist eine der ältesten Befestigungsanlagen der Stadt. Sie bewahrt die Geschichte der wechselnden Herrschaftsperioden.",
       hu: "Oran Kasbah-ja a város egyik legrégebbi erődítménye. Megőrzi a változó uralmi korszakok történetét.",

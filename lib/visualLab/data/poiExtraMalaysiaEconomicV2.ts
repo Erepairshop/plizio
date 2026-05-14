@@ -727,7 +727,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-pengerang-petroleum-complex-economic-v2",
     type: "industry",
     name: { de: "Pengerang Petroleum-Komplex", hu: "Pengerang Petrolkémiai Komplexum", ro: "Complexul Petrolier Pengerang", en: "Pengerang Integrated Petroleum Complex" },
-    coordinates: { lat: 1.3625, lng: 104.2167 },
+    coords: [104.2167, 1.3625],
     description: {
       de: "Dieser massive Industrie-Hub in Johor erstreckt sich über 80 Quadratkilometer. Er beherbergt die RAPID-Raffinerie und moderne petrochemische Anlagen.",
       hu: "Ez a hatalmas ipari központ Johorban 80 négyzetkilométeren terül el. Itt található a RAPID finomító és több modern petrolkémiai üzem is.",
@@ -741,12 +741,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Investment value of 27 billion USD", "Refinery operations started in 2019", "Capacity of 300,000 barrels per day", "Over 70 kilometers of internal pipelines"],
     },
     imageHint: "Aerial view of Pengerang Integrated Petroleum Complex at night",
+    descriptionAdvanced: {
+      de: "Der Pengerang Integrated Petroleum Complex (PIPC) ist ein großes Öl- und Gasprojekt im Distrikt Kota Tinggi, Johor, Malaysia. Es umfasst eine Raffinerie, eine petrochemische Anlage und einen Tiefseehafen. Die Anlage erstreckt sich über 8.000 Hektar und ist eine der größten Investitionen in der malaysischen Geschichte. Der Komplex wird von Petronas und internationalen Partnern betrieben. Die Raffineriekapazität beträgt 300.000 Barrel pro Tag. PIPC soll die regionale Energieversorgung sichern und Arbeitsplätze schaffen. Der Bau begann 2014 und die Inbetriebnahme erfolgte schrittweise ab 2019. Der Komplex steht jedoch vor Umweltbedenken und Verzögerungen. Pengerang ist ein strategischer Standort in der Nähe der Schifffahrtsstraße von Malakka.",
+      hu: "A Pengerang Integrated Petroleum Complex (PIPC) egy hatalmas olaj- és gázprojekt Johor államban, Malajzia délkeleti részén, Kota Tinggi körzetében. A komplexum egy finomítót, petrolkémiai üzemet és mélyvízi kikötőt foglal magában, 8.000 hektáron. Ez Malajzia egyik legnagyobb beruházása. A finomító kapacitása napi 300.000 hordó. A PIPC a Petronas és nemzetközi partnerek irányítása alatt áll. Az építkezés 2014-ben kezdődött, a termelés 2019-től indul. A komplexum munkahelyeket teremt de környezeti aggodalmakat is felvet. Pengerang stratégiai elhelyezkedésű a Malaka-szoros közelében.",
+      ro: "Complexul Petrolier Integrat Pengerang (PIPC) este un proiect major de petrol și gaze în districtul Kota Tinggi, Johor, Malaysia. Include o rafinărie, o instalație petrochimică și un port de adâncime, pe o suprafață de 8.000 de hectare. Este una dintre cele mai mari investiții din istoria Malaeziei. Rafinăria are o capacitate de 300.000 de barili pe zi. PIPC este operat de Petronas și parteneri internaționali. Construcția a început în 2014, iar producția a demarat treptat din 2019. Complexul creează locuri de muncă, dar ridică probleme de mediu. Pengerang este situat strategic lângă Strâmtoarea Malacca.",
+      en: "The Pengerang Integrated Petroleum Complex (PIPC) is a major oil and gas hub in Johor, Malaysia, covering 8,000 hectares. It includes a refinery with a capacity of 300,000 barrels per day, a petrochemical plant, and a deepwater port. The project, operated by Petronas and partners, represents a multi-billion dollar investment. Construction began in 2014, and operations started in phases from 2019. PIPC aims to strengthen Malaysia's downstream oil and gas sector and create thousands of jobs. However, it has faced environmental criticism and delays. The complex is strategically located near the Strait of Malacca, a vital shipping route. It also includes a liquefied natural gas (LNG) terminal. PIPC is a key component of Malaysia's economic transformation plan.",
+    },
+    factsAdvanced: {
+      de: ["Der Komplex erstreckt sich über 8.000 Hektar.", "Raffineriekapazität: 300.000 Barrel pro Tag.", "Investitionsvolumen: über 30 Milliarden US-Dollar.", "Baubeginn: 2014.", "Anzahl der Arbeitsplätze: ca. 10.000 während des Baus.", "Lage: 2 km von der Küste entfernt."],
+      hu: ["A PIPC 8.000 hektáron terül el.", "A finomító napi 300.000 hordó kapacitású.", "A beruházás értéke 30 milliárd USD feletti.", "A kikötő 20 méter mély.", "2019-ben kezdődött a termelés.", "A komplexum 200 hektár mesterséges földterületet igényelt."],
+      ro: ["Complexul se întinde pe 8.000 de hectare.", "Rafinăria are o capacitate de 300.000 barili/zi.", "Investiție de peste 30 miliarde USD.", "Portul are o adâncime de 20 m.", "Construcția a început în 2014.", "Proiectul a creat 10.000 de locuri de muncă temporare."],
+      en: ["PIPC covers 8,000 hectares.", "Refinery capacity: 300,000 barrels per day.", "Total investment: over USD 30 billion.", "Deepwater port depth: 20 m.", "Construction started in 2014.", "First production in 2019."],
+    },
   },
   {
     id: "malaysia-batu-kawan-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Batu Kawan", hu: "Batu Kawan Ipari Park", ro: "Parcul Industrial Batu Kawan", en: "Batu Kawan Industrial Park" },
-    coordinates: { lat: 5.2652, lng: 100.4418 },
+    coords: [100.4418, 5.2652],
     description: {
       de: "Ein führendes Technologiezentrum in Penang mit Fokus auf Elektronik und Medizintechnik. Es beherbergt zahlreiche globale Unternehmen auf 2.400 Hektar.",
       hu: "Penang vezető technológiai központja az elektronika és az orvosi eszközök területén. Számos globális vállalatnak ad otthont 2400 hektáron.",
@@ -760,12 +772,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Development started in 2014", "Location of the Penang IKEA branch", "Focus on high-tech manufacturing", "Direct access to the Second Penang Bridge"],
     },
     imageHint: "Modern factory buildings in Batu Kawan Industrial Park",
+    descriptionAdvanced: {
+      de: "Der Batu Kawan Industrial Park (BKIP) liegt auf der Insel Penang, Malaysia, und ist ein wichtiges Industriegebiet, das sich auf Elektronik, Automobil und Logistik konzentriert. Der Park erstreckt sich über 800 Hektar und beherbergt multinationale Unternehmen wie Bosch, Dell und Keysight. Er wurde in den 1990er Jahren entwickelt und ist Teil des Northern Corridor Economic Region (NCER). BKIP profitiert von der Nähe zum Penang International Airport und dem Hafen von Penang. Der Park bietet moderne Infrastruktur und Anreize für Investoren. Er hat Tausende von Arbeitsplätzen geschaffen und zur wirtschaftlichen Entwicklung Penangs beigetragen. BKIP ist bekannt für seine umweltfreundlichen Praktiken und Grünflächen. Die Industrie umfasst Halbleiterfertigung, Automobilkomponenten und Präzisionstechnik.",
+      hu: "A Batu Kawan Ipari Park (BKIP) Penang szigetén, Malajzia északnyugati részén található. Ez egy fontos ipari zóna, amely az elektronikára, autóiparra és logisztikára összpontosít. A park 800 hektáron terül el, és nemzetközi vállalatokat vonz, mint a Bosch, Dell és Keysight. Az 1990-es években fejlesztették ki, és az Északi Folyosó Gazdasági Régió része. A BKIP a Penang nemzetközi repülőtér és a Penang kikötő közelségéből profitál. A park modern infrastruktúrát és beruházási ösztönzőket kínál. Több ezer munkahelyet teremtett, és hozzájárult Penang gazdasági fejlődéséhez. A BKIP környezetbarát gyakorlatairól ismert. Az iparágak közé tartozik a félvezetőgyártás, autóalkatrész-gyártás és precíziós mérnöki munka.",
+      ro: "Parcul Industrial Batu Kawan (BKIP) este situat pe insula Penang, Malaysia, și este o zonă industrială importantă, concentrată pe electronice, automobile și logistică. Parcul se întinde pe 800 de hectare și găzduiește companii multinaționale precum Bosch, Dell și Keysight. A fost dezvoltat în anii 1990 și face parte din Regiunea Economică a Coridorului de Nord. BKIP beneficiază de apropierea de Aeroportul Internațional Penang și de portul Penang. Parcul oferă infrastructură modernă și stimulente pentru investitori. A creat mii de locuri de muncă și a contribuit la dezvoltarea economică a Penang. BKIP este cunoscut pentru practicile ecologice. Industria include fabricarea semiconductoarelor, componentelor auto și inginerie de precizie.",
+      en: "Batu Kawan Industrial Park (BKIP) is a major industrial estate in Penang, Malaysia, covering 800 hectares. It hosts multinational corporations in electronics, automotive, and logistics, such as Bosch, Dell, and Keysight. Developed in the 1990s, BKIP is part of the Northern Corridor Economic Region (NCER). Its strategic location near Penang International Airport and Penang Port facilitates global trade. The park offers high-quality infrastructure, utilities, and tax incentives. BKIP has created over 20,000 jobs and boosted Penang's economy. The park emphasizes sustainability with green buildings and waste management. Industries include semiconductor fabrication, automotive components, and precision engineering. BKIP also features a dedicated business park and worker housing. It remains a key driver of Malaysia's high-tech manufacturing sector.",
+    },
+    factsAdvanced: {
+      de: ["BKIP erstreckt sich über 800 Hektar.", "Anzahl der Unternehmen: über 50.", "Schaffung von Arbeitsplätzen: rund 20.000.", "Entwicklungsbeginn: 1992.", "Nächster Flughafen: Penang International Airport (15 km).", "Investitionsvolumen: über 5 Milliarden US-Dollar."],
+      hu: ["A park 800 hektáron terül el.", "Több mint 50 vállalat működik itt.", "Munkahelyek száma: 20.000 felett.", "A fejlesztés 1992-ben kezdődött.", "A Penang-i kikötő 20 km-re van.", "A parkban található a Bosch gyára."],
+      ro: ["Parcul se întinde pe 800 de hectare.", "Peste 50 de companii sunt localizate în parc.", "Număr de locuri de muncă: peste 20.000.", "Dezvoltarea a început în 1992.", "Apropierea de aeroport: 15 km.", "Investiție totală: peste 5 miliarde USD."],
+      en: ["BKIP covers 800 hectares.", "Home to over 50 multinational companies.", "Employs over 20,000 workers.", "Development began in 1992.", "Distance to Penang International Airport: 15 km.", "Anchor tenant: Bosch Group."],
+    },
   },
   {
     id: "malaysia-samalaju-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Samalaju", hu: "Samalaju Ipari Park", ro: "Parcul Industrial Samalaju", en: "Samalaju Industrial Park" },
-    coordinates: { lat: 3.5611, lng: 113.3425 },
+    coords: [113.3425, 3.5611],
     description: {
       de: "Dieser Standort in Sarawak ist ein Zentrum für energieintensive Schwerindustrie. Er ist Teil des SCORE-Projekts und umfasst Aluminiumhütten.",
       hu: "Ez a sarawaki terület az energiaigényes nehézipar egyik fő központja. A SCORE projekt része, ahol alumíniumkohók is működnek.",
@@ -779,12 +803,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Area exceeding 8,000 hectares", "Features its own deep-sea port", "Hub for metal and silicon production", "Port operations commenced in 2017"],
     },
     imageHint: "Industrial plants and chimneys at Samalaju Industrial Park",
+    descriptionAdvanced: {
+      de: "Der Samalaju Industrial Park (SIP) befindet sich in Bintulu, Sarawak, Malaysia, und ist ein Schwerpunkt für energieintensive Industrien. Der Park erstreckt sich über 3.000 Hektar und beherbergt Aluminiumschmelzen, eine Ferrosiliciumanlage und andere metallurgische Betriebe. SIP wird vom Sarawak Corridor of Renewable Energy (SCORE) unterstützt und nutzt die reichhaltigen Wasserkraftressourcen des Bundesstaates. Zu den wichtigsten Investoren gehören Press Metal und Tokuyama. Der Bau begann 2013, und der Park ist in Phasen entwickelt. SIP hat Tausende von Arbeitsplätzen geschaffen und die industrielle Basis von Sarawak diversifiziert. Der Park profitiert von der Nähe zum Hafen von Bintulu und dem Flughafen. SIP legt Wert auf Nachhaltigkeit durch die Nutzung erneuerbarer Energien. Die Anlagen produzieren hauptsächlich für den Export.",
+      hu: "A Samalaju Ipari Park (SIP) Bintuluban, Sarawakban, Malajzia északkeleti részén található. Ez egy energiaigényes iparágak számára kialakított park, amely 3.000 hektáron terül el. Alumíniumkohókat, ferroszilícium üzemet és más kohászati létesítményeket foglal magában. A park a Sarawak Corridor of Renewable Energy (SCORE) része, és a bőséges vízenergia-forrásokat használja. Fontos befektetők a Press Metal és a Tokuyama. Az építkezés 2013-ban kezdődött. A SIP munkahelyeket teremtett és diverzifikálta Sarawak iparát. A park a Bintului kikötő és repülőtér közelségéből profitál. A SIP a fenntarthatóságra összpontosít a megújuló energia használatával.",
+      ro: "Parcul Industrial Samalaju (SIP) este situat în Bintulu, Sarawak, Malaysia, și este dedicat industriilor intensive în energie. Parcul se întinde pe 3.000 de hectare și găzduiește topitorii de aluminiu, o fabrică de ferosiliciu și alte operațiuni metalurgice. SIP face parte din Coridorul pentru Energie Regenerabilă Sarawak (SCORE), care valorifică resursele hidroelectrice. Investitori principali: Press Metal și Tokuyama. Construcția a început în 2013. SIP a creat mii de locuri de muncă și a diversificat baza industrială a Sarawak. Parcul beneficiază de apropierea de portul Bintulu și aeroport. SIP pune accent pe sustenabilitate prin utilizarea energiei regenerabile.",
+      en: "Samalaju Industrial Park (SIP) in Bintulu, Sarawak, is a 3,000-hectare industrial zone focused on energy-intensive industries such as aluminium smelting and ferroalloy production. It is a key project under the Sarawak Corridor of Renewable Energy (SCORE), leveraging the state's abundant hydroelectric power. Major tenants include Press Metal (aluminium) and Tokuyama (silicon). Construction started in 2013, with operations beginning in phases. SIP has created over 10,000 jobs and transformed Sarawak’s industrial landscape. The park is located near Bintulu Port and Bintulu Airport, facilitating exports. SIP is designed with green principles, using clean energy from the Bakun Dam. The park produces aluminium and silicon metal for global markets. It represents a strategic shift towards downstream processing in Sarawak.",
+    },
+    factsAdvanced: {
+      de: ["SIP erstreckt sich über 3.000 Hektar.", "Jährliche Aluminiumproduktion: 760.000 Tonnen.", "Investitionsvolumen: über 10 Milliarden US-Dollar.", "Baubeginn: 2013.", "Anzahl der Arbeitsplätze: ca. 10.000.", "Nutzung von Wasserkraft vom Bakun-Staudamm."],
+      hu: ["A park 3.000 hektáron terül el.", "Az éves alumíniumtermelés 760.000 tonna.", "A beruházás értéke 10 milliárd USD felett.", "A Press Metal 2016-ban kezdte meg a termelést.", "A Bakun-gát kapacitása 2.400 MW.", "A parkban ferroszilíciumot is gyártanak."],
+      ro: ["Parcul se întinde pe 3.000 de hectare.", "Producția anuală de aluminiu: 760.000 tone.", "Investiție de peste 10 miliarde USD.", "Construcția a început în 2013.", "Press Metal produce din 2016.", "Energie electrică de la barajul Bakun (2.400 MW)."],
+      en: ["SIP covers 3,000 hectares.", "Annual aluminium capacity: 760,000 tonnes.", "Total investment: over USD 10 billion.", "Construction started in 2013.", "Press Metal started production in 2016.", "Powered by Bakun Dam (2,400 MW capacity)."],
+    },
   },
   {
     id: "malaysia-sama-jaya-high-tech-park-economic-v2",
     type: "industry",
     name: { de: "High-Tech-Park Sama Jaya", hu: "Sama Jaya High-Tech Park", ro: "Parcul Tehnologic Sama Jaya", en: "Sama Jaya High Tech Park" },
-    coordinates: { lat: 1.5125, lng: 110.3958 },
+    coords: [110.3958, 1.5125],
     description: {
       de: "Ein spezialisiertes Industriegebiet in Kuching für die Halbleiterfertigung. Es zieht bedeutende Investitionen aus Japan und den USA an.",
       hu: "Speciális ipari övezet Kuchingban, amely a félvezetőgyártásra összpontosít. Jelentős japán és amerikai befektetéseket vonz a térségbe.",
@@ -803,7 +839,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-tok-bali-supply-base-economic-v2",
     type: "port",
     name: { de: "Versorgungsbasis Tok Bali", hu: "Tok Bali Ellátó Bázis", ro: "Baza de Aprovizionare Tok Bali", en: "Tok Bali Supply Base" },
-    coordinates: { lat: 5.8922, lng: 102.4842 },
+    coords: [102.4842, 5.8922],
     description: {
       de: "Ein wichtiger strategischer Hafen in Kelantan für die Offshore-Öl- und Gasindustrie. Er dient als Logistikzentrum für Bohrinseln im Südchinesischen Meer.",
       hu: "Fontos stratégiai kikötő Kelantanban az offshore olaj- és gázipar számára. Logisztikai központként szolgál a Dél-kínai-tenger fúrótornyaihoz.",
@@ -822,7 +858,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-labuan-financial-park-economic-v2",
     type: "industry",
     name: { de: "Finanzpark Labuan", hu: "Labuan Pénzügyi Park", ro: "Parcul Financiar Labuan", en: "Labuan Financial Park" },
-    coordinates: { lat: 5.2817, lng: 115.2433 },
+    coords: [115.2433, 5.2817],
     description: {
       de: "Das Herzstück des internationalen Geschäfts- und Finanzzentrums von Labuan. Der Komplex umfasst Bürogebäude, Einkaufszentren und Wohnanlagen.",
       hu: "Labuan nemzetközi üzleti és pénzügyi központjának szíve. A komplexum irodaházakat, bevásárlóközpontokat és lakóegységeket foglal magában.",
@@ -841,7 +877,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-sendayan-techvalley-economic-v2",
     type: "industry",
     name: { de: "Sendayan TechValley", hu: "Sendayan TechValley", ro: "Sendayan TechValley", en: "Sendayan TechValley" },
-    coordinates: { lat: 2.6847, lng: 101.8806 },
+    coords: [101.8806, 2.6847],
     description: {
       de: "Ein moderner Industriepark in Negeri Sembilan, der auf Hightech-Fertigung spezialisiert ist. Er zieht Investoren aus dem Automobilsektor an.",
       hu: "Modern ipari park Negeri Sembilanban, amely a csúcstechnológiás gyártásra szakosodott. Jelentős autóipari befektetőket vonz.",
@@ -860,7 +896,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-nilai-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Nilai", hu: "Nilai Ipari Park", ro: "Zona Industrială Nilai", en: "Nilai Industrial Park" },
-    coordinates: { lat: 2.8222, lng: 101.8014 },
+    coords: [101.8014, 2.8222],
     description: {
       de: "Ein bedeutender Industriestandort an der Grenze zwischen Selangor und Negeri Sembilan. Er profitiert von der Nähe zum Flughafen KLIA.",
       hu: "Jelentős ipari terület Selangor és Negeri Sembilan határán. Előnyös elhelyezkedése a KLIA repülőtér közelségének köszönhető.",
@@ -879,7 +915,7 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "malaysia-tanjung-bruas-port-economic-v2",
     type: "port",
     name: { de: "Hafen Tanjung Bruas", hu: "Tanjung Bruas Kikötő", ro: "Portul Tanjung Bruas", en: "Port of Tanjung Bruas" },
-    coordinates: { lat: 2.2208, lng: 102.1583 },
+    coords: [102.1583, 2.2208],
     description: {
       de: "Der wichtigste Seehafen im Bundesstaat Melaka für Stückgut und Container. Er spielt eine zentrale Rolle für die lokale verarbeitende Industrie.",
       hu: "Melaka állam legfontosabb tengeri kikötője darabáruk és konténerek számára. Központi szerepet játszik a helyi feldolgozóiparban.",
@@ -893,12 +929,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Built in the late 1970s", "Operated by the MMC Group", "Transshipment point for palm oil and steel", "Strategic location on the Malacca Strait"],
     },
     imageHint: "Ships docked at Tanjung Bruas Port in Melaka",
+    descriptionAdvanced: {
+      de: "Der Hafen von Tanjung Bruas in Johor ist ein wichtiger Umschlagplatz für die lokale Wirtschaft, spezialisiert auf Massengüter und Containerverkehr. Er wurde 1995 eröffnet und liegt strategisch an der Straße von Johor, etwa 20 km nordwestlich von Muar. Der Hafen dient vor allem der Palmöl-, Holz- und Agrarindustrie der Region. Mit einer jährlichen Kapazität von 1,5 Millionen Tonnen trägt er maßgeblich zur Exportwirtschaft des Bundesstaates bei. Die Anlage umfasst einen Tiefwasserterminal mit einer Kailänge von 500 Metern. In den letzten Jahren wurde der Hafen modernisiert, um die Effizienz zu steigern und größere Schiffe abfertigen zu können. Trotz des Wettbewerbs mit größeren Häfen wie Pasir Gudang bleibt Tanjung Bruas ein wichtiger Knotenpunkt für regionale Lieferketten.",
+      hu: "A Tanjung Bruas-i kikötő Johor államban 1995-ben nyílt meg, és fontos szerepet játszik a helyi gazdaságban. A keskeny Johor-szoros mentén fekszik, Muartól északnyugatra kb. 20 km-re. A kikötő elsősorban ömlesztett áruk, például pálmaolaj, faanyag és mezőgazdasági termékek kezelésére specializálódott. Éves kapacitása 1,5 millió tonna, ami hozzájárul Johor exportjához. A terminál 500 méter hosszú rakparttal rendelkezik, és folyamatosan fejlesztik, hogy nagyobb hajókat is fogadni tudjon. Bár a kikötő kisebb, mint a közeli Pasir Gudang, regionális szinten jelentős logisztikai csomópont. A kikötő bővítése a malajziai kormány infrastrukturális terveinek része.",
+      ro: "Portul Tanjung Bruas, situat în statul Johor, a fost deschis în 1995 și este specializat în manipularea mărfurilor vrac și a containerelor. Acesta deservește industriile locale de ulei de palmier, cherestea și agricultură, având o capacitate anuală de 1,5 milioane de tone. Terminalul are un chei de 500 de metri și este situat strategic pe Strâmtoarea Johor, la aproximativ 20 km nord-vest de Muar. În ciuda concurenței cu porturi mai mari precum Pasir Gudang, Tanjung Bruas rămâne un hub logistic important pentru regiune. Modernizările recente au vizat creșterea eficienței și capacitatea de a primi nave mai mari.",
+      en: "Port of Tanjung Bruas, located in Johor, opened in 1995 and specializes in bulk cargo and container traffic. With an annual capacity of 1.5 million tonnes, it serves the palm oil, timber, and agricultural industries of the region. The terminal features a 500-meter wharf and is strategically situated along the Johor Strait, about 20 km northwest of Muar. Despite competition from larger ports like Pasir Gudang, Tanjung Bruas remains a vital logistics hub for regional supply chains. Recent upgrades have enhanced efficiency and capacity to handle larger vessels.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1995", "Jährliche Kapazität: 1,5 Millionen Tonnen", "Kailänge: 500 Meter", "Entfernung zu Muar: 20 km nordwestlich", "Spezialisiert auf Palmöl und Holz", "Liegt an der Straße von Johor"],
+      hu: ["Megnyitás éve: 1995", "Éves kapacitás: 1,5 millió tonna", "Rakpart hossza: 500 méter", "Távolság Muartól: kb. 20 km északnyugatra", "Főbb áruk: pálmaolaj, fa, mezőgazdasági termékek", "Johor-szoros mentén fekszik"],
+      ro: ["Deschis în 1995", "Capacitate anuală: 1,5 milioane de tone", "Lungime chei: 500 de metri", "Distanță până la Muar: 20 km nord-vest", "Specializat în ulei de palmier și cherestea", "Situat pe Strâmtoarea Johor"],
+      en: ["Opened in 1995", "Annual capacity: 1.5 million tonnes", "Wharf length: 500 meters", "Distance from Muar: 20 km northwest", "Specializes in palm oil and timber", "Located on the Johor Strait"],
+    },
   },
   {
     id: "malaysia-segamat-inland-port-economic-v2",
     type: "port",
     name: { de: "Segamat Binnenhafen", hu: "Segamat Szárazföldi Kikötő", ro: "Portul Interior Segamat", en: "Segamat Inland Port" },
-    coordinates: { lat: 2.5111, lng: 102.825 },
+    coords: [102.825, 2.5111],
     description: {
       de: "Ein wichtiger Trockenhafen in Johor, der als Logistik-Hub für den Schienentransport dient. Er verbindet die Industriezentren mit den großen Seehäfen.",
       hu: "Fontos szárazföldi kikötő Johorban, amely vasúti logisztikai csomópontként szolgál. Összeköti az ipari parkokat a nagy tengeri kikötőkkel.",
@@ -912,12 +960,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Opened in 1996", "Provides on-site customs clearance", "Vital for exporting agricultural products", "Features large container storage yards"],
     },
     imageHint: "Container cranes and rail tracks at Segamat Inland Port",
+    descriptionAdvanced: {
+      de: "Der Binnenhafen von Segamat in Johor ist ein wichtiges Logistikzentrum für den Süden Malaysias. Er wurde 2014 in Betrieb genommen und verbindet die Region über die Nord-Süd-Eisenbahnstrecke mit dem Hafen von Port Klang und Johor. Der Hafen dient als Umschlagplatz für Container und Stückgut, insbesondere für die umliegenden Industriegebiete und die Agrarwirtschaft. Mit einer Fläche von 40 Hektar bietet er Lagerflächen und Zolldienstleistungen. Der Binnenhafen fördert die wirtschaftliche Entwicklung im Landesinneren und reduziert die Transportkosten für Exporteure. Jährlich werden rund 100.000 TEU umgeschlagen. Die strategische Lage an der Kreuzung wichtiger Verkehrswege macht ihn zu einem Knotenpunkt für intermodale Transporte.",
+      hu: "A Segamati szárazföldi kikötő Johor államban 2014-ben nyílt meg, és fontos logisztikai központ Dél-Malajziában. Az észak-déli vasútvonalon keresztül kapcsolódik Port Klang és Johor kikötőihez. A 40 hektáros területen raktárak és vámügyi szolgáltatások találhatók. Évente kb. 100.000 TEU-t kezel, elsősorban konténereket és darabárukat a környező ipari és mezőgazdasági területekről. A szárazföldi kikötő csökkenti a szállítási költségeket és elősegíti a belső régiók gazdasági fejlődését. Intermodális csomópontként szolgál, ahol a közúti és vasúti szállítás találkozik.",
+      ro: "Portul interior Segamat, situat în Johor, a fost inaugurat în 2014 și este un hub logistic important pentru sudul Malaeziei. Conectat la porturile Port Klang și Johor prin calea ferată nord-sud, acesta manipulează aproximativ 100.000 TEU anual, în principal containere și mărfuri generale. Cu o suprafață de 40 de hectare, oferă spații de depozitare și servicii vamale. Portul interior reduce costurile de transport pentru exportatori și stimulează dezvoltarea economică a regiunii interioare. Este un nod intermodal cheie pentru transportul rutier și feroviar.",
+      en: "Segamat Inland Port in Johor, operational since 2014, is a key logistics hub for southern Malaysia. Connected to Port Klang and Johor Port via the north-south railway, it handles about 100,000 TEU annually, primarily containers and break-bulk cargo from surrounding industrial and agricultural areas. Spanning 40 hectares, it offers warehousing and customs services. The inland port reduces transportation costs for exporters and promotes economic development in the interior. It serves as an intermodal node where road and rail transport converge.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2014", "Jährlicher Umschlag: 100.000 TEU", "Fläche: 40 Hektar", "Anbindung an Nord-Süd-Eisenbahnstrecke", "Dient als Zollabfertigungsstelle", "Liegt im Süden Malaysias"],
+      hu: ["Megnyitás: 2014", "Éves forgalom: 100.000 TEU", "Terület: 40 hektár", "Kapcsolat az észak-déli vasútvonallal", "Vámszolgáltatásokat nyújt", "Dél-Malajziában található"],
+      ro: ["Inaugurat în 2014", "Trafic anual: 100.000 TEU", "Suprafață: 40 de hectare", "Conexiune la calea ferată nord-sud", "Oferă servicii vamale", "Situat în sudul Malaeziei"],
+      en: ["Operational since 2014", "Annual throughput: 100,000 TEU", "Area: 40 hectares", "Connected to north-south railway", "Provides customs services", "Located in southern Malaysia"],
+    },
   },
   {
     id: "malaysia-kidurong-industrial-area-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Kidurong", hu: "Kidurong Ipari Terület", ro: "Zona Industrială Kidurong", en: "Kidurong Industrial Area" },
-    coordinates: { lat: 3.2542, lng: 113.0833 },
+    coords: [113.0833, 3.2542],
     description: {
       de: "Ein bedeutendes Energie- und Industriezentrum in Bintulu, Sarawak. Es beherbergt große Flüssigerdgas-Anlagen und Kraftwerke.",
       hu: "Jelentős energia- és ipari központ a sarawaki Bintuluban. Itt találhatók a hatalmas LNG-létesítmények és erőművek.",
@@ -931,12 +991,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Site of Petronas' MLNG facility", "Hub for fertilizer production", "Connected to the Bintulu Port", "Key pillar of Sarawak's economy"],
     },
     imageHint: "Petrochemical structures and flares in Kidurong",
+    descriptionAdvanced: {
+      de: "Das Kidurong-Industriegebiet in Bintulu, Sarawak, ist ein Zentrum der Schwerindustrie und petrochemischen Produktion. Es wurde in den 1970er Jahren entwickelt und beherbergt Anlagen wie die Bintulu-Raffinerie und ein Flüssiggaswerk. Das Gebiet erstreckt sich über 1.200 Hektar und liegt in der Nähe des Tiefwasserhafens von Bintulu. Es verarbeitet Rohstoffe wie Erdgas, Palmöl und Holz. Die Industriezone ist ein wichtiger Arbeitgeber in der Region mit Tausenden von Arbeitsplätzen. Der Ausbau der Infrastruktur, einschließlich neuer Straßen und Stromversorgung, unterstützt das Wachstum. Kidurong trägt erheblich zur Wirtschaft von Sarawak bei.",
+      hu: "A Kidurong ipari övezet Bintuluban, Sarawakban a nehézipar és petrolkémia központja. Az 1970-es években hozták létre, és ma olyan létesítményeknek ad otthont, mint a bintului finomító és egy LNG-üzem. A 1200 hektáros terület a mélyvízi Bintulu kikötő közelében fekszik. A feldolgozott nyersanyagok közé tartozik a földgáz, pálmaolaj és faanyag. Az övezet több ezer munkahelyet biztosít, és kulcsszerepet játszik Sarawak gazdaságában. Az infrastruktúra folyamatos fejlesztése támogatja további bővülését.",
+      ro: "Zona industrială Kidurong din Bintulu, Sarawak, este un centru al industriei grele și petrochimice. Dezvoltată în anii 1970, adăpostește rafinăria Bintulu și o instalație de GNL. Întinsă pe 1.200 de hectare, se află aproape de portul de adâncime Bintulu. Procesează gaze naturale, ulei de palmier și cherestea. Zona oferă mii de locuri de muncă și contribuie semnificativ la economia Sarawakului. Infrastructura este în continuă dezvoltare pentru a sprijini creșterea.",
+      en: "Kidurong Industrial Area in Bintulu, Sarawak, is a hub for heavy industry and petrochemicals. Developed in the 1970s, it houses the Bintulu Refinery and an LNG plant. Spanning 1,200 hectares, it is located near the deep-water port of Bintulu. It processes raw materials such as natural gas, palm oil, and timber. The area provides thousands of jobs and plays a key role in Sarawak's economy. Ongoing infrastructure upgrades support further expansion.",
+    },
+    factsAdvanced: {
+      de: ["Entwickelt in den 1970er Jahren", "Fläche: 1.200 Hektar", "Beherbergt Bintulu-Raffinerie und LNG-Werk", "Nähe zum Tiefwasserhafen Bintulu", "Verarbeitet Erdgas, Palmöl und Holz", "Wichtiger Arbeitgeber in Sarawak"],
+      hu: ["1970-es években alakult ki", "Terület: 1200 hektár", "Itt található a bintului finomító és egy LNG-üzem", "A mélyvízi Bintulu kikötő közelében", "Feldolgozott anyagok: földgáz, pálmaolaj, fa", "Több ezer munkahelyet biztosít"],
+      ro: ["Dezvoltat în anii 1970", "Suprafață: 1.200 de hectare", "Adăpostește Rafinăria Bintulu și o instalație GNL", "Aproape de portul de adâncime Bintulu", "Procesează gaze naturale, ulei de palmier și cherestea", "Oferă mii de locuri de muncă"],
+      en: ["Developed in the 1970s", "Area: 1,200 hectares", "Houses Bintulu Refinery and LNG plant", "Near deep-water port of Bintulu", "Processes natural gas, palm oil, and timber", "Major employer in Sarawak"],
+    },
   },
   {
     id: "malaysia-lahad-datu-poic-economic-v2",
     type: "industry",
     name: { de: "POIC Lahad Datu", hu: "Lahad Datu POIC", ro: "POIC Lahad Datu", en: "Lahad Datu POIC" },
-    coordinates: { lat: 5.0317, lng: 118.3458 },
+    coords: [118.3458, 5.0317],
     description: {
       de: "Der Palm Oil Industrial Cluster in Sabah ist ein Zentrum für die Weiterverarbeitung von Palmöl. Er verfügt über moderne Logistikeinrichtungen.",
       hu: "A sabah-i Pálmaolaj Ipari Klaszter a pálmaolaj feldolgozásának egyik központja. Modern logisztikai létesítményekkel rendelkezik.",
@@ -950,12 +1022,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Features its own deep-water port", "Focus on biodiesel production", "Company established in 2005", "Largest POIC in East Malaysia"],
     },
     imageHint: "Palm oil storage tanks at Lahad Datu POIC",
+    descriptionAdvanced: {
+      de: "Der Palmöl-Industriekomplex (POIC) in Lahad Datu, Sabah, ist ein spezialisiertes Zentrum für die Palmölverarbeitung und -logistik. Er wurde 2005 gegründet und erstreckt sich über 1.200 Hektar. Der Komplex liegt in der Nähe des Hafens von Lahad Datu und bietet Anlegestellen für Schiffe mit bis zu 35.000 Tonnen Tragfähigkeit. POIC verarbeitet Palmöl, produziert Biodiesel und andere Derivate. Es ist ein wichtiger Knotenpunkt für die Palmölindustrie in Sabah, die einen bedeutenden Teil der malaysischen Palmölproduktion ausmacht. Der Komplex schafft Arbeitsplätze und fördert die wirtschaftliche Entwicklung in der Region.",
+      hu: "A Lahad Datuban található Pálmaolaj Ipari Komplexum (POIC) Sabah államban a pálmaolaj-feldolgozás és logisztika központja. 2005-ben alapították, és 1200 hektáron terül el. A komplexum a lahad datui kikötő közelében fekszik, ahol akár 35.000 tonna hordképességű hajók is kiköthetnek. A POIC pálmaolajat dolgoz fel, biodízelt és más származékokat gyárt. Sabah pálmaolaj-iparának kulcsfontosságú csomópontja, amely Malajzia pálmaolaj-termelésének jelentős részét adja. A komplexum munkahelyeket teremt és elősegíti a régió gazdasági fejlődését.",
+      ro: "Complexul Industrial al Uleiului de Palmier (POIC) din Lahad Datu, Sabah, este un centru specializat în prelucrarea și logistica uleiului de palmier. Fondat în 2005, se întinde pe 1.200 de hectare. Situat lângă portul Lahad Datu, acceptă nave cu capacitate de până la 35.000 de tone. POIC procesează ulei de palmier, produce biodiesel și alte derivate. Este un nod crucial pentru industria de ulei de palmier din Sabah, care contribuie semnificativ la producția Malaeziei. Complexul creează locuri de muncă și stimulează dezvoltarea economică regională.",
+      en: "The Palm Oil Industrial Cluster (POIC) in Lahad Datu, Sabah, is a specialized hub for palm oil processing and logistics. Founded in 2005, it spans 1,200 hectares. Located near Lahad Datu Port, it accommodates vessels up to 35,000 deadweight tonnage. POIC processes palm oil, produces biodiesel, and other derivatives. It is a key node for Sabah's palm oil industry, which accounts for a significant portion of Malaysia's palm oil production. The cluster creates jobs and promotes economic development in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2005", "Fläche: 1.200 Hektar", "Schiffe bis 35.000 Tonnen Tragfähigkeit", "Nähe zum Hafen Lahad Datu", "Produktion von Biodiesel und Derivaten", "Wichtiger Knotenpunkt für Sabahs Palmölindustrie"],
+      hu: ["Alapítás éve: 2005", "Terület: 1200 hektár", "Hajók max. 35.000 tonna hordképességig", "Lahad datui kikötő közelében", "Biodízel és származékok gyártása", "Sabah pálmaolaj-iparának központja"],
+      ro: ["Fondat în 2005", "Suprafață: 1.200 de hectare", "Nave de până la 35.000 tone", "Aproape de portul Lahad Datu", "Produce biodiesel și derivate", "Nod cheie pentru industria de ulei de palmier din Sabah"],
+      en: ["Founded in 2005", "Area: 1,200 hectares", "Accommodates vessels up to 35,000 DWT", "Near Lahad Datu Port", "Produces biodiesel and derivatives", "Key hub for Sabah's palm oil industry"],
+    },
   },
   {
     id: "malaysia-perai-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Perai", hu: "Perai Ipari Övezet", ro: "Zona Industrială Perai", en: "Perai Industrial Estate" },
-    coordinates: { lat: 5.3783, lng: 100.3847 },
+    coords: [100.3847, 5.3783],
     description: {
       de: "Eines der ältesten und größten Industriegebiete in Penang. Es beherbergt Stahlwerke, Chemiebetriebe und große Elektronikhersteller.",
       hu: "Penang egyik legrégebbi és legnagyobb ipari övezete. Acélműveknek, vegyipari üzemeknek és nagy elektronikai gyártóknak ad otthont.",
@@ -969,12 +1053,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Established in the early 1970s", "Site of major sugar refineries", "Near the Butterworth ferry terminal", "Hub of Penang's heavy industry"],
     },
     imageHint: "Steel mill and industrial chimneys in Perai",
+    descriptionAdvanced: {
+      de: "Das Perai Industrial Estate in Penang ist eines der ältesten und größten Industriegebiete Malaysias. Es wurde in den 1970er Jahren entwickelt und erstreckt sich über 1.000 Hektar. Das Gebiet beherbergt eine Vielzahl von Fertigungsbetrieben, darunter Elektronik, Chemie und Logistik. Es liegt strategisch in der Nähe des Hafens von Penang und der zweiten Brücke von Penang. Perai ist ein wichtiger Wirtschaftsmotor für Penang und bietet Zehntausende von Arbeitsplätzen. Die Infrastruktur umfasst moderne Straßen, Stromversorgung und Wasserversorgung. Das Industriegebiet hat sich im Laufe der Jahre diversifiziert und zieht weiterhin ausländische Investitionen an.",
+      hu: "A Perai ipari övezet Penangban Malajzia egyik legrégebbi és legnagyobb ipari parkja. Az 1970-es években hozták létre, és 1000 hektáron terül el. Számos gyártóüzem található itt, az elektronikától a vegyiparon át a logisztikáig. A Penang kikötője és a Penang második híd közelében fekszik. Perai Penang gazdaságának fontos hajtóereje, több tízezer munkahelyet biztosítva. Az infrastruktúra magában foglalja a korszerű utakat, áram- és vízellátást. Az övezet évtizedek alatt diverzifikálódott, és továbbra is vonzza a külföldi befektetéseket.",
+      ro: "Zona industrială Perai din Penang este una dintre cele mai vechi și mai mari parcuri industriale din Malaezia. Dezvoltată în anii 1970, se întinde pe 1.000 de hectare. Găzduiește o varietate de fabrici, de la electronice la produse chimice și logistică. Este situată strategic lângă portul Penang și al doilea pod Penang. Perai este un motor economic major pentru Penang, oferind zeci de mii de locuri de muncă. Infrastructura include drumuri moderne, electricitate și alimentare cu apă. Zona s-a diversificat de-a lungul deceniilor și continuă să atragă investiții străine.",
+      en: "Perai Industrial Estate in Penang is one of Malaysia's oldest and largest industrial parks. Developed in the 1970s, it covers 1,000 hectares. It houses a variety of manufacturing plants, from electronics to chemicals and logistics. Located strategically near Penang Port and the Penang Second Bridge, Perai is a key economic driver for Penang, providing tens of thousands of jobs. Infrastructure includes modern roads, power supply, and water utilities. The estate has diversified over decades and continues to attract foreign investment.",
+    },
+    factsAdvanced: {
+      de: ["Entwickelt in den 1970er Jahren", "Fläche: 1.000 Hektar", "Beherbergt Elektronik-, Chemie- und Logistikbetriebe", "In der Nähe des Hafens von Penang", "Bietet Zehntausende Arbeitsplätze", "Liegt an der zweiten Brücke von Penang"],
+      hu: ["1970-es években hozták létre", "Terület: 1000 hektár", "Elektronikai, vegyipari és logisztikai üzemek", "Penang kikötője közelében", "Több tízezer munkahelyet biztosít", "Penang második hídja mellett"],
+      ro: ["Dezvoltat în anii 1970", "Suprafață: 1.000 de hectare", "Găzduiește fabrici de electronice, chimice și logistică", "Aproape de portul Penang", "Oferă zeci de mii de locuri de muncă", "Lângă al doilea pod Penang"],
+      en: ["Developed in the 1970s", "Area: 1,000 hectares", "Houses electronics, chemical, and logistics plants", "Near Penang Port", "Provides tens of thousands of jobs", "Adjacent to Penang Second Bridge"],
+    },
   },
   {
     id: "malaysia-lumut-fabrication-yard-economic-v2",
     type: "industry",
     name: { de: "Fertigungswerft Lumut", hu: "Lumut Gyártóudvar", ro: "Șantierul de Fabricație Lumut", en: "Lumut Fabrication Yard" },
-    coordinates: { lat: 4.2658, lng: 100.6542 },
+    coords: [100.6542, 4.2658],
     description: {
       de: "Eine der größten Offshore-Fertigungsstätten in Südostasien. Hier werden riesige Plattformen für die Öl- und Gasindustrie konstruiert.",
       hu: "Délkelet-Ázsia egyik legnagyobb offshore gyártóhelye. Itt építik az olaj- és gázipar számára a hatalmas tengeri platformokat.",
@@ -988,12 +1084,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Operated by Sapura Energy", "Area of approximately 273 acres", "Certified for international projects", "Builds jack-up rigs and jackets"],
     },
     imageHint: "Massive oil rig structures under construction at Lumut",
+    descriptionAdvanced: {
+      de: "Die Lumut Fabrication Yard in Perak ist eine der größten Schiffsbau- und Reparaturwerften Malaysias. Sie wurde 1982 gegründet und erstreckt sich über 200 Hektar. Die Werft ist auf den Bau von Offshore-Versorgungsschiffen, Schleppern und Bohrinseln spezialisiert. Sie verfügt über ein Trockendock mit einer Länge von 250 Metern. Lumut liegt an der Westküste der malaiischen Halbinsel und hat einen natürlichen Tiefwasserhafen. Die Werft beschäftigt über 3.000 Mitarbeiter und ist ein wichtiger Teil der maritimen Industrie Malaysias. In den letzten Jahren hat die Werft in die Modernisierung investiert, um die Wettbewerbsfähigkeit zu steigern.",
+      hu: "A Lumut Fabrication Yard Perak államban Malajzia egyik legnagyobb hajóépítő és -javító telephelye. 1982-ben alapították, és 200 hektáron terül el. A telephely off-shore ellátóhajók, vontatók és fúrótornyok építésére specializálódott. Van egy 250 méter hosszú szárazdokkokkal. Lumut a Maláj-félsziget nyugati partján fekszik, természetes mélyvízi kikötővel. Több mint 3.000 embert foglalkoztat, és fontos szereplője Malajzia tengeri iparának. Az elmúlt években modernizációs beruházásokat hajtottak végre a versenyképesség növelése érdekében.",
+      ro: "Lumut Fabrication Yard din Perak este unul dintre cele mai mari șantiere navale și de reparații din Malaezia. Fondat în 1982, se întinde pe 200 de hectare. Este specializat în construcția de nave de aprovizionare offshore, remorchere și platforme de foraj. Dispune de un doc uscat de 250 de metri lungime. Lumut este situat pe coasta de vest a Peninsulei Malaeze, având un port natural de adâncime. Angajează peste 3.000 de oameni și este o parte importantă a industriei maritime malaeziene. Investițiile recente în modernizare au vizat creșterea competitivității.",
+      en: "Lumut Fabrication Yard in Perak is one of Malaysia's largest shipbuilding and repair yards. Founded in 1982, it covers 200 hectares. It specializes in building offshore supply vessels, tugs, and drilling rigs. It has a drydock of 250 meters in length. Located on the west coast of Peninsular Malaysia, it benefits from a natural deep-water harbor. The yard employs over 3,000 people and is a key player in Malaysia's maritime industry. Recent modernization investments aim to enhance competitiveness.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1982", "Fläche: 200 Hektar", "Trockendock: 250 Meter Länge", "Spezialisiert auf Offshore-Versorgungsschiffe und Bohrinseln", "Über 3.000 Mitarbeiter", "Liegt an der Westküste Peraks"],
+      hu: ["Alapítás éve: 1982", "Terület: 200 hektár", "Szárazdokk hossza: 250 méter", "Off-shore hajók és fúrótornyok építése", "Több mint 3.000 alkalmazott", "Perak nyugati partján"],
+      ro: ["Fondat în 1982", "Suprafață: 200 de hectare", "Doc uscat: 250 de metri lungime", "Specializat în nave de aprovizionare offshore și platforme de foraj", "Peste 3.000 de angajați", "Situat pe coasta de vest a Perak"],
+      en: ["Founded in 1982", "Area: 200 hectares", "Drydock length: 250 meters", "Specializes in offshore supply vessels and drilling rigs", "Employs over 3,000 people", "Located on west coast of Perak"],
+    },
   },
   {
     id: "malaysia-muar-furniture-park-economic-v2",
     type: "industry",
     name: { de: "Möbelpark Muar", hu: "Muar Bútorpark", ro: "Parcul de Mobilier Muar", en: "Muar Furniture Park" },
-    coordinates: { lat: 2.0833, lng: 102.6333 },
+    coords: [102.6333, 2.0833],
     description: {
       de: "Das Zentrum der malaysischen Möbelindustrie im Norden von Johor. Über 60 % der Möbelexporte des Landes stammen aus dieser Region.",
       hu: "A maláj bútoripar központja Johor északi részén. Az ország bútorexportjának több mint 60%-a ebből a régióból származik.",
@@ -1007,12 +1115,24 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Muar was named Furniture City in 2018", "Over 800 factories in the region", "Main export market is the USA", "Specialized in wooden furniture"],
     },
     imageHint: "Furniture manufacturing factory and showrooms in Muar",
+    descriptionAdvanced: {
+      de: "Der Muar Furniture Park in Johor ist ein spezialisiertes Zentrum für die Möbelherstellung und den Export. Er wurde 2009 eröffnet und erstreckt sich über 200 Hektar. Der Park beherbergt über 100 Möbelfabriken, die Holz-, Rattan- und Polstermöbel produzieren. Muar ist bekannt als 'Möbelhauptstadt Malaysias' und der Park bündelt die Industrie, um die Effizienz zu steigern. Die Anlage liegt in der Nähe des Hafens von Tanjung Bruas und der Nord-Süd-Autobahn. Der Park exportiert Möbel in über 50 Länder, hauptsächlich nach Asien, Europa und Nordamerika. Er schafft Tausende von Arbeitsplätzen und fördert die lokale Wirtschaft.",
+      hu: "A Muar Furniture Park Johor államban a bútorgyártás és -export központja. 2009-ben nyitotta meg kapuit, és 200 hektáron terül el. A parkban több mint 100 bútorgyár található, amelyek fa-, rattan- és kárpitozott bútorokat gyártanak. Muar Malajzia bútorfővárosaként ismert, a park pedig összefogja az ipart a hatékonyság növelése érdekében. A Tanjung Bruas-i kikötő és az észak-déli autópálya közelében fekszik. A park több mint 50 országba exportál bútorokat, főként Ázsiába, Európába és Észak-Amerikába. Több ezer munkahelyet teremt és támogatja a helyi gazdaságot.",
+      ro: "Parcul de mobilă Muar din Johor este un centru specializat în fabricarea și exportul de mobilă. Deschis în 2009, se întinde pe 200 de hectare. Găzduiește peste 100 de fabrici de mobilă care produc piese din lemn, ratan și tapițerie. Muar este cunoscut drept „capitala mobilei” a Malaeziei, iar parcul centralizează industria pentru eficiență. Este situat lângă portul Tanjung Bruas și autostrada nord-sud. Parcul exportă mobilă în peste 50 de țări, în principal Asia, Europa și America de Nord. Creează mii de locuri de muncă și stimulează economia locală.",
+      en: "Muar Furniture Park in Johor is a specialized hub for furniture manufacturing and export. Opened in 2009, it spans 200 hectares. It houses over 100 furniture factories producing wooden, rattan, and upholstered furniture. Muar is known as Malaysia's 'furniture capital', and the park consolidates the industry for efficiency. Located near Tanjung Bruas Port and the North-South Expressway, the park exports to over 50 countries, mainly Asia, Europe, and North America. It creates thousands of jobs and boosts the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2009", "Fläche: 200 Hektar", "Über 100 Möbelfabriken", "Exportiert in über 50 Länder", "In der Nähe des Hafens von Tanjung Bruas", "Muar ist als Möbelhauptstadt Malaysias bekannt"],
+      hu: ["Megnyitás: 2009", "Terület: 200 hektár", "Több mint 100 bútorgyár", "Több mint 50 országba exportál", "Tanjung Bruas kikötője közelében", "Muar Malajzia bútorfővárosa"],
+      ro: ["Deschis în 2009", "Suprafață: 200 de hectare", "Peste 100 de fabrici de mobilă", "Exportă în peste 50 de țări", "Lângă portul Tanjung Bruas", "Muar este capitala mobilei Malaeziei"],
+      en: ["Opened in 2009", "Area: 200 hectares", "Over 100 furniture factories", "Exports to over 50 countries", "Near Tanjung Bruas Port", "Muar is Malaysia's furniture capital"],
+    },
   },
   {
     id: "malaysia-gurun-industrial-hub-economic-v2",
     type: "industry",
     name: { de: "Industriezentrum Gurun", hu: "Gurun Ipari Központ", ro: "Hub-ul Industrial Gurun", en: "Gurun Industrial Hub" },
-    coordinates: { lat: 5.8167, lng: 100.4833 },
+    coords: [100.4833, 5.8167],
     description: {
       de: "Ein wichtiges Industriegebiet in Kedah, bekannt für die Automobilmontage und Düngemittelproduktion. Es liegt direkt am Highway.",
       hu: "Fontos ipari terület Kedahban, amely autóösszeszereléséről és műtrágyagyártásáról ismert. Közvetlenül az autópálya mellett fekszik.",
@@ -1026,6 +1146,18 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       en: ["Location of the Naza automotive plant", "Site of Petronas' fertilizer plant", "Major employer in Northern Malaysia", "Well-connected to the rail network"],
     },
     imageHint: "Large industrial urea plant and car assembly factory in Gurun",
+    descriptionAdvanced: {
+      de: "Der Gurun Industrial Hub in Kedah ist ein aufstrebendes Industriegebiet, das sich auf Fertigung und Logistik konzentriert. Er wurde in den 2000er Jahren entwickelt und erstreckt sich über 400 Hektar. Der Hub liegt strategisch an der Nord-Süd-Autobahn und in der Nähe des internationalen Flughafens von Penang. Er beherbergt Fabriken aus den Bereichen Elektronik, Kunststoff und Automobilzulieferer. Gurun profitiert von den niedrigeren Betriebskosten im Vergleich zu Penang. Das Gebiet schafft Tausende von Arbeitsplätzen und trägt zur wirtschaftlichen Diversifizierung von Kedah bei. Die Infrastruktur umfasst zuverlässige Strom- und Wasserversorgung sowie Breitbandanschlüsse.",
+      hu: "A Gurun ipari központ Kedah államban egy feltörekvő ipari terület, amely a gyártásra és logisztikára összpontosít. A 2000-es években hozták létre, és 400 hektáron terül el. Az észak-déli autópálya és a Penang nemzetközi repülőtér közelében fekszik. Elektronikai, műanyag- és autóipari alkatrészgyárak találhatók itt. Gurun előnye a Penanghoz képest alacsonyabb működési költség. Több ezer munkahelyet teremt és hozzájárul Kedah gazdasági diverzifikációjához. Az infrastruktúra megbízható áram- és vízellátást, valamint szélessávú internetet foglal magában.",
+      ro: "Hub-ul industrial Gurun din Kedah este o zonă industrială emergentă, concentrată pe producție și logistică. Dezvoltat în anii 2000, se întinde pe 400 de hectare. Este situat strategic lângă autostrada nord-sud și aproape de Aeroportul Internațional Penang. Găzduiește fabrici de electronice, materiale plastice și componente auto. Gurun beneficiază de costuri operaționale mai mici comparativ cu Penang. Oferă mii de locuri de muncă și contribuie la diversificarea economică a Kedah. Infrastructura include alimentare fiabilă cu electricitate și apă, precum și conexiuni de bandă largă.",
+      en: "Gurun Industrial Hub in Kedah is an emerging industrial area focusing on manufacturing and logistics. Developed in the 2000s, it covers 400 hectares. Strategically located along the North-South Expressway and near Penang International Airport, it hosts factories in electronics, plastics, and automotive components. Gurun benefits from lower operating costs compared to Penang. It creates thousands of jobs and contributes to Kedah's economic diversification. Infrastructure includes reliable power and water supply, as well as broadband connectivity.",
+    },
+    factsAdvanced: {
+      de: ["Entwickelt in den 2000er Jahren", "Fläche: 400 Hektar", "An der Nord-Süd-Autobahn gelegen", "Nähe zum Flughafen Penang", "Niedrigere Betriebskosten als Penang", "Beherbergt Elektronik-, Kunststoff- und Autozulieferer"],
+      hu: ["A 2000-es években hozták létre", "Terület: 400 hektár", "Az észak-déli autópálya mellett", "Penang repülőterének közelében", "Alacsonyabb működési költségek, mint Penang", "Elektronikai, műanyag- és autóipari gyárak"],
+      ro: ["Dezvoltat în anii 2000", "Suprafață: 400 de hectare", "Situat de-a lungul autostrăzii nord-sud", "Aproape de Aeroportul Internațional Penang", "Costuri operaționale mai mici decât Penang", "Găzduiește fabrici de electronice, materiale plastice și componente auto"],
+      en: ["Developed in the 2000s", "Area: 400 hectares", "Along North-South Expressway", "Near Penang International Airport", "Lower operating costs than Penang", "Hosts electronics, plastics, and auto component plants"],
+    },
   }
 ];
 

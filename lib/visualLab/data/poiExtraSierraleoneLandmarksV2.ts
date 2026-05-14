@@ -1293,7 +1293,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-marampa-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Marampa Gedenkstätte", hu: "Marampa Emlékhely", ro: "Memorialul Marampa", en: "Marampa Memorial" },
-    coordinates: { lat: 8.5714, lng: -12.1802 },
+    coords: [-12.1802, 8.5714],
     description: {
       de: "Dieses Denkmal erinnert an die Geschichte der Bergbauaktivitäten in der Region. Es steht nahe der ehemaligen Eisenerzminenstandorte.",
       hu: "Ez az emlékmű a régió bányászati tevékenységének történetére utal. A volt vasércbánya-területek közelében található.",
@@ -1312,7 +1312,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-st-johns-maroon-church-landmarks-v2",
     type: "church",
     name: { de: "St. John's Maroon Kirche", hu: "St. John's Maroon Templom", ro: "Biserica St. John's Maroon", en: "St. John's Maroon Church" },
-    coordinates: { lat: 8.4845, lng: -13.2325 },
+    coords: [-13.2325, 8.4845],
     description: {
       de: "Diese historische Kirche in Freetown wurde Anfang des 19. Jahrhunderts erbaut. Sie diente ursprünglich den Maroon-Siedlern.",
       hu: "Ez a freetown-i történelmi templom a 19. század elején épült. Eredetileg a maroon telepesek számára szolgált.",
@@ -1331,7 +1331,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-kissy-community-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kissy Gemeindemuseum", hu: "Kissy Közösségi Múzeum", ro: "Muzeul Comunitar Kissy", en: "Kissy Community Museum" },
-    coordinates: { lat: 8.4752, lng: -13.2056 },
+    coords: [-13.2056, 8.4752],
     description: {
       de: "Das Museum bewahrt lokale Artefakte und dokumentiert die Entwicklung von Kissy. Es befindet sich in einem historischen Gebäude.",
       hu: "A múzeum helyi leleteket őriz és dokumentálja Kissy fejlődését. Egy történelmi épületben található.",
@@ -1350,7 +1350,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-bo-cathedral-complex-landmarks-v2",
     type: "cathedral",
     name: { de: "Bo Kathedralkomplex", hu: "Bo-i Székesegyház Komplexum", ro: "Complexul Catedralei din Bo", en: "Bo Cathedral Complex" },
-    coordinates: { lat: 7.9621, lng: -11.7345 },
+    coords: [-11.7345, 7.9621],
     description: {
       de: "Dieser religiöse Komplex umfasst die Hauptkathedrale von Bo. Er ist ein zentrales Gebäude für die katholische Gemeinschaft.",
       hu: "Ez a vallási komplexum foglalja magában Bo fő székesegyházát. Központi épület a katolikus közösség számára.",
@@ -1369,7 +1369,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-kabala-cultural-centre-landmarks-v2",
     type: "museum",
     name: { de: "Kabala Kulturzentrum", hu: "Kabala Kulturális Központ", ro: "Centrul Cultural Kabala", en: "Kabala Cultural Centre" },
-    coordinates: { lat: 9.5833, lng: -11.55 },
+    coords: [-11.55, 9.5833],
     description: {
       de: "Das Zentrum präsentiert die Traditionen der Ethnien im Norden des Landes. Es dient als Veranstaltungsort für kulturelle Projekte.",
       hu: "A központ bemutatja az ország északi részén élő etnikumok hagyományait. Kulturális projektek helyszíneként szolgál.",
@@ -1388,7 +1388,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-makeni-central-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmoschee Makeni", hu: "Makeni Központi Mecset", ro: "Marea Moschee din Makeni", en: "Makeni Central Mosque" },
-    coordinates: { lat: 8.8781, lng: -12.0354 },
+    coords: [-12.0354, 8.8781],
     description: {
       de: "Die Zentralmoschee in Makeni ist ein bedeutendes religiöses Gebäude. Sie ist für ihre Architektur und soziale Rolle bekannt.",
       hu: "A makeni-i központi mecset jelentős vallási épület. Ismert építészetéről és társadalmi szerepéről.",
@@ -1407,7 +1407,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-bonthe-district-archives-landmarks-v2",
     type: "museum",
     name: { de: "Bonthe Bezirksarchiv", hu: "Bonthe Körzeti Levéltár", ro: "Arhiva Districtului Bonthe", en: "Bonthe District Archives" },
-    coordinates: { lat: 7.5273, lng: -12.5065 },
+    coords: [-12.5065, 7.5273],
     description: {
       de: "Das Archiv bewahrt historische Dokumente über die Kolonialzeit in Bonthe. Es befindet sich in einem restaurierten Kolonialbau.",
       hu: "A levéltár megőrzi a bonthe-i gyarmati időszak történelmi dokumentumait. Egy helyreállított gyarmati épületben található.",
@@ -1426,7 +1426,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-port-loko-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Port Loko Uhrturm", hu: "Port Loko Óratorony", ro: "Turnul cu Ceas din Port Loko", en: "Port Loko Clock Tower" },
-    coordinates: { lat: 8.7758, lng: -12.7842 },
+    coords: [-12.7842, 8.7758],
     description: {
       de: "Der Uhrturm in Port Loko ist ein bekanntes lokales Wahrzeichen. Er markiert den zentralen Platz der Stadt.",
       hu: "A port loko-i óratorony ismert helyi nevezetesség. A város központi terét jelöli.",
@@ -1445,7 +1445,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-kambia-district-office-landmarks-v2",
     type: "landmark",
     name: { de: "Kambia Bezirksgebäude", hu: "Kambia Körzeti Épület", ro: "Clădirea Districtului Kambia", en: "Kambia District Building" },
-    coordinates: { lat: 9.1245, lng: -12.9158 },
+    coords: [-12.9158, 9.1245],
     description: {
       de: "Das Gebäude dient der Verwaltung und ist ein Beispiel für die Architektur der Nachkriegszeit. Es steht in der Stadt Kambia.",
       hu: "Az épület az igazgatást szolgálja, és a háború utáni építészet példája. Kambia városában található.",
@@ -1464,7 +1464,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-kenema-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Kenema Stadthalle", hu: "Kenema Városháza", ro: "Primăria din Kenema", en: "Kenema City Hall" },
-    coordinates: { lat: 7.8762, lng: -11.1895 },
+    coords: [-11.1895, 7.8762],
     description: {
       de: "Die Stadthalle von Kenema ist ein zentrales öffentliches Gebäude. Sie dient als Ort für Versammlungen und städtische Events.",
       hu: "Kenema városháza központi középület. Gyűlések és városi események helyszínéül szolgál.",
@@ -1483,7 +1483,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-moye-river-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Moye Flussbrücke", hu: "Moye folyóhíd", ro: "Podul peste râul Moye", en: "Moye River Bridge" },
-    coordinates: { lat: 8.1254, lng: -11.8943 },
+    coords: [-11.8943, 8.1254],
     description: {
       de: "Diese Brücke ist ein wichtiges infrastrukturelles Element in der Nähe von Moyamba. Sie verbindet wichtige lokale Handelsrouten.",
       hu: "Ez a híd fontos infrastrukturális elem Moyamba közelében. Összeköti a fontos helyi kereskedelmi útvonalakat.",
@@ -1502,7 +1502,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-koindu-trade-market-landmarks-v2",
     type: "landmark",
     name: { de: "Koindu Markthalle", hu: "Koindu Piac", ro: "Piața din Koindu", en: "Koindu Market Hall" },
-    coordinates: { lat: 8.7845, lng: -10.3654 },
+    coords: [-10.3654, 8.7845],
     description: {
       de: "Die Markthalle ist ein Zentrum des regionalen Handels in Koindu. Sie ist bekannt für den grenznahen Warenverkehr.",
       hu: "A piactér Koindu regionális kereskedelmének központja. Ismert a határhoz közeli áruforgalmáról.",
@@ -1521,7 +1521,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-kailahun-community-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kailahun Gemeindezentrum", hu: "Kailahun Közösségi Központ", ro: "Centrul Comunitar Kailahun", en: "Kailahun Community Center" },
-    coordinates: { lat: 8.2812, lng: -10.5756 },
+    coords: [-10.5756, 8.2812],
     description: {
       de: "Dieses Zentrum dient als Treffpunkt für soziale Aktivitäten in Kailahun. Es ist ein moderner Bau im Stadtkern.",
       hu: "Ez a központ közösségi találkozóhelyként szolgál Kailahunban. A városközpontban található modern épület.",
@@ -1540,7 +1540,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-bumbuna-hydro-viewpoint-landmarks-v2",
     type: "landmark",
     name: { de: "Bumbuna Aussichtspunkt", hu: "Bumbuna Kilátópont", ro: "Punct de belvedere Bumbuna", en: "Bumbuna Viewpoint" },
-    coordinates: { lat: 9.2745, lng: -11.7245 },
+    coords: [-11.7245, 9.2745],
     description: {
       de: "Dieser Punkt bietet einen weiten Blick auf das Bumbuna-Staudammgebiet. Er ist ein touristischer Orientierungspunkt.",
       hu: "Ez a pont széles kilátást nyújt a Bumbuna-gát környékére. Turisztikai tájékozódási pont.",
@@ -1559,7 +1559,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-waterloo-administrative-complex-landmarks-v2",
     type: "landmark",
     name: { de: "Waterloo Verwaltungsgebäude", hu: "Waterloo Igazgatási Épület", ro: "Complexul Administrativ Waterloo", en: "Waterloo Administrative Complex" },
-    coordinates: { lat: 8.3345, lng: -13.0654 },
+    coords: [-13.0654, 8.3345],
     description: {
       de: "Dieser Komplex beherbergt die lokale Verwaltung für den Distrikt Waterloo. Er liegt an der Hauptstraße der Stadt.",
       hu: "Ez a komplexum ad otthont a Waterloo kerület helyi közigazgatásának. A város főútján található.",
@@ -1578,7 +1578,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-moyamba-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Moyamba Uhrturm", hu: "Moyamba Óratorony", ro: "Turnul cu Ceas din Moyamba", en: "Moyamba Clock Tower" },
-    coordinates: { lat: 8.1564, lng: -12.4345 },
+    coords: [-12.4345, 8.1564],
     description: {
       de: "Der historische Uhrturm in Moyamba ist ein Symbol der Stadtgeschichte. Er befindet sich im zentralen Bereich des Ortes.",
       hu: "A moyambai történelmi óratorony a város történelmének szimbóluma. A város központi részén található.",
@@ -1597,7 +1597,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-lunsar-civic-square-landmarks-v2",
     type: "landmark",
     name: { de: "Lunsar Stadtplatz", hu: "Lunsar Városi Tér", ro: "Piața Civică Lunsar", en: "Lunsar Civic Square" },
-    coordinates: { lat: 8.6845, lng: -12.5345 },
+    coords: [-12.5345, 8.6845],
     description: {
       de: "Der Stadtplatz von Lunsar ist das soziale Herz des Ortes. Er wird für öffentliche Märkte und Zusammenkünfte genutzt.",
       hu: "Lunsar városi tere a helység közösségi szíve. Nyilvános piacokhoz és találkozókhoz használják.",
@@ -1616,7 +1616,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-segbwema-rail-station-landmarks-v2",
     type: "landmark",
     name: { de: "Segbwema Bahnhof", hu: "Segbwema Vasútállomás", ro: "Gara Segbwema", en: "Segbwema Railway Station" },
-    coordinates: { lat: 8.0125, lng: -10.9456 },
+    coords: [-10.9456, 8.0125],
     description: {
       de: "Der ehemalige Bahnhof steht als Relikt der Eisenbahngeschichte in Segbwema. Er dient heute als lokales Kulturdenkmal.",
       hu: "Az egykori vasútállomás a vasúttörténet maradványaként áll Segbwemában. Ma helyi kulturális emlékként szolgál.",
@@ -1635,7 +1635,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-magburaka-old-college-landmarks-v2",
     type: "landmark",
     name: { de: "Magburaka Altes Kolleg", hu: "Magburaka Régi Főiskola", ro: "Vechiul Colegiu Magburaka", en: "Magburaka Old College" },
-    coordinates: { lat: 8.7125, lng: -11.9546 },
+    coords: [-11.9546, 8.7125],
     description: {
       de: "Dieses historische Bildungsgebäude prägt das Stadtbild von Magburaka. Es erinnert an die akademische Vergangenheit des Ortes.",
       hu: "Ez a történelmi oktatási épület határozza meg Magburaka városképét. Emlékeztet a település tudományos múltjára.",
@@ -1654,7 +1654,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-koidu-community-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Koidu Gemeindehalle", hu: "Koidu Közösségi Ház", ro: "Sala Comunitară Koidu", en: "Koidu Community Hall" },
-    coordinates: { lat: 8.6456, lng: -10.9654 },
+    coords: [-10.9654, 8.6456],
     description: {
       de: "Die Gemeindehalle von Koidu ist ein wichtiger Ort für soziale Treffen. Sie steht im Zentrum des lebendigen Bergbauortes.",
       hu: "A Koidu közösségi ház fontos helyszín társadalmi találkozók számára. Az élénk bányászváros központjában áll.",
@@ -1673,7 +1673,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-rotifunk-historic-mission-landmarks-v2",
     type: "church",
     name: { de: "Rotifunk Historische Mission", hu: "Rotifunk Történelmi Misszió", ro: "Misiunea Istorică Rotifunk", en: "Rotifunk Historical Mission" },
-    coordinates: { lat: 8.0845, lng: -12.7245 },
+    coords: [-12.7245, 8.0845],
     description: {
       de: "Diese Missionsstation in Rotifunk hat eine lange religiöse Tradition. Sie ist ein bedeutender Ort für die lokale Gemeinde.",
       hu: "Ez a rotifunki missziós állomás hosszú vallási hagyományokkal rendelkezik. Jelentős helyszín a helyi közösség számára.",
@@ -1692,7 +1692,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-bo-central-market-complex-landmarks-v2",
     type: "landmark",
     name: { de: "Bo Zentralmarktkomplex", hu: "Bo-i Központi Piac Komplexum", ro: "Complexul Pieței Centrale din Bo", en: "Bo Central Market Complex" },
-    coordinates: { lat: 7.9545, lng: -11.7456 },
+    coords: [-11.7456, 7.9545],
     description: {
       de: "Der Marktkomplex in Bo ist ein zentraler Handelsplatz. Er ist das geschäftige Herz des wirtschaftlichen Lebens der Stadt.",
       hu: "A bo-i piackomplexum központi kereskedelmi helyszín. A város gazdasági életének nyüzsgő szíve.",
@@ -1711,7 +1711,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-york-historic-fort-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "York Historische Festungsruinen", hu: "York Történelmi Erődromok", ro: "Ruinele Fortului Istoric din York", en: "York Historical Fort Ruins" },
-    coordinates: { lat: 8.2456, lng: -13.1954 },
+    coords: [-13.1954, 8.2456],
     description: {
       de: "Die Überreste des Forts bei York zeugen von der kolonialen Geschichte an der Küste. Sie sind eine archäologische Stätte.",
       hu: "A yorki erőd maradványai a tengerparti gyarmati történelemről tanúskodnak. Régészeti lelőhely.",
@@ -1730,7 +1730,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "sierraleone-pendembu-trader-house-landmarks-v2",
     type: "landmark",
     name: { de: "Pendembu Händlerhaus", hu: "Pendembu Kereskedőház", ro: "Casa Negustorului din Pendembu", en: "Pendembu Trader House" },
-    coordinates: { lat: 8.1845, lng: -10.8546 },
+    coords: [-10.8546, 8.1845],
     description: {
       de: "Das alte Händlerhaus in Pendembu erinnert an die Ära der lokalen Handelsposten. Es ist ein Beispiel für Architektur des 19. Jahrhunderts.",
       hu: "A régi pendembu-i kereskedőház a helyi kereskedelmi állomások korszakára emlékeztet. A 19. századi építészet példája.",

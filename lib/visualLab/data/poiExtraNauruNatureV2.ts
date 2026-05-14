@@ -5,7 +5,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-anibare-bay-nature-v2",
     type: "park",
     name: { de: "Anibare-Bucht", hu: "Anibare-öböl", ro: "Golful Anibare", en: "Anibare Bay" },
-    coordinates: { lat: -0.537, lng: 166.95 },
+    coords: [166.95, -0.537],
     description: {
       de: "Die Anibare-Bucht ist der größte und markanteste Küstenabschnitt Naurus im Osten der Insel. Sie ist bekannt für ihren weißen Sand und das Korallenriff.",
       hu: "Az Anibare-öböl Nauru legnagyobb és leglátványosabb tengerparti szakasza a sziget keleti felén. Fehér homokos partjáról és korallzátonyáról ismert.",
@@ -24,7 +24,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-anibare-pinnacles-nature-v2",
     type: "landmark",
     name: { de: "Anibare-Felsnadeln", hu: "Anibare-sziklatornyok", ro: "Coloanele Anibare", en: "Anibare Pinnacles" },
-    coordinates: { lat: -0.538, lng: 166.951 },
+    coords: [166.951, -0.538],
     description: {
       de: "Die Anibare-Felsnadeln sind markante Kalksteinformationen, die an der Küste aus dem Sand ragen. Sie zeugen von der geologischen Beschaffenheit der Insel.",
       hu: "Az Anibare-sziklatornyok jellegzetes mészkőképződmények, amelyek a tengerparti homokból emelkednek ki. A sziget különleges geológiáját reprezentálják.",
@@ -43,7 +43,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-moqua-caves-nature-v2",
     type: "landmark",
     name: { de: "Moqua-Höhlen", hu: "Moqua-barlangok", ro: "Peșterile Moqua", en: "Moqua Caves" },
-    coordinates: { lat: -0.548, lng: 166.915 },
+    coords: [166.915, -0.548],
     description: {
       de: "Die Moqua-Höhlen sind ein verzweigtes System unterirdischer Gänge im Korallenkalkstein. Sie beherbergen seltene geologische Formationen und den Moqua-Brunnen.",
       hu: "A Moqua-barlangok a korallmészkőben kialakult elágazó földalatti járatrendszer. Ritka geológiai képződményeknek és a Moqua-kútnak adnak otthont.",
@@ -62,7 +62,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-ijuw-coastline-nature-v2",
     type: "park",
     name: { de: "Ijuw-Küste", hu: "Ijuw-partvidék", ro: "Coasta Ijuw", en: "Ijuw Coastline" },
-    coordinates: { lat: -0.522, lng: 166.953 },
+    coords: [166.953, -0.522],
     description: {
       de: "Der Küstenabschnitt von Ijuw im Nordosten zeichnet sich durch unberührte Riffe und Felsformationen aus. Er ist einer der naturbelassensten Teile der Insel.",
       hu: "Az északkeleti Ijuw partvidék érintetlen zátonyaival és sziklaképződményeivel tűnik ki. Ez a sziget egyik legtermészetesebb állapotban maradt része.",
@@ -81,7 +81,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-anabar-lagoon-nature-v2",
     type: "lake",
     name: { de: "Anabar-Lagune", hu: "Anabar-lagúna", ro: "Laguna Anabar", en: "Anabar Lagoon" },
-    coordinates: { lat: -0.511, lng: 166.945 },
+    coords: [166.945, -0.511],
     description: {
       de: "Die Anabar-Lagune ist ein kleines Brackwasserbecken an der Nordostküste. Sie bildet ein spezielles Ökosystem für salztolerante Pflanzen und Wassertiere.",
       hu: "Az Anabar-lagúna egy kis brakkvizes medence az északkeleti parton. Speciális ökoszisztémát alkot a sótűrő növények és vízi élőlények számára.",
@@ -100,7 +100,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-meneng-beach-nature-v2",
     type: "park",
     name: { de: "Meneng-Strand", hu: "Meneng-strand", ro: "Plaja Meneng", en: "Meneng Beach" },
-    coordinates: { lat: -0.548, lng: 166.938 },
+    coords: [166.938, -0.548],
     description: {
       de: "Der Meneng-Strand im Südosten der Insel ist für sein klares Wasser und die feinen Korallensande bekannt. Er grenzt an das einzige größere Hotel Naurus.",
       hu: "A sziget délkeleti részén található Meneng-strand tiszta vizéről és finom korallhomokjáról ismert. Itt található Nauru egyetlen nagyobb szállodája.",
@@ -119,7 +119,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-ewa-reef-nature-v2",
     type: "wildlife",
     name: { de: "Ewa-Riff", hu: "Ewa-zátony", ro: "Reciful Ewa", en: "Ewa Reef" },
-    coordinates: { lat: -0.505, lng: 166.938 },
+    coords: [166.938, -0.505],
     description: {
       de: "Das Ewa-Riff an der Nordküste Naurus ist ein biologisch reiches Saumriff. Es schützt die Küste vor der starken Brandung des Pazifiks.",
       hu: "A Nauru északi partján található Ewa-zátony egy biológiailag gazdag szegélyzátony. Megvédi a partot a Csendes-óceán erős hullámzásától.",
@@ -138,7 +138,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-yangor-cliffs-nature-v2",
     type: "landmark",
     name: { de: "Yangor-Klippen", hu: "Yangor-sziklák", ro: "Stâncile Yangor", en: "Yangor Cliffs" },
-    coordinates: { lat: -0.536, lng: 166.909 },
+    coords: [166.909, -0.536],
     description: {
       de: "Die Yangor-Klippen sind schroffe Felsformationen an der Westküste. Sie bieten einen beeindruckenden Blick auf den Sonnenuntergang über dem Ozean.",
       hu: "A Yangor-sziklák meredek képződmények a nyugati parton. Lenyűgöző kilátást nyújtanak az óceán feletti naplementére.",
@@ -157,7 +157,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-boe-coral-belt-nature-v2",
     type: "wildlife",
     name: { de: "Boe-Korallengürtel", hu: "Boe-korallöv", ro: "Centura de Corali Boe", en: "Boe Coral Belt" },
-    coordinates: { lat: -0.542, lng: 166.912 },
+    coords: [166.912, -0.542],
     description: {
       de: "Der Boe-Korallengürtel ist ein schmales Riffsystem im Westen der Insel. Es zeichnet sich durch eine hohe Dichte an marinen Lebewesen in Küstennähe aus.",
       hu: "A Boe-korallöv egy keskeny zátonyrendszer a sziget nyugati részén. A parthoz közeli tengeri élőlények nagy sűrűsége jellemzi.",
@@ -176,7 +176,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-nibok-palms-nature-v2",
     type: "forest",
     name: { de: "Nibok-Palmenhaine", hu: "Nibok-pálmaligetek", ro: "Palmierii Nibok", en: "Nibok Palms" },
-    coordinates: { lat: -0.518, lng: 166.92 },
+    coords: [166.92, -0.518],
     description: {
       de: "Die Nibok-Palmenhaine erstrecken sich entlang der nordwestlichen Küstenebene. Sie bilden einen der wenigen verbliebenen dichten Vegetationsgürtel der Insel.",
       hu: "A Nibok-pálmaligetek az északnyugati parti síkság mentén húzódnak. Ez a sziget kevés megmaradt sűrű növényzeti övének egyike.",
@@ -195,7 +195,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-denigomodu-coast-nature-v2",
     type: "park",
     name: { de: "Denigomodu-Küste", hu: "Denigomodu-part", ro: "Coasta Denigomodu", en: "Denigomodu Coast" },
-    coordinates: { lat: -0.526, lng: 166.912 },
+    coords: [166.912, -0.526],
     description: {
       de: "Die Denigomodu-Küste im Westen ist geprägt durch ein breites Riffdach und sandige Abschnitte. Sie ist ein beliebter Ort für Strandspaziergänge.",
       hu: "A nyugati Denigomodu-partot széles zátonyos részek és homokos szakaszok jellemzik. Népszerű hely a tengerparti sétákhoz.",
@@ -214,7 +214,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-aiwo-pinnacles-nature-v2",
     type: "landmark",
     name: { de: "Aiwo-Felsnadeln", hu: "Aiwo-sziklatornyok", ro: "Coloanele Aiwo", en: "Aiwo Pinnacles" },
-    coordinates: { lat: -0.533, lng: 166.91 },
+    coords: [166.91, -0.533],
     description: {
       de: "Die Aiwo-Felsnadeln sind beeindruckende Überreste der Kalksteinstruktur im Westen der Insel. Sie entstanden durch den industriellen Abbau der Phosphatschichten.",
       hu: "Az Aiwo-sziklatornyok a sziget nyugati részén található mészkőszerkezet látványos maradványai. A foszfátrétegek bányászata során kerültek felszínre.",
@@ -233,7 +233,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-buada-pandanus-groves-nature-v2",
     type: "forest",
     name: { de: "Buada-Pandanus-Haine", hu: "Buada-pandánuszligetek", ro: "Crângurile de Pandanus Buada", en: "Buada Pandanus Groves" },
-    coordinates: { lat: -0.535, lng: 166.922 },
+    coords: [166.922, -0.535],
     description: {
       de: "Die Pandanus-Haine um die Buada-Lagune sind ein Rückzugsort für die heimische Flora. Diese Bäume sind tief in der Kultur und Geschichte Naurus verwurzelt.",
       hu: "A Buada-lagúna körüli pandánuszligetek a hazai flóra fontos menedékhelyei. Ezek a fák mélyen gyökereznek Nauru kultúrájában és történelmében.",
@@ -252,7 +252,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-anibare-forest-nature-v2",
     type: "forest",
     name: { de: "Anibare-Wald", hu: "Anibare-erdő", ro: "Pădurea Anibare", en: "Anibare Forest" },
-    coordinates: { lat: -0.532, lng: 166.947 },
+    coords: [166.947, -0.532],
     description: {
       de: "Der Anibare-Wald ist ein seltener Rest des ursprünglichen tropischen Regenwaldes auf den Kalksteinterrassen. Er beherbergt einheimische Vogelarten.",
       hu: "Az Anibare-erdő az eredeti trópusi esőerdő ritka maradványa a mészkőteraszokon. Őshonos madárfajoknak ad otthont.",
@@ -271,7 +271,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-north-cape-nature-v2",
     type: "park",
     name: { de: "Nordkap Nauru", hu: "Nauru északi foka", ro: "Capul de Nord Nauru", en: "North Cape Nauru" },
-    coordinates: { lat: -0.504, lng: 166.933 },
+    coords: [166.933, -0.504],
     description: {
       de: "Das Nordkap von Nauru ist der nördlichste Punkt der Insel und wird von Korallenriffen umgeben. Hier treffen starke Strömungen aufeinander.",
       hu: "Nauru északi foka a sziget legészakibb pontja, amelyet korallzátonyok öveznek. Itt találkoznak az erős tengeri áramlatok.",
@@ -290,7 +290,7 @@ export const nauruNatureV2: POI[] = [
     id: "nauru-south-point-nature-v2",
     type: "park",
     name: { de: "Südspitze Meneng", hu: "Meneng déli pontja", ro: "Punctul de Sud Meneng", en: "South Point Meneng" },
-    coordinates: { lat: -0.554, lng: 166.927 },
+    coords: [166.927, -0.554],
     description: {
       de: "Die Südspitze bei Meneng ist ein markanter Küstenpunkt, der weit in den Ozean ragt. Die Brandung ist hier besonders spektakulär zu beobachten.",
       hu: "A Menengnél található déli pont egy jellegzetes tengerparti kiszögellés. Itt különösen látványos a hullámverés megfigyelése.",

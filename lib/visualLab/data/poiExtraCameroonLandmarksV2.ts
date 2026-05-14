@@ -1027,7 +1027,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-tomb-of-ahmadou-ahidjo-landmarks-v2",
     type: "monument",
     name: { de: "Grab von Ahmadou Ahidjo", hu: "Ahmadou Ahidjo sírja", ro: "Mormântul lui Ahmadou Ahidjo", en: "Tomb of Ahmadou Ahidjo" },
-    coordinates: { lat: 3.8612, lng: 11.5213 },
+    coords: [11.5213, 3.8612],
     description: {
       de: "Das Grab befindet sich in Dakar, Senegal, erinnert jedoch an den ersten Präsidenten Kameruns in seinem Heimatland. Es ist ein Ort des nationalen Gedenkens.",
       hu: "A sír Dakarban, Szenegálban található, de Kamerun első elnökének emlékét őrzi hazájában. Nemzeti emlékhely.",
@@ -1058,7 +1058,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-douala-art-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kunstmuseum Douala", hu: "Doualai Művészeti Múzeum", ro: "Muzeul de Artă din Douala", en: "Douala Art Museum" },
-    coordinates: { lat: 4.0456, lng: 9.6923 },
+    coords: [9.6923, 4.0456],
     description: {
       de: "Dieses Museum beherbergt eine Sammlung zeitgenössischer kamerunischer Kunst und historischer Artefakte. Es bietet Einblicke in die regionale Kultur.",
       hu: "Ez a múzeum kortárs kameruni művészeti alkotásokat és történelmi leleteket mutat be. Betekintést nyújt a regionális kultúrába.",
@@ -1089,7 +1089,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-tiko-colonial-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Tiko Kolonialbrücke", hu: "Tiko gyarmati híd", ro: "Podul colonial din Tiko", en: "Tiko Colonial Bridge" },
-    coordinates: { lat: 4.0721, lng: 9.3789 },
+    coords: [9.3789, 4.0721],
     description: {
       de: "Diese historische Brücke aus der deutschen Kolonialzeit verbindet die Regionen über den Mungo-Fluss. Sie gilt als technisches Denkmal.",
       hu: "Ez a német gyarmati időszakból származó híd köti össze a régiókat a Mungo folyó felett. Műszaki műemléknek számít.",
@@ -1120,7 +1120,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-yaounde-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Yaoundé", hu: "Yaoundéi Városháza", ro: "Primăria din Yaoundé", en: "Yaoundé City Hall" },
-    coordinates: { lat: 3.8645, lng: 11.5178 },
+    coords: [11.5178, 3.8645],
     description: {
       de: "Das Rathaus von Yaoundé ist ein markantes Regierungsgebäude im Zentrum der Hauptstadt. Es repräsentiert die Verwaltungsstruktur des Landes.",
       hu: "A yaoundéi városháza egy kiemelkedő kormányzati épület a főváros központjában. Az ország közigazgatási struktúráját képviseli.",
@@ -1151,7 +1151,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-st-anne-church-dschang-landmarks-v2",
     type: "church",
     name: { de: "St.-Anna-Kirche Dschang", hu: "Szent Anna-templom Dschang", ro: "Biserica Sfânta Ana din Dschang", en: "St. Anne Church Dschang" },
-    coordinates: { lat: 5.4452, lng: 10.0573 },
+    coords: [10.0573, 5.4452],
     description: {
       de: "Die St.-Anna-Kirche ist eine bedeutende religiöse Stätte in Dschang. Sie ist für ihre Architektur und ihre Rolle im Gemeindeleben bekannt.",
       hu: "A Szent Anna-templom fontos vallási hely Dschangban. Építészetéről és a közösségi életben betöltött szerepéről ismert.",
@@ -1182,7 +1182,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-kribi-modern-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Moderner Leuchtturm Kribi", hu: "Modern Kribi világítótorony", ro: "Farul modern din Kribi", en: "Kribi Modern Lighthouse" },
-    coordinates: { lat: 2.9365, lng: 9.9142 },
+    coords: [9.9142, 2.9365],
     description: {
       de: "Dieser moderne Leuchtturm sichert die Schifffahrt an der Küste von Kribi. Er ist ein technisches Wahrzeichen des Hafenstandorts.",
       hu: "Ez a modern világítótorony biztosítja a hajózást Kribi partjainál. A kikötő technikai nevezetessége.",
@@ -1213,7 +1213,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-limbe-botanical-garden-monument-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal im Botanischen Garten Limbe", hu: "Limbe Botanikus Kert emlékmű", ro: "Monumentul din Grădina Botanică Limbe", en: "Limbe Botanical Garden Monument" },
-    coordinates: { lat: 4.0152, lng: 9.2145 },
+    coords: [9.2145, 4.0152],
     description: {
       de: "Dieses Denkmal im botanischen Garten von Limbe erinnert an die Gründung der Anlage. Es ist ein zentrales Element des Parks.",
       hu: "Ez a Limbe botanikus kertjében található emlékmű a kert alapítására emlékeztet. A park központi eleme.",
@@ -1244,7 +1244,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-douala-st-peter-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St.-Peter-Kathedrale Douala", hu: "Szent Péter-katedrális Douala", ro: "Catedrala Sfântul Petru din Douala", en: "St. Peter Cathedral Douala" },
-    coordinates: { lat: 4.0485, lng: 9.6842 },
+    coords: [9.6842, 4.0485],
     description: {
       de: "Die St.-Peter-Kathedrale in Douala ist eine zentrale Kirche der Erzdiözese. Sie prägt das religiöse Stadtbild der Metropole.",
       hu: "A doualai Szent Péter-katedrális az érsekség központi temploma. Meghatározza a metropolisz vallási városképét.",
@@ -1275,7 +1275,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-garoua-lamido-palace-gate-landmarks-v2",
     type: "palace",
     name: { de: "Palasttor des Lamido von Garoua", hu: "Garoua-i Lamido palota kapuja", ro: "Poarta palatului Lamido din Garoua", en: "Palace Gate of the Lamido of Garoua" },
-    coordinates: { lat: 9.3012, lng: 13.3985 },
+    coords: [13.3985, 9.3012],
     description: {
       de: "Das repräsentative Palasttor in Garoua markiert den Eingang zur Residenz des Lamido. Es spiegelt die traditionelle Architektur der Region wider.",
       hu: "A garoua-i reprezentatív palotakapu jelöli a Lamido rezidenciájának bejáratát. Tükrözi a régió hagyományos építészetét.",
@@ -1306,7 +1306,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-kumba-memorial-monument-landmarks-v2",
     type: "monument",
     name: { de: "Gedenkmonument Kumba", hu: "Kumba emlékmonumentum", ro: "Monumentul comemorativ din Kumba", en: "Kumba Memorial Monument" },
-    coordinates: { lat: 4.6391, lng: 9.4478 },
+    coords: [9.4478, 4.6391],
     description: {
       de: "Dieses Denkmal in Kumba ist ein Ort des Gedenkens für lokale historische Ereignisse. Es dient als symbolischer Punkt der Stadt.",
       hu: "Ez a kumbai emlékmű a helyi történelmi események emlékhelye. A város szimbolikus pontjaként szolgál.",
@@ -1337,7 +1337,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-edea-church-of-st-cyprian-landmarks-v2",
     type: "church",
     name: { de: "St.-Cyprian-Kirche Edéa", hu: "Edéai Szent Ciprián-templom", ro: "Biserica Sfântul Ciprian din Edéa", en: "St. Cyprian Church Edéa" },
-    coordinates: { lat: 3.7958, lng: 10.1336 },
+    coords: [10.1336, 3.7958],
     description: {
       de: "Die St.-Cyprian-Kirche in Edéa ist ein bekanntes religiöses Gebäude der Stadt. Sie dient der lokalen Gemeinde für Gottesdienste.",
       hu: "Az edéai Szent Ciprián-templom a város ismert vallási épülete. A helyi közösség istentiszteleti helyeként szolgál.",
@@ -1368,7 +1368,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-mbalmayo-municipal-theater-landmarks-v2",
     type: "theater",
     name: { de: "Stadttheater von Mbalmayo", hu: "Mbalmayói Városi Színház", ro: "Teatrul Municipal din Mbalmayo", en: "Mbalmayo Municipal Theater" },
-    coordinates: { lat: 3.5189, lng: 11.5032 },
+    coords: [11.5032, 3.5189],
     description: {
       de: "Das Stadttheater in Mbalmayo ist ein Zentrum für kulturelle Aufführungen. Es unterstützt die lokale Theaterkunst und Musik.",
       hu: "A mbalmayói városi színház a kulturális előadások központja. Támogatja a helyi színházművészetet és zenét.",
@@ -1399,7 +1399,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-ebolowa-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Ebolowa", hu: "Ebolowai Katedrális", ro: "Catedrala din Ebolowa", en: "Cathedral of Ebolowa" },
-    coordinates: { lat: 2.9231, lng: 11.1558 },
+    coords: [11.1558, 2.9231],
     description: {
       de: "Diese Kathedrale ist der religiöse Hauptsitz in Ebolowa. Sie prägt mit ihrer Architektur das Stadtzentrum.",
       hu: "Ez a székesegyház Ebolowa vallási központja. Építészetével meghatározza a városközpontot.",
@@ -1430,7 +1430,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-sangmelima-community-tower-landmarks-v2",
     type: "tower",
     name: { de: "Gemeindeturm Sangmelima", hu: "Sangmelimai közösségi torony", ro: "Turnul comunitar din Sangmelima", en: "Sangmelima Community Tower" },
-    coordinates: { lat: 2.9367, lng: 11.9792 },
+    coords: [11.9792, 2.9367],
     description: {
       de: "Der Gemeindeturm in Sangmelima ist ein markantes Bauwerk der Stadt. Er dient als Orientierungspunkt im Stadtzentrum.",
       hu: "A sangmelimai közösségi torony a város kiemelkedő épülete. Tájékozódási pontként szolgál a városközpontban.",
@@ -1461,7 +1461,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-ngaoundere-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Ngaoundéré", hu: "Ngaoundéréi Katedrális", ro: "Catedrala din Ngaoundéré", en: "Cathedral of Ngaoundéré" },
-    coordinates: { lat: 7.3245, lng: 13.5852 },
+    coords: [13.5852, 7.3245],
     description: {
       de: "Die Kathedrale von Ngaoundéré ist ein zentrales Gotteshaus im Norden des Landes. Sie steht für die regionale christliche Präsenz.",
       hu: "A ngaoundéréi katedrális egy központi templom az ország északi részén. A regionális keresztény jelenlétet képviseli.",
@@ -1492,7 +1492,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-foumban-art-center-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kunstmuseum Foumban", hu: "Foumban Művészeti Múzeum", ro: "Muzeul de Artă din Foumban", en: "Foumban Art Museum" },
-    coordinates: { lat: 5.7289, lng: 10.9023 },
+    coords: [10.9023, 5.7289],
     description: {
       de: "Das Kunstmuseum Foumban beherbergt eine umfangreiche Sammlung traditioneller Kunst der Bamoun. Es ist ein Zentrum der lokalen Kultur.",
       hu: "A Foumban Művészeti Múzeum a hagyományos Bamoun művészet gazdag gyűjteményét őrzi. A helyi kultúra központja.",
@@ -1523,7 +1523,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-bafoussam-cultural-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturzentrum Bafoussam", hu: "Bafoussami Kulturális Központ", ro: "Centrul Cultural din Bafoussam", en: "Bafoussam Cultural Center" },
-    coordinates: { lat: 5.4745, lng: 10.4189 },
+    coords: [10.4189, 5.4745],
     description: {
       de: "Das Kulturzentrum in Bafoussam bietet Raum für künstlerische Aktivitäten und lokale Veranstaltungen. Es fördert den kulturellen Austausch.",
       hu: "A bafoussami kulturális központ teret biztosít a művészeti tevékenységeknek és a helyi rendezvényeknek. Elősegíti a kulturális cserét.",
@@ -1554,7 +1554,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-bertoua-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Bertoua", hu: "Bertouai Katedrális", ro: "Catedrala din Bertoua", en: "Cathedral of Bertoua" },
-    coordinates: { lat: 4.5823, lng: 13.6812 },
+    coords: [13.6812, 4.5823],
     description: {
       de: "Die Kathedrale in Bertoua ist eine bedeutende religiöse Anlage in der Region Ostkamerun. Sie dient der katholischen Gemeinde.",
       hu: "A bertouai katedrális fontos vallási épület Kelet-Kamerun régiójában. A katolikus közösséget szolgálja.",
@@ -1585,7 +1585,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "cameroon-banyo-lamidat-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Tor des Lamidats Banyo", hu: "Banyo Lamidat kapuja", ro: "Poarta Lamidatului din Banyo", en: "Gate of the Lamidat of Banyo" },
-    coordinates: { lat: 6.7456, lng: 11.8156 },
+    coords: [11.8156, 6.7456],
     description: {
       de: "Dieses historische Tor markiert den Eingang zum traditionellen Lamidat in Banyo. Es bewahrt das kulturelle Erbe der lokalen Herrscher.",
       hu: "Ez a történelmi kapu jelöli a banyo-i hagyományos Lamidat bejáratát. Megőrzi a helyi uralkodók kulturális örökségét.",

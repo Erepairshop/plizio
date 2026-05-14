@@ -43,7 +43,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-wia-wia-life-v2",
     type: "wildlife",
     name: { de: "Wia Wia Reservat", hu: "Wia Wia Természetvédelmi Terület", ro: "Rezervația Wia Wia", en: "Wia Wia Nature Reserve" },
-    coordinates: { lat: 5.9167, lng: -54.1 },
+    coords: [-54.1, 5.9167],
     description: {
       de: "Dieses Reservat an der Nordküste ist ein wichtiges Schutzgebiet für Meeresschildkröten. Es besteht überwiegend aus Sumpfgebieten und Mangrovenwäldern.",
       hu: "Ez az északi parti rezervátum fontos védett terület a tengeri teknősök számára. Főként mocsarakból és mangroveerdőkből áll.",
@@ -62,7 +62,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-copi-life-v2",
     type: "park",
     name: { de: "Copi Naturschutzgebiet", hu: "Copi Természetvédelmi Terület", ro: "Rezervația Copi", en: "Copi Nature Reserve" },
-    coordinates: { lat: 5.4667, lng: -55.0333 },
+    coords: [-55.0333, 5.4667],
     description: {
       de: "Das Copi-Gebiet umfasst eine vielfältige Waldlandschaft mit zahlreichen einheimischen Baumarten. Es dient dem Erhalt der regionalen Biodiversität.",
       hu: "A Copi terület változatos erdőtájat foglal magában számos őshonos fafajjal. A regionális biodiverzitás megőrzését szolgálja.",
@@ -81,7 +81,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-matapica-life-v2",
     type: "wildlife",
     name: { de: "Matapica Sumpfgebiet", hu: "Matapica Mocsárvidék", ro: "Zona de mlaștină Matapica", en: "Matapica Wetland" },
-    coordinates: { lat: 5.8667, lng: -54.9167 },
+    coords: [-54.9167, 5.8667],
     description: {
       de: "Matapica ist bekannt für seine ausgedehnten Küstensümpfe und die reiche Vogelwelt. Es ist ein bedeutender Brutplatz für verschiedene Wasservogelarten.",
       hu: "Matapica kiterjedt part menti mocsaraival és gazdag madárvilágával ismert. Jelentős költőhely különböző vízimadárfajok számára.",
@@ -100,7 +100,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-tapoeripa-life-v2",
     type: "forest",
     name: { de: "Tapoeripa Schutzgebiet", hu: "Tapoeripa Természetvédelmi Terület", ro: "Rezervația Tapoeripa", en: "Tapoeripa Reserve" },
-    coordinates: { lat: 5.5167, lng: -56.35 },
+    coords: [-56.35, 5.5167],
     description: {
       de: "Dieses Waldreservat im Westen Surinames schützt große Abschnitte unberührten tropischen Regenwaldes. Es bietet Lebensraum für zahlreiche Säugetierarten.",
       hu: "Ez az erdőrezervátum Suriname nyugati részén az érintetlen trópusi esőerdő nagy szakaszait védi. Számos emlősfajnak biztosít élőhelyet.",
@@ -119,7 +119,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-upper-coppename-life-v2",
     type: "park",
     name: { de: "Oberer Coppename-Nationalpark", hu: "Felső-Coppename Nemzeti Park", ro: "Parcul Național Coppename Superior", en: "Upper Coppename National Park" },
-    coordinates: { lat: 4.15, lng: -56.55 },
+    coords: [-56.55, 4.15],
     description: {
       de: "Das Gebiet entlang des oberen Coppename-Flusses umfasst dichte Regenwälder und Wasserfälle. Es ist ein Zentrum für die biologische Forschung.",
       hu: "A Felső-Coppename folyó menti terület sűrű esőerdőket és vízeséseket foglal magában. A biológiai kutatások központja.",
@@ -138,7 +138,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-sipaliwini-savanne-life-v2",
     type: "wildlife",
     name: { de: "Sipaliwini-Savanne", hu: "Sipaliwini-szavanna", ro: "Savana Sipaliwini", en: "Sipaliwini Savanna" },
-    coordinates: { lat: 2.1, lng: -56.0 },
+    coords: [-56.0, 2.1],
     description: {
       de: "Die Sipaliwini-Savanne im äußersten Süden Surinames ist eine einzigartige Graslandschaft. Sie unterscheidet sich stark von den umliegenden Regenwäldern.",
       hu: "A Sipaliwini-szavanna Suriname legdélibb részén egy egyedülálló füves terület. Jelentősen különbözik a környező esőerdőktől.",
@@ -157,7 +157,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-oranje-gebergte-life-v2",
     type: "forest",
     name: { de: "Oranje-Gebirge Waldzone", hu: "Oranje-hegység Erdőzóna", ro: "Zona forestieră Munții Oranje", en: "Oranje Mountains Forest Zone" },
-    coordinates: { lat: 3.0, lng: -54.7 },
+    coords: [-54.7, 3.0],
     description: {
       de: "Dieses Berggebiet im Landesinneren ist von dichtem Bergregenwald bedeckt. Die Region ist schwer zugänglich und daher ökologisch weitgehend ungestört.",
       hu: "Ezt a belső hegyvidéket sűrű hegyi esőerdő borítja. A régió nehezen megközelíthető, ezért ökológiailag nagyrészt érintetlen.",
@@ -176,7 +176,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-coeroeni-life-v2",
     type: "forest",
     name: { de: "Coeroeni-Waldschutzgebiet", hu: "Coeroeni Erdővédelmi Terület", ro: "Rezervația forestieră Coeroeni", en: "Coeroeni Forest Reserve" },
-    coordinates: { lat: 3.55, lng: -57.45 },
+    coords: [-57.45, 3.55],
     description: {
       de: "Das Coeroeni-Schutzgebiet an der westlichen Grenze Surinames beherbergt primären Regenwald. Die Gegend ist reich an seltener tropischer Flora.",
       hu: "A nyugati határnál fekvő Coeroeni védett terület őserdőnek ad otthont. A terület gazdag ritka trópusi növényvilágban.",
@@ -195,7 +195,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-kabalebo-life-v2",
     type: "wildlife",
     name: { de: "Kabalebo-Naturreservat", hu: "Kabalebo Természetvédelmi Terület", ro: "Rezervația naturală Kabalebo", en: "Kabalebo Nature Reserve" },
-    coordinates: { lat: 4.8667, lng: -57.5333 },
+    coords: [-57.5333, 4.8667],
     description: {
       de: "Kabalebo ist ein weitläufiges Regenwaldgebiet im Westen, bekannt für seine unberührten Flussläufe. Es bietet ideale Bedingungen für die Tierbeobachtung.",
       hu: "A Kabalebo egy kiterjedt esőerdő terület nyugaton, érintetlen folyóiról ismert. Ideális feltételeket kínál az állatmegfigyeléshez.",
@@ -214,7 +214,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-boven-marowijne-life-v2",
     type: "forest",
     name: { de: "Oberes Marowijne-Waldgebiet", hu: "Felső-Marowijne Erdővidék", ro: "Zona forestieră Marowijne Superior", en: "Upper Marowijne Forest Region" },
-    coordinates: { lat: 3.75, lng: -54.3 },
+    coords: [-54.3, 3.75],
     description: {
       de: "Die Region am oberen Marowijne-Fluss zeichnet sich durch hohe Baumartenvielfalt aus. Sie ist ein ökologisch sensibler Bereich im Osten Surinames.",
       hu: "A Felső-Marowijne folyó menti régió magas fafaj-diverzitással jellemezhető. Ökológiailag érzékeny terület Suriname keleti részén.",
@@ -233,7 +233,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-nickerie-mangroven-life-v2",
     type: "wildlife",
     name: { de: "Nickerie-Mangroven", hu: "Nickerie Mangroveerdők", ro: "Mangrovele Nickerie", en: "Nickerie Mangroves" },
-    coordinates: { lat: 5.95, lng: -57.0 },
+    coords: [-57.0, 5.95],
     description: {
       de: "Diese ausgedehnten Mangrovenwälder entlang der Nickerie-Küste schützen vor Erosion. Sie dienen als Kinderstube für zahlreiche Fischarten.",
       hu: "Ezek a kiterjedt mangroveerdők a Nickerie-part mentén védenek az eróziótól. Számos halfaj számára szolgálnak bölcsőként.",
@@ -252,7 +252,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-coppename-monding-life-v2",
     type: "wildlife",
     name: { de: "Coppename-Mündungsgebiet", hu: "Coppename-torkolatvidék", ro: "Zona gurii de vărsare Coppename", en: "Coppename Estuary" },
-    coordinates: { lat: 5.8, lng: -55.95 },
+    coords: [-55.95, 5.8],
     description: {
       de: "Die Mündung des Coppename-Flusses ist ein bedeutendes Ökosystem. Brackwasserzonen bieten hier Lebensraum für seltene Vogel- und Reptilienarten.",
       hu: "A Coppename folyó torkolata jelentős ökoszisztéma. A brakkvízi zónák ritka madár- és hüllőfajoknak adnak otthont.",
@@ -271,7 +271,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-wayambo-life-v2",
     type: "forest",
     name: { de: "Wayambo-Flusswald", hu: "Wayambo Folyóerdő", ro: "Pădurea râului Wayambo", en: "Wayambo River Forest" },
-    coordinates: { lat: 5.4, lng: -55.8 },
+    coords: [-55.8, 5.4],
     description: {
       de: "Das Gebiet um den Wayambo-Fluss ist reich an Ufervegetation. Die Region ist bekannt für ihre Artenvielfalt an Insekten und kleinen Säugetieren.",
       hu: "A Wayambo folyó környéke gazdag part menti növényzetben. A régió rovar- és emlősfajokban való változatosságáról ismert.",
@@ -290,7 +290,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-saramacca-monding-life-v2",
     type: "wildlife",
     name: { de: "Saramacca-Mündungsgebiet", hu: "Saramacca-torkolatvidék", ro: "Zona gurii de vărsare Saramacca", en: "Saramacca Estuary" },
-    coordinates: { lat: 5.85, lng: -55.35 },
+    coords: [-55.35, 5.85],
     description: {
       de: "Die Saramacca-Mündung bildet ein bedeutendes Feuchtgebiet. Es dient als wichtiger Zwischenstopp für wandernde Vogelarten an der Küste.",
       hu: "A Saramacca-torkolat jelentős vizes élőhelyet alkot. Fontos megállóhely a vonuló madárfajok számára a parton.",
@@ -309,7 +309,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-paramaribo-zwamp-life-v2",
     type: "wildlife",
     name: { de: "Sumpfgebiet bei Paramaribo", hu: "Mocsárvidék Paramaribo mellett", ro: "Zonă de mlaștină lângă Paramaribo", en: "Wetland near Paramaribo" },
-    coordinates: { lat: 5.75, lng: -55.15 },
+    coords: [-55.15, 5.75],
     description: {
       de: "Nahe der Hauptstadt befinden sich geschützte Sumpfgebiete. Diese bieten einen unerwarteten Einblick in die lokale Flora des Küstentieflandes.",
       hu: "A főváros közelében védett mocsárterületek találhatók. Ezek váratlan betekintést nyújtanak a part menti síkság helyi növényvilágába.",
@@ -328,7 +328,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-kabalebo-wasserfall-life-v2",
     type: "wildlife",
     name: { de: "Kabalebo-Wasserfallschutzgebiet", hu: "Kabalebo-vízesés Védett Terület", ro: "Rezervația cascadei Kabalebo", en: "Kabalebo Falls Reserve" },
-    coordinates: { lat: 4.8, lng: -57.5 },
+    coords: [-57.5, 4.8],
     description: {
       de: "Um die spektakulären Wasserfälle des Kabalebo-Flusses liegen geschützte Waldareale. Diese Region beherbergt eine hohe Dichte an tropischen Vögeln.",
       hu: "A Kabalebo folyó látványos vízesései körül védett erdőterületek fekszenek. Ez a régió trópusi madarak nagy sűrűségének ad otthont.",
@@ -347,7 +347,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-tapajai-life-v2",
     type: "forest",
     name: { de: "Tapajai-Schutzgebiet", hu: "Tapajai Természetvédelmi Terület", ro: "Rezervația Tapajai", en: "Tapajai Reserve" },
-    coordinates: { lat: 3.4, lng: -55.5 },
+    coords: [-55.5, 3.4],
     description: {
       de: "Dieses Reservat im zentralen Süden umfasst weite Teile unberührten Regenwaldes. Es dient als Pufferzone für lokale Wildtierpopulationen.",
       hu: "Ez a közép-déli rezervátum érintetlen esőerdő kiterjedt részeit foglalja magában. Pufferzónaként szolgál a helyi vadvilág számára.",
@@ -366,7 +366,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-corantijn-ufern-life-v2",
     type: "wildlife",
     name: { de: "Corantijn-Ufergebiet", hu: "Corantijn-parti terület", ro: "Zona de coastă Corantijn", en: "Corantijn Riverbanks" },
-    coordinates: { lat: 5.0, lng: -57.25 },
+    coords: [-57.25, 5.0],
     description: {
       de: "Die Uferzonen des Corantijn-Flusses an der Grenze zu Guyana bieten vielfältige Lebensräume. Hier sind regelmäßig Flussschildkröten anzutreffen.",
       hu: "A Guyana határán lévő Corantijn folyó part menti övezetei változatos élőhelyeket kínálnak. Itt rendszeresen találkozhatunk folyami teknősökkel.",
@@ -385,7 +385,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-vanaf-berg-life-v2",
     type: "forest",
     name: { de: "Vanaf-Bergwald", hu: "Vanaf-hegyi erdő", ro: "Pădurea montană Vanaf", en: "Vanaf Mountain Forest" },
-    coordinates: { lat: 4.5, lng: -55.4 },
+    coords: [-55.4, 4.5],
     description: {
       de: "Die Waldgebiete rund um den Vanaf-Berg sind bekannt für ihre hohen Bäume und seltene epiphytische Pflanzen. Es ist ein Gebiet mit hoher Luftfeuchtigkeit.",
       hu: "A Vanaf-hegy körüli erdőterületek magas fáikról és ritka epifita növényeikről ismertek. Magas páratartalmú terület.",
@@ -404,7 +404,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-saramacca-savanne-life-v2",
     type: "wildlife",
     name: { de: "Saramacca-Savannen-Rest", hu: "Saramacca-szavanna Maradvány", ro: "Rămășițe ale savanei Saramacca", en: "Saramacca Savanna Remnant" },
-    coordinates: { lat: 5.55, lng: -55.6 },
+    coords: [-55.6, 5.55],
     description: {
       de: "Dieser kleine Savannenrest in Saramacca ist ein Relikt einer früheren Landschaftsform. Er bietet Lebensraum für spezifische bodenbewohnende Insekten.",
       hu: "Ez a kis szavannamaradvány Saramaccában egy korábbi tájforma relikviája. Specifikus talajlakó rovaroknak ad otthont.",
@@ -423,7 +423,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-law-flusswald-life-v2",
     type: "forest",
     name: { de: "Lawa-Flusswald", hu: "Lawa Folyóerdő", ro: "Pădurea râului Lawa", en: "Lawa River Forest" },
-    coordinates: { lat: 3.5, lng: -54.0 },
+    coords: [-54.0, 3.5],
     description: {
       de: "Das Waldgebiet entlang des Lawa-Flusses an der Grenze zu Französisch-Guayana ist sehr dicht. Es beherbergt eine Vielzahl an Primatenarten.",
       hu: "A Francia Guyanával határos Lawa folyó menti erdőterület nagyon sűrű. Számos főemlősfajnak ad otthont.",
@@ -442,7 +442,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-coppename-zuid-life-v2",
     type: "wildlife",
     name: { de: "Südliches Coppename-Gebiet", hu: "Déli-Coppename Terület", ro: "Zona Coppename Sud", en: "Southern Coppename Area" },
-    coordinates: { lat: 3.8, lng: -56.8 },
+    coords: [-56.8, 3.8],
     description: {
       de: "Im Süden des Coppename-Flusslaufs finden sich unberührte Urwälder. Die Region ist wichtig für den Schutz der lokalen Biodiversität.",
       hu: "A Coppename folyó déli részén érintetlen őserdők találhatók. A régió fontos a helyi biodiverzitás védelme szempontjából.",
@@ -461,7 +461,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-marowijne-delta-life-v2",
     type: "wildlife",
     name: { de: "Marowijne-Delta", hu: "Marowijne-delta", ro: "Delta Marowijne", en: "Marowijne Delta" },
-    coordinates: { lat: 5.75, lng: -53.95 },
+    coords: [-53.95, 5.75],
     description: {
       de: "Das Mündungsdelta des Marowijne-Flusses bildet eine komplexe Wasserlandschaft. Es ist ein wichtiger Lebensraum für aquatische Säugetiere.",
       hu: "A Marowijne folyó torkolati deltája komplex vízi tájat alkot. Fontos élőhely vízi emlősök számára.",
@@ -480,7 +480,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-tapanahony-life-v2",
     type: "forest",
     name: { de: "Tapanahony-Waldreservat", hu: "Tapanahony Erdőrezervátum", ro: "Rezervația forestieră Tapanahony", en: "Tapanahony Forest Reserve" },
-    coordinates: { lat: 3.7, lng: -54.8 },
+    coords: [-54.8, 3.7],
     description: {
       de: "Das Waldgebiet entlang des Tapanahony-Flusses umfasst weite Abschnitte von Primärwald. Es bietet Schutz für zahlreiche Tierarten.",
       hu: "A Tapanahony folyó menti erdőterület az őserdő széles szakaszait foglalja magában. Védelmet nyújt számos állatfaj számára.",
@@ -499,7 +499,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-coropina-kreek-life-v2",
     type: "wildlife",
     name: { de: "Coropina-Bachgebiet", hu: "Coropina-patakvidék", ro: "Zona pârâului Coropina", en: "Coropina Creek Area" },
-    coordinates: { lat: 5.45, lng: -55.2 },
+    coords: [-55.2, 5.45],
     description: {
       de: "Das Gebiet um den Coropina-Bach ist für seine dichte Ufervegetation bekannt. Es ist ein beliebter Ort für die Beobachtung seltener Flora.",
       hu: "A Coropina-patak környéke sűrű parti növényzetéről ismert. Kedvelt hely a ritka flóra megfigyelésére.",
@@ -518,7 +518,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-para-savanne-life-v2",
     type: "wildlife",
     name: { de: "Para-Savannenrest", hu: "Para-szavanna Maradvány", ro: "Rămășițe ale savanei Para", en: "Para Savanna Remnant" },
-    coordinates: { lat: 5.5, lng: -55.1 },
+    coords: [-55.1, 5.5],
     description: {
       de: "Die Savannengebiete in Para dienen als ökologische Inseln. Sie beheimaten eine spezifische Zusammenstellung an Gräsern und Sträuchern.",
       hu: "A Para-szavanna területei ökológiai szigetként szolgálnak. Sajátos fű- és cserjecsoportnak adnak otthont.",
@@ -537,7 +537,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-nickerie-rivier-life-v2",
     type: "forest",
     name: { de: "Nickerie-Flusswald", hu: "Nickerie Folyóerdő", ro: "Pădurea râului Nickerie", en: "Nickerie River Forest" },
-    coordinates: { lat: 5.7, lng: -56.8 },
+    coords: [-56.8, 5.7],
     description: {
       de: "Entlang des Nickerie-Flusses findet man dichte Waldgürtel. Diese dienen als wichtige Korridore für die regionale Tierwelt.",
       hu: "A Nickerie folyó mentén sűrű erdősávok találhatók. Ezek fontos folyosóként szolgálnak a regionális vadvilág számára.",
@@ -556,7 +556,7 @@ export const poiExtraSurinameLifeV2: POI[] = [
     id: "suriname-commewijne-mangroven-life-v2",
     type: "wildlife",
     name: { de: "Commewijne-Mangroven", hu: "Commewijne Mangroveerdők", ro: "Mangrovele Commewijne", en: "Commewijne Mangroves" },
-    coordinates: { lat: 5.85, lng: -55.0 },
+    coords: [-55.0, 5.85],
     description: {
       de: "Die Mangrovenwälder an der Commewijne-Mündung sind ökologisch sehr aktiv. Sie bieten Schutz für zahlreiche Küstenfischarten.",
       hu: "A Commewijne-torkolat mangroveerdői ökológiailag nagyon aktívak. Védelmet nyújtanak számos halfaj számára.",

@@ -708,7 +708,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-ai-khanoum-history-v2",
     type: "ruins",
     name: { de: "Ai-Khanoum", hu: "Ai-Khánum", ro: "Ai-Khanoum", en: "Ai-Khanoum" },
-    coordinates: { lat: 37.166667, lng: 69.408333 },
+    coords: [69.408333, 37.166667],
     description: {
       de: "Eine antike griechisch-baktrische Stadt am Zusammenfluss von Amu Darja und Kokcha. Sie wurde im 4. Jahrhundert v. Chr. gegründet und gilt als bedeutendes Zentrum des Hellenismus in Zentralasien.",
       hu: "Egy ókori görög-baktriai város az Amu-darja és a Kokcsa folyók összefolyásánál. A Kr. e. 4. században alapították, és a közép-ázsiai hellenizmus egyik legfontosabb központjaként ismert.",
@@ -739,7 +739,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-tillya-tepe-history-v2",
     type: "ruins",
     name: { de: "Tillya Tepe", hu: "Tillja-tepe", ro: "Tillya Tepe", en: "Tillya Tepe" },
-    coordinates: { lat: 36.7236, lng: 65.7514 },
+    coords: [65.7514, 36.7236],
     description: {
       de: "Eine archäologische Fundstätte in Nordafghanistan, bekannt für das 'Baktrische Gold'. Hier wurden sechs Gräber mit über 20.000 Goldgegenständen aus dem 1. Jahrhundert v. Chr. entdeckt.",
       hu: "Észak-afganisztáni régészeti lelőhely, amely a „baktriai aranyról” nevezetes. Itt hat sírt fedeztek fel több mint 20 000 aranytárggyal a Kr. e. 1. századból.",
@@ -770,7 +770,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-begram-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Begram", hu: "Begram régészeti lelőhely", ro: "Situl arheologic Begram", en: "Begram Archaeological Site" },
-    coordinates: { lat: 34.9625, lng: 69.2614 },
+    coords: [69.2614, 34.9625],
     description: {
       de: "Die einstige Sommerhauptstadt des Kuschan-Reiches, früher bekannt als Kapisa. Sie war ein wichtiger Knotenpunkt an der Seidenstraße für den Handel zwischen Indien und dem Westen.",
       hu: "A Kusán Birodalom egykori nyári fővárosa, korábbi nevén Kapisza. A Selyemút fontos csomópontja volt az India és a Nyugat közötti kereskedelemben.",
@@ -801,7 +801,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-hadda-stupas-history-v2",
     type: "ruins",
     name: { de: "Hadda-Stupas", hu: "Hadda-sztúpák", ro: "Stupele din Hadda", en: "Hadda Stupas" },
-    coordinates: { lat: 34.3667, lng: 70.5167 },
+    coords: [70.5167, 34.3667],
     description: {
       de: "Ein bedeutendes griechisch-buddhistisches Zentrum in der antiken Region Gandhara. Es umfasst Tausende von Skulpturen und Stupas aus dem 2. bis 7. Jahrhundert n. Chr.",
       hu: "Jelentős görög-buddhista központ az ókori Gandhára régióban. Több ezer szobrot és sztúpát foglal magában a Kr. u. 2. és 7. század közötti időszakból.",
@@ -832,7 +832,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-surkh-kotal-history-v2",
     type: "ruins",
     name: { de: "Surkh Kotal", hu: "Szurh-kotal", ro: "Surkh Kotal", en: "Surkh Kotal" },
-    coordinates: { lat: 36.0333, lng: 68.5333 },
+    coords: [68.5333, 36.0333],
     description: {
       de: "Ein kuschannischer Tempelkomplex auf einem Hügel, der dem Herrscher Kanischka I. gewidmet war. Er ist bekannt für seine monumentalen Treppen und Inschriften.",
       hu: "Egy kusán templomkomplexum egy dombtetőn, amelyet I. Kaniska uralkodónak szenteltek. Monumentális lépcsőiről és feliratairól ismert.",
@@ -863,7 +863,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-mundigak-history-v2",
     type: "ruins",
     name: { de: "Mundigak", hu: "Mundigak", ro: "Mundigak", en: "Mundigak" },
-    coordinates: { lat: 31.8333, lng: 65.5167 },
+    coords: [65.5167, 31.8333],
     description: {
       de: "Eine bedeutende prähistorische Ausgrabungsstätte in der Provinz Kandahar. Sie war eine der wichtigsten Städte der Bronzezeit-Kulturen im 3. Jahrtausend v. Chr.",
       hu: "Jelentős őskori régészeti lelőhely Kandahár tartományban. A Kr. e. 3. évezred bronzkori kultúráinak egyik legfontosabb városa volt.",
@@ -894,7 +894,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-tepe-fuller-history-v2",
     type: "ruins",
     name: { de: "Tepe Fuller", hu: "Tepe Fuller", ro: "Tepe Fuller", en: "Tepe Fuller" },
-    coordinates: { lat: 36.1422, lng: 69.1158 },
+    coords: [69.1158, 36.1422],
     description: {
       de: "Ein archäologischer Fundort in der Provinz Baghlan, an dem 1966 ein Schatz aus Gold- und Silbergefäßen entdeckt wurde. Die Artefakte stammen aus der Bronzezeit.",
       hu: "Régészeti lelőhely Baglán tartományban, ahol 1966-ban arany- és edénykincset fedeztek fel. A leletek a bronzkorból származnak.",
@@ -925,7 +925,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shortugai-history-v2",
     type: "ruins",
     name: { de: "Shortugai", hu: "Sortugaj", ro: "Shortugai", en: "Shortugai" },
-    coordinates: { lat: 37.1953, lng: 69.5161 },
+    coords: [69.5161, 37.1953],
     description: {
       de: "Ein nördlicher Außenposten der Indus-Zivilisation am Amu Darja. Die Stadt diente im 2. Jahrtausend v. Chr. primär dem Abbau und Handel von Lapislazuli.",
       hu: "Az Indus-völgyi civilizáció északi előőrse az Amu-darja mentén. A város a Kr. e. 2. évezredben elsősorban a lapi lazuli bányászatát és kereskedelmét szolgálta.",
@@ -956,7 +956,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-dilberjin-history-v2",
     type: "ruins",
     name: { de: "Dilberjin", hu: "Dilberdzsin", ro: "Dilberjin", en: "Dilberjin" },
-    coordinates: { lat: 36.9317, lng: 66.7231 },
+    coords: [66.7231, 36.9317],
     description: {
       de: "Eine antike Stadt nordwestlich von Balkh, bekannt für ihre gut erhaltenen Wandmalereien. Sie war vom kuschannischen bis zum frühmittelalterlichen Zeitalter besiedelt.",
       hu: "Balkhtól északnyugatra fekvő ókori város, amely jól megőrzött falfestményeiről híres. A kusán kortól a kora középkorig lakott volt.",
@@ -987,7 +987,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-rabatak-history-v2",
     type: "ruins",
     name: { de: "Rabatak", hu: "Rabatak", ro: "Rabatak", en: "Rabatak" },
-    coordinates: { lat: 36.1481, lng: 68.3275 },
+    coords: [68.3275, 36.1481],
     description: {
       de: "Eine archäologische Stätte in der Provinz Samangan, an der 1993 eine berühmte Inschrift gefunden wurde. Diese gibt Aufschluss über die Genealogie der Kuschan-Könige.",
       hu: "Régészeti lelőhely Szamangán tartományban, ahol 1993-ban híres feliratot találtak. Ez fontos adatokat szolgáltat a kusán királyok családfájáról.",
@@ -1018,7 +1018,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-fondukistan-history-v2",
     type: "ruins",
     name: { de: "Fondukistan-Kloster", hu: "Fondukiszti kolostor", ro: "Mănăstirea Fondukistan", en: "Fondukistan Monastery" },
-    coordinates: { lat: 34.9786, lng: 68.8925 },
+    coords: [68.8925, 34.9786],
     description: {
       de: "Ein ehemaliges buddhistisches Kloster im Ghorband-Tal, bekannt für seine filigranen Terrakotta-Skulpturen. Die Kunstwerke stammen aus dem 7. Jahrhundert n. Chr.",
       hu: "Egykori buddhista kolostor a Gorband-völgyben, amely finom terrakotta szobrairól ismert. A műalkotások a Kr. u. 7. századból származnak.",
@@ -1049,7 +1049,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-kakrak-history-v2",
     type: "ruins",
     name: { de: "Kakrak-Höhlen", hu: "Kakrak-barlangok", ro: "Peșterile Kakrak", en: "Kakrak Caves" },
-    coordinates: { lat: 34.8111, lng: 67.8583 },
+    coords: [67.8583, 34.8111],
     description: {
       de: "Eine Gruppe buddhistischer Felshöhlen in einem Seitental von Bamiyan. Sie beherbergen wichtige Wandgemälde, darunter Darstellungen des 'Jägerschützen-Königs'.",
       hu: "Buddhista sziklabarlangok csoportja egy Bamijan melletti mellékvölgyben. Fontos falfestmények találhatók itt, köztük a „vadász-íjász király” ábrázolása.",
@@ -1080,7 +1080,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-foladi-caves-history-v2",
     type: "ruins",
     name: { de: "Foladi-Höhlen", hu: "Foladi-barlangok", ro: "Peșterile Foladi", en: "Foladi Caves" },
-    coordinates: { lat: 34.8083, lng: 67.7833 },
+    coords: [67.7833, 34.8083],
     description: {
       de: "Ein buddhistisches Höhlenkloster westlich der Stadt Bamiyan. Die Höhlen sind reich mit Ornamenten und religiösen Malereien aus dem 6. Jahrhundert verziert.",
       hu: "Buddhista barlangkolostor Bamijan városától nyugatra. A barlangokat gazdagon díszítették a 6. századból származó ornamentikák és vallási festmények.",
@@ -1111,7 +1111,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-tepe-maranjan-history-v2",
     type: "ruins",
     name: { de: "Tepe Maranjan", hu: "Tepe Marandzsan", ro: "Tepe Maranjan", en: "Tepe Maranjan" },
-    coordinates: { lat: 34.5264, lng: 69.2131 },
+    coords: [69.2131, 34.5264],
     description: {
       de: "Ein Hügel im Osten von Kabul, der die Überreste eines buddhistischen Klosters aus der Kuschan-Zeit beherbergt. Er bietet einen Blick über die historische Altstadt.",
       hu: "Kabul keleti részén található domb, amely egy kusán-kori buddhista kolostor maradványait őrzi. Kilátást nyújt a történelmi óvárosra.",
@@ -1142,7 +1142,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-noh-gonbad-history-v2",
     type: "landmark",
     name: { de: "Noh-Gonbad-Moschee", hu: "No-Gonbad mecset", ro: "Moscheea Noh Gonbad", en: "Noh Gonbad Mosque" },
-    coordinates: { lat: 36.7333, lng: 66.8833 },
+    coords: [66.8833, 36.7333],
     description: {
       de: "Auch bekannt als Haji Piyada, ist dies das älteste islamische Denkmal in Afghanistan. Die Moschee wurde im 9. Jahrhundert mit neun prächtigen Kuppeln erbaut.",
       hu: "Más néven Hadzsi Pijada, ez Afganisztán legrégebbi iszlám emléke. A mecset a 9. században épült kilenc pompás kupolával.",
@@ -1173,7 +1173,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-gawhar-shad-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum der Gawhar Shad", hu: "Gohar Sád mauzóleuma", ro: "Mausoleul lui Gawhar Shad", en: "Mausoleum of Gawhar Shad" },
-    coordinates: { lat: 34.3517, lng: 62.1883 },
+    coords: [62.1883, 34.3517],
     description: {
       de: "Ein prachtvolles Mausoleum in Herat für die timuridische Königin Gawhar Shad. Die markante gerippte Kuppel ist mit leuchtend blauen Kacheln verziert.",
       hu: "Pompás mauzóleum Herátban Gohar Sád timurida királynő számára. A jellegzetes bordázott kupolát élénkkék csempék díszítik.",
@@ -1204,7 +1204,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-baba-wali-shrine-history-v2",
     type: "landmark",
     name: { de: "Schrein von Baba Wali", hu: "Baba Vali kegyhely", ro: "Sanctuarul lui Baba Wali", en: "Shrine of Baba Wali" },
-    coordinates: { lat: 31.65, lng: 65.6833 },
+    coords: [65.6833, 31.65],
     description: {
       de: "Ein beliebter Pilgerort am Arghandab-Fluss nahe Kandahar. Der Schrein ist dem Sufi-Heiligen Baba Wali gewidmet und bietet terrassenförmige Gärten.",
       hu: "Népszerű zarándokhely az Arghandab-folyó mentén, Kandahár közelében. A kegyhelyet Baba Vali szúfi szentnek szentelték, teraszos kertekkel rendelkezik.",
@@ -1235,7 +1235,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-kherqa-sharif-history-v2",
     type: "landmark",
     name: { de: "Kherqa Sharif (Schrein des Mantels)", hu: "Kerka Saríf (A palást kegyhelye)", ro: "Kherqa Sharif (Sanctuarul Mantiei)", en: "Kherqa Sharif (Shrine of the Cloak)" },
-    coordinates: { lat: 31.6214, lng: 65.7083 },
+    coords: [65.7083, 31.6214],
     description: {
       de: "Einer der heiligsten Orte Afghanistans, der den Mantel des Propheten Mohammed beherbergen soll. Der Schrein wurde von Ahmad Shah Durrani im 18. Jahrhundert errichtet.",
       hu: "Afganisztán egyik legszentebb helye, amely állítólag Mohamed próféta palástját őrzi. A kegyhelyet Ahmad Sád Durráni emeltette a 18. században.",
@@ -1266,7 +1266,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-abdur-rahman-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Amir Abdur Rahman Khan", hu: "Amír Abdur Rahmán kán sírja", ro: "Mormântul lui Amir Abdur Rahman Khan", en: "Amir Abdur Rahman Khan Tomb" },
-    coordinates: { lat: 34.5261, lng: 69.1764 },
+    coords: [69.1764, 34.5261],
     description: {
       de: "Das Mausoleum des 'Eisernen Emirs', der Afghanistan im späten 19. Jahrhundert einte. Das Gebäude im Zentrum von Kabul zeichnet sich durch seine weiße Kuppel aus.",
       hu: "A „vasemír” mauzóleuma, aki a 19. század végén egyesítette Afganisztánt. A Kabul központjában lévő épület fehér kupolájáról nevezetes.",
@@ -1297,7 +1297,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-nadir-shah-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Nadir Shah", hu: "Nadir Sád mauzóleuma", ro: "Mausoleul lui Nadir Shah", en: "Nadir Shah Mausoleum" },
-    coordinates: { lat: 34.525, lng: 69.215 },
+    coords: [69.215, 34.525],
     description: {
       de: "Das monumentale Grabmal von König Nadir Shah auf dem Tepe Maranjan Hügel. Das markante Steingebäude wird von einer großen Kuppel bekrönt.",
       hu: "Nadir Sád király monumentális síremléke a Tepe Marandzsan dombon. A jellegzetes kőépületet nagy kupola koronázza.",
@@ -1328,7 +1328,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-timur-shah-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Timur Shah", hu: "Timur Sád mauzóleuma", ro: "Mausoleul lui Timur Shah", en: "Timur Shah Mausoleum" },
-    coordinates: { lat: 34.5167, lng: 69.1767 },
+    coords: [69.1767, 34.5167],
     description: {
       de: "Das Grab von Timur Shah Durrani, der 1776 die Hauptstadt von Kandahar nach Kabul verlegte. Das achteckige Bauwerk ist eines der ältesten erhaltenen Monumente Kabuls.",
       hu: "Timur Sád Durráni sírja, aki 1776-ban Kandahárból Kabulba helyezte át a fővárost. A nyolcszögletű építmény Kabul egyik legrégebbi fennmaradt emléke.",
@@ -1359,7 +1359,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-al-biruni-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Al-Biruni", hu: "Al-Bírúni sírja", ro: "Mormântul lui Al-Biruni", en: "Al-Biruni Tomb" },
-    coordinates: { lat: 33.5517, lng: 68.4233 },
+    coords: [68.4233, 33.5517],
     description: {
       de: "Die letzte Ruhestätte des berühmten persischen Universalgelehrten Al-Biruni in der Nähe von Ghazni. Er lebte und arbeitete am Hofe von Mahmud von Ghazni.",
       hu: "A híres perzsa polihisztor, al-Bírúni végső nyughelye Gazni közelében. Mahmud gaznavida uralkodó udvarában élt és dolgozott.",
@@ -1390,7 +1390,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-mahmud-ghazni-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Mahmud von Ghazni", hu: "Mahmud gaznavida uralkodó mauzóleuma", ro: "Mausoleul lui Mahmud din Ghazni", en: "Mahmud of Ghazni Mausoleum" },
-    coordinates: { lat: 33.5667, lng: 68.4333 },
+    coords: [68.4333, 33.5667],
     description: {
       de: "Das Grabmal des mächtigen Herrschers Mahmud von Ghazni im Dorf Rauza. Es ist bekannt für seine prächtig geschnitzten Holztüren und Inschriften.",
       hu: "A hatalmas Mahmud gaznavida uralkodó síremléke Rauza faluban. Pompás faragott fiajtóiról és feliratairól ismert.",
@@ -1421,7 +1421,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-bala-hissar-ghazni-history-v2",
     type: "castle",
     name: { de: "Bala Hissar von Ghazni", hu: "Gazni Bala Hiszár erődje", ro: "Bala Hissar din Ghazni", en: "Bala Hissar of Ghazni" },
-    coordinates: { lat: 33.5492, lng: 68.4172 },
+    coords: [68.4172, 33.5492],
     description: {
       de: "Die antike Zitadelle von Ghazni, die einst das Zentrum des Gaznaviden-Reiches bildete. Die massiven Mauern und Türme thronen auf einem Hügel über der Altstadt.",
       hu: "Gazni ősi citadellája, amely egykor a Gaznavida Birodalom központja volt. A masszív falak és tornyok az óváros feletti dombon trónolnak.",
@@ -1452,7 +1452,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-i-zal-history-v2",
     type: "castle",
     name: { de: "Qala-i-Zal Festung", hu: "Kala-i-Zal erőd", ro: "Cetatea Qala-i-Zal", en: "Qala-i-Zal Fortress" },
-    coordinates: { lat: 37.0167, lng: 68.4667 },
+    coords: [68.4667, 37.0167],
     description: {
       de: "Eine historische Festung in der Provinz Kunduz, die strategisch günstig am Amu Darja liegt. Sie ist nach einer Gestalt aus dem persischen Epos Schahname benannt.",
       hu: "Történelmi erőd Kunduz tartományban, amely stratégiai fekvésű az Amu-darja mentén. A perzsa Sahname eposz egyik alakjáról nevezték el.",
@@ -1483,7 +1483,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-i-panja-history-v2",
     type: "castle",
     name: { de: "Qala-i-Panja", hu: "Kala-i-Pandzsa", ro: "Qala-i-Panja", en: "Qala-i-Panja Fort" },
-    coordinates: { lat: 37.0, lng: 72.5833 },
+    coords: [72.5833, 37.0],
     description: {
       de: "Eine alte Grenzfestung im Wakhan-Korridor, die den Zugang zum Pamir-Gebirge kontrollierte. Sie war einst der Sitz der lokalen Herrscher des Wakhan-Reiches.",
       hu: "Régi határerőd a Vakhán-folyosón, amely a Pamír-hegységbe vezető utat ellenőrizte. Egykor a Vakhán-birodalom helyi uralkodóinak székhelye volt.",
@@ -1514,7 +1514,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-alexander-castle-farah-history-v2",
     type: "castle",
     name: { de: "Alexanders Burg in Farah", hu: "Farahi Sándor-vár", ro: "Cetatea lui Alexandru din Farah", en: "Alexander's Fort in Farah" },
-    coordinates: { lat: 32.3333, lng: 62.1167 },
+    coords: [62.1167, 32.3333],
     description: {
       de: "Eine massive Zitadelle in Farah, deren Ursprünge auf Alexander den Großen zurückgehen sollen. Die heutigen Lehmziegelmauern stammen überwiegend aus islamischer Zeit.",
       hu: "Masszív citadella Farahban, amelynek eredete állítólag Nagy Sándorig nyúlik vissza. A mai vályogtégla falak nagyrészt az iszlám korból származnak.",
@@ -1545,7 +1545,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-lashkari-bazar-history-v2",
     type: "ruins",
     name: { de: "Lashkari Bazar", hu: "Laskari-bazár", ro: "Lashkari Bazar", en: "Lashkari Bazar" },
-    coordinates: { lat: 31.5167, lng: 64.35 },
+    coords: [64.35, 31.5167],
     description: {
       de: "Eine ausgedehnte Ruinenstadt am Helmand-Fluss, die als Winterresidenz der Gaznaviden- und Ghoriden-Herrscher diente. Sie umfasst Paläste, Moscheen und Kasernen.",
       hu: "Kiterjedt romváros a Helmand-folyó mentén, amely a gaznavida és gorida uralkodók téli rezidenciája volt. Palotákat, mecseteket és laktanyákat foglal magában.",
@@ -1576,7 +1576,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-maiwand-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Maiwand", hu: "Maivandi csatatér", ro: "Câmpul de luptă de la Maiwand", en: "Maiwand Battlefield" },
-    coordinates: { lat: 31.7333, lng: 65.0333 },
+    coords: [65.0333, 31.7333],
     description: {
       de: "Ort der berühmten Schlacht von 1880 während des Zweiten Anglo-Afghanischen Krieges. Die afghanischen Truppen errangen hier einen entscheidenden Sieg über die Briten.",
       hu: "Az 1880-as híres csata helyszíne a második angol-afgán háború idején. Az afgán csapatok itt arattak döntő győzelmet a britek felett.",
@@ -1607,7 +1607,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-gandamak-site-history-v2",
     type: "battlefield",
     name: { de: "Gandamak", hu: "Gandamak", ro: "Gandamak", en: "Gandamak Site" },
-    coordinates: { lat: 34.2833, lng: 70.0333 },
+    coords: [70.0333, 34.2833],
     description: {
       de: "Ein historisches Dorf, bekannt für den Rückzug aus Kabul im Jahr 1842 und den späteren Vertrag von Gandamak. Er markierte einen Wendepunkt in den anglo-afghanischen Kriegen.",
       hu: "Történelmi falu, amely az 1842-es kabuli visszavonulásról és a későbbi gandamaki szerződésről ismert. Fordulópontot jelentett az angol-afgán háborúkban.",
@@ -1638,7 +1638,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-massoud-mausoleum-history-v2",
     type: "monument",
     name: { de: "Ahmad Shah Massoud Mausoleum", hu: "Ahmad Sád Maszúd mauzóleuma", ro: "Mausoleul lui Ahmad Shah Massoud", en: "Ahmad Shah Massoud Mausoleum" },
-    coordinates: { lat: 35.2633, lng: 69.6167 },
+    coords: [69.6167, 35.2633],
     description: {
       de: "Die letzte Ruhestätte des nationalen Helden Ahmad Shah Massoud, auch bekannt als der 'Löwe von Pandschschir'. Das Mausoleum thront auf einem Hügel in Bazarak.",
       hu: "Ahmad Sád Maszúd nemzeti hős, a „Pandzsír oroszlánja” végső nyughelye. A mauzóleum egy dombtetőn található Bazarakban.",
@@ -1669,7 +1669,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-ancient-walls-balkh-history-v2",
     type: "ruins",
     name: { de: "Alte Mauern von Balkh", hu: "Balkh ősi városfalai", ro: "Zidurile antice din Balkh", en: "Ancient Walls of Balkh" },
-    coordinates: { lat: 36.7583, lng: 66.8967 },
+    coords: [66.8967, 36.7583],
     description: {
       de: "Die massiven Lehmwälle der antiken Stadt Balkh, einst als 'Mutter der Städte' bekannt. Die Befestigungen erstrecken sich über mehrere Kilometer.",
       hu: "Balkh ősi városának masszív vályogfalai, amelyet egykor a „városok anyjaként” ismertek. Az erődítmények több kilométer hosszan húzódnak.",
@@ -1700,7 +1700,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-kapisa-archaeological-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Kapisa", hu: "Kapisza régészeti lelőhely", ro: "Situl arheologic Kapisa", en: "Archaeological Site of Kapisa" },
-    coordinates: { lat: 35.0167, lng: 69.35 },
+    coords: [69.35, 35.0167],
     description: {
       de: "Eine antike Region und Stadt, die einst als Hauptstadt des Kuschan-Reiches diente. Die Stätte ist reich an buddhistischen und hellenistischen Überresten.",
       hu: "Ősi régió és város, amely egykor a Kusán Birodalom fővárosaként szolgált. A lelőhely gazdag buddhista és hellenisztikus maradványokban.",
@@ -1731,7 +1731,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shahr-e-zayrah-history-v2",
     type: "ruins",
     name: { de: "Shahr-e Zayrah", hu: "Sahr-e Zajra", ro: "Shahr-e Zayrah", en: "Shahr-e Zayrah Ruins" },
-    coordinates: { lat: 34.9, lng: 67.9167 },
+    coords: [67.9167, 34.9],
     description: {
       de: "Eine weniger bekannte archäologische Stätte im Bamiyan-Tal, bestehend aus Festungsruinen. Sie war Teil des Verteidigungssystems der Region im Mittelalter.",
       hu: "Kevésbé ismert régészeti lelőhely a Bamijan-völgyben, erődítményromokból áll. A régió középkori védelmi rendszerének része volt.",
@@ -1762,7 +1762,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-e-dukhtar-ghazni-history-v2",
     type: "ruins",
     name: { de: "Qala-e Dukhtar (Ghazni)", hu: "Kala-e Dukhtar (Gazni)", ro: "Qala-e Dukhtar (Ghazni)", en: "Qala-e Dukhtar Ruins" },
-    coordinates: { lat: 33.5833, lng: 68.45 },
+    coords: [68.45, 33.5833],
     description: {
       de: "Die 'Mädchenfestung' nahe Ghazni, eine antike Ruine mit weitem Blick über die Ebene. Sie stammt vermutlich aus der vorislamischen Zeit der Region.",
       hu: "A „leányerőd” Gazni közelében, egy ősi rom, amely tágas kilátást nyújt a síkságra. Valószínűleg a régió iszlám előtti korszakából származik.",
@@ -1793,7 +1793,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-koti-baghcha-history-v2",
     type: "palace",
     name: { de: "Koti Baghcha Palast", hu: "Koti Bagcse palota", ro: "Palatul Koti Baghcha", en: "Koti Baghcha Palace" },
-    coordinates: { lat: 34.5244, lng: 69.1811 },
+    coords: [69.1811, 34.5244],
     description: {
       de: "Ein historisches Palastgebäude innerhalb des Arg-Komplexes in Kabul. Es wurde im späten 19. Jahrhundert als kaiserliche Residenz für Zeremonien erbaut.",
       hu: "Történelmi palotaépület a kabuli Arg-komplexumon belül. A 19. század végén épült császári rezidenciaként ünnepségek számára.",
@@ -1824,7 +1824,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-stor-palace-history-v2",
     type: "palace",
     name: { de: "Stor-Palast", hu: "Sztor-palota", ro: "Palatul Stor", en: "Stor Palace" },
-    coordinates: { lat: 34.5267, lng: 69.185 },
+    coords: [69.185, 34.5267],
     description: {
       de: "Ein restaurierter Palast in Kabul, der heute als Sitz des Außenministeriums dient. Er wurde ursprünglich im späten 19. Jahrhundert für die königliche Familie errichtet.",
       hu: "Restaurált palota Kabulban, amely ma a Külügyminisztérium székhelye. Eredetileg a 19. század végén épült a királyi család számára.",
@@ -1855,7 +1855,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-dilkusha-palace-history-v2",
     type: "palace",
     name: { de: "Dilkusha-Palast", hu: "Dilkusa-palota", ro: "Palatul Dilkusha", en: "Dilkusha Palace" },
-    coordinates: { lat: 34.5239, lng: 69.1806 },
+    coords: [69.1806, 34.5239],
     description: {
       de: "Ein prächtiger Palast innerhalb des Präsidentenpalastes Arg in Kabul. Er ist bekannt für seine westlichen Bauelemente und seine historische Bedeutung im 20. Jahrhundert.",
       hu: "Pompás palota a kabuli Arg elnöki palotán belül. Nyugati építészeti elemeiről és 20. századi történelmi jelentőségéről ismert.",
@@ -1886,7 +1886,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-tepe-nimlik-history-v2",
     type: "ruins",
     name: { de: "Tepe Nimlik", hu: "Tepe Nimlik", ro: "Tepe Nimlik", en: "Tepe Nimlik" },
-    coordinates: { lat: 36.7, lng: 66.5 },
+    coords: [66.5, 36.7],
     description: {
       de: "Ein archäologischer Hügel in Nordafghanistan mit Siedlungsspuren aus der Bronzezeit und dem Mittelalter. Er liegt in der fruchtbaren Ebene von Balkh.",
       hu: "Észak-afganisztáni régészeti domb bronzkori és középkori településnyomokkal. Balkh termékeny síkságán található.",
@@ -1917,7 +1917,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-kohna-masjid-balkh-history-v2",
     type: "landmark",
     name: { de: "Kohna Masjid (Balkh)", hu: "Kohna mecset (Balkh)", ro: "Kohna Masjid (Balkh)", en: "Kohna Masjid Balkh" },
-    coordinates: { lat: 36.7589, lng: 66.8972 },
+    coords: [66.8972, 36.7589],
     description: {
       de: "Eine historische Moschee innerhalb der alten Stadtmauern von Balkh. Sie ist ein Beispiel für die Schlichtheit und Beständigkeit früher islamischer Architektur.",
       hu: "Történelmi mecset Balkh ősi városfalain belül. A korai iszlám építészet egyszerűségének és tartósságának példája.",
@@ -1948,7 +1948,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-spin-boldak-fort-history-v2",
     type: "castle",
     name: { de: "Spin Boldak Festung", hu: "Spin Boldak erőd", ro: "Cetatea Spin Boldak", en: "Spin Boldak Fort" },
-    coordinates: { lat: 30.9917, lng: 66.4417 },
+    coords: [66.4417, 30.9917],
     description: {
       de: "Eine markante Grenzfestung im Südosten Afghanistans, nahe der Grenze zu Pakistan. Sie war historisch ein wichtiger Verteidigungspunkt gegen Invasionen aus dem Osten.",
       hu: "Jellegzetes határerőd Afganisztán délkeleti részén, a pakisztáni határ közelében. Történelmileg fontos védelmi pont volt a keleti inváziók ellen.",
@@ -1962,12 +1962,24 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       en: ["Strategically located near the pass", "Major hub for cross-border trade", "Features massive mud and stone walls", "Site of numerous historical skirmishes"],
     },
     imageHint: "Massive mud fort at Spin Boldak",
+    descriptionAdvanced: {
+      de: "Die Festung Spin Boldak liegt in der Provinz Kandahar im Süden Afghanistans, nahe der Grenze zu Pakistan. Sie wurde im 19. Jahrhundert von den Briten erbaut, um die strategisch wichtige Handelsroute zu kontrollieren. Die Festung diente später als Militärstützpunkt für verschiedene Konfliktparteien. Heute ist sie teilweise verfallen, aber immer noch ein Symbol der kolonialen Vergangenheit. Die Umgebung ist trocken und dünn besiedelt.",
+      hu: "A Spin Boldak erőd Kandahár tartományban, Dél-Afganisztánban, a pakisztáni határ közelében található. A britek építették a 19. században a stratégiai kereskedelmi útvonal ellenőrzésére. Később különböző konfliktusban álló felek katonai támaszpontjaként szolgált. Ma részben romos, de a gyarmati múlt szimbóluma. A környék száraz és ritkán lakott.",
+      ro: "Fortăreața Spin Boldak este situată în provincia Kandahar, sudul Afganistanului, aproape de granița cu Pakistanul. A fost construită în secolul al XIX-lea de britanici pentru a controla ruta comercială strategică. Ulterior a servit ca bază militară pentru diferite părți în conflict. Astăzi este parțial în ruină, dar rămâne un simbol al trecutului colonial. Zona înconjurătoare este aridă și puțin populată.",
+      en: "Spin Boldak Fort is located in Kandahar Province, southern Afghanistan, near the Pakistani border. It was built in the 19th century by the British to control the strategic trade route. The fort later served as a military base for various warring factions. Today it is partially ruined but remains a symbol of the colonial past. The surrounding area is arid and sparsely populated.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde 1880 von den Briten erbaut.", "Die Höhe der Mauern beträgt 6 Meter.", "Die Festung liegt auf 750 m Höhe.", "Sie wurde 1994 von den Taliban erobert.", "Die Fläche beträgt 2 Hektar.", "Der Grenzübergang Spin Boldak passieren täglich 5.000 Menschen."],
+      hu: ["Az erődöt 1880-ban építették a britek.", "A falak magassága 6 méter.", "Az erőd 750 m tengerszint feletti magasságban fekszik.", "1994-ben a tálibok foglalták el.", "Területe 2 hektár.", "A spin boldaki határátkelőn naponta 5.000 ember halad át."],
+      ro: ["Fortul a fost construit în 1880 de britanici.", "Zidurile au o înălțime de 6 metri.", "Fortul este situat la 750 m altitudine.", "A fost cucerit de talibani în 1994.", "Suprafața este de 2 hectare.", "Punctul de trecere a frontierei Spin Boldak este traversat zilnic de 5.000 de persoane."],
+      en: ["Fort built in 1880 by the British.", "Wall height: 6 meters.", "Elevation: 750 meters.", "Captured by the Taliban in 1994.", "Area: 2 hectares.", "Daily border crossings: 5,000 people."],
+    },
   },
   {
     id: "afghanistan-chihil-zina-history-v2",
     type: "monument",
     name: { de: "Chihil Zina", hu: "Csihil Zina", ro: "Chihil Zina", en: "Chihil Zina Inscriptions" },
-    coordinates: { lat: 31.6167, lng: 65.6833 },
+    coords: [65.6833, 31.6167],
     description: {
       de: "Eine aus dem Fels gehauene Treppe in Kandahar, die zu Inschriften des Mogulkaisers Babur führt. Sie erinnert an die Eroberung der Stadt im 16. Jahrhundert.",
       hu: "Sziklába vájt lépcső Kandahárban, amely Babur mogul uralkodó felirataihoz vezet. A város 16. századi elfoglalásának állít emléket.",
@@ -1986,7 +1998,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-guldara-stupa-history-v2",
     type: "ruins",
     name: { de: "Guldara-Stupa", hu: "Guldara-sztúpa", ro: "Stupa Guldara", en: "Guldara Stupa" },
-    coordinates: { lat: 34.3639, lng: 69.1722 },
+    coords: [69.1722, 34.3639],
     description: {
       de: "Ein gut erhaltenes buddhistisches Bauwerk südlich von Kabul. Der Stupa zeichnet sich durch seine präzise Steinmetzarchitektur aus dem 2. Jahrhundert n. Chr. aus.",
       hu: "Jó állapotban fennmaradt buddhista építmény Kabultól délre. A sztúpa precíz kőfaragásáról és a Kr. u. 2. századi építészetéről nevezetes.",
@@ -2005,7 +2017,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-topdara-stupa-history-v2",
     type: "ruins",
     name: { de: "Topdara-Stupa", hu: "Topdara-sztúpa", ro: "Stupa Topdara", en: "Topdara Stupa" },
-    coordinates: { lat: 35.0167, lng: 69.15 },
+    coords: [69.15, 35.0167],
     description: {
       de: "Einer der größten und intaktesten buddhistischen Stupas in Afghanistan, gelegen nahe Charikar. Er wurde im 4. Jahrhundert n. Chr. errichtet.",
       hu: "Afganisztán egyik legnagyobb és legépebb buddhista sztúpája, Csarikár közelében. A Kr. u. 4. században emelték.",
@@ -2024,7 +2036,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shewaki-stupa-history-v2",
     type: "ruins",
     name: { de: "Shewaki-Stupa", hu: "Sevaki-sztúpa", ro: "Stupa Shewaki", en: "Shewaki Stupa" },
-    coordinates: { lat: 34.4667, lng: 69.25 },
+    coords: [69.25, 34.4667],
     description: {
       de: "Ein bedeutender buddhistischer Stupa am südlichen Rand von Kabul. Er wurde kürzlich restauriert und ist ein Zeugnis der reichen buddhistischen Geschichte der Stadt.",
       hu: "Jelentős buddhista sztúpa Kabul déli peremén. Nemrégiben restaurálták, és a város gazdag buddhista múltjának bizonyítéka.",
@@ -2055,7 +2067,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-tepe-shotor-history-v2",
     type: "ruins",
     name: { de: "Tepe Shotor", hu: "Tepe Sotor", ro: "Tepe Shotor", en: "Tepe Shotor Ruins" },
-    coordinates: { lat: 34.3667, lng: 70.5167 },
+    coords: [70.5167, 34.3667],
     description: {
       de: "Eine archäologische Fundstätte in Hadda, die für ihre außergewöhnlichen Stuckskulpturen im hellenistischen Stil bekannt ist. Sie zeigt starke griechische Einflüsse.",
       hu: "Régészeti lelőhely Haddában, amely kivételes, hellenisztikus stílusú stukkószobrairól híres. Erős görög hatást mutat.",
@@ -2086,7 +2098,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shah-maqsud-shrine-history-v2",
     type: "landmark",
     name: { de: "Schrein von Shah Maqsud", hu: "Sáh Makszúd kegyhely", ro: "Sanctuarul lui Shah Maqsud", en: "Shah Maqsud Shrine" },
-    coordinates: { lat: 31.85, lng: 65.4167 },
+    coords: [65.4167, 31.85],
     description: {
       de: "Ein historischer Schrein und Pilgerort in der Provinz Kandahar. Er ist bekannt für den Abbau des grünen Shah-Maqsud-Edelsteins in der direkten Umgebung.",
       hu: "Történelmi kegyhely és zarándokhely Kandahár tartományban. A környéken bányászott zöld Sáh Makszúd drágakőről ismert.",
@@ -2117,7 +2129,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-zarghuna-ana-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Zarghuna Ana", hu: "Zarguna Ana sírja", ro: "Mormântul lui Zarghuna Ana", en: "Zarghuna Ana Tomb" },
-    coordinates: { lat: 31.6167, lng: 65.7333 },
+    coords: [65.7333, 31.6167],
     description: {
       de: "Das Mausoleum von Zarghuna Ana, der Mutter von Ahmad Shah Durrani. Sie gilt als eine der einflussreichsten Frauen in der afghanischen Geschichte.",
       hu: "Zarguna Ana sírja, aki Ahmad Sád Durráni édesanyja volt. Az afgán történelem egyik legbefolyásosabb asszonyaként tartják számon.",
@@ -2148,7 +2160,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-sultan-razia-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von Sultan Razia", hu: "Razia szultána sírja", ro: "Mormântul Sultanei Razia", en: "Sultan Razia Tomb" },
-    coordinates: { lat: 33.5417, lng: 68.4167 },
+    coords: [68.4167, 33.5417],
     description: {
       de: "Die vermutete Grabstätte von Sultan Razia, der einzigen weiblichen Herrscherin des Sultanats von Delhi. Sie wurde im 13. Jahrhundert in der Nähe von Ghazni getötet.",
       hu: "Razia szultána feltételezett sírhelye, aki a Delhi Szultanátus egyetlen női uralkodója volt. A 13. században ölték meg Gazni közelében.",
@@ -2179,7 +2191,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-e-ikhtyaruddin-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Herat (Ikhtyaruddin)", hu: "Heráti citadella (Ihtjaruddin)", ro: "Citadela din Herat (Ikhtyaruddin)", en: "Citadel of Herat (Ikhtyaruddin)" },
-    coordinates: { lat: 34.3467, lng: 62.1883 },
+    coords: [62.1883, 34.3467],
     description: {
       de: "Eine massive Festungsanlage in Herat, die bis auf Alexander den Großen zurückgeht. Sie wurde im 14. Jahrhundert von den Kartiden umfassend neu aufgebaut.",
       hu: "Masszív erődítmény Herátban, amely Nagy Sándorig nyúlik vissza. A 14. században a kartidák építették újjá alapjaiban.",
@@ -2210,7 +2222,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-blue-mosque-herat-history-v2",
     type: "landmark",
     name: { de: "Freitagsmoschee von Herat", hu: "Heráti pénteki mecset", ro: "Marea Moschee din Herat", en: "Great Mosque of Herat" },
-    coordinates: { lat: 34.3483, lng: 62.1933 },
+    coords: [62.1933, 34.3483],
     description: {
       de: "Ein Meisterwerk timuridischer Architektur mit spektakulären Mosaiken. Die Moschee wurde im 13. Jahrhundert von den Ghoriden gegründet und später prächtig erweitert.",
       hu: "Timurida építészeti remekmű látványos mozaikokkal. A mecsetet a 13. században alapították a goridák, majd később pompásan kibővítették.",
@@ -2241,7 +2253,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-i-jangi-fortress-history-v2",
     type: "castle",
     name: { de: "Qala-i-Jangi Festung", hu: "Kala-i-Dzsiangi erőd", ro: "Cetatea Qala-i-Jangi", en: "Qala-i-Jangi Fortress" },
-    coordinates: { lat: 36.6667, lng: 67.0167 },
+    coords: [67.0167, 36.6667],
     description: {
       de: "Eine massive Festung aus dem 19. Jahrhundert westlich von Masar-e Scharif. Sie ist bekannt für ihre Rolle in den Kriegen der letzten Jahrzehnte.",
       hu: "Masszív 19. századi erőd Mazar-e Saríftól nyugatra. Az elmúlt évtizedek háborúiban játszott szerepéről ismert.",
@@ -2272,7 +2284,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-qala-i-bost-arch-history-v2",
     type: "monument",
     name: { de: "Bogen von Qala-i-Bost", hu: "Kala-i-Bost diadalíve", ro: "Arcul de la Qala-i-Bost", en: "Arch of Qala-i-Bost" },
-    coordinates: { lat: 31.5, lng: 64.3667 },
+    coords: [64.3667, 31.5],
     description: {
       de: "Ein monumentaler Ziegelbogen aus dem 11. Jahrhundert, der den Eingang zur Zitadelle von Bost markierte. Er ist eines der Symbole der Gaznaviden-Architektur.",
       hu: "Monumentális 11. századi téglaív, amely Bost citadellájának bejáratát jelezte. A gaznavida építészet egyik szimbóluma.",
@@ -2303,7 +2315,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shahr-e-zuhak-history-v2",
     type: "ruins",
     name: { de: "Shahr-e Zuhak (Rote Stadt)", hu: "Sahr-e Zuhak (Vörös város)", ro: "Shahr-e Zuhak (Orașul Roșu)", en: "Shahr-e Zuhak (Red City)" },
-    coordinates: { lat: 34.8167, lng: 67.9833 },
+    coords: [67.9833, 34.8167],
     description: {
       de: "Eine Festungsstadt auf den Klippen oberhalb des Bamiyan-Tals, benannt nach den roten Lehmziegeln. Sie kontrollierte einst den Zugang zum Tal.",
       hu: "Erődváros a Bamijan-völgy feletti sziklákon, nevét a vörös vályogtéglákról kapta. Egykor a völgy bejáratát ellenőrizte.",
@@ -2334,7 +2346,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
     id: "afghanistan-shahr-e-gholghola-history-v2",
     type: "ruins",
     name: { de: "Shahr-e Gholghola (Stadt der Schreie)", hu: "Sahr-e Golgola (A sikolyok városa)", ro: "Shahr-e Gholghola (Orașul Țipetelor)", en: "Shahr-e Gholghola (City of Screams)" },
-    coordinates: { lat: 34.8217, lng: 67.8467 },
+    coords: [67.8467, 34.8217],
     description: {
       de: "Die Ruinen der alten Hauptstadt von Bamiyan, die 1221 von Dschingis Khans Mongolen zerstört wurde. Der Name erinnert an das Schicksal der Einwohner.",
       hu: "Bamijan ősi fővárosának romjai, amelyet 1221-ben Dzsingisz kán mongoljai pusztítottak el. A név a lakók sorsára emlékeztet.",

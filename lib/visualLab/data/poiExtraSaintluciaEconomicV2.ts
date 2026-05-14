@@ -5,7 +5,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-port-castries-economic-v2",
     type: "port",
     name: { de: "Hafen von Castries", hu: "Castries kikötője", ro: "Portul Castries", en: "Port Castries" },
-    coordinates: { lat: 14.013, lng: -61.001 },
+    coords: [-61.001, 14.013],
     description: {
       de: "Der wichtigste Handelshafen von Saint Lucia schlägt den Großteil der Importe und Exportgüter des Inselstaates umschlägt.",
       hu: "Saint Lucia legfontosabb kereskedelmi kikötője, amely a szigetország importjának és exportjának nagy részét kezeli.",
@@ -24,7 +24,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-point-seraphine-economic-v2",
     type: "port",
     name: { de: "Point Seraphine", hu: "Point Seraphine", ro: "Point Seraphine", en: "Point Seraphine" },
-    coordinates: { lat: 14.018, lng: -60.996 },
+    coords: [-60.996, 14.018],
     description: {
       de: "Ein spezialisierter Kreuzfahrthafen und Duty-Free-Einkaufszentrum, das einen bedeutenden Teil der Tourismuseinnahmen generiert.",
       hu: "Speciális luxushajó-kikötő és vámmentes bevásárlóközpont, amely jelentős idegenforgalmi bevételt termel.",
@@ -43,7 +43,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-hewanorra-airport-logistics-economic-v2",
     type: "port",
     name: { de: "Hewanorra Flughafen Logistikzentrum", hu: "Hewanorra repülőtér logisztikai központ", ro: "Centrul Logistic Aeroportul Hewanorra", en: "Hewanorra Airport Logistics Hub" },
-    coordinates: { lat: 13.733, lng: -60.952 },
+    coords: [-60.952, 13.733],
     description: {
       de: "Der größte internationale Flughafen der Insel dient als zentrales Drehkreuz für Luftfracht und internationale Logistik.",
       hu: "A sziget legnagyobb nemzetközi repülőtere, amely a légi teherfuvarozás és a nemzetközi logisztika központjaként szolgál.",
@@ -62,7 +62,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-vieux-fort-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Vieux Fort", hu: "Vieux Fort ipari negyed", ro: "Zona Industrială Vieux Fort", en: "Vieux Fort Industrial Estate" },
-    coordinates: { lat: 13.738, lng: -60.957 },
+    coords: [-60.957, 13.738],
     description: {
       de: "Das größte Industriegebiet des Landes beherbergt Fertigungsbetriebe, Textilfabriken und Montagewerke.",
       hu: "Az ország legnagyobb ipari területe, amely gyártóüzemeknek, textilgyáraknak és összeszerelő műhelyeknek ad otthont.",
@@ -81,7 +81,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-cul-de-sac-power-station-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Cul de Sac", hu: "Cul de Sac erőmű", ro: "Centrala Electrică Cul de Sac", en: "Cul de Sac Power Station" },
-    coordinates: { lat: 13.985, lng: -61.011 },
+    coords: [-61.011, 13.985],
     description: {
       de: "Die wichtigste Stromerzeugungsanlage von Saint Lucia versorgt den Großteil der Insel mit Elektrizität.",
       hu: "Saint Lucia legfontosabb villamosenergia-termelő létesítménye, amely a sziget nagy részét látja el árammal.",
@@ -100,7 +100,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-st-lucia-distillers-economic-v2",
     type: "factory",
     name: { de: "St. Lucia Distillers", hu: "St. Lucia Lepárló", ro: "Distileria St. Lucia", en: "St. Lucia Distillers" },
-    coordinates: { lat: 13.945, lng: -61.025 },
+    coords: [-61.025, 13.945],
     description: {
       de: "Die einzige verbliebene kommerzielle Rumbrennerei der Insel, ansässig im fruchtbaren Roseau-Tal.",
       hu: "A sziget egyetlen fennmaradt kereskedelmi rumlepárlója, amely a termékeny Roseau-völgyben található.",
@@ -119,7 +119,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-windward-leeward-brewery-economic-v2",
     type: "factory",
     name: { de: "Windward & Leeward Brauerei", hu: "Windward & Leeward Sörfőzde", ro: "Berăria Windward & Leeward", en: "Windward & Leeward Brewery" },
-    coordinates: { lat: 13.745, lng: -60.955 },
+    coords: [-60.955, 13.745],
     description: {
       de: "Eine bedeutende Getränkefabrik in Vieux Fort, die lokales Bier und Erfrischungsgetränke für den Export produziert.",
       hu: "Vieux Fortban található jelentős italgyár, amely helyi sört és üdítőket gyárt exportra.",
@@ -138,7 +138,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-dennery-fishing-port-economic-v2",
     type: "port",
     name: { de: "Fischereihafen Dennery", hu: "Dennery halászkikötő", ro: "Portul de Pescuit Dennery", en: "Dennery Fishing Port" },
-    coordinates: { lat: 13.911, lng: -60.888 },
+    coords: [-60.888, 13.911],
     description: {
       de: "Ein wichtiges Zentrum der Fischereiindustrie an der Ostküste mit modernen Kühlanlagen und Vermarktungsstrukturen.",
       hu: "A keleti part fontos halászati központja, modern hűtőházakkal és értékesítési hálózattal.",
@@ -157,7 +157,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-rodney-bay-marina-economic-v2",
     type: "port",
     name: { de: "Rodney Bay Marina", hu: "Rodney Bay Marina", ro: "Marina Rodney Bay", en: "Rodney Bay Marina" },
-    coordinates: { lat: 14.074, lng: -60.948 },
+    coords: [-60.948, 14.074],
     description: {
       de: "Ein erstklassiger Jachthafen im Norden, der ein zentraler Pfeiler der maritimen Tourismuswirtschaft ist.",
       hu: "Északi luxusjacht-kikötő, amely a tengeri turizmus gazdaságának központi pillére.",
@@ -176,7 +176,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-vieux-fort-free-zone-economic-v2",
     type: "industry",
     name: { de: "Freihandelszone Vieux Fort", hu: "Vieux Fort szabadkereskedelmi zóna", ro: "Zona Liberă Vieux Fort", en: "Vieux Fort Free Zone" },
-    coordinates: { lat: 13.731, lng: -60.961 },
+    coords: [-60.961, 13.731],
     description: {
       de: "Eine Sonderwirtschaftszone zur Förderung des Außenhandels durch Steuererleichterungen und Zollfreiheit.",
       hu: "Különleges gazdasági övezet a külkereskedelem ösztönzésére adókedvezményekkel és vámmentességgel.",
@@ -195,7 +195,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-baron-foods-factory-economic-v2",
     type: "factory",
     name: { de: "Baron Foods Fabrik", hu: "Baron Foods gyár", ro: "Fabrica Baron Foods", en: "Baron Foods Factory" },
-    coordinates: { lat: 13.742, lng: -60.963 },
+    coords: [-60.963, 13.742],
     description: {
       de: "Der führende Lebensmittelhersteller der Region, bekannt für Saucen und Gewürze, mit Sitz in Vieux Fort.",
       hu: "A régió vezető élelmiszergyártója, amely mártásairól és fűszereiről híres, székhelye Vieux Fort.",
@@ -214,7 +214,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-mabouya-valley-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszone Mabouya-Tal", hu: "Mabouya-völgy mezőgazdasági övezet", ro: "Zona Agricolă Valea Mabouya", en: "Mabouya Valley Agricultural Zone" },
-    coordinates: { lat: 13.918, lng: -60.925 },
+    coords: [-60.925, 13.918],
     description: {
       de: "Eines der fruchtbarsten Gebiete der Insel, das eine Schlüsselrolle in der Bananen- und Gemüseproduktion spielt.",
       hu: "A sziget egyik legtermékenyebb területe, amely kulcsszerepet játszik a banán- és zöldségtermesztésben.",
@@ -233,7 +233,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-roseau-valley-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszone Roseau-Tal", hu: "Roseau-völgy mezőgazdasági övezet", ro: "Zona Agricolă Valea Roseau", en: "Roseau Valley Agricultural Zone" },
-    coordinates: { lat: 13.952, lng: -61.018 },
+    coords: [-61.018, 13.952],
     description: {
       de: "Das größte zusammenhängende Bananenanbaugebiet von Saint Lucia, das entscheidend für den Agrarexport ist.",
       hu: "Saint Lucia legnagyobb összefüggő banántermő területe, amely meghatározó az agrár-export szempontjából.",
@@ -252,7 +252,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-fond-doux-estate-economic-v2",
     type: "landmark",
     name: { de: "Fond Doux Anwesen", hu: "Fond Doux birtok", ro: "Domeniul Fond Doux", en: "Fond Doux Estate" },
-    coordinates: { lat: 13.842, lng: -61.058 },
+    coords: [-61.058, 13.842],
     description: {
       de: "Ein historisches Anwesen, das Agrotourismus mit kommerzieller Kakao- und Obstproduktion verbindet.",
       hu: "Történelmi birtok, amely az agroturizmust ötvözi a kereskedelmi kakaó- és gyümölcstermesztéssel.",
@@ -271,7 +271,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-soufriere-geothermal-field-economic-v2",
     type: "industry",
     name: { de: "Geothermiefeld Soufrière", hu: "Soufrière geotermikus mező", ro: "Câmpul Geotermal Soufrière", en: "Soufriere Geothermal Field" },
-    coordinates: { lat: 13.831, lng: -61.045 },
+    coords: [-61.045, 13.831],
     description: {
       de: "Ein Gebiet mit hohem Energiepotenzial, in dem Projekte zur Nutzung von Erdwärme für die Stromerzeugung entwickelt werden.",
       hu: "Magas energiapotenciállal rendelkező terület, ahol a földhő áramtermelésre való felhasználását fejlesztik.",
@@ -290,7 +290,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-choiseul-fishing-village-center-economic-v2",
     type: "port",
     name: { de: "Fischereizentrum Choiseul", hu: "Choiseul halászati központ", ro: "Centrul de Pescuit Choiseul", en: "Choiseul Fishing Village Center" },
-    coordinates: { lat: 13.774, lng: -61.051 },
+    coords: [-61.051, 13.774],
     description: {
       de: "Ein wichtiges wirtschaftliches Zentrum im Südwesten, das Fischerei mit traditionellem Handwerk verbindet.",
       hu: "Fontos délnyugati gazdasági központ, amely a halászatot hagyományos kézművességgel ötvözi.",
@@ -309,7 +309,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-bisee-commercial-zone-economic-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Bisee", hu: "Bisee kereskedelmi övezet", ro: "Zona Comercială Bisee", en: "Bisee Commercial Zone" },
-    coordinates: { lat: 14.032, lng: -60.985 },
+    coords: [-60.985, 14.032],
     description: {
       de: "Ein bedeutendes Handels- und Logistikgebiet nördlich von Castries mit zahlreichen Großhandelslagern.",
       hu: "Castriestől északra fekvő jelentős kereskedelmi és logisztikai terület számos nagykereskedelmi raktárral.",
@@ -328,7 +328,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-union-agricultural-station-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftsstation Union", hu: "Union mezőgazdasági állomás", ro: "Stația Agricolă Union", en: "Union Agricultural Station" },
-    coordinates: { lat: 14.041, lng: -60.965 },
+    coords: [-60.965, 14.041],
     description: {
       de: "Das nationale Zentrum für landwirtschaftliche Forschung und Entwicklung zur Steigerung der Lebensmittelautarkie.",
       hu: "Az országos mezőgazdasági kutatási és fejlesztési központ az élelmiszer-önellátás növelésére.",
@@ -347,7 +347,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-buckeye-terminal-economic-v2",
     type: "port",
     name: { de: "Buckeye Terminal Saint Lucia", hu: "Buckeye terminál Saint Lucia", ro: "Terminalul Buckeye Saint Lucia", en: "Buckeye St. Lucia Terminal" },
-    coordinates: { lat: 13.981, lng: -61.018 },
+    coords: [-61.018, 13.981],
     description: {
       de: "Eines der größten Erdölterminals in der Karibik, das als strategischer Lagerort für den internationalen Energiemarkt dient.",
       hu: "A Karib-térség egyik legnagyobb kőolajterminálja, amely stratégiai tárolóhelyként szolgál a nemzetközi energiapiac számára.",
@@ -366,7 +366,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-baywalk-mall-economic-v2",
     type: "landmark",
     name: { de: "Baywalk Einkaufszentrum", hu: "Baywalk bevásárlóközpont", ro: "Centrul Comercial Baywalk", en: "Baywalk Shopping Mall" },
-    coordinates: { lat: 14.068, lng: -60.951 },
+    coords: [-60.951, 14.068],
     description: {
       de: "Ein modernes kommerzielles Zentrum in Rodney Bay, das den Einzelhandel und den Tourismus im Norden dominiert.",
       hu: "Modern kereskedelmi központ Rodney Bay-ben, amely meghatározza az északi kiskereskedelmet és turizmust.",
@@ -385,7 +385,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-jq-rodney-bay-mall-economic-v2",
     type: "landmark",
     name: { de: "JQ Rodney Bay Mall", hu: "JQ Rodney Bay Mall", ro: "JQ Rodney Bay Mall", en: "JQ Rodney Bay Mall" },
-    coordinates: { lat: 14.069, lng: -60.949 },
+    coords: [-60.949, 14.069],
     description: {
       de: "Ein zentraler Einzelhandelsknotenpunkt, der sowohl lokale Konsumenten als auch internationale Touristen bedient.",
       hu: "Központi kiskereskedelmi csomópont, amely a helyi fogyasztókat és a nemzetközi turistákat egyaránt kiszolgálja.",
@@ -404,7 +404,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-vieux-fort-cargo-port-economic-v2",
     type: "port",
     name: { de: "Frachthafen Vieux Fort", hu: "Vieux Fort teherkikötő", ro: "Portul de Mărfuri Vieux Fort", en: "Vieux Fort Cargo Port" },
-    coordinates: { lat: 13.725, lng: -60.958 },
+    coords: [-60.958, 13.725],
     description: {
       de: "Der sekundäre Handelshafen der Insel, spezialisiert auf den Umschlag von Massengütern und industriellen Rohstoffen.",
       hu: "A sziget másodlagos kereskedelmi kikötője, amely ömlesztett áruk és ipari nyersanyagok kezelésére specializálódott.",
@@ -423,7 +423,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-praslin-aquaculture-site-economic-v2",
     type: "industry",
     name: { de: "Aquakultur-Standort Praslin", hu: "Praslin akvakultúra-helyszín", ro: "Situl de Acvacultură Praslin", en: "Praslin Aquaculture Site" },
-    coordinates: { lat: 13.876, lng: -60.895 },
+    coords: [-60.895, 13.876],
     description: {
       de: "Ein Zentrum für die nachhaltige Zucht von Meeresfrüchten und Seetang zur Diversifizierung der Küstenwirtschaft.",
       hu: "A tenger gyümölcseinek és a tengeri algák fenntartható tenyésztésének központja a part menti gazdaság diverzifikálására.",
@@ -442,7 +442,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-anse-la-raye-fish-market-economic-v2",
     type: "landmark",
     name: { de: "Fischmarkt Anse La Raye", hu: "Anse La Raye halpiac", ro: "Piața de Pește Anse La Raye", en: "Anse La Raye Fish Market" },
-    coordinates: { lat: 13.94, lng: -61.042 },
+    coords: [-61.042, 13.94],
     description: {
       de: "Ein zentraler Handelsplatz für frischen Fisch, der eine lebenswichtige Einkommensquelle für die lokale Gemeinschaft darstellt.",
       hu: "A friss hal központi kereskedelmi helyszíne, amely létfontosságú jövedelemforrás a helyi közösség számára.",
@@ -461,7 +461,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-marigot-bay-economic-zone-economic-v2",
     type: "port",
     name: { de: "Wirtschaftszone Marigot Bay", hu: "Marigot Bay gazdasági övezet", ro: "Zona Economică Marigot Bay", en: "Marigot Bay Economic Zone" },
-    coordinates: { lat: 13.964, lng: -61.023 },
+    coords: [-61.023, 13.964],
     description: {
       de: "Ein exklusives maritimes Zentrum, das hochwertige Dienstleistungen für Megajachten und Luxustourismus bietet.",
       hu: "Exkluzív tengeri központ, amely prémium szolgáltatásokat kínál megajachtoknak és a luxusturizmusnak.",
@@ -480,7 +480,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-cap-estate-business-hub-economic-v2",
     type: "industry",
     name: { de: "Geschäftszentrum Cap Estate", hu: "Cap Estate üzleti központ", ro: "Centrul de Afaceri Cap Estate", en: "Cap Estate Business Hub" },
-    coordinates: { lat: 14.103, lng: -60.945 },
+    coords: [-60.945, 14.103],
     description: {
       de: "Ein Zentrum für Immobilienentwicklung und Dienstleistungen im wohlhabendsten Viertel der Insel.",
       hu: "Ingatlanfejlesztési és szolgáltatási központ a sziget leggazdagabb negyedében.",
@@ -499,7 +499,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-george-fl-charles-logistics-economic-v2",
     type: "port",
     name: { de: "George F.L. Charles Logistikzentrum", hu: "George F.L. Charles logisztikai központ", ro: "Centrul Logistic George F.L. Charles", en: "George F.L. Charles Logistics Hub" },
-    coordinates: { lat: 14.02, lng: -60.993 },
+    coords: [-60.993, 14.02],
     description: {
       de: "Der Regionalflughafen in Castries ist entscheidend für den innerkaribischen Handel und den Geschäftsverkehr.",
       hu: "A Castries-i regionális repülőtér meghatározó a karibi térségen belüli kereskedelemben.",
@@ -518,7 +518,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-castries-central-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Castries", hu: "Castries központi piaca", ro: "Piața Centrală Castries", en: "Castries Central Market" },
-    coordinates: { lat: 14.011, lng: -61.0 },
+    coords: [-61.0, 14.011],
     description: {
       de: "Das größte Handelszentrum für lokale Agrarprodukte und Kunsthandwerk in der Hauptstadt.",
       hu: "A főváros legnagyobb helyi mezőgazdasági termékeket és kézműves árukat kínáló kereskedelmi központja.",
@@ -537,7 +537,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-slaspa-administrative-building-economic-v2",
     type: "industry",
     name: { de: "SLASPA Verwaltungsgebäude", hu: "SLASPA adminisztratív épület", ro: "Clădirea Administrativă SLASPA", en: "SLASPA Administrative Building" },
-    coordinates: { lat: 14.015, lng: -60.998 },
+    coords: [-60.998, 14.015],
     description: {
       de: "Der Hauptsitz der Behörde, die alle See- und Flughäfen von Saint Lucia verwaltet und reguliert.",
       hu: "A Saint Lucia összes tengeri és légi kikötőjét kezelő és szabályozó hatóság székhelye.",
@@ -556,7 +556,7 @@ export const saintluciaEconomicV2: POI[] = [
     id: "saintlucia-choc-estate-commercial-park-economic-v2",
     type: "industry",
     name: { de: "Gewerbepark Choc Estate", hu: "Choc Estate kereskedelmi park", ro: "Parcul Comercial Choc Estate", en: "Choc Estate Commercial Park" },
-    coordinates: { lat: 14.048, lng: -60.968 },
+    coords: [-60.968, 14.048],
     description: {
       de: "Ein schnell wachsendes Geschäftsviertel nördlich der Hauptstadt mit Fokus auf IT und Dienstleistungen.",
       hu: "A fővárostól északra fekvő, gyorsan növekvő üzleti negyed, amely az informatikára és szolgáltatásokra összpontosít.",

@@ -5,7 +5,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-chaine-centrale-relief-v2",
     type: "mountain",
     name: { de: "Chaîne Centrale", hu: "Chaîne Centrale", ro: "Chaîne Centrale", en: "Chaîne Centrale" },
-    coordinates: { lat: -21.4, lng: 165.6 },
+    coords: [165.6, -21.4],
     description: {
       de: "Das Zentrale Gebirge durchzieht die gesamte Hauptinsel. Es trennt die feuchte Ostküste von der trockeneren Westküste.",
       hu: "A Központi-hegység végighúzódik a főszigeten. Elválasztja a nedves keleti partot a szárazabb nyugati parttól.",
@@ -24,7 +24,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-koghi-relief-v2",
     type: "mountain",
     name: { de: "Monts Koghi", hu: "Monts Koghi", ro: "Munții Koghi", en: "Monts Koghi" },
-    coordinates: { lat: -22.176, lng: 166.505 },
+    coords: [166.505, -22.176],
     description: {
       de: "Die Monts Koghi sind ein kleines Bergmassiv nördlich der Hauptstadt Nouméa. Sie bieten spektakuläre Ausblicke auf die Lagune.",
       hu: "A Monts Koghi egy kis hegység a fővárostól, Nouméától északra. Látványos kilátást nyújt a lagúnára.",
@@ -43,7 +43,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-aoupinie-relief-v2",
     type: "peak",
     name: { de: "Mont Aoupinié", hu: "Mont Aoupinié", ro: "Mont Aoupinié", en: "Mont Aoupinié" },
-    coordinates: { lat: -21.183, lng: 165.267 },
+    coords: [165.267, -21.183],
     description: {
       de: "Der Mont Aoupinié liegt in der Nähe von Poya im zentralen Teil der Insel. Das Gebiet ist als Naturschutzgebiet eingestuft.",
       hu: "A Mont Aoupinié Poya közelében, a sziget középső részén található. A terület természetvédelmi oltalom alatt áll.",
@@ -62,7 +62,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-plateau-de-dogny-relief-v2",
     type: "mountain",
     name: { de: "Plateau de Dogny", hu: "Plateau de Dogny", ro: "Plateau de Dogny", en: "Plateau de Dogny" },
-    coordinates: { lat: -21.625, lng: 165.867 },
+    coords: [165.867, -21.625],
     description: {
       de: "Das Plateau de Dogny liegt bei Sarraméa und bietet weite Grasflächen und Wälder. Es ist ein markantes Hochlandmerkmal.",
       hu: "A Plateau de Dogny Sarraméa közelében található, tágas füves területeket és erdőket kínálva. Jellegzetes fennsík.",
@@ -81,7 +81,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-ignambi-relief-v2",
     type: "peak",
     name: { de: "Mont Ignambi", hu: "Mont Ignambi", ro: "Mont Ignambi", en: "Mont Ignambi" },
-    coordinates: { lat: -20.463, lng: 164.598 },
+    coords: [164.598, -20.463],
     description: {
       de: "Der Mont Ignambi liegt im äußersten Norden von Grande Terre. Er ist Teil des zerklüfteten Panié-Massivs.",
       hu: "A Mont Ignambi Grande Terre legészakibb részén található. A tagolt Panié-masszívum része.",
@@ -100,7 +100,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-colnett-relief-v2",
     type: "peak",
     name: { de: "Mont Colnett", hu: "Mont Colnett", ro: "Mont Colnett", en: "Mont Colnett" },
-    coordinates: { lat: -20.504, lng: 164.733 },
+    coords: [164.733, -20.504],
     description: {
       de: "Der Mont Colnett ist ein Nachbargipfel des Mont Panié im Norden. Er gehört zu den höchsten Erhebungen der Insel.",
       hu: "A Mont Colnett a Mont Panié szomszédos csúcsa északon. A sziget legmagasabb pontjai közé tartozik.",
@@ -119,7 +119,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-plaine-des-lacs-relief-v2",
     type: "valley",
     name: { de: "Plaine des Lacs", hu: "Plaine des Lacs", ro: "Plaine des Lacs", en: "Plaine des Lacs" },
-    coordinates: { lat: -22.25, lng: 166.833 },
+    coords: [166.833, -22.25],
     description: {
       de: "Die Plaine des Lacs ist ein ausgedehntes Hochplateau im Süden. Es ist geprägt durch Feuchtgebiete und rote Erde.",
       hu: "A Plaine des Lacs egy kiterjedt fennsík délen. Vizes élőhelyek és vörös föld jellemzi.",
@@ -138,7 +138,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-do-relief-v2",
     type: "peak",
     name: { de: "Mont Do", hu: "Mont Do", ro: "Mont Do", en: "Mont Do" },
-    coordinates: { lat: -21.755, lng: 166.002 },
+    coords: [166.002, -21.755],
     description: {
       de: "Der Mont Do befindet sich oberhalb von Bouloupari. Er bietet ein weites Panorama über die Lagune und die Westküste.",
       hu: "A Mont Do Bouloupari felett található. Széles panorámát nyújt a lagúnára és a nyugati partra.",
@@ -157,7 +157,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-massif-du-grand-sud-relief-v2",
     type: "mountain",
     name: { de: "Massif du Grand Sud", hu: "Massif du Grand Sud", ro: "Masivul Grand Sud", en: "Massif du Grand Sud" },
-    coordinates: { lat: -22.2, lng: 166.85 },
+    coords: [166.85, -22.2],
     description: {
       de: "Das Massiv des Großen Südens ist eine weite bergige Region im Süden von Grande Terre, reich an Mineralien.",
       hu: "A Nagy Dél masszívuma egy kiterjedt hegyvidéki régió Grande Terre déli részén, ásványokban gazdag.",
@@ -176,7 +176,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-col-d-amieu-relief-v2",
     type: "mountain",
     name: { de: "Col d'Amieu", hu: "Col d'Amieu", ro: "Pasul Amieu", en: "Col d'Amieu" },
-    coordinates: { lat: -21.583, lng: 165.8 },
+    coords: [165.8, -21.583],
     description: {
       de: "Der Col d'Amieu ist ein wichtiger Gebirgspass, der die Westküste mit der Ostküste im Zentrum der Insel verbindet.",
       hu: "A Col d'Amieu egy fontos hegyszoros, amely összeköti a nyugati partot a keletivel a sziget közepén.",
@@ -195,7 +195,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-boulinda-relief-v2",
     type: "peak",
     name: { de: "Mont Boulinda", hu: "Mont Boulinda", ro: "Mont Boulinda", en: "Mont Boulinda" },
-    coordinates: { lat: -21.317, lng: 165.017 },
+    coords: [165.017, -21.317],
     description: {
       de: "Der Mont Boulinda liegt an der Westküste bei Poya. Er ist bekannt für seine bedeutenden Nickelvorkommen.",
       hu: "A Mont Boulinda a nyugati parton, Poya közelében található. Jelentős nikkelkészleteiről ismert.",
@@ -214,7 +214,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-kaala-relief-v2",
     type: "peak",
     name: { de: "Mont Kaala", hu: "Mont Kaala", ro: "Mont Kaala", en: "Mont Kaala" },
-    coordinates: { lat: -20.617, lng: 164.383 },
+    coords: [164.383, -20.617],
     description: {
       de: "Der Mont Kaala dominiert die Region Gomen im Nordwesten. Er ist ein heiliger Ort für die einheimischen Kanaken.",
       hu: "A Mont Kaala Gomen régióját uralja északnyugaton. Szent hely a helyi kanaki lakosok számára.",
@@ -233,7 +233,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-tsibai-relief-v2",
     type: "peak",
     name: { de: "Mont Tsibaï", hu: "Mont Tsibaï", ro: "Mont Tsibaï", en: "Mont Tsibaï" },
-    coordinates: { lat: -20.817, lng: 164.867 },
+    coords: [164.867, -20.817],
     description: {
       de: "Der Mont Tsibaï ist ein markanter Berg im Norden von Grande Terre, bekannt für seine steilen Felswände.",
       hu: "A Mont Tsibaï egy jellegzetes hegy Grande Terre északi részén, meredek sziklafalairól ismert.",
@@ -252,7 +252,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-arago-relief-v2",
     type: "peak",
     name: { de: "Mont Arago", hu: "Mont Arago", ro: "Mont Arago", en: "Mont Arago" },
-    coordinates: { lat: -21.433, lng: 165.55 },
+    coords: [165.55, -21.433],
     description: {
       de: "Der Mont Arago befindet sich im Herzen der Zentralkette bei Bourail. Er ist ein wichtiger topographischer Punkt.",
       hu: "A Mont Arago a Központi-hegység szívében található, Bourail közelében. Fontos topográfiai pont.",
@@ -271,7 +271,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-maoya-relief-v2",
     type: "peak",
     name: { de: "Mont Maoya", hu: "Mont Maoya", ro: "Mont Maoya", en: "Mont Maoya" },
-    coordinates: { lat: -21.383, lng: 165.333 },
+    coords: [165.333, -21.383],
     description: {
       de: "Der Mont Maoya ist einer der massivsten Berge an der Westküste. Er ragt steil aus den Küstenebenen empor.",
       hu: "A Mont Maoya az egyik leghatalmasabb hegy a nyugati parton. Meredeken emelkedik ki a parti síkságokból.",
@@ -290,7 +290,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-ouin-relief-v2",
     type: "peak",
     name: { de: "Mont Ouin", hu: "Mont Ouin", ro: "Mont Ouin", en: "Mont Ouin" },
-    coordinates: { lat: -22.017, lng: 166.45 },
+    coords: [166.45, -22.017],
     description: {
       de: "Der Mont Ouin liegt im Dzumac-Massiv. Er ist bekannt für seine wilden Landschaften und schwierigen Zugänge.",
       hu: "A Mont Ouin a Dzumac-masszívumban található. Vad tájairól és nehéz megközelíthetőségéről ismert.",
@@ -309,7 +309,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-nakada-relief-v2",
     type: "peak",
     name: { de: "Mont Nakada", hu: "Mont Nakada", ro: "Mont Nakada", en: "Mont Nakada" },
-    coordinates: { lat: -21.583, lng: 166.083 },
+    coords: [166.083, -21.583],
     description: {
       de: "Der Mont Nakada überragt das Tal von Thio an der Ostküste. Er ist ein markanter Teil der Chaîne Centrale.",
       hu: "A Mont Nakada a keleti parti Thio völgye fölé magasodik. A Központi-hegység jellegzetes része.",
@@ -328,7 +328,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-sindoa-relief-v2",
     type: "peak",
     name: { de: "Mont Sindoa", hu: "Mont Sindoa", ro: "Mont Sindoa", en: "Mont Sindoa" },
-    coordinates: { lat: -21.25, lng: 165.45 },
+    coords: [165.45, -21.25],
     description: {
       de: "Der Mont Sindoa ist ein imposanter Gipfel im zentralen Norden von Grande Terre, oft in Wolken gehüllt.",
       hu: "A Mont Sindoa egy impozáns csúcs Grande Terre észak-középső részén, gyakran felhőbe burkolózva.",
@@ -347,7 +347,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-nekandi-relief-v2",
     type: "peak",
     name: { de: "Mont Nékandi", hu: "Mont Nékandi", ro: "Mont Nékandi", en: "Mont Nékandi" },
-    coordinates: { lat: -21.717, lng: 166.25 },
+    coords: [166.25, -21.717],
     description: {
       de: "Der Mont Nékandi befindet sich im südöstlichen Quadranten der Insel. Er bildet eine markante Erhebung im Hinterland.",
       hu: "A Mont Nékandi a sziget délkeleti részén található. Jelentős kiemelkedés a szárazföld belsejében.",
@@ -366,7 +366,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-katepahi-relief-v2",
     type: "peak",
     name: { de: "Mont Katépahi", hu: "Mont Katépahi", ro: "Mont Katépahi", en: "Mont Katépahi" },
-    coordinates: { lat: -21.083, lng: 164.85 },
+    coords: [164.85, -21.083],
     description: {
       de: "Der Mont Katépahi liegt bei Koné an der Westküste. Er ist bekannt für seine herzförmige Formation 'Coeur de Voh' in der Nähe.",
       hu: "A Mont Katépahi Koné közelében, a nyugati parton található. A közeli szív alakú 'Voh szíve' formációról ismert.",
@@ -385,7 +385,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-mu-relief-v2",
     type: "peak",
     name: { de: "Mont Mu", hu: "Mont Mu", ro: "Mont Mu", en: "Mont Mu" },
-    coordinates: { lat: -22.15, lng: 166.417 },
+    coords: [166.417, -22.15],
     description: {
       de: "Der Mont Mu befindet sich im Süden der Chaîne Centrale. Er bildet eine markante Graniterhebung.",
       hu: "A Mont Mu a Központi-hegység déli részén található. Jellegzetes gránit kiemelkedés.",
@@ -404,7 +404,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-dzumac-relief-v2",
     type: "mountain",
     name: { de: "Mont Dzumac", hu: "Mont Dzumac", ro: "Mont Dzumac", en: "Mont Dzumac" },
-    coordinates: { lat: -22.05, lng: 166.467 },
+    coords: [166.467, -22.05],
     description: {
       de: "Der Mont Dzumac ist ein bedeutendes Bergmassiv, das als Wasserscheide für viele Flüsse im Süden fungiert.",
       hu: "A Mont Dzumac egy jelentős hegység, amely vízválasztóként szolgál számos déli folyó számára.",
@@ -423,7 +423,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-canala-relief-v2",
     type: "peak",
     name: { de: "Mont Canala", hu: "Mont Canala", ro: "Mont Canala", en: "Mont Canala" },
-    coordinates: { lat: -21.517, lng: 165.95 },
+    coords: [165.95, -21.517],
     description: {
       de: "Der Mont Canala liegt an der Ostküste oberhalb der gleichnamigen Bucht. Er ist bekannt für seine grüne Vegetation.",
       hu: "A Mont Canala a keleti parton található, az azonos nevű öböl felett. Zöld vegetációjáról ismert.",
@@ -442,7 +442,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-grandie-relief-v2",
     type: "peak",
     name: { de: "Mont Grandié", hu: "Mont Grandié", ro: "Mont Grandié", en: "Mont Grandié" },
-    coordinates: { lat: -21.2, lng: 165.35 },
+    coords: [165.35, -21.2],
     description: {
       de: "Der Mont Grandié liegt im zentralen Hochland und bildet einen massiven Block in der Gebirgskette.",
       hu: "A Mont Grandié a központi felföldön található, masszív blokkot alkotva a hegyláncban.",
@@ -461,7 +461,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-tandji-relief-v2",
     type: "peak",
     name: { de: "Mont Tandji", hu: "Mont Tandji", ro: "Mont Tandji", en: "Mont Tandji" },
-    coordinates: { lat: -21.917, lng: 166.25 },
+    coords: [166.25, -21.917],
     description: {
       de: "Der Mont Tandji befindet sich in der Nähe des Flughafens Tontouta und bietet Orientierung für Piloten.",
       hu: "A Mont Tandji a Tontouta repülőtér közelében található, tájékozódási pontot nyújtva a pilótáknak.",
@@ -480,7 +480,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-mont-ningua-relief-v2",
     type: "peak",
     name: { de: "Mont Ningua", hu: "Mont Ningua", ro: "Mont Ningua", en: "Mont Ningua" },
-    coordinates: { lat: -21.745, lng: 166.155 },
+    coords: [166.155, -21.745],
     description: {
       de: "Der Mont Ningua ist ein isolierter Gipfel, der für seine besonderen botanischen Arten bekannt ist.",
       hu: "A Mont Ningua egy elszigetelt csúcs, amely különleges botanikai fajairól ismert.",
@@ -499,7 +499,7 @@ export const newcaledoniaReliefV2: POI[] = [
     id: "newcaledonia-vallon-dore-relief-v2",
     type: "valley",
     name: { de: "Vallon-Dore", hu: "Vallon-Dore", ro: "Vallon-Dore", en: "Vallon-Dore" },
-    coordinates: { lat: -22.25, lng: 166.6 },
+    coords: [166.6, -22.25],
     description: {
       de: "Das Vallon-Dore ist ein Tal am Fuße des Mont-Dore, bekannt für seine fruchtbare Küstenzone.",
       hu: "A Vallon-Dore egy völgy a Mont-Dore lábánál, híres termékeny parti zónájáról.",

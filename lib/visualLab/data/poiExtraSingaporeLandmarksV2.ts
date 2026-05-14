@@ -728,7 +728,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-buddha-tooth-relic-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Buddha-Zahnreliquien-Tempel", hu: "Buddha foga-templom", ro: "Templul Relicvei Dintelui lui Buddha", en: "Buddha Tooth Relic Temple" },
-    coordinates: { lat: 1.2816, lng: 103.8443 },
+    coords: [103.8443, 1.2816],
     description: {
       de: "Dieser prachtvolle Tempel in Chinatown beherbergt eine Reliquie, die als Zahn des Buddha verehrt wird. Die Architektur orientiert sich am Stil der chinesischen Tang-Dynastie.",
       hu: "Ez a pompás Chinatown-i templom egy ereklyét őriz, amelyet Buddha fogaként tisztelnek. Az épület stílusa a kínai Tang-dinasztia építészetét idézi.",
@@ -747,7 +747,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-the-istana-landmarks-v2",
     type: "palace",
     name: { de: "Der Istana", hu: "Az Istana", ro: "Istana", en: "The Istana" },
-    coordinates: { lat: 1.3006, lng: 103.8435 },
+    coords: [103.8435, 1.3006],
     description: {
       de: "Der Istana ist die offizielle Residenz und das Büro des Präsidenten von Singapur. Das weitläufige Gelände befindet sich an der Orchard Road und ist ein Relikt der Kolonialzeit.",
       hu: "Az Istana Szingapúr elnökének hivatalos rezidenciája és hivatala. A hatalmas birtok az Orchard Road mentén található, és a gyarmati korszak öröksége.",
@@ -766,7 +766,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-national-gallery-singapore-landmarks-v2",
     type: "museum",
     name: { de: "Nationalgalerie Singapur", hu: "Szingapúri Nemzeti Galéria", ro: "Galeria Națională Singapore", en: "National Gallery Singapore" },
-    coordinates: { lat: 1.2897, lng: 103.8514 },
+    coords: [103.8514, 1.2897],
     description: {
       de: "Diese Kunstgalerie belegt das ehemalige Rathaus und das alte Gebäude des Obersten Gerichtshofs. Sie beherbergt die weltweit größte Sammlung moderner südostasiatischer Kunst.",
       hu: "Ez a művészeti galéria a korábbi városházát és a Legfelsőbb Bíróság régi épületét foglalja el. Itt található a világ legnagyobb modern délkelet-ázsiai művészeti gyűjteménye.",
@@ -785,7 +785,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-asian-civilisations-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum der asiatischen Zivilisationen", hu: "Ázsiai Civilizációk Múzeuma", ro: "Muzeul Civilizațiilor Asiatice", en: "Asian Civilisations Museum" },
-    coordinates: { lat: 1.2875, lng: 103.8515 },
+    coords: [103.8515, 1.2875],
     description: {
       de: "Dieses Museum befindet sich im historischen Empress Place Building am Ufer des Singapore River. Es widmet sich dem kulturellen Erbe Asiens und den Vorfahren der Singapurer.",
       hu: "Ez a múzeum a történelmi Empress Place épületben található a Szingapúr-folyó partján. Ázsia kulturális örökségét és a szingapúriak őseinek történetét mutatja be.",
@@ -804,7 +804,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-science-centre-singapore-landmarks-v2",
     type: "museum",
     name: { de: "Wissenschaftszentrum Singapur", hu: "Szingapúri Tudományos Központ", ro: "Centrul de Știință Singapore", en: "Science Centre Singapore" },
-    coordinates: { lat: 1.3324, lng: 103.7354 },
+    coords: [103.7354, 1.3324],
     description: {
       de: "Das Science Centre Singapore widmet sich der Förderung von Wissenschaft und Technologie durch interaktive Exponate. Es beherbergt auch das einzige Omni-Theater des Landes.",
       hu: "A Szingapúri Tudományos Központ interaktív kiállításokon keresztül népszerűsíti a tudományt és technológiát. Itt található az ország egyetlen Omni-színháza.",
@@ -823,7 +823,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-haw-par-villa-landmarks-v2",
     type: "landmark",
     name: { de: "Haw Par Villa", hu: "Haw Par Villa", ro: "Vila Haw Par", en: "Haw Par Villa" },
-    coordinates: { lat: 1.2852, lng: 103.782 },
+    coords: [103.782, 1.2852],
     description: {
       de: "Haw Par Villa ist ein Themenpark, der über 1.000 Statuen aus der chinesischen Mythologie und Folklore zeigt. Er ist besonders bekannt für die drastische Darstellung der Zehn Höllen.",
       hu: "A Haw Par Villa egy témapark, amely több mint 1000 szobrot mutat be a kínai mitológiából és folklórból. Különösen híres a Pokol Tíz Udvarának ábrázolásáról.",
@@ -842,7 +842,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-kranji-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Kriegsgräberstätte Kranji", hu: "Kranji katonai emlékmű", ro: "Memorialul de Război Kranji", en: "Kranji War Memorial" },
-    coordinates: { lat: 1.4197, lng: 103.7578 },
+    coords: [103.7578, 1.4197],
     description: {
       de: "Dieses Denkmal erinnert an die alliierten Soldaten, die im Zweiten Weltkrieg bei der Verteidigung Singapurs starben. Es bietet einen friedlichen Blick über die Umgebung von Kranji.",
       hu: "Ez az emlékmű azoknak a szövetséges katonáknak állít emléket, akik a II. világháborúban Szingapúr védelmében estek el. Békés kilátást nyújt Kranji környékére.",
@@ -861,7 +861,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-old-hill-street-police-station-landmarks-v2",
     type: "landmark",
     name: { de: "Alte Polizeistation Hill Street", hu: "Régi Hill Street-i rendőrkapitányság", ro: "Vechea Secție de Poliție Hill Street", en: "Old Hill Street Police Station" },
-    coordinates: { lat: 1.2913, lng: 103.8475 },
+    coords: [103.8475, 1.2913],
     description: {
       de: "Dieses Gebäude ist berühmt für seine 927 Fenster, die in Regenbogenfarben gestrichen sind. Ursprünglich eine Polizeistation, beherbergt es heute Regierungsbüros.",
       hu: "Ez az épület híres 927 ablakáról, amelyeket a szivárvány színeire festettek. Eredetileg rendőrkapitányság volt, ma kormányzati irodáknak ad otthont.",
@@ -880,7 +880,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-cavenagh-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Cavenagh-Brücke", hu: "Cavenagh híd", ro: "Podul Cavenagh", en: "Cavenagh Bridge" },
-    coordinates: { lat: 1.2867, lng: 103.8521 },
+    coords: [103.8521, 1.2867],
     description: {
       de: "Die Cavenagh-Brücke ist die älteste Brücke Singapurs, die den Singapore River überspannt. Sie ist heute eine reine Fußgängerbrücke und verbindet den Civic District mit dem Commercial Square.",
       hu: "A Cavenagh híd Szingapúr legrégebbi hídja a Szingapúr-folyó felett. Ma kizárólag gyalogos híd, amely a Civic Districtet köti össze a Commercial Square-rel.",
@@ -899,7 +899,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-anderson-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Anderson-Brücke", hu: "Anderson híd", ro: "Podul Anderson", en: "Anderson Bridge" },
-    coordinates: { lat: 1.2877, lng: 103.8528 },
+    coords: [103.8528, 1.2877],
     description: {
       de: "Die Anderson-Brücke ist eine markante Bogenbrücke am Mund des Singapore River. Sie ist ein wichtiger Teil des Singapur-Grand-Prix-Stadtkurses.",
       hu: "Az Anderson híd egy jellegzetes ívhíd a Szingapúr-folyó torkolatánál. Fontos része a szingapúri Grand Prix városi pályájának.",
@@ -918,7 +918,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-elgin-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Elgin-Brücke", hu: "Elgin híd", ro: "Podul Elgin", en: "Elgin Bridge" },
-    coordinates: { lat: 1.2891, lng: 103.849 },
+    coords: [103.849, 1.2891],
     description: {
       de: "Die Elgin-Brücke verbindet North Bridge Road und South Bridge Road. Sie ist bekannt für ihre elegante Stahlbogenkonstruktion und markierte einst den ersten Überquerungspunkt des Flusses.",
       hu: "Az Elgin híd köti össze a North Bridge Roadot és a South Bridge Roadot. Elegáns acélívéről ismert, és egykor a folyó első átkelőhelyét jelölte.",
@@ -937,7 +937,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-benjamin-sheares-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Benjamin-Sheares-Brücke", hu: "Benjamin Sheares híd", ro: "Podul Benjamin Sheares", en: "Benjamin Sheares Bridge" },
-    coordinates: { lat: 1.2925, lng: 103.8655 },
+    coords: [103.8655, 1.2925],
     description: {
       de: "Die Benjamin-Sheares-Brücke ist die längste Brücke Singapurs und bietet einen beeindruckenden Blick auf die Skyline von Marina Bay.",
       hu: "A Benjamin Sheares híd Szingapúr leghosszabb hídja, amely lenyűgöző kilátást nyújt a Marina Bay panorámájára.",
@@ -956,7 +956,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-sun-yat-sen-nanyang-memorial-hall-landmarks-v2",
     type: "museum",
     name: { de: "Sun-Yat-Sen-Nanyang-Gedächtnishalle", hu: "Sun Yat-sen Nanyang Emlékcsarnok", ro: "Sala Memorială Sun Yat Sen Nanyang", en: "Sun Yat Sen Nanyang Memorial Hall" },
-    coordinates: { lat: 1.3283, lng: 103.8468 },
+    coords: [103.8468, 1.3283],
     description: {
       de: "Diese Villa diente Sun Yat-sen als Hauptquartier für seine revolutionären Aktivitäten in Südostasien. Heute ist sie ein Museum, das seinen Beitrag zur chinesischen Revolution würdigt.",
       hu: "Ez a villa szolgált Sun Yat-sen délkelet-ázsiai forradalmi tevékenységeinek bázisaként. Ma múzeum, amely a kínai forradalomhoz való hozzájárulását mutatja be.",
@@ -975,7 +975,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-hwa-chong-institution-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm der Hwa Chong Institution", hu: "Hwa Chong Institution óratorony", ro: "Turnul cu ceas al Instituției Hwa Chong", en: "Hwa Chong Institution Clock Tower" },
-    coordinates: { lat: 1.325, lng: 103.8041 },
+    coords: [103.8041, 1.325],
     description: {
       de: "Der Uhrturm ist ein bekanntes Wahrzeichen im Stadtteil Bukit Timah. Er ist Teil des Hauptgebäudes einer der renommiertesten Schulen Singapurs.",
       hu: "Az óratorony Bukit Timah negyed egyik ismert nevezetessége. Szingapúr egyik legnevesebb iskolájának főépületéhez tartozik.",
@@ -994,7 +994,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-macdonald-house-landmarks-v2",
     type: "landmark",
     name: { de: "MacDonald House", hu: "MacDonald-ház", ro: "Casa MacDonald", en: "MacDonald House" },
-    coordinates: { lat: 1.2991, lng: 103.8469 },
+    coords: [103.8469, 1.2991],
     description: {
       de: "MacDonald House ist ein historisches Backsteingebäude an der Orchard Road. Es war das erste voll klimatisierte Bürogebäude in Südostasien.",
       hu: "A MacDonald-ház egy történelmi téglaépület az Orchard Roadon. Ez volt az első teljesen légkondicionált irodaház Délkelet-Ázsiában.",
@@ -1013,7 +1013,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-cathay-building-landmarks-v2",
     type: "landmark",
     name: { de: "Cathay-Gebäude", hu: "Cathay-épület", ro: "Clădirea Cathay", en: "Cathay Building" },
-    coordinates: { lat: 1.2995, lng: 103.8486 },
+    coords: [103.8486, 1.2995],
     description: {
       de: "Das Cathay-Gebäude war bei seiner Eröffnung der erste Wolkenkratzer Singapurs. Die ursprüngliche Fassade ist erhalten geblieben und in einen modernen Komplex integriert.",
       hu: "A Cathay-épület megnyitásakor Szingapúr első felhőkarcolója volt. Az eredeti homlokzatot megőrizték és egy modern komplexumba építették be.",
@@ -1032,7 +1032,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-henderson-waves-landmarks-v2",
     type: "bridge",
     name: { de: "Henderson-Wellen", hu: "Henderson-hullámok", ro: "Valurile Henderson", en: "Henderson Waves" },
-    coordinates: { lat: 1.2823, lng: 103.8152 },
+    coords: [103.8152, 1.2823],
     description: {
       de: "Die Henderson-Wellen sind die höchste Fußgängerbrücke in Singapur. Sie zeichnen sich durch ihre wellenförmige Struktur aus, die aus geschwungenen Stahl-Rippen besteht.",
       hu: "A Henderson-hullámok Szingapúr legmagasabb gyalogos hídja. Jellegzetessége a hullámzó szerkezet, amely hajlított acélbordákból áll.",
@@ -1051,7 +1051,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-reflections-at-keppel-bay-landmarks-v2",
     type: "landmark",
     name: { de: "Reflections at Keppel Bay", hu: "Reflections at Keppel Bay", ro: "Reflections la Keppel Bay", en: "Reflections at Keppel Bay" },
-    coordinates: { lat: 1.2642, lng: 103.8144 },
+    coords: [103.8144, 1.2642],
     description: {
       de: "Reflections at Keppel Bay ist ein luxuriöser Wohnkomplex am Wasser. Die markanten, geschwungenen Türme wurden vom Stararchitekten Daniel Libeskind entworfen.",
       hu: "A Reflections at Keppel Bay egy luxus lakópark a vízparton. A jellegzetes, hajlított tornyokat a híres építész, Daniel Libeskind tervezte.",
@@ -1070,7 +1070,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-the-interlace-landmarks-v2",
     type: "landmark",
     name: { de: "The Interlace", hu: "The Interlace", ro: "The Interlace", en: "The Interlace" },
-    coordinates: { lat: 1.2811, lng: 103.8037 },
+    coords: [103.8037, 1.2811],
     description: {
       de: "The Interlace ist ein einzigartiger Wohnkomplex, der aus 31 gestapelten Blöcken besteht. Das Design bricht mit dem traditionellen Hochhausstil und schafft zahlreiche Gemeinschaftsgärten.",
       hu: "A The Interlace egy egyedülálló lakópark, amely 31 egymásra rakott blokkból áll. A design szakít a hagyományos felhőkarcoló stílussal, közösségi kerteket hozva létre.",
@@ -1089,7 +1089,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-guoco-tower-landmarks-v2",
     type: "tower",
     name: { de: "Guoco Tower", hu: "Guoco Tower", ro: "Turnul Guoco", en: "Guoco Tower" },
-    coordinates: { lat: 1.2764, lng: 103.8461 },
+    coords: [103.8461, 1.2764],
     description: {
       de: "Der Guoco Tower ist das höchste Gebäude in Singapur. Der gemischt genutzte Wolkenkratzer umfasst Büros, Wohnungen, ein Hotel und Einzelhandelsflächen.",
       hu: "A Guoco Tower Szingapúr legmagasabb épülete. A vegyes használatú felhőkarcoló irodákat, lakásokat, szállodát és üzleteket foglal magában.",
@@ -1108,7 +1108,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-capitaspring-landmarks-v2",
     type: "tower",
     name: { de: "CapitaSpring", hu: "CapitaSpring", ro: "CapitaSpring", en: "CapitaSpring" },
-    coordinates: { lat: 1.2845, lng: 103.851 },
+    coords: [103.851, 1.2845],
     description: {
       de: "CapitaSpring ist ein biophiler Wolkenkratzer mit einem riesigen vertikalen Garten. Er ist eines der neuesten Wahrzeichen im Finanzviertel von Singapur.",
       hu: "A CapitaSpring egy biofil felhőkarcoló hatalmas vertikális kerttel. Szingapúr pénzügyi negyedének egyik legújabb nevezetessége.",
@@ -1127,7 +1127,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-red-dot-design-museum-landmarks-v2",
     type: "museum",
     name: { de: "Red Dot Design Museum", hu: "Red Dot Design Múzeum", ro: "Muzeul de Design Red Dot", en: "Red Dot Design Museum" },
-    coordinates: { lat: 1.2809, lng: 103.8541 },
+    coords: [103.8541, 1.2809],
     description: {
       de: "Dieses Museum an der Marina Bay zeigt preisgekröntes zeitgenössisches Design. Es ist in einem markanten, modernen Glasbau mit geometrischer Form untergebracht.",
       hu: "Ez a Marina Bay-nél található múzeum díjnyertes kortárs designt mutat be. Egy jellegzetes, geometrikus formájú, modern üvegépületben van.",
@@ -1146,7 +1146,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-lee-kong-chian-natural-history-museum-landmarks-v2",
     type: "museum",
     name: { de: "Naturkundemuseum Lee Kong Chian", hu: "Lee Kong Chian Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală Lee Kong Chian", en: "Lee Kong Chian Natural History Museum" },
-    coordinates: { lat: 1.3015, lng: 103.7735 },
+    coords: [103.7735, 1.3015],
     description: {
       de: "Dieses Museum zeigt die Biodiversität Südostasiens und beherbergt drei echte Dinosaurierskelette. Es ist Teil der National University of Singapore.",
       hu: "Ez a múzeum Délkelet-Ázsia biodiverzitását mutatja be, és három valódi dinoszaurusz-csontvázat is őriz. A Szingapúri Nemzeti Egyetem része.",
@@ -1165,7 +1165,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-changi-airport-control-tower-landmarks-v2",
     type: "tower",
     name: { de: "Flughafenkontrollturm Changi", hu: "Changi reptéri irányítótorony", ro: "Turnul de Control Changi", en: "Changi Airport Control Tower" },
-    coordinates: { lat: 1.3582, lng: 103.9877 },
+    coords: [103.9877, 1.3582],
     description: {
       de: "Der Kontrollturm des Flughafens Changi ist ein ikonisches Symbol für Singapurs Status als globales Luftverkehrsdrehkreuz. Er steht 80 Meter hoch über dem Rollfeld.",
       hu: "A Changi repülőtér irányítótornya ikonikus szimbóluma Szingapúr globális légiközlekedési csomópont szerepének. 80 méterrel magasodik a kifutópályák fölé.",
@@ -1184,7 +1184,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-marina-bay-cruise-centre-landmarks-v2",
     type: "port",
     name: { de: "Marina Bay Cruise Centre", hu: "Marina Bay Hajóállomás", ro: "Terminalul de Croazieră Marina Bay", en: "Marina Bay Cruise Centre" },
-    coordinates: { lat: 1.2709, lng: 103.8596 },
+    coords: [103.8596, 1.2709],
     description: {
       de: "Dieses Kreuzfahrtterminal zeichnet sich durch seine markante, wellenförmige Dachkonstruktion aus. Es kann die weltweit größten Kreuzfahrtschiffe abfertigen.",
       hu: "Ez a hajóállomás jellegzetes, hullámzó tetőszerkezetéről ismert. Képes a világ legnagyobb üdülőhajóinak fogadására is.",
@@ -1203,7 +1203,7 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     id: "singapore-abdul-gafoor-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Abdul-Gafoor-Moschee", hu: "Abdul Gafoor-mecset", ro: "Moscheea Abdul Gafoor", en: "Abdul Gafoor Mosque" },
-    coordinates: { lat: 1.3038, lng: 103.853 },
+    coords: [103.853, 1.3038],
     description: {
       de: "Diese Moschee in Little India ist für ihre einzigartige Mischung aus arabischer und Renaissance-Architektur bekannt. Sie ist mit zahlreichen kleinen Minaretten geschmückt.",
       hu: "Ez a Little India-i mecset az arab és a reneszánsz építészet egyedülálló keverékéről ismert. Számos apró minaret díszíti az épületet.",

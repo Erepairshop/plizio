@@ -707,7 +707,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-ruzizi-hippo-ponds-life-v2",
     type: "wildlife",
     name: { de: "Ruzizi-Nilpferdteiche", hu: "Ruzizi víziló-tavak", ro: "Iazurile cu hipopotami Ruzizi", en: "Ruzizi Hippo Ponds" },
-    coordinates: { lat: -3.3312, lng: 29.2745 },
+    coords: [29.2745, -3.3312],
     description: {
       de: "Die Ruzizi-Nilpferdteiche beherbergen große Gruppen von Flusspferden in den Feuchtgebieten nahe der Mündung des Ruzizi-Flusses.",
       hu: "A Ruzizi víziló-tavak a Ruzizi-folyó torkolata közelében fekvő mocsaras területeken adnak otthont jelentős vízilópopulációknak.",
@@ -738,7 +738,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-kibira-chimpanzee-zone-life-v2",
     type: "wildlife",
     name: { de: "Kibira-Schimpansenzone", hu: "Kibira csimpánz-zóna", ro: "Zona cimpanzeilor din Kibira", en: "Kibira Chimpanzee Zone" },
-    coordinates: { lat: -2.9056, lng: 29.5012 },
+    coords: [29.5012, -2.9056],
     description: {
       de: "Dieses Gebiet im Kibira-Nationalpark ist ein wichtiges Schutzgebiet für die vom Aussterben bedrohten Bergschimpansen.",
       hu: "A Kibira Nemzeti Park ezen területe kritikus fontosságú menedékhely a veszélyeztetett hegyi csimpánzok számára.",
@@ -769,7 +769,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-ruvubu-elephant-corridor-life-v2",
     type: "wildlife",
     name: { de: "Ruvubu-Elefantenkorridor", hu: "Ruvubu elefánt-folyosó", ro: "Coridorul elefanților din Ruvubu", en: "Ruvubu Elephant Corridor" },
-    coordinates: { lat: -3.0521, lng: 30.2587 },
+    coords: [30.2587, -3.0521],
     description: {
       de: "Der Ruvubu-Elefantenkorridor ermöglicht die Wanderung von Elefantenherden durch das größte Flusstal Burundis.",
       hu: "A Ruvubu elefánt-folyosó lehetővé teszi az elefántcsordák vándorlását Burundi legnagyobb folyóvölgyén keresztül.",
@@ -800,7 +800,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-tanganyika-endemic-fish-life-v2",
     type: "wildlife",
     name: { de: "Tanganjika-Fischschutzzonen", hu: "Tanganjika endemikus halzónák", ro: "Zonele peștilor endemici din Tanganyika", en: "Tanganyika Endemic Fish Zones" },
-    coordinates: { lat: -3.5044, lng: 29.3512 },
+    coords: [29.3512, -3.5044],
     description: {
       de: "Diese Uferzonen des Tanganjikasees sind bekannt für ihre reiche Vielfalt an endemischen Buntbarschen und anderen Fischarten.",
       hu: "A Tanganjika-tó ezen parti zónái híresek az endemikus sügérfélék és más egyedi halfajok gazdag választékáról.",
@@ -831,7 +831,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-cohoha-bird-marshes-life-v2",
     type: "wildlife",
     name: { de: "Cohoha-Vogelmarschland", hu: "Cohoha-tavi madármocsarak", ro: "Mlaștinile de păsări Cohoha", en: "Lake Cohoha Bird Marshes" },
-    coordinates: { lat: -2.4512, lng: 30.0567 },
+    coords: [30.0567, -2.4512],
     description: {
       de: "Die Sümpfe am Cohohasee bieten ideale Lebensbedingungen für zahlreiche Wasservögel und seltene Sumpf-Antilopen.",
       hu: "A Cohoha-tó mocsárvilága ideális életfeltételeket biztosít számos vízimadár és ritka mocsári antilop számára.",
@@ -862,7 +862,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-mpanda-wetlands-habitat-life-v2",
     type: "wildlife",
     name: { de: "Mpanda-Feuchtgebiet-Habitat", hu: "Mpanda-vizesélőhely", ro: "Habitatul umed Mpanda", en: "Mpanda Wetlands Habitat" },
-    coordinates: { lat: -3.2089, lng: 29.3045 },
+    coords: [29.3045, -3.2089],
     description: {
       de: "Das Mpanda-Feuchtgebiet ist ein bedeutendes Ökosystem für Amphibien und Insekten in der Nähe der Imbo-Ebene.",
       hu: "Az Mpanda-vizesélőhely jelentős ökoszisztéma a kétéltűek és rovarok számára az Imbo-síkság közelében.",
@@ -893,7 +893,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-cibitoke-mixed-fruit-life-v2",
     type: "wildlife",
     name: { de: "Obstgärten von Cibitoke", hu: "Cibitoke gyümölcsöskertjei", ro: "Livezile mixte din Cibitoke", en: "Cibitoke Mixed Fruit Orchards" },
-    coordinates: { lat: -2.8845, lng: 29.1234 },
+    coords: [29.1234, -2.8845],
     description: {
       de: "Die Obstgärten von Cibitoke produzieren eine Vielfalt an tropischen Früchten wie Avocados, Mangos und Papayas.",
       hu: "Cibitoke gyümölcsöskertjei trópusi gyümölcsök széles választékát termik, beleértve az avokádót, mangót és papaját.",
@@ -924,7 +924,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-makamba-palm-plantations-life-v2",
     type: "wildlife",
     name: { de: "Palmplantagen von Makamba", hu: "Makambai pálmaültetvények", ro: "Plantațiile de palmieri din Makamba", en: "Makamba Palm Plantations" },
-    coordinates: { lat: -4.1378, lng: 29.8056 },
+    coords: [29.8056, -4.1378],
     description: {
       de: "Die Palmenplantagen in Makamba sind ein wichtiger Teil der Agrarlandschaft im Süden Burundis und dienen der Ölproduktion.",
       hu: "A makambai pálmaültetvények Burundi déli részének mezőgazdasági tájképét határozzák meg és az olajtermelést szolgálják.",
@@ -955,7 +955,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-gitega-botanical-collection-life-v2",
     type: "museum",
     name: { de: "Botanische Sammlung Gitega", hu: "Gitegai botanikai gyűjtemény", ro: "Colecția botanică din Gitega", en: "Gitega Botanical Collection" },
-    coordinates: { lat: -3.4256, lng: 29.9212 },
+    coords: [29.9212, -3.4256],
     description: {
       de: "Die botanische Sammlung in Gitega bewahrt einheimische Pflanzenarten und dient der wissenschaftlichen Forschung des Landes.",
       hu: "A gitegai botanikai gyűjtemény őshonos növényfajokat őriz és az ország tudományos kutatását szolgálja.",
@@ -986,7 +986,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
     id: "burundi-muramvya-royal-groves-life-v2",
     type: "forest",
     name: { de: "Königliche Haine von Muramvya", hu: "Muramvya királyi ligetei", ro: "Crângurile regale din Muramvya", en: "Muramvya Royal Groves" },
-    coordinates: { lat: -3.2645, lng: 29.6134 },
+    coords: [29.6134, -3.2645],
     description: {
       de: "Die königlichen Haine von Muramvya sind heilige Wälder, in denen traditionelle Pflanzen für zeremonielle Zwecke geschützt werden.",
       hu: "Muramvya királyi ligetei szent erdők, ahol szertartási célokra használt hagyományos növényeket óvnak.",

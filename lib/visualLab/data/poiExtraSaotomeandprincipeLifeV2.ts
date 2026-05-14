@@ -1046,7 +1046,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-rio-malanza-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Rio Malanza Mangroven", hu: "Rio Malanza mangrovék", ro: "Mangrovele Rio Malanza", en: "Rio Malanza Mangroves" },
-    coordinates: { lat: 0.0402, lng: 6.5505 },
+    coords: [6.5505, 0.0402],
     description: {
       de: "Dieses größte zusammenhängende Mangrovengebiet der Insel São Tomé beherbergt zahlreiche seltene Vogelarten und Krustentiere.",
       hu: "São Tomé szigetének legnagyobb összefüggő mangrove-erdeje, amely számos ritka madárfajnak és rákfélének ad otthont.",
@@ -1065,7 +1065,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-tinhosa-grande-life-v2",
     type: "wildlife",
     name: { de: "Tinhosa Grande", hu: "Tinhosa Grande", ro: "Tinhosa Grande", en: "Tinhosa Grande" },
-    coordinates: { lat: 1.3483, lng: 7.0672 },
+    coords: [7.0672, 1.3483],
     description: {
       de: "Diese unbewohnte Felsinsel südlich von Príncipe beherbergt eine der bedeutendsten Seevogelkolonien im Golf von Guinea.",
       hu: "Ez a Príncipe-től délre fekvő lakatlan sziklasziget a Guineai-öböl egyik legjelentősebb tengeri madárkolóniájának ad otthont.",
@@ -1084,7 +1084,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-tinhosa-pequena-life-v2",
     type: "wildlife",
     name: { de: "Tinhosa Pequena", hu: "Tinhosa Pequena", ro: "Tinhosa Pequena", en: "Tinhosa Pequena" },
-    coordinates: { lat: 1.4081, lng: 7.0758 },
+    coords: [7.0758, 1.4081],
     description: {
       de: "Ein kleinerer Nachbar von Tinhosa Grande, der für seine Artenvielfalt bei pelagischen Vögeln und mariner Flora bekannt ist.",
       hu: "A Tinhosa Grande kisebb szomszédja, amely a nyílt tengeri madarak és a tengeri flóra sokszínűségéről ismert.",
@@ -1103,7 +1103,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-abade-wetland-life-v2",
     type: "wildlife",
     name: { de: "Abade-Feuchtgebiet", hu: "Abade mocsárvidék", ro: "Zona umedă Abade", en: "Abade Wetland" },
-    coordinates: { lat: 1.6365, lng: 7.4208 },
+    coords: [7.4208, 1.6365],
     description: {
       de: "Ein wichtiges Sumpfgebiet auf der Insel Príncipe, das als kritischer Lebensraum für endemische Süßwasserfische und Vögel dient.",
       hu: "Fontos mocsári terület Príncipe szigetén, amely kritikus élőhelyként szolgál az endemikus édesvízi halak és madarak számára.",
@@ -1122,7 +1122,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-ilheu-das-cabras-life-v2",
     type: "wildlife",
     name: { de: "Ilhéu das Cabras", hu: "Ilhéu das Cabras", ro: "Ilhéu das Cabras", en: "Ilhéu das Cabras" },
-    coordinates: { lat: 0.4085, lng: 6.7642 },
+    coords: [6.7642, 0.4085],
     description: {
       de: "Zwei kleine Inseln vor der Küste von São Tomé, die für ihre reiche Meeresbiologie und als Rastplatz für Zugvögel bekannt sind.",
       hu: "Két kis sziget São Tomé partjainál, amelyek gazdag tengerbiológiájukról és vonuló madarak pihenőhelyéről ismertek.",
@@ -1141,7 +1141,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-praia-inhame-life-v2",
     type: "wildlife",
     name: { de: "Schildkrötenstrand Praia Inhame", hu: "Praia Inhame teknősfészkelőhely", ro: "Situl de țestoase Praia Inhame", en: "Praia Inhame Turtle Site" },
-    coordinates: { lat: 0.0165, lng: 6.5052 },
+    coords: [6.5052, 0.0165],
     description: {
       de: "Ein geschützter Strandabschnitt im Süden von São Tomé, der zu den wichtigsten Nistplätzen der Echten Karettschildkröte zählt.",
       hu: "Védett tengerparti szakasz São Tomé déli részén, amely a közönséges cserepesteknősök egyik legfontosabb fészkelőhelye.",
@@ -1160,7 +1160,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-sete-pedras-life-v2",
     type: "wildlife",
     name: { de: "Vogelkolonie Sete Pedras", hu: "Sete Pedras madárkolónia", ro: "Colonia de păsări Sete Pedras", en: "Sete Pedras Bird Colony" },
-    coordinates: { lat: 0.0335, lng: 6.7838 },
+    coords: [6.7838, 0.0335],
     description: {
       de: "Eine Gruppe von sieben Felsen im Ozean, die als isolierter Zufluchtsort für seltene Seevögel und marine Arten dienen.",
       hu: "Hét tengeri sziklából álló csoport, amely elszigetelt menedékként szolgál ritka tengeri madarak és tengeri fajok számára.",
@@ -1179,7 +1179,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-lagoa-diogo-nunes-life-v2",
     type: "wildlife",
     name: { de: "Lagoa de Diogo Nunes", hu: "Lagoa de Diogo Nunes", ro: "Lagoa de Diogo Nunes", en: "Lagoa de Diogo Nunes" },
-    coordinates: { lat: 0.3421, lng: 6.7258 },
+    coords: [6.7258, 0.3421],
     description: {
       de: "Ein Küstenfeuchtgebiet im Nordosten von São Tomé, das eine einzigartige Mischung aus Salz- und Süßwasserflora beherbergt.",
       hu: "Parti mocsárvidék São Tomé északkeleti részén, amely a sós- és édesvízi flóra egyedülálló keverékének ad otthont.",
@@ -1198,7 +1198,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-praia-conchas-life-v2",
     type: "wildlife",
     name: { de: "Meeresgebiet Praia das Conchas", hu: "Praia das Conchas tengeri élőhely", ro: "Situl marin Praia das Conchas", en: "Praia das Conchas Marine Site" },
-    coordinates: { lat: 0.4055, lng: 6.6452 },
+    coords: [6.6452, 0.4055],
     description: {
       de: "Dieser Küstenabschnitt ist bekannt für seine enorme Vielfalt an Meeresschnecken und Muscheln sowie seine trockene Küstenvegetation.",
       hu: "Ez a tengerparti szakasz a tengeri csigák és kagylók óriási változatosságáról, valamint száraz parti vegetációjáról ismert.",
@@ -1217,7 +1217,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
     id: "saotomeandprincipe-praia-micondo-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Praia Micondo", hu: "Praia Micondo természetvédelmi terület", ro: "Rezervația naturală Praia Micondo", en: "Praia Micondo Nature Reserve" },
-    coordinates: { lat: 0.1585, lng: 6.7228 },
+    coords: [6.7228, 0.1585],
     description: {
       de: "Ein unberührtes Ästuar- und Strandsystem im Südosten, das als Lebensraum für verschiedene Meeresschildkröten und Küstenvögel dient.",
       hu: "Érintetlen torkolati és tengerparti rendszer délkeleten, amely különféle tengeri teknősök és parti madarak élőhelye.",

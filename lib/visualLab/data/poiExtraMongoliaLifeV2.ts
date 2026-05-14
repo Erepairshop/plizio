@@ -966,7 +966,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-onon-balj-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Onon-Baldsch", hu: "Onon-Balzs Nemzeti Park", ro: "Parcul Național Onon-Balj", en: "Onon-Balj National Park" },
-    coordinates: { lat: 48.9, lng: 111.1 },
+    coords: [111.1, 48.9],
     description: {
       de: "Dieser Park schützt das Quellgebiet des Amur-Flusses und bietet Lebensraum für Sibirische Elche und Braunbären. Er umfasst dichte Lärchenwälder und weite Steppenlandschaften.",
       hu: "Ez a park az Amur folyó forrásvidékét védi, élőhelyet biztosítva a szibériai jávorszarvasoknak és barnamedvéknek. Sűrű vörösfenyőerdők és tágas sztyeppék jellemzik.",
@@ -985,7 +985,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-ulaan-taiga-life-v2",
     type: "wildlife",
     name: { de: "Streng geschütztes Gebiet Ulaan Taiga", hu: "Ulán-tajga Szigorúan Védett Terület", ro: "Zona Strict Protejată Ulaan Taiga", en: "Ulaan Taiga Strictly Protected Area" },
-    coordinates: { lat: 50.8, lng: 99.2 },
+    coords: [99.2, 50.8],
     description: {
       de: "Das Reservat im Norden der Mongolei bewahrt unberührte Taigawälder und alpine Tundra. Es ist ein Rückzugsort für Schneeleoparden und das bedrohte Waldrentier.",
       hu: "Észak-Mongólia ezen rezervátuma érintetlen tajgaerdőket és alpesi tundrát őriz. A hópárducok és a veszélyeztetett erdei rénszarvasok menedékhelye.",
@@ -1004,7 +1004,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-tost-toson-bumba-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Tost Toson Bumba", hu: "Toszt Toszon Bumba Természetvédelmi Terület", ro: "Rezervația Naturală Tost Toson Bumba", en: "Tost Toson Bumba Nature Reserve" },
-    coordinates: { lat: 43.2, lng: 100.5 },
+    coords: [100.5, 43.2],
     description: {
       de: "Dieses Reservat in der Südgobi ist das erste Gebiet der Mongolei, das primär zum Schutz des Schneeleoparden ausgewiesen wurde. Es verbindet zwei große Nationalparks.",
       hu: "Ez a dél-gobi rezervátum az első olyan terület Mongóliában, amelyet elsősorban a hópárduc védelmére jelöltek ki. Két nagy nemzeti parkot köt össze.",
@@ -1023,7 +1023,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-mongol-els-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Mongol Els", hu: "Mongol Elsz Természetvédelmi Terület", ro: "Rezervația Naturală Mongol Els", en: "Mongol Els Nature Reserve" },
-    coordinates: { lat: 47.3, lng: 103.7 },
+    coords: [103.7, 47.3],
     description: {
       de: "Das Reservat schützt einen 80 Kilometer langen Sanddünenstreifen, der eine einzigartige Mischung aus Wüste, Steppe und Waldvegetation beherbergt. Es ist reich an seltener Flora.",
       hu: "A rezervátum egy 80 kilométer hosszú homokdűne-sávot véd, amely a sivatagi, sztyeppei és erdei vegetáció egyedülálló keverékének ad otthont. Ritka flórában gazdag.",
@@ -1042,7 +1042,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-gorkhi-terelj-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Gorkhi-Terelj", hu: "Gorkhi-Terelj Nemzeti Park", ro: "Parcul Național Gorkhi-Terelj", en: "Gorkhi-Terelj National Park" },
-    coordinates: { lat: 48.0, lng: 107.5 },
+    coords: [107.5, 48.0],
     description: {
       de: "Dieser Nationalpark ist bekannt für seine spektakulären Granitformationen und weiten Lärchenwälder. Er beherbergt über 250 Vogelarten und zahlreiche Säugetiere.",
       hu: "Ez a nemzeti park látványos gránitképződményeiről és tágas vörösfenyőerdőiről ismert. Több mint 250 madárfajnak és számos emlősnek ad otthont.",
@@ -1061,7 +1061,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-tengis-shishged-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Tengis-Schischged", hu: "Tengisz-Sisged Nemzeti Park", ro: "Parcul Național Tengis-Shishged", en: "Tengis-Shishged National Park" },
-    coordinates: { lat: 51.5, lng: 98.8 },
+    coords: [98.8, 51.5],
     description: {
       de: "Der Park schützt das abgelegene Tal des Shishged-Flusses und die umliegenden Hochgebirgsketten. Er ist ein wichtiges Refugium für den Taimen, den größten Forellenfisch der Welt.",
       hu: "A park a Sisged folyó távoli völgyét és a környező magashegységeket védi. Fontos menedékhelye a tajmennek, a világ legnagyobb pisztrángféléjének.",
@@ -1080,7 +1080,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-myangan-ugalzat-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Myangan Ugalzat", hu: "Mjangan Ugalzat Nemzeti Park", ro: "Parcul Național Myangan Ugalzat", en: "Myangan-Ugalzat National Park" },
-    coordinates: { lat: 46.4, lng: 92.5 },
+    coords: [92.5, 46.4],
     description: {
       de: "Dieser Park im Altai-Gebirge wurde speziell zum Schutz der Argali-Wildschafe und Steinböcke eingerichtet. Die Landschaft besteht aus schroffen Gipfeln und trockenen Gebirgssteppen.",
       hu: "Ezt az Altaj-hegységben található parkot kifejezetten az argali vadjuhok és kőszáli kecskék védelmére hozták létre. A táj zord csúcsokból és száraz hegyi sztyeppékből áll.",
@@ -1099,7 +1099,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-khyargas-nuur-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Khyargas Nuur", hu: "Hjargasz-tó Nemzeti Park", ro: "Parcul Național Khyargas Nuur", en: "Khyargas Nuur National Park" },
-    coordinates: { lat: 49.0, lng: 93.3 },
+    coords: [93.3, 49.0],
     description: {
       de: "Das Gebiet umfasst den salzhaltigen Khyargas-See und seine Wüstenumgebung. Es ist ein wichtiger Rastplatz für Zugvögel und bekannt für seine bizarren weißen Felsformationen am Ufer.",
       hu: "A terület magában foglalja a sós Hjargasz-tavat és sivatagi környezetét. Fontos pihenőhely a költöző madarak számára, és híres a parton lévő bizarr fehér sziklaalakzatairól.",
@@ -1118,7 +1118,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-small-gobi-a-life-v2",
     type: "wildlife",
     name: { de: "Streng geschütztes Gebiet Kleine Gobi A", hu: "Kis-Gobi A Szigorúan Védett Terület", ro: "Zona Strict Protejată Gobi Mic A", en: "Small Gobi A Strictly Protected Area" },
-    coordinates: { lat: 43.5, lng: 110.0 },
+    coords: [110.0, 43.5],
     description: {
       de: "Dieses Reservat schützt die fragile Wüstenökologie der östlichen Gobi. Es ist ein kritisches Gebiet für das Überleben der mongolischen Gazelle und des Khulan (Wildesel).",
       hu: "Ez a rezervátum a Keleti-Gobi törékeny sivatagi ökológiáját védi. Kritikus terület a mongol gazella és a hulan (vadszamár) túlélése szempontjából.",
@@ -1137,7 +1137,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-small-gobi-b-life-v2",
     type: "wildlife",
     name: { de: "Streng geschütztes Gebiet Kleine Gobi B", hu: "Kis-Gobi B Szigorúan Védett Terület", ro: "Zona Strict Protejată Gobi Mic B", en: "Small Gobi B Strictly Protected Area" },
-    coordinates: { lat: 42.5, lng: 108.5 },
+    coords: [108.5, 42.5],
     description: {
       de: "Angrenzend an den südlichen Teil des Gebiets A, schützt dieser Sektor Wanderkorridore für seltene Huftiere und Brutgebiete für Greifvögel in den Schluchten.",
       hu: "Az A terület déli részével szomszédos szektor ritka patások vándorlási útvonalait és a kanyonokban fészkelő ragadozó madarak költőhelyeit védi.",
@@ -1156,7 +1156,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-ereen-nuur-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Ereen Nuur", hu: "Ereen-tó Természetvédelmi Terület", ro: "Rezervația Naturală Ereen Nuur", en: "Ereen Nuur Nature Reserve" },
-    coordinates: { lat: 47.7, lng: 94.6 },
+    coords: [94.6, 47.7],
     description: {
       de: "Dieses Reservat liegt inmitten der Sanddünen im Westen der Mongolei und umfasst einen Süßwassersee, der ein Paradies für Wasservögel in einer ariden Region ist.",
       hu: "Ez a rezervátum Nyugat-Mongólia homokdűnéi között található, és egy édesvízi tavat foglal magában, amely a vízi madarak paradicsoma az arid régióban.",
@@ -1175,7 +1175,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-nagalkhan-uul-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Nagalkhan Uul", hu: "Nagalkhan Uul Természetvédelmi Terület", ro: "Rezervația Naturală Nagalkhan Uul", en: "Nagalkhan Uul Nature Reserve" },
-    coordinates: { lat: 47.5, lng: 107.8 },
+    coords: [107.8, 47.5],
     description: {
       de: "Nagalkhan Uul bewahrt ein isoliertes Stück Bergwaldsteppe südlich von Ulaanbaatar. Es ist ein wichtiges Refugium für Rothirsche und Wildschweine in der Nähe der Hauptstadt.",
       hu: "A Nagalkhan Uul egy izolált hegyi erdőssztyeppe-foltot őriz Ulánbátortól délre. Fontos menedékhelye a gímszarvasoknak és vaddisznóknak a főváros közelében.",
@@ -1194,7 +1194,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-toson-khulstai-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Toson Khulstai", hu: "Toszon Hulsztaj Természetvédelmi Terület", ro: "Rezervația Naturală Toson Khulstai", en: "Toson Khulstai Nature Reserve" },
-    coordinates: { lat: 48.3, lng: 113.1 },
+    coords: [113.1, 48.3],
     description: {
       de: "Dieses Reservat schützt die weiten Graslandschaften der Ostmongolei, die als Brutstätte für Millionen von mongolischen Gazellen dienen. Es ist eines der letzten intakten Steppenökosysteme.",
       hu: "Ez a rezervátum Kelet-Mongólia tágas füves pusztáit védi, amelyek mongol gazellák millióinak szaporodási helyéül szolgálnak. Az utolsó ép sztyeppei ökoszisztémák egyike.",
@@ -1213,7 +1213,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-batkhan-uul-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Batkhan Uul", hu: "Batkhan Uul Természetvédelmi Terület", ro: "Rezervația Naturală Batkhan Uul", en: "Batkhan Uul Nature Reserve" },
-    coordinates: { lat: 47.2, lng: 104.3 },
+    coords: [104.3, 47.2],
     description: {
       de: "Batkhan Uul markiert den Übergang zwischen der Gobi-Wüste und der Waldsteppe. Der Berg ist für seine dichten Birken- und Kiefernwälder inmitten einer ansonsten kargen Landschaft bekannt.",
       hu: "A Batkhan Uul jelzi az átmenetet a Gobi-sivatag és az erdőssztyeppe között. A hegy sűrű nyír- és fenyőerdőiről ismert a különben kopár táj közepén.",
@@ -1232,7 +1232,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-khurkh-khuiten-life-v2",
     type: "wildlife",
     name: { de: "Flusstal Khurkh-Khuiten", hu: "Hurh-Hujten-folyóvölgy", ro: "Valea Râului Khurkh-Khuiten", en: "Khurkh-Khuiten River Valley" },
-    coordinates: { lat: 48.3, lng: 110.4 },
+    coords: [110.4, 48.3],
     description: {
       de: "Dieses Feuchtgebiet ist einer der weltweit wichtigsten Nistplätze für den gefährdeten Weißnackenkranich. Es besteht aus weitläufigen Sümpfen und nassen Wiesen.",
       hu: "Ez a vizes élőhely a világ egyik legfontosabb fészkelőhelye a veszélyeztetett fehérnyakú daru számára. Kiterjedt mocsarakból és nedves rétekből áll.",
@@ -1251,7 +1251,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-ogii-nuur-life-v2",
     type: "wildlife",
     name: { de: "Vogelschutzgebiet Ogii Nuur", hu: "Ögi-tó Madárrezervátum", ro: "Rezervația de Păsări Ogii Nuur", en: "Ogii Nuur Bird Reserve" },
-    coordinates: { lat: 47.76, lng: 102.78 },
+    coords: [102.78, 47.76],
     description: {
       de: "Der Ogii-See ist ein bedeutender Süßwassersee in der Zentralmongolei, der als wichtiges Habitat für über 150 Wasservogelarten dient. Er ist für seinen Fischreichtum bekannt.",
       hu: "Az Ögi-tó jelentős édesvízi tó Közép-Mongóliában, amely több mint 150 vízimadárfaj fontos élőhelyeként szolgál. Halállományáról is ismert.",
@@ -1270,7 +1270,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-khoridal-saridag-life-v2",
     type: "wildlife",
     name: { de: "Streng geschütztes Gebiet Khoridal Saridag", hu: "Horidal Szaridag Szigorúan Védett Terület", ro: "Zona Strict Protejată Khoridal Saridag", en: "Khoridal Saridag Strictly Protected Area" },
-    coordinates: { lat: 50.9, lng: 99.7 },
+    coords: [99.7, 50.9],
     description: {
       de: "Dieses Reservat westlich des Khövsgöl-Sees schützt alpine Ökosysteme und seltene Tierarten wie den Vielfraß und das Moschustier. Es ist geprägt von schroffen Kalksteingipfeln.",
       hu: "A Hövszgöl-tótól nyugatra fekvő rezervátum alpesi ökoszisztémákat és olyan ritka fajokat véd, mint a rozsomák és a pézsmaszarvas. Zord mészkőcsúcsok jellemzik.",
@@ -1289,7 +1289,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-develiin-ar-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Develiin Ar", hu: "Develiin Ar Természetvédelmi Terület", ro: "Rezervația Naturală Develiin Ar", en: "Develiin Ar Nature Reserve" },
-    coordinates: { lat: 48.8, lng: 92.2 },
+    coords: [92.2, 48.8],
     description: {
       de: "Develiin Ar schützt ein einzigartiges Auensystem am Khovd-Fluss. Es ist bekannt für seine dichten Sanddornbüsche und als wichtiger Lebensraum für Fasane und seltene Nagetiere.",
       hu: "A Develiin Ar egy egyedülálló ártéri rendszert véd a Hovd-folyó mentén. Sűrű homoktövis-bokrairól és fácánok, valamint ritka rágcsálók élőhelyeként ismert.",
@@ -1308,7 +1308,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-bulgan-gol-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Bulgan Gol", hu: "Bulgan-folyó Természetvédelmi Terület", ro: "Rezervația Naturală Bulgan Gol", en: "Bulgan Gol Nature Reserve" },
-    coordinates: { lat: 46.1, lng: 91.2 },
+    coords: [91.2, 46.1],
     description: {
       de: "Dieses Reservat im äußersten Westen schützt den Lebensraum des seltenen Zentralasiatischen Bibers entlang des Bulgan-Flusses. Es umfasst auch wichtige Auwälder.",
       hu: "Ez a távoli nyugati rezervátum a ritka közép-ázsiai hód élőhelyét védi a Bulgan-folyó mentén. Fontos ártéri erdőket is magában foglal.",
@@ -1327,7 +1327,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-ikh-gazriin-chuluu-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Ikh Gazriin Chuluu", hu: "Ikh Gazriin Chuluu Természetvédelmi Terület", ro: "Rezervația Naturală Ikh Gazriin Chuluu", en: "Ikh Gazriin Chuluu Nature Reserve" },
-    coordinates: { lat: 45.7, lng: 107.2 },
+    coords: [107.2, 45.7],
     description: {
       de: "Dieses Gebiet beherbergt beeindruckende Granitformationen, die zahlreichen bedrohten Greifvögeln wie dem Sakerfalken Nistmöglichkeiten bieten. Es ist eine ökologische Insel in der Gobi.",
       hu: "Ez a terület lenyűgöző gránitképződményeknek ad otthont, amelyek számos veszélyeztetett ragadozó madárnak, például a kerecsensólyomnak nyújtanak fészkelőhelyet.",
@@ -1346,7 +1346,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     id: "mongolia-khar-yamaat-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Khar Yamaat", hu: "Khar Yamaat Természetvédelmi Terület", ro: "Rezervația Naturală Khar Yamaat", en: "Khar Yamaat Nature Reserve" },
-    coordinates: { lat: 47.6, lng: 112.5 },
+    coords: [112.5, 47.6],
     description: {
       de: "Khar Yamaat schützt eine Berginsel inmitten der östlichen Steppen. Es ist ein kritischer Lebensraum für Argali-Schafe und beherbergt seltene Reliktpflanzen aus feuchteren Perioden.",
       hu: "A Khar Yamaat egy hegyi szigetet véd a keleti sztyeppék közepén. Az argali juhok kritikus élőhelye, és ritka reliktum növényeknek ad otthont.",

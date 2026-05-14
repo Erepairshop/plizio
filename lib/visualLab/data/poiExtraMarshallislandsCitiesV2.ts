@@ -5,7 +5,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-majuro-cities-v2",
     type: "capital",
     name: { de: "Majuro", hu: "Majuro", ro: "Majuro", en: "Majuro" },
-    coordinates: { lat: 7.1122, lng: 171.3582 },
+    coords: [171.3582, 7.1122],
     description: {
       de: "Majuro ist die Hauptstadt der Marshallinseln und liegt auf einem Korallenatoll. Es ist das wirtschaftliche und politische Zentrum des Landes.",
       hu: "Majuro a Marshall-szigetek fővárosa és egyben legnépesebb települése. A város egy 64 szigetből álló korallzátonyon terül el a Csendes-óceánon.",
@@ -19,12 +19,24 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Capital city since independence in 1986", "Composed of 64 individual islets", "Average elevation is only 3 meters", "Main port for international shipping"],
     },
     imageHint: "Aerial view of Majuro atoll with ocean on both sides",
+    descriptionAdvanced: {
+      de: "Majuro, die Hauptstadt der Marshallinseln, ist ein dicht besiedeltes Atoll mit einer Fläche von etwa 10 km². Die Stadt erstreckt sich über die schmale Landbrücke zwischen dem Pazifik und der Lagune. Historisch war Majuro ein wichtiger Handelsposten während der deutschen Kolonialzeit und später unter japanischer Verwaltung. Heute beherbergt es den internationalen Flughafen und den wichtigsten Hafen des Landes. Die Bevölkerung konzentriert sich auf die schmalen Landstreifen, was zu einer hohen Bevölkerungsdichte führt. Majuro ist das politische und wirtschaftliche Zentrum des Inselstaates, mit Regierungsgebäuden, Banken und Bildungseinrichtungen.",
+      hu: "Majuro, a Marshall-szigetek fővárosa, egy atollon fekszik, amelyet a Csendes-óceán és egy lagúna vesz körül. A város területe mindössze 10 km², de lakossága meghaladja a 28 000 főt, ami rendkívül sűrűn lakottá teszi. Majuro földrajzilag egy keskeny földsávon helyezkedik el, ami kihívások elé állítja a várostervezést. Az atoll alacsony fekvése miatt különösen érzékeny a tengerszint emelkedésére. A város egyben a legfontosabb közlekedési csomópont is, ahonnan a szigetek közötti hajó- és repülőjáratok indulnak. A természeti környezet a korallzátonyok és a tengeri élővilág gazdagságát kínálja.",
+      ro: "Majuro, capitala Insulelor Marshall, este un atol cu o suprafață de aproximativ 10 km², situat în Oceanul Pacific. Economia locală se bazează pe pescuit, turism și servicii guvernamentale. Portul Majuro este esențial pentru comerțul maritim, facilitând exportul de ton și copra. De asemenea, orașul găzduiește birourile principale ale companiilor de transport maritim și ale înregistrării navelor. Infrastructura este concentrată pe fâșia îngustă de uscat, cu drumuri asfaltate și o rețea de electricitate. Provocările majore includ gestionarea deșeurilor și adaptarea la schimbările climatice, care amenință zonele costiere.",
+      en: "Majuro serves as the cultural and administrative hub of the Marshall Islands. The atoll's urban layout is linear, stretching along the narrow strip of land between the ocean and the lagoon. Key landmarks include the Alele Museum, which showcases Marshallese navigation and handicrafts, and the Majuro Bridge connecting the eastern and western parts. The city's architecture reflects a mix of traditional thatched roofs and modern concrete buildings. Education is centered around the College of the Marshall Islands and several public schools. Annual events like the Manit Day festivities celebrate local traditions, including canoe racing and dance performances.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 28.000 (2021)", "Fläche: etwa 10 km²", "Höchster Punkt: weniger als 3 Meter über dem Meeresspiegel", "Anzahl der Inseln im Atoll: 64", "Durchschnittliche Jahrestemperatur: 27°C", "Eröffnung des internationalen Flughafens: 1971"],
+      hu: ["Lakosság: 27 797 fő (2011-es népszámlálás)", "Terület: 9,7 km²", "A lagúna mélysége: eléri a 70 métert", "Távolság a Nemzetközi Date Line-tól: nyugatra", "Éves csapadékmennyiség: 3 000 mm", "A fővárosi körzet kiterjedése: 6,5 km hosszú"],
+      ro: ["Populație: 27.797 (recensământ 2011)", "Suprafață: 9,7 km²", "Numărul de insule din atol: 64", "Altitudine maximă: 3 m", "Producția anuală de ton: peste 20.000 tone", "Lungimea drumului principal: 30 km"],
+      en: ["Population: 27,797 (2011 census)", "Land area: 9.7 km²", "Number of islets in Majuro Atoll: 64", "Maximum elevation: 3 m above sea level", "Annual rainfall: 3,000 mm", "Year of establishment as capital: 1885 (German protectorate)"],
+    },
   },
   {
     id: "marshallislands-ebeye-cities-v2",
     type: "city",
     name: { de: "Ebeye", hu: "Ebeye", ro: "Ebeye", en: "Ebeye" },
-    coordinates: { lat: 8.7781, lng: 167.7408 },
+    coords: [167.7408, 8.7781],
     description: {
       de: "Ebeye ist die bevölkerungsreichste Insel des Kwajalein-Atolls. Sie gilt als einer der am dichtesten besiedelten Orte der Welt.",
       hu: "Ebeye a Kwajalein-atoll legnépesebb szigete a Ralik-szigetcsoportban. A terület a világ egyik legsűrűbben lakott települése.",
@@ -38,12 +50,24 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Total land area is only 0.36 square km", "Over 12,000 residents in a small area", "Primary center for local workforce", "Part of the Ralik Chain of islands"],
     },
     imageHint: "Densely packed houses on Ebeye island in the Pacific",
+    descriptionAdvanced: {
+      de: "Ebeye ist die bevölkerungsreichste Insel des Kwajalein-Atolls und bekannt für ihre hohe Bevölkerungsdichte. Die Insel ist nur 0,36 km² groß, beherbergt aber über 15.000 Menschen. Ursprünglich war Ebeye ein kleines Fischerdorf, entwickelte sich aber während der amerikanischen Militärpräsenz auf Kwajalein zu einer dicht besiedelten Arbeitersiedlung. Die Lebensbedingungen sind aufgrund der Enge und unzureichender Infrastruktur oft schwierig. Dennoch gibt es Schulen, ein Krankenhaus und Geschäfte. Die Wirtschaft ist stark vom US-Militärstützpunkt abhängig.",
+      hu: "Ebeye, a Kwajalein-atoll egyik szigete, a világ egyik legsűrűbben lakott területe. A mindössze 0,36 km²-es szigeten több mint 15 000 ember él. A település a második világháború után nőtte ki magát, amikor az amerikaiak a közeli Kwajalein-szigeten katonai bázist építettek. Ebeye lakói főként a bázison dolgoznak. A sziget alacsony fekvése miatt gyakoriak az áradások. Az infrastruktúra fejlesztése folyamatos kihívást jelent a túlzsúfoltság miatt.",
+      ro: "Ebeye este o insulă din atolul Kwajalein, renumită pentru densitatea extremă a populației. Cu o suprafață de doar 0,36 km², adăpostește peste 15.000 de locuitori. Economia locală depinde în mare măsură de baza militară americană Kwajalein, care oferă locuri de muncă și servicii. Insula se confruntă cu probleme de supraaglomerare, lipsa apei potabile și gestionarea deșeurilor. Deși există școli și un spital, calitatea vieții este sub standarde. Ebeye este un exemplu dramatic al impactului urbanizării accelerate în spații restrânse.",
+      en: "Ebeye is the most densely populated island in the Marshall Islands, with a population density exceeding 40,000 per km². The island's history is tied to the US military presence on Kwajalein Atoll, where many residents work in support roles. Despite its small size, Ebeye has a vibrant community with churches, markets, and sports fields. The island is connected to Kwajalein by a regular ferry service. Challenges include limited land area, waste management, and vulnerability to sea-level rise. Community efforts focus on sustainable development and improving living conditions.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 0,36 km²", "Einwohnerzahl: ca. 15.000 (Schätzung 2022)", "Bevölkerungsdichte: über 41.000 pro km²", "Entfernung zum Kwajalein-Stützpunkt: 3 km", "Anzahl der Wohnblöcke: etwa 50", "Errichtung der ersten Siedlung: 1950er Jahre"],
+      hu: ["Terület: 0,36 km²", "Lakosság: 15 000 fő", "Népsűrűség: 41 667 fő/km²", "A sziget hossza: 1,5 km", "Iskolák száma: 4", "Egy főre jutó terület: 24 m²"],
+      ro: ["Suprafață: 0,36 km²", "Populație: 15.000", "Densitate: 41.667 locuitori/km²", "Distanța față de atolul Kwajalein: 3 km", "Număr de școli: 4", "Anul construirii bazei militare: 1944"],
+      en: ["Land area: 0.36 km²", "Population: approx. 15,000 (2020 estimate)", "Population density: >40,000 per km²", "Distance to Kwajalein Island: 3 km", "Number of households: ~2,500", "Year of establishment: 1950s"],
+    },
   },
   {
     id: "marshallislands-ajeltake-cities-v2",
     type: "town",
     name: { de: "Ajeltake", hu: "Ajeltake", ro: "Ajeltake", en: "Ajeltake" },
-    coordinates: { lat: 7.0522, lng: 171.1394 },
+    coords: [171.1394, 7.0522],
     description: {
       de: "Ajeltake ist eine bedeutende Siedlung auf dem Majuro-Atoll. Der Ort liegt im westlichen Teil des Atolls und ist wohnwirtschaftlich geprägt.",
       hu: "Ajeltake egy jelentős település a Majuro-atoll nyugati részén. A közösség lakóövezeti jellegű és közvetlen tengerparti kapcsolattal bír.",
@@ -57,12 +81,24 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Located about 15 kilometers from Delap", "Part of the Majuro municipality", "Key residential area for commuters", "Situated directly on the lagoon side"],
     },
     imageHint: "Coastal road and houses in Ajeltake Majuro",
+    descriptionAdvanced: {
+      de: "Ajeltake ist ein kleines Dorf im Westen von Majuro-Atoll, nahe des internationalen Flughafens. Es ist ein Wohngebiet mit einer wachsenden Bevölkerung. Historisch gesehen war Ajeltake ein traditionelles Fischereidorf. Heute gibt es dort eine Grundschule und einige Geschäfte. Das Dorf ist durch die Hauptstraße mit dem Zentrum von Majuro verbunden. Aufgrund seiner Lage nahe dem Flughafen hat sich hier eine kleine Dienstleistungsbranche entwickelt.",
+      hu: "Ajeltake a Majuro-atoll nyugati részén található falu, közvetlenül a nemzetközi repülőtér mellett. Lakossága az utóbbi években növekszik, mivel sokan költöznek a főváros agglomerációjába. A település alapvető infrastruktúrával rendelkezik, köztük egy általános iskolával. A gazdaságot a helyi kereskedelem és a szolgáltatások jellemzik. Ajeltake a természeti szépségeiről is ismert, a tengerparti területek ideálisak a kikapcsolódásra.",
+      ro: "Ajeltake este un sat situat în partea de vest a atolului Majuro, aproape de Aeroportul Internațional Majuro. Populația este estimată la aproximativ 1.000 de locuitori. Satul servește ca o zonă rezidențială pentru lucrătorii din capitală. Ajeltake are o școală primară și câteva magazine. Pescuitul și micile afaceri locale sunt principalele activități economice. Datorită apropierii de aeroport, există și unele servicii de transport.",
+      en: "Ajeltake is a village on Majuro Atoll, located west of the capital center. It has a population of around 1,200 and is primarily residential. The village features a primary school, a church, and a few retail outlets. Ajeltake's proximity to the airport makes it a convenient location for travelers. Traditional canoe carving is still practiced here. The surrounding lagoon offers opportunities for fishing and small-scale aquaculture. Community activities include weekly markets and cultural festivals.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 1.200 (2020)", "Entfernung zum Flughafen: 1 km", "Anzahl der Geschäfte: etwa 5", "Schulgründung: 1970er Jahre", "Durchschnittliche Haushaltsgröße: 4,5 Personen", "Fläche: etwa 0,2 km²"],
+      hu: ["Lakosság: 1 200 fő", "Távolság a nemzetközi repülőtértől: 1 km", "Iskolák száma: 1", "Faluközpont hossza: 300 m", "Éves esőzés: 2 800 mm", "A repülőtér megnyitása: 1971"],
+      ro: ["Populație: 1.200", "Distanța până la aeroport: 1 km", "Numărul de școli: 1", "Suprafața satului: 0,2 km²", "Anul fondării: 1900-uri", "Densitatea populației: 6.000 locuitori/km²"],
+      en: ["Population: approx. 1,200", "Distance from Majuro city center: 10 km", "Number of schools: 1", "Land area: 0.2 km²", "Year established: early 20th century", "Average household income: $8,000"],
+    },
   },
   {
     id: "marshallislands-laura-cities-v2",
     type: "town",
     name: { de: "Laura", hu: "Laura", ro: "Laura", en: "Laura" },
-    coordinates: { lat: 7.1364, lng: 171.0331 },
+    coords: [171.0331, 7.1364],
     description: {
       de: "Laura liegt am westlichen Ende des Majuro-Atolls und ist für seine Landwirtschaft bekannt. Es verfügt über die größten Süßwasserreserven des Atolls.",
       hu: "Laura a Majuro-atoll legnyugatibb pontján fekszik, és mezőgazdaságáról ismert. Itt találhatók az atoll legnagyobb édesvízkészletei.",
@@ -81,7 +117,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-jabor-cities-v2",
     type: "town",
     name: { de: "Jabor", hu: "Jabor", ro: "Jabor", en: "Jabor" },
-    coordinates: { lat: 5.9175, lng: 169.6453 },
+    coords: [169.6453, 5.9175],
     description: {
       de: "Jabor ist das Verwaltungszentrum des Jaluit-Atolls. Während der deutschen und japanischen Kolonialzeit diente es als wichtiges Handelszentrum.",
       hu: "Jabor a Jaluit-atoll adminisztratív központja. A német és japán gyarmati időkben fontos kereskedelmi csomópontként funkcionált.",
@@ -100,7 +136,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-wotje-cities-v2",
     type: "town",
     name: { de: "Wotje", hu: "Wotje", ro: "Wotje", en: "Wotje" },
-    coordinates: { lat: 9.4544, lng: 170.2408 },
+    coords: [170.2408, 9.4544],
     description: {
       de: "Wotje ist die größte Siedlung auf dem gleichnamigen Atoll. Im Zweiten Weltkrieg befand sich hier ein bedeutender japanischer Luftwaffenstützpunkt.",
       hu: "Wotje a Wotje-atoll legnagyobb települése. A második világháború alatt jelentős japán légibázis működött a területén.",
@@ -119,7 +155,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-enewetak-cities-v2",
     type: "village",
     name: { de: "Enewetak", hu: "Enewetak", ro: "Enewetak", en: "Enewetak" },
-    coordinates: { lat: 11.3414, lng: 162.3333 },
+    coords: [162.3333, 11.3414],
     description: {
       de: "Enewetak ist eine Siedlung auf dem gleichnamigen Atoll im Westen des Landes. Der Ort wurde nach den Atomtests der USA wiederbesiedelt.",
       hu: "Enewetak az ország nyugati részén, az azonos nevű atollon található település. A területet az amerikai atomkísérletek után telepítették be újra.",
@@ -138,7 +174,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-kili-cities-v2",
     type: "village",
     name: { de: "Kili", hu: "Kili", ro: "Kili", en: "Kili" },
-    coordinates: { lat: 5.6417, lng: 169.1167 },
+    coords: [169.1167, 5.6417],
     description: {
       de: "Kili ist eine isolierte Insel im Ralik-Archipel. Sie dient als Siedlungsort für die Bewohner des Bikini-Atolls, die ihre Heimat verlassen mussten.",
       hu: "Kili egy elszigetelt sziget a Ralik-szigetcsoportban. A Bikini-atollról kitelepített lakosok otthonaként szolgál.",
@@ -157,7 +193,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-namu-cities-v2",
     type: "village",
     name: { de: "Namu", hu: "Namu", ro: "Namu", en: "Namu" },
-    coordinates: { lat: 8.2167, lng: 168.1667 },
+    coords: [168.1667, 8.2167],
     description: {
       de: "Namu ist eine traditionelle Siedlung auf dem Namu-Atoll. Es ist ein wichtiges kulturelles Zentrum und bekannt für den Erhalt lokaler Bräuche.",
       hu: "Namu egy hagyományos település a Namu-atollon. Fontos kulturális központ, amely a helyi szokások megőrzéséről híres.",
@@ -176,7 +212,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-mejit-cities-v2",
     type: "village",
     name: { de: "Mejit", hu: "Mejit", ro: "Mejit", en: "Mejit" },
-    coordinates: { lat: 10.2833, lng: 170.8667 },
+    coords: [170.8667, 10.2833],
     description: {
       de: "Mejit ist eine einzigartige Insel, die kein Atoll bildet. Sie ist für ihren Süßwassersee und die fruchtbaren Böden bekannt.",
       hu: "Mejit egy különleges sziget, amely nem alkot atollt. Híres édesvizű taváról és rendkívül termékeny talajáról.",
@@ -195,7 +231,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-woja-cities-v2",
     type: "village",
     name: { de: "Woja", hu: "Woja", ro: "Woja", en: "Woja" },
-    coordinates: { lat: 7.4167, lng: 168.8167 },
+    coords: [168.8167, 7.4167],
     description: {
       de: "Woja ist eine bedeutende Siedlung auf dem Ailinglaplap-Atoll. Es ist ein Zentrum für die Produktion von Kopra und traditionellem Handwerk.",
       hu: "Woja egy jelentős település az Ailinglaplap-atollon. A község a kopra-termelés és a hagyományos kézművesség egyik központja.",
@@ -214,7 +250,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-aur-cities-v2",
     type: "village",
     name: { de: "Aur", hu: "Aur", ro: "Aur", en: "Aur" },
-    coordinates: { lat: 8.2667, lng: 171.1 },
+    coords: [171.1, 8.2667],
     description: {
       de: "Aur ist die Hauptsiedlung des Aur-Atolls. Die Bewohner leben hauptsächlich vom Fischfang und der Ernte von Kokosnüssen.",
       hu: "Aur az Aur-atoll központi települése. A lakosok megélhetését elsősorban a halászat és a kókuszdió-termesztés biztosítja.",
@@ -233,7 +269,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-mili-cities-v2",
     type: "village",
     name: { de: "Mili", hu: "Mili", ro: "Mili", en: "Mili" },
-    coordinates: { lat: 6.0833, lng: 171.7333 },
+    coords: [171.7333, 6.0833],
     description: {
       de: "Mili ist das Verwaltungszentrum des Mili-Atolls. Es war ein wichtiger Schauplatz während des Pazifikkrieges im Zweiten Weltkrieg.",
       hu: "Mili a Mili-atoll adminisztratív központja. A második világháború alatt a csendes-óceáni hadszíntér fontos helyszíne volt.",
@@ -252,7 +288,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-maloelap-cities-v2",
     type: "village",
     name: { de: "Maloelap", hu: "Maloelap", ro: "Maloelap", en: "Maloelap" },
-    coordinates: { lat: 8.7, lng: 171.1667 },
+    coords: [171.1667, 8.7],
     description: {
       de: "Maloelap ist eine Siedlung auf dem Maloelap-Atoll. Der Ort war früher ein bedeutender Standort für die japanische Luftwaffe.",
       hu: "Maloelap a Maloelap-atoll egyik települése. A terület korábban a japán légierő egyik jelentős bázisa volt.",
@@ -271,7 +307,7 @@ export const marshallislandsCitiesV2: POI[] = [
     id: "marshallislands-arno-cities-v2",
     type: "village",
     name: { de: "Arno", hu: "Arno", ro: "Arno", en: "Arno" },
-    coordinates: { lat: 7.0667, lng: 171.7167 },
+    coords: [171.7167, 7.0667],
     description: {
       de: "Arno ist die Hauptsiedlung auf dem Arno-Atoll, das Majuro am nächsten liegt. Es ist bekannt für seine Kopra-Produktion und reiche Fischgründe.",
       hu: "Arno az Arno-atoll központja, amely a legközelebb fekszik Majuro-hoz. Híres a kopra-termeléséről és gazdag halállományáról.",

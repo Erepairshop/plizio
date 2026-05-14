@@ -715,7 +715,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-amata-city-chonburi-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Amata City Chonburi", hu: "Amata City Chonburi Ipari Park", ro: "Zona Industrială Amata City Chonburi", en: "Amata City Chonburi Industrial Estate" },
-    coordinates: { lat: 13.4333, lng: 101.0012 },
+    coords: [101.0012, 13.4333],
     description: {
       de: "Eines der größten Industriegebiete Thailands im Eastern Economic Corridor gelegen. Es beherbergt Hunderte internationale Unternehmen.",
       hu: "Thaiföld egyik legnagyobb ipari parkja a Keleti Gazdasági Folyosó szívében. Több száz nemzetközi vállalatnak ad otthont.",
@@ -734,7 +734,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-amata-city-rayong-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Amata City Rayong", hu: "Amata City Rayong Ipari Park", ro: "Zona Industrială Amata City Rayong", en: "Amata City Rayong Industrial Estate" },
-    coordinates: { lat: 12.9345, lng: 101.1023 },
+    coords: [101.1023, 12.9345],
     description: {
       de: "Ein bedeutendes Industriezentrum in Rayong, das sich auf Automobilproduktion und Logistik spezialisiert hat.",
       hu: "Jelentős ipari központ Rayongban, amely autógyártásra és logisztikára specializálódott.",
@@ -753,7 +753,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-rojana-ayutthaya-economic-v2",
     type: "factory",
     name: { de: "Rojana Industriepark Ayutthaya", hu: "Rojana Ipari Park Ayutthaya", ro: "Parcul Industrial Rojana Ayutthaya", en: "Rojana Industrial Park Ayutthaya" },
-    coordinates: { lat: 14.3121, lng: 100.6542 },
+    coords: [100.6542, 14.3121],
     description: {
       de: "Ein wichtiges Zentrum für die Elektronikfertigung in Zentralthailand, bekannt für seine Hochtechnologie-Betriebe.",
       hu: "Fontos elektronikai gyártási központ Közép-Thaiföldön, amely csúcstechnológiás üzemeiről ismert.",
@@ -772,7 +772,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-hitech-ayutthaya-economic-v2",
     type: "industry",
     name: { de: "Hi-Tech Industriegebiet Ayutthaya", hu: "Hi-Tech Ipari Park Ayutthaya", ro: "Zona Industrială Hi-Tech Ayutthaya", en: "Hi-Tech Industrial Estate Ayutthaya" },
-    coordinates: { lat: 14.2456, lng: 100.6012 },
+    coords: [100.6012, 14.2456],
     description: {
       de: "Ein hochmodernes Industriegebiet, das auf Präzisionsfertigung und Elektronik spezialisiert ist.",
       hu: "Ultramodern ipari park, amely precíziós gyártásra és elektronikára szakosodott.",
@@ -791,7 +791,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-bang-pu-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Bang Pu", hu: "Bang Pu Ipari Park", ro: "Zona Industrială Bang Pu", en: "Bang Pu Industrial Estate" },
-    coordinates: { lat: 13.5234, lng: 100.6567 },
+    coords: [100.6567, 13.5234],
     description: {
       de: "Ein etabliertes Industriegebiet in der Provinz Samut Prakan, nahe der Küste des Golfs von Thailand.",
       hu: "Egy jól kiépült ipari park Samut Prakan tartományban, a Thai-öböl partjának közelében.",
@@ -810,7 +810,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-navanakorn-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Navanakorn", hu: "Navanakorn Ipari Park", ro: "Zona Industrială Navanakorn", en: "Navanakorn Industrial Estate" },
-    coordinates: { lat: 14.1234, lng: 100.6123 },
+    coords: [100.6123, 14.1234],
     description: {
       de: "Das älteste Industriegebiet Thailands, das eine eigene Industriegemeinde mit Wohngebieten bildet.",
       hu: "Thaiföld legrégebbi ipari parkja, amely önálló ipari közösséget alkot lakónegyedekkel.",
@@ -829,7 +829,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-304-industrial-park-economic-v2",
     type: "factory",
     name: { de: "Industriepark 304 Prachinburi", hu: "304-es Ipari Park Prachinburi", ro: "Parcul Industrial 304 Prachinburi", en: "304 Industrial Park Prachinburi" },
-    coordinates: { lat: 13.8876, lng: 101.5543 },
+    coords: [101.5543, 13.8876],
     description: {
       de: "Ein strategischer Industriepark im Osten Thailands, spezialisiert auf die Automobil- und Elektronikbranche.",
       hu: "Stratégiai ipari park Kelet-Thaiföldön, autóipari és elektronikai szakosodással.",
@@ -848,7 +848,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-lat-krabang-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Lat Krabang", hu: "Lat Krabang Ipari Park", ro: "Zona Industrială Lat Krabang", en: "Lat Krabang Industrial Estate" },
-    coordinates: { lat: 13.789, lng: 100.7912 },
+    coords: [100.7912, 13.789],
     description: {
       de: "Ein wichtiges Industriegebiet im Osten Bangkoks, ideal gelegen für den Luftfrachtexport.",
       hu: "Fontos ipari park Bangkok keleti részén, ideális helyen a légi áruszállításhoz.",
@@ -867,7 +867,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-bangkadi-industrial-economic-v2",
     type: "factory",
     name: { de: "Bangkadi Industriepark", hu: "Bangkadi Ipari Park", ro: "Parcul Industrial Bangkadi", en: "Bangkadi Industrial Park" },
-    coordinates: { lat: 13.9789, lng: 100.5432 },
+    coords: [100.5432, 13.9789],
     description: {
       de: "Ein privater Industriepark in Pathum Thani, der auf Hochtechnologie und saubere Industrien fokussiert ist.",
       hu: "Magánkézben lévő ipari park Pathum Thaniban, amely a csúcstechnológiára és tiszta iparágakra összpontosít.",
@@ -886,7 +886,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-mae-sot-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Mae Sot", hu: "Mae Sot Különleges Gazdasági Övezet", ro: "Zona Economică Specială Mae Sot", en: "Mae Sot Special Economic Zone" },
-    coordinates: { lat: 16.7123, lng: 98.5678 },
+    coords: [98.5678, 16.7123],
     description: {
       de: "Ein wichtiges Handelszentrum an der Grenze zu Myanmar, das den grenzüberschreitenden Handel fördert.",
       hu: "Fontos kereskedelmi központ a mianmari határon, amely elősegíti a határokon átnyúló kereskedelmet.",
@@ -905,7 +905,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-mukdahan-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Mukdahan", hu: "Mukdahan Különleges Gazdasági Övezet", ro: "Zona Economică Specială Mukdahan", en: "Mukdahan Special Economic Zone" },
-    coordinates: { lat: 16.5432, lng: 104.7345 },
+    coords: [104.7345, 16.5432],
     description: {
       de: "Ein strategischer Handelsknotenpunkt am Mekong, der Thailand mit Laos und Vietnam verbindet.",
       hu: "Stratégiai kereskedelmi csomópont a Mekong partján, amely összeköti Thaiföldet Laosszal és Vietnammal.",
@@ -924,7 +924,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-gateway-city-economic-v2",
     type: "industry",
     name: { de: "Gateway City Industriegebiet", hu: "Gateway City Ipari Park", ro: "Zona Industrială Gateway City", en: "Gateway City Industrial Estate" },
-    coordinates: { lat: 13.5912, lng: 101.3678 },
+    coords: [101.3678, 13.5912],
     description: {
       de: "Ein großes Industriegebiet in Chachoengsao, das sich auf Automobilteile und Metallverarbeitung konzentriert.",
       hu: "Nagy ipari park Chachoengsaoban, amely autóalkatrészekre és fémfeldolgozásra összpontosít.",
@@ -943,7 +943,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-saha-group-siriracha-economic-v2",
     type: "industry",
     name: { de: "Saha Group Industriepark Si Racha", hu: "Saha Group Ipari Park Si Racha", ro: "Parcul Industrial Saha Group Si Racha", en: "Saha Group Industrial Park Si Racha" },
-    coordinates: { lat: 13.1567, lng: 100.9543 },
+    coords: [100.9543, 13.1567],
     description: {
       de: "Ein bedeutender Industriepark, der von einem der größten thailändischen Konsumgüterhersteller betrieben wird.",
       hu: "Thaiföld egyik legnagyobb fogyasztási cikk gyártója által üzemeltetett jelentős ipari park.",
@@ -962,7 +962,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-wellgrow-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Wellgrow", hu: "Wellgrow Ipari Park", ro: "Zona Industrială Wellgrow", en: "Wellgrow Industrial Estate" },
-    coordinates: { lat: 13.5432, lng: 100.9567 },
+    coords: [100.9567, 13.5432],
     description: {
       de: "Ein bevorzugtes Industriegebiet für mittelständische Unternehmen in der Provinz Chachoengsao.",
       hu: "Középvállalkozások által kedvelt ipari park Chachoengsao tartományban.",
@@ -981,7 +981,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-pinthong-industrial-economic-v2",
     type: "industry",
     name: { de: "Pinthong Industriepark", hu: "Pinthong Ipari Park", ro: "Parcul Industrial Pinthong", en: "Pinthong Industrial Estate" },
-    coordinates: { lat: 13.1234, lng: 101.0234 },
+    coords: [101.0234, 13.1234],
     description: {
       de: "Ein modern geführtes Industriegebiet in Chonburi, das für seine Logistikdienstleistungen bekannt ist.",
       hu: "Modern vezetésű ipari park Chonburiban, amely logisztikai szolgáltatásairól ismert.",
@@ -1000,7 +1000,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-hemaraj-eastern-economic-v2",
     type: "industry",
     name: { de: "Hemaraj Eastern Industriegebiet", hu: "Hemaraj Eastern Ipari Park", ro: "Zona Industrială Hemaraj Eastern", en: "Hemaraj Eastern Industrial Estate" },
-    coordinates: { lat: 12.689, lng: 101.1678 },
+    coords: [101.1678, 12.689],
     description: {
       de: "Ein führendes Industriezentrum für die petrochemische Industrie und Energiewirtschaft in Rayong.",
       hu: "Vezető ipari központ a vegyipar és az energiaipar számára Rayongban.",
@@ -1019,7 +1019,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-phuket-deep-sea-port-economic-v2",
     type: "port",
     name: { de: "Phuket Tiefseehafen", hu: "Phuket Mélytengeri Kikötő", ro: "Portul de Mare Adâncime Phuket", en: "Phuket Deep Sea Port" },
-    coordinates: { lat: 7.8234, lng: 98.4123 },
+    coords: [98.4123, 7.8234],
     description: {
       de: "Der wichtigste Handelshafen der Insel Phuket, der sowohl Kreuzfahrtschiffe als auch Fracht abfertigt.",
       hu: "Phuket szigetének legfontosabb kereskedelmi kikötője, amely tengerjárókat és áruszállítókat is fogad.",
@@ -1038,7 +1038,7 @@ export const poiExtraThailandEconomicV2: POI[] = [
     id: "thailand-nakhon-phanom-trade-economic-v2",
     type: "industry",
     name: { de: "Handelszone Nakhon Phanom", hu: "Nakhon Phanom Kereskedelmi Övezet", ro: "Zona Comercială Nakhon Phanom", en: "Nakhon Phanom Border Trade Zone" },
-    coordinates: { lat: 17.4123, lng: 104.789 },
+    coords: [104.789, 17.4123],
     description: {
       de: "Ein aufstrebendes Wirtschaftszentrum im Nordosten, das den Handel mit Laos über den Mekong abwickelt.",
       hu: "Feltörekvő gazdasági központ az északkeleti országrészben, amely a Laosszal való kereskedelmet bonyolítja.",

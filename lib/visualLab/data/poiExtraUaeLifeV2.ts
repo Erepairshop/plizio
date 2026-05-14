@@ -646,7 +646,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-sharjah-safari-life-v2",
     type: "wildlife",
     name: { de: "Sharjah Safari", hu: "Sharjah Safari", ro: "Sharjah Safari", en: "Sharjah Safari" },
-    coordinates: { lat: 25.275, lng: 55.885 },
+    coords: [55.885, 25.275],
     description: {
       de: "Das größte Safariprojekt außerhalb Afrikas beherbergt über 50.000 Tiere in verschiedenen afrikanischen Biotopen.",
       hu: "A Sharjah Safari az afrikai kontinensen kívül a legnagyobb szafaripark, több mint 50 000 vadállatnak ad otthont.",
@@ -665,7 +665,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-al-hefaiyah-conservation-centre-life-v2",
     type: "wildlife",
     name: { de: "Al Hefaiyah Naturschutzzentrum", hu: "Al Hefaiyah Természetvédelmi Központ", ro: "Centrul de Conservare Al Hefaiyah", en: "Al Hefaiyah Conservation Centre" },
-    coordinates: { lat: 24.985, lng: 56.335 },
+    coords: [56.335, 24.985],
     description: {
       de: "Dieses Zentrum widmet sich der Erhaltung und Zucht gefährdeter Tierarten aus den Hajar-Bergen der Emirate.",
       hu: "Ez a központ az Egyesült Arab Emírségek Hajar-hegységének veszélyeztetett állatfajainak megőrzésével foglalkozik.",
@@ -684,7 +684,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-marawah-marine-biosphere-life-v2",
     type: "wildlife",
     name: { de: "Marawah Meeresbiosphärenreservat", hu: "Marawah Tengeri Bioszféra-rezervátum", ro: "Rezervația Biosferei Marine Marawah", en: "Marawah Marine Biosphere Reserve" },
-    coordinates: { lat: 24.28, lng: 53.25 },
+    coords: [53.25, 24.28],
     description: {
       de: "Das erste UNESCO-Biosphärenreservat der VAE schützt wichtige Populationen von Dugongs und Meeresschildkröten.",
       hu: "Az Emírségek első UNESCO bioszféra-rezervátuma a dugongok és teknősök kritikus élőhelyeit védi.",
@@ -703,7 +703,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-dubai-turtle-rehabilitation-life-v2",
     type: "wildlife",
     name: { de: "Dubai Schildkröten-Rehabilitationsprojekt", hu: "Dubaji Teknős Rehabilitációs Projekt", ro: "Proiectul de Reabilitare a Țestoaselor din Dubai", en: "Dubai Turtle Rehabilitation Project" },
-    coordinates: { lat: 25.14, lng: 55.185 },
+    coords: [55.185, 25.14],
     description: {
       de: "Das Projekt rettet und rehabilitiert kranke Meeresschildkröten, bevor sie zurück in den Golf gelassen werden.",
       hu: "A projekt beteg tengeri teknősök mentésével és gyógyításával foglalkozik Dubaj partjainál.",
@@ -722,7 +722,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-bu-tinah-shoal-life-v2",
     type: "wildlife",
     name: { de: "Bu Tinah Korallenbank", hu: "Bu Tinah Korallzátony", ro: "Reciful Bu Tinah", en: "Bu Tinah Shoal" },
-    coordinates: { lat: 24.6, lng: 53.1 },
+    coords: [53.1, 24.6],
     description: {
       de: "Dieses geschützte Korallenarchipel ist ein wichtiger Lebensraum für Flamingos und seltene Meeressäugetiere.",
       hu: "Ez a védett korallzátony kiemelt élőhelye a flamingóknak és ritka tengeri emlősöknek.",
@@ -741,7 +741,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-sharjah-botanical-museum-life-v2",
     type: "museum",
     name: { de: "Botanisches Museum Sharjah", hu: "Sharjah Botanikai Múzeum", ro: "Muzeul Botanic din Sharjah", en: "Sharjah Botanical Museum" },
-    coordinates: { lat: 25.27, lng: 55.7 },
+    coords: [55.7, 25.27],
     description: {
       de: "Das Museum dokumentiert die Entwicklung der Pflanzenwelt in der Region von Urzeiten bis zur heutigen Flora.",
       hu: "A múzeum a régió növényvilágának fejlődését mutatja be az őskortól napjaink flórájáig.",
@@ -760,7 +760,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-yas-gateway-park-life-v2",
     type: "park",
     name: { de: "Yas Gateway Park", hu: "Yas Gateway Park", ro: "Parcul Yas Gateway", en: "Yas Gateway Park" },
-    coordinates: { lat: 24.49, lng: 54.6 },
+    coords: [54.6, 24.49],
     description: {
       de: "Ein weitläufiger Stadtpark auf Yas Island, der als grüne Oase mit Tausenden von Bäumen dient.",
       hu: "Tágas városi park Yas-szigeten, amely több ezer fával beültetett zöld oázisként funkcionál.",
@@ -779,7 +779,7 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "uae-dubai-dolphinarium-life-v2",
     type: "wildlife",
     name: { de: "Dubai Dolphinarium", hu: "Dubaji Delfinárium", ro: "Delfinariul din Dubai", en: "Dubai Dolphinarium" },
-    coordinates: { lat: 25.235, lng: 55.33 },
+    coords: [55.33, 25.235],
     description: {
       de: "Diese Anlage im Creek Park bietet Begegnungen mit Delfinen sowie Bildungsprogramme über Meeressäuger.",
       hu: "Ez a Creek Parkban található létesítmény delfin-bemutatókat és oktatási programokat kínál.",

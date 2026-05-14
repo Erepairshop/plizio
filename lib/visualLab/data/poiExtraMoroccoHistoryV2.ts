@@ -1104,7 +1104,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-al-qaraouiyine-library-history-v2",
     type: "museum",
     name: { de: "Al-Qarawiyyin-Bibliothek", hu: "Al-Karavijjín Könyvtár", ro: "Biblioteca Al-Qarawiyyin", en: "Al-Qarawiyyin Library" },
-    coordinates: { lat: 34.063, lng: -4.974 },
+    coords: [-4.974, 34.063],
     description: {
       de: "Diese in Fes gelegene Bibliothek wurde 859 gegründet und gilt als eine der ältesten funktionsfähigen Bibliotheken der Welt. Sie beherbergt eine bedeutende Sammlung antiker arabischer Manuskripte und historischer Dokumente.",
       hu: "A 859-ben alapított, Fes-ben található könyvtár a világ egyik legrégebbi működő könyvtára. Jelentős ókori arab kéziratgyűjteménynek és történelmi dokumentumnak ad otthont.",
@@ -1123,7 +1123,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-borj-al-kamra-history-v2",
     type: "tower",
     name: { de: "Borj al-Kamra", hu: "Borj al-Kamra", ro: "Borj al-Kamra", en: "Borj al-Kamra" },
-    coordinates: { lat: 32.327, lng: -6.828 },
+    coords: [-6.828, 32.327],
     description: {
       de: "Der Borj al-Kamra ist ein historischer Verteidigungsturm aus dem 16. Jahrhundert in der Nähe von Azemmour. Er wurde während der portugiesischen Präsenz in der Region als Teil des Befestigungssystems errichtet.",
       hu: "A Borj al-Kamra egy 16. századi történelmi védőtorony Azemmour közelében. A régióban zajló portugál jelenlét idején építették a védelmi rendszer részeként.",
@@ -1142,7 +1142,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-ksar-taourirt-ouarzazate-history-v2",
     type: "ruins",
     name: { de: "Ksar Taourirt (Ouarzazate)", hu: "Taourirt Kszár (Ouarzazate)", ro: "Ksar Taourirt (Ouarzazate)", en: "Ksar Taourirt (Ouarzazate)" },
-    coordinates: { lat: 30.914, lng: -6.892 },
+    coords: [-6.892, 30.914],
     description: {
       de: "Dieser befestigte Ksar aus dem 17. Jahrhundert diente als Knotenpunkt für die Trans-Sahara-Handelsrouten. Die Lehmziegelarchitektur ist ein typisches Beispiel für die Bauweise im Draa-Tal.",
       hu: "Ez a 17. századi erődített kszár a transz-szaharai kereskedelmi útvonalak csomópontjaként szolgált. Vályogépítészete a Draa-völgy jellegzetes építési módját mutatja.",
@@ -1161,7 +1161,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-ribat-al-fath-history-v2",
     type: "monument",
     name: { de: "Ribat al-Fath", hu: "Ribat al-Fath", ro: "Ribat al-Fath", en: "Ribat al-Fath" },
-    coordinates: { lat: 34.025, lng: -6.835 },
+    coords: [-6.835, 34.025],
     description: {
       de: "Ribat al-Fath ist der historische Kern des heutigen Rabats, gegründet im 12. Jahrhundert durch die Almohaden. Das Gebiet umfasst bedeutende Verteidigungsanlagen aus dieser Ära.",
       hu: "Ribat al-Fath a mai Rabat történelmi magja, amelyet a 12. században alapítottak az Almohádok. A terület jelentős, ebből az korszakból származó védelmi létesítményeket foglal magában.",
@@ -1180,7 +1180,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-el-mansouria-kasbah-history-v2",
     type: "castle",
     name: { de: "Kasbah von El Mansouria", hu: "El Mansouria Kszár", ro: "Kasbah din El Mansouria", en: "Kasbah of El Mansouria" },
-    coordinates: { lat: 33.725, lng: -7.268 },
+    coords: [-7.268, 33.725],
     description: {
       de: "Diese Kasbah nahe Mohammedia wurde im 16. Jahrhundert errichtet. Sie diente als Küstenbefestigung, um den Zugang zur Region vor maritimen Übergriffen zu schützen.",
       hu: "Ez a Mohammedia közelében található kszár a 16. században épült. Parti erődítményként szolgált, hogy megvédje a régióhoz való hozzáférést a tengeri támadásoktól.",
@@ -1199,7 +1199,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-tomb-of-youssuf-ibn-tashfin-history-v2",
     type: "monument",
     name: { de: "Grabmal von Yusuf ibn Tashfin", hu: "Juszuf ibn Tasfin sírja", ro: "Mormântul lui Yusuf ibn Tashfin", en: "Tomb of Yusuf ibn Tashfin" },
-    coordinates: { lat: 31.625, lng: -7.986 },
+    coords: [-7.986, 31.625],
     description: {
       de: "Dieses historische Mausoleum in Marrakesch beherbergt die sterblichen Überreste des Almoraviden-Herrschers Yusuf ibn Tashfin. Er gilt als Gründer der Stadt Marrakesch im 11. Jahrhundert.",
       hu: "Ez a marrakeshi történelmi mauzóleum Juszuf ibn Tasfin almorávida uralkodó földi maradványait őrzi. Őt tartják Marrakesh város alapítójának a 11. században.",
@@ -1218,7 +1218,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-ksar-it-bou-haddou-history-v2",
     type: "ruins",
     name: { de: "Ksar von It Bou Haddou", hu: "It Bou Haddou Kszár", ro: "Ksar din It Bou Haddou", en: "Ksar of It Bou Haddou" },
-    coordinates: { lat: 31.025, lng: -6.312 },
+    coords: [-6.312, 31.025],
     description: {
       de: "Ein traditionelles befestigtes Dorf im Südosten Marokkos. Die Struktur bietet Einblicke in die soziale und architektonische Organisation der berberischen Gesellschaft vor dem 20. Jahrhundert.",
       hu: "Egy hagyományos erődített falu Marokkó délkeleti részén. A szerkezet bepillantást enged a berber társadalom 20. század előtti társadalmi és építészeti szerveződésébe.",
@@ -1237,7 +1237,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-dar-al-makhzen-fes-history-v2",
     type: "palace",
     name: { de: "Dar al-Makhzen (Fes)", hu: "Dar al-Makhzen (Fes)", ro: "Dar al-Makhzen (Fes)", en: "Dar al-Makhzen (Fes)" },
-    coordinates: { lat: 34.055, lng: -5.002 },
+    coords: [-5.002, 34.055],
     description: {
       de: "Der Königspalast in Fes ist ein monumentaler Komplex, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Er ist bekannt für seine prächtige handwerkliche Verzierung der Tore.",
       hu: "A Fes-i királyi palota egy monumentális komplexum, amelynek eredete a 13. századra nyúlik vissza. Híres a kapuk pompás kézműves díszítéséről.",
@@ -1256,7 +1256,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-borj-des-larmes-history-v2",
     type: "tower",
     name: { de: "Borj des Larmes", hu: "Borj des Larmes", ro: "Borj des Larmes", en: "Borj des Larmes" },
-    coordinates: { lat: 35.168, lng: -2.935 },
+    coords: [-2.935, 35.168],
     description: {
       de: "Dieser Wachturm aus der Zeit der spanischen Besatzung Nadors im 20. Jahrhundert markiert die wechselvolle Geschichte der Stadt während des Rif-Krieges.",
       hu: "Ez a Nador 20. századi spanyol megszállása idejéből származó őrtorony a város viszontagságos történetét jelzi a Rif-háború alatt.",
@@ -1275,7 +1275,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-tin-mel-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Tinmel", hu: "Tinmel régészeti helyszín", ro: "Sit arheologic Tinmel", en: "Tinmel Archaeological Site" },
-    coordinates: { lat: 30.985, lng: -8.236 },
+    coords: [-8.236, 30.985],
     description: {
       de: "Tinmel war die Wiege der Almohaden-Dynastie im 12. Jahrhundert. Die archäologischen Überreste der dortigen Moschee sind von herausragender Bedeutung für die muslimische Architektur.",
       hu: "Tinmel az Almohád dinasztia bölcsője volt a 12. században. Az ottani mecset régészeti maradványai kiemelkedő jelentőséggel bírnak az iszlám építészet számára.",
@@ -1294,7 +1294,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-kasbah-of-tetouan-history-v2",
     type: "castle",
     name: { de: "Kasbah von Tetouan", hu: "Tetouan Kszár", ro: "Kasbah din Tetouan", en: "Kasbah of Tetouan" },
-    coordinates: { lat: 35.572, lng: -5.369 },
+    coords: [-5.369, 35.572],
     description: {
       de: "Die Kasbah von Tetouan überblickt die historische Medina und stammt aus dem 15. Jahrhundert. Sie diente zur Verteidigung der Stadt gegen Angriffe vom Meer her.",
       hu: "A Tetouani kszár a történelmi medinára néz, és a 15. századból származik. A város védelmére szolgált a tenger felőli támadások ellen.",
@@ -1313,7 +1313,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-ksar-sidi-abdesslam-history-v2",
     type: "village",
     name: { de: "Ksar Sidi Abdesslam", hu: "Sidi Abdesslam Kszár", ro: "Ksar Sidi Abdesslam", en: "Ksar Sidi Abdesslam" },
-    coordinates: { lat: 35.035, lng: -5.165 },
+    coords: [-5.165, 35.035],
     description: {
       de: "Ein historisches befestigtes Dorf im Norden Marokkos, bekannt für seine religiöse Bedeutung. Der Ort ist mit der Geschichte der dortigen Sufi-Bruderschaften verbunden.",
       hu: "Egy történelmi erődített falu Marokkó északi részén, amely vallási jelentőségéről ismert. A hely az ottani szúfi testvériségek történetéhez kötődik.",
@@ -1332,7 +1332,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-casbah-of-boulaouane-history-v2",
     type: "castle",
     name: { de: "Kasbah von Boulaouane", hu: "Boulaouane Kszár", ro: "Kasbah din Boulaouane", en: "Kasbah of Boulaouane" },
-    coordinates: { lat: 32.885, lng: -7.712 },
+    coords: [-7.712, 32.885],
     description: {
       de: "Diese strategisch gelegene Kasbah am Fluss Oum Er-Rbia wurde 1710 von Sultan Moulay Ismail errichtet. Sie diente als Garnison zur Kontrolle der Region.",
       hu: "Ez a stratégiai fekvésű kszár az Oum Er-Rbia folyónál 1710-ben épült Moulay Ismail szultán által. Helyőrségként szolgált a régió ellenőrzésére.",
@@ -1351,7 +1351,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-borj-nord-museum-history-v2",
     type: "museum",
     name: { de: "Borj Nord Museum", hu: "Borj Nord Múzeum", ro: "Muzeul Borj Nord", en: "Borj Nord Museum" },
-    coordinates: { lat: 34.072, lng: -4.981 },
+    coords: [-4.981, 34.072],
     description: {
       de: "In einer alten Festung aus dem 16. Jahrhundert oberhalb von Fes untergebracht, zeigt dieses Museum eine umfangreiche Sammlung historischer Waffen und Militärtechnik.",
       hu: "A Fes feletti, 16. századi régi erődben elhelyezett múzeum történelmi fegyverek és katonai technológia átfogó gyűjteményét mutatja be.",
@@ -1370,7 +1370,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-medersa-bou-inania-meknes-history-v2",
     type: "university",
     name: { de: "Medersa Bou Inania (Meknes)", hu: "Bou Inania Medresze (Meknes)", ro: "Medersa Bou Inania (Meknes)", en: "Medersa Bou Inania (Meknes)" },
-    coordinates: { lat: 33.892, lng: -5.562 },
+    coords: [-5.562, 33.892],
     description: {
       de: "Diese Medersa aus dem 14. Jahrhundert in Meknes ist ein herausragendes Beispiel für die Meriniden-Architektur mit aufwendig geschnitzten Zedernholz-Details.",
       hu: "Ez a 14. századi meknesi medresze a merinida építészet kiváló példája, bonyolultan faragott cédrusfa részletekkel.",
@@ -1389,7 +1389,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-lixus-amphitheatre-history-v2",
     type: "ruins",
     name: { de: "Amphitheater von Lixus", hu: "Lixus amfiteátrum", ro: "Amfiteatrul din Lixus", en: "Lixus Amphitheatre" },
-    coordinates: { lat: 35.195, lng: -6.112 },
+    coords: [-6.112, 35.195],
     description: {
       de: "Die antiken Ruinen von Lixus nahe Larache umfassen ein römisches Amphitheater. Dies ist ein seltenes Beispiel römischer Unterhaltungsarchitektur in Nordafrika.",
       hu: "A Larache melletti Lixus ősi romjai egy római amfiteátrumot foglalnak magukban. Ez a római szórakoztatóépítészet ritka példája Észak-Afrikában.",
@@ -1408,7 +1408,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-bab-al-mansour-gate-history-v2",
     type: "monument",
     name: { de: "Bab al-Mansour", hu: "Bab al-Manszúr", ro: "Bab al-Mansour", en: "Bab al-Mansour" },
-    coordinates: { lat: 33.882, lng: -5.565 },
+    coords: [-5.565, 33.882],
     description: {
       de: "Das monumentale Tor Bab al-Mansour in Meknes wurde im 18. Jahrhundert fertiggestellt. Es gilt als eines der prachtvollsten Tore der islamischen Welt.",
       hu: "A meknesi monumentális Bab al-Manszúr kapu a 18. században készült el. Az iszlám világ egyik legpompásabb kapujaként tartják számon.",
@@ -1427,7 +1427,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-kasbah-of-tidli-history-v2",
     type: "castle",
     name: { de: "Kasbah von Tidli", hu: "Tidli Kszár", ro: "Kasbah din Tidli", en: "Kasbah of Tidli" },
-    coordinates: { lat: 31.332, lng: -7.115 },
+    coords: [-7.115, 31.332],
     description: {
       de: "Diese historische Kasbah im Atlasgebirge wurde im 19. Jahrhundert als Wohnsitz eines lokalen Führers erbaut. Die Architektur verdeutlicht die defensive Bauweise in den Bergen.",
       hu: "Ez az Atlasz-hegységben található történelmi kszár a 19. században épült egy helyi vezető rezidenciájaként. Az építészet szemlélteti a hegyvidéki védekező építkezést.",
@@ -1446,7 +1446,7 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "morocco-mausoleum-of-moulay-idriss-i-history-v2",
     type: "monument",
     name: { de: "Grabmal von Moulay Idriss I.", hu: "Moulay Idriss I. sírja", ro: "Mormântul lui Moulay Idriss I.", en: "Tomb of Moulay Idriss I." },
-    coordinates: { lat: 34.058, lng: -5.518 },
+    coords: [-5.518, 34.058],
     description: {
       de: "Das Mausoleum von Moulay Idriss I. in der gleichnamigen Stadt ist ein bedeutendes religiöses Ziel. Es erinnert an den Gründer der Idrissiden-Dynastie im 8. Jahrhundert.",
       hu: "A Moulay Idriss városában található Moulay Idriss I. mauzóleuma jelentős vallási célpont. Az Idrissida dinasztia 8. századi alapítójára emlékezik.",

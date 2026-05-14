@@ -511,7 +511,7 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     id: "botswana-otse-peak-relief-v2",
     type: "peak",
     name: { de: "Otse Peak", hu: "Otse-csúcs", ro: "Vârful Otse", en: "Otse Peak" },
-    coordinates: { lat: -25.01, lng: 25.73 },
+    coords: [25.73, -25.01],
     description: {
       de: "Der Otse Peak ist mit 1.491 Metern eine der wichtigsten Erhebungen Botsuanas. Er ist eine markante Landmarke nahe Otse im South-East District.",
       hu: "Az 1491 méter magas Otse-csúcs Botswana egyik legfontosabb magaslata. Jellegzetes domborzati forma Otse falu közelében, a délkeleti részen.",
@@ -542,7 +542,7 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     id: "botswana-kgale-hill-relief-v2",
     type: "mountain",
     name: { de: "Kgale Hill", hu: "Kgale-hegy", ro: "Dealul Kgale", en: "Kgale Hill" },
-    coordinates: { lat: -24.68, lng: 25.87 },
+    coords: [25.87, -24.68],
     description: {
       de: "Der Kgale Hill ist eine 1.287 Meter hohe Erhebung in der Nähe von Gaborone. Er ist ein wichtiges Merkmal, das die Hauptstadt überragt.",
       hu: "A Kgale-hegy egy 1287 méter magas, jellegzetes kiemelkedés Gaborone mellett. Meghatározó domborzati elem, amely a főváros fölé magasodik.",
@@ -573,7 +573,7 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     id: "botswana-ghanzi-ridge-relief-v2",
     type: "mountain",
     name: { de: "Ghanzi-Rücken", hu: "Ghanzi-hátság", ro: "Creasta Ghanzi", en: "Ghanzi Ridge" },
-    coordinates: { lat: -21.7, lng: 21.65 },
+    coords: [21.65, -21.7],
     description: {
       de: "Der Ghanzi-Rücken ist eine geologische Kalksteinformation im Westen Botsuanas. Er beeinflusst die regionale Entwässerung und die Böden.",
       hu: "A Ghanzi-hátság egy mészkőből álló geológiai képződmény Nyugat-Botswanában. Jelentősen befolyásolja a régió vízelvezetését és talaját.",

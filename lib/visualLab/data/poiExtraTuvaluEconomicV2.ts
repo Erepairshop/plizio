@@ -5,7 +5,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-funafuti-wharf-economic-v2",
     type: "port",
     name: { de: "Mélytengeri kikötő Funafuti", hu: "Funafuti mélytengeri kikötő", ro: "Portul de mare adâncime Funafuti", en: "Funafuti Deep Sea Wharf" },
-    coordinates: { lat: -8.5204, lng: 179.1912 },
+    coords: [179.1912, -8.5204],
     description: {
       de: "Der Tiefseehafen von Funafuti ist das wichtigste Tor für den internationalen Handel in Tuvalu. Fast alle Konsumgüter und Treibstoffe des Landes werden über diesen zentralen Logistikpunkt importiert.",
       hu: "Funafuti mélytengeri kikötője Tuvalu legfontosabb nemzetközi kereskedelmi kapuja. Szinte az ország összes fogyasztási cikke és üzemanyaga ezen a központi logisztikai ponton keresztül érkezik.",
@@ -24,7 +24,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-vaiaku-business-economic-v2",
     type: "industry",
     name: { de: "Geschäftszentrum Vaiaku", hu: "Vaiaku üzleti negyed", ro: "Centrul de afaceri Vaiaku", en: "Vaiaku Business District" },
-    coordinates: { lat: -8.5235, lng: 179.1938 },
+    coords: [179.1938, -8.5235],
     description: {
       de: "Vaiaku ist das wirtschaftliche Herz von Tuvalu, in dem sich die wichtigsten Regierungsgebäude, Banken und Handelsgeschäfte konzentrieren. Hier wird der Großteil der privaten wirtschaftlichen Aktivitäten des Landes abgewickelt.",
       hu: "Vaiaku Tuvalu gazdasági szíve, ahol a legfontosabb kormányzati épületek, bankok és kereskedelmi egységek összpontosulnak. Itt zajlik az ország magángazdasági tevékenységének nagy része.",
@@ -43,7 +43,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-amatuku-maritime-economic-v2",
     type: "university",
     name: { de: "Maritimes Ausbildungsinstitut Amatuku", hu: "Amatuku Tengerészeti Képzőintézet", ro: "Institutul de Formare Maritimă Amatuku", en: "Amatuku Maritime Training Institute" },
-    coordinates: { lat: -8.4552, lng: 179.1825 },
+    coords: [179.1825, -8.4552],
     description: {
       de: "Das Institut auf Amatuku bildet Seeleute für den internationalen Arbeitsmarkt aus. Die Überweisungen dieser Seeleute stellen eine der wichtigsten Einnahmequellen für die tuvaluische Wirtschaft dar.",
       hu: "Az amatukui intézet tengerészeket képez a nemzetközi munkaerőpiac számára. E tengerészek hazautalásai Tuvalu gazdaságának egyik legfontosabb bevételi forrását jelentik.",
@@ -62,7 +62,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-vaitupu-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftliche Station Vaitupu", hu: "Vaitupu mezőgazdasági állomás", ro: "Stația agricolă Vaitupu", en: "Vaitupu Agricultural Station" },
-    coordinates: { lat: -7.4855, lng: 178.6752 },
+    coords: [178.6752, -7.4855],
     description: {
       de: "Vaitupu ist das Zentrum der landwirtschaftlichen Forschung und Produktion in Tuvalu. Die Station konzentriert sich auf die Verbesserung der Kopra-Ausbeute und die Zucht widerstandsfähiger Nutzpflanzen.",
       hu: "Vaitupu Tuvalu mezőgazdasági kutatási és termelési központja. Az állomás a kopra hozamának javítására és az ellenálló haszonnövények nemesítésére összpontosít.",
@@ -81,7 +81,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-national-bank-economic-v2",
     type: "industry",
     name: { de: "Nationalbank von Tuvalu", hu: "Tuvalu Nemzeti Bankja", ro: "Banca Națională din Tuvalu", en: "National Bank of Tuvalu" },
-    coordinates: { lat: -8.5231, lng: 179.1942 },
+    coords: [179.1942, -8.5231],
     description: {
       de: "Die National Bank of Tuvalu ist das einzige kommerzielle Bankinstitut des Landes. Sie spielt eine entscheidende Rolle bei der Verwaltung des nationalen Haushalts und der Bereitstellung von Krediten.",
       hu: "A Tuvalu Nemzeti Bank az ország egyetlen kereskedelmi bankintézete. Döntő szerepet játszik a nemzeti költségvetés kezelésében és a hitelek nyújtásában.",
@@ -100,7 +100,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-ttc-economic-v2",
     type: "industry",
     name: { de: "Tuvalu Telekommunikationsgesellschaft", hu: "Tuvalu Távközlési Társaság", ro: "Corporația de Telecomunicații Tuvalu", en: "Tuvalu Telecommunications Corporation" },
-    coordinates: { lat: -8.5222, lng: 179.1951 },
+    coords: [179.1951, -8.5222],
     description: {
       de: "Die TTC ist der einzige Anbieter von Festnetz-, Mobilfunk- und Internetdiensten in Tuvalu. Sie verwaltet die lukrative .tv-Domain, die eine wichtige Säule des Staatshaushalts darstellt.",
       hu: "A TTC Tuvalu egyetlen vezetékes, mobil- és internetszolgáltatója. Ez kezeli a jövedelmező .tv doménnevet, amely az állami költségvetés egyik fontos pillére.",
@@ -119,7 +119,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-fish-market-economic-v2",
     type: "industry",
     name: { de: "Fischmarkt von Funafuti", hu: "Funafuti halpiac", ro: "Piața de pește din Funafuti", en: "Funafuti Fish Market" },
-    coordinates: { lat: -8.5182, lng: 179.1925 },
+    coords: [179.1925, -8.5182],
     description: {
       de: "Der Fischmarkt ist das Zentrum der lokalen Fischereiindustrie und wird von der NAFICOT betrieben. Hier wird der tägliche Fang der kleinen Fischereiflotte für den inländischen Markt verarbeitet und verkauft.",
       hu: "A halpiac a helyi halászati ipar központja, amelyet a NAFICOT üzemeltet. Itt dolgozzák fel és értékesítik a kis halászflotta napi fogását a belföldi piac számára.",
@@ -138,7 +138,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarkraftwerk Funafuti", hu: "Funafuti naperőmű", ro: "Centrala solară Funafuti", en: "Funafuti Solar Farm" },
-    coordinates: { lat: -8.5265, lng: 179.1882 },
+    coords: [179.1882, -8.5265],
     description: {
       de: "Dieses Kraftwerk ist Tuvalus größtes Projekt für erneuerbare Energien. Es reduziert die Abhängigkeit des Landes von teuren Importen fossiler Brennstoffe und ist ein Symbol für die wirtschaftliche Resilienz.",
       hu: "Ez az erőmű Tuvalu legnagyobb megújuló energia projektje. Csökkenti az ország függőségét a drága importált fosszilis tüzelőanyagoktól, és a gazdasági rugalmasság szimbóluma.",
@@ -157,7 +157,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-teone-fuel-economic-v2",
     type: "industry",
     name: { de: "Treibstoffdepot Teone", hu: "Teone üzemanyagtároló", ro: "Depozitul de combustibil Teone", en: "Teone Fuel Storage Facility" },
-    coordinates: { lat: -8.5145, lng: 179.1955 },
+    coords: [179.1955, -8.5145],
     description: {
       de: "Das Treibstoffdepot in Teone ist für die Energieversorgung des gesamten Atolls unerlässlich. Hier werden die importierten Erdölprodukte gelagert, die für den Transport und die Elektrizitätserzeugung benötigt werden.",
       hu: "A teonei üzemanyagtároló nélkülözhetetlen az egész atoll energiaellátásához. Itt tárolják az importált kőolajtermékeket, amelyekre a közlekedéshez és az áramtermeléshez van szükség.",
@@ -176,7 +176,7 @@ export const tuvaluEconomicV2: POI[] = [
     id: "tuvalu-airport-economic-v2",
     type: "port",
     name: { de: "Internationaler Flughafen Funafuti", hu: "Funafuti nemzetközi repülőtér", ro: "Aeroportul Internațional Funafuti", en: "Funafuti International Airport" },
-    coordinates: { lat: -8.5252, lng: 179.1962 },
+    coords: [179.1962, -8.5252],
     description: {
       de: "Der Flughafen ist Tuvalus einzige Verbindung für den internationalen Passagier- und Luftfrachtverkehr. Er ist entscheidend für den Tourismus, den diplomatischen Austausch und den Import dringender Güter.",
       hu: "A repülőtér Tuvalu egyetlen összeköttetése a nemzetközi utas- és légi teherforgalom számára. Döntő fontosságú a turizmus, a diplomáciai csere és a sürgős áruk behozatala szempontjából.",

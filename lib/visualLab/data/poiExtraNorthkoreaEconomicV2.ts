@@ -693,7 +693,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-namhung-chemical-economic-v2",
     type: "factory",
     name: { de: "Namhung-Chemiekomplex", hu: "Namhung Ifjúsági Vegyipari Komplexum", ro: "Complexul Chimic Namhung", en: "Namhung Youth Chemical Complex" },
-    coordinates: { lat: 39.66, lng: 125.7 },
+    coords: [125.7, 39.66],
     description: {
       de: "Diese große Chemieanlage in Anju ist auf die Produktion von Stickstoffdünger und petrochemischen Produkten spezialisiert.",
       hu: "Ez az Andzsuban található nagy vegyipari üzem műtrágya és petrolkémiai termékek előállítására szakosodott.",
@@ -712,7 +712,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-chollima-steel-economic-v2",
     type: "industry",
     name: { de: "Chollima-Stahlkomplex", hu: "Csollima Acélművek", ro: "Combinatul Siderurgic Chollima", en: "Chollima Steel Complex" },
-    coordinates: { lat: 38.93, lng: 125.61 },
+    coords: [125.61, 38.93],
     description: {
       de: "Früher als Kangson-Stahlwerk bekannt, ist dieser Komplex der Geburtsort der Chollima-Bewegung in der Arbeitsgeschichte.",
       hu: "A korábban Kangszon Acélműként ismert komplexum a Csollima-mozgalom szülőhelye az ország munkatörténetében.",
@@ -731,7 +731,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-sungri-motor-economic-v2",
     type: "factory",
     name: { de: "Sungri-Motorenwerk", hu: "Szungri Autógyár", ro: "Fabrica de Automobile Sungri", en: "Sungri Motor Plant" },
-    coordinates: { lat: 39.75, lng: 126.3 },
+    coords: [126.3, 39.75],
     description: {
       de: "Dieses Werk in Tokchon ist die wichtigste Fahrzeugfabrik des Landes und produziert seit 1950 Lastwagen und PKWs.",
       hu: "Ez a Tokcshonban található üzem az ország fő járműgyára, amely 1950 óta gyárt teherautókat és autókat.",
@@ -750,7 +750,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-sunchon-cement-economic-v2",
     type: "factory",
     name: { de: "Zementkombinat Sunchon", hu: "Szuncshoni Cementgyár", ro: "Combinatul de Ciment Sunchon", en: "Sunchon Cement Complex" },
-    coordinates: { lat: 39.43, lng: 125.96 },
+    coords: [125.96, 39.43],
     description: {
       de: "Diese gewaltige Anlage in Sunchon gehört zu den größten Zementherstellern in Ostasien und nutzt lokale Kalksteinvorkommen.",
       hu: "Ez a hatalmas szuncshoni létesítmény Kelet-Ázsia egyik legnagyobb cementgyártója, helyi mészkőkészleteket használva.",
@@ -769,7 +769,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-haeju-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Haeju", hu: "Hedzsu kikötője", ro: "Portul Haeju", en: "Haeju Port" },
-    coordinates: { lat: 38.0, lng: 125.72 },
+    coords: [125.72, 38.0],
     description: {
       de: "Am Gelben Meer gelegen, dient dieser Hafen als wichtiges Drehkreuz für die südwestlichen Regionen des Landes.",
       hu: "A Sárga-tenger partján fekvő kikötő fontos logisztikai központ az ország délnyugati régiói számára.",
@@ -788,7 +788,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-rakwon-machine-economic-v2",
     type: "factory",
     name: { de: "Rakwon-Maschinenbaukombinat", hu: "Rakvon Gépgyári Komplexum", ro: "Complexul de Mașini Rakwon", en: "Rakwon Machine Complex" },
-    coordinates: { lat: 40.1, lng: 124.45 },
+    coords: [124.45, 40.1],
     description: {
       de: "Dieses Kombinat in Sinuiju fertigt Bagger, Kräne und andere schwere Baumaschinen für nationale Infrastrukturprojekte an.",
       hu: "Ez a Szinuidzsuban található komplexum kotrógépeket, darukat és egyéb nehézgépeket gyárt az infrastruktúrához.",
@@ -807,7 +807,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-unryul-mine-economic-v2",
     type: "mine",
     name: { de: "Bergwerk Unryul", hu: "Unrjuli bánya", ro: "Mina Unryul", en: "Unryul Mine" },
-    coordinates: { lat: 38.6, lng: 125.1 },
+    coords: [125.1, 38.6],
     description: {
       de: "Dieses Eisenerz-Tagebauwerk ist berühmt für sein kilometerlanges Förderbandsystem, das Abraum direkt ins Meer transportiert.",
       hu: "Ez a külszíni vasércbánya híres a több kilométer hosszú szállítószalagjáról, amely a meddőt a tengerbe hordja.",
@@ -826,7 +826,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-kaesong-industrial-economic-v2",
     type: "industry",
     name: { de: "Industrieregion Kaesong", hu: "Keszongi Ipari Park", ro: "Regiunea Industrială Kaesong", en: "Kaesong Industrial Region" },
-    coordinates: { lat: 37.93, lng: 126.62 },
+    coords: [126.62, 37.93],
     description: {
       de: "Diese Sonderverwaltungszone wurde 2002 eingerichtet, um südkoreanischen Unternehmen die Produktion mit nordkoreanischen Arbeitskräften zu ermöglichen.",
       hu: "Ezt a különleges övezetet 2002-ben hozták létre, hogy dél-koreai cégek észak-koreai munkaerővel termelhessenek.",
@@ -845,7 +845,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-september-18-food-economic-v2",
     type: "factory",
     name: { de: "Lebensmittel-Fabrik vom 18. September", hu: "Szeptember 18. Élelmiszergyár", ro: "Fabrica de Alimente 18 Septembrie", en: "September 18th Foodstuff Factory" },
-    coordinates: { lat: 39.0, lng: 125.75 },
+    coords: [125.75, 39.0],
     description: {
       de: "Diese Fabrik in Pjöngjang produziert verarbeitete Lebensmittel wie Süßigkeiten und Kekse für die Versorgung der Hauptstadt.",
       hu: "Ez a phenjani gyár feldolgozott élelmiszereket, például édességeket és kekszeket gyárt a főváros ellátására.",
@@ -864,7 +864,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-kanggye-tractor-economic-v2",
     type: "factory",
     name: { de: "Traktorenwerk Kanggye", hu: "Kanggei Traktorgyár", ro: "Fabrica de Tractoare Kanggye", en: "Kanggye Tractor Plant" },
-    coordinates: { lat: 40.96, lng: 126.58 },
+    coords: [126.58, 40.96],
     description: {
       de: "In der bergigen Provinz Jagang gelegen, produziert dieses Werk Traktoren, die speziell für schwieriges Gelände geeignet sind.",
       hu: "A hegyvidéki Csagang tartományban található üzem a nehéz terepviszonyokhoz alkalmas traktorokat gyárt.",
@@ -883,7 +883,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-huichon-silk-economic-v2",
     type: "factory",
     name: { de: "Seidenspinnerei Huichon", hu: "Hicshoni Selyemgyár", ro: "Fabrica de Mătase Huichon", en: "Huichon Silk Mill" },
-    coordinates: { lat: 40.17, lng: 126.25 },
+    coords: [126.25, 40.17],
     description: {
       de: "Diese Einrichtung ist auf die Herstellung hochwertiger Seidenstoffe spezialisiert, wobei Kokons aus lokaler Zucht verwendet werden.",
       hu: "Ez a létesítmény kiváló minőségű selyemszövetek gyártására szakosodott, helyi tenyésztésű gubókat használva.",
@@ -902,7 +902,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-wonsan-shoes-economic-v2",
     type: "factory",
     name: { de: "Lederschuhfabrik Wonsan", hu: "Vonszani Bőrcipőgyár", ro: "Fabrica de Încălțăminte din Piele Wonsan", en: "Wonsan Leather Shoe Factory" },
-    coordinates: { lat: 39.15, lng: 127.44 },
+    coords: [127.44, 39.15],
     description: {
       de: "Als einer der größten Schuhhersteller des Landes fertigt diese Fabrik Lederschuhe für Zivilisten und das Militär an.",
       hu: "Az ország egyik legnagyobb cipőgyártójaként ez a gyár bőrcipőket készít civilek és a hadsereg számára.",
@@ -921,7 +921,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-january-18-machine-economic-v2",
     type: "factory",
     name: { de: "Maschinenbauwerk vom 18. Januar", hu: "Január 18. Gépgyár", ro: "Uzina de Mașini 18 Ianuarie", en: "January 18th General Machine Plant" },
-    coordinates: { lat: 39.63, lng: 125.68 },
+    coords: [125.68, 39.63],
     description: {
       de: "Dieses Werk konzentriert sich auf die Herstellung von Großmotoren und Präzisionsmaschinen für den Schwermaschinenbau.",
       hu: "Ez az üzem nagyméretű motorok és precíziós gépalkatrészek gyártására összpontosít a nehézipar számára.",
@@ -940,7 +940,7 @@ image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"
     id: "northkorea-pukchung-machine-economic-v2",
     type: "factory",
     name: { de: "Pukchung-Maschinenkomplex", hu: "Pukcsungi Gépgyári Komplexum", ro: "Complexul de Mașini Pukchung", en: "Pukchung Machine Complex" },
-    coordinates: { lat: 39.95, lng: 124.52 },
+    coords: [124.52, 39.95],
     description: {
       de: "Spezialisiert auf Dieselmotoren und Stromerzeugungsanlagen, ist dieser Komplex entscheidend für den Energie- und Transportsektor.",
       hu: "Dízelmotorokra és áramfejlesztőkre szakosodva ez a komplexum döntő fontosságú az energia- és közlekedési szektorban.",

@@ -5,7 +5,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-kingstown-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Kingstown", hu: "Kingstown kikötője", ro: "Portul Kingstown", en: "Kingstown Deep Water Harbour" },
-    coordinates: { lat: 13.1531, lng: -61.2312 },
+    coords: [-61.2312, 13.1531],
     description: {
       de: "Der wichtigste Seehafen von St. Vincent für Frachtschiffe. Er ist für die Import- und Exportwirtschaft des Landes von zentraler Bedeutung.",
       hu: "Saint Vincent elsődleges tengeri kikötője konténerhajók számára. Létfontosságú az ország import- és exportgazdasága szempontjából.",
@@ -24,7 +24,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-argyle-airport-economic-v2",
     type: "industry",
     name: { de: "Internationaler Flughafen Argyle", hu: "Argyle nemzetközi repülőtér", ro: "Aeroportul Internațional Argyle", en: "Argyle International Airport" },
-    coordinates: { lat: 13.1585, lng: -61.1518 },
+    coords: [-61.1518, 13.1585],
     description: {
       de: "Das größte Infrastrukturprojekt des Landes ermöglicht direkte internationale Flüge. Es fördert den globalen Tourismus und den Exporthandel.",
       hu: "Az ország legnagyobb beruházása, amely közvetlen nemzetközi járatokat fogad. Jelentősen segíti a turizmust és az exportkereskedelmet.",
@@ -43,7 +43,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-camden-park-industrial-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Camden Park", hu: "Camden Park ipari terület", ro: "Zona Industrială Camden Park", en: "Camden Park Industrial Estate" },
-    coordinates: { lat: 13.1712, lng: -61.2425 },
+    coords: [-61.2425, 13.1712],
     description: {
       de: "Eine Industriezone für Fertigung und Lagerhaltung westlich der Hauptstadt. Sie ist ein wichtiger Standort für die lokale Produktion.",
       hu: "A fővárostól nyugatra fekvő ipari övezet gyártás és raktározás céljából. A helyi termelés egyik legfontosabb központja.",
@@ -62,7 +62,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-diamond-industrial-v2",
     type: "industry",
     name: { de: "Industriegebiet Diamond", hu: "Diamond ipari terület", ro: "Zona Industrială Diamond", en: "Diamond Industrial Estate" },
-    coordinates: { lat: 13.1515, lng: -61.1822 },
+    coords: [-61.1822, 13.1515],
     description: {
       de: "Ein Gewerbegebiet an der Südostküste mit Fokus auf Leichtindustrie. Hier befinden sich wichtige Betriebe der Getränkeherstellung.",
       hu: "Iparterület a délkeleti parton, amely a könnyűiparra összpontosít. Fontos italgyártó üzemek helyszíne.",
@@ -81,7 +81,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-lowmans-bay-power-v2",
     type: "industry",
     name: { de: "Kraftwerk Lowmans Bay", hu: "Lowmans Bay erőmű", ro: "Centrala Lowmans Bay", en: "Lowmans Bay Power Plant" },
-    coordinates: { lat: 13.1755, lng: -61.2542 },
+    coords: [-61.2542, 13.1755],
     description: {
       de: "Das größte Wärmekraftwerk der Insel sichert die Stromversorgung. Es wird vom nationalen Stromversorger VINLEC betrieben.",
       hu: "A sziget legnagyobb hőerőműve, amely az áramellátást biztosítja. A nemzeti VINLEC közműszolgáltató üzemelteti.",
@@ -100,7 +100,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-ottley-hall-shipyard-v2",
     type: "port",
     name: { de: "Werft von Ottley Hall", hu: "Ottley Hall hajógyár", ro: "Șantierul Naval Ottley Hall", en: "Ottley Hall Shipyard" },
-    coordinates: { lat: 13.1622, lng: -61.2415 },
+    coords: [-61.2415, 13.1622],
     description: {
       de: "Ein spezialisiertes Zentrum für Schiffsreparatur und Wartung. Die Anlage stellt eine bedeutende Investition in den maritimen Sektor dar.",
       hu: "Hajójavításra és karbantartásra szakosodott központ. A létesítmény jelentős beruházás a tengeri gazdasági szektorban.",
@@ -119,7 +119,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-mesopotamia-agriculture-v2",
     type: "valley",
     name: { de: "Agrarzone Mesopotamiental", hu: "Mesopotamia-völgy mezőgazdaság", ro: "Zona Agricolă Valea Mesopotamiei", en: "Mesopotamia Valley Agricultural Zone" },
-    coordinates: { lat: 13.1745, lng: -61.1715 },
+    coords: [-61.1715, 13.1745],
     description: {
       de: "Das fruchtbare Zentrum der Lebensmittelproduktion auf der Insel. Das Tal gilt als der wichtigste Gemüselieferant des Landes.",
       hu: "A sziget élelmiszertermelésének termékeny központja. A völgyet az ország legfontosabb zöldségszállítójaként tartják számon.",
@@ -138,7 +138,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-kingstown-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Kingstown", hu: "Kingstown központi piaca", ro: "Piața Centrală Kingstown", en: "Kingstown Central Market" },
-    coordinates: { lat: 13.1558, lng: -61.2305 },
+    coords: [-61.2305, 13.1558],
     description: {
       de: "Der größte Handelsplatz für lokale Bauern und Händler. Er bildet das wirtschaftliche Herz der täglichen Aktivitäten in der Hauptstadt.",
       hu: "A helyi gazdák és kereskedők legnagyobb piaca. A főváros mindennapi gazdasági tevékenységének a szíve.",
@@ -157,7 +157,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-barrouallie-fisheries-v2",
     type: "village",
     name: { de: "Fischereizentrum Barrouallie", hu: "Barrouallie halászati központ", ro: "Centrul de Pescuit Barrouallie", en: "Barrouallie Fisheries Complex" },
-    coordinates: { lat: 13.2355, lng: -61.2722 },
+    coords: [-61.2722, 13.2355],
     description: {
       de: "Ein bedeutendes Küstenzentrum für die nationale Fischereiindustrie. Es ist besonders bekannt für die Produktion von Fischöl.",
       hu: "A nemzeti halászati ipar jelentős parti központja. Különösen a halolaj termeléséről híres a térségben.",
@@ -176,7 +176,7 @@ export const saintvincentEconomicV2: POI[] = [
     id: "saintvincent-richmond-quarry-economic-v2",
     type: "mine",
     name: { de: "Steinbruch von Richmond", hu: "Richmondi kőbánya", ro: "Cariera Richmond", en: "Richmond Quarry" },
-    coordinates: { lat: 13.3025, lng: -61.2145 },
+    coords: [-61.2145, 13.3025],
     description: {
       de: "Ein wichtiger Standort für den Abbau von Vulkansand und Gestein. Die Materialien sind essenziell für die Bauindustrie der Insel.",
       hu: "A vulkáni homok és kőzet kitermelésének egyik fő helyszíne. Az anyagok elengedhetetlenek a sziget építőipara számára.",

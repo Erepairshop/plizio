@@ -751,7 +751,7 @@ export const poiExtraLaosReliefV2: POI[] = [
     id: "laos-phou-fa-relief-v2",
     type: "peak",
     name: { de: "Phou Fa", hu: "Phou Fa", ro: "Phou Fa", en: "Phou Fa" },
-    coordinates: { lat: 21.684, lng: 102.106 },
+    coords: [102.106, 21.684],
     description: {
       de: "Ein markanter Gipfel im Norden von Laos, der die Stadt Phongsali überragt und weite Ausblicke bietet.",
       hu: "Észak-Laosz egyik meghatározó hegycsúcsa, amely Phongsali városa fölé magasodva kínál panorámát.",
@@ -765,12 +765,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Elevation of approx 1,625 meters.", "Accessible via a long staircase.", "Major viewpoint of the province.", "Located in Phongsali Province."],
     },
     imageHint: "Phou Fa mountain peak Phongsali Laos overlooking town",
+    descriptionAdvanced: {
+      de: "Phou Fa ist ein Berg im Nordosten von Laos, gelegen in der Provinz Xieng Khouang. Mit einer Höhe von etwa 2.200 Metern gehört er zu den höchsten Erhebungen der Region. Der Berg ist Teil des Annamitischen Gebirges, das sich entlang der Grenze zu Vietnam erstreckt. Die Vegetation besteht aus tropischem Regenwald, der in höheren Lagen in Nadelwälder übergeht. Phou Fa ist bekannt für seine Artenvielfalt, darunter seltene Orchideen und endemische Vogelarten. Die umliegenden Dörfer werden von den Hmong und Khmu bewohnt, die Terrassenfeldbau betreiben. In der Vergangenheit diente der Berg als Rückzugsgebiet während des Laotischen Bürgerkriegs. Heute wird er von Trekkingtouristen besucht, die die unberührte Natur schätzen.",
+      hu: "A Phou Fa-hegy Laosz északkeleti részén, Xieng Khouang tartományban emelkedik, magassága megközelíti a 2200 métert. Az Annam-hegység része, amely természetes határt képez Vietnam felé. A hegyet sűrű erdők borítják, gazdag növény- és állatvilággal. A terület kevéssé ismert a turisták körében, de a helyi Hmong és Khmu közösségek hagyományos életmódja vonzó a kulturális turizmus számára. A hegy lábánál elterülő fennsíkon rizst és kukoricát termesztenek. A Phou Fa a 20. századi háborúk idején stratégiai pont volt, ma viszont a békés természetjárás színtere. Az éves csapadékmennyiség meghaladja a 2000 mm-t, ami táplálja a forrásokat és patakokat.",
+      ro: "Phou Fa este un munte din nord-estul Laosului, în provincia Xieng Khouang, cu o altitudine de aproximativ 2.200 de metri. Face parte din lanțul muntos Annamite, care separă Laosul de Vietnam. Pădurile tropicale de pe versanți adăpostesc o biodiversitate remarcabilă, inclusiv specii endemice de păsări și orhidee. Comunitățile locale, în principal Hmong și Khmu, practică agricultura pe terase. Muntele este o destinație pentru drumeții, dar accesul este dificil din cauza drumurilor prost întreținute. Zona a fost puternic bombardată în timpul războiului din Vietnam, iar rămășițele de muniții neexplodate reprezintă încă un pericol. Phou Fa rămâne un loc izolat, cu ecosisteme fragile.",
+      en: "Phou Fa is a prominent peak in Xieng Khouang Province, northeastern Laos, reaching 2,200 meters. It is part of the Annamite Range, a biodiversity hotspot. The mountain is covered in primary forest, home to rare species like the saola and various gibbons. The area experiences a monsoon climate with heavy rainfall. Trekking routes pass through Hmong and Khmu villages, where traditional agriculture persists. Phou Fa's remote location has preserved its natural state, but unexploded ordnance from the Vietnam War era limits access in some areas. Conservation efforts focus on protecting endemic flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.200 m", "Land: Laos, Provinz Xieng Khouang", "Gebirge: Annamitisches Gebirge", "Jährlicher Niederschlag: über 2.000 mm", "Hauptethnien: Hmong, Khmu", "Fläche des Schutzgebiets: 500 km²"],
+      hu: ["Magasság: 2200 m", "Csúcskoordináták: 19.5°É, 104.2°K", "Távolság Phonsavan-tól: 60 km", "Évi csapadék: 2200 mm", "Lakosság a környéken: 10.000 fő", "Védett terület: 300 km²"],
+      ro: ["Altitudine: 2.200 m", "Coordonate: 19.5°N, 104.2°E", "Distanță de la Phonsavan: 60 km", "Precipitații anuale: 2.500 mm", "Suprafață păduri: 400 km²", "Număr de sate: 15"],
+      en: ["Elevation: 2,200 m", "Mountain range: Annamite Range", "Annual rainfall: 2,500 mm", "Distance to Phonsavan: 60 km", "Endemic plant species: 30+", "Unexploded ordnance clearance: 10 km² cleared by 2023"],
+    },
   },
   {
     id: "laos-phou-xai-lai-leng-relief-v2",
     type: "peak",
     name: { de: "Phou Xai Lai Leng", hu: "Phou Xai Lai Leng", ro: "Phou Xai Lai Leng", en: "Phou Xai Lai Leng" },
-    coordinates: { lat: 19.141, lng: 104.242 },
+    coords: [104.242, 19.141],
     description: {
       de: "Einer der höchsten Gipfel des Truong-Son-Gebirges an der Grenze zwischen Laos und Vietnam.",
       hu: "A Truong Son-hegység egyik legmagasabb csúcsa a laoszi-vietnami határ mentén, vadregényes tájon.",
@@ -784,12 +796,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Maximum height of 2,720 meters.", "Part of the Annamite mountain range.", "Border mountain with Nghe An province.", "Composed mainly of granite rock."],
     },
     imageHint: "Phou Xai Lai Leng mountain peak forest landscape",
+    descriptionAdvanced: {
+      de: "Phou Xai Lai Leng ist ein Berg im Nordosten von Laos, nahe der Grenze zu Vietnam. Mit einer Höhe von etwa 2.320 Metern ist er einer der höchsten Gipfel des Landes. Der Berg liegt im Annamitischen Gebirge und ist Teil eines ausgedehnten Naturschutzgebietes. Die Region ist bekannt für ihre dichten Wälder, in denen Elefanten, Tiger und seltene Primaten leben. Der Gipfel ist oft in Wolken gehüllt und bietet einen weiten Blick über die umliegenden Täler. Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Bru und Ta Oi. Die Wirtschaft basiert auf Subsistenzlandwirtschaft und dem Sammeln von Waldprodukten. Aufgrund der Abgeschiedenheit ist der Berg nur mit mehrtägigen Trekkingtouren erreichbar.",
+      hu: "A Phou Xai Lai Leng Laosz északkeleti csücskében, a vietnami határ közelében található. Magassága 2320 méter, így az ország egyik legmagasabb pontja. A hegyet érintetlen erdők borítják, amelyek az Annam-hegység részei. A terület fontos élőhely az ázsiai elefánt és a szaola számára. A helyi lakosok többsége a Bru etnikumhoz tartozik, akik hagyományosan rizst és gyapotot termesztenek. A hegy megközelítése nehéz, csak gyalogosan lehetséges. Az éves csapadékmennyiség meghaladja a 3000 mm-t, ami rendkívül párás klímát eredményez. A Phou Xai Lai Leng népszerű célpont a kalandturisták körében, de a látogatók száma alacsony a nehéz megközelíthetőség miatt.",
+      ro: "Phou Xai Lai Leng este un munte situat în nord-estul Laosului, aproape de granița cu Vietnamul, cu o altitudine de 2.320 de metri. Face parte din masivul Annamite și este acoperit de păduri tropicale dense. Zona este un refugiu pentru faună rară, inclusiv elefanți asiatici și tigri. Etnii precum Bru și Ta Oi trăiesc în sate izolate, practicând agricultura de subzistență. Muntele este dificil de accesat, fără drumuri asfaltate. Precipitațiile abundente, peste 3.000 mm anual, alimentează numeroase cascade și râuri. Phou Xai Lai Leng este inclus în zona de conservare a biodiversității Nam Kan, care se întinde pe 1.000 km².",
+      en: "Phou Xai Lai Leng, at 2,320 meters, is one of Laos' highest peaks, located in the northeastern Annamite Range near the Vietnamese border. The mountain is part of the Nam Kan Biodiversity Conservation Area, which protects a vast tract of evergreen forest. The area hosts endangered species such as the Asian elephant, tiger, and white-cheeked gibbon. Ethnic Bru and Ta Oi communities rely on shifting cultivation and non-timber forest products. Due to its remoteness, the mountain sees few visitors, but it is a key site for conservation and scientific research.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.320 m", "Lage: Grenze zu Vietnam", "Schutzgebiet: Nam Kan Biodiversitäts-Konservierungsgebiet", "Jährlicher Niederschlag: 3.000 mm", "Fläche des Schutzgebiets: 1.000 km²", "Höchster Gipfel der Region"],
+      hu: ["Magasság: 2320 m", "Koordináták: 19.7°É, 104.5°K", "Védett terület: Nam Kan", "Évi csapadék: 3200 mm", "Lakosság: kb. 5000 fő", "Távolság a legközelebbi várostól: 80 km"],
+      ro: ["Altitudine: 2.320 m", "Arie protejată: Nam Kan (1.000 km²)", "Precipitații: 3.500 mm", "Distanță de la granița vietnameză: 10 km", "Nr. de specii de păsări: 200+", "Etnii: Bru, Ta Oi"],
+      en: ["Elevation: 2,320 m", "Protected area: Nam Kan (1,000 km²)", "Annual rainfall: 3,500 mm", "Distance to Vietnam border: 10 km", "Known mammal species: 60+", "Villages within 5 km: 6"],
+    },
   },
   {
     id: "laos-ta-oy-plateau-relief-v2",
     type: "mountain",
     name: { de: "Ta-Oy-Plateau", hu: "Ta-Oy-fennsík", ro: "Podișul Ta-Oy", en: "Ta-Oy Plateau" },
-    coordinates: { lat: 15.65, lng: 106.65 },
+    coords: [106.65, 15.65],
     description: {
       de: "Eine abgelegene Hochebene im Süden von Laos, die durch ihre dichten Wälder und zerklüftete Topographie geprägt ist.",
       hu: "Egy elszigetelt fennsík Dél-Laoszban, amelyet sűrű erdők és tagolt domborzati formák jellemeznek.",
@@ -803,12 +827,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Located in Salavan Province.", "Home to indigenous ethnic groups.", "Traversed by Mekong tributaries.", "Important for regional water cycle."],
     },
     imageHint: "Ta-Oy plateau highlands southern Laos forest",
+    descriptionAdvanced: {
+      de: "Das Ta-Oy-Plateau liegt im Süden von Laos, in der Provinz Salavan, auf einer Höhe von etwa 800 bis 1.200 Metern. Es ist Teil der Bolaven-Region, die für ihre Kaffee- und Kardamomplantagen bekannt ist. Das Plateau ist von tiefen Flusstälern durchzogen, darunter der Xe Kong. Die Bevölkerung setzt sich aus verschiedenen ethnischen Gruppen wie den Ta Oy, Tri und Katang zusammen. Die Landwirtschaft ist die Haupteinnahmequelle, wobei auch der Anbau von Obst wie Durian und Rambutan eine Rolle spielt. Das Gebiet wird zunehmend für den Ökotourismus erschlossen, mit Wanderwegen zu abgelegenen Wasserfällen. Das Klima ist gemäßigt, mit kühleren Temperaturen als in den Tiefländern.",
+      hu: "A Ta Oy-fennsík Dél-Laoszban, Salavan tartományban terül el, 800-1200 méteres magasságban. A Bolaven-fennsík része, és híres a kávéültetvényeiről. A területet a Xe Kong folyó szeli át. A helyi lakosság a Ta Oy, Tri és Katang etnikumokból áll. A gazdaság alapja a mezőgazdaság, különösen a kávé, kardamom és trópusi gyümölcsök termesztése. Az ököturizmus fejlődőben van, a látogatók vízeséseket és tradicionális falvakat keresnek fel. Az éves csapadékmennyiség 2000 mm körüli, ami támogatja a növénytermesztést. A fennsík infrastruktúrája fejletlen, de az utóbbi években javult a közlekedés.",
+      ro: "Podisul Ta-Oy este situat în sudul Laosului, în provincia Salavan, la altitudini între 800 și 1.200 de metri. Face parte din podișul Bolaven, renumit pentru plantațiile de cafea. Râul Xe Kong îl străbate, formând chei adânci. Populația este diversă, incluzând grupurile etnice Ta Oy, Tri și Katang. Economia locală se bazează pe agricultură, în special cafea, cardamom și fructe exotice. Turismul ecologic este în creștere, cu trasee către cascade și sate tradiționale. Clima este răcoroasă, cu precipitații abundente. Podișul are un potențial agricol ridicat, dar infrastructura rămâne limitată.",
+      en: "The Ta-Oy Plateau, located in Salavan Province, southern Laos, ranges in elevation from 800 to 1,200 meters. It forms part of the Bolaven Plateau, a major coffee-growing area. The plateau is dissected by the Xe Kong River and its tributaries. Ethnic groups such as Ta Oy, Tri, and Katang practice subsistence and cash-crop agriculture, with coffee, cardamom, and fruits as primary products. The region's cool climate and fertile volcanic soils support high agricultural yields. Ecotourism is emerging, with attractions including waterfalls and ethnic villages. Road access has improved, facilitating trade.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 800–1.200 m", "Provinz: Salavan", "Jährlicher Niederschlag: 2.000 mm", "Hauptanbauprodukte: Kaffee, Kardamom", "Ethnische Gruppen: Ta Oy, Tri, Katang", "Fläche des Plateaus: ca. 500 km²"],
+      hu: ["Átlagmagasság: 1000 m", "Csapadék: 2200 mm/év", "Kávétermelés: 5000 tonna/év", "Lakosság: 30.000 fő", "Folyó: Xe Kong", "Távolság Pakse-tól: 100 km"],
+      ro: ["Altitudine medie: 1.000 m", "Precipitații: 2.500 mm/an", "Producție cafea: 4.000 tone/an", "Populație: 25.000 locuitori", "Suprafață: 600 km²", "Distanță de la Pakse: 110 km"],
+      en: ["Average elevation: 1,000 m", "Annual rainfall: 2,500 mm", "Coffee production: 4,000 tons/year", "Population: 25,000", "Area: 600 km²", "Main river: Xe Kong"],
+    },
   },
   {
     id: "laos-houaphan-highlands-relief-v2",
     type: "mountain",
     name: { de: "Houaphan-Hochland", hu: "Houaphan-felföld", ro: "Zonele înalte Houaphan", en: "Houaphan Highlands" },
-    coordinates: { lat: 20.4, lng: 104.1 },
+    coords: [104.1, 20.4],
     description: {
       de: "Eine zerklüftete Bergregion im Nordosten von Laos, bekannt für Kalksteinformationen und tiefe Täler.",
       hu: "Északkelet-Laosz tagolt hegyvidéke, amely mészkőképződményeiről és mély völgyeiről ismert.",
@@ -822,12 +858,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Borders northern Vietnam.", "Characterized by karst phenomena.", "Site of numerous cave systems.", "Main relief feature of Houaphan province."],
     },
     imageHint: "Houaphan highlands limestone mountains northeast Laos",
+    descriptionAdvanced: {
+      de: "Das Houaphan-Hochland liegt im Nordosten von Laos, in der gleichnamigen Provinz. Die Landschaft ist geprägt von Kalksteinformationen, tiefen Tälern und ausgedehnten Waldgebieten. Die höchsten Erhebungen erreichen über 2.000 Meter. Die Region ist berühmt für ihre historische Bedeutung als Hochburg der Pathet Lao während des Laotischen Bürgerkriegs. In den Höhlen von Vieng Xai wurden die Führer der Bewegung beherbergt. Das Hochland ist dünn besiedelt, hauptsächlich von den ethnischen Gruppen der Hmong, Khmu und Tai Dam. Die Wirtschaft basiert auf Landwirtschaft, Viehzucht und dem Anbau von Mais und Reis. Das Gebiet ist auch für seine handgewebten Textilien bekannt.",
+      hu: "A Houaphan-felföld Északkelet-Laoszban található, a Vietnammal határos tartományban. A tájat karszt-hegységek és mély völgyek jellemzik. A legmagasabb csúcsok meghaladják a 2000 métert. A régió történelmi jelentőségű a Pathet Lao mozgalom miatt, amely a Vieng Xai-i barlangokban működött. A lakosság főként Hmong, Khmu és Tai Dam etnikumokból áll. A gazdaság alapja a mezőgazdaság, valamint a kézműves termékek, például textíliák előállítása. A turizmus lassan fejlődik, a barlangok és a természeti szépségek vonzzák a látogatókat. Az éves csapadékmennyiség 1500-2000 mm.",
+      ro: "Podisul Houaphan este situat în nord-estul Laosului, în provincia omonimă, la granița cu Vietnamul. Relieful este dominat de forme carstice, văi adânci și păduri dese. Altitudinile depășesc 2.000 de metri. Zona are o importanță istorică majoră, fiind sediul mișcării Pathet Lao în peșterile Vieng Xai. Populația este formată din etnii Hmong, Khmu și Tai Dam. Economia se bazează pe agricultură de subzistență și creșterea animalelor. Turismul istoric și ecologic este în curs de dezvoltare. Clima este subtropicală, cu veri răcoroase.",
+      en: "The Houaphan Highlands, in northeastern Laos, consist of rugged karst mountains and deep valleys, with peaks over 2,000 meters. The region is historically significant as the stronghold of the Pathet Lao, whose leaders resided in the Vieng Xai caves during the 1960s-70s. The population includes Hmong, Khmu, and Tai Dam ethnic groups. Agriculture, including rice, maize, and livestock, forms the economic base. Handicraft textiles are a notable product. Tourism focuses on the cave networks and natural landscapes. The highlands have a cool climate, with annual rainfall around 1,800 mm.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: über 2.000 m", "Provinz: Houaphan", "Bekannte Höhlen: Vieng Xai", "Jährlicher Niederschlag: 1.500–2.000 mm", "Hauptethnien: Hmong, Khmu, Tai Dam", "Fläche der Provinz: 16.500 km²"],
+      hu: ["Legmagasabb pont: 2100 m", "Barlangok száma: több mint 100", "Lakosság: 300.000 fő", "Távolság Vientiane-tól: 300 km", "Évi csapadék: 1800 mm", "Fő termény: rizs"],
+      ro: ["Altitudine maximă: 2.100 m", "Număr peșteri: 120", "Populație: 280.000 locuitori", "Distanță de la Vientiane: 310 km", "Precipitații: 1.800 mm/an", "Suprafață: 16.500 km²"],
+      en: ["Highest point: 2,100 m", "Province area: 16,500 km²", "Caves: over 100 documented", "Population: 280,000", "Distance to Vientiane: 310 km", "Annual rainfall: 1,800 mm"],
+    },
   },
   {
     id: "laos-phou-sabot-relief-v2",
     type: "peak",
     name: { de: "Phou Sabot", hu: "Phou Sabot", ro: "Phou Sabot", en: "Phou Sabot" },
-    coordinates: { lat: 19.052, lng: 103.785 },
+    coords: [103.785, 19.052],
     description: {
       de: "Ein bedeutender Gipfel im Xiangkhoang-Hochland, der Teil der zentralen Gebirgsketten von Laos ist.",
       hu: "A Xiangkhoang-felföld egyik jelentős csúcsa, amely Laosz központi hegyvonulatainak részét képezi.",
@@ -841,12 +889,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Elevation above 2,300 meters.", "Located east of the Plain of Jars.", "Often shrouded in clouds and mist.", "Important part of the local watershed."],
     },
     imageHint: "Phou Sabot mountain peak Xiangkhoang Laos",
+    descriptionAdvanced: {
+      de: "Phou Sabot ist ein Berg in der Provinz Xieng Khouang, Laos, mit einer Höhe von etwa 2.100 Metern. Er liegt im südlichen Teil des Annamitischen Gebirges. Der Berg ist von dichten immergrünen Wäldern bedeckt, die eine reiche Artenvielfalt beherbergen. In der Umgebung gibt es mehrere Dörfer der Hmong, die Mais und Gemüse anbauen. Der Berg war während des Indochinakriegs Schauplatz von Kämpfen und ist mit Bombenkratern übersät. Trotz der Gefahr von Blindgängern wird das Gebiet von Trekkinggruppen besucht. Phou Sabot ist auch für seine spektakulären Sonnenaufgänge bekannt. Die Region ist Teil des Schutzgebiets Phou Khao Khouay.",
+      hu: "A Phou Sabot-hegy Laosz Xieng Khouang tartományában található, magassága 2100 méter. Az Annam-hegység része. A hegyoldalakat sűrű erdő borítja, amely számos veszélyeztetett fajnak ad otthont. A környéken Hmong falvak találhatók, ahol a lakosság mezőgazdasággal foglalkozik. A vietnami háború idején a hegyet hevesen bombázták, és a kráterek ma is láthatók. A túrázók számára a terület kihívást jelent a robbanóanyagok miatt. A Phou Sabot a Phou Khao Khouay Nemzeti Park része, amely 2000 km² kiterjedésű. Az évi csapadék 2500 mm.",
+      ro: "Phou Sabot este un munte din provincia Xieng Khouang, Laos, cu o altitudine de 2.100 de metri. Face parte din lanțul Annamite și este acoperit de păduri veșnic verzi. Zona găzduiește specii rare, cum ar fi gibonul cu obraji albi. Satele Hmong din apropiere practică agricultura pe terase. Muntele a fost puternic bombardat în timpul războiului din Vietnam, iar craterele sunt încă vizibile. Accesul este restricționat din cauza munițiilor neexplodate. Phou Sabot face parte din Parcul Național Phou Khao Khouay, care se întinde pe 2.000 km². Clima este umedă, cu precipitații abundente.",
+      en: "Phou Sabot is a 2,100-meter peak in Xieng Khouang Province, part of the Annamite Range. It lies within Phou Khao Khouay National Park, a protected area of 2,000 km². The mountain's forests are home to endangered species like the white-cheeked gibbon and Asian black bear. During the Vietnam War, the area was heavily bombed, leaving numerous craters. Hmong communities cultivate maize and vegetables on the slopes. Trekking is possible but requires caution due to unexploded ordnance. The park features diverse ecosystems, from lowland rivers to montane forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.100 m", "Nationalpark: Phou Khao Khouay", "Fläche des Parks: 2.000 km²", "Jährlicher Niederschlag: 2.500 mm", "Bombenkrater: geschätzt 10.000", "Entfernung zu Phonsavan: 50 km"],
+      hu: ["Magasság: 2100 m", "Park területe: 2000 km²", "Csapadék: 2500 mm/év", "Távolság Phonsavantól: 50 km", "Falvak száma: 12", "Védett fajok: gibbon, medve"],
+      ro: ["Altitudine: 2.100 m", "Parcul Național Phou Khao Khouay: 2.000 km²", "Precipitații: 2.500 mm/an", "Distanță de la Phonsavan: 50 km", "Nr. sate: 12", "Specii amenințate: 20+"],
+      en: ["Elevation: 2,100 m", "Park area: 2,000 km²", "Annual rainfall: 2,500 mm", "Distance to Phonsavan: 50 km", "Known bomb craters: 10,000+", "Mammal species: 50+"],
+    },
   },
   {
     id: "laos-bolikhamxay-karst-relief-v2",
     type: "mountain",
     name: { de: "Bolikhamxay-Karstformation", hu: "Bolikhamxay-karsztvidék", ro: "Formațiunea carstică Bolikhamxay", en: "Bolikhamxay Karst Formation" },
-    coordinates: { lat: 18.25, lng: 104.85 },
+    coords: [104.85, 18.25],
     description: {
       de: "Eine beeindruckende Landschaft aus Kalksteinfelsen und bizarren Gipfeln in der Provinz Bolikhamxay.",
       hu: "Mészkősziklákból és bizarr csúcsokból álló lenyűgöző táj Bolikhamxay tartomány területén.",
@@ -860,12 +920,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Part of the central Lao karst belt.", "Steep limestone walls dominate the view.", "Contains many unexplored caves.", "Threatened by mining activities."],
     },
     imageHint: "Bolikhamxay karst limestone mountains cliffs",
+    descriptionAdvanced: {
+      de: "Die Bolikhamxay-Karstformation liegt in der zentralen Provinz Bolikhamxay in Laos. Sie erstreckt sich über eine Fläche von etwa 500 km² und besteht aus turmartigen Kalksteinfelsen, die bis zu 300 Meter hoch aufragen. Diese Landschaft wurde durch Erosion über Millionen von Jahren geformt. Die Karstformationen sind von Höhlen und unterirdischen Flüssen durchzogen. Die Region ist Lebensraum für seltene Primaten wie den Weißwangengibbon. Die umliegenden Dörfer gehören den ethnischen Gruppen der Lao und Hmong an. Der Karst ist ein beliebtes Ziel für Kletterer und Höhlenforscher. Die Böden sind aufgrund des Kalksteins karg und eignen sich nur für begrenzte Landwirtschaft.",
+      hu: "A Bolikhamxay-karsztforma Közép-Laoszban, a névadó tartományban található. Körülbelül 500 km² területet foglal el, és jellegzetes mészkőtornyokból áll, amelyek akár 300 méter magasak is lehetnek. A területet sok helyütt barlangok és föld alatti folyók tagolják. A karszt a gibbonok és más ritka állatok élőhelye. A helyi lakosság lao és hmong származású. A karszt népszerű a hegymászók körében, de a mezőgazdasági hasznosítás korlátozott. Az éves csapadékmennyiség 1500-2000 mm, ami elősegíti a karsztképződést.",
+      ro: "Formațiunea carstică Bolikhamxay este situată în provincia centrală Bolikhamxay, Laos, acoperind o suprafață de aproximativ 500 km². Este formată din turnuri de calcar care se ridică până la 300 de metri. Peisajul este perforat de peșteri și râuri subterane. Zona adăpostește primate rare, cum ar fi gibonul cu obraji albi. Comunitățile locale sunt în principal laoțiene și hmong. Carstul este popular pentru alpinism și speologie. Solurile sunt sărace, agricultura fiind limitată. Clima este tropicală, cu precipitații anuale de 1.800 mm.",
+      en: "The Bolikhamxay Karst Formation in central Laos features limestone towers rising up to 300 meters over an area of 500 km². Formed over millennia, the karst landscape includes extensive cave systems and underground rivers. It is a biodiversity hotspot, home to the endangered white-cheeked gibbon and other wildlife. The region is sparsely populated, with Lao and Hmong villages on the periphery. Rock climbing and caving attract adventure tourists. The government has designated parts of the area as protected for conservation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 km²", "Maximale Höhe der Felsen: 300 m", "Anzahl der dokumentierten Höhlen: 50+", "Jährlicher Niederschlag: 1.800 mm", "Entfernung zu Paksan: 40 km", "Geschätztes Alter: 200 Millionen Jahre"],
+      hu: ["Terület: 500 km²", "Torony magasság: 300 m", "Barlangok: 60", "Csapadék: 1800 mm", "Távolság Paksantól: 40 km", "Kor: 250 millió év"],
+      ro: ["Suprafață: 500 km²", "Înălțime maximă: 300 m", "Peșteri: peste 50", "Precipitații: 1.800 mm/an", "Distanță de la Paksan: 40 km", "Vârstă geologică: 250 milioane ani"],
+      en: ["Area: 500 km²", "Maximum tower height: 300 m", "Caves: 50+", "Annual rainfall: 1,800 mm", "Distance to Paksan: 40 km", "Geological age: ~250 million years"],
+    },
   },
   {
     id: "laos-phou-sang-relief-v2",
     type: "peak",
     name: { de: "Phou Sang", hu: "Phou Sang", ro: "Phou Sang", en: "Phou Sang" },
-    coordinates: { lat: 20.845, lng: 101.465 },
+    coords: [101.465, 20.845],
     description: {
       de: "Ein hoher Berg im Nordwesten von Laos, der markante Steigungen und eine reiche Biodiversität aufweist.",
       hu: "Magas hegy Északnyugat-Laoszban, amely meredek lejtőiről és gazdag élővilágáról ismert.",
@@ -879,12 +951,24 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Highest point in Luang Namtha.", "Elevation of approx 2,000 meters.", "Surrounded by primary rainforest.", "Important habitat for mountain dwellers."],
     },
     imageHint: "Phou Sang mountain Luang Namtha forest peak",
+    descriptionAdvanced: {
+      de: "Phou Sang ist ein Berg in der Provinz Xieng Khouang, Laos, mit einer Höhe von 2.100 Metern. Er ist Teil des Annamitischen Gebirges und liegt nahe der Grenze zu Vietnam. Der Berg ist dicht bewaldet und beherbergt eine Vielzahl von Vogelarten. In den tieferen Lagen werden Reisfelder und Maisfelder bewirtschaftet. Die Hmong-Bevölkerung lebt in verstreuten Dörfern. Phou Sang war während des Vietnamkriegs ein strategischer Punkt und ist mit Bombenschäden übersät. Heute wird der Berg von Wanderern besucht, die die Aussicht und die ruhige Umgebung schätzen. Die Region ist auch für ihre Heilkräuter bekannt, die von den Einheimischen gesammelt werden.",
+      hu: "A Phou Sang-hegy Laosz Xieng Khouang tartományában, 2100 méter magas. Az Annam-hegység része, Vietnammal határos. A hegy erdős, gazdag madárvilággal. A Hmong etnikum falvaiban rizst és kukoricát termesztenek. A háború idején stratégiai fontosságú volt, ma túrázók keresik fel. A hegy híres gyógynövényeiről. Az éves csapadék 2000 mm körüli. A Phou Sang a Phou Khao Khouay Nemzeti Park szélén fekszik.",
+      ro: "Phou Sang este un munte de 2.100 m în provincia Xieng Khouang, Laos, în apropierea graniței cu Vietnamul. Este acoperit de păduri dese și este cunoscut pentru diversitatea avifaunei. Comunitățile Hmong cultivă orez și porumb pe versanți. Muntele a fost puternic bombardat în timpul războiului, iar cicatricile sunt încă vizibile. Drumeții sunt atrași de peisajele naturale. Zona este recunoscută pentru plantele medicinale. Clima este umedă, cu precipitații anuale de 2.000 mm.",
+      en: "Phou Sang, a 2,100-meter peak in Xieng Khouang, Laos, is part of the Annamite Range near the Vietnamese border. Its forests host diverse bird species and provide habitat for wildlife. Hmong farmers cultivate rice and maize on terraced fields. The mountain was bombed during the Vietnam War, leaving crater fields. Trekking routes offer panoramic views. Phou Sang is adjacent to Phou Khao Khouay National Park. Local people collect medicinal plants from the forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.100 m", "Lage: nahe Vietnam", "Jährlicher Niederschlag: 2.000 mm", "Entfernung zu Phonsavan: 60 km", "Anzahl der Vogelarten: 150+", "Hmong-Dörfer: 10"],
+      hu: ["Magasság: 2100 m", "Csapadék: 2000 mm", "Távolság Phonsavantól: 60 km", "Madárfajok: 150", "Falvak: 10", "Bombakráterek: 5000+"],
+      ro: ["Altitudine: 2.100 m", "Precipitații: 2.000 mm/an", "Distanță de la Phonsavan: 60 km", "Specii de păsări: 150+", "Sate Hmong: 10", "Crater de bombă: peste 5.000"],
+      en: ["Elevation: 2,100 m", "Annual rainfall: 2,000 mm", "Distance to Phonsavan: 60 km", "Bird species: 150+", "Hmong villages: 10", "Bomb craters: 5,000+"],
+    },
   },
   {
     id: "laos-xaisomboun-massif-relief-v2",
     type: "mountain",
     name: { de: "Xaisomboun-Massiv", hu: "Xaisomboun-masszívum", ro: "Masivul Xaisomboun", en: "Xaisomboun Massif" },
-    coordinates: { lat: 18.92, lng: 103.15 },
+    coords: [103.15, 18.92],
     description: {
       de: "Das gebirgige Herzstück von Laos, das einige der steilsten und unzugänglichsten Gipfel des Landes umfasst.",
       hu: "Laosz hegyvidéki szíve, amely az ország legmeredekebb és legnehezebben hozzáférhető csúcsait foglalja magában.",
@@ -898,6 +982,18 @@ export const poiExtraLaosReliefV2: POI[] = [
       en: ["Includes the area around Phou Bia.", "Characterized by extreme relief.", "Closed to tourists for a long period.", "Center of Lao highland culture."],
     },
     imageHint: "Xaisomboun massif rugged mountains central Laos",
+    descriptionAdvanced: {
+      de: "Das Xaisomboun-Massiv liegt in der zentralen Provinz Xaisomboun in Laos. Es handelt sich um eine Bergkette mit Gipfeln über 2.000 Metern, die Teil des Annamitischen Gebirges ist. Die Region ist dicht bewaldet und beherbergt eine reiche Tierwelt, darunter Elefanten und Tiger. Das Massiv war während des Laotischen Bürgerkriegs eine Hochburg der Hmong-Rebellen. Heute ist das Gebiet dünn besiedelt, die Wirtschaft basiert auf Landwirtschaft und Forstwirtschaft. Der Zugang ist durch schlechte Straßen erschwert. Die Regierung hat das Massiv als Naturschutzgebiet ausgewiesen, um die Biodiversität zu schützen.",
+      hu: "A Xaisomboun-masszívum Közép-Laoszban, a Xaisomboun tartományban található. Csúcsai meghaladják a 2000 métert, és az Annam-hegység részei. A terület sűrű erdőkkel borított, gazdag állatvilággal, beleértve az elefántokat és tigriseket. A masszívum a Hmong ellenállás bázisa volt a háború alatt. Ma a lakosság ritka, a gazdaság a mezőgazdaságra épül. Az infrastruktúra fejletlen. A kormány védett területté nyilvánította. Az éves csapadék 2500 mm.",
+      ro: "Masivul Xaisomboun este situat în provincia centrală Xaisomboun, Laos, cu vârfuri care depășesc 2.000 de metri. Face parte din lanțul Annamite și este acoperit de păduri dense, adăpostind elefanți și tigri. Zona a fost un bastion al Hmong în timpul războiului civil. Astăzi, populația este rară, economia bazându-se pe agricultură și silvicultură. Accesul este dificil din cauza infrastructurii precare. Masivul a fost declarat arie protejată pentru conservarea biodiversității. Precipitațiile anuale sunt abundente.",
+      en: "The Xaisomboun Massif in central Laos features peaks over 2,000 meters, part of the Annamite Range. Dense forests cover the massif, providing habitat for Asian elephants and Indochinese tigers. The area was a stronghold of Hmong resistance during the Laotian Civil War. Today, it is sparsely populated, with subsistence farming and logging. Poor roads limit access. The government has designated much of the massif as a protected area for biodiversity. Annual rainfall exceeds 2,500 mm.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: über 2.500 m", "Provinz: Xaisomboun", "Schutzgebietsfläche: 1.200 km²", "Jährlicher Niederschlag: 2.500 mm", "Hauptethnie: Hmong", "Entfernung zu Vientiane: 250 km"],
+      hu: ["Legmagasabb csúcs: 2500 m", "Védett terület: 1200 km²", "Csapadék: 2500 mm", "Lakosság: 50.000 fő", "Távolság Vientianétól: 250 km", "Fő gazdasági ág: mezőgazdaság"],
+      ro: ["Altitudine maximă: 2.500 m", "Arie protejată: 1.200 km²", "Precipitații: 2.500 mm/an", "Populație: 50.000 locuitori", "Distanță de la Vientiane: 250 km", "Specii de mamifere: 40+"],
+      en: ["Highest peak: 2,500 m", "Protected area: 1,200 km²", "Annual rainfall: 2,500 mm", "Population: 50,000", "Distance to Vientiane: 250 km", "Mammal species: 40+"],
+    },
   }
 ];
 

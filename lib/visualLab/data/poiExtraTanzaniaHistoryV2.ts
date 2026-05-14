@@ -1087,7 +1087,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-kimbiji-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Kimbiji", hu: "Kimbiji romok", ro: "Ruinele Kimbiji", en: "Kimbiji Ruins" },
-    coordinates: { lat: -6.9852, lng: 39.5251 },
+    coords: [39.5251, -6.9852],
     description: {
       de: "Überreste einer mittelalterlichen Swahili-Siedlung südlich von Dar es Salaam mit Korallensteinbauten.",
       hu: "Középkori szuahéli település maradványai Dar es-Salaamtól délre, korallkőből épült házakkal.",
@@ -1106,7 +1106,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-lindi-boma-history-v2",
     type: "landmark",
     name: { de: "Deutsches Boma Lindi", hu: "Lindi német boma", ro: "Boma germană din Lindi", en: "Lindi German Boma" },
-    coordinates: { lat: -9.9951, lng: 39.7152 },
+    coords: [39.7152, -9.9951],
     description: {
       de: "Eine ehemalige deutsche Kolonialfestung und Verwaltungsgebäude aus dem späten 19. Jahrhundert in Lindi.",
       hu: "Egykori német gyarmati erőd és közigazgatási épület a 19. század végéről Lindiben.",
@@ -1125,7 +1125,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-pangani-boma-history-v2",
     type: "landmark",
     name: { de: "Altes Boma Pangani", hu: "Pangani régi boma", ro: "Boma veche din Pangani", en: "Pangani Old Boma" },
-    coordinates: { lat: -5.4325, lng: 38.9754 },
+    coords: [38.9754, -5.4325],
     description: {
       de: "Historisches Verwaltungsgebäude in Pangani, das sowohl die deutsche als auch die britische Ära widerspiegelt.",
       hu: "Történelmi közigazgatási épület Panganiban, amely a német és a brit korszakot is tükrözi.",
@@ -1144,7 +1144,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-tabora-boma-history-v2",
     type: "landmark",
     name: { de: "Deutsches Boma Tabora", hu: "Tabora német boma", ro: "Boma germană din Tabora", en: "Tabora German Boma" },
-    coordinates: { lat: -5.0255, lng: 32.8152 },
+    coords: [32.8152, -5.0255],
     description: {
       de: "Massive Festung in Zentral-Tansania, die als militärischer Hauptsitz während der deutschen Kolonialzeit diente.",
       hu: "Hatalmas erőd Közép-Tanzániában, amely katonai főhadiszállásként szolgált a német gyarmati időszakban.",
@@ -1163,7 +1163,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-kidichi-baths-history-v2",
     type: "ruins",
     name: { de: "Kidichi Persische Bäder", hu: "Kidichi perzsa fürdők", ro: "Băile Persane Kidichi", en: "Kidichi Persian Baths" },
-    coordinates: { lat: -6.1052, lng: 39.2458 },
+    coords: [39.2458, -6.1052],
     description: {
       de: "Ruinen historischer Dampfbäder in Sansibar, erbaut für die persische Ehefrau von Sultan Said bin Sultan.",
       hu: "Történelmi gőzfürdők romjai Zanzibárban, amelyeket Said bin Sultan szultán perzsa felesége számára építettek.",
@@ -1182,7 +1182,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-fukuchani-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Fukuchani", hu: "Fukuchani romok", ro: "Ruinele Fukuchani", en: "Fukuchani Ruins" },
-    coordinates: { lat: -5.8458, lng: 39.3152 },
+    coords: [39.3152, -5.8458],
     description: {
       de: "Befestigtes Wohnhaus aus dem 16. Jahrhundert im Norden von Sansibar, erbaut aus Korallenkalkstein.",
       hu: "16. századi erődített lakóház Zanzibár északi részén, korallmészkőből építve.",
@@ -1201,7 +1201,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-mvuleni-ruins-history-v2",
     type: "ruins",
     name: { de: "Mvuleni Ruinen", hu: "Mvuleni romok", ro: "Ruinele Mvuleni", en: "Mvuleni Ruins" },
-    coordinates: { lat: -5.8652, lng: 39.3258 },
+    coords: [39.3258, -5.8652],
     description: {
       de: "Ruinen einer portugiesischen oder Swahili-Siedlung in Sansibar mit Resten eines großen Herrenhauses.",
       hu: "Portugál vagy szuahéli település romjai Zanzibárban egy nagy udvarház maradványaival.",
@@ -1220,7 +1220,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-tumbatu-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Tumbatu", hu: "Tumbatu romok", ro: "Ruinele Tumbatu", en: "Tumbatu Ruins" },
-    coordinates: { lat: -5.8251, lng: 39.2252 },
+    coords: [39.2252, -5.8251],
     description: {
       de: "Archäologische Stätte auf der Insel Tumbatu mit bedeutenden Ruinen aus der Shirazi-Zeit.",
       hu: "Régészeti lelőhely Tumbatu szigetén, jelentős romokkal a Shirazi-korszakból.",
@@ -1239,7 +1239,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-kalenga-museum-history-v2",
     type: "museum",
     name: { de: "Kalenga Hehe Museum", hu: "Kalenga Hehe Múzeum", ro: "Muzeul Hehe din Kalenga", en: "Kalenga Hehe Museum" },
-    coordinates: { lat: -7.7858, lng: 35.5852 },
+    coords: [35.5852, -7.7858],
     description: {
       de: "Historisches Dorf und Museum, das dem Volk der Hehe und ihrem Anführer Häuptling Mkwawa gewidmet ist.",
       hu: "Történelmi falu és múzeum, amelyet a Hehe népnek és vezetőjüknek, Mkwawa főnöknek szenteltek.",
@@ -1258,7 +1258,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-lugalo-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Lugalo", hu: "Lugalo csatatér", ro: "Câmpul de luptă Lugalo", en: "Lugalo Battlefield" },
-    coordinates: { lat: -7.7251, lng: 35.8858 },
+    coords: [35.8858, -7.7251],
     description: {
       de: "Ort der berühmten Schlacht von 1891, in der Hehe-Krieger eine deutsche Expeditionstruppe besiegten.",
       hu: "Az 1891-es híres csata helyszíne, ahol Hehe harcosok legyőztek egy német expedíciós erőt.",
@@ -1277,7 +1277,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-bweranyange-ruins-history-v2",
     type: "ruins",
     name: { de: "Bweranyange Ruinen", hu: "Bweranyange romok", ro: "Ruinele Bweranyange", en: "Bweranyange Ruins" },
-    coordinates: { lat: -1.7258, lng: 31.0251 },
+    coords: [31.0251, -1.7258],
     description: {
       de: "Ehemalige Hauptstadt des Karagwe-Königreichs mit archäologischer Bedeutung für die Eisenzeit.",
       hu: "A Karagwe Királyság egykori fővárosa, régészeti jelentőséggel a vaskorból.",
@@ -1296,7 +1296,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-mbwenni-ruins-history-v2",
     type: "ruins",
     name: { de: "Mbwenni Ruinen", hu: "Mbwenni romok", ro: "Ruinele Mbwenni", en: "Mbwenni Ruins" },
-    coordinates: { lat: -6.2158, lng: 39.2152 },
+    coords: [39.2152, -6.2158],
     description: {
       de: "Überreste einer anglikanischen Missionsstation und Schule für befreite Sklaven in Sansibar.",
       hu: "Egy anglikán missziós állomás és felszabadított rabszolgák iskolájának maradványai Zanzibárban.",
@@ -1315,7 +1315,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-bi-khole-palace-history-v2",
     type: "palace",
     name: { de: "Bi Khole Palastruinen", hu: "Bi Khole palotaromok", ro: "Ruinele Palatului Bi Khole", en: "Bi Khole Palace Ruins" },
-    coordinates: { lat: -6.1152, lng: 39.2658 },
+    coords: [39.2658, -6.1152],
     description: {
       de: "Ruinen eines Landsitzes aus dem 19. Jahrhundert, der Prinzessin Bi Khole, der Tochter von Sultan Said, gehörte.",
       hu: "19. századi vidéki rezidencia romjai, amely Bi Khole hercegnőé, Said szultán lányáé volt.",
@@ -1334,7 +1334,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-dunga-palace-history-v2",
     type: "palace",
     name: { de: "Dunga Palastruinen", hu: "Dunga palotaromok", ro: "Ruinele Palatului Dunga", en: "Dunga Palace Ruins" },
-    coordinates: { lat: -6.1458, lng: 39.3452 },
+    coords: [39.3452, -6.1458],
     description: {
       de: "Überreste des Palastes des Mwinyi Mkuu, des traditionellen Herrschers von Sansibar, erbaut im 19. Jahrhundert.",
       hu: "A Mwinyi Mkuu, Zanzibár hagyományos uralkodójának 19. századi palotamaradványai.",
@@ -1353,7 +1353,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-msasani-tombs-history-v2",
     type: "ruins",
     name: { de: "Msasani Gräber", hu: "Msasani sírok", ro: "Mormintele din Msasani", en: "Msasani Tombs" },
-    coordinates: { lat: -6.7451, lng: 39.2758 },
+    coords: [39.2758, -6.7451],
     description: {
       de: "Historische Swahili-Grabanlagen aus dem 17. bis 19. Jahrhundert auf der Msasani-Halbinsel in Dar es Salaam.",
       hu: "17. és 19. század közötti történelmi szuahéli sírok a Dar es-Salaam-i Msasani-félszigeten.",
@@ -1372,7 +1372,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-old-moshi-history-v2",
     type: "landmark",
     name: { de: "Alt-Moshi Historische Stätte", hu: "Old Moshi történelmi helyszín", ro: "Situl istoric Old Moshi", en: "Old Moshi Historical Site" },
-    coordinates: { lat: -3.3252, lng: 37.3858 },
+    coords: [37.3858, -3.3252],
     description: {
       de: "Ursprünglicher Standort von Moshi und Zentrum des Chagga-Widerstands gegen die Kolonialmacht.",
       hu: "Moshi eredeti helyszíne és a gyarmati hatalom elleni Chagga ellenállás központja.",
@@ -1391,7 +1391,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-shirati-boma-history-v2",
     type: "landmark",
     name: { de: "Deutsches Boma Shirati", hu: "Shirati német boma", ro: "Boma germană din Shirati", en: "Shirati German Boma" },
-    coordinates: { lat: -1.1352, lng: 33.9958 },
+    coords: [33.9958, -1.1352],
     description: {
       de: "Ehemalige deutsche Grenzstation am Viktoriasee nahe der Grenze zu Kenia.",
       hu: "Egykori német határállomás a Viktória-tónál, a kenyai határ közelében.",
@@ -1410,7 +1410,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-chake-chake-fort-history-v2",
     type: "castle",
     name: { de: "Altes Fort Chake Chake", hu: "Chake Chake régi erőd", ro: "Vechea fortăreață Chake Chake", en: "Chake Chake Old Fort" },
-    coordinates: { lat: -5.2452, lng: 39.7658 },
+    coords: [39.7658, -5.2452],
     description: {
       de: "Historische Festung auf der Insel Pemba, die vermutlich von den Portugiesen oder Omani-Arabern erbaut wurde.",
       hu: "Történelmi erőd Pemba szigetén, amelyet valószínűleg a portugálok vagy az ománi arabok építettek.",
@@ -1429,7 +1429,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-kiungani-ruins-history-v2",
     type: "ruins",
     name: { de: "Kiungani Ruinen", hu: "Kiungani romok", ro: "Ruinele Kiungani", en: "Kiungani Ruins" },
-    coordinates: { lat: -6.1752, lng: 39.2158 },
+    coords: [39.2158, -6.1752],
     description: {
       de: "Überreste einer historischen Missionsstation in Sansibar, die für befreite Sklavenkinder errichtet wurde.",
       hu: "Egy történelmi missziós állomás maradványai Zanzibárban, amelyet felszabadított rabszolgagyerekek számára hoztak létre.",
@@ -1448,7 +1448,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     id: "tanzania-kunduchi-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Kunduchi", hu: "Kunduchi romok", ro: "Ruinele Kunduchi", en: "Kunduchi Ruins" },
-    coordinates: { lat: -6.6658, lng: 39.2152 },
+    coords: [39.2152, -6.6658],
     description: {
       de: "Bedeutende Grabstätten und Moscheeruinen aus dem 18. Jahrhundert nördlich von Dar es Salaam.",
       hu: "Jelentős 18. századi sírhelyek és mecsetromok Dar es-Salaamtól északra.",

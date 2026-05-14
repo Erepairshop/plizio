@@ -726,7 +726,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-techo-takhmao-airport-economic-v2",
     type: "industry",
     name: { de: "Internationaler Flughafen Techo Takhmao", hu: "Techo Takhmao nemzetközi repülőtér", ro: "Aeroportul Internațional Techo Takhmao", en: "Techo Takhmao International Airport" },
-    coordinates: { lat: 11.352, lng: 104.914 },
+    coords: [104.914, 11.352],
     description: {
       de: "Dieser massive neue Flughafen südlich von Phnom Penh ist ein zentrales Infrastrukturprojekt. Er soll den regionalen Handel stärken.",
       hu: "Ez a Phnompentől délre fekvő hatalmas új repülőtér központi infrastrukturális projekt. Célja a regionális kereskedelem erősítése.",
@@ -757,7 +757,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-chup-rubber-plantation-economic-v2",
     type: "industry",
     name: { de: "Kautschukplantage Chup", hu: "Chup gumiültetvény", ro: "Plantația de cauciuc Chup", en: "Chup Rubber Plantation" },
-    coordinates: { lat: 11.972, lng: 105.625 },
+    coords: [105.625, 11.972],
     description: {
       de: "Chup ist eine der größten und ältesten Kautschukplantagen in Kambodscha. Sie ist ein bedeutendes Zentrum für die Rohstoffproduktion.",
       hu: "A Chup Kambodzsa egyik legnagyobb és legrégebbi gumiültetvénye. A nyersanyagtermelés egyik jelentős központja az országban.",
@@ -788,7 +788,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-russei-chrum-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Stung Russei Chrum", hu: "Stung Russei Chrum vízerőmű", ro: "Hidrocentrala Stung Russei Chrum", en: "Stung Russei Chrum Hydropower Plant" },
-    coordinates: { lat: 11.854, lng: 103.052 },
+    coords: [103.052, 11.854],
     description: {
       de: "Dieses Kraftwerk im Kardamom-Gebirge produziert einen erheblichen Teil des Stroms. Es nutzt das Wasser des Flusses Russei Chrum.",
       hu: "Ez a Kardamom-hegységben található erőmű az áram jelentős részét termeli. A Russei Chrum folyó vizét hasznosítja.",
@@ -819,7 +819,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-vattanac-capital-economic-v2",
     type: "landmark",
     name: { de: "Vattanac Capital Tower", hu: "Vattanac Capital torony", ro: "Turnul Vattanac Capital", en: "Vattanac Capital Tower" },
-    coordinates: { lat: 11.571, lng: 104.919 },
+    coords: [104.919, 11.571],
     description: {
       de: "Dieser markante Wolkenkratzer in Phnom Penh ist das Symbol für den Aufstieg. Er beherbergt Luxusbüros und gehobenen Einzelhandel.",
       hu: "Ez a jellegzetes phnompeni felhőkarcoló a felemelkedés szimbóluma. Luxusirodáknak és nívós üzleteknek ad otthont.",
@@ -850,7 +850,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-canadia-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Canadia", hu: "Canadia ipari park", ro: "Parcul Industrial Canadia", en: "Canadia Industrial Park" },
-    coordinates: { lat: 11.535, lng: 104.852 },
+    coords: [104.852, 11.535],
     description: {
       de: "Dieser Industriepark ist ein wichtiger Standort für die Bekleidungsindustrie. Tausende von Arbeitern fertigen hier Textilien für den Export.",
       hu: "Ez az ipari park a ruhaipar egyik fontos helyszíne. Munkások ezrei készítenek itt textíliákat exportra.",
@@ -881,7 +881,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-poipet-oneang-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Poipet O'Neang", hu: "Poipet O'Neang különleges gazdasági övezet", ro: "Zona Economică Specială Poipet O'Neang", en: "Poipet O'Neang SEZ" },
-    coordinates: { lat: 13.621, lng: 102.605 },
+    coords: [102.605, 13.621],
     description: {
       de: "Diese Zone nahe der thailändischen Grenze fördert die industrielle Entwicklung. Sie zieht ausländische Investoren durch Steuervorteile an.",
       hu: "Ez a thaiföldi határ közelében lévő övezet az ipari fejlődést ösztönzi. Adókedvezményekkel vonzza a külföldi befektetőket.",
@@ -912,7 +912,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-steung-hav-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Steung Hav", hu: "Steung Hav kikötő", ro: "Portul Steung Hav", en: "Steung Hav Port" },
-    coordinates: { lat: 10.745, lng: 103.558 },
+    coords: [103.558, 10.745],
     description: {
       de: "Steung Hav ist ein spezialisierter Hafen für Schwerindustrie und Energie. Er entlastet den Hauptkikötő in Sihanoukville.",
       hu: "Steung Hav a nehéziparra és az energiára szakosodott kikötő. Tehermentesíti a sihanoukville-i fő kikötőt.",
@@ -943,7 +943,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-battambang-conch-cement-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Battambang Conch", hu: "Battambang Conch cementgyár", ro: "Fabrica de ciment Battambang Conch", en: "Battambang Conch Cement Plant" },
-    coordinates: { lat: 13.255, lng: 103.158 },
+    coords: [103.158, 13.255],
     description: {
       de: "Dieses Werk ist einer der größten Zementproduzenten im Nordwesten. Es deckt den hohen Bedarf des kambodschanischen Bausektors.",
       hu: "Ez az üzem az északnyugati régió egyik legnagyobb cementgyártója. Kiszolgálja az építőipar magas igényeit.",
@@ -974,7 +974,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-dara-sakor-sez-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftszone Dara Sakor", hu: "Dara Sakor gazdasági övezet", ro: "Zona Economică Dara Sakor", en: "Dara Sakor SEZ" },
-    coordinates: { lat: 10.915, lng: 103.185 },
+    coords: [103.185, 10.915],
     description: {
       de: "Dara Sakor ist ein gigantisches Projekt für Tourismus und Industrie. Es umfasst einen internationalen Flughafen und einen Tiefwasserhafen.",
       hu: "A Dara Sakor egy gigantikus turisztikai és ipari projekt. Magában foglal egy nemzetközi repülőteret és egy mélyvízi kikötőt.",
@@ -1005,7 +1005,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-kirirom-3-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Kirirom 3", hu: "Kirirom 3 vízerőmű", ro: "Hidrocentrala Kirirom 3", en: "Kirirom 3 Hydropower Plant" },
-    coordinates: { lat: 11.125, lng: 104.055 },
+    coords: [104.055, 11.125],
     description: {
       de: "Kirirom 3 ist Teil des Wasserkraft-Netzwerks im Kirirom-Nationalpark. Es liefert saubere Energie für die umliegenden Provinzen.",
       hu: "A Kirirom 3 a Kirirom Nemzeti Park vízerőmű-hálózatának része. Tiszta energiát szolgáltat a környező tartományoknak.",
@@ -1036,7 +1036,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-kerry-worldbridge-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Kerry Worldbridge", hu: "Kerry Worldbridge különleges gazdasági övezet", ro: "Zona Economică Specială Kerry Worldbridge", en: "Kerry Worldbridge SEZ" },
-    coordinates: { lat: 11.455, lng: 104.952 },
+    coords: [104.952, 11.455],
     description: {
       de: "Dieser Logistik-Hub konzentriert sich auf die Lagerung und den Vertrieb von Waren. Er liegt strategisch günstig nahe der Hauptstadt.",
       hu: "Ez a logisztikai központ az áruk tárolására és elosztására összpontosít. Stratégiai helyen, a főváros közelében található.",
@@ -1067,7 +1067,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-tai-seng-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Tai Seng", hu: "Tai Seng különleges gazdasági övezet", ro: "Zona Economică Specială Tai Seng", en: "Tai Seng SEZ" },
-    coordinates: { lat: 11.085, lng: 106.152 },
+    coords: [106.152, 11.085],
     description: {
       de: "Tai Seng ist eine bedeutende Zone in Bavet an der Grenze zu Vietnam. Sie beherbergt Fabriken für Fahrräder und Textilien.",
       hu: "A Tai Seng egy jelentős övezet Bavetben, a vietnámi határnál. Kerékpár- és textilgyáraknak ad otthont.",
@@ -1098,7 +1098,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-phnom-krom-rice-economic-v2",
     type: "industry",
     name: { de: "Reisanbaugebiet Phnom Krom", hu: "Phnom Krom rizstermelő vidék", ro: "Zonă agricolă Phnom Krom", en: "Phnom Krom Rice Production Area" },
-    coordinates: { lat: 13.285, lng: 103.825 },
+    coords: [103.825, 13.285],
     description: {
       de: "Die Gebiete um den Phnom Krom sind für den intensiven Reisanbau bekannt. Das Wasser des Tonle Sap Sees ermöglicht hohe Erträge.",
       hu: "A Phnom Krom környéki területek intenzív rizstermesztésükről ismertek. A Tonle Sap-tó vize magas hozamokat tesz lehetővé.",
@@ -1129,7 +1129,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-preah-sihanouk-power-plant-economic-v2",
     type: "industry",
     name: { de: "Wärmekraftwerk Preah Sihanouk", hu: "Preah Sihanouk hőerőmű", ro: "Termocentrala Preah Sihanouk", en: "Preah Sihanouk Thermal Power Plant" },
-    coordinates: { lat: 10.685, lng: 103.585 },
+    coords: [103.585, 10.685],
     description: {
       de: "Dieses Kohlekraftwerk ist eine der wichtigsten Energiequellen des Landes. Es deckt den wachsenden Strombedarf der Industrie.",
       hu: "Ez a szénerőmű az ország egyik legfontosabb energiaforrása. Kiszolgálja az ipar növekvő áramigényét.",
@@ -1160,7 +1160,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-kizuna-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Kizuna", hu: "Kizuna különleges gazdasági övezet", ro: "Zona Economică Specială Kizuna", en: "Kizuna SEZ" },
-    coordinates: { lat: 11.485, lng: 104.912 },
+    coords: [104.912, 11.485],
     description: {
       de: "Die Kizuna-Zone bietet Mietfabriken für kleine und mittlere Unternehmen. Sie fördert japanische Investitionen in Kambodscha.",
       hu: "A Kizuna-övezet bérelhető gyárakat kínál kis- és középvállalkozásoknak. A japán befektetéseket ösztönzi Kambodzsában.",
@@ -1191,7 +1191,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-phnom-preuk-gold-mine-economic-v2",
     type: "mine",
     name: { de: "Goldmine Phnom Preuk", hu: "Phnom Preuk aranybánya", ro: "Mina de aur Phnom Preuk", en: "Phnom Preuk Gold Mine" },
-    coordinates: { lat: 13.415, lng: 102.352 },
+    coords: [102.352, 13.415],
     description: {
       de: "Diese Mine im Nordwesten wird für den Goldabbau erschlossen. Sie ist Teil der wachsenden Bergbauindustrie des Landes.",
       hu: "Ezt az északnyugati bányát aranykitermelésre fejlesztik. Az ország növekvő bányászatának része.",
@@ -1222,7 +1222,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-kampong-speu-palm-sugar-economic-v2",
     type: "industry",
     name: { de: "Palmzucker-Produktionszentrum Kampong Speu", hu: "Kampong Speu pálmacukor-termelő központ", ro: "Centrul de producție a zahărului de palmier", en: "Kampong Speu Palm Sugar Production Center" },
-    coordinates: { lat: 11.458, lng: 104.525 },
+    coords: [104.525, 11.458],
     description: {
       de: "Dieses Gebiet produziert den berühmten Kampong Speu Palmzucker mit geschützter Herkunftsbezeichnung. Es ist ein wichtiger Exportartikel.",
       hu: "Ez a terület a híres, védett eredetű Kampong Speu pálmacukrot termeli. Az ország egyik fontos exportterméke.",
@@ -1253,7 +1253,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     id: "cambodia-stung-meteuk-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Stung Meteuk", hu: "Stung Meteuk vízerőmű", ro: "Hidrocentrala Stung Meteuk", en: "Stung Meteuk Hydropower Plant" },
-    coordinates: { lat: 11.625, lng: 103.025 },
+    coords: [103.025, 11.625],
     description: {
       de: "Das Kraftwerk Stung Meteuk liegt an der Grenze zwischen Kambodscha und Thailand. Es ist ein Beispiel für grenzüberschreitende Kooperation.",
       hu: "A Stung Meteuk erőmű a kambodzsai-thaiföldi határ mentén fekszik. A határokon átnyúló együttműködés egyik példája.",

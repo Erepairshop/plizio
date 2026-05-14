@@ -1358,7 +1358,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-gijduvan-cities-v2",
     type: "city",
     name: { de: "Gidschuwan", hu: "Gijduvon", ro: "Gijduvon", en: "Gijduvan" },
-    coordinates: { lat: 40.1, lng: 64.67 },
+    coords: [64.67, 40.1],
     description: {
       de: "Eine historische Stadt in der Region Buchara, die für ihre jahrhundertealte Keramiktradition und das Grabmal von Abdulkhaliq Gidschuwani bekannt ist.",
       hu: "Történelmi város a Buhara régióban, amely évszázados kerámiahagyományairól és Abdulhalik Gijduvoni síremlékéről ismert.",
@@ -1377,7 +1377,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-urgut-cities-v2",
     type: "city",
     name: { de: "Urgut", hu: "Urgut", ro: "Urgut", en: "Urgut" },
-    coordinates: { lat: 39.4, lng: 67.24 },
+    coords: [67.24, 39.4],
     description: {
       de: "Urgut liegt am Fuße des Serawschan-Gebirges und beherbergt einen der größten traditionellen Märkte in Zentralasien.",
       hu: "Urgut a Zeravsán-hegység lábánál fekszik, és Közép-Ázsia egyik legnagyobb hagyományos piacának ad otthont.",
@@ -1396,7 +1396,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kasan-cities-v2",
     type: "city",
     name: { de: "Kasan", hu: "Koson", ro: "Kasan", en: "Kasan" },
-    coordinates: { lat: 39.04, lng: 65.57 },
+    coords: [65.57, 39.04],
     description: {
       de: "Eine der ältesten Städte in der Region Qashqadaryo, die auf eine Siedlungsgeschichte bis in die Antike zurückblicken kann.",
       hu: "A Kaskadarja régió egyik legrégebbi városa, amelynek településtörténete az ókorig nyúlik vissza.",
@@ -1415,7 +1415,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kitab-cities-v2",
     type: "city",
     name: { de: "Kitob", hu: "Kitob", ro: "Kitab", en: "Kitab" },
-    coordinates: { lat: 39.12, lng: 66.88 },
+    coords: [66.88, 39.12],
     description: {
       de: "Kitob ist bekannt für seine astronomische Station und seine Lage in einem malerischen Tal des Gissar-Gebirges.",
       hu: "Kitob csillagászati állomásáról és a Gissar-hegység egyik festői völgyében fekvő elhelyezkedéséről ismert.",
@@ -1434,7 +1434,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-baysun-cities-v2",
     type: "town",
     name: { de: "Baissun", hu: "Boysun", ro: "Baysun", en: "Baysun" },
-    coordinates: { lat: 38.2, lng: 67.2 },
+    coords: [67.2, 38.2],
     description: {
       de: "Eine Stadt im Süden Usbekistans, deren kulturelle Traditionen von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes anerkannt sind.",
       hu: "Város Üzbegisztán déli részén, amelynek kulturális hagyományait az UNESCO a szóbeli és szellemi örökség remekműveként ismerte el.",
@@ -1453,7 +1453,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-beruni-cities-v2",
     type: "city",
     name: { de: "Berunij", hu: "Beruniy", ro: "Beruniy", en: "Beruni" },
-    coordinates: { lat: 41.69, lng: 60.75 },
+    coords: [60.75, 41.69],
     description: {
       de: "Eine Stadt in Karakalpakstan am rechten Ufer des Amu Darja, benannt nach dem großen Universalgelehrten Abu Rayhan al-Biruni.",
       hu: "Város Karakalpaksztánban, az Amu-darja jobb partján, amely a nagy polihisztorról, Abu Rajhán al-Biruniról kapta a nevét.",
@@ -1472,7 +1472,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-takhiatash-cities-v2",
     type: "city",
     name: { de: "Tachiatasch", hu: "Taxiatosh", ro: "Takhiatash", en: "Takhiatash" },
-    coordinates: { lat: 42.33, lng: 59.56 },
+    coords: [59.56, 42.33],
     description: {
       de: "Ein bedeutendes Industriezentrum in Karakalpakstan, das für sein großes Wärmekraftwerk am Amu Darja bekannt ist.",
       hu: "Jelentős ipari központ Karakalpaksztánban, amely az Amu-darja partján fekvő nagy hőerőművéről ismert.",
@@ -1491,7 +1491,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-chimbay-cities-v2",
     type: "city",
     name: { de: "Tschimbai", hu: "Chimboy", ro: "Chimbay", en: "Chimbay" },
-    coordinates: { lat: 42.93, lng: 59.77 },
+    coords: [59.77, 42.93],
     description: {
       de: "Eine Stadt im Norden von Karakalpakstan, die ein wichtiges Zentrum für die Verarbeitung von Getreide und Baumwolle ist.",
       hu: "Város Karakalpaksztán északi részén, amely a gabona- és gyapotfeldolgozás egyik fontos központja.",
@@ -1510,7 +1510,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-hazorasp-cities-v2",
     type: "city",
     name: { de: "Chasarasp", hu: "Hazorasp", ro: "Hazorasp", en: "Hazorasp" },
-    coordinates: { lat: 41.31, lng: 61.07 },
+    coords: [61.07, 41.31],
     description: {
       de: "Eine der ältesten Städte der Region Choresm, berühmt für ihre antike Festung, die Teil der UNESCO-Tentativliste ist.",
       hu: "Khorezm régió egyik legrégebbi városa, amely az UNESCO várományosi listáján szereplő ősi erődjéről híres.",
@@ -1529,7 +1529,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kuvasay-cities-v2",
     type: "city",
     name: { de: "Kuwasai", hu: "Quvasoy", ro: "Kuvasay", en: "Kuvasay" },
-    coordinates: { lat: 40.3, lng: 71.97 },
+    coords: [71.97, 40.3],
     description: {
       de: "Eine Industriestadt im Ferghanatal, bekannt für ihre Produktion von Glas, Zement und Baumaterialien.",
       hu: "Ipari város a Ferganai-völgyben, amely üveg-, cement- és építőanyag-gyártásáról ismert.",
@@ -1548,7 +1548,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-yaypan-cities-v2",
     type: "city",
     name: { de: "Jaipan", hu: "Yaypan", ro: "Yaypan", en: "Yaypan" },
-    coordinates: { lat: 40.37, lng: 70.81 },
+    coords: [70.81, 40.37],
     description: {
       de: "Das Verwaltungszentrum des Bezirks Usbekistan in der Region Ferghana, gelegen im südwestlichen Teil des Tals.",
       hu: "Az Üzbegisztán járás közigazgatási központja a Fergana régióban, a völgy délnyugati részén.",
@@ -1567,7 +1567,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-besharik-cities-v2",
     type: "city",
     name: { de: "Beschariq", hu: "Beshariq", ro: "Besharik", en: "Besharik" },
-    coordinates: { lat: 40.43, lng: 70.61 },
+    coords: [70.61, 40.43],
     description: {
       de: "Eine Stadt im westlichsten Teil der Region Ferghana, die als wichtiger Eisenbahnknotenpunkt nahe der tadschikischen Grenze dient.",
       hu: "Város a Fergana régió legnyugatibb részén, amely fontos vasúti csomópontként szolgál a tádzsik határ közelében.",
@@ -1586,7 +1586,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-pakhtaabad-cities-v2",
     type: "city",
     name: { de: "Pachtaobod", hu: "Paxtaobod", ro: "Pakhtaabad", en: "Pakhtaabad" },
-    coordinates: { lat: 40.93, lng: 72.48 },
+    coords: [72.48, 40.93],
     description: {
       de: "Eine Stadt in der Region Andijon, deren Name 'Stadt der Baumwolle' bedeutet, was ihre wirtschaftliche Bedeutung widerspiegelt.",
       hu: "Város az Andizsán régióban, melynek neve 'gyapot várost' jelent, tükrözve gazdasági jelentőségét.",
@@ -1605,7 +1605,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-shakhrixon-cities-v2",
     type: "city",
     name: { de: "Schachrichon", hu: "Shahrixon", ro: "Shakhrixon", en: "Shakhrixon" },
-    coordinates: { lat: 40.71, lng: 72.05 },
+    coords: [72.05, 40.71],
     description: {
       de: "Eine traditionsreiche Stadt in der Region Andijon, die für ihr Kunsthandwerk, insbesondere die Messerherstellung und Seidenweberei, bekannt ist.",
       hu: "Hagyományőrző város az Andizsán régióban, amely kézművességéről, különösen a késkészítésről és a selyemszövésről híres.",
@@ -1624,7 +1624,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kagan-cities-v2",
     type: "city",
     name: { de: "Kagan", hu: "Kogon", ro: "Kagan", en: "Kagan" },
-    coordinates: { lat: 39.72, lng: 64.55 },
+    coords: [64.55, 39.72],
     description: {
       de: "Die Eisenbahn-Eingangspforte nach Buchara, ursprünglich als 'Neu-Buchara' während der russischen Kaiserzeit gegründet.",
       hu: "Buhara vasúti kapuja, amelyet eredetileg 'Új-Buhara' néven alapítottak az orosz cári időkben.",
@@ -1643,7 +1643,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-alat-cities-v2",
     type: "city",
     name: { de: "Olot", hu: "Olot", ro: "Alat", en: "Alat" },
-    coordinates: { lat: 39.41, lng: 63.8 },
+    coords: [63.8, 39.41],
     description: {
       de: "Eine Stadt in der Region Buchara, nahe der Grenze zu Turkmenistan, bekannt für ihr salzhaltiges Heilwasser und Landwirtschaft.",
       hu: "Város a Buhara régióban, a türkmén határ közelében, sós gyógyvizéről és mezőgazdaságáról ismert.",
@@ -1662,7 +1662,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-shafirkan-cities-v2",
     type: "city",
     name: { de: "Schofirkon", hu: "Shofirkon", ro: "Shafirkan", en: "Shafirkan" },
-    coordinates: { lat: 40.12, lng: 64.5 },
+    coords: [64.5, 40.12],
     description: {
       de: "Eine antike Oasenstadt in der Region Buchara, bekannt für den archäologischen Hügel Vardanzi und die Sassaniden-Geschichte.",
       hu: "Ősi oázisváros a Buhara régióban, amely Vardanzi régészeti dombjáról és a Szaszanida történelemről ismert.",
@@ -1681,7 +1681,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-vabkent-cities-v2",
     type: "city",
     name: { de: "Wobkent", hu: "Vobkent", ro: "Vabkent", en: "Vabkent" },
-    coordinates: { lat: 40.03, lng: 64.52 },
+    coords: [64.52, 40.03],
     description: {
       de: "Eine historische Stadt in der Region Buchara, berühmt für ihr prachtvolles Minarett aus dem 12. Jahrhundert, ein Meisterwerk der Backsteinarchitektur.",
       hu: "Történelmi város a Buhara régióban, amely híres 12. századi pompás minaretjéről, a téglaépítészet remekművéről.",
@@ -1700,7 +1700,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-sherabad-cities-v2",
     type: "city",
     name: { de: "Scherobod", hu: "Sherobod", ro: "Sherabad", en: "Sherabad" },
-    coordinates: { lat: 37.67, lng: 67.01 },
+    coords: [67.01, 37.67],
     description: {
       de: "Eine Stadt in der Region Surxondaryo, bekannt für ihre Nähe zu antiken Monumenten und als Zentrum des Baumwollanbaus.",
       hu: "Város a Szurhandarja régióban, amely ősi műemlékeiről és a gyapottermesztés központjaként ismert.",
@@ -1719,7 +1719,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-jarkurgan-cities-v2",
     type: "city",
     name: { de: "Jarqoʻrgʻon", hu: "Jarqoʻrgʻon", ro: "Jarkurgan", en: "Jarkurgan" },
-    coordinates: { lat: 37.5, lng: 67.41 },
+    coords: [67.41, 37.5],
     description: {
       de: "Berühmt für sein einzigartiges geriffeltes Minarett aus dem 12. Jahrhundert, ist Jarkurgan ein historisches Juwel in Südusbekistan.",
       hu: "A 12. századi egyedülálló, bordázott minaretjéről híres Jarqoʻrgʻon Dél-Üzbegisztán egyik történelmi ékköve.",
@@ -1738,7 +1738,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-shurchi-cities-v2",
     type: "city",
     name: { de: "Shoʻrchi", hu: "Shoʻrchi", ro: "Shurchi", en: "Shurchi" },
-    coordinates: { lat: 38.0, lng: 67.79 },
+    coords: [67.79, 38.0],
     description: {
       de: "Ein wichtiges landwirtschaftliches Zentrum in der Region Surxondaryo, am Fuße der Babatag-Berge gelegen.",
       hu: "Fontos mezőgazdasági központ a Szurhandarja régióban, a Babatag-hegység lábánál.",
@@ -1757,7 +1757,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-piskent-cities-v2",
     type: "city",
     name: { de: "Piskent", hu: "Piskent", ro: "Piskent", en: "Piskent" },
-    coordinates: { lat: 40.9, lng: 69.35 },
+    coords: [69.35, 40.9],
     description: {
       de: "Eine Stadt in der Region Taschkent mit reicher Geschichte, die bis in die Zeit der arabischen Eroberung zurückreicht.",
       hu: "Város a Taskent régióban, gazdag történelemmel, amely az arab hódítás idejéig nyúlik vissza.",
@@ -1776,7 +1776,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-buka-cities-v2",
     type: "city",
     name: { de: "Buka", hu: "Boʻka", ro: "Buka", en: "Buka" },
-    coordinates: { lat: 40.81, lng: 69.2 },
+    coords: [69.2, 40.81],
     description: {
       de: "Buka liegt in der Region Taschkent und ist ein bedeutender landwirtschaftlicher Knotenpunkt an der Schwelle zur Hungersteppe.",
       hu: "Boʻka a Taskent régióban fekszik, és jelentős mezőgazdasági csomópont az Éhező-sztyeppe határán.",
@@ -1795,7 +1795,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-gazalkent-cities-v2",
     type: "city",
     name: { de: "Gasalkent", hu: "Gʻazalkent", ro: "Gazalkent", en: "Gazalkent" },
-    coordinates: { lat: 41.56, lng: 69.77 },
+    coords: [69.77, 41.56],
     description: {
       de: "Eine Bergstadt in der Region Taschkent, die als Tor zu den Feriengebieten des Chirchiq-Tals und des Charvak-Stausees dient.",
       hu: "Hegyvidéki város a Taskent régióban, amely a Chirchiq-völgy és a Charvak-víztározó üdülőhelyeinek kapujaként szolgál.",
@@ -1814,7 +1814,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-parkent-cities-v2",
     type: "city",
     name: { de: "Parkent", hu: "Parkent", ro: "Parkent", en: "Parkent" },
-    coordinates: { lat: 41.29, lng: 69.67 },
+    coords: [69.67, 41.29],
     description: {
       de: "Bekannt für seine Weinberge und die riesige Solarschmelzanlage, liegt Parkent in den malerischen Ausläufern des Tien-Shan.",
       hu: "Szőlőültetvényeiről és a hatalmas szoláris kohójáról ismert Parkent a Tien-san festői nyúlványai között fekszik.",
@@ -1833,7 +1833,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-uchkorgan-cities-v2",
     type: "city",
     name: { de: "Uchqoʻrgʻon", hu: "Uchqoʻrgʻon", ro: "Uchkorgan", en: "Uchkorgan" },
-    coordinates: { lat: 41.11, lng: 72.08 },
+    coords: [72.08, 41.11],
     description: {
       de: "Eine Stadt am Fluss Naryn in der Region Namangan, die für ihre Wasserkraftwerke und Textilindustrie bekannt ist.",
       hu: "Város a Narin-folyó mentén a Namangan régióban, amely vízerőműveiről és textiliparáról ismert.",
@@ -1852,7 +1852,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kamashi-cities-v2",
     type: "city",
     name: { de: "Qamashi", hu: "Qamashi", ro: "Kamashi", en: "Kamashi" },
-    coordinates: { lat: 38.83, lng: 66.46 },
+    coords: [66.46, 38.83],
     description: {
       de: "Ein wichtiges landwirtschaftliches Zentrum in der Region Qashqadaryo, das für seinen Getreidehandel und die Baumwollverarbeitung bekannt ist.",
       hu: "Fontos mezőgazdasági központ a Kaskadarja régióban, amely gabonakereskedelméről és gyapotfeldolgozásáról ismert.",
@@ -1871,7 +1871,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "uzbekistan-kuva-cities-v2",
     type: "city",
     name: { de: "Quva", hu: "Quva", ro: "Kuva", en: "Kuva" },
-    coordinates: { lat: 40.52, lng: 72.06 },
+    coords: [72.06, 40.52],
     description: {
       de: "Eine antike Stadt im Ferghanatal, berühmt für archäologische Funde eines buddhistischen Tempels und als Geburtsort des Astronomen Al-Farghani.",
       hu: "Ősi város a Ferganai-völgyben, amely egy buddhista templom régészeti leleteiről és al-Fargáni csillagász szülőhelyeként híres.",

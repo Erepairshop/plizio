@@ -1267,7 +1267,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-gando-cities-v2",
     type: "city",
     name: { de: "Gando", hu: "Gando", ro: "Gando", en: "Gando" },
-    coordinates: { lat: 9.3833, lng: 0.8167 },
+    coords: [0.8167, 9.3833],
     description: {
       de: "Gando ist eine Stadt in der Region Kara in Togo. Die Gemeinde ist ein lokales Zentrum für landwirtschaftliche Handelsprodukte.",
       hu: "Gando város Togo Kara régiójában. A település a helyi mezőgazdasági kereskedelem fontos központja.",
@@ -1286,7 +1286,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-ketao-cities-v2",
     type: "city",
     name: { de: "Kétao", hu: "Kétao", ro: "Kétao", en: "Kétao" },
-    coordinates: { lat: 9.4833, lng: 1.2167 },
+    coords: [1.2167, 9.4833],
     description: {
       de: "Kétao ist eine Siedlung nahe der Grenze zu Benin. Der Ort ist bekannt für seinen bedeutenden Wochenmarkt in der Region Kara.",
       hu: "Kétao egy település Benin határának közelében. A Kara régióban található helyszín jelentős heti piacáról ismert.",
@@ -1305,7 +1305,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-agbassa-cities-v2",
     type: "city",
     name: { de: "Agbassa", hu: "Agbassa", ro: "Agbassa", en: "Agbassa" },
-    coordinates: { lat: 8.1667, lng: 1.05 },
+    coords: [1.05, 8.1667],
     description: {
       de: "Agbassa ist eine Stadt in der Region Centrale. Die Region ist hauptsächlich durch den Anbau von Getreide und Hülsenfrüchten geprägt.",
       hu: "Agbassa város a Centrale régióban. A területet főként gabona- és hüvelyes növények termesztése jellemzi.",
@@ -1324,7 +1324,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-kpessou-cities-v2",
     type: "city",
     name: { de: "Kpessou", hu: "Kpessou", ro: "Kpessou", en: "Kpessou" },
-    coordinates: { lat: 8.0167, lng: 1.1 },
+    coords: [1.1, 8.0167],
     description: {
       de: "Kpessou liegt in der Region Centrale. Die Siedlung dient als lokaler Verkehrsknotenpunkt für die umliegenden ländlichen Gemeinschaften.",
       hu: "Kpessou a Centrale régióban található. A település a környező vidéki közösségek helyi közlekedési csomópontjaként szolgál.",
@@ -1343,7 +1343,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-tchifama-cities-v2",
     type: "city",
     name: { de: "Tchifama", hu: "Tchifama", ro: "Tchifama", en: "Tchifama" },
-    coordinates: { lat: 9.4333, lng: 1.25 },
+    coords: [1.25, 9.4333],
     description: {
       de: "Tchifama ist eine Stadt im Norden Togos, nahe der Grenze zu Benin. Der Ort ist ein typisches Beispiel für ländliche Siedlungsstrukturen.",
       hu: "Tchifama egy város Togo északi részén, közel Benin határához. A helység a vidéki településszerkezet tipikus példája.",
@@ -1362,7 +1362,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-akpare-cities-v2",
     type: "city",
     name: { de: "Akparé", hu: "Akparé", ro: "Akparé", en: "Akparé" },
-    coordinates: { lat: 7.6333, lng: 1.15 },
+    coords: [1.15, 7.6333],
     description: {
       de: "Akparé befindet sich in der Region Plateaux. Der Ort profitiert von der fruchtbaren Umgebung, die den Anbau von Handelsfrüchten begünstigt.",
       hu: "Akparé a Plateaux régióban található. A település a termékeny környezetnek köszönhetően kereskedelmi növények termesztésére alkalmas.",
@@ -1381,7 +1381,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-tchorowe-cities-v2",
     type: "city",
     name: { de: "Tchorowé", hu: "Tchorowé", ro: "Tchorowé", en: "Tchorowé" },
-    coordinates: { lat: 10.3667, lng: 0.4333 },
+    coords: [0.4333, 10.3667],
     description: {
       de: "Tchorowé ist eine Siedlung in der nördlichsten Region Savanes. Das Gebiet ist durch trockene Savannenlandschaften geprägt.",
       hu: "Tchorowé egy település a legészakibb Savanes régióban. A területet száraz szavannai tájak jellemzik.",
@@ -1400,7 +1400,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-katchamba-cities-v2",
     type: "city",
     name: { de: "Katchamba", hu: "Katchamba", ro: "Katchamba", en: "Katchamba" },
-    coordinates: { lat: 9.75, lng: 0.8167 },
+    coords: [0.8167, 9.75],
     description: {
       de: "Katchamba ist eine Stadt in der Region Kara. Der Ort liegt strategisch günstig nahe der wichtigen Nord-Süd-Verkehrsachse Togos.",
       hu: "Katchamba város a Kara régióban. A település stratégiai fekvésű, közel Togo fontos észak-déli közlekedési útvonalához.",
@@ -1419,7 +1419,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-kpagou-cities-v2",
     type: "city",
     name: { de: "Kpago", hu: "Kpago", ro: "Kpago", en: "Kpago" },
-    coordinates: { lat: 7.4, lng: 1.4167 },
+    coords: [1.4167, 7.4],
     description: {
       de: "Kpago liegt in der Region Maritime. Die Stadt ist ein lokales Zentrum für die Verarbeitung und den Vertrieb landwirtschaftlicher Erzeugnisse.",
       hu: "Kpago a Maritime régióban található. A város a mezőgazdasági termékek feldolgozásának és forgalmazásának helyi központja.",
@@ -1438,7 +1438,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
     id: "togo-djou-cities-v2",
     type: "city",
     name: { de: "Djou", hu: "Djou", ro: "Djou", en: "Djou" },
-    coordinates: { lat: 9.5333, lng: 1.05 },
+    coords: [1.05, 9.5333],
     description: {
       de: "Djou ist eine Siedlung in der Region Kara. Sie zeichnet sich durch eine traditionelle Lebensweise und lokale Handelsaktivitäten aus.",
       hu: "Djou egy település a Kara régióban. Jellemző rá a hagyományos életmód és a helyi kereskedelmi tevékenység.",

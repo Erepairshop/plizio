@@ -717,7 +717,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-lujiazui-economic-v2",
     type: "city",
     name: { de: "Finanzbezirk Lujiazui", hu: "Lujiazui pénzügyi negyed", ro: "Districtul Financiar Lujiazui", en: "Lujiazui Financial District" },
-    coordinates: { lat: 31.242, lng: 121.501 },
+    coords: [121.501, 31.242],
     description: {
       de: "Lujiazui ist das wichtigste Finanzzentrum von Shanghai auf der Halbinsel Pudong. Es beherbergt große Börsen und ikonische Wolkenkratzer wie den Shanghai Tower.",
       hu: "Lujiazui Sanghaj elsődleges pénzügyi központja, amely a Pudong-félszigeten található. Itt működnek a fő tőzsdék és olyan felhőkarcolók, mint a Sanghaj Torony.",
@@ -748,7 +748,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-zhongguancun-economic-v2",
     type: "industry",
     name: { de: "Zhongguancun-Technologiepark", hu: "Zhongguancun technológiai park", ro: "Parcul Tehnologic Zhongguancun", en: "Zhongguancun Science Park" },
-    coordinates: { lat: 39.983, lng: 116.312 },
+    coords: [116.312, 39.983],
     description: {
       de: "Zhongguancun ist ein Technologiezentrum in Peking, das oft als Silicon Valley Chinas bezeichnet wird. Es beherbergt Tausende von High-Tech-Unternehmen und Top-Universitäten.",
       hu: "Zhongguancun Peking technológiai központja, amelyet gyakran Kína Szilícium-völgyeként emlegetnek. Több ezer csúcstechnológiai vállalatnak és neves egyetemnek ad otthont.",
@@ -779,7 +779,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-daqing-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Daqing", hu: "Daqing olajmező", ro: "Câmpul Petrolifer Daqing", en: "Daqing Oil Field" },
-    coordinates: { lat: 46.591, lng: 125.035 },
+    coords: [125.035, 46.591],
     description: {
       de: "Daqing ist das größte Ölfeld Chinas und wurde 1959 entdeckt. Es ist seit mehreren Jahrzehnten ein Eckpfeiler der Energieproduktion des Landes.",
       hu: "Daqing Kína legnagyobb olajmezője, amelyet 1959-ben fedeztek fel. Évtizedek óta az ország energiatermelésének egyik legfontosabb alappillére.",
@@ -810,7 +810,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-panzhihua-iron-steel-economic-v2",
     type: "factory",
     name: { de: "Eisen- und Stahlkomplex Panzhihua", hu: "Panzhihua vas- és acélművek", ro: "Complexul de Fier și Oțel Panzhihua", en: "Panzhihua Iron and Steel Complex" },
-    coordinates: { lat: 26.581, lng: 101.722 },
+    coords: [101.722, 26.581],
     description: {
       de: "Panzhihua ist ein wichtiges Zentrum für die Vanadium- und Titanproduktion in Sichuan. Der Industriekomplex wurde in den 1960er Jahren nahe reicher Erzvorkommen errichtet.",
       hu: "Panzhihua a vanádium- és titángyártás egyik legfontosabb központja Szecsuán tartományban. Az ipari komplexumot az 1960-as években alapították ásványlelőhelyek közelében.",
@@ -841,7 +841,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-qinhuangdao-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Qinhuangdao", hu: "Csinhuangtao kikötője", ro: "Portul Qinhuangdao", en: "Port of Qinhuangdao" },
-    coordinates: { lat: 39.923, lng: 119.612 },
+    coords: [119.612, 39.923],
     description: {
       de: "Qinhuangdao ist ein wichtiger eisfreier Hafen in Nordchina, der auf den Kohletransport spezialisiert ist. Er dient als wichtiges Tor für den Seehandel.",
       hu: "Qinhuangdao Észak-Kína egyik létfontosságú jégmentes kikötője, amely szénszállításra szakosodott. A belföldi és nemzetközi tengeri kereskedelem kulcsfontosságú kapuja.",
@@ -872,7 +872,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-nansha-port-economic-v2",
     type: "port",
     name: { de: "Hafen Nansha", hu: "Nansha kikötő", ro: "Portul Nansha", en: "Nansha Port" },
-    coordinates: { lat: 22.651, lng: 113.682 },
+    coords: [113.682, 22.651],
     description: {
       de: "Der Hafen Nansha ist ein Tiefwasser-Containerterminal im Pearl River Delta. Er ist ein wichtiger Bestandteil des internationalen Schifffahrtszentrums Guangzhou.",
       hu: "Nansha Port egy mélyvízi konténerterminál a Gyöngy-folyó deltájában. A Kuangcsou nemzetközi hajózási központ és kereskedelmi övezet meghatározó része.",
@@ -903,7 +903,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-binhai-new-area-economic-v2",
     type: "industry",
     name: { de: "Binhai New Area", hu: "Binhai új terület", ro: "Noua Zonă Binhai", en: "Binhai New Area" },
-    coordinates: { lat: 39.032, lng: 117.712 },
+    coords: [117.712, 39.032],
     description: {
       de: "Binhai ist eine wichtige Wirtschaftszone und Industriebasis an der Küste des Bohai-Meeres. Sie konzentriert sich auf Fertigung, Forschung und Finanzdienstleistungen.",
       hu: "Binhai egy jelentős gazdasági övezet és ipari bázis a Bohai-tenger partján. A gyártásra, a kutatásra és a pénzügyi szolgáltatásokra összpontosít.",
@@ -934,7 +934,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-jingdezhen-ceramics-economic-v2",
     type: "industry",
     name: { de: "Keramikindustrie Jingdezhen", hu: "Csingtöcsen kerámiaipar", ro: "Industria Ceramicii Jingdezhen", en: "Jingdezhen Ceramics Industry" },
-    coordinates: { lat: 29.271, lng: 117.182 },
+    coords: [117.182, 29.271],
     description: {
       de: "Jingdezhen ist weltweit als Hauptstadt des Porzellans bekannt und hat eine über 1700-jährige Geschichte. Heute bleibt es ein wichtiges Zentrum für Keramikproduktion.",
       hu: "Jingdezhen világszerte a porcelán fővárosaként ismert, fazekas múltja több mint 1700 évet ölel fel. Ma is a kerámiagyártás egyik legfontosabb központja.",
@@ -965,7 +965,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-shaoxing-textile-city-economic-v2",
     type: "industry",
     name: { de: "China Textile City Shaoxing", hu: "Saoxing Textilváros", ro: "Orașul Textil Shaoxing", en: "Shaoxing Textile City" },
-    coordinates: { lat: 30.082, lng: 120.482 },
+    coords: [120.482, 30.082],
     description: {
       de: "Die China Textile City in Shaoxing ist eines der weltweit größten Zentren für den Textilvertrieb. Sie wickelt ein gewaltiges Volumen des globalen Stoffhandels ab.",
       hu: "A saoxingi Kínai Textilváros a világ egyik legnagyobb textilkereskedelmi központja. Hatalmas mennyiségű globális szövet- és ruhakereskedelmet bonyolít le.",
@@ -996,7 +996,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-suzhou-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Suzhou", hu: "Szucsou Ipari Park", ro: "Parcul Industrial Suzhou", en: "Suzhou Industrial Park" },
-    coordinates: { lat: 31.321, lng: 120.722 },
+    coords: [120.722, 31.321],
     description: {
       de: "Der Industriepark Suzhou ist ein gemeinsames Wirtschaftsprojekt der chinesischen und singapurischen Regierung. Er ist führend in High-Tech-Fertigung und Innovation.",
       hu: "A Szucsou Ipari Park a kínai és a szingapúri kormány jelentős közös gazdasági projektje. A csúcstechnológiás gyártás és innováció egyik vezető övezete.",
@@ -1027,7 +1027,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-dayawan-nuclear-economic-v2",
     type: "factory",
     name: { de: "Kernkraftwerk Daya Bay", hu: "Daya Bay atomerőmű", ro: "Centrala Nucleară Daya Bay", en: "Daya Bay Nuclear Power Plant" },
-    coordinates: { lat: 22.601, lng: 114.551 },
+    coords: [114.551, 22.601],
     description: {
       de: "Daya Bay ist eines der ersten großen kommerziellen Kernkraftwerke Chinas in Guangdong. Es liefert einen erheblichen Teil des Stroms für Hongkong.",
       hu: "Daya Bay Kína egyik első nagyüzemi kereskedelmi atomerőműve. Kuangtung tartományban található, és Hongkong villamosenergia-ellátásának jelentős részét biztosítja.",
@@ -1058,7 +1058,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-daye-iron-mine-economic-v2",
     type: "mine",
     name: { de: "Eisenerzmine Daye", hu: "Daye vasércbánya", ro: "Mina de Fier Daye", en: "Daye Iron Mine" },
-    coordinates: { lat: 30.201, lng: 114.931 },
+    coords: [114.931, 30.201],
     description: {
       de: "Die Eisenmine Daye ist eine der ältesten Minen Chinas mit einer Geschichte bis zur Han-Dynastie. Sie ist eine wichtige Erzuquelle für die Stahlindustrie in Zentralchina.",
       hu: "A Daye vasércbánya Kína egyik legrégebbi bányája, múltja a Han-dinasztia idejére nyúlik vissza. Közép-Kína acéliparának kulcsfontosságú ércforrása.",
@@ -1089,7 +1089,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-liangjiang-new-area-economic-v2",
     type: "industry",
     name: { de: "Liangjiang New Area", hu: "Liangjiang új terület", ro: "Noua Zonă Liangjiang", en: "Liangjiang New Area" },
-    coordinates: { lat: 29.682, lng: 106.601 },
+    coords: [106.601, 29.682],
     description: {
       de: "Liangjiang ist eine staatliche Entwicklungszone in Chongqing im Landesinneren. Sie konzentriert sich auf moderne Fertigung, Logistik und Finanzdienstleistungen.",
       hu: "Liangjiang egy állami szintű fejlesztési övezet Csungkingban, Kína belső területén. A fejlett gyártásra, a logisztikára és a pénzügyi szolgáltatásokra összpontosít.",
@@ -1120,7 +1120,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-wuhan-iron-steel-economic-v2",
     type: "factory",
     name: { de: "Wuhan Iron and Steel", hu: "Vuhani Vas- és Acélművek", ro: "Combinatul de Fier și Oțel Wuhan", en: "Wuhan Iron and Steel Plant" },
-    coordinates: { lat: 30.631, lng: 114.452 },
+    coords: [114.452, 30.631],
     description: {
       de: "Wuhan Iron and Steel war der erste nach 1949 errichtete Riesenstahlkomplex Chinas. Es bleibt ein bedeutender Hersteller von Siliziumstahl und Automobilblechen.",
       hu: "A Vuhani Vas- és Acélművek volt az első óriási acélkomplexum, amely 1949 után épült Kínában. Ma is a szilíciumacél és autóipari lemezek jelentős gyártója.",
@@ -1151,7 +1151,7 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "china-shekou-industrial-zone-economic-v2",
     type: "industry",
     name: { de: "Industriezone Shekou", hu: "Shekou ipari övezet", ro: "Zona Industrială Shekou", en: "Shekou Industrial Zone" },
-    coordinates: { lat: 22.482, lng: 113.911 },
+    coords: [113.911, 22.482],
     description: {
       de: "Shekou war 1979 das erste Gebiet in China, das für ausländische Investitionen geöffnet wurde. Es diente als Testfeld für die Wirtschaftsreformen des Landes.",
       hu: "Shekou volt az első terület Kínában, amelyet 1979-ben megnyitottak a külföldi befektetések előtt. Az ország gazdasági reformjának egyik teszthelyszíne volt.",

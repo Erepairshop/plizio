@@ -5,7 +5,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-hishams-palace-landmarks-v2",
     type: "palace",
     name: { de: "Hischam-Palast", hu: "Hisám-palota", ro: "Palatul lui Hisham", en: "Hisham's Palace" },
-    coordinates: { lat: 31.8817, lng: 35.4597 },
+    coords: [35.4597, 31.8817],
     description: {
       de: "Der Hischam-Palast bei Jericho ist ein bedeutendes Beispiel für die umayyadische Wüstenarchitektur und bekannt für seine Mosaike.",
       hu: "A Jerikó melletti Hisám-palota az omajjád sivatagi építészet kiemelkedő példája, híres padlómozaikjairól és stukkóiról.",
@@ -24,7 +24,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-mount-of-temptation-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster der Versuchung", hu: "Megkísértés kolostora", ro: "Mănăstirea Ispitirii", en: "Mount of Temptation Monastery" },
-    coordinates: { lat: 31.8744, lng: 35.4325 },
+    coords: [35.4325, 31.8744],
     description: {
       de: "Das griechisch-orthodoxe Kloster schmiegt sich an eine Klippe über Jericho, wo Jesus der Überlieferung nach 40 Tage lang fastete.",
       hu: "A görög ortodox kolostor a Jerikó fölötti sziklafalba épült, ott, ahol a hagyomány szerint Jézus 40 napig böjtölt.",
@@ -43,7 +43,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-ibrahimi-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Ibrahimi-Moschee", hu: "Ibrahimi-mecset", ro: "Moscheea Ibrahimi", en: "Ibrahimi Mosque" },
-    coordinates: { lat: 31.5247, lng: 35.1107 },
+    coords: [35.1107, 31.5247],
     description: {
       de: "Diese heilige Stätte in Hebron beherbergt die Höhle der Patriarchen, in der Abraham und seine Familie begraben sein sollen.",
       hu: "Ez a hebroni szent hely a Patriárkák barlangját rejti, ahol a hagyomány szerint Ábrahám és családja nyugszik.",
@@ -62,7 +62,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-st-georges-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "St. Georg Kloster", hu: "Szent György-kolostor", ro: "Mănăstirea Sfântul Gheorghe", en: "St. George's Monastery" },
-    coordinates: { lat: 31.8443, lng: 35.4137 },
+    coords: [35.4137, 31.8443],
     description: {
       de: "Dieses Klippenkloster im Wadi Qelt ist ein beeindruckendes Beispiel für byzantinische klösterliche Architektur in der Wüste.",
       hu: "A Wadi Qelt kanyonjában található sziklakolostor a bizánci sivatagi szerzetesség egyik leglátványosabb emléke.",
@@ -81,7 +81,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-jacobs-well-landmarks-v2",
     type: "church",
     name: { de: "Jakobsbrunnen", hu: "Jákob kútja", ro: "Fântâna lui Iacob", en: "Jacob's Well" },
-    coordinates: { lat: 32.2093, lng: 35.2851 },
+    coords: [35.2851, 32.2093],
     description: {
       de: "Der Jakobsbrunnen in Nablus ist eine antike religiöse Stätte, an der Jesus der Überlieferung nach der samaritischen Frau begegnete.",
       hu: "A Nabuluszban található Jákob kútja egy ősi vallási helyszín, ahol Jézus a hagyomány szerint a szamáriai asszonnyal beszélt.",
@@ -100,7 +100,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-sebastia-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Sebastia Ruinen", hu: "Szebasztié romjai", ro: "Ruinele de la Sebastia", en: "Sebastia Archaeological Park" },
-    coordinates: { lat: 32.2764, lng: 35.1972 },
+    coords: [35.1972, 32.2764],
     description: {
       de: "Sebastia beherbergt die Ruinen der antiken Stadt Samaria, die eine wichtige Hauptstadt während der israelitischen und römischen Zeit war.",
       hu: "Szebasztié őrzi az ókori Szamária városának romjait, amely Izrael és a Római Birodalom idején is fontos központ volt.",
@@ -119,7 +119,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-pashas-palace-landmarks-v2",
     type: "museum",
     name: { de: "Pascha-Palast", hu: "Pasa-palota", ro: "Palatul Pașei", en: "Pashas Palace Museum" },
-    coordinates: { lat: 31.505, lng: 34.4639 },
+    coords: [34.4639, 31.505],
     description: {
       de: "Der Pascha-Palast in Gaza ist ein historisches Gebäude aus der Mamelukenzeit, das heute als archäologisches Museum dient.",
       hu: "A gázai Pasa-palota egy mamlúk korszakból származó történelmi épület, amely ma régészeti múzeumként működik.",
@@ -138,7 +138,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-st-hilarion-monastery-landmarks-v2",
     type: "ruins",
     name: { de: "Hilarionkloster", hu: "Szent Hilárión-kolostor", ro: "Mănăstirea Sfântul Ilarion", en: "St. Hilarion Monastery" },
-    coordinates: { lat: 31.4503, lng: 34.3758 },
+    coords: [34.3758, 31.4503],
     description: {
       de: "Die Ruinen des Hilarionklosters bei Gaza zeigen eines der größten und ältesten Klosterzentren im Nahen Osten.",
       hu: "A Gáza melletti Szent Hilárión-kolostor romjai a Közel-Kelet egyik legnagyobb és legősibb kolostorközpontját mutatják be.",
@@ -157,7 +157,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-hamam-al-samra-landmarks-v2",
     type: "landmark",
     name: { de: "Hamam al-Samra", hu: "Hamam al-Samra", ro: "Hamam al-Samra", en: "Hamam al-Samra" },
-    coordinates: { lat: 31.5036, lng: 34.4647 },
+    coords: [34.4647, 31.5036],
     description: {
       de: "Das Hamam al-Samra ist das letzte verbliebene traditionelle türkische Bad in der Altstadt von Gaza.",
       hu: "A Hamam al-Samra az utolsó fennmaradt hagyományos török fürdő Gáza óvárosában, amely ma is üzemel.",
@@ -176,7 +176,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-nebi-musa-landmarks-v2",
     type: "landmark",
     name: { de: "Nabi Musa", hu: "Nabi Musa", ro: "Nabi Musa", en: "Nabi Musa" },
-    coordinates: { lat: 31.7867, lng: 35.4319 },
+    coords: [35.4319, 31.7867],
     description: {
       de: "Nabi Musa ist ein Gebäudekomplex in der Wüste, der traditionell als Grabstätte des Propheten Mose verehrt wird.",
       hu: "Nabi Musa egy sivatagi épületegyüttes, amelyet a hagyomány szerint Mózes próféta sírhelyeként tisztelnek.",
@@ -195,7 +195,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-arafat-museum-landmarks-v2",
     type: "museum",
     name: { de: "Jassir-Arafat-Museum", hu: "Jasszer Arafat Múzeum", ro: "Muzeul Yasser Arafat", en: "Yasser Arafat Museum" },
-    coordinates: { lat: 31.9056, lng: 35.2008 },
+    coords: [35.2008, 31.9056],
     description: {
       de: "Das Jassir-Arafat-Museum in Ramallah dokumentiert das Leben des PLO-Führers und die moderne Geschichte Palästinas.",
       hu: "A rāmalláhi Jasszer Arafat Múzeum a PLO vezető életét és Palesztina modern történelmét mutatja be.",
@@ -214,7 +214,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-darwish-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mahmoud-Darwish-Museum", hu: "Mahmúd Darvis Múzeum", ro: "Muzeul Mahmoud Darwish", en: "Mahmoud Darwish Museum" },
-    coordinates: { lat: 31.8967, lng: 35.195 },
+    coords: [35.195, 31.8967],
     description: {
       de: "Dieses Museum und Kulturzentrum in Ramallah ist dem palästinensischen Nationaldichter Mahmoud Darwish gewidmet.",
       hu: "Ez a rāmalláhi múzeum és kulturális központ Mahmúd Darvisnak, a palesztin nemzeti költőnek állít emléket.",
@@ -233,7 +233,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-palestinian-museum-landmarks-v2",
     type: "museum",
     name: { de: "Das Palästinensische Museum", hu: "Palesztin Múzeum", ro: "Muzeul Palestinian", en: "The Palestinian Museum" },
-    coordinates: { lat: 31.9583, lng: 35.1783 },
+    coords: [35.1783, 31.9583],
     description: {
       de: "Das Palästinensische Museum in Birzeit ist ein modernes Wahrzeichen, das sich der palästinensischen Kultur und Gesellschaft widmet.",
       hu: "A birzeiti Palesztin Múzeum egy modern építészeti emlék, amely a palesztin kultúrának és társadalomnak szentelt.",
@@ -252,7 +252,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-rawabi-amphitheater-landmarks-v2",
     type: "theater",
     name: { de: "Rawabi-Amphitheater", hu: "Rawabi amfiteátrum", ro: "Amfiteatrul Rawabi", en: "Rawabi Amphitheater" },
-    coordinates: { lat: 32.0125, lng: 35.1814 },
+    coords: [35.1814, 32.0125],
     description: {
       de: "Das Amphitheater von Rawabi ist eines der größten Freilufttheater im Nahen Osten und ein Symbol der modernen Entwicklung.",
       hu: "A Rawabi amfiteátrum a Közel-Kelet egyik legnagyobb szabadtéri színháza, a modern palesztin fejlesztés jelképe.",
@@ -271,7 +271,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-herodium-fortress-landmarks-v2",
     type: "ruins",
     name: { de: "Herodium", hu: "Herodium", ro: "Herodium", en: "Herodium Fortress" },
-    coordinates: { lat: 31.6658, lng: 35.2414 },
+    coords: [35.2414, 31.6658],
     description: {
       de: "Herodium ist ein kegelförmiger Hügel mit den Überresten eines prächtigen Festungspalastes, der von Herodes dem Großen erbaut wurde.",
       hu: "A Herodium egy kúp alakú domb, amelyen Nagy Heródes király monumentális erődpalotájának romjai láthatók.",
@@ -290,7 +290,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-solomons-pools-landmarks-v2",
     type: "landmark",
     name: { de: "Teiche Salomos", hu: "Salamon tavai", ro: "Bazinele lui Solomon", en: "Solomon's Pools" },
-    coordinates: { lat: 31.6894, lng: 35.1678 },
+    coords: [35.1678, 31.6894],
     description: {
       de: "Die Teiche Salomos sind drei antike Wasserreservoirs bei Bethlehem, die einst Jerusalem mit Wasser versorgten.",
       hu: "Salamon tavai három ősi víztározó Betlehem közelében, amelyek egykor Jeruzsálem vízellátását biztosították.",
@@ -309,7 +309,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-manger-square-landmarks-v2",
     type: "landmark",
     name: { de: "Krippenplatz", hu: "Jászol tér", ro: "Piața Ieslei", en: "Manger Square" },
-    coordinates: { lat: 31.7047, lng: 35.2067 },
+    coords: [35.2067, 31.7047],
     description: {
       de: "Der Krippenplatz ist das soziale und religiöse Zentrum von Bethlehem, flankiert von der Geburtskirche und der Omar-Moschee.",
       hu: "A Jászol tér Betlehem vallási és közösségi központja, a Születés Temploma és az Omari-mecset között.",
@@ -328,7 +328,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-milk-grotto-landmarks-v2",
     type: "church",
     name: { de: "Milchgrotte", hu: "Tej-barlang", ro: "Grota Laptelui", en: "Milk Grotto Church" },
-    coordinates: { lat: 31.7031, lng: 35.2086 },
+    coords: [35.2086, 31.7031],
     description: {
       de: "Die Milchgrotte ist eine christliche Kapelle in Bethlehem, die an der Stelle steht, wo die Heilige Familie auf der Flucht nach Ägypten Zuflucht fand.",
       hu: "A Tej-barlang egy keresztény kápolna Betlehemben, ahol a hagyomány szerint a Szent Család rejtőzött az Egyiptomba menekülés előtt.",
@@ -347,7 +347,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-shepherds-field-landmarks-v2",
     type: "church",
     name: { de: "Hirtenfelder", hu: "Pásztorok mezeje", ro: "Câmpul Păstorilor", en: "Shepherd's Field Chapel" },
-    coordinates: { lat: 31.7058, lng: 35.2267 },
+    coords: [35.2267, 31.7058],
     description: {
       de: "Die Hirtenfelder in Beit Sahour markieren den Ort, an dem Engel den Hirten die Geburt Jesu verkündeten.",
       hu: "A Beit Sahourban található Pásztorok mezeje az a hely, ahol az angyalok hírül adták Jézus születését a pásztoroknak.",
@@ -366,7 +366,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-great-mosque-nablus-landmarks-v2",
     type: "landmark",
     name: { de: "Große Moschee von Nablus", hu: "Nabuluszi nagymecset", ro: "Marea Moschee din Nablus", en: "Great Mosque of Nablus" },
-    coordinates: { lat: 32.2214, lng: 35.2611 },
+    coords: [35.2611, 32.2214],
     description: {
       de: "Die Al-Nasr-Moschee ist die größte Moschee in Nablus und war ursprünglich eine byzantinische Basilika.",
       hu: "Az Al-Nasr-mecset Nabulusz legnagyobb mecsete, amely eredetileg bizánci bazilika, majd keresztes templom volt.",
@@ -385,7 +385,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-mount-gerizim-site-landmarks-v2",
     type: "ruins",
     name: { de: "Berg Gerizim", hu: "Gerizim-hegy", ro: "Muntele Garizim", en: "Mount Gerizim Site" },
-    coordinates: { lat: 32.1994, lng: 35.2736 },
+    coords: [35.2736, 32.1994],
     description: {
       de: "Der Berg Gerizim beherbergt die archäologischen Überreste eines samaritanischen Tempels und ist das heilige Zentrum der samaritanischen Gemeinschaft.",
       hu: "A Gerizim-hegy egy szamaritánus templom régészeti maradványait őrzi, és a szamaritánus közösség legszentebb helye.",
@@ -404,7 +404,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-josephs-tomb-landmarks-v2",
     type: "landmark",
     name: { de: "Josefsgrab", hu: "József sírja", ro: "Mormântul lui Iosif", en: "Joseph's Tomb" },
-    coordinates: { lat: 32.2131, lng: 35.2853 },
+    coords: [35.2853, 32.2131],
     description: {
       de: "Das Josefsgrab in Nablus ist eine religiöse Gedenkstätte, die traditionell als Begräbnisort des biblischen Patriarchen Josef gilt.",
       hu: "A Nabuluszban található József sírja egy vallási emlékhely, amelyet a bibliai József pátriárka nyughelyeként tisztelnek.",
@@ -423,7 +423,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-taybeh-old-city-landmarks-v2",
     type: "village",
     name: { de: "Altstadt von Taybeh", hu: "Tajbe óvárosa", ro: "Orașul vechi Taybeh", en: "Taybeh Old City" },
-    coordinates: { lat: 31.9547, lng: 35.2997 },
+    coords: [35.2997, 31.9547],
     description: {
       de: "Taybeh ist eines der letzten rein christlichen Dörfer im Westjordanland und bekannt für sein gut erhaltenes historisches Zentrum.",
       hu: "Tajbe Ciszjordánia egyik utolsó tisztán keresztény faluja, amely jól megőrzött történelmi központjáról híres.",
@@ -442,7 +442,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-saint-gerasimus-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster St. Gerasimos", hu: "Szent Geraszimosz-kolostor", ro: "Mănăstirea Sfântul Gherasim", en: "Monastery of Saint Gerasimus" },
-    coordinates: { lat: 31.8158, lng: 35.5039 },
+    coords: [35.5039, 31.8158],
     description: {
       de: "Das Kloster Deir Hajla bei Jericho ist eine Oase in der Wüste und dem Heiligen Gerasimos gewidmet.",
       hu: "A Jerikó közelében fekvő Deir Hajla kolostor egy sivatagi oázis, amelyet Szent Geraszimosznak szenteltek.",
@@ -461,7 +461,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-oak-of-mamre-landmarks-v2",
     type: "landmark",
     name: { de: "Eiche von Mamre", hu: "Mamré tölgye", ro: "Stejarul din Mamre", en: "Oak of Mamre" },
-    coordinates: { lat: 31.5414, lng: 35.1053 },
+    coords: [35.1053, 31.5414],
     description: {
       de: "Die Eiche von Mamre in Hebron markiert den Ort, an dem Abraham der Überlieferung nach drei Engel empfing.",
       hu: "A hebroni Mamré tölgye azt a helyet jelöli, ahol a hagyomány szerint Ábrahám három angyalt vendégelt meg.",
@@ -480,7 +480,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-old-city-hebron-landmarks-v2",
     type: "landmark",
     name: { de: "Altstadt von Hebron", hu: "Hebron óvárosa", ro: "Orașul vechi Hebron", en: "Old City of Hebron" },
-    coordinates: { lat: 31.5244, lng: 35.11 },
+    coords: [35.11, 31.5244],
     description: {
       de: "Die Altstadt von Hebron ist ein Labyrinth aus engen Gassen und mamlukischer Architektur, das um die Ibrahimi-Moschee gewachsen ist.",
       hu: "Hebron óvárosa szűk utcák és mamlúk építészet labirintusa, amely az Ibrahimi-mecset köré épült.",
@@ -499,7 +499,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-hebron-glass-factory-landmarks-v2",
     type: "industry",
     name: { de: "Hebroner Glasfabrik", hu: "Hebroni üveggyár", ro: "Fabrica de sticlă din Hebron", en: "Hebron Glass Factory" },
-    coordinates: { lat: 31.5425, lng: 35.0933 },
+    coords: [35.0933, 31.5425],
     description: {
       de: "Hebron ist seit Jahrhunderten berühmt für seine traditionelle Glas- und Keramikherstellung, die von Hand betrieben wird.",
       hu: "Hebron évszázadok óta híres hagyományos üveg- és kerámiaművészetéről, amelyet ma is kézzel művelnek.",
@@ -518,7 +518,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-al-qarara-museum-landmarks-v2",
     type: "museum",
     name: { de: "Al-Qarara Kulturmuseum", hu: "Al-Qarara Kulturális Múzeum", ro: "Muzeul Cultural Al-Qarara", en: "Al-Qarara Cultural Museum" },
-    coordinates: { lat: 31.3714, lng: 34.3467 },
+    coords: [34.3467, 31.3714],
     description: {
       de: "Das Al-Qarara-Museum bei Khan Yunis ist ein privates Museum, das archäologische Funde und Volkserbe aus dem Gazastreifen ausstellt.",
       hu: "Az Al-Qarara Múzeum Hán Júnisz közelében egy magánmúzeum, amely Gáza régészeti leleteit és népi örökségét mutatja be.",
@@ -537,7 +537,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-khan-yunis-castle-landmarks-v2",
     type: "castle",
     name: { de: "Schloss von Khan Yunis", hu: "Hán Júnisz vára", ro: "Castelul din Khan Yunis", en: "Khan Yunis Castle" },
-    coordinates: { lat: 31.3439, lng: 34.3011 },
+    coords: [34.3011, 31.3439],
     description: {
       de: "Das Barquq-Schloss ist eine mamlukische Festung im Zentrum von Khan Yunis, die einst als Karawanserei diente.",
       hu: "A Barquq-vár egy mamlúk erőd Hán Júnisz központjában, amely eredetileg karavánszerájként szolgált.",
@@ -556,7 +556,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-kur-throne-village-landmarks-v2",
     type: "village",
     name: { de: "Kur Thron-Dorf", hu: "Kur trónfalu", ro: "Satul Kur", en: "Kur Throne Village" },
-    coordinates: { lat: 32.2344, lng: 35.1053 },
+    coords: [35.1053, 32.2344],
     description: {
       de: "Kur ist eines der palästinensischen Thron-Dörfer, bekannt für seine massiven Palasthäuser aus der osmanischen Zeit.",
       hu: "Kur az egyik palesztin trónfalu, amely az oszmán korszakból származó masszív palotaházairól ismert.",
@@ -575,7 +575,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-birzeit-university-building-landmarks-v2",
     type: "university",
     name: { de: "Birzeit Universität", hu: "Birzeit Egyetem", ro: "Universitatea Birzeit", en: "Birzeit University Building" },
-    coordinates: { lat: 31.9567, lng: 35.1764 },
+    coords: [35.1764, 31.9567],
     description: {
       de: "Die Birzeit-Universität ist eine führende Bildungseinrichtung und ein intellektuelles Wahrzeichen in Palästina.",
       hu: "A Birzeit Egyetem Palesztina vezető oktatási intézménye és szellemi központja.",
@@ -594,7 +594,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-rachels-tomb-landmarks-v2",
     type: "landmark",
     name: { de: "Rahels Grab", hu: "Rákhel sírja", ro: "Mormântul Rahelei", en: "Rachel's Tomb" },
-    coordinates: { lat: 31.7144, lng: 35.2011 },
+    coords: [35.2011, 31.7144],
     description: {
       de: "Rahels Grab am nördlichen Eingang von Bethlehem ist eine wichtige heilige Stätte, die der biblischen Matriarchin Rahel gewidmet ist.",
       hu: "Rákhel sírja Betlehem északi bejáratánál egy fontos szent hely, amelyet a bibliai Rákhelnek szenteltek.",
@@ -613,7 +613,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-star-street-landmarks-v2",
     type: "landmark",
     name: { de: "Sternstraße", hu: "Csillag utca", ro: "Strada Stelei", en: "Star Street" },
-    coordinates: { lat: 31.7061, lng: 35.2047 },
+    coords: [35.2047, 31.7061],
     description: {
       de: "Die Sternstraße ist eine historische Pilgerstraße in Bethlehem, die zum Krippenplatz und zur Geburtskirche führt.",
       hu: "A Csillag utca egy történelmi zarándokút Betlehemben, amely a Jászol térhez és a Születés Templomához vezet.",
@@ -632,7 +632,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-walled-off-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Walled Off Hotel", hu: "Walled Off Hotel", ro: "Walled Off Hotel", en: "Banksy Walled Off Hotel" },
-    coordinates: { lat: 31.7161, lng: 35.1978 },
+    coords: [35.1978, 31.7161],
     description: {
       de: "Das Walled Off Hotel in Bethlehem wurde vom Künstler Banksy entworfen und ist bekannt als das Hotel mit der schlechtesten Aussicht der Welt.",
       hu: "A betlehemi Walled Off Hotelt Banksy tervezte, és a világ legrosszabb kilátású szállodájaként ismert.",
@@ -651,7 +651,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-russian-museum-jericho-landmarks-v2",
     type: "museum",
     name: { de: "Russisches Museum Jericho", hu: "Jerikói Orosz Múzeum", ro: "Muzeul Rus din Ierihon", en: "Russian Museum Jericho" },
-    coordinates: { lat: 31.8581, lng: 35.4542 },
+    coords: [35.4542, 31.8581],
     description: {
       de: "Das Russische Museum in Jericho beherbergt antike Mosaike und archäologische Funde auf russischem Kirchenbesitz.",
       hu: "A jerikói Orosz Múzeum antik mozaikokat és régészeti leleteket mutat be az orosz egyházi birtokon.",
@@ -670,7 +670,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-zacchaeus-tree-landmarks-v2",
     type: "landmark",
     name: { de: "Maulbeerfeigenbaum des Zachäus", hu: "Zákeus fügefája", ro: "Sicomorul lui Zaheu", en: "Zacchaeus Sycamore Tree" },
-    coordinates: { lat: 31.8583, lng: 35.4539 },
+    coords: [35.4539, 31.8583],
     description: {
       de: "Dieser uralte Maulbeerfeigenbaum in Jericho gilt traditionell als der Baum, auf den Zachäus stieg, um Jesus zu sehen.",
       hu: "Ez az ősi vadfügefa Jerikóban a hagyomány szerint az a fa, amelyre Zákeus felmászott, hogy lássa Jézust.",
@@ -689,7 +689,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-jericho-synagogue-landmarks-v2",
     type: "landmark",
     name: { de: "Schalom-Al-Yisrael-Synagoge", hu: "Shalom Al Yisrael zsinagóga", ro: "Sinagoga Shalom Al Yisrael", en: "Shalom Al Yisrael Synagogue" },
-    coordinates: { lat: 31.8753, lng: 35.4497 },
+    coords: [35.4497, 31.8753],
     description: {
       de: "Diese antike Synagoge in Jericho ist bekannt für ihren gut erhaltenen Mosaikboden aus dem 6. Jahrhundert.",
       hu: "Ez az ősi jerikói zsinagóga a 6. századból származó, jól megőrzött mozaikpadlójáról híres.",
@@ -708,7 +708,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-old-city-ramallah-landmarks-v2",
     type: "landmark",
     name: { de: "Altstadt von Ramallah", hu: "Rāmalláh óvárosa", ro: "Orașul vechi Ramallah", en: "Old City of Ramallah" },
-    coordinates: { lat: 31.9022, lng: 35.1978 },
+    coords: [35.1978, 31.9022],
     description: {
       de: "Das historische Zentrum von Ramallah bewahrt viele osmanische Steinhäuser und ist ein lebendiger kultureller Treffpunkt.",
       hu: "Rāmalláh történelmi központja számos oszmán kőházat őriz, és élénk kulturális találkozóhely.",
@@ -727,7 +727,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-dar-al-karima-landmarks-v2",
     type: "landmark",
     name: { de: "Dar al-Karima", hu: "Dar al-Karima", ro: "Dar al-Karima", en: "Dar al-Karima" },
-    coordinates: { lat: 31.7053, lng: 35.2014 },
+    coords: [35.2014, 31.7053],
     description: {
       de: "Dar al-Karima ist ein bedeutendes historisches Herrenhaus in Bethlehem, das heute für kulturelle Zwecke genutzt wird.",
       hu: "A betlehemi Dar al-Karima egy jelentős történelmi udvarház, amely ma kulturális célokat szolgál.",
@@ -746,7 +746,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-mosque-of-omar-bethlehem-landmarks-v2",
     type: "landmark",
     name: { de: "Omar-Moschee", hu: "Omari-mecset", ro: "Moscheea lui Omar", en: "Mosque of Omar (Bethlehem)" },
-    coordinates: { lat: 31.7049, lng: 35.2061 },
+    coords: [35.2061, 31.7049],
     description: {
       de: "Die Omar-Moschee ist die einzige Moschee in der Altstadt von Bethlehem und befindet sich direkt gegenüber der Geburtskirche am Krippenplatz.",
       hu: "Az Omari-mecset Betlehem óvárosának egyetlen mecsete, a Jászol téren, a Születés Templomával szemben.",
@@ -765,7 +765,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-pales-museum-birzeit-landmarks-v2",
     type: "museum",
     name: { de: "Palästinensisches Nationalmuseum", hu: "Palesztin Nemzeti Múzeum", ro: "Muzeul Național Palestinian", en: "Palestinian Museum (Birzeit)" },
-    coordinates: { lat: 31.9585, lng: 35.1785 },
+    coords: [35.1785, 31.9585],
     description: {
       de: "Das Palästinensische Museum in Birzeit verbindet zeitgenössische Kunst mit dem Studium der Geschichte und Gesellschaft Palästinas.",
       hu: "A birzeiti Palesztin Múzeum a kortárs művészetet ötvözi a palesztin történelem és társadalom tanulmányozásával.",
@@ -784,7 +784,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-arraba-throne-village-landmarks-v2",
     type: "village",
     name: { de: "Arraba Thron-Dorf", hu: "Arraba trónfalu", ro: "Satul Arraba", en: "Arraba Throne Village" },
-    coordinates: { lat: 32.4047, lng: 35.2014 },
+    coords: [35.2014, 32.4047],
     description: {
       de: "Arraba ist bekannt für seinen historischen Kern mit prächtigen osmanischen Palastgebäuden der Abd al-Hadi-Familie.",
       hu: "Arraba az Abd al-Hadi család monumentális oszmán palotáiról ismert történelmi falu.",
@@ -803,7 +803,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-jaba-throne-village-landmarks-v2",
     type: "village",
     name: { de: "Jaba Thron-Dorf", hu: "Dzseba trónfalu", ro: "Satul Jaba", en: "Jaba' Throne Village" },
-    coordinates: { lat: 32.3167, lng: 35.2167 },
+    coords: [35.2167, 32.3167],
     description: {
       de: "Jaba ist eines der 24 historischen Thron-Dörfer, in denen die lokalen Scheichs ihre herrschaftlichen Residenzen errichteten.",
       hu: "Dzseba a 24 történelmi trónfalu egyike, ahol a helyi sejkek építették fel uradalmi házaikat.",
@@ -822,7 +822,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-al-nasr-mosque-nablus-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Nasr-Moschee", hu: "Al-Nasr-mecset", ro: "Moscheea Al-Nasr", en: "Al-Nasr Mosque (Nablus)" },
-    coordinates: { lat: 32.2217, lng: 35.2614 },
+    coords: [35.2614, 32.2217],
     description: {
       de: "Die Al-Nasr-Moschee (Siegemoschee) ist ein markantes Bauwerk in Nablus mit einer auffälligen türkisen Kuppel.",
       hu: "Az Al-Nasr-mecset (Győzelem-mecset) Nabulusz egyik jellegzetes épülete, feltűnő türkizkék kupolával.",
@@ -841,7 +841,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-rafah-crossing-landmarks-v2",
     type: "port",
     name: { de: "Grenzübergang Rafah", hu: "Rafahi határátkelő", ro: "Punctul de trecere Rafah", en: "Rafah Border Crossing" },
-    coordinates: { lat: 31.2464, lng: 34.2547 },
+    coords: [34.2547, 31.2464],
     description: {
       de: "Der Grenzübergang Rafah ist der wichtigste Verbindungspunkt zwischen dem Gazastreifen und Ägypten und ein bedeutendes geopolitisches Wahrzeichen.",
       hu: "A rafahi határátkelő a Gázai övezet és Egyiptom közötti legfontosabb kapcsolódási pont és geopolitikai szimbólum.",
@@ -860,7 +860,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-khan-el-zeit-landmarks-v2",
     type: "landmark",
     name: { de: "Khan el-Zeit", hu: "Khan el-Zeit", ro: "Khan el-Zeit", en: "Khan el-Zeit" },
-    coordinates: { lat: 31.7803, lng: 35.2306 },
+    coords: [35.2306, 31.7803],
     description: {
       de: "Khan el-Zeit ist eine historische Straße und ein Basar in der Altstadt von Jerusalem, der für seine traditionellen Öl- und Lebensmittelgeschäfte bekannt ist.",
       hu: "A Khan el-Zeit Jeruzsálem óvárosának történelmi utcája és bazára, amely hagyományos olaj- és élelmiszerboltjairól híres.",

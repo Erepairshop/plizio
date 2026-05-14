@@ -466,7 +466,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-altadighi-national-park-life-v2",
     type: "park",
     name: { de: "Altadighi Nationalpark", hu: "Altadighi Nemzeti Park", ro: "Parcul Național Altadighi", en: "Altadighi National Park" },
-    coordinates: { lat: 25.0211, lng: 88.9389 },
+    coords: [88.9389, 25.0211],
     description: {
       de: "Der Park schützt einen historischen See und dichte Wälder im Distrikt Naogaon. Er ist ein wichtiger Rastplatz für Zugvögel.",
       hu: "A park egy történelmi tavat és sűrű erdőket védelmez Naogaon körzetben. Fontos pihenőhely a vándormadarak számára.",
@@ -497,7 +497,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-medasachhapia-national-park-life-v2",
     type: "park",
     name: { de: "Medasachhapia Nationalpark", hu: "Medasachhapia Nemzeti Park", ro: "Parcul Național Medasachhapia", en: "Medasachhapia National Park" },
-    coordinates: { lat: 21.6528, lng: 92.0514 },
+    coords: [92.0514, 21.6528],
     description: {
       de: "Dieses Reservat in Cox's Bazar ist bekannt für seine alten Dipterocarpus-Wälder. Es schützt die Artenvielfalt der Küstenregion.",
       hu: "Ez a Cox's Bazar-i rezervátum híres ősi Dipterocarpus erdőiről. Megőrzi a tengerparti régió biológiai sokféleségét.",
@@ -528,7 +528,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-khadimnagar-national-park-life-v2",
     type: "park",
     name: { de: "Khadimnagar Nationalpark", hu: "Khadimnagar Nemzeti Park", ro: "Parcul Național Khadimnagar", en: "Khadimnagar National Park" },
-    coordinates: { lat: 24.9383, lng: 91.9333 },
+    coords: [91.9333, 24.9383],
     description: {
       de: "Der Park liegt bei Sylhet und besteht aus hügeligen Regenwäldern. Er ist ein Paradies für Orchideen und seltene Vögel.",
       hu: "A park Sylhet mellett található és dombos esőerdőkből áll. Az orchideák és ritka madarak paradicsoma.",
@@ -559,7 +559,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-baraiyadhala-national-park-life-v2",
     type: "park",
     name: { de: "Baraiyadhala Nationalpark", hu: "Baraiyadhala Nemzeti Park", ro: "Parcul Național Baraiyadhala", en: "Baraiyadhala National Park" },
-    coordinates: { lat: 22.6822, lng: 91.6425 },
+    coords: [91.6425, 22.6822],
     description: {
       de: "In den Hügeln von Chittagong gelegen, bietet dieser Park spektakuläre Wasserfälle. Er schützt die Flora der Sitakunda-Hügelkette.",
       hu: "A Chittagong-dombságban található park látványos vízesésekkel rendelkezik. A Sitakunda-hegység flóráját védi.",
@@ -590,7 +590,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-kuakata-national-park-life-v2",
     type: "park",
     name: { de: "Kuakata Nationalpark", hu: "Kuakata Nemzeti Park", ro: "Parcul Național Kuakata", en: "Kuakata National Park" },
-    coordinates: { lat: 21.855, lng: 90.1528 },
+    coords: [90.1528, 21.855],
     description: {
       de: "Der Park umfasst Mangrovenwälder direkt an der Küste des Golfs von Bengalen. Er dient dem Schutz vor Küstenerosion.",
       hu: "A park mangroveerdőket foglal magában közvetlenül a Bengáli-öböl partján. Partvédelmi szerepet tölt be.",
@@ -621,7 +621,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-hazarikhil-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Hazarikhil Wildschutzgebiet", hu: "Hazarikhil Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Hazarikhil", en: "Hazarikhil Wildlife Sanctuary" },
-    coordinates: { lat: 22.6844, lng: 91.7083 },
+    coords: [91.7083, 22.6844],
     description: {
       de: "Dieses Schutzgebiet in Chittagong ist ein Hotspot für die Vogelbeobachtung. Es bewahrt die natürliche Vegetation der Region.",
       hu: "Ez a Chittagong-i védett terület a madármegfigyelők kedvelt helye. Megőrzi a régió természetes vegetációját.",
@@ -652,7 +652,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-fasiakhali-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Fasiakhali Wildschutzgebiet", hu: "Fasiakhali Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Fasiakhali", en: "Fasiakhali Wildlife Sanctuary" },
-    coordinates: { lat: 21.725, lng: 92.1028 },
+    coords: [92.1028, 21.725],
     description: {
       de: "Ein wichtiger Korridor für wilde Elefanten im Distrikt Cox's Bazar. Das Gebiet besteht aus tropischen immergrünen Wäldern.",
       hu: "A vad elefántok fontos folyosója Cox's Bazar körzetben. A terület trópusi örökzöld erdőkből áll.",
@@ -683,7 +683,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-pablakhali-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Pablakhali Wildschutzgebiet", hu: "Pablakhali Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Pablakhali", en: "Pablakhali Wildlife Sanctuary" },
-    coordinates: { lat: 23.1583, lng: 92.25 },
+    coords: [92.25, 23.1583],
     description: {
       de: "Eines der größten Wildschutzgebiete im Südosten von Bangladesch. Es liegt in den malerischen Chittagong Hill Tracts.",
       hu: "Banglades délkeleti részének egyik legnagyobb vadvédelmi területe. A festői Chittagong-dombságban található.",
@@ -714,7 +714,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-sonadia-island-life-v2",
     type: "wildlife",
     name: { de: "Sonadia Insel", hu: "Sonadia-sziget", ro: "Insula Sonadia", en: "Sonadia Island" },
-    coordinates: { lat: 21.4883, lng: 91.9125 },
+    coords: [91.9125, 21.4883],
     description: {
       de: "Eine Barriereinsel vor Cox's Bazar, die für ihre ökologische Bedeutung bekannt ist. Sie ist ein Hotspot für gefährdete Schildkröten.",
       hu: "Egy gátsziget Cox's Bazar partjainál, amely ökológiai jelentőségéről ismert. A veszélyeztetett teknősök gócpontja.",
@@ -745,7 +745,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-baldha-garden-life-v2",
     type: "park",
     name: { de: "Baldha Garten", hu: "Baldha-kert", ro: "Grădina Baldha", en: "Baldha Garden" },
-    coordinates: { lat: 23.7167, lng: 90.4167 },
+    coords: [90.4167, 23.7167],
     description: {
       de: "Einer der ältesten botanischen Gärten in Dhaka, gegründet von Narendra Narayan Roy. Er beherbergt seltene botanische Sammlungen.",
       hu: "Dakka egyik legrégebbi botanikus kertje, amelyet Narendra Narayan Roy alapított. Ritka botanikai gyűjteményeknek ad otthont.",
@@ -776,7 +776,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-sitakunda-eco-park-life-v2",
     type: "park",
     name: { de: "Sitakunda Ökopark", hu: "Sitakunda Ökopark", ro: "Eco-Parcul Sitakunda", en: "Sitakunda Eco-Park" },
-    coordinates: { lat: 22.6289, lng: 91.6708 },
+    coords: [91.6708, 22.6289],
     description: {
       de: "Der erste Ökopark des Landes umfasst einen botanischen Garten und wilde Hügelketten. Er ist bekannt für seine natürliche Schönheit.",
       hu: "Az ország első ökoparkja botanikus kertet és vadregényes dombokat foglal magában. Természeti szépségéről ismert.",
@@ -807,7 +807,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-madhabkunda-eco-park-life-v2",
     type: "park",
     name: { de: "Madhabkunda Ökopark", hu: "Madhabkunda Ökopark", ro: "Eco-Parcul Madhabkunda", en: "Madhabkunda Eco-Park" },
-    coordinates: { lat: 24.6433, lng: 92.2211 },
+    coords: [92.2211, 24.6433],
     description: {
       de: "Dieser Park beherbergt den höchsten Wasserfall von Bangladesch. Die umliegenden Wälder bieten eine reiche Flora und Fauna.",
       hu: "Ez a park ad otthont Banglades legmagasabb vízesésének. A környező erdők gazdag növény- és állatvilágot kínálnak.",
@@ -838,7 +838,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-tilagor-eco-park-life-v2",
     type: "park",
     name: { de: "Tilagor Ökopark", hu: "Tilagor Ökopark", ro: "Eco-Parcul Tilagor", en: "Tilagor Eco-Park" },
-    coordinates: { lat: 24.9125, lng: 91.9144 },
+    coords: [91.9144, 24.9125],
     description: {
       de: "Ein kleiner, aber biologisch vielfältiger Park am Stadtrand von Sylhet. Er besteht aus mehreren Hügeln und Tälern.",
       hu: "Egy kicsi, de biológiailag sokszínű park Sylhet külvárosában. Több dombból és völgyből áll.",
@@ -869,7 +869,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-banshkhali-eco-park-life-v2",
     type: "park",
     name: { de: "Banshkhali Ökopark", hu: "Banshkhali Ökopark", ro: "Eco-Parcul Banshkhali", en: "Banshkhali Eco-Park" },
-    coordinates: { lat: 22.0525, lng: 91.9367 },
+    coords: [91.9367, 22.0525],
     description: {
       de: "Dieser Park in Chittagong verfügt über einen großen künstlichen See und dichte Wälder. Er bietet einen Rückzugsort für Elefanten.",
       hu: "Ebben a Chittagong-i parkban egy nagy mesterséges tó és sűrű erdők találhatók. Menedéket nyújt az elefántoknak.",
@@ -900,7 +900,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-char-mughal-life-v2",
     type: "wildlife",
     name: { de: "Char Mughal Wildschutzgebiet", hu: "Char Mughal Vadvédelmi Terület", ro: "Sanctuarul de Faună Sălbatică Char Mughal", en: "Char Mughal Wildlife Sanctuary" },
-    coordinates: { lat: 21.905, lng: 90.8125 },
+    coords: [90.8125, 21.905],
     description: {
       de: "Ein Mangrovenschutzgebiet auf einer Insel im Distrikt Bhola. Es ist ein lebenswichtiger Ort für seltene Wasservögel.",
       hu: "Egy mangrovévédelmi terület Bhola körzet egyik szigetén. Létfontosságú helyszín a ritka vízimadarak számára.",
@@ -931,7 +931,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-shaheed-kamaruzzaman-zoo-life-v2",
     type: "park",
     name: { de: "Shaheed Kamaruzzaman Zoo", hu: "Shaheed Kamaruzzaman Állatkert", ro: "Grădina Zoologică Shaheed Kamaruzzaman", en: "Shaheed Kamaruzzaman Zoo" },
-    coordinates: { lat: 24.3739, lng: 88.5833 },
+    coords: [88.5833, 24.3739],
     description: {
       de: "Der zentrale Zoo von Rajshahi bietet eine Mischung aus Wildtieren und botanischen Anlagen. Er ist ein bedeutendes Bildungszentrum.",
       hu: "Rajshahi központi állatkertje vadon élő állatok és botanikai kertek keverékét kínálja. Jelentős oktatási központ.",
@@ -962,7 +962,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-dharmasagar-park-life-v2",
     type: "park",
     name: { de: "Dharmasagar Park", hu: "Dharmasagar Park", ro: "Parcul Dharmasagar", en: "Dharmasagar Park" },
-    coordinates: { lat: 23.4617, lng: 91.1767 },
+    coords: [91.1767, 23.4617],
     description: {
       de: "Dieser Park umgibt einen massiven historischen See in Comilla. Er ist ein beliebter Ort für Freizeitaktivitäten und Naturbeobachtungen.",
       hu: "Ez a park egy hatalmas történelmi tavat vesz körül Comillában. Kedvelt hely a kikapcsolódásra és a természet megfigyelésére.",
@@ -993,7 +993,7 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "bangladesh-zinda-park-life-v2",
     type: "park",
     name: { de: "Zinda Park", hu: "Zinda Park", ro: "Parcul Zinda", en: "Zinda Park" },
-    coordinates: { lat: 23.8222, lng: 90.5489 },
+    coords: [90.5489, 23.8222],
     description: {
       de: "Ein ökologischer Park in der Nähe von Dhaka, der von der örtlichen Gemeinschaft verwaltet wird. Er ist bekannt für sein ruhiges Ambiente.",
       hu: "Egy ökológiai park Dakka közelében, amelyet a helyi közösség kezel. Nyugodt légköréről ismert.",

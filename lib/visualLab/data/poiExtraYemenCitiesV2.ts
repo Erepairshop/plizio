@@ -757,7 +757,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-bayt-al-faqih-cities-v2",
     type: "city",
     name: { de: "Bayt al-Faqih", hu: "Bayt al-Faqih", ro: "Bayt al-Faqih", en: "Bayt al-Faqih" },
-    coordinates: { lat: 14.53, lng: 43.31 },
+    coords: [43.31, 14.53],
     description: {
       de: "Eine historische Handelsstadt in der Tihama-Küstenebene. Sie ist berühmt für ihren wöchentlichen Freitagsmarkt, der seit Jahrhunderten besteht.",
       hu: "Történelmi kereskedőváros a Tihama tengerparti síkságon. Híres a minden pénteken megrendezett heti vásáráról, amely évszázadok óta működik.",
@@ -776,7 +776,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-ghayl-ba-wazir-cities-v2",
     type: "town",
     name: { de: "Ghayl Ba Wazir", hu: "Ghayl Ba Wazir", ro: "Ghayl Ba Wazir", en: "Ghayl Ba Wazir" },
-    coordinates: { lat: 14.77, lng: 49.37 },
+    coords: [49.37, 14.77],
     description: {
       de: "Eine blühende Oasenstadt im Gouvernement Hadramaut. Sie ist landesweit bekannt für den Anbau von hochwertigem Tabak und Henna.",
       hu: "Virágzó oázisváros Hadramaut kormányzóságban. Országszerte ismert a kiváló minőségű dohány- és hennaműveléséről.",
@@ -795,7 +795,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-harad-cities-v2",
     type: "town",
     name: { de: "Harad", hu: "Harad", ro: "Harad", en: "Harad" },
-    coordinates: { lat: 16.39, lng: 43.06 },
+    coords: [43.06, 16.39],
     description: {
       de: "Ein wichtiges Handelszentrum an der Grenze zu Saudi-Arabien. Die Stadt dient als zentraler Umschlagplatz für Waren und Reisende.",
       hu: "Fontos kereskedelmi központ a szaúdi határ közelében. A város központi elosztóhelyként szolgál az áruk és az utazók számára.",
@@ -814,7 +814,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-khamir-cities-v2",
     type: "town",
     name: { de: "Khamir", hu: "Khamir", ro: "Khamir", en: "Khamir" },
-    coordinates: { lat: 15.82, lng: 43.98 },
+    coords: [43.98, 15.82],
     description: {
       de: "Das politische Herz der Hashid-Stammeskonföderation. Die Stadt liegt im zentralen Hochland und ist für ihre markante Steinarchitektur bekannt.",
       hu: "A Hasid törzsszövetség politikai központja. A központi felföldön fekvő város jellegzetes kőépítészetéről ismert.",
@@ -833,7 +833,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-lawdar-cities-v2",
     type: "town",
     name: { de: "Lawdar", hu: "Lawdar", ro: "Lawdar", en: "Lawdar" },
-    coordinates: { lat: 13.88, lng: 45.86 },
+    coords: [45.86, 13.88],
     description: {
       de: "Eine strategisch wichtige Stadt im Gouvernement Abyan. Sie dient als kommerzieller Knotenpunkt für die umliegenden ländlichen Gebiete.",
       hu: "Stratégiai fontosságú város Ábjan kormányzóságban. Kereskedelmi csomópontként szolgál a környező vidéki területek számára.",
@@ -852,7 +852,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-mabar-cities-v2",
     type: "city",
     name: { de: "Ma'bar", hu: "Ma'bar", ro: "Ma'bar", en: "Ma'bar" },
-    coordinates: { lat: 14.8, lng: 44.29 },
+    coords: [44.29, 14.8],
     description: {
       de: "Eine bedeutende Stadt südlich von Sanaa im Gouvernement Dhamar. Sie ist ein wichtiges religiöses und landwirtschaftliches Zentrum.",
       hu: "Jelentős város Szanaától délre, Dhamar kormányzóságban. Fontos vallási és mezőgazdasági központ.",
@@ -871,7 +871,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-mudiyah-cities-v2",
     type: "town",
     name: { de: "Mudiyah", hu: "Mudiyah", ro: "Mudiyah", en: "Mudiyah" },
-    coordinates: { lat: 13.92, lng: 46.12 },
+    coords: [46.12, 13.92],
     description: {
       de: "Eine Stadt im Herzen von Abyan, die für ihre fruchtbaren Täler bekannt ist. Die Region produziert hochwertige Früchte und Gemüse.",
       hu: "Város Ábjan szívében, amely termékeny völgyeiről ismert. A régió kiváló minőségű gyümölcsöket és zöldségeket termel.",
@@ -890,7 +890,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-qatabah-cities-v2",
     type: "town",
     name: { de: "Qatabah", hu: "Qatabah", ro: "Qatabah", en: "Qatabah" },
-    coordinates: { lat: 13.84, lng: 44.7 },
+    coords: [44.7, 13.84],
     description: {
       de: "Eine Bergstadt im Gouvernement Ad-Dhale, die auf einem hohen Kamm liegt. Sie war historisch ein wichtiger Grenzposten zwischen Nord- und Südjemen.",
       hu: "Hegyi város Ad-Dhale kormányzóságban, egy magas gerincen. Történelmileg fontos határállomás volt Észak- és Dél-Jemen között.",
@@ -909,7 +909,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-qishn-cities-v2",
     type: "town",
     name: { de: "Qishn", hu: "Qishn", ro: "Qishn", en: "Qishn" },
-    coordinates: { lat: 15.42, lng: 51.68 },
+    coords: [51.68, 15.42],
     description: {
       de: "Eine historische Küstenstadt im Gouvernement Al-Mahrah. Sie war einst die Hauptstadt des Sultanats von Qishn und Socotra.",
       hu: "Történelmi tengerparti város Al-Mahrah kormányzóságban. Valamikor Qishn és Szokotra szultanátusának fővárosa volt.",
@@ -928,7 +928,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-sayyan-cities-v2",
     type: "town",
     name: { de: "Sayyan", hu: "Sayyan", ro: "Sayyan", en: "Sayyan" },
-    coordinates: { lat: 15.17, lng: 44.32 },
+    coords: [44.32, 15.17],
     description: {
       de: "Eine Stadt im fruchtbaren Becken südöstlich von Sanaa. Sie ist bekannt für ihre produktive Landwirtschaft und Weinberge.",
       hu: "Város a termékeny medencében Szanaától délkeletre. Produktív mezőgazdaságáról és szőlőültetvényeiről ismert.",
@@ -947,7 +947,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-bayhan-cities-v2",
     type: "city",
     name: { de: "Bayhan", hu: "Bayhan", ro: "Bayhan", en: "Bayhan" },
-    coordinates: { lat: 14.83, lng: 45.73 },
+    coords: [45.73, 14.83],
     description: {
       de: "Eine bedeutende Stadt im Gouvernement Shabwah, gelegen in einem breiten Wadi. Sie war historisch ein wichtiges Zentrum auf der Weihrauchstraße.",
       hu: "Jelentős város Shabwah kormányzóságban, egy széles vádiban. Történelmileg a tömjénút egyik fontos állomása volt.",
@@ -966,7 +966,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-hays-cities-v2",
     type: "town",
     name: { de: "Hays", hu: "Hays", ro: "Hays", en: "Hays" },
-    coordinates: { lat: 13.93, lng: 43.48 },
+    coords: [43.48, 13.93],
     description: {
       de: "Eine charmante Stadt in der Tihama-Ebene, bekannt für ihr traditionelles Handwerk. Sie liegt an der Straße zwischen Al Hudaydah und Taiz.",
       hu: "Bájos város a Tihama-síkságon, amely hagyományos kézművességéről ismert. Az Al Hudaydah és Taiz közötti út mentén fekszik.",
@@ -985,7 +985,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-habban-cities-v2",
     type: "town",
     name: { de: "Habban", hu: "Habban", ro: "Habban", en: "Habban" },
-    coordinates: { lat: 14.35, lng: 47.07 },
+    coords: [47.07, 14.35],
     description: {
       de: "Eine beeindruckende historische Stadt in Shabwah mit markanten Hochhäusern aus Lehmziegeln. Sie liegt strategisch günstig an einem Gebirgspass.",
       hu: "Lenyűgöző történelmi város Shabwah-ban, jellegzetes vályogtégla toronyházaival. Stratégiai helyen fekszik egy hegyszorosnál.",
@@ -1004,7 +1004,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-jaar-cities-v2",
     type: "city",
     name: { de: "Ja'ar", hu: "Ja'ar", ro: "Ja'ar", en: "Ja'ar" },
-    coordinates: { lat: 13.22, lng: 45.3 },
+    coords: [45.3, 13.22],
     description: {
       de: "Das industrielle und landwirtschaftliche Zentrum des Gouvernements Abyan. Die Stadt liegt im fruchtbaren Delta des Wadi Bana.",
       hu: "Ábjan kormányzóság ipari és mezőgazdasági központja. A város a Wadi Bana termékeny deltájában fekszik.",
@@ -1023,7 +1023,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-mayfaah-cities-v2",
     type: "town",
     name: { de: "Mayfa'ah", hu: "Mayfa'ah", ro: "Mayfa'ah", en: "Mayfa'ah" },
-    coordinates: { lat: 14.26, lng: 47.6 },
+    coords: [47.6, 14.26],
     description: {
       de: "Eine antike Stadt in Shabwah mit einer jahrtausendealten Geschichte. Sie liegt in der Nähe wichtiger archäologischer Stätten.",
       hu: "Ősi város Shabwah-ban, több ezer éves történelemmel. Fontos régészeti lelőhelyek közelében fekszik.",
@@ -1042,7 +1042,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-mukayras-cities-v2",
     type: "town",
     name: { de: "Mukayras", hu: "Mukayras", ro: "Mukayras", en: "Mukayras" },
-    coordinates: { lat: 13.94, lng: 45.67 },
+    coords: [45.67, 13.94],
     description: {
       de: "Eine hochgelegene Stadt im Gouvernement Al-Bayda, bekannt für ihr kühles Klima. Sie bietet weite Ausblicke über das südliche Plateau.",
       hu: "Magasan fekvő város Al-Bayda kormányzóságban, amely hűvös éghajlatáról ismert. Széles kilátást nyújt a déli fennsíkra.",
@@ -1061,7 +1061,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-raida-cities-v2",
     type: "town",
     name: { de: "Raida", hu: "Raida", ro: "Raida", en: "Raida" },
-    coordinates: { lat: 15.68, lng: 44.01 },
+    coords: [44.01, 15.68],
     description: {
       de: "Eine wichtige Marktstadt im Gouvernement Amran, nördlich von Sanaa. Sie ist bekannt für ihre historische jüdische Gemeinde und Getreidemärkte.",
       hu: "Fontos piaci város Amran kormányzóságban, Szanaától északra. Történelmi zsidó közösségéről és gabonapiacairól ismert.",
@@ -1080,7 +1080,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-sayhut-cities-v2",
     type: "town",
     name: { de: "Sayhut", hu: "Sayhut", ro: "Sayhut", en: "Sayhut" },
-    coordinates: { lat: 15.21, lng: 51.24 },
+    coords: [51.24, 15.21],
     description: {
       de: "Eine Küstenstadt im Gouvernement Al-Mahrah, gelegen am Arabischen Meer. Sie ist ein wichtiges Zentrum für Fischerei und Küstenhandel.",
       hu: "Tengerparti város Al-Mahrah kormányzóságban, az Arab-tenger partján. Fontos halászati és tengerparti kereskedelmi központ.",
@@ -1099,7 +1099,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-abs-cities-v2",
     type: "city",
     name: { de: "Abs", hu: "Abs", ro: "Abs", en: "Abs" },
-    coordinates: { lat: 16.01, lng: 43.2 },
+    coords: [43.2, 16.01],
     description: {
       de: "Die größte Stadt im westlichen Teil des Gouvernements Hajjah. Sie dient als kommerzielles Zentrum für die Tihama-Küstenebene.",
       hu: "Haddzsa kormányzóság nyugati részének legnagyobb városa. Kereskedelmi központként szolgál a Tihama-síkság számára.",
@@ -1118,7 +1118,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-ad-dahi-cities-v2",
     type: "town",
     name: { de: "Ad-Dahi", hu: "Ad-Dahi", ro: "Ad-Dahi", en: "Ad-Dahi" },
-    coordinates: { lat: 15.14, lng: 43.34 },
+    coords: [43.34, 15.14],
     description: {
       de: "Eine geschäftige Stadt in der Tihama-Ebene, bekannt für ihre Landwirtschaft. Sie ist ein wichtiger Markt für die umliegenden Dörfer.",
       hu: "Nyüzsgő város a Tihama-síkságon, amely mezőgazdaságáról ismert. Fontos piac a környező falvak számára.",
@@ -1137,7 +1137,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-al-mansuriyah-cities-v2",
     type: "town",
     name: { de: "Al-Mansuriyah", hu: "Al-Mansuriyah", ro: "Al-Mansuriyah", en: "Al-Mansuriyah" },
-    coordinates: { lat: 14.71, lng: 43.26 },
+    coords: [43.26, 14.71],
     description: {
       de: "Eine Stadt im Gouvernement Al Hudaydah, die als regionales Handelszentrum dient. Sie liegt inmitten produktiver landwirtschaftlicher Gebiete.",
       hu: "Város Al Hudaydah kormányzóságban, amely regionális kereskedelmi központként szolgál. Termelékeny mezőgazdasági területek között fekszik.",
@@ -1156,7 +1156,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-al-qanawis-cities-v2",
     type: "town",
     name: { de: "Al-Qanawis", hu: "Al-Qanawis", ro: "Al-Qanawis", en: "Al-Qanawis" },
-    coordinates: { lat: 15.48, lng: 43.15 },
+    coords: [43.15, 15.48],
     description: {
       de: "Eine Stadt in der nördlichen Tihama-Region, bekannt für ihre Viehzucht. Sie ist ein zentraler Treffpunkt für Stämme der Region.",
       hu: "Város az északi Tihama régióban, amely állattenyésztéséről ismert. A régió törzseinek központi találkozóhelye.",
@@ -1175,7 +1175,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-al-zaydiyyah-cities-v2",
     type: "town",
     name: { de: "Al-Zaydiyyah", hu: "Al-Zaydiyyah", ro: "Al-Zaydiyyah", en: "Al-Zaydiyyah" },
-    coordinates: { lat: 15.33, lng: 43.32 },
+    coords: [43.32, 15.33],
     description: {
       de: "Ein bedeutendes religiöses und landwirtschaftliches Zentrum in der Tihama. Die Stadt ist für ihre historische Gelehrsamkeit bekannt.",
       hu: "Jelentős vallási és mezőgazdasági központ a Tihama-síkságon. A város történelmi tudósközösségéről ismert.",
@@ -1194,7 +1194,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-at-tuhayta-cities-v2",
     type: "town",
     name: { de: "At-Tuhayta", hu: "At-Tuhayta", ro: "At-Tuhayta", en: "At-Tuhayta" },
-    coordinates: { lat: 14.18, lng: 43.23 },
+    coords: [43.23, 14.18],
     description: {
       de: "Eine Küstenstadt im Gouvernement Al Hudaydah, umgeben von Palmenhainen. Sie ist bekannt für ihre Landwirtschaft und die Nähe zum Roten Meer.",
       hu: "Tengerparti város Al Hudaydah kormányzóságban, pálmaligetekkel körülvéve. Mezőgazdaságáról és a Vörös-tenger közelségéről ismert.",
@@ -1213,7 +1213,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-az-zuhrah-cities-v2",
     type: "town",
     name: { de: "Az-Zuhrah", hu: "Az-Zuhrah", ro: "Az-Zuhrah", en: "Az-Zuhrah" },
-    coordinates: { lat: 15.71, lng: 43.08 },
+    coords: [43.08, 15.71],
     description: {
       de: "Eine Stadt im Norden der Tihama-Ebene, die für ihren landwirtschaftlichen Reichtum bekannt ist. Sie ist ein wichtiger Umschlagplatz für Feldfrüchte.",
       hu: "Város az északi Tihama-síkságon, amely mezőgazdasági gazdagságáról ismert. Fontos elosztóhely a termények számára.",
@@ -1232,7 +1232,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-mabyan-cities-v2",
     type: "town",
     name: { de: "Mabyan", hu: "Mabyan", ro: "Mabyan", en: "Mabyan" },
-    coordinates: { lat: 15.77, lng: 43.51 },
+    coords: [43.51, 15.77],
     description: {
       de: "Eine malerische Bergstadt im Gouvernement Hajjah. Sie ist berühmt für ihre spektakulären Terrassenfelder und die Steinarchitektur.",
       hu: "Festői hegyi város Haddzsa kormányzóságban. Híres látványos teraszos földjeiről és kőépítészetéről.",
@@ -1251,7 +1251,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-shihan-cities-v2",
     type: "town",
     name: { de: "Shihan", hu: "Shihan", ro: "Shihan", en: "Shihan" },
-    coordinates: { lat: 17.38, lng: 52.41 },
+    coords: [52.41, 17.38],
     description: {
       de: "Eine strategische Grenzstadt im Gouvernement Al-Mahrah an der Grenze zu Oman. Sie ist ein wichtiger Knotenpunkt für den Wüstenhandel.",
       hu: "Stratégiai határváros Al-Mahrah kormányzóságban, az ománi határon. A sivatagi kereskedelem fontos csomópontja.",
@@ -1270,7 +1270,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-usaylan-cities-v2",
     type: "town",
     name: { de: "Usaylan", hu: "Usaylan", ro: "Usaylan", en: "Usaylan" },
-    coordinates: { lat: 15.0, lng: 45.8 },
+    coords: [45.8, 15.0],
     description: {
       de: "Eine Stadt in Shabwah, die für ihren archäologischen Reichtum bekannt ist. Sie liegt in einem Gebiet mit bedeutenden antiken Ruinen.",
       hu: "Város Shabwah-ban, amely régészeti gazdagságáról ismert. Jelentős ősi romok területén fekszik.",
@@ -1289,7 +1289,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-al-ghayl-cities-v2",
     type: "town",
     name: { de: "Al-Ghayl", hu: "Al-Ghayl", ro: "Al-Ghayl", en: "Al-Ghayl" },
-    coordinates: { lat: 16.14, lng: 44.72 },
+    coords: [44.72, 16.14],
     description: {
       de: "Eine Oasenstadt im Gouvernement Al Jawf, bekannt für ihr reichhaltiges Wasservorkommen. Sie ist ein wichtiges Zentrum für die lokale Landwirtschaft.",
       hu: "Oázisváros Al Jawf kormányzóságban, bőséges vízkészletéről ismert. A helyi mezőgazdaság egyik fontos központja.",
@@ -1308,7 +1308,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "yemen-al-matammah-cities-v2",
     type: "town",
     name: { de: "Al-Matammah", hu: "Al-Matammah", ro: "Al-Matammah", en: "Al-Matammah" },
-    coordinates: { lat: 16.1, lng: 44.57 },
+    coords: [44.57, 16.1],
     description: {
       de: "Eine Stadt im Jawf-Becken, die für ihre historische Bedeutung bekannt ist. Sie liegt in einem Gebiet mit vielen archäologischen Spuren.",
       hu: "Város a Jawf-medencében, amely történelmi jelentőségéről ismert. Régészeti nyomokban gazdag területen fekszik.",

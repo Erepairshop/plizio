@@ -727,7 +727,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-bahr-el-ghazal-river-fort-history-v2",
     type: "ruins",
     name: { de: "Bahr el Ghazal Flussfestung", hu: "Bahr el-Ghazal folyóerőd", ro: "Fortăreața fluvială Bahr el-Ghazal", en: "Bahr el Ghazal River Fort" },
-    coordinates: { lat: 8.52, lng: 29.5 },
+    coords: [29.5, 8.52],
     description: {
       de: "Überreste einer historischen Befestigungsanlage am Ufer des Bahr el Ghazal. Sie diente während der Kolonialzeit der Kontrolle der Handelsrouten.",
       hu: "Történelmi erőd maradványai a Bahr el-Ghazal partján. A gyarmati korszakban a kereskedelmi útvonalak ellenőrzésére használták.",
@@ -746,7 +746,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-khor-flus-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Khor Flus Schlachtfeld", hu: "Khor Flus csatatér", ro: "Câmpul de luptă Khor Flus", en: "Khor Flus Battlefield" },
-    coordinates: { lat: 9.38, lng: 32.1 },
+    coords: [32.1, 9.38],
     description: {
       de: "Ort bedeutender militärischer Auseinandersetzungen nahe dem Weißen Nil. Das Gebiet war im 20. Jahrhundert ein strategischer Konfliktherd.",
       hu: "Jelentős katonai összecsapások helyszíne a Fehér-Nílus közelében. A terület a 20. században stratégiai konfliktuszóna volt.",
@@ -765,7 +765,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-wadelai-outpost-history-v2",
     type: "ruins",
     name: { de: "Wadelai Außenposten", hu: "Wadelai előőrs", ro: "Postul înaintat Wadelai", en: "Wadelai Outpost" },
-    coordinates: { lat: 2.7, lng: 31.5 },
+    coords: [31.5, 2.7],
     description: {
       de: "Ehemaliger militärischer Stützpunkt am Nil, der Ende des 19. Jahrhunderts gegründet wurde. Er diente der Sicherung der Region gegen äußere Einflüsse.",
       hu: "Egykori katonai támaszpont a Nílus mentén, amelyet a 19. század végén alapítottak. A régió védelmét szolgálta.",
@@ -784,7 +784,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-longarim-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Longarim Archäologische Stätte", hu: "Longarim régészeti lelőhely", ro: "Sit arheologic Longarim", en: "Longarim Archaeological Site" },
-    coordinates: { lat: 4.5, lng: 33.2 },
+    coords: [33.2, 4.5],
     description: {
       de: "Antike Siedlungsüberreste in der Nähe der Boma-Region. Die Funde deuten auf eine lange Besiedlungsgeschichte dieser Hochebene hin.",
       hu: "Ősi településmaradványok a Boma-régió közelében. A leletek a fennsík hosszú településtörténetére utalnak.",
@@ -803,7 +803,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-jebel-boma-fort-history-v2",
     type: "ruins",
     name: { de: "Jebel Boma Festung", hu: "Jebel Boma erőd", ro: "Fortăreața Jebel Boma", en: "Jebel Boma Fort" },
-    coordinates: { lat: 6.12, lng: 34.2 },
+    coords: [34.2, 6.12],
     description: {
       de: "Historische Verteidigungsanlage auf dem Jebel Boma. Sie spielte eine strategische Rolle bei der Überwachung des Plateaus.",
       hu: "Történelmi erődítmény a Jebel Boma hegyen. Stratégiai szerepet játszott a fennsík megfigyelésében.",
@@ -822,7 +822,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-mashra-el-rek-port-history-v2",
     type: "ruins",
     name: { de: "Mashra el Rek Hafen", hu: "Mashra el Rek kikötő", ro: "Portul Mashra el Rek", en: "Mashra el Rek Port" },
-    coordinates: { lat: 8.4, lng: 29.2 },
+    coords: [29.2, 8.4],
     description: {
       de: "Einst bedeutender Binnenhafen am Jur-Fluss. Er diente als wichtiges Handelszentrum und Knotenpunkt für Expeditionen im 19. Jahrhundert.",
       hu: "Egykor jelentős folyami kikötő a Jur folyón. Fontos kereskedelmi központ és expedíciós csomópont volt a 19. században.",
@@ -841,7 +841,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-kator-mission-history-v2",
     type: "church",
     name: { de: "Kator Mission", hu: "Kator misszió", ro: "Misiunea Kator", en: "Kator Mission" },
-    coordinates: { lat: 4.8, lng: 31.6 },
+    coords: [31.6, 4.8],
     description: {
       de: "Historische katholische Missionsstation bei Juba. Sie wurde im frühen 20. Jahrhundert gegründet und prägte die Bildungsgeschichte.",
       hu: "Történelmi katolikus missziós állomás Juba mellett. A 20. század elején alapították, jelentős oktatástörténeti szerepe volt.",
@@ -860,7 +860,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-ibba-historical-outpost-history-v2",
     type: "ruins",
     name: { de: "Ibba Historischer Außenposten", hu: "Ibba történelmi előőrs", ro: "Post istoric Ibba", en: "Ibba Historical Outpost" },
-    coordinates: { lat: 4.5, lng: 29.8 },
+    coords: [29.8, 4.5],
     description: {
       de: "Alter Verteidigungsposten im westlichen Südsudan. Er wurde im Rahmen der kolonialen Grenzsicherung gegen das Kongobecken errichtet.",
       hu: "Régi védelmi állomás Dél-Szudán nyugati részén. A Kongó-medence elleni gyarmati határvédelem részeként épült.",
@@ -879,7 +879,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-pibor-administrative-fort-history-v2",
     type: "ruins",
     name: { de: "Pibor Verwaltungsfestung", hu: "Pibor közigazgatási erőd", ro: "Fortăreața administrativă Pibor", en: "Pibor Administrative Fort" },
-    coordinates: { lat: 6.8, lng: 33.1 },
+    coords: [33.1, 6.8],
     description: {
       de: "Frühe Verwaltungsstruktur und Befestigung in der Pibor-Region. Sie fungierte als Stützpunkt für die koloniale Zivilverwaltung.",
       hu: "Korai közigazgatási épület és erődítmény a Pibor-régióban. A gyarmati polgári adminisztráció támaszpontjaként szolgált.",
@@ -898,7 +898,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-loka-mission-history-v2",
     type: "church",
     name: { de: "Loka Mission", hu: "Loka misszió", ro: "Misiunea Loka", en: "Loka Mission" },
-    coordinates: { lat: 4.1, lng: 30.7 },
+    coords: [30.7, 4.1],
     description: {
       de: "Bedeutende Bildungsmission in der Region Yei. Sie leistete Pionierarbeit bei der Alphabetisierung im südlichen Sudan.",
       hu: "Jelentős oktatási misszió a Yei régióban. Úttörő munkát végzett az írástudás fejlesztésében Dél-Szudánban.",
@@ -917,7 +917,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-kajokeji-historical-center-history-v2",
     type: "ruins",
     name: { de: "Kajokeji historisches Zentrum", hu: "Kajokeji történelmi központ", ro: "Centrul istoric Kajokeji", en: "Kajokeji Historical Center" },
-    coordinates: { lat: 3.8, lng: 30.9 },
+    coords: [30.9, 3.8],
     description: {
       de: "Historisches Verwaltungszentrum der Region Kajokeji aus der Mitte des 20. Jahrhunderts. Es bewahrt das Erbe lokaler Regierungsführung.",
       hu: "A Kajokeji régió történelmi adminisztratív központja a 20. század közepéből. Őrzi a helyi kormányzás örökségét.",
@@ -936,7 +936,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-rejjaf-hill-station-history-v2",
     type: "ruins",
     name: { de: "Rejjaf Bergstation", hu: "Rejjaf hegyi állomás", ro: "Stația montană Rejjaf", en: "Rejjaf Hill Station" },
-    coordinates: { lat: 4.7, lng: 31.7 },
+    coords: [31.7, 4.7],
     description: {
       de: "Ehemalige strategische Beobachtungsstation auf einer Anhöhe über dem Nil. Sie diente der militärischen Absicherung der Region Juba.",
       hu: "Egykori stratégiai megfigyelőállomás a Nílus feletti dombon. A Juba régió katonai védelmét szolgálta.",
@@ -955,7 +955,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-torit-military-depot-history-v2",
     type: "ruins",
     name: { de: "Torit Militärdepot", hu: "Torit katonai raktár", ro: "Depozit militar Torit", en: "Torit Military Depot" },
-    coordinates: { lat: 4.4, lng: 32.5 },
+    coords: [32.5, 4.4],
     description: {
       de: "Historisches Lagergelände in Torit, das im Laufe des 20. Jahrhunderts als wichtiges militärisches Logistikzentrum diente.",
       hu: "Történelmi raktárterület Toritban, amely a 20. század során fontos katonai logisztikai központként szolgált.",
@@ -974,7 +974,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-yambio-historical-compound-history-v2",
     type: "palace",
     name: { de: "Yambio historisches Areal", hu: "Yambio történelmi épületegyüttes", ro: "Complex istoric Yambio", en: "Yambio Historical Compound" },
-    coordinates: { lat: 4.5, lng: 28.4 },
+    coords: [28.4, 4.5],
     description: {
       de: "Ehemaliger Sitz regionaler Herrscher und Verwalter im westlichen Äquatoria-Staat. Bewahrt die bauliche Tradition der Region.",
       hu: "Regionális vezetők és adminisztrátorok egykori székhelye a nyugati Egyenlítői államban. Őrzi a régió építészeti hagyományait.",
@@ -993,7 +993,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-bor-riverfront-fort-history-v2",
     type: "ruins",
     name: { de: "Bor Uferfestung", hu: "Bor parti erőd", ro: "Fortificația de pe malul râului Bor", en: "Bor Riverfront Fort" },
-    coordinates: { lat: 6.2, lng: 31.5 },
+    coords: [31.5, 6.2],
     description: {
       de: "Historische Befestigungsanlage direkt am Weißen Nil in Bor. Sie sicherte den Zugang zum Flusshafen und zur Stadt.",
       hu: "Történelmi erődítmény közvetlenül a Fehér-Nílus partján Borban. Biztosította a folyami kikötő és a város elérését.",
@@ -1012,7 +1012,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-rumbek-historical-mission-history-v2",
     type: "church",
     name: { de: "Rumbek historische Mission", hu: "Rumbek történelmi misszió", ro: "Misiunea istorică Rumbek", en: "Rumbek Historical Mission" },
-    coordinates: { lat: 6.8, lng: 29.7 },
+    coords: [29.7, 6.8],
     description: {
       de: "Ehemalige Missionsstation, die zu Beginn des 20. Jahrhunderts das Zentrum für Bildung und Religion in Lakes State bildete.",
       hu: "Egykori missziós állomás, amely a 20. század elején az oktatás és a vallás központja volt Lakes State-ben.",
@@ -1031,7 +1031,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-malakal-old-town-district-history-v2",
     type: "ruins",
     name: { de: "Malakal Altstadtviertel", hu: "Malakal óvárosi negyed", ro: "Cartierul istoric Malakal", en: "Malakal Old Town District" },
-    coordinates: { lat: 9.5, lng: 31.6 },
+    coords: [31.6, 9.5],
     description: {
       de: "Historisches Viertel von Malakal mit alten kolonialen Geschäftshäusern aus der Zeit vor der Unabhängigkeit.",
       hu: "Malakal történelmi negyede régi gyarmati kereskedőházakkal a függetlenség előtti időkből.",
@@ -1050,7 +1050,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-akobo-military-post-history-v2",
     type: "ruins",
     name: { de: "Akobo Militärposten", hu: "Akobo katonai állomás", ro: "Postul militar Akobo", en: "Akobo Military Post" },
-    coordinates: { lat: 7.8, lng: 33.0 },
+    coords: [33.0, 7.8],
     description: {
       de: "Historische Militärstation an der Grenze zu Äthiopien. Sie spielte eine zentrale Rolle bei der Grenzüberwachung.",
       hu: "Történelmi katonai állomás az etióp határ mentén. Központi szerepet játszott a határőrizetben.",
@@ -1069,7 +1069,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-aweil-old-market-history-v2",
     type: "ruins",
     name: { de: "Aweil alter Markt", hu: "Aweil régi piactér", ro: "Piața veche Aweil", en: "Aweil Old Market" },
-    coordinates: { lat: 8.8, lng: 27.4 },
+    coords: [27.4, 8.8],
     description: {
       de: "Das historische Zentrum des Handels in Aweil, das die traditionelle wirtschaftliche Entwicklung der Stadt dokumentiert.",
       hu: "Aweil történelmi kereskedelmi központja, amely a város hagyományos gazdasági fejlődését dokumentálja.",
@@ -1088,7 +1088,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-ler-administrative-compound-history-v2",
     type: "ruins",
     name: { de: "Leer Verwaltungsareal", hu: "Leer közigazgatási épület", ro: "Complex administrativ Leer", en: "Leer Administrative Compound" },
-    coordinates: { lat: 8.3, lng: 30.1 },
+    coords: [30.1, 8.3],
     description: {
       de: "Historisches Verwaltungsareal in Leer, das als Knotenpunkt der regionalen Kontrolle im 20. Jahrhundert diente.",
       hu: "Történelmi közigazgatási terület Leerben, amely a regionális ellenőrzés központjaként szolgált a 20. században.",
@@ -1107,7 +1107,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-maridi-historic-station-history-v2",
     type: "ruins",
     name: { de: "Maridi historische Station", hu: "Maridi történelmi állomás", ro: "Stație istorică Maridi", en: "Maridi Historic Station" },
-    coordinates: { lat: 4.9, lng: 29.5 },
+    coords: [29.5, 4.9],
     description: {
       de: "Ehemalige landwirtschaftliche und administrative Station aus kolonialer Zeit. Wichtig für die Erschließung des Hinterlandes.",
       hu: "Egykori mezőgazdasági és adminisztratív állomás a gyarmati időkből. Fontos a hátország feltárásához.",
@@ -1126,7 +1126,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-pachodo-royal-shrine-history-v2",
     type: "monument",
     name: { de: "Pachodo königlicher Schrein", hu: "Pachodo királyi szentély", ro: "Sanctuarul regal Pachodo", en: "Pachodo Royal Shrine" },
-    coordinates: { lat: 9.9, lng: 32.1 },
+    coords: [32.1, 9.9],
     description: {
       de: "Traditionelle Stätte des Shilluk-Königreichs. Hier werden wichtige Zeremonien für das Königtum abgehalten.",
       hu: "A Shilluk királyság hagyományos helyszíne. Fontos királyi ceremóniákat tartanak itt.",
@@ -1145,7 +1145,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-renk-old-river-post-history-v2",
     type: "ruins",
     name: { de: "Renk alter Flussaußenposten", hu: "Renk régi folyami előőrs", ro: "Postul fluvial vechi Renk", en: "Renk Old River Outpost" },
-    coordinates: { lat: 11.8, lng: 32.8 },
+    coords: [32.8, 11.8],
     description: {
       de: "Historischer Außenposten am Weißen Nil in Renk, der zur Kontrolle des Handelsverkehrs nach Norden diente.",
       hu: "Történelmi előőrs a Fehér-Nílus mentén Renkben, amelyet az észak felé irányuló kereskedelmi forgalom ellenőrzésére használtak.",
@@ -1164,7 +1164,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-tonga-historic-village-history-v2",
     type: "ruins",
     name: { de: "Tonga historisches Dorf", hu: "Tonga történelmi falu", ro: "Satul istoric Tonga", en: "Tonga Historic Village" },
-    coordinates: { lat: 9.5, lng: 31.2 },
+    coords: [31.2, 9.5],
     description: {
       de: "Traditionelles Siedlungsgebiet an den Ufern des Nils, das seit Generationen das Leben am Fluss widerspiegelt.",
       hu: "Hagyományos települési terület a Nílus partján, amely generációk óta tükrözi a folyó menti életet.",
@@ -1183,7 +1183,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-tonj-old-fort-history-v2",
     type: "ruins",
     name: { de: "Tonj alte Festung", hu: "Tonj régi erőd", ro: "Fortăreața veche Tonj", en: "Tonj Old Fort" },
-    coordinates: { lat: 7.3, lng: 28.7 },
+    coords: [28.7, 7.3],
     description: {
       de: "Reste einer ehemaligen Befestigungsanlage in Tonj, die zur regionalen Befriedung und Verwaltung diente.",
       hu: "Egykori erődítmény maradványai Tonjban, amely a regionális pacifikálást és közigazgatást szolgálta.",
@@ -1202,7 +1202,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-tambura-colonial-post-history-v2",
     type: "ruins",
     name: { de: "Tambura Kolonialposten", hu: "Tambura gyarmati állomás", ro: "Post colonial Tambura", en: "Tambura Colonial Post" },
-    coordinates: { lat: 5.6, lng: 27.4 },
+    coords: [27.4, 5.6],
     description: {
       de: "Historischer Posten im Südwesten, der als wichtiger Punkt für die koloniale Expansion und lokale Verwaltung fungierte.",
       hu: "Történelmi állomás a délnyugati részen, amely fontos pontként szolgált a gyarmati terjeszkedésben és a helyi közigazgatásban.",
@@ -1221,7 +1221,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-bahr-el-jebel-old-mission-history-v2",
     type: "church",
     name: { de: "Bahr el Jebel alte Mission", hu: "Bahr el-Jebel régi misszió", ro: "Misiunea veche Bahr el-Jebel", en: "Bahr el Jebel Old Mission" },
-    coordinates: { lat: 5.2, lng: 31.7 },
+    coords: [31.7, 5.2],
     description: {
       de: "Alte christliche Missionsstation nahe des Weißen Nils, die zur religiösen und sozialen Entwicklung der Region beitrug.",
       hu: "Régi keresztény missziós állomás a Fehér-Nílus közelében, amely hozzájárult a régió vallási és társadalmi fejlődéséhez.",
@@ -1240,7 +1240,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-mvolo-administrative-outpost-history-v2",
     type: "ruins",
     name: { de: "Mvolo Verwaltungsaußenposten", hu: "Mvolo közigazgatási előőrs", ro: "Post administrativ Mvolo", en: "Mvolo Administrative Outpost" },
-    coordinates: { lat: 5.7, lng: 30.1 },
+    coords: [30.1, 5.7],
     description: {
       de: "Historischer Posten zur Sicherung der Verwaltung in Mvolo. Er bewahrt die Erinnerung an die koloniale Ära.",
       hu: "Történelmi állomás a közigazgatás biztosítására Mvoloban. Őrzi a gyarmati korszak emlékét.",
@@ -1259,7 +1259,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     id: "southsudan-yirol-historic-center-history-v2",
     type: "ruins",
     name: { de: "Yirol historisches Zentrum", hu: "Yirol történelmi központ", ro: "Centrul istoric Yirol", en: "Yirol Historic Center" },
-    coordinates: { lat: 6.5, lng: 30.5 },
+    coords: [30.5, 6.5],
     description: {
       de: "Das alte Zentrum von Yirol umfasst Gebäude aus der Zeit der kolonialen Handelswege und frühen Verwaltung.",
       hu: "Yirol régi központja épületeket foglal magában a gyarmati kereskedelmi útvonalak és a korai közigazgatás idejéből.",

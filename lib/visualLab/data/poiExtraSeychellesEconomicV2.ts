@@ -1046,7 +1046,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-romainville-wind-farm-economic-v2",
     type: "industry",
     name: { de: "Windpark Ile de Romainville", hu: "Ile de Romainville szélpark", ro: "Parcul eolian Ile de Romainville", en: "Ile de Romainville Wind Farm" },
-    coordinates: { lat: -4.6186, lng: 55.4852 },
+    coords: [55.4852, -4.6186],
     description: {
       de: "Dieser Windpark auf einer künstlichen Insel besteht aus acht Turbinen zur Stromerzeugung. Er ist ein zentrales Projekt für erneuerbare Energien auf Mahé.",
       hu: "Ez a mesterséges szigeten található szélpark nyolc turbinából áll. A projekt központi szerepet játszik Mahé megújuló energiaellátásában.",
@@ -1065,7 +1065,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-seypec-headquarters-economic-v2",
     type: "industry",
     name: { de: "SEYPEC Hauptsitz", hu: "SEYPEC székház", ro: "Sediul SEYPEC", en: "SEYPEC Headquarters" },
-    coordinates: { lat: -4.6215, lng: 55.4538 },
+    coords: [55.4538, -4.6215],
     description: {
       de: "Das Verwaltungszentrum der Seychelles Petroleum Company steuert die Kraftstoffversorgung des Landes. Es koordiniert den Import und Export von Erdölprodukten.",
       hu: "A Seychelles Petroleum Company központja irányítja az ország üzemanyag-ellátását. Koordinálja a kőolajtermékek importját és exportját.",
@@ -1084,7 +1084,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-stc-hypermarket-economic-v2",
     type: "industry",
     name: { de: "STC Hypermarkt", hu: "STC Hipermarket", ro: "Hipermarketul STC", en: "STC Hypermarket" },
-    coordinates: { lat: -4.6322, lng: 55.4578 },
+    coords: [55.4578, -4.6322],
     description: {
       de: "Dies ist das größte Handelszentrum der Seychellen für Konsumgüter. Es dient als Hauptknotenpunkt für den Einzelhandel und die Lebensmittelversorgung auf Mahé.",
       hu: "Ez a Seychelles legnagyobb fogyasztási cikkeket árusító kereskedelmi központja. Mahé kiskereskedelmi és élelmiszer-ellátási központja.",
@@ -1103,7 +1103,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-praslin-fishing-port-economic-v2",
     type: "port",
     name: { de: "Fischerhafen von Praslin", hu: "Praslin-i halászkikötő", ro: "Portul pescăresc Praslin", en: "Praslin Artisanal Fishing Port" },
-    coordinates: { lat: -4.3482, lng: 55.7615 },
+    coords: [55.7615, -4.3482],
     description: {
       de: "Dieser spezialisierte Hafen in Baie Sainte Anne dient der lokalen Fischereiindustrie. Er bietet Anlegestellen und Infrastruktur für die Verarbeitung des Fangs.",
       hu: "Ez a Baie Sainte Anne-ban található kikötő a helyi halászati ágazatot szolgálja. Infrastruktúrát biztosít a zsákmány feldolgozásához.",
@@ -1122,7 +1122,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-sfa-headquarters-economic-v2",
     type: "industry",
     name: { de: "SFA Hauptquartier", hu: "SFA székház", ro: "Sediul SFA", en: "Seychelles Fishing Authority HQ" },
-    coordinates: { lat: -4.6205, lng: 55.4555 },
+    coords: [55.4555, -4.6205],
     description: {
       de: "Die Seychelles Fishing Authority reguliert und fördert den wichtigsten Wirtschaftszweig des Landes. Sie überwacht den Fischfang in der ausschließlichen Wirtschaftszone.",
       hu: "A Seychelles-szigeteki Halászati Hatóság szabályozza az ország legfontosabb gazdasági ágazatát. Felügyeli a halászatot a kizárólagos gazdasági övezetben.",
@@ -1141,7 +1141,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-ile-du-port-quay-economic-v2",
     type: "port",
     name: { de: "Thunfisch-Kai Ile du Port", hu: "Ile du Port tonhal-kikötő", ro: "Mollul de ton Ile du Port", en: "Ile du Port Tuna Quay" },
-    coordinates: { lat: -4.6155, lng: 55.4655 },
+    coords: [55.4655, -4.6155],
     description: {
       de: "Dieser 425 Meter lange Kai wurde speziell für das Entladen von Thunfischfängern gebaut. Er ist ein kritischer Bestandteil der industriellen Fischereiinfrastruktur.",
       hu: "Ez a 425 méter hosszú móló kifejezetten a tonhalhalász hajók kirakodására épült. Az ipari halászati infrastruktúra kritikus eleme.",
@@ -1160,7 +1160,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-dev-bank-economic-v2",
     type: "industry",
     name: { de: "Entwicklungsbank der Seychellen", hu: "Seychelles-i Fejlesztési Bank", ro: "Banca de Dezvoltare din Seychelles", en: "Development Bank of Seychelles" },
-    coordinates: { lat: -4.6232, lng: 55.4525 },
+    coords: [55.4525, -4.6232],
     description: {
       de: "Diese Finanzinstitution unterstützt lokale Unternehmen durch Kredite und Beratung. Sie spielt eine Schlüsselrolle bei der Diversifizierung der Wirtschaft.",
       hu: "Ez a pénzintézet hitelekkel és tanácsadással támogatja a helyi vállalkozásokat. Kulcsszerepe van a gazdaság diverzifikálásában.",
@@ -1179,7 +1179,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-union-vale-power-station-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Union Vale", hu: "Union Vale erőmű", ro: "Centrala electrică Union Vale", en: "Union Vale Power Station" },
-    coordinates: { lat: -4.6135, lng: 55.4495 },
+    coords: [55.4495, -4.6135],
     description: {
       de: "Dieses Dieselkraftwerk versorgt Teile von Victoria mit Strom. Es ist eine der älteren Energieerzeugungsanlagen des Landes.",
       hu: "Ez a dízelüzemű erőmű Victoria egyes részeit látja el árammal. Az ország egyik régebbi energiatermelő létesítménye.",
@@ -1198,7 +1198,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-scaa-headquarters-economic-v2",
     type: "industry",
     name: { de: "SCAA Hauptsitz", hu: "SCAA székház", ro: "Sediul SCAA", en: "SCAA Headquarters" },
-    coordinates: { lat: -4.6735, lng: 55.5175 },
+    coords: [55.5175, -4.6735],
     description: {
       de: "Die Seychelles Civil Aviation Authority verwaltet alle Aspekte der Luftfahrt im Land. Ihr Hauptsitz am Flughafen ist das logistische Herz des Luftverkehrs.",
       hu: "A Seychelles-szigeteki Polgári Légiközlekedési Hatóság irányítja a repülés minden aspektusát. A repülőtéri központ a légiforgalom logisztikai szíve.",
@@ -1217,7 +1217,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
     id: "seychelles-grand-anse-agriculture-economic-v2",
     type: "industry",
     name: { de: "Agrarstation Grand Anse", hu: "Grand Anse mezőgazdasági állomás", ro: "Stația agricolă Grand Anse", en: "Grand Anse Agricultural Station" },
-    coordinates: { lat: -4.6805, lng: 55.4502 },
+    coords: [55.4502, -4.6805],
     description: {
       de: "Dieses Zentrum dient der landwirtschaftlichen Forschung und Entwicklung auf Mahé. Es unterstützt die Ernährungssicherheit durch Saatgutprüfung und Beratung.",
       hu: "Ez a központ a mezőgazdasági kutatás és fejlesztés helyszíne Mahé szigetén. Vetőmagvizsgálattal támogatja az élelmiszerbiztonságot.",

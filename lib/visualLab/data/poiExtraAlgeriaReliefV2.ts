@@ -163,7 +163,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-chelia-relief-v2",
     type: "peak",
     name: { de: "Djebel Chelia", hu: "Djebel Chelia", ro: "Djebel Chelia", en: "Djebel Chelia" },
-    coordinates: { lat: 35.25, lng: 6.78 },
+    coords: [6.78, 35.25],
     description: {
       de: "Djebel Chelia ist der höchste Gipfel im Aurès-Gebirge. Er erreicht eine Höhe von 2.328 Metern über dem Meeresspiegel.",
       hu: "A Djebel Chelia az Aurès-hegység legmagasabb csúcsa. 2328 méteres tengerszint feletti magassággal rendelkezik.",
@@ -194,7 +194,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-babor-relief-v2",
     type: "mountain",
     name: { de: "Djebel Babor", hu: "Djebel Babor", ro: "Djebel Babor", en: "Djebel Babor" },
-    coordinates: { lat: 36.46, lng: 5.48 },
+    coords: [5.48, 36.46],
     description: {
       de: "Djebel Babor ist ein Bergmassiv in der Provinz Sétif. Es erreicht eine Höhe von 2.004 Metern.",
       hu: "A Djebel Babor egy hegytömb Sétif tartományban. 2004 méteres magasságot ér el.",
@@ -225,7 +225,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-issa-relief-v2",
     type: "peak",
     name: { de: "Djebel Issa", hu: "Djebel Issa", ro: "Djebel Issa", en: "Djebel Issa" },
-    coordinates: { lat: 34.21, lng: -0.62 },
+    coords: [-0.62, 34.21],
     description: {
       de: "Der Djebel Issa ist ein bedeutender Gipfel im Ksour-Atlas. Er hat eine Höhe von 2.236 Metern.",
       hu: "A Djebel Issa a Ksour-Atlasz jelentős csúcsa. Magassága 2236 méter.",
@@ -256,7 +256,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-lalla-khedidja-relief-v2",
     type: "peak",
     name: { de: "Djebel Lalla Khedidja", hu: "Djebel Lalla Khedidja", ro: "Djebel Lalla Khedidja", en: "Djebel Lalla Khedidja" },
-    coordinates: { lat: 36.45, lng: 4.23 },
+    coords: [4.23, 36.45],
     description: {
       de: "Djebel Lalla Khedidja ist der höchste Gipfel der Djurdjura-Kette. Er misst 2.308 Meter.",
       hu: "A Djebel Lalla Khedidja a Djurdjura-lánc legmagasabb csúcsa. 2308 méter magas.",
@@ -287,7 +287,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-zaccar-relief-v2",
     type: "mountain",
     name: { de: "Djebel Zaccar", hu: "Djebel Zaccar", ro: "Djebel Zaccar", en: "Djebel Zaccar" },
-    coordinates: { lat: 36.31, lng: 2.22 },
+    coords: [2.22, 36.31],
     description: {
       de: "Djebel Zaccar ist ein Berg nahe Miliana im Tellatlas. Er bietet Ausblicke auf die Umgebung.",
       hu: "A Djebel Zaccar egy hegy Miliana közelében, a Tell-Atlaszban. Kilátást nyújt a környékre.",
@@ -318,7 +318,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-plateau-du-tademait-relief-v2",
     type: "landmark",
     name: { de: "Tademait-Plateau", hu: "Tademait-fennsík", ro: "Podișul Tademait", en: "Tademait Plateau" },
-    coordinates: { lat: 27.0, lng: 1.5 },
+    coords: [1.5, 27.0],
     description: {
       de: "Das Tademait-Plateau ist eine ausgedehnte, felsige Hochebene in der Zentralsahara. Es besteht aus Gesteinsschichten.",
       hu: "A Tademait-fennsík egy kiterjedt, sziklás fennsík a Közép-Szaharában. Kőzetrétegekből áll.",
@@ -349,7 +349,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-chenoua-relief-v2",
     type: "mountain",
     name: { de: "Djebel Chenoua", hu: "Djebel Chenoua", ro: "Djebel Chenoua", en: "Djebel Chenoua" },
-    coordinates: { lat: 36.56, lng: 2.38 },
+    coords: [2.38, 36.56],
     description: {
       de: "Djebel Chenoua ist ein Küstengebirge nahe Tipaza. Es bildet einen Übergang zum Mittelmeer.",
       hu: "A Djebel Chenoua egy tengerparti hegyvidék Tipaza közelében. Átmenetet képez a Földközi-tenger felé.",
@@ -380,7 +380,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-krouria-relief-v2",
     type: "peak",
     name: { de: "Djebel Krouria", hu: "Djebel Krouria", ro: "Djebel Krouria", en: "Djebel Krouria" },
-    coordinates: { lat: 36.63, lng: 5.12 },
+    coords: [5.12, 36.63],
     description: {
       de: "Djebel Krouria liegt in der Region Béjaïa. Er bietet eine zerklüftete Topografie.",
       hu: "A Djebel Krouria a Béjaïa régióban található. Tagolt topográfiával rendelkezik.",
@@ -411,7 +411,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-sidi-ali-bous-relief-v2",
     type: "mountain",
     name: { de: "Djebel Sidi Ali Bous", hu: "Djebel Sidi Ali Bous", ro: "Djebel Sidi Ali Bous", en: "Djebel Sidi Ali Bous" },
-    coordinates: { lat: 35.85, lng: 0.45 },
+    coords: [0.45, 35.85],
     description: {
       de: "Djebel Sidi Ali Bous ist eine Erhebung im westlichen Algerien. Er ist Teil des Tellatlas.",
       hu: "A Djebel Sidi Ali Bous egy magaslat Nyugat-Algériában. A Tell-Atlasz része.",
@@ -442,7 +442,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-toubkal-relief-v2",
     type: "peak",
     name: { de: "Djebel Toubkal", hu: "Djebel Toubkal", ro: "Djebel Toubkal", en: "Djebel Toubkal" },
-    coordinates: { lat: 36.15, lng: 2.15 },
+    coords: [2.15, 36.15],
     description: {
       de: "Dieser Gipfel im Tellatlas in Algerien ist bekannt für seine steinige Umgebung. Er liegt nahe Blida.",
       hu: "Ez a csúcs az algériai Tell-Atlaszban köves környezetéről ismert. Blida közelében található.",
@@ -473,7 +473,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-bou-taleb-relief-v2",
     type: "mountain",
     name: { de: "Djebel Bou Taleb", hu: "Djebel Bou Taleb", ro: "Djebel Bou Taleb", en: "Djebel Bou Taleb" },
-    coordinates: { lat: 35.55, lng: 5.35 },
+    coords: [5.35, 35.55],
     description: {
       de: "Djebel Bou Taleb ist ein Massiv in der Provinz Sétif. Es gehört zum Hodna-Gebirge.",
       hu: "A Djebel Bou Taleb egy masszívum Sétif tartományban. A Hodna-hegység része.",
@@ -504,7 +504,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-amour-relief-v2",
     type: "mountain",
     name: { de: "Djebel Amour", hu: "Djebel Amour", ro: "Djebel Amour", en: "Djebel Amour" },
-    coordinates: { lat: 33.75, lng: 2.5 },
+    coords: [2.5, 33.75],
     description: {
       de: "Djebel Amour ist ein Gebirgszug im Saharaatlas. Er liegt zwischen Ksour-Atlas und Ouled-Naïl-Bergen.",
       hu: "A Djebel Amour egy hegylánc a Szahara-Atlaszban. A Ksour-Atlasz és az Ouled-Naïl-hegység között fekszik.",
@@ -535,7 +535,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-maadid-relief-v2",
     type: "mountain",
     name: { de: "Djebel Maadid", hu: "Djebel Maadid", ro: "Djebel Maadid", en: "Djebel Maadid" },
-    coordinates: { lat: 35.88, lng: 4.65 },
+    coords: [4.65, 35.88],
     description: {
       de: "Djebel Maadid ist ein markanter Berg in der Provinz M'Sila. Er bildet eine wichtige Landmarke.",
       hu: "A Djebel Maadid egy markáns hegy M'Sila tartományban. Fontos tájékozódási pont.",
@@ -566,7 +566,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-ouarsenis-relief-v2",
     type: "mountain",
     name: { de: "Djebel Ouarsenis", hu: "Djebel Ouarsenis", ro: "Djebel Ouarsenis", en: "Djebel Ouarsenis" },
-    coordinates: { lat: 35.88, lng: 1.83 },
+    coords: [1.83, 35.88],
     description: {
       de: "Djebel Ouarsenis ist ein beeindruckendes Massiv im Tellatlas. Es erreicht Höhen von über 1.900 Metern.",
       hu: "A Djebel Ouarsenis egy lenyűgöző masszívum a Tell-Atlaszban. Eléri az 1900 méter feletti magasságot.",
@@ -597,7 +597,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-plateau-d-el-golea-relief-v2",
     type: "landmark",
     name: { de: "El Goléa-Plateau", hu: "El Goléa-fennsík", ro: "Podișul El Goléa", en: "El Goléa Plateau" },
-    coordinates: { lat: 30.56, lng: 2.87 },
+    coords: [2.87, 30.56],
     description: {
       de: "Das El Goléa-Plateau liegt nahe der Oasenstadt El Menia. Es kennzeichnet die Übergangszone der Wüste.",
       hu: "Az El Goléa-fennsík az El Menia oázisváros közelében fekszik. A sivatag átmeneti zónáját jelzi.",
@@ -628,7 +628,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-guern-al-abid-relief-v2",
     type: "peak",
     name: { de: "Djebel Guern Al Abid", hu: "Djebel Guern Al Abid", ro: "Djebel Guern Al Abid", en: "Djebel Guern Al Abid" },
-    coordinates: { lat: 35.72, lng: 2.1 },
+    coords: [2.1, 35.72],
     description: {
       de: "Djebel Guern Al Abid ist ein markanter Gipfel im Ouarsenis-Massiv. Er bietet hervorragende Aussichten.",
       hu: "A Djebel Guern Al Abid az Ouarsenis-masszívum markáns csúcsa. Kiváló kilátást nyújt.",
@@ -659,7 +659,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-karkar-relief-v2",
     type: "mountain",
     name: { de: "Djebel Karkar", hu: "Djebel Karkar", ro: "Djebel Karkar", en: "Djebel Karkar" },
-    coordinates: { lat: 36.52, lng: 6.85 },
+    coords: [6.85, 36.52],
     description: {
       de: "Djebel Karkar liegt in der Nähe von Skikda. Es ist ein bergiges Gebiet in Küstennähe.",
       hu: "A Djebel Karkar Skikda közelében található. Hegyes terület a tengerpart közelében.",
@@ -690,7 +690,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-sidi-abdallah-relief-v2",
     type: "mountain",
     name: { de: "Djebel Sidi Abdallah", hu: "Djebel Sidi Abdallah", ro: "Djebel Sidi Abdallah", en: "Djebel Sidi Abdallah" },
-    coordinates: { lat: 36.35, lng: 1.55 },
+    coords: [1.55, 36.35],
     description: {
       de: "Djebel Sidi Abdallah ist eine Bergformation im westlichen Teil des Tellatlas.",
       hu: "A Djebel Sidi Abdallah egy hegyformáció a Tell-Atlasz nyugati részén.",
@@ -721,7 +721,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-plateau-de-la-tassili-n-ajjer-relief-v2",
     type: "landmark",
     name: { de: "Tassili n'Ajjer-Plateau", hu: "Tassili n'Ajjer-fennsík", ro: "Podișul Tassili n'Ajjer", en: "Tassili n'Ajjer Plateau" },
-    coordinates: { lat: 25.1, lng: 8.0 },
+    coords: [8.0, 25.1],
     description: {
       de: "Das Tassili n'Ajjer-Plateau ist berühmt für seine Sandstein-Felsformationen in der Sahara. Es besitzt einzigartige Erosionsformen.",
       hu: "A Tassili n'Ajjer-fennsík homokkő-sziklaformációiról híres a Szaharában. Egyedülálló eróziós formákkal rendelkezik.",
@@ -752,7 +752,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-melab-relief-v2",
     type: "mountain",
     name: { de: "Djebel Melab", hu: "Djebel Melab", ro: "Djebel Melab", en: "Djebel Melab" },
-    coordinates: { lat: 35.35, lng: 4.15 },
+    coords: [4.15, 35.35],
     description: {
       de: "Djebel Melab ist ein Gebirgszug im Saharaatlas-Gebiet. Er zeichnet sich durch trockenes Klima aus.",
       hu: "A Djebel Melab egy hegylánc a Szahara-Atlasz területén. Száraz klíma jellemzi.",
@@ -783,7 +783,7 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     id: "algeria-djebel-teniet-el-haad-relief-v2",
     type: "mountain",
     name: { de: "Djebel Teniet El Haad", hu: "Djebel Teniet El Haad", ro: "Djebel Teniet El Haad", en: "Djebel Teniet El Haad" },
-    coordinates: { lat: 35.85, lng: 2.05 },
+    coords: [2.05, 35.85],
     description: {
       de: "Djebel Teniet El Haad ist ein bewaldetes Bergmassiv im Ouarsenis-Gebirge. Es liegt in einem Nationalpark.",
       hu: "A Djebel Teniet El Haad egy erdős hegytömb az Ouarsenis-hegységben. Egy nemzeti parkban található.",

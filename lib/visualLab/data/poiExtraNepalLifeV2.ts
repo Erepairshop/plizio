@@ -646,7 +646,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-makalu-barun-national-park-life-v2",
     type: "park",
     name: { de: "Makalu-Barun-Nationalpark", hu: "Makalu-Barun Nemzeti Park", ro: "Parcul Național Makalu-Barun", en: "Makalu Barun National Park" },
-    coordinates: { lat: 27.75, lng: 87.16 },
+    coords: [87.16, 27.75],
     description: {
       de: "Dieser Park schützt das weltweit einzige Hochgebirgs-Ökosystem, in dem tropische Wälder auf massive Eisgipfel treffen.",
       hu: "Ez a park védi a világ egyetlen olyan magashegyi ökoszisztémáját, ahol a trópusi erdők találkoznak a jégcsúcsokkal.",
@@ -665,7 +665,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-kanchenjunga-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Kanchenjunga-Naturschutzgebiet", hu: "Kancsendzönga Természetvédelmi Terület", ro: "Aria de Conservare Kanchenjunga", en: "Kanchenjunga Conservation Area" },
-    coordinates: { lat: 27.67, lng: 88.0 },
+    coords: [88.0, 27.67],
     description: {
       de: "Ein wichtiges Schutzgebiet im östlichen Himalaya, das für seine Populationen von Roten Pandas und Schneeleoparden bekannt ist.",
       hu: "Kelet-Himalájában fekvő védett terület, amely a vörös pandák és hópárducok populációjáról ismert.",
@@ -684,7 +684,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-bishazari-tal-life-v2",
     type: "lake",
     name: { de: "Bishazari-See", hu: "Bishazari-tó", ro: "Lacul Bishazari", en: "Bishazari Tal" },
-    coordinates: { lat: 27.62, lng: 84.44 },
+    coords: [84.44, 27.62],
     description: {
       de: "Dieses ausgedehnte Oxbow-Seesystem in der Nähe von Chitwan ist ein kritisches Feuchtgebiet für Zugvögel und Krokodile.",
       hu: "Ez a Chitwan közeli holtágrendszer kritikus jelentőségű vizes élőhely a költöző madarak és krokodilok számára.",
@@ -703,7 +703,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-ghodaghodi-tal-life-v2",
     type: "lake",
     name: { de: "Ghodaghodi-See", hu: "Ghodaghodi-tó", ro: "Lacul Ghodaghodi", en: "Ghodaghodi Tal" },
-    coordinates: { lat: 28.68, lng: 80.94 },
+    coords: [80.94, 28.68],
     description: {
       de: "Ein bedeutendes Feuchtgebiet im Westen Nepals, das als wichtiger Rastplatz für seltene Wasservögel und Schildkröten dient.",
       hu: "Jelentős vizes élőhely Nyugat-Nepálban, amely ritka vízimadarak és teknősök fontos pihenőhelyeként szolgál.",
@@ -722,7 +722,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-jagadishpur-reservoir-life-v2",
     type: "lake",
     name: { de: "Jagadishpur-Stausee", hu: "Jagadishpur-víztározó", ro: "Rezervorul Jagadishpur", en: "Jagadishpur Reservoir" },
-    coordinates: { lat: 27.61, lng: 83.1 },
+    coords: [83.1, 27.61],
     description: {
       de: "Das größte künstliche Reservoir Nepals ist ein international anerkanntes Vogelschutzgebiet für Tausende von Zugvögeln.",
       hu: "Nepál legnagyobb mesterséges víztározója nemzetközileg elismert madárvédelmi terület költöző madarak ezrei számára.",
@@ -741,7 +741,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-mai-pokhari-life-v2",
     type: "lake",
     name: { de: "Mai-Pokhari-See", hu: "Mai Pokhari-tó", ro: "Lacul Mai Pokhari", en: "Mai Pokhari" },
-    coordinates: { lat: 27.0, lng: 87.93 },
+    coords: [87.93, 27.0],
     description: {
       de: "Ein heiliger Bergsee im Osten Nepals, der für seine hohe Artenvielfalt und nebelverhangenen Wälder bekannt ist.",
       hu: "Szent hegyi tó Kelet-Nepálban, amely magas biodiverzitásáról és ködbe burkolózó erdőiről ismert.",
@@ -760,7 +760,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-tinjure-milke-jaljale-life-v2",
     type: "forest",
     name: { de: "Tinjure-Milke-Jaljale-Wald", hu: "Tinjure Milke Jaljale erdő", ro: "Pădurea Tinjure Milke Jaljale", en: "Tinjure Milke Jaljale Forest" },
-    coordinates: { lat: 27.25, lng: 87.48 },
+    coords: [87.48, 27.25],
     description: {
       de: "Bekannt als die Rhododendron-Hauptstadt Nepals, beherbergt dieses Gebiet die weltweit größte Vielfalt dieser blühenden Bäume.",
       hu: "Nepál rododendron-fővárosaként ismert terület, ahol a világon a legnagyobb változatosságban élnek ezek a virágzó fák.",
@@ -779,7 +779,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-kakani-strawberry-farms-life-v2",
     type: "village",
     name: { de: "Erdbeerfarmen von Kakani", hu: "Kakani eperfarmok", ro: "Fermele de căpșuni din Kakani", en: "Kakani Strawberry Farms" },
-    coordinates: { lat: 27.81, lng: 85.25 },
+    coords: [85.25, 27.81],
     description: {
       de: "Dieses Hochlandgebiet ist berühmt für seine produktiven Erdbeerplantagen, die das kühle Bergklima Nepals nutzen.",
       hu: "Ez a felföldi terület híres termékeny eperültetvényeiről, amelyek kihasználják Nepál hűvös hegyi klímáját.",
@@ -798,7 +798,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-barandabhar-corridor-life-v2",
     type: "forest",
     name: { de: "Barandabhar-Korridor", hu: "Barandabhar-folyosó", ro: "Coridorul Barandabhar", en: "Barandabhar Corridor Forest" },
-    coordinates: { lat: 27.65, lng: 84.45 },
+    coords: [84.45, 27.65],
     description: {
       de: "Ein wichtiger biologischer Korridor, der den Chitwan-Nationalpark mit den Ausläufern des Mahabharat-Gebirges verbindet.",
       hu: "Kritikus jelentőségű biológiai folyosó, amely összeköti a Chitwan Nemzeti Parkot a Mahabharat-hegység lábaival.",
@@ -817,7 +817,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-badimalika-grasslands-life-v2",
     type: "wildlife",
     name: { de: "Badimalika-Grasland", hu: "Badimalika füves puszták", ro: "Pășunile Badimalika", en: "Badimalika Grasslands" },
-    coordinates: { lat: 29.5, lng: 81.33 },
+    coords: [81.33, 29.5],
     description: {
       de: "Ein riesiges alpines Grasland im Westen Nepals, das für seine reiche Flora und die 22 hügeligen Plateaus bekannt ist.",
       hu: "Hatalmas alpesi füves terület Nyugat-Nepálban, amely gazdag flórájáról és 22 dombos fennsíkjáról ismert.",
@@ -836,7 +836,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-rupa-lake-life-v2",
     type: "lake",
     name: { de: "Rupa-See", hu: "Rupa-tó", ro: "Lacul Rupa", en: "Rupa Lake" },
-    coordinates: { lat: 28.15, lng: 84.11 },
+    coords: [84.11, 28.15],
     description: {
       de: "Der drittgrößte See im Pokhara-Tal ist eine Oase der Ruhe und ein wichtiges Habitat für Süßwasserfische und Vögel.",
       hu: "A Pokhara-völgy harmadik legnagyobb tava a nyugalom oázisa, édesvízi halak és madarak fontos élőhelye.",
@@ -855,7 +855,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-begnas-lake-life-v2",
     type: "lake",
     name: { de: "Begnas-See", hu: "Begnas-tó", ro: "Lacul Begnas", en: "Begnas Lake" },
-    coordinates: { lat: 28.17, lng: 84.1 },
+    coords: [84.1, 28.17],
     description: {
       de: "Ein kristallklarer Süßwassersee in der Nähe von Pokhara, bekannt für seine unberührte Natur und reiche Fischbestände.",
       hu: "Kristálytiszta édesvízi tó Pokhara közelében, amely érintetlen természetéről és gazdag halállományáról ismert.",
@@ -874,7 +874,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-taudaha-lake-life-v2",
     type: "lake",
     name: { de: "Taudaha-See", hu: "Taudaha-tó", ro: "Lacul Taudaha", en: "Taudaha Lake" },
-    coordinates: { lat: 27.64, lng: 85.28 },
+    coords: [85.28, 27.64],
     description: {
       de: "Der einzige natürliche See im Kathmandu-Tal, der als heiliger Ort und wichtiges Refugium für Zugvögel gilt.",
       hu: "Katmandu-völgy egyetlen természetes tava, amely szent helynek és a költöző madarak fontos menedékének számít.",
@@ -893,7 +893,7 @@ export const poiExtraNepalLifeV2: POI[] = [
     id: "nepal-jatayu-vulture-restaurant-life-v2",
     type: "wildlife",
     name: { de: "Jatayu Geier-Restaurant", hu: "Jatayu Keselyű-étterem", ro: "Restaurantul de Vulturi Jatayu", en: "Jatayu Vulture Restaurant" },
-    coordinates: { lat: 27.61, lng: 84.03 },
+    coords: [84.03, 27.61],
     description: {
       de: "Das erste Projekt seiner Art in Asien bietet Geiern sicheres Futter, um ihr Aussterben durch vergiftete Tierkadaver zu verhindern.",
       hu: "Ázsia első ilyen jellegű projektje biztonságos táplálékot nyújt a keselyűknek a mérgezett tetemek miatti kihalásuk ellen.",

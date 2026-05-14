@@ -1051,7 +1051,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-freedom-statue-landmarks-v2",
     type: "monument",
     name: { de: "Freiheitsstatue Lusaka", hu: "Szabadság-szobor", ro: "Statuia Libertății din Lusaka", en: "Freedom Statue" },
-    coordinates: { lat: -15.4211, lng: 28.2933 },
+    coords: [28.2933, -15.4211],
     description: {
       de: "Dieses Denkmal zeigt Zanco Mpundu Kapenda, der symbolisch seine Fesseln sprengt. Es erinnert an den Unabhängigkeitskampf Sambias gegen die britische Kolonialherrschaft.",
       hu: "A szobor Zanco Mpundu Kapendát ábrázolja, amint széttöri láncait. Zambia brit gyarmati uralom alóli felszabadulásának és az 1964-es függetlenségnek a jelképe.",
@@ -1070,7 +1070,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-heroes-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalhelden-Stadion", hu: "Nemzeti Hősök Stadion", ro: "Stadionul Eroilor Naționali", en: "National Heroes Stadium" },
-    coordinates: { lat: -15.3522, lng: 28.2725 },
+    coords: [28.2725, -15.3522],
     description: {
       de: "Ein modernes Mehrzweckstadion in Lusaka mit einer Kapazität von 50.000 Zuschauern. Es wird hauptsächlich für Fußballspiele und nationale Zeremonien genutzt.",
       hu: "Egy modern, 50 000 férőhelyes többcélú stadion Lusakában. Elsősorban labdarúgó-mérkőzéseknek és nemzeti ünnepségeknek ad otthont.",
@@ -1089,7 +1089,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-lusaka-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum Lusaka", hu: "Lusakai Nemzeti Múzeum", ro: "Muzeul Național din Lusaka", en: "Lusaka National Museum" },
-    coordinates: { lat: -15.4225, lng: 28.2911 },
+    coords: [28.2911, -15.4225],
     description: {
       de: "Dieses Museum zeigt die kulturelle und historische Entwicklung Sambias von der Steinzeit bis zur Gegenwart. Es beherbergt bedeutende ethnografische Sammlungen.",
       hu: "A múzeum Zambia kulturális és történelmi fejlődését mutatja be a kőkorszaktól napjainkig. Jelentős néprajzi gyűjteményeknek ad otthont.",
@@ -1108,7 +1108,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-cathedral-holy-cross-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale zum Heiligen Kreuz", hu: "Szent Kereszt-székesegyház", ro: "Catedrala Sfânta Cruce", en: "Cathedral of the Holy Cross" },
-    coordinates: { lat: -15.4244, lng: 28.2975 },
+    coords: [28.2975, -15.4244],
     description: {
       de: "Die anglikanische Kathedrale thront auf einem Hügel über Lusaka und ist ein markantes Beispiel moderner Architektur. Sie dient als nationaler Ort für Gebete und Gedenken.",
       hu: "Az anglikán székesegyház egy dombon magasodik Lusaka felett, a modern építészet kiemelkedő példája. Nemzeti imádságok és megemlékezések helyszíne.",
@@ -1127,7 +1127,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-findeco-house-landmarks-v2",
     type: "tower",
     name: { de: "Findeco House", hu: "Findeco-ház", ro: "Findeco House", en: "Findeco House" },
-    coordinates: { lat: -15.4236, lng: 28.2842 },
+    coords: [28.2842, -15.4236],
     description: {
       de: "Mit 23 Stockwerken ist Findeco House das höchste Gebäude in Sambia. Das brutalistische Hochhaus prägt die Skyline des Geschäftsviertels von Lusaka.",
       hu: "A 23 emeletes Findeco-ház Zambia legmagasabb épülete. A brutalista stílusú toronyház meghatározza Lusaka üzleti negyedének látképét.",
@@ -1146,7 +1146,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-copperbelt-museum-landmarks-v2",
     type: "museum",
     name: { de: "Copperbelt Museum", hu: "Copperbelt Múzeum", ro: "Muzeul Copperbelt", en: "Copperbelt Museum" },
-    coordinates: { lat: -12.9733, lng: 28.6431 },
+    coords: [28.6431, -12.9733],
     description: {
       de: "Dieses Museum in Ndola ist der Geologie und Geschichte des Bergbaus in Sambia gewidmet. Es zeigt eine Vielzahl von Mineralien und Bergbauausrüstungen.",
       hu: "Ez a ndolai múzeum Zambia geológiájának és bányászati történetének szentelt hely. Számos ásványt és bányászati eszközt mutat be.",
@@ -1165,7 +1165,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-levy-mwanawasa-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Levy-Mwanawasa-Stadion", hu: "Levy Mwanawasa Stadion", ro: "Stadionul Levy Mwanawasa", en: "Levy Mwanawasa Stadium" },
-    coordinates: { lat: -12.9755, lng: 28.6652 },
+    coords: [28.6652, -12.9755],
     description: {
       de: "Ein erstklassiges Stadion in Ndola, benannt nach dem dritten Präsidenten Sambias. Es bietet Platz für fast 50.000 Zuschauer und ist ein Zentrum für Sportveranstaltungen.",
       hu: "Ndola egyik legfontosabb stadionja, amelyet Zambia harmadik elnökéről neveztek el. Közel 50 000 néző befogadására alkalmas, sportesemények központja.",
@@ -1184,7 +1184,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-railway-museum-livingstone-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum Livingstone", hu: "Livingstone-i Vasúti Múzeum", ro: "Muzeul Căilor Ferate din Livingstone", en: "Railway Museum Livingstone" },
-    coordinates: { lat: -17.8525, lng: 25.8561 },
+    coords: [25.8561, -17.8525],
     description: {
       de: "Das Museum befindet sich in den ehemaligen Lokschuppen und zeigt eine beeindruckende Sammlung alter Dampflokomotiven. Es dokumentiert die Geschichte der sambischen Eisenbahn.",
       hu: "A múzeum a régi mozdonyfűtőházban található, és régi gőzmozdonyok lenyűgöző gyűjteményét mutatja be. Dokumentálja a zambiai vasút történetét.",
@@ -1203,7 +1203,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-chirundu-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Chirundu-Brücke", hu: "Chirundu-híd", ro: "Podul Chirundu", en: "Chirundu Bridge" },
-    coordinates: { lat: -16.0392, lng: 28.8514 },
+    coords: [28.8514, -16.0392],
     description: {
       de: "Diese wichtige Hängebrücke überquert den Sambesi und verbindet Sambia mit Simbabwe. Sie ist ein entscheidender Punkt für den regionalen Handel und Verkehr.",
       hu: "Ez a fontos függőhíd a Zambézi folyó felett ível át, összekötve Zambiát és Zimbabwe-t. A regionális kereskedelem és forgalom kulcsfontosságú pontja.",
@@ -1222,7 +1222,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-moto-moto-museum-landmarks-v2",
     type: "museum",
     name: { de: "Moto Moto Museum", hu: "Moto Moto Múzeum", ro: "Muzeul Moto Moto", en: "Moto Moto Museum" },
-    coordinates: { lat: -8.8452, lng: 31.3705 },
+    coords: [31.3705, -8.8452],
     description: {
       de: "Dieses bedeutende Museum in Mbala beherbergt eine der besten ethnografischen Sammlungen Sambias. Es dokumentiert die Traditionen und das Handwerk des Bemba-Volkes.",
       hu: "Ez a jelentős mbalai múzeum Zambia egyik legjobb néprajzi gyűjteményének ad otthont. A bemba nép hagyományait és mesterségeit dokumentálja.",
@@ -1241,7 +1241,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-kabwata-cultural-village-landmarks-v2",
     type: "landmark",
     name: { de: "Kabwata Kulturdorf", hu: "Kabwata kulturális falu", ro: "Satul cultural Kabwata", en: "Kabwata Cultural Village" },
-    coordinates: { lat: -15.4322, lng: 28.3031 },
+    coords: [28.3031, -15.4322],
     description: {
       de: "Ein lebendiges Museum in Lusaka, das in traditionellen Rundhütten aus der Kolonialzeit untergebracht ist. Es ist bekannt für seine Holzschnitzereien und das lokale Kunsthandwerk.",
       hu: "Egy élő múzeum Lusakában, amely a gyarmati korszakból származó hagyományos kunyhókban található. Fafaragásairól és helyi kézműves termékeiről híres.",
@@ -1260,7 +1260,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-lusaka-high-court-landmarks-v2",
     type: "monument",
     name: { de: "Oberster Gerichtshof Lusaka", hu: "Lusakai Legfelsőbb Bíróság", ro: "Înalta Curte din Lusaka", en: "Lusaka High Court" },
-    coordinates: { lat: -15.4251, lng: 28.2925 },
+    coords: [28.2925, -15.4251],
     description: {
       de: "Das repräsentative Gebäude des Obersten Gerichtshofs ist ein architektonisches Wahrzeichen im Regierungsviertel. Es symbolisiert die Unabhängigkeit der Justiz in Sambia.",
       hu: "A Legfelsőbb Bíróság reprezentatív épülete építészeti mérföldkő a kormányzati negyedben. A zambiai igazságszolgáltatás függetlenségét jelképezi.",
@@ -1279,7 +1279,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-national-archives-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalarchiv von Sambia", hu: "Zambiai Nemzeti Levéltár", ro: "Arhivele Naționale ale Zambiei", en: "National Archives of Zambia" },
-    coordinates: { lat: -15.4231, lng: 28.2952 },
+    coords: [28.2952, -15.4231],
     description: {
       de: "Das Nationalarchiv bewahrt die wichtigsten historischen Dokumente und Aufzeichnungen des Landes auf. Es ist eine unverzichtbare Quelle für Forscher und Historiker.",
       hu: "A Nemzeti Levéltár őrzi az ország legfontosabb történelmi dokumentumait és feljegyzéseit. Nélkülözhetetlen forrás kutatók és történészek számára.",
@@ -1298,7 +1298,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-st-ignatius-church-landmarks-v2",
     type: "church",
     name: { de: "St.-Ignatius-Kirche", hu: "Szent Ignác-templom", ro: "Biserica Sfântul Ignațiu", en: "St. Ignatius Church" },
-    coordinates: { lat: -15.4188, lng: 28.3055 },
+    coords: [28.3055, -15.4188],
     description: {
       de: "Eine bekannte katholische Kirche in Lusaka, die für ihre lebendige Gemeinde und soziale Arbeit geschätzt wird. Die Architektur verbindet traditionelle Elemente mit modernen Akzenten.",
       hu: "Egy ismert katolikus templom Lusakában, amelyet élénk közössége és szociális munkája miatt becsülnek. Az építészet a hagyományos elemeket modern vonásokkal ötvözi.",
@@ -1317,7 +1317,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-lusaka-civic-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Bürgerzentrum Lusaka", hu: "Lusakai Városháza", ro: "Centrul Civic din Lusaka", en: "Lusaka Civic Centre" },
-    coordinates: { lat: -15.4215, lng: 28.2891 },
+    coords: [28.2891, -15.4215],
     description: {
       de: "Das Civic Centre ist der Sitz des Stadtrats von Lusaka und das administrative Herz der Hauptstadt. Das Gebäude ist ein Beispiel für den staatlichen Baustil der Unabhängigkeitsära.",
       hu: "A Városháza a Lusakai Városi Tanács székhelye és a főváros adminisztratív szíve. Az épület a függetlenségi korszak állami építészeti stílusának példája.",
@@ -1336,7 +1336,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-henry-tayali-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Henry Tayali Kunstgalerie", hu: "Henry Tayali Galéria", ro: "Galeria Henry Tayali", en: "Henry Tayali Art Gallery" },
-    coordinates: { lat: -15.4055, lng: 28.3075 },
+    coords: [28.3075, -15.4055],
     description: {
       de: "Benannt nach einem der berühmtesten Künstler Sambias, ist diese Galerie ein wichtiges Zentrum für zeitgenössische Kunst. Sie fördert lokale Talente durch wechselnde Ausstellungen.",
       hu: "Zambia egyik leghíresebb művészéről nevezték el, ez a galéria a kortárs művészet fontos központja. Időszaki kiállításokkal támogatja a helyi tehetségeket.",
@@ -1355,7 +1355,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-st-annes-cathedral-chipata-landmarks-v2",
     type: "cathedral",
     name: { de: "St.-Anna-Kathedrale Chipata", hu: "Szent Anna-székesegyház", ro: "Catedrala Sfânta Ana din Chipata", en: "Saint Anne's Cathedral" },
-    coordinates: { lat: -13.6331, lng: 32.6505 },
+    coords: [32.6505, -13.6331],
     description: {
       de: "Die Kathedrale der Diözese Chipata ist ein bedeutendes religiöses Zentrum in der Ostprovinz Sambias. Sie ist bekannt für ihre architektonische Schönheit und Gemeinschaftsarbeit.",
       hu: "A Chipatai Egyházmegye székesegyháza Zambia keleti tartományának jelentős vallási központja. Építészeti szépségéről és közösségi munkájáról ismert.",
@@ -1374,7 +1374,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     id: "zambia-nayuma-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nayuma Museum", hu: "Nayuma Múzeum", ro: "Muzeul Nayuma", en: "Nayuma Museum" },
-    coordinates: { lat: -15.2675, lng: 23.1481 },
+    coords: [23.1481, -15.2675],
     description: {
       de: "Das Nayuma Museum in Mongu widmet sich der Geschichte und den Traditionen des Lozi-Volkes im Barotseland. Es liegt in der Nähe des königlichen Palastes von Limulunga.",
       hu: "A mongui Nayuma Múzeum a Barotselandban élő lozi nép történelmének és hagyományainak szentelt hely. A limulungai királyi palota közelében található.",

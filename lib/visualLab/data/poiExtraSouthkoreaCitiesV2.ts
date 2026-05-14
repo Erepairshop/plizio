@@ -1051,7 +1051,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-seoul-cities-v2",
     type: "capital",
     name: { de: "Seoul", hu: "Szöul", ro: "Seul", en: "Seoul" },
-    coordinates: { lat: 37.5665, lng: 126.978 },
+    coords: [126.978, 37.5665],
     description: {
       de: "Seoul ist die Hauptstadt Südkoreas und das wirtschaftliche sowie kulturelle Zentrum des Landes am Han-Fluss.",
       hu: "Szöul Dél-Korea fővárosa, az ország gazdasági és kulturális központja a Han-folyó partján.",
@@ -1070,7 +1070,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-busan-cities-v2",
     type: "city",
     name: { de: "Busan", hu: "Puszan", ro: "Busan", en: "Busan" },
-    coordinates: { lat: 35.1796, lng: 129.0756 },
+    coords: [129.0756, 35.1796],
     description: {
       de: "Busan ist die zweitgrößte Stadt Südkoreas und besitzt den größten Seehafen des Landes an der Südostküste.",
       hu: "Puszan Dél-Korea második legnagyobb városa, itt található az ország legnagyobb kikötője a délkeleti parton.",
@@ -1089,7 +1089,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-incheon-cities-v2",
     type: "city",
     name: { de: "Incheon", hu: "Incshon", ro: "Incheon", en: "Incheon" },
-    coordinates: { lat: 37.4563, lng: 126.7052 },
+    coords: [126.7052, 37.4563],
     description: {
       de: "Incheon ist eine bedeutende Hafenstadt im Nordwesten Südkoreas und Standort des größten Flughafens des Landes.",
       hu: "Incshon jelentős kikötőváros Dél-Korea északnyugati részén, itt található az ország legnagyobb repülőtere.",
@@ -1108,7 +1108,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-daegu-cities-v2",
     type: "city",
     name: { de: "Daegu", hu: "Tegu", ro: "Daegu", en: "Daegu" },
-    coordinates: { lat: 35.8714, lng: 128.6014 },
+    coords: [128.6014, 35.8714],
     description: {
       de: "Daegu liegt im Südosten Südkoreas und ist als Zentrum der Textilindustrie und des Apfelanbaus bekannt.",
       hu: "Tegu Dél-Korea délkeleti részén fekszik, a textilipar és az almatermesztés központjaként ismert.",
@@ -1127,7 +1127,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-daejeon-cities-v2",
     type: "city",
     name: { de: "Daejeon", hu: "Tedzson", ro: "Daejeon", en: "Daejeon" },
-    coordinates: { lat: 36.3504, lng: 127.3845 },
+    coords: [127.3845, 36.3504],
     description: {
       de: "Daejeon ist ein wichtiges Wissenschafts- und Technologiezentrum in der Mitte Südkoreas, das oft als Silicon Valley Koreas bezeichnet wird.",
       hu: "Tedzson fontos tudományos és technológiai központ Dél-Korea középső részén, gyakran Korea Szilícium-völgyeként emlegetik.",
@@ -1146,7 +1146,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gwangju-cities-v2",
     type: "city",
     name: { de: "Gwangju", hu: "Kvangdzsu", ro: "Gwangju", en: "Gwangju" },
-    coordinates: { lat: 35.1595, lng: 126.8526 },
+    coords: [126.8526, 35.1595],
     description: {
       de: "Gwangju ist die sechstgrößte Stadt Südkoreas und gilt als Zentrum der Demokratiebewegung und der Kunst im Südwesten.",
       hu: "Kvangdzsu Dél-Korea hatodik legnagyobb városa, a demokrácia mozgalom és a művészetek központja a délnyugati részen.",
@@ -1165,7 +1165,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-ulsan-cities-v2",
     type: "city",
     name: { de: "Ulsan", hu: "Ulszan", ro: "Ulsan", en: "Ulsan" },
-    coordinates: { lat: 35.5384, lng: 129.3114 },
+    coords: [129.3114, 35.5384],
     description: {
       de: "Ulsan ist das industrielle Kraftzentrum Südkoreas und beherbergt die weltweit größten Werften und Automobilwerke.",
       hu: "Ulszan Dél-Korea ipari központja, itt találhatók a világ legnagyobb hajógyárai és autógyárai.",
@@ -1184,7 +1184,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-suwon-cities-v2",
     type: "city",
     name: { de: "Suwon", hu: "Szuvon", ro: "Suwon", en: "Suwon" },
-    coordinates: { lat: 37.2636, lng: 127.0286 },
+    coords: [127.0286, 37.2636],
     description: {
       de: "Suwon ist die Hauptstadt der Provinz Gyeonggi-do und bekannt für seine gut erhaltene historische Festung.",
       hu: "Szuvon Kjonggi tartomány székhelye, jó állapotban fennmaradt történelmi erődjéről ismert.",
@@ -1203,7 +1203,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-seongnam-cities-v2",
     type: "city",
     name: { de: "Seongnam", hu: "Szongnam", ro: "Seongnam", en: "Seongnam" },
-    coordinates: { lat: 37.42, lng: 127.1265 },
+    coords: [127.1265, 37.42],
     description: {
       de: "Seongnam ist die erste geplante Stadt Südkoreas und ein bedeutender Vorort von Seoul mit einem großen Technologiepark.",
       hu: "Szongnam Dél-Korea első tervezett városa, Szöul jelentős elővárosa egy hatalmas technológiai parkkal.",
@@ -1222,7 +1222,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-goyang-cities-v2",
     type: "city",
     name: { de: "Goyang", hu: "Kojang", ro: "Goyang", en: "Goyang" },
-    coordinates: { lat: 37.6582, lng: 126.832 },
+    coords: [126.832, 37.6582],
     description: {
       de: "Goyang ist eine moderne Großstadt in der Metropolregion Seoul, die für ihre internationalen Blumenausstellungen bekannt ist.",
       hu: "Kojang egy modern nagyváros a szöuli metropolisz övezetben, amely nemzetközi virágkiállításairól ismert.",
@@ -1241,7 +1241,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-yongin-cities-v2",
     type: "city",
     name: { de: "Yongin", hu: "Jongin", ro: "Yongin", en: "Yongin" },
-    coordinates: { lat: 37.2348, lng: 127.2013 },
+    coords: [127.2013, 37.2348],
     description: {
       de: "Yongin ist eine schnell wachsende Stadt südlich von Seoul, die für ihre Freizeitparks und Freilichtmuseen berühmt ist.",
       hu: "Jongin egy gyorsan növekvő város Szöultól délre, amely vidámparkjairól és szabadtéri múzeumaikról híres.",
@@ -1260,7 +1260,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-bucheon-cities-v2",
     type: "city",
     name: { de: "Bucheon", hu: "Pucshon", ro: "Bucheon", en: "Bucheon" },
-    coordinates: { lat: 37.5034, lng: 126.766 },
+    coords: [126.766, 37.5034],
     description: {
       de: "Bucheon ist eine dicht besiedelte Stadt zwischen Seoul und Incheon, bekannt als Zentrum für Animation und Film.",
       hu: "Pucshon egy sűrűn lakott város Szöul és Incshon között, az animáció és a filmek központjaként ismert.",
@@ -1279,7 +1279,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-cheongju-cities-v2",
     type: "city",
     name: { de: "Cheongju", hu: "Cshongdzsu", ro: "Cheongju", en: "Cheongju" },
-    coordinates: { lat: 36.6372, lng: 127.4897 },
+    coords: [127.4897, 36.6372],
     description: {
       de: "Cheongju ist die Hauptstadt der Provinz Chungcheongbuk-do und ein historisches Bildungszentrum Südkoreas.",
       hu: "Cshongdzsu Észak-Cshungcshong tartomány székhelye és Dél-Korea történelmi oktatási központja.",
@@ -1298,7 +1298,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-ansan-cities-v2",
     type: "city",
     name: { de: "Ansan", hu: "Anszan", ro: "Ansan", en: "Ansan" },
-    coordinates: { lat: 37.3219, lng: 126.8309 },
+    coords: [126.8309, 37.3219],
     description: {
       de: "Ansan ist eine bedeutende Industriestadt südlich von Incheon, die für ihre multikulturelle Bevölkerung bekannt ist.",
       hu: "Anszan egy jelentős iparváros Incshontól délre, amely multikulturális lakosságáról ismert.",
@@ -1317,7 +1317,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-cheonan-cities-v2",
     type: "city",
     name: { de: "Cheonan", hu: "Cshonan", ro: "Cheonan", en: "Cheonan" },
-    coordinates: { lat: 36.8151, lng: 127.1139 },
+    coords: [127.1139, 36.8151],
     description: {
       de: "Cheonan ist ein zentraler Verkehrsknotenpunkt Südkoreas und bekannt für seine walnussförmigen Gebäckspezialitäten.",
       hu: "Cshonan Dél-Korea központi közlekedési csomópontja, diós süteményeiről (hodu-gwaja) ismert.",
@@ -1336,7 +1336,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-jeonju-cities-v2",
     type: "city",
     name: { de: "Jeonju", hu: "Csondzsu", ro: "Jeonju", en: "Jeonju" },
-    coordinates: { lat: 35.8242, lng: 127.148 },
+    coords: [127.148, 35.8242],
     description: {
       de: "Jeonju ist das kulturelle Herz Südkoreas, berühmt für seine traditionelle Architektur und als Geburtsort des Bibimbap.",
       hu: "Csondzsu Dél-Korea kulturális szíve, híres hagyományos építészetéről és a Bibimbap szülőhelyeként.",
@@ -1355,7 +1355,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-changwon-cities-v2",
     type: "city",
     name: { de: "Changwon", hu: "Cshangvon", ro: "Changwon", en: "Changwon" },
-    coordinates: { lat: 35.2279, lng: 128.6811 },
+    coords: [128.6811, 35.2279],
     description: {
       de: "Changwon ist eine moderne Planstadt und das administrative Zentrum der Provinz Gyeongsangnam-do.",
       hu: "Cshangvon egy modern tervezett város és Dél-Kjongszang tartomány adminisztratív központja.",
@@ -1374,7 +1374,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-pohang-cities-v2",
     type: "city",
     name: { de: "Pohang", hu: "Phohang", ro: "Pohang", en: "Pohang" },
-    coordinates: { lat: 36.019, lng: 129.3435 },
+    coords: [129.3435, 36.019],
     description: {
       de: "Pohang ist eine bedeutende Industriestadt an der Ostküste, die für ihre Stahlproduktion und Forschung bekannt ist.",
       hu: "Phohang egy jelentős iparváros a keleti parton, acélgyártásáról és tudományos kutatásairól ismert.",
@@ -1393,7 +1393,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gimhae-cities-v2",
     type: "city",
     name: { de: "Gimhae", hu: "Kimhe", ro: "Gimhae", en: "Gimhae" },
-    coordinates: { lat: 35.2345, lng: 128.8812 },
+    coords: [128.8812, 35.2345],
     description: {
       de: "Gimhae ist eine historische Stadt nahe Busan und war einst das Zentrum der alten Gaya-Konföderation.",
       hu: "Kimhe történelmi város Puszan közelében, egykor az ősi Kaja Konföderáció központja volt.",
@@ -1412,7 +1412,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-pyeongtaek-cities-v2",
     type: "city",
     name: { de: "Pyeongtaek", hu: "Phjongthek", ro: "Pyeongtaek", en: "Pyeongtaek" },
-    coordinates: { lat: 36.9921, lng: 127.1129 },
+    coords: [127.1129, 36.9921],
     description: {
       de: "Pyeongtaek ist eine Hafenstadt südlich von Seoul, die ein wichtiges Logistik- und Militärzentrum darstellt.",
       hu: "Phjongthek egy kikötőváros Szöultól délre, amely fontos logisztikai és katonai központ.",
@@ -1431,7 +1431,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-siheung-cities-v2",
     type: "city",
     name: { de: "Siheung", hu: "Siheung", ro: "Siheung", en: "Siheung" },
-    coordinates: { lat: 37.3801, lng: 126.8025 },
+    coords: [126.8025, 37.3801],
     description: {
       de: "Siheung ist eine Küstenstadt am Gelben Meer, die für ihre ökologischen Parks und Salzfelder bekannt ist.",
       hu: "Siheung egy tengerparti város a Sárga-tenger mentén, amely ökológiai parkjairól és sólepárlóiról ismert.",
@@ -1450,7 +1450,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gumi-cities-v2",
     type: "city",
     name: { de: "Gumi", hu: "Kumi", ro: "Gumi", en: "Gumi" },
-    coordinates: { lat: 36.1194, lng: 128.3445 },
+    coords: [128.3445, 36.1194],
     description: {
       de: "Gumi ist eine bedeutende Industriestadt im Landesinneren und ein Zentrum der koreanischen Elektronikindustrie.",
       hu: "Kumi egy jelentős belső iparváros, a koreai elektronikai ipar egyik központja.",
@@ -1469,7 +1469,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-paju-cities-v2",
     type: "city",
     name: { de: "Paju", hu: "Phadzsu", ro: "Paju", en: "Paju" },
-    coordinates: { lat: 37.76, lng: 126.7798 },
+    coords: [126.7798, 37.76],
     description: {
       de: "Paju liegt direkt an der Grenze zu Nordkorea und ist als Stadt der Bücher und der Kunst bekannt.",
       hu: "Phadzsu közvetlenül az észak-koreai határ mellett fekszik, a könyvek és a művészetek városaként ismert.",
@@ -1488,7 +1488,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-wonju-cities-v2",
     type: "city",
     name: { de: "Wonju", hu: "Vondzsu", ro: "Wonju", en: "Wonju" },
-    coordinates: { lat: 37.3422, lng: 127.9202 },
+    coords: [127.9202, 37.3422],
     description: {
       de: "Wonju ist die größte Stadt der Provinz Gangwon-do und ein wichtiger Verkehrsknotenpunkt im Zentrum Koreas.",
       hu: "Vondzsu Kangvon tartomány legnagyobb városa és fontos közlekedési csomópont Korea középső részén.",
@@ -1507,7 +1507,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-chuncheon-cities-v2",
     type: "city",
     name: { de: "Chuncheon", hu: "Cshuncshon", ro: "Chuncheon", en: "Chuncheon" },
-    coordinates: { lat: 37.8813, lng: 127.7298 },
+    coords: [127.7298, 37.8813],
     description: {
       de: "Chuncheon ist die Hauptstadt von Gangwon-do, umgeben von Seen und Bergen, und bekannt als Stadt der Erholung.",
       hu: "Cshuncshon Kangvon tartomány székhelye, tavak és hegyek veszik körül, az üdülés városaként ismert.",
@@ -1526,7 +1526,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gyeongsan-cities-v2",
     type: "city",
     name: { de: "Gyeongsan", hu: "Kjongszan", ro: "Gyeongsan", en: "Gyeongsan" },
-    coordinates: { lat: 35.8251, lng: 128.7355 },
+    coords: [128.7355, 35.8251],
     description: {
       de: "Gyeongsan ist eine Stadt direkt östlich von Daegu, die für ihre hohe Konzentration an Universitäten bekannt ist.",
       hu: "Kjongszan egy város közvetlenül Tegutól keletre, amely az egyetemek magas koncentrációjáról ismert.",
@@ -1545,7 +1545,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gunpo-cities-v2",
     type: "city",
     name: { de: "Gunpo", hu: "Kunpho", ro: "Gunpo", en: "Gunpo" },
-    coordinates: { lat: 37.3617, lng: 126.9353 },
+    coords: [126.9353, 37.3617],
     description: {
       de: "Gunpo ist eine Wohn- und Industriestadt in der Gyeonggi-Provinz, die für ihre Parks und den Surisan-Berg bekannt ist.",
       hu: "Kunpho egy lakó- és iparváros Kjonggi tartományban, parkjairól és a Szuriszan-hegyről ismert.",
@@ -1564,7 +1564,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-gunsan-cities-v2",
     type: "city",
     name: { de: "Gunsan", hu: "Kunszan", ro: "Gunsan", en: "Gunsan" },
-    coordinates: { lat: 35.9677, lng: 126.7366 },
+    coords: [126.7366, 35.9677],
     description: {
       de: "Gunsan ist eine Hafenstadt am Gelben Meer, die für ihre Architektur aus der Kolonialzeit und ihre Fischerei bekannt ist.",
       hu: "Kunszan egy kikötőváros a Sárga-tenger partján, gyarmati kori építészetéről és halászatáról ismert.",
@@ -1583,7 +1583,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-iksan-cities-v2",
     type: "city",
     name: { de: "Iksan", hu: "Ikszan", ro: "Iksan", en: "Iksan" },
-    coordinates: { lat: 35.9482, lng: 126.9577 },
+    coords: [126.9577, 35.9482],
     description: {
       de: "Iksan ist eine historische Stadt im Südwesten, die als eine der alten Hauptstädte des Baekje-Königreichs gilt.",
       hu: "Ikszan egy történelmi város a délnyugati részen, a Pekcse királyság egyik ősi fővárosa volt.",
@@ -1602,7 +1602,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "southkorea-asan-cities-v2",
     type: "city",
     name: { de: "Asan", hu: "Aszan", ro: "Asan", en: "Asan" },
-    coordinates: { lat: 36.7839, lng: 127.0049 },
+    coords: [127.0049, 36.7839],
     description: {
       de: "Asan ist bekannt für seine heißen Quellen und als Ort, der eng mit dem Nationalhelden Admiral Yi Sun-sin verbunden ist.",
       hu: "Aszan termálforrásairól ismert, és szorosan kapcsolódik a nemzeti hős, Ji Szun-sin admirális életéhez.",

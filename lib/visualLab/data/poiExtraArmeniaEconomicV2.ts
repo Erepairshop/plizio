@@ -431,7 +431,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-teghut-mine-economic-v2",
     type: "mine",
     name: { de: "Teghut-Mine", hu: "Teghut-bánya", ro: "Mina Teghut", en: "Teghut Mine" },
-    coordinates: { lat: 41.1014, lng: 44.8353 },
+    coords: [44.8353, 41.1014],
     description: {
       de: "Diese große Kupfer-Molybdän-Mine im Norden Armeniens nahm 2014 ihren Betrieb auf. Sie ist eines der bedeutendsten Bergbauprojekte des Landes.",
       hu: "Ez az észak-örményországi réz- és molibdénbánya 2014-ben kezdte meg működését. Az ország egyik legjelentősebb bányászati projektje.",
@@ -462,7 +462,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-argel-hpp-economic-v2",
     type: "factory",
     name: { de: "Wasserkraftwerk Argel", hu: "Argel vízerőmű", ro: "Hidrocentrala Argel", en: "Argel Hydro Power Plant" },
-    coordinates: { lat: 40.3808, lng: 44.6033 },
+    coords: [44.6033, 40.3808],
     description: {
       de: "Das Wasserkraftwerk Argel ist das leistungsstärkste Werk der Sevan-Hrazdan-Kaskade. Es spielt eine zentrale Rolle in der armenischen Energieversorgung.",
       hu: "Az Argel vízerőmű a Szeván-Hrazdan kaszkád legnagyobb teljesítményű egysége. Központi szerepet játszik Örményország energiaellátásában.",
@@ -493,7 +493,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-tatev-hpp-economic-v2",
     type: "factory",
     name: { de: "Wasserkraftwerk Tatev", hu: "Tatev vízerőmű", ro: "Hidrocentrala Tatev", en: "Tatev Hydro Power Plant" },
-    coordinates: { lat: 39.3855, lng: 46.251 },
+    coords: [46.251, 39.3855],
     description: {
       de: "Dieses Kraftwerk ist der Hauptbestandteil der Vorotan-Kaskade im Süden des Landes. Es wandelt die Kraft des Flusses Vorotan in elektrische Energie um.",
       hu: "Ez az erőmű a dél-örményországi Vorotan-kaszkád fő egysége. A Vorotan folyó erejét alakítja át elektromos energiává.",
@@ -524,7 +524,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-mets-masrik-solar-economic-v2",
     type: "factory",
     name: { de: "Solarpark Mets Masrik", hu: "Mets Masrik naperőmű", ro: "Parcul solar Mets Masrik", en: "Mets Masrik Solar Plant" },
-    coordinates: { lat: 40.2312, lng: 45.7566 },
+    coords: [45.7566, 40.2312],
     description: {
       de: "Mets Masrik ist das erste im Versorgungsmaßstab errichtete Solarkraftwerk in Armenien. Es markiert einen Wendepunkt in der Nutzung erneuerbarer Energien.",
       hu: "A Mets Masrik az első nagyüzemi méretű naperőmű Örményországban. Fordulópontot jelent a megújuló energiaforrások hasznosításában.",
@@ -555,7 +555,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-lori-1-wind-farm-economic-v2",
     type: "factory",
     name: { de: "Windpark Lori-1", hu: "Lori-1 szélerőmű", ro: "Parcul eolian Lori-1", en: "Lori-1 Wind Farm" },
-    coordinates: { lat: 40.9231, lng: 44.2755 },
+    coords: [44.2755, 40.9231],
     description: {
       de: "Lori-1 war der erste Windpark, der im Kaukasus für die Stromerzeugung gebaut wurde. Er nutzt die ständigen Winde am Pushkin-Pass.",
       hu: "A Lori-1 volt az első szélerőmű, amely a Kaukázusban áramtermelés céljából épült. A Puskin-hágó állandó szeleit hasznosítja.",
@@ -586,7 +586,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-bagratashen-checkpoint-economic-v2",
     type: "landmark",
     name: { de: "Grenzübergang Bagratashen", hu: "Bagratasen határátkelő", ro: "Punctul de trecere Bagratashen", en: "Bagratashen Border Crossing" },
-    coordinates: { lat: 41.2505, lng: 44.8322 },
+    coords: [44.8322, 41.2505],
     description: {
       de: "Bagratashen ist der wichtigste Grenzübergang zwischen Armenien und Georgien. Er ist die lebenswichtige Route für den armenischen Außenhandel.",
       hu: "Bagratasen a legfontosabb határátkelő Örményország és Grúzia között. Ez az örmény külkereskedelem létfontosságú útvonala.",
@@ -617,7 +617,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-proshyan-brandy-economic-v2",
     type: "factory",
     name: { de: "Proshyan Wein- und Cognacfabrik", hu: "Prosjan Bor- és Konyakgyár", ro: "Fabrica de Vin și Coniac Proshyan", en: "Proshyan Brandy Factory" },
-    coordinates: { lat: 40.2285, lng: 44.4055 },
+    coords: [44.4055, 40.2285],
     description: {
       de: "Diese Fabrik ist einer der größten Exporteure von armenischem Cognac und Wein. Sie ist bekannt für ihre innovativen Flaschendesigns.",
       hu: "Ez a gyár az örmény konyak és bor egyik legnagyobb exportőre. Innovatív palackterveiről ismert.",
@@ -648,7 +648,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-euroterm-factory-economic-v2",
     type: "factory",
     name: { de: "Euroterm (Noyan) Fabrik", hu: "Euroterm (Noyan) gyár", ro: "Fabrica Euroterm (Noyan)", en: "Euroterm Factory" },
-    coordinates: { lat: 40.1655, lng: 44.4922 },
+    coords: [44.4922, 40.1655],
     description: {
       de: "Euroterm ist ein führender Produzent von Säften und Konserven unter der Marke Noyan. Die Fabrik nutzt fortschrittliche Verarbeitungstechnologien.",
       hu: "Az Euroterm a Noyan márkanév alatt futó gyümölcslevek és konzervek vezető gyártója. A gyár fejlett feldolgozási technológiákat alkalmaz.",
@@ -679,7 +679,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-alliance-fez-economic-v2",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Alliance", hu: "Alliance szabadkereskedelmi övezet", ro: "Zona Economică Liberă Alliance", en: "Alliance Free Economic Zone" },
-    coordinates: { lat: 40.2085, lng: 44.5711 },
+    coords: [44.5711, 40.2085],
     description: {
       de: "Alliance ist eine Wirtschaftszone in Eriwan, die sich auf High-Tech-Industrien und IT konzentriert. Sie bietet Steuererleichterungen für Unternehmen.",
       hu: "Az Alliance egy jereváni gazdasági övezet, amely a csúcstechnológiára és az informatikára összpontosít. Adókedvezményeket kínál a cégeknek.",
@@ -710,7 +710,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-meridian-fez-economic-v2",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Meridian", hu: "Meridian szabadkereskedelmi övezet", ro: "Zona Economică Liberă Meridian", en: "Meridian Free Economic Zone" },
-    coordinates: { lat: 40.1882, lng: 44.4855 },
+    coords: [44.4855, 40.1882],
     description: {
       de: "Diese Zone ist auf Schmuckherstellung, Diamantenschleifen und Uhrmacherei spezialisiert. Sie stärkt Armeniens Position im globalen Luxusgütermarkt.",
       hu: "Ez az övezet az ékszergyártásra, gyémántcsiszolásra és órakészítésre szakosodott. Erősíti Örményország pozícióját a luxuscikkek piacán.",
@@ -741,7 +741,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-shahumyan-mine-economic-v2",
     type: "mine",
     name: { de: "Shahumyan Goldmine", hu: "Sahumjan aranybánya", ro: "Mina de aur Shahumyan", en: "Shahumyan Gold Mine" },
-    coordinates: { lat: 39.2215, lng: 46.4022 },
+    coords: [46.4022, 39.2215],
     description: {
       de: "Die Shahumyan-Mine bei Kapan ist eine bedeutende Quelle für Gold und polymetallische Erze. Sie wird untertägig betrieben.",
       hu: "A Kapan melletti Sahumjan-bánya az arany és polimetallikus ércek jelentős forrása. Föld alatti műveléssel működik.",
@@ -772,7 +772,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-ararat-gold-recovery-economic-v2",
     type: "factory",
     name: { de: "Goldgewinnungsanlage Ararat", hu: "Araráti aranynyerő üzem", ro: "Uzina de recuperare a aurului Ararat", en: "Ararat Gold Recovery Plant" },
-    coordinates: { lat: 39.8255, lng: 44.7211 },
+    coords: [44.7211, 39.8255],
     description: {
       de: "Diese Anlage verarbeitet Erze aus der Sotk-Mine zur Gewinnung von Goldbarren. Sie ist ein technologisch komplexer Teil der armenischen Metallurgie.",
       hu: "Ez az üzem a Sotk-bányából származó ércet dolgozza fel aranyrudak előállításához. Az örmény kohászat technológiailag összetett része.",
@@ -803,7 +803,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-meghri-checkpoint-economic-v2",
     type: "landmark",
     name: { de: "Grenzübergang Meghri", hu: "Megri határátkelő", ro: "Punctul de trecere Meghri", en: "Meghri Border Crossing" },
-    coordinates: { lat: 38.9102, lng: 46.2022 },
+    coords: [46.2022, 38.9102],
     description: {
       de: "Meghri ist der einzige Grenzübergang zwischen Armenien und dem Iran. Er ist strategisch entscheidend für den Energieaustausch und Tourismus.",
       hu: "Megri az egyetlen határátkelő Örményország és Irán között. Stratégiailag döntő fontosságú az energiacsere és a turizmus szempontjából.",
@@ -834,7 +834,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-cba-dilijan-economic-v2",
     type: "university",
     name: { de: "CBA Dilijan Forschungszentrum", hu: "Örmény Központi Bank Dilijan központ", ro: "Centrul de Cercetare CBA Dilijan", en: "CBA Dilijan Training Center" },
-    coordinates: { lat: 40.7412, lng: 44.8622 },
+    coords: [44.8622, 40.7412],
     description: {
       de: "Dieses moderne Zentrum der armenischen Zentralbank dient der Ausbildung und wirtschaftlichen Forschung. Es hat Dilijan als Finanzknotenpunkt gestärkt.",
       hu: "Az örmény központi bank ezen modern központja oktatási és gazdasági kutatási célokat szolgál. Dilijant pénzügyi csomóponttá tette.",
@@ -865,7 +865,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-tumo-center-economic-v2",
     type: "university",
     name: { de: "Tumo Zentrum Eriwan", hu: "Tumo Központ Jereván", ro: "Centrul Tumo Erevan", en: "Tumo Center Yerevan" },
-    coordinates: { lat: 40.1915, lng: 44.4755 },
+    coords: [44.4755, 40.1915],
     description: {
       de: "Tumo ist ein Bildungszentrum für digitale Technologien, das die IT-Wirtschaft Armeniens fördert. Es bietet kostenlose Kurse für Jugendliche an.",
       hu: "A Tumo a digitális technológiák oktatási központja, amely Örményország informatikai gazdaságát segíti. Ingyenes kurzusokat kínál fiataloknak.",
@@ -896,7 +896,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-mghart-mine-economic-v2",
     type: "mine",
     name: { de: "Mghart Goldmine", hu: "Mgart aranybánya", ro: "Mina de aur Mghart", en: "Mghart Gold Mine" },
-    coordinates: { lat: 41.0155, lng: 44.5722 },
+    coords: [44.5722, 41.0155],
     description: {
       de: "Die Mghart-Mine ist ein kleinerer, aber bedeutender Goldabbaukomplex in der Provinz Lori. Sie trägt zur regionalen Wirtschaftsentwicklung bei.",
       hu: "A Mgart-bánya egy kisebb, de jelentős aranybányászati komplexum Lori tartományban. Hozzájárul a régió gazdasági fejlődéséhez.",
@@ -927,7 +927,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-bavra-checkpoint-economic-v2",
     type: "landmark",
     name: { de: "Grenzübergang Bavra", hu: "Bavra határátkelő", ro: "Punctul de trecere Bavra", en: "Bavra Border Crossing" },
-    coordinates: { lat: 41.1322, lng: 43.8111 },
+    coords: [43.8111, 41.1322],
     description: {
       de: "Bavra ist ein wichtiger Grenzübergang zu Georgien in der Provinz Shirak. Er verbindet den Nordwesten Armeniens mit dem Schwarzmeerhafen Batumi.",
       hu: "Bavra egy fontos határátkelő Grúzia felé Shirak tartományban. Összeköti Északnyugat-Örményországot a fekete-tengeri Batumi kikötővel.",
@@ -958,7 +958,7 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "armenia-armenal-factory-economic-v2",
     type: "factory",
     name: { de: "Armenal Alufolienfabrik", hu: "Armenal alufóliagyár", ro: "Fabrica de folie Armenal", en: "Armenal Foil Factory" },
-    coordinates: { lat: 40.2122, lng: 44.5155 },
+    coords: [44.5155, 40.2122],
     description: {
       de: "Armenal ist einer der größten Industriebetriebe Armeniens und exportiert weltweit Aluminiumfolie. Das Werk ist ein Erbe der sowjetischen Metallurgie.",
       hu: "Az Armenal Örményország egyik legnagyobb ipari üzeme, amely világszerte exportál alufóliát. A gyár a szovjet kohászat öröksége.",

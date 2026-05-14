@@ -726,7 +726,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-anping-tree-house-history-v2",
     type: "ruins",
     name: { de: "Anping Baumhaus", hu: "Anping faház", ro: "Casa din Copac Anping", en: "Anping Tree House" },
-    coordinates: { lat: 23.003, lng: 120.158 },
+    coords: [120.158, 23.003],
     description: {
       de: "Ein ehemaliges Lagerhaus der Handelsgesellschaft Tait & Co., das vollständig von den Wurzeln riesiger Banyan-Feigen überwuchert wurde.",
       hu: "A Tait & Co. kereskedelmi társaság egykori raktára, amelyet teljesen benőttek az óriási banyanfa gyökerei.",
@@ -745,7 +745,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-tainan-confucius-temple-history-v2",
     type: "monument",
     name: { de: "Konfuziustempel Tainan", hu: "Tajnani Konfuciusz-templom", ro: "Templul lui Confucius din Tainan", en: "Tainan Confucius Temple" },
-    coordinates: { lat: 22.99, lng: 120.203 },
+    coords: [120.203, 22.99],
     description: {
       de: "Der älteste Konfuziustempel Taiwans, gegründet 1665 als erste offizielle Bildungseinrichtung der Insel.",
       hu: "Tajvan legrégebbi Konfuciusz-temploma, amelyet 1665-ben alapítottak a sziget első hivatalos oktatási intézményeként.",
@@ -764,7 +764,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-lukang-old-street-history-v2",
     type: "landmark",
     name: { de: "Lukang Altstadt", hu: "Lukang óváros", ro: "Strada Veche Lukang", en: "Lukang Old Street" },
-    coordinates: { lat: 24.055, lng: 120.432 },
+    coords: [120.432, 24.055],
     description: {
       de: "Ein historisches Viertel in Changhua, das für seine gut erhaltenen Gassen aus der Qing-Dynastie und traditionelle Handwerkskunst bekannt ist.",
       hu: "Történelmi negyed Csanghuában, amely jól megőrzött Csing-dinasztia korabeli utcáiról és hagyományos kézművességéről ismert.",
@@ -783,7 +783,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-sanxia-old-street-history-v2",
     type: "landmark",
     name: { de: "Sanxia Altstadt", hu: "Sanhszia óváros", ro: "Strada Veche Sanxia", en: "Sanxia Old Street" },
-    coordinates: { lat: 24.933, lng: 121.368 },
+    coords: [121.368, 24.933],
     description: {
       de: "Ein 200 Meter langer historischer Abschnitt mit barocken Fassaden aus rotem Backstein, der die Blütezeit der Indigo-Industrie widerspiegelt.",
       hu: "Egy 200 méter hosszú történelmi utcaszakasz barokk vörös tégla homlokzatokkal, amely az indigóipar virágkorát idézi.",
@@ -802,7 +802,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-bopiliao-historical-block-history-v2",
     type: "landmark",
     name: { de: "Bopiliao Geschichtsviertel", hu: "Bopiliao történelmi negyed", ro: "Cartierul Istoric Bopiliao", en: "Bopiliao Historical Block" },
-    coordinates: { lat: 25.037, lng: 121.501 },
+    coords: [121.501, 25.037],
     description: {
       de: "Eines der besterhaltenen historischen Viertel in Taipeh, das Baustile der Qing-Dynastie und der japanischen Kolonialzeit vereint.",
       hu: "Tajpej egyik legjobban megőrzött történelmi negyede, amely a Csing-dinasztia és a japán gyarmati korszak stílusait ötvözi.",
@@ -821,7 +821,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-dihua-street-history-v2",
     type: "landmark",
     name: { de: "Dihua Straße", hu: "Dihua utca", ro: "Strada Dihua", en: "Dihua Street" },
-    coordinates: { lat: 25.056, lng: 121.51 },
+    coords: [121.51, 25.056],
     description: {
       de: "Die älteste Straße im Dadaocheng-Viertel von Taipeh, berühmt für ihren Handel mit Heilkräutern, getrockneten Waren und Textilien.",
       hu: "Tajpej Dadaocheng negyedének legrégebbi utcája, amely gyógynövény- és textilkereskedelméről híres.",
@@ -840,7 +840,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-jingmei-white-terror-memorial-history-v2",
     type: "monument",
     name: { de: "Jing-Mei Gedenkstätte des Weißen Terrors", hu: "Csing-mej Fehér Terror Emlékhely", ro: "Memorialul Terorii Albe Jing-Mei", en: "Jing-Mei White Terror Memorial Park" },
-    coordinates: { lat: 24.985, lng: 121.528 },
+    coords: [121.528, 24.985],
     description: {
       de: "Ein ehemaliges Militärgefängnis, in dem während der Ära des Weißen Terrors politische Gefangene inhaftiert und verurteilt wurden.",
       hu: "Egykori katonai börtön, ahol a Fehér Terror idején politikai foglyokat tartottak fogva és ítéltek el.",
@@ -859,7 +859,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-green-island-white-terror-memorial-history-v2",
     type: "monument",
     name: { de: "Lü-Dao Gedenkstätte des Weißen Terrors", hu: "Zöld-szigeti Fehér Terror Emlékhely", ro: "Memorialul Terorii Albe de pe Insula Verde", en: "Green Island White Terror Memorial Park" },
-    coordinates: { lat: 22.673, lng: 121.492 },
+    coords: [121.492, 22.673],
     description: {
       de: "Ein berüchtigtes ehemaliges Gefängnis auf der Grünen Insel, das jahrzehntelang zur Internierung politischer Dissidenten genutzt wurde.",
       hu: "Hírhedt egykori börtön a Zöld-szigeten, amelyet évtizedekig politikai ellenzékiek fogvatartására használtak.",
@@ -878,7 +878,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-shisanhang-museum-history-v2",
     type: "museum",
     name: { de: "Shisanhang Archäologiemuseum", hu: "Sishanhang Régészeti Múzeum", ro: "Muzeul de Arheologie Shisanhang", en: "Shisanhang Museum of Archaeology" },
-    coordinates: { lat: 25.156, lng: 121.405 },
+    coords: [121.405, 25.156],
     description: {
       de: "Ein Museum an der Mündung des Tamsui-Flusses, das der Eisenzeit-Kultur gewidmet ist, die hier vor über 1.800 Jahren lebte.",
       hu: "Múzeum a Tam-suj folyó torkolatánál, amelyet az itt több mint 1800 éve élt vaskori kultúrának szenteltek.",
@@ -897,7 +897,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-erkan-historical-village-history-v2",
     type: "village",
     name: { de: "Erkan Geschichtsdorf", hu: "Erkan történelmi falu", ro: "Satul Istoric Erkan", en: "Erkan Historical Village" },
-    coordinates: { lat: 23.606, lng: 119.518 },
+    coords: [119.518, 23.606],
     description: {
       de: "Ein traditionelles Dorf auf den Penghu-Inseln, das für seine Häuser aus Korallengestein und Basalt bekannt ist.",
       hu: "Hagyományos falu a Penghu-szigeteken, amely korallkőből és bazaltból épült házairól ismert.",
@@ -916,7 +916,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-xiyu-western-fort-history-v2",
     type: "castle",
     name: { de: "Xiyu West-Festung", hu: "Hszi-jü nyugati erőd", ro: "Fortăreața de Vest Xiyu", en: "Xiyu Western Fort" },
-    coordinates: { lat: 23.562, lng: 119.467 },
+    coords: [119.467, 23.562],
     description: {
       de: "Eine massive Küstenfestung auf Penghu, die Ende des 19. Jahrhunderts zum Schutz gegen ausländische Invasionen errichtet wurde.",
       hu: "Masszív partmenti erőd Penghu szigetén, amelyet a 19. század végén építettek a külföldi inváziók ellen.",
@@ -935,7 +935,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-magong-mazu-temple-history-v2",
     type: "monument",
     name: { de: "Magong Mazu Tempel", hu: "Makung Macu-templom", ro: "Templul Mazu din Magong", en: "Magong Mazu Temple" },
-    coordinates: { lat: 23.564, lng: 119.564 },
+    coords: [119.564, 23.564],
     description: {
       de: "Der älteste Mazu-Tempel Taiwans, dessen Ursprünge bis ins späte 16. Jahrhundert zurückreichen.",
       hu: "Tajvan legrégebbi Macu-temploma, amelynek eredete a 16. század végéig nyúlik vissza.",
@@ -954,7 +954,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-great-south-gate-tainan-history-v2",
     type: "monument",
     name: { de: "Großes Südtor von Tainan", hu: "Tajnani nagy déli kapu", ro: "Marea Poartă de Sud din Tainan", en: "Great South Gate of Tainan" },
-    coordinates: { lat: 22.986, lng: 120.204 },
+    coords: [120.204, 22.986],
     description: {
       de: "Das einzige erhaltene Stadttor Taiwans mit einer halbmondförmigen Barbakane zur Verteidigung.",
       hu: "Tajvan egyetlen fennmaradt városkapuja, amely félhold alakú barbakánnal rendelkezik a védelem érdekében.",
@@ -973,7 +973,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-tamsui-little-white-house-history-v2",
     type: "landmark",
     name: { de: "Kleines Weißes Haus Tamsui", hu: "Tamszuji kis fehér ház", ro: "Mica Casă Albă din Tamsui", en: "Tamsui Little White House" },
-    coordinates: { lat: 25.174, lng: 121.439 },
+    coords: [121.439, 25.174],
     description: {
       de: "Der ehemalige Amtssitz der Zollbeamten von Tamsui, ein elegantes weißes Kolonialgebäude mit Rundbogen-Veranden.",
       hu: "A tamszuji vámtisztviselők egykori rezidenciája, elegáns fehér koloniál épület félköríves verandákkal.",
@@ -992,7 +992,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-zhongshan-hall-history-v2",
     type: "monument",
     name: { de: "Zhongshan-Halle", hu: "Csung-san csarnok", ro: "Sala Zhongshan", en: "Zhongshan Hall" },
-    coordinates: { lat: 25.043, lng: 121.509 },
+    coords: [121.509, 25.043],
     description: {
       de: "Ein bedeutendes historisches Gebäude in Taipeh, das ursprünglich als Rathaus während der japanischen Ära errichtet wurde.",
       hu: "Jelentős történelmi épület Tajpejben, amely eredetileg városházaként épült a japán korszakban.",
@@ -1011,7 +1011,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-presidential-office-building-history-v2",
     type: "palace",
     name: { de: "Präsidialamt Taipeh", hu: "Tajpeji Elnöki Hivatal", ro: "Clădirea Biroului Prezidențial", en: "Presidential Office Building" },
-    coordinates: { lat: 25.04, lng: 121.512 },
+    coords: [121.512, 25.04],
     description: {
       de: "Das imposante neobarocke Gebäude im Zentrum von Taipeh dient seit 1919 als Regierungssitz Taiwans.",
       hu: "Tajpej központjában álló impozáns neobarokk épület, amely 1919 óta Tajvan kormányzati székhelye.",
@@ -1030,7 +1030,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-beitou-hot-spring-museum-history-v2",
     type: "museum",
     name: { de: "Beitou Thermalbad-Museum", hu: "Beitou Hévízmúzeum", ro: "Muzeul Izvoarelor Termale Beitou", en: "Beitou Hot Spring Museum" },
-    coordinates: { lat: 25.137, lng: 121.506 },
+    coords: [121.506, 25.137],
     description: {
       de: "Ein wunderschönes Backsteingebäude, das einst das größte öffentliche Badehaus Ostasiens im japanischen Stil war.",
       hu: "Gyönyörű téglaépület, amely egykor Kelet-Ázsia legnagyobb japán stílusú nyilvános fürdője volt.",
@@ -1049,7 +1049,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-longteng-broken-bridge-history-v2",
     type: "bridge",
     name: { de: "Longteng Bruchbrücke", hu: "Longteng romos híd", ro: "Podul Ruinat Longteng", en: "Longteng Broken Bridge" },
-    coordinates: { lat: 24.358, lng: 120.774 },
+    coords: [120.774, 24.358],
     description: {
       de: "Die eindrucksvollen roten Backsteinruinen einer Eisenbahnbrücke, die durch zwei schwere Erdbeben zerstört wurde.",
       hu: "Egy vasúti híd lenyűgöző vörös tégla romjai, amelyet két súlyos földrengés pusztított el.",
@@ -1068,7 +1068,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-shengxing-railway-station-history-v2",
     type: "landmark",
     name: { de: "Shengxing Bahnhof", hu: "Senghszing vasútállomás", ro: "Gara Shengxing", en: "Shengxing Railway Station" },
-    coordinates: { lat: 24.388, lng: 120.782 },
+    coords: [120.782, 24.388],
     description: {
       de: "Ein historischer Holzbahnhof an der Old Mountain Line, der einst der höchste Punkt der taiwanischen Eisenbahn war.",
       hu: "Történelmi fa vasútállomás az Öreg Hegyi Vonalon, amely egykor a tajvani vasút legmagasabb pontja volt.",
@@ -1087,7 +1087,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-jiji-railway-station-history-v2",
     type: "landmark",
     name: { de: "Jiji Bahnhof", hu: "Csicsi vasútállomás", ro: "Gara Jiji", en: "Jiji Railway Station" },
-    coordinates: { lat: 23.828, lng: 120.784 },
+    coords: [120.784, 23.828],
     description: {
       de: "Ein charmanter Holzbahnhof in Nantou, der nach dem verheerenden Erdbeben von 1999 originalgetreu wieder aufgebaut wurde.",
       hu: "Bájos fa vasútállomás Nantouban, amelyet az 1999-es pusztító földrengés után hűen újjáépítettek.",
@@ -1106,7 +1106,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-shennong-street-history-v2",
     type: "landmark",
     name: { de: "Shennong Straße", hu: "Sennong utca", ro: "Strada Shennong", en: "Shennong Street" },
-    coordinates: { lat: 22.997, lng: 120.196 },
+    coords: [120.196, 22.997],
     description: {
       de: "Eine der besterhaltenen historischen Straßen in Tainan, die einst den Zugang zu den fünf Kanälen der Stadt bildete.",
       hu: "Tainan egyik legjobban megőrzött történelmi utcája, amely egykor a város öt csatornájához biztosított hozzáférést.",
@@ -1125,7 +1125,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-grand-matsu-temple-history-v2",
     type: "monument",
     name: { de: "Großer Matsu-Tempel Tainan", hu: "Tajnani nagy Macu-templom", ro: "Marele Templu Mazu din Tainan", en: "Grand Matsu Temple" },
-    coordinates: { lat: 22.996, lng: 120.202 },
+    coords: [120.202, 22.996],
     description: {
       de: "Ein ehemaliger königlicher Palast, der in einen Tempel für die Meeresgöttin Mazu umgewandelt wurde.",
       hu: "Egykori királyi palota, amelyet a tenger istennője, Macu tiszteletére templommá alakítottak át.",
@@ -1144,7 +1144,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-official-god-of-war-temple-history-v2",
     type: "monument",
     name: { de: "Offizieller Kriegsgott-Tempel", hu: "Hivatalos hadisten-templom", ro: "Templul Oficial al Zeului Războiului", en: "Official God of War Temple" },
-    coordinates: { lat: 22.996, lng: 120.202 },
+    coords: [120.202, 22.996],
     description: {
       de: "Ein prachtvoller Tempel in Tainan, der Guan Yu gewidmet ist und für seine langen zinnoberroten Wände bekannt ist.",
       hu: "Pompás templom Tainanban, amelyet Kuan Jünak szenteltek, és hosszú cinóbervörös falairól ismert.",
@@ -1163,7 +1163,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-taipei-north-gate-history-v2",
     type: "monument",
     name: { de: "Taipeh Nordtor", hu: "Tajpeji északi kapu", ro: "Poarta de Nord din Taipei", en: "Taipei North Gate" },
-    coordinates: { lat: 25.048, lng: 121.511 },
+    coords: [121.511, 25.048],
     description: {
       de: "Das einzige der fünf Stadttore von Taipeh, das sein ursprüngliches Aussehen aus der Qing-Dynastie vollständig bewahrt hat.",
       hu: "Tajpej öt városkapuja közül az egyetlen, amely teljes mértékben megőrizte eredeti Csing-dinasztia korabeli megjelenését.",
@@ -1182,7 +1182,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-hsinchu-east-gate-history-v2",
     type: "monument",
     name: { de: "Hsinchu Osttor", hu: "Hszincsu keleti kapu", ro: "Poarta de Est din Hsinchu", en: "Hsinchu East Gate" },
-    coordinates: { lat: 24.803, lng: 120.971 },
+    coords: [120.971, 24.803],
     description: {
       de: "Das letzte erhaltene Tor der alten Stadtmauer von Hsinchu, ein wichtiges Wahrzeichen im Herzen der Stadt.",
       hu: "Hszincsu régi városfalának utolsó fennmaradt kapuja, a város szívének fontos jelképe.",
@@ -1201,7 +1201,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-shilin-official-residence-history-v2",
     type: "palace",
     name: { de: "Offizielle Residenz Shilin", hu: "Silin hivatalos rezidencia", ro: "Reședința Oficială Shilin", en: "Shilin Official Residence" },
-    coordinates: { lat: 25.091, lng: 121.53 },
+    coords: [121.53, 25.091],
     description: {
       de: "Das ehemalige Wohnhaus des verstorbenen Präsidenten Chiang Kai-shek und seiner Frau Soong Mei-ling.",
       hu: "Csang Kaj-sek néhai elnök és felesége, Szung Mej-ling egykori lakóhelye.",
@@ -1220,7 +1220,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-cihu-mausoleum-history-v2",
     type: "monument",
     name: { de: "Cihu Mausoleum", hu: "Cihu mauzóleum", ro: "Mausoleul Cihu", en: "Cihu Mausoleum" },
-    coordinates: { lat: 24.841, lng: 121.284 },
+    coords: [121.284, 24.841],
     description: {
       de: "Der Ort, an dem der Sarkophag von Chiang Kai-shek in einem traditionellen chinesischen Gebäude am Seeufer ruht.",
       hu: "Csang Kaj-sek szarkofágjának pihenőhelye egy hagyományos kínai stílusú épületben, a tó partján.",
@@ -1239,7 +1239,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-temple-five-concubines-history-v2",
     type: "monument",
     name: { de: "Tempel der fünf Konkubinen", hu: "Öt ágyas temploma", ro: "Templul celor Cinci Concubine", en: "Temple of the Five Concubines" },
-    coordinates: { lat: 22.983, lng: 120.204 },
+    coords: [120.204, 22.983],
     description: {
       de: "Ein kleiner, historisch bedeutsamer Tempel in Tainan, der den fünf Konkubinen des Ming-Prinzen Ningjing gewidmet ist.",
       hu: "Kicsi, történelmileg jelentős templom Tainanban, amelyet Ningjing Ming-herceg öt ágyasának szenteltek.",
@@ -1258,7 +1258,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-koxinga-ancestral-shrine-history-v2",
     type: "monument",
     name: { de: "Koxinga Ahnenschrein", hu: "Koxinga ősi szentélye", ro: "Altarul Ancestral Koxinga", en: "Koxinga Ancestral Shrine" },
-    coordinates: { lat: 22.989, lng: 120.205 },
+    coords: [120.205, 22.989],
     description: {
       de: "Ein historischer Schrein in Tainan, der Zheng Chenggong (Koxinga) gewidmet ist, dem Nationalhelden, der die Holländer vertrieb.",
       hu: "Történelmi szentély Tainanban, amelyet Zheng Chenggongnak (Koxinga) szenteltek, a hollandokat kiűző nemzeti hősnek.",
@@ -1277,7 +1277,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-228-peace-memorial-park-history-v2",
     type: "park",
     name: { de: "228-Friedensgedenkpark", hu: "228 Béke Emlékpark", ro: "Parcul Memorial al Păcii 228", en: "228 Peace Memorial Park" },
-    coordinates: { lat: 25.041, lng: 121.513 },
+    coords: [121.513, 25.041],
     description: {
       de: "Ein Stadtpark im Zentrum von Taipeh, der an das 228-Massaker von 1947 und die Opfer des Weißen Terrors erinnert.",
       hu: "Tajpej központjában található városi park, amely az 1947-es 228-as mészárlásra és a Fehér Terror áldozataira emlékeztet.",
@@ -1296,7 +1296,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-huashan-creative-park-history-v2",
     type: "factory",
     name: { de: "Huashan 1914 Kreativpark", hu: "Huashan 1914 Kreatív Park", ro: "Parcul Creativ Huashan 1914", en: "Huashan 1914 Creative Park" },
-    coordinates: { lat: 25.044, lng: 121.529 },
+    coords: [121.529, 25.044],
     description: {
       de: "Ein ehemaliges Fabrikgelände für Wein und Sake, das in ein lebendiges Zentrum für Kunst und Design umgewandelt wurde.",
       hu: "Egykori bor- és szakégyár területe, amelyet művészeti és design központtá alakítottak át.",
@@ -1315,7 +1315,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-songshan-creative-park-history-v2",
     type: "factory",
     name: { de: "Songshan Kreativpark", hu: "Songshan Kreatív Park", ro: "Parcul Creativ Songshan", en: "Songshan Cultural and Creative Park" },
-    coordinates: { lat: 25.044, lng: 121.561 },
+    coords: [121.561, 25.044],
     description: {
       de: "Die ehemalige Tabakfabrik Matsuyama, ein herausragendes Beispiel für modernistische Industriearchitektur der 1930er Jahre.",
       hu: "Az egykori Matsuyama dohánygyár, az 1930-as évek modernista ipari építészetének kiváló példája.",
@@ -1334,7 +1334,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-old-city-zuoying-history-v2",
     type: "ruins",
     name: { de: "Altstadt von Zuoying", hu: "Cuojing óváros", ro: "Orașul Vechi Zuoying", en: "Old City of Zuoying" },
-    coordinates: { lat: 22.675, lng: 120.288 },
+    coords: [120.288, 22.675],
     description: {
       de: "Die Überreste der ersten ummauerten Stadt in Südtaiwan, errichtet während der Qing-Dynastie in Kaohsiung.",
       hu: "Dél-Tajvan első falakkal körülvett városának maradványai, amelyet a Csing-dinasztia idején építettek Kaohsiungban.",
@@ -1353,7 +1353,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-meinong-hakka-village-history-v2",
     type: "village",
     name: { de: "Meinong Hakka-Dorf", hu: "Mejnong hakka falu", ro: "Satul Hakka Meinong", en: "Meinong Hakka Village" },
-    coordinates: { lat: 22.898, lng: 120.534 },
+    coords: [120.534, 22.898],
     description: {
       de: "Ein kulturelles Zentrum der Hakka-Minderheit, bekannt für seine traditionelle Architektur und handgefertigten Ölpapierschirme.",
       hu: "A hakka kisebbség kulturális központja, amely hagyományos építészetéről és kézzel készített olajpapír ernyőiről ismert.",
@@ -1372,7 +1372,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-beipu-old-street-history-v2",
     type: "landmark",
     name: { de: "Beipu Altstadt", hu: "Pejpu óváros", ro: "Strada Veche Beipu", en: "Beipu Old Street" },
-    coordinates: { lat: 24.7, lng: 121.058 },
+    coords: [121.058, 24.7],
     description: {
       de: "Eine historische Hakka-Siedlung in Hsinchu, die für ihre dichte Ansammlung von Denkmälern und traditionellen Teehäusern bekannt ist.",
       hu: "Történelmi hakka település Hszincsuban, amely sűrűn elhelyezkedő műemlékeiről és hagyományos teaházairól ismert.",
@@ -1391,7 +1391,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-jinguashi-shinto-shrine-history-v2",
     type: "ruins",
     name: { de: "Jinguashi Shinto-Schrein", hu: "Cinkuasih sinto szentély", ro: "Sanctuarul Shinto Jinguashi", en: "Jinguashi Shinto Shrine" },
-    coordinates: { lat: 25.106, lng: 121.859 },
+    coords: [121.859, 25.106],
     description: {
       de: "Die stimmungsvollen Ruinen eines japanischen Shinto-Schreins auf einem Berghang oberhalb des Goldökologischen Parks.",
       hu: "Egy japán sinto szentély hangulatos romjai egy hegyoldalon, az Arany Ökológiai Park felett.",
@@ -1410,7 +1410,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-kinkaseki-pow-memorial-history-v2",
     type: "monument",
     name: { de: "Kinkaseki Kriegsgefangenen-Mahnmal", hu: "Kinkaseki hadifogoly-emlékmű", ro: "Memorialul de Război Kinkaseki", en: "Kinkaseki POW Camp Memorial" },
-    coordinates: { lat: 25.11, lng: 121.856 },
+    coords: [121.856, 25.11],
     description: {
       de: "Eine Gedenkstätte am Ort eines ehemaligen japanischen Kriegsgefangenenlagers, in dem alliierte Soldaten zur Zwangsarbeit in Minen gezwungen wurden.",
       hu: "Emlékhely egy egykori japán hadifogolytábor helyén, ahol szövetséges katonákat kényszerítettek bányai kényszermunkára.",
@@ -1429,7 +1429,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-tapani-incident-memorial-history-v2",
     type: "battlefield",
     name: { de: "Tapani-Zwischenfall Gedenkpark", hu: "Tapani-incidens emlékpark", ro: "Parcul Memorial al Incidentului Tapani", en: "Tapani Incident Memorial Park" },
-    coordinates: { lat: 23.122, lng: 120.485 },
+    coords: [120.485, 23.122],
     description: {
       de: "Ein Gedenkort in Yujing, der an den größten bewaffneten Aufstand der Han-Taiwaner gegen die japanische Kolonialherrschaft erinnert.",
       hu: "Emlékhely Jucsingben, amely a han-tajvaniak japán gyarmati uralom elleni legnagyobb fegyveres felkelésére emlékeztet.",
@@ -1448,7 +1448,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-musha-incident-memorial-history-v2",
     type: "monument",
     name: { de: "Musha-Zwischenfall Gedenkstätte", hu: "Musha-incidens emlékhely", ro: "Memorialul Incidentului Musha", en: "Musha Incident Memorial Park" },
-    coordinates: { lat: 24.018, lng: 121.123 },
+    coords: [121.123, 24.018],
     description: {
       de: "Ein Mahnmal in Ren'ai, das an den gewaltsamen Aufstand des Seediq-Stammes gegen die japanischen Unterdrücker im Jahr 1930 erinnert.",
       hu: "Emlékmű Ren'ajban, amely a seediq törzs 1930-as, japán elnyomók elleni erőszakos felkelésére emlékeztet.",
@@ -1467,7 +1467,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-fengbitou-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Fengbitou Archäologische Stätte", hu: "Fengbitou régészeti lelőhely", ro: "Situl Arheologic Fengbitou", en: "Fengbitou Archaeological Site" },
-    coordinates: { lat: 22.508, lng: 120.354 },
+    coords: [120.354, 22.508],
     description: {
       de: "Eine bedeutende prähistorische Stätte im Süden Taiwans, die Funde aus dem Neolithikum bis zur Eisenzeit umfasst.",
       hu: "Jelentős őskori lelőhely Dél-Tajvanon, amely a neolitikumtól a vaskorig terjedő leleteket tartalmaz.",
@@ -1486,7 +1486,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-wangan-flower-house-village-history-v2",
     type: "village",
     name: { de: "Wangan Blumenhaus-Dorf", hu: "Wangan virágház falu", ro: "Satul Casa cu Flori din Wangan", en: "Wangan Flower House Village" },
-    coordinates: { lat: 23.362, lng: 119.505 },
+    coords: [119.505, 23.362],
     description: {
       de: "Ein historisches Dorf auf der Insel Wangan, bekannt für seine traditionellen Wohnhäuser aus Korallenstein und Muschelkalk.",
       hu: "Történelmi falu Wangan szigetén, amely korallkőből és kagylómészből épült hagyományos lakóházairól ismert.",
@@ -1505,7 +1505,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-dawu-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Dawu Archäologische Stätte", hu: "Dawu régészeti lelőhely", ro: "Situl Arheologic Dawu", en: "Dawu Archaeological Site" },
-    coordinates: { lat: 22.348, lng: 120.895 },
+    coords: [120.895, 22.348],
     description: {
       de: "Ein Ort an der Ostküste, der bedeutende Funde der neolithischen Beinan-Kultur und steinerne Sarkophage beherbergt.",
       hu: "Lelőhely a keleti parton, amely a neolitikus Beinan-kultúra jelentős leleteit és kőszarkofágokat tartalmazza.",
@@ -1524,7 +1524,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-toucheng-old-street-history-v2",
     type: "landmark",
     name: { de: "Toucheng Altstadt", hu: "Toucseng óváros", ro: "Strada Veche Toucheng", en: "Toucheng Old Street" },
-    coordinates: { lat: 24.858, lng: 121.824 },
+    coords: [121.824, 24.858],
     description: {
       de: "Die älteste Straße im Landkreis Yilan, die einst das wirtschaftliche Zentrum für den Handel im Nordosten Taiwans war.",
       hu: "Yilan megye legrégebbi utcája, amely egykor az északkelet-tajvani kereskedelem gazdasági központja volt.",
@@ -1543,7 +1543,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-xinhua-old-street-history-v2",
     type: "landmark",
     name: { de: "Xinhua Altstadt", hu: "Hszinhua óváros", ro: "Strada Veche Xinhua", en: "Xinhua Old Street" },
-    coordinates: { lat: 23.033, lng: 120.334 },
+    coords: [120.334, 23.033],
     description: {
       de: "Eine beeindruckende historische Straße in Tainan mit prachtvollen barocken Fassaden aus der Zeit der japanischen Herrschaft.",
       hu: "Lenyűgöző történelmi utca Tainanban, pompás barokk homlokzatokkal a japán uralom idejéből.",
@@ -1562,7 +1562,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-fongshan-county-old-city-history-v2",
     type: "ruins",
     name: { de: "Alte Stadt Fongshan", hu: "Fengshan régi város", ro: "Orașul Vechi al Comitatului Fongshan", en: "Fongshan County Old City" },
-    coordinates: { lat: 22.628, lng: 120.359 },
+    coords: [120.359, 22.628],
     description: {
       de: "Die Überreste der Stadtbefestigung von Fongshan aus der Qing-Dynastie, von der noch drei Tore und ein Mauerabschnitt erhalten sind.",
       hu: "Fengshan Csing-dinasztia korabeli városerődítményének maradványai, amelyből három kapu és egy falszakasz maradt fenn.",
@@ -1581,7 +1581,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-dawulun-fort-history-v2",
     type: "castle",
     name: { de: "Dawulun Festung", hu: "Dawulun erőd", ro: "Fortăreața Dawulun", en: "Dawulun Fort" },
-    coordinates: { lat: 25.158, lng: 121.71 },
+    coords: [121.71, 25.158],
     description: {
       de: "Eine gut erhaltene Gebirgsfestung in Keelung, die den Zugang zur Nordküste während des chinesisch-französischen Krieges kontrollierte.",
       hu: "Jól megőrzött hegyi erőd Keelungban, amely az északi part elérését ellenőrizte a kínai-francia háború idején.",
@@ -1600,7 +1600,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-baimiweng-fort-history-v2",
     type: "castle",
     name: { de: "Baimiweng Festung", hu: "Pajmiweng erőd", ro: "Fortăreața Baimiweng", en: "Baimiweng Fort" },
-    coordinates: { lat: 25.154, lng: 121.738 },
+    coords: [121.738, 25.154],
     description: {
       de: "Eine Küstenfestung in Keelung, die für ihre vier riesigen kreisförmigen Geschützstellungen bekannt ist.",
       hu: "Keelungi partmenti erőd, amely négy hatalmas, kör alakú ágyúállásáról ismert.",
@@ -1619,7 +1619,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
     id: "taiwan-ershawan-fort-history-v2",
     type: "castle",
     name: { de: "Ershawan Festung", hu: "Ershawan erőd", ro: "Fortăreața Ershawan", en: "Ershawan Fort" },
-    coordinates: { lat: 25.148, lng: 121.764 },
+    coords: [121.764, 25.148],
     description: {
       de: "Eine historische Festung auf einem Hügel in Keelung, berühmt für ihr Tor mit der Aufschrift 'Hajkuo Tienmen'.",
       hu: "Történelmi erőd egy keelungi dombon, híres a 'Hajkuo Tienmen' feliratú kapujáról.",

@@ -547,7 +547,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-gelersen-gurersen-history-v2",
     type: "castle",
     name: { de: "Festung Gelersen-Gurersen", hu: "Gelersen-Gurersen erőd", ro: "Cetatea Gelersen-Gurersen", en: "Gelersen-Gurersen Fortress" },
-    coordinates: { lat: 41.2647, lng: 47.2158 },
+    coords: [47.2158, 41.2647],
     description: {
       de: "Diese mittelalterliche Festung am Ufer des Kish-Flusses diente als strategischer Verteidigungspunkt. Sie ist bekannt für ihren Widerstand gegen die Belagerung durch Nadir Schah im Jahr 1743.",
       hu: "Ez a középkori erőd a Kish-folyó partján stratégiai védelmi pontként szolgált. Híres az 1743-as ellenállásáról Nadir sah ostroma idején.",
@@ -578,7 +578,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-nardaran-fortress-history-v2",
     type: "tower",
     name: { de: "Festung von Nardaran", hu: "Nardarani erőd", ro: "Cetatea Nardaran", en: "Nardaran Fortress" },
-    coordinates: { lat: 40.5583, lng: 49.9922 },
+    coords: [49.9922, 40.5583],
     description: {
       de: "Ein runder Verteidigungsturm auf der Halbinsel Abscheron, der im 14. Jahrhundert errichtet wurde. Er ist ein markantes Beispiel für die mittelalterliche Militärarchitektur der Region.",
       hu: "Az Absheron-félszigeten található kör alakú védőtorony a 14. században épült. A régió középkori katonai építészetének egyik kiemelkedő példája.",
@@ -609,7 +609,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-azokh-cave-history-v2",
     type: "ruins",
     name: { de: "Asych-Höhle", hu: "Azokh-barlang", ro: "Peștera Azokh", en: "Azokh Cave" },
-    coordinates: { lat: 39.6186, lng: 46.9794 },
+    coords: [46.9794, 39.6186],
     description: {
       de: "Eine der ältesten Stätten menschlicher Besiedlung in Eurasien, in der Überreste aus der Steinzeit gefunden wurden. Die Höhle umfasst sechs miteinander verbundene Kammern.",
       hu: "Eurázsia egyik legrégebbi emberi települése, ahol kőkorszaki maradványokat találtak. A barlang hat egymással összefüggő kamrából áll.",
@@ -640,7 +640,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-yusif-ibn-kuseyir-history-v2",
     type: "monument",
     name: { de: "Yusif-ibn-Kuseyir-Mausoleum", hu: "Yusif ibn Kuseyir-mauzóleum", ro: "Mausoleul lui Yusif ibn Kuseyir", en: "Yusif ibn Kuseyir Mausoleum" },
-    coordinates: { lat: 39.2017, lng: 45.4131 },
+    coords: [45.4131, 39.2017],
     description: {
       de: "Ein achteckiges Backsteinmonument in Nachitschewan, das die Meisterschaft der Ajami-Architekturschule zeigt. Es wurde im 12. Jahrhundert zu Ehren eines lokalen Würdenträgers errichtet.",
       hu: "Nyolcszögletű téglaépítmény Nahicsevánban, amely az Adzsami építészeti iskola mesterműve. A 12. században épült egy helyi méltóság tiszteletére.",
@@ -671,7 +671,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-garabaghlar-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Garabaghlar", hu: "Garabaghlar-mauzóleum", ro: "Mausoleul Garabaghlar", en: "Garabaghlar Mausoleum" },
-    coordinates: { lat: 39.4214, lng: 45.1917 },
+    coords: [45.1917, 39.4214],
     description: {
       de: "Dieser Komplex aus dem 14. Jahrhundert besteht aus einem Mausoleum und zwei Minaretten, die mit blau glasierter Keramik verziert sind. Er liegt im Dorf Garabaghlar.",
       hu: "Ez a 14. századi komplexum egy mauzóleumból és két minaretből áll, amelyeket kék mázas kerámia díszít. Garabaghlar falujában található.",
@@ -702,7 +702,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-shusha-fortress-walls-history-v2",
     type: "castle",
     name: { de: "Festungsmauern von Schuscha", hu: "Susa várfala", ro: "Zidurile Cetății Shusha", en: "Shusha Fortress Walls" },
-    coordinates: { lat: 39.7642, lng: 46.7497 },
+    coords: [46.7497, 39.7642],
     description: {
       de: "Die massiven Verteidigungsmauern wurden im 18. Jahrhundert von Panah Ali Khan errichtet, um das Zentrum des Khanats Karabach zu schützen. Das Gandscha-Tor ist der bekannteste Teil.",
       hu: "A hatalmas védőfalakat a 18. században Panah Ali kán építtette a Karabahi Kánság központjának védelmére. A Ganja-kapu a legismertebb része.",
@@ -733,7 +733,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-sabayil-castle-history-v2",
     type: "ruins",
     name: { de: "Burg Sabayil", hu: "Sabayil-vár", ro: "Castelul Sabayil", en: "Sabayil Castle" },
-    coordinates: { lat: 40.3528, lng: 49.8353 },
+    coords: [49.8353, 40.3528],
     description: {
       de: "Eine versunkene Festung in der Bucht von Baku, die durch ein Erdbeben im 14. Jahrhundert überflutet wurde. Teile der verzierten Inschriftenfriese sind heute im Schirwanschah-Palast ausgestellt.",
       hu: "Elsüllyedt erőd a Bakui-öbölben, amelyet egy 14. századi földrengés árasztott el. A díszített feliratos frízek részei ma a Sirvánsah-palotában láthatók.",
@@ -764,7 +764,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-askeran-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Askeran", hu: "Askerani erőd", ro: "Cetatea Askeran", en: "Askeran Fortress" },
-    coordinates: { lat: 39.9361, lng: 46.8322 },
+    coords: [46.8322, 39.9361],
     description: {
       de: "Eine bedeutende Verteidigungsanlage am Ufer des Karkar-Flusses, die im 18. Jahrhundert vom Khanat Karabach genutzt wurde. Sie besteht aus zwei Sektionen mit runden Türmen.",
       hu: "Jelentős védelmi építmény a Karkar-folyó partján, amelyet a 18. században a Karabahi Kánság használt. Két szakaszból áll, kör alakú tornyokkal.",
@@ -795,7 +795,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-shahbulag-castle-history-v2",
     type: "castle",
     name: { de: "Burg Schahbulag", hu: "Sahbulag-vár", ro: "Castelul Shahbulag", en: "Shahbulag Castle" },
-    coordinates: { lat: 39.9833, lng: 46.9036 },
+    coords: [46.9036, 39.9833],
     description: {
       de: "Eine Festung aus der Mitte des 18. Jahrhunderts in Aghdam, die Panah Ali Khan als zeitweilige Residenz diente. Der Name leitet sich von einer heiligen Quelle in der Nähe ab.",
       hu: "18. század közepén épült erőd Agdamban, amely Panah Ali kán ideiglenes rezidenciájaként szolgált. Nevét a közelben található szent forrásról kapta.",
@@ -826,7 +826,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-amaras-monastery-history-v2",
     type: "church",
     name: { de: "Kloster Amaras", hu: "Amaras-kolostor", ro: "Mănăstirea Amaras", en: "Amaras Monastery" },
-    coordinates: { lat: 39.6842, lng: 47.0572 },
+    coords: [47.0572, 39.6842],
     description: {
       de: "Ein bedeutendes religiöses Zentrum aus dem frühen 4. Jahrhundert, das mit dem heiligen Gregor dem Erleuchter in Verbindung gebracht wird. Hier wurde die erste Schule für die kaukasisch-albanische Schrift gegründet.",
       hu: "Jelentős vallási központ a 4. század elejéről, amelyet Világosító Szent Gergelyhez kötnek. Itt alapították az első iskolát a kaukázusi albán írás tanítására.",
@@ -857,7 +857,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-gandzasar-monastery-history-v2",
     type: "church",
     name: { de: "Kloster Gandsassar", hu: "Gandzasar-kolostor", ro: "Mănăstirea Gandzasar", en: "Gandzasar Monastery" },
-    coordinates: { lat: 40.0569, lng: 46.5314 },
+    coords: [46.5314, 40.0569],
     description: {
       de: "Ein Meisterwerk der mittelalterlichen Architektur aus dem 13. Jahrhundert. Das Kloster war über Jahrhunderte ein geistliches Zentrum der kaukasischen Albaner in der Region Kalbadschar.",
       hu: "A 13. századi középkori építészet remekműve. A kolostor évszázadokon át a kaukázusi albánok szellemi központja volt Kalbadzsar régióban.",
@@ -888,7 +888,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-khudavang-monastery-history-v2",
     type: "church",
     name: { de: "Kloster Chudavang", hu: "Khudavang-kolostor", ro: "Mănăstirea Khudavang", en: "Khudavang Monastery" },
-    coordinates: { lat: 40.1581, lng: 46.2822 },
+    coords: [46.2822, 40.1581],
     description: {
       de: "Dieses Klosterkomplex, auch bekannt als Dadivank, wurde zwischen dem 9. und 13. Jahrhundert erbaut. Er gilt als einer der prachtvollsten architektonischen Schätze der kaukasischen Albaner.",
       hu: "Ez a Dadivank néven is ismert kolostorkomplexum a 9. és 13. század között épült. A kaukázusi albánok egyik legpompásabb építészeti kincseként tartják számon.",
@@ -919,7 +919,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-nij-saint-ellis-history-v2",
     type: "church",
     name: { de: "Albanische Kirche von Nij", hu: "Nij albán templom", ro: "Biserica Albaneză din Nij", en: "Nij Church of Saint Ellis" },
-    coordinates: { lat: 40.9239, lng: 47.6653 },
+    coords: [47.6653, 40.9239],
     description: {
       de: "Die Chotari-Kirche des Heiligen Ellis im Dorf Nij ist ein wichtiges spirituelles Zentrum für die Volksgruppe der Uden. Sie stammt ursprünglich aus dem 17. Jahrhundert.",
       hu: "A Szent Ellis-templom Nij falujában az udi népcsoport fontos szellemi központja. Eredetileg a 17. századból származik.",
@@ -950,7 +950,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-imamzadeh-ganja-history-v2",
     type: "monument",
     name: { de: "Imamzadeh-Komplex Gandscha", hu: "Ganjai Imamzadeh-komplexum", ro: "Complexul Imamzadeh din Ganja", en: "Imamzadeh Complex Ganja" },
-    coordinates: { lat: 40.7183, lng: 46.4064 },
+    coords: [46.4064, 40.7183],
     description: {
       de: "Ein historisches Mausoleum und Pilgerzentrum, das über dem Grab von Ibrahim, dem Sohn des fünften Imams, errichtet wurde. Es zeichnet sich durch seine prächtige blaue Ziegelkuppel aus.",
       hu: "Történelmi mauzóleum és zarándokhely, amely az ötödik imám fia, Ibrahim sírja fölé épült. Kiemelkedik pompás kék téglás kupolájával.",
@@ -981,7 +981,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-panah-ali-khan-palace-history-v2",
     type: "palace",
     name: { de: "Palast von Panah Ali Khan", hu: "Panah Ali kán palotája", ro: "Palatul lui Panah Ali Han", en: "Palace of Panah Ali Khan" },
-    coordinates: { lat: 39.7589, lng: 46.7512 },
+    coords: [46.7512, 39.7589],
     description: {
       de: "Die Ruinen der ersten Residenz des Gründers des Khanats Karabach in Schuscha. Der Palast war ein Symbol für die Macht und Architektur der Region im 18. Jahrhundert.",
       hu: "A Karabahi Kánság alapítójának első rezidenciája Susa városában. A palota a régió 18. századi hatalmának és építészetének szimbóluma volt.",
@@ -1012,7 +1012,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-vagif-mausoleum-history-v2",
     type: "monument",
     name: { de: "Vagif-Mausoleum", hu: "Vagif-mauzóleum", ro: "Mausoleul lui Vagif", en: "Vagif Mausoleum" },
-    coordinates: { lat: 39.7547, lng: 46.7594 },
+    coords: [46.7594, 39.7547],
     description: {
       de: "Ein modernes Monument zu Ehren des berühmten Dichters Molla Panah Vagif. Es befindet sich an der Kante einer Schlucht und bietet einen weiten Blick über die Berge von Karabach.",
       hu: "Modern emlékmű a híres költő, Molla Panah Vagif tiszteletére. Egy szakadék szélén található, és széles kilátást nyújt a karabahi hegyekre.",
@@ -1043,7 +1043,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-barda-tower-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Barda", hu: "Bardai mauzóleum", ro: "Mausoleul din Barda", en: "Barda Tower Mausoleum" },
-    coordinates: { lat: 40.3753, lng: 47.1264 },
+    coords: [47.1264, 40.3753],
     description: {
       de: "Ein zylindrischer Backsteinturm aus dem 14. Jahrhundert, der mit glasierten Fliesen verziert ist, die das Wort 'Allah' bilden. Er ist ein Wahrzeichen der antiken Stadt Barda.",
       hu: "14. századi hengeres téglatorony, amelyet mázas csempék díszítenek, az 'Allah' szót formázva. Az ősi Barda városának jelképe.",
@@ -1074,7 +1074,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-yeddi-gumbaz-history-v2",
     type: "monument",
     name: { de: "Yeddi Gumbaz Mausoleen", hu: "Yeddi Gumbaz-mauzóleumok", ro: "Mausoleele Yeddi Gumbaz", en: "Yeddi Gumbaz Mausoleum" },
-    coordinates: { lat: 40.6272, lng: 48.6344 },
+    coords: [48.6344, 40.6272],
     description: {
       de: "Ein königlicher Friedhof des Schamaschi-Khanats mit sieben markanten Kuppelbauten. Die Gräber stammen aus dem 18. und 19. Jahrhundert und zeigen feinste Steinmetzkunst.",
       hu: "A Samahi Kánság királyi temetője hét jellegzetes kupolás épülettel. A sírok a 18. és 19. századból származnak, finom kőfaragással díszítve.",
@@ -1093,7 +1093,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-kalakhana-tombs-history-v2",
     type: "monument",
     name: { de: "Kalakhana-Grabmäler", hu: "Kalakhana-sírok", ro: "Mormintele Kalakhana", en: "Kalakhana Tombs" },
-    coordinates: { lat: 40.5986, lng: 48.6503 },
+    coords: [48.6503, 40.5986],
     description: {
       de: "Eine Gruppe von acht achteckigen Mausoleen aus dem 17. Jahrhundert in der Nähe von Schamakhi. Sie stellen eine wichtige Phase der Schirwan-Abscheron-Architektur dar.",
       hu: "Nyolctagú nyolcszögletű mauzóleumcsoport a 17. századból Samahi közelében. A Sirván-Absheron építészeti stílus egyik fontos példája.",
@@ -1124,7 +1124,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-bughurt-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Bughurt", hu: "Bughurt-erőd", ro: "Cetatea Bughurt", en: "Bughurt Fortress" },
-    coordinates: { lat: 40.7333, lng: 48.5667 },
+    coords: [48.5667, 40.7333],
     description: {
       de: "Eine uneinnehmbare Bergfestung, die als letzte Zuflucht der Schirwanschahs diente. Sie liegt auf einem steilen Gipfel nordwestlich von Schamakhi.",
       hu: "Bevethetetlen hegyi erőd, amely a Sirvánsahok utolsó menedékeként szolgált. Egy meredek csúcson található Samahitól északnyugatra.",
@@ -1155,7 +1155,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-sumug-gala-history-v2",
     type: "tower",
     name: { de: "Sumug-Gala-Turm", hu: "Sumug Gala-torony", ro: "Turnul Sumug Gala", en: "Sumug Gala Tower" },
-    coordinates: { lat: 41.4786, lng: 46.7761 },
+    coords: [46.7761, 41.4786],
     description: {
       de: "Ein markanter Verteidigungsturm im Dorf Ilisu aus dem 17. oder 18. Jahrhundert. Er ist ein Beispiel für die Wehrarchitektur der Bergbewohner im Kaukasus.",
       hu: "Jellegzetes védőtorony Ilisu falujában a 17. vagy 18. századból. A kaukázusi hegyi lakók védelmi építészetének egyik példája.",
@@ -1186,7 +1186,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-goyazan-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Goyazan", hu: "Goyazan-erőd", ro: "Cetatea Goyazan", en: "Goyazan Fortress" },
-    coordinates: { lat: 41.0853, lng: 45.1833 },
+    coords: [45.1833, 41.0853],
     description: {
       de: "Eine antike Festung auf dem Gipfel des monolithischen Goyazan-Berges. Die Ruinen stammen aus dem Mittelalter und überblicken die weite Steppe von Qazakh.",
       hu: "Ősi erőd a monolitikus Goyazan-hegy tetején. A romok a középkorból származnak, és a tágas Qazakh-sztyeppére néznek.",
@@ -1217,7 +1217,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-damjili-cave-history-v2",
     type: "ruins",
     name: { de: "Damjili-Höhle", hu: "Damjili-barlang", ro: "Peștera Damjili", en: "Damjili Cave" },
-    coordinates: { lat: 41.1389, lng: 45.1611 },
+    coords: [45.1611, 41.1389],
     description: {
       de: "Ein bedeutender archäologischer Fundplatz im Avey-Gebirge, der Spuren von der Altsteinzeit bis zum Neolithikum enthält. Die Höhle ist nach dem herabtropfenden Wasser benannt.",
       hu: "Jelentős régészeti lelőhely az Avey-hegységben, amely a paleolitikumtól a neolitikumig őriz nyomokat. A barlang a lecsepegő vízről kapta a nevét.",
@@ -1248,7 +1248,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-baba-dervish-history-v2",
     type: "ruins",
     name: { de: "Baba-Dervish-Siedlung", hu: "Baba-Dervish település", ro: "Așezarea Baba-Dervish", en: "Baba-Dervish Settlement" },
-    coordinates: { lat: 41.1, lng: 45.3667 },
+    coords: [45.3667, 41.1],
     description: {
       de: "Eine antike Siedlungsstätte der Kura-Araxes-Kultur, die Einblicke in das Leben während der Bronzezeit bietet. Sie liegt in der Nähe von Qazakh am Agstafachay-Fluss.",
       hu: "Az ősi Kura-Araxes kultúra egyik települése, amely betekintést nyújt a bronzkori életbe. Qazakh közelében, az Agstafacsáj-folyó mentén található.",
@@ -1279,7 +1279,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-leylatepe-history-v2",
     type: "ruins",
     name: { de: "Leylatepe-Kulturstätte", hu: "Leylatepe-kultúra helyszíne", ro: "Situl culturii Leylatepe", en: "Leylatepe Culture Site" },
-    coordinates: { lat: 40.35, lng: 47.15 },
+    coords: [47.15, 40.35],
     description: {
       de: "Eine bedeutende archäologische Stätte aus der Kupfersteinzeit, die eine Verbindung zu mesopotamischen Kulturen zeigt. Sie gab einer spezifischen lokalen Kultur ihren Namen.",
       hu: "Jelentős kalkolitikus régészeti lelőhely, amely kapcsolatot mutat a mezopotámiai kultúrákkal. Egy sajátos helyi kultúra névadója.",
@@ -1310,7 +1310,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-saritepe-history-v2",
     type: "ruins",
     name: { de: "Saritepe-Ausgrabungen", hu: "Saritepe-ásatások", ro: "Săpăturile Saritepe", en: "Saritepe Archeological Site" },
-    coordinates: { lat: 41.05, lng: 45.45 },
+    coords: [45.45, 41.05],
     description: {
       de: "Eine antike Stätte aus der Eisenzeit, an der Monumentalbauten mit achämenidischen Einflüssen entdeckt wurden. Die Funde belegen die Rolle Aserbaidschans im alten Orient.",
       hu: "Vaskori lelőhely, ahol achaimenida hatást mutató monumentális épületeket tártak fel. A leletek bizonyítják Azerbajdzsán szerepét az ókori Keleten.",
@@ -1341,7 +1341,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-koroglu-castle-history-v2",
     type: "castle",
     name: { de: "Koroglu-Burg Gadabay", hu: "Koroglu-vár Gedebey", ro: "Castelul Koroglu din Gadabay", en: "Koroglu Castle Gadabay" },
-    coordinates: { lat: 40.5667, lng: 45.8167 },
+    coords: [45.8167, 40.5667],
     description: {
       de: "Eine hochgelegene Festung, die mit der Legende des Volkshelden Koroglu verbunden ist. Sie diente im Mittelalter als strategischer Überwachungsposten.",
       hu: "Magasan fekvő erőd, amely a népi hős, Koroglu legendájához kötődik. A középkorban stratégiai megfigyelőpontként szolgált.",
@@ -1372,7 +1372,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-maiden-tower-gadabay-history-v2",
     type: "tower",
     name: { de: "Jungfrauenturm Gadabay", hu: "Gadabeyi Leánytorony", ro: "Turnul Fecioarei din Gadabay", en: "Maiden Tower Gadabay" },
-    coordinates: { lat: 40.5333, lng: 45.7667 },
+    coords: [45.7667, 40.5333],
     description: {
       de: "Ein mittelalterlicher Verteidigungsturm in den Bergen von Gadabay, der oft mit seinem berühmten Namensvetter in Baku verwechselt wird. Er ist Teil eines größeren Befestigungssystems.",
       hu: "Középkori védőtorony Gedebey hegyeiben, amelyet gyakran összetévesztenek bakui névrokonával. Egy nagyobb erődrendszer része.",
@@ -1403,7 +1403,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-sheikh-junayd-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Scheich Dschunaid", hu: "Sejk Dzsunajd-mauzóleum", ro: "Mausoleul lui Șeic Junayd", en: "Sheikh Junayd Mausoleum" },
-    coordinates: { lat: 41.5167, lng: 48.25 },
+    coords: [48.25, 41.5167],
     description: {
       de: "Das Grabmal des Safawiden-Scheichs Dschunaid im Dorf Hazra. Es ist ein bedeutendes religiöses Denkmal aus der Mitte des 16. Jahrhunderts.",
       hu: "Sejk Dzsunajd szafavida vezető sírja Hazra falujában. Jelentős vallási emlékmű a 16. század közepéről.",
@@ -1434,7 +1434,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-sheikh-badruddin-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Scheich Badruddin", hu: "Sejk Badruddin-mauzóleum", ro: "Mausoleul lui Șeic Badruddin", en: "Sheikh Badruddin Mausoleum" },
-    coordinates: { lat: 40.9, lng: 47.7833 },
+    coords: [47.7833, 40.9],
     description: {
       de: "Ein mittelalterliches Grabmal in der Region Qabala, das die kaukasisch-albanische Architekturtradition widerspiegelt. Es ist ein heiliger Ort für die lokale Bevölkerung.",
       hu: "Középkori síremlék Qabala régióban, amely a kaukázusi albán építészeti hagyományokat tükrözi. A helyi lakosság számára szent hely.",
@@ -1465,7 +1465,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-pir-mardakan-history-v2",
     type: "monument",
     name: { de: "Pir-Mardakan-Mausoleum", hu: "Pir Mardakan-mauzóleum", ro: "Mausoleul Pir Mardakan", en: "Pir Mardakan Mausoleum" },
-    coordinates: { lat: 40.5167, lng: 48.3833 },
+    coords: [48.3833, 40.5167],
     description: {
       de: "Ein Grabdenkmal aus dem 13. oder 14. Jahrhundert in der Nähe von Schamakhi. Es ist bekannt für seine archaische Form und die spirituelle Bedeutung.",
       hu: "13. vagy 14. századi síremlék Samahi közelében. Ismert archaikus formájáról és spirituális jelentőségéről.",
@@ -1496,7 +1496,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-icherisheher-district-history-v2",
     type: "landmark",
     name: { de: "Altstadt Icherisheher", hu: "Icherisheher óváros", ro: "Orașul Vechi Icherisheher", en: "Icherisheher Medieval District" },
-    coordinates: { lat: 40.3661, lng: 49.8333 },
+    coords: [49.8333, 40.3661],
     description: {
       de: "Das historische Herz von Baku, umgeben von gut erhaltenen Festungsmauern. Das Viertel beherbergt Hunderte von historischen Denkmälern aus verschiedenen Epochen.",
       hu: "Baku történelmi szíve, amelyet jól megőrzött várfalak vesznek körül. A negyed több száz történelmi emlékműnek ad otthont különböző korszakokból.",
@@ -1515,7 +1515,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-shah-abbas-mosque-ganja-history-v2",
     type: "cathedral",
     name: { de: "Schah-Abbas-Moschee Gandscha", hu: "Sah Abbász-mecset Ganja", ro: "Moscheea Șah Abbas din Ganja", en: "Shah Abbas Mosque Ganja" },
-    coordinates: { lat: 40.6772, lng: 46.3606 },
+    coords: [46.3606, 40.6772],
     description: {
       de: "Eine prachtvolle Moschee aus dem frühen 17. Jahrhundert, erbaut von Schah Abbas dem Großen. Sie ist das Zentrum des historischen Ensembles von Gandscha.",
       hu: "Pompás mecset a 17. század elejéről, amelyet Nagy Abbász sah építtetett. Ganja történelmi együttesének központja.",
@@ -1546,7 +1546,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-juma-mosque-ordubad-history-v2",
     type: "cathedral",
     name: { de: "Freitagsmoschee von Ordubad", hu: "Ordubadi Péntek-mecset", ro: "Moscheea Juma din Ordubad", en: "Juma Mosque Ordubad" },
-    coordinates: { lat: 38.9031, lng: 46.0222 },
+    coords: [46.0222, 38.9031],
     description: {
       de: "Ein bedeutendes islamisches Bauwerk im Zentrum der Altstadt von Ordubad. Die Moschee zeigt den charakteristischen Architekturstil der Region Nachitschewan.",
       hu: "Jelentős iszlám építmény Ordubad óvárosának központjában. A mecset a nahicseváni régió jellegzetes építészeti stílusát mutatja be.",
@@ -1577,7 +1577,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-chokak-hamam-history-v2",
     type: "monument",
     name: { de: "Chokak-Hamam-Bad", hu: "Chokak hamam", ro: "Baia Chokak Hamam", en: "Chokak Hamam Baku" },
-    coordinates: { lat: 40.3653, lng: 49.835 },
+    coords: [49.835, 40.3653],
     description: {
       de: "Ein historisches Badehaus in der Nähe des Jungfrauenturms, das im 18. Jahrhundert erbaut wurde. Es ist bekannt für seine einzigartige unterirdische Struktur und Kuppeln.",
       hu: "Történelmi fürdőház a Leánytorony közelében, amely a 18. században épült. Ismert egyedülálló földalatti szerkezetéről és kupoláiról.",
@@ -1608,7 +1608,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-tuba-shakhi-mosque-history-v2",
     type: "church",
     name: { de: "Tuba-Schachi-Moschee", hu: "Tuba Sakhi-mecset", ro: "Moscheea Tuba Shakhi", en: "Tuba Shakhi Mosque" },
-    coordinates: { lat: 40.4931, lng: 50.0017 },
+    coords: [50.0017, 40.4931],
     description: {
       de: "Eine mittelalterliche Moschee im Dorf Mardakan, die für ihre elegante Architektur und die Verbindung zum benachbarten Schloß bekannt ist.",
       hu: "Középkori mecset Mardakan faluban, amely elegáns építészetéről és a szomszédos várhoz fűződő kapcsolatáról ismert.",
@@ -1639,7 +1639,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-haji-shahla-mosque-history-v2",
     type: "church",
     name: { de: "Hadschi-Schahla-Moschee", hu: "Hadzsi Sahla-mecset", ro: "Moscheea Haji Shahla", en: "Haji Shahla Mosque" },
-    coordinates: { lat: 40.4936, lng: 50.0022 },
+    coords: [50.0022, 40.4936],
     description: {
       de: "Eine kleine, aber historisch bedeutende Moschee in Mardakan aus dem 14. Jahrhundert. Sie ist ein wertvolles Denkmal der sakralen Architektur von Abscheron.",
       hu: "Kicsi, de történelmileg jelentős mecset Mardakanban a 14. századból. Az absheroni szakrális építészet értékes emléke.",
@@ -1670,7 +1670,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-karabakh-khans-palace-history-v2",
     type: "palace",
     name: { de: "Palast der Karabach-Khane", hu: "Karabahi kánok palotája", ro: "Palatul Hanilor din Karabah", en: "Palace of Karabakh Khans" },
-    coordinates: { lat: 39.7611, lng: 46.7533 },
+    coords: [46.7533, 39.7611],
     description: {
       de: "Die einstige Prachtresidenz der Herrscher des Khanats Karabach in Schuscha. Der Gebäudekomplex repräsentiert die Blütezeit der lokalen Kultur im 18. und 19. Jahrhundert.",
       hu: "A Karabahi Kánság uralkodóinak egykori pompás rezidenciája Susa városában. Az épületegyüttes a helyi kultúra virágkorát képviseli a 18-19. században.",
@@ -1701,7 +1701,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-ganja-gate-baku-history-v2",
     type: "landmark",
     name: { de: "Gandscha-Tor von Baku", hu: "Bakui Ganja-kapu", ro: "Poarta Ganja din Baku", en: "Ganja Gate of Baku Fortress" },
-    coordinates: { lat: 40.3686, lng: 49.8361 },
+    coords: [49.8361, 40.3686],
     description: {
       de: "Eines der Haupttore der Festung von Baku, das den Weg in Richtung Gandscha markierte. Es ist ein wichtiger Teil der mittelalterlichen Stadtbefestigung.",
       hu: "Baku várának egyik fő kapuja, amely a Ganja felé vezető utat jelezte. A középkori városi erődrendszer fontos része.",
@@ -1732,7 +1732,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-ganja-fortress-walls-history-v2",
     type: "ruins",
     name: { de: "Festungsmauern von Gandscha", hu: "Ganjai várfalak", ro: "Zidurile Cetății Ganja", en: "Ganja Fortress Walls" },
-    coordinates: { lat: 40.6783, lng: 46.3617 },
+    coords: [46.3617, 40.6783],
     description: {
       de: "Die Überreste der einst mächtigen Befestigungsanlagen von Gandscha, die im 16. Jahrhundert unter safawidischer Herrschaft ausgebaut wurden. Sie zeugen von der militärischen Bedeutung der Stadt.",
       hu: "Ganja egykor hatalmas erődítményeinek maradványai, amelyeket a 16. században a szafavidák alatt építettek ki. A város katonai jelentőségéről tanúskodnak.",
@@ -1763,7 +1763,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-galacha-castle-history-v2",
     type: "castle",
     name: { de: "Burg Galacha", hu: "Galacha-vár", ro: "Castelul Galacha", en: "Galacha Castle" },
-    coordinates: { lat: 41.4811, lng: 46.7722 },
+    coords: [46.7722, 41.4811],
     description: {
       de: "Ein runder Verteidigungsturm und Festung im Dorf Ilisu. Sie diente im 18. Jahrhundert zum Schutz des Sultanats vor Angriffen aus den Bergen.",
       hu: "Kör alakú védőtorony és erőd Ilisu falujában. A 18. században szolgált a szultanátus védelmére a hegyi támadások ellen.",
@@ -1794,7 +1794,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-ulu-mosque-ilisu-history-v2",
     type: "church",
     name: { de: "Ulu-Moschee von Ilisu", hu: "Ilisui Ulu-mecset", ro: "Moscheea Ulu din Ilisu", en: "Ulu Mosque Ilisu" },
-    coordinates: { lat: 41.4794, lng: 46.7744 },
+    coords: [46.7744, 41.4794],
     description: {
       de: "Die Hauptmoschee des historischen Ilisu-Sultanats, erbaut im 18. Jahrhundert. Sie zeichnet sich durch ihre schlichte, aber würdevolle Steinarchitektur aus.",
       hu: "A történelmi Ilisu Szultanátus főmecsetje, amely a 18. században épült. Egyszerű, de méltóságteljes kőépítészete jellemzi.",
@@ -1825,7 +1825,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-gevurqala-history-v2",
     type: "ruins",
     name: { de: "Festung Gevurqala", hu: "Gevurqala-erőd", ro: "Cetatea Gevurqala", en: "Gevurqala" },
-    coordinates: { lat: 40.0833, lng: 46.9167 },
+    coords: [46.9167, 40.0833],
     description: {
       de: "Eine antike Siedlungs- und Verteidigungsstätte in Aghdam, die aus der Zeit des kaukasischen Albaniens stammt. Sie ist ein wichtiges Ziel für archäologische Forschungen.",
       hu: "Ősi település és védelmi hely Agdamban, amely a kaukázusi Albánia idejéből származik. Fontos célpontja a régészeti kutatásoknak.",
@@ -1856,7 +1856,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-niftali-mounds-history-v2",
     type: "ruins",
     name: { de: "Niftali-Grabhügel", hu: "Niftali-halomsírok", ro: "Tumulii Niftali", en: "Niftali Mounds" },
-    coordinates: { lat: 40.3833, lng: 47.1667 },
+    coords: [47.1667, 40.3833],
     description: {
       de: "Eine Gruppe von Kurganen oder Grabhügeln aus der Bronzezeit in der Agjabadi-Region. Sie geben wertvolle Hinweise auf die Bestattungsriten antiker Stämme.",
       hu: "Bronzkori kurgánok vagy halomsírok csoportja Agdzsabadi régióban. Értékes információkat nyújtanak az ókori törzsek temetkezési rítusairól.",
@@ -1887,7 +1887,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-shahtakhti-site-history-v2",
     type: "ruins",
     name: { de: "Shahtakhti-Ausgrabungsstätte", hu: "Sahtakhti-lelőhely", ro: "Situl arheologic Shahtakhti", en: "Shahtakhti Archaeological Site" },
-    coordinates: { lat: 39.375, lng: 45.1083 },
+    coords: [45.1083, 39.375],
     description: {
       de: "Ein bedeutendes archäologisches Denkmal in Nachitschewan, das Siedlungsschichten von der Kupfersteinzeit bis zum Mittelalter umfasst. Es ist berühmt für seine bemalte Keramik.",
       hu: "Jelentős régészeti emlék Nahicsevánban, amely a kalkolitikumtól a középkorig terjedő rétegeket tartalmaz. Híres a festett kerámiáiról.",
@@ -1918,7 +1918,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-kultapa-site-history-v2",
     type: "ruins",
     name: { de: "Kultapa-Siedlung", hu: "Kultapa-település", ro: "Așezarea Kultapa", en: "Kultapa Archaeological Site" },
-    coordinates: { lat: 39.2736, lng: 45.4264 },
+    coords: [45.4264, 39.2736],
     description: {
       de: "Eine der frühesten landwirtschaftlichen Siedlungen im Kaukasus, in der Nähe der Stadt Nachitschewan. Sie dokumentiert den Übergang zur sesshaften Lebensweise.",
       hu: "A Kaukázus egyik legkorábbi mezőgazdasági települése Nahicseván városa közelében. A letelepedett életmódra való áttérést dokumentálja.",
@@ -1949,7 +1949,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-khanegah-alinjachay-history-v2",
     type: "ruins",
     name: { de: "Chaneghah am Alinjachay", hu: "Alinjachay-khanegah", ro: "Khanegah de pe râul Alinjachay", en: "Khanegah on Alinjachay River" },
-    coordinates: { lat: 39.1833, lng: 45.6833 },
+    coords: [45.6833, 39.1833],
     description: {
       de: "Ein mittelalterlicher Gebäudekomplex, der als spirituelles Zentrum und Rastplatz diente. Er umfasst ein Mausoleum und eine Moschee aus dem 12. und 13. Jahrhundert.",
       hu: "Középkori épületegyüttes, amely szellemi központként és pihenőhelyként szolgált. Egy 12-13. századi mauzóleumot és mecsetet foglal magában.",
@@ -1980,7 +1980,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-parigala-history-v2",
     type: "castle",
     name: { de: "Festung Parigala", hu: "Parigala-erőd", ro: "Cetatea Parigala", en: "Parigala" },
-    coordinates: { lat: 41.5111, lng: 46.7417 },
+    coords: [46.7417, 41.5111],
     description: {
       de: "Eine rätselhafte Festung, die direkt in eine senkrechte Felswand gehauen wurde. Sie stammt wahrscheinlich aus dem 4. oder 5. Jahrhundert und diente als unzugängliche Zuflucht.",
       hu: "Rejtélyes erőd, amelyet közvetlenül egy függőleges sziklafalba vájtak. Valószínűleg a 4. vagy 5. századból származik, hozzáférhetetlen menedékként szolgált.",
@@ -2011,7 +2011,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-mahammad-mosque-history-v2",
     type: "church",
     name: { de: "Mahammad-Moschee", hu: "Mahammad-mecset", ro: "Moscheea Mahammad", en: "Mahammad Mosque" },
-    coordinates: { lat: 40.3658, lng: 49.8339 },
+    coords: [49.8339, 40.3658],
     description: {
       de: "Das älteste datierte Bauwerk in der Altstadt von Baku, bekannt für sein Minarett aus dem 11. Jahrhundert. Sie wird aufgrund historischer Schäden auch Siniggala genannt.",
       hu: "Baku óvárosának legrégebbi datált épülete, 11. századi minaretjéről ismert. Történelmi sérülései miatt Siniggala néven is hívják.",
@@ -2042,7 +2042,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-juma-mosque-baku-history-v2",
     type: "cathedral",
     name: { de: "Freitagsmoschee Baku", hu: "Bakui Péntek-mecset", ro: "Moscheea Juma din Baku", en: "Juma Mosque of Baku" },
-    coordinates: { lat: 40.3653, lng: 49.8353 },
+    coords: [49.8353, 40.3653],
     description: {
       de: "Eine historische Moschee im Herzen von Icherisheher, die mehrfach auf den Ruinen eines alten Feuertempels neu errichtet wurde. Das heutige Gebäude stammt aus dem späten 19. Jahrhundert.",
       hu: "Történelmi mecset Icherisheher szívében, amelyet többször újjáépítettek egy régi tűztemplom romjain. A mai épület a 19. század végéről származik.",
@@ -2073,7 +2073,7 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "azerbaijan-pir-huseyn-khanegah-history-v2",
     type: "ruins",
     name: { de: "Pir-Huseyn-Chaneghah", hu: "Pir Huseyn-khanegah", ro: "Khanegah Pir Huseyn", en: "Pir Huseyn Khanegah" },
-    coordinates: { lat: 40.15, lng: 48.9167 },
+    coords: [48.9167, 40.15],
     description: {
       de: "Ein befestigtes Sufi-Kloster am Ufer des Pirsaat-Flusses, das im 11. Jahrhundert gegründet wurde. Es ist eines der bedeutendsten Denkmäler der islamischen Mystik in Aserbaidschan.",
       hu: "Megerősített szúfi kolostor a Pirsaat-folyó partján, amelyet a 11. században alapítottak. Az iszlám miszticizmus egyik legjelentősebb emléke Azerbajdzsánban.",

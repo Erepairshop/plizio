@@ -1430,7 +1430,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     id: "djibouti-doudah-cities-v2",
     type: "city",
     name: { de: "Doudah", hu: "Doudah", ro: "Doudah", en: "Doudah" },
-    coordinates: { lat: 11.5333, lng: 43.15 },
+    coords: [43.15, 11.5333],
     description: {
       de: "Doudah ist eine Siedlung an der Küste südlich von Dschibuti-Stadt. Sie dient als wichtiger lokaler Knotenpunkt für die umliegende Küstenregion.",
       hu: "Doudah egy település a part mentén, Dzsibuti várostól délre. Fontos helyi csomópontként szolgál a környező tengerparti régió számára.",
@@ -1444,12 +1444,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Coastal settlement", "South of the capital", "Important local hub", "Fishing as livelihood"],
     },
     imageHint: "coastal village scenery Doudah",
+    descriptionAdvanced: {
+      de: "Doudah ist eine kleine Siedlung in der Region Tadjourah in Dschibuti. Sie liegt im Nordwesten des Landes, nahe der Grenze zu Äthiopien. Der Ort ist bekannt für seine traditionelle Architektur aus Stein und Lehm. Die Einwohner leben hauptsächlich von der Viehzucht und dem Anbau von Getreide. Doudah hat Zugang zu begrenzten Wasserressourcen, was die Landwirtschaft beeinträchtigt. Die Siedlung ist ein typisches Beispiel für das ländliche Leben in der Region. Die nächste größere Stadt ist Tadjourah, etwa 80 Kilometer entfernt.",
+      hu: "Doudah egy kis település a dzsibuti Tadjourah régióban. Az ország északnyugati részén, az etióp határ közelében fekszik. A település híres hagyományos kőből és vályogból épült építészetéről. A lakók főként állattenyésztésből és gabonatermesztésből élnek. Doudah korlátozott vízkészletekkel rendelkezik, ami befolyásolja a mezőgazdaságot. A település jó példája a vidéki életnek a régióban. A legközelebbi nagyobb város Tadjourah, körülbelül 80 km-re.",
+      ro: "Doudah este o mică așezare în regiunea Tadjourah din Djibouti. Situat în nord-vestul țării, aproape de granița cu Etiopia. Localitatea este cunoscută pentru arhitectura tradițională din piatră și lut. Locuitorii se ocupă în principal de creșterea animalelor și cultivarea cerealelor. Doudah are acces limitat la resursele de apă, ceea ce afectează agricultura. Așezarea este un exemplu tipic de viață rurală în regiune. Cel mai apropiat oraș mai mare este Tadjourah, la aproximativ 80 km.",
+      en: "Doudah is a small settlement in the Tadjourah Region of Djibouti. It lies in the northwest of the country, near the border with Ethiopia. The settlement is known for its traditional stone and mud architecture. Inhabitants primarily engage in livestock herding and cereal cultivation. Doudah has limited water access, affecting agriculture. The settlement is a typical example of rural life in the region. The nearest major town is Tadjourah, about 80 kilometers away.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 500", "Höhenlage: 750 m über dem Meeresspiegel", "Durchschnittstemperatur: 28 °C", "Jährlicher Niederschlag: 200 mm", "Entfernung zu Tadjourah: 80 km", "Anzahl der Brunnen: 2"],
+      hu: ["Lakosság: kb. 500 fő", "Tengerszint feletti magasság: 750 m", "Átlaghőmérséklet: 28 °C", "Éves csapadék: 200 mm", "Távolság Tadjourahtól: 80 km", "Kutak száma: 2"],
+      ro: ["Populație: cca. 500 locuitori", "Altitudine: 750 m deasupra nivelului mării", "Temperatura medie: 28 °C", "Precipitații anuale: 200 mm", "Distanță până la Tadjourah: 80 km", "Număr de fântâni: 2"],
+      en: ["Population: approximately 500", "Elevation: 750 m above sea level", "Average temperature: 28 °C", "Annual rainfall: 200 mm", "Distance to Tadjourah: 80 km", "Number of wells: 2"],
+    },
   },
   {
     id: "djibouti-yoboki-village-cities-v2",
     type: "village",
     name: { de: "Yoboki Village", hu: "Yoboki Village", ro: "Yoboki Village", en: "Yoboki Village" },
-    coordinates: { lat: 11.4833, lng: 42.0667 },
+    coords: [42.0667, 11.4833],
     description: {
       de: "Yoboki Village ist eine abgelegene Siedlung im Landesinneren. Sie dient hauptsächlich als Anlaufstelle für lokale Hirten.",
       hu: "Yoboki Village egy távoli település az ország belsejében. Főként a helyi pásztorok találkozóhelyeként szolgál.",
@@ -1463,12 +1475,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Remote location", "Inland", "Herding traditions", "Small settlement"],
     },
     imageHint: "remote desert village Yoboki",
+    descriptionAdvanced: {
+      de: "Yoboki ist ein Dorf in der Region Dikhil in Dschibuti, nahe der Grenze zu Äthiopien. Es liegt in einer ariden Landschaft mit spärlicher Vegetation. Die Einwohner gehören hauptsächlich den Somali-Clans an. Traditionell leben sie von der nomadischen Viehzucht. Das Dorf verfügt über eine Grundschule und eine Gesundheitsstation. Yoboki ist ein wichtiger Zwischenstopp für Karawanen, die zwischen Dschibuti und Äthiopien reisen. Die lokale Wirtschaft basiert auf dem Handel mit Vieh und Waren. Das Klima ist heiß und trocken mit Temperaturen über 30 °C.",
+      hu: "Yoboki egy falu a dzsibuti Dikhil régióban, az etióp határ közelében. Száraz tájon fekszik, ritka növényzettel. A lakók főként szomáli klánokhoz tartoznak. Hagyományosan nomád állattenyésztésből élnek. A faluban általános iskola és egészségügyi állomás található. Yoboki fontos megállóhely a Dzsibuti és Etiópia között közlekedő karavánok számára. A helyi gazdaság az állat- és árukereskedelmen alapul. Az éghajlat forró és száraz, a hőmérséklet gyakran meghaladja a 30 °C-ot.",
+      ro: "Yoboki este un sat în regiunea Dikhil din Djibouti, aproape de granița cu Etiopia. Este situat într-un peisaj arid cu vegetație rară. Locuitorii aparțin în principal clanurilor somaleze. În mod tradițional, trăiesc din creșterea animalelor nomade. Satul are o școală primară și un post de sănătate. Yoboki este o oprire importantă pentru caravanele care călătoresc între Djibouti și Etiopia. Economia locală se bazează pe comerțul cu animale și bunuri. Clima este caldă și uscată, cu temperaturi peste 30 °C.",
+      en: "Yoboki is a village in the Dikhil Region of Djibouti, near the Ethiopian border. It lies in an arid landscape with sparse vegetation. Inhabitants are mainly from Somali clans. Traditionally, they live from nomadic livestock herding. The village has a primary school and a health post. Yoboki is an important stop for caravans traveling between Djibouti and Ethiopia. The local economy is based on trade in livestock and goods. The climate is hot and dry, with temperatures often exceeding 30 °C.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1.200", "Höhenlage: 300 m", "Durchschnittstemperatur: 32 °C", "Jährlicher Niederschlag: 150 mm", "Entfernung zur Hauptstadt Dschibuti: 120 km", "Anzahl der Brunnen: 4"],
+      hu: ["Lakosság: kb. 1200 fő", "Tengerszint feletti magasság: 300 m", "Átlaghőmérséklet: 32 °C", "Éves csapadék: 150 mm", "Távolság a fővárostól, Dzsibutitól: 120 km", "Kutak száma: 4"],
+      ro: ["Populație: cca. 1.200 locuitori", "Altitudine: 300 m", "Temperatura medie: 32 °C", "Precipitații anuale: 150 mm", "Distanță până la capitala Djibouti: 120 km", "Număr de fântâni: 4"],
+      en: ["Population: approximately 1,200", "Elevation: 300 m", "Average temperature: 32 °C", "Annual rainfall: 150 mm", "Distance to capital Djibouti City: 120 km", "Number of wells: 4"],
+    },
   },
   {
     id: "djibouti-dorra-settlement-cities-v2",
     type: "village",
     name: { de: "Dorra Settlement", hu: "Dorra Settlement", ro: "Dorra Settlement", en: "Dorra Settlement" },
-    coordinates: { lat: 12.1167, lng: 42.45 },
+    coords: [42.45, 12.1167],
     description: {
       de: "Dorra Settlement befindet sich im Norden von Dschibuti. Der Ort liegt in einer gebirgigen Region und wird landwirtschaftlich genutzt.",
       hu: "Dorra Settlement Dzsibuti északi részén található. A település egy hegyvidéki régióban fekszik, és mezőgazdasági terület.",
@@ -1482,12 +1506,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["North Djibouti", "Mountainous region", "Agricultural focus", "Rural development"],
     },
     imageHint: "mountainous area in northern Djibouti",
+    descriptionAdvanced: {
+      de: "Dorra ist eine Siedlung in der Region Tadjourah in Dschibuti. Sie liegt im Nordwesten des Landes, nahe der Grenze zu Eritrea. Der Ort ist ein wichtiger Knotenpunkt für Nomaden, die in der Region umherziehen. Die Wirtschaft basiert auf Viehzucht und etwas Handel. Dorra verfügt über eine Grundschule und eine begrenzte medizinische Versorgung. Das Gebiet ist trocken mit spärlichen Weideflächen. Die Siedlung hat eine kleine Marktanlage. Die Bevölkerung lebt in traditionellen Hütten aus Zweigen und Leinwand.",
+      hu: "Dorra egy település a dzsibuti Tadjourah régióban. Az ország északnyugati részén, az eritreai határ közelében fekszik. A település fontos csomópont a nomádok számára, akik a régióban vándorolnak. A gazdaság állattenyésztésen és némi kereskedelmen alapul. Dorrán általános iskola és korlátozott egészségügyi ellátás van. A terület száraz, ritka legelőkkel. A településen egy kis piac működik. A lakosság hagyományos ágakból és vászonból készült kunyhókban él.",
+      ro: "Dorra este o așezare în regiunea Tadjourah din Djibouti. Situat în nord-vestul țării, aproape de granița cu Eritreea. Localitatea este un nod important pentru nomazii care se deplasează în regiune. Economia se bazează pe creșterea animalelor și un comerț limitat. Dorra are o școală primară și servicii medicale limitate. Zona este uscată, cu pășuni rare. Așezarea are o piață mică. Populația locuiește în colibe tradiționale din ramuri și pânză.",
+      en: "Dorra is a settlement in the Tadjourah Region of Djibouti. It lies in the northwest of the country, near the Eritrean border. The settlement is an important hub for nomads moving through the region. The economy is based on livestock herding and some trade. Dorra has a primary school and limited medical services. The area is dry with sparse grazing land. The settlement has a small market. People live in traditional huts made of branches and canvas.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 800", "Höhenlage: 500 m", "Durchschnittstemperatur: 30 °C", "Jährlicher Niederschlag: 180 mm", "Entfernung zur eritreischen Grenze: 20 km", "Anzahl der Dorfläden: 3"],
+      hu: ["Lakosság: kb. 800 fő", "Tengerszint feletti magasság: 500 m", "Átlaghőmérséklet: 30 °C", "Éves csapadék: 180 mm", "Távolság az eritreai határtól: 20 km", "Faluboltok száma: 3"],
+      ro: ["Populație: cca. 800 locuitori", "Altitudine: 500 m", "Temperatura medie: 30 °C", "Precipitații anuale: 180 mm", "Distanță până la granița cu Eritreea: 20 km", "Număr de magazine sătești: 3"],
+      en: ["Population: approximately 800", "Elevation: 500 m", "Average temperature: 30 °C", "Annual rainfall: 180 mm", "Distance to Eritrean border: 20 km", "Number of village shops: 3"],
+    },
   },
   {
     id: "djibouti-galafi-town-cities-v2",
     type: "city",
     name: { de: "Galafi Town", hu: "Galafi Town", ro: "Galafi Town", en: "Galafi Town" },
-    coordinates: { lat: 11.7833, lng: 41.8333 },
+    coords: [41.8333, 11.7833],
     description: {
       de: "Galafi Town liegt an der Grenze zu Äthiopien. Es ist ein wichtiger Grenzpunkt für den Warenverkehr zwischen beiden Ländern.",
       hu: "Galafi Town az etióp határ mentén fekszik. Fontos határátkelőhely a két ország közötti áruforgalom számára.",
@@ -1501,12 +1537,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Ethiopian border town", "Trade center", "Transit point", "High traffic volume"],
     },
     imageHint: "border crossing station Galafi",
+    descriptionAdvanced: {
+      de: "Galafi ist eine Grenzstadt in der Region Dikhil in Dschibuti, direkt an der Grenze zu Äthiopien. Die Stadt ist ein wichtiger Handels- und Zollpunkt. Der Grenzübergang verbindet Dschibuti mit der äthiopischen Region Afar. Galafi hat einen Markt, auf dem lokale Produkte und Importwaren gehandelt werden. Die Bevölkerung besteht hauptsächlich aus Afar und Somali. Die Stadt verfügt über eine Moschee, eine Schule und ein Gesundheitszentrum. Aufgrund der Grenzlage ist Galafi ein Zentrum des regionalen Handels.",
+      hu: "Galafi egy határváros a dzsibuti Dikhil régióban, közvetlenül az etióp határon. A város fontos kereskedelmi és vámhely. A határátkelő összeköti Dzsibutit az etióp Afar régióval. Gala fin piacot működtet, ahol helyi termékeket és importárukat cserélnek. A lakosság főként afar és szomáli. A városban mecset, iskola és egészségügyi központ található. Határhelyzete miatt Galafi a regionális kereskedelem központja.",
+      ro: "Galafi este un oraș de frontieră în regiunea Dikhil din Djibouti, direct la granița cu Etiopia. Orașul este un important punct comercial și vamal. Trecerea de frontieră leagă Djibouti de regiunea Afar din Etiopia. Galafi are o piață unde se comercializează produse locale și bunuri importate. Populația este formată în principal din Afari și somalezi. Orașul are o moschee, o școală și un centru de sănătate. Datorită poziției sale de frontieră, Galafi este un centru al comerțului regional.",
+      en: "Galafi is a border town in the Dikhil Region of Djibouti, directly on the Ethiopian border. The town is an important trade and customs point. The border crossing connects Djibouti with Ethiopia's Afar Region. Galafi has a market where local products and imported goods are traded. The population is mainly Afar and Somali. The town has a mosque, a school, and a health center. Due to its border location, Galafi is a hub for regional commerce.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 2.500", "Höhenlage: 350 m", "Durchschnittstemperatur: 31 °C", "Jährlicher Niederschlag: 160 mm", "Entfernung zur Hauptstadt Dschibuti: 200 km", "Anzahl der Zollbeamten: 20"],
+      hu: ["Lakosság: kb. 2500 fő", "Tengerszint feletti magasság: 350 m", "Átlaghőmérséklet: 31 °C", "Éves csapadék: 160 mm", "Távolság a fővárostól, Dzsibutitól: 200 km", "Vámügyi tisztek száma: 20"],
+      ro: ["Populație: cca. 2.500 locuitori", "Altitudine: 350 m", "Temperatura medie: 31 °C", "Precipitații anuale: 160 mm", "Distanță până la capitala Djibouti: 200 km", "Număr de ofițeri vamali: 20"],
+      en: ["Population: approximately 2,500", "Elevation: 350 m", "Average temperature: 31 °C", "Annual rainfall: 160 mm", "Distance to capital Djibouti City: 200 km", "Number of customs officers: 20"],
+    },
   },
   {
     id: "djibouti-arta-settlement-cities-v2",
     type: "city",
     name: { de: "Arta Settlement", hu: "Arta Settlement", ro: "Arta Settlement", en: "Arta Settlement" },
-    coordinates: { lat: 11.5167, lng: 42.85 },
+    coords: [42.85, 11.5167],
     description: {
       de: "Arta Settlement liegt auf einem Hochplateau. Die Region ist für ihr angenehmeres Klima im Vergleich zu den tiefer gelegenen Gebieten bekannt.",
       hu: "Arta Settlement egy fennsíkon fekszik. A régió az alacsonyabban fekvő területekhez képest kellemesebb éghajlatáról ismert.",
@@ -1520,12 +1568,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["High plateau", "Milder climate", "High altitude", "Regional retreat"],
     },
     imageHint: "highland plateau landscape Arta",
+    descriptionAdvanced: {
+      de: "Arta ist eine Siedlung in der gleichnamigen Region in Dschibuti, etwa 40 Kilometer südwestlich der Hauptstadt. Der Ort liegt am Golf von Tadjourah und ist bekannt für seine schönen Strände. Arta hat eine kleine Bevölkerung, die hauptsächlich vom Fischfang und etwas Tourismus lebt. Es gibt einige Hotels und Resorts. Die Region ist auch für ihre Salzproduktion bekannt. Arta ist ein ruhiger Ort mit einer entspannten Atmosphäre. Die Siedlung dient als Basis für Taucher und Wassersportler.",
+      hu: "Arta egy település a dzsibuti Arta régióban, a fővárostól mintegy 40 km-re délnyugatra. A Tadjourah-öböl partján fekszik, és gyönyörű strandjairól ismert. Artának kicsi a lakossága, akik főként halászatból és némi turizmusból élnek. Néhány szálloda és üdülőhely található itt. A régió a sótermeléséről is ismert. Arta nyugodt hely, laza hangulattal. A település búvárok és vízi sportok szerelmeseinek bázisául szolgál.",
+      ro: "Arta este o așezare în regiunea Arta din Djibouti, la aproximativ 40 km sud-vest de capitală. Este situată pe golful Tadjourah și este cunoscută pentru plajele sale frumoase. Arta are o populație mică, care trăiește în principal din pescuit și turism limitat. Există câteva hoteluri și stațiuni. Regiunea este cunoscută și pentru producția de sare. Arta este un loc liniștit, cu o atmosferă relaxată. Așezarea servește ca bază pentru scafandri și sporturi nautice.",
+      en: "Arta is a settlement in the Arta Region of Djibouti, about 40 kilometers southwest of the capital. It lies on the Gulf of Tadjourah and is known for its beautiful beaches. Arta has a small population mainly living from fishing and some tourism. There are a few hotels and resorts. The region is also known for salt production. Arta is a quiet place with a relaxed atmosphere. The settlement serves as a base for divers and water sports enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1.000", "Höhenlage: 20 m", "Durchschnittstemperatur: 29 °C", "Jährlicher Niederschlag: 100 mm", "Entfernung zur Hauptstadt Dschibuti: 40 km", "Anzahl der Hotels: 4"],
+      hu: ["Lakosság: kb. 1000 fő", "Tengerszint feletti magasság: 20 m", "Átlaghőmérséklet: 29 °C", "Éves csapadék: 100 mm", "Távolság a fővárostól, Dzsibutitól: 40 km", "Szállodák száma: 4"],
+      ro: ["Populație: cca. 1.000 locuitori", "Altitudine: 20 m", "Temperatura medie: 29 °C", "Precipitații anuale: 100 mm", "Distanță până la capitala Djibouti: 40 km", "Număr de hoteluri: 4"],
+      en: ["Population: approximately 1,000", "Elevation: 20 m", "Average temperature: 29 °C", "Annual rainfall: 100 mm", "Distance to capital Djibouti City: 40 km", "Number of hotels: 4"],
+    },
   },
   {
     id: "djibouti-balho-settlement-cities-v2",
     type: "village",
     name: { de: "Balho Settlement", hu: "Balho Settlement", ro: "Balho Settlement", en: "Balho Settlement" },
-    coordinates: { lat: 12.0667, lng: 42.1833 },
+    coords: [42.1833, 12.0667],
     description: {
       de: "Balho Settlement liegt im nordwestlichen Teil von Dschibuti. Es ist eine ländliche Gemeinde mit Fokus auf Subsistenzwirtschaft.",
       hu: "Balho Settlement Dzsibuti északnyugati részén található. Ez egy vidéki közösség, amely az önellátó gazdálkodásra összpontosít.",
@@ -1539,12 +1599,24 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Northwest region", "Rural community", "Subsistence farming", "Remote location"],
     },
     imageHint: "rural village in Balho",
+    descriptionAdvanced: {
+      de: "Balho ist eine kleine Siedlung in der Region Tadjourah in Dschibuti, im Norden des Landes. Sie liegt in einer Wüstenregion mit rauem Klima. Die Einwohner sind nomadische Hirten, die mit ihren Herden durch das Gebiet ziehen. Balho verfügt über eine Grundschule und eine Wasserstelle. Die Siedlung ist ein Treffpunkt für Händler und Nomaden. Die Umgebung ist geprägt von vulkanischen Gesteinsformationen. Das Leben ist hart aufgrund der Trockenheit und der extremen Temperaturen.",
+      hu: "Balho egy kis település a dzsibuti Tadjourah régióban, az ország északi részén. Sivatagi területen fekszik, zord éghajlattal. A lakók nomád pásztorok, akik állataikkal vándorolnak a területen. Balhón általános iskola és egy vízforrás található. A település találkozóhelye a kereskedőknek és nomádoknak. A környéken vulkanikus kőzetképződmények találhatók. Az élet nehéz a szárazság és a szélsőséges hőmérsékletek miatt.",
+      ro: "Balho este o mică așezare în regiunea Tadjourah din Djibouti, în nordul țării. Este situată într-o regiune deșertică cu climă aspră. Locuitorii sunt păstori nomazi care se deplasează cu turmele lor prin zonă. Balho are o școală primară și o sursă de apă. Așezarea este un punct de întâlnire pentru comercianți și nomazi. Împrejurimile sunt caracterizate de formațiuni roci vulcanice. Viața este grea din cauza uscăciunii și a temperaturilor extreme.",
+      en: "Balho is a small settlement in the Tadjourah Region of Djibouti, in the north of the country. It lies in a desert region with harsh climate. The inhabitants are nomadic herders moving with their livestock through the area. Balho has a primary school and a water point. The settlement is a meeting point for traders and nomads. The surroundings feature volcanic rock formations. Life is tough due to aridity and extreme temperatures.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 600", "Höhenlage: 400 m", "Durchschnittstemperatur: 32 °C", "Jährlicher Niederschlag: 120 mm", "Entfernung zur nächstgelegenen Stadt Tadjourah: 150 km", "Anzahl der Schulen: 1"],
+      hu: ["Lakosság: kb. 600 fő", "Tengerszint feletti magasság: 400 m", "Átlaghőmérséklet: 32 °C", "Éves csapadék: 120 mm", "Távolság a legközelebbi várostól, Tadjourahtól: 150 km", "Iskolák száma: 1"],
+      ro: ["Populație: cca. 600 locuitori", "Altitudine: 400 m", "Temperatura medie: 32 °C", "Precipitații anuale: 120 mm", "Distanță până la cel mai apropiat oraș Tadjourah: 150 km", "Număr de școli: 1"],
+      en: ["Population: approximately 600", "Elevation: 400 m", "Average temperature: 32 °C", "Annual rainfall: 120 mm", "Distance to nearest town Tadjourah: 150 km", "Number of schools: 1"],
+    },
   },
   {
     id: "djibouti-randa-settlement-cities-v2",
     type: "city",
     name: { de: "Randa Settlement", hu: "Randa Settlement", ro: "Randa Settlement", en: "Randa Settlement" },
-    coordinates: { lat: 11.8333, lng: 42.6667 },
+    coords: [42.6667, 11.8333],
     description: {
       de: "Randa Settlement liegt in den Gebirgszügen nahe der Tadjourah-Region. Die Gegend ist für ihre Wasserquellen und Gärten geschätzt.",
       hu: "Randa Settlement a Tadjourah régió közelében fekvő hegyláncokban található. A környék a vízforrásairól és kertjeiről ismert.",
@@ -1558,6 +1630,18 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Near mountains", "Water sources", "Gardening", "Cool high altitude"],
     },
     imageHint: "mountain landscape with vegetation Randa",
+    descriptionAdvanced: {
+      de: "Randa ist eine Siedlung in der Region Tadjourah in Dschibuti, in der Nähe der Grenze zu Äthiopien. Der Ort liegt auf einem Plateau mit Blick auf die umliegenden Berge. Die Bevölkerung lebt von Viehzucht und Landwirtschaft, obwohl das Klima trocken ist. Randa hat eine Moschee und eine Grundschule. Die Siedlung ist bekannt für ihre traditionellen Handarbeiten. Der Markt findet einmal pro Woche statt. Die Region ist auch für ihre vielfältige Tierwelt bekannt, darunter Paviane und Antilopen.",
+      hu: "Randa egy település a dzsibuti Tadjourah régióban, az etióp határ közelében. A település egy fennsíkon fekszik, ahonnan kilátás nyílik a környező hegyekre. A lakosság állattenyésztésből és mezőgazdaságból él, bár az éghajlat száraz. Randán mecset és általános iskola található. A település híres hagyományos kézműves termékeiről. A piac hetente egyszer nyílik. A régió változatos vadon élő állatairól is ismert, köztük páviánok és antilopok.",
+      ro: "Randa este o așezare în regiunea Tadjourah din Djibouti, aproape de granița cu Etiopia. Localitatea este situată pe un platou cu vedere la munții din jur. Populația trăiește din creșterea animalelor și agricultură, deși clima este uscată. Randa are o moschee și o școală primară. Așezarea este cunoscută pentru meșteșugurile tradiționale. Piața are loc o dată pe săptămână. Regiunea este cunoscută și pentru fauna diversă, inclusiv babuini și antilope.",
+      en: "Randa is a settlement in the Tadjourah Region of Djibouti, near the Ethiopian border. The settlement sits on a plateau overlooking the surrounding mountains. The population lives from livestock herding and farming, despite the dry climate. Randa has a mosque and a primary school. The settlement is known for traditional handicrafts. The market is held once a week. The region is also known for diverse wildlife, including baboons and antelopes.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 700", "Höhenlage: 600 m", "Durchschnittstemperatur: 29 °C", "Jährlicher Niederschlag: 200 mm", "Entfernung zur äthiopischen Grenze: 30 km", "Anzahl der Wochenmarkttage: 1"],
+      hu: ["Lakosság: kb. 700 fő", "Tengerszint feletti magasság: 600 m", "Átlaghőmérséklet: 29 °C", "Éves csapadék: 200 mm", "Távolság az etióp határtól: 30 km", "Heti piaci napok száma: 1"],
+      ro: ["Populație: cca. 700 locuitori", "Altitudine: 600 m", "Temperatura medie: 29 °C", "Precipitații anuale: 200 mm", "Distanță până la granița cu Etiopia: 30 km", "Număr de zile de piață pe săptămână: 1"],
+      en: ["Population: approximately 700", "Elevation: 600 m", "Average temperature: 29 °C", "Annual rainfall: 200 mm", "Distance to Ethiopian border: 30 km", "Number of weekly market days: 1"],
+    },
   }
 ];
 

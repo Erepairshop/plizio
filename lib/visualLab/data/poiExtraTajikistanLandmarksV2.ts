@@ -1126,7 +1126,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-istiklol-monument-landmarks-v2",
     type: "monument",
     name: { de: "Unabhängigkeitsdenkmal Istiklol", hu: "Istiklol függetlenségi emlékmű", ro: "Monumentul Independenței Istiklol", en: "Istiklol Independence Monument" },
-    coordinates: { lat: 38.5878, lng: 68.7936 },
+    coords: [68.7936, 38.5878],
     description: {
       de: "Das 121 Meter hohe Denkmal in Duschanbe wurde 2022 zum 31. Jahrestag der Unabhängigkeit eröffnet.",
       hu: "A 121 méter magas dushanbei emlékművet 2022-ben avatták fel a függetlenség 31. évfordulóján.",
@@ -1145,7 +1145,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-national-library-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalbibliothek von Tadschikistan", hu: "Tádzsikisztáni Nemzeti Könyvtár", ro: "Biblioteca Națională a Tadjikistanului", en: "National Library of Tajikistan" },
-    coordinates: { lat: 38.5741, lng: 68.7844 },
+    coords: [68.7844, 38.5741],
     description: {
       de: "Die größte Bibliothek Zentralasiens befindet sich in Duschanbe und bietet Platz für über 10 Millionen Bücher.",
       hu: "Közép-Ázsia legnagyobb könyvtára Dushanbe központjában található, több mint 10 millió kötet befogadására alkalmas.",
@@ -1164,7 +1164,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-ismaili-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Ismailitisches Zentrum Duschanbe", hu: "Iszmáilita Központ Dushanbe", ro: "Centrul Ismaili Dușanbe", en: "Ismaili Centre Dushanbe" },
-    coordinates: { lat: 38.5839, lng: 68.7667 },
+    coords: [68.7667, 38.5839],
     description: {
       de: "Ein kulturelles und religiöses Zentrum, dessen Architektur von den historischen Bauten Zentralasiens inspiriert ist.",
       hu: "Kulturális és vallási központ, melynek építészetét Közép-Ázsia történelmi építményei ihlették.",
@@ -1183,7 +1183,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-central-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmoschee von Duschanbe", hu: "Dushanbei Központi Mecset", ro: "Moscheea Centrală din Dușanbe", en: "Central Mosque of Dushanbe" },
-    coordinates: { lat: 38.6111, lng: 68.7831 },
+    coords: [68.7831, 38.6111],
     description: {
       de: "Eine der größten Moscheen Zentralasiens, die Platz für bis zu 120.000 Gläubige gleichzeitig bietet.",
       hu: "Közép-Ázsia egyik legnagyobb mecsetje, amely egyszerre akár 120 000 hívő befogadására is alkalmas.",
@@ -1202,7 +1202,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-museum-of-antiquities-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Altertümer Tadschikistans", hu: "Tádzsikisztáni Régészeti Múzeum", ro: "Muzeul de Antichități al Tadjikistanului", en: "National Museum of Antiquities of Tajikistan" },
-    coordinates: { lat: 38.5678, lng: 68.7889 },
+    coords: [68.7889, 38.5678],
     description: {
       de: "Das Museum beherbergt eine bedeutende Sammlung archäologischer Funde, darunter den berühmten schlafenden Buddha.",
       hu: "A múzeum jelentős régészeti gyűjteménynek ad otthont, többek között a híres fekvő Buddha-szobornak.",
@@ -1221,7 +1221,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-gurminj-museum-musical-instruments-landmarks-v2",
     type: "museum",
     name: { de: "Gurminj-Museum für Musikinstrumente", hu: "Gurminj Hangszermúzeum", ro: "Muzeul de Instrumente Muzicale Gurminj", en: "Gurminj Museum of Musical Instruments" },
-    coordinates: { lat: 38.5794, lng: 68.7903 },
+    coords: [68.7903, 38.5794],
     description: {
       de: "Ein privates Museum in Duschanbe, das über 100 traditionelle Musikinstrumente aus Zentralasien ausstellt.",
       hu: "Dushanbei magánmúzeum, amely több mint 100 hagyományos közép-ázsiai hangszert mutat be.",
@@ -1240,7 +1240,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-dushanbe-circus-landmarks-v2",
     type: "landmark",
     name: { de: "Staatszirkus von Tadschikistan", hu: "Tádzsik Állami Cirkusz", ro: "Circul de Stat din Tadjikistan", en: "State Circus of Tajikistan" },
-    coordinates: { lat: 38.5686, lng: 68.7619 },
+    coords: [68.7619, 38.5686],
     description: {
       de: "Ein markantes Gebäude in Duschanbe, das für seine Zirkusvorführungen und seine sowjetische Architektur bekannt ist.",
       hu: "Dushanbe jellegzetes épülete, amely cirkuszi előadásairól és szovjet építészetéről ismert.",
@@ -1259,7 +1259,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-lohuhti-theater-landmarks-v2",
     type: "theater",
     name: { de: "Lohuti-Dramentheater", hu: "Lohuti Drámai Színház", ro: "Teatrul Dramatic Lohuti", en: "Lohuti Dramatic Theatre" },
-    coordinates: { lat: 38.5772, lng: 68.7878 },
+    coords: [68.7878, 38.5772],
     description: {
       de: "Das erste tadschikische Staatstheater, benannt nach dem berühmten Dichter Abu'l-Qasim Lohuti.",
       hu: "Az első tádzsik állami színház, amelyet a híres költőről, Abu'l-Qaszim Lohutiról neveztek el.",
@@ -1278,7 +1278,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-kokhi-jomi-landmarks-v2",
     type: "landmark",
     name: { de: "Kokhi Jomi", hu: "Kokhi Jomi", ro: "Kokhi Jomi", en: "Kokhi Jomi" },
-    coordinates: { lat: 38.5753, lng: 68.7864 },
+    coords: [68.7864, 38.5753],
     description: {
       de: "Ein Mehrzweckgebäude und Kinokomplex in Duschanbe, benannt nach dem klassischen Dichter Jami.",
       hu: "Többfunkciós épület és mozicentrumból álló komplexum Dushanbéban, Jami klasszikus költőről elnevezve.",
@@ -1297,7 +1297,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-shah-mansur-market-landmarks-v2",
     type: "landmark",
     name: { de: "Schah-Mansur-Markt (Grüner Basar)", hu: "Shah Mansur piac (Zöld bazár)", ro: "Piața Shah Mansur (Bazarul Verde)", en: "Shah Mansur Market (Green Bazaar)" },
-    coordinates: { lat: 38.5708, lng: 68.7989 },
+    coords: [68.7989, 38.5708],
     description: {
       de: "Der bekannteste und größte Markt in Duschanbe, berühmt für seine frischen Produkte und orientalische Atmosphäre.",
       hu: "Dushanbe legismertebb és legnagyobb piaca, amely friss termékeiről és keleti hangulatáról híres.",
@@ -1316,7 +1316,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-ibn-sina-monument-landmarks-v2",
     type: "monument",
     name: { de: "Ibn-Sina-Denkmal", hu: "Ibn Szína emlékmű", ro: "Monumentul lui Ibn Sina", en: "Ibn Sina Monument" },
-    coordinates: { lat: 38.5631, lng: 68.7486 },
+    coords: [68.7486, 38.5631],
     description: {
       de: "Ein Denkmal zu Ehren des berühmten Gelehrten Avicenna (Ibn Sina), das sich in Duschanbe befindet.",
       hu: "A híres tudós, Avicenna (Ibn Szína) tiszteletére állított emlékmű Dushanbe egyik fontos terén.",
@@ -1335,7 +1335,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-rudaki-mausoleum-landmarks-v2",
     type: "landmark",
     name: { de: "Rudaki-Mausoleum", hu: "Rudaki-mauzóleum", ro: "Mausoleul lui Rudaki", en: "Rudaki Mausoleum" },
-    coordinates: { lat: 39.3402, lng: 67.8114 },
+    coords: [67.8114, 39.3402],
     description: {
       de: "Die Grabstätte von Abu Abdullah Rudaki, dem Begründer der persischen Poesie, im Dorf Panjrud.",
       hu: "Abu Abdullah Rudaki, a perzsa költészet atyjának sírhelye Panjrud faluban, Panjakent közelében.",
@@ -1354,7 +1354,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-muhammad-bashoro-mausoleum-landmarks-v2",
     type: "landmark",
     name: { de: "Muhammad-Baschoro-Mausoleum", hu: "Muhammad Bashoro mauzóleum", ro: "Mausoleul lui Muhammad Bashoro", en: "Muhammad Bashoro Mausoleum" },
-    coordinates: { lat: 39.3908, lng: 67.7052 },
+    coords: [67.7052, 39.3908],
     description: {
       de: "Ein bedeutendes mittelalterliches Bauwerk bei Pendschikent, bekannt für sein prachtvolles Terrakotta-Portal.",
       hu: "Jelentős középkori épület Panjakent közelében, amely pompás terrakotta kapujáról ismert.",
@@ -1373,7 +1373,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-kamal-khujandi-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kamal-Khujandi-Museum", hu: "Kamal Khujandi Múzeum", ro: "Muzeul Kamal Khujandi", en: "Kamal Khujandi Museum" },
-    coordinates: { lat: 40.2858, lng: 69.6208 },
+    coords: [69.6208, 40.2858],
     description: {
       de: "Ein Museum in Chudschand, das dem Leben und Werk des Dichters Kamal Khujandi sowie der Geschichte der Stadt gewidmet ist.",
       hu: "Khujandban található múzeum, amelyet Kamal Khujandi költő életének és munkásságának, valamint a város történetének szenteltek.",
@@ -1392,7 +1392,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-khujand-victory-monument-landmarks-v2",
     type: "monument",
     name: { de: "Siegesdenkmal Chudschand", hu: "Khujandi Győzelmi emlékmű", ro: "Monumentul Victoriei din Khujand", en: "Khujand Victory Monument" },
-    coordinates: { lat: 40.2764, lng: 69.6253 },
+    coords: [69.6253, 40.2764],
     description: {
       de: "Ein monumentales Denkmal im Siegespark von Chudschand, das an die Gefallenen des Zweiten Weltkriegs erinnert.",
       hu: "Khujand Győzelem parkjában álló monumentális emlékmű, amely a második világháború áldozataira emlékezik.",
@@ -1411,7 +1411,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-bokhtar-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal Bochtar", hu: "Bokhtari háborús emlékmű", ro: "Monumentul Războiului din Bokhtar", en: "Bokhtar War Memorial" },
-    coordinates: { lat: 37.8347, lng: 68.7811 },
+    coords: [68.7811, 37.8347],
     description: {
       de: "Ein Gedenkkomplex in der Stadt Bochtar, der den Soldaten des Großen Vaterländischen Krieges gewidmet ist.",
       hu: "Bokhtar városában található emlékkomplexum, amelyet a Nagy Honvédő Háború katonáinak szenteltek.",
@@ -1430,7 +1430,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-friendship-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Freundschaftsbrücke Tadschikistan-Afghanistan", hu: "Tádzsik-afgán barátság híd", ro: "Podul Prieteniei Tadjikistan-Afganistan", en: "Tajikistan–Afghanistan Friendship Bridge" },
-    coordinates: { lat: 37.1936, lng: 68.5589 },
+    coords: [68.5589, 37.1936],
     description: {
       de: "Eine strategisch wichtige Brücke über den Fluss Pandsch, die Tadschikistan mit Afghanistan verbindet.",
       hu: "Stratégiailag fontos híd a Pandzs folyón, amely összeköti Tádzsikisztánt Afganisztánnal.",
@@ -1449,7 +1449,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-dushanbe-tv-tower-landmarks-v2",
     type: "tower",
     name: { de: "Fernsehturm Duschanbe", hu: "Dushanbei tévétorony", ro: "Turnul TV din Dușanbe", en: "Dushanbe TV Tower" },
-    coordinates: { lat: 38.5869, lng: 68.7997 },
+    coords: [68.7997, 38.5869],
     description: {
       de: "Ein hoher Fernsehturm in Duschanbe, der das Stadtbild prägt und für Rundfunkübertragungen genutzt wird.",
       hu: "Magas tévétorony Dushanbéban, amely meghatározza a városképet és műsorszórásra használják.",
@@ -1468,7 +1468,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-monument-to-the-mother-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Mutter", hu: "Az Anya emlékműve", ro: "Monumentul Mamei", en: "Monument to the Mother" },
-    coordinates: { lat: 38.5611, lng: 68.7958 },
+    coords: [68.7958, 38.5611],
     description: {
       de: "Ein symbolträchtiges Denkmal in Duschanbe, das die Mutterfigur und den Schutz der Familie ehrt.",
       hu: "Jelképes erejű emlékmű Dushanbéban, amely az anyaságot és a család védelmét tiszteli.",
@@ -1487,7 +1487,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-shahrinav-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Schahrinaw", hu: "Shahrinav romjai", ro: "Ruinele de la Shahrinav", en: "Shahrinav Ruins" },
-    coordinates: { lat: 38.5417, lng: 68.325 },
+    coords: [68.325, 38.5417],
     description: {
       de: "Überreste einer antiken Siedlung westlich von Duschanbe, die Einblicke in die frühe Stadtgeschichte bieten.",
       hu: "Dushanbétól nyugatra fekvő ősi település maradványai, amelyek betekintést nyújtanak a korai várostörténetbe.",
@@ -1506,7 +1506,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-mastchoh-fort-landmarks-v2",
     type: "castle",
     name: { de: "Festung Mastschoh", hu: "Masztcsó-erőd", ro: "Cetatea Mastchoh", en: "Mastchoh Fort" },
-    coordinates: { lat: 39.38, lng: 70.35 },
+    coords: [70.35, 39.38],
     description: {
       de: "Eine entlegene Bergfestung in der Mastschoh-Region, die für ihre Geschichte des Widerstands bekannt ist.",
       hu: "Távoli hegyi erőd a Masztcsó-régióban, amely az ellenállás történetéről híres.",
@@ -1525,7 +1525,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-kafirnigan-archaeological-site-landmarks-v2",
     type: "ruins",
     name: { de: "Kafirnigan-Ausgrabungsstätte", hu: "Kafirnigan régészeti lelőhely", ro: "Sit Arheologic Kafirnigan", en: "Kafirnigan Archaeological Site" },
-    coordinates: { lat: 38.45, lng: 68.9 },
+    coords: [68.9, 38.45],
     description: {
       de: "Eine bedeutende antike und frühmittelalterliche Ausgrabungsstätte am Fluss Kafirnigan.",
       hu: "Jelentős ókori és kora középkori régészeti lelőhely a Kafirnigan folyó mentén.",
@@ -1544,7 +1544,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-somoni-monument-bokhtar-landmarks-v2",
     type: "monument",
     name: { de: "Ismoil-Somoni-Denkmal Bochtar", hu: "Iszmail Szomoní emlékmű Bokhtar", ro: "Monumentul lui Ismoil Somoni din Bokhtar", en: "Ismoil Somoni Monument Bokhtar" },
-    coordinates: { lat: 37.8389, lng: 68.7758 },
+    coords: [68.7758, 37.8389],
     description: {
       de: "Ein großes Denkmal des Nationalhelden Ismoil Somoni im Zentrum der Stadt Bochtar.",
       hu: "Iszmail Szomoní nemzeti hős nagyméretű emlékműve Bokhtar városának központjában.",
@@ -1563,7 +1563,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-kulob-regional-museum-landmarks-v2",
     type: "museum",
     name: { de: "Regionalmuseum Kulob", hu: "Kulobi Regionális Múzeum", ro: "Muzeul Regional Kulob", en: "Kulob Regional Museum" },
-    coordinates: { lat: 37.9153, lng: 69.7828 },
+    coords: [69.7828, 37.9153],
     description: {
       de: "Das Museum präsentiert die reiche Geschichte und Ethnographie der Region Kulob im Süden Tadschikistans.",
       hu: "A múzeum Tádzsikisztán déli részén, Kulob régiójának gazdag történelmét és néprajzát mutatja be.",
@@ -1582,7 +1582,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-khorugh-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Gunt-Brücke Chorugh", hu: "Horugi Gunt-híd", ro: "Podul Gunt din Khorugh", en: "Khorugh Gunt Bridge" },
-    coordinates: { lat: 37.4903, lng: 71.5544 },
+    coords: [71.5544, 37.4903],
     description: {
       de: "Eine zentrale Brücke in Chorugh, die über den Fluss Gunt führt und die Stadtteile miteinander verbindet.",
       hu: "Horug központi hídja a Gunt folyón, amely összeköti a városrészeket.",
@@ -1601,7 +1601,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-danghara-museum-landmarks-v2",
     type: "museum",
     name: { de: "Heimatmuseum Danghara", hu: "Danghara Helytörténeti Múzeum", ro: "Muzeul de Istorie Locală Danghara", en: "Danghara Regional Museum" },
-    coordinates: { lat: 38.0983, lng: 69.3467 },
+    coords: [69.3467, 38.0983],
     description: {
       de: "Ein Museum in Danghara, das die landwirtschaftliche Bedeutung und Geschichte der Region dokumentiert.",
       hu: "Danghara múzeuma, amely a régió mezőgazdasági jelentőségét és történelmét dokumentálja.",
@@ -1620,7 +1620,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-panjakent-museum-landmarks-v2",
     type: "museum",
     name: { de: "Rudaki-Geschichtsmuseum", hu: "Rudaki Történeti Múzeum", ro: "Muzeul de Istorie Rudaki", en: "Rudaki Museum of History" },
-    coordinates: { lat: 39.5003, lng: 67.6153 },
+    coords: [67.6153, 39.5003],
     description: {
       de: "Ein zentrales Museum in Pendschikent, das Funde aus der antiken Stadt und Werke Rudakis zeigt.",
       hu: "Panjakent központi múzeuma, amely az ősi város leleteit és Rudaki munkásságát mutatja be.",
@@ -1639,7 +1639,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tajikistan-childukhtaron-monuments-landmarks-v2",
     type: "landmark",
     name: { de: "Tschilduchtaron (Tal der 40 Mädchen)", hu: "Csidukhtaron (40 lány völgye)", ro: "Childukhtaron (Valea celor 40 de fete)", en: "Childukhtaron (Valley of 40 Girls)" },
-    coordinates: { lat: 38.3514, lng: 69.8153 },
+    coords: [69.8153, 38.3514],
     description: {
       de: "Eine Gruppe markanter Felsformationen, die der Legende nach versteinerte Mädchen sind.",
       hu: "Jellegzetes sziklaformációk csoportja, amelyek a legenda szerint kővé vált leányok.",

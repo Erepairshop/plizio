@@ -1819,7 +1819,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-baganuur-cities-v2",
     type: "city",
     name: { de: "Baganuur", hu: "Bagannur", ro: "Baganuur", en: "Baganuur" },
-    coordinates: { lat: 47.7833, lng: 108.3833 },
+    coords: [108.3833, 47.7833],
     description: {
       de: "Baganuur ist ein industriell geprägter Bezirk von Ulaanbaatar. Er beherbergt eines der größten Braunkohlebergwerke der gesamten Mongolei.",
       hu: "Baganuur Ulánbátor egyik ipari kerülete, amely különálló exklávéként fekszik. Itt található az ország egyik legnagyobb szénbányája.",
@@ -1838,7 +1838,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-khujirt-cities-v2",
     type: "town",
     name: { de: "Chudschirt", hu: "Hudzsirt", ro: "Khujirt", en: "Khujirt" },
-    coordinates: { lat: 46.9014, lng: 102.7725 },
+    coords: [102.7725, 46.9014],
     description: {
       de: "Chudschirt ist ein bekannter Kurort im Orchon-Tal. Er ist berühmt für seine natürlichen Thermalquellen und therapeutischen Heilschlämme.",
       hu: "Hudzsirt népszerű üdülőváros az Orhon-völgyben. Híres a természetes melegvizes forrásairól és gyógyító ásványi iszapjáról.",
@@ -1857,7 +1857,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-khanbogd-cities-v2",
     type: "town",
     name: { de: "Chanbogd", hu: "Hanbogd", ro: "Khanbogd", en: "Khanbogd" },
-    coordinates: { lat: 43.1944, lng: 107.1861 },
+    coords: [107.1861, 43.1944],
     description: {
       de: "Chanbogd ist eine schnell wachsende Siedlung in der Wüste Gobi. Sie dient als wichtigstes Versorgungszentrum für das nahegelegene Bergwerk Oyu Tolgoi.",
       hu: "Hanbogd egy gyorsan növekvő település a Góbi-sivatagban. A közeli Oyu Tolgoi rézbánya fő kiszolgáló központjaként működik.",
@@ -1876,7 +1876,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-tsogttsetsii-cities-v2",
     type: "town",
     name: { de: "Tsogttsetsii", hu: "Cogtcecii", ro: "Tsogttsetsii", en: "Tsogttsetsii" },
-    coordinates: { lat: 43.7317, lng: 105.5703 },
+    coords: [105.5703, 43.7317],
     description: {
       de: "Tsogttsetsii ist ein bedeutendes Bergbauzentrum in der Südgobi. Die Stadt liegt direkt an den riesigen Kohlevorkommen von Tavan Tolgoi.",
       hu: "Cogtcecii egy jelentős bányászváros a Dél-Góbiban. A település közvetlenül a hatalmas Tavan Tolgoi szénlelőhely mellett fekszik.",
@@ -1895,7 +1895,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-uyanga-cities-v2",
     type: "town",
     name: { de: "Uyanga", hu: "Ujanga", ro: "Uyanga", en: "Uyanga" },
-    coordinates: { lat: 46.4561, lng: 102.2611 },
+    coords: [102.2611, 46.4561],
     description: {
       de: "Uyanga ist eine bevölkerungsreiche Gemeinde in der Provinz Övörkhangai. Sie ist bekannt für ihre traditionelle Handwerkskunst und Goldvorkommen.",
       hu: "Ujanga egy népes község Övörhangaj tartományban. Híres a hagyományos kézművességéről és a környékbeli aranylelőhelyekről.",
@@ -1914,7 +1914,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-bat-ulzii-cities-v2",
     type: "town",
     name: { de: "Bat-Ölzii", hu: "Bat-Ölzij", ro: "Bat-Ulzii", en: "Bat-Ulzii" },
-    coordinates: { lat: 46.7725, lng: 101.8847 },
+    coords: [101.8847, 46.7725],
     description: {
       de: "Bat-Ölzii liegt im malerischen Orchon-Tal und ist ein Zentrum für Viehzucht. Die Region ist ein beliebtes Ziel für Naturtouristen.",
       hu: "Bat-Ölzij a festői Orhon-völgyben fekszik, és az állattenyésztés egyik központja. A régió kedvelt célpontja a természetjáróknak.",
@@ -1933,7 +1933,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-tarialan-cities-v2",
     type: "town",
     name: { de: "Tarialan", hu: "Tarialan", ro: "Tarialan", en: "Tarialan" },
-    coordinates: { lat: 49.6053, lng: 102.0108 },
+    coords: [102.0108, 49.6053],
     description: {
       de: "Tarialan ist eines der wichtigsten landwirtschaftlichen Zentren in Nordmongolien. Die Stadt ist bekannt für den großflächigen Anbau von Getreide.",
       hu: "Tarialan Észak-Mongólia egyik legfontosabb mezőgazdasági központja. A város a kiterjedt gabonatermesztéséről ismert a régióban.",
@@ -1952,7 +1952,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-erdenetsagaan-cities-v2",
     type: "town",
     name: { de: "Erdenetsagaan", hu: "Erdenecagán", ro: "Erdenetsagaan", en: "Erdenetsagaan" },
-    coordinates: { lat: 45.8953, lng: 115.3853 },
+    coords: [115.3853, 45.8953],
     description: {
       de: "Erdenetsagaan liegt im Osten der Mongolei an der Grenze zu China. Es ist ein wichtiger Grenzhandelsknotenpunkt in der Steppenregion.",
       hu: "Erdenecagán Mongólia keleti részén, a kínai határ közelében fekszik. Fontos határmenti kereskedelmi csomópont a sztyeppei övezetben.",
@@ -1971,7 +1971,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-zaamar-cities-v2",
     type: "town",
     name: { de: "Saamar", hu: "Zámar", ro: "Zaamar", en: "Zaamar" },
-    coordinates: { lat: 48.2322, lng: 104.2889 },
+    coords: [104.2889, 48.2322],
     description: {
       de: "Saamar ist eine Bergbaustadt in der Zentralmongolei, die vor allem für ihre Goldminen bekannt ist. Die Stadt liegt am Ufer des Flusses Tuul.",
       hu: "Zámar egy bányászváros Közép-Mongóliában, amely elsősorban aranybányáiról ismert. A település a Tuul-folyó partján fekszik.",
@@ -1990,7 +1990,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-khatgal-cities-v2",
     type: "town",
     name: { de: "Chatgal", hu: "Hatgal", ro: "Khatgal", en: "Khatgal" },
-    coordinates: { lat: 50.4331, lng: 100.1508 },
+    coords: [100.1508, 50.4331],
     description: {
       de: "Chatgal ist eine Hafenstadt am südlichen Ende des Chöwsgöl-Sees. Sie ist der zentrale Ausgangspunkt für Bootsfahrten und Expeditionen im Norden.",
       hu: "Hatgal egy kikötőváros a Hövszgöl-tó déli partján. Ez a központi kiindulópont a tóparti kirándulásokhoz és expedíciókhoz.",
@@ -2009,7 +2009,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-altanbulag-town-cities-v2",
     type: "town",
     name: { de: "Altanbulag", hu: "Altanbulag", ro: "Altanbulag", en: "Altanbulag" },
-    coordinates: { lat: 50.3167, lng: 106.5 },
+    coords: [106.5, 50.3167],
     description: {
       de: "Altanbulag ist eine historische Stadt an der Grenze zu Russland. Sie spielte eine entscheidende Rolle in der mongolischen Revolution von 1921.",
       hu: "Altanbulag egy történelmi város az orosz határ mentén. Döntő szerepet játszott az 1921-es mongol forradalom eseményeiben.",
@@ -2028,7 +2028,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-tsagaan-nuur-cities-v2",
     type: "town",
     name: { de: "Tsagaan-Nuur", hu: "Cagánnur", ro: "Tsagaan-Nuur", en: "Tsagaan-Nuur" },
-    coordinates: { lat: 49.5028, lng: 89.7825 },
+    coords: [89.7825, 49.5028],
     description: {
       de: "Tsagaan-Nuur ist ein abgelegener Ort im Altai-Gebirge an der russischen Grenze. Er dient als Kontrollpunkt für den Überlandverkehr in den Nordwesten.",
       hu: "Cagánnur egy távoli település az Altaj-hegységben, az orosz határnál. Az északnyugati szárazföldi forgalom fontos ellenőrző pontja.",
@@ -2047,7 +2047,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-chuluut-cities-v2",
     type: "village",
     name: { de: "Tschuluut", hu: "Csuult", ro: "Chuluut", en: "Chuluut" },
-    coordinates: { lat: 47.5317, lng: 100.2222 },
+    coords: [100.2222, 47.5317],
     description: {
       de: "Tschuluut ist ein Sum-Zentrum in der Provinz Archangai, gelegen am gleichnamigen Fluss. Die Region ist bekannt für ihre tiefen Basaltschluchten.",
       hu: "Csuult egy járási központ Arhangáj tartományban, az azonos nevű folyó mentén. A régió híres a mély bazalt kanyonjairól.",
@@ -2066,7 +2066,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-dadal-cities-v2",
     type: "town",
     name: { de: "Dadal", hu: "Dadal", ro: "Dadal", en: "Dadal" },
-    coordinates: { lat: 49.0258, lng: 111.6219 },
+    coords: [111.6219, 49.0258],
     description: {
       de: "Dadal ist ein malerischer Ort in der Provinz Chentii, umgeben von Lärchenwäldern. Er gilt als einer der möglichen Geburtsorte von Dschingis Khan.",
       hu: "Dadal egy festői település Khentii tartományban, vörösfenyőerdőkkel övezve. Dzsingisz kán egyik lehetséges születési helyeként ismerik.",
@@ -2085,7 +2085,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-yeroo-cities-v2",
     type: "town",
     name: { de: "Jeröö", hu: "Jerő", ro: "Yeroo", en: "Yeroo" },
-    coordinates: { lat: 49.8167, lng: 106.6722 },
+    coords: [106.6722, 49.8167],
     description: {
       de: "Jeröö ist bekannt für seinen Bergbau und seine unberührte Natur im Norden der Mongolei. Die Stadt liegt am gleichnamigen Fluss in der Selenge-Provinz.",
       hu: "Jerő a bányászatáról és érintetlen természetéről ismert Észak-Mongóliában. A város az azonos nevű folyó mentén fekszik Szelenge tartományban.",
@@ -2104,7 +2104,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-khalkhgol-town-cities-v2",
     type: "town",
     name: { de: "Chalkhgol", hu: "Halhingol", ro: "Khalkhgol", en: "Khalkhgol" },
-    coordinates: { lat: 47.6258, lng: 118.6158 },
+    coords: [118.6158, 47.6258],
     description: {
       de: "Chalkhgol ist eine abgelegene Stadt im äußersten Osten der Mongolei. Sie ist historisch bedeutsam durch die Schlachten am Chalkhin Gol im Jahr 1939.",
       hu: "Halhingol egy távoli város Mongólia legkeletibb részén. Történelmileg az 1939-es halhingoli csaták helyszíneként jelentős.",
@@ -2123,7 +2123,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-matad-cities-v2",
     type: "town",
     name: { de: "Matad", hu: "Matad", ro: "Matad", en: "Matad" },
-    coordinates: { lat: 47.1653, lng: 115.6531 },
+    coords: [115.6531, 47.1653],
     description: {
       de: "Matad ist ein Zentrum der Erdölförderung im Osten der Mongolei. Die Stadt liegt in einer weiten Steppe, die von nomadischen Hirten und Industrie geprägt ist.",
       hu: "Matad az olajkitermelés központja Kelet-Mongóliában. A város egy tágas sztyeppén fekszik, amelyet a nomád pásztorok és az ipar határoz meg.",
@@ -2142,7 +2142,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-gurvantes-cities-v2",
     type: "town",
     name: { de: "Gurwantes", hu: "Gurvantesz", ro: "Gurvantes", en: "Gurvantes" },
-    coordinates: { lat: 43.2358, lng: 101.0503 },
+    coords: [101.0503, 43.2358],
     description: {
       de: "Gurwantes ist eine Bergbaustadt in der südwestlichen Gobi. Sie ist bekannt für ihre großen Kohlevorkommen und die Nähe zu paläontologischen Fundstätten.",
       hu: "Gurvantesz egy bányászváros a délnyugati Góbiban. Híres a jelentős szénlelőhelyeiről és a közeli őslénytani lelőhelyekről.",
@@ -2161,7 +2161,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-zuunbayan-cities-v2",
     type: "town",
     name: { de: "Süünbayan", hu: "Dzűnbajan", ro: "Zuunbayan", en: "Zuunbayan" },
-    coordinates: { lat: 44.5358, lng: 110.0383 },
+    coords: [110.0383, 44.5358],
     description: {
       de: "Süünbayan ist eine Siedlung in der Wüste Gobi, die für ihre Erdölvorkommen bekannt ist. Sie liegt strategisch günstig an einer neuen Eisenbahnlinie.",
       hu: "Dzűnbajan egy település a Góbi-sivatagban, amely olajlelőhelyeiről ismert. Stratégiailag egy új vasútvonal mentén fekszik.",
@@ -2180,7 +2180,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-airag-cities-v2",
     type: "town",
     name: { de: "Airag", hu: "Ajrag", ro: "Airag", en: "Airag" },
-    coordinates: { lat: 45.4858, lng: 109.3253 },
+    coords: [109.3253, 45.4858],
     description: {
       de: "Airag ist ein wichtiger Eisenbahnknotenpunkt an der Transmongolischen Eisenbahn. Die Stadt ist zudem für ihren Bergbau auf Flussspat bekannt.",
       hu: "Ajrag egy fontos vasúti csomópont a Transzmongol vasútvonalon. A város ezen kívül fluoritbányászatáról is nevezetes.",
@@ -2199,7 +2199,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-shivee-ovoo-cities-v2",
     type: "town",
     name: { de: "Schivee-Ovoo", hu: "Sive-Óvó", ro: "Shivee-Ovoo", en: "Shivee-Ovoo" },
-    coordinates: { lat: 46.3458, lng: 108.4917 },
+    coords: [108.4917, 46.3458],
     description: {
       de: "Schivee-Ovoo ist eine Bergbaustadt, die ein großes Braunkohlebergwerk betreibt. Sie liegt an der Eisenbahnlinie zwischen Ulaanbaatar und Peking.",
       hu: "Sive-Óvó egy bányászváros, amely egy nagy barnaszénbányát üzemeltet. Az Ulánbátor és Peking közötti vasútvonal mentén fekszik.",
@@ -2218,7 +2218,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-bayanchandmani-cities-v2",
     type: "town",
     name: { de: "Bayanchandmani", hu: "Bajancsandmani", ro: "Bayanchandmani", en: "Bayanchandmani" },
-    coordinates: { lat: 48.1817, lng: 106.2753 },
+    coords: [106.2753, 48.1817],
     description: {
       de: "Bayanchandmani ist ein wichtiges landwirtschaftliches Zentrum unweit der Hauptstadt Ulaanbaatar. Es ist besonders für seine Gemüseproduktion bekannt.",
       hu: "Bajancsandmani egy fontos mezőgazdasági központ nem messze a fővárostól, Ulánbátortól. Különösen a zöldségtermesztéséről híres.",
@@ -2237,7 +2237,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-batsumber-cities-v2",
     type: "town",
     name: { de: "Batsümber", hu: "Bacümber", ro: "Batsumber", en: "Batsumber" },
-    coordinates: { lat: 48.4558, lng: 106.7553 },
+    coords: [106.7553, 48.4558],
     description: {
       de: "Batsümber ist ein bekanntes Zentrum für Milchwirtschaft und Imkerei in der Zentralmongolei. Es liegt in einem fruchtbaren Tal nördlich von Ulaanbaatar.",
       hu: "Bacümber a tejtermelés és a méhészet egyik központja Közép-Mongóliában. Egy termékeny völgyben fekszik Ulánbátortól északra.",
@@ -2256,7 +2256,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-tsagaan-ovoo-cities-v2",
     type: "town",
     name: { de: "Tsagaan-Ovoo", hu: "Cagán-Óvó", ro: "Tsagaan-Ovoo", en: "Tsagaan-Ovoo" },
-    coordinates: { lat: 48.4528, lng: 113.1758 },
+    coords: [113.1758, 48.4528],
     description: {
       de: "Tsagaan-Ovoo ist ein Sum-Zentrum in der Provinz Dornod, bekannt für seine weiten Grasflächen. Die Region ist ein Herzstück der östlichen mongolischen Steppe.",
       hu: "Cagán-Óvó egy járási központ Dornod tartományban, amely hatalmas füves pusztáiról ismert. A régió a kelet-mongol sztyeppe szíve.",
@@ -2275,7 +2275,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-bayan-ovoo-khentii-cities-v2",
     type: "town",
     name: { de: "Bayan-Ovoo", hu: "Bajan-Óvó", ro: "Bayan-Ovoo", en: "Bayan-Ovoo" },
-    coordinates: { lat: 47.7817, lng: 112.1453 },
+    coords: [112.1453, 47.7817],
     description: {
       de: "Bayan-Ovoo in der Provinz Chentii ist eine Steppensiedlung mit reicher Geschichte. Die Stadt liegt in einem Gebiet mit bedeutenden Mineralvorkommen.",
       hu: "Bajan-Óvó Khentii tartományban egy gazdag történelmű sztyeppei település. A város jelentős ásványkincs-lelőhelyek közelében fekszik.",
@@ -2294,7 +2294,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-tsagaan-uul-cities-v2",
     type: "town",
     name: { de: "Tsagaan-Uul", hu: "Cagán-Úl", ro: "Tsagaan-Uul", en: "Tsagaan-Uul" },
-    coordinates: { lat: 49.4658, lng: 98.7917 },
+    coords: [98.7917, 49.4658],
     description: {
       de: "Tsagaan-Uul ist ein bevölkerungsreiches Sum-Zentrum im Westen der Provinz Khövsgöl. Es ist ein wichtiger Handelsplatz für die umliegenden Nomaden.",
       hu: "Cagán-Úl egy népes járási központ Hövszgöl tartomány nyugati részén. Fontos kereskedelmi központ a környékbeli nomádok számára.",
@@ -2313,7 +2313,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-renchinlkhumbe-cities-v2",
     type: "town",
     name: { de: "Rentschinlchümbe", hu: "Rencsinlhümbé", ro: "Renchinlkhumbe", en: "Renchinlkhumbe" },
-    coordinates: { lat: 51.1328, lng: 99.6822 },
+    coords: [99.6822, 51.1328],
     description: {
       de: "Rentschinlchümbe ist das Zentrum des abgelegenen Darchad-Tals. Die Stadt ist für ihre extreme Kälte im Winter und ihre einzigartige Kultur bekannt.",
       hu: "Rencsinlhümbé a távoli Darhad-völgy központja. A város a téli extrém hidegről és egyedülálló helyi kultúrájáról ismert.",
@@ -2332,7 +2332,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     id: "mongolia-ikh-uul-cities-v2",
     type: "town",
     name: { de: "Ich-Uul", hu: "Ih-Úl", ro: "Ikh-Uul", en: "Ikh-Uul" },
-    coordinates: { lat: 48.7258, lng: 98.8117 },
+    coords: [98.8117, 48.7258],
     description: {
       de: "Ich-Uul ist ein wichtiges regionales Zentrum in der Provinz Sawchan. Es liegt am Fuße hoher Berge und ist ein Knotenpunkt für den Viehhandel.",
       hu: "Ih-Úl egy fontos regionális központ Dzavhan tartományban. Magas hegyek lábánál fekszik, és az állatkereskedelem egyik csomópontja.",

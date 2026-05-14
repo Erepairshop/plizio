@@ -547,7 +547,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Milet", hu: "Míletoszt", ro: "Milet", en: "Miletus" },
-    coordinates: { lat: 37.5311, lng: 27.2789 },
+    coords: [27.2789, 37.5311],
     description: {
       de: "Milet war eine bedeutende antike griechische Stadt an der Westküste Anatoliens. Sie galt als Geburtsort der ionischen Philosophie und Wissenschaft.",
       hu: "Míletoszt az ókori Görögország egyik legfontosabb városa volt Anatólia nyugati partján. A ión filozófia és tudomány bölcsőjeként ismert.",
@@ -567,7 +567,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Didyma", hu: "Didüma", ro: "Didyma", en: "Didyma" },
-    coordinates: { lat: 37.385, lng: 27.2564 },
+    coords: [27.2564, 37.385],
     description: {
       de: "Didyma war ein antikes Heiligtum mit einem monumentalen Orakeltempel des Apollon. Er gehörte zu den größten Sakralbauten der griechischen Welt.",
       hu: "Didüma egy ókori szentély volt, ahol Apollón monumentális jóstemploma állt. A görög világ egyik legnagyobb vallási építménye volt.",
@@ -587,7 +587,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Priene", hu: "Priéné", ro: "Priene", en: "Priene" },
-    coordinates: { lat: 37.6592, lng: 27.2975 },
+    coords: [27.2975, 37.6592],
     description: {
       de: "Priene ist eine antike griechische Stadt, die nach dem hippodamischen Rastersystem geplant wurde. Sie liegt am Fuße des Mykale-Gebirges.",
       hu: "Priéné egy ókori görög város, amelyet a hippodamoszi négyzethálós rendszer szerint terveztek. A Mükalé-hegy lábánál fekszik.",
@@ -607,7 +607,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Sardes", hu: "Szardeisz", ro: "Sardes", en: "Sardis" },
-    coordinates: { lat: 38.4883, lng: 28.0403 },
+    coords: [28.0403, 38.4883],
     description: {
       de: "Sardes war die Hauptstadt des antiken Königreichs Lydien und Sitz des legendären Königs Krösus. Hier wurde das erste Münzgeld der Welt geprägt.",
       hu: "Szardeisz az ókori Lüd Királyság fővárosa és a legendás Kroiszosz király székhelye volt. Itt verték a világ első érméit.",
@@ -627,7 +627,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Knidos", hu: "Knidosz", ro: "Knidos", en: "Knidos" },
-    coordinates: { lat: 36.6858, lng: 27.3736 },
+    coords: [27.3736, 36.6858],
     description: {
       de: "Knidos war eine antike griechische Hafenstadt an der Spitze der Datça-Halbinsel. Sie war berühmt für die Statue der Aphrodite von Praxiteles.",
       hu: "Knidosz ókori görög kikötőváros volt a Datça-félsziget csúcsán. Praxitelész Aphrodité-szobráról volt híres.",
@@ -647,7 +647,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Xanthos", hu: "Xanthosz", ro: "Xanthos", en: "Xanthos" },
-    coordinates: { lat: 36.3561, lng: 29.3183 },
+    coords: [29.3183, 36.3561],
     description: {
       de: "Xanthos war die Hauptstadt des Lykischen Bundes und gehört zum UNESCO-Welterbe. Die Stadt ist bekannt für ihre einzigartigen Pfeilergräber.",
       hu: "Xanthosz a Lük Szövetség fővárosa volt, és az UNESCO Világörökség része. A város egyedülálló pillérsírjairól ismert.",
@@ -667,7 +667,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Letoon", hu: "Letóón", ro: "Letoon", en: "Letoon" },
-    coordinates: { lat: 36.3319, lng: 29.2902 },
+    coords: [29.2902, 36.3319],
     description: {
       de: "Letoon war das religiöse Zentrum Lykiens und den Gottheiten Leto, Artemis und Apollon geweiht. Es bildet mit Xanthos ein UNESCO-Welterbe.",
       hu: "Letóón Lükia vallási központja volt, Letó, Artemisz és Apollón istenségeknek szentelve. Xanthosszal együtt UNESCO Világörökség.",
@@ -687,7 +687,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Patara", hu: "Patara", ro: "Patara", en: "Patara" },
-    coordinates: { lat: 36.259, lng: 29.313 },
+    coords: [29.313, 36.259],
     description: {
       de: "Patara war eine bedeutende lykische Hafenstadt und Sitz des Lykischen Bundes. Sie ist auch als Geburtsort des Heiligen Nikolaus bekannt.",
       hu: "Patara jelentős lük kikötőváros és a Lük Szövetség székhelye volt. Szent Miklós szülőhelyeként is ismert.",
@@ -707,7 +707,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Phaselis", hu: "Phaszelisz", ro: "Phaselis", en: "Phaselis" },
-    coordinates: { lat: 36.524, lng: 30.552 },
+    coords: [30.552, 36.524],
     description: {
       de: "Phaselis war eine antike griechische und römische Stadt an der Küste Lykiens. Sie besaß drei Häfen und war ein Zentrum für den Rosenölhandel.",
       hu: "Phaszelisz ókori görög és római város volt Lükia partjainál. Három kikötővel rendelkezett, és a rózsaolaj-kereskedelem központja volt.",
@@ -727,7 +727,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Sagalassos", hu: "Szagalasszosz", ro: "Sagalassos", en: "Sagalassos" },
-    coordinates: { lat: 37.677, lng: 30.519 },
+    coords: [30.519, 37.677],
     description: {
       de: "Sagalassos ist eine hochgelegene antike Stadt im Taurusgebirge. Sie war die wichtigste Stadt der antiken Region Pisidien.",
       hu: "Szagalasszosz egy magasan fekvő ókori város a Torosz-hegységben. Az ókori Pizídia régió legfontosabb városa volt.",
@@ -747,7 +747,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Alacahöyük", hu: "Alacahöyük", ro: "Alacahöyük", en: "Alacahöyük" },
-    coordinates: { lat: 40.234, lng: 34.698 },
+    coords: [34.698, 40.234],
     description: {
       de: "Alacahöyük ist eine bedeutende archäologische Stätte, die bis in die Kupferzeit zurückreicht. Sie war ein wichtiges religiöses Zentrum der Hethiter.",
       hu: "Alacahöyük jelentős régészeti lelőhely, amely a rézkorig nyúlik vissza. A hettiták fontos vallási központja volt.",
@@ -767,7 +767,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Kültepe", hu: "Kültepe", ro: "Kültepe", en: "Kültepe" },
-    coordinates: { lat: 38.851, lng: 35.638 },
+    coords: [35.638, 38.851],
     description: {
       de: "Kültepe, das antike Kaneš, war ein bedeutendes Handelszentrum und Sitz einer assyrischen Handelskolonie. Hier wurden die ältesten Schriftdokumente Anatoliens gefunden.",
       hu: "Kültepe, az ókori Kanis, jelentős kereskedelmi központ és egy asszír kereskedőkolónia székhelye volt. Itt találták Anatólia legősibb írásos emlékeit.",
@@ -787,7 +787,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Gordion", hu: "Gordion", ro: "Gordion", en: "Gordion" },
-    coordinates: { lat: 39.651, lng: 32.332 },
+    coords: [32.332, 39.651],
     description: {
       de: "Gordion war die Hauptstadt des antiken Phrygiens und Schauplatz der Legende um den Gordischen Knoten. Sie liegt am Fluss Sakarya.",
       hu: "Gordion az ókori Phrügia fővárosa és a gordiuszi csomó legendájának helyszíne volt. A Szakarya-folyó mentén fekszik.",
@@ -807,7 +807,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Aizanoi", hu: "Aizanoi", ro: "Aizanoi", en: "Aizanoi" },
-    coordinates: { lat: 39.201, lng: 29.611 },
+    coords: [29.611, 39.201],
     description: {
       de: "Aizanoi war eine bedeutende antike Stadt in Phrygien, bekannt für ihren außergewöhnlich gut erhaltenen Zeus-Tempel. Sie war ein wichtiges religiöses und wirtschaftliches Zentrum.",
       hu: "Aizanoi Phrügia jelentős ókori városa volt, amely kivételesen jó állapotban fennmaradt Zeusz-templomáról híres. Fontos vallási és gazdasági központ volt.",
@@ -827,7 +827,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Kaunos", hu: "Kaunosz", ro: "Kaunos", en: "Kaunos" },
-    coordinates: { lat: 36.825, lng: 28.621 },
+    coords: [28.621, 36.825],
     description: {
       de: "Kaunos war eine antike krische Hafenstadt, die für ihre spektakulären lykischen Felsengräber bekannt ist. Sie liegt gegenüber von Dalyan.",
       hu: "Kaunosz ókori káriai kikötőváros volt, amely látványos lük típusú sziklasírjairól ismert. Dalyannal szemben fekszik.",
@@ -847,7 +847,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Stratonikeia", hu: "Sztratonikeia", ro: "Stratonikeia", en: "Stratonikeia" },
-    coordinates: { lat: 37.311, lng: 28.065 },
+    coords: [28.065, 37.311],
     description: {
       de: "Stratonikeia ist eine antike Stadt in Karien, die als eine der größten Marmorstädte der Welt gilt. Sie zeigt Siedlungsspuren aus vielen Epochen.",
       hu: "Sztratonikeia egy ókori káriai város, amelyet a világ egyik legnagyobb márványvárosaként tartanak számon. Számos korszak településnyomait őrzi.",
@@ -867,7 +867,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Euromos", hu: "Euromosz", ro: "Euromos", en: "Euromos" },
-    coordinates: { lat: 37.375, lng: 27.751 },
+    coords: [27.751, 37.375],
     description: {
       de: "Euromos ist eine antike Stadt in Karien, die vor allem für ihren außergewöhnlich gut erhaltenen Zeustempel bekannt ist. Er gehört zu den am besten bewahrten Tempeln Anatoliens.",
       hu: "Euromosz ókori káriai város, amely leginkább kivételesen jó állapotú Zeusz-templomáról ismert. Ez Anatólia egyik legjobb állapotban maradt temploma.",
@@ -887,7 +887,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Assos", hu: "Asszosz", ro: "Assos", en: "Assos" },
-    coordinates: { lat: 39.491, lng: 26.336 },
+    coords: [26.336, 39.491],
     description: {
       de: "Assos ist eine antike Stadt an der Ägäisküste, die auf einem Vulkankegel erbaut wurde. Sie ist berühmt für ihren Athena-Tempel mit Blick auf die Insel Lesbos.",
       hu: "Asszosz az Égei-tenger partján, egy vulkáni kúpon épült ókori város. Híres Athéna-templomáról, amely Leszbosz szigetére néz.",
@@ -907,7 +907,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Alexandria Troas", hu: "Alexandria Troasz", ro: "Alexandria Troas", en: "Alexandria Troas" },
-    coordinates: { lat: 39.752, lng: 26.161 },
+    coords: [26.161, 39.752],
     description: {
       de: "Alexandria Troas war eine bedeutende antike Hafenstadt in der Troas. Sie wurde von Antigonos I. Monophthalmos gegründet und später nach Alexander benannt.",
       hu: "Alexandria Troasz jelentős ókori kikötőváros volt Troasz régiójában. I. Antigonosz alapította, majd később Sándorról nevezték el.",
@@ -927,7 +927,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Magnesia am Mäander", hu: "Magnészia a Meandernél", ro: "Magnesia pe Meandru", en: "Magnesia on the Maeander" },
-    coordinates: { lat: 37.852, lng: 27.525 },
+    coords: [27.525, 37.852],
     description: {
       de: "Magnesia am Mäander war eine antike Stadt in Ionien, die für ihren prachtvollen Tempel der Artemis Leukophryne berühmt war. Sie war ein bedeutendes kulturelles Zentrum.",
       hu: "Magnészia a Meandernél jelentős ión város volt, amely az Artemisz Leukophrynének szentelt pompás templomáról volt híres. Fontos kulturális központ volt.",
@@ -947,7 +947,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Herakleia am Latmos", hu: "Hérakleia a Latmosznál", ro: "Herakleia sub Latmos", en: "Herakleia under Latmos" },
-    coordinates: { lat: 37.502, lng: 27.532 },
+    coords: [27.532, 37.502],
     description: {
       de: "Herakleia am Latmos ist eine antike Stadt am Bafa-See, eingebettet in eine bizarre Felslandschaft. Sie ist eng mit dem Mythos von Endymion verbunden.",
       hu: "Hérakleia a Latmosznál egy ókori város a Bafa-tó partján, bizarr sziklaalakzatok között. Szorosan kapcsolódik Endümion mítoszához.",
@@ -967,7 +967,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Alinda", hu: "Alinda", ro: "Alinda", en: "Alinda" },
-    coordinates: { lat: 37.561, lng: 27.825 },
+    coords: [27.825, 37.561],
     description: {
       de: "Alinda war eine bedeutende antike Stadt in Karien und die Residenz der krischen Königin Ada. Sie liegt spektakulär auf einem Hügel über der Ebene von Karpuzlu.",
       hu: "Alinda jelentős ókori káriai város és Ada káriai királynő rezidenciája volt. Látványos helyen, a Karpuzlu-síkság feletti dombon fekszik.",
@@ -987,7 +987,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "village",
     parent: "TR",
     name: { de: "Kayaköy", hu: "Kayaköy", ro: "Kayaköy", en: "Kayaköy" },
-    coordinates: { lat: 36.575, lng: 29.088 },
+    coords: [29.088, 36.575],
     description: {
       de: "Kayaköy ist ein Geisterdorf in der Nähe von Fethiye, das nach dem Bevölkerungsaustausch von 1923 verlassen wurde. Es besteht aus Hunderten von verlassenen Steinhäusern.",
       hu: "Kayaköy egy kísértetfalu Fethiye közelében, amely az 1923-as lakosságcsere után néptelenedett el. Több száz elhagyatott kőházból áll.",
@@ -1007,7 +1007,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Rumkale", hu: "Rumkale", ro: "Rumkale", en: "Rumkale" },
-    coordinates: { lat: 37.271, lng: 37.838 },
+    coords: [37.838, 37.271],
     description: {
       de: "Rumkale ist eine imposante Festung auf einer Halbinsel am Euphrat. Sie war im Mittelalter ein strategisch wichtiger Außenposten und religiöses Zentrum.",
       hu: "Rumkale egy impozáns erőd az Eufrátesz egyik félszigetén. A középkorban stratégiailag fontos helyőrség és vallási központ volt.",
@@ -1027,7 +1027,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "palace",
     parent: "TR",
     name: { de: "Ishak-Pascha-Palast", hu: "Iszhák pasa palotája", ro: "Palatul Ishak Pașa", en: "Ishak Pasha Palace" },
-    coordinates: { lat: 39.451, lng: 44.131 },
+    coords: [44.131, 39.451],
     description: {
       de: "Der Ishak-Pascha-Palast ist ein prächtiges Bauwerk aus der osmanischen Zeit nahe Doğubayazıt. Er vereint osmanische, persische und armenische Architekturstile.",
       hu: "Az Iszhák pasa palotája egy pompás oszmán kori építmény Doğubayazıt közelében. Oszmán, perzsa és örmény stílusokat ötvöz.",
@@ -1047,7 +1047,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Hasankeyf", hu: "Hasankeyf", ro: "Hasankeyf", en: "Hasankeyf" },
-    coordinates: { lat: 37.712, lng: 41.411 },
+    coords: [41.411, 37.712],
     description: {
       de: "Hasankeyf ist eine antike Siedlung am Tigris mit einer Geschichte von über 10.000 Jahren. Sie war ein Zentrum verschiedener Reiche wie der Artukiden.",
       hu: "Hasankeyf egy ősi település a Tigris partján, több mint 10 000 éves történelemmel. Különböző birodalmak, például az artukidák központja volt.",
@@ -1067,7 +1067,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Harran (Altstadt)", hu: "Harrani romváros", ro: "Ruinele Harran", en: "Harran Ancient City" },
-    coordinates: { lat: 36.861, lng: 39.031 },
+    coords: [39.031, 36.861],
     description: {
       de: "Harran ist eine der ältesten kontinuierlich bewohnten Städte der Welt. Sie war ein bedeutendes Zentrum für Astronomie und Sitz der ersten islamischen Universität.",
       hu: "Harran a világ egyik legrégebbi, folyamatosan lakott városa. Fontos csillagászati központ és az első iszlám egyetem székhelye volt.",
@@ -1087,7 +1087,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "church",
     parent: "TR",
     name: { de: "Akdamar-Kirche", hu: "Akdamar-templom", ro: "Biserica Akdamar", en: "Akdamar Holy Cross Church" },
-    coordinates: { lat: 38.342, lng: 43.036 },
+    coords: [43.036, 38.342],
     description: {
       de: "Die armenische Heilig-Kreuz-Kirche liegt auf der Insel Akdamar im Van-See. Sie ist berühmt für ihre reichen Steinreliefs mit biblischen Szenen.",
       hu: "Az örmény Szent Kereszt-templom az Akdamar-szigeten található a Van-tóban. Bibliai jeleneteket ábrázoló kődomborműveiről híres.",
@@ -1107,7 +1107,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Selimiye-Moschee", hu: "Szelim-mecset", ro: "Moscheea Selimiye", en: "Selimiye Mosque" },
-    coordinates: { lat: 41.678, lng: 26.559 },
+    coords: [26.559, 41.678],
     description: {
       de: "Die Selimiye-Moschee in Edirne ist das Meisterwerk des Architekten Mimar Sinan. Sie gehört seit 2011 zum UNESCO-Welterbe.",
       hu: "Az edirnei Szelim-mecset Mimar Sinan építész mesterműve. 2011 óta az UNESCO Világörökség része.",
@@ -1127,7 +1127,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Burg von Alanya", hu: "Alanyai vár", ro: "Castelul Alanya", en: "Alanya Castle" },
-    coordinates: { lat: 36.533, lng: 31.991 },
+    coords: [31.991, 36.533],
     description: {
       de: "Die Burg von Alanya ist eine mittelalterliche Festung auf einer felsigen Halbinsel. Sie wurde größtenteils im 13. Jahrhundert unter den Seldschuken erbaut.",
       hu: "Az alanyai vár egy középkori erőd egy sziklás félszigeten. Legnagyobb részét a 13. században építették a szeldzsukok alatt.",
@@ -1147,7 +1147,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Mamure-Burg", hu: "Mamure vára", ro: "Castelul Mamure", en: "Mamure Castle" },
-    coordinates: { lat: 36.081, lng: 32.895 },
+    coords: [32.895, 36.081],
     description: {
       de: "Die Mamure-Burg ist eine außergewöhnlich gut erhaltene mittelalterliche Festung direkt am Mittelmeer. Sie diente zum Schutz gegen Piraten.",
       hu: "A Mamure vára egy kivételesen jó állapotban fennmaradt középkori erőd közvetlenül a Földközi-tenger partján. Kalózok elleni védelemre szolgált.",
@@ -1167,7 +1167,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Kızkalesi (Mädchenburg)", hu: "Leányvár (Kızkalesi)", ro: "Kızkalesi (Castelul Fetei)", en: "Kizkalesi Castle" },
-    coordinates: { lat: 36.463, lng: 34.148 },
+    coords: [34.148, 36.463],
     description: {
       de: "Kızkalesi ist eine berühmte Festung, die auf einer kleinen Insel vor der Küste von Mersin liegt. Sie ist das Wahrzeichen der Region Cilicia.",
       hu: "Kızkalesi egy híres erőd, amely egy kis szigeten fekszik Mersin partjainál. Kilikia régió egyik legismertebb jelképe.",
@@ -1187,7 +1187,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Stadtmauern von Diyarbakır", hu: "Diyarbakıri várfalak", ro: "Zidurile din Diyarbakır", en: "Walls of Diyarbakır" },
-    coordinates: { lat: 37.913, lng: 40.237 },
+    coords: [40.237, 37.913],
     description: {
       de: "Die Stadtmauern von Diyarbakır gehören zu den längsten und besterhaltenen antiken Verteidigungsanlagen der Welt. Sie bestehen aus schwarzem Basalt.",
       hu: "A diyarbakıri várfalak a világ leghosszabb és legjobb állapotban fennmaradt ókori védművei közé tartoznak. Fekete bazaltból készültek.",
@@ -1207,7 +1207,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "monument",
     parent: "TR",
     name: { de: "Sultan Han", hu: "Sultan Han", ro: "Sultan Han", en: "Sultan Han" },
-    coordinates: { lat: 38.248, lng: 33.547 },
+    coords: [33.547, 38.248],
     description: {
       de: "Sultan Han ist eine monumentale seldschukische Karawanserei an der historischen Seidenstraße. Sie gilt als eines der besten Beispiele seldschukischer Architektur.",
       hu: "Sultan Han egy monumentális szeldzsuk karavánszeráj a történelmi selyemúton. A szeldzsuk építészet egyik legszebb példájának tartják.",
@@ -1227,7 +1227,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Ince-Minareli-Medrese", hu: "Ince Minareli medresze", ro: "Medresa Ince Minareli", en: "Ince Minareli Medrese" },
-    coordinates: { lat: 37.872, lng: 32.489 },
+    coords: [32.489, 37.872],
     description: {
       de: "Die Ince-Minareli-Medrese ist eine ehemalige islamische Hochschule in Konya. Sie ist berühmt für ihr prachtvoll verziertes Portal und ihr schlankes Minarett.",
       hu: "Az Ince Minareli medresze egy egykori iszlám főiskola Konyában. Pompásan díszített kapujáról és karcsú minaretjéről híres.",
@@ -1247,7 +1247,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Große Moschee von Divriği", hu: "Divriği nagymecset", ro: "Marea Moschee din Divriği", en: "Divrigi Great Mosque" },
-    coordinates: { lat: 39.373, lng: 38.123 },
+    coords: [38.123, 39.373],
     description: {
       de: "Die Große Moschee und das Krankenhaus von Divriği sind ein architektonisches Wunderwerk aus dem 13. Jahrhundert. Sie sind bekannt für ihre unglaublichen Steinmetzarbeiten.",
       hu: "A divriği nagymecset és kórház a 13. századi építészet egyik csodája. Hihetetlen kőfaragványairól ismert.",
@@ -1267,7 +1267,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "monument",
     parent: "TR",
     name: { de: "Seldschukenfriedhof von Ahlat", hu: "Ahlati szeldzsuk temető", ro: "Cimitirul selgiucid din Ahlat", en: "Ahlat Seljuk Cemetery" },
-    coordinates: { lat: 38.747, lng: 42.493 },
+    coords: [42.493, 38.747],
     description: {
       de: "Der Seldschukenfriedhof von Ahlat beherbergt Tausende von monumentalen mittelalterlichen Grabsteinen. Er wird oft als 'muslimisches Orkhon-Tal' bezeichnet.",
       hu: "Az ahlati szeldzsuk temető több ezer monumentális középkori sírkövet foglal magában. Gyakran 'muszlim Orhon-völgynek' nevezik.",
@@ -1287,7 +1287,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Perge", hu: "Pergé", ro: "Perge", en: "Perge" },
-    coordinates: { lat: 36.961, lng: 30.852 },
+    coords: [30.852, 36.961],
     description: {
       de: "Perge war eine bedeutende antike Stadt in Pamphylien und einst die Hauptstadt der Region. Sie ist berühmt für ihr monumentales Stadttor und ihre Säulenstraßen.",
       hu: "Pergé Pamphülia jelentős ókori városa és egykor a régió fővárosa volt. Monumentális városkapujáról és oszlopos utcáiról híres.",
@@ -1307,7 +1307,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Antikes Side", hu: "Ókori Side", ro: "Side Antic", en: "Side Ancient City" },
-    coordinates: { lat: 36.768, lng: 31.391 },
+    coords: [31.391, 36.768],
     description: {
       de: "Side war eine bedeutende antike Hafenstadt in Pamphylien. Sie ist heute bekannt für die Kombination aus modernen Urlaubsort und spektakulären Ruinen direkt am Meer.",
       hu: "Side jelentős ókori kikötőváros volt Pamphüliában. Ma a modern üdülőhely és a közvetlenül a tengerparton fekvő látványos romok ötvözetéről ismert.",
@@ -1327,7 +1327,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Olympos", hu: "Olümposz", ro: "Olympos", en: "Olympos" },
-    coordinates: { lat: 36.395, lng: 30.473 },
+    coords: [30.473, 36.395],
     description: {
       de: "Olympos war eine antike Stadt in Lykien, die malerisch in einem bewaldeten Tal direkt an der Küste liegt. Sie war Mitglied des Lykischen Bundes.",
       hu: "Olümposz ókori lük város volt, amely festői helyen, egy erdős völgyben, közvetlenül a tengerparton fekszik. A Lük Szövetség tagja volt.",
@@ -1347,7 +1347,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Tlos", hu: "Tlosz", ro: "Tlos", en: "Tlos" },
-    coordinates: { lat: 36.554, lng: 29.421 },
+    coords: [29.421, 36.554],
     description: {
       de: "Tlos war eine der sechs wichtigsten Städte des Lykischen Bundes und gilt als eine der ältesten Siedlungen Lykiens. Sie thront auf einem markanten Akropolishügel.",
       hu: "Tlosz a Lük Szövetség hat legfontosabb városának egyike, és Lükia egyik legősibb települése. Egy markáns akropolisz-dombon trónol.",
@@ -1367,7 +1367,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Pinara", hu: "Pinara", ro: "Pinara", en: "Pinara" },
-    coordinates: { lat: 36.488, lng: 29.259 },
+    coords: [29.259, 36.488],
     description: {
       de: "Pinara war eine bedeutende lykische Stadt am Fuße des Berges Babadağ. Sie ist bekannt für ihre Hunderte von Felsengräbern, die in eine steile Klippe gehauen wurden.",
       hu: "Pinara jelentős lük város volt a Babadağ-hegy lábánál. Ismert a meredek sziklafalba vájt több száz sziklasírjáról.",
@@ -1387,7 +1387,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "village",
     parent: "TR",
     name: { de: "Simena (Kaleköy)", hu: "Sziména (Kaleköy)", ro: "Simena (Kaleköy)", en: "Simena (Kaleköy)" },
-    coordinates: { lat: 36.191, lng: 29.862 },
+    coords: [29.862, 36.191],
     description: {
       de: "Simena ist ein malerisches Dorf an der lykischen Küste, das nur per Boot erreichbar ist. Es ist bekannt für seine versunkene Stadt und die lykischen Sarkophage im Wasser.",
       hu: "Sziména festői falu a lük tengerparton, amely csak hajóval érhető el. Ismert a süllyedt városáról és a vízben álló lük szarkofágokról.",
@@ -1407,7 +1407,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Blaundos", hu: "Blaundosz", ro: "Blaundos", en: "Blaundos" },
-    coordinates: { lat: 38.356, lng: 29.248 },
+    coords: [29.248, 38.356],
     description: {
       de: "Blaundos war eine antike Stadt auf einer Halbinsel, die von tiefen Schluchten umgeben ist. Sie wurde von mazedonischen Soldaten nach den Feldzügen Alexanders gegründet.",
       hu: "Blaundosz egy mély szurdokokkal körülvett félszigeten fekvő ókori város volt. Macedón katonák alapították Nagy Sándor hadjáratai után.",
@@ -1427,7 +1427,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Kibyra", hu: "Kibüra", ro: "Kibyra", en: "Kibyra" },
-    coordinates: { lat: 37.155, lng: 29.492 },
+    coords: [29.492, 37.155],
     description: {
       de: "Kibyra war eine antike Stadt in der Region Phrygien, bekannt für ihre Krieger und ihre Eisenverarbeitung. Sie beherbergt ein weltweit einzigartiges Medusa-Mosaik.",
       hu: "Kibüra ókori város volt Phrügia régiójában, amely harcosairól és vasmegmunkálásáról volt híres. Itt található egy világszerte egyedülálló Medusza-mozaik.",
@@ -1447,7 +1447,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Laodikeia am Lykos", hu: "Laodikeia", ro: "Laodicea de pe Lycus", en: "Laodicea" },
-    coordinates: { lat: 37.835, lng: 29.108 },
+    coords: [29.108, 37.835],
     description: {
       de: "Laodikeia war eine reiche Handelsstadt in Phrygien und eines der 'Sieben Sendschreiben' der Offenbarung. Sie war berühmt für ihre Textilindustrie und Augensalben.",
       hu: "Laodikeia gazdag kereskedőváros volt Phrügiában, és a Jelenések könyve hét gyülekezetének egyike. Textiliparáról és szemgyógyírjairól volt híres.",
@@ -1467,7 +1467,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Tripolis am Mäander", hu: "Tripolisz a Meandernél", ro: "Tripolis pe Meandru", en: "Tripolis on the Maeander" },
-    coordinates: { lat: 38.055, lng: 28.948 },
+    coords: [28.948, 38.055],
     description: {
       de: "Tripolis war eine antike Stadt an der Grenze zwischen Phrygien, Karien und Lydien. Sie war ein wichtiges Handels- und Landwirtschaftszentrum.",
       hu: "Tripolisz ókori város volt Phrügia, Kária és Lűdia határán. Fontos kereskedelmi és mezőgazdasági központ volt.",
@@ -1487,7 +1487,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Labraunda", hu: "Labraunda", ro: "Labraunda", en: "Labraunda" },
-    coordinates: { lat: 37.418, lng: 27.818 },
+    coords: [27.818, 37.418],
     description: {
       de: "Labraunda war ein heiliger Ort in Karien, der Zeus Stratios geweiht war. Es liegt abgelegen im Gebirge und war das Bergheiligtum der Stadt Mylasa.",
       hu: "Labraunda egy szent hely volt Káriában, Zeusznak szentelve. Elszigetelt helyen, a hegyekben fekszik, és Mülasza városának hegyi szentélye volt.",
@@ -1507,7 +1507,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Herakleia Pontike", hu: "Hérakleia Pontiké", ro: "Heraclea Pontica", en: "Heraclea Pontica" },
-    coordinates: { lat: 41.282, lng: 31.417 },
+    coords: [31.417, 41.282],
     description: {
       de: "Herakleia Pontike war eine bedeutende antike Stadt an der Schwarzmeerküste. Sie ist heute unter der modernen Stadt Ereğli begraben, besitzt aber berühmte Grotten.",
       hu: "Hérakleia Pontiké jelentős ókori város volt a Fekete-tenger partján. Ma a modern Ereğli városa alatt fekszik, de híres barlangokkal rendelkezik.",
@@ -1527,7 +1527,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Anazarbus", hu: "Anazarbosz", ro: "Anazarbus", en: "Anazarbus" },
-    coordinates: { lat: 37.248, lng: 35.897 },
+    coords: [35.897, 37.248],
     description: {
       de: "Anazarbus war eine antike Metropole in Kilikien mit einer massiven Akropolis auf einem steilen Felsen. Sie war zeitweise Hauptstadt der Provinz Cilicia Secunda.",
       hu: "Anazarbosz Kilikia ókori metropolisza volt, egy meredek sziklán álló hatalmas akropolisszal. Egy időben Cilicia Secunda provincia fővárosa volt.",
@@ -1547,7 +1547,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "monument",
     parent: "TR",
     name: { de: "Roter Turm (Alanya)", hu: "Vörös torony (Alanya)", ro: "Turnul Roșu (Alanya)", en: "Red Tower" },
-    coordinates: { lat: 36.536, lng: 32.001 },
+    coords: [32.001, 36.536],
     description: {
       de: "Der Rote Turm ist das Wahrzeichen von Alanya und ein hervorragendes Beispiel seldschukischer Militärarchitektur. Er wurde im 13. Jahrhundert zum Schutz des Hafens erbaut.",
       hu: "A Vörös torony Alanya jelképe és a szeldzsuk katonai építészet kiváló példája. A 13. században épült a kikötő védelmére.",
@@ -1567,7 +1567,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Limyra", hu: "Limüra", ro: "Limyra", en: "Limyra" },
-    coordinates: { lat: 36.342, lng: 30.168 },
+    coords: [30.168, 36.342],
     description: {
       de: "Limyra war eine der ältesten und bedeutendsten Städte Lykiens. Sie liegt am Fuße des Toçak-Berges und ist für ihre zahlreichen Felsengräber bekannt.",
       hu: "Limüra Lükia egyik legrégebbi és legjelentősebb városa volt. A Toçak-hegy lábánál fekszik, és számos sziklasírjáról ismert.",
@@ -1587,7 +1587,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Andriake", hu: "Andriaké", ro: "Andriake", en: "Andriake" },
-    coordinates: { lat: 36.228, lng: 29.948 },
+    coords: [29.948, 36.228],
     description: {
       de: "Andriake war der antike Hafen von Myra und ein wichtiges Zentrum für den Getreidehandel. Heute beherbergt das Gelände das Museum der Lykischen Zivilisationen.",
       hu: "Andriaké Müra ókori kikötője és fontos gabonakereskedelmi központ volt. Ma a terület a Lük Civilizációk Múzeumának ad otthont.",
@@ -1607,7 +1607,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "church",
     parent: "TR",
     name: { de: "St.-Nikolaus-Kirche (Demre)", hu: "Szent Miklós-templom (Demre)", ro: "Biserica Sfântul Nicolae (Demre)", en: "Saint Nicholas Church" },
-    coordinates: { lat: 36.244, lng: 29.985 },
+    coords: [29.985, 36.244],
     description: {
       de: "Die St.-Nikolaus-Kirche in Demre ist der Ort, an dem der Heilige Nikolaus als Bischof wirkte und begraben wurde. Sie ist ein bedeutendes christliches Pilgerziel.",
       hu: "A demrei Szent Miklós-templom az a hely, ahol Szent Miklós püspökként szolgált és ahol eltemették. Fontos keresztény zarándokhely.",
@@ -1627,7 +1627,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Rhodiapolis", hu: "Rhodiapolisz", ro: "Rhodiapolis", en: "Rhodiapolis" },
-    coordinates: { lat: 36.368, lng: 30.265 },
+    coords: [30.265, 36.368],
     description: {
       de: "Rhodiapolis war eine antike Stadt in Lykien, die vermutlich von Kolonisten aus Rhodos gegründet wurde. Sie war die Heimat des berühmten Wohltäters Opramoas.",
       hu: "Rhodiapolisz ókori lük város volt, amelyet valószínűleg rodoszi telepesek alapítottak. Itt élt a híres jótevő, Opramoasz.",
@@ -1647,7 +1647,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "monument",
     parent: "TR",
     name: { de: "Leuchtturm von Patara", hu: "Patarai világítótorony", ro: "Farul din Patara", en: "Patara Lighthouse" },
-    coordinates: { lat: 36.257, lng: 29.308 },
+    coords: [29.308, 36.257],
     description: {
       de: "Der Leuchtturm von Patara gilt als einer der ältesten erhaltenen Leuchttürme der Welt. Er wurde unter Kaiser Nero erbaut und wird derzeit restauriert.",
       hu: "A patarai világítótorony a világ egyik legrégebbi fennmaradt világítótornya. Nero császár idején épült, és jelenleg restaurálás alatt áll.",
@@ -1667,7 +1667,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Soli-Pompeiopolis", hu: "Szoli-Pompeiopolisz", ro: "Soli-Pompeiopolis", en: "Soli-Pompeiopolis" },
-    coordinates: { lat: 36.742, lng: 34.542 },
+    coords: [34.542, 36.742],
     description: {
       de: "Soli-Pompeiopolis war eine antike Stadt in Kilikien, die von Pompeius dem Großen neu gegründet wurde. Sie ist berühmt für ihre prächtige Säulenstraße.",
       hu: "Szoli-Pompeiopolisz Kilikia ókori városa volt, amelyet Pompeius alapított újra. Pompás oszlopos utcájáról híres.",
@@ -1687,7 +1687,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Kanlıdivane", hu: "Kanlıdivane", ro: "Kanlıdivane", en: "Kanlidivane" },
-    coordinates: { lat: 36.525, lng: 34.178 },
+    coords: [34.178, 36.525],
     description: {
       de: "Kanlıdivane ist eine antike Stadt, die um eine natürliche Einsturzdoline (Doline) herum erbaut wurde. Sie liegt in der Region Kilikien.",
       hu: "Kanlıdivane egy ókori város, amely egy hatalmas természetes víznyelő (dolina) köré épült. Kilikia régiójában található.",
@@ -1707,7 +1707,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Uzuncaburç (Olba)", hu: "Uzuncaburç (Olba)", ro: "Uzuncaburç (Olba)", en: "Uzuncaburç (Olba)" },
-    coordinates: { lat: 36.581, lng: 33.925 },
+    coords: [33.925, 36.581],
     description: {
       de: "Uzuncaburç ist eine antike Stadt im Taurusgebirge, die für ihren hohen Turm und den Tempel des Zeus Olbios bekannt ist. Sie war ein religiöses Zentrum.",
       hu: "Uzuncaburç ókori város a Torosz-hegységben, amely magas tornyáról és Olbiosz Zeusz templomáról ismert. Fontos vallási központ volt.",
@@ -1727,7 +1727,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Corycus (Landburg)", hu: "Korykosz (szárazföldi vár)", ro: "Corycus (Castelul de pe uscat)", en: "Corycus Ancient City" },
-    coordinates: { lat: 36.462, lng: 34.144 },
+    coords: [34.144, 36.462],
     description: {
       de: "Corycus war eine bedeutende antike Hafenstadt mit einer massiven Doppelburg-Anlage. Die Landburg steht direkt gegenüber der berühmten Inselburg Kızkalesi.",
       hu: "Korykosz jelentős ókori kikötőváros volt, hatalmas kettős várrendszerrel. A szárazföldi vár közvetlenül a híres Kızkalesi szigetvárral szemben áll.",
@@ -1747,7 +1747,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Karasaray", hu: "Karasaray", ro: "Karasaray", en: "Karasaray" },
-    coordinates: { lat: 37.881, lng: 32.492 },
+    coords: [32.492, 37.881],
     description: {
       de: "Karasaray war die offizielle Residenz und der Palast der seldschukischen Sultane in Konya. Heute sind nur noch geringe Überreste des einst prächtigen Komplexes sichtbar.",
       hu: "Karasaray a szeldzsuk szultánok hivatalos rezidenciája és palotája volt Konyában. Ma már csak kevés maradvány látható az egykor pompás komplexumból.",
@@ -1767,7 +1767,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Eski Gümüşler Kloster", hu: "Eski Gümüşler kolostor", ro: "Mănăstirea Eski Gümüşler", en: "Eski Gümüşler Monastery" },
-    coordinates: { lat: 37.995, lng: 34.721 },
+    coords: [34.721, 37.995],
     description: {
       de: "Das Eski Gümüşler Kloster ist ein beeindruckendes, in den Fels gehauenes byzantinisches Kloster in der Nähe von Niğde. Es ist berühmt für seine 'lächelnde Maria'.",
       hu: "Az Eski Gümüşler kolostor egy lenyűgöző, sziklába vájt bizánci kolostor Niğde közelében. Híres a 'mosolygó Szűz Mária' freskójáról.",
@@ -1787,7 +1787,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Tempel von Blaundos", hu: "Blaundoszi templom", ro: "Templul din Blaundos", en: "Temple of Blaundos" },
-    coordinates: { lat: 38.358, lng: 29.251 },
+    coords: [29.251, 38.358],
     description: {
       de: "Der Tempel von Blaundos war dem römischen Kaiser geweiht und ist das markanteste Gebäude der antiken Stadt. Er steht am Rand einer tiefen Schlucht.",
       hu: "A blaundoszi templomot a római császárnak szentelték, és az ókori város legjelentősebb épülete. Egy mély szurdok szélén áll.",
@@ -1807,7 +1807,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Antikes Stadion von Aizanoi", hu: "Aizanoi stadion", ro: "Stadionul din Aizanoi", en: "Aizanoi Stadium" },
-    coordinates: { lat: 39.205, lng: 29.615 },
+    coords: [29.615, 39.205],
     description: {
       de: "Das Stadion von Aizanoi ist einzigartig, da es direkt an das antike Theater grenzt. Diese Kombination ist in der antiken Welt einmalig.",
       hu: "Az aizanoi stadion egyedülálló, mivel közvetlenül csatlakozik az ókori színházhoz. Ez a kombináció párját ritkítja az ókori világban.",
@@ -1827,7 +1827,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Myndos-Tor", hu: "Mündoszi kapu", ro: "Poarta Myndos", en: "Myndos Gate" },
-    coordinates: { lat: 37.037, lng: 27.417 },
+    coords: [27.417, 37.037],
     description: {
       de: "Das Myndos-Tor war eines der Haupttore der antiken Stadt Halikarnassos. Es war Schauplatz heftiger Kämpfe während der Belagerung durch Alexander den Großen.",
       hu: "A mündoszi kapu az ókori Halikarnasszosz egyik főkapuja volt. Heves harcok helyszíne volt Nagy Sándor ostroma idején.",
@@ -1847,7 +1847,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Theater von Sagalassos", hu: "Szagalasszoszi színház", ro: "Teatrul din Sagalassos", en: "Sagalassos Theater" },
-    coordinates: { lat: 37.678, lng: 30.522 },
+    coords: [30.522, 37.678],
     description: {
       de: "Das Theater von Sagalassos ist das höchstgelegene antike Theater der Welt. Es bietet einen spektakulären Blick über das Taurusgebirge.",
       hu: "A szagalasszoszi színház a világ legmagasabban fekvő ókori színháza. Látványos kilátást nyújt a Torosz-hegységre.",
@@ -1867,7 +1867,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Gymnasion von Stratonikeia", hu: "Sztratonikeiai gümnaszion", ro: "Gymnasionul din Stratonikeia", en: "Stratonikeia Gymnasium" },
-    coordinates: { lat: 37.313, lng: 28.062 },
+    coords: [28.062, 37.313],
     description: {
       de: "Das Gymnasion von Stratonikeia war das größte Sportzentrum der antiken Stadt. Es wurde fast vollständig aus weißem Marmor erbaut.",
       hu: "A sztratonikeiai gümnaszion az ókori város legnagyobb sportközpontja volt. Szinte teljesen fehér márványból épült.",
@@ -1887,7 +1887,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Bouleuterion von Nysa", hu: "Nüszai buleuterion", ro: "Bouleuterionul din Nysa", en: "Nysa Bouleuterion" },
-    coordinates: { lat: 37.906, lng: 28.146 },
+    coords: [28.146, 37.906],
     description: {
       de: "Das Bouleuterion von Nysa diente als Rathaus der antiken Stadt. Es ist eines der besterhaltenen Gebäude dieser Art in Kleinasien.",
       hu: "A nüszai buleuterion az ókori város városházájaként szolgált. Ez az egyik legjobb állapotban maradt ilyen típusú épület Kis-Ázsiában.",
@@ -1907,7 +1907,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Stadtmauer von Herakleia", hu: "Hérakleia városfala", ro: "Zidul orașului Herakleia", en: "Herakleia City Wall" },
-    coordinates: { lat: 37.505, lng: 27.535 },
+    coords: [27.535, 37.505],
     description: {
       de: "Die antike Stadtmauer von Herakleia am Latmos ist eine der spektakulärsten Befestigungsanlagen Anatoliens. Sie windet sich über steile Felskämme.",
       hu: "Hérakleia a Latmosznál ókori városfala Anatólia egyik leglátványosabb erődrendszere. Meredek sziklahátakon kanyarog végig.",
@@ -1927,7 +1927,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "ruins",
     parent: "TR",
     name: { de: "Theater von Patara", hu: "Patarai színház", ro: "Teatrul din Patara", en: "Patara Theater" },
-    coordinates: { lat: 36.261, lng: 29.311 },
+    coords: [29.311, 36.261],
     description: {
       de: "Das Theater von Patara ist ein beeindruckendes Zeugnis der römischen Architektur in Lykien. Es wurde nach einem Erdbeben im 2. Jahrhundert prächtig wiederaufgebaut.",
       hu: "A patarai színház a lükiai római építészet lenyűgöző emléke. Egy 2. századi földrengés után pompásan újjáépítették.",

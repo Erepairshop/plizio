@@ -629,7 +629,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-mosque-sacred-cloak-landmarks-v2",
     type: "landmark",
     name: { de: "Moschee des heiligen Mantels", hu: "A Szent Köpeny mecsetje", ro: "Moscheea Mantiei Sfinte", en: "Mosque of the Sacred Cloak" },
-    coordinates: { lat: 31.6214, lng: 65.7072 },
+    coords: [65.7072, 31.6214],
     description: {
       de: "Ein bedeutendes Heiligtum in Kandahar, das einen Mantel bewahrt, der dem Propheten Mohammed zugeschrieben wird.",
       hu: "Fontos szentély Kandahárban, amely egy Mohamed prófétának tulajdonított köpenyt őriz.",
@@ -660,7 +660,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-chilzina-forty-steps-landmarks-v2",
     type: "monument",
     name: { de: "Chilzina (Vierzig Stufen)", hu: "Chilzina (Negyven lépcső)", ro: "Chilzina (Patruzeci de trepte)", en: "Chilzina (Forty Steps)" },
-    coordinates: { lat: 31.6167, lng: 65.6583 },
+    coords: [65.6583, 31.6167],
     description: {
       de: "Diese in den Fels gehauene Kammer bietet einen Panoramablick über Kandahar und enthält historische Inschriften.",
       hu: "Ez a sziklába vájt kamra panorámás kilátást nyújt Kandahárra, és történelmi feliratokat tartalmaz.",
@@ -691,7 +691,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-walls-of-balkh-landmarks-v2",
     type: "ruins",
     name: { de: "Stadtmauern von Balch", hu: "Balkh városfalai", ro: "Zidurile cetății Balkh", en: "Walls of Balkh" },
-    coordinates: { lat: 36.7583, lng: 66.9014 },
+    coords: [66.9014, 36.7583],
     description: {
       de: "Die massiven Lehmmauern der antiken Stadt Balch zeugen von der Bedeutung der einstigen Metropole an der Seidenstraße.",
       hu: "Balkh ősi városának masszív agyagfalai a Selyemút egykori metropoliszának jelentőségéről tanúskodnak.",
@@ -722,7 +722,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-begram-ancient-city-landmarks-v2",
     type: "ruins",
     name: { de: "Begram (Antike Stadt)", hu: "Begram (ókori város)", ro: "Begram (Orașul antic)", en: "Begram (Ancient City)" },
-    coordinates: { lat: 34.9144, lng: 69.2558 },
+    coords: [69.2558, 34.9144],
     description: {
       de: "Einst die Sommerhauptstadt des Kuschan-Reiches, war Begram ein wichtiger Knotenpunkt für den Handel zwischen Indien und China.",
       hu: "A Kusán Birodalom egykori nyári fővárosa, Begram fontos kereskedelmi csomópont volt India és Kína között.",
@@ -753,7 +753,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-hadda-archaeological-site-landmarks-v2",
     type: "ruins",
     name: { de: "Hadda", hu: "Hadda", ro: "Hadda", en: "Hadda" },
-    coordinates: { lat: 34.3639, lng: 70.4722 },
+    coords: [70.4722, 34.3639],
     description: {
       de: "Eine griechisch-buddhistische archäologische Stätte in der antiken Region Gandhara, bekannt für ihre Stupas und Skulpturen.",
       hu: "Görög-buddhista régészeti lelőhely az ókori Gandhara régióban, amely sztúpáiról és szobrairól ismert.",
@@ -784,7 +784,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-pule-malan-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Pul-e Malan", hu: "Pul-e Malan híd", ro: "Podul Pul-e Malan", en: "Pul-e Malan Bridge" },
-    coordinates: { lat: 34.2883, lng: 62.1814 },
+    coords: [62.1814, 34.2883],
     description: {
       de: "Eine historische Backsteinbrücke mit 22 Bögen, die den Fluss Hari Rud nahe der Stadt Herat überquert.",
       hu: "Történelmi téglahíd 22 ívvel, amely a Hari Rud folyót szeli át Herát városa közelében.",
@@ -815,7 +815,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-afghan-uzbek-friendship-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Freundschaftsbrücke", hu: "Afganisztán–Üzbegisztán barátság híd", ro: "Podul Prieteniei", en: "Afghanistan–Uzbekistan Friendship Bridge" },
-    coordinates: { lat: 37.2286, lng: 67.4283 },
+    coords: [67.4283, 37.2286],
     description: {
       de: "Diese Brücke über den Amu Darja verbindet Hairatan in Afghanistan mit Termiz in Usbekistan.",
       hu: "Ez az Amu-darja feletti híd köti össze az afganisztáni Hairatant az üzbegisztáni Termizszel.",
@@ -846,7 +846,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-mausoleum-timur-shah-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von Timur Schah", hu: "Timur sah mauzóleuma", ro: "Mausoleul lui Timur Shah", en: "Mausoleum of Timur Shah" },
-    coordinates: { lat: 34.5175, lng: 69.1764 },
+    coords: [69.1764, 34.5175],
     description: {
       de: "Das Grabmal des zweiten Herrschers des Durrani-Reiches, der Kabul zur Hauptstadt Afghanistans machte.",
       hu: "A Durrani Birodalom második uralkodójának sírja, aki Kabult Afganisztán fővárosává tette.",
@@ -877,7 +877,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-mausoleum-abdur-rahman-khan-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von Abdur Rahman Khan", hu: "Abdur Rahmán kán mauzóleuma", ro: "Mausoleul lui Abdur Rahman Khan", en: "Mausoleum of Abdur Rahman Khan" },
-    coordinates: { lat: 34.5264, lng: 69.1769 },
+    coords: [69.1769, 34.5264],
     description: {
       de: "Das Mausoleum des 'Eisernen Emirs' befindet sich im Zarnegar-Park im Zentrum von Kabul.",
       hu: "A 'Vasemir' mauzóleuma a Zarnegar parkban található, Kabul központjában.",
@@ -908,7 +908,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-national-gallery-kabul-landmarks-v2",
     type: "museum",
     name: { de: "Nationalgalerie von Afghanistan", hu: "Afganisztáni Nemzeti Galéria", ro: "Galeria Națională a Afganistanului", en: "National Gallery of Afghanistan" },
-    coordinates: { lat: 34.5222, lng: 69.1833 },
+    coords: [69.1833, 34.5222],
     description: {
       de: "Diese Kunstgalerie in Kabul bewahrt historische Gemälde und Kunstwerke, die trotz Kriegen gerettet wurden.",
       hu: "Ez a kabuli művészeti galéria történelmi festményeket és műalkotásokat őriz, amelyeket a háborúk ellenére megmentettek.",
@@ -939,7 +939,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-national-archives-kabul-landmarks-v2",
     type: "museum",
     name: { de: "Nationalarchiv von Afghanistan", hu: "Afganisztáni Nemzeti Archívum", ro: "Arhivele Naționale ale Afganistanului", en: "National Archives of Afghanistan" },
-    coordinates: { lat: 34.5242, lng: 69.1819 },
+    coords: [69.1819, 34.5242],
     description: {
       de: "Beherbergt seltene Manuskripte, historische Verträge und wertvolle Dokumente zur Geschichte Afghanistans.",
       hu: "Ritka kéziratokat, történelmi szerződéseket és Afganisztán történelmére vonatkozó értékes dokumentumokat őriz.",
@@ -970,7 +970,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-goharshad-mausoleum-herat-landmarks-v2",
     type: "monument",
     name: { de: "Goharshad-Mausoleum", hu: "Goharshad mauzóleuma", ro: "Mausoleul Goharshad", en: "Goharshad Mausoleum" },
-    coordinates: { lat: 34.3542, lng: 62.1844 },
+    coords: [62.1844, 34.3542],
     description: {
       de: "Das Grabmal der Königin Goharshad, einer bedeutenden Förderin von Kunst und Kultur während der Timuriden-Zeit.",
       hu: "Goharshad királyné sírja, aki a művészetek és a kultúra jelentős pártfogója volt a timurida korszakban.",
@@ -1001,7 +1001,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-tomb-mahmud-ghazni-landmarks-v2",
     type: "monument",
     name: { de: "Grab von Mahmud von Ghazni", hu: "Ghaznavida Mahmud sírja", ro: "Mormântul lui Mahmud din Ghazni", en: "Tomb of Mahmud of Ghazni" },
-    coordinates: { lat: 33.5786, lng: 68.4411 },
+    coords: [68.4411, 33.5786],
     description: {
       de: "Das Mausoleum des berühmtesten Herrschers der Ghaznaviden-Dynastie befindet sich im Dorf Rauza nahe Ghazni.",
       hu: "A gaznavida dinasztia leghíresebb uralkodójának mauzóleuma Rauza faluban, Ghazni közelében található.",
@@ -1032,7 +1032,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-mausoleum-al-biruni-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von al-Biruni", hu: "Al-Bírúni mauzóleuma", ro: "Mausoleul lui al-Biruni", en: "Mausoleum of al-Biruni" },
-    coordinates: { lat: 33.5558, lng: 68.4194 },
+    coords: [68.4194, 33.5558],
     description: {
       de: "Das Grabmal des Universalgelehrten al-Biruni, der am Hof der Ghaznaviden wirkte und bedeutende Werke verfasste.",
       hu: "Al-Bírúni polihisztor sírja, aki a gaznavidák udvarában élt és jelentős műveket írt.",
@@ -1063,7 +1063,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-mausoleum-hakim-sanai-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von Hakim Sanai", hu: "Hakim Szanai mauzóleuma", ro: "Mausoleul lui Hakim Sanai", en: "Mausoleum of Hakim Sanai" },
-    coordinates: { lat: 33.5425, lng: 68.4214 },
+    coords: [68.4214, 33.5425],
     description: {
       de: "Das Heiligtum des berühmten sufistischen Dichters Hakim Sanai, dessen Werk Dichter wie Rumi beeinflusste.",
       hu: "A híres szúfi költő, Hakim Szanai szentélye, akinek munkássága olyan költőkre hatott, mint Rumi.",
@@ -1082,7 +1082,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-sakhi-shrine-kabul-landmarks-v2",
     type: "landmark",
     name: { de: "Sakhi-Schrein", hu: "Szakhi-szentély", ro: "Sanctuarul Sakhi", en: "Sakhi Shrine" },
-    coordinates: { lat: 34.5292, lng: 69.1439 },
+    coords: [69.1439, 34.5292],
     description: {
       de: "Ein farbenfroher Schrein in Kabul, der mit dem Besuch von Ali, dem Cousin des Propheten Mohammed, in Verbindung gebracht wird.",
       hu: "Színes szentély Kabulban, amelyet Ali, Mohamed próféta unokatestvérének látogatásával hoznak összefüggésbe.",
@@ -1096,12 +1096,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Known as Ziarat-e Sakhi", "Blue-tiled building", "Located at Asamai Hill", "Important Shia shrine"],
     },
     imageHint: "Sakhi Shrine Kabul blue tiles",
+    descriptionAdvanced: {
+      de: "Das Sakhi Heiligtum ist ein schiitisches muslimisches Schreinhaus im Bezirk Sakhi in Kabul, Afghanistan. Es ist dem Imam Ali gewidmet und ein wichtiger Wallfahrtsort für die schiitische Gemeinschaft. Das Gebäude hat eine blau-grüne Kuppel und verzierte Minarette. Es wurde während der Bürgerkriege beschädigt, aber in den letzten Jahren wieder aufgebaut. Jährlich besuchen Tausende Pilger das Heiligtum, besonders während des Nowruz-Festes.",
+      hu: "A Sakhi szentély egy síita muszlim kegyhely Kabul Saxi negyedében, Afganisztánban. Ali imámnak van szentelve, és fontos zarándokhely a síita közösség számára. Az épület kék-zöld kupolával és díszített minaretekkel rendelkezik. A polgárháborúk során megsérült, de az elmúlt években újjáépítették. Évente több ezer zarándok látogatja, különösen a Nowruz ünnep alatt.",
+      ro: "Altarul Sakhi este un altar musulman șiit situat în districtul Sakhi din Kabul, Afganistan. Este dedicat imamului Ali și este un important loc de pelerinaj pentru comunitatea șiită. Clădirea are o cupolă albastru-verde și minarete ornamentate. A fost avariată în timpul războaielor civile, dar reconstruită în ultimii ani. Mii de pelerini îl vizitează anual, în special în timpul sărbătorii Nowruz.",
+      en: "The Sakhi Shrine is a Shia Muslim shrine in the Sakhi district of Kabul, Afghanistan. It is dedicated to Imam Ali and is a major pilgrimage site for the Shia community. The building features a blue-green dome and ornate minarets. It was damaged during civil wars but rebuilt in recent years. Thousands of pilgrims visit annually, especially during the Nowruz festival.",
+    },
+    factsAdvanced: {
+      de: ["Das Heiligtum wurde im 19. Jahrhundert erbaut.", "Die Kuppelhöhe beträgt 18 m.", "Die Minarette sind 25 m hoch.", "Es liegt im Osten Kabuls.", "Der Nowruz-Besuch umfasst 50.000 Pilger.", "Die Renovierung 2016 kostete 1 Million USD."],
+      hu: ["A szentély a 19. században épült.", "A kupola magassága 18 m.", "A minaretek 25 m magasak.", "Kabul keleti részén található.", "A Nowruz-i látogatottság 50.000 zarándok.", "A 2016-os felújítás 1 millió USD-ba került."],
+      ro: ["Altarul a fost construit în secolul al XIX-lea.", "Înălțimea cupolei este de 18 m.", "Minaretele au 25 m înălțime.", "Este situat în estul Kabulului.", "Vizita de Nowruz atrage 50.000 de pelerini.", "Restaurarea din 2016 a costat 1 milion USD."],
+      en: ["Shrine built in the 19th century.", "Dome height: 18 meters.", "Minarets height: 25 meters.", "Located in eastern Kabul.", "Nowruz pilgrimage: 50,000 visitors.", "2016 restoration cost: $1 million."],
+    },
   },
   {
     id: "afghanistan-istalif-pottery-village-landmarks-v2",
     type: "village",
     name: { de: "Töpfereizentrum von Istalif", hu: "Isztálif fazekasközpont", ro: "Centrul de olărit din Istalif", en: "Istalif Pottery Center" },
-    coordinates: { lat: 34.8317, lng: 69.0767 },
+    coords: [69.0767, 34.8317],
     description: {
       de: "Dieses malerische Bergdorf ist seit Jahrhunderten für seine einzigartige türkisfarbene Keramik bekannt.",
       hu: "Ez a festői hegyi falu évszázadok óta híres egyedülálló türkizkék kerámiáiról.",
@@ -1115,12 +1127,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Turquoise glazed pottery", "Traditional craftsmanship", "Northwest of Kabul", "Popular excursion site"],
     },
     imageHint: "Istalif pottery village Afghanistan",
+    descriptionAdvanced: {
+      de: "Istalif ist ein Dorf in der Provinz Kabul, bekannt für seine traditionelle Töpferei. Das Handwerk wird seit Jahrhunderten praktiziert, mit Techniken, die von Generation zu Generation weitergegeben werden. Die Töpfer verwenden lokalen Ton und brennen die Stücke in Holzöfen. Die Produkte sind für ihre blauen und türkisfarbenen Glasur bekannt. Der Ort war ein beliebtes Touristenziel, bis die Konflikte den Besuch einschränkten.",
+      hu: "Istalif falu Kabul tartományban, híres hagyományos fazekasságáról. A kézművességet évszázadok óta gyakorolják, a technikákat nemzedékről nemzedékre adják át. A fazekasok helyi agyagot használnak, és a darabokat fatüzelésű kemencékben égetik ki. A termékek kék és türkiz mázukról ismertek. A település népszerű turistacélpont volt, amíg a konfliktusok korlátozták a látogatásokat.",
+      ro: "Istalif este un sat din provincia Kabul, cunoscut pentru olăritul său tradițional. Meșteșugul este practicat de secole, cu tehnici transmise din generație în generație. Olarii folosesc lut local și ard piesele în cuptoare cu lemne. Produsele sunt renumite pentru glazura albastră și turcoaz. Localitatea a fost o destinație turistică populară, până când conflictele au limitat vizitele.",
+      en: "Istalif is a village in Kabul Province, renowned for its traditional pottery. The craft has been practiced for centuries, with techniques passed down through generations. Potters use local clay and fire pieces in wood-burning kilns. The products are known for their blue and turquoise glazes. The village was a popular tourist destination until conflicts restricted visits.",
+    },
+    factsAdvanced: {
+      de: ["Istalif liegt auf 1.800 m Höhe.", "Die Töpfereitradition reicht 500 Jahre zurück.", "Es gibt 20 aktive Töpferwerkstätten.", "Die Brenntemperatur beträgt 1.000 °C.", "Jährlich werden 10.000 Stücke produziert.", "Das Dorf hat 5.000 Einwohner."],
+      hu: ["Istalif 1.800 m tengerszint feletti magasságban fekszik.", "A fazekas hagyomány 500 éves.", "20 aktív fazekasműhely található.", "Az égetési hőmérséklet 1.000 °C.", "Évente 10.000 darabot gyártanak.", "A falunak 5.000 lakosa van."],
+      ro: ["Istalif este situat la 1.800 m altitudine.", "Tradiția olăritului datează de 500 de ani.", "Există 20 de ateliere active de olărit.", "Temperatura de ardere este de 1.000 °C.", "Se produc 10.000 de piese anual.", "Satul are 5.000 de locuitori."],
+      en: ["Istalif elevation: 1,800 meters.", "Pottery tradition: 500 years old.", "20 active pottery workshops.", "Firing temperature: 1,000 °C.", "Annual production: 10,000 pieces.", "Village population: 5,000."],
+    },
   },
   {
     id: "afghanistan-king-amanullah-mausoleum-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von König Amanullah Khan", hu: "Amánulláh kán király mauzóleuma", ro: "Mausoleul regelui Amanullah Khan", en: "King Amanullah Khan Mausoleum" },
-    coordinates: { lat: 34.4286, lng: 70.4583 },
+    coords: [70.4583, 34.4286],
     description: {
       de: "Das Grabmal des Königs Amanullah Khan, der 1919 die Unabhängigkeit Afghanistans von den Briten erreichte.",
       hu: "Amánulláh kán király sírja, aki 1919-ben kivívta Afganisztán függetlenségét a britektől.",
@@ -1134,12 +1158,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Located in Jalalabad", "Tomb of the 'Reformist King'", "Amanullah Khan died in 1960", "Significant national monument"],
     },
     imageHint: "King Amanullah Khan mausoleum Jalalabad",
+    descriptionAdvanced: {
+      de: "Das Mausoleum von König Amanullah Khan befindet sich in Kabul, Afghanistan, im Stadtteil Jalalabad. Amanullah Khan regierte von 1919 bis 1929 und führte wichtige Reformen zur Modernisierung Afghanistans durch. Das Mausoleum wurde 1930 erbaut und später erweitert. Es ist ein weißes, achteckiges Gebäude mit einer Kuppel. Die Anlage umfasst einen Garten und ist eine Gedenkstätte für den Reformkönig.",
+      hu: "Amanullah Khan király mauzóleuma Kabulban, Afganisztánban, a Dzsalálábád negyedben található. Amanullah 1919-től 1929-ig uralkodott, és fontos reformokat hajtott végre Afganisztán modernizálása érdekében. A mauzóleum 1930-ban épült, később bővítették. Fehér, nyolcszögletű épület kupolával. A komplexum kertet is magában foglal, és a reformer király emlékhelye.",
+      ro: "Mausoleul regelui Amanullah Khan se află în Kabul, Afganistan, în cartierul Jalalabad. Amanullah a domnit între 1919 și 1929 și a inițiat reforme importante pentru modernizarea Afganistanului. Mausoleul a fost construit în 1930 și ulterior extins. Este o clădire albă, octogonală, cu o cupolă. Complexul include o grădină și este un memorial pentru regele reformator.",
+      en: "The Mausoleum of King Amanullah Khan is located in Kabul, Afghanistan, in the Jalalabad district. Amanullah reigned from 1919 to 1929 and implemented key reforms to modernize Afghanistan. The mausoleum was built in 1930 and later expanded. It is a white, octagonal building with a dome. The complex includes a garden and serves as a memorial to the reformist king.",
+    },
+    factsAdvanced: {
+      de: ["Amanullah Khan starb 1960.", "Das Mausoleum hat eine Grundfläche von 200 m².", "Die Kuppelhöhe beträgt 15 m.", "Der Bau begann 1929.", "Der Garten ist 0,5 Hektar groß.", "Das Gebäude wurde 1970 renoviert."],
+      hu: ["Amanullah Khan 1960-ban halt meg.", "A mauzóleum alapterülete 200 m².", "A kupola magassága 15 m.", "Az építkezés 1929-ben kezdődött.", "A kert területe 0,5 hektár.", "Az épületet 1970-ben újították fel."],
+      ro: ["Amanullah Khan a murit în 1960.", "Mausoleul are o suprafață de 200 m².", "Înălțimea cupolei este de 15 m.", "Construcția a început în 1929.", "Grădina are 0,5 hectare.", "Clădirea a fost renovată în 1970."],
+      en: ["Amanullah Khan died in 1960.", "Mausoleum area: 200 m².", "Dome height: 15 meters.", "Construction began in 1929.", "Garden area: 0.5 hectares.", "Building renovated in 1970."],
+    },
   },
   {
     id: "afghanistan-tomb-rabia-balkhi-landmarks-v2",
     type: "monument",
     name: { de: "Grab von Rabia Balkhi", hu: "Rábia Balhi sírja", ro: "Mormântul Rabiei Balkhi", en: "Tomb of Rabia Balkhi" },
-    coordinates: { lat: 36.7561, lng: 66.8978 },
+    coords: [66.8978, 36.7561],
     description: {
       de: "Das Grab der ersten Dichterin in der Geschichte der persischen Literatur, gelegen in der antiken Stadt Balch.",
       hu: "A perzsa irodalomtörténet első költőnőjének sírja Balkh ősi városában.",
@@ -1153,12 +1189,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Lived in the 10th century", "Famous Persian female poet", "Symbol of tragic love", "Small shrine in Balkh"],
     },
     imageHint: "Tomb of Rabia Balkhi Balkh",
+    descriptionAdvanced: {
+      de: "Das Grab von Rabia Balkhi befindet sich in Balkh, Afghanistan. Rabia Balkhi war eine persische Dichterin des 10. Jahrhunderts und gilt als eine der ersten weiblichen Dichterinnen der persischen Literatur. Ihr Grabmal ist ein schlichter Bau mit einer Kuppel. Die Stätte ist ein kulturelles Symbol für die Rolle der Frauen in der afghanischen Geschichte. Es wird von lokalen Bewunderern und Gelehrten besucht.",
+      hu: "Rabia Balkhi sírja Balkhban, Afganisztánban található. Rabia Balkhi 10. századi perzsa költőnő volt, a perzsa irodalom egyik első női költőjének tartják. Sírja egy egyszerű, kupolás épület. A helyszín a nők szerepének kulturális szimbóluma az afgán történelemben. Helyi csodálók és tudósok látogatják.",
+      ro: "Mormântul Rabiei Balkhi se află în Balkh, Afganistan. Rabia Balkhi a fost o poetesă persană din secolul al X-lea, considerată una dintre primele femei poetese din literatura persană. Mormântul este o construcție simplă, cu o cupolă. Situl este un simbol cultural al rolului femeii în istoria afgană. Este vizitat de admiratori locali și cercetători.",
+      en: "The Tomb of Rabia Balkhi is located in Balkh, Afghanistan. Rabia Balkhi was a 10th-century Persian poetess, considered one of the first female poets in Persian literature. Her tomb is a simple domed structure. The site is a cultural symbol of women's role in Afghan history. It is visited by local admirers and scholars.",
+    },
+    factsAdvanced: {
+      de: ["Rabia Balkhi starb im Jahr 943.", "Das Grab liegt in Balkh, einer Stadt mit 100.000 Einwohnern.", "Die Kuppel hat einen Durchmesser von 5 m.", "Das Gebäude ist 8 m hoch.", "Das Grab wurde im 20. Jahrhundert renoviert.", "Balkh liegt auf 365 m Höhe."],
+      hu: ["Rabia Balkhi 943-ban halt meg.", "A sír Balkhban található, a városnak 100.000 lakosa van.", "A kupola átmérője 5 m.", "Az épület magassága 8 m.", "A sírt a 20. században újították fel.", "Balkh 365 m tengerszint feletti magasságban fekszik."],
+      ro: ["Rabia Balkhi a murit în anul 943.", "Mormântul se află în Balkh, un oraș cu 100.000 de locuitori.", "Cupola are un diametru de 5 m.", "Clădirea are 8 m înălțime.", "Mormântul a fost renovat în secolul al XX-lea.", "Balkh este situat la 365 m altitudine."],
+      en: ["Rabia Balkhi died in 943 CE.", "Tomb located in Balkh, city of 100,000.", "Dome diameter: 5 meters.", "Building height: 8 meters.", "Tomb renovated in the 20th century.", "Balkh elevation: 365 meters."],
+    },
   },
   {
     id: "afghanistan-mes-aynak-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Mes Aynak (Archäologische Stätte)", hu: "Mesz Ajnak (régészeti lelőhely)", ro: "Mes Aynak (Sit arheologic)", en: "Mes Aynak Archaeological Site" },
-    coordinates: { lat: 34.3725, lng: 69.3175 },
+    coords: [69.3175, 34.3725],
     description: {
       de: "Eine riesige antike buddhistische Stadtanlage, die sich über einer der weltweit größten Kupferlagerstätten befindet.",
       hu: "Hatalmas ókori buddhista városkomplexum, amely a világ egyik legnagyobb rézleletén fekszik.",
@@ -1172,12 +1220,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Vast Buddhist monastery", "Ancient copper mines", "Over 400 Buddha statues", "Located in Logar province"],
     },
     imageHint: "Mes Aynak Buddhist ruins Afghanistan",
+    descriptionAdvanced: {
+      de: "Mes Aynak ist eine archäologische Stätte in der Provinz Logar, etwa 40 km südöstlich von Kabul. Sie enthält Ruinen eines buddhistischen Klosters aus dem 3. bis 7. Jahrhundert n. Chr. sowie Kupferminen. Die Stätte ist bedroht durch geplante Bergbauaktivitäten. Die Ausgrabungen haben tausende Artefakte, Stupas und Statuen freigelegt. Mes Aynak ist eines der wichtigsten buddhistischen Zentren in Afghanistan.",
+      hu: "Mes Aynak régészeti lelőhely Logar tartományban, Kabultól mintegy 40 km-re délkeletre. Egy 3–7. századi buddhista kolostor romjait és rézbányákat tartalmaz. A helyszínt tervezett bányászati tevékenységek fenyegetik. Az ásatások több ezer tárgyat, sztúpát és szobrot tártak fel. Mes Aynak Afganisztán egyik legfontosabb buddhista központja.",
+      ro: "Mes Aynak este un sit arheologic în provincia Logar, la aproximativ 40 km sud-est de Kabul. Conține ruinele unei mănăstiri budiste din secolele III-VII d.Hr., precum și mine de cupru. Situl este amenințat de activități miniere planificate. Săpăturile au scos la lumină mii de artefacte, stupe și statui. Mes Aynak este unul dintre cele mai importante centre budiste din Afganistan.",
+      en: "Mes Aynak is an archaeological site in Logar Province, about 40 km southeast of Kabul. It contains ruins of a Buddhist monastery from the 3rd-7th centuries CE, as well as copper mines. The site is threatened by planned mining operations. Excavations have uncovered thousands of artifacts, stupas, and statues. Mes Aynak is one of the most important Buddhist centers in Afghanistan.",
+    },
+    factsAdvanced: {
+      de: ["Mes Aynak liegt auf 2.000 m Höhe.", "Das Kloster umfasst 40 Hektar.", "Es gibt über 400 Buddha-Statuen.", "Die Kupferlagerstätte enthält 11 Millionen Tonnen Erz.", "Die Ausgrabungen begannen 2009.", "Die Stätte stammt aus dem 3. Jahrhundert n. Chr."],
+      hu: ["Mes Aynak 2.000 m tengerszint feletti magasságban fekszik.", "A kolostor 40 hektáron terül el.", "Több mint 400 Buddha-szobor található.", "A rézlelőhely 11 millió tonna érct tartalmaz.", "Az ásatások 2009-ben kezdődtek.", "A helyszín a 3. századból származik."],
+      ro: ["Mes Aynak este situat la 2.000 m altitudine.", "Mănăstirea se întinde pe 40 de hectare.", "Există peste 400 de statui ale lui Buddha.", "Zăcământul de cupru conține 11 milioane de tone de minereu.", "Săpăturile au început în 2009.", "Situl datează din secolul al III-lea d.Hr."],
+      en: ["Mes Aynak elevation: 2,000 meters.", "Monastery area: 40 hectares.", "Over 400 Buddha statues.", "Copper deposit: 11 million tons of ore.", "Excavations began in 2009.", "Site dates from the 3rd century CE."],
+    },
   },
   {
     id: "afghanistan-citadel-of-ghazni-landmarks-v2",
     type: "castle",
     name: { de: "Zitadelle von Ghazni", hu: "Ghazni citadellája", ro: "Cetatea din Ghazni", en: "Citadel of Ghazni" },
-    coordinates: { lat: 33.5489, lng: 68.4231 },
+    coords: [68.4231, 33.5489],
     description: {
       de: "Diese mächtige Festung war einst das Zentrum des riesigen Ghaznaviden-Reiches, das weite Teile Zentralasiens beherrschte.",
       hu: "Ez a hatalmas erőd egykor a hatalmas gaznavida birodalom központja volt, amely Belső-Ázsia nagy részét uralta.",
@@ -1191,12 +1251,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Fortified in the 13th century", "Center of Ghaznavid power", "Massive mud-brick walls", "Historic military site"],
     },
     imageHint: "Ghazni Citadel Afghanistan",
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Ghazni ist eine historische Festung in der Stadt Ghazni, im Osten Afghanistans. Sie wurde im 12. Jahrhundert unter den Ghaznaviden erbaut und später von den Ghuriden erweitert. Die Festung besteht aus Lehmziegeln und hat einen Umfang von etwa 500 m. Sie diente als militärisches und administratives Zentrum. Heute ist sie stark beschädigt, aber teilweise zugänglich. Die Zitadelle ist ein Symbol der mittelalterlichen islamischen Macht in der Region.",
+      hu: "A ghazni citadella egy történelmi erőd Ghazni városában, Kelet-Afganisztánban. A 12. században építették a gaznavidák, később a guridák bővítették. Az erőd vályogtéglából készült, kerülete kb. 500 m. Katonai és közigazgatási központként szolgált. Ma erősen sérült, de részben látogatható. A citadella a középkori iszlám hatalom szimbóluma a térségben.",
+      ro: "Cetatea Ghazni este o fortăreață istorică în orașul Ghazni, estul Afganistanului. A fost construită în secolul al XII-lea sub ghaznavizi și extinsă de ghurizi. Fortăreața este din cărămidă de noroi, cu un perimetru de aproximativ 500 m. A servit ca centru militar și administrativ. Astăzi este grav avariată, dar parțial accesibilă. Cetatea este un simbol al puterii islamice medievale în regiune.",
+      en: "The Citadel of Ghazni is a historic fortress in the city of Ghazni, eastern Afghanistan. It was built in the 12th century under the Ghaznavids and later expanded by the Ghurids. The fortress is made of mud brick, with a perimeter of about 500 m. It served as a military and administrative center. Today it is heavily damaged but partially accessible. The citadel is a symbol of medieval Islamic power in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Zitadelle wurde 1120 erbaut.", "Die Mauern sind 10 m hoch.", "Die Fläche beträgt 2,5 Hektar.", "Sie wurde im 13. Jahrhundert von den Mongolen zerstört.", "Die Ghaznaviden herrschten von 977 bis 1186.", "Ghazni liegt auf 2.300 m Höhe."],
+      hu: ["A citadellát 1120-ban építették.", "A falak 10 m magasak.", "Területe 2,5 hektár.", "A 13. században a mongolok pusztították el.", "A gaznavidák 977-től 1186-ig uralkodtak.", "Ghazni 2.300 m tengerszint feletti magasságban fekszik."],
+      ro: ["Cetatea a fost construită în 1120.", "Zidurile au o înălțime de 10 m.", "Suprafața este de 2,5 hectare.", "A fost distrusă de mongoli în secolul al XIII-lea.", "Ghaznavizii au domnit între 977 și 1186.", "Ghazni este situat la 2.300 m altitudine."],
+      en: ["Citadel built in 1120 CE.", "Walls height: 10 meters.", "Area: 2.5 hectares.", "Destroyed by Mongols in the 13th century.", "Ghaznavid rule: 977-1186 CE.", "Ghazni elevation: 2,300 meters."],
+    },
   },
   {
     id: "afghanistan-citadel-of-qalat-landmarks-v2",
     type: "castle",
     name: { de: "Zitadelle von Qalat", hu: "Kalat citadellája", ro: "Cetatea din Qalat", en: "Citadel of Qalat" },
-    coordinates: { lat: 32.1067, lng: 66.9028 },
+    coords: [66.9028, 32.1067],
     description: {
       de: "Eine imposante Höhenburg in der Provinz Zabul, die vermutlich auf Befehl Alexanders des Großen gegründet wurde.",
       hu: "Impozáns hegyi erőd Zabul tartományban, amelyet állítólag Nagy Sándor parancsára alapítottak.",
@@ -1210,12 +1282,24 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       en: ["Located in Zabul province", "Hilltop fortification", "Ancient origins", "Known as Qalat-e Gilzai"],
     },
     imageHint: "Qalat Citadel Zabul Afghanistan",
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Qalat befindet sich in der Provinz Zabul, im Süden Afghanistans. Sie ist eine alte Festung, die auf einem Hügel über der Stadt thront. Die genaue Bauzeit ist unbekannt, aber sie wurde über Jahrhunderte genutzt. Die Festung besteht aus Lehm und Stein. Sie diente als lokales Verwaltungszentrum. Während der sowjetischen Besatzung wurde sie beschädigt. Heute ist sie teilweise verfallen, aber immer noch in Benutzung.",
+      hu: "A qalati citadella Zabul tartományban, Dél-Afganisztánban található. Egy ősi erőd, amely egy dombon magasodik a város fölé. Pontos építési ideje ismeretlen, de évszázadokig használták. Az erőd vályogból és kőből készült. Helyi közigazgatási központként szolgált. A szovjet megszállás alatt megsérült. Ma részben romos, de még mindig használatban van.",
+      ro: "Cetatea Qalat este situată în provincia Zabul, sudul Afganistanului. Este o fortăreață veche situată pe un deal deasupra orașului. Data exactă a construcției este necunoscută, dar a fost folosită de secole. Fortăreața este din noroi și piatră. A servit ca centru administrativ local. A fost avariată în timpul ocupației sovietice. Astăzi este parțial în ruină, dar încă în uz.",
+      en: "The Citadel of Qalat is located in Zabul Province, southern Afghanistan. It is an ancient fortress atop a hill overlooking the city. The exact date of construction is unknown, but it has been used for centuries. The fortress is made of mud and stone. It served as a local administrative center. It was damaged during the Soviet occupation. Today it is partially ruined but still in use.",
+    },
+    factsAdvanced: {
+      de: ["Die Zitadelle liegt auf 1.200 m Höhe.", "Der Hügel ist 30 m hoch.", "Die Mauern sind 5 m dick.", "Qalat hat 30.000 Einwohner.", "Die Festung wurde 1980 von den Sowjets bombardiert.", "Zabul Provinz umfasst 17.343 km²."],
+      hu: ["A citadella 1.200 m tengerszint feletti magasságban fekszik.", "A domb magassága 30 m.", "A falak vastagsága 5 m.", "Qalatnak 30.000 lakosa van.", "Az erődöt 1980-ban bombázták a szovjetek.", "Zabul tartomány területe 17.343 km²."],
+      ro: ["Cetatea este situată la 1.200 m altitudine.", "Dealul are o înălțime de 30 m.", "Zidurile au o grosime de 5 m.", "Qalat are 30.000 de locuitori.", "Fortăreața a fost bombardată de sovietici în 1980.", "Provincia Zabul are 17.343 km²."],
+      en: ["Citadel elevation: 1,200 meters.", "Hill height: 30 meters.", "Wall thickness: 5 meters.", "Qalat population: 30,000.", "Fortress bombed by Soviets in 1980.", "Zabul Province area: 17,343 km²."],
+    },
   },
   {
     id: "afghanistan-gulkhana-palace-kabul-landmarks-v2",
     type: "palace",
     name: { de: "Gulkhana-Palast", hu: "Gulkána-palota", ro: "Palatul Gulkhana", en: "Gulkhana Palace" },
-    coordinates: { lat: 34.5228, lng: 69.1806 },
+    coords: [69.1806, 34.5228],
     description: {
       de: "Ein prachtvoller Palast innerhalb des Arg-Komplexes in Kabul, der traditionell für Staatsbankette genutzt wird.",
       hu: "Pompás palota a kabuli Arg-komplexumon belül, amelyet hagyományosan állami bankettekhez használnak.",
@@ -1234,7 +1318,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-national-library-kabul-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek von Afghanistan", hu: "Afganisztáni Nemzeti Könyvtár", ro: "Biblioteca Națională a Afganistanului", en: "National Library of Afghanistan" },
-    coordinates: { lat: 34.5192, lng: 69.1878 },
+    coords: [69.1878, 34.5192],
     description: {
       de: "Das zentrale Wissenszentrum des Landes in Kabul, das eine umfangreiche Sammlung von Büchern und Dokumenten beherbergt.",
       hu: "Az ország központi tudásbázisa Kabulban, amely könyvek és dokumentumok kiterjedt gyűjteményét őrzi.",
@@ -1253,7 +1337,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     id: "afghanistan-tomb-gul-khan-momand-landmarks-v2",
     type: "monument",
     name: { de: "Grab von Mohammad Gul Khan Momand", hu: "Mohammad Gul Khan Momand sírja", ro: "Mormântul lui Mohammad Gul Khan Momand", en: "Tomb of Mohammad Gul Khan Momand" },
-    coordinates: { lat: 36.7578, lng: 66.8997 },
+    coords: [66.8997, 36.7578],
     description: {
       de: "Ein bedeutendes Grabmal in Balch, das dem paschtunischen Gelehrten und Politiker Mohammad Gul Khan Momand gewidmet ist.",
       hu: "Jelentős síremlék Balkhban, amelyet a pastu tudósnak és politikusnak, Mohammad Gul Khan Momandnak szenteltek.",

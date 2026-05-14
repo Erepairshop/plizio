@@ -546,7 +546,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-talila-reserve-life-v2",
     type: "wildlife",
     name: { de: "Al-Talila Naturschutzgebiet", hu: "Al-Talila Természetvédelmi Terület", ro: "Rezervația Naturală Al-Talila", en: "Al-Talila Wildlife Reserve" },
-    coordinates: { lat: 34.61, lng: 38.65 },
+    coords: [38.65, 34.61],
     description: {
       de: "Dieses Reservat in der Nähe von Palmyra wurde 1991 gegründet, um die bedrohte syrische Wüstenfauna zu schützen. Es ist bekannt für die Wiederansiedlung von Oryx-Antilopen und Gazellen.",
       hu: "A Palmüra közelében található rezervátumot 1991-ben alapították a veszélyeztetett sivatagi élővilág védelmére. Kiemelkedő szerepe van az arab antilopok visszatelepítésében.",
@@ -565,7 +565,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-umm-al-tuyour-reserve-life-v2",
     type: "park",
     name: { de: "Umm al-Tuyour Naturschutzgebiet", hu: "Umm al-Tuyour Természetvédelmi Terület", ro: "Rezervația Umm al-Tuyour", en: "Umm al-Tuyour Nature Reserve" },
-    coordinates: { lat: 35.72, lng: 35.85 },
+    coords: [35.85, 35.72],
     description: {
       de: "Ein Küstenreservat nördlich von Latakia, das für seine mediterrane Artenvielfalt und Pinienwälder bekannt ist. Es schützt einen der schönsten Abschnitte der syrischen Küste.",
       hu: "Latakiától északra fekvő parti rezervátum, amely mediterrán biodiverzitásáról és fenyőerdőiről ismert. A szír tengerpart egyik legszebb érintetlen szakaszát védi.",
@@ -584,7 +584,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-wadi-al-nasara-forests-life-v2",
     type: "forest",
     name: { de: "Wadi al-Nasara Wälder", hu: "Wadi al-Nasara erdők", ro: "Pădurile din Wadi al-Nasara", en: "Wadi al-Nasara Forests" },
-    coordinates: { lat: 34.77, lng: 36.25 },
+    coords: [36.25, 34.77],
     description: {
       de: "Diese dichten Wälder im Tal der Christen sind reich an Eichen und Pistazienbäumen. Das Gebiet ist ein wichtiges Refugium für die lokale Flora in Zentralsyrien.",
       hu: "A Keresztények völgyében elterülő sűrű erdők tölgyfákban és vadpisztáciában gazdagok. A terület Közép-Szíria növényvilágának egyik fontos menedékhelye.",
@@ -603,7 +603,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-dumeir-wetland-life-v2",
     type: "wildlife",
     name: { de: "Dumeir Feuchtgebiet", hu: "Dumeir vizes élőhely", ro: "Zona umedă Dumeir", en: "Dumeir Wetland" },
-    coordinates: { lat: 33.63, lng: 36.72 },
+    coords: [36.72, 33.63],
     description: {
       de: "Ein saisonales Feuchtgebiet am Rande der Wüste östlich von Damaskus. Es ist ein kritischer Lebensraum für Wasservögel in einer ansonsten ariden Umgebung.",
       hu: "Szezonális vizes élőhely a sivatag szélén, Damaszkusztól keletre. Kritikus fontosságú élőhely a vízimadarak számára az egyébként száraz környezetben.",
@@ -622,7 +622,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-nairab-park-life-v2",
     type: "park",
     name: { de: "Al-Nairab Nationalpark", hu: "Al-Nairab Nemzeti Park", ro: "Parcul Național Al-Nairab", en: "Al-Nairab National Park" },
-    coordinates: { lat: 36.17, lng: 37.22 },
+    coords: [37.22, 36.17],
     description: {
       de: "Ein großer Park in der Nähe von Aleppo, der als grüne Lunge der Region dient. Er bietet weite Flächen mit angepflanzten Bäumen und Freizeitanlagen.",
       hu: "Aleppo közelében található nagy kiterjedésű park, amely a régió tüdejének számít. Tágas fásított területeket és szabadidős létesítményeket kínál.",
@@ -641,7 +641,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-umm-al-hassan-garden-life-v2",
     type: "park",
     name: { de: "Umm al-Hassan Garten", hu: "Umm al-Hassan kert", ro: "Grădina Umm al-Hassan", en: "Umm al-Hassan Garden" },
-    coordinates: { lat: 35.131, lng: 36.751 },
+    coords: [36.751, 35.131],
     description: {
       de: "Ein historischer öffentlicher Garten in Hama, gelegen am Ufer des Orontes. Er ist berühmt für seine Nähe zu den großen Norias und seine üppige Vegetation.",
       hu: "Hama egyik történelmi közparkja az Orontész folyó partján. Híres a hatalmas vízemelő kerekei (nóriák) közelségéről és dús növényzetéről.",
@@ -660,7 +660,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-waer-park-life-v2",
     type: "park",
     name: { de: "Al-Waer Park", hu: "Al-Waer park", ro: "Parcul Al-Waer", en: "Al-Waer Public Park" },
-    coordinates: { lat: 34.735, lng: 36.678 },
+    coords: [36.678, 34.735],
     description: {
       de: "Homs' größte Grünfläche, bekannt für ihre breiten Alleen und schattigen Plätze. Der Park ist ein zentraler Erholungsort für die Bewohner der Stadt.",
       hu: "Homsz legnagyobb zöldterülete, amely széles sétányairól és árnyas pihenőhelyeiről ismert. A park a városlakók központi kikapcsolódási helyszíne.",
@@ -679,7 +679,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-basel-park-tartus-life-v2",
     type: "park",
     name: { de: "Al-Basel Park Tartus", hu: "Al-Basel park Tartusz", ro: "Parcul Al-Basel Tartus", en: "Al-Basel Park Tartus" },
-    coordinates: { lat: 34.88, lng: 35.88 },
+    coords: [35.88, 34.88],
     description: {
       de: "Ein moderner Stadtpark in Tartus, der nah am Meer liegt. Er kombiniert botanische Vielfalt mit modernen Freizeitanlagen für Touristen und Einheimische.",
       hu: "Modern városi park Tartuszban, a tengerhez közel. A botanikai változatosságot ötvözi a modern szabadidős létesítményekkel a turisták és helyiek számára.",
@@ -698,7 +698,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-wadi-qandil-life-v2",
     type: "park",
     name: { de: "Wadi Qandil Naturraum", hu: "Wadi Qandil természeti terület", ro: "Zona naturală Wadi Qandil", en: "Wadi Qandil Nature Area" },
-    coordinates: { lat: 35.65, lng: 35.83 },
+    coords: [35.83, 35.65],
     description: {
       de: "Ein idyllisches Tal an der Küste mit einer einzigartigen Mischung aus Berg- und Meeresökosystemen. Bekannt für seinen schwarzen Sand und bewaldeten Hänge.",
       hu: "Idilli völgy a tengerparton, a hegyi és tengeri ökoszisztémák egyedülálló keverékével. Fekete homokjáról és erdős lankáiról ismert.",
@@ -717,7 +717,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-kessab-forests-life-v2",
     type: "forest",
     name: { de: "Wälder von Kessab", hu: "Kessab-erdők", ro: "Pădurile din Kessab", en: "Kessab Forests" },
-    coordinates: { lat: 35.92, lng: 35.98 },
+    coords: [35.98, 35.92],
     description: {
       de: "In der Nähe der türkischen Grenze gelegen, beherbergen diese Bergwälder Zedern, Eichen und Kiefern. Die Region ist bekannt für ihr kühles Klima und reiche Flora.",
       hu: "A török határ közelében fekvő hegyi erdők cédrusoknak, tölgyeknek és fenyőknek adnak otthont. A régió hűvös klímájáról és gazdag növényvilágáról híres.",
@@ -736,7 +736,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-mazzeh-park-life-v2",
     type: "park",
     name: { de: "Al-Mazzeh Park", hu: "Al-Mazzeh park", ro: "Parcul Al-Mazzeh", en: "Al-Mazzeh Park" },
-    coordinates: { lat: 33.51, lng: 36.23 },
+    coords: [36.23, 33.51],
     description: {
       de: "Ein weitläufiger Park im modernen Mazzeh-Viertel von Damaskus. Er bietet moderne Landschaftsgestaltung, Wasserfontänen und viele Spazierwege.",
       hu: "Kiterjedt park Damaszkusz modern Mazzeh negyedében. Modern tájépítészeti megoldásokat, szökőkutakat és számos sétányt kínál.",
@@ -755,7 +755,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-tijara-park-life-v2",
     type: "park",
     name: { de: "Al-Tijara Park", hu: "Al-Tijara park", ro: "Parcul Al-Tijara", en: "Al-Tijara Park" },
-    coordinates: { lat: 33.525, lng: 36.315 },
+    coords: [36.315, 33.525],
     description: {
       de: "Ein beliebter Park im Osten von Damaskus, bekannt für seine Ruhe und alten Bäume. Er ist ein wichtiger Erholungsraum in einem dicht besiedelten Gebiet.",
       hu: "Népszerű park Damaszkusz keleti részén, amely nyugalmáról és öreg fáiról ismert. Fontos pihenőhely a sűrűn lakott városrészben.",
@@ -774,7 +774,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-abbasiyeen-park-life-v2",
     type: "park",
     name: { de: "Al-Abbasiyeen Park", hu: "Al-Abbasiyeen park", ro: "Parcul Al-Abbasiyeen", en: "Al-Abbasiyeen Park" },
-    coordinates: { lat: 33.528, lng: 36.325 },
+    coords: [36.325, 33.528],
     description: {
       de: "Ein zentraler Park in der Nähe des gleichnamigen Stadions in Damaskus. Er ist ein wichtiger Treffpunkt und bietet Spielplätze für Kinder.",
       hu: "Központi park Damaszkuszban, az azonos nevű stadion közelében. Fontos találkozóhely, amely játszótereket is kínál a gyermekeknek.",
@@ -793,7 +793,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-deir-ez-zor-park-life-v2",
     type: "park",
     name: { de: "Deir ez-Zor Stadtpark", hu: "Deir ez-Zór városi park", ro: "Parcul orașului Deir ez-Zor", en: "Deir ez-Zor Public Park" },
-    coordinates: { lat: 35.33, lng: 40.14 },
+    coords: [40.14, 35.33],
     description: {
       de: "Dieser Park am Euphrat-Ufer in Deir ez-Zor ist bekannt für seine Palmen und den Blick auf den Fluss. Er bietet Abkühlung in der heißen Wüstenregion.",
       hu: "Az Eufrátesz partján fekvő park Deir ez-Zórban, amely pálmafáiról és folyóra néző kilátásáról ismert. Felfrissülést nyújt a forró sivatagi régióban.",
@@ -812,7 +812,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-raqqa-city-park-life-v2",
     type: "park",
     name: { de: "Stadtpark von Raqqa", hu: "Rakka városi park", ro: "Parcul orașului Raqqa", en: "Raqqa City Park" },
-    coordinates: { lat: 35.94, lng: 39.01 },
+    coords: [39.01, 35.94],
     description: {
       de: "Ein zentraler Erholungsort in Raqqa mit Schatten spendenden Bäumen und Springbrunnen. Er ist ein Symbol für das tägliche Leben in der nordsyrischen Stadt.",
       hu: "Rakka központi pihenőhelye árnyas fákkal és szökőkutakkal. Az észak-szíriai város mindennapi életének egyik fontos helyszíne.",
@@ -831,7 +831,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-kornish-park-lattakia-life-v2",
     type: "park",
     name: { de: "Al-Kornish Park Latakia", hu: "Al-Kornish park Latakia", ro: "Parcul Al-Kornish Latakia", en: "Al-Kornish Park Lattakia" },
-    coordinates: { lat: 35.51, lng: 35.77 },
+    coords: [35.77, 35.51],
     description: {
       de: "Ein schöner Park direkt an der Uferpromenade von Latakia. Er bietet Meeresbrise und Grünflächen für Spaziergänger und Familien.",
       hu: "Gyönyörű park Latakia tengerparti sétánya mentén. Tengeri szellőt és zöldfelületeket kínál a sétálók és családok számára.",
@@ -850,7 +850,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-al-sinn-nature-life-v2",
     type: "wildlife",
     name: { de: "Al-Sinn Naturgebiet", hu: "Al-Sinn természeti terület", ro: "Zona naturală Al-Sinn", en: "Al-Sinn Nature Area" },
-    coordinates: { lat: 35.36, lng: 35.94 },
+    coords: [35.94, 35.36],
     description: {
       de: "Das Quellgebiet des Al-Sinn-Flusses ist für sein kristallklares Wasser und seine üppige Ufervegetation bekannt. Es ist eine der wasserreichsten Quellen des Landes.",
       hu: "Az Al-Sinn folyó forrásvidéke kristálytiszta vizéről és dús parti növényzetéről ismert. Az ország egyik legbővizűbb forráshelye.",
@@ -869,7 +869,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "syria-jabal-sis-reserve-life-v2",
     type: "wildlife",
     name: { de: "Jabal Sis Vulkanreservat", hu: "Jabal Sis vulkáni rezervátum", ro: "Rezervația vulcanică Jabal Sis", en: "Jabal Sis Volcanic Reserve" },
-    coordinates: { lat: 33.43, lng: 37.34 },
+    coords: [37.34, 33.43],
     description: {
       de: "Ein erloschener Vulkan in der Wüste mit einer einzigartigen Flora, die an die schwarzen Basaltböden angepasst ist. Er bietet spektakuläre geologische Ansichten.",
       hu: "Kialudt vulkán a sivatagban, amely a fekete bazaltos talajhoz alkalmazkodott egyedülálló növényvilággal rendelkezik. Látványos geológiai látványt nyújt.",

@@ -533,7 +533,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-shamakhi-safari-park-life-v2",
     type: "wildlife",
     name: { de: "Safari-Park Schamachi", hu: "Samahı Szafari Park", ro: "Parcul Safari din Shamakhi", en: "Shamakhi Safari Park" },
-    coordinates: { lat: 40.5925, lng: 48.6431 },
+    coords: [48.6431, 40.5925],
     description: {
       de: "Ein 620 Hektar großes ökologisches Reservat im Kaukasus, das auf die Erhaltung und Zucht von Wildtieren spezialisiert ist.",
       hu: "Egy 620 hektáros ökológiai rezervátum a Kaukázusban, amely vadon élő állatok megőrzésére és tenyésztésére szakosodott.",
@@ -564,7 +564,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-basutcay-reserve-life-v2",
     type: "forest",
     name: { de: "Staatliches Reservat Basuttschai", hu: "Baszutcsaj Állami Rezervátum", ro: "Rezervația de Stat Basutcay", en: "Basutcay State Reserve" },
-    coordinates: { lat: 39.0433, lng: 46.5458 },
+    coords: [46.5458, 39.0433],
     description: {
       de: "Ein Schutzgebiet im Tal des Basuttschai-Flusses, das den größten Platanenwald Europas beherbergt.",
       hu: "Védett terület a Baszutcsaj-folyó völgyében, amely Európa legnagyobb platánerdőjének ad otthont.",
@@ -595,7 +595,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-eldar-pine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Eldar-Kiefer-Reservat", hu: "Eldar-fenyő Állami Rezervátum", ro: "Rezervația Pinului de Eldar", en: "Eldar Pine State Reserve" },
-    coordinates: { lat: 41.1352, lng: 44.8214 },
+    coords: [44.8214, 41.1352],
     description: {
       de: "Ein Naturschutzgebiet im Bezirk Samuch, das dem Schutz der endemischen Eldar-Kiefer gewidmet ist.",
       hu: "Természetvédelmi terület a Szamuh járásban, amely az endemikus eldar-fenyő védelmére jött létre.",
@@ -626,7 +626,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-korachay-reserve-life-v2",
     type: "wildlife",
     name: { de: "Staatliches Reservat Koratschai", hu: "Koracsaj Állami Rezervátum", ro: "Rezervația de Stat Korachay", en: "Korachay State Reserve" },
-    coordinates: { lat: 40.7388, lng: 46.3312 },
+    coords: [46.3312, 40.7388],
     description: {
       de: "Ein Schutzgebiet in der Region Goranboy, das für seine trockenen Bergsteppen-Ökosysteme bekannt ist.",
       hu: "Védett terület a Goranboy régióban, amely száraz hegyi sztyeppei ökoszisztémáiról ismert.",
@@ -657,7 +657,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-hajigabul-wetland-life-v2",
     type: "lake",
     name: { de: "Hajigabul-See-Feuchtgebiet", hu: "Hajigabul-tó vizes élőhely", ro: "Zona umedă a lacului Hajigabul", en: "Hajigabul Lake Wetland" },
-    coordinates: { lat: 40.0311, lng: 48.9125 },
+    coords: [48.9125, 40.0311],
     description: {
       de: "Ein bedeutendes Binnengewässer im Shirvan-Tiefland, das als wichtiger Rastplatz für Zugvögel dient.",
       hu: "Jelentős belvíz a Sirván-alföldön, amely a költöző madarak fontos pihenőhelyeként szolgál.",
@@ -688,7 +688,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-pirgulu-reserve-life-v2",
     type: "forest",
     name: { de: "Staatliches Reservat Pirgulu", hu: "Pirgulu Állami Rezervátum", ro: "Rezervația de Stat Pirgulu", en: "Pirgulu State Reserve" },
-    coordinates: { lat: 40.7816, lng: 48.6114 },
+    coords: [48.6114, 40.7816],
     description: {
       de: "Ein Naturschutzgebiet am Südhang des Großen Kaukasus, bekannt für dichte Bergwälder und Biodiversität.",
       hu: "Természetvédelmi terület a Nagy-Kaukázus déli lejtőin, sűrű hegyi erdőiről és biodiverzitásáról ismert.",
@@ -719,7 +719,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-arpachay-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Arpatschai", hu: "Arpacsaj Természeti Szentély", ro: "Sanctuarul Natural Arpachay", en: "Arpachay State Nature Sanctuary" },
-    coordinates: { lat: 39.5544, lng: 45.2281 },
+    coords: [45.2281, 39.5544],
     description: {
       de: "Ein Schutzgebiet in Nachitschewan, das die vielfältige Flora und Fauna entlang des Arpatschai-Flusses bewahrt.",
       hu: "Védett terület Nahicsevánban, amely az Arpacsaj-folyó menti változatos flórát és faunát őrzi.",
@@ -750,7 +750,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-gabala-deer-farm-life-v2",
     type: "wildlife",
     name: { de: "Hirschfarm Gabala", hu: "Gabala Szarvasfarm", ro: "Ferma de cerbi din Gabala", en: "Gabala Deer Farm" },
-    coordinates: { lat: 41.0125, lng: 47.8864 },
+    coords: [47.8864, 41.0125],
     description: {
       de: "Ein spezialisiertes Zuchzentrum in der Nähe des Dorfes Vandam, das sich auf den Schutz von Edelhirschen konzentriert.",
       hu: "Speciális tenyésztőközpont Vandam falu közelében, amely a gímszarvasok védelmére összpontosít.",
@@ -781,7 +781,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-lankaran-citrus-groves-life-v2",
     type: "industry",
     name: { de: "Zitrusplantagen von Lankaran", hu: "Lenkoráni citrusligetek", ro: "Livezile de citrice din Lankaran", en: "Lankaran Citrus Groves" },
-    coordinates: { lat: 38.7522, lng: 48.8541 },
+    coords: [48.8541, 38.7522],
     description: {
       de: "Ausgedehnte Plantagen im subtropischen Süden Aserbaidschans, die für den Anbau von Mandarinen und Zitronen bekannt sind.",
       hu: "Kiterjedt ültetvények Azerbajdzsán szubtrópusi déli részén, amelyek mandarin- és citromtermesztésükről ismertek.",
@@ -812,7 +812,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-arazboyu-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Arazboyu", hu: "Arazboju Természeti Szentély", ro: "Sanctuarul Natural Arazboyu", en: "Arazboyu State Nature Sanctuary" },
-    coordinates: { lat: 39.2312, lng: 45.0215 },
+    coords: [45.0215, 39.2312],
     description: {
       de: "Ein Schutzstreifen entlang des Flusses Aras, der die einzigartigen Tugai-Wälder und die Uferbiodiversität bewahrt.",
       hu: "Védett sáv az Arasz-folyó mentén, amely az egyedülálló tugaj-erdőket és a parti biodiverzitást őrzi.",
@@ -843,7 +843,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-guba-cherry-orchards-life-v2",
     type: "industry",
     name: { de: "Kirschgärten von Quba", hu: "Kubai cseresznyéskertek", ro: "Livezile de cireși din Quba", en: "Guba Cherry Orchards" },
-    coordinates: { lat: 41.3655, lng: 48.5123 },
+    coords: [48.5123, 41.3655],
     description: {
       de: "Bedeutende Kirschanbaugebiete im Norden Aserbaidschans, die für ihre hohe Fruchtqualität bekannt sind.",
       hu: "Jelentős cseresznyetermő területek Észak-Azerbajdzsánban, amelyek kiváló gyümölcsminőségükről ismertek.",
@@ -874,7 +874,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-zaqatala-rose-plantations-life-v2",
     type: "industry",
     name: { de: "Rosenplantagen von Zaqatala", hu: "Zagatala rózsaültetvények", ro: "Plantațiile de trandafiri din Zaqatala", en: "Zagatala Rose Plantations" },
-    coordinates: { lat: 41.6341, lng: 46.6422 },
+    coords: [46.6422, 41.6341],
     description: {
       de: "Zentrum der Rosenölproduktion in Aserbaidschan, wo Damaszener-Rosen auf weiten Feldern angebaut werden.",
       hu: "Azerbajdzsán rózsaolaj-termelésének központja, ahol damaszkuszi rózsákat termesztenek hatalmas mezőkön.",
@@ -905,7 +905,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     id: "azerbaijan-baku-central-park-life-v2",
     type: "park",
     name: { de: "Zentralpark Baku", hu: "Bakui Központi Park", ro: "Parcul Central din Baku", en: "Baku Central Park" },
-    coordinates: { lat: 40.3788, lng: 49.8312 },
+    coords: [49.8312, 40.3788],
     description: {
       de: "Eine moderne Grünanlage im Stadtzentrum, die auf dem Gelände alter Wohnviertel zur Verbesserung der Stadtökologie errichtet wurde.",
       hu: "Modern zöldterület a városközpontban, amely régi lakónegyedek helyén épült a városi ökológia javítása érdekében.",

@@ -5,7 +5,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-kuri-y-life-v2",
     type: "park",
     name: { de: "Parque Kuri'y", hu: "Kuri'y Park", ro: "Parcul Kuri'y", en: "Kuri'y Park" },
-    coordinates: { lat: -26.3522, lng: -55.8422 },
+    coords: [-55.8422, -26.3522],
     description: {
       de: "Dieser Park schützt eine der wenigen verbliebenen Araucaria-Wälder in Paraguay. Er dient als wichtiges Reservat für heimische Flora und Fauna.",
       hu: "Ez a park védi Paraguay egyik utolsó megmaradt araukáriaerdőjét. Fontos rezervátumként szolgál a helyi növény- és állatvilág számára.",
@@ -24,7 +24,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-refugio-tati-yupi-life-v2",
     type: "wildlife",
     name: { de: "Refugio Tatí Yupí", hu: "Tatí Yupí Rezervátum", ro: "Rezervația Tatí Yupí", en: "Tatí Yupí Refuge" },
-    coordinates: { lat: -25.4333, lng: -54.6167 },
+    coords: [-54.6167, -25.4333],
     description: {
       de: "Ein ökologisches Reservat in der Nähe des Itaipu-Staudamms. Es bewahrt die ursprüngliche Vegetation des Paraná-Hochlandes.",
       hu: "Ökológiai rezervátum az Itaipu-gát közelében. Megőrzi a Paraná-felföld eredeti növényzetét.",
@@ -43,7 +43,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-gyu-life-v2",
     type: "wildlife",
     name: { de: "Reserva Natural Gyú", hu: "Gyú Természetvédelmi Terület", ro: "Rezervația Naturală Gyú", en: "Gyú Nature Reserve" },
-    coordinates: { lat: -25.2639, lng: -57.4361 },
+    coords: [-57.4361, -25.2639],
     description: {
       de: "Ein geschütztes Feuchtgebiet, das zahlreichen Zugvögeln als Ruheplatz dient. Die Region ist durch flache Lagunen und Schilfgürtel geprägt.",
       hu: "Védett vizes élőhely, amely számos költözőmadár pihenőhelyéül szolgál. A régiót sekély lagúnák és nádasok jellemzik.",
@@ -62,7 +62,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-jardin-botanico-asuncion-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Asunción", hu: "Asuncióni Botanikus Kert", ro: "Grădina Botanică Asunción", en: "Asunción Botanical Garden" },
-    coordinates: { lat: -25.2675, lng: -57.5511 },
+    coords: [-57.5511, -25.2675],
     description: {
       de: "Dieser Garten beherbergt eine umfangreiche Sammlung einheimischer Pflanzenarten des Chaco und des östlichen Paraguays. Er umfasst zudem einen Tierparkbereich.",
       hu: "Ez a kert a Chaco és Kelet-Paraguay őshonos növényfajainak gazdag gyűjteményét tartalmazza. Egy állatkert is tartozik hozzá.",
@@ -81,7 +81,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-rio-negro-life-v2",
     type: "wildlife",
     name: { de: "Parque Nacional Río Negro", hu: "Río Negro Nemzeti Park", ro: "Parcul Național Río Negro", en: "Río Negro National Park" },
-    coordinates: { lat: -20.0833, lng: -58.1667 },
+    coords: [-58.1667, -20.0833],
     description: {
       de: "Ein bedeutendes Naturschutzgebiet im Pantanal-Biom von Paraguay. Es ist bekannt für seine reiche Population an Wasservögeln und Kaimanen.",
       hu: "Jelentős természetvédelmi terület a paraguayi Pantanal biomon belül. Gazdag vízimadár- és kajmánpopulációjáról ismert.",
@@ -100,7 +100,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-pira-pyta-life-v2",
     type: "wildlife",
     name: { de: "Reserva Pira Pytá", hu: "Pira Pytá Rezervátum", ro: "Rezervația Pira Pytá", en: "Pira Pytá Reserve" },
-    coordinates: { lat: -25.5528, lng: -54.7639 },
+    coords: [-54.7639, -25.5528],
     description: {
       de: "Dieses Reservat am Ufer des Paraná-Flusses schützt lokale Fischbestände und Ufervegetation. Es dient als Erholungsraum für seltene Tierarten.",
       hu: "Ez a Paraná folyó partján fekvő rezervátum védi a helyi halállományt és a parti növényzetet. Menedékként szolgál ritka állatfajok számára.",
@@ -119,7 +119,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-refugio-biologico-karapa-life-v2",
     type: "wildlife",
     name: { de: "Refugio Karapá", hu: "Karapá Rezervátum", ro: "Rezervația Karapá", en: "Karapá Refuge" },
-    coordinates: { lat: -24.2389, lng: -55.8583 },
+    coords: [-55.8583, -24.2389],
     description: {
       de: "Ein Schutzgebiet, das speziell die Biodiversität der Waldregionen im Osten Paraguays bewahrt. Es ist bekannt für seine dichten Baumbestände.",
       hu: "Védett terület, amely kifejezetten Kelet-Paraguay erdeinek biodiverzitását őrzi. Sűrű erdőségeiről ismert.",
@@ -138,7 +138,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-yvy-tuju-life-v2",
     type: "park",
     name: { de: "Parque Yvy Tujú", hu: "Yvy Tujú Park", ro: "Parcul Yvy Tujú", en: "Yvy Tujú Park" },
-    coordinates: { lat: -25.8111, lng: -56.3278 },
+    coords: [-56.3278, -25.8111],
     description: {
       de: "Dieser Park schützt ein einzigartiges Hügelland-Ökosystem. Er bietet Pfade zur Beobachtung der lokalen Flora und der vulkanischen Gesteinsformationen.",
       hu: "Ez a park egy egyedülálló dombvidéki ökoszisztémát véd. Ösvényeket kínál a helyi flóra és a vulkáni kőzetképződmények megfigyelésére.",
@@ -157,7 +157,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-mbaracayu-life-v2",
     type: "wildlife",
     name: { de: "Reserva Mbaracayú", hu: "Mbaracayú Rezervátum", ro: "Rezervația Mbaracayú", en: "Mbaracayú Reserve" },
-    coordinates: { lat: -24.1333, lng: -55.5167 },
+    coords: [-55.5167, -24.1333],
     description: {
       de: "Eines der wichtigsten privaten Schutzgebiete Paraguays. Es bewahrt große zusammenhängende Waldgebiete des Atlantischen Regenwaldes.",
       hu: "Paraguay egyik legfontosabb magánvédelmi területe. Az atlanti esőerdő összefüggő erdőterületeit őrzi.",
@@ -176,7 +176,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-ecologico-don-bosco-life-v2",
     type: "park",
     name: { de: "Parque Ecológico Don Bosco", hu: "Don Bosco Ökopark", ro: "Parcul Ecologic Don Bosco", en: "Don Bosco Ecological Park" },
-    coordinates: { lat: -25.3264, lng: -57.5111 },
+    coords: [-57.5111, -25.3264],
     description: {
       de: "Ein städtischer Ökopark, der auf die Umweltbildung ausgerichtet ist. Er beherbergt typische Pflanzenarten der Asunción-Region.",
       hu: "Városi ökopark, amely a környezeti nevelésre összpontosít. Az Asunción régió jellemző növényfajainak ad otthont.",
@@ -195,7 +195,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-tebicuary-life-v2",
     type: "wildlife",
     name: { de: "Reserva Tebicuary", hu: "Tebicuary Rezervátum", ro: "Rezervația Tebicuary", en: "Tebicuary Reserve" },
-    coordinates: { lat: -26.55, lng: -57.2667 },
+    coords: [-57.2667, -26.55],
     description: {
       de: "Ein Schutzgebiet entlang des Tebicuary-Flusslaufs. Es umfasst wichtige Galeriewälder und bietet Lebensraum für gefährdete Arten.",
       hu: "Védett terület a Tebicuary folyó mentén. Fontos galériaerdőket foglal magában, és élőhelyet biztosít veszélyeztetett fajoknak.",
@@ -214,7 +214,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-cangai-life-v2",
     type: "park",
     name: { de: "Parque Nacional Cañgai", hu: "Cañgai Nemzeti Park", ro: "Parcul Național Cañgai", en: "Cañgai National Park" },
-    coordinates: { lat: -24.85, lng: -56.8833 },
+    coords: [-56.8833, -24.85],
     description: {
       de: "Ein Nationalpark, der für seine abwechslungsreiche Landschaft bekannt ist. Er umfasst ausgedehnte Graslandschaften und bewaldete Hügel.",
       hu: "Nemzeti park, amely változatos tájáról ismert. Kiterjedt gyepeket és erdős dombokat foglal magában.",
@@ -233,7 +233,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-san-juan-life-v2",
     type: "wildlife",
     name: { de: "Reserva San Juan", hu: "San Juan Rezervátum", ro: "Rezervația San Juan", en: "San Juan Reserve" },
-    coordinates: { lat: -25.9667, lng: -56.7833 },
+    coords: [-56.7833, -25.9667],
     description: {
       de: "Ein Schutzgebiet, das eine der letzten gut erhaltenen Waldinseln in der Region San Juan umfasst. Es ist ein wichtiger Ort für die lokale Vogelbeobachtung.",
       hu: "Védett terület, amely San Juan régiójának egyik utolsó jól megőrzött erdőszigetét foglalja magában. Fontos helyszín a helyi madármegfigyeléshez.",
@@ -252,7 +252,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-ybycui-sur-life-v2",
     type: "park",
     name: { de: "Parque Nacional Ybycuí-Süd", hu: "Ybycuí-Dél Nemzeti Park", ro: "Parcul Național Ybycuí-Sud", en: "Ybycuí South National Park" },
-    coordinates: { lat: -26.02, lng: -56.88 },
+    coords: [-56.88, -26.02],
     description: {
       de: "Ein Bereich des Ybycuí-Nationalparks, der für seine Wasserfälle und tiefen Wälder bekannt ist. Er beherbergt eine hohe Anzahl an Farnen.",
       hu: "Az Ybycuí Nemzeti Park egy része, amely vízeséseiről és mély erdőiről ismert. Magas páfrányállomány található itt.",
@@ -271,7 +271,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-itabo-life-v2",
     type: "wildlife",
     name: { de: "Reserva Itabó", hu: "Itabó Rezervátum", ro: "Rezervația Itabó", en: "Itabó Reserve" },
-    coordinates: { lat: -24.45, lng: -54.6667 },
+    coords: [-54.6667, -24.45],
     description: {
       de: "Dieses Reservat bewahrt ein Waldgebiet in der Nähe des Itaipu-Staudamms. Es dient der Bewahrung der regionalen Fauna und Flora.",
       hu: "Ez a rezervátum egy erdőterületet őriz az Itaipu-gát közelében. A regionális állat- és növényvilág megőrzését szolgálja.",
@@ -290,7 +290,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-municipal-salto-cristal-life-v2",
     type: "park",
     name: { de: "Parque Salto Cristal", hu: "Salto Cristal Park", ro: "Parcul Salto Cristal", en: "Salto Cristal Park" },
-    coordinates: { lat: -25.75, lng: -56.7667 },
+    coords: [-56.7667, -25.75],
     description: {
       de: "Ein kommunaler Park rund um den bekannten Salto Cristal Wasserfall. Die umliegende Vegetation bietet Lebensraum für zahlreiche Vogelarten.",
       hu: "Önkormányzati park az ismert Salto Cristal vízesés körül. A környező növényzet számos madárfaj számára biztosít élőhelyet.",
@@ -309,7 +309,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-limoy-life-v2",
     type: "wildlife",
     name: { de: "Reserva Limoy", hu: "Limoy Rezervátum", ro: "Rezervația Limoy", en: "Limoy Reserve" },
-    coordinates: { lat: -24.9667, lng: -54.7 },
+    coords: [-54.7, -24.9667],
     description: {
       de: "Ein privates Reservat zum Schutz des Atlantischen Regenwaldes in der Itaipu-Region. Es spielt eine wichtige Rolle bei der Erhaltung der Biodiversität.",
       hu: "Magánrezervátum az atlanti esőerdő védelmére az Itaipu régióban. Fontos szerepet játszik a biodiverzitás megőrzésében.",
@@ -328,7 +328,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-cerro-cora-alto-life-v2",
     type: "park",
     name: { de: "Parque Nacional Cerro Corá-Alto", hu: "Cerro Corá-Alto Nemzeti Park", ro: "Parcul Național Cerro Corá-Alto", en: "Cerro Corá-Alto National Park" },
-    coordinates: { lat: -22.65, lng: -56.0167 },
+    coords: [-56.0167, -22.65],
     description: {
       de: "Ein Bereich des Cerro Corá Nationalparks mit erhöhter Lage. Er bietet Ausblicke auf die Savannen- und Hügellandschaften im Nordosten.",
       hu: "A Cerro Corá Nemzeti Park magasabban fekvő része. Kilátást kínál az északkeleti szavanna- és dombvidékekre.",
@@ -347,7 +347,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-ko-tavy-life-v2",
     type: "wildlife",
     name: { de: "Reserva Ko Tavy", hu: "Ko Tavy Rezervátum", ro: "Rezervația Ko Tavy", en: "Ko Tavy Reserve" },
-    coordinates: { lat: -24.6333, lng: -55.9333 },
+    coords: [-55.9333, -24.6333],
     description: {
       de: "Dieses kleine Reservat dient der Bewahrung einheimischer Waldarten. Es ist ein wichtiger Rückzugsort für kleinere Säugetiere in der Kulturlandschaft.",
       hu: "Ez a kis rezervátum az őshonos fafajok megőrzését szolgálja. Fontos menedékhely kisebb emlősök számára a kultúrtájban.",
@@ -366,7 +366,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-caazapa-alto-life-v2",
     type: "park",
     name: { de: "Parque Nacional Caazapá-Alto", hu: "Caazapá-Alto Nemzeti Park", ro: "Parcul Național Caazapá-Alto", en: "Caazapá-Alto National Park" },
-    coordinates: { lat: -26.15, lng: -56.3667 },
+    coords: [-56.3667, -26.15],
     description: {
       de: "Ein Teilbereich des Caazapá-Nationalparks, der durch dichte Galeriewälder und eine hohe Vielfalt an Vögeln besticht.",
       hu: "A Caazapá Nemzeti Park egy része, amely sűrű galériaerdőivel és madárvilágának gazdagságával tűnik ki.",
@@ -385,7 +385,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-arary-life-v2",
     type: "wildlife",
     name: { de: "Reserva Arary", hu: "Arary Rezervátum", ro: "Rezervația Arary", en: "Arary Reserve" },
-    coordinates: { lat: -25.4167, lng: -57.4833 },
+    coords: [-57.4833, -25.4167],
     description: {
       de: "Ein Schutzgebiet bei Asunción, das sich auf den Erhalt der Feuchtgebietsflora konzentriert. Es bietet Lebensraum für zahlreiche Amphibien.",
       hu: "Védett terület Asunción közelében, amely a vizes élőhelyek flórájának megőrzésére összpontosít. Számos kétéltűnek biztosít élőhelyet.",
@@ -404,7 +404,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-rio-montelindo-life-v2",
     type: "wildlife",
     name: { de: "Parque Nacional Río Montelindo", hu: "Río Montelindo Nemzeti Park", ro: "Parcul Național Río Montelindo", en: "Río Montelindo National Park" },
-    coordinates: { lat: -23.8667, lng: -57.7333 },
+    coords: [-57.7333, -23.8667],
     description: {
       de: "Ein Nationalpark, der durch den Fluss Montelindo und seine umliegenden Auen geprägt ist. Er ist ein bedeutendes Schutzgebiet im Chaco-Raum.",
       hu: "Nemzeti park, amelyet a Montelindo folyó és a környező árterek jellemeznek. Jelentős védett terület a Chaco térségében.",
@@ -423,7 +423,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-ypane-norte-life-v2",
     type: "wildlife",
     name: { de: "Reserva Ypané-Nord", hu: "Ypané-Észak Rezervátum", ro: "Rezervația Ypané-Nord", en: "Ypané North Reserve" },
-    coordinates: { lat: -23.3333, lng: -56.8167 },
+    coords: [-56.8167, -23.3333],
     description: {
       de: "Ein Reservat im Norden des Ypané-Flusses, das wichtige Waldgebiete und natürliche Wasserquellen umfasst.",
       hu: "Rezervátum az Ypané folyótól északra, amely fontos erdőterületeket és természetes vízforrásokat foglal magában.",
@@ -442,7 +442,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-municipal-bella-vista-life-v2",
     type: "park",
     name: { de: "Parque Municipal Bella Vista", hu: "Bella Vista Városi Park", ro: "Parcul Municipal Bella Vista", en: "Bella Vista Municipal Park" },
-    coordinates: { lat: -27.05, lng: -55.5167 },
+    coords: [-55.5167, -27.05],
     description: {
       de: "Ein kleiner städtischer Park in Bella Vista, der sich der Erhaltung lokaler Baumarten widmet und als Erholungsraum dient.",
       hu: "Kis városi park Bella Vistában, amely a helyi fafajok megőrzésére törekszik és pihenőhelyként szolgál.",
@@ -461,7 +461,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-tebicuary-mi-life-v2",
     type: "wildlife",
     name: { de: "Reserva Tebicuary-Mi", hu: "Tebicuary-Mi Rezervátum", ro: "Rezervația Tebicuary-Mi", en: "Tebicuary-Mi Reserve" },
-    coordinates: { lat: -26.3167, lng: -56.8667 },
+    coords: [-56.8667, -26.3167],
     description: {
       de: "Ein Schutzgebiet entlang des Tebicuary-Mi Flusses. Es bewahrt Galeriewälder und dient als Zufluchtsort für seltene Vogelarten.",
       hu: "Védett terület a Tebicuary-Mi folyó mentén. Galériaerdőket őriz, és menedékhelyként szolgál ritka madárfajok számára.",
@@ -480,7 +480,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-nacional-ybytyruzu-oeste-life-v2",
     type: "park",
     name: { de: "Parque Nacional Ybytyruzú-West", hu: "Ybytyruzú-Nyugat Nemzeti Park", ro: "Parcul Național Ybytyruzú-Vest", en: "Ybytyruzú West National Park" },
-    coordinates: { lat: -25.7667, lng: -56.35 },
+    coords: [-56.35, -25.7667],
     description: {
       de: "Ein Bereich des Ybytyruzú-Gebirgszugs, der für seine hohen Gipfel und dichten Nebelwälder bekannt ist.",
       hu: "Az Ybytyruzú-hegység egy része, amely magas csúcsairól és sűrű köderdőiről ismert.",
@@ -499,7 +499,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-arroyo-ita-life-v2",
     type: "wildlife",
     name: { de: "Reserva Arroyo Ita", hu: "Arroyo Ita Rezervátum", ro: "Rezervația Arroyo Ita", en: "Arroyo Ita Reserve" },
-    coordinates: { lat: -25.5667, lng: -57.4667 },
+    coords: [-57.4667, -25.5667],
     description: {
       de: "Ein Schutzgebiet am Arroyo Ita, das sich auf den Erhalt der ursprünglichen Ufervegetation und kleineren aquatischen Ökosysteme konzentriert.",
       hu: "Védett terület az Arroyo Ita mentén, amely az eredeti parti növényzet és kisebb vízi ökoszisztémák megőrzésére összpontosít.",
@@ -518,7 +518,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-parque-municipal-piribebuy-life-v2",
     type: "park",
     name: { de: "Parque Piribebuy", hu: "Piribebuy Park", ro: "Parcul Piribebuy", en: "Piribebuy Park" },
-    coordinates: { lat: -25.4833, lng: -56.8833 },
+    coords: [-56.8833, -25.4833],
     description: {
       de: "Ein kommunaler Park in Piribebuy, der durch seine grünen Anlagen und die Bewahrung regionaler Baumarten besticht.",
       hu: "Önkormányzati park Piribebuyban, amely zöldterületeivel és a regionális fafajok megőrzésével tűnik ki.",
@@ -537,7 +537,7 @@ export const poiExtraParaguayLifeV2: POI[] = [
     id: "paraguay-reserva-yacyreta-islote-life-v2",
     type: "wildlife",
     name: { de: "Reserva Islote Yacyretá", hu: "Yacyretá-sziget Rezervátum", ro: "Rezervația Insuliței Yacyretá", en: "Yacyretá Islet Reserve" },
-    coordinates: { lat: -27.4667, lng: -56.7333 },
+    coords: [-56.7333, -27.4667],
     description: {
       de: "Ein spezielles Schutzgebiet auf den Inseln im Yacyretá-Stausee. Es ist ein bedeutender Brutplatz für aquatische Vögel.",
       hu: "Különleges védett terület a Yacyretá-víztározó szigetein. Fontos költőhely vízi madarak számára.",

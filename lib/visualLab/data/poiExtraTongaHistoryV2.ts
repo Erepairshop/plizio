@@ -5,7 +5,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-haamonga-a-maui-history-v2",
     type: "monument",
     name: { de: "Ha'amonga 'a Maui", hu: "Ha'amonga 'a Maui", ro: "Ha'amonga 'a Maui", en: "Ha'amonga 'a Maui" },
-    coordinates: { lat: -21.137, lng: -175.048 },
+    coords: [-175.048, -21.137],
     description: {
       de: "Ein massives Korallen-Trilithon aus dem 13. Jahrhundert, das als Eingang zum Heketa-Gelände diente.",
       hu: "Hatalmas, 13. századi korallmészkő trilithon, amely a Heketa királyi udvar bejárataként szolgált.",
@@ -24,7 +24,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-paepae-o-telea-history-v2",
     type: "ruins",
     name: { de: "Paepae 'o Tele'a", hu: "Paepae 'o Tele'a", ro: "Paepae 'o Tele'a", en: "Paepae 'o Tele'a" },
-    coordinates: { lat: -21.181, lng: -175.122 },
+    coords: [-175.122, -21.181],
     description: {
       de: "Eines der prächtigsten terrassierten Königsgräber in Mu'a, erbaut für den 29. Tu'i Tonga.",
       hu: "Mu'a egyik leglátványosabb teraszos királysírja, amelyet a 29. Tu'i Tonga számára építettek.",
@@ -43,7 +43,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-malaekula-history-v2",
     type: "monument",
     name: { de: "Mala'ekula", hu: "Mala'ekula", ro: "Mala'ekula", en: "Mala'ekula" },
-    coordinates: { lat: -21.136, lng: -175.201 },
+    coords: [-175.201, -21.136],
     description: {
       de: "Der offizielle königliche Friedhof in Nuku'alofa, auf dem die Monarchen der modernen Dynastie begraben liegen.",
       hu: "Nuku'alofa hivatalos királyi temetője, ahol a modern dinasztia uralkodói nyugszanak.",
@@ -62,7 +62,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-nukuleka-lapita-history-v2",
     type: "ruins",
     name: { de: "Nukuleka Lapita-Stätte", hu: "Nukuleka Lapita-helyszín", ro: "Situl Lapita Nukuleka", en: "Nukuleka Lapita Site" },
-    coordinates: { lat: -21.156, lng: -175.127 },
+    coords: [-175.127, -21.156],
     description: {
       de: "Archäologische Stätte an der Fanga'uta-Lagune, die als erste Siedlung der Lapita-Kultur in Tonga gilt.",
       hu: "Régészeti lelőhely a Fanga'uta lagúnánál, amelyet a Lapita-kultúra első tongai településének tartanak.",
@@ -81,7 +81,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-captain-cook-landing-history-v2",
     type: "monument",
     name: { de: "Captain Cooks Landungsplatz", hu: "Cook kapitány partraszállási helye", ro: "Locul de debarcare al căpitanului Cook", en: "Captain Cook's Landing Place" },
-    coordinates: { lat: -21.157, lng: -175.126 },
+    coords: [-175.126, -21.157],
     description: {
       de: "Ein Denkmal markiert die Stelle bei Holoipepe, an der James Cook 1777 während seiner dritten Reise landete.",
       hu: "Emlékmű jelzi Holoipepénél azt a helyet, ahol James Cook 1777-ben, harmadik útja során partra szállt.",
@@ -100,7 +100,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-heketa-ancient-capital-history-v2",
     type: "ruins",
     name: { de: "Heketa", hu: "Heketa", ro: "Heketa", en: "Heketa" },
-    coordinates: { lat: -21.138, lng: -175.047 },
+    coords: [-175.047, -21.138],
     description: {
       de: "Der alte Sitz der Tu'i Tonga Könige vor dem Umzug nach Mu'a, Standort des berühmten Trilithons.",
       hu: "A Tu'i Tonga királyok ősi székhelye a Mu'a-ba költözés előtt, a híres trilithon helyszíne.",
@@ -119,7 +119,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-pouono-history-v2",
     type: "landmark",
     name: { de: "Pouono", hu: "Pouono", ro: "Pouono", en: "Pouono" },
-    coordinates: { lat: -18.651, lng: -173.984 },
+    coords: [-173.984, -18.651],
     description: {
       de: "Historischer Versammlungsplatz in Neiafu, wo König George Tupou I. Tonga 1839 Gott weihte.",
       hu: "Történelmi gyülekezőhely Neiafuban, ahol I. György Tupou király 1839-ben Istennek ajánlotta Tongát.",
@@ -138,7 +138,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-velata-fortress-history-v2",
     type: "battlefield",
     name: { de: "Velata Festung", hu: "Velata erőd", ro: "Fortăreața Velata", en: "Velata Fortress" },
-    coordinates: { lat: -19.811, lng: -174.341 },
+    coords: [-174.341, -19.811],
     description: {
       de: "Ruinen einer alten Erdbefestigung auf der Insel Lifuka, die in Stammeskriegen genutzt wurde.",
       hu: "Egy ősi földerőd romjai Lifuka szigetén, amelyet a törzsi háborúk idején használtak.",
@@ -157,7 +157,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-namoala-history-v2",
     type: "ruins",
     name: { de: "Langi Namo'ala", hu: "Langi Namo'ala", ro: "Langi Namo'ala", en: "Langi Namo'ala" },
-    coordinates: { lat: -21.182, lng: -175.121 },
+    coords: [-175.121, -21.182],
     description: {
       de: "Eines der gut erhaltenen Königsgräber in Lapaha, das die Baukunst des Tu'i Tonga Reiches zeigt.",
       hu: "Az egyik jó állapotban fennmaradt királysír Lapahában, amely a Tu'i Tonga Birodalom építészetét hirdeti.",
@@ -176,7 +176,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-maluatonga-history-v2",
     type: "ruins",
     name: { de: "Langi Malu'atonga", hu: "Langi Malu'atonga", ro: "Langi Malu'atonga", en: "Langi Malu'atonga" },
-    coordinates: { lat: -21.183, lng: -175.12 },
+    coords: [-175.12, -21.183],
     description: {
       de: "Ein weiteres bedeutendes terrassiertes Grabmal in der antiken Hauptstadt Mu'a.",
       hu: "Egy másik jelentős teraszos síremlék az ősi fővárosban, Mu'a-ban.",
@@ -195,7 +195,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-centenary-church-history-v2",
     type: "church",
     name: { de: "Zentenarkirche", hu: "Centenáriumi templom", ro: "Biserica Centenarului", en: "Centenary Church" },
-    coordinates: { lat: -21.136, lng: -175.204 },
+    coords: [-175.204, -21.136],
     description: {
       de: "Die Hauptkirche der Free Wesleyan Church in Nuku'alofa, ein Zentrum der tongaischen Methodistengeschichte.",
       hu: "A Szabad Wesleyan Egyház főtemploma Nuku'alofában, a tongai metodista történelem központja.",
@@ -214,7 +214,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-abel-tasman-landing-history-v2",
     type: "monument",
     name: { de: "Abel Tasmans Landungsplatz", hu: "Abel Tasman partraszállási helye", ro: "Locul de debarcare al lui Abel Tasman", en: "Abel Tasman's Landing Site" },
-    coordinates: { lat: -21.121, lng: -175.315 },
+    coords: [-175.315, -21.121],
     description: {
       de: "Stelle an der Westküste von Tongatapu, wo der niederländische Entdecker 1643 als erster Europäer landete.",
       hu: "Tongatapu nyugati partján az a hely, ahol a holland felfedező 1643-ban első európaiként partra szállt.",
@@ -233,7 +233,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-pea-fortress-history-v2",
     type: "battlefield",
     name: { de: "Pea Festungsruinen", hu: "Pea erőd romjai", ro: "Ruinele fortăreței Pea", en: "Pea Fortress Ruins" },
-    coordinates: { lat: -21.166, lng: -175.233 },
+    coords: [-175.233, -21.166],
     description: {
       de: "Überreste einer historischen Befestigung, die ein Zentrum des Widerstands gegen George Tupou I. war.",
       hu: "Egy történelmi erődítmény maradványai, amely az I. György Tupouval szembeni ellenállás központja volt.",
@@ -252,7 +252,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-kanokupolu-crowning-history-v2",
     type: "landmark",
     name: { de: "Krönungsstätte Kanokupolu", hu: "Kanokupolu koronázási helyszín", ro: "Locul de încoronare Kanokupolu", en: "Kanokupolu Crowning Site" },
-    coordinates: { lat: -21.074, lng: -175.34 },
+    coords: [-175.34, -21.074],
     description: {
       de: "Der Ort, an dem die Tu'i Kanokupolu-Linie traditionell unter den heiligen Koka-Bäumen eingesetzt wird.",
       hu: "A hely, ahol a Tu'i Kanokupolu uralkodókat hagyományosan beiktatják a szent koka-fák alatt.",
@@ -271,7 +271,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-sia-heu-lupe-popua-history-v2",
     type: "monument",
     name: { de: "Sia Heu Lupe (Popua)", hu: "Sia Heu Lupe (Popua)", ro: "Sia Heu Lupe (Popua)", en: "Sia Heu Lupe (Popua)" },
-    coordinates: { lat: -21.146, lng: -175.163 },
+    coords: [-175.163, -21.146],
     description: {
       de: "Ein antiker Hügel in Sternform, der früher für die königliche Taubenjagd genutzt wurde.",
       hu: "Egy ősi csillag alakú domb, amelyet korábban királyi galambvadászathoz használtak.",
@@ -290,7 +290,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-makahokovalu-history-v2",
     type: "ruins",
     name: { de: "Makahokovalu", hu: "Makahokovalu", ro: "Makahokovalu", en: "Makahokovalu" },
-    coordinates: { lat: -18.632, lng: -173.931 },
+    coords: [-173.931, -18.632],
     description: {
       de: "Eine archäologische Stätte in Vava'u mit großen Steinplatten, deren Ursprung mysteriös bleibt.",
       hu: "Régészeti lelőhely Vava'u-n, hatalmas kőlapokkal, melyek eredete rejtélyes.",
@@ -309,7 +309,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-anahulu-cave-archaeological-history-v2",
     type: "landmark",
     name: { de: "'Anahulu Höhle", hu: "'Anahulu barlang", ro: "Peștera 'Anahulu", en: "'Anahulu Cave" },
-    coordinates: { lat: -21.206, lng: -175.059 },
+    coords: [-175.059, -21.206],
     description: {
       de: "Ein natürliches Höhlensystem mit Süßwasserpools, das seit der Lapita-Zeit von Menschen genutzt wurde.",
       hu: "Természetes barlangrendszer édesvizű medencékkel, amelyet a Lapita-kor óta használnak az emberek.",
@@ -328,7 +328,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-angaha-ghost-town-history-v2",
     type: "ruins",
     name: { de: "Angaha Geisterstadt", hu: "Angaha szellemváros", ro: "Orașul fantomă Angaha", en: "Angaha Ghost Town" },
-    coordinates: { lat: -15.561, lng: -175.632 },
+    coords: [-175.632, -15.561],
     description: {
       de: "Ehemaliges Verwaltungszentrum von Niuafo'ou, das nach dem Vulkanausbruch von 1946 evakuiert wurde.",
       hu: "Niuafo'ou egykori közigazgatási központja, amelyet az 1946-os vulkánkitörés után evakuáltak.",
@@ -347,7 +347,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-niuatoputapu-mounds-history-v2",
     type: "ruins",
     name: { de: "Niuatoputapu Grabhügel", hu: "Niuatoputapu sírhalmok", ro: "Movilele funerare Niuatoputapu", en: "Niuatoputapu Burial Mounds" },
-    coordinates: { lat: -15.955, lng: -173.766 },
+    coords: [-173.766, -15.955],
     description: {
       de: "Mehrere archäologische Erdhügel auf der abgelegenen Insel, die auf eine lange Siedlungsgeschichte hindeuten.",
       hu: "Számos régészeti földhalom a távoli szigeten, amelyek hosszú településtörténetre utalnak.",
@@ -366,7 +366,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-nomuka-watering-hole-history-v2",
     type: "landmark",
     name: { de: "Nomuka Wasserstelle", hu: "Nomuka víznyerő hely", ro: "Locul de adăpare Nomuka", en: "Nomuka Watering Hole" },
-    coordinates: { lat: -20.255, lng: -174.801 },
+    coords: [-174.801, -20.255],
     description: {
       de: "Historischer Ort auf der Insel Nomuka, an dem frühe Entdecker wie Cook und Bligh ihre Vorräte auffüllten.",
       hu: "Történelmi hely Nomuka szigetén, ahol a korai felfedezők, mint Cook és Bligh, feltöltötték készleteiket.",
@@ -385,7 +385,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-tofua-mutiny-history-v2",
     type: "landmark",
     name: { de: "Tofua Bounty-Stätte", hu: "Tofua Bounty-helyszín", ro: "Situl Bounty Tofua", en: "Tofua Mutiny Site" },
-    coordinates: { lat: -18.75, lng: -175.066 },
+    coords: [-175.066, -18.75],
     description: {
       de: "Vulkaninsel, auf der Captain Bligh und seine Getreuen nach der Meuterei auf der Bounty 1789 kurz landeten.",
       hu: "Vulkáni sziget, ahol Bligh kapitány és hűséges emberei kikötöttek a Bounty-lázadás után 1789-ben.",
@@ -404,7 +404,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-ata-island-history-v2",
     type: "ruins",
     name: { de: "Ata Insel", hu: "Ata-sziget", ro: "Insula Ata", en: "Ata Island" },
-    coordinates: { lat: -22.147, lng: -176.182 },
+    coords: [-176.182, -22.147],
     description: {
       de: "Eine heute unbewohnte Insel, deren Bevölkerung 1863 durch Sklavenhändler (Blackbirding) fast ausgelöscht wurde.",
       hu: "Mára lakatlan sziget, melynek lakosságát 1863-ban rabszolgakereskedők szinte teljesen elhurcolták.",
@@ -423,7 +423,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-lifuka-historic-district-history-v2",
     type: "landmark",
     name: { de: "Lifuka Historisches Viertel", hu: "Lifuka történelmi negyed", ro: "Districtul istoric Lifuka", en: "Lifuka Historic District" },
-    coordinates: { lat: -19.805, lng: -174.347 },
+    coords: [-174.347, -19.805],
     description: {
       de: "Das Verwaltungs- und Geschichtszentrum der Ha'apai-Gruppe, bekannt für koloniale und königliche Verbindungen.",
       hu: "A Ha'apai-szigetcsoport közigazgatási és történelmi központja, ismert gyarmati és királyi kapcsolatairól.",
@@ -442,7 +442,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-basilica-st-anthony-history-v2",
     type: "cathedral",
     name: { de: "Basilika St. Antonius von Padua", hu: "Páduai Szent Antal-bazilika", ro: "Bazilica Sfântul Anton de Padova", en: "Basilica of St. Anthony of Padua" },
-    coordinates: { lat: -21.133, lng: -175.201 },
+    coords: [-175.201, -21.133],
     description: {
       de: "Eine markante katholische Kirche in Nuku'alofa mit einzigartiger runder Architektur und tongaischen Schnitzereien.",
       hu: "Jellegzetes katolikus templom Nuku'alofában, egyedi kerek építészettel és tongai fafaragásokkal.",
@@ -461,7 +461,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-old-mua-port-history-v2",
     type: "port",
     name: { de: "Alter Hafen von Mu'a", hu: "Mu'a régi kikötője", ro: "Vechiul port din Mu'a", en: "Old Mu'a Port" },
-    coordinates: { lat: -21.179, lng: -175.127 },
+    coords: [-175.127, -21.179],
     description: {
       de: "Einst der zentrale Hafen des Tu'i Tonga Reiches, von dem aus Seekriegszüge und Handelsreisen begannen.",
       hu: "Egykor a Tu'i Tonga Birodalom központi kikötője, ahonnan a hódító utak és kereskedelmi utak indultak.",
@@ -480,7 +480,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-feletoa-fortress-history-v2",
     type: "battlefield",
     name: { de: "Feletoa Festung", hu: "Feletoa erőd", ro: "Fortăreața Feletoa", en: "Feletoa Fortress" },
-    coordinates: { lat: -18.618, lng: -173.968 },
+    coords: [-173.968, -18.618],
     description: {
       de: "Eine historische Erdbefestigung auf Vava'u, die während der tongaischen Bürgerkriege genutzt wurde.",
       hu: "Történelmi földerőd Vava'u szigetén, amelyet a tongai polgárháborúk idején használtak.",
@@ -499,7 +499,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-uiha-royal-tombs-history-v2",
     type: "ruins",
     name: { de: "'Uiha Königsgräber", hu: "'Uiha királysírok", ro: "Mormintele regale din 'Uiha", en: "'Uiha Royal Tombs" },
-    coordinates: { lat: -19.905, lng: -174.408 },
+    coords: [-174.408, -19.905],
     description: {
       de: "Alte Grabanlagen auf der heiligen Insel 'Uiha, die als Ruhestätte für bedeutende lokale Häuptlinge dienen.",
       hu: "Ősi sírhelyek a szent 'Uiha szigetén, amelyek fontos helyi törzsfők nyughelyei.",
@@ -518,7 +518,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-toula-caves-history-v2",
     type: "landmark",
     name: { de: "Toula Höhlen", hu: "Toula barlangok", ro: "Peșterile Toula", en: "Toula Caves" },
-    coordinates: { lat: -18.665, lng: -173.985 },
+    coords: [-173.985, -18.665],
     description: {
       de: "Höhlen in Vava'u, die traditionell als Zufluchtsort und für Bestattungen in prähistorischer Zeit genutzt wurden.",
       hu: "Vava'u barlangjai, amelyeket hagyományosan menedékként és temetkezésre használtak a történelem előtti időkben.",
@@ -537,7 +537,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-haafeva-historic-pier-history-v2",
     type: "port",
     name: { de: "Historischer Kai von Ha'afeva", hu: "Ha'afeva történelmi mólója", ro: "Mollul istoric din Ha'afeva", en: "Ha'afeva Historic Pier" },
-    coordinates: { lat: -19.946, lng: -174.711 },
+    coords: [-174.711, -19.946],
     description: {
       de: "Ein geschichtsträchtiger Anlegeplatz in Ha'apai, der seit der Kolonialzeit ein Tor zur Außenwelt war.",
       hu: "Történelmi kikötőhely Ha'apai-n, amely a gyarmati kor óta kapu volt a külvilág felé.",
@@ -556,7 +556,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-heketa-history-v2",
     type: "ruins",
     name: { de: "Langi Heketa", hu: "Langi Heketa", ro: "Langi Heketa", en: "Langi Heketa" },
-    coordinates: { lat: -21.139, lng: -175.048 },
+    coords: [-175.048, -21.139],
     description: {
       de: "Das älteste bekannte terrassierte Grab in Tonga, verbunden mit der frühen Hauptstadt Heketa.",
       hu: "A legrégebbi ismert teraszos sír Tongán, amely az ősi Heketa fővároshoz kötődik.",
@@ -575,7 +575,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-leka-history-v2",
     type: "ruins",
     name: { de: "Langi Leka", hu: "Langi Leka", ro: "Langi Leka", en: "Langi Leka" },
-    coordinates: { lat: -21.182, lng: -175.123 },
+    coords: [-175.123, -21.182],
     description: {
       de: "Ein bedeutendes Grabmal in der Mu'a-Region, bekannt für seine präzisen Steinsetzungen.",
       hu: "Jelentős síremlék a Mu'a régióban, amely precíz kőillesztéseiről ismert.",
@@ -594,7 +594,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-tauhala-history-v2",
     type: "ruins",
     name: { de: "Langi Tauhala", hu: "Langi Tauhala", ro: "Langi Tauhala", en: "Langi Tauhala" },
-    coordinates: { lat: -21.18, lng: -175.125 },
+    coords: [-175.125, -21.18],
     description: {
       de: "Ein weniger bekanntes, aber archäologisch wichtiges terrassiertes Grab im Lapaha-Bezirk.",
       hu: "Kevésbé ismert, de régészetileg fontos teraszos sír a Lapaha negyedben.",
@@ -613,7 +613,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-o-luani-history-v2",
     type: "ruins",
     name: { de: "Langi 'o Luani", hu: "Langi 'o Luani", ro: "Langi 'o Luani", en: "Langi 'o Luani" },
-    coordinates: { lat: -21.184, lng: -175.122 },
+    coords: [-175.122, -21.184],
     description: {
       de: "Ein historisches Grabmal in Lapaha, das der Adelslinie der Luani zugeordnet ist.",
       hu: "Történelmi síremlék Lapahában, amely a Luani nemesi vonalhoz köthető.",
@@ -632,7 +632,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-toafa-history-v2",
     type: "ruins",
     name: { de: "Langi Toafa", hu: "Langi Toafa", ro: "Langi Toafa", en: "Langi Toafa" },
-    coordinates: { lat: -21.185, lng: -175.118 },
+    coords: [-175.118, -21.185],
     description: {
       de: "Ein monumentales Grabmal im antiken Mu'a, das die Macht der Tu'i Tonga Dynastie repräsentiert.",
       hu: "Monumentális síremlék az ősi Mu'a-ban, amely a Tu'i Tonga dinasztia hatalmát jelképezi.",
@@ -651,7 +651,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-faapite-history-v2",
     type: "ruins",
     name: { de: "Langi Fa'apite", hu: "Langi Fa'apite", ro: "Langi Fa'apite", en: "Langi Fa'apite" },
-    coordinates: { lat: -21.181, lng: -175.126 },
+    coords: [-175.126, -21.181],
     description: {
       de: "Eines der archäologischen Gräber in Mu'a, bekannt für seine enge Verbindung zum alten Hafen.",
       hu: "Mu'a egyik régészeti sírhelye, amely a régi kikötővel való szoros kapcsolatáról ismert.",
@@ -670,7 +670,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-moungalafa-history-v2",
     type: "ruins",
     name: { de: "Langi Moungalafa", hu: "Langi Moungalafa", ro: "Langi Moungalafa", en: "Langi Moungalafa" },
-    coordinates: { lat: -21.183, lng: -175.124 },
+    coords: [-175.124, -21.183],
     description: {
       de: "Ein imposanter Grabhügel in Mu'a, der die hierarchische Gesellschaftsordnung widerspiegelt.",
       hu: "Impozáns sírhalom Mu'a-ban, amely a hierarchikus társadalmi rendet tükrözi.",
@@ -689,7 +689,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-naba-history-v2",
     type: "ruins",
     name: { de: "Langi Naba", hu: "Langi Naba", ro: "Langi Naba", en: "Langi Naba" },
-    coordinates: { lat: -21.18, lng: -175.12 },
+    coords: [-175.12, -21.18],
     description: {
       de: "Ein antikes Königsgrab in Mu'a, das durch seine Größe und Form besticht.",
       hu: "Ősi királysír Mu'a-ban, amely méretével és formájával tűnik ki.",
@@ -708,7 +708,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-tofua-tomb-history-v2",
     type: "ruins",
     name: { de: "Langi Tofua", hu: "Langi Tofua", ro: "Langi Tofua", en: "Langi Tofua" },
-    coordinates: { lat: -21.185, lng: -175.125 },
+    coords: [-175.125, -21.185],
     description: {
       de: "Ein zeremonielles Grabmal in Lapaha, benannt nach der Vulkaninsel Tofua.",
       hu: "Ceremoniális síremlék Lapahában, amelyet Tofua vulkáni szigetéről neveztek el.",
@@ -727,7 +727,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-tuofefafa-history-v2",
     type: "ruins",
     name: { de: "Langi Tu'ofefafa", hu: "Langi Tu'ofefafa", ro: "Langi Tu'ofefafa", en: "Langi Tu'ofefafa" },
-    coordinates: { lat: -21.181, lng: -175.117 },
+    coords: [-175.117, -21.181],
     description: {
       de: "Ein terrassiertes Steingrab in Mu'a, das einem Tu'i Tonga aus dem 15. Jahrhundert zugeschrieben wird.",
       hu: "Teraszos kősír Mu'a-ban, amelyet egy 15. századi Tu'i Tonga uralkodónak tulajdonítanak.",
@@ -746,7 +746,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-langi-o-lakepa-history-v2",
     type: "ruins",
     name: { de: "Langi 'o Lakepa", hu: "Langi 'o Lakepa", ro: "Langi 'o Lakepa", en: "Langi 'o Lakepa" },
-    coordinates: { lat: -21.182, lng: -175.121 },
+    coords: [-175.121, -21.182],
     description: {
       de: "Ein bedeutendes Grab in Mu'a, das die Allianz zwischen Tonga und Fidschi durch die Lakepa-Linie symbolisiert.",
       hu: "Jelentős sírhely Mu'a-ban, amely a Tonga és Fidzsi közötti szövetséget jelképezi a Lakepa-vonalon keresztül.",
@@ -765,7 +765,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-kolovai-cultural-history-v2",
     type: "landmark",
     name: { de: "Kolovai Geschichtsdorf", hu: "Kolovai történelmi falu", ro: "Satul istoric Kolovai", en: "Kolovai Cultural Village" },
-    coordinates: { lat: -21.085, lng: -175.337 },
+    coords: [-175.337, -21.085],
     description: {
       de: "Ein Dorf im Westen von Tongatapu, berühmt für seine Flughunde und die engen Bindungen zum Königshaus.",
       hu: "Falu Tongatapu nyugati részén, híres repülőkutyáiról és a királyi házhoz fűződő szoros kapcsolatairól.",
@@ -784,7 +784,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-pangai-historic-square-history-v2",
     type: "landmark",
     name: { de: "Pangai Lahi Platz", hu: "Pangai Lahi tér", ro: "Piața Pangai Lahi", en: "Pangai Lahi Square" },
-    coordinates: { lat: -21.132, lng: -175.202 },
+    coords: [-175.202, -21.132],
     description: {
       de: "Die große Rasenfläche vor dem königlichen Palast in Nuku'alofa, Schauplatz nationaler Feiern.",
       hu: "A nuku'alofai királyi palota előtti nagy füves terület, a nemzeti ünnepségek helyszíne.",
@@ -803,7 +803,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-neiafu-old-wharves-history-v2",
     type: "port",
     name: { de: "Alte Kais von Neiafu", hu: "Neiafu régi rakpartjai", ro: "Vechile cheiuri din Neiafu", en: "Neiafu Old Wharves" },
-    coordinates: { lat: -18.653, lng: -173.982 },
+    coords: [-173.982, -18.653],
     description: {
       de: "Historische Hafengegend in Vava'u, die einst das Zentrum des Walfangs und des Handels war.",
       hu: "Vava'u történelmi kikötői területe, amely egykor a bálnavadászat és a kereskedelem központja volt.",
@@ -822,7 +822,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-eua-old-fort-history-v2",
     type: "battlefield",
     name: { de: "'Eua Altes Fort", hu: "'Eua régi erőd", ro: "Vechea fortăreață 'Eua", en: "'Eua Old Fort Site" },
-    coordinates: { lat: -21.366, lng: -174.933 },
+    coords: [-174.933, -21.366],
     description: {
       de: "Überreste einer historischen Bergfestung auf der Insel 'Eua, die in Verteidigungskriegen genutzt wurde.",
       hu: "'Eua szigetén található történelmi hegyi erőd maradványai, védelmi háborúk helyszíne.",
@@ -841,7 +841,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-mua-archaeological-zone-history-v2",
     type: "ruins",
     name: { de: "Mu'a Archäologische Zone", hu: "Mu'a régészeti zóna", ro: "Zona arheologică Mu'a", en: "Mu'a Archaeological Zone" },
-    coordinates: { lat: -21.18, lng: -175.122 },
+    coords: [-175.122, -21.18],
     description: {
       de: "Das gesamte Gebiet der antiken Hauptstadt Mu'a, das eine hohe Dichte an Gräbern und Monumenten aufweist.",
       hu: "Az ősi Mu'a főváros teljes területe, ahol sűrűn találhatók sírok és műemlékek.",
@@ -860,7 +860,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-talasiu-historic-site-history-v2",
     type: "ruins",
     name: { de: "Talasiu Geschichtsstätte", hu: "Talasiu történelmi helyszín", ro: "Situl istoric Talasiu", en: "Talasiu Historic Site" },
-    coordinates: { lat: -21.171, lng: -175.114 },
+    coords: [-175.114, -21.171],
     description: {
       de: "Ein Dorf in der Nähe von Mu'a mit mehreren Grabhügeln und alten königlichen Residenzen.",
       hu: "Mu'a közeli falu, ahol számos sírhalom és régi királyi rezidencia található.",
@@ -879,7 +879,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-vaini-historic-mounds-history-v2",
     type: "ruins",
     name: { de: "Vaini Hügelgräber", hu: "Vaini sírhalmok", ro: "Movilele istorice din Vaini", en: "Vaini Historic Mounds" },
-    coordinates: { lat: -21.196, lng: -175.176 },
+    coords: [-175.176, -21.196],
     description: {
       de: "Eine Gruppe von archäologischen Erdhügeln im Zentrum von Tongatapu, die als Siedlungsreste dienen.",
       hu: "Régészeti földhalmok csoportja Tongatapu központjában, amelyek településmaradványok.",
@@ -898,7 +898,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-makave-mounds-history-v2",
     type: "ruins",
     name: { de: "Makave Grabhügel", hu: "Makave sírhalmok", ro: "Movilele Makave", en: "Makave Burial Mounds" },
-    coordinates: { lat: -18.647, lng: -173.957 },
+    coords: [-173.957, -18.647],
     description: {
       de: "Archäologische Stätte in Vava'u mit mehreren Grabhügeln (Sia), die lokale Häuptlingsfamilien ehren.",
       hu: "Régészeti lelőhely Vava'u-n, sírhalmokkal (Sia), melyek a helyi főnöki családokat tisztelik.",
@@ -917,7 +917,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-pa-paea-mound-history-v2",
     type: "ruins",
     name: { de: "Pa Paea Grabhügel", hu: "Pa Paea sírhalom", ro: "Movila Pa Paea", en: "Pa Paea Burial Mound" },
-    coordinates: { lat: -21.181, lng: -175.129 },
+    coords: [-175.129, -21.181],
     description: {
       de: "Ein bedeutendes prähistorisches Denkmal am Rande von Mu'a, bestehend aus Stein und Erde.",
       hu: "Jelentős történelem előtti emlékmű Mu'a szélén, kőből és földből épült.",
@@ -936,7 +936,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-nukunuku-mounds-history-v2",
     type: "ruins",
     name: { de: "Nukunuku Hügel", hu: "Nukunuku sírhalmok", ro: "Movilele Nukunuku", en: "Nukunuku Historic Mounds" },
-    coordinates: { lat: -21.131, lng: -175.291 },
+    coords: [-175.291, -21.131],
     description: {
       de: "Historische Erdbauwerke im Westen von Tongatapu, die auf eine bedeutende Siedlung hindeuten.",
       hu: "Történelmi földművek Tongatapu nyugati részén, amelyek jelentős településre utalnak.",
@@ -955,7 +955,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-haano-historic-village-history-v2",
     type: "landmark",
     name: { de: "Ha'ano Geschichtsdorf", hu: "Ha'ano történelmi falu", ro: "Satul istoric Ha'ano", en: "Ha'ano Historic Village" },
-    coordinates: { lat: -19.671, lng: -174.286 },
+    coords: [-174.286, -19.671],
     description: {
       de: "Ein geschichtsträchtiges Dorf auf der Insel Ha'ano, bekannt für seine traditionelle tongaische Struktur.",
       hu: "Történelmi jelentőségű falu Ha'ano szigetén, amely hagyományos tongai szerkezetéről ismert.",
@@ -974,7 +974,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-foa-archaeological-history-v2",
     type: "ruins",
     name: { de: "Foa Archäologische Stätten", hu: "Foa régészeti lelőhelyek", ro: "Situr arheologice Foa", en: "Foa Archaeological Sites" },
-    coordinates: { lat: -19.742, lng: -174.298 },
+    coords: [-174.298, -19.742],
     description: {
       de: "Verschiedene archäologische Fundplätze auf der Insel Foa, die frühe Besiedlungsspuren zeigen.",
       hu: "Különböző régészeti lelőhelyek Foa szigetén, amelyek korai településnyomokat mutatnak.",
@@ -993,7 +993,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-tatakamotonga-district-history-v2",
     type: "landmark",
     name: { de: "Tatakamotonga Bezirk", hu: "Tatakamotonga negyed", ro: "Districtul Tatakamotonga", en: "Tatakamotonga District" },
-    coordinates: { lat: -21.189, lng: -175.123 },
+    coords: [-175.123, -21.189],
     description: {
       de: "Ein Teil der antiken Stadt Mu'a, der eng mit der herrschenden Aristokratie verbunden ist.",
       hu: "Az ősi Mu'a város része, amely szorosan kapcsolódik az uralkodó arisztokráciához.",
@@ -1012,7 +1012,7 @@ export const tongaHistoryV2: POI[] = [
     id: "tonga-lapaha-district-history-v2",
     type: "landmark",
     name: { de: "Lapaha Bezirk", hu: "Lapaha negyed", ro: "Districtul Lapaha", en: "Lapaha District" },
-    coordinates: { lat: -21.181, lng: -175.122 },
+    coords: [-175.122, -21.181],
     description: {
       de: "Das religiöse und Bestattungszentrum der antiken Hauptstadt Mu'a, reich an Langi-Gräbern.",
       hu: "Az ősi Mu'a főváros vallási és temetkezési központja, amely bővelkedik Langi-sírokban.",

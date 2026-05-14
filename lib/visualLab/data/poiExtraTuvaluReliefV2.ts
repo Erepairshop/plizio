@@ -5,7 +5,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-niulakita-high-point-relief-v2",
     type: "peak",
     name: { de: "Niulakita Höchster Punkt", hu: "Niulakita legmagasabb pontja", ro: "Punctul cel mai înalt din Niulakita", en: "Niulakita High Point" },
-    coordinates: { lat: -10.7872, lng: 179.4674 },
+    coords: [179.4674, -10.7872],
     description: {
       de: "Der höchste Punkt von Tuvalu liegt auf der Insel Niulakita und erreicht nur 4,6 Meter über dem Meeresspiegel.",
       hu: "Tuvalu legmagasabb pontja a Niulakita-szigeten található, mindössze 4,6 méterrel a tengerszint felett.",
@@ -24,7 +24,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-funafuti-atoll-relief-v2",
     type: "landmark",
     name: { de: "Funafuti-Atoll", hu: "Funafuti-atoll", ro: "Atolul Funafuti", en: "Funafuti Atoll" },
-    coordinates: { lat: -8.5167, lng: 179.1333 },
+    coords: [179.1333, -8.5167],
     description: {
       de: "Funafuti ist das größte Atoll von Tuvalu und besteht aus etwa 30 kleinen Inseln, die eine Lagune umschließen.",
       hu: "Funafuti Tuvalu legnagyobb atollja, amely körülbelül 30 kis szigetből áll egy központi lagúna körül.",
@@ -43,7 +43,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-vaitupu-island-relief-v2",
     type: "landmark",
     name: { de: "Vaitupu Insel", hu: "Vaitupu-sziget", ro: "Insula Vaitupu", en: "Vaitupu Island" },
-    coordinates: { lat: -7.4833, lng: 178.6833 },
+    coords: [178.6833, -7.4833],
     description: {
       de: "Vaitupu ist die flächenmäßig größte Insel von Tuvalu und weist eine fast vollständig umschlossene Lagune auf.",
       hu: "Vaitupu Tuvalu legnagyobb szárazföldi területű szigete, amely egy majdnem teljesen zárt lagúnával rendelkezik.",
@@ -62,7 +62,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-nanumanga-island-relief-v2",
     type: "landmark",
     name: { de: "Nanumanga Insel", hu: "Nanumanga-sziget", ro: "Insula Nanumanga", en: "Nanumanga Island" },
-    coordinates: { lat: -6.2833, lng: 176.3167 },
+    coords: [176.3167, -6.2833],
     description: {
       de: "Nanumanga ist eine Riffinsel ohne zentrale Lagune, bekannt für ihre steilen Korallenränder und Unterwasserhöhlen.",
       hu: "Nanumanga egy zátonysziget központi lagúna nélkül, amely meredek korallpartjairól és víz alatti barlangjairól ismert.",
@@ -81,7 +81,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-nanumea-atoll-relief-v2",
     type: "landmark",
     name: { de: "Nanumea-Atoll", hu: "Nanumea-atoll", ro: "Atolul Nanumea", en: "Nanumea Atoll" },
-    coordinates: { lat: -5.6667, lng: 176.1167 },
+    coords: [176.1167, -5.6667],
     description: {
       de: "Nanumea ist das nördlichste Atoll von Tuvalu und besteht aus fünf Inseln entlang eines Korallenriffs.",
       hu: "Nanumea Tuvalu legészakibb atollja, amely öt szigetből áll egy korallzátony mentén.",
@@ -100,7 +100,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-niutao-island-relief-v2",
     type: "landmark",
     name: { de: "Niutao Insel", hu: "Niutao-sziget", ro: "Insula Niutao", en: "Niutao Island" },
-    coordinates: { lat: -6.1083, lng: 177.3417 },
+    coords: [177.3417, -6.1083],
     description: {
       de: "Niutao ist eine kompakte Riffinsel mit einer zentralen Senke, die fast den Charakter eines Atolls ohne Öffnung hat.",
       hu: "Niutao egy kompakt zátonysziget egy központi mélyedéssel, amely szinte egy nyílás nélküli atollhoz hasonlít.",
@@ -119,7 +119,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-nui-atoll-relief-v2",
     type: "landmark",
     name: { de: "Nui-Atoll", hu: "Nui-atoll", ro: "Atolul Nui", en: "Nui Atoll" },
-    coordinates: { lat: -7.225, lng: 177.15 },
+    coords: [177.15, -7.225],
     description: {
       de: "Das Nui-Atoll besteht aus einer Kette von 21 Inseln, die ein längliches Riffsystem im Westen Tuvalus bilden.",
       hu: "A Nui-atoll 21 szigetből álló lánc, amely egy megnyúlt zátonyrendszert alkot Tuvalu nyugati részén.",
@@ -138,7 +138,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-nukufetau-atoll-relief-v2",
     type: "landmark",
     name: { de: "Nukufetau-Atoll", hu: "Nukufetau-atoll", ro: "Atolul Nukufetau", en: "Nukufetau Atoll" },
-    coordinates: { lat: -8.0, lng: 178.5 },
+    coords: [178.5, -8.0],
     description: {
       de: "Nukufetau ist ein großes, rechteckiges Atoll mit einer tiefen Lagune und zahlreichen kleinen Koralleninseln.",
       hu: "Nukufetau egy nagy, téglalap alakú atoll mély lagúnával és számos kis korallszigettel.",
@@ -157,7 +157,7 @@ export const tuvaluReliefV2: POI[] = [
     id: "tuvalu-nukulaelae-atoll-relief-v2",
     type: "landmark",
     name: { de: "Nukulaelae-Atoll", hu: "Nukulaelae-atoll", ro: "Atolul Nukulaelae", en: "Nukulaelae Atoll" },
-    coordinates: { lat: -9.3833, lng: 179.85 },
+    coords: [179.85, -9.3833],
     description: {
       de: "Nukulaelae ist ein schmales Atoll im Südosten Tuvalus, das eine flache Lagune mit feinem Sand umschließt.",
       hu: "Nukulaelae egy keskeny atoll Tuvalu délkeleti részén, amely egy sekély, finom homokos lagúnát zár körül.",

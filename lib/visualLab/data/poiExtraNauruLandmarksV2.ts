@@ -5,7 +5,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-parliament-house-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Nauru", hu: "Naurui Országház", ro: "Casa Parlamentului din Nauru", en: "Parliament House of Nauru" },
-    coordinates: { lat: -0.547, lng: 166.916 },
+    coords: [166.916, -0.547],
     description: {
       de: "Das Parlamentsgebäude in Yaren ist das politische Zentrum des Inselstaates. Es beherbergt die gesetzgebende Versammlung von Nauru in Küstennähe.",
       hu: "A Yaren körzetben található épület Nauru törvényhozásának központja. Az építmény közel fekszik a nemzetközi repülőtérhez és az óceánparthoz.",
@@ -24,7 +24,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nauru Museum", hu: "Naurui Múzeum", ro: "Muzeul Național Nauru", en: "Nauru Museum" },
-    coordinates: { lat: -0.545, lng: 166.931 },
+    coords: [166.931, -0.545],
     description: {
       de: "Das Nationalmuseum bewahrt das kulturelle Erbe und die Geschichte der Phosphatgewinnung. Es zeigt Artefakte aus der Zeit des Zweiten Weltkriegs.",
       hu: "A nemzeti múzeum megőrzi a sziget kulturális örökségét és a foszfátbányászat történetét. Második világháborús leleteket is bemutat.",
@@ -43,7 +43,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-command-ridge-landmarks-v2",
     type: "landmark",
     name: { de: "Command Ridge", hu: "Command Ridge kilátóhely", ro: "Creasta Command", en: "Command Ridge" },
-    coordinates: { lat: -0.531, lng: 166.918 },
+    coords: [166.918, -0.531],
     description: {
       de: "Command Ridge ist der höchste Punkt von Nauru mit einer Höhe von 65 Metern. Hier befinden sich Überreste japanischer Geschütze aus dem Zweiten Weltkrieg.",
       hu: "A Command Ridge Nauru legmagasabb pontja, 65 méteres tengerszint feletti magassággal. A helyszínen japán légvédelmi ágyúk maradványai láthatók.",
@@ -62,7 +62,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-phosphate-cantilever-landmarks-v2",
     type: "industry",
     name: { de: "Phosphat-Verladearm", hu: "Foszfátrakodó daru", ro: "Terminalul de fosfat", en: "Phosphate Cantilever" },
-    coordinates: { lat: -0.528, lng: 166.911 },
+    coords: [166.911, -0.528],
     description: {
       de: "Dieser ikonische Ausleger dient zum Verladen von Phosphat auf Schiffe vor der Küste. Er ist ein markantes Symbol für die Bergbauindustrie von Nauru.",
       hu: "Ez az ikonikus rakodókar a foszfát hajókra történő átrakodására szolgál a part mentén. A szerkezet Nauru bányászati múltjának jelképe.",
@@ -81,7 +81,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-civic-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Bürgerzentrum Aiwo", hu: "Aiwo Közösségi Központ", ro: "Centrul Civic Aiwo", en: "Aiwo Civic Centre" },
-    coordinates: { lat: -0.531, lng: 166.913 },
+    coords: [166.913, -0.531],
     description: {
       de: "Das Bürgerzentrum in Aiwo ist ein zentraler Treffpunkt für administrative und soziale Veranstaltungen. Es ist eines der größten Gebäude des Distrikts.",
       hu: "Az Aiwo körzetben található központ adminisztratív és közösségi események helyszíne. A körzet egyik legnagyobb középülete.",
@@ -100,7 +100,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-yaren-police-station-landmarks-v2",
     type: "landmark",
     name: { de: "Polizeistation Yaren", hu: "Yaren Rendőrség", ro: "Secția de Poliție Yaren", en: "Yaren Police Station" },
-    coordinates: { lat: -0.548, lng: 166.917 },
+    coords: [166.917, -0.548],
     description: {
       de: "Die Polizeistation in Yaren ist das Hauptquartier der Polizei von Nauru. Sie befindet sich in unmittelbarer Nähe zum Flughafen und zum Parlament.",
       hu: "A Yaren körzetben található kapitányság a naurui rendőrség főhadiszállása. Közvetlenül a repülőtér és a parlament mellett fekszik.",
@@ -119,7 +119,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-menen-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Menen Hotel", hu: "Menen Hotel", ro: "Hotelul Menen", en: "Menen Hotel" },
-    coordinates: { lat: -0.54, lng: 166.951 },
+    coords: [166.951, -0.54],
     description: {
       de: "Das Menen Hotel ist das größte Hotel der Insel und ein wichtiges Wahrzeichen im Osten. Es dient oft als Unterkunft für internationale Delegationen.",
       hu: "A Menen Hotel a sziget legnagyobb szállodája és egyben fontos keleti tájékozódási pont. Gyakran ad otthont nemzetközi delegációknak.",
@@ -138,7 +138,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-airport-terminal-landmarks-v2",
     type: "port",
     name: { de: "Nauru Flughafen Terminal", hu: "Naurui Repülőtér Terminál", ro: "Terminalul Aeroportului Nauru", en: "Nauru Airport Terminal" },
-    coordinates: { lat: -0.547, lng: 166.918 },
+    coords: [166.918, -0.547],
     description: {
       de: "Das Terminal des internationalen Flughafens ist das Tor zur Welt für Nauru. Es liegt in Yaren und nimmt einen signifikanten Teil des Küstenstreifens ein.",
       hu: "A nemzetközi repülőtér terminálja Nauru egyetlen kapuja a világra. Yaren körzetben található, és a partvonal jelentős részét elfoglalja.",
@@ -157,7 +157,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-moqua-well-landmarks-v2",
     type: "landmark",
     name: { de: "Moqua Well", hu: "Moqua-kút", ro: "Puțul Moqua", en: "Moqua Well" },
-    coordinates: { lat: -0.549, lng: 166.92 },
+    coords: [166.92, -0.549],
     description: {
       de: "Moqua Well ist ein kleiner unterirdischer See in einer Kalksteinhöhle in Yaren. Er ist eine der wenigen natürlichen Süßwasserquellen der Insel.",
       hu: "A Moqua-kút egy kis földalatti tó egy mészkőbarlangban, Yaren körzetben. A sziget kevés természetes édesvízforrásának egyike.",
@@ -176,7 +176,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-japanese-prison-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen des japanischen Gefängnisses", hu: "Japán börtönromok", ro: "Ruinele închisorii japoneze", en: "Japanese Prison Ruins" },
-    coordinates: { lat: -0.509, lng: 166.943 },
+    coords: [166.943, -0.509],
     description: {
       de: "Diese Ruinen stammen aus der japanischen Besatzungszeit im Zweiten Weltkrieg. Sie dienen als Mahnmal für die dunklen Jahre der Inselgeschichte.",
       hu: "Ezek a romok a második világháborús japán megszállás idejéből származnak. Emlékeztetőül szolgálnak a sziget történetének sötét éveire.",
@@ -195,7 +195,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-state-house-landmarks-v2",
     type: "palace",
     name: { de: "Staatshaus von Nauru", hu: "Naurui Állami Ház", ro: "Casa de Stat din Nauru", en: "Nauru State House" },
-    coordinates: { lat: -0.539, lng: 166.945 },
+    coords: [166.945, -0.539],
     description: {
       de: "Das Staatshaus ist die offizielle Residenz des Präsidenten von Nauru. Es liegt in einer Gartenanlage im Meneng-Distrikt mit Blick auf den Ozean.",
       hu: "Az Állami Ház Nauru elnökének hivatalos rezidenciája. A Meneng körzetben található kerttel körülvett épület az óceánra néz.",
@@ -214,7 +214,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-general-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Nauru Allgemeines Krankenhaus", hu: "Naurui Általános Kórház", ro: "Spitalul General Nauru", en: "Nauru General Hospital" },
-    coordinates: { lat: -0.528, lng: 166.915 },
+    coords: [166.915, -0.528],
     description: {
       de: "Das Nauru General Hospital in Denigomodu ist die wichtigste medizinische Einrichtung der Insel. Es versorgt die gesamte Bevölkerung von Nauru.",
       hu: "A Denigomodu körzetben található Naurui Általános Kórház a sziget legfőbb egészségügyi intézménye. Nauru teljes lakosságát ellátja.",
@@ -233,7 +233,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-central-pacific-bank-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralpazifik-Bank", hu: "Közép-csendes-óceáni Bank", ro: "Banca Centrală a Pacificului", en: "Central Pacific Bank" },
-    coordinates: { lat: -0.53, lng: 166.912 },
+    coords: [166.912, -0.53],
     description: {
       de: "Die Central Pacific Bank in Aiwo ist das wichtigste Finanzinstitut von Nauru. Das Gebäude ist ein markantes Bauwerk im wirtschaftlichen Zentrum.",
       hu: "Az Aiwo körzetben található Közép-csendes-óceáni Bank Nauru legfontosabb pénzintézete. Az épület a gazdasági központ meghatározó eleme.",
@@ -252,7 +252,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Nauru Postamt", hu: "Naurui Postahivatal", ro: "Oficiul Poștal Nauru", en: "Nauru Post Office" },
-    coordinates: { lat: -0.532, lng: 166.913 },
+    coords: [166.913, -0.532],
     description: {
       de: "Das Hauptpostamt in Aiwo ist eine wichtige Institution für die Kommunikation der Insel. Es ist bekannt für die Herausgabe seltener Briefmarken.",
       hu: "Az Aiwo körzetben lévő főpostahivatal a sziget kommunikációjának fontos központja. Híres a ritka naurui bélyegek kibocsátásáról.",
@@ -271,7 +271,7 @@ export const nauruLandmarksV2: POI[] = [
     id: "nauru-cantilever-two-landmarks-v2",
     type: "industry",
     name: { de: "Zweiter Verladearm", hu: "Második rakodókar", ro: "Al doilea terminal de fosfat", en: "Second Cantilever" },
-    coordinates: { lat: -0.531, lng: 166.911 },
+    coords: [166.911, -0.531],
     description: {
       de: "Der zweite große Verladearm ergänzt die Bergbauinfrastruktur an der Westküste. Er ragt weit über das Riff hinaus, um Schiffe direkt zu beladen.",
       hu: "A második nagy rakodókar kiegészíti a nyugati part bányászati infrastruktúráját. Messze benyúlik a zátony fölé a hajók közvetlen rakodásához.",

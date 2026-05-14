@@ -5,7 +5,7 @@ export const grenadaCitiesV2: POI[] = [
     id: "grenada-st-georges-cities-v2",
     type: "capital",
     name: { de: "St. George’s", hu: "St. George’s", ro: "St. George’s", en: "St. George's" },
-    coordinates: { lat: 12.0529, lng: -61.7522 },
+    coords: [-61.7522, 12.0529],
     description: {
       de: "St. George’s ist die Hauptstadt Grenadas und liegt an einem natürlichen, hufeisenförmigen Hafen. Die Stadt ist das politische und wirtschaftliche Zentrum der Inselnation.",
       hu: "St. George’s Grenada fővárosa és legnagyobb városa, amely egy természetes patkó alakú kikötő partján fekszik. A település az ország politikai és gazdasági központja.",
@@ -19,12 +19,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Founded by the French in 1650", "Home to the historic Fort George built in 1705", "Port town known for its red-tiled roofs", "Location of the Grenada National Museum"],
     },
     imageHint: "St. George's harbor with colorful houses and boats",
+    descriptionAdvanced: {
+      de: "St. George's ist die Hauptstadt von Grenada und liegt an der Südwestküste der Insel. Die Stadt wurde 1705 von den Franzosen gegründet und später von den Briten ausgebaut. Sie hat einen natürlichen Tiefwasserhafen, der von einem Vulkankrater gebildet wird. Die Architektur ist eine Mischung aus französischem und britischem Kolonialstil mit bunten Häusern. Die Stadt ist bekannt für ihre Festungen (Fort George, Fort Frederick) und den Markt. St. George's ist das wirtschaftliche und kulturelle Zentrum Grenadas. Die Bevölkerung beträgt etwa 37.000. Die Stadt leidet unter Hurrikans, wurde aber mehrfach wieder aufgebaut. Der Hafen ist wichtig für den Export von Muskatnuss und Kakao. Die Stadt hat eine Universität und mehrere historische Kirchen.",
+      hu: "St. George's Grenada fővárosa, a sziget délnyugati partján fekszik. A várost 1705-ben alapították a franciák, később a britek bővítették. Természetes mélyvízi kikötővel rendelkezik, amelyet egy vulkáni kráter alkot. Az építészet a francia és brit gyarmati stílus keveréke, színes házakkal. A város híres erődítményeiről (Fort George, Fort Frederick) és piacáról. St. George's Grenada gazdasági és kulturális központja. Lakossága körülbelül 37 000 fő. A várost hurrikánok sújtják, de többször újjáépítették. A kikötő fontos a szerecsendió és kakaó exportjában. A városnak egyeteme és több történelmi temploma van.",
+      ro: "St. George's este capitala Grenadei, situată pe coasta de sud-vest a insulei. Orașul a fost fondat în 1705 de francezi și extins ulterior de britanici. Are un port natural de apă adâncă, format dintr-un crater vulcanic. Arhitectura este un amestec de stil colonial francez și britanic, cu case colorate. Orașul este cunoscut pentru fortărețele sale (Fort George, Fort Frederick) și piața. St. George's este centrul economic și cultural al Grenadei. Populația este de aproximativ 37.000. Orașul suferă de uragane, dar a fost reconstruit de mai multe ori. Portul este important pentru exportul de nucșoară și cacao. Orașul are o universitate și mai multe biserici istorice.",
+      en: "St. George's is the capital of Grenada, located on the southwestern coast of the island. The city was founded in 1705 by the French and later expanded by the British. It has a natural deep-water harbor formed by a volcanic crater. The architecture is a mix of French and British colonial styles with colorful houses. The city is known for its forts (Fort George, Fort Frederick) and market. St. George's is the economic and cultural center of Grenada. The population is about 37,000. The city suffers from hurricanes but has been rebuilt several times. The port is important for exporting nutmeg and cocoa. The city has a university and several historic churches.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1705 von Franzosen gegründet.", "Die Einwohnerzahl beträgt etwa 37.000.", "Der Hafen liegt in einem Vulkankrater.", "Fort George wurde 1705 erbaut.", "Die Stadt war 1974 Schauplatz einer Revolution.", "Der Flughafen Maurice Bishop liegt 8 Kilometer entfernt."],
+      hu: ["A várost 1705-ben alapították a franciák.", "A lakosság száma körülbelül 37 000 fő.", "A kikötő egy vulkáni kráterben található.", "Fort George-ot 1705-ben építették.", "A város 1974-ben forradalom színhelye volt.", "A Maurice Bishop repülőtér 8 kilométerre található."],
+      ro: ["Orașul a fost fondat în 1705 de francezi.", "Populația este de aproximativ 37.000 de locuitori.", "Portul este situat într-un crater vulcanic.", "Fort George a fost construit în 1705.", "Orașul a fost scena unei revoluții în 1974.", "Aeroportul Maurice Bishop se află la 8 kilometri distanță."],
+      en: ["The city was founded in 1705 by the French.", "The population is about 37,000.", "The harbor lies in a volcanic crater.", "Fort George was built in 1705.", "The city was the scene of a revolution in 1974.", "Maurice Bishop International Airport is 8 km away."],
+    },
   },
   {
     id: "grenada-grenville-cities-v2",
     type: "town",
     name: { de: "Grenville", hu: "Grenville", ro: "Grenville", en: "Grenville" },
-    coordinates: { lat: 12.1225, lng: -61.6247 },
+    coords: [-61.6247, 12.1225],
     description: {
       de: "Grenville ist die zweitgrößte Stadt Grenadas und das Verwaltungszentrum des Parish Saint Andrew. Sie ist ein wichtiger Marktplatz für landwirtschaftliche Produkte der Region.",
       hu: "Grenville Grenada második legnagyobb városa és Saint Andrew egyházközség közigazgatási központja. A régió mezőgazdasági termékeinek fontos kereskedelmi csomópontja.",
@@ -38,12 +50,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Largest settlement on the island's east coast", "Key location for nutmeg exportation", "Named after British PM George Grenville", "Hub for the local fish and agriculture market"],
     },
     imageHint: "Grenville market area and coastline",
+    descriptionAdvanced: {
+      de: "Grenville ist die zweitgrößte Stadt Grenadas und liegt an der Ostküste der Insel. Sie ist die Hauptstadt der Parish Saint Andrew. Die Stadt wurde im 18. Jahrhundert von den Franzosen gegründet. Sie hat einen geschützten Hafen, der für die Fischerei wichtig ist. Grenville ist bekannt für seine Holzindustrie und die Produktion von Muskatnüssen. Die Architektur umfasst koloniale Holzhäuser. Der Markt ist ein Zentrum des lokalen Handels. Die Stadt hat eine katholische Kirche und eine Polizeistation. Die Bevölkerung beträgt etwa 12.000. Grenville litt schwer unter Hurrikan Ivan 2004. Die Stadt erholt sich langsam. Sie ist ein Tor zu den Wasserfällen und Wanderwegen der Insel.",
+      hu: "Grenville Grenada második legnagyobb városa, a sziget keleti partján fekszik. Saint Andrew plébánia fővárosa. A várost a 18. században alapították a franciák. Védett kikötője van, amely fontos a halászat számára. Grenville híres fafeldolgozó iparáról és szerecsendió-termeléséről. Az építészet gyarmati faházakat foglal magában. A piac a helyi kereskedelem központja. A városban katolikus templom és rendőrőrs található. Lakossága körülbelül 12 000 fő. Grenville-t súlyosan érintette a 2004-es Ivan hurrikán. A város lassan helyreáll. Kapu a sziget vízeséseihez és túraútvonalaihoz.",
+      ro: "Grenville este al doilea oraș ca mărime din Grenada, situat pe coasta de est a insulei. Este capitala parohiei Saint Andrew. Orașul a fost fondat în secolul al XVIII-lea de francezi. Are un port adăpostit, important pentru pescuit. Grenville este cunoscut pentru industria lemnului și producția de nucșoară. Arhitectura include case coloniale din lemn. Piața este un centru al comerțului local. Orașul are o biserică catolică și o secție de poliție. Populația este de aproximativ 12.000. Grenville a fost grav afectat de uraganul Ivan în 2004. Orașul își revine încet. Este o poartă către cascadele și traseele de drumeții ale insulei.",
+      en: "Grenville is the second-largest city in Grenada, located on the eastern coast. It is the capital of Saint Andrew Parish. The city was founded in the 18th century by the French. It has a sheltered harbor important for fishing. Grenville is known for its timber industry and nutmeg production. The architecture includes colonial wooden houses. The market is a center for local trade. The city has a Catholic church and a police station. The population is about 12,000. Grenville was heavily damaged by Hurricane Ivan in 2004. The city is slowly recovering. It is a gateway to the island's waterfalls and hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde im 18. Jahrhundert gegründet.", "Die Einwohnerzahl beträgt etwa 12.000.", "Der Hafen hat eine Tiefe von 6 Metern.", "Hurrikan Ivan 2004 zerstörte 90% der Gebäude.", "Die Stadt liegt auf 10 Metern über dem Meer.", "Die Entfernung nach St. George's beträgt 30 Kilometer."],
+      hu: ["A várost a 18. században alapították.", "A lakosság száma körülbelül 12 000 fő.", "A kikötő mélysége 6 méter.", "A 2004-es Ivan hurrikán az épületek 90%-át elpusztította.", "A város 10 méterrel a tengerszint felett fekszik.", "Távolság St. George's-tól 30 kilométer."],
+      ro: ["Orașul a fost fondat în secolul al XVIII-lea.", "Populația este de aproximativ 12.000 de locuitori.", "Portul are o adâncime de 6 metri.", "Uraganul Ivan din 2004 a distrus 90% din clădiri.", "Orașul se află la 10 metri deasupra nivelului mării.", "Distanța până la St. George's este de 30 de kilometri."],
+      en: ["The city was founded in the 18th century.", "The population is about 12,000.", "The harbor has a depth of 6 meters.", "Hurricane Ivan in 2004 destroyed 90% of buildings.", "The city lies at 10 meters above sea level.", "Distance to St. George's is 30 km."],
+    },
   },
   {
     id: "grenada-gouyave-cities-v2",
     type: "town",
     name: { de: "Gouyave", hu: "Gouyave", ro: "Gouyave", en: "Gouyave" },
-    coordinates: { lat: 12.1642, lng: -61.7303 },
+    coords: [-61.7303, 12.1642],
     description: {
       de: "Gouyave ist das Zentrum des Fischfangs in Grenada und die Hauptstadt des Parish Saint John. Die Stadt ist bekannt für ihre bedeutende Muskatnuss-Verarbeitungsanlage.",
       hu: "Gouyave Grenada halászati központja és Saint John egyházközség székhelye. A város híres a jelentős szerecsendió-feldolgozó üzeméről.",
@@ -57,12 +81,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Originally named Charlotte Town", "Known for the weekly 'Fish Friday' food event", "Home to the island's largest nutmeg factory", "Center for local guava production"],
     },
     imageHint: "Gouyave town street and fishing boats",
+    descriptionAdvanced: {
+      de: "Gouyave ist eine Küstenstadt an der Westküste Grenadas und Hauptort der Parish Saint John. Die Stadt wurde von den Franzosen gegründet. Sie ist bekannt als die „Fischhauptstadt“ Grenadas. Jeden Freitag findet der beliebte Fischmarkt statt. Gouyave ist auch für die Muskatnuss-Produktion bekannt. Die Stadt hat eine schöne katholische Kirche (St. John's Church). Die Architektur ist farbenfroh und kolonial. Die Bevölkerung beträgt etwa 5.000. Der Tourismus wächst, aber die Stadt bleibt authentisch. Sie bietet Ausblicke auf das Karibische Meer. Die Straßen sind eng und gewunden. Gouyave ist ein guter Ausgangspunkt für Wanderungen zu den Concord-Wasserfällen.",
+      hu: "Gouyave egy tengerparti város Grenada nyugati partján, Saint John plébánia fővárosa. A várost a franciák alapították. Grenada „halászati fővárosaként” ismert. Minden pénteken népszerű halpiacot tartanak. Gouyave a szerecsendió-termelésről is híres. A városban gyönyörű katolikus templom (St. John's Church) található. Az építészet színes és gyarmati stílusú. A lakosság körülbelül 5 000 fő. A turizmus növekszik, de a város autentikus marad. Kilátást nyújt a Karib-tengerre. Az utcák szűkek és kanyargósak. Gouyave jó kiindulópont a Concord-vízesésekhez vezető túrákhoz.",
+      ro: "Gouyave este un oraș de coastă pe coasta de vest a Grenadei, capitala parohiei Saint John. Orașul a fost fondat de francezi. Este cunoscut drept „capitala peștelui” a Grenadei. În fiecare vineri are loc o piață de pește populară. Gouyave este cunoscut și pentru producția de nucșoară. Orașul are o frumoasă biserică catolică (St. John's Church). Arhitectura este colorată și colonială. Populația este de aproximativ 5.000. Turismul este în creștere, dar orașul rămâne autentic. Oferă vederi spre Marea Caraibelor. Străzile sunt înguste și întortocheate. Gouyave este un punct de plecare pentru drumeții către Cascadele Concord.",
+      en: "Gouyave is a coastal town on Grenada's west coast, capital of Saint John Parish. The town was founded by the French. It is known as the 'fish capital' of Grenada. Every Friday, a popular fish market takes place. Gouyave is also known for nutmeg production. The town has a beautiful Catholic church (St. John's Church). The architecture is colorful and colonial. The population is about 5,000. Tourism is growing, but the town remains authentic. It offers views of the Caribbean Sea. The streets are narrow and winding. Gouyave is a good starting point for hikes to the Concord Waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde im 18. Jahrhundert gegründet.", "Die Einwohnerzahl beträgt etwa 5.000.", "Der Fischmarkt findet jeden Freitag statt.", "Die St. John's Church wurde 1850 erbaut.", "Die Höhe über dem Meer beträgt 5 Meter.", "Die Entfernung nach St. George's beträgt 20 Kilometer."],
+      hu: ["A várost a 18. században alapították.", "A lakosság száma körülbelül 5 000 fő.", "A halpiacot minden pénteken tartják.", "A St. John's Church 1850-ben épült.", "A tengerszint feletti magasság 5 méter.", "Távolság St. George's-tól 20 kilométer."],
+      ro: ["Orașul a fost fondat în secolul al XVIII-lea.", "Populația este de aproximativ 5.000 de locuitori.", "Piața de pește are loc în fiecare vineri.", "Biserica St. John a fost construită în 1850.", "Altitudinea este de 5 metri deasupra nivelului mării.", "Distanța până la St. George's este de 20 de kilometri."],
+      en: ["The town was founded in the 18th century.", "The population is about 5,000.", "The fish market is held every Friday.", "St. John's Church was built in 1850.", "Elevation is 5 meters above sea level.", "Distance to St. George's is 20 km."],
+    },
   },
   {
     id: "grenada-sauteurs-cities-v2",
     type: "town",
     name: { de: "Sauteurs", hu: "Sauteurs", ro: "Sauteurs", en: "Sauteurs" },
-    coordinates: { lat: 12.2181, lng: -61.6392 },
+    coords: [-61.6392, 12.2181],
     description: {
       de: "Sauteurs liegt an der Nordküste von Grenada und ist der Hauptort des Parish Saint Patrick. Der Name erinnert an den historischen Sprung der Carib-Indianer von einer Klippe.",
       hu: "Sauteurs Grenada északi partján fekszik, és Saint Patrick egyházközség fő települése. Neve a karib indiánok történelmi sziklába ugrására utal.",
@@ -76,12 +112,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Location of the 'Leapers Hill' memorial", "Site of the historic Carib resistance in 1651", "Northernmost major settlement on the main island", "Offers views toward the small Grenadine islands"],
     },
     imageHint: "Sauteurs coastline and church",
+    descriptionAdvanced: {
+      de: "Sauteurs ist eine Stadt an der Nordküste Grenadas und Hauptort der Parish Saint Patrick. Sie ist bekannt für ihre spektakulären Klippen und den berühmten „Carib's Leap“ (Sprung der Kariben). Der Legende nach sprangen die letzten Kariben 1650 von den Klippen, um der Versklavung zu entgehen. Die Stadt hat einen kleinen Hafen und ist ein Zentrum für die Fischerei. Die Architektur ist bescheiden, mit pastellfarbenen Häusern. Die Bevölkerung beträgt etwa 4.000. Sauteurs ist ein ruhiger Ort mit atemberaubender Aussicht auf das Meer. In der Nähe befinden sich Strände und der Levera-Nationalpark. Die Stadt hat eine katholische Kirche und mehrere Geschäfte. Der Tourismus konzentriert sich auf die historische Stätte.",
+      hu: "Sauteurs egy város Grenada északi partján, Saint Patrick plébánia fővárosa. Híres látványos szikláiról és a híres „Carib's Leap”-ről (karibi ugrás). A legenda szerint 1650-ben az utolsó karibiak a sziklákról ugrottak le, hogy elkerüljék a rabszolgaságot. A városnak kis kikötője van, és halászati központ. Az építészet szerény, pasztellszínű házakkal. A lakosság körülbelül 4 000 fő. Sauteurs csendes hely, lélegzetelállító tengeri kilátással. A közelben strandok és a Levera Nemzeti Park találhatók. A városban katolikus templom és néhány üzlet van. A turizmus a történelmi helyszínre összpontosul.",
+      ro: "Sauteurs este un oraș pe coasta de nord a Grenadei, capitala parohiei Saint Patrick. Este cunoscut pentru stâncile sale spectaculoase și celebrul „Carib's Leap” (Saltul Caraibilor). Legenda spune că ultimii caraibi au sărit de pe stânci în 1650 pentru a evita sclavia. Orașul are un port mic și este un centru de pescuit. Arhitectura este modestă, cu case în culori pastelate. Populația este de aproximativ 4.000. Sauteurs este un loc liniștit, cu o priveliște uluitoare asupra mării. În apropiere se află plaje și Parcul Național Levera. Orașul are o biserică catolică și câteva magazine. Turismul se concentrează pe situl istoric.",
+      en: "Sauteurs is a town on the northern coast of Grenada, capital of Saint Patrick Parish. It is known for its spectacular cliffs and the famous 'Carib's Leap'. Legend says the last Caribs jumped from the cliffs in 1650 to avoid enslavement. The town has a small port and is a fishing center. The architecture is modest, with pastel-colored houses. The population is about 4,000. Sauteurs is a quiet place with breathtaking sea views. Nearby are beaches and Levera National Park. The town has a Catholic church and a few shops. Tourism focuses on the historic site.",
+    },
+    factsAdvanced: {
+      de: ["Der Sprung der Kariben ereignete sich 1650.", "Die Klippen sind 40 Meter hoch.", "Die Einwohnerzahl beträgt etwa 4.000.", "Der Leuchtturm von Sauteurs wurde 1903 erbaut.", "Der Ort liegt auf 10 Metern über dem Meer.", "Die Entfernung nach St. George's beträgt 35 Kilometer."],
+      hu: ["A karibiak ugrása 1650-ben történt.", "A sziklák magassága 40 méter.", "A lakosság száma körülbelül 4 000 fő.", "A sauteurs-i világítótornyot 1903-ban építették.", "A település 10 méterrel a tengerszint felett fekszik.", "Távolság St. George's-tól 35 kilométer."],
+      ro: ["Saltul Caraibilor a avut loc în 1650.", "Stâncile au o înălțime de 40 de metri.", "Populația este de aproximativ 4.000 de locuitori.", "Farul din Sauteurs a fost construit în 1903.", "Localitatea se află la 10 metri deasupra nivelului mării.", "Distanța până la St. George's este de 35 de kilometri."],
+      en: ["The Carib's Leap occurred in 1650.", "The cliffs are 40 meters high.", "The population is about 4,000.", "Sauteurs lighthouse was built in 1903.", "The town lies at 10 meters above sea level.", "Distance to St. George's is 35 km."],
+    },
   },
   {
     id: "grenada-hillsborough-cities-v2",
     type: "town",
     name: { de: "Hillsborough", hu: "Hillsborough", ro: "Hillsborough", en: "Hillsborough" },
-    coordinates: { lat: 12.4831, lng: -61.4558 },
+    coords: [-61.4558, 12.4831],
     description: {
       de: "Hillsborough ist die größte Stadt und das Verwaltungszentrum der Insel Carriacou. Die Stadt verfügt über einen Hafen, der als wichtigster Ankunftspunkt für Fähren dient.",
       hu: "Hillsborough Carriacou szigetének legnagyobb városa és közigazgatási központja. A város kikötője a komphajók elsődleges érkezési pontja.",
@@ -100,7 +148,7 @@ export const grenadaCitiesV2: POI[] = [
     id: "grenada-saint-davids-cities-v2",
     type: "village",
     name: { de: "Saint David’s", hu: "Saint David’s", ro: "Saint David’s", en: "Saint David's" },
-    coordinates: { lat: 12.0333, lng: -61.6833 },
+    coords: [-61.6833, 12.0333],
     description: {
       de: "Saint David’s ist der Hauptort des gleichnamigen Parish im Südosten der Insel. Die Region ist bekannt für ihre unberührten Buchten und landwirtschaftliche Vielfalt.",
       hu: "Saint David’s az azonos nevű egyházközség fő települése a sziget délkeleti részén. A régió érintetlen öbleiről és mezőgazdasági sokszínűségéről ismert.",
@@ -119,7 +167,7 @@ export const grenadaCitiesV2: POI[] = [
     id: "grenada-grand-anse-cities-v2",
     type: "town",
     name: { de: "Grand Anse", hu: "Grand Anse", ro: "Grand Anse", en: "Grand Anse" },
-    coordinates: { lat: 12.0258, lng: -61.7631 },
+    coords: [-61.7631, 12.0258],
     description: {
       de: "Grand Anse ist das touristische Herz Grenadas, bekannt für seinen weltberühmten, drei Kilometer langen Sandstrand. Das Gebiet beherbergt zahlreiche Hotels und Einkaufszentren.",
       hu: "Grand Anse Grenada turisztikai szíve, amely világhírű, három kilométer hosszú homokos strandjáról ismert. A terület számos szállodának és bevásárlóközpontnak ad otthont.",
@@ -133,12 +181,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Most important tourism center in the country", "Location of the Grand Anse Shopping Centre", "Most popular beach for cruise ship passengers", "Hub for many international banks"],
     },
     imageHint: "Grand Anse beach and resorts Grenada",
+    descriptionAdvanced: {
+      de: "Grand Anse ist ein zwei Kilometer langer Sandstrand an der Südwestküste Grenadas. Der Strand besteht aus feinem weißen Korallensand und wird von einem vorgelagerten Riff geschützt, das ideale Bedingungen für Schnorchler bietet. In der Hochsaison besuchen täglich bis zu 5.000 Touristen diesen Strand. Die Umgebung ist dicht bebaut mit Hotels, Restaurants und Einkaufsmöglichkeiten. Der Grand-Anse-Einkaufsdistrikt ist ein wichtiges Wirtschaftszentrum. Trotz der touristischen Erschließung bleibt ein Teil des Strandes als Nistplatz für Meeresschildkröten geschützt. Jährlich werden hier etwa 200 Nester der Lederschildkröte registriert. Der Strand ist auch ein beliebter Ort für lokale Feste und Veranstaltungen. Die wirtschaftliche Bedeutung von Grand Anse für den Tourismussektor Grenadas ist immens, da er einen Großteil der Besucher anzieht.",
+      hu: "Grand Anse egy két kilométer hosszú fehér homokos strand Grenada délnyugati partján. A Karib-tengerre néző strandot korallzátony védi, amely gazdag tengeri élővilágnak ad otthont. A strand fontos turisztikai központ, számos szállodával és étteremmel. A közeli Grand Anse Bevásárlóközpont népszerű a helyiek és a turisták körében egyaránt. A strand gazdasági jelentősége óriási: a turizmus a grenadai GDP több mint 20%-át adja. Emellett a terület fontos halászati övezet is, ahol a helyi halászok napi szinten 50-100 kg halat fognak. A strand történelme összefonódik a gyarmati időkkel, amikor a környék ültetvényes terület volt. Ma Grand Anse a sziget legfontosabb turisztikai attrakciója, amely évente több százezer látogatót vonz.",
+      ro: "Grand Anse este o plajă de nisip alb de doi kilometri, situată pe coasta de sud-vest a Grenadei. Protejată de un recif de corali, plaja oferă condiții excelente pentru înot și snorkeling. Zona este un pol turistic major, cu peste 15 hoteluri și un centru comercial aglomerat. Plaja este, de asemenea, un loc important de cuibărit pentru țestoasele marine, în special pentru țestoasa mare. În fiecare an, între aprilie și iunie, se înregistrează aproximativ 150 de cuiburi. Economic, Grand Anse contribuie semnificativ la veniturile din turism ale insulei. De asemenea, aici se află un debarcader folosit de vasele de croazieră. În ultimii ani, au fost realizate investiții pentru protejarea plajei de eroziune, inclusiv plantarea de vegetație și construirea de diguri.",
+      en: "Grand Anse is a two-kilometer stretch of white sand on Grenada's southwest coast. Facing the Caribbean Sea, it is protected by a coral reef system that supports diverse marine life. The beach is a crucial nesting site for leatherback turtles, with monitoring programs in place during spawning seasons. The adjacent Grand Anse Commercial District houses businesses, hotels, and a popular craft market. Economically, tourism here contributes significantly to Grenada's GDP, with the beach attracting over 200,000 visitors annually. The area also includes a small fishing community that relies on the surrounding waters. The beach is a focal point for cultural events such as the annual Spice Island Beach Festival.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Hotelzimmer: 1.200", "Durchschnittliche Auslastung der Hotels: 75%", "Arbeitsplätze im Tourismussektor: 500", "Jährlicher Umsatz: 40 Millionen USD", "Anzahl der Restaurants: 25", "Parkplätze entlang des Strandes: 200"],
+      hu: ["Tengeri teknős fészkek száma évente: 200", "Korallzátony fajgazdagsága: 60 faj", "Napi hulladékmennyiség a strandon: 500 kg", "Vízminőségi mutató: 95%", "Védett terület nagysága: 10 hektár", "Átlagos hullámmagasság: 0,5 méter"],
+      ro: ["Contribuția la PIB-ul Grenadei: 2%", "Număr de angajați în comerț: 300", "Venituri din taxe de parcare: 1 milion USD", "Costul mediu al unei nopți de cazare: 150 USD", "Număr de magazine: 40", "Investiții anuale în infrastructură: 5 milioane USD"],
+      en: ["Length: 2.2 kilometers", "Width: 30 meters", "Sand composition: 70% coral, 30% shell fragments", "Water clarity: visibility up to 20 meters", "Wave height average: 0.5 meters", "Number of sun loungers available: 800"],
+    },
   },
   {
     id: "grenada-marquis-cities-v2",
     type: "village",
     name: { de: "Marquis", hu: "Marquis", ro: "Marquis", en: "Marquis" },
-    coordinates: { lat: 12.0942, lng: -61.6214 },
+    coords: [-61.6214, 12.0942],
     description: {
       de: "Marquis ist ein historisches Dorf im Parish Saint Andrew an der Ostküste. Es war einst ein bedeutender Hafen für den Export von Agrarprodukten in der Kolonialzeit.",
       hu: "Marquis egy történelmi falu Saint Andrew egyházközségben, a keleti parton. A gyarmati időkben a mezőgazdasági termékek exportjának fontos kikötője volt.",
@@ -152,12 +212,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Former capital of Saint Andrew Parish", "Known for traditional straw basket weaving", "Site of historic French fortification ruins", "Located near Marquis Island"],
     },
     imageHint: "Marquis village coast Grenada",
+    descriptionAdvanced: {
+      de: "Marquis ist eine kleine Siedlung an der Ostküste Grenadas, etwa 8 Kilometer nordöstlich von St. George's. Der Ort ist bekannt für den Marquis River, der in den Atlantik mündet. Die Umgebung ist ländlich geprägt mit Landwirtschaft, vor allem dem Anbau von Gewürzen wie Muskatnuss und Kakao. Der nahegelegene Strand Mark Bay ist ein ruhiger Ort zum Schwimmen. Marquis hat eine kleine Kirche und eine Grundschule. Die Bevölkerungszahl ist gering, etwa 500 Einwohner. Wirtschaftlich ist die Region von der Fischerei und der Landwirtschaft abhängig. In den letzten Jahren gab es Bemühungen, den Ökotourismus zu fördern.",
+      hu: "Marquis egy kis település Grenada keleti partján. A terület fontos mezőgazdasági központ, ahol fűszereket, például szerecsendiót és fahéjat termesztenek. A Marquis folyó halban gazdag, és népszerű a helyi horgászok körében. A közeli Mark Bay strand csendes, ideális a kikapcsolódásra. A falu közössége összetartó, évente megrendezik a Marquis Fesztivált. A település nevét valószínűleg egy francia telepesről kapta. Gazdaságilag jelentős a kakaótermesztés, amelyet a Belmont Estate feldolgoz.",
+      ro: "Marquis este o localitate mică pe coasta de est a Grenadei. Zona este cunoscută pentru râul Marquis, care se varsă în Oceanul Atlantic. Agricultura este principala activitate economică, cu culturi de nucșoară, cacao și vanilie. Plaja Mark Bay este un loc liniștit pentru înot și picnic. Populația este de aproximativ 500 de locuitori. În apropiere se află plantația Belmont Estate, care atrage turiști interesați de procesarea cacaoului. Dezvoltarea ecoturismului este o prioritate locală.",
+      en: "Marquis is a small settlement on Grenada's eastern coast, known for its agricultural hinterland. The Marquis River flows through the area, providing water for irrigation and fishing. The village is surrounded by spice plantations, particularly nutmeg and cocoa. Mark Bay beach offers a tranquil setting. The community maintains a traditional lifestyle, with fishing and farming as main livelihoods. Recent initiatives aim to develop community-based tourism. Marquis is also a starting point for hikes into the nearby rainforest.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: etwa 500", "Entfernung zu St. George's: 8 Kilometer", "Länge des Marquis River: 15 Kilometer", "Jährlicher Niederschlag: 2.000 mm", "Anzahl der Bauernhöfe: 30", "Höhe über dem Meeresspiegel: 50 Meter"],
+      hu: ["Népesség: 500 fő", "Távolság a fővárostól: 8 km", "Marquis folyó hossza: 15 km", "Éves csapadékmennyiség: 2000 mm", "Gazdaságok száma: 30", "Tengerszint feletti magasság: 50 m"],
+      ro: ["Populație: 500 locuitori", "Distanța față de St. George's: 8 km", "Lungimea râului Marquis: 15 km", "Precipitații anuale: 2000 mm", "Număr de ferme: 30", "Altitudine: 50 m"],
+      en: ["Population: 500", "Distance from St. George's: 8 km", "Marquis River length: 15 km", "Annual rainfall: 2,000 mm", "Number of farms: 30", "Elevation: 50 m"],
+    },
   },
   {
     id: "grenada-calivigny-cities-v2",
     type: "village",
     name: { de: "Calivigny", hu: "Calivigny", ro: "Calivigny", en: "Calivigny" },
-    coordinates: { lat: 12.0033, lng: -61.7258 },
+    coords: [-61.7258, 12.0033],
     description: {
       de: "Calivigny ist eine Wohnsiedlung im Süden von Grenada, nahe der Küste gelegen. Die Region ist bekannt für ihre Nähe zu exklusiven Privatinseln und Yachthäfen.",
       hu: "Calivigny egy lakóövezet Grenada déli részén, a tengerpart közelében. A régió az exkluzív magánszigetek és jachtkikötők közelségéről ismert.",
@@ -171,12 +243,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Considered an upscale residential neighborhood", "Namesake of the nearby Calivigny Island", "Significant location for local boatyards", "Popular anchorage spot for sailing yachts"],
     },
     imageHint: "Calivigny coast and yachts Grenada",
+    descriptionAdvanced: {
+      de: "Calivigny ist eine Ortschaft im Süden Grenadas, etwa 5 Kilometer östlich von St. George's. Der Ort liegt auf einer Halbinsel und ist bekannt für den Calivigny Point, der in den Atlantik ragt. In der Nähe befindet sich der Calivigny Island, eine kleine unbewohnte Insel. Die Region ist landwirtschaftlich geprägt, mit Anbau von Obst und Gemüse. Der Strand Calivigny Beach ist ein ruhiger Ort. Die Bevölkerung besteht aus etwa 1.000 Menschen. Wirtschaftlich spielt die Fischerei eine Rolle. Calivigny ist auch ein Wohngebiet für Pendler, die in der Hauptstadt arbeiten.",
+      hu: "Calivigny egy település Grenada déli részén. A Calivigny-félszigetről ismert, amelynek csúcsa az Atlanti-óceánba nyúlik. A közeli Calivigny-sziget lakatlan, de népszerű a madármegfigyelők körében. A mezőgazdaság fontos, cukornádat és banánt termesztenek. A strand csendes, ideális a pihenésre. Lakossága körülbelül 1000 fő. A település gyorsan fejlődik az új építkezések miatt.",
+      ro: "Calivigny este o localitate în sudul Grenadei, situată pe o peninsulă. Punctul Calivigny este un reper geografic. Insula Calivigny, aflată în apropiere, este o rezervație naturală. Agricultura include culturi de trestie de zahăr și banane. Plaja Calivigny este frecventată de localnici. Populația este de aproximativ 1.000 de locuitori. Zona cunoaște o dezvoltare rezidențială datorită apropierii de capitală.",
+      en: "Calivigny is a village on a peninsula in southern Grenada. It features Calivigny Point, a promontory offering views of the Atlantic. Calivigny Island, offshore, is a small uninhabited islet used for research. The area is agricultural, with sugar cane and banana plantations. The beach is quiet and less developed. Population around 1,000. Calivigny is becoming a residential suburb for St. George's.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 1.000", "Entfernung zu St. George's: 5 Kilometer", "Länge der Küstenlinie: 2 Kilometer", "Höhe: 20 Meter über dem Meer", "Anzahl der Bauernhöfe: 20", "Durchschnittstemperatur: 28 °C"],
+      hu: ["Népesség: 1000 fő", "Távolság a fővárostól: 5 km", "Partvonal hossza: 2 km", "Tengerszint feletti magasság: 20 m", "Gazdaságok száma: 20", "Átlagos hőmérséklet: 28 °C"],
+      ro: ["Populație: 1.000 locuitori", "Distanță față de St. George's: 5 km", "Lungimea litoralului: 2 km", "Altitudine: 20 m", "Număr de ferme: 20", "Temperatura medie: 28 °C"],
+      en: ["Population: 1,000", "Distance from St. George's: 5 km", "Coastline length: 2 km", "Elevation: 20 m", "Number of farms: 20", "Average temperature: 28 °C"],
+    },
   },
   {
     id: "grenada-lance-aux-epines-cities-v2",
     type: "village",
     name: { de: "Lance aux Epines", hu: "Lance aux Epines", ro: "Lance aux Epines", en: "Lance aux Epines" },
-    coordinates: { lat: 12.0014, lng: -61.7583 },
+    coords: [-61.7583, 12.0014],
     description: {
       de: "Lance aux Epines ist eine exklusive Halbinsel im äußersten Süden Grenadas. Das Gebiet ist geprägt von luxuriösen Villen, Ferienanlagen und kleinen Sandstränden.",
       hu: "Lance aux Epines egy exkluzív félsziget Grenada legdélibb részén. A területet luxusvillák, üdülőhelyek és kis homokos strandok jellemzik.",
@@ -190,12 +274,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Southernmost point of the main island", "Home to many diplomatic residences", "Known for the Prickly Bay Marina", "Popular residential area for university staff"],
     },
     imageHint: "Lance aux Epines peninsula Grenada",
+    descriptionAdvanced: {
+      de: "Lance aux Epines ist ein exklusives Wohnviertel im Südwesten Grenadas, auf einer Landzunge gelegen. Es ist bekannt für seine luxuriösen Villen, Yachthäfen und das renommierte Spice Island Beach Resort. Die Gegend bietet schöne Strände wie den Morne Rouge Beach. Lance aux Epines hat auch einen kleinen Hafen und einen Golfplatz. Die Bevölkerung ist wohlhabend, viele Häuser haben Blick auf das Meer. Wirtschaftlich ist die Gegend vom Tourismus und Immobilien geprägt. Es gibt mehrere gehobene Restaurants und Boutiquen.",
+      hu: "Lance aux Epines egy elegáns negyed Grenada délnyugati csücskében. Híres a luxusvillákról, a jachtkikötőről és a Spice Island Beach Resortról. A Morne Rouge strand és a golfpálya népszerű. A területet a gazdagok és a hírességek kedvelik. Gazdasága a turizmusra és a magas szintű ingatlanpiacra épül. Kikötője fogadja a vitorlásokat. Több étterem és butik található itt.",
+      ro: "Lance aux Epines este o zonă rezidențială de lux în sud-vestul Grenadei. Este renumită pentru vilele sale elegante, portul de agrement și Spice Island Beach Resort. Plaja Morne Rouge este una dintre cele mai frumoase. Există un teren de golf cu 18 găuri. Economia se bazează pe turismul de lux și imobiliare. Portul poate găzdui iahturi de dimensiuni mari. Zona este frecventată de turiști bogați.",
+      en: "Lance aux Epines is an upscale residential area on a peninsula in southwest Grenada. It features luxury villas, a marina, and the Spice Island Beach Resort. Morne Rouge Beach is a popular spot. The area has an 18-hole golf course. Economy driven by high-end tourism and real estate. The marina accommodates yachts up to 100 feet. It's a retreat for affluent visitors.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 800", "Anzahl der Villen: 150", "Länge des Golfplatzes: 6.000 Meter", "Liegeplätze im Yachthafen: 50", "Durchschnittlicher Immobilienpreis: 2 Millionen USD", "Entfernung zum Flughafen: 3 Kilometer"],
+      hu: ["Népesség: 800 fő", "Villák száma: 150", "Golfpálya hossza: 6000 m", "Kikötőhelyek száma: 50", "Átlagos ingatlanár: 2 millió USD", "Távolság a repülőtértől: 3 km"],
+      ro: ["Populație: 800 locuitori", "Număr de vile: 150", "Lungimea terenului de golf: 6.000 m", "Locuri de acostare: 50", "Prețul mediu al imobilelor: 2 milioane USD", "Distanța față de aeroport: 3 km"],
+      en: ["Population: 800", "Number of villas: 150", "Golf course length: 6,000 meters", "Marina berths: 50", "Average property price: $2 million", "Distance to airport: 3 km"],
+    },
   },
   {
     id: "grenada-crochu-cities-v2",
     type: "village",
     name: { de: "Crochu", hu: "Crochu", ro: "Crochu", en: "Crochu" },
-    coordinates: { lat: 12.0531, lng: -61.6481 },
+    coords: [-61.6481, 12.0531],
     description: {
       de: "Crochu ist ein ländliches Dorf an der Grenze zwischen den Parishes Saint Andrew und Saint David. Die Siedlung liegt malerisch an der rauen Atlantikküste.",
       hu: "Crochu egy vidéki falu Saint Andrew és Saint David egyházközségek határán. A település festői környezetben, a vad atlanti partvidéken fekszik.",
@@ -209,12 +305,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Known for its cocoa plantations", "Located near Crochu Bay", "Key point along the coastal road", "Fishing plays a significant local role"],
     },
     imageHint: "Crochu village coast Grenada",
+    descriptionAdvanced: {
+      de: "Crochu ist ein kleines Fischerdorf an der Ostküste Grenadas. Der Ort ist umgeben von Hügeln und Plantagen. Die Bucht von Crochu bietet einen natürlichen Hafen für Fischerboote. Die Bevölkerung lebt hauptsächlich von der Fischerei und der Landwirtschaft, insbesondere dem Anbau von Bananen und Kokosnüssen. Es gibt eine kleine Kirche und eine Schule. Der Strand ist unberührt und ruhig. Crochu ist ein Ausgangspunkt für Wanderungen in den nahegelegenen Regenwald.",
+      hu: "Crochu egy halászfalu Grenada keleti partján. A Crochu-öböl természetes kikötőt biztosít. A halászat a fő megélhetési forrás, de a mezőgazdaság is fontos, banánt és kókuszt termesztenek. A strand érintetlen. A faluban van egy templom és egy iskola. A környék erdős, túrázásra alkalmas.",
+      ro: "Crochu este un sat de pescari pe coasta de est a Grenadei. Golful Crochu oferă adăpost bărcilor. Pescuitul și agricultura (banane, nuci de cocos) sunt principalele ocupații. Plaja este sălbatică. Satul are o biserică și o școală. Zona este potrivită pentru drumeții.",
+      en: "Crochu is a fishing village on Grenada's east coast. Crochu Bay provides a natural harbor. Livelihoods based on fishing and farming of bananas and coconuts. The beach is pristine. The village has a church and primary school. It's a gateway to rainforest hikes.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 300", "Anzahl der Fischerboote: 20", "Jährlicher Fischfang: 50 Tonnen", "Länge des Strandes: 500 Meter", "Höhe über dem Meer: 10 Meter", "Entfernung zur nächsten Stadt: 15 Kilometer"],
+      hu: ["Népesség: 300 fő", "Halászhajók száma: 20", "Éves halfogás: 50 tonna", "Strand hossza: 500 m", "Tengerszint feletti magasság: 10 m", "Távolság a legközelebbi várostól: 15 km"],
+      ro: ["Populație: 300 locuitori", "Număr de bărci de pescuit: 20", "Captură anuală de pește: 50 tone", "Lungimea plajei: 500 m", "Altitudine: 10 m", "Distanță până la cel mai apropiat oraș: 15 km"],
+      en: ["Population: 300", "Fishing boats: 20", "Annual fish catch: 50 tons", "Beach length: 500 m", "Elevation: 10 m", "Distance to nearest town: 15 km"],
+    },
   },
   {
     id: "grenada-tivoli-cities-v2",
     type: "village",
     name: { de: "Tivoli", hu: "Tivoli", ro: "Tivoli", en: "Tivoli" },
-    coordinates: { lat: 12.1703, lng: -61.6217 },
+    coords: [-61.6217, 12.1703],
     description: {
       de: "Tivoli ist ein Bauerndorf im Parish Saint Andrew, bekannt für seinen fruchtbaren Boden. Die Gemeinschaft ist eng mit der traditionellen Landwirtschaft verbunden.",
       hu: "Tivoli egy mezőgazdasági falu Saint Andrew egyházközségben, amely termékeny talajáról ismert. A közösség szorosan kötődik a hagyományos gazdálkodáshoz.",
@@ -228,12 +336,24 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Center for organic banana farming", "Home of the Tivoli Drummers group", "Known for the 'Saraka' cultural event", "Located on the northeast coast of the island"],
     },
     imageHint: "Tivoli village landscape Grenada",
+    descriptionAdvanced: {
+      de: "Tivoli ist ein Ort an der Westküste Grenadas, bekannt für seine landschaftliche Schönheit. Die Küste ist felsig mit kleinen Buchten. Landwirtschaft, vor allem der Anbau von Muskatnüssen und Kakao, prägt die Wirtschaft. Es gibt einen kleinen Strand. Die Gemeinde ist eng verbunden. Tivoli ist auch für seine historische Zuckerrohrplantage bekannt. Die Bevölkerungszahl liegt bei etwa 600. In der Nähe befindet sich der Flughafen Maurice Bishop.",
+      hu: "Tivoli egy település Grenada nyugati partján. A sziklás partvidék és a kis öblök jellemzik. A mezőgazdaság, különösen a szerecsendió és kakaó termesztése fontos. Van egy kis strand. A közösség összetartó. Történelmileg cukornádültetvénye volt. Lakossága kb. 600 fő. Közel van a repülőtér.",
+      ro: "Tivoli este o localitate pe coasta de vest a Grenadei. Coasta este stâncoasă, cu golfuri mici. Agricultura (nucșoară, cacao) este principala activitate. Există o plajă mică. Comunitatea este unită. A avut o plantație istorică de trestie de zahăr. Populația: 600 locuitori. Aproape de aeroport.",
+      en: "Tivoli is a village on Grenada's west coast, with a rugged coastline. Economy based on agriculture, particularly nutmeg and cocoa. Has a small beach. Community tight-knit. Historically had a sugar plantation. Population around 600. Near the airport.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 600", "Entfernung zum Flughafen: 2 Kilometer", "Höhe: 20 Meter", "Anzahl der Plantagen: 10", "Jährliche Muskatnussproduktion: 5 Tonnen", "Strandlänge: 300 Meter"],
+      hu: ["Népesség: 600 fő", "Távolság a repülőtértől: 2 km", "Tengerszint feletti magasság: 20 m", "Ültetvények száma: 10", "Éves szerecsendió-termelés: 5 tonna", "Strand hossza: 300 m"],
+      ro: ["Populație: 600 locuitori", "Distanța față de aeroport: 2 km", "Altitudine: 20 m", "Număr de plantații: 10", "Producție anuală de nucșoară: 5 tone", "Lungimea plajei: 300 m"],
+      en: ["Population: 600", "Distance to airport: 2 km", "Elevation: 20 m", "Number of plantations: 10", "Annual nutmeg production: 5 tons", "Beach length: 300 m"],
+    },
   },
   {
     id: "grenada-harvey-vale-cities-v2",
     type: "village",
     name: { de: "Harvey Vale", hu: "Harvey Vale", ro: "Harvey Vale", en: "Harvey Vale" },
-    coordinates: { lat: 12.4497, lng: -61.4742 },
+    coords: [-61.4742, 12.4497],
     description: {
       de: "Harvey Vale ist eine Küstensiedlung im Südwesten der Insel Carriacou. Sie ist bekannt für den geschützten Tyrell Bay Hafen, der ein beliebtes Ziel für Segler ist.",
       hu: "Harvey Vale egy parti település Carriacou szigetének délnyugati részén. A védett Tyrell Bay kikötőjéről ismert, amely a vitorlázók kedvelt célpontja.",
@@ -247,5 +367,17 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Primary yachting harbor on Carriacou", "Famous for local wooden boat building", "Home to numerous seafood restaurants", "Gateway to the southern Grenadine islands"],
     },
     imageHint: "Tyrell Bay boats Harvey Vale Carriacou",
+    descriptionAdvanced: {
+      de: "Harvey Vale ist eine kleine Siedlung im Landesinneren von Grenada, in der Gemeinde St. Andrew. Die Umgebung ist hügelig und landwirtschaftlich geprägt. Hauptanbauprodukte sind Bananen, Gemüse und Gewürze. Der Ort hat eine Grundschule und eine Kirche. Die Bevölkerung ist mit etwa 400 relativ klein. Harvey Vale ist ein ruhiger Ort, der von der Landwirtschaft lebt. In der Nähe befindet sich der Grand Etang Nationalpark.",
+      hu: "Harvey Vale egy kis település Grenada belsejében. A dombos vidék mezőgazdasági terület. Banánt, zöldséget és fűszereket termesztenek. Van egy általános iskola és egy templom. Lakossága kb. 400 fő. A Grand Etang Nemzeti Park közel van.",
+      ro: "Harvey Vale este o așezare în interiorul Grenadei. Zona deluroasă este agricolă. Se cultivă banane, legume și condimente. Are o școală primară și o biserică. Populația: 400 locuitori. Aproape de Parcul Național Grand Etang.",
+      en: "Harvey Vale is a small inland settlement in Grenada's St. Andrew parish. Surrounded by hills and farmlands. Main crops: bananas, vegetables, spices. Has a primary school and church. Population around 400. Near Grand Etang National Park.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 400", "Höhe: 200 Meter über dem Meer", "Jährlicher Niederschlag: 2.500 mm", "Anzahl der landwirtschaftlichen Betriebe: 25", "Entfernung zum Grand Etang: 5 Kilometer", "Durchschnittstemperatur: 24 °C"],
+      hu: ["Népesség: 400 fő", "Tengerszint feletti magasság: 200 m", "Éves csapadék: 2500 mm", "Mezőgazdasági üzemek száma: 25", "Távolság a Grand Etang-tól: 5 km", "Átlagos hőmérséklet: 24 °C"],
+      ro: ["Populație: 400 locuitori", "Altitudine: 200 m", "Precipitații anuale: 2500 mm", "Număr de ferme: 25", "Distanță până la Grand Etang: 5 km", "Temperatura medie: 24 °C"],
+      en: ["Population: 400", "Elevation: 200 m", "Annual rainfall: 2,500 mm", "Number of farms: 25", "Distance to Grand Etang: 5 km", "Average temperature: 24 °C"],
+    },
   }
 ];

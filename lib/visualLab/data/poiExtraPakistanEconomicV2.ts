@@ -691,7 +691,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-hattar-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Hattar Industriegebiet", hu: "Hattar Ipari Terület", ro: "Zona Industrială Hattar", en: "Hattar Industrial Estate" },
-    coordinates: { lat: 33.953, lng: 72.855 },
+    coords: [72.855, 33.953],
     description: {
       de: "Dieses Industriegebiet in Khyber Pakhtunkhwa ist ein wichtiges Zentrum für Schwerindustrie. Es beherbergt über 400 Fabriken für Zement und Chemie.",
       hu: "Ez a Khyber Pakhtunkhwa tartományban található ipari park a nehézipar központja. Több mint 400 vegyipari és cementgyár működik a területén.",
@@ -710,7 +710,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-bin-qasim-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Bin Qasim Industriepark", hu: "Bin Qasim Ipari Park", ro: "Parcul Industrial Bin Qasim", en: "Bin Qasim Industrial Park" },
-    coordinates: { lat: 24.783, lng: 67.351 },
+    coords: [67.351, 24.783],
     description: {
       de: "Ein moderner Industriepark in der Nähe von Karatschi, der auf Fertigung spezialisiert ist. Er liegt strategisch günstig nahe dem Hafen Port Qasim.",
       hu: "Egy modern ipari park Karacsi közelében, amely a gyártásra összpontosít. Stratégiai helyen, a Port Qasim kikötő szomszédságában található.",
@@ -729,7 +729,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-korangi-industrial-area-economic-v2",
     type: "industry",
     name: { de: "Korangi Industriegebiet", hu: "Korangi Ipari Negyed", ro: "Zona Industrială Korangi", en: "Korangi Industrial Area" },
-    coordinates: { lat: 24.833, lng: 67.125 },
+    coords: [67.125, 24.833],
     description: {
       de: "Korangi ist eines der größten Industriegebiete Karatschis und Pakistans. Es ist das Zentrum der Lederverarbeitung und der pharmazeutischen Industrie.",
       hu: "Korangi Karacsi és Pakisztán egyik legnagyobb ipari övezete. A bőrfeldolgozás és a gyógyszeripar legfontosabb központja az országban.",
@@ -748,7 +748,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-sundar-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Sundar Industriegebiet", hu: "Sundar Ipari Terület", ro: "Zona Industrială Sundar", en: "Sundar Industrial Estate" },
-    coordinates: { lat: 31.282, lng: 74.155 },
+    coords: [74.155, 31.282],
     description: {
       de: "Ein geplantes Industriegebiet in der Nähe von Lahore, bekannt für seine moderne Infrastruktur. Es beherbergt Betriebe der Lebensmittel- und Konsumgüterindustrie.",
       hu: "Egy tervezett ipari övezet Lahore közelében, amely modern infrastruktúrájáról ismert. Élelmiszeripari és fogyasztási cikkeket gyártó üzemek helyszíne.",
@@ -767,7 +767,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-ghazi-barotha-hydropower-economic-v2",
     type: "industry",
     name: { de: "Ghazi-Barotha Wasserkraftwerk", hu: "Ghazi-Barotha vízerőmű", ro: "Hidrocentrala Ghazi-Barotha", en: "Ghazi-Barotha Hydropower Project" },
-    coordinates: { lat: 33.911, lng: 72.375 },
+    coords: [72.375, 33.911],
     description: {
       de: "Ein bedeutendes Wasserkraftprojekt am Indus, das eine hohe Grundlast für das Stromnetz liefert. Es nutzt ein Umleitungssystem ohne großen Stausee.",
       hu: "Jelentős vízerőmű az Indus folyón, amely folyamatos alapellátást biztosít az elektromos hálózatnak. Egy elterelő csatornarendszert használ tározó nélkül.",
@@ -786,7 +786,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-neelum-jhelum-hydropower-economic-v2",
     type: "industry",
     name: { de: "Neelum-Jhelum Wasserkraftwerk", hu: "Neelum-Jhelum vízerőmű", ro: "Hidrocentrala Neelum-Jhelum", en: "Neelum-Jhelum Hydropower Plant" },
-    coordinates: { lat: 34.341, lng: 73.541 },
+    coords: [73.541, 34.341],
     description: {
       de: "Ein technisches Wunderwerk in Azad Kaschmir, das Wasser durch Tunnel zur Stromerzeugung leitet. Es ist eines der tiefsten Untergrundkraftwerke des Landes.",
       hu: "Mérnöki csoda Azad Kasmírban, amely alagutakon keresztül vezeti a vizet energiatermelésre. Az ország egyik legmélyebb föld alatti erőműve.",
@@ -805,7 +805,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-hub-dam-economic-v2",
     type: "industry",
     name: { de: "Hub-Staudamm", hu: "Hub-gát", ro: "Barajul Hub", en: "Hub Dam" },
-    coordinates: { lat: 25.252, lng: 67.111 },
+    coords: [67.111, 25.252],
     description: {
       de: "Dieser Staudamm versorgt die Stadt Karatschi mit Trinkwasser und bewässert landwirtschaftliche Flächen. Er liegt an der Grenze zwischen Sindh und Belutschistan.",
       hu: "Ez a gát biztosítja Karacsi ivóvízellátását és öntözi a mezőgazdasági területeket. Szindh és Beludzsisztán határán fekszik.",
@@ -824,7 +824,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-sargodha-citrus-orchards-economic-v2",
     type: "agriculture",
     name: { de: "Zitrusplantagen von Sargodha", hu: "Szargodha citrusültetvényei", ro: "Livezile de citrice din Sargodha", en: "Sargodha Citrus Orchards" },
-    coordinates: { lat: 32.083, lng: 72.671 },
+    coords: [72.671, 32.083],
     description: {
       de: "Sargodha ist bekannt als das Zitruszentrum Pakistans. Die Region produziert hochwertige Kinnow-Mandarinen für den weltweiten Export.",
       hu: "Szargodha Pakisztán citrusközpontjaként ismert. A régió kiváló minőségű Kinnow mandarinokat termel globális exportra.",
@@ -843,7 +843,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-okara-dairy-farms-economic-v2",
     type: "agriculture",
     name: { de: "Milchfarmen von Okara", hu: "Okara tejgazdaságai", ro: "Fermele de lactate din Okara", en: "Okara Dairy Farms" },
-    coordinates: { lat: 30.811, lng: 73.451 },
+    coords: [73.451, 30.811],
     description: {
       de: "Okara ist berühmt für seine hochproduktive Milchwirtschaft und Viehzucht. Es beherbergt einige der größten Milchverarbeitungsbetriebe des Landes.",
       hu: "Okara híres nagy termelékenységű tejgazdaságairól és állattenyésztéséről. Itt találhatók az ország legnagyobb tejfeldolgozó üzemei.",
@@ -862,7 +862,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-sust-dry-port-economic-v2",
     type: "port",
     name: { de: "Sust Trockenhafen", hu: "Sust szárazkikötő", ro: "Portul Uscat Sust", en: "Sust Dry Port" },
-    coordinates: { lat: 36.691, lng: 74.825 },
+    coords: [74.825, 36.691],
     description: {
       de: "Sust ist der höchstgelegene Trockenhafen der Welt an der Grenze zu China. Er ist der wichtigste Umschlagplatz für den Handel über den Karakorum Highway.",
       hu: "Sust a világ legmagasabban fekvő szárazkikötője a kínai határon. A Karakorum országúton zajló kereskedelem fő átrakodóhelye.",
@@ -881,7 +881,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-wagah-border-economic-v2",
     type: "landmark",
     name: { de: "Wagah-Grenzübergang", hu: "Wagah határátkelő", ro: "Granița Wagah", en: "Wagah Border Trade Point" },
-    coordinates: { lat: 31.605, lng: 74.571 },
+    coords: [74.571, 31.605],
     description: {
       de: "Dieser berühmte Grenzübergang zwischen Pakistan und Indien ist ein wichtiger Punkt für den Überlandhandel. Er verbindet Lahore mit Amritsar.",
       hu: "Ez a híres határátkelő Pakisztán és India között a szárazföldi kereskedelem fontos pontja. Lahore-t köti össze Amritszárral.",
@@ -900,7 +900,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-heavy-mechanical-complex-economic-v2",
     type: "factory",
     name: { de: "Heavy Mechanical Complex Taxila", hu: "Taxilai Nehézgépgyártó Komplexum", ro: "Complexul de Mecanică Grea Taxila", en: "Heavy Mechanical Complex Taxila" },
-    coordinates: { lat: 33.741, lng: 72.791 },
+    coords: [72.791, 33.741],
     description: {
       de: "Der Heavy Mechanical Complex in Taxila ist das Rückgrat des pakistanischen Maschinenbaus. Er produziert Industrieanlagen für Zucker- und Zementfabriken.",
       hu: "A taxilai Nehézgépgyártó Komplexum a pakisztáni gépipar gerince. Cukor- és cementgyárakhoz gyárt ipari berendezéseket.",
@@ -919,7 +919,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-karachi-shipyard-economic-v2",
     type: "industry",
     name: { de: "Karatschi Werft", hu: "Karacsi Hajógyár", ro: "Șantierul Naval Karachi", en: "Karachi Shipyard & Engineering Works" },
-    coordinates: { lat: 24.845, lng: 66.981 },
+    coords: [66.981, 24.845],
     description: {
       de: "Die Karachi Shipyard ist Pakistans einzige Werft für den Schiffbau und die Reparatur. Sie baut Schiffe für die Marine und kommerzielle Kunden.",
       hu: "A Karacsi Hajógyár Pakisztán egyetlen hajóépítő és -javító üzeme. Hajókat épít a haditengerészet és kereskedelmi ügyfelek számára.",
@@ -938,7 +938,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-risalpur-export-processing-zone-economic-v2",
     type: "industry",
     name: { de: "Exportzone Risalpur", hu: "Risalpuri Exportövezet", ro: "Zona de Export Risalpur", en: "Risalpur Export Processing Zone" },
-    coordinates: { lat: 34.061, lng: 71.995 },
+    coords: [71.995, 34.061],
     description: {
       de: "Diese Sonderwirtschaftszone in Khyber Pakhtunkhwa fördert den Export durch Steuererleichterungen. Sie liegt strategisch günstig an der Autobahn M-1.",
       hu: "Ez a különleges gazdasági övezet Khyber Pakhtunkhwa tartományban adókedvezményekkel ösztönzi az exportot. Stratégiai helyen, az M-1-es autópálya mentén fekszik.",
@@ -957,7 +957,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-lakhra-coal-power-economic-v2",
     type: "industry",
     name: { de: "Lakhra Kohlekraftwerk", hu: "Lakhra széntüzelésű erőmű", ro: "Centrala pe Cărbune Lakhra", en: "Lakhra Coal Power Plant" },
-    coordinates: { lat: 25.665, lng: 68.175 },
+    coords: [68.175, 25.665],
     description: {
       de: "Das Lakhra-Kraftwerk in Sindh nutzt einheimische Braunkohle zur Stromerzeugung. Es ist ein Pionierprojekt für die Nutzung lokaler Kohleressourcen.",
       hu: "A szindhi Lakhra erőmű hazai lignitet használ villamosenergia-termelésre. Úttörő projekt a helyi szénkészletek hasznosításában.",
@@ -976,7 +976,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-duddar-mine-economic-v2",
     type: "mine",
     name: { de: "Duddar-Blei-Zink-Mine", hu: "Duddar ólom- és cinkbánya", ro: "Mina de Plumb și Zinc Duddar", en: "Duddar Lead-Zinc Mine" },
-    coordinates: { lat: 26.155, lng: 66.755 },
+    coords: [66.755, 26.155],
     description: {
       de: "Eine bedeutende Untertagemine in Belutschistan, die Blei- und Zinkkonzentrate produziert. Sie ist ein Beispiel für Bergbauinvestitionen in entlegenen Gebieten.",
       hu: "Jelentős föld alatti bánya Beludzsisztánban, amely ólom- és cinkkoncentrátumot termel. Példa a távoli területeken történő bányászati befektetésekre.",
@@ -995,7 +995,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-site-karachi-economic-v2",
     type: "industry",
     name: { de: "SITE Industriegebiet Karatschi", hu: "SITE Karacsi Ipari Terület", ro: "Zona Industrială SITE Karachi", en: "SITE Karachi" },
-    coordinates: { lat: 24.895, lng: 67.005 },
+    coords: [67.005, 24.895],
     description: {
       de: "SITE Karatschi ist das größte Industriegebiet Pakistans und wurde 1947 gegründet. Es beherbergt über 2.000 Fabriken für Textilien und Chemie.",
       hu: "A SITE Karacsi Pakisztán legnagyobb ipari övezete, amelyet 1947-ben alapítottak. Több mint 2000 textil- és vegyipari gyárnak ad otthont.",
@@ -1014,7 +1014,7 @@ export const poiExtraPakistanEconomicV2: POI[] = [
     id: "pakistan-jamshoro-power-station-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Jamshoro", hu: "Jamshoro erőmű", ro: "Centrala Electrică Jamshoro", en: "Jamshoro Power Station" },
-    coordinates: { lat: 25.435, lng: 68.275 },
+    coords: [68.275, 25.435],
     description: {
       de: "Eine große thermische Kraftwerksanlage in Sindh, die Öl und Kohle verbrennt. Sie ist ein wichtiger Knotenpunkt für die Stromversorgung im Süden Pakistans.",
       hu: "Nagy hőerőmű Szindh tartományban, amely olajat és szenet használ. Dél-Pakisztán áramellátásának egyik legfontosabb csomópontja.",

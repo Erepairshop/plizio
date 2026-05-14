@@ -5,7 +5,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-babeldaob-highlands-relief-v2",
     type: "mountain",
     name: { de: "Hochland von Babeldaob", hu: "Babeldaob-felvidék", ro: "Podișul Babeldaob", en: "Babeldaob Highlands" },
-    coordinates: { lat: 7.55, lng: 134.58 },
+    coords: [134.58, 7.55],
     description: {
       de: "Das Hochland bildet das hügelige Innere von Palaus größter Insel. Es ist durch Vulkangestein und dichten tropischen Regenwald geprägt.",
       hu: "A Babeldaob-felvidék Palau legnagyobb szigetének dombos belsejét alkotja. Vulkáni kőzetek és sűrű trópusi esőerdők jellemzik.",
@@ -24,7 +24,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-rock-islands-relief-v2",
     type: "landmark",
     name: { de: "Rock Islands (Chelbacheb)", hu: "Szikla-szigetek", ro: "Insulele de Stâncă", en: "Rock Islands (Chelbacheb)" },
-    coordinates: { lat: 7.25, lng: 134.33 },
+    coords: [134.33, 7.25],
     description: {
       de: "Die Rock Islands sind ein Archipel aus Kalksteinformationen im Ozean. Ihre markanten Pilzformen entstehen durch langsame Gezeiten-Erosion.",
       hu: "A Szikla-szigetek mészkőképződményekből álló szigetcsoport az óceánban. Jellegzetes gombaalakjukat az árapály eróziója alakította ki.",
@@ -43,7 +43,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-bloody-nose-ridge-relief-v2",
     type: "peak",
     name: { de: "Bloody Nose Ridge", hu: "Bloody Nose Ridge", ro: "Bloody Nose Ridge", en: "Bloody Nose Ridge" },
-    coordinates: { lat: 6.994, lng: 134.225 },
+    coords: [134.225, 6.994],
     description: {
       de: "Dieser zerklüftete Kalksteinrücken auf Peleliu war ein strategischer Punkt im Zweiten Weltkrieg. Das Gelände ist von Höhlen durchzogen.",
       hu: "Ez az egyenetlen mészkőgerinc Peleliun stratégiai pont volt a második világháborúban. A terepet számos barlangrendszer szövi át.",
@@ -62,7 +62,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-ngerekebesang-hill-relief-v2",
     type: "peak",
     name: { de: "Ngerekebesang Hill", hu: "Ngerekebesang-domb", ro: "Dealul Ngerekebesang", en: "Ngerekebesang Hill" },
-    coordinates: { lat: 7.35, lng: 134.45 },
+    coords: [134.45, 7.35],
     description: {
       de: "Der Ngerekebesang Hill ist die höchste Erhebung der Insel Ngerekebesang. Er bietet einen weiten Ausblick über die umliegenden Lagunen.",
       hu: "A Ngerekebesang-domb a Ngerekebesang-sziget legmagasabb pontja. Széles kilátást nyújt a környező lagúnákra és szigetekre.",
@@ -81,7 +81,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-malakal-peak-relief-v2",
     type: "peak",
     name: { de: "Malakal Peak", hu: "Malakal-csúcs", ro: "Vârful Malakal", en: "Malakal Peak" },
-    coordinates: { lat: 7.33, lng: 134.45 },
+    coords: [134.45, 7.33],
     description: {
       de: "Dieser Hügel auf der Insel Malakal überblickt den wichtigsten Hafen von Palau. Er ist ein markanter vulkanischer Überrest im Süden.",
       hu: "Ez a Malakal-szigeten található domb Palau legfontosabb kikötőjére néz. Jelentős vulkáni maradvány a déli szigetcsoportban.",
@@ -100,7 +100,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-angaur-hills-relief-v2",
     type: "landmark",
     name: { de: "Angaur Hills", hu: "Angaur-dombok", ro: "Dealurile Angaur", en: "Angaur Hills" },
-    coordinates: { lat: 6.91, lng: 134.13 },
+    coords: [134.13, 6.91],
     description: {
       de: "Die Angaur Hills sind Erhebungen auf der südlichsten bewohnten Insel Palaus. Sie entstanden durch tektonische Hebung alter Korallenriffe.",
       hu: "Az Angaur-dombok Palau legdélibb lakott szigetének magaslatai. Ősi korallzátonyok tektonikus kiemelkedésével jöttek létre.",
@@ -119,7 +119,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-ngardok-basin-relief-v2",
     type: "valley",
     name: { de: "Ngardok-Becken", hu: "Ngardok-medence", ro: "Bazinul Ngardok", en: "Ngardok Basin" },
-    coordinates: { lat: 7.51, lng: 134.61 },
+    coords: [134.61, 7.51],
     description: {
       de: "Das Ngardok-Becken ist eine natürliche Senke auf Babeldaob. Hier befindet sich der größte natürliche Süßwassersee von ganz Mikronesien.",
       hu: "A Ngardok-medence egy természetes mélyedés Babeldaob szigetén. Itt található egész Mikronézia legnagyobb természetes édesvízi tava.",
@@ -138,7 +138,7 @@ export const palauReliefV2: POI[] = [
     id: "palau-ngerukewid-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Ngerukewid-Klippen", hu: "Ngerukewid-sziklák", ro: "Falezele Ngerukewid", en: "Ngerukewid Cliffs" },
-    coordinates: { lat: 7.18, lng: 134.27 },
+    coords: [134.27, 7.18],
     description: {
       de: "Diese steilen Kalksteinwände ragen senkrecht aus dem türkisfarbenen Wasser empor. Sie sind Teil des geschützten Seventy Islands Reservats.",
       hu: "Ezek a meredek mészkőfalak függőlegesen emelkednek ki a türkizkék vízből. A védett Seventy Islands rezervátum részét képezik.",

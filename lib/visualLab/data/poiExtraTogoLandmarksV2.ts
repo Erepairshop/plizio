@@ -906,7 +906,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-musee-dapaong-landmarks-v2",
     type: "museum",
     name: { de: "Museum von Dapaong", hu: "Dapaongi Múzeum", ro: "Muzeul din Dapaong", en: "Museum of Dapaong" },
-    coordinates: { lat: 10.8587, lng: 0.2033 },
+    coords: [0.2033, 10.8587],
     description: {
       de: "Dieses Museum in Dapaong präsentiert regionale Kunst und kulturelle Artefakte aus Nord-Togo. Es bietet Einblicke in die Traditionen der lokalen Ethnien.",
       hu: "Ez a dapaongi múzeum regionális művészeti és kulturális tárgyakat mutat be Észak-Togóból. Betekintést nyújt a helyi etnikai csoportok hagyományaiba.",
@@ -925,7 +925,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-monument-sokode-landmarks-v2",
     type: "monument",
     name: { de: "Sokodé Unabhängigkeitsdenkmal", hu: "Sokodé Függetlenségi Emlékmű", ro: "Monumentul Independenței din Sokodé", en: "Sokodé Independence Monument" },
-    coordinates: { lat: 8.9814, lng: 1.1444 },
+    coords: [1.1444, 8.9814],
     description: {
       de: "Das Denkmal markiert den zentralen Platz in Sokodé und erinnert an die staatliche Souveränität Togos. Es dient als wichtiger Versammlungsort für städtische Veranstaltungen.",
       hu: "Az emlékmű Sokodé központi terén található, és Togo állami szuverenitására emlékezik. Fontos gyülekezőhely a városi események számára.",
@@ -944,7 +944,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-mosquee-atakpame-landmarks-v2",
     type: "church",
     name: { de: "Große Moschee von Atakpamé", hu: "Atakpaméi Nagymecset", ro: "Marea Moschee din Atakpamé", en: "Grand Mosque of Atakpamé" },
-    coordinates: { lat: 7.5342, lng: 1.1308 },
+    coords: [1.1308, 7.5342],
     description: {
       de: "Die Moschee ist ein zentrales religiöses Gebäude in Atakpamé. Sie zeichnet sich durch ihre charakteristische Architektur im Stadtzentrum aus.",
       hu: "A mecset Atakpamé központi vallási épülete. A városközpontban található jellegzetes építészetéről ismert.",
@@ -963,7 +963,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-cathedrale-kara-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Kara", hu: "Karai Székesegyház", ro: "Catedrala din Kara", en: "Cathedral of Kara" },
-    coordinates: { lat: 9.5539, lng: 1.1897 },
+    coords: [1.1897, 9.5539],
     description: {
       de: "Diese Kathedrale ist die Hauptkirche für die katholische Gemeinde in Kara. Sie wurde als bedeutendes Gotteshaus für die nördliche Region errichtet.",
       hu: "Ez a székesegyház a karai katolikus közösség főtemploma. Jelentős istentiszteleti helyként épült az északi régió számára.",
@@ -982,7 +982,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-musee-lome-arts-landmarks-v2",
     type: "museum",
     name: { de: "Museum für moderne Kunst Lomé", hu: "Lomé-i Modern Művészeti Múzeum", ro: "Muzeul de Artă Modernă din Lomé", en: "Lomé Museum of Modern Art" },
-    coordinates: { lat: 6.1375, lng: 1.2122 },
+    coords: [1.2122, 6.1375],
     description: {
       de: "Dieses Museum in Lomé stellt zeitgenössische Kunstwerke togoischer Künstler aus. Es widmet sich der Förderung nationaler kreativer Talente.",
       hu: "Ez a loméi múzeum togoi művészek kortárs alkotásait állítja ki. A nemzeti kreatív tehetségek támogatására összpontosít.",
@@ -1001,7 +1001,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-palais-justice-lome-landmarks-v2",
     type: "landmark",
     name: { de: "Justizpalast von Lomé", hu: "Lomé-i Igazságügyi Palota", ro: "Palatul Justiției din Lomé", en: "Palace of Justice of Lomé" },
-    coordinates: { lat: 6.1311, lng: 1.2183 },
+    coords: [1.2183, 6.1311],
     description: {
       de: "Der Justizpalast in Lomé dient als Hauptsitz der richterlichen Gewalt in Togo. Das Gebäude ist ein prominenter öffentlicher Bau im Stadtgebiet.",
       hu: "A loméi igazságügyi palota Togo igazságszolgáltatási hatalmának központja. Az épület a város egyik jelentős középülete.",
@@ -1020,7 +1020,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-eglise-kpalime-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Joseph Kpalimé", hu: "Szent József templom Kpalimé", ro: "Biserica Sfântul Iosif din Kpalimé", en: "St. Joseph Church Kpalimé" },
-    coordinates: { lat: 6.9031, lng: 0.6303 },
+    coords: [0.6303, 6.9031],
     description: {
       de: "Diese Kirche ist ein bekanntes religiöses Gebäude in Kpalimé. Sie dient der lokalen katholischen Gemeinde als wichtiger Ort für Gottesdienste.",
       hu: "Ez a templom Kpalimé egyik ismert vallási épülete. A helyi katolikus közösség fontos istentiszteleti helyeként szolgál.",
@@ -1039,7 +1039,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-pont-fer-bassar-landmarks-v2",
     type: "bridge",
     name: { de: "Alte Eisenbrücke Bassar", hu: "Régi bassari vashíd", ro: "Vechiul pod de fier din Bassar", en: "Old Iron Bridge Bassar" },
-    coordinates: { lat: 9.2558, lng: 0.7817 },
+    coords: [0.7817, 9.2558],
     description: {
       de: "Diese historische Eisenbrücke ist ein technisches Denkmal in der Nähe von Bassar. Sie veranschaulicht die ehemalige industrielle Infrastruktur der Region.",
       hu: "Ez a történelmi vashíd technikai műemlék Bassar közelében. A régió egykori ipari infrastruktúráját szemlélteti.",
@@ -1058,7 +1058,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-palais-congres-lome-landmarks-v2",
     type: "landmark",
     name: { de: "Kongresspalast von Lomé", hu: "Lomé-i Kongresszusi Palota", ro: "Palatul Congresului din Lomé", en: "Palace of Congress of Lomé" },
-    coordinates: { lat: 6.1342, lng: 1.2153 },
+    coords: [1.2153, 6.1342],
     description: {
       de: "Der Kongresspalast ist ein bedeutendes Veranstaltungsgebäude in Lomé. Hier finden nationale Konferenzen und politische Treffen statt.",
       hu: "A kongresszusi palota Lomé egyik jelentős rendezvényépülete. Itt tartják a nemzeti konferenciákat és politikai találkozókat.",
@@ -1077,7 +1077,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-gare-lome-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof von Lomé", hu: "Lomé-i Régi Vasútállomás", ro: "Vechea Gară din Lomé", en: "Old Railway Station of Lomé" },
-    coordinates: { lat: 6.1333, lng: 1.2217 },
+    coords: [1.2217, 6.1333],
     description: {
       de: "Der ehemalige Hauptbahnhof von Lomé ist ein historisches Gebäude. Er erinnert an die Zeit des Eisenbahnausbaus in der Kolonialära.",
       hu: "Lomé egykori főpályaudvara történelmi jelentőségű épület. A gyarmati korszak vasútépítési idejére emlékeztet.",
@@ -1096,7 +1096,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-monument-kpalime-landmarks-v2",
     type: "monument",
     name: { de: "Kpalimé Stadt-Denkmal", hu: "Kpaliméi Városi Emlékmű", ro: "Monumentul Orașului Kpalimé", en: "Kpalimé City Monument" },
-    coordinates: { lat: 6.9014, lng: 0.6353 },
+    coords: [0.6353, 6.9014],
     description: {
       de: "Dieses Denkmal im Herzen von Kpalimé würdigt die kulturelle Bedeutung der Stadt. Es ist ein zentraler Treffpunkt für Einwohner.",
       hu: "Ez az emlékmű Kpalimé szívében a város kulturális jelentőségét hivatott méltatni. Fontos találkozóhely a lakosok számára.",
@@ -1115,7 +1115,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-mosquee-aneho-landmarks-v2",
     type: "church",
     name: { de: "Zentralmoschee von Aného", hu: "Anéhoi Központi Mecset", ro: "Moscheea Centrală din Aného", en: "Central Mosque of Aného" },
-    coordinates: { lat: 6.2333, lng: 1.5972 },
+    coords: [1.5972, 6.2333],
     description: {
       de: "Die Zentralmoschee in Aného ist ein wichtiges religiöses Gebäude in der Küstenstadt. Sie ist bekannt für ihren traditionellen Baustil.",
       hu: "Az anéhoi központi mecset fontos vallási épület a tengerparti városban. Hagyományos építészeti stílusáról ismert.",
@@ -1134,7 +1134,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-musee-kara-landmarks-v2",
     type: "museum",
     name: { de: "Museum von Kara", hu: "Karai Múzeum", ro: "Muzeul din Kara", en: "Museum of Kara" },
-    coordinates: { lat: 9.5492, lng: 1.1875 },
+    coords: [1.1875, 9.5492],
     description: {
       de: "Das Museum in Kara bewahrt lokale Geschichte und Exponate zur Region. Es bietet Bildung über die Traditionen der Kabye-Kultur.",
       hu: "A karai múzeum megőrzi a helyi történelmet és a régióra vonatkozó kiállítási tárgyakat. Oktatást nyújt a kabye kultúra hagyományairól.",
@@ -1153,7 +1153,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-cathedrale-atakpame-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Atakpamé", hu: "Atakpaméi Székesegyház", ro: "Catedrala din Atakpamé", en: "Cathedral of Atakpamé" },
-    coordinates: { lat: 7.535, lng: 1.1317 },
+    coords: [1.1317, 7.535],
     description: {
       de: "Diese beeindruckende Kathedrale in Atakpamé ist ein Zentrum des katholischen Glaubens. Sie prägt das Stadtbild mit ihrem Kirchturm.",
       hu: "Ez az impozáns katedrális Atakpaméban a katolikus hit központja. Templomtornyával meghatározza a városképet.",
@@ -1172,7 +1172,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-monument-notse-landmarks-v2",
     type: "monument",
     name: { de: "Notsé Stadtdenkmal", hu: "Notséi Városi Emlékmű", ro: "Monumentul Orașului Notsé", en: "Notsé City Monument" },
-    coordinates: { lat: 6.9583, lng: 1.1681 },
+    coords: [1.1681, 6.9583],
     description: {
       de: "Dieses Denkmal in Notsé erinnert an die historische Bedeutung der Stadt als Ursprungsort der Ewe-Kultur. Es ist ein Symbol der Identität.",
       hu: "Ez a notséi emlékmű a város történelmi jelentőségére utal, mint az ewe kultúra származási helye. Az identitás jelképe.",
@@ -1191,7 +1191,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-mairie-kara-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Kara", hu: "Karai Városháza", ro: "Primăria din Kara", en: "City Hall of Kara" },
-    coordinates: { lat: 9.5511, lng: 1.1917 },
+    coords: [1.1917, 9.5511],
     description: {
       de: "Das Rathaus von Kara ist das Verwaltungszentrum der Stadt. Das Gebäude ist ein wichtiger Punkt für lokale behördliche Angelegenheiten.",
       hu: "A karai városháza a város közigazgatási központja. Az épület fontos helyszín a helyi hatósági ügyek intézésére.",
@@ -1210,7 +1210,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-pont-tabligbo-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Tabligbo", hu: "Tabligboi híd", ro: "Podul din Tabligbo", en: "Bridge of Tabligbo" },
-    coordinates: { lat: 6.5861, lng: 1.4986 },
+    coords: [1.4986, 6.5861],
     description: {
       de: "Die Brücke bei Tabligbo ist eine wichtige Infrastrukturverbindung. Sie überquert ein lokales Gewässer und erleichtert den regionalen Handel.",
       hu: "A tabligboi híd fontos infrastrukturális kapcsolat. Átível egy helyi vízfolyáson, és megkönnyíti a regionális kereskedelmet.",
@@ -1229,7 +1229,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-musee-aneho-landmarks-v2",
     type: "museum",
     name: { de: "Museum von Aného", hu: "Anéhoi Múzeum", ro: "Muzeul din Aného", en: "Museum of Aného" },
-    coordinates: { lat: 6.2306, lng: 1.5944 },
+    coords: [1.5944, 6.2306],
     description: {
       de: "Dieses kleine Museum in Aného dokumentiert die Geschichte und Kultur der Küstenregion. Es bewahrt Relikte der kolonialen Handelszeit.",
       hu: "Ez a kis anéhoi múzeum a tengerparti régió történetét és kultúráját dokumentálja. Megőrzi a gyarmati kereskedelem korszakának emlékeit.",
@@ -1248,7 +1248,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-theatre-kara-landmarks-v2",
     type: "theater",
     name: { de: "Theater von Kara", hu: "Karai Színház", ro: "Teatrul din Kara", en: "Theater of Kara" },
-    coordinates: { lat: 9.5528, lng: 1.1894 },
+    coords: [1.1894, 9.5528],
     description: {
       de: "Das Theater in Kara dient als Ort für kulturelle Veranstaltungen und Aufführungen. Es ist ein Zentrum des künstlerischen Lebens in Nord-Togo.",
       hu: "A karai színház kulturális események és előadások helyszíne. Az észak-togoi művészeti élet egyik központja.",
@@ -1267,7 +1267,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-monument-bassar-landmarks-v2",
     type: "monument",
     name: { de: "Bassar Kulturdenkmal", hu: "Bassari Kulturális Emlékmű", ro: "Monument Cultural Bassar", en: "Bassar Cultural Monument" },
-    coordinates: { lat: 9.2525, lng: 0.785 },
+    coords: [0.785, 9.2525],
     description: {
       de: "Dieses Denkmal in Bassar würdigt die lokalen Traditionen der Region. Es steht für die Geschichte des Eisenschmiedehandwerks.",
       hu: "Ez a bassari emlékmű a régió helyi hagyományait hivatott méltatni. A vasművesség történetét képviseli.",
@@ -1286,7 +1286,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-mairie-atakpame-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Atakpamé", hu: "Atakpaméi Városháza", ro: "Primăria din Atakpamé", en: "City Hall of Atakpamé" },
-    coordinates: { lat: 7.5333, lng: 1.1328 },
+    coords: [1.1328, 7.5333],
     description: {
       de: "Das Rathaus in Atakpamé ist ein zentrales Gebäude für die städtische Verwaltung. Es repräsentiert die lokale Regierungsinfrastruktur.",
       hu: "Az atakpaméi városháza a városi közigazgatás központi épülete. A helyi kormányzati infrastruktúrát képviseli.",
@@ -1305,7 +1305,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-cathedrale-aneho-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Aného", hu: "Anéhoi Székesegyház", ro: "Catedrala din Aného", en: "Cathedral of Aného" },
-    coordinates: { lat: 6.2319, lng: 1.5958 },
+    coords: [1.5958, 6.2319],
     description: {
       de: "Die Kathedrale von Aného ist ein wichtiges Gotteshaus in der Küstenstadt. Sie ist bekannt für ihre architektonische Bedeutung.",
       hu: "Az anéhoi székesegyház fontos istentiszteleti hely a tengerparti városban. Építészeti jelentőségéről ismert.",
@@ -1324,7 +1324,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-musee-notse-landmarks-v2",
     type: "museum",
     name: { de: "Museum von Notsé", hu: "Notséi Múzeum", ro: "Muzeul din Notsé", en: "Museum of Notsé" },
-    coordinates: { lat: 6.9556, lng: 1.1667 },
+    coords: [1.1667, 6.9556],
     description: {
       de: "Dieses Museum in Notsé widmet sich der Geschichte der Ewe-Völker. Es zeigt wichtige Artefakte zur kulturellen Herkunft der Stadt.",
       hu: "Ez a notséi múzeum az ewe népek történelmének szentelt. Az ewe kultúra eredetére vonatkozó fontos műtárgyakat mutat be.",
@@ -1343,7 +1343,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
     id: "togo-pont-kara-river-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke über den Kara-Fluss", hu: "Híd a Kara folyón", ro: "Pod peste râul Kara", en: "Bridge over the Kara River" },
-    coordinates: { lat: 9.5542, lng: 1.185 },
+    coords: [1.185, 9.5542],
     description: {
       de: "Diese Brücke über den Kara-Fluss verbindet verschiedene Stadtteile von Kara. Sie ist ein zentrales infrastrukturelles Bauwerk.",
       hu: "Ez a híd a Kara folyón összeköti Kara különböző városrészeit. Központi infrastrukturális építmény.",

@@ -546,7 +546,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     id: "saudiarabia-wadi-al-disah-nature-v2",
     type: "valley",
     name: { de: "Wadi Al-Disah", hu: "Wadi Al-Disah", ro: "Wadi Al-Disah", en: "Wadi Al-Disah" },
-    coordinates: { lat: 27.595, lng: 36.438 },
+    coords: [36.438, 27.595],
     description: {
       de: "Ein spektakuläres Tal in der Provinz Tabuk, bekannt für seine massiven roten Sandsteinsäulen. Es liegt auf 400 Metern Höhe und beherbergt ganzjährige Wasserquellen.",
       hu: "Látványos völgy Tabuk tartományban, amely vörös homokkő oszlopairól ismert. 400 méteres tengerszint feletti magasságban fekszik, és állandó vízforrásokkal rendelkezik.",
@@ -565,7 +565,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     id: "saudiarabia-wadi-lajab-nature-v2",
     type: "valley",
     name: { de: "Wadi Lajab", hu: "Wadi Lajab", ro: "Wadi Lajab", en: "Wadi Lajab" },
-    coordinates: { lat: 17.592, lng: 42.924 },
+    coords: [42.924, 17.592],
     description: {
       de: "Eine schmale Schlucht in der Provinz Jizan, die zwischen zwei hohen Bergen liegt. Sie ist bekannt für ihre hängenden Gärten und den permanenten Wasserfluss.",
       hu: "Egy szűk szurdok Jizan tartományban, amely két magas hegy között húzódik. Függőkertjeiről és az állandó vízfolyásáról nevezetes.",
@@ -584,7 +584,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     id: "saudiarabia-jabal-ibrahim-nature-v2",
     type: "peak",
     name: { de: "Jabal Ibrahim", hu: "Jabal Ibrahim", ro: "Jabal Ibrahim", en: "Jabal Ibrahim" },
-    coordinates: { lat: 20.418, lng: 41.151 },
+    coords: [41.151, 20.418],
     description: {
       de: "Ein markanter Granitgipfel im Sarawat-Gebirge, auch als Mount Hebeish bekannt. Er erreicht eine Höhe von 2.222 Metern und liegt in der Region Al Bahah.",
       hu: "Jellegzetes gránitcsúcs a Sarawat-hegységben, más néven Hebeish-hegy. 2222 méteres magasságot ér el, és Al Bahah régióban található.",
@@ -603,7 +603,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     id: "saudiarabia-wadi-tayyib-al-ism-nature-v2",
     type: "valley",
     name: { de: "Wadi Tayyib al-Ism", hu: "Wadi Tayyib al-Ism", ro: "Wadi Tayyib al-Ism", en: "Wadi Tayyib al-Ism" },
-    coordinates: { lat: 28.566, lng: 34.808 },
+    coords: [34.808, 28.566],
     description: {
       de: "Ein Küstental am Golf von Akaba, in dem Granitfelsen direkt auf das Rote Meer treffen. Es beherbergt einen kleinen Bach und zahlreiche Palmenhaine.",
       hu: "Partmenti völgy az Akabai-öbölnél, ahol a gránitsziklák közvetlenül a Vörös-tengerrel találkoznak. Egy kis pataknak és pálmaligeteknek ad otthont.",

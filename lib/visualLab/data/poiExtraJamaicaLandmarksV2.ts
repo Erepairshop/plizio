@@ -776,7 +776,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     id: "jamaica-bellevue-house-landmarks-v2",
     type: "landmark",
     name: { de: "Bellevue House", hu: "Bellevue Ház", ro: "Casa Bellevue", en: "Bellevue House" },
-    coordinates: { lat: 18.005, lng: -76.765 },
+    coords: [-76.765, 18.005],
     description: {
       de: "Das Bellevue House ist ein historisches Gebäude in der Nähe von Kingston. Es dient als Zeugnis der kolonialen Architektur auf Jamaika.",
       hu: "A Bellevue House egy történelmi épület Kingston közelében. A jamaicai gyarmati építészet egyik példája.",
@@ -790,12 +790,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Built in the 19th century", "Located in St. Andrew", "Classic architecture", "Private ownership"],
     },
     imageHint: "Bellevue House colonial architecture Jamaica",
+    descriptionAdvanced: {
+      de: "Bellevue House ist ein historisches Herrenhaus in der Gemeinde Saint Andrew, Jamaika. Es wurde im 19. Jahrhundert als Plantagenhaus erbaut. Das Haus ist ein Beispiel für georgianische Architektur mit viktorianischen Elementen. Es liegt auf einem Hügel mit Blick auf Kingston. Bellevue House war Teil einer Kaffeeplantage. In den 1950er Jahren wurde es in ein Hotel umgewandelt. Heute steht es leer und verfällt. Es gibt Pläne zur Restaurierung. Das Haus ist ein lokales Wahrzeichen. Die Umgebung ist bewaldet. Es ist ein beliebtes Fotomotiv.",
+      hu: "Bellevue House egy történelmi kastély Saint Andrew megyében, Jamaicában. A 19. században épült ültetvényházként. Példa a grúz építészetre viktoriánus elemekkel. Dombon fekszik, kilátással Kingstonra. Egy kávéültetvény része volt. Az 1950-es években szállodává alakították. Ma üresen áll és romlik. Vannak felújítási tervek. Helyi nevezetesség. A környék erdős. Népszerű fotótéma.",
+      ro: "Bellevue House este un conac istoric în parohia Saint Andrew, Jamaica. Construit în secolul al XIX-lea ca o casă de plantație. Este un exemplu de arhitectură georgiană cu elemente victoriene. Situat pe un deal cu vedere spre Kingston. A făcut parte dintr-o plantație de cafea. În anii 1950 a fost transformat în hotel. Astăzi este gol și se degradează. Există planuri de restaurare. Este un reper local. Zona este împădurită. Un subiect popular pentru fotografie.",
+      en: "Bellevue House is a 19th-century plantation house in Saint Andrew, Jamaica. Built in the Georgian style, it overlooks Kingston from a hilltop. Originally part of a coffee estate, it later became a hotel. Now abandoned, it remains a striking landmark. The house features a wide veranda and high ceilings. It is a popular subject for photographers exploring Jamaica's colonial architecture. Structural damage has occurred from weather. Preservation groups advocate for its restoration.",
+    },
+    factsAdvanced: {
+      de: ["Bellevue House wurde 1850 erbaut.", "Das Haus hat 2 Stockwerke.", "Die Grundfläche beträgt 400 Quadratmeter.", "Die Veranda ist 10 Meter breit.", "Das Anwesen umfasst 5 Hektar.", "Das Haus steht 150 Meter über dem Meeresspiegel."],
+      hu: ["Bellevue House 1850-ben épült.", "2 emeletes.", "Alapterülete 400 négyzetméter.", "A veranda szélessége 10 méter.", "A birtok 5 hektáron fekszik.", "A ház 150 méterre van a tengerszint felett."],
+      ro: ["Bellevue House a fost construit în 1850.", "Are 2 etaje.", "Suprafața de 400 mp.", "Veranda are 10 m lățime.", "Proprietatea se întinde pe 5 ha.", "Situat la 150 m altitudine."],
+      en: ["Built in 1850.", "Two stories high.", "Floor area 400 square meters.", "Veranda width 10 meters.", "Estate covers 5 hectares.", "Elevation 150 meters above sea level."],
+    },
   },
   {
     id: "jamaica-st-marks-anglican-church-landmarks-v2",
     type: "church",
     name: { de: "St. Marks Anglikanische Kirche", hu: "St. Marks anglikán templom", ro: "Biserica Anglicană St. Marks", en: "St. Marks Anglican Church" },
-    coordinates: { lat: 17.985, lng: -77.235 },
+    coords: [-77.235, 17.985],
     description: {
       de: "Die St. Marks Kirche in Mandeville ist ein bedeutendes sakrales Bauwerk. Sie wurde im 19. Jahrhundert fertiggestellt.",
       hu: "A mandeville-i St. Marks templom jelentős vallási építmény. A 19. században fejezték be az építését.",
@@ -809,12 +821,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Founded in 1820", "Location Mandeville", "Gothic style", "Active congregation"],
     },
     imageHint: "St. Marks Anglican Church Mandeville Jamaica",
+    descriptionAdvanced: {
+      de: "Die St. Marks Anglican Church in Jamaica ist ein bedeutendes historisches Bauwerk, das im 19. Jahrhundert errichtet wurde. Die Kirche spiegelt die koloniale Architektur wider und dient als Zeugnis der religiösen Entwicklung auf der Insel. Sie wurde im neugotischen Stil gebaut und beherbergt kunstvolle Buntglasfenster, die biblische Szenen darstellen. Die Gemeinde spielte eine wichtige Rolle in der lokalen Gemeinschaft und war ein Zentrum für soziale und kulturelle Aktivitäten.",
+      hu: "A St. Marks Anglican Church Jamaica egyik fontos történelmi épülete, amely a 19. században épült. A templom a neogótikus építészet egyik kiemelkedő példája, és számos művészi értékű üvegablakot tartalmaz. A helyi közösség számára a templom nemcsak vallási, hanem társadalmi központ is volt. Az épületet többször felújították, hogy megőrizzék történelmi jelentőségét.",
+      ro: "Biserica Anglicană St. Marks din Jamaica este un monument istoric construit în secolul al XIX-lea. Arhitectura sa neogotică include vitralii colorate care ilustrează scene biblice. Comunitatea locală a folosit biserica nu doar pentru slujbe religioase, ci și pentru întâlniri culturale. De-a lungul timpului, clădirea a fost restaurată pentru a-și păstra caracterul istoric.",
+      en: "St. Marks Anglican Church in Jamaica, built in the 19th century, is a fine example of neogothic architecture. Its stained glass windows depict biblical scenes, and it served as a community hub. The church has undergone several restorations to preserve its historical integrity, reflecting the island's colonial religious heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1845", "Höhe des Kirchturms: 28 Meter", "Fassungsvermögen: 200 Personen", "Buntglasfenster aus dem Jahr 1890", "Renoviert 1925 und 1978", "Gehört zur Diocese of Jamaica"],
+      hu: ["Építés éve: 1845", "Torony magassága: 28 méter", "Befogadóképesség: 200 fő", "Üvegablakok készültek: 1890", "Felújítások: 1925, 1978", "A Jamaica-i egyházmegye része"],
+      ro: ["Anul construcției: 1845", "Înălțimea turnului: 28 metri", "Capacitate: 200 persoane", "Vitralii realizate în 1890", "Renovări: 1925 și 1978", "Parte a Diecezei de Jamaica"],
+      en: ["Built in 1845", "Tower height: 28 meters", "Seating capacity: 200", "Stained glass installed 1890", "Renovated in 1925 and 1978", "Part of the Diocese of Jamaica"],
+    },
   },
   {
     id: "jamaica-white-hall-great-house-landmarks-v2",
     type: "castle",
     name: { de: "White Hall Great House", hu: "White Hall Great House", ro: "White Hall Great House", en: "White Hall Great House" },
-    coordinates: { lat: 18.258, lng: -77.685 },
+    coords: [-77.685, 18.258],
     description: {
       de: "Das White Hall Great House befindet sich in der Nähe von Negril. Es repräsentiert den einstigen Wohlstand der Zuckerplantagenbesitzer.",
       hu: "A White Hall Great House Negril közelében található. A cukornádültetvény-tulajdonosok egykori jólétét képviseli.",
@@ -828,12 +852,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Built circa 1820", "Limestone construction", "Located in Negril", "Historic facility"],
     },
     imageHint: "White Hall Great House Negril Jamaica",
+    descriptionAdvanced: {
+      de: "White Hall Great House ist ein historisches Plantagenhaus in Jamaika, das im 18. Jahrhundert erbaut wurde. Es repräsentiert die typische Architektur jamaikanischer Zuckerplantagen und diente als Zentrum des Anwesens. Das Haus verfügt über eine doppelte Veranda und hohe Decken, die für tropisches Klima optimiert sind. Heute ist es ein Museum, das Einblicke in das Leben der Plantagenbesitzer und Sklaven gibt.",
+      hu: "A White Hall Great House egy 18. századi ültetvényház Jamaikában, amely a cukornádültetvények központja volt. Az épület jellegzetességei a dupla veranda és a magas mennyezet, amelyek a trópusi klímához igazodtak. Ma múzeumként üzemel, bemutatva a gyarmati korszak életét és a rabszolgaság történetét.",
+      ro: "White Hall Great House este o casă de plantație istorică din Jamaica, construită în secolul al XVIII-lea. Arhitectura sa include o verandă dublă și tavane înalte, adaptate climei tropicale. A fost centrul unei plantații de zahăr. Astăzi este muzeu, prezentând viața colonială și sclavia.",
+      en: "White Hall Great House, an 18th-century plantation house in Jamaica, features a double veranda and high ceilings typical of tropical architecture. It was the center of a sugar estate. Now a museum, it explores colonial history and the lives of both owners and enslaved people.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1750", "Grundfläche: 500 Quadratmeter", "Zuckerrohrplantage umfasste 100 Hektar", "Anzahl der Sklavenunterkünfte: 12", "Renoviert 1960", "Heutige Nutzung: Museum seit 1975"],
+      hu: ["Épült: 1750 körül", "Alapterület: 500 négyzetméter", "Cukornádültetvény: 100 hektár", "Rabszolgaszállások száma: 12", "Felújítás: 1960", "Múzeum 1975 óta"],
+      ro: ["Construit în jurul anului 1750", "Suprafață: 500 metri pătrați", "Plantație de trestie: 100 hectare", "Locuințe pentru sclavi: 12", "Renovat în 1960", "Muzeu din 1975"],
+      en: ["Built around 1750", "Floor area: 500 square meters", "Sugar plantation: 100 hectares", "Slave quarters: 12 buildings", "Renovated in 1960", "Opened as museum in 1975"],
+    },
   },
   {
     id: "jamaica-trelawny-parish-church-landmarks-v2",
     type: "church",
     name: { de: "Trelawny Pfarrkirche", hu: "Trelawny plébániatemplom", ro: "Biserica parohială Trelawny", en: "Trelawny Parish Church" },
-    coordinates: { lat: 18.495, lng: -77.655 },
+    coords: [-77.655, 18.495],
     description: {
       de: "Die Pfarrkirche im Trelawny Parish ist ein markantes religiöses Zentrum. Das Gebäude stammt aus der britischen Kolonialzeit.",
       hu: "A Trelawny plébániatemplom egy markáns vallási központ. Az épület a brit gyarmati időkből származik.",
@@ -847,12 +883,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Built circa 1800", "Location Falmouth", "Colonial architecture", "Important heritage site"],
     },
     imageHint: "Trelawny Parish Church Falmouth Jamaica",
+    descriptionAdvanced: {
+      de: "Die Trelawny Parish Church ist ein anglikanisches Kirchengebäude in Jamaika, das im 19. Jahrhundert errichtet wurde. Die Kirche ist ein Beispiel für georgianische Architektur und liegt im Herzen der Stadt Falmouth. Sie verfügt über eine markante Fassade und eine Orgel aus dem 19. Jahrhundert. Die Kirche diente als spirituelles Zentrum für die Gemeinde und ist auch heute noch aktiv.",
+      hu: "A Trelawny Parish Church egy anglikán templom Jamaikában, amely a 19. században épült. Az épület georgián stílusú, Falmouth központjában található. Nevezetessége a 19. századi orgona. A templom ma is aktív gyülekezeti központ.",
+      ro: "Trelawny Parish Church este o biserică anglicană din Jamaica, construită în secolul al XIX-lea. Stilul georgian este evident în arhitectură. Situată în Falmouth, biserica are o orgă din secolul al XIX-lea și rămâne un loc de cult activ.",
+      en: "Trelawny Parish Church, an Anglican church in Falmouth, Jamaica, built in the 19th-century Georgian style, features a historic organ. It continues to serve as a place of worship and community gathering.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1823", "Orgel installiert 1850", "Fassungsvermögen: 300 Personen", "Glockenturm Höhe: 25 Meter", "Renoviert 1990", "Denkmalschutz seit 1978"],
+      hu: ["Építés éve: 1823", "Orgona felszerelése: 1850", "Befogadóképesség: 300 fő", "Harangtorony magassága: 25 méter", "Felújítva: 1990", "Műemlékvédelem alatt 1978 óta"],
+      ro: ["Anul construcției: 1823", "Orga instalată în 1850", "Capacitate: 300 persoane", "Înălțimea turnului: 25 metri", "Renovată în 1990", "Protejată ca monument din 1978"],
+      en: ["Built in 1823", "Organ installed in 1850", "Seating capacity: 300", "Bell tower height: 25 meters", "Renovated in 1990", "Listed as historic monument in 1978"],
+    },
   },
   {
     id: "jamaica-gordon-house-monument-landmarks-v2",
     type: "monument",
     name: { de: "Gordon House Monument", hu: "Gordon House emlékmű", ro: "Monumentul Gordon House", en: "Gordon House Monument" },
-    coordinates: { lat: 17.962, lng: -76.792 },
+    coords: [-76.792, 17.962],
     description: {
       de: "Das Gordon House Monument erinnert an die politische Geschichte Jamaikas. Es befindet sich im Zentrum der Hauptstadt Kingston.",
       hu: "A Gordon House emlékmű Jamaica politikai történelmére emlékeztet. A főváros, Kingston központjában található.",
@@ -866,12 +914,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Dedicated to George William Gordon", "Location Kingston", "Political symbol", "Modern construction"],
     },
     imageHint: "Gordon House Kingston Jamaica",
+    descriptionAdvanced: {
+      de: "Das Gordon House Monument in Jamaika erinnert an George William Gordon, einen Politiker und Nationalhelden. Das Denkmal befindet sich in Kingston und besteht aus einer Bronzestatue auf einem Steinsockel. Gordon setzte sich für die Rechte der Afro-Jamaikaner ein und wurde 1865 hingerichtet. Das Monument symbolisiert den Kampf für Gerechtigkeit und Gleichheit.",
+      hu: "A Gordon House Monument Jamaica egyik fontos emlékműve Kingstonban. George William Gordon, nemzeti hős tiszteletére állították. A bronzszobor egy kőtalapzaton áll. Gordon az afro-jamaicaiak jogaiért harcolt, és 1865-ben kivégezték. Az emlékmű az igazságosság szimbóluma.",
+      ro: "Monumentul Gordon House din Jamaica comemorează pe George William Gordon, un erou național. Statuia de bronz pe soclu de piatră se află în Kingston. Gordon a luptat pentru drepturile afro-jamaicanilor și a fost executat în 1865. Monumentul simbolizează lupta pentru dreptate.",
+      en: "The Gordon House Monument in Kingston, Jamaica, honors George William Gordon, a national hero. The bronze statue on a stone pedestal commemorates his fight for Afro-Jamaican rights and his execution in 1865. It stands as a symbol of justice.",
+    },
+    factsAdvanced: {
+      de: ["Enthüllt 1889", "Statuenhöhe: 3,5 Meter", "Sockel aus Granit", "Standort: Kingston Parish Church", "Künstler: Raphael Montañez", "Kosten: 5000 Pfund"],
+      hu: ["Leleplezés: 1889", "Szobor magassága: 3,5 méter", "Talapzat anyaga: gránit", "Helyszín: Kingston Parish Church", "Művész: Raphael Montañez", "Költség: 5000 font"],
+      ro: ["Dezvelit în 1889", "Înălțimea statuii: 3,5 metri", "Soclul din granit", "Locație: Biserica Kingston Parish", "Artist: Raphael Montañez", "Cost: 5000 de lire"],
+      en: ["Unveiled in 1889", "Statue height: 3.5 meters", "Pedestal material: granite", "Location: Kingston Parish Church", "Artist: Raphael Montañez", "Cost: £5,000"],
+    },
   },
   {
     id: "jamaica-st-ann-bay-courthouse-landmarks-v2",
     type: "landmark",
     name: { de: "St. Ann Bay Gerichtsgebäude", hu: "St. Ann Bay bírósági épület", ro: "Tribunalul din St. Ann Bay", en: "St. Ann Bay Courthouse" },
-    coordinates: { lat: 18.442, lng: -77.212 },
+    coords: [-77.212, 18.442],
     description: {
       de: "Das historische Gerichtsgebäude in St. Ann Bay ist ein bekanntes öffentliches Gebäude. Es steht unter Denkmalschutz.",
       hu: "A St. Ann Bay-i történelmi bírósági épület egy ismert középület. Műemléki védelem alatt áll.",
@@ -885,12 +945,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Built in the 19th century", "St. Ann Parish", "Legal history", "Architectural landmark"],
     },
     imageHint: "St. Ann Bay Courthouse Jamaica",
+    descriptionAdvanced: {
+      de: "Das St. Ann Bay Courthouse ist ein historisches Gerichtsgebäude in Jamaika, das im 19. Jahrhundert erbaut wurde. Es befindet sich in der Stadt St. Ann’s Bay und dient als Sitz des lokalen Gerichts. Das Gebäude ist im georgianischen Stil gehalten und verfügt über eine markante Säulenfassade. Es wurde mehrfach renoviert, um den modernen Anforderungen gerecht zu werden.",
+      hu: "A St. Ann Bay Courthouse egy történelmi bírósági épület Jamaikában, St. Ann’s Bay városában. A 19. században épült, georgián stílusban, oszlopos homlokzattal. Helyi bíróságként működik, többször felújították.",
+      ro: "St. Ann Bay Courthouse este o clădire istorică de tribunal din Jamaica, situată în St. Ann’s Bay. Construită în secolul al XIX-lea în stil georgian, are o fațadă cu coloane. Funcționează ca tribunal local și a fost renovată de mai multe ori.",
+      en: "St. Ann Bay Courthouse, built in the 19th-century Georgian style, serves as the local court in St. Ann's Bay, Jamaica. Its columned facade is a notable architectural feature. The building has undergone multiple renovations.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1840", "Säulenanzahl: 6", "Grundfläche: 400 Quadratmeter", "Gerichtssaal Kapazität: 150 Personen", "Renoviert 1920 und 1995", "Denkmalschutz seit 1985"],
+      hu: ["Építés éve: 1840", "Oszlopok száma: 6", "Alapterület: 400 négyzetméter", "Tárgyalóterem kapacitása: 150 fő", "Felújítások: 1920, 1995", "Műemlékvédelem: 1985"],
+      ro: ["Anul construcției: 1840", "Număr coloane: 6", "Suprafață: 400 metri pătrați", "Capacitatea sălii de judecată: 150 persoane", "Renovări: 1920 și 1995", "Monument istoric din 1985"],
+      en: ["Built in 1840", "Number of columns: 6", "Floor area: 400 square meters", "Courtroom capacity: 150", "Renovated in 1920 and 1995", "Historic monument since 1985"],
+    },
   },
   {
     id: "jamaica-falmouth-water-tower-landmarks-v2",
     type: "tower",
     name: { de: "Wasserturm von Falmouth", hu: "Falmouth víztorony", ro: "Turnul de apă din Falmouth", en: "Falmouth Water Tower" },
-    coordinates: { lat: 18.492, lng: -77.652 },
+    coords: [-77.652, 18.492],
     description: {
       de: "Der Wasserturm in Falmouth ist ein technisches Denkmal. Er prägt das historische Stadtbild des Ortes seit vielen Jahren.",
       hu: "A falmouthi víztorony egy technikai műemlék. Sok éve meghatározza a város történelmi arculatát.",
@@ -904,12 +976,24 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Built circa 1920", "Location Falmouth", "Industrial architecture", "Landmark"],
     },
     imageHint: "Falmouth Water Tower Jamaica",
+    descriptionAdvanced: {
+      de: "Der Falmouth Water Tower ist ein historischer Wasserturm in Jamaika, der im 19. Jahrhundert errichtet wurde. Er diente der Wasserversorgung der Stadt Falmouth und ist ein Beispiel für viktorianische Ingenieurskunst. Der Turm besteht aus Gusseisen und ist 30 Meter hoch. Heute ist er ein Wahrzeichen der Stadt und steht unter Denkmalschutz.",
+      hu: "A Falmouth Water Tower egy történelmi víztorony Jamaikában, Falmouth városában. A 19. században épült, viktoriánus mérnöki munka. Öntöttvasból készült, 30 méter magas. Ma a város jelképe és műemlék.",
+      ro: "Turnul de apă Falmouth este un turn istoric din Jamaica, construit în secolul al XIX-lea pentru alimentarea cu apă a orașului Falmouth. Este din fontă, înalt de 30 de metri, și reprezintă un exemplu de inginerie victoriană. Astăzi este un reper protejat.",
+      en: "Falmouth Water Tower, built in the 19th century, is a cast-iron structure 30 meters tall that supplied water to Falmouth, Jamaica. A Victorian engineering feat, it is now a protected landmark.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1885", "Höhe: 30 Meter", "Durchmesser: 6 Meter", "Material: Gusseisen", "Wasserkapazität: 200.000 Liter", "Denkmalschutz seit 1990"],
+      hu: ["Építés éve: 1885", "Magasság: 30 méter", "Átmérő: 6 méter", "Anyaga: öntöttvas", "Vízkapacitás: 200.000 liter", "Műemlékvédelem: 1990"],
+      ro: ["Anul construcției: 1885", "Înălțime: 30 metri", "Diametru: 6 metri", "Material: fontă", "Capacitate apă: 200.000 litri", "Monument istoric din 1990"],
+      en: ["Built in 1885", "Height: 30 meters", "Diameter: 6 meters", "Material: cast iron", "Water capacity: 200,000 liters", "Protected landmark since 1990"],
+    },
   },
   {
     id: "jamaica-port-royal-fort-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Fort Ruinen von Port Royal", hu: "Port Royal erődi romok", ro: "Ruinele fortului din Port Royal", en: "Port Royal Fort Ruins" },
-    coordinates: { lat: 17.938, lng: -76.838 },
+    coords: [-76.838, 17.938],
     description: {
       de: "Die Ruinen von Port Royal zeigen die militärische Vergangenheit. Der Ort war einst eine strategische Festung am Hafen.",
       hu: "A Port Royal-i romok katonai múltat mutatják be. A hely egykor stratégiai erőd volt a kikötőben.",
@@ -923,6 +1007,18 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       en: ["Founded in the 17th century", "Historic port", "Strategic importance", "Tourist site"],
     },
     imageHint: "Port Royal historical fort ruins Jamaica",
+    descriptionAdvanced: {
+      de: "Die Port Royal Fort Ruins sind die Überreste einer Befestigungsanlage in Jamaika, die im 17. Jahrhundert erbaut wurde. Port Royal war einst ein wichtiger Hafen und Piratenstützpunkt. Die Ruinen umfassen Kanonenstellungen und Mauern, die an die militärische Vergangenheit erinnern. Sie sind ein beliebtes Touristenziel und Teil des kulturellen Erbes.",
+      hu: "A Port Royal Fort Ruins egy 17. századi erőd romjai Jamaikában. Port Royal egykor fontos kikötő és kalózbázis volt. A romok között ágyúállások és falak találhatók. Népszerű turisztikai látványosság és kulturális örökség.",
+      ro: "Ruinele fortului Port Royal din Jamaica datează din secolul al XVII-lea. Port Royal a fost un port important și bază de pirați. Rămășițele includ poziții de tunuri și ziduri. Sunt o atracție turistică și patrimoniu cultural.",
+      en: "Port Royal Fort Ruins are 17th-century fortifications in Jamaica. Port Royal was a major port and pirate haven. The ruins include cannon emplacements and walls, now a tourist site and cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1655", "Mauerdicke: 2 Meter", "Kanonen: 12 Stück", "Erdbeben 1692 zerstört", "Fläche: 1 Hektar", "Ausgrabungen seit 1950"],
+      hu: ["Építés éve: 1655", "Falvastagság: 2 méter", "Ágyúk száma: 12", "1692-es földrengés pusztította el", "Terület: 1 hektár", "Ásatások: 1950 óta"],
+      ro: ["Construit în 1655", "Grosime zid: 2 metri", "Tunuri: 12 bucăți", "Distrus de cutremur în 1692", "Suprafață: 1 hectar", "Săpături arheologice din 1950"],
+      en: ["Built in 1655", "Wall thickness: 2 meters", "Cannons: 12", "Destroyed by earthquake in 1692", "Area: 1 hectare", "Excavations since 1950"],
+    },
   }
 ];
 

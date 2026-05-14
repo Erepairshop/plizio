@@ -726,7 +726,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-ratm-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Ratm", hu: "Ratm-erőd", ro: "Cetatea Ratm", en: "Ratm Fortress" },
-    coordinates: { lat: 37.0167, lng: 72.8833 },
+    coords: [72.8833, 37.0167],
     description: {
       de: "Diese strategische Festung im Wakhan-Tal stammt aus dem 3. Jahrhundert v. Chr. Sie sicherte die östlichen Grenzen des Reiches.",
       hu: "Ez a stratégiai erőd a Vahán-völgyben az i. e. 3. századból származik. A birodalom keleti határait védte.",
@@ -745,7 +745,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-hisorak-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Hisorak", hu: "Hiszorak-erőd", ro: "Cetatea Hisorak", en: "Hisorak Fortress" },
-    coordinates: { lat: 39.432, lng: 68.551 },
+    coords: [68.551, 39.432],
     description: {
       de: "Die Ruinen dieser mittelalterlichen Festung liegen im Zeravshan-Tal. Sie war ein wichtiges administratives Zentrum der Region.",
       hu: "A középkori erőd romjai a Zeravsan-völgyben találhatók. A régió fontos adminisztratív központja volt.",
@@ -764,7 +764,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-bibikhonum-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Bibi-Khonum Mausoleum", hu: "Bibi-Honum mauzóleum", ro: "Mausoleul Bibi-Khonum", en: "Bibi-Khonum Mausoleum" },
-    coordinates: { lat: 40.285, lng: 70.412 },
+    coords: [70.412, 40.285],
     description: {
       de: "Dieses Mausoleum in Konibodom ist ein Meisterwerk der islamischen Architektur. Es ehrt eine bedeutende historische Persönlichkeit.",
       hu: "Ez a mauzóleum Konibodomban az iszlám építészet remekműve. Egy jelentős történelmi személyiség tiszteletére emelték.",
@@ -783,7 +783,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-abdurakhmoni-jomi-monument-history-v2",
     type: "monument",
     name: { de: "Dschami-Monument", hu: "Dzsámi-emlékmű", ro: "Monumentul lui Jami", en: "Abdurakhmoni Jomi Monument" },
-    coordinates: { lat: 38.582, lng: 68.784 },
+    coords: [68.784, 38.582],
     description: {
       de: "Dieses Denkmal in Dushanbe ehrt den berühmten persisch-tadschikischen Dichter und Gelehrten Abdurakhman Dschami aus dem 15. Jahrhundert.",
       hu: "Ez a dusanbei emlékmű a híres 15. századi perzsa-tadzsik költőnek és tudósnak, Abdurrahman Dzsáminak állít emléket.",
@@ -802,7 +802,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kamoli-khujandi-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Kamoli Chudschanidi Mausoleum", hu: "Kamoli Hudzsandi mauzóleum", ro: "Mausoleul Kamoli Khujandi", en: "Kamoli Khujandi Mausoleum" },
-    coordinates: { lat: 40.283, lng: 69.621 },
+    coords: [69.621, 40.283],
     description: {
       de: "Das symbolische Grabmal des Dichters Kamol Chudschanidi befindet sich in Chudschanid und ist ein Ort der kulturellen Verehrung.",
       hu: "Kamoli Hudzsandi költő szimbolikus síremléke Hudzsantban található, és a kulturális tisztelet egyik helyszíne.",
@@ -821,7 +821,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-zoli-zar-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Zoli-Zar", hu: "Zoli-Zar-erőd", ro: "Cetatea Zoli-Zar", en: "Zoli Zar Fortress" },
-    coordinates: { lat: 36.735, lng: 71.604 },
+    coords: [71.604, 36.735],
     description: {
       de: "Diese antike Festung in der Nähe von Ischkashim bewachte den Zugang zum Wakhan-Korridor und zur Region Hindukusch.",
       hu: "Ez az ősi erőd Iskasim közelében a Vahán-folyosó és a Hindukus régió bejáratát őrizte.",
@@ -840,7 +840,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khovaling-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Chovaling", hu: "Hovaling romjai", ro: "Ruinele Khovaling", en: "Khovaling Ruins" },
-    coordinates: { lat: 38.332, lng: 70.005 },
+    coords: [70.005, 38.332],
     description: {
       de: "Archäologische Stätte in der Region Chovaling, die Siedlungsspuren aus verschiedenen Epochen der tadschikischen Geschichte zeigt.",
       hu: "Régészeti lelőhely Hovaling régiójában, amely a tadzsik történelem különböző korszakaiból mutat településnyomokat.",
@@ -859,7 +859,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-baluandakyr-site-history-v2",
     type: "ruins",
     name: { de: "Baluandakyr-Stätte", hu: "Baluandakir-lelőhely", ro: "Situl Baluandakyr", en: "Baluandakyr Site" },
-    coordinates: { lat: 37.334, lng: 68.502 },
+    coords: [68.502, 37.334],
     description: {
       de: "Baluandakyr ist eine bedeutende archäologische Fundstelle im Vakhsh-Tal mit Überresten aus der griechisch-baktrischen Zeit.",
       hu: "Baluandakir egy jelentős régészeti lelőhely a Vahs-völgyben, görög-baktriai korszakból származó maradványokkal.",
@@ -878,7 +878,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-chilkhujura-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Tschilchudschura", hu: "Csilhudzsura-erőd", ro: "Cetatea Chilkhujura", en: "Chilkhujura Fortress" },
-    coordinates: { lat: 39.778, lng: 68.805 },
+    coords: [68.805, 39.778],
     description: {
       de: "Diese Festung in der Region Schahristan war ein Schlüsselpunkt für die Kontrolle der Gebirgspässe zwischen Sogdien und Baktrien.",
       hu: "Ez a Sahrisztán régióban található erőd kulcsfontosságú volt a Szogdia és Baktria közötti hágók ellenőrzésében.",
@@ -897,7 +897,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kalai-shodmon-history-v2",
     type: "ruins",
     name: { de: "Kalai Schodmon", hu: "Kalai Sodmon", ro: "Kalai Shodmon", en: "Kalai Shodmon" },
-    coordinates: { lat: 38.485, lng: 68.582 },
+    coords: [68.582, 38.485],
     description: {
       de: "Die Ruinen der Zitadelle Kalai Schodmon sind Teil des historischen Komplexes von Hisor und dienten als Residenz lokaler Herrscher.",
       hu: "A Kalai Sodmon citadella romjai a hiszori történelmi komplexum részei, és a helyi uralkodók rezidenciájaként szolgáltak.",
@@ -916,7 +916,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kalai-mugh-ayni-history-v2",
     type: "ruins",
     name: { de: "Kalai-Mugh (Ayni)", hu: "Kalai-Mug (Ajni)", ro: "Kalai-Mugh (Ayni)", en: "Kalai Mugh (Ayni)" },
-    coordinates: { lat: 39.405, lng: 68.554 },
+    coords: [68.554, 39.405],
     description: {
       de: "Diese Bergfestung ist berühmt für die Entdeckung des sogdischen Archivs, das wertvolle Informationen über die Geschichte Zentralasiens lieferte.",
       hu: "Ez a hegyi erőd a szogd archívum felfedezéséről híres, amely értékes információkat nyújtott Közép-Ázsia történelméről.",
@@ -935,7 +935,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-makhdumi-azam-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Makhdumi Azam Mausoleum", hu: "Mahdumi Azam mauzóleum", ro: "Mausoleul Makhdumi Azam", en: "Makhdumi Azam Mausoleum" },
-    coordinates: { lat: 38.487, lng: 68.583 },
+    coords: [68.583, 38.487],
     description: {
       de: "Ein bedeutendes Mausoleum in der Nähe von Hisor, das einem berühmten Sufi-Gelehrten gewidmet ist, der in der Region sehr verehrt wird.",
       hu: "Egy jelentős mauzóleum Hiszor közelében, egy híres szúfi tudósnak szentelve, akit nagy tisztelet övez a régióban.",
@@ -954,7 +954,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shirin-chormagz-history-v2",
     type: "ruins",
     name: { de: "Schirin-Tschormags-Stätte", hu: "Sirin-Csormagz lelőhely", ro: "Situl Shirin-Chormagz", en: "Shirin-Chormagz Site" },
-    coordinates: { lat: 38.512, lng: 69.025 },
+    coords: [69.025, 38.512],
     description: {
       de: "Diese archäologische Stätte östlich von Dushanbe bewahrt Überreste einer antiken Siedlung und bietet Einblicke in die lokale Geschichte.",
       hu: "Ez a Dusanbetól keletre található régészeti lelőhely egy ősi település maradványait őrzi.",
@@ -973,7 +973,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-tamosha-tepa-history-v2",
     type: "ruins",
     name: { de: "Tamoscha-Tepa", hu: "Tamosa-tepa", ro: "Tamosha-Tepa", en: "Tamosha-Tepa" },
-    coordinates: { lat: 37.542, lng: 69.215 },
+    coords: [69.215, 37.542],
     description: {
       de: "Tamoscha-Tepa ist ein archäologischer Hügel im Süden Tadschikistans, der Siedlungsschichten vom Altertum bis zum Mittelalter umfasst.",
       hu: "Tamosa-tepa egy régészeti domb Tádzsikisztán déli részén, amely az ókortól a középkorig terjedő településrétegeket tartalmaz.",
@@ -992,7 +992,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-chorgul-tepa-history-v2",
     type: "ruins",
     name: { de: "Tschorgul-Tepa", hu: "Csorgul-tepa", ro: "Chorgul-Tepa", en: "Chorgul-Tepa" },
-    coordinates: { lat: 37.625, lng: 69.112 },
+    coords: [69.112, 37.625],
     description: {
       de: "Diese Stätte zeigt Überreste eines antiken Tempels oder einer Festung und ist ein wichtiges Zeugnis der präislamischen Kultur der Region.",
       hu: "Ez a lelőhely egy ősi templom vagy erőd maradványait mutatja be, és a régió iszlám előtti kultúrájának fontos tanúja.",
@@ -1011,7 +1011,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-saka-cemeteries-history-v2",
     type: "landmark",
     name: { de: "Saka-Gräberfelder", hu: "Szaka temetők", ro: "Cimitirele Saka", en: "Saka Cemeteries" },
-    coordinates: { lat: 38.125, lng: 74.521 },
+    coords: [74.521, 38.125],
     description: {
       de: "Antike Grabhügel der Saka-Nomaden im östlichen Pamir. Sie bieten wertvolle Informationen über die Skythen-Kultur Zentralasiens.",
       hu: "A szaka nomádok ősi sírhalmai a Keleti-Pamírban. Értékes információkat nyújtanak Közép-Ázsia szkíta kultúrájáról.",
@@ -1030,7 +1030,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khumb-tepa-history-v2",
     type: "ruins",
     name: { de: "Chumb-Tepa", hu: "Humb-tepa", ro: "Khumb-Tepa", en: "Khumb-Tepa" },
-    coordinates: { lat: 38.612, lng: 68.645 },
+    coords: [68.645, 38.612],
     description: {
       de: "Ein kleinerer archäologischer Fundort bei Dushanbe, der Überreste einer befestigten Siedlung aus der späten Antike bewahrt.",
       hu: "Dusanbe melletti kisebb régészeti lelőhely, amely egy késő antik kori erődített település maradványait őrzi.",
@@ -1049,7 +1049,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-sanok-mazar-monastery-history-v2",
     type: "ruins",
     name: { de: "Sanok-Masar-Kloster", hu: "Sanok-Mazar kolostor", ro: "Mănăstirea Sanok-Mazar", en: "Sanok-Mazar Monastery" },
-    coordinates: { lat: 38.705, lng: 68.912 },
+    coords: [68.912, 38.705],
     description: {
       de: "Überreste eines alten buddhistischen Klosters in der Region Faizobod, das die Verbreitung des Buddhismus in Tadschikistan belegt.",
       hu: "Egy ősi buddhista kolostor maradványai Fajzobod régióban, amely a buddhizmus tádzsikisztáni elterjedését bizonyítja.",
@@ -1068,7 +1068,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-mir-rajab-dodo-madrasah-history-v2",
     type: "landmark",
     name: { de: "Mir-Radschab-Dodo Medrese", hu: "Mir-Radzsab-Dodo medresze", ro: "Medresa Mir-Rajab-Dodo", en: "Mir-Rajab-Dodo Madrasah" },
-    coordinates: { lat: 40.292, lng: 70.421 },
+    coords: [70.421, 40.292],
     description: {
       de: "Diese historische Medrese in Konibodom aus dem 16. Jahrhundert diente jahrhundertelang als wichtiges Bildungszentrum.",
       hu: "Ez a 16. századi történelmi medresze Konibodomban évszázadokon át fontos oktatási központként szolgált.",
@@ -1087,7 +1087,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-oim-madrasah-history-v2",
     type: "landmark",
     name: { de: "Oim Medrese", hu: "Oim medresze", ro: "Medresa Oim", en: "Oim Madrasah" },
-    coordinates: { lat: 40.294, lng: 70.435 },
+    coords: [70.435, 40.294],
     description: {
       de: "Die Oim-Medrese ist eine der wenigen historischen Schulen für Frauen in Zentralasien und ein bedeutendes Baudenkmal.",
       hu: "Az Oim-medresze Közép-Ázsia kevés történelmi női iskolájának egyike, és jelentős építészeti műemlék.",
@@ -1106,7 +1106,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khoja-nazar-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Khoja Nazar Mausoleum", hu: "Hodzsa Nazar mauzóleum", ro: "Mausoleul Khoja Nazar", en: "Khoja Nazar Mausoleum" },
-    coordinates: { lat: 37.352, lng: 68.154 },
+    coords: [68.154, 37.352],
     description: {
       de: "Dieses Mausoleum aus dem 11. Jahrhundert in der Nähe von Schartuz ist ein wichtiges Beispiel für die frühe islamische Architektur in Tadschikistan.",
       hu: "Ez a 11. századi mauzóleum Sahrtuz közelében a korai tadzsik iszlám építészet fontos példája.",
@@ -1125,7 +1125,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-tugol-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Tugol-Mausoleum", hu: "Tugol-mauzóleum", ro: "Mausoleul Tugol", en: "Tugol Mausoleum" },
-    coordinates: { lat: 37.405, lng: 68.212 },
+    coords: [68.212, 37.405],
     description: {
       de: "Das Tugol-Mausoleum ist ein architektonisches Denkmal aus dem Mittelalter im Distrikt Schartuz, bekannt für seine schlichte Eleganz.",
       hu: "A Tugol-mauzóleum egy középkori építészeti műemlék a Sahrtuz körzetben, amely egyszerű eleganciájáról ismert.",
@@ -1144,7 +1144,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kalai-khumb-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Kalai-Chumb", hu: "Kalai-Humb erőd", ro: "Cetatea Kalai-Khumb", en: "Kalai Khumb Fortress" },
-    coordinates: { lat: 38.455, lng: 70.784 },
+    coords: [70.784, 38.455],
     description: {
       de: "Die antike Festung von Kalai-Chumb war einst die Hauptstadt des Fürstentums Darwaz und kontrollierte den Weg ins Pamir-Gebirge.",
       hu: "Kalai-Humb ősi erődje egykor a Darváz fejedelemség fővárosa volt, és a Pamír-hegységbe vezető utat ellenőrizte.",
@@ -1163,7 +1163,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-darvoz-gateway-history-v2",
     type: "landmark",
     name: { de: "Darwaz-Tor", hu: "Darváz-kapu", ro: "Poarta Darvoz", en: "Darvoz Gateway" },
-    coordinates: { lat: 38.465, lng: 70.802 },
+    coords: [70.802, 38.465],
     description: {
       de: "Ein symbolisches Tor am Eingang zur Region Darwaz, das an die historische Bedeutung dieses Gebiets als Grenzübergang erinnert.",
       hu: "A Darváz régió bejáratánál lévő szimbolikus kapu, amely a terület határátkelőként betöltött történelmi szerepére emlékeztet.",
@@ -1182,7 +1182,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-gardani-hissar-history-v2",
     type: "ruins",
     name: { de: "Gardani Hisor", hu: "Gardani Hiszor", ro: "Gardani Hissar", en: "Gardani Hissar" },
-    coordinates: { lat: 39.425, lng: 67.584 },
+    coords: [67.584, 39.425],
     description: {
       de: "Gardani Hisor ist eine antike Siedlung in der Nähe von Pandschakent, die wichtige Funde zur sogdischen Kultur lieferte.",
       hu: "Gardani Hiszor egy ősi település Pandzsakent közelében, amely fontos leleteket szolgáltatott a szogd kultúráról.",
@@ -1201,7 +1201,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-madushkat-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Maduschkat", hu: "Maduskat romjai", ro: "Ruinele Madushkat", en: "Madushkat Ruins" },
-    coordinates: { lat: 39.452, lng: 68.852 },
+    coords: [68.852, 39.452],
     description: {
       de: "Diese antiken Ruinen im oberen Zeravshan-Tal stammen aus der Zeit vor der arabischen Eroberung und zeigen sogdische Bauweisen.",
       hu: "Az ókori romok a felső Zeravsan-völgyben az arab hódítás előtti időkből származnak, és szogd építési módokat mutatnak.",
@@ -1220,7 +1220,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khitai-tepa-history-v2",
     type: "ruins",
     name: { de: "Khitai-Tepa", hu: "Hitáj-tepa", ro: "Khitai-Tepa", en: "Khitai-Tepa" },
-    coordinates: { lat: 37.825, lng: 68.812 },
+    coords: [68.812, 37.825],
     description: {
       de: "Khitai-Tepa ist eine antike Siedlung im Vakhsh-Tal, die für ihre Funde aus der Kushan- und Sassaniden-Zeit bekannt ist.",
       hu: "Hitáj-tepa egy ősi település a Vahs-völgyben, amely Kusán- és Szászánida-kori leleteiről ismert.",
@@ -1239,7 +1239,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shodu-tepa-history-v2",
     type: "ruins",
     name: { de: "Schodu-Tepa", hu: "Sodu-tepa", ro: "Shodu-Tepa", en: "Shodu-Tepa" },
-    coordinates: { lat: 37.912, lng: 68.745 },
+    coords: [68.745, 37.912],
     description: {
       de: "Eine befestigte Siedlung aus der späten Antike im Süden Tadschikistans, die Teil eines Systems von Grenzfestungen war.",
       hu: "Egy késő antik kori erődített település Tádzsikisztán déli részén, amely a határmenti erődrendszer része volt.",
@@ -1258,7 +1258,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kurkat-catacombs-history-v2",
     type: "landmark",
     name: { de: "Katakomben von Kurkat", hu: "Kurkat katakombák", ro: "Catacombele din Kurkat", en: "Kurkat Catacombs" },
-    coordinates: { lat: 40.105, lng: 69.212 },
+    coords: [69.212, 40.105],
     description: {
       de: "Einzigartige Felsengräber (Katakomben) im Dorf Kurkat, die einen Einblick in die Bestattungsriten der antiken Bewohner Nord-Tadschikistans geben.",
       hu: "Egyedülálló sziklasírok (katakombák) Kurkat faluban, amelyek bepillantást engednek az észak-tádzsik lakók ősi temetkezési rítusaiba.",
@@ -1277,7 +1277,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shirin-maiden-castle-history-v2",
     type: "castle",
     name: { de: "Schloss der Schirin", hu: "Sirin-vár", ro: "Castelul Shirin", en: "Shirin Maiden Castle" },
-    coordinates: { lat: 39.925, lng: 69.012 },
+    coords: [69.012, 39.925],
     description: {
       de: "Überreste einer mittelalterlichen Burg in Istaravschan, die mit der berühmten Legende von Farhad und Schirin verbunden ist.",
       hu: "Középkori vár maradványai Isztaravsanban, amely Farhád és Sirin híres legendájához kapcsolódik.",
@@ -1296,7 +1296,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-sary-mazar-complex-history-v2",
     type: "landmark",
     name: { de: "Sary-Masar-Komplex", hu: "Szári-Mazar komplexum", ro: "Complexul Sary-Mazar", en: "Sary-Mazar Complex" },
-    coordinates: { lat: 39.921, lng: 69.015 },
+    coords: [69.015, 39.921],
     description: {
       de: "Ein religiöser Komplex in Istaravschan, der Gräber lokaler Heiliger und jahrhundertealte Moscheen umfasst.",
       hu: "Egy vallási komplexum Isztaravsanban, amely helyi szentek sírjait és évszázados mecseteket foglal magában.",
@@ -1315,7 +1315,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-langar-petroglyphs-history-v2",
     type: "landmark",
     name: { de: "Felsbilder von Langar", hu: "Langari petroglifák", ro: "Petrogliifele de la Langar", en: "Langar Petroglyphs" },
-    coordinates: { lat: 37.065, lng: 72.694 },
+    coords: [72.694, 37.065],
     description: {
       de: "Eines der größten Felder antiker Felsgravuren in Tadschikistan, mit Darstellungen von Tieren und Menschen aus der Bronzezeit.",
       hu: "Tádzsikisztán egyik legnagyobb ősi sziklavéset-mezője, amely bronzkori állat- és emberábrázolásokat tartalmaz.",
@@ -1334,7 +1334,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-namadgut-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Namadgut", hu: "Namadgut-erőd", ro: "Cetatea Namadgut", en: "Namadgut Fortress" },
-    coordinates: { lat: 36.702, lng: 71.552 },
+    coords: [71.552, 36.702],
     description: {
       de: "Auch als Abrashim Qala bekannt, diente diese Festung zum Schutz der Seidenstraße im Wakhan-Tal vor Angriffen aus dem Süden.",
       hu: "Abrashim Qala néven is ismert, ez az erőd a Vahán-völgyben a Selyemutat védte a déli támadások ellen.",
@@ -1353,7 +1353,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kofirnigan-ruins-history-v2",
     type: "ruins",
     name: { de: "Kofirnigan-Ruinen", hu: "Kofirnigan-romok", ro: "Ruinele Kofirnigan", en: "Kofirnigan Ruins" },
-    coordinates: { lat: 37.155, lng: 68.254 },
+    coords: [68.254, 37.155],
     description: {
       de: "Eine bedeutende archäologische Stätte an der Mündung des Kofirnigan-Flusses, die Überreste einer antiken Stadt bewahrt.",
       hu: "Jelentős régészeti lelőhely a Kofirnigan-folyó torkolatánál, amely egy ősi város maradványait őrzi.",
@@ -1372,7 +1372,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-munchak-tepa-history-v2",
     type: "ruins",
     name: { de: "Munchak-Tepa", hu: "Muncsak-tepa", ro: "Munchak-Tepa", en: "Munchak-Tepa" },
-    coordinates: { lat: 40.215, lng: 70.325 },
+    coords: [70.325, 40.215],
     description: {
       de: "Diese antike Siedlung in der Region Sughd ist für ihre reichen archäologischen Funde aus der Zeit der Seidenstraße bekannt.",
       hu: "Ez az ősi település Szugd régióban a Selyemút idejéből származó gazdag régészeti leleteiről ismert.",
@@ -1391,7 +1391,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-mirza-tepa-history-v2",
     type: "ruins",
     name: { de: "Mirsa-Tepa", hu: "Mirza-tepa", ro: "Mirza-Tepa", en: "Mirza-Tepa" },
-    coordinates: { lat: 37.685, lng: 68.412 },
+    coords: [68.412, 37.685],
     description: {
       de: "Ein archäologischer Ort im Süden Tadschikistans, der Einblicke in die städtische Entwicklung während der Kushan-Ära gibt.",
       hu: "Egy régészeti helyszín Tádzsikisztán déli részén, amely betekintést nyújt a Kusán-kori városfejlődésbe.",
@@ -1410,7 +1410,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-chormagz-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Tschormags", hu: "Csormagzi csatatér", ro: "Câmpul de luptă Chormagz", en: "Chormagz Battlefield" },
-    coordinates: { lat: 38.415, lng: 69.252 },
+    coords: [69.252, 38.415],
     description: {
       de: "Historischer Ort am Chormags-Pass, an dem im Mittelalter bedeutende Schlachten um die Kontrolle des Weges nach Dushanbe stattfanden.",
       hu: "Történelmi helyszín a Csormagz-hágónál, ahol a középkorban jelentős csaták zajlottak a Dusanbe felé vezető útért.",
@@ -1429,7 +1429,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-gissar-madrasah-kuhna-history-v2",
     type: "landmark",
     name: { de: "Medrese Kuhna (Hisor)", hu: "Madrasza Kuhna (Hiszor)", ro: "Medresa Kuhna (Hisor)", en: "Madrasah Kuhna (Hisor)" },
-    coordinates: { lat: 38.487, lng: 68.581 },
+    coords: [68.581, 38.487],
     description: {
       de: "Die 'Alte Medrese' im Hisor-Komplex ist ein hervorragendes Beispiel für die traditionelle zentralasiatische Architektur des 16. Jahrhunderts.",
       hu: "A hiszori komplexum 'Régi Medreszéje' a 16. századi hagyományos közép-ázsiai építészet kiváló példája.",
@@ -1448,7 +1448,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shohimardon-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Shohimardon Mausoleum", hu: "Sohimardon mauzóleum", ro: "Mausoleul Shohimardon", en: "Shohimardon Mausoleum" },
-    coordinates: { lat: 38.525, lng: 70.112 },
+    coords: [70.112, 38.525],
     description: {
       de: "Ein schönes Mausoleum in der Region Darwaz, das einer wichtigen religiösen Persönlichkeit der lokalen Geschichte gewidmet ist.",
       hu: "Egy szép mauzóleum Darváz régióban, amely a helyi történelem egyik fontos vallási alakjának állít emléket.",
@@ -1467,7 +1467,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-aksaray-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Aksaray Mausoleum", hu: "Akszaraj mauzóleum", ro: "Mausoleul Aksaray", en: "Aksaray Mausoleum" },
-    coordinates: { lat: 38.528, lng: 70.125 },
+    coords: [70.125, 38.528],
     description: {
       de: "Das 'Weiße Palais' Mausoleum ist bekannt für seine feinen Dekorationen und ist ein architektonisches Juwel im Südosten des Landes.",
       hu: "A 'Fehér Palota' mauzóleum finom díszítéseiről ismert, és az ország délkeleti részének építészeti gyöngyszeme.",
@@ -1486,7 +1486,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-karatag-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Karatag", hu: "Karatag romjai", ro: "Ruinele Karatag", en: "Karatag Ruins" },
-    coordinates: { lat: 38.605, lng: 68.324 },
+    coords: [68.324, 38.605],
     description: {
       de: "Überreste einer historischen Siedlung im Karatag-Tal, die einst ein wichtiges Handwerks- und Handelszentrum war.",
       hu: "Egy történelmi település maradványai a Karatag-völgyben, amely egykor fontos kézműves és kereskedelmi központ volt.",
@@ -1505,7 +1505,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-faizabad-mosque-history-v2",
     type: "landmark",
     name: { de: "Faizobod-Moschee", hu: "Fajzobodi mecset", ro: "Moscheea Faizabad", en: "Faizabad Mosque" },
-    coordinates: { lat: 38.552, lng: 69.325 },
+    coords: [69.325, 38.552],
     description: {
       de: "Diese historische Moschee ist ein Beispiel für die Sakralarchitektur des 18. Jahrhunderts und dient noch heute der lokalen Gemeinschaft.",
       hu: "Ez a történelmi mecset a 18. századi szakrális építészet példája, és ma is szolgálja a helyi közösséget.",
@@ -1524,7 +1524,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-chilu-chor-chashma-history-v2",
     type: "landmark",
     name: { de: "Tschilu Tschor Tschaschma", hu: "Csilu Csor Csaszi", ro: "Chilu Chor Chashma", en: "Chilu Chor Chashma" },
-    coordinates: { lat: 37.284, lng: 68.045 },
+    coords: [68.045, 37.284],
     description: {
       de: "Ein heiliger Ort im Süden Tadschikistans mit 44 Quellen, der mit Legenden über den Propheten Ali verbunden ist.",
       hu: "Szent hely Tádzsikisztán déli részén 44 forrással, amely az Ali prófétáról szóló legendákhoz kapcsolódik.",
@@ -1543,7 +1543,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-isfara-great-mosque-history-v2",
     type: "landmark",
     name: { de: "Große Moschee von Isfara", hu: "Iszfarai nagy mecset", ro: "Marea Moschee din Isfara", en: "Isfara Great Mosque" },
-    coordinates: { lat: 40.125, lng: 70.625 },
+    coords: [70.625, 40.125],
     description: {
       de: "Diese Moschee ist berühmt für ihre fein geschnitzte Holzdecke und stellt ein Meisterwerk der tadschikischen Handwerkskunst dar.",
       hu: "Ez a mecset finoman faragott famennyezetéről híres, és a tadzsik kézművesség remekműve.",
@@ -1562,7 +1562,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-baba-tagi-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Baba-Tagi Mausoleum", hu: "Baba-Tagi mauzóleum", ro: "Mausoleul Baba-Tagi", en: "Baba Tagi Mausoleum" },
-    coordinates: { lat: 38.215, lng: 68.812 },
+    coords: [68.812, 38.215],
     description: {
       de: "Ein historisches Grabmal in der Nähe von Dushanbe, das einem lokalen Heiligen gewidmet ist und traditionelle Ziegelbauweise zeigt.",
       hu: "Dusanbe közeli történelmi síremlék, amely egy helyi szentnek állít emléket és hagyományos téglaépítést mutat.",
@@ -1581,7 +1581,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-boboi-pira-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Boboi-Pira Mausoleum", hu: "Boboi-Pira mauzóleum", ro: "Mausoleul Boboi-Pira", en: "Boboi Pira Mausoleum" },
-    coordinates: { lat: 38.312, lng: 68.915 },
+    coords: [68.915, 38.312],
     description: {
       de: "Das Mausoleum von Boboi Pira ist ein spirituelles Zentrum in der Region Hisor, bekannt für seine schlichte mittelalterliche Architektur.",
       hu: "A Boboi Pira mauzóleum a Hiszor régió spirituális központja, amely egyszerű középkori építészetéről ismert.",
@@ -1600,7 +1600,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-tirmizi-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Tirmizi-Mausoleum (Schartuz)", hu: "Tirmizi-mauzóleum (Sahrtuz)", ro: "Mausoleul Tirmizi (Shartuz)", en: "Tirmizi Mausoleum (Shartuz)" },
-    coordinates: { lat: 37.312, lng: 68.125 },
+    coords: [68.125, 37.312],
     description: {
       de: "Ein historisches Mausoleum im Süden Tadschikistans, das mit dem berühmten Gelehrten Al-Tirmidhi in Verbindung gebracht wird.",
       hu: "Történelmi mauzóleum Tádzsikisztán déli részén, amelyet a híres tudóshoz, Al-Tirmidhihez kötnek.",
@@ -1619,7 +1619,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-qizil-qala-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Qizil-Qala", hu: "Kizil-Kala erőd", ro: "Cetatea Qizil-Qala", en: "Qizil Qala Fortress" },
-    coordinates: { lat: 37.425, lng: 68.612 },
+    coords: [68.612, 37.425],
     description: {
       de: "Die 'Rote Festung' ist eine antike Anlage im Vakhsh-Tal, die einst zum Schutz vor nomadischen Invasionen aus der Steppe diente.",
       hu: "A 'Vörös Erőd' egy ősi építmény a Vahs-völgyben, amely a pusztai nomád inváziók elleni védelmet szolgálta.",
@@ -1638,7 +1638,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khalfa-eshon-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Khalfa-Eshon Mausoleum", hu: "Halfa-Eson mauzóleum", ro: "Mausoleul Khalfa-Eshon", en: "Khalfa Eshon Mausoleum" },
-    coordinates: { lat: 40.112, lng: 70.612 },
+    coords: [70.612, 40.112],
     description: {
       de: "Ein bedeutendes Grabmal in Isfara, das ein Beispiel für die späte islamische Grabarchitektur Tadschikistans darstellt.",
       hu: "Jelentős síremlék Iszfarában, amely a késő tadzsik iszlám sírépítészet példája.",
@@ -1657,7 +1657,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khodja-durbad-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Khodja-Durbad Mausoleum", hu: "Hodzsa-Durbad mauzóleum", ro: "Mausoleul Khodja-Durbad", en: "Khodja-Durbad Mausoleum" },
-    coordinates: { lat: 37.385, lng: 68.254 },
+    coords: [68.254, 37.385],
     description: {
       de: "Dieses mittelalterliche Mausoleum im Süden ist bekannt für seine kunstvollen Ziegelarbeiten und religiöse Bedeutung.",
       hu: "Ez a déli középkori mauzóleum művészi téglafalazatáról és vallási jelentőségéről ismert.",
@@ -1676,7 +1676,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shakhristan-pass-ruins-history-v2",
     type: "ruins",
     name: { de: "Schahristan-Pass Ruinen", hu: "Sahrisztán-hágó romjai", ro: "Ruinele din Pasul Shahristan", en: "Shakhristan Pass Ruins" },
-    coordinates: { lat: 39.585, lng: 68.582 },
+    coords: [68.582, 39.585],
     description: {
       de: "Überreste alter Wachtürme am strategischen Schahristan-Pass, der Nord- und Südtadschikistan über den Turkestan-Kamm verbindet.",
       hu: "Régi őrtornyok maradványai a stratégiai Sahrisztán-hágónál, amely Észak- és Dél-Tádzsikisztánt köti össze.",
@@ -1695,7 +1695,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kurgan-tyube-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Korgon-Teppa", hu: "Korgon-Teppa erőd", ro: "Cetatea Korgon-Teppa", en: "Kurgan-Tyube Fortress" },
-    coordinates: { lat: 37.835, lng: 68.784 },
+    coords: [68.784, 37.835],
     description: {
       de: "Die historische Zitadelle von Korgon-Teppa (heute Bokhtar) war ein wichtiges administratives Zentrum im Vakhsh-Tal.",
       hu: "Korgon-Teppa (ma Bohtar) történelmi citadellája a Vahs-völgy fontos adminisztratív központja volt.",
@@ -1714,7 +1714,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-chorgul-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Tschorgul", hu: "Csorgul-erőd", ro: "Cetatea Chorgul", en: "Chorgul Fortress" },
-    coordinates: { lat: 37.642, lng: 69.154 },
+    coords: [69.154, 37.642],
     description: {
       de: "Diese Festung bewachte den Zugang zum fruchtbaren Farhor-Distrikt und ist ein Zeugnis der Verteidigungslinien des mittelalterlichen Baktrien.",
       hu: "Ez az erőd a termékeny Farhor körzet bejáratát őrizte, és a középkori Baktria védelmi vonalainak tanúja.",
@@ -1733,7 +1733,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khodja-mumin-salt-mountain-history-v2",
     type: "landmark",
     name: { de: "Salzberg Khodja Mumin", hu: "Hodzsa Mumin sóshegy", ro: "Muntele de sare Khodja Mumin", en: "Khodja Mumin Salt Mountain" },
-    coordinates: { lat: 37.752, lng: 69.625 },
+    coords: [69.625, 37.752],
     description: {
       de: "Ein riesiger Salzberg, der seit dem Altertum als Rohstoffquelle genutzt wird und Teil der historischen Handelswege war.",
       hu: "Hatalmas sóshegy, amelyet az ókor óta nyersanyagforrásként használnak, és a történelmi kereskedelmi utak része volt.",
@@ -1752,7 +1752,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shakhristan-city-ruins-history-v2",
     type: "ruins",
     name: { de: "Stadtruinen von Schahristan", hu: "Sahrisztán városromjai", ro: "Ruinele orașului Shahristan", en: "Shakhristan City Ruins" },
-    coordinates: { lat: 39.775, lng: 68.802 },
+    coords: [68.802, 39.775],
     description: {
       de: "Die Überreste der antiken Hauptstadt Bunjikat, ein bedeutendes kulturelles Zentrum des mittelalterlichen Tadschikistans.",
       hu: "Az ősi Bunjikat főváros maradványai, a középkori Tádzsikisztán jelentős kulturális központja.",
@@ -1771,7 +1771,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-takob-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Takob", hu: "Takob-erőd", ro: "Cetatea Takob", en: "Takob Fortress" },
-    coordinates: { lat: 38.852, lng: 68.884 },
+    coords: [68.884, 38.852],
     description: {
       de: "Diese Bergfestung nördlich von Dushanbe sicherte den Zugang zu den reichen Bergbaugebieten des Varsob-Tals.",
       hu: "Ez a Dusanbetól északra fekvő hegyi erőd a Varzob-völgy gazdag bányavidékeinek bejáratát őrizte.",
@@ -1790,7 +1790,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-mir-said-ali-hamadoni-memorial-history-v2",
     type: "monument",
     name: { de: "Hamadoni-Gedenkstätte", hu: "Hamadoni-emlékhely", ro: "Memorialul Hamadoni", en: "Hamadoni Memorial" },
-    coordinates: { lat: 37.915, lng: 69.784 },
+    coords: [69.784, 37.915],
     description: {
       de: "Eine Gedenkstätte für den großen Sufi-Gelehrten Mir Said Ali Hamadoni in der Region Kulob, die seinen Einfluss ehrt.",
       hu: "Emlékhely a nagy szúfi tudós, Mir Szaid Ali Hamadoni tiszteletére Kulob régióban.",
@@ -1809,7 +1809,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-tavildara-fortress-history-v2",
     type: "castle",
     name: { de: "Festung Tawildara", hu: "Tavildara-erőd", ro: "Cetatea Tavildara", en: "Tavildara Fortress" },
-    coordinates: { lat: 38.685, lng: 70.482 },
+    coords: [70.482, 38.685],
     description: {
       de: "Diese abgelegene Bergfestung sicherte die Wege durch den zentralen Tadschikistan-Kamm in Richtung Osten.",
       hu: "Ez a távoli hegyi erőd a központi Tádzsik-hegységen átvezető utakat biztosította kelet felé.",
@@ -1828,7 +1828,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khumrak-tepa-history-v2",
     type: "ruins",
     name: { de: "Khumrak-Tepa", hu: "Humrak-tepa", ro: "Khumrak-Tepa", en: "Khumrak-Tepa" },
-    coordinates: { lat: 38.542, lng: 68.712 },
+    coords: [68.712, 38.542],
     description: {
       de: "Khumrak-Tepa ist eine archäologische Stätte am westlichen Rand von Dushanbe, die Überreste einer frühmittelalterlichen Siedlung bewahrt.",
       hu: "Humrak-tepa egy régészeti lelőhely Dusanbe nyugati szélén, amely kora középkori településmaradványokat őriz.",
@@ -1847,7 +1847,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-baluand-mausoleum-history-v2",
     type: "landmark",
     name: { de: "Baluand-Mausoleum", hu: "Baluand-mauzóleum", ro: "Mausoleul Baluand", en: "Baluand Mausoleum" },
-    coordinates: { lat: 39.752, lng: 69.112 },
+    coords: [69.112, 39.752],
     description: {
       de: "Ein kleines, aber architektonisch bedeutendes Mausoleum im Dorf Baluand, das lokale Handwerkstraditionen zeigt.",
       hu: "Egy kicsi, de építészetileg jelentős mauzóleum Baluand faluban, amely a helyi kézműves hagyományokat mutatja.",
@@ -1866,7 +1866,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shirin-well-history-v2",
     type: "landmark",
     name: { de: "Brunnen der Schirin", hu: "Sirin-kút", ro: "Fântâna Shirin", en: "Shirin Well" },
-    coordinates: { lat: 39.928, lng: 69.018 },
+    coords: [69.018, 39.928],
     description: {
       de: "Ein historischer Brunnen in Istaravschan, der mit den epischen Erzählungen der tadschikischen Literatur verbunden ist.",
       hu: "Történelmi kút Isztaravsanban, amely a tadzsik irodalom epikus történeteihez kapcsolódik.",
@@ -1885,7 +1885,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-vose-victory-monument-history-v2",
     type: "monument",
     name: { de: "Vose-Siegesdenkmal", hu: "Vose-győzelmi emlékmű", ro: "Monumentul Victoriei din Vose", en: "Vose Victory Monument" },
-    coordinates: { lat: 37.812, lng: 69.645 },
+    coords: [69.645, 37.812],
     description: {
       de: "Ein Denkmal in Vose, das an den Sieg im Zweiten Weltkrieg und die Opfer der lokalen Bevölkerung erinnert.",
       hu: "Emlékmű Vosze városában, amely a második világháborús győzelemre és a helyi lakosság áldozataira emlékeztet.",
@@ -1904,7 +1904,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shahrtuz-memorial-history-v2",
     type: "monument",
     name: { de: "Schartuz-Gedenkstätte", hu: "Sahrtuz-emlékhely", ro: "Memorialul Shahrtuz", en: "Shahrtuz Memorial" },
-    coordinates: { lat: 37.332, lng: 68.134 },
+    coords: [68.134, 37.332],
     description: {
       de: "Diese Gedenkstätte in Schartuz ehrt die Teilnehmer historischer Konflikte und den Beitrag der Region zur Landesgeschichte.",
       hu: "Ez a sahrtuzi emlékhely a történelmi konfliktusok résztvevői és a régió fejlődése előtt tiszteleg.",
@@ -1923,7 +1923,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-danghara-history-museum-history-v2",
     type: "museum",
     name: { de: "Geschichtsmuseum Danghara", hu: "Danghara Történeti Múzeum", ro: "Muzeul de Istorie din Danghara", en: "Danghara History Museum" },
-    coordinates: { lat: 38.102, lng: 69.345 },
+    coords: [69.345, 38.102],
     description: {
       de: "Das Museum in Danghara zeigt die Entwicklung der Region von der Antike bis zur Gegenwart, mit Fokus auf Archäologie und Ethnographie.",
       hu: "A dangharai múzeum bemutatja a régió fejlődését az ókortól napjainkig, fókuszban a régészettel és néprajzzal.",
@@ -1942,7 +1942,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khujand-monument-to-kamol-khujandi-history-v2",
     type: "monument",
     name: { de: "Kamoli-Chudschanidi-Denkmal", hu: "Kamoli Hudzsandi emlékmű", ro: "Monumentul Kamoli Khujandi", en: "Kamoli Khujandi Monument" },
-    coordinates: { lat: 40.282, lng: 69.618 },
+    coords: [69.618, 40.282],
     description: {
       de: "Ein imposantes Denkmal in Chudschanid, das dem berühmten Lyriker des 14. Jahrhunderts gewidmet ist.",
       hu: "Impozáns emlékmű Hudzsantban, amelyet a híres 14. századi lírikusnak szenteltek.",
@@ -1961,7 +1961,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-konibodom-history-museum-history-v2",
     type: "museum",
     name: { de: "Heimatmuseum Konibodom", hu: "Konibodomi Helytörténeti Múzeum", ro: "Muzeul de Istorie din Konibodom", en: "Konibodom History Museum" },
-    coordinates: { lat: 40.291, lng: 70.425 },
+    coords: [70.425, 40.291],
     description: {
       de: "Das Museum ist in einer historischen Medrese untergebracht und präsentiert die reiche Geschichte der Stadt am Rande des Fergana-Tals.",
       hu: "A múzeum egy történelmi medreszében található, és bemutatja a Fergana-völgy szélén fekvő város gazdag történetét.",
@@ -1980,7 +1980,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-khorugh-victory-park-history-v2",
     type: "monument",
     name: { de: "Siegespark Chorugh", hu: "Horug győzelmi park", ro: "Parcul Victoriei din Khorugh", en: "Khorugh Victory Park" },
-    coordinates: { lat: 37.492, lng: 71.552 },
+    coords: [71.552, 37.492],
     description: {
       de: "Ein Ort des Gedenkens in Chorugh, der den Soldaten aus dem Pamir gewidmet ist, die im Zweiten Weltkrieg gekämpft haben.",
       hu: "Emlékhely Horugban, a Pamírból származó katonáknak szentelve, akik a második világháborúban harcoltak.",
@@ -1999,7 +1999,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-ayni-monument-history-v2",
     type: "monument",
     name: { de: "Sadriddin-Ayni-Denkmal (Dushanbe)", hu: "Szadriddin Ajni-emlékmű (Dusanbe)", ro: "Monumentul lui Sadriddin Ayni", en: "Sadriddin Ayni Monument (Dushanbe)" },
-    coordinates: { lat: 38.575, lng: 68.795 },
+    coords: [68.795, 38.575],
     description: {
       de: "Dieses Denkmal ehrt Sadriddin Ayni, den Begründer der modernen tadschikischen Literatur und ersten Präsidenten der Akademie der Wissenschaften.",
       hu: "Ez az emlékmű Szadriddin Ajninak, a modern tadzsik irodalom megalapítójának állít emléket.",
@@ -2018,7 +2018,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-vakhsh-river-fortress-system-history-v2",
     type: "ruins",
     name: { de: "Vakhsh-Verteidigungslinie", hu: "Vahs-védelmi vonal", ro: "Linia defensivă Vakhsh", en: "Vakhsh Defense Line" },
-    coordinates: { lat: 37.585, lng: 68.825 },
+    coords: [68.825, 37.585],
     description: {
       de: "Eine Kette von antiken Wachposten und kleinen Forts entlang des Vakhsh-Flusses, die das Kernland Baktriens schützten.",
       hu: "Ősi őrhelyek és kis erődök láncolata a Vahs-folyó mentén, amely Baktria szívét védte.",
@@ -2037,7 +2037,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shirkent-archaeological-park-history-v2",
     type: "ruins",
     name: { de: "Archäologischer Park Shirkent", hu: "Sirkent Régészeti Park", ro: "Parcul Arheologic Shirkent", en: "Shirkent Archaeological Park" },
-    coordinates: { lat: 38.652, lng: 68.215 },
+    coords: [68.215, 38.652],
     description: {
       de: "Neben den berühmten Dinosaurierspuren beherbergt Shirkent auch Überreste antiker Siedlungen und mittelalterlicher Festungen.",
       hu: "A híres dinoszaurusz-lábnyomok mellett Sirkent ősi települések és középkori erődök maradványait is őrzi.",
@@ -2056,7 +2056,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-kofirnigan-citadel-history-v2",
     type: "castle",
     name: { de: "Kofirnigan Zitadelle", hu: "Kofirnigan citadella", ro: "Citadela Kofirnigan", en: "Kofirnigan Citadel" },
-    coordinates: { lat: 37.162, lng: 68.262 },
+    coords: [68.262, 37.162],
     description: {
       de: "Die zentrale Festungsanlage der antiken Stadt Kofirnigan, die die fruchtbare Schwemmebene beherrschte.",
       hu: "Az ősi Kofirnigan város központi erődítménye, amely a termékeny ártéri területet uralta.",
@@ -2075,7 +2075,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-munchak-tepa-burial-ground-history-v2",
     type: "landmark",
     name: { de: "Munchak-Tepa Gräberfeld", hu: "Muncsak-tepa temetkezési hely", ro: "Necropola Munchak-Tepa", en: "Munchak-Tepa Burial Ground" },
-    coordinates: { lat: 40.222, lng: 70.332 },
+    coords: [70.332, 40.222],
     description: {
       de: "Ein ausgedehntes antikes Gräberfeld bei Munchak-Tepa, das wichtige Erkenntnisse über die Sozialstruktur der Seidenstraßen-Kulturen lieferte.",
       hu: "Kiterjedt ősi temetkezési hely Muncsak-tepa mellett, amely fontos adatokat szolgáltatott a Selyemút társadalmáról.",
@@ -2094,7 +2094,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-panjakent-ancient-market-history-v2",
     type: "ruins",
     name: { de: "Antiker Markt von Pandschakent", hu: "Pandzsakent ősi piaca", ro: "Piața antică din Panjakent", en: "Ancient Market of Panjakent" },
-    coordinates: { lat: 39.488, lng: 67.592 },
+    coords: [67.592, 39.488],
     description: {
       de: "Überreste des zentralen Handelsplatzes der antiken sogdischen Stadt Pandschakent, ein Knotenpunkt der Seidenstraße.",
       hu: "Az ősi szogd város, Pandzsakent központi piacának maradványai, a Selyemút egyik csomópontja.",
@@ -2113,7 +2113,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shakhristan-mosque-history-v2",
     type: "landmark",
     name: { de: "Schahristan-Moschee", hu: "Sahrisztáni mecset", ro: "Moscheea Shahristan", en: "Shakhristan Mosque" },
-    coordinates: { lat: 39.778, lng: 68.808 },
+    coords: [68.808, 39.778],
     description: {
       de: "Eine historische Moschee in der Region Schahristan, die auf den Fundamenten älterer präislamischer Strukturen errichtet wurde.",
       hu: "Történelmi mecset Sahrisztán régióban, amely régebbi, iszlám előtti építmények alapjaira épült.",
@@ -2132,7 +2132,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-vrang-petroglyphs-history-v2",
     type: "landmark",
     name: { de: "Felsbilder von Vrang", hu: "Vrangi petroglifák", ro: "Petrogliifele de la Vrang", en: "Vrang Petroglyphs" },
-    coordinates: { lat: 37.008, lng: 72.545 },
+    coords: [72.545, 37.008],
     description: {
       de: "In der Nähe der berühmten Stupa von Vrang befinden sich zahlreiche Petroglyphen, die Szenen aus dem Leben der antiken Bergvölker zeigen.",
       hu: "A híres vrangi sztúpa közelében számos petroglifa található, amelyek az ősi hegyi népek életét mutatják be.",
@@ -2151,7 +2151,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-hissar-madrasah-nav-history-v2",
     type: "landmark",
     name: { de: "Medrese Nav (Hisor)", hu: "Madrasza Nav (Hiszor)", ro: "Medresa Nav (Hisor)", en: "Madrasah Nav (Hisor)" },
-    coordinates: { lat: 38.488, lng: 68.582 },
+    coords: [68.582, 38.488],
     description: {
       de: "Die 'Neue Medrese' in Hisor wurde im 18. Jahrhundert errichtet und ergänzt den historischen Bildungskomplex der Zitadelle.",
       hu: "A hiszori 'Új Medresze' a 18. században épült, kiegészítve a citadella történelmi oktatási komplexumát.",
@@ -2170,7 +2170,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-tavildara-memorial-history-v2",
     type: "monument",
     name: { de: "Tawildara-Gedenkstätte", hu: "Tavildara-emlékhely", ro: "Memorialul Tavildara", en: "Tavildara Memorial" },
-    coordinates: { lat: 38.692, lng: 70.485 },
+    coords: [70.485, 38.692],
     description: {
       de: "Ein Denkmal in der Bergregion Tawildara, das an die Kämpfe während des Bürgerkriegs und die Befriedung des Landes erinnert.",
       hu: "Emlékmű Tavildara hegyi régiójában, amely a polgárháborús harcokra és az ország megbékélésére emlékeztet.",
@@ -2189,7 +2189,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-shakhristan-afshin-palace-history-v2",
     type: "palace",
     name: { de: "Palast des Afschin", hu: "Afsin palotája", ro: "Palatul lui Afshin", en: "Palace of Afshin" },
-    coordinates: { lat: 39.776, lng: 68.804 },
+    coords: [68.804, 39.776],
     description: {
       de: "Die archäologischen Überreste der Residenz der Afschin-Herrscher im antiken Bunjikat, bekannt für ihre prachtvollen Wandgemälde.",
       hu: "Az ősi Bunjikatban található Afsin uralkodók rezidenciájának régészeti maradványai, híres pompás falfestményeiről.",
@@ -2208,7 +2208,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     id: "tajikistan-vose-salt-workers-memorial-history-v2",
     type: "monument",
     name: { de: "Denkmal der Salzarbeiter", hu: "Sómunkások emlékműve", ro: "Monumentul lucrătorilor la sare", en: "Salt Workers Memorial" },
-    coordinates: { lat: 37.825, lng: 69.655 },
+    coords: [69.655, 37.825],
     description: {
       de: "Ein einzigartiges Denkmal in Vose, das die jahrtausendealte Tradition des Salzabbaus in der Region und die harte Arbeit der Menschen ehrt.",
       hu: "Egyedülálló emlékmű Vosze városában, amely a régió évezredes sóbányászati hagyományai előtt tiszteleg.",

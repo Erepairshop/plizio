@@ -845,7 +845,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-iglesia-cristo-rey-landmarks-v2",
     type: "church",
     name: { de: "Iglesia del Cristo Rey", hu: "Iglesia del Cristo Rey", ro: "Iglesia del Cristo Rey", en: "Iglesia del Cristo Rey" },
-    coordinates: { lat: 8.9835, lng: -79.5255 },
+    coords: [-79.5255, 8.9835],
     description: {
       de: "Diese katholische Kirche in Panama-Stadt ist für ihre charakteristische moderne Architektur bekannt. Sie wurde in der Mitte des 20. Jahrhunderts erbaut.",
       hu: "Ez a panamavárosi katolikus templom jellegzetes modern építészetéről ismert. A 20. század közepén épült.",
@@ -864,7 +864,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-templo-hindu-landmarks-v2",
     type: "landmark",
     name: { de: "Hindu-Tempel Panama", hu: "Panamai Hindu Templom", ro: "Templul Hindu din Panama", en: "Panama Hindu Temple" },
-    coordinates: { lat: 9.0205, lng: -79.5273 },
+    coords: [-79.5273, 9.0205],
     description: {
       de: "Der Hindu-Tempel in Panama-Stadt dient der indischen Gemeinschaft der Stadt als religiöser Versammlungsort. Er befindet sich in der Nähe des Geschäftsviertels.",
       hu: "A panamavárosi hindu templom a város indiai közösségének szolgál vallási találkozóhelyként. Az üzleti negyed közelében található.",
@@ -883,7 +883,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-monumento-al-canasta-landmarks-v2",
     type: "monument",
     name: { de: "Monumento al Descubrimiento", hu: "Monumento al Descubrimiento", ro: "Monumento al Descubrimiento", en: "Monumento al Descubrimiento" },
-    coordinates: { lat: 8.9669, lng: -79.5447 },
+    coords: [-79.5447, 8.9669],
     description: {
       de: "Dieses Denkmal erinnert an die Entdeckungsgeschichte der Region. Es steht in einem öffentlichen Park in Panama-Stadt.",
       hu: "Ez az emlékmű a régió felfedezéstörténetére emlékeztet. Egy panamavárosi nyilvános parkban található.",
@@ -902,7 +902,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-museo-ciencias-naturales-landmarks-v2",
     type: "museum",
     name: { de: "Museo de Ciencias Naturales", hu: "Természettudományi Múzeum", ro: "Muzeul de Științe Naturale", en: "Museum of Natural Sciences" },
-    coordinates: { lat: 8.9682, lng: -79.5398 },
+    coords: [-79.5398, 8.9682],
     description: {
       de: "Das Museum für Naturwissenschaften in Panama-Stadt beherbergt Sammlungen zur Geologie und Fauna des Landes. Es befindet sich in einem historischen Gebäude.",
       hu: "A panamavárosi természettudományi múzeum az ország geológiájával és állatvilágával kapcsolatos gyűjteményeket őriz. Egy történelmi épületben található.",
@@ -921,7 +921,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-torre-bicentenario-landmarks-v2",
     type: "tower",
     name: { de: "Torre Bicentenario", hu: "Torre Bicentenario", ro: "Torre Bicentenario", en: "Torre Bicentenario" },
-    coordinates: { lat: 8.9754, lng: -79.5132 },
+    coords: [-79.5132, 8.9754],
     description: {
       de: "Die Torre Bicentenario ist ein modernes Bürogebäude in Panama-Stadt. Sie ist Teil der wachsenden Skyline des Geschäftsviertels.",
       hu: "A Torre Bicentenario egy modern irodaház Panamavárosban. Az üzleti negyed növekvő látképének része.",
@@ -940,7 +940,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-iglesia-guadalupe-landmarks-v2",
     type: "church",
     name: { de: "Iglesia de Nuestra Señora de Guadalupe", hu: "Iglesia de Nuestra Señora de Guadalupe", ro: "Iglesia de Nuestra Señora de Guadalupe", en: "Iglesia de Nuestra Señora de Guadalupe" },
-    coordinates: { lat: 8.9771, lng: -79.5228 },
+    coords: [-79.5228, 8.9771],
     description: {
       de: "Diese Kirche ist ein bedeutendes religiöses Gebäude in Panama-Stadt. Sie zeichnet sich durch ihre architektonische Gestaltung aus.",
       hu: "Ez a templom egy fontos vallási épület Panamavárosban. Jellegzetes építészeti kialakítása teszi különlegessé.",
@@ -959,7 +959,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-biblioteca-pedro-grimaldo-landmarks-v2",
     type: "landmark",
     name: { de: "Biblioteca Pedro Grimaldo", hu: "Biblioteca Pedro Grimaldo", ro: "Biblioteca Pedro Grimaldo", en: "Biblioteca Pedro Grimaldo" },
-    coordinates: { lat: 8.9642, lng: -79.5415 },
+    coords: [-79.5415, 8.9642],
     description: {
       de: "Die Pedro-Grimaldo-Bibliothek ist eine öffentliche Einrichtung in Panama-Stadt. Sie dient als wichtiges Bildungszentrum für die Gemeinschaft.",
       hu: "A Pedro Grimaldo Könyvtár egy nyilvános intézmény Panamavárosban. Fontos oktatási központként szolgál a közösség számára.",
@@ -978,7 +978,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-teatro-andes-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Andes", hu: "Teatro Andes", ro: "Teatro Andes", en: "Teatro Andes" },
-    coordinates: { lat: 8.9712, lng: -79.5284 },
+    coords: [-79.5284, 8.9712],
     description: {
       de: "Das Teatro Andes ist ein kultureller Veranstaltungsort in Panama-Stadt. Es wird für Theateraufführungen und öffentliche Events genutzt.",
       hu: "A Teatro Andes egy kulturális rendezvényhelyszín Panamavárosban. Színházi előadásokra és nyilvános eseményekre használják.",
@@ -997,7 +997,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     id: "panama-palacio-municipal-colon-landmarks-v2",
     type: "palace",
     name: { de: "Palacio Municipal de Colón", hu: "Colóni Városháza", ro: "Primăria din Colón", en: "Colón Municipal Palace" },
-    coordinates: { lat: 9.3562, lng: -79.9025 },
+    coords: [-79.9025, 9.3562],
     description: {
       de: "Das Gebäude der Stadtverwaltung von Colón ist ein historisches Bauwerk in der Stadt Colón. Es ist ein Beispiel für die Architektur der Region.",
       hu: "A Colóni Városháza épülete egy történelmi építmény Colón városában. A régió építészetének egyik példája.",

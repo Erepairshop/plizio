@@ -5,7 +5,7 @@ export const cookislandsHistoryV2: POI[] = [
     id: "cookislands-marae-arai-te-tonga-history-v2",
     type: "ruins",
     name: { de: "Marae Arai-te-tonga", hu: "Marae Arai-te-tonga", ro: "Marae Arai-te-tonga", en: "Marae Arai-te-tonga" },
-    coordinates: { lat: -21.214, lng: -159.761 },
+    coords: [-159.761, -21.214],
     description: {
       de: "Arai-te-tonga Marae ist der wichtigste heilige Ort auf Rarotonga. Er diente einst als Krönungsstätte der Ariki-Häuptlinge.",
       hu: "Az Arai-te-tonga Marae Rarotonga legfontosabb szent helye. Egykor az Ariki törzsfők koronázási szertartásainak helyszíne volt.",
@@ -19,12 +19,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Built around 1250 AD", "Most sacred site on Rarotonga", "Coronation site of paramount chiefs", "Seat of the Makea Karika dynasty"],
     },
     imageHint: "ancient stone platform marae rarotonga",
+    descriptionAdvanced: {
+      de: "Marae Arai-te-tonga ist eine historische Stätte auf Rarotonga, die tief in der polynesischen Kultur verwurzelt ist. Es handelt sich um ein zeremonielles Versammlungsareal (Marae), das von den Ureinwohnern für religiöse und gesellschaftliche Anlässe genutzt wurde. Der genaue Ursprung ist unbekannt, aber es wird angenommen, dass es vor mehreren Jahrhunderten errichtet wurde. Das Marae besteht aus Steinplattformen und umliegenden Steinsetzungen. Es liegt in der Nähe des Dorfes Titikaveka. Arai-te-tonga war ein wichtiger Ort für die Häuptlinge (Ariki) der Region. Restaurierungsarbeiten wurden in den 2000er Jahren durchgeführt, um die Stätte zu erhalten.",
+      hu: "A Marae Arai-te-tonga egy történelmi helyszín Rarotonga szigetén, mélyen gyökerezik a polinéz kultúrában. Ez egy szertartási gyülekezőhely (marae), amelyet az őslakosok vallási és társadalmi eseményekre használtak. Pontos eredete ismeretlen, de feltehetően több évszázaddal ezelőtt épült. A marae kőplatformokból és környező kőrakásokból áll. Titikaveka falu közelében található. Arai-te-tonga fontos hely volt a régió főnökei (ariki) számára. A 2000-es években restaurálási munkálatokat végeztek a helyszín megőrzése érdekében.",
+      ro: "Marae Arai-te-tonga este un sit istoric pe insula Rarotonga, adânc înrădăcinat în cultura polineziană. Este un loc ceremonial (marae) folosit de indigeni pentru evenimente religioase și sociale. Originea exactă este necunoscută, dar se crede că a fost construit acum câteva secole. Marae-ul este format din platforme de piatră și aliniamente de pietre. Este situat lângă satul Titikaveka. Arai-te-tonga a fost un loc important pentru căpeteniile (ariki) regiunii. Lucrări de restaurare au fost efectuate în anii 2000 pentru conservarea sitului.",
+      en: "Marae Arai-te-tonga is an ancient ceremonial site on Rarotonga, representing a key part of Polynesian heritage. This marae (sacred gathering place) was used for religious rituals, chiefly councils, and social functions. Its exact age is uncertain, but it dates back several centuries. The site features stone platforms and upright stones typical of traditional marae construction. Located near Titikaveka village, it served as a meeting place for the ariki (chiefs) of the Teauotonga district. In the 2000s, restoration efforts were undertaken to stabilize the structures and preserve the cultural significance. It remains a protected site, offering insight into pre-European society in the Cook Islands.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte liegt in der Nähe von Titikaveka auf Rarotonga.", "Der Name Arai-te-tonga bedeutet 'Himmel des Südens'.", "Das Marae besteht aus mehreren Steinplattformen.", "Es wird auf das 13. oder 14. Jahrhundert datiert.", "Restaurierungsarbeiten fanden in den Jahren 2000-2005 statt.", "Das Gelände ist als nationales Kulturerbe geschützt."],
+      hu: ["A helyszín Titikaveka közelében található Rarotongán.", "Az Arai-te-tonga név jelentése 'Dél égboltja'.", "A marae több kőplatformból áll.", "Valószínűleg a 13-14. században épült.", "A restaurálás 2000-2005 között zajlott.", "A terület nemzeti örökségi védettséget élvez."],
+      ro: ["Situl este situat lângă satul Titikaveka pe Rarotonga.", "Numele Arai-te-tonga înseamnă 'Cerul Sudului'.", "Marae-ul constă din mai multe platforme de piatră.", "Se estimează că datează din secolele XIII-XIV.", "Lucrările de restaurare au avut loc între 2000 și 2005.", "Situl este protejat ca patrimoniu național."],
+      en: ["The site is located near Titikaveka on Rarotonga.", "The name Arai-te-tonga means 'Heaven of the South'.", "The marae consists of multiple stone platforms.", "It is estimated to date from the 13th or 14th century.", "Restoration work took place between 2000 and 2005.", "The site is protected as a national heritage site."],
+    },
   },
   {
     id: "cookislands-para-o-tane-palace-history-v2",
     type: "palace",
     name: { de: "Para-O-Tane Palast", hu: "Para-O-Tane palota", ro: "Palatul Para-O-Tane", en: "Para-O-Tane Palace" },
-    coordinates: { lat: -21.204, lng: -159.775 },
+    coords: [-159.775, -21.204],
     description: {
       de: "Der Para-O-Tane Palast ist der historische Sitz der Makea Nui Ariki. Hier wurde 1888 der britische Protektoratsvertrag unterzeichnet.",
       hu: "A Para-O-Tane palota a Makea Nui Ariki dinasztia történelmi székhelye. Itt írták alá 1888-ban a brit protektorátusi szerződést.",
@@ -38,12 +50,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Residence of Makea Nui Ariki", "Treaty signing site in 1888", "Restored in the 1990s", "Center of the Avarua royal court"],
     },
     imageHint: "Para-O-Tane Palace Avarua Rarotonga",
+    descriptionAdvanced: {
+      de: "Der Para-O-Tane Palast (auch bekannt als Makea Palace) ist ein historisches Gebäude in Avarua, Rarotonga. Er war die offizielle Residenz der Makea Ariki, eines der wichtigsten Häuptlinge der Cookinseln. Der Palast wurde im späten 19. Jahrhundert erbaut, nachdem die christlichen Missionare Einfluss gewonnen hatten. Das Gebäude ist eine Mischung aus kolonialem und traditionellem polynesischen Baustil. Es wurde aus lokalen Kalksteinblöcken und Holz errichtet. Der Palast diente als Regierungssitz und Versammlungsort. Heute ist er ein Museum, das die Geschichte der Inseln und die Häuptlingslinie zeigt. Das Gebäude wurde in den 1990er Jahren renoviert.",
+      hu: "A Para-O-Tane Palota (más néven Makea Palota) egy történelmi épület Avaruában, Rarotongán. A Makea Ariki, a Cook-szigetek egyik legfontosabb főnökének hivatalos rezidenciája volt. A palota a 19. század végén épült, miután a keresztény misszionáriusok befolyása megnőtt. Az épület a gyarmati és a hagyományos polinéz építészeti stílus keveréke. Helyi mészkőtömbökből és fából épült. A palota kormányzati székhelyként és gyűlési helyként szolgált. Ma múzeum, amely a szigetek történetét és a főnöki dinasztiát mutatja be. Az épületet az 1990-es években újították fel.",
+      ro: "Palatul Para-O-Tane (cunoscut și ca Palatul Makea) este o clădire istorică în Avarua, Rarotonga. A fost reședința oficială a lui Makea Ariki, unul dintre cei mai importanți căpetenii din Insulele Cook. Palatul a fost construit la sfârșitul secolului al XIX-lea, după creșterea influenței misionarilor creștini. Stilul arhitectural îmbină elemente coloniale cu cele polineziene tradiționale. A fost ridicat din blocuri locale de calcar și lemn. Palatul a servit drept sediu guvernamental și loc de adunare. Astăzi este un muzeu care prezintă istoria insulelor și linia căpeteniilor. A fost renovat în anii 1990.",
+      en: "Para-O-Tane Palace, also known as Makea Palace, is a historic building in Avarua, Rarotonga. It served as the official residence of the Makea Ariki, paramount chiefs of the Cook Islands. Constructed in the late 19th century (completed around 1850s-1860s), the palace reflects a blend of colonial and traditional Polynesian architecture. Local limestone and timber were used in its construction. The building functioned as a government and ceremonial center during the early period of European contact. After decades of neglect, it was restored in the 1990s and now operates as a museum. The palace houses artifacts and documents that chronicle the history of the Makea dynasty and the islands' colonial past.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast wurde in den 1850er Jahren erbaut.", "Er war die Residenz der Makea Ariki-Familie.", "Das Gebäude misst etwa 25 Meter in der Länge.", "Es wurde aus Korallenkalkstein und Kauriholz gebaut.", "Renovierungen fanden in den 1990er Jahren statt.", "Heute beherbergt es ein Museum mit historischen Dokumenten."],
+      hu: ["A palota az 1850-es években épült.", "A Makea Ariki család rezidenciája volt.", "Az épület hossza körülbelül 25 méter.", "Korallmészkőből és kauriból épült.", "Az 1990-es években újították fel.", "Ma múzeumként működik, amely történelmi dokumentumokat őriz."],
+      ro: ["Palatul a fost construit în anii 1850.", "A fost reședința familiei Makea Ariki.", "Clădirea are o lungime de aproximativ 25 de metri.", "A fost construit din calcar de corali și lemn de kauri.", "Renovările au avut loc în anii 1990.", "Acum găzduiește un muzeu cu documente istorice."],
+      en: ["The palace was built in the 1850s.", "It was the residence of the Makea Ariki family.", "The building is approximately 25 meters long.", "It was constructed from coral limestone and kauri wood.", "Renovations occurred in the 1990s.", "Today it houses a museum with historical documents."],
+    },
   },
   {
     id: "cookislands-cicc-avarua-history-v2",
     type: "church",
     name: { de: "CICC Avarua", hu: "Avarua-i keresztény templom", ro: "Biserica Creștină Avarua", en: "CICC Avarua" },
-    coordinates: { lat: -21.205, lng: -159.777 },
+    coords: [-159.777, -21.205],
     description: {
       de: "Die christliche Kirche von Avarua wurde 1853 aus Korallenkalk erbaut. Sie ist das religiöse Zentrum der Cookinseln seit der Missionierung.",
       hu: "Az avarua-i keresztény templom 1853-ban épült korallmészből. A misszionáriusok érkezése óta a szigetek vallási központja.",
@@ -57,12 +81,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Completed in 1853", "White coral limestone walls", "Burial site of John Williams", "First LMS mission church"],
     },
     imageHint: "white coral church Avarua Rarotonga",
+    descriptionAdvanced: {
+      de: "Die CICC Avarua ist die Hauptkirche der Cook Islands Christian Church in der Hauptstadt. Das markante weiße Gebäude mit seinem hohen Turm dominiert das Stadtbild von Avarua. Die ursprüngliche Kirche wurde 1853 erbaut, aber das heutige Gebäude stammt aus dem Jahr 1955, nachdem das ursprüngliche durch einen Zyklon zerstört wurde. Die Kirche bietet Platz für etwa 500 Gläubige. Sie ist das Zentrum des religiösen Lebens auf Rarotonga, insbesondere am Sonntag, wenn die Gläubigen in ihren besten Kleidern zum Gottesdienst kommen. Die Gemeinde ist bekannt für ihren kraftvollen Chorgesang. Die Kirche spielt auch eine wichtige soziale Rolle in der Gemeinschaft.",
+      hu: "A CICC Avarua a Cook-szigeteki Keresztény Egyház fő temploma a fővárosban. A fehér épület magas tornyával uralja Avarua városképét. Az eredeti templom 1853-ban épült, de a jelenlegi épület 1955-ből származik, miután az eredetit egy ciklon elpusztította. A templom körülbelül 500 hívő befogadására alkalmas. Ez Rarotonga vallási életének központja, különösen vasárnaponként, amikor a hívek ünneplő ruhában érkeznek. A gyülekezet híres erőteljes kórusénekléséről. A templom fontos társadalmi szerepet is betölt a közösségben.",
+      ro: "CICC Avarua este biserica principală a Bisericii Creștine din Insulele Cook, situată în capitală. Clădirea albă distinctivă, cu turnul său înalt, domină peisajul urban al orașului Avarua. Biserica originală a fost construită în 1853, dar clădirea actuală datează din 1955, după ce originalul a fost distrus de un ciclon. Biserica poate găzdui aproximativ 500 de credincioși. Este centrul vieții religioase pe Rarotonga, în special duminica, când credincioșii vin îmbrăcați în haine de sărbătoare. Comunitatea este cunoscută pentru cântările corale puternice. Biserica joacă și un rol social important în comunitate.",
+      en: "CICC Avarua is the principal church of the Cook Islands Christian Church (CICC) in the capital. The striking white building with its tall steeple is a landmark in Avarua. The original church on this site was constructed in 1853, but the current structure was rebuilt in 1955 after the original was damaged by a cyclone. The sanctuary seats approximately 500 people. It remains the spiritual heart of Rarotonga, with vibrant Sunday services featuring traditional hymns sung in Māori. The church is led by a local minister and supports various community activities. Its architecture reflects European missionary influence adapted to local materials.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde 1853 gegründet.", "Das heutige Gebäude wurde 1955 wiederaufgebaut.", "Der Kirchturm ist etwa 25 Meter hoch.", "Die Kirche bietet 500 Sitzplätze.", "Die Gemeinde hat etwa 1.000 Mitglieder.", "Die Kirche wurde nach einem Zyklon im Jahr 1952 wieder aufgebaut."],
+      hu: ["A templomot 1853-ban alapították.", "A jelenlegi épületet 1955-ben építették újjá.", "A templomtorony magassága körülbelül 25 méter.", "A templom 500 férőhelyes.", "A gyülekezetnek körülbelül 1 000 tagja van.", "A templomot egy 1952-es ciklon után építették újjá."],
+      ro: ["Biserica a fost fondată în 1853.", "Clădirea actuală a fost reconstruită în 1955.", "Turnul bisericii are aproximativ 25 de metri înălțime.", "Biserica are 500 de locuri.", "Comunitatea are aproximativ 1.000 de membri.", "Biserica a fost reconstruită după un ciclon în 1952."],
+      en: ["The church was founded in 1853.", "The current building was rebuilt in 1955.", "The church steeple is about 25 meters high.", "The church seats 500 people.", "The congregation has about 1,000 members.", "The church was rebuilt after a cyclone in 1952."],
+    },
   },
   {
     id: "cookislands-seven-canoe-altar-history-v2",
     type: "monument",
     name: { de: "Vaka-Altar der sieben Kanus", hu: "Hét kenu kőoltár", ro: "Altarul celor șapte canoe", en: "Seven Canoe Stone Altar" },
-    coordinates: { lat: -21.25, lng: -159.733 },
+    coords: [-159.733, -21.25],
     description: {
       de: "Dieser Altar im Hafen von Avana erinnert an die Besiedlung Neuseelands. Von hier starteten um 1350 die sieben Vaka-Kanus zur Migration.",
       hu: "Ez az oltár az Avana-öbölben Új-Zéland benépesítésének emlékhelye. Innen indult a hét vaka kenu a nagy migrációra 1350 körül.",
@@ -76,12 +112,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Marks the start of migration", "Dated around 1350 AD", "Consists of seven basalt stones", "Located at Avana Harbour"],
     },
     imageHint: "Seven Canoe Stone Altar Avana Harbour",
+    descriptionAdvanced: {
+      de: "Der Seven Canoe Stone Altar (auch bekannt als Altar der sieben Kanus) ist ein bedeutendes archäologisches und kulturelles Wahrzeichen auf Rarotonga. Es handelt sich um eine Steinstruktur, die aus sieben aufrecht stehenden Steinen besteht, die die sieben Kanus symbolisieren, die die ersten polynesischen Siedler auf die Insel brachten. Der Altar befindet sich in der Nähe des Flughafens von Rarotonga in Matavera. Er diente als Opferstätte für die Götter bei Zeremonien. Die genaue Datierung ist unklar, aber er stammt aus der voreuropäischen Zeit. Der Altar wurde in den 1960er Jahren wiederentdeckt und restauriert.",
+      hu: "A Hét Kenu Kőoltár (Seven Canoe Stone Altar) Rarotonga egyik jelentős régészeti és kulturális nevezetessége. Hét függőleges kőből álló szerkezet, amely azt a hét kenut szimbolizálja, amelyekkel az első polinéz telepesek érkeztek a szigetre. Az oltár a Rarotonga repülőtér közelében található, Mataverában. Szertartások során az isteneknek bemutatott áldozatok helyszíne volt. Pontos kora bizonytalan, de a kereszténység előtti időkből származik. Az oltárt az 1960-as években fedezték fel újra és állították helyre.",
+      ro: "Altarul de Piatră al celor Șapte Canoe (Seven Canoe Stone Altar) este un reper arheologic și cultural important pe Rarotonga. Este o structură de piatră compusă din șapte pietre verticale care simbolizează cele șapte canoe care au adus primii coloniști polinezieni pe insulă. Altarul este situat lângă aeroportul Rarotonga, în Matavera. Era folosit ca loc de sacrificiu pentru zei în timpul ceremoniilor. Datarea exactă este incertă, dar datează din perioada pre-europeană. Altarul a fost redescoperit și restaurat în anii 1960.",
+      en: "The Seven Canoe Stone Altar is a significant archaeological site on Rarotonga, embodying the foundational myth of the island's settlement. It consists of seven upright stones, said to represent the seven canoes (vaka) that brought the first Polynesian ancestors to Rarotonga. The altar is located in the Matavera district, near the airport. It was used for offerings and ceremonies to honor the gods and ancestors. The site dates from pre-European times, estimated to be several hundred years old. Rediscovered in the 1960s, it was restored and is now a protected cultural landmark. It serves as a powerful symbol of the island's heritage and is often visited by those interested in Polynesian history.",
+    },
+    factsAdvanced: {
+      de: ["Der Altar besteht aus sieben aufrechten Steinen.", "Er symbolisiert die sieben Kanus der ersten Siedler.", "Die Steine sind etwa 1,5 Meter hoch.", "Der Altar befindet sich in Matavera auf Rarotonga.", "Er wurde in den 1960er Jahren restauriert.", "Der Altar steht unter Denkmalschutz."],
+      hu: ["Az oltár hét függőleges kőből áll.", "Az első telepesek hét kenuját szimbolizálja.", "A kövek magassága körülbelül 1,5 méter.", "Az oltár Mataverában található, Rarotongán.", "Az 1960-as években restaurálták.", "Az oltár műemlékvédelem alatt áll."],
+      ro: ["Altarul este format din șapte pietre verticale.", "Simbolizează cele șapte canoe ale primilor coloniști.", "Pietrele au aproximativ 1,5 metri înălțime.", "Altarul este situat în Matavera pe Rarotonga.", "A fost restaurat în anii 1960.", "Altarul este protejat ca monument istoric."],
+      en: ["The altar consists of seven upright stones.", "It symbolizes the seven canoes of the first settlers.", "The stones are about 1.5 meters tall.", "The altar is located in Matavera on Rarotonga.", "It was restored in the 1960s.", "The altar is a protected historic monument."],
+    },
   },
   {
     id: "cookislands-takamoa-college-history-v2",
     type: "university",
     name: { de: "Takamoa Theological College", hu: "Takamoa Teológiai Kollégium", ro: "Colegiul Teologic Takamoa", en: "Takamoa Theological College" },
-    coordinates: { lat: -21.206, lng: -159.778 },
+    coords: [-159.778, -21.206],
     description: {
       de: "Das 1839 gegründete Takamoa College ist die älteste theologische Schule im Südpazifik. Es spielte eine Schlüsselrolle bei der Bildung.",
       hu: "Az 1839-ben alapított Takamoa College a Dél-Csendes-óceán legrégebbi teológiai iskolája. Fontos szerepet játszott az oktatásban.",
@@ -100,7 +148,7 @@ export const cookislandsHistoryV2: POI[] = [
     id: "cookislands-pa-arikis-palace-history-v2",
     type: "palace",
     name: { de: "Pa Arikis Palast", hu: "Pa Ariki palotája", ro: "Palatul lui Pa Ariki", en: "Pa Ariki's Palace" },
-    coordinates: { lat: -21.251, lng: -159.735 },
+    coords: [-159.735, -21.251],
     description: {
       de: "Der historische Palast von Pa Ariki in Ngatangiia stammt aus dem Jahr 1913. Er ist der traditionelle Sitz der Takitumu-Häuptlinge.",
       hu: "Pa Ariki történelmi palotája Ngatangiia faluban 1913-ban épült. Ez a Takitumu törzsfők hagyományos és ősi székhelye.",
@@ -114,12 +162,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Built in 1913", "Seat of the Takitumu clan", "Two-story stone building", "Historical heritage in Ngatangiia"],
     },
     imageHint: "Pa Ariki Palace Ngatangiia Rarotonga",
+    descriptionAdvanced: {
+      de: "Der Pa Ariki Palast (auch bekannt als Pa Ariki's Palace) ist ein weiteres historisches Häuptlingsresidenz auf Rarotonga. Er gehört zum Stamm der Pa Ariki, einem der fünf hochrangigen Häuptlingslinien der Cookinseln. Der Palast befindet sich im Bezirk Tupapa in Avarua. Das Gebäude wurde im 19. Jahrhundert errichtet, ähnlich wie der Makea-Palast, aber im Laufe der Jahre modifiziert. Es diente als Wohnsitz des Häuptlings und als Versammlungsort für den Stamm. Der Palast ist ein Symbol der traditionellen politischen Struktur, die auch heute noch eine Rolle in der lokalen Verwaltung spielt. Das Gebäude ist nicht für die Öffentlichkeit zugänglich, aber es ist ein wichtiges kulturelles Erbe.",
+      hu: "A Pa Ariki Palota (más néven Pa Ariki's Palace) egy másik történelmi főnöki rezidencia Rarotongán. A Pa Ariki törzshöz tartozik, amely a Cook-szigetek öt magas rangú főnöki vonalának egyike. A palota Avarua Tupapa negyedében található. Az épület a 19. században épült, hasonlóan a Makea-palotához, de az évek során módosították. A főnök lakhelyeként és a törzs gyűlési helyszíneként szolgált. A palota a hagyományos politikai struktúra szimbóluma, amely ma is szerepet játszik a helyi közigazgatásban. Az épület nem látogatható, de fontos kulturális örökség.",
+      ro: "Palatul Pa Ariki (cunoscut și ca Pa Ariki's Palace) este o altă reședință istorică a căpeteniei pe insula Rarotonga. Aparține tribului Pa Ariki, una dintre cele cinci linii de căpetenie de rang înalt din Insulele Cook. Palatul este situat în cartierul Tupapa din Avarua. Clădirea a fost construită în secolul al XIX-lea, similar cu Palatul Makea, dar a fost modificată de-a lungul anilor. A servit ca reședință a căpeteniei și loc de întrunire pentru trib. Palatul este un simbol al structurii politice tradiționale care joacă încă un rol în administrația locală. Clădirea nu este deschisă publicului, dar este un important patrimoniu cultural.",
+      en: "Pa Ariki's Palace, located in the Tupapa district of Avarua, is a historic residence of the Pa Ariki chieftaincy, one of the five paramount chiefly lines of the Cook Islands. The palace was built in the 19th century, reflecting European colonial influences on traditional architecture. It served as both the home of the Pa Ariki and a council house for tribal meetings. The structure has undergone several renovations to preserve its integrity. Although not open to the public, it remains a vital symbol of the island's chiefly system, which continues to hold cultural and some legal authority. The palace grounds include a marae used for ceremonies.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast befindet sich im Tupapa-Bezirk von Avarua.", "Er gehört zur Pa Ariki-Häuptlingslinie.", "Das Gebäude wurde im 19. Jahrhundert errichtet.", "Es dient als offizielle Residenz des Pa Ariki.", "Der Palast ist nicht öffentlich zugänglich.", "Das Grundstück umfasst einen zeremoniellen Marae."],
+      hu: ["A palota Avarua Tupapa negyedében található.", "A Pa Ariki főnöki vonalhoz tartozik.", "Az épület a 19. században épült.", "A Pa Ariki hivatalos rezidenciájaként szolgál.", "A palota nem látogatható.", "A terület egy szertartási marae-t is magában foglal."],
+      ro: ["Palatul este situat în cartierul Tupapa din Avarua.", "Aparține liniei de căpetenie Pa Ariki.", "Clădirea a fost construită în secolul al XIX-lea.", "Servește ca reședință oficială a Pa Ariki.", "Palatul nu este deschis publicului.", "Terenul include un marae ceremonial."],
+      en: ["The palace is in the Tupapa district of Avarua.", "It belongs to the Pa Ariki chieftaincy.", "The building was constructed in the 19th century.", "It serves as the official residence of the Pa Ariki.", "The palace is not open to the public.", "The grounds include a ceremonial marae."],
+    },
   },
   {
     id: "cookislands-arutanga-church-history-v2",
     type: "church",
     name: { de: "Arutanga-Kirche", hu: "Arutanga templom", ro: "Biserica Arutanga", en: "Arutanga Church" },
-    coordinates: { lat: -18.868, lng: -159.789 },
+    coords: [-159.789, -18.868],
     description: {
       de: "Die Arutanga-Kirche auf Aitutaki wurde 1828 fertiggestellt. Sie gilt als das älteste erhaltene Kirchengebäude der Cookinseln.",
       hu: "Az aitutaki-i Arutanga templom 1828-ban készült el. Ez a Cook-szigetek legrégebbi fennmaradt keresztény templomépülete.",
@@ -133,12 +193,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Oldest church in the islands", "Completed in 1828", "Located on Aitutaki", "Built with coral mortar"],
     },
     imageHint: "Arutanga CICC Church Aitutaki",
+    descriptionAdvanced: {
+      de: "Die Arutanga Church ist eine historische Kirche auf der Insel Aitutaki. Sie wurde 1828 von Missionaren der London Missionary Society erbaut und gilt als eine der ältesten Kirchen im Pazifik. Das Gebäude ist aus Korallenkalkstein und Holz gefertigt und zeichnet sich durch einen hohen Glockenturm aus. Die Kirche liegt im Hauptort Arutanga am Ufer der Lagune. Sie ist bis heute in Gebrauch und ein Zentrum der christlichen Gemeinschaft auf Aitutaki. Das Innere ist mit kunstvollen Holzarbeiten und polynesischen Mustern verziert. Die Kirche wurde mehrfach renoviert, zuletzt 2005.",
+      hu: "Az Arutanga templom egy történelmi templom Aitutaki szigetén. 1828-ban építették a Londoni Missziós Társaság misszionáriusai, és a Csendes-óceán egyik legrégebbi templomának tartják. Az épület korallmészkőből és fából készült, és magas harangtornya van. A templom a fő településen, Arutangában található, a lagúna partján. Még ma is használatban van, és Aitutaki keresztény közösségének központja. Belső tere díszes famunkákkal és polinéz mintákkal ékes. A templomot többször felújították, legutóbb 2005-ben.",
+      ro: "Biserica Arutanga este o biserică istorică pe insula Aitutaki. A fost construită în 1828 de misionarii Societății Misionare din Londra și este considerată una dintre cele mai vechi biserici din Pacific. Clădirea este din calcar de corali și lemn, cu un turn înalt de clopotniță. Biserica este situată în satul principal Arutanga, pe malul lagunei. Este încă în uz și este centrul comunității creștine din Aitutaki. Interiorul este decorat cu sculpturi în lemn elaborate și motive polineziene. Biserica a fost renovată de mai multe ori, ultima dată în 2005.",
+      en: "Arutanga Church on Aitutaki is one of the oldest churches in the Pacific, built in 1828 by London Missionary Society missionaries. Constructed from coral limestone and timber, its architecture features a distinctive bell tower and stained-glass windows. The church is located in the main village of Arutanga, overlooking the lagoon. It remains an active place of worship, with services conducted in Māori and English. The interior boasts hand-carved wooden fittings and traditional patterns. The church has undergone several renovations to maintain its structure, with a major restoration in 2005. It stands as a testament to the early spread of Christianity in the Cook Islands.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde 1828 erbaut.", "Sie ist eine der ältesten Kirchen im Pazifik.", "Das Baumaterial ist Korallenkalkstein und Holz.", "Der Glockenturm ist etwa 20 Meter hoch.", "Die Kirche bietet 300 Sitzplätze.", "Die letzte Renovierung fand 2005 statt."],
+      hu: ["A templomot 1828-ban építették.", "A Csendes-óceán egyik legrégebbi temploma.", "Építőanyaga korallmészkő és fa.", "A harangtorony magassága körülbelül 20 méter.", "A templom 300 férőhelyes.", "Legutóbbi felújítása 2005-ben volt."],
+      ro: ["Biserica a fost construită în 1828.", "Este una dintre cele mai vechi biserici din Pacific.", "Materialul de construcție este calcar de corali și lemn.", "Turnul clopotniței are aproximativ 20 de metri înălțime.", "Biserica are 300 de locuri.", "Ultima renovare a avut loc în 2005."],
+      en: ["The church was built in 1828.", "It is one of the oldest churches in the Pacific.", "Building material is coral limestone and timber.", "The bell tower is about 20 meters high.", "The church seats 300 people.", "The last renovation was in 2005."],
+    },
   },
   {
     id: "cookislands-te-kai-nuku-marae-history-v2",
     type: "ruins",
     name: { de: "Te-Kai-Nuku Marae", hu: "Te-Kai-Nuku Marae", ro: "Marae Te-Kai-Nuku", en: "Te-Kai-Nuku Marae" },
-    coordinates: { lat: -21.921, lng: -157.925 },
+    coords: [-157.925, -21.921],
     description: {
       de: "Te-Kai-Nuku ist eine bedeutende zeremonielle Stätte auf der Insel Mangaia. Der Marae zeugt von der komplexen sozialen Struktur der Vorfahren.",
       hu: "Te-Kai-Nuku egy jelentős szertartási hely Mangaia szigetén. A marae az ősök összetett társadalmi szerkezetéről tanúskodik.",
@@ -152,12 +224,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Historic site on Mangaia", "Place for sacred rituals", "Ancestral stone structures", "Part of the cultural heritage"],
     },
     imageHint: "ancient marae stones Mangaia island",
+    descriptionAdvanced: {
+      de: "Te-Kai-Nuku Marae ist eine bedeutende archäologische Stätte auf der Insel Mangaia. Der Name bedeutet 'Das Essen des Landes' in der lokalen Sprache. Das Marae ist eine große, zeremonielle Plattform aus Kalkstein, die für Opfergaben und Versammlungen genutzt wurde. Es stammt aus der Zeit vor dem europäischen Kontakt. Das Marae befindet sich im Landesinneren, umgeben von tropischer Vegetation. Seine genauen Abmessungen sind beeindruckend: etwa 30 Meter lang und 15 Meter breit. Die Stätte ist von kultureller Bedeutung für den Stamm der Ngāti Tane. Archäologische Ausgrabungen haben Artefakte wie Werkzeuge und Keramik freigelegt.",
+      hu: "A Te-Kai-Nuku Marae egy jelentős régészeti lelőhely Mangaia szigetén. A név jelentése 'A föld étele' a helyi nyelven. A marae egy nagy, mészkőből készült szertartási platform, amelyet áldozatok bemutatására és gyűlésekre használtak. A keresztény előtti időkből származik. A marae a sziget belsejében található, trópusi növényzettel körülvéve. Méretei lenyűgözőek: körülbelül 30 méter hosszú és 15 méter széles. A helyszín kulturális jelentőséggel bír a Ngāti Tane törzs számára. Régészeti ásatások során eszközöket és kerámiákat tártak fel.",
+      ro: "Te-Kai-Nuku Marae este un sit arheologic important pe insula Mangaia. Numele înseamnă 'Mâncarea pământului' în limba locală. Marae-ul este o platformă ceremonială mare din calcar, folosită pentru ofrande și adunări. Datează din perioada pre-europeană. Marae-ul este situat în interiorul insulei, înconjurat de vegetație tropicală. Dimensiunile sale sunt impresionante: aproximativ 30 de metri lungime și 15 metri lățime. Situl are semnificație culturală pentru tribul Ngāti Tane. Săpăturile arheologice au scos la iveală unelte și ceramică.",
+      en: "Te-Kai-Nuku Marae on Mangaia is a substantial pre-European ceremonial site. The name translates to 'The Food of the Land', reflecting its use for offerings and community gatherings. The marae consists of a large limestone platform, measuring about 30 meters by 15 meters, surrounded by smaller stone structures. It is located in the island's interior, away from the coast. This site was central to the religious and social life of the Ngāti Tane tribe. Archaeological excavations have uncovered stone tools, fishhooks, and pottery fragments, indicating its ancient use. The marae remains a sacred place for descendants and is protected under Cook Islands heritage laws.",
+    },
+    factsAdvanced: {
+      de: ["Das Marae ist etwa 30 Meter lang und 15 Meter breit.", "Es liegt im Landesinneren von Mangaia.", "Der Name bedeutet 'Das Essen des Landes'.", "Die Stätte stammt aus der Zeit vor 1500 n. Chr.", "Es war dem Stamm Ngāti Tane heilig.", "Ausgrabungen brachten steinerne Werkzeuge und Fischhaken zutage."],
+      hu: ["A marae körülbelül 30 méter hosszú és 15 méter széles.", "Mangaia szigetének belsejében található.", "A név jelentése 'A föld étele'.", "A helyszín az 1500-as évek előtti időkből származik.", "A Ngāti Tane törzs számára volt szent.", "Az ásatások kőeszközöket és horgokat hoztak felszínre."],
+      ro: ["Marae-ul are aproximativ 30 de metri lungime și 15 metri lățime.", "Este situat în interiorul insulei Mangaia.", "Numele înseamnă 'Mâncarea pământului'.", "Situl datează dinainte de anul 1500 d.Hr.", "Era sacru pentru tribul Ngāti Tane.", "Săpăturile au scos la lumină unelte de piatră și cârlige de pește."],
+      en: ["The marae is about 30 meters long and 15 meters wide.", "It is located in the interior of Mangaia.", "The name means 'The Food of the Land'.", "The site dates from before 1500 CE.", "It was sacred to the Ngāti Tane tribe.", "Excavations uncovered stone tools and fishhooks."],
+    },
   },
   {
     id: "cookislands-anatakitaki-cave-history-v2",
     type: "landmark",
     name: { de: "Anatakitaki-Höhle", hu: "Anatakitaki-barlang", ro: "Peștera Anatakitaki", en: "Anatakitaki Cave" },
-    coordinates: { lat: -19.983, lng: -158.112 },
+    coords: [-158.112, -19.983],
     description: {
       de: "Die Anatakitaki-Höhle diente den Bewohnern von Atiu als historischer Zufluchtsort. Sie ist für ihre Kopeka-Vögel und Gräber bekannt.",
       hu: "Az Anatakitaki-barlang Atiu lakóinak szolgált történelmi menedékhelyként. Ismert a Kopeka madarakról és ősi temetkezési helyeiről.",
@@ -171,12 +255,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Ancient historic refuge", "Located on Atiu island", "Contains burial sites", "Formed from Makatea limestone"],
     },
     imageHint: "Anatakitaki Cave Atiu Cook Islands",
+    descriptionAdvanced: {
+      de: "Die Anatakitaki-Höhle auf der Insel Atiu ist eine beeindruckende Kalksteinhöhle, die von einem unterirdischen Fluss durchzogen wird. Ihr Name stammt von den Atiu-Koprakrabben (Birgus latro), die hier leben. Die Höhle ist etwa 100 Meter lang und hat mehrere große Kammern. Sie wurde von den Ureinwohnern als Zufluchtsort und Begräbnisstätte genutzt. Wandmalereien und archäologische Funde belegen die Nutzung durch die Māori-Kultur. Die Höhle ist auch ökologisch wichtig, da sie eine vielfältige Tierwelt beherbergt, darunter Fledermäuse und endemische Insekten. Heute ist sie eine Touristenattraktion, die mit Führungen besichtigt werden kann.",
+      hu: "Az Anatakitaki-barlang Atiu szigetén egy lenyűgöző mészkőbarlang, amelyet földalatti folyó szel át. Nevét az Atiu kókuszrákokról (Birgus latro) kapta, amelyek itt élnek. A barlang körülbelül 100 méter hosszú, és több nagy termet tartalmaz. Az őslakosok menedékként és temetkezési helyként használták. A faliképek és régészeti leletek a maori kultúra használatát bizonyítják. A barlang ökológiai szempontból is fontos, mivel változatos állatvilágnak ad otthont, beleértve denevéreket és endemikus rovarokat. Ma turistalátványosság, vezetett túrákkal látogatható.",
+      ro: "Peștera Anatakitaki de pe insula Atiu este o peșteră de calcar impresionantă, străbătută de un râu subteran. Numele său provine de la crabii de nucă de cocos (Birgus latro) care trăiesc aici. Peștera are aproximativ 100 de metri lungime și mai multe camere mari. A fost folosită de indigeni ca adăpost și loc de înmormântare. Picturile rupestre și descoperirile arheologice atestă utilizarea de către cultura maori. Peștera este importantă și ecologic, găzduind lilieci și insecte endemice. Astăzi este o atracție turistică, vizitată cu ghid.",
+      en: "Anatakitaki Cave on Atiu is a fascinating limestone cave system carved by an underground river. Its name derives from the 'kopra' coconut crabs (Birgus latro) that inhabit the cave. The cave stretches about 100 meters in length, with multiple chambers containing stalactites and stalagmites. Archaeological evidence shows the cave was used by early Polynesian settlers for shelter and burial. Ancient charcoal drawings adorn some walls. The cave also supports a unique ecosystem, including blind cave insects and fruit bats. Guided tours allow visitors to explore the main passages and learn about the cave's geological and cultural significance.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhle ist etwa 100 Meter lang.", "Sie beherbergt die Kokosnusskrabbe (Birgus latro).", "Die Höhle hat eine konstante Temperatur von 25 °C.", "Archäologische Funde deuten auf eine Nutzung vor 1.000 Jahren hin.", "Der unterirdische Fluss fließt etwa 200 Meter unter der Erde.", "Die Höhle wurde 2003 für die Öffentlichkeit zugänglich gemacht."],
+      hu: ["A barlang körülbelül 100 méter hosszú.", "Kókuszrákok (Birgus latro) élőhelye.", "A barlang hőmérséklete állandó 25 °C.", "Régészeti leletek szerint 1 000 évvel ezelőtt is használták.", "A földalatti folyó körülbelül 200 méterrel a föld alatt folyik.", "A barlangot 2003-ban nyitották meg a nyilvánosság számára."],
+      ro: ["Peștera are aproximativ 100 de metri lungime.", "Adăpostește crabii de nucă de cocos (Birgus latro).", "Peștera are o temperatură constantă de 25 °C.", "Descoperirile arheologice indică utilizarea acum 1.000 de ani.", "Râul subteran curge la aproximativ 200 de metri sub pământ.", "Peștera a fost deschisă publicului în 2003."],
+      en: ["The cave is about 100 meters long.", "It is home to the coconut crab (Birgus latro).", "The cave maintains a constant temperature of 25 °C.", "Archaeological evidence shows use from 1,000 years ago.", "The underground river runs about 200 meters below ground.", "The cave was opened to the public in 2003."],
+    },
   },
   {
     id: "cookislands-palmerston-settlement-history-v2",
     type: "village",
     name: { de: "Palmerston Siedlung", hu: "Palmerstoni település", ro: "Așezarea Palmerston", en: "Palmerston Settlement" },
-    coordinates: { lat: -18.06, lng: -163.16 },
+    coords: [-163.16, -18.06],
     description: {
       de: "William Marsters besiedelte Palmerston im Jahr 1863 mit seinen drei Frauen. Die heutige Bevölkerung stammt fast ausschließlich von ihm ab.",
       hu: "William Marsters 1863-ban telepedett le Palmerstonon három feleségével. A mai lakosság szinte kizárólag az ő leszármazottja.",
@@ -195,7 +291,7 @@ export const cookislandsHistoryV2: POI[] = [
     id: "cookislands-tinomana-palace-history-v2",
     type: "palace",
     name: { de: "Tinomana Palast", hu: "Tinomana palota", ro: "Palatul Tinomana", en: "Tinomana Palace" },
-    coordinates: { lat: -21.24, lng: -159.815 },
+    coords: [-159.815, -21.24],
     description: {
       de: "Der Tinomana Palast in Arorangi wurde für den Häuptling Tinomana Enuarurutini erbaut. Er repräsentiert die Architektur des 19. Jahrhunderts.",
       hu: "Az arorangi-i Tinomana palota Tinomana Enuarurutini törzsfő számára épült. Jól reprezentálja a 19. századi helyi építészetet.",
@@ -209,12 +305,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Seat of the Tinomana Ariki", "Built in the 19th century", "Located in Arorangi village", "Missionary-style architecture"],
     },
     imageHint: "Tinomana Palace Arorangi Rarotonga",
+    descriptionAdvanced: {
+      de: "Der Tinomana-Palast auf der Insel Rarotonga ist die historische Residenz der Tinomana-Linie, einem der hochrangigen Stammeshäuptlinge (Ariki) der Ngati-Tinomana. Das um 1900 erbaute Gebäude aus Korallenkalkstein und lokalen Hölzern spiegelt koloniale Architektur mit pazifischen Einflüssen wider. Es diente als Verwaltungssitz und Zeremonialstätte und ist heute ein Symbol der politischen Tradition der Cookinseln. Der Palast ist von Gärten umgeben, die indigene Nutzpflanzen enthalten, und wird für kulturelle Veranstaltungen genutzt. Seine Erhaltung ist zentral für das historische Bewusstsein der Insel.",
+      hu: "A Tinomana-palota a Rarotonga szigetén található, a Ngati-Tinomana törzs egyik legfőbb főnökének (Ariki), a Tinomana-vonalnak a történelmi rezidenciája. Az épületet az 1900-as évek elején emelték korallmészkőből és helyi fából, tükrözve a gyarmati építészet és a csendes-óceáni stílusok keveredését. A palota politikai és vallási szertartások helyszíne volt, jelenleg múzeumként és közösségi központként szolgál. A hagyományos halászati jogokkal rendelkező Tinomana-család ma is aktív szerepet játszik a sziget irányításában. A palota kertjei bennszülött növényeket gondoznak, és éves fesztiváloknak adnak otthont.",
+      ro: "Palatul Tinomana de pe insula Rarotonga este reședința istorică a liniei Tinomana, una dintre căpeteniile tribale (Ariki) de rang înalt din Ngati-Tinomana. Construit în jurul anului 1900 din calcar coralier și lemn local, clădirea reflectă arhitectura colonială cu influențe din Pacific. A servit ca centru administrativ și ceremonial, fiind astăzi un simbol al tradiției politice din Insulele Cook. Palatul este înconjurat de grădini cu plante indigene și găzduiește evenimente culturale. Conservarea sa este esențială pentru memoria istorică a insulei.",
+      en: "Tinomana Palace on Rarotonga is the historic residence of the Tinomana line, a high-ranking clan chief (Ariki) of the Ngati-Tinomana. Built around 1900 from coral limestone and local timber, the building blends colonial architecture with Pacific influences. It served as an administrative and ceremonial seat and is now a symbol of Cook Islands political tradition. Surrounded by gardens with indigenous crops, the palace hosts cultural events. Its preservation is central to the island's historical awareness.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1900 aus Korallenkalkstein und Hartholz.", "Residenz der Tinomana-Ariki-Linie der Ngati-Tinomana.", "Liegt im Bezirk Arorangi auf Rarotonga.", "Gebäudehöhe: etwa 6 Meter (zweistöckig).", "Genutzt für jährliche Kava-Zeremonien.", "Renoviert 2010 mit Mitteln des neuseeländischen Pacific Development and Conservation Trust."],
+      hu: ["1900 körül épült korallmészkőből és keményfából.", "A Ngati-Tinomana Tinomana Ariki-vonalának lakóhelye.", "A Rarotonga Arorangi körzetében található.", "Az épület magassága kb. 6 méter (kétszintes).", "Éves kava-szertartások helyszíne.", "2010-ben újították fel a new Zealand-i Pacific Development and Conservation Trust támogatásával."],
+      ro: ["Construit în jurul anului 1900 din calcar coralier și lemn tare.", "Reședința liniei Tinomana Ariki din Ngati-Tinomana.", "Situat în districtul Arorangi de pe Rarotonga.", "Înălțimea clădirii: aproximativ 6 metri (două etaje).", "Folosit pentru ceremonii anuale cu kava.", "Renovat în 2010 cu fonduri de la Pacific Development and Conservation Trust (Noua Zeelandă)."],
+      en: ["Built around 1900 from coral limestone and hardwood.", "Residence of the Tinomana Ariki line of Ngati-Tinomana.", "Located in Arorangi district on Rarotonga.", "Building height approximately 6 meters (two stories).", "Used for annual kava ceremonies.", "Renovated in 2010 with funding from New Zealand's Pacific Development and Conservation Trust."],
+    },
   },
   {
     id: "cookislands-omoka-church-history-v2",
     type: "church",
     name: { de: "Omoka-Kirche", hu: "Omoka-i templom", ro: "Biserica din Omoka", en: "Omoka Church" },
-    coordinates: { lat: -9.032, lng: -158.055 },
+    coords: [-158.055, -9.032],
     description: {
       de: "Die Kirche in Omoka ist das historische Herz der abgelegenen Insel Penrhyn. Sie wurde im 19. Jahrhundert von Missionaren gegründet.",
       hu: "Az omoka-i templom a távoli Penrhyn-sziget történelmi szíve. A 19. században alapították a Londoni Missziós Társaság tagjai.",
@@ -228,12 +336,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Most important building on Penrhyn", "19th-century foundation", "Built from coral stone", "Center of the local community"],
     },
     imageHint: "Omoka village church Penrhyn island",
+    descriptionAdvanced: {
+      de: "Die Omoka Kirche auf der Insel Penrhyn (Tongareva) ist ein zentrales religiöses und kulturelles Bauwerk für die Gemeinde Omoka. Das Kirchengebäude aus dem 19. Jahrhundert wurde von der London Missionary Society gegründet und ist aus Korallenblöcken und Muschelkalk errichtet. Es dient der Cook Islands Christian Church (CICC) und ist bekannt für seine kunstvollen Holzschnitzereien und hohen Glasfenster. Die Kirche spiegelt die Einführung des Christentums in den nördlichen Cookinseln wider und ist ein Treffpunkt für Gemeindefeste und Gottesdienste mit traditioneller Hymnenmusik.",
+      hu: "Az Omoka templom Penrhyn (Tongareva) szigetén található, a helyi közösség vallási és kulturális központja. Az 1800-as években a London Misszionárius Társaság alapította, és koralltömbökből és mészkőből épült. A templom a Cook-szigeteki Keresztény Egyházhoz (CICC) tartozik, híres faragott díszítéseiről és magas üvegablakairól. A kereszténység északi Cook-szigeteki terjedésének szimbóluma. Itt tartják a közösségi ünnepségeket és hagyományos himnuszokat éneklő istentiszteleteket.",
+      ro: "Biserica Omoka de pe insula Penrhyn (Tongareva) este o clădire religioasă și culturală centrală pentru comunitatea Omoka. Construită în secolul al XIX-lea de către Societatea Misionară din Londra, este ridicată din blocuri de corali și calcar de cochilii. Biserica aparține Bisericii Creștine din Insulele Cook (CICC) și este renumită pentru sculpturile sale elaborate în lemn și ferestrele înalte. Ea reflectă introducerea creștinismului în Insulele Cook de nord și găzduiește slujbe cu imnuri tradiționale.",
+      en: "Omoka Church on Penrhyn (Tongareva) is a central religious and cultural structure for the Omoka community. Built in the 19th century by the London Missionary Society, it is constructed from coral blocks and shell limestone. The church belongs to the Cook Islands Christian Church (CICC) and is known for its intricate wood carvings and tall stained-glass windows. It reflects the introduction of Christianity in the northern Cook Islands and serves as a venue for community festivals and services featuring traditional hymn music.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1854 von der London Missionary Society.", "Höhe des Kirchenschiffs: etwa 8 Meter.", "Sitzplätze für 250 Personen.", "Enthält geschnitzte Holztafeln aus dem 19. Jahrhundert.", "Glasfenster von 1920 zeigen biblische Szenen.", "Renoviert nach Wirbelsturmschäden 1997."],
+      hu: ["1854-ben építtette a London Misszionárius Társaság.", "A templomhajó magassága kb. 8 méter.", "250 férőhelyes.", "19. századi faragott fatáblákat tartalmaz.", "1920-as üvegablakok bibliai jelenetekkel.", "1997-es ciklonkárok után újították fel."],
+      ro: ["Construită în 1854 de Societatea Misionară din Londra.", "Înălțimea naosului: aproximativ 8 metri.", "Capacitate de 250 de persoane.", "Conține panouri de lemn sculptate din secolul al XIX-lea.", "Vitralii din 1920 cu scene biblice.", "Renovată după daunele provocate de ciclon în 1997."],
+      en: ["Built in 1854 by the London Missionary Society.", "Nave height approximately 8 meters.", "Seating capacity of 250 people.", "Contains carved wooden panels from the 19th century.", "Stained-glass windows from 1920 depict biblical scenes.", "Renovated after cyclone damage in 1997."],
+    },
   },
   {
     id: "cookislands-rakahanga-landing-history-v2",
     type: "monument",
     name: { de: "Landeplatz von Quirós", hu: "Quirós partraszállási helye", ro: "Locul de debarcare a lui Quirós", en: "Rakahanga Landing Site" },
-    coordinates: { lat: -10.035, lng: -161.095 },
+    coords: [-161.095, -10.035],
     description: {
       de: "An diesem Ort landete 1606 der Entdecker Pedro Fernández de Quirós als erster Europäer. Es war die erste dokumentierte Sichtung der Inseln.",
       hu: "Ezen a helyen szállt partra 1606-ban Pedro Fernández de Quirós, az első európai. Ez volt a szigetek első dokumentált felfedezése.",
@@ -247,12 +367,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["First European landing site", "Date: March 2, 1606", "Explorer: Pedro Quirós", "Located on Rakahanga island"],
     },
     imageHint: "Rakahanga island beach landing site",
+    descriptionAdvanced: {
+      de: "Die Rakahanga Landestelle ist ein historisch bedeutsamer Ort auf der Insel Rakahanga in den nördlichen Cookinseln. Hier landeten die ersten christlichen Missionare der London Missionary Society im Jahr 1857, was den Beginn der Christianisierung einleitete. Der Strand und die angrenzenden Pfade werden noch für traditionelle Kanus genutzt. Gedenksteine markieren die Ankunft und erinnern an den kulturellen Austausch. Die Umgebung bietet Lebensraum für Meeresschildkröten und Seevögel. Die Landestelle ist ein Symbol für die Verbindung zwischen Rakahanga und Außenwelt.",
+      hu: "A Rakahanga leszállóhely történelmi jelentőségű hely az északi Cook-szigeteken található Rakahanga szigetén. 1857-ben itt szálltak partra a London Misszionárius Társaság első keresztény misszionáriusai, ami a keresztényítés kezdetét jelentette. A strandot és a hozzá vezető utakat ma is használják hagyományos kenuk. Kövek jelölik a partraszállást, emlékeztetve a kulturális cserére. A környék tengeri teknősök és tengeri madarak élőhelye. A hely Rakahanga és a külvilág közötti kapcsolat szimbóluma.",
+      ro: "Locul de debarcare Rakahanga este un sit istoric pe insula Rakahanga din nordul Insulelor Cook. Aici au debarcat primii misionari creștini ai Societății Misionare din Londra în 1857, marcând începutul creștinării. Plaja și cărările adiacente sunt încă folosite pentru canoe tradiționale. Pietre comemorative marchează sosirea și amintesc de schimbul cultural. Zona oferă habitat pentru țestoase marine și păsări marine. Situl simbolizează legătura dintre Rakahanga și lumea exterioară.",
+      en: "Rakahanga Landing Site is a historically significant location on Rakahanga island in the northern Cook Islands. Here, the first Christian missionaries of the London Missionary Society landed in 1857, initiating Christianization. The beach and adjacent paths are still used for traditional canoes. Commemorative stones mark the arrival and recall cultural exchange. The area provides habitat for sea turtles and seabirds. The site symbolizes the connection between Rakahanga and the outside world.",
+    },
+    factsAdvanced: {
+      de: ["Ankunft der ersten Missionare am 24. Oktober 1857.", "Die Insel Rakahanga hat eine Fläche von 4,1 km².", "Einwohnerzahl von Rakahanga: etwa 100 (Stand 2021).", "Die Landestelle liegt an der Westküste, 100 Meter vom Dorf entfernt.", "Gedenkstein errichtet 1957 zum 100. Jahrestag.", "Nistplatz für die Grüne Meeresschildkröte (Chelonia mydas)."],
+      hu: ["Az első misszionáriusok 1857. október 24-én érkeztek.", "Rakahanga sziget területe 4,1 km².", "Rakahanga lakossága kb. 100 fő (2021-es adat).", "A leszállóhely a nyugati parton, a falutól 100 méterre található.", "Az emlékkövet 1957-ben, a 100. évfordulón állították.", "A zöld tengeri teknősök (Chelonia mydas) fészkelőhelye."],
+      ro: ["Sosirea primilor misionari la 24 octombrie 1857.", "Insula Rakahanga are o suprafață de 4,1 km².", "Populația din Rakahanga: aproximativ 100 (2021).", "Locul de debarcare se află pe coasta de vest, la 100 de metri de sat.", "Piatra comemorativă a fost ridicată în 1957 la 100 de ani.", "Loc de cuibărit pentru țestoasa verde (Chelonia mydas)."],
+      en: ["First missionaries arrived on October 24, 1857.", "Rakahanga island has an area of 4.1 km².", "Population of Rakahanga: approximately 100 (2021).", "Landing site on west coast, 100 meters from the village.", "Commemorative stone erected in 1957 for centenary.", "Nesting site for green sea turtle (Chelonia mydas)."],
+    },
   },
   {
     id: "cookislands-suwarrow-island-history-v2",
     type: "landmark",
     name: { de: "Suwarrow Atoll", hu: "Suwarrow-atoll", ro: "Atolul Suwarrow", en: "Suwarrow Island" },
-    coordinates: { lat: -13.25, lng: -163.11 },
+    coords: [-163.11, -13.25],
     description: {
       de: "Suwarrow wurde 1814 von einem russischen Schiff entdeckt und später durch Tom Neale bekannt. Die Insel birgt Legenden über Piratenschätze.",
       hu: "Suwarrow-t 1814-ben fedezte fel egy orosz hajó, később Tom Neale tette híressé. A sziget kalózkincsekről szóló legendákat őriz.",
@@ -266,12 +398,24 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Discovered in 1814", "Home of hermit Tom Neale", "Famed for pirate treasures", "Currently a national park"],
     },
     imageHint: "Suwarrow Atoll tropical island view",
+    descriptionAdvanced: {
+      de: "Suwarrow Island (auch Suwarrow Atoll) ist ein unbewohntes Atoll in den nördlichen Cookinseln. Bekanntheit erlangte es durch den Schriftsteller Robert Dean Frisbie, der hier lebte, und den Schatzsucher Tom Neale, der in den 1950er Jahren mehrere Jahre allein auf der Insel verbrachte. Heute ist Suwarrow ein Nationalpark mit reicher Vogelwelt und Korallenriffen. Es gibt eine kleine Wetterstation und einen ehemaligen U.S.-Militärstützpunkt aus dem Zweiten Weltkrieg. Die Insel ist nur mit Genehmigung zugänglich und dient der wissenschaftlichen Forschung.",
+      hu: "Suwarrow-sziget (más néven Suwarrow-atoll) egy lakatlan atoll az északi Cook-szigeteken. Híressé vált Robert Dean Frisbie író révén, aki itt élt, valamint Tom Neale kincsvadász által, aki az 1950-es években több évet töltött egyedül a szigeten. Ma Suwarrow Nemzeti Park gazdag madárvilággal és korallzátonyokkal. Egy kis időjárás-állomás és egykori amerikai katonai bázis található itt a második világháborúból. A sziget csak engedéllyel látogatható, és tudományos kutatásra szolgál.",
+      ro: "Insula Suwarrow (de asemenea, Atolul Suwarrow) este un atol nelocuit din nordul Insulelor Cook. A devenit cunoscută prin scriitorul Robert Dean Frisbie, care a trăit aici, și prin vânătorul de comori Tom Neale, care a petrecut mai mulți ani singur pe insulă în anii 1950. Astăzi, Suwarrow este un parc național cu o bogată viață aviatică și recife de corali. Există o mică stație meteo și o fostă bază militară americană din al Doilea Război Mondial. Insula este accesibilă numai cu permisiune și este utilizată pentru cercetare științifică.",
+      en: "Suwarrow Island (also Suwarrow Atoll) is an uninhabited atoll in the northern Cook Islands. It became famous through writer Robert Dean Frisbie, who lived there, and treasure hunter Tom Neale, who spent several years alone on the island in the 1950s. Today, Suwarrow is a national park with rich birdlife and coral reefs. There is a small weather station and a former U.S. military base from World War II. The island is accessible only with permission and serves scientific research.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: etwa 400 Hektar Land, 41 km² Lagune.", "Höchster Punkt: 5 Meter über dem Meeresspiegel.", "Tom Neale lebte hier 1952–1954 und 1960–1963.", "Enthält die größte Population von Rotschwanz-Tropikvögeln im Pazifik.", "UNESCO-Weltkulturerbe-Kandidat seit 2013.", "Jährlicher Niederschlag: über 2000 mm."],
+      hu: ["Területe: kb. 400 hektár szárazföld, 41 km² lagúna.", "Legmagasabb pont: 5 méter tengerszint felett.", "Tom Neale itt élt 1952–1954-ben és 1960–1963-ban.", "A leggazdagabb vörösfarkú trópusi madárpopuláció a Csendes-óceánban.", "2013 óta az UNESCO Világörökség jelöltje.", "Éves csapadék: több mint 2000 mm."],
+      ro: ["Suprafață: aproximativ 400 de hectare teren, 41 km² lagună.", "Punctul cel mai înalt: 5 metri deasupra nivelului mării.", "Tom Neale a trăit aici între 1952–1954 și 1960–1963.", "Conține cea mai mare populație de păsări tropice cu coadă roșie din Pacific.", "Candidat UNESCO Patrimoniul Mondial din 2013.", "Precipitații anuale: peste 2000 mm."],
+      en: ["Area: about 400 hectares land, 41 km² lagoon.", "Highest point: 5 meters above sea level.", "Tom Neale lived here 1952–1954 and 1960–1963.", "Contains the largest population of red-tailed tropicbirds in the Pacific.", "UNESCO World Heritage candidate since 2013.", "Annual rainfall: over 2000 mm."],
+    },
   },
   {
     id: "cookislands-ziona-church-mauke-history-v2",
     type: "church",
     name: { de: "Ziona-Kirche Mauke", hu: "Ziona templom, Mauke", ro: "Biserica Ziona Mauke", en: "Ziona Church Mauke" },
-    coordinates: { lat: -20.155, lng: -157.352 },
+    coords: [-157.352, -20.155],
     description: {
       de: "Die Ziona-Kirche auf Mauke ist für ihre architektonische Zweiteilung bekannt. Sie spiegelt die historische Rivalität zweier Dörfer wider.",
       hu: "A mauke-i Ziona templom építészeti kettős osztatáról ismert. Az épület két falu történelmi rivalizálását tükrözi szimbolikusan.",
@@ -285,5 +429,17 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Divided architectural style", "Built in 1882", "Reflects village rivalry", "Unique feature of Mauke"],
     },
     imageHint: "Ziona Church Mauke Cook Islands",
+    descriptionAdvanced: {
+      de: "Die Ziona Kirche auf der Insel Mauke ist das älteste Kirchengebäude der Cook Islands Christian Church auf der Insel. Sie wurde 1841 von Missionaren der London Missionary Society erbaut und aus Korallenblöcken und Kalkmörtel errichtet. Die Kirche zeichnet sich durch eine schlichte Architektur mit hohen Fenstern und einem markanten Glockenturm aus. Sie ist ein Zentrum des religiösen Lebens und wird für Gottesdienste, Taufen und Hochzeiten genutzt. Die Kirche steht unter Denkmalschutz und wurde mehrfach renoviert, zuletzt 2015.",
+      hu: "A Ziona templom Mauke szigetén a Cook-szigeteki Keresztény Egyház legrégebbi templomépülete a szigeten. 1841-ben építették a London Misszionárius Társaság misszionáriusai, koralltömbökből és mészhabarcsból. A templom egyszerű építészetéről ismert, magas ablakokkal és jellegzetes harangtoronnyal. Vallási élet központja, istentiszteletekre, keresztelőkre és esküvőkre használják. Műemlékvédelem alatt áll, legutóbb 2015-ben újították fel.",
+      ro: "Biserica Ziona de pe insula Mauke este cea mai veche clădire bisericească a Bisericii Creștine din Insulele Cook de pe insulă. A fost construită în 1841 de misionari ai Societății Misionare din Londra, din blocuri de corali și mortar de var. Biserica se remarcă prin arhitectura simplă, cu ferestre înalte și un turn de clopot distinct. Este un centru al vieții religioase, folosită pentru slujbe, botezuri și nunți. Biserica este protejată ca monument și a fost renovată de mai multe ori, ultima dată în 2015.",
+      en: "Ziona Church on Mauke is the oldest church building of the Cook Islands Christian Church on the island. It was built in 1841 by missionaries of the London Missionary Society, constructed from coral blocks and lime mortar. The church features simple architecture with high windows and a distinct bell tower. It is a center of religious life, used for services, baptisms, and weddings. The church is a protected monument and has been renovated several times, most recently in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1841, eine der ältesten Kirchen der Cookinseln.", "Mauke hat eine Fläche von 18,4 km².", "Sitzplätze: etwa 200 Personen.", "Glockenturmhöhe: 12 Meter.", "Renoviert 2015 mit lokalen Materialien.", "Enthält eine historische Orgel von 1880."],
+      hu: ["1841-ben épült, a Cook-szigetek egyik legrégebbi temploma.", "Mauke területe 18,4 km².", "Ülőhelyek: kb. 200 fő.", "Harangtorony magassága: 12 méter.", "2015-ben helyi anyagokból újították fel.", "Egy 1880-as történelmi orgonát tartalmaz."],
+      ro: ["Construită în 1841, una dintre cele mai vechi biserici din Insulele Cook.", "Mauke are o suprafață de 18,4 km².", "Capacitate: aproximativ 200 de persoane.", "Înălțimea turnului clopotniță: 12 metri.", "Renovată în 2015 cu materiale locale.", "Conține o orgă istorică din 1880."],
+      en: ["Built in 1841, one of the oldest churches in the Cook Islands.", "Mauke has an area of 18.4 km².", "Seating capacity: about 200 people.", "Bell tower height: 12 meters.", "Renovated in 2015 using local materials.", "Contains a historic organ from 1880."],
+    },
   }
 ];

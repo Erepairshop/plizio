@@ -907,7 +907,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-juba-central-prison-landmarks-v2",
     type: "landmark",
     name: { de: "Juba Zentralgefängnis", hu: "Juba központi börtön", ro: "Închisoarea centrală din Juba", en: "Juba Central Prison" },
-    coordinates: { lat: 4.8475, lng: 31.5721 },
+    coords: [31.5721, 4.8475],
     description: {
       de: "Das Juba Zentralgefängnis befindet sich in der Hauptstadt des Südsudan. Es dient als primäre Haftanstalt des Landes.",
       hu: "A Juba központi börtön Dél-Szudán fővárosában található. Ez az ország elsődleges büntetés-végrehajtási intézete.",
@@ -926,7 +926,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-kator-community-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kator Gemeindezentrum", hu: "Kator közösségi központ", ro: "Centrul comunitar Kator", en: "Kator Community Center" },
-    coordinates: { lat: 4.825, lng: 31.5833 },
+    coords: [31.5833, 4.825],
     description: {
       de: "Das Kator Gemeindezentrum fungiert als Treffpunkt im Stadtteil Kator von Juba. Es beherbergt lokale kulturelle Veranstaltungen.",
       hu: "A Kator közösségi központ találkozóhelyként szolgál Juba Kator negyedében. Helyi kulturális rendezvényeknek ad otthont.",
@@ -945,7 +945,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-all-saints-cathedral-complex-landmarks-v2",
     type: "cathedral",
     name: { de: "All Saints Kathedralenkomplex", hu: "Mindenszentek katedrális komplexum", ro: "Complexul Catedralei Tuturor Sfinților", en: "All Saints Cathedral Complex" },
-    coordinates: { lat: 4.851, lng: 31.579 },
+    coords: [31.579, 4.851],
     description: {
       de: "Dieser religiöse Komplex umfasst die anglikanische Kathedrale in Juba. Er dient als wichtiges Zentrum der Glaubensgemeinschaft.",
       hu: "Ez a vallási komplexum foglalja magában a jubai anglikán katedrálist. A hívők közösségének fontos központja.",
@@ -964,7 +964,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-national-archive-building-landmarks-v2",
     type: "museum",
     name: { de: "Nationalarchivgebäude", hu: "Nemzeti Levéltár épülete", ro: "Clădirea Arhivelor Naționale", en: "National Archive Building" },
-    coordinates: { lat: 4.853, lng: 31.58 },
+    coords: [31.58, 4.853],
     description: {
       de: "Das Nationalarchivgebäude bewahrt historische Dokumente des Südsudan auf. Es befindet sich im Regierungsviertel von Juba.",
       hu: "A Nemzeti Levéltár épülete Dél-Szudán történelmi dokumentumait őrzi. Juba kormányzati negyedében található.",
@@ -983,7 +983,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-juba-television-tower-landmarks-v2",
     type: "tower",
     name: { de: "Juba Fernsehturm", hu: "Juba tévétorony", ro: "Turnul de televiziune din Juba", en: "Juba Television Tower" },
-    coordinates: { lat: 4.856, lng: 31.582 },
+    coords: [31.582, 4.856],
     description: {
       de: "Der Juba Fernsehturm ist ein markantes Infrastrukturbauwerk in der Hauptstadt. Er überträgt landesweite Fernsehsignale.",
       hu: "A Juba tévétorony a főváros meghatározó infrastrukturális építménye. Országos televíziós jeleket sugároz.",
@@ -1002,7 +1002,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-freedom-square-monument-landmarks-v2",
     type: "monument",
     name: { de: "Freiheitsplatz-Denkmal", hu: "Szabadság tér emlékmű", ro: "Monumentul Pieței Libertății", en: "Freedom Square Monument" },
-    coordinates: { lat: 4.85, lng: 31.575 },
+    coords: [31.575, 4.85],
     description: {
       de: "Dieses Denkmal auf dem Freiheitsplatz erinnert an die Unabhängigkeit des Südsudan. Es ist ein zentraler Treffpunkt für Zeremonien.",
       hu: "A Szabadság téren álló emlékmű Dél-Szudán függetlenségére emlékeztet. Központi helyszín ünnepségek számára.",
@@ -1021,7 +1021,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-juba-city-council-building-landmarks-v2",
     type: "landmark",
     name: { de: "Stadtratsgebäude Juba", hu: "Juba városi tanács épülete", ro: "Clădirea Consiliului Local Juba", en: "Juba City Council Building" },
-    coordinates: { lat: 4.848, lng: 31.576 },
+    coords: [31.576, 4.848],
     description: {
       de: "Das Stadtratsgebäude in Juba beherbergt die lokale Verwaltung. Es ist ein wichtiges architektonisches Verwaltungszentrum.",
       hu: "A jubai városi tanács épülete ad otthont a helyi közigazgatásnak. Fontos építészeti igazgatási központ.",
@@ -1040,7 +1040,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-wau-railway-station-landmarks-v2",
     type: "landmark",
     name: { de: "Wau Bahnhof", hu: "Wau vasútállomás", ro: "Gara Wau", en: "Wau Railway Station" },
-    coordinates: { lat: 7.7, lng: 27.99 },
+    coords: [27.99, 7.7],
     description: {
       de: "Der Bahnhof von Wau ist der Endpunkt einer historischen Eisenbahnstrecke. Er hat große Bedeutung für den regionalen Handel.",
       hu: "A waui vasútállomás egy történelmi vasútvonal végpontja. Nagy jelentőséggel bír a regionális kereskedelem számára.",
@@ -1059,7 +1059,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-malakal-old-market-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Markttor Malakal", hu: "Régi piaci kapu Malakal", ro: "Vechea poartă a pieței Malakal", en: "Malakal Old Market Gate" },
-    coordinates: { lat: 9.55, lng: 31.66 },
+    coords: [31.66, 9.55],
     description: {
       de: "Das alte Markttor in Malakal ist ein Überbleibsel des historischen Handelsplatzes. Es markiert den einstigen wirtschaftlichen Kern.",
       hu: "A régi piaci kapu Malakalban a történelmi kereskedelmi helyszín maradványa. Az egykori gazdasági központot jelöli.",
@@ -1078,7 +1078,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-yambio-cultural-monument-landmarks-v2",
     type: "monument",
     name: { de: "Yambio Kulturdenkmal", hu: "Yambio kulturális emlékmű", ro: "Monumentul cultural Yambio", en: "Yambio Cultural Monument" },
-    coordinates: { lat: 4.57, lng: 28.39 },
+    coords: [28.39, 4.57],
     description: {
       de: "Dieses Denkmal in Yambio würdigt das Erbe der lokalen Gemeinschaften. Es ist ein Ort der kulturellen Besinnung.",
       hu: "Ez a yambiói emlékmű a helyi közösségek örökségét tiszteli. A kulturális elmélkedés helyszíne.",
@@ -1097,7 +1097,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-renk-administrative-complex-landmarks-v2",
     type: "landmark",
     name: { de: "Renk Verwaltungskomplex", hu: "Renk közigazgatási komplexum", ro: "Complexul administrativ Renk", en: "Renk Administrative Complex" },
-    coordinates: { lat: 11.83, lng: 32.79 },
+    coords: [32.79, 11.83],
     description: {
       de: "Der Verwaltungskomplex in Renk dient als regionales Regierungszentrum. Er koordiniert die lokale Infrastruktur.",
       hu: "A renk-i közigazgatási komplexum regionális kormányzati központként szolgál. Koordinálja a helyi infrastruktúrát.",
@@ -1116,7 +1116,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-aweil-cultural-center-landmarks-v2",
     type: "museum",
     name: { de: "Aweil Kulturzentrum", hu: "Aweil kulturális központ", ro: "Centrul cultural Aweil", en: "Aweil Cultural Center" },
-    coordinates: { lat: 8.77, lng: 27.4 },
+    coords: [27.4, 8.77],
     description: {
       de: "Das Aweil Kulturzentrum bietet Einblicke in die Traditionen der Dinka. Es ist ein Zentrum für Kunst und Bildung.",
       hu: "Az Aweil kulturális központ betekintést nyújt a dinka hagyományokba. A művészet és oktatás központja.",
@@ -1135,7 +1135,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-bor-regional-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Bor Regionalkrankenhaus", hu: "Bor regionális kórház", ro: "Spitalul regional Bor", en: "Bor Regional Hospital" },
-    coordinates: { lat: 6.22, lng: 31.56 },
+    coords: [31.56, 6.22],
     description: {
       de: "Das Bor Regionalkrankenhaus ist ein bedeutendes medizinisches Zentrum. Es versorgt die Bevölkerung des Bundesstaates Jonglei.",
       hu: "A Bor regionális kórház fontos egészségügyi központ. Jonglei állam lakosságát látja el.",
@@ -1154,7 +1154,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-torit-peace-monument-landmarks-v2",
     type: "monument",
     name: { de: "Torit Friedensdenkmal", hu: "Torit béke emlékmű", ro: "Monumentul păcii din Torit", en: "Torit Peace Monument" },
-    coordinates: { lat: 4.45, lng: 32.57 },
+    coords: [32.57, 4.45],
     description: {
       de: "Das Torit Friedensdenkmal markiert das Streben der Region nach Stabilität. Es ist ein bedeutender öffentlicher Platz.",
       hu: "A Torit béke emlékmű a régió stabilitás iránti törekvését jelzi. Fontos közterület.",
@@ -1173,7 +1173,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-bentiu-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Bentiu Brücke", hu: "Bentiu híd", ro: "Podul Bentiu", en: "Bentiu Bridge" },
-    coordinates: { lat: 9.27, lng: 29.8 },
+    coords: [29.8, 9.27],
     description: {
       de: "Die Bentiu Brücke verbindet wichtige Stadtteile und Handelsrouten. Sie ist ein zentrales Verkehrsbauwerk in der Region.",
       hu: "A Bentiu híd fontos városrészeket és kereskedelmi útvonalakat köt össze. A régió központi közlekedési építménye.",
@@ -1192,7 +1192,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-rumbek-liberty-square-landmarks-v2",
     type: "landmark",
     name: { de: "Rumbek Freiheitsplatz", hu: "Rumbek szabadság tér", ro: "Piața Libertății Rumbek", en: "Rumbek Liberty Square" },
-    coordinates: { lat: 6.8, lng: 30.5 },
+    coords: [30.5, 6.8],
     description: {
       de: "Der Freiheitsplatz in Rumbek ist ein zentraler öffentlicher Raum. Er dient als Forum für städtische Versammlungen.",
       hu: "A rumbeki Szabadság tér központi közterület. Városi gyűlések fórumaként szolgál.",
@@ -1211,7 +1211,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-kuajok-market-tower-landmarks-v2",
     type: "tower",
     name: { de: "Kuajok Marktturm", hu: "Kuajok piaci torony", ro: "Turnul pieței Kuajok", en: "Kuajok Market Tower" },
-    coordinates: { lat: 8.18, lng: 27.99 },
+    coords: [27.99, 8.18],
     description: {
       de: "Der Marktturm in Kuajok ist ein markanter Beobachtungspunkt am Handelsplatz. Er überblickt das geschäftige Treiben.",
       hu: "A kuajoki piaci torony jellegzetes megfigyelőpont a kereskedelmi helyszínen. Rálátást biztosít a nyüzsgő forgalomra.",
@@ -1230,7 +1230,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-nimule-border-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Nimule Grenztor", hu: "Nimule határkapu", ro: "Poarta de frontieră Nimule", en: "Nimule Border Gate" },
-    coordinates: { lat: 3.58, lng: 32.06 },
+    coords: [32.06, 3.58],
     description: {
       de: "Das Nimule Grenztor markiert den Übergang zwischen Südsudan und Uganda. Es ist ein strategischer Punkt für den internationalen Verkehr.",
       hu: "A nimulei határkapu Dél-Szudán és Uganda közötti átjárót jelöli. Stratégiai pont a nemzetközi forgalom számára.",
@@ -1249,7 +1249,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-kapoeta-civic-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Kapoeta Bürgerhalle", hu: "Kapoeta polgári csarnok", ro: "Sala civică Kapoeta", en: "Kapoeta Civic Hall" },
-    coordinates: { lat: 4.77, lng: 33.6 },
+    coords: [33.6, 4.77],
     description: {
       de: "Die Bürgerhalle in Kapoeta dient der lokalen Gemeinschaft für Versammlungen. Sie ist ein wichtiges soziales Zentrum.",
       hu: "A kapoetai polgári csarnok a helyi közösség gyűléseit szolgálja. Fontos szociális központ.",
@@ -1268,7 +1268,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-maridi-monument-of-unity-landmarks-v2",
     type: "monument",
     name: { de: "Maridi Einheitsdenkmal", hu: "Maridi egység emlékmű", ro: "Monumentul unității Maridi", en: "Maridi Monument of Unity" },
-    coordinates: { lat: 4.9, lng: 29.48 },
+    coords: [29.48, 4.9],
     description: {
       de: "Das Einheitsdenkmal in Maridi symbolisiert den Zusammenhalt der verschiedenen Volksgruppen. Es ist eine markante Gedenkstätte.",
       hu: "A Maridiben található egység emlékmű a különböző etnikai csoportok összetartozását jelképezi. Jellegzetes emlékhely.",
@@ -1287,7 +1287,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-kajokeji-community-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kajokeji Gemeindezentrum", hu: "Kajokeji közösségi központ", ro: "Centrul comunitar Kajokeji", en: "Kajokeji Community Center" },
-    coordinates: { lat: 3.89, lng: 31.06 },
+    coords: [31.06, 3.89],
     description: {
       de: "Das Gemeindezentrum in Kajokeji fungiert als Drehscheibe für soziale Aktivitäten. Es fördert den Austausch vor Ort.",
       hu: "A kajokeji közösségi központ a társadalmi tevékenységek központjaként működik. Ösztönzi a helyi eszmecserét.",
@@ -1306,7 +1306,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-tonj-memorial-plaza-landmarks-v2",
     type: "monument",
     name: { de: "Tonj Gedenkplatz", hu: "Tonj emlék tér", ro: "Piața memorială Tonj", en: "Tonj Memorial Plaza" },
-    coordinates: { lat: 7.27, lng: 28.68 },
+    coords: [28.68, 7.27],
     description: {
       de: "Der Gedenkplatz in Tonj würdigt historische Ereignisse der Region. Er bietet Raum für friedliche Versammlungen.",
       hu: "A Tonj-ban található emlék tér a régió történelmi eseményeit tiszteli. Teret biztosít békés gyűlések számára.",
@@ -1325,7 +1325,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-yirol-district-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Yirol Bezirkshalle", hu: "Yirol kerületi csarnok", ro: "Sala districtuală Yirol", en: "Yirol District Hall" },
-    coordinates: { lat: 6.55, lng: 30.51 },
+    coords: [30.51, 6.55],
     description: {
       de: "Die Bezirkshalle in Yirol dient der lokalen Selbstverwaltung. Sie koordiniert die regionalen Dienstleistungen.",
       hu: "A yiroli kerületi csarnok a helyi önkormányzatot szolgálja. Koordinálja a regionális szolgáltatásokat.",
@@ -1344,7 +1344,7 @@ export const poiExtraSouthsudanLandmarksV2: POI[] = [
     id: "southsudan-akobo-peace-center-landmarks-v2",
     type: "landmark",
     name: { de: "Akobo Friedenszentrum", hu: "Akobo béke központ", ro: "Centrul de pace Akobo", en: "Akobo Peace Center" },
-    coordinates: { lat: 7.78, lng: 33 },
+    coords: [33, 7.78],
     description: {
       de: "Das Friedenszentrum in Akobo fördert den Dialog zwischen Gemeinschaften. Es ist ein Ort für Konfliktlösung und Bildung.",
       hu: "Az akobói béke központ ösztönzi a közösségek közötti párbeszédet. A konfliktusmegoldás és oktatás helyszíne.",

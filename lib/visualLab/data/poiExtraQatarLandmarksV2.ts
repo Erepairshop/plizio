@@ -1050,7 +1050,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-sheikh-faisal-museum-landmarks-v2",
     type: "museum",
     name: { de: "Sheikh Faisal Bin Qassim Al Thani Museum", hu: "Sejk Fajszal Bin Kasszim Al-Thani Múzeum", ro: "Muzeul Sheikh Faisal Bin Qassim Al Thani", en: "Sheikh Faisal Bin Qassim Al Thani Museum" },
-    coordinates: { lat: 25.3522, lng: 51.2721 },
+    coords: [51.2721, 25.3522],
     description: {
       de: "Ein privates Museum in Al Samriya, das die umfangreiche Sammlung des Sheikh Faisal beherbergt. Es zeigt über 15.000 Exponate, darunter Oldtimer, islamische Kunst und katarische Antiquitäten.",
       hu: "Egy magánmúzeum Al Samriya területén, amely Faisal sejk hatalmas gyűjteményének ad otthont. Több mint 15 000 kiállított tárgyat mutat be, köztük veterán autókat és iszlám művészeti alkotásokat.",
@@ -1069,7 +1069,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-321-olympic-museum-landmarks-v2",
     type: "museum",
     name: { de: "3-2-1 Qatar Olympic and Sports Museum", hu: "3-2-1 Katari Olimpiai és Sportmúzeum", ro: "Muzeul Olimpic și al Sportului 3-2-1 din Qatar", en: "3-2-1 Qatar Olympic and Sports Museum" },
-    coordinates: { lat: 25.2636, lng: 51.4486 },
+    coords: [51.4486, 25.2636],
     description: {
       de: "Ein hochmodernes Sportmuseum am Khalifa International Stadium in Doha. Es widmet sich der Geschichte des Sports und der olympischen Bewegung durch interaktive Ausstellungen.",
       hu: "Modern sportmúzeum a dohai Khalifa Nemzetközi Stadionnál. Interaktív kiállításokon keresztül mutatja be a sporttörténetet és az olimpiai mozgalmat.",
@@ -1088,7 +1088,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-education-city-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Education City Moschee", hu: "Education City mecset", ro: "Moscheea din Education City", en: "Education City Mosque" },
-    coordinates: { lat: 25.3188, lng: 51.4422 },
+    coords: [51.4422, 25.3188],
     description: {
       de: "Eine futuristische Moschee in der Education City mit zwei 90 Meter hohen, geneigten Minaretten. Das Gebäude ruht auf fünf Säulen, die die fünf Säulen des Islam darstellen.",
       hu: "Futurisztikus mecset az Education City területén, két 90 méter magas, döntött minarettel. Az épület öt oszlopon nyugszik, amelyek az iszlám öt pillérét jelképezik.",
@@ -1107,7 +1107,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-fanar-islamic-center-landmarks-v2",
     type: "landmark",
     name: { de: "Fanar Islamisches Kulturzentrum", hu: "Fanar Iszlám Kulturális Központ", ro: "Centrul Cultural Islamic Fanar", en: "Fanar Islamic Cultural Center" },
-    coordinates: { lat: 25.2892, lng: 51.5323 },
+    coords: [51.5323, 25.2892],
     description: {
       de: "Ein bekanntes Wahrzeichen in Doha mit einem markanten spiralförmigen Minarett. Das Zentrum bietet Bildungsprogramme über den Islam und die katarische Kultur an.",
       hu: "Ismert dohai látványosság, amely jellegzetes spirális minaretjéről híres. A központ oktatási programokat kínál az iszlámról és a katari kultúráról.",
@@ -1126,7 +1126,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-doha-tower-burj-doha-landmarks-v2",
     type: "tower",
     name: { de: "Doha Tower (Burj Doha)", hu: "Doha-torony (Burj Doha)", ro: "Doha Tower (Burj Doha)", en: "Doha Tower (Burj Doha)" },
-    coordinates: { lat: 25.3175, lng: 51.5283 },
+    coords: [51.5283, 25.3175],
     description: {
       de: "Ein zylindrischer Wolkenkratzer in West Bay mit einer aufwendigen Mashrabiya-Fassade. Das Gebäude wurde vom Architekten Jean Nouvel entworfen und im Jahr 2012 fertiggestellt.",
       hu: "Henger alakú felhőkarcoló a West Bay negyedben, bonyolult masrabijja-homlokzattal. Az épületet Jean Nouvel építész tervezte, és 2012-ben fejezték be.",
@@ -1145,7 +1145,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-tornado-tower-landmarks-v2",
     type: "tower",
     name: { de: "Tornado Tower", hu: "Tornado-torony", ro: "Turnul Tornado", en: "Tornado Tower" },
-    coordinates: { lat: 25.3214, lng: 51.5264 },
+    coords: [51.5264, 25.3214],
     description: {
       de: "Ein markanter Büroturm in Doha mit einer hyperbolischen Form und einem äußeren Stahlskelett. Er ist 200 Meter hoch und prägt die Skyline des West Bay Distrikts.",
       hu: "Jellegzetes irodatorony Dohában, hiperbolikus formával és külső acélvázzal. 200 méter magas, és meghatározó eleme a West Bay negyed látképének.",
@@ -1164,7 +1164,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-palm-towers-landmarks-v2",
     type: "tower",
     name: { de: "Palm Towers", hu: "Pálma-tornyok", ro: "Turnurile Palm", en: "Palm Towers" },
-    coordinates: { lat: 25.3228, lng: 51.5281 },
+    coords: [51.5281, 25.3228],
     description: {
       de: "Zwei identische hexagonale Wolkenkratzer in West Bay, deren Struktur an den Stamm einer Palme erinnert. Die Türme dienen als hochwertige Bürogebäude in Dohas Geschäftsviertel.",
       hu: "Két azonos, hatszögletű felhőkarcoló a West Bay negyedben, amelyek szerkezete a pálmafa törzsére emlékeztet. A tornyok prémium irodaházként szolgálnak Doha üzleti negyedében.",
@@ -1183,7 +1183,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-al-bidda-tower-landmarks-v2",
     type: "tower",
     name: { de: "Al Bidda Tower", hu: "Al Bidda torony", ro: "Turnul Al Bidda", en: "Al Bidda Tower" },
-    coordinates: { lat: 25.3164, lng: 51.5256 },
+    coords: [51.5256, 25.3164],
     description: {
       de: "Ein auffälliger, gewundener Wolkenkratzer am Corniche, der als Hauptsitz für Sportorganisationen dient. Er ist für sein einzigartiges Design und seine dynamische Silhouette bekannt.",
       hu: "Látványos, csavart formájú felhőkarcoló a Corniche mentén, amely sport szervezetek székházaként szolgál. Egyedi kialakításáról és dinamikus sziluettjéről ismert.",
@@ -1202,7 +1202,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-sheraton-grand-doha-landmarks-v2",
     type: "landmark",
     name: { de: "Sheraton Grand Doha", hu: "Sheraton Grand Doha", ro: "Sheraton Grand Doha", en: "Sheraton Grand Doha" },
-    coordinates: { lat: 25.3181, lng: 51.5397 },
+    coords: [51.5397, 25.3181],
     description: {
       de: "Ein ikonisches, pyramidenförmiges Hotel am nördlichen Ende des Doha Corniche. Es wurde 1982 eröffnet und gilt als eines der wichtigsten Wahrzeichen der modernen katarischen Architektur.",
       hu: "Ikonikus, piramis alakú szálloda a dohai Corniche északi végén. 1982-ben nyílt meg, és a modern katari építészet egyik legfontosabb látnivalója.",
@@ -1221,7 +1221,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-khalifa-international-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Khalifa International Stadium", hu: "Khalifa Nemzetközi Stadion", ro: "Stadionul Internațional Khalifa", en: "Khalifa International Stadium" },
-    coordinates: { lat: 25.2637, lng: 51.4482 },
+    coords: [51.4482, 25.2637],
     description: {
       de: "Katarisches Nationalstadion und Teil der Aspire Zone in Doha. Es wurde für die Weltmeisterschaft 2022 umfassend modernisiert und verfügt über einen markanten Doppelbogen.",
       hu: "Katar nemzeti stadionja, a dohai Aspire Zone része. A 2022-es világbajnokságra jelentősen modernizálták, jellegzetessége a kettős ív.",
@@ -1240,7 +1240,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-education-city-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Education City Stadium", hu: "Education City Stadion", ro: "Stadionul Education City", en: "Education City Stadium" },
-    coordinates: { lat: 25.3108, lng: 51.4244 },
+    coords: [51.4244, 25.3108],
     description: {
       de: "Ein Fußballstadion in Education City, dessen Fassade aus geometrischen Mustern besteht, die wie Diamanten schimmern. Es wird aufgrund seines Designs auch 'Diamant in der Wüste' genannt.",
       hu: "Futballstadion az Education City területén, melynek homlokzata gyémántként csillogó geometriai mintákból áll. Kialakítása miatt 'sivatagi gyémántnak' is nevezik.",
@@ -1259,7 +1259,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-ahmad-bin-ali-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Ahmad bin Ali Stadium", hu: "Ahmad bin Ali Stadion", ro: "Stadionul Ahmad bin Ali", en: "Ahmad bin Ali Stadium" },
-    coordinates: { lat: 25.3297, lng: 51.3418 },
+    coords: [51.3418, 25.3297],
     description: {
       de: "Ein Stadion in Al Rayyan mit einer leuchtenden Fassade, die verschiedene Aspekte der katarischen Kultur darstellt. Es dient als Heimspielstätte für den Al Rayyan SC.",
       hu: "Al Rayyan-ban található stadion, világító homlokzattal, amely a katari kultúra különböző aspektusait mutatja be. Az Al Rayyan SC hazai pályájaként szolgál.",
@@ -1278,7 +1278,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-al-thumama-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Al Thumama Stadium", hu: "Al Thumama Stadion", ro: "Stadionul Al Thumama", en: "Al Thumama Stadium" },
-    coordinates: { lat: 25.2355, lng: 51.5322 },
+    coords: [51.5322, 25.2355],
     description: {
       de: "Ein Stadion, das von der 'Gahfiya' inspiriert wurde, einer traditionellen Kopfbedeckung für Männer in der Region. Es zeichnet sich durch seine kreisförmige Struktur aus.",
       hu: "A régió férfiainak hagyományos fejfedője, a 'gahfiya' által ihletett stadion. Jellegzetessége a kör alakú szerkezet.",
@@ -1297,7 +1297,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-al-janoub-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Al Janoub Stadium", hu: "Al Janoub Stadion", ro: "Stadionul Al Janoub", en: "Al Janoub Stadium" },
-    coordinates: { lat: 25.1605, lng: 51.5739 },
+    coords: [51.5739, 25.1605],
     description: {
       de: "Ein futuristisches Stadion in Al Wakrah, das von der verstorbenen Zaha Hadid entworfen wurde. Sein Dach ist den Segeln traditioneller Dhow-Boote nachempfunden.",
       hu: "Futurisztikus stadion Al Wakrah-ban, melyet a néhai Zaha Hadid tervezett. Tetőszerkezete a hagyományos dhow hajók vitorláit idézi.",
@@ -1316,7 +1316,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-stadium-974-landmarks-v2",
     type: "landmark",
     name: { de: "Stadium 974", hu: "974 Stadion", ro: "Stadionul 974", en: "Stadium 974" },
-    coordinates: { lat: 25.2889, lng: 51.5647 },
+    coords: [51.5647, 25.2889],
     description: {
       de: "Ein temporäres Fußballstadion am Meer, das aus 974 recycelten Schiffscontainern gebaut wurde. Es war der erste vollständig demontierbare Austragungsort in der Geschichte der Fußball-WM.",
       hu: "Tengerparti ideiglenes futballstadion, amely 974 újrahasznosított hajózási konténerből épült. Ez volt az első teljesen szétszerelhető helyszín a FIFA világbajnokságok történetében.",
@@ -1335,7 +1335,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-the-pearl-monument-landmarks-v2",
     type: "monument",
     name: { de: "Das Perlenmonument", hu: "Gyöngy-emlékmű", ro: "Monumentul Perlei", en: "The Pearl Monument" },
-    coordinates: { lat: 25.2878, lng: 51.5385 },
+    coords: [51.5385, 25.2878],
     description: {
       de: "Eine Skulptur einer offenen Auster mit einer Perle am Eingang zum Dhow-Hafen. Sie würdigt Katars historische Bedeutung als Zentrum des Perlenhandels vor der Entdeckung von Öl.",
       hu: "Nyitott osztrigát és benne egy gyöngyöt ábrázoló szobor a dhow kikötő bejáratánál. Katar történelmi gyöngyhalász múltja előtt tiszteleg.",
@@ -1354,7 +1354,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-miraculous-journey-sculptures-landmarks-v2",
     type: "monument",
     name: { de: "The Miraculous Journey", hu: "The Miraculous Journey szobrok", ro: "Călătoria Miraculoasă", en: "The Miraculous Journey" },
-    coordinates: { lat: 25.315, lng: 51.432 },
+    coords: [51.432, 25.315],
     description: {
       de: "Eine Installation aus 14 monumentalen Bronzeskulpturen, die die Stadien der menschlichen Entwicklung von der Empfängnis bis zur Geburt zeigen. Sie wurden von Damien Hirst geschaffen.",
       hu: "14 monumentális bronzszoborból álló alkotás, amely az emberi fejlődés szakaszait mutatja be a fogantatástól a születésig. Damien Hirst készítette.",
@@ -1373,7 +1373,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-fire-station-museum-landmarks-v2",
     type: "museum",
     name: { de: "Fire Station: Artist in Residence", hu: "Fire Station Művészeti Központ", ro: "Stația de Pompieri: Artist în Rezidență", en: "Fire Station: Artist in Residence" },
-    coordinates: { lat: 25.3044, lng: 51.5133 },
+    coords: [51.5133, 25.3044],
     description: {
       de: "Eine ehemalige Feuerwache in Doha, die in ein Zentrum für zeitgenössische Kunst umgewandelt wurde. Sie bietet Residenzprogramme für Künstler sowie Galerien und Werkstätten.",
       hu: "Korábbi tűzoltóállomás Dohában, amelyet kortárs művészeti központtá alakítottak át. Művészeti rezidenciaprogramokat, galériákat és műhelyeket kínál.",
@@ -1392,7 +1392,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-qncc-landmarks-v2",
     type: "landmark",
     name: { de: "Qatar National Convention Centre (QNCC)", hu: "Katari Nemzeti Konferencia-központ (QNCC)", ro: "Centrul Național de Convenții din Qatar (QNCC)", en: "Qatar National Convention Centre (QNCC)" },
-    coordinates: { lat: 25.319, lng: 51.441 },
+    coords: [51.441, 25.319],
     description: {
       de: "Ein preisgekröntes Konferenzzentrum in Education City mit einer markanten Fassade, die an Sidra-Bäume erinnert. Es wurde vom japanischen Architekten Arata Isozaki entworfen.",
       hu: "Díjnyertes konferenciaközpont az Education City-ben, sidra fákat idéző homlokzattal. Arata Isozaki japán építész tervezte.",
@@ -1411,7 +1411,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-lusail-marina-twin-towers-landmarks-v2",
     type: "tower",
     name: { de: "Lusail Marina Twin Towers", hu: "Lusail Marina ikertornyok", ro: "Turnurile Gemene Lusail Marina", en: "Lusail Marina Twin Towers" },
-    coordinates: { lat: 25.385, lng: 51.528 },
+    coords: [51.528, 25.385],
     description: {
       de: "Zwei markante Bürotürme im Marina-Viertel von Lusail mit einer einzigartigen Zickzack-Struktur. Sie bieten einen Panoramablick über die neue Planstadt und den Persischen Golf.",
       hu: "Két jellegzetes irodatorony Lusail Marina negyedében, egyedi cikcakos szerkezettel. Panorámás kilátást nyújtanak az új tervezett városra és a Perzsa-öbölre.",
@@ -1430,7 +1430,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-msheireb-metro-station-landmarks-v2",
     type: "landmark",
     name: { de: "Msheireb Metro-Station", hu: "Msheireb metróállomás", ro: "Stația de Metrou Msheireb", en: "Msheireb Metro Station" },
-    coordinates: { lat: 25.2875, lng: 51.525 },
+    coords: [51.525, 25.2875],
     description: {
       de: "Der wichtigste Knotenpunkt des Metronetzes von Doha, wo alle drei Linien aufeinandertreffen. Die Architektur ist von traditionellen Karawansereien inspiriert.",
       hu: "A dohai metróhálózat legfontosabb csomópontja, ahol mindhárom vonal találkozik. Az építészetet a hagyományos karavánszerájok ihlették.",
@@ -1449,7 +1449,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-sidra-medicine-building-landmarks-v2",
     type: "landmark",
     name: { de: "Sidra Medicine Gebäude", hu: "Sidra Medicine épület", ro: "Clădirea Sidra Medicine", en: "Sidra Medicine (Building)" },
-    coordinates: { lat: 25.3158, lng: 51.4361 },
+    coords: [51.4361, 25.3158],
     description: {
       de: "Ein hochmodernes Krankenhaus und Forschungszentrum in Education City, entworfen von Cesar Pelli. Es zeichnet sich durch drei massive segelartige Strukturen aus Glas und Stahl aus.",
       hu: "Ultramodern kórház és kutatóközpont az Education City-ben, Cesar Pelli tervezésében. Három hatalmas, üvegből és acélból készült vitorlaszerű szerkezet jellemzi.",
@@ -1468,7 +1468,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-ceremonial-court-landmarks-v2",
     type: "landmark",
     name: { de: "Ceremonial Court", hu: "Ceremonial Court (Díszudvar)", ro: "Ceremonial Court", en: "Ceremonial Court" },
-    coordinates: { lat: 25.32, lng: 51.445 },
+    coords: [51.445, 25.32],
     description: {
       de: "Ein weitläufiger Außenbereich in Education City für offizielle Zeremonien und Veranstaltungen. Er wurde vom japanischen Architekten Arata Isozaki entworfen und ist von Wasserkanälen umgeben.",
       hu: "Tágas szabadtéri helyszín az Education City-ben hivatalos ceremóniák és rendezvények számára. Arata Isozaki japán építész tervezte, és vízcsatornák veszik körül.",
@@ -1487,7 +1487,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-al-manara-tower-landmarks-v2",
     type: "tower",
     name: { de: "Al-Manara Tower", hu: "Al-Manara torony", ro: "Turnul Al-Manara", en: "Al-Manara Tower" },
-    coordinates: { lat: 25.39, lng: 51.515 },
+    coords: [51.515, 25.39],
     description: {
       de: "Ein markantes Hochhaus in Lusail mit einer geschwungenen Fassade und integrierter digitaler Beleuchtung. Es dient als modernes Bürogebäude im aufstrebenden Lusail-Geschäftsviertel.",
       hu: "Jellegzetes felhőkarcoló Lusail-ban, ívelt homlokzattal és beépített digitális világítással. Modern irodaházként szolgál a fejlődő Lusail üzleti negyedben.",
@@ -1506,7 +1506,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-vcuarts-building-landmarks-v2",
     type: "university",
     name: { de: "VCUarts Qatar Gebäude", hu: "VCUarts Qatar épület", ro: "Clădirea VCUarts Qatar", en: "VCUarts Qatar (Building)" },
-    coordinates: { lat: 25.317, lng: 51.437 },
+    coords: [51.437, 25.317],
     description: {
       de: "Das Hauptgebäude der Virginia Commonwealth University in Katar, gelegen in Education City. Es war die erste Universität, die im Jahr 1998 in diesem Bildungskomplex eröffnet wurde.",
       hu: "A Virginia Commonwealth University katari épülete az Education City-ben. Ez volt az első egyetem, amely 1998-ban megnyílt ebben az oktatási komplexumban.",
@@ -1525,7 +1525,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-2022-building-landmarks-v2",
     type: "landmark",
     name: { de: "2022 Building", hu: "2022-es épület", ro: "Clădirea 2022", en: "2022 Building" },
-    coordinates: { lat: 25.266, lng: 51.445 },
+    coords: [51.445, 25.266],
     description: {
       de: "Ein einzigartiges Mehrzweckgebäude in der Aspire Zone, das aus der Luft betrachtet die Jahreszahl '2022' bildet. Es erinnert an Katars Ausrichtung der Fußball-Weltmeisterschaft.",
       hu: "Egyedi többfunkciós épület az Aspire Zone-ban, amely a levegőből nézve a '2022' évszámot formázza. Katar világbajnoki rendezésének állít emléket.",
@@ -1544,7 +1544,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     id: "qatar-old-doha-port-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Alter Hafen Leuchtturm", hu: "Régi dohai kikötő világítótornya", ro: "Farul din Vechiul Port Doha", en: "Old Doha Port Lighthouse" },
-    coordinates: { lat: 25.295, lng: 51.545 },
+    coords: [51.545, 25.295],
     description: {
       de: "Ein malerischer Leuchtturm im renovierten Viertel des alten Hafens von Doha. Das Viertel ist für seine farbenfrohen Gebäude im traditionellen katarischen Stil bekannt.",
       hu: "Gleccserkék színű világítótorony Doha felújított régi kikötőjében. A negyed a hagyományos katari stílusú, színes épületeiről ismert.",

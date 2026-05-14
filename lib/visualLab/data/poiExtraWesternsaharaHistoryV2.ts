@@ -5,7 +5,7 @@ export const westernsaharaHistoryV2: POI[] = [
     id: "westernsahara-smara-ancient-city-history-v2",
     type: "city",
     name: { de: "Smara Altstadt", hu: "Szamara óváros", ro: "Orașul vechi Smara", en: "Smara Old City" },
-    coordinates: { lat: 26.7408, lng: -11.6736 },
+    coords: [-11.6736, 26.7408],
     description: {
       de: "Smara wurde 1898 von Ma El Ainin gegründet und diente als religiöses Zentrum. Die Ruinen zeugen von der Architektur der Wüstenstadt.",
       hu: "Szamarát 1898-ban alapította Ma El Ainin, vallási központként. A romok a sivatagi város egykori építészetét mutatják.",
@@ -24,7 +24,7 @@ export const westernsaharaHistoryV2: POI[] = [
     id: "westernsahara-laayoune-old-quarter-history-v2",
     type: "city",
     name: { de: "Laayoune Altstadt", hu: "El-Ajún óváros", ro: "Orașul vechi Laayoune", en: "Laayoune Old Quarter" },
-    coordinates: { lat: 27.1536, lng: -13.2033 },
+    coords: [-13.2033, 27.1536],
     description: {
       de: "Die Altstadt von Laayoune bewahrt Einflüsse aus der spanischen Kolonialzeit. Sie ist ein historisch bedeutendes städtisches Viertel.",
       hu: "El-Ajún óvárosa megőrizte a spanyol gyarmati időszak hatásait. Történelmileg jelentős városrész.",
@@ -43,7 +43,7 @@ export const westernsaharaHistoryV2: POI[] = [
     id: "westernsahara-dakhla-fort-history-v2",
     type: "castle",
     name: { de: "Dakhla Festung", hu: "Dahla erőd", ro: "Fortăreața Dakhla", en: "Dakhla Fort" },
-    coordinates: { lat: 23.6848, lng: -15.9582 },
+    coords: [-15.9582, 23.6848],
     description: {
       de: "Das Fort in Dakhla wurde während der spanischen Präsenz errichtet. Es diente zur Sicherung des strategischen Hafens am Atlantik.",
       hu: "A dahlai erődöt a spanyol jelenlét idején építették. A stratégiai jelentőségű atlanti kikötő védelmét szolgálta.",
@@ -62,7 +62,7 @@ export const westernsaharaHistoryV2: POI[] = [
     id: "westernsahara-guelta-zemmur-archaeology-history-v2",
     type: "ruins",
     name: { de: "Guelta Zemmur Felszeichnungen", hu: "Guelta Zemmur sziklarajzok", ro: "Picturi rupestre Guelta Zemmur", en: "Guelta Zemmur Rock Art" },
-    coordinates: { lat: 24.1333, lng: -11.9667 },
+    coords: [-11.9667, 24.1333],
     description: {
       de: "In der Nähe von Guelta Zemmur befinden sich prähistorische Felsmalereien. Diese zeugen von früher menschlicher Besiedlung der Region.",
       hu: "Guelta Zemmur közelében őskori sziklafestmények találhatók. Ezek a régió korai emberi letelepedéséről tanúskodnak.",
@@ -81,7 +81,7 @@ export const westernsaharaHistoryV2: POI[] = [
     id: "westernsahara-boujdour-lighthouse-history-v2",
     type: "tower",
     name: { de: "Boujdour Leuchtturm", hu: "Bujdúr világítótorony", ro: "Farul Boujdour", en: "Boujdour Lighthouse" },
-    coordinates: { lat: 26.1333, lng: -14.4833 },
+    coords: [-14.4833, 26.1333],
     description: {
       de: "Der historische Leuchtturm von Boujdour ist ein markantes Bauwerk an der Küste. Er markiert einen wichtigen Punkt für die Schifffahrt.",
       hu: "Bujdúr történelmi világítótornya jellegzetes építmény a tengerparton. Fontos pont a hajózás számára.",

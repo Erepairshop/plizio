@@ -466,7 +466,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-dumlong-peak-relief-v2",
     type: "peak",
     name: { de: "Dumlong Peak", hu: "Dumlong-csúcs", ro: "Vârful Dumlong", en: "Dumlong Peak" },
-    coordinates: { lat: 22.0361, lng: 92.5833 },
+    coords: [92.5833, 22.0361],
     description: {
       de: "Dumlong ist der zweithöchste Gipfel von Bangladesch und liegt im Rangamati Hill District. Er erreicht im Belaichori-Gebiet eine Höhe von 1162 Metern.",
       hu: "A Dumlong Banglades második legmagasabb hegycsúcsa, amely a Rangamati-dombság területén található. Magassága eléri az 1162 métert Belaichori régióban.",
@@ -497,7 +497,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-maithaijama-haphong-relief-v2",
     type: "peak",
     name: { de: "Maithaijama Haphong", hu: "Maithaijama Haphong", ro: "Maithaijama Haphong", en: "Maithaijama Haphong" },
-    coordinates: { lat: 22.015, lng: 92.595 },
+    coords: [92.595, 22.015],
     description: {
       de: "Dieser Gipfel liegt an der Grenze zwischen Bangladesch und Myanmar in der Mowdok-Kette. Er ist bekannt für sein schroffes Relief und dichte Vegetation.",
       hu: "Ez a csúcs Banglades és Mianmar határán fekszik a Mowdok-hegyláncban. Ismert meredek domborzatáról és a sűrű trópusi növényzetéről.",
@@ -528,7 +528,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-thingdawl-te-tlang-relief-v2",
     type: "peak",
     name: { de: "Thingdawl Te Tlang", hu: "Thingdawl Te Tlang", ro: "Thingdawl Te Tlang", en: "Thingdawl Te Tlang" },
-    coordinates: { lat: 22.045, lng: 92.565 },
+    coords: [92.565, 22.045],
     description: {
       de: "Thingdawl Te Tlang ist ein markanter Berg in der Mowdok-Kette im Südosten von Bangladesch. Er ist einer der höchsten vermessenen Punkte des Landes.",
       hu: "A Thingdawl Te Tlang egy jellegzetes hegy a Mowdok-hegyláncban, Banglades délkeleti részén. Az ország egyik legmagasabb mért pontja.",
@@ -559,7 +559,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-mogdok-taung-relief-v2",
     type: "peak",
     name: { de: "Mogdok Taung", hu: "Mogdok Taung", ro: "Mogdok Taung", en: "Mogdok Taung" },
-    coordinates: { lat: 21.786, lng: 92.605 },
+    coords: [92.605, 21.786],
     description: {
       de: "Mogdok Taung ist ein bedeutender Gipfel im südlichen Bandarban, der die Grenze zu Myanmar markiert. Die Region ist durch steile Täler geprägt.",
       hu: "A Mogdok Taung egy jelentős csúcs Bandarban déli részén, amely Mianmar határát jelzi. A régiót meredek völgyek és nehéz terep jellemzi.",
@@ -590,7 +590,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-siipi-tlang-relief-v2",
     type: "peak",
     name: { de: "Siipi Tlang", hu: "Siipi Tlang", ro: "Siipi Tlang", en: "Siipi Tlang" },
-    coordinates: { lat: 22.25, lng: 92.48 },
+    coords: [92.48, 22.25],
     description: {
       de: "Siipi Tlang liegt im Barkal-Gebiet von Rangamati und bietet einen weiten Blick über die hügelige Landschaft. Er ist Teil der zentralen Hügelketten.",
       hu: "A Siipi Tlang Rangamati Barkal területén található, széles kilátást nyújtva a dombos tájra. A központi dombságok egyik fontos tagja.",
@@ -621,7 +621,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-ganges-brahmaputra-delta-relief-v2",
     type: "landmark",
     name: { de: "Ganges-Brahmaputra-Delta", hu: "Gangesz-Brahmaputra-delta", ro: "Delta Gange-Brahmaputra", en: "Ganges-Brahmaputra Delta" },
-    coordinates: { lat: 23.0, lng: 90.0 },
+    coords: [90.0, 23.0],
     description: {
       de: "Dies ist das weltweit größte Flussdelta, das den Großteil von Bangladesch bedeckt. Es entstand durch die Ablagerungen gewaltiger Flusssysteme.",
       hu: "Ez a világ legnagyobb folyódeltája, amely Banglades területének nagy részét lefedi. Hatalmas folyórendszerek üledékei alakították ki.",
@@ -652,7 +652,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-garo-hills-foothills-relief-v2",
     type: "mountain",
     name: { de: "Garo-Hügel Ausläufer", hu: "Garo-hegység lábai", ro: "Poalele Munților Garo", en: "Garo Hills Foothills" },
-    coordinates: { lat: 25.18, lng: 90.22 },
+    coords: [90.22, 25.18],
     description: {
       de: "Die Ausläufer der Garo-Hügel in Mymensingh bilden eine seltene Hügellandschaft im flachen Norden. Sie sind reich an Ton- und Mineralvorkommen.",
       hu: "A Mymensingh területén lévő Garo-hegység lábai ritka dombos tájat alkotnak a lapos északon. Agyag- és ásványkincsekben gazdag vidék.",
@@ -683,7 +683,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-sitakunda-mountain-range-relief-v2",
     type: "mountain",
     name: { de: "Sitakunda-Gebirgszug", hu: "Sitakunda-hegylánc", ro: "Lanțul muntos Sitakunda", en: "Sitakunda Mountain Range" },
-    coordinates: { lat: 22.62, lng: 91.68 },
+    coords: [91.68, 22.62],
     description: {
       de: "Der Sitakunda-Zug verläuft parallel zur Küste im Südosten von Bangladesch. Er besteht hauptsächlich aus gefaltetem Sandstein und Schiefer.",
       hu: "A Sitakunda-hegylánc a partvonallal párhuzamosan fut Banglades délkeleti részén. Főleg gyűrt homokkőből és palából épül fel.",
@@ -714,7 +714,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-rang-tlang-range-relief-v2",
     type: "mountain",
     name: { de: "Rang-Tlang-Kette", hu: "Rang Tlang-hegylánc", ro: "Lanțul muntos Rang Tlang", en: "Rang Tlang Range" },
-    coordinates: { lat: 22.4, lng: 92.55 },
+    coords: [92.55, 22.4],
     description: {
       de: "Die Rang-Tlang-Kette bildet das Rückgrat der östlichen Bergregionen an der Grenze zu Myanmar. Sie ist für ihre hohe Biodiversität bekannt.",
       hu: "A Rang Tlang-hegylánc a keleti hegyvidéki régiók gerincét alkotja Mianmar határán. Magas biodiverzitásáról és érintetlen erdőiről ismert.",
@@ -745,7 +745,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-muri-tlang-mountain-relief-v2",
     type: "mountain",
     name: { de: "Muri Tlang", hu: "Muri Tlang", ro: "Muri Tlang", en: "Muri Tlang" },
-    coordinates: { lat: 21.85, lng: 92.55 },
+    coords: [92.55, 21.85],
     description: {
       de: "Muri Tlang ist ein markanter Berg im Bandarban Hill District. Er zeichnet sich durch seine steilen Abhänge und die strategische Lage aus.",
       hu: "A Muri Tlang egy jellegzetes hegy a Bandarban-dombságban. Meredek lejtői és stratégiai fekvése jellemzi a hegyi terepen.",
@@ -776,7 +776,7 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     id: "bangladesh-jaintia-hills-foothills-relief-v2",
     type: "mountain",
     name: { de: "Jaintia-Hügel Ausläufer", hu: "Jaintia-hegyek lábai", ro: "Poalele Munților Jaintia", en: "Jaintia Hills Foothills" },
-    coordinates: { lat: 25.15, lng: 91.65 },
+    coords: [91.65, 25.15],
     description: {
       de: "Diese Hügel im Nordosten bei Sylhet bilden den Übergang zum indischen Meghalaya-Plateau. Das Relief ist durch Kalkstein und tiefe Schluchten geprägt.",
       hu: "Ezek a Sylhet melletti északkeleti dombok az indiai Meghalaya-fennsíkra való átmenetet alkotják. Mészkő és mély szurdokok jellemzik.",

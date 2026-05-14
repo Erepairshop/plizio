@@ -5,7 +5,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-capitol-building-landmarks-v2",
     type: "landmark",
     name: { de: "Kapitol von Palau", hu: "Palaui Kapitólium", ro: "Capitoliul din Palau", en: "Palau Capitol Building" },
-    coordinates: { lat: 7.5005, lng: 134.6242 },
+    coords: [134.6242, 7.5005],
     description: {
       de: "Das Kapitol in Ngerulmud ist der offizielle Regierungssitz der Republik Palau. Das Bauwerk wurde 2006 fertiggestellt und erinnert in seinem Stil an das US-Kapitol.",
       hu: "A ngerulmudi Kapitólium Palau kormányának hivatalos székhelye. A 2006-ban átadott épületegyüttes stílusát az amerikai törvényhozás épülete ihlette.",
@@ -24,7 +24,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-belau-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Belau National Museum", hu: "Belau Nemzeti Múzeum", ro: "Muzeul Național Belau", en: "Belau National Museum" },
-    coordinates: { lat: 7.3397, lng: 134.4764 },
+    coords: [134.4764, 7.3397],
     description: {
       de: "Das Belau National Museum ist das älteste Museum in der Region Mikronesien. Es zeigt Ausstellungen zur Geschichte, Kultur und Naturkunde der Inselgruppe Palau.",
       hu: "A Belau Nemzeti Múzeum Mikronézia legrégebbi múzeuma. Az intézmény Palau történelmét, kultúráját és természettudományi kincseit mutatja be.",
@@ -43,7 +43,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-etpison-museum-landmarks-v2",
     type: "museum",
     name: { de: "Etpison Museum", hu: "Etpison Múzeum", ro: "Muzeul Etpison", en: "Etpison Museum" },
-    coordinates: { lat: 7.3458, lng: 134.4825 },
+    coords: [134.4825, 7.3458],
     description: {
       de: "Das Etpison Museum dokumentiert das kulturelle Erbe Palaus durch Artefakte und historische Fotos. Es widmet sich besonders der Erhaltung lokaler Traditionen.",
       hu: "Az Etpison Múzeum műtárgyakon és fotókon keresztül dokumentálja Palau kulturális örökségét. Kiemelt figyelmet fordít a helyi hagyományok megőrzésére.",
@@ -62,7 +62,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-badrulchau-monoliths-landmarks-v2",
     type: "monument",
     name: { de: "Badrulchau Monolithen", hu: "Badrulchau monolitok", ro: "Monoliții Badrulchau", en: "Badrulchau Monoliths" },
-    coordinates: { lat: 7.7022, lng: 134.6369 },
+    coords: [134.6369, 7.7022],
     description: {
       de: "Diese archäologische Stätte umfasst 37 große Steinmonolithen, deren Ursprung bis etwa 161 n. Chr. zurückreicht. Sie befinden sich auf einem Hügel im Norden von Babeldaob.",
       hu: "Ez a régészeti lelőhely 37 hatalmas kőmonolitot foglal magában, amelyek eredete i.sz. 161 körülig nyúlik vissza. Babeldaob északi dombjain találhatók.",
@@ -81,7 +81,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-airai-bai-landmarks-v2",
     type: "monument",
     name: { de: "Airai Bai", hu: "Airai Bai", ro: "Airai Bai", en: "Airai Bai" },
-    coordinates: { lat: 7.3639, lng: 134.5583 },
+    coords: [134.5583, 7.3639],
     description: {
       de: "Das Airai Bai ist ein traditionelles Versammlungshaus der Männer und über 170 Jahre alt. Es ist berühmt für seine kunstvollen Schnitzereien und Malereien.",
       hu: "Az Airai Bai egy több mint 170 éves hagyományos férfi közösségi ház. Híres bonyolult fafaragásairól és festett illusztrációiról.",
@@ -100,7 +100,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-japan-palau-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Japan-Palau-Freundschaftsbrücke", hu: "Japán-Palau Barátság híd", ro: "Podul Prieteniei Japonia-Palau", en: "Japan-Palau Friendship Bridge" },
-    coordinates: { lat: 7.363, lng: 134.5126 },
+    coords: [134.5126, 7.363],
     description: {
       de: "Diese Brücke verbindet die Inseln Koror und Babeldaob und ist eine lebenswichtige Verkehrsader. Sie wurde mit finanzieller Hilfe aus Japan errichtet.",
       hu: "Ez a híd köti össze Koror és Babeldaob szigeteit, és létfontosságú közlekedési útvonal. Japán pénzügyi segítségével épült fel.",
@@ -119,7 +119,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-peleliu-wwii-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Peleliu WWII Denkmal", hu: "Peleliu II. világháborús emlékmű", ro: "Memorialul WWII din Peleliu", en: "Peleliu WWII Memorial" },
-    coordinates: { lat: 6.985, lng: 134.225 },
+    coords: [134.225, 6.985],
     description: {
       de: "Das Denkmal erinnert an die heftigen Kämpfe zwischen den USA und Japan im Jahr 1944. Es befindet sich an einem der zentralen Schlachtfelder der Insel Peleliu.",
       hu: "Az emlékmű az 1944-ben zajlott heves amerikai-japán harcoknak állít emléket. Peleliu szigetének egyik központi csataterén található.",
@@ -138,7 +138,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-german-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Deutscher Leuchtturm", hu: "Német világítótorony", ro: "Farul German", en: "German Lighthouse" },
-    coordinates: { lat: 6.991, lng: 134.225 },
+    coords: [134.225, 6.991],
     description: {
       de: "Der deutsche Leuchtturm auf Peleliu wurde während der deutschen Kolonialzeit zu Beginn des 20. Jahrhunderts erbaut. Er bietet einen weiten Blick über die Insel.",
       hu: "A peleliui német világítótorony a 20. század elején, a német gyarmati időszakban épült. Kiváló kilátást nyújt a szigetre.",
@@ -157,7 +157,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-angaur-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Angaur Leuchtturm", hu: "Angauri világítótorony", ro: "Farul din Angaur", en: "Angaur Lighthouse" },
-    coordinates: { lat: 6.908, lng: 134.128 },
+    coords: [134.128, 6.908],
     description: {
       de: "Dieser historische Leuchtturm befindet sich auf der Insel Angaur und stammt aus der Zeit der Phosphatgewinnung. Er markiert einen wichtigen Punkt für die Seefahrt.",
       hu: "Ez a történelmi világítótorony Angaur szigetén található, és a foszfátbányászat korszakából származik. Fontos pont a tengeri hajózás számára.",
@@ -176,7 +176,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-roman-catholic-church-koror-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Koror", hu: "Korori katolikus templom", ro: "Biserica Catolică din Koror", en: "Roman Catholic Church of Koror" },
-    coordinates: { lat: 7.342, lng: 134.478 },
+    coords: [134.478, 7.342],
     description: {
       de: "Die katholische Kirche im Zentrum von Koror ist ein wichtiger religiöser Treffpunkt für die lokale Bevölkerung. Sie ist dem Heiligsten Herzen Jesu gewidmet.",
       hu: "A Koror központjában található katolikus templom fontos vallási központ a helyi lakosság számára. Jézus Szent Szívének szentelték.",
@@ -195,7 +195,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-national-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Palau Nationalstadion", hu: "Palau Nemzeti Stadion", ro: "Stadionul Național din Palau", en: "Palau National Stadium" },
-    coordinates: { lat: 7.344, lng: 134.481 },
+    coords: [134.481, 7.344],
     description: {
       de: "Das Palau Nationalstadion in Koror ist der wichtigste Ort für Sportveranstaltungen und nationale Feierlichkeiten im Land. Es dient hauptsächlich für Fußballspiele.",
       hu: "A Kororban található Palau Nemzeti Stadion az ország legfontosabb sporteseményeinek és nemzeti ünnepeinek helyszíne. Főleg labdarúgó-mérkőzésekre használják.",
@@ -214,7 +214,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-peleliu-peace-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Peleliu Friedensdenkmal", hu: "Peleliu Békeemlékmű", ro: "Memorialul Păcii din Peleliu", en: "Peleliu Peace Memorial" },
-    coordinates: { lat: 6.982, lng: 134.221 },
+    coords: [134.221, 6.982],
     description: {
       de: "Dieses Denkmal wurde von Japan errichtet, um der Toten der Schlacht von Peleliu zu gedenken und den Frieden zu fördern. Es ist ein Ort der Stille und Reflexion.",
       hu: "Ezt az emlékművet Japán emelte a peleliui csata áldozatainak emlékére és a béke hirdetésére. A csend és az elmélyülés helyszíne.",
@@ -233,7 +233,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-airai-stone-path-landmarks-v2",
     type: "monument",
     name: { de: "Airai Steinpfad", hu: "Airai kőút", ro: "Drumul de Piatră din Airai", en: "Airai Stone Path" },
-    coordinates: { lat: 7.365, lng: 134.556 },
+    coords: [134.556, 7.365],
     description: {
       de: "Der Airai Steinpfad ist ein historischer Verbindungsweg, der aus großen Steinplatten besteht. Er zeugt von der hochentwickelten Baukunst der frühen Palauer.",
       hu: "Az Airai kőút egy hatalmas kőlapokból álló történelmi összekötő út. A korai palauiak fejlett építészeti tudásáról tanúskodik.",
@@ -252,7 +252,7 @@ export const palauLandmarksV2: POI[] = [
     id: "palau-coral-reef-center-landmarks-v2",
     type: "museum",
     name: { de: "Palau Coral Reef Center", hu: "Palau Korallzátony Központ", ro: "Centrul de Recif de Corali Palau", en: "Palau International Coral Reef Center" },
-    coordinates: { lat: 7.338, lng: 134.469 },
+    coords: [134.469, 7.338],
     description: {
       de: "Dieses Zentrum dient der Erforschung und dem Schutz der Unterwasserwelt Palaus. Es beherbergt ein Aquarium, das die Vielfalt der lokalen Korallenriffe zeigt.",
       hu: "A központ Palau vízi világának kutatásával és védelmével foglalkozik. Akváriuma a helyi korallzátonyok lenyűgöző sokféleségét mutatja be.",

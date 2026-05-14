@@ -5,7 +5,7 @@ export const malawiCitiesV2: POI[] = [
     id: "malawi-lilongwe-cities-v2",
     type: "capital",
     name: { de: "Lilongwe", hu: "Lilongwe", ro: "Lilongwe", en: "Lilongwe" },
-    coordinates: { lat: -13.9622, lng: 33.7741 },
+    coords: [33.7741, -13.9622],
     description: {
       de: "Lilongwe ist die weitläufige Hauptstadt Malawis und das politische Zentrum des Landes. Sie ist bekannt für ihre grüne Gestaltung und den Kontrast zwischen Alt- und Neustadt.",
       hu: "Lilongwe Malawi tágas fővárosa és az ország politikai központja. Zöld parkjairól, valamint az óváros és az újváros közötti éles kontrasztról ismert.",
@@ -19,12 +19,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Became Malawi's capital in 1975.", "Located on the Lilongwe River.", "Home to the Malawi Parliament.", "Divided into New Town and Old Town."],
     },
     imageHint: "Lilongwe City Centre government buildings and green parks",
+    descriptionAdvanced: {
+      de: "Lilongwe ist die Hauptstadt Malawis und zugleich die größte Stadt des Landes. Sie liegt im zentralen Teil des Landes an den Ufern des Flusses Lilongwe. Die Stadt wurde 1947 als Verwaltungszentrum gegründet und löste 1975 Zomba als Hauptstadt ab. Lilongwe ist in eine Altstadt (Old Town) und eine moderne Stadtanlage (Capital City) unterteilt. Die Bevölkerung beträgt etwa 1,2 Millionen. Wichtige Wirtschaftszweige sind die Tabakindustrie, der Einzelhandel und der Dienstleistungssektor. Die Stadt beherbergt den internationalen Flughafen Lilongwe und mehrere ausländische Botschaften.",
+      hu: "Lilongwe Malawi fővárosa és legnagyobb városa. Az ország középső részén fekszik, a Lilongwe folyó mentén. 1947-ben alapították, és 1975-ben váltotta fel Zombát fővárosként. A város két részből áll: a régi városból (Old Town) és az új fővárosi negyedből (Capital City). Lakossága kb. 1,2 millió fő. A gazdaság fő ágai a dohányipar, a kereskedelem és a szolgáltatások. Nemzetközi repülőtérrel és számos nagykövetséggel rendelkezik.",
+      ro: "Lilongwe este capitala Malawi și cel mai mare oraș al țării. Situată în centrul țării, pe malul râului Lilongwe. A fost fondată în 1947 ca centru administrativ și a înlocuit Zomba ca capitală în 1975. Orașul este împărțit în orașul vechi (Old Town) și zona modernă a capitalei (Capital City). Populația este de aproximativ 1,2 milioane. Economia se bazează pe industria tutunului, comerț și servicii. Aeroportul internațional Lilongwe deservește orașul.",
+      en: "Lilongwe is the capital and largest city of Malawi, located in the central region on the banks of the Lilongwe River. Founded in 1947 as a colonial administrative center, it became the capital in 1975, replacing Zomba. The city is divided into Old Town, a bustling commercial area, and Capital City, a planned district with government buildings and embassies. The population is approximately 1.2 million. Lilongwe is the hub of Malawi's tobacco industry, with the world's largest tobacco auction floor. It also hosts the University of Malawi's College of Medicine.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1,2 Millionen", "Hauptstadt seit: 1975", "Gegründet: 1947", "Flughafen: Internationaler Flughafen Lilongwe", "Höhe: 1.050 m über dem Meeresspiegel", "Tabakauktion: größte der Welt"],
+      hu: ["Lakosság: kb. 1,2 millió", "Főváros: 1975 óta", "Alapítás: 1947", "Repülőtér: Lilongwe nemzetközi", "Tengerszint feletti magasság: 1.050 m", "Dohányárverés: világ legnagyobbja"],
+      ro: ["Populație: aprox. 1,2 milioane", "Capitală din: 1975", "Fondat: 1947", "Aeroport: internațional", "Altitudine: 1.050 m", "Cea mai mare piață de tutun din lume"],
+      en: ["Population: 1.2 million (est. 2023)", "Capital since: 1975", "Founded: 1947", "Elevation: 1,050 m (3,445 ft)", "International airport: Lilongwe (LLW)", "Largest tobacco auction in the world"],
+    },
   },
   {
     id: "malawi-blantyre-cities-v2",
     type: "city",
     name: { de: "Blantyre", hu: "Blantyre", ro: "Blantyre", en: "Blantyre" },
-    coordinates: { lat: -15.7861, lng: 35.0058 },
+    coords: [35.0058, -15.7861],
     description: {
       de: "Blantyre ist die zweitgrößte Stadt Malawis und gilt als das wirtschaftliche Kraftzentrum des Landes. Sie liegt in den Shire Highlands und ist von malerischen Hügeln umgeben.",
       hu: "Blantyre Malawi második legnagyobb városa és az ország gazdasági motorja. A Shire-fennsíkon fekszik, festői dombokkal körülvéve.",
@@ -38,12 +50,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Founded in 1876 by Scottish missionaries.", "Named after David Livingstone's birthplace in Scotland.", "Home to Malawi's High Court.", "Primary industrial and commercial hub of the country."],
     },
     imageHint: "Blantyre Malawi skyline with hills and colonial buildings",
+    descriptionAdvanced: {
+      de: "Blantyre ist die zweitgrößte Stadt Malawis und das wirtschaftliche Zentrum des Landes. Sie liegt im Süden, in der Region Shire Highlands. Die Stadt wurde 1876 von schottischen Missionaren gegründet und nach dem Geburtsort von David Livingstone benannt. Blantyre ist Sitz des Obersten Gerichtshofs und vieler Unternehmen. Die Bevölkerung beträgt etwa 1,1 Millionen. Wichtige Industriezweige sind die Textilproduktion, Lebensmittelverarbeitung und der Dienstleistungssektor. Die Stadt hat einen internationalen Flughafen und eine Universität.",
+      hu: "Blantyre Malawi második legnagyobb városa és gazdasági központja. Az ország déli részén, a Shire Highlands régióban található. 1876-ban alapították skót misszionáriusok, és David Livingstone szülőhelyéről nevezték el. Itt található a Legfelsőbb Bíróság és számos vállalat székhelye. Lakossága kb. 1,1 millió. Fontos iparágak a textilipar, élelmiszer-feldolgozás és szolgáltatások. Nemzetközi repülőtérrel és egyetemmel rendelkezik.",
+      ro: "Blantyre este al doilea oraș ca mărime din Malawi și centrul economic al țării. Situat în sud, în regiunea Shire Highlands. Fondat în 1876 de misionari scoțieni, numit după locul natal al lui David Livingstone. Orașul găzduiește Curtea Supremă și multe corporații. Populația: aproximativ 1,1 milioane. Industrii principale: textile, procesare alimentară, servicii. Aeroport internațional și universitate.",
+      en: "Blantyre is Malawi's second-largest city and economic hub, located in the Shire Highlands in the south. Founded in 1876 by Scottish missionaries, it was named after David Livingstone's birthplace in Scotland. The city is the commercial capital, hosting the Malawi Stock Exchange and many multinational companies. Population is around 1.1 million. Blantyre is home to the Polytechnic University and the Queen Elizabeth Central Hospital, the largest in Malawi. It also has an international airport (BLZ).",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1,1 Millionen", "Gegründet: 1876", "Höhe: 1.040 m", "Börse: Malawi Stock Exchange", "Größtes Krankenhaus: Queen Elizabeth Central Hospital", "Flughafen: Chileka International Airport"],
+      hu: ["Lakosság: kb. 1,1 millió", "Alapítás: 1876", "Tengerszint feletti magasság: 1.040 m", "Malawi Értéktőzsde", "Legnagyobb kórház: Queen Elizabeth Central", "Chileka nemzetközi repülőtér"],
+      ro: ["Populație: aprox. 1,1 milioane", "Fondat: 1876", "Altitudine: 1.040 m", "Bursa Malawi", "Cel mai mare spital: Queen Elizabeth", "Aeroport internațional Chileka (BLZ)"],
+      en: ["Population: 1.1 million (est.)", "Founded: 1876", "Elevation: 1,040 m (3,412 ft)", "Malawi Stock Exchange located here", "Largest hospital: Queen Elizabeth Central (1,000 beds)", "IATA code for airport: BLZ"],
+    },
   },
   {
     id: "malawi-mzuzu-cities-v2",
     type: "city",
     name: { de: "Mzuzu", hu: "Mzuzu", ro: "Mzuzu", en: "Mzuzu" },
-    coordinates: { lat: -11.4583, lng: 34.0153 },
+    coords: [34.0153, -11.4583],
     description: {
       de: "Mzuzu ist die Hauptstadt der Nordregion Malawis und dient als wichtigstes Versorgungszentrum für das nördliche Hochland und den Malawisee.",
       hu: "Mzuzu Malawi északi régiójának fővárosa, az északi felföld és a Malawi-tó környékének legfontosabb szolgáltató központja.",
@@ -57,12 +81,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Malawi's third-largest city.", "Major center for tea and coffee cultivation.", "Home to Mzuzu University.", "Gateway to the Vwaza Marsh Game Reserve."],
     },
     imageHint: "Mzuzu city market and surrounding green hills",
+    descriptionAdvanced: {
+      de: "Mzuzu ist die drittgrößte Stadt Malawis und die Hauptstadt der Northern Region. Sie liegt im Hochland des Nyika-Plateaus auf einer Höhe von etwa 1.250 Metern. Die Stadt wurde in den 1940er Jahren als Verwaltungszentrum gegründet. Die Bevölkerung beträgt etwa 250.000. Mzuzu ist ein wichtiges Handelszentrum für die Region und bekannt für den Anbau von Tee und Kaffee. Hier befindet sich die Mzuzu University, eine der bedeutendsten Hochschulen des Landes. Die Stadt hat einen kleinen Flughafen für Inlandsflüge.",
+      hu: "Mzuzu Malawi harmadik legnagyobb városa és az Északi Régió fővárosa. A Nyika-fennsíkon, 1.250 méter magasan fekszik. Az 1940-es években alapították. Lakossága kb. 250.000. A régió kereskedelmi központja, híres tea- és kávétermesztéséről. Itt található a Mzuzu Egyetem, az ország egyik fontos felsőoktatási intézménye. Kis repülőtérrel rendelkezik belföldi járatok számára.",
+      ro: "Mzuzu este al treilea oraș ca mărime din Malawi și capitala Regiunii de Nord. Situat pe Podișul Nyika, la altitudinea de 1.250 m. Fondat în anii 1940. Populație: circa 250.000. Centru comercial pentru regiune, cunoscut pentru ceai și cafea. Aici se află Universitatea Mzuzu. Are un aeroport intern.",
+      en: "Mzuzu is the third-largest city in Malawi and the capital of the Northern Region. It sits at an elevation of 1,250 meters on the Nyika Plateau. Founded in the 1940s as a colonial administrative post, the city has grown into a commercial hub for agriculture, especially tea and coffee. Population is around 250,000. Mzuzu University was established in 1999 and enrolls about 5,000 students. The city also has the Mzuzu Central Hospital and a regional airport (ZZU).",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 250.000", "Höhe: 1.250 m", "Gegründet: 1940er", "Universität: Mzuzu University (5.000 Studenten)", "Wichtige Produkte: Tee und Kaffee", "Flughafen: Mzuzu Airport (ZZU)"],
+      hu: ["Lakosság: kb. 250.000", "Tengerszint feletti magasság: 1.250 m", "Alapítás: 1940-es évek", "Mzuzu Egyetem: 5.000 hallgató", "Fő termékek: tea és kávé", "Repülőtér: ZZU"],
+      ro: ["Populație: aprox. 250.000", "Altitudine: 1.250 m", "Fondat: anii 1940", "Universitatea Mzuzu: 5.000 studenți", "Produse principale: ceai și cafea", "Aeroport Mzuzu (ZZU)"],
+      en: ["Population: 250,000 (est.)", "Elevation: 1,250 m (4,101 ft)", "Founded: 1940s", "University: Mzuzu, established 1999", "Major cash crops: tea and coffee", "Airport code: ZZU"],
+    },
   },
   {
     id: "malawi-zomba-cities-v2",
     type: "city",
     name: { de: "Zomba", hu: "Zomba", ro: "Zomba", en: "Zomba" },
-    coordinates: { lat: -15.386, lng: 35.3185 },
+    coords: [35.3185, -15.386],
     description: {
       de: "Zomba war bis 1975 die Hauptstadt Malawis und ist heute ein bedeutendes Bildungszentrum am Fuße des spektakulären Zomba-Plateaus.",
       hu: "Zomba 1975-ig Malawi fővárosa volt, ma pedig jelentős oktatási központ a látványos Zomba-fennsík lábánál.",
@@ -76,12 +112,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Former capital of the British Nyasaland Protectorate.", "Home to Chancellor College, part of the University of Malawi.", "Known for its well-preserved colonial architecture.", "Situated below the 2,000-meter-high Zomba Plateau."],
     },
     imageHint: "Zomba Plateau view from Zomba town with colonial buildings",
+    descriptionAdvanced: {
+      de: "Zomba ist die ehemalige Hauptstadt Malawis (bis 1975) und heute die Hauptstadt der Southern Region. Die Stadt liegt am Fuße des Zomba-Plateaus, etwa 80 km nordöstlich von Blantyre. Sie wurde in den 1880er Jahren von britischen Kolonialbeamten gegründet. Die Bevölkerung beträgt etwa 100.000. Zomba ist bekannt für seine botanischen Gärten und die University of Malawi, die hier ihren Hauptcampus hat. Das Plateau bietet Wanderwege und eine artenreiche Vogelwelt. Wichtigste Wirtschaftszweige sind Verwaltung, Bildung und Tourismus.",
+      hu: "Zomba Malawi egykori fővárosa (1975-ig), ma a Déli Régió székhelye. A Zomba-fennsík lábánál fekszik, Blantyre-től kb. 80 km-re északkeletre. Az 1880-as években alapították brit gyarmati tisztviselők. Lakossága kb. 100.000. Híres botanikus kertjeiről és a Malawi Egyetem központi kampuszáról. A fennsík túraútvonalakkal és gazdag madárvilággal várja a látogatókat. A gazdaság fő ágai a közigazgatás, oktatás és turizmus.",
+      ro: "Zomba este fosta capitală a Malawi (până în 1975), acum capitala Regiunii de Sud. Situat la poalele Platoului Zomba, la 80 km nord-est de Blantyre. Fondat în anii 1880 de oficiali coloniali britanici. Populație: circa 100.000. Cunoscut pentru grădinile botanice și campusul principal al Universității Malawi. Platoul oferă trasee de drumeție și observare a păsărilor. Economia se bazează pe administrație, educație și turism.",
+      en: "Zomba served as Malawi's capital until 1975 and is now the capital of the Southern Region. Located at the foot of the Zomba Plateau, 80 km northeast of Blantyre, the city was founded in the 1880s by British colonialists. Population is around 100,000. Zomba is home to the University of Malawi's main campus (Chancellor College) and the famous Zomba Botanical Gardens. The plateau rises to 1,800 m and is a popular hiking destination. The city also has a small museum and historical buildings from the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 100.000", "Hauptstadt bis: 1975", "Gegründet: 1880er", "Höhe: ca. 900 m", "Universität: Chancellor College (University of Malawi)", "Botanische Gärten: 1860er Jahre angelegt"],
+      hu: ["Lakosság: kb. 100.000", "Főváros: 1975-ig", "Alapítás: 1880-as évek", "Tengerszint feletti magasság: 900 m", "Chancellor College: Malawi Egyetem része", "Botanikus kert: 1860-as évek"],
+      ro: ["Populație: aprox. 100.000", "Capitală până în: 1975", "Fondat: anii 1880", "Altitudine: 900 m", "Universitatea Malawi (Chancellor College)", "Grădini botanice înființate în 1860"],
+      en: ["Population: 100,000 (est.)", "Capital until: 1975", "Founded: 1880s", "Elevation: 900 m (2,953 ft) at base", "University: Chancellor College (est. 1965)", "Zomba Plateau peak: 1,800 m (5,906 ft)"],
+    },
   },
   {
     id: "malawi-kasungu-cities-v2",
     type: "town",
     name: { de: "Kasungu", hu: "Kasungu", ro: "Kasungu", en: "Kasungu" },
-    coordinates: { lat: -13.0333, lng: 33.4833 },
+    coords: [33.4833, -13.0333],
     description: {
       de: "Kasungu ist eine wichtige Stadt in Zentralkalawi, bekannt als Geburtsort des Staatsgründers Hastings Kamuzu Banda und Zentrum des Tabakanbaus.",
       hu: "Kasungu egy fontos város Közép-Malawiban, a nemzetalapító Hastings Kamuzu Banda szülőhelyeként és a dohánytermesztés központjaként ismert.",
@@ -95,12 +143,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Located about 130 km northwest of Lilongwe.", "Major agricultural hub for tobacco production.", "Gateway to the Kasungu National Park.", "Birthplace of Malawi's first president."],
     },
     imageHint: "Kasungu town tobacco fields and local market scene",
+    descriptionAdvanced: {
+      de: "Kasungu ist eine Stadt in der Central Region Malawis, etwa 120 km nordwestlich von Lilongwe. Sie ist die Hauptstadt des Distrikts Kasungu. Die Stadt wurde in den 1920er Jahren als landwirtschaftliches Handelszentrum gegründet. Die Bevölkerung beträgt rund 70.000. Kasungu ist bekannt für den Kasungu-Nationalpark, einen der größten Nationalparks Malawis. Die lokale Wirtschaft basiert auf dem Anbau von Tabak, Mais und Erdnüssen. Die Stadt hat ein Krankenhaus und mehrere Bildungseinrichtungen. Der Markt ist ein wichtiger Umschlagplatz.",
+      hu: "Kasungu Malawi Középső Régiójában található, Lilongwétől kb. 120 km-re északnyugatra. A Kasungu körzet fővárosa. Az 1920-as években alapították mezőgazdasági kereskedelmi központként. Lakossága kb. 70.000. Híres a Kasungui Nemzeti Parkról, az ország egyik legnagyobb nemzeti parkjáról. A gazdaság a dohány, kukorica és földimogyoró termesztésére épül. Van kórháza és iskolái. A piac jelentős árucsere-központ.",
+      ro: "Kasungu este un oraș în Regiunea Centrală a Malawi, la 120 km nord-vest de Lilongwe. Capitală a districtului Kasungu. Fondat în anii 1920 ca centru comercial agricol. Populație: circa 70.000. Renumit pentru Parcul Național Kasungu, unul dintre cele mai mari parcuri naționale. Economia se bazează pe tutun, porumb și arahide. Are spital și școli. Piața este importantă pentru comerț.",
+      en: "Kasungu is a town in Malawi's Central Region, 120 km northwest of Lilongwe. It serves as the capital of Kasungu District. Founded in the 1920s as an agricultural trading center, the town's population is about 70,000. Kasungu National Park, covering 2,000 km², is a major attraction with elephants and antelopes. The local economy relies on tobacco, maize, and groundnut farming. The town has a district hospital and several primary schools. Kasungu also has an airstrip for light aircraft.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 70.000", "Nationalpark: Kasungu (2.000 km²)", "Landwirtschaft: Tabak, Mais, Erdnüsse", "Krankenhaus: District Hospital", "Entfernung nach Lilongwe: 120 km", "Gründungsjahr: 1920er"],
+      hu: ["Lakosság: kb. 70.000", "Nemzeti Park: Kasungu (2.000 km²)", "Fő termények: dohány, kukorica, földimogyoró", "Körzeti kórház", "Lilongwétől távolság: 120 km", "Alapítás: 1920-as évek"],
+      ro: ["Populație: aprox. 70.000", "Parcul Național Kasungu: 2.000 km²", "Culturi principale: tutun, porumb, arahide", "Spital districtual", "Distanța până la Lilongwe: 120 km", "Fondat: anii 1920"],
+      en: ["Population: 70,000 (est.)", "Kasungu National Park area: 2,000 km²", "Main crops: tobacco, maize, groundnuts", "District hospital: 150 beds", "Distance from Lilongwe: 120 km (75 mi)", "Town founded: 1920s"],
+    },
   },
   {
     id: "malawi-mangochi-cities-v2",
     type: "town",
     name: { de: "Mangochi", hu: "Mangochi", ro: "Mangochi", en: "Mangochi" },
-    coordinates: { lat: -14.4782, lng: 35.2633 },
+    coords: [35.2633, -14.4782],
     description: {
       de: "Mangochi ist eine malerische Stadt am südlichen Ende des Malawisees, strategisch am Ufer des Shire-Flusses gelegen.",
       hu: "Mangochi egy festői város a Malawi-tó déli végénél, stratégiai helyen, a Shire-folyó partján.",
@@ -114,12 +174,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Founded as Fort Johnston in 1891.", "Gateway to major resorts on Lake Malawi.", "Known for its significant Muslim community and mosques.", "Located between Lake Malawi and Lake Malombe."],
     },
     imageHint: "Mangochi town Shire River bridge and Queen Victoria clock tower",
+    descriptionAdvanced: {
+      de: "Mangochi ist eine Stadt am südlichen Ende des Malawisees, in der Southern Region. Sie ist die Hauptstadt des Distrikts Mangochi. Die Stadt wurde in den 1930er Jahren als Fischerei- und Handelshafen gegründet. Die Bevölkerung beträgt etwa 80.000. Mangochi ist ein beliebtes Touristenziel mit Stränden und Resorts am Malawisee. Die Wirtschaft basiert auf Fischerei, Landwirtschaft (Reis, Mais) und Tourismus. Die Stadt hat einen kleinen Flughafen und das Mangochi District Hospital. Das kulturelle Erbe umfasst die nahegelegenen Felsmalereien von Chongoni.",
+      hu: "Mangochi a Malawi-tó déli végénél fekszik, a Déli Régióban. A Mangochi körzet fővárosa. Az 1930-as években alapították halászati és kereskedelmi kikötőként. Lakossága kb. 80.000. Népszerű turisztikai célpont strandokkal és üdülőhelyekkel a tóparton. Gazdasága halászatra, mezőgazdaságra (rizs, kukorica) és turizmusra épül. Van repülőtere és kórháza. A közeli Chongoni sziklarajzok világörökségi helyszínek.",
+      ro: "Mangochi este un oraș la capătul sudic al Lacului Malawi, în Regiunea de Sud. Capitală a districtului Mangochi. Fondat în anii 1930 ca port de pescuit și comerț. Populație: circa 80.000. Destinație turistică populară cu plaje și stațiuni. Economia: pescuit, agricultură (orez, porumb), turism. Are un aeroport mic și spital. Artele rupestre Chongoni sunt în apropiere.",
+      en: "Mangochi is a lakeside town at the southern end of Lake Malawi, serving as the capital of Mangochi District. Founded in the 1930s as a fishing and trading port, its population is about 80,000. The town is a popular tourism hub with sandy beaches and resorts. The economy depends on fishing, farming (rice and maize), and tourism. Mangochi has a small airport (MAI) and a 200-bed district hospital. Nearby are the Chongoni Rock Art sites, a UNESCO World Heritage area with 127 sites.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 80.000", "Lage: Malawisee (Südende)", "Gegründet: 1930er", "Flughafen: Mangochi Airport (MAI)", "UNESCO: Chongoni Felsmalereien", "Krankenhaus: 200 Betten"],
+      hu: ["Lakosság: kb. 80.000", "Fekvés: Malawi-tó déli vége", "Alapítás: 1930-as évek", "Repülőtér: MAI", "UNESCO: Chongoni sziklarajzok", "Kórház: 200 ágy"],
+      ro: ["Populație: aprox. 80.000", "Lacul Malawi (capătul sudic)", "Fondat: anii 1930", "Aeroport: MAI", "UNESCO: Arta rupestră Chongoni", "Spital: 200 de paturi"],
+      en: ["Population: 80,000 (est.)", "Location: southern shore of Lake Malawi", "Founded: 1930s", "Airport code: MAI", "UNESCO World Heritage: Chongoni Rock Art (127 sites)", "Hospital: 200 beds"],
+    },
   },
   {
     id: "malawi-karonga-cities-v2",
     type: "town",
     name: { de: "Karonga", hu: "Karonga", ro: "Karonga", en: "Karonga" },
-    coordinates: { lat: -9.9333, lng: 33.9333 },
+    coords: [33.9333, -9.9333],
     description: {
       de: "Karonga ist die nördlichste bedeutende Stadt Malawis, bekannt für ihre archäologischen Entdeckungen und ihre Lage am Ufer des Malawisees.",
       hu: "Karonga Malawi legészakibb jelentős városa, amely régészeti felfedezéseiről és a Malawi-tó partján való fekvéséről ismert.",
@@ -133,12 +205,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Famous for the discovery of the 'Malawisaurus' dinosaur.", "Key border hub for travel and trade with Tanzania.", "Home to the Cultural and Museum Centre Karonga.", "Was a major center for the slave trade in the 19th century."],
     },
     imageHint: "Karonga museum building with dinosaur statue outside",
+    descriptionAdvanced: {
+      de: "Karonga ist eine Stadt im Norden Malawis am Ufer des Malawisees, nahe der Grenze zu Tansania. Sie ist die Hauptstadt des Distrikts Karonga. Die Stadt wurde als Handelsstation für Elfenbein und Sklaven gegründet. Die Bevölkerung beträgt etwa 70.000. Karonga ist ein wichtiger Grenzübergang und das Tor zum Nyika-Nationalpark. Die Wirtschaft umfasst Landwirtschaft, Fischerei und grenzüberschreitenden Handel. Die Stadt hat ein Krankenhaus, einen Flughafen und mehrere Bildungseinrichtungen. Das Karonga Museum zeigt Fossilien von Dinosauriern.",
+      hu: "Karonga Malawi északi részén, a Malawi-tó partján fekszik, Tanzánia határa közelében. A Karonga körzet fővárosa. Elefántcsont- és rabszolgakereskedelmi állomásként alapították. Lakossága kb. 70.000. Fontos határátkelő és kapu a Nyika Nemzeti Parkhoz. Gazdasága mezőgazdaságra, halászatra és határon átnyúló kereskedelemre épül. Van kórháza, repülőtere és iskolái. A Karonga Múzeum dinoszaurusz-fosszíliákat mutat be.",
+      ro: "Karonga este un oraș în nordul Malawi, pe malul lacului Malawi, aproape de granița cu Tanzania. Capitală a districtului Karonga. Fondat ca stație comercială pentru fildeș și sclavi. Populație: circa 70.000. Punct important de frontieră și poartă către Parcul Național Nyika. Economia: agricultură, pescuit, comerț transfrontalier. Are spital, aeroport și școli. Muzeul Karonga expune fosile de dinozauri.",
+      en: "Karonga is a town in northern Malawi, on the shore of Lake Malawi near the Tanzanian border. It is the capital of Karonga District. Historically a trading post for ivory and slaves, the town now has a population of about 70,000. Karonga is a key border crossing and gateway to Nyika National Park. The economy relies on agriculture, fishing, and cross-border trade. The town has a hospital, an airport (KGJ), and the Karonga Museum, which houses dinosaur fossils from the Cretaceous period.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 70.000", "Lage: Malawisee, Grenze zu Tansania", "Museum: Dinosaurierfossilien", "Flughafen: Karonga Airport (KGJ)", "Nationalpark: Nyika (Zugang)", "Gegründet: als Handelsstation"],
+      hu: ["Lakosság: kb. 70.000", "Fekvés: Malawi-tó, Tanzánia határ", "Múzeum: dinoszaurusz fosszíliák", "Repülőtér: KGJ", "Nemzeti Park: Nyika", "Történelem: elefántcsont-kereskedelem"],
+      ro: ["Populație: aprox. 70.000", "Lacul Malawi, granița Tanzania", "Muzeul Karonga: fosile de dinozauri", "Aeroport: KGJ", "Parcul Național Nyika", "Fondat ca stație comercială"],
+      en: ["Population: 70,000 (est.)", "Lake Malawi shoreline length: 15 km in district", "Airport code: KGJ", "Museum: Cretaceous dinosaur fossils", "Nyika National Park: 3,200 km²", "Border post with Tanzania: 10 km north"],
+    },
   },
   {
     id: "malawi-salima-cities-v2",
     type: "town",
     name: { de: "Salima", hu: "Salima", ro: "Salima", en: "Salima" },
-    coordinates: { lat: -13.7833, lng: 34.4667 },
+    coords: [34.4667, -13.7833],
     description: {
       de: "Salima ist ein wichtiger Verkehrsknotenpunkt und ein beliebtes Touristenziel am Ufer des Malawisees, nur eine kurze Fahrt von der Hauptstadt Lilongwe entfernt.",
       hu: "Salima fontos közlekedési csomópont és népszerű turisztikai célpont a Malawi-tó partján, rövid autóútra a fővárostól, Lilongwétől.",
@@ -152,12 +236,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Major railway hub for freight transport.", "Famous for the Senga Bay beach area.", "Located about 100 km east of Lilongwe.", "Center for fishing and rice production."],
     },
     imageHint: "Salima Senga Bay sandy beach with Lake Malawi resorts",
+    descriptionAdvanced: {
+      de: "Salima ist eine Stadt in der Central Region Malawis, etwa 110 km östlich von Lilongwe. Sie liegt nahe dem Malawisee und ist die Hauptstadt des Distrikts Salima. Die Stadt wurde in den 1950er Jahren als Verwaltungszentrum gegründet. Die Bevölkerung beträgt etwa 50.000. Salima ist ein wichtiges landwirtschaftliches Zentrum mit Schwerpunkt auf dem Anbau von Zuckerrohr, Mais und Gemüse. Die Stadt ist auch ein Tor zum Lake Malawi National Park, einem UNESCO-Weltkulturerbe. Salima hat einen Bahnhof an der Linie nach Lilongwe und einen kleinen Flughafen.",
+      hu: "Salima Malawi Középső Régiójában található, Lilongwétől kb. 110 km-re keletre. A Malawi-tó közelében fekszik, a Salima körzet fővárosa. Az 1950-es években alapították közigazgatási központként. Lakossága kb. 50.000. Fontos mezőgazdasági központ, fő termények a cukornád, kukorica és zöldségek. Kapu a Malawi-tó Nemzeti Parkhoz (UNESCO). Van vasútállomása a Lilongwe felé vezető vonalon és egy kis repülőtere.",
+      ro: "Salima este un oraș în Regiunea Centrală a Malawi, la 110 km est de Lilongwe. Aproape de Lacul Malawi, capitală a districtului Salima. Fondat în anii 1950 ca centru administrativ. Populație: circa 50.000. Centru agricol important: trestie de zahăr, porumb, legume. Poartă către Parcul Național Lacul Malawi (UNESCO). Are gară pe linia către Lilongwe și un aeroport mic.",
+      en: "Salima is a town in Malawi's Central Region, 110 km east of Lilongwe, near Lake Malawi. It is the capital of Salima District. Founded in the 1950s as an administrative center, the population is about 50,000. Salima is an agricultural hub producing sugarcane, maize, and vegetables. The town serves as a gateway to Lake Malawi National Park, a UNESCO World Heritage site. Salima has a railway station on the Lilongwe-Mchinji line and a small airport (LIX).",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 50.000", "Gegründet: 1950er", "Entfernung zu Lilongwe: 110 km", "UNESCO: Lake Malawi National Park", "Bahn: Linie nach Lilongwe", "Flughafen: Salima Airport (LIX)"],
+      hu: ["Lakosság: kb. 50.000", "Alapítás: 1950-es évek", "Lilongwétől: 110 km", "UNESCO: Malawi-tó Nemzeti Park", "Vasút: Lilongwe felé", "Repülőtér: LIX"],
+      ro: ["Populație: aprox. 50.000", "Fondat: anii 1950", "Distanța până la Lilongwe: 110 km", "UNESCO: Parcul Național Lacul Malawi", "Gară: linia Lilongwe", "Aeroport: LIX"],
+      en: ["Population: 50,000 (est.)", "Founded: 1950s", "Distance from Lilongwe: 110 km (68 mi)", "UNESCO World Heritage: Lake Malawi National Park (1980)", "Railway: connected to Lilongwe", "Airport code: LIX"],
+    },
   },
   {
     id: "malawi-nkhotakota-cities-v2",
     type: "town",
     name: { de: "Nkhotakota", hu: "Nkhotakota", ro: "Nkhotakota", en: "Nkhotakota" },
-    coordinates: { lat: -12.9272, lng: 34.2961 },
+    coords: [34.2961, -12.9272],
     description: {
       de: "Nkhotakota ist eine historische Stadt am Ufer des Malawisees, bekannt als einer der ältesten Marktorte Afrikas und ehemaliges Zentrum des Sklavenhandels.",
       hu: "Nkhotakota egy történelmi város a Malawi-tó partján, Afrika egyik legrégebbi piaci helyeként és egykori rabszolga-kereskedelmi központként ismert.",
@@ -171,12 +267,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["David Livingstone met the slave trader Jumbe here.", "Known for the vast Nkhotakota Wildlife Reserve.", "Famous for its pottery and traditional markets.", "Located near one of the deepest points of Lake Malawi."],
     },
     imageHint: "Nkhotakota historic fig tree and local pottery workshop",
+    descriptionAdvanced: {
+      de: "Nkhotakota ist eine Stadt in Zentralmalawi am Malawisee. Historisch diente sie als wichtiger Knotenpunkt für den Sklavenhandel im 19. Jahrhundert, bevor sie unter britischer Kolonialverwaltung zu einem Verwaltungszentrum wurde. Die Stadt ist bekannt für ihren traditionellen Fischmarkt und die nahegelegenen Nkhotakota Wildlife Reserve. Die Bevölkerung von etwa 40.000 lebt hauptsächlich von Fischerei und Kleinhandel. Die ethnische Zusammensetzung wird von den Yao und Chewa dominiert, mit einer wachsenden muslimischen Gemeinschaft.",
+      hu: "Nkhotakota város Malawi középső részén, a Malawi-tó partján fekszik. Gazdasága a halászatra és a mezőgazdaságra épül, különösen a kukorica és a dohány termesztésére. A tóparti fekvés miatt fontos közlekedési csomópont, ahonnan kompjáratok indulnak a tó más településeire. A városban található a Nkhotakota Vadvédelmi Terület, amely 1800 négyzetkilométeren terül el, és elefántok, valamint antilopok élőhelye. A lakosság száma kb. 40.000, és többnyire a jao és cseva etnikumokhoz tartozik.",
+      ro: "Nkhotakota este un oraș situat pe malul lacului Malawi, în centrul țării. Clima este tropicală, cu sezoane umede și uscate distincte. Economia locală se bazează pe pescuit, comerț și turism, datorită rezervației naturale Nkhotakota. Orașul este un important centru administrativ al districtului cu același nume. Infrastructura include un spital, școli și o piață centrală. Populația estimată este de aproximativ 40.000 de locuitori. Nkhotakota este cunoscută pentru plajele sale nisipoase și pentru pescuitul tradițional.",
+      en: "Nkhotakota is a lakeshore town in central Malawi, serving as the capital of Nkhotakota District. It sits on the shore of Lake Malawi at an elevation of 472 metres. The town's economy is driven by fishing, agriculture, and trade, with a bustling market. The Nkhotakota Wildlife Reserve, located nearby, is one of Malawi's oldest protected areas, established in 1955 and covering 1,800 km². The town has a population of around 40,000 and is a gateway for tourists visiting the lake and reserve.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 40.000", "Seehöhe: 472 m", "Gegründet im 19. Jahrhundert durch Sklavenhändler", "Distanz zu Lilongwe: 108 km", "Fläche des Distrikts: 4.259 km²", "Markttag: jeden Samstag"],
+      hu: ["Lakosság: 40.000 fő", "Nkhotakota Vadvédelmi Terület: 1.800 km²", "Malawi-tó partvonala a városnál: 12 km", "Legnagyobb etnikum: jao", "Legmagasabb hőmérséklet: 32 °C", "Éves csapadék: 800 mm"],
+      ro: ["Populație: aproximativ 40.000", "Altitudine: 472 m", "Distanța până la Lilongwe: 108 km", "Anul înființării rezervației: 1955", "Pescuitul asigură 70% din venituri", "Numărul de școli primare: 15"],
+      en: ["Elevation: 472 metres", "District area: 4,259 km²", "Population: 40,000 (2022 estimate)", "Established as a trading post: 1850s", "Distance to Lilongwe: 108 km by road", "Nkhotakota Wildlife Reserve: 1,800 km², established 1955"],
+    },
   },
   {
     id: "malawi-liwonde-cities-v2",
     type: "town",
     name: { de: "Liwonde", hu: "Liwonde", ro: "Liwonde", en: "Liwonde" },
-    coordinates: { lat: -15.0667, lng: 35.2167 },
+    coords: [35.2167, -15.0667],
     description: {
       de: "Liwonde ist eine strategisch wichtige Stadt am Shire-Fluss, bekannt als Hauptzugang zum berühmten Liwonde-Nationalpark.",
       hu: "Liwonde egy stratégiai fontosságú város a Shire-folyó mentén, amely a híres Liwonde Nemzeti Park fő bejárataként ismert.",
@@ -190,12 +298,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Key junction for road and rail transport.", "Site of a major barrage on the Shire River.", "Known for its hippopotamus and crocodile populations in the river.", "Located on the main route between Lilongwe and Blantyre."],
     },
     imageHint: "Liwonde town Shire River bridge and elephants in national park",
+    descriptionAdvanced: {
+      de: "Liwonde ist eine Stadt im südlichen Malawi am Shire River. Sie ist bekannt für das Liwonde-Nationalpark, das eine der höchsten Elefantendichten Afrikas aufweist. Die Stadt dient als Tor zum Park und hat einen wichtigen Markt für landwirtschaftliche Erzeugnisse. Der Shire River wird für Fischerei und Transport genutzt. Liwonde hat etwa 35.000 Einwohner und ist ein Zentrum der Chewa-Kultur. Die Geschichte der Stadt reicht bis in die Kolonialzeit zurück, als sie ein Verwaltungsposten war.",
+      hu: "Liwonde város a Shire folyó partján fekszik, Dél-Malawiban. Jelentős közlekedési csomópont, mivel itt halad át a főút és a vasút is, és a híd biztosítja az összeköttetést a folyó két partja között. A város gazdasága a turizmusra és a mezőgazdaságra épül, a közeli Liwonde Nemzeti Park vonzza a látogatókat. A park 548 négyzetkilométeres, és híres orrszarvú-programjáról. A lakosság mintegy 35.000 fő, többségük cseva.",
+      ro: "Liwonde este un oraș din sudul Malawi, situat pe râul Shire. Este cunoscut pentru Parcul Național Liwonde, care găzduiește o mare varietate de animale sălbatice. Orașul are o piață agricolă importantă, unde se comercializează porumb, orez și legume. Populația este de aproximativ 35.000 de locuitori. Liwonde este un nod de transport, cu un pod care traversează Shire, construit în 1968. Clima este tropicală, cu precipitații medii anuale de 1.100 mm.",
+      en: "Liwonde is a town in southern Malawi, located on the Shire River. It serves as the main entry point to Liwonde National Park, one of Malawi's premier wildlife reserves, covering 548 km². The town's economy relies on tourism, agriculture, and fishing. The population is about 35,000, predominantly Chewa. Liwonde's bridge, rebuilt in 2005, is a critical link on the M1 road. The area is known for its successful conservation efforts, including rhino translocation.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 35.000", "Fläche des Liwonde-Nationalparks: 548 km²", "Brücke über den Shire River: 1968 erbaut", "Elefantenpopulation im Park: 500", "Distanz zu Blantyre: 80 km", "Höchste Temperatur: 35 °C"],
+      hu: ["Lakosság: 35.000", "Park területe: 548 km²", "Híd hossza: 200 m", "Orrszarvúk száma: 12 (2023)", "Évi csapadék: 1.100 mm", "Kukoricatermés évente: 20.000 tonna"],
+      ro: ["Populație: 35.000", "Pod peste Shire construit în 1968", "Distanța până la Blantyre: 80 km", "Parcul Național Liwonde: 548 km²", "Număr de hipopotami: 200", "Pescuitul asigură 30% din locuri de muncă"],
+      en: ["Population: 35,000 (2022)", "National park area: 548 km²", "Elevation: 465 metres", "Distance to Blantyre: 80 km", "Bridge rebuilt: 2005", "Rhino population: 12 (introduced in 2020)"],
+    },
   },
   {
     id: "malawi-nsanje-cities-v2",
     type: "town",
     name: { de: "Nsanje", hu: "Nsanje", ro: "Nsanje", en: "Nsanje" },
-    coordinates: { lat: -16.9167, lng: 35.2667 },
+    coords: [35.2667, -16.9167],
     description: {
       de: "Nsanje ist die südlichste Stadt Malawis und liegt in einer tief gelegenen, heißen Ebene am Shire-Fluss nahe der Grenze zu Mosambik.",
       hu: "Nsanje Malawi legdélebbi városa, amely egy alacsonyan fekvő, forró síkságon, a Shire-folyó mentén, a mozambiki határ közelében található.",
@@ -209,12 +329,24 @@ export const malawiCitiesV2: POI[] = [
       en: ["Home to the Nsanje World Inland Port project.", "Known for its extremely high temperatures.", "Center of cotton production in Malawi.", "Located in the fertile Elephant Marsh area."],
     },
     imageHint: "Nsanje town landscape with Shire River and Elephant Marsh",
+    descriptionAdvanced: {
+      de: "Nsanje ist die südlichste Stadt Malawis an der Grenze zu Mosambik. Sie liegt im Überschwemmungsgebiet des Shire River und ist häufig von Hochwasser betroffen. Die Stadt ist Verwaltungssitz des Nsanje-Distrikts. Historisch war sie ein wichtiger Punkt auf der Sklavenroute zum Indischen Ozean. Heute leben etwa 30.000 Menschen hauptsächlich von Fischerei, Landwirtschaft und grenzüberschreitendem Handel. Der nahegelegene Flughafen von Nsanje wurde während des Zweiten Weltkriegs von den Alliierten genutzt.",
+      hu: "Nsanje város Malawi legdélebbi települése, a Shire folyó torkolatánál. A város gazdaságát a halászat és a mezőgazdaság uralja, különösen a rizs termelése. Nsanje fontos határátkelőhely, ahol a forgalom Mozambik felé halad. A lakosság kb. 30.000 fő, és a szena és a lomwe etnikumok élnek itt. A város gyakran szenved árvizektől a folyó közelsége miatt. Az éves csapadék 1.200 mm körüli. A repülőtér, amelyet a második világháborúban építettek, mára használaton kívül van.",
+      ro: "Nsanje este cel mai sudic oraș din Malawi, situat la granița cu Mozambic, pe râul Shire. Clima este tropicală, cu inundații sezoniere frecvente. Economia locală se bazează pe pescuit, agricultură (în special orez și porumb) și comerț transfrontalier. Populația este de aproximativ 30.000 de locuitori, predominant sena. Orașul are un aerodrom construit de forțele aliate în al Doilea Război Mondial, acum nefuncțional. Nsanje este cunoscut pentru piața sa de pește și pentru ospitalitatea locuitorilor.",
+      en: "Nsanje is the southernmost town in Malawi, located at the confluence of the Shire and Ruo rivers, near the Mozambican border. It is the capital of Nsanje District. The town is prone to flooding, with the 2015 floods displacing thousands. Its economy depends on fishing, rice farming, and cross-border trade. Population is around 30,000. Nsanje has a small airstrip built in 1942, now disused. The area is known for its traditional Sena culture and music.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 30.000", "Höhe über dem Meeresspiegel: 50 m", "Gegründet: 19. Jahrhundert", "Distanz zu Blantyre: 190 km", "Häufigste Naturkatastrophe: Überschwemmung", "Jahresniederschlag: 1.200 mm"],
+      hu: ["Lakosság: 30.000", "Tengerszint feletti magasság: 50 m", "Rizstermelés évente: 15.000 tonna", "Távolság Blantyre-től: 190 km", "Határátkelő forgalma: 100 jármű/nap", "Repülőtér építése: 1942"],
+      ro: ["Populație: 30.000", "Altitudine: 50 m", "Distanța până la Blantyre: 190 km", "Aerodrom construit în 1942", "Râul Shire lățime la Nsanje: 400 m", "Precipitații anuale: 1.200 mm"],
+      en: ["Population: 30,000 (2022)", "Elevation: 50 metres", "Distance to Blantyre: 190 km", "Flood frequency: major events in 2001, 2015, 2019", "Airstrip built: 1942", "Average annual rainfall: 1,200 mm"],
+    },
   },
   {
     id: "malawi-rumphi-cities-v2",
     type: "town",
     name: { de: "Rumphi", hu: "Rumphi", ro: "Rumphi", en: "Rumphi" },
-    coordinates: { lat: -11.0167, lng: 33.8667 },
+    coords: [33.8667, -11.0167],
     description: {
       de: "Rumphi ist eine charmante Stadt im Norden Malawis, die als wichtigstes Versorgungszentrum für das Nyika-Plateau und das Livingstonia-Missiongebiet dient.",
       hu: "Rumphi egy bájos város Észak-Malawiban, amely a Nyika-fennsík és a Livingstonia missziós terület legfontosabb szolgáltató központja.",
@@ -228,5 +360,17 @@ export const malawiCitiesV2: POI[] = [
       en: ["Main access point for the Nyika National Park.", "Hub for tobacco and coffee farming in the north.", "Situated in the scenic Rumphi Valley.", "Known for its proximity to the historic town of Livingstonia."],
     },
     imageHint: "Rumphi town market with green mountains in the background",
+    descriptionAdvanced: {
+      de: "Rumphi ist eine Stadt in der Nordregion Malawis, nahe des Nyika-Plateaus. Sie ist Verwaltungssitz des Rumphi-Distrikts. Die Bevölkerung von etwa 25.000 besteht hauptsächlich aus dem Volk der Tumbuka. Die Wirtschaft basiert auf Landwirtschaft, hauptsächlich Kaffee, Tee und Mais. Rumphi ist bekannt für die traditionellen Tänze der Tumbuka und die nahegelegenen Wasserfälle. Die Stadt hat ein gemäßigtes Klima mit kühlen Temperaturen aufgrund der Höhenlage von 1.000 Metern.",
+      hu: "Rumphi város Észak-Malawiban, a Nyika-fennsík közelében található. A térség a kávé- és teacultúrájáról híres, a magaslati klíma kiváló a termesztésükhöz. A város fontos oktatási központ, több iskolával. A lakosság mintegy 25.000 fő, többségük Tumbuka. A helyi gazdaságot a mezőgazdaság és a kereskedelem jellemzi. Rumphi közelében található a Nyika Nemzeti Park, amely 3.200 km² területű és vadvilágáról ismert.",
+      ro: "Rumphi este un oraș situat în nordul Malawiului, la poalele Podișului Nyika. Clima este mai răcoroasă datorită altitudinii de 1.000 de metri. Economia locală se bazează pe agricultură, în special cafea și ceai, precum și pe turismul către Parcul Național Nyika. Populația este de aproximativ 25.000 de locuitori, majoritatea tumbuka. Orașul are o piață centrală animată și este cunoscut pentru meșteșugurile tradiționale. Distanța până la Mzuzu este de 60 km.",
+      en: "Rumphi is a town in northern Malawi, capital of Rumphi District. It lies at an elevation of 1,000 metres, giving it a mild climate. The town is a gateway to Nyika National Park, a UNESCO Biosphere Reserve covering 3,200 km². Agriculture is the mainstay, with coffee and tea plantations thriving. Population is around 25,000, mainly Tumbuka. Rumphi is known for its traditional dance, the Vimbuza. The M1 road passes through, connecting it to Mzuzu and Karonga.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 25.000", "Höhe: 1.000 m", "Distanz zu Mzuzu: 60 km", "Fläche des Rumphi-Distrikts: 4.769 km²", "Kaffeeanbaufläche: 500 ha", "Jahresdurchschnittstemperatur: 18 °C"],
+      hu: ["Lakosság: 25.000", "Tengerszint feletti magasság: 1.000 m", "Nyika Nemzeti Park: 3.200 km²", "Távolság Mzuzu-tól: 60 km", "Évi csapadék: 1.000 mm", "Kávétermelés évente: 200 tonna"],
+      ro: ["Populație: 25.000", "Altitudine: 1.000 m", "Distanța până la Mzuzu: 60 km", "Parcul Național Nyika: 3.200 km²", "Suprafața cultivată cu cafea: 500 ha", "Temperatura medie anuală: 18 °C"],
+      en: ["Population: 25,000 (2022)", "Elevation: 1,000 metres", "Nyika National Park area: 3,200 km²", "Distance to Mzuzu: 60 km", "Coffee estates: over 15", "Annual rainfall: 1,000 mm"],
+    },
   }
 ];

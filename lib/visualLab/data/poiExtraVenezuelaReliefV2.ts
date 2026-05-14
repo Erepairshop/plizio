@@ -5,7 +5,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-auyan-tepui-relief-v2",
     type: "mountain",
     name: { de: "Auyán-Tepui", hu: "Auyán-tepui", ro: "Auyán-Tepui", en: "Auyán-Tepui" },
-    coordinates: { lat: 5.912, lng: -62.536 },
+    coords: [-62.536, 5.912],
     description: {
       de: "Auyán-Tepui ist ein massiver Tafelberg im Canaima-Nationalpark. Er ist bekannt als die Quelle des Angel Falls, des höchsten Wasserfalls der Welt.",
       hu: "Az Auyán-tepui egy hatalmas táblahegy a Canaima Nemzeti Parkban. Ez az Angel-vízesés, a világ legmagasabb vízesésének forrása.",
@@ -24,7 +24,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-duida-relief-v2",
     type: "mountain",
     name: { de: "Mount Duida", hu: "Duida-hegy", ro: "Muntele Duida", en: "Mount Duida" },
-    coordinates: { lat: 3.568, lng: -65.651 },
+    coords: [-65.651, 3.568],
     description: {
       de: "Mount Duida ist ein gewaltiger Tepui im Bundesstaat Amazonas. Er ragt steil aus dem umliegenden tropischen Regenwald empor.",
       hu: "A Duida-hegy egy hatalmas táblahegy Amazonas államban. Meredeken emelkedik ki a környező trópusi esőerdőből.",
@@ -43,7 +43,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-el-leon-relief-v2",
     type: "peak",
     name: { de: "Pico El León", hu: "Pico El León", ro: "Pico El León", en: "Pico El León" },
-    coordinates: { lat: 8.563, lng: -71.016 },
+    coords: [-71.016, 8.563],
     description: {
       de: "Pico El León ist ein Berg in der Sierra Nevada de Mérida, der eine Höhe von 4.740 Metern erreicht. Er ist Teil des Nationalparks Sierra Nevada.",
       hu: "A Pico El León egy hegy a Sierra Nevada de Mérida hegységben, 4740 méteres magassággal. A Sierra Nevada Nemzeti Park része.",
@@ -62,7 +62,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-chimanta-massif-relief-v2",
     type: "mountain",
     name: { de: "Chimantá-Massiv", hu: "Chimantá-masszívum", ro: "Masivul Chimantá", en: "Chimantá Massif" },
-    coordinates: { lat: 5.285, lng: -62.138 },
+    coords: [-62.138, 5.285],
     description: {
       de: "Das Chimantá-Massiv ist eine Gruppe von Tepuis im Bundesstaat Bolívar. Es zeichnet sich durch ein komplexes System von Hochebenen aus.",
       hu: "A Chimantá-masszívum egy táblahegycsoport Bolívar államban. Komplex fennsíkrendszer jellemzi.",
@@ -81,7 +81,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-autana-relief-v2",
     type: "mountain",
     name: { de: "Mount Autana", hu: "Autana-hegy", ro: "Muntele Autana", en: "Mount Autana" },
-    coordinates: { lat: 4.872, lng: -67.452 },
+    coords: [-67.452, 4.872],
     description: {
       de: "Mount Autana ist ein markanter Tepui im Bundesstaat Amazonas. Er ist für seine steilen Felswände und die Durchbohrung durch eine Höhle bekannt.",
       hu: "Az Autana-hegy egy jellegzetes táblahegy Amazonas államban. Meredek sziklafalairól és a rajta áthaladó barlangról ismert.",
@@ -100,7 +100,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-el-aguila-relief-v2",
     type: "peak",
     name: { de: "Pico El Águila", hu: "Pico El Águila", ro: "Pico El Águila", en: "Pico El Águila" },
-    coordinates: { lat: 8.847, lng: -70.822 },
+    coords: [-70.822, 8.847],
     description: {
       de: "Pico El Águila, auch bekannt als Collado del Cóndor, ist einer der höchsten befahrbaren Punkte in den venezolanischen Anden.",
       hu: "A Pico El Águila, más néven Collado del Cóndor, a venezuelai Andok egyik legmagasabb pontja, ahová autóval is el lehet jutni.",
@@ -119,7 +119,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-kukenan-tepui-relief-v2",
     type: "mountain",
     name: { de: "Kukenán-Tepui", hu: "Kukenán-tepui", ro: "Kukenán-Tepui", en: "Kukenán-Tepui" },
-    coordinates: { lat: 5.195, lng: -60.835 },
+    coords: [-60.835, 5.195],
     description: {
       de: "Kukenán-Tepui ist ein bekannter Tafelberg in der Nähe von Mount Roraima. Er gilt bei den Pemon-Indigenen als heiliger Ort.",
       hu: "A Kukenán-tepui egy ismert táblahegy a Roraima-hegy közelében. A Pemon bennszülöttek szent helyként tisztelik.",
@@ -138,7 +138,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-sierra-de-perija-relief-v2",
     type: "mountain",
     name: { de: "Sierra de Perijá", hu: "Sierra de Perijá", ro: "Sierra de Perijá", en: "Sierra de Perijá" },
-    coordinates: { lat: 10.158, lng: -72.825 },
+    coords: [-72.825, 10.158],
     description: {
       de: "Die Sierra de Perijá bildet die natürliche Grenze zwischen Venezuela und Kolumbien. Sie ist ein bergiges Gebiet mit hoher Biodiversität.",
       hu: "A Sierra de Perijá képezi a természetes határt Venezuela és Kolumbia között. Hegyes terület, magas biológiai sokféleséggel.",
@@ -157,7 +157,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-mucuchies-relief-v2",
     type: "peak",
     name: { de: "Pico Mucuchíes", hu: "Pico Mucuchíes", ro: "Pico Mucuchíes", en: "Pico Mucuchíes" },
-    coordinates: { lat: 8.795, lng: -70.925 },
+    coords: [-70.925, 8.795],
     description: {
       de: "Pico Mucuchíes ist ein Berg in der Sierra de la Culata im Bundesstaat Mérida. Er erreicht eine Höhe von etwa 4.600 Metern.",
       hu: "A Pico Mucuchíes egy hegy a Sierra de la Culata hegységben, Mérida államban. Körülbelül 4600 méter magas.",
@@ -176,7 +176,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-cuyuni-relief-v2",
     type: "mountain",
     name: { de: "Cuyuni-Hochland", hu: "Cuyuni-felföld", ro: "Podișul Cuyuni", en: "Cuyuni Highlands" },
-    coordinates: { lat: 6.385, lng: -61.352 },
+    coords: [-61.352, 6.385],
     description: {
       de: "Das Cuyuni-Hochland ist eine Region im Südosten Venezuelas, die durch ihre hügelige Topographie und dichte Wälder geprägt ist.",
       hu: "A Cuyuni-felföld egy régió Venezuela délkeleti részén, amelyet dombos domborzat és sűrű erdők jellemeznek.",
@@ -195,7 +195,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-sierra-de-la-culata-relief-v2",
     type: "mountain",
     name: { de: "Sierra de la Culata", hu: "Sierra de la Culata", ro: "Sierra de la Culata", en: "Sierra de la Culata" },
-    coordinates: { lat: 8.852, lng: -71.125 },
+    coords: [-71.125, 8.852],
     description: {
       de: "Die Sierra de la Culata ist eine bedeutende Bergkette in den venezolanischen Anden, nördlich der Stadt Mérida gelegen.",
       hu: "A Sierra de la Culata egy jelentős hegylánc a venezuelai Andokban, Mérida várostól északra.",
@@ -214,7 +214,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-guirigay-relief-v2",
     type: "peak",
     name: { de: "Pico Guirigay", hu: "Pico Guirigay", ro: "Pico Guirigay", en: "Pico Guirigay" },
-    coordinates: { lat: 8.875, lng: -70.785 },
+    coords: [-70.785, 8.875],
     description: {
       de: "Pico Guirigay ist ein markanter Gipfel in der Sierra de la Culata. Er ist bekannt für seine raue, alpine Landschaft.",
       hu: "A Pico Guirigay egy jellegzetes csúcs a Sierra de la Culata hegységben. Zord, alpesi tájáról ismert.",
@@ -233,7 +233,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-sierra-de-san-luis-relief-v2",
     type: "mountain",
     name: { de: "Sierra de San Luis", hu: "Sierra de San Luis", ro: "Sierra de San Luis", en: "Sierra de San Luis" },
-    coordinates: { lat: 11.168, lng: -69.658 },
+    coords: [-69.658, 11.168],
     description: {
       de: "Die Sierra de San Luis ist eine Bergkette im Bundesstaat Falcón. Sie bietet ein kühl-feuchtes Klima inmitten trockenerer Gebiete.",
       hu: "A Sierra de San Luis egy hegylánc Falcón államban. Hűvös-nedves éghajlatot biztosít a szárazabb területek közepette.",
@@ -252,7 +252,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-pulpito-relief-v2",
     type: "peak",
     name: { de: "Pico Púlpito", hu: "Pico Púlpito", ro: "Pico Púlpito", en: "Pico Púlpito" },
-    coordinates: { lat: 8.585, lng: -71.012 },
+    coords: [-71.012, 8.585],
     description: {
       de: "Pico Púlpito ist ein Gipfel in der Sierra Nevada de Mérida. Er zeichnet sich durch seine charakteristische Felsform aus.",
       hu: "A Pico Púlpito egy csúcs a Sierra Nevada de Mérida hegységben. Jellemző sziklaformájáról ismerhető fel.",
@@ -271,7 +271,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-tepui-sarisarinama-relief-v2",
     type: "mountain",
     name: { de: "Sarisariñama-Tepui", hu: "Sarisariñama-tepui", ro: "Sarisariñama-Tepui", en: "Sarisariñama-Tepui" },
-    coordinates: { lat: 4.675, lng: -64.238 },
+    coords: [-64.238, 4.675],
     description: {
       de: "Sarisariñama-Tepui ist für seine riesigen, kreisrunden Dolinen bekannt. Er befindet sich im abgelegenen Nationalpark Jaua-Sarisariñama.",
       hu: "A Sarisariñama-tepui hatalmas, kör alakú víznyelőiről ismert. A távoli Jaua-Sarisariñama Nemzeti Parkban található.",
@@ -290,7 +290,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-neblina-relief-v2",
     type: "mountain",
     name: { de: "Mount Neblina", hu: "Neblina-hegy", ro: "Muntele Neblina", en: "Mount Neblina" },
-    coordinates: { lat: 0.812, lng: -66.015 },
+    coords: [-66.015, 0.812],
     description: {
       de: "Mount Neblina ist der höchste Berg Brasiliens und Venezuelas im Grenzgebiet des Guayana-Hochlandes.",
       hu: "A Neblina-hegy Brazília és Venezuela legmagasabb hegye a Guyanai-felföld határvidékén.",
@@ -309,7 +309,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-sierra-de-falcon-relief-v2",
     type: "mountain",
     name: { de: "Sierra de Falcón", hu: "Sierra de Falcón", ro: "Sierra de Falcón", en: "Sierra de Falcón" },
-    coordinates: { lat: 10.985, lng: -69.215 },
+    coords: [-69.215, 10.985],
     description: {
       de: "Die Sierra de Falcón ist eine Bergregion im Bundesstaat Falcón. Sie trennt die Küstenebenen von den tiefer gelegenen Regionen.",
       hu: "A Sierra de Falcón egy hegyvidéki régió Falcón államban. Elválasztja a parti síkságokat az alacsonyabban fekvő régióktól.",
@@ -328,7 +328,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-marahuaca-relief-v2",
     type: "mountain",
     name: { de: "Mount Marahuaca", hu: "Marahuaca-hegy", ro: "Muntele Marahuaca", en: "Mount Marahuaca" },
-    coordinates: { lat: 3.655, lng: -65.525 },
+    coords: [-65.525, 3.655],
     description: {
       de: "Mount Marahuaca ist ein großer Tepui im Bundesstaat Amazonas. Er besteht aus mehreren Gipfeln und ist für sein unzugängliches Terrain bekannt.",
       hu: "A Marahuaca-hegy egy nagy táblahegy Amazonas államban. Több csúcsból áll, és megközelíthetetlen terepéről ismert.",
@@ -347,7 +347,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-el-buitre-relief-v2",
     type: "peak",
     name: { de: "Pico El Buitre", hu: "Pico El Buitre", ro: "Pico El Buitre", en: "Pico El Buitre" },
-    coordinates: { lat: 8.765, lng: -71.055 },
+    coords: [-71.055, 8.765],
     description: {
       de: "Pico El Buitre ist ein Gipfel in der venezolanischen Andenregion, gelegen in der Nähe des Páramo-Ökosystems.",
       hu: "A Pico El Buitre egy csúcs a venezuelai Andok régióban, a Páramo ökoszisztéma közelében.",
@@ -366,7 +366,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-jaua-relief-v2",
     type: "mountain",
     name: { de: "Mount Jaua", hu: "Jaua-hegy", ro: "Muntele Jaua", en: "Mount Jaua" },
-    coordinates: { lat: 4.785, lng: -64.558 },
+    coords: [-64.558, 4.785],
     description: {
       de: "Mount Jaua ist ein isolierter Tepui im Bundesstaat Bolívar. Er liegt im Herzen des Jaua-Sarisariñama-Nationalparks.",
       hu: "A Jaua-hegy egy elszigetelt táblahegy Bolívar államban. A Jaua-Sarisariñama Nemzeti Park szívében található.",
@@ -385,7 +385,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-sierra-de-neblina-relief-v2",
     type: "mountain",
     name: { de: "Sierra de la Neblina", hu: "Sierra de la Neblina", ro: "Sierra de la Neblina", en: "Sierra de la Neblina" },
-    coordinates: { lat: 0.755, lng: -66.055 },
+    coords: [-66.055, 0.755],
     description: {
       de: "Die Sierra de la Neblina ist eine Bergkette im äußersten Süden Venezuelas, die Teil der Guayana-Hochlandes ist.",
       hu: "A Sierra de la Neblina egy hegylánc Venezuela legdélebbi részén, a Guyanai-felföld része.",
@@ -404,7 +404,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-pico-reveron-relief-v2",
     type: "peak",
     name: { de: "Pico Reverón", hu: "Pico Reverón", ro: "Pico Reverón", en: "Pico Reverón" },
-    coordinates: { lat: 8.605, lng: -71.025 },
+    coords: [-71.025, 8.605],
     description: {
       de: "Pico Reverón ist ein Gipfel in der Sierra Nevada de Mérida. Er ist benannt nach dem berühmten venezolanischen Maler Armando Reverón.",
       hu: "A Pico Reverón egy csúcs a Sierra Nevada de Mérida hegységben. A híres venezuelai festőről, Armando Reverónról nevezték el.",
@@ -423,7 +423,7 @@ export const venezuelaReliefV2: POI[] = [
     id: "venezuela-mount-uquien-relief-v2",
     type: "mountain",
     name: { de: "Mount Uquien", hu: "Uquien-hegy", ro: "Muntele Uquien", en: "Mount Uquien" },
-    coordinates: { lat: 5.855, lng: -62.655 },
+    coords: [-62.655, 5.855],
     description: {
       de: "Mount Uquien ist ein Tepui in der Nähe des Auyán-Tepui im Bundesstaat Bolívar. Er bietet eine spektakuläre geologische Landschaft.",
       hu: "Az Uquien-hegy egy táblahegy az Auyán-tepui közelében, Bolívar államban. Látványos geológiai tájat kínál.",

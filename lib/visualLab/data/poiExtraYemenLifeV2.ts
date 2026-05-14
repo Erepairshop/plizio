@@ -1046,7 +1046,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-al-heswa-wetland-life-v2",
     type: "wildlife",
     name: { de: "Al-Heswa Feuchtgebiet", hu: "Al-Heswa vizes élőhely", ro: "Zona umedă Al-Heswa", en: "Al-Heswa Wetland Protected Area" },
-    coordinates: { lat: 12.8312, lng: 44.9315 },
+    coords: [44.9315, 12.8312],
     description: {
       de: "Dieses Feuchtgebiet bei Aden ist ein Refugium für Zugvögel. Es wurde 2004 zum ersten gemeinschaftlich verwalteten Schutzgebiet erklärt.",
       hu: "Ez az Áden melletti vizes élőhely fontos menedék a költöző madarak számára. 2004-ben az ország első közösségileg kezelt védett területévé vált.",
@@ -1065,7 +1065,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-utma-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Utma", hu: "Utma Természetvédelmi Terület", ro: "Rezervația Naturală Utma", en: "Utma Protected Area" },
-    coordinates: { lat: 14.5156, lng: 43.9542 },
+    coords: [43.9542, 14.5156],
     description: {
       de: "Das 1995 eingerichtete Reservat in Dhamar ist für seine Biodiversität bekannt. Es umfasst terrassierte Berge und seltene Tierarten.",
       hu: "Az 1995-ben létrehozott védett terület Dhamar tartományban található. Híres a biológiai sokféleségéről és a teraszos hegyoldalairól.",
@@ -1084,7 +1084,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-di-hamri-marine-life-v2",
     type: "wildlife",
     name: { de: "Di-Hamri Meeresschutzgebiet", hu: "Di-Hamri tengeri rezervátum", ro: "Rezervația marină Di-Hamri", en: "Di-Hamri Marine Protected Area" },
-    coordinates: { lat: 12.6315, lng: 54.1824 },
+    coords: [54.1824, 12.6315],
     description: {
       de: "Dieses Gebiet an der Nordküste von Sokotra schützt farbenfrohe Korallenriffe. Es bietet eine der höchsten Marinedichten im Arabischen Meer.",
       hu: "Sokotra északi partján található terület színes korallzátonyokat véd. Az Arab-tenger egyik leggazdagabb tengeri élőhelye.",
@@ -1103,7 +1103,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-khor-omira-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Khor Omira Lagune", hu: "Khor Omira lagúna", ro: "Laguna Khor Omira", en: "Khor Omira Lagoon" },
-    coordinates: { lat: 12.6842, lng: 44.2518 },
+    coords: [44.2518, 12.6842],
     description: {
       de: "Eine natürliche Lagune westlich von Aden, die für ihre biologische Vielfalt bekannt ist. Sie dient als Rastplatz für tausende Zugvögel.",
       hu: "Ádentől nyugatra fekvő természetes lagúna, amely gazdag élővilágáról ismert. Több ezer költöző madár pihenőhelye.",
@@ -1122,7 +1122,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-al-faza-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Al-Faza Feuchtgebiete", hu: "Al-Faza mocsarak", ro: "Zonele umede Al-Faza", en: "Al-Faza Coastal Wetlands" },
-    coordinates: { lat: 14.2631, lng: 43.1852 },
+    coords: [43.1852, 14.2631],
     description: {
       de: "Diese Küstenfeuchtgebiete in der Tihama-Ebene sind reich an Mangroven und Vögeln. Sie stellen ein kritisches Ökosystem am Roten Meer dar.",
       hu: "A Tihama-síkságon található tengerparti mocsarak gazdagok mangrovékban. A Vörös-tenger menti kritikus ökoszisztémát alkotnak.",
@@ -1141,7 +1141,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-socotra-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Sokotra", hu: "Sokotrai Botanikus Kert", ro: "Grădina Botanică Socotra", en: "Socotra Botanical Garden" },
-    coordinates: { lat: 12.6518, lng: 54.0231 },
+    coords: [54.0231, 12.6518],
     description: {
       de: "Ein Forschungs- und Erhaltungsgarten in Hadibu, der endemische Pflanzenarten zeigt. Er dient dem Schutz der einzigartigen Inselflora.",
       hu: "Hadibu városában található kutató- és megőrző kert az őshonos fajok számára. A sziget egyedülálló flórájának védelmét szolgálja.",
@@ -1160,7 +1160,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-jabal-milhan-forest-life-v2",
     type: "forest",
     name: { de: "Waldschutzgebiet Jabal Milhan", hu: "Jabal Milhan erdőrezervátum", ro: "Rezervația forestieră Jabal Milhan", en: "Jabal Milhan Forest Reserve" },
-    coordinates: { lat: 15.2345, lng: 43.4612 },
+    coords: [43.4612, 15.2345],
     description: {
       de: "Einer der letzten Primärwälder im westlichen Hochland des Jemen. Das Gebiet ist bekannt für seine dichte Vegetation und seltene Orchideen.",
       hu: "Jemen nyugati felföldjének egyik utolsó őserdője. A terület híres sűrű vegetációjáról és ritka orchideáiról.",
@@ -1179,7 +1179,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-wadi-mayfaah-wildlife-v2",
     type: "wildlife",
     name: { de: "Wadi Mayfa'ah Wildtiergebiet", hu: "Wadi Mayfa'ah vadvédelmi terület", ro: "Zona de viață sălbatică Wadi Mayfa'ah", en: "Wadi Mayfa'ah Wildlife Area" },
-    coordinates: { lat: 14.2815, lng: 47.8824 },
+    coords: [47.8824, 14.2815],
     description: {
       de: "Ein wichtiges Ökosystem in Shabwah, das als Korridor für Wildtiere dient. Es beheimatet verschiedene Gazellenarten und Wüstenvögel.",
       hu: "Shabwah tartomány fontos ökoszisztémája, amely vadon élő állatok folyosójaként szolgál. Gazelláknak és pusztai madaraknak ad otthont.",
@@ -1198,7 +1198,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-hadibo-plant-nursery-life-v2",
     type: "wildlife",
     name: { de: "Hadibo Pflanzenschule", hu: "Hadibói növénykertészet", ro: "Pepinierea de plante Hadibo", en: "Hadibo Endemic Plant Nursery" },
-    coordinates: { lat: 12.6425, lng: 54.0152 },
+    coords: [54.0152, 12.6425],
     description: {
       de: "Eine spezialisierte Baumschule auf Sokotra zur Aufzucht gefährdeter endemischer Bäume. Sie ist entscheidend für Wiederaufforstungsprojekte der Insel.",
       hu: "Sokotrai faiskola, amely veszélyeztetett őshonos fák nevelésére szakosodott. Kulcsfontosságú a sziget erdősítési projektjeiben.",
@@ -1217,7 +1217,7 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "yemen-al-rawdah-garden-life-v2",
     type: "park",
     name: { de: "Al-Rawdah Garten", hu: "Al-Rawdah kert", ro: "Grădina Al-Rawdah", en: "Al-Rawdah Garden" },
-    coordinates: { lat: 15.4215, lng: 44.2234 },
+    coords: [44.2234, 15.4215],
     description: {
       de: "Ein historisches Gartenviertel nördlich von Sanaa, berühmt für seine Weinberge. Es verbindet traditionelle Landwirtschaft mit Erholungsflächen.",
       hu: "Szanaától északra fekvő történelmi kerti negyed, amely híres szőlőültetvényeiről. A hagyományos mezőgazdaságot ötvözi a pihenőhelyekkel.",

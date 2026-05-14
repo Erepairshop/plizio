@@ -5,7 +5,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-guelta-zemmour-relief-v2",
     type: "mountain",
     name: { de: "Guelta Zemmour", hu: "Guelta Zemmour", ro: "Guelta Zemmour", en: "Guelta Zemmour" },
-    coordinates: { lat: 24.2833, lng: -11.9167 },
+    coords: [-11.9167, 24.2833],
     description: {
       de: "Das Guelta Zemmour ist ein ausgedehntes Hochland in der westlichen Sahara. Es zeichnet sich durch felsige Plateaus und ausgetrocknete Flussläufe aus.",
       hu: "A Guelta Zemmour kiterjedt felföld a nyugati Szaharában. Sziklás fennsíkok és kiszáradt folyómedrek jellemzik a területet.",
@@ -24,7 +24,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-adrar-soutouf-relief-v2",
     type: "mountain",
     name: { de: "Adrar Soutouf", hu: "Adrar Soutouf", ro: "Adrar Soutouf", en: "Adrar Soutouf" },
-    coordinates: { lat: 22.8333, lng: -13.0 },
+    coords: [-13.0, 22.8333],
     description: {
       de: "Adrar Soutouf ist eine steinige Wüstenregion im Süden des Territoriums. Sie besteht aus flachen Hügeln und ausgedehnten Geröllfeldern.",
       hu: "Az Adrar Soutouf egy köves sivatagi régió a terület déli részén. Lapos dombokból és kiterjedt kőmezőkből áll.",
@@ -43,7 +43,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sebkhat-taffoudet-relief-v2",
     type: "lake",
     name: { de: "Sebkhat Taffoudet", hu: "Sebkhat Taffoudet", ro: "Sebkhat Taffoudet", en: "Sebkhat Taffoudet" },
-    coordinates: { lat: 23.5, lng: -13.3 },
+    coords: [-13.3, 23.5],
     description: {
       de: "Sebkhat Taffoudet ist eine große Salzsenke im Landesinneren. Sie ist ein flaches Becken, das periodisch austrocknet.",
       hu: "A Sebkhat Taffoudet egy nagy sós mélyedés a szárazföld belsejében. Ez egy lapos medence, amely időszakosan kiszárad.",
@@ -62,7 +62,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-daraa-valley-relief-v2",
     type: "valley",
     name: { de: "Daraa-Tal", hu: "Daraa-völgy", ro: "Valea Daraa", en: "Daraa Valley" },
-    coordinates: { lat: 27.5, lng: -11.5 },
+    coords: [-11.5, 27.5],
     description: {
       de: "Das Daraa-Tal bildet eine natürliche Grenze im Norden des Territoriums. Es ist ein oft trockenes Flusstal mit sandigen Böden.",
       hu: "A Daraa-völgy természetes határt alkot a terület északi részén. Gyakran száraz folyóvölgy homokos talajjal.",
@@ -81,7 +81,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sabkhat-aghtal-relief-v2",
     type: "lake",
     name: { de: "Sabkhat Agh-Tal", hu: "Sabkhat Agh-Tal", ro: "Sabkhat Agh-Tal", en: "Sabkhat Agh-Tal" },
-    coordinates: { lat: 22.4, lng: -14.8 },
+    coords: [-14.8, 22.4],
     description: {
       de: "Sabkhat Agh-Tal ist eine ausgedehnte Salzpfanne nahe der Küste. Die Oberfläche ist flach und weist dichte Salzkrusten auf.",
       hu: "A Sabkhat Agh-Tal egy kiterjedt sós lapály a tengerpart közelében. Felszíne lapos, sűrű sós kéreggel borított.",
@@ -100,7 +100,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-plateau-de-draa-relief-v2",
     type: "mountain",
     name: { de: "Plateau de Draa", hu: "Plateau de Draa", ro: "Plateau de Draa", en: "Plateau de Draa" },
-    coordinates: { lat: 26.8, lng: -11.0 },
+    coords: [-11.0, 26.8],
     description: {
       de: "Das Plateau de Draa erstreckt sich als flache Hochebene im Nordosten. Es besteht primär aus Kalk- und Sandsteinschichten.",
       hu: "A Plateau de Draa lapos fennsíkként terül el északkeleten. Elsősorban mészkő- és homokkőrétegekből áll.",
@@ -119,7 +119,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-ergs-bou-derga-relief-v2",
     type: "mountain",
     name: { de: "Ergs Bou Derga", hu: "Ergs Bou Derga", ro: "Ergs Bou Derga", en: "Ergs Bou Derga" },
-    coordinates: { lat: 25.4, lng: -12.5 },
+    coords: [-12.5, 25.4],
     description: {
       de: "Ergs Bou Derga bezeichnet ein ausgedehntes Sanddünengebiet in der zentralen Wüste. Die Dünen erreichen beträchtliche Höhen.",
       hu: "Az Ergs Bou Derga egy kiterjedt homokdűne-terület a központi sivatagban. A dűnék jelentős magasságot érnek el.",
@@ -138,7 +138,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-guelt-es-semara-relief-v2",
     type: "valley",
     name: { de: "Guelt es-Semara", hu: "Guelt es-Semara", ro: "Guelt es-Semara", en: "Guelt es-Semara" },
-    coordinates: { lat: 26.7, lng: -11.6 },
+    coords: [-11.6, 26.7],
     description: {
       de: "Guelt es-Semara ist ein felsiges Senkengebiet im nördlichen Inland. Es ist durch erosionsgeprägte Täler charakterisiert.",
       hu: "A Guelt es-Semara egy sziklás mélyedés az északi szárazföld belsejében. Erózió formálta völgyek jellemzik.",
@@ -157,7 +157,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-bassin-de-tindouf-relief-v2",
     type: "valley",
     name: { de: "Tindouf-Becken", hu: "Tindouf-medence", ro: "Bazinul Tindouf", en: "Tindouf Basin" },
-    coordinates: { lat: 27.6, lng: -10.5 },
+    coords: [-10.5, 27.6],
     description: {
       de: "Das Tindouf-Becken ist ein ausgedehntes geologisches Becken, das in die nordöstlichen Regionen hineinreicht. Es besteht aus flachen Sedimentschichten.",
       hu: "A Tindouf-medence egy kiterjedt geológiai medence, amely benyúlik az északkeleti régiókba. Lapos üledékes rétegekből áll.",
@@ -176,7 +176,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-hamada-de-tifariti-relief-v2",
     type: "mountain",
     name: { de: "Hamada de Tifariti", hu: "Hamada de Tifariti", ro: "Hamada de Tifariti", en: "Hamada de Tifariti" },
-    coordinates: { lat: 26.1, lng: -10.7 },
+    coords: [-10.7, 26.1],
     description: {
       de: "Die Hamada de Tifariti ist eine steinige Steinwüste im Nordosten. Sie bildet eine weite, flache Hochebene aus festem Gestein.",
       hu: "A Hamada de Tifariti egy köves kősivatag északkeleten. Széles, lapos, szilárd kőzetből álló fennsíkot alkot.",
@@ -195,7 +195,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sebkha-de-tichla-relief-v2",
     type: "lake",
     name: { de: "Sebkha de Tichla", hu: "Sebkha de Tichla", ro: "Sebkha de Tichla", en: "Sebkha de Tichla" },
-    coordinates: { lat: 21.8, lng: -14.5 },
+    coords: [-14.5, 21.8],
     description: {
       de: "Die Sebkha de Tichla ist eine tiefliegende Salzpfanne an der südlichen Grenze. Sie wird periodisch von abfließendem Regenwasser geflutet.",
       hu: "A Sebkha de Tichla egy mélyen fekvő sós lapály a déli határon. Időszakosan elönti a lefolyó esővíz.",
@@ -214,7 +214,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-plateau-d-adrar-relief-v2",
     type: "mountain",
     name: { de: "Plateau d'Adrar", hu: "Plateau d'Adrar", ro: "Plateau d'Adrar", en: "Plateau d'Adrar" },
-    coordinates: { lat: 23.3, lng: -12.5 },
+    coords: [-12.5, 23.3],
     description: {
       de: "Das Plateau d'Adrar ist eine markante Hochebene in der Mitte des Territoriums. Es besteht aus abgetragenen Felsformationen.",
       hu: "A Plateau d'Adrar egy jellegzetes fennsík a terület közepén. Kopott sziklaalakzatokból áll.",
@@ -233,7 +233,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sabkhat-idjil-extension-relief-v2",
     type: "lake",
     name: { de: "Sabkhat Idjil Erweiterung", hu: "Sabkhat Idjil kiterjedés", ro: "Extensia Sabkhat Idjil", en: "Sabkhat Idjil Extension" },
-    coordinates: { lat: 22.1, lng: -13.5 },
+    coords: [-13.5, 22.1],
     description: {
       de: "Diese Salzpfanne ist ein Ausläufer einer größeren Senke. Sie bildet eine flache, salzige Landschaft im trockenen Süden.",
       hu: "Ez a sós lapály egy nagyobb mélyedés nyúlványa. Lapos, sós tájat alkot a száraz délen.",
@@ -252,7 +252,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-hamada-du-dra-relief-v2",
     type: "mountain",
     name: { de: "Hamada du Dra", hu: "Hamada du Dra", ro: "Hamada du Dra", en: "Hamada du Dra" },
-    coordinates: { lat: 27.2, lng: -10.8 },
+    coords: [-10.8, 27.2],
     description: {
       de: "Die Hamada du Dra ist eine ausgedehnte Steinwüste an der Nordostgrenze. Die Oberfläche besteht fast ausschließlich aus Fels und Geröll.",
       hu: "A Hamada du Dra egy kiterjedt kősivatag az északkeleti határon. A felszín szinte kizárólag sziklából és törmelékből áll.",
@@ -271,7 +271,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-plateau-de-boudib-relief-v2",
     type: "mountain",
     name: { de: "Plateau de Boudib", hu: "Plateau de Boudib", ro: "Plateau de Boudib", en: "Plateau de Boudib" },
-    coordinates: { lat: 26.6, lng: -11.2 },
+    coords: [-11.2, 26.6],
     description: {
       de: "Das Plateau de Boudib ist eine leicht gewellte Hochebene. Sie besteht aus hartem Sandstein und wird von zahlreichen Trockentälern durchzogen.",
       hu: "A Plateau de Boudib enyhén hullámos fennsík. Kemény homokkőből áll, és számos száraz völgy szeli át.",
@@ -290,7 +290,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sabkhat-aghtal-sud-relief-v2",
     type: "lake",
     name: { de: "Sabkhat Agh-Tal Süd", hu: "Sabkhat Agh-Tal Dél", ro: "Sabkhat Agh-Tal Sud", en: "Sabkhat Agh-Tal South" },
-    coordinates: { lat: 22.2, lng: -14.6 },
+    coords: [-14.6, 22.2],
     description: {
       de: "Die Sabkhat Agh-Tal Süd ist ein kleinerer Teil der Küsten-Salzsenke. Sie zeichnet sich durch einen besonders hohen Salzgehalt aus.",
       hu: "A Sabkhat Agh-Tal Dél a parti sós mélyedés egy kisebb része. Különösen magas sótartalom jellemzi.",
@@ -309,7 +309,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-colline-des-gazelles-relief-v2",
     type: "mountain",
     name: { de: "Colline des Gazelles", hu: "Colline des Gazelles", ro: "Colline des Gazelles", en: "Colline des Gazelles" },
-    coordinates: { lat: 24.5, lng: -13.0 },
+    coords: [-13.0, 24.5],
     description: {
       de: "Die Colline des Gazelles ist ein markanter Hügelzug im zentralen Wüstengebiet. Die Hänge sind steinig und vegetationsarm.",
       hu: "A Colline des Gazelles jellegzetes dombság a központi sivatagi területen. Lejtői kövesek és növényzetben szegények.",
@@ -328,7 +328,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-bas-plateau-du-nord-relief-v2",
     type: "mountain",
     name: { de: "Unteres Nordplateau", hu: "Alsó-északi fennsík", ro: "Platoul de Nord Inferior", en: "Lower North Plateau" },
-    coordinates: { lat: 27.8, lng: -11.2 },
+    coords: [-11.2, 27.8],
     description: {
       de: "Das Untere Nordplateau bildet eine sanfte, geneigte Hochebene an der Nordgrenze. Der Boden besteht aus festem Sand und Kies.",
       hu: "Az Alsó-északi fennsík lágy, lejtős fennsíkot alkot az északi határon. A talaj szilárd homokból és kavicsból áll.",
@@ -347,7 +347,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sabkhat-de-l-ouest-relief-v2",
     type: "lake",
     name: { de: "Sabkhat de l'Ouest", hu: "Sabkhat de l'Ouest", ro: "Sabkhat de l'Ouest", en: "Sabkhat de l'Ouest" },
-    coordinates: { lat: 23.0, lng: -15.5 },
+    coords: [-15.5, 23.0],
     description: {
       de: "Die Sabkhat de l'Ouest ist eine weitläufige Salzsenke entlang der Atlantikküste. Sie ist geprägt von salzigen Schlammflächen.",
       hu: "A Sabkhat de l'Ouest egy kiterjedt sós mélyedés az Atlanti-óceán partja mentén. Sós iszapfelületek jellemzik.",
@@ -366,7 +366,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-massif-du-sud-relief-v2",
     type: "mountain",
     name: { de: "Südliches Massiv", hu: "Déli masszívum", ro: "Masivul Sudic", en: "Southern Massif" },
-    coordinates: { lat: 21.6, lng: -13.0 },
+    coords: [-13.0, 21.6],
     description: {
       de: "Das Südliche Massiv ist eine Reihe von Granithügeln an der Grenze im Süden. Die Felsen sind alt und stark verwittert.",
       hu: "A Déli masszívum gránithomokok sorozata a déli határon. A sziklák öregek és erősen mállottak.",
@@ -385,7 +385,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-plateau-de-la-guelta-relief-v2",
     type: "mountain",
     name: { de: "Plateau de la Guelta", hu: "Plateau de la Guelta", ro: "Plateau de la Guelta", en: "Plateau de la Guelta" },
-    coordinates: { lat: 24.1, lng: -12.1 },
+    coords: [-12.1, 24.1],
     description: {
       de: "Das Plateau de la Guelta ist eine ausgedehnte, flache Hochebene. Der Untergrund besteht aus festem Gestein mit verstreuten Kieselsteinen.",
       hu: "A Plateau de la Guelta egy kiterjedt, lapos fennsík. Az altalaj szilárd kőzetből áll, szétszórt kavicsokkal.",
@@ -404,7 +404,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-erg-de-la-cota-relief-v2",
     type: "mountain",
     name: { de: "Erg de la Cota", hu: "Erg de la Cota", ro: "Erg de la Cota", en: "Erg de la Cota" },
-    coordinates: { lat: 25.0, lng: -13.5 },
+    coords: [-13.5, 25.0],
     description: {
       de: "Der Erg de la Cota ist ein kleinerer Sanddünenbereich. Er ist typisch für die zentralen Sandwüstengebiete der Region.",
       hu: "Az Erg de la Cota egy kisebb homokdűne-terület. Jellemző a régió központi homoksivatagi területeire.",
@@ -423,7 +423,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-vallée-sèche-du-sud-relief-v2",
     type: "valley",
     name: { de: "Trockental Süd", hu: "Száraz völgy Dél", ro: "Vale Uscată Sud", en: "Dry Valley South" },
-    coordinates: { lat: 21.9, lng: -13.8 },
+    coords: [-13.8, 21.9],
     description: {
       de: "Das Trockental Süd durchschneidet die felsigen Ebenen an der südlichen Grenze. Es führt nur bei seltenen Regenfällen Wasser.",
       hu: "A Száraz völgy Dél átszeli a sziklás síkságokat a déli határon. Csak ritka esőzések idején vezet vizet.",
@@ -442,7 +442,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-sabkha-de-tichla-nord-relief-v2",
     type: "lake",
     name: { de: "Sabkha de Tichla Nord", hu: "Sabkha de Tichla Észak", ro: "Sabkha de Tichla Nord", en: "Sabkha de Tichla North" },
-    coordinates: { lat: 21.9, lng: -14.4 },
+    coords: [-14.4, 21.9],
     description: {
       de: "Sabkha de Tichla Nord ist der nördliche Abschnitt einer ausgedehnten Salzsenke. Sie bietet einen flachen Untergrund aus trockenem Schlamm.",
       hu: "A Sabkha de Tichla Észak egy kiterjedt sós mélyedés északi szakasza. Száraz iszapból álló lapos altalajt kínál.",
@@ -461,7 +461,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-plateau-de-la-daraa-relief-v2",
     type: "mountain",
     name: { de: "Plateau de la Daraa", hu: "Plateau de la Daraa", ro: "Plateau de la Daraa", en: "Plateau de la Daraa" },
-    coordinates: { lat: 27.3, lng: -11.4 },
+    coords: [-11.4, 27.3],
     description: {
       de: "Das Plateau de la Daraa ist eine ausgedehnte, felsige Hochebene. Sie ist ein zentrales Element der nordöstlichen Topografie.",
       hu: "A Plateau de la Daraa egy kiterjedt, sziklás fennsík. Az északkeleti domborzat központi eleme.",
@@ -480,7 +480,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-dunes-de-l-atlantique-relief-v2",
     type: "mountain",
     name: { de: "Atlantik-Dünen", hu: "Atlanti-dűnék", ro: "Dunele Atlanticului", en: "Atlantic Dunes" },
-    coordinates: { lat: 23.5, lng: -15.8 },
+    coords: [-15.8, 23.5],
     description: {
       de: "Die Atlantik-Dünen sind ein Küstendünengebiet. Die hohen Sanddünen grenzen direkt an den Ozean.",
       hu: "Az Atlanti-dűnék parti dűnevidék. A magas homokdűnék közvetlenül az óceánnal határosak.",
@@ -499,7 +499,7 @@ export const westernsaharaReliefV2: POI[] = [
     id: "westernsahara-massif-de-l-est-relief-v2",
     type: "mountain",
     name: { de: "Östliches Massiv", hu: "Keleti masszívum", ro: "Masivul de Est", en: "Eastern Massif" },
-    coordinates: { lat: 24.8, lng: -10.5 },
+    coords: [-10.5, 24.8],
     description: {
       de: "Das Östliche Massiv ist eine Kette von niedrigen Bergen an der östlichen Grenze. Die Landschaft ist extrem trocken und karg.",
       hu: "A Keleti masszívum alacsony hegyek lánca a keleti határon. A táj rendkívül száraz és kopár.",

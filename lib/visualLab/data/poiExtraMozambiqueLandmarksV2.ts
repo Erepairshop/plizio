@@ -1087,7 +1087,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-dona-ana-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Dona-Ana-Brücke", hu: "Dona Ana híd", ro: "Podul Dona Ana", en: "Dona Ana Bridge" },
-    coordinates: { lat: -17.4372, lng: 35.0503 },
+    coords: [35.0503, -17.4372],
     description: {
       de: "Die Dona-Ana-Brücke führt über den Sambesi zwischen Sena und Mutarara. Sie war 1934 die längste Eisenbahnbrücke ganz Afrikas.",
       hu: "A Dona Ana híd a Zambézi folyó felett ível át Sena és Mutarara között. 1934-es átadásakor Afrika leghosszabb vasúti hídja volt.",
@@ -1106,7 +1106,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-national-art-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă", en: "National Art Museum" },
-    coordinates: { lat: -25.9721, lng: 32.5762 },
+    coords: [32.5762, -25.9721],
     description: {
       de: "Das Museum in Maputo beherbergt die wichtigste Sammlung mosambikanischer Kunst. Es zeigt Werke von Malangatana und Chissano.",
       hu: "A maputói múzeum ad otthont a legfontosabb mozambiki művészeti gyűjteménynek. Malangatana és Chissano műveit is bemutatja.",
@@ -1125,7 +1125,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-national-money-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationales Geldmuseum", hu: "Nemzeti Pénzmúzeum", ro: "Muzeul Național al Monedei", en: "National Money Museum" },
-    coordinates: { lat: -25.9752, lng: 32.5684 },
+    coords: [32.5684, -25.9752],
     description: {
       de: "Das Geldmuseum befindet sich in der Casa Amarela, dem ältesten Gebäude Maputos. Es zeigt die Geschichte der Währung in Mosambik.",
       hu: "A Pénzmúzeum a Casa Amarelában, Maputo legrégebbi épületében található. Mozambik fizetőeszközeinek történetét mutatja be.",
@@ -1144,7 +1144,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-fisheries-museum-landmarks-v2",
     type: "museum",
     name: { de: "Fischereimuseum", hu: "Halászati Múzeum", ro: "Muzeul Pescuitului", en: "Fisheries Museum" },
-    coordinates: { lat: -25.9761, lng: 32.5714 },
+    coords: [32.5714, -25.9761],
     description: {
       de: "Dieses moderne Museum in Maputo widmet sich der maritimen Tradition. Es zeigt traditionelle Boote und Fischfangtechniken.",
       hu: "Ez a modern maputói múzeum a tengeri hagyományoknak szentelt. Tradicionális hajókat és halászati technikákat mutat be.",
@@ -1163,7 +1163,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-ponta-vermelha-palace-landmarks-v2",
     type: "palace",
     name: { de: "Palácio da Ponta Vermelha", hu: "Palácio da Ponta Vermelha", ro: "Palatul Ponta Vermelha", en: "Ponta Vermelha Palace" },
-    coordinates: { lat: -25.9785, lng: 32.5936 },
+    coords: [32.5936, -25.9785],
     description: {
       de: "Der Palácio da Ponta Vermelha ist der Amtssitz des Präsidenten von Mosambik. Er befindet sich auf einer Klippe mit Blick auf die Bucht.",
       hu: "A Palácio da Ponta Vermelha Mozambik elnökének hivatalos rezidenciája. Egy sziklán áll, kilátással a Maputói-öbölre.",
@@ -1182,7 +1182,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-tete-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Tete", hu: "Tetei katedrális", ro: "Catedrala din Tete", en: "Tete Cathedral" },
-    coordinates: { lat: -16.1555, lng: 33.5852 },
+    coords: [33.5852, -16.1555],
     description: {
       de: "Die Kathedrale São Tiago Maior in Tete ist ein markantes religiöses Bauwerk. Sie dominiert das Stadtbild am Ufer des Sambesi.",
       hu: "A tetei Szent Jakab-székesegyház egy jelentős vallási épület. A városkép meghatározó eleme a Zambézi folyó partján.",
@@ -1201,7 +1201,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-quelimane-matriz-church-landmarks-v2",
     type: "church",
     name: { de: "Igreja Matriz de Quelimane", hu: "Quelimane-i Matriz-templom", ro: "Igreja Matriz din Quelimane", en: "Quelimane Matriz Church" },
-    coordinates: { lat: -17.8864, lng: 36.8856 },
+    coords: [36.8856, -17.8864],
     description: {
       de: "Die Igreja Matriz de Nossa Senhora do Livramento ist eine historische Kirche in Quelimane. Sie ist bekannt für ihre schlichte weiße Fassade.",
       hu: "A Nossa Senhora do Livramento templom Quelimane egyik történelmi egyházi épülete. Egyszerű fehér homlokzatáról ismert.",
@@ -1220,7 +1220,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-bazaruto-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Bazaruto", hu: "Bazaruto-világítótorony", ro: "Farul din Bazaruto", en: "Bazaruto Lighthouse" },
-    coordinates: { lat: -21.5333, lng: 35.4833 },
+    coords: [35.4833, -21.5333],
     description: {
       de: "Dieser historische Leuchtturm steht auf der Insel Bazaruto. Er bietet einen weiten Blick über das Meer und die Sanddünen.",
       hu: "Ez a történelmi világítótorony Bazaruto szigetén áll. Pazar kilátást nyújt a tengerre és a homokdűnékre.",
@@ -1239,7 +1239,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-hindu-temple-maputo-landmarks-v2",
     type: "landmark",
     name: { de: "Shri Swaminarayan Tempel", hu: "Shri Swaminarayan templom", ro: "Templul Shri Swaminarayan", en: "Maputo Hindu Temple" },
-    coordinates: { lat: -25.9655, lng: 32.5752 },
+    coords: [32.5752, -25.9655],
     description: {
       de: "Der Hindu-Tempel in Maputo ist ein farbenfrohes religiöses Zentrum. Er dient der bedeutenden indischstämmigen Gemeinde der Stadt.",
       hu: "A maputói hindu templom egy színes vallási központ. A város jelentős indiai származású közösségét szolgálja.",
@@ -1258,7 +1258,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-cinema-africa-landmarks-v2",
     type: "theater",
     name: { de: "Cinema África", hu: "Cinema África", ro: "Cinema África", en: "Cinema Africa" },
-    coordinates: { lat: -25.9705, lng: 32.5724 },
+    coords: [32.5724, -25.9705],
     description: {
       de: "Das Cinema África ist ein ikonisches Gebäude im Art-déco-Stil in Maputo. Es ist ein wichtiger Teil der Kulturgeschichte der Stadt.",
       hu: "A Cinema África egy ikonikus art déco stílusú épület Maputóban. A város kultúrtörténetének jelentős részét képezi.",
@@ -1277,7 +1277,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-quelimane-central-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralmoschee von Quelimane", hu: "Quelimane-i központi mecset", ro: "Moscheea Centrală din Quelimane", en: "Quelimane Central Mosque" },
-    coordinates: { lat: -17.8765, lng: 36.8872 },
+    coords: [36.8872, -17.8765],
     description: {
       de: "Die Zentralmoschee von Quelimane ist ein wichtiges religiöses Zentrum der muslimischen Gemeinde. Sie zeichnet sich durch ihre grüne Farbe aus.",
       hu: "A quelimane-i központi mecset a muszlim közösség fontos vallási központja. Zöld színéről és minaretjéről ismerhető fel.",
@@ -1296,7 +1296,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-vilankulo-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Vilankulo", hu: "Vilankulo-világítótorony", ro: "Farul din Vilankulo", en: "Vilankulo Lighthouse" },
-    coordinates: { lat: -22.0165, lng: 35.3331 },
+    coords: [35.3331, -22.0165],
     description: {
       de: "Der Leuchtturm von Vilankulo sichert die Schifffahrt vor der Küste. Er ist ein Wahrzeichen für Reisende zum Bazaruto-Archipel.",
       hu: "A vilankulói világítótorony biztosítja a tengeri hajózást a partnál. A Bazaruto-szigetvilág felé utazók fontos tájékozódási pontja.",
@@ -1315,7 +1315,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-nacala-railway-station-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof von Nacala", hu: "Nacalai vasútállomás", ro: "Gara din Nacala", en: "Nacala Railway Station" },
-    coordinates: { lat: -14.5452, lng: 40.6654 },
+    coords: [40.6654, -14.5452],
     description: {
       de: "Der Bahnhof von Nacala ist der Endpunkt des Nacala-Korridors. Das Gebäude ist ein Beispiel für moderne industrielle Architektur.",
       hu: "A nacalai vasútállomás a Nacala-folyosó végpontja. Az épület a modern ipari építészet egyik fontos példája.",
@@ -1334,7 +1334,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-chimoio-municipality-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Chimoio", hu: "Chimoio városháza", ro: "Primăria din Chimoio", en: "Chimoio Municipality Building" },
-    coordinates: { lat: -19.1164, lng: 33.4835 },
+    coords: [33.4835, -19.1164],
     description: {
       de: "Das Rathaus von Chimoio ist der Sitz der lokalen Verwaltung. Es ist ein markantes Bauwerk im Zentrum der Hauptstadt der Provinz Manica.",
       hu: "Chimoio városháza a helyi önkormányzat székhelye. Manica tartomány fővárosának központjában található jellegzetes épület.",
@@ -1353,7 +1353,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-casa-amarela-maputo-landmarks-v2",
     type: "museum",
     name: { de: "Casa Amarela", hu: "Casa Amarela", ro: "Casa Amarela", en: "Casa Amarela Maputo" },
-    coordinates: { lat: -25.9755, lng: 32.5681 },
+    coords: [32.5681, -25.9755],
     description: {
       de: "Die Casa Amarela ist das älteste Steingebäude Maputos. Heute beherbergt sie das nationale Geldmuseum der Stadt.",
       hu: "A Casa Amarela Maputo legrégebbi kőépülete. Jelenleg a város nemzeti pénzmúzeumának ad otthont.",
@@ -1372,7 +1372,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-sangala-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Sangala", hu: "Sangala-világítótorony", ro: "Farul din Sangala", en: "Sangala Lighthouse" },
-    coordinates: { lat: -25.0833, lng: 33.7166 },
+    coords: [33.7166, -25.0833],
     description: {
       de: "Der Leuchtturm von Sangala liegt in der Nähe von Xai-Xai. Er warnt Schiffe vor den gefährlichen Riffen vor der Küste Gazas.",
       hu: "A Sangala-világítótorony Xai-Xai közelében található. A hajókat figyelmezteti a gázai partok előtti veszélyes zátonyokra.",
@@ -1391,7 +1391,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-pemba-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Pemba", hu: "Pembai katedrális", ro: "Catedrala din Pemba", en: "Pemba Cathedral" },
-    coordinates: { lat: -12.9664, lng: 40.5165 },
+    coords: [40.5165, -12.9664],
     description: {
       de: "Die Kathedrale São Paulo in Pemba ist ein wichtiges religiöses Zentrum in Cabo Delgado. Sie liegt im Herzen der Küstenstadt.",
       hu: "A pembai Szent Pál-székesegyház Cabo Delgado fontos vallási központja. A kikötőváros szívében helyezkedik el.",
@@ -1410,7 +1410,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-lichinga-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Lichinga", hu: "Lichingai katedrális", ro: "Catedrala din Lichinga", en: "Lichinga Cathedral" },
-    coordinates: { lat: -13.3121, lng: 35.2405 },
+    coords: [35.2405, -13.3121],
     description: {
       de: "Die Kathedrale von Lichinga ist das zentrale religiöse Bauwerk der Provinz Niassa. Sie liegt im Hochland nahe dem Malawisee.",
       hu: "A lichingai székesegyház Niassa tartomány központi vallási épülete. A felföldön található, a Malawi-tó közelében.",
@@ -1429,7 +1429,7 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "mozambique-island-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Moschee der Insel Mosambik", hu: "Mozambik-szigeti mecset", ro: "Moscheea de pe Insula Mozambic", en: "Mosque of Mozambique Island" },
-    coordinates: { lat: -15.0333, lng: 40.7333 },
+    coords: [40.7333, -15.0333],
     description: {
       de: "Diese alte Moschee auf der Ilha de Moçambique zeugt vom langen islamischen Erbe. Sie ist eine der ältesten der Region.",
       hu: "Ez a régi mecset a Mozambik-szigeten a hosszú iszlám örökség bizonyítéka. A régió egyik legrégebbi ilyen épülete.",

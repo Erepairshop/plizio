@@ -906,7 +906,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-coronation-park-landmarks-v2",
     type: "park",
     name: { de: "Coronation Park", hu: "Koronázási Park", ro: "Parcul Coronation", en: "Coronation Park" },
-    coordinates: { lat: -26.3262, lng: 31.1441 },
+    coords: [31.1441, -26.3262],
     description: {
       de: "Ein zentraler öffentlicher Park in Mbabane, der für staatliche Zeremonien und Freizeitaktivitäten genutzt wird.",
       hu: "Mbabane központi nyilvános parkja, amelyet állami ünnepségekre és szabadidős tevékenységekre használnak.",
@@ -925,7 +925,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-national-archives-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalarchiv von Eswatini", hu: "Eswatini Nemzeti Archívum", ro: "Arhivele Naționale din Eswatini", en: "Eswatini National Archives" },
-    coordinates: { lat: -26.4465, lng: 31.2062 },
+    coords: [31.2062, -26.4465],
     description: {
       de: "Das Archiv bewahrt die offiziellen Dokumente und historischen Aufzeichnungen des Königreichs in Lobamba auf.",
       hu: "Az archívum a királyság hivatalos dokumentumait és történelmi feljegyzéseit őrzi Lobambában.",
@@ -944,7 +944,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-manzini-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Postamt Manzini", hu: "Manzini Postahivatal", ro: "Poșta din Manzini", en: "Manzini Post Office" },
-    coordinates: { lat: -26.4912, lng: 31.3715 },
+    coords: [31.3715, -26.4912],
     description: {
       de: "Ein markantes Gebäude im Zentrum von Manzini, das als Hauptknotenpunkt für Postdienste der Region dient.",
       hu: "Manzini központjának jellegzetes épülete, amely a régió postai szolgáltatásainak fő csomópontja.",
@@ -963,7 +963,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-riverstone-mall-landmarks-v2",
     type: "landmark",
     name: { de: "Riverstone Mall Gebäude", hu: "Riverstone Mall épület", ro: "Clădirea Riverstone Mall", en: "Riverstone Mall Building" },
-    coordinates: { lat: -26.4945, lng: 31.3772 },
+    coords: [31.3772, -26.4945],
     description: {
       de: "Eines der größten und modernsten Geschäftsgebäude in Manzini mit zeitgenössischer Architektur.",
       hu: "Manzini egyik legnagyobb és legmodernebb üzleti épülete, kortárs építészeti stílussal.",
@@ -982,7 +982,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-mbabane-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Mbabane Regierungskrankenhaus", hu: "Mbabane Állami Kórház", ro: "Spitalul Guvernamental din Mbabane", en: "Mbabane Government Hospital" },
-    coordinates: { lat: -26.3295, lng: 31.1412 },
+    coords: [31.1412, -26.3295],
     description: {
       de: "Die wichtigste medizinische Einrichtung des Landes mit einem weitläufigen Gebäudekomplex in der Hauptstadt.",
       hu: "Az ország legfontosabb egészségügyi intézménye, kiterjedt épületkomplexummal a fővárosban.",
@@ -1001,7 +1001,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-uniswa-library-landmarks-v2",
     type: "university",
     name: { de: "UNISWA Bibliothek Kwaluseni", hu: "UNISWA Könyvtár Kwaluseni", ro: "Biblioteca UNISWA Kwaluseni", en: "UNISWA Library Kwaluseni" },
-    coordinates: { lat: -26.4815, lng: 31.3065 },
+    coords: [31.3065, -26.4815],
     description: {
       de: "Das akademische Herzstück des Kwaluseni-Campus der Universität von Eswatini mit einer bedeutenden Sammlung.",
       hu: "Az Eswatini Egyetem Kwaluseni kampuszának akadémiai központja, jelentős gyűjteménnyel.",
@@ -1020,7 +1020,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-nhlangano-town-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Nhlangano", hu: "Nhlangano Városháza", ro: "Primăria din Nhlangano", en: "Nhlangano Town Hall" },
-    coordinates: { lat: -27.1185, lng: 31.2042 },
+    coords: [31.2042, -27.1185],
     description: {
       de: "Das Verwaltungsgebäude von Nhlangano, dem Hauptzentrum des Shiselweni-Distrikts im Süden des Landes.",
       hu: "Nhlangano adminisztratív épülete, amely a Shiselweni kerület központja az ország déli részén.",
@@ -1039,7 +1039,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-siteki-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Postamt Siteki", hu: "Siteki Postahivatal", ro: "Poșta din Siteki", en: "Siteki Post Office" },
-    coordinates: { lat: -26.4528, lng: 31.9485 },
+    coords: [31.9485, -26.4528],
     description: {
       de: "Ein historisches Dienstleistungsgebäude in Siteki auf dem Lubombo-Plateau, das seit Jahrzehnten in Betrieb ist.",
       hu: "Történelmi szolgáltató épület Sitekiben, a Lubombo-fennsíkon, amely évtizedek óta üzemel.",
@@ -1058,7 +1058,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-hlatikulu-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Hlatikulu Regierungskrankenhaus", hu: "Hlatikulu Állami Kórház", ro: "Spitalul Guvernamental din Hlatikulu", en: "Hlatikulu Government Hospital" },
-    coordinates: { lat: -26.9745, lng: 31.3258 },
+    coords: [31.3258, -26.9745],
     description: {
       de: "Ein bedeutender Gesundheitskomplex in der Bergstadt Hlatikulu mit Blick auf die umliegenden Täler.",
       hu: "Jelentős egészségügyi komplexum Hlatikulu hegyi városában, kilátással a környező völgyekre.",
@@ -1077,7 +1077,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-mbabane-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek Mbabane", hu: "Mbabane Közkönyvtár", ro: "Biblioteca Publică din Mbabane", en: "Mbabane Public Library" },
-    coordinates: { lat: -26.3238, lng: 31.1448 },
+    coords: [31.1448, -26.3238],
     description: {
       de: "Die zentrale öffentliche Bibliothek der Hauptstadt, die Bildungsmaterialien und Gemeinschaftsräume bietet.",
       hu: "A főváros központi közkönyvtára, amely oktatási anyagokat és közösségi tereket biztosít.",
@@ -1096,7 +1096,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-rfm-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Raleigh Fitkin Memorial Krankenhaus", hu: "Raleigh Fitkin Emlékkórház", ro: "Spitalul Memorial Raleigh Fitkin", en: "Raleigh Fitkin Memorial Hospital" },
-    coordinates: { lat: -26.4882, lng: 31.3735 },
+    coords: [31.3735, -26.4882],
     description: {
       de: "Ein bekanntes konfessionelles Krankenhaus in Manzini, das für seine breite Palette an medizinischen Dienstleistungen geschätzt wird.",
       hu: "Manzini híres egyházi kórháza, amelyet orvosi szolgáltatásainak széles skálája miatt becsülnek.",
@@ -1115,7 +1115,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-lusushwana-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Lusushwana-Brücke", hu: "Lusushwana-híd", ro: "Podul Lusushwana", en: "Lusushwana Bridge" },
-    coordinates: { lat: -26.4418, lng: 31.2325 },
+    coords: [31.2325, -26.4418],
     description: {
       de: "Eine strategisch wichtige Brücke über den Fluss Lusushwana, die Mbabane mit dem Ezulwini-Tal verbindet.",
       hu: "Stratégiai híd a Lusushwana-folyón, amely összeköti Mbabane-t az Ezulwini-völggyel.",
@@ -1134,7 +1134,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-matsapha-old-airport-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Flughafen Matsapha", hu: "Matsapha Régi Repülőtér", ro: "Vechiul Aeroport Matsapha", en: "Matsapha Old Airport" },
-    coordinates: { lat: -26.5282, lng: 31.3088 },
+    coords: [31.3088, -26.5282],
     description: {
       de: "Das ehemalige internationale Luftdrehkreuz des Landes, das heute primär für Charterflüge und Fracht genutzt wird.",
       hu: "Az ország korábbi nemzetközi légiforgalmi csomópontja, amelyet ma főként charterjáratokra és árufuvarozásra használnak.",
@@ -1153,7 +1153,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-railway-building-landmarks-v2",
     type: "landmark",
     name: { de: "Eswatini Eisenbahngebäude", hu: "Eswatini Vasúti Épület", ro: "Clădirea Căilor Ferate Eswatini", en: "Eswatini Railway Building" },
-    coordinates: { lat: -26.3315, lng: 31.1462 },
+    coords: [31.1462, -26.3315],
     description: {
       de: "Der Hauptsitz der nationalen Eisenbahngesellschaft in Mbabane, zuständig für den Güterverkehr des Landes.",
       hu: "A nemzeti vasúttársaság mbabane-i központja, amely az ország árufuvarozásáért felelős.",
@@ -1172,7 +1172,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-bhunu-mall-landmarks-v2",
     type: "landmark",
     name: { de: "Bhunu Mall", hu: "Bhunu Mall", ro: "Bhunu Mall", en: "Bhunu Mall" },
-    coordinates: { lat: -26.4932, lng: 31.3728 },
+    coords: [31.3728, -26.4932],
     description: {
       de: "Ein zentraler Einkaufskomplex im Herzen von Manzini, bekannt für sein geschäftiges Treiben.",
       hu: "Központi bevásárlókomplexum Manzini szívében, amely nyüzsgő forgalmáról ismert.",
@@ -1191,7 +1191,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-mbabane-fire-station-landmarks-v2",
     type: "tower",
     name: { de: "Feuerwache Mbabane", hu: "Mbabane Tűzoltóság", ro: "Stația de Pompieri Mbabane", en: "Mbabane Fire Station" },
-    coordinates: { lat: -26.3215, lng: 31.1432 },
+    coords: [31.1432, -26.3215],
     description: {
       de: "Die Hauptfeuerwache der Hauptstadt mit einem markanten Schlauchtrockenturm, der das Stadtbild prägt.",
       hu: "A főváros fő tűzoltóállomása, egy jellegzetes tömlőszárító toronnyal, amely meghatározza a városképet.",
@@ -1210,7 +1210,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-st-josephs-mission-landmarks-v2",
     type: "church",
     name: { de: "St. Joseph’s Mission Kirche", hu: "Szent József Missziós Templom", ro: "Biserica Misiunii Sf. Iosif", en: "St. Joseph’s Mission Church" },
-    coordinates: { lat: -26.4585, lng: 31.5472 },
+    coords: [31.5472, -26.4585],
     description: {
       de: "Eine historische Missionskirche in Mzimpofu, bekannt für ihre soziale Arbeit und Bildungseinrichtungen.",
       hu: "Történelmi missziós templom Mzimpofuban, amely szociális munkájáról és oktatási intézményeiről ismert.",
@@ -1229,7 +1229,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-ers-building-landmarks-v2",
     type: "landmark",
     name: { de: "ERS-Gebäude Mbabane", hu: "ERS-épület Mbabane", ro: "Clădirea ERS Mbabane", en: "ERS Building Mbabane" },
-    coordinates: { lat: -26.3275, lng: 31.1492 },
+    coords: [31.1492, -26.3275],
     description: {
       de: "Der Hauptsitz der Eswatini Revenue Service, ein modernes Hochhaus im Finanzdistrikt der Hauptstadt.",
       hu: "Az Eswatini Adóhivatal székhelye, egy modern toronyépület a főváros pénzügyi negyedében.",
@@ -1248,7 +1248,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-mlawula-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Torhaus Mlawula", hu: "Mlawula kapuház", ro: "Poarta Mlawula", en: "Mlawula Gate House" },
-    coordinates: { lat: -26.1958, lng: 32.0082 },
+    coords: [32.0082, -26.1958],
     description: {
       de: "Das markante Eingangsgebäude zum Mlawula-Naturreservat, das den Übergang zur Wildnis der Lubombo-Berge markiert.",
       hu: "A Mlawula Természetvédelmi Terület jellegzetes bejárati épülete, amely a Lubombo-hegység vadonába való átmenetet jelzi.",
@@ -1267,7 +1267,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-hlane-gates-landmarks-v2",
     type: "monument",
     name: { de: "Königliche Tore von Hlane", hu: "Hlane Királyi Kapuk", ro: "Porțile Regale din Hlane", en: "Hlane Royal Gates" },
-    coordinates: { lat: -26.2575, lng: 31.8842 },
+    coords: [31.8842, -26.2575],
     description: {
       de: "Die zeremoniellen Eingangstore zum Hlane Royal National Park, dem größten Schutzgebiet des Landes.",
       hu: "A Hlane Királyi Nemzeti Park, az ország legnagyobb védett területének ünnepélyes bejárati kapui.",
@@ -1286,7 +1286,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-manzini-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek Manzini", hu: "Manzini Közkönyvtár", ro: "Biblioteca Publică din Manzini", en: "Manzini Public Library" },
-    coordinates: { lat: -26.4895, lng: 31.3752 },
+    coords: [31.3752, -26.4895],
     description: {
       de: "Ein wichtiges Bildungszentrum in Manzini, das der lokalen Gemeinschaft Zugang zu Literatur und Information bietet.",
       hu: "Fontos oktatási központ Manziniben, amely hozzáférést biztosít az irodalomhoz és információkhoz a helyi közösség számára.",
@@ -1305,7 +1305,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-makhosini-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Prinz-Makhosini-Denkmal", hu: "Makhosini herceg emlékmű", ro: "Memorialul Prințului Makhosini", en: "Prince Makhosini Memorial" },
-    coordinates: { lat: -26.4478, lng: 31.2085 },
+    coords: [31.2085, -26.4478],
     description: {
       de: "Ein Denkmal in Lobamba zu Ehren von Prinz Makhosini Dlamini, dem ersten Premierminister von Eswatini.",
       hu: "Emlékmű Lobambában Makhosini Dlamini herceg, Eswatini első miniszterelnöke tiszteletére.",
@@ -1324,7 +1324,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-ngwenya-border-building-landmarks-v2",
     type: "landmark",
     name: { de: "Ngwenya Grenzhalle", hu: "Ngwenya határátkelő épület", ro: "Clădirea Frontierei Ngwenya", en: "Ngwenya Border Building" },
-    coordinates: { lat: -26.2135, lng: 31.0068 },
+    coords: [31.0068, -26.2135],
     description: {
       de: "Das Hauptabfertigungsgebäude am wichtigsten Grenzübergang zwischen Eswatini und Südafrika.",
       hu: "Az Eswatini és Dél-Afrika közötti legfontosabb határátkelőhely fő terminálépülete.",
@@ -1343,7 +1343,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
     id: "swaziland-luphohlo-dam-wall-landmarks-v2",
     type: "landmark",
     name: { de: "Luphohlo-Staumauer", hu: "Luphohlo-gátfal", ro: "Barajul Luphohlo", en: "Luphohlo Dam Wall" },
-    coordinates: { lat: -26.3685, lng: 31.1278 },
+    coords: [31.1278, -26.3685],
     description: {
       de: "Eine beeindruckende Ingenieurleistung in der Nähe von Mbabane, die ein wichtiges Reservoir für Wasserkraft aufstaut.",
       hu: "Lenyűgöző mérnöki teljesítmény Mbabane közelében, amely egy fontos vízerőművi tározót duzzaszt fel.",

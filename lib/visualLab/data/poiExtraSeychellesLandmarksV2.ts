@@ -893,7 +893,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-andrews-church-landmarks-v2",
     type: "church",
     name: { de: "St. Andreas Kirche", hu: "Szent András-templom", ro: "Biserica Sfântul Andrei", en: "St. Andrew's Church" },
-    coordinates: { lat: -4.6683, lng: 55.4981 },
+    coords: [55.4981, -4.6683],
     description: {
       de: "Die Kirche von Cascade ist ein markantes Bauwerk an der Ostküste von Mahé. Sie ist ein zentraler Treffpunkt für die lokale Bevölkerung.",
       hu: "A Cascade-i templom Mahé keleti partjának egyik jellegzetes épülete. A helyi közösség fontos találkozóhelye és vallási központja.",
@@ -912,7 +912,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-john-bosco-church-landmarks-v2",
     type: "church",
     name: { de: "St. Johannes Bosco Kirche", hu: "Szent János Bosco-templom", ro: "Biserica Sfântul Ioan Bosco", en: "St. John Bosco Church" },
-    coordinates: { lat: -4.6678, lng: 55.5172 },
+    coords: [55.5172, -4.6678],
     description: {
       de: "Diese Kirche befindet sich in Pointe Larue in der Nähe des internationalen Flughafens. Sie ist bekannt für ihre schlichte, weiße Fassade.",
       hu: "Ez a templom Pointe Larue-ban található, a nemzetközi repülőtér közelében. Egyszerű, fehér homlokzatáról és nyugodt környezetéről ismert.",
@@ -931,7 +931,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-holy-family-church-landmarks-v2",
     type: "church",
     name: { de: "Heilige Familie Kirche", hu: "Szent Család-templom", ro: "Biserica Sfânta Familie", en: "Holy Family Church" },
-    coordinates: { lat: -4.7111, lng: 55.4792 },
+    coords: [55.4792, -4.7111],
     description: {
       de: "Die Kirche der Heiligen Familie liegt im Bezirk Anse Boileau an der Westküste. Sie ist ein wichtiger Pfeiler der dortigen Gemeinschaft.",
       hu: "A Szent Család-templom Anse Boileau kerületben, a nyugati parton található. A helyi közösség egyik legfontosabb szellemi pillére.",
@@ -950,7 +950,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-our-lady-of-sorrows-landmarks-v2",
     type: "church",
     name: { de: "Kirche Unserer Lieben Frau der Schmerzen", hu: "Fájdalmas Anya-templom", ro: "Biserica Maicii Domnului a Îndurerate", en: "Our Lady of Sorrows Church" },
-    coordinates: { lat: -4.7419, lng: 55.5153 },
+    coords: [55.5153, -4.7419],
     description: {
       de: "Diese Kirche befindet sich in Anse Royale im Süden von Mahé. Sie ist bekannt für ihre historische Architektur und ihre Lage am Meer.",
       hu: "Ez a templom Anse Royale-ban, Mahé déli részén található. Történelmi építészetéről és tengerparti elhelyezkedéséről nevezetes.",
@@ -969,7 +969,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-michaels-church-landmarks-v2",
     type: "church",
     name: { de: "St. Michaels Kirche", hu: "Szent Mihály-templom", ro: "Biserica Sfântul Mihail", en: "St. Michael's Church" },
-    coordinates: { lat: -4.6942, lng: 55.5128 },
+    coords: [55.5128, -4.6942],
     description: {
       de: "Die St. Michaels Kirche in Anse Aux Pins ist ein farbenfrohes Bauwerk. Sie prägt das Ortsbild dieses lebhaften Küstenbezirks maßgeblich.",
       hu: "Az Anse Aux Pins-ben található Szent Mihály-templom egy színes épület. Meghatározza ennek az élénk parti kerületnek a faluképét.",
@@ -988,7 +988,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-peters-church-landmarks-v2",
     type: "church",
     name: { de: "St. Peter Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru", en: "St. Peter's Church" },
-    coordinates: { lat: -4.3317, lng: 55.7619 },
+    coords: [55.7619, -4.3317],
     description: {
       de: "Diese Kirche in Baie Sainte Anne ist eines der wichtigsten religiösen Gebäude auf Praslin. Sie liegt nahe dem Fährterminal der Insel.",
       hu: "Ez a Baie Sainte Anne-ban található templom Praslin egyik legfontosabb vallási épülete. A kompállomás közelében helyezkedik el.",
@@ -1007,7 +1007,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-matthews-church-landmarks-v2",
     type: "church",
     name: { de: "St. Matthäus Kirche", hu: "Szent Máté-templom", ro: "Biserica Sfântul Matei", en: "St. Matthew's Church" },
-    coordinates: { lat: -4.3292, lng: 55.7075 },
+    coords: [55.7075, -4.3292],
     description: {
       de: "Die St. Matthäus Kirche liegt in Grand Anse auf Praslin. Sie ist eine anglikanische Kirche mit einer langen Geschichte in dieser Region.",
       hu: "A Szent Máté-templom Praslin szigetén, Grand Anse-ban található. Ez egy anglikán templom, amely hosszú történelemmel bír a régióban.",
@@ -1026,7 +1026,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-national-archives-landmarks-v2",
     type: "museum",
     name: { de: "Nationalarchiv der Seychellen", hu: "Seychelle-szigeteki Nemzeti Archívum", ro: "Arhivele Naționale din Seychelles", en: "Seychelles National Archives" },
-    coordinates: { lat: -4.6225, lng: 55.4542 },
+    coords: [55.4542, -4.6225],
     description: {
       de: "Das Nationalarchiv in Victoria bewahrt wichtige Dokumente zur Geschichte des Landes auf. Es befindet sich in einem markanten modernen Gebäude.",
       hu: "A victoriai Nemzeti Archívum az ország történelmével kapcsolatos fontos dokumentumokat őrzi. Egy modern, jellegzetes épületben található.",
@@ -1045,7 +1045,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-anse-royale-market-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Anse Royale", hu: "Anse Royale piac", ro: "Piața din Anse Royale", en: "Anse Royale Market" },
-    coordinates: { lat: -4.7431, lng: 55.5147 },
+    coords: [55.5147, -4.7431],
     description: {
       de: "Dieser lokale Markt bietet frischen Fisch, Obst und Gemüse an. Er ist ein lebendiger Treffpunkt im Süden der Insel Mahé.",
       hu: "Ez a helyi piac friss halat, gyümölcsöt és zöldséget kínál. Mahé sziget déli részének élénk és forgalmas találkozóhelye.",
@@ -1064,7 +1064,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-anthony-church-landmarks-v2",
     type: "church",
     name: { de: "St. Antonius Kirche", hu: "Szent Antal-templom", ro: "Biserica Sfântul Anton", en: "St. Anthony's Church" },
-    coordinates: { lat: -4.5912, lng: 55.4415 },
+    coords: [55.4415, -4.5912],
     description: {
       de: "Diese Kirche liegt im Bezirk Anse Etoile im Norden von Mahé. Sie bietet einen weiten Blick über den Ozean und die umliegenden Inseln.",
       hu: "Ez a templom Anse Etoile kerületben, Mahé északi részén található. Széles kilátást nyújt az óceánra és a környező szigetekre.",
@@ -1083,7 +1083,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-st-lukes-church-landmarks-v2",
     type: "church",
     name: { de: "St. Lukas Kirche", hu: "Szent Lukács-templom", ro: "Biserica Sfântul Luca", en: "St. Luke's Church" },
-    coordinates: { lat: -4.6195, lng: 55.4192 },
+    coords: [55.4192, -4.6195],
     description: {
       de: "Die St. Lukas Kirche ist eine anglikanische Glaubensstätte in Bel Ombre. Sie ist bekannt für ihre ruhige Atmosphäre und einfache Bauweise.",
       hu: "A Szent Lukács-templom egy anglikán vallási helyszín Bel Ombre-ban. Csendes légköréről és egyszerű építési stílusáról ismert.",
@@ -1102,7 +1102,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-baie-lazare-school-landmarks-v2",
     type: "landmark",
     name: { de: "Historische Schule von Baie Lazare", hu: "Baie Lazare-i régi iskola", ro: "Școala istorică din Baie Lazare", en: "Baie Lazare Historical School" },
-    coordinates: { lat: -4.7521, lng: 55.4764 },
+    coords: [55.4764, -4.7521],
     description: {
       de: "Dieses Gebäude in Baie Lazare ist ein Beispiel für die koloniale Schularchitektur. Es ist ein wichtiger Teil des kulturellen Erbes der Region.",
       hu: "Ez a Baie Lazare-i épület a gyarmati iskolaépítészet egyik példája. A régió kulturális örökségének fontos részét képezi.",
@@ -1121,7 +1121,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-cascade-school-landmarks-v2",
     type: "landmark",
     name: { de: "Historische Schule von Cascade", hu: "Cascade-i régi iskola", ro: "Școala istorică din Cascade", en: "Cascade Historical School" },
-    coordinates: { lat: -4.6698, lng: 55.4992 },
+    coords: [55.4992, -4.6698],
     description: {
       de: "Die alte Schule von Cascade spiegelt die Bildungsgeschichte der Seychellen wider. Das Gebäude bewahrt seinen ursprünglichen kolonialen Charme.",
       hu: "A Cascade-i régi iskola a Seychelle-szigetek oktatástörténetét tükrözi. Az épület megőrizte eredeti gyarmati korabeli báját.",
@@ -1140,7 +1140,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-victoria-old-pier-landmarks-v2",
     type: "bridge",
     name: { de: "Alte Seebrücke von Victoria", hu: "Victoriai régi móló", ro: "Vechiul ponton din Victoria", en: "Victoria Old Pier" },
-    coordinates: { lat: -4.6211, lng: 55.4578 },
+    coords: [55.4578, -4.6211],
     description: {
       de: "Die alte Seebrücke in Victoria war früher der Hauptankunftspunkt für Schiffe. Heute ist sie ein historisches Überbleibsel des Seehandels.",
       hu: "A victoriai régi móló egykor a hajók elsődleges érkezési pontja volt. Ma a tengeri kereskedelem történelmi emlékhelye.",
@@ -1159,7 +1159,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-praslin-jetty-landmarks-v2",
     type: "landmark",
     name: { de: "Anlegestelle von Praslin", hu: "Praslini móló", ro: "Pontonul din Praslin", en: "Praslin Jetty" },
-    coordinates: { lat: -4.3325, lng: 55.7658 },
+    coords: [55.7658, -4.3325],
     description: {
       de: "Die Anlegestelle in Baie Sainte Anne ist das Tor zur Insel Praslin. Hier kommen die meisten Fähren von Mahé und La Digue an.",
       hu: "A Baie Sainte Anne-i móló Praslin szigetének kapuja. Itt köt ki a legtöbb Mahéról és La Digue-ról érkező komp.",
@@ -1178,7 +1178,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-la-digue-jetty-landmarks-v2",
     type: "landmark",
     name: { de: "Anlegestelle von La Digue", hu: "La Digue-i móló", ro: "Pontonul din La Digue", en: "La Digue Jetty" },
-    coordinates: { lat: -4.3578, lng: 55.8242 },
+    coords: [55.8242, -4.3578],
     description: {
       de: "Die Anlegestelle in La Passe ist der einzige Hafen der Insel La Digue. Sie ist ein zentraler Orientierungspunkt für alle Besucher.",
       hu: "A La Passe-i móló La Digue szigetének egyetlen kikötője. Minden látogató számára központi tájékozódási pontként szolgál.",
@@ -1197,7 +1197,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-catholic-mission-house-landmarks-v2",
     type: "landmark",
     name: { de: "Katholisches Missionshaus", hu: "Katolikus Missziós Ház", ro: "Casa Misiunii Catolice", en: "Catholic Mission House" },
-    coordinates: { lat: -4.6228, lng: 55.4511 },
+    coords: [55.4511, -4.6228],
     description: {
       de: "Das Missionshaus in Victoria ist ein beeindruckendes Gebäude aus der Kolonialzeit. Es dient als Residenz für den katholischen Klerus.",
       hu: "A victoriai missziós ház egy lenyűgöző gyarmati korabeli épület. A katolikus papság rezidenciájaként szolgál az országban.",
@@ -1216,7 +1216,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-victoria-fire-station-landmarks-v2",
     type: "landmark",
     name: { de: "Historische Feuerwache Victoria", hu: "Victoriai régi tűzoltóállomás", ro: "Stația istorică de pompieri din Victoria", en: "Victoria Old Fire Station" },
-    coordinates: { lat: -4.6242, lng: 55.4521 },
+    coords: [55.4521, -4.6242],
     description: {
       de: "Die alte Feuerwache ist ein markantes Erbegebäude im Herzen von Victoria. Sie zeugt von der städtischen Entwicklung der Hauptstadt.",
       hu: "A régi tűzoltóállomás egy jellegzetes örökségi épület Victoria szívében. A főváros városfejlődésének egyik tanúbizonysága.",
@@ -1235,7 +1235,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
     id: "seychelles-bel-eau-school-landmarks-v2",
     type: "landmark",
     name: { de: "Historische Bel Eau Schule", hu: "Bel Eau-i régi iskola", ro: "Școala istorică Bel Eau", en: "Bel Eau Historical School" },
-    coordinates: { lat: -4.6268, lng: 55.4485 },
+    coords: [55.4485, -4.6268],
     description: {
       de: "Das historische Gebäude der Bel Eau Schule ist ein Wahrzeichen in den Hügeln über Victoria. Es hat viele Generationen von Schülern geprägt.",
       hu: "A Bel Eau-i iskola történelmi épülete Victoria feletti dombok egyik nevezetessége. Diákok számos generációját látta vendégül.",

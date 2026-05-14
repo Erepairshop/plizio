@@ -726,7 +726,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
     id: "seychelles-mont-lockyer-relief-v2",
     type: "peak",
     name: { de: "Mont Lockyer", hu: "Mont Lockyer", ro: "Mont Lockyer", en: "Mont Lockyer" },
-    coordinates: { lat: -4.485, lng: 55.242 },
+    coords: [55.242, -4.485],
     description: {
       de: "Mont Lockyer ist mit 455 Metern der zweithöchste Gipfel der Insel Silhouette. Er ist Teil des zentralen Granitgebirges dieser Insel.",
       hu: "A Mont Lockyer a Silhouette-sziget második legmagasabb csúcsa 455 méteres magassággal. A sziget központi gránit hegyláncához tartozik.",
@@ -745,7 +745,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
     id: "seychelles-mont-gratitude-relief-v2",
     type: "peak",
     name: { de: "Mont Gratitude", hu: "Mont Gratitude", ro: "Mont Gratitude", en: "Mont Gratitude" },
-    coordinates: { lat: -4.695, lng: 55.482 },
+    coords: [55.482, -4.695],
     description: {
       de: "Mont Gratitude ist eine Erhebung im Südosten von Mahé mit etwa 250 Metern Höhe. Er erhebt sich über dem Küstengebiet des Anse Royale Distrikts.",
       hu: "A Mont Gratitude egy magaslat Mahé délkeleti részén, körülbelül 250 méteres magasságban. Az Anse Royale körzet partmenti területei felett áll.",
@@ -764,7 +764,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
     id: "seychelles-casse-dent-relief-v2",
     type: "peak",
     name: { de: "Casse Dent", hu: "Casse Dent", ro: "Casse Dent", en: "Casse Dent" },
-    coordinates: { lat: -4.662, lng: 55.445 },
+    coords: [55.445, -4.662],
     description: {
       de: "Casse Dent ist ein Berggipfel im zentralen Hochland der Insel Mahé. Er erreicht eine Höhe von über 600 Metern über dem Meeresspiegel.",
       hu: "A Casse Dent egy hegycsúcs Mahé szigetének központi felföldjén. Magassága meghaladja a 600 métert a tengerszint felett.",

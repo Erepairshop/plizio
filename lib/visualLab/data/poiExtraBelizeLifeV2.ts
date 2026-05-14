@@ -908,7 +908,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     id: "belize-cockscomb-basin-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Cockscomb Basin Schutzgebiet", hu: "Cockscomb-medence Természetvédelmi Terület", ro: "Rezervația Naturală Cockscomb Basin", en: "Cockscomb Basin Wildlife Sanctuary" },
-    coordinates: { lat: 16.7833, lng: -88.5 },
+    coords: [-88.5, 16.7833],
     description: {
       de: "Das 1986 gegründete Schutzgebiet ist das weltweit erste offizielle Reservat für Jaguare. Es schützt über 400 Quadratkilometer tropischen Regenwald im Stann Creek Distrikt.",
       hu: "Az 1986-ban alapított terület a világ első hivatalos jaguárrezervátuma. Több mint 400 négyzetkilométernyi trópusi esőerdőt véd a Stann Creek körzetben.",
@@ -922,12 +922,24 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: ["World's first jaguar reserve", "Established in 1986", "Area approx 400 km²", "Home to Victoria Peak"],
     },
     imageHint: "jaguar in cockscomb basin jungle",
+    descriptionAdvanced: {
+      de: "Das Cockscomb Basin Wildlife Sanctuary in Belize ist das weltweit erste Schutzgebiet für Jaguare, gegründet 1986. Es erstreckt sich über 400 km² im Stann Creek District und umfasst tropischen Regenwald, Flüsse und Wasserfälle. Das Reservat beherbergt über 290 Vogelarten, 70 Säugetierarten und zahlreiche Reptilien. Es ist ein Paradies für Ökotouristen mit Wanderwegen und Vogelbeobachtungsmöglichkeiten. Die Schutzzone wird von der Belize Audubon Society verwaltet.",
+      hu: "A Cockscomb Basin Wildlife Sanctuary Belize-ben a világ első jaguárvédelmi területe, amelyet 1986-ban hoztak létre. 400 km²-es területet foglal el a Stann Creek Districtben, trópusi esőerdővel, folyókkal és vízesésekkel. A rezervátum több mint 290 madárfajnak, 70 emlősfajnak és számos hüllőnek ad otthont. Az ökoturisták paradicsoma túraútvonalakkal és madármegfigyelési lehetőségekkel. A védett területet a Belize Audubon Society kezeli.",
+      ro: "Sanctuarul de animale sălbatice Cockscomb Basin din Belize este prima rezervație pentru jaguari din lume, înființată în 1986. Se întinde pe 400 km² în districtul Stann Creek și include pădure tropicală, râuri și cascade. Rezervația găzduiește peste 290 de specii de păsări, 70 de mamifere și numeroase reptile. Este un paradis pentru ecoturiști, cu trasee de drumeție și observare a păsărilor. Zona protejată este administrată de Societatea Audubon din Belize.",
+      en: "The Cockscomb Basin Wildlife Sanctuary in Belize is the world's first jaguar reserve, established in 1986. Spanning 400 km² in the Stann Creek District, it encompasses tropical rainforest, rivers, and waterfalls. The sanctuary hosts over 290 bird species, 70 mammal species, and numerous reptiles. It is a paradise for ecotourists with hiking trails and birdwatching opportunities. The protected area is managed by the Belize Audubon Society.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1986", "Fläche: 400 km²", "Jaguarpopulation: ca. 200", "Vogelarten: 290+", "Wanderwege: 30 km", "Höchster Wasserfall: 50 m"],
+      hu: ["Alapítva: 1986", "Terület: 400 km²", "Jaguár populáció: kb. 200", "Madárfajok: 290+", "Túraútvonalak: 30 km", "Legmagasabb vízesés: 50 m"],
+      ro: ["Înființat în 1986", "Suprafață: 400 km²", "Populație de jaguari: aproximativ 200", "Specii de păsări: 290+", "Trasee de drumeție: 30 km", "Cea mai înaltă cascadă: 50 m"],
+      en: ["Established in 1986", "Area: 400 km²", "Jaguar population: about 200", "Bird species: 290+", "Hiking trails: 30 km", "Highest waterfall: 50 m"],
+    },
   },
   {
     id: "belize-half-moon-caye-nature-life-v2",
     type: "wildlife",
     name: { de: "Half Moon Caye Naturschutzgebiet", hu: "Half Moon Caye Természetvédelmi Terület", ro: "Rezervația Naturală Half Moon Caye", en: "Half Moon Caye Natural Monument" },
-    coordinates: { lat: 17.2, lng: -87.53 },
+    coords: [-87.53, 17.2],
     description: {
       de: "Dieses Naturschutzgebiet wurde 1982 gegründet und ist der Nistplatz der seltenen Rotfußtölpel. Es umfasst sowohl den landgestützten Lebensraum als auch die umliegenden Korallenriffe.",
       hu: "Az 1982-ben alapított terület a ritka vöröslábú szula költőhelye. A védett zóna magában foglalja a szigetet és a környező korallzátonyokat.",
@@ -941,12 +953,24 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: ["Belize's first nature reserve", "Key seabird nesting site", "Protects red-footed booby population", "Part of World Heritage Site"],
     },
     imageHint: "red-footed booby on half moon caye",
+    descriptionAdvanced: {
+      de: "Half Moon Caye Natural Monument ist ein Naturdenkmal im Lighthouse Reef Atoll von Belize, etwa 80 km vor der Küste. Es wurde 1982 zum Schutz der Rotfußtölpelkolonie eingerichtet. Die Insel ist von einem Korallenriff umgeben und beherbergt eine der wenigen Brutkolonien dieser Vögel in der Karibik. Das Denkmal ist auch ein wichtiger Nistplatz für Meeresschildkröten. Besucher können das Besucherzentrum erkunden und auf einem Lehrpfad wandern. Das klare Wasser eignet sich zum Schnorcheln.",
+      hu: "A Half Moon Caye Natural Monument egy természeti emlékhely a Belize-i Lighthouse Reef Atollon, a parttól mintegy 80 km-re. 1982-ben hozták létre a vöröslábú szulák kolóniájának védelmére. A szigetet korallzátony veszi körül, és a Karib-térség egyik kevés fészkelőhelye e madarak számára. Az emlékhely fontos tengeri teknős fészkelőhely is. A látogatók felfedezhetik a látogatóközpontot és sétálhatnak a tanösvényen. A tiszta víz alkalmas búvárkodásra.",
+      ro: "Monumentul Natural Half Moon Caye este un monument natural situat pe atolul Lighthouse Reef din Belize, la aproximativ 80 km de coastă. A fost înființat în 1982 pentru a proteja colonia de gâște cu picioare roșii. Insula este înconjurată de un recif de corali și găzduiește una dintre puținele colonii de cuibărit ale acestor păsări din Caraibe. Monumentul este, de asemenea, un important loc de cuibărit pentru țestoasele marine. Vizitatorii pot explora centrul de vizitare și pot merge pe un traseu educațional. Apa limpede este potrivită pentru snorkeling.",
+      en: "Half Moon Caye Natural Monument is a natural monument on the Lighthouse Reef Atoll of Belize, about 80 km offshore. Established in 1982, it protects the red-footed booby colony. The island is surrounded by coral reef and hosts one of the few breeding colonies of these birds in the Caribbean. The monument is also an important nesting site for sea turtles. Visitors can explore the visitor center and walk the nature trail. Clear waters are suitable for snorkeling.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1982", "Fläche: 4 km²", "Brutpaare Rotfußtölpel: 4000", "Meeresschildkröten nisten jährlich: 200", "Wassertiefe Riff: 2-15 m", "Entfernung zur Küste: 80 km"],
+      hu: ["Alapítva: 1982", "Terület: 4 km²", "Vöröslábú szula költőpárok: 4000", "Tengeri teknősök évente fészkelnek: 200", "Vízmélység a zátonynál: 2-15 m", "Távolság a parttól: 80 km"],
+      ro: ["Înființat în 1982", "Suprafață: 4 km²", "Perechi cuibăritoare de gâște: 4000", "Țestoase marine care cuibăresc anual: 200", "Adâncimea apei la recif: 2-15 m", "Distanța de coastă: 80 km"],
+      en: ["Established in 1982", "Area: 4 km²", "Breeding pairs of red-footed boobies: 4000", "Sea turtles nesting annually: 200", "Water depth at reef: 2-15 m", "Distance from coast: 80 km"],
+    },
   },
   {
     id: "belize-mayflower-bocawina-park-life-v2",
     type: "park",
     name: { de: "Mayflower Bocawina Nationalpark", hu: "Mayflower Bocawina Nemzeti Park", ro: "Parcul Național Mayflower Bocawina", en: "Mayflower Bocawina National Park" },
-    coordinates: { lat: 16.83, lng: -88.45 },
+    coords: [-88.45, 16.83],
     description: {
       de: "Der 2001 eingerichtete Park umfasst 29 Quadratkilometer tropischen Regenwald und mehrere Wasserfälle. Das Gebiet beherbergt archäologische Ruinen der Maya und diverse Wildtiere.",
       hu: "A 2001-ben létrehozott park 29 négyzetkilométernyi trópusi esőerdőt és több vízesést foglal magában. A terület maja romokat és változatos állatvilágot rejt.",
@@ -960,12 +984,24 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: ["Established in 2001", "Area of 29 km²", "Known for its waterfalls", "Maya ruins within the park"],
     },
     imageHint: "bocawina falls belize",
+    descriptionAdvanced: {
+      de: "Der Mayflower Bocawina National Park in Belize ist ein 29 km² großer Park im Stann Creek District, gegründet 2001. Er schützt tropischen Regenwald und mehrere Wasserfälle, darunter den 30 Meter hohen Bocawina-Wasserfall. Der Park ist die Heimat von Brüllaffen, Jaguaren und über 200 Vogelarten. Er bietet Wanderwege, Vogelbeobachtung und Schwimmen in natürlichen Pools. Der Park wird von der lokalen Gemeinschaft verwaltet und fördert nachhaltigen Tourismus.",
+      hu: "A Mayflower Bocawina National Park Belize-ben egy 29 km²-es park a Stann Creek Districtben, amelyet 2001-ben hoztak létre. Trópusi esőerdőt és több vízesést véd, köztük a 30 méteres Bocawina-vízesést. A park olyan állatoknak ad otthont, mint a bőgőmajmok, jaguárok és 200 madárfaj. Túraútvonalakat, madármegfigyelést és természetes medencékben való úszást kínál. A parkot a helyi közösség kezeli, és a fenntartható turizmust támogatja.",
+      ro: "Parcul Național Mayflower Bocawina din Belize este un parc de 29 km² situat în districtul Stann Creek, înființat în 2001. Protejează pădurea tropicală și mai multe cascade, inclusiv cascada Bocawina de 30 de metri. Parcul găzduiește maimuțe urlătoare, jaguari și peste 200 de specii de păsări. Oferă trasee de drumeție, observare a păsărilor și înot în bazine naturale. Parcul este administrat de comunitatea locală și promovează turismul durabil.",
+      en: "Mayflower Bocawina National Park in Belize is a 29 km² park in the Stann Creek District, established in 2001. It protects tropical rainforest and several waterfalls, including the 30-meter Bocawina Falls. The park is home to howler monkeys, jaguars, and over 200 bird species. It offers hiking trails, birdwatching, and swimming in natural pools. The park is community-managed and promotes sustainable tourism.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2001", "Fläche: 29 km²", "Bocawina Wasserfall Höhe: 30 m", "Vogelarten: 200+", "Wanderwege: 25 km", "Jaguar Sichtungen pro Jahr: 15"],
+      hu: ["Alapítva: 2001", "Terület: 29 km²", "Bocawina-vízesés magassága: 30 m", "Madárfajok: 200+", "Túraútvonalak: 25 km", "Jaguár észlelések évente: 15"],
+      ro: ["Înființat în 2001", "Suprafață: 29 km²", "Înălțimea cascadei Bocawina: 30 m", "Specii de păsări: 200+", "Trasee de drumeție: 25 km", "Observări de jaguari pe an: 15"],
+      en: ["Established in 2001", "Area: 29 km²", "Bocawina Falls height: 30 m", "Bird species: 200+", "Hiking trails: 25 km", "Jaguar sightings per year: 15"],
+    },
   },
   {
     id: "belize-peccary-hills-reserve-life-v2",
     type: "wildlife",
     name: { de: "Peccary Hills Naturschutzgebiet", hu: "Peccary Hills Természetvédelmi Terület", ro: "Rezervația Peccary Hills", en: "Peccary Hills Reserve" },
-    coordinates: { lat: 17.38, lng: -88.35 },
+    coords: [-88.35, 17.38],
     description: {
       de: "Dieses Reservat schützt ein wichtiges Feuchtgebiet und bewaldete Hügel nahe der Küste. Es bietet Lebensraum für Tapire, Pekaris und zahlreiche Vogelarten.",
       hu: "Ez a rezervátum egy fontos vizes élőhelyet és erdős dombokat véd a tengerpart közelében. Tapírok, pekarik és számos madárfaj élőhelye.",
@@ -979,12 +1015,24 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: ["Coastal nature reserve", "Habitat for tapirs", "Wetland ecosystem", "Important wildlife corridor"],
     },
     imageHint: "white-lipped peccary in forest",
+    descriptionAdvanced: {
+      de: "Das Peccary Hills Reserve in Belize ist ein privates Naturschutzgebiet im Cayo District, etwa 30 km westlich von Belmopan. Es wurde 1998 gegründet und erstreckt sich über 12 km² hügeliges Gelände mit tropischem Trockenwald. Das Reservat ist bekannt für seine Population von Halsbandpekari und anderen Wildtieren wie Hirschen und Affen. Es dient als Forschungsstation für Biodiversität und bietet Ökotourismus mit geführten Wanderungen und Campingmöglichkeiten.",
+      hu: "A Peccary Hills Reserve Belize-ben egy magán természetvédelmi terület a Cayo Districtben, Belmopantól mintegy 30 km-re nyugatra. 1998-ban hozták létre, és 12 km² dombos területet foglal el trópusi száraz erdővel. A rezervátum híres a galléros pekarik populációjáról és más vadon élő állatokról, mint a szarvasok és majmok. Biodiverzitás-kutató állomásként szolgál, és ökoturizmust kínál vezetett túrákkal és kempingezési lehetőségekkel.",
+      ro: "Rezervația Peccary Hills din Belize este o rezervație privată situată în districtul Cayo, la aproximativ 30 km vest de Belmopan. A fost înființată în 1998 și se întinde pe 12 km² de teren deluros cu pădure tropicală uscată. Rezervația este cunoscută pentru populația de pecaris cu colier și alte animale sălbatice, cum ar fi cerbii și maimuțele. Servește ca stație de cercetare a biodiversității și oferă ecoturism cu drumeții ghidate și camping.",
+      en: "Peccary Hills Reserve in Belize is a private nature reserve in the Cayo District, about 30 km west of Belmopan. Established in 1998, it covers 12 km² of hilly terrain with tropical dry forest. The reserve is known for its collared peccary population and other wildlife such as deer and monkeys. It serves as a biodiversity research station and offers ecotourism with guided hikes and camping.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1998", "Fläche: 12 km²", "Höhenlage: 200-400 m", "Pekari Population: ca. 150", "Vogelarten: 150", "Campingplätze: 5"],
+      hu: ["Alapítva: 1998", "Terület: 12 km²", "Tengerszint feletti magasság: 200-400 m", "Pekari populáció: kb. 150", "Madárfajok: 150", "Kempinghelyek: 5"],
+      ro: ["Înființată în 1998", "Suprafață: 12 km²", "Altitudine: 200-400 m", "Populație de pecaris: aproximativ 150", "Specii de păsări: 150", "Locuri de camping: 5"],
+      en: ["Established in 1998", "Area: 12 km²", "Elevation: 200-400 m", "Peccary population: about 150", "Bird species: 150", "Campsites: 5"],
+    },
   },
   {
     id: "belize-private-forest-conservation-life-v2",
     type: "forest",
     name: { de: "Privater Waldschutz Rio Bravo", hu: "Rio Bravo Magánerdő-védelmi Terület", ro: "Rezervația Forestieră Privată Rio Bravo", en: "Rio Bravo Private Forest Conservation Area" },
-    coordinates: { lat: 17.88, lng: -88.95 },
+    coords: [-88.95, 17.88],
     description: {
       de: "Das Gebiet ist eines der größten privaten Naturschutzprojekte in Belize. Es bewahrt einen bedeutenden Teil des tropischen Tieflandwaldes vor Abholzung.",
       hu: "A terület Belize egyik legnagyobb magán természetvédelmi projektje. Jelentős trópusi alföldi esőerdőt véd a fakitermeléstől.",
@@ -998,6 +1046,18 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: ["Largest private reserve in the country", "Protects tropical lowland forests", "Covers thousands of hectares", "Partnership with local NGOs"],
     },
     imageHint: "rio bravo forest canopy",
+    descriptionAdvanced: {
+      de: "Das Rio Bravo Private Forest Conservation Area in Belize ist eines der größten privaten Naturschutzgebiete Mittelamerikas, mit einer Fläche von 1060 km² im Nordwesten des Landes. Es wurde 1996 von der Programme for Belize gegründet und umfasst tropischen Regenwald, Feuchtgebiete und Savannen. Das Gebiet schützt gefährdete Arten wie den Jaguar und den Tapir. Es bietet wissenschaftliche Forschung, nachhaltige Forstwirtschaft und Ökotourismus, einschließlich Vogeleobachtung und Kanufahren auf dem Rio Bravo.",
+      hu: "A Rio Bravo Private Forest Conservation Area Belize-ben Közép-Amerika egyik legnagyobb magán természetvédelmi területe, 1060 km²-es területtel az ország északnyugati részén. 1996-ban alapította a Programme for Belize, és trópusi esőerdőt, vizes élőhelyeket és szavannákat foglal magában. A terület védi a veszélyeztetett fajokat, mint a jaguár és a tapír. Tudományos kutatást, fenntartható erdőgazdálkodást és ökoturizmust kínál, beleértve a madármegfigyelést és a Rio Bravo-n való kenuzást.",
+      ro: "Zona de Conservare a Pădurii Private Rio Bravo din Belize este una dintre cele mai mari rezervații private din America Centrală, cu o suprafață de 1060 km² în nord-vestul țării. A fost înființată în 1996 de Programme for Belize și include pădure tropicală, zone umede și savane. Zona protejează specii amenințate precum jaguarul și tapirul. Oferă cercetare științifică, silvicultură durabilă și ecoturism, inclusiv observarea păsărilor și canotajul pe râul Rio Bravo.",
+      en: "Rio Bravo Private Forest Conservation Area in Belize is one of the largest private reserves in Central America, covering 1060 km² in the northwest of the country. Established in 1996 by Programme for Belize, it includes tropical rainforest, wetlands, and savannas. The area protects endangered species such as the jaguar and tapir. It offers scientific research, sustainable forestry, and ecotourism, including birdwatching and canoeing on the Rio Bravo.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1996", "Fläche: 1060 km²", "Jaguarpopulation: ca. 300", "Tapirpopulation: ca. 100", "Vogelarten: 400", "Länge Rio Bravo: 200 km"],
+      hu: ["Alapítva: 1996", "Terület: 1060 km²", "Jaguár populáció: kb. 300", "Tapír populáció: kb. 100", "Madárfajok: 400", "A Rio Bravo hossza: 200 km"],
+      ro: ["Înființată în 1996", "Suprafață: 1060 km²", "Populație de jaguari: aproximativ 300", "Populație de tapiri: aproximativ 100", "Specii de păsări: 400", "Lungimea râului Rio Bravo: 200 km"],
+      en: ["Established in 1996", "Area: 1060 km²", "Jaguar population: about 300", "Tapir population: about 100", "Bird species: 400", "Length of Rio Bravo: 200 km"],
+    },
   }
 ];
 

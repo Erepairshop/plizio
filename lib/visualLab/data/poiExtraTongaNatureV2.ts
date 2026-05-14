@@ -5,7 +5,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-kao-island-nature-v2",
     type: "peak",
     name: { de: "Insel Kao", hu: "Kao-sziget", ro: "Insula Kao", en: "Kao Island" },
-    coordinates: { lat: -19.6666, lng: -175.0166 },
+    coords: [-175.0166, -19.6666],
     description: {
       de: "Kao ist die höchste Erhebung in Tonga und ein erloschener Vulkan. Der symmetrische Kegel ragt steil aus dem Pazifischen Ozean empor.",
       hu: "Kao Tonga legmagasabb pontja, egy kialudt vulkáni kúp. A szimmetrikus hegy meredeken emelkedik ki a Csendes-óceánból.",
@@ -24,7 +24,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-tofua-volcano-nature-v2",
     type: "wildlife",
     name: { de: "Vulkan Tofua", hu: "Tofua-vulkán", ro: "Vulcanul Tofua", en: "Tofua Volcano" },
-    coordinates: { lat: -19.75, lng: -175.0666 },
+    coords: [-175.0666, -19.75],
     description: {
       de: "Tofua ist eine aktive Vulkaninsel mit einer großen Caldera im Zentrum. In der Mitte der Insel befindet sich ein tiefer Kratersee.",
       hu: "Tofua egy aktív vulkáni sziget, közepén egy hatalmas kalderával. A sziget belsejében egy mély krátertó helyezkedik el.",
@@ -43,7 +43,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-eua-national-park-nature-v2",
     type: "park",
     name: { de: "'Eua Nationalpark", hu: "'Eua Nemzeti Park", ro: "Parcul Național 'Eua", en: "'Eua National Park" },
-    coordinates: { lat: -21.362, lng: -174.928 },
+    coords: [-174.928, -21.362],
     description: {
       de: "Dieser Nationalpark schützt die unberührten Regenwälder der Insel 'Eua. Er ist bekannt für seine dramatischen Klippen und seltene Vogelarten.",
       hu: "Ez a nemzeti park 'Eua szigetének érintetlen esőerdőit védi. Drámai szikláiról és ritka madárfajairól ismert.",
@@ -62,7 +62,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-mapu-a-vaea-nature-v2",
     type: "wildlife",
     name: { de: "Mapu 'a Vaea Blowholes", hu: "Mapu 'a Vaea szökőkutak", ro: "Găurile de suflare Mapu 'a Vaea", en: "Mapu 'a Vaea Blowholes" },
-    coordinates: { lat: -21.1736, lng: -175.2536 },
+    coords: [-175.2536, -21.1736],
     description: {
       de: "Diese natürlichen Blowholes erstrecken sich über fünf Kilometer entlang der Küste von Tongatapu. Bei Flut schießen Wasserfontänen bis zu 30 Meter hoch.",
       hu: "Ezek a természetes vízköpők öt kilométer hosszan húzódnak Tongatapu partján. Dagálykor a vízsugarak akár 30 méter magasra is felszöknek.",
@@ -81,7 +81,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-hufangalupe-nature-v2",
     type: "wildlife",
     name: { de: "Hufangalupe Landbrücke", hu: "Hufangalupe természetes híd", ro: "Podul natural Hufangalupe", en: "Hufangalupe Natural Bridge" },
-    coordinates: { lat: -21.2166, lng: -175.1333 },
+    coords: [-175.1333, -21.2166],
     description: {
       de: "Hufangalupe ist eine gewaltige natürliche Kalksteinbrücke an der Südküste von Tongatapu. Sie entstand durch den Einsturz einer riesigen Meereshöhle.",
       hu: "Hufangalupe egy hatalmas természetes mészkőhíd Tongatapu déli partján. Egy óriási tengeri barlang beomlásával jött létre.",
@@ -100,7 +100,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-lake-ano-nature-v2",
     type: "lake",
     name: { de: "Ano-See", hu: "Ano-tó", ro: "Lacul Ano", en: "Lake Ano" },
-    coordinates: { lat: -18.6416, lng: -174.025 },
+    coords: [-174.025, -18.6416],
     description: {
       de: "Der Ano-See ist der größte Süßwassersee auf der Insel Vava'u. Er liegt versteckt im hügeligen Landesinneren und ist von Wald umgeben.",
       hu: "Az Ano-tó a legnagyobb édesvizű tó Vava'u szigetén. A dombos belső területen rejtőzik, erdővel körülvéve.",
@@ -119,7 +119,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-vai-lahi-lake-nature-v2",
     type: "lake",
     name: { de: "Vai Lahi See", hu: "Vai Lahi-tó", ro: "Lacul Vai Lahi", en: "Vai Lahi Lake" },
-    coordinates: { lat: -15.5916, lng: -175.6283 },
+    coords: [-175.6283, -15.5916],
     description: {
       de: "Vai Lahi ist ein großer Kratersee im Zentrum der Vulkaninsel Niuafo'ou. Er füllt den Boden der riesigen Caldera fast vollständig aus.",
       hu: "A Vai Lahi egy hatalmas krátertó Niuafo'ou vulkáni szigetének közepén. Majdnem teljesen kitölti az óriási kaldera alját.",
@@ -138,7 +138,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-vai-sii-lake-nature-v2",
     type: "lake",
     name: { de: "Vai Si'i See", hu: "Vai Si'i-tó", ro: "Lacul Vai Si'i", en: "Vai Si'i Lake" },
-    coordinates: { lat: -15.5783, lng: -175.6416 },
+    coords: [-175.6416, -15.5783],
     description: {
       de: "Vai Si'i ist der kleinere der beiden Kraterseen auf der Insel Niuafo'ou. Er liegt nordwestlich des Hauptsees in der Caldera.",
       hu: "A Vai Si'i a kisebbik krátertó Niuafo'ou szigetén. A főtótól északnyugatra fekszik a kalderán belül.",
@@ -157,7 +157,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-late-island-nature-v2",
     type: "peak",
     name: { de: "Insel Late", hu: "Late-sziget", ro: "Insula Late", en: "Late Island" },
-    coordinates: { lat: -18.805, lng: -174.65 },
+    coords: [-174.65, -18.805],
     description: {
       de: "Late ist eine unbewohnte Vulkaninsel westlich von Vava'u. Sie besteht aus einem markanten Kegel mit einem kleinen Kratersee auf dem Gipfel.",
       hu: "Late egy lakatlan vulkáni sziget Vava'u-tól nyugatra. Egy markáns kúpból áll, csúcsán egy kis krátertóval.",
@@ -176,7 +176,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-fonualei-volcano-nature-v2",
     type: "peak",
     name: { de: "Fonualei Vulkan", hu: "Fonualei-vulkán", ro: "Vulcanul Fonualei", en: "Fonualei Volcano" },
-    coordinates: { lat: -18.0166, lng: -174.3166 },
+    coords: [-174.3166, -18.0166],
     description: {
       de: "Fonualei ist eine isolierte Vulkaninsel im Norden des Archipels. Der aktive Schichtvulkan ist für seine heftigen historischen Ausbrüche bekannt.",
       hu: "Fonualei egy elszigetelt vulkáni sziget a szigetcsoport északi részén. Az aktív rétegvulkán heves történelmi kitöréseiről ismert.",
@@ -195,7 +195,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-anahulu-cave-nature-v2",
     type: "wildlife",
     name: { de: "Anahulu-Höhle", hu: "Anahulu-barlang", ro: "Peștera Anahulu", en: "Anahulu Cave" },
-    coordinates: { lat: -21.218, lng: -175.109 },
+    coords: [-175.109, -21.218],
     description: {
       de: "Die Anahulu-Höhle ist ein unterirdisches System aus Kalkstein mit natürlichen Süßwasserpools. Sie liegt im Osten der Insel Tongatapu.",
       hu: "Az Anahulu-barlang egy föld alatti mészkőrendszer természetes édesvizű medencékkel. Tongatapu szigetének keleti részén található.",
@@ -214,7 +214,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-mariners-cave-nature-v2",
     type: "wildlife",
     name: { de: "Mariner's Cave", hu: "Mariner's Cave", ro: "Peștera Mariner", en: "Mariner's Cave" },
-    coordinates: { lat: -18.6833, lng: -174.0666 },
+    coords: [-174.0666, -18.6833],
     description: {
       de: "Diese Meereshöhle in Vava'u ist nur durch Tauchen unter Wasser erreichbar. Die Luft im Inneren wird durch den Wellenschlag rhythmisch komprimiert.",
       hu: "Ez a vava'ui tengeri barlang csak víz alatti átúszással érhető el. A benti levegő a hullámzás hatására ritmikusan összesűrűsödik.",
@@ -233,7 +233,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-swallows-cave-nature-v2",
     type: "wildlife",
     name: { de: "Swallow's Cave", hu: "Swallow's Cave", ro: "Peștera Rândunicii", en: "Swallow's Cave" },
-    coordinates: { lat: -18.68, lng: -174.045 },
+    coords: [-174.045, -18.68],
     description: {
       de: "Die Swallow's Cave ist eine große, lichtdurchflutete Meereshöhle auf der Insel Kapa. Sie ist bekannt für ihre blau schimmernden Wasserreflexionen.",
       hu: "A Swallow's Cave egy hatalmas, fényárban úszó tengeri barlang Kapa szigetén. Kékben játszó vízi fényeiről és tükröződéseiről híres.",
@@ -252,7 +252,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-haatafu-beach-nature-v2",
     type: "wildlife",
     name: { de: "Ha'atafu Strand", hu: "Ha'atafu-strand", ro: "Plaja Ha'atafu", en: "Ha'atafu Beach" },
-    coordinates: { lat: -21.0722, lng: -175.3263 },
+    coords: [-175.3263, -21.0722],
     description: {
       de: "Ha'atafu ist ein weißer Sandstrand an der westlichsten Spitze von Tongatapu. Er ist von einem breiten Korallenriff und türkisfarbenem Wasser umgeben.",
       hu: "Ha'atafu egy fehér homokos strand Tongatapu legnyugatibb csücskén. Széles korallzátony és türkizkék víz veszi körül.",
@@ -271,7 +271,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-utu-vavau-cliffs-nature-v2",
     type: "wildlife",
     name: { de: "'Utu Vava'u Klippen", hu: "'Utu Vava'u sziklák", ro: "Stâncile 'Utu Vava'u", en: "'Utu Vava'u Cliffs" },
-    coordinates: { lat: -18.59, lng: -174.0 },
+    coords: [-174.0, -18.59],
     description: {
       de: "Diese dramatischen Kalksteinklippen säumen den nördlichen Rand der Vava'u-Gruppe. Sie fallen hunderte Meter steil in den Ozean ab.",
       hu: "Ezek a drámai mészkősziklák szegélyezik a Vava'u-szigetcsoport északi peremét. Több száz méter mélyen szakadnak az óceánba.",
@@ -290,7 +290,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-fangasito-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Fangasito", hu: "Fangasito-sziget", ro: "Insula Fangasito", en: "Fangasito Island" },
-    coordinates: { lat: -18.8166, lng: -174.0833 },
+    coords: [-174.0833, -18.8166],
     description: {
       de: "Fangasito ist eine kleine, unbewohnte Insel im Süden von Vava'u. Sie ist für ihre unberührten Korallengärten und klaren Gewässer bekannt.",
       hu: "Fangasito egy kicsi, lakatlan sziget Vava'u déli részén. Érintetlen korallkertjeiről és tiszta vizéről ismert.",
@@ -309,7 +309,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-atata-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel 'Atata", hu: "'Atata-sziget", ro: "Insula 'Atata", en: "'Atata Island" },
-    coordinates: { lat: -21.05, lng: -175.25 },
+    coords: [-175.25, -21.05],
     description: {
       de: "Die Insel 'Atata liegt nordwestlich von Nuku'alofa. Sie ist von flachen Lagunen und einem ausgedehnten Riffsystem umgeben.",
       hu: "'Atata szigete Nuku'alofától északnyugatra fekszik. Sekély lagúnák és kiterjedt zátonyrendszer veszi körül.",
@@ -328,7 +328,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-pangaimotu-reef-nature-v2",
     type: "wildlife",
     name: { de: "Pangaimotu Riff", hu: "Pangaimotu-zátony", ro: "Reciful Pangaimotu", en: "Pangaimotu Reef" },
-    coordinates: { lat: -21.125, lng: -175.1583 },
+    coords: [-175.1583, -21.125],
     description: {
       de: "Das Riff um Pangaimotu ist eines der am besten erreichbaren Schnorchelgebiete Tongas. Es liegt nur eine kurze Bootsfahrt von der Hauptstadt entfernt.",
       hu: "A Pangaimotu körüli zátony Tonga egyik legkönnyebben elérhető búvárhelye. Csak egy rövid hajóútra van a fővárostól.",
@@ -347,7 +347,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-nomuka-lake-nature-v2",
     type: "lake",
     name: { de: "Nomuka See", hu: "Nomuka-tó", ro: "Lacul Nomuka", en: "Nomuka Lake" },
-    coordinates: { lat: -20.2583, lng: -174.8 },
+    coords: [-174.8, -20.2583],
     description: {
       de: "Der Nomuka-See ist ein großer Brackwassersee im Zentrum der Insel Nomuka. Er ist von dichtem Buschland und Marschland umgeben.",
       hu: "A Nomuka-tó egy nagy sós vizű tó Nomuka szigetének közepén. Sűrű bozótos és mocsaras vidék veszi körül.",
@@ -366,7 +366,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-lifuka-coastline-nature-v2",
     type: "wildlife",
     name: { de: "Lifuka Küste", hu: "Lifuka partvidék", ro: "Coasta Lifuka", en: "Lifuka Coastline" },
-    coordinates: { lat: -19.7833, lng: -174.3333 },
+    coords: [-174.3333, -19.7833],
     description: {
       de: "Die Küste von Lifuka in der Ha'apai-Gruppe zeichnet sich durch lange Sandstrände und vorgelagerte Riffe aus. Sie ist flach und sehr weitläufig.",
       hu: "Lifuka partvidékét a Ha'apai-csoportban hosszú homokos strandok és közeli zátonyok jellemzik. Alacsony fekvésű és kiterjedt.",
@@ -385,7 +385,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-foa-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Foa", hu: "Foa-sziget", ro: "Insula Foa", en: "Foa Island" },
-    coordinates: { lat: -19.75, lng: -174.2833 },
+    coords: [-174.2833, -19.75],
     description: {
       de: "Die Insel Foa ist über einen Damm mit Lifuka verbunden. Sie ist berühmt für ihre unberührten Korallenriffe und feinen Sandstrände.",
       hu: "Foa szigetét egy töltés köti össze Lifukával. Érintetlen korallzátonyairól és finom homokos strandjairól híres.",
@@ -404,7 +404,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-haano-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Ha'ano", hu: "Ha'ano-sziget", ro: "Insula Ha'ano", en: "Ha'ano Island" },
-    coordinates: { lat: -19.6666, lng: -174.2833 },
+    coords: [-174.2833, -19.6666],
     description: {
       de: "Ha'ano ist die nördlichste bewohnte Insel der Ha'apai-Gruppe. Die Ostküste ist wild und felsig, während die Westküste ruhige Sandstrände bietet.",
       hu: "Ha'ano a Ha'apai-csoport legészakibb lakott szigete. A keleti part vad és sziklás, míg a nyugati nyugodt homokos strandokat kínál.",
@@ -423,7 +423,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-uiha-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel 'Uiha", hu: "'Uiha-sziget", ro: "Insula 'Uiha", en: "'Uiha Island" },
-    coordinates: { lat: -19.9, lng: -174.4 },
+    coords: [-174.4, -19.9],
     description: {
       de: "'Uiha ist eine flache Koralleninsel in der Ha'apai-Gruppe. Sie ist bekannt für ihre weiten weißen Sandbänke und das klare Wasser.",
       hu: "'Uiha egy alacsony korallsziget a Ha'apai-csoportban. Hatalmas fehér homokpadjairól és tiszta vizéről ismert.",
@@ -442,7 +442,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-niuafoou-caldera-nature-v2",
     type: "wildlife",
     name: { de: "Niuafo'ou Caldera", hu: "Niuafo'ou-kaldera", ro: "Caldera Niuafo'ou", en: "Niuafo'ou Caldera" },
-    coordinates: { lat: -15.58, lng: -175.63 },
+    coords: [-175.63, -15.58],
     description: {
       de: "Die Caldera von Niuafo'ou bildet fast die gesamte Fläche der Insel. In ihrem Inneren befinden sich zwei große Seen und mehrere Vulkankegel.",
       hu: "Niuafo'ou kalderája alkotja a sziget szinte teljes területét. Belsejében két nagy tó és több vulkáni kúp található.",
@@ -461,7 +461,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-niuatoputapu-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Niuatoputapu", hu: "Niuatoputapu-sziget", ro: "Insula Niuatoputapu", en: "Niuatoputapu Island" },
-    coordinates: { lat: -15.95, lng: -173.75 },
+    coords: [-173.75, -15.95],
     description: {
       de: "Niuatoputapu ist eine vulkanische Insel mit einem zentralen Kamm. Sie ist von einem weiten Riff und einer wunderschönen Lagune umgeben.",
       hu: "Niuatoputapu egy vulkáni sziget központi gerinccel. Széles zátony és gyönyörű lagúna veszi körül.",
@@ -480,7 +480,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-tafahi-volcano-nature-v2",
     type: "peak",
     name: { de: "Vulkan Tafahi", hu: "Tafahi-vulkán", ro: "Vulcanul Tafahi", en: "Tafahi Volcano" },
-    coordinates: { lat: -15.85, lng: -173.7166 },
+    coords: [-173.7166, -15.85],
     description: {
       de: "Tafahi ist eine kleine, kegelförmige Vulkaninsel nördlich von Niuatoputapu. Der Berg dominiert die gesamte Inselfläche.",
       hu: "Tafahi egy kicsi, kúp alakú vulkáni sziget Niuatoputapu-tól északra. A hegy uralja az egész szigetet.",
@@ -499,7 +499,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-hunga-tonga-nature-v2",
     type: "wildlife",
     name: { de: "Hunga Tonga-Hunga Ha'apai", hu: "Hunga Tonga-Hunga Ha'apai", ro: "Hunga Tonga-Hunga Ha'apai", en: "Hunga Tonga-Hunga Ha'apai" },
-    coordinates: { lat: -20.545, lng: -175.385 },
+    coords: [-175.385, -20.545],
     description: {
       de: "Dies ist ein massiver Unterwasservulkan, der durch seine gewaltige Eruption im Jahr 2022 weltbekannt wurde. Die Inseloberfläche veränderte sich dabei dramatisch.",
       hu: "Ez egy hatalmas víz alatti vulkán, amely a 2022-es óriási kitörése révén vált világhírűvé. A sziget felszíne drasztikusan megváltozott.",
@@ -518,7 +518,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-falcon-island-nature-v2",
     type: "wildlife",
     name: { de: "Falcon Island", hu: "Falcon-sziget", ro: "Insula Falcon", en: "Falcon Island" },
-    coordinates: { lat: -20.3166, lng: -175.35 },
+    coords: [-175.35, -20.3166],
     description: {
       de: "Falcon Island (Fonuafo'ou) ist eine ephemere Vulkaninsel, die regelmäßig auftaucht und wieder durch Erosion im Meer versinkt.",
       hu: "Falcon-sziget (Fonuafo'ou) egy efemer vulkáni sziget, amely időről időre felbukkan, majd az erózió miatt újra elmerül.",
@@ -537,7 +537,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-toku-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Toku", hu: "Toku-sziget", ro: "Insula Toku", en: "Toku Island" },
-    coordinates: { lat: -18.15, lng: -174.1833 },
+    coords: [-174.1833, -18.15],
     description: {
       de: "Toku ist eine unbewohnte Vulkaninsel im Norden von Vava'u. Sie ist flach und von dichten tropischen Wäldern bewachsen.",
       hu: "Toku egy lakatlan vulkáni sziget Vava'u-tól északra. Alacsony fekvésű, sűrű trópusi erdők borítják.",
@@ -556,7 +556,7 @@ export const tongaNatureV2: POI[] = [
     id: "tonga-vavau-archipelago-nature-v2",
     type: "wildlife",
     name: { de: "Vava'u Archipel", hu: "Vava'u-szigetcsoport", ro: "Arhipelagul Vava'u", en: "Vava'u Archipelago" },
-    coordinates: { lat: -18.65, lng: -173.9833 },
+    coords: [-173.9833, -18.65],
     description: {
       de: "Der Vava'u Archipel besteht aus über 50 Inseln mit tiefen Fjorden und Korallenriffen. Er gilt als eines der schönsten Segelreviere der Welt.",
       hu: "A Vava'u-szigetcsoport több mint 50 szigetből áll, mély fjordokkal és korallzátonyokkal. A világ egyik legszebb vitorlázóhelye.",

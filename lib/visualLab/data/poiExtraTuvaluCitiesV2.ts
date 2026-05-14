@@ -5,7 +5,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-vaiaku-cities-v2",
     type: "capital",
     name: { de: "Vaiaku", hu: "Vaiaku", ro: "Vaiaku", en: "Vaiaku" },
-    coordinates: { lat: -8.524, lng: 179.194 },
+    coords: [179.194, -8.524],
     description: {
       de: "Vaiaku ist das Verwaltungszentrum von Funafuti und Sitz der Regierung von Tuvalu. Das Dorf liegt am Ufer der Lagune auf der Insel Fongafale.",
       hu: "Vaiaku Funafuti adminisztratív központja és Tuvalu kormányának székhelye. A falu a Fongafale-sziget belső lagúnájának partján fekszik.",
@@ -24,7 +24,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-lolua-cities-v2",
     type: "city",
     name: { de: "Lolua", hu: "Lolua", ro: "Lolua", en: "Lolua" },
-    coordinates: { lat: -5.676, lng: 176.126 },
+    coords: [176.126, -5.676],
     description: {
       de: "Lolua ist die größte Siedlung auf dem Nanumea-Atoll im Norden von Tuvalu. Das Dorf dient als kulturelles und administratives Zentrum der Inselgruppe.",
       hu: "Lolua a Nanumea-atoll legnagyobb települése Tuvalu északi részén. A falu a szigetcsoport kulturális és adminisztratív központjaként szolgál.",
@@ -43,7 +43,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-tokelau-village-cities-v2",
     type: "village",
     name: { de: "Tokelau", hu: "Tokelau", ro: "Tokelau", en: "Tokelau" },
-    coordinates: { lat: -6.286, lng: 176.315 },
+    coords: [176.315, -6.286],
     description: {
       de: "Tokelau ist eines der beiden Hauptdörfer auf der Insel Nanumanga. Es liegt an der Westküste und beherbergt die meisten sozialen Einrichtungen der Insel.",
       hu: "Tokelau a Nanumanga-sziget két fő falujának egyike. A nyugati parton fekszik, és itt található a sziget legtöbb szociális intézménye.",
@@ -62,7 +62,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-kulia-cities-v2",
     type: "city",
     name: { de: "Kulia", hu: "Kulia", ro: "Kulia", en: "Kulia" },
-    coordinates: { lat: -6.107, lng: 177.348 },
+    coords: [177.348, -6.107],
     description: {
       de: "Kulia ist die bevölkerungsreichste Siedlung auf der Insel Niutao. Das Dorf zeichnet sich durch seine dichte Bebauung und das traditionelle Maneapa aus.",
       hu: "Kulia a Niutao-sziget legnépesebb települése. A falut sűrű beépítettség és a hagyományos közösségi ház, a Maneapa jellemzi.",
@@ -81,7 +81,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-tanrake-cities-v2",
     type: "city",
     name: { de: "Tanrake", hu: "Tanrake", ro: "Tanrake", en: "Tanrake" },
-    coordinates: { lat: -7.225, lng: 177.148 },
+    coords: [177.148, -7.225],
     description: {
       de: "Tanrake ist das administrative Zentrum des Nui-Atolls. Die Bewohner sprechen einen Dialekt, der eng mit der Sprache von Kiribati verwandt ist.",
       hu: "Tanrake a Nui-atoll adminisztratív központja. A lakosok egy olyan nyelvjárást beszélnek, amely szoros kapcsolatban áll Kiribati nyelvével.",
@@ -100,7 +100,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-savave-cities-v2",
     type: "city",
     name: { de: "Savave", hu: "Savave", ro: "Savave", en: "Savave" },
-    coordinates: { lat: -8.016, lng: 178.481 },
+    coords: [178.481, -8.016],
     description: {
       de: "Savave ist das Hauptdorf auf dem Nukufetau-Atoll. Es liegt auf einer kleinen Insel am westlichen Rand der Lagune und beherbergt die lokale Regierung.",
       hu: "Savave a Nukufetau-atoll fő faluja. A lagúna nyugati szélén, egy kis szigeten fekszik, és itt található a helyi önkormányzat.",
@@ -119,7 +119,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-fangaua-cities-v2",
     type: "city",
     name: { de: "Fangaua", hu: "Fangaua", ro: "Fangaua", en: "Fangaua" },
-    coordinates: { lat: -9.381, lng: 179.852 },
+    coords: [179.852, -9.381],
     description: {
       de: "Fangaua ist die einzige Siedlung auf dem Nukulaelae-Atoll. Das Dorf liegt im Westen des Atolls und ist für seine ruhige, abgelegene Lage bekannt.",
       hu: "Fangaua a Nukulaelae-atoll egyetlen települése. A falu az atoll nyugati részén fekszik, és nyugodt, félreeső helyszínéről ismert.",
@@ -138,7 +138,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-alapi-cities-v2",
     type: "village",
     name: { de: "Alapi", hu: "Alapi", ro: "Alapi", en: "Alapi" },
-    coordinates: { lat: -8.521, lng: 179.192 },
+    coords: [179.192, -8.521],
     description: {
       de: "Alapi ist ein zentrales Dorf auf der Insel Fongafale im Funafuti-Atoll. Es grenzt direkt an das Verwaltungszentrum Vaiaku an.",
       hu: "Alapi egy központi falu a Funafuti-atoll Fongafale-szigetén. Közvetlenül határos Vaiaku adminisztratív központjával.",
@@ -157,7 +157,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-fakaifou-cities-v2",
     type: "village",
     name: { de: "Fakaifou", hu: "Fakaifou", ro: "Fakaifou", en: "Fakaifou" },
-    coordinates: { lat: -8.518, lng: 179.193 },
+    coords: [179.193, -8.518],
     description: {
       de: "Fakaifou ist ein bevölkerungsreiches Dorf auf Fongafale, dem Hauptatoll von Tuvalu. Es ist bekannt für seine lebendige Gemeinschaft und Nähe zur Lagune.",
       hu: "Fakaifou egy népes falu Fongafale-n, Tuvalu fő atollján. Élénk közösségéről és a lagúnához való közelségéről ismert.",
@@ -176,7 +176,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-senala-cities-v2",
     type: "village",
     name: { de: "Senala", hu: "Senala", ro: "Senala", en: "Senala" },
-    coordinates: { lat: -8.515, lng: 179.195 },
+    coords: [179.195, -8.515],
     description: {
       de: "Senala ist ein Stadtteil von Funafuti auf der Insel Fongafale. Es ist eine der am dichtesten besiedelten Zonen des Atolls mit vielen Wohngebäuden.",
       hu: "Senala Funafuti egyik városrésze Fongafale szigetén. Az atoll egyik legsűrűbben lakott övezete, számos lakóépülettel.",
@@ -195,7 +195,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-teone-cities-v2",
     type: "village",
     name: { de: "Teone", hu: "Teone", ro: "Teone", en: "Teone" },
-    coordinates: { lat: -8.508, lng: 179.197 },
+    coords: [179.197, -8.508],
     description: {
       de: "Teone liegt im nördlichen Teil der bebauten Zone von Fongafale auf dem Funafuti-Atoll. Es ist ein ruhigeres Wohngebiet im Vergleich zum Zentrum.",
       hu: "Teone a Funafuti-atoll Fongafale-szigetének beépített részének északi területén található. A központhoz képest csendesebb lakóövezet.",
@@ -214,7 +214,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-lofeagai-cities-v2",
     type: "village",
     name: { de: "Lofeagai", hu: "Lofeagai", ro: "Lofeagai", en: "Lofeagai" },
-    coordinates: { lat: -8.486, lng: 179.189 },
+    coords: [179.189, -8.486],
     description: {
       de: "Lofeagai ist ein Dorf im Norden von Fongafale. Es markiert das Ende des dicht bebauten Gebiets und bietet mehr Freiraum als die zentralen Dörfer.",
       hu: "Lofeagai egy falu Fongafale északi részén. Itt ér véget a sűrűn beépített terület, és több szabad teret kínál, mint a központi falvak.",
@@ -233,7 +233,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-niulakita-cities-v2",
     type: "village",
     name: { de: "Niulakita", hu: "Niulakita", ro: "Niulakita", en: "Niulakita" },
-    coordinates: { lat: -10.788, lng: 179.47 },
+    coords: [179.47, -10.788],
     description: {
       de: "Niulakita ist die südlichste Insel von Tuvalu und beherbergt ein einziges kleines Dorf. Es ist die am wenigsten bevölkerte bewohnte Insel des Landes.",
       hu: "Niulakita Tuvalu legdélibb szigete, amely egyetlen kis falunak ad otthont. Ez az ország legkevésbé benépesített lakott szigete.",
@@ -252,7 +252,7 @@ export const tuvaluCitiesV2: POI[] = [
     id: "tuvalu-amatuku-cities-v2",
     type: "village",
     name: { de: "Amatuku", hu: "Amatuku", ro: "Amatuku", en: "Amatuku" },
-    coordinates: { lat: -8.452, lng: 179.161 },
+    coords: [179.161, -8.452],
     description: {
       de: "Amatuku ist eine kleine Inselsiedlung im Funafuti-Atoll. Sie ist primär als Standort der Seefahrtsschule von Tuvalu von nationaler Bedeutung.",
       hu: "Amatuku egy kis szigeti település a Funafuti-atollban. Elsősorban a Tuvalu Tengerészeti Iskola helyszíneként bír nemzeti jelentőséggel.",

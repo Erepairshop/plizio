@@ -1033,7 +1033,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-kissy-cemetery-history-v2",
     type: "landmark",
     name: { de: "Kissy Friedhof", hu: "Kissy temető", ro: "Cimitirul Kissy", en: "Kissy Cemetery" },
-    coordinates: { lat: 8.4833, lng: -13.2 },
+    coords: [-13.2, 8.4833],
     description: {
       de: "Dieser historische Friedhof in Freetown diente im 19. Jahrhundert als Ruhestätte für befreite Sklaven. Er dokumentiert die frühe Geschichte der Siedlung.",
       hu: "Ez a freetowni történelmi temető a 19. században felszabadított rabszolgák nyughelyeként szolgált. Dokumentálja a település korai történetét.",
@@ -1052,7 +1052,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-governor-residence-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Gouverneursresidenz", hu: "Kormányzói rezidencia romjai", ro: "Ruinele reședinței guvernatorului", en: "Governor's Residence Ruins" },
-    coordinates: { lat: 8.4877, lng: -13.2365 },
+    coords: [-13.2365, 8.4877],
     description: {
       de: "Die Überreste des ehemaligen Sitzes der kolonialen Verwaltung befinden sich auf dem Mount Aureol. Die Stätte markiert das Zentrum der britischen Macht.",
       hu: "A volt gyarmati közigazgatási székhely maradványai a Mount Aureol-on találhatók. A helyszín a brit hatalom központját jelöli.",
@@ -1071,7 +1071,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-savannah-radio-station-history-v2",
     type: "landmark",
     name: { de: "Savannah Radiostation", hu: "Savannah rádióállomás", ro: "Stația radio Savannah", en: "Savannah Radio Station" },
-    coordinates: { lat: 9.6133, lng: -11.4333 },
+    coords: [-11.4333, 9.6133],
     description: {
       de: "Diese Anlage in der Nähe von Kabala war ein wichtiger Knotenpunkt für die Kommunikation während der Unabhängigkeitsphase. Sie ist heute ein technisches Denkmal.",
       hu: "Ez a Kabala melletti létesítmény fontos kommunikációs csomópont volt a függetlenségi időszakban. Ma technikai emlékhely.",
@@ -1090,7 +1090,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-makeni-old-railway-station-history-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof Makeni", hu: "Régi makeni vasútállomás", ro: "Gara veche Makeni", en: "Makeni Old Railway Station" },
-    coordinates: { lat: 8.8833, lng: -12.0333 },
+    coords: [-12.0333, 8.8833],
     description: {
       de: "Der Bahnhof war ein zentrales Element des Sierra Leone Government Railway Netzwerks. Heute zeugen die alten Strukturen vom Handel der kolonialen Ära.",
       hu: "Az állomás a Sierra Leone Government Railway hálózat központi eleme volt. A régi építmények ma a gyarmati korszak kereskedelméről tanúskodnak.",
@@ -1109,7 +1109,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-bonthe-district-prison-history-v2",
     type: "landmark",
     name: { de: "Bonthe Bezirksgefängnis", hu: "Bonthe kerületi börtön", ro: "Închisoarea districtului Bonthe", en: "Bonthe District Prison" },
-    coordinates: { lat: 7.5333, lng: -12.5 },
+    coords: [-12.5, 7.5333],
     description: {
       de: "Dieses historische Gebäude in Bonthe stammt aus der Kolonialzeit. Es steht als Beispiel für die Strafverfolgung des 19. Jahrhunderts.",
       hu: "Ez a bonthe-i történelmi épület a gyarmati időszakból származik. A 19. századi büntetés-végrehajtás példájaként szolgál.",
@@ -1128,7 +1128,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-rokur-trading-post-history-v2",
     type: "ruins",
     name: { de: "Handelsposten Rokur", hu: "Rokur kereskedelmi állomás", ro: "Post comercial Rokur", en: "Rokur Trading Post" },
-    coordinates: { lat: 9.1167, lng: -12.5667 },
+    coords: [-12.5667, 9.1167],
     description: {
       de: "Die Ruinen dieses Postens am Little Scarcies River waren einst bedeutend für den lokalen Austausch von Waren. Sie erinnern an die Handelsrouten der Vergangenheit.",
       hu: "A Little Scarcies folyó menti állomás romjai egykor jelentősek voltak a helyi árucserében. A múlt kereskedelmi útvonalaira emlékeztetnek.",
@@ -1147,7 +1147,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-pendembu-railway-yard-history-v2",
     type: "ruins",
     name: { de: "Bahnhofsgelände Pendembu", hu: "Pendembu vasúti pályaudvar", ro: "Depoul feroviar Pendembu", en: "Pendembu Railway Yard" },
-    coordinates: { lat: 8.2333, lng: -10.9667 },
+    coords: [-10.9667, 8.2333],
     description: {
       de: "Das Gelände war ein wichtiger Endpunkt der Eisenbahnlinie im Osten. Heute sind nur noch die Gleisbetten und verfallende Strukturen sichtbar.",
       hu: "A terület a keleti vasútvonal fontos végállomása volt. Ma már csak a vágányágyak és az omladozó szerkezetek láthatók.",
@@ -1166,7 +1166,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-masimera-chief-palace-history-v2",
     type: "palace",
     name: { de: "Palast des Häuptlings von Masimera", hu: "Masimera törzsfőnöki palotája", ro: "Palatul șefului din Masimera", en: "Chief Palace of Masimera" },
-    coordinates: { lat: 8.75, lng: -12.35 },
+    coords: [-12.35, 8.75],
     description: {
       de: "Dieser Palast repräsentiert die traditionelle Herrschaftsform der Region. Das Gebäude bewahrt historische Bauelemente aus lokaler Tradition.",
       hu: "Ez a palota a régió hagyományos uralmi formáját képviseli. Az épület megőrzi a helyi hagyományokból származó történelmi építészeti elemeket.",
@@ -1185,7 +1185,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-rotifunk-mission-history-v2",
     type: "landmark",
     name: { de: "Rotifunk Missionsstation", hu: "Rotifunk missziós állomás", ro: "Misiunea Rotifunk", en: "Rotifunk Mission Station" },
-    coordinates: { lat: 8.1667, lng: -12.4333 },
+    coords: [-12.4333, 8.1667],
     description: {
       de: "Die Missionsstation spielte eine zentrale Rolle bei der Verbreitung von Bildung im späten 19. Jahrhundert. Einige Gebäude sind im ursprünglichen Zustand erhalten.",
       hu: "A missziós állomás központi szerepet játszott az oktatás terjesztésében a 19. század végén. Néhány épület eredeti állapotában fennmaradt.",
@@ -1204,7 +1204,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-lunsar-old-mosque-history-v2",
     type: "landmark",
     name: { de: "Alte Moschee von Lunsar", hu: "Lunsar régi mecsetje", ro: "Marea Moschee veche din Lunsar", en: "Lunsar Old Mosque" },
-    coordinates: { lat: 8.6833, lng: -12.5333 },
+    coords: [-12.5333, 8.6833],
     description: {
       de: "Dieses Gebäude zeugt von der frühen Verbreitung des Islam in der Region. Die Architektur spiegelt traditionelle Bauweisen der Umgebung wider.",
       hu: "Ez az épület az iszlám korai elterjedéséről tanúskodik a régióban. Az építészet a környék hagyományos építési módjait tükrözi.",
@@ -1223,7 +1223,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-bana-historical-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Bana", hu: "Bana történelmi falu", ro: "Sat istoric Bana", en: "Bana Historical Village" },
-    coordinates: { lat: 9.25, lng: -11.95 },
+    coords: [-11.95, 9.25],
     description: {
       de: "Bana ist bekannt für seine gut erhaltenen Strukturen, die das Leben im vor-kolonialen Sierra Leone veranschaulichen. Es bietet Einblicke in traditionelle Siedlungsformen.",
       hu: "Bana jól megőrzött építményeiről ismert, amelyek a gyarmati korszak előtti Sierra Leone életét szemléltetik. Bepillantást enged a hagyományos települési formákba.",
@@ -1242,7 +1242,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-kenema-old-market-history-v2",
     type: "landmark",
     name: { de: "Alter Marktplatz von Kenema", hu: "Kenema régi piaca", ro: "Vechea piață din Kenema", en: "Kenema Old Market" },
-    coordinates: { lat: 7.8667, lng: -11.1833 },
+    coords: [-11.1833, 7.8667],
     description: {
       de: "Der historische Marktplatz war das wirtschaftliche Herz von Kenema. Er diente über Generationen als zentraler Treffpunkt für den regionalen Handel.",
       hu: "A történelmi piac Kenema gazdasági szíve volt. Generációkon át a regionális kereskedelem központi találkozóhelyeként szolgált.",
@@ -1261,7 +1261,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-magburaka-old-clocks-history-v2",
     type: "tower",
     name: { de: "Uhrturm von Magburaka", hu: "Magburaka óratornya", ro: "Turnul cu ceas din Magburaka", en: "Magburaka Clock Tower" },
-    coordinates: { lat: 8.7167, lng: -11.95 },
+    coords: [-11.95, 8.7167],
     description: {
       de: "Dieser Turm wurde als Symbol für Modernisierung in der Kolonialzeit errichtet. Er markiert bis heute das Stadtzentrum von Magburaka.",
       hu: "Ezt a tornyot a modernizáció jelképeként emelték a gyarmati időszakban. A mai napig Magburaka városközpontját jelöli.",
@@ -1280,7 +1280,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-koidu-old-diamond-office-history-v2",
     type: "landmark",
     name: { de: "Altes Diamantenbüro Koidu", hu: "Koidu régi gyémántirodája", ro: "Vechiul birou de diamante din Koidu", en: "Koidu Old Diamond Office" },
-    coordinates: { lat: 8.65, lng: -10.9667 },
+    coords: [-10.9667, 8.65],
     description: {
       de: "Dieses Büro war während des Diamantenbooms das Zentrum der Verwaltung. Es steht heute für den historischen Einfluss der Bergbauindustrie auf Koidu.",
       hu: "Ez az iroda a gyémántláz idején a közigazgatás központja volt. Ma a bányászat Koidura gyakorolt történelmi hatását jelképezi.",
@@ -1299,7 +1299,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-koindu-border-post-history-v2",
     type: "landmark",
     name: { de: "Historischer Grenzposten Koindu", hu: "Koindu történelmi határállomása", ro: "Postul istoric de frontieră Koindu", en: "Koindu Historical Border Post" },
-    coordinates: { lat: 8.7833, lng: -10.15 },
+    coords: [-10.15, 8.7833],
     description: {
       de: "Koindu war lange Zeit ein bedeutender Knotenpunkt für den grenzüberschreitenden Handel. Der historische Grenzposten zeugt von dieser Ära.",
       hu: "Koindu hosszú ideig jelentős csomópont volt a határon átnyúló kereskedelem számára. A történelmi határállomás erről az időszakról tanúskodik.",
@@ -1318,7 +1318,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-kailahun-colonial-ruins-history-v2",
     type: "ruins",
     name: { de: "Koloniale Ruinen Kailahun", hu: "Kailahun gyarmati romjai", ro: "Ruinele coloniale din Kailahun", en: "Kailahun Colonial Ruins" },
-    coordinates: { lat: 8.2833, lng: -10.5667 },
+    coords: [-10.5667, 8.2833],
     description: {
       de: "Diese Ruinen in Kailahun repräsentieren die Ära der britischen Verwaltung im Hinterland. Sie bieten eine visuelle Geschichte der kolonialen Präsenz.",
       hu: "Ezek a kailahuni romok a brit közigazgatás korszakát képviselik a hátországban. Vizuális történetet nyújtanak a gyarmati jelenlétről.",
@@ -1337,7 +1337,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-daru-military-barracks-history-v2",
     type: "landmark",
     name: { de: "Militärkaserne Daru", hu: "Daru katonai laktanya", ro: "Cazarma militară Daru", en: "Daru Military Barracks" },
-    coordinates: { lat: 8.0167, lng: -10.85 },
+    coords: [-10.85, 8.0167],
     description: {
       de: "Daru ist historisch als Standort einer wichtigen Kaserne bekannt. Sie spielte in verschiedenen Phasen der nationalen Verteidigungsgeschichte eine Rolle.",
       hu: "Daru történelmileg egy fontos laktanya helyszíneként ismert. Szerepet játszott a nemzeti védelmi történelem különböző szakaszaiban.",
@@ -1356,7 +1356,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-moyamba-old-school-history-v2",
     type: "landmark",
     name: { de: "Historische Schule Moyamba", hu: "Moyamba történelmi iskolája", ro: "Școala istorică din Moyamba", en: "Moyamba Historical School" },
-    coordinates: { lat: 8.1667, lng: -12.4167 },
+    coords: [-12.4167, 8.1667],
     description: {
       de: "Diese Schule war eine der ersten Bildungsstätten in Moyamba. Sie steht als historisches Zeugnis für den Aufbau des Bildungswesens in der Region.",
       hu: "Ez az iskola volt az egyik első oktatási intézmény Moyambában. Történelmi tanúbizonyságként áll a régió oktatási rendszerének kiépítéséről.",
@@ -1375,7 +1375,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-jaiama-sewafe-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Jaiama-Sewafe", hu: "Jaiama-Sewafe romjai", ro: "Ruinele din Jaiama-Sewafe", en: "Jaiama-Sewafe Ruins" },
-    coordinates: { lat: 8.4333, lng: -11.15 },
+    coords: [-11.15, 8.4333],
     description: {
       de: "Diese Stätte in Jaiama-Sewafe zeigt Reste alter Siedlungsstrukturen. Sie ist wichtig für das Verständnis der lokalen Geschichte vor dem industriellen Wandel.",
       hu: "Ez a jaiama-sewafei helyszín a régi települési struktúrák maradványait mutatja. Fontos a helyi történelem megértéséhez az ipari átalakulás előtt.",
@@ -1394,7 +1394,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-pujehun-historical-site-history-v2",
     type: "landmark",
     name: { de: "Historisches Pujehun", hu: "Történelmi Pujehun", ro: "Pujehun istoric", en: "Pujehun Historical Site" },
-    coordinates: { lat: 7.35, lng: -11.7333 },
+    coords: [-11.7333, 7.35],
     description: {
       de: "Pujehun verfügt über eine reiche koloniale Vergangenheit. Die historischen Gebäude im Stadtzentrum dokumentieren den Einfluss der Handelsverbindungen.",
       hu: "Pujehun gazdag gyarmati múlttal rendelkezik. A városközpont történelmi épületei dokumentálják a kereskedelmi kapcsolatok befolyását.",
@@ -1413,7 +1413,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-tongo-field-mine-ruins-history-v2",
     type: "ruins",
     name: { de: "Tongo Grubenruinen", hu: "Tongo bányaromok", ro: "Ruinele minelor Tongo", en: "Tongo Mine Ruins" },
-    coordinates: { lat: 8.0167, lng: -11.1333 },
+    coords: [-11.1333, 8.0167],
     description: {
       de: "Die verlassenen Anlagen bei Tongo stehen für den historischen Diamantenabbau. Sie dienen als Mahnmal für die industrielle Entwicklung der Region.",
       hu: "A Tongo melletti elhagyott létesítmények a történelmi gyémántbányászatot jelképezik. A régió ipari fejlődésének mementójaként szolgálnak.",
@@ -1432,7 +1432,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-mambolo-trading-post-history-v2",
     type: "landmark",
     name: { de: "Mambolo Handelsposten", hu: "Mambolo kereskedelmi állomás", ro: "Post comercial Mambolo", en: "Mambolo Trading Post" },
-    coordinates: { lat: 9.15, lng: -12.75 },
+    coords: [-12.75, 9.15],
     description: {
       de: "Mambolo war einst ein wichtiger lokaler Handelspunkt. Die historischen Strukturen erinnern an den Warenaustausch im 19. Jahrhundert.",
       hu: "Mambolo egykor fontos helyi kereskedelmi pont volt. A történelmi struktúrák a 19. századi árucserére emlékeztetnek.",
@@ -1451,7 +1451,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-yonibana-colonial-office-history-v2",
     type: "landmark",
     name: { de: "Kolonialbüro Yonibana", hu: "Yonibana gyarmati iroda", ro: "Birou colonial Yonibana", en: "Yonibana Colonial Office" },
-    coordinates: { lat: 8.5667, lng: -12.0667 },
+    coords: [-12.0667, 8.5667],
     description: {
       de: "Das Gebäude des ehemaligen Kolonialbüros in Yonibana ist ein Beispiel für administrative Architektur des frühen 20. Jahrhunderts.",
       hu: "A yonibanai egykori gyarmati iroda épülete a 20. század eleji közigazgatási építészet példája.",
@@ -1470,7 +1470,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-sumbaria-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Sumbaria", hu: "Sumbaria romjai", ro: "Ruinele din Sumbaria", en: "Sumbaria Ruins" },
-    coordinates: { lat: 8.2833, lng: -12.4333 },
+    coords: [-12.4333, 8.2833],
     description: {
       de: "Sumbaria ist bekannt für seine historischen Siedlungsüberreste. Sie geben Aufschluss über die frühe Besiedlung dieses Gebiets.",
       hu: "Sumbaria ismert történelmi településmaradványairól. Fényt derítenek a terület korai betelepülésére.",
@@ -1489,7 +1489,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-fadugu-chief-court-history-v2",
     type: "landmark",
     name: { de: "Häuptlingsgericht Fadugu", hu: "Fadugu törzsfőnöki bíróság", ro: "Tribunalul șefului din Fadugu", en: "Fadugu Chief Court" },
-    coordinates: { lat: 9.45, lng: -11.6667 },
+    coords: [-11.6667, 9.45],
     description: {
       de: "Das Gerichtsgebäude ist ein historisches Zentrum der traditionellen Rechtsprechung in Fadugu. Es bewahrt lokale juristische Traditionen.",
       hu: "A bírósági épület a hagyományos jogszolgáltatás történelmi központja Faduguban. Megőrzi a helyi jogi hagyományokat.",
@@ -1508,7 +1508,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-benduma-historical-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Benduma", hu: "Benduma történelmi falu", ro: "Sat istoric Benduma", en: "Benduma Historical Village" },
-    coordinates: { lat: 7.9167, lng: -11.2 },
+    coords: [-11.2, 7.9167],
     description: {
       de: "Benduma bewahrt historische Bauweisen und Strukturen. Das Dorf ist ein Beispiel für die Siedlungskultur der Region vor der Moderne.",
       hu: "Benduma megőrzi a történelmi építési módokat és struktúrákat. A falu a modern kor előtti régió települési kultúrájának példája.",
@@ -1527,7 +1527,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-sumbuya-port-history-v2",
     type: "port",
     name: { de: "Historischer Hafen Sumbuya", hu: "Sumbuya történelmi kikötője", ro: "Portul istoric Sumbuya", en: "Sumbuya Historical Port" },
-    coordinates: { lat: 7.55, lng: -12.2833 },
+    coords: [-12.2833, 7.55],
     description: {
       de: "Sumbuya war ein bedeutender Flusshafen für den Warentransport in der Region. Die Anlagen zeugen vom historischen Handelsverkehr.",
       hu: "Sumbuya jelentős folyami kikötő volt a régió áruszállításához. A létesítmények a történelmi kereskedelmi forgalomról tanúskodnak.",
@@ -1546,7 +1546,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-mano-railway-stop-history-v2",
     type: "landmark",
     name: { de: "Bahnhof Mano", hu: "Mano vasútállomás", ro: "Gara Mano", en: "Mano Railway Stop" },
-    coordinates: { lat: 8.0833, lng: -11.9667 },
+    coords: [-11.9667, 8.0833],
     description: {
       de: "Der Bahnhof von Mano war Teil der wichtigen historischen Eisenbahnstrecke. Er diente dem Transport von Gütern und Passagieren.",
       hu: "Mano vasútállomása a fontos történelmi vasútvonal része volt. Áruk és utasok szállítására szolgált.",
@@ -1565,7 +1565,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
     id: "sierraleone-taiama-historical-bridge-history-v2",
     type: "bridge",
     name: { de: "Historische Brücke Taiama", hu: "Taiama történelmi hídja", ro: "Podul istoric Taiama", en: "Taiama Historical Bridge" },
-    coordinates: { lat: 8.1667, lng: -12.2333 },
+    coords: [-12.2333, 8.1667],
     description: {
       de: "Diese Brücke war ein entscheidendes Verbindungsstück der regionalen Infrastruktur im 20. Jahrhundert. Sie ist ein Beispiel früher Ingenieurskunst.",
       hu: "Ez a híd a 20. századi regionális infrastruktúra döntő összekötő eleme volt. A korai mérnöki munka példája.",

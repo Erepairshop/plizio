@@ -163,7 +163,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-barinas-cities-v2",
     type: "city",
     name: { de: "Barinas", hu: "Barinas", ro: "Barinas", en: "Barinas" },
-    coordinates: { lat: 8.64, lng: -70.21 },
+    coords: [-70.21, 8.64],
     description: {
       de: "Barinas ist die Hauptstadt des gleichnamigen Bundesstaates im westlichen Venezuela. Die Stadt liegt in der Llanos-Region und dient als wichtiges landwirtschaftliches Handelszentrum.",
       hu: "Barinas az azonos nevű venezuelai szövetségi állam fővárosa. A város a Llanos régióban fekszik, és jelentős mezőgazdasági kereskedelmi központként szolgál.",
@@ -182,7 +182,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-cumana-cities-v2",
     type: "city",
     name: { de: "Cumaná", hu: "Cumaná", ro: "Cumaná", en: "Cumaná" },
-    coordinates: { lat: 10.46, lng: -64.17 },
+    coords: [-64.17, 10.46],
     description: {
       de: "Cumaná ist die Hauptstadt des Bundesstaates Sucre im Nordosten Venezuelas. Sie gilt als die älteste von Europäern gegründete Stadt auf dem südamerikanischen Festland.",
       hu: "Cumaná Sucre állam fővárosa Venezuela északkeleti részén. Ez tekinthető a legősibb európai alapítású városnak a dél-amerikai kontinensen.",
@@ -201,7 +201,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-coro-cities-v2",
     type: "city",
     name: { de: "Santa Ana de Coro", hu: "Santa Ana de Coro", ro: "Santa Ana de Coro", en: "Santa Ana de Coro" },
-    coordinates: { lat: 11.41, lng: -69.67 },
+    coords: [-69.67, 11.41],
     description: {
       de: "Santa Ana de Coro ist die Hauptstadt des Bundesstaates Falcón. Die Stadt ist für ihre gut erhaltene koloniale Architektur bekannt und gehört zum Weltkulturerbe.",
       hu: "Santa Ana de Coro Falcón állam fővárosa. A város jól megőrzött gyarmati építészetéről ismert, és a világörökség része.",
@@ -220,7 +220,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-guanare-cities-v2",
     type: "city",
     name: { de: "Guanare", hu: "Guanare", ro: "Guanare", en: "Guanare" },
-    coordinates: { lat: 9.04, lng: -69.75 },
+    coords: [-69.75, 9.04],
     description: {
       de: "Guanare ist die Hauptstadt des Bundesstaates Portuguesa. Die Stadt ist als 'spirituelle Hauptstadt' Venezuelas bekannt aufgrund der Basilika der Jungfrau von Coromoto.",
       hu: "Guanare Portuguesa állam fővárosa. A város Venezuela 'lelki fővárosaként' ismert a Coromotoi Szűz Mária bazilika miatt.",
@@ -239,7 +239,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-valera-cities-v2",
     type: "city",
     name: { de: "Valera", hu: "Valera", ro: "Valera", en: "Valera" },
-    coordinates: { lat: 9.32, lng: -70.61 },
+    coords: [-70.61, 9.32],
     description: {
       de: "Valera ist eine wichtige Wirtschaftsstadt im Bundesstaat Trujillo. Obwohl sie nicht die Hauptstadt ist, gilt sie als kommerzielles Zentrum der Region.",
       hu: "Valera fontos gazdasági város Trujillo államban. Bár nem a főváros, a régió kereskedelmi központjaként tartják számon.",
@@ -258,7 +258,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-maturin-cities-v2",
     type: "city",
     name: { de: "Maturín", hu: "Maturín", ro: "Maturín", en: "Maturín" },
-    coordinates: { lat: 9.75, lng: -63.18 },
+    coords: [-63.18, 9.75],
     description: {
       de: "Maturín ist die Hauptstadt des Bundesstaates Monagas. Die Stadt ist das Zentrum der Erdölindustrie im Osten Venezuelas und verfügt über eine bedeutende Infrastruktur.",
       hu: "Maturín Monagas állam fővárosa. A város a kelet-venezuelai kőolajipar központja, és jelentős infrastruktúrával rendelkezik.",
@@ -277,7 +277,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-ciudad-bolivar-cities-v2",
     type: "city",
     name: { de: "Ciudad Bolívar", hu: "Ciudad Bolívar", ro: "Ciudad Bolívar", en: "Ciudad Bolívar" },
-    coordinates: { lat: 8.13, lng: -63.54 },
+    coords: [-63.54, 8.13],
     description: {
       de: "Ciudad Bolívar ist die Hauptstadt des Bundesstaates Bolívar. Sie liegt am Orinoco und war früher als Angostura bekannt, ein historisch bedeutender Handelsort.",
       hu: "Ciudad Bolívar Bolívar állam fővárosa. Az Orinoco folyó partján fekszik, és korábban Angostura néven volt ismert, mint történelmileg jelentős kereskedelmi központ.",
@@ -296,7 +296,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-puerto-ordaz-cities-v2",
     type: "city",
     name: { de: "Puerto Ordaz", hu: "Puerto Ordaz", ro: "Puerto Ordaz", en: "Puerto Ordaz" },
-    coordinates: { lat: 8.32, lng: -62.7 },
+    coords: [-62.7, 8.32],
     description: {
       de: "Puerto Ordaz ist eine moderne Industriestadt im Bundesstaat Bolívar. Sie bildet zusammen mit San Félix die Stadt Ciudad Guayana und ist ein Zentrum für Stahl und Aluminium.",
       hu: "Puerto Ordaz modern ipari város Bolívar államban. San Félixel együtt alkotja Ciudad Guayanát, és a vas- és alumíniumipar központja.",
@@ -315,7 +315,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-acarigua-cities-v2",
     type: "city",
     name: { de: "Acarigua", hu: "Acarigua", ro: "Acarigua", en: "Acarigua" },
-    coordinates: { lat: 9.56, lng: -69.2 },
+    coords: [-69.2, 9.56],
     description: {
       de: "Acarigua ist eine bedeutende Stadt im Bundesstaat Portuguesa. Sie ist ein Zentrum für die Getreideproduktion und dient als wichtiger Handelspunkt in der Region.",
       hu: "Acarigua fontos város Portuguesa államban. A gabonatermesztés központja, és fontos kereskedelmi pontként szolgál a régióban.",
@@ -334,7 +334,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-valencia-new-cities-v2",
     type: "city",
     name: { de: "Naguanagua", hu: "Naguanagua", ro: "Naguanagua", en: "Naguanagua" },
-    coordinates: { lat: 10.28, lng: -68.02 },
+    coords: [-68.02, 10.28],
     description: {
       de: "Naguanagua ist ein wichtiger Teil des Großraums Valencia im Bundesstaat Carabobo. Es ist bekannt für seine Wohnviertel und universitäre Einrichtungen.",
       hu: "Naguanagua a Carabobo állambeli Valencia nagyvárosi körzet fontos része. Lakónegyedeiről és egyetemi intézményeiről ismert.",
@@ -353,7 +353,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-maracay-new-cities-v2",
     type: "city",
     name: { de: "Turmero", hu: "Turmero", ro: "Turmero", en: "Turmero" },
-    coordinates: { lat: 10.22, lng: -67.45 },
+    coords: [-67.45, 10.22],
     description: {
       de: "Turmero ist eine Stadt im Bundesstaat Aragua, nahe Maracay. Sie hat in den letzten Jahrzehnten ein starkes Bevölkerungswachstum erlebt.",
       hu: "Turmero város Aragua államban, Maracay közelében. Az elmúlt évtizedekben jelentős népességnövekedést tapasztalt.",
@@ -372,7 +372,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-punta-fijo-cities-v2",
     type: "city",
     name: { de: "Punta Fijo", hu: "Punta Fijo", ro: "Punta Fijo", en: "Punta Fijo" },
-    coordinates: { lat: 11.69, lng: -70.19 },
+    coords: [-70.19, 11.69],
     description: {
       de: "Punta Fijo ist die größte Stadt auf der Halbinsel Paraguaná im Bundesstaat Falcón. Sie ist eng mit der Erdölindustrie verbunden.",
       hu: "Punta Fijo a legnagyobb város a Paraguaná-félszigeten, Falcón államban. Szorosan kapcsolódik a kőolajiparhoz.",
@@ -391,7 +391,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-el-vigia-cities-v2",
     type: "city",
     name: { de: "El Vigía", hu: "El Vigía", ro: "El Vigía", en: "El Vigía" },
-    coordinates: { lat: 8.62, lng: -71.65 },
+    coords: [-71.65, 8.62],
     description: {
       de: "El Vigía ist eine aufstrebende Stadt im Bundesstaat Mérida. Sie dient als wichtiger Verkehrsknotenpunkt und landwirtschaftliches Handelszentrum für den südlichen Maracaibo-See.",
       hu: "El Vigía feltörekvő város Mérida államban. Fontos közlekedési csomópontként és mezőgazdasági kereskedelmi központként szolgál a Maracaibo-tó déli részén.",
@@ -410,7 +410,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-upata-cities-v2",
     type: "city",
     name: { de: "Upata", hu: "Upata", ro: "Upata", en: "Upata" },
-    coordinates: { lat: 8.01, lng: -62.4 },
+    coords: [-62.4, 8.01],
     description: {
       de: "Upata ist eine Stadt im Bundesstaat Bolívar, nahe der Grenze zur Region Guayana. Sie ist bekannt für ihre Viehzucht und den Handel in der Region.",
       hu: "Upata város Bolívar államban, Guayana régió határának közelében. Állattenyésztéséről és kereskedelméről ismert a régióban.",
@@ -429,7 +429,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-cabimas-cities-v2",
     type: "city",
     name: { de: "Cabimas", hu: "Cabimas", ro: "Cabimas", en: "Cabimas" },
-    coordinates: { lat: 10.39, lng: -71.45 },
+    coords: [-71.45, 10.39],
     description: {
       de: "Cabimas ist eine Stadt am östlichen Ufer des Maracaibo-Sees im Bundesstaat Zulia. Sie ist historisch eng mit der Ölförderung verbunden.",
       hu: "Cabimas város a Maracaibo-tó keleti partján, Zulia államban. Történelmileg szorosan kapcsolódik az olajkitermeléshez.",
@@ -448,7 +448,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-ciudad-ojeda-cities-v2",
     type: "city",
     name: { de: "Ciudad Ojeda", hu: "Ciudad Ojeda", ro: "Ciudad Ojeda", en: "Ciudad Ojeda" },
-    coordinates: { lat: 10.17, lng: -71.3 },
+    coords: [-71.3, 10.17],
     description: {
       de: "Ciudad Ojeda ist eine geplante Industriestadt am Maracaibo-See. Sie wurde in den 1930er Jahren gegründet, um die Erdölindustrie zu unterstützen.",
       hu: "Ciudad Ojeda tervezett ipari város a Maracaibo-tónál. Az 1930-as években alapították a kőolajipar támogatására.",
@@ -467,7 +467,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-carora-cities-v2",
     type: "city",
     name: { de: "Carora", hu: "Carora", ro: "Carora", en: "Carora" },
-    coordinates: { lat: 10.17, lng: -70.08 },
+    coords: [-70.08, 10.17],
     description: {
       de: "Carora ist eine historische Stadt im Bundesstaat Lara. Sie ist für ihre koloniale Architektur und ihre landwirtschaftliche Tradition bekannt.",
       hu: "Carora történelmi város Lara államban. Gyarmati építészetéről és mezőgazdasági hagyományairól ismert.",
@@ -486,7 +486,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-guacara-cities-v2",
     type: "city",
     name: { de: "Guacara", hu: "Guacara", ro: "Guacara", en: "Guacara" },
-    coordinates: { lat: 10.23, lng: -67.88 },
+    coords: [-67.88, 10.23],
     description: {
       de: "Guacara ist eine Stadt in der Nähe von Valencia im Bundesstaat Carabobo. Sie hat sich zu einem industriellen Zentrum entwickelt.",
       hu: "Guacara város Valencia közelében, Carabobo államban. Ipari központtá fejlődött.",
@@ -505,7 +505,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-puerto-cabello-cities-v2",
     type: "city",
     name: { de: "Puerto Cabello", hu: "Puerto Cabello", ro: "Puerto Cabello", en: "Puerto Cabello" },
-    coordinates: { lat: 10.47, lng: -68.01 },
+    coords: [-68.01, 10.47],
     description: {
       de: "Puerto Cabello ist eine bedeutende Hafenstadt im Bundesstaat Carabobo. Sie verfügt über einen der wichtigsten Tiefseehäfen Venezuelas.",
       hu: "Puerto Cabello jelentős kikötőváros Carabobo államban. Venezuela egyik legfontosabb mélyvízi kikötőjével rendelkezik.",
@@ -524,7 +524,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-la-victoria-cities-v2",
     type: "city",
     name: { de: "La Victoria", hu: "La Victoria", ro: "La Victoria", en: "La Victoria" },
-    coordinates: { lat: 10.22, lng: -67.33 },
+    coords: [-67.33, 10.22],
     description: {
       de: "La Victoria ist eine Stadt im Bundesstaat Aragua. Sie liegt in einem Tal und ist ein wichtiger Knotenpunkt für Pendler in der Region.",
       hu: "La Victoria város Aragua államban. Egy völgyben fekszik, és fontos csomópont az ingázók számára a régióban.",
@@ -543,7 +543,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-tovar-cities-v2",
     type: "city",
     name: { de: "Tovar", hu: "Tovar", ro: "Tovar", en: "Tovar" },
-    coordinates: { lat: 8.34, lng: -71.74 },
+    coords: [-71.74, 8.34],
     description: {
       de: "Tovar ist eine Stadt im Bundesstaat Mérida. Sie ist bekannt für ihre landschaftliche Schönheit und ihre andine Kultur.",
       hu: "Tovar város Mérida államban. Természeti szépségéről és andoki kultúrájáról ismert.",
@@ -562,7 +562,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-charallave-cities-v2",
     type: "city",
     name: { de: "Charallave", hu: "Charallave", ro: "Charallave", en: "Charallave" },
-    coordinates: { lat: 10.24, lng: -66.86 },
+    coords: [-66.86, 10.24],
     description: {
       de: "Charallave ist eine Stadt im Bundesstaat Miranda. Aufgrund ihrer Nähe zu Caracas hat sie sich zu einem wichtigen Wohnort für Pendler entwickelt.",
       hu: "Charallave város Miranda államban. Caracas közelsége miatt fontos lakóhellyé vált az ingázók számára.",
@@ -581,7 +581,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-san-antonio-de-los-altos-cities-v2",
     type: "city",
     name: { de: "San Antonio de los Altos", hu: "San Antonio de los Altos", ro: "San Antonio de los Altos", en: "San Antonio de los Altos" },
-    coordinates: { lat: 10.37, lng: -66.92 },
+    coords: [-66.92, 10.37],
     description: {
       de: "San Antonio de los Altos ist eine Stadt im Bundesstaat Miranda, nahe Caracas. Sie liegt in einer bergigen Region und ist bekannt für ihr angenehmes Klima.",
       hu: "San Antonio de los Altos város Miranda államban, Caracas közelében. Egy hegyvidéki régióban fekszik, és kellemes klímájáról ismert.",
@@ -600,7 +600,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-quibor-cities-v2",
     type: "city",
     name: { de: "Quíbor", hu: "Quíbor", ro: "Quíbor", en: "Quíbor" },
-    coordinates: { lat: 9.93, lng: -69.62 },
+    coords: [-69.62, 9.93],
     description: {
       de: "Quíbor ist eine Stadt im Bundesstaat Lara. Sie ist bekannt für ihr Handwerk, insbesondere die Töpferei, sowie ihre archäologischen Funde.",
       hu: "Quíbor város Lara államban. Kézművesiparáról, különösen a fazekasságról, valamint régészeti leleteiről ismert.",
@@ -619,7 +619,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-el-tocuyo-cities-v2",
     type: "city",
     name: { de: "El Tocuyo", hu: "El Tocuyo", ro: "El Tocuyo", en: "El Tocuyo" },
-    coordinates: { lat: 9.79, lng: -69.79 },
+    coords: [-69.79, 9.79],
     description: {
       de: "El Tocuyo ist eine historische Stadt im Bundesstaat Lara. Sie ist eine der ältesten spanischen Siedlungen im Inland von Venezuela.",
       hu: "El Tocuyo történelmi város Lara államban. Venezuela egyik legrégebbi belföldi spanyol települése.",
@@ -638,7 +638,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-cagua-cities-v2",
     type: "city",
     name: { de: "Cagua", hu: "Cagua", ro: "Cagua", en: "Cagua" },
-    coordinates: { lat: 10.19, lng: -67.46 },
+    coords: [-67.46, 10.19],
     description: {
       de: "Cagua ist eine Stadt im Bundesstaat Aragua. Sie hat sich in den letzten Jahrzehnten stark industrialisiert.",
       hu: "Cagua város Aragua államban. Az elmúlt évtizedekben jelentősen iparosodott.",
@@ -657,7 +657,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-guarenas-cities-v2",
     type: "city",
     name: { de: "Guarenas", hu: "Guarenas", ro: "Guarenas", en: "Guarenas" },
-    coordinates: { lat: 10.47, lng: -66.62 },
+    coords: [-66.62, 10.47],
     description: {
       de: "Guarenas ist eine Stadt im Bundesstaat Miranda, östlich von Caracas. Sie dient als wichtiges Wohnzentrum für die Hauptstadtregion.",
       hu: "Guarenas város Miranda államban, Caracastól keletre. Fontos lakóhelyként szolgál a fővárosi régió számára.",
@@ -676,7 +676,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-guatire-cities-v2",
     type: "city",
     name: { de: "Guatire", hu: "Guatire", ro: "Guatire", en: "Guatire" },
-    coordinates: { lat: 10.48, lng: -66.54 },
+    coords: [-66.54, 10.48],
     description: {
       de: "Guatire liegt neben Guarenas im Bundesstaat Miranda. Die beiden Städte bilden zusammen ein wichtiges urbanes Zentrum östlich von Caracas.",
       hu: "Guatire a Miranda állambeli Guarenas mellett fekszik. A két város együtt fontos városi központot alkot Caracastól keletre.",
@@ -695,7 +695,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-achaguas-cities-v2",
     type: "city",
     name: { de: "Achaguas", hu: "Achaguas", ro: "Achaguas", en: "Achaguas" },
-    coordinates: { lat: 7.94, lng: -68.21 },
+    coords: [-68.21, 7.94],
     description: {
       de: "Achaguas ist eine Stadt im Bundesstaat Apure. Sie liegt in der Llanos-Region und ist ein wichtiges Zentrum für die Viehwirtschaft.",
       hu: "Achaguas város Apure államban. A Llanos régióban fekszik, és az állattenyésztés fontos központja.",
@@ -714,7 +714,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-bocon-cities-v2",
     type: "city",
     name: { de: "Boconó", hu: "Boconó", ro: "Boconó", en: "Boconó" },
-    coordinates: { lat: 9.25, lng: -70.26 },
+    coords: [-70.26, 9.25],
     description: {
       de: "Boconó ist eine Stadt in den Anden im Bundesstaat Trujillo. Sie ist bekannt für ihr angenehmes Klima und ihre landschaftliche Schönheit.",
       hu: "Boconó város az Andokban, Trujillo államban. Kellemes klímájáról és természeti szépségéről ismert.",
@@ -733,7 +733,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-san-juan-de-los-morros-cities-v2",
     type: "city",
     name: { de: "San Juan de los Morros", hu: "San Juan de los Morros", ro: "San Juan de los Morros", en: "San Juan de los Morros" },
-    coordinates: { lat: 9.9, lng: -67.35 },
+    coords: [-67.35, 9.9],
     description: {
       de: "San Juan de los Morros ist die Hauptstadt des Bundesstaates Guárico. Die Stadt ist bekannt für ihre charakteristischen Felsformationen.",
       hu: "San Juan de los Morros Guárico állam fővárosa. A város jellegzetes sziklaképződményeiről ismert.",
@@ -752,7 +752,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-calabozo-cities-v2",
     type: "city",
     name: { de: "Calabozo", hu: "Calabozo", ro: "Calabozo", en: "Calabozo" },
-    coordinates: { lat: 8.93, lng: -67.43 },
+    coords: [-67.43, 8.93],
     description: {
       de: "Calabozo ist eine Stadt im Bundesstaat Guárico. Sie liegt in den Llanos und spielt eine wichtige Rolle in der Landwirtschaft.",
       hu: "Calabozo város Guárico államban. A Llanosban fekszik, és fontos szerepet játszik a mezőgazdaságban.",
@@ -771,7 +771,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-valle-de-la-pascua-cities-v2",
     type: "city",
     name: { de: "Valle de la Pascua", hu: "Valle de la Pascua", ro: "Valle de la Pascua", en: "Valle de la Pascua" },
-    coordinates: { lat: 9.22, lng: -66.0 },
+    coords: [-66.0, 9.22],
     description: {
       de: "Valle de la Pascua ist eine wichtige Stadt im Bundesstaat Guárico. Sie ist ein Zentrum für Handel und Dienstleistungen in der Region.",
       hu: "Valle de la Pascua fontos város Guárico államban. A régió kereskedelmi és szolgáltatási központja.",
@@ -790,7 +790,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-tucupita-cities-v2",
     type: "city",
     name: { de: "Tucupita", hu: "Tucupita", ro: "Tucupita", en: "Tucupita" },
-    coordinates: { lat: 9.06, lng: -62.05 },
+    coords: [-62.05, 9.06],
     description: {
       de: "Tucupita ist die Hauptstadt des Bundesstaates Delta Amacuro. Sie liegt im Orinoco-Delta und ist das Tor zur indigenen Warao-Kultur.",
       hu: "Tucupita Delta Amacuro állam fővárosa. Az Orinoco-deltában fekszik, és a kapu az őslakos Warao kultúra felé.",
@@ -809,7 +809,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-san-fernando-de-apure-cities-v2",
     type: "city",
     name: { de: "San Fernando de Apure", hu: "San Fernando de Apure", ro: "San Fernando de Apure", en: "San Fernando de Apure" },
-    coordinates: { lat: 7.89, lng: -67.47 },
+    coords: [-67.47, 7.89],
     description: {
       de: "San Fernando de Apure ist die Hauptstadt des Bundesstaates Apure. Sie liegt am Fluss Apure und ist das Zentrum der Viehwirtschaft in den Llanos.",
       hu: "San Fernando de Apure Apure állam fővárosa. Az Apure folyónál fekszik, és az állattenyésztés központja a Llanosban.",
@@ -828,7 +828,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-caicara-del-orinoco-cities-v2",
     type: "city",
     name: { de: "Caicara del Orinoco", hu: "Caicara del Orinoco", ro: "Caicara del Orinoco", en: "Caicara del Orinoco" },
-    coordinates: { lat: 7.62, lng: -66.16 },
+    coords: [-66.16, 7.62],
     description: {
       de: "Caicara del Orinoco ist eine Stadt am Orinoco im Bundesstaat Bolívar. Sie dient als wichtiger Flusshafen und Knotenpunkt.",
       hu: "Caicara del Orinoco város az Orinoco mentén, Bolívar államban. Fontos folyami kikötőként és csomópontként szolgál.",
@@ -847,7 +847,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-puerto-ayacucho-cities-v2",
     type: "city",
     name: { de: "Puerto Ayacucho", hu: "Puerto Ayacucho", ro: "Puerto Ayacucho", en: "Puerto Ayacucho" },
-    coordinates: { lat: 5.67, lng: -67.62 },
+    coords: [-67.62, 5.67],
     description: {
       de: "Puerto Ayacucho ist die Hauptstadt des Bundesstaates Amazonas. Sie liegt am Orinoco und ist ein Zentrum für den Handel mit indigenen Gemeinschaften.",
       hu: "Puerto Ayacucho Amazonas állam fővárosa. Az Orinoco partján fekszik, és az őslakos közösségekkel folytatott kereskedelem központja.",
@@ -866,7 +866,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-san-juan-de-colon-cities-v2",
     type: "city",
     name: { de: "San Juan de Colón", hu: "San Juan de Colón", ro: "San Juan de Colón", en: "San Juan de Colón" },
-    coordinates: { lat: 8.02, lng: -72.25 },
+    coords: [-72.25, 8.02],
     description: {
       de: "San Juan de Colón ist eine Stadt im Bundesstaat Táchira. Sie ist ein lokales Zentrum für den Handel und die Landwirtschaft.",
       hu: "San Juan de Colón város Táchira államban. A kereskedelem és a mezőgazdaság helyi központja.",
@@ -885,7 +885,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-coloncito-cities-v2",
     type: "city",
     name: { de: "Coloncito", hu: "Coloncito", ro: "Coloncito", en: "Coloncito" },
-    coordinates: { lat: 8.42, lng: -72.06 },
+    coords: [-72.06, 8.42],
     description: {
       de: "Coloncito ist eine Stadt im Bundesstaat Táchira. Sie dient als wichtiger lokaler Knotenpunkt für die Agrarwirtschaft.",
       hu: "Coloncito város Táchira államban. Fontos helyi csomópontként szolgál a mezőgazdaság számára.",
@@ -904,7 +904,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-bailadores-cities-v2",
     type: "city",
     name: { de: "Bailadores", hu: "Bailadores", ro: "Bailadores", en: "Bailadores" },
-    coordinates: { lat: 8.24, lng: -71.89 },
+    coords: [-71.89, 8.24],
     description: {
       de: "Bailadores ist eine malerische Stadt im Bundesstaat Mérida. Sie ist für ihr kühles Klima und ihre traditionelle Architektur bekannt.",
       hu: "Bailadores festői város Mérida államban. Hűvös klímájáról és hagyományos építészetéről ismert.",
@@ -923,7 +923,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-el-pao-cities-v2",
     type: "city",
     name: { de: "El Pao", hu: "El Pao", ro: "El Pao", en: "El Pao" },
-    coordinates: { lat: 9.64, lng: -68.13 },
+    coords: [-68.13, 9.64],
     description: {
       de: "El Pao ist eine Stadt im Bundesstaat Cojedes. Sie ist ein landwirtschaftliches Zentrum in dieser Region.",
       hu: "El Pao város Cojedes államban. Mezőgazdasági központ ebben a régióban.",
@@ -942,7 +942,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-tinaquillo-cities-v2",
     type: "city",
     name: { de: "Tinaquillo", hu: "Tinaquillo", ro: "Tinaquillo", en: "Tinaquillo" },
-    coordinates: { lat: 9.91, lng: -68.3 },
+    coords: [-68.3, 9.91],
     description: {
       de: "Tinaquillo ist eine Stadt im Bundesstaat Cojedes. Sie ist bekannt für ihre Geschichte und ihre Rolle in der regionalen Wirtschaft.",
       hu: "Tinaquillo város Cojedes államban. Történelméről és a regionális gazdaságban betöltött szerepéről ismert.",
@@ -961,7 +961,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-sabaneta-cities-v2",
     type: "city",
     name: { de: "Sabaneta", hu: "Sabaneta", ro: "Sabaneta", en: "Sabaneta" },
-    coordinates: { lat: 8.79, lng: -70.21 },
+    coords: [-70.21, 8.79],
     description: {
       de: "Sabaneta ist eine Stadt im Bundesstaat Barinas. Sie dient als landwirtschaftlicher Knotenpunkt in der Region.",
       hu: "Sabaneta város Barinas államban. A régió mezőgazdasági csomópontjaként szolgál.",
@@ -980,7 +980,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-socopo-cities-v2",
     type: "city",
     name: { de: "Socopó", hu: "Socopó", ro: "Socopó", en: "Socopó" },
-    coordinates: { lat: 8.52, lng: -71.17 },
+    coords: [-71.17, 8.52],
     description: {
       de: "Socopó ist eine Stadt im Bundesstaat Barinas. Sie ist ein aufstrebendes Zentrum für den Handel und die Agrarwirtschaft.",
       hu: "Socopó város Barinas államban. Feltörekvő központ a kereskedelem és az agráripar számára.",
@@ -999,7 +999,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-merida-ejido-cities-v2",
     type: "city",
     name: { de: "Ejido", hu: "Ejido", ro: "Ejido", en: "Ejido" },
-    coordinates: { lat: 8.54, lng: -71.23 },
+    coords: [-71.23, 8.54],
     description: {
       de: "Ejido ist eine Stadt in der Nähe von Mérida. Sie ist heute fast vollständig mit der Stadt Mérida zusammengewachsen.",
       hu: "Ejido város Mérida közelében. Ma már szinte teljesen összeépült Mérida várossal.",
@@ -1018,7 +1018,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-tabay-cities-v2",
     type: "city",
     name: { de: "Tabay", hu: "Tabay", ro: "Tabay", en: "Tabay" },
-    coordinates: { lat: 8.63, lng: -71.05 },
+    coords: [-71.05, 8.63],
     description: {
       de: "Tabay ist eine Stadt im Bundesstaat Mérida. Sie ist bekannt für ihre Nähe zum Nationalpark Sierra Nevada.",
       hu: "Tabay város Mérida államban. A Sierra Nevada Nemzeti Parkhoz való közelségéről ismert.",
@@ -1037,7 +1037,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-mucuchies-cities-v2",
     type: "city",
     name: { de: "Mucuchíes", hu: "Mucuchíes", ro: "Mucuchíes", en: "Mucuchíes" },
-    coordinates: { lat: 8.76, lng: -70.91 },
+    coords: [-70.91, 8.76],
     description: {
       de: "Mucuchíes ist eine Stadt in den hohen Anden im Bundesstaat Mérida. Sie ist für ihre extreme Höhe und ihre andine Kultur bekannt.",
       hu: "Mucuchíes város a magas Andokban, Mérida államban. Extrém magasságáról és andoki kultúrájáról ismert.",
@@ -1056,7 +1056,7 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
     id: "venezuela-timotes-cities-v2",
     type: "city",
     name: { de: "Timotes", hu: "Timotes", ro: "Timotes", en: "Timotes" },
-    coordinates: { lat: 9.0, lng: -70.73 },
+    coords: [-70.73, 9.0],
     description: {
       de: "Timotes ist eine Stadt im Bundesstaat Mérida. Sie liegt in den Anden und ist ein wichtiger landwirtschaftlicher Marktort.",
       hu: "Timotes város Mérida államban. Az Andokban fekszik, és fontos mezőgazdasági piactér.",

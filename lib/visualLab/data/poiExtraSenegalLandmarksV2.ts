@@ -1087,7 +1087,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-musee-historique-gor-landmarks-v2",
     type: "museum",
     name: { de: "Historisches Museum von Gorée", hu: "Gorée Történeti Múzeum", ro: "Muzeul Istoric din Gorée", en: "Gorée Historical Museum" },
-    coordinates: { lat: 14.6675, lng: -17.3995 },
+    coords: [-17.3995, 14.6675],
     description: {
       de: "Das Museum befindet sich im ehemaligen Fort d'Estrées auf der Insel Gorée. Es dokumentiert die Geschichte Senegals von der Vorgeschichte bis zur Unabhängigkeit.",
       hu: "A múzeum Gorée szigetén, az egykori Fort d'Estrées erődben található. Szenegál történelmét mutatja be az őskortól a függetlenségig.",
@@ -1106,7 +1106,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-palais-justice-dakar-landmarks-v2",
     type: "landmark",
     name: { de: "Justizpalast Dakar", hu: "Dakar Igazságügyi Palota", ro: "Palatul de Justiție din Dakar", en: "Dakar Palace of Justice" },
-    coordinates: { lat: 14.6852, lng: -17.4475 },
+    coords: [-17.4475, 14.6852],
     description: {
       de: "Dieses historische Gebäude am Cap Manuel ist ein prominentes Beispiel für die moderne Architektur der 1960er Jahre in Dakar. Es dient heute als kultureller Ausstellungsort.",
       hu: "A Cap Manuelnél található történelmi épület a dakar-i 1960-as évekbeli modern építészet kiemelkedő példája. Ma kulturális kiállítóhelyként szolgál.",
@@ -1125,7 +1125,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-tour-dakar-plateau-landmarks-v2",
     type: "tower",
     name: { de: "Dakar Plateau Turm", hu: "Dakar Plateau Torony", ro: "Turnul Dakar Plateau", en: "Dakar Plateau Tower" },
-    coordinates: { lat: 14.6735, lng: -17.4392 },
+    coords: [-17.4392, 14.6735],
     description: {
       de: "Der Turm ist ein markantes Bauwerk im Geschäftsviertel Plateau von Dakar. Er fungiert als modernes Büro- und Geschäftszentrum der Stadt.",
       hu: "A torony kiemelkedő építmény Dakar Plateau negyedében. A város modern irodai és üzleti központjaként funkcionál.",
@@ -1144,7 +1144,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-port-de-peche-saint-louis-landmarks-v2",
     type: "port",
     name: { de: "Fischereihafen Saint-Louis", hu: "Saint-Louis Halászkikötő", ro: "Portul Pescăresc din Saint-Louis", en: "Saint-Louis Fishing Port" },
-    coordinates: { lat: 16.0333, lng: -16.4833 },
+    coords: [-16.4833, 16.0333],
     description: {
       de: "Der Hafen von Saint-Louis ist ein zentraler Umschlagplatz für die lokale Fischereiindustrie. Er ist bekannt für seine farbenfrohen traditionellen Pirogen.",
       hu: "Saint-Louis kikötője a helyi halászat központi csomópontja. Ismert a színes, hagyományos pirogjairól.",
@@ -1163,7 +1163,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-musee-femme-dakar-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Frau in Dakar", hu: "Dakar Női Múzeum", ro: "Muzeul Femeii din Dakar", en: "Museum of the Woman in Dakar" },
-    coordinates: { lat: 14.6708, lng: -17.4422 },
+    coords: [-17.4422, 14.6708],
     description: {
       de: "Dieses Museum in Dakar widmet sich der Geschichte und dem Einfluss von Frauen in der senegalesischen Gesellschaft. Es beherbergt zahlreiche ethnografische Artefakte.",
       hu: "Ez a dakar-i múzeum a nők történelmének és a szenegáli társadalomra gyakorolt hatásának szenteli magát. Számos néprajzi tárgyat őriz.",
@@ -1182,7 +1182,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-cathedrale-kaolack-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Kaolack", hu: "Kaolack-i Székesegyház", ro: "Catedrala din Kaolack", en: "Cathedral of Kaolack" },
-    coordinates: { lat: 14.145, lng: -16.082 },
+    coords: [-16.082, 14.145],
     description: {
       de: "Die Kathedrale von Kaolack ist ein bedeutendes christliches Bauwerk in der Stadt. Sie dient als Hauptkirche der Diözese Kaolack.",
       hu: "A kaolack-i székesegyház fontos keresztény építmény a városban. A Kaolack-i egyházmegye főtemplomaként szolgál.",
@@ -1201,7 +1201,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-pont-faidherbe-musee-landmarks-v2",
     type: "museum",
     name: { de: "Faidherbe Brücke Museum", hu: "Faidherbe Híd Múzeum", ro: "Muzeul Podului Faidherbe", en: "Faidherbe Bridge Museum" },
-    coordinates: { lat: 16.0315, lng: -16.4882 },
+    coords: [-16.4882, 16.0315],
     description: {
       de: "Das Museum nahe der Faidherbe-Brücke in Saint-Louis informiert über den Bau und die technische Geschichte dieser historischen Brücke.",
       hu: "A Saint-Louis-i Faidherbe-híd melletti múzeum a híd építéséről és technikai történetéről tájékoztat.",
@@ -1220,7 +1220,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-gare-ferroviaire-thies-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof von Thiès", hu: "Thiès Vasútállomás", ro: "Gara din Thiès", en: "Thiès Railway Station" },
-    coordinates: { lat: 14.7833, lng: -16.9167 },
+    coords: [-16.9167, 14.7833],
     description: {
       de: "Der historische Bahnhof von Thiès war einst ein zentraler Knotenpunkt der Bahnstrecke Dakar-Niger. Er steht heute als technisches Baudenkmal.",
       hu: "Thiès történelmi vasútállomása egykor a Dakar-Niger vasútvonal központi csomópontja volt. Ma műszaki műemlék.",
@@ -1239,7 +1239,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-centre-culturel-ziguinchor-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturzentrum Ziguinchor", hu: "Ziguinchor Kulturális Központ", ro: "Centrul Cultural din Ziguinchor", en: "Ziguinchor Cultural Center" },
-    coordinates: { lat: 12.5833, lng: -16.2667 },
+    coords: [-16.2667, 12.5833],
     description: {
       de: "Dieses Zentrum fördert die Casamance-Kultur durch Kunst, Musik und Tanz. Es dient als wichtiger Treffpunkt für lokale Künstler.",
       hu: "Ez a központ a Casamance kultúrát népszerűsíti művészet, zene és tánc révén. A helyi művészek fontos találkozóhelye.",
@@ -1258,7 +1258,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-maison-koki-landmarks-v2",
     type: "landmark",
     name: { de: "Haus von Koki", hu: "Koki-ház", ro: "Casa din Koki", en: "House of Koki" },
-    coordinates: { lat: 15.655, lng: -15.823 },
+    coords: [-15.823, 15.655],
     description: {
       de: "Koki ist bekannt für seine traditionsreiche Koranschule. Die historische Architektur und Bedeutung machen es zu einem kulturellen Anziehungspunkt.",
       hu: "Koki híres a hagyományokban gazdag Korán-iskolájáról. A történelmi építészet és jelentősége kulturális vonzerővé teszi.",
@@ -1277,7 +1277,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-phare-de-mamelles-museum-landmarks-v2",
     type: "museum",
     name: { de: "Leuchtturmmuseum Mamelles", hu: "Mamelles Világítótorony Múzeum", ro: "Muzeul Farului Mamelles", en: "Mamelles Lighthouse Museum" },
-    coordinates: { lat: 14.7269, lng: -17.5058 },
+    coords: [-17.5058, 14.7269],
     description: {
       de: "Neben dem historischen Leuchtturm befindet sich ein kleines Museum, das die Bedeutung der Schifffahrt für die senegalesische Küste erläutert.",
       hu: "A történelmi világítótorony mellett egy kis múzeum található, amely elmagyarázza a hajózás jelentőségét Szenegál partjainál.",
@@ -1296,7 +1296,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-ancienne-mairie-dakar-landmarks-v2",
     type: "palace",
     name: { de: "Altes Rathaus von Dakar", hu: "Dakar Régi Városháza", ro: "Vechea Primărie din Dakar", en: "Old City Hall of Dakar" },
-    coordinates: { lat: 14.6711, lng: -17.4435 },
+    coords: [-17.4435, 14.6711],
     description: {
       de: "Das historische Rathaus von Dakar ist ein architektonisches Erbe aus der Kolonialzeit. Es befindet sich im Zentrum des Plateau-Viertels.",
       hu: "Dakar történelmi városházája a gyarmati korszak építészeti öröksége. A Plateau negyed központjában található.",
@@ -1315,7 +1315,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-mosquee-stlouis-landmarks-v2",
     type: "church",
     name: { de: "Große Moschee von Saint-Louis", hu: "Saint-Louis Nagymecset", ro: "Marea Moschee din Saint-Louis", en: "Great Mosque of Saint-Louis" },
-    coordinates: { lat: 16.0289, lng: -16.5028 },
+    coords: [-16.5028, 16.0289],
     description: {
       de: "Die Große Moschee von Saint-Louis ist ein historisches religiöses Zentrum in der ehemaligen Hauptstadt Senegals.",
       hu: "Saint-Louis Nagymecsetje egy történelmi vallási központ Szenegál egykori fővárosában.",
@@ -1334,7 +1334,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-musee-art-contemporain-dakar-landmarks-v2",
     type: "museum",
     name: { de: "Museum für zeitgenössische Kunst Dakar", hu: "Dakar Kortárs Művészeti Múzeum", ro: "Muzeul de Artă Contemporană din Dakar", en: "Contemporary Art Museum of Dakar" },
-    coordinates: { lat: 14.675, lng: -17.438 },
+    coords: [-17.438, 14.675],
     description: {
       de: "Dieses Museum präsentiert moderne afrikanische Kunst und dient als Plattform für Künstler aus der gesamten Region.",
       hu: "Ez a múzeum modern afrikai művészetet mutat be, és platformként szolgál a régió művészei számára.",
@@ -1353,7 +1353,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-palais-du-gouverneur-podor-landmarks-v2",
     type: "palace",
     name: { de: "Gouverneurspalast Podor", hu: "Podor-i Kormányzói Palota", ro: "Palatul Guvernatorului din Podor", en: "Governor's Palace of Podor" },
-    coordinates: { lat: 16.6497, lng: -14.9572 },
+    coords: [-14.9572, 16.6497],
     description: {
       de: "Das Gebäude ist ein historisches Zeugnis der Kolonialverwaltung in der Region am Senegalfluss.",
       hu: "Az épület a gyarmati közigazgatás történelmi bizonyítéka a Szenegál-folyó menti régióban.",
@@ -1372,7 +1372,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-marche-diourbel-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Diourbel", hu: "Diourbel Piac", ro: "Piața din Diourbel", en: "Market of Diourbel" },
-    coordinates: { lat: 14.654, lng: -16.239 },
+    coords: [-16.239, 14.654],
     description: {
       de: "Der Markt in Diourbel ist ein belebtes Handelszentrum und ein wichtiger Ort für den Austausch regionaler landwirtschaftlicher Produkte.",
       hu: "Diourbel piaca egy forgalmas kereskedelmi központ és fontos hely a regionális mezőgazdasági termékek cseréjéhez.",
@@ -1391,7 +1391,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-théâtre-kaolack-landmarks-v2",
     type: "theater",
     name: { de: "Theater von Kaolack", hu: "Kaolack Színház", ro: "Teatrul din Kaolack", en: "Theater of Kaolack" },
-    coordinates: { lat: 14.153, lng: -16.071 },
+    coords: [-16.071, 14.153],
     description: {
       de: "Das Theater in Kaolack bietet eine Bühne für lokale Aufführungen und kulturelle Veranstaltungen in der Region.",
       hu: "A kaolack-i színház színpadot biztosít a helyi előadások és kulturális események számára a régióban.",
@@ -1410,7 +1410,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     id: "senegal-stade-aline-sitoe-diatta-ziguinchor-landmarks-v2",
     type: "landmark",
     name: { de: "Aline Sitoe Diatta Stadion Ziguinchor", hu: "Aline Sitoe Diatta Stadion Ziguinchor", ro: "Stadionul Aline Sitoe Diatta Ziguinchor", en: "Aline Sitoe Diatta Stadium Ziguinchor" },
-    coordinates: { lat: 12.571, lng: -16.275 },
+    coords: [-16.275, 12.571],
     description: {
       de: "Das Hauptstadion in Ziguinchor ist nach der antikolonialen Heldin Aline Sitoe Diatta benannt. Es ist ein wichtiger Ort für Sport und Gemeinschaft.",
       hu: "A ziguinchori főstadiont Aline Sitoe Diatta antikoloniális hősnőről nevezték el. Fontos hely a sport és a közösség számára.",

@@ -1087,7 +1087,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-kwiambana-ruins-history-v2",
     type: "ruins",
     name: { de: "Kwiambana Ruinen", hu: "Kwiambana romok", ro: "Ruinele Kwiambana", en: "Kwiambana Ruins" },
-    coordinates: { lat: 11.2333, lng: 7.75 },
+    coords: [7.75, 11.2333],
     description: {
       de: "Die archäologische Stätte besteht aus einer befestigten Stadt aus Lehm. Sie bietet Einblicke in die mittelalterliche Stadtplanung der Region.",
       hu: "Az ásatási terület egy agyagból épült erődített várost tartalmaz. Betekintést nyújt a régió középkori várostervezésébe.",
@@ -1106,7 +1106,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-daura-emirate-palace-history-v2",
     type: "palace",
     name: { de: "Daura Emiratspalast", hu: "Daura emírségi palota", ro: "Palatul Emiratului Daura", en: "Daura Emirate Palace" },
-    coordinates: { lat: 13.0333, lng: 8.3167 },
+    coords: [8.3167, 13.0333],
     description: {
       de: "Dieser Palast ist das Zentrum des Daura-Emirats. Die Stätte symbolisiert die politische Geschichte der Hausa-Staaten.",
       hu: "Ez a palota a Daura Emírség központja. A helyszín a hausza államok politikai történelmét szimbolizálja.",
@@ -1125,7 +1125,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-bende-slave-market-history-v2",
     type: "battlefield",
     name: { de: "Bende Sklavenmarkt", hu: "Bende rabszolgapiac", ro: "Piața de sclavi Bende", en: "Bende Slave Market" },
-    coordinates: { lat: 5.5667, lng: 7.6333 },
+    coords: [7.6333, 5.5667],
     description: {
       de: "Der ehemalige Markt war ein bedeutender Knotenpunkt für den Sklavenhandel im 19. Jahrhundert. Er dient heute als Mahnmal.",
       hu: "Az egykori piac a 19. századi rabszolga-kereskedelem jelentős csomópontja volt. Ma emlékhelyként szolgál.",
@@ -1144,7 +1144,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-kwiambana-fort-history-v2",
     type: "monument",
     name: { de: "Kwiambana Fort", hu: "Kwiambana erőd", ro: "Fortăreața Kwiambana", en: "Kwiambana Fort" },
-    coordinates: { lat: 11.2333, lng: 7.75 },
+    coords: [7.75, 11.2333],
     description: {
       de: "Dieses Befestigungswerk schützte das historische Kwiambana vor Angriffen. Es ist ein Beispiel für lokale Verteidigungsarchitektur.",
       hu: "Ez az erődítmény védte a történelmi Kwiambanát a támadásoktól. A helyi védelmi építészet példája.",
@@ -1163,7 +1163,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-bida-emirate-museum-history-v2",
     type: "museum",
     name: { de: "Bida Emiratsmuseum", hu: "Bida emírségi múzeum", ro: "Muzeul Emiratului Bida", en: "Bida Emirate Museum" },
-    coordinates: { lat: 9.0833, lng: 6.0167 },
+    coords: [6.0167, 9.0833],
     description: {
       de: "Das Museum beherbergt Artefakte der Nupe-Kultur. Es bewahrt die Geschichte und die Handwerkstraditionen der Region.",
       hu: "A múzeum a nupe kultúra tárgyi emlékeit őrzi. Megőrzi a régió történelmét és kézműves hagyományait.",
@@ -1182,7 +1182,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-sultan-sokoto-palace-history-v2",
     type: "palace",
     name: { de: "Sultanpalast von Sokoto", hu: "Sokotói szultáni palota", ro: "Palatul Sultanului din Sokoto", en: "Sultan of Sokoto Palace" },
-    coordinates: { lat: 13.0667, lng: 5.2333 },
+    coords: [5.2333, 13.0667],
     description: {
       de: "Der Palast ist der Sitz des Sultans von Sokoto. Er ist das spirituelle und politische Zentrum des Sokoto-Kalifats.",
       hu: "A palota a sokotói szultán székhelye. A Sokotói Kalifátus spirituális és politikai központja.",
@@ -1201,7 +1201,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-kabba-monument-history-v2",
     type: "monument",
     name: { de: "Kabba Denkmal", hu: "Kabba emlékmű", ro: "Monumentul Kabba", en: "Kabba Monument" },
-    coordinates: { lat: 7.8333, lng: 6.0667 },
+    coords: [6.0667, 7.8333],
     description: {
       de: "Dieses Bauwerk erinnert an die lokale Geschichte der Okun-Leute. Es steht als Symbol für kulturelle Identität.",
       hu: "Ez az építmény az okun nép helyi történelmére emlékeztet. A kulturális identitás szimbólumaként áll.",
@@ -1220,7 +1220,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-old-oyo-ruins-history-v2",
     type: "ruins",
     name: { de: "Alt-Oyo Ruinen", hu: "Ó-Oyo romok", ro: "Ruinele Vechiului Oyo", en: "Old Oyo Ruins" },
-    coordinates: { lat: 8.95, lng: 4.3333 },
+    coords: [4.3333, 8.95],
     description: {
       de: "Diese Ruinen sind die Überreste der Hauptstadt des mächtigen Oyo-Reiches. Das Gelände liegt in einem Nationalpark.",
       hu: "Ezek a romok a hatalmas Oyo Birodalom fővárosának maradványai. A terület egy nemzeti parkban található.",
@@ -1239,7 +1239,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-katsina-palace-history-v2",
     type: "palace",
     name: { de: "Katsina Palast", hu: "Katsina-i palota", ro: "Palatul din Katsina", en: "Katsina Palace" },
-    coordinates: { lat: 12.9833, lng: 7.6 },
+    coords: [7.6, 12.9833],
     description: {
       de: "Der Palast des Emirs von Katsina ist ein prächtiges Beispiel der lokalen Lehmbauweise. Er repräsentiert jahrhundertealte Traditionen.",
       hu: "A katsina-i emír palotája a helyi agyagépítészet egyik pompás példája. Évszázados hagyományokat képvisel.",
@@ -1258,7 +1258,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-gwoza-hill-ruins-history-v2",
     type: "ruins",
     name: { de: "Gwoza Hügel Ruinen", hu: "Gwoza-hegyi romok", ro: "Ruinele dealului Gwoza", en: "Gwoza Hill Ruins" },
-    coordinates: { lat: 11.0833, lng: 13.6833 },
+    coords: [13.6833, 11.0833],
     description: {
       de: "Die Ruinen auf den Gwoza-Hügeln stammen von alten Siedlungen. Die Lage bot natürlichen Schutz vor Eindringlingen.",
       hu: "A Gwoza-hegyen található romok ősi településektől származnak. A helyszín természetes védelmet nyújtott a betolakodók ellen.",
@@ -1277,7 +1277,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-zaria-emu-palace-history-v2",
     type: "palace",
     name: { de: "Emirats-Palast von Zaria", hu: "Zaria emírségi palotája", ro: "Palatul Emiratului Zaria", en: "Zaria Emirate Palace" },
-    coordinates: { lat: 11.1, lng: 7.7 },
+    coords: [7.7, 11.1],
     description: {
       de: "Dieser Palast ist der historische Sitz des Emirs von Zazzau. Er ist für seine aufwendigen Lehmverzierungen bekannt.",
       hu: "Ez a palota a Zazzau emírjének történelmi székhelye. Bonyolult agyagdíszítéseiről ismert.",
@@ -1296,7 +1296,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-ogboni-shrine-history-v2",
     type: "landmark",
     name: { de: "Ogboni Schrein", hu: "Ogboni szentély", ro: "Altarul Ogboni", en: "Ogboni Shrine" },
-    coordinates: { lat: 7.3667, lng: 3.9 },
+    coords: [3.9, 7.3667],
     description: {
       de: "Dies ist ein heiliger Ort für den Ogboni-Bund, eine einflussreiche Yoruba-Organisation. Er spielt eine zentrale Rolle in der Tradition.",
       hu: "Ez az Ogboni-szövetség, egy befolyásos joruba szervezet szent helye. Központi szerepet játszik a hagyományokban.",
@@ -1315,7 +1315,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-kofar-mata-gate-history-v2",
     type: "landmark",
     name: { de: "Kofar Mata Tor", hu: "Kofar Mata kapu", ro: "Poarta Kofar Mata", en: "Kofar Mata Gate" },
-    coordinates: { lat: 12.0, lng: 8.5167 },
+    coords: [8.5167, 12.0],
     description: {
       de: "Dieses historische Stadttor war ein wichtiger Zugang zur befestigten Stadt Kano. Es zeugt von der alten Handelsbedeutung.",
       hu: "Ez a történelmi városkapu fontos bejárat volt a megerődített Kano városába. Tanúskodik a régi kereskedelmi jelentőségről.",
@@ -1334,7 +1334,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-calabar-old-residency-history-v2",
     type: "museum",
     name: { de: "Alte Residenz in Calabar", hu: "Calabar-i régi rezidencia", ro: "Vechea Reședință din Calabar", en: "Old Residency Calabar" },
-    coordinates: { lat: 4.95, lng: 8.3333 },
+    coords: [8.3333, 4.95],
     description: {
       de: "Das Gebäude diente einst als Verwaltungszentrum während der Kolonialzeit. Heute beherbergt es ein Museum für regionale Geschichte.",
       hu: "Az épület egykor adminisztrációs központként szolgált a gyarmati korszakban. Ma regionális történeti múzeumnak ad otthont.",
@@ -1353,7 +1353,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-bini-war-memorial-history-v2",
     type: "monument",
     name: { de: "Bini Kriegerdenkmal", hu: "Bini háborús emlékmű", ro: "Memorialul de război Bini", en: "Bini War Memorial" },
-    coordinates: { lat: 6.3333, lng: 5.6167 },
+    coords: [5.6167, 6.3333],
     description: {
       de: "Das Denkmal erinnert an die Verteidigung des Benin-Königreichs. Es ist ein Symbol für den historischen Widerstand.",
       hu: "Az emlékmű a Benin Birodalom védelmére emlékeztet. A történelmi ellenállás szimbóluma.",
@@ -1372,7 +1372,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-ile-ife-archaeological-history-v2",
     type: "ruins",
     name: { de: "Ile-Ife archäologische Stätte", hu: "Ile-Ife régészeti terület", ro: "Sit arheologic Ile-Ife", en: "Ile-Ife Archaeological Site" },
-    coordinates: { lat: 7.4667, lng: 4.5667 },
+    coords: [4.5667, 7.4667],
     description: {
       de: "Dieser Ort gilt als spirituelles Zentrum der Yoruba. Archäologische Funde belegen eine jahrhundertealte zivilisierte Besiedlung.",
       hu: "Ez a hely a jorubák spirituális központja. Régészeti leletek évszázados civilizált települést bizonyítanak.",
@@ -1391,7 +1391,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-jos-museum-history-v2",
     type: "museum",
     name: { de: "Jos Museum", hu: "Jos-i múzeum", ro: "Muzeul din Jos", en: "Jos Museum" },
-    coordinates: { lat: 9.9231, lng: 8.8833 },
+    coords: [8.8833, 9.9231],
     description: {
       de: "Das Museum ist spezialisiert auf die Nok-Kultur. Es zeigt antike Terrakotta-Skulpturen aus der Region.",
       hu: "A múzeum a Nok-kultúrára specializálódott. Ősi terrakotta szobrokat mutat be a régióból.",
@@ -1410,7 +1410,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-kofa-gate-zaria-history-v2",
     type: "landmark",
     name: { de: "Kofa Tor Zaria", hu: "Kofa kapu Zaria", ro: "Poarta Kofa Zaria", en: "Kofa Gate Zaria" },
-    coordinates: { lat: 11.0833, lng: 7.7167 },
+    coords: [7.7167, 11.0833],
     description: {
       de: "Das historische Tor ist Teil der ehemaligen Stadtbefestigung. Es markiert die Grenze der alten Zaria-Siedlung.",
       hu: "A történelmi kapu az egykori városfal része. Jelöli az régi Zaria település határát.",
@@ -1429,7 +1429,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-sokoto-caliphate-history-v2",
     type: "monument",
     name: { de: "Sokoto Kalifat Gedenkstätte", hu: "Sokotói Kalifátus emlékhely", ro: "Memorialul Califatului Sokoto", en: "Sokoto Caliphate Memorial" },
-    coordinates: { lat: 13.05, lng: 5.25 },
+    coords: [5.25, 13.05],
     description: {
       de: "Diese Gedenkstätte erinnert an die Gründung und Bedeutung des Sokoto-Kalifats. Es ist ein zentraler Ort für die Geschichte.",
       hu: "Ez az emlékhely a Sokotói Kalifátus alapítására és jelentőségére emlékeztet. A történelem központi helyszíne.",
@@ -1448,7 +1448,7 @@ export const poiExtraNigeriaHistoryV2: POI[] = [
     id: "nigeria-bida-city-walls-history-v2",
     type: "ruins",
     name: { de: "Bida Stadtmauern", hu: "Bida városfalai", ro: "Zidurile orașului Bida", en: "Bida City Walls" },
-    coordinates: { lat: 9.0833, lng: 6.0167 },
+    coords: [6.0167, 9.0833],
     description: {
       de: "Überreste der alten Befestigungswälle umgeben die Stadt Bida. Sie zeugen von der strategischen Bedeutung der Nupe-Hauptstadt.",
       hu: "Az ősi védművek maradványai ölelik körül Bida városát. A Nupe főváros stratégiai jelentőségéről tanúskodnak.",

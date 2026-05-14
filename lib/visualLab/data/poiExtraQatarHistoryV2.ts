@@ -649,7 +649,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-qal-at-marir-history-v2",
     type: "castle",
     name: { de: "Qal'at Marir", hu: "Kalat Marir", ro: "Qal'at Marir", en: "Qal'at Marir" },
-    coordinates: { lat: 25.976, lng: 51.045 },
+    coords: [51.045, 25.976],
     description: {
       de: "Ruinen einer befestigten Siedlung, die einst die strategische Wasserversorgung für das nahegelegene Al Zubarah sicherte.",
       hu: "Egy erődített település romjai, amely egykor a közeli Al Zubarah stratégiai vízellátását biztosította.",
@@ -668,7 +668,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-yusufiyah-history-v2",
     type: "ruins",
     name: { de: "Al Yusufiyah", hu: "Al-Juszufijja", ro: "Al Yusufiyah", en: "Al Yusufiyah" },
-    coordinates: { lat: 26.064, lng: 51.103 },
+    coords: [51.103, 26.064],
     description: {
       de: "Überreste eines historischen Fischerdorfes an der Nordwestküste Katars mit sichtbaren Hausgrundrissen aus Kalkstein.",
       hu: "Katar északnyugati partján fekvő történelmi halászfalu maradványai, látható mészkő házalapokkal.",
@@ -687,7 +687,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-ain-mohammed-history-v2",
     type: "ruins",
     name: { de: "Ain Mohammed", hu: "Ajn Mohammed", ro: "Ain Mohammed", en: "Ain Mohammed" },
-    coordinates: { lat: 26.042, lng: 51.055 },
+    coords: [51.055, 26.042],
     description: {
       de: "Verlassene Siedlung im Norden Katars, bekannt für ihre gut erhaltenen Brunnen und landwirtschaftlichen Strukturen.",
       hu: "Elhagyatott település Észak-Katarban, amely jól megőrzött kútjairól és mezőgazdasági építményeiről ismert.",
@@ -706,7 +706,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khuwayr-history-v2",
     type: "ruins",
     name: { de: "Al Khuwayr", hu: "Al-Kuvajr", ro: "Al Khuwayr", en: "Al Khuwayr" },
-    coordinates: { lat: 26.068, lng: 51.141 },
+    coords: [51.141, 26.068],
     description: {
       de: "Ein verlassenes Küstendorf im Norden, dessen Name sich auf die schmale Bucht bezieht, an der es liegt.",
       hu: "Egy elhagyatott északi tengerparti falu, amelynek neve a mellette fekvő keskeny öbölre utal.",
@@ -725,7 +725,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-mafjar-history-v2",
     type: "ruins",
     name: { de: "Al Mafjar", hu: "Al-Mafdzsar", ro: "Al Mafjar", en: "Al Mafjar" },
-    coordinates: { lat: 26.155, lng: 51.275 },
+    coords: [51.275, 26.155],
     description: {
       de: "Historische Siedlung an der Nordspitze Katars, bekannt für ihre malerischen Ruinen am azurblauen Meer.",
       hu: "Történelmi település Katar északi csücskén, amely a tengerparti festői romjairól ismert.",
@@ -744,7 +744,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-ghariyah-history-v2",
     type: "ruins",
     name: { de: "Al Ghariyah", hu: "Al-Garijja", ro: "Al Ghariyah", en: "Al Ghariyah" },
-    coordinates: { lat: 26.112, lng: 51.328 },
+    coords: [51.328, 26.112],
     description: {
       de: "Ruinen einer Siedlung, die im späten 19. Jahrhundert von Stämmen aus dem heutigen Saudi-Arabien gegründet wurde.",
       hu: "Egy település romjai, amelyet a 19. század végén alapítottak a mai Szaúd-Arábia területéről érkező törzsek.",
@@ -763,7 +763,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-al-ma-history-v2",
     type: "ruins",
     name: { de: "Umm al-Ma'", hu: "Umm al-Ma", ro: "Umm al-Ma'", en: "Umm al-Ma'" },
-    coordinates: { lat: 25.755, lng: 50.852 },
+    coords: [50.852, 25.755],
     description: {
       de: "Bedeutende archäologische Stätte mit Siedlungsspuren, die bis in die Bronze- und Eisenzeit zurückreichen.",
       hu: "Jelentős régészeti lelőhely, amely a bronz- és vaskorig visszanyúló településnyomokat tartalmaz.",
@@ -782,7 +782,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-ras-abrouq-cairns-history-v2",
     type: "ruins",
     name: { de: "Ras Abrouq Steinhügel", hu: "Rász-Abrúk kőhalmok", ro: "Gorganele din Ras Abrouq", en: "Ras Abrouq Cairns" },
-    coordinates: { lat: 25.602, lng: 50.855 },
+    coords: [50.855, 25.602],
     description: {
       de: "Prähistorische Grabhügel auf dem Ras Abrouq-Plateau, die Einblicke in frühe Bestattungsrituale bieten.",
       hu: "A Rász-Abrúk-fennsíkon található őskori sírhalmok, amelyek betekintést nyújtanak a korai temetkezési rituálékba.",
@@ -801,7 +801,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-ras-oshairij-history-v2",
     type: "ruins",
     name: { de: "Ras Oshairij", hu: "Rász-Oseiridzs", ro: "Ras Oshairij", en: "Ras Oshairij" },
-    coordinates: { lat: 25.985, lng: 51.002 },
+    coords: [51.002, 25.985],
     description: {
       de: "Überreste eines Küstendorfes aus dem 19. Jahrhundert, das eng mit der Perlenfischerei verbunden war.",
       hu: "Egy 19. századi tengerparti falu maradványai, amely szorosan kapcsolódott a gyöngyhalászathoz.",
@@ -820,7 +820,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-rubayqa-history-v2",
     type: "ruins",
     name: { de: "Rubayqa", hu: "Rubajka", ro: "Rubayqa", en: "Rubayqa" },
-    coordinates: { lat: 25.932, lng: 51.105 },
+    coords: [51.105, 25.932],
     description: {
       de: "Historische Siedlungsstätte mit den Ruinen einer alten Moschee und traditionellen Wohnhäusern.",
       hu: "Történelmi településhely egy régi mecset romjaival és hagyományos lakóházakkal.",
@@ -839,7 +839,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-simaisma-old-mosque-history-v2",
     type: "mosque",
     name: { de: "Alte Moschee von Simaisma", hu: "Szimaiszmai régi mecset", ro: "Vechea moschee din Simaisma", en: "Simaisma Old Mosque" },
-    coordinates: { lat: 25.572, lng: 51.488 },
+    coords: [51.488, 25.572],
     description: {
       de: "Eine sorgfältig restaurierte Moschee aus dem 19. Jahrhundert, die den traditionellen katarischen Baustil verkörpert.",
       hu: "Egy gondosan felújított 19. századi mecset, amely a hagyományos katari építészeti stílust testesíti meg.",
@@ -858,7 +858,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-wakrah-old-souq-history-v2",
     type: "landmark",
     name: { de: "Alter Souq von Al Wakrah", hu: "Al-Vakra régi szuk", ro: "Vechiul Souq din Al Wakrah", en: "Al Wakrah Old Souq" },
-    coordinates: { lat: 25.172, lng: 51.611 },
+    coords: [51.611, 25.172],
     description: {
       de: "Ein restauriertes Marktviertel, das die Atmosphäre eines traditionellen katarischen Fischerdorfes wiederbelebt.",
       hu: "Egy felújított piaci negyed, amely egy hagyományos katari halászfalu hangulatát eleveníti fel.",
@@ -877,7 +877,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-salal-mohammed-fort-history-v2",
     type: "castle",
     name: { de: "Festung Umm Salal Mohammed", hu: "Umm Szalál Mohammed erőd", ro: "Fortul Umm Salal Mohammed", en: "Umm Salal Mohammed Fort" },
-    coordinates: { lat: 25.421, lng: 51.412 },
+    coords: [51.412, 25.421],
     description: {
       de: "Ein quadratisches Fort aus dem 19. Jahrhundert, das als Wohnhaus und Verteidigungsposten für die lokale Herrscherfamilie diente.",
       hu: "Egy 19. századi négyzet alakú erőd, amely a helyi uralkodócsalád lakóhelyeként és védelmi posztjaként szolgált.",
@@ -896,7 +896,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-ruwais-old-mosque-history-v2",
     type: "mosque",
     name: { de: "Alte Moschee von Al Ruwais", hu: "Al-Ruvaisz régi mecset", ro: "Vechea moschee din Al Ruwais", en: "Al Ruwais Old Mosque" },
-    coordinates: { lat: 26.138, lng: 51.215 },
+    coords: [51.215, 26.138],
     description: {
       de: "Eine der ältesten noch existierenden Moscheen Katars, bekannt für ihre traditionellen Architekturelemente und ihre historische Bedeutung.",
       hu: "Katar egyik legrégebbi fennmaradt mecsete, amely hagyományos építészeti elemeiről és történelmi jelentőségéről ismert.",
@@ -915,7 +915,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-adaid-cairns-history-v2",
     type: "ruins",
     name: { de: "Al-Adaid Steinhügel", hu: "Al-Adaid kőhalmok", ro: "Gorganele din Al-Adaid", en: "Al-Adaid Cairns" },
-    coordinates: { lat: 24.635, lng: 51.402 },
+    coords: [51.402, 24.635],
     description: {
       de: "Antike Grabhügel in der Nähe des Binnenmeeres, die Zeugnis von frühen nomadischen Bestattungspraktiken ablegen.",
       hu: "Az Inland Sea közelében található ősi sírhalmok, amelyek a korai nomád temetkezési szokásokról tanúskodnak.",
@@ -934,7 +934,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-bir-hussein-history-v2",
     type: "landmark",
     name: { de: "Bir Hussein", hu: "Bir Husszein", ro: "Bir Hussein", en: "Bir Hussein" },
-    coordinates: { lat: 25.552, lng: 51.205 },
+    coords: [51.205, 25.552],
     description: {
       de: "Ein historischer Brunnen, der über Jahrhunderte ein entscheidender Rastplatz für Beduinenkarawanen war.",
       hu: "Egy történelmi kút, amely évszázadokon át a beduin karavánok sorsdöntő pihenőhelye volt.",
@@ -953,7 +953,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-hulaila-history-v2",
     type: "ruins",
     name: { de: "Al-Hulaila", hu: "Al-Hulaila", ro: "Al-Hulaila", en: "Al-Hulaila" },
-    coordinates: { lat: 25.805, lng: 51.502 },
+    coords: [51.502, 25.805],
     description: {
       de: "Eine archäologische Fundstätte an der Ostküste mit Spuren menschlicher Besiedlung aus der frühislamischen Periode.",
       hu: "Egy keleti partvidéki régészeti lelőhely, amely a korai iszlám időszakból származó emberi településnyomokat tartalmaz.",
@@ -972,7 +972,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-kharayej-history-v2",
     type: "ruins",
     name: { de: "Al-Kharayej", hu: "Al-Karajedzs", ro: "Al-Kharayej", en: "Al-Kharayej" },
-    coordinates: { lat: 25.455, lng: 51.508 },
+    coords: [51.508, 25.455],
     description: {
       de: "Ruinen einer traditionellen Küstensiedlung, die wertvolle Informationen über das Leben vor der Öl-Ära liefern.",
       hu: "Egy hagyományos tengerparti település romjai, amelyek értékes információkkal szolgálnak az olajkorszak előtti életről.",
@@ -991,7 +991,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-naman-history-v2",
     type: "palace",
     name: { de: "Al-Naman", hu: "Al-Naman", ro: "Al-Naman", en: "Al-Naman" },
-    coordinates: { lat: 25.902, lng: 51.155 },
+    coords: [51.155, 25.902],
     description: {
       de: "Ein historisches Wüstenhaus mit Garten, das einst als Sommerresidenz für die katarische Herrscherfamilie diente.",
       hu: "Egy történelmi sivatagi ház kerttel, amely egykor a katari uralkodócsalád nyári rezidenciájaként szolgált.",
@@ -1010,7 +1010,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-wadi-al-sail-neolithic-history-v2",
     type: "ruins",
     name: { de: "Wadi Al-Sail Neolithische Stätte", hu: "Vadi Al-Száil neolitikus lelőhely", ro: "Situl neolitic din Wadi Al-Sail", en: "Wadi Al-Sail Neolithic Site" },
-    coordinates: { lat: 25.405, lng: 51.452 },
+    coords: [51.452, 25.405],
     description: {
       de: "Ein bedeutender Ort für die Erforschung der Steinzeit in Katar, an dem zahlreiche neolithische Werkzeuge gefunden wurden.",
       hu: "Katar kőkorszaki kutatásának egyik jelentős helyszíne, ahol számos neolitikus eszközt találtak.",
@@ -1029,7 +1029,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-doha-old-harbor-history-v2",
     type: "port",
     name: { de: "Alter Hafen von Doha", hu: "Doha régi kikötője", ro: "Portul vechi din Doha", en: "Doha Old Harbor" },
-    coordinates: { lat: 25.295, lng: 51.542 },
+    coords: [51.542, 25.295],
     description: {
       de: "Das historische Zentrum des katarischen Seehandels, das über Generationen die Lebensader für Perlentaucher war.",
       hu: "A katari tengeri kereskedelem történelmi központja, amely generációkon át a gyöngyhalászok éltető eleme volt.",
@@ -1048,7 +1048,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khulaifi-house-history-v2",
     type: "palace",
     name: { de: "Al-Khulaifi Haus", hu: "Al-Kulaifi ház", ro: "Casa Al-Khulaifi", en: "Al-Khulaifi House" },
-    coordinates: { lat: 25.286, lng: 51.522 },
+    coords: [51.522, 25.286],
     description: {
       de: "Ein hervorragendes Beispiel für die traditionelle katarische Wohnarchitektur in der Hauptstadt Doha.",
       hu: "A hagyományos katari lakóépítészet kiváló példája a fővárosban, Dohában.",
@@ -1067,7 +1067,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-jeryan-al-batna-history-v2",
     type: "ruins",
     name: { de: "Jeryan al Batna", hu: "Dzserján al Batna", ro: "Jeryan al Batna", en: "Jeryan al Batna" },
-    coordinates: { lat: 25.002, lng: 51.005 },
+    coords: [51.005, 25.002],
     description: {
       de: "Eine historische Weide- und Brunnenregion im Süden, die für die Beduinenstämme von zentraler Bedeutung war.",
       hu: "Egy történelmi legeltetési és kútvidék délen, amely központi jelentőségű volt a beduin törzsek számára.",
@@ -1086,7 +1086,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-sulaithi-house-history-v2",
     type: "palace",
     name: { de: "Al-Sulaithi Haus", hu: "Al-Szulaiti ház", ro: "Casa Al-Sulaithi", en: "Al-Sulaithi House" },
-    coordinates: { lat: 25.292, lng: 51.535 },
+    coords: [51.535, 25.292],
     description: {
       de: "Ein historisches Herrenhaus in Doha, das den architektonischen Wandel Katars zu Beginn des 20. Jahrhunderts zeigt.",
       hu: "Egy történelmi kúria Dohában, amely Katar építészeti átalakulását mutatja be a 20. század elején.",
@@ -1105,7 +1105,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-asmakh-district-history-v2",
     type: "village",
     name: { de: "Al-Asmakh Distrikt", hu: "Al-Aszmakh negyed", ro: "Districtul Al-Asmakh", en: "Al-Asmakh District" },
-    coordinates: { lat: 25.284, lng: 51.528 },
+    coords: [51.528, 25.284],
     description: {
       de: "Das älteste durchgehend bewohnte Viertel von Doha, das für seine engen Gassen und dichte historische Bebauung bekannt ist.",
       hu: "Doha legrégebbi, folyamatosan lakott negyede, amely szűk utcáiról és sűrű történelmi beépítéséről ismert.",
@@ -1124,7 +1124,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-najada-district-history-v2",
     type: "village",
     name: { de: "Najada Distrikt", hu: "Nadzsada negyed", ro: "Districtul Najada", en: "Najada District" },
-    coordinates: { lat: 25.288, lng: 51.531 },
+    coords: [51.531, 25.288],
     description: {
       de: "Ein historisches Wohn- und Geschäftsviertel in Doha, das für seine markanten Lehmziegelgebäude bekannt ist.",
       hu: "Doha történelmi lakó- és üzleti negyede, amely jellegzetes vályogtégla épületeiről ismert.",
@@ -1143,7 +1143,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-jasrah-district-history-v2",
     type: "village",
     name: { de: "Al-Jasrah Distrikt", hu: "Al-Dzsaszra negyed", ro: "Districtul Al-Jasrah", en: "Al-Jasrah District" },
-    coordinates: { lat: 25.291, lng: 51.532 },
+    coords: [51.532, 25.291],
     description: {
       de: "Ein geschichtsträchtiges Viertel in Doha, das als Geburtsort vieler einflussreicher katarischer Familien gilt.",
       hu: "Doha történelemben gazdag negyede, amelyet számos befolyásos katari család szülőhelyének tekintenek.",
@@ -1162,7 +1162,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-salata-history-v2",
     type: "village",
     name: { de: "Al-Salata", hu: "Al-Szalata", ro: "Al-Salata", en: "Al-Salata" },
-    coordinates: { lat: 25.294, lng: 51.551 },
+    coords: [51.551, 25.294],
     description: {
       de: "Ein historisches Küstenviertel, das einst den Palast des Sheikhs beherbergte und heute das kulturelle Erbe bewahrt.",
       hu: "Történelmi tengerparti negyed, amely egykor a sejk palotájának adott otthont, és ma a kulturális örökséget őrzi.",
@@ -1181,7 +1181,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-abu-az-zuluf-old-mosque-history-v2",
     type: "mosque",
     name: { de: "Abu az-Zuluf Alte Moschee", hu: "Abu az-Zuluf régi mecset", ro: "Vechea moschee din Abu az-Zuluf", en: "Abu az-Zuluf Old Mosque" },
-    coordinates: { lat: 26.132, lng: 51.185 },
+    coords: [51.185, 26.132],
     description: {
       de: "Eine markante Moschee an der Nordküste, bekannt für ihre weithin sichtbare traditionelle Architektur direkt am Meer.",
       hu: "Jellegzetes mecset az északi parton, amely messziről látható hagyományos építészetéről ismert, közvetlenül a tengerparton.",
@@ -1200,7 +1200,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khor-east-tower-history-v2",
     type: "tower",
     name: { de: "Al-Khor Ostturm", hu: "Al-Hor keleti torony", ro: "Turnul de Est din Al-Khor", en: "Al-Khor East Tower" },
-    coordinates: { lat: 25.688, lng: 51.512 },
+    coords: [51.512, 25.688],
     description: {
       de: "Einer von drei historischen Wachtürmen in Al Khor, die einst die Stadt und den Hafen vor Angriffen schützten.",
       hu: "Egyike a három történelmi őrtoronynak Al-Horban, amelyek egykor a várost és a kikötőt védték a támadásoktól.",
@@ -1219,7 +1219,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khor-middle-tower-history-v2",
     type: "tower",
     name: { de: "Al-Khor Mittelturm", hu: "Al-Hor középső torony", ro: "Turnul de Mijloc din Al-Khor", en: "Al-Khor Middle Tower" },
-    coordinates: { lat: 25.69, lng: 51.505 },
+    coords: [51.505, 25.69],
     description: {
       de: "Der zentrale Turm der Verteidigungslinie von Al Khor, der strategisch zwischen der Küste und dem Stadtzentrum liegt.",
       hu: "Al-Hor védelmi vonalának középső tornya, amely stratégiai helyen, a tengerpart és a városközpont között található.",
@@ -1238,7 +1238,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khor-west-tower-history-v2",
     type: "tower",
     name: { de: "Al-Khor Westturm", hu: "Al-Hor nyugati torony", ro: "Turnul de Vest din Al-Khor", en: "Al-Khor West Tower" },
-    coordinates: { lat: 25.692, lng: 51.498 },
+    coords: [51.498, 25.692],
     description: {
       de: "Der westlichste Wachturm von Al Khor, der den landseitigen Zugang zur Stadt überwachte.",
       hu: "Al-Hor legnyugatibb őrtornya, amely a város szárazföldi felőli megközelítését felügyelte.",
@@ -1257,7 +1257,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-ain-hleitan-history-v2",
     type: "landmark",
     name: { de: "Ain Hleitan", hu: "Ajn Hlejtán", ro: "Ain Hleitan", en: "Ain Hleitan" },
-    coordinates: { lat: 25.691, lng: 51.502 },
+    coords: [51.502, 25.691],
     description: {
       de: "Ein historischer Brunnen in Al Khor, dessen Entdeckung zur Gründung der Stadt durch den Al-Mahanda-Stamm führte.",
       hu: "Egy történelmi kút Al-Horban, amelynek felfedezése a város megalapításához vezetett az Al-Mahanda törzs által.",
@@ -1276,7 +1276,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-bidda-park-historical-history-v2",
     type: "ruins",
     name: { de: "Al-Bidda Historische Stätte", hu: "Al-Bidda történelmi helyszín", ro: "Situl istoric Al-Bidda", en: "Al-Bidda Park Historical Site" },
-    coordinates: { lat: 25.302, lng: 51.515 },
+    coords: [51.515, 25.302],
     description: {
       de: "Der Ort der ursprünglichen Siedlung Al-Bidda, die lange vor der Entwicklung des modernen Doha existierte.",
       hu: "Az eredeti Al-Bidda település helyszíne, amely jóval a modern Doha kialakulása előtt létezett.",
@@ -1295,7 +1295,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-fareej-al-hitmi-history-v2",
     type: "village",
     name: { de: "Fareej Al Hitmi", hu: "Fareej Al Hitmi", ro: "Fareej Al Hitmi", en: "Fareej Al Hitmi" },
-    coordinates: { lat: 25.295, lng: 51.562 },
+    coords: [51.562, 25.295],
     description: {
       de: "Ein geschichtsträchtiges Viertel in Doha, das ursprünglich von Perlentauchern und Seefahrern bewohnt wurde.",
       hu: "Történelmi negyed Dohában, amelyet eredetileg gyöngyhalászok és tengerészek laktak.",
@@ -1314,7 +1314,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-zubarah-beach-cairns-history-v2",
     type: "ruins",
     name: { de: "Al-Zubarah Strand-Steinhügel", hu: "Al-Zubarah tengerparti kőhalmok", ro: "Gorganele de pe plaja Al-Zubarah", en: "Al-Zubarah Beach Cairns" },
-    coordinates: { lat: 26.002, lng: 51.025 },
+    coords: [51.025, 26.002],
     description: {
       de: "Zahlreiche kleine Steinhügel entlang der Küste von Al Zubarah, die auf antike Bestattungen hinweisen.",
       hu: "Számos kis kőhalom Al Zubarah partvidéke mentén, amelyek ősi temetkezésekre utalnak.",
@@ -1333,7 +1333,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-ghariyah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Ghariyah", hu: "Al-Garijja erőd", ro: "Fortul Al-Ghariyah", en: "Al-Ghariyah Fort" },
-    coordinates: { lat: 26.115, lng: 51.332 },
+    coords: [51.332, 26.115],
     description: {
       de: "Die Überreste einer kleinen Schutzfestung an der Nordostküste, die der Verteidigung der Siedlung diente.",
       hu: "Egy kis védelmi erőd maradványai az északkeleti parton, amely a település védelmét szolgálta.",
@@ -1352,7 +1352,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khor-museum-building-history-v2",
     type: "museum",
     name: { de: "Historisches Museumsgebäude Al-Khor", hu: "Al-Hor-i múzeum történelmi épülete", ro: "Clădirea istorică a Muzeului Al-Khor", en: "Al-Khor Museum Building" },
-    coordinates: { lat: 25.694, lng: 51.505 },
+    coords: [51.505, 25.694],
     description: {
       de: "Ein historisches Küstengebäude in Al Khor, das früher als Polizeistation diente und heute das lokale Erbe präsentiert.",
       hu: "Történelmi tengerparti épület Al-Horban, amely korábban rendőrőrsként szolgált, ma pedig a helyi örökséget mutatja be.",
@@ -1371,7 +1371,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-yusufiya-fort-history-v2",
     type: "castle",
     name: { de: "Al-Yusufiya Fort", hu: "Al-Juszufijja erőd", ro: "Fortul Al-Yusufiya", en: "Al-Yusufiya Fort" },
-    coordinates: { lat: 26.065, lng: 51.112 },
+    coords: [51.112, 26.065],
     description: {
       de: "Die Überreste einer kleinen defensiven Anlage, die das verlassene Dorf Al-Yusufiyah schützte.",
       hu: "Egy kis védelmi létesítmény maradványai, amely az elhagyatott Al-Juszufijja falut védte.",
@@ -1390,7 +1390,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-lusail-founders-house-history-v2",
     type: "palace",
     name: { de: "Gründerhaus von Lusail", hu: "Lusail alapítójának háza", ro: "Casa fondatorului din Lusail", en: "Lusail Founder's House" },
-    coordinates: { lat: 25.432, lng: 51.525 },
+    coords: [51.525, 25.432],
     description: {
       de: "Das historische Wohnhaus von Sheikh Jassim bin Mohammed Al Thani, dem Gründer des modernen Katars, in Lusail.",
       hu: "Sheikh Jassim bin Mohammed Al Thani, a modern Katar alapítója történelmi lakóháza Lusailban.",
@@ -1409,7 +1409,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-busayyir-history-v2",
     type: "ruins",
     name: { de: "Al-Busayyir", hu: "Al-Buszajjir", ro: "Al-Busayyir", en: "Al-Busayyir" },
-    coordinates: { lat: 25.482, lng: 51.221 },
+    coords: [51.221, 25.482],
     description: {
       de: "Archäologische Stätte im Zentrum Katars, die wichtige Funde aus der Eisenzeit und der frühen islamischen Periode beherbergt.",
       hu: "Katar középső részén található régészeti lelőhely, amely a vaskorból és a korai iszlám időszakból származó fontos leleteket őriz.",
@@ -1428,7 +1428,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-wadi-debayan-history-v2",
     type: "ruins",
     name: { de: "Wadi Debayan", hu: "Vadi Debaján", ro: "Wadi Debayan", en: "Wadi Debayan" },
-    coordinates: { lat: 25.631, lng: 51.012 },
+    coords: [51.012, 25.631],
     description: {
       de: "Eine der ältesten neolithischen Fundstätten an der Westküste Katars mit Siedlungsspuren aus dem 6. Jahrtausend v. Chr.",
       hu: "Katar nyugati partjának egyik legrégebbi neolitikus lelőhelye, az i. e. 6. évezredből származó településnyomokkal.",
@@ -1447,7 +1447,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-shagra-history-v2",
     type: "ruins",
     name: { de: "Shagra", hu: "Sagra", ro: "Shagra", en: "Shagra" },
-    coordinates: { lat: 24.852, lng: 51.505 },
+    coords: [51.505, 24.852],
     description: {
       de: "Verlassene Wüstensiedlung im Südosten Katars, die einen Einblick in das traditionelle Leben der Beduinenstämme bietet.",
       hu: "Elhagyatott sivatagi település Délkelet-Katarban, amely betekintést nyújt a beduin törzsek hagyományos életébe.",
@@ -1466,7 +1466,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-daayen-old-village-history-v2",
     type: "ruins",
     name: { de: "Al-Da'ayen Altes Dorf", hu: "Al-Da'ayen régi falu", ro: "Vechiul sat Al-Da'ayen", en: "Al-Da'ayen Old Village" },
-    coordinates: { lat: 25.582, lng: 51.485 },
+    coords: [51.485, 25.582],
     description: {
       de: "Die Überreste eines traditionellen Fischerdorfes, das einst für seine geschäftigen Aktivitäten bekannt war.",
       hu: "Egy hagyományos halászfalu maradványai, amely egykor élénk tevékenységéről volt ismert.",
@@ -1485,7 +1485,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-sumaisimah-neolithic-history-v2",
     type: "ruins",
     name: { de: "Al-Sumaisimah Neolithische Stätte", hu: "Al-Szumaiszimah neolitikus lelőhely", ro: "Situl neolitic din Al-Sumaisimah", en: "Al-Sumaisimah Neolithic Site" },
-    coordinates: { lat: 25.564, lng: 51.492 },
+    coords: [51.492, 25.564],
     description: {
       de: "Eine präkeramische Siedlungsstätte an der Ostküste, die wertvolle Daten über die frühesten Siedler Katars liefert.",
       hu: "A keleti part egyik kerámia előtti településhelye, amely értékes adatokat szolgáltat Katar legkorábbi telepeseiről.",
@@ -1504,7 +1504,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-jebel-jassasiya-burial-mounds-history-v2",
     type: "ruins",
     name: { de: "Jebel Jassasiya Grabhügel", hu: "Dzsebel Dzsaszasszija sírhalmok", ro: "Gorganele din Jebel Jassasiya", en: "Jebel Jassasiya Burial Mounds" },
-    coordinates: { lat: 25.955, lng: 51.405 },
+    coords: [51.405, 25.955],
     description: {
       de: "Antike Gräber auf dem Kalksteinrücken des Jebel Jassasiya, die parallel zu den berühmten Felsritzungen existieren.",
       hu: "Ősi sírok a Dzsebel Dzsaszasszija mészkőgerincén, amelyek a híres sziklarajzokkal párhuzamosan léteznek.",
@@ -1523,7 +1523,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-mezruah-history-v2",
     type: "village",
     name: { de: "Mezruah", hu: "Mezruah", ro: "Mezruah", en: "Mezruah" },
-    coordinates: { lat: 25.502, lng: 51.405 },
+    coords: [51.405, 25.502],
     description: {
       de: "Ein historischer Ort im Binnenland, der für seine frühen landwirtschaftlichen Versuche und Siedlungsstrukturen bekannt ist.",
       hu: "Történelmi belföldi helyszín, amely korai mezőgazdasági kísérleteiről és településszerkezetéről ismert.",
@@ -1542,7 +1542,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-al-qubur-history-v2",
     type: "ruins",
     name: { de: "Umm al-Qubur", hu: "Umm al-Kubur", ro: "Umm al-Qubur", en: "Umm al-Qubur" },
-    coordinates: { lat: 25.802, lng: 51.105 },
+    coords: [51.105, 25.802],
     description: {
       de: "Ein weitläufiges archäologisches Gebiet, dessen Name 'Mutter der Gräber' auf seine Funktion als antiker Friedhof hinweist.",
       hu: "Kiterjedt régészeti terület, amelynek neve ('A sírok anyja') az ősi temető funkciójára utal.",
@@ -1561,7 +1561,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-fuwayrit-old-town-history-v2",
     type: "ruins",
     name: { de: "Fuwayrit Altstadt", hu: "Fuvajrit óváros", ro: "Vechiul oraș Fuwayrit", en: "Fuwayrit Old Town" },
-    coordinates: { lat: 26.052, lng: 51.365 },
+    coords: [51.365, 26.052],
     description: {
       de: "Die historischen Überreste der ursprünglichen Küstenstadt Fuwayrit, die ein wichtiges Zentrum der Perlenfischerei war.",
       hu: "A gyöngyhalászat fontos központjának számító eredeti Fuwayrit tengerparti város történelmi maradványai.",
@@ -1580,7 +1580,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-hudaia-history-v2",
     type: "ruins",
     name: { de: "Al-Hudaia", hu: "Al-Hudaija", ro: "Al-Hudaia", en: "Al-Hudaia" },
-    coordinates: { lat: 25.105, lng: 51.552 },
+    coords: [51.552, 25.105],
     description: {
       de: "Eine verlassene Siedlung im Süden Katars, die Zeugnis von der traditionellen nomadischen Lebensweise ablegt.",
       hu: "Elhagyatott település Dél-Katarban, amely a hagyományos nomád életmódról tanúskodik.",
@@ -1599,7 +1599,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-al-houl-archaeological-history-v2",
     type: "ruins",
     name: { de: "Umm Al-Houl Archäologische Stätte", hu: "Umm Al-Houl régészeti lelőhely", ro: "Situl arheologic Umm Al-Houl", en: "Umm Al-Houl Archaeological Site" },
-    coordinates: { lat: 25.022, lng: 51.605 },
+    coords: [51.605, 25.022],
     description: {
       de: "Eine bedeutende Grabstätte und Siedlungsruine an der Küste, die Einblicke in maritime Bestattungsriten bietet.",
       hu: "Jelentős tengerparti temetkezési hely és településrom, amely betekintést nyújt a tengeri temetkezési rítusokba.",
@@ -1618,7 +1618,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-kharaej-old-souq-history-v2",
     type: "village",
     name: { de: "Alter Souq von Al Kharaej", hu: "Al-Karajedzs régi szuk", ro: "Vechiul Souq din Al Kharaej", en: "Al Kharaej Old Souq" },
-    coordinates: { lat: 25.452, lng: 51.512 },
+    coords: [51.512, 25.452],
     description: {
       de: "Die Überreste eines kleinen, lokalen Marktplatzes, der einst das wirtschaftliche Zentrum der umliegenden Dörfer bildete.",
       hu: "Egy kis helyi piac maradványai, amely egykor a környező falvak gazdasági központját alkotta.",
@@ -1637,7 +1637,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-bir-zekreet-history-v2",
     type: "landmark",
     name: { de: "Bir Zekreet", hu: "Bir Zekreet", ro: "Bir Zekreet", en: "Bir Zekreet" },
-    coordinates: { lat: 25.582, lng: 50.842 },
+    coords: [50.842, 25.582],
     description: {
       de: "Ein historisches Brunnensystem auf der Zekreet-Halbinsel, das für die Bewohner des Forts und die Fischer überlebenswichtig war.",
       hu: "A Zekreet-félszigeten található történelmi kút rendszer, amely létfontosságú volt az erőd lakói és a halászok számára.",
@@ -1656,7 +1656,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khulaifi-mosque-history-v2",
     type: "mosque",
     name: { de: "Al-Khulaifi Moschee", hu: "Al-Kulaifi mecset", ro: "Moscheea Al-Khulaifi", en: "Al-Khulaifi Mosque" },
-    coordinates: { lat: 25.285, lng: 51.525 },
+    coords: [51.525, 25.285],
     description: {
       de: "Eine historische Moschee in Doha, die für ihr schlichtes, aber elegantes traditionelles Design bekannt ist.",
       hu: "Történelmi mecset Dohában, amely egyszerű, de elegáns hagyományos tervezéséről ismert.",
@@ -1675,7 +1675,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khor-watchtower-middle-history-v2",
     type: "tower",
     name: { de: "Zentraler Wachturm von Al Khor", hu: "Al-Hor központi őrtornya", ro: "Turnul de veghe central din Al Khor", en: "Al Khor Middle Watchtower" },
-    coordinates: { lat: 25.689, lng: 51.503 },
+    coords: [51.503, 25.689],
     description: {
       de: "Ein weithin sichtbarer Turm auf einer Anhöhe, der die Kommunikation zwischen den Küstenposten sicherte.",
       hu: "Egy magaslaton álló, messziről látható torony, amely biztosította a kommunikációt a tengerparti őrhelyek között.",
@@ -1694,7 +1694,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-al-ma-settlement-history-v2",
     type: "ruins",
     name: { de: "Umm Al-Ma' Siedlung", hu: "Umm Al-Ma település", ro: "Așezarea Umm Al-Ma'", en: "Umm Al-Ma' Settlement" },
-    coordinates: { lat: 25.752, lng: 50.858 },
+    coords: [50.858, 25.752],
     description: {
       de: "Die Überreste einer antiken Siedlung, die durch ihre Lage an einer natürlichen Quelle florierte.",
       hu: "Egy ősi település maradványai, amely a természetes forrás melletti elhelyezkedése révén virágzott.",
@@ -1713,7 +1713,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-thakhira-old-village-history-v2",
     type: "ruins",
     name: { de: "Al Thakhira Altes Dorf", hu: "Al-Takira régi falu", ro: "Vechiul sat Al Thakhira", en: "Al Thakhira Old Village" },
-    coordinates: { lat: 25.742, lng: 51.545 },
+    coords: [51.545, 25.742],
     description: {
       de: "Historische Überreste des ursprünglichen Al Thakhira, das für seine enge Verbindung zu den Mangroven und dem Meer bekannt war.",
       hu: "Az eredeti Al-Takira történelmi maradványai, amely a mangroveerdőkhöz és a tengerhez fűződő szoros kapcsolatáról volt ismert.",
@@ -1732,7 +1732,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-bir-al-hussain-history-v2",
     type: "landmark",
     name: { de: "Bir Al-Hussain", hu: "Bir Al-Husszain", ro: "Bir Al-Hussain", en: "Bir Al-Hussain" },
-    coordinates: { lat: 25.555, lng: 51.201 },
+    coords: [51.201, 25.555],
     description: {
       de: "Ein tief in den Fels gehauener historischer Brunnen, der als lebenswichtige Wasserquelle für das Inners Katars diente.",
       hu: "A sziklába mélyen bevésett történelmi kút, amely létfontosságú vízforrásként szolgált Katar belső területén.",
@@ -1751,7 +1751,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-wajbah-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Al-Wajbah Schlachtfeld", hu: "Al-Vadzsba csatatér", ro: "Câmpul de luptă Al-Wajbah", en: "Al-Wajbah Battlefield" },
-    coordinates: { lat: 25.321, lng: 51.385 },
+    coords: [51.385, 25.321],
     description: {
       de: "Der historische Ort der Schlacht von Al-Wajbah (1893), einem entscheidenden Sieg für die katarische Souveränität.",
       hu: "Az 1893-as al-vadzsbai csata történelmi helyszíne, amely döntő győzelem volt a katari szuverenitás szempontjából.",
@@ -1770,7 +1770,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-wakrah-museum-old-house-history-v2",
     type: "museum",
     name: { de: "Al Wakrah Altes Wohnhaus Museum", hu: "Al-Vakra régi lakóház múzeum", ro: "Muzeul vechii case din Al Wakrah", en: "Al Wakrah Old Residential House Museum" },
-    coordinates: { lat: 25.175, lng: 51.608 },
+    coords: [51.608, 25.175],
     description: {
       de: "Ein hervorragend erhaltenes Beispiel eines traditionellen katarischen Bürgerhauses, das heute als Museum dient.",
       hu: "Egy kiválóan megőrzött példája a hagyományos katari polgári háznak, amely ma múzeumként működik.",
@@ -1789,7 +1789,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-bir-al-shuyukh-history-v2",
     type: "landmark",
     name: { de: "Bir Al-Shuyukh", hu: "Bir Al-Sujukh", ro: "Bir Al-Shuyukh", en: "Bir Al-Shuyukh" },
-    coordinates: { lat: 25.305, lng: 51.528 },
+    coords: [51.528, 25.305],
     description: {
       de: "Der 'Brunnen der Sheikhs' in Doha, der historisch die Herrscherfamilie und das alte Al-Bidda mit Wasser versorgte.",
       hu: "A 'sejjek kútja' Dohában, amely történelmileg az uralkodócsaládot és a régi Al-Biddát látta el vízzel.",
@@ -1808,7 +1808,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-thani-old-palace-history-v2",
     type: "palace",
     name: { de: "Al Thani Alter Palast", hu: "Al Thani régi palota", ro: "Vechiul Palat Al Thani", en: "Al Thani Old Palace" },
-    coordinates: { lat: 25.288, lng: 51.545 },
+    coords: [51.545, 25.288],
     description: {
       de: "Der ursprüngliche Regierungssitz der Familie Al Thani, ein prachtvolles Beispiel für katarische Palastarchitektur.",
       hu: "Az Al Thani család eredeti kormányzati székhelye, a katari palotaépítészet pompás példája.",
@@ -1827,7 +1827,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-koot-fort-prison-history-v2",
     type: "castle",
     name: { de: "Al-Koot Fort (Altes Gefängnis)", hu: "Al-Koot erőd (régi börtön)", ro: "Fortul Al-Koot (Vechea închisoare)", en: "Al-Koot Fort (Old Prison)" },
-    coordinates: { lat: 25.287, lng: 51.532 },
+    coords: [51.532, 25.287],
     description: {
       de: "Das Al-Koot Fort diente historisch nicht nur als Verteidigungsanlage, sondern auch als Gefängnis für Doha.",
       hu: "Az Al-Koot erőd történelmileg nemcsak védelmi célokat szolgált, hanem Doha börtöneként is működött.",
@@ -1846,7 +1846,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-wakrah-old-port-history-v2",
     type: "port",
     name: { de: "Historischer Hafen von Al Wakrah", hu: "Al-Vakra történelmi kikötője", ro: "Portul istoric din Al Wakrah", en: "Al Wakrah Old Port" },
-    coordinates: { lat: 25.17, lng: 51.615 },
+    coords: [51.615, 25.17],
     description: {
       de: "Ein geschichtsträchtiger Ort, der über Jahrhunderte die Flotte der Perlentaucher von Al Wakrah beherbergte.",
       hu: "Történelemben gazdag hely, amely évszázadokon át Al-Vakra gyöngyhalász flottájának adott otthont.",
@@ -1865,7 +1865,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-bir-umm-qarn-history-v2",
     type: "landmark",
     name: { de: "Bir Umm Qarn", hu: "Bir Umm Qarn", ro: "Bir Umm Qarn", en: "Bir Umm Qarn" },
-    coordinates: { lat: 25.621, lng: 51.352 },
+    coords: [51.352, 25.621],
     description: {
       de: "Ein historischer Brunnen im Norden Katars, der die Grundlage für eine dauerhafte Besiedlung in dieser trockenen Region bildete.",
       hu: "Történelmi kút Észak-Katarban, amely alapját képezte az állandó letelepedésnek ebben a száraz régióban.",
@@ -1884,7 +1884,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-thakhira-mangrove-settlement-history-v2",
     type: "ruins",
     name: { de: "Al Thakhira Mangroven-Siedlung", hu: "Al-Takira mangrove-település", ro: "Așezarea din mangrovele Al Thakhira", en: "Al Thakhira Mangrove Settlement" },
-    coordinates: { lat: 25.748, lng: 51.551 },
+    coords: [51.551, 25.748],
     description: {
       de: "Ruinen einer alten Siedlung, die strategisch zwischen den schützenden Mangroven und dem offenen Meer lag.",
       hu: "Egy régi település romjai, amely stratégiailag a védelmező mangroveerdők és a nyílt tenger között helyezkedett el.",
@@ -1903,7 +1903,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-jumail-village-mosque-history-v2",
     type: "mosque",
     name: { de: "Al-Jumail Dorfmoschee", hu: "Al-Dzsumail falusi mecset", ro: "Moscheea din satul Al-Jumail", en: "Al-Jumail Village Mosque" },
-    coordinates: { lat: 26.095, lng: 51.158 },
+    coords: [51.158, 26.095],
     description: {
       de: "Das am besten erhaltene Gebäude im verlassenen Dorf Al-Jumail, ein klassisches Beispiel ländlicher Sakralarchitektur.",
       hu: "Az elhagyatott Al-Dzsumail falu legjobb állapotban megőrzött épülete, a vidéki szakrális építészet klasszikus példája.",
@@ -1922,7 +1922,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-kheesa-old-wells-history-v2",
     type: "landmark",
     name: { de: "Al-Kheesa Alte Brunnen", hu: "Al-Kheesa régi kutak", ro: "Vechile fântâni din Al-Kheesa", en: "Al-Kheesa Old Wells" },
-    coordinates: { lat: 25.435, lng: 51.458 },
+    coords: [51.458, 25.435],
     description: {
       de: "Ein historisches Brunnensystem, das den Namen 'Al-Kheesa' (Ort der vielen Gärten) aufgrund seiner Wasserfülle erhielt.",
       hu: "Történelmi kút rendszer, amely nevét ('Al-Kheesa', a sok kert helye) bőséges vízkészletéről kapta.",
@@ -1941,7 +1941,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-gharafa-old-district-history-v2",
     type: "village",
     name: { de: "Al-Gharafa Historisches Viertel", hu: "Al-Garafa történelmi negyed", ro: "Cartierul istoric Al-Gharafa", en: "Al-Gharafa Old District" },
-    coordinates: { lat: 25.335, lng: 51.465 },
+    coords: [51.465, 25.335],
     description: {
       de: "Das ursprüngliche Siedlungsgebiet von Al Gharafa, das für seine traditionellen katarischen Häuser und Moscheen bekannt ist.",
       hu: "Al-Garafa eredeti települési területe, amely hagyományos katari házairól és mecsetjeiről ismert.",
@@ -1960,7 +1960,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-umm-bab-old-quarry-history-v2",
     type: "ruins",
     name: { de: "Alter Steinbruch von Umm Bab", hu: "Umm Bab régi kőfejtője", ro: "Vechea carieră din Umm Bab", en: "Umm Bab Old Quarry" },
-    coordinates: { lat: 25.215, lng: 50.805 },
+    coords: [50.805, 25.215],
     description: {
       de: "Ein historischer Steinbruch, der das Baumaterial für viele der frühen Infrastrukturprojekte Katars lieferte.",
       hu: "Történelmi kőfejtő, amely Katar számos korai infrastrukturális projektjéhez szolgáltatta az építőanyagot.",
@@ -1979,7 +1979,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-ghuwayriyah-old-fort-history-v2",
     type: "castle",
     name: { de: "Altes Fort von Al Ghuwayriyah", hu: "Al-Guvajrijja régi erőd", ro: "Vechiul fort din Al Ghuwayriyah", en: "Al Ghuwayriyah Old Fort" },
-    coordinates: { lat: 25.825, lng: 51.252 },
+    coords: [51.252, 25.825],
     description: {
       de: "Die Überreste einer strategischen Inlandsfestung, die die Brunnen und Karawanenwege im Norden schützte.",
       hu: "Egy stratégiai belföldi erőd maradványai, amely az északi kutakat és karavánutakat védte.",
@@ -1998,7 +1998,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-thakhira-fishing-traps-history-v2",
     type: "ruins",
     name: { de: "Al Thakhira Historische Fischfallen", hu: "Al-Takira történelmi halcsapdák", ro: "Capcanele de pești istorice din Al Thakhira", en: "Al Thakhira Historic Fish Traps" },
-    coordinates: { lat: 25.75, lng: 51.558 },
+    coords: [51.558, 25.75],
     description: {
       de: "Antike Gezeitenfischfallen (Hadra) in den Gewässern von Al Thakhira, die eine Jahrtausende alte Tradition bezeugen.",
       hu: "Ősi árapály-halcsapdák (Hadra) Al-Takira vizeiben, amelyek évezredes hagyományról tanúskodnak.",
@@ -2017,7 +2017,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-jumail-village-well-history-v2",
     type: "landmark",
     name: { de: "Al-Jumail Dorfbrunnen", hu: "Al-Dzsumail falusi kút", ro: "Fântâna din satul Al-Jumail", en: "Al-Jumail Village Well" },
-    coordinates: { lat: 26.098, lng: 51.155 },
+    coords: [51.155, 26.098],
     description: {
       de: "Der historische Brunnen des Dorfes Al-Jumail, der einst die einzige Süßwasserquelle für die Fischergemeinschaft war.",
       hu: "Al-Dzsumail falu történelmi kútja, amely egykor az egyetlen édesvízforrás volt a halászközösség számára.",
@@ -2036,7 +2036,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-abu-dhalouf-old-mosque-history-v2",
     type: "mosque",
     name: { de: "Abu Dhalouf Alte Moschee", hu: "Abu Dhalouf régi mecset", ro: "Vechea moschee din Abu Dhalouf", en: "Abu Dhalouf Old Mosque" },
-    coordinates: { lat: 26.128, lng: 51.192 },
+    coords: [51.192, 26.128],
     description: {
       de: "Eine charmante Küstenmoschee im katarischen Norden, die für ihre schlichte Schönheit und maritime Lage bekannt ist.",
       hu: "Bájos tengerparti mecset Észak-Katarban, amely egyszerű szépségéről és tengeri elhelyezkedéséről ismert.",
@@ -2055,7 +2055,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-kharaej-burial-site-history-v2",
     type: "ruins",
     name: { de: "Al-Kharaej Grabstätte", hu: "Al-Karajedzs temetkezési hely", ro: "Situl funerar Al-Kharaej", en: "Al-Kharaej Burial Site" },
-    coordinates: { lat: 25.458, lng: 51.515 },
+    coords: [51.515, 25.458],
     description: {
       de: "Ein antiker Friedhof in der Nähe von Lusail, der verschiedene Bestattungsstile aus verschiedenen historischen Perioden zeigt.",
       hu: "Lusail közeli ősi temető, amely különböző történelmi korszakokból származó temetkezési stílusokat mutat be.",
@@ -2074,7 +2074,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-jeryan-al-batna-fortified-house-history-v2",
     type: "castle",
     name: { de: "Befestigtes Haus Jeryan al Batna", hu: "Dzserján al Batna erődített ház", ro: "Casa fortificată din Jeryan al Batna", en: "Jeryan al Batna Fortified House" },
-    coordinates: { lat: 25.008, lng: 51.012 },
+    coords: [51.012, 25.008],
     description: {
       de: "Ein seltener Typ eines befestigten Wohnhauses im katarischen Süden, das zum Schutz der lokalen Wasserquellen diente.",
       hu: "Egy ritka típusú erődített lakóház Dél-Katarban, amely a helyi vízforrások védelmét szolgálta.",
@@ -2093,7 +2093,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-al-khuwaityr-history-v2",
     type: "ruins",
     name: { de: "Al-Khuwaityr", hu: "Al-Kuvajtir", ro: "Al-Khuwaityr", en: "Al-Khuwaityr" },
-    coordinates: { lat: 25.155, lng: 50.852 },
+    coords: [50.852, 25.155],
     description: {
       de: "Überreste einer historischen Siedlung im Westen Katars, die eng mit dem frühen Perlenhandel in der Region verknüpft war.",
       hu: "Egy történelmi település maradványai Nyugat-Katarban, amely szorosan kapcsolódott a régió korai gyöngykereskedelméhez.",

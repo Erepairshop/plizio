@@ -727,7 +727,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-hengduan-mountains-relief-v2",
     type: "mountain",
     name: { de: "Hengduan-Gebirge", hu: "Hengduan-hegység", ro: "Munții Hengduan", en: "Hengduan Mountains" },
-    coordinates: { lat: 27.5, lng: 99.0 },
+    coords: [99.0, 27.5],
     description: {
       de: "Ein System von Gebirgsketten im Südwesten Chinas, das das Tibetische Hochland vom Sichuan-Becken trennt. Es ist durch tiefe Nord-Süd-Flusstäler geprägt.",
       hu: "Délnyugat-Kína hegységrendszere, amely elválasztja a Tibeti-fennsíkot a Szecsuáni-medencétől. Mély, észak-déli irányú folyóvölgyek jellemzik.",
@@ -758,7 +758,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-greater-khingan-range-relief-v2",
     type: "mountain",
     name: { de: "Großes Hinggan-Gebirge", hu: "Nagy-Hingan-hegység", ro: "Marele Kingan", en: "Greater Khingan Range" },
-    coordinates: { lat: 50.0, lng: 122.5 },
+    coords: [122.5, 50.0],
     description: {
       de: "Ein bewaldetes Gebirge im Nordosten Chinas, das das mongolische Hochland von der mandschurischen Ebene trennt. Es erstreckt sich über 1200 Kilometer.",
       hu: "Erdős hegylánc Északkelet-Kínában, amely a mongol fennsíkot választja el a Mandzsúriai-alföldtől. Hossza eléri az 1200 kilométert.",
@@ -789,7 +789,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-tarim-basin-relief-v2",
     type: "valley",
     name: { de: "Tarim-Becken", hu: "Tarim-medence", ro: "Bazinul Tarim", en: "Tarim Basin" },
-    coordinates: { lat: 39.0, lng: 83.5 },
+    coords: [83.5, 39.0],
     description: {
       de: "Das größte endorheische Becken Chinas, gelegen im Autonomen Gebiet Xinjiang. Es ist von Hochgebirgen wie dem Tian Shan und dem Kunlun umgeben.",
       hu: "Kína legnagyobb lefolyástalan medencéje a Hszincsiang-Ujgur Autonóm Területen. Olyan magashegységek veszik körül, mint a Tien-san és a Kunlun.",
@@ -820,7 +820,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-north-china-plain-relief-v2",
     type: "valley",
     name: { de: "Nordchinesische Ebene", hu: "Észak-kínai-alföld", ro: "Câmpia Chinei de Nord", en: "North China Plain" },
-    coordinates: { lat: 36.5, lng: 116.0 },
+    coords: [116.0, 36.5],
     description: {
       de: "Eine ausgedehnte Schwemmlandebene im Osten Chinas, die durch Ablagerungen des Gelben Flusses entstanden ist. Sie ist das historische Herzland Chinas.",
       hu: "Kiterjedt hordaléksíkság Kelet-Kínában, amelyet a Sárga-folyó üledéke hozott létre. Kína történelmi bölcsőjének és magterületének számít.",
@@ -851,7 +851,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-himalayas-relief-v2",
     type: "mountain",
     name: { de: "Himalaya", hu: "Himalája", ro: "Himalaya", en: "Himalayas" },
-    coordinates: { lat: 28.5, lng: 87.0 },
+    coords: [87.0, 28.5],
     description: {
       de: "Das höchste Gebirge der Welt, das die südliche Grenze des Tibetischen Hochlands markiert. Es erstreckt sich über 2400 Kilometer entlang der Grenze.",
       hu: "A világ legmagasabb hegysége, amely a Tibeti-fennsík déli peremét alkotja. Körülbelül 2400 kilométer hosszan húzódik a határ mentén.",
@@ -882,7 +882,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-taihang-mountains-relief-v2",
     type: "mountain",
     name: { de: "Taihang-Gebirge", hu: "Taihang-hegység", ro: "Munții Taihang", en: "Taihang Mountains" },
-    coordinates: { lat: 38.0, lng: 114.0 },
+    coords: [114.0, 38.0],
     description: {
       de: "Ein Gebirgszug im Norden Chinas, der als natürliche Grenze zwischen dem Lössplateau und der Nordchinesischen Tiefebene dient. Er ist bekannt für seine steilen Klippen.",
       hu: "Észak-kínai hegylánc, amely természetes határt képez a Lössz-fennsík és az Észak-kínai-alföld között. Meredek sziklafalairól híres.",
@@ -913,7 +913,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-inner-mongolian-plateau-relief-v2",
     type: "mountain",
     name: { de: "Inner-Mongolisches Plateau", hu: "Belső-mongol-fennsík", ro: "Podișul Mongoliei Interioare", en: "Inner Mongolian Plateau" },
-    coordinates: { lat: 43.5, lng: 112.0 },
+    coords: [112.0, 43.5],
     description: {
       de: "Das zweitgrößte Plateau Chinas im Norden des Landes, das hauptsächlich aus sanften Hügeln und weiten Graslandschaften besteht. Es liegt auf etwa 1000 Metern Höhe.",
       hu: "Kína második legnagyobb fennsíkja az ország északi részén, amely lankás dombokból és tágas pusztákból áll. Magassága 1000 méter körüli.",
@@ -944,7 +944,7 @@ export const poiExtraChinaReliefV2: POI[] = [
     id: "china-shandong-peninsula-relief-v2",
     type: "mountain",
     name: { de: "Schantung-Halbinsel", hu: "Santun-félsziget", ro: "Peninsula Shandong", en: "Shandong Peninsula" },
-    coordinates: { lat: 37.2, lng: 121.5 },
+    coords: [121.5, 37.2],
     description: {
       de: "Eine gebirgige Halbinsel im Osten Chinas, die in das Gelbe Meer hineinragt. Sie trennt das Bohai-Meer im Norden vom restlichen Gelben Meer.",
       hu: "Hegyes félsziget Kelet-Kínában, amely a Sárga-tengerbe nyúlik. Északon elválasztja a Bohai-tengert a Sárga-tenger többi részétől.",
@@ -958,6 +958,18 @@ export const poiExtraChinaReliefV2: POI[] = [
       en: ["Features a total coastline length of over 3,000 kilometers.", "Composed of two major granite mountain ranges near the coast.", "Mount Tai (Tai Shan) is the most prominent peak nearby.", "Famous for its numerous natural deep-water harbors."],
     },
     imageHint: "Rugged coastline and rocky hills of the Shandong Peninsula at sunset",
+    descriptionAdvanced: {
+      de: "Die Shandong-Halbinsel liegt im Osten Chinas und trennt das Gelbe Meer vom Bohai-Meer. Sie erstreckt sich über etwa 300 Kilometer Länge und ist bekannt für ihre felsigen Küsten, Sandstrände und die Stadt Qingdao. Die Halbinsel hat eine reiche Geschichte als Handelszentrum und war einst eine deutsche Kolonie. Die Region ist berühmt für den Berg Tai, den heiligsten Berg des Daoismus. Die Wirtschaft basiert auf Fischerei, Weinbau und Tourismus. Die Halbinsel hat eine Bevölkerung von über 30 Millionen Menschen.",
+      hu: "A Santung-félsziget Kelet-Kínában található, elválasztja a Sárga-tengert a Pohaj-tengertől. Hossza körülbelül 300 km, híres sziklás partjairól, homokos strandjairól és Csingtao városáról. A félsziget gazdag történelemmel rendelkezik, egykor német gyarmat volt. A régió híres a Tai-hegyről, a taoizmus legszentebb hegyéről. Gazdasága halászaton, borászaton és turizmuson alapul. Lakossága meghaladja a 30 millió főt.",
+      ro: "Peninsula Shandong este situată în estul Chinei, separând Marea Galbenă de Marea Bohai. Are o lungime de aproximativ 300 km și este cunoscută pentru coastele stâncoase, plajele nisipoase și orașul Qingdao. Peninsula are o istorie bogată ca centru comercial și a fost o colonie germană. Regiunea este renumită pentru Muntele Tai, cel mai sacru munte al taoismului. Economia se bazează pe pescuit, viticultură și turism. Populația depășește 30 de milioane de locuitori.",
+      en: "The Shandong Peninsula in eastern China separates the Yellow Sea from the Bohai Sea. It stretches about 300 kilometers and is known for its rocky coasts, sandy beaches, and the city of Qingdao. The peninsula has a rich history as a trade center and was once a German colony. The region is famous for Mount Tai, the most sacred mountain in Taoism. The economy relies on fishing, wine production, and tourism. The population exceeds 30 million.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 300 km.", "Einwohner: über 30 Millionen.", "Der Berg Tai ist 1.545 Meter hoch.", "Qingdao hat 9 Millionen Einwohner.", "Die Halbinsel hat eine Fläche von 35.000 km².", "Der Weinbau begann 1891."],
+      hu: ["Hossz: kb. 300 km.", "Lakosság: 30 millió fő felett.", "A Tai-hegy magassága 1.545 méter.", "Csingtao lakossága 9 millió fő.", "Terület: 35 000 km².", "A borászat 1891-ben kezdődött."],
+      ro: ["Lungime: aprox. 300 km.", "Populație: peste 30 milioane.", "Muntele Tai are 1.545 m înălțime.", "Qingdao are 9 milioane locuitori.", "Suprafața peninsulei: 35.000 km².", "Viticultura a început în 1891."],
+      en: ["Length: approx. 300 km.", "Population: over 30 million.", "Mount Tai is 1,545 meters tall.", "Qingdao has 9 million inhabitants.", "Peninsula area: 35,000 km².", "Wine-making started in 1891."],
+    },
   }
 ];
 

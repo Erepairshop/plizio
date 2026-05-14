@@ -546,7 +546,7 @@ export const poiExtraJordanReliefV2: POI[] = [
     id: "jordan-jabal-mabrak-relief-v2",
     type: "peak",
     name: { de: "Jabal Mabrak", hu: "Dzsebel Mabrak", ro: "Jabal Mabrak", en: "Jabal Mabrak" },
-    coordinates: { lat: 30.2542, lng: 35.4811 },
+    coords: [35.4811, 30.2542],
     description: {
       de: "Der Jabal Mabrak ist mit 1727 Metern einer der höchsten Gipfel im südlichen Hochland von Jordanien.",
       hu: "A Dzsebel Mabrak 1727 méteres magasságával Jordánia déli felföldjének egyik legmagasabb csúcsa.",
@@ -560,12 +560,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Elevation of 1727 meters above sea level", "Part of the Sharah mountain range in the south", "Frequently receives snowfall during winter", "Overlooks the vast Wadi Araba desert valley"],
     },
     imageHint: "Jabal Mabrak mountain peak Jordan",
+    descriptionAdvanced: {
+      de: "Der Jabal Mabrak ist ein Berg im südlichen Jordanien, in der Nähe von Petra, mit einer Höhe von etwa 1.100 Metern. Er besteht hauptsächlich aus Sandstein und ist durch tiefe Schluchten und natürliche Wasserbecken gekennzeichnet. Der Berg ist Teil des Edom-Gebirges und hat eine große historische Bedeutung, da er entlang der alten Weihrauchstraße lag. In den Felswänden finden sich nabatäische Inschriften und Grabanlagen. Die Region ist ein beliebtes Ziel für Trekking und Klettertouren.",
+      hu: "A Jabal Mabrak-hegy Dél-Jordániában, Petra közelében emelkedik, mintegy 1100 méter magasra. Főleg homokkőből áll, és mély szurdokokkal, természetes vízgyűjtő medencékkel tarkított. A hegy az Edom-hegység része, és történelmi jelentőségű, mivel a régi tömjénút mentén fekszik. Sziklafalaiban nabateus feliratok és sírok találhatók. A környék népszerű a túrázók és mászók körében.",
+      ro: "Jabal Mabrak este un munte în sudul Iordaniei, lângă Petra, cu o înălțime de aproximativ 1.100 de metri. Este compus în principal din gresie, cu chei adânci și bazine naturale de apă. Muntele face parte din Munții Edom și are importanță istorică datorită apropierii de Drumul Tămâiei. În stâncile sale se găsesc inscripții și morminte nabateene. Zona este populară pentru drumeții și alpinism.",
+      en: "Jabal Mabrak is a 1,100 m-high sandstone mountain in southern Jordan, near Petra. It features deep canyons and natural water catchments. The mountain is part of the Edom range and lies along the ancient Incense Route. Nabataean rock-cut inscriptions and tombs are found on its cliffs. Today, it offers challenging hiking trails with views of the surrounding desert landscape.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1100 m", "Gestein: Sandstein", "Nabatäische Inschriften: 8", "Entfernung zu Petra: 10 km", "Durchschnittstemperatur im Sommer: 35°C", "Niederschlag: 150 mm/Jahr"],
+      hu: ["Magasság: 1100 m", "Kőzettípus: homokkő", "Nabateus feliratok: 8", "Távolság Petrától: 10 km", "Átlagos nyári hőmérséklet: 35°C", "Éves csapadék: 150 mm"],
+      ro: ["Altitudine: 1100 m", "Rocă: gresie", "Inscripții nabateene: 8", "Distanța de la Petra: 10 km", "Temperatura medie vara: 35°C", "Precipitații anuale: 150 mm"],
+      en: ["Height: 1,100 m", "Rock type: sandstone", "Nabataean inscriptions: 8", "Distance from Petra: 10 km", "Average summer temperature: 35°C", "Annual precipitation: 150 mm"],
+    },
   },
   {
     id: "jordan-wadi-zarqa-main-relief-v2",
     type: "valley",
     name: { de: "Wadi Zarqa Ma'in", hu: "Vádi Zarqa Ma'in", ro: "Wadi Zarqa Ma'in", en: "Wadi Zarqa Ma'in" },
-    coordinates: { lat: 31.6083, lng: 35.6111 },
+    coords: [35.6111, 31.6083],
     description: {
       de: "Dieses tiefe Canyon-System ist bekannt für seine steilen Basaltwände und die natürlichen Thermalquellen im Talboden.",
       hu: "Ez a mély kanyonrendszer meredek bazaltfalairól és a völgy alján található természetes termálforrásairól ismert.",
@@ -579,12 +591,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Canyons reach depths of up to 500 meters", "Contains hyperthermal springs reaching 63 degrees Celsius", "Discharges into the eastern shore of the Dead Sea", "Formed by volcanic activity and water erosion"],
     },
     imageHint: "Wadi Zarqa Ma'in canyon hot springs Jordan",
+    descriptionAdvanced: {
+      de: "Das Wadi Zarqa Main ist ein Canyon im Nordwesten Jordaniens, etwa 30 Kilometer südwestlich von Amman. Es ist bekannt für seine heißen Quellen und Wasserfälle, die in den Fluss Zarqa münden. Die Schlucht ist bis zu 200 Meter tief und besteht aus Kalkstein und Kreide. Historisch wurde das Gebiet für Bewässerungsprojekte genutzt, und es gibt Ruinen einer römischen Wasserleitung. Die Region ist ein wichtiger Lebensraum für Wasservögel und Amphibien.",
+      hu: "A Wadi Zarqa Main egy kanyon Jordánia északnyugati részén, Ammantól délnyugatra mintegy 30 kilométerre. Híres termálforrásairól és vízeséseiről, melyek a Zarqa folyóba ömlenek. A szurdok mélysége eléri a 200 métert, és mészkőből, krétából áll. Történelmi jelentőségét római vízvezeték-maradványok jelzik. A terület fontos élőhely vízimadarak és kétéltűek számára.",
+      ro: "Wadi Zarqa Main este un canion în nord-vestul Iordaniei, la aproximativ 30 de kilometri sud-vest de Amman. Este renumit pentru izvoarele termale și cascadele care alimentează râul Zarqa. Canionul are o adâncime de până la 200 de metri și este compus din calcar și cretă. Istoric, zona a fost folosită pentru irigații, iar rămășițele unui apeduct roman sunt încă vizibile. Este un habitat important pentru păsări acvatice și amfibieni.",
+      en: "Wadi Zarqa Main is a 200 m-deep canyon in northwestern Jordan, 30 km southwest of Amman. It features hot springs and waterfalls that flow into the Zarqa River. The canyon walls consist of limestone and chalk, with remnants of a Roman aqueduct. The area is a biodiversity hotspot for aquatic birds and amphibians. It is also a popular site for canyoning and ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 200 m", "Länge: 10 km", "Wassertemperatur der Quellen: 40°C", "Römische Wasserleitung: 2 km lang", "Vogelarten: 150", "Jährliche Touristen: 3000"],
+      hu: ["Mélység: 200 m", "Hossz: 10 km", "Források hőmérséklete: 40°C", "Római vízvezeték hossza: 2 km", "Madárfajok: 150", "Éves turisták száma: 3000"],
+      ro: ["Adâncime: 200 m", "Lungime: 10 km", "Temperatura izvoarelor: 40°C", "Lungime apeduct roman: 2 km", "Specii de păsări: 150", "Turisti anual: 3000"],
+      en: ["Depth: 200 m", "Length: 10 km", "Spring water temperature: 40°C", "Roman aqueduct length: 2 km", "Bird species: 150", "Annual tourists: 3,000"],
+    },
   },
   {
     id: "jordan-jabal-umm-ishrin-relief-v2",
     type: "mountain",
     name: { de: "Jabal Umm Ishrin", hu: "Dzsebel Umm Isrin", ro: "Jabal Umm Ishrin", en: "Jabal Umm Ishrin" },
-    coordinates: { lat: 29.5833, lng: 35.4417 },
+    coords: [35.4417, 29.5833],
     description: {
       de: "Der Jabal Umm Ishrin ist ein massiver Sandsteinberg, der das Wadi Rum dominiert und aus mehreren Gipfeln besteht.",
       hu: "A Dzsebel Umm Isrin egy hatalmas homokkő hegység, amely a Vádi Rum látképét uralja több csúcsával.",
@@ -598,12 +622,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Highest point reaches 1753 meters", "Mountain massif approximately 20 kilometers long", "Famous for its deep vertical crevices and cracks", "Separates Wadi Rum from the Wadi Um Ishrin valley"],
     },
     imageHint: "Jabal Umm Ishrin mountain Wadi Rum Jordan",
+    descriptionAdvanced: {
+      de: "Der Jabal Umm Ishrin ist ein markanter Berg im Wadi Rum, etwa 1.800 Meter hoch. Er besteht aus Granit und Sandstein und ist bekannt für seine steilen Klippen und natürlichen Bögen. Der Berg ist ein beliebtes Ziel für Kletterer und bietet spektakuläre Ausblicke über die Wüste. In der Umgebung finden sich Felszeichnungen und Inschriften aus der Thamud- und Nabatäerzeit. Der Name bedeutet 'Mutter der Zwanzig' und bezieht sich vermutlich auf eine alte Legende.",
+      hu: "A Jabal Umm Ishrin egy feltűnő hegy a Wadi Rumban, mintegy 1800 méter magas. Gránitból és homokkőből áll, meredek sziklafalakkal és természetes ívekkel. A hegy népszerű a mászók körében, és lenyűgöző kilátást nyújt a sivatagra. A környéken sziklarajzok és feliratok találhatók a tamúd és nabateus korból. A név jelentése 'Húsz anyja', ami valószínűleg egy régi legendára utal.",
+      ro: "Jabal Umm Ishrin este un munte proeminent din Wadi Rum, cu o înălțime de aproximativ 1.800 de metri. Este compus din granit și gresie, având stânci abrupte și arcuri naturale. Muntele este popular pentru alpinism și oferă vederi spectaculoase asupra deșertului. În zonă se găsesc petroglife și inscripții din perioada thamudică și nabateeană. Numele înseamnă 'Mama celor douăzeci', probabil referindu-se la o legendă locală.",
+      en: "Jabal Umm Ishrin is an 1,800 m mountain in Wadi Rum, composed of granite and sandstone. It features sheer cliffs and natural arches. The mountain is a top climbing destination, with routes of varying difficulty. Ancient Thamudic and Nabataean rock art are found on its slopes. The name 'Mother of Twenty' possibly refers to a Bedouin folklore about twenty warriors.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1800 m", "Gestein: Granit und Sandstein", "Kletterrouten: 30", "Felszeichnungen: 15 Stätten", "Alter der Inschriften: 2000 Jahre", "Durchschnittstemperatur im Winter: 10°C"],
+      hu: ["Magasság: 1800 m", "Kőzet: gránit és homokkő", "Mászóutak: 30", "Sziklarajzok: 15 helyszín", "Feliratok kora: 2000 év", "Átlagos téli hőmérséklet: 10°C"],
+      ro: ["Altitudine: 1800 m", "Rocă: granit și gresie", "Trasee de alpinism: 30", "Petroglife: 15 situri", "Vechimea inscripțiilor: 2000 ani", "Temperatura medie iarna: 10°C"],
+      en: ["Height: 1,800 m", "Rock type: granite and sandstone", "Climbing routes: 30", "Rock art sites: 15", "Age of inscriptions: 2,000 years", "Average winter temperature: 10°C"],
+    },
   },
   {
     id: "jordan-gilead-mountains-relief-v2",
     type: "mountain",
     name: { de: "Gilead-Gebirge", hu: "Gileád-hegység", ro: "Munții Galaadului", en: "Gilead Mountains" },
-    coordinates: { lat: 32.25, lng: 35.85 },
+    coords: [35.85, 32.25],
     description: {
       de: "Das Gilead-Gebirge ist ein fruchtbares Hochland im Nordwesten Jordaniens, das durch hohe Niederschläge und Wälder geprägt ist.",
       hu: "A Gileád-hegység termékeny felföld Jordánia északnyugati részén, amelyet bőséges csapadék és erdők jellemeznek.",
@@ -617,12 +653,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Peaks rise to elevations over 1200 meters", "Bounded to the north by the Yarmouk River", "Historically famous for the production of balm", "Composed primarily of limestone formations"],
     },
     imageHint: "Gilead Mountains green highlands Jordan",
+    descriptionAdvanced: {
+      de: "Das Gilead-Gebirge erstreckt sich im Nordwesten Jordaniens entlang des Jordantals, mit Höhen bis zu 1.200 Metern. Die Region ist bekannt für ihre üppigen Wälder aus Eichen, Kiefern und Olivenbäumen. Historisch war Gilead ein wichtiges Gebiet für den Anbau von Weihrauch und Myrrhe. In der Bibel wird es mehrmals erwähnt, unter anderem als Zufluchtsort. Das Gebirge ist reich an archäologischen Stätten aus der Bronze- und Eisenzeit.",
+      hu: "A Gileád-hegység Jordánia északnyugati részén, a Jordán-völgy mentén húzódik, magassága eléri az 1200 métert. A vidék híres tölgy-, fenyő- és olajfaerdőiről. Történelmileg Gileád fontos terület volt a tömjén és mirha termesztésében. A Bibliában többször említik menedékhelyként. A hegységben számos bronz- és vaskori régészeti lelőhely található.",
+      ro: "Munții Gilead se întind în nord-vestul Iordaniei, de-a lungul Văii Iordanului, cu înălțimi de până la 1.200 de metri. Regiunea este cunoscută pentru pădurile de stejar, pin și măslin. Din punct de vedere istoric, Gilead a fost o zonă importantă pentru cultivarea tămâiei și a mirului. În Biblie, este menționat de mai multe ori ca loc de refugiu. Munții sunt bogați în situri arheologice din epoca bronzului și fierului.",
+      en: "The Gilead Mountains run along the Jordan Valley in northwestern Jordan, reaching elevations of 1,200 m. They are covered with Mediterranean forests of oak, pine, and olive. Historically, the region was known for producing balm and spices. The mountains are referenced in the Bible as a place of refuge. Archaeological excavations have revealed settlements from the Bronze and Iron Ages, including fortifications and temples.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: 1200 m", "Länge: 80 km", "Waldfläche: 500 km²", "Biblische Erwähnungen: 15", "Eichenarten: 3", "Jährliche Niederschlagsmenge: 600 mm"],
+      hu: ["Legmagasabb pont: 1200 m", "Hossz: 80 km", "Erdőterület: 500 km²", "Bibliai említések: 15", "Tölgyfajok: 3", "Éves csapadék: 600 mm"],
+      ro: ["Altitudine maximă: 1200 m", "Lungime: 80 km", "Suprafață împădurită: 500 km²", "Referințe biblice: 15", "Specii de stejar: 3", "Precipitații anuale: 600 mm"],
+      en: ["Highest peak: 1,200 m", "Length: 80 km", "Forest area: 500 km²", "Biblical references: 15", "Oak species: 3", "Annual precipitation: 600 mm"],
+    },
   },
   {
     id: "jordan-al-hamad-plateau-relief-v2",
     type: "landmark",
     name: { de: "Al-Hamad-Plateau", hu: "Al-Hamad-fennsík", ro: "Podișul Al-Hamad", en: "Al-Hamad Plateau" },
-    coordinates: { lat: 32.0, lng: 38.5 },
+    coords: [38.5, 32.0],
     description: {
       de: "Das Al-Hamad ist ein weites, arid geprägte Kalksteinplateau, das den nordöstlichen Teil der jordanischen Wüste einnimmt.",
       hu: "Az Al-Hamad egy kiterjedt, száraz mészkőfennsík, amely a jordán sivatag északkeleti részét foglalja el.",
@@ -636,12 +684,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Surface covered with black flint gravel", "Average elevation between 600 and 900 meters", "Part of the larger Syrian Desert region", "Significant area for nomadic Bedouin tribes"],
     },
     imageHint: "Al-Hamad desert plateau Jordan flint stones",
+    descriptionAdvanced: {
+      de: "Das Al-Hamad-Plateau ist eine ausgedehnte Basaltebene im Osten Jordaniens, die sich über 10.000 Quadratkilometer erstreckt. Es liegt auf einer Höhe von etwa 800 Metern und ist von Trockenvegetation geprägt. Das Plateau entstand durch vulkanische Aktivität im Tertiär und ist von Lavafeldern und Vulkankegeln bedeckt. Historisch diente es als Weideland für Beduinen und als Route für Karawanen. Heute wird es für die Ölförderung und den Abbau von Phosphaten genutzt.",
+      hu: "Az Al-Hamad-fennsík egy hatalmas bazaltfennsík Jordánia keleti részén, amely több mint 10 000 négyzetkilométert ölel fel. Magassága körülbelül 800 méter, és szárazságtűrő növényzet jellemzi. A fennsík a harmadidőszak vulkáni tevékenysége során keletkezett, és lávamezők, vulkáni kúpok borítják. Történelmileg a beduinok legelőjeként és karavánutaként szolgált. Ma olaj- és foszfátbányászat folyik itt.",
+      ro: "Podisul Al-Hamad este o întinsă câmpie de bazalt în estul Iordaniei, acoperind peste 10.000 de kilometri pătrați. Se află la o altitudine de aproximativ 800 de metri și are vegetație de stepă. Podișul s-a format prin activitate vulcanică în Terțiar, fiind acoperit de câmpuri de lavă și conuri vulcanice. Din punct de vedere istoric, a fost teren de pășunat pentru beduini și rută pentru caravane. Astăzi, este folosit pentru extracția de petrol și fosfați.",
+      en: "The Al-Hamad Plateau is a vast basalt plain in eastern Jordan, covering over 10,000 km² at an elevation of about 800 m. It was formed by Tertiary volcanic activity, resulting in lava fields and volcanic cones. The plateau is sparsely vegetated with drought-resistant shrubs. Historically, it supported nomadic Bedouin herding and served as a caravan route. Modern exploitation includes phosphate mining and oil exploration.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 10.000 km²", "Höhe: 800 m", "Vulkankegel: 50", "Alter: 30 Millionen Jahre", "Phosphatreserven: 1 Milliarde Tonnen", "Beduinenbevölkerung: 10.000"],
+      hu: ["Terület: 10.000 km²", "Magasság: 800 m", "Vulkáni kúpok: 50", "Kor: 30 millió év", "Foszfátkészlet: 1 milliárd tonna", "Beduin lakosság: 10.000"],
+      ro: ["Suprafață: 10.000 km²", "Altitudine: 800 m", "Conuri vulcanice: 50", "Vârstă: 30 milioane de ani", "Rezerve de fosfați: 1 miliard de tone", "Populație beduină: 10.000"],
+      en: ["Area: 10,000 km²", "Elevation: 800 m", "Volcanic cones: 50", "Age: 30 million years", "Phosphate reserves: 1 billion tonnes", "Bedouin population: 10,000"],
+    },
   },
   {
     id: "jordan-wadi-hidan-relief-v2",
     type: "valley",
     name: { de: "Wadi Hidan", hu: "Vádi Hidan", ro: "Wadi Hidan", en: "Wadi Hidan" },
-    coordinates: { lat: 31.5512, lng: 35.7045 },
+    coords: [35.7045, 31.5512],
     description: {
       de: "Wadi Hidan ist eine schmale Basaltschlucht mit permanent fließendem Wasser, die in den Mujib-Canyon mündet.",
       hu: "A Vádi Hidan egy keskeny bazaltszurdok állandó vízhálózattal, amely a Mujib-kanyonba torkollik.",
@@ -655,12 +715,24 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Known for its striking black basalt formations", "Features numerous natural pools and waterfalls", "Narrows to just a few meters in certain sections", "Part of a complex hydrological drainage system"],
     },
     imageHint: "Wadi Hidan basalt canyon Jordan",
+    descriptionAdvanced: {
+      de: "Das Wadi Hidan ist ein Seitental des Jordantals im zentralen Jordanien, etwa 40 Kilometer südlich von Amman. Es erstreckt sich über 12 Kilometer und ist bis zu 400 Meter tief. Die Schlucht besteht aus Kalkstein und Mergel und ist durch Wassererosion geformt. In der Umgebung gibt es mehrere natürliche Süßwasserquellen, die für die Landwirtschaft genutzt werden. Das Wadi ist ein wichtiger Lebensraum für den Syrischen Steinbock und andere Wildtiere.",
+      hu: "A Wadi Hidan a Jordán-völgy mellékvölgye Közép-Jordániában, Ammantól délre mintegy 40 kilométerre. Hossza 12 kilométer, mélysége eléri a 400 métert. A szurdok mészkőből és márgából áll, melyet a víz eróziója formált. A környéken több édesvízforrás található, melyeket mezőgazdasági öntözésre használnak. A völgy fontos élőhely a szír kőszáli kecske és más vadon élő állatok számára.",
+      ro: "Wadi Hidan este o vale laterală a Văii Iordanului în centrul Iordaniei, la aproximativ 40 de kilometri sud de Amman. Se întinde pe 12 kilometri și are o adâncime de până la 400 de metri. Canionul este format din calcar și marnă, modelat de eroziunea apei. În zonă există mai multe izvoare de apă dulce folosite pentru irigații. Valea este un habitat important pentru ibexul sirian și alte animale sălbatice.",
+      en: "Wadi Hidan is a 12-km-long tributary canyon of the Jordan Valley, 40 km south of Amman, with a depth of 400 m. Composed of limestone and marl, it was carved by seasonal floods. Several freshwater springs sustain small-scale agriculture. The wadi is home to the Nubian ibex and offers challenging hiking terrain. Archaeological surveys have found flint tools from the Neolithic period.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 12 km", "Tiefe: 400 m", "Quellen: 8", "Neolithische Werkzeuge: 300 Funde", "Wildtierpopulation: 200 Steinböcke", "Niederschlag: 200 mm/Jahr"],
+      hu: ["Hossz: 12 km", "Mélység: 400 m", "Források: 8", "Neolitikus szerszámok: 300 lelet", "Vadállomány: 200 kőszáli kecske", "Éves csapadék: 200 mm"],
+      ro: ["Lungime: 12 km", "Adâncime: 400 m", "Izvoare: 8", "Unelte neolitice: 300 descoperiri", "Populație de ibex: 200", "Precipitații anuale: 200 mm"],
+      en: ["Length: 12 km", "Depth: 400 m", "Springs: 8", "Neolithic flint tools found: 300", "Nubian ibex population: 200", "Annual precipitation: 200 mm"],
+    },
   },
   {
     id: "jordan-jabal-umm-al-biyara-relief-v2",
     type: "mountain",
     name: { de: "Jabal Umm al-Biyara", hu: "Dzsebel Umm al-Bijara", ro: "Jabal Umm al-Biyara", en: "Jabal Umm al-Biyara" },
-    coordinates: { lat: 30.3242, lng: 35.4389 },
+    coords: [35.4389, 30.3242],
     description: {
       de: "Dieser markante Tafelberg ist der höchste und am zentralsten gelegene Berg innerhalb des Petra-Beckens.",
       hu: "Ez a jellegzetes táblahegy a legmagasabb és legközpontibb hegy a Petra-medencén belül.",
@@ -674,5 +746,17 @@ export const poiExtraJordanReliefV2: POI[] = [
       en: ["Name translates to Mother of Cisterns", "Summit plateau sits at 1150 meters elevation", "Offers a 360-degree view over the Petra site", "Sheer cliffs served as a natural defensive fortress"],
     },
     imageHint: "Jabal Umm al-Biyara mountain Petra Jordan",
+    descriptionAdvanced: {
+      de: "Der Jabal Umm al-Biyara ist ein Tafelberg in Petra, Jordanien, mit einer Höhe von 1.170 Metern. Er ist von steilen Klippen umgeben und nur über einen schmalen Pfad erreichbar. Auf dem Gipfel befinden sich die Ruinen einer edomitischen Siedlung aus dem 8. Jahrhundert v. Chr. Der Berg bietet einen Panoramablick über Petra und die umliegende Wüste. Archäologische Ausgrabungen haben bedeutende Funde aus der Eisenzeit zu Tage gefördert.",
+      hu: "A Jabal Umm al-Biyara egy asztalhegy Petrától délre, Jordániában, magassága 1170 méter. Meredek sziklafalak veszik körül, csak egy keskeny ösvényen közelíthető meg. A csúcson egy edomita település romjai találhatók a Kr. e. 8. századból. A hegy panorámát nyújt Petra és a környező sivatag felett. A régészeti ásatások jelentős vaskori leleteket hoztak felszínre.",
+      ro: "Jabal Umm al-Biyara este un masă muntoasă din Petra, Iordania, cu o înălțime de 1.170 de metri. Este înconjurat de stânci abrupte și accesibil doar printr-o potecă îngustă. Pe vârf se află ruinele unei așezări edomite din secolul al VIII-lea î.Hr. Muntele oferă o vedere panoramică asupra Petrei și a deșertului înconjurător. Săpăturile arheologice au descoperit artefacte importante din epoca fierului.",
+      en: "Jabal Umm al-Biyara is a 1,170 m high table mountain in Petra, Jordan, with steep cliffs on all sides. It is accessible via a narrow footpath. The summit contains the remains of an Edomite settlement dating to the 8th century BCE. Excavations have uncovered pottery, inscriptions, and building foundations. The mountain provides a commanding view of the Petra basin and is a key site for understanding Edomite culture.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1170 m", "Edomitische Siedlung: 8. Jh. v. Chr.", "Pfadlänge: 2 km", "Ausgrabungsfläche: 500 m²", "Fundstücke: 5000", "Besucher pro Jahr: 20.000"],
+      hu: ["Magasság: 1170 m", "Edomita település: Kr. e. 8. sz.", "Ösvény hossza: 2 km", "Ásatási terület: 500 m²", "Leletek: 5000", "Éves látogatók: 20.000"],
+      ro: ["Altitudine: 1170 m", "Așezare edomită: sec. VIII î.Hr.", "Lungime potecă: 2 km", "Suprafață săpată: 500 m²", "Artefacte: 5000", "Vizitatori anual: 20.000"],
+      en: ["Height: 1,170 m", "Edomite settlement: 8th century BCE", "Trail length: 2 km", "Excavated area: 500 m²", "Artifacts recovered: 5,000", "Annual visitors: 20,000"],
+    },
   }
 ];

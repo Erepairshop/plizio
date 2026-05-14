@@ -1148,7 +1148,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-prisoner-of-war-camp-aus-history-v2",
     type: "ruins",
     name: { de: "Kriegsgefangenenlager Aus", hu: "Ausi hadifogolytábor", ro: "Lagărul de prizonieri de război Aus", en: "Prisoner of War Camp Aus" },
-    coordinates: { lat: -26.6533, lng: 16.3236 },
+    coords: [16.3236, -26.6533],
     description: {
       de: "Überreste eines Lagers aus dem Ersten Weltkrieg, in dem ab 1915 deutsche Soldaten interniert wurden.",
       hu: "Az első világháborús tábor maradványai, ahol 1915-től német katonákat tartottak fogva.",
@@ -1167,7 +1167,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-fort-sesfontein-history-v2",
     type: "monument",
     name: { de: "Fort Sesfontein", hu: "Sesfontein-erőd", ro: "Fortul Sesfontein", en: "Fort Sesfontein" },
-    coordinates: { lat: -19.1219, lng: 13.6192 },
+    coords: [13.6192, -19.1219],
     description: {
       de: "Historischer deutscher Polizeiposten von 1896, errichtet zur Kontrolle der Rinderpest und des Schmuggels.",
       hu: "1896-ban épült német rendőrségi poszt, amelyet a marhavész és a csempészet ellenőrzésére hoztak létre.",
@@ -1186,7 +1186,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-otjimbingwe-mission-history-v2",
     type: "church",
     name: { de: "Rheinische Mission Otjimbingwe", hu: "Otjimbingwe missziós állomás", ro: "Misiunea Otjimbingwe", en: "Otjimbingwe Mission Station" },
-    coordinates: { lat: -22.3581, lng: 16.1289 },
+    coords: [16.1289, -22.3581],
     description: {
       de: "Wichtiger Handelsplatz und Missionsstation des 19. Jahrhunderts, zeitweilig Verwaltungssitz der Kolonie.",
       hu: "Fontos 19. századi kereskedelmi központ és missziós állomás, egykor a gyarmat közigazgatási székhelye.",
@@ -1205,7 +1205,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-swakopmund-jetty-history-v2",
     type: "bridge",
     name: { de: "Landungsbrücke Swakopmund", hu: "Swakopmundi móló", ro: "Mollul Swakopmund", en: "Swakopmund Jetty" },
-    coordinates: { lat: -22.6822, lng: 14.5208 },
+    coords: [14.5208, -22.6822],
     description: {
       de: "Historische Meeresbrücke, die ursprünglich 1905 als Anlegestelle für Versorgungsschiffe errichtet wurde.",
       hu: "Történelmi móló, amelyet eredetileg 1905-ben építettek az ellátóhajók kikötéséhez.",
@@ -1224,7 +1224,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-windhoek-old-cemetery-history-v2",
     type: "landmark",
     name: { de: "Alter Friedhof Windhoek", hu: "Windhoeki régi temető", ro: "Cimitirul Vechi Windhoek", en: "Windhoek Old Cemetery" },
-    coordinates: { lat: -22.5645, lng: 17.0781 },
+    coords: [17.0781, -22.5645],
     description: {
       de: "Historische Begräbnisstätte mit Gräbern von Pionieren und Soldaten aus der Kolonialzeit Namibias.",
       hu: "Történelmi sírkert, amelyben a gyarmati korszak úttörőinek és katonáinak sírjai találhatók.",
@@ -1243,7 +1243,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-witbooi-grave-gibeon-history-v2",
     type: "monument",
     name: { de: "Hendrik-Witbooi-Grabstätte", hu: "Hendrik Witbooi sírja", ro: "Mormântul lui Hendrik Witbooi", en: "Hendrik Witbooi Grave Site" },
-    coordinates: { lat: -25.1322, lng: 17.7514 },
+    coords: [17.7514, -25.1322],
     description: {
       de: "Grabstätte und Denkmal des Nama-Anführers Hendrik Witbooi, ein Nationalheld im Widerstand gegen die Kolonialmacht.",
       hu: "Hendrik Witbooi nama vezető sírja és emlékműve, aki a gyarmati ellenállás nemzeti hőse.",
@@ -1262,7 +1262,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-herero-leader-graves-okahandja-history-v2",
     type: "monument",
     name: { de: "Ahnen-Gräber der Herero", hu: "Herero vezetők sírjai", ro: "Mormintele liderilor Herero", en: "Herero Leader Graves" },
-    coordinates: { lat: -21.9861, lng: 16.9114 },
+    coords: [16.9114, -21.9861],
     description: {
       de: "Heilige Begräbnisstätte der großen Herero-Anführer, Schauplatz des jährlichen Herero-Tages im August.",
       hu: "A herero nép nagy vezetőinek szent temetkezési helye, az augusztusi Herero-nap központja.",
@@ -1281,7 +1281,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-moordkoppie-okahandja-history-v2",
     type: "battlefield",
     name: { de: "Moordkoppie", hu: "Moordkoppie-domb", ro: "Moordkoppie", en: "Moordkoppie" },
-    coordinates: { lat: -21.9792, lng: 16.9203 },
+    coords: [16.9203, -21.9792],
     description: {
       de: "Historischer Hügel in Okahandja, Ort eines blutigen Massakers zwischen Nama und Herero im Jahr 1850.",
       hu: "Történelmi domb Okahandjában, ahol 1850-ben véres mészárlás zajlott a nama és herero népek között.",
@@ -1300,7 +1300,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-philips-cave-ameib-history-v2",
     type: "ruins",
     name: { de: "Philips-Höhle", hu: "Philips-barlang", ro: "Peștera Philips", en: "Philips Cave" },
-    coordinates: { lat: -21.7831, lng: 15.6167 },
+    coords: [15.6167, -21.7831],
     description: {
       de: "Bekannte archäologische Stätte im Erongo-Gebirge, berühmt für die San-Felsmalerei des 'Weißen Elefanten'.",
       hu: "Ismert régészeti lelőhely az Erongo-hegységben, híres a szanok 'Fehér elefánt' sziklarajzáról.",
@@ -1319,7 +1319,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-petrified-forest-khorixas-history-v2",
     type: "landmark",
     name: { de: "Versteinerter Wald Khorixas", hu: "Khorixasi megkövült erdő", ro: "Pădurea Pietrificată Khorixas", en: "Petrified Forest Khorixas" },
-    coordinates: { lat: -20.4392, lng: 14.6075 },
+    coords: [14.6075, -20.4392],
     description: {
       de: "Geologisches Naturdenkmal mit fossilen Baumstämmen, die vor über 280 Millionen Jahren hier angeschwemmt wurden.",
       hu: "Geológiai emlékhely fosszilis fatörzsekkel, amelyeket több mint 280 millió évvel ezelőtt sodort ide a víz.",
@@ -1338,7 +1338,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-gross-barmen-mission-history-v2",
     type: "church",
     name: { de: "Missionsstation Gross Barmen", hu: "Gross Barmen misszió", ro: "Misiunea Gross Barmen", en: "Gross Barmen Mission Station" },
-    coordinates: { lat: -22.1025, lng: 16.7511 },
+    coords: [16.7511, -22.1025],
     description: {
       de: "Ort der ersten rheinischen Missionsstation im Hereroland, gegründet 1844 an heißen Thermalquellen.",
       hu: "Az első rajnai missziós állomás a hererók földjén, amelyet 1844-ben alapítottak hévizes forrásoknál.",
@@ -1357,7 +1357,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-liebig-house-neu-heusis-history-v2",
     type: "ruins",
     name: { de: "Liebig-Haus", hu: "Liebig-ház", ro: "Casa Liebig", en: "Liebig House" },
-    coordinates: { lat: -22.6361, lng: 16.7883 },
+    coords: [16.7883, -22.6361],
     description: {
       de: "Eindrucksvolle Ruine eines Herrenhauses von 1912, das für den Direktor der Liebig-Fleischextrakt-Gesellschaft erbaut wurde.",
       hu: "Egy 1912-ben épült udvarház lenyűgöző romja, amely a Liebig húskivonat-társaság igazgatójának készült.",
@@ -1376,7 +1376,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-keetmanshoop-old-post-office-history-v2",
     type: "landmark",
     name: { de: "Altes Postamt Keetmanshoop", hu: "Keetmanshoopi régi posta", ro: "Vechiul Oficiu Poștal Keetmanshoop", en: "Old Post Office Keetmanshoop" },
-    coordinates: { lat: -26.5819, lng: 18.1333 },
+    coords: [18.1333, -26.5819],
     description: {
       de: "Charakteristisches Kolonialgebäude von 1910 mit einem markanten Turm, das heute ein Museum beherbergt.",
       hu: "Jellegzetes, 1910-ben épült gyarmati épület feltűnő toronnyal, amely ma múzeumnak ad otthont.",
@@ -1395,7 +1395,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-eagle-monument-keetmanshoop-history-v2",
     type: "monument",
     name: { de: "Adlerdenkmal Keetmanshoop", hu: "Sas-emlékmű Keetmanshoop", ro: "Monumentul Vulturului Keetmanshoop", en: "Eagle Monument Keetmanshoop" },
-    coordinates: { lat: -26.5811, lng: 18.1347 },
+    coords: [18.1347, -26.5811],
     description: {
       de: "Kriegerdenkmal zur Erinnerung an die deutschen Soldaten, die in den Kriegen gegen die Nama gefallen sind.",
       hu: "Háborús emlékmű a nama népek elleni harcokban elesett német katonák emlékére.",
@@ -1414,7 +1414,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-henckert-house-karibib-history-v2",
     type: "landmark",
     name: { de: "Henckert-Haus Karibib", hu: "Henckert-ház Karibib", ro: "Casa Henckert Karibib", en: "Henckert House Karibib" },
-    coordinates: { lat: -21.9392, lng: 15.8561 },
+    coords: [15.8561, -21.9392],
     description: {
       de: "Historisches Wohngebäude in Karibib, das für seine Bauweise aus lokalem Marmor und Stein bekannt ist.",
       hu: "Történelmi lakóépület Karibibben, amely a helyi márványból és kőből készült szerkezetéről ismert.",
@@ -1433,7 +1433,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-kaiserliche-realschule-windhoek-history-v2",
     type: "monument",
     name: { de: "Kaiserliche Realschule Windhoek", hu: "Kaiserliche Realschule Windhoek", ro: "Kaiserliche Realschule Windhoek", en: "Kaiserliche Realschule Windhoek" },
-    coordinates: { lat: -22.5714, lng: 17.0856 },
+    coords: [17.0856, -22.5714],
     description: {
       de: "Die erste staatliche deutsche Schule in Windhoek, erbaut 1907 im typischen Kolonialstil.",
       hu: "Az első állami német iskola Windhoekban, amely 1907-ben épült tipikus gyarmati stílusban.",
@@ -1452,7 +1452,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-naulila-battle-site-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Naulila", hu: "Naulilai csatatér", ro: "Câmpul de luptă de la Naulila", en: "Naulila Battle Site" },
-    coordinates: { lat: -17.1956, lng: 14.7125 },
+    coords: [14.7125, -17.1956],
     description: {
       de: "Ort einer Schlacht im Jahr 1914 zwischen deutschen und portugiesischen Truppen an der Grenze zu Angola.",
       hu: "Egy 1914-es csata helyszíne a német és portugál csapatok között az angolai határnál.",
@@ -1471,7 +1471,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-schanzen-windhoek-history-v2",
     type: "ruins",
     name: { de: "Schanzen von Windhoek", hu: "Windhoeki sáncok", ro: "Fortificațiile Schanzen Windhoek", en: "Schanzen Windhoek" },
-    coordinates: { lat: -22.5658, lng: 17.0911 },
+    coords: [17.0911, -22.5658],
     description: {
       de: "Historische Verteidigungswälle auf den Hügeln über Windhoek, die zum Schutz der frühen Siedlung errichtet wurden.",
       hu: "Történelmi védművek a Windhoek feletti dombokon, amelyeket a korai település védelmére emeltek.",
@@ -1490,7 +1490,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-swakopmund-railway-station-history-v2",
     type: "landmark",
     name: { de: "Bahnhof Swakopmund", hu: "Swakopmundi vasútállomás", ro: "Gara Swakopmund", en: "Swakopmund Railway Station" },
-    coordinates: { lat: -22.6806, lng: 14.5311 },
+    coords: [14.5311, -22.6806],
     description: {
       de: "Prachtvolles Bahnhofsgebäude im Stil der Neorenaissance von 1901, heute ein luxuriöses Hotel.",
       hu: "Pompás, 1901-ben neoreneszánsz stílusban épült vasútállomás, amely ma luxusszálloda.",
@@ -1509,7 +1509,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     id: "namibia-warmbad-mission-station-history-v2",
     type: "church",
     name: { de: "Missionsstation Warmbad", hu: "Warmbadi missziós állomás", ro: "Stația de misiune Warmbad", en: "Warmbad Mission Station" },
-    coordinates: { lat: -28.4503, lng: 18.7336 },
+    coords: [18.7336, -28.4503],
     description: {
       de: "Älteste Missionsstation in Namibia, gegründet 1805, und Zentrum der frühen christlichen Missionierung im Süden.",
       hu: "Namíbia legrégebbi missziós állomása, amelyet 1805-ben alapítottak a déli keresztény térítés központjaként.",

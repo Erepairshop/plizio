@@ -1129,7 +1129,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-central-karakoram-life-v2",
     type: "wildlife",
     name: { de: "Zentral-Karakorum-Nationalpark", hu: "Középső-Karakorum Nemzeti Park", ro: "Parcul Național Central Karakoram", en: "Central Karakoram National Park" },
-    coordinates: { lat: 35.8833, lng: 76.1167 },
+    coords: [76.1167, 35.8833],
     description: {
       de: "Der Park umfasst das weltweit größte Gletschersystem außerhalb der Polarregionen und beherbergt den K2.",
       hu: "A park magában foglalja a világ legnagyobb nem poláris gleccserrendszerét és a K2 csúcsot.",
@@ -1148,7 +1148,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-broghil-valley-life-v2",
     type: "wildlife",
     name: { de: "Broghil-Tal-Nationalpark", hu: "Broghil-völgy Nemzeti Park", ro: "Parcul Național Broghil Valley", en: "Broghil Valley National Park" },
-    coordinates: { lat: 36.8333, lng: 73.35 },
+    coords: [73.35, 36.8333],
     description: {
       de: "Ein Hochgebirgspark an der Grenze zu Afghanistan, bekannt für seine Hochmoore und Yak-Kultur.",
       hu: "Magashegyi park az afgán határon, amely lápvidékeiről és jaktenyésztő kultúrájáról ismert.",
@@ -1167,7 +1167,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-qurumber-life-v2",
     type: "park",
     name: { de: "Qurumber-Nationalpark", hu: "Qurumber Nemzeti Park", ro: "Parcul Național Qurumber", en: "Qurumber National Park" },
-    coordinates: { lat: 36.75, lng: 73.6833 },
+    coords: [73.6833, 36.75],
     description: {
       de: "Der Park im Distrikt Ghizer schützt das alpine Ökosystem rund um den Qurumber-See.",
       hu: "A Ghizer körzetben található park a Qurumber-tó körüli alpesi ökoszisztémát védi.",
@@ -1186,7 +1186,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-handrap-phander-life-v2",
     type: "wildlife",
     name: { de: "Handrap-Phander-Nationalpark", hu: "Handrap-Phander Nemzeti Park", ro: "Parcul Național Handrap-Phander", en: "Handrap-Phander National Park" },
-    coordinates: { lat: 36.1833, lng: 72.9333 },
+    coords: [72.9333, 36.1833],
     description: {
       de: "Ein landschaftlich reizvoller Park, der für seine Forellengewässer und glasklaren Seen bekannt ist.",
       hu: "Gleccsertavakban gazdag park, amely pisztrángos vizeiről és tiszta tavairól ismert.",
@@ -1205,7 +1205,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-murree-kahuta-life-v2",
     type: "forest",
     name: { de: "Murree-Kahuta-Nationalpark", hu: "Murree-Kahuta Nemzeti Park", ro: "Parcul Național Murree-Kahuta", en: "Murree-Kahuta National Park" },
-    coordinates: { lat: 33.85, lng: 73.5 },
+    coords: [73.5, 33.85],
     description: {
       de: "Dieser Park in der Provinz Punjab schützt die verbliebenen Kiefernwälder der Region.",
       hu: "Ez a Pandzsáb tartományban található park a régió fennmaradó fenyőerdőit védi.",
@@ -1224,7 +1224,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-toli-peer-life-v2",
     type: "park",
     name: { de: "Toli-Peer-Nationalpark", hu: "Toli Peer Nemzeti Park", ro: "Parcul Național Toli Peer", en: "Toli Peer National Park" },
-    coordinates: { lat: 33.89, lng: 73.91 },
+    coords: [73.91, 33.89],
     description: {
       de: "Ein Hochlandpark in Azad Kaschmir mit weiten Bergwiesen und Panoramablick auf den Jhelam.",
       hu: "Hegyi park Azad Kasmírban, kiterjedt rétekkel és panorámás kilátással a Jhelum-folyóra.",
@@ -1243,7 +1243,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-kallar-kahar-life-v2",
     type: "wildlife",
     name: { de: "Kallar-Kahar-See", hu: "Kallar Kahar-tó", ro: "Lacul Kallar Kahar", en: "Kallar Kahar Lake" },
-    coordinates: { lat: 32.7833, lng: 72.7167 },
+    coords: [72.7167, 32.7833],
     description: {
       de: "Ein Salzwassersee im Salzgebirge, bekannt für seine Pfauenpopulation und Zugvögel.",
       hu: "Sóstó a Sós-hegységben, amely pávaállományáról és vándormadarairól ismert.",
@@ -1262,7 +1262,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-keenjhar-lake-life-v2",
     type: "wildlife",
     name: { de: "Keenjhar-See", hu: "Keenjhar-tó", ro: "Lacul Keenjhar", en: "Keenjhar Lake" },
-    coordinates: { lat: 24.94, lng: 68.05 },
+    coords: [68.05, 24.94],
     description: {
       de: "Einer der größten Süßwasserseen Pakistans und ein wichtiges Ramsar-Schutzgebiet in Sindh.",
       hu: "Pakisztán egyik legnagyobb édesvízi tava és fontos Ramsari terület Szindh tartományban.",
@@ -1281,7 +1281,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-hub-dam-life-v2",
     type: "wildlife",
     name: { de: "Hub-Staudamm-Wildschutzgebiet", hu: "Hub-gát Vadvédelmi Terület", ro: "Sanctuarul de Faună Hub Dam", en: "Hub Dam Wildlife Sanctuary" },
-    coordinates: { lat: 25.25, lng: 67.1167 },
+    coords: [67.1167, 25.25],
     description: {
       de: "Ein bedeutendes Feuchtgebiet an der Grenze zwischen Sindh und Belutschistan.",
       hu: "Jelentős vizes élőhely Szindh és Beludzsisztán tartományok határán.",
@@ -1300,7 +1300,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-khabbaki-lake-life-v2",
     type: "wildlife",
     name: { de: "Khabbaki-See", hu: "Khabbaki-tó", ro: "Lacul Khabbaki", en: "Khabbaki Lake" },
-    coordinates: { lat: 32.62, lng: 72.24 },
+    coords: [72.24, 32.62],
     description: {
       de: "Ein flacher See im Salzgebirge, der Teil des international bedeutenden Uchhali-Komplexes ist.",
       hu: "Sekély tó a Sós-hegységben, a nemzetközileg jelentős Uchhali-komplexum része.",
@@ -1319,7 +1319,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-karachi-zoo-life-v2",
     type: "wildlife",
     name: { de: "Zoo von Karatschi", hu: "Karacsi Állatkert", ro: "Grădina Zoologică din Karachi", en: "Karachi Zoo" },
-    coordinates: { lat: 24.8767, lng: 67.0317 },
+    coords: [67.0317, 24.8767],
     description: {
       de: "Der 1878 gegründete Zoo ist der zweitälteste des Landes und beherbergt ein historisches Naturkundemuseum.",
       hu: "Az 1878-ban alapított állatkert az ország második legrégebbi ilyen intézménye.",
@@ -1338,7 +1338,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-banjosa-lake-life-v2",
     type: "park",
     name: { de: "Banjosa-See", hu: "Banjosa-tó", ro: "Lacul Banjosa", en: "Banjosa Lake" },
-    coordinates: { lat: 33.8133, lng: 73.815 },
+    coords: [73.815, 33.8133],
     description: {
       de: "Ein künstlicher See inmitten dichter Pinienwälder, der ein einzigartiges Mikroklima schafft.",
       hu: "Sűrű fenyőerdők közepén fekvő mesterséges tó, amely egyedi mikroklímával rendelkezik.",
@@ -1357,7 +1357,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
     id: "pakistan-indus-dolphin-reserve-life-v2",
     type: "wildlife",
     name: { de: "Indus-Delfin-Reservat", hu: "Indus-delfin Rezervátum", ro: "Rezervația de Delfini de pe Indus", en: "Indus River Dolphin Reserve" },
-    coordinates: { lat: 27.7, lng: 68.85 },
+    coords: [68.85, 27.7],
     description: {
       de: "Ein Schutzgebiet zwischen den Staustufen Guddu und Sukkur für den gefährdeten Indus-Delfin.",
       hu: "Védett terület a Guddu és Sukkur gátak között a veszélyeztetett indusi delfin számára.",

@@ -788,7 +788,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-faro-de-santa-maria-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Santa María", hu: "Santa María Világítótorony", ro: "Farul Santa María", en: "Santa María Lighthouse" },
-    coordinates: { lat: -34.6644, lng: -54.1481 },
+    coords: [-54.1481, -34.6644],
     description: {
       de: "Der Leuchtturm befindet sich auf der Isla de Lobos. Er dient der Navigation für Schiffe, die den Rio de la Plata und den Atlantik befahren.",
       hu: "A világítótorony az Isla de Lobos-on található. Navigációs célokat szolgál a Rio de la Plata és az Atlanti-óceán hajózási útvonalain.",
@@ -807,7 +807,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-museo-gurvich-landmarks-v2",
     type: "museum",
     name: { de: "Gurvich-Museum", hu: "Gurvich Múzeum", ro: "Muzeul Gurvich", en: "Gurvich Museum" },
-    coordinates: { lat: -34.9056, lng: -56.2023 },
+    coords: [-56.2023, -34.9056],
     description: {
       de: "Das Museum in Montevideo widmet sich dem Werk des Künstlers José Gurvich. Es zeigt eine bedeutende Sammlung von Gemälden und Skulpturen des Künstlers.",
       hu: "A montevideói múzeum José Gurvich művészetének szentelt. A művész festményeinek és szobrainak jelentős gyűjteményét mutatja be.",
@@ -826,7 +826,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-puente-giratorio-carmelo-landmarks-v2",
     type: "bridge",
     name: { de: "Drehbrücke von Carmelo", hu: "Carmelo Forgóhíd", ro: "Podul Rotativ din Carmelo", en: "Carmelo Swing Bridge" },
-    coordinates: { lat: -33.9961, lng: -58.2831 },
+    coords: [-58.2831, -33.9961],
     description: {
       de: "Diese historische Drehbrücke verbindet das Zentrum von Carmelo mit dem Hafenbereich. Sie wurde 1912 errichtet und wird manuell betrieben.",
       hu: "Ez a történelmi forgóhíd köti össze Carmelo központját a kikötővel. 1912-ben épült, és kézzel működtetik.",
@@ -845,7 +845,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-iglesia-de-carmelo-landmarks-v2",
     type: "church",
     name: { de: "Kirche Unserer Lieben Frau vom Berg Karmel", hu: "Kármel-hegyi Miasszonyunk templom", ro: "Biserica Maicii Domnului de pe Muntele Carmel", en: "Church of Our Lady of Mount Carmel" },
-    coordinates: { lat: -33.9947, lng: -58.2808 },
+    coords: [-58.2808, -33.9947],
     description: {
       de: "Die Pfarrkirche befindet sich im historischen Zentrum von Carmelo. Sie ist ein zentraler Ort für die religiöse Gemeinschaft der Stadt.",
       hu: "A plébániatemplom Carmelo történelmi központjában található. A város vallási közösségének központi helyszíne.",
@@ -864,7 +864,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-estadio-parque-artigas-landmarks-v2",
     type: "landmark",
     name: { de: "Estadio Parque Artigas", hu: "Parque Artigas Stadion", ro: "Stadionul Parque Artigas", en: "Estadio Parque Artigas" },
-    coordinates: { lat: -34.6978, lng: -56.2164 },
+    coords: [-56.2164, -34.6978],
     description: {
       de: "Das Stadion in Las Piedras ist ein wichtiges Sportzentrum der Stadt. Es dient hauptsächlich für Fußballspiele und lokale Veranstaltungen.",
       hu: "A Las Piedras-i stadion a város fontos sportközpontja. Főként labdarúgó-mérkőzéseknek és helyi eseményeknek ad otthont.",
@@ -883,7 +883,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-museo-ferroviario-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum", hu: "Vasúti Múzeum", ro: "Muzeul Căilor Ferate", en: "Railway Museum" },
-    coordinates: { lat: -34.8872, lng: -56.1953 },
+    coords: [-56.1953, -34.8872],
     description: {
       de: "Dieses Museum in Montevideo bewahrt die Geschichte der Eisenbahnen in Uruguay. Es zeigt historische Lokomotiven und Waggons.",
       hu: "Ez a montevideói múzeum megőrzi Uruguay vasúttörténetét. Történelmi mozdonyokat és vagonokat állít ki.",
@@ -902,7 +902,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-monumento-al-gaucho-landmarks-v2",
     type: "monument",
     name: { de: "Gaucho-Denkmal", hu: "Gaucho Emlékmű", ro: "Monumentul Gaucho", en: "Gaucho Monument" },
-    coordinates: { lat: -34.9059, lng: -56.1857 },
+    coords: [-56.1857, -34.9059],
     description: {
       de: "Die Statue auf der Plaza Independencia erinnert an die historische Bedeutung des Gaucho für die uruguayische Kultur. Sie ist ein Werk des Bildhauers José Luis Zorrilla de San Martín.",
       hu: "A Plaza Independencia-n található szobor a gauchók uruguayi kultúrában betöltött történelmi jelentőségére emlékeztet. José Luis Zorrilla de San Martín szobrászművész alkotása.",
@@ -921,7 +921,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-palacio-mudial-landmarks-v2",
     type: "landmark",
     name: { de: "Palacio Lapido", hu: "Palacio Lapido", ro: "Palacio Lapido", en: "Palacio Lapido" },
-    coordinates: { lat: -34.9051, lng: -56.1906 },
+    coords: [-56.1906, -34.9051],
     description: {
       de: "Dieses architektonische Wahrzeichen in Montevideo wurde in den 1930er Jahren erbaut. Es zeichnet sich durch seinen markanten Art-déco-Stil aus.",
       hu: "Ez a montevideói építészeti jelkép az 1930-as években épült. Jellegzetes art déco stílusáról ismert.",
@@ -940,7 +940,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-catedral-de-san-jose-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von San José de Mayo", hu: "San José de Mayo katedrális", ro: "Catedrala din San José de Mayo", en: "Cathedral of San José de Mayo" },
-    coordinates: { lat: -34.3375, lng: -56.7125 },
+    coords: [-56.7125, -34.3375],
     description: {
       de: "Die Kathedrale im Zentrum von San José ist eines der bedeutendsten religiösen Gebäude der Stadt. Sie besticht durch ihre neoklassizistische Architektur.",
       hu: "A San José központjában álló székesegyház a város egyik legjelentősebb vallási épülete. Neoklasszikus építészetével tűnik ki.",
@@ -959,7 +959,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-faro-de-punta-del-este-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Punta del Este", hu: "Punta del Este Világítótorony", ro: "Farul din Punta del Este", en: "Punta del Este Lighthouse" },
-    coordinates: { lat: -34.9669, lng: -54.9575 },
+    coords: [-54.9575, -34.9669],
     description: {
       de: "Dieser Leuchtturm wurde 1860 erbaut und ist ein Wahrzeichen der Stadt Punta del Este. Er leitet Schiffe in die Mündung des Rio de la Plata.",
       hu: "Ezt a világítótornyot 1860-ban építették, és Punta del Este városának jelképe. Hajókat irányít a Rio de la Plata torkolatába.",
@@ -978,7 +978,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-estadio-luis-franzini-landmarks-v2",
     type: "landmark",
     name: { de: "Estadio Luis Franzini", hu: "Estadio Luis Franzini", ro: "Estadio Luis Franzini", en: "Estadio Luis Franzini" },
-    coordinates: { lat: -34.9205, lng: -56.1607 },
+    coords: [-56.1607, -34.9205],
     description: {
       de: "Das Stadion in Montevideo ist die Heimat des Vereins Defensor Sporting. Es wurde 1963 eingeweiht und bietet Platz für Fußballspiele.",
       hu: "A montevideói stadion a Defensor Sporting klub otthona. 1963-ban avatták fel, és labdarúgó-mérkőzéseknek ad helyet.",
@@ -997,7 +997,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-museo-de-la-memoria-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Erinnerung", hu: "Emlékezés Múzeuma", ro: "Muzeul Memoriei", en: "Museum of Memory" },
-    coordinates: { lat: -34.8458, lng: -56.2422 },
+    coords: [-56.2422, -34.8458],
     description: {
       de: "Das Museum in Montevideo widmet sich der Geschichte des Staates während der Diktatur. Es bewahrt Zeugnisse von Menschenrechtsverletzungen.",
       hu: "A montevideói múzeum az állam diktatúra alatti történetének szentelt. Megőrzi az emberi jogi visszaélések tanúvallomásait.",
@@ -1016,7 +1016,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-palacio-legislativo-detalles-landmarks-v2",
     type: "landmark",
     name: { de: "Palacio Legislativo Details", hu: "Palacio Legislativo Részletek", ro: "Detalii Palacio Legislativo", en: "Palacio Legislativo Details" },
-    coordinates: { lat: -34.8911, lng: -56.1872 },
+    coords: [-56.1872, -34.8911],
     description: {
       de: "Dieser Abschnitt des Gebäudes beherbergt die Bibliothek und historische Archive. Er unterstreicht die architektonische Komplexität des Sitzes der Regierung.",
       hu: "Az épületnek ez a része a könyvtárat és a történelmi archívumokat tartalmazza. Kiemeli a kormány székhelyének építészeti összetettségét.",
@@ -1035,7 +1035,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-catedral-de-florida-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Florida", hu: "Florida Katedrális", ro: "Catedrala din Florida", en: "Cathedral of Florida" },
-    coordinates: { lat: -34.0994, lng: -56.2167 },
+    coords: [-56.2167, -34.0994],
     description: {
       de: "Die Kathedrale im Zentrum von Florida ist ein bedeutendes religiöses Bauwerk. Sie ist für ihre architektonische Gestaltung und historische Bedeutung bekannt.",
       hu: "A Florida központjában álló katedrális jelentős vallási építmény. Építészeti kialakításáról és történelmi jelentőségéről ismert.",
@@ -1054,7 +1054,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-museo-del-carruaje-landmarks-v2",
     type: "museum",
     name: { de: "Kutschenmuseum", hu: "Hintómúzeum", ro: "Muzeul Trăsurilor", en: "Carriage Museum" },
-    coordinates: { lat: -34.8961, lng: -56.1683 },
+    coords: [-56.1683, -34.8961],
     description: {
       de: "Das Museum in Montevideo beherbergt eine Sammlung historischer Kutschen und Fuhrwerke. Es dokumentiert das Transportwesen vergangener Epochen.",
       hu: "A montevideói múzeum történelmi hintók és szállítóeszközök gyűjteményét tartalmazza. Dokumentálja a múlt korok közlekedését.",
@@ -1073,7 +1073,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-puente-de-la-barra-landmarks-v2",
     type: "bridge",
     name: { de: "Puente de la Barra", hu: "Puente de la Barra", ro: "Puente de la Barra", en: "Puente de la Barra" },
-    coordinates: { lat: -34.9319, lng: -54.8625 },
+    coords: [-54.8625, -34.9319],
     description: {
       de: "Diese Brücke bei La Barra ist für ihre wellenförmige Konstruktion bekannt. Sie wurde vom Ingenieur Leonel Viera entworfen.",
       hu: "Ez a La Barra melletti híd a hullámos szerkezetéről ismert. Leonel Viera mérnök tervezte.",
@@ -1092,7 +1092,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     id: "uruguay-museo-blanes-landmarks-v2",
     type: "museum",
     name: { de: "Blanes-Museum", hu: "Blanes Múzeum", ro: "Muzeul Blanes", en: "Blanes Museum" },
-    coordinates: { lat: -34.8686, lng: -56.2089 },
+    coords: [-56.2089, -34.8686],
     description: {
       de: "Dieses Kunstmuseum in Montevideo beherbergt Werke von Juan Manuel Blanes. Es befindet sich in einem historischen Gebäude inmitten eines Parks.",
       hu: "Ez a montevideói művészeti múzeum Juan Manuel Blanes alkotásait őrzi. Egy park közepén található történelmi épületben működik.",

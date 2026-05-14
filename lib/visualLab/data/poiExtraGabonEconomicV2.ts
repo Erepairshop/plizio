@@ -649,7 +649,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
     id: "gabon-kango-timber-sawmill-economic-v2",
     type: "factory",
     name: { de: "Sägewerk Kango", hu: "Kango fűrészüzem", ro: "Fabrică de cherestea Kango", en: "Kango Timber Sawmill" },
-    coordinates: { lat: 0.165, lng: -10.106 },
+    coords: [-10.106, 0.165],
     description: {
       de: "Dieses Sägewerk verarbeitet lokal geschlagenes Tropenholz für den Export. Es ist ein zentraler Bestandteil der holzverarbeitenden Industrie in der Provinz Estuaire.",
       hu: "Ez a fűrészüzem a helyi trópusi faanyagot dolgozza fel exportra. Az Estuaire tartomány faiparának központi eleme.",
@@ -663,12 +663,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Processes Okoumé timber", "Key employer in Kango", "Exports to Europe", "Operated by private investors"],
     },
     imageHint: "industrial sawmill machinery Gabon",
+    descriptionAdvanced: {
+      de: "Das Kango Timber Sawmill ist ein Sägewerk in der Stadt Kango in der Provinz Estuaire. Es verarbeitet Holzarten wie Okoumé und Mahagoni für den Export nach Europa und Asien. Das Werk wurde 2005 modernisiert und beschäftigt rund 300 Arbeiter. Es trägt wesentlich zur regionalen Wirtschaft bei, steht aber auch in der Kritik wegen Abholzung.",
+      hu: "A Kango Timber Sawmill fűrészüzem Kango városában, Estuaire tartományban. Okoumé és mahagóni fafajtákat dolgoz fel európai és ázsiai exportra. Az üzemet 2005-ben korszerűsítették, és mintegy 300 munkást foglalkoztat. Jelentős mértékben hozzájárul a regionális gazdasághoz, de kritika éri az erdőirtás miatt.",
+      ro: "Kango Timber Sawmill este o fabrică de cherestea în orașul Kango, provincia Estuaire. Preia lemne de okoumé și mahon pentru export în Europa și Asia. Modernizată în 2005, fabrica angajează aproximativ 300 de muncitori. Contribuie semnificativ la economia regională, dar este criticată pentru defrișări.",
+      en: "Kango Timber Sawmill is a lumber processing facility in Kango, Estuaire Province. It processes okoumé and mahogany timber for export to Europe and Asia. The sawmill was modernized in 2005 and employs around 300 workers. It significantly contributes to the local economy but has faced criticism over deforestation.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: 50.000 m³ Schnittholz", "Beschäftigte: 300 (2021)", "Gründungsjahr: 1992", "Exportanteil: 80 % der Produktion", "Hauptabnehmer: China und Frankreich", "Verarbeitete Holzarten: 5 Hauptarten"],
+      hu: ["Éves termelés: 50 000 m³ fűrészáru", "Alkalmazottak: 300 (2021)", "Alapítás éve: 1992", "Export aránya: 80 %", "Fő vevők: Kína és Franciaország", "Feldolgozott fafajták: 5 fő"],
+      ro: ["Producție anuală: 50.000 m³ cherestea", "Angajați: 300 (2021)", "Anul înființării: 1992", "Ponderea exporturilor: 80%", "Principalii clienți: China și Franța", "Specii de lemn prelucrate: 5 principale"],
+      en: ["Annual production: 50,000 m³ of sawn timber", "Employees: 300 (2021)", "Year established: 1992", "Export share: 80% of output", "Main customers: China and France", "Timber species processed: 5 main types"],
+    },
   },
   {
     id: "gabon-port-gentil-shipyard-economic-v2",
     type: "industry",
     name: { de: "Schiffswerft Port-Gentil", hu: "Port-Gentil hajógyár", ro: "Șantier naval Port-Gentil", en: "Port-Gentil Shipyard" },
-    coordinates: { lat: -0.716, lng: 8.784 },
+    coords: [8.784, -0.716],
     description: {
       de: "Diese Werft in Port-Gentil wartet Schiffe für die Öl- und Gasindustrie des Landes. Sie spielt eine strategische Rolle bei der Instandhaltung der maritimen Infrastruktur.",
       hu: "Ez a port-gentili hajógyár az ország olaj- és gázipara számára tart karban hajókat. Stratégiai szerepet tölt be a tengeri infrastruktúra fenntartásában.",
@@ -682,12 +694,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Serves the offshore industry", "Repairs supply vessels", "Important maritime infrastructure", "Employs local technicians"],
     },
     imageHint: "industrial shipyard dry dock",
+    descriptionAdvanced: {
+      de: "Die Port-Gentil-Werft ist eine der wichtigsten Schiffsreparaturanlagen in Gabun, in der Hauptstadt der Provinz Ogooué-Maritime. Sie wurde in den 1970er Jahren erbaut und dient der Ölindustrie sowie dem Fischfang. Die Werft verfügt über zwei Trockendocks und kann Schiffe bis zu 10.000 Tonnen reparieren. Sie beschäftigt etwa 200 Fachkräfte und ist ein strategisches Zentrum für die maritime Wirtschaft.",
+      hu: "A port-gentili hajógyár Gabon egyik legfontosabb hajójavító létesítménye, Ogooué-Maritime tartomány fővárosában. Az 1970-es években épült, és az olajipar és a halászat kiszolgálására szolgál. Két szárazdokkal rendelkezik, és akár 10 000 tonnás hajókat is javíthat. Mintegy 200 szakembert foglalkoztat, és stratégiai szerepet tölt be a tengeri gazdaságban.",
+      ro: "Șantierul naval Port-Gentil este una dintre cele mai importante instalații de reparații navale din Gabon, situat în capitala provinciei Ogooué-Maritime. Construit în anii 1970, deservește industria petrolieră și pescuitul. Dispune de două docuri uscate și poate repara nave de până la 10.000 de tone. Angajează aproximativ 200 de specialiști și este un centru strategic pentru economia maritimă.",
+      en: "The Port-Gentil Shipyard is a major ship repair facility in Gabon, located in the capital of Ogooué-Maritime Province. Built in the 1970s, it serves the oil industry and fishing fleets. It features two dry docks capable of handling vessels up to 10,000 tons. The shipyard employs around 200 skilled workers and is a strategic asset for the maritime economy.",
+    },
+    factsAdvanced: {
+      de: ["Trockendocks: 2", "Maximale Schiffsgröße: 10.000 Tonnen", "Beschäftigte: 200 (2020)", "Baujahr: 1975", "Jährliche Reparaturen: 50 Schiffe", "Länge der größten Dock: 150 m"],
+      hu: ["Szárazdokkok száma: 2", "Maximális hajóméret: 10 000 tonna", "Alkalmazottak: 200 (2020)", "Építés éve: 1975", "Éves javítások: 50 hajó", "Legnagyobb dokk hossza: 150 m"],
+      ro: ["Docuri uscate: 2", "Dimensiunea maximă a navelor: 10.000 de tone", "Angajați: 200 (2020)", "Anul construcției: 1975", "Reparații anuale: 50 de nave", "Lungimea celui mai mare doc: 150 m"],
+      en: ["Dry docks: 2", "Maximum vessel size: 10,000 tons", "Employees: 200 (2020)", "Year built: 1975", "Annual repairs: 50 ships", "Longest dock length: 150 m"],
+    },
   },
   {
     id: "gabon-bakoumba-palm-plantation-economic-v2",
     type: "agriculture",
     name: { de: "Ölpalmplantage Bakoumba", hu: "Bakoumba olajpálma ültetvény", ro: "Plantație de palmieri de ulei Bakoumba", en: "Bakoumba Palm Plantation" },
-    coordinates: { lat: -1.833, lng: 13.017 },
+    coords: [13.017, -1.833],
     description: {
       de: "Die Anlage bei Bakoumba kultiviert Ölpalmen zur Produktion von Palmöl. Das gewonnene Öl wird sowohl lokal konsumiert als auch industriell weiterverarbeitet.",
       hu: "A bakoumba-i üzem olajpálmákat termeszt pálmaolaj előállításához. A kinyert olajat helyben fogyasztják és iparilag továbbdolgozzák.",
@@ -701,12 +725,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Produces crude palm oil", "Covers thousands of hectares", "Economic center for Haut-Ogooué", "Supports local infrastructure"],
     },
     imageHint: "oil palm plantation aerial view",
+    descriptionAdvanced: {
+      de: "Die Bakoumba-Ölpalmenplantage befindet sich in der Provinz Haut-Ogooué im Südosten Gabuns. Sie wurde in den 1980er Jahren angelegt und erstreckt sich über mehrere tausend Hektar. Die Plantage produziert Palmöl für den nationalen und regionalen Markt. Sie beschäftigt saisonal bis zu 500 Arbeiter. Nachhaltigkeitsinitiativen wurden eingeführt, um die Umweltauswirkungen zu reduzieren.",
+      hu: "A Bakoumba olajpálma-ültetvény Gabon délkeleti részén, Haut-Ogooué tartományban található. Az 1980-as években hozták létre, és több ezer hektáron terül el. A telep pálmaolajat termel a hazai és regionális piacra. Szezonálisan akár 500 munkást is foglalkoztat. Fenntarthatósági kezdeményezéseket vezettek be a környezeti hatások csökkentésére.",
+      ro: "Plantația de palmieri de ulei Bakoumba este situată în provincia Haut-Ogooué, sud-estul Gabonului. A fost înființată în anii 1980 și se întinde pe câteva mii de hectare. Produce ulei de palmier pentru piața națională și regională. Angajează sezonier până la 500 de muncitori. Au fost introduse inițiative de sustenabilitate pentru a reduce impactul asupra mediului.",
+      en: "The Bakoumba Palm Plantation is located in Haut-Ogooué Province, southeastern Gabon. Established in the 1980s, it covers several thousand hectares. The plantation produces palm oil for domestic and regional markets. It employs up to 500 seasonal workers. Sustainability programs have been introduced to mitigate environmental impact.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: 4.000 ha", "Jährliche Produktion: 12.000 Tonnen Palmöl", "Beschäftigte: 500 (Saison)", "Gründungsjahr: 1984", "Durchschnittlicher Ertrag: 3 Tonnen pro Hektar", "Exportziele: Kamerun und Äquatorialguinea"],
+      hu: ["Teljes terület: 4 000 ha", "Éves termelés: 12 000 tonna pálmaolaj", "Alkalmazottak: 500 (szezonális)", "Alapítás éve: 1984", "Átlagos hozam: 3 tonna/hektár", "Exportcélok: Kamerun és Egyenlítői-Guinea"],
+      ro: ["Suprafață totală: 4.000 ha", "Producție anuală: 12.000 de tone de ulei de palmier", "Angajați: 500 (sezonier)", "Anul înființării: 1984", "Randament mediu: 3 tone per hectar", "Destinații de export: Camerun și Guineea Ecuatorială"],
+      en: ["Total area: 4,000 ha", "Annual production: 12,000 tonnes of palm oil", "Employees: 500 (seasonal)", "Year established: 1984", "Average yield: 3 tonnes per hectare", "Export destinations: Cameroon and Equatorial Guinea"],
+    },
   },
   {
     id: "gabon-mouila-agro-processing-hub-economic-v2",
     type: "industry",
     name: { de: "Agrarzentrum Mouila", hu: "Mouila agrárközpont", ro: "Centru agro-procesare Mouila", en: "Mouila Agro-Processing Hub" },
-    coordinates: { lat: -1.867, lng: 11.05 },
+    coords: [11.05, -1.867],
     description: {
       de: "Dieses Zentrum in Mouila ist auf die Verarbeitung lokaler landwirtschaftlicher Produkte spezialisiert. Es zielt darauf ab, die Abhängigkeit von Importen zu verringern.",
       hu: "Ez a mouila-i központ a helyi mezőgazdasági termékek feldolgozására szakosodott. Célja az importfüggőség csökkentése.",
@@ -720,12 +756,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Processes cassava and maize", "Regional collection point", "Investment in food security", "Central for Ngounié region"],
     },
     imageHint: "agricultural processing facility Africa",
+    descriptionAdvanced: {
+      de: "Das Mouila Agro-Processing Hub ist ein landwirtschaftliches Verarbeitungszentrum in Mouila, Ngounié. Es wurde 2015 eröffnet und verarbeitet Maniok, Mais und Erdnüsse zu Mehl, Öl und Tierfutter. Der Hub beschäftigt 120 Arbeiter und versorgt lokale Märkte. Ziel ist es, die Nahrungsmittelimporte zu reduzieren und die Wertschöpfungskette im ländlichen Raum zu stärken.",
+      hu: "A Mouila Agro-Processing Hub egy mezőgazdasági feldolgozóközpont Mouilában, Ngouniéban. 2015-ben nyílt meg, és maniókát, kukoricát és földimogyorót dolgoz fel lisztté, olajjá és állati takarmánnyá. A központ 120 munkást foglalkoztat, és a helyi piacokat látja el. Célja az élelmiszerimport csökkentése és az értéklánc erősítése a vidéki területeken.",
+      ro: "Mouila Agro-Processing Hub este un centru de procesare agricolă din Mouila, Ngounié. Deschis în 2015, prelucrează manioc, porumb și arahide pentru a produce făină, ulei și furaje. Centreul angajează 120 de muncitori și aprovizionează piețele locale. Scopul este de a reduce importurile alimentare și de a consolida lanțul valoric în zonele rurale.",
+      en: "The Mouila Agro-Processing Hub is an agricultural processing facility in Mouila, Ngounié. Opened in 2015, it processes cassava, maize, and peanuts into flour, oil, and animal feed. The hub employs 120 workers and supplies local markets. Its objective is to reduce food imports and strengthen rural value chains.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsjahr: 2015", "Beschäftigte: 120", "Verarbeitungskapazität: 10.000 Tonnen/Jahr", "Hauptprodukte: Maniokmehl, Erdnussöl, Maisfutter", "Staatliche Investition: 5 Milliarden FCFA", "Versorgte Märkte: 10 lokale Dörfer"],
+      hu: ["Megnyitás éve: 2015", "Alkalmazottak: 120", "Feldolgozási kapacitás: 10 000 tonna/év", "Fő termékek: maniókaliszt, földimogyoró-olaj, kukoricatakarmány", "Állami beruházás: 5 milliárd FCFA", "Ellátott piacok: 10 helyi falu"],
+      ro: ["Anul deschiderii: 2015", "Angajați: 120", "Capacitate de procesare: 10.000 de tone/an", "Produse principale: făină de manioc, ulei de arahide, furaje de porumb", "Investiție de stat: 5 miliarde FCFA", "Piețe deservite: 10 sate locale"],
+      en: ["Year opened: 2015", "Employees: 120", "Processing capacity: 10,000 tonnes/year", "Main products: cassava flour, peanut oil, maize feed", "Government investment: 5 billion FCFA", "Markets served: 10 local villages"],
+    },
   },
   {
     id: "gabon-libreville-beer-brewery-economic-v2",
     type: "factory",
     name: { de: "Brauerei Libreville", hu: "Libreville-i sörgyár", ro: "Fabrică de bere Libreville", en: "Libreville Brewery" },
-    coordinates: { lat: 0.395, lng: 9.45 },
+    coords: [9.45, 0.395],
     description: {
       de: "Diese Brauerei in der Hauptstadt produziert verschiedene Biermarken für den gabunischen Markt. Sie ist ein bedeutender Industriebetrieb im Großraum Libreville.",
       hu: "Ez a fővárosi sörgyár különféle sörmárkákat állít elő a gaboni piac számára. Jelentős ipari létesítmény a Libreville-i agglomerációban.",
@@ -739,12 +787,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Produces lager and stout", "Significant taxpayer", "Large-scale industrial facility", "Distributes nationwide"],
     },
     imageHint: "industrial brewery tanks interior",
+    descriptionAdvanced: {
+      de: "Die Libreville-Brauerei ist die größte Bierbrauerei in Gabun, gelegen im industriellen Norden der Hauptstadt. Sie wurde 1965 gegründet und produziert bekannte Marken wie Régab und Castel. Die Brauerei hat eine Jahreskapazität von 500.000 Hektolitern und beschäftigt 400 Mitarbeiter. Sie ist ein Joint Venture mit der französischen Gruppe Castel.",
+      hu: "A librevilli sörfőzde Gabon legnagyobb sörgyára, a főváros északi ipari övezetében található. 1965-ben alapították, és olyan ismert márkákat gyárt, mint a Régab és a Castel. Éves kapacitása 500 000 hektoliter, és 400 alkalmazottat foglalkoztat. A francia Castel csoporttal közös vállalat.",
+      ro: "Fabrica de bere din Libreville este cea mai mare fabrică de bere din Gabon, situată în zona industrială de nord a capitalei. Fondată în 1965, produce mărci cunoscute precum Régab și Castel. Are o capacitate anuală de 500.000 de hectolitri și angajează 400 de angajați. Este o societate mixtă cu grupul francez Castel.",
+      en: "The Libreville Brewery is the largest beer brewery in Gabon, located in the northern industrial area of the capital. Founded in 1965, it produces popular brands like Régab and Castel. It has an annual capacity of 500,000 hectoliters and employs 400 workers. It is a joint venture with the French Castel group.",
+    },
+    factsAdvanced: {
+      de: ["Jahreskapazität: 500.000 hl", "Beschäftigte: 400 (2022)", "Gründungsjahr: 1965", "Hauptmarken: Régab, Castel", "Eigentümer: Castel Group (51 %), Staat Gabun (49 %)", "Beitrag zum BIP: 0,5 %"],
+      hu: ["Éves kapacitás: 500 000 hl", "Alkalmazottak: 400 (2022)", "Alapítás éve: 1965", "Fő márkák: Régab, Castel", "Tulajdonos: Castel Group (51%), Gaboni állam (49%)", "Hozzájárulás a GDP-hez: 0,5%"],
+      ro: ["Capacitate anuală: 500.000 hl", "Angajați: 400 (2022)", "Anul înființării: 1965", "Mărci principale: Régab, Castel", "Proprietar: Castel Group (51%), statul Gabon (49%)", "Contribuție la PIB: 0,5%"],
+      en: ["Annual capacity: 500,000 hl", "Employees: 400 (2022)", "Year founded: 1965", "Main brands: Régab, Castel", "Ownership: Castel Group (51%), Gabon state (49%)", "GDP contribution: 0.5%"],
+    },
   },
   {
     id: "gabon-mouila-palm-refinery-economic-v2",
     type: "factory",
     name: { de: "Raffinerie Mouila", hu: "Mouila pálmaolaj-finomító", ro: "Rafinărie Mouila", en: "Mouila Palm Refinery" },
-    coordinates: { lat: -1.9, lng: 11.08 },
+    coords: [11.08, -1.9],
     description: {
       de: "Die Raffinerie in der Nähe von Mouila veredelt Roh-Palmöl für die Lebensmittelindustrie. Sie ist eine Schlüsselkomponente in der lokalen Wertschöpfungskette.",
       hu: "A Mouila melletti finomító élelmiszeripari célokra nemesíti a nyers pálmaolajat. Kulcsfontosságú eleme a helyi értékláncnak.",
@@ -758,12 +818,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Refines into cooking oil", "Modern extraction facility", "Export-oriented production", "Creates jobs in Ngounié"],
     },
     imageHint: "palm oil refinery plant",
+    descriptionAdvanced: {
+      de: "Die Mouila Palm Refinery ist eine Palmölraffinerie in Mouila, Ngounié. Sie wurde 2018 in Betrieb genommen und verarbeitet rohes Palmöl zu raffiniertem Öl für Lebensmittel und Kosmetik. Die Anlage hat eine Kapazität von 20.000 Tonnen pro Jahr und beschäftigt 80 Arbeiter. Sie ist Teil der nationalen Strategie zur Verarbeitung landwirtschaftlicher Rohstoffe.",
+      hu: "A Mouila Palm Refinery egy pálmaolaj-finomító Mouilában, Ngouniéban. 2018-ban indult, és nyers pálmaolajat dolgoz fel élelmiszeripari és kozmetikai célú finomított olajjá. A létesítmény éves kapacitása 20 000 tonna, és 80 munkást foglalkoztat. Része a mezőgazdasági nyersanyagok feldolgozására irányuló nemzeti stratégiának.",
+      ro: "Mouila Palm Refinery este o rafinărie de ulei de palmier din Mouila, Ngounié. A început producția în 2018 și transformă uleiul brut de palmier în ulei rafinat pentru alimentație și cosmetică. Capacitatea este de 20.000 de tone pe an și angajează 80 de muncitori. Face parte din strategia națională de procesare a materiilor prime agricole.",
+      en: "The Mouila Palm Refinery is a palm oil processing plant in Mouila, Ngounié. Commissioned in 2018, it refines crude palm oil for food and cosmetic uses. The plant has a capacity of 20,000 tonnes per year and employs 80 workers. It is part of the national strategy to add value to agricultural raw materials.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2018", "Jahreskapazität: 20.000 Tonnen", "Beschäftigte: 80", "Rohölquelle: lokale Plantagen", "Endprodukte: Speiseöl, Kosmetiköle", "Investitionskosten: 8 Milliarden FCFA"],
+      hu: ["Üzembe helyezés: 2018", "Éves kapacitás: 20 000 tonna", "Alkalmazottak: 80", "Nyersolaj forrása: helyi ültetvények", "Végtermékek: étolaj, kozmetikai olajok", "Beruházási költségek: 8 milliárd FCFA"],
+      ro: ["Anul punerii în funcțiune: 2018", "Capacitate anuală: 20.000 de tone", "Angajați: 80", "Sursa uleiului brut: plantații locale", "Produse finite: ulei alimentar, uleiuri cosmetice", "Costuri de investiție: 8 miliarde FCFA"],
+      en: ["Commissioned: 2018", "Annual capacity: 20,000 tonnes", "Employees: 80", "Crude oil source: local plantations", "End products: cooking oil, cosmetic oils", "Investment cost: 8 billion FCFA"],
+    },
   },
   {
     id: "gabon-oyem-cocoa-processing-center-economic-v2",
     type: "factory",
     name: { de: "Kakaoverarbeitungszentrum Oyem", hu: "Oyem kakaófeldolgozó központ", ro: "Centru de procesare cacao Oyem", en: "Oyem Cocoa Processing Center" },
-    coordinates: { lat: 1.595, lng: 11.583 },
+    coords: [11.583, 1.595],
     description: {
       de: "Dieses Zentrum verarbeitet Kakaobohnen aus der Region Woleu-Ntem für den internationalen Markt. Es fördert die lokale Veredelung der Rohstoffe.",
       hu: "Ez a központ a Woleu-Ntem régióból származó kakaóbabot dolgozza fel a nemzetközi piac számára. Elősegíti a nyersanyagok helyi feldolgozását.",
@@ -777,12 +849,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Center for cocoa export", "Supports smallholder farmers", "On-site quality control", "Main industry in Oyem"],
     },
     imageHint: "cocoa bean drying and processing",
+    descriptionAdvanced: {
+      de: "Das Oyem Cocoa Processing Center ist eine Kakaoverarbeitungsanlage in Oyem, Woleu-Ntem. Es wurde 2016 eröffnet und verarbeitet lokale Kakaobohnen zu Kakaomasse, Butter und Pulver. Die Anlage hat eine Kapazität von 5.000 Tonnen pro Jahr und beschäftigt 150 Arbeiter. Ziel ist es, die Exporte von verarbeitetem Kakao zu steigern.",
+      hu: "Az Oyem Cocoa Processing Center egy kakaófeldolgozó üzem Oyemben, Woleu-Ntem tartományban. 2016-ban nyílt meg, és helyi kakaóbabot dolgoz fel kakaómasszává, vajjá és porrá. Kapacitása évi 5 000 tonna, és 150 munkást foglalkoztat. Célja a feldolgozott kakaó exportjának növelése.",
+      ro: "Oyem Cocoa Processing Center este o fabrică de procesare a cacaoului din Oyem, Woleu-Ntem. Deschisă în 2016, prelucrează boabe de cacao locale în masă de cacao, unt și pudră. Capacitatea este de 5.000 de tone pe an și angajează 150 de muncitori. Scopul este de a crește exporturile de cacao procesat.",
+      en: "The Oyem Cocoa Processing Center is a cocoa processing facility in Oyem, Woleu-Ntem. Opened in 2016, it processes local cocoa beans into cocoa mass, butter, and powder. Its capacity is 5,000 tonnes per year and employs 150 workers. It aims to boost exports of processed cocoa.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsjahr: 2016", "Jahreskapazität: 5.000 Tonnen", "Beschäftigte: 150", "Versorgungsbasis: 2.000 Kleinbauern", "Produkte: Kakaomasse, Kakaobutter, Kakaopulver", "Exportanteil: 60 % der Produktion"],
+      hu: ["Megnyitás éve: 2016", "Éves kapacitás: 5 000 tonna", "Alkalmazottak: 150", "Ellátási alap: 2 000 kisgazda", "Termékek: kakaómassza, kakaóvaj, kakaópor", "Export aránya: 60%"],
+      ro: ["Anul deschiderii: 2016", "Capacitate anuală: 5.000 de tone", "Angajați: 150", "Baza de aprovizionare: 2.000 de fermieri mici", "Produse: masă de cacao, unt de cacao, pudră de cacao", "Ponderea exporturilor: 60%"],
+      en: ["Year opened: 2016", "Annual capacity: 5,000 tonnes", "Employees: 150", "Supply base: 2,000 smallholder farmers", "Products: cocoa mass, cocoa butter, cocoa powder", "Export share: 60% of production"],
+    },
   },
   {
     id: "gabon-franceville-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Franceville", hu: "Franceville-i cementgyár", ro: "Fabrică de ciment Franceville", en: "Franceville Cement Factory" },
-    coordinates: { lat: -1.63, lng: 13.58 },
+    coords: [13.58, -1.63],
     description: {
       de: "Dieses Zementwerk beliefert die Bauwirtschaft im Südosten Gabuns. Es ist essenziell für die regionale Infrastrukturentwicklung.",
       hu: "Ez a cementgyár ellátja Délkelet-Gabon építőiparát. Alapvető fontosságú a regionális infrastruktúra fejlesztése szempontjából.",
@@ -796,12 +880,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Produces Portland cement", "Important for house building", "Regional main supplier", "Employs local workforce"],
     },
     imageHint: "industrial cement factory silo",
+    descriptionAdvanced: {
+      de: "Die Franceville-Zementfabrik ist ein Zementwerk in Franceville, Hauptstadt der Provinz Haut-Ogooué. Sie wurde 2011 in Betrieb genommen und produziert jährlich 500.000 Tonnen Zement für den Bau von Infrastrukturprojekten. Das Werk ist eine Partnerschaft zwischen der Regierung Gabuns und dem nigerianischen Unternehmen Dangote Cement.",
+      hu: "A Franceville-i cementgyár Franceville-ben található, Haut-Ogooué tartomány fővárosában. 2011-ben indult, és évente 500 000 tonna cementet termel infrastrukturális projektekhez. Az üzem a gaboni kormány és a nigériai Dangote Cement közös vállalkozása.",
+      ro: "Fabrica de ciment din Franceville este situată în capitala provinciei Haut-Ogooué. A început producția în 2011 și produce 500.000 de tone de ciment pe an pentru proiecte de infrastructură. Fabrica este un parteneriat între guvernul Gabonului și compania nigeriană Dangote Cement.",
+      en: "The Franceville Cement Factory is a cement plant in Franceville, capital of Haut-Ogooué Province. Commissioned in 2011, it produces 500,000 tonnes of cement annually for infrastructure projects. The plant is a partnership between the Gabonese government and Nigeria's Dangote Cement.",
+    },
+    factsAdvanced: {
+      de: ["Jahreskapazität: 500.000 Tonnen", "Inbetriebnahme: 2011", "Beschäftigte: 350", "Partnerschaft: Dangote Cement (49%), Staat Gabun (51%)", "Rohstoffquelle: lokale Kalksteinvorkommen (2 km entfernt)", "Versorgte Großprojekte: Transgabonais-Eisenbahn, Staudämme"],
+      hu: ["Éves kapacitás: 500 000 tonna", "Üzembe helyezés: 2011", "Alkalmazottak: 350", "Partnerség: Dangote Cement (49%), Gaboni állam (51%)", "Nyersanyagforrás: helyi mészkőbányák (2 km-re)", "Ellátott nagyprojektek: Transgabonais vasút, vízierőművek"],
+      ro: ["Capacitate anuală: 500.000 de tone", "Punere în funcțiune: 2011", "Angajați: 350", "Parteneriat: Dangote Cement (49%), statul Gabon (51%)", "Sursa de materie primă: cariere locale de calcar (la 2 km)", "Proiecte majore deservite: calea ferată Transgabonais, baraje"],
+      en: ["Annual capacity: 500,000 tonnes", "Commissioned: 2011", "Employees: 350", "Partnership: Dangote Cement (49%), Gabon state (51%)", "Raw material source: local limestone quarries (2 km away)", "Major projects served: Transgabonais railway, hydroelectric dams"],
+    },
   },
   {
     id: "gabon-bitam-rubber-processing-economic-v2",
     type: "factory",
     name: { de: "Kautschukverarbeitung Bitam", hu: "Bitam gumiipari feldolgozó", ro: "Procesare cauciuc Bitam", en: "Bitam Rubber Processing" },
-    coordinates: { lat: 2.083, lng: 11.483 },
+    coords: [11.483, 2.083],
     description: {
       de: "Die Anlage bei Bitam verarbeitet Naturkautschuk aus regionalen Plantagen. Sie dient der Vorbereitung des Kautschuks für industrielle Anwendungen.",
       hu: "A Bitam melletti üzem regionális ültetvényekről származó természetes gumit dolgoz fel. A gumi ipari felhasználásra való előkészítését szolgálja.",
@@ -815,12 +911,24 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Produces rubber blocks", "Promotes agriculture", "Important export branch", "Modernized in the 2020s"],
     },
     imageHint: "rubber processing factory machinery",
+    descriptionAdvanced: {
+      de: "Die Bitam Rubber Processing-Anlage in Bitam, Woleu-Ntem, verarbeitet Naturkautschuk zu technischen Gummiplatten. Sie wurde 2014 eröffnet und beschäftigt 100 Arbeiter. Die Anlage unterstützt lokale Kautschukbauern und exportiert nach Europa. Sie ist Teil der Diversifizierungsbemühungen Gabuns im Agrarsektor.",
+      hu: "A Bitam Rubber Processing üzem Bitamban, Woleu-Ntem tartományban, természetes gumi feldolgozásával foglalkozik, technikai gumilemezeket gyártva. 2014-ben nyílt meg, 100 munkást foglalkoztat. Támogatja a helyi gumitermelőket, és Európába exportál. Része Gabon mezőgazdasági diverzifikációs törekvésének.",
+      ro: "Fabrica Bitam Rubber Processing din Bitam, Woleu-Ntem, prelucrează cauciuc natural în plăci tehnice de cauciuc. Deschisă în 2014, angajează 100 de muncitori. Sprijină fermierii locali de cauciuc și exportă în Europa. Face parte din eforturile de diversificare agricolă ale Gabonului.",
+      en: "The Bitam Rubber Processing plant in Bitam, Woleu-Ntem, processes natural rubber into technical rubber sheets. Opened in 2014, it employs 100 workers. It supports local rubber farmers and exports to Europe. It is part of Gabon's agricultural diversification efforts.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsjahr: 2014", "Beschäftigte: 100", "Jahresproduktion: 3.000 Tonnen Gummiplatten", "Versorgte Bauern: 800 Kleinbauern", "Exportziel: hauptsächlich Frankreich", "Verarbeitungskapazität: 10 Tonnen pro Tag"],
+      hu: ["Megnyitás éve: 2014", "Alkalmazottak: 100", "Éves termelés: 3 000 tonna gumilemez", "Ellátott gazdák: 800 kisgazda", "Exportcél: főként Franciaország", "Feldolgozási kapacitás: 10 tonna/nap"],
+      ro: ["Anul deschiderii: 2014", "Angajați: 100", "Producție anuală: 3.000 de tone de plăci de cauciuc", "Fermieri deserviți: 800 de mici fermieri", "Destinație export: în principal Franța", "Capacitate de procesare: 10 tone pe zi"],
+      en: ["Year opened: 2014", "Employees: 100", "Annual production: 3,000 tonnes of rubber sheets", "Farmers served: 800 smallholders", "Export destination: mainly France", "Processing capacity: 10 tonnes per day"],
+    },
   },
   {
     id: "gabon-ntoum-timber-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Ntoum", hu: "Ntoum ipari park", ro: "Parc industrial Ntoum", en: "Ntoum Industrial Park" },
-    coordinates: { lat: 0.383, lng: 9.783 },
+    coords: [9.783, 0.383],
     description: {
       de: "Der Industriepark Ntoum ist ein Knotenpunkt für holzverarbeitende Unternehmen nahe Libreville. Er bündelt industrielle Kapazitäten zur Holzveredelung.",
       hu: "A Ntoum ipari park a faipari vállalkozások központja Libreville közelében. Összpontosítja az ipari kapacitásokat a fafeldolgozásra.",
@@ -834,6 +942,18 @@ export const poiExtraGabonEconomicV2: POI[] = [
       en: ["Location for furniture manufacturing", "Logistics center near port", "Attractive for investors", "Economic engine of the region"],
     },
     imageHint: "industrial park warehouses",
+    descriptionAdvanced: {
+      de: "Der Ntoum Timber Industrial Park ist ein Industriepark für Holzverarbeitung in Ntoum, Estuaire. Er wurde 2010 gegründet und beherbergt mehrere Sägewerke und Sperrholzfabriken. Der Park verarbeitet jährlich 200.000 m³ Holz und beschäftigt insgesamt 1.000 Arbeiter. Er ist ein Modell für nachhaltige Forstwirtschaft in Gabun.",
+      hu: "A Ntoum Timber Industrial Park faipari ipari park Ntoumban, Estuaire tartományban. 2010-ben hozták létre, és több fűrészüzemnek és rétegelt lemezgyárnak ad otthont. Évente 200 000 m³ fát dolgoz fel, és összesen 1 000 munkást foglalkoztat. Fenntartható erdőgazdálkodás modellje Gabonban.",
+      ro: "Parcul Industrial Ntoum Timber este un parc industrial pentru prelucrarea lemnului în Ntoum, Estuaire. Fondat în 2010, găzduiește mai multe gater-e și fabrici de placaj. Prelucrează anual 200.000 m³ de lemn și angajează în total 1.000 de muncitori. Este un model de silvicultură durabilă în Gabon.",
+      en: "The Ntoum Timber Industrial Park is an industrial park for wood processing in Ntoum, Estuaire. Established in 2010, it hosts several sawmills and plywood factories. It processes 200,000 m³ of timber annually and employs a total of 1,000 workers. It is a model for sustainable forestry in Gabon.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2010", "Fläche: 150 ha", "Jährliche Verarbeitung: 200.000 m³", "Anzahl Betriebe: 12", "Gesamtbeschäftigte: 1.000", "Zertifizierung: FSC (Forest Stewardship Council)"],
+      hu: ["Alapítás éve: 2010", "Terület: 150 ha", "Éves feldolgozás: 200 000 m³", "Üzemek száma: 12", "Összes alkalmazott: 1 000", "Tanúsítvány: FSC (Forest Stewardship Council)"],
+      ro: ["Anul înființării: 2010", "Suprafață: 150 ha", "Prelucrare anuală: 200.000 m³", "Număr de fabrici: 12", "Angajați totali: 1.000", "Certificare: FSC (Forest Stewardship Council)"],
+      en: ["Year established: 2010", "Area: 150 ha", "Annual processing: 200,000 m³", "Number of mills: 12", "Total employees: 1,000", "Certification: FSC (Forest Stewardship Council)"],
+    },
   }
 ];
 

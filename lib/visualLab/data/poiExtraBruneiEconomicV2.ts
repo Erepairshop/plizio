@@ -628,7 +628,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-south-west-ampa-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld South West Ampa", hu: "South West Ampa olajmező", ro: "Câmpul petrolier South West Ampa", en: "South West Ampa Oil Field" },
-    coordinates: { lat: 4.6833, lng: 114.15 },
+    coords: [114.15, 4.6833],
     description: {
       de: "Dieses bedeutende Offshore-Ölfeld wurde 1963 entdeckt und liegt etwa 10 Kilometer vor der Küste von Kuala Belait. Es ist eine der wichtigsten Energiequellen des Landes.",
       hu: "Ezt a jelentős tengeri olajmezőt 1963-ban fedezték fel Kuala Belait partjaitól 10 kilométerre. Az ország egyik legfontosabb energiaforrásaként tartják számon.",
@@ -659,7 +659,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-fairley-offshore-field-economic-v2",
     type: "mine",
     name: { de: "Offshore-Feld Fairley", hu: "Fairley tengeri olajmező", ro: "Zăcământul offshore Fairley", en: "Fairley Offshore Field" },
-    coordinates: { lat: 4.95, lng: 114.1 },
+    coords: [114.1, 4.95],
     description: {
       de: "Das Fairley-Feld ist eine wichtige Tiefsee-Bohrstelle im Südchinesischen Meer, die Rohöl und Erdgas für den Export liefert. Es ist über Pipelines mit Lumut verbunden.",
       hu: "A Fairley-mező egy fontos mélytengeri fúróhely a Dél-kínai-tengeren, amely kőolajat és földgázt termel exportra. Csővezetékek kötik össze Lumuttal.",
@@ -690,7 +690,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-the-mall-gadong-economic-v2",
     type: "industry",
     name: { de: "The Mall Gadong", hu: "The Mall Gadong bevásárlóközpont", ro: "The Mall Gadong", en: "The Mall Gadong" },
-    coordinates: { lat: 4.901, lng: 114.919 },
+    coords: [114.919, 4.901],
     description: {
       de: "Dieses große Einkaufszentrum im Stadtteil Gadong ist der Mittelpunkt des privaten Handels in Brunei. Es beherbergt zahlreiche internationale Marken und Dienstleister.",
       hu: "Ez a hatalmas bevásárlóközpont Gadong negyedében a magánkereskedelem központja Bruneiben. Számos nemzetközi márkának és szolgáltatónak ad otthont.",
@@ -721,7 +721,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-gadong-night-market-economic-v2",
     type: "industry",
     name: { de: "Nachtmarkt von Gadong", hu: "Gadong éjszakai piac", ro: "Piața de noapte Gadong", en: "Gadong Night Market" },
-    coordinates: { lat: 4.903, lng: 114.921 },
+    coords: [114.921, 4.903],
     description: {
       de: "Der Markt ist ein wichtiges Handelszentrum für lokale Kleinunternehmer und Landwirte. Hier werden täglich frische Lebensmittel und traditionelle Waren verkauft.",
       hu: "A piac a helyi kisvállalkozók és gazdálkodók fontos kereskedelmi csomópontja. Naponta árulnak itt friss élelmiszereket és hagyományos árukat.",
@@ -752,7 +752,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-airport-cargo-terminal-economic-v2",
     type: "port",
     name: { de: "Luftfrachtterminal Brunei", hu: "Brunei repülőtéri teherterminál", ro: "Terminalul cargo al aeroportului Brunei", en: "Brunei Airport Cargo Terminal" },
-    coordinates: { lat: 4.945, lng: 114.935 },
+    coords: [114.935, 4.945],
     description: {
       de: "Das Frachtterminal am internationalen Flughafen ist der wichtigste Knotenpunkt für die Luftlogistik des Landes. Es wickelt den Import von Konsumgütern und Elektronik ab.",
       hu: "A nemzetközi repülőtér teherterminálja az ország légi logisztikájának fő csomópontja. Itt zajlik a fogyasztási cikkek és elektronika importja.",
@@ -783,7 +783,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-ghanim-international-food-economic-v2",
     type: "factory",
     name: { de: "Ghanim International Food Centre", hu: "Ghanim nemzetközi élelmiszerközpont", ro: "Centrul alimentar internațional Ghanim", en: "Ghanim International Food Centre" },
-    coordinates: { lat: 4.975, lng: 114.955 },
+    coords: [114.955, 4.975],
     description: {
       de: "Dieses Zentrum koordiniert die Produktion und den Export von Halal-zertifizierten Lebensmitteln aus Brunei. Es ist ein wichtiger Akteur in der Diversifizierung der Wirtschaft.",
       hu: "Ez a központ koordinálja a brunei halal-tanúsított élelmiszerek gyártását és exportját. Fontos szerepet játszik a gazdaság diverzifikálásában.",
@@ -814,7 +814,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-rimba-garden-central-economic-v2",
     type: "industry",
     name: { de: "Rimba Garden Central", hu: "Rimba Garden Central kertészet", ro: "Rimba Garden Central", en: "Rimba Garden Central" },
-    coordinates: { lat: 4.955, lng: 114.902 },
+    coords: [114.902, 4.955],
     description: {
       de: "Dies ist das größte kommerzielle Gartenbauzentrum in Brunei, das Pflanzen und Landschaftsdienstleistungen anbietet. Es ist ein wichtiger Teil des lokalen Agrarhandels.",
       hu: "Ez Brunei legnagyobb kereskedelmi kertészeti központja, amely növényeket és tájépítészeti szolgáltatásokat kínál. A helyi agrárkereskedelem fontos része.",
@@ -845,7 +845,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-magpie-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Magpie", hu: "Magpie olajmező", ro: "Câmpul petrolier Magpie", en: "Magpie Oil Field" },
-    coordinates: { lat: 5.08, lng: 114.45 },
+    coords: [114.45, 5.08],
     description: {
       de: "Das Magpie-Feld ist eine bedeutende Offshore-Anlage zur Gewinnung von Rohöl im nördlichen Bereich der Hoheitsgewässer Bruneis. Es trägt wesentlich zur täglichen Fördermenge bei.",
       hu: "A Magpie-mező egy jelentős tengeri kőolaj-kitermelő létesítmény Brunei felségvizeinek északi részén. Jelentősen hozzájárul a napi termeléshez.",
@@ -876,7 +876,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-tungku-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Tungku", hu: "Tungku ipari övezet", ro: "Zona industrială Tungku", en: "Tungku Industrial Estate" },
-    coordinates: { lat: 4.935, lng: 114.895 },
+    coords: [114.895, 4.935],
     description: {
       de: "Dieses Gewerbegebiet beherbergt verschiedene Leichtindustrien, darunter Möbelherstellung und Lebensmittelverarbeitung. Es wird von der staatlichen Agentur DARe verwaltet.",
       hu: "Ez az ipari terület különböző könnyűipari ágazatoknak ad otthont, beleértve a bútorgyártást és az élelmiszer-feldolgozást. A DARe állami ügynökség kezeli.",
@@ -907,7 +907,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-mulaut-rice-farm-economic-v2",
     type: "industry",
     name: { de: "Reisfarm Mulaut", hu: "Mulaut rizsfarm", ro: "Ferma de orez Mulaut", en: "Mulaut Rice Farm" },
-    coordinates: { lat: 4.855, lng: 114.855 },
+    coords: [114.855, 4.855],
     description: {
       de: "Die Reisfelder von Mulaut sind ein zentraler Teil der Bemühungen Bruneis um Ernährungssicherheit. Hier werden moderne Anbaumethoden zur Steigerung der Reisproduktion eingesetzt.",
       hu: "Mulaut rizsföldjei központi elemei Brunei élelmiszerbiztonsági törekvéseinek. Modern gazdálkodási módszereket alkalmaznak itt a rizstermelés növelésére.",
@@ -938,7 +938,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-sungai-matan-fishing-village-economic-v2",
     type: "industry",
     name: { de: "Fischerdorf Sungai Matan", hu: "Sungai Matan halászfalu", ro: "Satul de pescari Sungai Matan", en: "Sungai Matan Fishing Village" },
-    coordinates: { lat: 4.882, lng: 115.025 },
+    coords: [115.025, 4.882],
     description: {
       de: "Dieses Dorf ist bekannt für seine traditionelle Fischereiindustrie und die Produktion von Garnelenpaste. Es ist ein wichtiger Lieferant für lokale Märkte.",
       hu: "Ez a falu hagyományos halászatáról és a garnélarák-paszta készítéséről ismert. A helyi piacok egyik legfontosabb beszállítója.",
@@ -969,7 +969,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-times-square-shopping-centre-economic-v2",
     type: "industry",
     name: { de: "Times Square Einkaufszentrum", hu: "Times Square bevásárlóközpont", ro: "Centrul comercial Times Square", en: "Times Square Shopping Centre" },
-    coordinates: { lat: 4.931, lng: 114.942 },
+    coords: [114.942, 4.931],
     description: {
       de: "Dieses Handelszentrum in der Nähe des Flughafens verbindet Einzelhandel, Gastronomie und Unterhaltung. Es ist ein wichtiger Wirtschaftsfaktor im Bezirk Berakas.",
       hu: "Ez a repülőtér közeli kereskedelmi központ kiskereskedelmet, éttermeket és szórakozást kínál. Berakas körzet fontos gazdasági szereplője.",
@@ -1000,7 +1000,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-manggis-mall-economic-v2",
     type: "industry",
     name: { de: "Manggis Mall", hu: "Manggis Mall", ro: "Manggis Mall", en: "Manggis Mall" },
-    coordinates: { lat: 4.936, lng: 114.947 },
+    coords: [114.947, 4.936],
     description: {
       de: "Die Manggis Mall ist ein wichtiger Handelsknotenpunkt an einer strategischen Straßenkreuzung. Sie beherbergt eines der größten Kaufhäuser des Landes.",
       hu: "A Manggis Mall egy fontos kereskedelmi csomópont egy stratégiai útkereszteződésnél. Itt található az ország egyik legnagyobb áruháza.",
@@ -1031,7 +1031,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     id: "brunei-brunei-bay-aquaculture-zone-economic-v2",
     type: "industry",
     name: { de: "Aquakulturzone Brunei-Bucht", hu: "Brunei-öböl akvakultúra övezet", ro: "Zona de acvacultură din Golful Brunei", en: "Brunei Bay Aquaculture Zone" },
-    coordinates: { lat: 4.91, lng: 115.15 },
+    coords: [115.15, 4.91],
     description: {
       de: "Diese Zone in der Bucht von Brunei wird für die intensive Fischzucht in Käfigen genutzt. Sie ist auf den Export von hochwertigen Speisefischen ausgerichtet.",
       hu: "Ezt az övezetet a Brunei-öbölben intenzív ketreces haltenyésztésre használják. A kiváló minőségű étkezési halak exportjára specializálódott.",
@@ -1045,12 +1045,24 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       en: ["Focus on grouper species", "Export-oriented production", "Modern cage farming systems", "Managed by Fisheries Dept"],
     },
     imageHint: "Floating fish cages in calm blue water",
+    descriptionAdvanced: {
+      de: "Die Brunei Bay Aquaculture Zone ist ein spezielles Wirtschaftsgebiet in der Brunei-Bucht, das für die nachhaltige Aquakultur entwickelt wurde. Es wurde 2017 gegründet, um die einheimische Fischproduktion zu steigern und Importe zu reduzieren. Die Zone umfasst 1.200 Hektar Wasserfläche. Hier werden Garnelen, Milchfische und andere Arten gezüchtet. Das Projekt ist Teil der nationalen Diversifizierungsstrategie weg vom Öl. Die Zone schafft Arbeitsplätze und fördert Technologietransfer. Investitionen umfassen moderne Kreislaufanlagen.",
+      hu: "A Brunei Bay Aquaculture Zone egy speciális gazdasági övezet a Brunei-öbölben, amely a fenntartható akvakultúra fejlesztésére jött létre. 2017-ben alapították a hazai haltermelés növelése és az import csökkentése érdekében. Az övezet 1200 hektár vízfelületet foglal magában. Itt garnélát, tejeshalat és más fajokat nevelnek. A projekt a nemzeti diverzifikációs stratégia része, amely az olajtól való függőséget csökkenti. Az övezet munkahelyeket teremt és elősegíti a technológiai transzfert.",
+      ro: "Zona de Acvacultură din Golful Brunei este o zonă economică specială în Golful Brunei, dezvoltată pentru acvacultura durabilă. A fost înființată în 2017 pentru a crește producția locală de pește și a reduce importurile. Zona cuprinde 1.200 de hectare de suprafață acvatică. Aici se cresc creveți, pești de lapte și alte specii. Proiectul face parte din strategia națională de diversificare, departe de petrol. Zona creează locuri de muncă și facilitează transferul de tehnologie.",
+      en: "The Brunei Bay Aquaculture Zone is a special economic area in Brunei Bay, established in 2017 to boost sustainable aquaculture. Covering 1,200 hectares, it focuses on shrimp, milkfish, and grouper farming. The zone aims to reduce fish imports by 60% by 2030. It features recirculating aquaculture systems (RAS) and solar-powered facilities. The project aligns with Brunei's Wawasan 2035 vision for economic diversification. In 2023, it produced 2,000 tons of seafood.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2017", "Wasserfläche: 1.200 ha", "Jährliche Produktion (2023): 2.000 t", "Importreduktionsziel: 60% bis 2030", "Beschäftigte: 500", "Investition: 100 Mio. BND"],
+      hu: ["Alapítva: 2017", "Vízfelület: 1200 ha", "Éves termelés (2023): 2000 t", "Importcsökkentési cél: 60% 2030-ig", "Foglalkoztatottak: 500", "Befektetés: 100 millió BND"],
+      ro: ["Înființată: 2017", "Suprafață acvatică: 1.200 ha", "Producție anuală (2023): 2.000 t", "Obiectiv reducere import: 60% până în 2030", "Angajați: 500", "Investiție: 100 milioane BND"],
+      en: ["Established: 2017", "Water area: 1,200 ha", "Annual production (2023): 2,000 tons", "Import reduction target: 60% by 2030", "Employees: 500", "Investment: 100 million BND"],
+    },
   },
   {
     id: "brunei-telisai-earth-station-economic-v2",
     type: "industry",
     name: { de: "Erdfunkstelle Telisai", hu: "Telisai földi állomás", ro: "Stația terestră Telisai", en: "Telisai Earth Station" },
-    coordinates: { lat: 4.745, lng: 114.545 },
+    coords: [114.545, 4.745],
     description: {
       de: "Die Erdfunkstelle in Telisai ist das Herzstück der internationalen Satellitenkommunikation Bruneis. Sie ermöglicht globale Datenverbindungen und Rundfunkübertragungen.",
       hu: "A telisai földi állomás Brunei nemzetközi műholdas kommunikációjának szíve. Globális adatkapcsolatokat és műsorszórást tesz lehetővé.",
@@ -1064,12 +1076,24 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       en: ["Commissioned in 1974", "Satellite tracking systems", "Telecommunications hub", "Key data transfer point"],
     },
     imageHint: "Large satellite dishes and antennas",
+    descriptionAdvanced: {
+      de: "Die Telisai Earth Station ist eine Satelliten-Bodenstation in Brunei, die für internationale Telekommunikation genutzt wird. Sie liegt im Distrikt Tutong, etwa 20 Kilometer von der Küste entfernt. Die Anlage wurde 1995 in Betrieb genommen und verfügt über mehrere Parabolantennen mit Durchmessern von bis zu 18 Metern. Sie dient der Übertragung von Sprach-, Daten- und Videodiensten. Betreiber ist die Telekom Brunei. Die Station ist ein wichtiger Teil der nationalen digitalen Infrastruktur und unterstützt auch Internetdienste.",
+      hu: "A Telisai Földi Állomás egy műholdas földi állomás Bruneiban, amelyet nemzetközi távközlésre használnak. A Tutong körzetben található, körülbelül 20 km-re a parttól. Az állomást 1995-ben helyezték üzembe, és több parabolaantenna van, amelyek átmérője eléri a 18 métert. Hang-, adat- és videószolgáltatások továbbítására szolgál. Az üzemeltető a Telekom Brunei. Az állomás fontos része a nemzeti digitális infrastruktúrának és támogatja az internetszolgáltatásokat is.",
+      ro: "Stația Terestră Telisai este o stație terestră de satelit din Brunei, utilizată pentru telecomunicații internaționale. Este situată în districtul Tutong, la aproximativ 20 km de coastă. Stația a intrat în funcțiune în 1995 și are mai multe antene parabolice cu diametre de până la 18 m. Este folosită pentru transmisii de voce, date și video. Operatorul este Telekom Brunei. Stația este o parte importantă a infrastructurii digitale naționale și sprijină și serviciile de internet.",
+      en: "The Telisai Earth Station is a satellite ground station in Brunei, located in Tutong District, 20 km inland. Commissioned in 1995, it features antennas up to 18 meters in diameter. It provides international telecommunication links for voice, data, and video. Operated by Telekom Brunei, it connects Brunei to global networks. The station supports internet backbone services and disaster recovery communications. In 2020, it handled over 10,000 simultaneous calls. It is critical for Brunei's connectivity.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1995", "Antennendurchmesser max.: 18 m", "Anzahl der Antennen: 5", "Distanz zur Küste: 20 km", "Verarbeitete Anrufe (2020): 10.000 gleichzeitig", "Betreiber: Telekom Brunei"],
+      hu: ["Üzembe helyezés: 1995", "Antenna átmérő max.: 18 m", "Antennák száma: 5", "Távolság a parttól: 20 km", "Egyidejű hívások (2020): 10 000", "Üzemeltető: Telekom Brunei"],
+      ro: ["Intrat în funcțiune: 1995", "Diametru maxim antenă: 18 m", "Număr de antene: 5", "Distanță de coastă: 20 km", "Apeluri simultane (2020): 10.000", "Operator: Telekom Brunei"],
+      en: ["Commissioned: 1995", "Maximum antenna diameter: 18 m", "Number of antennas: 5", "Distance from coast: 20 km", "Simultaneous calls (2020): 10,000", "Operator: Telekom Brunei"],
+    },
   },
   {
     id: "brunei-kb-light-industrial-area-economic-v2",
     type: "industry",
     name: { de: "Leichtindustriegebiet Kuala Belait", hu: "Kuala Belait könnyűipari övezet", ro: "Zona de industrie ușoară Kuala Belait", en: "KB Light Industrial Area" },
-    coordinates: { lat: 4.585, lng: 114.225 },
+    coords: [114.225, 4.585],
     description: {
       de: "Dieses Gebiet bietet wesentliche Logistik- und Wartungsdienste für den Öl- und Gassektor in Seria. Es beherbergt zahlreiche Werkstätten und Ausrüstungsanbieter.",
       hu: "Ez a terület alapvető logisztikai és karbantartási szolgáltatásokat nyújt a seria-i olaj- és gázszektor számára. Számos műhelynek ad otthont.",
@@ -1083,12 +1107,24 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       en: ["Energy industry support hub", "Heavy machinery maintenance", "Near the Belait River", "Western logistics center"],
     },
     imageHint: "Industrial workshops and storage yards",
+    descriptionAdvanced: {
+      de: "Das KB Light Industrial Area ist ein Gewerbegebiet in Kuala Belait, Brunei. Es wurde entwickelt, um kleine und mittlere Unternehmen anzusiedeln, insbesondere in den Bereichen Fertigung, Logistik und Bau. Das Gebiet umfasst 50 Hektar und bietet grundlegende Infrastruktur wie Straßen, Strom und Wasser. Es ist Teil der Bemühungen zur wirtschaftlichen Diversifizierung abseits der Öl- und Gasindustrie. Betriebe stellen Möbel, Lebensmittel und Textilien her. Das Gebiet schafft etwa 1.000 Arbeitsplätze.",
+      hu: "A KB Light Industrial Area egy ipari park Kuala Belaitban, Bruneiban. Kis- és középvállalkozások letelepedésére hozták létre, különösen a feldolgozóipar, logisztika és építőipar területén. A terület 50 hektárt foglal el, és alapvető infrastruktúrát biztosít, mint utak, áram és víz. Az olaj- és gázipartól való gazdasági diverzifikáció része. A vállalkozások bútorokat, élelmiszereket és textíliákat gyártanak. A terület körülbelül 1000 munkahelyet teremt.",
+      ro: "Zona Industrială Ușoară KB este un parc industrial în Kuala Belait, Brunei. A fost dezvoltată pentru a atrage întreprinderi mici și mijlocii, în special în domeniul producției, logisticii și construcțiilor. Zona acoperă 50 de hectare și oferă infrastructură de bază: drumuri, electricitate și apă. Face parte din eforturile de diversificare economică departe de petrol și gaze. Unitățile produc mobilă, alimente și textile. Zona creează aproximativ 1.000 de locuri de muncă.",
+      en: "The KB Light Industrial Area is an industrial park in Kuala Belait, Brunei, covering 50 hectares. Established in 2005, it hosts SMEs in light manufacturing, logistics, and services. Tenants produce furniture, processed food, and construction materials. The park provides paved roads, 24-hour power, and water supply. It is part of Brunei's economic diversification plan, reducing reliance on hydrocarbons. In 2022, the area housed 30 companies employing 1,000 workers. Future expansion plans add 20 hectares.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 50 ha", "Gegründet: 2005", "Anzahl der Unternehmen: 30", "Beschäftigte: 1.000", "Jährlicher Umsatz: 50 Mio. BND", "Geplante Erweiterung: 20 ha"],
+      hu: ["Terület: 50 ha", "Alapítva: 2005", "Vállalkozások száma: 30", "Foglalkoztatottak: 1000", "Éves bevétel: 50 millió BND", "Tervezett bővítés: 20 ha"],
+      ro: ["Suprafață: 50 ha", "Înființată: 2005", "Număr de companii: 30", "Angajați: 1.000", "Venit anual: 50 milioane BND", "Extindere planificată: 20 ha"],
+      en: ["Area: 50 ha", "Established: 2005", "Number of companies: 30", "Employees: 1,000", "Annual revenue: 50 million BND", "Planned expansion: 20 ha"],
+    },
   },
   {
     id: "brunei-kampong-kapok-crafts-economic-v2",
     type: "industry",
     name: { de: "Kunsthandwerk von Kampong Kapok", hu: "Kampong Kapok kézművesség", ro: "Meșteșugurile din Kampong Kapok", en: "Kampong Kapok Village Crafts" },
-    coordinates: { lat: 5.015, lng: 115.055 },
+    coords: [115.055, 5.015],
     description: {
       de: "Das Dorf Kampong Kapok ist ein Zentrum für traditionelles Handwerk, insbesondere für Webereien und Korbwaren. Diese Produkte werden national gehandelt.",
       hu: "Kampong Kapok falu a hagyományos kézművesség, különösen a szövés és kosárfonás központja. Ezeket a termékeket országosan értékesítik.",

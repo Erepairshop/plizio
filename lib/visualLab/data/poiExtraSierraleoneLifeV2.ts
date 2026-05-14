@@ -726,7 +726,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-kilimi-reserve-life-v2",
     type: "wildlife",
     name: { de: "Kilimi Wildtierreservat", hu: "Kilimi vadvédelmi terület", ro: "Rezervația de animale sălbatice Kilimi", en: "Kilimi Wildlife Reserve" },
-    coordinates: { lat: 9.6833, lng: -12.1167 },
+    coords: [-12.1167, 9.6833],
     description: {
       de: "Das Reservat im Norden Sierra Leones ist ein wichtiger Lebensraum für Schimpansen. Es umfasst eine Mischung aus Savannen und Waldgebieten.",
       hu: "Az észak-sierra leonei rezervátum fontos élőhely a csimpánzok számára. Szavannák és erdős területek keveréke jellemzi.",
@@ -745,7 +745,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-masanki-plantation-life-v2",
     type: "park",
     name: { de: "Masanki Ölpalmplantage", hu: "Masanki olajpálma-ültetvény", ro: "Plantația de palmieri de ulei Masanki", en: "Masanki Oil Palm Plantation" },
-    coordinates: { lat: 8.3667, lng: -12.2833 },
+    coords: [-12.2833, 8.3667],
     description: {
       de: "Diese Plantage spielt eine zentrale Rolle in der landwirtschaftlichen Entwicklung der Region. Sie konzentriert sich auf nachhaltigen Anbau.",
       hu: "Ez az ültetvény központi szerepet játszik a régió mezőgazdasági fejlődésében. A fenntartható termesztésre összpontosít.",
@@ -764,7 +764,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-wadai-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Wadai-Feuchtgebiete", hu: "Wadai-vizes élőhelyek", ro: "Zonele umede Wadai", en: "Wadai Wetlands" },
-    coordinates: { lat: 7.4167, lng: -11.95 },
+    coords: [-11.95, 7.4167],
     description: {
       de: "Die Wadai-Feuchtgebiete bieten einen Lebensraum für zahlreiche Vogelarten. Sie sind für die lokale Ökologie von großer Bedeutung.",
       hu: "A Wadai-vizes élőhelyek számos madárfajnak biztosítanak otthont. Nagy jelentőséggel bírnak a helyi ökológia számára.",
@@ -783,7 +783,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-koinadugu-botanical-life-v2",
     type: "park",
     name: { de: "Koinadugu Botanischer Garten", hu: "Koinadugu Botanikus Kert", ro: "Grădina Botanică Koinadugu", en: "Koinadugu Botanical Garden" },
-    coordinates: { lat: 9.3167, lng: -11.5667 },
+    coords: [-11.5667, 9.3167],
     description: {
       de: "Dieser Garten zeigt die Flora des Hochlandes von Sierra Leone. Er dient auch zu Bildungszwecken für die lokale Bevölkerung.",
       hu: "Ez a kert Sierra Leone felföldjének növényvilágát mutatja be. Oktatási célokat is szolgál a helyi lakosság számára.",
@@ -802,7 +802,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-gori-wildlife-corridor-life-v2",
     type: "wildlife",
     name: { de: "Gori-Wildtierkorridor", hu: "Gori vadvédelmi folyosó", ro: "Coridorul pentru animale sălbatice Gori", en: "Gori Wildlife Corridor" },
-    coordinates: { lat: 7.9, lng: -11.05 },
+    coords: [-11.05, 7.9],
     description: {
       de: "Der Gori-Korridor verbindet verschiedene Waldgebiete. Er ermöglicht den Tieren die sichere Wanderung durch den Osten des Landes.",
       hu: "A Gori-folyosó összeköti a különböző erdőterületeket. Lehetővé teszi az állatok biztonságos vándorlását az ország keleti részén.",
@@ -821,7 +821,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-sulima-mangroves-life-v2",
     type: "forest",
     name: { de: "Sulima-Mangroven", hu: "Sulima mangroveerdők", ro: "Mangrovele Sulima", en: "Sulima Mangroves" },
-    coordinates: { lat: 6.9667, lng: -11.5333 },
+    coords: [-11.5333, 6.9667],
     description: {
       de: "Die Mangroven bei Sulima bilden ein komplexes Küstenökosystem. Sie schützen die Küstenlinie vor Erosion und bieten Schutz für Fische.",
       hu: "A Sulima melletti mangroveerdők komplex part menti ökoszisztémát alkotnak. Védik a partvonalat az eróziótól és menedéket nyújtanak a halaknak.",
@@ -840,7 +840,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-bo-botanical-station-life-v2",
     type: "park",
     name: { de: "Bo Botanische Station", hu: "Bo Botanikai Állomás", ro: "Stațiunea Botanică Bo", en: "Bo Botanical Station" },
-    coordinates: { lat: 7.9667, lng: -11.7333 },
+    coords: [-11.7333, 7.9667],
     description: {
       de: "Diese Station forscht zur lokalen Pflanzenwelt. Sie dient als Erhaltungsprojekt für gefährdete einheimische Baumarten.",
       hu: "Ez az állomás a helyi növényvilágot kutatja. Megőrzési projektként szolgál a veszélyeztetett őshonos fafajok számára.",
@@ -859,7 +859,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-makeni-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Makeni-Waldreservat", hu: "Makeni Erdőrezervátum", ro: "Rezervația Forestieră Makeni", en: "Makeni Forest Reserve" },
-    coordinates: { lat: 8.8833, lng: -12.0333 },
+    coords: [-12.0333, 8.8833],
     description: {
       de: "Das Reservat bewahrt ein Waldgebiet nahe der Stadt Makeni. Es ist für Wanderungen und ökologische Studien zugänglich.",
       hu: "A rezervátum egy erdőterületet őriz Makeni város közelében. Túrázásra és ökológiai tanulmányokra alkalmas.",
@@ -878,7 +878,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-sewa-hippo-pool-life-v2",
     type: "wildlife",
     name: { de: "Sewa-Flusspferdbecken", hu: "Sewa vízilómedence", ro: "Bazinul hipopotamilor Sewa", en: "Sewa Hippo Pool" },
-    coordinates: { lat: 8.15, lng: -11.5 },
+    coords: [-11.5, 8.15],
     description: {
       de: "Dieser Abschnitt des Sewa-Flusses ist für seine Flusspferdpopulation bekannt. Besucher können diese Tiere aus sicherer Entfernung beobachten.",
       hu: "A Sewa-folyó ezen szakasza ismert vízilópopulációjáról. A látogatók biztonságos távolságból figyelhetik meg ezeket az állatokat.",
@@ -897,7 +897,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
     id: "sierraleone-kambia-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Kambia-Feuchtgebiete", hu: "Kambia-vizes élőhelyek", ro: "Zonele umede Kambia", en: "Kambia Wetlands" },
-    coordinates: { lat: 9.1167, lng: -12.9167 },
+    coords: [-12.9167, 9.1167],
     description: {
       de: "Die Feuchtgebiete bei Kambia sind ein wichtiges Zentrum für die lokale Vogelwelt. Sie bestehen aus Süßwasser-Sümpfen.",
       hu: "A Kambia melletti vizes élőhelyek fontos központjai a helyi madárvilágnak. Édesvízi mocsarakból állnak.",

@@ -726,7 +726,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-neihu-technology-park-economic-v2",
     type: "industry",
     name: { de: "Technologiepark Neihu", hu: "Neihu Technológiai Park", ro: "Parcul Tehnologic Neihu", en: "Neihu Technology Park" },
-    coordinates: { lat: 25.078, lng: 121.572 },
+    coords: [121.572, 25.078],
     description: {
       de: "Ein bedeutendes Hightech-Zentrum in Taipeh, das über 3.000 Unternehmen beherbergt. Es ist ein zentraler Standort für IT-Dienstleistungen und Forschung.",
       hu: "Tajpej jelentős high-tech központja, amely több mint 3000 vállalatnak ad otthont. Az IT-szolgáltatások és a kutatás kiemelt helyszíne.",
@@ -745,7 +745,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-xinyi-planning-district-economic-v2",
     type: "industry",
     name: { de: "Xinyi-Planungsviertel", hu: "Xinyi pénzügyi negyed", ro: "Districtul de Planificare Xinyi", en: "Xinyi Planning District" },
-    coordinates: { lat: 25.034, lng: 121.564 },
+    coords: [121.564, 25.034],
     description: {
       de: "Das wichtigste Finanzviertel von Taipeh mit zahlreichen Konzernzentralen und der Börse. Es bildet das wirtschaftliche Herz der Hauptstadt.",
       hu: "Tajpej legfontosabb pénzügyi negyede számos vállalati központtal és a tőzsdével. A főváros gazdasági szívét alkotja.",
@@ -764,7 +764,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-china-steel-plant-economic-v2",
     type: "factory",
     name: { de: "China Steel Corporation Werk", hu: "China Steel Corporation acélmű", ro: "Combinatul China Steel Corporation", en: "China Steel Corporation Plant" },
-    coordinates: { lat: 22.551, lng: 120.354 },
+    coords: [120.354, 22.551],
     description: {
       de: "Die größte integrierte Stahlhütte Taiwans in Kaohsiung. Sie ist ein Eckpfeiler der Schwerindustrie des Landes und beliefert den Weltmarkt.",
       hu: "Tajvan legnagyobb integrált acélműve Kaohsiungban. Az ország nehéziparának alappillére, és jelentős exportőr a világpiacon.",
@@ -783,7 +783,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-taoyuan-airport-economic-v2",
     type: "industry",
     name: { de: "Internationaler Flughafen Taoyuan", hu: "Tajvan-Taoyuan nemzetközi repülőtér", ro: "Aeroportul Internațional Taoyuan", en: "Taoyuan International Airport" },
-    coordinates: { lat: 25.079, lng: 121.234 },
+    coords: [121.234, 25.079],
     description: {
       de: "Der größte Flughafen Taiwans und ein globales Logistikdrehkreuz. Er ist entscheidend für den Außenhandel und die Luftfracht in Ostasien.",
       hu: "Tajvan legnagyobb repülőtere és globális logisztikai csomópontja. Meghatározó a külkereskedelem és a légi teherszállítás szempontjából Kelet-Ázsiában.",
@@ -802,7 +802,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-hualien-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Hualien", hu: "Hualien kikötője", ro: "Portul Hualien", en: "Port of Hualien" },
-    coordinates: { lat: 23.987, lng: 121.631 },
+    coords: [121.631, 23.987],
     description: {
       de: "Ein künstlich angelegter Hafen an der Ostküste, der auf Schüttgut wie Zement spezialisiert ist. Er dient als wichtiges Glied für den Rohstoffexport.",
       hu: "Mesterségesen kialakított kikötő a keleti parton, amely ömlesztett árukra, például cementre specializálódott. Fontos nyersanyagexport-csomópont.",
@@ -821,7 +821,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-anping-port-economic-v2",
     type: "port",
     name: { de: "Hafen Anping", hu: "Anping kikötő", ro: "Portul Anping", en: "Anping Port" },
-    coordinates: { lat: 22.992, lng: 120.151 },
+    coords: [120.151, 22.992],
     description: {
       de: "Ein historischer und modernisierter Handelshafen in Tainan. Er unterstützt die regionale Wirtschaft durch Küstenhandel und Freihandelszonen.",
       hu: "Történelmi és modernizált kereskedelmi kikötő Tainanban. A part menti kereskedelem és szabadkereskedelmi zónák révén támogatja a régiót.",
@@ -840,7 +840,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-linkou-power-plant-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Linkou", hu: "Linkou erőmű", ro: "Centrala Electrică Linkou", en: "Linkou Power Plant" },
-    coordinates: { lat: 25.121, lng: 121.298 },
+    coords: [121.298, 25.121],
     description: {
       de: "Ein modernes Kohlekraftwerk an der Küste von New Taipei City. Es nutzt ultra-superkritische Technologie zur effizienten Stromerzeugung.",
       hu: "Modern széntüzelésű erőmű New Taipei City partján. Ultra-szuperkritikus technológiát használ a hatékony áramtermeléshez.",
@@ -859,7 +859,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-tsengwen-reservoir-economic-v2",
     type: "lake",
     name: { de: "Tsengwen-Reservoir", hu: "Cengven-víztározó", ro: "Rezervorul Tsengwen", en: "Tsengwen Reservoir" },
-    coordinates: { lat: 23.238, lng: 120.537 },
+    coords: [120.537, 23.238],
     description: {
       de: "Das größte Reservoir Taiwans, das für Bewässerung und Wasserkraft genutzt wird. Es ist lebenswichtig für die Landwirtschaft in der Chianan-Ebene.",
       hu: "Tajvan legnagyobb víztározója, amelyet öntözésre és vízenergiára használnak. Alapvető a Chianan-síkság mezőgazdasága számára.",
@@ -878,7 +878,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-shalun-green-energy-city-economic-v2",
     type: "industry",
     name: { de: "Shalun Green Energy Science City", hu: "Shalun Zöld Energia Tudományos Város", ro: "Shalun Green Energy Science City", en: "Shalun Smart Green Energy Science City" },
-    coordinates: { lat: 22.923, lng: 120.285 },
+    coords: [120.285, 22.923],
     description: {
       de: "Ein nationales Forschungszentrum in Tainan für erneuerbare Energien. Hier werden Technologien für Solarkraft und intelligente Stromnetze entwickelt.",
       hu: "Nemzeti kutatóközpont Tainanban a megújuló energiák területén. Napenergia-technológiákat és intelligens hálózatokat fejlesztenek itt.",
@@ -897,7 +897,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-kuosheng-nuclear-plant-economic-v2",
     type: "factory",
     name: { de: "Kernkraftwerk Kuosheng", hu: "Kuosheng atomerőmű", ro: "Centrala Nucleară Kuosheng", en: "Kuosheng Nuclear Power Plant" },
-    coordinates: { lat: 25.204, lng: 121.662 },
+    coords: [121.662, 25.204],
     description: {
       de: "Taiwans zweites Kernkraftwerk an der Nordküste in Wanli. Es trug über Jahrzehnte signifikant zur industriellen Energieversorgung des Landes bei.",
       hu: "Tajvan második atomerőműve az északi parton, Wanliban. Évtizedeken át jelentősen hozzájárult az ország ipari energiaellátásához.",
@@ -916,7 +916,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-neili-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Neili", hu: "Neili ipari park", ro: "Parcul Industrial Neili", en: "Neili Industrial Park" },
-    coordinates: { lat: 24.975, lng: 121.261 },
+    coords: [121.261, 24.975],
     description: {
       de: "Ein etabliertes Industriegebiet in Taoyuan mit Schwerpunkt auf Textilien und Elektronik. Es ist ein wichtiger Arbeitgeber in der Metropolregion.",
       hu: "Taoyuan egyik bejáratott ipari parkja, amely a textiliparra és az elektronikára összpontosít. Fontos munkaadó a régióban.",
@@ -935,7 +935,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-heping-industrial-port-economic-v2",
     type: "port",
     name: { de: "Industriehafen Heping", hu: "Heping ipari kikötő", ro: "Portul Industrial Heping", en: "Heping Industrial Port" },
-    coordinates: { lat: 24.305, lng: 121.752 },
+    coords: [121.752, 24.305],
     description: {
       de: "Ein spezialisierter Privathafen in Hualien für die Schwerindustrie. Er ist direkt mit einem Zementwerk und einem Kohlekraftwerk verbunden.",
       hu: "Speciális magánkikötő Hualienben a nehézipar számára. Közvetlen összeköttetésben áll egy cementgyárral és egy szénerőművel.",
@@ -954,7 +954,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-qigu-salt-fields-economic-v2",
     type: "industry",
     name: { de: "Qigu-Salzfelder", hu: "Csi-ku sómezők", ro: "Câmpurile de sare Qigu", en: "Qigu Salt Fields" },
-    coordinates: { lat: 23.158, lng: 120.103 },
+    coords: [120.103, 23.158],
     description: {
       de: "Einst das größte Salzgewinnungsgebiet Taiwans in Tainan. Heute ist es ein Denkmal für die historische Salzindustrie und den handwerklichen Abbau.",
       hu: "Egykor Tajvan legnagyobb sókitermelő területe volt Tainanban. Ma a történelmi sóipar és a kézműves bányászat emlékhelye.",
@@ -973,7 +973,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     id: "taiwan-chihshang-rice-paddy-economic-v2",
     type: "landmark",
     name: { de: "Reisfelder von Chihshang", hu: "Chihshang rizsföldek", ro: "Câmpurile de orez din Chihshang", en: "Chihshang Rice Paddy" },
-    coordinates: { lat: 23.124, lng: 121.215 },
+    coords: [121.215, 23.124],
     description: {
       de: "Ein Zentrum des hochwertigen Reisanbaus im East Rift Valley. Chihshang-Reis ist ein wichtiges Agrarprodukt für den inländischen Markt.",
       hu: "A kiváló minőségű rizstermesztés központja az East Rift Valley-ben. A chihshangi rizs fontos mezőgazdasági termék a hazai piacon.",

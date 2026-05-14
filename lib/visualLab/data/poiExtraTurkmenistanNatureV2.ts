@@ -1046,7 +1046,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-karlyuk-caves-nature-v2",
     type: "landmark",
     name: { de: "Karlyuk-Höhlen", hu: "Karlyuk-barlangok", ro: "Peșterile Karlyuk", en: "Karlyuk Caves" },
-    coordinates: { lat: 37.5833, lng: 66.4167 },
+    coords: [66.4167, 37.5833],
     description: {
       de: "Dieses unterirdische System im Köýtendag-Gebirge umfasst mehr als 30 Höhlen mit beeindruckenden Stalaktiten. Die Gänge erstrecken sich über mehrere Kilometer durch Kalksteingebirge.",
       hu: "A Köýtendag-hegységben található barlangrendszer több mint 30 különálló barlangot foglal magában. A járatokban hatalmas sztalaktitok és ritka vak barlangi halfajok élnek.",
@@ -1065,7 +1065,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-kyrk-gyz-gorge-nature-v2",
     type: "valley",
     name: { de: "Kyrk-Gyz-Schlucht", hu: "Kyrk-Gyz-szurdok", ro: "Cheile Kyrk-Gyz", en: "Kyrk-Gyz Gorge" },
-    coordinates: { lat: 37.8512, lng: 66.4234 },
+    coords: [66.4234, 37.8512],
     description: {
       de: "Die schmale Felsenschlucht ist bekannt für ihre senkrechten Wände und die kühle Atmosphäre im Inneren. Sie gilt als heiliger Ort und ist mit rituellen Tuchstreifen geschmückt.",
       hu: "A szűk szurdokvölgy híres merőleges sziklafalairól és a belső hűvös mikroklímájáról. A helyi lakosság szent helyként tiszteli a völgyet.",
@@ -1084,7 +1084,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-umbar-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Umbar-Wasserfall", hu: "Umbar-vízesés", ro: "Cascada Umbar", en: "Umbar Waterfall" },
-    coordinates: { lat: 37.9125, lng: 66.4358 },
+    coords: [66.4358, 37.9125],
     description: {
       de: "Dieser Wasserfall stürzt in eine extrem schmale Schlucht des Köýtendag-Gebirges. Das Wasser fällt aus einer Höhe von 27 Metern über Kalksteinfelsen in ein natürliches Becken.",
       hu: "Ez a vízesés a Köýtendag-hegység egyik rendkívül szűk szurdokába zúdul le. A víz 27 méter magasságból esik a mészkősziklák között egy természetes medencébe.",
@@ -1103,7 +1103,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-ogurchinskiy-island-nature-v2",
     type: "wildlife",
     name: { de: "Insel Ogurdschali", hu: "Ogurjaly-sziget", ro: "Insula Ogurjaly", en: "Ogurchinskiy Island" },
-    coordinates: { lat: 38.95, lng: 53.05 },
+    coords: [53.05, 38.95],
     description: {
       de: "Ogurdschali ist die längste Insel Turkmenistans im Kaspischen Meer und erstreckt sich als schmaler Sandstreifen. Sie ist unbewohnt und dient als wichtiges Reservat für die lokale Fauna.",
       hu: "Ez Türkmenisztán leghosszabb szigete a Kaszpi-tengerben, amely egy keskeny homoksávként nyúlik el. lakatlan terület, amely fontos rezervátum a helyi élővilág számára.",
@@ -1122,7 +1122,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-cheleken-peninsula-nature-v2",
     type: "landmark",
     name: { de: "Tscheleken-Halbinsel", hu: "Cseleken-félsziget", ro: "Peninsula Celeken", en: "Cheleken Peninsula" },
-    coordinates: { lat: 39.38, lng: 53.2 },
+    coords: [53.2, 39.38],
     description: {
       de: "Diese Halbinsel im Kaspischen Meer ist für ihre geologische Aktivität und Schlammvulkane bekannt. Die Landschaft ist geprägt durch Salzwiesen und reiche Mineralvorkommen an der Küste.",
       hu: "Ez a Kaszpi-tengerbe nyúló félsziget geológiai aktivitásáról és sárvulkánjairól ismert. A tájat sós mocsarak és gazdag tengerparti ásványkincsek jellemzik.",
@@ -1141,7 +1141,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-yaskha-lake-nature-v2",
     type: "lake",
     name: { de: "Jascha-See", hu: "Jascha-tó", ro: "Lacul Iașha", en: "Yaskha Lake" },
-    coordinates: { lat: 39.245, lng: 55.052 },
+    coords: [55.052, 39.245],
     description: {
       de: "Der Jascha-See ist ein natürliches Süßwasserreservoir inmitten der Karakum-Wüste. Er wird durch unterirdische Filterung von Wasser aus dem Amudarja-Fluss gespeist.",
       hu: "A Jascha-tó egy természetes édesvizű tározó a Karakum-sivatag közepén. A vizét az Amudarja folyóból, a homokdűnék alatt átszivárgó rétegvizek táplálják.",
@@ -1160,7 +1160,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-kattashor-depression-nature-v2",
     type: "valley",
     name: { de: "Kattaschor-Senke", hu: "Kattaschor-mélyföld", ro: "Depresiunea Kattashor", en: "Kattashor Depression" },
-    coordinates: { lat: 41.6, lng: 57.5 },
+    coords: [57.5, 41.6],
     description: {
       de: "Diese ausgedehnte Salzsenke im Norden Turkmenistans liegt unter dem Meeresspiegel. Während der Regenzeit verwandelt sie sich in einen flachen, hochsalzhaltigen See.",
       hu: "Ez a kiterjedt sós mélyföld Türkmenisztán északi részén, a tengerszint alatt fekszik. Az esős évszakban sekély, magas sótartalmú tóvá alakul át.",
@@ -1179,7 +1179,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     id: "turkmenistan-mount-tagarev-nature-v2",
     type: "peak",
     name: { de: "Tagarew-Berg", hu: "Tagarev-hegy", ro: "Muntele Tagarev", en: "Mount Tagarev" },
-    coordinates: { lat: 37.95, lng: 58.05 },
+    coords: [58.05, 37.95],
     description: {
       de: "Der Tagarew ist ein markanter Gipfel im zentralen Kopetdag-Gebirge nahe der Grenze zum Iran. Er ist bekannt für seine alpinen Wiesen und die oft schneebedeckte Kuppe.",
       hu: "A Tagarev a központi Kopetdag-hegység egyik jellegzetes csúcsa az iráni határ közelében. Alpesi rétjeiről és gyakran hóval borított tetejéről ismert.",

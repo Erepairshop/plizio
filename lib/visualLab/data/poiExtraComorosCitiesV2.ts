@@ -1535,7 +1535,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-chezani-cities-v2",
     type: "town",
     name: { de: "Chezani", hu: "Chezani", ro: "Chezani", en: "Chezani" },
-    coordinates: { lat: -11.4502, lng: 43.3835 },
+    coords: [43.3835, -11.4502],
     description: {
       de: "Chezani ist eine bedeutende Stadt im Norden von Grande Comore, die als administratives Zentrum des Bezirks Mitsamiouli-Mboudé fungiert.",
       hu: "Chezani egy jelentős város Grande Comore északi részén, amely a Mitsamiouli-Mboudé körzet adminisztratív központjaként szolgál.",
@@ -1566,7 +1566,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-hantsindzi-cities-v2",
     type: "town",
     name: { de: "Hantsindzi", hu: "Hantsindzi", ro: "Hantsindzi", en: "Hantsindzi" },
-    coordinates: { lat: -11.3934, lng: 43.3328 },
+    coords: [43.3328, -11.3934],
     description: {
       de: "Hantsindzi ist eine Küstenstadt im äußersten Norden von Grande Comore, bekannt für ihre Fischerei und die Nähe zu weißen Sandstränden.",
       hu: "Hantsindzi egy tengerparti város Grande Comore legészakibb részén, amely halászatáról és a közeli fehér homokos strandokról ismert.",
@@ -1597,7 +1597,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-mohoro-cities-v2",
     type: "town",
     name: { de: "Mohoro", hu: "Mohoro", ro: "Mohoro", en: "Mohoro" },
-    coordinates: { lat: -11.8335, lng: 43.4667 },
+    coords: [43.4667, -11.8335],
     description: {
       de: "Mohoro ist ein strategisch gelegener Ort im Süden von Grande Comore, der für seine ausgedehnten Kokosnuss- und Gewürzplantagen bekannt ist.",
       hu: "Mohoro egy stratégiai elhelyezkedésű település Grande Comore déli részén, amely kiterjedt kókuszdió- és fűszerültetvényeiről ismert.",
@@ -1628,7 +1628,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-chandra-cities-v2",
     type: "town",
     name: { de: "Chandra", hu: "Chandra", ro: "Chandra", en: "Chandra" },
-    coordinates: { lat: -12.1956, lng: 44.4023 },
+    coords: [44.4023, -12.1956],
     description: {
       de: "Chandra ist eine Bergstadt auf der Insel Anjouan, die aufgrund ihrer fruchtbaren Böden ein wichtiges Zentrum für den Anbau von Ylang-Ylang ist.",
       hu: "Chandra egy hegyi város Anjouan szigetén, amely termékeny talaja miatt az ilang-ilang termesztés egyik fontos központja.",
@@ -1659,7 +1659,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-koni-djodjo-cities-v2",
     type: "town",
     name: { de: "Koni-Djodjo", hu: "Koni-Djodjo", ro: "Koni-Djodjo", en: "Koni-Djodjo" },
-    coordinates: { lat: -12.2458, lng: 44.4912 },
+    coords: [44.4912, -12.2458],
     description: {
       de: "Koni-Djodjo liegt in den östlichen Highlands von Anjouan und ist eine der höchstgelegenen größeren Siedlungen der Komoren.",
       hu: "Koni-Djodjo Anjouan keleti felföldjén található, és a Comore-szigetek egyik legmagasabban fekvő nagyobb települése.",
@@ -1690,7 +1690,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-ongoni-cities-v2",
     type: "town",
     name: { de: "Ongoni", hu: "Ongoni", ro: "Ongoni", en: "Ongoni" },
-    coordinates: { lat: -12.2412, lng: 44.4534 },
+    coords: [44.4534, -12.2412],
     description: {
       de: "Ongoni ist ein wichtiges Agrarzentrum im Osten von Anjouan, das für seinen Reisanbau und seine dichte tropische Vegetation bekannt ist.",
       hu: "Ongoni egy fontos mezőgazdasági központ Anjouan keleti részén, amely rizstermesztéséről és sűrű trópusi növényzetéről ismert.",
@@ -1721,7 +1721,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-bimbini-cities-v2",
     type: "town",
     name: { de: "Bimbini", hu: "Bimbini", ro: "Bimbini", en: "Bimbini" },
-    coordinates: { lat: -12.1915, lng: 44.2541 },
+    coords: [44.2541, -12.1915],
     description: {
       de: "Bimbini liegt an der Westspitze von Anjouan und ist ein historisches Fischerdorf, das für seine Salzproduktion und Korallenriffe bekannt ist.",
       hu: "Bimbini Anjouan nyugati csücskén található, egy történelmi halászfalu, amely sótermeléséről és korallzátonyairól ismert.",
@@ -1752,7 +1752,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-ndrondroni-cities-v2",
     type: "town",
     name: { de: "Ndrondroni", hu: "Ndrondroni", ro: "Ndrondroni", en: "Ndrondroni" },
-    coordinates: { lat: -12.3332, lng: 43.6821 },
+    coords: [43.6821, -12.3332],
     description: {
       de: "Ndrondroni ist eine der größten Siedlungen an der Südküste von Mohéli und liegt innerhalb des Mohéli-Meeresparks.",
       hu: "Ndrondroni Mohéli déli partjának egyik legnagyobb települése, amely a Mohéli Tengeri Park területén belül fekszik.",
@@ -1783,7 +1783,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-siri-cities-v2",
     type: "town",
     name: { de: "Siri", hu: "Siri", ro: "Siri", en: "Siri" },
-    coordinates: { lat: -12.2912, lng: 43.8322 },
+    coords: [43.8322, -12.2912],
     description: {
       de: "Siri ist eine Küstenstadt im Nordosten von Mohéli, die für ihre ruhige Atmosphäre und die umliegenden Kokosnusshaine bekannt ist.",
       hu: "Siri egy tengerparti város Mohéli északkeleti részén, amely nyugodt légköréről és a környező kókuszligetekről ismert.",
@@ -1814,7 +1814,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "comoros-mjimandra-cities-v2",
     type: "town",
     name: { de: "Mjimandra", hu: "Mjimandra", ro: "Mjimandra", en: "Mjimandra" },
-    coordinates: { lat: -12.1645, lng: 44.4423 },
+    coords: [44.4423, -12.1645],
     description: {
       de: "Mjimandra ist eine Stadt im zentralen Norden von Anjouan, die eine wichtige Rolle im lokalen Handel mit Gewürzen und Früchten spielt.",
       hu: "Mjimandra egy város Anjouan északi-központi részén, amely fontos szerepet játszik a helyi fűszer- és gyümölcskereskedelemben.",

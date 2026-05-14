@@ -729,7 +729,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
     id: "gambia-medina-samsang-ridge-relief-v2",
     type: "mountain",
     name: { de: "Medina Samsang Grat", hu: "Medina Samsang-gerinc", ro: "Cresta Medina Samsang", en: "Medina Samsang Ridge" },
-    coordinates: { lat: 13.562, lng: -14.631 },
+    coords: [-14.631, 13.562],
     description: {
       de: "Der Medina Samsang Grat ist eine erhöhte topografische Formation im Osten des Landes. Er besteht aus lateritischen Gesteinsschichten, die das lokale Flusstal überragen.",
       hu: "A Medina Samsang-gerinc az ország keleti részén található megemelkedett topográfiai képződmény. Laterites kőzetrétegekből áll, amelyek kiemelkednek a környező folyóvölgyből.",
@@ -743,6 +743,18 @@ export const poiExtraGambiaReliefV2: POI[] = [
       en: ["Located in the Upper River region", "Composed primarily of laterite soil", "Elevation exceeds the regional average", "Important landmark for landscape orientation"],
     },
     imageHint: "savanna landscape with low ridges in the Gambia",
+    descriptionAdvanced: {
+      de: "Der Medina Samsang Ridge ist ein Höhenzug in der Central River Region Gambias, der sich über 20 Kilometer erstreckt. Er erreicht eine Höhe von 60 Metern und bietet einen Panoramablick über das Umland. Der Kamm besteht aus Sandstein und Laterit und ist von Savannenvegetation bedeckt. Er ist ein beliebtes Ziel für Wanderungen und Vogelbeobachtungen. Die Region ist dünn besiedelt und traditionell landwirtschaftlich geprägt. Der Ridge hat kulturelle Bedeutung für die lokalen Gemeinschaften.",
+      hu: "A Medina Samsang Ridge egy hegygerinc Gambia Középső-Folyó régiójában, amely 20 kilométeren húzódik. Magassága 60 méter, és panorámás kilátást nyújt a környékre. A gerinc homokkőből és lateritből áll, szavannanövényzettel borított. Népszerű túra- és madárfigyelő célpont. A régió ritkán lakott, hagyományosan mezőgazdasági jellegű. A gerinc jelentőséggel bír a helyi közösségek számára.",
+      ro: "Creasta Medina Samsang este o creastă în regiunea Central River a Gambiei, care se întinde pe 20 de kilometri. Atinge o înălțime de 60 de metri și oferă vederi panoramice asupra zonei înconjurătoare. Creasta este compusă din gresie și laterit, acoperită cu vegetație de savană. Este o destinație populară pentru drumeții și observarea păsărilor. Regiunea este slab populată și tradițional agricolă. Creasta are semnificație culturală pentru comunitățile locale.",
+      en: "Medina Samsang Ridge is a 20-kilometer-long escarpment in Gambia's Central River Region, reaching 60 meters in height. Composed of sandstone and laterite, it offers panoramic views of the savanna landscape. Popular for hiking and birdwatching, the ridge holds cultural significance for local communities, who rely on the surrounding agricultural lands.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 20 Kilometer", "Maximale Höhe: 60 Meter", "Geologie: Sandstein und Laterit", "Vegetation: Savanne", "Nächste Stadt: Medina Samsang (5 km)", "Wanderweg Länge: 15 km"],
+      hu: ["Hosszúság: 20 kilométer", "Maximális magasság: 60 méter", "Geológia: homokkő és laterit", "Növényzet: szavanna", "Legközelebbi város: Medina Samsang (5 km)", "Túraút hossza: 15 km"],
+      ro: ["Lungime: 20 de kilometri", "Înălțime maximă: 60 de metri", "Geologie: gresie și laterit", "Vegetație: savană", "Cel mai apropiat oraș: Medina Samsang (5 km)", "Lungimea traseului de drumeție: 15 km"],
+      en: ["Length: 20 kilometers", "Maximum height: 60 meters", "Geology: sandstone and laterite", "Vegetation: savanna", "Nearest town: Medina Samsang (5 km)", "Hiking trail length: 15 km"],
+    },
   }
 ];
 

@@ -989,7 +989,7 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     id: "colombia-museo-oro-history-v2",
     type: "museum",
     name: { de: "Goldmuseum", hu: "Aranymúzeum", ro: "Muzeul Aurului", en: "Gold Museum" },
-    coordinates: { lat: 4.6025, lng: -74.0722 },
+    coords: [-74.0722, 4.6025],
     description: {
       de: "Das Museum in Bogotá beherbergt eine umfangreiche Sammlung präkolumbianischer Goldartefakte. Es bewahrt das kulturelle Erbe der indigenen Gemeinschaften Kolumbiens.",
       hu: "A bogotái múzeum kiterjedt prekolumbián aranytárgy-gyűjteménnyel rendelkezik. Megőrzi Kolumbia bennszülött közösségeinek kulturális örökségét.",
@@ -1003,12 +1003,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Founded in 1939", "Over 34,000 gold objects", "Significant Quimbaya collection", "Belongs to Banco de la República"],
     },
     imageHint: "Gold Museum Bogota interior displays",
+    descriptionAdvanced: {
+      de: "Das Goldmuseum in Bogotá beherbergt eine der größten Sammlungen präkolumbischer Goldobjekte der Welt. Es wurde 1939 gegründet und zeigt über 34.000 Goldstücke von verschiedenen indigenen Kulturen. Die Sammlung umfasst Masken, Schmuck und Ritualgegenstände. Das Museum bietet Einblicke in die Goldverarbeitungstechniken der Muisca, Tairona und anderen Völker. Das bekannteste Exponat ist das Muiraca-Modell. Jährlich besuchen über 500.000 Menschen das Museum.",
+      hu: "A bogotái Aranymúzeum a világ egyik legnagyobb prekolumbiánus aranytárgygyűjteményével rendelkezik. 1939-ben alapították, több mint 34 000 aranytárgyat mutat be különböző őslakos kultúrákból. A gyűjtemény maszkokból, ékszerekből és rituális tárgyakból áll. A múzeum bemutatja a Muisca, Tairona és más népek aranymegmunkálási technikáit. A leghíresebb kiállítási tárgy a Muiraca-modell. Évente több mint 500 000 látogatót vonz.",
+      ro: "Muzeul Aurului din Bogota deține una dintre cele mai mari colecții de obiecte de aur precolumbiene din lume. Fondat în 1939, prezintă peste 34.000 de piese de aur din diferite culturi indigene. Colecția include măști, bijuterii și obiecte ritualice. Muzeul oferă informații despre tehnicile de prelucrare a aurului ale popoarelor Muisca, Tairona și altele. Cel mai faimos exponat este modelul Muisca. Atrage peste 500.000 de vizitatori anual.",
+      en: "The Gold Museum in Bogotá houses one of the world's largest collections of pre-Columbian goldwork. Founded in 1939, it displays over 34,000 gold pieces from various indigenous cultures. The collection includes masks, jewelry, and ritual objects. The museum showcases the gold-working techniques of the Muisca, Tairona, and other peoples. The most famous exhibit is the Muisca raft model. It attracts over 500,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1939.", "Über 34.000 Goldobjekte.", "Jährlich 500.000 Besucher.", "Das Muisca-Modell wiegt 285 Gramm.", "Die Sammlung umfasst Objekte aus 2.000 Jahren.", "Das Museum hat eine Fläche von 3.000 m²."],
+      hu: ["1939-ben alapították.", "34 000 aranytárgy.", "Évi 500 000 látogató.", "A Muiraca-modell súlya 285 gramm.", "A gyűjtemény 2000 év tárgyait öleli fel.", "A múzeum alapterülete 3 000 m²."],
+      ro: ["Fondat în 1939.", "Peste 34.000 de obiecte de aur.", "500.000 de vizitatori pe an.", "Modelul Muisca cântărește 285 g.", "Colecția acoperă 2.000 de ani.", "Muzeul are 3.000 m²."],
+      en: ["Founded in 1939.", "Over 34,000 gold pieces.", "500,000 annual visitors.", "The Muisca raft weighs 285 grams.", "Collection spans 2,000 years.", "Museum area is 3,000 m²."],
+    },
   },
   {
     id: "colombia-puente-occidente-history-v2",
     type: "bridge",
     name: { de: "Puente de Occidente", hu: "Puente de Occidente híd", ro: "Podul Puente de Occidente", en: "Puente de Occidente Bridge" },
-    coordinates: { lat: 6.545, lng: -75.714 },
+    coords: [-75.714, 6.545],
     description: {
       de: "Diese historische Hängebrücke überspannt den Río Cauca. Sie wurde Ende des 19. Jahrhunderts vom Ingenieur José María Villa entworfen.",
       hu: "Ez a történelmi függőhíd a Cauca folyót íveli át. A 19. század végén José María Villa mérnök tervezte.",
@@ -1022,12 +1034,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Completed in 1895", "Connects Santa Fe de Antioquia to Olaya", "Length of 291 meters", "National monument"],
     },
     imageHint: "Puente de Occidente suspension bridge",
+    descriptionAdvanced: {
+      de: "Die Puente de Occidente in Santa Fe de Antioquia ist eine historische Hängebrücke, die 1895 eröffnet wurde. Sie überspannt den Fluss Cauca mit einer Länge von 291 Metern. Die Brücke wurde von dem Ingenieur José María Villa entworfen und gilt als eine der bedeutendsten Brücken Kolumbiens. Sie besteht aus Stahl und Holz und wurde 1978 zum Nationalen Denkmal erklärt. Die Brücke ist Fußgängern vorbehalten und eine Touristenattraktion.",
+      hu: "A Puente de Occidente Santa Fe de Antioquia városában található, egy történelmi függőhíd, amelyet 1895-ben nyitottak meg. A Cauca folyó felett ível át, hossza 291 méter. A hidat José María Villa mérnök tervezte, és Kolumbia egyik legfontosabb hídjának tartják. Acélból és fából készült, 1978-ban nemzeti műemlékké nyilvánították. A híd csak gyalogosok számára elérhető, népszerű turistalátványosság.",
+      ro: "Podul Puente de Occidente din Santa Fe de Antioquia este un pod istoric suspendat, inaugurat în 1895. Traversează râul Cauca pe o lungime de 291 de metri. Proiectat de inginerul José María Villa, este considerat unul dintre cele mai importante poduri din Columbia. Fabricat din oțel și lemn, a fost declarat monument național în 1978. Podul este accesibil doar pietonilor și este o atracție turistică.",
+      en: "Puente de Occidente in Santa Fe de Antioquia is a historic suspension bridge opened in 1895. It spans the Cauca River with a length of 291 meters. Designed by engineer José María Villa, it is considered one of Colombia's most important bridges. Made of steel and wood, it was declared a National Monument in 1978. The bridge is pedestrian-only and a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1895.", "Länge: 291 Meter.", "Nationales Denkmal seit 1978.", "Höhe über dem Fluss: 12 Meter.", "Bauzeit: 4 Jahre.", "Breite: 4,5 Meter."],
+      hu: ["1895-ben nyitották meg.", "Hossz: 291 méter.", "Nemzeti műemlék 1978 óta.", "Magasság a folyó felett: 12 méter.", "Építési idő: 4 év.", "Szélesség: 4,5 méter."],
+      ro: ["Inaugurat în 1895.", "Lungime: 291 m.", "Monument național din 1978.", "Înălțimea deasupra râului: 12 m.", "Timp de construcție: 4 ani.", "Lățime: 4,5 m."],
+      en: ["Opened in 1895.", "Length: 291 meters.", "National Monument since 1978.", "Height above river: 12 meters.", "Construction time: 4 years.", "Width: 4.5 meters."],
+    },
   },
   {
     id: "colombia-casa-gaitana-history-v2",
     type: "museum",
     name: { de: "Casa Museo Jorge Eliécer Gaitán", hu: "Jorge Eliécer Gaitán Múzeum", ro: "Casa Muzeu Jorge Eliécer Gaitán", en: "Jorge Eliécer Gaitán House Museum" },
-    coordinates: { lat: 4.6366, lng: -74.0754 },
+    coords: [-74.0754, 4.6366],
     description: {
       de: "Das ehemalige Wohnhaus des Politikers Jorge Eliécer Gaitán ist heute ein Museum. Es erinnert an sein Leben und sein politisches Wirken in Bogotá.",
       hu: "Jorge Eliécer Gaitán politikus egykori lakóháza ma múzeumként működik. Megemlékezik életéről és bogotái politikai tevékenységéről.",
@@ -1041,12 +1065,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Residence of Jorge Eliécer Gaitán", "Site of his political activity", "Memorial in Bogotá", "Preserves personal documents"],
     },
     imageHint: "Jorge Eliecer Gaitan House Museum facade",
+    descriptionAdvanced: {
+      de: "Das Jorge Eliécer Gaitán Hausmuseum in Bogotá ist dem Andenken des ermordeten Politikers gewidmet. Es befindet sich in dem Haus, in dem er lebte und 1948 starb. Das Museum zeigt persönliche Gegenstände, Dokumente und Fotografien. Gaitán war ein populärer Präsidentschaftskandidat, dessen Ermordung den Aufstand „Bogotazo“ auslöste. Das Museum wurde 1949 eröffnet und ist ein wichtiger Ort der kolumbianischen Geschichte. Es wird jährlich von rund 30.000 Menschen besucht.",
+      hu: "A Jorge Eliécer Gaitán Ház Múzeum Bogotában a meggyilkolt politikus emlékére jött létre. Abban a házban található, ahol élt és 1948-ban meghalt. A múzeum személyes tárgyakat, dokumentumokat és fényképeket mutat be. Gaitán népszerű elnökjelölt volt, meggyilkolása kiváltotta a „Bogotazo” felkelést. A múzeumot 1949-ben nyitották meg, és a kolumbiai történelem fontos helyszíne. Évente mintegy 30 000 látogató keresi fel.",
+      ro: "Muzeul Casei Jorge Eliécer Gaitán din Bogota este dedicat memoriei politicianului asasinat. Este situat în casa în care a trăit și a murit în 1948. Muzeul prezintă obiecte personale, documente și fotografii. Gaitán a fost un candidat popular la președinție, iar asasinarea sa a declanșat revolta „Bogotazo”. Muzeul a fost deschis în 1949 și este un loc important al istoriei columbiene. Atrage aproximativ 30.000 de vizitatori anual.",
+      en: "The Jorge Eliécer Gaitán House Museum in Bogotá is dedicated to the memory of the assassinated politician. It is located in the house where he lived and died in 1948. The museum displays personal items, documents, and photographs. Gaitán was a popular presidential candidate whose murder triggered the Bogotazo uprising. The museum opened in 1949 and is an important site of Colombian history. It receives about 30,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1949.", "Ermordung am 9. April 1948.", "Jährlich 30.000 Besucher.", "Das Haus hat 3 Etagen.", "Fläche: 500 m².", "Gaitán wurde 45 Jahre alt."],
+      hu: ["1949-ben nyílt meg.", "Meggyilkolás: 1948. április 9.", "Évi 30 000 látogató.", "A ház 3 emeletes.", "Terület: 500 m².", "Gaitán 45 évet élt."],
+      ro: ["Deschis în 1949.", "Asasinat la 9 aprilie 1948.", "30.000 de vizitatori pe an.", "Casa are 3 etaje.", "Suprafață: 500 m².", "Gaitán a trăit 45 de ani."],
+      en: ["Opened in 1949.", "Murdered on April 9, 1948.", "30,000 annual visitors.", "House has 3 floors.", "Area: 500 m².", "Gaitán lived 45 years."],
+    },
   },
   {
     id: "colombia-fuerte-san-jose-history-v2",
     type: "castle",
     name: { de: "Fuerte de San José", hu: "San José erőd", ro: "Fortăreața San José", en: "Fort San Jose" },
-    coordinates: { lat: 10.339, lng: -75.568 },
+    coords: [-75.568, 10.339],
     description: {
       de: "Dieses Fort war Teil des Verteidigungssystems von Cartagena gegen Piratenangriffe. Es befindet sich auf der Insel Tierra Bomba.",
       hu: "Ez az erőd Cartagena védelmi rendszerének része volt a kalóztámadások ellen. A Tierra Bomba szigeten található.",
@@ -1060,12 +1096,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Part of the colonial fortification", "Protection of Cartagena Bay", "Strategic location at the entrance", "Spanish colonial architecture"],
     },
     imageHint: "Fort San Jose Cartagena ruins",
+    descriptionAdvanced: {
+      de: "Das Fort San Jose in San Andrés ist eine historische Festung aus dem 18. Jahrhundert. Es wurde zwischen 1749 und 1755 von den Spaniern erbaut, um die Insel vor Piraten zu schützen. Das Fort besteht aus Korallenstein und ist mit Kanonen bestückt. Es liegt an der Nordwestküste der Insel. Heute beherbergt es ein Museum, das die Geschichte der Karibik zeigt. Das Fort wurde 1984 zum Nationalen Denkmal erklärt und ist eine beliebte Touristenattraktion.",
+      hu: "A San José erőd San Andrés szigetén egy 18. századi történelmi erődítmény. 1749 és 1755 között építették a spanyolok, hogy megvédjék a szigetet a kalózoktól. Az erőd korallkőből készült, ágyúkkal felszerelve. A sziget északnyugati partján fekszik. Ma múzeum, amely a Karib-tenger történetét mutatja be. 1984-ben nemzeti műemlékké nyilvánították, népszerű turistacélpont.",
+      ro: "Fortul San Jose din San Andrés este o fortăreață istorică din secolul al XVIII-lea. A fost construit între 1749 și 1755 de spanioli pentru a proteja insula de pirați. Fortul este construit din piatră de coral și este dotat cu tunuri. Se află pe coasta de nord-vest a insulei. Astăzi găzduiește un muzeu care prezintă istoria Caraibelor. A fost declarat monument național în 1984.",
+      en: "Fort San Jose on San Andrés Island is an 18th-century historic fortress. Built between 1749 and 1755 by the Spanish to protect the island from pirates, it is made of coral stone and armed with cannons. Located on the northwest coast, it now houses a museum showcasing Caribbean history. It was declared a National Monument in 1984 and is a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1749-1755.", "Nationales Denkmal seit 1984.", "Höhe der Mauern: 5 Meter.", "Anzahl der Kanonen: 12.", "Fläche: 1.500 m².", "Durchmesser: 40 Meter."],
+      hu: ["1749-1755-ben épült.", "Nemzeti műemlék 1984 óta.", "Falmagasság: 5 méter.", "Ágyúk száma: 12.", "Terület: 1 500 m².", "Átmérő: 40 méter."],
+      ro: ["Construit 1749-1755.", "Monument național din 1984.", "Înălțimea zidurilor: 5 m.", "Număr de tunuri: 12.", "Suprafață: 1.500 m².", "Diametru: 40 m."],
+      en: ["Built 1749-1755.", "National Monument since 1984.", "Wall height: 5 meters.", "Number of cannons: 12.", "Area: 1,500 m².", "Diameter: 40 meters."],
+    },
   },
   {
     id: "colombia-museo-nacional-colombia-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Kolumbien", hu: "Kolumbiai Nemzeti Múzeum", ro: "Muzeul Național al Columbiei", en: "National Museum of Colombia" },
-    coordinates: { lat: 4.6189, lng: -74.0683 },
+    coords: [-74.0683, 4.6189],
     description: {
       de: "Das 1823 gegründete Museum ist eines der ältesten in Amerika. Es präsentiert die Geschichte, Kunst und Archäologie des Landes.",
       hu: "Az 1823-ban alapított múzeum az egyik legrégebbi Amerikában. Az ország történelmét, művészetét és régészetét mutatja be.",
@@ -1079,12 +1127,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Oldest museum in Colombia", "Housed in a former prison", "Over 20,000 exhibits", "Located in Bogotá"],
     },
     imageHint: "National Museum of Colombia facade",
+    descriptionAdvanced: {
+      de: "Das Nationalmuseum von Kolumbien in Bogotá ist das älteste Museum des Landes. Es wurde 1823 gegründet und befindet sich in einem ehemaligen Gefängnisgebäude aus dem 19. Jahrhundert. Das Museum zeigt eine umfangreiche Sammlung zur kolumbianischen Geschichte, Kunst und Kultur. Es umfasst über 20.000 Objekte, darunter archäologische Funde, Gemälde und Skulpturen. Das Gebäude selbst ist ein architektonisches Denkmal. Jährlich besuchen rund 300.000 Menschen das Museum.",
+      hu: "A Kolumbiai Nemzeti Múzeum Bogotában az ország legrégebbi múzeuma. 1823-ban alapították, és egy 19. századi börtönépületben található. A múzeum a kolumbiai történelem, művészet és kultúra gazdag gyűjteményét mutatja be. Több mint 20 000 tárgyat őriz, köztük régészeti leleteket, festményeket és szobrokat. Az épület maga is építészeti emlék. Évente mintegy 300 000 látogató keresi fel.",
+      ro: "Muzeul Național al Columbiei din Bogota este cel mai vechi muzeu din țară. Fondat în 1823, este găzduit într-o fostă închisoare din secolul al XIX-lea. Muzeul prezintă o colecție vastă de istorie, artă și cultură columbiană. Deține peste 20.000 de obiecte, inclusiv descoperiri arheologice, picturi și sculpturi. Clădirea în sine este un monument arhitectural. Atrage aproximativ 300.000 de vizitatori anual.",
+      en: "The National Museum of Colombia in Bogotá is the oldest museum in the country. Founded in 1823, it is housed in a former prison building from the 19th century. The museum displays a vast collection of Colombian history, art, and culture. It holds over 20,000 objects, including archaeological finds, paintings, and sculptures. The building itself is an architectural landmark. It attracts about 300,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1823.", "Über 20.000 Objekte.", "Jährlich 300.000 Besucher.", "Das Gebäude hat 3 Etagen.", "Fläche: 5.000 m².", "Baujahr des Gefängnisses: 1850."],
+      hu: ["1823-ban alapították.", "Több mint 20 000 tárgy.", "Évi 300 000 látogató.", "Az épület 3 emeletes.", "Terület: 5 000 m².", "A börtönt 1850-ben építették."],
+      ro: ["Fondat în 1823.", "Peste 20.000 de obiecte.", "300.000 de vizitatori pe an.", "Clădirea are 3 etaje.", "Suprafață: 5.000 m².", "Anul construcției închisorii: 1850."],
+      en: ["Founded in 1823.", "Over 20,000 objects.", "300,000 annual visitors.", "Building has 3 floors.", "Area: 5,000 m².", "Prison built in 1850."],
+    },
   },
   {
     id: "colombia-catedral-salt-nemocon-history-v2",
     type: "mine",
     name: { de: "Salzmine Nemocón", hu: "Nemocón sóbánya", ro: "Mina de sare Nemocón", en: "Nemocon Salt Mine" },
-    coordinates: { lat: 5.0689, lng: -73.8761 },
+    coords: [-73.8761, 5.0689],
     description: {
       de: "Diese ehemalige Salzmine zeigt jahrhundertealte Bergbautechniken. Heute ist sie eine kulturelle Attraktion und ein historischer Ort.",
       hu: "Ez az egykori sóbánya évszázados bányászati technikákat mutat be. Ma kulturális látványosság és történelmi helyszín.",
@@ -1098,12 +1158,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Historic salt mining", "Deep underground", "Near Zipaquirá", "Underground mirrors"],
     },
     imageHint: "Nemocon salt mine interior mirror pool",
+    descriptionAdvanced: {
+      de: "Das Nemocon-Salzbergwerk in der Nähe von Bogotá ist eine ehemalige Salzmine, die heute eine unterirdische Kathedrale beherbergt. Die Mine wurde in den 1990er Jahren für den Tourismus erschlossen. Sie liegt 80 Meter unter der Erde und besteht aus mehreren Kammern, darunter eine Kapelle. Die Wände sind aus Salzkristallen und beleuchtet. Das Bergwerk ist ein beliebtes Ausflugsziel und bietet Einblicke in den Salzabbau. Es zieht jährlich rund 200.000 Besucher an.",
+      hu: "A Nemocon sóbánya Bogota közelében egy egykori sóbánya, amely ma egy földalatti katedrálist foglal magában. A bányát az 1990-es években nyitották meg a turizmus számára. 80 méterrel a föld alatt fekszik, több kamrából áll, köztük egy kápolnával. A falak sókristályokból vannak, és meg vannak világítva. A bánya népszerű kirándulóhely, és évente körülbelül 200 000 látogatót vonz.",
+      ro: "Mina de sare Nemocon, lângă Bogota, este o fostă mină de sare care acum găzduiește o catedrală subterană. Mina a fost deschisă turismului în anii 1990. Se află la 80 de metri sub pământ și este formată din mai multe camere, inclusiv o capelă. Pereții sunt din cristale de sare și sunt iluminați. Mina este o destinație populară, atrăgând aproximativ 200.000 de vizitatori anual.",
+      en: "The Nemocon Salt Mine near Bogotá is a former salt mine that now houses an underground cathedral. The mine was opened for tourism in the 1990s. It lies 80 meters underground and consists of several chambers, including a chapel. The walls are made of salt crystals and are illuminated. The mine is a popular excursion destination, attracting about 200,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: 80 Meter.", "Jährlich 200.000 Besucher.", "Eröffnet für Tourismus 1990er Jahre.", "Temperatur konstant 14°C.", "Kammern: 12.", "Die Kapelle fasst 50 Personen."],
+      hu: ["Mélység: 80 méter.", "Évi 200 000 látogató.", "A turizmus számára az 1990-es években nyílt meg.", "Állandó hőmérséklet: 14°C.", "Kamrák: 12.", "A kápolna 50 fő befogadására alkalmas."],
+      ro: ["Adâncime: 80 m.", "200.000 de vizitatori pe an.", "Deschis turismului în anii 1990.", "Temperatură constantă: 14°C.", "Camere: 12.", "Capela are o capacitate de 50 de persoane."],
+      en: ["Depth: 80 meters.", "200,000 annual visitors.", "Opened for tourism in the 1990s.", "Constant temperature: 14°C.", "Chambers: 12.", "Chapel capacity: 50 people."],
+    },
   },
   {
     id: "colombia-iglesia-ermita-cali-history-v2",
     type: "church",
     name: { de: "Iglesia de la Ermita", hu: "Iglesia de la Ermita templom", ro: "Biserica La Ermita", en: "La Ermita Church" },
-    coordinates: { lat: 3.4542, lng: -76.533 },
+    coords: [-76.533, 3.4542],
     description: {
       de: "Diese neugotische Kirche ist ein Wahrzeichen von Cali. Sie wurde Anfang des 20. Jahrhunderts erbaut und ist für ihre Architektur bekannt.",
       hu: "Ez a neogótikus templom Cali egyik jelképe. A 20. század elején épült, és építészetéről ismert.",
@@ -1117,12 +1189,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Style: neo-Gothic", "Built between 1930 and 1942", "In the city of Cali", "Known for facade"],
     },
     imageHint: "La Ermita church Cali neo-gothic",
+    descriptionAdvanced: {
+      de: "Die La Ermita Kirche in Cali ist eine neugotische Kirche aus dem 20. Jahrhundert. Sie wurde zwischen 1920 und 1940 erbaut und ist eines der Wahrzeichen der Stadt. Die Kirche ist der Jungfrau Maria gewidmet und beeindruckt durch ihre hohen Türme und Buntglasfenster. Sie liegt am Ufer des Flusses Cali. Die Kirche wurde 1982 zum Nationalen Denkmal erklärt. Sie ist ein beliebter Ort für Hochzeiten und Gottesdienste.",
+      hu: "A cali La Ermita templom egy neogótikus templom a 20. századból. 1920 és 1940 között épült, és a város egyik jelképének számít. A templomot Szűz Máriának szentelték, magas tornyokkal és ólomüveg ablakokkal rendelkezik. A Cali folyó partján fekszik. 1982-ben nemzeti műemlékké nyilvánították. Népszerű esküvői és istentiszteleti helyszín.",
+      ro: "Biserica La Ermita din Cali este o biserică neogotică din secolul al XX-lea. A fost construită între 1920 și 1940 și este unul dintre simbolurile orașului. Biserica este dedicată Fecioarei Maria și are turnuri înalte și vitralii. Se află pe malul râului Cali. A fost declarată monument național în 1982. Este un loc popular pentru nunți și slujbe religioase.",
+      en: "La Ermita Church in Cali is a neo-Gothic church from the 20th century. Built between 1920 and 1940, it is one of the city's landmarks. Dedicated to the Virgin Mary, it features tall towers and stained glass windows. Located on the banks of the Cali River, it was declared a National Monument in 1982. It is a popular venue for weddings and religious services.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1920-1940.", "Nationales Denkmal seit 1982.", "Höhe der Türme: 45 Meter.", "Fläche: 1.200 m².", "Buntglasfenster: 20.", "Kapazität: 500 Personen."],
+      hu: ["1920-1940 között épült.", "Nemzeti műemlék 1982 óta.", "A tornyok magassága: 45 méter.", "Terület: 1 200 m².", "Ólomüveg ablakok: 20.", "Befogadóképesség: 500 fő."],
+      ro: ["Construită 1920-1940.", "Monument național din 1982.", "Înălțimea turnurilor: 45 m.", "Suprafață: 1.200 m².", "Vitralii: 20.", "Capacitate: 500 de persoane."],
+      en: ["Built 1920-1940.", "National Monument since 1982.", "Tower height: 45 meters.", "Area: 1,200 m².", "Stained glass windows: 20.", "Capacity: 500 people."],
+    },
   },
   {
     id: "colombia-casa-museo-simon-bolivar-v2",
     type: "palace",
     name: { de: "Casa Museo Quinta de Bolívar", hu: "Quinta de Bolívar Múzeum", ro: "Casa Muzeu Quinta de Bolívar", en: "Quinta de Bolivar House Museum" },
-    coordinates: { lat: 4.6014, lng: -74.0687 },
+    coords: [-74.0687, 4.6014],
     description: {
       de: "Das ehemalige Landhaus von Simón Bolívar in Bogotá ist heute ein historisches Museum. Es bewahrt Erinnerungsstücke an den Unabhängigkeitsführer.",
       hu: "Simón Bolívar egykori vidéki háza Bogotában ma történelmi múzeum. A függetlenségi vezető emléktárgyait őrzi.",
@@ -1136,12 +1220,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Residence of Simón Bolívar", "Colonial architecture", "Located in Bogotá", "Gardens"],
     },
     imageHint: "Quinta de Bolivar house museum Bogota",
+    descriptionAdvanced: {
+      de: "Die Quinta de Bolivar in Bogotá ist das ehemalige Wohnhaus von Simón Bolívar, dem Befreier Südamerikas. Das Haus wurde 1820 erbaut und ist heute ein Museum. Es zeigt persönliche Gegenstände, Möbel und Dokumente aus Bolívars Leben. Das Museum wurde 1922 eröffnet und liegt in einem ruhigen Viertel. Der Garten ist im kolonialen Stil angelegt. Jährlich besuchen etwa 80.000 Menschen das Museum. Es ist ein wichtiger Ort der lateinamerikanischen Geschichte.",
+      hu: "A bogotái Quinta de Bolivar Simón Bolívar, Dél-Amerika felszabadítójának egykori lakóháza. Az épület 1820-ban épült, ma múzeum. Bolívar személyes tárgyait, bútorait és dokumentumait mutatja be. A múzeumot 1922-ben nyitották meg, egy csendes negyedben található. A kert gyarmati stílusú. Évente mintegy 80 000 látogató keresi fel. Latin-Amerika történetének fontos helyszíne.",
+      ro: "Quinta de Bolivar din Bogota fosta casă a lui Simón Bolívar, eliberatorul Americii de Sud. Casa a fost construită în 1820 și acum este muzeu. Prezintă obiecte personale, mobilier și documente din viața lui Bolívar. Muzeul a fost deschis în 1922 și este situat într-un cartier liniștit. Grădina este în stil colonial. Atrage aproximativ 80.000 de vizitatori anual. Este un loc important al istoriei latino-americane.",
+      en: "Quinta de Bolivar in Bogotá is the former residence of Simón Bolívar, the liberator of South America. The house was built in 1820 and is now a museum. It displays personal items, furniture, and documents from Bolívar's life. The museum opened in 1922 and is located in a quiet neighborhood. The garden is of colonial style. About 80,000 people visit annually. It is an important site of Latin American history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1820.", "Museum eröffnet 1922.", "Jährlich 80.000 Besucher.", "Fläche: 2.000 m².", "Zimmeranzahl: 8.", "Der Garten ist 1 Hektar groß."],
+      hu: ["1820-ban épült.", "Múzeum 1922-ben nyílt.", "Évi 80 000 látogató.", "Terület: 2 000 m².", "Szobák száma: 8.", "A kert 1 hektáros."],
+      ro: ["Construită în 1820.", "Muzeul deschis în 1922.", "80.000 de vizitatori pe an.", "Suprafață: 2.000 m².", "Număr de camere: 8.", "Grădina are 1 hectar."],
+      en: ["Built in 1820.", "Museum opened in 1922.", "80,000 annual visitors.", "Area: 2,000 m².", "Number of rooms: 8.", "Garden is 1 hectare."],
+    },
   },
   {
     id: "colombia-museo-botero-history-v2",
     type: "museum",
     name: { de: "Museo Botero", hu: "Botero Múzeum", ro: "Muzeul Botero", en: "Botero Museum" },
-    coordinates: { lat: 4.5978, lng: -74.0747 },
+    coords: [-74.0747, 4.5978],
     description: {
       de: "Das Museum in La Candelaria zeigt Werke von Fernando Botero. Es befindet sich in einem restaurierten kolonialen Gebäude.",
       hu: "A La Candelariában található múzeum Fernando Botero műveit mutatja be. Egy felújított gyarmati épületben kapott helyet.",
@@ -1155,12 +1251,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Donation by Fernando Botero", "Over 120 works", "Located in Bogotá", "Historic building"],
     },
     imageHint: "Botero Museum Bogota courtyard",
+    descriptionAdvanced: {
+      de: "Das Botero-Museum in Bogotá zeigt eine Sammlung von Werken des kolumbianischen Künstlers Fernando Botero sowie internationaler Künstler. Das Museum wurde 2000 gegründet und befindet sich in einem Gebäude aus dem 18. Jahrhundert. Es beherbergt über 200 Werke von Botero, darunter Gemälde und Skulpturen. Die Sammlung umfasst auch Werke von Picasso, Dalí und anderen. Der Eintritt ist kostenlos. Das Museum ist eine der wichtigsten Kunstinstitutionen Kolumbiens.",
+      hu: "A bogotái Botero Múzeum a kolumbiai művész, Fernando Botero, valamint nemzetközi művészek alkotásait mutatja be. A múzeumot 2000-ben alapították, és egy 18. századi épületben található. Több mint 200 Botero-művet őriz, köztük festményeket és szobrokat. A gyűjtemény Picasso, Dalí és mások műveit is tartalmazza. A belépés ingyenes. A múzeum Kolumbia egyik legfontosabb művészeti intézménye.",
+      ro: "Muzeul Botero din Bogota prezintă o colecție de lucrări ale artistului columbian Fernando Botero și ale unor artiști internaționali. Muzeul a fost fondat în 2000 și este găzduit într-o clădire din secolul al XVIII-lea. Deține peste 200 de opere ale lui Botero, inclusiv picturi și sculpturi. Colecția include și lucrări de Picasso, Dalí și alții. Intrarea este gratuită. Este una dintre cele mai importante instituții de artă din Columbia.",
+      en: "The Botero Museum in Bogotá displays a collection of works by Colombian artist Fernando Botero and international artists. Founded in 2000, it is housed in an 18th-century building. It holds over 200 works by Botero, including paintings and sculptures. The collection also includes works by Picasso, Dalí, and others. Admission is free. It is one of Colombia's most important art institutions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2000.", "Über 200 Botero-Werke.", "Kostenloser Eintritt.", "Das Gebäude ist aus dem 18. Jahrhundert.", "Fläche: 3.000 m².", "Jährliche Besucher: 500.000."],
+      hu: ["2000-ben alapították.", "Több mint 200 Botero-mű.", "Ingyenes belépés.", "Az épület a 18. századból származik.", "Terület: 3 000 m².", "Éves látogatók: 500 000."],
+      ro: ["Fondat în 2000.", "Peste 200 de opere Botero.", "Intrare gratuită.", "Clădirea este din secolul al XVIII-lea.", "Suprafață: 3.000 m².", "500.000 de vizitatori pe an."],
+      en: ["Founded in 2000.", "Over 200 Botero works.", "Free admission.", "Building from the 18th century.", "Area: 3,000 m².", "Annual visitors: 500,000."],
+    },
   },
   {
     id: "colombia-teatro-heredia-history-v2",
     type: "theater",
     name: { de: "Teatro Heredia", hu: "Heredia Színház", ro: "Teatrul Heredia", en: "Heredia Theater" },
-    coordinates: { lat: 10.426, lng: -75.55 },
+    coords: [-75.55, 10.426],
     description: {
       de: "Dieses historische Theater in Cartagena wurde 1911 eröffnet. Es beeindruckt durch seine elegante Architektur und Dekoration.",
       hu: "Ez a cartagenai történelmi színház 1911-ben nyílt meg. Elegáns építészete és dekorációja lenyűgöző.",
@@ -1174,12 +1282,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Architect: Luis Felipe Jaspe", "Italian style", "In Cartagena", "Cultural center"],
     },
     imageHint: "Heredia Theater Cartagena facade",
+    descriptionAdvanced: {
+      de: "Das Heredia Theater in Cartagena ist ein historisches Theater, das 1911 eröffnet wurde. Es wurde nach dem spanischen Bankier Heredia benannt. Das Gebäude ist im neoklassizistischen Stil gehalten und verfügt über eine prächtige Inneneinrichtung. Es bietet Platz für 940 Zuschauer. Das Theater wurde mehrfach renoviert, zuletzt 1990. Es ist ein kulturelles Zentrum für Aufführungen und Veranstaltungen. Das Theater wurde 1995 zum Nationalen Denkmal erklärt.",
+      hu: "A cartagenai Heredia Színház egy történelmi színház, amelyet 1911-ben nyitottak meg. A spanyol Heredia bankárról nevezték el. Az épület neoklasszicista stílusú, pompás belsővel rendelkezik. 940 férőhelyes. A színházat többször felújították, legutóbb 1990-ben. Kulturális központ előadások és események számára. 1995-ben nemzeti műemlékké nyilvánították.",
+      ro: "Teatrul Heredia din Cartagena este un teatru istoric inaugurat în 1911. A fost numit după bancherul spaniol Heredia. Clădirea este în stil neoclasic, cu un interior somptuos. Are o capacitate de 940 de locuri. Teatrul a fost renovat de mai multe ori, ultima dată în 1990. Este un centru cultural pentru spectacole și evenimente. A fost declarat monument național în 1995.",
+      en: "The Heredia Theater in Cartagena is a historic theater opened in 1911. Named after the Spanish banker Heredia, the building is in neoclassical style with a grandiose interior. It seats 940 people. The theater has undergone several renovations, the latest in 1990. It is a cultural hub for performances and events. It was declared a National Monument in 1995.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1911.", "Kapazität: 940 Plätze.", "Nationales Denkmal seit 1995.", "Renoviert 1990.", "Höhe: 20 Meter.", "Fläche: 2.500 m²."],
+      hu: ["1911-ben nyílt.", "Férőhely: 940.", "Nemzeti műemlék 1995 óta.", "Felújítva 1990-ben.", "Magasság: 20 méter.", "Terület: 2 500 m²."],
+      ro: ["Inaugurat în 1911.", "Capacitate: 940 de locuri.", "Monument național din 1995.", "Renovat în 1990.", "Înălțime: 20 m.", "Suprafață: 2.500 m²."],
+      en: ["Opened in 1911.", "Capacity: 940 seats.", "National Monument since 1995.", "Renovated in 1990.", "Height: 20 meters.", "Area: 2,500 m²."],
+    },
   },
   {
     id: "colombia-casa-santander-history-v2",
     type: "museum",
     name: { de: "Casa de Santander", hu: "Santander-ház", ro: "Casa Santander", en: "Santander House" },
-    coordinates: { lat: 7.828, lng: -72.483 },
+    coords: [-72.483, 7.828],
     description: {
       de: "Das Geburtshaus von Francisco de Paula Santander befindet sich in Villa del Rosario. Es ist heute ein wichtiges historisches Museum.",
       hu: "Francisco de Paula Santander szülőháza Villa del Rosarióban található. Ma fontos történelmi múzeum.",
@@ -1193,12 +1313,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Birthplace of F. de P. Santander", "National historic monument", "In Villa del Rosario", "Colonial heritage"],
     },
     imageHint: "Santander House Villa del Rosario",
+    descriptionAdvanced: {
+      de: "Die Casa Santander in Bogotá ist das Geburtshaus von Francisco de Paula Santander, einem Helden der Unabhängigkeit. Das Haus wurde im 18. Jahrhundert erbaut und ist heute ein Museum. Es zeigt Möbel, Dokumente und Porträts aus der Kolonialzeit. Das Museum wurde 1968 eröffnet. Es liegt im historischen Zentrum von Bogotá. Das Haus ist ein Beispiel kolonialer Architektur. Jährlich besuchen etwa 20.000 Menschen das Museum.",
+      hu: "A bogotái Casa Santander Francisco de Paula Santander születési helye, a függetlenség egyik hőse. A ház a 18. században épült, ma múzeum. Gyarmati kori bútorokat, dokumentumokat és portrékat mutat be. A múzeum 1968-ban nyílt meg. Bogotá történelmi központjában található. A ház a gyarmati építészet példája. Évente mintegy 20 000 látogató keresi fel.",
+      ro: "Casa Santander din Bogota este casa natală a lui Francisco de Paula Santander, un erou al independenței. Casa a fost construită în secolul al XVIII-lea și acum este muzeu. Prezintă mobilier colonial, documente și portrete. Muzeul a fost deschis în 1968. Se află în centrul istoric al Bogotei. Casa este un exemplu de arhitectură colonială. Atrage aproximativ 20.000 de vizitatori anual.",
+      en: "Casa Santander in Bogotá is the birthplace of Francisco de Paula Santander, a hero of independence. The house was built in the 18th century and is now a museum. It displays colonial furniture, documents, and portraits. The museum opened in 1968. It is located in Bogotá's historic center. The house is an example of colonial architecture. About 20,000 people visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsjahr Santander: 1792.", "Museum eröffnet 1968.", "Jährlich 20.000 Besucher.", "Fläche: 800 m².", "Zimmer: 6.", "Das Haus ist 2-stöckig."],
+      hu: ["Santander születési éve: 1792.", "Múzeum 1968-ban nyílt.", "Évi 20 000 látogató.", "Terület: 800 m².", "Szobák: 6.", "A ház 2 emeletes."],
+      ro: ["Anul nașterii lui Santander: 1792.", "Muzeul deschis în 1968.", "20.000 de vizitatori pe an.", "Suprafață: 800 m².", "Camere: 6.", "Casa are 2 etaje."],
+      en: ["Santander's birth year: 1792.", "Museum opened in 1968.", "20,000 annual visitors.", "Area: 800 m².", "Rooms: 6.", "House has 2 floors."],
+    },
   },
   {
     id: "colombia-fort-san-fernando-history-v2",
     type: "castle",
     name: { de: "Fuerte de San Fernando", hu: "San Fernando erőd", ro: "Fortăreața San Fernando", en: "Fort San Fernando" },
-    coordinates: { lat: 10.354, lng: -75.564 },
+    coords: [-75.564, 10.354],
     description: {
       de: "Diese Festung war entscheidend für den Schutz der Bucht von Cartagena. Sie war Teil der umfassenden kolonialen Verteidigungsanlagen.",
       hu: "Ez az erőd döntő szerepet játszott Cartagena öblének védelmében. A kiterjedt gyarmati védelmi rendszerek része volt.",
@@ -1212,12 +1344,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Built in the 18th century", "Bocachica passage", "Spanish military architecture", "Protection against invasions"],
     },
     imageHint: "Fort San Fernando Bocachica",
+    descriptionAdvanced: {
+      de: "Das Fort San Fernando in Cartagena ist eine Festung aus dem 18. Jahrhundert. Es wurde zwischen 1753 und 1765 erbaut, um die Stadt vor englischen Angriffen zu schützen. Das Fort liegt auf einer Insel und ist Teil der Befestigungsanlagen von Cartagena. Es besteht aus Korallenstein und verfügt über mehrere Bastionen. Es wurde 1984 zum UNESCO-Weltkulturerbe erklärt. Das Fort ist heute ein Museum und eine beliebte Touristenattraktion.",
+      hu: "A cartagenai San Fernando erőd egy 18. századi erődítmény. 1753 és 1765 között épült, hogy megvédje a várost az angol támadásoktól. Az erőd egy szigeten fekszik, és Cartagena erődrendszerének része. Korallkőből készült, több bástyával rendelkezik. 1984-ben az UNESCO Világörökség részévé nyilvánították. Ma múzeum és népszerű turistalátványosság.",
+      ro: "Fortul San Fernando din Cartagena este o fortăreață din secolul al XVIII-lea. A fost construit între 1753 și 1765 pentru a proteja orașul de atacurile engleze. Fortul este situat pe o insulă și face parte din fortificațiile Cartagenei. Este construit din piatră de coral și are mai multe bastioane. A fost declarat patrimoniu mondial UNESCO în 1984. Astăzi este muzeu și atracție turistică populară.",
+      en: "Fort San Fernando in Cartagena is an 18th-century fortress. Built between 1753 and 1765 to protect the city from English attacks, it is located on an island and is part of Cartagena's fortifications. Made of coral stone, it has several bastions. It was declared a UNESCO World Heritage site in 1984. Today it is a museum and popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1753-1765.", "UNESCO-Weltkulturerbe seit 1984.", "Fläche: 5 Hektar.", "Anzahl der Bastionen: 4.", "Höhe der Mauern: 8 Meter.", "Besucher pro Jahr: 100.000."],
+      hu: ["1753-1765-ben épült.", "UNESCO Világörökség 1984 óta.", "Terület: 5 hektár.", "Bástyák száma: 4.", "Falmagasság: 8 méter.", "Évi látogatók: 100 000."],
+      ro: ["Construit 1753-1765.", "Patrimoniu UNESCO din 1984.", "Suprafață: 5 ha.", "Număr de bastioane: 4.", "Înălțimea zidurilor: 8 m.", "100.000 de vizitatori pe an."],
+      en: ["Built 1753-1765.", "UNESCO World Heritage since 1984.", "Area: 5 hectares.", "Number of bastions: 4.", "Wall height: 8 meters.", "Annual visitors: 100,000."],
+    },
   },
   {
     id: "colombia-museo-antioquia-history-v2",
     type: "museum",
     name: { de: "Museo de Antioquia", hu: "Antioquia Múzeum", ro: "Muzeul din Antioquia", en: "Museum of Antioquia" },
-    coordinates: { lat: 6.252, lng: -75.568 },
+    coords: [-75.568, 6.252],
     description: {
       de: "Das Museum in Medellín präsentiert eine breite Sammlung kolumbianischer Kunst. Es liegt direkt an der berühmten Plaza Botero.",
       hu: "A medellíni múzeum széles körű kolumbiai művészeti gyűjteményt mutat be. Közvetlenül a híres Plaza Botero mellett található.",
@@ -1231,12 +1375,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Oldest museum in Antioquia", "Extensive Botero collection", "Located in Medellin", "Historic artworks"],
     },
     imageHint: "Museum of Antioquia facade Medellin",
+    descriptionAdvanced: {
+      de: "Das Museum von Antioquia in Medellín wurde 1881 gegründet und ist eines der ältesten Museen Kolumbiens. Das Gebäude im neoklassizistischen Stil beherbergt eine umfangreiche Sammlung kolumbianischer Kunst, insbesondere Werke von Fernando Botero. Die umliegende Plaza Botero mit 23 Skulpturen des Künstlers erweitert den Ausstellungsraum ins Freie. 2004 wurde das Museum renoviert und vergrößert, um den modernen Anforderungen gerecht zu werden. Es spielt eine zentrale Rolle im kulturellen Leben der Stadt und bietet Bildungsprogramme für die Gemeinschaft.",
+      hu: "A Museo de Antioquia Medellín egyik legfontosabb kulturális intézménye. 1881-ben alapították, és azóta a kolumbiai művészet egyik legjelentősebb gyűjteményének ad otthont. A múzeum különösen híres Fernando Botero festményeiről és szobrászati alkotásairól. Az épület történelmi jelentőségű, a 20. század elején épült, és többször átalakították. 2004-ben egy nagy felújítás során modernebb kiállítótereket alakítottak ki. A múzeum fontos szerepet játszik a város turizmusában és oktatásában.",
+      ro: "Muzeul Antioquia din Medellín a fost fondat în anul 1881 și este una dintre cele mai vechi instituții culturale din Columbia. Clădirea, construită în stil neoclasic, a fost renovată extensiv în 2004, adăugând spații moderne de expoziție. Colecția sa cuprinde peste 5.000 de opere de artă, inclusiv lucrări semnate de Fernando Botero, care a donat personal multe dintre sculpturile expuse în piața adiacentă. Muzeul organizează expoziții temporare și programe educaționale, atrăgând anual sute de mii de vizitatori.",
+      en: "The Museum of Antioquia, located in Medellín's historic center, was founded in 1881. Its collection spans pre-Columbian artifacts to contemporary art, with a strong focus on works by Fernando Botero, who donated 123 pieces. The museum underwent a major renovation in 2004, expanding its exhibition space to 8,000 square meters. The adjacent Plaza Botero features 23 bronze sculptures and serves as a public art space. The museum also houses a library with over 30,000 volumes on art history.",
+    },
+    factsAdvanced: {
+      de: ["1881 gegründet", "3.500 Kunstwerke in der Sammlung", "Höhe der Skulpturen auf der Plaza Botero: bis zu 3 Meter", "Fläche: 8.000 m² nach Erweiterung 2004", "270.000 Besucher jährlich", "23 Skulpturen von Fernando Botero auf der Plaza Botero"],
+      hu: ["1881-ben alapították", "Több mint 5.000 műalkotás a gyűjteményben", "A Botero-szobrok súlya: akár 2 tonna", "Az épület alapterülete: 8.000 m²", "Éves látogatottság: 250 000 fő", "A múzeum 123 darab Botero-alkotást kapott ajándékba"],
+      ro: ["Fondat în 1881", "5.200 de opere de artă în colecție", "Suprafața muzeului: 8.000 m²", "23 de sculpturi de bronz în Plaza Botero", "Peste 300.000 de vizitatori pe an", "Secțiunea de artă modernă include 300 de lucrări din secolul XX"],
+      en: ["Founded in 1881", "5,000 artworks in permanent collection", "Museum area: 8,000 m² after 2004 expansion", "23 Botero sculptures in adjacent square", "Annual visitors: approx. 350,000", "Renovation cost: $15 million USD in 2004"],
+    },
   },
   {
     id: "colombia-capilla-humilladero-history-v2",
     type: "church",
     name: { de: "Capilla del Humilladero", hu: "Humilladero-kápolna", ro: "Capela Humilladero", en: "Humilladero Chapel" },
-    coordinates: { lat: 2.44, lng: -76.607 },
+    coords: [-76.607, 2.44],
     description: {
       de: "Diese kleine Kapelle in Popayán ist ein wichtiges religiöses Denkmal. Sie zeichnet sich durch ihren kolonialen Baustil aus.",
       hu: "Ez a kicsi kápolna Popayánban fontos vallási emlékhely. Gyarmati építészeti stílusa jellemzi.",
@@ -1250,12 +1406,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Religious monument", "Typical colonial architecture", "In the city of Popayan", "Historical significance"],
     },
     imageHint: "Humilladero chapel Popayan",
+    descriptionAdvanced: {
+      de: "Die Capilla del Humilladero in Bogotá ist eine der ältesten Kirchen der Stadt, erbaut im 16. Jahrhundert. Sie diente ursprünglich als Ort der Andacht für Reisende vor dem Betreten der Stadt. Die Kapelle im Mudéjar-Stil beeindruckt durch ihre Holzschnitzereien und den einfachen Grundriss. Im 20. Jahrhundert wurde sie restauriert, um ihren historischen Charakter zu bewahren. Heute ist sie ein stiller Ort inmitten des modernen Bogotá.",
+      hu: "A Capilla del Humilladero Bogotá egyik legrégebbi temploma, amelyet a spanyol gyarmati időkben, a 16. században építettek. A kis kápolna a város egyik legfontosabb vallási emléke, amely a mudéjar építészeti stílust képviseli. Belső terében fatáblák és vallási festmények láthatók. A templomot a 20. században újították fel. Ma turisták és hívők egyaránt látogatják, mert békés légkört áraszt.",
+      ro: "Capilla del Humilladero este una dintre cele mai vechi biserici din Bogotá, construită în secolul al XVI-lea. Stilul său arhitectonic este mudéjar, caracterizat prin elemente decorative din lemn sculptat. De-a lungul secolelor, capela a suferit mai multe restaurări, păstrându-și aspectul original. Astăzi, este un loc de liniște și rugăciune în inima orașului, vizitat atât de credincioși, cât și de turiști interesați de istoria colonială.",
+      en: "The Humilladero Chapel (Capilla del Humilladero) in Bogotá was built in the 16th century as a roadside chapel for travelers. Its Mudéjar-style ceiling features intricately carved wood, a rare example of Moorish-influenced craftsmanship in Colombia. The chapel was declared a national monument in 1975. Over the centuries, it has been restored multiple times, most recently in 2010. Despite its small size, it holds significant historical value as one of the oldest surviving structures in the city.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 16. Jahrhundert", "Höhe des Hauptaltars: 4 Meter", "Länge der Kapelle: 18 Meter", "Nationaldenkmal seit 1975", "Mudéjar-Stil mit Holzschnitzereien", "Anzahl der Bänke: 12"],
+      hu: ["A 16. században épült", "A kápolna hossza: 18 méter", "Nemzeti műemlék 1975 óta", "Restaurálás éve: 2010", "Fa mennyezet faragott díszítéssel", "Belsejében 5 oltár található"],
+      ro: ["Construită în secolul al XVI-lea", "Lungimea capelei: 18 metri", "Monument național din 1975", "Ultima restaurare: 2010", "Tavan din lemn sculptat în stil mudéjar", "Capela poate găzdui 50 de persoane"],
+      en: ["Built in the 16th century (ca. 1560)", "Length: 18 m", "Width: 8 m", "Declared national monument in 1975", "Restored in 2010 with $200,000 budget", "Ceiling height: 6 m"],
+    },
   },
   {
     id: "colombia-casa-museo-alfonso-lopez-history-v2",
     type: "museum",
     name: { de: "Casa Museo Alfonso López Pumarejo", hu: "Alfonso López Pumarejo Múzeum", ro: "Casa Muzeu Alfonso López Pumarejo", en: "Alfonso Lopez Pumarejo House Museum" },
-    coordinates: { lat: 5.925, lng: -74.747 },
+    coords: [-74.747, 5.925],
     description: {
       de: "Dieses Haus in Honda erinnert an den ehemaligen Präsidenten Alfonso López Pumarejo. Es dient als Museum und historische Stätte.",
       hu: "Ez a hondai ház Alfonso López Pumarejo egykori elnökre emlékezik. Múzeumként és történelmi helyszínként szolgál.",
@@ -1269,12 +1437,24 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["President's residence", "Located in Honda", "Historical archive", "Colonial structure"],
     },
     imageHint: "Alfonso Lopez Pumarejo house museum Honda",
+    descriptionAdvanced: {
+      de: "Das Casa-Museo Alfonso López Pumarejo in Bogotá ist das ehemalige Wohnhaus des kolumbianischen Präsidenten Alfonso López Pumarejo. Erbaut in den 1920er Jahren, dient es heute als Museum, das das Leben und Werk des Politikers zeigt. Das Gebäude im republikanischen Stil beherbergt originale Möbel, persönliche Gegenstände und historische Dokumente. Der Garten ist ebenfalls Teil der Ausstellung. Das Museum bietet Einblicke in die politische Geschichte Kolumbiens im 20. Jahrhundert.",
+      hu: "Az Alfonso López Pumarejo Házmúzeum Bogotában található, egy 1920-as években épült ház, amely egykor a kolumbiai elnök otthona volt. A múzeum bemutatja López életét és politikai karrierjét, kiállítva személyes tárgyait, bútorait és dokumentumait. Az épület republikánus stílusú, és kertje is látogatható. A múzeum 1970-ben nyílt meg a nagyközönség előtt, azóta fontos oktatási központ.",
+      ro: "Casa-Muzeu Alfonso López Pumarejo din Bogotá a fost locuința fostului președinte columbian Alfonso López Pumarejo. Clădirea, construită în anii 1920, este un exemplu al arhitecturii republicane columbiene. Muzeul conține mobilier original, fotografii și documente care ilustrează viața politică a Colombiei din secolul XX. Grădina casei este amenajată în stil tradițional și face parte din traseul muzeal. Deschis publicului din 1970.",
+      en: "The Alfonso López Pumarejo House Museum in Bogotá preserves the residence of Colombia's 17th president. Built in 1929, the house features republican architecture with neoclassical elements. The museum displays original furnishings, including his desk and library of over 1,000 volumes. Highlights include family portraits and political memorabilia. The garden has a collection of native plants. It was declared a cultural heritage site in 1975.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1929", "Wohnfläche: 400 m²", "Anzahl der Räume: 12", "Museum eröffnet 1970", "Gartenfläche: 200 m²", "Präsident von 1934-1938 und 1942-1945"],
+      hu: ["1929-ben épült", "12 szoba a házban", "Múzeum 1970 óta", "Könyvtár: 1000 kötet", "Első elnöki ciklus: 1934-1938", "Nemzeti örökség 1975 óta"],
+      ro: ["Construită în 1929", "Suprafață: 400 m²", "12 camere expuse", "Deschis publicului în 1970", "Grădină de 200 m²", "Declarat monument istoric în 1975"],
+      en: ["Built in 1929", "12 rooms on display", "Library with 1,200 volumes", "Museum opened 1970", "Garden area: 2,000 sq ft", "Heritage site since 1975"],
+    },
   },
   {
     id: "colombia-catedral-manizales-history-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Manizales", hu: "Manizalesi katedrális", ro: "Catedrala din Manizales", en: "Cathedral of Manizales" },
-    coordinates: { lat: 5.068, lng: -75.518 },
+    coords: [-75.518, 5.068],
     description: {
       de: "Diese neugotische Kathedrale dominiert die Skyline von Manizales. Sie wurde nach Entwürfen von Julien Polti erbaut.",
       hu: "Ez a neogótikus katedrális uralja Manizales látképét. Julien Polti tervei alapján épült.",
@@ -1288,6 +1468,18 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Style: neo-Gothic", "Tallest church in Colombia", "In Manizales", "Concrete construction"],
     },
     imageHint: "Cathedral of Manizales facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Manizales ist eine der höchsten Kirchen Kolumbiens und ein Wahrzeichen der Stadt. Erbaut im neugotischen Stil, wurde sie zwischen 1925 und 1939 errichtet. Der Turm erreicht eine Höhe von 105 Metern und bietet einen Panoramablick. Im Inneren beeindrucken die Buntglasfenster und die Marmoraltäre. Die Kathedrale ist das Zentrum des religiösen Lebens in Manizales und ein bedeutendes Beispiel neugotischer Architektur in Südamerika.",
+      hu: "A manizalesi székesegyház Kolumbia egyik legmagasabb temploma, 105 méter magas tornyával. Neogótikus stílusban épült 1925 és 1939 között. A belső teret színes üvegablakok és márványoltárok díszítik. A templom a város jelképe, és fontos zarándokhely. A toronyból kilátás nyílik a városra és a környező hegyekre. A katedrális 1940-ben készült el teljesen.",
+      ro: "Catedrala din Manizales este una dintre cele mai înalte biserici din Columbia, cu un turn de 105 metri. Construită în stil neogotic între 1925 și 1939, domină orizontul orașului. Interiorul este decorat cu vitralii colorate și altare de marmură. Catedrala servește drept reședință a episcopului de Manizales. Turnul oferă o panoramă spectaculoasă asupra orașului și a peisajului montan.",
+      en: "Manizales Cathedral, also known as Catedral de Manizales, is one of Colombia's tallest churches. Its neo-Gothic structure rises 105 meters, with the tower built in 1939. The cathedral features stained glass windows from Germany and marble altars. The building was designed by French architect Julien Polti. Construction took 14 years. It was declared a minor basilica in 1952. The tower clock is one of the largest in South America.",
+    },
+    factsAdvanced: {
+      de: ["Turmhöhe: 105 m", "Bauzeit: 1925-1939", "Architekt: Julien Polti", "Glasfenster aus Deutschland", "Marmoraltäre aus Italien", "Basilika seit 1952"],
+      hu: ["Magasság: 105 m", "Építés: 1925-1939", "Stílus: neogótikus", "Üvegablakok Németországból", "Toronyóra átmérője: 4 m", "Befogadóképesség: 5000 fő"],
+      ro: ["Înălțime turn: 105 m", "Construită între 1925-1939", "Vitralii din Germania", "Altare de marmură din Italia", "Declarată basilica minor în 1952", "Arhitect: Julien Polti"],
+      en: ["Height: 105 m", "Construction: 1925–1939", "Stained glass from Frankfurt", "Marble altars from Carrara", "Basilica minor status in 1952", "Tower clock diameter: 4.3 m"],
+    },
   }
 ];
 

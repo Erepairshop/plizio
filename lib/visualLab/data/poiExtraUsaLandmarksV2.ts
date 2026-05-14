@@ -967,7 +967,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-alcatraz-island-landmarks-v2",
     type: "landmark",
     name: { de: "Alcatraz Insel", hu: "Alcatraz-sziget", ro: "Insula Alcatraz", en: "Alcatraz Island" },
-    coordinates: { lat: 37.827, lng: -122.4228 },
+    coords: [-122.4228, 37.827],
     description: {
       de: "Diese Insel in der Bucht von San Francisco war Standort eines ehemaligen Bundesgefängnisses. Heute ist sie ein touristisch erschlossenes historisches Denkmal.",
       hu: "A San Francisco-öbölben található sziget egykori szövetségi börtönnek adott otthont. Ma látogatható történelmi emlékhely.",
@@ -986,7 +986,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-solomon-r-guggenheim-museum-landmarks-v2",
     type: "museum",
     name: { de: "Solomon R. Guggenheim Museum", hu: "Solomon R. Guggenheim Múzeum", ro: "Muzeul Solomon R. Guggenheim", en: "Solomon R. Guggenheim Museum" },
-    coordinates: { lat: 40.783, lng: -73.957 },
+    coords: [-73.957, 40.783],
     description: {
       de: "Das von Frank Lloyd Wright entworfene Gebäude in New York beherbergt eine bedeutende Sammlung moderner und zeitgenössischer Kunst. Es ist für seine spiralförmige Architektur bekannt.",
       hu: "A Frank Lloyd Wright által tervezett New York-i épület jelentős modern és kortárs művészeti gyűjteménynek ad otthont. Spirális építészetéről híres.",
@@ -1005,7 +1005,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-georgia-state-capitol-landmarks-v2",
     type: "palace",
     name: { de: "Georgia State Capitol", hu: "Georgia Állami Kapitólium", ro: "Capitoliul Statului Georgia", en: "Georgia State Capitol" },
-    coordinates: { lat: 33.749, lng: -84.388 },
+    coords: [-84.388, 33.749],
     description: {
       de: "Dieses in Atlanta gelegene Gebäude dient als Sitz der Regierung des Bundesstaates Georgia. Es zeichnet sich durch seine mit Blattgold überzogene Kuppel aus.",
       hu: "Az Atlantában található épület Georgia állam kormányának székhelye. Jellegzetessége az aranyfüsttel bevont kupola.",
@@ -1024,7 +1024,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-cabrillo-national-monument-landmarks-v2",
     type: "monument",
     name: { de: "Cabrillo National Monument", hu: "Cabrillo Nemzeti Emlékmű", ro: "Monumentul Național Cabrillo", en: "Cabrillo National Monument" },
-    coordinates: { lat: 32.673, lng: -117.241 },
+    coords: [-117.241, 32.673],
     description: {
       de: "Dieses Denkmal in San Diego erinnert an die Landung von Juan Rodríguez Cabrillo in der Bucht von San Diego im Jahr 1542. Es bietet Ausblicke auf den Pazifik.",
       hu: "A San Diegó-i emlékmű Juan Rodríguez Cabrillo 1542-es, San Diegó-i öbölbe történt partraszállásának állít emléket. Kilátást nyújt a Csendes-óceánra.",
@@ -1043,7 +1043,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-mount-vernon-landmarks-v2",
     type: "palace",
     name: { de: "Mount Vernon", hu: "Mount Vernon", ro: "Mount Vernon", en: "Mount Vernon" },
-    coordinates: { lat: 38.721, lng: -77.086 },
+    coords: [-77.086, 38.721],
     description: {
       de: "Mount Vernon war das Anwesen von George Washington, dem ersten Präsidenten der Vereinigten Staaten. Es liegt am Ufer des Potomac River in Virginia.",
       hu: "Mount Vernon George Washington, az Egyesült Államok első elnökének birtoka volt. Virginia államban, a Potomac folyó partján található.",
@@ -1062,7 +1062,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-the-breakers-landmarks-v2",
     type: "palace",
     name: { de: "The Breakers", hu: "The Breakers", ro: "The Breakers", en: "The Breakers" },
-    coordinates: { lat: 41.468, lng: -71.296 },
+    coords: [-71.296, 41.468],
     description: {
       de: "Dieser prächtige Sommerwohnsitz in Newport, Rhode Island, wurde für die Vanderbilt-Familie erbaut. Es gilt als eines der bedeutendsten Beispiele des Gilded Age.",
       hu: "Ez a fényűző nyári rezidencia a Rhode Island-i Newportban épült a Vanderbilt család számára. Az aranykor egyik legjelentősebb példájának tartják.",
@@ -1081,7 +1081,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-hearst-castle-landmarks-v2",
     type: "castle",
     name: { de: "Hearst Castle", hu: "Hearst-kastély", ro: "Castelul Hearst", en: "Hearst Castle" },
-    coordinates: { lat: 35.685, lng: -121.166 },
+    coords: [-121.166, 35.685],
     description: {
       de: "Das von William Randolph Hearst in San Simeon, Kalifornien, erbaute Anwesen umfasst ein großes Hauptgebäude und zahlreiche Gästehäuser. Es ist heute ein staatliches historisches Monument.",
       hu: "A William Randolph Hearst által a kaliforniai San Simeonban építtetett birtok egy nagy főépületet és számos vendégházat foglal magában. Ma állami történelmi műemlék.",
@@ -1100,7 +1100,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-brigham-young-winter-home-landmarks-v2",
     type: "landmark",
     name: { de: "Brigham Young Winter Home", hu: "Brigham Young téli otthona", ro: "Casa de iarnă a lui Brigham Young", en: "Brigham Young Winter Home" },
-    coordinates: { lat: 37.104, lng: -113.585 },
+    coords: [-113.585, 37.104],
     description: {
       de: "Dieses historische Haus in St. George, Utah, diente Brigham Young während seiner Wintermonate als Wohnsitz. Es ist ein Beispiel für die Architektur der frühen Siedler.",
       hu: "Ez a történelmi ház a Utah állambeli St. George-ban Brigham Young téli rezidenciájaként szolgált. A korai telepesek építészetének egyik példája.",
@@ -1119,7 +1119,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-frank-lloyd-wright-home-and-studio-landmarks-v2",
     type: "landmark",
     name: { de: "Frank Lloyd Wright Home and Studio", hu: "Frank Lloyd Wright otthona és műterme", ro: "Casa și Studioul lui Frank Lloyd Wright", en: "Frank Lloyd Wright Home and Studio" },
-    coordinates: { lat: 41.887, lng: -87.801 },
+    coords: [-87.801, 41.887],
     description: {
       de: "Das in Oak Park, Illinois, gelegene Haus und Atelier war das erste Zuhause und Büro des Architekten Frank Lloyd Wright. Es zeigt die Entwicklung seines Prairie-Stils.",
       hu: "Az Illinois állambeli Oak Parkban található ház és műterem Frank Lloyd Wright építész első otthona és irodája volt. Megmutatja Prairie-stílusának fejlődését.",
@@ -1138,7 +1138,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-alamo-mission-landmarks-v2",
     type: "church",
     name: { de: "Alamo Mission", hu: "Alamo-misszió", ro: "Misiunea Alamo", en: "Alamo Mission" },
-    coordinates: { lat: 29.426, lng: -98.486 },
+    coords: [-98.486, 29.426],
     description: {
       de: "Die ehemalige spanische Mission in San Antonio, Texas, ist als Schauplatz der Schlacht von Alamo im Jahr 1836 bekannt. Sie ist heute ein Gedenkort.",
       hu: "A texasi San Antonióban található egykori spanyol misszió az 1836-os Alamo-i csata helyszíneként ismert. Ma emlékhely.",
@@ -1157,7 +1157,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-biltmore-estate-landmarks-v2",
     type: "palace",
     name: { de: "Biltmore Estate", hu: "Biltmore-birtok", ro: "Domeniul Biltmore", en: "Biltmore Estate" },
-    coordinates: { lat: 35.541, lng: -82.553 },
+    coords: [-82.553, 35.541],
     description: {
       de: "Dieses riesige Herrenhaus in Asheville, North Carolina, wurde Ende des 19. Jahrhunderts für George Washington Vanderbilt II erbaut. Es ist das größte Wohnhaus in privater Hand in den USA.",
       hu: "Ez az Asheville-i (Észak-Karolina) hatalmas kúria a 19. század végén épült George Washington Vanderbilt II számára. Ez az USA legnagyobb magántulajdonban lévő lakóháza.",
@@ -1176,7 +1176,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-national-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Washington National Cathedral", hu: "Washingtoni Nemzeti Székesegyház", ro: "Catedrala Națională din Washington", en: "Washington National Cathedral" },
-    coordinates: { lat: 38.928, lng: -77.072 },
+    coords: [-77.072, 38.928],
     description: {
       de: "Die Kathedrale in Washington, D.C., ist eine neugotische Kirche der Episkopalkirche. Sie dient als Ort für bedeutende nationale Gedenkfeiern.",
       hu: "A Washington D.C.-ben található székesegyház az episzkopális egyház neogótikus temploma. Jelentős nemzeti megemlékezések helyszíne.",
@@ -1195,7 +1195,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-grace-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Grace Cathedral", hu: "Grace székesegyház", ro: "Catedrala Grace", en: "Grace Cathedral" },
-    coordinates: { lat: 37.792, lng: -122.413 },
+    coords: [-122.413, 37.792],
     description: {
       de: "Die Grace Cathedral befindet sich in San Francisco auf dem Nob Hill. Sie ist bekannt für ihre Architektur im gotischen Stil und ihre Labyrinthe.",
       hu: "A Grace székesegyház San Franciscóban, a Nob Hillen található. Gótikus építészetéről és labirintusairól híres.",
@@ -1214,7 +1214,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-taft-museum-of-art-landmarks-v2",
     type: "museum",
     name: { de: "Taft Museum of Art", hu: "Taft Művészeti Múzeum", ro: "Muzeul de Artă Taft", en: "Taft Museum of Art" },
-    coordinates: { lat: 39.101, lng: -84.505 },
+    coords: [-84.505, 39.101],
     description: {
       de: "Das Taft Museum of Art in Cincinnati, Ohio, befindet sich in einem historischen Haus aus dem frühen 19. Jahrhundert. Es beherbergt eine bedeutende Sammlung europäischer Gemälde.",
       hu: "A cincinnati-i (Ohio) Taft Művészeti Múzeum egy 19. század eleji történelmi házban található. Jelentős európai festménygyűjteménynek ad otthont.",
@@ -1233,7 +1233,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-grand-canyon-skywalk-landmarks-v2",
     type: "landmark",
     name: { de: "Grand Canyon Skywalk", hu: "Grand Canyon Skywalk", ro: "Grand Canyon Skywalk", en: "Grand Canyon Skywalk" },
-    coordinates: { lat: 36.011, lng: -113.811 },
+    coords: [-113.811, 36.011],
     description: {
       de: "Diese hufeisenförmige Aussichtsplattform ragt über den Grand Canyon hinaus. Sie bietet einen direkten Blick auf den Boden des Canyons.",
       hu: "Ez a patkó alakú kilátó a Grand Canyon fölé nyúlik. Közvetlen rálátást biztosít a kanyon aljára.",
@@ -1252,7 +1252,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-the-art-institute-of-chicago-landmarks-v2",
     type: "museum",
     name: { de: "Art Institute of Chicago", hu: "Art Institute of Chicago", ro: "Art Institute of Chicago", en: "Art Institute of Chicago" },
-    coordinates: { lat: 41.879, lng: -87.623 },
+    coords: [-87.623, 41.879],
     description: {
       de: "Dieses Kunstmuseum in Chicago beherbergt eine der größten Sammlungen impressionistischer und post-impressionistischer Werke außerhalb von Paris.",
       hu: "Ez a chicagói művészeti múzeum a párizsin kívüli egyik legnagyobb impresszionista és posztimpresszionista műgyűjteménynek ad otthont.",
@@ -1271,7 +1271,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-new-york-public-library-landmarks-v2",
     type: "landmark",
     name: { de: "New York Public Library", hu: "New York-i Nyilvános Könyvtár", ro: "Biblioteca Publică din New York", en: "New York Public Library" },
-    coordinates: { lat: 40.753, lng: -73.982 },
+    coords: [-73.982, 40.753],
     description: {
       de: "Das Hauptgebäude der New York Public Library ist berühmt für seine Beaux-Arts-Architektur. Es befindet sich an der Fifth Avenue in New York City.",
       hu: "A New York-i Nyilvános Könyvtár főépülete híres Beaux-Arts építészetéről. New York Cityben, az Ötödik sugárúton található.",
@@ -1290,7 +1290,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-the-metropolitan-museum-of-art-landmarks-v2",
     type: "museum",
     name: { de: "Metropolitan Museum of Art", hu: "Metropolitan Művészeti Múzeum", ro: "Muzeul Metropolitan de Artă", en: "The Metropolitan Museum of Art" },
-    coordinates: { lat: 40.779, lng: -73.963 },
+    coords: [-73.963, 40.779],
     description: {
       de: "Das 'Met' in New York City ist eines der größten und bedeutendsten Kunstmuseen der Welt. Es beherbergt Objekte aus fünf Jahrtausenden.",
       hu: "A New York-i 'Met' a világ egyik legnagyobb és legfontosabb művészeti múzeuma. Ötezer év műtárgyait őrzi.",
@@ -1309,7 +1309,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-pennsylvania-state-capitol-landmarks-v2",
     type: "palace",
     name: { de: "Pennsylvania State Capitol", hu: "Pennsylvania Állami Kapitólium", ro: "Capitoliul Statului Pennsylvania", en: "Pennsylvania State Capitol" },
-    coordinates: { lat: 40.264, lng: -76.883 },
+    coords: [-76.883, 40.264],
     description: {
       de: "Dieses in Harrisburg gelegene Gebäude dient als Sitz der Regierung des Bundesstaates Pennsylvania. Es ist bekannt für seine beeindruckende Kuppel.",
       hu: "Ez a Harrisburgban található épület Pennsylvania állam kormányának székhelye. Lenyűgöző kupolájáról ismert.",
@@ -1328,7 +1328,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-oregon-state-capitol-landmarks-v2",
     type: "palace",
     name: { de: "Oregon State Capitol", hu: "Oregon Állami Kapitólium", ro: "Capitoliul Statului Oregon", en: "Oregon State Capitol" },
-    coordinates: { lat: 44.938, lng: -123.03 },
+    coords: [-123.03, 44.938],
     description: {
       de: "Sitz der Regierung von Oregon in Salem. Das moderne Bauwerk ist durch seine goldene Statue auf der Kuppel bekannt.",
       hu: "Oregon állam kormányának székhelye Salemben. A modern épületet a kupoláján lévő arany szoborról ismerik.",
@@ -1347,7 +1347,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "usa-denver-art-museum-landmarks-v2",
     type: "museum",
     name: { de: "Denver Art Museum", hu: "Denver Művészeti Múzeum", ro: "Muzeul de Artă din Denver", en: "Denver Art Museum" },
-    coordinates: { lat: 39.737, lng: -104.988 },
+    coords: [-104.988, 39.737],
     description: {
       de: "Dieses Museum in Denver ist bekannt für seine umfangreichen Sammlungen von Kunst der amerikanischen Ureinwohner.",
       hu: "Ez a denveri múzeum az amerikai őslakosok művészetének hatalmas gyűjteményéről híres.",

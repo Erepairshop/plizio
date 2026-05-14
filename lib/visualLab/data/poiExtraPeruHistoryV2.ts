@@ -819,7 +819,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-vitcos-history-v2",
     type: "ruins",
     name: { de: "Vitcos", hu: "Vitcos", ro: "Vitcos", en: "Vitcos" },
-    coordinates: { lat: -12.9167, lng: -73.3 },
+    coords: [-73.3, -12.9167],
     description: {
       de: "Vitcos war ein wichtiger Außenposten des neoinkaischen Staates nach der spanischen Eroberung. Die Ruinen befinden sich in der Region Cusco.",
       hu: "Vitcos fontos előőrs volt az inka állam számára a spanyol hódítás után. A romok Cusco régiójában találhatók.",
@@ -838,7 +838,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-huaycancha-history-v2",
     type: "ruins",
     name: { de: "Huaycancha", hu: "Huaycancha", ro: "Huaycancha", en: "Huaycancha" },
-    coordinates: { lat: -12.3833, lng: -75.4667 },
+    coords: [-75.4667, -12.3833],
     description: {
       de: "Huaycancha ist eine archäologische Stätte der Wari-Kultur im Hochland von Huancavelica. Sie diente als regionales Verwaltungszentrum.",
       hu: "Huaycancha egy Wari-kori régészeti lelőhely Huancavelica felföldjén. Regionális közigazgatási központként szolgált.",
@@ -857,7 +857,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-kuntur-wasi-history-v2",
     type: "ruins",
     name: { de: "Kuntur Wasi", hu: "Kuntur Wasi", ro: "Kuntur Wasi", en: "Kuntur Wasi" },
-    coordinates: { lat: -7.2667, lng: -78.85 },
+    coords: [-78.85, -7.2667],
     description: {
       de: "Kuntur Wasi ist eine Tempelanlage in der Region Cajamarca, die zur Chavin-Zeit erbaut wurde. Der Name bedeutet Haus des Kondors.",
       hu: "A Kuntur Wasi egy templomegyüttes Cajamarca régióban, amelyet a Chavin-korszakban építettek. A név jelentése Kondor-ház.",
@@ -876,7 +876,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-patamarca-history-v2",
     type: "ruins",
     name: { de: "Patamarca", hu: "Patamarca", ro: "Patamarca", en: "Patamarca" },
-    coordinates: { lat: -13.5667, lng: -71.9167 },
+    coords: [-71.9167, -13.5667],
     description: {
       de: "Patamarca ist eine archäologische Stätte nahe Cusco, die Inka-Strukturen aufweist. Sie liegt auf einer strategischen Anhöhe.",
       hu: "Patamarca egy inka struktúrákkal rendelkező régészeti lelőhely Cusco közelében. Stratégiai magaslaton fekszik.",
@@ -895,7 +895,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-cerro-sechin-history-v2",
     type: "ruins",
     name: { de: "Cerro Sechin", hu: "Cerro Sechin", ro: "Cerro Sechin", en: "Cerro Sechin" },
-    coordinates: { lat: -9.4667, lng: -78.2667 },
+    coords: [-78.2667, -9.4667],
     description: {
       de: "Cerro Sechin ist ein antikes archäologisches Zentrum in der Region Ancash. Bekannt ist es für seine Steinreliefs mit Kriegerdarstellungen.",
       hu: "A Cerro Sechin egy ősi régészeti központ Ancash régióban. Harcosokat ábrázoló kődomborműveiről ismert.",
@@ -914,7 +914,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-pacatnamu-history-v2",
     type: "ruins",
     name: { de: "Pacatnamu", hu: "Pacatnamu", ro: "Pacatnamu", en: "Pacatnamu" },
-    coordinates: { lat: -7.2167, lng: -79.4667 },
+    coords: [-79.4667, -7.2167],
     description: {
       de: "Pacatnamu ist ein riesiges archäologisches Areal an der Nordküste Perus. Es umfasst zahlreiche Lehmziegelpyramiden aus der Chimú-Zeit.",
       hu: "A Pacatnamu egy hatalmas régészeti terület Peru északi partján. Számos Chimú-kori vályogpiramist foglal magában.",
@@ -933,7 +933,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-pariacaca-history-v2",
     type: "landmark",
     name: { de: "Pariacaca", hu: "Pariacaca", ro: "Pariacaca", en: "Pariacaca" },
-    coordinates: { lat: -11.75, lng: -76.25 },
+    coords: [-76.25, -11.75],
     description: {
       de: "Pariacaca war eine heilige Bergstätte der Vor-Inka-Kulturen in den Anden. Sie war mit einem weitläufigen Inka-Wegenetz verbunden.",
       hu: "Pariacaca egy szent hegyi hely volt a Kolumbusz előtti kultúrák számára az Andokban. Kiterjedt inka úthálózat kötötte össze.",
@@ -952,7 +952,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-vicus-history-v2",
     type: "ruins",
     name: { de: "Vicus", hu: "Vicus", ro: "Vicus", en: "Vicus" },
-    coordinates: { lat: -5.1, lng: -80.35 },
+    coords: [-80.35, -5.1],
     description: {
       de: "Vicus ist eine archäologische Stätte in der Region Piura. Sie ist bekannt für ihre Keramik und Metallarbeiten aus einer frühen Kultur.",
       hu: "A Vicus egy régészeti lelőhely Piura régióban. Korai kultúrából származó kerámiáiról és fémmegmunkálásáról ismert.",
@@ -971,7 +971,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-huariwilca-history-v2",
     type: "ruins",
     name: { de: "Huariwilca", hu: "Huariwilca", ro: "Huariwilca", en: "Huariwilca" },
-    coordinates: { lat: -12.1167, lng: -75.1833 },
+    coords: [-75.1833, -12.1167],
     description: {
       de: "Huariwilca ist ein bedeutendes religiöses Zentrum der Wari-Kultur bei Huancayo. Der Ort bewahrt Fundamente aus Stein.",
       hu: "Huariwilca a Wari-kultúra jelentős vallási központja Huancayo közelében. A hely kő alapokat őriz.",
@@ -990,7 +990,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-cajamarquilla-history-v2",
     type: "ruins",
     name: { de: "Cajamarquilla", hu: "Cajamarquilla", ro: "Cajamarquilla", en: "Cajamarquilla" },
-    coordinates: { lat: -11.9667, lng: -76.9167 },
+    coords: [-76.9167, -11.9667],
     description: {
       de: "Cajamarquilla ist eine große Ruinenstadt in der Nähe von Lima. Sie wurde von der Lima-Kultur und später von der Wari-Kultur genutzt.",
       hu: "Cajamarquilla egy nagy romváros Lima közelében. A Lima-kultúra, majd később a Wari-kultúra használta.",
@@ -1009,7 +1009,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-qota-qota-history-v2",
     type: "ruins",
     name: { de: "Qota Qota", hu: "Qota Qota", ro: "Qota Qota", en: "Qota Qota" },
-    coordinates: { lat: -15.8333, lng: -69.8333 },
+    coords: [-69.8333, -15.8333],
     description: {
       de: "Qota Qota ist eine archäologische Stätte nahe dem Titicacasee. Sie ist mit der Pucara-Kultur verbunden.",
       hu: "Qota Qota egy régészeti lelőhely a Titicaca-tó közelében. A Pucara-kultúrához köthető.",
@@ -1028,7 +1028,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-tambo-colorado-history-v2",
     type: "ruins",
     name: { de: "Tambo Colorado", hu: "Tambo Colorado", ro: "Tambo Colorado", en: "Tambo Colorado" },
-    coordinates: { lat: -13.6833, lng: -75.8333 },
+    coords: [-75.8333, -13.6833],
     description: {
       de: "Tambo Colorado ist ein gut erhaltener Inka-Stützpunkt im Pisco-Tal. Die Anlage zeichnet sich durch rote und gelbe Lehmziegel aus.",
       hu: "Tambo Colorado egy jól megőrzött inka bázis a Pisco-völgyben. A komplexumot vörös és sárga vályogtéglák jellemzik.",
@@ -1047,7 +1047,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-huaca-san-marcos-history-v2",
     type: "ruins",
     name: { de: "Huaca San Marcos", hu: "Huaca San Marcos", ro: "Huaca San Marcos", en: "Huaca San Marcos" },
-    coordinates: { lat: -12.05, lng: -77.0833 },
+    coords: [-77.0833, -12.05],
     description: {
       de: "Huaca San Marcos ist eine bedeutende Huaca im Herzen von Lima. Sie gehört zur Lima-Kultur und stammt aus dem ersten Jahrtausend.",
       hu: "A Huaca San Marcos egy jelentős huaca Lima szívében. A Lima-kultúrához tartozik, és az első évezredből származik.",
@@ -1066,7 +1066,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-chankillo-history-v2",
     type: "ruins",
     name: { de: "Chankillo", hu: "Chankillo", ro: "Chankillo", en: "Chankillo" },
-    coordinates: { lat: -9.5667, lng: -78.2333 },
+    coords: [-78.2333, -9.5667],
     description: {
       de: "Chankillo ist eine antike archäologische Stätte, die als astronomisches Observatorium diente. Sie befindet sich in der Casma-Region.",
       hu: "A Chankillo egy ősi régészeti lelőhely, amely csillagászati obszervatóriumként szolgált. Casma régióban található.",
@@ -1085,7 +1085,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-wunu-ruins-history-v2",
     type: "ruins",
     name: { de: "Wunu", hu: "Wunu", ro: "Wunu", en: "Wunu" },
-    coordinates: { lat: -13.1, lng: -74.2 },
+    coords: [-74.2, -13.1],
     description: {
       de: "Wunu ist eine befestigte Anlage im Hochland von Ayacucho. Sie wurde während der präkolumbianischen Zeit genutzt.",
       hu: "Wunu egy erődített komplexum Ayacucho felföldjén. A Kolumbusz előtti időkben használták.",
@@ -1104,7 +1104,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-paramonga-history-v2",
     type: "ruins",
     name: { de: "Paramonga", hu: "Paramonga", ro: "Paramonga", en: "Paramonga" },
-    coordinates: { lat: -10.6667, lng: -77.8333 },
+    coords: [-77.8333, -10.6667],
     description: {
       de: "Paramonga ist eine markante Inka-Festung an der Küste nördlich von Lima. Sie diente zur Kontrolle der Region.",
       hu: "Paramonga egy jellegzetes inka erőd a Limától északra fekvő parton. A régió ellenőrzésére szolgált.",
@@ -1123,7 +1123,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-huaca-prieta-history-v2",
     type: "ruins",
     name: { de: "Huaca Prieta", hu: "Huaca Prieta", ro: "Huaca Prieta", en: "Huaca Prieta" },
-    coordinates: { lat: -7.75, lng: -79.3333 },
+    coords: [-79.3333, -7.75],
     description: {
       de: "Huaca Prieta ist eine archäologische Stätte an der Nordküste. Sie liefert wichtige Daten über die frühe Besiedlung Perus.",
       hu: "A Huaca Prieta egy régészeti lelőhely az északi parton. Fontos adatokat szolgáltat Peru korai betelepüléséről.",
@@ -1142,7 +1142,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-otuzco-cemetery-history-v2",
     type: "ruins",
     name: { de: "Otuzco-Nekropole", hu: "Otuzco-nekropolisz", ro: "Necropola Otuzco", en: "Otuzco Necropolis" },
-    coordinates: { lat: -7.1167, lng: -78.4833 },
+    coords: [-78.4833, -7.1167],
     description: {
       de: "Die Otuzco-Nekropole besteht aus zahlreichen Felsengräbern nahe Cajamarca. Sie stammt aus der Cajamarca-Kultur.",
       hu: "Az Otuzco-nekropolisz számos sziklasírból áll Cajamarca közelében. A Cajamarca-kultúrából származik.",
@@ -1161,7 +1161,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-cahuachi-pyramid-history-v2",
     type: "ruins",
     name: { de: "Cahuachi-Pyramide", hu: "Cahuachi-piramis", ro: "Piramida Cahuachi", en: "Cahuachi Pyramid" },
-    coordinates: { lat: -14.8167, lng: -75.1 },
+    coords: [-75.1, -14.8167],
     description: {
       de: "Die Cahuachi-Pyramide war das rituelle Zentrum der Nazca-Kultur. Sie liegt in der Nähe der berühmten Nazca-Linien.",
       hu: "A Cahuachi-piramis a Nazca-kultúra rituális központja volt. A híres Nazca-vonalak közelében található.",
@@ -1180,7 +1180,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
     id: "peru-huaca-lalad-history-v2",
     type: "ruins",
     name: { de: "Huaca Lalad", hu: "Huaca Lalad", ro: "Huaca Lalad", en: "Huaca Lalad" },
-    coordinates: { lat: -6.7, lng: -79.8 },
+    coords: [-79.8, -6.7],
     description: {
       de: "Huaca Lalad ist eine archäologische Stätte an der Nordküste Perus. Sie zeigt Überreste der Moche-Kultur.",
       hu: "A Huaca Lalad egy régészeti lelőhely Peru északi partján. A Moche-kultúra maradványait mutatja.",

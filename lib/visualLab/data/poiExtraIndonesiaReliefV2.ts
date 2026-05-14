@@ -727,7 +727,7 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     id: "indonesia-schwaner-mountains-relief-v2",
     type: "mountain",
     name: { de: "Schwaner-Gebirge", hu: "Schwaner-hegység", ro: "Munții Schwaner", en: "Schwaner Mountains" },
-    coordinates: { lat: -0.8, lng: 112.5 },
+    coords: [112.5, -0.8],
     description: {
       de: "Dieses Gebirge bildet die zentrale Wasserscheide von Borneo und beherbergt den höchsten Gipfel von Kalimantan.",
       hu: "Ez a hegység alkotja Borneó központi vízválasztóját, itt található Indonézia legmagasabb pontja a szigeten.",
@@ -741,12 +741,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The highest point is Bukit Raya at 2,278 meters.", "Named after German naturalist Carl Schwaner.", "Forms the border between West and Central Kalimantan.", "Primarily composed of granite and sedimentary rocks."],
     },
     imageHint: "Aerial view of Bukit Raya peak in Schwaner Mountains Borneo",
+    descriptionAdvanced: {
+      de: "Die Schwaner-Berge in Zentral-Kalimantan sind ein ausgedehntes Gebirge, das nach dem deutschen Geologen Carl Schwaner benannt ist. Sie erreichen Höhen von bis zu 2.278 Metern am Mount Raya. Das Gebirge ist Teil der Müller-Schwaner-Berge und besteht aus Sandstein und Schiefer. Es ist dicht bewaldet und beherbergt endemische Arten wie den Borneo-Orang-Utan. Die Region ist schwach besiedelt und teilweise als Nationalpark geschützt. Die Berge sind eine wichtige Wasserscheide für die Flüsse Kapuas und Barito.",
+      hu: "A Schwaner-hegység Közép-Kalimantánban található. Nevét Carl Schwaner német geológusról kapta. Legmagasabb csúcsa a Mount Raya (2278 m). Homokkőből és palából áll. Sűrű erdő borítja, számos endemikus faj él itt, mint a borneói orangután. A terület ritkán lakott, része védett. Jelentős vízválasztó a Kapuas és Barito folyók között.",
+      ro: "Munții Schwaner din Kalimantan Central sunt numiți după geologul german Carl Schwaner. Cel mai înalt vârf este Mount Raya, cu 2.278 m. Formați din gresie și șist, sunt acoperiți de păduri dese. Găzduiesc specii endemice, inclusiv urangutanul de Borneo. Regiunea este slab populată și parțial protejată ca parc național. Munții servesc drept bazin hidrografic pentru râurile Kapuas și Barito.",
+      en: "The Schwaner Mountains in Central Kalimantan are named after German geologist Carl Schwaner. The highest peak is Mount Raya at 2,278 m. The range is composed of sandstone and shale, covered in dense rainforest. It is a biodiversity hotspot, home to the Bornean orangutan and other endemic species. The area is sparsely populated and partly protected. The Schwaners form a watershed between the Kapuas and Barito rivers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mount Raya, 2.278 Meter.", "Benannt nach Carl Schwaner, einem deutschen Geologen.", "Besteht aus Sandstein und Schiefer.", "Teil der Müller-Schwaner-Berge.", "Heimat des Borneo-Orang-Utans.", "Wasserscheide zwischen Kapuas und Barito."],
+      hu: ["Legmagasabb pont: Mount Raya, 2278 m.", "Carl Schwaner német geológusról nevezték el.", "Homokkőből és palából áll.", "A Müller-Schwaner-hegység része.", "A borneói orangután élőhelye.", "Vízválasztó a Kapuas és Barito között."],
+      ro: ["Cel mai înalt vârf: Mount Raya, 2278 m.", "Numit după geologul german Carl Schwaner.", "Compus din gresie și șist.", "Parte a Munților Müller-Schwaner.", "Gazdă pentru urangutanul de Borneo.", "Bazin hidrografic între râurile Kapuas și Barito."],
+      en: ["Highest peak: Mount Raya at 2,278 m.", "Named after German geologist Carl Schwaner.", "Composed of sandstone and shale.", "Part of the Müller-Schwaner range.", "Habitat of the Bornean orangutan.", "Watershed between Kapuas and Barito rivers."],
+    },
   },
   {
     id: "indonesia-ijen-plateau-relief-v2",
     type: "mountain",
     name: { de: "Ijen-Plateau", hu: "Ijen-fennsík", ro: "Podișul Ijen", en: "Ijen Plateau" },
-    coordinates: { lat: -8.058, lng: 114.242 },
+    coords: [114.242, -8.058],
     description: {
       de: "Ein weites vulkanisches Hochland im Osten Javas, das für seinen türkisfarbenen Säuresee und Schwefelbergbau bekannt ist.",
       hu: "Hatalmas vulkáni fennsík Jáva keleti részén, amely türkizkék savas taváról és kénbányászatáról híres.",
@@ -760,12 +772,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["Home to the Kawah Ijen volcano and its blue fire phenomenon.", "The crater lake has a pH level near zero.", "The plateau sits at an elevation of approximately 2,000 meters.", "Major region for Arabica coffee plantations."],
     },
     imageHint: "Turquoise acid lake and yellow sulfur smoke in Kawah Ijen crater",
+    descriptionAdvanced: {
+      de: "Das Ijen-Plateau in Ostjava ist eine vulkanische Hochebene, die für ihren Kratersee mit türkisfarbenem Wasser bekannt ist. Der Ijen ist ein aktiver Vulkan, dessen Kratersee Schwefelsäure enthält. Die Region ist geprägt von Schwefelabbau durch lokale Arbeiter. Das Plateau liegt auf etwa 2.300 Metern Höhe. Die umliegenden Wälder sind Teil des Meru Betiri Nationalparks. Der Kratersee ist der größte saure See der Welt. Nachts sind blaue Flammen aufgrund von Schwefelgasen zu sehen.",
+      hu: "Az Ijen-fennsík Kelet-Jáván található, egy vulkanikus fennsík, melynek híres krátertava élénk türkiz színű. Az Ijen aktív tűzhányó, a tó vize kénsavat tartalmaz. A vidék híres a kénbányászatról, amit helyi munkások végeznek. A fennsík magassága kb. 2300 méter. A környező erdők a Meru Betiri Nemzeti Park részei. A krátertó a világ legnagyobb savas tava. Éjszaka kékes lángok figyelhetők meg a kén gázok miatt.",
+      ro: "Podisul Ijen din Java de Est este un platou vulcanic renumit pentru lacul său de crater de culoare turcoaz. Vulcanul Ijen este activ, iar lacul conține acid sulfuric. Zona este cunoscută pentru mineritul de sulf efectuat de muncitori locali. Platoul se află la aproximativ 2.300 m altitudine. Pădurile din jur fac parte din Parcul Național Meru Betiri. Lacul este cel mai mare lac acid din lume. Noaptea se văd flăcări albastre din cauza gazelor de sulf.",
+      en: "The Ijen Plateau in East Java is a volcanic highland featuring a turquoise crater lake. Mount Ijen is an active volcano; the lake contains sulfuric acid. The site is famous for sulfur mining by local laborers. The plateau is at about 2,300 m elevation. Surrounding forests are part of Meru Betiri National Park. The lake is the largest acidic lake in the world. Blue flames are visible at night due to ignited sulfur gas.",
+    },
+    factsAdvanced: {
+      de: ["Kratersee ist türkisfarben und sauer.", "pH-Wert des Sees: nahe 0.", "Schwefelabbau wird von Hand durchgeführt.", "Höhe des Plateaus: etwa 2.300 Meter.", "Teil des Meru Betiri Nationalparks.", "Blaue Flammen erscheinen nachts."],
+      hu: ["A krátertav türkiz színű és savas.", "A tó pH-ja közel nulla.", "Kézi kénbányászat folyik.", "A fennsík magassága kb. 2300 m.", "A Meru Betiri Nemzeti Park része.", "Éjszaka kék lángok figyelhetők meg."],
+      ro: ["Lacul craterului este turcoaz și acid.", "PH-ul lacului este aproape de 0.", "Exploatarea manuală a sulfului.", "Altitudinea platoului: ~2300 m.", "Parte a Parcului Național Meru Betiri.", "Flăcări albastre vizibile noaptea."],
+      en: ["Crater lake is turquoise and acidic.", "Lake pH is near 0.", "Manual sulfur mining operation.", "Plateau elevation: approximately 2,300 m.", "Part of Meru Betiri National Park.", "Blue flames visible at night."],
+    },
   },
   {
     id: "indonesia-krakatoa-relief-v2",
     type: "mountain",
     name: { de: "Krakatau", hu: "Krakatau", ro: "Krakatau", en: "Krakatoa" },
-    coordinates: { lat: -6.102, lng: 105.423 },
+    coords: [105.423, -6.102],
     description: {
       de: "Eine vulkanische Inselgruppe in der Sundastraße, bekannt für die katastrophale Eruption von 1883 und den wachsenden Anak Krakatau.",
       hu: "Vulkáni szigetcsoport a Szunda-szorosban, az 1883-as katasztrofális kitöréséről és a növekvő Anak Krakatauról ismert.",
@@ -779,12 +803,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The 1883 eruption was one of the loudest sounds in history.", "Anak Krakatau means 'Child of Krakatoa'.", "The island grows due to constant volcanic activity.", "Located directly on the Pacific Ring of Fire."],
     },
     imageHint: "Anak Krakatau volcano erupting in the Sunda Strait",
+    descriptionAdvanced: {
+      de: "Krakatau ist eine Vulkaninsel in der Sundastraße zwischen Java und Sumatra. Der Ausbruch von 1883 war einer der verheerendsten der Geschichte und verursachte einen Tsunami. Heute besteht der Archipel aus mehreren Inseln, darunter Anak Krakatau, der 1927 entstand. Der Vulkan ist bis heute aktiv. Die Inseln sind unbewohnt, aber ein wichtiges geologisches Forschungsgebiet. Die Vegetation erholt sich langsam. Der Ausbruch von 1883 hörte bis nach Australien.",
+      hu: "A Krakatau egy vulkáni sziget a Szunda-szorosban, Jáva és Szumátra között. Az 1883-as kitörés a történelem egyik legpusztítóbb kitörése volt, cunamit okozva. Ma a szigetcsoport több szigetből áll, köztük az 1927-ben keletkezett Anak Krakatau. A vulkán ma is aktív. A szigetek lakatlanok, de fontos geológiai kutatási területek. A növényzet lassan regenerálódik. Az 1883-as robbanást Ausztráliában is hallották.",
+      ro: "Krakatau este o insulă vulcanică în Strâmtoarea Sunda, între Java și Sumatra. Erupția din 1883 a fost una dintre cele mai devastatoare, provocând un tsunami. Astăzi, arhipelagul cuprinde mai multe insule, inclusiv Anak Krakatau, apărută în 1927. Vulcanul este încă activ. Insulele sunt nelocuite, dar sunt o importantă zonă de cercetare geologică. Vegetația se reface treptat. Explozia din 1883 s-a auzit până în Australia.",
+      en: "Krakatoa is a volcanic island group in the Sunda Strait. The 1883 eruption was one of the most violent in history, generating tsunamis. Today, the archipelago includes Anak Krakatoa, which emerged in 1927. The volcano remains active. The islands are uninhabited but serve as a key geological research site. Vegetation is slowly recovering. The 1883 blast was heard as far as Australia.",
+    },
+    factsAdvanced: {
+      de: ["Ausbruch 1883: zerstörte zwei Drittel der Insel.", "Anak Krakatau entstand 1927.", "Höhe von Anak Krakatau: etwa 300 Meter.", "Die Explosion von 1883 war 13.000-fach stärker als Hiroshima.", "Tsunami-Wellen erreichten 40 Meter Höhe.", "Der Vulkan liegt in der Sundastraße."],
+      hu: ["1883-as kitörés: a sziget 2/3-a megsemmisült.", "Anak Krakatau 1927-ben keletkezett.", "Anak Krakatau magassága kb. 300 m.", "Az 1883-as robbanás 13 000-szer erősebb volt a hirosimai bombánál.", "A cunami hullámai elérték a 40 métert.", "A vulkán a Szunda-szorosban található."],
+      ro: ["Erupția din 1883 a distrus două treimi din insulă.", "Anak Krakatau a apărut în 1927.", "Înălțimea Anak Krakatau: ~300 m.", "Explozia din 1883 a fost de 13.000 de ori mai puternică decât Hiroshima.", "Valurile tsunami au atins 40 m.", "Vulcanul este situat în Strâmtoarea Sunda."],
+      en: ["1883 eruption destroyed two-thirds of the island.", "Anak Krakatoa emerged in 1927.", "Anak Krakatoa's height: approx. 300 m.", "1883 blast was 13,000 times stronger than Hiroshima.", "Tsunami waves reached 40 m height.", "Located in the Sunda Strait."],
+    },
   },
   {
     id: "indonesia-minahasa-highlands-relief-v2",
     type: "mountain",
     name: { de: "Minahasa-Hochland", hu: "Minahasa-felföld", ro: "Podișul Minahasa", en: "Minahasa Highlands" },
-    coordinates: { lat: 1.3, lng: 124.85 },
+    coords: [124.85, 1.3],
     description: {
       de: "Ein fruchtbares vulkanisches Gebirgsland im Norden von Sulawesi, geprägt durch aktive Vulkane und den Tondano-See.",
       hu: "Termékeny vulkáni hegyvidék Celebesz északi részén, aktív vulkánok és a Tondano-tó jellemzik.",
@@ -798,12 +834,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["Home to the active Lokon and Mahawu volcanoes.", "Known for its cool climate and extensive clove plantations.", "The city of Tomohon serves as the region's hub.", "Formed through intense volcanic uplift processes."],
     },
     imageHint: "Lush green volcanic peaks and Lake Tondano in Minahasa Highlands",
+    descriptionAdvanced: {
+      de: "Das Minahasa-Hochland in Nordsulawesi ist eine vulkanische Region mit mehreren aktiven Vulkanen, darunter der Mount Lokon und der Mount Mahawu. Die fruchtbaren Böden unterstützen eine intensive Landwirtschaft, insbesondere Gewürze wie Nelken und Vanille. Die Region ist dicht besiedelt von der ethnischen Gruppe der Minahasa. Der Tondano-See, ein großer Calderasee, liegt im Hochland. Die Höhenlage beträgt etwa 600–1.300 Meter. Touristen besuchen die Vulkane und die traditionelle Kultur.",
+      hu: "A Minahasa-felföld Észak-Sulawesin egy vulkanikus régió, ahol több aktív tűzhányó található, mint a Mount Lokon és a Mount Mahawu. A termékeny talaj intenzív mezőgazdaságot tesz lehetővé, főleg fűszerek, mint a szegfűszeg és vanília termesztését. A terület sűrűn lakott a minahasai etnikum által. A Tondano-tó, egy nagy kalderató, a felföldön található. A magasság 600-1300 méter között van. A turisták a vulkánokat és a hagyományos kultúrát keresik fel.",
+      ro: "Podisul Minahasa din Sulawesi de Nord este o regiune vulcanică cu mai mulți vulcani activi, printre care Mount Lokon și Mount Mahawu. Solurile fertile susțin o agricultură intensivă, în special culturi de condimente precum cuișoarele și vanilia. Zona este dens populată de grupul etnic Minahasa. Lacul Tondano, un lac de calderă mare, se află în podiș. Altitudinea este între 600-1300 m. Turiștii vizitează vulcanii și cultura tradițională.",
+      en: "The Minahasa Highlands in North Sulawesi are a volcanic region with active volcanoes such as Mount Lokon and Mount Mahawu. Fertile soils support intensive spice cultivation, including cloves and vanilla. The area is densely populated by the Minahasa ethnic group. Lake Tondano, a large caldera lake, lies in the highlands. Elevation ranges from 600 to 1,300 m. Tourists are attracted by volcanic landscapes and traditional culture.",
+    },
+    factsAdvanced: {
+      de: ["Mount Lokon ist ein aktiver Stratovulkan.", "Mount Mahawu hat einen Kratersee.", "Tondano-See bedeckt etwa 4.800 Hektar.", "Höchster Gipfel: Mount Klabat, 1.995 Meter.", "Bevölkerungsdichte der Minahasa ist hoch.", "Anbau von Nelken und Vanille."],
+      hu: ["A Mount Lokon aktív rétegvulkán.", "A Mount Mahawu krátertava van.", "A Tondano-tó területe kb. 4800 hektár.", "Legmagasabb csúcs: Mount Klabat (1995 m).", "A minahasai népesség sűrű.", "Szegfűszeg és vanília termesztése."],
+      ro: ["Mount Lokon este un stratovulcan activ.", "Mount Mahawu are un lac de crater.", "Lacul Tondano acoperă 4.800 ha.", "Cel mai înalt vârf: Mount Klabat, 1995 m.", "Densitate mare a populației Minahasa.", "Cultivarea cuișoarelor și vaniliei."],
+      en: ["Mount Lokon is an active stratovolcano.", "Mount Mahawu has a crater lake.", "Lake Tondano covers 4,800 hectares.", "Highest peak: Mount Klabat at 1,995 m.", "High population density of Minahasa people.", "Cultivation of cloves and vanilla."],
+    },
   },
   {
     id: "indonesia-arfak-mountains-relief-v2",
     type: "mountain",
     name: { de: "Arfak-Gebirge", hu: "Arfak-hegység", ro: "Munții Arfak", en: "Arfak Mountains" },
-    coordinates: { lat: -1.15, lng: 133.95 },
+    coords: [133.95, -1.15],
     description: {
       de: "Die höchste Gebirgskette auf der Vogelkop-Halbinsel in West-Papua, bekannt für ihre extreme Isolation und Biodiversität.",
       hu: "A madárfej-félsziget legmagasabb hegylánca Nyugat-Pápua tartományban, különleges elszigeteltségéről és élővilágáról híres.",
@@ -817,12 +865,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The highest point is Mount Arfak at 2,955 meters.", "Famous for endemic species of birds of paradise.", "Characterized by steep ridges and deep ravines.", "Includes the scenic Anggi Lakes highland area."],
     },
     imageHint: "Mist-covered peaks and Anggi Lakes in Arfak Mountains West Papua",
+    descriptionAdvanced: {
+      de: "Die Arfak-Berge im Westen Neuguineas, in der Provinz Papua Barat, sind ein Hochgebirge mit Gipfeln über 2.900 Metern. Sie sind Teil des Vogelkop-Halbinsel. Die Berge bestehen aus Kalkstein und sind von dichten Regenwäldern bedeckt. Sie sind bekannt für ihre einzigartige Vogelwelt, darunter Paradiesvögel. Die Region ist die Heimat der Arfak-Stämme, die traditionell leben. Höchster Punkt ist der Mount Arfak mit 2.955 Metern. Der Nationalpark Arfak Mountains schützt die Biodiversität.",
+      hu: "Az Arfak-hegység Nyugat-Új-Guineában, Papua Barat tartományban található. Csúcsai 2900 méter fölé emelkednek. A Vogelkop-félsziget része. Mészkőből áll, sűrű esőerdő borítja. Híres madárvilágáról, különösen a paradicsommadarakról. Az Arfak törzsek lakják, akik hagyományos életmódot folytatnak. Legmagasabb pont a Mount Arfak (2955 m). Az Arfak-hegység Nemzeti Park védi a biodiverzitást.",
+      ro: "Munții Arfak din vestul Noii Guinee, provincia Papua de Vest, sunt un lanț muntos cu vârfuri peste 2.900 m. Fac parte din Peninsula Vogelkop. Sunt formați din calcar și acoperiți de păduri tropicale dense. Sunt renumiți pentru avifauna unică, inclusiv păsări ale paradisului. Regiunea este locuită de triburile Arfak, care trăiesc tradițional. Cel mai înalt vârf este Mount Arfak, la 2.955 m. Parcul Național Munții Arfak protejează biodiversitatea.",
+      en: "The Arfak Mountains in West Papua, Indonesia, are a highland range on the Vogelkop Peninsula. Peaks exceed 2,900 m, with the highest being Mount Arfak at 2,955 m. The range is composed of limestone and covered in dense rainforest. It is known for endemic birds, including birds of paradise. The Arfak tribes inhabit the area, maintaining traditional lifestyles. The Arfak Mountains National Park protects the region's rich biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mount Arfak, 2.955 Meter.", "Liegt auf der Vogelkop-Halbinsel.", "Besteht aus Kalkstein.", "Nationalpark Arfak Mountains gegründet 1997.", "Heimat von 8 Arten von Paradiesvögeln.", "Durchschnittliche jährliche Niederschlagsmenge: über 3.000 mm."],
+      hu: ["Legmagasabb csúcs: Mount Arfak (2955 m).", "A Vogelkop-félszigeten található.", "Mészkőből áll.", "Az Arfak-hegység Nemzeti Parkot 1997-ben hozták létre.", "Nyolc paradicsommadár faj él itt.", "Átlagos éves csapadék: 3000 mm felett."],
+      ro: ["Cel mai înalt vârf: Mount Arfak, 2955 m.", "Situat în Peninsula Vogelkop.", "Compus din calcar.", "Parcul Național Munții Arfak înființat în 1997.", "Adăpostește 8 specii de păsări ale paradisului.", "Precipitații medii anuale: peste 3000 mm."],
+      en: ["Highest peak: Mount Arfak at 2,955 m.", "Located on the Vogelkop Peninsula.", "Composed of limestone.", "Arfak Mountains National Park established in 1997.", "Home to 8 species of birds of paradise.", "Average annual rainfall: over 3,000 mm."],
+    },
   },
   {
     id: "indonesia-meratus-mountains-relief-v2",
     type: "mountain",
     name: { de: "Meratus-Gebirge", hu: "Meratus-hegység", ro: "Munții Meratus", en: "Meratus Mountains" },
-    coordinates: { lat: -2.75, lng: 115.5 },
+    coords: [115.5, -2.75],
     description: {
       de: "Eine markante Gebirgskette im Südosten von Kalimantan, die das einzige Hochlandrelif in Süd-Kalimantan bildet.",
       hu: "Jellegzetes hegylánc Borneó délkeleti részén, Dél-Kalimantan egyetlen felföldi domborzata.",
@@ -836,12 +896,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["Highest point is Mount Halau-halau at 1,901 meters.", "Composed of very ancient ophiolite rock formations.", "Traditional home of the Dayak Meratus people.", "Key watershed for the surrounding lowland plains."],
     },
     imageHint: "Aerial view of Meratus Mountains ridges covered in rainforest",
+    descriptionAdvanced: {
+      de: "Die Meratus-Berge in Süd-Kalimantan sind ein Gebirgszug, der sich von Nordosten nach Südwesten erstreckt. Sie sind älteren Ursprungs als die umliegenden Gebirge und bestehen aus metamorphen Gesteinen. Der höchste Gipfel ist der Mount Halau-halau mit 1.901 Metern. Die Berge sind dicht bewaldet und beherbergen endemische Arten wie den Borneo-Nashornvogel. Die Region ist dünn besiedelt und wird von den Dayak-Stämmen bewohnt. Die Meratus-Berge sind ein wichtiges Wassereinzugsgebiet.",
+      hu: "A Meratus-hegység Dél-Kalimantánban húzódik északkelet-délnyugati irányban. A környező hegységeknél idősebb, metamorf kőzetekből áll. Legmagasabb csúcsa a Mount Halau-halau (1901 m). Sűrű erdő borítja, endemikus fajok élnek itt, mint a borneói szarvascsőrű madár. A terület ritkán lakott, dayak törzsek lakják. A hegység fontos vízgyűjtő terület.",
+      ro: "Munții Meratus din Kalimantan de Sud sunt un lanț muntos care se întinde de la nord-est la sud-vest. Sunt mai vechi decât munții din jur, formați din roci metamorfice. Cel mai înalt vârf este Mount Halau-halau, cu 1.901 m. Pădurile dese găzduiesc specii endemice, cum ar fi pasărea rinocer din Borneo. Regiunea este slab populată, locuită de triburile Dayak. Munții sunt un bazin hidrografic important.",
+      en: "The Meratus Mountains in South Kalimantan run northeast-southwest. They are older than surrounding ranges, composed of metamorphic rocks. The highest peak is Mount Halau-halau at 1,901 m. Dense forests cover the range, hosting endemic species such as the Bornean rhinoceros hornbill. The area is sparsely populated by Dayak tribes. The Meratus are an important watershed for the region's rivers.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mount Halau-halau, 1.901 Meter.", "Erstreckt sich über 300 Kilometer.", "Besteht aus metamorphem Gestein.", "Heimat der Dayak-Banjar-Ethnie.", "Endemische Vogelarten: Borneo-Nashornvogel.", "Teil des Meratus-Nationalparks (geplant)."],
+      hu: ["Legmagasabb csúcs: Mount Halau-halau (1901 m).", "Hossza 300 km.", "Metamorf kőzetekből áll.", "Dayak-Banjar etnikum lakja.", "Endemikus madár: borneói szarvascsőrű.", "Tervezett nemzeti park."],
+      ro: ["Cel mai înalt vârf: Mount Halau-halau, 1901 m.", "Se întinde pe 300 km.", "Roci metamorfice.", "Locuit de etnia Dayak-Banjar.", "Pasărea rinocer din Borneo (specie endemică).", "Inclus în viitorul Parc Național Meratus."],
+      en: ["Highest peak: Mount Halau-halau at 1,901 m.", "Extends for 300 km.", "Composed of metamorphic rocks.", "Inhabited by Dayak-Banjar ethnic group.", "Endemic bird: Bornean rhinoceros hornbill.", "Part of proposed Meratus National Park."],
+    },
   },
   {
     id: "indonesia-mount-sinabung-relief-v2",
     type: "mountain",
     name: { de: "Sinabung", hu: "Sinabung-hegy", ro: "Muntele Sinabung", en: "Mount Sinabung" },
-    coordinates: { lat: 3.17, lng: 98.392 },
+    coords: [98.392, 3.17],
     description: {
       de: "Ein hochaktiver Schichtvulkan in Nord-Sumatra, dessen Relief durch häufige Ausbrüche und pyroklastische Ströme verändert wurde.",
       hu: "Rendkívül aktív rétegvulkán Észak-Szumátrán, amelynek domborzatát a gyakori kitörések és piroklasztikus árak formálják.",
@@ -855,12 +927,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["Remained dormant for over 400 years until 2010.", "Located in the Karo Highlands of North Sumatra.", "Reaches an elevation of approximately 2,460 meters.", "Known for its dangerous pyroclastic density currents."],
     },
     imageHint: "Mount Sinabung volcano erupting with a large ash plume",
+    descriptionAdvanced: {
+      de: "Der Mount Sinabung in Nordsumatra ist ein aktiver Stratovulkan, der nach über 400 Jahren Ruhe 2010 wieder ausbrach. Der Vulkan liegt auf dem Karo-Plateau. Große Eruptionen in den Jahren 2013, 2014 und 2016 verursachten Aschefall und pyroklastische Ströme. Tausende Menschen wurden evakuiert. Die Höhe beträgt 2.460 Meter. Der Vulkan ist Teil des Sunda-Bogens. Die fruchtbaren Hänge werden landwirtschaftlich genutzt, insbesondere für Gemüseanbau.",
+      hu: "A Mount Sinabung Észak-Szumátrán egy aktív rétegvulkán, amely 400 évnyi nyugalom után 2010-ben tört ki. A Karo-fennsíkon fekszik. Nagy kitörések voltak 2013-ban, 2014-ben és 2016-ban, hamut és piroklasztikus árakat okozva. Több ezer embert evakuáltak. Magassága 2460 méter. A vulkán a Szunda-ív része. A termékeny lejtőkön mezőgazdaság folyik, főleg zöldségtermesztés.",
+      ro: "Muntele Sinabung din Sumatra de Nord este un stratovulcan activ care a erupt în 2010 după peste 400 de ani de inactivitate. Vulcanul este situat pe Platoul Karo. Erupții majore au avut loc în 2013, 2014 și 2016, producând cenușă și curgeri piroclastice. Mii de oameni au fost evacuați. Altitudinea este de 2.460 m. Vulcanul face parte din Arcul Sunda. Pantele fertile sunt folosite pentru agricultură, în special legume.",
+      en: "Mount Sinabung in North Sumatra is an active stratovolcano that erupted in 2010 after 400 years of dormancy. It is located on the Karo Plateau. Major eruptions in 2013, 2014, and 2016 produced ashfall and pyroclastic flows. Thousands were evacuated. Its elevation is 2,460 m. Sinabung is part of the Sunda Arc. Fertile slopes support vegetable farming.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.460 Meter.", "Letzte Ruhephase: über 400 Jahre.", "Erster Ausbruch 2010 nach Ruhe.", "Pyroklastische Ströme erreichten 4,5 km Entfernung.", "Aschefall bedeckte 10.000 Hektar Ackerland.", "Über 30.000 Menschen evakuiert im Jahr 2014."],
+      hu: ["Magasság: 2460 m.", "400 évnyi nyugalom után tört ki.", "Első kitörés 2010-ben.", "Piroklasztikus árak 4,5 km-re jutottak.", "Hamueső borított 10 000 hektár termőföldet.", "2014-ben 30 000 embert evakuáltak."],
+      ro: ["Altitudine: 2.460 m.", "Inactiv timp de peste 400 de ani.", "Prima erupție în 2010.", "Curgeri piroclastice au ajuns la 4,5 km.", "Cenușa a acoperit 10.000 ha de teren agricol.", "Peste 30.000 de persoane evacuate în 2014."],
+      en: ["Elevation: 2,460 m.", "Dormant for over 400 years.", "First eruption in 2010.", "Pyroclastic flows reached 4.5 km distance.", "Ashfall covered 10,000 ha of farmland.", "Over 30,000 people evacuated in 2014."],
+    },
   },
   {
     id: "indonesia-kelimutu-relief-v2",
     type: "mountain",
     name: { de: "Kelimutu", hu: "Kelimutu", ro: "Kelimutu", en: "Kelimutu" },
-    coordinates: { lat: -8.771, lng: 121.821 },
+    coords: [121.821, -8.771],
     description: {
       de: "Ein Vulkan auf der Insel Flores, berühmt für seine drei Kraterseen, die regelmäßig auf mysteriöse Weise ihre Farbe ändern.",
       hu: "Vulkán Flores szigetén, amely három krátertaváról híres, melyek rejtélyes módon rendszeresen változtatják színüket.",
@@ -874,12 +958,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The lakes typically display shades of blue, green, and red.", "The summit reaches an elevation of 1,639 meters.", "Colors change due to fluctuating mineral and gas content.", "A sacred site for the local Lio people."],
     },
     imageHint: "Three colored crater lakes of Kelimutu volcano from above",
+    descriptionAdvanced: {
+      de: "Kelimutu ist ein Vulkan auf der Insel Flores mit drei Kraterseen, die ihre Farbe wechseln. Die Seen liegen auf einer Höhe von etwa 1.639 Metern. Die Farben reichen von Rot bis Grün und Blau. Der Farbwechsel wird durch chemische Reaktionen von Mineralien verursacht, die durch vulkanische Gase beeinflusst werden. Der Vulkan ist nicht mehr aktiv. Die Seen sind eine wichtige Touristenattraktion. Lokale Legenden verbinden die Farben mit den Seelen der Verstorbenen. Der Kelimutu Nationalpark schützt das Gebiet.",
+      hu: "A Kelimutu egy vulkán Flores szigetén, három színeződő krátertavával. A tavak kb. 1639 méter magasan találhatóak. Színük vöröstől a zöldön át a kékig változik. A színváltozást a vulkáni gázok által befolyásolt kémiai reakciók okozzák. A vulkán már nem aktív. A tavak fontos turisztikai célpontok. A helyi legendák szerint a színek az elhunytak lelkeit tükrözik. A Kelimutu Nemzeti Park védi a területet.",
+      ro: "Kelimutu este un vulcan pe insula Flores, cu trei lacuri de crater care își schimbă culoarea. Lacurile sunt situate la altitudinea de aproximativ 1.639 m. Culorile variază de la roșu la verde și albastru. Schimbarea culorii se datorează reacțiilor chimice ale mineralelor influențate de gazele vulcanice. Vulcanul nu mai este activ. Lacurile sunt o atracție turistică majoră. Legendele locale asociază culorile cu sufletele decedaților. Parcul Național Kelimutu protejează zona.",
+      en: "Kelimutu is a volcano on Flores island famous for its three crater lakes that change color. The lakes sit at about 1,639 m elevation. Colors range from red to green and blue. The changes result from chemical reactions of minerals influenced by volcanic gases. The volcano is dormant. The lakes are a major tourist attraction. Local folklore links the colors to the souls of the departed. Kelimutu National Park protects the area.",
+    },
+    factsAdvanced: {
+      de: ["Drei Kraterseen: Tiwu Ata Polo, Tiwu Ko'o Fai Nuwa Muri, Tiwu Ata Bupu.", "Höchster See liegt auf 1.639 Metern.", "Die Seen wechseln die Farbe mehrmals im Jahr.", "Der Vulkan ist seit über 1.000 Jahren inaktiv.", "Der Nationalpark wurde 1992 gegründet.", "Die Seen enthalten hohe Konzentrationen von Schwefel und Eisen."],
+      hu: ["Három krátertó: Tiwu Ata Polo, Tiwu Ko'o Fai Nuwa Muri, Tiwu Ata Bupu.", "A legmagasabb tó 1639 m-en található.", "A tavak évente többször változtatják színüket.", "A vulkán több mint 1000 éve inaktív.", "A nemzeti parkot 1992-ben alapították.", "A tavak magas kén- és vastartalmúak."],
+      ro: ["Trei lacuri de crater: Tiwu Ata Polo, Tiwu Ko'o Fai Nuwa Muri, Tiwu Ata Bupu.", "Cel mai înalt lac la 1.639 m.", "Lacurile își schimbă culoarea de mai multe ori pe an.", "Vulcanul este inactiv de peste 1.000 de ani.", "Parcul național a fost înființat în 1992.", "Lacurile conțin concentrații mari de sulf și fier."],
+      en: ["Three crater lakes: Tiwu Ata Polo, Tiwu Ko'o Fai Nuwa Muri, Tiwu Ata Bupu.", "Highest lake elevation: 1,639 m.", "Lakes change color multiple times per year.", "Volcano inactive for over 1,000 years.", "National park established in 1992.", "Lakes have high concentrations of sulfur and iron."],
+    },
   },
   {
     id: "indonesia-mount-lawu-relief-v2",
     type: "mountain",
     name: { de: "Lawu", hu: "Lawu-hegy", ro: "Muntele Lawu", en: "Mount Lawu" },
-    coordinates: { lat: -7.625, lng: 111.193 },
+    coords: [111.193, -7.625],
     description: {
       de: "Ein massiver Schichtvulkan an der Grenze zwischen Zentral- und Ost-Java, bekannt für seine alten Tempelruinen und religiöse Bedeutung.",
       hu: "Hatalmas rétegvulkán Közép- és Kelet-Jáva határán, ősi templomromjairól és vallási jelentőségéről ismert.",
@@ -893,12 +989,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The highest point is Hargo Dumilah at 3,265 meters.", "Home to the enigmatic Cetho and Sukuh Hindu temples.", "Considered a dormant volcano with no recorded eruptions.", "Regarded as a sacred mountain in Javanese mythology."],
     },
     imageHint: "Ancient Sukuh temple with Mount Lawu in the background",
+    descriptionAdvanced: {
+      de: "Der Mount Lawu in Zentraljava ist ein Schichtvulkan, der zwischen Surakarta und Madiun liegt. Seine Höhe beträgt 3.265 Meter. Der Vulkan ist nicht mehr aktiv, aber es gibt Fumarolen. Lawu ist ein heiliger Berg, auf dem viele hinduistische Tempel aus dem 15. Jahrhundert liegen, wie Candi Sukuh und Candi Cetho. Die Hänge sind dicht bewaldet. Der Berg ist ein beliebtes Wanderziel. Die Legende besagt, dass der letzte König von Majapahit auf dem Berg verschwand.",
+      hu: "A Mount Lawu Közép-Jáván egy rétegvulkán, Surakarta és Madiun között. Magassága 3265 méter. A vulkán nem aktív, de fumarolák találhatók. Lawu szent hegy, számos 15. századi hindu templommal, mint a Candi Sukuh és Candi Cetho. A lejtőket sűrű erdő borítja. A hegy népszerű túracélpont. A legenda szerint Majapahit utolsó királya itt tűnt el.",
+      ro: "Muntele Lawu din Java Centrală este un stratovulcan situat între Surakarta și Madiun. Altitudinea sa este de 3.265 m. Vulcanul este inactiv, dar are fumarole. Lawu este un munte sacru, cu multe temple hinduse din secolul al XV-lea, precum Candi Sukuh și Candi Cetho. Pantele sunt acoperite de păduri dese. Este o destinație populară pentru drumeții. Legenda spune că ultimul rege al Majapahit a dispărut pe munte.",
+      en: "Mount Lawu in Central Java is a stratovolcano between Surakarta and Madiun. Its height is 3,265 m. The volcano is dormant but has fumaroles. Lawu is considered sacred, with many 15th-century Hindu temples, including Candi Sukuh and Candi Cetho. The slopes are forested. It is a popular hiking destination. Legend says the last king of Majapahit vanished on the mountain.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.265 Meter.", "Letzter Ausbruch vor etwa 5.000 Jahren.", "Candi Sukuh wurde 1437 erbaut.", "Candi Cetho datiert aus dem 15. Jahrhundert.", "Der Berg ist Teil des Tengger-Massivs.", "Jährlich besteigen etwa 50.000 Wanderer den Gipfel."],
+      hu: ["Magasság: 3265 m.", "Utolsó kitörés kb. 5000 éve.", "Candi Sukuh 1437-ben épült.", "Candi Cetho a 15. századból származik.", "A hegy a Tengger-masszívum része.", "Évente kb. 50 000 túrázó éri el a csúcsot."],
+      ro: ["Altitudine: 3.265 m.", "Ultima erupție acum aproximativ 5.000 de ani.", "Candi Sukuh construit în 1437.", "Candi Cetho datează din secolul al XV-lea.", "Muntele face parte din Masivul Tengger.", "Aproximativ 50.000 de drumeți ajung pe vârf anual."],
+      en: ["Elevation: 3,265 m.", "Last eruption ~5,000 years ago.", "Candi Sukuh built in 1437.", "Candi Cetho dates from 15th century.", "Mountain part of Tengger Massif.", "About 50,000 hikers summit annually."],
+    },
   },
   {
     id: "indonesia-cyclops-mountains-relief-v2",
     type: "mountain",
     name: { de: "Cyclops-Gebirge", hu: "Küklopsz-hegység", ro: "Munții Cyclops", en: "Cyclops Mountains" },
-    coordinates: { lat: -2.516, lng: 140.5 },
+    coords: [140.5, -2.516],
     description: {
       de: "Eine schroffe Gebirgskette in Papua, die direkt aus dem Pazifik aufsteigt und den Sentani-See von der Küste trennt.",
       hu: "Zord hegylánc Pápua tartományban, amely közvetlenül a Csendes-óceánból emelkedik ki, elválasztva a Sentani-tavat a parttól.",
@@ -912,12 +1020,24 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["The highest peak is Mount Ifar at 2,160 meters.", "Composed primarily of metamorphic and ultramafic rocks.", "Critical water catchment area for the city of Jayapura.", "Habitat for the rare Attenborough's long-beaked echidna."],
     },
     imageHint: "Steep forested ridges of Cyclops Mountains overlooking Lake Sentani",
+    descriptionAdvanced: {
+      de: "Die Cyclops-Berge (Pegunungan Cyclops) liegen in der Provinz Papua, nahe der Stadt Jayapura. Sie erheben sich steil aus dem Meer und erreichen bis zu 2.000 Meter Höhe. Der Name stammt von ihrem Aussehen aus der Ferne. Die Berge sind dicht bewaldet und beherbergen viele endemische Arten, darunter den Cyclops-Kuskus und den Victoria-Fächerschwanz. Die Region ist ein wichtiges Wassereinzugsgebiet für Jayapura. Ein Teil der Berge ist als Naturreservat geschützt. Die geologische Struktur besteht aus ultrabasischen Gesteinen.",
+      hu: "A Cyclops-hegység (Pegunungan Cyclops) Pápua tartományban, Jayapura város közelében található. Meredeken emelkedik ki a tengerből, magassága eléri a 2000 métert. Nevét távoli külsejéről kapta. Az erdők sűrűk, számos endemikus faj él itt, mint a Cyclops-kuszkusz és a Viktória-legyezőfarkú. A terület fontos vízgyűjtő Jayapura számára. A hegység egy része természetvédelmi terület. Geológiája ultrabázikus kőzetekből áll.",
+      ro: "Munții Cyclops (Pegunungan Cyclops) se află în provincia Papua, lângă orașul Jayapura. Se ridică abrupt din mare, atingând altitudini de până la 2.000 m. Numele provine de la aspectul lor îndepărtat. Pădurile dese găzduiesc specii endemice, precum cuscusul Cyclops și pasărea Victoria. Zona este un bazin hidrografic important pentru Jayapura. O parte a munților este rezervație naturală. Structura geologică este formată din roci ultrabazice.",
+      en: "The Cyclops Mountains (Pegunungan Cyclops) in Papua province rise steeply from the coast near Jayapura, reaching up to 2,000 m. Named for their appearance from a distance. They are covered in dense forest, hosting endemic species like the Cyclops cuscus and Victoria's riflebird. The range is a critical water catchment for Jayapura. Part of it is a protected nature reserve. The geology consists of ultrabasic rocks.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: etwa 2.000 Meter.", "Länge: etwa 30 Kilometer.", "Endemische Art: Cyclops-Kuskus (Phalanger matabiru).", "Naturreservat Cyclops wurde 1982 eingerichtet.", "Die Berge sind Teil des pazifischen Feuerrings.", "Niederschlag: über 2.500 mm jährlich."],
+      hu: ["Legmagasabb csúcs: kb. 2000 m.", "Hossz: kb. 30 km.", "Endemikus faj: Cyclops-kuszkusz (Phalanger matabiru).", "A Cyclops természetvédelmi területet 1982-ben hozták létre.", "A hegyek a Csendes-óceáni Tűzgyűrű részei.", "Éves csapadék: 2500 mm felett."],
+      ro: ["Cel mai înalt vârf: ~2.000 m.", "Lungime: ~30 km.", "Specie endemică: cuscusul Cyclops (Phalanger matabiru).", "Rezervația naturală Cyclops înființată în 1982.", "Munții fac parte din Centura de Foc a Pacificului.", "Precipitații anuale: peste 2.500 mm."],
+      en: ["Highest peak: approx. 2,000 m.", "Length: about 30 km.", "Endemic species: Cyclops cuscus (Phalanger matabiru).", "Cyclops nature reserve established in 1982.", "Mountains part of Pacific Ring of Fire.", "Annual rainfall: over 2,500 mm."],
+    },
   },
   {
     id: "indonesia-foja-mountains-relief-v2",
     type: "mountain",
     name: { de: "Foja-Gebirge", hu: "Foja-hegység", ro: "Munții Foja", en: "Foja Mountains" },
-    coordinates: { lat: -2.5, lng: 138.833 },
+    coords: [138.833, -2.5],
     description: {
       de: "Ein extrem isoliertes Gebirge im Norden Papuas, das als 'Verlorene Welt' für seine unberührte Wildnis bekannt ist.",
       hu: "Rendkívül elszigetelt hegység Pápua északi részén, amelyet érintetlen vadonja miatt 'Elveszett Világnak' is neveznek.",
@@ -931,6 +1051,18 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       en: ["First comprehensively explored by scientists in 2005.", "Highest summit reaches approximately 2,193 meters.", "Completely uninhabited with no roads or trails.", "Home to numerous species new to science discovered recently."],
     },
     imageHint: "Dense misty rainforest ridges of the isolated Foja Mountains",
+    descriptionAdvanced: {
+      de: "Die Foja-Berge (Pegunungan Foja) in Papua, Indonesien, sind ein abgelegenes Gebirge im Mamberamo-Einzugsgebiet. Sie wurden erstmals 1979 wissenschaftlich erforscht. Der höchste Punkt ist der Trigorah-Gipfel (2.293 Meter). Die Wälder sind fast unberührt und beherbergen viele neu entdeckte Arten, darunter der Foja-Monarch und der Paradiesvogel Berlepsch. Die Region ist Teil des Mamberamo-Foja-Schutzgebietes. Die Berge bestehen aus Kalkstein und Karstformationen. Der Niederschlag ist extrem hoch.",
+      hu: "A Foja-hegység (Pegunungan Foja) Pápuán, Indonéziában, a Mamberamo folyó medencéjében található. Tudományos kutatása 1979-ben kezdődött. Legmagasabb pont: Trigorah-csúcs (2293 m). Az erdők szinte érintetlenek, számos újonnan felfedezett faj él itt, mint a Foja-monarcha és a Berlepsch-paradicsommadár. A terület a Mamberamo-Foja védett övezet része. A hegység mészkőből és karsztformációkból áll. A csapadék rendkívül magas.",
+      ro: "Munții Foja (Pegunungan Foja) din Papua, Indonezia, sunt un lanț izolat în bazinul râului Mamberamo. Au fost explorați științific prima dată în 1979. Cel mai înalt vârf este Trigorah (2.293 m). Pădurile sunt aproape intacte, adăpostind multe specii nou descoperite, cum ar fi monarcha Foja și pasărea paradisului Berlepsch. Regiunea face parte din zona protejată Mamberamo-Foja. Munții sunt formați din calcar și carst. Precipitațiile sunt extrem de ridicate.",
+      en: "The Foja Mountains (Pegunungan Foja) in Papua, Indonesia, are a remote range in the Mamberamo basin. First scientifically explored in 1979. The highest point is Trigorah Peak at 2,293 m. The forests are nearly pristine, hosting many newly discovered species, including the Foja monarch and Berlepsch's bird of paradise. The area is part of the Mamberamo-Foja protected zone. Geology features limestone karst. Rainfall is extremely high.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Trigorah, 2.293 Meter.", "Erstbesteigung 1979.", "Entdeckung von 20 neuen Arten bei Expedition 2005.", "Fläche des Schutzgebiets: etwa 1,5 Millionen Hektar.", "Niederschlag: über 5.000 mm jährlich.", "Heimat des Berlepsch-Paradiesvogels."],
+      hu: ["Legmagasabb csúcs: Trigorah (2293 m).", "Első megmászás 1979-ben.", "20 új fajt fedeztek fel a 2005-ös expedíción.", "A védett terület nagysága: kb. 1,5 millió hektár.", "Csapadék: 5000 mm felett évente.", "A Berlepsch-paradicsommadár élőhelye."],
+      ro: ["Cel mai înalt vârf: Trigorah, 2293 m.", "Prima ascensiune în 1979.", "Descoperirea a 20 de specii noi la expediția din 2005.", "Suprafața zonei protejate: ~1,5 milioane ha.", "Precipitații: peste 5.000 mm anual.", "Habitat pentru pasărea paradisului Berlepsch."],
+      en: ["Highest peak: Trigorah at 2,293 m.", "First climbed in 1979.", "20 new species discovered in 2005 expedition.", "Protected area size: about 1.5 million ha.", "Rainfall: over 5,000 mm annually.", "Home to Berlepsch's bird of paradise."],
+    },
   }
 ];
 

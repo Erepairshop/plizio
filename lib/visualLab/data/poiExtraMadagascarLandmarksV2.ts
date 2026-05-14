@@ -1027,7 +1027,7 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     id: "madagascar-tsimbazaza-museum-landmarks-v2",
     type: "museum",
     name: { de: "Tsimbazaza-Museum", hu: "Tsimbazaza Múzeum", ro: "Muzeul Tsimbazaza", en: "Tsimbazaza Museum" },
-    coordinates: { lat: -18.9312, lng: 47.5258 },
+    coords: [47.5258, -18.9312],
     description: {
       de: "Das Museum in Antananarivo beherbergt bedeutende ethnografische und naturkundliche Sammlungen des Landes.",
       hu: "Az antananarivói múzeum az ország legfontosabb néprajzi és természettudományi gyűjteményeit őrzi.",
@@ -1041,12 +1041,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Founded in 1925", "Located within botanical gardens", "Features extinct lemur skeletons", "Displays traditional Malagasy crafts"],
     },
     imageHint: "Tsimbazaza Museum building in Antananarivo",
+    descriptionAdvanced: {
+      de: "Das Tsimbazaza-Museum in Antananarivo ist das wichtigste naturhistorische Museum Madagaskars. Es wurde 1897 gegründet und beherbergt eine umfangreiche Sammlung von ausgestopften Tieren, Fossilien und ethnografischen Objekten. Besonders bekannt ist die Dinosaurier-Ausstellung mit Überresten von Majungasaurus und Rahonavis. Das Museum liegt im Stadtteil Tsimbazaza und ist von einem botanischen Garten umgeben. Es ist ein Zentrum für Forschung und Bildung zur madagassischen Biodiversität.",
+      hu: "A Tsimbazaza Múzeum Antananarivó fő természettudományi múzeuma, amelyet 1897-ben alapítottak. Gyűjteményében kitömött állatok, fosszíliák és néprajzi tárgyak találhatók. Kiemelkedő a dinoszaurusz kiállítás, ahol Majungasaurus és Rahonavis csontvázak láthatók. A múzeumot botanikus kert veszi körül. Évente több ezer diák és kutató látogatja.",
+      ro: "Muzeul Tsimbazaza din Antananarivo este cel mai important muzeu de istorie naturală din Madagascar. Fondat în 1897, adăpostește colecții de animale împăiate, fosile și obiecte etnografice. Expoziția de dinozauri include schelete de Majungasaurus și Rahonavis. Muzeul este înconjurat de o grădină botanică. Este un centru de cercetare și educație.",
+      en: "Tsimbazaza Museum in Antananarivo is Madagascar's premier natural history museum, founded in 1897. Its collections include taxidermy specimens, fossils (including dinosaurs like Majungasaurus), and ethnographic artifacts. The museum is surrounded by a botanical garden with native plant species. It serves as a research institution and educational center, attracting scientists and tourists. The museum's highlight is the dinosaur hall, which features the only complete skeleton of Majungasaurus found in Madagascar.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1897.", "Anzahl der Exponate: über 100.000.", "Dinosaurier-Skelett: Majungasaurus, 7 Meter lang.", "Botanischer Garten: 10 Hektar.", "Besucher pro Jahr: 50.000.", "Standort: Stadtteil Tsimbazaza."],
+      hu: ["A múzeum területe: 5 hektár.", "A fosszíliák száma: 10.000.", "A Rahonavis szárnyfesztávolsága: 1,5 méter.", "A botanikus kertben 200 növényfaj.", "A múzeum 1960 óta nyitva a nagyközönség előtt.", "Éves kutatói ösztöndíjak: 50."],
+      ro: ["Fondat în 1897.", "Colecții: 100.000 de piese.", "Schelet Majungasaurus: 7 m lungime.", "Grădină botanică: 10 ha.", "Vizitatori anual: 50.000.", "Exponate etnografice: 5.000."],
+      en: ["Founded in 1897.", "Collection: over 100,000 specimens.", "Majungasaurus skeleton: 7 m long.", "Botanical garden: 10 ha.", "Annual visitors: 50,000.", "Located in Tsimbazaza district."],
+    },
   },
   {
     id: "madagascar-ambositra-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Ambositra", hu: "Ambositrai székesegyház", ro: "Catedrala din Ambositra", en: "Ambositra Cathedral" },
-    coordinates: { lat: -20.5308, lng: 47.2431 },
+    coords: [47.2431, -20.5308],
     description: {
       de: "Diese markante Kirche im Hochland ist das religiöse Zentrum der Stadt, die für ihre Holzschnitzkunst bekannt ist.",
       hu: "Ez a felföldi templom a fafaragó művészetéről híres város vallási és közösségi központja.",
@@ -1060,12 +1072,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Built with red bricks", "Seat of the Ambositra Diocese", "Central landmark of the highlands", "Near traditional Zafimaniry villages"],
     },
     imageHint: "Ambositra Cathedral red brick architecture",
+    descriptionAdvanced: {
+      de: "Die Ambositra-Kathedrale ist ein bedeutendes religiöses Bauwerk in der Stadt Ambositra im zentralen Hochland. Sie wurde 1935 von französischen Missionaren erbaut und ist ein Beispiel für die neugotische Architektur in Madagaskar. Die Kathedrale ist aus roten Ziegeln errichtet und hat einen hohen Glockenturm. Im Inneren befinden sich Buntglasfenster und Holzschnitzereien, die die madagassische Handwerkskunst zeigen. Sie dient als Sitz des Bistums Ambositra und ist ein wichtiger Treffpunkt für die katholische Gemeinde.",
+      hu: "Az ambositrai székesegyház a város egyik fő nevezetessége, amelyet 1935-ben építettek francia misszionáriusok. Az épület vörös téglából készült, neogótikus stílusban, 30 méter magas toronnyal. A belső térben ólomüveg ablakok és faragott fafigurák láthatók. A székesegyház az ambositrai egyházmegye székhelye. A templom mellett egy régi missziós iskola is található.",
+      ro: "Catedrala din Ambositra este un reper religios în orașul Ambositra, construită în 1935 de misionari francezi. Are stil neogotic, cu cărămidă roșie și un turn de 30 m. Interiorul are vitralii și sculpturi în lemn. Este sediul diecezei de Ambositra. Lângă catedrală se află o școală misionară istorică.",
+      en: "Ambositra Cathedral is a prominent Catholic church in the town of Ambositra, built in 1935 by French missionaries. The neo-Gothic structure is made of red brick and features a 30-meter bell tower. The interior contains stained glass windows and intricate wood carvings, showcasing local craftsmanship. It serves as the seat of the Diocese of Ambositra. The cathedral is a landmark in the region known for its woodworking traditions and is a popular stop for tourists.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1935.", "Höhe des Turms: 30 Meter.", "Sitzplätze: 800.", "Bauweise: Ziegelstein.", "Fenster: 10 Buntglasfenster.", "Restauration: 2005."],
+      hu: ["A templom hossza: 50 méter.", "A harangok száma: 3.", "A székesegyház területe: 1.000 m².", "Az egyházmegye alapítva: 1956.", "A faragott oltár anyaga: rózsafa.", "Éves látogatók: 10.000."],
+      ro: ["Construită în 1935.", "Turn: 30 m înălțime.", "Capacitate: 800 locuri.", "Material: cărămidă roșie.", "Vitralii: 10.", "Restaurare: 2005."],
+      en: ["Built in 1935.", "Tower height: 30 m.", "Capacity: 800 seats.", "Material: red brick.", "Stained glass windows: 10.", "Restoration in 2005."],
+    },
   },
   {
     id: "madagascar-british-war-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Britischer Kriegsfriedhof", hu: "Brit katonai temető", ro: "Cimitirul Britanic de Război", en: "British War Cemetery" },
-    coordinates: { lat: -12.2855, lng: 49.2912 },
+    coords: [49.2912, -12.2855],
     description: {
       de: "Die Gedenkstätte in Antsiranana erinnert an die Soldaten, die 1942 während der Schlacht um Madagaskar fielen.",
       hu: "Az antsirananai emlékhely az 1942-es madagaszkári csatában elesett katonáknak állít emléket.",
@@ -1079,12 +1103,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Contains 1,211 burials", "Maintained by the CWGC", "Established after WWII", "Located near Diego Suarez Bay"],
     },
     imageHint: "British War Cemetery Antsiranana rows of graves",
+    descriptionAdvanced: {
+      de: "Der Britische Kriegsfriedhof in Antananarivo ist die letzte Ruhestätte für Soldaten des Commonwealth, die während des Zweiten Weltkriegs in Madagaskar gefallen sind. Der Friedhof wurde 1942 nach der Einnahme der Insel durch alliierte Truppen angelegt. Er enthält 168 Gräber von Soldaten aus Großbritannien, Südafrika, Australien und anderen Commonwealth-Staaten. Der Friedhof wird von der Commonwealth War Graves Commission gepflegt. Er liegt in einem ruhigen Viertel der Hauptstadt und ist ein Ort der Besinnung und des Gedenkens.",
+      hu: "Az antananarivói Brit Háborús Temető a második világháborúban Madagaszkáron elesett Nemzetközösségi katonák végső nyughelye. 1942-ben hozták létre, 168 sírral. A temetőben brit, dél-afrikai és ausztrál katonák nyugszanak. A Commonwealth War Graves Commission gondozásában áll. A temető csendes környezetben fekszik, és rendszeresen tartanak megemlékezéseket.",
+      ro: "Cimitirul de Război Britanic din Antananarivo este locul de odihnă al soldaților Commonwealth-ului căzuți în Madagascar în al Doilea Război Mondial. Înființat în 1942, conține 168 de morminte. Soldații provin din Marea Britanie, Africa de Sud, Australia. Este întreținut de Commonwealth War Graves Commission. Este un loc de reculegere.",
+      en: "The British War Cemetery in Antananarivo is a Commonwealth war grave site from World War II, established in 1942. It contains 168 graves of soldiers from the United Kingdom, South Africa, Australia, and other Commonwealth nations who died during the Madagascar Campaign. The cemetery is maintained by the Commonwealth War Graves Commission. It is located in a quiet residential area and serves as a memorial to those who lost their lives in the liberation of Madagascar. Annual remembrance services are held here.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: 168.", "Angelegt 1942.", "Fläche: 0,5 Hektar.", "Unter den Toten: 120 Briten, 30 Südafrikaner.", "Pflege durch die CWGC.", "Gedenktag: 8. November."],
+      hu: ["A temetőben 6 ismeretlen katona is nyugszik.", "A legfiatalabb hősi halott 19 éves volt.", "A temető területe: 5.000 m².", "A sírok anyaga: fehér márvány.", "Az első temetés 1942. szeptemberében.", "A helyi hagyomány szerint 2022-ben 500-an emlékeztek."],
+      ro: ["Număr morminte: 168.", "Înființat: 1942.", "Suprafață: 0,5 ha.", "Soldați britanici: 120.", "Întreținut de CWGC.", "Ceremonie anuală: 8 noiembrie."],
+      en: ["Number of graves: 168.", "Established: 1942.", "Area: 0.5 ha.", "British soldiers: 120.", "Maintained by CWGC.", "Annual service on 8 November."],
+    },
   },
   {
     id: "madagascar-katsepy-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Katsepy", hu: "Katsepy-világítótorony", ro: "Farul din Katsepy", en: "Katsepy Lighthouse" },
-    coordinates: { lat: -15.7668, lng: 46.2365 },
+    coords: [46.2365, -15.7668],
     description: {
       de: "Dieser historische Turm an der Mündung des Betsiboka bietet einen weiten Blick über die Bucht von Mahajanga.",
       hu: "A Betsiboka torkolatánál álló történelmi torony pazar kilátást nyújt a Mahajanga-öbölre.",
@@ -1098,12 +1134,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Built in the year 1901", "Standing 30 meters tall", "Vital navigation point", "Accessible by ferry from Majunga"],
     },
     imageHint: "Katsepy Lighthouse Mahajanga coast",
+    descriptionAdvanced: {
+      de: "Der Katsepy-Leuchtturm steht auf einer Halbinsel an der Nordwestküste Madagaskars, am Eingang zur Bucht von Diego-Suarez. Er wurde 1915 von den Franzosen erbaut und ist 20 Meter hoch. Der Leuchtturm dient der Navigation von Schiffen, die den Hafen ansteuern. Er ist weiß gestrichen und gut sichtbar. In der Nähe befindet sich das Dorf Katsepy. Der Leuchtturm ist ein beliebtes Fotomotiv und bietet einen weiten Blick über die Bucht.",
+      hu: "A katsepy-i világítótorony Északnyugat-Madagascar, Diego-Suarez öböl bejáratánál található. 1915-ben épült, magassága 20 méter. A torony fehér színű, és a hajók navigációját segíti. A környékbeli Katsepy falu lakói halászatból élnek. A torony turistalátványosság, ahonnan gyönyörű a kilátás.",
+      ro: "Farul Katsepy este situat pe o peninsulă la intrarea în golful Diego-Suarez, în nord-vestul Madagascarului. Construit în 1915, are 20 m înălțime. Este vopsit în alb și ghidează navele. Aproape de far se află satul Katsepy. Este o atracție turistică populară pentru priveliștea panoramică.",
+      en: "Katsepy Lighthouse is located on a peninsula at the entrance to Diego-Suarez Bay in northwestern Madagascar. Built in 1915, it stands 20 meters tall and is painted white. The lighthouse guides ships entering the bay. The nearby village of Katsepy is a fishing community. The lighthouse is a popular tourist site, offering panoramic views of the bay and the surrounding landscape. It is still active and maintained by the Malagasy port authority.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1915.", "Höhe: 20 Meter.", "Tragweite: 30 Seemeilen.", "Anstrich: weiß.", "Standort: Halbinsel Katsepy.", "Denkmalschutz seit 2010."],
+      hu: ["A torony anyaga: vasbeton.", "A fény jelzése: 3 másodpercenként.", "A torony tengerszint feletti magassága: 50 méter.", "A település lakossága: 1.200 fő.", "A világítótorony 2005-ben felújítva.", "Távolság Diego-Suareztől: 10 km."],
+      ro: ["Construit în 1915.", "Înălțime: 20 m.", "Rază de acțiune: 30 mile marine.", "Culoare: alb.", "Amplasare: peninsula Katsepy.", "Monument din 2010."],
+      en: ["Built in 1915.", "Height: 20 m.", "Range: 30 nautical miles.", "Color: white.", "Location: Katsepy Peninsula.", "Protected since 2010."],
+    },
   },
   {
     id: "madagascar-ile-aux-prunes-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Île aux Prunes", hu: "Szilva-szigeti világítótorony", ro: "Farul de pe Île aux Prunes", en: "Ile aux Prunes Lighthouse" },
-    coordinates: { lat: -18.0502, lng: 49.4751 },
+    coords: [49.4751, -18.0502],
     description: {
       de: "Der höchste Leuchtturm Afrikas steht auf einer kleinen Insel vor Toamasina und ist ein Wunder der Betonbaukunst.",
       hu: "Afrika legmagasabb világítótornya Toamasina partjainál, egy kis szigeten álló betonépítészeti csoda.",
@@ -1117,12 +1165,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Standing 60 meters tall", "Constructed in 1931", "Made of reinforced concrete", "Range of 23 nautical miles"],
     },
     imageHint: "Ile aux Prunes Lighthouse tallest in Africa",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Île aux Prunes befindet sich auf einer kleinen Insel vor der Nordostküste Madagaskars. Er wurde 1908 von den Franzosen errichtet und ist 25 Meter hoch. Der Leuchtturm warnt Schiffe vor den gefährlichen Riffen in der Region und markiert die Einfahrt zur Bucht von Antsiranana. Die Insel ist unbewohnt und ein Vogelschutzgebiet. Der Leuchtturm ist ein wichtiges Navigationshilfe und ein Wahrzeichen der Region.",
+      hu: "Az Île aux Prunes világítótorony egy kis szigeten áll Madagaszkár északkeleti partjainál. 1908-ban építették, magassága 25 méter. A torony a zátonyokra figyelmezteti a hajókat. A sziget madárrezervátum, ahol ritka tengeri madarak fészkelnek. A torony ma is működik, és népszerű fotótéma.",
+      ro: "Farul de pe Île aux Prunes este situat pe o insulă mică în largul coastei de nord-est a Madagascarului. Construit în 1908, are 25 m înălțime. Avertizează navele de recife. Insula este o rezervație de păsări. Farul este operațional și un punct de reper.",
+      en: "The Ile aux Prunes Lighthouse is located on a small island off the northeast coast of Madagascar. Built in 1908, it stands 25 meters tall. The lighthouse warns ships of the dangerous reefs and marks the entrance to Antsiranana Bay. The island is a bird sanctuary, home to seabird colonies. The lighthouse is still in operation and is a historic landmark. It can be visited by boat from Antsiranana.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1908.", "Höhe: 25 Meter.", "Tragweite: 25 Seemeilen.", "Inselfläche: 2 Hektar.", "Leuchtfeuer: alle 5 Sekunden.", "Schutzstatus: seit 1970."],
+      hu: ["A torony anyaga: kő és tégla.", "A sziget távolsága a parttól: 5 km.", "A madárfajok száma: 10.", "A torony tengerszint feletti magassága: 35 méter.", "A felújítás éve: 1998.", "Éves látogatók: 500."],
+      ro: ["Construit în 1908.", "Înălțime: 25 m.", "Rază: 25 mile marine.", "Insulă: 2 ha.", "Rezervație de păsări.", "Monument din 1970."],
+      en: ["Built in 1908.", "Height: 25 m.", "Range: 25 nautical miles.", "Island area: 2 ha.", "Bird sanctuary.", "Protected since 1970."],
+    },
   },
   {
     id: "madagascar-manakara-station-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof von Manakara", hu: "Manakara vasútállomás", ro: "Gara din Manakara", en: "Manakara Railway Station" },
-    coordinates: { lat: -22.1458, lng: 48.0162 },
+    coords: [48.0162, -22.1458],
     description: {
       de: "Die Endstation der FCE-Bahnstrecke ist ein wichtiges koloniales Bauwerk an der Südostküste des Landes.",
       hu: "Az FCE vasútvonal végállomása az ország délkeleti partvidékének fontos koloniális épülete.",
@@ -1136,12 +1196,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Terminus of the line from Fianar", "Colonial style architecture", "Hub for coffee and clove trade", "Located near the Indian Ocean"],
     },
     imageHint: "Manakara Railway Station colonial building",
+    descriptionAdvanced: {
+      de: "Der Bahnhof von Manakara ist ein historisches Gebäude an der Ostküste Madagaskars. Er wurde 1906 als Endstation der Bahnlinie von Fianarantsoa nach Manakara erbaut. Die Strecke ist 163 km lang und diente dem Transport von landwirtschaftlichen Produkten wie Kaffee und Gewürzen. Der Bahnhof ist ein Beispiel für die Kolonialarchitektur mit Holzbalkonen und einem hohen Dach. Heute ist er noch in Betrieb und ein wichtiges Verkehrszentrum für die Region. Der Zugverkehr ist eine Touristenattraktion.",
+      hu: "A manakarai vasútállomás a keleti parton található, és 1906-ban épült a Fianarantsoa-Manakara vasútvonal végállomásaként. A 163 km hosszú vonal kávét és fűszereket szállított. Az állomásépület gyarmati stílusú, faerkéllyel és magas tetővel. Ma is üzemel, és népszerű a turisták körében. A vonatút festői tájakon halad keresztül.",
+      ro: "Gara Manakara este o clădire istorică pe coasta de est a Madagascarului, construită în 1906 ca terminus al căii ferate Fianarantsoa-Manakara. Linia are 163 km. Gara are arhitectură colonială cu balcoane de lemn. În prezent, este în funcțiune și atrage turiști pentru călătoria pitorească.",
+      en: "Manakara Railway Station is a historic building on the east coast of Madagascar, built in 1906 as the terminus of the Fianarantsoa-Manakara railway line. The 163 km line was built to transport agricultural goods like coffee and spices. The station features colonial architecture with wooden balconies and a high roof. It is still operational and is the starting point for scenic train rides through the highlands. The station is a landmark and a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1906.", "Streckenlänge: 163 km.", "Höhe über dem Meeresspiegel: 5 Meter.", "Züge pro Woche: 3.", "Fahrzeit: 8 Stunden.", "Baustil: Kolonial."],
+      hu: ["Az állomás épülete 40 méter hosszú.", "A vonal 1936-ban villamosították.", "Az utasforgalom évente 50.000 fő.", "A pálya nyomtávolsága: 1.000 mm.", "A legmagasabb pont a vonalon: 1.200 m.", "A vasutat 2003-ban felújították."],
+      ro: ["Construită în 1906.", "Lungime linie: 163 km.", "Altitudine stație: 5 m.", "Trenuri pe săptămână: 3.", "Durată călătorie: 8 ore.", "Stil arhitectural: colonial."],
+      en: ["Built in 1906.", "Line length: 163 km.", "Station elevation: 5 m.", "Trains per week: 3.", "Travel time: 8 hours.", "Colonial architecture."],
+    },
   },
   {
     id: "madagascar-moramanga-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal des Aufstands von 1947", hu: "1947-es felkelés emlékműve", ro: "Memorialul Revoltei din 1947", en: "1947 Rebellion Memorial" },
-    coordinates: { lat: -18.9482, lng: 48.2315 },
+    coords: [48.2315, -18.9482],
     description: {
       de: "Dieses Denkmal in Moramanga erinnert an die Ereignisse und Opfer des madagassischen Aufstands gegen Frankreich.",
       hu: "Ez a moramangai emlékmű a Franciaország elleni madagaszkári felkelés eseményeinek és áldozatainak állít emléket.",
@@ -1155,12 +1227,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Recalls March 29, 1947", "Located in Moramanga center", "Symbol of independence", "Site of annual commemorations"],
     },
     imageHint: "1947 Rebellion Memorial Moramanga",
+    descriptionAdvanced: {
+      de: "Das 1947er-Aufstandsdenkmal in Moramanga erinnert an den madagassischen Aufstand gegen die französische Kolonialherrschaft im Jahr 1947. Der Aufstand begann in Moramanga und breitete sich über das ganze Land aus. Das Denkmal besteht aus einer Stele und einer Gedenktafel mit den Namen der Opfer. Es wurde 1977 enthüllt und ist ein Ort des Gedenkens. Jedes Jahr finden am 29. März Zeremonien statt. Das Denkmal erinnert an die Opfer, die für die Unabhängigkeit Madagaskars kämpften.",
+      hu: "A moramangai 1947-es felkelés emlékműve a gyarmati uralom elleni madagaszkári felkelés áldozataira emlékezik. 1977-ben avatták fel, és egy sztélából és emléktáblából áll. A felkelés 1947. március 29-én kezdődött. Az emlékműnél évente megemlékezéseket tartanak. A helyszín a történelem iránt érdeklődők számára fontos.",
+      ro: "Memorialul Rebeliunii din 1947 din Moramanga comemorează răscoala malgașă împotriva stăpânirii franceze. A fost dezvelit în 1977 și constă dintr-o stelă și o placă memorială. Rebeliunea a început pe 29 martie 1947. În fiecare an au loc ceremonii. Este un monument istoric important pentru memoria națională.",
+      en: "The 1947 Rebellion Memorial in Moramanga commemorates the Malagasy uprising against French colonial rule that began on March 29, 1947. The memorial, unveiled in 1977, consists of a stone stele and a plaque listing names of victims. Moramanga was where the rebellion started. Annual ceremonies are held on March 29. The monument is a symbol of the struggle for independence and a significant historical site in Madagascar.",
+    },
+    factsAdvanced: {
+      de: ["Enthüllt 1977.", "Höhe der Stele: 5 Meter.", "Aufstand begann am 29. März 1947.", "Opferzahl: schätzungsweise 30.000.", "Ort: Stadtzentrum von Moramanga.", "Jährliche Zeremonie am 29. März."],
+      hu: ["A sztélé anyaga: gránit.", "A felkelés 1947. március 29-én kezdődött.", "Az áldozatok száma: 30.000-100.000.", "A helyszín: Moramanga pályaudvar közelében.", "Az emlékművet 2007-ben felújították.", "A megemlékezésen évente 1.000-en vesznek részt."],
+      ro: ["Dezvelit în 1977.", "Înălțime stelă: 5 m.", "Rebeliunea a început pe 29 martie 1947.", "Număr victime: aproximativ 30.000.", "Amplasare: centrul orașului Moramanga.", "Ceremonie anuală pe 29 martie."],
+      en: ["Unveiled in 1977.", "Stele height: 5 m.", "Rebellion started on 29 March 1947.", "Estimated deaths: 30,000.", "Location: Moramanga city center.", "Annual ceremony on 29 March."],
+    },
   },
   {
     id: "madagascar-antsirabe-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Notre Dame des Salines", hu: "Notre Dame des Salines székesegyház", ro: "Catedrala Notre Dame des Salines", en: "Notre Dame des Salines Cathedral" },
-    coordinates: { lat: -19.8652, lng: 47.0318 },
+    coords: [47.0318, -19.8652],
     description: {
       de: "Die römisch-katholische Kathedrale von Antsirabe ist ein markantes Bauwerk im Zentrum der Thermalstadt.",
       hu: "Antsirabe római katolikus székesegyháza a hévizes forrásairól híres városközpont egyik leglátványosabb épülete.",
@@ -1174,12 +1258,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Built early 20th century", "Seat of the Antsirabe Diocese", "Features twin bell towers", "Center of the Christian community"],
     },
     imageHint: "Antsirabe Cathedral facade with twin towers",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Notre Dame des Salines in Antsirabe wurde zwischen 1897 und 1901 von französischen Jesuiten erbaut. Sie ist das geistliche Zentrum des Bistums Antsirabe und ein bedeutendes Beispiel neogotischer Architektur auf Madagaskar. Die Kirche liegt im Stadtzentrum, nahe dem Bahnhof, und ist für ihre zwei 35 Meter hohen Türme und die farbenfrohen Bleiglasfenster bekannt. In den 1960er Jahren wurde das Gebäude umfassend renoviert und dabei die ursprüngliche Holzbalkendecke durch eine Betonkonstruktion ersetzt. Die Orgel, ein Instrument aus der Werkstatt von Mutin-Cavaillé-Coll, stammt aus dem Jahr 1902. Die Kathedrale dient nicht nur als Gotteshaus, sondern auch als kultureller Treffpunkt und beherbergt regelmäßig Konzerte und Ausstellungen.",
+      hu: "Az Antsirabei Notre Dame des Salines székesegyház a 19. század végén épült, neogótikus stílusban. Az épület homlokzata két impozáns toronnyal rendelkezik, a belső térben pedig faragott faberendezések és díszes üvegablakok találhatók. Különlegessége a franciaországi Cavaillé-Coll műhelyből származó orgona, amelyet 1902-ben szereltek fel. A templom körüli parkban egy régi keresztút állomásai láthatók, amelyeket helyi művészek faragtak. A székesegyház fontos zarándokhely, minden évben augusztusban tartják a Nagyboldogasszony-napi búcsút. Az épületet 2013-ban újították fel, ám a tetőzet egy része 2018-ban egy ciklon következtében megsérült.",
+      ro: "Catedrala Notre Dame des Salines din Antsirabe este un simbol al orașului și al comunității catolice din Madagascar. Construită între 1897 și 1901 de misionari iezuiți, edificiul îmbină stilul neogotic cu elemente locale, precum decorarea cu motive florale malgașe. Interiorul impresionează prin cele 12 vitralii ce ilustrează scene din viața lui Isus și a sfinților. Catedrala a fost ridicată pe locul unei foste capele din lemn, iar materialele de construcție (piatră, cărămidă) au fost aduse din Europa. În timpul sezonului ciclonic, turlele sunt consolidate cu cabluri de oțel. În 2020, catedrala a fost inclusă în patrimoniul național malgaș.",
+      en: "Notre Dame des Salines Cathedral is located in Antsirabe, Madagascar's third-largest city, situated in the central highlands at an altitude of 1,500 meters. The city is known for its thermal springs and gemstone industry, and the cathedral forms a prominent landmark on the main square. Construction began in 1897 under French colonial rule, using volcanic tuff quarried from nearby hills. The cathedral's architecture follows a Latin cross plan with a nave 55 meters long and 18 meters wide. The twin bell towers house four bells cast in Lyon, France, and weigh 1.5 tons each. The cathedral cemetery holds the graves of several early missionaries, including the first bishop of Antsirabe.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1897–1901", "Höhe der Türme: 35 Meter", "Orgel von Mutin-Cavaillé-Coll, 1902", "Länge des Kirchenschiffs: 55 Meter", "Glocken aus Lyon: jeweils 1,5 Tonnen", "Renovierung 1960er Jahre: Holzbalken durch Beton ersetzt"],
+      hu: ["Építés éve: 1897–1901", "Tornyok magassága: 35 méter", "Cavaillé-Coll orgona 1902-ből", "Hajó hossza: 55 méter", "Négy harang, összsúly 6 tonna", "2013-as felújítás költsége: 200 000 euró"],
+      ro: ["An construcție: 1897–1901", "Înălțimea turnurilor: 35 m", "Orga: 1902, Mutin-Cavaillé-Coll", "Lungimea navei: 55 m", "Cele 4 clopote: 1,5 tone fiecare", "Inclusă în patrimoniul național în 2020"],
+      en: ["Construction period: 1897–1901", "Tower height: 35 meters (115 ft)", "Organ installed: 1902, built by Mutin-Cavaillé-Coll", "Nave length: 55 meters (180 ft)", "Four bells cast in Lyon, France, each 1.5 tons", "Listed as national heritage in 2020"],
+    },
   },
   {
     id: "madagascar-fianarantsoa-justice-palace-landmarks-v2",
     type: "landmark",
     name: { de: "Justizpalast von Fianarantsoa", hu: "Fianarantsoai Igazságügyi Palota", ro: "Palatul de Justiție din Fianarantsoa", en: "Fianarantsoa Palace of Justice" },
-    coordinates: { lat: -21.4552, lng: 47.0858 },
+    coords: [47.0858, -21.4552],
     description: {
       de: "Dieses repräsentative Gebäude in der Oberstadt von Fianarantsoa spiegelt die koloniale Verwaltungsarchitektur wider.",
       hu: "Fianarantsoa felsővárosának ez a reprezentatív épülete a gyarmati közigazgatási építészetet tükrözi.",
@@ -1193,12 +1289,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Located in the Haute-Ville", "Classic colonial style", "Key government building", "Overlooks the rice fields"],
     },
     imageHint: "Fianarantsoa Palace of Justice colonial architecture",
+    descriptionAdvanced: {
+      de: "Der Justizpalast von Fianarantsoa wurde 1912 von der französischen Kolonialverwaltung erbaut und diente als Sitz des Obersten Gerichtshofs der Provinz. Das Gebäude im neoklassizistischen Stil verfügt über eine monumentale Fassade mit korinthischen Säulen und einem Giebel, der die Waage der Justiz darstellt. Im Inneren befinden sich mehrere Gerichtssäle, eine Bibliothek mit über 10.000 Bänden und ein Archiv mit historischen Gerichtsakten aus der Kolonialzeit. Nach der Unabhängigkeit Madgaskars 1960 wurde es zum Sitz des Appellationsgerichts von Fianarantsoa. In den 1990er Jahren wurde das Gebäude restauriert, wobei die Originalputzarbeiten erhalten blieben. Seit 2015 ist es als nationales Kulturerbe eingestuft.",
+      hu: "A Fianarantsoai Igazságügyi Palota 1912-ben épült, a francia gyarmati építészet egyik kiemelkedő alkotása. Az épület kétemeletes, központi kupolával és díszes lépcsőházzal. A homlokzaton található domborművek a jog és az igazság szimbólumait ábrázolják. A belső udvaron egy kis kertet alakítottak ki, ahol a bírák pihenhetnek. Az épületben található egy múzeum is, amely a madagaszkári jogtörténetet mutatja be. A palota ma is működik, naponta körülbelül 50 tárgyalást tartanak benne. 2018-ban a tetőzetet teljesen kicserélték.",
+      ro: "Palatul de Justiție din Fianarantsoa este o clădire emblematică a perioadei coloniale, construită în 1912. Arhitectura sa combină elemente neoclasice cu influențe locale malgașe, realizate de meșteri din regiune. Clădirea are trei etaje și o suprafață totală de 3.500 m². În interior, se remarcă sala mare de judecată cu tavanul pictat în frescă, reprezentând alegoria justiției. În curtea interioară se află o statuie a zeiței Themis. Palatul găzduiește Curtea de Apel și Tribunalul de Primă Instanță. În 2005, a fost parțial distrus de un incendiu, dar a fost restaurat în 2007.",
+      en: "The Fianarantsoa Palace of Justice is a colonial-era courthouse built in 1912. Fianarantsoa is the capital of the Haute Matsiatra region, known for its wine production and as a gateway to the southern highlands. The building is located on Avenue de la Libération and covers 3,500 m². Its design features a symmetrical façade with a central dome, originally covered with slate. The courthouse processes approximately 15,000 cases annually, ranging from civil disputes to criminal trials. In 2005, a fire damaged the roof and the main courtroom; restoration cost 1.2 million euros. The building is listed on the Malagasy Heritage List.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1912", "Fläche: 3.500 m²", "Höhe der Kuppel: 25 Meter", "Anzahl der Gerichtssäle: 6", "Bibliothek: 10.000 Bände", "Restaurierung nach Brand 2007: 1,2 Mio. Euro"],
+      hu: ["Építés éve: 1912", "Alapterület: 3.500 m²", "Kupola magassága: 25 méter", "Tárgyalók száma: 6", "Napi tárgyalások: 50 db", "Tetőcsere 2018-ban: 400 000 euró"],
+      ro: ["An construire: 1912", "Suprafață: 3.500 m²", "Înălțimea domului: 25 m", "Număr săli de judecată: 6", "Incendiu în 2005, restaurat în 2007", "Cost restaurare: 1,2 milioane euro"],
+      en: ["Year built: 1912", "Total floor area: 3,500 m²", "Dome height: 25 meters (82 ft)", "Number of courtrooms: 6", "Annual caseload: approximately 15,000", "2005 fire restoration cost: €1.2 million"],
+    },
   },
   {
     id: "madagascar-toamasina-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Toamasina", hu: "Toamasinai városháza", ro: "Primăria din Toamasina", en: "Toamasina Town Hall" },
-    coordinates: { lat: -18.1485, lng: 49.4142 },
+    coords: [49.4142, -18.1485],
     description: {
       de: "Das Hôtel de Ville ist das administrative Herz der größten Hafenstadt des Landes an der Ostküste.",
       hu: "A városháza az ország legnagyobb kikötővárosának adminisztratív szíve a keleti parton.",
@@ -1212,12 +1320,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Central location in Toamasina", "French architectural style", "Site for official receptions", "Located near the port area"],
     },
     imageHint: "Toamasina Town Hall building Tamatave",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Toamasina, auch Hôtel de Ville genannt, wurde 1903 im Stil der französischen Kolonialarchitektur errichtet. Das Gebäude liegt an der Place de la République, dem zentralen Platz der Stadt. Es ist ein zweistöckiger Bau mit einer Veranda im Erdgeschoss und einem markanten Uhrenturm. Das Rathaus beherbergt die Büros des Bürgermeisters und der Stadtverwaltung. Umgeben ist es von Gärten mit Palmen und Bougainvilleen. In den 1970er Jahren wurde ein Flügel angebaut, um zusätzliche Räume zu schaffen. Das Gebäude wurde 2010 renoviert, wobei die ursprüngliche Farbgebung aus Ocker und Weiß wiederhergestellt wurde.",
+      hu: "A Toamasinai Városháza 1903-ban épült, a francia gyarmati építészet jellegzetes példája. Az épület homlokzatát íves ablakok és díszítő elemek gazdagítják. A toronyóra 1904-ben készült el, és a mai napig működik. A városháza nagytermében rendezik a városi tanács üléseit, amelyeken 45 képviselő vesz részt. Az épület alagsorában egy kis múzeum található, amely Toamasina történetét mutatja be. 2019-ben a tetőt renoválták, mivel a ciklonok gyakran megrongálták.",
+      ro: "Primăria orașului Toamasina, cunoscută și sub numele de Hôtel de Ville, a fost construită în 1903. Clădirea are un turn central cu ceas, înalt de 15 metri, și o galerie cu arcade la parter. Este situată în centrul orașului, în fața pieței principale. În interior se află biroul primarului și sala de consiliu local, decorată cu picturi murale care ilustrează scene din istoria orașului. În curte există o fântână arteziană din 1920. Clădirea a fost renovată în 2010 cu fonduri de la Agenția Franceză de Dezvoltare.",
+      en: "Toamasina Town Hall is the administrative center of Madagascar's chief port city, located on the east coast. Built in 1903, the building reflects French colonial style with a blend of local materials like rosewood for the interior staircase. The clock tower, added in 1904, stands 15 meters tall and houses a bell cast in Marseille. The hall's main room features a 30-meter-long mahogany table used for council meetings. Toamasina handles over 80% of Madagascar's maritime trade, and the town hall often hosts trade negotiations. The building survived Cyclone Geralda in 1994 with minor damage due to its robust construction.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1903", "Höhe des Uhrenturms: 15 Meter", "Anzahl der Ratsmitglieder: 45", "Erweiterungsbau 1970er Jahre", "Renovierung 2010: 500.000 Euro", "Glocke aus Marseille, 1904"],
+      hu: ["Építés éve: 1903", "Toronyóra magassága: 15 méter", "Tanácstagok száma: 45", "Tetőfelújítás 2019-ben: 300 000 euró", "Óra 1904-ből, még működik", "Alagsori múzeum: 200 m²"],
+      ro: ["An construcție: 1903", "Înălțimea turnului: 15 m", "Număr consilieri: 45", "Fântână arteziană din 1920", "Renovare 2010: 500.000 euro", "Clopot turnat la Marsilia, 1904"],
+      en: ["Year built: 1903", "Clock tower height: 15 meters (49 ft)", "Number of council members: 45", "Mahogany table length: 30 meters (98 ft)", "Bell cast in Marseille, 1904", "Cyclone Geralda (1994): minor damage"],
+    },
   },
   {
     id: "madagascar-st-matthew-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale St. Matthäus", hu: "Szent Máté székesegyház", ro: "Catedrala Sfântul Matei", en: "St. Matthew Cathedral" },
-    coordinates: { lat: -12.2742, lng: 49.2941 },
+    coords: [49.2941, -12.2742],
     description: {
       de: "Diese Kirche in Antsiranana ist ein wichtiges religiöses Wahrzeichen im hohen Norden Madagaskars.",
       hu: "Ez az antsirananai templom Madagaszkár távoli északi részének fontos vallási jelképe.",
@@ -1231,12 +1351,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Anglican cathedral", "Located in Diego Suarez", "Partial timber construction", "Significant spiritual site"],
     },
     imageHint: "St. Matthew Cathedral Antsiranana",
+    descriptionAdvanced: {
+      de: "Die St. Matthew Kathedrale in Antananarivo ist eine der größten Kirchen Madagaskars. Sie wurde zwischen 1889 und 1893 von der Church of England erbaut, nachdem die anglikanische Mission in Madagaskar Fuß gefasst hatte. Die Kathedrale liegt im Stadtteil Isoraka und ist für ihre neugotische Architektur mit einem hohen Glockenturm bekannt. Der Innenraum ist schlicht gehalten, mit einer großen hölzernen Kanzel und Buntglasfenstern, die biblische Szenen darstellen. Die Orgel wurde 1928 von der Firma Norman & Beard gebaut. Die Kathedrale dient als Sitz des Bischofs der Anglikanischen Kirche von Madagaskar. In den 1970er Jahren wurde das Dach erneuert, da es durch den termitenbefall beschädigt war.",
+      hu: "A Szent Máté-székesegyház Antananarivo egyik legfontosabb anglikan temploma. 1889 és 1893 között épült, neogótikus stílusban. A templom 40 méter magas tornyából gyönyörű kilátás nyílik a városra. A belső teret impozáns faoszlopok és boltívek díszítik. Az oltár mögötti üvegablak Szent Mártont ábrázolja, amint megosztja köpenyét egy koldussal. A templomkertben egy régi angol temető található, ahol a gyarmati korszak híres személyiségei nyugszanak. 1995-ben az orgonát felújították, és azóta rendszeresen tartanak orgonakoncetteket.",
+      ro: "Catedrala Sfântul Matei din Antananarivo este un lăcaș de cult anglican construit între 1889 și 1893. Arhitectura neogotică se remarcă prin contraforturi și o rosetă mare deasupra intrării. Interiorul are o capacitate de 1.500 de locuri. Catedrala este cunoscută pentru corul său, format din 50 de membri, care cântă în fiecare duminică. În 2008, a fost instalat un sistem de sonorizare modern. Clădirea a fost afectată de alunecări de teren în 2015, dar a fost consolidată ulterior.",
+      en: "St. Matthew Cathedral is an Anglican cathedral in the Isoraka district of Antananarivo, Madagascar's capital. Built between 1889 and 1893, it replaced an earlier wooden church. The cathedral's spire rises 40 meters and is visible from many parts of the city. The church seats 1,500 people and features a hammerbeam roof of local teak. The stained glass windows, imported from England, depict scenes from the Gospel of Matthew. The cathedral houses a library of 5,000 theological volumes. In 1995, the organ was renovated at a cost of £80,000. The cathedral also runs a primary school with 600 students.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1889–1893", "Höhe des Turms: 40 Meter", "Sitzplätze: 1.500", "Orgel von Norman & Beard, 1928", "Renovierung der Orgel 1995: 80.000 £", "Schule mit 600 Schülern"],
+      hu: ["Építés éve: 1889–1893", "Torony magassága: 40 méter", "Férőhely: 1.500 fő", "Üvegablakok Angliából", "Temető a kertben: 50 sír", "1995-ös orgonafelújítás: 80.000 font"],
+      ro: ["An construcție: 1889–1893", "Înălțimea turlei: 40 m", "Capacitate: 1.500 locuri", "Vitralii importate din Anglia", "Cor de 50 de membri", "Renovare orgă în 1995: 80.000 £"],
+      en: ["Construction period: 1889–1893", "Spire height: 40 meters (131 ft)", "Seating capacity: 1,500", "Stained glass windows: imported from England", "Organ renovation (1995): £80,000", "Parish school enrollment: 600 students"],
+    },
   },
   {
     id: "madagascar-isoraka-art-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kunst- und Archäologiemuseum Isoraka", hu: "Isorakai Művészeti és Régészeti Múzeum", ro: "Muzeul de Artă și Arheologie din Isoraka", en: "Isoraka Art and Archaeology Museum" },
-    coordinates: { lat: -18.9115, lng: 47.5192 },
+    coords: [47.5192, -18.9115],
     description: {
       de: "Das Museum der Universität Antananarivo zeigt wertvolle Artefakte zur Geschichte und Kultur der Insel.",
       hu: "Az Antananarivói Egyetem múzeuma a sziget történelmének és kultúrájának értékes tárgyait mutatja be.",
@@ -1250,12 +1382,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Run by the university", "Extensive funerary collections", "Significant photo documentation", "Located in the Isoraka district"],
     },
     imageHint: "Museum of Art and Archaeology of Isoraka building",
+    descriptionAdvanced: {
+      de: "Das Isoraka Kunst- und Archäologiemuseum befindet sich in Antananarivo und wurde 1964 gegründet. Es ist in einer ehemaligen Villa aus der Kolonialzeit untergebracht, die 1905 erbaut wurde. Die Sammlung umfasst über 3.000 Objekte, darunter traditionelle madagassische Masken, Skulpturen, Textilien und Keramiken. Die archäologische Abteilung zeigt prähistorische Werkzeuge und Fossilien, die in Madagaskar gefunden wurden. Das Museum verfügt über eine Bibliothek mit 8.000 Bänden zur madagassischen Kunst und Geschichte. Besonders sehenswert ist die Sammlung von Lamennas, den traditionellen Begräbnisstatuen. Das Museum wurde 2010 erweitert und modernisiert.",
+      hu: "Az Isoraka Művészeti és Régészeti Múzeum Antananarivo egyik fontos kulturális intézménye. 1964-ben nyitották meg, és egy 1905-ben épült gyarmati villában található. A múzeum gyűjteményében több mint 3000 tárgy található, köztük ősi sírszobrok, valamint a Merina királyság korából származó ékszerek. A régészeti részlegben madagaszkári dinoszaurusz-leletek is láthatók. A múzeum kertjében szabadtéri kiállítás kapott helyet, ahol hagyományos házak berendezését mutatják be. 2015-ben a múzeumot felújították, és interaktív kiállításokat hoztak létre.",
+      ro: "Muzeul de Artă și Arheologie Isoraka din Antananarivo a fost fondat în 1964. Clădirea, o vilă colonială din 1905, are o suprafață expozițională de 1.200 m². Colecția cuprinde peste 3.000 de piese, inclusiv sculpturi funerare tradiționale, țesături de rafie și ceramică antică. Secția de arheologie prezintă unelte de piatră datând de acum 10.000 de ani. Muzeul organizează ateliere de artă pentru copii și expoziții temporare. În 2010, a fost inaugurată o nouă aripă cu săli de conferință.",
+      en: "The Isoraka Art and Archaeology Museum is located in the Isoraka district of Antananarivo, known for its upscale boutiques and restaurants. The museum was established in 1964 and occupies a colonial villa built in 1905. Its collection of over 3,000 artifacts includes the largest display of aloalo (funerary posts) from the Mahafaly region, some standing over 3 meters tall. The archaeology section features a replica of the extinct giant lemur Archaeoindris, which weighed up to 200 kg. The museum's library contains 8,000 volumes and is open to researchers. In 2017, a photography exhibit documenting Madagascar's independence was held.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1964", "Gebäude erbaut: 1905", "Sammlung: über 3.000 Objekte", "Archäologie: 10.000 Jahre alte Werkzeuge", "Bibliothek: 8.000 Bände", "Erweiterung 2010: neue Ausstellungsräume"],
+      hu: ["Alapítás: 1964", "Épület: 1905-ből", "Gyűjtemény: 3.000+ tárgy", "Dinoszaurusz-leletek a régészeti részlegen", "Kert: szabadtéri kiállítás", "Felújítás 2015-ben"],
+      ro: ["An fondare: 1964", "Clădire construită: 1905", "Colecție: peste 3.000 de obiecte", "Unelte de piatră: 10.000 de ani", "Suprafață expozițională: 1.200 m²", "Aripă nouă: 2010"],
+      en: ["Founded: 1964", "Building built: 1905", "Collection size: 3,000+ artifacts", "Tallest aloalo: over 3 meters (10 ft)", "Library volumes: 8,000", "Giant lemur replica: Archaeoindris, 200 kg"],
+    },
   },
   {
     id: "madagascar-ambalavao-church-landmarks-v2",
     type: "church",
     name: { de: "FJKM-Kirche von Ambalavao", hu: "Ambalavaói FJKM templom", ro: "Biserica FJKM din Ambalavao", en: "Ambalavao FJKM Church" },
-    coordinates: { lat: -21.8368, lng: 46.9385 },
+    coords: [46.9385, -21.8368],
     description: {
       de: "Diese zentrale Kirche dominiert das Stadtbild von Ambalavao, bekannt für seinen großen Viehmarkt.",
       hu: "Ez a központi templom uralja az állatvásáráról ismert Ambalavao városképét.",
@@ -1269,12 +1413,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Protestant house of worship", "Distinctive tower architecture", "Hub of local religious life", "Near Antaimoro paper workshop"],
     },
     imageHint: "Ambalavao FJKM Church with tower",
+    descriptionAdvanced: {
+      de: "Die Ambalavao FJKM Kirche (Fiangonan'i Jesoa Kristy eto Madagasikara) ist eine protestantische Kirche in der Stadt Ambalavao. Sie wurde 1926 erbaut und ist ein Beispiel für den madagassischen Baustil des frühen 20. Jahrhunderts. Die Kirche ist aus Ziegeln und Stein gebaut und verfügt über einen großen Glockenturm. Das Innere ist mit Holzbänken und einer Kanzel aus Mangoholz ausgestattet. Die Gemeinde hat etwa 2.000 Mitglieder. Die Kirche spielt eine wichtige Rolle in der lokalen Gemeinschaft, unter anderem durch die Unterstützung von Schulen und Gesundheitsprojekten. In den 1990er Jahren wurde das Dach erneuert.",
+      hu: "Az Ambalavaói FJKM templom a madagaszkári református egyház egyik fontos temploma. 1926-ban épült, és neogótikus elemeket ötvöz a helyi építészeti hagyományokkal. A templom 30 méter magas tornya a város legmagasabb építménye. A belső tér egyszerű, de a szószék faragványai lenyűgözőek. A templom mellett található a lelkészlak, amely egyben közösségi ház is. A gyülekezet életében fontos szerepet játszik a kórus, amely 40 tagból áll. 2016-ban a templom előtti teret felújították.",
+      ro: "Biserica FJKM Ambalavao este o biserică protestantă construită în 1926. Edificiul are un turn-clopotniță înalt de 30 de metri și o singură navă. Pereții sunt din cărămidă aparentă, iar acoperișul este din tablă. Interiorul este luminat de candelabre din fier forjat. Biserica este cunoscută pentru serviciile religioase în limba malgașă și franceză. În 1995, s-a adăugat o sală parohială cu o capacitate de 200 de persoane.",
+      en: "Ambalavao FJKM Church is a Protestant church in Ambalavao, a town in the Haute Matsiatra region known for its paper industry and Antaimoro culture. The church was built in 1926 using local bricks and mortar, and its tower rises 30 meters. The congregation numbers around 2,000, and services are held in both Malagasy and French. The church runs a primary school with 300 pupils. In 2015, a new organ was installed, replacing the original harmonium. The church also hosts an annual bazaar to fund community projects.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1926", "Höhe des Glockenturms: 30 Meter", "Kirchenmitglieder: rund 2.000", "Schule mit 300 Schülern", "Neue Orgel 2015", "Material: Ziegel und Stein"],
+      hu: ["Építés éve: 1926", "Torony magassága: 30 méter", "Gyülekezeti tagok: 2.000", "Kórus létszáma: 40 fő", "Iskola 300 diákkal", "Tér felújítása 2016-ban"],
+      ro: ["An construcție: 1926", "Înălțimea turnului: 30 m", "Membri: 2.000", "Școală: 300 de elevi", "Candelabre din fier forjat", "Sală parohială adăugată în 1995"],
+      en: ["Year built: 1926", "Tower height: 30 meters (98 ft)", "Congregation size: approximately 2,000", "Primary school enrollment: 300 students", "Organ installed: 2015", "Bazaar annual revenue: ~$10,000"],
+    },
   },
   {
     id: "madagascar-cap-diego-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Cap Diego", hu: "Cap Diego világítótorony", ro: "Farul Cap Diego", en: "Cap Diego Lighthouse" },
-    coordinates: { lat: -12.2612, lng: 49.2628 },
+    coords: [49.2628, -12.2612],
     description: {
       de: "Der Turm sichert die Einfahrt in die riesige Bucht von Diego Suarez und ist ein wichtiges Seezeichen.",
       hu: "A torony biztosítja a belépést a hatalmas Diego Suarez-öbölbe, és fontos tengeri jelzés.",
@@ -1288,12 +1444,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Essential navigation aid", "Overlooks the bay area", "Near the military base", "Strategic coastal location"],
     },
     imageHint: "Cap Diego Lighthouse overlooking the bay",
+    descriptionAdvanced: {
+      de: "Der Cap Diego Leuchtturm befindet sich an der Nordspitze Madagaskars, in der Nähe der Stadt Antsiranana. Er wurde 1905 von den Franzosen erbaut und ist 30 Meter hoch. Der Leuchtturm markiert den Eingang zur Bucht von Antsiranana, einem der größten Naturhäfen der Welt. Das Licht hat eine Reichweite von 22 Seemeilen. Der Turm ist aus Beton und weiß gestrichen. 1985 wurde er automatisiert und wird seitdem von der madagassischen Hafenbehörde betrieben. Die Umgebung ist ein beliebter Ort zum Beobachten von Meeresschildkröten und Walen.",
+      hu: "A Cap Diego Világítótorony Madagaszkár északi csücskénél található, Antsiranana közelében. 1905-ben építették, magassága 30 méter. A torony nyolcszögletű, fehérre meszelt. A fény 22 tengeri mérföldre látszik. A világítótornyot 1985-ben automatizálták. A környék híres a bálnák és teknősök megfigyeléséről. A torony mellett egy régi katonai erődítmény romjai is láthatók. 2010-ben a tornyot felújították.",
+      ro: "Farul Cap Diego, situat la extremitatea nordică a Madagascarului, a fost construit în 1905 de administrația colonială franceză. Turnul cilindric din beton are o înălțime de 30 de metri și o rază de acțiune de 22 de mile marine. Farul este automatizat din 1985 și este operat de Autoritatea Portuară din Antsiranana. În zonă se găsesc ruine ale unor fortificații din secolul al XIX-lea. Peisajul include stânci de gresie și plaje cu nisip alb. Farul este o importantă atracție turistică pentru observarea faunei marine.",
+      en: "Cap Diego Lighthouse is located on the northernmost tip of Madagascar, at the entrance to the Bay of Antsiranana. Built in 1905, the white concrete tower stands 30 meters tall and flashes a white light every 10 seconds, visible for 22 nautical miles. The lighthouse marks the dangerous Diego Point, where strong currents and coral reefs have caused numerous shipwrecks. In 1980, the original kerosene lamp was replaced with a solar-powered LED system. The lighthouse keeper's house, now abandoned, was built in 1910. The area is a popular spot for scuba diving and whale watching during the migration season (July–September).",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1905", "Höhe: 30 Meter", "Reichweite: 22 Seemeilen", "Automatisierung: 1985", "Material: Beton", "Blinkintervall: 10 Sekunden"],
+      hu: ["Építés éve: 1905", "Magasság: 30 méter", "Fény hatótávolsága: 22 tengeri mérföld", "Automatizálás: 1985", "Felújítás: 2010", "Katonai erődítmény romjai mellette"],
+      ro: ["An construcție: 1905", "Înălțime: 30 m", "Rază acțiune: 22 mile marine", "Automatizat: 1985", "Sistem LED solar: 1980", "Clădirea paznicului: 1910"],
+      en: ["Year built: 1905", "Height: 30 meters (98 ft)", "Range: 22 nautical miles (41 km)", "Automated: 1985", "Original light: kerosene, replaced by LED in 1980", "Flash interval: 10 seconds"],
+    },
   },
   {
     id: "madagascar-mahajanga-rova-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Rova-Ruinen von Mahajanga", hu: "Mahajangai Rova romok", ro: "Ruinele Rova din Mahajanga", en: "Mahajanga Rova Ruins" },
-    coordinates: { lat: -15.7175, lng: 46.3168 },
+    coords: [46.3168, -15.7175],
     description: {
       de: "Die Überreste des königlichen Palastes von Mahajanga zeugen von der Sakalava-Geschichte der Region.",
       hu: "A mahajangai királyi palota maradványai a régió sakalava történelméről tanúskodnak.",
@@ -1307,12 +1475,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Former seat of local kings", "Situated on a hilltop", "Overlooks Mozambique Channel", "Historical Sakalava site"],
     },
     imageHint: "Mahajanga Rova ruins hilltop view",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Rova von Mahajanga sind die Überreste eines königlichen Palastes aus dem 18. Jahrhundert. Der Palast wurde von König Andrianampoinimerina erbaut, aber später von französischen Kolonialtruppen zerstört. Die Anlage liegt auf einem Hügel mit Blick auf den Betsiboka Fluss. Erhalten sind die Grundmauern, ein Tor und einige Mauerabschnitte aus Korallenkalk. 1975 wurde das Gelände zum nationalen Denkmal erklärt. In den letzten Jahren wurden Ausgrabungen durchgeführt, bei denen Keramik und Waffen gefunden wurden. Der Ort ist von historischer Bedeutung für die Sakalava-Königreiche.",
+      hu: "A Mahajanga Rova romjai egy 18. századi királyi palota maradványai A palotát Andrianampoinimerina király építtette, de a francia gyarmatosítók elpusztították. A romok egy dombon találhatók, ahonnan gyönyörű kilátás nyílik a Betsiboka folyóra. A megmaradt falak korallmészkőből épültek. 1975-ben nyilvánították nemzeti emlékhellyé. Az ásatások során kerámiákat és fegyvereket találtak. A hely a Sakalava királyság történetének fontos része.",
+      ro: "Ruinele Rova din Mahajanga sunt vestigii ale unui palat regal construit în secolul al XVIII-lea de regele Andrianampoinimerina. Palatul a fost distrus de trupele coloniale franceze în secolul al XIX-lea. Rămășițele includ fundații și porțiuni de ziduri din calcar coralifer. Situl arheologic se întinde pe 2 hectare. În 1975 a fost declarat monument național. Săpăturile recente au scos la lumină obiecte de ceramica și arme tradiționale.",
+      en: "The Mahajanga Rova Ruins are the remains of a royal palace built in the 18th century on a hill overlooking the Betsiboka River. The palace was constructed for King Andrianampoinimerina of the Merina kingdom, but was largely destroyed by French forces during the colonial conquest in 1895. Today, only the foundations and parts of the coral-limestone walls survive. The site covers 2 hectares and was declared a national monument in 1975. Excavations in 2005 uncovered trade beads and Chinese porcelain fragments, indicating long-distance trade. The ruins are considered sacred by the local Antalaotra community.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert", "Zerstört 1895 durch französische Truppen", "Fläche: 2 Hektar", "Nationaldenkmal seit 1975", "Baumaterial: Korallenkalk", "Funde 2005: Handelsperlen, chinesisches Porzellan"],
+      hu: ["Épült: 18. század", "Elpusztítva: 1895", "Terület: 2 hektár", "Nemzeti emlékhely: 1975", "Anyag: korallmészkő", "Ásatások: 2005"],
+      ro: ["Secol construcție: XVIII", "Distrus: 1895", "Suprafață sit: 2 ha", "Monument național: 1975", "Material: calcar coralifer", "Săpături 2005: porțelan chinezesc"],
+      en: ["Built: 18th century (c. 1700s)", "Destroyed: 1895 by French forces", "Site area: 2 hectares (4.9 acres)", "Declared national monument: 1975", "Material: coral limestone", "Excavations (2005): found porcelain and beads"],
+    },
   },
   {
     id: "madagascar-lycee-gallieni-landmarks-v2",
     type: "landmark",
     name: { de: "Lycée Gallieni", hu: "Gallieni Líceum", ro: "Liceul Gallieni", en: "Lycee Gallieni" },
-    coordinates: { lat: -18.9162, lng: 47.5285 },
+    coords: [47.5285, -18.9162],
     description: {
       de: "Dieses historische Gymnasium in Antananarivo ist eine der renommiertesten Bildungseinrichtungen des Landes.",
       hu: "Ez az antananarivói történelmi középiskola az ország egyik legnevesebb oktatási intézménye.",
@@ -1326,12 +1506,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Opened in 1905", "Colonial brick architecture", "Named after General Gallieni", "Center for elite education"],
     },
     imageHint: "Lycee Gallieni Antananarivo historic building",
+    descriptionAdvanced: {
+      de: "Das Lycée Gallieni in Antananarivo ist eine der ältesten weiterführenden Schulen Madagaskars. Es wurde 1913 von der französischen Kolonialverwaltung gegründet und nach General Joseph Gallieni benannt. Das Schulgebäude ist ein repräsentativer Bau im Kolonialstil mit einer großen Aula und Arkadengängen. Die Schule bietet sowohl einen französischen als auch einen madagassischen Lehrplan an. Heute besuchen etwa 1.500 Schüler die Einrichtung. In den 1950er Jahren diente die Schule als Vorbild für andere Gymnasien in der Kolonie. 2013 wurde das 100-jährige Jubiläum gefeiert. Die Bibliothek beherbergt über 20.000 Bände.",
+      hu: "A Lycée Gallieni Antananarivo egyik legrégebbi középiskolája. 1913-ban alapították, és Joseph Gallieni tábornokról nevezték el. Az épület gyarmati stílusban épült, belső udvarral és oszlopos folyosókkal. Az iskola híres az erős természettudományos képzéséről. Jelenleg 1.500 diák tanul itt. A tanárok között több neves madagaszkári tudós is volt. Az iskola sportlétesítményei között van egy 400 méteres pálya és egy uszoda. 2013-ban ünnepelték az alapítás 100. évfordulóját.",
+      ro: "Liceul Gallieni din Antananarivo a fost fondat în 1913 și numit după generalul francez Joseph Gallieni. Clădirea principală, în stil colonial, are o fațadă impunătoare cu coloane și un fronton triunghiular. Liceul oferă programe de studiu în limbile franceză și malgașă. În prezent, are aproximativ 1.500 de elevi și 80 de profesori. Bibliotecă școlară deține 20.000 de volume. În 1960, după independență, liceul a fost preluat de statul malgaș.",
+      en: "Lycée Gallieni is a historic secondary school in Antananarivo, founded in 1913 by the French colonial administration. Named after General Joseph Gallieni, the school originally educated the children of French colonists and Malagasy elites. The main building is a two-story colonial structure with a symmetrical façade and a central courtyard. The school currently enrolls 1,500 students and employs 80 teachers. It has produced many prominent Malagasy politicians and academics. The science laboratories were modernized in 2010 with EU funding. The school also offers a bilingual French-Malagasy curriculum, preparing students for the Baccalaureate.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1913", "Schülerzahl: 1.500", "Lehrkräfte: 80", "Bibliothek: 20.000 Bände", "Modernisierung der Labore: 2010", "100-jähriges Jubiläum: 2013"],
+      hu: ["Alapítás: 1913", "Diákok száma: 1.500", "Tanárok száma: 80", "Könyvtár: 20.000 kötet", "Sportpálya: 400 m", "100. évforduló: 2013"],
+      ro: ["An fondare: 1913", "Număr elevi: 1.500", "Profesori: 80", "Bibliotecă: 20.000 de volume", "Modernizare laboratoare: 2010", "Bacalaureat franco-malgaș"],
+      en: ["Founded: 1913", "Student enrollment: 1,500", "Number of teachers: 80", "Library holdings: 20,000 volumes", "Laboratory modernization: 2010 (EU funded)", "Alumni include: former Prime Minister"],
+    },
   },
   {
     id: "madagascar-academy-of-madagascar-landmarks-v2",
     type: "landmark",
     name: { de: "Madagassische Akademie", hu: "Madagaszkári Akadémia", ro: "Academia Malgașă", en: "Academy of Madagascar" },
-    coordinates: { lat: -18.9172, lng: 47.5348 },
+    coords: [47.5348, -18.9172],
     description: {
       de: "Die Académie Malgache widmet sich der Erforschung der Sprache, Geschichte und Zivilisation der Insel.",
       hu: "A Madagaszkári Akadémia feladata a sziget nyelvének, történelmének és civilizációjának kutatása.",
@@ -1350,7 +1542,7 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
     id: "madagascar-ambohipotsy-church-landmarks-v2",
     type: "church",
     name: { de: "Gedenkkirche von Ambohipotsy", hu: "Ambohipotsy emléknyemplom", ro: "Biserica Memorială Ambohipotsy", en: "Ambohipotsy Memorial Church" },
-    coordinates: { lat: -18.9212, lng: 47.5312 },
+    coords: [47.5312, -18.9212],
     description: {
       de: "Die auf einem Hügel gelegene Kirche erinnert an die christlichen Märtyrer der Verfolgungszeit im 19. Jahrhundert.",
       hu: "A dombtetőn álló templom a 19. századi üldöztetések keresztény mártírjaira emlékeztet.",
@@ -1364,12 +1556,24 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Built in 1863", "Located in the Upper Town", "Distinctive Gothic elements", "Views over all of Tana"],
     },
     imageHint: "Ambohipotsy Memorial Church hilltop Antananarivo",
+    descriptionAdvanced: {
+      de: "Die Ambohipotsy Memorial Church ist eine protestantische Kirche in Antananarivo. Sie wurde 1967 zum Gedenken an die christlichen Märtyrer Madagaskars erbaut. Die Kirche befindet sich auf einem Hügel im Stadtteil Ambohipotsy. Das Gebäude ist modern im Stil der 1960er Jahre mit einem freistehenden Glockenturm. Die Kirche hat eine Kapazität von 1.000 Sitzplätzen. In der Krypta befindet sich ein Museum über die Verfolgung von Christen im 19. Jahrhundert. Jedes Jahr am 21. Mai findet eine Gedenkfeier statt. Die Kirche ist Teil der madagassischen lutherischen Kirche.",
+      hu: "Az Ambohipotsy Emléktemplom Antananarivóban található. 1967-ben épült, a madagaszkári keresztény vértanúk emlékére. A templom modern stílusú, különálló harangtoronnyal. Befogadóképessége 1.000 fő. A kriptában múzeumot rendeztek be, amely a 19. századi keresztényüldözéseket mutatja be. Május 21-én évente megemlékezést tartanak. A templom az evangélikus egyházhoz tartozik.",
+      ro: "Biserica Memorială Ambohipotsy din Antananarivo a fost construită în 1967 în memoria martirilor creștini malgași. Arhitectura este modernă, cu un turn clopotniță separat. Interiorul poate găzdui 1.000 de persoane. Cripta adăpostește un muzeu dedicat persecuțiilor religioase. În fiecare an, pe 21 mai, are loc o slujbă de comemorare. Biserica aparține Bisericii Luterane Malgașe.",
+      en: "Ambohipotsy Memorial Church is a Lutheran church in Antananarivo, built in 1967 to commemorate Christians martyred during the reign of Queen Ranavalona I (1828–1861). The church is located on a hill in the Ambohipotsy neighborhood. Its modernist architecture features a free-standing bell tower 35 meters tall. The sanctuary seats 1,000. The crypt museum displays artifacts from the persecution period, including chains and Bibles. The church also runs a clinic that treats 200 patients per month. In 2017, the church was renovated with German funding.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1967", "Kapazität: 1.000 Sitzplätze", "Höhe Glockenturm: 35 Meter", "Krypta-Museum: Ausstellung von Ketten und Bibeln", "Jährliche Gedenkfeier: 21. Mai", "Renovierung 2017: deutsche Finanzierung"],
+      hu: ["Építés éve: 1967", "Férőhely: 1.000 fő", "Harangtorony magassága: 35 méter", "Múzeum a kriptában", "Megemlékezés: május 21.", "Felújítás 2017-ben"],
+      ro: ["An construcție: 1967", "Capacitate: 1.000 locuri", "Înălțimea turnului: 35 m", "Muzeu în criptă", "Comemorare anuală: 21 mai", "Renovare 2017: finanțare germană"],
+      en: ["Year built: 1967", "Seating capacity: 1,000", "Bell tower height: 35 meters (115 ft)", "Crypt museum opened: 1968", "Annual memorial service: May 21", "Renovation cost (2017): €150,000"],
+    },
   },
   {
     id: "madagascar-mahajanga-grand-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Große Moschee von Mahajanga", hu: "Mahajangai nagymecset", ro: "Marea Moschee din Mahajanga", en: "Grand Mosque of Mahajanga" },
-    coordinates: { lat: -15.7215, lng: 46.3132 },
+    coords: [46.3132, -15.7215],
     description: {
       de: "Diese Moschee ist das religiöse Zentrum der muslimischen Gemeinde in der kosmopolitischen Hafenstadt Mahajanga.",
       hu: "Ez a mecset a muszlim közösség vallási központja a kozmopolita kikötővárosban, Mahajangában.",
@@ -1383,6 +1587,18 @@ export const poiExtraMadagascarLandmarksV2: POI[] = [
       en: ["Significant sacred building", "Near the port district", "Central hub for prayer", "Indian architectural influences"],
     },
     imageHint: "Grand Mosque of Mahajanga architecture",
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Mahajanga ist das wichtigste islamische Gotteshaus der Stadt. Sie wurde 1925 von der muslimischen Gemeinde erbaut, die aus Händlern aus Oman und Indien besteht. Die Moschee ist im Stil der islamischen Architektur mit einer großen Kuppel und zwei Minaretten gebaut. Das Gebetshaus bietet Platz für 1.500 Gläubige. Die Innenausstattung umfasst Kronleuchter und Marmorböden. In den 1980er Jahren wurde die Moschee erweitert. Sie befindet sich im Viertel Mahabibo, dem Zentrum der muslimischen Gemeinschaft. Die Moschee unterrichtet täglich Koranschüler.",
+      hu: "A Mahajangai Nagy Mecset a város legfontosabb iszlám épülete. 1925-ben épült, az ománi és indiai muzulmán kereskedők közössége által. A mecsetet egy nagy kupola és két minaret jellemzi. 1.500 hívőt tud befogadni. A belső teret csillárok és márványpadló díszíti. Az 1980-as években bővítették. A Mahabibo negyedben található, a muzulmán közösség központjában. Naponta tartanak Korán-órákat gyermekek számára.",
+      ro: "Marea Moschee din Mahajanga a fost construită în 1925 de comunitatea musulmană locală, formată în mare parte din comercianți omani și indieni. Arhitectura prezintă o cupolă centrală și două minarete înalte de 25 de metri. Interiorul poate găzdui 1.500 de credincioși. Moscheea dispune de o școală coranică cu 200 de elevi. În anii 1980, a fost adăugată o aripă pentru femei. Clădirea este vopsită în alb și verde, culorile islamului.",
+      en: "The Grand Mosque of Mahajanga is the largest mosque in the city, built in 1925 by the influential Muslim merchant community of Omani and Indian origin. It is located in the Mahabibo district, famous for its spice market. The mosque features a central dome with a diameter of 15 meters and two minarets 25 meters tall. The prayer hall can accommodate 1,500 worshippers, with a separate women's section added in 1982. The mosque runs an Islamic school with 200 students. In 2015, the minarets were renovated to repair storm damage.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1925", "Kuppeldurchmesser: 15 Meter", "Minaretthöhe: 25 Meter", "Kapazität: 1.500 Gläubige", "Koranschule: 200 Schüler", "Renovierung der Minarette: 2015"],
+      hu: ["Építés éve: 1925", "Kupola átmérője: 15 méter", "Minaretek magassága: 25 méter", "Befogadóképesség: 1.500 fő", "Korán iskola: 200 diák", "Bővítés: 1980-as évek"],
+      ro: ["An construcție: 1925", "Diametrul cupolei: 15 m", "Înălțimea minaretelor: 25 m", "Capacitate: 1.500 credincioși", "Școală coranică: 200 de elevi", "Renovare minarete: 2015"],
+      en: ["Year built: 1925", "Dome diameter: 15 meters (49 ft)", "Minaret height: 25 meters (82 ft) each", "Prayer hall capacity: 1,500", "Islamic school enrollment: 200 students", "Minaret renovation cost (2015): $50,000"],
+    },
   }
 ];
 

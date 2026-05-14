@@ -1046,7 +1046,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-luphohlo-power-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Luphohlo", hu: "Luphohlo Vízerőmű", ro: "Hidrocentrala Luphohlo", en: "Luphohlo Hydroelectric Power Station" },
-    coordinates: { lat: -26.3725, lng: 31.0652 },
+    coords: [31.0652, -26.3725],
     description: {
       de: "Dieses Wasserkraftwerk nutzt das Gefälle des Lusutfu-Flusses zur Stromerzeugung. Es ist eine der wichtigsten Anlagen zur Energieversorgung in Eswatini.",
       hu: "Ez a vízerőmű a Lusutfu-folyó esését használja fel elektromos áram termelésére. Eswatini egyik legfontosabb energiatermelő létesítménye.",
@@ -1065,7 +1065,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-edwaleni-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Edwaleni", hu: "Edwaleni Erőmű", ro: "Centrala Electrică Edwaleni", en: "Edwaleni Power Station" },
-    coordinates: { lat: -26.5418, lng: 31.2581 },
+    coords: [31.2581, -26.5418],
     description: {
       de: "Edwaleni ist ein zentraler Knotenpunkt im Stromnetz von Eswatini. Die Anlage spielt eine entscheidende Rolle bei der Verteilung importierter Energie.",
       hu: "Edwaleni központi csomópont Eswatini villamosenergia-hálózatában. A létesítmény döntő szerepet játszik az importált energia elosztásában.",
@@ -1084,7 +1084,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-maguga-power-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Maguga", hu: "Maguga Vízerőmű", ro: "Hidrocentrala Maguga", en: "Maguga Hydroelectric Power Station" },
-    coordinates: { lat: -25.9862, lng: 31.2564 },
+    coords: [31.2564, -25.9862],
     description: {
       de: "Diese Anlage am Komati-Fluss wurde zur Deckung des Spitzenlastbedarfs konzipiert. Sie ist Teil des grenzüberschreitenden Komati-Entwicklungsprojekts.",
       hu: "A Komati-folyónál található létesítményt a csúcsidei kereslet kielégítésére tervezték. A határokon átnyúló Komati fejlesztési projekt része.",
@@ -1103,7 +1103,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-sikhuphe-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Sikhuphe", hu: "Sikhuphe Ipari Park", ro: "Parcul Industrial Sikhuphe", en: "Sikhuphe Industrial Park" },
-    coordinates: { lat: -26.3551, lng: 31.7224 },
+    coords: [31.7224, -26.3551],
     description: {
       de: "Dieses Industriegebiet ist eine Sonderwirtschaftszone in der Nähe des internationalen Flughafens. Es dient der Förderung von Exporten und Logistik.",
       hu: "Ez az ipari terület a nemzetközi repülőtér közelében lévő különleges gazdasági övezet. Az export és a logisztika elősegítését szolgálja.",
@@ -1122,7 +1122,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-vuvulane-irrigation-economic-v2",
     type: "industry",
     name: { de: "Bewässerungssystem Vuvulane", hu: "Vuvulane Öntözőrendszer", ro: "Sistemul de Irigații Vuvulane", en: "Vuvulane Irrigation Scheme" },
-    coordinates: { lat: -26.0458, lng: 31.8752 },
+    coords: [31.8752, -26.0458],
     description: {
       de: "Vuvulane ist eine großflächige landwirtschaftliche Infrastruktur zur Bewässerung von Zuckerrohrfeldern. Sie unterstützt Hunderte von Kleinbauern in der Region.",
       hu: "Vuvulane egy nagyszabású mezőgazdasági infrastruktúra a cukornádültetvények öntözésére. Több száz kisgazdát támogat a régióban.",
@@ -1141,7 +1141,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-sidvokodvo-cotton-economic-v2",
     type: "factory",
     name: { de: "Baumwollentkernungsanlage Sidvokodvo", hu: "Sidvokodvo Gyapotfeldolgozó", ro: "Fabrica de Bumbac Sidvokodvo", en: "Sidvokodvo Cotton Ginnery" },
-    coordinates: { lat: -26.6358, lng: 31.4152 },
+    coords: [31.4152, -26.6358],
     description: {
       de: "Diese Industrieanlage ist auf die Verarbeitung von Rohbaumwolle spezialisiert. Sie ist ein wichtiger Abnehmer für Baumwollbauern aus ganz Eswatini.",
       hu: "Ez az ipari létesítmény a nyersgyapot feldolgozására specializálódott. Fontos felvásárlója az egész országból érkező gyapottermelőknek.",
@@ -1160,7 +1160,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-matsapha-north-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Matsapha Nord", hu: "Matsapha Északi Ipari Övezet", ro: "Zona Industrială Matsapha Nord", en: "Matsapha North Industrial Zone" },
-    coordinates: { lat: -26.4952, lng: 31.3051 },
+    coords: [31.3051, -26.4952],
     description: {
       de: "Dieser Teil des Matsapha-Industriegebiets beherbergt zahlreiche Leichtindustrien und Handelsunternehmen. Es ist das wirtschaftliche Herz des Landes.",
       hu: "A Matsapha ipari negyed ezen része számos könnyűipari és kereskedelmi vállalatnak ad otthont. Az ország gazdasági szíve.",
@@ -1179,7 +1179,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-ngonini-citrus-economic-v2",
     type: "industry",
     name: { de: "Zitrusplantage Ngonini", hu: "Ngonini Citrustelep", ro: "Plantația de Citrice Ngonini", en: "Ngonini Citrus Estate" },
-    coordinates: { lat: -25.7852, lng: 31.3854 },
+    coords: [31.3854, -25.7852],
     description: {
       de: "Ngonini ist ein bedeutender Produzent von Zitrusfrüchten für den Exportmarkt. Die Plantage liegt im fruchtbaren Norden des Landes.",
       hu: "Ngonini a citrusfélék jelentős termelője az exportpiac számára. Az ültetvény az ország termékeny északi részén található.",
@@ -1198,7 +1198,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-railway-hq-economic-v2",
     type: "industry",
     name: { de: "Eswatini Eisenbahn-Zentrale", hu: "Eswatini Vasúti Központ", ro: "Sediul Căilor Ferate Eswatini", en: "Eswatini Railway Headquarters" },
-    coordinates: { lat: -26.3325, lng: 31.1384 },
+    coords: [31.1384, -26.3325],
     description: {
       de: "Dieses Verwaltungszentrum steuert den gesamten Schienenverkehr in Eswatini. Der Fokus liegt primär auf dem Transport von schweren Gütern.",
       hu: "Ez az adminisztratív központ irányítja Eswatini teljes vasúti forgalmát. A hangsúly elsősorban a nehézáru-szállításon van.",
@@ -1217,7 +1217,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
     id: "swaziland-siteki-industrial-economic-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Siteki", hu: "Siteki Ipari Terület", ro: "Zona Industrială Siteki", en: "Siteki Industrial Estate" },
-    coordinates: { lat: -26.4552, lng: 31.9554 },
+    coords: [31.9554, -26.4552],
     description: {
       de: "Das Gewerbegebiet in Siteki ist ein regionales Handelszentrum im Osten von Eswatini. Es dient als logistischer Stützpunkt nahe der Grenze zu Mosambik.",
       hu: "A siteki ipari terület egy regionális kereskedelmi központ Kelet-Eswatiniben. Logisztikai bázisként szolgál a mozambiki határ közelében.",

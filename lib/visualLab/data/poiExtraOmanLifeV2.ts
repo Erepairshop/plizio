@@ -726,7 +726,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-botanic-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten von Oman", hu: "Ománi Botanikus Kert", ro: "Grădina Botanică din Oman", en: "Oman Botanic Garden" },
-    coordinates: { lat: 23.565, lng: 58.125 },
+    coords: [58.125, 23.565],
     description: {
       de: "Dieser Garten in Al Khoudh beherbergt ausschließlich einheimische Pflanzenarten des Sultanats. Er bildet alle ökologischen Zonen des Landes in großflächigen Biosphären-Domen nach.",
       hu: "Az Al Khoudh-ban található kert kizárólag a szultanátus őshonos növényfajait mutatja be. Nagy bioszféra-dómokban rekonstruálja az ország összes ökológiai zónáját.",
@@ -745,7 +745,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-wadi-al-sarin-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Wadi Al Sarin", hu: "Vádi Al-Szarin Természetvédelmi Terület", ro: "Rezervația Naturală Wadi Al Sarin", en: "Wadi Al Sarin Nature Reserve" },
-    coordinates: { lat: 23.14, lng: 58.61 },
+    coords: [58.61, 23.14],
     description: {
       de: "Dieses Schutzgebiet in den Al Hajar Bergen ist der wichtigste Rückzugsort für den gefährdeten Arabischen Tahr. Es umfasst steile Klippen und tiefe Schluchten.",
       hu: "Az Al-Hadzsar-hegységben található védett terület a veszélyeztetett arab tahr legfontosabb menedékhelye. Meredek sziklákat és mély szurdokokat foglal magában.",
@@ -764,7 +764,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-jebel-qahwan-life-v2",
     type: "wildlife",
     name: { de: "Naturreservat Jebel Qahwan", hu: "Dzsebel Kahvan Természetvédelmi Terület", ro: "Rezervația Naturală Jebel Qahwan", en: "Jebel Qahwan Nature Reserve" },
-    coordinates: { lat: 22.25, lng: 59.18 },
+    coords: [59.18, 22.25],
     description: {
       de: "Das Reservat im Gouvernement Scharqiyya schützt die Artenvielfalt der trockenen Bergregionen Omans. Es bietet Lebensraum für den Arabischen Tahr und verschiedene Wüstenkatzen.",
       hu: "A Sarkijja kormányzóságban található rezervátum Omán száraz hegyvidéki régióinak biológiai sokféleségét védi. Élőhelyet biztosít az arab tahr és különféle sivatagi macskafélék számára.",
@@ -783,7 +783,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-masirah-island-life-v2",
     type: "wildlife",
     name: { de: "Schildkrötenschutzgebiet Insel Masira", hu: "Maszira-szigeti Teknősvédelmi Terület", ro: "Sanctuarul de Broaște Țestoase Insula Masirah", en: "Masirah Island Turtle Sanctuary" },
-    coordinates: { lat: 20.2, lng: 58.7 },
+    coords: [58.7, 20.2],
     description: {
       de: "Masira ist die größte Insel Omans und ein weltweit bedeutender Nistplatz für Unechte Karettschildkröten. Die Strände dienen jährlich tausenden Tieren zur Eiablage.",
       hu: "Maszira Omán legnagyobb szigete, és a világ egyik legjelentősebb álcserepesteknős-fészkelőhelye. A strandokon évente több ezer állat rakja le tojásait.",
@@ -802,7 +802,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-bandar-khayran-life-v2",
     type: "forest",
     name: { de: "Mangroven von Bandar Khayran", hu: "Bandar Khayran Mangroveerdők", ro: "Mangrovele din Bandar Khayran", en: "Bandar Khayran Mangroves" },
-    coordinates: { lat: 23.51, lng: 58.73 },
+    coords: [58.73, 23.51],
     description: {
       de: "Dieses Küstengebiet südlich von Maskat ist bekannt für seine dichten Mangrovenwälder und geschützten Buchten. Es ist ein essentielles Ökosystem für marine Jungtiere und Vögel.",
       hu: "Ez a Maszkattól délre fekvő parti terület sűrű mangroveerdőiről és védett öbleiről ismert. Alapvető ökoszisztéma a fiatal tengeri állatok és madarak számára.",
@@ -821,7 +821,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-taqah-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Taqah", hu: "Haur Taka Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Taqah", en: "Khawr Taqah Nature Reserve" },
-    coordinates: { lat: 17.035, lng: 54.395 },
+    coords: [54.395, 17.035],
     description: {
       de: "Diese Lagune in der Region Dhofar ist ein wichtiges Süßwasser-Feuchtgebiet. Sie bietet Nahrung und Nistplätze für über hundert verschiedene Vogelarten.",
       hu: "Ez a Dofár régióban található lagúna fontos édesvízi vizes élőhely. Több mint száz különböző madárfaj számára biztosít táplálékot és fészkelőhelyet.",
@@ -840,7 +840,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-sawli-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Sawli", hu: "Haur Szauli Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Sawli", en: "Khawr Sawli Nature Reserve" },
-    coordinates: { lat: 17.042, lng: 54.432 },
+    coords: [54.432, 17.042],
     description: {
       de: "Khawr Sawli ist eine Brackwasser-Lagune östlich von Taqah, die für ihre hohe biologische Vielfalt bekannt ist. Sie dient als permanenter Wasserspeicher in der Trockenzeit.",
       hu: "A Haur Szauli egy brakkvizes lagúna Takától keletre, amely magas biológiai sokféleségéről ismert. Állandó víztározóként szolgál a száraz évszakban.",
@@ -859,7 +859,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-ad-dahariz-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Ad Dahariz", hu: "Haur ad-Dahariz Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Ad Dahariz", en: "Khawr Ad Dahariz Nature Reserve" },
-    coordinates: { lat: 17.025, lng: 54.148 },
+    coords: [54.148, 17.025],
     description: {
       de: "Diese Lagune am östlichen Rand von Salala ist ein wertvolles urbanes Feuchtgebiet. Sie beheimatet zahlreiche Wasservögel und bietet einen Kontrast zur städtischen Umgebung.",
       hu: "Ez a Szalála keleti szélén található lagúna értékes városi vizes élőhely. Számos vízimadárnak ad otthont, és kontrasztot alkot a városi környezettel.",
@@ -878,7 +878,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-wadi-hinna-life-v2",
     type: "forest",
     name: { de: "Baobab-Bäume von Wadi Hinna", hu: "Vádi Hinna majomkenyérfái", ro: "Baobabii din Wadi Hinna", en: "Wadi Hinna Baobab Trees" },
-    coordinates: { lat: 17.054, lng: 54.6 },
+    coords: [54.6, 17.054],
     description: {
       de: "Wadi Hinna ist berühmt für seine Ansammlung von über hundert afrikanischen Baobab-Bäumen. Diese riesigen Bäume sind ein Relikt aus einer Zeit, als die Flora Arabiens und Afrikas enger verbunden war.",
       hu: "A Vádi Hinna több mint száz afrikai majomkenyérfájáról (baobab) híres. Ezek az óriási fák egy olyan korszak emlékei, amikor Arábia és Afrika flórája szorosabban kapcsolódott.",
@@ -897,7 +897,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-yiti-mangroves-life-v2",
     type: "forest",
     name: { de: "Mangrovenpark Yiti", hu: "Jiti Mangrovepark", ro: "Parcul de Mangrove Yiti", en: "Yiti Mangrove Park" },
-    coordinates: { lat: 23.525, lng: 58.625 },
+    coords: [58.625, 23.525],
     description: {
       de: "Der Mangrovenpark von Yiti schützt ein kleines, aber wichtiges Gezeiten-Ökosystem nahe Maskat. Es ist ein beliebter Ort für Kajakfahrer und Naturliebhaber.",
       hu: "A jiti mangrovepark egy kicsi, de fontos árapály-ökoszisztémát véd Maszkat közelében. Népszerű hely a kajakosok és a természetkedvelők körében.",
@@ -916,7 +916,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-shallah-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Shallah", hu: "Haur Sallah Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Shallah", en: "Khawr Shallah Nature Reserve" },
-    coordinates: { lat: 17.0, lng: 54.01 },
+    coords: [54.01, 17.0],
     description: {
       de: "Diese Lagune in Dhofar ist für ihre reiche marine Flora und Fauna bekannt. Sie dient als wichtiger Übergangsbereich zwischen Süßwasserquellen und dem Indischen Ozean.",
       hu: "Ez a dofári lagúna gazdag tengeri flórájáról és faunájáról ismert. Fontos átmeneti terület az édesvízi források és az Indiai-óceán között.",
@@ -935,7 +935,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-tatam-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Tatam", hu: "Haur Tatam Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Tatam", en: "Khawr Tatam Nature Reserve" },
-    coordinates: { lat: 18.17, lng: 56.13 },
+    coords: [56.13, 18.17],
     description: {
       de: "Ein abgelegenes Feuchtgebiet an der Küste von Al Wusta. Es dient als kritischer Korridor für Wildtiere, die zwischen der Wüste und dem Meer wandern.",
       hu: "Egy távoli vizes élőhely Al-Vuszta partjainál. Kritikus folyosóként szolgál a sivatag és a tenger között vándorló vadon élő állatok számára.",
@@ -954,7 +954,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-ghawi-life-v2",
     type: "lake",
     name: { de: "Naturreservat Khawr Ghawi", hu: "Haur Gávi Természetvédelmi Terület", ro: "Rezervația Naturală Khawr Ghawi", en: "Khawr Ghawi Nature Reserve" },
-    coordinates: { lat: 18.55, lng: 57.21 },
+    coords: [57.21, 18.55],
     description: {
       de: "Diese Lagune in Al Wusta ist ein bedeutender Zwischenstopp für zehntausende Zugvögel. Sie bietet Schutz und Nahrung in einer ansonsten kargen Küstenlandschaft.",
       hu: "Ez az Al-Vusztában található lagúna több tízezer költöző madár jelentős megállóhelye. Menedéket és táplálékot nyújt az egyébként kopár parti tájban.",
@@ -973,7 +973,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-khawr-al-milh-life-v2",
     type: "lake",
     name: { de: "Salzlagune Khawr Al Milh", hu: "Haur al-Milh sólagúna", ro: "Laguna de sare Khawr Al Milh", en: "Khawr Al Milh Lagoon" },
-    coordinates: { lat: 22.68, lng: 59.44 },
+    coords: [59.44, 22.68],
     description: {
       de: "Die Lagune nahe Sur ist bekannt für ihre traditionelle Salzgewinnung und ihre Bedeutung für Küstenvögel. Sie verbindet jahrhundertealte Kulturtechniken mit ökologischem Wert.",
       hu: "A Súr közelében található lagúna hagyományos sótermeléséről és a parti madarak számára nyújtott jelentőségéről ismert. Évszázados kulturális technikákat ötvöz az ökológiai értékekkel.",
@@ -992,7 +992,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-quriyat-wetland-life-v2",
     type: "wildlife",
     name: { de: "Feuchtgebiet Quriyat", hu: "Kurijat vizes élőhely", ro: "Zona umedă Quriyat", en: "Quriyat Wetland Reserve" },
-    coordinates: { lat: 23.26, lng: 58.91 },
+    coords: [58.91, 23.26],
     description: {
       de: "Ein geschütztes Mangrovengebiet an der Küste von Quriyat, etwa 50 km von Maskat entfernt. Es ist eines der am besten erhaltenen Mangroven-Ökosysteme des Landes.",
       hu: "Védett mangrove terület Kurijat partjainál, kb. 50 km-re Maszkattól. Az ország egyik legjobb állapotban fennmaradt mangrove-ökoszisztémája.",
@@ -1011,7 +1011,7 @@ export const poiExtraOmanLifeV2: POI[] = [
     id: "oman-sudh-marine-life-v2",
     type: "wildlife",
     name: { de: "Meeresgebiet von Sudh", hu: "Szudh tengeri terület", ro: "Zona marină Sudh", en: "Sudh Marine Area" },
-    coordinates: { lat: 17.05, lng: 55.07 },
+    coords: [55.07, 17.05],
     description: {
       de: "Sudh ist berühmt für seine kalten, nährstoffreichen Gewässer, die durch den sommerlichen Upwelling-Prozess entstehen. Es ist das Zentrum der omanischen Abalone-Fischerei.",
       hu: "Szudh a nyári feláramlási folyamat révén létrejövő hideg, tápanyagban gazdag vizeiről híres. Ez az ománi tengeri fülcsiga-halászat központja.",

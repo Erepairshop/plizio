@@ -720,7 +720,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-st-joseph-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St.-Joseph-Kathedrale", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
-    coordinates: { lat: 21.0304, lng: 105.8479 },
+    coords: [105.8479, 21.0304],
     description: {
       de: "Die neugotische Kathedrale in Hanoi wurde Ende des 19. Jahrhunderts erbaut. Ihr Design ähnelt dem von Notre-Dame de Paris.",
       hu: "A hanoi neogótikus székesegyházat a 19. század végén építették. Kialakítása a párizsi Notre-Dame-ra emlékeztet.",
@@ -739,7 +739,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-hanoi-flag-tower-landmarks-v2",
     type: "tower",
     name: { de: "Hanoier Flaggenturm", hu: "Hanoi zászlótorony", ro: "Turnul Steagului din Hanoi", en: "Flag Tower of Hanoi" },
-    coordinates: { lat: 21.0324, lng: 105.8398 },
+    coords: [105.8398, 21.0324],
     description: {
       de: "Dieser historische Turm ist eines der wenigen Bauwerke der Zitadelle von Hanoi, die die Kolonialzeit überdauert haben. Er dient als Aussichtspunkt.",
       hu: "Ez a történelmi torony azon kevés építmények egyike, amelyek épségben maradtak a hanoi citadellából. Ma kilátóként szolgál.",
@@ -758,7 +758,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-landmark-81-landmarks-v2",
     type: "tower",
     name: { de: "Landmark 81", hu: "Landmark 81", ro: "Landmark 81", en: "Landmark 81" },
-    coordinates: { lat: 10.795, lng: 106.7219 },
+    coords: [106.7219, 10.795],
     description: {
       de: "Landmark 81 ist das höchste Gebäude Vietnams und befindet sich in Ho-Chi-Minh-Stadt. Die Architektur ist von einem traditionellen Bambusbündel inspiriert.",
       hu: "A Landmark 81 Vietnám legmagasabb épülete, amely Ho Si Minh-városban található. Építészetét a hagyományos bambuszköteg ihlette.",
@@ -777,7 +777,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-hoa-lo-prison-museum-landmarks-v2",
     type: "museum",
     name: { de: "Hoa-Lo-Gefängnis", hu: "Hỏa Lò börtön", ro: "Închisoarea Hoa Lo", en: "Hỏa Lò Prison Museum" },
-    coordinates: { lat: 21.0253, lng: 105.8465 },
+    coords: [105.8465, 21.0253],
     description: {
       de: "Das ehemalige Gefängnis in Hanoi wurde von französischen Kolonialherren erbaut. Heute ist es ein Museum, das die Geschichte politischer Gefangener zeigt.",
       hu: "A hanoi egykori börtönt a francia gyarmatosítók építették. Ma múzeumként működik, bemutatva a politikai foglyok történetét.",
@@ -796,7 +796,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-cao-dai-holy-see-landmarks-v2",
     type: "landmark",
     name: { de: "Heiliger Stuhl der Cao Dai", hu: "Cao Dai Szent Szék", ro: "Sfântul Scaun Cao Dai", en: "Cao Dai Holy See" },
-    coordinates: { lat: 11.3117, lng: 106.136 },
+    coords: [106.136, 11.3117],
     description: {
       de: "Dieses farbenfrohe Heiligtum in Tay Ninh ist das Zentrum des Caodaismus. Die Architektur vereint Elemente aus Buddhismus, Christentum und Islam.",
       hu: "Ez a színes szentély Tay Ninhben a kaodaizmus központja. Az építészet a buddhizmus, a kereszténység és az iszlám elemeit ötvözi.",
@@ -815,7 +815,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-saigon-opera-house-landmarks-v2",
     type: "theater",
     name: { de: "Opernhaus von Saigon", hu: "Saigoni Operaház", ro: "Opera din Saigon", en: "Saigon Opera House" },
-    coordinates: { lat: 10.7766, lng: 106.7032 },
+    coords: [106.7032, 10.7766],
     description: {
       de: "Das Städtische Theater von Ho-Chi-Minh-Stadt ist ein Beispiel für französische Kolonialarchitektur. Es ist ein Zentrum für Ballett und klassische Musik.",
       hu: "A Ho Si Minh-városi Városi Színház a francia gyarmati építészet kiváló példája. Ma a balett és a komolyzene központja.",
@@ -834,7 +834,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-ho-chi-minh-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Ho-Chi-Minh-Stadt", hu: "Ho Si Minh-városi városháza", ro: "Primăria din Ho Chi Minh", en: "Ho Chi Minh City Hall" },
-    coordinates: { lat: 10.7767, lng: 106.7011 },
+    coords: [106.7011, 10.7767],
     description: {
       de: "Das prunkvolle Gebäude am Ende der Nguyen-Hue-Promenade dient heute als Volkskomitee von Ho-Chi-Minh-Stadt. Es wurde im französischen Stil erbaut.",
       hu: "A Nguyen Hue sétány végén álló pompás épület ma a Ho Si Minh-városi Népi Bizottság székhelye. Francia stílusban emelték.",
@@ -853,7 +853,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-ben-thanh-market-landmarks-v2",
     type: "landmark",
     name: { de: "Ben-Thanh-Markt", hu: "Bến Thành piac", ro: "Piața Ben Thanh", en: "Ben Thanh Market" },
-    coordinates: { lat: 10.7725, lng: 106.6981 },
+    coords: [106.6981, 10.7725],
     description: {
       de: "Der Markt ist eines der ältesten Wahrzeichen von Ho-Chi-Minh-Stadt. Sein markanter Uhrturm am Südeingang ist weltweit bekannt.",
       hu: "Ez a piac Ho Si Minh-város egyik legrégebbi jelképe. A déli bejáratnál található óratorony világszerte ismert szimbólum.",
@@ -872,7 +872,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-tan-dinh-church-landmarks-v2",
     type: "church",
     name: { de: "Tan-Dinh-Kirche", hu: "Tân Định templom", ro: "Biserica Tan Dinh", en: "Tan Dinh Church" },
-    coordinates: { lat: 10.789, lng: 106.6903 },
+    coords: [106.6903, 10.789],
     description: {
       de: "Diese Kirche in Ho-Chi-Minh-Stadt ist für ihre auffällige rosa Farbe bekannt. Sie wurde während der Kolonialzeit im romanischen Stil errichtet.",
       hu: "Ez a Ho Si Minh-városi templom feltűnő rózsaszín színéről híres. A gyarmati korszakban épült neoromán stílusban.",
@@ -891,7 +891,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-truong-tien-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Truong-Tien-Brücke", hu: "Trường Tiền híd", ro: "Podul Truong Tien", en: "Truong Tien Bridge" },
-    coordinates: { lat: 16.4683, lng: 107.5919 },
+    coords: [107.5919, 16.4683],
     description: {
       de: "Die Truong-Tien-Brücke überspannt den Parfüm-Fluss in Hue. Sie ist bekannt für ihre eleganten Bögen und ihre farbenfrohe Beleuchtung bei Nacht.",
       hu: "A Trường Tiền híd az Illat-folyón ível át Hué városában. Elegáns íveiről és az éjszakai színes kivilágításáról híres.",
@@ -910,7 +910,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-ngoc-son-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Ngoc-Son-Tempel", hu: "Ngọc Sơn-templom", ro: "Templul Ngoc Son", en: "Ngoc Son Temple" },
-    coordinates: { lat: 21.0308, lng: 105.8524 },
+    coords: [105.8524, 21.0308],
     description: {
       de: "Dieser Tempel befindet sich auf einer kleinen Insel im Hoan-Kiem-See in Hanoi. Er ist über die markante rote Huc-Brücke erreichbar.",
       hu: "Ez a templom a hanoi Hoan Kiem-tó egyik kis szigetén található. A jellegzetes vörös Huc-hídon keresztül közelíthető meg.",
@@ -929,7 +929,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-museum-of-ethnology-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Ethnologie", hu: "Néprajzi Múzeum", ro: "Muzeul de Etnologie", en: "Vietnam Museum of Ethnology" },
-    coordinates: { lat: 21.0408, lng: 105.7983 },
+    coords: [105.7983, 21.0408],
     description: {
       de: "Das Museum in Hanoi präsentiert die kulturelle Vielfalt der 54 ethnischen Gruppen Vietnams. Es umfasst Ausstellungen im Innen- und Außenbereich.",
       hu: "A hanoi múzeum Vietnám 54 etnikai csoportjának kulturális sokszínűségét mutatja be. Bel- és kültéri kiállításokat is tartalmaz.",
@@ -948,7 +948,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-can-tho-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Can-Tho-Brücke", hu: "Cần Thơ híd", ro: "Podul Can Tho", en: "Can Tho Bridge" },
-    coordinates: { lat: 10.0347, lng: 105.8119 },
+    coords: [105.8119, 10.0347],
     description: {
       de: "Die Schrägseilbrücke ist eine der längsten ihrer Art in Südostasien. Sie überquert den Hau-Fluss und verbindet Can Tho mit Vinh Long.",
       hu: "Ez a ferdekábeles híd Délkelet-Ázsia egyik leghosszabbja. A Hau-folyón ível át, összekötve Cần Thőt Vinh Longgal.",
@@ -967,7 +967,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-buu-long-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Buu-Long-Pagode", hu: "Bửu Long-pagoda", ro: "Pagoda Buu Long", en: "Buu Long Pagoda" },
-    coordinates: { lat: 10.8711, lng: 106.8219 },
+    coords: [106.8219, 10.8711],
     description: {
       de: "Diese prächtige Pagode in Ho-Chi-Minh-Stadt vereint vietnamesische, thailändische und indische Architekturstile. Sie ist bekannt für ihre weiße Farbe und goldenen Details.",
       hu: "Ez a pompás Ho Si Minh-városi pagoda vietnámi, thai és indiai stílusjegyeket ötvöz. Fehér színéről és aranyozott díszítéséről híres.",
@@ -986,7 +986,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-vinh-nghiem-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Vinh-Nghiem-Pagode", hu: "Vĩnh Nghiêm-pagoda", ro: "Pagoda Vinh Nghiem", en: "Vinh Nghiem Pagoda" },
-    coordinates: { lat: 10.7933, lng: 106.6822 },
+    coords: [106.6822, 10.7933],
     description: {
       de: "Die Vinh-Nghiem-Pagode ist eine der größten buddhistischen Stätten in Ho-Chi-Minh-Stadt. Sie ist für ihren hohen siebenstöckigen Turm bekannt.",
       hu: "A Vĩnh Nghiêm-pagoda Ho Si Minh-város egyik legnagyobb buddhista központja. Híres a hét emeletes, magas kőtornyáról.",
@@ -1005,7 +1005,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-tran-hung-dao-statue-landmarks-v2",
     type: "monument",
     name: { de: "Tran-Hung-Dao-Statue", hu: "Trần Hưng Đạo szobra", ro: "Statuia lui Tran Hung Dao", en: "Tran Hung Dao Statue" },
-    coordinates: { lat: 10.7735, lng: 106.7067 },
+    coords: [106.7067, 10.7735],
     description: {
       de: "Diese imposante Statue am Ufer des Saigon-Flusses ehrt den General Tran Hung Dao. Er ist ein Nationalheld, der die mongolischen Invasionen abwehrte.",
       hu: "Ez az impozáns szobor a Saigon-folyó partján Trần Hưng Đạo tábornoknak állít emléket. Nemzeti hős, aki visszaverte a mongol hódítókat.",
@@ -1024,7 +1024,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-binh-tay-market-landmarks-v2",
     type: "landmark",
     name: { de: "Binh-Tay-Markt", hu: "Bình Tây piac", ro: "Piața Binh Tay", en: "Binh Tay Market" },
-    coordinates: { lat: 10.7501, lng: 106.6515 },
+    coords: [106.6515, 10.7501],
     description: {
       de: "Der Binh-Tay-Markt ist das Herz von Cholon, dem chinesischen Viertel von Ho-Chi-Minh-Stadt. Er beeindruckt durch seine chinesisch-französische Architektur.",
       hu: "A Bình Tây piac Cholon, a Ho Si Minh-városi kínai negyed szíve. Kínai-francia építészeti stílusa lenyűgöző látványt nyújt.",
@@ -1043,7 +1043,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-quoc-hoc-hue-school-landmarks-v2",
     type: "landmark",
     name: { de: "Quoc-Hoc-Schule Hue", hu: "Quoc Hoc középiskola", ro: "Liceul Quoc Hoc Hue", en: "Quoc Hoc Hue High School" },
-    coordinates: { lat: 16.4647, lng: 107.5852 },
+    coords: [107.5852, 16.4647],
     description: {
       de: "Die Quoc-Hoc-Schule ist eine der ältesten und renommiertesten Schulen Vietnams. Sie ist bekannt für ihre markanten dunkelroten Gebäude im Kolonialstil.",
       hu: "A Quoc Hoc az egyik legrégebbi és leghíresebb iskola Vietnámban. Jellegzetes sötétvörös, gyarmati stílusú épületeiről ismert.",
@@ -1062,7 +1062,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-nhat-tan-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Nhat-Tan-Brücke", hu: "Nhật Tân híd", ro: "Podul Nhat Tan", en: "Nhat Tan Bridge" },
-    coordinates: { lat: 21.0911, lng: 105.8189 },
+    coords: [105.8189, 21.0911],
     description: {
       de: "Diese moderne Schrägseilbrücke in Hanoi verfügt über fünf Pylone, die die fünf alten Stadttore symbolisieren. Sie ist nachts spektakulär beleuchtet.",
       hu: "Ez a modern hanoi híd öt pilonnal rendelkezik, amelyek a város öt régi kapuját szimbolizálják. Éjszaka látványos fényekben úszik.",
@@ -1081,7 +1081,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-keangnam-landmark-tower-landmarks-v2",
     type: "tower",
     name: { de: "Keangnam Landmark 72", hu: "Keangnam Landmark 72", ro: "Keangnam Landmark 72", en: "Keangnam Hanoi Landmark Tower" },
-    coordinates: { lat: 21.0167, lng: 105.7841 },
+    coords: [105.7841, 21.0167],
     description: {
       de: "Dieser Wolkenkratzer ist das höchste Gebäude in Hanoi. Er beherbergt ein Observatorium, Büros und ein Luxushotel.",
       hu: "Ez a felhőkarcoló Hanoi legmagasabb épülete. Kilátónak, irodáknak és egy luxusszállodának is otthont ad.",
@@ -1100,7 +1100,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-national-museum-of-history-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum für Geschichte", hu: "Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie", en: "Vietnam National Museum of History" },
-    coordinates: { lat: 21.0251, lng: 105.8592 },
+    coords: [105.8592, 21.0251],
     description: {
       de: "Das Museum in Hanoi zeigt die reiche Geschichte Vietnams von der Urzeit bis 1945. Das Gebäude ist ein prächtiges Beispiel für den Indochina-Stil.",
       hu: "A hanoi múzeum Vietnám gazdag történelmét mutatja be az őskortól 1945-ig. Az épület az indokínai építészeti stílus gyönyörű példája.",
@@ -1119,7 +1119,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-hanoi-opera-house-landmarks-v2",
     type: "theater",
     name: { de: "Opernhaus von Hanoi", hu: "Hanoi Operaház", ro: "Opera din Hanoi", en: "Hanoi Opera House" },
-    coordinates: { lat: 21.0242, lng: 105.8581 },
+    coords: [105.8581, 21.0242],
     description: {
       de: "Das Opernhaus in Hanoi wurde im Stil der Pariser Oper Garnier erbaut. Es ist ein bedeutendes kulturelles Zentrum im Herzen des französischen Viertels.",
       hu: "A hanoi Operaház a párizsi Opéra Garnier stílusában épült. Fontos kulturális központ a francia negyed szívében.",
@@ -1138,7 +1138,7 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
     id: "vietnam-bai-chay-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Bai-Chay-Brücke", hu: "Bãi Cháy híd", ro: "Podul Bai Chay", en: "Bai Chay Bridge" },
-    coordinates: { lat: 20.9583, lng: 107.0631 },
+    coords: [107.0631, 20.9583],
     description: {
       de: "Diese Schrägseilbrücke in der Halong-Bucht verbindet die Stadtteile Hon Gai und Bai Chay. Sie ist die erste einstufige Schrägseilbrücke Vietnams.",
       hu: "Ez a Halong-öbölben található ferdekábeles híd Hon Gai és Bãi Cháy városrészeit köti össze. Vietnám első ilyen típusú hídja.",

@@ -5,7 +5,7 @@ export const kiribatiLandmarksV2: POI[] = [
     id: "kiribati-parliament-building-landmarks-v2",
     type: "landmark",
     name: { de: "Maneaba ni Maungatabu", hu: "Maneaba ni Maungatabu", ro: "Maneaba ni Maungatabu", en: "Maneaba ni Maungatabu" },
-    coordinates: { lat: 1.332, lng: 173.042 },
+    coords: [173.042, 1.332],
     description: {
       de: "Das Parlamentsgebäude von Kiribati liegt in Ambo auf dem Tarawa-Atoll. Es wurde im traditionellen Maneaba-Stil erbaut und im Jahr 2000 eröffnet.",
       hu: "Kiribati parlamentjének épülete Ambo településen, a Dél-Tarawa atollon található. A hagyományos stílusú épületet 2000 októberében adták át.",
@@ -19,12 +19,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Seat of the House of Assembly", "Officially opened in October 2000", "Architecture mirrors a traditional meeting house", "Built on a reclaimed peninsula in Ambo"],
     },
     imageHint: "Kiribati Parliament Building Ambo Tarawa",
+    descriptionAdvanced: {
+      de: "Die Maneaba ni Maungatabu ist das Parlamentsgebäude von Kiribati, gelegen in South Tarawa. Es wurde 2000 erbaut und ist im traditionellen Maneaba-Stil gestaltet, um die kulturelle Identität widerzuspiegeln. Das Gebäude hat eine rechteckige Form mit einem hohen Dach aus Beton, das mit Palmblättern verkleidet ist. Es beherbergt den Sitzungssaal des House of Assembly (Parlament) mit 44 Sitzen. Das Parlament tagt hier etwa dreimal im Jahr. Die Maneaba ni Maungatabu symbolisiert die Demokratie und Unabhängigkeit Kiribatis. Der Bau kostete rund 5 Millionen Australische Dollar.",
+      hu: "A Maneaba ni Maungatabu Kiribati parlamentjének épülete, Dél-Tarawán található. 2000-ben épült, és a hagyományos maneaba stílust tükrözi. Az épület téglalap alakú, magas betontetővel, amelyet pálmalevelekkel borítanak. Itt ülésezik a House of Assembly (Parlament) 44 képviselővel. A parlament évente körülbelül háromszor ülésezik. A Maneaba ni Maungatabu Kiribati demokráciáját és függetlenségét szimbolizálja. Az építés költsége körülbelül 5 millió ausztrál dollár volt.",
+      ro: "Maneaba ni Maungatabu este clădirea parlamentului Kiribati, situată în South Tarawa. A fost construită în 2000 și este proiectată în stilul tradițional maneaba pentru a reflecta identitatea culturală. Clădirea are formă dreptunghiulară, cu un acoperiș înalt din beton acoperit cu frunze de palmier. Găzduiește sala de ședințe a Adunării Legislative (Parlament) cu 44 de locuri. Parlamentul se reunește de aproximativ trei ori pe an. Maneaba ni Maungatabu simbolizează democrația și independența Kiribati. Costul construcției a fost de circa 5 milioane de dolari australieni.",
+      en: "Maneaba ni Maungatabu is the parliament building of Kiribati, located in South Tarawa. Built in 2000, it is designed in the traditional maneaba style to reflect cultural identity. The building is rectangular with a high concrete roof clad in palm leaves. It houses the chamber of the House of Assembly (Parliament) with 44 seats. Parliament meets about three times a year. Maneaba ni Maungatabu symbolizes Kiribati's democracy and independence. Construction cost around 5 million Australian dollars.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde 2000 errichtet.", "Die Baukosten betrugen 5 Millionen AUD.", "Der Sitzungssaal hat 44 Sitze.", "Das Dach ist 15 Meter hoch.", "Die Grundfläche beträgt 800 Quadratmeter.", "Das Parlament tagt jährlich etwa 3 Mal."],
+      hu: ["Az épület 2000-ben épült.", "Az építési költség 5 millió AUD volt.", "A tanácsterem 44 férőhelyes.", "A tető magassága 15 méter.", "Alapterülete 800 négyzetméter.", "A parlament évente kb. 3 alkalommal ülésezik."],
+      ro: ["Clădirea a fost construită în 2000.", "Costul construcției: 5 milioane AUD.", "Sala de ședințe are 44 de locuri.", "Acoperișul are 15 m înălțime.", "Suprafața de 800 m².", "Parlamentul se reunește de aproximativ 3 ori pe an."],
+      en: ["Built in 2000.", "Construction cost: 5 million AUD.", "Chamber has 44 seats.", "Roof height: 15 meters.", "Floor area: 800 m².", "Parliament meets about 3 times per year."],
+    },
   },
   {
     id: "kiribati-betio-defense-guns-landmarks-v2",
     type: "monument",
     name: { de: "Küstenschutzgeschütze von Betio", hu: "Betiói partvédelmi ágyúk", ro: "Tunurile de coastă din Betio", en: "Betio Coast Defense Guns" },
-    coordinates: { lat: 1.358, lng: 172.93 },
+    coords: [172.93, 1.358],
     description: {
       de: "Diese schweren japanischen Küstengeschütze stammen aus dem Zweiten Weltkrieg. Sie waren Teil der Befestigungsanlagen während der Schlacht um Tarawa.",
       hu: "Ezek a japán partvédelmi ágyúk a második világháborúból maradtak fenn. A tarawai csata idején az erődítményrendszer részét képezték.",
@@ -38,12 +50,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Originally British-made Vickers guns", "Captured by the Japanese in Singapore", "8-inch (approx. 20 cm) caliber barrels", "Remnants of the bloody 1943 battle"],
     },
     imageHint: "WWII coastal defense guns Betio Tarawa",
+    descriptionAdvanced: {
+      de: "Die Betio Coast Defense Guns sind erhaltene japanische Küstengeschütze aus dem Zweiten Weltkrieg auf dem Betio-Atoll, Tarawa. Sie wurden in den 1940er Jahren errichtet, um die Zugänge zum Tarawa-Lagune zu verteidigen. Die Geschütze sind großkalibrig (meist 20-cm) und in Betonstellungen eingebaut. Sie wurden während der Schlacht um Tarawa 1943 eingesetzt. Heute sind die Kanonen rostig, aber noch sichtbar. Sie sind ein bedeutendes historisches Relikt der militärischen Befestigungen im Pazifik. Die Geschütze stehen unter Denkmalschutz.",
+      hu: "A Betio partvédelmi ágyúk második világháborús japán parti lövegek Tarawa Betio szigetén. Az 1940-es években építették a Tarawa lagúna védelmére. A lövegek nagy kaliberűek (többnyire 20 cm-esek), betonállásokba építve. A tarawai csatában (1943) is bevetették őket. Ma rozsdásak, de láthatók. Jelentős történelmi relikviák a csendes-óceáni katonai erődítésekből. Műemléki védelem alatt állnak.",
+      ro: "Tunurile de apărare de coastă de la Betio sunt tunuri japoneze de coastă din cel de-al Doilea Război Mondial, situate pe atolul Betio, Tarawa. Au fost construite în anii 1940 pentru a apăra accesul în laguna Tarawa. Tunurile sunt de calibru mare (majoritar 20 cm), montate în poziții de beton. Au fost folosite în Bătălia de la Tarawa din 1943. Astăzi sunt ruginite, dar vizibile. Reprezintă relicve istorice importante ale fortificațiilor militare din Pacific. Sunt monumente istorice protejate.",
+      en: "The Betio Coast Defense Guns are preserved Japanese coastal artillery pieces from World War II on Betio Atoll, Tarawa. Constructed in the 1940s, they defended the entrance to Tarawa Lagoon. The guns are large-caliber (mostly 20 cm) mounted in concrete emplacements. They saw action during the Battle of Tarawa in 1943. Today, they are rusted but remain visible. These guns are significant historical relics of Pacific fortifications and are protected as historical monuments.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1940er Jahre", "Kaliber: meist 20 cm", "Standort: Betio, Tarawa", "Verwendung: Schlacht um Tarawa (1943)", "Zustand: erhalten, aber verrostet", "Denkmalschutz: ja"],
+      hu: ["Építés: 1940-es évek", "Űrméret: többnyire 20 cm", "Helyszín: Betio, Tarawa", "Használat: tarawai csata (1943)", "Állapot: megtartott, de rozsdás", "Műemléki védelem: igen"],
+      ro: ["Construcție: anii 1940", "Calibru: în mare parte 20 cm", "Locație: Betio, Tarawa", "Utilizare: Bătălia de la Tarawa (1943)", "Stare: păstrate, dar ruginite", "Protecție: monument istoric"],
+      en: ["Constructed: 1940s", "Caliber: mostly 20 cm", "Location: Betio, Tarawa", "Usage: Battle of Tarawa (1943)", "Condition: preserved but rusted", "Protected: historical monument"],
+    },
   },
   {
     id: "kiribati-betio-japanese-bunker-landmarks-v2",
     type: "ruins",
     name: { de: "Japanischer Kommandobunker", hu: "Japán parancsnoki bunker", ro: "Buncărul de comandă japonez", en: "Japanese Command Bunker" },
-    coordinates: { lat: 1.357, lng: 172.932 },
+    coords: [172.932, 1.357],
     description: {
       de: "Dieser massive Betonbunker diente den japanischen Verteidigern 1943 als Hauptquartier. Er überstand schwerstes Bombardement durch die US-Marine.",
       hu: "Ez a masszív betonbunker a japán védők parancsnoki központja volt 1943-ban. Túlélte az amerikai haditengerészet súlyos bombázásait.",
@@ -57,12 +81,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Built from reinforced steel concrete", "HQ of Japanese Admiral Shibazaki", "Walls are over one meter thick", "Located near the coast of Betio island"],
     },
     imageHint: "Japanese concrete bunker Betio Tarawa ruins",
+    descriptionAdvanced: {
+      de: "Der japanische Kommandobunker auf Betio, Tarawa, stammt aus dem Zweiten Weltkrieg und war Teil der japanischen Verteidigungsanlagen. Erbaut 1942, diente er als Hauptquartier für Admiral Shibasaki. Die dicken Betonmauern widerstanden schweren Bombardements während der Schlacht um Tarawa im November 1943. Heute ist der Bunker eine historische Gedenkstätte, die an die heftigen Kämpfe erinnert. Besucher können die Überreste der militärischen Infrastruktur besichtigen, die von den US-Streitkräften eingenommen wurde. Die Anlage bietet Einblicke in die Taktik des Pazifikkriegs und die strategische Bedeutung der Gilbertinseln.",
+      hu: "A betiói japán parancsnoki bunker a második világháború idején épült, 1942-ben, és a japán védelmi rendszer része volt. Shibasaki admirális főhadiszállásaként szolgált a tarawai csata (1943. november) során. A vastag betonfalak ellenálltak az amerikai tüzérségi bombázásoknak. A bunker ma történelmi emlékhely, amely a csata áldozataira emlékezik. A látogatók megtekinthetik a katonai infrastruktúra maradványait, amelyeket az amerikai erők foglaltak el. Az építmény betekintést nyújt a csendes-óceáni hadszíntér taktikáiba és a Gilbert-szigetek stratégiai fontosságába.",
+      ro: "Buncărul japonez de comandă de pe Betio, Tarawa, datează din Al Doilea Război Mondial, construit în 1942 ca parte a apărării japoneze. A servit ca cartier general pentru amiralul Shibasaki în timpul bătăliei de la Tarawa din noiembrie 1943. Pereții groși de beton au rezistat bombardamentelor intense americane. Astăzi, buncărul este un memorial istoric care comemorează luptele crâncene. Vizitatorii pot vedea rămășițele infrastructurii militare cucerite de forțele SUA. Structura oferă perspective asupra tacticilor războiului din Pacific și importanței strategice a insulelor Gilbert.",
+      en: "The Japanese Command Bunker on Betio, Tarawa, was constructed in 1942 as part of Japan’s defensive fortifications in the Pacific. It served as the headquarters for Admiral Keiji Shibasaki during the Battle of Tarawa in November 1943. The bunker's thick concrete walls, over 1.5 meters thick, withstood heavy naval and aerial bombardment. After intense fighting, U.S. Marines captured the position. Today, the bunker stands as a preserved war relic, offering visitors a glimpse into the brutal close-quarters combat. It is a key site for understanding the Pacific War's amphibious assault tactics and the high casualty rates on both sides.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1942", "Betonmauern 1,5 Meter dick", "Schlacht um Tarawa: 20.-23. November 1943", "Hauptquartier von Admiral Shibasaki", "Heute Gedenkstätte", "Teil der japanischen Verteidigungslinie"],
+      hu: ["1942-ben épült", "Betonfalai 1,5 méter vastagok", "Tarawai csata: 1943. november 20-23.", "Shibasaki admirális főhadiszállása", "Ma emlékhely", "Japán védelmi vonal része"],
+      ro: ["Construit în 1942", "Pereți de beton groși de 1,5 metri", "Bătălia de la Tarawa: 20-23 noiembrie 1943", "Cartierul general al amiralului Shibasaki", "Astăzi memorial", "Parte a liniei defensive japoneze"],
+      en: ["Constructed in 1942", "Concrete walls 1.5 meters thick", "Battle of Tarawa: 20–23 November 1943", "Headquarters of Admiral Keiji Shibasaki", "Now a memorial site", "Part of Japanese defensive line"],
+    },
   },
   {
     id: "kiribati-us-marine-memorial-landmarks-v2",
     type: "monument",
     name: { de: "US-Marine-Denkmal", hu: "Amerikai tengerészgyalogos emlékmű", ro: "Monumentul Pușcașilor Marini SUA", en: "U.S. Marine Memorial" },
-    coordinates: { lat: 1.356, lng: 172.934 },
+    coords: [172.934, 1.356],
     description: {
       de: "Dieses Denkmal ehrt die Soldaten der 2. US-Marinedivision, die bei der Invasion von Betio fielen. Es befindet sich direkt am ehemaligen Landeabschnitt.",
       hu: "Ez az emlékmű az amerikai 2. tengerészgyalogos hadosztály katonái előtt tiszteleg. Az egykori partraszállási szektor közvetlen közelében áll.",
@@ -76,12 +112,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Erected to commemorate the 1943 battle", "Located at the section known as 'Red Beach'", "Commemorative plaque lists the units", "Important site for visiting veterans"],
     },
     imageHint: "US Marine Memorial Betio Tarawa monument",
+    descriptionAdvanced: {
+      de: "Das U.S. Marine Memorial auf Betio, Tarawa, ehrt die gefallenen US-Marines der Schlacht um Tarawa im November 1943. Das Denkmal, errichtet in den 1960er Jahren, steht nahe dem ehemaligen Brückenkopf. Es symbolisiert die Opferbereitschaft von über 1.000 Marines, die während der 76-stündigen Schlacht starben. Das Memorial besteht aus einer weißen Stele mit Inschrift und ist umgeben von Grünanlagen. Jährlich finden Gedenkfeiern statt. Der Ort bietet einen Panoramablick auf die Lagune, wo die Landungsboote anlegten. Es dient der Erinnerung an die blutigen Kämpfe und die Befreiung der Gilbertinseln.",
+      hu: "Az amerikai tengerészgyalogság emlékműve Betión, Tarawán, az 1943. novemberi tarawai csatában elesett tengerészgyalogosok előtt tiszteleg. Az emlékművet az 1960-as években állították a partraszállási terület közelében. Több mint 1000 tengerészgyalogos halálára emlékeztet, akik a 76 órás csatában estek el. A fehér sztélé felirattal és zöld területekkel körülvéve. Évente megemlékezéseket tartanak. A helyszínről kilátás nyílik a lagúnára, ahol a partraszálló hajók érkeztek. Az emlékmű a véres harcok és a Gilbert-szigetek felszabadításának emlékét őrzi.",
+      ro: "Memorialul Marinilor americani de pe Betio, Tarawa, onorează marinarii americani căzuți în bătălia de la Tarawa din noiembrie 1943. Monumentul, ridicat în anii 1960, se află lângă fostul cap de pod. Simbolizează sacrificiul a peste 1.000 de pușcași marini care au murit în lupta de 76 de ore. Memorialul constă într-o stelă albă cu inscripție, înconjurată de spații verzi. Anual au loc ceremonii comemorative. Locul oferă o vedere panoramică asupra lagunei unde au sosit bărcile de debarcare. Servește ca amintire a luptelor sângeroase și a eliberării insulelor Gilbert.",
+      en: "The U.S. Marine Memorial on Betio, Tarawa, honors the fallen Marines of the Battle of Tarawa in November 1943. Erected in the 1960s, the memorial stands near the former beachhead where intense fighting occurred. It commemorates over 1,000 U.S. Marines who died during the 76-hour battle. The white stone stele bears an inscription and is set in a landscaped park. Annual remembrance ceremonies are held here. The site overlooks the lagoon where landing crafts approached, offering a reflective view of the battlefield. It remains a poignant symbol of sacrifice and the high cost of the Pacific campaign.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet in den 1960er Jahren", "Über 1.000 gefallene Marines", "Schlacht dauerte 76 Stunden", "Standort nahe dem Brückenkopf", "Weiße Stele mit Inschrift", "Jährliche Gedenkfeiern"],
+      hu: ["Az 1960-as években állították", "Több mint 1000 elesett tengerészgyalogos", "A csata 76 órán át tartott", "A partraszállási terület közelében", "Fehér sztélé felirattal", "Éves megemlékezések"],
+      ro: ["Ridicat în anii 1960", "Peste 1.000 de pușcași marini căzuți", "Bătălia a durat 76 de ore", "Lângă fostul cap de pod", "Stelă albă cu inscripție", "Ceremonii comemorative anuale"],
+      en: ["Erected in the 1960s", "Over 1,000 fallen Marines", "Battle lasted 76 hours", "Near former beachhead", "White stone stele with inscription", "Annual remembrance ceremonies"],
+    },
   },
   {
     id: "kiribati-national-library-archives-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek und Archiv", hu: "Nemzeti Könyvtár és Archívum", ro: "Biblioteca și Arhivele Naționale", en: "National Library and Archives" },
-    coordinates: { lat: 1.329, lng: 172.978 },
+    coords: [172.978, 1.329],
     description: {
       de: "Die Nationalbibliothek von Kiribati befindet sich in Bairiki auf Süd-Tarawa. Sie bewahrt wichtige historische Dokumente und Regierungsaufzeichnungen auf.",
       hu: "Kiribati Nemzeti Könyvtára Bairiki településen található. Fontos történelmi dokumentumokat és kormányzati iratokat őriznek az épületben.",
@@ -95,12 +143,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Established in 1976", "Houses colonial-era archival records", "Central educational site in Bairiki", "Documents the history of the atolls"],
     },
     imageHint: "Kiribati National Library building Bairiki",
+    descriptionAdvanced: {
+      de: "Die Nationalbibliothek und das Nationalarchiv von Kiribati befinden sich in Bairiki, Tarawa. Gegründet 1979 nach der Unabhängigkeit, bewahrt sie historische Dokumente, Fotos und Manuskripte zur Geschichte Kiribatis. Die Sammlung umfasst Kolonialakten, genealogische Aufzeichnungen und traditionelles Wissen. Die Bibliothek fördert Lesekompetenz und bietet Zugang zu i-kiribatischer Literatur. Das Archiv ist wichtig für die Bewahrung der nationalen Identität. Es beherbergt etwa 15.000 Bücher und seltene Karten. Die Einrichtung dient als Forschungszentrum für Historiker und Studenten.",
+      hu: "Kiribati Nemzeti Könyvtára és Levéltára Bairikiben, Tarawán található. 1979-ben, a függetlenség után alapították, és történelmi dokumentumokat, fényképeket és kéziratokat őriz Kiribati múltjáról. A gyűjtemény magában foglal gyarmati iratokat, genealógiai feljegyzéseket és hagyományos tudást. A könyvtár népszerűsíti az írástudást és hozzáférést biztosít a kiribati irodalomhoz. A levéltár fontos a nemzeti identitás megőrzésében. Körülbelül 15 000 könyvet és ritka térképet őriz. Az intézmény kutatóközpontként szolgál történészek és diákok számára.",
+      ro: "Biblioteca Națională și Arhivele din Kiribati se află în Bairiki, Tarawa. Înființată în 1979, după independență, păstrează documente istorice, fotografii și manuscrise despre istoria Kiribati. Colecția include acte coloniale, înregistrări genealogice și cunoștințe tradiționale. Biblioteca promovează alfabetizarea și oferă acces la literatura i-kiribati. Arhiva este esențială pentru păstrarea identității naționale. Adăpostește aproximativ 15.000 de cărți și hărți rare. Instituția servește ca centru de cercetare pentru istorici și studenți.",
+      en: "The National Library and Archives of Kiribati, located in Bairiki, Tarawa, was established in 1979 following independence. It preserves the nation's documentary heritage, including colonial records, genealogies, and traditional knowledge. The library holds approximately 15,000 books and rare maps, focusing on Pacific history. The archives contain valuable photographs and manuscripts from the 19th and 20th centuries. It serves as a research hub for local and international scholars. The institution also runs literacy programs and community outreach, playing a vital role in education and cultural preservation in Kiribati.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1979", "Etwa 15.000 Bücher", "Standort Bairiki", "Enthält Kolonialakten", "Fotografien des 19./20. Jahrhunderts", "Forschungszentrum"],
+      hu: ["1979-ben alapították", "Körülbelül 15 000 könyv", "Bairiki helyszín", "Gyarmati iratokat tartalmaz", "19-20. századi fényképek", "Kutatóközpont"],
+      ro: ["Fondată în 1979", "Aproximativ 15.000 de cărți", "Locație Bairiki", "Conține acte coloniale", "Fotografii din secolele XIX-XX", "Centru de cercetare"],
+      en: ["Established in 1979", "Holds about 15,000 books", "Located in Bairiki", "Contains colonial records", "19th and 20th century photographs", "Research center"],
+    },
   },
   {
     id: "kiribati-bairiki-national-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalstadion von Bairiki", hu: "Bairiki Nemzeti Stadion", ro: "Stadionul Național din Bairiki", en: "Bairiki National Stadium" },
-    coordinates: { lat: 1.328, lng: 172.977 },
+    coords: [172.977, 1.328],
     description: {
       de: "Das Stadion in Bairiki ist die größte Sportstätte von Kiribati. Es dient als Heimspielstätte für die Fußballnationalmannschaft und für nationale Feiern.",
       hu: "A bairiki stadion Kiribati legnagyobb sportlétesítménye. Itt játssza mérkőzéseit a labdarúgó-válogatott és itt tartják a nemzeti ünnepeket.",
@@ -114,12 +174,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Capacity for approx. 2,500 spectators", "Features an artificial turf pitch", "Official name: Reuben K. Uatioa Stadium", "Hub for athletics and football in Kiribati"],
     },
     imageHint: "Bairiki National Stadium Tarawa aerial",
+    descriptionAdvanced: {
+      de: "Das Bairiki National Stadium in Bairiki, Tarawa, ist das größte Stadion Kiribatis. Es wurde 2002 erbaut und bietet Platz für etwa 2.500 Zuschauer. Es wird hauptsächlich für Fußball- und Leichtathletikveranstaltungen genutzt. Das Stadion ist Austragungsort nationaler Feierlichkeiten, politischer Kundgebungen und kultureller Events. Die Rasenfläche ist mit Kunstrasen ausgestattet, um der tropischen Witterung standzuhalten. Es dient als Heimstadion der Fußballnationalmannschaft Kiribatis. Trotz bescheidener Kapazität ist es ein wichtiger Sport- und Gemeinschaftsort.",
+      hu: "A Bairiki Nemzeti Stadion Bairikiben, Tarawán, Kiribati legnagyobb stadionja. 2002-ben épült, és körülbelül 2500 néző befogadására alkalmas. Főleg labdarúgó- és atlétikai eseményekre használják. A stadion ad otthont nemzeti ünnepségeknek, politikai gyűléseknek és kulturális rendezvényeknek. A pálya műfüves, hogy ellenálljon a trópusi időjárásnak. A kiribati labdarúgó-válogatott otthona. Szerény kapacitása ellenére fontos sport- és közösségi helyszín.",
+      ro: "Stadionul Național Bairiki din Bairiki, Tarawa, este cel mai mare stadion din Kiribati. Construit în 2002, are o capacitate de aproximativ 2.500 de spectatori. Este folosit în principal pentru fotbal și atletism. Stadionul găzduiește sărbători naționale, mitinguri politice și evenimente culturale. Terenul este din gazon artificial pentru a rezista climatului tropical. Este stadionul de acasă al echipei naționale de fotbal a Kiribati. În ciuda capacității modeste, este un important centru sportiv și comunitar.",
+      en: "Bairiki National Stadium, located in Bairiki on Tarawa Atoll, is Kiribati's primary sports venue. Built in 2002, it has a seating capacity of 2,500 spectators. The stadium features an artificial turf pitch suitable for football and athletics. It hosts national sporting events, independence day celebrations, and cultural performances. As the home ground of the Kiribati national football team, it is central to the country's sporting life. The stadium also serves as a venue for political rallies and community gatherings, making it a multifunctional facility despite its modest size.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 2002", "Kapazität 2.500", "Kunstrasen", "Heimstadion der Fußballnationalmannschaft", "Genutzt für Leichtathletik", "Austragungsort nationaler Feiern"],
+      hu: ["2002-ben épült", "2500 férőhely", "Műfüves pálya", "A labdarúgó-válogatott otthona", "Atlétikai események", "Nemzeti ünnepségek helyszíne"],
+      ro: ["Construit în 2002", "Capacitate 2.500", "Gazon artificial", "Stadionul echipei naționale de fotbal", "Folosit pentru atletism", "Gazdă a sărbătorilor naționale"],
+      en: ["Built in 2002", "Seating capacity 2,500", "Artificial turf pitch", "Home of national football team", "Used for athletics", "Hosts national celebrations"],
+    },
   },
   {
     id: "kiribati-captain-cook-monument-landmarks-v2",
     type: "monument",
     name: { de: "Captain Cook Denkmal", hu: "Cook kapitány emlékműve", ro: "Monumentul Căpitanului Cook", en: "Captain Cook's Monument" },
-    coordinates: { lat: 1.86, lng: -157.35 },
+    coords: [-157.35, 1.86],
     description: {
       de: "Dieses Denkmal auf Kiritimati erinnert an die Landung von James Cook im Jahr 1777. Er taufte die Insel aufgrund des Datums auf 'Christmas Island'.",
       hu: "Ez az emlékmű Kiritimati szigetén James Cook 1777-es partraszállásának állít emléket. Cook a dátum miatt nevezte el a szigetet Karácsony-szigetnek.",
@@ -133,12 +205,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Marks the arrival on December 24", "Located on the Kiritimati Atoll", "James Cook was the first European there", "Small memorial stone near the coast"],
     },
     imageHint: "Captain Cook monument Kiritimati Island",
+    descriptionAdvanced: {
+      de: "Das Captain Cook Monument auf der Insel Teraina (Washington Island) erinnert an den Besuch des britischen Entdeckers James Cook im Jahr 1777. Cook war der erste Europäer, der die Insel betrat. Das Denkmal, eine Steinpyramide, wurde 1924 von einem Schiffskapitän errichtet. Es steht an der Westküste nahe dem Dorf Napari. Die Insel ist heute Teil von Kiribati. Das Monument ist ein historisches Zeugnis der europäischen Entdeckungsreisen im Pazifik. Es ist von dichter Vegetation umgeben und nur per Boot erreichbar. Besucher können die raue Küstenlandschaft erkunden.",
+      hu: "A Cook Kapitány Emlékmű Teraina szigetén (Washington-sziget) James Cook brit felfedező 1777-es látogatására emlékeztet. Cook volt az első európai, aki a szigetre lépett. A kőpiramis alakú emlékművet 1924-ben egy hajóskapitány állíttatta. A nyugati parton található, Napari falu közelében. A sziget ma Kiribati része. Az emlékmű a csendes-óceáni európai felfedezőutak történelmi bizonyítéka. Sűrű növényzet veszi körül, és csak csónakkal közelíthető meg. A látogatók felfedezhetik a durva partvidéket.",
+      ro: "Monumentul căpitanului Cook de pe insula Teraina (Insula Washington) comemorează vizita exploratorului britanic James Cook în 1777. Cook a fost primul european care a pus piciorul pe insulă. Monumentul, o piramidă de piatră, a fost ridicat în 1924 de un căpitan de navă. Se află pe coasta de vest, lângă satul Napari. Insula face acum parte din Kiribati. Monumentul este o mărturie istorică a explorărilor europene în Pacific. Este înconjurat de vegetație densă și accesibil doar cu barca. Vizitatorii pot explora peisajul costier accidentat.",
+      en: "The Captain Cook Monument on Teraina (Washington Island) marks the landing of British explorer James Cook in 1777. Cook was the first European to set foot on the island. The stone pyramid monument was erected in 1924 by a passing ship captain. Located on the west coast near the village of Napari, it is surrounded by tropical vegetation. The site is remote, accessible only by boat. The monument serves as a historical marker of early European contact in the Pacific. Despite its isolation, it attracts history enthusiasts and those interested in Cook's voyages across the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Besuch 1777", "Steinpyramide errichtet 1924", "Standort Teraina (Washington Island)", "Westküste nahe Napari", "Nur per Boot erreichbar", "Höhe ca. 3 Meter"],
+      hu: ["1777-es látogatás", "Kőpiramis, 1924-ben állították", "Teraina (Washington-sziget)", "Nyugati part, Napari közelében", "Csak csónakkal", "Magassága kb. 3 méter"],
+      ro: ["Vizită în 1777", "Piramidă de piatră ridicată în 1924", "Locație Teraina (Insula Washington)", "Coasta de vest lângă Napari", "Accesibil doar cu barca", "Înălțime de aproximativ 3 metri"],
+      en: ["Visit in 1777", "Stone pyramid erected in 1924", "Located on Teraina (Washington Island)", "West coast near Napari", "Accessible only by boat", "Height approximately 3 meters"],
+    },
   },
   {
     id: "kiribati-london-settlement-kiritimati-landmarks-v2",
     type: "landmark",
     name: { de: "Siedlung London", hu: "London település", ro: "Așezarea London", en: "London Settlement" },
-    coordinates: { lat: 1.98, lng: -157.47 },
+    coords: [-157.47, 1.98],
     description: {
       de: "London ist der Hauptort des Kiritimati-Atolls und ein wichtiges Verwaltungszentrum. Der Ort verfügt über den wichtigsten Hafen der Insel für Exporte.",
       hu: "London a Kiritimati-atoll legfontosabb települése és adminisztratív központja. Itt található a sziget legjelentősebb kikötője az exporthoz.",
@@ -152,12 +236,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Largest settlement on Kiritimati", "Major port for the copra trade", "Named during the colonial era", "Houses essential administrative services"],
     },
     imageHint: "London settlement Kiritimati Island port",
+    descriptionAdvanced: {
+      de: "Die London Settlement auf Kiritimati (Weihnachtsinsel) ist eine historische Siedlung aus dem 19. Jahrhundert. Sie wurde von britischen Siedlern gegründet, die Kokosplantagen betrieben. Die Siedlung umfasst alte Gebäude, darunter ein Postamt und eine Kirche. Benannt ist sie nach London, der Hauptstadt des Vereinigten Königreichs. Heute leben hier wenige Bewohner. Die Siedlung ist ein Beispiel kolonialer Architektur im Pazifik. Sie dient als Ausgangspunkt für Ausflüge zu den Vogelkolonien. Der Ort ist von Palmenhainen umgeben und bietet eine ruhige Atmosphäre.",
+      hu: "A London Settlement Kiritimatin (Karácsony-sziget) egy 19. századi történelmi település. Brit telepesek alapították, akik kókuszültetvényeket műveltek. A település régi épületeket foglal magában, köztük egy postahivatalt és egy templomot. Nevét Londonról, az Egyesült Királyság fővárosáról kapta. Ma kevés lakosa van. A település a gyarmati építészet példája a Csendes-óceánon. Kiindulópontként szolgál a madárkolóniákhoz tett kirándulásokhoz. A helyet pálmaligetek veszik körül, és nyugodt légkört áraszt.",
+      ro: "Așezarea London din Kiritimati (Insula Crăciunului) este o așezare istorică din secolul al XIX-lea. A fost fondată de coloniști britanici care cultivau plantații de nucă de cocos. Așezarea include clădiri vechi, inclusiv un oficiu poștal și o biserică. A fost numită după Londra, capitala Regatului Unit. Astăzi are puțini locuitori. Așezarea este un exemplu de arhitectură colonială în Pacific. Servește ca punct de plecare pentru excursii la coloniile de păsări. Locul este înconjurat de palmieri și oferă o atmosferă liniștită.",
+      en: "London Settlement on Kiritimati (Christmas Island) is a historic colonial village established in the 19th century by British settlers. It features preserved buildings such as a post office, church, and old plantation houses. Named after the UK capital, it was the center of copra production on the island. Today, it has a small population and serves as a base for birdwatching and fishing. The settlement's remote location and traditional architecture offer a glimpse into Kiribati's colonial past. It is surrounded by coconut groves and pristine beaches.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 19. Jahrhundert", "Benannt nach London", "Ehemalige Kokosplantage", "Altes Postamt", "Kirche aus Kalkstein", "Heute weniger als 100 Einwohner"],
+      hu: ["19. században alapították", "Londonról elnevezve", "Egykori kókuszültetvény", "Régi postahivatal", "Mészkő templom", "Ma kevesebb mint 100 lakos"],
+      ro: ["Fondată în secolul al XIX-lea", "Numită după Londra", "Fostă plantație de cocos", "Oficiu poștal vechi", "Biserică de calcar", "Astăzi sub 100 de locuitori"],
+      en: ["Founded in the 19th century", "Named after London", "Former coconut plantation", "Old post office building", "Limestone church", "Current population under 100"],
+    },
   },
   {
     id: "kiribati-st-stanislaus-church-poland-landmarks-v2",
     type: "church",
     name: { de: "St. Stanislaus Kirche", hu: "Szent Szaniszló-templom", ro: "Biserica Sfântul Stanislau", en: "St. Stanislaus Kostka Church" },
-    coordinates: { lat: 1.86, lng: -157.55 },
+    coords: [-157.55, 1.86],
     description: {
       de: "Diese Kirche befindet sich im Dorf Poland auf der Insel Kiritimati. Das Dorf wurde nach einem polnischen Seefahrer benannt, der dort wirkte.",
       hu: "Ez a templom Poland faluban található a Kiritimati-szigeten. A falut egy lengyel tengerészről nevezték el, aki ott élt.",
@@ -171,12 +267,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Heart of Catholic life in Poland village", "Traditional and simple architecture", "Landmark building on the remote atoll", "Symbol of the historical link to Poland"],
     },
     imageHint: "St Stanislaus Kostka church Poland Kiritimati",
+    descriptionAdvanced: {
+      de: "Die St.-Stanislaus-Kostka-Kirche in Poland, Banaba, ist eine katholische Kirche, die 1951 erbaut wurde. Sie ist dem polnischen Heiligen Stanislaus Kostka gewidmet. Die Kirche diente der Gemeinschaft der Phosphatminenarbeiter. Nach der Einstellung des Bergbaus verfiel sie teilweise. Das Gebäude ist aus Korallenkalkstein gebaut und zeigt eine Mischung aus europäischer und pazifischer Architektur. Sie ist eine der wenigen erhaltenen Kirchen auf Banaba. Die Kirche ist ein Symbol der religiösen und kulturellen Geschichte der Insel. Sie wird gelegentlich für Gottesdienste genutzt.",
+      hu: "A Szent Stanislaus Kostka-templom Polandban, Banabán, egy katolikus templom, amelyet 1951-ben építettek. Stanislaus Kostka lengyel szentről nevezték el. A templom a foszfátbánya-munkások közösségét szolgálta. A bányászat megszűnése után részben leromlott. Az épület korallmészkőből épült, és az európai és csendes-óceáni építészet keverékét mutatja. Ez az egyik kevés fennmaradt templom Banabán. A templom a sziget vallási és kulturális történelmének szimbóluma. Időnként használják istentiszteletekre.",
+      ro: "Biserica Sfântul Stanislaus Kostka din Poland, Banaba, este o biserică catolică construită în 1951. Este dedicată sfântului polonez Stanislaus Kostka. Biserica a servit comunitatea minerilor de fosfat. După încetarea mineritului, a intrat parțial în paragină. Clădirea este construită din calcar coralier și prezintă un amestec de arhitectură europeană și pacifică. Este una dintre puținele biserici rămase pe Banaba. Biserica este un simbol al istoriei religioase și culturale a insulei. Este folosită ocazional pentru slujbe.",
+      en: "St. Stanislaus Kostka Church in Poland, Banaba Island, is a Roman Catholic church built in 1951. It was named after the Polish Jesuit saint and served the phosphate mining community. The church is constructed of coral limestone, typical of local island buildings. After mining ceased in 1979, the population declined and the church fell into disrepair. It stands as a relic of Banaba's colonial and industrial past. The church features a simple design with a bell tower and stained glass windows. It remains a symbol of the island's once-thriving community.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1951", "Gewidmet Stanislaus Kostka", "Standort Poland, Banaba", "Material Korallenkalkstein", "Diente Minenarbeitern", "Bergbau endete 1979"],
+      hu: ["1951-ben épült", "Stanislaus Kostkának szentelve", "Poland, Banaba", "Korallmészkőből", "Bányászoknak épült", "Bányászat 1979-ben véget ért"],
+      ro: ["Construită în 1951", "Dedicată lui Stanislaus Kostka", "Locație Poland, Banaba", "Construită din calcar coralier", "A servit minerilor", "Minieritul s-a încheiat în 1979"],
+      en: ["Built in 1951", "Dedicated to St. Stanislaus Kostka", "Located in Poland, Banaba", "Constructed of coral limestone", "Served phosphate miners", "Mining ended in 1979"],
+    },
   },
   {
     id: "kiribati-british-residency-banaba-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen der britischen Residenz", hu: "Brit rezidencia romjai", ro: "Ruinele reședinței britanice", en: "British Residency Ruins" },
-    coordinates: { lat: -0.85, lng: 169.53 },
+    coords: [169.53, -0.85],
     description: {
       de: "Diese Ruinen auf der Insel Banaba stammen aus der Zeit der britischen Verwaltung. Das Gebäude war einst das herrschaftliche Zentrum der Kolonialbeamten.",
       hu: "Ezek a romok Banaba szigetén a brit adminisztráció idejéből származnak. Az épület egykor a gyarmati tisztviselők központja volt.",
@@ -190,12 +298,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Built in the early 20th century", "Testimony to the British colonial period", "Located on Banaba (Ocean Island)", "Partially impacted by phosphate mining"],
     },
     imageHint: "British residency ruins Banaba Island",
+    descriptionAdvanced: {
+      de: "Die Überreste der Britischen Residenz auf Banaba (Ozeaninsel) sind Ruinen aus der Zeit der Phosphatminenverwaltung (1900–1979). Das Gebäude war Sitz des britischen Resident Commissioners. Es wurde um 1905 erbaut und war ein zweistöckiges Holzhaus. Nach dem Phosphatabbau verfiel es. Die Ruinen umfassen Fundamente, Treppen und Mauerreste. Sie zeugen von der kolonialen Herrschaft und der industriellen Ausbeutung. Die Residenz bot einen weiten Blick auf den Ozean. Heute sind sie eine historische Stätte, die an die Vergangenheit Banabas erinnert.",
+      hu: "A Brit Rezidencia romjai Banabán (Óceán-sziget) a foszfátbánya-adminisztráció idejéből (1900–1979) származó romok. Az épület a brit rezidens biztos székhelye volt. 1905 körül épült, egy kétszintes faház volt. A foszfátbányászat megszűnése után elhanyagolták. A romok alapokat, lépcsőket és faldarabokat foglalnak magukban. A gyarmati uralmat és az ipari kizsákmányolást tanúsítják. A rezidenciából kilátás nyílt az óceánra. Ma történelmi helyszín, amely Banaba múltjára emlékeztet.",
+      ro: "Ruinele Reședinței Britanice din Banaba (Insula Ocean) sunt rămășițe din perioada administrației minelor de fosfat (1900-1979). Clădirea a fost sediul Comisarului Rezident britanic. A fost construită în jurul anului 1905, o casă cu două etaje din lemn. După încetarea mineritului, a intrat în paragină. Ruinele includ fundații, scări și ziduri rămase. Ele mărturisesc dominația colonială și exploatarea industrială. Reședința oferea o vedere largă asupra oceanului. Astăzi sunt un sit istoric care amintește de trecutul Banabei.",
+      en: "The British Residency Ruins on Banaba Island are the remains of the colonial administrator's residence, built around 1905. This two-story wooden structure served as the home and office of the British Resident Commissioner during the phosphate mining era. After mining ceased in 1979, the building was abandoned and fell into decay. Today, only the foundation, staircases, and partial walls remain. The ruins overlook the Pacific Ocean, symbolizing the island's colonial past. They are a poignant reminder of the impact of phosphate extraction on Banaba's environment and society.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1905", "Zweistöckig", "Aus Holz", "Sitz des Resident Commissioners", "Phosphatabbau 1900-1979", "Heute Ruinen"],
+      hu: ["1905 körül épült", "Kétszintes", "Fából", "Rezidens biztos székhelye", "Foszfátbányászat 1900-1979", "Ma romok"],
+      ro: ["Construită în jurul anului 1905", "Cu două etaje", "Din lemn", "Sediu al Comisarului Rezident", "Exploatarea fosfatului 1900-1979", "Astăzi ruine"],
+      en: ["Built around 1905", "Two stories", "Wooden structure", "Residence of British Resident Commissioner", "Phosphate mining period 1900-1979", "Now ruins"],
+    },
   },
   {
     id: "kiribati-phosphate-mining-ruins-landmarks-v2",
     type: "industry",
     name: { de: "Überreste des Phosphatbergbaus", hu: "Foszfátbányászat maradványai", ro: "Ruinele exploatării de fosfați", en: "Phosphate Mining Ruins" },
-    coordinates: { lat: -0.86, lng: 169.54 },
+    coords: [169.54, -0.86],
     description: {
       de: "Die verlassenen Verladeanlagen und Maschinen auf Banaba zeugen von der intensiven Phosphatgewinnung. Der Bergbau veränderte die Topographie der Insel dauerhaft.",
       hu: "A Banaba szigetén található elhagyatott rakodók és gépek az intenzív foszfátbányászat tanúi. A bányászat örökre megváltoztatta a szigetet.",
@@ -209,12 +329,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Mining officially ended in 1979", "Massive cantilevers and structures remain", "Left behind a barren, lunar-like terrain", "Crucial part of the local economic history"],
     },
     imageHint: "Phosphate mining ruins Banaba Island cantilevers",
+    descriptionAdvanced: {
+      de: "Die Überreste des Phosphatabbaus auf Banaba umfassen alte Förderanlagen, Gleise und Verladeeinrichtungen. Der Abbau begann 1900 unter britischer Verwaltung und endete 1979. Große Teile der Inseloberfläche wurden abgetragen. Die Ruinen zeigen rostige Maschinen, Betonfundamente und verlassene Siedlungen. Der Phosphatabbau hatte verheerende ökologische Auswirkungen. Heute sind die Ruinen ein industriearchäologisches Denkmal. Sie erinnern an die Ausbeutung der Inselressourcen. Besucher können die Überreste der industriellen Vergangenheit erkunden.",
+      hu: "A banabai foszfátbányászat romjai magukban foglalják régi szállítóberendezéseket, síneket és rakodóeszközöket. A bányászat 1900-ban kezdődött brit igazgatás alatt és 1979-ben ért véget. A sziget felszínének nagy részét elhordták. A romok rozsdás gépeket, betonalapokat és elhagyott településeket mutatnak. A foszfátbányászat pusztító ökológiai hatással volt. Ma a romok ipari régészeti emlékek. A szigeti erőforrások kizsákmányolására emlékeztetnek. A látogatók felfedezhetik az ipari múlt maradványait.",
+      ro: "Ruinele exploatării de fosfat din Banaba includ foste instalații de transport, șine și echipamente de încărcare. Exploatarea a început în 1900 sub administrație britanică și s-a încheiat în 1979. O mare parte din suprafața insulei a fost îndepărtată. Ruinele prezintă mașini ruginite, fundații de beton și așezări abandonate. Exploatarea de fosfat a avut un impact ecologic devastator. Astăzi, ruinele sunt un monument de arheologie industrială. Ele amintesc de exploatarea resurselor insulei. Vizitatorii pot explora rămășițele trecutului industrial.",
+      en: "The Phosphate Mining Ruins on Banaba Island are relics of the intensive phosphate extraction that occurred from 1900 to 1979. Remains include rusting machinery, railway tracks, loading jetties, and concrete foundations. The mining stripped much of the island's topsoil, leaving a karst-like landscape. These ruins are a stark testament to the economic exploitation of Banaba's resources. They attract visitors interested in industrial archaeology and Pacific history. The site serves as a reminder of the environmental cost of mining and the island's transformed geography.",
+    },
+    factsAdvanced: {
+      de: ["Abbau 1900-1979", "Schienenreste", "Rostige Maschinen", "Betonfundamente", "Großflächige Abtragung", "Heute Industriedenkmal"],
+      hu: ["Bányászat 1900-1979", "Sínmaradványok", "Rozsdás gépek", "Betonalapok", "Nagy területű elhordás", "Ma ipari régészeti emlék"],
+      ro: ["Exploatare 1900-1979", "Șine rămase", "Mașini ruginite", "Fundații de beton", "Îndepărtare pe scară largă", "Astăzi monument industrial"],
+      en: ["Mining period 1900-1979", "Remaining railway tracks", "Rusting machinery", "Concrete foundations", "Large-scale topsoil removal", "Now industrial heritage site"],
+    },
   },
   {
     id: "kiribati-bonriki-airport-terminal-landmarks-v2",
     type: "landmark",
     name: { de: "Terminal des Flughafens Bonriki", hu: "Bonriki repülőtér terminál", ro: "Terminalul Aeroportului Bonriki", en: "Bonriki Airport Terminal" },
-    coordinates: { lat: 1.38, lng: 173.15 },
+    coords: [173.15, 1.38],
     description: {
       de: "Der Terminal des Bonriki International Airport ist das Tor zur Welt für Kiribati. Das Gebäude wurde modernisiert, um den Tourismus zu fördern.",
       hu: "A Bonriki nemzetközi repülőtér terminálja Kiribati kapuja a világra. Az épületet modernizálták a turizmus fellendítése érdekében.",
@@ -228,12 +360,24 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Only international airport on Tarawa", "Equipped for long-haul international flights", "Vital logistics hub for the outer islands", "Modern architecture by Pacific island standards"],
     },
     imageHint: "Bonriki International Airport terminal Kiribati",
+    descriptionAdvanced: {
+      de: "Das Bonriki Airport Terminal auf Tarawa ist der wichtigste internationale Flughafen Kiribatis. Es wurde 1963 erbaut und 2002 modernisiert. Das Terminal ist klein, aber funktional, mit Check-in-Schaltern und einem Warteraum. Es dient hauptsächlich Flügen nach Nadi (Fidschi) und anderen Pazifikinseln. Der Flughafen hat eine einzige Start- und Landebahn. Jährlich werden etwa 100.000 Passagiere abgefertigt. Das Terminalgebäude ist aus Beton mit Wellblechdach. Es spiegelt die einfache Infrastruktur des Inselstaates wider.",
+      hu: "A Bonriki repülőtér terminusa Tarawán Kiribati legfontosabb nemzetközi repülőtere. 1963-ban épült, 2002-ben korszerűsítették. A terminál kicsi, de funkcionális, bejelentkező pultokkal és váróteremmel. Főként Nadi (Fidzsi) és más csendes-óceáni szigetek felé közlekedő járatokat szolgál ki. A repülőtérnek egyetlen kifutópályája van. Évente körülbelül 100 000 utast kezel. A terminálépület betonból készült, hullámlemez tetővel. A szigetország egyszerű infrastruktúráját tükrözi.",
+      ro: "Terminalul Aeroportului Bonriki din Tarawa este principalul aeroport internațional al Kiribati. A fost construit în 1963 și modernizat în 2002. Terminalul este mic, dar funcțional, cu ghișee de check-in și sală de așteptare. Servește în principal zboruri către Nadi (Fiji) și alte insule din Pacific. Aeroportul are o singură pistă. Aproximativ 100.000 de pasageri sunt procesați anual. Clădirea terminalului este din beton cu acoperiș de tablă ondulată. Reflectă infrastructura simplă a statului insular.",
+      en: "Bonriki Airport Terminal on Tarawa Atoll is Kiribati's main international gateway. Opened in 1963 and renovated in 2002, the terminal handles flights to Fiji, Marshall Islands, and other Pacific destinations. It has a single 1,500-meter runway. The terminal building, with a capacity of about 200 passengers, includes a café, shop, and customs area. Despite its modest size, it is crucial for tourism and trade. The airport is named after the nearby village of Bonriki. It stands as a symbol of Kiribati's connectivity to the outside world.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1963", "Modernisiert 2002", "Eine Startbahn", "Länge 1.500 m", "Jährlich 100.000 Passagiere", "Flüge nach Fidschi"],
+      hu: ["1963-ban épült", "2002-ben felújítva", "Egy kifutópálya", "Hossza 1500 m", "Évente 100 000 utas", "Fidzsi-szigetekre járatok"],
+      ro: ["Construit în 1963", "Modernizat în 2002", "O singură pistă", "Lungime 1.500 m", "100.000 de pasageri anual", "Zboruri către Fiji"],
+      en: ["Built in 1963", "Renovated in 2002", "Single runway", "Length 1,500 meters", "100,000 passengers annually", "Flights to Fiji"],
+    },
   },
   {
     id: "kiribati-australian-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Australisches Kriegerdenkmal", hu: "Ausztrál háborús emlékmű", ro: "Monumentul de Război Australian", en: "Australian War Memorial" },
-    coordinates: { lat: 1.355, lng: 172.933 },
+    coords: [172.933, 1.355],
     description: {
       de: "Dieses Denkmal auf Betio ehrt die australischen Küstenbeobachter, die im Zweiten Weltkrieg hingerichtet wurden. Es befindet sich in Strandnähe.",
       hu: "Ez a Betión található emlékmű azon ausztrál partmegfigyelők előtt tiszteleg, akiket a második világháborúban végeztek ki.",
@@ -247,5 +391,17 @@ export const kiribatiLandmarksV2: POI[] = [
       en: ["Commemorates 22 executed coastwatchers", "Located on Betio Island (Tarawa)", "Features bronze commemorative plaques", "Symbol of shared sacrifice during the war"],
     },
     imageHint: "Australian war memorial Betio Tarawa coastwatchers",
+    descriptionAdvanced: {
+      de: "Das Australian War Memorial auf der Insel Tarawa ehrt die australischen Soldaten, die im Zweiten Weltkrieg in Kiribati gefallen sind. Es wurde 2004 errichtet. Das Denkmal besteht aus einer Granitstele mit der Aufschrift „Lest We Forget“. Es steht in der Nähe von Betio, wo australische Einheiten kämpften. Australien war direkt in den Pazifikkrieg verwickelt. Das Memorial erinnert an die gemeinsame Geschichte beider Länder. Es ist ein Ort der Besinnung und des Gedenkens. Jährlich finden Kranzniederlegungen statt.",
+      hu: "Az ausztrál háborús emlékmű Tarawa szigetén azoknak az ausztrál katonáknak állít emléket, akik a második világháborúban estek el Kiribatiban. 2004-ben állították. Az emlékmű egy gránitsztéléből áll, rajta a „Lest We Forget” felirattal. Betio közelében található, ahol ausztrál egységek harcoltak. Ausztrália közvetlenül részt vett a csendes-óceáni háborúban. Az emlékmű a két ország közös történelmére emlékeztet. A megemlékezés és elmélkedés helye. Évente koszorúzást tartanak.",
+      ro: "Memorialul de război australian de pe insula Tarawa onorează soldații australieni căzuți în Al Doilea Război Mondial în Kiribati. A fost ridicat în 2004. Memorialul constă într-o stelă de granit cu inscripția „Lest We Forget”. Se află lângă Betio, unde au luptat unități australiene. Australia a fost direct implicată în războiul din Pacific. Memorialul amintește de istoria comună a celor două țări. Este un loc de reflecție și comemorare. Au loc anual ceremonii de depunere de coroane.",
+      en: "The Australian War Memorial on Tarawa Atoll commemorates Australian servicemen who died in Kiribati during World War II. Unveiled in 2004, the memorial features a granite obelisk inscribed with Australian units and battles. It is located near the beach at Betio, where Australian forces participated in the Battle of Tarawa. The memorial strengthens ties between Kiribati and Australia. It serves as a place of remembrance for both nations and highlights Australia's role in the Pacific. Annual ANZAC Day services are held at the site.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 2004", "Granitstele", "Inschrift 'Lest We Forget'", "Standort nahe Betio", "Jährliche Gedenkfeiern", "Ehrt australische Soldaten"],
+      hu: ["2004-ben állították", "Gránitsztélé", "'Lest We Forget' felirat", "Betio közelében", "Éves megemlékezések", "Ausztrál katonákra emlékezik"],
+      ro: ["Ridicat în 2004", "Stelă de granit", "Inscripția 'Lest We Forget'", "Lângă Betio", "Ceremonii anuale", "Onorează soldații australieni"],
+      en: ["Erected in 2004", "Granite obelisk", "Inscription 'Lest We Forget'", "Located near Betio", "Annual ANZAC Day services", "Honors Australian soldiers"],
+    },
   }
 ];

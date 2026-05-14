@@ -666,7 +666,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-khaling-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Khaling-Wildschutzgebiet", hu: "Khaling Vadvédelmi Terület", ro: "Sanctuarul Khaling", en: "Khaling Wildlife Sanctuary" },
-    coordinates: { lat: 26.911, lng: 91.542 },
+    coords: [91.542, 26.911],
     description: {
       de: "Das Schutzgebiet liegt im Südosten Bhutans und grenzt an den indischen Bundesstaat Assam. Es beherbergt bedrohte Arten wie das Zwergschwein und den Indischen Elefanten.",
       hu: "A védett terület Bhután délkeleti részén található, az indiai Assam állam határán. Olyan veszélyeztetett fajoknak ad otthont, mint a törpedisznó és az ázsiai elefánt.",
@@ -697,7 +697,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-serbithang-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Serbithang", hu: "Serbithang Botanikus Kert", ro: "Grădina Botanică Serbithang", en: "Serbithang Botanical Garden" },
-    coordinates: { lat: 27.436, lng: 89.663 },
+    coords: [89.663, 27.436],
     description: {
       de: "Dieser botanische Garten in der Nähe von Thimphu dient als nationales Zentrum für die Erhaltung der Artenvielfalt. Er umfasst Spezialsammlungen von Farnen und Arzneipflanzen.",
       hu: "Ez a Thimphu melletti botanikus kert a biológiai sokféleség megőrzésének nemzeti központja. Páfrányokból és gyógynövényekből álló speciális gyűjteményeket mutat be.",
@@ -728,7 +728,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-sangaygang-nature-trail-life-v2",
     type: "park",
     name: { de: "Sangaygang-Naturpfad", hu: "Sangaygang Tanösvény", ro: "Traseul Sangaygang", en: "Sangaygang Nature Trail" },
-    coordinates: { lat: 27.484, lng: 89.622 },
+    coords: [89.622, 27.484],
     description: {
       de: "Der Pfad führt durch dichte Kiefernwälder oberhalb der Hauptstadt Thimphu zum Sangaygang-Aussichtspunkt. Er ist ein beliebter Ort zur Beobachtung lokaler Vogelarten und der Flora.",
       hu: "Az ösvény sűrű fenyőerdőkön keresztül vezet Thimphu felett a Sangaygang kilátóhoz. Népszerű hely a helyi madárfajok és a flóra megfigyelésére.",
@@ -759,7 +759,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-gangtey-nature-trail-life-v2",
     type: "wildlife",
     name: { de: "Gangtey-Naturpfad", hu: "Gangtey Tanösvény", ro: "Traseul Gangtey", en: "Gangtey Nature Trail" },
-    coordinates: { lat: 27.445, lng: 90.175 },
+    coords: [90.175, 27.445],
     description: {
       de: "Diese Wanderroute verläuft durch die Feuchtgebiete und Wälder des Phobjikha-Tals in Zentralbhutan. Sie bietet Einblicke in das Ökosystem der seltenen Schwarzhalskraniche.",
       hu: "Ez a túraútvonal a közép-bhutáni Phobjikha-völgy mocsaras területein és erdőin halad keresztül. Betekintést nyújt a ritka feketenyakú darvak ökoszisztémájába.",
@@ -790,7 +790,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-khuruthang-riverside-park-life-v2",
     type: "park",
     name: { de: "Khuruthang Flusspark", hu: "Khuruthang Folyóparti Park", ro: "Parcul Khuruthang", en: "Khuruthang Riverside Park" },
-    coordinates: { lat: 27.568, lng: 89.872 },
+    coords: [89.872, 27.568],
     description: {
       de: "Der Park erstreckt sich entlang des Ufers des Punatshangchhu-Flusses und bietet Grünflächen für die lokale Bevölkerung. Er ist bekannt für seine blühenden Jacaranda-Bäume im Frühling.",
       hu: "A park a Punatshangchhu-folyó partján terül el, zöldfelületet biztosítva a helyieknek. Tavasszal virágzó zsakarandafáiról ismert.",
@@ -821,7 +821,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-royal-orchid-garden-gelephu-life-v2",
     type: "park",
     name: { de: "Königlicher Orchideengarten Gelephu", hu: "Gelephu Királyi Orchideakert", ro: "Grădina de Orhidee Gelephu", en: "Royal Orchid Garden Gelephu" },
-    coordinates: { lat: 26.935, lng: 90.505 },
+    coords: [90.505, 26.935],
     description: {
       de: "Die Einrichtung widmet sich der Erforschung und dem Schutz der subtropischen Orchideenflora im Süden des Landes. Sie beherbergt zahlreiche seltene epiphytische Pflanzenarten.",
       hu: "Az intézmény az ország déli részének szubtrópusi orchideaflórájának kutatásával és védelmével foglalkozik. Számos ritka epifita növényfajnak ad otthont.",
@@ -852,7 +852,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-chele-la-rhododendron-forest-life-v2",
     type: "forest",
     name: { de: "Rhododendronwald am Chele La", hu: "Chele La Rododendron-erdő", ro: "Pădurea de Rododendroni Chele La", en: "Chele La Rhododendron Forest" },
-    coordinates: { lat: 27.378, lng: 89.341 },
+    coords: [89.341, 27.378],
     description: {
       de: "Die Wälder rund um den höchsten befahrbaren Pass Bhutans sind für ihre dichten Bestände an Wildrhododendren bekannt. Im späten Frühjahr verwandelt sich das Gebiet in ein farbenfrohes Blütenmeer.",
       hu: "Bhután legmagasabb járható hágója körüli erdők sűrű vadrododendron állományaikról ismertek. Késő tavasszal a terület színes virágtengerré változik.",
@@ -883,7 +883,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "bhutan-pele-la-forest-area-life-v2",
     type: "forest",
     name: { de: "Waldgebiet am Pele La", hu: "Pele La Erdei Terület", ro: "Zona Forestieră Pele La", en: "Pele La Forest Area" },
-    coordinates: { lat: 27.511, lng: 90.207 },
+    coords: [90.207, 27.511],
     description: {
       de: "Dieses Hochwaldgebiet ist geprägt von Zwergbambus und dichten Tannenwäldern in der Black-Mountain-Region. Es markiert die ökologische Grenze zwischen dem westlichen und zentralen Bhutan.",
       hu: "Ezt a magashegyi erdős területet törpebambusz és sűrű fenyvesek jellemzik a Fekete-hegység régióban. Ökológiai határt jelöl Nyugat- és Közép-Bhután között.",

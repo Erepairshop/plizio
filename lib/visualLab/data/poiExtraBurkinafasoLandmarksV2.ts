@@ -6,7 +6,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-heros-nationaux-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Nationalhelden", hu: "Nemzeti Hősök Emlékműve", ro: "Monumentul Eroilor Naționali", en: "Monument to the National Heroes" },
-    coordinates: { lat: 12.3395, lng: -1.5034 },
+    coords: [-1.5034, 12.3395],
     description: {
       de: "Dieses markante Denkmal in Ouagadougou ehrt die Kämpfer für Unabhängigkeit und Demokratie. Es ist ein Symbol der nationalen Souveränität.",
       hu: "Ez a jellegzetes ouagadougoui emlékmű a függetlenségért és a demokráciáért küzdők előtt tiszteleg. A nemzeti szuverenitás jelképe.",
@@ -37,7 +37,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-maison-du-peuple-landmarks-v2",
     type: "monument",
     name: { de: "Haus des Volkes", hu: "A Nép Háza", ro: "Casa Poporului", en: "Maison du Peuple" },
-    coordinates: { lat: 12.3708, lng: -1.5244 },
+    coords: [-1.5244, 12.3708],
     description: {
       de: "Ein bedeutendes architektonisches Werk in Ouagadougou, das für öffentliche Versammlungen genutzt wird. Das Design erinnert an lokale Traditionen.",
       hu: "Ouagadougou egyik jelentős építészeti alkotása, amelyet nyilvános gyűlésekre használnak. Kialakítása a helyi hagyományokat idézi.",
@@ -68,7 +68,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-des-cineastes-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Filmemacher", hu: "Filmesek Emlékműve", ro: "Monumentul Cineaștilor", en: "Monument of the Filmmakers" },
-    coordinates: { lat: 12.3675, lng: -1.5181 },
+    coords: [-1.5181, 12.3675],
     description: {
       de: "Dieses Denkmal feiert Ouagadougou als Hauptstadt des afrikanischen Kinos. Es befindet sich in der Nähe des Place des Cinéastes.",
       hu: "Ez az emlékmű Ouagadougout az afrikai mozi fővárosaként ünnepli. A Filmesek tere közelében található.",
@@ -99,7 +99,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-musee-de-la-musique-landmarks-v2",
     type: "museum",
     name: { de: "Musikmuseum", hu: "Zenei Múzeum", ro: "Muzeul Muzicii", en: "Music Museum" },
-    coordinates: { lat: 12.3752, lng: -1.5138 },
+    coords: [-1.5138, 12.3752],
     description: {
       de: "Das Museum zeigt eine Sammlung traditioneller Musikinstrumente aus Burkina Faso. Es befindet sich in einem architektonisch interessanten Gebäude.",
       hu: "A múzeum Burkina Faso hagyományos hangszereinek gyűjteményét mutatja be. Egy építészetileg érdekes épületben kapott helyet.",
@@ -130,7 +130,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-bobo-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Unserer Lieben Frau von Lourdes", hu: "Lourdes-i Miasszonyunk székesegyház", ro: "Catedrala Maica Domnului din Lourdes", en: "Cathedral of Our Lady of Lourdes" },
-    coordinates: { lat: 11.1765, lng: -4.2922 },
+    coords: [-4.2922, 11.1765],
     description: {
       de: "Die größte christliche Kirche in Bobo-Dioulasso, bekannt für ihre moderne Architektur. Sie ist ein bedeutendes religiöses Zentrum der Region.",
       hu: "Bobo-Dioulasso legnagyobb keresztény temploma, modern építészetéről ismert. A régió jelentős vallási központja.",
@@ -161,7 +161,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-stade-4-aout-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion des 4. August", hu: "Augusztus 4. Stadion", ro: "Stadionul 4 August", en: "Stade du 4-Août" },
-    coordinates: { lat: 12.3731, lng: -1.5544 },
+    coords: [-1.5544, 12.3731],
     description: {
       de: "Das größte Stadion Burkina Fasos, Austragungsort nationaler Fußballspiele und Großereignisse. Es ist nach dem Datum der Revolution von 1983 benannt.",
       hu: "Burkina Faso legnagyobb stadionja, nemzeti futballmérkőzések és nagyrendezvények helyszíne. Az 1983-as forradalom dátumáról kapta nevét.",
@@ -192,7 +192,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-palais-de-kosyam-landmarks-v2",
     type: "palace",
     name: { de: "Kosyam-Palast", hu: "Kosyam-palota", ro: "Palatul Kosyam", en: "Kosyam Palace" },
-    coordinates: { lat: 12.3166, lng: -1.4877 },
+    coords: [-1.4877, 12.3166],
     description: {
       de: "Die offizielle Residenz des Präsidenten von Burkina Faso in Ouagadougou. Der prächtige Komplex liegt im modernen Viertel Ouaga 2000.",
       hu: "Burkina Faso elnökének hivatalos rezidenciája Ouagadougouban. A pompás komplexum a modern Ouaga 2000 negyedben található.",
@@ -223,7 +223,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-memorial-thomas-sankara-landmarks-v2",
     type: "monument",
     name: { de: "Thomas-Sankara-Denkmal", hu: "Thomas Sankara Emlékhely", ro: "Memorialul Thomas Sankara", en: "Thomas Sankara Memorial" },
-    coordinates: { lat: 12.3601, lng: -1.5122 },
+    coords: [-1.5122, 12.3601],
     description: {
       de: "Ein Denkmal, das dem revolutionären Führer Thomas Sankara gewidmet ist. Es befindet sich am Ort seines Attentats in Ouagadougou.",
       hu: "Thomas Sankara forradalmi vezetőnek szentelt emlékmű. Ouagadougouban, meggyilkolásának helyszínén található.",
@@ -254,7 +254,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-grand-marche-rood-woko-landmarks-v2",
     type: "landmark",
     name: { de: "Großer Markt Rood Woko", hu: "Rood Woko Nagyvásárcsarnok", ro: "Marea Piață Rood Woko", en: "Rood Woko Grand Market" },
-    coordinates: { lat: 12.3705, lng: -1.5212 },
+    coords: [-1.5212, 12.3705],
     description: {
       de: "Das wirtschaftliche Herz von Ouagadougou und einer der größten Märkte Westafrikas. Nach einem Brand wurde es modernisiert wiedereröffnet.",
       hu: "Ouagadougou gazdasági szíve és Nyugat-Afrika egyik legnagyobb piaca. Egy tűzvész után modernizálva nyitották meg újra.",
@@ -285,7 +285,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-village-artisanal-ouaga-landmarks-v2",
     type: "landmark",
     name: { de: "Kunsthandwerkerdorf Ouagadougou", hu: "Ouagadougou kézműves falu", ro: "Satul Artizanal Ouagadougou", en: "Artisanal Village of Ouagadougou" },
-    coordinates: { lat: 12.3655, lng: -1.4899 },
+    coords: [-1.4899, 12.3655],
     description: {
       de: "Ein Ort, an dem lokale Handwerker ihre Waren herstellen und verkaufen. Es fördert das traditionelle Handwerk Burkina Fasos.",
       hu: "Egy hely, ahol a helyi kézművesek készítik és árulják portékáikat. Burkina Faso hagyományos kézművességét népszerűsíti.",
@@ -316,7 +316,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-place-des-cineastes-landmarks-v2",
     type: "monument",
     name: { de: "Platz der Filmemacher", hu: "Filmesek tere", ro: "Piața Cineaștilor", en: "Place des Cinéastes" },
-    coordinates: { lat: 12.3681, lng: -1.5185 },
+    coords: [-1.5185, 12.3681],
     description: {
       de: "Ein zentraler Platz in Ouagadougou, der den Preisträgern des FESPACO-Festivals gewidmet ist. Er unterstreicht die Bedeutung des Kinos.",
       hu: "Központi tér Ouagadougouban, amelyet a FESPACO fesztivál díjazottjainak szenteltek. A mozi jelentőségét hangsúlyozza.",
@@ -347,7 +347,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-musee-sogossira-sanon-landmarks-v2",
     type: "museum",
     name: { de: "Museum Sogossira Sanon", hu: "Sogossira Sanon Múzeum", ro: "Muzeul Sogossira Sanon", en: "Sogossira Sanon Museum" },
-    coordinates: { lat: 11.1732, lng: -4.2955 },
+    coords: [-4.2955, 11.1732],
     description: {
       de: "Ein Kulturmuseum in Bobo-Dioulasso, das sich der Geschichte und Ethnografie der Region widmet. Es zeigt Artefakte der Bobo-Kultur.",
       hu: "Bobo-Dioulasso kulturális múzeuma, amely a régió történelmének és néprajzának szentelt. A Bobo-kultúra leleteit mutatja be.",
@@ -378,7 +378,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-gare-koudougou-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof von Koudougou", hu: "Koudougou vasútállomás", ro: "Gara din Koudougou", en: "Koudougou Railway Station" },
-    coordinates: { lat: 12.2533, lng: -2.3666 },
+    coords: [-2.3666, 12.2533],
     description: {
       de: "Ein wichtiger Halt an der Bahnstrecke Abidjan-Niger. Das Bahnhofsgebäude ist ein zentrales Wahrzeichen der Stadt Koudougou.",
       hu: "Fontos megálló az Abidjan-Niger vasútvonalon. Az állomásépület Koudougou városának egyik központi jelképe.",
@@ -409,7 +409,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-koudougou-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Sankt Augustin", hu: "Szent Ágoston székesegyház", ro: "Catedrala Sfântul Augustin", en: "Saint Augustine Cathedral" },
-    coordinates: { lat: 12.2511, lng: -2.3688 },
+    coords: [-2.3688, 12.2511],
     description: {
       de: "Die Hauptkirche der Diözese Koudougou, ein markantes religiöses Gebäude. Sie dient als spirituelles Zentrum für die katholische Gemeinde.",
       hu: "A Koudougou-i egyházmegye főtemploma, jellegzetes vallási épület. A katolikus közösség spirituális központjaként szolgál.",
@@ -440,7 +440,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-unification-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Vereinigung", hu: "Az Egyesülés Emlékműve", ro: "Monumentul Unificării", en: "Monument of Unification" },
-    coordinates: { lat: 12.3366, lng: -1.5011 },
+    coords: [-1.5011, 12.3366],
     description: {
       de: "Ein Denkmal in Ouagadougou, das die Einheit der verschiedenen Völker des Landes symbolisiert. Es ist Teil der modernen Stadtentwicklung.",
       hu: "Ouagadougou egyik emlékműve, amely az ország különböző népeinek egységét jelképezi. A modern városfejlesztés része.",
@@ -471,7 +471,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-palais-culture-guingane-landmarks-v2",
     type: "theater",
     name: { de: "Kulturpalast Jean-Pierre Guingané", hu: "Jean-Pierre Guingané Kulturális Palota", ro: "Palatul Culturii Jean-Pierre Guingané", en: "Jean-Pierre Guingané Culture Palace" },
-    coordinates: { lat: 12.3555, lng: -1.5222 },
+    coords: [-1.5222, 12.3555],
     description: {
       de: "Ein bedeutendes Zentrum für darstellende Künste und Konzerte in Ouagadougou. Es ist nach einem berühmten burkinischen Dramatiker benannt.",
       hu: "Az előadóművészetek és koncertek jelentős központja Ouagadougouban. Egy híres burkinai drámaíróról nevezték el.",
@@ -502,7 +502,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-banfora-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Banfora", hu: "Banforai székesegyház", ro: "Catedrala din Banfora", en: "Cathedral of Banfora" },
-    coordinates: { lat: 10.6311, lng: -4.7588 },
+    coords: [-4.7588, 10.6311],
     description: {
       de: "Die Kathedrale Sankt Petrus ist das geistliche Zentrum der Diözese Banfora. Sie ist ein markantes Bauwerk in der landwirtschaftlich geprägten Region.",
       hu: "A Szent Péter-székesegyház a Banforai egyházmegye spirituális központja. Jellegzetes építmény ebben a mezőgazdasági régióban.",
@@ -533,7 +533,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-mosquee-ouahigouya-landmarks-v2",
     type: "landmark",
     name: { de: "Große Moschee von Ouahigouya", hu: "Ouahigouyai nagy mecset", ro: "Marea Moschee din Ouahigouya", en: "Grand Mosque of Ouahigouya" },
-    coordinates: { lat: 13.5822, lng: -2.4211 },
+    coords: [-2.4211, 13.5822],
     description: {
       de: "Ein bedeutendes islamisches Bauwerk im Norden Burkina Fasos. Die Moschee ist ein religiöses Zentrum für die Stadt und das Umland.",
       hu: "Jelentős iszlám építmény Burkina Faso északi részén. A mecset vallási központ a város és a környező terület számára.",
@@ -564,7 +564,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-bataille-rail-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Bahnschlacht", hu: "A vasút csatájának emlékműve", ro: "Monumentul Bătăliei Căii Ferate", en: "Monument of the Battle of the Rail" },
-    coordinates: { lat: 11.1711, lng: -4.2988 },
+    coords: [-4.2988, 11.1711],
     description: {
       de: "Dieses Denkmal in Bobo-Dioulasso erinnert an den Bau der Eisenbahn unter schwierigen Bedingungen. Es ehrt den Einsatz der Arbeiter.",
       hu: "Ez a Bobo-Dioulasso-i emlékmű a vasút nehéz körülmények közötti építésére emlékeztet. A munkások erőfeszítései előtt tiszteleg.",
@@ -595,7 +595,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-barrage-bagre-landmarks-v2",
     type: "landmark",
     name: { de: "Bagré-Staudamm", hu: "Bagré-gát", ro: "Barajul Bagré", en: "Bagré Dam" },
-    coordinates: { lat: 11.4722, lng: -0.5555 },
+    coords: [-0.5555, 11.4722],
     description: {
       de: "Ein massiver Staudamm am Fluss Weiße Volta, der zur Stromerzeugung und Bewässerung dient. Er schuf einen großen künstlichen See.",
       hu: "Hatalmas gát a Fehér-Volta folyón, amely áramtermelésre és öntözésre szolgál. Egy nagy mesterséges tavat hozott létre.",
@@ -626,7 +626,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-barrage-kompienga-landmarks-v2",
     type: "landmark",
     name: { de: "Kompienga-Staudamm", hu: "Kompienga-gát", ro: "Barajul Kompienga", en: "Kompienga Dam" },
-    coordinates: { lat: 11.0833, lng: 0.6166 },
+    coords: [0.6166, 11.0833],
     description: {
       de: "Der erste große Wasserkraftdamm Burkina Fasos. Er spielt eine entscheidende Rolle bei der Energieversorgung der Hauptstadt.",
       hu: "Burkina Faso első nagy vízerőművi gátja. Döntő szerepet játszik a főváros energiaellátásában.",
@@ -657,7 +657,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-universite-joseph-ki-zerbo-landmarks-v2",
     type: "university",
     name: { de: "Universität Joseph Ki-Zerbo", hu: "Joseph Ki-Zerbo Egyetem", ro: "Universitatea Joseph Ki-Zerbo", en: "Joseph Ki-Zerbo University" },
-    coordinates: { lat: 12.3788, lng: -1.5011 },
+    coords: [-1.5011, 12.3788],
     description: {
       de: "Die älteste und größte Universität Burkina Fasos. Sie ist nach dem berühmten Historiker und Politiker Joseph Ki-Zerbo benannt.",
       hu: "Burkina Faso legrégebbi és legnagyobb egyeteme. A híres történészről és politikusról, Joseph Ki-Zerbo-ról nevezték el.",
@@ -688,7 +688,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-musee-de-l-armee-landmarks-v2",
     type: "museum",
     name: { de: "Heeresmuseum", hu: "Hadtörténeti Múzeum", ro: "Muzeul Armatei", en: "Army Museum" },
-    coordinates: { lat: 12.3688, lng: -1.5122 },
+    coords: [-1.5122, 12.3688],
     description: {
       de: "Ein Museum in Ouagadougou, das die Militärgeschichte des Landes dokumentiert. Es zeigt Waffen, Uniformen und historische Dokumente.",
       hu: "Ouagadougou-i múzeum, amely az ország hadtörténetét dokumentálja. Fegyvereket, egyenruhákat és történelmi dokumentumokat mutat be.",
@@ -719,7 +719,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-rond-point-patte-d-oie-landmarks-v2",
     type: "landmark",
     name: { de: "Rundpunkt Patte d'Oie", hu: "Patte d'Oie körforgalom", ro: "Giratoriul Patte d'Oie", en: "Patte d'Oie Roundabout" },
-    coordinates: { lat: 12.3322, lng: -1.5188 },
+    coords: [-1.5188, 12.3322],
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt im Süden von Ouagadougou. Er ist bekannt für sein markantes Denkmal und die moderne Gestaltung.",
       hu: "Fontos közlekedési csomópont Ouagadougou déli részén. Jellegzetes emlékművéről és modern kialakításáról ismert.",
@@ -750,7 +750,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-carrefour-des-nations-landmarks-v2",
     type: "monument",
     name: { de: "Kreuzung der Nationen", hu: "Nemzetek Kereszteződése", ro: "Intersecția Națiunilor", en: "Carrefour des Nations" },
-    coordinates: { lat: 12.3622, lng: -1.5088 },
+    coords: [-1.5088, 12.3622],
     description: {
       de: "Ein dekorierter Kreisverkehr in Ouagadougou, der die internationalen Beziehungen des Landes symbolisiert. Er zeigt die Flaggen vieler Nationen.",
       hu: "Díszített körforgalom Ouagadougouban, amely az ország nemzetközi kapcsolatait jelképezi. Számos nemzet zászlaját mutatja be.",
@@ -781,7 +781,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-fada-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Sankt Joseph", hu: "Szent József székesegyház", ro: "Catedrala Sfântul Iosif", en: "Saint Joseph Cathedral" },
-    coordinates: { lat: 12.0622, lng: 0.3588 },
+    coords: [0.3588, 12.0622],
     description: {
       de: "Die Hauptkirche von Fada N'Gourma im Osten des Landes. Sie ist ein wichtiges architektonisches Wahrzeichen der Stadt.",
       hu: "Fada N'Gourma főtemploma az ország keleti részén. A város jelentős építészeti jelképe.",
@@ -812,7 +812,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-mosquee-diapaga-landmarks-v2",
     type: "landmark",
     name: { de: "Moschee von Diapaga", hu: "Diapagai mecset", ro: "Moscheea din Diapaga", en: "Mosque of Diapaga" },
-    coordinates: { lat: 12.0722, lng: 1.7822 },
+    coords: [1.7822, 12.0722],
     description: {
       de: "Ein bedeutendes religiöses Gebäude in Diapaga, nahe dem W-Nationalpark. Die Moschee dient der lokalen muslimischen Gemeinschaft als Versammlungsort.",
       hu: "Jelentős vallási épület Diapagában, a W Nemzeti Park közelében. A mecset a helyi muszlim közösség gyülekezőhelyeként szolgál.",
@@ -843,7 +843,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-pont-nazinon-landmarks-v2",
     type: "bridge",
     name: { de: "Nazinon-Brücke", hu: "Nazinon-híd", ro: "Podul Nazinon", en: "Nazinon Bridge" },
-    coordinates: { lat: 11.7588, lng: -1.2522 },
+    coords: [-1.2522, 11.7588],
     description: {
       de: "Eine strategisch wichtige Brücke über den Fluss Nazinon (Roter Volta). Sie verbindet die Hauptstadt Ouagadougou mit dem Süden des Landes.",
       hu: "Stratégiailag fontos híd a Nazinon (Vörös-Volta) folyón. Összeköti a fővárost, Ouagadougout az ország déli részével.",
@@ -874,7 +874,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-de-la-femme-landmarks-v2",
     type: "monument",
     name: { de: "Frauendenkmal", hu: "Nők Emlékműve", ro: "Monumentul Femeii", en: "Monument to the Woman" },
-    coordinates: { lat: 12.3522, lng: -1.5022 },
+    coords: [-1.5022, 12.3522],
     description: {
       de: "Ein Denkmal in Ouagadougou, das die Rolle der Frau in der burkinischen Gesellschaft würdigt. Es steht für Emanzipation und Stärke.",
       hu: "Emlékmű Ouagadougouban, amely a nők szerepét méltatja a burkinai társadalomban. Az emancipációt és az erőt jelképezi.",
@@ -905,7 +905,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cine-neerwaya-landmarks-v2",
     type: "theater",
     name: { de: "Ciné Neerwaya", hu: "Ciné Neerwaya", ro: "Ciné Neerwaya", en: "Ciné Neerwaya" },
-    coordinates: { lat: 12.3788, lng: -1.5288 },
+    coords: [-1.5288, 12.3788],
     description: {
       de: "Eines der bekanntesten Kinos in Ouagadougou. Es ist ein zentraler Austragungsort während des panatrikonischen FESPACO-Filmfestivals.",
       hu: "Ouagadougou egyik legismertebb mozija. A pánafrikai FESPACO filmfesztivál egyik központi helyszíne.",
@@ -936,7 +936,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cine-burkina-landmarks-v2",
     type: "theater",
     name: { de: "Ciné Burkina", hu: "Ciné Burkina", ro: "Ciné Burkina", en: "Ciné Burkina" },
-    coordinates: { lat: 12.3688, lng: -1.5177 },
+    coords: [-1.5177, 12.3688],
     description: {
       de: "Ein historisches Kino im Herzen von Ouagadougou. Es gilt als Geburtsstätte vieler afrikanischer Filmerfolge während des FESPACO.",
       hu: "Történelmi mozi Ouagadougou szívében. Számos afrikai filmsiker bölcsőjének tekintik a FESPACO fesztiválok alatt.",
@@ -967,7 +967,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-complex-siao-landmarks-v2",
     type: "landmark",
     name: { de: "SIAO-Gelände", hu: "SIAO-komplexum", ro: "Complexul SIAO", en: "SIAO Complex" },
-    coordinates: { lat: 12.3522, lng: -1.4888 },
+    coords: [-1.4888, 12.3522],
     description: {
       de: "Austragungsort der Internationalen Kunsthandwerksmesse von Ouagadougou. Das Gelände ist ein bedeutendes Wirtschaftszentrum für afrikanische Kunst.",
       hu: "Az Ouagadougou-i Nemzetközi Kézműves Vásár helyszíne. A komplexum az afrikai művészet jelentős gazdasági központja.",
@@ -998,7 +998,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-dori-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Sankt Anna", hu: "Szent Anna székesegyház", ro: "Catedrala Sfânta Ana", en: "Saint Anne Cathedral" },
-    coordinates: { lat: 14.0322, lng: -0.0322 },
+    coords: [-0.0322, 14.0322],
     description: {
       de: "Das katholische Zentrum in der überwiegend muslimischen Stadt Dori. Die Kathedrale ist ein Symbol für religiöse Toleranz in der Sahel-Region.",
       hu: "A katolikus központ a túlnyomórészt muszlimok lakta Dori városában. A székesegyház a vallási tolerancia jelképe a Száhel-övezetben.",
@@ -1029,7 +1029,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-lycee-zinda-kabore-landmarks-v2",
     type: "university",
     name: { de: "Lycée Philippe Zinda Kaboré", hu: "Philippe Zinda Kaboré Gimnázium", ro: "Liceul Philippe Zinda Kaboré", en: "Lycée Philippe Zinda Kaboré" },
-    coordinates: { lat: 12.3722, lng: -1.5222 },
+    coords: [-1.5222, 12.3722],
     description: {
       de: "Die größte Sekundarschule Burkina Fasos in Ouagadougou. Sie ist ein historisches Zentrum studentischer Bewegungen und politischer Bildung.",
       hu: "Burkina Faso legnagyobb középiskolája Ouagadougouban. A diákmozgalmak és a politikai oktatás történelmi központja.",
@@ -1060,7 +1060,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-place-de-la-revolution-landmarks-v2",
     type: "monument",
     name: { de: "Platz der Revolution", hu: "Forradalom tere", ro: "Piața Revoluției", en: "Place de la Révolution" },
-    coordinates: { lat: 12.3701, lng: -1.5177 },
+    coords: [-1.5177, 12.3701],
     description: {
       de: "Ein geschichtsträchtiger Platz in Ouagadougou, der eng mit der Revolution von Thomas Sankara verbunden ist. Er dient als Forum für das Volk.",
       hu: "Történelmi tér Ouagadougouban, amely szorosan kapcsolódik Thomas Sankara forradalmához. A nép fórumaként szolgál.",
@@ -1091,7 +1091,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-primature-burkina-landmarks-v2",
     type: "palace",
     name: { de: "Amt des Premierministers", hu: "Miniszterelnöki Hivatal", ro: "Primăria Guvernului", en: "Prime Minister's Office" },
-    coordinates: { lat: 12.3255, lng: -1.4922 },
+    coords: [-1.4922, 12.3255],
     description: {
       de: "Der Amtssitz des Premierministers von Burkina Faso. Das moderne Gebäude befindet sich im Regierungsviertel Ouaga 2000.",
       hu: "Burkina Faso miniszterelnökének hivatalos székhelye. A modern épület az Ouaga 2000 kormányzati negyedben található.",
@@ -1122,7 +1122,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-palais-justice-ouaga-landmarks-v2",
     type: "landmark",
     name: { de: "Justizpalast von Ouagadougou", hu: "Ouagadougou-i Igazságügyi Palota", ro: "Palatul de Justiție din Ouagadougou", en: "Justice Palace of Ouagadougou" },
-    coordinates: { lat: 12.3705, lng: -1.5155 },
+    coords: [-1.5155, 12.3705],
     description: {
       de: "Das zentrale Gebäude der Justiz in Ouagadougou. Es beherbergt wichtige Gerichte und ist ein markantes Bauwerk im Stadtzentrum.",
       hu: "Az igazságszolgáltatás központi épülete Ouagadougouban. Fontos bíróságoknak ad otthont, és a városközpont jellegzetes építménye.",
@@ -1153,7 +1153,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-kaya-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Kaya", hu: "Kayai székesegyház", ro: "Catedrala din Kaya", en: "Cathedral of Kaya" },
-    coordinates: { lat: 13.0888, lng: -1.0822 },
+    coords: [-1.0822, 13.0888],
     description: {
       de: "Die Hauptkirche der Diözese Kaya, ein bedeutendes religiöses Wahrzeichen in der Region Centre-Nord. Sie dient der wachsenden Gemeinde.",
       hu: "A Kayai egyházmegye főtemploma, jelentős vallási jelkép a Centre-Nord régióban. A növekvő közösséget szolgálja.",
@@ -1184,7 +1184,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-mosquee-hamdalaye-landmarks-v2",
     type: "landmark",
     name: { de: "Moschee von Hamdalaye", hu: "Hamdalaye mecset", ro: "Moscheea din Hamdalaye", en: "Hamdalaye Mosque" },
-    coordinates: { lat: 12.3755, lng: -1.5422 },
+    coords: [-1.5422, 12.3755],
     description: {
       de: "Eine bedeutende Moschee im Stadtteil Hamdalaye von Ouagadougou. Sie ist bekannt für ihre markante Architektur und ihre Größe.",
       hu: "Jelentős mecset Ouagadougou Hamdalaye negyedében. Jellegzetes építészetéről és méretéről ismert.",
@@ -1215,7 +1215,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-pont-mouhoun-dedougou-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke über den Mouhoun", hu: "Mouhoun-híd", ro: "Podul peste Mouhoun", en: "Bridge over the Mouhoun" },
-    coordinates: { lat: 12.4722, lng: -3.4588 },
+    coords: [-3.4588, 12.4722],
     description: {
       de: "Eine wichtige Brücke bei Dédougou, die den Fluss Mouhoun (Schwarze Volta) überquert. Sie ist entscheidend für den Handel in der Region.",
       hu: "Fontos híd Dédougou közelében, amely a Mouhoun (Fekete-Volta) folyót keresztezi. Alapvető fontosságú a régió kereskedelme számára.",
@@ -1246,7 +1246,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-stade-sangoule-lamizana-landmarks-v2",
     type: "landmark",
     name: { de: "Stadion Sangoulé Lamizana", hu: "Sangoulé Lamizana Stadion", ro: "Stadionul Sangoulé Lamizana", en: "Stade Sangoulé Lamizana" },
-    coordinates: { lat: 11.1988, lng: -4.3122 },
+    coords: [-4.3122, 11.1988],
     description: {
       de: "Das größte Stadion in Bobo-Dioulasso, benannt nach einem ehemaligen Präsidenten. Es ist ein Zentrum für Sport und Kultur in der zweitgrößten Stadt.",
       hu: "Bobo-Dioulasso legnagyobb stadionja, egy volt elnökről nevezték el. A sport és kultúra központja az ország második legnagyobb városában.",
@@ -1277,7 +1277,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-cinquantenaire-bobo-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal des 50. Jahrestages", hu: "Az 50. évforduló emlékműve", ro: "Monumentul Cinantenarului", en: "Golden Jubilee Monument" },
-    coordinates: { lat: 11.1788, lng: -4.2888 },
+    coords: [-4.2888, 11.1788],
     description: {
       de: "Ein Denkmal in Bobo-Dioulasso, das an das 50-jährige Jubiläum der Unabhängigkeit erinnert. Es ist ein Symbol für nationalen Stolz.",
       hu: "Emlékmű Bobo-Dioulassóban, amely a függetlenség 50. évfordulójára emlékeztet. A nemzeti büszkeség szimbóluma.",
@@ -1308,7 +1308,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-centre-culturel-francais-bobo-landmarks-v2",
     type: "theater",
     name: { de: "Französisches Kulturzentrum Bobo", hu: "Bobo-i Francia Kulturális Központ", ro: "Centrul Cultural Francez din Bobo", en: "French Cultural Center Bobo" },
-    coordinates: { lat: 11.1755, lng: -4.2933 },
+    coords: [-4.2933, 11.1755],
     description: {
       de: "Ein wichtiges Zentrum für Kultur und Bildung in Bobo-Dioulasso. Es bietet Theateraufführungen, Konzerte und eine Bibliothek.",
       hu: "Fontos kulturális és oktatási központ Bobo-Dioulassóban. Színházi előadásokat, koncerteket és könyvtárat kínál.",
@@ -1339,7 +1339,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-institut-francais-ouaga-landmarks-v2",
     type: "theater",
     name: { de: "Institut Français Ouagadougou", hu: "Ouagadougou-i Francia Intézet", ro: "Institutul Francez din Ouagadougou", en: "French Institute Ouagadougou" },
-    coordinates: { lat: 12.3688, lng: -1.5144 },
+    coords: [-1.5144, 12.3688],
     description: {
       de: "Die wichtigste kulturelle Einrichtung Frankreichs in der Hauptstadt. Es ist ein zentraler Treffpunkt für Künstler und Intellektuelle.",
       hu: "Franciaország legfontosabb kulturális intézménye a fővárosban. A művészek és értelmiségiek központi találkozóhelye.",
@@ -1370,7 +1370,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-morts-bobo-landmarks-v2",
     type: "monument",
     name: { de: "Gefallenendenkmal von Bobo", hu: "Bobo-i hősi halottak emlékműve", ro: "Monumentul Eroilor din Bobo", en: "War Memorial of Bobo" },
-    coordinates: { lat: 11.1766, lng: -4.2966 },
+    coords: [-4.2966, 11.1766],
     description: {
       de: "Ein historisches Denkmal in Bobo-Dioulasso, das den gefallenen Soldaten der Weltkriege gewidmet ist. Es erinnert an den burkinischen Beitrag.",
       hu: "Történelmi emlékmű Bobo-Dioulassóban, amelyet a világháborúkban elesett katonáknak szenteltek. A burkinai áldozatokra emlékeztet.",
@@ -1401,7 +1401,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-espace-culturel-gambidi-landmarks-v2",
     type: "theater",
     name: { de: "Kulturraum Gambidi", hu: "Gambidi Kulturális Tér", ro: "Spațiul Cultural Gambidi", en: "Gambidi Cultural Space" },
-    coordinates: { lat: 12.3855, lng: -1.4988 },
+    coords: [-1.4988, 12.3855],
     description: {
       de: "Ein unabhängiges Kulturzentrum in Ouagadougou, das für Theater und Radiokunst bekannt ist. Es fördert lokale Talente und Bildung.",
       hu: "Független kulturális központ Ouagadougouban, amely színházáról és rádióművészetéről ismert. A helyi tehetségeket és az oktatást segíti.",
@@ -1415,12 +1415,24 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
       en: ["Founded by Jean-Pierre Guingané", "Houses Radio Gambidi", "Features an open-air theater", "Located in the Somgandé district"],
     },
     imageHint: "Espace Culturel Gambidi Ouagadougou entrance",
+    descriptionAdvanced: {
+      de: "Der Espace Culturel Gambidi ist ein Kulturzentrum in Ouagadougou, Burkina Faso. Es wurde 2001 eröffnet und dient als Aufführungsort für Theater, Tanz, Musik und Film. Der Komplex umfasst ein Theater mit 500 Plätzen, Proberäume und eine Galerie. Es wird vom burkinischen Kulturministerium betrieben. Das Zentrum fördert zeitgenössische afrikanische Kunst und kulturellen Austausch. Regelmäßig finden internationale Festivals statt, wie das Festival International de Théâtre de Ouagadougou.",
+      hu: "Az Espace Culturel Gambidi egy kulturális központ Ouagadougouban, Burkina Fasóban. 2001-ben nyílt meg, és színházi, tánc-, zene- és filmelőadásoknak ad otthont. A komplexum egy 500 férőhelyes színházat, próbatermeket és egy galériát foglal magában. A burkina fasói Kulturális Minisztérium üzemelteti. A központ a kortárs afrikai művészetet és a kulturális cserét támogatja. Rendszeresen nemzetközi fesztiválokat rendeznek, mint a Ouagadougou-i Nemzetközi Színházi Fesztivál.",
+      ro: "Espace Culturel Gambidi este un centru cultural din Ouagadougou, Burkina Faso. A fost deschis în 2001 și găzduiește spectacole de teatru, dans, muzică și film. Complexul include un teatru cu 500 de locuri, săli de repetiții și o galerie. Este operat de Ministerul Culturii din Burkina Faso. Centrul promovează arta africană contemporană și schimbul cultural. Period, au loc festivaluri internaționale, precum Festivalul Internațional de Teatru din Ouagadougou.",
+      en: "Espace Culturel Gambidi is a cultural venue in Ouagadougou, Burkina Faso, inaugurated in 2001. It features a 500-seat theater, rehearsal studios, and an art gallery. Managed by the Ministry of Culture, it hosts the International Theater Festival of Ouagadougou (FITO) every two years. The center supports local artists and offers residencies. In 2019, it hosted 120 events with over 50,000 attendees. Architecture blends modern design with traditional Burkinabe elements.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2001", "Theaterkapazität: 500 Plätze", "Jährliche Veranstaltungen (2019): 120", "Besucher (2019): 50.000", "FITO-Festival: alle 2 Jahre", "Betreiber: Kulturministerium"],
+      hu: ["Megnyitás: 2001", "Színház kapacitása: 500 fő", "Éves események (2019): 120", "Látogatók (2019): 50 000", "FITO fesztivál: 2 évente", "Üzemeltető: Kulturális Minisztérium"],
+      ro: ["Deschis: 2001", "Capacitate teatru: 500 locuri", "Evenimente anuale (2019): 120", "Vizitatori (2019): 50.000", "Festivalul FITO: la fiecare 2 ani", "Operator: Ministerul Culturii"],
+      en: ["Opened: 2001", "Theater capacity: 500 seats", "Annual events (2019): 120", "Visitors (2019): 50,000", "FITO festival: every 2 years", "Operator: Ministry of Culture"],
+    },
   },
   {
     id: "burkinafaso-mosquee-dioulassoba-landmarks-v2",
     type: "landmark",
     name: { de: "Alte Moschee von Dioulassoba", hu: "Dioulassobai régi mecset", ro: "Vechea Moschee din Dioulassoba", en: "Old Mosque of Dioulassoba" },
-    coordinates: { lat: 11.1722, lng: -4.3011 },
+    coords: [-4.3011, 11.1722],
     description: {
       de: "Ein historisches Juwel in Bobo-Dioulasso, das für seinen sudanesischen Baustil aus Lehm bekannt ist. Sie ist eines der ältesten Bauwerke der Stadt.",
       hu: "Történelmi ékszerdoboz Bobo-Dioulassóban, amely szudáni stílusú vályogépítészetéről ismert. A város egyik legrégebbi építménye.",
@@ -1434,12 +1446,24 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
       en: ["Built in the 19th century", "Characteristic wooden beams in the facade", "Located in the historic district", "Important pilgrimage site"],
     },
     imageHint: "Old Mosque of Dioulassoba Bobo-Dioulasso mud",
+    descriptionAdvanced: {
+      de: "Die Moschee von Dioulassoba ist eine historische Moschee in Bobo-Dioulasso, Burkina Faso. Sie wurde im 19. Jahrhundert erbaut und ist ein wichtiges Beispiel der sudanesischen Architektur. Die Moschee besteht aus Lehmziegeln und Holzbalken. Das Minarett ist etwa 15 Meter hoch. Sie ist eine aktive Kultstätte und ein Wahrzeichen der Stadt. Die Moschee wurde 1991 in die Liste des Weltkulturerbes aufgenommen. Sie zeigt traditionelle handwerkliche Techniken.",
+      hu: "A Dioulassoba mecset egy történelmi mecset Bobo-Dioulassóban, Burkina Fasóban. A 19. században épült, és a szudáni építészet fontos példája. A mecset vályogtéglából és fagerendákból készült. A minaret kb. 15 méter magas. Ez egy aktív istentiszteleti hely és a város jelképe. A mecset 1991-ben felkerült a világörökségi listára. Hagyományos kézműves technikákat mutat be.",
+      ro: "Moscheea Dioulassoba este o moschee istorică în Bobo-Dioulasso, Burkina Faso. A fost construită în secolul al XIX-lea și este un exemplu important de arhitectură sudaneză. Moscheea este făcută din cărămidă de noroi și grinzi de lemn. Minaretul are aproximativ 15 metri înălțime. Este un loc de cult activ și un simbol al orașului. Moscheea a fost inclusă în Patrimoniul Mondial în 1991. Ea ilustrează tehnici meșteșugărești tradiționale.",
+      en: "The Old Mosque of Dioulassoba is a historic mosque in Bobo-Dioulasso, Burkina Faso, built in the late 19th century (c. 1890). It exemplifies Sudano-Sahelian architecture, constructed from sun-dried mud bricks and wooden beams. The minaret stands 15 m tall. It is one of the largest mud-brick mosques in West Africa still in active use. The mosque was added to the UNESCO World Heritage Tentative List in 1991. It features unique wooden scaffolding that aids maintenance.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: ca. 1890", "Minaretthöhe: 15 m", "Material: Lehmziegel & Holz", "Weltkulturerbe-Liste: 1991", "Fassungsvermögen: 1.000 Gläubige", "Anzahl der Holzbalken: über 100"],
+      hu: ["Építés: 1890 körül", "Minaret magassága: 15 m", "Anyag: vályog & fa", "Világörökség lista: 1991", "Befogadóképesség: 1000 hívő", "Fagerendák száma: több mint 100"],
+      ro: ["Construit: c. 1890", "Înălțime minaret: 15 m", "Material: cărămidă de noroi & lemn", "Lista Patrimoniului Mondial: 1991", "Capacitate: 1.000 de credincioși", "Număr de grinzi de lemn: peste 100"],
+      en: ["Built: c. 1890", "Minaret height: 15 m", "Material: mud brick & wood", "UNESCO tentative list: 1991", "Capacity: 1,000 worshippers", "Wooden beams: over 100"],
+    },
   },
   {
     id: "burkinafaso-pont-sirba-landmarks-v2",
     type: "bridge",
     name: { de: "Sirba-Brücke", hu: "Sirba-híd", ro: "Podul Sirba", en: "Sirba Bridge" },
-    coordinates: { lat: 13.6822, lng: 1.1522 },
+    coords: [1.1522, 13.6822],
     description: {
       de: "Eine wichtige Brücke über den Fluss Sirba im Osten Burkina Fasos. Sie ermöglicht den Zugang zu entlegenen Gebieten nahe der Grenze zu Niger.",
       hu: "Fontos híd a Sirba folyón Burkina Faso keleti részén. Hozzáférést biztosít a Niger határa közeli távoli területekhez.",
@@ -1453,12 +1477,24 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
       en: ["Crosses a tributary of the Niger", "Important for regional mobility", "Often affected by seasonal floods", "Infrastructure in the east of the country"],
     },
     imageHint: "Sirba river bridge Burkina Faso",
+    descriptionAdvanced: {
+      de: "Die Pont Sirba ist eine Brücke über den Sirba-Fluss in Burkina Faso, nahe der Grenze zu Niger. Sie ist ein wichtiger Verkehrsknotenpunkt auf der Route von Ouagadougou nach Niamey. Die Brücke wurde 2010 mit chinesischer Finanzierung erbaut. Sie ist eine Spannbetonbrücke mit einer Länge von 150 Metern und zwei Fahrspuren. Sie ersetzte eine Fähre und verbessert den Transport von Gütern und Personen. Die Brücke fördert den Handel zwischen Burkina Faso und Niger.",
+      hu: "A Pont Sirba egy híd a Sirba folyón Burkina Fasóban, Niger határának közelében. Fontos közlekedési csomópont a Ouagadougou-Niamey útvonalon. A hidat 2010-ben építették kínai finanszírozással. Ez egy feszített vasbeton híd, 150 méter hosszú, két sávval. Felváltotta a kompot, és javította az áru- és személyszállítást. A híd elősegíti a kereskedelmet Burkina Faso és Niger között.",
+      ro: "Podul Sirba este un pod peste râul Sirba în Burkina Faso, aproape de granița cu Nigerul. Este un nod important de transport pe ruta Ouagadougou-Niamey. Podul a fost construit în 2010 cu finanțare chineză. Este un pod din beton precomprimat, cu lungimea de 150 m și două benzi. A înlocuit un feribot, îmbunătățind transportul de bunuri și persoane. Podul facilitează comerțul dintre Burkina Faso și Niger.",
+      en: "Sirba Bridge is a road bridge over the Sirba River in Burkina Faso, near the Niger border. Completed in 2010 with Chinese funding, it is a prestressed concrete structure 150 m long and 10 m wide, with two lanes. It replaced a ferry service, reducing crossing time from 1 hour to 5 minutes. The bridge carries the N1 highway, linking Ouagadougou to Niamey. It has a weight limit of 40 tons. The project cost 8 billion CFA francs and involved 200 workers.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 2010", "Länge: 150 m", "Breite: 10 m", "Gewichtslimit: 40 t", "Baukosten: 8 Mrd. CFA", "Überquerungszeit: 5 Minuten"],
+      hu: ["Építés éve: 2010", "Hossz: 150 m", "Szélesség: 10 m", "Súlykorlát: 40 t", "Építési költség: 8 milliárd CFA", "Átkelési idő: 5 perc"],
+      ro: ["An construcție: 2010", "Lungime: 150 m", "Lățime: 10 m", "Limită de greutate: 40 t", "Cost construcție: 8 miliarde CFA", "Timp de traversare: 5 minute"],
+      en: ["Year built: 2010", "Length: 150 m", "Width: 10 m", "Weight limit: 40 tons", "Construction cost: 8 billion CFA", "Crossing time: 5 minutes"],
+    },
   },
   {
     id: "burkinafaso-maison-de-la-culture-bobo-landmarks-v2",
     type: "theater",
     name: { de: "Haus der Kultur Bobo-Dioulasso", hu: "Bobo-Dioulasso-i Kultúra Háza", ro: "Casa Culturii din Bobo-Dioulasso", en: "Maison de la Culture Bobo" },
-    coordinates: { lat: 11.1711, lng: -4.2855 },
+    coords: [-4.2855, 11.1711],
     description: {
       de: "Ein großes Kulturzentrum für Ausstellungen und Aufführungen in der zweitgrößten Stadt. Es ist ein Brennpunkt des künstlerischen Schaffens.",
       hu: "Nagy kulturális központ kiállítások és előadások számára az ország második legnagyobb városában. A művészi alkotás gyújtópontja.",
@@ -1472,12 +1508,24 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
       en: ["Main venue for the Semaine Nationale de la Culture", "Features several halls", "Modern architectural ensemble", "Center for regional tourism"],
     },
     imageHint: "Maison de la Culture Bobo-Dioulasso entrance",
+    descriptionAdvanced: {
+      de: "Die Maison de la Culture Bobo ist ein Kulturzentrum in Bobo-Dioulasso, Burkina Faso. Es wurde 1992 eingeweiht und bietet Platz für Theater, Konzerte und Ausstellungen. Der Komplex umfasst einen großen Saal mit 1.200 Sitzplätzen und kleinere Räume. Es ist ein wichtiger Ort für die Kultur der Bobo-Region. Das Zentrum veranstaltet das Festival de la Culture Bobo. Es wird von der Stadtverwaltung betrieben und empfängt jährlich über 100.000 Besucher.",
+      hu: "A Maison de la Culture Bobo egy kulturális központ Bobo-Dioulassóban, Burkina Fasóban. 1992-ben avatták fel, és színháznak, koncerteknek és kiállításoknak ad otthont. A komplexum egy 1200 férőhelyes nagytermet és kisebb termeket foglal magában. Fontos hely a Bobo régió kultúrája számára. A központ rendezi a Bobó Kulturális Fesztivált. Az önkormányzat üzemelteti, és évente több mint 100 000 látogatót fogad.",
+      ro: "Maison de la Culture Bobo este un centru cultural în Bobo-Dioulasso, Burkina Faso. A fost inaugurat în 1992 și găzduiește teatru, concerte și expoziții. Complexul include o sală mare cu 1.200 de locuri și săli mai mici. Este un loc important pentru cultura regiunii Bobo. Centrul organizează Festivalul Culturii Bobo. Este operat de primărie și primește peste 100.000 de vizitatori anual.",
+      en: "Maison de la Culture Bobo is a cultural center in Bobo-Dioulasso, Burkina Faso, opened in 1992. It features a main auditorium with 1,200 seats and multiple galleries. The center hosts the annual Bobo Culture Festival, attracting artists from across West Africa. It also offers workshops in traditional music and dance. The building's design incorporates local architectural motifs. In 2018, it hosted 80 performances with a total audience of 90,000. It serves as a hub for cultural preservation.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung: 1992", "Großer Saal: 1.200 Plätze", "Jährliche Besucher: 100.000+", "Anzahl der Veranstaltungen (2018): 80", "Festival: Festival de la Culture Bobo", "Betreiber: Stadtverwaltung"],
+      hu: ["Felavatás: 1992", "Nagyterem: 1200 férőhely", "Éves látogatók: 100 000+", "Események száma (2018): 80", "Fesztivál: Bobo Kulturális Fesztivál", "Üzemeltető: önkormányzat"],
+      ro: ["Inaugurat: 1992", "Sală mare: 1.200 locuri", "Vizitatori anuali: 100.000+", "Număr de evenimente (2018): 80", "Festival: Festivalul Culturii Bobo", "Operator: administrația orașului"],
+      en: ["Opened: 1992", "Main hall: 1,200 seats", "Annual visitors: 100,000+", "Number of events (2018): 80", "Festival: Bobo Culture Festival", "Operator: city administration"],
+    },
   },
   {
     id: "burkinafaso-mosquee-agadez-ouaga-landmarks-v2",
     type: "landmark",
     name: { de: "Agadez-Moschee von Ouaga", hu: "Ouaga-i Agadez mecset", ro: "Moscheea Agadez din Ouaga", en: "Agadez Mosque of Ouaga" },
-    coordinates: { lat: 12.3811, lng: -1.5322 },
+    coords: [-1.5322, 12.3811],
     description: {
       de: "Eine Moschee in Ouagadougou, die im Stil der berühmten Moschee von Agadez in Niger erbaut wurde. Sie besticht durch ihre hohe, pyramidenförmige Bauweise.",
       hu: "Ouagadougou-i mecset, amely a nigeri híres agadezi mecset stílusában épült. Magas, piramis alakú kialakításával tűnik ki.",
@@ -1508,7 +1556,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-pont-niangoloko-landmarks-v2",
     type: "bridge",
     name: { de: "Niangoloko-Brücke", hu: "Niangoloko-híd", ro: "Podul Niangoloko", en: "Niangoloko Bridge" },
-    coordinates: { lat: 10.2822, lng: -4.9122 },
+    coords: [-4.9122, 10.2822],
     description: {
       de: "Eine Grenzbrücke im Südwesten des Landes nahe der Elfenbeinküste. Sie ist ein entscheidender Punkt für den grenzüberschreitenden Personenverkehr.",
       hu: "Határhíd az ország délnyugati részén, Elefántcsontpart közelében. Döntő pont a határokon átnyúló személyforgalom számára.",
@@ -1539,7 +1587,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-memorial-martyrs-insurrection-landmarks-v2",
     type: "monument",
     name: { de: "Mahnmal des Volksaufstandes", hu: "A népfelkelés emlékhelye", ro: "Memorialul In宴urecției Populare", en: "Memorial to the Popular Uprising" },
-    coordinates: { lat: 12.3381, lng: -1.5044 },
+    coords: [-1.5044, 12.3381],
     description: {
       de: "Ein Gedenkort in Ouagadougou, der an die Ereignisse von 2014 erinnert. Er ehrt den Mut der Bürger, die für politische Reformen kämpften.",
       hu: "Emlékhely Ouagadougouban, amely a 2014-es eseményekre emlékeztet. A politikai reformokért küzdő polgárok bátorsága előtt tiszteleg.",
@@ -1570,7 +1618,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-centre-developpement-artisanal-landmarks-v2",
     type: "landmark",
     name: { de: "Zentrum für handwerkliche Entwicklung", hu: "Kézműves Fejlesztési Központ", ro: "Centrul de Dezvoltare Artizanală", en: "Center for Artisanal Development" },
-    coordinates: { lat: 11.1788, lng: -4.2911 },
+    coords: [-4.2911, 11.1788],
     description: {
       de: "Ein Ausbildungs- und Produktionszentrum für Kunsthandwerk in Bobo-Dioulasso. Es stärkt die lokale Wirtschaft durch traditionelle Fertigkeiten.",
       hu: "Kézműves képző- és gyártóközpont Bobo-Dioulassóban. Hagyományos készségek révén erősíti a helyi gazdaságot.",
@@ -1601,7 +1649,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-rond-point-des-nations-landmarks-v2",
     type: "landmark",
     name: { de: "Kreisverkehr der Nationen", hu: "Nemzetek körforgalma", ro: "Giratoriul Națiunilor", en: "Nations Roundabout" },
-    coordinates: { lat: 11.1733, lng: -4.2833 },
+    coords: [-4.2833, 11.1733],
     description: {
       de: "Ein bedeutender Kreisverkehr in Bobo-Dioulasso, der die Offenheit der Stadt gegenüber der Welt symbolisiert. Er ist reich geschmückt.",
       hu: "Jelentős körforgalom Bobo-Dioulassóban, amely a város világ felé való nyitottságát jelképezi. Gazdagon díszített.",
@@ -1632,7 +1680,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-stade-municipal-ouaga-landmarks-v2",
     type: "landmark",
     name: { de: "Städtisches Stadion Ouagadougou", hu: "Ouagadougou-i Városi Stadion", ro: "Stadionul Municipal Ouagadougou", en: "Ouagadougou Municipal Stadium" },
-    coordinates: { lat: 12.3622, lng: -1.5255 },
+    coords: [-1.5255, 12.3622],
     description: {
       de: "Ein geschichtsträchtiges Stadion im Zentrum der Hauptstadt. Es war lange Zeit der wichtigste Ort für Fußball und Leichtathletik.",
       hu: "Történelmi stadion a főváros központjában. Hosszú ideig a futball és az atlétika legfontosabb helyszíne volt.",
@@ -1663,7 +1711,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-centre-culturel-gambidi-theater-landmarks-v2",
     type: "theater",
     name: { de: "Theater des Gambidi-Zentrums", hu: "Gambidi Központ Színháza", ro: "Teatrul Centrului Gambidi", en: "Theater of the Gambidi Center" },
-    coordinates: { lat: 12.3858, lng: -1.4985 },
+    coords: [-1.4985, 12.3858],
     description: {
       de: "Die Hauptbühne des Espace Culturel Gambidi. Sie ist bekannt für ihre innovativen Produktionen und die Förderung der lokalen Dramatik.",
       hu: "Az Espace Culturel Gambidi főszínpada. Innovatív produkcióiról és a helyi drámaírás támogatásáról ismert.",
@@ -1694,7 +1742,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-memorial-martyrs-de-la-nation-landmarks-v2",
     type: "monument",
     name: { de: "Nationales Märtyrer-Mahnmal", hu: "Nemzeti Mártírok Emlékműve", ro: "Memorialul Național al Martirilor", en: "National Martyrs' Memorial" },
-    coordinates: { lat: 12.3385, lng: -1.5033 },
+    coords: [-1.5033, 12.3385],
     description: {
       de: "Ein zentraler Ort in Ouaga 2000 zur Ehrung aller, die für das Vaterland starben. Es ist eine Stätte der Ruhe und der staatlichen Zeremonien.",
       hu: "Központi helyszín az Ouaga 2000-ben mindazok tiszteletére, akik a hazáért haltak meg. A nyugalom és az állami ceremóniák helyszíne.",
@@ -1725,7 +1773,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-statue-thomas-sankara-ouaga-landmarks-v2",
     type: "monument",
     name: { de: "Thomas-Sankara-Statue", hu: "Thomas Sankara-szobor", ro: "Statuia lui Thomas Sankara", en: "Statue of Thomas Sankara" },
-    coordinates: { lat: 12.3599, lng: -1.5111 },
+    coords: [-1.5111, 12.3599],
     description: {
       de: "Eine imposante Bronzestatue des ehemaligen Präsidenten Thomas Sankara. Sie ist das Herzstück des Gedenkkomplexes in Ouagadougou.",
       hu: "Thomas Sankara volt elnök impozáns bronzszobra. Ez az ouagadougoui emlékkomplexum központi eleme.",
@@ -1756,7 +1804,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-pont-sirba-nord-landmarks-v2",
     type: "bridge",
     name: { de: "Nördliche Sirba-Brücke", hu: "Északi Sirba-híd", ro: "Podul Sirba de Nord", en: "Northern Sirba Bridge" },
-    coordinates: { lat: 13.7555, lng: 1.2555 },
+    coords: [1.2555, 13.7555],
     description: {
       de: "Eine neuere Brücke im Nordosten Burkina Fasos, die den Warenverkehr mit Niger erleichtert. Sie überquert den Fluss Sirba.",
       hu: "Újabb híd Burkina Faso északkeleti részén, amely megkönnyíti a Nigerrel folytatott áruforgalmat. A Sirba folyón ível át.",
@@ -1787,7 +1835,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-mosquee-hamdalaye-grande-landmarks-v2",
     type: "landmark",
     name: { de: "Große Hamdalaye-Moschee", hu: "Hamdalaye nagy mecset", ro: "Marea Moschee Hamdalaye", en: "Hamdalaye Grand Mosque" },
-    coordinates: { lat: 12.3751, lng: -1.5433 },
+    coords: [-1.5433, 12.3751],
     description: {
       de: "Das wichtigste islamische Gebetshaus im bevölkerungsreichen Westen von Ouagadougou. Es bietet Platz für Tausende von Gläubigen.",
       hu: "A legfontosabb iszlám imaház Ouagadougou sűrűn lakott nyugati részén. Több ezer hívő befogadására alkalmas.",
@@ -1818,7 +1866,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-du-rail-koudougou-landmarks-v2",
     type: "monument",
     name: { de: "Eisenbahndenkmal Koudougou", hu: "Vasúti emlékmű Koudougou", ro: "Monumentul Căii Ferate Koudougou", en: "Railway Monument Koudougou" },
-    coordinates: { lat: 12.2544, lng: -2.3655 },
+    coords: [-2.3655, 12.2544],
     description: {
       de: "Ein Denkmal in Koudougou, das die historische Bedeutung der Eisenbahn für die Stadtentwicklung würdigt. Es steht in der Nähe des Bahnhofs.",
       hu: "Emlékmű Koudougouban, amely a vasút városfejlesztésben betöltött történelmi jelentőségét méltatja. Az állomás közelében áll.",
@@ -1849,7 +1897,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-cathedrale-fada-st-joseph-landmarks-v2",
     type: "cathedral",
     name: { de: "Sankt-Joseph-Kathedrale Fada", hu: "Szent József székesegyház Fada", ro: "Catedrala Sfântul Iosif Fada", en: "Saint Joseph Cathedral Fada" },
-    coordinates: { lat: 12.0633, lng: 0.3577 },
+    coords: [0.3577, 12.0633],
     description: {
       de: "Ein religiöses Wahrzeichen im Osten des Landes. Die Kathedrale ist Sitz des Bischofs und ein Zentrum für soziale Arbeit.",
       hu: "Vallási jelkép az ország keleti részén. A székesegyház a püspök székhelye és a szociális munka központja.",
@@ -1880,7 +1928,7 @@ export const poiExtraBurkinafasoLandmarksV2: POI[] = [
     id: "burkinafaso-monument-aux-morts-grande-guerre-bobo-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Gefallenen des Großen Krieges", hu: "A nagy háború halottainak emlékműve", ro: "Monumentul Eroilor din Primul Război Mondial", en: "Great War Memorial Bobo" },
-    coordinates: { lat: 11.1764, lng: -4.2968 },
+    coords: [-4.2968, 11.1764],
     description: {
       de: "Ein würdevolles Denkmal in Bobo-Dioulasso, das an die burkinischen Soldaten erinnert, die im Ersten Weltkrieg kämpften.",
       hu: "Méltóságteljes emlékmű Bobo-Dioulassóban, amely az első világháborúban harcolt burkinai katonákra emlékeztet.",

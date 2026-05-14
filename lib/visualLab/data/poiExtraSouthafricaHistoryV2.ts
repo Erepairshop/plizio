@@ -1447,7 +1447,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-bo-kaap-history-v2",
     type: "landmark",
     name: { de: "Bo-Kaap", hu: "Bo-Kaap", ro: "Bo-Kaap", en: "Bo-Kaap" },
-    coordinates: { lat: -33.921, lng: 18.414 },
+    coords: [18.414, -33.921],
     description: {
       de: "Das Bo-Kaap ist das historische Zentrum der Cape-Malay-Kultur in Kapstadt, bekannt für seine bunten Häuser und Moscheen.",
       hu: "A Bo-Kaap Fokváros maláj negyede, amely színes házairól, macskaköves utcáiról és az iszlám örökségről ismert.",
@@ -1466,7 +1466,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-melrose-house-history-v2",
     type: "museum",
     name: { de: "Melrose House", hu: "Melrose-ház", ro: "Melrose House", en: "Melrose House" },
-    coordinates: { lat: -25.753, lng: 28.192 },
+    coords: [28.192, -25.753],
     description: {
       de: "Dieses viktorianische Herrenhaus in Pretoria war der Ort, an dem 1902 der Friede von Vereeniging unterzeichnet wurde.",
       hu: "Ez a pretoriai viktoriánus kúria volt a helyszíne a vereenigingi béke aláírásának 1902-ben.",
@@ -1485,7 +1485,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-liliesleaf-farm-history-v2",
     type: "museum",
     name: { de: "Liliesleaf Farm", hu: "Liliesleaf-farm", ro: "Liliesleaf Farm", en: "Liliesleaf Farm" },
-    coordinates: { lat: -26.042, lng: 28.053 },
+    coords: [28.053, -26.042],
     description: {
       de: "Liliesleaf war das geheime Hauptquartier des ANC und Schauplatz einer dramatischen Razzia im Jahr 1963.",
       hu: "A Liliesleaf-farm az ANC titkos főhadiszállása volt, ahol 1963-ban nagyszabású rendőrségi rajtaütés történt.",
@@ -1504,7 +1504,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-huguenot-monument-history-v2",
     type: "monument",
     name: { de: "Hugenottendenkmal", hu: "Hugenotta-emlékmű", ro: "Monumentul Hughenoților", en: "Huguenot Monument" },
-    coordinates: { lat: -33.914, lng: 19.12 },
+    coords: [19.12, -33.914],
     description: {
       de: "Das Denkmal in Franschhoek ehrt die französischen Hugenotten, die im 17. Jahrhundert nach Südafrika flohen.",
       hu: "A Franschhoekben található emlékmű a 17. században Dél-Afrikába menekült francia hugenották előtt tiszteleg.",
@@ -1523,7 +1523,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-vrouemonument-history-v2",
     type: "monument",
     name: { de: "Frauendenkmal", hu: "Női emlékmű", ro: "Monumentul Femeilor", en: "National Women's Monument" },
-    coordinates: { lat: -29.141, lng: 26.21 },
+    coords: [26.21, -29.141],
     description: {
       de: "Dieses Denkmal in Bloemfontein erinnert an die Leiden der burischen Frauen und Kinder während des Zweiten Burenkrieges.",
       hu: "Ez a bloemfonteini emlékmű a búr háborúk alatt szenvedett nőknek és gyermekeknek állít emléket.",
@@ -1542,7 +1542,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-magersfontein-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Magersfontein", hu: "Magersfonteini csatatér", ro: "Câmpul de luptă de la Magersfontein", en: "Magersfontein Battlefield" },
-    coordinates: { lat: -28.981, lng: 24.711 },
+    coords: [24.711, -28.981],
     description: {
       de: "Hier errangen die Buren 1899 einen bedeutenden Sieg gegen die britischen Truppen durch innovative Grabenkriegführung.",
       hu: "Itt arattak a búrok jelentős győzelmet a brit csapatok felett 1899-ben az innovatív lövészárok-hadviselésnek köszönhetően.",
@@ -1561,7 +1561,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-border-cave-history-v2",
     type: "ruins",
     name: { de: "Border Cave", hu: "Border-barlang", ro: "Peștera Border", en: "Border Cave" },
-    coordinates: { lat: -27.033, lng: 31.983 },
+    coords: [31.983, -27.033],
     description: {
       de: "Die Border Cave ist eine archäologische Fundstätte im Lebombo-Gebirge mit Hinweisen auf frühe menschliche Zivilisation.",
       hu: "A Border-barlang egy régészeti lelőhely a Lebombo-hegységben, ahol a korai emberi civilizáció nyomait találták meg.",
@@ -1580,7 +1580,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-sibudu-cave-history-v2",
     type: "ruins",
     name: { de: "Sibudu-Höhle", hu: "Sibudu-barlang", ro: "Peștera Sibudu", en: "Sibudu Cave" },
-    coordinates: { lat: -29.522, lng: 31.085 },
+    coords: [31.085, -29.522],
     description: {
       de: "Eine bedeutende Fundstätte der Mittleren Steinzeit in KwaZulu-Natal, die für technologische Durchbrüche bekannt ist.",
       hu: "Jelentős középső kőkorszaki lelőhely KwaZulu-Natalban, amely korai technológiai vívmányairól híres.",
@@ -1599,7 +1599,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-diepkloof-rock-shelter-history-v2",
     type: "ruins",
     name: { de: "Diepkloof-Felsüberhang", hu: "Diepkloof-sziklaeresz", ro: "Adăpostul sub stâncă Diepkloof", en: "Diepkloof Rock Shelter" },
-    coordinates: { lat: -32.383, lng: 18.452 },
+    coords: [18.452, -32.383],
     description: {
       de: "Dieser Ort beherbergt gravierte Straußeneierschalen, die zu den ältesten Symbolen menschlicher Kommunikation zählen.",
       hu: "Ez a helyszín gravírozott structojáshéjakat rejt, amelyek az emberi kommunikáció legősibb szimbólumai közé tartoznak.",
@@ -1618,7 +1618,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-1820-settlers-monument-history-v2",
     type: "monument",
     name: { de: "1820-Siedler-Denkmal", hu: "1820-as telepesek emlékműve", ro: "Monumentul Colonistilor din 1820", en: "1820 Settlers National Monument" },
-    coordinates: { lat: -33.313, lng: 26.518 },
+    coords: [26.518, -33.313],
     description: {
       de: "Ein großes Gedenkgebäude in Makhanda, das an die Ankunft der britischen Siedler im Jahr 1820 erinnert.",
       hu: "Hatalmas emlékmű Makhandában, amely az 1820-ban érkezett brit telepesek tiszteletére épült.",
@@ -1637,7 +1637,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-sharpeville-memorial-history-v2",
     type: "monument",
     name: { de: "Sharpeville-Gedenkstätte", hu: "Sharpeville-i emlékhely", ro: "Memorialul Sharpeville", en: "Sharpeville Human Rights Precinct" },
-    coordinates: { lat: -26.691, lng: 27.865 },
+    coords: [27.865, -26.691],
     description: {
       de: "Diese Gedenkstätte erinnert an das Massaker von 1960, bei dem die Polizei auf friedliche Demonstranten gegen das Passgesetz schoss.",
       hu: "Ez az emlékhely az 1960-as mészárlásnak állít emléket, amikor a rendőrség békés tüntetőkre lőtt a passztörvény elleni tiltakozáskor.",
@@ -1656,7 +1656,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-groote-schuur-history-v2",
     type: "palace",
     name: { de: "Groote Schuur", hu: "Groote Schuur", ro: "Groote Schuur", en: "Groote Schuur Estate" },
-    coordinates: { lat: -33.957, lng: 18.461 },
+    coords: [18.461, -33.957],
     description: {
       de: "Einst das Haus von Cecil Rhodes, diente dieses Anwesen als Residenz für mehrere südafrikanische Staatsoberhäupter.",
       hu: "Valaha Cecil Rhodes otthona volt, ez a birtok több dél-afrikai államfő rezidenciájaként szolgált.",
@@ -1675,7 +1675,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-elandslaagte-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Elandslaagte", hu: "Elandslaagtei csatatér", ro: "Câmpul de luptă de la Elandslaagte", en: "Elandslaagte Battlefield" },
-    coordinates: { lat: -28.398, lng: 29.967 },
+    coords: [29.967, -28.398],
     description: {
       de: "Dieses Schlachtfeld war 1899 Schauplatz eines der wenigen klaren Siege der Briten in der Frühphase des Burenkrieges.",
       hu: "Ez a csatatér volt a helyszíne a brit hadsereg egyik kevés tiszta győzelmének a búr háború korai szakaszában.",
@@ -1694,7 +1694,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-ulundi-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Ulundi", hu: "Ulundi csatatér", ro: "Câmpul de luptă de la Ulundi", en: "Ulundi Battlefield" },
-    coordinates: { lat: -28.297, lng: 31.417 },
+    coords: [31.417, -28.297],
     description: {
       de: "Schauplatz der entscheidenden Schlacht von 1879, die das Ende des Zulu-Königreichs und des Anglo-Zulu-Krieges markierte.",
       hu: "Az 1879-es döntő csata helyszíne, amely a Zulu Királyság végét és az angol-zulu háború lezárását jelentette.",
@@ -1713,7 +1713,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-sol-plaatje-museum-history-v2",
     type: "museum",
     name: { de: "Sol-Plaatje-Museum", hu: "Sol Plaatje Múzeum", ro: "Muzeul Sol Plaatje", en: "Sol Plaatje Museum" },
-    coordinates: { lat: -28.749, lng: 24.758 },
+    coords: [24.758, -28.749],
     description: {
       de: "Das ehemalige Wohnhaus von Sol Plaatje, einem Gründungsmitglied des ANC und bedeutenden Intellektuellen, in Kimberley.",
       hu: "Sol Plaatje, az ANC alapító tagja és neves értelmiségi egykori lakóháza Kimberley-ben.",
@@ -1732,7 +1732,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-kweneng-ruins-history-v2",
     type: "ruins",
     name: { de: "Kweneng-Ruinen", hu: "Kweneng romok", ro: "Ruinele Kweneng", en: "Kweneng Ancient City" },
-    coordinates: { lat: -26.215, lng: 27.85 },
+    coords: [27.85, -26.215],
     description: {
       de: "Überreste einer gewaltigen Tswana-Stadt aus vorkolonialer Zeit, die einst Tausende von Bewohnern beherbergte.",
       hu: "Egy hatalmas prekoloniális tswana város maradványai, amely egykor több ezer lakosnak adott otthont.",
@@ -1751,7 +1751,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-cora-terrace-history-v2",
     type: "landmark",
     name: { de: "Cora Terrace", hu: "Cora Terrace", ro: "Cora Terrace", en: "Cora Terrace" },
-    coordinates: { lat: -33.963, lng: 25.617 },
+    coords: [25.617, -33.963],
     description: {
       de: "Eine Reihe historischer georgianischer Reihenhäuser in Gqeberha, die den britischen Kolonialstil des 19. Jahrhunderts repräsentieren.",
       hu: "Gqeberha történelmi georgiánus stílusú sorházai, amelyek a 19. századi brit koloniális építészetet képviselik.",
@@ -1770,7 +1770,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-donkin-reserve-history-v2",
     type: "park",
     name: { de: "Donkin-Reservat", hu: "Donkin-rezervátum", ro: "Rezervația Donkin", en: "Donkin Reserve" },
-    coordinates: { lat: -33.962, lng: 25.619 },
+    coords: [25.619, -33.962],
     description: {
       de: "Ein historischer öffentlicher Raum in Gqeberha mit einer Pyramide und einem Leuchtturm, gewidmet der Frau von Sir Rufane Donkin.",
       hu: "Történelmi közösségi tér Gqeberhában egy piramissal és világítótoronnyal, amelyet Sir Rufane Donkin feleségének szenteltek.",
@@ -1789,7 +1789,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     id: "southafrica-paardeberg-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Paardeberg", hu: "Paardebergi csatatér", ro: "Câmpul de luptă de la Paardeberg", en: "Paardeberg Battlefield" },
-    coordinates: { lat: -28.987, lng: 25.137 },
+    coords: [25.137, -28.987],
     description: {
       de: "Ort einer der größten Schlachten des Burenkrieges im Jahr 1900, die zur Kapitulation von General Cronjé führte.",
       hu: "A búr háború egyik legnagyobb csatájának helyszíne 1900-ban, amely Cronjé tábornok megadásához vezetett.",

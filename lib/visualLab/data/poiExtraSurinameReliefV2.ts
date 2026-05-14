@@ -78,7 +78,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-eilerstoppen-relief-v2",
     type: "peak",
     name: { de: "Eilers-Spitzen", hu: "Eilers-csúcsok", ro: "Vârfurile Eilers", en: "Eilers Peaks" },
-    coordinates: { lat: 3.48, lng: -56.25 },
+    coords: [-56.25, 3.48],
     description: {
       de: "Die Eilers-Spitzen sind markante Gipfelformationen im Landesinneren. Sie ragen aus dem tropischen Regenwald empor.",
       hu: "Az Eilers-csúcsok jellegzetes hegycsúcsok az ország belsejében. A trópusi esőerdőből emelkednek ki.",
@@ -97,7 +97,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-van-as-gebergte-relief-v2",
     type: "mountain",
     name: { de: "Van-As-Gebirge", hu: "Van As-hegység", ro: "Munții Van As", en: "Van As Mountains" },
-    coordinates: { lat: 3.42, lng: -56.55 },
+    coords: [-56.55, 3.42],
     description: {
       de: "Das Van-As-Gebirge ist ein langgestreckter Höhenzug im westlichen Teil des Hochlandes. Es ist vollständig bewaldet.",
       hu: "A Van As-hegység a felföld nyugati részén húzódó hegyvonulat. Teljes egészében erdő borítja.",
@@ -116,7 +116,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-tamu-berg-relief-v2",
     type: "mountain",
     name: { de: "Tamu-Berg", hu: "Tamu-hegy", ro: "Muntele Tamu", en: "Tamu Mountain" },
-    coordinates: { lat: 3.12, lng: -55.85 },
+    coords: [-55.85, 3.12],
     description: {
       de: "Der Tamu-Berg ist ein isolierter Gipfel im Inneren des Landes. Er erhebt sich über das umliegende Tiefland.",
       hu: "A Tamu-hegy egy elszigetelt hegycsúcs az ország belsejében. Az őt körülvevő alföld fölé emelkedik.",
@@ -135,7 +135,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-nassau-plateau-relief-v2",
     type: "mountain",
     name: { de: "Nassau-Plateau", hu: "Nassau-fennsík", ro: "Platoul Nassau", en: "Nassau Plateau" },
-    coordinates: { lat: 4.75, lng: -54.42 },
+    coords: [-54.42, 4.75],
     description: {
       de: "Das Nassau-Plateau ist eine Hochebene im Osten von Suriname. Die Region ist für ihre geologischen Eigenschaften bekannt.",
       hu: "A Nassau-fennsík egy magasföld Suriname keleti részén. A régió ismert geológiai adottságairól.",
@@ -154,7 +154,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-lely-berg-relief-v2",
     type: "mountain",
     name: { de: "Lely-Berg", hu: "Lely-hegy", ro: "Muntele Lely", en: "Lely Mountain" },
-    coordinates: { lat: 4.65, lng: -54.72 },
+    coords: [-54.72, 4.65],
     description: {
       de: "Der Lely-Berg ist eine Erhebung, die sich im östlichen Bergland befindet. Er ist Teil einer zusammenhängenden Hügelkette.",
       hu: "A Lely-hegy egy kiemelkedés a keleti hegyvidéken. Egy összefüggő hegyvonulat része.",
@@ -173,7 +173,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-ferro-berg-relief-v2",
     type: "mountain",
     name: { de: "Ferro-Berg", hu: "Ferro-hegy", ro: "Muntele Ferro", en: "Ferro Mountain" },
-    coordinates: { lat: 4.58, lng: -54.78 },
+    coords: [-54.78, 4.58],
     description: {
       de: "Der Ferro-Berg stellt ein markantes Reliefmerkmal im Nordosten des Landes dar. Das Gelände ist stark bewaldet.",
       hu: "A Ferro-hegy az ország északkeleti részének jellegzetes domborzati eleme. A terület sűrűn erdősült.",
@@ -192,7 +192,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-witagron-hoogte-relief-v2",
     type: "mountain",
     name: { de: "Witagron-Höhen", hu: "Witagron-magaslat", ro: "Înălțimile Witagron", en: "Witagron Heights" },
-    coordinates: { lat: 5.15, lng: -55.95 },
+    coords: [-55.95, 5.15],
     description: {
       de: "Die Witagron-Höhen sind eine leicht hügelige Region im mittleren Suriname. Sie bilden die Übergangszone zum Hochland.",
       hu: "A Witagron-magaslat enyhén dombos régió Suriname középső részén. A felföld felé vezető átmeneti zónát alkotja.",
@@ -211,7 +211,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-tapanahony-vallei-relief-v2",
     type: "valley",
     name: { de: "Tapanahony-Tal", hu: "Tapanahony-völgy", ro: "Valea Tapanahony", en: "Tapanahony Valley" },
-    coordinates: { lat: 3.75, lng: -54.52 },
+    coords: [-54.52, 3.75],
     description: {
       de: "Das Tapanahony-Tal erstreckt sich entlang des gleichnamigen Flusses im Osten. Es ist ein zentrales Element des Reliefs.",
       hu: "A Tapanahony-völgy a keleti országrész azonos nevű folyója mentén húzódik. A domborzat központi eleme.",
@@ -230,7 +230,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-coppename-hoogland-relief-v2",
     type: "mountain",
     name: { de: "Coppename-Hochland", hu: "Coppename-felföld", ro: "Podișul Coppename", en: "Coppename Highlands" },
-    coordinates: { lat: 4.12, lng: -56.45 },
+    coords: [-56.45, 4.12],
     description: {
       de: "Das Coppename-Hochland ist eine bergige Region im Westen Surinames. Die Gegend ist weitgehend unberührt.",
       hu: "A Coppename-felföld egy hegyvidéki régió Suriname nyugati részén. A terület nagyrészt érintetlen.",
@@ -249,7 +249,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-saramacca-laagvlakte-relief-v2",
     type: "valley",
     name: { de: "Saramacca-Tiefebene", hu: "Saramacca-alföld", ro: "Câmpia Saramacca", en: "Saramacca Lowlands" },
-    coordinates: { lat: 5.58, lng: -55.62 },
+    coords: [-55.62, 5.58],
     description: {
       de: "Die Saramacca-Tiefebene ist ein flaches Schwemmlandgebiet im Norden. Sie wird von zahlreichen Wasserwegen durchzogen.",
       hu: "A Saramacca-alföld egy lapos ártéri terület északon. Számos vízi út szeli át.",
@@ -268,7 +268,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-nickerie-vlakte-relief-v2",
     type: "valley",
     name: { de: "Nickerie-Ebene", hu: "Nickerie-alföld", ro: "Câmpia Nickerie", en: "Nickerie Plains" },
-    coordinates: { lat: 5.75, lng: -56.85 },
+    coords: [-56.85, 5.75],
     description: {
       de: "Die Nickerie-Ebene liegt im Nordwesten. Es ist ein sehr flaches Gelände, das landwirtschaftlich genutzt wird.",
       hu: "A Nickerie-alföld északnyugaton található. Nagyon lapos terep, amelyet mezőgazdaságilag hasznosítanak.",
@@ -287,7 +287,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-sipalawini-savanne-relief-v2",
     type: "mountain",
     name: { de: "Sipalawini-Savanne", hu: "Sipalawini-szavanna", ro: "Savana Sipalawini", en: "Sipalawini Savanna" },
-    coordinates: { lat: 2.35, lng: -56.12 },
+    coords: [-56.12, 2.35],
     description: {
       de: "Die Sipalawini-Savanne ist eine offene Landschaft im äußersten Süden. Sie unterscheidet sich topographisch vom Regenwald.",
       hu: "A Sipalawini-szavanna egy nyílt táj a legdélebbi részen. Domborzatilag eltér az esőerdőtől.",
@@ -306,7 +306,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-kabalebo-bergland-relief-v2",
     type: "mountain",
     name: { de: "Kabalebo-Bergland", hu: "Kabalebo-hegyvidék", ro: "Regiunea muntoasă Kabalebo", en: "Kabalebo Highlands" },
-    coordinates: { lat: 4.25, lng: -57.55 },
+    coords: [-57.55, 4.25],
     description: {
       de: "Das Kabalebo-Bergland liegt im äußersten Westen. Es ist durch dichte Bewaldung und ein bewegtes Relief geprägt.",
       hu: "A Kabalebo-hegyvidék a legnyugatibb részen található. Sűrű erdők és változatos domborzat jellemzi.",
@@ -325,7 +325,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-groot-henar-vlakte-relief-v2",
     type: "valley",
     name: { de: "Groot-Henar-Ebene", hu: "Groot-Henar-alföld", ro: "Câmpia Groot-Henar", en: "Groot Henar Plains" },
-    coordinates: { lat: 5.68, lng: -56.78 },
+    coords: [-56.78, 5.68],
     description: {
       de: "Die Groot-Henar-Ebene ist ein flaches Gebiet im Westen. Sie ist durch intensiven Ackerbau geprägt.",
       hu: "A Groot-Henar-alföld egy lapos terület nyugaton. Intenzív mezőgazdaság jellemzi.",
@@ -344,7 +344,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-corantijn-vallei-relief-v2",
     type: "valley",
     name: { de: "Corantijn-Tal", hu: "Corantijn-völgy", ro: "Valea Corantijn", en: "Corantijn Valley" },
-    coordinates: { lat: 5.05, lng: -57.35 },
+    coords: [-57.35, 5.05],
     description: {
       de: "Das Corantijn-Tal bildet die westliche Grenze von Suriname. Der Fluss hat hier ein breites Becken geschaffen.",
       hu: "A Corantijn-völgy alkotja Suriname nyugati határát. A folyó itt széles medencét alakított ki.",
@@ -363,7 +363,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-awanibult-relief-v2",
     type: "mountain",
     name: { de: "Awanibult-Höhen", hu: "Awanibult-dombság", ro: "Dealurile Awanibult", en: "Awanibult Hills" },
-    coordinates: { lat: 3.65, lng: -57.05 },
+    coords: [-57.05, 3.65],
     description: {
       de: "Die Awanibult-Höhen befinden sich im Südwesten. Es handelt sich um ein bewaldetes Hügelgebiet.",
       hu: "Az Awanibult-dombság délnyugaton található. Erdős dombvidéki terület.",
@@ -382,7 +382,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-tonckens-bergland-relief-v2",
     type: "mountain",
     name: { de: "Tonckens-Bergland", hu: "Tonckens-hegyvidék", ro: "Regiunea muntoasă Tonckens", en: "Tonckens Highlands" },
-    coordinates: { lat: 3.85, lng: -56.85 },
+    coords: [-56.85, 3.85],
     description: {
       de: "Das Tonckens-Bergland ist ein weiteres bewaldetes Gebiet im westlichen Landesinneren. Das Terrain ist uneben.",
       hu: "A Tonckens-hegyvidék egy újabb erdős terület a nyugati országbelsőben. A terep egyenetlen.",
@@ -401,7 +401,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-stondansie-vlakte-relief-v2",
     type: "valley",
     name: { de: "Stondansie-Ebene", hu: "Stondansie-alföld", ro: "Câmpia Stondansie", en: "Stondansie Plains" },
-    coordinates: { lat: 4.55, lng: -56.42 },
+    coords: [-56.42, 4.55],
     description: {
       de: "Die Stondansie-Ebene ist eine flache Region westlich des Coppename-Flusses. Das Gebiet ist oft wassergesättigt.",
       hu: "A Stondansie-alföld egy lapos régió a Coppename-folyótól nyugatra. A terület gyakran vízzel telített.",
@@ -420,7 +420,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-vana-gebergte-relief-v2",
     type: "mountain",
     name: { de: "Vana-Gebirge", hu: "Vana-hegység", ro: "Munții Vana", en: "Vana Mountains" },
-    coordinates: { lat: 3.75, lng: -56.75 },
+    coords: [-56.75, 3.75],
     description: {
       de: "Das Vana-Gebirge ist ein Höhenzug im Westen des Hochlandes. Es ist bekannt für seine dichten Regenwälder.",
       hu: "A Vana-hegység a felföld nyugati részén húzódó vonulat. Sűrű esőerdeiről ismert.",
@@ -439,7 +439,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-tapanahony-plateau-relief-v2",
     type: "mountain",
     name: { de: "Tapanahony-Plateau", hu: "Tapanahony-fennsík", ro: "Platoul Tapanahony", en: "Tapanahony Plateau" },
-    coordinates: { lat: 3.45, lng: -54.35 },
+    coords: [-54.35, 3.45],
     description: {
       de: "Das Tapanahony-Plateau ist eine erhöhte Fläche im Osten. Es grenzt an den Oberlauf des Flusses.",
       hu: "A Tapanahony-fennsík egy kiemelt terület keleten. A folyó felső folyása mellett található.",
@@ -458,7 +458,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-palumeu-hoogten-relief-v2",
     type: "mountain",
     name: { de: "Palumeu-Höhen", hu: "Palumeu-magaslat", ro: "Înălțimile Palumeu", en: "Palumeu Heights" },
-    coordinates: { lat: 3.42, lng: -55.45 },
+    coords: [-55.45, 3.42],
     description: {
       de: "Die Palumeu-Höhen liegen in der südlichen Hälfte des Landes. Die Region ist von tropischen Hügeln dominiert.",
       hu: "A Palumeu-magaslat az ország déli felében található. A régiót trópusi dombok uralják.",
@@ -477,7 +477,7 @@ export const poiExtraSurinameReliefV2: POI[] = [
     id: "suriname-lawarivier-bekken-relief-v2",
     type: "valley",
     name: { de: "Lawa-Becken", hu: "Lawa-medence", ro: "Bazinul Lawa", en: "Lawa Basin" },
-    coordinates: { lat: 3.65, lng: -54.12 },
+    coords: [-54.12, 3.65],
     description: {
       de: "Das Lawa-Becken ist das tiefer gelegene Areal entlang des Lawa-Flusses im äußersten Osten. Die Gegend ist sehr feucht.",
       hu: "A Lawa-medence a Lawa-folyó mentén elterülő mélyebben fekvő terület a legkeletibb részen. A vidék nagyon nedves.",

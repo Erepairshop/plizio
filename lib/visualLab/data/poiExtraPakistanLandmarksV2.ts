@@ -691,7 +691,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-st-patricks-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "St.-Patricks-Kathedrale", hu: "Szent Patrik-székesegyház", ro: "Catedrala Sfântul Patrick", en: "St. Patrick's Cathedral" },
-    coordinates: { lat: 24.8614, lng: 67.0347 },
+    coords: [67.0347, 24.8614],
     description: {
       de: "Die St.-Patricks-Kathedrale in Karachi ist der Sitz der römisch-katholischen Erzdiözese Karachi. Das neogotische Bauwerk ist eine der ältesten Kirchen der Stadt.",
       hu: "A karacsi Szent Patrik-székesegyház a Karacsi Római Katolikus Érsekség székhelye. A neogótikus épület a város egyik legrégebbi temploma.",
@@ -710,7 +710,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Pakistan", hu: "Pakisztáni Nemzeti Múzeum", ro: "Muzeul Național al Pakistanului", en: "National Museum of Pakistan" },
-    coordinates: { lat: 24.851, lng: 67.0203 },
+    coords: [67.0203, 24.851],
     description: {
       de: "Das Museum in Karachi beherbergt eine umfangreiche Sammlung von Artefakten aus der Indus-Kultur und buddhistischen Skulpturen. Es wurde gegründet, um das kulturelle Erbe Pakistans zu bewahren.",
       hu: "A karacsi múzeum az Indus-völgyi civilizáció leleteinek és buddhista szobroknak kiterjedt gyűjteményét őrzi. Pakisztán kulturális örökségének megőrzésére alapították.",
@@ -729,7 +729,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-habib-bank-plaza-landmarks-v2",
     type: "tower",
     name: { de: "Habib Bank Plaza", hu: "Habib Bank Plaza", ro: "Habib Bank Plaza", en: "Habib Bank Plaza" },
-    coordinates: { lat: 24.8483, lng: 67.0075 },
+    coords: [67.0075, 24.8483],
     description: {
       de: "Dieses Hochhaus war bis 1972 das höchste Gebäude Südasiens. Es dient als Hauptsitz der Habib Bank Limited und ist ein Wahrzeichen der Skyline von Karachi.",
       hu: "Ez a felhőkarcoló 1972-ig Dél-Ázsia legmagasabb épülete volt. A Habib Bank Limited székházaként szolgál, és Karacsi látképének meghatározó eleme.",
@@ -748,7 +748,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-lahore-museum-landmarks-v2",
     type: "museum",
     name: { de: "Lahore-Museum", hu: "Lahore-i Múzeum", ro: "Muzeul din Lahore", en: "Lahore Museum" },
-    coordinates: { lat: 31.5684, lng: 74.3078 },
+    coords: [74.3078, 31.5684],
     description: {
       de: "Das 1894 gegründete Lahore-Museum ist eines der meistbesuchten und bedeutendsten Museen Pakistans. Es beherbergt die berühmte Statue des 'Fastenden Buddha'.",
       hu: "Az 1894-ben alapított Lahore-i Múzeum Pakisztán egyik leglátogatottabb és legjelentősebb múzeuma. Itt található a híres 'Böjtölő Buddha' szobor.",
@@ -767,7 +767,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-shahi-hammam-landmarks-v2",
     type: "ruins",
     name: { de: "Shahi Hammam", hu: "Sahi Hammám", ro: "Shahi Hammam", en: "Shahi Hammam" },
-    coordinates: { lat: 31.5833, lng: 74.3217 },
+    coords: [74.3217, 31.5833],
     description: {
       de: "Dieses Badehaus aus der Mogulzeit in der befestigten Stadt Lahore wurde 1635 erbaut. Es ist bekannt für seine erhaltenen Fresken und das historische Heizsystem.",
       hu: "Ez a mogul kori fürdőház Lahore fallal körülvett városában épült 1635-ben. Megmaradt freskóiról és történelmi fűtési rendszeréről ismert.",
@@ -786,7 +786,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-mahabat-khan-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Mahabat-Khan-Moschee", hu: "Mahabat kán-mecset", ro: "Moscheea Mahabat Khan", en: "Mahabat Khan Mosque" },
-    coordinates: { lat: 34.0117, lng: 71.5703 },
+    coords: [71.5703, 34.0117],
     description: {
       de: "Diese Moschee aus dem 17. Jahrhundert in Peschawar ist bekannt für ihre weiße Marmorfassade und die kunstvollen Fresken im Inneren. Sie ist ein Wahrzeichen der Mogul-Architektur.",
       hu: "Ez a 17. századi pesavari mecset fehér márvány homlokzatáról és bonyolult belső freskóiról ismert. A mogul építészet egyik kiemelkedő emléke.",
@@ -805,7 +805,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-cunningham-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Cunningham-Uhrturm", hu: "Cunningham-óratorony", ro: "Turnul cu ceas Cunningham", en: "Cunningham Clock Tower" },
-    coordinates: { lat: 34.0094, lng: 71.5739 },
+    coords: [71.5739, 34.0094],
     description: {
       de: "Dieser Uhrturm in Peschawar wurde zur Feier des Goldenen Thronjubiläums von Königin Victoria errichtet. Er befindet sich im geschäftigen Ghanta Ghar Chowk.",
       hu: "Ezt a pesavari óratornyot Viktória királynő aranyjubileumának tiszteletére építették. A forgalmas Ghanta Ghar Chowk területén található.",
@@ -824,7 +824,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-islamia-college-landmarks-v2",
     type: "university",
     name: { de: "Islamia-College Peschawar", hu: "Iszlámia Főiskola Pesavar", ro: "Colegiul Islamia Peshawar", en: "Islamia College Peshawar" },
-    coordinates: { lat: 33.9994, lng: 71.4786 },
+    coords: [71.4786, 33.9994],
     description: {
       de: "Dieses historische College ist für seine wunderschöne Architektur im Mogul-Stil bekannt. Es ist eine der ältesten Bildungseinrichtungen in Pakistan.",
       hu: "Ez a történelmi főiskola gyönyörű mogul stílusú építészetéről ismert. Pakisztán egyik legrégebbi oktatási intézménye.",
@@ -843,7 +843,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-sethi-house-landmarks-v2",
     type: "landmark",
     name: { de: "Sethi-Haus", hu: "Sethi-ház", ro: "Casa Sethi", en: "Sethi House" },
-    coordinates: { lat: 34.0106, lng: 71.5764 },
+    coords: [71.5764, 34.0106],
     description: {
       de: "Das Sethi-Haus in Peschawar ist ein prächtiges Beispiel für die Architektur der zentralasiatischen Händler im 19. Jahrhundert. Es ist berühmt für seine Holzschnitzereien.",
       hu: "A pesavari Sethi-ház a 19. századi közép-ázsiai kereskedők építészetének pompás példája. Híres fafaragásairól.",
@@ -862,7 +862,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-darbar-mahal-landmarks-v2",
     type: "palace",
     name: { de: "Darbar Mahal", hu: "Darbar Mahal", ro: "Darbar Mahal", en: "Darbar Mahal" },
-    coordinates: { lat: 29.3906, lng: 71.6967 },
+    coords: [71.6967, 29.3906],
     description: {
       de: "Darbar Mahal in Bahawalpur ist ein prächtiger Palast, der im Mogul- und arabischen Stil erbaut wurde. Er diente den Nawabs von Bahawalpur für offizielle Audienzen.",
       hu: "A bahavalpuri Darbar Mahal egy pompás palota, amely mogul és arab stílusban épült. Bahavalpur navabjai használták hivatalos audienciákra.",
@@ -881,7 +881,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-gulzar-mahal-landmarks-v2",
     type: "palace",
     name: { de: "Gulzar Mahal", hu: "Gulzar Mahal", ro: "Gulzar Mahal", en: "Gulzar Mahal" },
-    coordinates: { lat: 29.39, lng: 71.695 },
+    coords: [71.695, 29.39],
     description: {
       de: "Dieser Palast in Bahawalpur wurde für den Nawab Sadiq Muhammad Khan IV erbaut. Er ist bekannt für sein markantes europäisch-indisches Design und seine weiten Gärten.",
       hu: "Ez a bahavalpuri palota IV. Sadiq Muhammad kán navab számára épült. Jellegzetes európai-indiai dizájnjáról és tágas kertjeiről ismert.",
@@ -900,7 +900,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-abbasi-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Abbasi-Moschee", hu: "Abbászi-mecset", ro: "Moscheea Abbasi", en: "Abbasi Mosque" },
-    coordinates: { lat: 28.3183, lng: 71.1217 },
+    coords: [71.1217, 28.3183],
     description: {
       de: "Die Abbasi-Moschee liegt gegenüber der Festung Derawar in der Cholistan-Wüste. Sie wurde aus weißem Marmor erbaut und besticht durch ihre drei Kuppeln.",
       hu: "Az Abbászi-mecset a Derawar erőd szemközti oldalán található a Cholistan-sivatagban. Fehér márványból épült, és három kupolája teszi látványossá.",
@@ -919,7 +919,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-lloyd-barrage-landmarks-v2",
     type: "landmark",
     name: { de: "Lloyd-Barrage", hu: "Lloyd-gát", ro: "Barajul Lloyd", en: "Lloyd Barrage" },
-    coordinates: { lat: 27.6833, lng: 68.85 },
+    coords: [68.85, 27.6833],
     description: {
       de: "Das Lloyd-Barrage bei Sukkur ist ein massives Stauwerk, das eines der größten Bewässerungssysteme der Welt speist. Es ist ein Meisterwerk der britischen Ingenieurskunst.",
       hu: "A Sukkur melletti Lloyd-gát egy hatalmas duzzasztómű, amely a világ egyik legnagyobb öntözőrendszerét táplálja. A brit mérnöki tudomány remekműve.",
@@ -938,7 +938,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-jamia-mosque-khudabad-landmarks-v2",
     type: "landmark",
     name: { de: "Jamia-Moschee Khudabad", hu: "Khudabadi Nagymecset", ro: "Marea Moschee din Khudabad", en: "Jamia Mosque Khudabad" },
-    coordinates: { lat: 26.6333, lng: 67.75 },
+    coords: [67.75, 26.6333],
     description: {
       de: "Diese Moschee aus dem 18. Jahrhundert in Sindh wurde von Yar Muhammad Kalhoro erbaut. Sie ist bekannt für ihre massiven Mauern und die verzierten Kashi-Fliesen.",
       hu: "Ezt a 18. századi sindhi mecsetet Yar Muhammad Kalhoro építtette. Hatalmas falairól és díszes Kashi csempéiről ismert.",
@@ -957,7 +957,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-eidgah-mosque-multan-landmarks-v2",
     type: "landmark",
     name: { de: "Eidgah-Moschee Multan", hu: "Multáni Eidgah-mecset", ro: "Moscheea Eidgah din Multan", en: "Eidgah Mosque Multan" },
-    coordinates: { lat: 30.2089, lng: 71.4883 },
+    coords: [71.4883, 30.2089],
     description: {
       de: "Diese große Moschee in Multan wurde während der Mogulzeit für Festtagsgebete errichtet. Sie besticht durch ihre weite Gebetshalle und die charakteristischen blauen Multani-Fliesen.",
       hu: "Ezt a nagy multáni mecsetet a mogul korszakban építették ünnepi imádságokhoz. Tágas imacsarnoka és jellegzetes kék multáni csempéi emelik ki.",
@@ -976,7 +976,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-clock-tower-faisalabad-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Faisalabad", hu: "Faisalabadi óratorony", ro: "Turnul cu ceas din Faisalabad", en: "Clock Tower Faisalabad" },
-    coordinates: { lat: 31.4178, lng: 73.0789 },
+    coords: [73.0789, 31.4178],
     description: {
       de: "Der Uhrturm ist das Zentrum von Faisalabad und Ausgangspunkt von acht Märkten, die wie die britische Flagge angeordnet sind. Er ist ein Überrest der britischen Stadtplanung.",
       hu: "Az óratorony Faisalabad központja, és nyolc piac kiindulópontja, amelyek a brit zászló mintájára rendeződnek. A brit várostervezés egyik emléke.",
@@ -995,7 +995,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-bab-e-khyber-landmarks-v2",
     type: "landmark",
     name: { de: "Bab-e-Khyber", hu: "Bab-e-Khyber", ro: "Bab-e-Khyber", en: "Bab-e-Khyber" },
-    coordinates: { lat: 34.0017, lng: 71.3853 },
+    coords: [71.3853, 34.0017],
     description: {
       de: "Das Bab-e-Khyber ist ein monumentaler Torbogen am Eingang zum legendären Khyber-Pass. Er symbolisiert die Verbindung zwischen Pakistan und Zentralasien.",
       hu: "A Bab-e-Khyber egy monumentális boltív a legendás Khyber-hágó bejáratánál. Pakisztán és Közép-Ázsia közötti kapcsolatot szimbolizálja.",
@@ -1014,7 +1014,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
     id: "pakistan-ranigat-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ranigat-Ruinen", hu: "Ranigat-romok", ro: "Ruinele Ranigat", en: "Ranigat Ruins" },
-    coordinates: { lat: 34.3431, lng: 72.5028 },
+    coords: [72.5028, 34.3431],
     description: {
       de: "Ranigat ist eine bedeutende archäologische Stätte einer buddhistischen Klosteranlage in der Region Buner. Sie ist bekannt für ihre massiven Steinbauten auf einem Bergkamm.",
       hu: "Ranigat egy jelentős régészeti lelőhely, egy buddhista kolostoregyüttes a Buner régióban. Hatalmas kőépítményeiről ismert egy hegygerincen.",

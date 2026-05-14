@@ -551,7 +551,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-salif-salt-mines-economic-v2",
     type: "mine",
     name: { de: "Salzminen von Salif", hu: "Szalif-sóbányák", ro: "Minele de sare din Salif", en: "Salif Salt Mines" },
-    coordinates: { lat: 15.291, lng: 42.682 },
+    coords: [42.682, 15.291],
     description: {
       de: "Diese bedeutenden Steinsalzvorkommen an der Küste des Roten Meeres werden seit Jahrzehnten großflächig abgebaut.",
       hu: "A Vörös-tenger partján fekvő jelentős kősólelőhelyeket évtizedek óta ipari méretekben bányásszák.",
@@ -570,7 +570,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-al-barh-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Al-Barh", hu: "Al-Barh cementgyár", ro: "Fabrica de ciment Al-Barh", en: "Al-Barh Cement Factory" },
-    coordinates: { lat: 13.435, lng: 43.721 },
+    coords: [43.721, 13.435],
     description: {
       de: "Ein wichtiges Industriezentrum in der Provinz Taiz, das den nationalen Baubedarf mit hohen Kapazitäten deckt.",
       hu: "Taiz tartomány egyik meghatározó ipari létesítménye, amely jelentős kapacitással szolgálja ki az építőipart.",
@@ -589,7 +589,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-aden-free-zone-economic-v2",
     type: "industry",
     name: { de: "Freihandelszone Aden", hu: "Ádeni szabadkereskedelmi övezet", ro: "Zona liberă Aden", en: "Aden Free Zone" },
-    coordinates: { lat: 12.831, lng: 44.912 },
+    coords: [44.912, 12.831],
     description: {
       de: "Ein spezielles Wirtschaftsgebiet, das internationale Investitionen und den Warenumschlag in der Region fördern soll.",
       hu: "Speciális gazdasági terület, amely a nemzetközi befektetéseket és az áruforgalmat hivatott ösztönözni.",
@@ -608,7 +608,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-sanaa-textile-factory-economic-v2",
     type: "factory",
     name: { de: "Textilfabrik Sanaa", hu: "Szanaai textilgyár", ro: "Fabrica de textile din Sana'a", en: "Sana'a Textile Factory" },
-    coordinates: { lat: 15.334, lng: 44.195 },
+    coords: [44.195, 15.334],
     description: {
       de: "Diese Fabrik war eine der ersten modernen Industrieanlagen des Landes zur Verarbeitung von einheimischer Baumwolle.",
       hu: "Ez az üzem az ország egyik első modern ipari létesítménye volt a helyi gyapot feldolgozására.",
@@ -627,7 +627,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-jabali-zinc-mine-economic-v2",
     type: "mine",
     name: { de: "Zinkmine von Jabali", hu: "Dzsabali cinkbánya", ro: "Mina de zinc Jabali", en: "Jabali Zinc Mine" },
-    coordinates: { lat: 15.652, lng: 44.755 },
+    coords: [44.755, 15.652],
     description: {
       de: "Eine bedeutende Lagerstätte für Zink, Blei und Silber, die sich nordöstlich der Hauptstadt Sanaa befindet.",
       hu: "Jelentős cink-, ólom- és ezüstlelőhely, amely a fővárostól, Szanaától északkeletre található.",
@@ -646,7 +646,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-hodeidah-flour-mills-economic-v2",
     type: "factory",
     name: { de: "Mehlmühlen von al-Hudaida", hu: "Al-Hodeidah malom", ro: "Morile de făină din Al-Hodeidah", en: "Al-Hodeidah Flour Mills" },
-    coordinates: { lat: 14.825, lng: 42.941 },
+    coords: [42.941, 14.825],
     description: {
       de: "Diese großtechnischen Mühlenanlagen sind entscheidend für die Lebensmittelversorgung und Getreideverarbeitung des Jemen.",
       hu: "Ezek a nagyüzemi malomlétesítmények kulcsfontosságúak Jemen élelmiszerellátása és gabonafeldolgozása szempontjából.",
@@ -665,7 +665,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-souq-al-milh-economic-v2",
     type: "industry",
     name: { de: "Salzmarkt von Sanaa", hu: "Szanaai sószak", ro: "Souq al-Milh din Sana'a", en: "Souq al-Milh" },
-    coordinates: { lat: 15.352, lng: 44.215 },
+    coords: [44.215, 15.352],
     description: {
       de: "Der zentrale Handelsplatz der Altstadt, bekannt für den Verkauf von Salz, Gewürzen und traditionellen Waren.",
       hu: "Az óváros központi kereskedelmi helyszíne, amely só, fűszerek és hagyományos áruk értékesítéséről ismert.",
@@ -684,7 +684,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-central-bank-sanaa-economic-v2",
     type: "industry",
     name: { de: "Zentralbank des Jemen", hu: "Jemeni Központi Bank", ro: "Banca Centrală a Yemenului", en: "Central Bank of Yemen" },
-    coordinates: { lat: 15.348, lng: 44.204 },
+    coords: [44.204, 15.348],
     description: {
       de: "Die wichtigste Finanzinstitution des Landes, verantwortlich für die Währungspolitik und die Überwachung des Bankensektors.",
       hu: "Az ország legfontosabb pénzügyi intézménye, amely a monetáris politikáért és a bankrendszer felügyeletéért felel.",
@@ -703,7 +703,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-ghayl-ba-wazir-tobacco-farms-economic-v2",
     type: "industry",
     name: { de: "Tabakfarmen von Ghail Ba Wazir", hu: "Ghajl Ba Vazír dohányfarmok", ro: "Fermele de tutun din Ghayl Ba Wazir", en: "Ghayl Ba Wazir Tobacco Farms" },
-    coordinates: { lat: 14.772, lng: 49.375 },
+    coords: [49.375, 14.772],
     description: {
       de: "Diese Region im Hadhramaut ist berühmt für den Anbau eines speziellen Tabaks, der exportiert und geschätzt wird.",
       hu: "Ez a Hadhramaut régióban található terület egy speciális dohányfajta termesztéséről híres, amelyet exportálnak.",
@@ -722,7 +722,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-qusayir-fishing-port-economic-v2",
     type: "port",
     name: { de: "Fischereihafen von Qusayir", hu: "Kuszajir halászkikötő", ro: "Portul de pescuit Qusay'ir", en: "Qusay'ir Fishing Port" },
-    coordinates: { lat: 14.922, lng: 50.301 },
+    coords: [50.301, 14.922],
     description: {
       de: "Ein bedeutender Knotenpunkt für den Fischfang am Arabischen Meer, spezialisiert auf den Export von Meeresfrüchten.",
       hu: "Az Arab-tenger partján fekvő jelentős halászati csomópont, amely tengeri termékek exportjára szakosodott.",
@@ -741,7 +741,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-mukalla-industrial-city-economic-v2",
     type: "industry",
     name: { de: "Industriestadt al-Mukalla", hu: "Al-Mukalla iparváros", ro: "Orașul industrial Al-Mukalla", en: "Mukalla Industrial City" },
-    coordinates: { lat: 14.585, lng: 49.092 },
+    coords: [49.092, 14.585],
     description: {
       de: "Ein geplantes Industriegebiet nahe der Hafenstadt, das Lebensmittelverarbeitung und Verpackungsindustrie beherbergt.",
       hu: "A kikötőváros melletti tervezett ipari övezet, amely élelmiszer-feldolgozó és csomagolóüzemeknek ad otthont.",
@@ -760,7 +760,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-mocha-steam-power-plant-economic-v2",
     type: "industry",
     name: { de: "Dampfkraftwerk von Mocha", hu: "Mokha gőzerőmű", ro: "Centrala termoelectrică Mocha", en: "Mocha Steam Power Plant" },
-    coordinates: { lat: 13.342, lng: 43.255 },
+    coords: [43.255, 13.342],
     description: {
       de: "Eine der größten Anlagen zur Stromerzeugung im Jemen, die das nationale Verbundnetz speist.",
       hu: "Jemen egyik legnagyobb villamosenergia-termelő létesítménye, amely a nemzeti hálózatot táplálja.",
@@ -779,7 +779,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-caltex-container-terminal-economic-v2",
     type: "port",
     name: { de: "Caltex-Containerterminal", hu: "Caltex konténerterminál", ro: "Terminalul de containere Caltex", en: "Caltex Container Terminal" },
-    coordinates: { lat: 12.815, lng: 44.952 },
+    coords: [44.952, 12.815],
     description: {
       de: "Der modernste Teil des Hafens von Aden, spezialisiert auf den effizienten Umschlag internationaler Containerfracht.",
       hu: "Áden kikötőjének legmodernebb része, amely a nemzetközi konténeres áruforgalom hatékony kezelésére szakosodott.",
@@ -798,7 +798,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-sheba-poultry-farms-economic-v2",
     type: "factory",
     name: { de: "Sheba Geflügelfarmen", hu: "Sába baromfifarmok", ro: "Fermele de păsări Sheba", en: "Sheba Poultry Farms" },
-    coordinates: { lat: 15.305, lng: 44.402 },
+    coords: [44.402, 15.305],
     description: {
       de: "Großflächige landwirtschaftliche Anlagen zur Eier- und Geflügelproduktion im Umland der Hauptstadt Sanaa.",
       hu: "Nagyüzemi mezőgazdasági létesítmények tojás- és baromfitermelésre Szanaa főváros környékén.",
@@ -817,7 +817,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-al-wadeah-border-hub-economic-v2",
     type: "industry",
     name: { de: "Grenzhandelsknoten Al-Wade'ah", hu: "Al-Wade'ah kereskedelmi csomópont", ro: "Nodul comercial Al-Wade'ah", en: "Al-Wade'ah Border Hub" },
-    coordinates: { lat: 16.321, lng: 47.215 },
+    coords: [47.215, 16.321],
     description: {
       de: "Der wichtigste Landgrenzübergang zwischen dem Jemen und Saudi-Arabien für den kommerziellen LKW-Verkehr.",
       hu: "Jemen és Szaúd-Arábia közötti legfontosabb közúti határátkelő a kereskedelmi teherforgalom számára.",
@@ -836,7 +836,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "yemen-al-kadan-agriculture-center-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Al-Kadan", hu: "Al-Kadan mezőgazdasági központ", ro: "Centrul agricol Al-Kadan", en: "Al-Kadan Agriculture Center" },
-    coordinates: { lat: 15.132, lng: 43.251 },
+    coords: [43.251, 15.132],
     description: {
       de: "Ein bedeutendes Zentrum in der Tihama-Ebene für die Erforschung und Produktion von tropischen Früchten.",
       hu: "A Tihama-síkság jelentős központja, amely trópusi gyümölcsök kutatásával és termesztésével foglalkozik.",

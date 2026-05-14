@@ -5,7 +5,7 @@ export const kiribatiReliefV2: POI[] = [
     id: "kiribati-banaba-peak-relief-v2",
     type: "peak",
     name: { de: "Banaba Gipfel", hu: "Banaba-csúcs", ro: "Vârful Banaba", en: "Banaba Peak" },
-    coordinates: { lat: -0.8541, lng: 169.5381 },
+    coords: [169.5381, -0.8541],
     description: {
       de: "Dies ist der höchste Punkt von Kiribati auf der erhobenen Koralleninsel Banaba. Er liegt etwa 81 Meter über dem Meeresspiegel.",
       hu: "Ez Kiribati legmagasabb pontja, amely a megemelkedett korallzátonyú Banaba-szigeten található. Magassága 81 méter a tengerszint felett.",
@@ -19,12 +19,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Highest point in the country", "81 meters above sea level", "Raised coral limestone formation", "Former site of phosphate mining"],
     },
     imageHint: "Aerial view of Banaba Island showing the rocky limestone terrain",
+    descriptionAdvanced: {
+      de: "Der Banaba Peak ist der höchste Punkt auf der Insel Banaba (Ozeaninsel) in Kiribati. Er erreicht eine Höhe von 81 Metern über dem Meeresspiegel und ist damit der höchste Punkt des Landes. Banaba ist eine gehobene Koralleninsel mit steilen Klippen und einer zentralen Hochebene. Der Peak bietet einen weiten Blick über den Pazifik. Die Insel war einst reich an Phosphatgestein, das im 20. Jahrhundert abgebaut wurde. Heute leben etwa 300 Menschen auf Banaba, hauptsächlich in der Siedlung Tabiang.",
+      hu: "A Banaba Peak a Kiribatihoz tartozó Banaba-sziget (Óceán-sziget) legmagasabb pontja. 81 méter magas, ezzel az ország legmagasabb pontja. Banaba egy kiemelt korallsziget, meredek sziklákkal és központi fennsíkkal. A csúcsról kilátás nyílik a Csendes-óceánra. A sziget gazdag foszfátban, amelyet a 20. században bányásztak. Ma kb. 300 ember él Banabán, főként Tabiang településen.",
+      ro: "Banaba Peak este cel mai înalt punct de pe insula Banaba (Ocean Island) din Kiribati. Are o altitudine de 81 de metri deasupra nivelului mării, fiind cel mai înalt punct al țării. Banaba este o insulă coralieră ridicată, cu stânci abrupte și un platou central. Vârful oferă o vedere panoramică asupra Pacificului. Insula a fost bogată în fosfați, exploatată în secolul al XX-lea. Astăzi trăiesc aproximativ 300 de oameni pe Banaba, în principal în așezarea Tabiang.",
+      en: "Banaba Peak is the highest point on Banaba Island (Ocean Island) in Kiribati. It rises 81 meters above sea level, making it the highest point in the country. Banaba is a raised coral island with steep cliffs and a central plateau. The peak offers a panoramic view of the Pacific Ocean. The island was rich in phosphate, mined in the 20th century. Today around 300 people live on Banaba, mostly in the settlement of Tabiang.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 81 m", "Höchster Punkt Kiribatis", "Inselfläche: 6,5 km²", "Bevölkerung: ca. 300", "Phosphatabbau 1900-1979", "Entfernung zu Tarawa: 400 km"],
+      hu: ["Magasság: 81 m", "Kiribati legmagasabb pontja", "Sziget területe: 6,5 km²", "Lakosság: kb. 300", "Foszfátbányászat 1900-1979", "Távolság Tarawától: 400 km"],
+      ro: ["Înălțime: 81 m", "Cel mai înalt punct din Kiribati", "Suprafața insulei: 6,5 km²", "Populație: cca. 300", "Exploatare fosfați 1900-1979", "Distanță până la Tarawa: 400 km"],
+      en: ["Height: 81 m", "Highest point in Kiribati", "Island area: 6.5 km²", "Population: approx. 300", "Phosphate mining 1900-1979", "Distance to Tarawa: 400 km"],
+    },
   },
   {
     id: "kiribati-joes-hill-relief-v2",
     type: "peak",
     name: { de: "Joe's Hill", hu: "Joe's Hill", ro: "Joe's Hill", en: "Joe's Hill" },
-    coordinates: { lat: 1.885, lng: -157.382 },
+    coords: [-157.382, 1.885],
     description: {
       de: "Joe's Hill ist die höchste Erhebung auf Kiritimati, dem größten Atoll der Welt. Er erreicht eine bescheidene Höhe von etwa 13 Metern.",
       hu: "A Joe's Hill a világ legnagyobb atolljának, Kiritimatinak a legmagasabb pontja. Szerény, körülbelül 13 méteres magasságot ér el.",
@@ -38,12 +50,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Highest point on Kiritimati", "Approximately 13 meters high", "Located on Christmas Island", "Formed from sand dune deposits"],
     },
     imageHint: "A small sandy hill on the flat landscape of Kiritimati",
+    descriptionAdvanced: {
+      de: "Joe's Hill ist eine leichte Erhebung auf der Insel Kiritimati (Weihnachtsinsel) in Kiribati. Mit einer Höhe von etwa 5 Metern ist sie eine der wenigen natürlichen Erhebungen auf dem ansonsten flachen Atoll. Der Hügel besteht aus Korallenkalk und Sand und ist von niedriger Vegetation bedeckt. Er dient als Orientierungspunkt für die lokale Bevölkerung und Besucher. Kiritimati ist das größte Atoll der Welt nach Landfläche und beherbergt mehrere Salzseen und Lagunen.",
+      hu: "Joe's Hill egy alacsony domb a Kiritimati-szigeten (Karácsony-sziget), Kiribatiban. Magassága kb. 5 méter, egyike a kevés természetes kiemelkedésnek a lapos atollon. Korallmészkőből és homokból áll, alacsony növényzettel. Tájékozódási pontként szolgál a helyiek és látogatók számára. Kiritimati a világ legnagyobb atollja szárazföldi területét tekintve, számos sós tóval és lagúnával.",
+      ro: "Joe's Hill este o ușoară înălțime pe insula Kiritimati (Crăciun) din Kiribati. Are aproximativ 5 metri înălțime, fiind una dintre puținele ridicături naturale pe acest atol plat. Este compus din calcar coralier și nisip, acoperit de vegetație joasă. Servește ca punct de reper pentru localnici și vizitatori. Kiritimati este cel mai mare atol din lume ca suprafață terestră, cu numeroase lacuri sărate și lagune.",
+      en: "Joe's Hill is a low hill on Kiritimati (Christmas Island) in Kiribati. It rises about 5 meters high, one of the few natural elevations on the otherwise flat atoll. The hill is composed of coral limestone and sand, covered with low vegetation. It serves as a landmark for locals and visitors. Kiritimati is the largest atoll in the world by land area, featuring many salt lakes and lagoons.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 5 m", "Standort: Kiritimati-Atoll", "Durchmesser: ca. 50 m", "Bedeckung: niedrige Sträucher", "Entdeckung: unbekannt", "Boden: Korallenkalk und Sand"],
+      hu: ["Magasság: kb. 5 m", "Helyszín: Kiritimati-atoll", "Átmérő: kb. 50 m", "Növényzet: alacsony cserjék", "Felfedezés: ismeretlen", "Talaj: korallmészkő és homok"],
+      ro: ["Înălțime: cca. 5 m", "Locație: atolul Kiritimati", "Diametru: cca. 50 m", "Acoperire: tufișuri joase", "Descoperire: necunoscută", "Sol: calcar coralier și nisip"],
+      en: ["Height: approx. 5 m", "Location: Kiritimati Atoll", "Diameter: approx. 50 m", "Cover: low shrubs", "Discovery: unknown", "Soil: coral limestone and sand"],
+    },
   },
   {
     id: "kiribati-aeon-point-relief-v2",
     type: "landmark",
     name: { de: "Aeon Point", hu: "Aeon-fok", ro: "Punctul Aeon", en: "Aeon Point" },
-    coordinates: { lat: 1.95, lng: -157.18 },
+    coords: [-157.18, 1.95],
     description: {
       de: "Dieser Punkt markiert einen markanten Küstenabschnitt im Osten von Kiritimati. Er ist Teil der topographischen Begrenzung des riesigen Atolls.",
       hu: "Ez a pont Kiritimati keleti részének egyik jellegzetes partvonalát jelöli. A hatalmas atoll domborzati határának része.",
@@ -57,12 +81,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Eastern point of Kiritimati", "Part of the coral reef structure", "Low elevation above the sea", "Belongs to the Line Islands"],
     },
     imageHint: "Coastal terrain with coral rubble and low vegetation on Kiritimati",
+    descriptionAdvanced: {
+      de: "Aeon Point ist eine Landspitze auf der Insel Kiritimati (Weihnachtsinsel) in Kiribati. Sie ragt in den Pazifischen Ozean hinaus und ist von Korallenriffen umgeben. Der Punkt ist bekannt für starke Strömungen und Wellengang. Er bietet einen Blick auf die Weite des Ozeans und ist ein beliebter Ort zum Angeln und Spazierengehen. Die umliegenden Gewässer sind reich an Meeresleben, darunter Thunfisch und Makrelen.",
+      hu: "Az Aeon Point egy földnyelv a Kiritimati-szigeten (Karácsony-sziget), Kiribatiban. A Csendes-óceánba nyúlik ki, korallzátonyok veszik körül. Erős áramlatairól és hullámzásáról ismert. Kilátást nyújt az óceánra, népszerű horgász- és sétálóhely. A környező vizekben gazdag tengeri élővilág található, pl. tonhal és makréla.",
+      ro: "Aeon Point este un promontoriu pe insula Kiritimati (Crăciun) din Kiribati. Se proiectează în Oceanul Pacific și este înconjurat de recife de corali. Cunoscut pentru curenți puternici și valuri mari. Oferă o vedere spre ocean, fiind un loc popular pentru pescuit și plimbări. Apele din jur sunt bogate în viață marină, inclusiv ton și macrou.",
+      en: "Aeon Point is a headland on Kiritimati (Christmas Island) in Kiribati. It juts out into the Pacific Ocean and is surrounded by coral reefs. Known for strong currents and surf, it offers panoramic ocean views and is popular for fishing and walking. The surrounding waters are rich in marine life, including tuna and mackerel.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 200 m", "Höhe über Wasser: 2 m", "Strömungsgeschwindigkeit: bis zu 3 Knoten", "Fischarten: Thunfisch, Makrele", "Entfernung zur nächsten Siedlung: 5 km", "Korallenbedeckung: dicht"],
+      hu: ["Hossz: kb. 200 m", "Magasság a víz felett: 2 m", "Áramlási sebesség: akár 3 csomó", "Halfajok: tonhal, makréla", "Távolság a legközelebbi településtől: 5 km", "Korallborítottság: sűrű"],
+      ro: ["Lungime: cca. 200 m", "Înălțime deasupra apei: 2 m", "Viteza curentului: până la 3 noduri", "Specii de pești: ton, macrou", "Distanță până la cea mai apropiată așezare: 5 km", "Acoperire coralieră: densă"],
+      en: ["Length: approx. 200 m", "Height above water: 2 m", "Current speed: up to 3 knots", "Fish species: tuna, mackerel", "Distance to nearest settlement: 5 km", "Coral cover: dense"],
+    },
   },
   {
     id: "kiribati-poland-flats-relief-v2",
     type: "valley",
     name: { de: "Poland-Ebene", hu: "Poland-síkság", ro: "Câmpia Poland", en: "Poland Flats" },
-    coordinates: { lat: 1.86, lng: -157.55 },
+    coords: [-157.55, 1.86],
     description: {
       de: "Diese flache Region im Westen von Kiritimati ist durch weite Salzpfannen und niedrige Vegetation gekennzeichnet. Sie liegt nur wenige Meter über dem Meer.",
       hu: "Kiritimati nyugati részén fekvő lapos terület, amelyet kiterjedt sólepárlók és alacsony vegetáció jellemez. Csak néhány méterrel fekszik a tenger felett.",
@@ -76,12 +112,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Western region of Kiritimati", "Presence of saltwater lagoons", "Important nesting site for birds", "Near the settlement of Poland"],
     },
     imageHint: "Flat landscape with salt flats and scattered bushes on Christmas Island",
+    descriptionAdvanced: {
+      de: "Poland Flats sind eine flache, tidenbeeinflusste Ebene auf der Insel Kiritimati (Weihnachtsinsel) in Kiribati. Sie erstrecken sich über eine Fläche von etwa 2 km² und bestehen aus Korallensand und Schlamm. Bei Ebbe fallen die Flats trocken und bieten Lebensraum für Wattvögel und Krebse. Die Gegend ist auch bekannt für ihre Salzseen, die durch Verdunstung entstehen. Poland Flats sind ein wichtiges Gebiet für die lokale Fischerei und Vogelbeobachtung.",
+      hu: "A Poland Flats egy lapos, apály-dagály által befolyásolt síkság a Kiritimati-szigeten (Karácsony-sziget), Kiribatiban. Területe kb. 2 km², korallhomokból és iszapból áll. Apálykor kiszárad, élőhelyet biztosítva parti madaraknak és rákoknak. Sóstavak is találhatók itt, amelyek párolgással keletkeznek. Fontos terület a helyi halászat és madármegfigyelés számára.",
+      ro: "Poland Flats este o câmpie plană influențată de maree pe insula Kiritimati (Crăciun) din Kiribati. Se întinde pe aproximativ 2 km², fiind compusă din nisip coralier și noroi. La reflux, câmpia se usucă, oferind habitat pentru păsări de țărm și crustacee. Există și lacuri sărate formate prin evaporare. Zona este importantă pentru pescuitul local și observarea păsărilor.",
+      en: "Poland Flats are a tidal flat on Kiritimati (Christmas Island) in Kiribati. They cover about 2 km² of coral sand and mud. At low tide, the flats emerge, providing habitat for shorebirds and crabs. Salt pans form through evaporation. The area is important for local fishing and birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2 km²", "Tidenhub: ca. 1,5 m", "Boden: Korallensand und Schlamm", "Salzseen: mehrere kleine", "Vogelarten: Regenpfeifer, Strandläufer", "Nutzung: Fischerei, Vogelbeobachtung"],
+      hu: ["Terület: 2 km²", "Apály-dagály különbség: kb. 1,5 m", "Talaj: korallhomok és iszap", "Sóstavak: több kicsi", "Madárfajok: lile, partfutó", "Használat: halászat, madármegfigyelés"],
+      ro: ["Suprafață: 2 km²", "Diferența de maree: cca. 1,5 m", "Sol: nisip coralier și noroi", "Lacuri sărate: mai multe mici", "Specii de păsări: ploier, fugaci", "Utilizare: pescuit, observarea păsărilor"],
+      en: ["Area: 2 km²", "Tidal range: approx. 1.5 m", "Soil: coral sand and mud", "Salt pans: several small", "Bird species: plovers, sandpipers", "Use: fishing, birdwatching"],
+    },
   },
   {
     id: "kiribati-betio-islet-relief-v2",
     type: "landmark",
     name: { de: "Betio-Insel", hu: "Betio-sziget", ro: "Insulița Betio", en: "Betio Islet" },
-    coordinates: { lat: 1.353, lng: 172.93 },
+    coords: [172.93, 1.353],
     description: {
       de: "Betio ist ein flaches Inselchen am westlichen Ende des Tarawa-Atolls. Seine Topographie wurde durch menschliche Aktivitäten im Zweiten Weltkrieg stark verändert.",
       hu: "Betio a Tarawa-atoll nyugati végén található lapos szigetecske. Domborzatát a második világháború alatti emberi tevékenység jelentősen megváltoztatta.",
@@ -95,12 +143,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Part of Tarawa Atoll", "Maximum elevation approx. 3 meters", "Site of the Battle of Tarawa", "Densely populated flatland"],
     },
     imageHint: "Dense coastal islet with palm trees and urban areas on Tarawa",
+    descriptionAdvanced: {
+      de: "Betio Islet ist eine kleine Insel im Tarawa-Atoll, Kiribati. Sie ist bekannt als Schauplatz der Schlacht um Tarawa im Zweiten Weltkrieg (1943). Heute ist Betio dicht besiedelt mit etwa 15.000 Einwohnern auf einer Fläche von 1,5 km². Die Insel beherbergt den wichtigsten Hafen von Kiribati und internationale Fischereiunternehmen. Auf Betio befinden sich Kriegsdenkmäler und ein Museum, das an die Kämpfe erinnert. Die Erhebung ist sehr gering, nur etwa 2 Meter über dem Meeresspiegel.",
+      hu: "Betio Islet egy kis sziget a Tarawa-atollban, Kiribatiban. Híres a tarawai csatáról a második világháborúban (1943). Ma sűrűn lakott, kb. 15.000 lakos 1,5 km²-en. Itt található Kiribati fő kikötője és nemzetközi halászati vállalatok. Háborús emlékművek és múzeum található itt. A sziget alacsony fekvésű, mindössze 2 méter a tengerszint felett.",
+      ro: "Betio Islet este o insulă mică în atolul Tarawa, Kiribati. Este cunoscută pentru Bătălia de la Tarawa din al Doilea Război Mondial (1943). Astăzi este dens populată, cu aproximativ 15.000 de locuitori pe 1,5 km². Găzduiește principalul port al Kiribati și companii de pescuit internaționale. Există monumente de război și un muzeu. Altitudinea este foarte mică, de doar 2 metri deasupra nivelului mării.",
+      en: "Betio Islet is a small island in Tarawa Atoll, Kiribati. It is famous for the Battle of Tarawa in World War II (1943). Today, it is densely populated with about 15,000 people on 1.5 km². The islet hosts Kiribati's main port and international fishing companies. War memorials and a museum commemorate the battle. Elevation is very low, only about 2 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1,5 km²", "Bevölkerung: ca. 15.000", "Bevölkerungsdichte: 10.000/km²", "Schlacht um Tarawa: November 1943", "Höhe: 2 m", "Hauptexport: Fisch"],
+      hu: ["Terület: 1,5 km²", "Lakosság: kb. 15.000", "Népsűrűség: 10.000/km²", "Tarawai csata: 1943 november", "Magasság: 2 m", "Fő exportcikk: hal"],
+      ro: ["Suprafață: 1,5 km²", "Populație: cca. 15.000", "Densitate: 10.000/km²", "Bătălia de la Tarawa: noiembrie 1943", "Altitudine: 2 m", "Export principal: pește"],
+      en: ["Area: 1.5 km²", "Population: approx. 15,000", "Population density: 10,000/km²", "Battle of Tarawa: November 1943", "Elevation: 2 m", "Main export: fish"],
+    },
   },
   {
     id: "kiribati-bonriki-plateau-relief-v2",
     type: "landmark",
     name: { de: "Bonriki-Plateau", hu: "Bonriki-fennsík", ro: "Podișul Bonriki", en: "Bonriki Plateau" },
-    coordinates: { lat: 1.385, lng: 173.145 },
+    coords: [173.145, 1.385],
     description: {
       de: "Das Bonriki-Gebiet auf Tarawa umfasst eine der breitesten Landmassen des Atolls. Es beherbergt die wichtigste Süßwasserlinse der Region.",
       hu: "A tarawai Bonriki terület az atoll egyik legszélesebb szárazföldi részét foglalja magában. Itt található a régió legfontosabb édesvízkészlete.",
@@ -114,12 +174,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Southeast corner of Tarawa", "Location of the international airport", "Important hydrogeological zone", "Very low relief energy"],
     },
     imageHint: "Flat land area with an airport runway and surrounding palm trees",
+    descriptionAdvanced: {
+      de: "Das Bonriki-Plateau ist eine flache Erhebung auf dem Bonriki-Motu im Tarawa-Atoll, Kiribati. Es erreicht eine Höhe von etwa 3 Metern und ist einer der höheren Punkte des Atolls. Auf dem Plateau befindet sich der internationale Flughafen Bonriki, das wichtigste Luftverkehrsdrehkreuz Kiribatis. Der Boden besteht aus Korallensand und -kies. Das Plateau ist größtenteils bebaut, mit Start- und Landebahnen und Flughafengebäuden. Die Umgebung ist von Kokospalmen und dichter Vegetation geprägt.",
+      hu: "A Bonriki-fennsík egy lapos kiemelkedés a Bonriki-motun a Tarawa-atollon, Kiribatiban. Magassága kb. 3 méter, az atoll egyik magasabb pontja. Itt található a Bonriki nemzetközi repülőtér, Kiribati fő légiközlekedési csomópontja. Talaja korallhomok és kavics. A fennsíkot nagyrészt repülőtéri létesítmények foglalják el. A környéket kókuszpálmák és sűrű növényzet jellemzi.",
+      ro: "Podigul Bonriki este o ridicătură plată pe motu-ul Bonriki din atolul Tarawa, Kiribati. Are o altitudine de aproximativ 3 metri, fiind unul dintre punctele mai înalte ale atolului. Pe podiș se află Aeroportul Internațional Bonriki, principalul hub aerian al Kiribati. Solul este format din nisip coralier și pietriș. Podișul este în mare parte construit, cu piste și terminale. Împrejurimile sunt dominate de palmieri de cocos și vegetație densă.",
+      en: "Bonriki Plateau is a flat elevation on Bonriki Motu in Tarawa Atoll, Kiribati. It reaches about 3 meters in height, one of the higher points of the atoll. The plateau houses Bonriki International Airport, Kiribati's main aviation hub. The soil is coral sand and gravel. The area is largely developed with runways and airport buildings. Surroundings feature coconut palms and dense vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3 m", "Flughafen: Bonriki International (IATA: TRW)", "Eröffnung: 1943 als Militärflugplatz", "Startbahnlänge: 2.422 m", "Passagiere: über 250.000 jährlich", "Standort: Tarawa-Atoll"],
+      hu: ["Magasság: 3 m", "Repülőtér: Bonriki nemzetközi (IATA: TRW)", "Megnyitás: 1943, katonai repülőtér", "Kifutópálya hossza: 2.422 m", "Utasok: évi 250.000 felett", "Helyszín: Tarawa-atoll"],
+      ro: ["Altitudine: 3 m", "Aeroport: Bonriki International (IATA: TRW)", "Deschidere: 1943 ca aerodrom militar", "Lungime pistă: 2.422 m", "Pasageri: peste 250.000 anual", "Locație: atolul Tarawa"],
+      en: ["Elevation: 3 m", "Airport: Bonriki International (IATA: TRW)", "Opened: 1943 as military airfield", "Runway length: 2,422 m", "Passengers: over 250,000 annually", "Location: Tarawa Atoll"],
+    },
   },
   {
     id: "kiribati-manra-rim-relief-v2",
     type: "landmark",
     name: { de: "Manra-Riffring", hu: "Manra-zátonyperem", ro: "Marginea Manra", en: "Manra Rim" },
-    coordinates: { lat: -4.45, lng: -171.25 },
+    coords: [-171.25, -4.45],
     description: {
       de: "Manra ist ein fast geschlossenes Atoll in den Phoenix-Inseln. Der Korallenring umschließt eine hypersaline Lagune ohne Verbindung zum Meer.",
       hu: "Manra egy majdnem zárt atoll a Phoenix-szigeteken. A korallgyűrű egy hiperszalin lagúnát zár körül, amelynek nincs kapcsolata a tengerrel.",
@@ -133,12 +205,24 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Part of the Phoenix Islands", "Closed lagoon structure", "Raised coral rim", "Uninhabited nature reserve"],
     },
     imageHint: "Circular atoll with a central lagoon surrounded by a ring of land",
+    descriptionAdvanced: {
+      de: "Der Manra Rim ist der äußere Saum des Manra-Atolls im Phoenix-Archipel, Kiribati. Er besteht aus Korallenriffen und Sandbänken, die die Lagune umschließen. Der Rim erhebt sich nur wenige Meter über den Meeresspiegel und ist während der Flut teilweise überflutet. Auf dem Rim wachsen niedrige Sträucher und Gräser. Die Riffkante fällt steil zum Ozean ab. Der Rim bietet Lebensraum für Fische und wirbellose Tiere und ist ein wichtiger Bereich für die Nahrungssuche von Seevögeln.",
+      hu: "A Manra Rim a Manra-atoll külső pereme a Phoenix-szigetcsoportban, Kiribatiban. Korallzátonyokból és homokpadokból áll, amelyek a lagúnát övezik. A perem csak néhány méterrel emelkedik a tengerszint fölé, dagálykor részben elönti. Alacsony cserjék és füvek nőnek rajta. A zátony széle meredeken ereszkedik az óceánba. Élőhelyet biztosít halaknak és gerincteleneknek, fontos táplálkozási terület tengerimadarak számára.",
+      ro: "Manra Rim este marginea exterioară a atolului Manra din arhipelagul Phoenix, Kiribati. Este format din recife de corali și bancuri de nisip care înconjoară laguna. Marginea se ridică la doar câțiva metri deasupra nivelului mării, fiind parțial inundată la flux. Pe ea cresc tufișuri joase și ierburi. Marginea recifului coboară abrupt spre ocean. Oferă habitat pentru pești și nevertebrate, fiind o zonă importantă de hrănire pentru păsări marine.",
+      en: "Manra Rim is the outer rim of Manra Atoll in the Phoenix Islands, Kiribati. It consists of coral reefs and sandbanks enclosing the lagoon. The rim rises only a few meters above sea level and is partially flooded at high tide. Low shrubs and grasses grow on it. The reef edge drops steeply to the ocean. It provides habitat for fish and invertebrates, and is an important foraging area for seabirds.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 8 km", "Breite: 100-200 m", "Korallenbedeckung: 50 %", "Durchschnittliche Tiefe: 10 m", "Flutbereich: 0-2 m", "Vegetation: niedrige Sträucher"],
+      hu: ["Hossz: kb. 8 km", "Szélesség: 100-200 m", "Korallborítottság: 50%", "Átlagos mélység: 10 m", "Dagályzóna: 0-2 m", "Növényzet: alacsony cserjék"],
+      ro: ["Lungime: cca. 8 km", "Lățime: 100-200 m", "Acoperire coralieră: 50%", "Adâncime medie: 10 m", "Zonă de maree: 0-2 m", "Vegetație: tufișuri joase"],
+      en: ["Length: approx. 8 km", "Width: 100-200 m", "Coral cover: 50%", "Average depth: 10 m", "Tidal range: 0-2 m", "Vegetation: low shrubs"],
+    },
   },
   {
     id: "kiribati-nikumaroro-atoll-relief-v2",
     type: "landmark",
     name: { de: "Nikumaroro-Atoll", hu: "Nikumaroro-atoll", ro: "Atolul Nikumaroro", en: "Nikumaroro Atoll" },
-    coordinates: { lat: -4.666, lng: -174.525 },
+    coords: [-174.525, -4.666],
     description: {
       de: "Dieses längliche Korallenatoll besitzt einen ausgeprägten Riffsaum und eine zentrale Lagune. Es ist bekannt für seine flache, buschbewachsene Topographie.",
       hu: "Ez a megnyúlt korallatoll jellegzetes zátonyszegéllyel és központi lagúnával rendelkezik. Lapos, bokros domborzatáról ismert.",
@@ -152,5 +236,17 @@ export const kiribatiReliefV2: POI[] = [
       en: ["Formerly called Gardner Island", "Length of about 6 km", "Highest points at approx. 5 meters", "Part of the Phoenix Islands Protected Area"],
     },
     imageHint: "Elongated coral island with a lagoon and dense vegetation",
+    descriptionAdvanced: {
+      de: "Nikumaroro-Atoll, auch als Gardner Island bekannt, ist ein unbewohntes Atoll im Phoenix-Archipel, Kiribati. Die Landfläche beträgt etwa 4,1 km², die maximale Höhe 3 Meter. Das Atoll hat eine charakteristische tropfenförmige Lagune. Nikumaroro ist bekannt für die Theorie, dass Amelia Earhart hier 1937 notgelandet sein könnte. Archäologische Expeditionen haben mögliche Überreste einer Siedlung und Knochenfunde gemacht. Die Vegetation umfasst Kokospalmen, Pisonia und Scaevola. Die Insel ist Teil des Phoenix Islands Protected Area.",
+      hu: "Nikumaroro-atoll, más néven Gardner-sziget, lakatlan atoll a Phoenix-szigetcsoportban, Kiribatiban. Szárazföldi területe 4,1 km², legmagasabb pontja 3 méter. Az atoll jellegzetes csepp alakú lagúnával rendelkezik. Híres arról az elméletről, hogy Amelia Earhart 1937-ben itt kényszerleszállást hajtott végre. Régészeti expedíciók találtak lehetséges településnyomokat és csontokat. Növényzete kókuszpálmák, Pisonia és Scaevola. A Phoenix-szigeteki Védett Terület része.",
+      ro: "Atolul Nikumaroro, cunoscut și ca Insula Gardner, este un atol nelocuit în arhipelagul Phoenix, Kiribati. Suprafața terestră este de aproximativ 4,1 km², iar altitudinea maximă de 3 metri. Atolul are o lagună în formă de lacrimă. Este cunoscut pentru teoria că Amelia Earhart ar fi aterizat forțat aici în 1937. Expedițiile arheologice au descoperit posibile rămășițe ale unei așezări și oase. Vegetația include palmieri de cocos, Pisonia și Scaevola. Face parte din Zona Protejată a Insulelor Phoenix.",
+      en: "Nikumaroro Atoll, also known as Gardner Island, is an uninhabited atoll in the Phoenix Islands, Kiribati. Its land area is about 4.1 km², with a maximum elevation of 3 meters. The atoll has a distinctive teardrop-shaped lagoon. It is famous for the theory that Amelia Earhart might have made an emergency landing here in 1937. Archaeological expeditions have found potential settlement remains and bone fragments. Vegetation includes coconut palms, Pisonia, and Scaevola. It is part of the Phoenix Islands Protected Area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 4,1 km²", "Höhe: 3 m", "Lagunenfläche: 20 km²", "Earhart-Theorie: 1937", "Entdeckt: 1820 von F. W. Beechey", "Teil des Phoenix Islands Protected Area"],
+      hu: ["Terület: 4,1 km²", "Magasság: 3 m", "Lagúna területe: 20 km²", "Earhart-elmélet: 1937", "Felfedezés: 1820, F. W. Beechey", "Phoenix-szigeteki Védett Terület része"],
+      ro: ["Suprafață: 4,1 km²", "Altitudine: 3 m", "Suprafața lagunei: 20 km²", "Teoria Earhart: 1937", "Descoperit: 1820 de F. W. Beechey", "Parte a Zonei Protejate a Insulelor Phoenix"],
+      en: ["Area: 4.1 km²", "Elevation: 3 m", "Lagoon area: 20 km²", "Earhart theory: 1937", "Discovered: 1820 by F. W. Beechey", "Part of Phoenix Islands Protected Area"],
+    },
   }
 ];

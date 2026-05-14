@@ -790,7 +790,7 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     id: "burkinafaso-kabore-tambi-national-park-life-v2",
     type: "park",
     name: { de: "Nationalpark Kaboré Tambi", hu: "Kaboré Tambi Nemzeti Park", ro: "Parcul Național Kaboré Tambi", en: "Kaboré Tambi National Park" },
-    coordinates: { lat: 11.5833, lng: -1.25 },
+    coords: [-1.25, 11.5833],
     description: {
       de: "Dieser Nationalpark liegt zwischen Ouagadougou und Pô am Roten Volta. Er schützt Galeriewälder und dient als wichtiger Lebensraum für Elefanten.",
       hu: "Ez a nemzeti park Ouagadougou és Pô között terül el a Vörös-Volta mentén. Galériaerdőket védelmez és fontos elefánt-élőhely.",

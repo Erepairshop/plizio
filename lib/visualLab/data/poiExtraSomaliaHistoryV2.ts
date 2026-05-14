@@ -817,7 +817,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-kismayo-dervish-fort-history-v2",
     type: "fort",
     name: { de: "Kismayo Derwisch-Festung", hu: "Kismayo dervis erőd", ro: "Fortăreața Derviș din Kismayo", en: "Kismayo Dervish Fort" },
-    coordinates: { lat: -0.354, lng: 42.548 },
+    coords: [42.548, -0.354],
     description: {
       de: "Diese historische Befestigungsanlage wurde während des Dervisch-Aufstands im frühen 20. Jahrhundert errichtet. Sie diente als strategischer Verteidigungspunkt in der Region Jubaland.",
       hu: "Ezt a történelmi erődítményt a dervis-felkelés idején építették a 20. század elején. Jubaland régió stratégiai védelmi pontjaként szolgált.",
@@ -836,7 +836,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-ayaha-stone-tomb-history-v2",
     type: "ruins",
     name: { de: "Ayaha Steingrab", hu: "Ayaha kősír", ro: "Mormântul de piatră Ayaha", en: "Ayaha Stone Tomb" },
-    coordinates: { lat: 9.56, lng: 44.11 },
+    coords: [44.11, 9.56],
     description: {
       de: "Ein antikes Grabmal aus behauenem Stein, das in das erste Jahrtausend datiert wird. Es gehört zu den archäologischen Funden der Golis-Berge.",
       hu: "Faragott kőből készült antik sír, amely az első évezredre datálható. A Golis-hegység régészeti leletei közé tartozik.",
@@ -855,7 +855,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-berbera-ottoman-fort-history-v2",
     type: "fort",
     name: { de: "Osmanisches Fort Berbera", hu: "Berberai oszmán erőd", ro: "Fortăreața Otomană din Berbera", en: "Berbera Ottoman Fort" },
-    coordinates: { lat: 10.435, lng: 45.013 },
+    coords: [45.013, 10.435],
     description: {
       de: "Überreste einer Befestigung, die während der osmanischen Präsenz am Golf von Aden errichtet wurde. Die Anlage schützte den wichtigen Handelshafen.",
       hu: "Az Ádeni-öbölben az oszmán jelenlét idején épült erődítmény maradványai. A létesítmény a fontos kereskedelmi kikötőt védte.",
@@ -874,7 +874,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-laas-geel-cave-paintings-extension-history-v2",
     type: "ruins",
     name: { de: "Laas Geel Felsmalereien II", hu: "Laas Geel sziklafestmények II", ro: "Picturi rupestre Laas Geel II", en: "Laas Geel Rock Art Extension" },
-    coordinates: { lat: 9.77, lng: 44.13 },
+    coords: [44.13, 9.77],
     description: {
       de: "Ein benachbarter archäologischer Sektor des berühmten Laas-Geel-Komplexes mit weiteren prähistorischen Darstellungen von Rindern. Datierung auf etwa 3000 v. Chr.",
       hu: "A híres Laas Geel komplexum szomszédos régészeti szektora, további őskori szarvasmarha-ábrázolásokkal. Dátuma körülbelül Kr. e. 3000.",
@@ -893,7 +893,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-zeila-ancient-docks-history-v2",
     type: "ruins",
     name: { de: "Antike Hafenanlagen Zeila", hu: "Zeila antik kikötőművek", ro: "Docuri antice Zeila", en: "Zeila Ancient Docks" },
-    coordinates: { lat: 11.355, lng: 43.468 },
+    coords: [43.468, 11.355],
     description: {
       de: "Überreste der mittelalterlichen Hafeninfrastruktur des Adal-Sultanats. Zeila war einst einer der wichtigsten Häfen am Roten Meer.",
       hu: "Az Adal Szultanátus középkori kikötői infrastruktúrájának maradványai. Zeila egykor a Vörös-tenger egyik legfontosabb kikötője volt.",
@@ -912,7 +912,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-galkayo-historical-mosque-history-v2",
     type: "church",
     name: { de: "Historische Moschee Galkayo", hu: "Galkayo történelmi mecset", ro: "Moscheea istorică Galkayo", en: "Galkayo Historical Mosque" },
-    coordinates: { lat: 6.76, lng: 47.43 },
+    coords: [47.43, 6.76],
     description: {
       de: "Ein altes Gebetshaus aus dem frühen 20. Jahrhundert, das den Baustil der Region Mudug repräsentiert. Es ist ein wichtiger Ort für die lokale Stadtgeschichte.",
       hu: "Egy 20. század eleji régi imaház, amely a Mudug régió építészeti stílusát képviseli. A helyi városi történelem fontos helyszíne.",
@@ -931,7 +931,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-bandar-beyla-colonial-ruins-history-v2",
     type: "ruins",
     name: { de: "Bandar Beyla Kolonialruinen", hu: "Bandar Beyla gyarmati romok", ro: "Ruine coloniale Bandar Beyla", en: "Bandar Beyla Colonial Ruins" },
-    coordinates: { lat: 9.49, lng: 50.75 },
+    coords: [50.75, 9.49],
     description: {
       de: "Reste von Verwaltungsgebäuden aus der Zeit der italienischen Kolonialverwaltung. Die Ruinen liegen direkt an der Küste des Indischen Ozeans.",
       hu: "Az olasz gyarmati közigazgatás idejéből származó közigazgatási épületek maradványai. A romok közvetlenül az Indiai-óceán partján fekszenek.",
@@ -950,7 +950,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-el-bur-stone-quarries-history-v2",
     type: "ruins",
     name: { de: "El Bur Steinbrüche", hu: "El Bur kőbányák", ro: "Carierele de piatră El Bur", en: "El Bur Stone Quarries" },
-    coordinates: { lat: 4.67, lng: 46.62 },
+    coords: [46.62, 4.67],
     description: {
       de: "Historische Abbaustätten für den weichen Sandstein, der für den Bau vieler Gebäude in Zentral-Somalia verwendet wurde. Seit Jahrhunderten in Betrieb.",
       hu: "Történelmi bányászati helyek a puha homokkő számára, amelyet Közép-Szomália számos épületének építéséhez használtak. Évszázadok óta működik.",
@@ -969,7 +969,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-qoorgaab-ancient-settlement-history-v2",
     type: "ruins",
     name: { de: "Qoorgaab Siedlungsreste", hu: "Qoorgaab településmaradványok", ro: "Rămășițe așezare Qoorgaab", en: "Qoorgaab Ancient Settlement" },
-    coordinates: { lat: 10.15, lng: 48.95 },
+    coords: [48.95, 10.15],
     description: {
       de: "Ruinen einer alten Siedlung, die für ihre Keramikfunde bekannt ist. Sie zeugt von komplexen Handelsnetzwerken im frühen Somalia.",
       hu: "Egy ősi település romjai, amely kerámialeleteiről ismert. A korai Szomália összetett kereskedelmi hálózatairól tanúskodik.",
@@ -988,7 +988,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-barawe-old-town-district-history-v2",
     type: "ruins",
     name: { de: "Altstadtviertel Barawe", hu: "Barawe óvárosi negyed", ro: "Districtul vechi Barawe", en: "Barawe Old Town District" },
-    coordinates: { lat: 1.11, lng: 44.01 },
+    coords: [44.01, 1.11],
     description: {
       de: "Ein gut erhaltener Teil des historischen Stadtzentrums mit korallinen Kalksteinhäusern. Es zeigt den architektonischen Einfluss der Swahili-Kultur.",
       hu: "A történelmi városközpont jól megőrzött része, korallos mészkőházakkal. A szuahéli kultúra építészeti hatását mutatja.",
@@ -1007,7 +1007,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-alula-dervish-lookout-history-v2",
     type: "tower",
     name: { de: "Alula Dervisch-Wachturm", hu: "Alula dervis őrtorony", ro: "Turnul de veghe Derviș Alula", en: "Alula Dervish Lookout" },
-    coordinates: { lat: 11.96, lng: 50.75 },
+    coords: [50.75, 11.96],
     description: {
       de: "Ein Wachturm aus der Zeit des Widerstands der Dervische gegen die kolonialen Mächte. Von hier aus wurde die Küste überwacht.",
       hu: "A dervisek gyarmati hatalmak elleni ellenállásának korából származó őrtorony. Innen figyelték a partvidéket.",
@@ -1026,7 +1026,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-borama-historical-wells-history-v2",
     type: "ruins",
     name: { de: "Historische Brunnen Borama", hu: "Borama történelmi kutak", ro: "Fântânile istorice Borama", en: "Borama Historical Wells" },
-    coordinates: { lat: 9.93, lng: 43.2 },
+    coords: [43.2, 9.93],
     description: {
       de: "Alte Wasserstellen, die für die Karawanenrouten des Nordens lebenswichtig waren. Sie zeugen von der frühen Besiedlung der Region.",
       hu: "Régi víznyerő helyek, amelyek létfontosságúak voltak az északi karavánutak számára. A régió korai betelepüléséről tanúskodnak.",
@@ -1045,7 +1045,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-merca-port-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Hafens Merca", hu: "Merca kikötőromok", ro: "Ruinele portului Merca", en: "Merca Port Ruins" },
-    coordinates: { lat: 1.71, lng: 44.77 },
+    coords: [44.77, 1.71],
     description: {
       de: "Überreste der historischen Kaimauern des Hafens von Merca. Diese zeugen von der intensiven Handelsgeschichte der Stadt am Indischen Ozean.",
       hu: "A Merca kikötő történelmi rakpartjainak maradványai. Ezek tanúskodnak a város intenzív kereskedelmi történelméről az Indiai-óceánon.",
@@ -1064,7 +1064,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-baidoa-cave-ruins-history-v2",
     type: "ruins",
     name: { de: "Höhlensiedlung Baidoa", hu: "Baidoa barlangtelepülés", ro: "Așezarea din peșteră Baidoa", en: "Baidoa Cave Settlement" },
-    coordinates: { lat: 3.12, lng: 43.65 },
+    coords: [43.65, 3.12],
     description: {
       de: "Archäologisch relevante Höhlen nahe Baidoa, die Spuren menschlicher Besiedlung aus prähistorischer Zeit aufweisen.",
       hu: "Baidoa közelében lévő régészetileg releváns barlangok, amelyek az őskori emberi letelepedés nyomait mutatják.",
@@ -1083,7 +1083,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-las-anod-dervish-tomb-history-v2",
     type: "monument",
     name: { de: "Dervisch-Grabmal Las Anod", hu: "Las Anod dervis sírbolt", ro: "Mormântul Derviș Las Anod", en: "Las Anod Dervish Tomb" },
-    coordinates: { lat: 8.47, lng: 47.35 },
+    coords: [47.35, 8.47],
     description: {
       de: "Ein Gedenkbau für einen wichtigen Kämpfer des Dervisch-Widerstands. Er ist ein zentrales Symbol der lokalen Geschichte.",
       hu: "Emléképítmény a dervis-ellenállás egy fontos harcosa számára. A helyi történelem központi jelképe.",
@@ -1102,7 +1102,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-xuddur-stone-fort-history-v2",
     type: "fort",
     name: { de: "Steinfestung Xuddur", hu: "Xuddur kőerőd", ro: "Fortăreața de piatră Xuddur", en: "Xuddur Stone Fort" },
-    coordinates: { lat: 4.12, lng: 43.88 },
+    coords: [43.88, 4.12],
     description: {
       de: "Überreste einer Verteidigungsanlage, die strategisch wichtig für das Hinterland war. Die Mauern bestehen aus lokalem Stein.",
       hu: "A hátország számára stratégiai jelentőségű védelmi létesítmény maradványai. A falak helyi kőből készültek.",
@@ -1121,7 +1121,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-warsheikh-ancient-mosque-history-v2",
     type: "church",
     name: { de: "Alte Moschee Warsheikh", hu: "Warsheikh régi mecset", ro: "Vechea Moschee Warsheikh", en: "Warsheikh Ancient Mosque" },
-    coordinates: { lat: 2.3, lng: 45.38 },
+    coords: [45.38, 2.3],
     description: {
       de: "Eine historische Moschee, die für ihren schlichten, aber robusten Stil bekannt ist. Sie ist ein Beispiel für den Küstenbau des Mittelalters.",
       hu: "Történelmi mecset, amely egyszerű, de robusztus stílusáról ismert. A középkori tengerparti építészet példája.",
@@ -1140,7 +1140,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-hobyo-sultan-palace-ruins-history-v2",
     type: "palace",
     name: { de: "Hobyo Sultanspalast Ruinen", hu: "Hobyo szultáni palota romok", ro: "Ruinele Palatului Sultanului Hobyo", en: "Hobyo Sultan Palace Ruins" },
-    coordinates: { lat: 5.35, lng: 48.53 },
+    coords: [48.53, 5.35],
     description: {
       de: "Ruinen des Palastes des Sultans von Hobyo. Die Anlage war das politische Zentrum des mächtigen Sultanats im 19. Jahrhundert.",
       hu: "A Hobyo szultán palotájának romjai. A létesítmény a hatalmas szultanátus politikai központja volt a 19. században.",
@@ -1159,7 +1159,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "somalia-qandala-historical-fortification-history-v2",
     type: "fort",
     name: { de: "Qandala Historische Befestigung", hu: "Qandala történelmi erődítmény", ro: "Fortificația istorică Qandala", en: "Qandala Historical Fortification" },
-    coordinates: { lat: 11.48, lng: 49.88 },
+    coords: [49.88, 11.48],
     description: {
       de: "Eine Befestigungsanlage an der Küste, die zum Schutz gegen Piraterie und koloniale Vorstöße im 19. Jahrhundert erbaut wurde.",
       hu: "Egy tengerparti erődítmény, amelyet a kalózkodás és a gyarmati törekvések elleni védelemre építettek a 19. században.",

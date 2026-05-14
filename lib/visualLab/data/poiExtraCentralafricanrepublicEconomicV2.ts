@@ -969,7 +969,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-ngakobo-sugar-plant-economic-v2",
     type: "factory",
     name: { de: "Zuckerwerk Ngakobo", hu: "Ngakobo cukorüzem", ro: "Fabrica de zahăr Ngakobo", en: "Ngakobo Sugar Plant" },
-    coordinates: { lat: 5.4833, lng: 21.0 },
+    coords: [21.0, 5.4833],
     description: {
       de: "Die Fabrik in Ngakobo ist eine bedeutende Verarbeitungsanlage für lokal angebautes Zuckerrohr. Sie trägt wesentlich zur regionalen Agrarwirtschaft bei.",
       hu: "A ngakobói üzem a helyben termesztett cukornád jelentős feldolgozóhelye. Fontos szerepet játszik a régió mezőgazdasági gazdaságában.",
@@ -1000,7 +1000,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-damara-agri-hub-economic-v2",
     type: "industry",
     name: { de: "Agrarzentrum Damara", hu: "Damara mezőgazdasági központ", ro: "Centru agricol Damara", en: "Damara Agricultural Hub" },
-    coordinates: { lat: 4.95, lng: 18.7 },
+    coords: [18.7, 4.95],
     description: {
       de: "Das Zentrum in Damara koordiniert den Vertrieb von Grundnahrungsmitteln. Es dient als wichtiger Umschlagplatz für landwirtschaftliche Erzeugnisse.",
       hu: "A damarai központ az alapvető élelmiszerek forgalmazását koordinálja. Fontos átrakodóhelyként szolgál a mezőgazdasági termékek számára.",
@@ -1031,7 +1031,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-kabo-timber-depot-economic-v2",
     type: "industry",
     name: { de: "Holzlager Kabo", hu: "Kabo faipari raktár", ro: "Depozit de cherestea Kabo", en: "Kabo Timber Depot" },
-    coordinates: { lat: 7.7, lng: 18.63 },
+    coords: [18.63, 7.7],
     description: {
       de: "Der Standort Kabo fungiert als zentrales Lager für forstwirtschaftliche Produkte. Er reguliert den Abtransport von Hartholz aus der nördlichen Region.",
       hu: "A kabói telephely a faipari termékek központi raktáraként funkcionál. Szabályozza az északi régióból származó keményfa szállítását.",
@@ -1062,7 +1062,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-bocaranga-livestock-market-economic-v2",
     type: "industry",
     name: { de: "Viehmarkt Bocaranga", hu: "Bocaranga állatvásár", ro: "Piața de animale Bocaranga", en: "Bocaranga Livestock Market" },
-    coordinates: { lat: 7.42, lng: 15.6 },
+    coords: [15.6, 7.42],
     description: {
       de: "Der Viehmarkt in Bocaranga ist der größte Knotenpunkt für den Tierhandel im Nordwesten. Er versorgt die Region mit Fleisch und Nutztieren.",
       hu: "A bocarangai állatvásár az északnyugati régió legnagyobb állatkereskedelmi csomópontja. Hússal és haszonállatokkal látja el a vidéket.",
@@ -1093,7 +1093,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-ouadda-mining-logistics-economic-v2",
     type: "mine",
     name: { de: "Bergbau-Logistik Ouadda", hu: "Ouadda bányászati logisztika", ro: "Logistică minieră Ouadda", en: "Ouadda Mining Logistics" },
-    coordinates: { lat: 8.07, lng: 22.4 },
+    coords: [22.4, 8.07],
     description: {
       de: "Ouadda dient als operatives Zentrum für die Verwaltung von Bergbauaktivitäten im Osten. Die Infrastruktur unterstützt den Zugang zu Fördergebieten.",
       hu: "Ouadda a keleti bányászati tevékenységek operatív központja. Az infrastruktúra támogatja a bányászati területek elérését.",
@@ -1124,7 +1124,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-mbaiki-coffee-processing-economic-v2",
     type: "factory",
     name: { de: "Kaffeeverarbeitung Mbaïki", hu: "Mbaïki kávéfeldolgozó", ro: "Procesare cafea Mbaïki", en: "Mbaïki Coffee Processing" },
-    coordinates: { lat: 3.86, lng: 17.98 },
+    coords: [17.98, 3.86],
     description: {
       de: "Diese Anlage in Mbaïki bereitet Kaffeebohnen für den Markt auf. Sie verarbeitet Ernten aus den umliegenden tropischen Plantagen.",
       hu: "Ez a létesítmény Mbaïki-ben kávébabot készít elő a piacra. A környező trópusi ültetvényekről származó termést dolgozza fel.",
@@ -1155,7 +1155,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-boda-trading-center-economic-v2",
     type: "city",
     name: { de: "Handelszentrum Boda", hu: "Boda kereskedelmi központ", ro: "Centru comercial Boda", en: "Boda Trading Center" },
-    coordinates: { lat: 4.3, lng: 17.46 },
+    coords: [17.46, 4.3],
     description: {
       de: "Boda ist ein lokales Zentrum für den Handel mit Agrarprodukten und Waren des täglichen Bedarfs. Es verbindet den Süden mit dem zentralen Markt.",
       hu: "Boda a mezőgazdasági termékek és mindennapi áruk kereskedelmének helyi központja. Összeköti a déli régiót a központi piaccal.",
@@ -1186,7 +1186,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-sibut-transport-hub-economic-v2",
     type: "city",
     name: { de: "Verkehrsknoten Sibut", hu: "Sibut közlekedési csomópont", ro: "Nod de transport Sibut", en: "Sibut Transport Hub" },
-    coordinates: { lat: 5.72, lng: 19.07 },
+    coords: [19.07, 5.72],
     description: {
       de: "Sibut ist ein wichtiger Knotenpunkt für den Gütertransport im Zentrum des Landes. Hier treffen mehrere Versorgungsstraßen aufeinander.",
       hu: "Sibut az ország közepén található áruszállítási csomópont. Több ellátási útvonal fut itt össze.",
@@ -1217,7 +1217,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-gambo-river-port-economic-v2",
     type: "port",
     name: { de: "Flusshafen Gambo", hu: "Gambo folyami kikötő", ro: "Port fluvial Gambo", en: "Gambo River Port" },
-    coordinates: { lat: 4.65, lng: 22.25 },
+    coords: [22.25, 4.65],
     description: {
       de: "Der Hafen von Gambo am Mbomou-Fluss dient dem regionalen Handel. Er wird für den Transport von Gütern auf dem Wasserweg genutzt.",
       hu: "A Mbomou-folyón található gambói kikötő a regionális kereskedelmet szolgálja. Vízi áruszállításra használják.",
@@ -1248,7 +1248,7 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
     id: "centralafricanrepublic-kaga-bandoro-market-economic-v2",
     type: "city",
     name: { de: "Markt Kaga-Bandoro", hu: "Kaga-Bandoro piac", ro: "Piața Kaga-Bandoro", en: "Kaga-Bandoro Market" },
-    coordinates: { lat: 6.97, lng: 19.18 },
+    coords: [19.18, 6.97],
     description: {
       de: "Der Markt in Kaga-Bandoro fungiert als zentraler Handelsplatz für die nördlichen Präfekturen. Hier werden Waren getauscht und verkauft.",
       hu: "A kaga-bandorói piac az északi prefektúrák központi kereskedelmi helyszíne. Itt zajlik az áruk cseréje és értékesítése.",
@@ -1262,6 +1262,18 @@ export const poiExtraCentralafricanrepublicEconomicV2: POI[] = [
       en: ["Trading center for the north", "Transshipment point for local goods", "Main market for the region", "Strategically located"],
     },
     imageHint: "outdoor market in Kaga-Bandoro",
+    descriptionAdvanced: {
+      de: "Der Markt von Kaga-Bandoro in der Zentralafrikanischen Republik ist das wirtschaftliche Zentrum der Präfektur Nana-Grébizi. Er findet täglich statt und bietet eine Vielzahl von Waren, darunter landwirtschaftliche Produkte wie Maniok, Erdnüsse und Obst, sowie Handwerkskunst und Textilien. Der Markt ist ein wichtiger Umschlagplatz für den Handel zwischen ländlichen Produzenten und städtischen Händlern. Aufgrund der instabilen Sicherheitslage im Land hat der Markt zeitweise unterbrochene Aktivitäten erlebt, bleibt aber ein Lebensnerv der lokalen Wirtschaft. Händler reisen aus entlegenen Dörfern an, um ihre Waren zu verkaufen.",
+      hu: "A közép-afrikai Köztársaságbeli Kaga-Bandoro piaca a Nana-Grébizi prefektúra gazdasági központja. Naponta tartják, és sokféle árut kínál, beleértve a mezőgazdasági termékeket, mint a manióka, földimogyoró és gyümölcsök, valamint kézműves termékeket és textíliákat. A piac fontos csomópont a vidéki termelők és a városi kereskedők közötti kereskedelemben. Az ország instabil biztonsági helyzete miatt a piac időszakosan megszakításokkal működött, de továbbra is a helyi gazdaság éltető eleme. A kereskedők távoli falvakból utaznak ide, hogy eladják áruikat.",
+      ro: "Piața din Kaga-Bandoro din Republica Centrafricană este centrul economic al prefecturii Nana-Grébizi. Are loc zilnic și oferă o varietate de bunuri, inclusiv produse agricole precum manioc, arahide și fructe, precum și meșteșuguri și textile. Piața este un nod important pentru comerțul dintre producătorii rurali și comercianții urbani. Din cauza situației de securitate instabile din țară, piața a cunoscut întreruperi periodice, dar rămâne o arteră vitală a economiei locale. Negustorii călătoresc din sate îndepărtate pentru a-și vinde mărfurile.",
+      en: "The Kaga-Bandoro market in the Central African Republic is the economic hub of the Nana-Grébizi prefecture. It is held daily and offers a variety of goods including agricultural products such as cassava, peanuts, and fruits, as well as handicrafts and textiles. The market is a key node for trade between rural producers and urban traders. Due to the country's unstable security situation, the market has experienced intermittent disruptions, but it remains a lifeline of the local economy. Traders travel from remote villages to sell their goods.",
+    },
+    factsAdvanced: {
+      de: ["Kaga-Bandoro liegt etwa 300 km nördlich von Bangui.", "Der Markt operiert täglich von 6 bis 18 Uhr.", "Die Stadt Kaga-Bandoro hat ca. 56.000 Einwohner.", "Maniok ist das wichtigste Handelsgut auf dem Markt.", "Der Markt erstreckt sich über ca. 2 Hektar.", "Die Region Nana-Grébizi hat eine Fläche von 19.996 km²."],
+      hu: ["Kaga-Bandoro körülbelül 300 km-re északra fekszik Banguitól.", "A piac naponta 6-tól 18 óráig tart nyitva.", "Kaga-Bandoro városának körülbelül 56 000 lakosa van.", "A manióka a legfontosabb kereskedelmi áru a piacon.", "A piac körülbelül 2 hektáron terül el.", "Nana-Grébizi prefektúra területe 19 996 km²."],
+      ro: ["Kaga-Bandoro este situat la aproximativ 300 km nord de Bangui.", "Piața funcționează zilnic între orele 6 și 18.", "Orașul Kaga-Bandoro are aproximativ 56.000 de locuitori.", "Maniocul este cel mai important produs comercializat pe piață.", "Piața se întinde pe aproximativ 2 hectare.", "Prefectura Nana-Grébizi are o suprafață de 19.996 km²."],
+      en: ["Kaga-Bandoro is located about 300 km north of Bangui.", "The market operates daily from 6 AM to 6 PM.", "Kaga-Bandoro city has approximately 56,000 inhabitants.", "Cassava is the most traded commodity at the market.", "The market spans about 2 hectares.", "Nana-Grébizi prefecture covers an area of 19,996 km²."],
+    },
   }
 ];
 

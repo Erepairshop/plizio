@@ -5,7 +5,7 @@ export const republicofcongoHistoryV2: POI[] = [
     id: "republicofcongo-loango-harbor-history-v2",
     type: "port",
     name: { de: "Hafen von Loango", hu: "Loango kikötő", ro: "Portul Loango", en: "Loango Harbor" },
-    coordinates: { lat: -4.64, lng: 11.75 },
+    coords: [11.75, -4.64],
     description: {
       de: "Loango war ein zentraler Umschlagplatz für den Sklavenhandel im 17. und 18. Jahrhundert. Heute dient der Ort als wichtiges historisches Mahnmal.",
       hu: "Loango központi átrakodóhely volt a rabszolga-kereskedelemben a 17. és 18. században. Ma a hely fontos történelmi emlékhelyként szolgál.",
@@ -24,7 +24,7 @@ export const republicofcongoHistoryV2: POI[] = [
     id: "republicofcongo-poto-poto-history-v2",
     type: "city",
     name: { de: "Poto-Poto historisches Viertel", hu: "Poto-Poto történelmi negyed", ro: "Cartierul istoric Poto-Poto", en: "Poto-Poto historic quarter" },
-    coordinates: { lat: -4.26, lng: 15.26 },
+    coords: [15.26, -4.26],
     description: {
       de: "Das 1909 gegründete Viertel Poto-Poto in Brazzaville ist bekannt für seine koloniale Architektur. Es spielte eine zentrale Rolle bei der Stadtentwicklung.",
       hu: "Az 1909-ben alapított brazzaville-i Poto-Poto negyed híres koloniális építészetéről. Központi szerepet játszott a város fejlődésében.",
@@ -43,7 +43,7 @@ export const republicofcongoHistoryV2: POI[] = [
     id: "republicofcongo-mouyondzi-site-history-v2",
     type: "ruins",
     name: { de: "Mouyondzi archäologische Stätte", hu: "Mouyondzi régészeti lelőhely", ro: "Sit arheologic Mouyondzi", en: "Mouyondzi archaeological site" },
-    coordinates: { lat: -3.98, lng: 13.9 },
+    coords: [13.9, -3.98],
     description: {
       de: "Mouyondzi beherbergt Überreste antiker Siedlungen aus der Eisenzeit. Archäologische Funde belegen hier eine jahrhundertealte Besiedlung.",
       hu: "Mouyondzi az vaskori ősi települések maradványait őrzi. A régészeti leletek több évszázados megtelepedést igazolnak itt.",
@@ -62,7 +62,7 @@ export const republicofcongoHistoryV2: POI[] = [
     id: "republicofcongo-dolisie-railway-history-v2",
     type: "museum",
     name: { de: "Dolisie Eisenbahnmuseum", hu: "Dolisie vasúti múzeum", ro: "Muzeul feroviar Dolisie", en: "Dolisie railway museum" },
-    coordinates: { lat: -4.19, lng: 12.67 },
+    coords: [12.67, -4.19],
     description: {
       de: "Dolisie war ein Knotenpunkt der Congo-Océan-Bahn. Das Museum zeigt die Geschichte des Eisenbahnbaus zu Beginn des 20. Jahrhunderts.",
       hu: "Dolisie a Congo-Océan vasút csomópontja volt. A múzeum a 20. század eleji vasútépítés történetét mutatja be.",

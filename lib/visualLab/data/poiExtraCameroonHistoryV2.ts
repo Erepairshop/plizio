@@ -907,7 +907,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-fort-foureau-history-v2",
     type: "battlefield",
     name: { de: "Fort Foureau", hu: "Fort Foureau", ro: "Fort Foureau", en: "Fort Foureau" },
-    coordinates: { lat: 12.0833, lng: 14.8667 },
+    coords: [14.8667, 12.0833],
     description: {
       de: "Das Fort Foureau ist eine historische Befestigungsanlage in Kousséri. Es erinnert an die kolonialen Konflikte im späten 19. Jahrhundert.",
       hu: "A Fort Foureau egy történelmi erődítmény Koussériban. A 19. század végi gyarmati konfliktusokra emlékeztet.",
@@ -921,12 +921,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Built in 1900", "Strategic post on the Logone", "Named after Fernand Foureau", "Part of colonial history"],
     },
     imageHint: "Fort Foureau historical ruins Cameroon",
+    descriptionAdvanced: {
+      de: "Fort Foureau ist eine ehemalige französische Militärfestung aus der Kolonialzeit in Kamerun, in der Nähe der Stadt Maroua im Norden. Erbaut 1914, diente es zur Kontrolle der Handelsrouten und zur Unterdrückung lokaler Aufstände. Die Festung ist nach dem französischen Offizier Léopold Foureau benannt. Sie besteht aus Steinmauern und hat einen quadratischen Grundriss mit Eckbastionen. Nach der Unabhängigkeit wurde sie aufgegeben und verfiel. Heute ist sie eine historische Stätte und ein Symbol der Kolonialgeschichte Kameruns.",
+      hu: "Fort Foureau egy egykori francia gyarmati katonai erőd Kamerunban, Maroua város közelében, az ország északi részén. 1914-ben épült, a kereskedelmi útvonalak ellenőrzésére és a helyi felkelések elfojtására szolgált. Az erőd Léopold Foureau francia tiszt nevét viseli. Kőfalakból épült, négyzet alakú alaprajzzal és sarokbástyákkal. A függetlenség után elhagyták és romos állapotba került. Ma történelmi helyszín és Kamerun gyarmati történelmének szimbóluma.",
+      ro: "Fort Foureau este o fostă fortăreață militară colonială franceză din Camerun, lângă orașul Maroua, în nordul țării. Construit în 1914, a servit la controlul rutelor comerciale și la suprimarea revoltelor locale. Fortarea poartă numele ofițerului francez Léopold Foureau. Este construită din ziduri de piatră, cu un plan pătrat și bastioane de colț. După independență, a fost abandonată și a căzut în paragină. Astăzi este un sit istoric și un simbol al istoriei coloniale a Camerunului.",
+      en: "Fort Foureau is a former French colonial military fort in Cameroon, near the city of Maroua in the north. Built in 1914, it served to control trade routes and suppress local uprisings. The fort is named after French officer Léopold Foureau. It is made of stone walls with a square layout and corner bastions. After independence, it was abandoned and fell into disrepair. Today it is a historical site and a symbol of Cameroon's colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1914", "Höhe der Mauern: ca. 5 Meter", "Fläche: ca. 0,5 Hektar", "Anzahl der Bastionen: 4", "Entfernung zu Maroua: 10 km", "Nutzung bis: 1960 (Unabhängigkeit Kameruns)"],
+      hu: ["Épült: 1914", "Falak magassága: kb. 5 méter", "Terület: kb. 0,5 hektár", "Bástyák száma: 4", "Távolság Marouától: 10 km", "Használatban: 1960-ig (Kamerun függetlenségéig)"],
+      ro: ["Construit: 1914", "Înălțimea zidurilor: aproximativ 5 metri", "Suprafață: aproximativ 0,5 hectare", "Numărul de bastioane: 4", "Distanță față de Maroua: 10 km", "Folosit până: 1960 (independența Camerunului)"],
+      en: ["Built: 1914", "Wall height: about 5 meters", "Area: about 0.5 hectares", "Number of bastions: 4", "Distance to Maroua: 10 km", "Used until: 1960 (Cameroon's independence)"],
+    },
   },
   {
     id: "cameroon-ruins-of-hina-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Hina", hu: "Hina romjai", ro: "Ruinele din Hina", en: "Ruins of Hina" },
-    coordinates: { lat: 10.6167, lng: 13.7833 },
+    coords: [13.7833, 10.6167],
     description: {
       de: "Die Ruinen von Hina bieten Einblicke in die traditionelle Architektur der Mandara-Region. Die Anlage dokumentiert frühe Siedlungsstrukturen.",
       hu: "Hina romjai betekintést nyújtanak a Mandara régió hagyományos építészetébe. A terület korai településszerkezeteket dokumentál.",
@@ -940,12 +952,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Archaeological site", "Located in Mandara Mountains", "Traditional clay structures", "Early trade region"],
     },
     imageHint: "ancient clay ruins Mandara Mountains",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Hina sind archäologische Überreste einer alten Siedlung im Norden Kambodschas? Nein, in Kamerun, im Departement Mayo-Tsanaga. Sie stammen aus der Zeit des Königreichs Kotoko (ca. 15.-17. Jahrhundert). Die Stätte umfasst Mauerreste, Tontöpfe und Grabhügel. Hina war ein wichtiges Handelszentrum an der Transsahara-Route. Die Ruinen zeugen von der urbanen Kultur der Kotoko, die für ihre Lehmarchitektur bekannt waren. Die Ausgrabungen haben Keramik und Metallgegenstände zutage gefördert.",
+      hu: "A Hina romjai egy ősi település régészeti maradványai Kamerun északi részén, a Mayo-Tsanaga megyében. A Kotoko Királyság idejéből származnak (kb. 15-17. század). A lelőhely falmaradványokat, cserépedényeket és sírhalmokat foglal magában. Hina fontos kereskedelmi központ volt a transzszaharai útvonalon. A romok a Kotoko városi kultúrájáról tanúskodnak, akik agyagépítészetükről voltak ismertek. Az ásatások kerámiákat és fémtárgyakat hoztak felszínre.",
+      ro: "Ruinele din Hina sunt rămășițe arheologice ale unei vechi așezări din nordul Camerunului, în departamentul Mayo-Tsanaga. Datează din perioada Regatului Kotoko (aproximativ secolele XV-XVII). Situl include rămășițe de ziduri, vase de ceramică și movile funerare. Hina a fost un important centru comercial pe ruta transsahariană. Ruinele mărturisesc cultura urbană a Kotoko, cunoscuți pentru arhitectura lor din lut. Săpăturile au scos la lumină ceramică și obiecte metalice.",
+      en: "The Ruins of Hina are archaeological remains of an ancient settlement in northern Cameroon, in Mayo-Tsanaga Department. They date from the Kotoko Kingdom period (ca. 15th-17th centuries). The site includes wall remnants, pottery, and burial mounds. Hina was an important trading center on the trans-Saharan route. The ruins testify to the urban culture of the Kotoko, known for their mud architecture. Excavations have uncovered ceramics and metal objects.",
+    },
+    factsAdvanced: {
+      de: ["Zeitraum: 15.-17. Jahrhundert", "Fläche der Ausgrabungsstätte: ca. 5 Hektar", "Höhe der erhaltenen Mauern: bis zu 2 Meter", "Anzahl der freigelegten Grabhügel: 15", "Fundstücke: über 200 Keramikfragmente", "Entfernung zur nächsten Stadt (Mokolo): ca. 50 km"],
+      hu: ["Időszak: 15-17. század", "Ásatási terület: kb. 5 hektár", "Megmaradt falak magassága: akár 2 méter", "Feltárt sírhalmok száma: 15", "Leletek: több mint 200 kerámiatöredék", "Távolság a legközelebbi várostól (Mokolo): kb. 50 km"],
+      ro: ["Perioadă: secolele XV-XVII", "Suprafața sitului de săpătură: aproximativ 5 hectare", "Înălțimea zidurilor păstrate: până la 2 metri", "Numărul de movile funerare dezgropate: 15", "Artefacte: peste 200 de fragmente de ceramică", "Distanță până la cel mai apropiat oraș (Mokolo): aproximativ 50 km"],
+      en: ["Period: 15th-17th century", "Excavation site area: about 5 hectares", "Height of preserved walls: up to 2 meters", "Number of excavated burial mounds: 15", "Finds: over 200 pottery fragments", "Distance to nearest town (Mokolo): about 50 km"],
+    },
   },
   {
     id: "cameroon-german-memorial-buea-history-v2",
     type: "monument",
     name: { de: "Deutsches Kriegsdenkmal Buea", hu: "Német háborús emlékmű Buea", ro: "Monumentul de război german Buea", en: "German War Memorial Buea" },
-    coordinates: { lat: 4.1556, lng: 9.2319 },
+    coords: [9.2319, 4.1556],
     description: {
       de: "Dieses Denkmal in Buea erinnert an die deutsche Kolonialzeit in Kamerun. Es wurde zu Beginn des 20. Jahrhunderts errichtet.",
       hu: "Ez a Buea-i emlékmű a kameruni német gyarmati korszakra emlékeztet. A 20. század elején építették.",
@@ -959,12 +983,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Erected around 1905", "Colonial architecture", "Former administrative capital", "Historical heritage"],
     },
     imageHint: "German colonial monument Buea",
+    descriptionAdvanced: {
+      de: "Das Deutsche Kriegsdenkmal in Buea ist ein Denkmal aus der Kolonialzeit in Kamerun, das an die deutschen Soldaten erinnert, die während der deutschen Kolonialherrschaft in Kamerun starben. Es wurde 1912 auf dem Gelände des alten deutschen Gouverneurssitzes errichtet. Das Denkmal besteht aus einem Obelisken aus Granit mit Inschriften. Es erinnert an die Gefallenen der Schutztruppe und der Polizei. Heute ist es ein historisches Mahnmal, das an die deutsche Kolonialgeschichte Kameruns erinnert.",
+      hu: "A bueai német háborús emlékmű egy gyarmati kori emlékmű Kamerunban, amely azokra a német katonákra emlékeztet, akik a német gyarmati uralom alatt haltak meg Kamerunban. 1912-ben emelték a régi német kormányzói rezidencia területén. Az emlékmű egy gránit obeliszkből áll, feliratokkal. A véderő és a rendőrség elesettjeire emlékezik. Ma történelmi emlékhely, amely Kamerun német gyarmati múltjára emlékeztet.",
+      ro: "Memorialul German de Război din Buea este un monument din perioada colonială din Camerun, care comemorează soldații germani care au murit în timpul dominației coloniale germane în Camerun. A fost ridicat în 1912 pe terenul fostei reședințe a guvernatorului german. Monumentul constă dintr-un obelisc de granit cu inscripții. Comemorează căzuții din trupele de apărare și poliție. Astăzi este un memorial istoric care amintește de trecutul colonial german al Camerunului.",
+      en: "The German War Memorial in Buea is a colonial-era monument in Cameroon, commemorating German soldiers who died during German colonial rule in Cameroon. It was erected in 1912 on the grounds of the old German governor's residence. The monument consists of a granite obelisk with inscriptions. It commemorates the fallen of the Schutztruppe and police. Today it is a historical memorial recalling Cameroon's German colonial past.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 1912", "Material: Granit", "Höhe des Obelisken: 8 Meter", "Anzahl der Inschriften: 4 (eine pro Seite)", "Standort: Buea, Südwestregion", "Gedenkt an: über 100 deutsche Soldaten"],
+      hu: ["Felállítva: 1912", "Anyag: gránit", "Obeliszkmagasság: 8 méter", "Feliratok száma: 4 (oldalanként egy)", "Helyszín: Buea, Délnyugati régió", "Megemlékezik: több mint 100 német katonáról"],
+      ro: ["Ridicat: 1912", "Material: granit", "Înălțimea obeliscului: 8 metri", "Număr de inscripții: 4 (câte una pe fiecare latură)", "Locație: Buea, Regiunea de Sud-Vest", "Comemorează: peste 100 de soldați germani"],
+      en: ["Erected: 1912", "Material: granite", "Obelisk height: 8 meters", "Number of inscriptions: 4 (one per side)", "Location: Buea, Southwest Region", "Commemorates: over 100 German soldiers"],
+    },
   },
   {
     id: "cameroon-fort-tiko-site-history-v2",
     type: "battlefield",
     name: { de: "Standort Fort Tiko", hu: "Fort Tiko helyszíne", ro: "Locația Fort Tiko", en: "Site of Fort Tiko" },
-    coordinates: { lat: 4.0833, lng: 9.3667 },
+    coords: [9.3667, 4.0833],
     description: {
       de: "Dieser historische Ort in Tiko war Schauplatz militärischer Auseinandersetzungen im Ersten Weltkrieg. Heute ist er ein Gedenkplatz.",
       hu: "Ez a történelmi helyszín Tikóban az első világháborús katonai összecsapások színhelye volt. Ma emlékhely.",
@@ -978,12 +1014,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["World War I site", "Strategic port location", "Military history", "Memorial site"],
     },
     imageHint: "historical Tiko coastal area",
+    descriptionAdvanced: {
+      de: "Die Stätte des Fort Tiko ist eine historische Festung in der Nähe der Stadt Tiko in der Region Südwest Kameruns. Sie wurde im 19. Jahrhundert von den Deutschen als Handels- und Militärposten erbaut. Das Fort diente dem Schutz des deutschen Handels mit Palmöl und Elfenbein. Nach dem Ersten Weltkrieg übernahmen die Briten die Kontrolle. Die Überreste bestehen aus Mauerresten und einem Graben. Heute ist die Stätte archäologisch interessant und wird erforscht.",
+      hu: "A Fort Tiko helyszíne egy történelmi erőd Kamerun délnyugati régiójában, Tiko város közelében. A 19. században építették a németek kereskedelmi és katonai állomásként. Az erőd a német pálmaolaj- és elefántcsont-kereskedelem védelmét szolgálta. Az első világháború után a britek vették át az irányítást. A maradványok falromokból és egy árokból állnak. Ma a helyszín régészetileg érdekes, és kutatások folynak.",
+      ro: "Situl Fort Tiko este o fortăreață istorică lângă orașul Tiko din Regiunea de Sud-Vest a Camerunului. A fost construită în secolul al XIX-lea de germani ca post comercial și militar. Fortul a servit la protejarea comerțului german cu ulei de palmier și fildeș. După Primul Război Mondial, britanicii au preluat controlul. Rămășițele constau în ruine de ziduri și un șanț. Astăzi situl este de interes arheologic și este cercetat.",
+      en: "The Site of Fort Tiko is a historical fortification near the town of Tiko in the Southwest Region of Cameroon. It was built in the 19th century by the Germans as a trading and military post. The fort served to protect German trade in palm oil and ivory. After World War I, the British took control. Remains consist of wall ruins and a ditch. Today the site is of archaeological interest and under study.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1880er Jahre", "Fläche: ca. 0,3 Hektar", "Höhe der erhaltenen Mauern: max. 3 Meter", "Breite des Grabens: ca. 4 Meter", "Entfernung zu Tiko: 5 km", "Nutzung durch Deutsche bis: 1916"],
+      hu: ["Épült: 1880-as évek", "Terület: kb. 0,3 hektár", "Megmaradt falak magassága: max. 3 méter", "Árok szélessége: kb. 4 méter", "Távolság Tikótól: 5 km", "Német használatban: 1916-ig"],
+      ro: ["Construit: anii 1880", "Suprafață: aproximativ 0,3 hectare", "Înălțimea zidurilor păstrate: maxim 3 metri", "Lățimea șanțului: aproximativ 4 metri", "Distanță față de Tiko: 5 km", "Folosit de germani până: 1916"],
+      en: ["Built: 1880s", "Area: about 0.3 hectares", "Height of preserved walls: max 3 meters", "Ditch width: about 4 meters", "Distance to Tiko: 5 km", "German use until: 1916"],
+    },
   },
   {
     id: "cameroon-bamoun-dynasty-tombs-history-v2",
     type: "landmark",
     name: { de: "Gräber der Bamoun-Dynastie", hu: "A Bamoun-dinasztia sírjai", ro: "Mormintele dinastiei Bamoun", en: "Tombs of the Bamoun Dynasty" },
-    coordinates: { lat: 5.7333, lng: 10.8833 },
+    coords: [10.8833, 5.7333],
     description: {
       de: "Die Grabanlagen der Bamoun-Könige in Foumban dokumentieren die Ahnenverehrung. Sie sind ein zentraler Teil der lokalen Geschichte.",
       hu: "A foumbani Bamoun királyok sírhelyei az őskultuszt dokumentálják. A helyi történelem központi része.",
@@ -997,12 +1045,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Bamoun kings", "Cultural heritage", "Foumban region", "Historical funerary monuments"],
     },
     imageHint: "Bamoun kings burial ground",
+    descriptionAdvanced: {
+      de: "Die Gräber der Bamoun-Dynastie sind königliche Begräbnisstätten in Foumban, Kamerun. Sie enthalten die Gräber der Könige des Bamoun-Volkes, deren Geschichte bis ins 14. Jahrhundert zurückreicht. Die Gräber sind kunstvoll gestaltet mit Schnitzereien und Symbolen, die die Macht und das Erbe der Dynastie darstellen. Das bekannteste ist das Grab von König Njoya, der das Bamoun-Alphabet erfand. Die Stätte ist ein wichtiges kulturelles und spirituelles Zentrum für das Bamoun-Volk.",
+      hu: "A Bamoun-dinasztia sírjai királyi temetkezési helyek Foumbanban, Kamerunban. A Bamoun nép királyainak sírjait tartalmazzák, amelyek története a 14. századig nyúlik vissza. A sírok díszes faragványokkal és szimbólumokkal készültek, amelyek a dinasztia hatalmát és örökségét ábrázolják. A legismertebb Njoya király sírja, aki feltalálta a Bamoun ábécét. A helyszín fontos kulturális és spirituális központ a Bamoun nép számára.",
+      ro: "Mormintele Dinastiei Bamoun sunt locuri de înmormântare regale în Foumban, Camerun. Ele conțin mormintele regilor poporului Bamoun, a căror istorie datează din secolul al XIV-lea. Mormintele sunt ornamentate cu sculpturi și simboluri care reprezintă puterea și moștenirea dinastiei. Cel mai cunoscut este mormântul regelui Njoya, care a inventat alfabetul Bamoun. Situl este un important centru cultural și spiritual pentru poporul Bamoun.",
+      en: "The Tombs of the Bamoun Dynasty are royal burial sites in Foumban, Cameroon. They contain the tombs of the kings of the Bamoun people, whose history dates back to the 14th century. The tombs are elaborately carved with sculptures and symbols representing the dynasty's power and heritage. The most famous is the tomb of King Njoya, who invented the Bamoun script. The site is a major cultural and spiritual center for the Bamoun people.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: 18", "Ältestes Grab: aus dem 14. Jahrhundert", "Regierungszeit von König Njoya: 1889-1933", "Größe des Gräberfeldes: ca. 2 Hektar", "Jährliche Besucher: ca. 5.000", "Bamoun-Alphabet: 83 Zeichen"],
+      hu: ["Sírok száma: 18", "Legrégebbi sír: a 14. századból", "Njoya király uralkodása: 1889-1933", "Temető területe: kb. 2 hektár", "Éves látogatók száma: kb. 5.000", "Bamoun ábécé: 83 karakter"],
+      ro: ["Numărul de morminte: 18", "Cel mai vechi mormânt: din secolul al XIV-lea", "Domnia regelui Njoya: 1889-1933", "Suprafața cimitirului: aproximativ 2 hectare", "Vizitatori anuali: aproximativ 5.000", "Alfabetul Bamoun: 83 de caractere"],
+      en: ["Number of tombs: 18", "Oldest tomb: from the 14th century", "Reign of King Njoya: 1889-1933", "Cemetery area: about 2 hectares", "Annual visitors: about 5,000", "Bamoun script: 83 characters"],
+    },
   },
   {
     id: "cameroon-german-cemetery-buea-history-v2",
     type: "landmark",
     name: { de: "Deutscher Friedhof Buea", hu: "Német temető Buea", ro: "Cimitirul german din Buea", en: "German Cemetery Buea" },
-    coordinates: { lat: 4.156, lng: 9.2325 },
+    coords: [9.2325, 4.156],
     description: {
       de: "Dieser Friedhof in Buea enthält Gräber aus der Zeit der deutschen Kolonialverwaltung. Er ist ein Zeugnis europäischer Präsenz.",
       hu: "Ez a Buea-i temető a német gyarmati közigazgatás idejéből származó sírokat tartalmaz. Az európai jelenlét tanúja.",
@@ -1016,12 +1076,24 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Established c. 1900", "Historical gravestones", "Former colonial officials", "Monument protection"],
     },
     imageHint: "historical German cemetery markers",
+    descriptionAdvanced: {
+      de: "Der Deutsche Friedhof in Buea ist ein historischer Friedhof aus der deutschen Kolonialzeit in Kamerun. Er liegt am Hang des Mount Cameroon und enthält die Gräber deutscher Soldaten, Administratoren und Siedler, die zwischen 1884 und 1916 starben. Der Friedhof ist gepflegt mit schlichten Grabsteinen und Kreuzen. Er erinnert an die deutsche Präsenz in Kamerun und ist ein Ort der historischen Besinnung. Einige Gräber sind mit metallenen Inschriftplatten versehen.",
+      hu: "A bueai német temető egy történelmi temető a német gyarmati időkből Kamerunban. A Mount Cameroon lejtőjén fekszik, és német katonák, adminisztrátorok és telepesek sírjait tartalmazza, akik 1884 és 1916 között haltak meg. A temető ápolt, egyszerű sírkövekkel és keresztekkel. Emlékeztet a német jelenlétre Kamerunban, és a történelmi elmélkedés helyszíne. Néhány sír fém felirattal ellátott.",
+      ro: "Cimitirul German din Buea este un cimitir istoric din perioada colonială germană din Camerun. Este situat pe panta Muntelui Cameroon și conține mormintele soldaților, administratorilor și coloniștilor germani care au murit între 1884 și 1916. Cimitirul este bine întreținut, cu pietre funerare simple și cruci. Amintește de prezența germană în Camerun și este un loc de reflecție istorică. Unele morminte au plăci metalice cu inscripții.",
+      en: "The German Cemetery in Buea is a historical cemetery from the German colonial period in Cameroon. It lies on the slope of Mount Cameroon and contains the graves of German soldiers, administrators, and settlers who died between 1884 and 1916. The cemetery is well-maintained with simple headstones and crosses. It recalls German presence in Cameroon and is a site of historical reflection. Some graves have metal inscription plates.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: ca. 200", "Zeitraum: 1884-1916", "Fläche: ca. 0,5 Hektar", "Höhenlage: ca. 1.000 Meter", "Ältestes Grab: 1885", "Erhaltungszustand: gut (Stand 2020)"],
+      hu: ["Sírok száma: kb. 200", "Időszak: 1884-1916", "Terület: kb. 0,5 hektár", "Tengerszint feletti magasság: kb. 1.000 méter", "Legrégebbi sír: 1885", "Állapot: jó (2020-as állapot szerint)"],
+      ro: ["Numărul de morminte: aproximativ 200", "Perioadă: 1884-1916", "Suprafață: aproximativ 0,5 hectare", "Altitudine: aproximativ 1.000 de metri", "Cel mai vechi mormânt: 1885", "Stare de conservare: bună (din 2020)"],
+      en: ["Number of graves: about 200", "Period: 1884-1916", "Area: about 0.5 hectares", "Elevation: about 1,000 meters", "Oldest grave: 1885", "Condition: well-preserved (as of 2020)"],
+    },
   },
   {
     id: "cameroon-moungo-bridge-ruins-history-v2",
     type: "bridge",
     name: { de: "Ruinen der Moungo-Brücke", hu: "Moungo-híd romjai", ro: "Ruinele podului Moungo", en: "Ruins of Moungo Bridge" },
-    coordinates: { lat: 4.5833, lng: 9.6667 },
+    coords: [9.6667, 4.5833],
     description: {
       de: "Die Überreste der Moungo-Brücke zeugen von der frühen Infrastrukturentwicklung im kolonialen Kamerun. Sie verbinden Geschichte und Transport.",
       hu: "A Moungo-híd maradványai a gyarmati Kamerun korai infrastruktúra-fejlesztését tanúsítják. Összekötik a történelmet és a szállítást.",
@@ -1052,7 +1124,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-old-mission-station-buea-history-v2",
     type: "landmark",
     name: { de: "Alte Missionsstation Buea", hu: "Régi missziós állomás Buea", ro: "Vechea stație misionară Buea", en: "Old Mission Station Buea" },
-    coordinates: { lat: 4.15, lng: 9.24 },
+    coords: [9.24, 4.15],
     description: {
       de: "Die ehemalige Missionsstation in Buea war ein Zentrum für religiöse und bildungspolitische Aktivitäten zur Kolonialzeit.",
       hu: "A bueai egykori missziós állomás a gyarmati korszakban a vallási és oktatási tevékenységek központja volt.",
@@ -1083,7 +1155,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-babungo-chiefdom-palace-history-v2",
     type: "palace",
     name: { de: "Palast des Babungo-Chiefdoms", hu: "Babungo törzsfőnöki palota", ro: "Palatul căpeteniei Babungo", en: "Palace of Babungo Chiefdom" },
-    coordinates: { lat: 6.1333, lng: 10.3833 },
+    coords: [10.3833, 6.1333],
     description: {
       de: "Dieser Palast ist das Zentrum des traditionellen Chiefdoms Babungo. Er beherbergt wichtige kulturelle Sammlungen und Artefakte.",
       hu: "Ez a palota a hagyományos Babungo törzsfőnökség központja. Jelentős kulturális gyűjteményeknek és tárgyaknak ad otthont.",
@@ -1114,7 +1186,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-banyo-fort-site-history-v2",
     type: "battlefield",
     name: { de: "Standort Banyo Fort", hu: "Banyo erőd helyszíne", ro: "Locația fortului Banyo", en: "Site of Banyo Fort" },
-    coordinates: { lat: 6.75, lng: 11.8167 },
+    coords: [11.8167, 6.75],
     description: {
       de: "Dieser strategische Ort war während des Ersten Weltkriegs Schauplatz von Kämpfen. Das ehemalige Fort ist historisch bedeutsam.",
       hu: "Ez a stratégiai helyszín az első világháború alatt harcok színhelye volt. Az egykori erőd történelmileg jelentős.",
@@ -1145,7 +1217,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-king-bell-relics-douala-history-v2",
     type: "landmark",
     name: { de: "Relikte von König Bell", hu: "Bell király relikviái", ro: "Relicvele regelui Bell", en: "Relics of King Bell" },
-    coordinates: { lat: 4.045, lng: 9.68 },
+    coords: [9.68, 4.045],
     description: {
       de: "Die Relikte erinnern an den bedeutenden Duala-Herrscher König Bell. Sie befinden sich in einem historischen Kontext in Douala.",
       hu: "A relikviák a jelentős Duala uralkodóra, Bell királyra emlékeztetnek. Történelmi környezetben találhatók Doualában.",
@@ -1176,7 +1248,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-dschang-colonial-prison-history-v2",
     type: "landmark",
     name: { de: "Kolonialgefängnis Dschang", hu: "Dschang gyarmati börtön", ro: "Închisoarea colonială din Dschang", en: "Dschang Colonial Prison" },
-    coordinates: { lat: 5.45, lng: 10.05 },
+    coords: [10.05, 5.45],
     description: {
       de: "Dieses ehemalige Gefängnis in Dschang stammt aus der deutschen Kolonialzeit. Es steht heute als Mahnmal und historisches Zeugnis.",
       hu: "Ez a volt dschangi börtön a német gyarmati korszakból származik. Ma emlékműként és történelmi tanúként szolgál.",
@@ -1207,7 +1279,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-bamenda-fon-palace-history-v2",
     type: "palace",
     name: { de: "Palast des Fon von Bamenda", hu: "Bamenda Fon palotája", ro: "Palatul Fon din Bamenda", en: "Palace of the Fon of Bamenda" },
-    coordinates: { lat: 5.95, lng: 10.15 },
+    coords: [10.15, 5.95],
     description: {
       de: "Der Palast des Fon in Bamenda ist das Machtzentrum der lokalen traditionellen Herrscher. Er bewahrt bedeutende kulturelle Traditionen.",
       hu: "A bamendai Fon palotája a helyi hagyományos uralkodók hatalmi központja. Jelentős kulturális hagyományokat őriz.",
@@ -1238,7 +1310,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-foumban-gate-history-v2",
     type: "landmark",
     name: { de: "Stadttor von Foumban", hu: "Foumban városkapuja", ro: "Poarta orașului Foumban", en: "City Gate of Foumban" },
-    coordinates: { lat: 5.73, lng: 10.9 },
+    coords: [10.9, 5.73],
     description: {
       de: "Das historische Stadttor von Foumban ist ein Zeugnis der alten Stadtbefestigung. Es markiert den Eingang zum Palastviertel.",
       hu: "Foumban történelmi városkapuja a régi városfalak tanúja. A palota negyed bejáratát jelöli.",
@@ -1269,7 +1341,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-ngaoundere-lamido-mosque-history-v2",
     type: "landmark",
     name: { de: "Lamido-Moschee Ngaoundéré", hu: "Ngaoundéré Lamido-mecset", ro: "Moscheea Lamido din Ngaoundéré", en: "Lamido Mosque Ngaoundéré" },
-    coordinates: { lat: 7.32, lng: 13.58 },
+    coords: [13.58, 7.32],
     description: {
       de: "Diese Moschee ist ein historisches Zentrum islamischer Kultur in Ngaoundéré. Sie ist eng mit dem Lamidat verbunden.",
       hu: "Ez a mecset az iszlám kultúra történelmi központja Ngaoundérében. Szorosan kapcsolódik a lamidátushoz.",
@@ -1300,7 +1372,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-german-water-tank-buea-history-v2",
     type: "landmark",
     name: { de: "Deutscher Wassertank Buea", hu: "Német víztartály Buea", ro: "Rezervor de apă german din Buea", en: "German Water Tank Buea" },
-    coordinates: { lat: 4.152, lng: 9.235 },
+    coords: [9.235, 4.152],
     description: {
       de: "Dieser Wassertank aus der Kolonialzeit zeigt die frühe Infrastrukturplanung in Buea. Er ist ein technisches Denkmal.",
       hu: "Ez a gyarmati korszakból származó víztartály a bueai korai infrastruktúra-tervezést mutatja. Technikai emlékmű.",
@@ -1331,7 +1403,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-old-kribi-trading-post-history-v2",
     type: "landmark",
     name: { de: "Handelsposten Kribi", hu: "Kribi kereskedelmi állomás", ro: "Postul comercial din Kribi", en: "Kribi Trading Post" },
-    coordinates: { lat: 2.93, lng: 9.91 },
+    coords: [9.91, 2.93],
     description: {
       de: "Der Handelsposten in Kribi war ein wichtiger Umschlagplatz während der deutschen Kolonialzeit. Er zeugt von historischem Handelsverkehr.",
       hu: "A Kribi kereskedelmi állomás fontos átrakodóhely volt a német gyarmati korszakban. A történelmi kereskedelmi forgalom tanúja.",
@@ -1362,7 +1434,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-batoufam-chiefdom-palace-history-v2",
     type: "palace",
     name: { de: "Palast des Batoufam-Chiefdoms", hu: "Batoufam törzsfőnöki palota", ro: "Palatul căpeteniei Batoufam", en: "Palace of Batoufam Chiefdom" },
-    coordinates: { lat: 5.23, lng: 10.45 },
+    coords: [10.45, 5.23],
     description: {
       de: "Der Palast in Batoufam ist das kulturelle Herz dieses traditionellen Chiefdoms. Er zeigt typische Architektur aus dem Grasland.",
       hu: "A batoufami palota a hagyományos törzsfőnökség kulturális szíve. Tipikus fűföldi építészetet mutat be.",
@@ -1393,7 +1465,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
     id: "cameroon-dschang-colonial-residency-history-v2",
     type: "palace",
     name: { de: "Kolonialresidenz Dschang", hu: "Dschang gyarmati rezidencia", ro: "Reședința colonială din Dschang", en: "Dschang Colonial Residency" },
-    coordinates: { lat: 5.445, lng: 10.055 },
+    coords: [10.055, 5.445],
     description: {
       de: "Die ehemalige Residenz der Kolonialverwaltung in Dschang ist ein historisch bedeutendes Gebäude. Sie reflektiert die europäische Bauweise.",
       hu: "A dschangi egykori gyarmati közigazgatási rezidencia történelmileg jelentős épület. Tükrözi az európai építési módot.",

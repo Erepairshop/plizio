@@ -1126,7 +1126,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum der Mongolei", hu: "Mongol Nemzeti Múzeum", ro: "Muzeul Național al Mongoliei", en: "National Museum of Mongolia" },
-    coordinates: { lat: 47.9189, lng: 106.9175 },
+    coords: [106.9175, 47.9189],
     description: {
       de: "Das wichtigste Zentrum für historische und ethnografische Ausstellungen in Ulaanbaatar. Es beherbergt über 50.000 Artefakte.",
       hu: "A történelmi és néprajzi kiállítások legfontosabb központja Ulánbátorban. Több mint 50 000 műtárgyat őriz a kőkorszaktól napjainkig.",
@@ -1145,7 +1145,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-zanabazar-museum-landmarks-v2",
     type: "museum",
     name: { de: "Zanabazar-Kunstmuseum", hu: "Zanabazar Szépművészeti Múzeum", ro: "Muzeul de Artă Zanabazar", en: "Zanabazar Museum of Fine Arts" },
-    coordinates: { lat: 47.9213, lng: 106.9116 },
+    coords: [106.9116, 47.9213],
     description: {
       de: "Dieses Museum ist den Werken des berühmten buddhistischen Meisters Zanabazar gewidmet. Es zeigt buddhistische Kunstschätze.",
       hu: "A híres buddhista művész és tudós, Zanabazar alkotásainak szentelt múzeum. A gyűjtemény a buddhista művészet remekműveit mutatja be.",
@@ -1164,7 +1164,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-opera-house-landmarks-v2",
     type: "theater",
     name: { de: "Staatsoper und Ballett-Theater", hu: "Állami Operaház", ro: "Teatrul de Operă și Balet de Stat", en: "State Opera and Ballet Theatre" },
-    coordinates: { lat: 47.9178, lng: 106.9208 },
+    coords: [106.9208, 47.9178],
     description: {
       de: "Ein lachsfarbenes neoklassizistisches Gebäude im Herzen von Ulaanbaatar. Es ist das Zentrum für klassische Musik und Ballett.",
       hu: "A lazacszínű neoklasszicista épület az ország legfontosabb előadóművészeti központja. Klasszikus mongol és nyugati darabokat adnak elő.",
@@ -1183,7 +1183,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-blue-sky-tower-landmarks-v2",
     type: "tower",
     name: { de: "Blue Sky Tower", hu: "Blue Sky Tower", ro: "Blue Sky Tower", en: "Blue Sky Tower" },
-    coordinates: { lat: 47.9157, lng: 106.9186 },
+    coords: [106.9186, 47.9157],
     description: {
       de: "Der modernste Wolkenkratzer in Ulaanbaatar mit einer markanten segelförmigen Glasfassade. Er beherbergt Büros und ein Luxushotel.",
       hu: "Ulánbátor legmodernebb felhőkarcolója, amely vitorla alakú üvegkupolájáról ismerhető fel. Irodák mellett luxusszállodának ad helyet.",
@@ -1202,7 +1202,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-peace-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Friedensbrücke", hu: "Béke híd", ro: "Podul Păcii", en: "Peace Bridge" },
-    coordinates: { lat: 47.91, lng: 106.9161 },
+    coords: [106.9161, 47.91],
     description: {
       de: "Eine wichtige Brücke, die den nördlichen und südlichen Teil von Ulaanbaatar verbindet. Sie wurde mit chinesischer Hilfe erbaut.",
       hu: "A főváros északi és déli részét összekötő híd, amelyet kínai segítséggel építettek. Fontos közlekedési csomópont a vasút felett.",
@@ -1221,7 +1221,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-zhukov-museum-landmarks-v2",
     type: "museum",
     name: { de: "Schukow-Museum", hu: "Zsukov Múzeum", ro: "Muzeul Jukov", en: "G.K. Zhukov Museum" },
-    coordinates: { lat: 47.9163, lng: 106.9538 },
+    coords: [106.9538, 47.9163],
     description: {
       de: "Ein Militärmuseum im ehemaligen Wohnhaus des sowjetischen Marschalls Schukow. Es erinnert an die Schlacht am Chalkhin Gol.",
       hu: "Georgij Zsukov szovjet tábornok egykori lakóhelyén berendezett hadtörténeti múzeum. A Halhin-goli csata emlékeit őrzi.",
@@ -1240,7 +1240,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-intellectual-museum-landmarks-v2",
     type: "museum",
     name: { de: "Internationales Intellektuelles Museum", hu: "Nemzetközi Logikai Játékok Múzeuma", ro: "Muzeul Internațional Intelectual", en: "International Intellectual Museum" },
-    coordinates: { lat: 47.9211, lng: 106.9495 },
+    coords: [106.9495, 47.9211],
     description: {
       de: "Eine einzigartige Sammlung von Tausenden von logischen Spielen und Rätseln. Besucher können interaktive mongolische Puzzles entdecken.",
       hu: "Egyedülálló gyűjtemény, amely több ezer logikai játékot mutat be. A látogatók megismerhetik a mongol sakkot és rejtvényeket.",
@@ -1259,7 +1259,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-drama-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Nationales Akademisches Dramentheater", hu: "Nemzeti Akadémiai Drámai Színház", ro: "Teatrul Național Academic de Dramă", en: "National Academic Drama Theatre" },
-    coordinates: { lat: 47.9165, lng: 106.9181 },
+    coords: [106.9181, 47.9165],
     description: {
       de: "Ein markantes rotes Gebäude im Zentrum von Ulaanbaatar, das als Zentrum für Schauspielkunst dient. Es zeigt klassische mongolische Stücke.",
       hu: "A jellegzetes vörös épület Ulánbátor szívében a prózai színjátszás központja. Repertoárján történelmi drámák szerepelnek.",
@@ -1278,7 +1278,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-national-library-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalbibliothek der Mongolei", hu: "Mongol Nemzeti Könyvtár", ro: "Biblioteca Națională a Mongoliei", en: "National Library of Mongolia" },
-    coordinates: { lat: 47.9168, lng: 106.9216 },
+    coords: [106.9216, 47.9168],
     description: {
       de: "Die größte Bibliothek des Landes, die zahlreiche seltene tibetische und mongolische Manuskripte beherbergt. Ein Ort des geistigen Erbes.",
       hu: "Az ország legnagyobb könyvtára, amely számos ritka kéziratot őriz. Az épület a mongol értelmiségi élet egyik központja.",
@@ -1297,7 +1297,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-dashchoilin-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Daschtschoilin-Kloster", hu: "Dashchoilin kolostor", ro: "Mănăstirea Dashchoilin", en: "Dashchoilin Monastery" },
-    coordinates: { lat: 47.9265, lng: 106.9183 },
+    coords: [106.9183, 47.9265],
     description: {
       de: "Eines der wenigen buddhistischen Klöster, das die kommunistische Ära überstand. Die runden Gebäude erinnern an traditionelle Jurten.",
       hu: "Az egyik legfontosabb kolostor Ulánbátorban, amely túlélte a szovjet kort. Kerek épületei a hagyományos jurták formáját idézik.",
@@ -1316,7 +1316,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-geser-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Geser-Tempel", hu: "Geser templom", ro: "Templul Geser", en: "Geser Temple" },
-    coordinates: { lat: 47.9235, lng: 106.9063 },
+    coords: [106.9063, 47.9235],
     description: {
       de: "Eine Tempelanlage aus dem 18. Jahrhundert, die dem Helden Geser Khan gewidmet ist. Der Stil vereint taoistische und buddhistische Elemente.",
       hu: "18. századi taoista és buddhista stílusú templomegyüttes. Geser kánnak, a mongol eposzok hősének tiszteletére emelték.",
@@ -1335,7 +1335,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-khar-balgas-landmarks-v2",
     type: "ruins",
     name: { de: "Khar Balgas", hu: "Khar Balgas", ro: "Khar Balgas", en: "Khar Balgas" },
-    coordinates: { lat: 47.4308, lng: 102.6586 },
+    coords: [102.6586, 47.4308],
     description: {
       de: "Die monumentalen Ruinen von Ordu-Baliq, der ehemaligen Hauptstadt des Uigurischen Khaganats. Die Festungsmauern sind noch sichtbar.",
       hu: "Az egykori Ujgur Birodalom fővárosának, Ordu-Baliq-nak a romjai. A 8. századi erődített város monumentális falai ma is láthatók.",
@@ -1354,7 +1354,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-avarga-toson-landmarks-v2",
     type: "ruins",
     name: { de: "Avarga Toson", hu: "Avarga Toson", ro: "Avarga Toson", en: "Avarga Toson" },
-    coordinates: { lat: 47.1667, lng: 109.1167 },
+    coords: [109.1167, 47.1667],
     description: {
       de: "Ruinen der ersten Hauptstadt von Dschingis Khan nahe dem Kherlen-Fluss. Archäologische Funde dokumentieren die Anfänge des Reiches.",
       hu: "Dzsingisz kán első fővárosának romjai a Kherlen-folyó közelében. Régészeti leletei a Mongol Birodalom kialakulását dokumentálják.",
@@ -1373,7 +1373,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-deluun-boldog-landmarks-v2",
     type: "monument",
     name: { de: "Delüün Boldog", hu: "Deluun Boldog", ro: "Deluun Boldog", en: "Deluun Boldog" },
-    coordinates: { lat: 48.4944, lng: 111.4589 },
+    coords: [111.4589, 48.4944],
     description: {
       de: "Ein Hügel im Nordosten der Mongolei, der als Geburtsort von Dschingis Khan verehrt wird. Ein Steindenkmal markiert diese historische Stelle.",
       hu: "Dzsingisz kán születési helyeként tisztelt domb Északkelet-Mongóliában. Egy kőemlékmű jelöli a nagy hódító születésének helyét.",
@@ -1392,7 +1392,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-beatles-monument-landmarks-v2",
     type: "monument",
     name: { de: "Beatles-Denkmal", hu: "Beatles-emlékmű", ro: "Monumentul Beatles", en: "Beatles Monument" },
-    coordinates: { lat: 47.9165, lng: 106.9076 },
+    coords: [106.9076, 47.9165],
     description: {
       de: "Ein ungewöhnliches Denkmal zu Ehren der berühmten Band in Ulaanbaatar. Es symbolisiert den Wunsch nach Freiheit und Demokratie der Jugend.",
       hu: "Rendhagyó emlékmű a híres együttes tiszteletére Ulánbátorban. A mongol fiatalok demokratikus törekvéseinek szimbólumává vált.",
@@ -1411,7 +1411,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-memorial-persecution-landmarks-v2",
     type: "museum",
     name: { de: "Gedenkstätte für die Opfer politischer Verfolgung", hu: "Politikai Üldöztetések Áldozatainak Emlékmúzeuma", ro: "Muzeul Memorial al Victimelor Represiunii Politice", en: "Memorial Museum for Victims of Political Persecution" },
-    coordinates: { lat: 47.9169, lng: 106.9142 },
+    coords: [106.9142, 47.9169],
     description: {
       de: "Ein Museum im Gedenken an die Opfer der Säuberungen der 1930er Jahre. Es befindet sich in einem historischen Holzhaus in Ulaanbaatar.",
       hu: "Az 1930-as évek politikai tisztogatásai áldozatainak emléket állító múzeum. Egy régi faházban kapott helyet Ulánbátorban.",
@@ -1430,7 +1430,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-national-university-landmarks-v2",
     type: "university",
     name: { de: "Hauptgebäude der Nationaluniversität", hu: "Nemzeti Egyetem központi épülete", ro: "Clădirea Universității Naționale", en: "National University Building" },
-    coordinates: { lat: 47.9224, lng: 106.9193 },
+    coords: [106.9193, 47.9224],
     description: {
       de: "Das Hauptgebäude der ersten Universität der Mongolei im sowjetischen Stil. Es ist das akademische Herz des Landes.",
       hu: "Mongólia első egyetemének központi épülete, amely szovjet stílusban épült. Az ország tudományos életének központja.",
@@ -1449,7 +1449,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-central-tower-landmarks-v2",
     type: "tower",
     name: { de: "Central Tower", hu: "Central Tower", ro: "Central Tower", en: "Central Tower" },
-    coordinates: { lat: 47.9185, lng: 106.9205 },
+    coords: [106.9205, 47.9185],
     description: {
       de: "Ein modernes Geschäftszentrum und Luxuseinkaufszentrum direkt am Sükhbaatar-Platz. Es beherbergt internationale Marken und Botschaften.",
       hu: "Modern üzleti központ és luxus bevásárlóközpont a Szühebátor tér mellett. Számos nemzetközi márka székhelye található itt.",
@@ -1468,7 +1468,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-marco-polo-statue-landmarks-v2",
     type: "monument",
     name: { de: "Marco-Polo-Statue", hu: "Marco Polo szobor", ro: "Statuia lui Marco Polo", en: "Marco Polo Statue" },
-    coordinates: { lat: 47.9188, lng: 106.9213 },
+    coords: [106.9213, 47.9188],
     description: {
       de: "Eine Statue des venezianischen Reisenden Marco Polo in Ulaanbaatar. Sie erinnert an seine Reise zum Hof von Kublai Khan im 13. Jahrhundert.",
       hu: "A velencei utazó szobra, aki meglátogatta Kubláj kán udvarát. A Kelet és Nyugat közötti történelmi kapcsolatokat szimbolizálja.",
@@ -1487,7 +1487,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-bakula-rinpoche-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Bakula-Rinpoche-Kloster", hu: "Bakula Rinpocse kolostor", ro: "Mănăstirea Bakula Rinpoche", en: "Bakula Rinpoche Monastery" },
-    coordinates: { lat: 47.9304, lng: 106.9048 },
+    coords: [106.9048, 47.9304],
     description: {
       de: "Ein modernes buddhistisches Kloster, gegründet von Bakula Rinpoche. Es ist ein wichtiges Bildungszentrum für den tibetischen Buddhismus.",
       hu: "Egy modern buddhista kolostor, amelyet Bakula Rinpocse alapított. Fontos oktatási központ és a tibeti buddhizmus gyakorlóhelye.",
@@ -1506,7 +1506,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-pethub-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Pethub-Kloster", hu: "Pethub kolostor", ro: "Mănăstirea Pethub", en: "Pethub Stangey Chuskhor Ling" },
-    coordinates: { lat: 47.9135, lng: 106.9015 },
+    coords: [106.9015, 47.9135],
     description: {
       de: "Ein Zentrum der Wiederbelebung des mongolischen Buddhismus nahe dem Gandan-Kloster. Die Anlage beherbergt buddhistische Lehren.",
       hu: "A mongol buddhizmus újjáéledésének egyik fontos központja a Gandan közelében. Hagyományos épületei a buddhista tanítások otthona.",
@@ -1525,7 +1525,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-railway-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mongolisches Eisenbahnmuseum", hu: "Mongol Vasúti Múzeum", ro: "Muzeul Căilor Ferate Mongole", en: "Mongolian Railway Museum" },
-    coordinates: { lat: 47.9123, lng: 106.8837 },
+    coords: [106.8837, 47.9123],
     description: {
       de: "Ein Freilichtmuseum, das die Geschichte der mongolischen Eisenbahn zeigt. Es beherbergt alte Dampflokomotiven und historische Waggons.",
       hu: "A mongol vasút történetét bemutató szabadtéri és beltéri kiállítás. Régi gőzmozdonyok és vasúti kocsik gyűjteménye látható itt.",
@@ -1544,7 +1544,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-modern-art-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Mongolische Nationalgalerie für moderne Kunst", hu: "Mongol Nemzeti Modern Művészeti Galéria", ro: "Galeria Națională de Artă Modernă din Mongolia", en: "Mongolian National Modern Art Gallery" },
-    coordinates: { lat: 47.9178, lng: 106.9224 },
+    coords: [106.9224, 47.9178],
     description: {
       de: "Die wichtigste Sammlung mongolischer zeitgenössischer Kunst in Ulaanbaatar. Gemälde und Skulpturen zeigen die Moderne der Nomadenkultur.",
       hu: "A mongol kortárs képzőművészet legfontosabb gyűjteménye. Festmények és szobrok mutatják be a nomád hagyományok találkozását.",
@@ -1563,7 +1563,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-choibalsan-statue-landmarks-v2",
     type: "monument",
     name: { de: "Tschoibalsan-Statue", hu: "Csojbalszan szobor", ro: "Statuia lui Choibalsan", en: "Choibalsan Statue" },
-    coordinates: { lat: 47.9221, lng: 106.9194 },
+    coords: [106.9194, 47.9221],
     description: {
       de: "Eine Statue des ehemaligen mongolischen Führers Khorloogiin Choibalsan vor der Universität. Sie erinnert an die Staatsbildung im 20. Jahrhundert.",
       hu: "Mongólia egykori vezetőjének, Horlógín Csojbalszannak a szobra az egyetem előtt. A 20. századi mongol államépítést jelképezi.",
@@ -1582,7 +1582,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-state-circus-landmarks-v2",
     type: "theater",
     name: { de: "Mongolischer Staatszirkus", hu: "Mongol Állami Cirkusz", ro: "Circul de Stat din Mongolia", en: "Mongolian State Circus" },
-    coordinates: { lat: 47.9154, lng: 106.9085 },
+    coords: [106.9085, 47.9154],
     description: {
       de: "Ein auffälliges rundes Gebäude, das jahrzehntelang das Zentrum der Akrobatik war. Mongolische Artisten sind weltweit für ihre Leistungen bekannt.",
       hu: "Látványos kerek épület, amely évtizedek óta a mongol akrobatika otthona. Mongol artisták világszerte ismert különleges teljesítményükről.",
@@ -1601,7 +1601,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-wedding-palace-landmarks-v2",
     type: "palace",
     name: { de: "Hochzeitspalast", hu: "Esküvői Palota", ro: "Palatul Căsătoriilor", en: "Ulaanbaatar Wedding Palace" },
-    coordinates: { lat: 47.9155, lng: 106.9198 },
+    coords: [106.9198, 47.9155],
     description: {
       de: "Ein prachtvolles Gebäude aus der Sowjetzeit, in dem noch heute offizielle Trauungen stattfinden. Ein elegantes architektonisches Erbe.",
       hu: "A szovjet korszakban épült díszes épület, ahol ma is a legtöbb hivatalos házasságkötést tartják. Elegáns építészeti emlék.",
@@ -1620,7 +1620,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     id: "mongolia-khuvsgul-museum-landmarks-v2",
     type: "museum",
     name: { de: "Chöwsgöl-Provinzmuseum", hu: "Khuvsgul tartományi múzeum", ro: "Muzeul Provinciei Khuvsgul", en: "Khuvsgul Province Museum" },
-    coordinates: { lat: 49.6385, lng: 100.1555 },
+    coords: [100.1555, 49.6385],
     description: {
       de: "Ein Museum in Mörön, das die Kultur und Natur der Region Chöwsgöl zeigt. Es beleuchtet das Leben der Rentierzüchter.",
       hu: "Mörön városában található múzeum, amely a Khuvsgul-régió kultúráját mutatja be. A rénszarvaspásztorok életét is megismerhetjük itt.",

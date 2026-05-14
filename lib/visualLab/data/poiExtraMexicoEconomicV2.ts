@@ -5,7 +5,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-lazaro-cardenas-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Lázaro Cárdenas", hu: "Lázaro Cárdenas kikötője", ro: "Portul Lázaro Cárdenas", en: "Port of Lázaro Cárdenas" },
-    coordinates: { lat: 17.935, lng: -102.181 },
+    coords: [-102.181, 17.935],
     description: {
       de: "Der größte Seehafen Mexikos am Pazifik ist ein zentraler Knotenpunkt für den Handel mit Asien und den Automobilsektor.",
       hu: "Mexikó legnagyobb csendes-óceáni kikötője az ázsiai kereskedelem és az autóipar egyik legfontosabb logisztikai központja.",
@@ -24,7 +24,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-altamira-industrial-port-economic-v2",
     type: "port",
     name: { de: "Industriehafen Altamira", hu: "Altamira ipari kikötő", ro: "Portul Industrial Altamira", en: "Altamira Industrial Port" },
-    coordinates: { lat: 22.485, lng: -97.941 },
+    coords: [-97.941, 22.485],
     description: {
       de: "Ein spezialisierter Hafen am Golf von Mexiko, der ein riesiges Industriegebiet für petrochemische Unternehmen umfasst.",
       hu: "Speciális kikötő a Mexikói-öbölben, amely hatalmas ipari területet foglal magában petrolkémiai vállalatok számára.",
@@ -43,7 +43,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-fresnillo-silver-mine-economic-v2",
     type: "mine",
     name: { de: "Silbermine Fresnillo", hu: "Fresnillo ezüstbánya", ro: "Mina de argint Fresnillo", en: "Fresnillo Silver Mine" },
-    coordinates: { lat: 23.174, lng: -102.863 },
+    coords: [-102.863, 23.174],
     description: {
       de: "Eine der weltweit ertragreichsten Silberminen, die seit der Kolonialzeit ununterbrochen im Bundesstaat Zacatecas betrieben wird.",
       hu: "A világ egyik legtermékenyebb ezüstbányája, amely a gyarmati korszak óta folyamatosan üzemel Zacatecas államban.",
@@ -62,7 +62,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-cananea-copper-mine-economic-v2",
     type: "mine",
     name: { de: "Kupfermine Cananea", hu: "Cananea rézbánya", ro: "Mina de cupru Cananea", en: "Cananea Copper Mine" },
-    coordinates: { lat: 30.985, lng: -110.298 },
+    coords: [-110.298, 30.985],
     description: {
       de: "Die Mine Buenavista del Cobre in Cananea ist einer der weltweit größten Kupfertagebaue und liegt im Norden von Sonora.",
       hu: "A cananeai Buenavista del Cobre bánya a világ egyik legnagyobb külszíni rézbányája Sonora északi részén.",
@@ -81,7 +81,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-santa-fe-district-economic-v2",
     type: "industry",
     name: { de: "Finanzdistrikt Santa Fe", hu: "Santa Fe üzleti negyed", ro: "Districtul Santa Fe", en: "Santa Fe Business District" },
-    coordinates: { lat: 19.362, lng: -99.263 },
+    coords: [-99.263, 19.362],
     description: {
       de: "Ein modernes Geschäftsviertel in Mexiko-Stadt, das Sitz zahlreicher multinationaler Konzerne und moderner Wolkenkratzer ist.",
       hu: "Modern üzleti negyed Mexikóvárosban, amely számos multinacionális vállalatnak és modern felhőkarcolónak ad otthont.",
@@ -100,7 +100,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-cantarell-oil-field-economic-v2",
     type: "industry",
     name: { de: "Cantarell Ölfeld", hu: "Cantarell olajmező", ro: "Câmpul petrolifer Cantarell", en: "Cantarell Oil Field" },
-    coordinates: { lat: 19.231, lng: -92.215 },
+    coords: [-92.215, 19.231],
     description: {
       de: "Eines der historisch produktivsten Offshore-Ölfelder der Welt, gelegen in der Bucht von Campeche im Golf von Mexiko.",
       hu: "A világ egyik történelmileg legtermékenyebb tengeri olajmezője a Campeche-öbölben, a Mexikói-öböl területén.",
@@ -119,7 +119,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-dos-bocas-refinery-economic-v2",
     type: "factory",
     name: { de: "Raffinerie Dos Bocas", hu: "Dos Bocas finomító", ro: "Rafinăria Dos Bocas", en: "Dos Bocas Refinery" },
-    coordinates: { lat: 18.435, lng: -93.185 },
+    coords: [-93.185, 18.435],
     description: {
       de: "Die Olmeca-Raffinerie in Dos Bocas ist ein strategisches Energieprojekt zur Steigerung der heimischen Benzinproduktion.",
       hu: "A Dos Bocas-i Olmeca finomító stratégiai energetikai projekt a hazai benzintermelés növelésére.",
@@ -138,7 +138,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-reforma-financial-zone-economic-v2",
     type: "landmark",
     name: { de: "Finanzzone Paseo de la Reforma", hu: "Paseo de la Reforma pénzügyi övezet", ro: "Zona Financiară Paseo de la Reforma", en: "Paseo de la Reforma Financial Zone" },
-    coordinates: { lat: 19.427, lng: -99.167 },
+    coords: [-99.167, 19.427],
     description: {
       de: "Der prestigeträchtige Boulevard beherbergt die mexikanische Börse und die Zentralen der wichtigsten Banken des Landes.",
       hu: "A rangos sugárút ad otthont a mexikói tőzsdének és az ország legfontosabb bankjai központjainak.",
@@ -157,7 +157,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-silao-automotive-cluster-economic-v2",
     type: "industry",
     name: { de: "Automobil-Cluster Silao", hu: "Silao autóipari klaszter", ro: "Clusterul auto Silao", en: "Silao Automotive Cluster" },
-    coordinates: { lat: 20.945, lng: -101.432 },
+    coords: [-101.432, 20.945],
     description: {
       de: "Ein bedeutender Industriestandort in Guanajuato, der große Werke von General Motors und Volkswagen beherbergt.",
       hu: "Jelentős ipari helyszín Guanajuato államban, amely a General Motors és a Volkswagen nagy gyárainak ad otthont.",
@@ -176,7 +176,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-central-de-abasto-economic-v2",
     type: "industry",
     name: { de: "Zentralmarkt Abasto", hu: "Central de Abasto nagybani piac", ro: "Piața Central de Abasto", en: "Central de Abasto Market" },
-    coordinates: { lat: 19.381, lng: -99.091 },
+    coords: [-99.091, 19.381],
     description: {
       de: "Der weltweit größte Großhandelsmarkt für Lebensmittel versorgt die gesamte Metropolregion von Mexiko-Stadt.",
       hu: "A világ legnagyobb élelmiszer-nagykereskedelmi piaca látja el Mexikóváros teljes metropolisz-övezetét.",
@@ -195,7 +195,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-penasquito-gold-mine-economic-v2",
     type: "mine",
     name: { de: "Goldmine Peñasquito", hu: "Peñasquito aranybánya", ro: "Mina de aur Peñasquito", en: "Peñasquito Gold Mine" },
-    coordinates: { lat: 24.582, lng: -102.665 },
+    coords: [-102.665, 24.582],
     description: {
       de: "Mexikos größte Goldmine ist ein riesiger Tagebaukomplex im Bundesstaat Zacatecas mit bedeutender Silber- und Zinkproduktion.",
       hu: "Mexikó legnagyobb aranybányája egy hatalmas külszíni bányakomplexum Zacatecas államban, jelentős ezüst- és cinktermeléssel.",
@@ -214,7 +214,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-salina-cruz-port-economic-v2",
     type: "port",
     name: { de: "Hafen Salina Cruz", hu: "Salina Cruz kikötője", ro: "Portul Salina Cruz", en: "Salina Cruz Port" },
-    coordinates: { lat: 16.175, lng: -95.195 },
+    coords: [-95.195, 16.175],
     description: {
       de: "Ein wichtiger Industriehafen am Pazifik und Endpunkt der geplanten transozeanischen Verbindung durch den Isthmus von Tehuantepec.",
       hu: "Fontos ipari kikötő a Csendes-óceánon, a Tehuantepeci-földszoroson átívelő tervezett transzóceáni kapcsolat végpontja.",
@@ -233,7 +233,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-guaymas-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Guaymas", hu: "Guaymas kikötője", ro: "Portul Guaymas", en: "Port of Guaymas" },
-    coordinates: { lat: 27.925, lng: -110.895 },
+    coords: [-110.895, 27.925],
     description: {
       de: "Haupthafen von Sonora, der vor allem für den Export von Agrarprodukten und Mineralien aus dem Norden Mexikos genutzt wird.",
       hu: "Sonora fő kikötője, amelyet elsősorban Észak-Mexikó mezőgazdasági termékeinek és ásványainak exportjára használnak.",
@@ -252,7 +252,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-progreso-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Progreso", hu: "Progreso kikötője", ro: "Portul Progreso", en: "Port of Progreso" },
-    coordinates: { lat: 21.285, lng: -89.665 },
+    coords: [-89.665, 21.285],
     description: {
       de: "Der wichtigste Hafen der Halbinsel Yucatán verfügt über eine der weltweit längsten Anlegestellen, die weit ins Meer ragt.",
       hu: "A Yucatán-félsziget legfontosabb kikötője a világ egyik leghosszabb mólójával rendelkezik, amely messze benyúlik a tengerbe.",
@@ -271,7 +271,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-tuxpan-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Tuxpan", hu: "Tuxpan kikötője", ro: "Portul Tuxpan", en: "Port of Tuxpan" },
-    coordinates: { lat: 20.955, lng: -97.405 },
+    coords: [-97.405, 20.955],
     description: {
       de: "Tuxpan ist der am nächsten an Mexiko-Stadt gelegene Hafen und ein zentraler Punkt für den Kraftstoffimport.",
       hu: "Tuxpan a Mexikóvároshoz legközelebb eső kikötő, az üzemanyag-import egyik központi helyszíne.",
@@ -290,7 +290,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-santa-catarina-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriezone Santa Catarina", hu: "Santa Catarina ipari övezet", ro: "Zona Industrială Santa Catarina", en: "Santa Catarina Industrial Zone" },
-    coordinates: { lat: 25.682, lng: -100.465 },
+    coords: [-100.465, 25.682],
     description: {
       de: "Ein schnell wachsendes Industriegebiet bei Monterrey, das als zukünftiger Standort für die Gigafactory von Tesla ausgewählt wurde.",
       hu: "Gyorsan fejlődő ipari terület Monterrey közelében, amelyet a Tesla Gigafactory jövőbeni helyszíneként választottak ki.",
@@ -309,7 +309,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-pesqueria-industrial-hub-economic-v2",
     type: "factory",
     name: { de: "Industriezentrum Pesquería", hu: "Pesquería ipari központ", ro: "Centrul Industrial Pesquería", en: "Pesquería Industrial Hub" },
-    coordinates: { lat: 25.785, lng: -100.055 },
+    coords: [-100.055, 25.785],
     description: {
       de: "Dieses Kraftzentrum in Nuevo León beherbergt gewaltige Investitionen von Kia Motors und Ternium im Stahlsektor.",
       hu: "Ez az új-leóni ipari központ a Kia Motors és a Ternium acélipari óriásberuházásainak ad otthont.",
@@ -328,7 +328,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-san-jose-chiapa-audi-economic-v2",
     type: "factory",
     name: { de: "Audi-Werk San José Chiapa", hu: "Audi gyár San José Chiapa", ro: "Fabrica Audi San José Chiapa", en: "Audi Plant San José Chiapa" },
-    coordinates: { lat: 19.245, lng: -97.775 },
+    coords: [-97.775, 19.245],
     description: {
       de: "Das erste Werk von Audi in Mexiko produziert den Q5 für den Weltmarkt in einem hochmodernen, nachhaltigen Komplex.",
       hu: "Az Audi első mexikói gyára a Q5 modellt gyártja a világpiacra egy ultramodern, fenntartható komplexumban.",
@@ -347,7 +347,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-derramadero-hub-economic-v2",
     type: "industry",
     name: { de: "Industriehub Derramadero", hu: "Derramadero ipari csomópont", ro: "Hub-ul Industrial Derramadero", en: "Derramadero Industrial Hub" },
-    coordinates: { lat: 25.185, lng: -101.125 },
+    coords: [-101.125, 25.185],
     description: {
       de: "Südlich von Saltillo gelegen, ist dieses Tal ein führendes Zentrum für die Produktion von schweren Lkw und Transportern.",
       hu: "Saltillótól délre található ez a völgy, amely a nehézgépjárművek és kisteherautók gyártásának vezető központja.",
@@ -366,7 +366,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-valle-del-yaqui-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftstal Yaqui", hu: "Yaqui-völgy mezőgazdaság", ro: "Valea Yaqui agricultură", en: "Yaqui Valley Agriculture" },
-    coordinates: { lat: 27.345, lng: -109.935 },
+    coords: [-109.935, 27.345],
     description: {
       de: "Die Wiege der Grünen Revolution ist eines der produktivsten Weizenanbaugebiete Mexikos im Süden von Sonora.",
       hu: "A zöld forradalom bölcsője Mexikó egyik legtermékenyebb búzatermő vidéke Sonora déli részén.",
@@ -385,7 +385,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-la-laguna-dairy-region-economic-v2",
     type: "industry",
     name: { de: "Milchregion La Laguna", hu: "La Laguna tejtermelő vidék", ro: "Regiunea lactatelor La Laguna", en: "La Laguna Dairy Region" },
-    coordinates: { lat: 25.545, lng: -103.405 },
+    coords: [-103.405, 25.545],
     description: {
       de: "Eine bedeutende Agrarregion an der Grenze von Coahuila und Durango, bekannt als Zentrum der mexikanischen Milchindustrie.",
       hu: "Jelentős mezőgazdasági régió Coahuila és Durango határán, a mexikói tejipar központjaként ismert.",
@@ -404,7 +404,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-minatitlan-refinery-economic-v2",
     type: "factory",
     name: { de: "Raffinerie Minatitlán", hu: "Minatitláni finomító", ro: "Rafinăria Minatitlán", en: "Minatitlán Refinery" },
-    coordinates: { lat: 18.005, lng: -94.545 },
+    coords: [-94.545, 18.005],
     description: {
       de: "Die Gral. Lázaro Cárdenas Raffinerie in Veracruz ist die älteste noch in Betrieb befindliche Anlage des Landes.",
       hu: "A Veracruz állambeli Gral. Lázaro Cárdenas finomító az ország legrégebbi, ma is működő finomítója.",
@@ -423,7 +423,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-cadereyta-refinery-economic-v2",
     type: "factory",
     name: { de: "Raffinerie Cadereyta", hu: "Cadereytai finomító", ro: "Rafinăria Cadereyta", en: "Cadereyta Refinery" },
-    coordinates: { lat: 25.595, lng: -99.995 },
+    coords: [-99.995, 25.595],
     description: {
       de: "Die Ing. Héctor R. Lara Sosa Raffinerie versorgt Nordmexiko mit Kraftstoffen und ist eine der größten im PEMEX-Netz.",
       hu: "Az Ing. Héctor R. Lara Sosa finomító látja el Észak-Mexikót üzemanyaggal, a PEMEX hálózat egyik legnagyobbja.",
@@ -442,7 +442,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-piedras-negras-coal-economic-v2",
     type: "mine",
     name: { de: "Kohleminen Piedras Negras", hu: "Piedras Negras szénbányák", ro: "Minele de cărbune Piedras Negras", en: "Piedras Negras Coal Mines" },
-    coordinates: { lat: 28.705, lng: -100.525 },
+    coords: [-100.525, 28.705],
     description: {
       de: "Dieses Grenzgebiet in Coahuila ist das Zentrum der mexikanischen Kohleförderung für die Stromerzeugung.",
       hu: "Ez a coahuilai határvidék a mexikói széntermelés központja, amelyet főként villamosenergia-előállításra használnak.",
@@ -461,7 +461,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-san-luis-rio-colorado-trade-economic-v2",
     type: "industry",
     name: { de: "Handelszentrum San Luis Río Colorado", hu: "San Luis Río Colorado kereskedelmi központ", ro: "Centrul comercial San Luis Río Colorado", en: "San Luis Río Colorado Trade Center" },
-    coordinates: { lat: 32.465, lng: -114.785 },
+    coords: [-114.785, 32.465],
     description: {
       de: "Ein strategischer Grenzübergang und landwirtschaftliches Zentrum in Sonora, wichtig für den Export von Gemüse in die USA.",
       hu: "Stratégiai határátkelő és mezőgazdasági központ Sonorában, fontos a zöldségexport számára az USA-ba.",
@@ -480,7 +480,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-caborca-gold-district-economic-v2",
     type: "mine",
     name: { de: "Golddistrikt Caborca", hu: "Caborca aranyvidék", ro: "Districtul aurifer Caborca", en: "Caborca Gold District" },
-    coordinates: { lat: 30.715, lng: -112.155 },
+    coords: [-112.155, 30.715],
     description: {
       de: "Diese Region in der Sonora-Wüste beherbergt einige der ertragreichsten Goldminen des Landes, darunter La Herradura.",
       hu: "Ez a sonorai sivatagi régió ad otthont az ország néhány legtermékenyebb aranybányájának, köztük a La Herradurának.",
@@ -499,7 +499,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-navojoa-agro-industry-economic-v2",
     type: "industry",
     name: { de: "Agrarindustrie Navojoa", hu: "Navojoa agrár-ipar", ro: "Agro-industria Navojoa", en: "Navojoa Agro-Industry" },
-    coordinates: { lat: 27.085, lng: -109.445 },
+    coords: [-109.445, 27.085],
     description: {
       de: "Navojoa ist ein Zentrum für Lebensmittelverarbeitung und Agro-Export im Süden von Sonora, umgeben von fruchtbarem Ackerland.",
       hu: "Navojoa az élelmiszer-feldolgozás és az agrár-export központja Dél-Sonorában, termékeny szántóföldekkel körülvéve.",
@@ -518,7 +518,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-intermodal-terminal-queretaro-economic-v2",
     type: "industry",
     name: { de: "Intermodal-Terminal Querétaro", hu: "Querétaro intermodális terminál", ro: "Terminalul Intermodal Querétaro", en: "Querétaro Intermodal Terminal" },
-    coordinates: { lat: 20.655, lng: -100.275 },
+    coords: [-100.275, 20.655],
     description: {
       de: "Ein moderner Logistikknotenpunkt, der Schiene und Straße verbindet und die Industrie von Zentralmexiko mit den USA verknüpft.",
       hu: "Modern logisztikai csomópont, amely összeköti a vasutat és a közutat, Közép-Mexikó iparát az USA-val kapocsolva össze.",
@@ -537,7 +537,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-cactus-gas-plant-economic-v2",
     type: "factory",
     name: { de: "Gasverarbeitungskanal Cactus", hu: "Cactus gázfeldolgozó üzem", ro: "Stația de procesare a gazelor Cactus", en: "Cactus Gas Processing Plant" },
-    coordinates: { lat: 17.925, lng: -93.315 },
+    coords: [-93.315, 17.925],
     description: {
       de: "Einer der größten Erdgasverarbeitungskomplexe in Chiapas, der für die Energieversorgung des Südens entscheidend ist.",
       hu: "Chiapas egyik legnagyobb földgázfeldolgozó komplexuma, amely kulcsfontosságú a dél-mexikói energiaellátáshoz.",
@@ -556,7 +556,7 @@ export const mexicoEconomicV2: POI[] = [
     id: "mexico-seybaplaya-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Seybaplaya", hu: "Seybaplaya kikötője", ro: "Portul Seybaplaya", en: "Port of Seybaplaya" },
-    coordinates: { lat: 19.645, lng: -90.695 },
+    coords: [-90.695, 19.645],
     description: {
       de: "Ein wachsender Hafen in Campeche, der als Logistikbasis für die Offshore-Ölindustrie und den Export von Kalkstein dient.",
       hu: "Fejlődő kikötő Campeche államban, amely a tengeri olajipar logisztikai bázisaként és mészkőexportőrként szolgál.",

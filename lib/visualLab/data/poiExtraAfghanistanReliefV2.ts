@@ -531,7 +531,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-paropamisus-relief-v2",
     type: "mountain",
     name: { de: "Paropamisus-Gebirge", hu: "Paropamisus-hegység", ro: "Munții Paropamisus", en: "Paropamisus Mountains" },
-    coordinates: { lat: 34.7, lng: 63.5 },
+    coords: [63.5, 34.7],
     description: {
       de: "Das Paropamisus-Gebirge ist eine westliche Verlängerung des Hindukusch im Nordwesten Afghanistans. Es erstreckt sich hauptsächlich durch die Provinzen Herat und Badghis.",
       hu: "A Paropamisus-hegység a Hindukus nyugati nyúlványa Afganisztán északnyugati részén. Főként Herát és Bádgisz tartományokon húzódik keresztül.",
@@ -562,7 +562,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-band-e-turkestan-relief-v2",
     type: "mountain",
     name: { de: "Band-e Turkestan", hu: "Band-e Turkesztán", ro: "Band-e Turkestan", en: "Band-e Turkestan" },
-    coordinates: { lat: 35.8, lng: 64.5 },
+    coords: [64.5, 35.8],
     description: {
       de: "Band-e Turkestan ist ein Gebirgszug im Norden Afghanistans, der parallel zum Hindukusch verläuft. Er trennt die zentralen Hochländer von den nördlichen Ebenen.",
       hu: "A Band-e Turkesztán egy hegylánc Afganisztán északi részén, amely párhuzamosan fut a Hindukussal. Elválasztja a központi felföldeket az északi síkságoktól.",
@@ -593,7 +593,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-hazarajat-relief-v2",
     type: "mountain",
     name: { de: "Hazaradschat-Hochland", hu: "Hazaradzsat-felföld", ro: "Podișul Hazarajat", en: "Hazarajat Highlands" },
-    coordinates: { lat: 34.0, lng: 67.0 },
+    coords: [67.0, 34.0],
     description: {
       de: "Das Hazaradschat-Hochland umfasst die zerklüfteten zentralen Gebirgsregionen Afghanistans. Es ist durch tiefe Täler und Gipfel über 4000 Meter gekennzeichnet.",
       hu: "A Hazaradzsat-felföld Afganisztán egyenetlen központi hegyvidéki régióit foglalja magában. Mély völgyek és 4000 méter feletti csúcsok jellemzik.",
@@ -624,7 +624,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-dasht-e-khash-relief-v2",
     type: "landmark",
     name: { de: "Dascht-e Chasch", hu: "Dasht-e Khash", ro: "Dasht-e Khash", en: "Dasht-e Khash" },
-    coordinates: { lat: 31.5, lng: 62.5 },
+    coords: [62.5, 31.5],
     description: {
       de: "Die Dascht-e Chasch ist eine trockene Wüstenebene im Südwesten Afghanistans. Sie liegt zwischen dem Hilmend-Fluss und der Grenze zum Iran.",
       hu: "A Dasht-e Khash egy száraz sivatagi síkság Afganisztán délnyugati részén. A Hilmend-folyó és az iráni határ között terül el.",
@@ -655,7 +655,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-kunar-valley-relief-v2",
     type: "valley",
     name: { de: "Kunar-Tal", hu: "Kunar-völgy", ro: "Valea Kunar", en: "Kunar Valley" },
-    coordinates: { lat: 34.8, lng: 71.0 },
+    coords: [71.0, 34.8],
     description: {
       de: "Das Kunar-Tal ist ein steiles, bewaldetes Tal im Osten Afghanistans an der Grenze zu Pakistan. Es wird vom Kunar-Fluss durchflossen und vom Hindukusch flankiert.",
       hu: "A Kunar-völgy egy meredek, erdős völgy Kelet-Afganisztánban, a pakisztáni határ mentén. A Kunar-folyó szeli át, és a Hindukus hegyei övezik.",
@@ -686,7 +686,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-feroz-koh-relief-v2",
     type: "mountain",
     name: { de: "Feroz Koh", hu: "Feroz Koh-hegység", ro: "Munții Feroz Koh", en: "Feroz Koh Mountains" },
-    coordinates: { lat: 34.5, lng: 65.0 },
+    coords: [65.0, 34.5],
     description: {
       de: "Die Feroz Koh Berge sind ein zentraler Gebirgszug in der Provinz Ghor. Sie bilden eine wichtige Wasserscheide zwischen dem Hari Rud und dem Hilmend-System.",
       hu: "A Feroz Koh-hegység egy központi vonulat Ghor tartományban. Fontos vízválasztót képez a Hari Rud és a Hilmend folyórendszerek között.",
@@ -717,7 +717,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     id: "afghanistan-chagai-hills-relief-v2",
     type: "mountain",
     name: { de: "Chagai-Hügel", hu: "Chagai-dombság", ro: "Dealurile Chagai", en: "Chagai Hills" },
-    coordinates: { lat: 29.5, lng: 64.0 },
+    coords: [64.0, 29.5],
     description: {
       de: "Die Chagai-Hügel sind eine vulkanische Bergkette an der südlichen Grenze Afghanistans. Die Region ist bekannt für ihre extremen Temperaturen und mineralischen Vorkommen.",
       hu: "A Chagai-dombság egy vulkáni eredetű hegylánc Afganisztán déli határán. A régió szélsőséges hőmérsékleteiről és ásványkincseiről ismert.",

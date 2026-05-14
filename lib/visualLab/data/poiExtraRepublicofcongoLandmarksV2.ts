@@ -5,7 +5,7 @@ export const republicofcongoLandmarksV2: POI[] = [
     id: "republicofcongo-basilique-sainte-anne-landmarks-v2",
     type: "cathedral",
     name: { de: "Basilika Sankt Anna", hu: "Szent Anna-bazilika", ro: "Bazilica Sfânta Ana", en: "Basilica of Saint Anne" },
-    coordinates: { lat: -4.275, lng: 15.26 },
+    coords: [15.26, -4.275],
     description: {
       de: "Die Basilika Sankt Anna in Brazzaville ist eine bedeutende katholische Kirche. Ihr Entwurf verbindet europäische Architektur mit lokalen afrikanischen Elementen.",
       hu: "A brazzaville-i Szent Anna-bazilika egy jelentős katolikus templom. Terve a modern európai építészetet ötvözi a helyi afrikai stílusjegyekkel.",
@@ -24,7 +24,7 @@ export const republicofcongoLandmarksV2: POI[] = [
     id: "republicofcongo-mausolee-savorgnan-de-brazza-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum Savorgnan de Brazza", hu: "Savorgnan de Brazza mauzóleum", ro: "Mausoleul Savorgnan de Brazza", en: "Savorgnan de Brazza Mausoleum" },
-    coordinates: { lat: -4.26, lng: 15.28 },
+    coords: [15.28, -4.26],
     description: {
       de: "Das Mausoleum in Brazzaville beherbergt die sterblichen Überreste des Entdeckers Pierre Savorgnan de Brazza. Es ist ein Denkmal der kolonialen Geschichte.",
       hu: "A brazzaville-i mauzóleum Pierre Savorgnan de Brazza felfedező maradványait őrzi. Ez a gyarmati történelem egyik emlékműve.",

@@ -546,7 +546,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-sher-dor-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Sher-Dor-Madrasa", hu: "Ser-Dor medresze", ro: "Madrasa Sher-Dor", en: "Sher-Dor Madrasah" },
-    coordinates: { lat: 39.6548, lng: 66.9761 },
+    coords: [66.9761, 39.6548],
     description: {
       de: "Ein prächtiges islamisches Lehrgebäude am Registan-Platz in Samarkand. Bekannt für die Mosaike von Löwen und Hirschen über dem Eingangsportal.",
       hu: "A szamarkandi Regisztán tér egyik fő épülete. Különlegessége az oroszlánokat és szarvasokat ábrázoló mozaikdíszítés a homlokzatán.",
@@ -565,7 +565,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-tilla-kori-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Tilla-Kari-Madrasa", hu: "Tilla-Kari medresze", ro: "Madrasa Tilla-Kari", en: "Tilla-Kori Madrasah" },
-    coordinates: { lat: 39.6552, lng: 66.9754 },
+    coords: [66.9754, 39.6552],
     description: {
       de: "Das zentrale Gebäude des Registan-Komplexes mit einer vergoldeten Moschee. Sie diente als Hochschule und Hauptmoschee von Samarkand.",
       hu: "A Regisztán-együttes középső épülete gazdagon aranyozott belsővel. Egykor oktatási intézményként és központi mecsetként is funkcionált.",
@@ -584,7 +584,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-ulugh-beg-madrasah-samarkand-landmarks-v2",
     type: "landmark",
     name: { de: "Ulugh-Beg-Madrasa (Samarkand)", hu: "Ulugh bég medresze (Szamarkand)", ro: "Madrasa Ulugh Beg (Samarkand)", en: "Ulugh Beg Madrasah (Samarkand)" },
-    coordinates: { lat: 39.6547, lng: 66.9745 },
+    coords: [66.9745, 39.6547],
     description: {
       de: "Die älteste der drei Madrasas am Registan, erbaut vom Astronomen Ulugh Beg. Sie war im 15. Jahrhundert eine führende Universität Mittelasiens.",
       hu: "A Regisztán tér legrégebbi medreszéje, amelyet Ulugh bég csillagász emeltetett. A 15. században Közép-Ázsia egyik legfontosabb egyeteme volt.",
@@ -603,7 +603,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-miri-arab-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Miri-Arab-Madrasa", hu: "Miri-Arab medresze", ro: "Madrasa Miri Arab", en: "Miri-Arab Madrasah" },
-    coordinates: { lat: 39.7759, lng: 64.4149 },
+    coords: [64.4149, 39.7759],
     description: {
       de: "Ein bedeutendes islamisches College in Buchara, bekannt für seine zwei leuchtend blauen Kuppeln. Es gehört zum Po-i-Kalyan-Komplex.",
       hu: "Buhara egyik legjelentősebb iszlám oktatási központja, amely két élénkkék kupolájáról ismert. A Po-i-Kalján épületegyüttes része.",
@@ -622,7 +622,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-ulugh-beg-madrasah-bukhara-landmarks-v2",
     type: "landmark",
     name: { de: "Ulugh-Beg-Madrasa (Buchara)", hu: "Ulugh bég medresze (Buhara)", ro: "Madrasa Ulugh Beg (Buhara)", en: "Ulugh Beg Madrasah (Bukhara)" },
-    coordinates: { lat: 39.7763, lng: 64.4172 },
+    coords: [64.4172, 39.7763],
     description: {
       de: "Die älteste erhaltene Madrasa in Zentralasien, erbaut auf Befehl des Enkels von Timur. Sie diente als Vorbild für viele spätere Schulen.",
       hu: "Közép-Ázsia legrégebbi fennmaradt medreszéje, amelyet Timur unokája emeltetett. Számos későbbi iskola építésekor szolgált mintaként.",
@@ -641,7 +641,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-nadir-divan-beghi-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Nadir-Divan-Beghi-Madrasa", hu: "Nadir Divan-begi medresze", ro: "Madrasa Nadir Divan-Beghi", en: "Nadir Divan-Beghi Madrasah" },
-    coordinates: { lat: 39.7733, lng: 64.4214 },
+    coords: [64.4214, 39.7733],
     description: {
       de: "Ein historisches Gebäude am Lyab-i-Hauz-Platz, das ursprünglich als Karawanserei geplant war. Die Fassade zeigt Mythenvögel und eine Sonne.",
       hu: "A Ljabi-Hauz tér egyik épülete, amelyet eredetileg karavánszerájnak szántak. Homlokzatát mitikus madarak és napmotívumok díszítik.",
@@ -660,7 +660,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-ishratkhona-mausoleum-landmarks-v2",
     type: "ruins",
     name: { de: "Ishratkhona-Mausoleum", hu: "Israt-hona mauzóleum", ro: "Mausoleul Ishratkhona", en: "Ishratkhona Mausoleum" },
-    coordinates: { lat: 39.6425, lng: 66.9856 },
+    coords: [66.9856, 39.6425],
     description: {
       de: "Eine heute teilweise in Ruinen liegende Grabstätte aus dem 15. Jahrhundert in Samarkand. Sie wurde ursprünglich für Frauen aus der Timuriden-Dynastie erbaut.",
       hu: "Egy 15. századi síremlék Szamarkandban, amely ma részben romokban áll. Eredetileg a Timurida-dinasztia nőtagjai számára épült.",
@@ -679,7 +679,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-fayzulla-khodjayev-museum-landmarks-v2",
     type: "museum",
     name: { de: "Fayzulla-Khodjayev-Hausmuseum", hu: "Fajzulla Hodzsajev emlékház", ro: "Casa Memorială Fayzulla Khodjayev", en: "Fayzulla Khodjayev House Museum" },
-    coordinates: { lat: 39.7712, lng: 64.4101 },
+    coords: [64.4101, 39.7712],
     description: {
       de: "Das ehemalige Wohnhaus eines reichen Kaufmanns in Buchara aus dem späten 19. Jahrhundert. Es ist ein hervorragendes Beispiel für lokale Wohnarchitektur.",
       hu: "Egy gazdag b樹脂harai kereskedő egykori lakóháza a 19. század végéről. A helyi lakóépítészet egyik legszebb fennmaradt példája.",
@@ -698,7 +698,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-toqi-sarrofon-dome-landmarks-v2",
     type: "landmark",
     name: { de: "Toqi Sarrofon Handelsdom", hu: "Tóki Szárrofón kereskedőboltív", ro: "Cupola Comercială Toqi Sarrofon", en: "Trading Dome Toqi Sarrofon" },
-    coordinates: { lat: 39.7731, lng: 64.4178 },
+    coords: [64.4178, 39.7731],
     description: {
       de: "Einer der markanten historischen Kuppelbauten in Buchara, in dem früher Geldwechsler tätig waren. Er liegt an einer zentralen Kreuzung der Altstadt.",
       hu: "Buhara jellegzetes történelmi kupolás épületeinek egyike, ahol régen a pénzváltók dolgoztak. Az óváros egyik központi kereszteződésében áll.",
@@ -717,7 +717,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-kunya-ark-citadel-landmarks-v2",
     type: "castle",
     name: { de: "Zitadelle Kunya-Ark", hu: "Kunya-Ark citadella", ro: "Citadela Kunya-Ark", en: "Kunya-Ark Citadel" },
-    coordinates: { lat: 41.3783, lng: 60.3581 },
+    coords: [60.3581, 41.3783],
     description: {
       de: "Die befestigte Residenz der Khane von Chiwa innerhalb der Altstadt Ichan Kala. Sie beherbergt Palastgebäude, eine Münzstätte und eine Moschee.",
       hu: "A hívai hánok erődített rezidenciája az Icsan-Kala óvárosban. Palotaépületeknek, pénzverdének és mecsetnek is otthont ad.",
@@ -736,7 +736,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-muhammad-amin-khan-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Muhammad-Amin-Khan-Madrasa", hu: "Mohamed Amin-hán medresze", ro: "Madrasa Muhammad Amin Khan", en: "Muhammad-Amin-Khan Madrasah" },
-    coordinates: { lat: 41.3778, lng: 60.3585 },
+    coords: [60.3585, 41.3778],
     description: {
       de: "Die größte Madrasa in Chiwa, die sich direkt neben dem Kalta Minor Minarett befindet. Heute wird sie als Hotel genutzt.",
       hu: "Híva legnagyobb medreszéje, amely közvetlenül a Kalta Minor minaret mellett található. Ma szállodaként működik.",
@@ -755,7 +755,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-shergazi-khan-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Shergazi-Khan-Madrasa", hu: "Sergázi-hán medresze", ro: "Madrasa Shergazi Khan", en: "Shergazi-Khan Madrasah" },
-    coordinates: { lat: 41.377, lng: 60.3582 },
+    coords: [60.3582, 41.377],
     description: {
       de: "Eine historische Madrasa im Zentrum von Chiwa, die für ihre Gelehrten bekannt war. Sie wurde im 18. Jahrhundert von Kriegsgefangenen erbaut.",
       hu: "Híva központjában álló történelmi medresze, amely tudósairól volt híres. A 18. században hadifoglyok építették.",
@@ -774,7 +774,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-nurullabay-palace-landmarks-v2",
     type: "palace",
     name: { de: "Nurullabay-Palast", hu: "Nurullabaj-palota", ro: "Palatul Nurullabay", en: "Nurullabay Palace" },
-    coordinates: { lat: 41.3815, lng: 60.3585 },
+    coords: [60.3585, 41.3815],
     description: {
       de: "Ein modernerer Palastkomplex in Chiwa, der europäische und orientalische Baustile kombiniert. Er wurde für den letzten Khan von Chiwa errichtet.",
       hu: "Hívai palotaegyüttes, amely az európai és a keleti stílusjegyeket ötvözi. Az utolsó hívai hán számára épült a 20. század elején.",
@@ -793,7 +793,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-history-museum-tashkent-landmarks-v2",
     type: "museum",
     name: { de: "Staatliches Museum für Geschichte Usbekistans", hu: "Üzbegisztán Állami Történeti Múzeuma", ro: "Muzeul de Stat de Istorie a Uzbekistanului", en: "State Museum of History of Uzbekistan" },
-    coordinates: { lat: 41.3115, lng: 69.2685 },
+    coords: [69.2685, 41.3115],
     description: {
       de: "Eines der ältesten Museen in Zentralasien mit über 250.000 Exponaten. Es deckt die Geschichte der Region von der Steinzeit bis heute ab.",
       hu: "Közép-Ázsia egyik legrégebbi múzeuma, több mint 250 000 kiállított tárggyal. A régió történelmét mutatja be a kőkorszaktól napjainkig.",
@@ -812,7 +812,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-applied-arts-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Angewandte Kunst", hu: "Iparművészeti Múzeum", ro: "Muzeul de Arte Aplicate", en: "Applied Arts Museum" },
-    coordinates: { lat: 41.2995, lng: 69.2645 },
+    coords: [69.2645, 41.2995],
     description: {
       de: "Ein Museum in Taschkent, das usbekisches Kunsthandwerk in einer prunkvoll verzierten ehemaligen Privatresidenz zeigt. Bekannt für Holzschnitzereien und Textilien.",
       hu: "Taskenti múzeum, amely üzbég kézműves tárgyakat mutat be egy gazdagon díszített egykori magánvillában. Fafaragásairól és textíliáiról ismert.",
@@ -831,7 +831,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-romanov-palace-landmarks-v2",
     type: "palace",
     name: { de: "Romanow-Palast (Taschkent)", hu: "Romanov-palota (Taskent)", ro: "Palatul Romanov (Tașkent)", en: "Romanov Palace (Tashkent)" },
-    coordinates: { lat: 41.312, lng: 69.269 },
+    coords: [69.269, 41.312],
     description: {
       de: "Eine Residenz im europäischen Stil, die für Großfürst Nikolai Konstantinowitsch Romanow erbaut wurde. Sie ist eines der wenigen kaiserlichen Gebäude in der Stadt.",
       hu: "Európai stílusú rezidencia, amely Nyikolaj Konsztantyinovics Romanov nagyherceg számára épült. Egyike a város kevés cári kori épületének.",
@@ -850,7 +850,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-independence-square-landmarks-v2",
     type: "landmark",
     name: { de: "Unabhängigkeitsplatz (Taschkent)", hu: "Függetlenség tere (Taskent)", ro: "Piața Independenței (Tașkent)", en: "Independence Square (Tashkent)" },
-    coordinates: { lat: 41.3155, lng: 69.268 },
+    coords: [69.268, 41.3155],
     description: {
       de: "Der zentrale Platz von Taschkent, der als Wahrzeichen des modernen Usbekistan gilt. Er ist Schauplatz für wichtige Staatszeremonien und Feierlichkeiten.",
       hu: "Taskent központi tere, a modern Üzbegisztán jelképe. Fontos állami ceremóniák és ünnepségek helyszíne.",
@@ -869,7 +869,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-barak-khan-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Barak-Khan-Madrasa", hu: "Barak-hán medresze", ro: "Madrasa Barak Khan", en: "Barak-Khan Madrasah" },
-    coordinates: { lat: 41.3375, lng: 69.2385 },
+    coords: [69.2385, 41.3375],
     description: {
       de: "Ein historisches religiöses Gebäude in Taschkent, das zum Hast-Imam-Komplex gehört. Sie war über Jahrhunderte ein Zentrum islamischer Gelehrsamkeit.",
       hu: "Taskent egyik történelmi vallási épülete, a Haszt Imám komplexum része. Évszázadokon át az iszlám oktatás központja volt.",
@@ -888,7 +888,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-yunus-khan-mausoleum-landmarks-v2",
     type: "landmark",
     name: { de: "Yunus-Khan-Mausoleum", hu: "Junusz-hán mauzóleum", ro: "Mausoleul Yunus Khan", en: "Yunus Khan Mausoleum" },
-    coordinates: { lat: 41.3225, lng: 69.253 },
+    coords: [69.253, 41.3225],
     description: {
       de: "Ein Grabmal in Taschkent, das einem Nachfahren von Dschingis Khan gewidmet ist. Es ist ein seltenes Beispiel für die Architektur des 15. Jahrhunderts in der Stadt.",
       hu: "Taskenti síremlék, amelyet Dzsingisz hán egyik leszármazottjának emeltek. A 15. századi helyi építészet egyik ritka példája.",
@@ -907,7 +907,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-gijduvan-pottery-museum-landmarks-v2",
     type: "museum",
     name: { de: "Töpferei-Museum Gijduvan", hu: "Gidzsduvani Kerámia Múzeum", ro: "Muzeul Ceramicii din Gijduvan", en: "Gijduvan Pottery Museum" },
-    coordinates: { lat: 40.1035, lng: 64.6755 },
+    coords: [64.6755, 40.1035],
     description: {
       de: "Ein familiengeführtes Museum und Werkstatt in Gijduvan, das die traditionelle Kunst der Keramikherstellung pflegt. Bekannt für seine einzigartigen Farben.",
       hu: "Családi kézben lévő múzeum és műhely Gidzsduvanban, amely a hagyományos kerámiaművészetet őrzi. Egyedi színeiről és mintáiról híres.",
@@ -926,7 +926,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-chilpyk-dakhma-landmarks-v2",
     type: "ruins",
     name: { de: "Chilpyk (Turm des Schweigens)", hu: "Csilpik (A csend toronya)", ro: "Chilpyk (Turnul Tăcerii)", en: "Chilpyk Dakhma" },
-    coordinates: { lat: 42.2175, lng: 60.0785 },
+    coords: [60.0785, 42.2175],
     description: {
       de: "Eine antike zoroastrische Begräbnisstätte (Dakhma) in Karakalpakstan. Das Bauwerk thront auf einem natürlichen Hügel über dem Amudarja-Fluss.",
       hu: "Ősi zoroasztriánus temetkezési hely (dahma) Karakalpaksztánban. Az építmény egy természetes domb tetején trónol az Amu-darja felett.",
@@ -945,7 +945,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-mizdakhkhan-necropolis-landmarks-v2",
     type: "ruins",
     name: { de: "Nekropole Mizdakhkhan", hu: "Mizdah-hán nekropolisz", ro: "Necropola Mizdakhkhan", en: "Mizdakhkhan Necropolis" },
-    coordinates: { lat: 42.4045, lng: 59.3855 },
+    coords: [59.3855, 42.4045],
     description: {
       de: "Ein riesiger historischer Friedhof und Archäologiekomplex nahe Nukus. Er beherbergt Gräber aus zoroastrischer und islamischer Zeit.",
       hu: "Hatalmas történelmi temető és régészeti együttes Nukusz közelében. Zoroasztriánus és iszlám kori síroknak egyaránt otthont ad.",
@@ -964,7 +964,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-sultan-saodat-landmarks-v2",
     type: "landmark",
     name: { de: "Sultan-Saodat-Komplex", hu: "Szultán Szaodat épületegyüttes", ro: "Complexul Sultan Saodat", en: "Sultan Saodat Memorial Complex" },
-    coordinates: { lat: 37.2625, lng: 67.315 },
+    coords: [67.315, 37.2625],
     description: {
       de: "Ein bedeutender religiöser Komplex in Termez, der die Familiengruft der Termezer Sayyids beherbergt. Er besteht aus mehreren Mausoleen und Moscheen.",
       hu: "Jelentős vallási épületegyüttes Termezben, amely a termezi szajjidok családi sírboltja. Számos mauzóleumból és mecsetből áll.",
@@ -983,7 +983,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-kirk-kyz-fortress-landmarks-v2",
     type: "ruins",
     name: { de: "Festung Kirk Kyz", hu: "Kirk Kiz erőd", ro: "Fortăreața Kirk Kyz", en: "Kirk Kyz Fortress" },
-    coordinates: { lat: 37.2665, lng: 67.3165 },
+    coords: [67.3165, 37.2665],
     description: {
       de: "Ein monumentales Lehmziegelgebäude aus dem 9. oder 10. Jahrhundert nahe Termez. Sein ursprünglicher Zweck ist unklar, wird aber oft als Palast oder Kloster gedeutet.",
       hu: "Hatalmas vályogtégla építmény a 9-10. századból Termez közelében. Eredeti funkciója bizonytalan, palotának vagy kolostornak is tartják.",
@@ -1002,7 +1002,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "uzbekistan-norbutabey-madrasah-landmarks-v2",
     type: "landmark",
     name: { de: "Norbutabey-Madrasa", hu: "Norbutabej medresze", ro: "Madrasa Norbutabey", en: "Norbutabey Madrasah" },
-    coordinates: { lat: 40.5285, lng: 70.9385 },
+    coords: [70.9385, 40.5285],
     description: {
       de: "Das größte religiöse Zentrum von Kokand, erbaut im späten 18. Jahrhundert. Sie blieb während der Sowjetzeit als eine der wenigen Madrasas in Betrieb.",
       hu: "Kokand legnagyobb vallási központja, amely a 18. század végén épült. A szovjet éra alatt is egyike volt a kevés működő medreszének.",

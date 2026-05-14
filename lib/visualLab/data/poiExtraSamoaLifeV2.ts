@@ -5,7 +5,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-o-le-pupu-pue-national-park-life-v2",
     type: "park",
     name: { de: "O Le Pupu-Pu'e Nationalpark", hu: "O Le Pupu-Pu'e Nemzeti Park", ro: "Parcul Național O Le Pupu-Pu'e", en: "O Le Pupu-Pu'e National Park" },
-    coordinates: { lat: -14.0012, lng: -171.7334 },
+    coords: [-171.7334, -14.0012],
     description: {
       de: "Dies ist Samoas erster Nationalpark, der sich von den höchsten Gipfeln Upolus bis zur zerklüfteten Lavaküste erstreckt. Er schützt wichtige tropische Regenwälder und seltene endemische Vogelarten.",
       hu: "Szamoa első nemzeti parkja Upolu legmagasabb csúcsaitól a déli partvidékig húzódik. A terület érintetlen esőerdőknek és számos ritka, őshonos madárfajnak ad otthont.",
@@ -24,7 +24,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-afu-aau-waterfalls-life-v2",
     type: "landmark",
     name: { de: "Afu Aau Wasserfälle", hu: "Afu Aau-vízesés", ro: "Cascada Afu Aau", en: "Afu Aau Waterfalls" },
-    coordinates: { lat: -13.7832, lng: -172.2751 },
+    coords: [-172.2751, -13.7832],
     description: {
       de: "Dieser spektakuläre Wasserfall auf Savai'i stürzt aus dem Regenwald in ein tiefes, kristallklares Süßwasserbecken. Die Anlage wird von der lokalen Gemeinschaft gepflegt und bietet ein idyllisches Naturerlebnis.",
       hu: "Ez a látványos vízesés Savai'i szigetén, az esőerdő mélyéről zúdul egy kristálytiszta édesvízi medencébe. A helyi közösség által gondozott terület tökéletes példája a természetes szépségnek.",
@@ -43,7 +43,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-palolo-deep-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Palolo Deep Meeresreservat", hu: "Palolo Deep Tengeri Rezervátum", ro: "Rezervația Marină Palolo Deep", en: "Palolo Deep Marine Reserve" },
-    coordinates: { lat: -13.8225, lng: -171.7612 },
+    coords: [-171.7612, -13.8225],
     description: {
       de: "Nur einen kurzen Spaziergang von Apia entfernt bietet dieses Reservat ein tiefes blaues Loch im Korallenriff, das von einer unglaublichen Vielfalt an tropischen Fischen und Korallen bewohnt wird.",
       hu: "Apiától rövid sétatávolságra található ez a rezervátum, amely egy mély kék lyukat rejt a korallzátonyban. A terület trópusi halak és korallok elképesztő változatosságának ad otthont.",
@@ -62,7 +62,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-falealupo-rainforest-preserve-life-v2",
     type: "forest",
     name: { de: "Falealupo Regenwald-Reservat", hu: "Falealupo Esőerdő Rezervátum", ro: "Rezervația de Pădure Tropicală Falealupo", en: "Falealupo Rainforest Preserve" },
-    coordinates: { lat: -13.5124, lng: -172.7815 },
+    coords: [-172.7815, -13.5124],
     description: {
       de: "Dieses Reservat im Westen von Savai'i ist für seinen Baumwipfelpfad bekannt. Es schützt einen der letzten verbliebenen Tieflandregenwälder Samoas und beherbergt eine reiche Vogelwelt.",
       hu: "Savai'i nyugati részén található ez a rezervátum, amely lombkoronasétányáról híres. Szamoa egyik utolsó megmaradt alföldi esőerdőjét védi, gazdag madárvilággal büzelkedve.",
@@ -81,7 +81,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-lake-lanotoo-national-park-life-v2",
     type: "lake",
     name: { de: "Lake Lanoto'o Nationalpark", hu: "Lake Lanoto'o Nemzeti Park", ro: "Parcul Național Lacul Lanoto'o", en: "Lake Lanoto'o National Park" },
-    coordinates: { lat: -13.9142, lng: -171.8325 },
+    coords: [-171.8325, -13.9142],
     description: {
       de: "Dieser Nationalpark im Hochland von Upolu schützt einen kratergefüllten See und das umliegende Sumpfgebiet. Er ist ein Ramsar-Gebiet von internationaler Bedeutung für den Naturschutz.",
       hu: "Ez az Upolu felföldjén található nemzeti park egy krátertavat és a környező mocsaras vidéket védi. Nemzetközi jelentőségű Ramsari terület a természetvédelem szempontjából.",
@@ -100,7 +100,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-mount-matavanu-crater-life-v2",
     type: "peak",
     name: { de: "Mount Matavanu Krater", hu: "Mount Matavanu kráter", ro: "Craterul Muntelui Matavanu", en: "Mount Matavanu Crater" },
-    coordinates: { lat: -13.5415, lng: -172.3924 },
+    coords: [-172.3924, -13.5415],
     description: {
       de: "Dieser aktive Vulkan auf Savai'i ist für seine massiven Eruptionen im frühen 20. Jahrhundert bekannt. Heute bietet der Krater einen Einblick in die geologische Kraft und die langsame Rückkehr der Vegetation.",
       hu: "Ez az aktív vulkán Savai'i szigetén a 20. század eleji hatalmas kitöréseiről ismert. Ma a kráter betekintést nyújt a geológiai erőkbe és a növényzet lassú visszatérésébe.",
@@ -119,7 +119,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-togitogiga-waterfall-life-v2",
     type: "landmark",
     name: { de: "Togitogiga Wasserfall", hu: "Togitogiga-vízesés", ro: "Cascada Togitogiga", en: "Togitogiga Waterfall" },
-    coordinates: { lat: -14.0125, lng: -171.7412 },
+    coords: [-171.7412, -14.0125],
     description: {
       de: "Gelegen im O Le Pupu-Pu'e Nationalpark, besteht dieser Wasserfall aus einer Reihe von Kaskaden und natürlichen Schwimmbecken, die von üppigen Gärten umgeben sind.",
       hu: "Az O Le Pupu-Pu'e Nemzeti Parkban található vízesés több zuhatagból és természetes úszómedencéből áll, melyeket buja kertek vesznek körül.",
@@ -138,7 +138,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-fuipisia-waterfall-life-v2",
     type: "landmark",
     name: { de: "Fuipisia Wasserfall", hu: "Fuipisia-vízesés", ro: "Cascada Fuipisia", en: "Fuipisia Waterfall" },
-    coordinates: { lat: -13.9824, lng: -171.5815 },
+    coords: [-171.5815, -13.9824],
     description: {
       de: "Dieser spektakuläre, 54 Meter hohe Wasserfall stürzt über eine steile Klippe in eine dichte Dschungelschlucht. Er bietet einen der dramatischsten Anblicke auf der Insel Upolu.",
       hu: "Ez a látványos, 54 méter magas vízesés egy meredek szikláról zúdul alá egy sűrű dzsungel borította szurdokba. Upolu szigetének egyik legdrámaibb látványát nyújtja.",
@@ -157,7 +157,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-sopoaga-waterfall-life-v2",
     type: "landmark",
     name: { de: "Sopoaga Wasserfall", hu: "Sopoaga-vízesés", ro: "Cascada Sopoaga", en: "Sopoaga Waterfall" },
-    coordinates: { lat: -13.9754, lng: -171.5832 },
+    coords: [-171.5832, -13.9754],
     description: {
       de: "Inmitten eines botanischen Gartens gelegen, bietet dieser Wasserfall einen malerischen Blick auf die tropische Flora Samoas und die beeindruckende Tiefe der Schlucht.",
       hu: "Egy botanikus kert közepén található ez a vízesés, amely festői kilátást nyújt Szamoa trópusi flórájára és a szurdok lenyűgöző mélységére.",
@@ -176,7 +176,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-papapapaitai-falls-life-v2",
     type: "landmark",
     name: { de: "Papapapaitai Wasserfälle", hu: "Papapapaitai-vízesés", ro: "Cascada Papapapaitai", en: "Papapapaitai Falls" },
-    coordinates: { lat: -13.9412, lng: -171.8024 },
+    coords: [-171.8024, -13.9412],
     description: {
       de: "Mit einer Fallhöhe von über 100 Metern ist dies einer der höchsten Wasserfälle Samoas. Er stürzt spektakulär in einen riesigen, von Wald bedeckten Vulkankrater.",
       hu: "Több mint 100 méteres magasságával ez Szamoa egyik legmagasabb vízesése. Látványosan zúdul alá egy hatalmas, erdővel borított vulkáni kráterbe.",
@@ -195,7 +195,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-tafua-peninsula-rainforest-preserve-life-v2",
     type: "forest",
     name: { de: "Tafua Halbinsel Reservat", hu: "Tafua-félsziget Rezervátum", ro: "Rezervația Peninsulei Tafua", en: "Tafua Peninsula Rainforest Preserve" },
-    coordinates: { lat: -13.7725, lng: -172.2312 },
+    coords: [-172.2312, -13.7725],
     description: {
       de: "Dieses unberührte Küstengebiet auf Savai'i schützt dichte Regenwälder auf Lavagestein und ist einer der besten Orte zur Beobachtung von Vögeln und Flugfüchsen.",
       hu: "Ez az érintetlen parti terület Savai'i szigetén a lávakőzetre települt sűrű esőerdőket védi. Szamoa egyik legjobb helye madarak és repülőkutyák megfigyelésére.",
@@ -214,7 +214,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-savaia-marine-protected-area-life-v2",
     type: "wildlife",
     name: { de: "Savaia Meerschutzgebiet", hu: "Savaia Tengeri Védett Terület", ro: "Zona Marină Protejată Savaia", en: "Savaia Marine Protected Area" },
-    coordinates: { lat: -13.9425, lng: -171.9314 },
+    coords: [-171.9314, -13.9425],
     description: {
       de: "Dieses von der Gemeinde verwaltete Schutzgebiet ist berühmt für seine Riesenmuscheln. Es zeigt ein erfolgreiches Beispiel für samoanischen Naturschutz durch lokale Dörfer.",
       hu: "Ez a közösség által kezelt védett terület az óriáskagylóiról híres. Kiváló példája a szamoai falvak sikeres természetvédelmi törekvéseinek.",
@@ -233,7 +233,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-peapea-cave-life-v2",
     type: "landmark",
     name: { de: "Pe'ape'a Höhle", hu: "Pe'ape'a-barlang", ro: "Peștera Pe'ape'a", en: "Pe'ape'a Cave" },
-    coordinates: { lat: -13.9912, lng: -171.7124 },
+    coords: [-171.7124, -13.9912],
     description: {
       de: "Diese Lavaröhre im O Le Pupu-Pu'e Nationalpark ist ein wichtiger Nistplatz für Salanganen (kleine Vögel), die lokal Pe'ape'a genannt werden.",
       hu: "Ez az O Le Pupu-Pu'e Nemzeti Parkban található lávacső-barlang fontos fészkelőhelye a sarlósfecskéknek, melyeket helyi nyelven Pe'ape'ának hívnak.",
@@ -252,7 +252,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-mount-silisili-life-v2",
     type: "peak",
     name: { de: "Mount Silisili", hu: "Mount Silisili", ro: "Muntele Silisili", en: "Mount Silisili" },
-    coordinates: { lat: -13.6125, lng: -172.4834 },
+    coords: [-172.4834, -13.6125],
     description: {
       de: "Mit 1.858 Metern ist der Mount Silisili der höchste Gipfel Samoas. Er liegt im Zentrum von Savai'i und ist von unberührtem Hochlandregenwald umgeben.",
       hu: "1858 méteres magasságával a Mount Silisili Szamoa legmagasabb csúcsa. Savai'i szigetének közepén található, érintetlen magashegyi esőerdővel körülvéve.",
@@ -271,7 +271,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-namua-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Namu'a", hu: "Namu'a-sziget", ro: "Insula Namu'a", en: "Namu'a Island" },
-    coordinates: { lat: -14.0215, lng: -171.4124 },
+    coords: [-171.4124, -14.0215],
     description: {
       de: "Diese kleine, unbewohnte Insel vor der Ostküste von Upolu ist ein Paradies für Meeresschildkröten und bietet unberührte Korallenriffe zum Schnorcheln.",
       hu: "Ez a kicsi, lakatlan sziget Upolu keleti partjainál a tengeri teknősök paradicsoma, érintetlen korallzátonyokkal várva a búvárokat.",
@@ -290,7 +290,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-nuulopa-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Nu'ulopa Vogelschutzgebiet", hu: "Nu'ulopa Madárrezervátum", ro: "Rezervația de Păsări Nu'ulopa", en: "Nu'ulopa Bird Sanctuary" },
-    coordinates: { lat: -13.8424, lng: -172.1312 },
+    coords: [-172.1312, -13.8424],
     description: {
       de: "Dieses winzige Eiland in der Meerenge zwischen Upolu und Savai'i ist ein wichtiges Schutzgebiet für nistende Seevögel und Flugfüchse.",
       hu: "Ez az apró sziget az Upolu és Savai'i közötti szorosban fontos védett terület a fészkelő tengeri madarak és repülőkutyák számára.",
@@ -309,7 +309,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-saleaula-lava-fields-life-v2",
     type: "landmark",
     name: { de: "Saleaula Lavafelder", hu: "Saleaula lávamezők", ro: "Câmpurile de Lavă Saleaula", en: "Saleaula Lava Fields" },
-    coordinates: { lat: -13.4412, lng: -172.3421 },
+    coords: [-172.3421, -13.4412],
     description: {
       de: "Diese weiten Lavofelder auf Savai'i entstanden beim Ausbruch des Mount Matavanu (1905-1911). Sie zeigen eindrucksvoll die Zerstörung und die langsame Wiederbesiedlung durch die Natur.",
       hu: "Ezek a Savai'i szigetén található kiterjedt lávamezők a Mount Matavanu kitörésekor (1905-1911) jöttek létre. Látványosan mutatják be a pusztítást és a természet lassú újjáéledését.",
@@ -328,7 +328,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-vaipu-swamp-forest-life-v2",
     type: "forest",
     name: { de: "Vaipu Sumpfwald", hu: "Vaipu-mocsárerdő", ro: "Pădurea de Mlaștină Vaipu", en: "Vaipu Swamp Forest" },
-    coordinates: { lat: -13.9925, lng: -171.5312 },
+    coords: [-171.5312, -13.9925],
     description: {
       de: "Dies ist einer der größten verbliebenen Sumpfwälder Samoas. Er ist ein kritischer Lebensraum für bedrohte Tierarten und reguliert das Wasserökosystem der Region.",
       hu: "Ez Szamoa egyik legnagyobb megmaradt mocsárerdője. Kritikus élőhelye a veszélyeztetett fajoknak, és szabályozza a régió vízi ökoszisztémáját.",
@@ -347,7 +347,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-mount-vaea-nature-reserve-life-v2",
     type: "forest",
     name: { de: "Mount Vaea Naturschutzgebiet", hu: "Mount Vaea Természetvédelmi Terület", ro: "Rezervația Naturală Muntele Vaea", en: "Mount Vaea Nature Reserve" },
-    coordinates: { lat: -13.8612, lng: -171.7745 },
+    coords: [-171.7745, -13.8612],
     description: {
       de: "Dieses Reservat überragt die Hauptstadt Apia und schützt einen wichtigen Sekundärregenwald. Es ist auch der Ort des Grabes des berühmten Autors Robert Louis Stevenson.",
       hu: "Ez a rezervátum Apia főváros felett magasodik, és egy fontos másodlagos esőerdőt védelmez. Itt található a híres író, Robert Louis Stevenson sírja is.",
@@ -366,7 +366,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-aganoa-beach-life-v2",
     type: "landmark",
     name: { de: "Aganoa Strand", hu: "Aganoa-part", ro: "Plaja Aganoa", en: "Aganoa Beach" },
-    coordinates: { lat: -13.7712, lng: -172.3115 },
+    coords: [-172.3115, -13.7712],
     description: {
       de: "Dieser abgelegene Strand auf Savai'i ist für seinen schwarzen Vulkansand und die umliegenden Korallenriffe bekannt. Er bietet einen Einblick in die unberührte Küstennatur Samoas.",
       hu: "Ez az eldugott Savai'i-szigeti part fekete vulkáni homokjáról és a környező korallzátonyokról ismert. Betekintést nyújt Szamoa érintetlen parti természetébe.",
@@ -385,7 +385,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-saanapu-mangrove-life-v2",
     type: "forest",
     name: { de: "Sa'anapu Mangrovenschutzgebiet", hu: "Sa'anapu Mangrove-védett Terület", ro: "Rezervația de Mangrove Sa'anapu", en: "Sa'anapu Mangrove Conservation Area" },
-    coordinates: { lat: -13.9812, lng: -171.8834 },
+    coords: [-171.8834, -13.9812],
     description: {
       de: "Dieses Mangrovengebiet an der Südküste von Upolu ist eines der am besten erhaltenen in Samoa. Es schützt die Küste vor Erosion und bietet vielen Fischarten ein sicheres Versteck.",
       hu: "Ez az Upolu déli partján található mangrove-erdő Szamoa egyik legjobb állapotban megmaradt területe. Védi a partot az eróziótól, és számos halfajnak nyújt búvóhelyet.",
@@ -404,7 +404,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-satoalepai-turtle-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Sato'alepai Schildkröten-Schutzgebiet", hu: "Sato'alepai Teknősrezervátum", ro: "Sanctuarul de Țestoase Sato'alepai", en: "Sato'alepai Turtle Sanctuary" },
-    coordinates: { lat: -13.4512, lng: -172.3312 },
+    coords: [-172.3312, -13.4512],
     description: {
       de: "Dieses Reservat auf Savai'i widmet sich der Aufzucht und dem Schutz von Grünen Meeresschildkröten. Besucher können die Tiere in einem geschützten Feuchtgebiet aus der Nähe beobachten.",
       hu: "Ez a Savai'i szigetén található rezervátum a zöld tengeri teknősök nevelésének és védelmének szentelt terület. A látogatók közelről láthatják az állatokat egy védett vizes élőhelyen.",
@@ -423,7 +423,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-apolima-island-life-v2",
     type: "landmark",
     name: { de: "Insel Apolima", hu: "Apolima-sziget", ro: "Insula Apolima", en: "Apolima Island" },
-    coordinates: { lat: -13.8125, lng: -172.1534 },
+    coords: [-172.1534, -13.8125],
     description: {
       de: "Apolima ist der Überrest eines erloschenen Vulkankraters, dessen eine Seite zum Meer hin offen ist. Die Insel beherbergt ein kleines Dorf und eine einzigartige, isolierte Flora.",
       hu: "Apolima egy kialudt vulkáni kráter maradványa, amelynek egyik oldala nyitott a tenger felé. A sziget egy kis falunak és egyedülálló, elszigetelt flórának ad otthont.",
@@ -442,7 +442,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-manono-island-reefs-life-v2",
     type: "wildlife",
     name: { de: "Insel Manono Riffe", hu: "Manono-szigeti zátonyok", ro: "Recifele Insulei Manono", en: "Manono Island Reefs" },
-    coordinates: { lat: -13.8415, lng: -172.1124 },
+    coords: [-172.1124, -13.8415],
     description: {
       de: "Die Gewässer um Manono beherbergen ausgedehnte, gesunde Korallengärten. Die Insel ist autofrei und schützt durch ihre traditionelle Lebensweise das umliegende Meeresökosystem.",
       hu: "A Manono körüli vizek kiterjedt, egészséges korallkerteknek adnak otthont. A sziget autómentes, és hagyományos életmódjával védi a környező tengeri ökoszisztémát.",
@@ -461,7 +461,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-cape-mulinuu-marine-life-v2",
     type: "landmark",
     name: { de: "Kap Mulinu'u Meeresleben", hu: "Mulinu'u-fok tengeri élővilág", ro: "Viața Marină de la Capul Mulinu'u", en: "Cape Mulinu'u Marine Life" },
-    coordinates: { lat: -13.5125, lng: -172.8124 },
+    coords: [-172.8124, -13.5125],
     description: {
       de: "Das Kap Mulinu'u ist der westlichste Punkt von Savai'i. Die wilden Küstengewässer sind für ihre reiche marine Biodiversität und die tiefblauen Abgründe des Pazifiks bekannt.",
       hu: "A Mulinu'u-fok Savai'i legnyugatibb pontja. Vadregényes part menti vizei gazdag tengeri biológiai sokféleségükről és a Csendes-óceán mélykék mélységeiről ismertek.",
@@ -480,7 +480,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-mu-pagoa-waterfall-life-v2",
     type: "landmark",
     name: { de: "Mu Pagoa Wasserfall", hu: "Mu Pagoa-vízesés", ro: "Cascada Mu Pagoa", en: "Mu Pagoa Waterfall" },
-    coordinates: { lat: -13.7742, lng: -172.3415 },
+    coords: [-172.3415, -13.7742],
     description: {
       de: "Dieser einzigartige Wasserfall auf Savai'i stürzt direkt ins Meer. Es ist ein seltener Ort, an dem das Süßwasser eines Flusses auf die salzigen Wellen des Pazifiks trifft.",
       hu: "Ez az egyedülálló vízesés Savai'i szigetén közvetlenül a tengerbe ömlik. Ritka helyszín, ahol a folyó édesvize találkozik a Csendes-óceán sós hullámaival.",
@@ -499,7 +499,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-vaisigano-river-valley-life-v2",
     type: "valley",
     name: { de: "Vaisigano Flusstal", hu: "Vaisigano-folyó völgye", ro: "Valea Râului Vaisigano", en: "Vaisigano River Valley" },
-    coordinates: { lat: -13.8812, lng: -171.7512 },
+    coords: [-171.7512, -13.8812],
     description: {
       de: "Das Tal des Vaisigano-Flusses ist ein wichtiges Wassereinzugsgebiet für Apia. Es beherbergt dichte tropische Wälder und ist ein Zentrum der Artenvielfalt auf Upolu.",
       hu: "A Vaisigano-folyó völgye Apia fontos vízgyűjtő területe. Sűrű trópusi erdőknek ad otthont, és Upolu biológiai sokféleségének egyik központja.",
@@ -518,7 +518,7 @@ export const samoaLifeV2: POI[] = [
     id: "samoa-lalomanu-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Lalomanu Meeresreservat", hu: "Lalomanu Tengeri Rezervátum", ro: "Rezervația Marină Lalomanu", en: "Lalomanu Marine Reserve" },
-    coordinates: { lat: -14.0412, lng: -171.4432 },
+    coords: [-171.4432, -14.0412],
     description: {
       de: "Die Gewässer vor Lalomanu schüzten farbenprächtige Korallenriffe und sind ein Hotspot für tropische Meeresbiodiversität. Das Reservat hat sich bemerkenswert von den Schäden des Tsunamis 2009 erholt.",
       hu: "A Lalomanu előtti vizek színes korallzátonyokat védenek, és a trópusi tengeri biológiai sokféleség gócpontjai. A rezervátum figyelemre méltóan regenerálódott a 2009-es szökőár pusztítása után.",

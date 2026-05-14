@@ -5,7 +5,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-st-joseph-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Saint-Joseph von Nouméa", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
-    coordinates: { lat: -22.2708, lng: 166.4439 },
+    coords: [166.4439, -22.2708],
     description: {
       de: "Die zwischen 1887 und 1897 errichtete Kathedrale ist der Sitz des Erzbistums Nouméa. Das Gebäude wurde von einem Sträfling entworfen.",
       hu: "Az 1887 és 1897 között épült katedrális a Nouméai főegyházmegye székhelye. Az épületet egy korábbi fegyenc tervezte.",
@@ -24,7 +24,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-tjibaou-cultural-centre-landmarks-v2",
     type: "museum",
     name: { de: "Centre Culturel Tjibaou", hu: "Tjibaou Kulturális Központ", ro: "Centrul Cultural Tjibaou", en: "Tjibaou Cultural Centre" },
-    coordinates: { lat: -22.2572, lng: 166.4817 },
+    coords: [166.4817, -22.2572],
     description: {
       de: "Das von Renzo Piano entworfene Zentrum feiert die Kanak-Kultur mit zehn hölzernen Strukturen, die an traditionelle Hütten erinnern.",
       hu: "A Renzo Piano által tervezett központ a kanak kultúrát ünnepli tíz faépítménnyel, amelyek a hagyományos kunyhókra emlékeztetnek.",
@@ -43,7 +43,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-mouli-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Pont de Mouli", hu: "Mouli-híd", ro: "Podul Mouli", en: "Mouli Bridge" },
-    coordinates: { lat: -20.7188, lng: 166.4258 },
+    coords: [166.4258, -20.7188],
     description: {
       de: "Diese Brücke verbindet die Inseln Mouli und Lekiny in der Ouvéa-Lagune und bietet einen Blick auf türkisfarbenes Wasser.",
       hu: "Ez a híd összeköti Mouli és Lekiny szigeteit az Ouvéa-lagúnában, kilátást nyújtva a türkizkék vízre.",
@@ -62,7 +62,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-noumea-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Hôtel de Ville de Nouméa", hu: "Nouméai városháza", ro: "Primăria din Nouméa", en: "Nouméa City Hall" },
-    coordinates: { lat: -22.2721, lng: 166.4452 },
+    coords: [166.4452, -22.2721],
     description: {
       de: "Das Rathaus von Nouméa ist in einem markanten Gebäude am Rande der Place des Cocotiers untergebracht.",
       hu: "Nouméa városháza egy jellegzetes épületben található a Place des Cocotiers szélén.",
@@ -81,7 +81,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-prony-penal-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Prony", hu: "Prony fegyenckolónia romjai", ro: "Ruinele de la Prony", en: "Prony Penal Colony Ruins" },
-    coordinates: { lat: -22.3167, lng: 166.85 },
+    coords: [166.85, -22.3167],
     description: {
       de: "Die Überreste dieser Strafkolonie im Süden wurden im 19. Jahrhundert zur Holzgewinnung und Unterbringung von Gefangenen genutzt.",
       hu: "Ennek a déli fegyenckolóniának a maradványait a 19. században fakitermelésre és foglyok elhelyezésére használták.",
@@ -100,7 +100,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-prison-ile-des-pins-landmarks-v2",
     type: "ruins",
     name: { de: "Gefängnisruinen der Île des Pins", hu: "Fenyő-szigeti börtönromok", ro: "Ruinele închisorii de pe Insula Pinilor", en: "Ile des Pins Prison Ruins" },
-    coordinates: { lat: -22.6583, lng: 167.4333 },
+    coords: [167.4333, -22.6583],
     description: {
       de: "Diese Ruinen gehören zu einem Gefängnis, in dem im 19. Jahrhundert politische Deportierte der Pariser Kommune untergebracht waren.",
       hu: "Ezek a romok egy börtönhöz tartoznak, ahol a 19. században a Párizsi Kommün politikai deportáltjait őrizték.",
@@ -119,7 +119,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-hienghene-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Hienghène", hu: "Hienghène-i templom", ro: "Biserica din Hienghène", en: "Hienghène Church" },
-    coordinates: { lat: -20.6833, lng: 164.9333 },
+    coords: [164.9333, -20.6833],
     description: {
       de: "Diese Kirche liegt an der Ostküste und ist ein Beispiel für die Missionsarchitektur in den ländlichen Gebieten.",
       hu: "Ez a templom a keleti parton található, és a vidéki területek missziós építészetének példája.",
@@ -138,7 +138,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-tye-mission-church-landmarks-v2",
     type: "church",
     name: { de: "Missionskirche von Tyé", hu: "Tyé-i missziós templom", ro: "Biserica misiunii din Tyé", en: "Tyé Mission Church" },
-    coordinates: { lat: -21.0333, lng: 165.3167 },
+    coords: [165.3167, -21.0333],
     description: {
       de: "Die Mission von Tyé bei Poindimié war eine bedeutende katholische Einrichtung zur Evangelisierung der Zentralküste.",
       hu: "A Poindimié közeli Tyé-misszió jelentős katolikus intézmény volt a központi partvidék evangelizálására.",
@@ -157,7 +157,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-balade-mission-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Balade", hu: "Balade-i templom", ro: "Biserica din Balade", en: "Balade Church" },
-    coordinates: { lat: -20.3167, lng: 164.4833 },
+    coords: [164.4833, -20.3167],
     description: {
       de: "Balade ist der Ort, an dem James Cook 1774 landete und wo 1843 die erste katholische Mission gegründet wurde.",
       hu: "Balade az a hely, ahol James Cook 1774-ben partra szállt, és ahol 1843-ban az első katolikus missziót alapították.",
@@ -176,7 +176,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-tadine-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Tadine", hu: "Tadine-i templom", ro: "Biserica din Tadine", en: "Tadine Church" },
-    coordinates: { lat: -21.55, lng: 167.8833 },
+    coords: [167.8833, -21.55],
     description: {
       de: "Die Kirche von Tadine ist das religiöse Zentrum von Maré, einer der Loyalitätsinseln, und blickt auf den Hafen.",
       hu: "Tadine temploma Maré, a Hűség-szigetek egyikének vallási központja, kilátással a kikötőre.",
@@ -195,7 +195,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-we-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Wé", hu: "Wé temploma", ro: "Biserica din Wé", en: "Wé Church" },
-    coordinates: { lat: -20.9167, lng: 167.2667 },
+    coords: [167.2667, -20.9167],
     description: {
       de: "Diese Kirche in Wé ist die wichtigste protestantische oder katholische Kultstätte auf der Insel Lifou.",
       hu: "Ez a wéi templom Lifou szigetének legfontosabb protestáns vagy katolikus vallási helyszíne.",
@@ -214,7 +214,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-kiosque-musique-landmarks-v2",
     type: "landmark",
     name: { de: "Kiosque à Musique", hu: "Zene-kioszk", ro: "Chioșcul de muzică", en: "Bandstand of Place des Cocotiers" },
-    coordinates: { lat: -22.2714, lng: 166.4428 },
+    coords: [166.4428, -22.2714],
     description: {
       de: "Dieser 1879 errichtete Musikpavillon ist das Wahrzeichen der Place des Cocotiers im Herzen von Nouméa.",
       hu: "Ez az 1879-ben épült zenepavilon a Nouméa szívében található Place des Cocotiers jelképe.",
@@ -233,7 +233,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-celeste-fountain-landmarks-v2",
     type: "monument",
     name: { de: "Fontaine Céleste", hu: "Céleste-szökőkút", ro: "Fântâna Céleste", en: "Celeste Fountain" },
-    coordinates: { lat: -22.2711, lng: 166.4419 },
+    coords: [166.4419, -22.2711],
     description: {
       de: "Die 1893 errichtete Fontaine Céleste markiert den Nullpunkt der Entfernungen in Neukaledonien.",
       hu: "Az 1893-ban emelt Céleste-szökőkút jelzi az Új-Kaledóniai távolságok nulladik pontját.",
@@ -252,7 +252,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-monument-to-the-dead-landmarks-v2",
     type: "monument",
     name: { de: "Monument aux Morts", hu: "Hősi emlékmű", ro: "Monumentul Eroilor", en: "Monument to the Dead" },
-    coordinates: { lat: -22.2725, lng: 166.4442 },
+    coords: [166.4442, -22.2725],
     description: {
       de: "Dieses Denkmal in Nouméa ehrt die kaledonischen Soldaten, die in den beiden Weltkriegen gefallen sind.",
       hu: "Ez a nouméai emlékmű a két világháborúban elesett kaledóniai katonák előtt tiszteleg.",
@@ -271,7 +271,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-olry-statue-landmarks-v2",
     type: "monument",
     name: { de: "Statue d'Olry", hu: "Olry-szobor", ro: "Statuia lui Olry", en: "Olry Statue" },
-    coordinates: { lat: -22.2717, lng: 166.4431 },
+    coords: [166.4431, -22.2717],
     description: {
       de: "Die Statue erinnert an Admiral Olry, der während des Kanak-Aufstands von 1878 Gouverneur der Insel war.",
       hu: "A szobor Olry admirálisnak állít emléket, aki a sziget kormányzója volt az 1878-as kanak felkelés idején.",
@@ -290,7 +290,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-theatre-ile-landmarks-v2",
     type: "theater",
     name: { de: "Théâtre de l'Île", hu: "Sziget Színház", ro: "Teatrul Insulei", en: "Theatre de l'Ile" },
-    coordinates: { lat: -22.2858, lng: 166.4183 },
+    coords: [166.4183, -22.2858],
     description: {
       de: "Dieses Theater ist in einem Gebäude der ehemaligen Strafkolonie auf der Halbinsel Nouville untergebracht.",
       hu: "Ez a színház az egykori fegyenckolónia egyik épületében kapott helyet a Nouville-félszigeten.",
@@ -309,7 +309,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-paita-railway-station-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen des Bahnhofs von Païta", hu: "Païtai vasútállomás romjai", ro: "Ruinele gării din Païta", en: "Païta Railway Station Ruins" },
-    coordinates: { lat: -22.1333, lng: 166.3667 },
+    coords: [166.3667, -22.1333],
     description: {
       de: "Diese Ruinen sind die Überreste der einzigen Eisenbahnlinie Neukaledoniens, die einst Nouméa mit Païta verband.",
       hu: "Ezek a romok Új-Kaledónia egyetlen vasútvonalának maradványai, amely egykor Nouméát kötötte össze Païtával.",
@@ -328,7 +328,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-villa-saint-louis-landmarks-v2",
     type: "palace",
     name: { de: "Villa de Saint-Louis", hu: "Szent Lajos-villa", ro: "Vila din Saint-Louis", en: "Villa de Saint-Louis" },
-    coordinates: { lat: -22.2333, lng: 166.55 },
+    coords: [166.55, -22.2333],
     description: {
       de: "Diese historische Villa in der Nähe der Saint-Louis-Mission ist ein bedeutendes Beispiel kolonialer Wohnarchitektur.",
       hu: "Ez a történelmi villa a Szent Lajos-misszió közelében a gyarmati lakóépítészet jelentős példája.",
@@ -347,7 +347,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-laperouse-monument-landmarks-v2",
     type: "monument",
     name: { de: "Monument Lapérouse", hu: "Lapérouse-emlékmű", ro: "Monumentul Lapérouse", en: "Lapérouse Monument" },
-    coordinates: { lat: -22.28, lng: 166.43 },
+    coords: [166.43, -22.28],
     description: {
       de: "Dieses Denkmal erinnert an den französischen Entdecker Jean-François de Lapérouse, der 1788 im Pazifik verschwand.",
       hu: "Ez az emlékmű Jean-François de Lapérouse francia felfedező előtt tiszteleg, aki 1788-ban tűnt el a Csendes-óceánon.",
@@ -366,7 +366,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-free-france-monument-landmarks-v2",
     type: "monument",
     name: { de: "Monument de la France Libre", hu: "Szabad Franciaország emlékmű", ro: "Monumentul Franței Libere", en: "Free France Monument" },
-    coordinates: { lat: -22.2806, lng: 166.4422 },
+    coords: [166.4422, -22.2806],
     description: {
       de: "Das Denkmal erinnert an den Beitritt Neukaledoniens zum Freien Frankreich unter General de Gaulle im Jahr 1940.",
       hu: "Az emlékmű Új-Kaledónia 1940-es csatlakozására emlékeztet a de Gaulle tábornok vezette Szabad Franciaországhoz.",
@@ -385,7 +385,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-centenary-monument-landmarks-v2",
     type: "monument",
     name: { de: "Monument du Centenaire", hu: "Centenáriumi emlékmű", ro: "Monumentul Centenarului", en: "Centenary Monument" },
-    coordinates: { lat: -22.275, lng: 166.435 },
+    coords: [166.435, -22.275],
     description: {
       de: "Dieses Denkmal wurde 1953 errichtet, um das hundertjährige Bestehen der französischen Präsenz in Neukaledonien zu feiern.",
       hu: "Ezt az emlékművet 1953-ban emelték a francia jelenlét századik évfordulójának megünneplésére Új-Kaledóniában.",
@@ -404,7 +404,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-gaston-bourret-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Ancien Hôpital Gaston-Bourret", hu: "Régi Gaston-Bourret Kórház", ro: "Vechiul Spital Gaston-Bourret", en: "Old Gaston-Bourret Hospital" },
-    coordinates: { lat: -22.2711, lng: 166.4367 },
+    coords: [166.4367, -22.2711],
     description: {
       de: "Das ursprüngliche Krankenhausgebäude im Zentrum von Nouméa ist ein wichtiges Beispiel für koloniale öffentliche Architektur.",
       hu: "Az eredeti kórházépület Nouméa központjában a gyarmati középítészet fontos példája.",
@@ -423,7 +423,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-tabu-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Phare de Tabu", hu: "Tabu-világítótorony", ro: "Farul Tabu", en: "Tabu Lighthouse" },
-    coordinates: { lat: -22.4833, lng: 166.75 },
+    coords: [166.75, -22.4833],
     description: {
       de: "Dieser Leuchtturm sichert die Durchfahrt durch das Riff im Südosten von Grande Terre.",
       hu: "Ez a világítótorony biztosítja az áthaladást a zátonyon Grande Terre délkeleti részén.",
@@ -442,7 +442,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-signal-islet-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Phare de l'Îlot Signal", hu: "Signal-szigeti világítótorony", ro: "Farul de pe Îlot Signal", en: "Signal Islet Lighthouse" },
-    coordinates: { lat: -22.2983, lng: 166.2917 },
+    coords: [166.2917, -22.2983],
     description: {
       de: "Ein kleiner Leuchtturm auf einer Insel vor Nouméa, der ursprünglich als Navigationsmarke diente.",
       hu: "Egy kis világítótorony egy Nouméa közeli szigeten, amely eredetileg navigációs jelzésként szolgált.",
@@ -461,7 +461,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-cap-ndua-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Phare du Cap N'Dua", hu: "Cap N'Dua-világítótorony", ro: "Farul de la Cap N'Dua", en: "Cap N'Dua Lighthouse" },
-    coordinates: { lat: -22.3833, lng: 166.9167 },
+    coords: [166.9167, -22.3833],
     description: {
       de: "Dieser Leuchtturm an der Südspitze der Insel ist ein hervorragender Ort zur Beobachtung von Walen.",
       hu: "Ez a világítótorony a sziget déli csücskén kiváló hely a bálnák megfigyelésére.",
@@ -480,7 +480,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-joun-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Phare de Joun", hu: "Joun-világítótorony", ro: "Farul Joun", en: "Joun Lighthouse" },
-    coordinates: { lat: -21.4167, lng: 167.8167 },
+    coords: [167.8167, -21.4167],
     description: {
       de: "Ein abgelegener Leuchtturm auf der Insel Maré, der den Schiffsverkehr zwischen den Loyalitätsinseln leitet.",
       hu: "Egy távoli világítótorony Maré szigetén, amely a Hűség-szigetek közötti hajóforgalmat irányítja.",
@@ -499,7 +499,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-easo-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Easo", hu: "Easo temploma", ro: "Biserica din Easo", en: "Easo Church" },
-    coordinates: { lat: -20.9167, lng: 167.1167 },
+    coords: [167.1167, -20.9167],
     description: {
       de: "Diese Kirche auf Lifou bietet einen weiten Blick über die Bucht von Santal und ist für ihre Schlichtheit bekannt.",
       hu: "Ez a Lifou-szigeti templom széles kilátást nyújt a Santal-öbölre, és egyszerűségéről ismert.",
@@ -518,7 +518,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-saint-gabriel-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche Saint-Gabriel", hu: "Szent Gábriel-templom", ro: "Biserica Sfântul Gabriel", en: "Saint Gabriel Church" },
-    coordinates: { lat: -21.5167, lng: 165.95 },
+    coords: [165.95, -21.5167],
     description: {
       de: "Diese Kirche in Canala ist ein Beispiel für die koloniale Missionstätigkeit an der Zentralküste.",
       hu: "Ez a canala-i templom a központi partvidék gyarmati missziós tevékenységének példája.",
@@ -537,7 +537,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-poum-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Poum", hu: "Poumi templom", ro: "Biserica din Poum", en: "Poum Church" },
-    coordinates: { lat: -20.2333, lng: 164.0167 },
+    coords: [164.0167, -20.2333],
     description: {
       de: "Die nördlichste Kirche der Hauptinsel Grande Terre dient der kleinen Gemeinde in der Poum-Region.",
       hu: "Grande Terre főszigetének legészakibb temploma a Poum régió kis közösségét szolgálja.",
@@ -556,7 +556,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-kone-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Hôtel de Ville de Koné", hu: "Koné városháza", ro: "Primăria din Koné", en: "Koné City Hall" },
-    coordinates: { lat: -21.0583, lng: 164.8667 },
+    coords: [164.8667, -21.0583],
     description: {
       de: "Das Rathaus von Koné ist das administrative Zentrum der Nordprovinz Neukaledoniens.",
       hu: "Koné városháza Új-Kaledónia Északi tartományának közigazgatási központja.",
@@ -575,7 +575,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-bourail-museum-landmarks-v2",
     type: "museum",
     name: { de: "Musée de Bourail", hu: "Bourail Múzeum", ro: "Muzeul din Bourail", en: "Bourail Museum" },
-    coordinates: { lat: -21.57, lng: 165.49 },
+    coords: [165.49, -21.57],
     description: {
       de: "Das in einem historischen Kolonialgebäude untergebrachte Museum zeigt die Geschichte des ländlichen Lebens und der Sträflinge.",
       hu: "A történelmi gyarmati épületben helyet kapott múzeum a vidéki élet és a fegyencek történelmét mutatja be.",
@@ -594,7 +594,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-moindou-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Alte Post von Moindou", hu: "Moindoui régi posta", ro: "Vechea poștă din Moindou", en: "Old Moindou Post Office" },
-    coordinates: { lat: -21.7, lng: 165.6833 },
+    coords: [165.6833, -21.7],
     description: {
       de: "Dieses kleine, gut erhaltene Kolonialgebäude diente im 19. Jahrhundert als Poststation in der ländlichen Gegend.",
       hu: "Ez a kicsi, jól megőrzött gyarmati épület a 19. században postaként szolgált a vidéki területen.",
@@ -613,7 +613,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-koumac-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Koumac", hu: "Koumaci templom", ro: "Biserica din Koumac", en: "Koumac Church" },
-    coordinates: { lat: -20.55, lng: 164.2833 },
+    coords: [164.2833, -20.55],
     description: {
       de: "Die katholische Kirche von Koumac ist ein zentraler Treffpunkt für die Gemeinde in diesem wichtigen Bergbauort.",
       hu: "Koumac katolikus temploma központi találkozóhely a közösség számára ebben a fontos bányászvárosban.",
@@ -632,7 +632,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-artillerie-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Pont de l'Artillerie", hu: "Tüzérségi híd", ro: "Podul Artileriei", en: "Artillerie Bridge" },
-    coordinates: { lat: -22.2783, lng: 166.435 },
+    coords: [166.435, -22.2783],
     description: {
       de: "Diese Brücke in Nouméa verbindet das Stadtzentrum mit der Halbinsel Artillerie und überquert den Hafenarm.",
       hu: "Ez a nouméai híd összeköti a városközpontot a Tüzérség-félszigettel, a kikötői ág felett átívelve.",
@@ -651,7 +651,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-tindu-lazaret-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Lazarett-Ruinen von Tindu", hu: "Tindui lazarett-romok", ro: "Ruinele lazaretului din Tindu", en: "Tindu Lazaret Ruins" },
-    coordinates: { lat: -22.25, lng: 166.4 },
+    coords: [166.4, -22.25],
     description: {
       de: "Das Lazarett von Tindu wurde im 19. Jahrhundert genutzt, um Einwanderer und Seeleute unter Quarantäne zu stellen.",
       hu: "A tindui lazarettet a 19. században használták a bevándorlók és tengerészek karanténba helyezésére.",
@@ -670,7 +670,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-saint-louis-mission-school-landmarks-v2",
     type: "landmark",
     name: { de: "Missionsschule von Saint-Louis", hu: "Szent Lajos missziós iskola", ro: "Școala misiunii Saint-Louis", en: "Saint-Louis Mission School" },
-    coordinates: { lat: -22.23, lng: 166.54 },
+    coords: [166.54, -22.23],
     description: {
       de: "Diese historische Schule ist Teil der Mission Saint-Louis und spielte eine Schlüsselrolle in der Bildung der Kanak-Kinder.",
       hu: "Ez a történelmi iskola a Szent Lajos-misszió része, és kulcsszerepet játszott a kanak gyermekek oktatásában.",
@@ -689,7 +689,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-immaculate-conception-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche der Unbefleckten Empfängnis", hu: "Szeplőtelen Fogantatás templom", ro: "Biserica Imaculata Concepție", en: "Immaculate Conception Church" },
-    coordinates: { lat: -22.245, lng: 166.455 },
+    coords: [166.455, -22.245],
     description: {
       de: "Diese Kirche im Stadtteil Rivière Salée ist ein wichtiger religiöser Ort für die katholische Gemeinde von Nouméa.",
       hu: "Ez a Rivière Salée negyedben található templom fontos vallási helyszín Nouméa katolikus közössége számára.",
@@ -708,7 +708,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-notre-dame-des-flots-landmarks-v2",
     type: "church",
     name: { de: "Notre Dame des Flots", hu: "Hullámok Asszonya templom", ro: "Notre Dame des Flots", en: "Our Lady of the Waves" },
-    coordinates: { lat: -20.4, lng: 166.6333 },
+    coords: [166.6333, -20.4],
     description: {
       de: "Diese ikonische Kirche auf Ouvéa liegt am Rande der Lagune und ist für ihre markante Lage bekannt.",
       hu: "Ez az ikonikus Ouvéa-szigeti templom a lagúna szélén található, és jellegzetes fekvéséről ismert.",
@@ -727,7 +727,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-ponerihouen-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Ponérihouen", hu: "Ponérihoueni templom", ro: "Biserica din Ponérihouen", en: "Ponérihouen Church" },
-    coordinates: { lat: -21.0667, lng: 165.4 },
+    coords: [165.4, -21.0667],
     description: {
       de: "Eine zentrale Kirche an der Ostküste, die das soziale und religiöse Leben in der landwirtschaftlichen Region prägt.",
       hu: "Egy központi templom a keleti parton, amely a mezőgazdasági régió társadalmi és vallási életét meghatározza.",
@@ -746,7 +746,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-chateau-hagen-landmarks-v2",
     type: "castle",
     name: { de: "Château Hagen", hu: "Hagen-kastély", ro: "Castelul Hagen", en: "Château Hagen" },
-    coordinates: { lat: -22.275, lng: 166.4467 },
+    coords: [166.4467, -22.275],
     description: {
       de: "Dieses ehemalige bürgerliche Herrenhaus dient heute als Kulturzentrum für Ausstellungen und Konzerte.",
       hu: "Ez az egykori polgári kúria ma kulturális központként szolgál kiállítások és koncertek számára.",
@@ -765,7 +765,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-museum-new-caledonia-landmarks-v2",
     type: "museum",
     name: { de: "Musée de Nouvelle-Calédonie", hu: "Új-Kaledóniai Múzeum", ro: "Muzeul Noii Caledonii", en: "Museum of New Caledonia" },
-    coordinates: { lat: -22.2736, lng: 166.4394 },
+    coords: [166.4394, -22.2736],
     description: {
       de: "Das Museum beherbergt die weltweit wichtigste Sammlung kanakischer Kunst und ozeanischer Ethnografie.",
       hu: "A múzeum a világ legjelentősebb kanak művészeti és óceániai néprajzi gyűjteményének ad otthont.",
@@ -784,7 +784,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-old-market-noumea-landmarks-v2",
     type: "landmark",
     name: { de: "Ancien Marché de Nouméa", hu: "Nouméai régi piac", ro: "Vechea piață din Nouméa", en: "Old Nouméa Market" },
-    coordinates: { lat: -22.275, lng: 166.44 },
+    coords: [166.44, -22.275],
     description: {
       de: "Das alte Marktgebäude am Port Moselle ist ein farbenfroher Ort, an dem lokale Produkte verkauft werden.",
       hu: "A Port Moselle melletti régi piaci épület színes hely, ahol helyi termékeket árulnak.",
@@ -803,7 +803,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-noumea-semaphore-landmarks-v2",
     type: "tower",
     name: { de: "Ancien Sémaphore de Nouméa", hu: "Nouméai régi szemafor", ro: "Vechiul semafor din Nouméa", en: "Old Nouméa Semaphore" },
-    coordinates: { lat: -22.268, lng: 166.438 },
+    coords: [166.438, -22.268],
     description: {
       de: "Auf einem Hügel gelegen, diente dieser Turm im 19. Jahrhundert zur Kommunikation mit Schiffen.",
       hu: "Egy dombon található, ez a torony a 19. században a hajókkal való kommunikációra szolgált.",
@@ -822,7 +822,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-saint-gabriel-canala-landmarks-v2",
     type: "landmark",
     name: { de: "Mission Saint-Gabriel de Canala", hu: "Canala-i Szent Gábriel misszió", ro: "Misiunea Sfântul Gabriel din Canala", en: "Saint-Gabriel Mission of Canala" },
-    coordinates: { lat: -21.52, lng: 165.96 },
+    coords: [165.96, -21.52],
     description: {
       de: "Die Mission Saint-Gabriel war ein bedeutender Stützpunkt der katholischen Kirche an der bergigen Ostküste.",
       hu: "A Szent Gábriel-misszió a katolikus egyház jelentős bázisa volt a hegyes keleti partvidéken.",
@@ -841,7 +841,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-paita-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Païta", hu: "Païtai templom", ro: "Biserica din Païta", en: "Païta Church" },
-    coordinates: { lat: -22.13, lng: 166.36 },
+    coords: [166.36, -22.13],
     description: {
       de: "Diese Kirche dient der Gemeinde Païta und ist ein wichtiger Bezugspunkt in der schnell wachsenden Vorstadt von Nouméa.",
       hu: "Ez a templom a païtai közösséget szolgálja, és fontos hivatkozási pont Nouméa gyorsan növekvő elővárosában.",
@@ -860,7 +860,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
     id: "newcaledonia-sarramela-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Sarraméa", hu: "Sarraméai templom", ro: "Biserica din Sarraméa", en: "Sarraméa Church" },
-    coordinates: { lat: -21.65, lng: 165.85 },
+    coords: [165.85, -21.65],
     description: {
       de: "Die kleine Kirche von Sarraméa liegt idyllisch in den Bergen und ist Teil einer ruhigen ländlichen Gemeinde.",
       hu: "Sarraméa kis temploma idilli helyen fekszik a hegyekben, egy csendes vidéki közösség részeként.",

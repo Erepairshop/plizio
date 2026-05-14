@@ -5,7 +5,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-german-bell-tower-landmarks-v2",
     type: "tower",
     name: { de: "Deutscher Glockenturm", hu: "Német harangtorony", ro: "Turnul clopotniță german", en: "German Bell Tower" },
-    coordinates: { lat: 6.9634, lng: 158.2104 },
+    coords: [158.2104, 6.9634],
     description: {
       de: "Dieser Glockenturm ist das einzige erhaltene Bauwerk einer deutschen Mission aus dem frühen 20. Jahrhundert in Pohnpei.",
       hu: "Ez a harangtorony egy 20. század eleji német misszió egyetlen épségben maradt építménye Pohnpei szigetén.",
@@ -24,7 +24,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-tunnuk-catholic-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Tunnuk", hu: "Tunnuk katolikus templom", ro: "Biserica Catolică din Tunnuk", en: "Tunnuk Catholic Church" },
-    coordinates: { lat: 7.4528, lng: 151.8486 },
+    coords: [151.8486, 7.4528],
     description: {
       de: "Die Tunnuk-Kirche auf Weno ist eines der auffälligsten religiösen Gebäude in Chuuk und bekannt für ihre farbenfrohe Architektur.",
       hu: "A Weno szigetén található Tunnuk-templom Chuuk egyik leglátványosabb vallási épülete, színes építészetéről ismert.",
@@ -43,7 +43,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-xavier-high-school-landmarks-v2",
     type: "landmark",
     name: { de: "Xavier High School", hu: "Xavier Középiskola", ro: "Liceul Xavier", en: "Xavier High School" },
-    coordinates: { lat: 7.4333, lng: 151.8833 },
+    coords: [151.8833, 7.4333],
     description: {
       de: "Diese renommierte Schule in Chuuk befindet sich in einem ehemaligen japanischen Kommunikationszentrum aus dem Zweiten Weltkrieg.",
       hu: "Ez a neves chuuki iskola egy egykori japán kommunikációs központ épületében működik, amely a második világháborúban épült.",
@@ -62,7 +62,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-kimiuo-aisek-memorial-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kimiuo Aisek Gedenkmuseum", hu: "Kimiuo Aisek Emlékmúzeum", ro: "Muzeul Memorial Kimiuo Aisek", en: "Kimiuo Aisek Memorial Museum" },
-    coordinates: { lat: 7.4444, lng: 151.8422 },
+    coords: [151.8422, 7.4444],
     description: {
       de: "Das Museum auf Weno widmet sich der Geschichte des Zweiten Weltkriegs und der maritimen Archäologie der Chuuk-Lagune.",
       hu: "A Weno szigetén található múzeum a második világháború történetének és a Chuuk-lagúna tengeri régészetének szentelt.",
@@ -81,7 +81,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-yap-living-history-museum-landmarks-v2",
     type: "museum",
     name: { de: "Lebendiges Geschichtsmuseum Yap", hu: "Yapi Élő Történelmi Múzeum", ro: "Muzeul de Istorie Vie din Yap", en: "Yap Living History Museum" },
-    coordinates: { lat: 9.5167, lng: 138.125 },
+    coords: [138.125, 9.5167],
     description: {
       de: "Dieses Freilichtmuseum in Colonia präsentiert die traditionelle Kultur, Architektur und das Handwerk der Insel Yap.",
       hu: "Ez a Colonia városában található szabadtéri múzeum Yap szigetének hagyományos kultúráját, építészetét és mesterségeit mutatja be.",
@@ -100,7 +100,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-japanese-lighthouse-chuuk-landmarks-v2",
     type: "tower",
     name: { de: "Japanischer Leuchtturm Chuuk", hu: "Japán világítótorony Chuuk", ro: "Farul japonez din Chuuk", en: "Japanese Lighthouse Chuuk" },
-    coordinates: { lat: 7.4611, lng: 151.9111 },
+    coords: [151.9111, 7.4611],
     description: {
       de: "Der alte japanische Leuchtturm in Sapuk bietet einen weiten Blick über den Nordosten der Chuuk-Lagune und ist ein Relikt aus der Kriegszeit.",
       hu: "A Sapukban található régi japán világítótorony széles kilátást nyújt a Chuuk-lagúna északkeleti részére, a háborús idők maradványa.",
@@ -119,7 +119,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-pohnpei-state-capitol-landmarks-v2",
     type: "landmark",
     name: { de: "Pohnpei Staatskapitol", hu: "Pohnpei Állami Kapitólium", ro: "Capitoliul Statului Pohnpei", en: "Pohnpei State Capitol" },
-    coordinates: { lat: 6.9167, lng: 158.1667 },
+    coords: [158.1667, 6.9167],
     description: {
       de: "Das Regierungszentrum des Bundesstaates Pohnpei befindet sich in Palikir und beherbergt die lokale Legislative.",
       hu: "Pohnpei állam kormányzati központja Palikirben található, és a helyi törvényhozásnak ad otthont.",
@@ -138,7 +138,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-fsm-national-capitol-landmarks-v2",
     type: "landmark",
     name: { de: "Nationales Kapitol der Föderierten Staaten von Mikronesien", hu: "Mikronézia Nemzeti Kapitóliuma", ro: "Capitoliul Național al Statelor Federate ale Microneziei", en: "FSM National Capitol" },
-    coordinates: { lat: 6.918, lng: 158.161 },
+    coords: [158.161, 6.918],
     description: {
       de: "Das nationale Kapitol in Palikir ist der Sitz der Bundesregierung der Föderierten Staaten von Mikronesien.",
       hu: "A palikiri nemzeti kapitólium a Mikronéziai Szövetségi Államok szövetségi kormányának székhelye.",
@@ -157,7 +157,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-st-marys-catholic-church-landmarks-v2",
     type: "church",
     name: { de: "St. Marien Katholische Kirche", hu: "Szent Mária katolikus templom", ro: "Biserica Catolică Sfânta Maria", en: "St. Mary's Catholic Church" },
-    coordinates: { lat: 9.5111, lng: 138.1222 },
+    coords: [138.1222, 9.5111],
     description: {
       de: "St. Marien ist eine bedeutende katholische Kirche in Colonia, Yap, bekannt für ihre Architektur und ihre zentrale Rolle in der Gemeinde.",
       hu: "A Szent Mária templom jelentős katolikus templom Colonia városában, Yap szigetén, építészetéről és közösségi szerepéről ismert.",
@@ -176,7 +176,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-japanese-communications-center-landmarks-v2",
     type: "ruins",
     name: { de: "Japanisches Kommunikationszentrum Ruinen", hu: "Japán hírközlési központ romok", ro: "Ruinele centrului de comunicații japonez", en: "Japanese Communications Center Ruins" },
-    coordinates: { lat: 7.4417, lng: 151.875 },
+    coords: [151.875, 7.4417],
     description: {
       de: "Diese Ruinen in Chuuk waren einst ein strategisch wichtiges Kommunikationszentrum der japanischen Marine im Zweiten Weltkrieg.",
       hu: "Ezek a chuuki romok egykor a japán haditengerészet stratégiai fontosságú hírközlési központja voltak a II. világháborúban.",
@@ -195,7 +195,7 @@ export const micronesiaLandmarksV2: POI[] = [
     id: "micronesia-balabat-stone-money-bank-landmarks-v2",
     type: "landmark",
     name: { de: "Steingeldbank von Balabat", hu: "Balabati kőpénz-pad", ro: "Banca de bani de piatră din Balabat", en: "Balabat Stone Money Bank" },
-    coordinates: { lat: 9.5083, lng: 138.1167 },
+    coords: [138.1167, 9.5083],
     description: {
       de: "In Balabat auf Yap befindet sich eine der größten Ansammlungen des berühmten Steingeldes (Rai), das als zeremonielle Währung dient.",
       hu: "A yapi Balabatban található a híres kőpénzek (Rai) egyik legnagyobb gyűjteménye, amely rituális fizetőeszközként szolgál.",

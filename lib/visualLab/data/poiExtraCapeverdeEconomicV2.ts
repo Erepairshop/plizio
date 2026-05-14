@@ -697,7 +697,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-banco-de-cabo-verde-economic-v2",
     type: "landmark",
     name: { de: "Banco de Cabo Verde", hu: "Zöld-foki Köztársaság Központi Bankja", ro: "Banca Capului Verde", en: "Banco de Cabo Verde" },
-    coordinates: { lat: 14.918, lng: -23.507 },
+    coords: [-23.507, 14.918],
     description: {
       de: "Das Banco de Cabo Verde in Praia ist die Zentralbank des Landes. Es reguliert das Finanzsystem und verwaltet den Kap-Verde-Escudo.",
       hu: "A praiai Banco de Cabo Verde az ország központi bankja. Szabályozza a pénzügyi rendszert és kezeli a zöld-foki eszkúdót.",
@@ -728,7 +728,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-tira-chapeu-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriezone Tira Chapéu", hu: "Tira Chapéu ipari zóna", ro: "Zona Industrială Tira Chapéu", en: "Tira Chapéu Industrial Zone" },
-    coordinates: { lat: 14.922, lng: -23.523 },
+    coords: [-23.523, 14.922],
     description: {
       de: "Diese wichtige Industriezone in Praia beherbergt Fabriken für Baumaterialien. Sie ist ein Motor für das lokale verarbeitende Gewerbe.",
       hu: "Ez a fontos praiai ipari övezet építőanyag-gyáraknak ad otthont. A helyi feldolgozóipar egyik meghatározó központja.",
@@ -759,7 +759,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-santo-antao-wind-farm-economic-v2",
     type: "industry",
     name: { de: "Windpark Santo Antão", hu: "Santo Antão szélerőmű", ro: "Parcul Eolian Santo Antão", en: "Santo Antão Wind Farm" },
-    coordinates: { lat: 17.025, lng: -25.015 },
+    coords: [-25.015, 17.025],
     description: {
       de: "Der Windpark auf Santo Antão nutzt die starken Passatwinde zur Stromerzeugung. Er ist Teil der Strategie für erneuerbare Energien.",
       hu: "A Santo Antão-i szélerőmű az erős passzátszeleket használja áramtermelésre. Része a megújuló energia stratégiának.",
@@ -790,7 +790,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-mindelo-fish-market-economic-v2",
     type: "industry",
     name: { de: "Fischmarkt von Mindelo", hu: "Mindelói halpiac", ro: "Piața de Pește din Mindelo", en: "Mindelo Fish Market" },
-    coordinates: { lat: 16.889, lng: -24.99 },
+    coords: [-24.99, 16.889],
     description: {
       de: "Dieser lebhafte Markt ist das Zentrum des Fischhandels auf São Vicente. Hier werden täglich frischer Thunfisch und Hummer verkauft.",
       hu: "Ez a nyüzsgő piac a halkereskedelem központja São Vicentén. Itt naponta friss tonhalat és homárt értékesítenek.",
@@ -821,7 +821,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-santa-maria-solar-park-economic-v2",
     type: "industry",
     name: { de: "Solarpark Santa Maria", hu: "Santa Maria napelem park", ro: "Parcul Solar Santa Maria", en: "Santa Maria Solar Park" },
-    coordinates: { lat: 16.61, lng: -22.91 },
+    coords: [-22.91, 16.61],
     description: {
       de: "Der Solarpark in der Nähe von Santa Maria liefert sauberen Strom für die Insel Sal. Er nutzt die intensive Sonneneinstrahlung.",
       hu: "A Santa Maria közeli napelem park tiszta áramot biztosít Sal szigetének. Kihasználja az intenzív napsütést.",
@@ -852,7 +852,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-salamansa-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Gewerbepark Salamansa", hu: "Salamansa ipari park", ro: "Parcul Industrial Salamansa", en: "Salamansa Industrial Park" },
-    coordinates: { lat: 16.9, lng: -24.96 },
+    coords: [-24.96, 16.9],
     description: {
       de: "Dieser Industriepark auf São Vicente konzentriert sich auf die maritime Wirtschaft. Er bietet Raum für Logistik und Lagerung.",
       hu: "Ez a São Vicente-i ipari park a tengeri gazdaságra összpontosít. Logisztikai és raktározási lehetőségeket kínál.",
@@ -883,7 +883,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-boavista-desalination-economic-v2",
     type: "factory",
     name: { de: "Entsalzungsanlage Boa Vista", hu: "Boa Vista-i sótalanító üzem", ro: "Stația de Desalinizare Boa Vista", en: "Boa Vista Desalination Plant" },
-    coordinates: { lat: 16.178, lng: -22.915 },
+    coords: [-22.915, 16.178],
     description: {
       de: "Die Anlage in Sal Rei ist entscheidend für die Wasserversorgung von Boa Vista. Sie wandelt Meerwasser in Trinkwasser um.",
       hu: "A Sal Rei-ben található üzem döntő fontosságú Boa Vista vízellátásában. A tengervizet ivóvízzé alakítja át.",
@@ -914,7 +914,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-praia-shopping-economic-v2",
     type: "landmark",
     name: { de: "Praia Shopping", hu: "Praia Shopping", ro: "Praia Shopping", en: "Praia Shopping" },
-    coordinates: { lat: 14.904, lng: -23.517 },
+    coords: [-23.517, 14.904],
     description: {
       de: "Praia Shopping ist eines der größten kommerziellen Zentren in der Hauptstadt. Es beherbergt zahlreiche Geschäfte und Dienstleister.",
       hu: "A Praia Shopping a főváros egyik legnagyobb kereskedelmi központja. Számos üzletnek és szolgáltatónak ad otthont.",
@@ -945,7 +945,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-nosi-data-center-economic-v2",
     type: "industry",
     name: { de: "NOSi Datenzentrum", hu: "NOSi Adatközpont", ro: "Centrul de Date NOSi", en: "NOSi Data Center" },
-    coordinates: { lat: 14.935, lng: -23.495 },
+    coords: [-23.495, 14.935],
     description: {
       de: "Das NOSi Datenzentrum in Praia ist das Herz der digitalen Verwaltung des Landes. Es beherbergt die IT-Infrastruktur für E-Governance.",
       hu: "A praiai NOSi adatközpont az ország digitális közigazgatásának szíve. Az e-kormányzat IT-infrastruktúráját kezeli.",
@@ -976,7 +976,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "capeverde-sao-filipe-municipal-market-economic-v2",
     type: "industry",
     name: { de: "Städtischer Markt von São Filipe", hu: "São Filipe városi piac", ro: "Piața Municipală din São Filipe", en: "São Filipe Municipal Market" },
-    coordinates: { lat: 14.895, lng: -24.497 },
+    coords: [-24.497, 14.895],
     description: {
       de: "Dieser Markt auf der Insel Fogo ist ein zentraler Umschlagplatz für Agrarprodukte. Er ist berühmt für Kaffee und Wein aus der Region.",
       hu: "Ez a fogo-szigeti piac a mezőgazdasági termékek központja. Híres a helyi kávéról és a Chã das Caldeiras borról.",

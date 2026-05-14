@@ -5,7 +5,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-conkouati-douli-national-park-life-v2",
     type: "park",
     name: { de: "Conkouati-Douli Nationalpark", hu: "Conkouati-Douli Nemzeti Park", ro: "Parcul Național Conkouati-Douli", en: "Conkouati-Nduli National Park" },
-    coordinates: { lat: -3.85, lng: 11.25 },
+    coords: [11.25, -3.85],
     description: {
       de: "Dieser Park umfasst Küstenlinien, Lagunen und Wälder. Er dient als wichtiges Schutzgebiet für Seekühe und Meeresschildkröten.",
       hu: "Ez a park tengerpartokat, lagúnákat és erdőket foglal magában. Fontos védett terület a tengeri tehenek és tengeri teknősök számára.",
@@ -24,7 +24,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-lesio-louna-wildlife-reserve-life-v2",
     type: "wildlife",
     name: { de: "Lesio-Louna Wildreservat", hu: "Lesio-Louna Vadvédelmi Rezervátum", ro: "Rezervația de faună Lesio-Louna", en: "Lesio-Louna Wildlife Reserve" },
-    coordinates: { lat: -3.5, lng: 15.3 },
+    coords: [15.3, -3.5],
     description: {
       de: "Das Reservat ist auf die Wiedereingliederung von verwaisten Gorillas in die Wildnis spezialisiert. Es umfasst eine offene Savannenlandschaft.",
       hu: "A rezervátum az árván maradt gorillák vadonba történő visszatelepítésére specializálódott. Nyílt szavannás tájat foglal magában.",
@@ -43,7 +43,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-ntoki-wetland-zone-life-v2",
     type: "park",
     name: { de: "Ntoki Feuchtgebiet", hu: "Ntoki vizes élőhely", ro: "Zona umedă Ntoki", en: "Ntoki Wetland Zone" },
-    coordinates: { lat: 2.2, lng: 16.5 },
+    coords: [16.5, 2.2],
     description: {
       de: "Dieses ausgedehnte Feuchtgebiet dient als natürlicher Lebensraum für zahlreiche Vogelarten. Es ist Teil des weiteren Ökosystems von Nord-Kongo.",
       hu: "Ez a kiterjedt vizes élőhely számos madárfaj természetes otthonaként szolgál. Az észak-kongói tágabb ökoszisztéma része.",
@@ -62,7 +62,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-djoukou-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Djoukou Waldreservat", hu: "Djoukou Erdőrezervátum", ro: "Rezervația forestieră Djoukou", en: "Djoukou Forest Reserve" },
-    coordinates: { lat: -2.1, lng: 15.5 },
+    coords: [15.5, -2.1],
     description: {
       de: "Das Djoukou-Reservat umfasst dicht bewaldete Zonen, die für ihre biologische Vielfalt bekannt sind. Es dient der Bewahrung der heimischen Flora.",
       hu: "A Djoukou-rezervátum sűrűn erdős területeket foglal magában, amelyek biodiverzitásukról ismertek. A helyi flóra megőrzését szolgálja.",
@@ -81,7 +81,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-léfini-faunal-reserve-life-v2",
     type: "wildlife",
     name: { de: "Léfini Fauna-Reservat", hu: "Léfini Vadvédelmi Rezervátum", ro: "Rezervația de faună Léfini", en: "Lefini Faunal Reserve" },
-    coordinates: { lat: -2.9, lng: 15.4 },
+    coords: [15.4, -2.9],
     description: {
       de: "Diese Reservatsfläche bietet Schutz für eine Vielzahl von Großsäugern. Die Landschaft ist geprägt von einer Mischung aus Wald und Savanne.",
       hu: "Ez a rezervátum terület számos nagyemlős számára nyújt védelmet. A tájat az erdő és a szavanna keveréke jellemzi.",
@@ -100,7 +100,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-sangha-river-biodiversity-zone-life-v2",
     type: "river",
     name: { de: "Sangha Fluss Biodiversitätszone", hu: "Sangha-folyó biodiverzitási zóna", ro: "Zona de biodiversitate a râului Sangha", en: "Sangha River Biodiversity Zone" },
-    coordinates: { lat: 1.5, lng: 16.0 },
+    coords: [16.0, 1.5],
     description: {
       de: "Das Gebiet entlang des Sangha-Flusses bildet einen entscheidenden Lebensraum für Flussökosysteme. Es ist ein Knotenpunkt für den Naturschutz.",
       hu: "A Sangha-folyó menti terület döntő fontosságú élőhelyet képez a folyami ökoszisztémák számára. A természetvédelem csomópontja.",
@@ -119,7 +119,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-loufoulakari-river-zone-life-v2",
     type: "river",
     name: { de: "Loufoulakari Flusszone", hu: "Loufoulakari-folyó zóna", ro: "Zona râului Loufoulakari", en: "Loufoulakari River Zone" },
-    coordinates: { lat: -4.2, lng: 14.7 },
+    coords: [14.7, -4.2],
     description: {
       de: "Die Flusszone nahe Brazzaville ist bekannt für ihre Wasserfälle und üppige Vegetation. Sie bietet eine einzigartige lokale Flora.",
       hu: "A Brazzaville közeli folyóövezet vízeséseiről és buja növényzetéről ismert. Egyedülálló helyi flórát kínál.",
@@ -138,7 +138,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-baya-forest-region-life-v2",
     type: "forest",
     name: { de: "Baya Waldregion", hu: "Baya erdőrégió", ro: "Regiunea forestieră Baya", en: "Baya Forest Region" },
-    coordinates: { lat: 1.2, lng: 15.7 },
+    coords: [15.7, 1.2],
     description: {
       de: "Diese Waldregion im Norden ist Teil des ausgedehnten kongolesischen Regenwaldes. Sie spielt eine wichtige Rolle bei der Kohlenstoffbindung.",
       hu: "Az északi erdőrégió a kiterjedt kongói esőerdő része. Fontos szerepet játszik a szénmegkötésben.",
@@ -157,7 +157,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-nibere-wildlife-spot-life-v2",
     type: "wildlife",
     name: { de: "Nibere Wildtierpunkt", hu: "Nibere vadvédelmi pont", ro: "Punctul de faună Nibere", en: "Nibere Wildlife Spot" },
-    coordinates: { lat: 2.1, lng: 16.8 },
+    coords: [16.8, 2.1],
     description: {
       de: "Dieser abgelegene Ort gilt als wichtiger Beobachtungspunkt für seltene Waldsäugetiere. Die Umgebung ist durch dichten tropischen Bewuchs geprägt.",
       hu: "Ez az elszigetelt hely a ritka erdei emlősök megfigyelőpontjának számít. A környezetet sűrű trópusi növényzet jellemzi.",
@@ -176,7 +176,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-lakouo-swamp-forest-life-v2",
     type: "forest",
     name: { de: "Lakouo Sumpfwald", hu: "Lakouo mocsárerdő", ro: "Pădurea mlăștinoasă Lakouo", en: "Lakouo Swamp Forest" },
-    coordinates: { lat: 1.0, lng: 15.2 },
+    coords: [15.2, 1.0],
     description: {
       de: "Dieser Sumpfwald zeichnet sich durch ein komplexes Netzwerk an Wasserwegen aus. Er bietet spezialisierten Arten einen einzigartigen Lebensraum.",
       hu: "Ezt a mocsárerdőt a vízi utak komplex hálózata jellemzi. Egyedülálló élőhelyet kínál a specializálódott fajok számára.",
@@ -195,7 +195,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-kouilou-river-estuary-life-v2",
     type: "river",
     name: { de: "Kouilou Flussmündung", hu: "Kouilou-folyótorkolat", ro: "Estuarul râului Kouilou", en: "Kouilou River Estuary" },
-    coordinates: { lat: -4.55, lng: 11.7 },
+    coords: [11.7, -4.55],
     description: {
       de: "Die Mündung des Kouilou-Flusses in den Atlantik beherbergt wichtige Mangrovenökosysteme. Sie ist entscheidend für marine Brutstätten.",
       hu: "A Kouilou-folyó Atlanti-óceánba ömlő torkolata fontos mangrove-ökoszisztémáknak ad otthont. Döntő fontosságú a tengeri szaporodóhelyek szempontjából.",
@@ -214,7 +214,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-likouala-forest-zone-life-v2",
     type: "forest",
     name: { de: "Likouala Waldzone", hu: "Likouala erdőzóna", ro: "Zona forestieră Likouala", en: "Likouala Forest Zone" },
-    coordinates: { lat: 2.8, lng: 17.5 },
+    coords: [17.5, 2.8],
     description: {
       de: "Diese nordöstliche Waldzone ist bekannt für ihre Abgeschiedenheit. Sie bietet Raum für ökologische Studien und Artenschutz.",
       hu: "Ez az északkeleti erdőzóna elszigeteltségéről ismert. Teret biztosít az ökológiai tanulmányok és a fajmegőrzés számára.",
@@ -233,7 +233,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-djoumouna-river-nature-spot-life-v2",
     type: "river",
     name: { de: "Djoumouna Flussgebiet", hu: "Djoumouna-folyó térsége", ro: "Zona râului Djoumouna", en: "Djoumouna River Area" },
-    coordinates: { lat: -4.15, lng: 14.8 },
+    coords: [14.8, -4.15],
     description: {
       de: "Das Flussgebiet zeichnet sich durch eine malerische Umgebung und dichten Uferbewuchs aus. Es ist bei Anwohnern für die lokale Erholung beliebt.",
       hu: "A folyóvízi térség festői környezetéről és sűrű part menti növényzetéről ismert. A helyiek körében népszerű a helyi rekreációhoz.",
@@ -252,7 +252,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-mbe-plateau-savannah-life-v2",
     type: "park",
     name: { de: "Mb-Plateau Savanne", hu: "Mbe-fennsík szavanna", ro: "Savana podișului Mbé", en: "Mbe Plateau Savannah" },
-    coordinates: { lat: -2.5, lng: 15.6 },
+    coords: [15.6, -2.5],
     description: {
       de: "Diese Savannenregion auf dem Mbé-Plateau bietet eine weite Aussicht. Sie beherbergt spezialisierte Graslandfauna und -flora.",
       hu: "Ez a szavannarégió az Mbé-fennsíkon széles kilátást nyújt. Specializált gyepi faunának és flórának ad otthont.",
@@ -271,7 +271,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-indombo-lake-region-life-v2",
     type: "lake",
     name: { de: "Indombo Seenregion", hu: "Indombo-tavi régió", ro: "Regiunea lacustră Indombo", en: "Indombo Lake Region" },
-    coordinates: { lat: 1.2, lng: 17.0 },
+    coords: [17.0, 1.2],
     description: {
       de: "Diese Seenregion ist geprägt von isolierten Gewässern und Sumpfgebieten. Sie dient als Zufluchtsort für zahlreiche Wasservögel.",
       hu: "Ezt a tavi régiót elszigetelt vizek és mocsaras területek jellemzik. Számos vízimadár menedékhelyeként szolgál.",
@@ -290,7 +290,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-djouah-forest-zone-life-v2",
     type: "forest",
     name: { de: "Djouah Waldzone", hu: "Djouah erdőzóna", ro: "Zona forestieră Djouah", en: "Djouah Forest Zone" },
-    coordinates: { lat: 1.8, lng: 15.0 },
+    coords: [15.0, 1.8],
     description: {
       de: "Djouah ist ein weitläufiges Waldgebiet im Norden des Landes. Es umfasst verschiedene Waldtypen und beheimatet eine reiche Artenvielfalt.",
       hu: "A Djouah egy kiterjedt erdőterület az ország északi részén. Különböző erdei típusokat foglal magában és gazdag biodiverzitásnak ad otthont.",
@@ -309,7 +309,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-niari-valley-wildlife-spot-life-v2",
     type: "valley",
     name: { de: "Niari Tal Wildtiergebiet", hu: "Niari-völgyi vadvédelmi terület", ro: "Zona de faună a văii Niari", en: "Niari Valley Wildlife Spot" },
-    coordinates: { lat: -3.5, lng: 13.0 },
+    coords: [13.0, -3.5],
     description: {
       de: "Das fruchtbare Niari-Tal dient als Übergangszone zwischen Wald und Savanne. Es unterstützt eine abwechslungsreiche lokale Tierwelt.",
       hu: "A termékeny Niari-völgy az erdő és a szavanna közötti átmeneti zónaként szolgál. Változatos helyi vadvilágot támogat.",
@@ -328,7 +328,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-sanga-marsh-life-v2",
     type: "wildlife",
     name: { de: "Sanga Sumpf", hu: "Sanga-mocsár", ro: "Mlaștina Sanga", en: "Sanga Marsh" },
-    coordinates: { lat: 1.7, lng: 16.3 },
+    coords: [16.3, 1.7],
     description: {
       de: "Diese sumpfige Zone ist ein essentielles Habitat für spezialisierte Feuchtgebietsarten. Sie bietet Schutz und Nahrungsquellen.",
       hu: "Ez a mocsaras zóna elengedhetetlen élőhely a specializálódott vizes élőhelyi fajok számára. Védelmet és táplálékforrást kínál.",
@@ -347,7 +347,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-lemba-forest-area-life-v2",
     type: "forest",
     name: { de: "Lemba Waldgebiet", hu: "Lemba erdőterület", ro: "Zona forestieră Lemba", en: "Lemba Forest Area" },
-    coordinates: { lat: -4.0, lng: 14.5 },
+    coords: [14.5, -4.0],
     description: {
       de: "Das Lemba-Waldgebiet liegt in einer Region, die durch dichte Bestände gekennzeichnet ist. Es fungiert als wichtige ökologische Pufferzone.",
       hu: "A Lemba erdőterület egy olyan régióban fekszik, amelyet sűrű állományok jellemeznek. Fontos ökológiai pufferzónaként funkcionál.",
@@ -366,7 +366,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-ouesso-river-zone-life-v2",
     type: "river",
     name: { de: "Ouesso Flusszone", hu: "Ouesso-folyó zóna", ro: "Zona râului Ouesso", en: "Ouesso River Zone" },
-    coordinates: { lat: 1.6, lng: 16.05 },
+    coords: [16.05, 1.6],
     description: {
       de: "Diese Flusszone nahe Ouesso umfasst wasserreiche Ökosysteme. Sie ist eine wichtige Lebensader für die lokale Tierwelt.",
       hu: "Ez az Ouesso melletti folyóvízi zóna vízben gazdag ökoszisztémákat foglal magában. Fontos éltető elem a helyi vadvilág számára.",
@@ -385,7 +385,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-pokola-forest-life-v2",
     type: "forest",
     name: { de: "Pokola Wald", hu: "Pokola erdő", ro: "Pădurea Pokola", en: "Pokola Forest" },
-    coordinates: { lat: 1.75, lng: 16.2 },
+    coords: [16.2, 1.75],
     description: {
       de: "Der Pokola-Wald ist Teil der nördlichen Regenwaldregion. Er beherbergt seltene Primaten und eine vielfältige Flora.",
       hu: "A Pokola-erdő az északi esőerdő-régió része. Ritka főemlősöknek és változatos flórának ad otthont.",
@@ -404,7 +404,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-kouilou-savannah-zone-life-v2",
     type: "wildlife",
     name: { de: "Kouilou Savannenzone", hu: "Kouilou szavannazóna", ro: "Zona de savană Kouilou", en: "Kouilou Savannah Zone" },
-    coordinates: { lat: -4.2, lng: 11.5 },
+    coords: [11.5, -4.2],
     description: {
       de: "Diese Savannenzone ist ein charakteristischer Bestandteil der Küstenregion. Sie bietet einen Lebensraum für angepasste Pflanzenarten.",
       hu: "Ez a szavannazóna a part menti régió jellegzetes része. Alkalmazkodott növényfajok számára biztosít élőhelyet.",
@@ -423,7 +423,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-djoumouna-forest-life-v2",
     type: "forest",
     name: { de: "Djoumouna Wald", hu: "Djoumouna erdő", ro: "Pădurea Djoumouna", en: "Djoumouna Forest" },
-    coordinates: { lat: -4.25, lng: 14.75 },
+    coords: [14.75, -4.25],
     description: {
       de: "Der Djoumouna-Wald bietet einen Lebensraum für vielfältige lokale Wildtiere. Er ist durch seine dichte Vegetation bekannt.",
       hu: "A Djoumouna-erdő élőhelyet kínál a változatos helyi vadvilág számára. Sűrű növényzetéről ismert.",
@@ -442,7 +442,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-léfini-wetland-life-v2",
     type: "wildlife",
     name: { de: "Léfini Feuchtgebiet", hu: "Léfini vizes élőhely", ro: "Zona umedă Léfini", en: "Lefini Wetland" },
-    coordinates: { lat: -2.8, lng: 15.3 },
+    coords: [15.3, -2.8],
     description: {
       de: "Das Léfini-Feuchtgebiet ist ein wichtiges Refugium für zahlreiche Wasservogelarten. Es ist geprägt durch ein ruhiges, wasserreiches Umfeld.",
       hu: "A Léfini vizes élőhely fontos menedékhely számos vízimadárfaj számára. Csendes, vízben gazdag környezet jellemzi.",
@@ -461,7 +461,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-niari-forest-spot-life-v2",
     type: "forest",
     name: { de: "Niari Waldpunkt", hu: "Niari erdőpont", ro: "Punctul forestier Niari", en: "Niari Forest Spot" },
-    coordinates: { lat: -3.6, lng: 13.2 },
+    coords: [13.2, -3.6],
     description: {
       de: "Dieser Waldpunkt im Niari-Tal beherbergt seltene Baumarten und lokale Fauna. Es ist ein Gebiet mit hohem ökologischem Wert.",
       hu: "Ez az erdőpont a Niari-völgyben ritka fafajoknak és helyi faunának ad otthont. Magas ökológiai értékű terület.",
@@ -480,7 +480,7 @@ export const republicofcongoLifeV2: POI[] = [
     id: "republicofcongo-ouesso-swamp-life-v2",
     type: "wildlife",
     name: { de: "Ouesso Sumpf", hu: "Ouesso-mocsár", ro: "Mlaștina Ouesso", en: "Ouesso Swamp" },
-    coordinates: { lat: 1.65, lng: 16.1 },
+    coords: [16.1, 1.65],
     description: {
       de: "Das Sumpfgebiet um Ouesso bietet spezialisierten Arten einen einzigartigen Lebensraum. Es ist bekannt für seine hohe Biodiversität.",
       hu: "Az Ouesso környéki mocsárvidék egyedülálló élőhelyet kínál a specializálódott fajok számára. Magas biodiverzitásáról ismert.",

@@ -5,7 +5,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-la-soufriere-nature-v2",
     type: "peak",
     name: { de: "La Soufrière", hu: "La Soufrière", ro: "La Soufrière", en: "La Soufrière" },
-    coordinates: { lat: 13.33, lng: -61.18 },
+    coords: [-61.18, 13.33],
     description: {
       de: "Ein aktiver Stratovulkan mit einer Höhe von 1.234 Metern, der den höchsten Punkt der Insel bildet. Sein letzter großer Ausbruch ereignete sich 2021.",
       hu: "Aktív sztratovulkán, amely 1234 méteres magasságával a sziget legmagasabb pontja. Legutóbbi jelentős kitörése 2021-ben történt.",
@@ -24,7 +24,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-falls-of-baleine-nature-v2",
     type: "landmark",
     name: { de: "Falls of Baleine", hu: "Falls of Baleine", ro: "Cascada Baleine", en: "Falls of Baleine" },
-    coordinates: { lat: 13.37, lng: -61.2 },
+    coords: [-61.2, 13.37],
     description: {
       de: "Ein einstufiger Wasserfall an der Nordspitze der Insel, der hauptsächlich per Boot erreichbar ist. Das Wasser stürzt 18 Meter in ein Becken.",
       hu: "Egylépcsős vízesés a sziget északi csücskénél, amely főként hajóval érhető el. A víz 18 métert zuhan egy sziklamedencébe.",
@@ -43,7 +43,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-dark-view-falls-nature-v2",
     type: "landmark",
     name: { de: "Dark View Falls", hu: "Dark View-vízesés", ro: "Cascada Dark View", en: "Dark View Falls" },
-    coordinates: { lat: 13.28, lng: -61.19 },
+    coords: [-61.19, 13.28],
     description: {
       de: "Zwei Wasserfälle, die über hohe Klippen am Richmond River stürzen. Besucher überqueren eine Bambusbrücke, um den Ort zu erreichen.",
       hu: "Két vízesés, amely magas sziklafalakról zúdul le a Richmond-folyó mentén. A látogatók egy bambuszhídon kelnek át a helyszínhez.",
@@ -62,7 +62,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-trinity-falls-nature-v2",
     type: "landmark",
     name: { de: "Trinity Falls", hu: "Trinity-vízesés", ro: "Cascada Trinity", en: "Trinity Falls" },
-    coordinates: { lat: 13.31, lng: -61.19 },
+    coords: [-61.19, 13.31],
     description: {
       de: "Ein kraftvoller, dreifach gestufter Wasserfall tief im Wald der nördlichen Berge. Er verfügt über ein großes Schwimmbecken an der Basis.",
       hu: "Erőteljes, háromlépcsős vízesés az északi hegyek sűrű erdejében. Az alján egy nagy természetes úszómedence található.",
@@ -81,7 +81,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-owia-salt-pond-nature-v2",
     type: "landmark",
     name: { de: "Owia Salzteich", hu: "Owia Sóstó", ro: "Iazul Sărat Owia", en: "Owia Salt Pond" },
-    coordinates: { lat: 13.37, lng: -61.13 },
+    coords: [-61.13, 13.37],
     description: {
       de: "Ein natürliches Becken aus vulkanischem Gestein an der Atlantikküste. Es bietet einen ruhigen Salzwasser-Schwimmbereich.",
       hu: "Vulkanikus kőzetek által alkotott természetes medence az Atlanti-parton. Nyugodt, sós vizű úszóhelyet kínál a hullámverésben.",
@@ -100,7 +100,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-mesopotamia-valley-nature-v2",
     type: "valley",
     name: { de: "Mesopotamia Valley", hu: "Mezopotámia-völgy", ro: "Valea Mesopotamia", en: "Mesopotamia Valley" },
-    coordinates: { lat: 13.17, lng: -61.17 },
+    coords: [-61.17, 13.17],
     description: {
       de: "Dieses fruchtbare Tal ist für seinen vulkanischen Boden bekannt und wird oft als Kornkammer der Insel bezeichnet.",
       hu: "Ezt a buja völgyet a sziget éléstárának nevezik termékeny vulkáni talaja miatt. Jelentős banán- és gyökérzöldség-termesztés folyik itt.",
@@ -119,7 +119,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-botanical-gardens-nature-v2",
     type: "park",
     name: { de: "Botanischer Garten", hu: "Botanikus Kert", ro: "Grădina Botanică", en: "Botanical Gardens" },
-    coordinates: { lat: 13.16, lng: -61.23 },
+    coords: [-61.23, 13.16],
     description: {
       de: "Gegründet 1765, ist dies einer der ältesten botanischen Gärten der westlichen Hemisphäre. Er beherbergt seltene tropische Pflanzen.",
       hu: "Az 1765-ben alapított kert a nyugati félteke egyik legrégebbi botanikus kertje. Ritka trópusi növényeknek és a nemzeti papagájnak ad otthont.",
@@ -138,7 +138,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-mount-st-andrew-nature-v2",
     type: "peak",
     name: { de: "Mount St. Andrew", hu: "Szent András-hegy", ro: "Muntele St. Andrew", en: "Mount St. Andrew" },
-    coordinates: { lat: 13.18, lng: -61.23 },
+    coords: [-61.23, 13.18],
     description: {
       de: "Ein Gipfel, der 735 Meter über Kingstown aufragt und einen Panoramablick auf die Grenadinen bietet. Er ist ein wichtiges Wassereinzugsgebiet.",
       hu: "Kingstown felett 735 méterrel magasodó csúcs, amely panorámás kilátást nyújt a Grenadin-szigetekre. A főváros fontos vízgyűjtő területe.",
@@ -157,7 +157,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-grand-bonhomme-nature-v2",
     type: "peak",
     name: { de: "Grand Bonhomme", hu: "Grand Bonhomme", ro: "Grand Bonhomme", en: "Grand Bonhomme" },
-    coordinates: { lat: 13.21, lng: -61.16 },
+    coords: [-61.16, 13.21],
     description: {
       de: "Ein zentraler Berggipfel mit einer Höhe von 970 Metern, bedeckt mit dichtem Elfenwald. Er gehört zur inneren Gebirgskette der Insel.",
       hu: "970 méter magas központi hegycsúcs, amelyet sűrű törpeerdő (elfin forest) borít. A sziget belső hegyvonulatának része.",
@@ -176,7 +176,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-kings-hill-forest-reserve-nature-v2",
     type: "forest",
     name: { de: "King's Hill Waldreservat", hu: "King's Hill Erdőrezervátum", ro: "Rezervația Forestieră King's Hill", en: "King's Hill Forest Reserve" },
-    coordinates: { lat: 13.16, lng: -61.15 },
+    coords: [-61.15, 13.16],
     description: {
       de: "Eines der ältesten Waldreservate der Welt, 1791 gesetzlich verankert. Es wurde geschaffen, um den Niederschlag für das Umland zu sichern.",
       hu: "A világ egyik legrégebbi erdőrezervátuma, amelyet 1791-ben alapítottak. Célja a környező mezőgazdasági területek esőellátásának biztosítása volt.",
@@ -195,7 +195,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-wallilabou-bay-nature-v2",
     type: "landmark",
     name: { de: "Wallilabou Bay", hu: "Wallilabou-öböl", ro: "Golful Wallilabou", en: "Wallilabou Bay" },
-    coordinates: { lat: 13.25, lng: -61.27 },
+    coords: [-61.27, 13.25],
     description: {
       de: "Ein natürlicher Hafen an der Leeward-Küste, umgeben von steilen Vulkanklippen. Er ist ein beliebter Ankerplatz für Segelschiffe.",
       hu: "Természetes kikötő a szélalatti (leeward) parton, amelyet meredek vulkáni sziklák vesznek körül. Kedvelt horgonyzóhely vitorlások számára.",
@@ -214,7 +214,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-cumberland-bay-nature-v2",
     type: "landmark",
     name: { de: "Cumberland Bay", hu: "Cumberland-öböl", ro: "Golful Cumberland", en: "Cumberland Bay" },
-    coordinates: { lat: 13.27, lng: -61.27 },
+    coords: [-61.27, 13.27],
     description: {
       de: "Eine tiefe Küstenbucht, bekannt für ihren schwarzen Vulkansand und Kokoshaine. Sie ist einer der am besten geschützten Ankerplätze der Insel.",
       hu: "Mély tengeröböl, amely fekete vulkáni homokjáról és kókuszligeteiről ismert. A sziget egyik legjobban védett természetes kikötője.",
@@ -233,7 +233,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-byahaut-bay-nature-v2",
     type: "landmark",
     name: { de: "Byahaut Bay", hu: "Byahaut-öböl", ro: "Golful Byahaut", en: "Byahaut Bay" },
-    coordinates: { lat: 13.21, lng: -61.28 },
+    coords: [-61.28, 13.21],
     description: {
       de: "Ein abgelegenes Küstengebiet, das nur per Wasser erreichbar ist. Es bietet kristallklares Wasser und lebhafte Korallenriffe.",
       hu: "Csak vízről megközelíthető, eldugott tengerparti terület, kristálytiszta vízzel és vibráló korallzátonyokkal. Kiváló búvárhely.",
@@ -252,7 +252,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-buccament-valley-nature-v2",
     type: "valley",
     name: { de: "Buccament Valley", hu: "Buccament-völgy", ro: "Valea Buccament", en: "Buccament Valley" },
-    coordinates: { lat: 13.2, lng: -61.25 },
+    coords: [-61.25, 13.2],
     description: {
       de: "Ein breites Tal an der Südwestküste, durch das der Buccament River fließt. Es ist geprägt von üppiger Vegetation und kleinen Farmen.",
       hu: "Széles völgy a délnyugati parton, amelyen a Buccament-folyó halad keresztül. Buja trópusi növényzet és kis gazdaságok jellemzik.",
@@ -271,7 +271,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-richmond-peak-nature-v2",
     type: "peak",
     name: { de: "Richmond Peak", hu: "Richmond-csúcs", ro: "Vârful Richmond", en: "Richmond Peak" },
-    coordinates: { lat: 13.3, lng: -61.17 },
+    coords: [-61.17, 13.3],
     description: {
       de: "Ein 1.077 Meter hoher Gipfel südlich des Soufrière-Vulkans. Er ist Teil der zerklüfteten Berglandschaft im Norden der Insel.",
       hu: "1077 méter magas csúcs a Soufrière-vulkántól délre. A sziget északi részének tagolt és vadregényes hegyi tájképének része.",
@@ -290,7 +290,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-colonarie-river-nature-v2",
     type: "river",
     name: { de: "Colonarie River", hu: "Colonarie-folyó", ro: "Râul Colonarie", en: "Colonarie River" },
-    coordinates: { lat: 13.24, lng: -61.12 },
+    coords: [-61.12, 13.24],
     description: {
       de: "Einer der längsten Flüsse der Insel, der durch das zentrale Gebirge zur Atlantikküste fließt. Er dient der Bewässerung und Stromerzeugung.",
       hu: "A sziget egyik leghosszabb folyója, amely a központi hegyekből az Atlanti-óceán felé tart. Öntözésre és vízienergia termelésére használják.",
@@ -309,7 +309,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-layou-river-nature-v2",
     type: "river",
     name: { de: "Layou River", hu: "Layou-folyó", ro: "Râul Layou", en: "Layou River" },
-    coordinates: { lat: 13.2, lng: -61.27 },
+    coords: [-61.27, 13.2],
     description: {
       de: "Ein bedeutender Fluss an der Westseite der Insel, der in Küstennähe eine große Schwemmebene bildet. Er ist bekannt für seine Felsformationen.",
       hu: "Jelentős folyó a sziget szélalatti oldalán, amely nagy hordalékos síkságot alkot a part közelében. Látványos sziklaalakzatairól ismert.",
@@ -328,7 +328,7 @@ export const saintvincentNatureV2: POI[] = [
     id: "saintvincent-indian-bay-beach-nature-v2",
     type: "landmark",
     name: { de: "Indian Bay Beach", hu: "Indian Bay-strand", ro: "Plaja Indian Bay", en: "Indian Bay Beach" },
-    coordinates: { lat: 13.13, lng: -61.21 },
+    coords: [-61.21, 13.13],
     description: {
       de: "Ein beliebter Sandstrand an der Südküste, geschützt durch ein Korallenriff. Das ruhige Wasser ist ideal zum Schwimmen.",
       hu: "Népszerű homokos strand a déli parton, amelyet korallzátony véd a hullámoktól. Nyugodt vize kiváló úszáshoz és tengeri élővilág megfigyeléséhez.",

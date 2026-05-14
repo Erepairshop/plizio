@@ -1061,7 +1061,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-kairouan-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Stade Hamda Laouani", hu: "Hamda Laouani Stadion", ro: "Stadionul Hamda Laouani", en: "Hamda Laouani Stadium" },
-    coordinates: { lat: 35.6669, lng: 10.1067 },
+    coords: [10.1067, 35.6669],
     description: {
       de: "Das 1999 eröffnete Stadion in Kairouan ist die Heimstätte des Fußballvereins JS Kairouan. Die Anlage bietet Platz für etwa 5.000 Zuschauer.",
       hu: "Az 1999-ben megnyitott kairuáni stadion a JS Kairouan labdarúgóklub otthona. A létesítmény körülbelül 5000 néző befogadására alkalmas.",
@@ -1080,7 +1080,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-national-library-landmarks-v2",
     type: "museum",
     name: { de: "Tunesische Nationalbibliothek", hu: "Tunéziai Nemzeti Könyvtár", ro: "Biblioteca Națională a Tunisiei", en: "National Library of Tunisia" },
-    coordinates: { lat: 36.8045, lng: 10.1705 },
+    coords: [10.1705, 36.8045],
     description: {
       de: "Die tunesische Nationalbibliothek befindet sich in Tunis und bewahrt eine umfangreiche Sammlung von Manuskripten und Archiven. Sie dient als Hauptspeicher für das nationale literarische Erbe.",
       hu: "A Tuniszban található nemzeti könyvtár kéziratok és levéltári anyagok kiterjedt gyűjteményét őrzi. A nemzeti irodalmi örökség központi tárhelyeként szolgál.",
@@ -1099,7 +1099,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-bizerte-nador-fort-landmarks-v2",
     type: "castle",
     name: { de: "Fort Nador", hu: "Nador erőd", ro: "Fortul Nador", en: "Fort Nador" },
-    coordinates: { lat: 37.2581, lng: 9.8736 },
+    coords: [9.8736, 37.2581],
     description: {
       de: "Das Fort Nador liegt auf einer Anhöhe über der Stadt Bizerte. Es diente historisch als militärischer Beobachtungsposten zur Sicherung des Hafens.",
       hu: "A Nador erőd Bizerte városa felett, egy magaslaton helyezkedik el. Történelmileg katonai megfigyelőállásként szolgált a kikötő védelmére.",
@@ -1118,7 +1118,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-kairouan-mosque-moulay-idriss-landmarks-v2",
     type: "church",
     name: { de: "Moschee Sidi Moulay Idriss", hu: "Sidi Moulay Idriss mecset", ro: "Moscheea Sidi Moulay Idriss", en: "Sidi Moulay Idriss Mosque" },
-    coordinates: { lat: 35.6822, lng: 10.1039 },
+    coords: [10.1039, 35.6822],
     description: {
       de: "Diese historische Moschee in Kairouan ist bekannt für ihre Architektur und religiöse Bedeutung. Sie ist ein Teil der lokalen islamischen Kulturgeschichte.",
       hu: "Ez a kairuáni történelmi mecset építészetéről és vallási jelentőségéről ismert. A helyi iszlám kultúrtörténet része.",
@@ -1137,7 +1137,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-mosque-hamouda-pacha-landmarks-v2",
     type: "church",
     name: { de: "Hamouda Pacha Moschee", hu: "Hamuda Pasa mecset", ro: "Moscheea Hamouda Pacha", en: "Hamouda Pacha Mosque" },
-    coordinates: { lat: 36.7975, lng: 10.1719 },
+    coords: [10.1719, 36.7975],
     description: {
       de: "Die Hamouda Pacha Moschee in Tunis wurde im 17. Jahrhundert erbaut. Sie zeichnet sich durch ihren achteckigen Minarett-Stil aus.",
       hu: "A tuniszi Hamuda Pasa mecset a 17. században épült. Nyolcszögletű minaretstílusa jellemzi.",
@@ -1156,7 +1156,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-kelibia-theater-landmarks-v2",
     type: "theater",
     name: { de: "Kélibia Theater", hu: "Kélibia Színház", ro: "Teatrul din Kélibia", en: "Kelibia Theater" },
-    coordinates: { lat: 36.8504, lng: 11.1017 },
+    coords: [11.1017, 36.8504],
     description: {
       de: "Das Theater in Kélibia ist ein Kulturzentrum der Stadt. Es finden dort regelmäßig lokale Aufführungen und regionale Veranstaltungen statt.",
       hu: "A kélibiai színház a város kulturális központja. Rendszeresen tartanak itt helyi előadásokat és regionális rendezvényeket.",
@@ -1175,7 +1175,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-bab-dzira-landmarks-v2",
     type: "landmark",
     name: { de: "Bab Dzira", hu: "Bab Dzira", ro: "Bab Dzira", en: "Bab Dzira" },
-    coordinates: { lat: 36.7936, lng: 10.1788 },
+    coords: [10.1788, 36.7936],
     description: {
       de: "Bab Dzira ist ein historisches Tor der Medina von Tunis. Es markiert einen der Eingänge zum traditionellen Stadtviertel.",
       hu: "Bab Dzira egy történelmi kapu Tunisz medinájában. A hagyományos városnegyed egyik bejáratát jelöli.",
@@ -1194,7 +1194,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-monastir-mosque-bourguiba-landmarks-v2",
     type: "church",
     name: { de: "Bourguiba Moschee", hu: "Bourguiba mecset", ro: "Moscheea Bourguiba", en: "Bourguiba Mosque" },
-    coordinates: { lat: 35.7725, lng: 10.8268 },
+    coords: [10.8268, 35.7725],
     description: {
       de: "Die nach Habib Bourguiba benannte Moschee befindet sich in seiner Heimatstadt Monastir. Sie ist ein prominentes Beispiel moderner tunesischer Moschee-Architektur.",
       hu: "A Habib Bourguibáról elnevezett mecset szülővárosában, Monastirban található. A modern tunéziai mecsetépítészet kiemelkedő példája.",
@@ -1213,7 +1213,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-zaghouan-temple-of-waters-landmarks-v2",
     type: "ruins",
     name: { de: "Wassertempel", hu: "Víztemplom", ro: "Templul Apelor", en: "Temple of Waters" },
-    coordinates: { lat: 36.3986, lng: 10.1436 },
+    coords: [10.1436, 36.3986],
     description: {
       de: "Der antike Wassertempel bei Zaghouan war der Ausgangspunkt des römischen Aquädukts nach Karthago. Er befindet sich an einer Bergquelle.",
       hu: "A zaghouani ókori víztemplom volt a Karthágóba vezető római vízvezeték kiindulópontja. Egy hegyi forrásnál található.",
@@ -1232,7 +1232,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-cathedral-st-georges-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Georgs Kathedrale", hu: "Szent György katedrális", ro: "Catedrala Sfântul Gheorghe", en: "Saint George Cathedral" },
-    coordinates: { lat: 36.8048, lng: 10.1762 },
+    coords: [10.1762, 36.8048],
     description: {
       de: "Die orthodoxe St. Georgs Kathedrale in Tunis ist ein historisches religiöses Gebäude der christlichen Gemeinde in der tunesischen Hauptstadt.",
       hu: "A tuniszi Szent György ortodox katedrális a tunéziai főváros keresztény közösségének történelmi vallási épülete.",
@@ -1251,7 +1251,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-gabes-old-market-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Markt von Gabes", hu: "Gabes ópiaca", ro: "Vechea piață din Gabes", en: "Old Market of Gabes" },
-    coordinates: { lat: 33.8821, lng: 10.1013 },
+    coords: [10.1013, 33.8821],
     description: {
       de: "Der traditionelle Markt in Gabes ist ein Zentrum für lokales Kunsthandwerk und Produkte aus der nahegelegenen Oase. Er spiegelt den Handel des Südens wider.",
       hu: "A hagyományos piac Gabesben a helyi kézműves termékek és a közeli oázisból származó áruk központja. A déli kereskedelmet tükrözi.",
@@ -1270,7 +1270,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-kairouan-bir-barouta-landmarks-v2",
     type: "landmark",
     name: { de: "Bir Barouta Brunnen", hu: "Bir Barouta kút", ro: "Fântâna Bir Barouta", en: "Bir Barouta Well" },
-    coordinates: { lat: 35.6816, lng: 10.1032 },
+    coords: [10.1032, 35.6816],
     description: {
       de: "Der historische Brunnen Bir Barouta in Kairouan ist eine legendenumwobene Stätte. Er verfügt über ein traditionelles Wasserschöpf-System.",
       hu: "A kairuáni történelmi Bir Barouta kút egy legendás helyszín. Hagyományos víznyerő rendszerrel rendelkezik.",
@@ -1289,7 +1289,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-palace-dar-lasram-landmarks-v2",
     type: "palace",
     name: { de: "Palast Dar Lasram", hu: "Dar Lasram palota", ro: "Palatul Dar Lasram", en: "Dar Lasram Palace" },
-    coordinates: { lat: 36.7972, lng: 10.1714 },
+    coords: [10.1714, 36.7972],
     description: {
       de: "Der Palast Dar Lasram befindet sich in der Medina von Tunis. Das Gebäude dient heute als kulturelles Zentrum und bewahrt das städtische Erbe.",
       hu: "A Dar Lasram palota Tunisz medinájában található. Az épület ma kulturális központként szolgál és őrzi a városi örökséget.",
@@ -1308,7 +1308,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-sfax-dar-fakhfakh-landmarks-v2",
     type: "palace",
     name: { de: "Dar Fakhfakh", hu: "Dar Fakhfakh", ro: "Dar Fakhfakh", en: "Dar Fakhfakh" },
-    coordinates: { lat: 34.7377, lng: 10.7618 },
+    coords: [10.7618, 34.7377],
     description: {
       de: "Dar Fakhfakh ist ein bedeutendes historisches Haus in der Medina von Sfax. Es zeigt die typische Architektur und Handwerkskunst der Stadt.",
       hu: "A Dar Fakhfakh egy jelentős történelmi ház a szfaxi medinában. A városra jellemző építészetet és kézművességet mutatja be.",
@@ -1327,7 +1327,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-tunis-dar-bach-hamba-landmarks-v2",
     type: "museum",
     name: { de: "Dar Bach Hamba", hu: "Dar Bach Hamba", ro: "Dar Bach Hamba", en: "Dar Bach Hamba" },
-    coordinates: { lat: 36.7977, lng: 10.1709 },
+    coords: [10.1709, 36.7977],
     description: {
       de: "Dar Bach Hamba ist ein ehemaliges Wohnhaus in der Medina von Tunis. Es beherbergt heute eine Sammlung zur Musikgeschichte der Region.",
       hu: "A Dar Bach Hamba egy egykori lakóház Tunisz medinájában. Ma a régió zenetörténetét bemutató gyűjteménynek ad otthont.",
@@ -1346,7 +1346,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-sfax-st-cyprian-church-landmarks-v2",
     type: "church",
     name: { de: "St. Cyprian Kirche", hu: "Szent Ciprián templom", ro: "Biserica Sfântul Ciprian", en: "Saint Cyprian Church" },
-    coordinates: { lat: 34.7388, lng: 10.7635 },
+    coords: [10.7635, 34.7388],
     description: {
       de: "Diese Kirche in Sfax ist ein Zeugnis der historischen christlichen Gemeinschaft der Stadt. Das Bauwerk ist heute weniger aktiv genutzt.",
       hu: "Ez a szfaxi templom a város történelmi keresztény közösségének bizonyítéka. Az épületet ma már kevésbé használják.",
@@ -1365,7 +1365,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "tunisia-kairouan-mosque-el-ansari-landmarks-v2",
     type: "church",
     name: { de: "Moschee El Ansari", hu: "El Ansari mecset", ro: "Moscheea El Ansari", en: "El Ansari Mosque" },
-    coordinates: { lat: 35.6835, lng: 10.1018 },
+    coords: [10.1018, 35.6835],
     description: {
       de: "Die El Ansari Moschee ist ein religiöses Gebäude in Kairouan. Sie gehört zum historischen Bestand der Stadt der tausend Moscheen.",
       hu: "Az El Ansari mecset egy vallási épület Kairuánban. Az ezer mecset városának történelmi állományához tartozik.",

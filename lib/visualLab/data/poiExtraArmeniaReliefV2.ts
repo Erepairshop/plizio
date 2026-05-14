@@ -466,7 +466,7 @@ export const poiExtraArmeniaReliefV2: POI[] = [
     id: "armenia-bazum-mountains-relief-v2",
     type: "mountain",
     name: { de: "Bazum-Gebirge", hu: "Bazum-hegység", ro: "Munții Bazum", en: "Bazum Mountains" },
-    coordinates: { lat: 40.85, lng: 44.3 },
+    coords: [44.3, 40.85],
     description: {
       de: "Das Bazum-Gebirge ist eine Gebirgskette im Norden Armeniens, die sich über 70 Kilometer entlang des Pambak-Flusstals erstreckt.",
       hu: "A Bazum-hegység Észak-Örményországban található, mintegy 70 kilométer hosszan húzódik a Pambak-folyó völgyétől északra.",
@@ -497,7 +497,7 @@ export const poiExtraArmeniaReliefV2: POI[] = [
     id: "armenia-gugark-mountains-relief-v2",
     type: "mountain",
     name: { de: "Gugark-Berge", hu: "Gugark-hegység", ro: "Munții Gugark", en: "Gugark Mountains" },
-    coordinates: { lat: 40.9, lng: 44.8 },
+    coords: [44.8, 40.9],
     description: {
       de: "Die Gugark-Berge liegen im Nordosten Armeniens und zeichnen sich durch tiefe Täler und dichte Bewaldung aus.",
       hu: "A Gugark-hegység Örményország északkeleti részén fekszik, mély völgyeiről és sűrű erdőiről ismert hegyvidék.",
@@ -528,7 +528,7 @@ export const poiExtraArmeniaReliefV2: POI[] = [
     id: "armenia-mount-armaghan-relief-v2",
     type: "peak",
     name: { de: "Berg Armaghan", hu: "Armaghan-hegy", ro: "Muntele Armaghan", en: "Mount Armaghan" },
-    coordinates: { lat: 40.03, lng: 45.21 },
+    coords: [45.21, 40.03],
     description: {
       de: "Der Armaghan ist ein erloschener Vulkan im Geghama-Hochland, der für seinen kreisrunden Kratersee auf dem Gipfel bekannt ist.",
       hu: "Az Armaghan egy kialudt vulkán a Geghama-fennsíkon, amelynek csúcsán egy kör alakú krátertó található.",
@@ -559,7 +559,7 @@ export const poiExtraArmeniaReliefV2: POI[] = [
     id: "armenia-tsaghkuni-mountains-relief-v2",
     type: "mountain",
     name: { de: "Tsaghkuni-Gebirge", hu: "Tsaghkuni-hegység", ro: "Munții Tsaghkuni", en: "Tsaghkuni Mountains" },
-    coordinates: { lat: 40.5, lng: 44.6 },
+    coords: [44.6, 40.5],
     description: {
       de: "Das Tsaghkuni-Gebirge im zentralen Armenien trennt die Einzugsgebiete der Flüsse Marmarik und Kasagh voneinander.",
       hu: "A Tsaghkuni-hegység Közép-Örményországban található, elválasztva egymástól a Marmarik és a Kaszagh folyók vízgyűjtő területeit.",

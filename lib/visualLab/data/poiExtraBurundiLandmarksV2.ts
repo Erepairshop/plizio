@@ -863,7 +863,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-saint-michel-church-landmarks-v2",
     type: "church",
     name: { de: "Saint-Michel-Kirche", hu: "Szent Mihály-templom", ro: "Biserica Saint-Michel", en: "Saint Michel Church" },
-    coordinates: { lat: -3.3848, lng: 29.3642 },
+    coords: [29.3642, -3.3848],
     description: {
       de: "Diese markante katholische Kirche im Zentrum von Bujumbura ist ein wichtiges religiöses Wahrzeichen der Hauptstadt.",
       hu: "Ez a Bujumbura központjában található katolikus templom a főváros egyik legfontosabb vallási jelképe.",
@@ -894,7 +894,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-kigobe-palace-landmarks-v2",
     type: "palace",
     name: { de: "Kigobe-Palast", hu: "Kigobe-palota", ro: "Palatul Kigobe", en: "Kigobe Palace" },
-    coordinates: { lat: -3.3644, lng: 29.3872 },
+    coords: [29.3872, -3.3644],
     description: {
       de: "Der Palast beherbergt die Nationalversammlung von Burundi und ist ein bedeutendes politisches Zentrum in Bujumbura.",
       hu: "A palota Burundi nemzetgyűlésének ad otthont, és a főváros egyik legfontosabb politikai központja.",
@@ -925,7 +925,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-rwagasore-mausoleum-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von Prinz Louis Rwagasore", hu: "Louis Rwagasore herceg mauzóleuma", ro: "Mausoleul Prințului Louis Rwagasore", en: "Mausoleum of Prince Louis Rwagasore" },
-    coordinates: { lat: -3.3891, lng: 29.3864 },
+    coords: [29.3864, -3.3891],
     description: {
       de: "Diese nationale Gedenkstätte auf dem Berg Kiriri ehrt den Helden der Unabhängigkeit Burundis.",
       hu: "A Kiriri-hegyen található nemzeti emlékhely Burundi függetlenségi hősének tiszteletére épült.",
@@ -956,7 +956,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-central-bank-brb-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralbank von Burundi", hu: "Burundi Központi Bank", ro: "Banca Centrală a Burundi", en: "Central Bank of Burundi" },
-    coordinates: { lat: -3.3822, lng: 29.3615 },
+    coords: [29.3615, -3.3822],
     description: {
       de: "Das Hauptgebäude der Banque de la République du Burundi ist ein markantes Beispiel moderner Architektur in der Stadt.",
       hu: "A Burundi Köztársaság Bankjának központi épülete a modern építészet egyik meghatározó példája a városban.",
@@ -987,7 +987,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-supreme-court-landmarks-v2",
     type: "landmark",
     name: { de: "Oberster Gerichtshof", hu: "Legfelsőbb Bíróság", ro: "Curtea Supremă", en: "Supreme Court of Burundi" },
-    coordinates: { lat: -3.3842, lng: 29.3675 },
+    coords: [29.3675, -3.3842],
     description: {
       de: "Das imposante Gebäude des Obersten Gerichtshofs repräsentiert die rechtliche Autorität des Landes in Bujumbura.",
       hu: "A Legfelsőbb Bíróság impozáns épülete Burundi jogi hatalmát jelképezi Bujumburában.",
@@ -1018,7 +1018,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-bujumbura-railway-station-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof Bujumbura", hu: "Bujumbura régi vasútállomás", ro: "Gara Veche din Bujumbura", en: "Old Bujumbura Railway Station" },
-    coordinates: { lat: -3.3765, lng: 29.3585 },
+    coords: [29.3585, -3.3765],
     description: {
       de: "Dieses historische Gebäude zeugt von den frühen kolonialen Infrastrukturplänen in Burundi.",
       hu: "Ez a történelmi épület Burundi korai gyarmati infrastruktúra-terveinek egyik utolsó emléke.",
@@ -1049,7 +1049,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-ifb-building-landmarks-v2",
     type: "landmark",
     name: { de: "Institut Français du Burundi", hu: "Burundi Francia Intézet", ro: "Institutul Francez din Burundi", en: "French Institute of Burundi" },
-    coordinates: { lat: -3.3835, lng: 29.3648 },
+    coords: [29.3648, -3.3835],
     description: {
       de: "Ein wichtiges kulturelles Zentrum in Bujumbura, das für seine Architektur und sein umfangreiches Archiv bekannt ist.",
       hu: "Fontos kulturális központ Bujumburában, amely építészetéről és gazdag archívumáról ismert.",
@@ -1080,7 +1080,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-university-library-landmarks-v2",
     type: "landmark",
     name: { de: "Universitätsbibliothek von Burundi", hu: "Burundi Egyetemi Könyvtár", ro: "Biblioteca Universității din Burundi", en: "University of Burundi Library" },
-    coordinates: { lat: -3.3955, lng: 29.3732 },
+    coords: [29.3732, -3.3955],
     description: {
       de: "Die Bibliothek auf dem Campus Mutanga ist das akademische Herzstück der größten Universität des Landes.",
       hu: "A Mutanga-campus területén található könyvtár az ország legnagyobb egyetemének akadémiai központja.",
@@ -1111,7 +1111,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-rtnb-building-landmarks-v2",
     type: "landmark",
     name: { de: "RTNB-Sendezentrum", hu: "RTNB Székház", ro: "Clădirea RTNB", en: "RTNB Building" },
-    coordinates: { lat: -3.3725, lng: 29.3755 },
+    coords: [29.3755, -3.3725],
     description: {
       de: "Das Hauptquartier des nationalen Rundfunks ist ein markantes Bauwerk und Zentrum der Medienlandschaft.",
       hu: "A nemzeti rádió és televízió székháza jellegzetes épület és a helyi médiavilág központja.",
@@ -1142,7 +1142,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-gitega-justice-palace-landmarks-v2",
     type: "landmark",
     name: { de: "Justizpalast Gitega", hu: "Gitegai Igazságügyi Palota", ro: "Palatul de Justiție din Gitega", en: "Gitega Justice Palace" },
-    coordinates: { lat: -3.4285, lng: 29.9252 },
+    coords: [29.9252, -3.4285],
     description: {
       de: "Dieses Justizgebäude in der politischen Hauptstadt Gitega besticht durch seine administrative Bedeutung.",
       hu: "Ez a Gitegában, a politikai fővárosban található épület fontos igazgatási és jogi központ.",
@@ -1173,7 +1173,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-makamba-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Makamba", hu: "Makambai székesegyház", ro: "Catedrala din Makamba", en: "Makamba Cathedral" },
-    coordinates: { lat: -4.1332, lng: 29.8045 },
+    coords: [29.8045, -4.1332],
     description: {
       de: "Die Hauptkirche von Makamba ist ein markantes Bauwerk im Süden Burundis und spirituelles Zentrum der Region.",
       hu: "Makamba főtemploma Dél-Burundi egyik legmeghatározóbb épülete és a régió vallási központja.",
@@ -1204,7 +1204,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-karuzi-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Karuzi", hu: "Karuzii székesegyház", ro: "Catedrala din Karuzi", en: "Karuzi Cathedral" },
-    coordinates: { lat: -3.1022, lng: 30.1635 },
+    coords: [30.1635, -3.1022],
     description: {
       de: "Ein bedeutendes religiöses Gebäude in Karuzi, das die lokale Architektur und den Glauben widerspiegelt.",
       hu: "Karuzi egyik jelentős vallási épülete, amely hűen tükrözi a helyi építészetet és hitéletet.",
@@ -1235,7 +1235,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-cankuzo-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Cankuzo", hu: "Cankuzói székesegyház", ro: "Catedrala din Cankuzo", en: "Cankuzo Cathedral" },
-    coordinates: { lat: -3.2185, lng: 30.4522 },
+    coords: [30.4522, -3.2185],
     description: {
       de: "Diese Kathedrale im Osten Burundis ist ein wichtiges architektonisches Wahrzeichen der Provinz Cankuzo.",
       hu: "Ez a Kelet-Burundiban található székesegyház Cankuzo tartomány egyik fontos építészeti jelképe.",
@@ -1266,7 +1266,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-ruzizi-ii-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Ruzizi-II-Brücke", hu: "Ruzizi II híd", ro: "Podul Ruzizi II", en: "Ruzizi II Bridge" },
-    coordinates: { lat: -3.3212, lng: 29.2745 },
+    coords: [29.2745, -3.3212],
     description: {
       de: "Die Brücke verbindet Burundi mit der DR Kongo und ist ein lebenswichtiges Infrastrukturelement für den Handel.",
       hu: "A híd Burundi és a Kongói Demokratikus Köztársaság között biztosít kapcsolatot, létfontosságú a kereskedelem számára.",
@@ -1297,7 +1297,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-kanyaru-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Kanyaru-Brücke", hu: "Kanyaru-híd", ro: "Podul Kanyaru", en: "Kanyaru Bridge" },
-    coordinates: { lat: -2.7385, lng: 29.9152 },
+    coords: [29.9152, -2.7385],
     description: {
       de: "Diese wichtige Grenzbrücke verbindet Burundi mit Ruanda im Norden und ist ein bedeutender Verkehrsknoten.",
       hu: "Ez a fontos határhíd északon köti össze Burundit Ruandával, kiemelt közlekedési csomópont.",
@@ -1328,7 +1328,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-finance-ministry-landmarks-v2",
     type: "landmark",
     name: { de: "Finanzministerium von Burundi", hu: "Burundi Pénzügyminisztérium", ro: "Ministerul de Finanțe din Burundi", en: "Ministry of Finance" },
-    coordinates: { lat: -3.3832, lng: 29.3628 },
+    coords: [29.3628, -3.3832],
     description: {
       de: "Das Finanzministerium ist ein zentrales Verwaltungsgebäude in Bujumbura, das die wirtschaftliche Führung des Landes beherbergt.",
       hu: "A Pénzügyminisztérium Bujumbura központi igazgatási épülete, amely az ország gazdasági vezetésének székhelye.",
@@ -1359,7 +1359,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-source-du-nil-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Hotel Source du Nil", hu: "Hotel Source du Nil", ro: "Hotel Source du Nil", en: "Hotel Source du Nil" },
-    coordinates: { lat: -3.3862, lng: 29.3665 },
+    coords: [29.3665, -3.3862],
     description: {
       de: "Eines der bekanntesten und historischsten Hotels in Bujumbura, das oft für diplomatische Treffen genutzt wird.",
       hu: "Bujumbura egyik legismertebb és legpatinásabb szállodája, amely gyakran diplomáciai találkozók helyszíne.",
@@ -1390,7 +1390,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-cercle-nautique-landmarks-v2",
     type: "landmark",
     name: { de: "Cercle Nautique de Bujumbura", hu: "Bujumburai Vitorlás Klub", ro: "Cercle Nautique din Bujumbura", en: "Cercle Nautique" },
-    coordinates: { lat: -3.3972, lng: 29.3525 },
+    coords: [29.3525, -3.3972],
     description: {
       de: "Dieser traditionsreiche Club am Ufer des Tanganjikasees ist ein gesellschaftlicher Mittelpunkt und architektonisches Erbe.",
       hu: "Ez a Tanganyika-tó partján fekvő hagyományos klub fontos társasági központ és építészeti örökség.",
@@ -1421,7 +1421,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-gitega-senate-building-landmarks-v2",
     type: "landmark",
     name: { de: "Senatsgebäude von Gitega", hu: "Gitegai Szenátusi Épület", ro: "Clădirea Senatului din Gitega", en: "Gitega Senate Building" },
-    coordinates: { lat: -3.4215, lng: 29.9312 },
+    coords: [29.9312, -3.4215],
     description: {
       de: "Der Senat von Burundi hat seinen Sitz in Gitega und unterstreicht die Rolle der Stadt als neue politische Hauptstadt.",
       hu: "Burundi szenátusának székhelye Gitegában található, hangsúlyozva a város új politikai fővárosi szerepét.",
@@ -1452,7 +1452,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-geology-museum-landmarks-v2",
     type: "museum",
     name: { de: "Geologiemuseum von Burundi", hu: "Burundi Geológiai Múzeum", ro: "Muzeul de Geologie din Burundi", en: "Geology Museum of Burundi" },
-    coordinates: { lat: -3.3782, lng: 29.3715 },
+    coords: [29.3715, -3.3782],
     description: {
       de: "Das Museum zeigt eine umfangreiche Sammlung von Mineralien und Gesteinen, die den geologischen Reichtum Burundis dokumentieren.",
       hu: "A múzeum ásványok és kőzetek gazdag gyűjteményét mutatja be, dokumentálva Burundi geológiai kincseit.",
@@ -1483,7 +1483,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-golf-club-landmarks-v2",
     type: "landmark",
     name: { de: "Bujumbura Golf Club", hu: "Bujumburai Golf Klub", ro: "Clubul de Golf din Bujumbura", en: "Bujumbura Golf Club" },
-    coordinates: { lat: -3.3925, lng: 29.3572 },
+    coords: [29.3572, -3.3925],
     description: {
       de: "Ein prestigeträchtiges Gelände in der Hauptstadt, das als grüner Erholungsraum und gesellschaftlicher Treffpunkt dient.",
       hu: "A főváros egyik rangos létesítménye, amely zöld pihenőhelyként és társasági találkozópontként szolgál.",
@@ -1514,7 +1514,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-kibumbu-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Kibumbu-Krankenhaus", hu: "Kibumbui Kórház", ro: "Spitalul Kibumbu", en: "Kibumbu Hospital" },
-    coordinates: { lat: -3.3542, lng: 29.7425 },
+    coords: [29.7425, -3.3542],
     description: {
       de: "Dieses historische Krankenhaus ist ein bedeutendes Beispiel für koloniale Missionsarchitektur im Landesinneren.",
       hu: "Ez a történelmi kórház a gyarmati missziós építészet egyik jelentős példája az ország belsejében.",
@@ -1545,7 +1545,7 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     id: "burundi-kiriri-presidential-palace-landmarks-v2",
     type: "palace",
     name: { de: "Präsidentenpalast Kiriri", hu: "Kiriri Elnöki Palota", ro: "Palatul Prezidențial Kiriri", en: "Kiriri Presidential Palace" },
-    coordinates: { lat: -3.3915, lng: 29.3892 },
+    coords: [29.3892, -3.3915],
     description: {
       de: "Der Palast auf dem Kiriri-Hügel ist die offizielle Residenz und ein Symbol der staatlichen Macht in Bujumbura.",
       hu: "A Kiriri-dombon álló palota a hivatalos rezidencia és az állami hatalom jelképe Bujumburában.",

@@ -721,7 +721,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-cam-ranh-port-economic-v2",
     type: "port",
     name: { de: "Cam Ranh Tiefwasserhafen", hu: "Cam Ranh mélyvízi kikötő", ro: "Portul de adâncime Cam Ranh", en: "Cam Ranh Deep Water Port" },
-    coordinates: { lat: 11.8833, lng: 109.2167 },
+    coords: [109.2167, 11.8833],
     description: {
       de: "Einer der besten natürlichen Tiefwasserhäfen Südostasiens mit strategischer und wirtschaftlicher Bedeutung am Südchinesischen Meer.",
       hu: "Délkelet-Ázsia egyik legjobb természetes mélyvízi kikötője a Dél-kínai-tenger mentén, kiemelt stratégiai jelentőséggel.",
@@ -740,7 +740,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-landmark-81-economic-v2",
     type: "tower",
     name: { de: "Landmark 81 Wolkenkratzer", hu: "Landmark 81 felhőkarcoló", ro: "Zgârie-nor Landmark 81", en: "Landmark 81 Skyscraper" },
-    coordinates: { lat: 10.7947, lng: 106.7222 },
+    coords: [106.7222, 10.7947],
     description: {
       de: "Das höchste Gebäude Vietnams symbolisiert den wirtschaftlichen Aufstieg von Ho-Chi-Minh-Stadt als modernes Finanzzentrum Südostasiens.",
       hu: "Vietnám legmagasabb épülete, amely Ho Si Minh-város modern pénzügyi és gazdasági központtá válását jelképezi.",
@@ -759,7 +759,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-chu-lai-economic-zone-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftszone Chu Lai", hu: "Chu Lai gazdasági övezet", ro: "Zona Economică Chu Lai", en: "Chu Lai Economic Zone" },
-    coordinates: { lat: 15.4167, lng: 108.6667 },
+    coords: [108.6667, 15.4167],
     description: {
       de: "Zentralvietnams erste offene Wirtschaftszone ist ein bedeutendes Zentrum für die Automobilindustrie und Logistik in der Provinz Quang Nam.",
       hu: "Közép-Vietnám első nyitott gazdasági övezete, amely az autóipar és a logisztika kiemelt központja Quang Nam tartományban.",
@@ -778,7 +778,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-phu-my-power-complex-economic-v2",
     type: "factory",
     name: { de: "Kraftwerkskomplex Phu My", hu: "Phu My erőműkomplexum", ro: "Complexul Energetic Phu My", en: "Phu My Power Complex" },
-    coordinates: { lat: 10.5917, lng: 107.0333 },
+    coords: [107.0333, 10.5917],
     description: {
       de: "Eines der größten Gaskraftwerke des Landes nutzt Erdgasfelder vor der Küste zur Stromerzeugung für den Süden Vietnams.",
       hu: "Az ország egyik legnagyobb gáztüzelésű erőműve, amely tengeri földgázmezőket használ Dél-Vietnám áramellátásához.",
@@ -797,7 +797,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-tri-an-dam-economic-v2",
     type: "factory",
     name: { de: "Tri An Wasserkraftwerk", hu: "Tri An vízerőmű", ro: "Hidrocentrala Tri An", en: "Tri An Hydroelectric Plant" },
-    coordinates: { lat: 11.1111, lng: 107.0222 },
+    coords: [107.0222, 11.1111],
     description: {
       de: "Dieses Wasserkraftwerk am Dong-Nai-Fluss wurde mit sowjetischer Hilfe gebaut und versorgt die Industrieregionen im Süden.",
       hu: "A Dong Nai-folyón épült vízerőmű szovjet segítséggel valósult meg, és a déli ipari régiókat látja el energiával.",
@@ -816,7 +816,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-yali-falls-dam-economic-v2",
     type: "factory",
     name: { de: "Yali Falls Wasserkraftwerk", hu: "Yali-vízesés vízerőmű", ro: "Hidrocentrala Cascadele Yali", en: "Yali Falls Hydroelectric Plant" },
-    coordinates: { lat: 14.225, lng: 107.7833 },
+    coords: [107.7833, 14.225],
     description: {
       de: "Das zweitgrößte Wasserkraftwerk Vietnams liegt im zentralen Hochland und nutzt die Kraft des Se-San-Flusses zur Energieerzeugung.",
       hu: "Vietnám második legnagyobb vízerőműve a központi felföldön található, a Se San-folyó erejét hasznosítva.",
@@ -835,7 +835,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-bitexco-tower-economic-v2",
     type: "tower",
     name: { de: "Bitexco Financial Tower", hu: "Bitexco Financial Tower", ro: "Turnul Financiar Bitexco", en: "Bitexco Financial Tower" },
-    coordinates: { lat: 10.7717, lng: 106.7042 },
+    coords: [106.7042, 10.7717],
     description: {
       de: "Das Wahrzeichen von Ho-Chi-Minh-Stadt hat die Form einer Lotusblüte und beherbergt zahlreiche Büros internationaler Finanzunternehmen.",
       hu: "Ho Si Minh-város ikonikus épülete lótuszvirág formájú, és számos nemzetközi pénzügyi cég irodájának ad otthont.",
@@ -854,7 +854,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-nui-phao-mine-economic-v2",
     type: "mine",
     name: { de: "Nui Phao Wolframmine", hu: "Nui Phao volfrámbánya", ro: "Mina de tungsten Nui Phao", en: "Nui Phao Tungsten Mine" },
-    coordinates: { lat: 21.5833, lng: 105.65 },
+    coords: [105.65, 21.5833],
     description: {
       de: "Eine der weltweit größten Wolframminen außerhalb Chinas liegt in der Provinz Thai Nguyen und ist bedeutend für den Weltmarkt.",
       hu: "Kína után a világ egyik legnagyobb volfrámbányája Thai Nguyen tartományban található, meghatározó a világpiac számára.",
@@ -873,7 +873,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-nghi-son-petrochemical-economic-v2",
     type: "factory",
     name: { de: "Raffinerie Nghi Son", hu: "Nghi Son finomító", ro: "Rafinăria Nghi Son", en: "Nghi Son Refinery" },
-    coordinates: { lat: 19.3167, lng: 105.7917 },
+    coords: [105.7917, 19.3167],
     description: {
       de: "Vietnams größter Komplex für Raffinerie und Petrochemie ist ein Joint Venture, das den Treibstoffbedarf des Landes sichert.",
       hu: "Vietnám legnagyobb kőolajfinomító és petrolkémiai komplexuma egy nemzetközi vegyesvállalat, amely az ország üzemanyagigényét fedezi.",
@@ -892,7 +892,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-white-tiger-oil-field-economic-v2",
     type: "industry",
     name: { de: "Bạch Hổ Ölfeld", hu: "Bạch Hổ olajmező", ro: "Zăcământul petrolier Bạch Hổ", en: "Bach Ho Oil Field" },
-    coordinates: { lat: 9.6, lng: 108.0 },
+    coords: [108.0, 9.6],
     description: {
       de: "Das 'Weißer Tiger'-Feld ist das größte Offshore-Ölfeld Vietnams und eine der Haupteinnahmequellen der nationalen Erdölindustrie.",
       hu: "A 'Fehér Tigris' mező Vietnám legnagyobb tengeri olajmezője, a nemzeti kőolajipar egyik fő bevételi forrása.",
@@ -911,7 +911,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-binh-thuan-agriculture-economic-v2",
     type: "village",
     name: { de: "Bình Thuận Drachenfrucht-Zentrum", hu: "Bình Thuận sárkánygyümölcs-központ", ro: "Centrul de fructul dragonului Bình Thuận", en: "Binh Thuan Dragon Fruit Hub" },
-    coordinates: { lat: 10.9333, lng: 108.1 },
+    coords: [108.1, 10.9333],
     description: {
       de: "Die Provinz Binh Thuan ist das Herz der vietnamesischen Drachenfrucht-Produktion und versorgt Märkte in aller Welt.",
       hu: "Binh Thuan tartomány a vietnámi sárkánygyümölcs-termelés központja, amely a világpiacokat látja el ezzel az egzotikus gyümölccsel.",
@@ -930,7 +930,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-sa-dec-floriculture-economic-v2",
     type: "village",
     name: { de: "Sa Dec Blumendorf", hu: "Sa Dec virágfalu", ro: "Satul floricol Sa Dec", en: "Sa Dec Flower Village" },
-    coordinates: { lat: 10.3, lng: 105.7417 },
+    coords: [105.7417, 10.3],
     description: {
       de: "Ein bedeutendes landwirtschaftliches Zentrum im Mekong-Delta, bekannt für den großflächigen Anbau von Zierpflanzen und Blumen.",
       hu: "A Mekong-delta egyik legfontosabb mezőgazdasági központja, amely dísznövények és virágok tömeges termesztéséről híres.",
@@ -949,7 +949,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-phu-quoc-pearl-economic-v2",
     type: "industry",
     name: { de: "Phu Quoc Perlenfarmen", hu: "Phu Quoc gyöngyfarmok", ro: "Fermele de perle din Phu Quoc", en: "Phu Quoc Pearl Farms" },
-    coordinates: { lat: 10.1667, lng: 103.9667 },
+    coords: [103.9667, 10.1667],
     description: {
       de: "Die Perlenzucht ist ein wichtiger Wirtschaftszweig auf der Insel Phu Quoc und produziert hochwertige Perlen für den internationalen Export.",
       hu: "A gyöngytenyésztés kulcsfontosságú iparág Phu Quoc szigetén, amely kiváló minőségű gyöngyöket állít elő exportra.",
@@ -968,7 +968,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-tan-thuan-zone-economic-v2",
     type: "industry",
     name: { de: "Exportzone Tan Thuan", hu: "Tan Thuan exportzóna", ro: "Zona de procesare Tan Thuan", en: "Tan Thuan Export Processing Zone" },
-    coordinates: { lat: 10.7583, lng: 106.7417 },
+    coords: [106.7417, 10.7583],
     description: {
       de: "Vietnams erste Exportverarbeitungszone war ein Meilenstein für die wirtschaftliche Öffnung und Industrialisierung des Südens.",
       hu: "Vietnám legelső exportfeldolgozó övezete mérföldkő volt az ország gazdasági nyitásában és déli iparosításában.",
@@ -987,7 +987,7 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "vietnam-amata-industrial-economic-v2",
     type: "industry",
     name: { de: "Amata City Bien Hoa", hu: "Amata City Bien Hoa", ro: "Orașul Industrial Amata", en: "Amata City Bien Hoa" },
-    coordinates: { lat: 10.9417, lng: 106.8833 },
+    coords: [106.8833, 10.9417],
     description: {
       de: "Ein moderner Industriepark in der Provinz Dong Nai, der als Vorzeigemodell für ausländische Direktinvestitionen in Vietnam gilt.",
       hu: "Modern ipari park Dong Nai tartományban, amely a Vietnámba irányuló közvetlen külföldi befektetések mintaképe.",

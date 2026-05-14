@@ -718,7 +718,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-tram-chim-life-v2",
     type: "wildlife",
     name: { de: "Tram Chim Nationalpark", hu: "Tram Chim Nemzeti Park", ro: "Parcul Național Tram Chim", en: "Tram Chim National Park" },
-    coordinates: { lat: 10.5901, lng: 105.5123 },
+    coords: [105.5123, 10.5901],
     description: {
       de: "Dieses Feuchtgebiet im Mekong-Delta ist ein wichtiges Schutzgebiet für den seltenen Saruskranich. Es umfasst 7.313 Hektar Kanäle und Marschland.",
       hu: "Ez a Mekong-delta vizes élőhelye a ritka antilopdaru fontos védelmi területe. A park 7313 hektárnyi csatornát és mocsarat foglal magában.",
@@ -737,7 +737,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-u-minh-thuong-life-v2",
     type: "park",
     name: { de: "U Minh Thuong Nationalpark", hu: "U Minh Thuong Nemzeti Park", ro: "Parcul Național U Minh Thuong", en: "U Minh Thuong National Park" },
-    coordinates: { lat: 9.5847, lng: 105.0825 },
+    coords: [105.0825, 9.5847],
     description: {
       de: "Der Park schützt eines der letzten großen Torfmoore in Vietnam mit dichten Melaleuca-Wäldern. Er beherbergt zahlreiche seltene Wasser- und Landsäugetiere.",
       hu: "A park Vietnam egyik utolsó nagy tőzeglápját védi sűrű Melaleuca erdőkkel. Számos ritka vízi és szárazföldi emlősnek ad otthont.",
@@ -756,7 +756,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-xuan-thuy-life-v2",
     type: "wildlife",
     name: { de: "Xuan Thuy Nationalpark", hu: "Xuan Thuy Nemzeti Park", ro: "Parcul Național Xuan Thuy", en: "Xuan Thuy National Park" },
-    coordinates: { lat: 20.2452, lng: 106.5134 },
+    coords: [106.5134, 20.2452],
     description: {
       de: "An der Mündung des Roten Flusses gelegen, war dies das erste Ramsar-Gebiet Südostasiens. Es ist ein Paradies für wandernde Watvögel.",
       hu: "A Vörös-folyó torkolatánál fekvő terület Délkelet-Ázsia első Ramsari helyszíne volt. A vándorló gázlómadarak paradicsoma.",
@@ -775,7 +775,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-bidup-nui-ba-life-v2",
     type: "park",
     name: { de: "Bidup Nui Ba Nationalpark", hu: "Bidup Nui Ba Nemzeti Park", ro: "Parcul Național Bidup Nui Ba", en: "Bidup Nui Ba National Park" },
-    coordinates: { lat: 12.1156, lng: 108.5432 },
+    coords: [108.5432, 12.1156],
     description: {
       de: "Dieser Hochlandpark im zentralen Bergland beherbergt dichte Nebelwälder und ist reich an endemischen Pflanzen. Er liegt in der Provinz Lam Dong.",
       hu: "A központi felföldön található park sűrű köderdőknek ad otthont, és gazdag endemikus növényekben. Lam Dong tartományban fekszik.",
@@ -794,7 +794,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-vu-quang-life-v2",
     type: "wildlife",
     name: { de: "Vu Quang Nationalpark", hu: "Vu Quang Nemzeti Park", ro: "Parcul Național Vu Quang", en: "Vu Quang National Park" },
-    coordinates: { lat: 18.2834, lng: 105.4125 },
+    coords: [105.4125, 18.2834],
     description: {
       de: "Weltweit bekannt wurde dieser Park 1992 durch die Entdeckung des Saola, eines seltenen Huftiers. Er liegt an der Grenze zu Laos.",
       hu: "A park 1992-ben vált világhírűvé a szaola, egy ritka patás felfedezésével. A laoszi határ közelében található.",
@@ -813,7 +813,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-chu-mom-ray-life-v2",
     type: "park",
     name: { de: "Chu Mom Ray Nationalpark", hu: "Chu Mom Ray Nemzeti Park", ro: "Parcul Național Chu Mom Ray", en: "Chu Mom Ray National Park" },
-    coordinates: { lat: 14.4321, lng: 107.7214 },
+    coords: [107.7214, 14.4321],
     description: {
       de: "Dieser Park liegt am Dreiländereck zwischen Vietnam, Laos und Kambodscha. Er schützt eine der vielfältigsten Waldlandschaften Zentralvietnams.",
       hu: "A park Vietnam, Laosz és Kambodzsa hármashatáránál található. Közép-Vietnam egyik legváltozatosabb erdővidékét védi.",
@@ -832,7 +832,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-u-minh-ha-life-v2",
     type: "park",
     name: { de: "U Minh Ha Nationalpark", hu: "U Minh Ha Nemzeti Park", ro: "Parcul Național U Minh Ha", en: "U Minh Ha National Park" },
-    coordinates: { lat: 9.2432, lng: 104.8321 },
+    coords: [104.8321, 9.2432],
     description: {
       de: "Im südlichsten Zipfel Vietnams gelegen, ist dieser Park für seine weitläufigen Melaleuca-Wälder auf Torfboden bekannt. Er ist ein ökologisches Juwel.",
       hu: "Vietnam legdélebbi csücskében található, tőzegtalajon elterülő Melaleuca erdőiről ismert. Igazi ökológiai gyöngyszem.",
@@ -851,7 +851,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-lo-go-xa-mat-life-v2",
     type: "wildlife",
     name: { de: "Lo Go-Xa Mat Nationalpark", hu: "Lo Go-Xa Mat Nemzeti Park", ro: "Parcul Național Lo Go-Xa Mat", en: "Lo Go-Xa Mat National Park" },
-    coordinates: { lat: 11.6025, lng: 105.9012 },
+    coords: [105.9012, 11.6025],
     description: {
       de: "Dieser Park in Südvietnam bildet eine ökologische Brücke zwischen dem zentralen Hochland und dem Mekong-Delta. Er grenzt direkt an Kambodscha.",
       hu: "Ez a dél-vietnami park ökológiai hidat képez a központi felföld és a Mekong-delta között. Közvetlenül Kambodzsával határos.",
@@ -870,7 +870,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-ben-en-life-v2",
     type: "park",
     name: { de: "Ben En Nationalpark", hu: "Ben En Nemzeti Park", ro: "Parcul Național Ben En", en: "Ben En National Park" },
-    coordinates: { lat: 19.6012, lng: 105.4632 },
+    coords: [105.4632, 19.6012],
     description: {
       de: "Zentrales Merkmal dieses Parks ist der Muc-See mit seinen 21 Inseln. Die Hügelketten sind von ursprünglichem tropischem Regenwald bedeckt.",
       hu: "A park központi eleme a Muc-tó a maga 21 szigetével. A dombvonulatokat érintetlen trópusi esőerdő borítja.",
@@ -889,7 +889,7 @@ export const poiExtraVietnamLifeV2: POI[] = [
     id: "vietnam-lung-ngoc-hoang-life-v2",
     type: "wildlife",
     name: { de: "Lung Ngoc Hoang Naturschutzgebiet", hu: "Lung Ngoc Hoang Természetvédelmi Terület", ro: "Rezervația Lung Ngoc Hoang", en: "Lung Ngoc Hoang Nature Reserve" },
-    coordinates: { lat: 9.7521, lng: 105.6543 },
+    coords: [105.6543, 9.7521],
     description: {
       de: "Bekannt als die Lunge des Mekong-Deltas, schützt dieses Reservat ein komplexes System aus Kanälen, Sümpfen und Melaleuca-Wäldern.",
       hu: "A Mekong-delta tüdejeként ismert rezervátum csatornák, mocsarak és Melaleuca erdők összetett rendszerét védi.",

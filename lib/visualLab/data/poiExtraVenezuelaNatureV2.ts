@@ -5,7 +5,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-salto-angel-nature-v2",
     type: "landmark",
     name: { de: "Angel Falls", hu: "Angel-vízesés", ro: "Cascada Angel", en: "Angel Falls" },
-    coordinates: { lat: 5.9675, lng: -62.5364 },
+    coords: [-62.5364, 5.9675],
     description: {
       de: "Der Angel-Fall ist der höchste ununterbrochene Wasserfall der Welt mit einer Fallhöhe von 979 Metern. Er liegt im Nationalpark Canaima.",
       hu: "Az Angel-vízesés a világ legmagasabb vízesése 979 méteres zuhanással. A Canaima Nemzeti Park területén található.",
@@ -24,7 +24,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-bolivar-nature-v2",
     type: "peak",
     name: { de: "Pico Bolívar", hu: "Pico Bolívar", ro: "Pico Bolívar", en: "Pico Bolívar" },
-    coordinates: { lat: 8.5583, lng: -71.0472 },
+    coords: [-71.0472, 8.5583],
     description: {
       de: "Der Pico Bolívar ist mit 4.978 Metern der höchste Berg Venezuelas. Er befindet sich in der Sierra Nevada de Mérida.",
       hu: "A Pico Bolívar 4978 méteres magasságával Venezuela legmagasabb csúcsa. A Sierra Nevada de Mérida hegységben helyezkedik el.",
@@ -43,7 +43,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-lago-de-maracaibo-nature-v2",
     type: "lake",
     name: { de: "Maracaibo-See", hu: "Maracaibo-tó", ro: "Lacul Maracaibo", en: "Lake Maracaibo" },
-    coordinates: { lat: 9.8, lng: -71.6 },
+    coords: [-71.6, 9.8],
     description: {
       de: "Der Maracaibo-See ist eine große Brackwasserbucht im Nordwesten Venezuelas. Er ist durch eine schmale Meerenge mit dem Golf von Venezuela verbunden.",
       hu: "A Maracaibo-tó egy hatalmas brakkvízöböl Venezuela északnyugati részén. Egy keskeny tengerszoros köti össze a Venezuelai-öböllel.",
@@ -62,7 +62,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-medanos-de-coro-nature-v2",
     type: "park",
     name: { de: "Médanos de Coro", hu: "Médanos de Coro", ro: "Médanos de Coro", en: "Médanos de Coro" },
-    coordinates: { lat: 11.6667, lng: -69.6667 },
+    coords: [-69.6667, 11.6667],
     description: {
       de: "Der Nationalpark Médanos de Coro besteht aus einer weitläufigen Dünenlandschaft im Bundesstaat Falcón. Die Sanddünen erreichen Höhen von bis zu 40 Metern.",
       hu: "A Médanos de Coro Nemzeti Park egy kiterjedt dűnerendszerből áll Falcón államban. A homokdűnék elérik a 40 méteres magasságot is.",
@@ -81,7 +81,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-humboldt-nature-v2",
     type: "peak",
     name: { de: "Pico Humboldt", hu: "Pico Humboldt", ro: "Pico Humboldt", en: "Pico Humboldt" },
-    coordinates: { lat: 8.54, lng: -71.02 },
+    coords: [-71.02, 8.54],
     description: {
       de: "Der Pico Humboldt ist der zweithöchste Berg Venezuelas. Er befindet sich in der Sierra Nevada de Mérida in den venezolanischen Anden.",
       hu: "A Pico Humboldt Venezuela második legmagasabb hegye. A Sierra Nevada de Mérida hegységben található, a venezuelai Andokban.",
@@ -100,7 +100,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-parque-henry-pittier-nature-v2",
     type: "park",
     name: { de: "Henry Pittier Nationalpark", hu: "Henry Pittier Nemzeti Park", ro: "Parcul Național Henry Pittier", en: "Henry Pittier National Park" },
-    coordinates: { lat: 10.35, lng: -67.6 },
+    coords: [-67.6, 10.35],
     description: {
       de: "Der Henry Pittier Nationalpark ist der älteste Nationalpark Venezuelas. Er zeichnet sich durch seine enorme Vielfalt an Lebensräumen aus.",
       hu: "A Henry Pittier Nemzeti Park Venezuela legrégebbi nemzeti parkja. Az élőhelyek hatalmas változatossága jellemzi.",
@@ -119,7 +119,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-peninsula-de-paria-nature-v2",
     type: "landmark",
     name: { de: "Paria-Halbinsel", hu: "Paria-félsziget", ro: "Peninsula Paria", en: "Paria Peninsula" },
-    coordinates: { lat: 10.66, lng: -62.5 },
+    coords: [-62.5, 10.66],
     description: {
       de: "Die Paria-Halbinsel erstreckt sich in den Atlantik im Nordosten Venezuelas. Sie beherbergt den gleichnamigen Nationalpark mit dichten Regenwäldern.",
       hu: "A Paria-félsziget Venezuela északkeleti részén az Atlanti-óceánba nyúlik. Itt található a névadó nemzeti park sűrű esőerdőkkel.",
@@ -138,7 +138,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-isla-margarita-nature-v2",
     type: "island",
     name: { de: "Isla Margarita", hu: "Margarita-sziget", ro: "Isla Margarita", en: "Isla Margarita" },
-    coordinates: { lat: 11.0, lng: -64.0 },
+    coords: [-64.0, 11.0],
     description: {
       de: "Die Isla Margarita liegt im Karibischen Meer vor der venezolanischen Küste. Sie ist ein bedeutendes touristisches Ziel mit vielfältigen Küstenlinien.",
       hu: "A Margarita-sziget a Karib-tengerben fekszik, Venezuela partjaitól északra. Jelentős turisztikai célpont változatos partvonallal.",
@@ -157,7 +157,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-los-roques-nature-v2",
     type: "park",
     name: { de: "Los Roques", hu: "Los Roques", ro: "Los Roques", en: "Los Roques" },
-    coordinates: { lat: 11.85, lng: -66.75 },
+    coords: [-66.75, 11.85],
     description: {
       de: "Der Los Roques Archipel ist ein Nationalpark im Karibischen Meer. Er umfasst ein ausgedehntes Korallenriff und zahlreiche Sandinseln.",
       hu: "A Los Roques-szigetcsoport egy nemzeti park a Karib-tengerben. Kiterjedt korallzátonyt és számos homokszigetet foglal magában.",
@@ -176,7 +176,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-llanos-nature-v2",
     type: "valley",
     name: { de: "Los Llanos", hu: "Los Llanos", ro: "Los Llanos", en: "Los Llanos" },
-    coordinates: { lat: 8.0, lng: -68.0 },
+    coords: [-68.0, 8.0],
     description: {
       de: "Los Llanos sind weitläufige Graslandebenen, die den zentralen Teil Venezuelas prägen. Diese Region ist saisonal von massiven Überschwemmungen betroffen.",
       hu: "A Los Llanos kiterjedt füves síkságok, amelyek Venezuela középső részét alkotják. A területet szezonálisan hatalmas árvizek jellemzik.",
@@ -195,7 +195,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-rio-orinoco-nature-v2",
     type: "river",
     name: { de: "Orinoco", hu: "Orinoco", ro: "Orinoco", en: "Orinoco" },
-    coordinates: { lat: 8.5, lng: -62.0 },
+    coords: [-62.0, 8.5],
     description: {
       de: "Der Orinoco ist einer der längsten Flüsse Südamerikas und fließt durch Venezuela. Er bildet eines der größten Flusssysteme des Kontinents.",
       hu: "Az Orinoco Dél-Amerika egyik leghosszabb folyója, amely Venezuelán keresztül folyik. A kontinens egyik legnagyobb vízrendszerét alkotja.",
@@ -214,7 +214,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-bonpland-nature-v2",
     type: "peak",
     name: { de: "Pico Bonpland", hu: "Pico Bonpland", ro: "Pico Bonpland", en: "Pico Bonpland" },
-    coordinates: { lat: 8.53, lng: -71.02 },
+    coords: [-71.02, 8.53],
     description: {
       de: "Der Pico Bonpland ist ein Gipfel in der Sierra Nevada de Mérida. Er ist eng benachbart zu den höchsten Bergen des Landes.",
       hu: "A Pico Bonpland a Sierra Nevada de Mérida hegység egyik csúcsa. Szorosan kapcsolódik az ország legmagasabb hegyeihez.",
@@ -233,7 +233,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-espejo-nature-v2",
     type: "peak",
     name: { de: "Pico Espejo", hu: "Pico Espejo", ro: "Pico Espejo", en: "Pico Espejo" },
-    coordinates: { lat: 8.52, lng: -71.05 },
+    coords: [-71.05, 8.52],
     description: {
       de: "Der Pico Espejo ist ein bekannter Gipfel in der Sierra Nevada de Mérida. Er ist durch eine Seilbahn mit der Stadt Mérida verbunden.",
       hu: "A Pico Espejo a Sierra Nevada de Mérida ismert csúcsa. Felvonó köti össze Mérida városával.",
@@ -252,7 +252,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-parque-el-tamá-nature-v2",
     type: "park",
     name: { de: "El Tamá Nationalpark", hu: "El Tamá Nemzeti Park", ro: "Parcul Național El Tamá", en: "El Tamá National Park" },
-    coordinates: { lat: 7.5, lng: -72.2 },
+    coords: [-72.2, 7.5],
     description: {
       de: "Der El Tamá Nationalpark erstreckt sich an der Grenze zu Kolumbien. Er umfasst wichtige Berg- und Waldökosysteme in den Anden.",
       hu: "Az El Tamá Nemzeti Park Kolumbia határán húzódik. Fontos hegyi és erdei ökoszisztémákat foglal magában az Andokban.",
@@ -271,7 +271,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-leon-nature-v2",
     type: "peak",
     name: { de: "Pico León", hu: "Pico León", ro: "Pico León", en: "Pico León" },
-    coordinates: { lat: 8.52, lng: -71.03 },
+    coords: [-71.03, 8.52],
     description: {
       de: "Der Pico León ist ein weiterer bedeutender Gipfel im Gebirgsmassiv der Sierra Nevada de Mérida. Er erreicht eine Höhe von über 4.700 Metern.",
       hu: "A Pico León a Sierra Nevada de Mérida hegytömbjének egy másik jelentős csúcsa. Magassága meghaladja a 4700 métert.",
@@ -290,7 +290,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-rio-apure-nature-v2",
     type: "river",
     name: { de: "Apure-Fluss", hu: "Apure-folyó", ro: "Râul Apure", en: "Apure River" },
-    coordinates: { lat: 7.8, lng: -66.5 },
+    coords: [-66.5, 7.8],
     description: {
       de: "Der Apure ist ein wichtiger Nebenfluss des Orinoco, der durch die Region Los Llanos fließt. Er spielt eine entscheidende Rolle für das lokale Ökosystem.",
       hu: "Az Apure az Orinoco egyik fontos mellékfolyója, amely a Los Llanos régión keresztül folyik. Döntő szerepet játszik a helyi ökoszisztémában.",
@@ -309,7 +309,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-toro-nature-v2",
     type: "peak",
     name: { de: "Pico Toro", hu: "Pico Toro", ro: "Pico Toro", en: "Pico Toro" },
-    coordinates: { lat: 8.55, lng: -71.05 },
+    coords: [-71.05, 8.55],
     description: {
       de: "Der Pico Toro ist ein markanter Gipfel in der Sierra Nevada de Mérida. Er ist Teil des bekannten Hochgebirgszuges in Venezuela.",
       hu: "A Pico Toro a Sierra Nevada de Mérida egyik jellegzetes csúcsa. Venezuela jól ismert magashegyi vonulatának része.",
@@ -328,7 +328,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-rio-ventuari-nature-v2",
     type: "river",
     name: { de: "Ventuari-Fluss", hu: "Ventuari-folyó", ro: "Râul Ventuari", en: "Ventuari River" },
-    coordinates: { lat: 4.0, lng: -66.0 },
+    coords: [-66.0, 4.0],
     description: {
       de: "Der Ventuari ist ein bedeutender Nebenfluss des Orinoco im Süden Venezuelas. Er fließt durch unberührte Regenwaldgebiete.",
       hu: "A Ventuari az Orinoco jelentős mellékfolyója Venezuela déli részén. Érintetlen esőerdőkön keresztül folyik.",
@@ -347,7 +347,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-rio-caura-nature-v2",
     type: "river",
     name: { de: "Caura-Fluss", hu: "Caura-folyó", ro: "Râul Caura", en: "Caura River" },
-    coordinates: { lat: 7.0, lng: -65.0 },
+    coords: [-65.0, 7.0],
     description: {
       de: "Der Caura ist ein großer Nebenfluss des Orinoco in der venezolanischen Guayana. Er fließt durch weitgehend unberührte Tropenwälder.",
       hu: "A Caura az Orinoco nagy mellékfolyója a venezuelai Guyanában. Nagyrészt érintetlen trópusi erdőkön keresztül folyik.",
@@ -366,7 +366,7 @@ export const venezuelaNatureV2: POI[] = [
     id: "venezuela-pico-muertos-nature-v2",
     type: "peak",
     name: { de: "Pico Muertos", hu: "Pico Muertos", ro: "Pico Muertos", en: "Pico Muertos" },
-    coordinates: { lat: 8.51, lng: -71.01 },
+    coords: [-71.01, 8.51],
     description: {
       de: "Der Pico Muertos ist ein Gipfel in der Sierra Nevada de Mérida. Er liegt in einer Region, die durch ihre beeindruckende Hochgebirgslandschaft geprägt ist.",
       hu: "A Pico Muertos a Sierra Nevada de Mérida egyik csúcsa. Olyan régióban fekszik, amelyet lenyűgöző magashegyi táj jellemez.",

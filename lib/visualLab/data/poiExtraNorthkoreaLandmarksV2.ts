@@ -628,7 +628,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-grand-peoples-study-house-landmarks-v2",
     type: "landmark",
     name: { de: "Große Studienhalle des Volkes", hu: "A Nép Nagy Tanulmányi Palotája", ro: "Marea Casă de Studiu a Poporului", en: "Grand People's Study House" },
-    coordinates: { lat: 39.0194, lng: 125.7508 },
+    coords: [125.7508, 39.0194],
     description: {
       de: "Dieses monumentale Gebäude am Kim-Il-sung-Platz dient als Nationalbibliothek und Bildungszentrum. Es wurde 1982 im traditionellen koreanischen Stil erbaut.",
       hu: "A Kim Ir Szen téren álló monumentális épület nemzeti könyvtárként és oktatási központként szolgál. 1982-ben épült hagyományos koreai stílusban.",
@@ -647,7 +647,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-chollima-statue-landmarks-v2",
     type: "monument",
     name: { de: "Chollima-Statue", hu: "Csollima-szobor", ro: "Statuia Chollima", en: "Chollima Statue" },
-    coordinates: { lat: 39.0322, lng: 125.7533 },
+    coords: [125.7533, 39.0322],
     description: {
       de: "Das Denkmal auf dem Mansu-Hügel zeigt das mythische geflügelte Pferd Chollima. Es symbolisiert den schnellen wirtschaftlichen Fortschritt des Landes.",
       hu: "A Manszu-dombon álló emlékmű a mitikus szárnyas lovat, a Csollimát ábrázolja. Az ország gyors gazdasági fejlődését szimbolizálja.",
@@ -666,7 +666,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-mansudae-assembly-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Mansudae-Kongresshalle", hu: "Manszude Gyűlésterem", ro: "Sala de Adunări Mansudae", en: "Mansudae Assembly Hall" },
-    coordinates: { lat: 39.0286, lng: 125.7503 },
+    coords: [125.7503, 39.0286],
     description: {
       de: "Dieser Sitz der Obersten Volksversammlung liegt im Zentrum von Pjöngjang. Das Gebäude wird für staatliche Zeremonien und Parlamentssitzungen genutzt.",
       hu: "A Legfelsőbb Népi Gyűlés székhelye Phenjan központjában található. Az épületet állami ceremóniákra és parlamenti ülésekre használják.",
@@ -685,7 +685,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-sci-tech-complex-landmarks-v2",
     type: "museum",
     name: { de: "Wissenschafts- und Technikkomplex", hu: "Tudományos és Technikai Komplexum", ro: "Complexul de Știință și Tehnologie", en: "Sci-Tech Complex" },
-    coordinates: { lat: 38.9886, lng: 125.7144 },
+    coords: [125.7144, 38.9886],
     description: {
       de: "Das Gebäude in Form eines Atoms liegt auf der Insel Ssuk im Fluss Taedong. Es dient als Zentrum für wissenschaftliche Forschung und Bildung.",
       hu: "Az atom alakú épület a Tedong folyó Szuk-szigetén található. A tudományos kutatás és oktatás központjaként szolgál.",
@@ -704,7 +704,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-mansudae-fountain-park-landmarks-v2",
     type: "landmark",
     name: { de: "Mansudae-Brunnenpark", hu: "Manszude Szökőkút-park", ro: "Parcul Fântânilor Mansudae", en: "Mansudae Fountain Park" },
-    coordinates: { lat: 39.0272, lng: 125.7522 },
+    coords: [125.7522, 39.0272],
     description: {
       de: "Dieser weitläufige Park vor dem Mansudae-Kunsttheater ist für seine zahlreichen Springbrunnen bekannt. Die zentrale Skulpturengruppe zeigt tanzende Nymphen.",
       hu: "A Manszude Művészeti Színház előtt elterülő park számos szökőkútjáról ismert. A központi szoborcsoport táncoló nimfákat ábrázol.",
@@ -723,7 +723,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-pyongyang-grand-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Großes Theater Pjöngjang", hu: "Phenjani Nagy Színház", ro: "Marele Teatru din Phenian", en: "Pyongyang Grand Theatre" },
-    coordinates: { lat: 39.0136, lng: 125.7516 },
+    coords: [125.7516, 39.0136],
     description: {
       de: "Das Theater am Fluss Taedong ist ein markantes Beispiel für die Architektur der 1960er Jahre. Es dient als Hauptspielstätte für die Operngruppe Pibada.",
       hu: "A Tedong folyó partján álló színház az 1960-as évek építészetének jellegzetes példája. A Pibada operatársulat fő helyszíneként szolgál.",
@@ -742,7 +742,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-april-25-house-of-culture-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturhaus des 25. April", hu: "Április 25. Kultúrpalota", ro: "Casa de Cultură 25 Aprilie", en: "April 25 House of Culture" },
-    coordinates: { lat: 39.0583, lng: 125.7322 },
+    coords: [125.7322, 39.0583],
     description: {
       de: "Dieses große Theatergebäude wird vom Verteidigungsministerium für Militärkonzerte und Staatsversammlungen genutzt. Es liegt an der Pipha-Straße.",
       hu: "Ezt a hatalmas színházépületet a védelmi minisztérium használja katonai koncertekre és állami gyűlésekre. A Pipha úton található.",
@@ -761,7 +761,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-peoples-palace-of-culture-landmarks-v2",
     type: "landmark",
     name: { de: "Volkskulturpalast", hu: "A Nép Kultúrpalotája", ro: "Palatul Culturii Poporului", en: "People's Palace of Culture" },
-    coordinates: { lat: 39.0244, lng: 125.7394 },
+    coords: [125.7394, 39.0244],
     description: {
       de: "Der Palast ist ein bedeutender Ort für internationale Konferenzen und kulturelle Veranstaltungen. Das Design kombiniert moderne und traditionelle Stilelemente.",
       hu: "A palota nemzetközi konferenciák és kulturális események fontos helyszíne. Kialakítása modern és hagyományos stílusjegyeket ötvöz.",
@@ -780,7 +780,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-pothong-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Pothong-Tor", hu: "Pothong-kapu", ro: "Poarta Pothong", en: "Pothong Gate" },
-    coordinates: { lat: 39.0282, lng: 125.7412 },
+    coords: [125.7412, 39.0282],
     description: {
       de: "Dieses historische Westtor der alten Stadtmauer von Pjöngjang stammt ursprünglich aus dem 6. Jahrhundert. Es ist ein wichtiges Kulturerbe des Koguryo-Reiches.",
       hu: "Phenjan ősi városfalának ez a történelmi nyugati kapuja eredetileg a 6. századból származik. A Kogurjo királyság fontos öröksége.",
@@ -799,7 +799,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-west-sea-barrage-landmarks-v2",
     type: "bridge",
     name: { de: "Westmeer-Staudamm", hu: "Nyugati-tengeri gát", ro: "Barajul Mării de Vest", en: "West Sea Barrage" },
-    coordinates: { lat: 38.6752, lng: 125.1814 },
+    coords: [125.1814, 38.6752],
     description: {
       de: "Dieser massive 8 km lange Damm trennt den Fluss Taedong vom Gelben Meer. Er reguliert den Wasserstand und dient als wichtige Verkehrsverbindung.",
       hu: "Ez a hatalmas, 8 km hosszú gát választja el a Tedong folyót a Sárga-tengertől. Szabályozza a vízszintet és fontos közlekedési útvonal.",
@@ -818,7 +818,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-mirae-scientists-street-landmarks-v2",
     type: "landmark",
     name: { de: "Straße der Mirae-Wissenschaftler", hu: "Mirae Tudósok útja", ro: "Strada Mirae a Oamenilor de Știință", en: "Mirae Scientists Street" },
-    coordinates: { lat: 38.9982, lng: 125.7408 },
+    coords: [125.7408, 38.9982],
     description: {
       de: "Diese moderne Wohnstraße beherbergt Wissenschaftler und Universitätslehrer. Sie ist bekannt für ihre futuristische Architektur und Wolkenkratzer.",
       hu: "Ez a modern lakóutca tudósoknak és egyetemi tanároknak ad otthont. Futurisztikus építészetéről és felhőkarcolóiról ismert.",
@@ -837,7 +837,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-ryomyong-street-landmarks-v2",
     type: "landmark",
     name: { de: "Ryomyong-Straße", hu: "Rjomjong út", ro: "Strada Ryomyong", en: "Ryomyong Street" },
-    coordinates: { lat: 39.0702, lng: 125.7704 },
+    coords: [125.7704, 39.0702],
     description: {
       de: "Die Ryomyong-Straße ist ein prestigeträchtiges Viertel mit energieeffizienten Hochhäusern. Sie führt zum Kumsusan-Palast der Sonne.",
       hu: "A Rjomjong út egy tekintélyes negyed energiahatékony toronyházakkal. A Kumszuszan Nap-palotához vezet.",
@@ -856,7 +856,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-mangyongdae-schoolchildrens-palace-landmarks-v2",
     type: "landmark",
     name: { de: "Schülerpalast Mangyongdae", hu: "Mangjongde Gyermekpalota", ro: "Palatul Copiilor Mangyongdae", en: "Mangyongdae Schoolchildren's Palace" },
-    coordinates: { lat: 38.9818, lng: 125.6662 },
+    coords: [125.6662, 38.9818],
     description: {
       de: "Diese außerschulische Bildungseinrichtung bietet Kurse in Kunst, Musik und Sport an. Das Gebäude hat eine markante halbrunde Form.",
       hu: "Ez az iskolán kívüli oktatási intézmény művészeti, zenei és sportkurzusokat kínál. Az épület jellegzetes félköríves alakú.",
@@ -875,7 +875,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-three-revolution-exhibition-landmarks-v2",
     type: "museum",
     name: { de: "Drei-Revolutionen-Ausstellung", hu: "Három Forradalom Kiállítás", ro: "Expoziția celor Trei Revoluții", en: "Three-Revolution Exhibition" },
-    coordinates: { lat: 39.0682, lng: 125.7614 },
+    coords: [125.7614, 39.0682],
     description: {
       de: "Dieser Museumskomplex präsentiert Fortschritte in Technik, Kultur und Ideologie. Das markanteste Gebäude ist die kugelförmige Elektronikhalle.",
       hu: "Ez a múzeumkomplexum a technika, a kultúra és az ideológia fejlődését mutatja be. Legjellegzetesebb épülete a gömb alakú Elektronikai Csarnok.",
@@ -894,7 +894,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-revolutionary-martyrs-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Friedhof der Revolutionshelden", hu: "Forradalmi Mártírok Temetője", ro: "Cimitirul Martirilor Revoluționari", en: "Revolutionary Martyrs' Cemetery" },
-    coordinates: { lat: 39.0804, lng: 125.8206 },
+    coords: [125.8206, 39.0804],
     description: {
       de: "Die Gedenkstätte auf dem Berg Taesong ehrt Soldaten, die gegen die japanische Besatzung kämpften. Sie bietet einen weiten Blick über Pjöngjang.",
       hu: "A Teszong-hegyen található emlékhely a japán megszállás ellen harcoló katonák előtt tiszteleg. Széles kilátást nyújt Phenjanra.",
@@ -913,7 +913,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-patriotic-martyrs-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Friedhof der patriotischen Märtyrer", hu: "Hazafias Mártírok Temetője", ro: "Cimitirul Martirilor Patriotici", en: "Patriotic Martyrs' Cemetery" },
-    coordinates: { lat: 39.0842, lng: 125.6174 },
+    coords: [125.6174, 39.0842],
     description: {
       de: "Dieser nationale Friedhof in Sinmi-ri dient als Begräbnisstätte für bedeutende Staatsbeamte und Wissenschaftler. Er wurde 1986 fertiggestellt.",
       hu: "Ez a Szinmi-riben található nemzeti temető jelentős állami tisztviselők és tudósok nyughelyeként szolgál. 1986-ban készült el.",
@@ -932,7 +932,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-korean-art-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Koreanische Kunstgalerie", hu: "Koreai Művészeti Galéria", ro: "Galeria de Artă Coreeană", en: "Korean Art Gallery" },
-    coordinates: { lat: 39.0172, lng: 125.7544 },
+    coords: [125.7544, 39.0172],
     description: {
       de: "Die Galerie am Kim-Il-sung-Platz zeigt eine umfangreiche Sammlung traditioneller und moderner koreanischer Kunstwerke. Sie wurde 1954 eröffnet.",
       hu: "A Kim Ir Szen téren található galéria a hagyományos és modern koreai műalkotások gazdag gyűjteményét mutatja be. 1954-ben nyílt meg.",
@@ -951,7 +951,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-korean-folklore-museum-landmarks-v2",
     type: "museum",
     name: { de: "Koreanisches Volkskundemuseum", hu: "Koreai Néprajzi Múzeum", ro: "Muzeul de Folclor Coreean", en: "Korean Folklore Museum" },
-    coordinates: { lat: 39.0178, lng: 125.7552 },
+    coords: [125.7552, 39.0178],
     description: {
       de: "Das Museum widmet sich der Geschichte des täglichen Lebens und der Bräuche in Korea. Es befindet sich in einem Gebäude im klassischen Stil.",
       hu: "A múzeum a koreai mindennapi élet és szokások történetének szentelt intézmény. Egy klasszikus stílusú épületben található.",
@@ -970,7 +970,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-okryu-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Okryu-Brücke", hu: "Okru-híd", ro: "Podul Okryu", en: "Okryu Bridge" },
-    coordinates: { lat: 39.0264, lng: 125.7622 },
+    coords: [125.7622, 39.0264],
     description: {
       de: "Die Okryu-Brücke verbindet das Zentrum von Pjöngjang mit dem Osten der Stadt. Sie ist eine der meistbefahrenen Brücken über den Taedong.",
       hu: "Az Okru-híd Phenjan belvárosát köti össze a város keleti részével. Ez az egyik legforgalmasabb híd a Tedong folyón.",
@@ -989,7 +989,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-rungra-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Rungra-Brücke", hu: "Rungra-híd", ro: "Podul Rungra", en: "Rungra Bridge" },
-    coordinates: { lat: 39.0384, lng: 125.7724 },
+    coords: [125.7724, 39.0384],
     description: {
       de: "Diese Brücke führt über die Insel Rungra im Fluss Taedong. Sie ist ein wichtiger Teil des Verkehrskreuzes im Norden von Pjöngjang.",
       hu: "Ez a híd a Tedong folyó Rungra-szigete felett vezet át. Fontos része Phenjan északi közlekedési csomópontjának.",
@@ -1008,7 +1008,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-west-pyongyang-grand-theatre-landmarks-v2",
     type: "theater",
     name: { de: "West-Pjöngjang-Großtheater", hu: "Nyugat-phenjani Nagy Színház", ro: "Marele Teatru din Phenianul de Vest", en: "West Pyongyang Grand Theatre" },
-    coordinates: { lat: 39.0432, lng: 125.7288 },
+    coords: [125.7288, 39.0432],
     description: {
       de: "Dieses Theater ist für seine moderne Bühnentechnik und Konzerte bekannt. Es war 2008 Schauplatz des historischen Auftritts der New Yorker Philharmoniker.",
       hu: "Ez a színház modern színpadtechnikájáról és koncertjeiről ismert. 2008-ban itt tartották a New York-i Filharmonikusok történelmi fellépését.",
@@ -1027,7 +1027,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-east-pyongyang-grand-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Ost-Pjöngjang-Großtheater", hu: "Kelet-phenjani Nagy Színház", ro: "Marele Teatru din Phenianul de Est", en: "East Pyongyang Grand Theatre" },
-    coordinates: { lat: 39.0192, lng: 125.7754 },
+    coords: [125.7754, 39.0192],
     description: {
       de: "Das Theater im Osten der Stadt dient als Spielstätte für bedeutende musikalische Darbietungen. Es wurde für das Weltfestspiel der Jugend 1989 erbaut.",
       hu: "A város keleti részén található színház jelentős zenei előadások helyszíne. Az 1989-es Világifjúsági Találkozóra épült.",
@@ -1046,7 +1046,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-hamhung-grand-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Großes Theater Hamhung", hu: "Hamhungi Nagy Színház", ro: "Marele Teatru din Hamhung", en: "Hamhung Grand Theatre" },
-    coordinates: { lat: 39.9142, lng: 127.5444 },
+    coords: [127.5444, 39.9142],
     description: {
       de: "Dies ist das größte Theatergebäude außerhalb von Pjöngjang. Es liegt im Zentrum von Hamhung und ist ein bedeutendes kulturelles Zentrum.",
       hu: "Ez a legnagyobb színházépület Phenjanon kívül. Hamhung központjában található, és fontos kulturális központ.",
@@ -1065,7 +1065,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-pochonbo-scout-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Pochonbo-Gedenkstätte", hu: "Pocsonbói emlékmű", ro: "Monumentul Pochonbo", en: "Pochonbo Scout Memorial" },
-    coordinates: { lat: 41.5282, lng: 128.2324 },
+    coords: [128.2324, 41.5282],
     description: {
       de: "Das Denkmal erinnert an die Schlacht von Pochonbo im Jahr 1937. Es zeigt eine Gruppe bewaffneter Guerillakämpfer im Kampf.",
       hu: "Az emlékmű az 1937-es pocsonbói csatára emlékeztet. Fegyveres gerillák csoportját ábrázolja harc közben.",
@@ -1084,7 +1084,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-wangjaesan-grand-monument-landmarks-v2",
     type: "monument",
     name: { de: "Großmonument Wangjaesan", hu: "Vangdzseszani Nagy Emlékmű", ro: "Marele Monument Wangjaesan", en: "Wangjaesan Grand Monument" },
-    coordinates: { lat: 42.9462, lng: 129.8394 },
+    coords: [129.8394, 42.9462],
     description: {
       de: "Dieses Denkmal im hohen Norden ehrt eine historische Sitzung während des Widerstands. Es besteht aus einer Statue und einer massiven Steinwand.",
       hu: "Ez az északi emlékmű az ellenállás alatti történelmi tanácskozásnak állít emléket. Egy szoborból és egy hatalmas kőfalból áll.",
@@ -1103,7 +1103,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-hyesan-grand-monument-landmarks-v2",
     type: "monument",
     name: { de: "Großmonument Hyesan", hu: "Hjeszani Nagy Emlékmű", ro: "Marele Monument Hyesan", en: "Hyesan Grand Monument" },
-    coordinates: { lat: 41.4022, lng: 128.1752 },
+    coords: [128.1752, 41.4022],
     description: {
       de: "Das Monument in Hyesan blickt auf den Fluss Yalu und die chinesische Grenze. Es ehrt die Siege der revolutionären Armee in dieser Region.",
       hu: "A hjeszani emlékmű a Jalu folyóra és a kínai határra néz. A forradalmi hadsereg régióbeli győzelmei előtt tiszteleg.",
@@ -1122,7 +1122,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-pyongyang-bell-landmarks-v2",
     type: "monument",
     name: { de: "Glocke von Pjöngjang", hu: "Phenjani harang", ro: "Clopotul din Phenian", en: "Pyongyang Bell" },
-    coordinates: { lat: 39.0224, lng: 125.7562 },
+    coords: [125.7562, 39.0224],
     description: {
       de: "Diese große Bronzeglocke aus dem 18. Jahrhundert ist ein nationales Kulturerbe. Sie wurde einst geläutet, um die Zeit und Notfälle anzuzeigen.",
       hu: "Ez a 18. századi nagy bronzharang nemzeti kulturális örökség. Valaha az idő jelzésére és vészhelyzetekben kongatták meg.",
@@ -1141,7 +1141,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-mansudae-art-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Mansudae-Kunsttheater", hu: "Manszude Művészeti Színház", ro: "Teatrul de Artă Mansudae", en: "Mansudae Art Theatre" },
-    coordinates: { lat: 39.0256, lng: 125.7524 },
+    coords: [125.7524, 39.0256],
     description: {
       de: "Das Theater beherbergt die Mansudae-Kunsttruppe, die für ihre Tanz- und Musikdarbietungen berühmt ist. Die Fassade ist mit großen Mosaiken geschmückt.",
       hu: "A színház a Manszude Művészeti Társulatnak ad otthont, amely tánc- és zenei előadásairól híres. Homlokzatát hatalmas mozaikok díszítik.",
@@ -1160,7 +1160,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-kim-il-sung-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Kim-Il-sung-Stadion", hu: "Kim Ir Szen Stadion", ro: "Stadionul Kim Il-sung", en: "Kim Il-sung Stadium" },
-    coordinates: { lat: 39.0444, lng: 125.7548 },
+    coords: [125.7548, 39.0444],
     description: {
       de: "Dieses Mehrzweckstadion liegt am Fuße des Moran-Hügels. Es wird hauptsächlich für Fußballspiele und Massenveranstaltungen genutzt.",
       hu: "Ez a többcélú stadion a Moran-domb lábánál fekszik. Elsősorban labdarúgó-mérkőzésekre és tömegrendezvényekre használják.",
@@ -1179,7 +1179,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-yanggakdo-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Yanggakdo International Hotel", hu: "Janggakdo Nemzetközi Szálloda", ro: "Hotelul Internațional Yanggakdo", en: "Yanggakdo International Hotel" },
-    coordinates: { lat: 38.9986, lng: 125.7542 },
+    coords: [125.7542, 38.9986],
     description: {
       de: "Das 47-stöckige Hotel liegt auf der Insel Yanggak im Fluss Taedong. Es ist eines der bekanntesten Hotels für ausländische Touristen in Pjöngjang.",
       hu: "A 47 emeletes szálloda a Tedong folyó Janggak-szigetén található. Phenjan egyik legismertebb szállodája a külföldi turisták számára.",
@@ -1198,7 +1198,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-koryo-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Koryo-Hotel", hu: "Korjo Szálló", ro: "Hotelul Koryo", en: "Koryo Hotel" },
-    coordinates: { lat: 39.0132, lng: 125.7424 },
+    coords: [125.7424, 39.0132],
     description: {
       de: "Das Luxushotel in Pjöngjang ist für seine markanten Zwillingstürme bekannt. Es wurde 1985 im Stadtbezirk Jung errichtet.",
       hu: "A phenjani luxusszálloda jellegzetes ikertornyairól ismert. 1985-ben épült a Csung kerületben.",
@@ -1217,7 +1217,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
     id: "northkorea-munsu-water-park-landmarks-v2",
     type: "landmark",
     name: { de: "Wasserpark Munsu", hu: "Munszu Vízividámpark", ro: "Parcul Acvatic Munsu", en: "Munsu Water Park" },
-    coordinates: { lat: 39.0402, lng: 125.7876 },
+    coords: [125.7876, 39.0402],
     description: {
       de: "Dieser große Freizeitkomplex bietet zahlreiche Innen- und Außenbecken sowie Wasserrutschen. Er ist ein markantes Beispiel für moderne Freizeitarchitektur.",
       hu: "Ez a hatalmas szabadidő-komplexum számos beltéri és kültéri medencét, valamint csúszdát kínál. A modern szabadidős építészet jellegzetes példája.",

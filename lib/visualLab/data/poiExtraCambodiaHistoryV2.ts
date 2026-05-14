@@ -726,7 +726,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-oudong-stupa-hill-history-v2",
     type: "capital",
     name: { de: "Oudong-Hügel", hu: "Oudong-hegy", ro: "Dealul Oudong", en: "Oudong Stupa Hill" },
-    coordinates: { lat: 11.8217, lng: 104.7508 },
+    coords: [104.7508, 11.8217],
     description: {
       de: "Vom 17. bis 19. Jahrhundert war dieser Hügel die Hauptstadt Kambodschas. Er beherbergt zahlreiche königliche Stupas und Gräber.",
       hu: "A 17. és 19. század között ez a domb volt Kambodzsa fővárosa. Számos királyi sztúpának és sírnak ad otthont.",
@@ -757,7 +757,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-banteay-samre-temple-history-v2",
     type: "ruins",
     name: { de: "Banteay Samré Tempel", hu: "Banteay Samré templom", ro: "Templul Banteay Samre", en: "Banteay Samre Temple" },
-    coordinates: { lat: 13.4497, lng: 103.9358 },
+    coords: [103.9358, 13.4497],
     description: {
       de: "Ein hinduistischer Tempel aus dem 12. Jahrhundert, der für seine detaillierten Reliefs und den Angkor-Wat-Stil bekannt ist.",
       hu: "Egy 12. századi hindu templom, amely részletes domborműveiről és az Angkor Vat-stílusról ismert.",
@@ -788,7 +788,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-kravan-temple-history-v2",
     type: "ruins",
     name: { de: "Prasat Kravan Tempel", hu: "Praszat Kravan templom", ro: "Templul Prasat Kravan", en: "Prasat Kravan Temple" },
-    coordinates: { lat: 13.4194, lng: 103.9002 },
+    coords: [103.9002, 13.4194],
     description: {
       de: "Dieser Backsteintempel aus dem 10. Jahrhundert beherbergt einzigartige Reliefs des Gottes Vishnu im Inneren der Türme.",
       hu: "Ez a 10. századi téglatemplom egyedülálló Visnu-isten domborműveket őriz a tornyok belsejében.",
@@ -819,7 +819,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-kampong-kdei-ancient-bridge-history-v2",
     type: "bridge",
     name: { de: "Spean Praptos Brücke", hu: "Spean Praptos híd", ro: "Podul Spean Praptos", en: "Kampong Kdei Ancient Bridge" },
-    coordinates: { lat: 13.1189, lng: 104.3375 },
+    coords: [104.3375, 13.1189],
     description: {
       de: "Die längste Korbbogenbrücke der Welt aus der Khmer-Ära, die einst die Straße von Angkor nach Vietnam verband.",
       hu: "A világ leghosszabb khmer-kori boltíves hídja, amely egykor az Angkort Vietnammal összekötő utat szolgálta.",
@@ -850,7 +850,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-wat-nokor-bachey-history-v2",
     type: "temple",
     name: { de: "Wat Nokor Tempel", hu: "Wat Nokor templom", ro: "Templul Wat Nokor", en: "Wat Nokor Bachey" },
-    coordinates: { lat: 11.9936, lng: 105.4339 },
+    coords: [105.4339, 11.9936],
     description: {
       de: "Ein faszinierender Komplex, in dem eine moderne Pagode in die Ruinen eines Sandsteintempels aus dem 11. Jahrhundert gebaut wurde.",
       hu: "Egy lenyűgöző komplexum, ahol egy modern pagodát építettek egy 11. századi homokkő templom romjai közé.",
@@ -881,7 +881,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-preah-khan-of-kompong-svay-history-v2",
     type: "ruins",
     name: { de: "Preah Khan von Kompong Svay", hu: "Preah Khan (Kompong Svay)", ro: "Preah Khan din Kompong Svay", en: "Preah Khan of Kompong Svay" },
-    coordinates: { lat: 13.7842, lng: 104.7011 },
+    coords: [104.7011, 13.7842],
     description: {
       de: "Die flächenmäßig größte Tempelanlage des alten Khmer-Reiches, weit entfernt von den Hauptpfaden im Dschungel.",
       hu: "Az ősi Khmer Birodalom területileg legnagyobb templomkomplexuma, távol a főbb útvonalaktól a dzsungelben.",
@@ -912,7 +912,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-banteay-prei-nokor-ruins-history-v2",
     type: "ruins",
     name: { de: "Banteay Prei Nokor", hu: "Banteay Prei Nokor romok", ro: "Ruinele Banteay Prei Nokor", en: "Banteay Prei Nokor Ruins" },
-    coordinates: { lat: 11.9611, lng: 105.5167 },
+    coords: [105.5167, 11.9611],
     description: {
       de: "Eine prä-angkorianische Hauptstadt aus dem 7. Jahrhundert, die als Vorläufer der monumentalen Khmer-Architektur gilt.",
       hu: "Egy 7. századi, Angkor előtti főváros, amelyet a monumentális khmer építészet előfutárának tekintenek.",
@@ -943,7 +943,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-terrace-of-the-leper-king-history-v2",
     type: "monument",
     name: { de: "Terrasse des Lepra-Königs", hu: "A Leprás király terasza", ro: "Terasa Regelui Lepros", en: "Terrace of the Leper King" },
-    coordinates: { lat: 13.4475, lng: 103.8586 },
+    coords: [103.8586, 13.4475],
     description: {
       de: "Eine reich verzierte Plattform in Angkor Thom, bekannt für ihre tiefen Reliefs und die mysteriöse Statue.",
       hu: "Egy gazdagon díszített platform Angkor Thomban, amely mély domborműveiről és titokzatos szobráról ismert.",
@@ -974,7 +974,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-baksei-chamkrong-temple-history-v2",
     type: "ruins",
     name: { de: "Baksei Chamkrong Tempel", hu: "Baksei Chamkrong templom", ro: "Templul Baksei Chamkrong", en: "Baksei Chamkrong Temple" },
-    coordinates: { lat: 13.4403, lng: 103.8561 },
+    coords: [103.8561, 13.4403],
     description: {
       de: "Ein kleiner, aber eindrucksvoller Pyramidentempel aus dem 10. Jahrhundert am Fuße des Phnom Bakheng.",
       hu: "Egy kicsi, de lenyűgöző 10. századi piramistemplom a Phnom Bakheng lábánál.",
@@ -1005,7 +1005,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-towers-history-v2",
     type: "monument",
     name: { de: "Prasat Suor Prat Türme", hu: "Praszat Szuor Prat tornyok", ro: "Turnurile Prasat Suor Prat", en: "Prasat Suor Prat Towers" },
-    coordinates: { lat: 13.4464, lng: 103.8603 },
+    coords: [103.8603, 13.4464],
     description: {
       de: "Zwölf Türme aus Laterit, die die östliche Seite des königlichen Platzes in Angkor Thom flankieren.",
       hu: "Tizenkét laterit torony, amelyek az Angkor Thom-i királyi tér keleti oldalát szegélyezik.",
@@ -1036,7 +1036,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-preah-pithu-group-history-v2",
     type: "ruins",
     name: { de: "Preah Pithu Gruppe", hu: "Preah Pithu templomcsoport", ro: "Grupul Preah Pithu", en: "Preah Pithu Group" },
-    coordinates: { lat: 13.4489, lng: 103.8611 },
+    coords: [103.8611, 13.4489],
     description: {
       de: "Eine Gruppe von fünf Tempeln in Angkor Thom, die für ihre feinen Schnitzereien und ihre friedliche Atmosphäre bekannt sind.",
       hu: "Öt templomból álló csoport Angkor Thomban, amely finom faragásairól és békés környezetéről ismert.",
@@ -1067,7 +1067,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-chau-say-tevoda-temple-history-v2",
     type: "ruins",
     name: { de: "Chau Say Tevoda Tempel", hu: "Chau Say Tevoda templom", ro: "Templul Chau Say Tevoda", en: "Chau Say Tevoda Temple" },
-    coordinates: { lat: 13.4447, lng: 103.8778 },
+    coords: [103.8778, 13.4447],
     description: {
       de: "Ein hinduistischer Tempel im Angkor-Wat-Stil, der direkt gegenüber von Thommanon an der Siegesallee liegt.",
       hu: "Egy Angkor Vat-stílusú hindu templom, amely közvetlenül a Thommanonnal szemben található a Győzelmi úton.",
@@ -1098,7 +1098,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-ta-nei-jungle-temple-history-v2",
     type: "ruins",
     name: { de: "Ta Nei Tempel", hu: "Ta Nei templom", ro: "Templul Ta Nei", en: "Ta Nei Jungle Temple" },
-    coordinates: { lat: 13.4503, lng: 103.8867 },
+    coords: [103.8867, 13.4503],
     description: {
       de: "Ein versteckter, vom Dschungel überwucherter Tempel aus dem 12. Jahrhundert, der nur über Waldwege erreichbar ist.",
       hu: "Egy elrejtett, dzsungel által benőtt 12. századi templom, amely csak erdei ösvényeken érhető el.",
@@ -1129,7 +1129,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-chau-srei-vibol-ruins-history-v2",
     type: "ruins",
     name: { de: "Chau Srei Vibol", hu: "Chau Srei Vibol romok", ro: "Ruinele Chau Srei Vibol", en: "Chau Srei Vibol Ruins" },
-    coordinates: { lat: 13.4389, lng: 103.9917 },
+    coords: [103.9917, 13.4389],
     description: {
       de: "Eine wenig besuchte Tempelanlage auf einem Hügel, umgeben von dicken Mauern und weiten Wassergräben.",
       hu: "Egy kevéssé látogatott dombtetői templomkomplexum, amelyet vastag falak és széles vizesárkok vesznek körül.",
@@ -1160,7 +1160,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-preah-palilay-temple-history-v2",
     type: "ruins",
     name: { de: "Preah Palilay Tempel", hu: "Preah Palilay templom", ro: "Templul Preah Palilay", en: "Preah Palilay Temple" },
-    coordinates: { lat: 13.4481, lng: 103.8553 },
+    coords: [103.8553, 13.4481],
     description: {
       de: "Ein kleiner buddhistischer Tempel in Angkor Thom, bekannt für seinen hohen, kaminartigen Turm und feine Reliefs.",
       hu: "Egy kis buddhista templom Angkor Thomban, amely magas, kéményszerű tornyáról és finom domborműveiről ismert.",
@@ -1191,7 +1191,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-tep-pranam-platform-history-v2",
     type: "landmark",
     name: { de: "Tep Pranam Terrasse", hu: "Tep Pranam platform", ro: "Platforma Tep Pranam", en: "Tep Pranam Platform" },
-    coordinates: { lat: 13.4478, lng: 103.8558 },
+    coords: [103.8558, 13.4478],
     description: {
       de: "Eine riesige, kreuzförmige Terrasse in Angkor Thom, auf der einst eine hölzerne Pagode und eine große Buddha-Statue standen.",
       hu: "Egy hatalmas, kereszt alakú terasz Angkor Thomban, ahol egykor egy fa pagoda és egy nagy Buddha-szobor állt.",
@@ -1222,7 +1222,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-silver-pagoda-phnom-penh-history-v2",
     type: "temple",
     name: { de: "Silber-Pagode", hu: "Ezüst pagoda", ro: "Pagoda de Argint", en: "Silver Pagoda Phnom Penh" },
-    coordinates: { lat: 11.5622, lng: 104.9317 },
+    coords: [104.9317, 11.5622],
     description: {
       de: "Die offizielle Tempelanlage des Königs, berühmt für ihren Boden aus reinem Silber und kostbare Buddha-Statuen.",
       hu: "A király hivatalos temploma, amely tiszta ezüst padlójáról és értékes Buddha-szobrairól híres.",
@@ -1253,7 +1253,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-neang-khmau-towers-history-v2",
     type: "ruins",
     name: { de: "Prasat Neang Khmau", hu: "Praszat Neang Khmau tornyok", ro: "Turnurile Prasat Neang Khmau", en: "Prasat Neang Khmau Towers" },
-    coordinates: { lat: 10.9547, lng: 104.7936 },
+    coords: [104.7936, 10.9547],
     description: {
       de: "Zwei Sandsteintürme aus dem 10. Jahrhundert, bekannt als 'Tempel der schwarzen Jungfrau', mit seltenen Fresken.",
       hu: "Két 10. századi homokkő torony, amelyet a 'Fekete Szűz templomaként' ismernek, ritka freskókkal.",
@@ -1284,7 +1284,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-phnom-da-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Phnom Da", hu: "Phnom Da régészeti helyszín", ro: "Situl arheologic Phnom Da", en: "Phnom Da Archaeological Site" },
-    coordinates: { lat: 10.8417, lng: 104.8389 },
+    coords: [104.8389, 10.8417],
     description: {
       de: "Einer der ältesten Tempelstandorte Kambodschas, der bis in die Funan-Ära im 6. Jahrhundert zurückreicht.",
       hu: "Kambodzsa egyik legrégebbi templomhelyszíne, amely a 6. századi Funan-korszakig nyúlik vissza.",
@@ -1315,7 +1315,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-asram-maharosei-temple-history-v2",
     type: "ruins",
     name: { de: "Asram Maharosei", hu: "Asram Maharosei templom", ro: "Templul Asram Maharosei", en: "Asram Maharosei Temple" },
-    coordinates: { lat: 10.8425, lng: 104.8381 },
+    coords: [104.8381, 10.8425],
     description: {
       de: "Ein einzigartiges Steinmonument aus dem 6. Jahrhundert, das im indischen Stil einer 'Höhle' nachempfunden ist.",
       hu: "Egy egyedülálló, 6. századi kőemlék, amely az indiai stílusú 'barlang' templomokat utánozza.",
@@ -1346,7 +1346,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-andet-ruins-history-v2",
     type: "ruins",
     name: { de: "Prasat Andet", hu: "Praszat Andet romok", ro: "Ruinele Prasat Andet", en: "Prasat Andet Ruins" },
-    coordinates: { lat: 12.7847, lng: 104.9811 },
+    coords: [104.9811, 12.7847],
     description: {
       de: "Ein Ziegeltempel aus dem späten 7. Jahrhundert, bekannt für seine feinen Schnitzereien und den nach ihm benannten Skulpturenstil.",
       hu: "Egy 7. század végi téglatemplom, amely finom faragásairól és a róla elnevezett szobrászati stílusról ismert.",
@@ -1377,7 +1377,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-prei-temple-history-v2",
     type: "ruins",
     name: { de: "Prasat Prei Tempel", hu: "Praszat Prei templom", ro: "Templul Prasat Prei", en: "Prasat Prei Temple" },
-    coordinates: { lat: 13.4639, lng: 103.8711 },
+    coords: [103.8711, 13.4639],
     description: {
       de: "Ein kleiner, friedlicher Tempel im Bayon-Stil, der direkt nördlich von Preah Khan liegt.",
       hu: "Egy kicsi, békés Bajon-stílusú templom, amely közvetlenül a Preah Khantól északra található.",
@@ -1408,7 +1408,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-krol-ko-buddhist-temple-history-v2",
     type: "ruins",
     name: { de: "Krol Ko Tempel", hu: "Krol Ko templom", ro: "Templul Krol Ko", en: "Krol Ko Buddhist Temple" },
-    coordinates: { lat: 13.4631, lng: 103.8889 },
+    coords: [103.8889, 13.4631],
     description: {
       de: "Ein buddhistischer Tempel aus dem 12. Jahrhundert, bekannt für seine Darstellung von Avalokiteshvara.",
       hu: "Egy 12. századi buddhista templom, amely Avalokitésvara ábrázolásáról ismert.",
@@ -1439,7 +1439,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-mangalartha-monument-history-v2",
     type: "monument",
     name: { de: "Mangalartha-Denkmal", hu: "Mangalartha emlékmű", ro: "Monumentul Mangalartha", en: "Mangalartha Monument" },
-    coordinates: { lat: 13.4461, lng: 103.8789 },
+    coords: [103.8789, 13.4461],
     description: {
       de: "Der letzte im monumentalen Angkor-Stil errichtete Tempel, gewidmet einem Brahmanen-Gelehrten.",
       hu: "Az utolsó monumentális angkori stílusban épült templom, amelyet egy brahmin tudósnak szenteltek.",
@@ -1470,7 +1470,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-bat-chum-brick-temple-history-v2",
     type: "ruins",
     name: { de: "Bat Chum Tempel", hu: "Bat Chum téglatemplom", ro: "Templul de cărămidă Bat Chum", en: "Bat Chum Brick Temple" },
-    coordinates: { lat: 13.4244, lng: 103.8967 },
+    coords: [103.8967, 13.4244],
     description: {
       de: "Drei kleine Ziegeltürme aus dem 10. Jahrhundert, die als eines der ersten buddhistischen Heiligtümer in Angkor gelten.",
       hu: "Három kis 10. századi téglatorony, amely az egyik első buddhista szentély volt Angkorban.",
@@ -1501,7 +1501,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-bei-towers-history-v2",
     type: "ruins",
     name: { de: "Prasat Bei", hu: "Praszat Bei tornyok", ro: "Turnurile Prasat Bei", en: "Prasat Bei Towers" },
-    coordinates: { lat: 13.4389, lng: 103.8544 },
+    coords: [103.8544, 13.4389],
     description: {
       de: "Ein Set aus drei kleinen Ziegeltürmen, die symbolisch für die hinduistische Trimurti stehen.",
       hu: "Három kis téglatoronyból álló együttes, amely a hindu Trimurtit jelképezi.",
@@ -1532,7 +1532,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-thma-bay-kriek-ruins-history-v2",
     type: "ruins",
     name: { de: "Thma Bay Kaek", hu: "Thma Bay Kaek romok", ro: "Ruinele Thma Bay Kaek", en: "Thma Bay Kriek Ruins" },
-    coordinates: { lat: 13.4386, lng: 103.8542 },
+    coords: [103.8542, 13.4386],
     description: {
       de: "Die Überreste eines quadratischen Sandsteinturms direkt neben Prasat Bei am Wassergraben von Angkor Thom.",
       hu: "Egy homokkő torony maradványai közvetlenül a Praszat Bei mellett, az Angkor Thom vizesárok partján.",
@@ -1563,7 +1563,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-chrung-corner-temple-history-v2",
     type: "temple",
     name: { de: "Prasat Chrung", hu: "Praszat Chrung saroktemplom", ro: "Templul de colț Prasat Chrung", en: "Prasat Chrung Corner Temple" },
-    coordinates: { lat: 13.4578, lng: 103.8347 },
+    coords: [103.8347, 13.4578],
     description: {
       de: "Kleine, elegante Tempel an den vier Ecken der Stadtmauer von Angkor Thom, die weite Ausblicke bieten.",
       hu: "Kicsi, elegáns templomok Angkor Thom városfalának négy sarkán, amelyek széles kilátást nyújtanak.",
@@ -1594,7 +1594,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-spean-thma-bridge-ruins-history-v2",
     type: "bridge",
     name: { de: "Spean Thma", hu: "Spean Thma hídromok", ro: "Ruinele podului Spean Thma", en: "Spean Thma Bridge Ruins" },
-    coordinates: { lat: 13.4442, lng: 103.8764 },
+    coords: [103.8764, 13.4442],
     description: {
       de: "Die Überreste einer massiven Steinbrücke über den Siem Reap Fluss, erbaut aus recycelten Sandsteinblöcken.",
       hu: "Egy masszív kőhíd maradványai a Siem Reap folyó felett, amelyet újrahasznosított homokkő blokkokból építettek.",
@@ -1625,7 +1625,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-wat-langka-pagoda-history-v2",
     type: "temple",
     name: { de: "Wat Langka", hu: "Wat Langka pagoda", ro: "Pagoda Wat Langka", en: "Wat Langka Pagoda" },
-    coordinates: { lat: 11.5539, lng: 104.9278 },
+    coords: [104.9278, 11.5539],
     description: {
       de: "Eine der fünf ältesten Pagoden in Phnom Penh, gegründet als Zentrum für spirituellen Austausch mit Sri Lanka.",
       hu: "Phnom Penh öt legrégebbi pagodájának egyike, amelyet a Srí Lankával való spirituális csere központjaként alapítottak.",
@@ -1656,7 +1656,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-win-win-monument-phnom-penh-history-v2",
     type: "monument",
     name: { de: "Win-Win-Denkmal", hu: "Win-Win emlékmű", ro: "Monumentul Win-Win", en: "Win-Win Monument Phnom Penh" },
-    coordinates: { lat: 11.6667, lng: 104.9167 },
+    coords: [104.9167, 11.6667],
     description: {
       de: "Ein modernes Denkmal, das das Ende des Bürgerkriegs und die Politik der nationalen Versöhnung in Kambodscha feiert.",
       hu: "Egy modern emlékmű, amely a polgárháború végét és a nemzeti megbékélés politikáját ünnepli Kambodzsában.",
@@ -1687,7 +1687,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-pol-pots-burial-site-history-v2",
     type: "monument",
     name: { de: "Pol Pots Grabstätte", hu: "Pol Pot sírhelye", ro: "Locul de înmormântare al lui Pol Pot", en: "Pol Pot's Burial Site" },
-    coordinates: { lat: 14.3831, lng: 104.2167 },
+    coords: [104.2167, 14.3831],
     description: {
       de: "Die schlichte Grabstätte des ehemaligen Führers der Roten Khmer in seinem letzten Rückzugsort Anlong Veng.",
       hu: "A vörös khmerek egykori vezetőjének egyszerű sírhelye utolsó menedékhelyén, Anlong Vengben.",
@@ -1718,7 +1718,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-ta-moks-historic-villa-history-v2",
     type: "museum",
     name: { de: "Ta Moks Villa", hu: "Ta Mok villája", ro: "Vila lui Ta Mok", en: "Ta Mok's Historic Villa" },
-    coordinates: { lat: 14.2167, lng: 104.1167 },
+    coords: [104.1167, 14.2167],
     description: {
       de: "Das ehemalige Haus des Khmer-Rouge-Kommandanten Ta Mok, heute ein Museum mit Wandgemälden von Angkor Wat.",
       hu: "Ta Mok vörös khmer parancsnok egykori háza, ma múzeum, amely Angkor Vatot ábrázoló falfestményeket őriz.",
@@ -1749,7 +1749,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-thom-pyramid-history-v2",
     type: "ruins",
     name: { de: "Prasat Thom Pyramide", hu: "Praszat Thom piramis", ro: "Piramida Prasat Thom", en: "Prasat Thom Pyramid" },
-    coordinates: { lat: 13.7828, lng: 104.5408 },
+    coords: [104.5408, 13.7828],
     description: {
       de: "Die spektakuläre siebenstufige Sandsteinpyramide von Koh Ker, die einst als Staatstempel der Hauptstadt diente.",
       hu: "Koh Ker látványos hétszintes homokkő piramisa, amely egykor a főváros állami templomaként szolgált.",
@@ -1780,7 +1780,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-pram-towers-history-v2",
     type: "ruins",
     name: { de: "Prasat Pram", hu: "Praszat Pram tornyok", ro: "Turnurile Prasat Pram", en: "Prasat Pram Towers" },
-    coordinates: { lat: 13.7558, lng: 104.5317 },
+    coords: [104.5317, 13.7558],
     description: {
       de: "Fünf Ziegeltürme in Koh Ker, die dramatisch von Würgefeigen umschlungen sind.",
       hu: "Öt téglatorony Koh Kerben, amelyeket drámai módon fojtófügék hálóznak be.",
@@ -1811,7 +1811,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-krachap-ruins-history-v2",
     type: "ruins",
     name: { de: "Prasat Krachap", hu: "Praszat Krachap romok", ro: "Ruinele Prasat Krachap", en: "Prasat Krachap Ruins" },
-    coordinates: { lat: 13.7917, lng: 104.5503 },
+    coords: [104.5503, 13.7917],
     description: {
       de: "Ein Tempel in Koh Ker mit gut erhaltenen Inschriften und feinen Reliefs an den Türrahmen.",
       hu: "Egy templom Koh Kerben, jól megőrzött feliratokkal és finom domborművekkel az ajtókereteken.",
@@ -1842,7 +1842,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-lovek-ancient-capital-site-history-v2",
     type: "capital",
     name: { de: "Lovek", hu: "Lovek ősi főváros", ro: "Situl vechii capitale Lovek", en: "Lovek Ancient Capital Site" },
-    coordinates: { lat: 11.8542, lng: 104.7833 },
+    coords: [104.7833, 11.8542],
     description: {
       de: "Die Hauptstadt Kambodschas im 16. Jahrhundert, ein Symbol für Wohlstand und den späteren Fall gegen die Siamesen.",
       hu: "Kambodzsa 16. századi fővárosa, a jólét és a későbbi sziámiakkal szembeni bukás szimbóluma.",
@@ -1873,7 +1873,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-sambor-kratie-history-v2",
     type: "ruins",
     name: { de: "Prasat Sambor", hu: "Praszat Sambor (Kratie)", ro: "Prasat Sambor (Kratie)", en: "Prasat Sambor (Kratie)" },
-    coordinates: { lat: 12.7831, lng: 105.9503 },
+    coords: [105.9503, 12.7831],
     description: {
       de: "Die Überreste der Stadt Sambhupura, einer wichtigen Hauptstadt des Chenla-Reiches am Mekong.",
       hu: "Sambhupura városának maradványai, amely a Csenla Birodalom fontos fővárosa volt a Mekong mentén.",
@@ -1904,7 +1904,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-wat-hanchey-hilltop-temple-history-v2",
     type: "temple",
     name: { de: "Wat Hanchey", hu: "Wat Hanchey dombtetői templom", ro: "Templul Wat Hanchey", en: "Wat Hanchey Hilltop Temple" },
-    coordinates: { lat: 12.1167, lng: 105.5833 },
+    coords: [105.5833, 12.1167],
     description: {
       de: "Ein prä-angkorianischer Ziegeltempel aus dem 7. Jahrhundert auf einem Hügel mit Blick auf den Mekong.",
       hu: "Egy 7. századi, Angkor előtti téglatemplom egy dombtetőn, ahonnan kilátás nyílik a Mekongra.",
@@ -1935,7 +1935,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-preah-ko-thala-borivat-history-v2",
     type: "ruins",
     name: { de: "Preah Ko (Thala Borivat)", hu: "Preah Ko (Thala Borivat)", ro: "Preah Ko (Thala Borivat)", en: "Preah Ko (Thala Borivat)" },
-    coordinates: { lat: 13.5542, lng: 105.9389 },
+    coords: [105.9389, 13.5542],
     description: {
       de: "Ein seltener prä-angkorianischer Tempel am Zusammenfluss von Mekong und Se San, gewidmet dem heiligen Stier.",
       hu: "Egy ritka, Angkor előtti templom a Mekong és a Se San folyók összefolyásánál, a szent bikának szentelve.",
@@ -1966,7 +1966,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-prei-monti-ruins-history-v2",
     type: "ruins",
     name: { de: "Prasat Prei Monti", hu: "Praszat Prei Monti romok", ro: "Ruinele Prasat Prei Monti", en: "Prasat Prei Monti Ruins" },
-    coordinates: { lat: 13.3308, lng: 103.9689 },
+    coords: [103.9689, 13.3308],
     description: {
       de: "Drei schlichte Ziegeltürme in der Roluos-Gruppe, die eine frühe Form des königlichen Tempels darstellen.",
       hu: "Három egyszerű téglatorony a Roluos-csoportban, amelyek a királyi templomok egy korai formáját képviselik.",
@@ -1997,7 +1997,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-trapeang-phong-temple-history-v2",
     type: "ruins",
     name: { de: "Prasat Trapeang Phong", hu: "Praszat Trapeang Phong templom", ro: "Templul Prasat Trapeang Phong", en: "Prasat Trapeang Phong Temple" },
-    coordinates: { lat: 13.3189, lng: 103.9653 },
+    coords: [103.9653, 13.3189],
     description: {
       de: "Ein einzelner Ziegelturm in der Roluos-Region, berühmt für seine exquisiten Stuckverzierungen.",
       hu: "Egyetlen téglatorony a Roluos-régióban, amely kiváló stukkódíszeiről híres.",
@@ -2011,12 +2011,24 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       en: ["Built in the mid-9th century AD", "Dedicated to the god Shiva", "Features rare surviving stucco work", "Southernmost temple of the Roluos group"],
     },
     imageHint: "Ancient brick tower with stucco carvings",
+    descriptionAdvanced: {
+      de: "Prasat Trapeang Phong ist ein kleiner, aber bedeutender Tempel aus der Angkor-Ära in der Provinz Siem Reap, Kambodscha. Er wurde im 11. Jahrhundert während der Herrschaft von König Suryavarman I. erbaut und dem Hindu-Gott Shiva geweiht. Der Tempel besteht aus einem einzigen Turm aus Laterit und Sandstein, umgeben von einem Wassergraben. Anders als die großen Tempel von Angkor ist Trapeang Phong weniger erforscht und bietet Einblicke in die ländliche Tempelarchitektur des Khmer-Reiches. Die nahe gelegene Siedlung Trapeang Phong war ein regionales Zentrum. Der Tempel ist teilweise von Vegetation überwuchert, was seinen ruinösen Charme unterstreicht.",
+      hu: "A Prasat Trapeang Phong egy kicsi, de jelentős templom a kambodzsai Siem Reap tartományban, az Angkor-korból. A 11. században épült I. Suryavarman király uralkodása alatt, és a hindu isten Shivának szentelték. A templom egyetlen toronyból áll, lateritből és homokkőből, amelyet árok vesz körül. A nagy angkori templomokkal ellentétben Trapeang Phong kevéssé kutatott, és betekintést nyújt a Khmer Birodalom vidéki templomépítészetébe. A közeli Trapeang Phong település regionális központ volt. A templomot részben benőtte a növényzet, ami fokozza romos báját.",
+      ro: "Prasat Trapeang Phong este un templu mic, dar semnificativ din epoca Angkor, în provincia Siem Reap, Cambodgia. A fost construit în secolul al XI-lea în timpul domniei regelui Suryavarman I și dedicat zeului hindus Shiva. Templul constă dintr-un singur turn din laterit și gresie, înconjurat de un șanț. Spre deosebire de marile temple Angkor, Trapeang Phong este mai puțin cercetat și oferă perspective asupra arhitecturii templelor rurale ale Imperiului Khmer. Așezarea Trapeang Phong din apropiere a fost un centru regional. Templul este parțial acoperit de vegetație, accentuând farmecul său în ruină.",
+      en: "Prasat Trapeang Phong is a small yet significant temple from the Angkor period in Siem Reap Province, Cambodia. Built in the 11th century under King Suryavarman I, it was dedicated to the Hindu god Shiva. The temple consists of a single tower made of laterite and sandstone, surrounded by a moat. Unlike the grand Angkor temples, Trapeang Phong is less studied and offers insights into rural temple architecture of the Khmer Empire. The nearby settlement of Trapeang Phong served as a regional hub. The temple is partly overgrown with vegetation, enhancing its ruinous charm.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 11. Jahrhundert (ca. 1002-1050 n. Chr.)", "Höhe des Hauptturms: ca. 8 Meter", "Umfasst Laterit und Sandstein als Hauptbaumaterialien", "Der Wassergraben ist etwa 50 Meter lang", "Liegt etwa 30 km nordöstlich von Siem Reap", "Gehört zur Gruppe der weniger besuchten Angkor-Tempel"],
+      hu: ["A 11. században épült (kb. 1002-1050 között)", "A főtorony magassága körülbelül 8 méter", "Fő építőanyaga laterit és homokkő", "Az árok hossza körülbelül 50 méter", "Siem Reaptől körülbelül 30 km-re északkeletre található", "A kevésbé látogatott angkori templomok csoportjába tartozik"],
+      ro: ["Construit în secolul al XI-lea (cca. 1002-1050 d.Hr.)", "Înălțimea turnului principal: aproximativ 8 metri", "Materiale principale: laterit și gresie", "Șanțul are aproximativ 50 de metri lungime", "Situat la aproximativ 30 km nord-est de Siem Reap", "Face parte din grupul templelor Angkor mai puțin vizitate"],
+      en: ["Built in the 11th century (ca. 1002-1050 CE)", "Main tower height: approximately 8 meters", "Primary materials: laterite and sandstone", "Moat length: about 50 meters", "Located roughly 30 km northeast of Siem Reap", "Part of the less-visited Angkor temple group"],
+    },
   },
   {
     id: "cambodia-french-colonial-quarter-battambang-history-v2",
     type: "landmark",
     name: { de: "Französisches Viertel Battambang", hu: "Battambang francia negyede", ro: "Cartierul colonial francez din Battambang", en: "French Colonial Quarter Battambang" },
-    coordinates: { lat: 13.0989, lng: 103.1981 },
+    coords: [103.1981, 13.0989],
     description: {
       de: "Eines der am besten erhaltenen Ensembles französischer Kolonialarchitektur in Südostasien.",
       hu: "A francia gyarmati építészet egyik legjobban megőrzött együttese Délkelet-Ázsiában.",
@@ -2047,7 +2059,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-raffles-hotel-le-royal-history-v2",
     type: "landmark",
     name: { de: "Raffles Hotel Le Royal", hu: "Raffles Hotel Le Royal", ro: "Hotel Raffles Le Royal", en: "Raffles Hotel Le Royal" },
-    coordinates: { lat: 11.5756, lng: 104.9197 },
+    coords: [104.9197, 11.5756],
     description: {
       de: "Ein ikonisches historisches Hotel in Phnom Penh, das Zeuge vieler politischer Ereignisse des 20. Jahrhunderts war.",
       hu: "Phnom Penh egyik ikonikus történelmi szállodája, amely a 20. század számos politikai eseményének tanúja volt.",
@@ -2078,7 +2090,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-chaktomuk-conference-hall-history-v2",
     type: "landmark",
     name: { de: "Chaktomuk-Konferenzhalle", hu: "Chaktomuk konferenciaterem", ro: "Sala de conferințe Chaktomuk", en: "Chaktomuk Conference Hall" },
-    coordinates: { lat: 11.5647, lng: 104.9353 },
+    coords: [104.9353, 11.5647],
     description: {
       de: "Ein Meisterwerk der 'Neuen Khmer-Architektur', entworfen von Vann Molyvann, das einem gefalteten Fächer ähnelt.",
       hu: "Az 'Új Khmer Építészet' remekműve, amelyet Vann Molyvann tervezett, és egy összehajtott legyezőre emlékeztet.",
@@ -2109,7 +2121,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-wat-rokar-kandal-history-v2",
     type: "temple",
     name: { de: "Wat Rokar Kandal", hu: "Wat Rokar Kandal", ro: "Wat Rokar Kandal", en: "Wat Rokar Kandal" },
-    coordinates: { lat: 12.4561, lng: 106.0167 },
+    coords: [106.0167, 12.4561],
     description: {
       de: "Eine der ältesten Holzpagoden Kambodschas, bekannt für ihre traditionelle Architektur und kunstvolle Innenausstattung.",
       hu: "Kambodzsa egyik legrégebbi fapagodája, amely hagyományos építészetéről és művészi belső díszítéséről híres.",
@@ -2140,7 +2152,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-krol-romeas-temple-history-v2",
     type: "ruins",
     name: { de: "Prasat Krol Romeas", hu: "Praszat Krol Romeas templom", ro: "Templul Prasat Krol Romeas", en: "Prasat Krol Romeas Temple" },
-    coordinates: { lat: 13.4611, lng: 103.8894 },
+    coords: [103.8894, 13.4611],
     description: {
       de: "Ein kleiner Tempelkomplex in der Nähe von Neak Pean, der durch seine ungewöhnliche quadratische Struktur auffällt.",
       hu: "Egy kis templomkomplexum Neak Pean közelében, amely szokatlan négyzetes szerkezetével tűnik ki.",
@@ -2171,7 +2183,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-damrei-koh-ker-history-v2",
     type: "ruins",
     name: { de: "Prasat Damrei", hu: "Praszat Damrei (Koh Ker)", ro: "Prasat Damrei (Koh Ker)", en: "Prasat Damrei (Koh Ker)" },
-    coordinates: { lat: 13.7889, lng: 104.5442 },
+    coords: [104.5442, 13.7889],
     description: {
       de: "Ein Tempel im Koh-Ker-Komplex, berühmt für seine gut erhaltenen Elefantenstatuen an den Ecken.",
       hu: "A Koh Ker-i komplexum egyik temploma, amely a sarkaiban található, jól megőrzött elefántszobrairól híres.",
@@ -2202,7 +2214,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-spean-memai-bridge-history-v2",
     type: "bridge",
     name: { de: "Spean Memai Brücke", hu: "Spean Memai híd", ro: "Podul Spean Memai", en: "Spean Memai Bridge" },
-    coordinates: { lat: 13.5167, lng: 103.1167 },
+    coords: [103.1167, 13.5167],
     description: {
       de: "Eine beeindruckende antike Khmer-Brücke, die einst Teil der königlichen Straße nach Westen war.",
       hu: "Egy lenyűgöző ősi khmer híd, amely egykor a nyugatra vezető királyi út része volt.",
@@ -2233,7 +2245,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-chen-temple-history-v2",
     type: "ruins",
     name: { de: "Prasat Chen", hu: "Praszat Chen templom", ro: "Templul Prasat Chen", en: "Prasat Chen Temple" },
-    coordinates: { lat: 13.7853, lng: 104.5489 },
+    coords: [104.5489, 13.7853],
     description: {
       de: "Ein bedeutender Tempel in Koh Ker, an dem einst berühmte Skulpturen der Mahabharata-Epen gefunden wurden.",
       hu: "Koh Ker egyik jelentős temploma, ahol egykor a Mahábhárata eposzok híres szobrait találták.",
@@ -2264,7 +2276,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-north-history-v2",
     type: "monument",
     name: { de: "Nördliche Suor Prat Türme", hu: "Északi Szuor Prat tornyok", ro: "Turnurile Suor Prat de Nord", en: "Prasat Suor Prat North" },
-    coordinates: { lat: 13.4478, lng: 103.8601 },
+    coords: [103.8601, 13.4478],
     description: {
       de: "Die nördliche Gruppe der zwölf Laterittürme, die die Elefantenterrasse in Angkor Thom säumen.",
       hu: "A tizenkét laterit torony északi csoportja, amelyek az Angkor Thom-i Elefánt-teraszt szegélyezik.",
@@ -2295,7 +2307,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-to-ruins-history-v2",
     type: "ruins",
     name: { de: "Prasat To", hu: "Praszat To romok", ro: "Ruinele Prasat To", en: "Prasat To Ruins" },
-    coordinates: { lat: 13.4358, lng: 103.9511 },
+    coords: [103.9511, 13.4358],
     description: {
       de: "Ein hinduistischer Ziegeltempel im Osten von Angkor, bekannt für seine Inschriften und den Roluos-Stil.",
       hu: "Egy hindu téglatemplom Angkor keleti részén, amely feliratairól és a Roluos-stílusról ismert.",
@@ -2326,7 +2338,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-south-history-v2",
     type: "monument",
     name: { de: "Südliche Suor Prat Türme", hu: "Déli Szuor Prat tornyok", ro: "Turnurile Suor Prat de Sud", en: "Prasat Suor Prat South" },
-    coordinates: { lat: 13.4447, lng: 103.8606 },
+    coords: [103.8606, 13.4447],
     description: {
       de: "Die südliche Reihe der Prasat-Suor-Prat-Türme, die den Eingang zur königlichen Residenz flankieren.",
       hu: "A Praszat Szuor Prat tornyok déli sora, amely a királyi rezidencia bejáratát szegélyezi.",
@@ -2357,7 +2369,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-balang-koh-ker-history-v2",
     type: "ruins",
     name: { de: "Prasat Balang", hu: "Praszat Balang (Koh Ker)", ro: "Prasat Balang (Koh Ker)", en: "Prasat Balang (Koh Ker)" },
-    coordinates: { lat: 13.7511, lng: 104.5389 },
+    coords: [104.5389, 13.7511],
     description: {
       de: "Ein Tempel in Koh Ker, der einen riesigen, gut erhaltenen Lingam in seinem zentralen Heiligtum beherbergt.",
       hu: "Egy templom Koh Kerben, amely egy hatalmas, jól megőrzött lingamot őriz a központi szentélyében.",
@@ -2388,7 +2400,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-thneng-koh-ker-history-v2",
     type: "ruins",
     name: { de: "Prasat Thneng", hu: "Praszat Thneng (Koh Ker)", ro: "Prasat Thneng (Koh Ker)", en: "Prasat Thneng (Koh Ker)" },
-    coordinates: { lat: 13.7881, lng: 104.5558 },
+    coords: [104.5558, 13.7881],
     description: {
       de: "Ein kleinerer Tempel in Koh Ker, bekannt für seine feinen Türstürze und die umliegende Dschungellandschaft.",
       hu: "Koh Ker egyik kisebb temploma, amely finom szemöldökfáiról és a környező dzsungelről ismert.",
@@ -2419,7 +2431,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-trapang-prei-history-v2",
     type: "ruins",
     name: { de: "Prasat Trapeang Prei", hu: "Praszat Trapeang Prei", ro: "Prasat Trapeang Prei", en: "Prasat Trapeang Prei" },
-    coordinates: { lat: 13.7931, lng: 104.5528 },
+    coords: [104.5528, 13.7931],
     description: {
       de: "Eine Gruppe von fünf Ziegeltürmen in Koh Ker, die symmetrisch auf einer gemeinsamen Plattform angeordnet sind.",
       hu: "Öt téglatoronyból álló csoport Koh Kerben, amelyek szimmetrikusan helyezkednek el egy közös emelvényen.",
@@ -2450,7 +2462,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-kravan-north-history-v2",
     type: "ruins",
     name: { de: "Nördliche Kravan-Türme", hu: "Északi Kravan tornyok", ro: "Turnurile Kravan de Nord", en: "Prasat Kravan North" },
-    coordinates: { lat: 13.4197, lng: 103.9004 },
+    coords: [103.9004, 13.4197],
     description: {
       de: "Die nördlichen Türme des Prasat-Kravan-Ensembles, berühmt für die Vishnu-Reliefs aus Ziegelstein.",
       hu: "A Praszat Kravan együttes északi tornyai, amelyek a téglából faragott Visnu-domborművekről híresek.",
@@ -2481,7 +2493,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-baksei-chamkrong-stairway-history-v2",
     type: "ruins",
     name: { de: "Baksei Chamkrong Treppe", hu: "Baksei Chamkrong lépcsősor", ro: "Scările Baksei Chamkrong", en: "Baksei Chamkrong Stairway" },
-    coordinates: { lat: 13.4401, lng: 103.8563 },
+    coords: [103.8563, 13.4401],
     description: {
       de: "Die steilen Lateritstufen, die zum Gipfel des Baksei-Chamkrong-Pyramidentempels führen.",
       hu: "A Baksei Chamkrong piramistemplom tetejére vezető meredek laterit lépcsősor.",
@@ -2512,7 +2524,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-preah-ko-stelae-history-v2",
     type: "monument",
     name: { de: "Preah Ko Stelen", hu: "Preah Ko sztélék", ro: "Stelele Preah Ko", en: "Preah Ko Stelae" },
-    coordinates: { lat: 13.3347, lng: 103.9728 },
+    coords: [103.9728, 13.3347],
     description: {
       de: "Wichtige Inschriftenstelen im Preah-Ko-Tempel, die Informationen über die Gründung von Hariharalaya liefern.",
       hu: "Fontos feliratos sztélék a Preah Ko templomban, amelyek információkat nyújtanak Hariharalaja alapításáról.",
@@ -2543,7 +2555,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-lolei-terrace-history-v2",
     type: "ruins",
     name: { de: "Lolei-Terrasse", hu: "Lolei terasz", ro: "Terasa Lolei", en: "Lolei Terrace" },
-    coordinates: { lat: 13.3528, lng: 103.9739 },
+    coords: [103.9739, 13.3528],
     description: {
       de: "Die erhöhte Plattform, auf der die vier Ziegeltürme von Lolei inmitten eines ehemaligen Barays stehen.",
       hu: "A megemelt platform, amelyen Lolei négy téglatornya áll egy egykori víztározó közepén.",
@@ -2574,7 +2586,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-banteay-kdei-outer-gate-history-v2",
     type: "landmark",
     name: { de: "Banteay Kdei Außentor", hu: "Banteay Kdei külső kapu", ro: "Poarta exterioară Banteay Kdei", en: "Banteay Kdei Outer Gate" },
-    coordinates: { lat: 13.4303, lng: 103.8986 },
+    coords: [103.8986, 13.4303],
     description: {
       de: "Das monumentale Eingangstor von Banteay Kdei, verziert mit den vier Gesichtern des Avalokiteshvara.",
       hu: "Banteay Kdei monumentális bejárati kapuja, amelyet Avalokitésvara négy arca díszít.",
@@ -2605,7 +2617,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-west-history-v2",
     type: "monument",
     name: { de: "Westliche Suor Prat Türme", hu: "Nyugati Szuor Prat tornyok", ro: "Turnurile Suor Prat de Vest", en: "Prasat Suor Prat West" },
-    coordinates: { lat: 13.4461, lng: 103.8597 },
+    coords: [103.8597, 13.4461],
     description: {
       de: "Teil der Turmgruppe Prasat Suor Prat, die sich entlang der königlichen Terrasse in Angkor Thom erstreckt.",
       hu: "A Praszat Szuor Prat toronycsoport része, amely az Angkor Thom-i királyi terasz mentén húzódik.",
@@ -2636,7 +2648,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-phnom-chisor-stairway-history-v2",
     type: "ruins",
     name: { de: "Phnom Chisor Treppe", hu: "Phnom Chisor lépcsősor", ro: "Scările Phnom Chisor", en: "Phnom Chisor Stairway" },
-    coordinates: { lat: 11.2692, lng: 104.8544 },
+    coords: [104.8544, 11.2692],
     description: {
       de: "Die monumentale Treppe mit über 400 Stufen, die zum Tempel Phnom Chisor auf dem Gipfel führt.",
       hu: "A monumentális, több mint 400 lépcsőfokból álló feljáró, amely a Phnom Chisor csúcstemplomához vezet.",
@@ -2667,7 +2679,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-wat-nokor-bachey-stupa-history-v2",
     type: "temple",
     name: { de: "Wat Nokor Stupa", hu: "Wat Nokor sztúpa", ro: "Stupa Wat Nokor", en: "Wat Nokor Bachey Stupa" },
-    coordinates: { lat: 11.9939, lng: 105.4342 },
+    coords: [105.4342, 11.9939],
     description: {
       de: "Die zentrale Stupa des Wat-Nokor-Komplexes, die moderne buddhistische Kunst mit antiken Ruinen vereint.",
       hu: "A Wat Nokor komplexum központi sztúpája, amely a modern buddhista művészetet ötvözi az ősi romokkal.",
@@ -2698,7 +2710,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-spean-praptos-naga-balustrade-history-v2",
     type: "monument",
     name: { de: "Naga-Balustrade von Spean Praptos", hu: "Spean Praptos naga-korlátja", ro: "Balustrada Naga de la Spean Praptos", en: "Spean Praptos Naga Balustrade" },
-    coordinates: { lat: 13.1191, lng: 104.3378 },
+    coords: [104.3378, 13.1191],
     description: {
       de: "Die berühmten Steinbalustraden der antiken Brücke, die in siebenköpfigen Naga-Schlangen enden.",
       hu: "Az ősi híd híres kőkorlátjai, amelyek hétfejű naga-kígyókban végződnek.",
@@ -2729,7 +2741,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-tower-12-history-v2",
     type: "monument",
     name: { de: "Suor Prat Turm 12", hu: "Szuor Prat 12-es torony", ro: "Turnul Suor Prat 12", en: "Prasat Suor Prat Tower 12" },
-    coordinates: { lat: 13.4442, lng: 103.8611 },
+    coords: [103.8611, 13.4442],
     description: {
       de: "Der südlichste der zwölf Türme von Prasat Suor Prat, der den Platz der königlichen Paraden begrenzt.",
       hu: "A Praszat Szuor Prat tizenkét tornya közül a legdélebbi, amely a királyi díszszemlék terét szegélyezi.",
@@ -2760,7 +2772,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-and-history-v2",
     type: "ruins",
     name: { de: "Prasat Neang Khmau Takeo", hu: "Praszat Neang Khmau (Takeo)", ro: "Prasat Neang Khmau (Takeo)", en: "Prasat Neang Khmau Takeo" },
-    coordinates: { lat: 10.9542, lng: 104.7931 },
+    coords: [104.7931, 10.9542],
     description: {
       de: "Die Ruinen der Tempelanlage in Takeo, gewidmet dem Hinduismus und berühmt für ihre schwarzen Sandsteinwände.",
       hu: "A Takeo-i templomkomplexum romjai, amelyeket a hinduizmusnak szenteltek, és fekete homokkő falairól híresek.",
@@ -2791,7 +2803,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-spean-praptos-central-arch-history-v2",
     type: "bridge",
     name: { de: "Hauptbogen der Spean-Praptos-Brücke", hu: "Spean Praptos központi íve", ro: "Arcul central al podului Spean Praptos", en: "Spean Praptos Central Arch" },
-    coordinates: { lat: 13.1189, lng: 104.3372 },
+    coords: [104.3372, 13.1189],
     description: {
       de: "Der höchste der 21 Bögen der antiken Khmer-Brücke, ein Meisterwerk der Korbbogentechnik.",
       hu: "Az ősi khmer híd 21 boltíve közül a legmagasabb, a konzolos építési technika remekműve.",
@@ -2822,7 +2834,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "cambodia-prasat-suor-prat-tower-1-history-v2",
     type: "monument",
     name: { de: "Suor Prat Turm 1", hu: "Szuor Prat 1-es torony", ro: "Turnul Suor Prat 1", en: "Prasat Suor Prat Tower 1" },
-    coordinates: { lat: 13.4472, lng: 103.8601 },
+    coords: [103.8601, 13.4472],
     description: {
       de: "Der erste Turm in der Reihe der Prasat Suor Prat, gelegen am nördlichen Ende der königlichen Terrasse.",
       hu: "A Praszat Szuor Prat toronysor első tagja, a királyi terasz északi végénél.",

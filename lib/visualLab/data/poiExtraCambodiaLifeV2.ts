@@ -966,7 +966,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-ang-trapeang-thmor-crane-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Ang Trapeang Thmor Kranich-Schutzgebiet", hu: "Ang Trapeang Thmor Daru-rezervátum", ro: "Rezervația de cocori Ang Trapeang Thmor", en: "Ang Trapeang Thmor Crane Sanctuary" },
-    coordinates: { lat: 13.8441, lng: 103.3131 },
+    coords: [103.3131, 13.8441],
     description: {
       de: "Dieses Schutzgebiet in Banteay Meanchey schützt ein wichtiges Feuchtgebiet und eine der weltweit größten Populationen von Antigonekranichen.",
       hu: "Ez a Banteay Meanchey-ben található menedékhely egy fontos vizes élőhelyet és a világ egyik legnagyobb Antigoné-daru populációját védi.",
@@ -997,7 +997,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-boeung-chhmar-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Boeung Chhmar Schutzgebiet", hu: "Boeung Chhmar rezervátum", ro: "Rezervația Boeung Chhmar", en: "Boeung Chhmar Sanctuary" },
-    coordinates: { lat: 12.8214, lng: 104.2831 },
+    coords: [104.2831, 12.8214],
     description: {
       de: "Ein Ramsar-Feuchtgebiet am Tonle Sap See, das für seine ausgedehnten Überschwemmungswälder und seine reiche Artenvielfalt bekannt ist.",
       hu: "A Tonle Sap-tó északi szélén fekvő Ramsari terület, amely ártéri erdőiről és gazdag biológiai sokféleségéről ismert.",
@@ -1028,7 +1028,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-peam-krasop-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Peam Krasop Wildschutzgebiet", hu: "Peam Krasop vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Peam Krasop", en: "Peam Krasop Wildlife Sanctuary" },
-    coordinates: { lat: 11.5312, lng: 102.9984 },
+    coords: [102.9984, 11.5312],
     description: {
       de: "Dieses Schutzgebiet in Koh Kong beherbergt einen der größten und besterhaltenen Mangrovenwälder in ganz Südostasien.",
       hu: "Ez a Koh Kong-i rezervátum Délkelet-Ázsia egyik legnagyobb és legérintetlenebb mangroveerdőjét oltalmazza.",
@@ -1059,7 +1059,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-koh-trong-pomelo-gardens-life-v2",
     type: "village",
     name: { de: "Pomelo-Gärten von Koh Trong", hu: "Koh Trong pomelo-kertjei", ro: "Grădinile de pomelo din Koh Trong", en: "Koh Trong Pomelo Gardens" },
-    coordinates: { lat: 12.4825, lng: 106.0211 },
+    coords: [106.0211, 12.4825],
     description: {
       de: "Eine friedliche Insel im Mekong bei Kratie, die für ihren ökologischen Anbau von süßen Pomelos und traditionelle Landwirtschaft bekannt ist.",
       hu: "A Kratie melletti Mekong-sziget, amely édes pomelóiról és a hagyományos ökológiai gazdálkodásáról híres.",
@@ -1090,7 +1090,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-beng-per-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Beng Per Wildschutzgebiet", hu: "Beng Per vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Beng Per", en: "Beng Per Wildlife Sanctuary" },
-    coordinates: { lat: 13.2514, lng: 104.9812 },
+    coords: [104.9812, 13.2514],
     description: {
       de: "Dieses ausgedehnte Schutzgebiet in Nordkambodscha besteht aus immergrünen Wäldern und dient als Korridor für große Säugetiere.",
       hu: "Ez a kiterjedt észak-kambodzsai rezervátum örökzöld erdőkből áll, és folyosóként szolgál a nagytestű emlősök számára.",
@@ -1121,7 +1121,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-phnom-prich-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Phnom Prich Wildschutzgebiet", hu: "Phnom Prich vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Phnom Prich", en: "Phnom Prich Wildlife Sanctuary" },
-    coordinates: { lat: 12.7415, lng: 106.5821 },
+    coords: [106.5821, 12.7415],
     description: {
       de: "Ein wichtiges Naturschutzgebiet in Mondulkiri, das durch ein Mosaik aus Trockenwäldern und immergrünen Waldstücken geprägt ist.",
       hu: "Fontos mondulkiri természetvédelmi terület, amelyet száraz erdők és örökzöld foltok mozaikja jellemez.",
@@ -1152,7 +1152,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-phnom-nam-lyr-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Phnom Nam Lyr Wildschutzgebiet", hu: "Phnom Nam Lyr vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Phnom Nam Lyr", en: "Phnom Nam Lyr Wildlife Sanctuary" },
-    coordinates: { lat: 12.5124, lng: 107.4412 },
+    coords: [107.4412, 12.5124],
     description: {
       de: "Bekannt für seine markanten Felsformationen schützt dieses Schutzgebiet in Mondulkiri seltene Bergwald-Ökosysteme.",
       hu: "Az egyedülálló sziklaformációiról ismert mondulkiri rezervátum a hegyi erdei ökoszisztémákat oltalmazza.",
@@ -1183,7 +1183,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-stung-sen-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Stung Sen Wildschutzgebiet", hu: "Stung Sen vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Stung Sen", en: "Stung Sen Wildlife Sanctuary" },
-    coordinates: { lat: 12.6312, lng: 104.8142 },
+    coords: [104.8142, 12.6312],
     description: {
       de: "Schützt das einzigartige Ökosystem der Überschwemmungswälder entlang des Stung Sen Flusses vor seiner Mündung in den Tonle Sap See.",
       hu: "A Stung Sen-folyó mentén található egyedülálló ártéri erdei ökoszisztémát védi, mielőtt az a Tonle Sap-tóba torkollna.",
@@ -1214,7 +1214,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-boeung-prek-lapouv-wetland-life-v2",
     type: "wildlife",
     name: { de: "Boeung Prek Lapouv Feuchtgebiet", hu: "Boeung Prek Lapouv vizes élőhely", ro: "Zona umedă Boeung Prek Lapouv", en: "Boeung Prek Lapouv Wetland" },
-    coordinates: { lat: 10.8124, lng: 104.9125 },
+    coords: [104.9125, 10.8124],
     description: {
       de: "Eines der größten verbliebenen saisonalen Grasländer im Mekong-Delta und ein wichtiger Überwinterungsplatz für Antigonekraniche.",
       hu: "A Mekong-delta egyik legnagyobb megmaradt ártéri füves pusztája, az Antigoné-darvak fő telelőhelye.",
@@ -1245,7 +1245,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-anlung-pring-crane-reserve-life-v2",
     type: "wildlife",
     name: { de: "Anlung Pring Kranich-Reservat", hu: "Anlung Pring Daru-rezervátum", ro: "Rezervația de cocori Anlung Pring", en: "Anlung Pring Sarus Crane Reserve" },
-    coordinates: { lat: 10.5841, lng: 104.4921 },
+    coords: [104.4921, 10.5841],
     description: {
       de: "Ein Küstenfeuchtgebiet in Kampot, das als wichtiges Futtergebiet für Kraniche dient und aus Salzwiesen und Grasland besteht.",
       hu: "Kampoti parti vizes élőhely, amely fontos táplálkozóhely a darvak számára; sós mocsarakból és füves területekből áll.",
@@ -1276,7 +1276,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-kulen-promtep-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Kulen Promtep Wildschutzgebiet", hu: "Kulen Promtep vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Kulen Promtep", en: "Kulen Promtep Wildlife Sanctuary" },
-    coordinates: { lat: 14.0512, lng: 104.5124 },
+    coords: [104.5124, 14.0512],
     description: {
       de: "Das größte Schutzgebiet Kambodschas schützt verschiedene Waldtypen und ist ein kritischer Lebensraum für den Riesenibis.",
       hu: "Kambodzsa legnagyobb védett területe, amely kritikus élőhelyet biztosít az ország nemzeti madarának, az óriásíbisznek.",
@@ -1307,7 +1307,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-trapeang-sangkae-mangrove-forest-life-v2",
     type: "forest",
     name: { de: "Mangrovenwald von Trapeang Sangkae", hu: "Trapeang Sangkae mangroveerdő", ro: "Pădurea de mangrove Trapeang Sangkae", en: "Trapeang Sangkae Mangrove Forest" },
-    coordinates: { lat: 10.6124, lng: 104.2814 },
+    coords: [104.2814, 10.6124],
     description: {
       de: "Ein von der Gemeinde verwalteter Mangrovenwald bei Kampot, in dem Einheimische erfolgreiche Wiederaufforstung betreiben.",
       hu: "Kampot melletti, közösség által kezelt mangroveerdő, ahol a helyiek sikeres újraerdősítést folytatnak.",
@@ -1338,7 +1338,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-siem-reap-crocodile-farm-life-v2",
     type: "wildlife",
     name: { de: "Siem Reap Krokodilfarm", hu: "Siem Reapi Krokodilfarm", ro: "Ferma de crocodili din Siem Reap", en: "Siem Reap Crocodile Farm" },
-    coordinates: { lat: 13.3341, lng: 103.8584 },
+    coords: [103.8584, 13.3341],
     description: {
       de: "Eine Anlage zur Zucht von Siam-Krokodilen, die sowohl kommerziellen Zwecken als auch der Erhaltung dieser gefährdeten Art dient.",
       hu: "Sziámi krokodilok tenyésztésére szolgáló létesítmény, amely kereskedelmi és fajmegőrzési célokat is szolgál.",
@@ -1369,7 +1369,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-phnom-chi-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Phnom Chi Wildschutzgebiet", hu: "Phnom Chi vadvédelmi terület", ro: "Sanctuarul de viață sălbatică Phnom Chi", en: "Phnom Chi Wildlife Sanctuary" },
-    coordinates: { lat: 12.8412, lng: 105.6124 },
+    coords: [105.6124, 12.8412],
     description: {
       de: "Teil des Prey Lang Waldkomplexes schützt dieses Gebiet ein artenreiches Bergland mit seltenen Säugetieren und Harzbäumen.",
       hu: "A Prey Lang erdőkomplexum része, amely ritka emlősöknek és értékes gyantafáknak otthont adó hegyvidéket véd.",
@@ -1400,7 +1400,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-sre-ambel-royal-turtle-center-life-v2",
     type: "wildlife",
     name: { de: "Königliches Batagur-Schildkrötenzentrum", hu: "Sre Ambel Királyteknős-központ", ro: "Centrul Țestoasei Regale Sre Ambel", en: "Sre Ambel Royal Turtle Center" },
-    coordinates: { lat: 11.1214, lng: 103.8512 },
+    coords: [103.8512, 11.1214],
     description: {
       de: "Ein spezialisiertes Zentrum in Koh Kong, das sich der Erhaltung der Batagur-Schildkröte, dem nationalen Reptil Kambodschas, widmet.",
       hu: "Specializált koh kong-i központ, amely Kambodzsa nemzeti hüllője, a királyteknős védelmére összpontosít.",
@@ -1431,7 +1431,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "cambodia-koh-han-biodiversity-site-life-v2",
     type: "wildlife",
     name: { de: "Koh Han Biodiversitäts-Gebiet", hu: "Koh Han biodiverzitási terület", ro: "Situl de biodiversitate Koh Han", en: "Koh Han Biodiversity Site" },
-    coordinates: { lat: 13.7214, lng: 106.0142 },
+    coords: [106.0142, 13.7214],
     description: {
       de: "Eine Inselgruppe im Mekong bei Stung Treng, die für ihre einzigartigen überfluteten Wälder und reiche Tierwelt bekannt ist.",
       hu: "Szigetcsoport a Mekong-folyón Stung Trengnél, amely különleges ártéri erdőiről és gazdag állatvilágáról ismert.",

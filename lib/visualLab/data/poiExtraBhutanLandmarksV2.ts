@@ -666,7 +666,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-folk-heritage-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Volkskulturerbe", hu: "Néprajzi Örökség Múzeum", ro: "Muzeul Patrimoniului Popular", en: "Folk Heritage Museum" },
-    coordinates: { lat: 27.4785, lng: 89.6322 },
+    coords: [89.6322, 27.4785],
     description: {
       de: "Dieses Museum in Thimphu ist in einem traditionellen dreistöckigen Lehmhaus aus dem 19. Jahrhundert untergebracht.",
       hu: "Ez a thimphui múzeum egy 19. századi, háromszintes, hagyományos vályogházban kapott helyet.",
@@ -697,7 +697,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-national-library-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalbibliothek von Bhutan", hu: "Bhutáni Nemzeti Könyvtár", ro: "Biblioteca Națională a Bhutanului", en: "National Library of Bhutan" },
-    coordinates: { lat: 27.4792, lng: 89.6331 },
+    coords: [89.6331, 27.4792],
     description: {
       de: "Die Bibliothek beherbergt eine umfangreiche Sammlung buddhistischer Manuskripte und historischer Dokumente in einem prächtigen Gebäude.",
       hu: "A könyvtár buddhista kéziratok és történelmi dokumentumok hatalmas gyűjteményének ad otthont egy pompás épületben.",
@@ -728,7 +728,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-royal-textile-academy-landmarks-v2",
     type: "museum",
     name: { de: "Königliche Textilakademie", hu: "Királyi Textil Akadémia", ro: "Academia Regală de Textile", en: "Royal Textile Academy" },
-    coordinates: { lat: 27.4764, lng: 89.6385 },
+    coords: [89.6385, 27.4764],
     description: {
       de: "Dieses Bildungszentrum widmet sich der Erhaltung und Förderung der feinen Kunst der bhutanischen Weberei.",
       hu: "Ez az oktatási központ a bhutáni szövés finom művészetének megőrzésére és népszerűsítésére törekszik.",
@@ -759,7 +759,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-postal-museum-landmarks-v2",
     type: "museum",
     name: { de: "Postmuseum von Bhutan", hu: "Bhutáni Postamúzeum", ro: "Muzeul Poștal din Bhutan", en: "Bhutan Postal Museum" },
-    coordinates: { lat: 27.4728, lng: 89.6394 },
+    coords: [89.6394, 27.4728],
     description: {
       de: "Das Museum zeigt die Entwicklung des bhutanischen Kommunikationssystems und ist berühmt für seine personalisierten Briefmarken.",
       hu: "A múzeum a bhutáni kommunikációs rendszer fejlődését mutatja be, és híres a személyre szabott bélyegeiről.",
@@ -790,7 +790,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-national-institute-zorig-chusum-landmarks-v2",
     type: "landmark",
     name: { de: "Nationales Institut Zorig Chusum", hu: "Nemzeti Zorig Chusum Intézet", ro: "Institutul Național Zorig Chusum", en: "National Institute for Zorig Chusum" },
-    coordinates: { lat: 27.4788, lng: 89.6345 },
+    coords: [89.6345, 27.4788],
     description: {
       de: "Diese Schule ist bekannt als Malerschule und unterrichtet Studenten in den 13 traditionellen Künsten Bhutans.",
       hu: "Ez az iskola festőiskolaként is ismert, ahol a hallgatók Bhután 13 hagyományos művészetét tanulják.",
@@ -821,7 +821,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-dumtseg-lhakhang-landmarks-v2",
     type: "landmark",
     name: { de: "Dumtseg Lhakhang", hu: "Dumtseg Lhakhang", ro: "Dumtseg Lhakhang", en: "Dumtseg Lhakhang" },
-    coordinates: { lat: 27.4332, lng: 89.4185 },
+    coords: [89.4185, 27.4332],
     description: {
       de: "Ein seltener buddhistischer Tempel in Paro, der in Form eines Chörten erbaut wurde und bedeutende Wandmalereien beherbergt.",
       hu: "Ritka buddhista templom Paróban, amely egy csörten alakjában épült, és jelentős falfestményeknek ad otthont.",
@@ -852,7 +852,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-nyamei-zam-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Nyamei Zam Brücke", hu: "Nyamei Zam híd", ro: "Podul Nyamei Zam", en: "Nyamei Zam Bridge" },
-    coordinates: { lat: 27.4272, lng: 89.4215 },
+    coords: [89.4215, 27.4272],
     description: {
       de: "Eine traditionelle bhutanische Auslegerbrücke aus Holz, die den Fluss Paro Chhu vor dem Paro Dzong überquert.",
       hu: "Hagyományos bhutáni fa konzolos híd, amely a Paro Chhu folyón ível át a Paro Dzong előtt.",
@@ -883,7 +883,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-tamchog-lhakhang-landmarks-v2",
     type: "landmark",
     name: { de: "Tamchog Lhakhang", hu: "Tamchog Lhakhang", ro: "Tamchog Lhakhang", en: "Tamchog Lhakhang" },
-    coordinates: { lat: 27.3195, lng: 89.5072 },
+    coords: [89.5072, 27.3195],
     description: {
       de: "Dieser Tempel ist berühmt für seine Eisenkettenbrücke, die vom legendären Heiligen Thangtong Gyalpo errichtet wurde.",
       hu: "Ez a templom híres a lánchídjáról, amelyet a legendás szent, Thangtong Gyalpo épített.",
@@ -914,7 +914,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-punakha-suspension-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Punakha Hängebrücke", hu: "Punakha függőhíd", ro: "Podul suspendat Punakha", en: "Punakha Suspension Bridge" },
-    coordinates: { lat: 27.5845, lng: 89.8665 },
+    coords: [89.8665, 27.5845],
     description: {
       de: "Eine der längsten Fußgänger-Hängebrücken in Bhutan, die den Fluss Pho Chhu in der Nähe des Punakha Dzong überquert.",
       hu: "Bhután egyik leghosszabb gyalogos függőhídja, amely a Pho Chhu folyón ível át a Punakha Dzong közelében.",
@@ -945,7 +945,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-takila-guru-statue-landmarks-v2",
     type: "monument",
     name: { de: "Guru Rinpoche Statue von Takila", hu: "Takilai Guru Rinpoche szobor", ro: "Statuia Guru Rinpoche din Takila", en: "Takila Guru Rinpoche Statue" },
-    coordinates: { lat: 27.5028, lng: 91.1715 },
+    coords: [91.1715, 27.5028],
     description: {
       de: "Eine monumentale Statue von Guru Padmasambhava in Takila, die weithin über das Lhuentse-Tal sichtbar ist.",
       hu: "Guru Padmaszambhava monumentális szobra Takilában, amely messziről látható a Lhuentse-völgy felett.",
@@ -976,7 +976,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-wangdichholing-palace-landmarks-v2",
     type: "palace",
     name: { de: "Wangdichholing Palast", hu: "Wangdichholing palota", ro: "Palatul Wangdichholing", en: "Wangdichholing Palace" },
-    coordinates: { lat: 27.5562, lng: 90.7285 },
+    coords: [90.7285, 27.5562],
     description: {
       de: "Der ehemalige königliche Palast in Bumthang war die erste Residenz der bhutanischen Monarchie ohne Verteidigungscharakter.",
       hu: "Az egykori királyi palota Bumthangban a bhutáni monarchia első nem védelmi jellegű rezidenciája volt.",
@@ -1007,7 +1007,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-domkhar-dzong-landmarks-v2",
     type: "castle",
     name: { de: "Domkhar Dzong", hu: "Domkhar Dzong", ro: "Domkhar Dzong", en: "Domkhar Dzong" },
-    coordinates: { lat: 27.4855, lng: 90.5752 },
+    coords: [90.5752, 27.4855],
     description: {
       de: "Diese Festung im Chumey-Tal diente einst als Sommerresidenz für den zweiten König von Bhutan.",
       hu: "Ez az erőd a Chumey-völgyben egykor Bhután második királyának nyári rezidenciájaként szolgált.",
@@ -1038,7 +1038,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-zilukha-nunnery-landmarks-v2",
     type: "landmark",
     name: { de: "Zilukha Nonnenkloster", hu: "Zilukha apácakolostor", ro: "Mănăstirea de maici Zilukha", en: "Zilukha Nunnery" },
-    coordinates: { lat: 27.4858, lng: 89.6335 },
+    coords: [89.6335, 27.4858],
     description: {
       de: "Das größte Nonnenkloster in Thimphu bietet einen Blick auf den Tashichho Dzong und beherbergt zahlreiche gläubige Nonnen.",
       hu: "Thimphu legnagyobb apácakolostora kilátást nyújt a Tashichho Dzongra, és számos hívő apácának ad otthont.",
@@ -1069,7 +1069,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-dechencholing-palace-landmarks-v2",
     type: "palace",
     name: { de: "Dechencholing Palast", hu: "Dechencholing palota", ro: "Palatul Dechencholing", en: "Dechencholing Palace" },
-    coordinates: { lat: 27.5255, lng: 89.6392 },
+    coords: [89.6392, 27.5255],
     description: {
       de: "Die königliche Residenz im Norden von Thimphu war der bevorzugte Aufenthaltsort des dritten Königs von Bhutan.",
       hu: "A Thimphu északi részén található királyi rezidencia Bhután harmadik királyának kedvenc lakóhelye volt.",
@@ -1100,7 +1100,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-panbang-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Panbang Brücke", hu: "Panbang híd", ro: "Podul Panbang", en: "Panbang Bridge" },
-    coordinates: { lat: 26.8525, lng: 90.9632 },
+    coords: [90.9632, 26.8525],
     description: {
       de: "Diese wichtige Brücke im Süden Bhutans überquert den Fluss Manas an seinem Zusammenfluss mit dem Mangde Chhu.",
       hu: "Ez a fontos dél-bhutáni híd a Manas folyón ível át a Mangde Chhu-val való összefolyásánál.",
@@ -1131,7 +1131,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-samtse-dzong-landmarks-v2",
     type: "castle",
     name: { de: "Samtse Dzong", hu: "Samtse Dzong", ro: "Samtse Dzong", en: "Samtse Dzong" },
-    coordinates: { lat: 26.8965, lng: 89.0762 },
+    coords: [89.0762, 26.8965],
     description: {
       de: "Die administrative und religiöse Festung des Distrikts Samtse im südwestlichen Tiefland Bhutans.",
       hu: "A Samtse körzet adminisztratív és vallási erődítménye Bhután délnyugati síkságán.",
@@ -1162,7 +1162,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-tsirang-dzong-landmarks-v2",
     type: "castle",
     name: { de: "Tsirang Dzong", hu: "Tsirang Dzong", ro: "Tsirang Dzong", en: "Tsirang Dzong" },
-    coordinates: { lat: 27.0185, lng: 90.1132 },
+    coords: [90.1132, 27.0185],
     description: {
       de: "Das Verwaltungszentrum des Distrikts Tsirang in Damphu, bekannt für seine moderne Architektur in traditionellem Stil.",
       hu: "A Tsirang körzet közigazgatási központja Damphuban, amely hagyományos stílusú, modern építészetéről ismert.",
@@ -1193,7 +1193,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-trashiyangtse-dzong-landmarks-v2",
     type: "castle",
     name: { de: "Trashiyangtse Dzong", hu: "Trashiyangtse Dzong", ro: "Trashiyangtse Dzong", en: "Trashiyangtse Dzong" },
-    coordinates: { lat: 27.6115, lng: 91.4982 },
+    coords: [91.4982, 27.6115],
     description: {
       de: "Diese Festung im fernen Osten Bhutans liegt strategisch günstig am Ufer des Flusses Kholong Chhu.",
       hu: "Ez a távol-keleti bhutáni erőd stratégiai helyen, a Kholong Chhu folyó partján fekszik.",
@@ -1224,7 +1224,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "bhutan-sarpang-dzong-landmarks-v2",
     type: "castle",
     name: { de: "Sarpang Dzong", hu: "Sarpang Dzong", ro: "Sarpang Dzong", en: "Sarpang Dzong" },
-    coordinates: { lat: 26.8655, lng: 90.2642 },
+    coords: [90.2642, 26.8655],
     description: {
       de: "Das Regierungs- und Klosterzentrum des Distrikts Sarpang im südlichen Grenzgebiet zu Indien.",
       hu: "A Sarpang körzet kormányzati és kolostori központja a déli határvidéken, India közelében.",

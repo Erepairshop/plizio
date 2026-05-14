@@ -5,7 +5,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-mongla-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Mongla", hu: "Monglai kikötő", ro: "Portul Mongla", en: "Port of Mongla" },
-    coordinates: { lat: 22.4833, lng: 89.6 },
+    coords: [89.6, 22.4833],
     description: {
       de: "Dies ist der zweitgrößte Seehafen von Bangladesch und liegt am Zusammenfluss der Flüsse Pasur und Mongla. Er dient als wichtiges Handelszentrum für den Südwesten des Landes.",
       hu: "Banglades második legnagyobb tengeri kikötője a Pasur és a Mongla folyók találkozásánál fekszik. Fontos kereskedelmi kapu az ország délnyugati régiója számára.",
@@ -36,7 +36,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-payra-port-economic-v2",
     type: "port",
     name: { de: "Seehafen Payra", hu: "Payra tengeri kikötő", ro: "Portul maritim Payra", en: "Payra Sea Port" },
-    coordinates: { lat: 22.0167, lng: 90.3 },
+    coords: [90.3, 22.0167],
     description: {
       de: "Der im Bezirk Patuakhali gelegene Hafen Payra ist der dritte Seehafen des Landes. Er wurde entworfen, um die Kapazitäten der bestehenden Häfen zu erweitern.",
       hu: "A Patuakhali körzetben található Payra kikötő az ország harmadik tengeri kikötője. A meglévő kikötők tehermentesítésére és bővítésére hozták létre.",
@@ -67,7 +67,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-pangaon-terminal-economic-v2",
     type: "port",
     name: { de: "Binnencontainerterminal Pangaon", hu: "Pangaon belvízi konténerterminál", ro: "Terminalul de containere Pangaon", en: "Pangaon Inland Container Terminal" },
-    coordinates: { lat: 23.65, lng: 90.4333 },
+    coords: [90.4333, 23.65],
     description: {
       de: "Dieser Binnenhafen in Keraniganj verbindet den Flussverkehr mit der Hauptstadt Dhaka. Er wurde gebaut, um den Lkw-Verkehr auf den Autobahnen zu reduzieren.",
       hu: "Ez a Keraniganjban található belvízi kikötő a folyami szállítást köti össze Dhaka fővárossal. A közúti teherforgalom tehermentesítésére épült.",
@@ -98,7 +98,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-adamjee-epz-economic-v2",
     type: "industry",
     name: { de: "Exportverarbeitungszone Adamjee", hu: "Adamjee exportfeldolgozó övezet", ro: "Zona de procesare a exporturilor Adamjee", en: "Adamjee Export Processing Zone" },
-    coordinates: { lat: 23.6667, lng: 90.5167 },
+    coords: [90.5167, 23.6667],
     description: {
       de: "Diese Industriezone wurde auf dem Gelände der einst größten Jutefabrik der Welt errichtet. Heute beherbergt sie zahlreiche exportorientierte Textilunternehmen.",
       hu: "Ez az ipari övezet a világ egykori legnagyobb jutagyárának helyén létesült. Ma számos exportorientált textilipari vállalatnak ad otthont.",
@@ -129,7 +129,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-shilpa-nagar-economic-v2",
     type: "industry",
     name: { de: "Bangabandhu Sheikh Mujib Shilpa Nagar", hu: "Bangabandhu Sheikh Mujib Shilpa Nagar", ro: "Bangabandhu Sheikh Mujib Shilpa Nagar", en: "Bangabandhu Sheikh Mujib Shilpa Nagar" },
-    coordinates: { lat: 22.7667, lng: 91.5667 },
+    coords: [91.5667, 22.7667],
     description: {
       de: "Dies ist die größte geplante Industriestadt in Bangladesch, die sich über drei Distrikte erstreckt. Sie soll die wirtschaftliche Landschaft durch massive Investitionen transformieren.",
       hu: "Ez Banglades legnagyobb tervezett ipari városa, amely három körzetet érint. Célja a gazdasági környezet átalakítása hatalmas beruházások révén.",
@@ -160,7 +160,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-matarbari-port-economic-v2",
     type: "port",
     name: { de: "Tiefwasserhafen Matarbari", hu: "Matarbari mélyvízi kikötő", ro: "Portul de adâncime Matarbari", en: "Matarbari Deep Sea Port" },
-    coordinates: { lat: 21.7167, lng: 91.8667 },
+    coords: [91.8667, 21.7167],
     description: {
       de: "Der in Maheshkhali gelegene Hafen wird der erste echte Tiefwasserhafen von Bangladesch sein. Er ist für die Aufnahme riesiger Frachtschiffe konzipiert.",
       hu: "A Maheshkhaliban épülő kikötő lesz Banglades első valódi mélyvízi kikötője. Úgy tervezték, hogy fogadni tudja a hatalmas teherhajókat.",
@@ -191,7 +191,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-rooppur-nuclear-economic-v2",
     type: "industry",
     name: { de: "Kernkraftwerk Rooppur", hu: "Rooppuri atomerőmű", ro: "Centrala nucleară Rooppur", en: "Rooppur Nuclear Power Plant" },
-    coordinates: { lat: 24.0667, lng: 89.05 },
+    coords: [89.05, 24.0667],
     description: {
       de: "Dies ist das erste Kernkraftwerk von Bangladesch und befindet sich im Distrikt Pabna. Es stellt einen Meilenstein in der Energiegeschichte des Landes dar.",
       hu: "Ez Banglades első atomerőműve, amely a Pabna körzetben található. Mérföldkő az ország energiatörténetében.",
@@ -222,7 +222,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-barapukuria-coal-economic-v2",
     type: "mine",
     name: { de: "Kohlebergwerk Barapukuria", hu: "Barapukuria szénbánya", ro: "Mina de cărbune Barapukuria", en: "Barapukuria Coal Mine" },
-    coordinates: { lat: 25.55, lng: 88.95 },
+    coords: [88.95, 25.55],
     description: {
       de: "Dies ist das einzige in Betrieb befindliche Untertage-Kohlebergwerk in Bangladesch. Es versorgt ein nahegelegenes Kraftwerk mit Brennstoff für die Stromerzeugung.",
       hu: "Ez Banglades egyetlen üzemelő földalatti szénbányája. A közeli erőművet látja el tüzelőanyaggal az áramtermeléshez.",
@@ -253,7 +253,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-madhyapara-mine-economic-v2",
     type: "mine",
     name: { de: "Hartgesteinbergwerk Madhyapara", hu: "Madhyapara keménykőbánya", ro: "Mina de piatră dură Madhyapara", en: "Madhyapara Hard Rock Mine" },
-    coordinates: { lat: 25.5667, lng: 89.0667 },
+    coords: [89.0667, 25.5667],
     description: {
       de: "Madhyapara ist das einzige Untertage-Hartgesteinbergwerk des Landes. Es produziert Granit und andere Steine für Bauprojekte in ganz Bangladesch.",
       hu: "Madhyapara az ország egyetlen földalatti keménykőbányája. Gránitot és egyéb köveket termel építkezésekhez országszerte.",
@@ -284,7 +284,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-titas-gas-economic-v2",
     type: "industry",
     name: { de: "Gasfeld Titas", hu: "Titas gázmező", ro: "Zăcământul de gaze Titas", en: "Titas Gas Field" },
-    coordinates: { lat: 23.9667, lng: 91.1333 },
+    coords: [91.1333, 23.9667],
     description: {
       de: "Titas ist eines der größten und ältesten Erdgasfelder in Bangladesch. Es ist eine tragende Säule der Energieversorgung des Landes.",
       hu: "Titas Banglades egyik legnagyobb és legrégebbi földgázmezője. Az ország energiaellátásának egyik tartóoszlopa.",
@@ -315,7 +315,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-bibiyana-gas-economic-v2",
     type: "industry",
     name: { de: "Gasfeld Bibiyana", hu: "Bibiyana gázmező", ro: "Zăcământul de gaze Bibiyana", en: "Bibiyana Gas Field" },
-    coordinates: { lat: 24.6333, lng: 91.5333 },
+    coords: [91.5333, 24.6333],
     description: {
       de: "Dieses Gasfeld ist derzeit das produktivste in Bangladesch. Es trägt erheblich zur nationalen Gasproduktion für Strom und Industrie bei.",
       hu: "Jelenleg ez a legtermelékenyebb gázmező Bangladesben. Jelentősen hozzájárul az országos gáztermeléshez az ipar és az áramtermelés számára.",
@@ -346,7 +346,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-ashuganj-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Ashuganj", hu: "Ashuganji erőmű", ro: "Centrala electrică Ashuganj", en: "Ashuganj Power Station" },
-    coordinates: { lat: 24.04, lng: 91.01 },
+    coords: [91.01, 24.04],
     description: {
       de: "Das Kraftwerk Ashuganj ist einer der größten Stromerzeugungskomplexe in Bangladesch. Es nutzt Erdgas aus den nahegelegenen Feldern zur Energieerzeugung.",
       hu: "Az ashuganji erőmű Banglades egyik legnagyobb áramtermelő komplexuma. A közeli mezők földgázát használja energiatermelésre.",
@@ -377,7 +377,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-karwan-bazar-economic-v2",
     type: "landmark",
     name: { de: "Karwan-Basar", hu: "Karwan bazár", ro: "Bazarul Karwan", en: "Karwan Bazar" },
-    coordinates: { lat: 23.75, lng: 90.39 },
+    coords: [90.39, 23.75],
     description: {
       de: "Dies ist der größte Großhandelsmarkt in Dhaka für landwirtschaftliche Produkte. Er ist das Herzstück des Lebensmittelvertriebs für die Millionenstadt.",
       hu: "Ez Dhaka legnagyobb mezőgazdasági nagykereskedelmi piaca. A milliós nagyváros élelmiszer-elosztásának központja.",
@@ -408,7 +408,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-khatunganj-market-economic-v2",
     type: "landmark",
     name: { de: "Großhandelsmarkt Khatunganj", hu: "Khatunganj nagykereskedelmi piac", ro: "Piața angro Khatunganj", en: "Khatunganj Wholesale Market" },
-    coordinates: { lat: 22.34, lng: 91.84 },
+    coords: [91.84, 22.34],
     description: {
       de: "Khatunganj in Chittagong ist eines der größten Handelszentren des Landes für Rohstoffe. Hier werden Preise für landesweite Waren wie Zucker und Öl festgelegt.",
       hu: "A chittagongi Khatunganj az ország egyik legnagyobb árukereskedelmi központja. Itt dőlnek el az olyan alapvető termékek árai, mint a cukor és az olaj.",
@@ -439,7 +439,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-ghorashal-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Ghorashal", hu: "Ghorashali erőmű", ro: "Centrala electrică Ghorashal", en: "Ghorashal Power Station" },
-    coordinates: { lat: 23.98, lng: 90.64 },
+    coords: [90.64, 23.98],
     description: {
       de: "Das Ghorashal-Kraftwerk ist eine der wichtigsten Stromquellen für die Industrieregion um Dhaka. Es wird hauptsächlich mit Erdgas betrieben.",
       hu: "A ghorashali erőmű Dhaka környéki ipari régió egyik fő áramforrása. Elsősorban földgázzal üzemel.",
@@ -470,7 +470,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-shahjibazar-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Shahjibazar", hu: "Shahjibazar erőmű", ro: "Centrala electrică Shahjibazar", en: "Shahjibazar Power Station" },
-    coordinates: { lat: 24.2833, lng: 91.3833 },
+    coords: [91.3833, 24.2833],
     description: {
       de: "Shahjibazar ist ein bedeutendes Gaskraftwerk im Osten des Landes. Es nutzt die lokalen Gasvorkommen zur Stromerzeugung für das nationale Netz.",
       hu: "Shahjibazar egy jelentős gázüzemű erőmű az ország keleti részén. A helyi gázkészleteket használja áramtermelésre az országos hálózat számára.",
@@ -501,7 +501,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-jalalabad-gas-economic-v2",
     type: "industry",
     name: { de: "Gasfeld Jalalabad", hu: "Jalalabad gázmező", ro: "Zăcământul de gaze Jalalabad", en: "Jalalabad Gas Field" },
-    coordinates: { lat: 24.9, lng: 91.95 },
+    coords: [91.95, 24.9],
     description: {
       de: "Das Jalalabad-Gasfeld ist eine wichtige Energiequelle in der Region Sylhet. Es liefert Gas für Kraftwerke und Teeplantagen in der Umgebung.",
       hu: "A Jalalabad gázmező fontos energiaforrás Sylhet régióban. Gázt biztosít a környékbeli erőműveknek és teaföldeknek.",
@@ -532,7 +532,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-haripur-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Haripur", hu: "Haripuri erőmű", ro: "Centrala electrică Haripur", en: "Haripur Power Plant" },
-    coordinates: { lat: 23.68, lng: 90.53 },
+    coords: [90.53, 23.68],
     description: {
       de: "Haripur ist ein strategischer Stromerzeugungspunkt in der Nähe der Industriestadt Narayanganj. Es war eines der ersten IPP-Projekte in Bangladesch.",
       hu: "Haripur egy stratégiai áramtermelő pont Narayanganj ipari városa közelében. Az egyik első független áramtermelő projekt volt Bangladesben.",
@@ -563,7 +563,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-nasirabad-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Nasirabad", hu: "Nasirabad ipari negyed", ro: "Zona industrială Nasirabad", en: "Nasirabad Industrial Area" },
-    coordinates: { lat: 22.37, lng: 91.82 },
+    coords: [91.82, 22.37],
     description: {
       de: "Dies ist ein großes Industriegebiet in Chittagong, das eine Vielzahl von Fabriken beherbergt. Es ist ein Zentrum für Stahl, Chemie und Textilien.",
       hu: "Ez egy nagy ipari terület Chittagongban, amely számos gyárnak ad otthont. Acél-, vegy- és textilipari központ.",
@@ -594,7 +594,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-kalurghat-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Kalurghat", hu: "Kalurghat ipari negyed", ro: "Zona industrială Kalurghat", en: "Kalurghat Industrial Area" },
-    coordinates: { lat: 22.39, lng: 91.88 },
+    coords: [91.88, 22.39],
     description: {
       de: "Kalurghat ist ein historisches Industriezentrum am Ufer des Karnaphuli-Flusses. Hier befinden sich einige der ältesten produzierenden Betriebe von Chittagong.",
       hu: "Kalurghat egy történelmi ipari központ a Karnaphuli folyó partján. Itt található Chittagong legrégebbi gyártóüzemeinek egy része.",
@@ -625,7 +625,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-sagorika-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Sagorika", hu: "Sagorika ipari negyed", ro: "Zona industrială Sagorika", en: "Sagorika Industrial Area" },
-    coordinates: { lat: 22.345, lng: 91.785 },
+    coords: [91.785, 22.345],
     description: {
       de: "Sagorika ist bekannt für seine Gerbereien und exportorientierten Industrien in Chittagong. Es spielt eine wichtige Rolle in der Leder- und Textilproduktion.",
       hu: "Sagorika a bőrcserzőiről és exportorientált iparágairól ismert Chittagongban. Fontos szerepet játszik a bőr- és textilgyártásban.",
@@ -656,7 +656,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-faujdarhat-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Faujdarhat", hu: "Faujdarhat ipari negyed", ro: "Zona industrială Faujdarhat", en: "Faujdarhat Industrial Area" },
-    coordinates: { lat: 22.41, lng: 91.73 },
+    coords: [91.73, 22.41],
     description: {
       de: "Faujdarhat ist ein wichtiges Industriegebiet an der Küste, das für die Abwrackindustrie und Schwerindustrie bekannt ist. Es liegt nördlich von Chittagong.",
       hu: "Faujdarhat egy fontos tengerparti ipari terület, amely hajóbontóiról és nehéziparáról ismert. Chittagongtól északra fekszik.",
@@ -687,7 +687,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-hemayetpur-leather-economic-v2",
     type: "industry",
     name: { de: "Lederindustriepark Hemayetpur", hu: "Hemayetpuri bőripari park", ro: "Parcul industrial de piele Hemayetpur", en: "Hemayetpur Leather Industrial Estate" },
-    coordinates: { lat: 23.79, lng: 90.23 },
+    coords: [90.23, 23.79],
     description: {
       de: "Dies ist der neue Standort für die Lederindustrie in Savar, der die alten Gerbereien von Hazaribagh ersetzt hat. Er verfügt über eine zentrale Abwasserreinigungsanlage.",
       hu: "Ez a bőripar új helyszíne Savarban, amely a régi hazaribaghi cserzőüzemeket váltotta fel. Központi szennyvíztisztítóval rendelkezik.",
@@ -718,7 +718,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-kutubdia-wind-farm-economic-v2",
     type: "industry",
     name: { de: "Windpark Kutubdia", hu: "Kutubdia szélerőmű", ro: "Parcul eolian Kutubdia", en: "Kutubdia Wind Farm" },
-    coordinates: { lat: 21.82, lng: 91.85 },
+    coords: [91.85, 21.82],
     description: {
       de: "Dies ist einer der wenigen Windparks in Bangladesch und liegt auf der Insel Kutubdia. Er nutzt die Küstenwinde zur Erzeugung erneuerbarer Energie.",
       hu: "Ez Banglades kevés szélerőművének egyike, amely Kutubdia szigetén található. A tengerparti szeleket hasznosítja megújuló energia termelésére.",
@@ -749,7 +749,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-moheshkhali-lng-economic-v2",
     type: "port",
     name: { de: "LNG-Terminal Moheshkhali", hu: "Moheshkhali LNG terminál", ro: "Terminalul GNL Moheshkhali", en: "Moheshkhali LNG Terminal" },
-    coordinates: { lat: 21.65, lng: 91.86 },
+    coords: [91.86, 21.65],
     description: {
       de: "Dieses Terminal ist für den Import von Flüssigerdgas (LNG) nach Bangladesch von entscheidender Bedeutung. Es hilft, den wachsenden Energiebedarf des Landes zu decken.",
       hu: "Ez a terminál létfontosságú a cseppfolyósított földgáz (LNG) Bangladesbe történő importjához. Segít kielégíteni az ország növekvő energiaigényét.",
@@ -780,7 +780,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-kaliakair-hitech-economic-v2",
     type: "industry",
     name: { de: "Bangabandhu Hi-Tech City", hu: "Bangabandhu Hi-Tech City", ro: "Bangabandhu Hi-Tech City", en: "Bangabandhu Hi-Tech City" },
-    coordinates: { lat: 24.01, lng: 90.22 },
+    coords: [90.22, 24.01],
     description: {
       de: "Dieser Technologiepark in Kaliakair ist das erste große IT-Zentrum von Bangladesch. Er wurde entworfen, um High-Tech-Industrien und Softwareentwicklung zu fördern.",
       hu: "Ez a Kaliakairban található technológiai park Banglades első jelentős informatikai központja. A csúcstechnológiát és a szoftverfejlesztést hivatott előmozdítani.",
@@ -811,7 +811,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-chatak-cement-economic-v2",
     type: "factory",
     name: { de: "Zementfabrik Chatak", hu: "Chatak cementgyár", ro: "Fabrica de ciment Chatak", en: "Chatak Cement Factory" },
-    coordinates: { lat: 25.04, lng: 91.67 },
+    coords: [91.67, 25.04],
     description: {
       de: "Die Chatak-Zementfabrik ist eine der ältesten Zementproduktionsstätten des Landes. Sie liegt strategisch günstig am Surma-Fluss, um Rohstoffe aus Indien zu erhalten.",
       hu: "A chataki cementgyár az ország egyik legrégebbi cementgyártó üzeme. Stratégiai helyen, a Surma folyó mentén fekszik az Indiából érkező nyersanyagok fogadására.",
@@ -842,7 +842,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-fenchuganj-fertilizer-economic-v2",
     type: "factory",
     name: { de: "Düngemittelfabrik Fenchuganj", hu: "Fenchuganji műtrágyagyár", ro: "Fabrica de îngrășăminte Fenchuganj", en: "Fenchuganj Fertilizer Factory" },
-    coordinates: { lat: 24.71, lng: 91.93 },
+    coords: [91.93, 24.71],
     description: {
       de: "Diese Fabrik in Sylhet war die erste ihrer Art in Bangladesch zur Herstellung von Harnstoff-Düngemitteln. Sie spielt eine Schlüsselrolle in der Unterstützung der Landwirtschaft.",
       hu: "Ez a sylheti gyár volt az első ilyen üzem Bangladesben karbamid-műtrágya előállítására. Kulcsszerepet játszik a mezőgazdaság támogatásában.",
@@ -861,7 +861,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-kafco-plant-economic-v2",
     type: "factory",
     name: { de: "KAFCO-Düngemittelwerk", hu: "KAFCO műtrágyagyár", ro: "Fabrica de îngrășăminte KAFCO", en: "KAFCO Fertilizer Plant" },
-    coordinates: { lat: 22.23, lng: 91.83 },
+    coords: [91.83, 22.23],
     description: {
       de: "Die Karnaphuli Fertilizer Company (KAFCO) ist das größte internationale Joint Venture in Bangladesch. Die Anlage produziert hochwertigen Ammoniak und Harnstoff für den Export.",
       hu: "A Karnaphuli Fertilizer Company (KAFCO) Banglades legnagyobb nemzetközi vegyesvállalata. Az üzem kiváló minőségű ammóniát és karbamidot gyárt exportra.",
@@ -892,7 +892,7 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-cufl-plant-economic-v2",
     type: "factory",
     name: { de: "CUFL-Düngemittelwerk", hu: "CUFL műtrágyagyár", ro: "Fabrica de îngrășăminte CUFL", en: "CUFL Fertilizer Plant" },
-    coordinates: { lat: 22.22, lng: 91.84 },
+    coords: [91.84, 22.22],
     description: {
       de: "Chittagong Urea Fertilizer Limited (CUFL) ist eine bedeutende staatliche Fabrik am Ufer des Karnaphuli. Sie produziert Harnstoff für den Inlandsmarkt von Bangladesch.",
       hu: "A Chittagong Urea Fertilizer Limited (CUFL) egy jelentős állami gyár a Karnaphuli partján. Karbamidot gyárt a bangladesi belföldi piac számára.",

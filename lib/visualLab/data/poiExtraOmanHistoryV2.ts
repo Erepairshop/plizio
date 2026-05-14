@@ -646,7 +646,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-naaman-history-v2",
     type: "castle",
     name: { de: "Bait Na'aman", hu: "Bait Na'aman", ro: "Bait Na'aman", en: "Bait Na'aman" },
-    coordinates: { lat: 23.6828, lng: 57.9486 },
+    coords: [57.9486, 23.6828],
     description: {
       de: "Dieses befestigte Landhaus aus dem 17. Jahrhundert diente als Sommerresidenz der Imame.",
       hu: "Ez a 17. századi erődített vidéki ház az imámok nyári rezidenciájaként szolgált.",
@@ -665,7 +665,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bidbid-fort-history-v2",
     type: "castle",
     name: { de: "Festung Bidbid", hu: "Bidbid erőd", ro: "Fortăreața Bidbid", en: "Bidbid Fort" },
-    coordinates: { lat: 23.4111, lng: 58.1258 },
+    coords: [58.1258, 23.4111],
     description: {
       de: "Strategische Festung am Eingang zum Wadi Samail, die historisch den Weg nach Maskat sicherte.",
       hu: "Stratégiai erőd a Vádi Szamail bejáratánál, amely történelmileg a Maszkatba vezető utat őrizte.",
@@ -684,7 +684,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-fiqayn-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Fiqayn", hu: "Al Fiqayn erőd", ro: "Fortăreața Al Fiqayn", en: "Al Fiqayn Fort" },
-    coordinates: { lat: 22.8631, lng: 57.5922 },
+    coords: [57.5922, 22.8631],
     description: {
       de: "Einzigartige, vierstöckige Turmfestung in Manah, bekannt für ihre ungewöhnlich hohe Bauweise.",
       hu: "Egyedülálló, négyszintes toronyerőd Manahban, amely szokatlanul magas építéséről ismert.",
@@ -703,7 +703,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-salut-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Salut", hu: "Salut régészeti lelőhely", ro: "Situl arheologic Salut", en: "Salut Archaeological Site" },
-    coordinates: { lat: 22.7083, lng: 57.225 },
+    coords: [57.225, 22.7083],
     description: {
       de: "Bedeutende Fundstätte aus der Bronze- und Eisenzeit, verknüpft mit der Legende von Malik bin Fahm.",
       hu: "Jelentős bronz- és vaskori lelőhely, amely Malik bin Fahm legendájához kötődik.",
@@ -722,7 +722,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bisya-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Bisya", hu: "Bisya régészeti lelőhely", ro: "Situl arheologic Bisya", en: "Bisya Archaeological Site" },
-    coordinates: { lat: 22.6847, lng: 57.2514 },
+    coords: [57.2514, 22.6847],
     description: {
       de: "Ein weitreichendes Gebiet mit kreisförmigen Grabanlagen und Siedlungsresten aus der Bronzezeit.",
       hu: "Bronzkori kör alakú sírokból és településmaradványokból álló kiterjedt terület.",
@@ -741,7 +741,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-misfat-al-abriyeen-history-v2",
     type: "village",
     name: { de: "Misfat al Abriyeen", hu: "Misfat al Abriyeen", ro: "Misfat al Abriyeen", en: "Misfat al Abriyeen" },
-    coordinates: { lat: 23.1314, lng: 57.3106 },
+    coords: [57.3106, 23.1314],
     description: {
       de: "Dieses jahrhundertealte Bergdorf ist berühmt für seine traditionellen Lehmhäuser und Falaj-Kanäle.",
       hu: "Ez az évszázados hegyi falu híres hagyományos vályogházairól és Falaj-csatornáiról.",
@@ -760,7 +760,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-samail-castle-history-v2",
     type: "castle",
     name: { de: "Schloss Samail", hu: "Szamail kastély", ro: "Castelul Samail", en: "Samail Castle" },
-    coordinates: { lat: 23.3108, lng: 57.9256 },
+    coords: [57.9256, 23.3108],
     description: {
       de: "Eine beeindruckende Festung im größten Wadi Omans, bekannt für ihre strategische Lage.",
       hu: "Lenyűgöző erőd Omán legnagyobb vádiában, amely stratégiai elhelyezkedéséről ismert.",
@@ -779,7 +779,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-harat-al-bilad-history-v2",
     type: "ruins",
     name: { de: "Harat al Bilad", hu: "Harat al Bilad", ro: "Harat al Bilad", en: "Harat al Bilad" },
-    coordinates: { lat: 22.8611, lng: 57.5897 },
+    coords: [57.5897, 22.8611],
     description: {
       de: "Eine der besterhaltenen antiken Siedlungen in Oman, gelegen im Herzen von Manah.",
       hu: "Omán egyik legjobb állapotban fennmaradt ősi települése, Manah szívében.",
@@ -798,7 +798,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-izki-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Izki", hu: "Izki romjai", ro: "Ruinele din Izki", en: "Izki Ruins" },
-    coordinates: { lat: 22.9347, lng: 57.7758 },
+    coords: [57.7758, 22.9347],
     description: {
       de: "Die Überreste einer der ältesten Städte Omans, bekannt für ihre vorislamische Geschichte.",
       hu: "Omán egyik legrégebbi városának maradványai, amely az iszlám előtti történelméről ismert.",
@@ -817,7 +817,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-khaburah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Khaburah", hu: "Al-Hábura erőd", ro: "Fortăreața Al Khaburah", en: "Al Khaburah Fort" },
-    coordinates: { lat: 23.9875, lng: 57.1122 },
+    coords: [57.1122, 23.9875],
     description: {
       de: "Küstenfestung in der Region Batinah, die einst den Seehandel und den Hafen schützte.",
       hu: "Partmenti erőd a Bátina régióban, amely egykor a tengeri kereskedelmet és a kikötőt védte.",
@@ -836,7 +836,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-liwa-castle-history-v2",
     type: "castle",
     name: { de: "Burg Liwa", hu: "Líva vára", ro: "Castelul Liwa", en: "Liwa Castle" },
-    coordinates: { lat: 24.5214, lng: 56.5642 },
+    coords: [56.5642, 24.5214],
     description: {
       de: "Eine markante Festung im Norden, bekannt für ihre fünf mächtigen Verteidigungstürme.",
       hu: "Jellegzetes északi erőd, amely öt hatalmas védőtornyáról ismert.",
@@ -855,7 +855,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-al-baranda-history-v2",
     type: "museum",
     name: { de: "Bait al Baranda", hu: "Bait al Baranda", ro: "Bait al Baranda", en: "Bait al Baranda" },
-    coordinates: { lat: 23.6219, lng: 58.5728 },
+    coords: [58.5728, 23.6219],
     description: {
       de: "Ein historisches Haus in Maskat, das die Geschichte der Stadt von der Geologie bis heute zeigt.",
       hu: "Történelmi ház Maszkatban, amely a város történetét mutatja be a geológiától napjainkig.",
@@ -874,7 +874,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-ras-al-hadd-castle-history-v2",
     type: "castle",
     name: { de: "Festung Ras al-Hadd", hu: "Rász al-Hadd erőd", ro: "Fortăreața Ras al-Hadd", en: "Ras al-Hadd Castle" },
-    coordinates: { lat: 22.5186, lng: 59.7914 },
+    coords: [59.7914, 22.5186],
     description: {
       de: "Historische Verteidigungsanlage am östlichsten Punkt Omans, die die Einfahrt zum Golf schützte.",
       hu: "Történelmi védelmi létesítmény Omán legkeletibb pontján, amely az öböl bejáratát őrizte.",
@@ -893,7 +893,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bani-bu-hassan-castle-history-v2",
     type: "castle",
     name: { de: "Festung Bani Bu Hassan", hu: "Bani Bu Hassan erőd", ro: "Fortăreața Bani Bu Hassan", en: "Bani Bu Hassan Castle" },
-    coordinates: { lat: 22.0831, lng: 59.2742 },
+    coords: [59.2742, 22.0831],
     description: {
       de: "Eine beeindruckende Wüstenfestung, die als administratives Zentrum für den Bani-Bu-Hassan-Stamm diente.",
       hu: "Lenyűgöző sivatagi erőd, amely a Bani Bu Hassan törzs adminisztratív központjaként szolgált.",
@@ -912,7 +912,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-kamil-castle-history-v2",
     type: "castle",
     name: { de: "Schloss Al Kamil", hu: "Al Kamil kastély", ro: "Castelul Al Kamil", en: "Al Kamil Castle" },
-    coordinates: { lat: 22.2158, lng: 59.2014 },
+    coords: [59.2014, 22.2158],
     description: {
       de: "Eine restaurierte Festung, die heute ein Museum mit über 300 Jahre alten Exponaten beherbergt.",
       hu: "Restaurált erőd, amely ma egy több mint 300 éves kiállítási tárgyakat bemutató múzeumnak ad otthont.",
@@ -931,7 +931,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-wafi-castle-history-v2",
     type: "castle",
     name: { de: "Burg Al Wafi", hu: "Al-Vafi vára", ro: "Castelul Al Wafi", en: "Al Wafi Castle" },
-    coordinates: { lat: 22.1856, lng: 59.1528 },
+    coords: [59.1528, 22.1856],
     description: {
       de: "Diese Festung sicherte die Oasenregion und kontrollierte den Zugang zu den Sharqiya-Sanden.",
       hu: "Ez az erőd biztosította az oázisrégiót és ellenőrizte a Sarkija-homoksivatag bejáratát.",
@@ -950,7 +950,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-wasal-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Wasal", hu: "Al-Wasal erőd", ro: "Fortăreața Al-Wasal", en: "Al-Wasal Fort" },
-    coordinates: { lat: 22.4842, lng: 58.7856 },
+    coords: [58.7856, 22.4842],
     description: {
       de: "Eine historische Wehranlage am Rande der Wahiba Sands, erbaut zum Schutz der Wüstengemeinden.",
       hu: "Történelmi védmű a Wahiba-homoksivatag szélén, a sivatagi közösségek védelmére épült.",
@@ -969,7 +969,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-qabil-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al-Qabil", hu: "Al-Kabil erőd", ro: "Fortăreața Al-Qabil", en: "Al-Qabil Fort" },
-    coordinates: { lat: 22.5647, lng: 58.6819 },
+    coords: [58.6819, 22.5647],
     description: {
       de: "Eine zentrale Verteidigungsanlage in einer üppigen Oase, die den Wohlstand des Gebiets sicherte.",
       hu: "Központi védelmi létesítmény egy buja oázisban, amely a terület gazdagságát biztosította.",
@@ -988,7 +988,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-samad-al-shan-history-v2",
     type: "ruins",
     name: { de: "Samad Al Shan", hu: "Samad Al Shan", ro: "Samad Al Shan", en: "Samad Al Shan" },
-    coordinates: { lat: 22.8214, lng: 58.1528 },
+    coords: [58.1528, 22.8214],
     description: {
       de: "Bedeutende archäologische Stätte, die einer ganzen eisenzeitlichen Kulturstufe ihren Namen gab.",
       hu: "Jelentős régészeti lelőhely, amely egy egész vaskori kultúrának adta a nevét.",
@@ -1007,7 +1007,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-sinaw-ruins-history-v2",
     type: "ruins",
     name: { de: "Altstadt von Sinaw", hu: "Szináv óvárosa", ro: "Orașul vechi Sinaw", en: "Sinaw Ruins" },
-    coordinates: { lat: 22.4819, lng: 58.0328 },
+    coords: [58.0328, 22.4819],
     description: {
       de: "Die Ruinen der antiken Siedlung liegen neben dem modernen Marktplatz und zeigen traditionelles Leben.",
       hu: "Az ősi település romjai a modern piactér mellett találhatók, bemutatva a hagyományos életet.",
@@ -1026,7 +1026,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-tanuf-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Tanuf", hu: "Tanuf romjai", ro: "Ruinele din Tanuf", en: "Tanuf Ruins" },
-    coordinates: { lat: 23.0514, lng: 57.4597 },
+    coords: [57.4597, 23.0514],
     description: {
       de: "Das im Jebel-Akhdar-Krieg zerstörte Dorf erinnert an die jüngere Konfliktgeschichte Omans.",
       hu: "A Dzsebel Ahdar háborúban elpusztult falu Omán közelmúltbeli konfliktusainak állít emléket.",
@@ -1045,7 +1045,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-al-maqham-history-v2",
     type: "palace",
     name: { de: "Bait al Maqham", hu: "Bait al Maqham", ro: "Bait al Maqham", en: "Bait al Maqham" },
-    coordinates: { lat: 23.5414, lng: 58.4128 },
+    coords: [58.4128, 23.5414],
     description: {
       de: "Ein prächtiges befestigtes Wohnhaus in Bousher, das als Beispiel für elitäre osmanische Architektur gilt.",
       hu: "Pompás erődített lakóház Bousherben, amely az elit oszmán építészet példája.",
@@ -1064,7 +1064,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-as-sulaif-castle-history-v2",
     type: "castle",
     name: { de: "Festung As-Sulaif", hu: "Asz-Szulaif erőd", ro: "Fortăreața As-Sulaif", en: "As-Sulaif Castle" },
-    coordinates: { lat: 23.2183, lng: 56.5056 },
+    coords: [56.5056, 23.2183],
     description: {
       de: "Eine massive Festungsanlage auf einem Hügel nahe Ibri, gegründet von Imam Sultan bin Saif.",
       hu: "Masszív erődítmény egy dombon Ibri közelében, amelyet Szultán bin Szaif imám alapított.",
@@ -1083,7 +1083,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-dhank-fort-history-v2",
     type: "castle",
     name: { de: "Festung Dhank", hu: "Dhank erőd", ro: "Fortăreața Dhank", en: "Dhank Fort" },
-    coordinates: { lat: 23.4847, lng: 56.2819 },
+    coords: [56.2819, 23.4847],
     description: {
       de: "Ein wichtiges administratives und militärisches Zentrum in der Region Dhahira mit dicken Schutzmauern.",
       hu: "Fontos adminisztratív és katonai központ a Dáhira régióban, vastag védőfalakkal.",
@@ -1102,7 +1102,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-al-marah-history-v2",
     type: "castle",
     name: { de: "Bait al Marah", hu: "Bait al Marah", ro: "Bait al Marah", en: "Bait al Marah" },
-    coordinates: { lat: 23.5892, lng: 56.5414 },
+    coords: [56.5414, 23.5892],
     description: {
       de: "Die Hauptfestung von Yanqul, berühmt für ihre weitreichenden Verteidigungsanlagen und Höfe.",
       hu: "Yanqul fő erődje, amely híres kiterjedt védelmi rendszereiről és udvarairól.",
@@ -1121,7 +1121,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-araqi-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Araqi", hu: "Al-Araki erőd", ro: "Fortăreața Al Araqi", en: "Al Araqi Fort" },
-    coordinates: { lat: 23.3156, lng: 56.4528 },
+    coords: [56.4528, 23.3156],
     description: {
       de: "Ein historisches Fort, das die Palmenhaine und das Bewässerungssystem von Al Araqi schützte.",
       hu: "Történelmi erőd, amely Al-Araki pálmaligeteit és öntözőrendszerét védte.",
@@ -1140,7 +1140,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-mamurah-fort-history-v2",
     type: "castle",
     name: { de: "Festung Al Mamurah", hu: "Al-Mamura erőd", ro: "Fortăreața Al Mamurah", en: "Al Mamurah Fort" },
-    coordinates: { lat: 22.9514, lng: 57.6528 },
+    coords: [57.6528, 22.9514],
     description: {
       de: "Eine Festung am Rande von Nizwa, die zur Sicherung der landwirtschaftlichen Flächen erbaut wurde.",
       hu: "Nizwa szélén álló erőd, amelyet a mezőgazdasági területek biztosítására építettek.",
@@ -1159,7 +1159,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-harat-al-aqr-history-v2",
     type: "ruins",
     name: { de: "Harat al Aqr", hu: "Harat al Aqr", ro: "Harat al Aqr", en: "Harat al Aqr" },
-    coordinates: { lat: 22.9328, lng: 57.5314 },
+    coords: [57.5314, 22.9328],
     description: {
       de: "Das historische Viertel von Nizwa, bekannt für seine alten Mauern und die Nähe zum Fort.",
       hu: "Nizwa történelmi negyede, amely régi falairól és az erőd közelségéről ismert.",
@@ -1178,7 +1178,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-al-safah-history-v2",
     type: "museum",
     name: { de: "Bait al Safah", hu: "Bait al Safah", ro: "Bait al Safah", en: "Bait al Safah" },
-    coordinates: { lat: 23.1197, lng: 57.2814 },
+    coords: [57.2814, 23.1197],
     description: {
       de: "Ein lebendiges Geschichtsmuseum in einem 400 Jahre alten Haus in Al Hamra.",
       hu: "Élő történelmi múzeum egy 400 éves házban Al Hamrában.",
@@ -1197,7 +1197,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-inqitat-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Inqitat", hu: "Inqitat régészeti lelőhely", ro: "Situl arheologic Inqitat", en: "Inqitat Site" },
-    coordinates: { lat: 17.0347, lng: 54.4128 },
+    coords: [54.4128, 17.0347],
     description: {
       de: "Eine mittelalterliche Siedlung an der Küste von Dhofar, verbunden mit dem historischen Seehandel.",
       hu: "Középkori település Dhofar partjainál, amely a történelmi tengeri kereskedelemhez kapcsolódik.",
@@ -1216,7 +1216,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-minzifah-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Al Minzifah", hu: "Al-Minzifah romjai", ro: "Ruinele din Al Minzifah", en: "Al Minzifah Ruins" },
-    coordinates: { lat: 22.6958, lng: 58.5414 },
+    coords: [58.5414, 22.6958],
     description: {
       de: "Ein historisches Handelsviertel in Ibra, bekannt für seine prächtigen, heute zerfallenden Herrenhäuser.",
       hu: "Történelmi kereskedelmi negyed Ibrában, híres egykori pompás, ma már romos udvarházairól.",
@@ -1235,7 +1235,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-kanat-village-history-v2",
     type: "village",
     name: { de: "Dorf Al Kanat", hu: "Al-Kanat falu", ro: "Satul Al Kanat", en: "Al Kanat Village" },
-    coordinates: { lat: 22.7128, lng: 58.5619 },
+    coords: [58.5619, 22.7128],
     description: {
       de: "Ein altes Dorf bei Ibra, das für seine traditionelle Falaj-Bewässerung und Lehmbaukunst steht.",
       hu: "Ibra közeli ősi falu, amely a hagyományos Falaj-öntözéséről és vályogépítészetéről ismert.",
@@ -1254,7 +1254,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-qasra-tower-history-v2",
     type: "tower",
     name: { de: "Qasra-Turm", hu: "Qasra torony", ro: "Turnul Qasra", en: "Qasra Tower" },
-    coordinates: { lat: 23.3942, lng: 57.4258 },
+    coords: [57.4258, 23.3942],
     description: {
       de: "Ein historischer Verteidigungsturm in Rustaq, der Teil der äußeren Stadtbefestigung war.",
       hu: "Történelmi védőtorony Rustaqban, amely a külső városi erődítmények része volt.",
@@ -1273,7 +1273,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-hamooda-mosque-history-v2",
     type: "landmark",
     name: { de: "Al-Hamooda-Moschee", hu: "Al-Hamooda mecset", ro: "Moscheea Al-Hamooda", en: "Al-Hamooda Mosque" },
-    coordinates: { lat: 22.0214, lng: 59.3258 },
+    coords: [59.3258, 22.0214],
     description: {
       de: "Bekannt für ihre 52 Kuppeln, ist diese Moschee ein architektonisches Juwel aus dem 11. Jahrhundert.",
       hu: "Az 52 kupolájáról ismert mecset egy 11. századi építészeti gyöngyszem.",
@@ -1292,7 +1292,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-falaj-daris-history-v2",
     type: "landmark",
     name: { de: "Falaj Daris", hu: "Falaj Daris", ro: "Falaj Daris", en: "Falaj Daris" },
-    coordinates: { lat: 22.9419, lng: 57.5528 },
+    coords: [57.5528, 22.9419],
     description: {
       de: "Größter Falaj Omans und UNESCO-Weltkulturerbe, der seit Jahrhunderten Nizwa mit Wasser versorgt.",
       hu: "Omán legnagyobb Falaj-csatornája és UNESCO Világörökség, amely évszázadok óta látja el Nizwát vízzel.",
@@ -1311,7 +1311,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-falaj-al-khatmeen-history-v2",
     type: "landmark",
     name: { de: "Falaj Al-Khatmeen", hu: "Falaj Al-Khatmeen", ro: "Falaj Al-Khatmeen", en: "Falaj Al-Khatmeen" },
-    coordinates: { lat: 22.9214, lng: 57.6681 },
+    coords: [57.6681, 22.9214],
     description: {
       de: "Ein UNESCO-Weltkulturerbe in Birkat al Mouz, bekannt für seine präzise Wasserverteilung.",
       hu: "UNESCO Világörökségi helyszín Birkat al Mouzban, amely pontos vízelosztásáról ismert.",
@@ -1330,7 +1330,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-falaj-al-malki-history-v2",
     type: "landmark",
     name: { de: "Falaj Al-Malki", hu: "Falaj Al-Malki", ro: "Falaj Al-Malki", en: "Falaj Al-Malki" },
-    coordinates: { lat: 22.7428, lng: 57.7714 },
+    coords: [57.7714, 22.7428],
     description: {
       de: "Einer der ältesten und längsten Falaj-Kanäle in Oman, gelegen in der Region Izki.",
       hu: "Omán egyik legrégebbi és leghosszabb Falaj-csatornája, az Izki régióban.",
@@ -1349,7 +1349,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-falaj-al-muyassar-history-v2",
     type: "landmark",
     name: { de: "Falaj Al-Muyassar", hu: "Falaj Al-Muyassar", ro: "Falaj Al-Muyassar", en: "Falaj Al-Muyassar" },
-    coordinates: { lat: 23.3856, lng: 57.4314 },
+    coords: [57.4314, 23.3856],
     description: {
       de: "Ein historisches Falaj-System in Rustaq, Teil der UNESCO-Welterbeliste 'Aflaj von Oman'.",
       hu: "Történelmi Falaj-rendszer Rustaqban, az 'Ománi Aflaj' UNESCO Világörökségi lista része.",
@@ -1368,7 +1368,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-falaj-al-jeela-history-v2",
     type: "landmark",
     name: { de: "Falaj Al-Jeela", hu: "Falaj Al-Jeela", ro: "Falaj Al-Jeela", en: "Falaj Al-Jeela" },
-    coordinates: { lat: 22.7847, lng: 59.1628 },
+    coords: [59.1628, 22.7847],
     description: {
       de: "Ein spektakulärer Falaj in den Bergen von Sur, der Wasser über schroffe Klippen führt.",
       hu: "Látványos Falaj Sur hegyeiben, amely meredek sziklákon keresztül vezeti a vizet.",
@@ -1387,7 +1387,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bait-al-aoud-history-v2",
     type: "palace",
     name: { de: "Bait al-Aoud", hu: "Bait al-Aoud", ro: "Bait al-Aoud", en: "Bait al-Aoud" },
-    coordinates: { lat: 23.8528, lng: 57.4328 },
+    coords: [57.4328, 23.8528],
     description: {
       de: "Ein historisches Herrenhaus in Suwayq, das für seine feinen Schnitzereien und den Innenhof bekannt ist.",
       hu: "Történelmi udvarház Suwayqban, amely finom faragásairól és belső udvaráról ismert.",
@@ -1406,7 +1406,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-ras-al-shajar-settlement-history-v2",
     type: "ruins",
     name: { de: "Siedlung Ras al-Shajar", hu: "Rász al-Sadzsar település", ro: "Așezarea Ras al-Shajar", en: "Ras al-Shajar Settlement" },
-    coordinates: { lat: 23.0114, lng: 59.0258 },
+    coords: [59.0258, 23.0114],
     description: {
       de: "Die Überreste antiker Siedlungen in einem heutigen Naturschutzgebiet zeigen frühe menschliche Präsenz.",
       hu: "Az ősi települések maradványai a mai természetvédelmi területen a korai emberi jelenlétet mutatják.",
@@ -1425,7 +1425,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-ayjah-lighthouse-history-v2",
     type: "tower",
     name: { de: "Leuchtturm von Al-Ayjah", hu: "Al-Ayjah világítótorony", ro: "Farul din Al-Ayjah", en: "Al-Ayjah Lighthouse" },
-    coordinates: { lat: 22.5694, lng: 59.5447 },
+    coords: [59.5447, 22.5694],
     description: {
       de: "Ein markanter Turm in Sur, der ursprünglich zur Verteidigung diente und später als Leuchtturm fungierte.",
       hu: "Jellegzetes torony Surban, amely eredetileg védelmi célokat szolgált, később pedig világítótoronyként működött.",
@@ -1444,7 +1444,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-harat-al-yaman-history-v2",
     type: "ruins",
     name: { de: "Harat al-Yaman", hu: "Harat al-Yaman", ro: "Harat al-Yaman", en: "Harat al-Yaman" },
-    coordinates: { lat: 22.9342, lng: 57.7786 },
+    coords: [57.7786, 22.9342],
     description: {
       de: "Ein historisches Viertel in Izki, das die traditionelle Stadtplanung und Verteidigungsarchitektur zeigt.",
       hu: "Történelmi negyed Izkiben, amely a hagyományos várostervezést és védelmi építészetet mutatja be.",
@@ -1463,7 +1463,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-al-muqur-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Al-Muqur", hu: "Al-Muqur régészeti lelőhely", ro: "Situl arheologic Al-Muqur", en: "Al-Muqur Archaeological Site" },
-    coordinates: { lat: 23.5128, lng: 58.3214 },
+    coords: [58.3214, 23.5128],
     description: {
       de: "Eine Fundstätte in der Nähe von Maskat mit Gräbern und Artefakten aus der frühen Bronzezeit.",
       hu: "Maszkat közeli lelőhely korai bronzkori sírokkal és leletekkel.",
@@ -1482,7 +1482,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-bilad-sayt-history-v2",
     type: "village",
     name: { de: "Bilad Sayt", hu: "Bilad Sayt", ro: "Bilad Sayt", en: "Bilad Sayt" },
-    coordinates: { lat: 23.1914, lng: 57.3897 },
+    coords: [57.3897, 23.1914],
     description: {
       de: "Dieses entlegene Bergdorf gilt als eines der malerischsten und historischsten Beispiele omansicher Landwirtschaft.",
       hu: "Ez a távoli hegyi falu az ománi mezőgazdaság egyik legfestőibb és legtörténelmibb példája.",
@@ -1501,7 +1501,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-wakan-village-history-v2",
     type: "village",
     name: { de: "Dorf Wakan", hu: "Vakan falu", ro: "Satul Wakan", en: "Wakan Village" },
-    coordinates: { lat: 23.1386, lng: 57.7128 },
+    coords: [57.7128, 23.1386],
     description: {
       de: "Ein historisches Bergdorf auf 2000 Metern Höhe, bekannt für seine antiken Terrassen und Obstgärten.",
       hu: "2000 méteres magasságban fekvő történelmi hegyi falu, híres ősi teraszairól és gyümölcsöskertjeiről.",
@@ -1520,7 +1520,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-harat-as-sawafi-history-v2",
     type: "ruins",
     name: { de: "Harat as-Sawafi", hu: "Harat as-Sawafi", ro: "Harat as-Sawafi", en: "Harat as-Sawafi" },
-    coordinates: { lat: 22.4856, lng: 58.0381 },
+    coords: [58.0381, 22.4856],
     description: {
       de: "Der historische Kern von Sinaw, geprägt von verlassenen Lehmhäusern und alten Befestigungen.",
       hu: "Szináv történelmi magja, elhagyatott vályogházak és régi erődítmények jellemzik.",
@@ -1539,7 +1539,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-as-subara-fort-history-v2",
     type: "castle",
     name: { de: "Festung As-Subara", hu: "Asz-Szubara erőd", ro: "Fortăreața As-Subara", en: "As-Subara Fort" },
-    coordinates: { lat: 16.9958, lng: 53.9928 },
+    coords: [53.9928, 16.9958],
     description: {
       de: "Eine historische Festung in der Region Dhofar, die den Zugang zur Küste und zu Salalah sicherte.",
       hu: "Történelmi erőd a Dhofar régióban, amely a parthoz és Szalála városához való hozzáférést biztosította.",
@@ -1558,7 +1558,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
     id: "oman-zukait-tombs-history-v2",
     type: "ruins",
     name: { de: "Gräber von Zukait", hu: "Zukait sírok", ro: "Mormintele din Zukait", en: "Zukait Tombs" },
-    coordinates: { lat: 22.8428, lng: 57.8514 },
+    coords: [57.8514, 22.8428],
     description: {
       de: "Berühmte bienenkorbförmige Gräber auf einem Hügel, die aus dem 3. Jahrtausend v. Chr. stammen.",
       hu: "Híres méhkas alakú sírok egy dombon, amelyek az i. e. 3. évezredből származnak.",

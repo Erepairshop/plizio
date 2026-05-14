@@ -754,7 +754,7 @@ export const poiExtraZambiaLifeV2: POI[] = [
     id: "zambia-liuwa-plain-national-park-life-v2",
     type: "wildlife",
     name: { de: "Liuwa-Plain-Nationalpark", hu: "Liuwa Plain Nemzeti Park", ro: "Parcul Național Liuwa Plain", en: "Liuwa Plain National Park" },
-    coordinates: { lat: -14.47, lng: 22.56 },
+    coords: [22.56, -14.47],
     description: {
       de: "Dieser abgelegene Park beherbergt die zweitgrößte Gnu-Wanderung Afrikas. Er erstreckt sich über 3.660 Quadratkilometer in der Westprovinz.",
       hu: "Ez a távoli park Afrika második legnagyobb gnú-vándorlásáról ismert. A Nyugati tartományban fekvő terület 3660 négyzetkilométer kiterjedésű.",

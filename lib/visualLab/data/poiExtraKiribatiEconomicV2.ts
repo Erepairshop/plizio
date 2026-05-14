@@ -5,7 +5,7 @@ export const kiribatiEconomicV2: POI[] = [
     id: "kiribati-betio-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Betio", hu: "Betio kikötő", ro: "Portul Betio", en: "Betio Port" },
-    coordinates: { lat: 1.354, lng: 172.934 },
+    coords: [172.934, 1.354],
     description: {
       de: "Der wichtigste internationale Seehafen von Kiribati in South Tarawa schlägt den Großteil der Importgüter und Container des Inselstaates um.",
       hu: "Kiribati legfontosabb nemzetközi kikötője Dél-Tarawán található, itt zajlik az ország importforgalmának és konténeres kereskedelmének nagy része.",
@@ -19,12 +19,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Modernization completed in 2014", "Central hub for inter-island trade", "Only deep-water berthing in the region", "Main loading point for copra exports"],
     },
     imageHint: "Betio Port South Tarawa container terminal",
+    descriptionAdvanced: {
+      de: "Der Hafen von Betio ist der wichtigste Seehafen Kiribatis, gelegen auf der Insel Betio im Tarawa-Atoll. Er besteht aus einem Containerterminal und mehreren Liegeplätzen für Frachtschiffe. Der Hafen wickelt den Großteil des internationalen Handels des Landes ab, einschließlich Import von Lebensmitteln und Treibstoff. Er wurde nach dem Zweiten Weltkrieg modernisiert. Der Hafen ist auch für die Fischereiflotte und den Export von Kopra und Fischprodukten wichtig.",
+      hu: "Betio kikötője Kiribati legfontosabb tengeri kikötője a Tarawa-atoll Betio szigetén. Egy konténerterminálból és több teherhajó-kikötőhelyből áll. A kikötő bonyolítja le az ország nemzetközi kereskedelmének nagy részét, beleértve az élelmiszer- és üzemanyag-importot. A második világháború után modernizálták. Fontos a halászflotta valamint a kopra és haltermékek exportja szempontjából.",
+      ro: "Portul Betio este cel mai important port maritim al Kiribati, situat pe insula Betio din atolul Tarawa. Acesta include un terminal de containere și mai multe locuri de acostare pentru nave de marfă. Portul gestionează cea mai mare parte a comerțului internațional al țării, inclusiv importurile de alimente și combustibil. A fost modernizat după al Doilea Război Mondial. Este crucial pentru flota de pescuit și exportul de copra și produse din pește.",
+      en: "Betio Port is Kiribati's primary seaport, located on Betio Island in Tarawa Atoll. It features a container terminal and multiple cargo berths. The port handles the majority of the country's international trade, including food and fuel imports. It was modernized after World War II. It is vital for the fishing fleet and exports of copra and fish products.",
+    },
+    factsAdvanced: {
+      de: ["Containerumschlag: 50.000 TEU/Jahr (2019)", "Anzahl der Kräne: 3", "Wassertiefe: 10 m", "Erweiterung: 2015", "Hauptexport: Kopra und Fisch", "Liegeplätze: 5"],
+      hu: ["Konténerforgalom: 50 000 TEU/év (2019)", "Daruk száma: 3", "Vízmélység: 10 m", "Bővítés: 2015", "Fő exportcikkek: kopra és hal", "Kikötőhelyek: 5"],
+      ro: ["Trafic de containere: 50.000 TEU/an (2019)", "Număr de macarale: 3", "Adâncimea apei: 10 m", "Extindere: 2015", "Export principal: copra și pește", "Locuri de acostare: 5"],
+      en: ["Container throughput: 50,000 TEU/year (2019)", "Number of cranes: 3", "Water depth: 10 m", "Expansion: 2015", "Main exports: copra and fish", "Berths: 5"],
+    },
   },
   {
     id: "kiribati-bairiki-business-district-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel von Bairiki", hu: "Bairiki üzleti negyed", ro: "Districtul comercial Bairiki", en: "Bairiki Business District" },
-    coordinates: { lat: 1.329, lng: 172.978 },
+    coords: [172.978, 1.329],
     description: {
       de: "Bairiki ist das wirtschaftliche und administrative Zentrum von South Tarawa und beherbergt die wichtigsten Banken und Regierungsstellen.",
       hu: "Bairiki Dél-Tarawa gazdasági és közigazgatási központja, amely a legfontosabb bankoknak és kormányzati hivataloknak ad otthont.",
@@ -38,12 +50,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Headquarters of ANZ Bank Kiribati", "Central marketplace of the capital", "Hub for public transportation", "Location of the main post office"],
     },
     imageHint: "Bairiki business district South Tarawa",
+    descriptionAdvanced: {
+      de: "Das Bairiki Business District ist das kommerzielle Zentrum von South Tarawa in Kiribati. Es beherbergt Geschäfte, Banken, Restaurants und Märkte. Der Distrikt liegt auf der Insel Bairiki, nahe den Regierungsgebäuden. Hier konzentriert sich der Einzelhandel und der Dienstleistungssektor. Der Markt von Bairiki ist ein wichtiger Ort für frische Produkte und Kunsthandwerk. Der Distrikt ist durch Schäden durch Sturmfluten gefährdet.",
+      hu: "A Bairiki Business District South Tarawa kereskedelmi központja Kiribatiban. Üzletek, bankok, éttermek és piacok találhatók itt. A kerület Bairiki szigetén, a kormányzati épületek közelében fekszik. Itt összpontosul a kiskereskedelem és a szolgáltató szektor. A Bairiki piac fontos hely friss termékek és kézműves termékek számára. A kerületet vihardagályok károsíthatják.",
+      ro: "Districtul de afaceri Bairiki este centrul comercial al South Tarawa în Kiribati. Găzduiește magazine, bănci, restaurante și piețe. Districtul este situat pe insula Bairiki, lângă clădirile guvernamentale. Aici se concentrează comerțul cu amănuntul și sectorul serviciilor. Piața Bairiki este un loc important pentru produse proaspete și meșteșuguri. Districtul este vulnerabil la daune provocate de furtuni.",
+      en: "The Bairiki Business District is the commercial heart of South Tarawa in Kiribati. It houses shops, banks, restaurants, and markets. Located on Bairiki island near government buildings, it concentrates retail and services. Bairiki Market is a key venue for fresh produce and handicrafts. The district is vulnerable to storm surge damage.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Unternehmen: über 100", "BIP-Beitrag: 20% des nationalen BIP", "Marktfläche: 2.000 m²", "Anzahl der Bankfilialen: 4", "Beschäftigte: ca. 2.000", "Öffnungszeiten: Mo–Sa 8–17 Uhr"],
+      hu: ["Vállalkozások száma: több mint 100", "GDP-hozzájárulás: 20% a nemzeti GDP-hez", "Piac területe: 2000 m²", "Bankfiókok száma: 4", "Foglalkoztatottak: kb. 2000", "Nyitvatartás: H–Szo 8–17"],
+      ro: ["Număr de afaceri: peste 100", "Contribuția la PIB: 20% din PIB național", "Suprafața pieței: 2.000 m²", "Număr de sucursale bancare: 4", "Angajați: circa 2.000", "Program: L–S 8–17"],
+      en: ["Number of businesses: over 100", "GDP contribution: 20% of national GDP", "Market area: 2,000 m²", "Number of bank branches: 4", "Employees: approx. 2,000", "Opening hours: Mon–Sa 8am–5pm"],
+    },
   },
   {
     id: "kiribati-kiritimati-copra-plantation-economic-v2",
     type: "industry",
     name: { de: "Kopra-Plantage Kiritimati", hu: "Karácsony-szigeti kopraültetvény", ro: "Plantația de copra Kiritimati", en: "Kiritimati Copra Plantation" },
-    coordinates: { lat: 1.986, lng: -157.481 },
+    coords: [-157.481, 1.986],
     description: {
       de: "Die weitläufigen Kokospalmenhaine auf der Weihnachtsinsel sind die wichtigste Quelle für die Kopra-Produktion, ein zentrales Exportgut Kiribatis.",
       hu: "A Karácsony-szigeten található kiterjedt kókuszpálma-ligetek a kopratermelés fő forrásai, amely Kiribati kulcsfontosságú exportcikke.",
@@ -57,12 +81,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Largest agricultural area in the country", "Most important employer in the Line Islands", "Local production of coconut oil", "Exports primarily directed to Asia"],
     },
     imageHint: "Kiritimati island coconut plantation copra",
+    descriptionAdvanced: {
+      de: "Die Kopra-Plantage auf Kiritimati (Weihnachtsinsel) ist eine der größten landwirtschaftlichen Anlagen Kiribatis. Die Plantage erstreckt sich über mehrere Quadratkilometer und produziert Kopra aus Kokosnüssen für den Export. Die Plantage beschäftigt viele Inselbewohner. Aufgrund des trockenen Klimas mit nur 800 mm Jahresniederschlag ist die Bewässerung eine Herausforderung. Die Erträge schwanken jährlich. Die Plantage bietet Arbeitsplätze und ist ein wichtiger Wirtschaftsfaktor für das Atoll.",
+      hu: "A Kiritimati (Karácsony-sziget) kopra-ültetvénye Kiribati egyik legnagyobb mezőgazdasági létesítménye. Az ültetvény több négyzetkilométeren terül el, és exportra termel koprát kókuszdióból. Az ültetvény sok szigetlakót foglalkoztat. A száraz éghajlat (évi 800 mm csapadék) miatt az öntözés kihívást jelent. A hozamok évente változnak. Az ültetvény munkahelyeket teremt és fontos gazdasági tényező az atoll számára.",
+      ro: "Plantația de copra de pe Kiritimati (Insula Crăciunului) este una dintre cele mai mari ferme agricole din Kiribati. Plantația se întinde pe câțiva kilometri pătrați și produce copra din nuci de cocos pentru export. Angajează mulți insulari. Clima uscată (800 mm precipitații anuale) face irigația dificilă. Recoltele variază anual. Plantația oferă locuri de muncă și este un factor economic important pentru atol.",
+      en: "The Kiritimati Copra Plantation is one of the largest agricultural operations in Kiribati, spanning several square kilometers. It processes coconuts into copra for export. The plantation employs many islanders. The dry climate (800 mm annual rainfall) challenges irrigation. Yields vary yearly. It is a crucial economic activity for the atoll.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 Hektar", "Jahresproduktion: 1.000 Tonnen Kopra", "Anzahl der Kokospalmen: 200.000", "Beschäftigte: 150", "Exportwert: 500.000 AUD/Jahr", "Gründung: 1920er Jahre"],
+      hu: ["Terület: 500 hektár", "Éves termelés: 1000 tonna kopra", "Kókuszpálmák száma: 200 000", "Foglalkoztatottak: 150", "Exportérték: 500 000 AUD/év", "Alapítás: 1920-as évek"],
+      ro: ["Suprafață: 500 de hectare", "Producție anuală: 1.000 de tone de copra", "Număr de palmieri de cocos: 200.000", "Angajați: 150", "Valoare export: 500.000 AUD/an", "Înființare: anii 1920"],
+      en: ["Area: 500 hectares", "Annual production: 1,000 tons of copra", "Number of coconut palms: 200,000", "Employees: 150", "Export value: 500,000 AUD/year", "Established: 1920s"],
+    },
   },
   {
     id: "kiribati-cassidy-airport-economic-v2",
     type: "landmark",
     name: { de: "Cassidy International Airport", hu: "Cassidy nemzetközi repülőtér", ro: "Aeroportul Internațional Cassidy", en: "Cassidy International Airport" },
-    coordinates: { lat: 1.987, lng: -157.351 },
+    coords: [-157.351, 1.987],
     description: {
       de: "Dieser Flughafen auf Kiritimati ist das logistische Tor für den Tourismus und den Frachtverkehr der östlichen Inselgruppen Kiribatis.",
       hu: "Ez a Karácsony-szigeten található repülőtér a turizmus és az áruszállítás logisztikai kapuja Kiribati keleti szigetcsoportjai számára.",
@@ -76,12 +112,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Only air link to Hawaii", "Former military airfield", "Crucial for fresh fish exports", "Hub for sport fishing tourism"],
     },
     imageHint: "Cassidy International Airport Kiritimati runway",
+    descriptionAdvanced: {
+      de: "Der Cassidy International Airport liegt auf Kiritimati (Weihnachtsinsel) und ist ein wichtiger Verkehrsknotenpunkt für die Line Islands. Der Flughafen wurde 1979 eröffnet und ist nach Captain Cassidy benannt. Er hat eine 2.100 m lange Start- und Landebahn. Er wird hauptsächlich von Charter- und Frachtflügen angeflogen. Der Flughafen ist auch ein Notlandeplatz für Transpazifikflüge. Er unterstützt den Tourismus und die Wirtschaft der Insel.",
+      hu: "A Cassidy nemzetközi repülőtér Kiritimatin (Karácsony-sziget) található, és fontos közlekedési csomópont a Line-szigetek számára. A repülőtér 1979-ben nyílt meg, és Cassidy kapitányról nevezték el. Kifutópályája 2100 m hosszú. Főleg charter- és teherszállító járatok használják. A repülőtér vészleszállóhelyként is szolgál transz-csendes-óceáni járatok számára. Támogatja a turizmust és a sziget gazdaságát.",
+      ro: "Aeroportul Internațional Cassidy este situat pe Kiritimati (Insula Crăciunului) și este un nod de transport important pentru Insulele Line. A fost deschis în 1979 și poartă numele căpitanului Cassidy. Are o pistă de 2.100 m lungime. Este utilizat în principal de zboruri charter și de marfă. Aeroportul servește și ca loc de aterizare de urgență pentru zborurile transpacifice. Sprijină turismul și economia insulei.",
+      en: "Cassidy International Airport on Kiritimati (Christmas Island) is a key transport hub for the Line Islands. Opened in 1979 and named after Captain Cassidy, it has a 2,100 m runway. It primarily handles charter and cargo flights. It also serves as an emergency landing site for transpacific flights. The airport supports tourism and the island's economy.",
+    },
+    factsAdvanced: {
+      de: ["IATA-Code: CXI", "Länge der Startbahn: 2.100 m", "Eröffnung: 1979", "Jährliche Flugbewegungen: 500", "Höhe: 2 m ü. M.", "Passagieraufkommen: 10.000 (2019)"],
+      hu: ["IATA-kód: CXI", "Kifutópálya hossza: 2100 m", "Megnyitás: 1979", "Éves repülési mozgások: 500", "Magasság: 2 m tengerszint felett", "Utasforgalom: 10 000 (2019)"],
+      ro: ["Cod IATA: CXI", "Lungimea pistei: 2.100 m", "Deschidere: 1979", "Mișcări anuale de zbor: 500", "Altitudine: 2 m deasupra nivelului mării", "Număr de pasageri: 10.000 (2019)"],
+      en: ["IATA code: CXI", "Runway length: 2,100 m", "Opened: 1979", "Annual aircraft movements: 500", "Elevation: 2 m AMSL", "Passenger traffic: 10,000 (2019)"],
+    },
   },
   {
     id: "kiribati-banaba-phosphate-mines-economic-v2",
     type: "mine",
     name: { de: "Phosphatminen von Banaba", hu: "Banaba-szigeti foszfátbányák", ro: "Minele de fosfat din Banaba", en: "Banaba Phosphate Mines" },
-    coordinates: { lat: -0.852, lng: 169.537 },
+    coords: [169.537, -0.852],
     description: {
       de: "Diese historischen Minen waren einst die wirtschaftliche Basis Kiribatis und hinterließen eine industriell geprägte Landschaft auf der Insel Banaba.",
       hu: "Ezek a történelmi bányák egykor Kiribati gazdasági alapját jelentették, és ipari tájat hagytak maguk után Banaba szigetén.",
@@ -95,12 +143,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Large-scale mining from 1900 to 1979", "Main source of national wealth formerly", "Caused massive ecological damage", "Remains of loading cantilever still visible"],
     },
     imageHint: "Banaba island phosphate mining ruins",
+    descriptionAdvanced: {
+      de: "Die Phosphatminen auf der Insel Banaba waren einst die Hauptquelle von Phosphatdünger für Australien und Neuseeland. Der Abbau begann in den 1900er Jahren und dauerte bis 1979. Die Minen hinterließen eine zerstörte Landschaft mit tiefen Gruben. Die Bevölkerung Banabas wurde während des Zweiten Weltkriegs evakuiert. Heute sind die Minen erschöpft, aber die Umweltauswirkungen sind noch sichtbar. Die Insel hat rund 300 Einwohner, die sich mit Fischerei und Landwirtschaft über Wasser halten.",
+      hu: "A Banaba-szigeti foszfátbányák egykor a foszfátműtrágya fő forrásai voltak Ausztrália és Új-Zéland számára. A kitermelés az 1900-as években kezdődött és 1979-ig tartott. A bányák mély gödrökkel tarkított, elpusztított tájat hagytak maguk után. Banaba lakosságát a második világháború alatt evakuálták. Ma a bányák kimerültek, de a környezeti hatások még láthatók. A szigetnek kb. 300 lakosa van, akik halászatból és mezőgazdaságból élnek.",
+      ro: "Minele de fosfat de pe insula Banaba au fost odată principala sursă de îngrășământ fosfatic pentru Australia și Noua Zeelandă. Exploatarea a început în anii 1900 și a durat până în 1979. Minele au lăsat un peisaj distrus, cu gropi adânci. Populația din Banaba a fost evacuată în timpul celui de-al Doilea Război Mondial. Astăzi, minele sunt epuizate, dar impactul ecologic este încă vizibil. Insula are aproximativ 300 de locuitori care trăiesc din pescuit și agricultură.",
+      en: "The Banaba Phosphate Mines were once a major source of phosphate fertilizer for Australia and New Zealand. Mining began in the 1900s and ceased in 1979, leaving a devastated landscape of deep pits. The Banaban population was evacuated during WWII. Today, the mines are depleted, but environmental scars remain. The island has about 300 residents who rely on fishing and subsistence farming.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: ca. 500.000 Tonnen (Spitze)", "Fördermenge insgesamt: 20 Millionen Tonnen", "Beginn des Abbaus: 1900", "Ende des Abbaus: 1979", "Bevölkerung Banabas: 300 (2020)", "Fläche der Insel: 6,5 km²"],
+      hu: ["Éves termelés: kb. 500 000 tonna (csúcson)", "Teljes kitermelés: 20 millió tonna", "Bányászat kezdete: 1900", "Bányászat vége: 1979", "Banaba népessége: 300 (2020)", "A sziget területe: 6,5 km²"],
+      ro: ["Producție anuală: circa 500.000 de tone (maxim)", "Volum total extras: 20 de milioane de tone", "Începutul exploatării: 1900", "Sfârșitul exploatării: 1979", "Populația insulei Banaba: 300 (2020)", "Suprafața insulei: 6,5 km²"],
+      en: ["Peak annual production: approx. 500,000 tons", "Total extracted volume: 20 million tons", "Mining started: 1900", "Mining ended: 1979", "Banaba population: 300 (2020)", "Island area: 6.5 km²"],
+    },
   },
   {
     id: "kiribati-betio-shipyard-economic-v2",
     type: "industry",
     name: { de: "Werft von Betio", hu: "Betio hajógyár", ro: "Șantierul naval Betio", en: "Betio Shipyard" },
-    coordinates: { lat: 1.357, lng: 172.937 },
+    coords: [172.937, 1.357],
     description: {
       de: "Die Werft in South Tarawa ist die zentrale Anlage für die Wartung und Reparatur der nationalen Handels- und Fischereiflotte.",
       hu: "A dél-tarawai hajógyár a nemzeti kereskedelmi és halászflotta karbantartásának és javításának központi létesítménye.",
@@ -114,12 +174,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Supports inter-island logistics", "Only major shipyard in the country", "Specializes in wood and steel boats", "Important site for technical trades"],
     },
     imageHint: "Betio shipyard South Tarawa boats",
+    descriptionAdvanced: {
+      de: "Die Betio Shipyard ist eine Werft auf Betio Island im Tarawa-Atoll und eine der wenigen Schiffsreparatur- und Wartungsanlagen in Kiribati. Sie wurde in den 1980er Jahren gebaut. Die Werft verfügt über ein Trockendock und kann Schiffe bis zu einer bestimmten Größe reparieren. Sie dient der nationalen Fischereiflotte und anderen Schiffen im Pazifik. Der Betrieb schafft Arbeitsplätze in einer ansonsten beschränkten Industrie. Die Werft ist entscheidend für die maritime Wirtschaft des Landes.",
+      hu: "A Betio Shipyard egy hajógyár Betio szigetén a Tarawa-atollon, és Kiribati egyik kevés hajójavító és karbantartó létesítménye. Az 1980-as években épült. A hajógyár rendelkezik szárazdokkkal, és meghatározott méretű hajók javítására alkalmas. A nemzeti halászflotta és más csendes-óceáni hajók számára nyújt szolgáltatásokat. A működés munkahelyeket teremt egy egyébként korlátozott iparágban. A hajógyár kulcsfontosságú az ország tengeri gazdasága számára.",
+      ro: "Șantierul naval Betio este o instalație de reparații navale pe insula Betio din atolul Tarawa, una dintre puținele din Kiribati. A fost construit în anii 1980. Șantierul are un doc uscat și poate repara nave de o anumită dimensiune. Deservește flota națională de pescuit și alte nave din Pacific. Operațiunile creează locuri de muncă într-un sector industrial limitat. Șantierul este vital pentru economia maritimă a țării.",
+      en: "Betio Shipyard is a ship repair and maintenance facility on Betio Island in Tarawa Atoll, one of the few in Kiribati. Built in the 1980s, it has a dry dock and can handle vessels up to a certain size. It serves the national fishing fleet and other Pacific ships. The yard provides employment in a limited industrial sector and is critical for the country's maritime economy.",
+    },
+    factsAdvanced: {
+      de: ["Trockendock-Kapazität: 1.000 Tonnen", "Länge des Docks: 80 m", "Baujahr: 1985", "Anzahl der Beschäftigten: 50", "Jährliche Reparaturen: 20 Schiffe", "Kosten: 2 Millionen AUD Baukosten"],
+      hu: ["Szárazdokk kapacitása: 1000 tonna", "Dokk hossza: 80 m", "Építés éve: 1985", "Foglalkoztatottak száma: 50", "Éves javítások: 20 hajó", "Költségek: 2 millió AUD építési költség"],
+      ro: ["Capacitate doc uscat: 1.000 de tone", "Lungime doc: 80 m", "An construcție: 1985", "Număr de angajați: 50", "Reparații anuale: 20 de nave", "Costuri de construcție: 2 milioane AUD"],
+      en: ["Dry dock capacity: 1,000 tons", "Dock length: 80 m", "Year built: 1985", "Number of employees: 50", "Annual repairs: 20 vessels", "Construction cost: 2 million AUD"],
+    },
   },
   {
     id: "kiribati-tabuaeran-seaweed-farms-economic-v2",
     type: "industry",
     name: { de: "Algenfarmen von Tabuaeran", hu: "Tabuaeran algafarmok", ro: "Fermele de alge din Tabuaeran", en: "Tabuaeran Seaweed Farms" },
-    coordinates: { lat: 3.882, lng: -159.345 },
+    coords: [-159.345, 3.882],
     description: {
       de: "Auf Fanning Island wird in großem Stil Seetang gezüchtet, der als wichtiger Rohstoff für die internationale Kosmetik- und Lebensmittelindustrie exportiert wird.",
       hu: "A Fanning-szigeten nagyüzemi hínártermesztés folyik, amelyet a nemzetközi kozmetikai és élelmiszeripar számára exportálnak.",
@@ -133,12 +205,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Main economic sector of the island", "Cultivation of Kappaphycus alvarezii", "Exported in dried form", "Sustainable aquaculture method"],
     },
     imageHint: "Tabuaeran seaweed farming fanning island",
+    descriptionAdvanced: {
+      de: "Die Seetangfarmen auf Tabuaeran (Fanning Island) sind ein wichtiger Wirtschaftszweig für die lokale Bevölkerung. Der Seetang wird in flachen Lagunen auf Linien kultiviert und zu Agar-Agar und anderen Produkten verarbeitet. Die Farmen begannen in den 1990er Jahren. Sie bieten Einkommen für etwa 200 Familien auf der Insel. Der Export geht hauptsächlich nach Asien. Die Farmen sind umweltfreundlich, aber anfällig für Wetterextreme.",
+      hu: "A Tabuaeran (Fanning-sziget) tengeri moszatfarmjai fontos gazdasági ágat jelentenek a helyi lakosság számára. A moszatot sekély lagúnákban vonalakon termesztik, és agarba vagy más termékekbe dolgozzák fel. A farmok az 1990-es években indultak. Körülbelül 200 család számára biztosítanak jövedelmet a szigeten. Az export főként Ázsiába irányul. A farmok környezetbarátak, de érzékenyek az időjárási szélsőségekre.",
+      ro: "Fermele de alge marine de pe Tabuaeran (Insula Fanning) reprezintă un sector economic important pentru populația locală. Algele sunt cultivate pe linii în lagune puțin adânci și procesate în agar-agar și alte produse. Fermele au început în anii 1990. Oferă venituri pentru aproximativ 200 de familii de pe insulă. Exporturile se îndreaptă în principal către Asia. Fermele sunt ecologice, dar vulnerabile la fenomene meteo extreme.",
+      en: "Seaweed farms on Tabuaeran (Fanning Island) are a key economic activity for local communities. Seaweed is cultivated on lines in shallow lagoons and processed into agar and other products. Farming began in the 1990s. It provides income for about 200 families. Exports mainly go to Asia. The farms are environmentally friendly but susceptible to extreme weather.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsfläche: 50 Hektar", "Jahresproduktion: 200 Tonnen getrockneter Seetang", "Anzahl der Familien: 200", "Exportwert: 300.000 AUD/Jahr", "Kultivierung: 4 Monate Zyklus", "Sorte: Kappaphycus alvarezii"],
+      hu: ["Termőterület: 50 hektár", "Éves termelés: 200 tonna szárított tengeri moszat", "Családok száma: 200", "Exportérték: 300 000 AUD/év", "Termesztési ciklus: 4 hónap", "Fajta: Kappaphycus alvarezii"],
+      ro: ["Suprafață de producție: 50 de hectare", "Producție anuală: 200 de tone de alge uscate", "Număr de familii: 200", "Valoare export: 300.000 AUD/an", "Ciclu de cultivare: 4 luni", "Specie: Kappaphycus alvarezii"],
+      en: ["Production area: 50 hectares", "Annual production: 200 tons dried seaweed", "Number of families: 200", "Export value: 300,000 AUD/year", "Cultivation cycle: 4 months", "Species: Kappaphycus alvarezii"],
+    },
   },
   {
     id: "kiribati-bonriki-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarpark Bonriki", hu: "Bonriki napelemfarm", ro: "Parcul solar Bonriki", en: "Bonriki Solar Farm" },
-    coordinates: { lat: 1.385, lng: 173.146 },
+    coords: [173.146, 1.385],
     description: {
       de: "Diese Photovoltaikanlage in der Nähe des Flughafens ist ein Eckpfeiler der Bemühungen Kiribatis, die Abhängigkeit von teuren Dieselimporten zu verringern.",
       hu: "Ez a repülőtér közelében található fotovoltaikus rendszer alapköve Kiribati azon törekvésének, hogy csökkentse a drága dízelimporttól való függőségét.",
@@ -152,12 +236,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Largest solar array in the country", "Funded by international aid", "Feeds directly into the power grid", "Significantly reduces carbon emissions"],
     },
     imageHint: "Bonriki solar farm South Tarawa panels",
+    descriptionAdvanced: {
+      de: "Der Bonriki Solar Farm auf Tarawa, Kiribati, ist eine der ersten großflächigen Photovoltaikanlagen des Landes, errichtet 2017 mit Unterstützung der Weltbank und der EU. Die Anlage erstreckt sich über 4 Hektar nahe dem internationalen Flughafen Bonriki und liefert bis zu 1,2 Megawatt peak. Ziel ist die Reduzierung der Abhängigkeit von importiertem Diesel, der über 70% der Inselelektrizität ausmacht. Der Solarpark speist ins Inselnetz ein und spart jährlich über 500 Tonnen CO2 ein. Die Anlage ist ein Pilotprojekt für erneuerbare Energien im Pazifik, das zukünftige Ausbauten auf anderen Atollen ermöglichen soll.",
+      hu: "A Kiribatihoz tartozó Tarawán lévő Bonriki naperőművet 2017-ben a Világbank és az EU támogatásával építették, hogy csökkentsék az ország fosszilis tüzelőanyag-függőségét. A létesítmény 4 hektáron terül el, a Bonriki nemzetközi repülőtér közelében, és 1,2 megawatt csúcsteljesítményű. A naperőmű évente mintegy 500 tonna szén-dioxid kibocsátást takarít meg, miközben hozzájárul a sziget villamosenergia-ellátásának stabilizálásához. A projekt mintaként szolgál más csendes-óceáni szigetállamok számára a megújuló energia integrációjában. A helyi gazdaságra gyakorolt hatása a villamosenergia-költségek csökkentésében és az energiabiztonság növelésében rejlik.",
+      ro: "Centrala solară Bonriki, situată pe atolul Tarawa din Kiribati, este una dintre primele instalații fotovoltaice de mari dimensiuni din țară, finalizată în 2017 cu sprijinul Băncii Mondiale și al UE. Ocupând 4 hectare lângă Aeroportul Internațional Bonriki, are o capacitate de 1,2 MWp. Scopul principal este reducerea dependenței de motorină importată, care asigură peste 70% din electricitatea insulelor. Centrala economisește anual peste 500 de tone de CO2 și servește ca proiect pilot pentru energia regenerabilă în Pacific. Impactul economic include costuri reduse ale energiei și crearea de locuri de muncă locale în operarea și întreținerea instalației.",
+      en: "The Bonriki Solar Farm, located on Tarawa Atoll in Kiribati, is a landmark renewable energy project completed in 2017. Funded by the World Bank and the European Union, it covers four hectares near Bonriki International Airport and generates 1.2 megawatts peak. The farm reduces Kiribati's reliance on imported diesel, which previously accounted for over 70% of electricity generation. It saves approximately 500 tons of CO2 annually and stabilizes the grid of South Tarawa. As a pilot, it demonstrates the viability of solar power in remote Pacific islands and paves the way for similar projects on other atolls.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 2017", "Kapazität: 1,2 MWp (Megawatt peak)", "Fläche: 4 Hektar", "Jährliche CO2-Einsparung: über 500 Tonnen", "Finanziert von Weltbank und EU", "Standort: nahe Bonriki International Airport, Tarawa"],
+      hu: ["Építés éve: 2017", "Csúcsteljesítmény: 1,2 MWp", "Terület: 4 hektár", "Éves CO2-megtakarítás: több mint 500 tonna", "Támogatók: Világbank és EU", "Elhelyezkedés: Bonriki nemzetközi repülőtér közelében"],
+      ro: ["Anul construcției: 2017", "Capacitate: 1,2 MWp", "Suprafață: 4 hectare", "Economii anuale de CO2: peste 500 de tone", "Finanțatori: Banca Mondială și UE", "Locație: lângă Aeroportul Internațional Bonriki"],
+      en: ["Commissioned in 2017", "Capacity: 1.2 MWp", "Area: 4 hectares", "Annual CO2 savings: over 500 tons", "Funding: World Bank and European Union", "Location: adjacent to Bonriki International Airport"],
+    },
   },
   {
     id: "kiribati-kfl-fish-processing-economic-v2",
     type: "factory",
     name: { de: "Kiribati Fish Limited Werk", hu: "Kiribati Fish Limited üzem", ro: "Fabrica Kiribati Fish Limited", en: "Kiribati Fish Limited Facility" },
-    coordinates: { lat: 1.353, lng: 172.941 },
+    coords: [172.941, 1.353],
     description: {
       de: "Dieser moderne Industriebetrieb in Betio verarbeitet Thunfisch für den Export und ist ein wichtiges Joint Venture zur Wertschöpfung im eigenen Land.",
       hu: "Ez a modern betiói ipari üzem tonhalat dolgoz fel exportra, és fontos vegyesvállalat a helyi értékteremtés fokozására.",
@@ -171,12 +267,24 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Processes yellowfin tuna", "Exports to Japan and the EU", "Meets international hygiene standards", "Creates hundreds of local jobs"],
     },
     imageHint: "Kiribati Fish Limited processing plant Betio",
+    descriptionAdvanced: {
+      de: "Die Kiribati Fish Limited (KFL) Facility ist die einzige industrielle Fischverarbeitungsanlage des Landes, errichtet 2014 mit Unterstützung der EU und der japanischen Entwicklungsagentur. Sie liegt am Hafen von Betio, Tarawa, und verarbeitet jährlich bis zu 5.000 Tonnen Thunfisch für den Export. Die Anlage schafft über 200 Arbeitsplätze, davon viele für Frauen, und trägt signifikant zum BIP Kiribatis bei. KFL ist ein Joint Venture zwischen der Regierung und japanischen Partnern. Es reduziert die Notwendigkeit, Rohfisch in andere Länder zu exportieren und erhöht die Wertschöpfung im Inland. Die Produktion erfolgt nach internationalen Standards (EU-Zulassung).",
+      hu: "A Kiribati Fish Limited (KFL) feldolgozóüzem Betio kikötőjében, Tarawán, 2014-ben nyílt meg az EU és a Japán Nemzetközi Együttműködési Ügynökség támogatásával. Éves kapacitása 5000 tonna tonhal, amelyet főként az EU-ba exportálnak. Az üzem több mint 200 embert foglalkoztat, többségében nőket, és jelentős bevételt biztosít a helyi gazdaságnak. A létesítmény a kiribati kormány és japán partnerek vegyes vállalkozása. Célja a helyi halfeldolgozás fejlesztése és az exportból származó haszon növelése. Az üzem EU-engedéllyel rendelkezik, ami biztosítja a minőségi előírások betartását.",
+      ro: "Instalația Kiribati Fish Limited (KFL) este singura fabrică de procesare a peștelui din Kiribati, construită în 2014 cu sprijinul UE și al Agenției Japoneze de Cooperare Internațională. Situată în portul Betio, Tarawa, procesează până la 5.000 de tone de ton anual pentru export, în principal către UE. Fabrica creează peste 200 de locuri de muncă, multe pentru femei, și contribuie semnificativ la PIB-ul țării. KFL este un joint venture între guvern și parteneri japonezi. Facilitatea reduce exportul de ton brut și adaugă valoare local. Este certificată UE, respectând standarde stricte de igienă și calitate.",
+      en: "The Kiribati Fish Limited (KFL) facility, established in 2014, is the nation's sole industrial fish processing plant. Located at Betio port on Tarawa, it processes up to 5,000 tons of tuna annually for export, mainly to the European Union. A joint venture between the Kiribati government and Japanese partners, KFL employs over 200 people, many women, and significantly boosts the local economy. The plant reduces reliance on exporting raw fish and adds value domestically. It holds EU certification, ensuring compliance with international food safety standards.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2014", "Jährliche Verarbeitungskapazität: bis zu 5.000 Tonnen Thunfisch", "Arbeitsplätze: über 200", "Standort: Hafen von Betio, Tarawa", "Joint Venture: Kiribati Regierung und japanische Partner", "EU-Zertifizierung für Export"],
+      hu: ["Megnyitás: 2014", "Éves feldolgozási kapacitás: 5000 tonna tonhal", "Foglalkoztatottak: több mint 200", "Helyszín: Betio kikötő, Tarawa", "Vegyes vállalat: kiribati kormány és japán partnerek", "EU-engedély a minőségi export biztosítására"],
+      ro: ["Anul deschiderii: 2014", "Capacitate anuală de procesare: până la 5.000 de tone de ton", "Locuri de muncă: peste 200", "Locație: portul Betio, Tarawa", "Joint venture: guvernul Kiribati și parteneri japonezi", "Certificare UE pentru export"],
+      en: ["Opened in 2014", "Annual processing capacity: up to 5,000 tonnes of tuna", "Employment: over 200 workers", "Location: Betio port, Tarawa", "Joint venture: Kiribati government and Japanese partners", "EU certification for export"],
+    },
   },
   {
     id: "kiribati-london-wharf-economic-v2",
     type: "port",
     name: { de: "Kai von London", hu: "Londoni rakpart", ro: "Debarcaderul London", en: "London Wharf" },
-    coordinates: { lat: 2.03, lng: -157.472 },
+    coords: [-157.472, 2.03],
     description: {
       de: "Der Kai in der Siedlung London ist der zentrale Umschlagplatz für Waren und Passagiere auf Kiritimati, der größten Insel Kiribatis.",
       hu: "A London településen található rakpart az áruk és utasok központi csomópontja a Karácsony-szigeten, Kiribati legnagyobb szigetén.",
@@ -190,5 +298,17 @@ export const kiribatiEconomicV2: POI[] = [
       en: ["Logistical center of the Line Islands", "Berthing point for supply vessels", "Base for the local fishing fleet", "Crucial point for fuel imports"],
     },
     imageHint: "London wharf Kiritimati island jetty",
+    descriptionAdvanced: {
+      de: "Der London Wharf auf Kiritimati (Weihnachtsinsel) ist der wichtigste Hafen des Linienarchipels, erbaut in den 1970er Jahren. Er dient dem Umschlag von Kopra, Fisch und anderen Gütern für den lokalen Handel und Export. Der Kai ist etwa 100 Meter lang und ermöglicht das Anlegen kleinerer Frachtschiffe. Die Anlage ist zentral für die wirtschaftliche Anbindung der abgelegenen Insel, wird aber durch Versandung und mangelnde Wartung beeinträchtigt. Der London Wharf ist nach dem gleichnamigen Ort benannt, der eine der Hauptsiedlungen Kiritimatis ist. Investitionen zur Modernisierung sind geplant, um die Handelseffizienz zu verbessern.",
+      hu: "A London Wharf Kiritimati (Karácsony-sziget) fő kikötője, amelyet az 1970-es években építettek. A móló körülbelül 100 méter hosszú, lehetővé téve kisebb teherhajók kikötését. Főként kopra, hal és egyéb áruk átrakodására szolgál, létfontosságú a távoli sziget gazdasági kapcsolatainak fenntartásában. A kikötőt fenyegeti a feltöltődés és a karbantartás hiánya. A londoni elnevezés a sziget egyik fő településére utal. A kikötő modernizálása érdekében beruházásokat terveznek, hogy javítsák a kereskedelem hatékonyságát és csökkentsék a sziget elszigeteltségét.",
+      ro: "London Wharf, situat pe insula Kiritimati (Insula Crăciunului), este principalul port al arhipelagului Line, construit în anii 1970. Cheiul, lung de aproximativ 100 de metri, permite acostarea navelor de marfă mici și mijlocii. Facilitatea deservește exportul de copră și pește și aprovizionarea locală. Este vitală pentru economia insulei, dar suferă de colmatare și lipsă de întreținere. Numele provine de la localitatea London, una dintre principalele așezări de pe Kiritimati. Sunt planificate investiții de modernizare pentru a spori capacitatea și eficiența portului.",
+      en: "London Wharf on Kiritimati (Christmas Island) is the primary port facility for the Line Islands, constructed in the 1970s. The wharf is roughly 100 meters long and accommodates small to medium cargo vessels. It handles exports of copra, fish, and other goods, and is essential for the island's supply chain. However, it suffers from siltation and inadequate maintenance. The name derives from London, a main settlement on Kiritimati. Upgrades are planned to improve trade efficiency and reduce the island's isolation.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1970er Jahre", "Länge: ca. 100 Meter", "Standort: London, Kiritimati", "Hauptfracht: Kopra, Fisch", "Zustand: Versandung, Wartungsrückstand", "Geplante Modernisierung: ja"],
+      hu: ["Építés éve: 1970-es évek", "Hossz: kb. 100 méter", "Helyszín: London, Kiritimati", "Fő rakomány: kopra, hal", "Állapot: feltöltődés, karbantartási hiányosságok", "Tervezett korszerűsítés: igen"],
+      ro: ["An construcție: anii 1970", "Lungime: aproximativ 100 de metri", "Locație: London, Kiritimati", "Mărfuri principale: copră, pește", "Stare: colmatare, lipsă întreținere", "Modernizare planificată: da"],
+      en: ["Built in the 1970s", "Length: approximately 100 meters", "Location: London, Kiritimati", "Main cargo: copra, fish", "Condition: suffers from siltation and poor maintenance", "Planned upgrades: yes"],
+    },
   }
 ];

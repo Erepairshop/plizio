@@ -727,7 +727,7 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
     id: "indonesia-lake-toba-nature-v2",
     type: "lake",
     name: { de: "Tobasee", hu: "Toba-tó", ro: "Lacul Toba", en: "Lake Toba" },
-    coordinates: { lat: 2.585, lng: 98.832 },
+    coords: [98.832, 2.585],
     description: {
       de: "Der Tobasee ist der größte vulkanische See der Welt und liegt im Norden Sumatras. Er entstand vor etwa 74.000 Jahren durch eine gewaltige Supervulkaneruption.",
       hu: "A Toba-tó a világ legnagyobb vulkáni eredetű tava, amely Szumátra északi részén található. Körülbelül 74 000 évvel ezelőtt jött létre egy szupervulkáni kitörés során.",
@@ -741,12 +741,24 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Surface area of 1,130 square kilometers", "Maximum depth of 505 meters", "Contains Samosir Island in its center", "Result of a VEI-8 supervolcano eruption"],
     },
     imageHint: "Lake Toba panorama with Samosir island in North Sumatra",
+    descriptionAdvanced: {
+      de: "Der Toba-See in Nordsumatra ist der größte vulkanische See der Welt und entstand vor etwa 74.000 Jahren durch eine Supereruption. Der See ist 100 Kilometer lang, 30 Kilometer breit und hat eine Tiefe von über 500 Metern. In der Mitte liegt die Insel Samosir. Der See liegt auf 905 Metern Höhe. Die umliegenden Hügel sind von Kiefernwäldern bedeckt. Der See ist ein wichtiges Ziel für Touristen, die Batak-Kultur und traditionelle Dörfer besuchen. Der Ausbruch des Toba hatte globale Klimaauswirkungen. Heute ist der See ein beliebter Ort zum Schwimmen, Bootfahren und Wandern.",
+      hu: "A Tóba-tó Észak-Szumátrán a világ legnagyobb vulkáni tava, amely körülbelül 74 000 évvel ezelőtt egy szuperkitörés következtében jött létre. A tó 100 km hosszú, 30 km széles, mélysége meghaladja az 500 métert. Középen található Samosir szigete. A tó 905 méteres tengerszint feletti magasságban fekszik. A környező dombokat fenyvesek borítják. A tó fontos turisztikai célpont, ahol a batak kultúrát és hagyományos falvakat lehet megismerni. A Toba kitörése globális klímahatásokkal járt. Ma a tó népszerű úszás, csónakázás és túrázás szempontjából.",
+      ro: "Lacul Toba din Sumatra de Nord este cel mai mare lac vulcanic din lume, format în urma unei super-erupții acum aproximativ 74.000 de ani. Lacul are 100 km lungime, 30 km lățime și o adâncime de peste 500 de metri. În mijloc se află Insula Samosir. Lacul este situat la 905 metri altitudine. Dealurile din jur sunt acoperite cu păduri de pini. Lacul este o destinație turistică majoră, oferind cultura Batak și sate tradiționale. Erupția Toba a avut efecte climatice globale. Astăzi, lacul este popular pentru înot, plimbări cu barca și drumeții.",
+      en: "Lake Toba in North Sumatra is the world's largest volcanic lake, formed by a super-eruption around 74,000 years ago. The lake is 100 km long, 30 km wide, and exceeds 500 m depth. Samosir Island sits at its center. At 905 m above sea level, the lake is surrounded by pine-covered hills. It is a major tourist destination, known for Batak culture and traditional villages. The Toba eruption caused a global volcanic winter. Activities include swimming, boating, and hiking to nearby waterfalls. The lake's water is clear and cool year-round.",
+    },
+    factsAdvanced: {
+      de: ["Der See ist 100 km lang und 30 km breit.", "Die maximale Tiefe beträgt 529 Meter.", "Der See liegt auf 905 Metern Höhe.", "Die Insel Samosir ist 630 km² groß.", "Der Ausbruch ereignete sich vor 74.000 Jahren.", "Der See hat ein Volumen von 240 Kubikkilometern."],
+      hu: ["A tó 100 km hosszú és 30 km széles.", "Maximális mélysége 529 méter.", "A tó 905 méteres magasságban van.", "Samosir szigete 630 km².", "A kitörés 74 000 évvel ezelőtt történt.", "A tó térfogata 240 km³."],
+      ro: ["Lacul are 100 km lungime și 30 km lățime.", "Adâncimea maximă este de 529 de metri.", "Lacul se află la 905 m altitudine.", "Insula Samosir are 630 km².", "Erupția a avut loc acum 74.000 de ani.", "Volumul lacului este de 240 km³."],
+      en: ["The lake is 100 km long and 30 km wide.", "Maximum depth is 529 meters.", "The lake sits at 905 m elevation.", "Samosir Island has an area of 630 km².", "The eruption occurred 74,000 years ago.", "The lake volume is 240 cubic kilometers."],
+    },
   },
   {
     id: "indonesia-mount-kelimutu-nature-v2",
     type: "mountain",
     name: { de: "Kelimutu", hu: "Kelimutu", ro: "Kelimutu", en: "Mount Kelimutu" },
-    coordinates: { lat: -8.77, lng: 121.82 },
+    coords: [121.82, -8.77],
     description: {
       de: "Der Vulkan Kelimutu auf der Insel Flores ist weltberühmt für seine drei Kraterseen, die regelmäßig ihre Farben ändern.",
       hu: "A Flores-szigeten található Kelimutu vulkán három krátertaváról híres, amelyek rendszeresen változtatják a színüket.",
@@ -760,12 +772,24 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Summit elevation of 1,639 meters", "Three differently colored crater lakes", "Colors change due to gas reactions", "Located within Kelimutu National Park"],
     },
     imageHint: "Aerial view of the three colored crater lakes of Mount Kelimutu",
+    descriptionAdvanced: {
+      de: "Der Kelimutu auf der Insel Flores ist ein Vulkan mit drei Kraterseen, die ihre Farben ändern. Der Berg ist 1.639 Meter hoch. Die Seen heißen Tiwu Ata Mbupu (See der Alten), Tiwu Nuwa Muri Koo Fai (See der jungen Männer und Mädchen) und Tiwu Ata Polo (verhexter See). Die Farben variieren zwischen Blau, Grün, Rot und Weiß. Der Vulkan brach zuletzt 1968 aus. Die Seen enthalten vulkanische Gase, die die Farbveränderungen verursachen. Der Kelimutu ist ein heiliger Ort für die lokale Bevölkerung. Der Nationalpark wurde 1992 gegründet. Sonnenaufgangstouren sind besonders beliebt.",
+      hu: "A Kelimutu Flores szigetén egy vulkán, amely három színeződő krátertavával híres. A hegy 1639 méter magas. A tavak nevei: Tiwu Ata Mbupu (öregek tava), Tiwu Nuwa Muri Koo Fai (fiatal férfiak és nők tava) és Tiwu Ata Polo (elátkozott tó). A színek változatosak: kék, zöld, piros, fehér. A vulkán utoljára 1968-ban tört ki. A tavak vulkáni gázokat tartalmaznak, amelyek a színváltozást okozzák. A Kelimutu szent hely a helyi lakosság számára. A nemzeti parkot 1992-ben alapították. Különösen népszerűek a napkelte túrák.",
+      ro: "Muntele Kelimutu de pe insula Flores este un vulcan cu trei lacuri de crater care își schimbă culorile. Muntele are 1.639 m înălțime. Lacurile se numesc Tiwu Ata Mbupu (lacul bătrânilor), Tiwu Nuwa Muri Koo Fai (lacul tinerilor) și Tiwu Ata Polo (lacul fermecat). Culorile variază între albastru, verde, roșu și alb. Ultima erupție a avut loc în 1968. Lacurile conțin gaze vulcanice care provoacă schimbări de culoare. Kelimutu este un loc sacru pentru localnici. Parcul național a fost fondat în 1992. Tururile la răsărit sunt populare.",
+      en: "Mount Kelimutu on Flores Island is a volcano with three crater lakes that change color. The peak is 1,639 m high. The lakes are named Tiwu Ata Mbupu (Lake of the Old), Tiwu Nuwa Muri Koo Fai (Lake of Young Men and Maidens), and Tiwu Ata Polo (Bewitched Lake). Colors shift from blue to green, red, or white. The last eruption was in 1968. The lakes contain volcanic gases and minerals that cause color changes. Kelimutu is sacred to the local Lio people. The national park was established in 1992. Sunrise treks are popular for viewing the lakes.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel ist 1.639 Meter hoch.", "Der letzte Ausbruch war 1968.", "Die Seen haben unterschiedliche Farben: blau, grün, rot, weiß.", "Der Nationalpark wurde 1992 gegründet.", "Die Fläche des Parks beträgt 50 km².", "Der See Tiwu Ata Polo ist der südlichste."],
+      hu: ["A csúcs magassága 1639 méter.", "Az utolsó kitörés 1968-ban volt.", "A tavak színei: kék, zöld, piros, fehér.", "A nemzeti parkot 1992-ben alapították.", "A park területe 50 km².", "A Tiwu Ata Polo a legdélebbi tó."],
+      ro: ["Vârful muntelui este la 1.639 m.", "Ultima erupție a fost în 1968.", "Lacurile au culori: albastru, verde, roșu, alb.", "Parcul național a fost fondat în 1992.", "Suprafața parcului este de 50 km².", "Lacul Tiwu Ata Polo este cel mai sudic."],
+      en: ["Peak elevation is 1,639 m.", "Last eruption in 1968.", "Lake colors: blue, green, red, white.", "National park established in 1992.", "Park area is 50 km².", "Tiwu Ata Polo is the southernmost lake."],
+    },
   },
   {
     id: "indonesia-raja-ampat-islands-nature-v2",
     type: "wildlife",
     name: { de: "Raja Ampat Inseln", hu: "Raja Ampat-szigetek", ro: "Insulele Raja Ampat", en: "Raja Ampat Islands" },
-    coordinates: { lat: -0.23, lng: 130.52 },
+    coords: [130.52, -0.23],
     description: {
       de: "Raja Ampat ist ein Archipel in Westpapua, das für die höchste marine Biodiversität der Welt bekannt ist.",
       hu: "Raja Ampat egy Nyugat-Pápua melletti szigetcsoport, amely a világ leggazdagabb tengeri élővilágáról ismert.",
@@ -779,12 +803,24 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Over 1,500 islands in the archipelago", "Home to 1,400 species of fish", "Hosts 75% of world's coral species", "Part of the Coral Triangle region"],
     },
     imageHint: "Aerial view of karst islands in Piaynemo, Raja Ampat",
+    descriptionAdvanced: {
+      de: "Die Raja-Ampat-Inseln in Westpapua sind eines der artenreichsten Meeresgebiete der Welt. Der Archipel besteht aus über 1.500 Inseln, von denen die Hauptinseln Waigeo, Batanta, Salawati und Misool sind. Die Meeresfläche umfasst 40.000 km². Es gibt über 600 Korallenarten und 1.500 Fischarten. Die Inseln bieten Kalkstein-Karstformationen und versteckte Lagunen. Der Unterwasser-Raja-Ampat-Nationalpark wurde 2004 gegründet. Die Region ist ein Ziel für Taucher und Schnorchler. Die lokale Bevölkerung lebt vom Fischfang. Die Verwaltung wird gemeinsam mit lokalen Gemeinschaften durchgeführt.",
+      hu: "A Raja Ampat-szigetek Nyugat-Pápuán a világ egyik legváltozatosabb tengeri területe. A szigetcsoport több mint 1500 szigetből áll, fő szigetei Waigeo, Batanta, Salawati és Misool. A tengeri terület 40.000 km². Több mint 600 korallfaj és 1500 halfaj található. A szigetek mészkő karsztformációkat és rejtett lagúnákat kínálnak. A víz alatti Raja Ampat Nemzeti Parkot 2004-ben alapították. A régió búvárok és sznorkelezők célpontja. A helyi lakosság halászatból él. A kezelést helyi közösségekkel közösen végzik.",
+      ro: "Insulele Raja Ampat din Papua de Vest sunt una dintre cele mai diverse zone marine ale lumii. Arhipelagul cuprinde peste 1.500 de insule, principalele fiind Waigeo, Batanta, Salawati și Misool. Suprafața marină este de 40.000 km². Există peste 600 de specii de corali și 1.500 de specii de pești. Insulele oferă formațiuni carstice de calcar și lagune ascunse. Parcul Național Subacvatic Raja Ampat a fost fondat în 2004. Regiunea este o destinație pentru scafandri și practicanți de snorkeling. Populația locală trăiește din pescuit. Administrarea se face în colaborare cu comunitățile locale.",
+      en: "Raja Ampat Islands in West Papua are among the world's most biodiverse marine regions. The archipelago comprises over 1,500 islands, with main islands Waigeo, Batanta, Salawati, and Misool. The marine area covers 40,000 km². There are over 600 coral species and 1,500 fish species. The islands feature limestone karst formations and hidden lagoons. The underwater Raja Ampat National Park was established in 2004. The region is a premier destination for diving and snorkeling. Local communities rely on fishing. Co-management involves local tribes and NGOs.",
+    },
+    factsAdvanced: {
+      de: ["Der Archipel hat über 1.500 Inseln.", "Die Meeresfläche beträgt 40.000 km².", "Es gibt 600 Korallenarten.", "1.500 Fischarten sind dokumentiert.", "Der Nationalpark wurde 2004 gegründet.", "Die Hauptinsel Waigeo ist 3.155 km² groß."],
+      hu: ["A szigetcsoport több mint 1500 szigetből áll.", "A tengeri terület 40.000 km².", "600 korallfaj található.", "1500 halfaj dokumentált.", "A nemzeti parkot 2004-ben alapították.", "Waigeo fő szigete 3155 km²."],
+      ro: ["Arhipelagul are peste 1.500 de insule.", "Suprafața marină este de 40.000 km².", "600 de specii de corali.", "1.500 de specii de pești documentate.", "Parcul național a fost fondat în 2004.", "Insula principală Waigeo are 3.155 km²."],
+      en: ["The archipelago has over 1,500 islands.", "Marine area is 40,000 km².", "600 coral species recorded.", "1,500 fish species documented.", "National park established in 2004.", "Main island Waigeo covers 3,155 km²."],
+    },
   },
   {
     id: "indonesia-mount-batur-nature-v2",
     type: "mountain",
     name: { de: "Batur", hu: "Batur-hegy", ro: "Muntele Batur", en: "Mount Batur" },
-    coordinates: { lat: -8.24, lng: 115.38 },
+    coords: [115.38, -8.24],
     description: {
       de: "Der Mount Batur ist ein aktiver Vulkan auf Bali, der für seinen weiten Blick vom Gipfel und den angrenzenden Batur-See bekannt ist.",
       hu: "A Batur-hegy egy aktív vulkán Bali szigetén, amely a csúcsáról nyíló kilátásról és a mellette fekvő Batur-tóról ismert.",
@@ -798,12 +834,24 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Elevation of 1,717 meters", "Large double caldera system", "26 eruptions recorded since 1804", "Bali's largest crater lake"],
     },
     imageHint: "Sunrise view of Mount Batur and Lake Batur in Bali",
+    descriptionAdvanced: {
+      de: "Der Mount Batur auf Bali ist ein aktiver Vulkan mit einem Höhenzug von 1.717 Metern. Er liegt im Kintamani-Hochland und hat einen großen Calderasee. Der Vulkan brach zuletzt 2000 aus. Der Aufstieg zum Gipfel ist ein beliebter Sonnenaufgangstour. Der Kraterboden enthält mehrere kleinere Krater. Die Caldera hat einen Durchmesser von 13,8 Kilometern. Die Umgebung wird von den Bali Aga bewohnt. Der Vulkan ist Teil des UNESCO Global Geoparks Batur. Die Landschaft besteht aus schwarzer vulkanischer Asche. Wanderungen dauern in der Regel 2-3 Stunden.",
+      hu: "A Batur-hegy Balin egy aktív vulkán, magassága 1717 méter. A Kintamani-felföldön található, és nagy kaldera tóval rendelkezik. A vulkán utoljára 2000-ben tört ki. A csúcsmászás népszerű napkelte túra. A kráter alján kisebb kráterek találhatók. A kaldera átmérője 13,8 kilométer. A környéken a bali aga nép él. A vulkán az UNESCO Batur Globális Geopark része. A táj fekete vulkáni hamuból áll. A túrák általában 2-3 órát vesznek igénybe.",
+      ro: "Muntele Batur din Bali este un vulcan activ, cu o altitudine de 1.717 metri. Este situat în podișul Kintamani și are un lac de calderă. Ultima erupție a avut loc în 2000. Ascensiunea pe vârf este un traseu popular pentru răsărit. Fundul craterului conține mai multe cratere mai mici. Caldera are un diametru de 13,8 kilometri. Zona este locuită de Bali Aga. Vulcanul face parte din Geoparcul Global UNESCO Batur. Peisajul este format din cenușă vulcanică neagră. Drumețiile durează de obicei 2-3 ore.",
+      en: "Mount Batur in Bali is an active volcano with a peak elevation of 1,717 m. Located in the Kintamani highlands, it features a large caldera lake. The last eruption was in 2000. Sunrise trekking to the summit is a popular activity. The crater floor contains multiple smaller craters. The caldera is 13.8 km in diameter. The area is inhabited by the Bali Aga people. The volcano is part of the UNESCO Batur Global Geopark. The landscape consists of black volcanic ash and lava flows. The hike typically takes 2-3 hours.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhe beträgt 1.717 Meter.", "Der letzte Ausbruch war im Jahr 2000.", "Die Caldera hat einen Durchmesser von 13,8 km.", "Der See im Krater ist 200 Meter tief.", "Der Geopark wurde 2012 zum UNESCO-Geopark ernannt.", "Die Wanderung ist 3 km lang."],
+      hu: ["Magassága 1717 méter.", "Utolsó kitörés 2000-ben.", "A kaldera átmérője 13,8 km.", "A kráter tó 200 méter mély.", "A geoparkot 2012-ben nyilvánították UNESCO geoparkká.", "A túra hossza 3 km."],
+      ro: ["Altitudinea este de 1.717 m.", "Ultima erupție a fost în anul 2000.", "Caldera are un diametru de 13,8 km.", "Lacul din crater are 200 m adâncime.", "Geoparcul a fost declarat UNESCO în 2012.", "Drumeția are 3 km lungime."],
+      en: ["Elevation is 1,717 m.", "Last eruption in 2000.", "Caldera diameter is 13.8 km.", "Crater lake depth is 200 m.", "UNESCO Global Geopark since 2012.", "The trek is 3 km long."],
+    },
   },
   {
     id: "indonesia-sianok-canyon-nature-v2",
     type: "valley",
     name: { de: "Sianok Schlucht", hu: "Sianok-kanyon", ro: "Canionul Sianok", en: "Sianok Canyon" },
-    coordinates: { lat: -0.307, lng: 100.35 },
+    coords: [100.35, -0.307],
     description: {
       de: "Die Sianok Schlucht ist ein steiles Tal bei Bukittinggi in Westsumatra, das durch tektonische Aktivitäten entstanden ist.",
       hu: "A Sianok-kanyon egy meredek völgy Bukittinggi mellett, Nyugat-Szumátrán, amely tektonikai mozgások révén jött létre.",
@@ -817,12 +865,24 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Length of approximately 15 kilometers", "Walls drop up to 100 meters deep", "Formed by the Great Sumatran Fault", "Habitat for macaques and wild boars"],
     },
     imageHint: "Landscape of Sianok Canyon with vertical cliffs near Bukittinggi",
+    descriptionAdvanced: {
+      de: "Die Sianok-Schlucht auf Sumatra ist eine tiefe, von tektonischen Bewegungen geformte Spalte im Bukit-Barisan-Gebirge. Sie erstreckt sich über etwa 15 Kilometer und erreicht Tiefen von über 100 Metern. Die steilen Wände bestehen aus Kalkstein und sind dicht bewachsen. Der Fluss Sianok fließt am Grund und nährt eine vielfältige Flora und Fauna. Die Schlucht ist ein wichtiges geologisches Zeugnis der plattentektonischen Aktivität in der Region. Lokale Legenden der Minangkabau verleihen ihr kulturelle Bedeutung.",
+      hu: "A Szianok-szurdok Szumátrán, a Bukit Barisan hegységben található. Tektonikus mozgások hozták létre, mélysége eléri a 100 métert. A szurdok hossza 15 km. A falak mészkőből épülnek, és sűrű növényzet borítja. Az alsó folyású Szianok folyó gazdag ökoszisztémát táplál. A terület geológiai szempontból jelentős, mivel a lemeztektonika nyomait mutatja. A minangkabau nép számára a szurdok spirituális hely.",
+      ro: "Canionul Sianok din Sumatra este o fisură tectonică adâncă în Munții Bukit Barisan. Se întinde pe aproximativ 15 kilometri și atinge adâncimi de peste 100 de metri. Pereții abrupti sunt formați din calcar și sunt acoperiți de vegetație densă. Râul Sianok curge la baza canionului, susținând o biodiversitate bogată. Canionul este o dovadă a activității tectonice din zonă. Pentru populația Minangkabau, are și o semnificație culturală.",
+      en: "Sianok Canyon in West Sumatra is a tectonic fissure formed by the movement of the Sumatra Fault. It runs for 15 km with depths exceeding 100 m, featuring limestone walls covered in tropical vegetation. The canyon hosts a variety of endemic species. It is a key geological site for studying plate convergence. The Minangkabau people consider it a sacred place with legends about its creation. The canyon is also a popular destination for ecotourism and hiking.",
+    },
+    factsAdvanced: {
+      de: ["Die Sianok-Schlucht ist etwa 15 Kilometer lang.", "Die maximale Tiefe beträgt rund 100 Meter.", "Die Schlucht liegt im Bukit-Barisan-Gebirge auf Sumatra.", "Der Fluss Sianok fließt durch die Schlucht.", "Die Wände bestehen hauptsächlich aus Kalkstein.", "Die Schlucht ist ein Ergebnis der Sumatra-Verwerfung."],
+      hu: ["A szurdok hossza 15 km.", "Mélysége eléri a 100 métert.", "A Bukit Barisan hegységben található.", "A Szianok folyó folyik benne.", "A falak mészkőből állnak.", "A Szumátra-törésvonal hozta létre."],
+      ro: ["Canionul are 15 km lungime.", "Adâncimea maximă este de 100 m.", "Situat în Munții Bukit Barisan din Sumatra.", "Râul Sianok curge prin canion.", "Pereții sunt formați din calcar.", "Format de falia Sumatra."],
+      en: ["Length: 15 km.", "Maximum depth: 100 m.", "Located in the Bukit Barisan range, Sumatra.", "The Sianok River flows through the canyon.", "Walls composed of limestone.", "Formed by the Great Sumatran Fault."],
+    },
   },
   {
     id: "indonesia-sipiso-piso-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Sipiso-piso Wasserfall", hu: "Sipiso-piso vízesés", ro: "Cascada Sipiso-piso", en: "Sipiso-piso Waterfall" },
-    coordinates: { lat: 2.916, lng: 98.523 },
+    coords: [98.523, 2.916],
     description: {
       de: "Sipiso-piso ist einer der höchsten Wasserfälle Indonesiens und stürzt 120 Meter in eine Schlucht am Nordrand des Tobasees.",
       hu: "A Sipiso-piso Indonézia egyik legmagasabb vízesése, amely 120 méter magasból zúdul alá a Toba-tó északi pereménél.",
@@ -836,6 +896,18 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["Drop height of 120 meters", "Fed by an underground river", "Name means 'Like a knife'", "Located in the Karo Highlands"],
     },
     imageHint: "Vertical view of Sipiso-piso waterfall plunging into the gorge",
+    descriptionAdvanced: {
+      de: "Der Sipiso-piso-Wasserfall in Nordsumatra ist einer der höchsten Wasserfälle Indonesiens. Er stürzt vom Karo-Plateau in den Tobasee. Das Wasser fällt aus einer Höhe von 120 Metern über steile Klippen. Der Wasserfall entsteht aus einem unterirdischen Fluss, der am Rand des Plateaus austritt. Die Umgebung ist von tropischem Regenwald geprägt. Der Name bedeutet auf Karo 'scharf wie ein Messer'. Der Wasserfall ist ein beliebtes Ziel für Touristen, die die Landschaft des Tobasees erkunden.",
+      hu: "A Sipiso-piso-vízesés Szumátra északi részén található, a Karo-fennsík peremén. 120 méter magasból zuhan a Toba-tóba. A víz egy föld alatti folyóból származik. A környék trópusi esőerdő, gazdag élővilággal. Neve a karó nyelvből származik, jelentése 'éles, mint a kés'. A turisták körében népszerű, mert a Toba-tó közelében fekszik. A vízesés geológiailag a tó kialakulásához kapcsolódik.",
+      ro: "Cascada Sipiso-piso din Sumatra de Nord este una dintre cele mai înalte din Indonezia, cu o cădere de 120 de metri. Apa se prăbușește de pe Platoul Karo în Lacul Toba. Sursa apei este un râu subteran. Cascada este înconjurată de pădure tropicală. Numele înseamnă 'ascuțit ca un cuțit' în limba Karo. Este o destinație turistică importantă în regiunea lacului Toba.",
+      en: "Sipiso-piso Waterfall in North Sumatra plunges 120 meters from the Karo Plateau into Lake Toba. It is fed by an underground river. The waterfall is known for its narrow, sharp drop. The surrounding rainforest hosts diverse wildlife. The name translates to 'sharp knife' in the local Karo language. It is a key attraction near the world's largest volcanic lake.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 120 Meter.", "Liegt auf dem Karo-Plateau.", "Stürzt in den Tobasee.", "Gespeist von einem unterirdischen Fluss.", "Name bedeutet 'scharfes Messer' auf Karo.", "Umgeben von tropischem Regenwald."],
+      hu: ["Magassága 120 méter.", "A Karo-fennsíkon található.", "A Toba-tóba zuhan.", "Föld alatti folyó táplálja.", "Neve 'éles kés' jelentésű.", "Trópusi esőerdő veszi körül."],
+      ro: ["Înălțime: 120 m.", "Situată pe Platoul Karo.", "Se varsă în Lacul Toba.", "Alimentată de un râu subteran.", "Numele înseamnă 'cuțit ascuțit'.", "Înconjurată de pădure tropicală."],
+      en: ["Height: 120 meters.", "Located on the Karo Plateau.", "Plunges into Lake Toba.", "Fed by an underground river.", "Name means 'sharp knife' in Karo.", "Surrounded by tropical rainforest."],
+    },
   }
 ];
 

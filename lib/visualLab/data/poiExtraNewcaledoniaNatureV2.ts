@@ -5,7 +5,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-mont-panie-nature-v2",
     type: "peak",
     name: { de: "Mont Panié", hu: "Mont Panié", ro: "Muntele Panié", en: "Mont Panié" },
-    coordinates: { lat: -20.5888, lng: 164.7708 },
+    coords: [164.7708, -20.5888],
     description: {
       de: "Der Mont Panié ist mit 1628 Metern der höchste Berg Neukaledoniens. Er liegt im Nordosten der Hauptinsel Grande Terre und ist für seine endemischen Pflanzen bekannt.",
       hu: "A Mont Panié Új-Kaledónia legmagasabb pontja, 1628 méteres magassággal. A sziget északkeleti részén található, és számos endemikus növényfajnak ad otthont.",
@@ -24,7 +24,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-mont-humboldt-nature-v2",
     type: "peak",
     name: { de: "Mont Humboldt", hu: "Mont Humboldt", ro: "Muntele Humboldt", en: "Mont Humboldt" },
-    coordinates: { lat: -21.8833, lng: 166.4167 },
+    coords: [166.4167, -21.8833],
     description: {
       de: "Der Mont Humboldt ist mit 1618 Metern der zweithöchste Gipfel Neukaledoniens. Er befindet sich im Süden der Insel Grande Terre im Massif de l'Humboldt.",
       hu: "A Mont Humboldt Új-Kaledónia második legmagasabb csúcsa, 1618 méterrel. A Grande Terre sziget déli részén, a Humboldt-masszívumban található.",
@@ -43,7 +43,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-riviere-bleue-nature-v2",
     type: "river",
     name: { de: "Rivière Bleue", hu: "Kék-folyó", ro: "Râul Albastru", en: "Blue River" },
-    coordinates: { lat: -22.1083, lng: 166.675 },
+    coords: [166.675, -22.1083],
     description: {
       de: "Die Rivière Bleue fließt durch den gleichnamigen Nationalpark im Süden von Grande Terre. Der Fluss ist bekannt für sein klares Wasser und die umliegenden roten Erden.",
       hu: "A Kék-folyó az azonos nevű nemzeti parkon folyik keresztül Grande Terre déli részén. Kristálytiszta vizéről és a környező vörös földről ismert.",
@@ -62,7 +62,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-lac-en-huit-nature-v2",
     type: "lake",
     name: { de: "Lac en Huit", hu: "Nyolcas-tó", ro: "Lacul în formă de opt", en: "Lake en Huit" },
-    coordinates: { lat: -22.2514, lng: 166.8667 },
+    coords: [166.8667, -22.2514],
     description: {
       de: "Der Lac en Huit ist ein charakteristischer See im Süden Neukaledoniens, der seinen Namen seiner Form verdankt. Er liegt inmitten einer Bergbaulandschaft.",
       hu: "A Nyolcas-tó egy jellegzetes tó Új-Kaledónia déli részén, amely nevét a nyolcas alakjáról kapta. Egy bányászati táj közepén fekszik.",
@@ -81,7 +81,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-chutes-madeleine-nature-v2",
     type: "landmark",
     name: { de: "Chutes de la Madeleine", hu: "Madeleine-vízesés", ro: "Cascadele Madeleine", en: "Madeleine Waterfalls" },
-    coordinates: { lat: -22.2356, lng: 166.8572 },
+    coords: [166.8572, -22.2356],
     description: {
       de: "Die Chutes de la Madeleine sind flache, aber breite Wasserfälle in einem geschützten botanischen Reservat. Das Gebiet beherbergt viele seltene Pflanzenarten.",
       hu: "A Madeleine-vízesés egy széles, de alacsony vízesés egy védett botanikai rezervátumban. A terület számos ritka növényfajnak ad otthont.",
@@ -100,7 +100,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-baie-upi-nature-v2",
     type: "landmark",
     name: { de: "Baie d'Upi", hu: "Upi-öböl", ro: "Golful Upi", en: "Upi Bay" },
-    coordinates: { lat: -22.6167, lng: 167.5167 },
+    coords: [167.5167, -22.6167],
     description: {
       de: "Die Baie d'Upi auf der Île des Pins ist berühmt für ihre korallenartigen Felsformationen, die aus dem türkisfarbenen Wasser ragen. Sie ist nur per Auslegerboot erreichbar.",
       hu: "Az Île des Pins szigetén található Upi-öböl híres a türkizkék vízből kiálló korallkő képződményeiről. Csak hagyományos csónakkal érhető el.",
@@ -119,7 +119,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-baie-kanumera-nature-v2",
     type: "landmark",
     name: { de: "Baie de Kanumera", hu: "Kanumera-öböl", ro: "Golful Kanumera", en: "Kanumera Bay" },
-    coordinates: { lat: -22.6561, lng: 167.4475 },
+    coords: [167.4475, -22.6561],
     description: {
       de: "Die Baie de Kanumera ist eine malerische Bucht auf der Île des Pins mit einem markanten heiligen Felsen im Zentrum. Sie ist ein beliebter Ort zum Schnorcheln.",
       hu: "A Kanumera-öböl egy festői öböl az Île des Pins szigetén, közepén egy jellegzetes szent sziklával. Népszerű sznorkelező hely.",
@@ -138,7 +138,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-grottes-adio-nature-v2",
     type: "landmark",
     name: { de: "Grottes d'Adio", hu: "Adio-barlangok", ro: "Peșterile Adio", en: "Adio Caves" },
-    coordinates: { lat: -21.25, lng: 165.25 },
+    coords: [165.25, -21.25],
     description: {
       de: "Die Grottes d'Adio sind ein komplexes Höhlensystem in der Nähe von Poya. Sie bieten beeindruckende Kalksteinformationen und unterirdische Gänge.",
       hu: "Az Adio-barlangok egy komplex barlangrendszer Poya közelében. Lenyűgöző mészkő képződményeket és föld alatti járatokat kínálnak.",
@@ -157,7 +157,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-coeur-de-voh-nature-v2",
     type: "landmark",
     name: { de: "Cœur de Voh", hu: "Voh szíve", ro: "Inima din Voh", en: "Heart of Voh" },
-    coordinates: { lat: -20.9419, lng: 164.6617 },
+    coords: [164.6617, -20.9419],
     description: {
       de: "Das Cœur de Voh ist eine natürliche herzförmige Lichtung in einem Mangrovenwald. Es wurde durch ein Foto von Yann Arthus-Bertrand weltberühmt.",
       hu: "A Voh szíve egy természetes szív alakú tisztás a mangroveerdőben. Yann Arthus-Bertrand fényképe tette világhírűvé.",
@@ -176,7 +176,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-falaises-jokin-nature-v2",
     type: "landmark",
     name: { de: "Falaises de Jokin", hu: "Jokin-sziklák", ro: "Falezele Jokin", en: "Jokin Cliffs" },
-    coordinates: { lat: -20.9167, lng: 167.2417 },
+    coords: [167.2417, -20.9167],
     description: {
       de: "Die Falaises de Jokin sind spektakuläre Kalksteinfelsen auf der Insel Lifou. Sie ragen über 40 Meter senkrecht aus dem kristallklaren Ozean empor.",
       hu: "A Jokin-sziklák látványos mészkőfalak Lifou szigetén. Több mint 40 méter magasan emelkednek ki függőlegesen a kristálytiszta óceánból.",
@@ -195,7 +195,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-baie-ouvea-nature-v2",
     type: "landmark",
     name: { de: "Baie d'Ouvéa", hu: "Ouvéa-öböl", ro: "Golful Ouvéa", en: "Ouvéa Bay" },
-    coordinates: { lat: -20.65, lng: 166.5667 },
+    coords: [166.5667, -20.65],
     description: {
       de: "Die Baie d'Ouvéa ist bekannt für ihren endlosen, weißen Sandstrand, der sich über 25 Kilometer erstreckt. Sie gilt als eine der schönsten Lagunen der Welt.",
       hu: "Az Ouvéa-öböl végtelen, 25 kilométer hosszan elnyúló fehér homokos tengerpartjáról ismert. A világ egyik legszebb lagúnájának tartják.",
@@ -214,7 +214,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-trou-bleu-hanawa-nature-v2",
     type: "landmark",
     name: { de: "Trou Bleu d'Hanawa", hu: "Hanawa kék lyuk", ro: "Ochiul Albastru din Hanawa", en: "Hanawa Blue Hole" },
-    coordinates: { lat: -20.575, lng: 166.6333 },
+    coords: [166.6333, -20.575],
     description: {
       de: "Das Trou Bleu d'Hanawa ist ein natürliches, tiefblaues Wasserloch auf der Insel Ouvéa. Es ist mit dem Meer verbunden und beherbergt marine Lebewesen.",
       hu: "A Hanawa kék lyuk egy természetes, mélykék vizű medence Ouvéa szigetén. Kapcsolatban áll a tengerrel, és gazdag vízi élővilággal rendelkezik.",
@@ -233,7 +233,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-grotte-troisieme-nature-v2",
     type: "landmark",
     name: { de: "Grotte de la Troisième", hu: "Harmadik-barlang", ro: "Peștera a Treia", en: "Third Cave" },
-    coordinates: { lat: -22.3333, lng: 166.4833 },
+    coords: [166.4833, -22.3333],
     description: {
       de: "Die Grotte de la Troisième in der Nähe von Nouméa ist bekannt für ihren unterirdischen See. Sie ist ein beliebter Ort für erfahrenere Höhlentaucher.",
       hu: "A Nouméa közelében található Harmadik-barlang föld alatti taváról ismert. Kedvelt hely a tapasztalt barlangi búvárok körében.",
@@ -252,7 +252,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-plateau-dogny-nature-v2",
     type: "mountain",
     name: { de: "Plateau de Dogny", hu: "Dogny-fennsík", ro: "Platoul Dogny", en: "Dogny Plateau" },
-    coordinates: { lat: -21.6167, lng: 165.8833 },
+    coords: [165.8833, -21.6167],
     description: {
       de: "Das Plateau de Dogny bei Sarraméa bietet spektakuläre Ausblicke auf beide Küsten der Grande Terre. Es ist geprägt von weiten Grasflächen und Bergwäldern.",
       hu: "A Sarraméa közelében található Dogny-fennsík lenyűgöző kilátást nyújt Grande Terre mindkét partjára. Füves területek és hegyi erdők jellemzik.",
@@ -271,7 +271,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-massif-koniambo-nature-v2",
     type: "mountain",
     name: { de: "Massif du Koniambo", hu: "Koniambo-masszívum", ro: "Masivul Koniambo", en: "Koniambo Massif" },
-    coordinates: { lat: -21.0167, lng: 164.8167 },
+    coords: [164.8167, -21.0167],
     description: {
       de: "Das Massif du Koniambo ist ein markanter Gebirgszug an der Westküste. Es ist sowohl für seine ökologische Bedeutung als auch für seine Nickelvorkommen bekannt.",
       hu: "A Koniambo-masszívum egy jellegzetes hegylánc a nyugati parton. Ökológiai jelentősége és nikkelkészletei miatt egyaránt ismert.",
@@ -290,7 +290,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-roche-percee-nature-v2",
     type: "landmark",
     name: { de: "Roche Percée", hu: "Átfúrt szikla", ro: "Stânca Străpunsă", en: "Roche Percée" },
-    coordinates: { lat: -21.6117, lng: 165.4417 },
+    coords: [165.4417, -21.6117],
     description: {
       de: "Die Roche Percée ist eine markante Felsformation an der Küste von Bourail. Der 'Bonhomme de Bourail' ist eine bekannte isolierte Felssäule in diesem Gebiet.",
       hu: "A Roche Percée egy jellegzetes sziklaképződmény Bourail partjainál. A 'Bonhomme de Bourail' egy közeli, különálló sziklaoszlop.",
@@ -309,7 +309,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-mont-mou-nature-v2",
     type: "mountain",
     name: { de: "Mont Mou", hu: "Mont Mou", ro: "Muntele Mou", en: "Mont Mou" },
-    coordinates: { lat: -22.0667, lng: 166.3417 },
+    coords: [166.3417, -22.0667],
     description: {
       de: "Der Mont Mou ist ein markanter Berg in der Nähe von Païta. Er ist bekannt für seinen moosbewachsenen Nebelwald und die reiche Flora.",
       hu: "A Mont Mou egy jellegzetes hegy Païta közelében. Mohos köderdőjéről és gazdag növényvilágáról ismert.",
@@ -328,7 +328,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-baie-prony-nature-v2",
     type: "landmark",
     name: { de: "Baie de Prony", hu: "Prony-öböl", ro: "Golful Prony", en: "Prony Bay" },
-    coordinates: { lat: -22.35, lng: 166.85 },
+    coords: [166.85, -22.35],
     description: {
       de: "Die Baie de Prony im tiefen Süden ist eine weite Bucht, die für ihre historische Walfangstation und die Thermalquellen bekannt ist.",
       hu: "A távoli délen található Prony-öböl egy tágas öböl, amely történelmi bálnavadász állomásáról és termálforrásairól ismert.",
@@ -347,7 +347,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-aiguilles-prony-nature-v2",
     type: "landmark",
     name: { de: "Aiguille de Prony", hu: "Prony-tű", ro: "Acul Prony", en: "Prony Needle" },
-    coordinates: { lat: -22.3333, lng: 166.8667 },
+    coords: [166.8667, -22.3333],
     description: {
       de: "Die Aiguille de Prony ist eine einzigartige unterseeische Kalksteinsäule, die fast bis zur Wasseroberfläche ragt. Sie ist ein berühmter Tauchplatz.",
       hu: "A Prony-tű egyedülálló víz alatti mészkőoszlop, amely majdnem a vízfelszínig ér. Híres búvárhely.",
@@ -366,7 +366,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-ilot-maitre-nature-v2",
     type: "landmark",
     name: { de: "Îlot Maître", hu: "Maître-szigetecske", ro: "Insulița Maître", en: "Îlot Maître" },
-    coordinates: { lat: -22.3361, lng: 166.4111 },
+    coords: [166.4111, -22.3361],
     description: {
       de: "Die Îlot Maître ist eine kleine Koralleninsel vor Nouméa. Sie ist Teil eines Meeresschutzgebiets und bekannt für ihre vielen Meeresschildkröten.",
       hu: "A Maître-szigetecske egy kis korallsziget Nouméa előtt. Természetvédelmi terület része, és számos tengeri teknőséről ismert.",
@@ -385,7 +385,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-ilot-canard-nature-v2",
     type: "landmark",
     name: { de: "Îlot Canard", hu: "Kacsa-sziget", ro: "Insulița Canard", en: "Îlot Canard" },
-    coordinates: { lat: -22.3117, lng: 166.4367 },
+    coords: [166.4367, -22.3117],
     description: {
       de: "Die Îlot Canard ist eine winzige Insel direkt vor dem Anse Vata Strand in Nouméa. Sie bietet einen Unterwasserlehrpfad für Schnorchler.",
       hu: "A Kacsa-sziget egy apró sziget közvetlenül Nouméa Anse Vata strandja előtt. Víz alatti tanösvényt kínál a sznorkelezőknek.",
@@ -404,7 +404,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-plage-luengoni-nature-v2",
     type: "landmark",
     name: { de: "Plage de Luengöni", hu: "Luengöni strand", ro: "Plaja Luengöni", en: "Luengöni Beach" },
-    coordinates: { lat: -21.0417, lng: 167.4167 },
+    coords: [167.4167, -21.0417],
     description: {
       de: "Die Plage de Luengöni auf Lifou gilt als einer der schönsten Strände des Archipels. Er ist bekannt für seinen extrem feinen, weißen Sand.",
       hu: "A Lifou szigetén található Luengöni strandot a szigetcsoport egyik legszebbjeként tartják számon. Rendkívül finom fehér homokjáról ismert.",
@@ -423,7 +423,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-baie-jinek-nature-v2",
     type: "landmark",
     name: { de: "Baie de Jinek", hu: "Jinek-öböl", ro: "Golful Jinek", en: "Jinek Bay" },
-    coordinates: { lat: -20.9083, lng: 167.2333 },
+    coords: [167.2333, -20.9083],
     description: {
       de: "Die Baie de Jinek auf Lifou ist ein natürliches Aquarium. Die geschützte Bucht beherbergt eine unglaubliche Vielfalt an Korallen und Fischen.",
       hu: "A Lifou szigetén található Jinek-öböl egy természetes akvárium. A védett öbölben a korallok és halak hihetetlen változata él.",
@@ -442,7 +442,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-pic-grand-kaori-nature-v2",
     type: "peak",
     name: { de: "Pic du Grand Kaori", hu: "Nagy Kaori-csúcs", ro: "Vârful Marelui Kaori", en: "Great Kaori Peak" },
-    coordinates: { lat: -22.1333, lng: 166.7167 },
+    coords: [166.7167, -22.1333],
     description: {
       de: "Dieser Gipfel im Süden ist nach dem riesigen Kaori-Baum an seinem Fuß benannt. Er bietet einen weiten Blick über den Blue River Nationalpark.",
       hu: "Ez a déli csúcs a lábánál található óriási kaori fáról kapta a nevét. Széles kilátást nyújt a Kék-folyó Nemzeti Parkra.",
@@ -461,7 +461,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-cascade-tao-nature-v2",
     type: "landmark",
     name: { de: "Cascade de Tao", hu: "Tao-vízesés", ro: "Cascada Tao", en: "Tao Waterfall" },
-    coordinates: { lat: -20.55, lng: 164.8167 },
+    coords: [164.8167, -20.55],
     description: {
       de: "Die Cascade de Tao ist einer der beeindruckendsten Wasserfälle Neukaledoniens. Er stürzt in mehreren Stufen von den Hängen des Mont Panié herab.",
       hu: "A Tao-vízesés Új-Kaledónia egyik leglenyűgözőbb vízesése. Több lépcsőben zúdul le a Mont Panié lejtőiről.",
@@ -480,7 +480,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-recif-astrolabe-nature-v2",
     type: "wildlife",
     name: { de: "Récif de l'Astrolabe", hu: "Asztrolábium-zátony", ro: "Reciful Astrolabe", en: "Astrolabe Reefs" },
-    coordinates: { lat: -20.0, lng: 166.5 },
+    coords: [166.5, -20.0],
     description: {
       de: "Die Récifs de l'Astrolabe sind abgelegene Korallenriffe im Norden der Loyalitätsinseln. Sie sind ein unberührtes Paradies für Taucher.",
       hu: "Az Asztrolábium-zátonyok távoli korallzátonyok a Hűség-szigetektől északra. Az érintetlen természet paradicsoma a búvárok számára.",
@@ -499,7 +499,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-parc-riviere-bleue-nature-v2",
     type: "park",
     name: { de: "Parc de la Rivière Bleue", hu: "Kék-folyó Tartományi Park", ro: "Parcul Provincial Râul Albastru", en: "Blue River Provincial Park" },
-    coordinates: { lat: -22.1, lng: 166.65 },
+    coords: [166.65, -22.1],
     description: {
       de: "Dieser 9000 Hektar große Park schützt ein einzigartiges Ökosystem im Süden. Er ist berühmt für den Kagu-Vogel und uralte Kaori-Bäume.",
       hu: "Ez a 9000 hektáros park egyedülálló ökoszisztémát véd délen. Híres a kagu madárról és az ősi kaori fenyőkről.",
@@ -518,7 +518,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-chutes-tao-nature-v2",
     type: "landmark",
     name: { de: "Chutes de Tao", hu: "Tao-vízesések", ro: "Cascadele Tao", en: "Tao Falls" },
-    coordinates: { lat: -20.551, lng: 164.821 },
+    coords: [164.821, -20.551],
     description: {
       de: "Die Chutes de Tao sind majestätische Wasserfälle an der Küste von Hienghène. Sie gehören zu den höchsten und schönsten Fällen des Landes.",
       hu: "A Tao-vízesések fenséges vízesések Hienghène partjainál. Az ország legmagasabb és legszebb vízesései közé tartoznak.",
@@ -537,7 +537,7 @@ export const newcaledoniaNatureV2: POI[] = [
     id: "newcaledonia-falaises-lekini-nature-v2",
     type: "landmark",
     name: { de: "Falaises de Lékiny", hu: "Lékiny-sziklák", ro: "Falezele Lékiny", en: "Lékiny Cliffs" },
-    coordinates: { lat: -20.6667, lng: 166.5333 },
+    coords: [166.5333, -20.6667],
     description: {
       de: "Die Falaises de Lékiny sind beeindruckende Korallenkalkfelsen auf der Insel Ouvéa. Sie liegen an einer wunderschönen Lagune mit klarem Wasser.",
       hu: "A Lékiny-sziklák lenyűgöző korallmészkő falak Ouvéa szigetén. Egy gyönyörű, tiszta vizű lagúna partján találhatók.",

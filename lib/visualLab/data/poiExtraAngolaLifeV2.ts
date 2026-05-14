@@ -770,7 +770,7 @@ export const poiExtraAngolaLifeV2: POI[] = [
     id: "angola-iona-national-park-life-v2",
     type: "park",
     name: { de: "Nationalpark Iona", hu: "Iona Nemzeti Park", ro: "Parcul Național Iona", en: "Iona National Park" },
-    coordinates: { lat: -16.5, lng: 12.5 },
+    coords: [12.5, -16.5],
     description: {
       de: "Der Park in Namibe umfasst 15.150 Quadratkilometer Wüste und Gebirge. Er beherbergt seltene Pflanzen wie die endemische Welwitschia mirabilis.",
       hu: "A Namibe park 15 150 négyzetkilométernyi sivatagos és hegyvidéki területet foglal el. Itt él az endemikus Welwitschia mirabilis növény is.",

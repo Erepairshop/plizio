@@ -5,7 +5,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-jabal-ad-dukhan-nature-v2",
     type: "peak",
     name: { de: "Jabal ad-Dukhan", hu: "Jabal ad-Dukhan", ro: "Jabal ad-Dukhan", en: "Jabal ad-Dukhan" },
-    coordinates: { lat: 26.0372, lng: 50.5508 },
+    coords: [50.5508, 26.0372],
     description: {
       de: "Der Jabal ad-Dukhan ist mit 134 Metern der höchste Berg Bahrains und liegt im Zentrum der Hauptinsel.",
       hu: "A Jabal ad-Dukhan Bahrein legmagasabb pontja, egy 134 méter magas domb a fősziget közepén.",
@@ -36,7 +36,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-hawar-island-nature-v2",
     type: "landmark",
     name: { de: "Hawar-Insel", hu: "Hawar-sziget", ro: "Insula Hawar", en: "Hawar Island" },
-    coordinates: { lat: 25.6833, lng: 50.7833 },
+    coords: [50.7833, 25.6833],
     description: {
       de: "Die Hawar-Insel ist die größte Insel des Archipels und ein wichtiges Naturschutzgebiet für seltene Seevögel.",
       hu: "A Hawar-sziget az azonos nevű szigetcsoport legnagyobb tagja és fontos madárvédelmi terület.",
@@ -67,7 +67,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-suwad-al-shamaliyya-nature-v2",
     type: "wildlife",
     name: { de: "Suwad al Shamaliyya", hu: "Suwad al Shamaliyya", ro: "Suwad al Shamaliyya", en: "Suwad al Shamaliyya" },
-    coordinates: { lat: 25.7533, lng: 50.8117 },
+    coords: [50.8117, 25.7533],
     description: {
       de: "Diese Insel im Hawar-Archipel ist bekannt für ihre riesigen Kolonien von gefährdeten Sokotra-Kormoranen.",
       hu: "A Hawar-szigetcsoporthoz tartozó sziget a veszélyeztetett Sokotra-kormoránok hatalmas kolóniáiról ismert.",
@@ -98,7 +98,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-suwad-al-janubiyya-nature-v2",
     type: "wildlife",
     name: { de: "Suwad al Janubiyya", hu: "Suwad al Janubiyya", ro: "Suwad al Janubiyya", en: "Suwad al Janubiyya" },
-    coordinates: { lat: 25.7192, lng: 50.7811 },
+    coords: [50.7811, 25.7192],
     description: {
       de: "Suwad al Janubiyya ist eine flache Insel im Hawar-Archipel, die primär als Brutstätte für Seevögel dient.",
       hu: "Suwad al Janubiyya egy lapos sziget a Hawar-szigetcsoportban, amely főként tengeri madarak fészkelőhelye.",
@@ -129,7 +129,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-rubud-al-sharqiyya-nature-v2",
     type: "wildlife",
     name: { de: "Rubud al Sharqiyya", hu: "Rubud al Sharqiyya", ro: "Rubud al Sharqiyya", en: "Rubud al Sharqiyya" },
-    coordinates: { lat: 25.7506, lng: 50.7719 },
+    coords: [50.7719, 25.7506],
     description: {
       de: "Die Insel Rubud al Sharqiyya gehört zur Hawar-Gruppe und ist ein bedeutendes Schutzgebiet für den Fischadler.",
       hu: "Rubud al Sharqiyya a Hawar-csoport tagja, és a halászsasok egyik jelentős védett területe.",
@@ -160,7 +160,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-rubud-al-gharbiyya-nature-v2",
     type: "wildlife",
     name: { de: "Rubud al Gharbiyya", hu: "Rubud al Gharbiyya", ro: "Rubud al Gharbiyya", en: "Rubud al Gharbiyya" },
-    coordinates: { lat: 25.7483, lng: 50.755 },
+    coords: [50.755, 25.7483],
     description: {
       de: "Diese westliche Insel der Rubud-Gruppe ist ein wichtiger Lebensraum für Watvögel und andere Meeresbewohner.",
       hu: "A Rubud-csoport nyugati szigete fontos élőhelye a gázlómadaraknak és más tengeri élőlényeknek.",
@@ -191,7 +191,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-umm-an-nasan-nature-v2",
     type: "landmark",
     name: { de: "Umm an Nasan", hu: "Umm an Nasan", ro: "Umm an Nasan", en: "Umm an Nasan" },
-    coordinates: { lat: 26.1417, lng: 50.4083 },
+    coords: [50.4083, 26.1417],
     description: {
       de: "Umm an Nasan ist die viertgrößte Insel Bahrains und dient als privates Rückzugsgebiet mit bedeutenden Gärten.",
       hu: "Umm an Nasan Bahrein negyedik legnagyobb szigete, amely magánterületként és fontos kertészetként szolgál.",
@@ -222,7 +222,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-jidda-island-nature-v2",
     type: "landmark",
     name: { de: "Jidda-Insel", hu: "Jidda-sziget", ro: "Insula Jidda", en: "Jidda Island" },
-    coordinates: { lat: 26.1953, lng: 50.4022 },
+    coords: [50.4022, 26.1953],
     description: {
       de: "Jidda ist eine kleine Insel westlich von Bahrain, die für ihre markanten Kalksteinklippen bekannt ist.",
       hu: "Jidda egy kis sziget Bahreintől nyugatra, amely jellegzetes mészkőszikláiról ismert.",
@@ -253,7 +253,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-al-jazaer-beach-nature-v2",
     type: "landmark",
     name: { de: "Al Jazaer Strand", hu: "Al Jazaer strand", ro: "Plaja Al Jazaer", en: "Al Jazaer Beach" },
-    coordinates: { lat: 25.9861, lng: 50.4633 },
+    coords: [50.4633, 25.9861],
     description: {
       de: "Al Jazaer ist der größte öffentliche Strand Bahrains und bekannt für seine naturbelassene Küstenlinie im Westen.",
       hu: "Al Jazaer Bahrein legnagyobb nyilvános strandja, amely érintetlen nyugati partvonaláról ismert.",
@@ -284,7 +284,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-fasht-al-jarim-nature-v2",
     type: "wildlife",
     name: { de: "Fasht al Jarim", hu: "Fasht al Jarim", ro: "Fasht al Jarim", en: "Fasht al Jarim" },
-    coordinates: { lat: 26.5, lng: 50.5 },
+    coords: [50.5, 26.5],
     description: {
       de: "Fasht al Jarim ist ein großes Korallenriff nördlich der Hauptinsel, das bei Ebbe teilweise trockenfällt.",
       hu: "Fasht al Jarim egy hatalmas korallzátony a főszigettől északra, amely apálykor részben szárazra kerül.",
@@ -315,7 +315,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-wadi-al-buhair-nature-v2",
     type: "valley",
     name: { de: "Wadi al Buhair", hu: "Wadi al Buhair", ro: "Wadi al Buhair", en: "Wadi al Buhair" },
-    coordinates: { lat: 26.1425, lng: 50.5656 },
+    coords: [50.5656, 26.1425],
     description: {
       de: "Wadi al Buhair ist eines der wenigen Täler Bahrains, das für seine einzigartigen Felsformationen bekannt ist.",
       hu: "Wadi al Buhair Bahrein azon kevés völgyeinek egyike, amely egyedi sziklaformációiról ismert.",
@@ -346,7 +346,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-ras-al-bar-nature-v2",
     type: "landmark",
     name: { de: "Ras Al Bar", hu: "Ras Al Bar", ro: "Ras Al Bar", en: "Ras Al Bar" },
-    coordinates: { lat: 25.795, lng: 50.5483 },
+    coords: [50.5483, 25.795],
     description: {
       de: "Ras Al Bar ist die südlichste Landspitze der Hauptinsel Bahrain und markiert das Ende der Wüstenlandschaft.",
       hu: "Ras Al Bar Bahrein főszigetének legdélebbi csücske, ahol a sivatagi táj eléri a tengert.",
@@ -377,7 +377,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-umm-jalid-island-nature-v2",
     type: "wildlife",
     name: { de: "Umm Jalid", hu: "Umm Jalid", ro: "Umm Jalid", en: "Umm Jalid" },
-    coordinates: { lat: 25.76, lng: 50.69 },
+    coords: [50.69, 25.76],
     description: {
       de: "Umm Jalid ist eine kleine, unbewohnte Insel im Hawar-Archipel, die primär von Vögeln genutzt wird.",
       hu: "Umm Jalid egy kicsi, lakatlan sziget a Hawar-szigetcsoportban, amelyet főként madarak laknak.",
@@ -408,7 +408,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-bu-saadah-island-nature-v2",
     type: "landmark",
     name: { de: "Bu Sa'adah", hu: "Bu Sa'adah", ro: "Bu Sa'adah", en: "Bu Sa'adah" },
-    coordinates: { lat: 25.725, lng: 50.71 },
+    coords: [50.71, 25.725],
     description: {
       de: "Bu Sa'adah ist eine der kleineren Inseln der Hawar-Gruppe und bekannt für ihre Ruhe und Abgeschiedenheit.",
       hu: "Bu Sa'adah a Hawar-csoport egyik kisebb szigete, amely nyugalmáról és elszigeteltségéről ismert.",
@@ -439,7 +439,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-jazirat-al-hamra-nature-v2",
     type: "landmark",
     name: { de: "Jazirat al Hamra", hu: "Jazirat al Hamra", ro: "Jazirat al Hamra", en: "Jazirat al Hamra" },
-    coordinates: { lat: 25.73, lng: 50.84 },
+    coords: [50.84, 25.73],
     description: {
       de: "Jazirat al Hamra ist eine kleine Insel im Osten des Hawar-Archipels mit charakteristisch rötlichem Boden.",
       hu: "Jazirat al Hamra egy kis sziget a Hawar-szigetcsoport keleti részén, jellegzetes vöröses talajjal.",
@@ -470,7 +470,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-ras-al-qulayah-nature-v2",
     type: "landmark",
     name: { de: "Ras al Qulayah", hu: "Ras al Qulayah", ro: "Ras al Qulayah", en: "Ras al Qulayah" },
-    coordinates: { lat: 26.21, lng: 50.65 },
+    coords: [50.65, 26.21],
     description: {
       de: "Ras al Qulayah ist ein Küstenabschnitt, der für seine strategische Lage und die natürlichen Hafenbedingungen bekannt ist.",
       hu: "Ras al Qulayah egy tengerparti szakasz, amely stratégiai elhelyezkedéséről és természetes kikötőiről ismert.",
@@ -501,7 +501,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-khor-al-qulayah-nature-v2",
     type: "wildlife",
     name: { de: "Khor al Qulayah", hu: "Khor al Qulayah", ro: "Khor al Qulayah", en: "Khor al Qulayah" },
-    coordinates: { lat: 26.19, lng: 50.62 },
+    coords: [50.62, 26.19],
     description: {
       de: "Khor al Qulayah ist eine geschützte Meeresbucht, die als wichtiger Lebensraum für Fische und Krebstiere dient.",
       hu: "Khor al Qulayah egy védett tengeröböl, amely halak és rákfélék fontos élőhelyeként szolgál.",
@@ -532,7 +532,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-jazirat-al-shajirah-nature-v2",
     type: "landmark",
     name: { de: "Jazirat al Shajirah", hu: "Jazirat al Shajirah", ro: "Jazirat al Shajirah", en: "Jazirat al Shajirah" },
-    coordinates: { lat: 25.77, lng: 50.7 },
+    coords: [50.7, 25.77],
     description: {
       de: "Diese kleine Insel im Hawar-Archipel zeichnet sich durch ihre isolierte Lage und felsige Bodenstruktur aus.",
       hu: "Ez a kis sziget a Hawar-szigetcsoportban izolált elhelyezkedéséről és sziklás talajáról ismert.",
@@ -563,7 +563,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-umm-al-shajar-nature-v2",
     type: "landmark",
     name: { de: "Umm al Shajar", hu: "Umm al Shajar", ro: "Umm al Shajar", en: "Umm al Shajar" },
-    coordinates: { lat: 26.21, lng: 50.72 },
+    coords: [50.72, 26.21],
     description: {
       de: "Umm al Shajar ist eine Insel, die für ihre spärliche Vegetation und ihre Rolle als Nistplatz bekannt ist.",
       hu: "Umm al Shajar egy sziget, amely ritkás növényzetéről és fészkelőhelyként betöltött szerepéről ismert.",
@@ -594,7 +594,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-fasht-al-dibal-nature-v2",
     type: "wildlife",
     name: { de: "Fasht al Dibal", hu: "Fasht al Dibal", ro: "Fasht al Dibal", en: "Fasht al Dibal" },
-    coordinates: { lat: 26.27, lng: 50.93 },
+    coords: [50.93, 26.27],
     description: {
       de: "Fasht al Dibal ist ein großes Korallenriff und eine Gezeiteninsel zwischen Bahrain und Katar.",
       hu: "Fasht al Dibal egy hatalmas korallzátony és árapály-sziget Bahrein és Katar között.",
@@ -625,7 +625,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-ras-mumlihah-nature-v2",
     type: "landmark",
     name: { de: "Ras Mumlihah", hu: "Ras Mumlihah", ro: "Ras Mumlihah", en: "Ras Mumlihah" },
-    coordinates: { lat: 25.95, lng: 50.5 },
+    coords: [50.5, 25.95],
     description: {
       de: "Ras Mumlihah ist ein Küstenvorsprung im Südwesten von Bahrain, geprägt von Salzebenen und Wüste.",
       hu: "Ras Mumlihah egy tengerparti kiszögellés Bahrein délnyugati részén, sós síkságok és sivatag jellemzi.",
@@ -656,7 +656,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-najwat-bulthamah-nature-v2",
     type: "wildlife",
     name: { de: "Najwat Bulthamah", hu: "Najwat Bulthamah", ro: "Najwat Bulthamah", en: "Najwat Bulthamah" },
-    coordinates: { lat: 26.8, lng: 50.9 },
+    coords: [50.9, 26.8],
     description: {
       de: "Najwat Bulthamah ist ein abgelegenes Meeresriff im Norden, bekannt für seine exzellente Wasserqualität.",
       hu: "Najwat Bulthamah egy távoli tengeri zátony északon, amely kiváló vízminőségéről ismert.",
@@ -687,7 +687,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-hayr-shariyah-nature-v2",
     type: "wildlife",
     name: { de: "Hayr Shariyah", hu: "Hayr Shariyah", ro: "Hayr Shariyah", en: "Hayr Shariyah" },
-    coordinates: { lat: 26.65, lng: 50.75 },
+    coords: [50.75, 26.65],
     description: {
       de: "Hayr Shariyah ist ein traditionelles Perlenriff, das Teil des UNESCO-gelisteten Perlenpfads im Meer ist.",
       hu: "Hayr Shariyah egy hagyományos gyöngyhalász zátony, amely az UNESCO gyöngyút tengeri részét képezi.",
@@ -718,7 +718,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-bu-thaur-island-nature-v2",
     type: "landmark",
     name: { de: "Bu Thaur", hu: "Bu Thaur", ro: "Bu Thaur", en: "Bu Thaur" },
-    coordinates: { lat: 25.7, lng: 50.73 },
+    coords: [50.73, 25.7],
     description: {
       de: "Bu Thaur ist eine unbewohnte Insel im südlichen Hawar-Archipel mit einer flachen, sandigen Topografie.",
       hu: "Bu Thaur egy lakatlan sziget a déli Hawar-szigetcsoportban, lapos, homokos felszínnel.",
@@ -749,7 +749,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-jazirat-al-khisifah-nature-v2",
     type: "landmark",
     name: { de: "Jazirat al Khisifah", hu: "Jazirat al Khisifah", ro: "Jazirat al Khisifah", en: "Jazirat al Khisifah" },
-    coordinates: { lat: 25.74, lng: 50.85 },
+    coords: [50.85, 25.74],
     description: {
       de: "Jazirat al Khisifah ist eine kleine Felseninsel im Hawar-Archipel, die für ihre raue Küstenlinie bekannt ist.",
       hu: "Jazirat al Khisifah egy kis sziklás sziget a Hawar-szigetcsoportban, amely zord partvonaláról ismert.",
@@ -780,7 +780,7 @@ export const bahrainNatureV2: POI[] = [
     id: "bahrain-al-hazm-plateau-nature-v2",
     type: "mountain",
     name: { de: "Al Hazm Plateau", hu: "Al Hazm-fennsík", ro: "Podișul Al Hazm", en: "Al Hazm Plateau" },
-    coordinates: { lat: 26.02, lng: 50.53 },
+    coords: [50.53, 26.02],
     description: {
       de: "Das Al Hazm Plateau ist eine erhöhte Wüstenlandschaft nahe des Jabal ad-Dukhan mit weiten Ausblicken.",
       hu: "Az Al Hazm-fennsík egy megemelt sivatagi terület a Jabal ad-Dukhan közelében, tágas kilátással.",

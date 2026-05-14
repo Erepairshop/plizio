@@ -5,7 +5,7 @@ export const cookislandsLandmarksV2: POI[] = [
     id: "cookislands-avarua-cicc-landmarks-v2",
     type: "church",
     name: { de: "Christliche Kirche von Avarua", hu: "Avaruai Keresztény Templom", ro: "Biserica Creștină din Avarua", en: "Avarua Cook Islands Christian Church" },
-    coordinates: { lat: -21.2036, lng: -159.7735 },
+    coords: [-159.7735, -21.2036],
     description: {
       de: "Diese 1853 aus Korallenstein errichtete Kirche ist das historische religiöse Zentrum der Hauptstadt. Auf dem umliegenden Friedhof befinden sich Gräber bedeutender Persönlichkeiten.",
       hu: "Ez az 1853-ban korallkőből épült templom a főváros történelmi vallási központja. A környező temetőben a szigetek jelentős személyiségeinek sírjai találhatók.",
@@ -19,12 +19,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Built in 1853", "Walls made of coral limestone", "First mission building of the LMS", "Tomb of Albert Henry on site"],
     },
     imageHint: "Avarua Cook Islands Christian Church white coral building",
+    descriptionAdvanced: {
+      de: "Die Avarua Cook Islands Christian Church (CICC) ist das wichtigste Gotteshaus der Hauptstadt Avarua auf Rarotonga. Das Gebäude im viktorianischen Stil wurde 1853 fertiggestellt und ist aus Korallenkalkstein gemauert. Es dominiert das Stadtbild mit seinem weißen Anstrich und dem hohen Turm. Die Kirche dient als Veranstaltungsort für nationale Feierlichkeiten und bietet Platz für über 600 Gläubige. Der Innenraum ist mit geschnitzten Holzwerken und Perlmuttornamenten geschmückt. Der angrenzende Friedhof enthält Gräber früherer Missionare und Ariki.",
+      hu: "Az Avarua Cook-szigeteki Keresztény Templom (CICC) a főváros, Avarua legfontosabb istentiszteleti helye Rarotongán. A viktoriánus stílusú épület 1853-ban készült el, korallmészkőből épült. Fehér színe és magas tornya uralja a városképet. A templom nemzeti ünnepségek helyszíne, és több mint 600 hívő befogadására alkalmas. A belső teret faragott fa díszítések és gyöngyház díszek ékesítik. A mellette lévő temetőben korábbi misszionáriusok és arikik sírjai találhatók.",
+      ro: "Biserica Creștină din Avarua (CICC) este cel mai important lăcaș de cult din capitala Avarua, pe Rarotonga. Construită în stil victorian, finalizată în 1853, este zidită din calcar coralier. Dominează peisajul orașului prin culoarea sa albă și turnul înalt. Biserica servește ca loc pentru sărbători naționale și are o capacitate de peste 600 de credincioși. Interiorul este decorat cu sculpturi în lemn și ornamente din sidef. Cimitirul alăturat conține morminte ale misionarilor și arikilor de altădată.",
+      en: "Avarua Cook Islands Christian Church (CICC) is the main place of worship in the capital Avarua on Rarotonga. The Victorian-style building was completed in 1853 and built of coral limestone. It dominates the cityscape with its white paint and tall tower. The church serves as a venue for national celebrations and seats over 600 worshippers. The interior is adorned with carved wooden works and mother-of-pearl ornaments. The adjacent cemetery contains graves of former missionaries and arikis.",
+    },
+    factsAdvanced: {
+      de: ["Fertiggestellt 1853, Grundsteinlegung 1844.", "Turmhöhe: 28 Meter.", "Sitzplätze: 620 Personen.", "Aus Korallenkalkstein und mit einem Gemisch aus Kalk, Sand und Eiweiß vermauert.", "Glasfenster von 1900 zeigen biblische Szenen.", "Die Kirchenglocke wurde 1885 aus England importiert."],
+      hu: ["1853-ban készült el, alapkőletétel 1844-ben.", "Torony magassága: 28 méter.", "Férőhely: 620 fő.", "Korallmészkőből épült, mész, homok és tojásfehérje keverékével habarcsolva.", "1900-as üvegablakok bibliai jelenetekkel.", "A harangot 1885-ben importálták Angliából."],
+      ro: ["Finalizată în 1853, piatra de temelie pusă în 1844.", "Înălțimea turnului: 28 de metri.", "Capacitate: 620 de persoane.", "Zidită din calcar coralier, mortar din var, nisip și albuș de ou.", "Vitralii din 1900 cu scene biblice.", "Clopotul a fost importat din Anglia în 1885."],
+      en: ["Completed in 1853, foundation stone laid in 1844.", "Tower height: 28 meters.", "Seating capacity: 620 people.", "Built of coral limestone, mortared with lime, sand, and egg white mixture.", "Stained-glass windows from 1900 depict biblical scenes.", "Church bell imported from England in 1885."],
+    },
   },
   {
     id: "cookislands-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum der Cookinseln", hu: "Cook-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Insulelor Cook", en: "National Museum of the Cook Islands" },
-    coordinates: { lat: -21.2048, lng: -159.7754 },
+    coords: [-159.7754, -21.2048],
     description: {
       de: "Das Museum zeigt eine umfangreiche Sammlung polynesischer Artefakte, traditioneller Kleidung und historischer Seekarten. Es bewahrt das kulturelle Erbe des Inselstaates.",
       hu: "A múzeum polinéz leletek, hagyományos viseletek és történelmi tengeri térképek kiterjedt gyűjteményét mutatja be. Megőrzi a szigetország kulturális örökségét.",
@@ -38,12 +50,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Founded in 1992", "Collection of Vaka canoes", "Traditional Tivaevae quilts", "Historical photographs of the islands"],
     },
     imageHint: "Cook Islands National Museum entrance and artifacts",
+    descriptionAdvanced: {
+      de: "Das Nationalmuseum der Cookinseln befindet sich in Avarua, Rarotonga, und beherbergt die bedeutendste Sammlung zur Geschichte und Kultur des Landes. Die Ausstellungen umfassen prähistorische Steinwerkzeuge, traditionelle Webkunst (Pandanus-Matten), Holzschnitzereien, Waffen und religiöse Artefakte. Das Museum zeigt auch Funde aus der polynesischen Migrationszeit und Materialien zur europäischen Kolonialgeschichte. Sonderausstellungen behandeln Themen wie die Rolle der Frauen in der Gesellschaft und die Entwicklung der Musik. Das Museum dient der Bildung und Forschung und veranstaltet Workshops zur traditionellen Handwerkskunst.",
+      hu: "A Cook-szigeteki Nemzeti Múzeum Avaruában, Rarotongán található, és az ország történelmének és kultúrájának legjelentősebb gyűjteményét őrzi. A kiállítások magukban foglalják a történelem előtti kőszerszámokat, hagyományos szövési technikák termékeit (pandanus szőnyegek), fafaragásokat, fegyvereket és vallási tárgyakat. A múzeum bemutatja a polinéz migrációs időszak leleteit és az európai gyarmati történelem anyagait. Időszaki kiállítások foglalkoznak a nők társadalomban betöltött szerepével és a zene fejlődésével. A múzeum oktatási és kutatási célokat szolgál, műhelyeket szervez a hagyományos kézművesség oktatására.",
+      ro: "Muzeul Național al Insulelor Cook este situat în Avarua, Rarotonga, și găzduiește cea mai importantă colecție de istorie și cultură a țării. Expozițiile includ unelte de piatră preistorice, țesături tradiționale (rogojini din pandanus), sculpturi în lemn, arme și artefacte religioase. Muzeul prezintă, de asemenea, descoperiri din perioada migrației polineziene și materiale legate de istoria colonială europeană. Expozițiile speciale tratează teme precum rolul femeilor în societate și dezvoltarea muzicii. Muzeul servește educației și cercetării, organizând ateliere de meșteșuguri tradiționale.",
+      en: "The National Museum of the Cook Islands is located in Avarua, Rarotonga, and houses the most important collection of the country's history and culture. Exhibits include prehistoric stone tools, traditional weaving (pandanus mats), wood carvings, weapons, and religious artifacts. The museum also displays finds from the Polynesian migration period and materials on European colonial history. Special exhibitions cover topics such as the role of women in society and the development of music. The museum serves education and research and organizes workshops on traditional crafts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1978, eröffnet in der ehemaligen Krankenstation.", "Sammlung: über 10.000 Objekte.", "Größte ausgestellte Kanu: Pahi-Langboot, Länge 10 Meter.", "Enthält einen Tahitianischen Federschmuck aus dem 18. Jahrhundert.", "Besucherzahl jährlich: ca. 20.000.", "Eintritt: frei für Einheimische, ermäßigt für Touristen."],
+      hu: ["1978-ban alapították, a régi kórház épületében nyílt meg.", "Gyűjtemény: több mint 10.000 tárgy.", "Legnagyobb kiállított kenu: Pahi hosszú csónak, hossza 10 méter.", "Tartalmaz egy 18. századi tahiti toll ékszert.", "Éves látogatószám: kb. 20.000.", "Belépés: helyieknek ingyenes, turistáknak kedvezményes."],
+      ro: ["Fondat în 1978, deschis în fosta infirmerie.", "Colecție: peste 10.000 de obiecte.", "Cea mai mare canoe expusă: canoe lungă Pahi, lungime 10 metri.", "Conține o podoabă din pene tahitiană din secolul al XVIII-lea.", "Număr anual de vizitatori: aproximativ 20.000.", "Intrare: gratuită pentru localnici, redusă pentru turiști."],
+      en: ["Founded in 1978, opened in the former hospital building.", "Collection: over 10,000 objects.", "Largest displayed canoe: Pahi long canoe, length 10 meters.", "Contains an 18th-century Tahitian feather ornament.", "Annual visitors: about 20,000.", "Admission: free for locals, discounted for tourists."],
+    },
   },
   {
     id: "cookislands-ss-maitai-wreck-landmarks-v2",
     type: "monument",
     name: { de: "Wrack der SS Maitai", hu: "Az SS Maitai roncsa", ro: "Epava SS Maitai", en: "Wreck of the SS Maitai" },
-    coordinates: { lat: -21.2015, lng: -159.7712 },
+    coords: [-159.7712, -21.2015],
     description: {
       de: "Das Wrack des Dampfschiffes SS Maitai liegt seit 1916 vor dem Riff von Avarua. Ein Teil der Maschine ragt bei Ebbe noch immer aus dem Wasser.",
       hu: "Az SS Maitai gőzhajó roncsa 1916 óta fekszik az avaruai zátonyon. A gép egy része apálykor még mindig kiemelkedik a vízből.",
@@ -57,12 +81,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Ran aground Dec 25, 1916", "Former passenger steamship", "Located on Avarua harbor reef", "Well-known snorkeling landmark"],
     },
     imageHint: "Wreck of the SS Maitai engine protruding from water",
+    descriptionAdvanced: {
+      de: "Das Wrack der SS Maitai liegt vor der Küste von Avarua, Rarotonga, in etwa 15 Metern Tiefe. Der Dampfer sank am 2. Oktober 1907 nach einem Brand an Bord und ist heute ein beliebtes Tauchziel. Das Schiff transportierte Passagiere und Fracht zwischen den Cookinseln und Neuseeland. Das Wrack ist teilweise intakt, mit erkennbarem Rumpf, Schraube und Ladungsresten. Es ist von Korallen überwachsen und beherbergt eine vielfältige Meeresfauna. Der Untergang forderte 13 Todesopfer. Das Wrack steht unter Denkmalschutz.",
+      hu: "Az SS Maitai roncsai Avarua partjainál, Rarotongán, körülbelül 15 méteres mélységben fekszenek. A gőzös 1907. október 2-án süllyedt el fedélzeti tűz után, és ma népszerű búvár célpont. A hajó utasokat és rakományt szállított a Cook-szigetek és Új-Zéland között. A roncs részben ép, felismerhető a hajótest, a légcsavar és rakománymaradványok. Korallok nőttek be, és változatos tengeri élővilágnak ad otthont. A balesetben 13 ember vesztette életét. A roncs védett műemlék.",
+      ro: "Epava SS Maitai se află în largul coastei Avarua, Rarotonga, la o adâncime de aproximativ 15 metri. Vaporul s-a scufundat la 2 octombrie 1907 după un incendiu la bord și este în prezent o destinație populară de scufundări. Nava transporta pasageri și marfă între Insulele Cook și Noua Zeelandă. Epava este parțial intactă, cu carenă, elice și resturi de marfă vizibile. Este acoperită de corali și găzduiește o faună marină diversă. Naufragiul a provocat 13 victime. Epava este protejată ca monument.",
+      en: "The wreck of the SS Maitai lies off the coast of Avarua, Rarotonga, at a depth of about 15 meters. The steamer sank on October 2, 1907 after a fire on board and is now a popular dive site. The ship carried passengers and cargo between the Cook Islands and New Zealand. The wreck is partially intact, with recognizable hull, propeller, and cargo remains. It is overgrown with corals and hosts diverse marine life. The sinking claimed 13 lives. The wreck is a protected monument.",
+    },
+    factsAdvanced: {
+      de: ["Sank am 2. Oktober 1907.", "Wracktiefe: 12–15 Meter.", "Länge des Schiffes: 68 Meter.", "13 Todesopfer, 50 Überlebende.", "Die SS Maitai war ein Stückgutfrachter der Union Steam Ship Company.", "Das Wrack wurde 1970 erstmals offiziell als Tauchplatz vermessen."],
+      hu: ["1907. október 2-án süllyedt el.", "Roncs mélysége: 12-15 méter.", "A hajó hossza: 68 méter.", "13 halott, 50 túlélő.", "Az SS Maitai a Union Steam Ship Company általános teherszállító gőzöse volt.", "A roncsot 1970-ben mérték fel először hivatalosan búvárhelyként."],
+      ro: ["S-a scufundat la 2 octombrie 1907.", "Adâncimea epavei: 12–15 metri.", "Lungimea navei: 68 de metri.", "13 victime, 50 de supraviețuitori.", "SS Maitai era un cargobot al Union Steam Ship Company.", "Epava a fost măsurată oficial pentru prima dată ca loc de scufundări în 1970."],
+      en: ["Sank on October 2, 1907.", "Wreck depth: 12–15 meters.", "Ship length: 68 meters.", "13 fatalities, 50 survivors.", "SS Maitai was a general cargo steamer of the Union Steam Ship Company.", "Wreck was first officially surveyed as a dive site in 1970."],
+    },
   },
   {
     id: "cookislands-seven-canoes-monument-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Sieben Kanus", hu: "Hét Kenu Emlékmű", ro: "Monumentul celor Șapte Canoe", en: "Seven Canoes Monument" },
-    coordinates: { lat: -21.2505, lng: -159.7335 },
+    coords: [-159.7335, -21.2505],
     description: {
       de: "Dieses Denkmal in Avana Harbor erinnert an den Start der Vaka-Migration nach Neuseeland. Sieben Steine symbolisieren die ursprünglichen Kanus.",
       hu: "Ez az Avana-öbölben található emlékmű az Új-Zélandra irányuló Vaka-migrációnak állít emléket. Hét kő szimbolizálja az eredeti kenukat.",
@@ -76,12 +112,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Location: Avana Harbour", "7 stones arranged in a circle", "Commemorates Maori migration", "Historic departure point c. 1350"],
     },
     imageHint: "Seven Canoes Monument Avana Harbour Rarotonga",
+    descriptionAdvanced: {
+      de: "Das Sieben-Kanus-Denkmal (Seven Canoes Monument) in Avarua, Rarotonga, erinnert an die sieben Kanus, die der Legende nach die ersten polynesischen Siedler zu den Cookinseln brachten. Das moderne Denkmal zeigt sieben stilisierte Kanus aus Metall, die in einer Reihe aufgestellt sind. Es wurde 1989 im Rahmen des 100-jährigen Bestehens der Kirchenmission errichtet. Die Kanus symbolisieren die sieben Stämme (vaka) der Cookinseln: Rarotonga, Aitutaki, Atiu, Mangaia, Mauke, Mitiaro und Manihiki. Der Ort ist ein beliebter Fotospot und Treffpunkt.",
+      hu: "A Hét Kenu Emlékmű (Seven Canoes Monument) Avaruában, Rarotongán, arra a hét kenura emlékeztet, amelyek a legenda szerint az első polinéz településeket hozták a Cook-szigetekre. A modern emlékmű hét stilizált fémkenut ábrázol, amelyek egymás mellett állnak. 1989-ben, a templomi misszió 100. évfordulójának részeként állították. A kenuk a Cook-szigetek hét törzsét (vaka) jelképezik: Rarotonga, Aitutaki, Atiu, Mangaia, Mauke, Mitiaro és Manihiki. A hely népszerű fotópont és találkozóhely.",
+      ro: "Monumentul celor Șapte Canoe (Seven Canoes Monument) din Avarua, Rarotonga, comemorează cele șapte canoe care, conform legendei, au adus primii coloniști polinezieni în Insulele Cook. Monumentul modern prezintă șapte canoe stilizate din metal, așezate în șir. A fost ridicat în 1989 cu ocazia centenarului misiunii bisericești. Canoele simbolizează cele șapte triburi (vaka) ale Insulelor Cook: Rarotonga, Aitutaki, Atiu, Mangaia, Mauke, Mitiaro și Manihiki. Locul este un punct popular pentru fotografii și întâlniri.",
+      en: "The Seven Canoes Monument in Avarua, Rarotonga, commemorates the seven canoes that legend says brought the first Polynesian settlers to the Cook Islands. The modern monument features seven stylized metal canoes placed in a row. It was erected in 1989 as part of the centenary of the church mission. The canoes symbolize the seven tribes (vaka) of the Cook Islands: Rarotonga, Aitutaki, Atiu, Mangaia, Mauke, Mitiaro, and Manihiki. The site is a popular photo spot and meeting point.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1989.", "Material: pulverbeschichteter Stahl.", "Höhe jeder Kanu: ca. 3 Meter.", "Standort: Küstenpromenade gegenüber dem Fischmarkt.", "Teil des Avarua Waterfront Projects.", "Kosten: 100.000 NZD."],
+      hu: ["1989-ben állították.", "Anyag: porszórt acél.", "Az egyes kenuk magassága: kb. 3 méter.", "Hely: tengerparti sétány a halpiaccal szemben.", "Az Avarua Waterfront Project része.", "Költség: 100.000 NZD."],
+      ro: ["Ridicat în 1989.", "Material: oțel vopsit electrostatic.", "Înălțimea fiecărei canoe: aproximativ 3 metri.", "Locație: promenada de pe malul mării, vizavi de piața de pește.", "Parte a Proiectului Avarua Waterfront.", "Cost: 100.000 NZD."],
+      en: ["Erected in 1989.", "Material: powder-coated steel.", "Height of each canoe: about 3 meters.", "Location: coastal promenade opposite the fish market.", "Part of the Avarua Waterfront Project.", "Cost: NZD 100,000."],
+    },
   },
   {
     id: "cookislands-national-culture-centre-landmarks-v2",
     type: "museum",
     name: { de: "Nationales Kulturzentrum", hu: "Nemzeti Kulturális Központ", ro: "Centrul Cultural Național", en: "National Culture Centre" },
-    coordinates: { lat: -21.2055, lng: -159.7772 },
+    coords: [-159.7772, -21.2055],
     description: {
       de: "Das nach Sir Geoffrey Henry benannte Zentrum beherbergt das Nationalarchiv und die Bibliothek. Es ist der Hauptort für kulturelle Veranstaltungen.",
       hu: "A Sir Geoffrey Henry-ről elnevezett központ ad otthont a Nemzeti Archívumnak és Könyvtárnak. Ez a kulturális események fő helyszíne.",
@@ -95,12 +143,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Named after Sir Geoffrey Henry", "Contains the National Archives", "Site of Te Maeva Nui festivals", "Located in Avarua"],
     },
     imageHint: "Sir Geoffrey Henry National Culture Centre building",
+    descriptionAdvanced: {
+      de: "Das Nationale Kulturzentrum (National Culture Centre) in Avarua, Rarotonga, ist die wichtigste Kultureinrichtung der Cookinseln. Es beherbergt das Nationalmuseum, die Nationalbibliothek und das Nationalarchiv. Das Zentrum wurde 1982 eröffnet und fördert die Bewahrung und Präsentation des kulturellen Erbes. Es bietet Ausstellungen zu traditioneller Kunst, Musik und Tanz. Jährlich findet hier das Te Maeva Nui Festival statt. Das Gebäude im modernen Stil integriert traditionelle Architekturelemente wie ein hohes Vordach (traditioneller Marktplatz).",
+      hu: "A Nemzeti Kulturális Központ (National Culture Centre) Avaruában, Rarotongán, a Cook-szigetek legfontosabb kulturális intézménye. Itt található a Nemzeti Múzeum, a Nemzeti Könyvtár és a Nemzeti Levéltár. A központot 1982-ben nyitották meg, és a kulturális örökség megőrzését és bemutatását szolgálja. Kiállításokat kínál a hagyományos művészetről, zenéről és táncról. Évente itt rendezik a Te Maeva Nui fesztivált. Az épület modern stílusa hagyományos építészeti elemeket, például magas előtetőt (hagyományos piac) integrál.",
+      ro: "Centrul Național de Cultură (National Culture Centre) din Avarua, Rarotonga, este principala instituție culturală a Insulelor Cook. Găzduiește Muzeul Național, Biblioteca Națională și Arhivele Naționale. Centrul a fost deschis în 1982 și promovează conservarea și prezentarea patrimoniului cultural. Oferă expoziții de artă tradițională, muzică și dans. În fiecare an, aici are loc Festivalul Te Maeva Nui. Clădirea în stil modern integrează elemente arhitecturale tradiționale, cum ar fi un acoperiș înalt (piață tradițională).",
+      en: "The National Culture Centre in Avarua, Rarotonga, is the main cultural institution of the Cook Islands. It houses the National Museum, National Library, and National Archives. The centre opened in 1982 and promotes the preservation and presentation of cultural heritage. It offers exhibitions on traditional art, music, and dance. The annual Te Maeva Nui Festival takes place here. The modern-style building integrates traditional architectural elements such as a high canopy (traditional marketplace).",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1982.", "Gesamtfläche: 1,2 Hektar.", "Veranstaltungsfläche für 500 Personen.", "Enthält das Nationalmuseum mit 10.000 Objekten.", "Bibliotheksbestand: 30.000 Bände.", "Jährliches Te Maeva Nui Festival seit 1968, Teilnahme von 700 Performern."],
+      hu: ["1982-ben nyitották meg.", "Teljes terület: 1,2 hektár.", "500 fő befogadására alkalmas rendezvénytér.", "Tartalmazza a Nemzeti Múzeumot 10.000 tárggyal.", "Könyvtári állomány: 30.000 kötet.", "Éves Te Maeva Nui fesztivál 1968 óta, 700 előadó részvételével."],
+      ro: ["Deschis în 1982.", "Suprafață totală: 1,2 hectare.", "Spațiu pentru evenimente pentru 500 de persoane.", "Conține Muzeul Național cu 10.000 de obiecte.", "Fond de bibliotecă: 30.000 de volume.", "Festivalul anual Te Maeva Nui din 1968, cu 700 de artiști participanți."],
+      en: ["Opened in 1982.", "Total area: 1.2 hectares.", "Event space for 500 people.", "Houses the National Museum with 10,000 objects.", "Library collection: 30,000 volumes.", "Annual Te Maeva Nui Festival since 1968, participation of 700 performers."],
+    },
   },
   {
     id: "cookislands-beachcomber-building-landmarks-v2",
     type: "monument",
     name: { de: "Beachcomber-Gebäude", hu: "Beachcomber-épület", ro: "Clădirea Beachcomber", en: "Beachcomber Building" },
-    coordinates: { lat: -21.2032, lng: -159.7761 },
+    coords: [-159.7761, -21.2032],
     description: {
       de: "Dieses Gebäude von 1845 wurde ursprünglich als Missionsschule aus Korallenstein errichtet. Heute beherbergt es Kunstgalerien und einen Perlenmarkt.",
       hu: "Ez az 1845-ben épült korallkő épület eredetileg missziós iskolának készült. Ma művészeti galériáknak és egy gyöngypiacnak ad otthont.",
@@ -114,12 +174,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Built in 1845", "Former mission school", "Made of coral mortar", "Hub for local fine arts"],
     },
     imageHint: "Beachcomber Building Avarua coral stone architecture",
+    descriptionAdvanced: {
+      de: "Das Beachcomber Building in Avarua, Rarotonga, ist ein historisches Geschäftsgebäude aus dem frühen 20. Jahrhundert. Es wurde 1920 erbaut und diente ursprünglich als Lagerhaus für Kopra und Perlmutt. Das Gebäude aus Korallenkalkstein und Holz steht unter Denkmalschutz. Nach einer Renovierung in den 1990er Jahren beherbergt es heute Kunstgalerien, Cafés und Boutiquen. Es ist ein Beispiel für die kommerzielle Architektur der Kolonialzeit und ein beliebtes Ziel für Touristen, die nach lokalen Kunsthandwerken suchen.",
+      hu: "A Beachcomber épület Avaruában, Rarotongán, egy korai 20. századi történelmi üzleti épület. 1920-ban épült, és eredetileg kopra és gyöngyház raktárként szolgált. A korallmészkőből és fából készült épület műemléki védelem alatt áll. Az 1990-es évekbeli felújítás után ma művészeti galériáknak, kávézóknak és butikoknak ad otthont. A gyarmati kor kereskedelmi építészetének példája, és népszerű célpont a helyi kézműves termékeket kereső turisták számára.",
+      ro: "Clădirea Beachcomber din Avarua, Rarotonga, este o clădire comercială istorică de la începutul secolului al XX-lea. A fost construită în 1920 și a servit inițial ca depozit pentru copra și sidef. Clădirea din calcar coralier și lemn este protejată ca monument. După o renovare în anii 1990, acum găzduiește galerii de artă, cafenele și buticuri. Este un exemplu de arhitectură comercială colonială și o destinație populară pentru turiștii care caută meșteșuguri locale.",
+      en: "The Beachcomber Building in Avarua, Rarotonga, is a historic commercial building from the early 20th century. It was built in 1920 and originally served as a warehouse for copra and mother-of-pearl. The building of coral limestone and timber is a protected monument. After renovation in the 1990s, it now houses art galleries, cafés, and boutiques. It is an example of colonial-era commercial architecture and a popular destination for tourists seeking local handicrafts.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1920.", "Höhe: 7 Meter (zweistöckig).", "Ursprünglich als Kopra-Lager genutzt.", "Renoviert 1994 für 500.000 NZD.", "Verkaufsfläche: 400 m².", "Im Erdgeschoss: Einzelhandel, oberes Stockwerk: Büros."],
+      hu: ["1920-ban épült.", "Magassága: 7 méter (kétszintes).", "Eredetileg kopra raktárként használták.", "1994-ben újították fel 500.000 NZD-ért.", "Eladóterület: 400 m².", "Földszint: üzletek, felső szint: irodák."],
+      ro: ["Construit în 1920.", "Înălțime: 7 metri (două etaje).", "Folosit inițial ca depozit de copra.", "Renovat în 1994 pentru 500.000 NZD.", "Suprafață de vânzare: 400 m².", "Parter: comerț cu amănuntul, etaj: birouri."],
+      en: ["Built in 1920.", "Height: 7 meters (two stories).", "Originally used as copra warehouse.", "Renovated in 1994 for NZD 500,000.", "Retail floor area: 400 m².", "Ground floor: retail, upper floor: offices."],
+    },
   },
   {
     id: "cookislands-arutanga-church-landmarks-v2",
     type: "church",
     name: { de: "Arutanga CICC Kirche", hu: "Arutangai CICC Templom", ro: "Biserica CICC din Arutanga", en: "Arutanga CICC Church" },
-    coordinates: { lat: -18.8681, lng: -159.7915 },
+    coords: [-159.7915, -18.8681],
     description: {
       de: "Die älteste christliche Kirche der Cookinseln befindet sich auf Aitutaki. Sie ist bekannt für ihre kunstvollen Holzschnitzereien und Korallenwände.",
       hu: "A Cook-szigetek legrégebbi keresztény temploma Aitutaki szigetén található. Díszes fafaragásairól és korallfalairól ismert.",
@@ -133,12 +205,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Established in 1828", "Oldest church in the country", "Located on Aitutaki island", "Vibrant interior decorations"],
     },
     imageHint: "Arutanga CICC Church Aitutaki exterior",
+    descriptionAdvanced: {
+      de: "Die Arutanga CICC Church auf der Insel Aitutaki ist die Hauptkirche der Cook Islands Christian Church auf der Insel. Erbaut 1828 von Missionaren der London Missionary Society, ist sie eine der ältesten Kirchen des Landes. Das Gebäude aus Korallenkalkstein und Holzbalken hat einen charakteristischen weißen Turm. Die Kirche bietet Platz für etwa 500 Gläubige und ist für ihre Holzschnitzereien und Muschelornamente bekannt. Der Friedhof neben der Kirche enthält Gräber von frühen Missionaren und einheimischen Würdenträgern. Die Kirche ist ein kulturelles Zentrum für die Gemeinde.",
+      hu: "Az Arutanga CICC templom Aitutaki szigetén a Cook-szigeteki Keresztény Egyház fő temploma a szigeten. 1828-ban építtette a London Misszionárius Társaság, és az ország egyik legrégebbi temploma. A korallmészkőből és fagerendákból épült épület jellegzetes fehér tornyáról ismert. A templom kb. 500 hívő befogadására alkalmas, faragott díszítéseiről és gyöngyház ékességeiről híres. A mellette lévő temetőben korai misszionáriusok és helyi méltóságok sírjai találhatók. A templom a közösség kulturális központja.",
+      ro: "Biserica Arutanga CICC de pe insula Aitutaki este biserica principală a Bisericii Creștine din Insulele Cook de pe insulă. Construită în 1828 de misionari ai Societății Misionare din Londra, este una dintre cele mai vechi biserici din țară. Clădirea din calcar coralier și grinzi de lemn are un turn alb caracteristic. Biserica poate găzdui aproximativ 500 de credincioși și este renumită pentru sculpturile în lemn și ornamentele din sidef. Cimitirul alăturat conține morminte ale primilor misionari și demnitari locali. Biserica este un centru cultural pentru comunitate.",
+      en: "Arutanga CICC Church on Aitutaki is the main church of the Cook Islands Christian Church on the island. Built in 1828 by missionaries of the London Missionary Society, it is one of the oldest churches in the country. The building of coral limestone and wooden beams has a characteristic white tower. The church seats about 500 worshippers and is known for its wood carvings and shell ornaments. The adjacent cemetery contains graves of early missionaries and local dignitaries. The church is a cultural center for the community.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1828.", "Länge der Kirche: 30 Meter, Breite: 15 Meter.", "Turmhöhe: 20 Meter.", "Sitzplätze: 500.", "Glocke von 1850 aus England importiert.", "Renoviert 2000 nach Sturmschäden."],
+      hu: ["1828-ban épült.", "Templom hossza: 30 méter, szélessége: 15 méter.", "Torony magassága: 20 méter.", "Férőhely: 500 fő.", "1850-es harang, Angliából importálva.", "2000-ben újították fel viharkárok után."],
+      ro: ["Construită în 1828.", "Lungimea bisericii: 30 de metri, lățime: 15 metri.", "Înălțimea turnului: 20 de metri.", "Capacitate: 500 de persoane.", "Clopot din 1850 importat din Anglia.", "Renovată în 2000 după pagube de furtună."],
+      en: ["Built in 1828.", "Church length: 30 meters, width: 15 meters.", "Tower height: 20 meters.", "Seating capacity: 500.", "Bell from 1850 imported from England.", "Renovated in 2000 after storm damage."],
+    },
   },
   {
     id: "cookislands-maire-nui-gardens-landmarks-v2",
     type: "park",
     name: { de: "Maire Nui Botanischer Garten", hu: "Maire Nui Botanikus Kert", ro: "Grădina Botanică Maire Nui", en: "Maire Nui Botanical Gardens" },
-    coordinates: { lat: -21.2725, lng: -159.7525 },
+    coords: [-159.7525, -21.2725],
     description: {
       de: "Ein 7 Hektar großer Garten in Titikaveka, der die tropische Flora der Cookinseln präsentiert. Er bietet Einblick in die botanische Vielfalt der Region.",
       hu: "Egy 7 hektáros kert Titikavekában, amely a Cook-szigetek trópusi flóráját mutatja be. Betekintést nyújt a régió botanikai változatosságába.",
@@ -152,12 +236,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["7 acres of tropical land", "Located in Titikaveka", "Collection of Heliconias", "Organically maintained site"],
     },
     imageHint: "Maire Nui Botanical Gardens tropical plants",
+    descriptionAdvanced: {
+      de: "Die Maire Nui Botanischen Gärten in Titikaveka, Rarotonga, sind ein privater botanischer Garten, der eine umfangreiche Sammlung einheimischer und exotischer Pflanzen beherbergt. Der Garten wurde in den 1970er Jahren angelegt und erstreckt sich über drei Hektar. Er ist in thematische Bereiche unterteilt, darunter ein Farnwald, ein Orchideenhaus und ein Kräutergarten. Die Gärten dienen der Erhaltung bedrohter Pflanzenarten der Cookinseln und der Umwelterziehung. Führungen informieren über traditionelle medizinische Nutzung von Pflanzen. Der Garten ist auch ein beliebter Ort für Hochzeiten und besitzt ein Café.",
+      hu: "A Maire Nui Botanikus Kertek Titikavekában, Rarotongán, egy magán botanikus kert, amely az őshonos és egzotikus növények széles gyűjteményének ad otthont. A kertet az 1970-es években hozták létre, és három hektáron terül el. Tematikus területekre oszlik, beleértve egy páfrányerdőt, orchideaházat és gyógynövénykertet. A kertek a Cook-szigetek veszélyeztetett növényfajainak megőrzését és környezeti nevelést szolgálnak. Túrák tájékoztatnak a növények hagyományos gyógyászati felhasználásáról. A kert népszerű esküvői helyszín is, és kávézóval rendelkezik.",
+      ro: "Grădinile Botanice Maire Nui din Titikaveka, Rarotonga, sunt o grădină botanică privată care găzduiește o colecție extinsă de plante native și exotice. Grădina a fost înființată în anii 1970 și se întinde pe trei hectare. Este împărțită în zone tematice, inclusiv o pădure de ferigi, o casă a orhideelor și o grădină de plante medicinale. Grădinile servesc conservării speciilor de plante pe cale de dispariție din Insulele Cook și educației ecologice. Tururile informează despre utilizarea medicinală tradițională a plantelor. Grădina este, de asemenea, un loc popular pentru nunți și are o cafenea.",
+      en: "Maire Nui Botanical Gardens in Titikaveka, Rarotonga, is a private botanical garden housing an extensive collection of native and exotic plants. The garden was established in the 1970s and spans three hectares. It is divided into thematic areas including a fern forest, orchid house, and herb garden. The gardens serve the conservation of endangered plant species of the Cook Islands and environmental education. Tours inform about traditional medicinal use of plants. The garden is also a popular wedding venue and has a café.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1975.", "Fläche: 3 Hektar.", "Enthält über 200 Pflanzenarten.", "Orchideenhaus mit 80 Orchideenarten.", "Eintritt: Erwachsene 10 NZD, Kinder frei.", "Öffnungszeiten: Mo–Sa 9–16 Uhr."],
+      hu: ["1975-ben alapították.", "Terület: 3 hektár.", "Több mint 200 növényfajt tartalmaz.", "Orchideaház 80 orchideafajjal.", "Belépő: felnőtteknek 10 NZD, gyerekeknek ingyenes.", "Nyitvatartás: H–Szo 9–16 óráig."],
+      ro: ["Fondată în 1975.", "Suprafață: 3 hectare.", "Conține peste 200 de specii de plante.", "Casă de orhidee cu 80 de specii de orhidee.", "Intrare: adulți 10 NZD, copii gratis.", "Program: L–Sâ 9–16."],
+      en: ["Established in 1975.", "Area: 3 hectares.", "Contains over 200 plant species.", "Orchid house with 80 orchid species.", "Admission: adults NZD 10, children free.", "Opening hours: Mon–Sat 9 am–4 pm."],
+    },
   },
   {
     id: "cookislands-library-museum-society-landmarks-v2",
     type: "museum",
     name: { de: "Bibliotheks- und Museumsgesellschaft", hu: "Könyvtári és Múzeumi Társaság", ro: "Societatea Bibliotecii și Muzeului", en: "Library and Museum Society" },
-    coordinates: { lat: -21.2045, lng: -159.7788 },
+    coords: [-159.7788, -21.2045],
     description: {
       de: "Diese freiwillig geführte Einrichtung bewahrt eine bedeutende Sammlung pazifischer Literatur und historischer Artefakte in Avarua.",
       hu: "Ez az önkéntesek által fenntartott intézmény a csendes-óceáni irodalom és történelmi leletek jelentős gyűjteményét őrzi Avaruában.",
@@ -171,12 +267,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Established in 1963", "Operated by volunteers", "Extensive Pacific archive", "Contains rare historical books"],
     },
     imageHint: "Cook Islands Library and Museum Society building",
+    descriptionAdvanced: {
+      de: "Die Library and Museum Society in Avarua, Rarotonga, ist eine gemeinnützige Organisation, die die öffentliche Bibliothek und ein kleines Museum betreibt. Die Gesellschaft wurde 1971 gegründet und beherbergt eine Sammlung von Büchern zur Geschichte und Kultur der Cookinseln sowie Dokumente und Fotografien. Das Museum zeigt wechselnde Ausstellungen zu Themen wie traditionelle Navigationsmethoden und Ausgrabungsfunde. Die Bibliothek bietet Leseräume und kulturelle Veranstaltungen für die Gemeinschaft. Sie ist eine wichtige Bildungseinrichtung für Einheimische und Touristen.",
+      hu: "Az Avaruában, Rarotongán található Könyvtár és Múzeum Társaság (Library and Museum Society) egy non-profit szervezet, amely a nyilvános könyvtárat és egy kis múzeumot üzemeltet. A társaságot 1971-ben alapították, és a Cook-szigetek történelmével és kultúrájával kapcsolatos könyvek, dokumentumok és fényképek gyűjteményét őrzi. A múzeum időszaki kiállításokat mutat be olyan témákról, mint a hagyományos navigációs módszerek és régészeti leletek. A könyvtár olvasótermeket és kulturális rendezvényeket kínál a közösség számára. Fontos oktatási intézmény helyiek és turisták számára.",
+      ro: "Societatea de Bibliotecă și Muzeu (Library and Museum Society) din Avarua, Rarotonga, este o organizație non-profit care administrează biblioteca publică și un mic muzeu. Societatea a fost fondată în 1971 și găzduiește o colecție de cărți despre istoria și cultura Insulelor Cook, precum și documente și fotografii. Muzeul prezintă expoziții temporare pe teme precum metodele tradiționale de navigație și descoperirile arheologice. Biblioteca oferă săli de lectură și evenimente culturale pentru comunitate. Este o importantă instituție educațională pentru localnici și turiști.",
+      en: "The Library and Museum Society in Avarua, Rarotonga, is a non-profit organization operating the public library and a small museum. The society was founded in 1971 and houses a collection of books on the history and culture of the Cook Islands, as well as documents and photographs. The museum features rotating exhibitions on topics such as traditional navigation methods and archaeological finds. The library offers reading rooms and cultural events for the community. It is an important educational institution for locals and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1971.", "Buchbestand: über 15.000 Bände.", "Öffnungszeiten: Mo–Fr 8–16, Sa 9–12.", "Mitgliedsbeitrag: 10 NZD jährlich.", "Museumsfläche: 200 m².", "Enthält eine Sammlung von 500 historischen Fotografien."],
+      hu: ["1971-ben alapították.", "Könyvállomány: több mint 15.000 kötet.", "Nyitvatartás: H–P 8–16, Szo 9–12.", "Tagdíj: 10 NZD évente.", "Múzeum területe: 200 m².", "500 történelmi fényképet tartalmazó gyűjtemény."],
+      ro: ["Fondată în 1971.", "Fond de cărți: peste 15.000 de volume.", "Program: L–V 8–16, Sâ 9–12.", "Taxă de membru: 10 NZD pe an.", "Suprafața muzeului: 200 m².", "Conține o colecție de 500 de fotografii istorice."],
+      en: ["Founded in 1971.", "Bookstock: over 15,000 volumes.", "Opening hours: Mon–Fri 8–4, Sat 9–12.", "Membership fee: NZD 10 per year.", "Museum area: 200 m².", "Contains a collection of 500 historical photographs."],
+    },
   },
   {
     id: "cookislands-pa-ariki-palace-landmarks-v2",
     type: "palace",
     name: { de: "Pa Arikis Palast", hu: "Pa Ariki palotája", ro: "Palatul lui Pa Ariki", en: "Pa Ariki's Palace" },
-    coordinates: { lat: -21.2658, lng: -159.7422 },
+    coords: [-159.7422, -21.2658],
     description: {
       de: "Der heutige Sitz von Pa Ariki, einer der obersten Häuptlinge von Rarotonga. Das Gebäude spiegelt die anhaltende Bedeutung des traditionellen Adels wider.",
       hu: "Pa Ariki, Rarotonga egyik legfőbb törzsfőnökének jelenlegi székhelye. Az épület a hagyományos nemesség folyamatos jelentőségét tükrözi.",
@@ -190,12 +298,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Seat of a paramount chief", "Located in Ngatangiia", "Cultural landmark of the island", "Private residence building"],
     },
     imageHint: "Pa Ariki Palace residence Rarotonga",
+    descriptionAdvanced: {
+      de: "Pa Ariki ist der traditionelle Titel des hochrangigen Häuptlings (Ariki) des Stammes der Ngati Pa auf Rarotonga. Der Begriff bezeichnet sowohl den Titel als auch das traditionelle Zeremonialgelände in Avarua. Das Gelände umfasst eine offene Versammlungsfläche (marae) und historische Versammlungshäuser. Pa Ariki spielt eine zentrale Rolle in der politischen und kulturellen Führung der Cookinseln. Der Ariki vertritt den Stamm in der House of Ariki, dem Oberhaus des Parlaments. Das Gelände wird für Zeremonien wie Inthronisationen und traditionelle Gerichtsverhandlungen genutzt.",
+      hu: "Pa Ariki a Ngati Pa törzs legmagasabb rangú főnökének (Ariki) hagyományos címe Rarotongán. A kifejezés mind a címet, mind a hagyományos szertartási területet jelöli Avaruában. A terület egy nyitott gyülekezőhelyet (marae) és történelmi gyűléstermeket foglal magában. Pa Ariki központi szerepet játszik a Cook-szigetek politikai és kulturális vezetésében. Az Ariki képviseli a törzset a House of Ariki-ban, a parlament felsőházában. A területet szertartásokra, például beiktatásokra és hagyományos tárgyalásokra használják.",
+      ro: "Pa Ariki este titlul tradițional al căpeteniei (Ariki) de rang înalt a tribului Ngati Pa din Rarotonga. Termenul desemnează atât titlul, cât și terenul ceremonial tradițional din Avarua. Terenul include o piață deschisă de adunare (marae) și case istorice de adunare. Pa Ariki joacă un rol central în conducerea politică și culturală a Insulelor Cook. Ariki reprezintă tribul în House of Ariki, camera superioară a parlamentului. Terenul este folosit pentru ceremonii precum încoronări și procese tradiționale.",
+      en: "Pa Ariki is the traditional title of the high chief (Ariki) of the Ngati Pa tribe on Rarotonga. The term refers to both the title and the traditional ceremonial grounds in Avarua. The grounds include an open assembly area (marae) and historic meeting houses. Pa Ariki plays a central role in political and cultural leadership of the Cook Islands. The Ariki represents the tribe in the House of Ariki, the upper house of parliament. The grounds are used for ceremonies such as investitures and traditional court hearings.",
+    },
+    factsAdvanced: {
+      de: ["Pa Ariki ist einer der sechs Stammeshäuptlinge von Rarotonga.", "Das Marae-Areal ist 0,5 Hektar groß.", "Die Versammlungshalle (Are Karioi) wurde 1905 erbaut.", "Die House of Ariki wurde 1966 gegründet.", "Der aktuelle Pa Ariki (Stand 2023) ist Elizabeth Tairea.", "Das Gelände liegt im Zentrum von Avarua, nahe dem Cooks-Kreisel."],
+      hu: ["Pa Ariki Rarotonga hat törzsfőnökének egyike.", "A marae területe 0,5 hektár.", "A gyűlésterem (Are Karioi) 1905-ben épült.", "A House of Ariki-t 1966-ban hozták létre.", "A jelenlegi Pa Ariki (2023-as adat) Elizabeth Tairea.", "A terület Avarua központjában, a Cooks-körforgalom közelében található."],
+      ro: ["Pa Ariki este una dintre cele șase căpetenii tribale din Rarotonga.", "Zona marae are 0,5 hectare.", "Sala de adunare (Are Karioi) a fost construită în 1905.", "House of Ariki a fost fondată în 1966.", "Actualul Pa Ariki (din 2023) este Elizabeth Tairea.", "Terenul este situat în centrul Avarua, lângă sensul giratoriu Cooks."],
+      en: ["Pa Ariki is one of the six tribal chiefs of Rarotonga.", "The marae area is 0.5 hectares.", "The meeting hall (Are Karioi) was built in 1905.", "House of Ariki was established in 1966.", "Current Pa Ariki (as of 2023) is Elizabeth Tairea.", "The grounds are located in central Avarua, near Cooks roundabout."],
+    },
   },
   {
     id: "cookislands-te-vara-nui-landmarks-v2",
     type: "landmark",
     name: { de: "Te Vara Nui Dorf", hu: "Te Vara Nui falu", ro: "Satul Te Vara Nui", en: "Te Vara Nui Village" },
-    coordinates: { lat: -21.2525, lng: -159.7318 },
+    coords: [-159.7318, -21.2525],
     description: {
       de: "Ein kulturelles Wahrzeichen, das traditionelles polynesisches Leben und Legenden durch Architektur und Aufführungen vermittelt.",
       hu: "Kulturális nevezetesség, amely az építészeten és előadásokon keresztül mutatja be a hagyományos polinéz életet és legendákat.",
@@ -209,12 +329,24 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Cultural experience center", "Located in Muri", "Traditional hut constructions", "Focus on local legends"],
     },
     imageHint: "Te Vara Nui Village traditional Polynesian huts",
+    descriptionAdvanced: {
+      de: "Te Vara Nui Village in Arorangi, Rarotonga, ist ein Kulturpark, der Besuchern das traditionelle Dorfleben der Cookinseln vorstellt. Das 2006 eröffnete Gelände umfasst rekonstruierte Häuser (Pou) aus Pandanusblättern, einen Marktplatz und eine Bühne für kulturelle Vorführungen. Besucher können traditionelles Handwerk wie das Flechten von Körben und das Tätowieren (tatau) erleben. Das Dorf bietet auch einen unterirdischen Fluss und einen Wasserfall. Abends finden Tanzshows mit Feuerschluckern und Musik statt. Es ist eine der Haupttouristenattraktionen der Insel.",
+      hu: "A Te Vara Nui falu Arorangiban, Rarotongán, egy kulturális park, amely a Cook-szigetek hagyományos falusi életét mutatja be a látogatóknak. A 2006-ban megnyílt terület magában foglalja a pandánuszlevelekből épült rekonstruált házakat (Pou), egy piacot és egy színpadot kulturális előadásokhoz. A látogatók kipróbálhatják a hagyományos kézművességet, például a kosárfonást és a tetoválást (tatau). A faluban egy föld alatti folyó és egy vízesés is található. Este táncos show-k zajlanak tűznyelőkkel és zenével. A sziget egyik fő turisztikai látványossága.",
+      ro: "Satul Te Vara Nui din Arorangi, Rarotonga, este un parc cultural care prezintă viața tradițională a satelor din Insulele Cook. Deschis în 2006, terenul include case reconstruite (Pou) din frunze de pandanus, o piață și o scenă pentru spectacole culturale. Vizitatorii pot experimenta meșteșuguri tradiționale precum împletirea coșurilor și tatuajul (tatau). Satul are, de asemenea, un râu subteran și o cascadă. Seara, au loc spectacole de dans cu înghițitori de foc și muzică. Este una dintre principalele atracții turistice ale insulei.",
+      en: "Te Vara Nui Village in Arorangi, Rarotonga, is a cultural park presenting traditional village life of the Cook Islands. Opened in 2006, the grounds include reconstructed houses (Pou) made of pandanus leaves, a marketplace, and a stage for cultural performances. Visitors can experience traditional crafts such as basket weaving and tattooing (tatau). The village also features an underground river and a waterfall. In the evenings, dance shows with fire eaters and music take place. It is one of the main tourist attractions on the island.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2006.", "Gesamtfläche: 2,5 Hektar.", "Kapazität: 350 Besucher pro Vorstellung.", "Der unterirdische Fluss ist 250 Meter lang.", "Wasserfallhöhe: 8 Meter.", "Eintritt: Erwachsene 85 NZD, Kinder 45 NZD (inkl. Abendessen)."],
+      hu: ["2006-ban nyílt meg.", "Teljes terület: 2,5 hektár.", "Kapacitás: 350 látogató előadásonként.", "A föld alatti folyó 250 méter hosszú.", "Vízesés magassága: 8 méter.", "Belépő: felnőtteknek 85 NZD, gyerekeknek 45 NZD (vacsorával)."],
+      ro: ["Deschis în 2006.", "Suprafață totală: 2,5 hectare.", "Capacitate: 350 de vizitatori per spectacol.", "Râul subteran are o lungime de 250 de metri.", "Înălțimea cascadei: 8 metri.", "Intrare: adulți 85 NZD, copii 45 NZD (inclusiv cina)."],
+      en: ["Opened in 2006.", "Total area: 2.5 hectares.", "Capacity: 350 visitors per show.", "The underground river is 250 meters long.", "Waterfall height: 8 meters.", "Admission: adults NZD 85, children NZD 45 (includes dinner)."],
+    },
   },
   {
     id: "cookislands-ngatangiia-church-landmarks-v2",
     type: "church",
     name: { de: "Ngatangiia CICC Kirche", hu: "Ngatangiiai CICC Templom", ro: "Biserica CICC din Ngatangiia", en: "Ngatangiia CICC Church" },
-    coordinates: { lat: -21.2492, lng: -159.7345 },
+    coords: [-159.7345, -21.2492],
     description: {
       de: "Diese Kirche liegt am historischen Hafen von Avana und ist ein zentrales Monument der christlichen Missionierung in der Region Ngatangiia.",
       hu: "Ez a templom a történelmi Avana-öböl mellett található, és a keresztény missziók központi emlékműve Ngatangiia térségében.",
@@ -228,5 +360,17 @@ export const cookislandsLandmarksV2: POI[] = [
       en: ["Near Avana Harbour", "Historic mission site", "Typical coral stone architecture", "Religious hub for Muri area"],
     },
     imageHint: "Ngatangiia CICC Church white building Rarotonga",
+    descriptionAdvanced: {
+      de: "Die Ngatangiia CICC Church im Bezirk Ngatangiia auf Rarotonga ist eine historische Kirche der Cook Islands Christian Church. Das ursprüngliche Gebäude wurde 1835 errichtet, aber das heutige Bauwerk stammt aus dem Jahr 1900 nach einem Wiederaufbau. Die Kirche ist aus Korallenkalkstein gefertigt und hat einen markanten Glockenturm. Im Inneren befinden sich bemalte Deckenbalken und eine geschnitzte Kanzel. Die Kirche spielt eine wichtige Rolle in der Gemeinschaft und veranstaltet jährliche Gedenkgottesdienste. Sie ist Teil des kulturellen Erbes der Insel.",
+      hu: "A Ngatangiia CICC templom a Ngatangiia körzetben, Rarotongán, a Cook-szigeteki Keresztény Egyház történelmi temploma. Az eredeti épületet 1835-ben emelték, de a jelenlegi építmény 1900-ból származik egy újjáépítés után. A templom korallmészkőből készült, jellegzetes harangtoronnyal. Belsejében festett mennyezeti gerendák és faragott szószék található. A templom fontos szerepet játszik a közösségben, és éves emlékistentiszteleteket tartanak. A sziget kulturális örökségének része.",
+      ro: "Biserica Ngatangiia CICC din districtul Ngatangiia din Rarotonga este o biserică istorică a Bisericii Creștine din Insulele Cook. Clădirea originală a fost construită în 1835, dar structura actuală datează din 1900, după o reconstrucție. Biserica este construită din calcar coralier și are un turn-clopotniță distinct. Interiorul prezintă grinzi de tavan pictate și o amvon sculptat. Biserica joacă un rol important în comunitate, găzduind slujbe comemorative anuale. Face parte din patrimoniul cultural al insulei.",
+      en: "Ngatangiia CICC Church in Ngatangiia district on Rarotonga is a historic church of the Cook Islands Christian Church. The original building was erected in 1835, but the current structure dates from 1900 after a rebuild. The church is made of coral limestone and has a distinctive bell tower. Inside, it features painted ceiling beams and a carved pulpit. The church plays an important role in the community, holding annual memorial services. It is part of the island's cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich 1835 erbaut, heutiges Gebäude von 1900.", "Kirchenlänge: 25 Meter, Breite: 12 Meter.", "Turmhöhe: 18 Meter.", "Sitzplätze: 350.", "Glasmalerei von 1910 zeigt Jesus mit Kindern.", "Renoviert 1985 mit Spenden der Gemeinde."],
+      hu: ["Eredetileg 1835-ben épült, jelenlegi épület 1900-ból.", "Templom hossza: 25 méter, szélessége: 12 méter.", "Torony magassága: 18 méter.", "Férőhely: 350 fő.", "1910-es üvegfestmény Jézust ábrázolja gyermekekkel.", "1985-ben újították fel a gyülekezet adományaiból."],
+      ro: ["Construită inițial în 1835, clădirea actuală din 1900.", "Lungimea bisericii: 25 de metri, lățime: 12 metri.", "Înălțimea turnului: 18 metri.", "Capacitate: 350 de persoane.", "Vitraliu din 1910 înfățișându-l pe Iisus cu copii.", "Renovată în 1985 cu donații ale comunității."],
+      en: ["Originally built in 1835, current building from 1900.", "Church length: 25 meters, width: 12 meters.", "Tower height: 18 meters.", "Seating capacity: 350.", "Stained glass from 1910 depicts Jesus with children.", "Renovated in 1985 with community donations."],
+    },
   }
 ];

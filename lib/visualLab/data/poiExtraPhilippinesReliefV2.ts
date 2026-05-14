@@ -847,7 +847,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-dulang-dulang-relief-v2",
     type: "peak",
     name: { de: "Mount Dulang-dulang", hu: "Dulang-dulang-hegy", ro: "Muntele Dulang-dulang", en: "Mount Dulang-dulang" },
-    coordinates: { lat: 8.109, lng: 124.919 },
+    coords: [124.919, 8.109],
     description: {
       de: "Der Mount Dulang-dulang ist mit 2938 Metern der zweithöchste Berg der Philippinen. Er liegt im Kitanglad-Gebirge auf der Insel Mindanao.",
       hu: "A 2938 méter magas Dulang-dulang a Fülöp-szigetek második legmagasabb csúcsa. Mindanao szigetén, a Kitanglad-hegység központi részén található.",
@@ -866,7 +866,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-kitanglad-relief-v2",
     type: "peak",
     name: { de: "Mount Kitanglad", hu: "Kitanglad-hegy", ro: "Muntele Kitanglad", en: "Mount Kitanglad" },
-    coordinates: { lat: 8.114, lng: 124.917 },
+    coords: [124.917, 8.114],
     description: {
       de: "Der Mount Kitanglad ist ein inaktiver Vulkan und der dritthöchste Gipfel des Landes. Er beherbergt eine außergewöhnliche Artenvielfalt in Bukidnon.",
       hu: "A Kitanglad-hegy egy kialudt vulkán és az ország harmadik legmagasabb csúcsa. Bukidnon tartományban található, kiemelkedő biodiverzitással bír.",
@@ -885,7 +885,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-caraballo-mountains-relief-v2",
     type: "mountain",
     name: { de: "Caraballo-Gebirge", hu: "Caraballo-hegység", ro: "Munții Caraballo", en: "Caraballo Mountains" },
-    coordinates: { lat: 16.14, lng: 121.12 },
+    coords: [121.12, 16.14],
     description: {
       de: "Dieses Gebirge verbindet die Sierra Madre mit der Zentralkordillere auf Luzon. Es bildet die Wasserscheide für mehrere große Flusssysteme.",
       hu: "Ez a hegység köti össze a Sierra Madre és a Központi-Kordillerák vonulatait Luzone-on. Több nagy folyórendszer vízválasztóját alkotja.",
@@ -904,7 +904,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-central-luzon-plain-relief-v2",
     type: "valley",
     name: { de: "Zentralluzon-Ebene", hu: "Közép-Luzon-alföld", ro: "Câmpia Centrală Luzon", en: "Central Luzon Plain" },
-    coordinates: { lat: 15.5, lng: 120.7 },
+    coords: [120.7, 15.5],
     description: {
       de: "Die Zentralluzon-Ebene ist die größte zusammenhängende Tiefebene der Philippinen. Sie gilt als die wichtigste Reiskammer des gesamten Archipels.",
       hu: "A Közép-Luzon-alföld a Fülöp-szigetek legnagyobb összefüggő síksága. Az egész szigetcsoport legfontosabb rizstermelő vidékének számít.",
@@ -923,7 +923,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-bulusan-relief-v2",
     type: "peak",
     name: { de: "Mount Bulusan", hu: "Bulusan-hegy", ro: "Muntele Bulusan", en: "Mount Bulusan" },
-    coordinates: { lat: 12.77, lng: 124.05 },
+    coords: [124.05, 12.77],
     description: {
       de: "Der Mount Bulusan ist der südlichste Vulkan auf der Insel Luzon. Der aktive Stratovulkan prägt das Relief der Provinz Sorsogon maßgeblich.",
       hu: "A Bulusan-hegy Luzon szigetének legdélebbi vulkánja. Az aktív sztratovulkán meghatározza Sorsogon tartomány domborzati képét.",
@@ -942,7 +942,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-isarog-relief-v2",
     type: "peak",
     name: { de: "Mount Isarog", hu: "Isarog-hegy", ro: "Muntele Isarog", en: "Mount Isarog" },
-    coordinates: { lat: 13.66, lng: 123.37 },
+    coords: [123.37, 13.66],
     description: {
       de: "Der Mount Isarog ist ein markanter Schichtvulkan in der Region Bicol. Er ist bekannt für seine steilen Hänge und seine isolierte Lage bei Naga City.",
       hu: "Az Isarog-hegy egy markáns rétegvulkán a Bicol-régióban. Meredek lejtőiről és Naga városa melletti elszigetelt fekvéséről ismert.",
@@ -961,7 +961,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-halcon-relief-v2",
     type: "peak",
     name: { de: "Mount Halcon", hu: "Halcon-hegy", ro: "Muntele Halcon", en: "Mount Halcon" },
-    coordinates: { lat: 13.26, lng: 121.02 },
+    coords: [121.02, 13.26],
     description: {
       de: "Der Mount Halcon ist der höchste Berg auf der Insel Mindoro. Er gilt unter Bergsteigern als eine der schwierigsten Herausforderungen des Landes.",
       hu: "A Halcon-hegy Mindoro szigetének legmagasabb pontja. A hegymászók körében az ország egyik legnehezebb kihívásának számít.",
@@ -980,7 +980,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-guiting-guiting-relief-v2",
     type: "peak",
     name: { de: "Mount Guiting-Guiting", hu: "Guiting-Guiting-hegy", ro: "Muntele Guiting-Guiting", en: "Mount Guiting-Guiting" },
-    coordinates: { lat: 12.41, lng: 122.56 },
+    coords: [122.56, 12.41],
     description: {
       de: "Dieser Berg auf der Insel Sibuyan ist berühmt für seine messerscharfen Felsformationen. Er wird oft als das 'Galapagos Asiens' bezeichnet.",
       hu: "Ez a Sibuyan-szigeten található hegy híres a borotvaéles sziklaalakzatairól. Gyakran nevezik Ázsia Galápagos-szigetének is.",
@@ -999,7 +999,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-mount-matutum-relief-v2",
     type: "peak",
     name: { de: "Mount Matutum", hu: "Matutum-hegy", ro: "Muntele Matutum", en: "Mount Matutum" },
-    coordinates: { lat: 6.36, lng: 125.08 },
+    coords: [125.08, 6.36],
     description: {
       de: "Der Mount Matutum ist ein symmetrischer Vulkan im Süden von Mindanao. Er überragt die Ebenen von South Cotabato und ist weithin sichtbar.",
       hu: "A Matutum-hegy egy szimmetrikus vulkán Mindanao déli részén. Dél-Cotabato síkságai fölé magasodik, és messziről is jól látható.",
@@ -1018,7 +1018,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-zambales-mountains-relief-v2",
     type: "mountain",
     name: { de: "Zambales-Gebirge", hu: "Zambales-hegység", ro: "Munții Zambales", en: "Zambales Mountains" },
-    coordinates: { lat: 15.45, lng: 120.15 },
+    coords: [120.15, 15.45],
     description: {
       de: "Dieses Gebirge erstreckt sich entlang der Westküste von Luzon. Es trennt die Zentralebene vom Südchinesischen Meer und beherbergt den Mt. Pinatubo.",
       hu: "Ez a hegység Luzon nyugati partja mentén húzódik. Elválasztja a központi síkságot a Dél-kínai-tengertől, itt található a Pinatubo is.",
@@ -1037,7 +1037,7 @@ image: "/poi-images/ph-caramoan-peninsula-relief-v2.webp"
     id: "philippines-ilocos-coastal-plain-relief-v2",
     type: "valley",
     name: { de: "Ilocos-Küstenebene", hu: "Ilocos-parti-síkság", ro: "Câmpia de coastă Ilocos", en: "Ilocos Coastal Plain" },
-    coordinates: { lat: 17.5, lng: 120.4 },
+    coords: [120.4, 17.5],
     description: {
       de: "Die Ilocos-Küstenebene ist ein schmaler Landstreifen im Nordwesten von Luzon. Sie liegt eingezwängt zwischen der Kordillere und dem Meer.",
       hu: "Az Ilocos-parti-síkság egy keskeny sáv Luzon északnyugati részén. A Kordillerák és a tenger közé ékelődve helyezkedik el.",

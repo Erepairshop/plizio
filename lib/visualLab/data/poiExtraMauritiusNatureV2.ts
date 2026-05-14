@@ -5,7 +5,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-tamarind-falls-nature-v2",
     type: "landmark",
     name: { de: "Tamarind-Wasserfälle", hu: "Tamarind-vízesés", ro: "Cascada Tamarind", en: "Tamarind Falls" },
-    coordinates: { lat: -20.3516, lng: 57.4725 },
+    coords: [57.4725, -20.3516],
     description: {
       de: "Eine Kaskade von sieben aufeinanderfolgenden Wasserfällen im Tamarind-Fluss, umgeben von dichten Wäldern. Sie bieten spektakuläre Ausblicke und Möglichkeiten zum Canyoning.",
       hu: "A Tamarind-folyó hét egymást követő vízesésből álló sorozata, amelyet dús trópusi növényzet övez. A túrázók és a kanyoning kedvelőinek népszerű célpontja.",
@@ -24,7 +24,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-ile-aux-cerfs-nature-v2",
     type: "wildlife",
     name: { de: "Ile aux Cerfs", hu: "Szarvasok szigete", ro: "Insula Ile aux Cerfs", en: "Ile aux Cerfs" },
-    coordinates: { lat: -20.2703, lng: 57.8039 },
+    coords: [57.8039, -20.2703],
     description: {
       de: "Eine malerische Insel vor der Ostküste, berühmt für ihre weißen Sandstrände und die flache, türkisfarbene Lagune. Sie ist ein Zentrum für Wassersport und Erholung.",
       hu: "Festői sziget a keleti partnál, amely fehér homokos strandjairól és sekély, türkizkék lagúnájáról ismert. A vízi sportok és a kikapcsolódás központja.",
@@ -43,7 +43,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-gris-gris-cliffs-nature-v2",
     type: "landmark",
     name: { de: "Gris Gris Klippen", hu: "Gris Gris sziklák", ro: "Stâncile Gris Gris", en: "Gris Gris Cliffs" },
-    coordinates: { lat: -20.5255, lng: 57.5311 },
+    coords: [57.5311, -20.5255],
     description: {
       de: "Der südlichste Punkt der Insel, bekannt für seine rauen Basaltklippen und das Fehlen eines schützenden Korallenriffs. Die Brandung des Indischen Ozeans schlägt hier direkt gegen das Land.",
       hu: "A sziget legdélebbi pontja, amely meredek bazaltszikláiról és a védő korallzátony hiányáról ismert. Az Indiai-óceán hullámai itt közvetlenül a partnak csapódnak.",
@@ -62,7 +62,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-mare-aux-vacoas-nature-v2",
     type: "lake",
     name: { de: "Mare aux Vacoas", hu: "Mare aux Vacoas", ro: "Mare aux Vacoas", en: "Mare aux Vacoas" },
-    coordinates: { lat: -20.3583, lng: 57.495 },
+    coords: [57.495, -20.3583],
     description: {
       de: "Der größte Stausee von Mauritius, gelegen auf dem zentralen Plateau. Er ist von Pinienwäldern umgeben und dient als wichtigstes Trinkwasserreservoir der Insel.",
       hu: "Mauritius legnagyobb víztározója a központi fennsíkon. Fenyőerdőkkel körülvett terület, amely a sziget legfontosabb ivóvízforrásaként szolgál.",
@@ -81,7 +81,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-alexandra-falls-nature-v2",
     type: "landmark",
     name: { de: "Alexandra-Wasserfälle", hu: "Alexandra-vízesés", ro: "Cascada Alexandra", en: "Alexandra Falls" },
-    coordinates: { lat: -20.4367, lng: 57.4728 },
+    coords: [57.4728, -20.4367],
     description: {
       de: "Ein hoher Wasserfall im Black River Gorges Nationalpark, der über eine bewaldete Klippe in die Tiefe stürzt. Die Aussichtsplattform bietet einen Panoramablick bis zur Südküste.",
       hu: "Magas vízesés a Black River Gorges Nemzeti Parkban, amely egy erdős szikláról zúdul a mélybe. A kilátóból panorámás kilátás nyílik a déli partig.",
@@ -100,7 +100,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-maconde-rock-nature-v2",
     type: "landmark",
     name: { de: "Macondé-Felsen", hu: "Macondé-szikla", ro: "Stânca Macondé", en: "Macondé Rock" },
-    coordinates: { lat: -20.4856, lng: 57.3708 },
+    coords: [57.3708, -20.4856],
     description: {
       de: "Ein markanter Felsvorsprung an einer scharfen Kurve der Küstenstraße von Baie du Cap. Er bietet einen weiten Blick über den Ozean und das türkisfarbene Riff.",
       hu: "Jellegzetes sziklakiszögellés a Baie du Cap menti tengerparti út éles kanyarjában. Tágas kilátást nyújt az óceánra és a türkizkék zátonyra.",
@@ -119,7 +119,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-grand-river-south-east-nature-v2",
     type: "river",
     name: { de: "Grand River South East", hu: "Grand River South East", ro: "Grand River South East", en: "Grand River South East" },
-    coordinates: { lat: -20.2861, lng: 57.7778 },
+    coords: [57.7778, -20.2861],
     description: {
       de: "Der längste Fluss von Mauritius, der im Osten in eine weite Bucht mündet. Er ist bekannt für den beeindruckenden Wasserfall an seiner Mündung, der nur per Boot erreichbar ist.",
       hu: "Mauritius leghosszabb folyója, amely keleten egy tágas öbölbe torkollik. A torkolatnál található vízesése csak hajóval érhető el.",
@@ -138,7 +138,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-trois-mamelles-nature-v2",
     type: "peak",
     name: { de: "Trois Mamelles", hu: "Trois Mamelles", ro: "Trois Mamelles", en: "Trois Mamelles" },
-    coordinates: { lat: -20.2975, lng: 57.4478 },
+    coords: [57.4478, -20.2975],
     description: {
       de: "Ein markanter Berg mit drei Gipfeln im Westen der Insel. Seine charakteristische Form macht ihn zu einer der am leichtesten erkennbaren Erhebungen von Mauritius.",
       hu: "Jellegzetes, háromcsúcsú hegy a sziget nyugati részén. Karakteres formája Mauritius egyik legkönnyebben felismerhető kiemelkedésévé teszi.",
@@ -157,7 +157,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-ile-dambre-nature-v2",
     type: "wildlife",
     name: { de: "Ile d'Ambre", hu: "Ile d'Ambre", ro: "Insula Ile d'Ambre", en: "Ile d'Ambre" },
-    coordinates: { lat: -20.0625, lng: 57.7011 },
+    coords: [57.7011, -20.0625],
     description: {
       de: "Eine naturbelassene Insel in der nördlichen Lagune, bekannt für ihre ausgedehnten Mangrovenwälder. Sie ist ein Rückzugsort für Meereslebewesen und ein Ziel für Kajaktouren.",
       hu: "Természetközeli sziget az északi lagúnában, amely kiterjedt mangroveerdőiről ismert. A tengeri élővilág menedéke és kedvelt kajakozóhely.",
@@ -176,7 +176,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-round-island-nature-v2",
     type: "wildlife",
     name: { de: "Round Island", hu: "Kerek-sziget", ro: "Insula Rotundă", en: "Round Island" },
-    coordinates: { lat: -19.8522, lng: 57.785 },
+    coords: [57.785, -19.8522],
     description: {
       de: "Ein streng geschütztes Naturreservat nördlich von Mauritius, das für seine einzigartigen endemischen Reptilien und Vögel bekannt ist. Der Zugang ist nur für wissenschaftliche Zwecke erlaubt.",
       hu: "Szigorúan védett természetvédelmi terület Mauritius-tól északra, amely egyedülálló endemikus hüllőiről és madarairól ismert. A belépés csak kutatók számára engedélyezett.",
@@ -195,7 +195,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-flat-island-nature-v2",
     type: "landmark",
     name: { de: "Flat Island", hu: "Lapos-sziget", ro: "Insula Plată", en: "Flat Island" },
-    coordinates: { lat: -19.8753, lng: 57.6536 },
+    coords: [57.6536, -19.8753],
     description: {
       de: "Die größte der nördlichen Inseln, geprägt durch ein weites Plateau und einen historischen Leuchtturm. Sie bietet unberührte Strände und hervorragende Tauchgründe in der Umgebung.",
       hu: "Az északi szigetek legnagyobbika, amelyet tágas fennsík és egy történelmi világítótorony jellemez. Érintetlen strandokat és kiváló merülőhelyeket kínál.",
@@ -214,7 +214,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-rochester-falls-nature-v2",
     type: "landmark",
     name: { de: "Rochester-Wasserfälle", hu: "Rochester-vízesés", ro: "Cascada Rochester", en: "Rochester Falls" },
-    coordinates: { lat: -20.505, lng: 57.5186 },
+    coords: [57.5186, -20.505],
     description: {
       de: "Ein spektakulärer Wasserfall im Süden der Insel, bekannt für seine einzigartigen, rechteckigen Basaltsäulen. Das Wasser des Savanne-Flusses stürzt hier über die geformten Felsen.",
       hu: "Látványos vízesés a sziget déli részén, amely egyedülálló, téglalap alakú bazaltoszlopairól ismert. A Savanne-folyó vize itt a formás sziklákon zúdul le.",
@@ -233,7 +233,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-ile-aux-benitiers-nature-v2",
     type: "wildlife",
     name: { de: "Ile aux Bénitiers", hu: "Ile aux Bénitiers", ro: "Insula Ile aux Bénitiers", en: "Ile aux Bénitiers" },
-    coordinates: { lat: -20.4139, lng: 57.3639 },
+    coords: [57.3639, -20.4139],
     description: {
       de: "Eine lange, schmale Insel in der Bucht von Le Morne, umgeben von Kokospalmen und klarem Wasser. Sie ist bekannt für die Nähe zum 'Crystal Rock' und bietet ruhige Strände.",
       hu: "Hosszú, keskeny sziget a Le Morne-öbölben, kókuszpálmákkal és tiszta vízzel körülvéve. A 'Crystal Rock' közelségéről és nyugodt strandjairól ismert.",
@@ -252,7 +252,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-serpent-island-nature-v2",
     type: "wildlife",
     name: { de: "Serpent Island", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Serpent Island" },
-    coordinates: { lat: -19.8153, lng: 57.795 },
+    coords: [57.795, -19.8153],
     description: {
       de: "Eine steile, vulkanische Felseninsel nördlich von Mauritius, die trotz ihres Namens keine Schlangen beherbergt. Sie ist ein bedeutendes Brutgebiet für Tausende von Seevögeln.",
       hu: "Meredek, vulkanikus sziklasziget Mauritius-tól északra, amely neve ellenére nem ad otthont kígyóknak. Több ezer tengeri madár fontos fészkelőhelye.",
@@ -271,7 +271,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-tourelle-du-tamarin-nature-v2",
     type: "peak",
     name: { de: "Tourelle du Tamarin", hu: "Tourelle du Tamarin", ro: "Tourelle du Tamarin", en: "Tourelle du Tamarin" },
-    coordinates: { lat: -20.3344, lng: 57.3619 },
+    coords: [57.3619, -20.3344],
     description: {
       de: "Ein alleinstehender Berg an der Westküste, der steil über dem Dorf Tamarin aufragt. Er bietet einen der besten Rundumblicke über die Westküste und das Le Morne-Massiv.",
       hu: "Magányos hegy a nyugati parton, amely meredeken magasodik Tamarin falu fölé. Az egyik legjobb körpanorámát nyújtja a nyugati partra és a Le Morne-tömbre.",
@@ -290,7 +290,7 @@ export const mauritiusNatureV2: POI[] = [
     id: "mauritius-mare-longue-reservoir-nature-v2",
     type: "lake",
     name: { de: "Mare Longue Reservoir", hu: "Mare Longue víztározó", ro: "Rezervorul Mare Longue", en: "Mare Longue Reservoir" },
-    coordinates: { lat: -20.366, lng: 57.466 },
+    coords: [57.466, -20.366],
     description: {
       de: "Ein Hochland-Stausee in der Nähe des Black River Gorges, umgeben von Primärwald. Er ist ein ruhiges Gebiet, das oft für Wanderungen und zur Vogelbeobachtung genutzt wird.",
       hu: "Felföldi víztározó a Black River Gorges közelében, őserdővel körülvéve. Nyugodt terület, amelyet gyakran használnak túrázásra és madármegfigyelésre.",

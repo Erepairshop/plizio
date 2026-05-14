@@ -817,7 +817,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-marracuene-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Marracuene", hu: "Marracuenei csatamező", ro: "Câmpul de luptă de la Marracuene", en: "Battlefield of Marracuene" },
-    coordinates: { lat: -25.733, lng: 32.683 },
+    coords: [32.683, -25.733],
     description: {
       de: "Ort der historischen Schlacht von 1895 zwischen dem Gaza-Reich und Portugal. Ein Denkmal erinnert heute an die gefallenen Krieger beider Seiten.",
       hu: "Az 1895-ös csata helyszíne a Gázai Birodalom és Portugália között. Ma emlékmű őrzi mindkét oldal elesett harcosainak emlékét.",
@@ -836,7 +836,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-chaimite-memorial-history-v2",
     type: "monument",
     name: { de: "Chaimite Gedenkstätte", hu: "Chaimite emlékhely", ro: "Memorialul Chaimite", en: "Chaimite Memorial" },
-    coordinates: { lat: -24.646, lng: 33.324 },
+    coords: [33.324, -24.646],
     description: {
       de: "Historisches Dorf, in dem der letzte Kaiser von Gaza, Ngungunhane, im Jahr 1895 gefangen genommen wurde. Es gilt als heiliger Ort der Ahnen.",
       hu: "Történelmi falu, ahol 1895-ben elfogták Ngungunhane-t, a Gázai Birodalom utolsó uralkodóját. Szent ősi helyként tisztelik.",
@@ -855,7 +855,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-magul-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Magul", hu: "Maguli csatamező", ro: "Câmpul de luptă de la Magul", en: "Battlefield of Magul" },
-    coordinates: { lat: -25.043, lng: 33.018 },
+    coords: [33.018, -25.043],
     description: {
       de: "Schauplatz einer entscheidenden Schlacht im September 1895 während der Eroberung des Gaza-Reiches. Hier trafen Tausende Krieger aufeinander.",
       hu: "A Gázai Birodalom meghódítása során 1895 szeptemberében vívott döntő csata helyszíne. Harcosok ezrei csaptak itt össze.",
@@ -874,7 +874,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-coolela-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Coolela", hu: "Coolelai csatamező", ro: "Câmpul de luptă de la Coolela", en: "Battlefield of Coolela" },
-    coordinates: { lat: -24.617, lng: 34.05 },
+    coords: [34.05, -24.617],
     description: {
       de: "Ort der letzten großen organisierten Verteidigung des Gaza-Reiches gegen die portugiesische Kolonialarmee im Jahr 1895.",
       hu: "A Gázai Birodalom utolsó nagy szervezett védelmi harcának helyszíne a portugál gyarmati hadsereg ellen 1895-ben.",
@@ -893,7 +893,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-casa-amarela-history-v2",
     type: "museum",
     name: { de: "Das Gelbe Haus", hu: "Sárga Ház", ro: "Casa Galbenă", en: "Yellow House (Casa Amarela)" },
-    coordinates: { lat: -25.972, lng: 32.568 },
+    coords: [32.568, -25.972],
     description: {
       de: "Das älteste Steingebäude Maputos, erbaut um 1860, beherbergt heute das Nationale Geldmuseum. Es zeigt die Geschichte des Handels.",
       hu: "Maputo legrégebbi kőépülete, amely 1860 körül épült, ma a Nemzeti Pénzmúzeumnak ad otthont. A kereskedelem történetét mutatja be.",
@@ -912,7 +912,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-wiriyamu-massacre-history-v2",
     type: "monument",
     name: { de: "Gedenkstätte Wiriyamu", hu: "Wiriyamu emlékhely", ro: "Memorialul Wiriyamu", en: "Wiriyamu Massacre Site" },
-    coordinates: { lat: -16.2, lng: 33.6 },
+    coords: [33.6, -16.2],
     description: {
       de: "Ort eines tragischen Massakers während des Unabhängigkeitskrieges im Jahr 1972. Es wurde weltweit zum Symbol für koloniale Gewalt.",
       hu: "Egy tragikus mészárlás helyszíne a függetlenségi háború alatt, 1972-ben. A gyarmati erőszak elleni küzdelem világméretű szimbólumává vált.",
@@ -931,7 +931,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-boroma-mission-history-v2",
     type: "church",
     name: { de: "Boroma Jesuitenmission", hu: "Boromai jezsuita misszió", ro: "Misiunea Iezuită Boroma", en: "Boroma Jesuit Mission" },
-    coordinates: { lat: -16.083, lng: 33.483 },
+    coords: [33.483, -16.083],
     description: {
       de: "Eine monumentale Missionsstation der Jesuiten aus dem späten 19. Jahrhundert am Ufer des Sambesi. Die Kirche ist für ihre Größe bekannt.",
       hu: "Egy monumentális jezsuita missziós állomás a 19. század végéről a Zambézi folyó partján. A templom méretéről és díszítéséről híres.",
@@ -950,7 +950,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-ponta-gea-lighthouse-history-v2",
     type: "tower",
     name: { de: "Leuchtturm Ponta Gea", hu: "Ponta Gea világítótorony", ro: "Farul Ponta Gea", en: "Ponta Gea Lighthouse" },
-    coordinates: { lat: -19.839, lng: 34.832 },
+    coords: [34.832, -19.839],
     description: {
       de: "Ein historisches Wahrzeichen von Beira, das einst den Seeverkehr im Indischen Ozean leitete. Es ist ein Symbol der maritimen Geschichte.",
       hu: "Beira történelmi nevezetessége, amely egykor az indiai-óceáni hajózást segítette. A tengerészeti múlt fontos jelképe.",
@@ -969,7 +969,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-lhanguene-mission-history-v2",
     type: "church",
     name: { de: "Mission von Lhanguene", hu: "Lhanguenei misszió", ro: "Misiunea Lhanguene", en: "St. Joseph of Lhanguene Mission" },
-    coordinates: { lat: -25.925, lng: 32.558 },
+    coords: [32.558, -25.925],
     description: {
       de: "Eine der ältesten katholischen Missionen in der Region Maputo, gegründet Ende des 19. Jahrhunderts. Sie spielte eine zentrale Rolle bei der Bildung.",
       hu: "Maputo régiójának egyik legrégebbi katolikus missziója, amelyet a 19. század végén alapítottak. Központi szerepet játszott az oktatásban.",
@@ -988,7 +988,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-bila-ruins-history-v2",
     type: "ruins",
     name: { de: "Bila Ruinen", hu: "Bilai romok", ro: "Ruinele Bila", en: "Bila Ruins" },
-    coordinates: { lat: -24.4, lng: 33.2 },
+    coords: [33.2, -24.4],
     description: {
       de: "Überreste einer historischen Hauptstadt des Gaza-Reiches. Die Stätte zeigt die traditionelle Architektur und Siedlungsstruktur des 19. Jahrhunderts.",
       hu: "A Gázai Birodalom egyik történelmi fővárosának maradványai. A helyszín a 19. századi hagyományos építészetet és településszerkezetet mutatja be.",
@@ -1007,7 +1007,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-degue-ruins-history-v2",
     type: "ruins",
     name: { de: "Degue Ruinen", hu: "Deguei romok", ro: "Ruinele Degue", en: "Degue Ruins" },
-    coordinates: { lat: -16.15, lng: 33.583 },
+    coords: [33.583, -16.15],
     description: {
       de: "Steinruinen aus der Ära der Munhumutapa-Dynastie in der Nähe von Tete. Sie belegen den weitreichenden Einfluss der Simbabwe-Kultur.",
       hu: "A Munhumutapa-dinasztia korából származó kőromok Tete közelében. A zimbabwei kultúra kiterjedt hatását bizonyítják.",
@@ -1026,7 +1026,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-muchena-ruins-history-v2",
     type: "ruins",
     name: { de: "Muchena Ruinen", hu: "Muchenai romok", ro: "Ruinele Muchena", en: "Muchena Ruins" },
-    coordinates: { lat: -16.183, lng: 33.517 },
+    coords: [33.517, -16.183],
     description: {
       de: "Bedeutende archäologische Stätte mit Überresten befestigter Siedlungen. Sie bieten Einblicke in die vorkoloniale soziale Hierarchie.",
       hu: "Jelentős régészeti lelőhely megerősített települések maradványaival. Betekintést nyújtanak a gyarmatosítás előtti társadalmi hierarchiába.",
@@ -1045,7 +1045,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-kionga-monument-history-v2",
     type: "monument",
     name: { de: "Kionga Denkmal", hu: "Kionga emlékmű", ro: "Monumentul Kionga", en: "Kionga Monument" },
-    coordinates: { lat: -10.59, lng: 40.505 },
+    coords: [40.505, -10.59],
     description: {
       de: "Erinnert an das Kionga-Dreieck, das nach dem Ersten Weltkrieg von Deutsch-Ostafrika an Mosambik übertragen wurde.",
       hu: "A Kionga-háromszögre emlékeztet, amelyet az első világháború után csatoltak Német Kelet-Afrikától Mozambikhoz.",
@@ -1064,7 +1064,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-quiterajo-history-v2",
     type: "monument",
     name: { de: "Historische Stätte Quiterajo", hu: "Quiterajo történelmi helyszín", ro: "Situl istoric Quiterajo", en: "Quiterajo Historical Site" },
-    coordinates: { lat: -11.75, lng: 40.383 },
+    coords: [40.383, -11.75],
     description: {
       de: "Ein geschichtsträchtiger Ort im Norden, bekannt für den Widerstand gegen die Kolonialherrschaft. Er war ein wichtiger Stützpunkt der Befreiungsbewegung.",
       hu: "Történelmi jelentőségű hely északon, amely a gyarmati uralom elleni ellenállásáról ismert. A felszabadítási mozgalom fontos bázisa volt.",
@@ -1083,7 +1083,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-mondlane-statue-history-v2",
     type: "monument",
     name: { de: "Eduardo Mondlane Denkmal", hu: "Eduardo Mondlane szobor", ro: "Statuia lui Eduardo Mondlane", en: "Eduardo Mondlane Statue" },
-    coordinates: { lat: -25.959, lng: 32.583 },
+    coords: [32.583, -25.959],
     description: {
       de: "Statue zu Ehren des Gründers der FRELIMO und Vaters der mosambikanischen Nation. Sie befindet sich an einem zentralen Platz in Maputo.",
       hu: "A FRELIMO alapítójának és a mozambiki nemzet atyjának tiszteletére állított szobor. Maputo egyik központi terén található.",
@@ -1102,7 +1102,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-bazaruto-lighthouse-history-v2",
     type: "tower",
     name: { de: "Historischer Leuchtturm Bazaruto", hu: "Bazaruto történelmi világítótorony", ro: "Farul istoric Bazaruto", en: "Bazaruto Historic Lighthouse" },
-    coordinates: { lat: -21.53, lng: 35.474 },
+    coords: [35.474, -21.53],
     description: {
       de: "Ein markanter Leuchtturm aus dem Jahr 1913 auf der Insel Bazaruto. Er diente Generationen von Seeleuten als wichtiger Orientierungspunkt.",
       hu: "Egy jellegzetes, 1913-ban épült világítótorony a Bazaruto-szigeten. Tengerészek nemzedékeinek szolgált fontos tájékozódási pontként.",
@@ -1121,7 +1121,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-inharrime-station-history-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof Inharrime", hu: "Inharrime régi vasútállomás", ro: "Vechea gară Inharrime", en: "Inharrime Old Station" },
-    coordinates: { lat: -24.483, lng: 35.033 },
+    coords: [35.033, -24.483],
     description: {
       de: "Ein Zeugnis der frühen Eisenbahngeschichte Mosambiks. Das historische Bahnhofsgebäude spiegelt den wirtschaftlichen Ehrgeiz des frühen 20. Jahrhunderts wider.",
       hu: "Mozambik korai vasúttörténetének tanúja. A történelmi állomásépület a 20. század eleji gazdasági ambíciókat tükrözi.",
@@ -1140,7 +1140,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-maringue-base-history-v2",
     type: "monument",
     name: { de: "Historische Basis Maringue", hu: "Maringue történelmi bázis", ro: "Baza istorică Maringue", en: "Maringue Historical Base" },
-    coordinates: { lat: -17.967, lng: 34.367 },
+    coords: [34.367, -17.967],
     description: {
       de: "Ein geschichtsträchtiger Ort im Gorongosa-Gebiet, der während des Bürgerkriegs als Hauptquartier diente. Er ist ein Mahnmal für die neuere Geschichte.",
       hu: "Történelmi helyszín a Gorongosa-vidéken, amely a polgárháború alatt főhadiszállásként szolgált. A közelmúlt történelmének fontos emléke.",
@@ -1159,7 +1159,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-mucuburi-mission-history-v2",
     type: "church",
     name: { de: "Mission Saint Anne of Mucuburi", hu: "Szent Anna Mucuburi misszió", ro: "Misiunea Sfânta Ana din Mucuburi", en: "Saint Anne of Mucuburi Mission" },
-    coordinates: { lat: -14.65, lng: 38.25 },
+    coords: [38.25, -14.65],
     description: {
       de: "Eine abgeschiedene, historische Missionsstation in der Provinz Nampula. Ihre Architektur ist ein Beispiel für die Anpassung europäischer Stile an lokale Gegebenheiten.",
       hu: "Egy félreeső, történelmi missziós állomás Nampula tartományban. Építészete az európai stílusok helyi körülményekhez való alkalmazkodásának példája.",
@@ -1178,7 +1178,7 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
     id: "mozambique-tete-palace-history-v2",
     type: "palace",
     name: { de: "Gouverneurspalast von Tete", hu: "Tete kormányzói palota", ro: "Palatul Guvernatorului din Tete", en: "Tete Governor's Palace" },
-    coordinates: { lat: -16.158, lng: 33.587 },
+    coords: [33.587, -16.158],
     description: {
       de: "Ein prachtvolles Kolonialgebäude in der Stadt Tete, das als Sitz der Verwaltung diente. Es dominiert die historische Uferpromenade des Sambesi.",
       hu: "Egy pompás gyarmati épület Tete városában, amely közigazgatási székhelyként szolgált. A Zambézi történelmi vízpartjának meghatározó látványa.",

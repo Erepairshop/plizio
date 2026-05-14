@@ -1752,7 +1752,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-janabiya-cities-v2",
     type: "town",
     name: { de: "Janabiya", hu: "Dzsanabija", ro: "Janabiya", en: "Janabiya" },
-    coordinates: { lat: 26.191, lng: 50.472 },
+    coords: [50.472, 26.191],
     description: {
       de: "Janabiya ist ein wachsendes Wohnviertel im Gouvernement Nord, das für seine Kamelfarmen bekannt ist. Es liegt verkehrsgünstig nahe dem King Fahd Causeway.",
       hu: "Dzsanabija az Északi kormányzóság egyik fejlődő lakóövezete, amely tevefarmjairól nevezetes. Stratégiai elhelyezkedése közel van a King Fahd hídhoz.",
@@ -1771,7 +1771,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-hamala-cities-v2",
     type: "village",
     name: { de: "Hamala", hu: "Hamala", ro: "Hamala", en: "Hamala" },
-    coordinates: { lat: 26.148, lng: 50.474 },
+    coords: [50.474, 26.148],
     description: {
       de: "Hamala ist ein Dorf im Gouvernement Nord, das traditionell durch Landwirtschaft geprägt ist. Heute beherbergt es wichtige Rundfunkstationen und moderne Wohnanlagen.",
       hu: "Hamala egy mezőgazdasági múltú falu az Északi kormányzóságban. Napjainkban fontos rádióállomásoknak és modern lakóparkoknak ad otthont.",
@@ -1790,7 +1790,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-buri-cities-v2",
     type: "village",
     name: { de: "Buri", hu: "Buri", ro: "Buri", en: "Buri" },
-    coordinates: { lat: 26.157, lng: 50.498 },
+    coords: [50.498, 26.157],
     description: {
       de: "Buri ist eines der ältesten Dörfer Bahrains und bekannt für seine traditionelle Töpferei. Es hat seinen ländlichen Charakter mit vielen Palmenhainen bewahrt.",
       hu: "Buri Bahrein egyik legrégebbi faluja, amely hagyományos fazekasságáról ismert. Megőrizte vidéki jellegét a számos pálmaligettel.",
@@ -1809,7 +1809,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-dumistan-cities-v2",
     type: "village",
     name: { de: "Dumistan", hu: "Dumisztán", ro: "Dumistan", en: "Dumistan" },
-    coordinates: { lat: 26.132, lng: 50.481 },
+    coords: [50.481, 26.132],
     description: {
       de: "Dumistan ist ein Küstendorf an der Westküste Bahrains. Es ist bekannt für seine ruhigen Strände und den traditionellen Fischfang.",
       hu: "Dumisztán egy tengerparti falu Bahrein nyugati partján. Nyugodt strandjairól és a hagyományos halászatról ismert.",
@@ -1828,7 +1828,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-karzakan-cities-v2",
     type: "town",
     name: { de: "Karzakan", hu: "Karzakán", ro: "Karzakan", en: "Karzakan" },
-    coordinates: { lat: 26.118, lng: 50.482 },
+    coords: [50.482, 26.118],
     description: {
       de: "Karzakan ist ein großes Dorf an der Westküste, das für seine ausgedehnten Gärten und Palmen bekannt ist. Es hat eine starke Verbindung zum Meer und zum Ackerbau.",
       hu: "Karzakán egy nagy település a nyugati parton, amely kiterjedt kertjeiről és pálmáiról ismert. Erős szálakkal kötődik a tengerhez és a földműveléshez.",
@@ -1859,7 +1859,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-shahrakkan-cities-v2",
     type: "village",
     name: { de: "Shahrakkan", hu: "Sahrakkán", ro: "Shahrakkan", en: "Shahrakkan" },
-    coordinates: { lat: 26.107, lng: 50.489 },
+    coords: [50.489, 26.107],
     description: {
       de: "Shahrakkan ist ein Küstendorf im Gouvernement Nord, das südlich von Karzakan liegt. Es ist eine ruhige Wohngemeinde mit traditionellen Wurzeln.",
       hu: "Sahrakkán egy tengerparti falu az Északi kormányzóságban, Karzakántól délre. Csendes lakóközösség, amely őrzi hagyományos gyökereit.",
@@ -1890,7 +1890,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-dar-kulaib-cities-v2",
     type: "village",
     name: { de: "Dar Kulaib", hu: "Dár Kulaib", ro: "Dar Kulaib", en: "Dar Kulaib" },
-    coordinates: { lat: 26.072, lng: 50.506 },
+    coords: [50.506, 26.072],
     description: {
       de: "Dar Kulaib ist ein Dorf im Südwesten Bahrains, nahe dem Bahrain International Circuit. Es ist bekannt für seinen starken Gemeinschaftssinn und Sportvereine.",
       hu: "Dár Kulaib egy falu Bahrein délnyugati részén, a Bahreini Nemzetközi Versenypálya közelében. Erős közösségi szelleméről és sportklubjáról ismert.",
@@ -1921,7 +1921,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-sadad-cities-v2",
     type: "village",
     name: { de: "Sadad", hu: "Szadad", ro: "Sadad", en: "Sadad" },
-    coordinates: { lat: 26.101, lng: 50.491 },
+    coords: [50.491, 26.101],
     description: {
       de: "Sadad ist ein Küstendorf im Gouvernement Nord, das für seine traditionelle Architektur bekannt ist. Es liegt eingebettet zwischen dem Meer und Palmenhainen.",
       hu: "Szadad egy tengerparti falu az Északi kormányzóságban, amely hagyományos építészetéről ismert. A tenger és a pálmaligetek között terül el.",
@@ -1952,7 +1952,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-safra-cities-v2",
     type: "town",
     name: { de: "Safra", hu: "Szafra", ro: "Safra", en: "Safra" },
-    coordinates: { lat: 26.108, lng: 50.542 },
+    coords: [50.542, 26.108],
     description: {
       de: "Safra ist eine Stadt im Gouvernement Süd, die sowohl Wohn- als auch Militärbereiche umfasst. Sie liegt im Landesinneren, südlich der Stadt Riffa.",
       hu: "Szafra egy város a Déli kormányzóságban, amely lakó- és katonai övezeteket is magában foglal. A szárazföld belsejében, Riffa városától délre fekszik.",
@@ -1983,7 +1983,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-madinat-salman-cities-v2",
     type: "city",
     name: { de: "Madinat Salman", hu: "Madinat Szalmán", ro: "Madinat Salman", en: "Madinat Salman" },
-    coordinates: { lat: 26.241, lng: 50.473 },
+    coords: [50.473, 26.241],
     description: {
       de: "Madinat Salman, auch als Northern City bekannt, ist ein riesiges städtebauliches Projekt auf künstlichen Inseln. Es soll Wohnraum für Zehntausende Bürger bieten.",
       hu: "Madinat Szalmán, más néven az északi város, egy hatalmas városfejlesztési projekt mesterséges szigeteken. Célja, hogy polgárok tízezreinek biztosítson lakhelyet.",
@@ -2014,7 +2014,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-diyar-al-muharraq-cities-v2",
     type: "city",
     name: { de: "Diyar Al Muharraq", hu: "Dijár al-Muharrak", ro: "Diyar Al Muharraq", en: "Diyar Al Muharraq" },
-    coordinates: { lat: 26.302, lng: 50.651 },
+    coords: [50.651, 26.302],
     description: {
       de: "Diyar Al Muharraq ist eine moderne Planstadt auf künstlich gewonnenem Land nördlich von Muharraq. Sie kombiniert Luxusresidenzen mit großen Einkaufszentren.",
       hu: "Dijár al-Muharrak egy modern tervezett város Muharrak szigetétől északra, feltöltött területen. Luxuslakóövezeteket ötvöz hatalmas bevásárlóközpontokkal.",
@@ -2045,7 +2045,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-amwaj-islands-cities-v2",
     type: "city",
     name: { de: "Amwaj-Inseln", hu: "Amvádzs-szigetek", ro: "Insulele Amwaj", en: "Amwaj Islands" },
-    coordinates: { lat: 26.284, lng: 50.665 },
+    coords: [50.665, 26.284],
     description: {
       de: "Die Amwaj-Inseln sind eine Gruppe künstlicher Inseln im Nordosten Bahrains. Sie sind bekannt für ihre gehobene Wohnqualität und touristische Infrastruktur.",
       hu: "Az Amvádzs-szigetek mesterséges szigetek csoportja Bahrein északkeleti részén. Színvonalas lakóövezeteiről és turisztikai infrastruktúrájáról ismert.",
@@ -2076,7 +2076,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-durrat-al-bahrain-cities-v2",
     type: "city",
     name: { de: "Durrat Al Bahrain", hu: "Durrat al-Bahrein", ro: "Durrat Al Bahrain", en: "Durrat Al Bahrain" },
-    coordinates: { lat: 25.834, lng: 50.605 },
+    coords: [50.605, 25.834],
     description: {
       de: "Durrat Al Bahrain ist ein luxuriöser Resort-Komplex an der Südspitze Bahrains. Er besteht aus künstlichen Inseln in Form von Blütenblättern und Korallen.",
       hu: "Durrat al-Bahrein egy luxus üdülőkomplexum Bahrein déli csücskénél. Virágszirmokat és korallokat formázó mesterséges szigetekből áll.",
@@ -2107,7 +2107,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-juffair-cities-v2",
     type: "city",
     name: { de: "Juffair", hu: "Dzsuffair", ro: "Juffair", en: "Juffair" },
-    coordinates: { lat: 26.215, lng: 50.606 },
+    coords: [50.606, 26.215],
     description: {
       de: "Juffair ist ein belebtes Viertel von Manama, das auf künstlich gewonnenem Land errichtet wurde. Es ist bekannt für seine Hochhäuser und den US-Flottenstützpunkt.",
       hu: "Dzsuffair Manama forgalmas negyede, amely feltöltött területen épült. Felhőkarcolóiról és az ott található amerikai haditengerészeti bázisról ismert.",
@@ -2138,7 +2138,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-seef-cities-v2",
     type: "city",
     name: { de: "Seef", hu: "Szíf", ro: "Seef", en: "Seef" },
-    coordinates: { lat: 26.242, lng: 50.539 },
+    coords: [50.539, 26.242],
     description: {
       de: "Seef ist das wichtigste Geschäftsviertel von Manama und beherbergt zahlreiche Banken und Einkaufszentren. Es liegt direkt am Meer im Norden der Hauptstadt.",
       hu: "Szíf Manama legfontosabb üzleti negyede, amely számos banknak és bevásárlóközpontnak ad otthont. Közvetlenül a tengerparton fekszik a fővárostól északra.",
@@ -2169,7 +2169,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-mahooz-cities-v2",
     type: "town",
     name: { de: "Mahooz", hu: "Máhúz", ro: "Mahooz", en: "Mahooz" },
-    coordinates: { lat: 26.204, lng: 50.583 },
+    coords: [50.583, 26.204],
     description: {
       de: "Mahooz ist ein ruhiges Wohnviertel in der Hauptstadt Manama. Es ist bekannt für seine vielen diplomatischen Vertretungen und gehobenen Villen.",
       hu: "Máhúz egy csendes lakónegyed Manamában. Számos diplomáciai képviseletéről és színvonalas villáiról nevezetes.",
@@ -2200,7 +2200,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-bu-quwah-cities-v2",
     type: "town",
     name: { de: "Bu Quwah", hu: "Bú Kuvah", ro: "Bu Quwah", en: "Bu Quwah" },
-    coordinates: { lat: 26.199, lng: 50.522 },
+    coords: [50.522, 26.199],
     description: {
       de: "Bu Quwah ist ein schnell wachsendes Dorf im Gouvernement Nord, westlich von Manama. Es hat sich von einer landwirtschaftlichen Fläche zu einem modernen Wohngebiet entwickelt.",
       hu: "Bú Kuvah egy gyorsan növekvő település az Északi kormányzóságban, Manamától nyugatra. Mezőgazdasági területből modern lakóövezetté alakult át.",
@@ -2231,7 +2231,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-sehla-cities-v2",
     type: "town",
     name: { de: "Sehla", hu: "Szehla", ro: "Sehla", en: "Sehla" },
-    coordinates: { lat: 26.197, lng: 50.548 },
+    coords: [50.548, 26.197],
     description: {
       de: "Sehla ist ein Ort im Gouvernement Nord, der in Nord- und Süd-Sehla unterteilt ist. Es ist bekannt für seine lebhaften Geschäftsstraßen und Wohnviertel.",
       hu: "Szehla egy település az Északi kormányzóságban, amely Észak- és Dél-Szehla negyedekre oszlik. Élénk üzleti utcáiról és lakóövezeteiről ismert.",
@@ -2262,7 +2262,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-bilad-al-qadeem-cities-v2",
     type: "town",
     name: { de: "Bilad Al Qadeem", hu: "Bilád al-Kadím", ro: "Bilad Al Qadeem", en: "Bilad Al Qadeem" },
-    coordinates: { lat: 26.211, lng: 50.563 },
+    coords: [50.563, 26.211],
     description: {
       de: "Bilad Al Qadeem war die historische Hauptstadt Bahrains im Mittelalter. Heute ist es ein Vorort von Manama mit reichem kulturellem Erbe.",
       hu: "Bilád al-Kadím Bahrein történelmi fővárosa volt a középkorban. Ma Manama egyik elővárosa, amely gazdag kulturális örökséggel rendelkezik.",
@@ -2293,7 +2293,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-tashan-cities-v2",
     type: "village",
     name: { de: "Tashan", hu: "Tasán", ro: "Tashan", en: "Tashan" },
-    coordinates: { lat: 26.215, lng: 50.542 },
+    coords: [50.542, 26.215],
     description: {
       de: "Tashan ist ein kleines Dorf westlich von Manama, das an die größeren Gebiete Jidhafs und Sehla grenzt. Es ist vorwiegend ein ruhiges Wohngebiet.",
       hu: "Tasán egy kis falu Manamától nyugatra, amely Dzsidhafsz és Szehla nagyobb területeivel határos. Elsősorban csendes lakóövezet.",
@@ -2324,7 +2324,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-abu-saiba-cities-v2",
     type: "village",
     name: { de: "Abu Saiba", hu: "Abu Szaiba", ro: "Abu Saiba", en: "Abu Saiba" },
-    coordinates: { lat: 26.222, lng: 50.511 },
+    coords: [50.511, 26.222],
     description: {
       de: "Abu Saiba ist ein Dorf im Gouvernement Nord, das für seine fruchtbare Landwirtschaft und Palmenhaine bekannt ist. Es hat eine jahrhundertealte Tradition im Pflanzenanbau.",
       hu: "Abu Szaiba egy falu az Északi kormányzóságban, amely termékeny mezőgazdaságáról és pálmaligeteiről ismert. Évszázados hagyományai vannak a növénytermesztésben.",
@@ -2355,7 +2355,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-shakhura-cities-v2",
     type: "village",
     name: { de: "Shakhura", hu: "Sahúra", ro: "Shakhura", en: "Shakhura" },
-    coordinates: { lat: 26.214, lng: 50.512 },
+    coords: [50.512, 26.214],
     description: {
       de: "Shakhura ist ein geschichtsträchtiges Dorf im Gouvernement Nord, direkt neben Abu Saiba. Es beherbergt bedeutende archäologische Stätten aus der Dilmun-Zeit.",
       hu: "Sahúra egy történelmi múltú falu az Északi kormányzóságban, közvetlenül Abu Szaiba mellett. Jelentős régészeti lelőhelyeknek ad otthont a Dilmun-korszakból.",
@@ -2386,7 +2386,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-maqaba-cities-v2",
     type: "village",
     name: { de: "Maqaba", hu: "Makaba", ro: "Maqaba", en: "Maqaba" },
-    coordinates: { lat: 26.209, lng: 50.492 },
+    coords: [50.492, 26.209],
     description: {
       de: "Maqaba ist ein ruhiges Dorf im Zentrum des Gouvernements Nord. Es zeichnet sich durch eine Mischung aus traditionellen Häusern und neuen Wohnanlagen aus.",
       hu: "Makaba egy csendes falu az Északi kormányzóság központjában. Hagyományos házak és új lakóparkok keveréke jellemzi.",
@@ -2417,7 +2417,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-markh-cities-v2",
     type: "village",
     name: { de: "Markh", hu: "Marh", ro: "Markh", en: "Markh" },
-    coordinates: { lat: 26.211, lng: 50.482 },
+    coords: [50.482, 26.211],
     description: {
       de: "Markh ist eines der kleinsten und ältesten Dörfer Bahrains. Es ist von archäologischem Interesse aufgrund seiner Siedlungsspuren aus der Dilmun-Zeit.",
       hu: "Marh Bahrein egyik legkisebb és legrégebbi faluja. Régészeti szempontból jelentős a Dilmun-korszakból származó településnyomok miatt.",
@@ -2448,7 +2448,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-janusan-cities-v2",
     type: "village",
     name: { de: "Janusan", hu: "Dzsanuszán", ro: "Janusan", en: "Janusan" },
-    coordinates: { lat: 26.23, lng: 50.499 },
+    coords: [50.499, 26.23],
     description: {
       de: "Janusan ist ein Küstendorf an der Nordküste Bahrains. Es ist traditionell für seine Landwirtschaft und Fischerei bekannt und liegt nahe dem Meer.",
       hu: "Dzsanuszán egy tengerparti falu Bahrein északi részén. Hagyományosan mezőgazdaságáról és halászatáról ismert, közel fekszik a tengerhez.",
@@ -2479,7 +2479,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-al-musalla-cities-v2",
     type: "town",
     name: { de: "Al Musalla", hu: "al-Muszalla", ro: "Al Musalla", en: "Al Musalla" },
-    coordinates: { lat: 26.209, lng: 50.548 },
+    coords: [50.548, 26.209],
     description: {
       de: "Al Musalla ist ein Vorort westlich von Manama, der nahe der historischen Al-Khamis-Moschee liegt. Es ist ein dicht besiedeltes Wohngebiet mit guter Infrastruktur.",
       hu: "al-Muszalla egy előváros Manamától nyugatra, a történelmi Al-Khamis mecset közelében. Sűrűn lakott terület jó infrastruktúrával.",
@@ -2510,7 +2510,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-al-qadam-cities-v2",
     type: "village",
     name: { de: "Al Qadam", hu: "al-Kadam", ro: "Al Qadam", en: "Al Qadam" },
-    coordinates: { lat: 26.221, lng: 50.523 },
+    coords: [50.523, 26.221],
     description: {
       de: "Al Qadam ist ein Dorf an der Budaiya-Straße im Gouvernement Nord. Es ist für seine historischen Verbindungen und seine Lage in einem fruchtbaren Gebiet bekannt.",
       hu: "al-Kadam egy falu a Budaija út mentén az Északi kormányzóságban. Történelmi kapcsolatairól és termékeny területen való elhelyezkedéséről ismert.",
@@ -2541,7 +2541,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-muqsha-cities-v2",
     type: "village",
     name: { de: "Muqsha", hu: "Muksva", ro: "Muqsha", en: "Muqsha" },
-    coordinates: { lat: 26.228, lng: 50.521 },
+    coords: [50.521, 26.228],
     description: {
       de: "Muqsha ist ein kleines Dorf im Norden Bahrains, das vorwiegend aus Wohngebieten besteht. Es liegt nördlich der Budaiya-Straße in einer ruhigen Umgebung.",
       hu: "Muksva egy kis falu Bahrein északi részén, amely főleg lakóterületekből áll. A Budaija úttól északra, csendes környezetben fekszik.",
@@ -2572,7 +2572,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-sanad-cities-v2",
     type: "town",
     name: { de: "Sanad", hu: "Szanad", ro: "Sanad", en: "Sanad" },
-    coordinates: { lat: 26.155, lng: 50.575 },
+    coords: [50.575, 26.155],
     description: {
       de: "Sanad ist eine Stadt an der Ostküste Bahrains, die für ihre Villen und Mangroven bekannt ist. Sie ist in die Gebiete Neu-Sanad und Alt-Sanad unterteilt.",
       hu: "Szanad Bahrein keleti partján fekvő város, amely villáiról és mangroveerdeiről ismert. Új-Szanad és Ó-Szanad negyedekre oszlik.",
@@ -2603,7 +2603,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "bahrain-nuwaidrat-cities-v2",
     type: "town",
     name: { de: "Nuwaidrat", hu: "Nuvaidrat", ro: "Nuwaidrat", en: "Nuwaidrat" },
-    coordinates: { lat: 26.135, lng: 50.595 },
+    coords: [50.595, 26.135],
     description: {
       de: "Nuwaidrat ist eine Stadt im Gouvernement Süd, die Wohngebiete mit industrieller Nähe kombiniert. Sie liegt nahe der Bapco-Raffinerie und Sitra.",
       hu: "Nuvaidrat egy város a Déli kormányzóságban, amely lakónegyedeket ötvöz az ipari közelséggel. A Bapco-finomító és Szitra közelében fekszik.",

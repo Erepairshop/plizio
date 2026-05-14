@@ -966,7 +966,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-sultan-armed-forces-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Streitkräfte des Sultans", hu: "Szultáni Fegyveres Erők Múzeuma", ro: "Muzeul Forțelor Armate ale Sultanului", en: "Sultan's Armed Forces Museum" },
-    coordinates: { lat: 23.606, lng: 58.544 },
+    coords: [58.544, 23.606],
     description: {
       de: "Dieses Militärmuseum im Bait Al Falaj Fort dokumentiert die Verteidigungsgeschichte Omans und die Entwicklung der Armee.",
       hu: "A Bait Al Falaj erődben található hadtörténeti múzeum Omán védelmi múltját és a hadsereg fejlődését mutatja be.",
@@ -985,7 +985,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-omani-french-museum-landmarks-v2",
     type: "museum",
     name: { de: "Omanisch-Französisches Museum", hu: "Ománi-Francia Múzeum", ro: "Muzeul Omano-Francez", en: "Omani French Museum" },
-    coordinates: { lat: 23.614, lng: 58.592 },
+    coords: [58.592, 23.614],
     description: {
       de: "Ein historisches Museum im ehemaligen französischen Konsulat, das die diplomatischen Beziehungen beider Länder dokumentiert.",
       hu: "A korábbi francia konzulátus épületében berendezett múzeum a két ország diplomáciai kapcsolatait mutatja be.",
@@ -1004,7 +1004,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-natural-history-museum-muscat-landmarks-v2",
     type: "museum",
     name: { de: "Naturkundemuseum Maskat", hu: "Maszkati Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală din Muscat", en: "Natural History Museum Muscat" },
-    coordinates: { lat: 23.601, lng: 58.468 },
+    coords: [58.468, 23.601],
     description: {
       de: "Dieses Museum präsentiert die vielfältige Flora, Fauna und Geologie Omans mit beeindruckenden Fossilienfunden.",
       hu: "Ez a múzeum Omán változatos növény- és állatvilágát, valamint geológiáját mutatja be lenyűgöző fosszíliákkal.",
@@ -1023,7 +1023,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-asma-bint-alawi-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Asma Bint Alawi Moschee", hu: "Asma Bint Alawi mecset", ro: "Moscheea Asma Bint Alawi", en: "Asma Bint Alawi Mosque" },
-    coordinates: { lat: 23.615, lng: 58.483 },
+    coords: [58.483, 23.615],
     description: {
       de: "Eine elegante Moschee in Al Qurum, die für ihren marokkanischen Architekturstil und die farbenfrohen Mosaike bekannt ist.",
       hu: "Al-Kurum negyedében található elegáns mecset, amely marokkói stílusáról és színes mozaikjairól ismert.",
@@ -1042,7 +1042,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-said-bin-taimur-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Said Bin Taimur Moschee", hu: "Said Bin Taimur mecset", ro: "Moscheea Said Bin Taimur", en: "Said Bin Taimur Mosque" },
-    coordinates: { lat: 23.593, lng: 58.423 },
+    coords: [58.423, 23.593],
     description: {
       de: "Diese Moschee in Al Khuwair besticht durch ihren osmanischen Stil mit zwei spitzen Minaretten und mehreren Kuppeln.",
       hu: "Al-Khuwair negyedében épült mecset, amely oszmán stílusával, két hegyes minaretjével és több kupolájával tűnik ki.",
@@ -1061,7 +1061,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-mazoon-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Mazoon Moschee", hu: "Mazoon mecset", ro: "Moscheea Mazoon", en: "Mazoon Mosque" },
-    coordinates: { lat: 23.605, lng: 58.401 },
+    coords: [58.401, 23.605],
     description: {
       de: "Eine bedeutende Moschee in Al Khuwair, benannt nach Sayyida Mazoon bint Ahmed, der Mutter von Sultan Qaboos.",
       hu: "Jelentős mecset Al-Khuwairben, amelyet Sayyida Mazoon bint Ahmedről, Kábúsz szultán édesanyjáról neveztek el.",
@@ -1080,7 +1080,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-al-zulfa-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al Zulfa Moschee", hu: "Al Zulfa mecset", ro: "Moscheea Al Zulfa", en: "Al Zulfa Mosque" },
-    coordinates: { lat: 23.628, lng: 58.196 },
+    coords: [58.196, 23.628],
     description: {
       de: "Diese Moschee in Seeb zeichnet sich durch ihre charakteristischen grünen Kuppeln und die moderne islamische Architektur aus.",
       hu: "Ez a Seebben található mecset jellegzetes zöld kupoláiról és modern iszlám építészetéről ismert.",
@@ -1099,7 +1099,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-barka-fort-landmarks-v2",
     type: "castle",
     name: { de: "Barka Fort", hu: "Barka erőd", ro: "Fortul Barka", en: "Barka Fort" },
-    coordinates: { lat: 23.711, lng: 57.886 },
+    coords: [57.886, 23.711],
     description: {
       de: "Eine markante Küstenfestung in Barka, die einst die Schifffahrtswege nach Maskat schützte.",
       hu: "Jellegzetes tengerparti erőd Barkában, amely egykor a Maszkatba vezető hajózási útvonalakat védte.",
@@ -1118,7 +1118,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-sohar-fort-landmarks-v2",
     type: "castle",
     name: { de: "Sohar Fort", hu: "Szohár erőd", ro: "Fortul Sohar", en: "Sohar Fort" },
-    coordinates: { lat: 24.363, lng: 56.748 },
+    coords: [56.748, 24.363],
     description: {
       de: "Ein historisches Fort mit weißen Mauern, das ein Museum beherbergt und die reiche Handelsgeschichte von Sohar zeigt.",
       hu: "Fehér falú történelmi erőd, amely múzeumnak ad otthont, és Szohár gazdag kereskedelmi múltját mutatja be.",
@@ -1137,7 +1137,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-as-suwayq-fort-landmarks-v2",
     type: "castle",
     name: { de: "As Suwayq Fort", hu: "As-Szuvejk erőd", ro: "Fortul As Suwayq", en: "As Suwayq Fort" },
-    coordinates: { lat: 23.847, lng: 57.438 },
+    coords: [57.438, 23.847],
     description: {
       de: "Diese mächtige Festung liegt in der Batinah-Ebene und diente dem Schutz der landwirtschaftlichen Gebiete.",
       hu: "Ez a hatalmas erőd a Batinah-síkságon található, és a mezőgazdasági területek védelmét szolgálta.",
@@ -1156,7 +1156,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-al-khandaq-fort-landmarks-v2",
     type: "castle",
     name: { de: "Al Khandaq Fort", hu: "Al Khandaq erőd", ro: "Fortul Al Khandaq", en: "Al Khandaq Fort" },
-    coordinates: { lat: 24.253, lng: 55.787 },
+    coords: [55.787, 24.253],
     description: {
       de: "Eine einzigartige Festung in Al Buraimi, die von einem tiefen Graben umgeben ist und als Verteidigungsbauwerk diente.",
       hu: "Egyedülálló erőd Al-Buraimiben, amelyet mély árok vesz körül, és védelmi építményként szolgált.",
@@ -1175,7 +1175,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-al-hilla-fort-landmarks-v2",
     type: "castle",
     name: { de: "Al Hilla Fort", hu: "Al Hilla erőd", ro: "Fortul Al Hilla", en: "Al Hilla Fort" },
-    coordinates: { lat: 24.256, lng: 55.783 },
+    coords: [55.783, 24.256],
     description: {
       de: "Ein historisches Wohnfort in Al Buraimi, bekannt für seine kunstvollen Verzierungen und traditionelle Bauweise.",
       hu: "Történelmi lakóerőd Al-Buraimiben, amely díszes dekorációiról és hagyományos építési módjáról ismert.",
@@ -1194,7 +1194,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-yanqul-fort-landmarks-v2",
     type: "castle",
     name: { de: "Yanqul Fort", hu: "Jankul erőd", ro: "Fortul Yanqul", en: "Yanqul Fort" },
-    coordinates: { lat: 23.587, lng: 56.551 },
+    coords: [56.551, 23.587],
     description: {
       de: "Dieses Fort in der Region Dhahirah besteht aus sieben Türmen und einem weitläufigen Gebäudekomplex.",
       hu: "Ez a Dhahirah régióban található erőd hét toronyból és egy kiterjedt épületegyüttesből áll.",
@@ -1213,7 +1213,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-ibri-fort-landmarks-v2",
     type: "castle",
     name: { de: "Ibri Fort", hu: "Ibri erőd", ro: "Fortul Ibri", en: "Ibri Fort" },
-    coordinates: { lat: 23.232, lng: 56.516 },
+    coords: [56.516, 23.232],
     description: {
       de: "Eine massive Lehmziegelfestung im Zentrum von Ibri, die für ihre historische Moschee im Inneren bekannt ist.",
       hu: "Masszív vályogtégla erőd Ibri központjában, amely a benne található történelmi mecsetről ismert.",
@@ -1232,7 +1232,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-bahla-ancient-wall-landmarks-v2",
     type: "ruins",
     name: { de: "Alte Mauer von Bahla", hu: "Bahla ősi fala", ro: "Zidul antic din Bahla", en: "Bahla Ancient Wall" },
-    coordinates: { lat: 22.964, lng: 57.298 },
+    coords: [57.298, 22.964],
     description: {
       de: "Diese 12 Kilometer lange Stadtmauer aus Lehmziegeln umschließt die historische Oase von Bahla.",
       hu: "Ez a 12 kilométer hosszú, vályogtéglából készült városfal veszi körül Bahla történelmi oázisát.",
@@ -1251,7 +1251,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-nizwa-souq-landmarks-v2",
     type: "landmark",
     name: { de: "Nizwa Souq", hu: "Nizwa szuk", ro: "Souq Nizwa", en: "Nizwa Souq" },
-    coordinates: { lat: 22.934, lng: 57.53 },
+    coords: [57.53, 22.934],
     description: {
       de: "Einer der ältesten Märkte Omans, bekannt für den Handel mit Silber, Töpferwaren und den freitäglichen Viehmarkt.",
       hu: "Omán egyik legrégebbi piaca, amely ezüstkereskedelméről, fazekasságáról és a pénteki állatvásárról híres.",
@@ -1270,7 +1270,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-liwa-fort-landmarks-v2",
     type: "castle",
     name: { de: "Liwa Fort", hu: "Liva erőd", ro: "Fortul Liwa", en: "Liwa Fort" },
-    coordinates: { lat: 24.453, lng: 56.562 },
+    coords: [56.562, 24.453],
     description: {
       de: "Diese historische Festung liegt in der Nähe von Sohar und ist ein Beispiel für die Verteidigungsarchitektur Nordomans.",
       hu: "Ez a történelmi erőd Szohár közelében található, és az észak-ománi védelmi építészet példája.",
@@ -1289,7 +1289,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-al-faqain-castle-landmarks-v2",
     type: "castle",
     name: { de: "Al Faqain Schloss", hu: "Al Faqain kastély", ro: "Castelul Al Faqain", en: "Al Faqain Castle" },
-    coordinates: { lat: 22.862, lng: 57.596 },
+    coords: [57.596, 22.862],
     description: {
       de: "Ein außergewöhnliches vierstöckiges Schloss in Manah, das durch seine vertikale Architektur und Verteidigungsanlagen besticht.",
       hu: "Rendkívüli négyszintes kastély Manah-ban, amely vertikális építészetével és védelmi rendszereivel tűnik ki.",
@@ -1308,7 +1308,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-bukha-fort-landmarks-v2",
     type: "castle",
     name: { de: "Bukha Fort", hu: "Bukha erőd", ro: "Fortul Bukha", en: "Bukha Fort" },
-    coordinates: { lat: 26.136, lng: 56.148 },
+    coords: [56.148, 26.136],
     description: {
       de: "Diese Festung auf der Halbinsel Musandam bietet einen spektakulären Blick auf den Arabischen Golf.",
       hu: "A Muszandam-félszigeten található erőd látványos kilátást nyújt az Arab-öbölre.",
@@ -1327,7 +1327,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-khasab-castle-landmarks-v2",
     type: "castle",
     name: { de: "Khasab Schloss", hu: "Haszab kastély", ro: "Castelul Khasab", en: "Khasab Castle" },
-    coordinates: { lat: 26.198, lng: 56.249 },
+    coords: [56.249, 26.198],
     description: {
       de: "Ein im 17. Jahrhundert von den Portugiesen erbautes Schloss, das heute ein Museum über die Kultur von Musandam beherbergt.",
       hu: "A portugálok által a 17. században épített kastély, amely ma a muszandami kultúrát bemutató múzeumnak ad otthont.",
@@ -1346,7 +1346,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-sinaw-souq-landmarks-v2",
     type: "landmark",
     name: { de: "Sinaw Souq", hu: "Szinav szuk", ro: "Souq Sinaw", en: "Sinaw Souq" },
-    coordinates: { lat: 22.483, lng: 58.033 },
+    coords: [58.033, 22.483],
     description: {
       de: "Ein lebendiger Beduinenmarkt am Rande der Wüste, der besonders am Donnerstag für seinen Vieh- und Warenhandel bekannt ist.",
       hu: "Nyüzsgő beduin piac a sivatag szélén, amely különösen csütörtökönként híres állat- és árukereskedelméről.",
@@ -1365,7 +1365,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-fanja-watchtower-landmarks-v2",
     type: "tower",
     name: { de: "Fanja Wachturm", hu: "Fanja őrtorony", ro: "Turnul de pază Fanja", en: "Fanja Watchtower" },
-    coordinates: { lat: 23.454, lng: 58.118 },
+    coords: [58.118, 23.454],
     description: {
       de: "Ein malerischer Wachturm, der über dem historischen Dorf Fanja und dem dazugehörigen Wadi thront.",
       hu: "Gleccseres völgy felett magasodó festői őrtorony, amely Fanja történelmi faluja felett őrködik.",
@@ -1384,7 +1384,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-qurayyat-fort-landmarks-v2",
     type: "castle",
     name: { de: "Qurayyat Fort", hu: "Kurajjat erőd", ro: "Fortul Qurayyat", en: "Qurayyat Fort" },
-    coordinates: { lat: 23.264, lng: 58.914 },
+    coords: [58.914, 23.264],
     description: {
       de: "Diese Küstenfestung schützte den Hafen von Qurayyat und war ein wichtiger Stützpunkt gegen Eindringlinge vom Meer.",
       hu: "Ez a tengerparti erőd Kurajjat kikötőjét védte, és fontos bázis volt a tengeri betolakodók ellen.",
@@ -1403,7 +1403,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-jalan-bani-bu-hassan-fort-landmarks-v2",
     type: "castle",
     name: { de: "Jalan Bani Bu Hassan Fort", hu: "Jalan Bani Bu Hassan erőd", ro: "Fortul Jalan Bani Bu Hassan", en: "Jalan Bani Bu Hassan Fort" },
-    coordinates: { lat: 22.083, lng: 59.274 },
+    coords: [59.274, 22.083],
     description: {
       de: "Eine beeindruckende Wüstenfestung mit massiven Mauern und Türmen, die das Hinterland der Sharqiyah-Region sicherte.",
       hu: "Lenyűgöző sivatagi erőd masszív falakkal és tornyokkal, amely a Sharkija régió belső területét védte.",
@@ -1422,7 +1422,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-jalan-bani-bu-ali-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Jalan Bani Bu Ali Moschee", hu: "Jalan Bani Bu Ali mecset", ro: "Moscheea Jalan Bani Bu Ali", en: "Jalan Bani Bu Ali Mosque" },
-    coordinates: { lat: 22.023, lng: 59.324 },
+    coords: [59.324, 22.023],
     description: {
       de: "Diese einzigartige Moschee, auch Hamouda-Moschee genannt, ist für ihre 52 Kuppeln und das Fehlen eines Minaretts bekannt.",
       hu: "Ez az egyedülálló mecset, más néven Hamuda-mecset, 52 kupolájáról és a minaret hiányáról ismert.",
@@ -1441,7 +1441,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-burj-al-sahwa-landmarks-v2",
     type: "tower",
     name: { de: "Burj Al Sahwa", hu: "Burdzs al-Szahva", ro: "Burj Al Sahwa", en: "Burj Al Sahwa" },
-    coordinates: { lat: 23.592, lng: 58.261 },
+    coords: [58.261, 23.592],
     description: {
       de: "Ein moderner Uhrturm in Maskat, der als Tor zur Stadt gilt und die omanische Renaissance symbolisiert.",
       hu: "Modern óratorony Maszkatban, amely a város kapujaként szolgál és az ománi reneszánszt jelképezi.",
@@ -1460,7 +1460,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
     id: "oman-convention-exhibition-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Oman Convention & Exhibition Centre", hu: "Ománi Kongresszusi és Kiállítási Központ", ro: "Centrul de Convenții și Expoziții din Oman", en: "Oman Convention and Exhibition Centre" },
-    coordinates: { lat: 23.578, lng: 58.337 },
+    coords: [58.337, 23.578],
     description: {
       de: "Ein hochmodernes Veranstaltungszentrum in Maskat, bekannt für seine innovative Architektur und internationale Events.",
       hu: "Ultramodern rendezvényközpont Maszkatban, amely innovatív építészetéről és nemzetközi eseményeiről ismert.",

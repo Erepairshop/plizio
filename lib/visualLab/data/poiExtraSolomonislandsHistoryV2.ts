@@ -5,7 +5,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-henderson-field-history-v2",
     type: "battlefield",
     name: { de: "Henderson-Flugplatz", hu: "Henderson repülőtér", ro: "Aeroportul Henderson", en: "Henderson Field" },
-    coordinates: { lat: -9.428, lng: 160.053 },
+    coords: [160.053, -9.428],
     description: {
       de: "Der wichtigste Flugplatz auf Guadalcanal während des Zweiten Weltkriegs. Er wurde 1942 von US-Marines erobert und gegen japanische Angriffe verteidigt.",
       hu: "A legfontosabb repülőtér Guadalcanal szigetén a második világháború alatt. 1942-ben az amerikai tengerészgyalogosok foglalták el a japánoktól.",
@@ -24,7 +24,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-bloody-ridge-history-v2",
     type: "battlefield",
     name: { de: "Bloody Ridge", hu: "Bloody Ridge (Edson-gerinc)", ro: "Creasta Sângeroasă", en: "Bloody Ridge" },
-    coordinates: { lat: -9.458, lng: 160.045 },
+    coords: [160.045, -9.458],
     description: {
       de: "Ein strategischer Hügel südlich des Henderson-Flugplatzes. Hier hielten US-Truppen im September 1942 einer massiven japanischen Offensive stand.",
       hu: "Stratégiai magaslat a Henderson repülőtértől délre. 1942 szeptemberében az amerikai csapatok itt verték vissza a japán offenzívát.",
@@ -43,7 +43,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-mount-austen-history-v2",
     type: "battlefield",
     name: { de: "Mount Austen", hu: "Austen-hegy", ro: "Muntele Austen", en: "Mount Austen" },
-    coordinates: { lat: -9.485, lng: 159.972 },
+    coords: [159.972, -9.485],
     description: {
       de: "Ein dominanter Hügel westlich von Honiara, der während des Krieges als Beobachtungsposten diente. Er war Schauplatz langwieriger Kämpfe im Jahr 1943.",
       hu: "Honiarától nyugatra fekvő uralkodó magaslat, amely megfigyelőpontként szolgált. 1943 elején hosszú és véres harcok helyszíne volt.",
@@ -62,7 +62,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-ironbottom-sound-history-v2",
     type: "battlefield",
     name: { de: "Ironbottom Sound", hu: "Vaspadlójú-szoros", ro: "Ironbottom Sound", en: "Ironbottom Sound" },
-    coordinates: { lat: -9.15, lng: 159.85 },
+    coords: [159.85, -9.15],
     description: {
       de: "Ein Meeresarm zwischen Guadalcanal und Savo Island, bekannt für die enorme Anzahl versenkter Kriegsschiffe. Er ist ein bedeutender Unterwasser-Friedhof.",
       hu: "A Guadalcanal és Savo-sziget közötti vízfelület, amely a rengeteg elsüllyedt hadihajóról kapta a nevét. Hatalmas víz alatti hadisír.",
@@ -81,7 +81,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-alligator-creek-history-v2",
     type: "battlefield",
     name: { de: "Alligator Creek", hu: "Alligator-patak", ro: "Alligator Creek", en: "Alligator Creek" },
-    coordinates: { lat: -9.425, lng: 160.085 },
+    coords: [160.085, -9.425],
     description: {
       de: "Schauplatz der Schlacht am Tenaru im August 1942, wo US-Marines den ersten großen japanischen Gegenangriff am Boden abwehrten.",
       hu: "A Tenaru-menti csata helyszíne 1942 augusztusában, ahol az amerikaiak visszaverték az első jelentős japán szárazföldi ellentámadást.",
@@ -100,7 +100,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-matanikau-river-history-v2",
     type: "battlefield",
     name: { de: "Matanikau-Fluss", hu: "Matanikau-folyó", ro: "Râul Matanikau", en: "Matanikau River" },
-    coordinates: { lat: -9.435, lng: 159.945 },
+    coords: [159.945, -9.435],
     description: {
       de: "Ein Fluss westlich von Honiara, der monatelang die Frontlinie bildete. Hier fanden zahlreiche Gefechte zwischen US-Marines und japanischen Truppen statt.",
       hu: "Honiarától nyugatra fekvő folyó, amely hónapokig a frontvonalat alkotta. Számos ütközet helyszíne volt a dzsungelben.",
@@ -119,7 +119,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-point-cruz-history-v2",
     type: "landmark",
     name: { de: "Point Cruz", hu: "Point Cruz", ro: "Point Cruz", en: "Point Cruz" },
-    coordinates: { lat: -9.428, lng: 159.955 },
+    coords: [159.955, -9.428],
     description: {
       de: "Eine kleine Halbinsel im Zentrum von Honiara. Sie war ein umkämpfter Stützpunkt während der Schlacht um Guadalcanal und dient heute als Haupthafen.",
       hu: "Kis félsziget Honiara központjában. A guadalcanali csata során fontos támaszpont volt, ma a város fő kikötője.",
@@ -138,7 +138,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vilu-war-museum-history-v2",
     type: "museum",
     name: { de: "Vilu Kriegsmuseum", hu: "Vilu Háborús Múzeum", ro: "Muzeul de Război Vilu", en: "Vilu War Museum" },
-    coordinates: { lat: -9.395, lng: 159.835 },
+    coords: [159.835, -9.395],
     description: {
       de: "Ein Freilichtmuseum westlich von Honiara, das eine beeindruckende Sammlung von Flugzeugwracks und Artillerie aus dem Zweiten Weltkrieg zeigt.",
       hu: "Szabadtéri múzeum Honiarától nyugatra, amely lenyűgöző gyűjteménnyel rendelkezik a második világháborús repülőgéproncsokból.",
@@ -157,7 +157,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-bonegi-beach-history-v2",
     type: "battlefield",
     name: { de: "Bonegi Strand", hu: "Bonegi strand", ro: "Plaja Bonegi", en: "Bonegi Beach" },
-    coordinates: { lat: -9.385, lng: 159.865 },
+    coords: [159.865, -9.385],
     description: {
       de: "Ein bekannter Strand westlich von Honiara, berühmt für zwei große japanische Schiffswracks, die direkt vor der Küste im seichten Wasser liegen.",
       hu: "Honiarától nyugatra fekvő strand, amely a part közelében, sekély vízben fekvő két hatalmas japán hajóroncsról ismert.",
@@ -176,7 +176,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-skyline-ridge-history-v2",
     type: "battlefield",
     name: { de: "Skyline Ridge", hu: "Skyline Ridge", ro: "Skyline Ridge", en: "Skyline Ridge" },
-    coordinates: { lat: -9.445, lng: 159.965 },
+    coords: [159.965, -9.445],
     description: {
       de: "Ein Höhenzug über Honiara, auf dem sich das Denkmal für die US-Streitkräfte befindet. Er bietet einen weiten Blick über die ehemaligen Schlachtfelder.",
       hu: "Honiara feletti dombsor, ahol az amerikai erők emlékműve áll. Kilátást nyújt a háborús hadszínterekre.",
@@ -195,7 +195,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-white-river-history-v2",
     type: "battlefield",
     name: { de: "White River", hu: "Fehér-folyó (White River)", ro: "Râul White", en: "White River" },
-    coordinates: { lat: -9.435, lng: 159.925 },
+    coords: [159.925, -9.435],
     description: {
       de: "Ein Flusslauf am westlichen Rand von Honiara, der während der Rückzugskämpfe der japanischen Armee Anfang 1943 heftig umkämpft war.",
       hu: "Folyó Honiara nyugati szélén, amely az 1943 eleji japán visszavonulási harcok során vált fontossá.",
@@ -214,7 +214,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kokumbona-history-v2",
     type: "village",
     name: { de: "Kokumbona", hu: "Kokumbona", ro: "Kokumbona", en: "Kokumbona" },
-    coordinates: { lat: -9.43, lng: 159.9 },
+    coords: [159.9, -9.43],
     description: {
       de: "Ein ehemaliges Dorf westlich von Honiara, das als Hauptquartier der japanischen 17. Armee während der Schlacht um Guadalcanal diente.",
       hu: "Honiarától nyugatra fekvő egykori falu, amely a japán 17. hadsereg főhadiszállása volt a guadalcanali csata idején.",
@@ -233,7 +233,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tetere-beach-history-v2",
     type: "battlefield",
     name: { de: "Tetere Strand", hu: "Tetere strand", ro: "Plaja Tetere", en: "Tetere Beach" },
-    coordinates: { lat: -9.41, lng: 160.2 },
+    coords: [160.2, -9.41],
     description: {
       de: "Ein Küstenabschnitt östlich von Honiara, bekannt für verlassene amerikanische Amphibienfahrzeuge (LVT), die dort seit dem Zweiten Weltkrieg verrotten.",
       hu: "Honiarától keletre fekvő tengerpart, amely az ott hagyott amerikai kétéltű járművekről (LVT) ismert.",
@@ -252,7 +252,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-lunga-point-history-v2",
     type: "battlefield",
     name: { de: "Lunga Point", hu: "Lunga-fok", ro: "Lunga Point", en: "Lunga Point" },
-    coordinates: { lat: -9.41, lng: 160.03 },
+    coords: [160.03, -9.41],
     description: {
       de: "Eine strategische Landzunge auf Guadalcanal, die das Zentrum des amerikanischen Brückenkopfes und den Henderson-Flugplatz umfasste.",
       hu: "Stratégiai fontosságú fok Guadalcanalon, amely az amerikai hídfőállás és a Henderson repülőtér központja volt.",
@@ -271,7 +271,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tulagi-island-history-v2",
     type: "city",
     name: { de: "Tulagi", hu: "Tulagi-sziget", ro: "Insula Tulagi", en: "Tulagi Island" },
-    coordinates: { lat: -9.09, lng: 160.15 },
+    coords: [160.15, -9.09],
     description: {
       de: "Die ehemalige Hauptstadt des britischen Protektorats Salomonen. Sie war Schauplatz heftiger Kämpfe während der ersten alliierten Landungen 1942.",
       hu: "A Brit Salamon-szigetek egykori fővárosa. Heves harcok helyszíne volt az 1942-es szövetséges partraszállás idején.",
@@ -290,7 +290,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-gavutu-island-history-v2",
     type: "battlefield",
     name: { de: "Gavutu", hu: "Gavutu-sziget", ro: "Insula Gavutu", en: "Gavutu Island" },
-    coordinates: { lat: -9.11, lng: 160.18 },
+    coords: [160.18, -9.11],
     description: {
       de: "Eine kleine Insel nahe Tulagi, die durch einen Damm mit Tanambogo verbunden ist. Sie war Schauplatz eines blutigen Kampfes um japanische Tunnelstellungen.",
       hu: "Kicsiny sziget Tulagi közelében, amelyet egy töltés köt össze Tanambogóval. A japán alagútrendszerekért folytatott véres harc helyszíne.",
@@ -309,7 +309,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tanambogo-island-history-v2",
     type: "battlefield",
     name: { de: "Tanambogo", hu: "Tanambogo-sziget", ro: "Insula Tanambogo", en: "Tanambogo Island" },
-    coordinates: { lat: -9.11, lng: 160.185 },
+    coords: [160.185, -9.11],
     description: {
       de: "Zwillingsinsel von Gavutu, bekannt für die verzweifelte japanische Verteidigung im August 1942. US-Truppen mussten die Insel unter schwerem Feuer stürmen.",
       hu: "Gavutu ikerszigete, amely az 1942 augusztusi elszánt japán védekezésről ismert. Az amerikaiak súlyos tűzben rohamozták meg.",
@@ -328,7 +328,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-blue-beach-history-v2",
     type: "battlefield",
     name: { de: "Blue Beach", hu: "Blue Beach (Tulagi)", ro: "Plaja Albastră", en: "Blue Beach" },
-    coordinates: { lat: -9.095, lng: 160.145 },
+    coords: [160.145, -9.095],
     description: {
       de: "Der Hauptlandungsstrand auf Tulagi für die US-Marines am 7. August 1942. Er liegt an der geschützten Südostküste der Insel.",
       hu: "Az amerikai tengerészgyalogosok fő partraszállási helye Tulagin 1942. augusztus 7-én. A sziget délkeleti partján található.",
@@ -347,7 +347,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kennedy-island-history-v2",
     type: "landmark",
     name: { de: "Kennedy-Insel (Kasolo)", hu: "Kennedy-sziget (Kasolo)", ro: "Insula Kennedy", en: "Kennedy Island (Kasolo)" },
-    coordinates: { lat: -8.11, lng: 156.92 },
+    coords: [156.92, -8.11],
     description: {
       de: "Eine kleine Insel nahe Gizo, auf der John F. Kennedy und seine Crew 1943 nach dem Untergang ihres Schnellbootes PT-109 strandeten.",
       hu: "Gizo közeli kis sziget, ahol John F. Kennedy és legénysége 1943-ban partra szállt, miután PT-109-es hajójukat elsüllyesztették.",
@@ -366,7 +366,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-gizo-town-history-v2",
     type: "city",
     name: { de: "Gizo", hu: "Gizo városa", ro: "Gizo", en: "Gizo Town" },
-    coordinates: { lat: -8.1, lng: 156.84 },
+    coords: [156.84, -8.1],
     description: {
       de: "Das Verwaltungszentrum der Western Province. Gizo war im Zweiten Weltkrieg ein wichtiger japanischer Vorposten und erlitt schwere Zerstörungen.",
       hu: "A Nyugati tartomány közigazgatási központja. A második világháborúban fontos japán előőrs volt és súlyos pusztítást szenvedett.",
@@ -385,7 +385,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-munda-airstrip-history-v2",
     type: "battlefield",
     name: { de: "Munda Flugplatz", hu: "Munda repülőtér", ro: "Aeroportul Munda", en: "Munda Airstrip" },
-    coordinates: { lat: -8.33, lng: 157.26 },
+    coords: [157.26, -8.33],
     description: {
       de: "Ein von Japanern erbauter und später von Amerikanern genutzter strategischer Flugplatz auf New Georgia. Er war Ziel einer großen alliierten Kampagne 1943.",
       hu: "Japánok által épített, majd amerikaiak által használt stratégiai repülőtér New Georgia szigetén. 1943-ban nagy hadjárat célpontja volt.",
@@ -404,7 +404,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-seghe-airstrip-history-v2",
     type: "battlefield",
     name: { de: "Seghe Flugplatz", hu: "Seghe repülőtér", ro: "Aeroportul Seghe", en: "Seghe Airstrip" },
-    coordinates: { lat: -8.57, lng: 157.88 },
+    coords: [157.88, -8.57],
     description: {
       de: "Ein Flugplatz an der Südspitze von New Georgia, der 1943 zur Unterstützung der Munda-Offensive von alliierten Truppen eingenommen wurde.",
       hu: "New Georgia déli csücskén fekvő repülőtér, amelyet 1943-ban foglaltak el a szövetségesek a Munda elleni támadás támogatására.",
@@ -423,7 +423,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-viru-harbor-history-v2",
     type: "port",
     name: { de: "Viru Hafen", hu: "Viru-kikötő", ro: "Portul Viru", en: "Viru Harbor" },
-    coordinates: { lat: -8.5, lng: 157.7 },
+    coords: [157.7, -8.5],
     description: {
       de: "Ein tiefer Naturhafen auf New Georgia, der im Juli 1943 in einer schwierigen Überland-Operation von US-Marines eingenommen wurde.",
       hu: "Mély vizű természetes kikötő New Georgia szigetén, amelyet 1943 júliusában foglaltak el az amerikai tengerészgyalogosok.",
@@ -442,7 +442,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-enogai-inlet-history-v2",
     type: "battlefield",
     name: { de: "Enogai Inlet", hu: "Enogai-öböl", ro: "Enogai Inlet", en: "Enogai Inlet" },
-    coordinates: { lat: -8.23, lng: 157.25 },
+    coords: [157.25, -8.23],
     description: {
       de: "Ein strategischer Punkt im Norden von New Georgia, der 1943 Schauplatz heftiger Kämpfe zwischen den US-Marine-Raidern und japanischen Verteidigern war.",
       hu: "Stratégiai pont New Georgia északi részén, ahol 1943-ban heves harcok folytak az amerikai portyázók és a japán védők között.",
@@ -461,7 +461,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-bairoko-harbor-history-v2",
     type: "battlefield",
     name: { de: "Bairoko Hafen", hu: "Bairoko-kikötő", ro: "Portul Bairoko", en: "Bairoko Harbor" },
-    coordinates: { lat: -8.25, lng: 157.2 },
+    coords: [157.2, -8.25],
     description: {
       de: "Ein stark befestigter japanischer Hafen auf New Georgia, den US-Truppen im Juli 1943 trotz schwerer Angriffe zunächst nicht einnehmen konnten.",
       hu: "Erősen védett japán kikötő New Georgia szigetén, amelyet 1943 júliusában az amerikaiak először nem tudtak elfoglalni.",
@@ -480,7 +480,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-wickham-anchorage-history-v2",
     type: "port",
     name: { de: "Wickham Ankerplatz", hu: "Wickham-horgonyzóhely", ro: "Rada Wickham", en: "Wickham Anchorage" },
-    coordinates: { lat: -8.7, lng: 158.2 },
+    coords: [158.2, -8.7],
     description: {
       de: "Ein Ankerplatz auf Vangunu Island, der 1943 eingenommen wurde, um die japanischen Versorgungslinien in den New Georgia Inseln zu unterbrechen.",
       hu: "Vangunu-szigeti horgonyzóhely, amelyet 1943-ban foglaltak el, hogy elvágják a japán utánpótlási vonalakat New Georgia felé.",
@@ -499,7 +499,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-pavuvu-island-history-v2",
     type: "landmark",
     name: { de: "Pavuvu", hu: "Pavuvu-sziget", ro: "Insula Pavuvu", en: "Pavuvu Island" },
-    coordinates: { lat: -9.07, lng: 159.13 },
+    coords: [159.13, -9.07],
     description: {
       de: "Eine Insel der Russell-Inseln, die als wichtiges Ruhe- und Ausbildungszentrum für die 1. US-Marinedivision während des Pazifikkriegs diente.",
       hu: "A Russell-szigetek egyike, amely az amerikai 1. tengerészgyalogos hadosztály pihenő- és kiképzőközpontja volt.",
@@ -518,7 +518,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-banika-island-history-v2",
     type: "landmark",
     name: { de: "Banika", hu: "Banika-sziget", ro: "Insula Banika", en: "Banika Island" },
-    coordinates: { lat: -9.08, lng: 159.18 },
+    coords: [159.18, -9.08],
     description: {
       de: "Die zweitgrößte der Russell-Inseln, die während des Krieges zu einer massiven alliierten Logistik- und Luftwaffenbasis ausgebaut wurde.",
       hu: "A Russell-szigetek második legnagyobb tagja, amelyet a háború alatt hatalmas szövetséges logisztikai és légi bázissá alakítottak.",
@@ -537,7 +537,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-nusatupe-island-history-v2",
     type: "landmark",
     name: { de: "Nusatupe", hu: "Nusatupe-sziget", ro: "Insula Nusatupe", en: "Nusatupe Island" },
-    coordinates: { lat: -8.11, lng: 156.86 },
+    coords: [156.86, -8.11],
     description: {
       de: "Eine Insel direkt vor Gizo, die im Zweiten Weltkrieg als Landebahn diente und heute der Hauptflughafen für die Region Gizo ist.",
       hu: "Gizo melletti sziget, amely a második világháborúban kifutópályaként szolgált, ma pedig Gizo régiójának fő repülőtere.",
@@ -556,7 +556,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-ballalae-island-history-v2",
     type: "battlefield",
     name: { de: "Ballalae", hu: "Ballalae-sziget", ro: "Insula Ballalae", en: "Ballalae Island" },
-    coordinates: { lat: -6.99, lng: 155.88 },
+    coords: [155.88, -6.99],
     description: {
       de: "Eine Insel in den Shortland-Inseln, berühmt für ihren japanischen Flugplatz und die zahlreichen Flugzeugwracks aus dem Zweiten Weltkrieg.",
       hu: "A Shortland-szigetek egyik tagja, amely japán repülőteréről és számos ott maradt második világháborús repülőgéproncsáról híres.",
@@ -575,7 +575,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-faisi-island-history-v2",
     type: "port",
     name: { de: "Faisi", hu: "Faisi-sziget", ro: "Insula Faisi", en: "Faisi Island" },
-    coordinates: { lat: -7.01, lng: 155.87 },
+    coords: [155.87, -7.01],
     description: {
       de: "Eine Insel in den Shortlands, die vor dem Krieg als Verwaltungszentrum diente und während des Krieges ein wichtiger japanischer Stützpunkt war.",
       hu: "A Shortland-szigetek egyik tagja, amely a háború előtt közigazgatási központ, a háború alatt pedig fontos japán bázis volt.",
@@ -594,7 +594,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-stirling-island-history-v2",
     type: "landmark",
     name: { de: "Stirling-Insel", hu: "Stirling-sziget", ro: "Insula Stirling", en: "Stirling Island" },
-    coordinates: { lat: -7.41, lng: 155.61 },
+    coords: [155.61, -7.41],
     description: {
       de: "Eine Koralleninsel der Treasury-Inseln, die im Oktober 1943 von den Alliierten eingenommen und zu einer wichtigen Luftwaffenbasis ausgebaut wurde.",
       hu: "A Treasury-szigetek egyik koralltagja, amelyet 1943 októberében foglaltak el a szövetségesek és légi bázissá alakították.",
@@ -613,7 +613,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-mono-island-history-v2",
     type: "battlefield",
     name: { de: "Mono-Insel", hu: "Mono-sziget", ro: "Insula Mono", en: "Mono Island" },
-    coordinates: { lat: -7.36, lng: 155.56 },
+    coords: [155.56, -7.36],
     description: {
       de: "Die größte der Treasury-Inseln. Hier fand die erste amphibische Operation neuseeländischer Truppen seit dem Ersten Weltkrieg statt.",
       hu: "A Treasury-szigetek legnagyobb tagja. Itt zajlott az új-zélandi erők első kétéltű hadművelete az első világháború óta.",
@@ -632,7 +632,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vella-lavella-history-v2",
     type: "battlefield",
     name: { de: "Vella Lavella", hu: "Vella Lavella", ro: "Vella Lavella", en: "Vella Lavella" },
-    coordinates: { lat: -7.7, lng: 156.6 },
+    coords: [156.6, -7.7],
     description: {
       de: "Eine Insel in der Western Province, bekannt für die Landschlacht und die anschließende Seeschlacht von Vella Lavella im Jahr 1943.",
       hu: "A Nyugati tartomány egyik szigete, amely az 1943-as szárazföldi és tengeri csatájáról nevezetes.",
@@ -651,7 +651,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-barakoma-airfield-history-v2",
     type: "battlefield",
     name: { de: "Barakoma Flugplatz", hu: "Barakoma repülőtér", ro: "Aerodromul Barakoma", en: "Barakoma Airfield" },
-    coordinates: { lat: -7.85, lng: 156.7 },
+    coords: [156.7, -7.85],
     description: {
       de: "Ein ehemaliger Luftwaffenstützpunkt auf Vella Lavella, der 1943 in Rekordzeit von den Seabees für die alliierten Luftangriffe erbaut wurde.",
       hu: "Vella Lavella szigetén fekvő egykori légibázis, amelyet 1943-ban rekordidő alatt építettek fel a szövetséges légitámadásokhoz.",
@@ -670,7 +670,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vila-airfield-history-v2",
     type: "battlefield",
     name: { de: "Vila Flugplatz", hu: "Vila repülőtér", ro: "Aerodromul Vila", en: "Vila Airfield" },
-    coordinates: { lat: -8.14, lng: 157.15 },
+    coords: [157.15, -8.14],
     description: {
       de: "Ein japanischer Flugplatz auf Kolombangara, der trotz massiver Bombenangriffe bis zum Rückzug der Japaner 1943 gehalten wurde.",
       hu: "Japán repülőtér Kolombangara szigetén, amelyet a masszív bombázások ellenére a japánok 1943-as visszavonulásáig védtek.",
@@ -689,7 +689,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-blackett-strait-history-v2",
     type: "battlefield",
     name: { de: "Blackett-Straße", hu: "Blackett-szoros", ro: "Strâmtoarea Blackett", en: "Blackett Strait" },
-    coordinates: { lat: -8.05, lng: 156.9 },
+    coords: [156.9, -8.05],
     description: {
       de: "Ein Meeresarm zwischen Kolombangara und den Arundel-Inseln. Er ist historisch berühmt für die Seeschlacht in der Blackett-Straße 1943.",
       hu: "Kolombangara és az Arundel-szigetek közötti tengerszoros. Az 1943-as Blackett-szorosi tengeri csata helyszíneként ismert.",
@@ -708,7 +708,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kula-gulf-history-v2",
     type: "battlefield",
     name: { de: "Kula-Golf", hu: "Kula-öböl", ro: "Golful Kula", en: "Kula Gulf" },
-    coordinates: { lat: -8, lng: 157.3 },
+    coords: [157.3, -8],
     description: {
       de: "Ein Gewässer zwischen New Georgia und Kolombangara, das 1943 Schauplatz einer bedeutenden Seeschlacht zwischen den USA und Japan war.",
       hu: "New Georgia és Kolombangara közötti vízterület, amely 1943-ban egy jelentős amerikai-japán tengeri csata helyszíne volt.",
@@ -727,7 +727,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-rice-anchorage-history-v2",
     type: "battlefield",
     name: { de: "Rice Ankerplatz", hu: "Rice-horgonyzóhely", ro: "Rada Rice", en: "Rice Anchorage" },
-    coordinates: { lat: -8.15, lng: 157.3 },
+    coords: [157.3, -8.15],
     description: {
       de: "Ein Landungsplatz an der Nordküste von New Georgia, an dem US-Truppen 1943 anlandeten, um die japanischen Stützpunkte Enogai und Bairoko anzugreifen.",
       hu: "New Georgia északi partján fekvő partraszállási hely, ahol az amerikaiak 1943-ban kikötöttek Enogai és Bairoko megtámadásához.",
@@ -746,7 +746,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-savo-island-history-v2",
     type: "battlefield",
     name: { de: "Savo-Insel", hu: "Savo-sziget", ro: "Insula Savo", en: "Savo Island" },
-    coordinates: { lat: -9.13, lng: 159.81 },
+    coords: [159.81, -9.13],
     description: {
       de: "Eine Vulkaninsel nördlich von Guadalcanal, die ihren Namen einer der schwersten Niederlagen der US-Marine in der Geschichte gab.",
       hu: "Vulkáni sziget Guadalcanaltól északra, amely az amerikai haditengerészet egyik legsúlyosabb történelmi vereségéről kapta a nevét.",
@@ -765,7 +765,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-rennell-island-history-v2",
     type: "battlefield",
     name: { de: "Rennell-Insel", hu: "Rennell-sziget", ro: "Insula Rennell", en: "Rennell Island" },
-    coordinates: { lat: -11.6, lng: 160.2 },
+    coords: [160.2, -11.6],
     description: {
       de: "Das südlichste bewohnte Atoll der Salomonen, bekannt für die Seeschlacht bei Rennell Island im Januar 1943, die letzte große Konfrontation vor Guadalcanal.",
       hu: "A Salamon-szigetek legdélebbi lakott atollja, az 1943 januári Rennell-szigeti tengeri csata helyszíne.",
@@ -784,7 +784,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-graciosa-bay-history-v2",
     type: "ruins",
     name: { de: "Graciosa Bay", hu: "Graciosa-öböl", ro: "Graciosa Bay", en: "Graciosa Bay" },
-    coordinates: { lat: -10.72, lng: 165.82 },
+    coords: [165.82, -10.72],
     description: {
       de: "Ein Ort auf der Insel Santa Cruz, an dem der spanische Entdecker Alvaro de Mendaña 1595 versuchte, eine kurzlebige Kolonie zu gründen.",
       hu: "A Santa Cruz-szigeten található öböl, ahol a spanyol felfedező, Alvaro de Mendaña 1595-ben megpróbált kolóniát alapítani.",
@@ -803,7 +803,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-poha-cave-history-v2",
     type: "ruins",
     name: { de: "Poha-Höhle", hu: "Poha-barlang", ro: "Peștera Poha", en: "Poha Cave" },
-    coordinates: { lat: -9.42, lng: 159.89 },
+    coords: [159.89, -9.42],
     description: {
       de: "Eine bedeutende archäologische Stätte westlich von Honiara, die Beweise für eine jahrtausendealte Besiedlung der Salomonen liefert.",
       hu: "Honiarától nyugatra fekvő jelentős régészeti lelőhely, amely több ezer éves emberi jelenlétről tanúskodik.",
@@ -822,7 +822,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-pamua-ruins-history-v2",
     type: "ruins",
     name: { de: "Pamua-Ruinen", hu: "Pamua-romok", ro: "Ruinele Pamua", en: "Pamua Ruins" },
-    coordinates: { lat: -10.51, lng: 161.81 },
+    coords: [161.81, -10.51],
     description: {
       de: "Eine archäologische Stätte auf Makira, die Überreste einer möglichen spanischen Siedlung aus dem 16. Jahrhundert beherbergt.",
       hu: "Makira szigetén található régészeti lelőhely, amely egy feltételezett 16. századi spanyol település maradványait őrzi.",
@@ -841,7 +841,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-lambeti-history-v2",
     type: "village",
     name: { de: "Lambeti", hu: "Lambeti", ro: "Lambeti", en: "Lambeti" },
-    coordinates: { lat: -8.325, lng: 157.265 },
+    coords: [157.265, -8.325],
     description: {
       de: "Ein Dorf nahe Munda, das im Zweiten Weltkrieg Schauplatz schwerer Kämpfe war, während die Alliierten auf den Munda-Flugplatz vorrückten.",
       hu: "Munda közeli falu, amely heves harcok helyszíne volt a Munda repülőtér felé tartó szövetséges előrenyomulás idején.",
@@ -860,7 +860,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-point-cruz-monument-history-v2",
     type: "monument",
     name: { de: "Mendaña-Denkmal", hu: "Mendaña-emlékmű", ro: "Monumentul Mendaña", en: "Mendaña Monument" },
-    coordinates: { lat: -9.429, lng: 159.954 },
+    coords: [159.954, -9.429],
     description: {
       de: "Ein Denkmal in Honiara, das an die Ankunft des spanischen Seefahrers Alvaro de Mendaña im Jahr 1568 erinnert.",
       hu: "Honiarában található emlékmű, amely a spanyol tengerész, Alvaro de Mendaña 1568-as érkezésének állít emléket.",
@@ -879,7 +879,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tikopia-ancient-history-v2",
     type: "ruins",
     name: { de: "Tikopia", hu: "Tikopia-sziget", ro: "Tikopia", en: "Tikopia" },
-    coordinates: { lat: -12.3, lng: 168.8 },
+    coords: [168.8, -12.3],
     description: {
       de: "Eine isolierte polynesische Exklave, die für ihre nachhaltigen landwirtschaftlichen Praktiken bekannt ist, die seit über 3.000 Jahren bestehen.",
       hu: "Izolált polinéz exklávé, amely a több mint 3000 éve folytatott fenntartható mezőgazdasági gyakorlatáról ismert.",
@@ -898,7 +898,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-simbo-island-history-v2",
     type: "landmark",
     name: { de: "Simbo-Insel", hu: "Simbo-sziget", ro: "Insula Simbo", en: "Simbo Island" },
-    coordinates: { lat: -8.28, lng: 156.52 },
+    coords: [156.52, -8.28],
     description: {
       de: "Eine aktive Vulkaninsel, die früher als wichtiges regionales Handelszentrum und Zentrum für den rituellen Schädelkult bekannt war.",
       hu: "Aktív vulkáni sziget, amely korábban fontos regionális kereskedelmi és rituális koponyakultusz-központ volt.",
@@ -917,7 +917,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-langa-langa-lagoon-history-v2",
     type: "landmark",
     name: { de: "Langa Langa Lagune", hu: "Langa Langa-lagúna", ro: "Laguna Langa Langa", en: "Langa Langa Lagoon" },
-    coordinates: { lat: -8.9, lng: 160.7 },
+    coords: [160.7, -8.9],
     description: {
       de: "Eine Lagune auf Malaita, bekannt für ihre jahrhundertealten künstlichen Inseln und die traditionelle Herstellung von Muschelgeld.",
       hu: "Malaita szigetén található lagúna, amely évszázados mesterséges szigeteiről és a hagyományos kagylópénz-készítésről ismert.",
@@ -936,7 +936,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kwaio-district-history-v2",
     type: "landmark",
     name: { de: "Kwaio-Distrikt", hu: "Kwaio-körzet", ro: "Districtul Kwaio", en: "Kwaio District" },
-    coordinates: { lat: -9.1, lng: 161 },
+    coords: [161, -9.1],
     description: {
       de: "Eine Region auf Malaita, die für den Widerstand gegen die Kolonialmacht und die Beibehaltung traditioneller Lebensweisen bekannt ist.",
       hu: "Malaita szigetének körzete, amely a gyarmati hatalommal szembeni ellenállásáról és a hagyományos életmód megőrzéséről híres.",
@@ -955,7 +955,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-lunga-river-history-v2",
     type: "river",
     name: { de: "Lunga-Fluss", hu: "Lunga-folyó", ro: "Râul Lunga", en: "Lunga River" },
-    coordinates: { lat: -9.43, lng: 160.02 },
+    coords: [160.02, -9.43],
     description: {
       de: "Der größte Fluss in der Nähe des Henderson-Flugplatzes. Er war ein bedeutendes Hindernis und Schauplatz vieler Gefechte 1942.",
       hu: "A Henderson repülőtér közelében fekvő legnagyobb folyó. Jelentős akadály és számos 1942-es ütközet helyszíne volt.",
@@ -974,7 +974,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-point-cruz-lighthouse-history-v2",
     type: "tower",
     name: { de: "Point Cruz Leuchtturm", hu: "Point Cruz világítótorony", ro: "Farul Point Cruz", en: "Point Cruz Lighthouse" },
-    coordinates: { lat: -9.423, lng: 159.956 },
+    coords: [159.956, -9.423],
     description: {
       de: "Ein wichtiger Navigationspunkt im Hafen von Honiara. Er markiert die Stelle, an der Mendaña 1568 ein Kreuz errichtete.",
       hu: "Fontos navigációs pont Honiara kikötőjében. Jelzi a helyet, ahol Mendaña 1568-ban keresztet állított.",
@@ -993,7 +993,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kia-village-history-v2",
     type: "village",
     name: { de: "Kia", hu: "Kia falu", ro: "Kia", en: "Kia Village" },
-    coordinates: { lat: -7.5, lng: 159 },
+    coords: [159, -7.5],
     description: {
       de: "Ein abgelegenes Dorf auf Santa Isabel, das historisch als wichtiges Zentrum des traditionellen Schiffbaus und Handels bekannt ist.",
       hu: "Távoli falu Santa Isabel szigetén, amely történelmileg a hagyományos hajóépítés és kereskedelem központjaként ismert.",
@@ -1012,7 +1012,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-matanikau-falls-history-v2",
     type: "landmark",
     name: { de: "Matanikau-Wasserfälle", hu: "Matanikau-vízesés", ro: "Cascada Matanikau", en: "Matanikau Falls" },
-    coordinates: { lat: -9.46, lng: 159.93 },
+    coords: [159.93, -9.46],
     description: {
       de: "Ein spektakulärer Wasserfall im Hinterland von Honiara, der während des Krieges ein Versteck für japanische Truppen in den Kalksteinhöhlen war.",
       hu: "Látványos vízesés Honiara közelében, amelynek mészkőbarlangjai a háború alatt a japán csapatok rejtekhelyéül szolgáltak.",
@@ -1031,7 +1031,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tetere-convoy-history-v2",
     type: "monument",
     name: { de: "Tetere-Konvoi-Denkmal", hu: "Tetere-konvoj emlékmű", ro: "Monumentul Convoy Tetere", en: "Tetere Convoy Memorial" },
-    coordinates: { lat: -9.412, lng: 160.205 },
+    coords: [160.205, -9.412],
     description: {
       de: "Ein Gedenkort am Tetere Strand, der an die Landungen und die Versorgungskonvois der Alliierten im Osten Guadalcanals erinnert.",
       hu: "Emlékhely a Tetere strandon, amely a szövetségesek kelet-guadalcanali partraszállásaira és utánpótlási konvojaira emlékeztet.",
@@ -1050,7 +1050,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-shortland-islands-history-v2",
     type: "landmark",
     name: { de: "Shortland-Inseln", hu: "Shortland-szigetek", ro: "Insulele Shortland", en: "Shortland Islands" },
-    coordinates: { lat: -7.05, lng: 155.85 },
+    coords: [155.85, -7.05],
     description: {
       de: "Eine Inselgruppe im äußersten Nordwesten, die im Krieg ein massiver japanischer Marine- und Luftwaffenstützpunkt war.",
       hu: "A Salamon-szigetek északnyugati csücskében fekvő szigetcsoport, amely a háborúban hatalmas japán tengeri és légi bázis volt.",
@@ -1069,7 +1069,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-reko-river-history-v2",
     type: "village",
     name: { de: "Reko", hu: "Reko", ro: "Reko", en: "Reko" },
-    coordinates: { lat: -9.5, lng: 160.4 },
+    coords: [160.4, -9.5],
     description: {
       de: "Ein Küstenort im Osten von Guadalcanal, der während der Verfolgung japanischer Truppen durch alliierte Einheiten Ende 1942 bedeutend war.",
       hu: "Kelet-guadalcanali parti település, amely az 1942 végi japán visszavonulás és üldözés során vált fontossá.",
@@ -1088,7 +1088,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-honiara-cenotaph-history-v2",
     type: "monument",
     name: { de: "Honiara Kenotaph", hu: "Honiara kenotáfium", ro: "Cenotaful Honiara", en: "Honiara Cenotaph" },
-    coordinates: { lat: -9.429, lng: 159.957 },
+    coords: [159.957, -9.429],
     description: {
       de: "Das zentrale Kriegsdenkmal in Honiara, das an die Gefallenen aller Kriege erinnert, insbesondere an die Soldaten der Salomon-Inseln.",
       hu: "Központi háborús emlékmű Honiarában, amely az összes háború áldozatára, különösen a Salamon-szigeteki katonákra emlékezik.",
@@ -1107,7 +1107,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vella-gulf-history-v2",
     type: "battlefield",
     name: { de: "Vella-Golf", hu: "Vella-öböl", ro: "Golful Vella", en: "Vella Gulf" },
-    coordinates: { lat: -7.8, lng: 156.9 },
+    coords: [156.9, -7.8],
     description: {
       de: "Ein Meeresgebiet zwischen Vella Lavella und Kolombangara, berühmt für die Seeschlacht im Vella-Golf im August 1943.",
       hu: "Vella Lavella és Kolombangara közötti vízterület, amely az 1943 augusztusi Vella-öböli tengeri csatáról híres.",
@@ -1126,7 +1126,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-marovo-lagoon-history-v2",
     type: "landmark",
     name: { de: "Marovo Lagune", hu: "Marovo-lagúna", ro: "Laguna Marovo", en: "Marovo Lagoon" },
-    coordinates: { lat: -8.5, lng: 158 },
+    coords: [158, -8.5],
     description: {
       de: "Die größte Salzwasserlagune der Welt. Sie war im Krieg ein Versteck für alliierte Schiffe und Küstenbeobachter.",
       hu: "A világ legnagyobb sós vizű lagúnája. A háború alatt szövetséges hajók és parti megfigyelők rejtekhelye volt.",
@@ -1145,7 +1145,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-santa-isabel-landing-history-v2",
     type: "battlefield",
     name: { de: "Santa Isabel Landungsplatz", hu: "Santa Isabel partraszállóhely", ro: "Locul de debarcare Santa Isabel", en: "Santa Isabel Landing Site" },
-    coordinates: { lat: -7.6, lng: 158.5 },
+    coords: [158.5, -7.6],
     description: {
       de: "Orte an der Küste von Santa Isabel, an denen japanische Einheiten während der Salomon-Kampagne kleine Stützpunkte und Funkstationen errichteten.",
       hu: "Santa Isabel partmenti helyszínei, ahol a japán egységek kis bázisokat és rádióállomásokat hoztak létre.",
@@ -1164,7 +1164,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-rendova-island-history-v2",
     type: "battlefield",
     name: { de: "Rendova", hu: "Rendova-sziget", ro: "Insula Rendova", en: "Rendova Island" },
-    coordinates: { lat: -8.45, lng: 157.32 },
+    coords: [157.32, -8.45],
     description: {
       de: "Eine Insel gegenüber von Munda, die im Juni 1943 von den USA eingenommen wurde, um schwere Artillerie für den Angriff auf den Munda-Flugplatz zu positionieren.",
       hu: "Mundával szemközti sziget, amelyet 1943 júniusában foglaltak el az amerikaiak, hogy nehéztüzérséget telepítsenek a Munda elleni támadáshoz.",
@@ -1183,7 +1183,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-blanche-channel-history-v2",
     type: "battlefield",
     name: { de: "Blanche-Straße", hu: "Blanche-szoros", ro: "Strâmtoarea Blanche", en: "Blanche Channel" },
-    coordinates: { lat: -8.55, lng: 157.5 },
+    coords: [157.5, -8.55],
     description: {
       de: "Ein Meeresarm zwischen New Georgia und Rendova. Er war ein entscheidender Korridor für die amphibischen Operationen im Jahr 1943.",
       hu: "New Georgia és Rendova közötti tengerszoros. Kulcsfontosságú útvonal volt az 1943-as kétéltű hadműveletek során.",
@@ -1202,7 +1202,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-ferguson-passage-history-v2",
     type: "battlefield",
     name: { de: "Ferguson-Passage", hu: "Ferguson-átjáró", ro: "Pasajul Ferguson", en: "Ferguson Passage" },
-    coordinates: { lat: -8.15, lng: 156.85 },
+    coords: [156.85, -8.15],
     description: {
       de: "Eine enge Durchfahrt in der Western Province, bekannt durch die nächtlichen Operationen von PT-Schnellbooten, darunter PT-109.",
       hu: "Szűk tengeri átjáró a Nyugati tartományban, amely a PT-gyorsnaszádok (köztük a PT-109) éjszakai akcióiról nevezetes.",
@@ -1221,7 +1221,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-choiseul-raid-memorial-history-v2",
     type: "monument",
     name: { de: "Choiseul-Raid-Gedenkstätte", hu: "Choiseul-rajtaütés emlékmű", ro: "Memorialul Choiseul Raid", en: "Choiseul Raid Memorial" },
-    coordinates: { lat: -6.71, lng: 156.39 },
+    coords: [156.39, -6.71],
     description: {
       de: "Ein Gedenkpunkt auf Choiseul, der an den erfolgreichen Diversionsangriff der Marines im Oktober 1943 erinnert.",
       hu: "Emlékhely Choiseul szigetén, amely a tengerészgyalogosok 1943 októberi sikeres elterelő rajtaütésének állít emléket.",
@@ -1240,7 +1240,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vilu-p-38-wreck-history-v2",
     type: "landmark",
     name: { de: "Vilu P-38 Wrack", hu: "Vilu P-38 roncs", ro: "Epava P-38 Vilu", en: "Vilu P-38 Wreck" },
-    coordinates: { lat: -9.394, lng: 159.836 },
+    coords: [159.836, -9.394],
     description: {
       de: "Ein gut erhaltenes Wrack einer P-38 Lightning im Vilu-Museum, das die Luftkriegsführung über Guadalcanal repräsentiert.",
       hu: "Jó állapotban megmaradt P-38 Lightning roncs a Vilu múzeumban, amely a Guadalcanal feletti légi hadviselést jelképezi.",
@@ -1259,7 +1259,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-vella-lavella-memorial-history-v2",
     type: "monument",
     name: { de: "Vella Lavella Denkmal", hu: "Vella Lavella emlékmű", ro: "Monumentul Vella Lavella", en: "Vella Lavella Memorial" },
-    coordinates: { lat: -7.71, lng: 156.62 },
+    coords: [156.62, -7.71],
     description: {
       de: "Ein Denkmal auf der Insel Vella Lavella, das die neuseeländischen und amerikanischen Soldaten ehrt, die die Insel 1943 befreiten.",
       hu: "Vella Lavella szigetén álló emlékmű, amely az 1943-ban felszabadító új-zélandi és amerikai katonák előtt tiszteleg.",
@@ -1278,7 +1278,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-treasure-islands-history-v2",
     type: "landmark",
     name: { de: "Treasury-Inseln", hu: "Treasury-szigetek", ro: "Insulele Treasury", en: "Treasury Islands" },
-    coordinates: { lat: -7.38, lng: 155.58 },
+    coords: [155.58, -7.38],
     description: {
       de: "Eine isolierte Inselgruppe südlich von Bougainville. Sie waren 1943 der erste Ort, an dem neuseeländische Truppen eine unabhängige Landung durchführten.",
       hu: "Bougainville-től délre fekvő izolált szigetcsoport. 1943-ban itt hajtottak végre az új-zélandiak először önálló partraszállást.",
@@ -1297,7 +1297,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tulagi-blue-beach-monument-history-v2",
     type: "monument",
     name: { de: "Blue Beach Gedenkstein", hu: "Blue Beach emlékhely", ro: "Monumentul Plaja Albastră", en: "Blue Beach Marker" },
-    coordinates: { lat: -9.096, lng: 160.146 },
+    coords: [160.146, -9.096],
     description: {
       de: "Ein einfacher Gedenkstein am Strand von Tulagi, der die Stelle markiert, an der die US-Marines am 7. August 1942 an Land gingen.",
       hu: "Egyszerű emlékhely Tulagi partján, amely azt a pontot jelöli, ahol 1942. augusztus 7-én az amerikaiak partot értek.",
@@ -1316,7 +1316,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-honiara-historical-museum-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum der Salomonen", hu: "Salamon-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Insulelor Solomon", en: "Solomon Islands National Museum" },
-    coordinates: { lat: -9.429, lng: 159.959 },
+    coords: [159.959, -9.429],
     description: {
       de: "Das wichtigste Museum des Landes in Honiara, das Artefakte zur Kultur, Archäologie und zur Geschichte des Zweiten Weltkriegs zeigt.",
       hu: "Az ország legfontosabb múzeuma Honiarában, amely kulturális, régészeti és világháborús leleteket mutat be.",
@@ -1335,7 +1335,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-alligator-creek-memorial-history-v2",
     type: "monument",
     name: { de: "Alligator Creek Denkmal", hu: "Alligator-patak emlékmű", ro: "Monumentul Alligator Creek", en: "Alligator Creek Memorial" },
-    coordinates: { lat: -9.426, lng: 160.086 },
+    coords: [160.086, -9.426],
     description: {
       de: "Ein kleiner Gedenkort an der Mündung des Ilu-Flusses, der an die Schlacht am Tenaru und die Vernichtung der Ichiki-Einheit erinnert.",
       hu: "Kis emlékhely az Ilu-folyó torkolatánál, amely a Tenaru-menti csatára és az Icsiki-egység megsemmisülésére emlékeztet.",
@@ -1354,7 +1354,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-savo-island-wreck-history-v2",
     type: "battlefield",
     name: { de: "Savo-Insel Wracks", hu: "Savo-szigeti roncsok", ro: "Epavele de la Insula Savo", en: "Savo Island Wrecks" },
-    coordinates: { lat: -9.14, lng: 159.83 },
+    coords: [159.83, -9.14],
     description: {
       de: "Die Gewässer um Savo Island sind die letzte Ruhestätte zahlreicher Schiffe, die in der katastrophalen Nachtschlacht von 1942 versenkt wurden.",
       hu: "A Savo-sziget körüli vizek számos hajó végső nyughelyei, amelyek az 1942-es katasztrofális éjszakai csatában süllyedtek el.",
@@ -1373,7 +1373,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-skyline-memorial-view-history-v2",
     type: "landmark",
     name: { de: "Skyline Panorama", hu: "Skyline kilátópont", ro: "Panorama Skyline", en: "Skyline Memorial View" },
-    coordinates: { lat: -9.444, lng: 159.966 },
+    coords: [159.966, -9.444],
     description: {
       de: "Der Aussichtspunkt beim US-Denkmal auf der Skyline Ridge, von dem aus man die gesamte Lunga-Ebene und den Flughafen überblicken kann.",
       hu: "A Skyline Ridge amerikai emlékművénél lévő kilátópont, ahonnan belátható a Lunga-síkság és a repülőtér.",
@@ -1392,7 +1392,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-lunga-point-scouts-history-v2",
     type: "monument",
     name: { de: "Scouts & Coastwatchers Denkmal", hu: "Felderítők és parti megfigyelők emlékműve", ro: "Monumentul Cercetașilor și Observatorilor", en: "Scouts & Coastwatchers Monument" },
-    coordinates: { lat: -9.42, lng: 160.035 },
+    coords: [160.035, -9.42],
     description: {
       de: "Ein Denkmal am Flughafen Honiara, das die mutigen einheimischen Scouts und die alliierten Küstenbeobachter im Zweiten Weltkrieg ehrt.",
       hu: "A honiarai repülőtérnél lévő emlékmű, amely a bátor helyi felderítőknek és a szövetséges parti megfigyelőknek állít emléket.",
@@ -1411,7 +1411,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-point-cruz-market-history-v2",
     type: "landmark",
     name: { de: "Honiara Zentralmarkt", hu: "Honiara központi piac", ro: "Piața Centrală Honiara", en: "Honiara Central Market" },
-    coordinates: { lat: -9.428, lng: 159.957 },
+    coords: [159.957, -9.428],
     description: {
       de: "Der lebhafte Marktplatz von Honiara, der an der Stelle des historischen Point Cruz liegt und das wirtschaftliche Herz der Stadt bildet.",
       hu: "Honiara nyüzsgő piaca a történelmi Point Cruz területén, amely a város gazdasági szíve.",
@@ -1430,7 +1430,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-rendova-peak-history-v2",
     type: "mountain",
     name: { de: "Rendova Peak", hu: "Rendova-csúcs", ro: "Vârful Rendova", en: "Rendova Peak" },
-    coordinates: { lat: -8.48, lng: 157.31 },
+    coords: [157.31, -8.48],
     description: {
       de: "Der markante vulkanische Gipfel auf Rendova Island, der im Krieg als wichtiger Orientierungspunkt für Piloten und Seefahrer diente.",
       hu: "Rendova-sziget jellegzetes vulkáni csúcsa, amely a háborúban fontos tájékozódási pont volt a pilóták és tengerészek számára.",
@@ -1449,7 +1449,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-kasolo-monument-history-v2",
     type: "monument",
     name: { de: "Kennedy-Gedenkstätte", hu: "Kennedy-emlékhely", ro: "Memorialul Kennedy", en: "Kennedy Memorial" },
-    coordinates: { lat: -8.111, lng: 156.921 },
+    coords: [156.921, -8.111],
     description: {
       de: "Eine Gedenktafel auf Kasolo Island, die die Stelle markiert, an der JFK und seine Crew nach dem Sinken der PT-109 Rettung suchten.",
       hu: "Emléktábla Kasolo szigetén, amely azt a helyet jelöli, ahol JFK és legénysége menedéket talált a PT-109 elsüllyedése után.",
@@ -1468,7 +1468,7 @@ export const solomonislandsHistoryV2: POI[] = [
     id: "solomonislands-tetere-convoy-beach-history-v2",
     type: "landmark",
     name: { de: "Amphibien-Wracks von Tetere", hu: "Teterei kétéltű roncsok", ro: "Epavele Amfibii de la Tetere", en: "Tetere Amphibious Wrecks" },
-    coordinates: { lat: -9.413, lng: 160.203 },
+    coords: [160.203, -9.413],
     description: {
       de: "Mehrere verlassene US-amerikanische LVT-Amphibienpanzer, die halb vergraben im Sand am Tetere Strand liegen.",
       hu: "Több elhagyott amerikai LVT kétéltű harcjármű, amelyek félig a homokba temetve fekszenek a Tetere strandon.",

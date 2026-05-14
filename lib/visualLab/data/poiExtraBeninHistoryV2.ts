@@ -729,7 +729,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-fort-de-sohoue-history-v2",
     type: "ruins",
     name: { de: "Fort de Sohoué", hu: "Fort de Sohoué", ro: "Fort de Sohoué", en: "Fort de Sohoué" },
-    coordinates: { lat: 6.884, lng: 1.956 },
+    coords: [1.956, 6.884],
     description: {
       de: "Das historische Fort de Sohoué in der Nähe von Ouidah diente im 18. Jahrhundert als französischer Handelsposten. Heute sind nur noch die Grundmauern der Anlage sichtbar.",
       hu: "A Ouidah melletti Fort de Sohoué történelmi francia kereskedelmi állomás volt a 18. században. Ma már csak az építmény alapjai láthatóak.",
@@ -760,7 +760,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-battlefield-at-pobé-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Pobé", hu: "Pobéi csatatér", ro: "Câmpul de bătălie de la Pobé", en: "Battlefield of Pobé" },
-    coordinates: { lat: 6.974, lng: 2.684 },
+    coords: [2.684, 6.974],
     description: {
       de: "Dieser Ort in Pobé war Schauplatz gewaltsamer Auseinandersetzungen während der kolonialen Eroberung durch Frankreich im späten 19. Jahrhundert. Das Gebiet gilt heute als historischer Erinnerungsort.",
       hu: "Ez a pobéi helyszín a késő 19. századi francia gyarmati hódítás idején zajlott fegyveres konfliktusok színhelye volt. A terület ma történelmi emlékhely.",
@@ -791,7 +791,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-ketou-city-walls-history-v2",
     type: "ruins",
     name: { de: "Stadtmauern von Kétou", hu: "Kétou városfalai", ro: "Zidurile orașului Kétou", en: "City Walls of Kétou" },
-    coordinates: { lat: 7.362, lng: 2.604 },
+    coords: [2.604, 7.362],
     description: {
       de: "Die antiken Verteidigungswälle von Kétou umschlossen das historische Königreich Ketu. Die Befestigungsanlagen wurden strategisch zur Verteidigung gegen regionale Übergriffe errichtet.",
       hu: "Kétou ősi védőfalai a történelmi Ketu királyságot vették körül. A védműveket stratégiai jelentőséggel emelték a regionális támadások elleni védekezés céljából.",
@@ -822,7 +822,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-king-koffi-tomb-history-v2",
     type: "monument",
     name: { de: "Grab von König Koffi", hu: "Koffi király sírja", ro: "Mormântul Regelui Koffi", en: "Tomb of King Koffi" },
-    coordinates: { lat: 7.152, lng: 1.765 },
+    coords: [1.765, 7.152],
     description: {
       de: "Das Grabmal des lokalen Herrschers König Koffi befindet sich im zentralen Hochland von Benin. Es dokumentiert die traditionellen Bestattungsriten des Gebiets aus vergangener Zeit.",
       hu: "Koffi király helyi uralkodó sírja Benin központi fennsíkján található. Dokumentálja a régió múltbeli hagyományos temetkezési szertartásait.",
@@ -853,7 +853,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-porto-novo-slave-market-history-v2",
     type: "landmark",
     name: { de: "Ehemaliger Sklavenmarkt Porto-Novo", hu: "Porto-Novo egykori rabszolgapiac", ro: "Fosta piață de sclavi din Porto-Novo", en: "Former Slave Market of Porto-Novo" },
-    coordinates: { lat: 6.495, lng: 2.615 },
+    coords: [2.615, 6.495],
     description: {
       de: "Dieser Standort in Porto-Novo war ein zentraler Handelsplatz für den Sklavenhandel im 18. und 19. Jahrhundert. Heute dient der Platz als Gedenkstätte für die Opfer.",
       hu: "Ez a Porto-Novo-i helyszín központi kereskedelmi pont volt a rabszolga-kereskedelem számára a 18. és 19. században. Ma a tér az áldozatok emlékhelyeként szolgál.",
@@ -884,7 +884,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-parakou-old-district-history-v2",
     type: "landmark",
     name: { de: "Altstadt von Parakou", hu: "Parakou óvárosa", ro: "Orașul vechi din Parakou", en: "Old District of Parakou" },
-    coordinates: { lat: 9.352, lng: 2.624 },
+    coords: [2.624, 9.352],
     description: {
       de: "Die Altstadt von Parakou spiegelt die Architektur und soziale Struktur wider, die durch den Karawanenhandel im Norden Benins geprägt wurde. Sie bietet Einblicke in die Handelsvergangenheit.",
       hu: "Parakou óvárosa a karavánkereskedelem által meghatározott észak-benini építészetet és társadalmi struktúrát tükrözi. Betekintést nyújt a kereskedelmi múltba.",
@@ -915,7 +915,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-tata-somba-tradition-history-v2",
     type: "village",
     name: { de: "Tata-Somba Siedlungskern", hu: "Tata-Somba településközpont", ro: "Nucleul așezării Tata-Somba", en: "Tata-Somba Settlement Core" },
-    coordinates: { lat: 10.324, lng: 1.254 },
+    coords: [1.254, 10.324],
     description: {
       de: "Dieser historische Kernbereich bewahrt die Tata-Somba-Architektur, die für die Verteidigung der Gemeinschaften in der Atakora-Region entwickelt wurde. Es zeigt die Anpassungsfähigkeit der Bevölkerung.",
       hu: "Ez a történelmi magterület megőrzi a Tata-Somba építészetet, amelyet az Atakora-régió közösségeinek védelmére fejlesztettek ki. A lakosság alkalmazkodóképességét mutatja.",
@@ -946,7 +946,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-palace-of-king-allada-history-v2",
     type: "palace",
     name: { de: "Palast von König Allada", hu: "Allada királyának palotája", ro: "Palatul Regelui Allada", en: "Palace of the King of Allada" },
-    coordinates: { lat: 6.663, lng: 2.152 },
+    coords: [2.152, 6.663],
     description: {
       de: "Der Palast in Allada war das Zentrum des bedeutenden Königreiches Allada, einem Vorläufer des Dahomey-Reiches. Er diente als administrative und zeremonielle Residenz.",
       hu: "Az alladai palota a Dahomey Birodalom elődjének számító jelentős Allada Királyság központja volt. Adminisztratív és ceremoniális rezidenciaként szolgált.",
@@ -977,7 +977,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-ancient-market-save-history-v2",
     type: "landmark",
     name: { de: "Historischer Markt Savè", hu: "Savè történelmi piaca", ro: "Piața istorică din Savè", en: "Historic Market of Savè" },
-    coordinates: { lat: 8.035, lng: 2.485 },
+    coords: [2.485, 8.035],
     description: {
       de: "Der historische Markt in Savè war über Jahrhunderte ein Knotenpunkt für den regionalen Handel zwischen den nördlichen und südlichen Völkern Benins.",
       hu: "A Savè-i történelmi piac évszázadokon keresztül a Benin északi és déli népei közötti regionális kereskedelem csomópontja volt.",
@@ -1008,7 +1008,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-toussaint-louverture-memorial-v2",
     type: "monument",
     name: { de: "Toussaint Louverture Gedenkstätte", hu: "Toussaint Louverture Emlékhely", ro: "Memorialul Toussaint Louverture", en: "Toussaint Louverture Memorial" },
-    coordinates: { lat: 6.666, lng: 2.155 },
+    coords: [2.155, 6.666],
     description: {
       de: "Diese Gedenkstätte erinnert an den Freiheitskämpfer Toussaint Louverture, der aus der Region Allada stammte. Sie würdigt seine Rolle in der Geschichte des transatlantischen Widerstands.",
       hu: "Ez az emlékhely Toussaint Louverture szabadságharcosra emlékezik, aki az Allada régióból származott. Méltatja szerepét a transzatlanti ellenállás történetében.",
@@ -1039,7 +1039,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-houegbadja-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Houégbadja", hu: "Houégbadja romjai", ro: "Ruinele Houégbadja", en: "Ruins of Houégbadja" },
-    coordinates: { lat: 7.185, lng: 1.995 },
+    coords: [1.995, 7.185],
     description: {
       de: "Diese archäologische Stätte enthält die Überreste einer alten Siedlung, die mit König Houégbadja, einem der Gründer des Dahomey-Reiches, verbunden ist.",
       hu: "Ez a régészeti lelőhely egy ősi település maradványait tartalmazza, amely Houégbadja királyhoz, a Dahomey Birodalom egyik alapítójához köthető.",
@@ -1070,7 +1070,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-ketou-palace-history-v2",
     type: "palace",
     name: { de: "Königspalast von Kétou", hu: "Kétou királyi palotája", ro: "Palatul Regal din Kétou", en: "Royal Palace of Kétou" },
-    coordinates: { lat: 7.365, lng: 2.602 },
+    coords: [2.602, 7.365],
     description: {
       de: "Der Königspalast in Kétou ist ein bedeutendes Zeugnis der Yoruba-Architektur in Benin. Er diente als Residenz für die Herrscher des lokalen Königreiches.",
       hu: "A Kétou-i királyi palota a joruba építészet jelentős tanúbizonysága Beninben. A helyi királyság uralkodóinak rezidenciájaként szolgált.",
@@ -1101,7 +1101,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-temple-of-dan-history-v2",
     type: "landmark",
     name: { de: "Tempel des Dan", hu: "Dan temploma", ro: "Templul lui Dan", en: "Temple of Dan" },
-    coordinates: { lat: 6.365, lng: 2.052 },
+    coords: [2.052, 6.365],
     description: {
       de: "Der Tempel des Dan ist eine religiöse Stätte, die tief in der spirituellen Geschichte der Dahomey-Kultur verwurzelt ist. Er dokumentiert alte Voodoo-Traditionen.",
       hu: "Dan temploma egy vallási helyszín, amely mélyen gyökerezik a Dahomey-kultúra spirituális történelmében. Régi vudu hagyományokat dokumentál.",
@@ -1132,7 +1132,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-ouidah-fort-french-history-v2",
     type: "fort",
     name: { de: "Französisches Fort von Ouidah", hu: "Ouidah francia erődje", ro: "Fortul francez din Ouidah", en: "French Fort of Ouidah" },
-    coordinates: { lat: 6.368, lng: 2.085 },
+    coords: [2.085, 6.368],
     description: {
       de: "Dieses ehemalige französische Fort in Ouidah markiert den europäischen kolonialen Einfluss auf den Sklavenhandel in der Region. Heute ist es ein Museum.",
       hu: "Ez az egykori francia erőd Ouidah-ban az európai gyarmati hatást jelzi a régió rabszolga-kereskedelmére vonatkozóan. Ma múzeumként működik.",
@@ -1163,7 +1163,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-kouande-fortress-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Festung Kouandé", hu: "Kouandé erőd romjai", ro: "Ruinele fortăreței Kouandé", en: "Ruins of the Fortress of Kouandé" },
-    coordinates: { lat: 10.334, lng: 1.705 },
+    coords: [1.705, 10.334],
     description: {
       de: "Die Ruinen der Festung Kouandé im Norden Benins zeugen von den lokalen Widerstandsbewegungen gegen die französische Kolonialmacht im 19. Jahrhundert.",
       hu: "Kouandé erődjének romjai Benin északi részén tanúskodnak a 19. századi francia gyarmati hatalommal szembeni helyi ellenállási mozgalmakról.",
@@ -1194,7 +1194,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-king-behanzin-monument-history-v2",
     type: "monument",
     name: { de: "König Behanzin Denkmal", hu: "Behanzin király emlékműve", ro: "Monumentul Regelui Behanzin", en: "King Behanzin Monument" },
-    coordinates: { lat: 7.185, lng: 1.992 },
+    coords: [1.992, 7.185],
     description: {
       de: "Dieses Denkmal ehrt König Behanzin, den letzten unabhängigen Herrscher des Dahomey-Königreiches, der erbitterten Widerstand gegen die Kolonialmächte leistete.",
       hu: "Ez az emlékmű Behanzin királyt tiszteli, a Dahomey Királyság utolsó független uralkodóját, aki heves ellenállást fejtett ki a gyarmati hatalmakkal szemben.",
@@ -1225,7 +1225,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-dassa-ancient-caves-history-v2",
     type: "landmark",
     name: { de: "Antike Höhlen von Dassa", hu: "Dassa ősi barlangjai", ro: "Peșterile antice din Dassa", en: "Ancient Caves of Dassa" },
-    coordinates: { lat: 7.745, lng: 2.185 },
+    coords: [2.185, 7.745],
     description: {
       de: "Die Höhlen von Dassa wurden in vergangenen Zeiten als Rückzugsorte für lokale Gemeinschaften während kriegerischer Auseinandersetzungen genutzt.",
       hu: "Dassa barlangjait a múltban menedékhelyként használták a helyi közösségek háborús konfliktusok idején.",
@@ -1256,7 +1256,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-porto-novo-royal-archives-history-v2",
     type: "museum",
     name: { de: "Königliche Archive Porto-Novo", hu: "Porto-Novo királyi levéltára", ro: "Arhivele regale din Porto-Novo", en: "Royal Archives of Porto-Novo" },
-    coordinates: { lat: 6.497, lng: 2.618 },
+    coords: [2.618, 6.497],
     description: {
       de: "Die königlichen Archive von Porto-Novo beherbergen wertvolle Dokumente zur Geschichte der regionalen Königreiche und ihrer diplomatischen Beziehungen.",
       hu: "Porto-Novo királyi levéltára a regionális királyságok történelmére és diplomáciai kapcsolataira vonatkozó értékes dokumentumokat őriz.",
@@ -1287,7 +1287,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-taneka-old-town-history-v2",
     type: "village",
     name: { de: "Tanéka Altstadtzentrum", hu: "Tanéka óvárosközpont", ro: "Centrul orașului vechi Tanéka", en: "Tanéka Old Town Center" },
-    coordinates: { lat: 9.715, lng: 1.625 },
+    coords: [1.625, 9.715],
     description: {
       de: "Das Zentrum von Tanéka bewahrt die traditionelle soziale Organisation, die seit Jahrhunderten das Leben in den Bergregionen Nordbenins bestimmt.",
       hu: "Tanéka központja megőrzi azt a hagyományos társadalmi szerveződést, amely évszázadok óta meghatározza az életet Észak-Benin hegyvidéki régióiban.",
@@ -1318,7 +1318,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-save-king-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Königspalastes Savè", hu: "Savè királyi palotájának romjai", ro: "Ruinele Palatului Regal din Savè", en: "Ruins of the Royal Palace of Savè" },
-    coordinates: { lat: 8.032, lng: 2.482 },
+    coords: [2.482, 8.032],
     description: {
       de: "Die Überreste des Palastes in Savè dokumentieren die politische Bedeutung der Stadt als wichtiges regionales Machtzentrum im Landesinneren von Benin.",
       hu: "A Savè-i palota maradványai dokumentálják a város politikai jelentőségét, mint fontos regionális hatalmi központ Benin belső területein.",
@@ -1349,7 +1349,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-akaba-idenan-monument-history-v2",
     type: "monument",
     name: { de: "Akaba Idenan", hu: "Akaba Idenan", ro: "Akaba Idenan", en: "Akaba Idenan" },
-    coordinates: { lat: 7.368, lng: 2.608 },
+    coords: [2.608, 7.368],
     description: {
       de: "Akaba Idenan ist ein historisches Tor, das eine bedeutende Rolle in der Gründungsmythenwelt der Yoruba-Gemeinschaften in Ketou spielt.",
       hu: "Az Akaba Idenan egy történelmi kapu, amely jelentős szerepet játszik a ketou-i joruba közösségek alapítási mítoszaiban.",
@@ -1380,7 +1380,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-ouidah-museum-history-v2",
     type: "museum",
     name: { de: "Historisches Museum Ouidah", hu: "Ouidah Történelmi Múzeuma", ro: "Muzeul de Istorie din Ouidah", en: "Historical Museum of Ouidah" },
-    coordinates: { lat: 6.365, lng: 2.088 },
+    coords: [2.088, 6.365],
     description: {
       de: "Das Museum in Ouidah befindet sich in einem restaurierten Fort und zeigt umfassende Ausstellungen zur Geschichte des Sklavenhandels und der Dahomey-Kultur.",
       hu: "Az Ouidah-i múzeum egy helyreállított erődben található, és átfogó kiállításokat mutat be a rabszolga-kereskedelem és a Dahomey-kultúra történetéről.",
@@ -1411,7 +1411,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-nikki-royal-tombs-history-v2",
     type: "monument",
     name: { de: "Königsgräber von Nikki", hu: "Nikki királyi sírjai", ro: "Mormintele regale din Nikki", en: "Royal Tombs of Nikki" },
-    coordinates: { lat: 9.935, lng: 3.215 },
+    coords: [3.215, 9.935],
     description: {
       de: "Die Gräber der Könige von Nikki sind bedeutende Orte des Ahnenkults und der Geschichte des Bariba-Reiches im Nordosten Benins.",
       hu: "A Nikki királyok sírjai jelentős helyszínei az ősök kultuszának és a Bariba Birodalom történelmének Benin északkeleti részén.",
@@ -1442,7 +1442,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-parakou-resistance-monument-v2",
     type: "monument",
     name: { de: "Denkmal des Widerstands Parakou", hu: "Parakou ellenállási emlékmű", ro: "Monumentul rezistenței din Parakou", en: "Resistance Monument of Parakou" },
-    coordinates: { lat: 9.355, lng: 2.622 },
+    coords: [2.622, 9.355],
     description: {
       de: "Dieses Monument erinnert an den lokalen Widerstand gegen koloniale Übergriffe in der Region Parakou und feiert die Unabhängigkeitsbewegung.",
       hu: "Ez az emlékmű a Parakou régióban zajlott gyarmati támadások elleni helyi ellenállásra emlékeztet, és ünnepli a függetlenségi mozgalmat.",
@@ -1473,7 +1473,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-allada-ancestral-shrine-history-v2",
     type: "landmark",
     name: { de: "Allada Ahnenheiligtum", hu: "Allada ősök szentélye", ro: "Sanctuarul strămoșilor din Allada", en: "Allada Ancestral Shrine" },
-    coordinates: { lat: 6.662, lng: 2.158 },
+    coords: [2.158, 6.662],
     description: {
       de: "Das Allada Ahnenheiligtum ist eine wichtige Stätte zur Verehrung der ehemaligen Herrscher des Königreiches Allada und pflegt das kulturelle Gedächtnis.",
       hu: "Az Allada ősök szentélye fontos helyszín az Allada Királyság egykori uralkodóinak tiszteletére, és ápolja a kulturális emlékezetet.",
@@ -1504,7 +1504,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-kouandé-royal-tomb-history-v2",
     type: "monument",
     name: { de: "Königliches Grab Kouandé", hu: "Kouandé királyi sírja", ro: "Mormântul regal din Kouandé", en: "Royal Tomb of Kouandé" },
-    coordinates: { lat: 10.332, lng: 1.708 },
+    coords: [1.708, 10.332],
     description: {
       de: "Dieses königliche Grab in Kouandé bewahrt das Erbe der Herrscher aus der Bergregion und spielt eine zentrale Rolle bei lokalen Gedenkfeiern.",
       hu: "Ez a Kouandé-i királyi sír megőrzi a hegyvidéki régió uralkodóinak örökségét, és központi szerepet játszik a helyi megemlékezésekben.",
@@ -1535,7 +1535,7 @@ export const poiExtraBeninHistoryV2: POI[] = [
     id: "benin-dassa-royal-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Königspalastes Dassa", hu: "Dassa királyi palotájának romjai", ro: "Ruinele Palatului Regal din Dassa", en: "Ruins of the Royal Palace of Dassa" },
-    coordinates: { lat: 7.742, lng: 2.182 },
+    coords: [2.182, 7.742],
     description: {
       de: "Die Ruinen des Palastes von Dassa-Zoumè bieten Einblicke in die Architektur der lokalen Monarchie und ihre Bedeutung für die Region.",
       hu: "A Dassa-Zoumè-i palota romjai betekintést nyújtanak a helyi monarchia építészetébe és annak regionális jelentőségébe.",

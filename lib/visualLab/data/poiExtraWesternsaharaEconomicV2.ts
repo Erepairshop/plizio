@@ -5,7 +5,7 @@ export const westernsaharaEconomicV2: POI[] = [
     id: "westernsahara-boukraa-phosphate-mine-v2",
     type: "mine",
     name: { de: "Boukraa Phosphatmine", hu: "Boukraa foszfátbánya", ro: "Mina de fosfați Boukraa", en: "Boukraa Phosphate Mine" },
-    coordinates: { lat: 26.3083, lng: -12.8333 },
+    coords: [-12.8333, 26.3083],
     description: {
       de: "Eine der größten Phosphatminen weltweit, die über ein 98 km langes Förderband an die Küste angebunden ist. Der Abbau ist der wichtigste Wirtschaftszweig der Region.",
       hu: "A világ egyik legnagyobb foszfátbányája, amelyet egy 98 km hosszú szállítószalag köt össze a tengerparttal. A kitermelés a régió legfontosabb gazdasági ága.",
@@ -24,7 +24,7 @@ export const westernsaharaEconomicV2: POI[] = [
     id: "westernsahara-dakhla-fishing-zone-v2",
     type: "industry",
     name: { de: "Dakhla Fischereizone", hu: "Dakhla halászati övezet", ro: "Zona de pescuit Dakhla", en: "Dakhla Fishing Zone" },
-    coordinates: { lat: 23.7167, lng: -15.9333 },
+    coords: [-15.9333, 23.7167],
     description: {
       de: "Ein hochproduktives maritimes Gebiet mit bedeutender Fischverarbeitungsindustrie. Es ist das Zentrum der lokalen gewerblichen Fischereiaktivitäten.",
       hu: "Egy rendkívül produktív tengeri terület, jelentős halfeldolgozó iparral. A helyi kereskedelmi halászati tevékenységek központja.",

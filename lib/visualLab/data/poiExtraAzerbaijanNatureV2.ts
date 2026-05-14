@@ -466,7 +466,7 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     id: "azerbaijan-afurja-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Afurja-Wasserfall", hu: "Afurja-vízesés", ro: "Cascada Afurja", en: "Afurja Waterfall" },
-    coordinates: { lat: 41.1667, lng: 48.6333 },
+    coords: [48.6333, 41.1667],
     description: {
       de: "Der Afurja-Wasserfall ist der höchste Wasserfall in Aserbaidschan und liegt im Bezirk Quba am Fluss Welwelitschay.",
       hu: "Az Afurja-vízesés Azerbajdzsán legmagasabb vízesése, amely a Quba körzetben, a Velvelichay-folyón található.",
@@ -497,7 +497,7 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     id: "azerbaijan-lake-nohur-nature-v2",
     type: "lake",
     name: { de: "Nohur-See", hu: "Nohur-tó", ro: "Lacul Nohur", en: "Lake Nohur" },
-    coordinates: { lat: 40.9481, lng: 47.8825 },
+    coords: [47.8825, 40.9481],
     description: {
       de: "Der Nohur-See ist ein malerischer Gebirgssee im Bezirk Qabala, umgeben von den Bergen des Großen Kaukasus.",
       hu: "A Nohur-tó egy festői hegyi tó Qabala körzetében, amelyet a Nagy-Kaukázus hegyei vesznek körül.",
@@ -528,7 +528,7 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     id: "azerbaijan-terter-river-nature-v2",
     type: "river",
     name: { de: "Fluss Terter", hu: "Terter-folyó", ro: "Râul Terter", en: "Terter River" },
-    coordinates: { lat: 40.2311, lng: 47.1264 },
+    coords: [47.1264, 40.2311],
     description: {
       de: "Der Fluss Terter ist ein bedeutender Nebenfluss der Kura, der durch den Kleinen Kaukasus und das Tiefland fließt.",
       hu: "A Terter-folyó a Kura egyik jelentős mellékfolyója, amely a Kis-Kaukázuson és az alföldön folyik keresztül.",
@@ -542,12 +542,24 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       en: ["The total length of the river is 184 kilometers.", "It feeds the large Sarsang Reservoir.", "The river originates in the Kalbajar district.", "It is a major right tributary of the Kura River."],
     },
     imageHint: "Terter River flowing through a mountain valley in Azerbaijan",
+    descriptionAdvanced: {
+      de: "Der Terter-Fluss (aserbaidschanisch Tərtərçay) ist einer der bedeutendsten Nebenflüsse des Kura-Flusses. Er entspringt am Südhang des Murovdağ-Gebirges im Karabach-Gebirge und fließt durch die Rayons Kəlbəcər, Bərdə und Tərtər. Seine Länge beträgt etwa 200 Kilometer. Der Fluss wird stark für die Bewässerung genutzt, insbesondere im Tiefland. Am Fluss liegt der Sarsang-Stausee, der 1976 erbaut wurde und eine wichtige Rolle in der regionalen Landwirtschaft spielt. Das Wasser des Terter ist reich an Mineralien und trägt zur Fruchtbarkeit der umliegenden Böden bei.",
+      hu: "A Terter-folyó (azerbajdzsánul Tərtərçay) Azerbajdzsán egyik fő folyója, a Kura jobb oldali mellékfolyója. A Murovdağ-hegység déli lejtőin ered, és mintegy 200 km hosszú. A folyó vízgyűjtő területe mintegy 2700 négyzetkilométer. Jelentős öntözővíz-forrás, amely támogatja a mezőgazdasági termelést a régióban. A Sarsang-tározó, amely 1976-ban épült, a folyón található, és fontos a regionális vízgazdálkodás szempontjából. A folyó halban gazdag, és hozzájárul a helyi ökoszisztéma sokféleségéhez.",
+      ro: "Râul Terter (Tərtərçay în azeră) este un afluent important al râului Kura, originar din Munții Murovdağ din Carpații Mici. Are o lungime de aproximativ 200 km și un bazin hidrografic de aproximativ 2.700 km². Râul este esențial pentru irigarea terenurilor agricole din câmpia Kura-Arax. De asemenea, este cunoscut pentru rezervația naturală de pe malurile sale, care adăpostește specii rare de păsări și pești. Barajul Sarsang, construit în 1976, reglează debitul râului și asigură alimentarea cu apă pentru aproximativ 100.000 de hectare de terenuri agricole.",
+      en: "The Terter River (Tərtərçay) is a major tributary of the Kura River in Azerbaijan. It originates on the southern slopes of the Murovdağ range in the Lesser Caucasus, flowing for about 200 km through the districts of Kalbajar, Barda, and Tartar. The river's basin covers approximately 2,700 km². It is heavily used for irrigation, especially after the construction of the Sarsang Reservoir in 1976, which supplies water to about 100,000 hectares of farmland. The river supports diverse aquatic life and is an important ecological corridor in the region.",
+    },
+    factsAdvanced: {
+      de: ["Länge ca. 200 km", "Einzugsgebiet ca. 2700 km²", "Sarsang-Stausee erbaut 1976", "Stauseefläche rund 14 km²", "Stauseekapazität 560 Mio. m³", "Jährlicher Abfluss ca. 0,8 km³"],
+      hu: ["Hosszúság kb. 200 km", "Vízgyűjtő terület kb. 2700 km²", "Sarsang-tározó épült 1976", "Tározó területe kb. 14 km²", "Tározó kapacitása 560 millió m³", "Éves vízhozam kb. 0,8 km³"],
+      ro: ["Lungime aprox. 200 km", "Bazin hidrografic aprox. 2700 km²", "Barajul Sarsang construit în 1976", "Suprafața lacului de acumulare aprox. 14 km²", "Capacitate 560 milioane m³", "Debit anual aprox. 0,8 km³"],
+      en: ["Length approx. 200 km", "Basin area approx. 2,700 km²", "Sarsang Reservoir built in 1976", "Reservoir area approx. 14 km²", "Reservoir capacity 560 million m³", "Annual discharge approx. 0.8 km³"],
+    },
   },
   {
     id: "azerbaijan-pirallahi-island-nature-v2",
     type: "landmark",
     name: { de: "Insel Pirallahi", hu: "Pirallahi-sziget", ro: "Insula Pirallahi", en: "Pirallahi Island" },
-    coordinates: { lat: 40.4444, lng: 50.3542 },
+    coords: [50.3542, 40.4444],
     description: {
       de: "Die Insel Pirallahi liegt im Kaspischen Meer nahe Abscheron und ist für ihre frühe Ölförderung bekannt.",
       hu: "A Pirallahi-sziget a Kaszpi-tengerben található Absheron közelében, és korai olajkitermeléséről ismert.",

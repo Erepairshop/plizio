@@ -737,7 +737,13 @@ image: "/poi-images/aybak-cities-v2.webp"
         "The Buddhist cave monastery of Takht-e Rostam is located near the city.",
         "The region is known for its almonds and pistachios."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Aybak liegt auf 888 m Höhe.", "Die Stadt hat etwa 50.000 Einwohner (Schätzung 2015).", "Der Takht-e Rostam Stupa hat einen Durchmesser von 15 m.", "Samangan ist 7.582 km² groß.", "Die Region produziert jährlich 10.000 Tonnen Baumwolle.", "Aybak wurde im 13. Jahrhundert unter den Mongolen zerstört."],
+      hu: ["Aybak Samangan tartomány székhelye.", "A város 888 méter tengerszint feletti magasságban fekszik.", "A Takht-e Rostam buddhista kolostor az i.sz. 4. századból származik.", "Samangan tartomány területe 7.582 km².", "A lakosság mintegy 50.000 fő (2015-ös becslés).", "A város a Selyemút mentén fekszik."],
+      ro: ["Aybak are aproximativ 50.000 de locuitori.", "Altitudinea orașului este de 888 m.", "Samangan are o suprafață de 7.582 km².", "Takht-e Rostam include un stupa cu diametrul de 15 m.", "Aybak a fost distrusă de mongoli în secolul al XIII-lea.", "Economia locală include producția de 10.000 de tone de bumbac pe an."],
+      en: ["Aybak's elevation is 888 meters above sea level.", "Population is estimated at 50,000 (2015).", "Samangan Province covers 7,582 km².", "Takht-e Rostam monastery dates from the 4th-5th centuries CE.", "The city was destroyed by Mongols in the 13th century.", "Annual cotton production in the region is 10,000 tons."],
+    },
   },
   {
     id: "asadabad-cities-v2",
@@ -770,7 +776,13 @@ image: "/poi-images/asadabad-cities-v2.webp"
         "The surrounding mountains are covered by dense cedar and pine forests.",
         "Asadabad has a close cultural connection to neighboring Pakistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Asadabad liegt auf 750 m Höhe.", "Die Bevölkerung wird auf 48.000 geschätzt (2015).", "Kunar Provinz hat eine Fläche von 4.942 km².", "Der Kunar-Fluss ist etwa 480 km lang.", "Die Stadt wurde 1979 von den Sowjets bombardiert.", "Die Holzproduktion beträgt jährlich 5.000 m³."],
+      hu: ["Asadabad Kunar tartomány székhelye.", "A város 750 m tengerszint feletti magasságban fekszik.", "Kunar tartomány területe 4.942 km².", "A város lakossága kb. 48.000 fő (2015).", "A Kunar folyó hossza 480 km.", "Asadabad a szovjet invázió során súlyos károkat szenvedett."],
+      ro: ["Asadabad are aproximativ 48.000 de locuitori.", "Altitudinea orașului este de 750 m.", "Kunar are o suprafață de 4.942 km².", "Râul Kunar are o lungime de 480 km.", "Orașul a fost bombardat de sovietici în 1979.", "Industria lemnului produce anual 5.000 m³ de cherestea."],
+      en: ["Asadabad's elevation is 750 meters.", "Population estimate: 48,000 (2015).", "Kunar Province covers 4,942 km².", "The Kunar River is 480 km long.", "The city was heavily damaged during the Soviet invasion.", "Annual timber production is 5,000 cubic meters."],
+    },
   },
   {
     id: "faizabad-cities-v2",
@@ -1167,7 +1179,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-baghlan-cities-v2",
     type: "city",
     name: { de: "Baghlan", hu: "Baglán", ro: "Baghlan", en: "Baghlan" },
-    coordinates: { lat: 36.17, lng: 68.7 },
+    coords: [68.7, 36.17],
     description: {
       de: "Baghlan ist ein Industriezentrum im Norden Afghanistans. Die Stadt liegt im Tal des Kundus-Flusses und ist für ihre Zuckerfabrik bekannt.",
       hu: "Baglán egy ipari központ Afganisztán északi részén. A város a Kunduz-folyó völgyében fekszik, és cukorgyáráról nevezetes.",
@@ -1198,7 +1210,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-khanabad-cities-v2",
     type: "town",
     name: { de: "Khanabad", hu: "Hánábád", ro: "Khanabad", en: "Khanabad" },
-    coordinates: { lat: 36.68, lng: 69.11 },
+    coords: [69.11, 36.68],
     description: {
       de: "Khanabad ist eine Stadt in der Provinz Kundus. Sie gilt als einer der fruchtbarsten Orte der Region und ist ein Zentrum des Reishandels.",
       hu: "Hánábád város Kunduz tartományban. A régió egyik legtermékenyebb helyeként tartják számon, és a rizskereskedelem központja.",
@@ -1229,7 +1241,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-imam-sahib-cities-v2",
     type: "town",
     name: { de: "Imam Sahib", hu: "Imám Száhib", ro: "Imam Sahib", en: "Imam Sahib" },
-    coordinates: { lat: 37.19, lng: 68.91 },
+    coords: [68.91, 37.19],
     description: {
       de: "Imam Sahib liegt an der Grenze zu Tadschikistan. Die Stadt ist bekannt für ihren bedeutenden Schrein und als wichtiger Handelsposten.",
       hu: "Imám Száhib a tadzsik határ mentén fekszik. A város jelentős kegyhelyéről és fontos kereskedelmi állomásként ismert.",
@@ -1260,7 +1272,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-ghourian-cities-v2",
     type: "town",
     name: { de: "Ghourian", hu: "Gurián", ro: "Ghourian", en: "Ghourian" },
-    coordinates: { lat: 34.34, lng: 61.47 },
+    coords: [61.47, 34.34],
     description: {
       de: "Ghourian liegt in der Provinz Herat nahe der iranischen Grenze. Die Stadt ist ein historisches Zentrum für Landwirtschaft und Handel.",
       hu: "Gurián Herát tartományban, az iráni határ közelében fekszik. A város a mezőgazdaság és a kereskedelem történelmi központja.",
@@ -1291,7 +1303,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-aqcha-cities-v2",
     type: "town",
     name: { de: "Aqcha", hu: "Akcsa", ro: "Aqcha", en: "Aqcha" },
-    coordinates: { lat: 36.91, lng: 66.18 },
+    coords: [66.18, 36.91],
     description: {
       de: "Aqcha ist eine Stadt in der Provinz Dschauzdschan. Sie ist weltweit berühmt für die Herstellung traditioneller turkmenischer Teppiche.",
       hu: "Akcsa város Dzsauzdzsán tartományban. Világszerte híres a hagyományos türkmén szőnyegek készítéséről.",
@@ -1322,7 +1334,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-andkhoy-cities-v2",
     type: "town",
     name: { de: "Andkhoy", hu: "Andhuj", ro: "Andkhoy", en: "Andkhoy" },
-    coordinates: { lat: 36.95, lng: 65.12 },
+    coords: [65.12, 36.95],
     description: {
       de: "Andkhoy liegt im Nordwesten Afghanistans. Die Stadt ist bekannt für ihre Karakulschaf-Zucht und als wichtiger Handelsplatz für Teppiche.",
       hu: "Andhuj Afganisztán északnyugati részén fekszik. A város karakul juh-tenyésztéséről és szőnyegkereskedelméről ismert.",
@@ -1353,7 +1365,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-kholm-cities-v2",
     type: "town",
     name: { de: "Kholm", hu: "Holm", ro: "Kholm", en: "Kholm" },
-    coordinates: { lat: 36.69, lng: 67.69 },
+    coords: [67.69, 36.69],
     description: {
       de: "Kholm, früher Tashkurgan genannt, ist eine historische Stadt im Norden. Sie liegt strategisch günstig am Ausgang einer Bergschlucht.",
       hu: "Holm, korábbi nevén Taskurgán, egy történelmi város északon. Stratégiai helyen, egy hegyi szurdok kijáratánál fekszik.",
@@ -1367,12 +1379,24 @@ image: "/poi-images/bamyan-cities-v2.webp"
       en: ["Famous for its ancient bazaar", "Features the Bagh-e Jahan palace", "Key stop on the Silk Road", "Located in Balkh Province"],
     },
     imageHint: "Kholm Tashkurgan ancient covered bazaar",
+    descriptionAdvanced: {
+      de: "Kholm, auch bekannt als Tashqurghan, ist eine Stadt in der Provinz Samangan im Norden Afghanistans. Sie liegt am Fluss Khulm und ist ein wichtiger landwirtschaftlicher Markt. Die Stadt ist berühmt für ihre alten Basare und die Nähe zu den Höhlen von Takht-e Rostam. Die Bevölkerung besteht hauptsächlich aus Usbeken und Tadschiken. Kholm war einst ein Knotenpunkt der Seidenstraße und hat eine reiche Geschichte, die bis in die Zeit des Alexander des Großen zurückreicht.",
+      hu: "Kholm (más néven Tashqurghan) város Szamangán tartományban, Észak-Afganisztánban, a Khulm folyó partján. Fontos mezőgazdasági piac. Híres régi bazárjairól és a Takht-e Rostam barlangjainak közelségéről. Lakossága főként üzbég és tadzsik. Kholm a Selyemút egyik csomópontja volt, történelme Nagy Sándorig nyúlik vissza.",
+      ro: "Kholm, cunoscut și ca Tashqurghan, este un oraș din provincia Samangan, nordul Afganistanului, situat pe râul Khulm. Este o piață agricolă importantă. Orașul este renumit pentru bazarurile sale vechi și apropierea de peșterile Takht-e Rostam. Populația este predominant uzbecă și tadjică. Kholm a fost un nod al Drumului Mătăsii, cu o istorie ce datează de la Alexandru cel Mare.",
+      en: "Kholm, also known as Tashqurghan, is a city in Samangan Province, northern Afghanistan, located on the Khulm River. It serves as a major agricultural marketplace. The city is famous for its ancient bazaars and proximity to the Takht-e Rostam caves. The population is primarily Uzbek and Tajik. Kholm was a Silk Road hub, with history tracing back to Alexander the Great.",
+    },
+    factsAdvanced: {
+      de: ["Kholm liegt auf 450 m Höhe.", "Die Einwohnerzahl beträgt rund 40.000.", "Samangan Provinz hat 7.582 km².", "Der Basar von Kholm ist über 500 Jahre alt.", "Die Stadt liegt an der alten Seidenstraße.", "Alexander der Große soll hier 329 v. Chr. gelagert haben."],
+      hu: ["Kholm 450 m tengerszint feletti magasságban fekszik.", "A város lakossága kb. 40.000 fő.", "Samangan tartomány területe 7.582 km².", "A kholmi bazár több mint 500 éves.", "A város a Selyemút mentén fekszik.", "Nagy Sándor i.e. 329-ben itt táborozott."],
+      ro: ["Kholm are o altitudine de 450 m.", "Populația este de aproximativ 40.000.", "Samangan are 7.582 km².", "Bazarul din Kholm are peste 500 de ani.", "Orașul este situat pe Drumul Mătăsii.", "Alexandru cel Mare a campat aici în 329 î.Hr."],
+      en: ["Kholm elevation: 450 meters.", "Population: about 40,000.", "Samangan Province area: 7,582 km².", "The bazaar is over 500 years old.", "Kholm lies on the ancient Silk Road.", "Alexander the Great camped here in 329 BCE."],
+    },
   },
   {
     id: "afghanistan-balkh-cities-v2",
     type: "city",
     name: { de: "Balkh", hu: "Balh", ro: "Balkh", en: "Balkh" },
-    coordinates: { lat: 36.76, lng: 66.9 },
+    coords: [66.9, 36.76],
     description: {
       de: "Balkh ist eine der ältesten Städte der Welt. Sie war einst als die 'Mutter der Städte' bekannt und ein Zentrum des Buddhismus und Islam.",
       hu: "Balh a világ egyik legősibb városa. Valaha a 'városok anyjaként' ismerték, a buddhizmus és az iszlám központja volt.",
@@ -1403,7 +1427,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-shindand-cities-v2",
     type: "town",
     name: { de: "Shindand", hu: "Sindand", ro: "Shindand", en: "Shindand" },
-    coordinates: { lat: 33.3, lng: 62.14 },
+    coords: [62.14, 33.3],
     description: {
       de: "Shindand, historisch Sabzawar genannt, liegt in der Provinz Herat. Die Stadt beherbergt einen der größten Militärflugplätze des Landes.",
       hu: "Sindand, történelmi nevén Szabzavár, Herát tartományban található. Itt működik az ország egyik legnagyobb katonai repülőtere.",
@@ -1417,12 +1441,24 @@ image: "/poi-images/bamyan-cities-v2.webp"
       en: ["Major military airbase", "Formerly a viticulture center", "Strategic western location", "Known historically as Sabzawar"],
     },
     imageHint: "Shindand aerial view of town and airbase",
+    descriptionAdvanced: {
+      de: "Shindand ist eine Stadt in der Provinz Herat im Westen Afghanistans, nahe der Grenze zum Iran. Sie liegt auf etwa 1.150 m Höhe in einer trockenen Ebene. Die Stadt ist bekannt für ihren Militärflughafen, der während des Kalten Krieges von der sowjetischen Luftwaffe genutzt wurde. Die Wirtschaft basiert auf Handwerk, Landwirtschaft (Weizen, Gerste) und dem lokalen Handel. Die Bevölkerung setzt sich aus Paschtunen, Tadschiken und Aimaken zusammen.",
+      hu: "Shindand Herat tartományban, Nyugat-Afganisztánban, az iráni határ közelében, körülbelül 1.150 m tengerszint feletti magasságban fekszik egy száraz síkságon. Ismert katonai repülőteréről, amelyet a szovjet légierő használt a hidegháború alatt. Gazdasága kézművességre, mezőgazdaságra (búza, árpa) és helyi kereskedelemre épül. Lakossága pastu, tadzsik és ajmak etnikumokból áll.",
+      ro: "Shindand este un oraș în provincia Herat, vestul Afganistanului, aproape de granița cu Iranul, situat la o altitudine de aproximativ 1.150 m într-o câmpie aridă. Este cunoscut pentru aeroportul său militar, folosit de forțele aeriene sovietice în timpul Războiului Rece. Economia se bazează pe meșteșuguri, agricultură (grâu, orz) și comerț local. Populația este formată din paștuni, tadjici și aimak.",
+      en: "Shindand is a city in Herat Province, western Afghanistan, near the Iranian border, lying at about 1,150 meters elevation in an arid plain. It is known for its military airbase, used by the Soviet Air Force during the Cold War. The economy relies on handicrafts, agriculture (wheat, barley), and local trade. The population includes Pashtuns, Tajiks, and Aimaqs.",
+    },
+    factsAdvanced: {
+      de: ["Shindand liegt auf 1.150 m Höhe.", "Die Stadt hat etwa 30.000 Einwohner.", "Der Flughafen Shindand hat eine 2.800 m lange Startbahn.", "Herat Provinz umfasst 54.778 km².", "Die Gegend erhält nur 200 mm Niederschlag pro Jahr.", "Der Flughafen wurde 1979 von den Sowjets ausgebaut."],
+      hu: ["Shindand 1.150 m tengerszint feletti magasságban fekszik.", "Lakossága kb. 30.000 fő.", "A katonai repülőtér kifutópályája 2.800 m hosszú.", "Herat tartomány területe 54.778 km².", "Az éves csapadékmennyiség 200 mm.", "A repülőteret 1979-ben bővítették a szovjetek."],
+      ro: ["Shindand are o altitudine de 1.150 m.", "Populația este de aproximativ 30.000.", "Pista aeroportului militar are 2.800 m lungime.", "Provincia Herat are 54.778 km².", "Precipitațiile anuale sunt de 200 mm.", "Aeroportul a fost extins de sovietici în 1979."],
+      en: ["Shindand elevation: 1,150 meters.", "Population: about 30,000.", "Military airbase runway length: 2,800 m.", "Herat Province area: 54,778 km².", "Annual precipitation: 200 mm.", "Airbase expanded by Soviets in 1979."],
+    },
   },
   {
     id: "afghanistan-sang-e-charak-cities-v2",
     type: "town",
     name: { de: "Sang-e Charak", hu: "Szing-e Csárak", ro: "Sang-e Charak", en: "Sang-e Charak" },
-    coordinates: { lat: 35.83, lng: 66.44 },
+    coords: [66.44, 35.83],
     description: {
       de: "Sang-e Charak liegt in der Provinz Sar-e Pol. Die Stadt ist bekannt für ihre raue Berglandschaft und die traditionelle Landwirtschaft.",
       hu: "Szing-e Csárak Szar-e Pol tartományban található. A város zord hegyvidéki tájairól és hagyományos mezőgazdaságáról ismert.",
@@ -1436,12 +1472,24 @@ image: "/poi-images/bamyan-cities-v2.webp"
       en: ["In the Hindu Kush foothills", "Known for fruit trade", "Significant local market", "Center of the eponymous district"],
     },
     imageHint: "Sang-e Charak rugged mountain scenery",
+    descriptionAdvanced: {
+      de: "Sang-e Charak ist eine Stadt in der Provinz Sar-e Pul im Norden Afghanistans. Sie liegt auf etwa 800 m Höhe und ist bekannt für ihre landwirtschaftlichen Produkte, insbesondere Mandeln und Pistazien. Die Stadt hat eine gemischte Bevölkerung aus Usbeken, Tadschiken und Paschtunen. Die Infrastruktur ist begrenzt, aber es gibt einen kleinen Markt und grundlegende medizinische Einrichtungen. Die Region war in den letzten Jahrzehnten von Konflikten betroffen.",
+      hu: "Sang-e Charak város Szár-e Pol tartományban, Észak-Afganisztánban, körülbelül 800 méter tengerszint feletti magasságban. Híres mezőgazdasági termékeiről, különösen manduláról és pisztáciáról. Lakossága üzbég, tadzsik és pastu etnikumokból tevődik össze. Az infrastruktúra korlátozott, de van egy kis piac és alapvető egészségügyi ellátás. A térséget az elmúlt évtizedekben konfliktusok sújtották.",
+      ro: "Sang-e Charak este un oraș în provincia Sar-e Pul, nordul Afganistanului, situat la o altitudine de aproximativ 800 m. Este cunoscut pentru produsele sale agricole, în special migdale și fistic. Populația este mixtă, formată din uzbeci, tadjici și paștuni. Infrastructura este limitată, dar există o piață mică și facilități medicale de bază. Regiunea a fost afectată de conflicte în ultimele decenii.",
+      en: "Sang-e Charak is a city in Sar-e Pul Province, northern Afghanistan, at an elevation of about 800 meters. It is known for its agricultural products, particularly almonds and pistachios. The population is mixed, including Uzbeks, Tajiks, and Pashtuns. Infrastructure is limited, with a small market and basic healthcare facilities. The area has been affected by conflicts in recent decades.",
+    },
+    factsAdvanced: {
+      de: ["Sang-e Charak liegt auf 800 m Höhe.", "Die Einwohnerzahl wird auf 25.000 geschätzt.", "Sar-e Pul Provinz ist 15.999 km² groß.", "Die Mandelproduktion beträgt 2.000 Tonnen jährlich.", "Pistazien werden auf 500 Hektar angebaut.", "Die Stadt hat eine Grundschule mit 300 Schülern."],
+      hu: ["Sang-e Charak 800 m tengerszint feletti magasságban fekszik.", "Lakossága kb. 25.000 fő.", "Szár-e Pol tartomány területe 15.999 km².", "Az éves mandulatermelés 2.000 tonna.", "Pisztáciát 500 hektáron termesztenek.", "A városban egy általános iskola működik 300 tanulóval."],
+      ro: ["Sang-e Charak are altitudinea de 800 m.", "Populația este de aproximativ 25.000.", "Provincia Sar-e Pul are 15.999 km².", "Producția anuală de migdale este de 2.000 de tone.", "Fisticul este cultivat pe 500 de hectare.", "Orașul are o școală primară cu 300 de elevi."],
+      en: ["Sang-e Charak elevation: 800 meters.", "Population: about 25,000.", "Sar-e Pul Province area: 15,999 km².", "Annual almond production: 2,000 tons.", "Pistachio cultivation on 500 hectares.", "One primary school with 300 students."],
+    },
   },
   {
     id: "afghanistan-qaysar-cities-v2",
     type: "town",
     name: { de: "Qaysar", hu: "Kajszár", ro: "Qaysar", en: "Qaysar" },
-    coordinates: { lat: 35.69, lng: 64.3 },
+    coords: [64.3, 35.69],
     description: {
       de: "Qaysar ist eine Stadt in der Provinz Faryab. Sie ist bekannt für ihre Produktion von Weintrauben und Rosinen von hoher Qualität.",
       hu: "Kajszár város Farjáb tartományban. Kiváló minőségű szőlő- és mazsolatermeléséről ismert.",
@@ -1472,7 +1520,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-panjao-cities-v2",
     type: "town",
     name: { de: "Panjao", hu: "Pandzsao", ro: "Panjao", en: "Panjao" },
-    coordinates: { lat: 34.38, lng: 67.02 },
+    coords: [67.02, 34.38],
     description: {
       de: "Panjao liegt im Herzen der Provinz Bamyan. Die Stadt befindet sich an einem Zusammenfluss von fünf Flüssen im zentralen Hochland.",
       hu: "Pandzsao Bamijan tartomány szívében fekszik. A város öt folyó találkozásánál található a központi felföldön.",
@@ -1503,7 +1551,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-kishim-cities-v2",
     type: "town",
     name: { de: "Kishim", hu: "Kisim", ro: "Kishim", en: "Kishim" },
-    coordinates: { lat: 36.81, lng: 70.08 },
+    coords: [70.08, 36.81],
     description: {
       de: "Kishim gilt als das Tor zur Provinz Badachschan. Die Stadt liegt in einem fruchtbaren Tal, das für seine Weizenfelder bekannt ist.",
       hu: "Kisim Badahsán tartomány kapujának számít. A város egy termékeny völgyben fekszik, amely búzamezőiről ismert.",
@@ -1534,7 +1582,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-jurm-cities-v2",
     type: "town",
     name: { de: "Jurm", hu: "Dzsorm", ro: "Jurm", en: "Jurm" },
-    coordinates: { lat: 36.86, lng: 70.83 },
+    coords: [70.83, 36.86],
     description: {
       de: "Jurm ist eine historische Stadt in der Provinz Badachschan. Sie ist ein wichtiges Handelszentrum für Mineralien, insbesondere Lapislazuli.",
       hu: "Dzsorm történelmi város Badahsán tartományban. Fontos ásványkereskedelmi központ, különösen a lapi lazuli kereskedelméről híres.",
@@ -1565,7 +1613,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-ishkashim-cities-v2",
     type: "town",
     name: { de: "Ishkashim", hu: "Iskásim", ro: "Ishkashim", en: "Ishkashim" },
-    coordinates: { lat: 36.72, lng: 71.53 },
+    coords: [71.53, 36.72],
     description: {
       de: "Ishkashim liegt am Eingang zum Wakhan-Korridor. Die Grenzstadt verbindet Afghanistan mit Tadschikistan über eine Brücke am Pandsch-Fluss.",
       hu: "Iskásim a Vahán-folyosó bejáratánál fekszik. A határváros hídjával köti össze Afganisztánt Tádzsikisztánnal a Pandzs-folyón keresztül.",
@@ -1596,7 +1644,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-yakawlang-cities-v2",
     type: "town",
     name: { de: "Yakawlang", hu: "Jakavlang", ro: "Yakawlang", en: "Yakawlang" },
-    coordinates: { lat: 34.74, lng: 66.97 },
+    coords: [66.97, 34.74],
     description: {
       de: "Yakawlang liegt in der Provinz Bamyan. Die Stadt ist ein Tor zum Band-e-Amir-Nationalpark und bekannt für ihre atemberaubende Hochlandnatur.",
       hu: "Jakavlang Bamijan tartományban található. A város a Band-e-Amir Nemzeti Park kapuja, híres lenyűgöző felföldi tájairól.",
@@ -1627,7 +1675,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-nili-cities-v2",
     type: "capital",
     name: { de: "Nili", hu: "Nili", ro: "Nili", en: "Nili" },
-    coordinates: { lat: 33.72, lng: 66.13 },
+    coords: [66.13, 33.72],
     description: {
       de: "Nili ist die Hauptstadt der Provinz Daikundi. Die Stadt liegt abgelegen im zentralen Hochland und hat sich seit 2004 rasant entwickelt.",
       hu: "Nili Dajkundi tartomány székhelye. A város távol esik a központi felföldön, és 2004 óta gyors fejlődésen ment keresztül.",
@@ -1658,7 +1706,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-urgun-cities-v2",
     type: "town",
     name: { de: "Urgun", hu: "Urgun", ro: "Urgun", en: "Urgun" },
-    coordinates: { lat: 32.94, lng: 69.17 },
+    coords: [69.17, 32.94],
     description: {
       de: "Urgun ist die größte Stadt in der Provinz Paktika. Sie ist ein bedeutendes Handelszentrum im Südosten Afghanistans nahe der Grenze zu Pakistan.",
       hu: "Urgun Paktika tartomány legnagyobb városa. Jelentős kereskedelmi központ Afganisztán délkeleti részén, a pakisztáni határ közelében.",
@@ -1689,7 +1737,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-sharana-cities-v2",
     type: "capital",
     name: { de: "Sharana", hu: "Sarána", ro: "Sharana", en: "Sharana" },
-    coordinates: { lat: 33.13, lng: 68.78 },
+    coords: [68.78, 33.13],
     description: {
       de: "Sharana ist die Hauptstadt der Provinz Paktika. Die Stadt liegt im Osten des Landes und dient als wichtiges Verwaltungszentrum.",
       hu: "Sarána Paktika tartomány székhelye. A város az ország keleti részén fekszik, és fontos közigazgatási központként szolgál.",
@@ -1720,7 +1768,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-sangin-cities-v2",
     type: "town",
     name: { de: "Sangin", hu: "Szangin", ro: "Sangin", en: "Sangin" },
-    coordinates: { lat: 32.31, lng: 64.83 },
+    coords: [64.83, 32.31],
     description: {
       de: "Sangin ist eine Stadt in der Provinz Helmand. Sie liegt am Fluss Helmand und ist ein zentraler Handelsplatz für die umliegenden Agrargebiete.",
       hu: "Szangin város Helmand tartományban. A Helmand-folyó partján fekszik, és a környező mezőgazdasági területek központi piaca.",
@@ -1751,7 +1799,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-musa-qala-cities-v2",
     type: "town",
     name: { de: "Musa Qala", hu: "Musza Kala", ro: "Musa Qala", en: "Musa Qala" },
-    coordinates: { lat: 32.44, lng: 64.74 },
+    coords: [64.74, 32.44],
     description: {
       de: "Musa Qala liegt in der Provinz Helmand. Der Name bedeutet 'Festung von Moses' und die Stadt ist ein bedeutendes regionales Zentrum im Süden.",
       hu: "Musza Kala Helmand tartományban található. A név jelentése 'Mózes erődje', a város pedig jelentős regionális központ délen.",
@@ -1782,7 +1830,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-girishk-cities-v2",
     type: "town",
     name: { de: "Girishk", hu: "Geresk", ro: "Girishk", en: "Girishk" },
-    coordinates: { lat: 31.82, lng: 64.57 },
+    coords: [64.57, 31.82],
     description: {
       de: "Girishk liegt strategisch günstig an der Ringstraße in der Provinz Helmand. Die Stadt ist ein wichtiger Verkehrsknotenpunkt am Helmand-Fluss.",
       hu: "Geresk stratégiai helyen, a körgyűrű mentén fekszik Helmand tartományban. A város fontos közlekedési csomópont a Helmand-folyónál.",
@@ -1813,7 +1861,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-garmser-cities-v2",
     type: "town",
     name: { de: "Garmser", hu: "Garmszér", ro: "Garmser", en: "Garmser" },
-    coordinates: { lat: 31.12, lng: 64.2 },
+    coords: [64.2, 31.12],
     description: {
       de: "Garmser liegt im Süden der Provinz Helmand. Die Stadt ist ein Zentrum der Bewässerungslandwirtschaft in einer ansonsten ariden Region.",
       hu: "Garmszér Helmand tartomány déli részén fekszik. A város az öntözéses gazdálkodás központja egy egyébként száraz vidéken.",
@@ -1844,7 +1892,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-muqur-cities-v2",
     type: "town",
     name: { de: "Muqur", hu: "Mokor", ro: "Muqur", en: "Muqur" },
-    coordinates: { lat: 32.85, lng: 67.83 },
+    coords: [67.83, 32.85],
     description: {
       de: "Muqur ist eine Stadt in der Provinz Ghazni. Sie liegt an der Hauptstraße zwischen Kabul und Kandahar und ist ein wichtiger Rastplatz.",
       hu: "Mokor város Gazni tartományban. A Kabul és Kandahár közötti főúton fekszik, és fontos pihenőhely.",
@@ -1875,7 +1923,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-khwaja-ghar-cities-v2",
     type: "town",
     name: { de: "Khwaja Ghar", hu: "Hvadzsa Gar", ro: "Khwaja Ghar", en: "Khwaja Ghar" },
-    coordinates: { lat: 37.17, lng: 69.43 },
+    coords: [69.43, 37.17],
     description: {
       de: "Khwaja Ghar liegt in der Provinz Tachar. Die Stadt befindet sich am Zusammenfluss der Flüsse Koktscha und Amu Darja.",
       hu: "Hvadzsa Gar Tahár tartományban található. A város a Kokcsa és az Amu-darja folyók találkozásánál fekszik.",
@@ -1906,7 +1954,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-dasht-e-archi-cities-v2",
     type: "town",
     name: { de: "Dasht-e Archi", hu: "Dast-e Arcsi", ro: "Dasht-e Archi", en: "Dasht-e Archi" },
-    coordinates: { lat: 37.16, lng: 69.17 },
+    coords: [69.17, 37.16],
     description: {
       de: "Dasht-e Archi ist eine Stadt in der Provinz Kundus. Sie ist bekannt für ihre weiten Ebenen und die intensive Getreideproduktion.",
       hu: "Dast-e Arcsi város Kunduz tartományban. Ismert kiterjedt síkságairól és intenzív gabonatermeléséről.",
@@ -1937,7 +1985,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-qarghayi-cities-v2",
     type: "town",
     name: { de: "Qarghayi", hu: "Kargaji", ro: "Qarghayi", en: "Qarghayi" },
-    coordinates: { lat: 34.54, lng: 70.22 },
+    coords: [70.22, 34.54],
     description: {
       de: "Qarghayi liegt in der Provinz Laghman. Die Stadt ist bekannt für ihre grüne Vegetation und die Nähe zum Kabul-Fluss.",
       hu: "Kargaji Lagmán tartományban fekszik. A város zöld vegetációjáról és a Kabuli-folyó közelségéről ismert.",
@@ -1968,7 +2016,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-tagab-cities-v2",
     type: "town",
     name: { de: "Tagab", hu: "Tagáb", ro: "Tagab", en: "Tagab" },
-    coordinates: { lat: 34.85, lng: 69.65 },
+    coords: [69.65, 34.85],
     description: {
       de: "Tagab liegt in der Provinz Kapisa. Die Stadt ist berühmt für ihren Granatapfelanbau und die malerischen Bergvölker.",
       hu: "Tagáb Kapisza tartományban fekszik. A város gránátalma-termesztéséről és festői hegyi népeiről híres.",
@@ -1999,7 +2047,7 @@ image: "/poi-images/bamyan-cities-v2.webp"
     id: "afghanistan-nijrab-cities-v2",
     type: "town",
     name: { de: "Nijrab", hu: "Nidzsráb", ro: "Nijrab", en: "Nijrab" },
-    coordinates: { lat: 34.98, lng: 69.58 },
+    coords: [69.58, 34.98],
     description: {
       de: "Nijrab liegt in einem üppigen Tal in der Provinz Kapisa. Die Stadt ist für ihre landschaftliche Schönheit und landwirtschaftliche Vielfalt bekannt.",
       hu: "Nidzsráb egy dús völgyben fekszik Kapisza tartományban. A város táji szépségéről és mezőgazdasági sokszínűségéről ismert.",

@@ -647,7 +647,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "peak",
     parent: "TR",
     name: { de: "Uludağ", hu: "Uludağ", ro: "Muntele Uludağ", en: "Uludağ" },
-    coordinates: { lat: 40.0694, lng: 29.1317 },
+    coords: [29.1317, 40.0694],
     description: {
       de: "Uludağ ist das höchste Gebirge Westanatoliens und ein bedeutendes Wintersportzentrum in der Nähe der Stadt Bursa.",
       hu: "Az Uludağ Nyugat-Anatólia legmagasabb hegysége, amely fontos téli sportközpont és nemzeti park Bursa közelében.",
@@ -667,7 +667,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "valley",
     parent: "TR",
     name: { de: "Saklıkent-Canyon", hu: "Saklıkent-kanyon", ro: "Canionul Saklıkent", en: "Saklıkent Canyon" },
-    coordinates: { lat: 36.4736, lng: 29.4033 },
+    coords: [29.4033, 36.4736],
     description: {
       de: "Der Saklıkent-Canyon ist eine der tiefsten Schluchten der Welt und wurde über Jahrtausende vom Fluss Eşen geformt.",
       hu: "A Saklıkent-kanyon a világ egyik legmélyebb szurdoka, amelyet az Eşen-folyó vájt ki az évezredek során.",
@@ -687,7 +687,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "peak",
     parent: "TR",
     name: { de: "Berg Honaz", hu: "Honaz-hegy", ro: "Muntele Honaz", en: "Mount Honaz" },
-    coordinates: { lat: 37.6719, lng: 29.2886 },
+    coords: [29.2886, 37.6719],
     description: {
       de: "Der Berg Honaz ist mit 2.571 Metern der höchste Gipfel der Ägäisregion und ein wichtiger Teil des westlichen Taurusgebirges.",
       hu: "A Honaz-hegy 2571 méteres magasságával az Égei-tengeri régió legmagasabb csúcsa és a Nyugati-Toros-hegység része.",
@@ -707,7 +707,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "mountain",
     parent: "TR",
     name: { de: "Bolkar-Berge", hu: "Bolkar-hegység", ro: "Munții Bolkar", en: "Bolkar Mountains" },
-    coordinates: { lat: 37.3833, lng: 34.6 },
+    coords: [34.6, 37.3833],
     description: {
       de: "Die Bolkar-Berge sind ein Teil des zentralen Taurusgebirges und bekannt für ihre glazialen Seen und hohe Artenvielfalt.",
       hu: "A Bolkar-hegység a Középső-Toros-hegység része, amely glaciális tavairól és gazdag biológiai sokféleségéről ismert.",
@@ -727,7 +727,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "mountain",
     parent: "TR",
     name: { de: "Obruk-Plateau", hu: "Obruk-fennsík", ro: "Podișul Obruk", en: "Obruk Plateau" },
-    coordinates: { lat: 38.15, lng: 33.3 },
+    coords: [33.3, 38.15],
     description: {
       de: "Das Obruk-Plateau in Zentralanatolien ist eine karge Hochebene, die durch zahlreiche natürliche Dolinen und Einsturztrichter geprägt ist.",
       hu: "A Közép-Anatóliában található Obruk-fennsík egy kopár magasföld, amelyet számos természetes víznyelő és töbör jellemez.",
@@ -747,7 +747,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "peak",
     parent: "TR",
     name: { de: "Berg Spil", hu: "Spil-hegy", ro: "Muntele Spil", en: "Mount Spil" },
-    coordinates: { lat: 38.5528, lng: 27.4528 },
+    coords: [27.4528, 38.5528],
     description: {
       de: "Der Berg Spil bei Manisa ist ein Kalksteinmassiv, das für seine reiche Flora, Wildpferde und mythologische Bedeutung bekannt ist.",
       hu: "A Manisa melletti Spil-hegy egy mészkőmasszívum, amely gazdag flórájáról, vadlovairól és mitológiai jelentőségéről ismert.",
@@ -767,7 +767,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "valley",
     parent: "TR",
     name: { de: "Valla-Canyon", hu: "Valla-kanyon", ro: "Canionul Valla", en: "Valla Canyon" },
-    coordinates: { lat: 41.67, lng: 33.0 },
+    coords: [33.0, 41.67],
     description: {
       de: "Der Valla-Canyon im Küre-Gebirge gilt als einer der am schwersten passierbaren Canyons der Welt mit Wänden bis zu 800 Metern.",
       hu: "A Küre-hegységben található Valla-kanyon a világ egyik legnehezebben járható szurdoka, falai elérik a 800 métert.",
@@ -787,7 +787,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "mountain",
     parent: "TR",
     name: { de: "Ardahan-Plateau", hu: "Ardahan-fennsík", ro: "Podișul Ardahan", en: "Ardahan Plateau" },
-    coordinates: { lat: 41.1, lng: 42.7 },
+    coords: [42.7, 41.1],
     description: {
       de: "Das Ardahan-Plateau ist eine weitläufige Hochebene im Nordosten der Türkei, die durch vulkanische Aktivitäten und raues Klima geprägt ist.",
       hu: "Az Ardahan-fennsík egy kiterjedt magasföld Törökország északkeleti részén, amelyet vulkáni tevékenység és zord éghajlat jellemez.",
@@ -807,7 +807,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "peak",
     parent: "TR",
     name: { de: "Tendürek-Vulkan", hu: "Tendürek-vulkán", ro: "Muntele Tendürek", en: "Mount Tendürek" },
-    coordinates: { lat: 39.3333, lng: 43.8333 },
+    coords: [43.8333, 39.3333],
     description: {
       de: "Der Tendürek ist ein aktiver Schildvulkan im Osten der Türkei, der für seine zwei Krater und erstarrten Lavaströme bekannt ist.",
       hu: "A Tendürek egy aktív pajzsvulkán Kelet-Törökországban, amely két kráteréről és kiterjedt megszilárdult lávafolyásairól ismert.",
@@ -827,7 +827,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "mountain",
     parent: "TR",
     name: { de: "Bozok-Plateau", hu: "Bozok-fennsík", ro: "Podișul Bozok", en: "Bozok Plateau" },
-    coordinates: { lat: 39.5, lng: 35.0 },
+    coords: [35.0, 39.5],
     description: {
       de: "Das Bozok-Plateau ist eine große Hochebene in Zentralanatolien, die zwischen den Flüssen Kızılırmak und Delice liegt.",
       hu: "A Bozok-fennsík egy nagy kiterjedésű magasföld Közép-Anatóliában, a Kızılırmak és a Delice folyók között helyezkedik el.",

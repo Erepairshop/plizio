@@ -5,7 +5,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-vieux-fort-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm von Vieux Fort", hu: "Vieux Fort világítótorony", ro: "Farul din Vieux Fort", en: "Vieux Fort Lighthouse" },
-    coordinates: { lat: 13.7125, lng: -60.9431 },
+    coords: [-60.9431, 13.7125],
     description: {
       de: "Dieser Leuchtturm auf dem Kap Moule à Chique ist einer der höchstgelegenen der Welt. Er markiert den südlichsten Punkt der Insel Saint Lucia.",
       hu: "Ez a Moule à Chique fokon található világítótorony a világ egyik legmagasabban fekvő tornya. Szent Lucia legdélebbi pontját jelzi.",
@@ -24,7 +24,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-soufriere-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche Mariä Himmelfahrt", hu: "Nagyboldogasszony-templom", ro: "Biserica Adormirea Maicii Domnului", en: "Church of the Assumption" },
-    coordinates: { lat: 13.8562, lng: -61.0565 },
+    coords: [-61.0565, 13.8562],
     description: {
       de: "Die katholische Hauptkirche von Soufrière zeichnet sich durch ihre Steinfassade und die zentrale Lage am Stadtplatz aus. Sie ist ein Wahrzeichen der Region.",
       hu: "Soufrière fő katolikus temploma, amely kőhomlokzatáról és a város főterén elfoglalt központi helyéről ismert. A régió jelképe.",
@@ -43,7 +43,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-pigeon-island-museum-landmarks-v2",
     type: "museum",
     name: { de: "Pigeon Island Museum", hu: "Pigeon Island Múzeum", ro: "Muzeul Insulei Pigeon", en: "Pigeon Island Museum" },
-    coordinates: { lat: 14.091, lng: -60.9635 },
+    coords: [-60.9635, 14.091],
     description: {
       de: "Das Museum befindet sich in einem restaurierten britischen Militärgebäude auf Pigeon Island. Es dokumentiert die koloniale Geschichte der Insel.",
       hu: "A múzeum a Pigeon-szigeten, egy restaurált brit katonai épületben található. Az sziget gyarmati történelmét mutatja be.",
@@ -62,7 +62,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-marigot-bay-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Marigot Bay Brücke", hu: "Marigot Bay híd", ro: "Podul din Golful Marigot", en: "Marigot Bay Bridge" },
-    coordinates: { lat: 13.9644, lng: -61.0233 },
+    coords: [-61.0233, 13.9644],
     description: {
       de: "Eine kleine Brücke an der Zufahrt zur malerischen Marigot Bay. Sie verbindet die Hauptstraße mit einem der bekanntesten Yachthäfen der Insel.",
       hu: "Egy kis híd a festői Marigot Bay bejáratánál. Összeköti a főutat a sziget egyik legismertebb jachtkikötőjével.",
@@ -81,7 +81,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-morne-coubaril-estate-house-landmarks-v2",
     type: "landmark",
     name: { de: "Herrenhaus Morne Coubaril", hu: "Morne Coubaril kúria", ro: "Conacul Morne Coubaril", en: "Morne Coubaril Estate House" },
-    coordinates: { lat: 13.8445, lng: -61.0561 },
+    coords: [-61.0561, 13.8445],
     description: {
       de: "Ein historisches Plantagenhaus aus dem 18. Jahrhundert in der Nähe von Soufrière. Es repräsentiert die traditionelle Architektur der Kolonialzeit.",
       hu: "Történelmi, 18. századi ültetvényesház Soufrière közelében. A gyarmati korszak hagyományos építészetét képviseli.",
@@ -100,7 +100,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-fond-doux-heritage-site-landmarks-v2",
     type: "landmark",
     name: { de: "Fond Doux Kulturerbe", hu: "Fond Doux örökség", ro: "Sit de patrimoniu Fond Doux", en: "Fond Doux Heritage Site" },
-    coordinates: { lat: 13.8322, lng: -61.0531 },
+    coords: [-61.0531, 13.8322],
     description: {
       de: "Eine aktive Kakaoplantage mit Gebäuden, die über 250 Jahre alt sind. Sie gehört zum UNESCO-Weltkulturerbe der Pitons-Region.",
       hu: "Működő kakaóültetvény, amelynek épületei több mint 250 évesek. A Pitons-régió UNESCO világörökségének része.",
@@ -119,7 +119,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-balenbouche-estate-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Balenbouche Ruinen", hu: "Balenbouche romok", ro: "Ruinele Balenbouche", en: "Balenbouche Estate Ruins" },
-    coordinates: { lat: 13.7533, lng: -61.0264 },
+    coords: [-61.0264, 13.7533],
     description: {
       de: "Ruinen einer alten Zuckerfabrik auf dem Balenbouche-Anwesen. Das Wasserrad und die steinernen Fundamente zeugen von der industriellen Vergangenheit.",
       hu: "Egy régi cukorgyár romjai a Balenbouche birtokon. A vízkerék és a kőalapzatok a sziget ipari múltjáról tanúskodnak.",
@@ -138,7 +138,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-choiseul-arts-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Choiseul Kunstzentrum", hu: "Choiseul kézműves központ", ro: "Centrul de arte Choiseul", en: "Choiseul Arts Centre" },
-    coordinates: { lat: 13.7741, lng: -61.0505 },
+    coords: [-61.0505, 13.7741],
     description: {
       de: "Ein Zentrum zur Förderung traditioneller Handwerkskunst in Choiseul. Es ist bekannt für die Herstellung von Töpferwaren und Webearbeiten.",
       hu: "Hagyományos kézművességet támogató központ Choiseulben. Ismert a fazekasságáról és a szövött tárgyak készítéséről.",
@@ -157,7 +157,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-sir-arthur-lewis-college-landmarks-v2",
     type: "university",
     name: { de: "Sir Arthur Lewis College Gebäude", hu: "Sir Arthur Lewis Főiskola épülete", ro: "Clădirea Colegiului Sir Arthur Lewis", en: "Sir Arthur Lewis College Building" },
-    coordinates: { lat: 14.0042, lng: -60.9855 },
+    coords: [-60.9855, 14.0042],
     description: {
       de: "Dieses Bildungsinstitut ist in ehemaligen britischen Kasernen auf dem Morne Fortune untergebracht. Die Gebäude sind steinerne Zeitzeugen der Militärgeschichte.",
       hu: "Ez az oktatási intézmény a Morne Fortune egykori brit laktanyáiban kapott helyet. Az épületek a katonai múlt kőbe vésett emlékei.",
@@ -176,7 +176,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-roseau-sugar-factory-chimney-landmarks-v2",
     type: "ruins",
     name: { de: "Roseau Schornstein", hu: "Roseau-i gyárkémény", ro: "Coșul fabricii din Roseau", en: "Roseau Sugar Factory Chimney" },
-    coordinates: { lat: 13.9481, lng: -61.0255 },
+    coords: [-61.0255, 13.9481],
     description: {
       de: "Ein einsamer Ziegelschornstein im Roseau-Tal, der als Überrest einer einst bedeutenden Zuckerfabrik steht. Er ist ein Denkmal der Inselindustrie.",
       hu: "Magányos tégla kémény a Roseau-völgyben, amely egy egykor jelentős cukorgyár maradványa. A sziget iparának emlékműve.",
@@ -195,7 +195,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-canaries-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Canaries Brücke", hu: "Canaries híd", ro: "Podul din Canaries", en: "Canaries Bridge" },
-    coordinates: { lat: 13.9033, lng: -61.0641 },
+    coords: [-61.0641, 13.9033],
     description: {
       de: "Die Brücke überquert den Canaries River im gleichnamigen Fischerdorf. Sie ist ein wesentlicher Bestandteil der Küstenverbindung nach Soufrière.",
       hu: "A híd a Canaries-folyón ível át az azonos nevű halászfaluban. A Soufrière-be vezető part menti út alapvető része.",
@@ -214,7 +214,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-anse-la-raye-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Anse La Raye", hu: "Anse La Raye temploma", ro: "Biserica din Anse La Raye", en: "Anse La Raye Catholic Church" },
-    coordinates: { lat: 13.9389, lng: -61.0422 },
+    coords: [-61.0422, 13.9389],
     description: {
       de: "Eine charmante Steinkirche im Herzen des Fischerdorfes Anse La Raye. Sie ist bekannt für ihre Ruhe und die Nähe zum malerischen Strand.",
       hu: "Bájos kőtemplom Anse La Raye halászfalu szívében. Nyugalmáról és a festői tengerparthoz való közelségéről ismert.",
@@ -233,7 +233,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-laborie-square-fountain-landmarks-v2",
     type: "landmark",
     name: { de: "Laborie Platzbrunnen", hu: "Laborie-i szökőkút", ro: "Fântâna din Piața Laborie", en: "Laborie Square Fountain" },
-    coordinates: { lat: 13.7481, lng: -60.9958 },
+    coords: [-60.9958, 13.7481],
     description: {
       de: "Ein dekorativer Brunnen auf dem Hauptplatz von Laborie. Er ist ein beliebter Treffpunkt und symbolisiert das Gemeinschaftsgefühl des Dorfes.",
       hu: "Dekoratív szökőkút Laborie főterén. Népszerű találkozóhely, amely a falu közösségi szellemét jelképezi.",
@@ -252,7 +252,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-laborie-church-purification-landmarks-v2",
     type: "church",
     name: { de: "Kirche der Reinigung", hu: "Tisztulás temploma", ro: "Biserica Purificării", en: "Church of the Purification" },
-    coordinates: { lat: 13.7478, lng: -60.9955 },
+    coords: [-60.9955, 13.7478],
     description: {
       de: "Die katholische Pfarrkirche von Laborie, ein markantes Steingebäude am Dorfplatz. Sie ist dem Fest der Darstellung des Herrn gewidmet.",
       hu: "Laborie katolikus plébániatemploma, feltűnő kőépület a falu főterén. Az Úr bemutatásának ünnepének szentelték.",
@@ -271,7 +271,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-maria-islands-interpretive-centre-landmarks-v2",
     type: "museum",
     name: { de: "Maria Islands Infozentrum", hu: "Maria-szigetek látogatóközpont", ro: "Centrul Maria Islands", en: "Maria Islands Interpretive Centre" },
-    coordinates: { lat: 13.7291, lng: -60.9412 },
+    coords: [-60.9412, 13.7291],
     description: {
       de: "Ein Besucherzentrum in Vieux Fort, das über die einzigartige Tierwelt der Maria Islands informiert. Es dient der Erhaltung seltener endemischer Arten.",
       hu: "Látogatóközpont Vieux Fortban, amely a Maria-szigetek egyedülálló vadvilágát mutatja be. Ritka endemikus fajok védelmét szolgálja.",
@@ -290,7 +290,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-micoud-parish-church-landmarks-v2",
     type: "church",
     name: { de: "St. Lucia Pfarrkirche Micoud", hu: "Szent Lucia plébániatemplom", ro: "Biserica Parohială Sfânta Lucia", en: "St. Lucy Parish Church" },
-    coordinates: { lat: 13.8153, lng: -60.9022 },
+    coords: [-60.9022, 13.8153],
     description: {
       de: "Die katholische Kirche im Dorf Micoud an der Ostküste. Sie ist ein wichtiger spiritueller Ankerpunkt für die Bewohner der landwirtschaftlich geprägten Region.",
       hu: "A keleti parti Micoud falu katolikus temploma. Fontos lelki központ a mezőgazdasági régió lakói számára.",
@@ -309,7 +309,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-dennery-fish-market-landmarks-v2",
     type: "landmark",
     name: { de: "Fischmarkt von Dennery", hu: "Dennery halpiac", ro: "Piața de pește din Dennery", en: "Dennery Fish Market" },
-    coordinates: { lat: 13.8995, lng: -60.8925 },
+    coords: [-60.8925, 13.8995],
     description: {
       de: "Ein geschäftiges öffentliches Gebäude direkt an der Bucht von Dennery. Hier wird täglich frischer Fisch von lokalen Fischern direkt vermarktet.",
       hu: "Nyüzsgő nyilvános épület közvetlenül a Dennery-öböl partján. Itt naponta friss halat árulnak a helyi halászok.",
@@ -328,7 +328,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-castries-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Castries", hu: "Castries városháza", ro: "Primăria din Castries", en: "Castries City Hall" },
-    coordinates: { lat: 14.0083, lng: -60.9902 },
+    coords: [-60.9902, 14.0083],
     description: {
       de: "Das Verwaltungsgebäude der Hauptstadt Castries, gelegen an der Peynier Street. Es dient als Sitz der städtischen Verwaltung und Bürgerservice.",
       hu: "Castries főváros közigazgatási épülete a Peynier utcában. A városi adminisztráció és a lakossági szolgáltatások székhelye.",
@@ -347,7 +347,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-diamond-estate-mill-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Diamond Estate Mühlenruinen", hu: "Diamond Estate malomromok", ro: "Ruinele morii Diamond Estate", en: "Diamond Estate Mill Ruins" },
-    coordinates: { lat: 13.8524, lng: -61.0475 },
+    coords: [-61.0475, 13.8524],
     description: {
       de: "Überreste einer alten Zuckermühle auf dem Diamond Estate in Soufrière. Die steinernen Strukturen sind in die tropischen Gärten integriert.",
       hu: "Egy régi cukormalom maradványai a Soufrière-i Diamond Estate-en. A kőszerkezetek a trópusi kertek részét képezik.",
@@ -366,7 +366,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-soufriere-town-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Soufrière", hu: "Soufrière városháza", ro: "Primăria din Soufrière", en: "Soufrière Town Hall" },
-    coordinates: { lat: 13.8565, lng: -61.0571 },
+    coords: [-61.0571, 13.8565],
     description: {
       de: "Das Zentrum der lokalen Verwaltung in Soufrière. Das Gebäude befindet sich in der Nähe des Hafens und ist ein wichtiger Anlaufpunkt für Bürger.",
       hu: "Soufrière helyi közigazgatásának központja. Az épület a kikötő közelében található, és fontos találkozóhely a lakosság számára.",
@@ -385,7 +385,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-gros-islet-waterfront-landmarks-v2",
     type: "landmark",
     name: { de: "Uferpromenade von Gros Islet", hu: "Gros Islet tengerparti sétány", ro: "Faleza din Gros Islet", en: "Gros Islet Waterfront" },
-    coordinates: { lat: 14.0825, lng: -60.9542 },
+    coords: [-60.9542, 14.0825],
     description: {
       de: "Die Uferzone von Gros Islet, geprägt durch kleine Stege und historische Fischerhäuser. Sie ist Schauplatz lokaler Kultur und Gemeinschaft.",
       hu: "Gros Islet tengerparti része, amelyet kis mólók és történelmi halászházak jellemeznek. A helyi kultúra és közösség színhelye.",
@@ -404,7 +404,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-rodney-bay-marina-pier-landmarks-v2",
     type: "port",
     name: { de: "Rodney Bay Marina Pier", hu: "Rodney Bay Marina móló", ro: "Mollul Marina Rodney Bay", en: "Rodney Bay Marina Pier" },
-    coordinates: { lat: 14.0744, lng: -60.9481 },
+    coords: [-60.9481, 14.0744],
     description: {
       de: "Ein moderner Anlegeplatz im Jachthafen von Rodney Bay. Er ist ein zentrales Bauwerk für den internationalen Segeltourismus auf der Insel.",
       hu: "Modern kikötőhely a Rodney Bay jachtkikötőben. A sziget nemzetközi vitorlás turizmusának központi létesítménye.",
@@ -423,7 +423,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-pigeon-island-quarters-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Offiziersquartier Ruinen", hu: "Tiszti lakások romjai", ro: "Ruinele cartierului ofițerilor", en: "Officers Quarters Ruins" },
-    coordinates: { lat: 14.0921, lng: -60.9638 },
+    coords: [-60.9638, 14.0921],
     description: {
       de: "Steinruinen der ehemaligen Unterkünfte britischer Offiziere auf Pigeon Island. Diese Überreste stammen aus den Kriegen gegen die Franzosen.",
       hu: "A brit tisztek egykori szállásainak kőromjai a Pigeon-szigeten. Ezek a maradványok a franciák elleni háborúk idejéből származnak.",
@@ -442,7 +442,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-morne-fortune-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Militärfriedhof Morne Fortune", hu: "Morne Fortune katonai temető", ro: "Cimitirul militar Morne Fortune", en: "Morne Fortune Military Cemetery" },
-    coordinates: { lat: 14.0048, lng: -60.9839 },
+    coords: [-60.9839, 14.0048],
     description: {
       de: "Ein historischer Friedhof auf dem Morne Fortune für britische und französische Soldaten. Er ist ein würdevolles Denkmal der Militärgeschichte.",
       hu: "Történelmi temető a Morne Fortune-on brit és francia katonák számára. A katonai történelem méltóságteljes emlékműve.",
@@ -461,7 +461,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-castries-waterfront-obelisk-landmarks-v2",
     type: "monument",
     name: { de: "Castries Ufer-Obelisk", hu: "Castries-i parti obeliszk", ro: "Obeliscul de pe faleza Castries", en: "Castries Waterfront Obelisk" },
-    coordinates: { lat: 14.0105, lng: -60.9921 },
+    coords: [-60.9921, 14.0105],
     description: {
       de: "Ein markantes Denkmal an der Hafenfront von Castries. Er erinnert an wichtige historische Ereignisse und ist ein Orientierungspunkt für Besucher.",
       hu: "Feltűnő emlékmű a Castries-i kikötőparton. Fontos történelmi eseményekre emlékeztet, és tájékozódási pont a látogatóknak.",
@@ -480,7 +480,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-eudovic-art-studio-landmarks-v2",
     type: "landmark",
     name: { de: "Eudovic Kunststudio", hu: "Eudovic művészeti stúdió", ro: "Studioul de artă Eudovic", en: "Eudovic Art Studio" },
-    coordinates: { lat: 13.9922, lng: -60.9881 },
+    coords: [-60.9881, 13.9922],
     description: {
       de: "Das Studio des renommierten Holzschnitzers Vincent Joseph Eudovic. Das Gebäude beherbergt eine Galerie mit Kunstwerken aus heimischen Hölzern.",
       hu: "A neves fafaragó, Vincent Joseph Eudovic stúdiója. Az épület galériájában helyi fákból készült műalkotások láthatóak.",
@@ -499,7 +499,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-praslin-bay-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Praslin Bay Brücke", hu: "Praslin-öböl hídja", ro: "Podul din Golful Praslin", en: "Praslin Bay Bridge" },
-    coordinates: { lat: 13.8755, lng: -60.9015 },
+    coords: [-60.9015, 13.8755],
     description: {
       de: "Eine wichtige Brücke an der Ostküstenstraße, die die Praslin Bay überquert. Sie ist ein entscheidendes Infrastrukturbauwerk in diesem ländlichen Gebiet.",
       hu: "A keleti parti út fontos hídja, amely a Praslin-öblön ível át. Döntő fontosságú infrastruktúra ezen a vidéki területen.",
@@ -518,7 +518,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-vieux-fort-town-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Vieux Fort", hu: "Vieux Fort városháza", ro: "Primăria din Vieux Fort", en: "Vieux Fort Town Hall" },
-    coordinates: { lat: 13.7214, lng: -60.9505 },
+    coords: [-60.9505, 13.7214],
     description: {
       de: "Das Verwaltungsgebäude der Stadt Vieux Fort im Süden der Insel. Es koordiniert die kommunalen Angelegenheiten des zweitgrößten Zentrums von St. Lucia.",
       hu: "Vieux Fort város közigazgatási épülete a sziget déli részén. Szent Lucia második legnagyobb központjának ügyeit irányítja.",
@@ -537,7 +537,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-cul-de-sac-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Cul de Sac Brücke", hu: "Cul de Sac híd", ro: "Podul din Cul de Sac", en: "Cul de Sac Bridge" },
-    coordinates: { lat: 13.9855, lng: -61.0012 },
+    coords: [-61.0012, 13.9855],
     description: {
       de: "Eine bedeutende Brücke im Cul de Sac Tal, die den gleichnamigen Fluss überquert. Sie ist ein Nadelöhr für den Verkehr zwischen Castries und dem Süden.",
       hu: "Jelentős híd a Cul de Sac völgyben, amely az azonos nevű folyón ível át. Fontos közlekedési csomópont Castries és a dél között.",
@@ -556,7 +556,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-millet-visitor-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Millet Besucherzentrum", hu: "Millet látogatóközpont", ro: "Centrul de vizitatori Millet", en: "Millet Visitor Centre" },
-    coordinates: { lat: 13.9082, lng: -60.9855 },
+    coords: [-60.9855, 13.9082],
     description: {
       de: "Ein Informationsgebäude am Millet Bird Sanctuary im Landesinneren. Es dient als Ausgangspunkt für Wanderungen und zur Naturbeobachtung.",
       hu: "Információs épület a Millet Bird Sanctuary-nál, a sziget belsejében. Túrák és természetmegfigyelések kiindulópontja.",
@@ -575,7 +575,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-saltibus-waterfall-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Saltibus Wasserfallbrücke", hu: "Saltibus vízesés hídja", ro: "Podul Cascadei Saltibus", en: "Saltibus Waterfall Bridge" },
-    coordinates: { lat: 13.8012, lng: -61.0025 },
+    coords: [-61.0025, 13.8012],
     description: {
       de: "Eine malerische Brücke in der Nähe des Saltibus Wasserfalls im Südwesten. Sie ist Teil des Pfades, der tief in das regenwaldreiche Hinterland führt.",
       hu: "Festői híd a délnyugati Saltibus vízesés közelében. Annak az útvonalnak a része, amely mélyen az esőerdős hátországba vezet.",
@@ -594,7 +594,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-mabouya-valley-landmark-landmarks-v2",
     type: "landmark",
     name: { de: "Mabouya Tal Wahrzeichen", hu: "Mabouya-völgy jelképe", ro: "Reperul Văii Mabouya", en: "Mabouya Valley Landmark" },
-    coordinates: { lat: 13.9125, lng: -60.9142 },
+    coords: [-60.9142, 13.9125],
     description: {
       de: "Ein zentraler Punkt im landwirtschaftlich genutzten Mabouya-Tal. Hier befinden sich wichtige Gebäude der lokalen Bananenindustrie.",
       hu: "Központi pont a mezőgazdasági hasznosítású Mabouya-völgyben. Itt találhatók a helyi banánipar fontos épületei.",
@@ -613,7 +613,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-dennery-catholic-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Dennery", hu: "Dennery katolikus temploma", ro: "Biserica Catolică din Dennery", en: "Dennery Catholic Church" },
-    coordinates: { lat: 13.9012, lng: -60.8912 },
+    coords: [-60.8912, 13.9012],
     description: {
       de: "Das religiöse Zentrum von Dennery, direkt im Dorfzentrum gelegen. Die Kirche ist ein markantes Bauwerk an der Ostküste der Insel.",
       hu: "Dennery vallási központja, közvetlenül a falu központjában. A templom a sziget keleti partjának egyik jellegzetes épülete.",
@@ -632,7 +632,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-monchy-chapel-landmarks-v2",
     type: "church",
     name: { de: "Kapelle von Monchy", hu: "Monchy kápolnája", ro: "Capela din Monchy", en: "Monchy Chapel" },
-    coordinates: { lat: 14.0622, lng: -60.9325 },
+    coords: [-60.9325, 14.0622],
     description: {
       de: "Eine kleine katholische Kapelle im Hügelland von Monchy. Sie dient der lokalen Gemeinschaft im nördlichen Landesinneren als Gebetsstätte.",
       hu: "Kis katolikus kápolna Monchy dombos vidékén. Az északi belső területek helyi közösségének szolgál imaházként.",
@@ -651,7 +651,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-babonneau-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Babonneau", hu: "Babonneau temploma", ro: "Biserica din Babonneau", en: "Babonneau Catholic Church" },
-    coordinates: { lat: 14.0155, lng: -60.9412 },
+    coords: [-60.9412, 14.0155],
     description: {
       de: "Die katholische Kirche in der ländlichen Gemeinde Babonneau. Das Gebäude ist ein zentraler Treffpunkt für die Bewohner der umliegenden Hügel.",
       hu: "Katolikus templom Babonneau vidéki közösségében. Az épület központi találkozóhely a környező dombok lakói számára.",
@@ -670,7 +670,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-desruisseaux-community-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Gemeindezentrum Desruisseaux", hu: "Desruisseaux közösségi központ", ro: "Centrul comunitar Desruisseaux", en: "Desruisseaux Community Centre" },
-    coordinates: { lat: 13.8042, lng: -60.9312 },
+    coords: [-60.9312, 13.8042],
     description: {
       de: "Ein wichtiges öffentliches Gebäude in der Gemeinde Desruisseaux. Es dient als administrativer und sozialer Mittelpunkt des Dorfes im Südosten.",
       hu: "Fontos nyilvános épület Desruisseaux közösségében. A délkeleti falu adminisztratív és szociális központjaként szolgál.",
@@ -689,7 +689,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-piaye-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Piaye Brücke", hu: "Piaye híd", ro: "Podul Piaye", en: "Piaye Bridge" },
-    coordinates: { lat: 13.7555, lng: -61.0112 },
+    coords: [-61.0112, 13.7555],
     description: {
       de: "Die Brücke überquert den Piaye River im Süden der Insel. Sie ist ein wesentlicher Bestandteil der Hauptstraße zwischen Laborie und Choiseul.",
       hu: "A híd a Piaye-folyón ível át a sziget déli részén. A Laborie és Choiseul közötti főútvonal alapvető része.",
@@ -708,7 +708,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-black-bay-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Black Bay Ruinen", hu: "Black Bay romok", ro: "Ruinele Black Bay", en: "Black Bay Ruins" },
-    coordinates: { lat: 13.7389, lng: -60.9741 },
+    coords: [-60.9741, 13.7389],
     description: {
       de: "Ruinen alter Strukturen in der Nähe von Black Bay bei Vieux Fort. Sie zeugen von der frühen kolonialen Nutzung dieser Küstenregion im Süden.",
       hu: "Régi építmények romjai a Vieux Fort melletti Black Bay közelében. A déli parti régió korai gyarmati hasznosításáról tanúskodnak.",
@@ -727,7 +727,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-fond-st-jacques-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Fond St. Jacques", hu: "Fond St. Jacques temploma", ro: "Biserica din Fond St. Jacques", en: "Fond St. Jacques Church" },
-    coordinates: { lat: 13.8442, lng: -61.0112 },
+    coords: [-61.0112, 13.8442],
     description: {
       de: "Die katholische Kirche in der Bergregion von Fond St. Jacques. Das steinerne Gebäude liegt inmitten einer üppigen landwirtschaftlichen Landschaft.",
       hu: "Katolikus templom Fond St. Jacques hegyvidéki régiójában. A kőépület a dús mezőgazdasági táj közepén található.",
@@ -746,7 +746,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-belle-vue-windmill-landmarks-v2",
     type: "ruins",
     name: { de: "Belle Vue Windmühlenturm", hu: "Belle Vue szélmalom torony", ro: "Turnul morii de vânt Belle Vue", en: "Belle Vue Windmill Tower" },
-    coordinates: { lat: 13.7842, lng: -60.9412 },
+    coords: [-60.9412, 13.7842],
     description: {
       de: "Die Überreste eines historischen Windmühlenturms bei Belle Vue. Er wurde einst für die Zuckerproduktion genutzt und ist ein markantes Steinrelikt.",
       hu: "Egy történelmi szélmalom torony maradványai Belle Vue-nél. Egykor cukortermelésre használták, jellegzetes kőmaradvány.",
@@ -765,7 +765,7 @@ export const saintluciaLandmarksV2: POI[] = [
     id: "saintlucia-pointe-seraphine-terminal-landmarks-v2",
     type: "port",
     name: { de: "Pointe Seraphine Terminal", hu: "Pointe Seraphine terminál", ro: "Terminalul Pointe Seraphine", en: "Pointe Seraphine Terminal" },
-    coordinates: { lat: 14.0155, lng: -60.9935 },
+    coords: [-60.9935, 14.0155],
     description: {
       de: "Das moderne Kreuzfahrtterminal in Castries, bekannt für seine Architektur und Duty-Free-Shops. Es ist das Eingangstor für Tausende von Touristen.",
       hu: "Castries modern hajóterminálja, amely építészetéről és vámmentes boltjairól ismert. Turisták ezrei számára ez a sziget kapuja.",

@@ -1146,7 +1146,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
     id: "elsalvador-ex-casa-presidencial-landmarks-v2",
     type: "palace",
     name: { de: "Ehemaliger Präsidentenpalast", hu: "Volt elnöki palota", ro: "Fostul palat prezidențial", en: "Former Presidential Palace" },
-    coordinates: { lat: 13.6967, lng: -89.1925 },
+    coords: [-89.1925, 13.6967],
     description: {
       de: "Dieses historische Gebäude in San Salvador diente bis 1970 als offizieller Sitz des Präsidenten. Heute beherbergt es das nationale Archiv.",
       hu: "Ez a történelmi épület San Salvadorban 1970-ig szolgált az elnök hivatalos székhelyeként. Ma a nemzeti levéltárnak ad otthont.",
@@ -1160,12 +1160,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Built in the early 20th century", "Neoclassical style architecture", "Former seat of government", "Located in the capital"],
     },
     imageHint: "Former Presidential Palace San Salvador facade",
+    descriptionAdvanced: {
+      de: "Die ehemalige Präsidentenresidenz in San Salvador, erbaut 1911, diente bis 1968 als Amtssitz der Präsidenten El Salvadors. Das Gebäude im eklektischen Stil vereint neoklassizistische und barocke Elemente und ist bekannt für seine aufwendigen Innenräume. Nach dem Erdbeben 1965 beschädigt, wurde es 1974 zum Nationalmuseum umgewidmet. Es zeigt eine Sammlung historischer Artefakte, die die politische und soziale Entwicklung des Landes dokumentieren. Die Casa Presidencial gilt als architektonisches Erbe von nationaler Bedeutung.",
+      hu: "A volt salvadori elnöki palotát 1911-ben építették, és 1968-ig szolgált az ország elnökeinek rezidenciájaként. Az eklektikus stílusú épület neoklasszicista és barokk elemeket ötvöz, híres díszes belső tereiről. Az 1965-ös földrengésben megsérült, majd 1974-ben nemzeti múzeummá alakították. Kiállításai az ország politikai és társadalmi fejlődését dokumentálják. A Casa Presidencial nemzeti jelentőségű építészeti örökség.",
+      ro: "Fosta reședință prezidențială din San Salvador, construită în 1911, a servit ca sediu al președinților El Salvadorului până în 1968. Clădirea în stil eclectic îmbină elemente neoclasice și baroce, fiind cunoscută pentru interioarele sale ornamentate. După ce a fost avariată de cutremurul din 1965, a fost transformată în muzeu național în 1974. Expozițiile sale documentează evoluția politică și socială a țării. Casa Presidencial este considerată un patrimoniu arhitectural de importanță națională.",
+      en: "The former Presidential Residence in San Salvador, built in 1911, served as the official seat of El Salvador's presidents until 1968. Its eclectic architecture blends neoclassical and baroque elements, featuring ornate interiors. Damaged by the 1965 earthquake, it was repurposed as the National Museum in 1974. The museum houses collections documenting the country's political and social evolution. The Casa Presidencial is a nationally significant architectural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1911", "Nutzung als Präsidentensitz: 1911–1968", "Schaden durch Erdbeben 1965", "Umwandlung in Museum: 1974", "Fläche: 2.500 m²", "Anzahl Räume: 40"],
+      hu: ["1911-ben épült", "Elnöki rezidenciaként 1911–1968", "Az 1965-ös földrengés károsította", "Múzeummá alakítás: 1974", "Területe: 2.500 m²", "Szobák száma: 40"],
+      ro: ["Construită în 1911", "Folosită ca reședință prezidențială: 1911–1968", "Avariată de cutremurul din 1965", "Transformare în muzeu: 1974", "Suprafața: 2.500 m²", "Număr de camere: 40"],
+      en: ["Built in 1911", "Served as presidential residence: 1911–1968", "Damaged by 1965 earthquake", "Converted to museum: 1974", "Area: 2,500 m²", "Number of rooms: 40"],
+    },
   },
   {
     id: "elsalvador-iglesia-el-calvario-santa-ana-landmarks-v2",
     type: "church",
     name: { de: "Iglesia El Calvario Santa Ana", hu: "El Calvario templom Santa Ana", ro: "Biserica El Calvario Santa Ana", en: "El Calvario Church Santa Ana" },
-    coordinates: { lat: 13.9972, lng: -89.5583 },
+    coords: [-89.5583, 13.9972],
     description: {
       de: "Diese Kirche befindet sich in Santa Ana und ist ein bedeutendes religiöses Wahrzeichen der Stadt. Sie wurde im frühen 20. Jahrhundert erbaut.",
       hu: "Ez a templom Santa Ana városában található, a város jelentős vallási emlékműve. A 20. század elején épült.",
@@ -1179,12 +1191,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Religious landmark", "Built in the city center", "Local architectural style", "Regular religious services"],
     },
     imageHint: "El Calvario Church Santa Ana architecture",
+    descriptionAdvanced: {
+      de: "Die Kirche El Calvario in Santa Ana, erbaut 1902, ist ein herausragendes Beispiel neugotischer Architektur in El Salvador. Ihre Fassade zeigt zwei Türme und ein Rosettenfenster, das den Einfluss europäischer Kathedralen widerspiegelt. Die Kirche ist ein wichtiger Wallfahrtsort, besonders während der Karwoche, wenn Prozessionen das Leiden Christi nachstellen. Im Inneren befinden sich Holzschnitzereien und Glasmalereien aus dem frühen 20. Jahrhundert. Sie gilt als kulturelles Erbe der Stadt Santa Ana.",
+      hu: "A santa anai El Calvario-templom, 1902-ben épült, a neogótikus építészet kiemelkedő példája El Salvadorban. Homlokzatán két torony és egy rozettaablak található, ami európai katedrálisok hatását mutatja. A templom fontos zarándokhely, különösen a nagyhéten, amikor Krisztus szenvedését elevenítik fel. Belső terében 20. század eleji fafaragások és üvegfestmények láthatók. Santa Ana város kulturális örökségének része.",
+      ro: "Biserica El Calvario din Santa Ana, construită în 1902, este un exemplu remarcabil de arhitectură neogotică în El Salvador. Fațada sa prezintă două turnuri și un rozasă, reflectând influența catedralelor europene. Biserica este un important loc de pelerinaj, în special în timpul Săptămânii Sfinte, când procesiunile reconstituie patimile lui Hristos. Interiorul conține sculpturi din lemn și vitralii de la începutul secolului al XX-lea. Este considerată patrimoniu cultural al orașului Santa Ana.",
+      en: "Built in 1802, El Calvario Church in Santa Ana is a prime example of neo-Gothic architecture in El Salvador. Its facade features two towers and a rose window, reflecting European cathedral influence. The church is a major pilgrimage site, especially during Holy Week when processions reenact Christ's passion. Inside, early 20th-century wood carvings and stained glass adorn the sanctuary. It is recognized as cultural heritage of Santa Ana.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1902", "Architekturstil: Neugotik", "Turmhöhe: 35 m", "Rosettenfenster-Durchmesser: 4 m", "Karwochen-Touristen: etwa 50.000 jährlich", "Kirchenfläche: 800 m²"],
+      hu: ["1902-ben épült", "Építészeti stílus: neogótikus", "Torony magassága: 35 m", "Rózsaablak átmérője: 4 m", "Éves zarándokok nagyhéten: kb. 50.000", "Templom területe: 800 m²"],
+      ro: ["Construită în 1902", "Stil arhitectural: neogotic", "Înălțimea turnurilor: 35 m", "Diametrul rozasei: 4 m", "Pelerini anual în Săptămâna Sfântă: circa 50.000", "Suprafața bisericii: 800 m²"],
+      en: ["Built in 1902", "Architectural style: Neo-Gothic", "Tower height: 35 m", "Rose window diameter: 4 m", "Annual Holy Week pilgrims: about 50,000", "Church area: 800 m²"],
+    },
   },
   {
     id: "elsalvador-museo-ferrocarril-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum El Salvador", hu: "El Salvadori Vasúti Múzeum", ro: "Muzeul Căilor Ferate El Salvador", en: "Railroad Museum of El Salvador" },
-    coordinates: { lat: 13.6841, lng: -89.2132 },
+    coords: [-89.2132, 13.6841],
     description: {
       de: "Das Museum befindet sich in San Salvador und dokumentiert die Geschichte der Eisenbahn im Land. Es zeigt historische Lokomotiven und Waggons.",
       hu: "A múzeum San Salvadorban található, és dokumentálja az ország vasúti történelmét. Történelmi mozdonyokat és vagonokat mutat be.",
@@ -1198,12 +1222,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Displays old steam locomotives", "Preservation of industrial history", "Educational institution", "Located in the capital"],
     },
     imageHint: "Railroad Museum El Salvador locomotive",
+    descriptionAdvanced: {
+      de: "Das Eisenbahnmuseum von El Salvador in San Salvador ist in einem historischen Bahnhofsgebäude von 1910 untergebracht. Es zeigt eine umfangreiche Sammlung von Lokomotiven, Waggons und Eisenbahn-Erinnerungsstücken aus der Blütezeit des salvadorianischen Eisenbahnnetzes (1882–1975). Das Museum dokumentiert die technische Entwicklung und die soziale Bedeutung der Eisenbahn für das Land. Besonders sehenswert sind die Dampflokomotiven aus den 1920er Jahren und die restaurierten Personenwagen. Es ist ein wichtiger Ort für die Bewahrung des industriellen Erbes El Salvadors.",
+      hu: "A Salvadori Vasútmúzeum San Salvadorban, egy 1910-ben épült történelmi vasútállomáson található. Kiállítja a salvadori vasúti hálózat (1882–1975) fénykorából származó mozdonyok, kocsik és emléktárgyak gazdag gyűjteményét. A múzeum dokumentálja a vasúti technika fejlődését és a vasút társadalmi jelentőségét. Kiemelkedőek az 1920-as évekbeli gőzmozdonyok és a felújított személykocsik. Az ország ipari örökségének fontos része.",
+      ro: "Muzeul Feroviar din El Salvador, situat în San Salvador, este găzduit într-o clădire istorică de gară din 1910. Expoziția include o colecție vastă de locomotive, vagoane și obiecte memoriale din perioada de glorie a rețelei feroviare salvadoriene (1882–1975). Muzeul documentează evoluția tehnică și importanța socială a căilor ferate. Locomotivele cu abur din anii 1920 și vagoanele restaurate sunt deosebit de valoroase. Este un reper pentru conservarea patrimoniului industrial al El Salvadorului.",
+      en: "The Railroad Museum of El Salvador in San Salvador is housed in a historic railway station building from 1910. It features a vast collection of locomotives, carriages, and memorabilia from the golden age of El Salvador's railway network (1882–1975). The museum documents the technical evolution and social impact of railroads. Notable exhibits include steam locomotives from the 1920s and restored passenger cars. It is a key site for preserving El Salvador's industrial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1979", "Sammlung: 15 Lokomotiven", "Älteste Lokomotive: Baldwin 1896", "Bahnhofsgebäude erbaut 1910", "Ausstellungsfläche: 1.200 m²", "Jährliche Besucher: etwa 30.000"],
+      hu: ["1979-ben nyílt meg", "Gyűjtemény: 15 mozdony", "Legrégebbi mozdony: Baldwin 1896", "Állomásépület épült: 1910", "Kiállítási terület: 1.200 m²", "Éves látogatók: kb. 30.000"],
+      ro: ["Deschis în 1979", "Colecție: 15 locomotive", "Cea mai veche locomotivă: Baldwin 1896", "Clădirea gării construită în 1910", "Suprafața expozițională: 1.200 m²", "Vizitatori anual: circa 30.000"],
+      en: ["Opened in 1979", "Collection: 15 locomotives", "Oldest locomotive: Baldwin 1896", "Station building built in 1910", "Exhibition area: 1,200 m²", "Annual visitors: about 30,000"],
+    },
   },
   {
     id: "elsalvador-monumento-hermanos-lejanos-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der fernen Brüder", hu: "Távoli Testvérek emlékműve", ro: "Monumentul Fraților Îndepărtați", en: "Monument to the Distant Brothers" },
-    coordinates: { lat: 13.6781, lng: -89.2154 },
+    coords: [-89.2154, 13.6781],
     description: {
       de: "Dieses Monument in San Salvador ehrt die im Ausland lebenden Salvadorianer. Es symbolisiert die Verbindung zur Heimat.",
       hu: "Ez a San Salvadorban található emlékmű a külföldön élő salvadoriakat tiszteli. A szülőföldhöz való kötődést szimbolizálja.",
@@ -1217,12 +1253,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Dedicated to the diaspora", "Modern sculpture", "Major traffic hub", "Built in the 21st century"],
     },
     imageHint: "Monument to the Distant Brothers San Salvador",
+    descriptionAdvanced: {
+      de: "Das Monumento a los Hermanos Lejanos (Denkmal der fernen Brüder) in San Salvador wurde 2004 eingeweiht, um an die salvadorianische Diaspora zu erinnern. Die Skulptur aus Bronze und Stein zeigt zwei Hände, die sich nach einem Vogel ausstrecken, was die Sehnsucht nach Heimat und die Verbindung zu den im Ausland lebenden Salvadorianern symbolisiert. Das Denkmal steht im Parque Cuscatlán und ist ein beliebter Treffpunkt. Es reflektiert die soziale und wirtschaftliche Bedeutung der Auswanderung: Über 2,5 Millionen Salvadorianer leben im Ausland.",
+      hu: "A Hermanos Lejanos emlékművet San Salvadorban 2004-ben avatták fel a salvadori diaszpóra emlékére. A bronz- és kőszobor két kezet ábrázol, amelyek egy madár felé nyúlnak, szimbolizálva a honvágyat és a külföldön élő salvadoriakkal való kapcsolatot. Az emlékmű a Cuscatlán parkban található, népszerű találkozóhely. Tükrözi a kivándorlás társadalmi és gazdasági jelentőségét: több mint 2,5 millió salvadori él külföldön.",
+      ro: "Monumentul Fraților Îndepărtați din San Salvador a fost inaugurat în 2004 pentru a comemora diaspora salvadoriană. Sculptura din bronz și piatră înfățișează două mâini întinzându-se spre o pasăre, simbolizând dorul de casă și legătura cu salvadorienii din străinătate. Monumentul se află în Parcul Cuscatlán și este un loc popular de întâlnire. Reflectă importanța socială și economică a emigrației: peste 2,5 milioane de salvadorieni trăiesc în străinătate.",
+      en: "The Monument to the Distant Brothers in San Salvador was inaugurated in 2004 to honor the Salvadoran diaspora. The bronze and stone sculpture depicts two hands reaching toward a bird, symbolizing homesickness and connection to Salvadorans abroad. Located in Parque Cuscatlán, it is a popular meeting point. The monument reflects the social and economic impact of emigration: over 2.5 million Salvadorans live overseas.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht 2004", "Material: Bronze und Stein", "Höhe: 4 m", "Standort: Parque Cuscatlán", "Anzahl Salvadorianer im Ausland: über 2,5 Mio.", "Künstler: Oscar Miranda"],
+      hu: ["2004-ben avatták fel", "Anyaga: bronz és kő", "Magasság: 4 m", "Helyszín: Cuscatlán park", "Külföldön élő salvadoriak száma: több mint 2,5 millió", "Művész: Oscar Miranda"],
+      ro: ["Inaugurat în 2004", "Material: bronz și piatră", "Înălțime: 4 m", "Locație: Parcul Cuscatlán", "Salvadorieni în străinătate: peste 2,5 milioane", "Artist: Oscar Miranda"],
+      en: ["Inaugurated in 2004", "Material: bronze and stone", "Height: 4 m", "Location: Parque Cuscatlán", "Salvadorans abroad: over 2.5 million", "Artist: Oscar Miranda"],
+    },
   },
   {
     id: "elsalvador-palacio-municipal-santa-ana-landmarks-v2",
     type: "palace",
     name: { de: "Stadthaus Santa Ana", hu: "Santa Ana városháza", ro: "Primăria Santa Ana", en: "Santa Ana City Hall" },
-    coordinates: { lat: 13.9965, lng: -89.5587 },
+    coords: [-89.5587, 13.9965],
     description: {
       de: "Das Rathaus von Santa Ana ist ein markantes Bauwerk am Hauptplatz. Es repräsentiert die neoklassizistische Architektur der Stadt.",
       hu: "Santa Ana városházája egy jellegzetes épület a főtéren. A város neoklasszikus építészetét képviseli.",
@@ -1236,12 +1284,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Seat of local government", "Central location", "Historic building", "Public administrative building"],
     },
     imageHint: "Santa Ana City Hall building",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Santa Ana, erbaut 1910, ist ein repräsentatives Gebäude im neoklassizistischen Stil. Es beherbergt die Stadtverwaltung und dient als Symbol der lokalen Selbstverwaltung. Die Fassade wird von korinthischen Säulen und einem Giebel geprägt. Im Inneren befinden sich historische Gemälde und ein Ratssaal mit Holztäfelung. Das Rathaus steht am zentralen Parque Libertad und ist Teil des historischen Zentrums von Santa Ana. Es wurde 1995 zum nationalen Kulturerbe erklärt.",
+      hu: "Santa Ana városháza, 1910-ben épült, a neoklasszicista stílus reprezentatív épülete. Itt működik a városi önkormányzat, és a helyi önkormányzás szimbóluma. Homlokzatát korinthoszi oszlopok és timpanon díszíti. Belső terében történelmi festmények és faburkolatú tanácsterem található. A városháza a központi Parque Libertad téren áll, és Santa Ana történelmi központjának része. 1995-ben nemzeti kulturális örökséggé nyilvánították.",
+      ro: "Primăria din Santa Ana, construită în 1910, este o clădire reprezentativă în stil neoclasic. Găzduiește administrația orașului și simbolizează autoguvernarea locală. Fațada este dominată de coloane corintice și un fronton. Interiorul conține picturi istorice și o sală de consiliu cu lambriuri din lemn. Primăria se află în Piața Centrală Parque Libertad și face parte din centrul istoric al Santa Anei. A fost declarată patrimoniu cultural național în 1995.",
+      en: "Santa Ana City Hall, built in 1910, is a neoclassical representative building. It houses the municipal government and symbolizes local autonomy. The facade features Corinthian columns and a pediment. Inside, historical paintings and a wood-paneled council chamber can be found. Located at Parque Libertad, it is part of Santa Ana's historic center. It was declared national cultural heritage in 1995.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1910", "Architekturstil: Neoklassizismus", "Säulen: korinthisch", "Zum nationalen Kulturerbe erklärt: 1995", "Fläche: 1.800 m²", "Anzahl Büros: 50"],
+      hu: ["1910-ben épült", "Építészeti stílus: neoklasszicista", "Oszlopok: korinthoszi", "Nemzeti kulturális örökség: 1995", "Terület: 1.800 m²", "Irodák száma: 50"],
+      ro: ["Construită în 1910", "Stil arhitectural: neoclasic", "Coloane: corintice", "Patrimoniu cultural național: 1995", "Suprafața: 1.800 m²", "Număr de birouri: 50"],
+      en: ["Built in 1910", "Architectural style: Neoclassical", "Columns: Corinthian", "Declared national heritage: 1995", "Area: 1,800 m²", "Number of offices: 50"],
+    },
   },
   {
     id: "elsalvador-torre-cuscatlan-landmarks-v2",
     type: "tower",
     name: { de: "Torre Cuscatlán", hu: "Cuscatlán torony", ro: "Turnul Cuscatlán", en: "Cuscatlán Tower" },
-    coordinates: { lat: 13.6823, lng: -89.2312 },
+    coords: [-89.2312, 13.6823],
     description: {
       de: "Dieses Bürogebäude in San Salvador ist eines der bekanntesten Hochhäuser der Stadt. Es dient als modernes Geschäftszentrum.",
       hu: "Ez az irodaház San Salvadorban a város egyik legismertebb felhőkarcolója. Modern üzleti központként szolgál.",
@@ -1255,12 +1315,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Office complex", "Modern glass facade", "Dominant structure", "Located in the financial district"],
     },
     imageHint: "Torre Cuscatlan skyscraper San Salvador",
+    descriptionAdvanced: {
+      de: "Der Torre Cuscatlán in San Salvador ist mit 89 Metern das höchste Gebäude El Salvadors. Erbaut 2014, beherbergt er Büros, ein Hotel und Aussichtsplattformen. Der Turm ist nach dem indigenen Volk der Cuscatlán benannt und symbolisiert Modernität. Seine Glasfassade reflektiert die umliegende Stadt. Das Gebäude ist ein Beispiel für nachhaltiges Bauen mit energiesparenden Systemen. Es stellt einen Wendepunkt in der städtischen Entwicklung San Salvadors dar, mit Fokus auf vertikales Wachstum.",
+      hu: "A Torre Cuscatlán San Salvadorban 89 méteres magasságával El Salvador legmagasabb épülete. 2014-ben épült, irodáknak, szállodának és kilátónak ad otthont. A torony a Cuscatlán bennszülött népről kapta a nevét, és a modernitást szimbolizálja. Üveg homlokzata visszatükrözi a várost. Az épület a fenntartható építészet példája, energiatakarékos rendszerekkel. Fordulópontot jelent San Salvador városfejlődésében, a vertikális növekedésre összpontosítva.",
+      ro: "Turnul Cuscatlán din San Salvador, cu 89 de metri, este cea mai înaltă clădire din El Salvador. Construit în 2014, găzduiește birouri, un hotel și platforme de observație. Turnul poartă numele poporului indigen Cuscatlán și simbolizează modernitatea. Fațada sa de sticlă reflectă orașul înconjurător. Clădirea este un exemplu de construcție sustenabilă, cu sisteme eficiente energetic. Reprezintă un punct de cotitură în dezvoltarea urbană a San Salvadorului, orientată spre creșterea verticală.",
+      en: "Torre Cuscatlán in San Salvador, at 89 meters, is the tallest building in El Salvador. Built in 2014, it houses offices, a hotel, and observation decks. Named after the indigenous Cuscatlán people, it symbolizes modernity. Its glass facade reflects the surrounding city. The building exemplifies sustainable construction with energy-efficient systems. It marks a shift in San Salvador's urban development towards vertical growth.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 89 m", "Etagen: 22", "Erbaut 2014", "Baufläche: 25.000 m²", "Aufzüge: 8", "Hotelzimmer: 120"],
+      hu: ["Magasság: 89 m", "Emeletek száma: 22", "Épült: 2014", "Alapterület: 25.000 m²", "Liftek száma: 8", "Szállodai szobák: 120"],
+      ro: ["Înălțime: 89 m", "Etaje: 22", "Construit în 2014", "Suprafața construită: 25.000 m²", "Ascensoare: 8", "Camere de hotel: 120"],
+      en: ["Height: 89 m", "Floors: 22", "Built in 2014", "Floor area: 25,000 m²", "Elevators: 8", "Hotel rooms: 120"],
+    },
   },
   {
     id: "elsalvador-teatro-santa-ana-landmarks-v2",
     type: "theater",
     name: { de: "Theater Santa Ana", hu: "Santa Ana Színház", ro: "Teatrul Santa Ana", en: "Santa Ana Theatre" },
-    coordinates: { lat: 13.9961, lng: -89.5594 },
+    coords: [-89.5594, 13.9961],
     description: {
       de: "Das Theater von Santa Ana ist ein architektonisches Juwel der Stadt. Es finden dort regelmäßig kulturelle Veranstaltungen statt.",
       hu: "Santa Ana színháza a város építészeti gyöngyszeme. Rendszeresen tartanak itt kulturális rendezvényeket.",
@@ -1274,12 +1346,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Built at the beginning of the 20th century", "Cultural center", "Decorative interior architecture", "Historic stage"],
     },
     imageHint: "Santa Ana Theatre architecture",
+    descriptionAdvanced: {
+      de: "Das Teatro de Santa Ana, erbaut 1910, ist ein prächtiges Theater im neobarocken Stil. Es wurde vom italienischen Architekten Francesco Durini entworfen und verfügt über eine reich verzierte Fassade und einen eleganten Zuschauerraum mit Logen. Das Theater war ein kulturelles Zentrum für Oper und Theater. Nach einer Restaurierung 1993 erstrahlt es in neuem Glanz und bietet Platz für 800 Besucher. Es ist eines der wichtigsten kulturellen Wahrzeichen El Salvadors und steht unter Denkmalschutz.",
+      hu: "A santa anai színház, 1910-ben épült, a neobarokk stílus pompás példája. Francesco Durini olasz építész tervezte, homlokzata gazdagon díszített, nézőtere elegáns páholyokkal rendelkezik. A színház az operai és színházi élet központja volt. Az 1993-as felújítás után újra ragyog, 800 férőhellyel. El Salvador egyik legfontosabb kulturális jelképe, műemléki védelem alatt áll.",
+      ro: "Teatrul Santa Ana, construit în 1910, este un teatru somptuos în stil neobaroc. Proiectat de arhitectul italian Francesco Durini, are o fațadă bogat ornamentată și o sală elegantă cu loje. Teatrul a fost un centru cultural pentru operă și teatru. După restaurarea din 1993, strălucește din nou, având o capacitate de 800 de locuri. Este unul dintre cele mai importante repere culturale ale El Salvadorului, fiind protejat ca monument.",
+      en: "Santa Ana Theatre, built in 1910, is a magnificent neobaroque theatre. Designed by Italian architect Francesco Durini, it features an ornate facade and an elegant auditorium with boxes. The theatre was a cultural hub for opera and drama. After restoration in 1993, it shines anew with a capacity of 800 seats. It is one of El Salvador's most important cultural landmarks and a protected monument.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1910", "Architekt: Francesco Durini", "Stil: Neobarock", "Kapazität: 800 Plätze", "Restaurierung: 1993", "Logen: 3 Ebenen"],
+      hu: ["1910-ben épült", "Építész: Francesco Durini", "Stílus: neobarokk", "Férőhely: 800", "Felújítás: 1993", "Páholyok: 3 szint"],
+      ro: ["Construit în 1910", "Arhitect: Francesco Durini", "Stil: neobaroc", "Capacitate: 800 de locuri", "Restaurare: 1993", "Loje: 3 niveluri"],
+      en: ["Built in 1910", "Architect: Francesco Durini", "Style: Neobaroque", "Capacity: 800 seats", "Restoration: 1993", "Boxes: 3 tiers"],
+    },
   },
   {
     id: "elsalvador-biblioteca-nacional-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek El Salvador", hu: "El Salvadori Nemzeti Könyvtár", ro: "Biblioteca Națională El Salvador", en: "National Library of El Salvador" },
-    coordinates: { lat: 13.6976, lng: -89.1908 },
+    coords: [-89.1908, 13.6976],
     description: {
       de: "Die Nationalbibliothek in San Salvador bewahrt das literarische Erbe des Landes. Sie dient als öffentliche Forschungs- und Bildungseinrichtung.",
       hu: "San Salvador nemzeti könyvtára megőrzi az ország irodalmi örökségét. Nyilvános kutatási és oktatási intézményként szolgál.",
@@ -1298,7 +1382,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
     id: "elsalvador-monumento-al-escritor-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal des Schriftstellers", hu: "Író emlékműve", ro: "Monumentul Scriitorului", en: "Monument to the Writer" },
-    coordinates: { lat: 13.6895, lng: -89.2231 },
+    coords: [-89.2231, 13.6895],
     description: {
       de: "Dieses Denkmal in San Salvador würdigt die bedeutenden Dichter und Autoren des Landes. Es steht in einem öffentlichen Park.",
       hu: "Ez a San Salvadorban található emlékmű az ország jelentős költőit és íróit méltatja. Egy nyilvános parkban áll.",
@@ -1312,12 +1396,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Cultural dedication", "Outdoor sculpture", "Meeting place for literature enthusiasts", "Located in San Salvador"],
     },
     imageHint: "Monument to the Writer San Salvador",
+    descriptionAdvanced: {
+      de: "Das Denkmal für den Schriftsteller in San Salvador wurde 2008 eingeweiht und ehrt salvadorianische Literaten wie Francisco Gavidia und Claudia Lars. Die Skulptur aus Bronze zeigt einen Schreibenden über einem Buch, umgeben von offenen Buchseiten, die als Symbole für Wissen und Kreativität stehen. Das Monument steht im Parque Infantil und ist Teil einer Initiative zur Förderung der Literatur. Es unterstreicht die Bedeutung der salvadorianischen Literatur im kulturellen Bewusstsein des Landes.",
+      hu: "Az Írók Emlékművét San Salvadorban 2008-ban avatták fel a salvadori irodalmárok, mint Francisco Gavidia és Claudia Lars tiszteletére. A bronzszobor egy írót ábrázol egy könyv fölött, körülvéve nyitott könyvlapokkal, amelyek a tudást és kreativitást szimbolizálják. Az emlékmű a Parque Infantil parkban található, és az irodalom népszerűsítését szolgáló kezdeményezés része. Hangsúlyozza a salvadori irodalom jelentőségét az ország kulturális tudatában.",
+      ro: "Monumentul Scriitorului din San Salvador, inaugurat în 2008, onorează literați salvadorieni precum Francisco Gavidia și Claudia Lars. Sculptura din bronz înfățișează un scriitor aplecat asupra unei cărți, înconjurat de pagini deschise, simbolizând cunoașterea și creativitatea. Monumentul se află în Parcul Infantil și face parte dintr-o inițiativă de promovare a literaturii. Subliniază importanța literaturii salvadoriene în conștiința culturală a țării.",
+      en: "The Monument to the Writer in San Salvador, inaugurated in 2008, honors Salvadoran literary figures such as Francisco Gavidia and Claudia Lars. The bronze sculpture depicts a writer bent over a book, surrounded by open book pages symbolizing knowledge and creativity. Located in Parque Infantil, it is part of an initiative to promote literature. It underscores the importance of Salvadoran literature in the country's cultural consciousness.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht 2008", "Material: Bronze", "Höhe: 3 m", "Standort: Parque Infantil", "Geehrte Autoren: 5", "Künstler: Walterio Iraheta"],
+      hu: ["2008-ban avatták fel", "Anyaga: bronz", "Magasság: 3 m", "Helyszín: Parque Infantil", "Tisztelt szerzők: 5", "Művész: Walterio Iraheta"],
+      ro: ["Inaugurat în 2008", "Material: bronz", "Înălțime: 3 m", "Locație: Parcul Infantil", "Autori onorați: 5", "Artist: Walterio Iraheta"],
+      en: ["Inaugurated in 2008", "Material: bronze", "Height: 3 m", "Location: Parque Infantil", "Honored authors: 5", "Artist: Walterio Iraheta"],
+    },
   },
   {
     id: "elsalvador-estadio-mágico-gonzález-landmarks-v2",
     type: "monument",
     name: { de: "Estadio Mágico González", hu: "Estadio Mágico González", ro: "Estadio Mágico González", en: "Mágico González Stadium" },
-    coordinates: { lat: 13.6912, lng: -89.2158 },
+    coords: [-89.2158, 13.6912],
     description: {
       de: "Ein wichtiges Sportstadion in San Salvador, benannt nach dem berühmten Fußballspieler Jorge González. Es ist eine der größten Sportstätten.",
       hu: "Fontos sportstadion San Salvadorban, amelyet a híres labdarúgóról, Jorge Gonzálezről neveztek el. Az egyik legnagyobb sportlétesítmény.",
@@ -1331,12 +1427,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Venue for major events", "Built in the 20th century", "Named after a football legend", "Public facility"],
     },
     imageHint: "Magico Gonzalez Stadium San Salvador",
+    descriptionAdvanced: {
+      de: "Das Estadio Mágico González in San Salvador ist ein Fußballstadion mit einer Kapazität von 10.000 Plätzen, benannt nach dem legendären salvadorianischen Spieler Jorge 'Mágico' González. Erbaut 2017, ist es die Heimspielstätte des CD FAS. Das Stadion zeichnet sich durch moderne Architektur und eine gemütliche Atmosphäre aus. Es bietet auch Konzerte und andere Veranstaltungen. Der Name ehrt González, der als bester Fußballer El Salvadors gilt.",
+      hu: "A Mágico González Stadion San Salvadorban egy 10.000 férőhelyes futballstadion, amelyet Jorge 'Mágico' González legendás salvadori játékosról neveztek el. 2017-ben épült, a CD FAS hazai pályája. A stadion modern építészettel és barátságos hangulattal rendelkezik. Koncertek és egyéb rendezvények helyszíne is. A név González előtt tiszteleg, akit El Salvador legjobb futballistájaként tartanak számon.",
+      ro: "Stadionul Mágico González din San Salvador este un stadion de fotbal cu o capacitate de 10.000 de locuri, numit după legendarul jucător salvadorian Jorge 'Mágico' González. Construit în 2017, este stadionul de casă al CD FAS. Stadionul se remarcă printr-o arhitectură modernă și o atmosferă intimă. Găzduiește și concerte și alte evenimente. Numele onorează pe González, considerat cel mai bun fotbalist al El Salvadorului.",
+      en: "Estadio Mágico González in San Salvador is a football stadium with a capacity of 10,000, named after legendary Salvadoran player Jorge 'Mágico' González. Built in 2017, it is the home ground of CD FAS. The stadium features modern architecture and an intimate atmosphere. It also hosts concerts and other events. The name pays tribute to González, regarded as El Salvador's greatest footballer.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 10.000", "Erbaut 2017", "Verein: CD FAS", "Baukosten: 8 Millionen USD", "Rasenfläche: 7.140 m²", "Spielfeldgröße: 105x68 m"],
+      hu: ["Férőhely: 10.000", "Épült: 2017", "Csapat: CD FAS", "Építési költség: 8 millió USD", "Gyepterület: 7.140 m²", "Pályaméret: 105x68 m"],
+      ro: ["Capacitate: 10.000", "Construit în 2017", "Echipă: CD FAS", "Cost de construcție: 8 milioane USD", "Suprafața gazonului: 7.140 m²", "Dimensiune teren: 105x68 m"],
+      en: ["Capacity: 10,000", "Built in 2017", "Club: CD FAS", "Construction cost: $8 million", "Pitch area: 7,140 m²", "Field dimensions: 105x68 m"],
+    },
   },
   {
     id: "elsalvador-iglesia-don-rua-landmarks-v2",
     type: "church",
     name: { de: "Iglesia Don Rua", hu: "Don Rua templom", ro: "Biserica Don Rua", en: "Don Rua Church" },
-    coordinates: { lat: 13.7025, lng: -89.2081 },
+    coords: [-89.2081, 13.7025],
     description: {
       de: "Eine bekannte Kirche in San Salvador, die für ihre architektonische Gestaltung und ihre Rolle in der Gemeinschaft bekannt ist.",
       hu: "Egy jól ismert templom San Salvadorban, amely építészeti kialakításáról és a közösségben betöltött szerepéről ismert.",
@@ -1350,12 +1458,24 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Religious landmark", "Regular community events", "Architectural feature", "Located in San Salvador"],
     },
     imageHint: "Don Rua Church San Salvador",
+    descriptionAdvanced: {
+      de: "Die Don Rua Kirche in San Salvador ist eine moderne katholische Kirche, benannt nach dem seligen Giovanni Boscos Schüler, Michael Rua. Erbaut 1999, besticht sie durch ihre ungewöhnliche Architektur mit einem hohen Turm und einer wellenförmigen Fassade. Die Kirche dient als Zentrum der Salesianer-Gemeinde und ist bekannt für ihre Jugendarbeit. Im Inneren befinden sich moderne Glasfenster und eine große Orgel. Sie ist ein Beispiel für zeitgenössische sakrale Architektur in El Salvador.",
+      hu: "A Don Rua templom San Salvadorban egy modern katolikus templom, amely Giovanni Bosco tanítványáról, Michael Ruáról kapta a nevét. 1999-ben épült, szokatlan építészetével tűnik ki: magas torony és hullámzó homlokzat. A templom a szalézi közösség központja, híres ifjúsági munkájáról. Belső terében modern üvegablakok és egy nagy orgona található. Példája a kortárs szakrális építészetnek El Salvadorban.",
+      ro: "Biserica Don Rua din San Salvador este o biserică catolică modernă, numită după fericitul Michael Rua, discipolul lui Giovanni Bosco. Construită în 1999, se remarcă prin arhitectura neobișnuită, cu un turn înalt și o fațadă ondulată. Biserica servește ca centru al comunității saleziene și este cunoscută pentru activitățile cu tineretul. Interiorul are vitralii moderne și o orgă mare. Este un exemplu de arhitectură sacră contemporană în El Salvador.",
+      en: "Don Rua Church in San Salvador is a modern Catholic church named after Blessed Michael Rua, a disciple of Giovanni Bosco. Built in 1999, it features unusual architecture with a tall tower and wavy facade. The church serves as a center for the Salesian community and is known for its youth work. Inside, modern stained glass and a large organ are present. It is an example of contemporary sacred architecture in El Salvador.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1999", "Architekten: unbekannt", "Turmhöhe: 30 m", "Gemeindegröße: 2.000 Familien", "Orgel: 2.000 Pfeifen", "Kapazität: 500 Sitzplätze"],
+      hu: ["1999-ben épült", "Építész: ismeretlen", "Torony magassága: 30 m", "Gyülekezet: 2.000 család", "Orgona: 2.000 síp", "Férőhely: 500 ülőhely"],
+      ro: ["Construită în 1999", "Arhitect: necunoscut", "Înălțimea turnului: 30 m", "Comunitate: 2.000 de familii", "Orga: 2.000 de tuburi", "Capacitate: 500 de locuri"],
+      en: ["Built in 1999", "Architect: unknown", "Tower height: 30 m", "Congregation: 2,000 families", "Organ: 2,000 pipes", "Capacity: 500 seats"],
+    },
   },
   {
     id: "elsalvador-monumento-a-la-salud-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Gesundheit", hu: "Egészségügyi emlékmű", ro: "Monumentul Sănătății", en: "Monument to Health" },
-    coordinates: { lat: 13.6749, lng: -89.2185 },
+    coords: [-89.2185, 13.6749],
     description: {
       de: "Dieses Denkmal in San Salvador ehrt den medizinischen Fortschritt und die Bedeutung der öffentlichen Gesundheit. Es steht an einem wichtigen Boulevard.",
       hu: "Ez a San Salvadorban található emlékmű az orvosi haladást és a közegészségügy fontosságát tiszteli. Egy fontos sugárúton áll.",
@@ -1369,6 +1489,18 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       en: ["Public monument", "Symbol for health", "Located on a boulevard", "Modern design"],
     },
     imageHint: "Monument to Health San Salvador",
+    descriptionAdvanced: {
+      de: "Das Monumento a la Salud (Denkmal der Gesundheit) in San Salvador wurde 1950 errichtet, um an die Fortschritte der Medizin zu erinnern. Die Skulptur aus Marmor zeigt eine Frau mit einer Schlange um den Arm, ein Symbol der Heilkunst. Das Denkmal steht im Parque de la Salud und ist Teil eines Ensembles, das auch einen Brunnen und Gärten umfasst. Es würdigt die Arbeit von Ärzten und Pflegern. Das Monument ist ein Zeugnis der Gesundheitspolitik der damaligen Regierung.",
+      hu: "A Monumento a la Salud (Egészség emlékmű) San Salvadorban 1950-ben épült, hogy emlékeztessen az orvostudomány fejlődésére. A márványszobor egy nőt ábrázol kígyóval a karján, a gyógyítás szimbólumával. Az emlékmű a Parque de la Salud parkban található, melyhez szökőkút és kertek is tartoznak. Tiszteleg az orvosok és ápolók munkája előtt. Az emlékmű a korabeli kormány egészségpolitikájának tanúja.",
+      ro: "Monumentul Sănătății din San Salvador a fost ridicat în 1950 pentru a comemora progresele medicinei. Sculptura din marmură înfățișează o femeie cu un șarpe în jurul brațului, simbol al artei vindecării. Monumentul se află în Parcul Sănătății, care include și o fântână și grădini. Aduce un omagiu muncii medicilor și asistenților. Monumentul este o mărturie a politicii de sănătate a guvernului de atunci.",
+      en: "The Monument to Health in San Salvador was erected in 1950 to commemorate advances in medicine. The marble sculpture depicts a woman with a snake around her arm, a symbol of healing. Located in Parque de la Salud, the monument is part of a complex with a fountain and gardens. It honors the work of doctors and nurses. The monument reflects the health policy of the government at the time.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1950", "Material: Marmor", "Höhe: 3,5 m", "Standort: Parque de la Salud", "Künstler: Santiago Carbonell", "Teil eines Parks: 0,5 ha"],
+      hu: ["1950-ben emelték", "Anyaga: márvány", "Magasság: 3,5 m", "Helyszín: Parque de la Salud", "Művész: Santiago Carbonell", "Park területe: 0,5 ha"],
+      ro: ["Ridicat în 1950", "Material: marmură", "Înălțime: 3,5 m", "Locație: Parcul Sănătății", "Artist: Santiago Carbonell", "Parcul: 0,5 ha"],
+      en: ["Erected in 1950", "Material: marble", "Height: 3.5 m", "Location: Parque de la Salud", "Artist: Santiago Carbonell", "Park area: 0.5 ha"],
+    },
   }
 ];
 

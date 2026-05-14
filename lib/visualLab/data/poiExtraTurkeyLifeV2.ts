@@ -967,7 +967,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Küre-Gebirge Nationalpark", hu: "Küre-hegység Nemzeti Park", ro: "Parcul Național Munții Küre", en: "Küre Mountains National Park" },
-    coordinates: { lat: 41.6667, lng: 33.0 },
+    coords: [33.0, 41.6667],
     description: {
       de: "Dieser Nationalpark schützt dichte Urwälder und tiefe Karsthöhlen im Norden. Er beherbergt Braunbären, Luchse und seltene Greifvogelarten.",
       hu: "A nemzeti park sűrű őserdőket és mély karsztbarlangokat véd északon. Barnamedvéknek, hiúzoknak és ritka ragadozó madaraknak ad otthont.",
@@ -987,7 +987,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Altındere-Tal Nationalpark", hu: "Altındere-völgy Nemzeti Park", ro: "Parcul Național Valea Altındere", en: "Altındere Valley National Park" },
-    coordinates: { lat: 40.6931, lng: 39.4319 },
+    coords: [39.4319, 40.6931],
     description: {
       de: "Das Tal bietet eine reiche Flora und Fauna inmitten der Pontischen Berge. Es ist bekannt für seine Forellenbäche und dichten Nadelwälder.",
       hu: "A völgy gazdag flórát és faunát kínál a Pontuszi-hegység közepén. Pisztrángos patakjairól és sűrű fenyőerdőiről ismert.",
@@ -1007,7 +1007,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Beydağları Küstennationalpark", hu: "Beydağları Parti Nemzeti Park", ro: "Parcul Național Costier Beydağları", en: "Beydağları Coastal National Park" },
-    coordinates: { lat: 36.5833, lng: 30.4833 },
+    coords: [30.4833, 36.5833],
     description: {
       de: "Dieser Park kombiniert mediterrane Pinienwälder mit antiken Ruinen am Meer. Er ist ein wichtiger Nistplatz für die Unechte Karettschildkröte.",
       hu: "A park mediterrán fenyőerdőket és tengerparti ókori romokat ötvöz. Fontos fészkelőhelye az álcserepesteknősöknek.",
@@ -1027,7 +1027,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Ilgaz-Gebirge Nationalpark", hu: "Ilgaz-hegység Nemzeti Park", ro: "Parcul Național Muntele Ilgaz", en: "Ilgaz Mountain National Park" },
-    coordinates: { lat: 41.075, lng: 33.725 },
+    coords: [33.725, 41.075],
     description: {
       de: "Das Gebirge ist bekannt für seine hohe Biodiversität und alpine Wiesen. Es dient als Rückzugsgebiet für Wölfe, Bären und Wildschweine.",
       hu: "A hegység magas biodiverzitásáról és alpesi rétjeiről ismert. Farkasok, medvék és vaddisznók menedékhelyéül szolgál.",
@@ -1047,7 +1047,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "lake",
     parent: "TR",
     name: { de: "Kovada-See Nationalpark", hu: "Kovada-tó Nemzeti Park", ro: "Parcul Național Lacul Kovada", en: "Kovada Lake National Park" },
-    coordinates: { lat: 37.6417, lng: 30.875 },
+    coords: [30.875, 37.6417],
     description: {
       de: "Der Park umfasst einen flachen See, der von dichten Laubwäldern umgeben ist. Er ist ein bedeutender Lebensraum für Wasservögel und Fischotter.",
       hu: "A park egy sekély tavat foglal magában, amelyet sűrű lombhullató erdők vesznek körül. Fontos élőhely vízimadarak és vidrák számára.",
@@ -1067,7 +1067,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Spil-Gebirge Nationalpark", hu: "Spil-hegy Nemzeti Park", ro: "Parcul Național Muntele Spil", en: "Spil Mountain National Park" },
-    coordinates: { lat: 38.6111, lng: 27.4611 },
+    coords: [27.4611, 38.6111],
     description: {
       de: "Bekannt für seine wilden Pferde und die seltenen Manisa-Tulpen. Der Park bietet beeindruckende geologische Formationen und tiefe Canyons.",
       hu: "Vadlövairól és a ritka manisai tulipánokról nevezetes. A park lenyűgöző földtani képződményeket és mély kanyonokat kínál.",
@@ -1087,7 +1087,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Honaz-Gebirge Nationalpark", hu: "Honaz-hegy Nemzeti Park", ro: "Parcul Național Muntele Honaz", en: "Honaz Mountain National Park" },
-    coordinates: { lat: 37.675, lng: 29.2889 },
+    coords: [29.2889, 37.675],
     description: {
       de: "Der höchste Gipfel der Ägäisregion beherbergt eine außergewöhnliche Vielfalt an endemischen Pflanzen. Er ist von Pinien und Zedern bedeckt.",
       hu: "Az Égei-tengeri régió legmagasabb csúcsa endemikus növények rendkívüli változatosságának ad otthont. Fenyők és cédrusok borítják.",
@@ -1107,7 +1107,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "wildlife",
     parent: "TR",
     name: { de: "Sultan Sazlığı Nationalpark", hu: "Sultan Sazlığı Nemzeti Park", ro: "Parcul Național Sultan Sazlığı", en: "Sultan Reeds National Park" },
-    coordinates: { lat: 38.3417, lng: 35.2667 },
+    coords: [35.2667, 38.3417],
     description: {
       de: "Eines der wichtigsten Feuchtgebiete der Türkei für Zugvögel. Es bietet Brutplätze für Flamingos, Pelikane und Reiher in Zentralanatolien.",
       hu: "Törökország egyik legfontosabb vizes élőhelye a vándormadarak számára. Flamingók, pelikánok és kócsagok fészkelőhelye Közép-Anatóliában.",
@@ -1127,7 +1127,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Abant-See Naturpark", hu: "Abant-tó Természetvédelmi Park", ro: "Parcul Natural Lacul Abant", en: "Abant Lake Nature Park" },
-    coordinates: { lat: 40.605, lng: 31.285 },
+    coords: [31.285, 40.605],
     description: {
       de: "Ein malerischer Süßwassersee umgeben von Tannen- und Buchenwäldern. Er ist die Heimat der endemischen Abant-Forelle.",
       hu: "Gleccsereredetű édesvízi tó fenyő- és bükkerdőkkel körülvéve. Az endemikus abanti pisztráng otthona.",
@@ -1147,7 +1147,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "park",
     parent: "TR",
     name: { de: "Atatürk-Arboretum", hu: "Atatürk Arborétum", ro: "Arboretele Atatürk", en: "Atatürk Arboretum" },
-    coordinates: { lat: 41.178, lng: 28.985 },
+    coords: [28.985, 41.178],
     description: {
       de: "Ein lebendiges Museum für Pflanzen im Belgrader Wald von Istanbul. Es beherbergt tausende exotische und heimische Baumarten.",
       hu: "Élő növénymúzeum az isztambuli Belgrád-erdőben. Több ezer egzotikus és őshonos fafajnak ad otthont.",
@@ -1167,7 +1167,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "wildlife",
     parent: "TR",
     name: { de: "Düzlerçamı Wildschutzgebiet", hu: "Düzlerçamı Vadvédelmi Terület", ro: "Aria de Protecție Düzlerçamı", en: "Düzlerçamı Wildlife Development Area" },
-    coordinates: { lat: 36.9917, lng: 30.5417 },
+    coords: [30.5417, 36.9917],
     description: {
       de: "Dieses Gebiet ist entscheidend für das Überleben des anatolischen Damhirsches. Es liegt in den Ausläufern des Taurusgebirges.",
       hu: "Ez a terület döntő fontosságú az anatóliai dámvad túlélése szempontjából. A Toros-hegység lábánál fekszik.",
@@ -1187,7 +1187,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "wildlife",
     parent: "TR",
     name: { de: "Gala-See Nationalpark", hu: "Gala-tó Nemzeti Park", ro: "Parcul Național Lacul Gala", en: "Gala Lake National Park" },
-    coordinates: { lat: 40.762, lng: 26.215 },
+    coords: [26.215, 40.762],
     description: {
       de: "Ein wichtiges Feuchtgebiet an der Mündung des Meriç-Flusses nahe der Grenze. Es dient als wichtiger Stopp für europäische Zugvögel.",
       hu: "Fontos vizes élőhely a Meriç-folyó torkolatánál, a határ közelében. Európai vándormadarak kiemelt pihenőhelye.",
@@ -1207,7 +1207,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "wildlife",
     parent: "TR",
     name: { de: "Birecik Waldrapp-Station", hu: "Bireciki tarvarjú-rezervátum", ro: "Sanctuarul de Ibis din Birecik", en: "Birecik Bald Ibis Sanctuary" },
-    coordinates: { lat: 37.031, lng: 37.985 },
+    coords: [37.985, 37.031],
     description: {
       de: "Das Zentrum widmet sich der Rettung des vom Aussterben bedrohten Waldrapps. Es liegt an den Ufern des Euphrat-Flusses.",
       hu: "A központ a kihalástól fenyegetett tarvarjú megmentésének szentelt hely. Az Eufrátesz-folyó partján fekszik.",
@@ -1227,7 +1227,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     type: "wildlife",
     parent: "TR",
     name: { de: "Nallıhan Vogelschutzgebiet", hu: "Nallıhan madárrezervátum", ro: "Sanctuarul de Păsări Nallıhan", en: "Nallıhan Bird Sanctuary" },
-    coordinates: { lat: 40.111, lng: 31.605 },
+    coords: [31.605, 40.111],
     description: {
       de: "Ein künstliches Feuchtgebiet mit beeindruckenden bunten Bergen im Hintergrund. Es beherbergt Schwarzstörche und zahlreiche Entenarten.",
       hu: "Mesterséges vizes élőhely, háttérben lenyűgöző színes hegyekkel. Fekete gólyáknak és számos récefajnak ad otthont.",

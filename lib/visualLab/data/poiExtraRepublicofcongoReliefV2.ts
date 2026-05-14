@@ -5,7 +5,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-chaillu-mountains-relief-v2",
     type: "mountain",
     name: { de: "Chaillu-Gebirge", hu: "Chaillu-hegység", ro: "Munții Chaillu", en: "Chaillu Mountains" },
-    coordinates: { lat: -2.333, lng: 12.833 },
+    coords: [12.833, -2.333],
     description: {
       de: "Das Chaillu-Gebirge erstreckt sich über die Grenze zwischen der Republik Kongo und Gabun. Die Region besteht aus dicht bewaldeten Hügeln und Plateaus.",
       hu: "A Chaillu-hegység a Kongói Köztársaság és Gabon határán húzódik. A régiót sűrűn erdősült dombok és fennsíkok jellemzik.",
@@ -24,7 +24,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mayombe-hills-relief-v2",
     type: "mountain",
     name: { de: "Mayombe-Hügel", hu: "Mayombe-dombság", ro: "Dealurile Mayombe", en: "Mayombe Hills" },
-    coordinates: { lat: -4.5, lng: 12.5 },
+    coords: [12.5, -4.5],
     description: {
       de: "Die Mayombe-Hügel verlaufen parallel zur Atlantikküste im Südwesten des Landes. Dieses Gebirge bildet eine Barriere zwischen dem Meer und dem Landesinneren.",
       hu: "A Mayombe-dombság párhuzamosan fut az atlanti partvidékkel az ország délnyugati részén. Ez a hegység választja el a tengert a belső területektől.",
@@ -43,7 +43,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-congo-basin-lowland-relief-v2",
     type: "valley",
     name: { de: "Kongobecken-Tiefland", hu: "Kongó-medencei alföld", ro: "Câmpia Bazinului Congo", en: "Congo Basin Lowland" },
-    coordinates: { lat: 0.5, lng: 17.0 },
+    coords: [17.0, 0.5],
     description: {
       de: "Das Kongobecken-Tiefland umfasst weite Gebiete im Norden und Zentrum des Landes. Es ist ein riesiges Becken, das von zahlreichen Flüssen durchzogen wird.",
       hu: "A Kongó-medencei alföld kiterjedt területeket foglal magában az ország északi és középső részén. Ez egy hatalmas medence, amelyet számos folyó szel át.",
@@ -62,7 +62,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-kama-relief-v2",
     type: "peak",
     name: { de: "Mont Kama", hu: "Kama-hegy", ro: "Muntele Kama", en: "Mount Kama" },
-    coordinates: { lat: -3.52, lng: 13.5 },
+    coords: [13.5, -3.52],
     description: {
       de: "Der Mont Kama ist ein Hügelzug im südlichen Kongo. Die Region ist durch bewaldete Hänge und ein feuchtes Klima gekennzeichnet.",
       hu: "A Kama-hegy egy dombság a Kongói Köztársaság déli részén. A régiót erdős lejtők és nedves éghajlat jellemzi.",
@@ -81,7 +81,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-kibangou-plateau-relief-v2",
     type: "mountain",
     name: { de: "Kibangou-Plateau", hu: "Kibangou-fennsík", ro: "Podișul Kibangou", en: "Kibangou Plateau" },
-    coordinates: { lat: -3.33, lng: 12.5 },
+    coords: [12.5, -3.33],
     description: {
       de: "Das Kibangou-Plateau liegt im Südwesten der Republik Kongo. Diese Hochfläche bietet eine abwechslungsreiche Topografie mit Wäldern und Savannen.",
       hu: "A Kibangou-fennsík a Kongói Köztársaság délnyugati részén található. Ez a magaslat változatos domborzattal rendelkezik, erdőkkel és szavannákkal.",
@@ -100,7 +100,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-mbe-relief-v2",
     type: "peak",
     name: { de: "Mont Mbe", hu: "Mbe-hegy", ro: "Muntele Mbe", en: "Mount Mbe" },
-    coordinates: { lat: -2.7, lng: 15.1 },
+    coords: [15.1, -2.7],
     description: {
       de: "Der Mont Mbe ist ein Hügel im Bereich der Batéké-Plateaus. Er ist ein Teil der sandigen Hochflächen, die sich weit nach Osten erstrecken.",
       hu: "A Mbe-hegy egy domb a Batéké-fennsík területén. A homokos magaslatok része, amelyek messze keletre nyúlnak.",
@@ -119,7 +119,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-kouilou-river-valley-relief-v2",
     type: "valley",
     name: { de: "Kouilou-Tal", hu: "Kouilou-völgy", ro: "Valea Kouilou", en: "Kouilou Valley" },
-    coordinates: { lat: -4.4, lng: 11.8 },
+    coords: [11.8, -4.4],
     description: {
       de: "Das Kouilou-Tal ist die tiefer gelegene Flussniederung des Kouilou-Flusses im Südwesten. Das Gebiet mündet schließlich in den Atlantischen Ozean.",
       hu: "A Kouilou-völgy a Kouilou folyó mélyebben fekvő ártere délnyugaton. A terület végül az Atlanti-óceánba torkollik.",
@@ -138,7 +138,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-dimonika-relief-v2",
     type: "peak",
     name: { de: "Mont Dimonika", hu: "Dimonika-hegy", ro: "Muntele Dimonika", en: "Mount Dimonika" },
-    coordinates: { lat: -4.3, lng: 12.3 },
+    coords: [12.3, -4.3],
     description: {
       de: "Der Mont Dimonika liegt im Biosphärenreservat Dimonika. Die Region ist von einer stark zerklüfteten Hügellandschaft des Mayombe-Gebirges geprägt.",
       hu: "A Dimonika-hegy a Dimonika Bioszféra-rezervátumban található. A régiót a Mayombe-hegység erősen tagolt dombvidéke jellemzi.",
@@ -157,7 +157,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-kongo-relief-v2",
     type: "peak",
     name: { de: "Mont Kongo", hu: "Kongo-hegy", ro: "Muntele Kongo", en: "Mount Kongo" },
-    coordinates: { lat: -1.2, lng: 14.5 },
+    coords: [14.5, -1.2],
     description: {
       de: "Der Mont Kongo ist eine Erhebung im zentralen Teil des Landes. Die Umgebung ist von typischem Regenwald und welligem Gelände geprägt.",
       hu: "A Kongo-hegy egy magaslat az ország középső részén. A környéket tipikus esőerdő és hullámos terep jellemzi.",
@@ -176,7 +176,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-loango-coast-relief-v2",
     type: "landmark",
     name: { de: "Loango-Küstenebene", hu: "Loango-partvidéki síkság", ro: "Câmpia de coastă Loango", en: "Loango Coastal Plain" },
-    coordinates: { lat: -4.6, lng: 11.7 },
+    coords: [11.7, -4.6],
     description: {
       de: "Die Loango-Küstenebene erstreckt sich am Atlantik. Es ist ein flaches Tiefland mit Sandstränden, Lagunen und angrenzenden Waldgebieten.",
       hu: "A Loango-partvidéki síkság az Atlanti-óceán mentén húzódik. Ez egy lapos alföld, homokos partokkal, lagúnákkal és környező erdőkkel.",
@@ -195,7 +195,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-bambama-relief-v2",
     type: "peak",
     name: { de: "Mont Bambama", hu: "Bambama-hegy", ro: "Muntele Bambama", en: "Mount Bambama" },
-    coordinates: { lat: -2.3, lng: 13.8 },
+    coords: [13.8, -2.3],
     description: {
       de: "Der Mont Bambama ist ein Berg in der Chaillu-Massiv-Region. Die Gegend ist für ihre bewaldeten Gipfel und hohen Niederschläge bekannt.",
       hu: "A Bambama-hegy egy csúcs a Chaillu-hegység régiójában. A környék az erdős hegycsúcsairól és a nagy csapadékmennyiségről ismert.",
@@ -214,7 +214,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-alima-river-basin-relief-v2",
     type: "valley",
     name: { de: "Alima-Becken", hu: "Alima-medence", ro: "Bazinul Alima", en: "Alima Basin" },
-    coordinates: { lat: -1.5, lng: 15.5 },
+    coords: [15.5, -1.5],
     description: {
       de: "Das Alima-Becken ist ein weitläufiges Tiefland im Osten, das vom Alima-Fluss geprägt ist. Die Landschaft zeigt eine Mischung aus Wald und Savanne.",
       hu: "Az Alima-medence egy kiterjedt alföld keleten, amelyet az Alima folyó határoz meg. A táj az erdő és a szavanna keverékét mutatja.",
@@ -233,7 +233,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-pala-relief-v2",
     type: "peak",
     name: { de: "Mont Pala", hu: "Pala-hegy", ro: "Muntele Pala", en: "Mount Pala" },
-    coordinates: { lat: -3.8, lng: 13.2 },
+    coords: [13.2, -3.8],
     description: {
       de: "Der Mont Pala ist eine Erhebung im Süden des Landes. Die Hügelkette bildet Teil der Übergangszonen zwischen Küste und Zentralafrika.",
       hu: "A Pala-hegy egy magaslat az ország déli részén. A dombság a partvidék és Közép-Afrika közötti átmeneti zónák része.",
@@ -252,7 +252,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-likouala-lowlands-relief-v2",
     type: "valley",
     name: { de: "Likouala-Tiefland", hu: "Likouala-alföld", ro: "Câmpia Likouala", en: "Likouala Lowlands" },
-    coordinates: { lat: 2.5, lng: 17.5 },
+    coords: [17.5, 2.5],
     description: {
       de: "Das Likouala-Tiefland erstreckt sich im äußersten Nordosten. Es ist eine sumpfige, von zahlreichen Flussläufen und Überschwemmungsgebieten geprägte Tiefebene.",
       hu: "A Likouala-alföld a legészakkeletibb területen fekszik. Ez egy mocsaras alföld, amelyet számos folyó és ártéri terület jellemez.",
@@ -271,7 +271,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-kibali-relief-v2",
     type: "peak",
     name: { de: "Mont Kibali", hu: "Kibali-hegy", ro: "Muntele Kibali", en: "Mount Kibali" },
-    coordinates: { lat: -2.4, lng: 14.2 },
+    coords: [14.2, -2.4],
     description: {
       de: "Der Mont Kibali ist ein bewaldeter Hügel im Zentrum-Süd des Landes. Er ist charakteristisch für die hügeligen Landschaften des kongolesischen Hinterlandes.",
       hu: "A Kibali-hegy egy erdős domb az ország közép-déli részén. Jellegzetes a kongói hátország dombos tájaira.",
@@ -290,7 +290,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-sanga-basin-relief-v2",
     type: "valley",
     name: { de: "Sanga-Becken", hu: "Sanga-medence", ro: "Bazinul Sanga", en: "Sanga Basin" },
-    coordinates: { lat: 1.8, lng: 16.5 },
+    coords: [16.5, 1.8],
     description: {
       de: "Das Sanga-Becken bildet eine tief liegende Ebene im Norden. Es wird vom Sanga-Fluss entwässert und ist von dichtem Regenwald bedeckt.",
       hu: "A Sanga-medence egy alacsonyan fekvő síkság északon. A Sanga folyó vízelvezeti, és sűrű esőerdő borítja.",
@@ -309,7 +309,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-tsikama-relief-v2",
     type: "peak",
     name: { de: "Mont Tsikama", hu: "Tsikama-hegy", ro: "Muntele Tsikama", en: "Mount Tsikama" },
-    coordinates: { lat: -2.1, lng: 14.8 },
+    coords: [14.8, -2.1],
     description: {
       de: "Der Mont Tsikama liegt in der zentralen Hochlandregion. Die Umgebung zeichnet sich durch hügelige Waldgebiete aus.",
       hu: "A Tsikama-hegy a központi felföldi régióban található. A környéket dombos erdőterületek jellemzik.",
@@ -328,7 +328,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-nkeni-relief-v2",
     type: "peak",
     name: { de: "Mont Nkeni", hu: "Nkeni-hegy", ro: "Muntele Nkeni", en: "Mount Nkeni" },
-    coordinates: { lat: -1.8, lng: 15.6 },
+    coords: [15.6, -1.8],
     description: {
       de: "Der Mont Nkeni ist eine Erhebung nahe dem Nkeni-Fluss im Osten. Die Umgebung ist durch sanfte Hügel und Waldstreifen charakterisiert.",
       hu: "A Nkeni-hegy egy magaslat a Nkeni folyó közelében keleten. A környéket lankás dombok és erdei sávok jellemzik.",
@@ -347,7 +347,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-lekoumou-relief-v2",
     type: "peak",
     name: { de: "Mont Lekoumou", hu: "Lekoumou-hegy", ro: "Muntele Lekoumou", en: "Mount Lekoumou" },
-    coordinates: { lat: -2.6, lng: 13.1 },
+    coords: [13.1, -2.6],
     description: {
       de: "Der Mont Lekoumou liegt im südwestlichen Hinterland. Er gehört zu den bewaldeten Bergzügen, die die Landschaft der Lekoumou-Region prägen.",
       hu: "A Lekoumou-hegy a délnyugati hátországban fekszik. Azokhoz az erdős hegyvonulatokhoz tartozik, amelyek a Lekoumou-régió táját alkotják.",
@@ -366,7 +366,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-mouyondzi-relief-v2",
     type: "peak",
     name: { de: "Mont Mouyondzi", hu: "Mouyondzi-hegy", ro: "Muntele Mouyondzi", en: "Mount Mouyondzi" },
-    coordinates: { lat: -3.8, lng: 13.9 },
+    coords: [13.9, -3.8],
     description: {
       de: "Der Mont Mouyondzi ist ein Hügel im südlichen Plateau-Gebiet. Die Region ist landwirtschaftlich geprägt und weist eine wellige Struktur auf.",
       hu: "A Mouyondzi-hegy egy domb a déli fennsíki területen. A régió mezőgazdasági jellegű és hullámos szerkezetű.",
@@ -385,7 +385,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-sibiti-relief-v2",
     type: "peak",
     name: { de: "Mont Sibiti", hu: "Sibiti-hegy", ro: "Muntele Sibiti", en: "Mount Sibiti" },
-    coordinates: { lat: -3.6, lng: 13.3 },
+    coords: [13.3, -3.6],
     description: {
       de: "Der Mont Sibiti ist eine Erhebung in der Nähe von Sibiti. Er liegt in einer bewaldeten Hügellandschaft, die typisch für den Süden ist.",
       hu: "A Sibiti-hegy egy magaslat Sibiti közelében. Erdős dombvidéken fekszik, amely tipikus a déli országrészre.",
@@ -404,7 +404,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-odzala-relief-v2",
     type: "peak",
     name: { de: "Mont Odzala", hu: "Odzala-hegy", ro: "Muntele Odzala", en: "Mount Odzala" },
-    coordinates: { lat: 0.5, lng: 14.8 },
+    coords: [14.8, 0.5],
     description: {
       de: "Der Mont Odzala befindet sich im Odzala-Kokoua-Nationalpark. Die Umgebung ist von einer Mischung aus tropischem Wald und Savannen-Hügeln geprägt.",
       hu: "Az Odzala-hegy az Odzala-Kokoua Nemzeti Parkban található. A környezetet a trópusi erdő és szavannás dombok keveréke jellemzi.",
@@ -423,7 +423,7 @@ export const republicofcongoReliefV2: POI[] = [
     id: "republicofcongo-mont-kelle-relief-v2",
     type: "peak",
     name: { de: "Mont Kelle", hu: "Kelle-hegy", ro: "Muntele Kelle", en: "Mount Kelle" },
-    coordinates: { lat: -0.6, lng: 14.7 },
+    coords: [14.7, -0.6],
     description: {
       de: "Der Mont Kelle liegt im zentralen Kongobecken-Randgebiet. Die Region zeichnet sich durch hügeliges Terrain aus, das den Regenwald unterbricht.",
       hu: "A Kelle-hegy a központi Kongó-medence szélén fekszik. A régiót dombos terep jellemzi, amely megszakítja az esőerdőt.",

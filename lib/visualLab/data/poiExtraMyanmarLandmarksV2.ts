@@ -646,7 +646,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-uppatasanti-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Uppatasanti-Pagode", hu: "Uppatasanti pagoda", ro: "Pagoda Uppatasanti", en: "Uppatasanti Pagoda" },
-    coordinates: { lat: 19.746, lng: 96.205 },
+    coords: [96.205, 19.746],
     description: {
       de: "Diese markante Pagode in Naypyidaw ist fast ein identisches Abbild der Shwedagon-Pagode in Yangon. Sie wurde im Jahr 2009 fertiggestellt und beherbergt eine Buddha-Zahnreliquie.",
       hu: "Ez a monumentális pagoda Nepjidóban található, és a yangoni Svedagon pagoda szinte pontos mása. 2009-ben készült el, és egy Buddha-fogereklyét őriznek benne.",
@@ -665,7 +665,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-shwesandaw-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Shwesandaw-Pagode", hu: "Shwesandaw pagoda", ro: "Pagoda Shwesandaw", en: "Shwesandaw Pagoda" },
-    coordinates: { lat: 21.163, lng: 94.864 },
+    coords: [94.864, 21.163],
     description: {
       de: "Die Shwesandaw-Pagode ist bekannt für ihre fünf hohen Terrassen, die früher beliebte Aussichtspunkte waren. Sie wurde 1057 von König Anawrahta erbaut.",
       hu: "A Shwesandaw pagoda híres öt magas teraszáról, amelyek korábban népszerű kilátóhelyek voltak. 1057-ben építtette Anawrahta király.",
@@ -684,7 +684,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-soon-u-ponya-shin-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Soon U Ponya Shin Pagode", hu: "Soon U Ponya Shin pagoda", ro: "Pagoda Soon U Ponya Shin", en: "Soon U Ponya Shin Pagoda" },
-    coordinates: { lat: 21.894, lng: 95.981 },
+    coords: [95.981, 21.894],
     description: {
       de: "Diese Pagode liegt auf dem Sagaing-Hügel und bietet einen weiten Blick über den Ayeyarwady. Sie ist eine der ältesten und wichtigsten religiösen Stätten der Region.",
       hu: "Ez a pagoda a Sagaing-domb tetején található, ahonnan pazar kilátás nyílik az Ayeyarwady folyóra. A régió egyik legrégebbi és legfontosabb szentélye.",
@@ -703,7 +703,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-u-min-thonze-cave-landmarks-v2",
     type: "landmark",
     name: { de: "U Min Thonze Höhle", hu: "U Min Thonze barlang", ro: "Peștera U Min Thonze", en: "U Min Thonze Cave" },
-    coordinates: { lat: 21.905, lng: 95.979 },
+    coords: [95.979, 21.905],
     description: {
       de: "U Min Thonze ist für seine bogenförmige Galerie mit 45 vergoldeten Buddha-Statuen bekannt. Die Tempelanlage befindet sich an den Hängen des Sagaing-Hügels.",
       hu: "U Min Thonze egy íves galériáról ismert, amelyben 45 aranyozott Buddha-szobor sorakozik. A templomkomplexum a Sagaing-domb lankáin fekszik.",
@@ -722,7 +722,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-national-museum-yangon-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Myanmar", hu: "Myanmari Nemzeti Múzeum", ro: "Muzeul Național din Myanmar", en: "National Museum of Myanmar" },
-    coordinates: { lat: 16.788, lng: 96.14 },
+    coords: [96.14, 16.788],
     description: {
       de: "Das Nationalmuseum in Yangon ist die wichtigste kulturelle Institution des Landes. Es beherbergt eine umfangreiche Sammlung antiker Artefakte und königlicher Regalien.",
       hu: "A yangoni Nemzeti Múzeum az ország legfontosabb kulturális intézménye. Ókori műtárgyak és királyi jelvények hatalmas gyűjteményének ad otthont.",
@@ -741,7 +741,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-yangon-city-hall-landmarks-v2",
     type: "monument",
     name: { de: "Rathaus von Yangon", hu: "Yangoni városháza", ro: "Primăria din Yangon", en: "Yangon City Hall" },
-    coordinates: { lat: 16.775, lng: 96.16 },
+    coords: [96.16, 16.775],
     description: {
       de: "Das Rathaus von Yangon ist ein markantes Beispiel für die Architektur der britischen Kolonialzeit mit burmesischen Stilelementen wie den Pfauendekorationen.",
       hu: "A yangoni városháza a brit gyarmati építészet jellegzetes példája, amelyet burmai stíluselemekkel, például pávadíszítésekkel ötvöztek.",
@@ -760,7 +760,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-high-court-building-landmarks-v2",
     type: "monument",
     name: { de: "Oberstes Gerichtsgebäude", hu: "Legfelsőbb Bíróság épülete", ro: "Clădirea Înaltei Curți", en: "High Court Building" },
-    coordinates: { lat: 16.774, lng: 96.162 },
+    coords: [96.162, 16.774],
     description: {
       de: "Das historische Gerichtsgebäude in Yangon ist für seine rote Backsteinfassade und den markanten Glockenturm bekannt. Es wurde im neoklassizistischen Stil erbaut.",
       hu: "Yangon történelmi bírósági épülete vörös tégla homlokzatáról és jellegzetes óratornyáról ismert. Neoklasszicista stílusban épült.",
@@ -779,7 +779,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-strand-hotel-landmarks-v2",
     type: "monument",
     name: { de: "Strand Hotel", hu: "Strand Hotel", ro: "Strand Hotel", en: "Strand Hotel" },
-    coordinates: { lat: 16.77, lng: 96.163 },
+    coords: [96.163, 16.77],
     description: {
       de: "Das Strand Hotel in Yangon ist eines der berühmtesten Luxushotels in Südostasien. Es wurde im Jahr 1901 von den Sarkies-Brüdern im Kolonialstil eröffnet.",
       hu: "A yangoni Strand Hotel Délkelet-Ázsia egyik leghíresebb luxusszállodája. 1901-ben nyitották meg a Sarkies testvérek gyarmati stílusban.",
@@ -798,7 +798,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-martyrs-mausoleum-landmarks-v2",
     type: "monument",
     name: { de: "Märtyrer-Mausoleum", hu: "Mártírok mauzóleuma", ro: "Mausoleul Martirilor", en: "Martyrs' Mausoleum" },
-    coordinates: { lat: 16.801, lng: 96.151 },
+    coords: [96.151, 16.801],
     description: {
       de: "Dieses Denkmal in Yangon ist General Aung San und den anderen Anführern der Unabhängigkeitsbewegung gewidmet, die 1947 ermordet wurden.",
       hu: "Ez a yangoni emlékmű Aung San tábornoknak és a függetlenségi mozgalom többi vezetőjének állít emléket, akiket 1947-ben gyilkoltak meg.",
@@ -817,7 +817,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-shwe-oo-min-cave-landmarks-v2",
     type: "landmark",
     name: { de: "Shwe Oo Min Höhlenpagode", hu: "Shwe Oo Min barlangpagoda", ro: "Pagoda din peștera Shwe Oo Min", en: "Shwe Oo Min Cave Pagoda" },
-    coordinates: { lat: 20.932, lng: 96.657 },
+    coords: [96.657, 20.932],
     description: {
       de: "Die Shwe Oo Min Höhle in Pindaya ist ein wichtiges Pilgerziel, das tausende von Buddha-Statuen aus verschiedenen Epochen in einem natürlichen Kalksteinhöhlensystem beherbergt.",
       hu: "A pindayai Shwe Oo Min barlang fontos zarándokhely, ahol több ezer különböző korból származó Buddha-szobrot őriznek egy természetes mészkőbarlangban.",
@@ -836,7 +836,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-maha-ant-htoo-kan-thar-landmarks-v2",
     type: "landmark",
     name: { de: "Maha Ant Htoo Kan Thar Pagode", hu: "Maha Ant Htoo Kan Thar pagoda", ro: "Pagoda Maha Ant Htoo Kan Thar", en: "Maha Ant Htoo Kan Thar Pagoda" },
-    coordinates: { lat: 22.031, lng: 96.452 },
+    coords: [96.452, 22.031],
     description: {
       de: "Diese Pagode in Pyin Oo Lwin beherbergt eine massive Marmor-Buddha-Statue. Sie wurde an der Stelle errichtet, an der der Transport der Statue aufgrund eines Unfalls stoppte.",
       hu: "Ez a Pyin Oo Lwinben található pagoda egy hatalmas márvány Buddha-szobrot őriz. Ott épült, ahol a szobor szállítása egy baleset miatt megszakadt.",
@@ -855,7 +855,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-sri-ksetra-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Sri Ksetra Ruinen", hu: "Sri Ksetra romjai", ro: "Ruinele Sri Ksetra", en: "Sri Ksetra Ruins" },
-    coordinates: { lat: 18.81, lng: 95.286 },
+    coords: [95.286, 18.81],
     description: {
       de: "Sri Ksetra war die größte und wichtigste Stadt des antiken Pyu-Volkes. Die Ruinen bei Pyay gehören zum UNESCO-Weltkulturerbe und zeigen frühe buddhistische Architektur.",
       hu: "Sri Ksetra az ókori pju nép legnagyobb és legfontosabb városa volt. A Pyay közelében található romok az UNESCO Világörökség részei.",
@@ -874,7 +874,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-beikthano-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Beikthano Ruinen", hu: "Beikthano romjai", ro: "Ruinele Beikthano", en: "Beikthano Ruins" },
-    coordinates: { lat: 20.003, lng: 95.378 },
+    coords: [95.378, 20.003],
     description: {
       de: "Beikthano ist eine der ältesten Pyu-Städte in Myanmar und stammt aus dem 1. bis 5. Jahrhundert. Die archäologische Stätte zeigt Reste von monumentalen Ziegelbauten.",
       hu: "Beikthano Myanmar egyik legrégebbi pju városa, amely az 1. és 5. század közötti időszakból származik. Monumentális téglaépületek maradványai láthatók itt.",
@@ -893,7 +893,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-hanlin-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Hanlin Ruinen", hu: "Hanlin romjai", ro: "Ruinele Hanlin", en: "Hanlin Ruins" },
-    coordinates: { lat: 22.464, lng: 95.804 },
+    coords: [95.804, 22.464],
     description: {
       de: "Hanlin war eine bedeutende antike Stadt der Pyu-Zivilisation, bekannt für ihre heißen Quellen und archäologischen Funde. Die Stätte liegt im Distrikt Shwebo.",
       hu: "Hanlin a pju civilizáció jelentős ókori városa volt, amely hévizeiről és régészeti leleteiről ismert. A lelőhely Shwebo körzetben található.",
@@ -912,7 +912,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-yadanabon-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Yadanabon-Brücke", hu: "Yadanabon híd", ro: "Podul Yadanabon", en: "Yadanabon Bridge" },
-    coordinates: { lat: 21.879, lng: 95.989 },
+    coords: [95.989, 21.879],
     description: {
       de: "Die Yadanabon-Brücke ist eine moderne Schrägseilbrücke, die den Ayeyarwady-Fluss bei Mandalay überquert. Sie entlastet die historische Ava-Brücke.",
       hu: "A Yadanabon híd egy modern ferdekábeles híd, amely az Ayeyarwady folyót szeli át Mandalaynál. A történelmi Ava hidat tehermentesíti.",
@@ -931,7 +931,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-thanlyin-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Thanlyin-Brücke", hu: "Thanlyin híd", ro: "Podul Thanlyin", en: "Thanlyin Bridge" },
-    coordinates: { lat: 16.815, lng: 96.223 },
+    coords: [96.223, 16.815],
     description: {
       de: "Die Thanlyin-Brücke verbindet Yangon mit der Stadt Thanlyin über den Bago-Fluss. Sie ist eine der längsten kombinierten Straßen- und Eisenbahnbrücken des Landes.",
       hu: "A Thanlyin híd Yangont köti össze Thanlyin várossal a Bago-folyó felett. Az ország egyik leghosszabb kombinált közúti és vasúti hídja.",
@@ -950,7 +950,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-myazedi-pagoda-landmarks-v2",
     type: "landmark",
     name: { de: "Myazedi-Pagode", hu: "Myazedi pagoda", ro: "Pagoda Myazedi", en: "Myazedi Pagoda" },
-    coordinates: { lat: 21.147, lng: 94.86 },
+    coords: [94.86, 21.147],
     description: {
       de: "Die Myazedi-Pagode ist bekannt für die Myazedi-Inschrift, die oft als der 'Rosetta-Stein' Myanmars bezeichnet wird. Sie liegt südlich der Stadtmauer von Bagan.",
       hu: "A Myazedi pagoda a Myazedi-feliratról ismert, amelyet gyakran Myanmar 'Rosetta-köveként' emlegetnek. Bagan városfalaitól délre található.",
@@ -969,7 +969,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-gubyaukgyi-temple-myinkaba-landmarks-v2",
     type: "landmark",
     name: { de: "Gubyaukgyi-Tempel (Myinkaba)", hu: "Gubyaukgyi templom (Myinkaba)", ro: "Templul Gubyaukgyi (Myinkaba)", en: "Gubyaukgyi Temple (Myinkaba)" },
-    coordinates: { lat: 21.148, lng: 94.86 },
+    coords: [94.86, 21.148],
     description: {
       de: "Dieser Tempel aus dem 12. Jahrhundert ist für seine gut erhaltenen Wandmalereien berühmt, die Szenen aus dem Leben Buddhas darstellen. Er wurde von Prinz Rajakumar erbaut.",
       hu: "Ez a 12. századi templom jól megőrzött falfestményeiről híres, amelyek Buddha életének jeleneteit ábrázolják. Rajakumar herceg építtette.",
@@ -988,7 +988,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-lawka-hteik-pan-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Lawka-Hteik-Pan-Tempel", hu: "Lawka Hteik Pan templom", ro: "Templul Lawka Hteik Pan", en: "Lawka Hteik Pan Temple" },
-    coordinates: { lat: 21.168, lng: 94.871 },
+    coords: [94.871, 21.168],
     description: {
       de: "Ein kleiner, aber kunsthistorisch bedeutender Tempel in Bagan, der für seine feinen Wandmalereien und Inschriften aus dem 12. Jahrhundert bekannt ist.",
       hu: "Egy kicsi, de művészettörténetileg jelentős bagani templom, amely finom 12. századi falfestményeiről és feliratairól ismert.",
@@ -1007,7 +1007,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-seinnyet-nyima-paya-landmarks-v2",
     type: "landmark",
     name: { de: "Seinnyet-Nyima-Pagode", hu: "Seinnyet Nyima pagoda", ro: "Pagoda Seinnyet Nyima", en: "Seinnyet Nyima Paya" },
-    coordinates: { lat: 21.141, lng: 94.86 },
+    coords: [94.86, 21.141],
     description: {
       de: "Zusammen mit der Seinnyet-Babu-Pagode bildet dieses Bauwerk ein markantes Zwillingsensemble im Süden Bagans. Die Stupa stammt vermutlich aus dem 11. Jahrhundert.",
       hu: "A Seinnyet Babu pagodával együtt ez az építmény egy jellegzetes iker-együttest alkot Bagan déli részén. A sztúpa valószínűleg a 11. századból származik.",
@@ -1026,7 +1026,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-thambula-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Thambula-Tempel", hu: "Thambula templom", ro: "Templul Thambula", en: "Thambula Temple" },
-    coordinates: { lat: 21.16, lng: 94.896 },
+    coords: [94.896, 21.16],
     description: {
       de: "Der Thambula-Tempel wurde 1255 von Königin Thambula erbaut. Er ist bekannt für seine helle Innenbeleuchtung durch große Fenster und schöne Malereien.",
       hu: "A Thambula templomot 1255-ben építtette Thambula királynő. Híres a nagy ablakokon beáramló természetes fényről és a szép falfestményeiről.",
@@ -1045,7 +1045,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-leimyethna-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Leimyethna-Tempel", hu: "Leimyethna templom", ro: "Templul Leimyethna", en: "Leimyethna Temple" },
-    coordinates: { lat: 21.159, lng: 94.895 },
+    coords: [94.895, 21.159],
     description: {
       de: "Der Leimyethna-Tempel ist ein strahlend weiß getünchter Tempel in Minnanthu. Er wurde im Jahr 1222 von einem Minister unter König Htilominlo erbaut.",
       hu: "A Leimyethna templom egy ragyogóan fehérre meszelt templom Minnanthuban. 1222-ben építtette Htilominlo király egyik minisztere.",
@@ -1064,7 +1064,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
     id: "myanmar-nandamanuya-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Nandamanuya-Tempel", hu: "Nandamanuya templom", ro: "Templul Nandamanuya", en: "Nandamanuya Temple" },
-    coordinates: { lat: 21.161, lng: 94.897 },
+    coords: [94.897, 21.161],
     description: {
       de: "Dieser kleine Tempel in Minnanthu ist berühmt für seine einzigartigen Wandmalereien, die tantrische und unkonventionelle religiöse Motive aus dem 13. Jahrhundert zeigen.",
       hu: "Ez a kicsi minnanthui templom egyedülálló falfestményeiről híres, amelyek tantrikus és szokatlan vallási motívumokat ábrázolnak a 13. századból.",

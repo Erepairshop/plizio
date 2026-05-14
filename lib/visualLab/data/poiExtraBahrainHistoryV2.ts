@@ -1790,7 +1790,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-gudaibiya-palace-history-v2",
     type: "palace",
     name: { de: "Gudaibiya-Palast", hu: "Gudaibiya-palota", ro: "Palatul Gudaibiya", en: "Gudaibiya Palace" },
-    coordinates: { lat: 26.2172, lng: 50.5911 },
+    coords: [50.5911, 26.2172],
     description: {
       de: "Der Gudaibiya-Palast ist ein historisches königliches Gebäude, das für seine elegante weiße Architektur bekannt ist. Er dient als Tagungsort für den Ministerrat von Bahrain.",
       hu: "A Gudaibiya-palota egy történelmi királyi rezidencia, amely elegáns fehér homlokzatáról ismert. Fontos állami eseményeknek és a miniszteri tanács üléseinek ad otthont.",
@@ -1821,7 +1821,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-sakhir-palace-history-v2",
     type: "palace",
     name: { de: "Sakhir-Palast", hu: "Sakhir-palota", ro: "Palatul Sakhir", en: "Sakhir Palace" },
-    coordinates: { lat: 26.0425, lng: 50.5114 },
+    coords: [50.5114, 26.0425],
     description: {
       de: "Dieser Wüstenpalast wurde 1901 erbaut und war einst die Hauptresidenz des Herrschers von Bahrain. Er ist ein bedeutendes Beispiel für traditionelle Kalksteinarchitektur.",
       hu: "Ezt a sivatagi palotát 1901-ben építették, és egykor Bahrein uralkodójának fő rezidenciája volt. A hagyományos mészkőépítészet kiemelkedő példája.",
@@ -1852,7 +1852,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-hedaya-school-history-v2",
     type: "university",
     name: { de: "Al-Hedaya-Al-Khalifia-Schule", hu: "Al-Hedaya Al-Khalifia Iskola", ro: "Școala Al-Hedaya Al-Khalifia", en: "Al-Hedaya Al-Khalifia School" },
-    coordinates: { lat: 26.2571, lng: 50.6095 },
+    coords: [50.6095, 26.2571],
     description: {
       de: "Dies ist die erste moderne öffentliche Schule Bahrains, die 1919 gegründet wurde. Das Gebäude gilt als Symbol für den Beginn des modernen Bildungswesens im Land.",
       hu: "Ez Bahrein első modern állami iskolája, amelyet 1919-ben alapítottak. Az épület a modern oktatás kezdetének szimbóluma az országban.",
@@ -1883,7 +1883,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-american-mission-hospital-history-v2",
     type: "landmark",
     name: { de: "American Mission Hospital Gebäude", hu: "American Mission Hospital épülete", ro: "Clădirea American Mission Hospital", en: "American Mission Hospital Building" },
-    coordinates: { lat: 26.2311, lng: 50.5824 },
+    coords: [50.5824, 26.2311],
     description: {
       de: "Das 1903 gegründete American Mission Hospital war die erste moderne medizinische Einrichtung am Persischen Golf. Das historische Mauerwerk zeugt von früher Philanthropie.",
       hu: "Az 1903-ban alapított American Mission Hospital volt az első modern orvosi intézmény a Perzsa-öbölben. A történelmi épület a korai jótékonyság emléke.",
@@ -1914,7 +1914,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-bin-matar-house-history-v2",
     type: "museum",
     name: { de: "Bin-Matar-Haus", hu: "Bin Matar-ház", ro: "Casa Bin Matar", en: "Bin Matar House" },
-    coordinates: { lat: 26.2555, lng: 50.6121 },
+    coords: [50.6121, 26.2555],
     description: {
       de: "Dieses 1905 erbaute Haus gehörte der prominenten Perlenhändlerfamilie Bin Matar. Es ist ein herausragendes Beispiel für die traditionelle Architektur der Perlenära.",
       hu: "Ez az 1905-ben épült ház a neves Bin Matar gyöngykereskedő családé volt. A gyöngyhalászat korszakának kiváló építészeti példája.",
@@ -1945,7 +1945,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-khalaf-house-history-v2",
     type: "landmark",
     name: { de: "Khalaf-Haus", hu: "Khalaf-ház", ro: "Casa Khalaf", en: "Khalaf House" },
-    coordinates: { lat: 26.2381, lng: 50.5842 },
+    coords: [50.5842, 26.2381],
     description: {
       de: "Das Khalaf-Haus ist ein restauriertes Herrenhaus eines Perlenhändlers, das die traditionelle Bauweise und den sozialen Status der Händlerklasse widerspiegelt.",
       hu: "A Khalaf-ház egy restaurált gyöngykereskedői kúria, amely a kereskedelmi osztály hagyományos építkezését és társadalmi státuszát tükrözi.",
@@ -1976,7 +1976,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-nukhidha-house-history-v2",
     type: "museum",
     name: { de: "Al-Nukhidha-Haus", hu: "Al Nukhidha-ház", ro: "Casa Al Nukhidha", en: "Al Nukhidha House" },
-    coordinates: { lat: 26.2541, lng: 50.6135 },
+    coords: [50.6135, 26.2541],
     description: {
       de: "Dies war das erste Haus, das als Teil des Perlenpfads restauriert wurde. Es gehörte einst einem Schiffskapitän (Nukhidha) und zeigt das Leben zur See.",
       hu: "Ez volt az első ház, amelyet a Gyöngyút részeként restauráltak. Egykor egy hajókapitányé (Nukhidha) volt, és a tengeri életet mutatja be.",
@@ -2007,7 +2007,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-fakhrawi-house-history-v2",
     type: "landmark",
     name: { de: "Fakhrawi-Haus", hu: "Fakhrawi-ház", ro: "Casa Fakhrawi", en: "Fakhrawi House" },
-    coordinates: { lat: 26.2525, lng: 50.6111 },
+    coords: [50.6111, 26.2525],
     description: {
       de: "Das Fakhrawi-Haus ist ein historisches Wohngebäude in Muharraq, das für seine feinen Gipsverzierungen und traditionellen Holztüren bekannt ist.",
       hu: "A Fakhrawi-ház egy történelmi lakóépület Muharraqban, amely finom gipszstukkóiról és hagyományos faajtóiról ismert.",
@@ -2038,7 +2038,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-mohammed-bin-faris-house-history-v2",
     type: "museum",
     name: { de: "Mohammed-bin-Faris-Haus", hu: "Mohammed bin Faris-ház", ro: "Casa Mohammed bin Faris", en: "Mohammed bin Faris House" },
-    coordinates: { lat: 26.2533, lng: 50.6105 },
+    coords: [50.6105, 26.2533],
     description: {
       de: "Dieses Haus ist dem Gedenken an den Musiker Mohammed bin Faris gewidmet, einen Meister der traditionellen Sut-Musik in Bahrain.",
       hu: "Ez a ház Mohammed bin Faris zenész emlékének szentelt, aki a hagyományos bahreini Sut-zene mestere volt.",
@@ -2069,7 +2069,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-jassim-al-zayani-house-history-v2",
     type: "landmark",
     name: { de: "Jassim-Al-Zayani-Haus", hu: "Jassim Al Zayani-ház", ro: "Casa Jassim Al Zayani", en: "Jassim Al Zayani House" },
-    coordinates: { lat: 26.2562, lng: 50.6128 },
+    coords: [50.6128, 26.2562],
     description: {
       de: "Ein restauriertes Handelshaus, das Einblicke in den Reichtum und den architektonischen Stil der bahrainischen Kaufmannsfamilien des späten 19. Jahrhunderts bietet.",
       hu: "Egy restaurált kereskedőház, amely betekintést nyújt a 19. század végi bahreini kereskedőcsaládok gazdagságába és építészeti stílusába.",
@@ -2100,7 +2100,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-karamat-house-history-v2",
     type: "landmark",
     name: { de: "Karamat-Haus", hu: "Karamat-ház", ro: "Casa Karamat", en: "Karamat House" },
-    coordinates: { lat: 26.2514, lng: 50.6145 },
+    coords: [50.6145, 26.2514],
     description: {
       de: "Dieses Haus ist bekannt für seine detaillierten Holzschnitzereien und Fenster, die den Einfluss indischer Architekturmotive auf Bahrain zeigen.",
       hu: "Ez a ház a részletes fafaragásairól és ablakairól ismert, amelyek az indiai építészeti motívumok bahreini hatását mutatják.",
@@ -2131,7 +2131,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-zari-house-history-v2",
     type: "museum",
     name: { de: "Zari-Haus", hu: "Zari-ház", ro: "Casa Zari", en: "Zari House" },
-    coordinates: { lat: 26.2502, lng: 50.6151 },
+    coords: [50.6151, 26.2502],
     description: {
       de: "Das Zari-Haus ist ein kulturelles Zentrum, das sich der Bewahrung der traditionellen bahrainischen Stickerei (Zari) und Textilkunst widmet.",
       hu: "A Zari-ház egy kulturális központ, amely a hagyományos bahreini hímzés (Zari) és textilművészet megőrzésének szentelt.",
@@ -2162,7 +2162,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-ghous-house-history-v2",
     type: "landmark",
     name: { de: "Al-Ghous-Haus", hu: "Al Ghous-ház", ro: "Casa Al Ghous", en: "Al Ghous House" },
-    coordinates: { lat: 26.2522, lng: 50.6162 },
+    coords: [50.6162, 26.2522],
     description: {
       de: "Das Haus des Perlenfischers (Al-Ghous) zeigt die einfache Lebensweise der Männer, die für die wertvolle Perlenindustrie Bahrains auf See gingen.",
       hu: "A gyöngyhalász (Al-Ghous) háza bemutatja azon férfiak egyszerű életmódját, akik a tengerre szálltak Bahrein értékes gyöngyiparáért.",
@@ -2193,7 +2193,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-sayyid-hashim-shrine-history-v2",
     type: "monument",
     name: { de: "Sayyid-Hashim-Schrein", hu: "Sayyid Hashim-szentély", ro: "Sanctuarul Sayyid Hashim", en: "Sayyid Hashim Shrine" },
-    coordinates: { lat: 26.2155, lng: 50.5471 },
+    coords: [50.5471, 26.2155],
     description: {
       de: "Dieser Schrein ist Sayyid Hashim al-Bahrani gewidmet, einem bedeutenden Gelehrten. Das Gebäude ist ein wichtiger spiritueller Ort für viele Einheimische.",
       hu: "Ez a szentély Sayyid Hashim al-Bahrani neves tudósnak szentelt. Az épület fontos spirituális helyszín sok helyi számára.",
@@ -2224,7 +2224,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-matam-al-ajam-history-v2",
     type: "landmark",
     name: { de: "Matam Al-Ajam Al-Kabeer", hu: "Matam Al-Ajam Al-Kabeer", ro: "Matam Al-Ajam Al-Kabeer", en: "Matam Al-Ajam Al-Kabeer" },
-    coordinates: { lat: 26.2365, lng: 50.5752 },
+    coords: [50.5752, 26.2365],
     description: {
       de: "Gegründet im Jahr 1881, ist dies eine der ältesten und bedeutendsten schiitischen Versammlungshallen in Manama, bekannt für ihre Architektur.",
       hu: "Az 1881-ben alapított Matam az egyik legrégebbi és legjelentősebb síita gyülekezeti csarnok Manamában, amely építészetéről is nevezetes.",
@@ -2255,7 +2255,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-st-christophers-cathedral-history-v2",
     type: "cathedral",
     name: { de: "St.-Christopher-Kathedrale", hu: "Szent Kristóf-székesegyház", ro: "Catedrala Sfântul Cristofor", en: "St. Christopher's Cathedral" },
-    coordinates: { lat: 26.2348, lng: 50.5802 },
+    coords: [50.5802, 26.2348],
     description: {
       de: "Diese anglikanische Kathedrale wurde 1953 fertiggestellt. Das Gebäude spiegelt den britischen Einfluss und die Vielfalt der Glaubensgemeinschaften in Bahrain wider.",
       hu: "Ez az anglikán székesegyház 1953-ban készült el. Az épület a brit hatást és a bahreini hitélet sokszínűségét tükrözi.",
@@ -2286,7 +2286,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-khalifiyah-library-history-v2",
     type: "museum",
     name: { de: "Al-Khalifiyah-Bibliothek", hu: "Al-Khalifiyah Könyvtár", ro: "Biblioteca Al-Khalifiyah", en: "Al-Khalifiyah Library" },
-    coordinates: { lat: 26.2538, lng: 50.6115 },
+    coords: [50.6115, 26.2538],
     description: {
       de: "Die Al-Khalifiyah-Bibliothek war die erste öffentliche Bibliothek Bahrains, die 1954 eröffnet wurde. Sie wurde kürzlich restauriert und ist ein Wissenszentrum.",
       hu: "Az Al-Khalifiyah Könyvtár volt Bahrein első nyilvános könyvtára, amely 1954-ben nyílt meg. Nemrégiben restaurálták, ma tudásközpontként működik.",
@@ -2317,7 +2317,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-la-fontaine-history-v2",
     type: "museum",
     name: { de: "La Fontaine Zentrum", hu: "La Fontaine Központ", ro: "Centrul La Fontaine", en: "La Fontaine Centre" },
-    coordinates: { lat: 26.2352, lng: 50.5855 },
+    coords: [50.5855, 26.2352],
     description: {
       de: "Dieses restaurierte Herrenhaus aus dem 19. Jahrhundert kombiniert europäische und islamische Architekturstile. Es ist heute ein Zentrum für zeitgenössische Kunst.",
       hu: "Ez a 19. századi restaurált kúria ötvözi az európai és az iszlám építészeti stílusokat. Ma a kortárs művészetek központja.",
@@ -2348,7 +2348,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-british-political-agency-history-v2",
     type: "landmark",
     name: { de: "Britische Politische Agentur", hu: "Brit Politikai Ügynökség", ro: "Agenția Politică Britanică", en: "British Political Agency" },
-    coordinates: { lat: 26.2375, lng: 50.5832 },
+    coords: [50.5832, 26.2375],
     description: {
       de: "Das Gebäude der ehemaligen britischen politischen Agentur ist ein Zeugnis der engen historischen Beziehungen zwischen dem Vereinigten Königreich und Bahrain.",
       hu: "Az egykori brit politikai ügynökség épülete a Brit Birodalom és Bahrein közötti szoros történelmi kapcsolatok tanúja.",
@@ -2379,7 +2379,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-old-custom-house-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus", hu: "Régi Vámház", ro: "Vechea Casă a Vămii", en: "Old Custom House" },
-    coordinates: { lat: 26.2415, lng: 50.5768 },
+    coords: [50.5768, 26.2415],
     description: {
       de: "Das alte Zollhaus war der Kontrollpunkt für den gesamten Seehandel Bahrains. Es ist ein wichtiger Teil des maritimen Erbes von Manama.",
       hu: "A régi vámház volt Bahrein tengeri kereskedelmének ellenőrző pontja. Manama tengeri örökségének egyik legfontosabb épülete.",
@@ -2410,7 +2410,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-qadam-site-history-v2",
     type: "ruins",
     name: { de: "Al-Qadam Ausgrabungsstätte", hu: "Al-Qadam régészeti helyszín", ro: "Situl Al-Qadam", en: "Al-Qadam Site" },
-    coordinates: { lat: 26.2165, lng: 50.5282 },
+    coords: [50.5282, 26.2165],
     description: {
       de: "Al-Qadam ist eine bedeutende archäologische Stätte mit Grabhügeln aus der Tylos-Zeit, die Einblicke in antike Bestattungsrituale bieten.",
       hu: "Al-Qadam egy jelentős régészeti lelőhely a Tylos-korszakból származó sírhalmokkal, amelyek betekintést nyújtanak az ősi temetkezési rítusokba.",
@@ -2429,7 +2429,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-shakhoura-site-history-v2",
     type: "ruins",
     name: { de: "Shakhoura Ausgrabungsstätte", hu: "Shakhoura régészeti helyszín", ro: "Situl Shakhoura", en: "Shakhoura Site" },
-    coordinates: { lat: 26.2105, lng: 50.5204 },
+    coords: [50.5204, 26.2105],
     description: {
       de: "Diese Stätte beherbergt eine große Anzahl von Grabhügeln aus der Dilmun- und Tylos-Ära, die über ein weites Gebiet verteilt sind.",
       hu: "Ez a helyszín nagyszámú sírhalmot őriz a Dilmun- és Tylos-korszakból, amelyek hatalmas területen szóródnak szét.",
@@ -2460,7 +2460,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-maqsha-site-history-v2",
     type: "ruins",
     name: { de: "Al-Maqsha Ausgrabungsstätte", hu: "Al-Maqsha régészeti helyszín", ro: "Situl Al-Maqsha", en: "Al-Maqsha Site" },
-    coordinates: { lat: 26.2202, lng: 50.5301 },
+    coords: [50.5301, 26.2202],
     description: {
       de: "Al-Maqsha ist bekannt für seine antiken Siedlungsüberreste und Bestattungsplätze, die die Kontinuität der Besiedlung in Bahrain belegen.",
       hu: "Al-Maqsha ősi településmaradványairól és temetkezési helyeiről ismert, amelyek Bahrein folyamatos lakottságát bizonyítják.",
@@ -2491,7 +2491,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-janusan-site-history-v2",
     type: "ruins",
     name: { de: "Janusan Ausgrabungsstätte", hu: "Janusan régészeti helyszín", ro: "Situl Janusan", en: "Janusan Site" },
-    coordinates: { lat: 26.2305, lng: 50.5108 },
+    coords: [50.5108, 26.2305],
     description: {
       de: "Die Ausgrabungsstätte Janusan beherbergt Küstenfriedhöfe aus der Tylos-Ära, die wertvolle Grabbeigaben wie Schmuck und Gläser geliefert haben.",
       hu: "A janusani régészeti lelőhely Tylos-korszakbeli tengerparti temetőket rejt, amelyek értékes sírmellékleteket, például ékszereket és üvegeket szolgáltattak.",
@@ -2522,7 +2522,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-markh-site-history-v2",
     type: "ruins",
     name: { de: "Al-Markh Ausgrabungsstätte", hu: "Al-Markh régészeti helyszín", ro: "Situl Al-Markh", en: "Al-Markh Site" },
-    coordinates: { lat: 26.1802, lng: 50.4805 },
+    coords: [50.4805, 26.1802],
     description: {
       de: "Al-Markh ist eine der ältesten Stätten Bahrains und stammt aus der Jungsteinzeit. Sie bietet Beweise für frühe Fischerei- und Jagdgemeinschaften.",
       hu: "Al-Markh Bahrein egyik legrégebbi helyszíne, a neolitikumból származik. Bizonyítékot szolgáltat a korai halász- és vadászközösségekről.",
@@ -2553,7 +2553,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-wadi-al-sail-site-history-v2",
     type: "ruins",
     name: { de: "Wadi al-Sail Ausgrabungsstätte", hu: "Wadi al-Sail régészeti helyszín", ro: "Situl Wadi al-Sail", en: "Wadi al-Sail Site" },
-    coordinates: { lat: 26.1158, lng: 50.4902 },
+    coords: [50.4902, 26.1158],
     description: {
       de: "Wadi al-Sail enthält eine der frühesten Konzentrationen von Grabhügeln aus der frühen Dilmun-Zeit, die oft kleiner und einfacher sind.",
       hu: "Wadi al-Sail a korai Dilmun-korszakból származó sírhalmok egyik legkorábbi koncentrációját tartalmazza, amelyek gyakran kisebbek és egyszerűbbek.",
@@ -2584,7 +2584,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-buri-site-history-v2",
     type: "ruins",
     name: { de: "Buri Ausgrabungsstätte", hu: "Buri régészeti helyszín", ro: "Situl Buri", en: "Buri Site" },
-    coordinates: { lat: 26.1552, lng: 50.5105 },
+    coords: [50.5105, 26.1552],
     description: {
       de: "Die Stätte von Buri ist bekannt für ihre dichte Ansammlung von Dilmun-Hügeln, die wichtige Informationen über die soziale Schichtung der Antike liefern.",
       hu: "A buri lelőhely a Dilmun-halmok sűrű csoportjáról ismert, amelyek fontos információkat szolgáltatnak az ókori társadalmi rétegződésről.",
@@ -2615,7 +2615,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-dumistan-site-history-v2",
     type: "ruins",
     name: { de: "Dumistan Ausgrabungsstätte", hu: "Dumistan régészeti helyszín", ro: "Situl Dumistan", en: "Dumistan Site" },
-    coordinates: { lat: 26.1405, lng: 50.4808 },
+    coords: [50.4808, 26.1405],
     description: {
       de: "In Dumistan befinden sich zahlreiche antike Bestattungsplätze, die über Jahrtausende hinweg von verschiedenen Zivilisationen genutzt wurden.",
       hu: "Dumistanban számos ősi temetkezési hely található, amelyeket évezredeken át különböző civilizációk használtak.",
@@ -2646,7 +2646,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-karzakan-site-history-v2",
     type: "ruins",
     name: { de: "Karzakan Ausgrabungsstätte", hu: "Karzakan régészeti helyszín", ro: "Situl Karzakan", en: "Karzakan Site" },
-    coordinates: { lat: 26.1302, lng: 50.4855 },
+    coords: [50.4855, 26.1302],
     description: {
       de: "Die Karzakan-Stätte ist für ihre Dilmun-Grabhügel bekannt, die in einer landwirtschaftlich geprägten Umgebung liegen und die antike Landnutzung zeigen.",
       hu: "A karzakani lelőhely a mezőgazdasági környezetben található Dilmun sírhalmairól ismert, amelyek az ókori földhasználatot mutatják.",
@@ -2677,7 +2677,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-dar-kulaib-site-history-v2",
     type: "ruins",
     name: { de: "Dar Kulaib Ausgrabungsstätte", hu: "Dar Kulaib régészeti helyszín", ro: "Situl Dar Kulaib", en: "Dar Kulaib Site" },
-    coordinates: { lat: 26.0655, lng: 50.5052 },
+    coords: [50.5052, 26.0655],
     description: {
       de: "In Dar Kulaib befinden sich antike Wohngebiete und Grabstätten, die wichtige archäologische Daten über die südlichen Regionen Bahrains liefern.",
       hu: "Dar Kulaibban ősi lakóövezetek és sírhelyek találhatók, amelyek fontos régészeti adatokat szolgáltatnak Bahrein déli régióiról.",
@@ -2708,7 +2708,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-umm-jidr-site-history-v2",
     type: "ruins",
     name: { de: "Umm Jidr Ausgrabungsstätte", hu: "Umm Jidr régészeti helyszín", ro: "Situl Umm Jidr", en: "Umm Jidr Site" },
-    coordinates: { lat: 25.9602, lng: 50.5305 },
+    coords: [50.5305, 25.9602],
     description: {
       de: "Umm Jidr ist ein abgelegenes Feld von Grabhügeln im Süden der Insel, das eine andere soziale Schicht als die nördlichen Nekropolen zeigt.",
       hu: "Umm Jidr egy távoli sírhalom-mező a sziget déli részén, amely az északi nekropoliszoktól eltérő társadalmi réteget mutat be.",
@@ -2739,7 +2739,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-hajjar-site-history-v2",
     type: "ruins",
     name: { de: "Al-Hajjar Ausgrabungsstätte", hu: "Al-Hajjar régészeti helyszín", ro: "Situl Al-Hajjar", en: "Al-Hajjar Site" },
-    coordinates: { lat: 26.2152, lng: 50.5355 },
+    coords: [50.5355, 26.2152],
     description: {
       de: "Al-Hajjar ist eine der reichsten Fundstätten Bahrains und enthält Gräber aus fast allen historischen Perioden, von Dilmun bis in die islamische Zeit.",
       hu: "Al-Hajjar Bahrein egyik leggazdagabb lelőhelye, amely szinte minden történelmi korszakból tartalmaz sírokat, Dilmuntól az iszlám korig.",
@@ -2770,7 +2770,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-jidda-quarry-history-v2",
     type: "mine",
     name: { de: "Jidda-Insel Steinbruch", hu: "Jidda-sziget kőfejtő", ro: "Cariera de piatră Jidda", en: "Jidda Island Quarry" },
-    coordinates: { lat: 26.1905, lng: 50.4352 },
+    coords: [50.4352, 26.1905],
     description: {
       de: "Dieser antike Steinbruch auf der Insel Jidda lieferte das Baumaterial für viele bedeutende Strukturen in Bahrain, darunter das Bahrain-Fort.",
       hu: "Ez az ősi kőfejtő Jidda szigetén szolgáltatta az építőanyagot Bahrein számos jelentős építményéhez, köztük a Bahreini erődhöz is.",
@@ -2801,7 +2801,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-jabal-dukhan-cave-history-v2",
     type: "ruins",
     name: { de: "Jabal ad-Dukhan Höhle", hu: "Jabal ad-Dukhan barlang", ro: "Peștera Jabal ad-Dukhan", en: "Jabal ad-Dukhan Cave" },
-    coordinates: { lat: 26.0402, lng: 50.5505 },
+    coords: [50.5505, 26.0402],
     description: {
       de: "In der Nähe des höchsten Punktes Bahrains gelegen, wurden in dieser Höhle Spuren prähistorischer menschlicher Anwesenheit und antike Werkzeuge gefunden.",
       hu: "Bahrein legmagasabb pontjának közelében található ez a barlang, ahol praetörténelmi emberi jelenlét nyomait és ősi eszközöket találtak.",
@@ -2820,7 +2820,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-portuguese-outpost-history-v2",
     type: "ruins",
     name: { de: "Portugiesische Außenposten-Ruinen", hu: "Portugál őrhely romjai", ro: "Ruinele avanpostului portughez", en: "Portuguese Outpost Ruins" },
-    coordinates: { lat: 26.1852, lng: 50.4605 },
+    coords: [50.4605, 26.1852],
     description: {
       de: "Diese isolierten Ruinen stammen aus der Zeit der portugiesischen Präsenz im 16. Jahrhundert und dienten der Überwachung der Westküste.",
       hu: "Ezek az elszigetelt romok a 16. századi portugál jelenlét idejéből származnak, és a nyugati part megfigyelését szolgálták.",
@@ -2851,7 +2851,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-karzakan-wells-history-v2",
     type: "landmark",
     name: { de: "Karzakan Wasserbrunnen", hu: "Karzakan víznyerő helyek", ro: "Fântânile de apă Karzakan", en: "Karzakan Water Wells" },
-    coordinates: { lat: 26.1285, lng: 50.4822 },
+    coords: [50.4822, 26.1285],
     description: {
       de: "Diese antiken Brunnen waren Teil eines komplexen Bewässerungssystems, das die üppigen Gärten an der Westküste Bahrains über Jahrhunderte nährte.",
       hu: "Ezek az ősi kutak egy összetett öntözőrendszer részei voltak, amely évszázadokon át táplálta Bahrein nyugati partjának dús kertjeit.",
@@ -2882,7 +2882,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-dilmun-pottery-kilns-history-v2",
     type: "industry",
     name: { de: "Dilmun Töpferöfen", hu: "Dilmun fazekas kemencék", ro: "Cuptoarele de olărit Dilmun", en: "Dilmun Pottery Kilns" },
-    coordinates: { lat: 26.1755, lng: 50.5252 },
+    coords: [50.5252, 26.1755],
     description: {
       de: "Diese historischen Öfen zeigen die Fortdauer des Töpferhandwerks in Bahrain, das seit der Dilmun-Zeit eine wichtige Rolle im Handel spielte.",
       hu: "Ezek a történelmi kemencék a bahreini fazekasság folytonosságát mutatják, amely a Dilmun-korszak óta fontos szerepet játszott a kereskedelemben.",
@@ -2913,7 +2913,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-british-cemetery-history-v2",
     type: "monument",
     name: { de: "Britischer Friedhof", hu: "Brit temető", ro: "Cimitirul Britanic", en: "British Cemetery" },
-    coordinates: { lat: 26.2285, lng: 50.5872 },
+    coords: [50.5872, 26.2285],
     description: {
       de: "Der britische Friedhof in Manama ist die letzte Ruhestätte vieler ausländischer Bewohner aus der Kolonialzeit und des frühen 20. Jahrhunderts.",
       hu: "A manamai brit temető a gyarmati korszak és a 20. század eleji számos külföldi lakos végső nyughelye.",
@@ -2944,7 +2944,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-civil-airport-terminal-history-v2",
     type: "landmark",
     name: { de: "Altes Zivilflughafen-Terminal", hu: "Régi polgári repülőtéri terminál", ro: "Vechiul terminal al aeroportului civil", en: "Old Civil Airport Terminal" },
-    coordinates: { lat: 26.2705, lng: 50.6252 },
+    coords: [50.6252, 26.2705],
     description: {
       de: "Das erste zivile Flughafenterminal Bahrains markiert den Beginn der modernen Luftfahrt in der Region und war einst ein wichtiger Knotenpunkt.",
       hu: "Bahrein első polgári repülőtéri terminálja a modern légiközlekedés kezdetét jelzi a régióban, és egykor fontos csomópont volt.",
@@ -2975,7 +2975,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-shaikh-hamad-bridge-history-v2",
     type: "bridge",
     name: { de: "Shaikh-Hamad-Brücke", hu: "Hamad sejk híd", ro: "Podul Șeicul Hamad", en: "Shaikh Hamad Bridge" },
-    coordinates: { lat: 26.2505, lng: 50.6002 },
+    coords: [50.6002, 26.2505],
     description: {
       de: "Die Shaikh-Hamad-Brücke war die erste feste Verbindung zwischen den Inseln Manama und Muharraq und veränderte den Transport in Bahrain nachhaltig.",
       hu: "A Hamad sejk híd volt az első állandó összeköttetés Manama és Muharraq szigetei között, alapjaiban változtatva meg a közlekedést Bahreinben.",
@@ -3006,7 +3006,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-fadhel-minaret-history-v2",
     type: "tower",
     name: { de: "Al-Fadhel-Minarett", hu: "Al-Fadhel minaret", ro: "Minaretul Al-Fadhel", en: "Al-Fadhel Minaret" },
-    coordinates: { lat: 26.2392, lng: 50.5785 },
+    coords: [50.5785, 26.2392],
     description: {
       de: "Das Al-Fadhel-Minarett ist ein markantes historisches Bauwerk in Manama, bekannt für sein einzigartiges Design und seine bunten Mosaikfliesen.",
       hu: "Az Al-Fadhel minaret egy jellegzetes történelmi építmény Manamában, amely egyedi kialakításáról és színes mozaikcsempéiről ismert.",
@@ -3037,7 +3037,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-ras-ruman-quarter-history-v2",
     type: "landmark",
     name: { de: "Ras-Ruman-Viertel", hu: "Ras Ruman-negyed", ro: "Cartierul Ras Ruman", en: "Ras Ruman Quarter" },
-    coordinates: { lat: 26.2385, lng: 50.5862 },
+    coords: [50.5862, 26.2385],
     description: {
       de: "Ras Ruman ist einer der ältesten Stadtteile von Manama und bewahrt viele traditionelle Häuser und enge Gassen aus der Zeit vor dem Ölboom.",
       hu: "Ras Ruman Manama egyik legrégebbi negyede, amely számos hagyományos házat és szűk sikátort őriz az olajkorszak előtti időkből.",
@@ -3068,7 +3068,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-makharaqa-quarter-history-v2",
     type: "landmark",
     name: { de: "Makharaqa-Viertel", hu: "Makharaqa-negyed", ro: "Cartierul Makharaqa", en: "Makharaqa Quarter" },
-    coordinates: { lat: 26.2355, lng: 50.5788 },
+    coords: [50.5788, 26.2355],
     description: {
       de: "Makharaqa ist ein historisches Viertel im Herzen von Manama, das für seine kulturelle Vielfalt und seine traditionellen religiösen Gebäude bekannt ist.",
       hu: "Makharaqa egy történelmi negyed Manama szívében, amely kulturális sokszínűségéről és hagyományos vallási épületeiről ismert.",
@@ -3099,7 +3099,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-fariq-al-hammam-history-v2",
     type: "landmark",
     name: { de: "Fariq-al-Hammam", hu: "Fariq al-Hammam", ro: "Fariq al-Hammam", en: "Fariq al-Hammam" },
-    coordinates: { lat: 26.2342, lng: 50.5765 },
+    coords: [50.5765, 26.2342],
     description: {
       de: "Dieser historische Bezirk in Manama ist nach den alten öffentlichen Bädern (Hamam) benannt, die einst das soziale Leben des Viertels prägten.",
       hu: "Ez a manamai történelmi negyed a régi közfürdőkről (Hamam) kapta a nevét, amelyek egykor a környék társadalmi életének központjai voltak.",
@@ -3130,7 +3130,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-fariq-al-hatab-history-v2",
     type: "landmark",
     name: { de: "Fariq-al-Hatab", hu: "Fariq al-Hatab", ro: "Fariq al-Hatab", en: "Fariq al-Hatab" },
-    coordinates: { lat: 26.2368, lng: 50.5742 },
+    coords: [50.5742, 26.2368],
     description: {
       de: "Fariq al-Hatab war historisch das Viertel der Holzhändler. Es ist bekannt für seine bedeutende Rolle während religiöser Prozessionen.",
       hu: "Fariq al-Hatab történelmileg a fakereskedők negyede volt. Jelentős szerepéről ismert a vallási körmenetek idején.",
@@ -3161,7 +3161,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-fariq-el-kanis-history-v2",
     type: "landmark",
     name: { de: "Fariq-el-Kanis", hu: "Fariq el-Kanis", ro: "Fariq el-Kanis", en: "Fariq el-Kanis" },
-    coordinates: { lat: 26.2372, lng: 50.5735 },
+    coords: [50.5735, 26.2372],
     description: {
       de: "Fariq el-Kanis bedeutet Viertel der Kirche. Es ist ein historisches Gebiet in Manama, das die Koexistenz verschiedener Religionen zeigt.",
       hu: "A Fariq el-Kanis név jelentése: a templom negyede. Ez egy történelmi terület Manamában, amely a különböző vallások együttélését jelzi.",
@@ -3192,7 +3192,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-wasmiya-palace-history-v2",
     type: "palace",
     name: { de: "Al-Wasmiya-Palast", hu: "Al-Wasmiya palota", ro: "Palatul Al-Wasmiya", en: "Al-Wasmiya Palace" },
-    coordinates: { lat: 26.0805, lng: 50.5302 },
+    coords: [50.5302, 26.0805],
     description: {
       de: "Al-Wasmiya ist ein königlicher Palast in einer ruhigen Gegend, der für Staatsgäste und private königliche Versammlungen genutzt wird.",
       hu: "Al-Wasmiya egy királyi palota egy csendes területen, amelyet állami vendégek fogadására és magán királyi gyűlésekre használnak.",
@@ -3223,7 +3223,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-al-rawda-palace-history-v2",
     type: "palace",
     name: { de: "Al-Rawda-Palast", hu: "Al-Rawda palota", ro: "Palatul Al-Rawda", en: "Al-Rawda Palace" },
-    coordinates: { lat: 26.1102, lng: 50.5205 },
+    coords: [50.5205, 26.1102],
     description: {
       de: "Der Al-Rawda-Palast ist ein bedeutender königlicher Wohnsitz, der für seine prachtvolle Architektur und seine Rolle in der Geschichte der Al-Khalifa-Familie bekannt ist.",
       hu: "Az Al-Rawda palota egy jelentős királyi lakóhely, amely pompás építészetéről és az Al-Khalifa család történetében betöltött szerepéről ismert.",
@@ -3254,7 +3254,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "bahrain-janabiyah-graves-history-v2",
     type: "ruins",
     name: { de: "Janabiyah Gräberfeld", hu: "Janabiyah sírmező", ro: "Câmpul de morminte Janabiyah", en: "Janabiyah Graves" },
-    coordinates: { lat: 26.1955, lng: 50.4752 },
+    coords: [50.4752, 26.1955],
     description: {
       de: "Das Gräberfeld von Janabiyah beherbergt zahlreiche Dilmun-Hügel, die den Reichtum und die Bestattungstraditionen der antiken Bewohner zeigen.",
       hu: "A Janabiyah sírmező számos Dilmun-halmot őriz, amelyek az ókori lakók gazdagságát és temetkezési hagyományait mutatják be.",

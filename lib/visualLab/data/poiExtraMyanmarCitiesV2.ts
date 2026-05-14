@@ -637,7 +637,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-bhamo-cities-v2",
     type: "city",
     name: { de: "Bhamo", hu: "Bhamo", ro: "Bhamo", en: "Bhamo" },
-    coordinates: { lat: 24.26, lng: 97.23 },
+    coords: [97.23, 24.26],
     description: {
       de: "Bhamo liegt am Irrawaddy-Fluss im Bundesstaat Kachin. Die Stadt ist ein bedeutendes Handelszentrum nahe der chinesischen Grenze.",
       hu: "Bhamo az Irrawaddy folyó partján fekszik Kachin államban. Fontos kereskedelmi központ a kínai határ közelében.",
@@ -656,7 +656,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kalay-cities-v2",
     type: "city",
     name: { de: "Kalay", hu: "Kalay", ro: "Kalay", en: "Kalay" },
-    coordinates: { lat: 23.19, lng: 94.05 },
+    coords: [94.05, 23.19],
     description: {
       de: "Kalay, auch bekannt als Kalaymyo, ist eine Stadt im Sagaing-Distrikt. Sie dient als wichtiges Tor für den Handel mit Indien.",
       hu: "Kalay, más néven Kalaymyo, városa a Sagaing régióban található. Fontos kapuként szolgál az India felé irányuló kereskedelemben.",
@@ -675,7 +675,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-pyinmana-cities-v2",
     type: "city",
     name: { de: "Pyinmana", hu: "Pyinmana", ro: "Pyinmana", en: "Pyinmana" },
-    coordinates: { lat: 19.73, lng: 96.21 },
+    coords: [96.21, 19.73],
     description: {
       de: "Pyinmana ist ein landwirtschaftliches Zentrum im Unionsterritorium Naypyidaw. Die Stadt war während des Zweiten Weltkriegs ein Stützpunkt des Widerstands.",
       hu: "Pyinmana mezőgazdasági központ Naypyidaw szövetségi területén. A város az ellenállás bázisa volt a második világháború alatt.",
@@ -694,7 +694,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-tachileik-cities-v2",
     type: "city",
     name: { de: "Tachileik", hu: "Tachileik", ro: "Tachileik", en: "Tachileik" },
-    coordinates: { lat: 20.44, lng: 99.88 },
+    coords: [99.88, 20.44],
     description: {
       de: "Tachileik ist eine wichtige Grenzstadt im Bundesstaat Shan. Sie liegt direkt gegenüber der thailändischen Stadt Mae Sai im Goldenen Dreieck.",
       hu: "Tachileik fontos határváros Shan államban. Közvetlenül a thaiföldi Mae Sai várossal szemben fekszik az Aranyháromszögben.",
@@ -713,7 +713,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-hsipaw-cities-v2",
     type: "city",
     name: { de: "Hsipaw", hu: "Hsipaw", ro: "Hsipaw", en: "Hsipaw" },
-    coordinates: { lat: 22.62, lng: 97.3 },
+    coords: [97.3, 22.62],
     description: {
       de: "Hsipaw ist eine historische Stadt im nördlichen Shan-Staat. Sie war einst der Sitz eines bedeutenden Shan-Fürstentums.",
       hu: "Hsipaw történelmi város Észak-Shan államban. Egykor egy jelentős Shan fejedelemség székhelye volt.",
@@ -732,7 +732,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kyaukme-cities-v2",
     type: "city",
     name: { de: "Kyaukme", hu: "Kyaukme", ro: "Kyaukme", en: "Kyaukme" },
-    coordinates: { lat: 22.53, lng: 97.04 },
+    coords: [97.04, 22.53],
     description: {
       de: "Kyaukme ist eine Stadt in den nördlichen Shan-Bergen. Sie ist ein wichtiges Zentrum für die Teeproduktion und den Handel.",
       hu: "Kyaukme városa az északi Shan-hegységben található. A teatermelés és a kereskedelem egyik fontos központja.",
@@ -751,7 +751,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-minbu-cities-v2",
     type: "city",
     name: { de: "Minbu", hu: "Minbu", ro: "Minbu", en: "Minbu" },
-    coordinates: { lat: 20.18, lng: 94.88 },
+    coords: [94.88, 20.18],
     description: {
       de: "Minbu liegt am westlichen Ufer des Irrawaddy-Flusses in der Region Magway. Die Stadt ist bekannt für ihre geologischen Besonderheiten.",
       hu: "Minbu az Irrawaddy folyó nyugati partján fekszik a Magway régióban. A város geológiai különlegességeiről ismert.",
@@ -770,7 +770,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-yenangyaung-cities-v2",
     type: "city",
     name: { de: "Yenangyaung", hu: "Yenangyaung", ro: "Yenangyaung", en: "Yenangyaung" },
-    coordinates: { lat: 20.46, lng: 94.87 },
+    coords: [94.87, 20.46],
     description: {
       de: "Yenangyaung ist eine historische Ölstadt am Irrawaddy. Der Name bedeutet wörtlich 'Bach aus Öl-Wasser'.",
       hu: "Yenangyaung egy történelmi olajváros az Irrawaddy partján. A neve szó szerint 'olajos víz patakját' jelenti.",
@@ -789,7 +789,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-shwebo-cities-v2",
     type: "city",
     name: { de: "Shwebo", hu: "Shwebo", ro: "Shwebo", en: "Shwebo" },
-    coordinates: { lat: 22.57, lng: 95.7 },
+    coords: [95.7, 22.57],
     description: {
       de: "Shwebo diente im 18. Jahrhundert als Hauptstadt Myanmars. Die Stadt ist der Ursprungsort der Konbaung-Dynastie.",
       hu: "Shwebo a 18. században Mianmar fővárosaként szolgált. A város a Konbaung-dinasztia származási helye.",
@@ -808,7 +808,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-katha-cities-v2",
     type: "city",
     name: { de: "Katha", hu: "Katha", ro: "Katha", en: "Katha" },
-    coordinates: { lat: 24.18, lng: 96.33 },
+    coords: [96.33, 24.18],
     description: {
       de: "Katha ist eine charmante Flussstadt am Irrawaddy in der Region Sagaing. Sie wurde durch George Orwells Werk bekannt.",
       hu: "Katha egy bájos folyóparti város az Irrawaddy mentén a Sagaing régióban. George Orwell munkássága tette ismertté.",
@@ -827,7 +827,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-thanlyin-cities-v2",
     type: "city",
     name: { de: "Thanlyin", hu: "Thanlyin", ro: "Thanlyin", en: "Thanlyin" },
-    coordinates: { lat: 16.76, lng: 96.25 },
+    coords: [96.25, 16.76],
     description: {
       de: "Thanlyin, früher Syriam genannt, liegt südöstlich von Yangon. Die Stadt war historisch ein bedeutender Hafen für europäische Händler.",
       hu: "Thanlyin, korábbi nevén Syriam, Jangontól délkeletre fekszik. A város történelmileg fontos kikötő volt az európai kereskedők számára.",
@@ -846,7 +846,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-twante-cities-v2",
     type: "city",
     name: { de: "Twante", hu: "Twante", ro: "Twante", en: "Twante" },
-    coordinates: { lat: 16.71, lng: 95.93 },
+    coords: [95.93, 16.71],
     description: {
       de: "Twante ist eine Stadt in der Region Yangon, die für ihre traditionelle Töpferei bekannt ist. Sie liegt am Twante-Kanal.",
       hu: "Twante városa a Jangon régióban található, és hagyományos fazekasságáról ismert. A Twante-csatorna partján fekszik.",
@@ -865,7 +865,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-letpadan-cities-v2",
     type: "city",
     name: { de: "Letpadan", hu: "Letpadan", ro: "Letpadan", en: "Letpadan" },
-    coordinates: { lat: 17.78, lng: 95.75 },
+    coords: [95.75, 17.78],
     description: {
       de: "Letpadan ist eine bedeutende Stadt in der Region Bago. Sie dient als wichtiger Eisenbahnknotenpunkt zwischen Yangon und Pyay.",
       hu: "Letpadan jelentős város a Bago régióban. Fontos vasúti csomópontként szolgál Jangon és Pyay között.",
@@ -884,7 +884,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-pyu-cities-v2",
     type: "city",
     name: { de: "Pyu", hu: "Pyu", ro: "Pyu", en: "Pyu" },
-    coordinates: { lat: 18.48, lng: 96.43 },
+    coords: [96.43, 18.48],
     description: {
       de: "Pyu ist eine Stadt im Distrikt Taungoo in der Region Bago. Sie liegt an der Hauptstraße und Eisenbahnstrecke, die Yangon und Mandalay verbinden.",
       hu: "Pyu városa a Bago régió Taungoo körzetében található. A Jangont és Mandalayt összekötő főút és vasútvonal mentén fekszik.",
@@ -903,7 +903,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-nyaunglebin-cities-v2",
     type: "city",
     name: { de: "Nyaunglebin", hu: "Nyaunglebin", ro: "Nyaunglebin", en: "Nyaunglebin" },
-    coordinates: { lat: 17.94, lng: 96.73 },
+    coords: [96.73, 17.94],
     description: {
       de: "Nyaunglebin ist eine Stadt in der Region Bago. Sie ist ein bedeutendes Zentrum für die Reisverarbeitung und den Handel.",
       hu: "Nyaunglebin városa a Bago régióban található. Jelentős központja a rizsfeldolgozásnak és a kereskedelemnek.",
@@ -922,7 +922,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kyaikto-cities-v2",
     type: "city",
     name: { de: "Kyaikto", hu: "Kyaikto", ro: "Kyaikto", en: "Kyaikto" },
-    coordinates: { lat: 17.51, lng: 97.01 },
+    coords: [97.01, 17.51],
     description: {
       de: "Kyaikto ist eine Stadt im Bundesstaat Mon. Sie ist vor allem als Ausgangspunkt für Pilgerreisen zur Goldenen Fels-Pagode bekannt.",
       hu: "Kyaikto városa Mon államban található. Elsősorban az Aranyszikla-pagodához induló zarándoklatok kiindulópontjaként ismert.",
@@ -941,7 +941,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-mudon-cities-v2",
     type: "city",
     name: { de: "Mudon", hu: "Mudon", ro: "Mudon", en: "Mudon" },
-    coordinates: { lat: 16.26, lng: 97.72 },
+    coords: [97.72, 16.26],
     description: {
       de: "Mudon liegt südlich von Mawlamyine im Bundesstaat Mon. Die Stadt ist berühmt für die weltgrößte liegende Buddha-Statue.",
       hu: "Mudon Mawlamyine-től délre fekszik Mon államban. A város a világ legnagyobb fekvő Buddha-szobráról híres.",
@@ -960,7 +960,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-ye-cities-v2",
     type: "city",
     name: { de: "Ye", hu: "Ye", ro: "Ye", en: "Ye" },
-    coordinates: { lat: 15.25, lng: 97.85 },
+    coords: [97.85, 15.25],
     description: {
       de: "Ye ist eine Küstenstadt im südlichen Teil des Bundesstaates Mon. Sie liegt am Fluss Ye in der Nähe des Andamanischen Meeres.",
       hu: "Ye tengerparti város Mon állam déli részén. A Ye folyó partján fekszik, az Andamán-tenger közelében.",
@@ -979,7 +979,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kawthaung-cities-v2",
     type: "city",
     name: { de: "Kawthaung", hu: "Kawthaung", ro: "Kawthaung", en: "Kawthaung" },
-    coordinates: { lat: 9.98, lng: 98.55 },
+    coords: [98.55, 9.98],
     description: {
       de: "Kawthaung ist die südlichste Stadt Myanmars. Sie liegt an der Mündung des Kraburi-Flusses gegenüber von Ranong in Thailand.",
       hu: "Kawthaung Mianmar legdélebbi városa. A Kraburi folyó torkolatánál fekszik, szemben a thaiföldi Ranonggal.",
@@ -998,7 +998,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-maungdaw-cities-v2",
     type: "city",
     name: { de: "Maungdaw", hu: "Maungdaw", ro: "Maungdaw", en: "Maungdaw" },
-    coordinates: { lat: 20.82, lng: 92.36 },
+    coords: [92.36, 20.82],
     description: {
       de: "Maungdaw ist eine Grenzstadt im Bundesstaat Rakhine. Sie liegt am Fluss Naaf, der die natürliche Grenze zu Bangladesch bildet.",
       hu: "Maungdaw határváros Rakhine államban. A Naaf folyó partján fekszik, amely a természetes határt képezi Banglades felé.",
@@ -1017,7 +1017,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kyauktaw-cities-v2",
     type: "city",
     name: { de: "Kyauktaw", hu: "Kyauktaw", ro: "Kyauktaw", en: "Kyauktaw" },
-    coordinates: { lat: 20.85, lng: 92.97 },
+    coords: [92.97, 20.85],
     description: {
       de: "Kyauktaw ist eine historische Stadt am Fluss Kaladan im Bundesstaat Rakhine. Sie liegt in der Nähe der antiken Ruinen von Dhanyawadi.",
       hu: "Kyauktaw történelmi város a Kaladan folyó partján Rakhine államban. Dhanyawadi ősi romjainak közelében fekszik.",
@@ -1036,7 +1036,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-falam-cities-v2",
     type: "city",
     name: { de: "Falam", hu: "Falam", ro: "Falam", en: "Falam" },
-    coordinates: { lat: 22.91, lng: 93.68 },
+    coords: [93.68, 22.91],
     description: {
       de: "Falam ist eine bedeutende Stadt im Bundesstaat Chin. Sie war während der britischen Kolonialzeit das Verwaltungszentrum der Region.",
       hu: "Falam jelentős város Chin államban. A brit gyarmati korszakban a régió közigazgatási központja volt.",
@@ -1055,7 +1055,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-mindat-cities-v2",
     type: "city",
     name: { de: "Mindat", hu: "Mindat", ro: "Mindat", en: "Mindat" },
-    coordinates: { lat: 21.36, lng: 93.97 },
+    coords: [93.97, 21.36],
     description: {
       de: "Mindat ist eine Bergstadt im südlichen Chin-Staat. Sie ist bekannt für ihre einzigartige Kultur und als Ausgangspunkt zum Berg Victoria.",
       hu: "Mindat hegyi város Dél-Chin államban. Egyedülálló kultúrájáról és a Victoria-hegyhez vezető utak kiindulópontjaként ismert.",
@@ -1074,7 +1074,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-tedim-cities-v2",
     type: "city",
     name: { de: "Tedim", hu: "Tedim", ro: "Tedim", en: "Tedim" },
-    coordinates: { lat: 23.36, lng: 93.65 },
+    coords: [93.65, 23.36],
     description: {
       de: "Tedim ist die größte Stadt im Norden des Bundesstaates Chin. Sie liegt in einer malerischen Berglandschaft nahe der indischen Grenze.",
       hu: "Tedim Észak-Chin állam legnagyobb városa. Festői hegyi környezetben fekszik, az indiai határ közelében.",
@@ -1093,7 +1093,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-putao-cities-v2",
     type: "city",
     name: { de: "Putao", hu: "Putao", ro: "Putao", en: "Putao" },
-    coordinates: { lat: 27.33, lng: 97.4 },
+    coords: [97.4, 27.33],
     description: {
       de: "Putao ist die nördlichste Stadt Myanmars im Bundesstaat Kachin. Sie ist das Tor zu den schneebedeckten Gipfeln des Himalayas.",
       hu: "Putao Mianmar legészakibb városa Kachin államban. Ez a kapu a Himalája hófödte csúcsaihoz.",
@@ -1112,7 +1112,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-mohnyin-cities-v2",
     type: "city",
     name: { de: "Mohnyin", hu: "Mohnyin", ro: "Mohnyin", en: "Mohnyin" },
-    coordinates: { lat: 24.78, lng: 96.37 },
+    coords: [96.37, 24.78],
     description: {
       de: "Mohnyin ist eine Stadt im Bundesstaat Kachin. Sie liegt an einer wichtigen Eisenbahnverbindung und nahe dem Indawgyi-See.",
       hu: "Mohnyin városa Kachin államban található. Egy fontos vasútvonal mentén és az Indawgyi-tó közelében fekszik.",
@@ -1131,7 +1131,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-kalaw-cities-v2",
     type: "city",
     name: { de: "Kalaw", hu: "Kalaw", ro: "Kalaw", en: "Kalaw" },
-    coordinates: { lat: 20.62, lng: 96.56 },
+    coords: [96.56, 20.62],
     description: {
       de: "Kalaw ist eine ehemalige britische Bergstation im Shan-Staat. Die Stadt ist ein beliebtes Ziel für Wanderer und Naturliebhaber.",
       hu: "Kalaw egykori brit hegyi állomás Shan államban. A város a túrázók és a természetbarátok népszerű célpontja.",
@@ -1150,7 +1150,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-nyaungshwe-cities-v2",
     type: "city",
     name: { de: "Nyaungshwe", hu: "Nyaungshwe", ro: "Nyaungshwe", en: "Nyaungshwe" },
-    coordinates: { lat: 20.65, lng: 96.93 },
+    coords: [96.93, 20.65],
     description: {
       de: "Nyaungshwe ist das touristische Tor zum Inle-See im Shan-Staat. Die Stadt war historisch die Hauptstadt des Shan-Fürstentums Yawnghwe.",
       hu: "Nyaungshwe az Inle-tó turisztikai kapuja Shan államban. Történelmileg a Yawnghwe Shan fejedelemség fővárosa volt.",
@@ -1169,7 +1169,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-myitnge-cities-v2",
     type: "city",
     name: { de: "Myitnge", hu: "Myitnge", ro: "Myitnge", en: "Myitnge" },
-    coordinates: { lat: 21.85, lng: 96.12 },
+    coords: [96.12, 21.85],
     description: {
       de: "Myitnge ist eine Industriestadt südlich von Mandalay. Sie liegt am gleichnamigen Fluss Myitnge.",
       hu: "Myitnge iparváros Mandalay-től délre. Az azonos nevű Myitnge folyó partján fekszik.",
@@ -1188,7 +1188,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "myanmar-wundwin-cities-v2",
     type: "city",
     name: { de: "Wundwin", hu: "Wundwin", ro: "Wundwin", en: "Wundwin" },
-    coordinates: { lat: 21.1, lng: 96.04 },
+    coords: [96.04, 21.1],
     description: {
       de: "Wundwin ist eine Stadt in der Region Mandalay. Sie ist ein bedeutendes Zentrum für die Textilherstellung und Weberei.",
       hu: "Wundwin városa a Mandalay régióban található. A textilgyártás és szövés jelentős központja.",

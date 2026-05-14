@@ -5,7 +5,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nanumanga-caves-history-v2",
     type: "ruins",
     name: { de: "Feuerhöhlen von Nanumanga", hu: "Nanumanga tűzbarlangok", ro: "Peșterile de foc din Nanumanga", en: "Fire Caves of Nanumanga" },
-    coordinates: { lat: -6.2833, lng: 176.3167 },
+    coords: [176.3167, -6.2833],
     description: {
       de: "Diese 1986 entdeckten Unterwasserhöhlen enthalten Spuren von prähistorischen Feuerstellen. Sie belegen eine menschliche Besiedlung vor dem Anstieg des Meeresspiegels.",
       hu: "Az 1986-ban felfedezett víz alatti barlangok prehisztorikus tűzrakóhelyek nyomait őrzik. Bizonyítékot szolgáltatnak a tengerszint emelkedése előtti lakottságra.",
@@ -24,7 +24,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-davids-drill-history-v2",
     type: "landmark",
     name: { de: "Davids Bohrloch", hu: "David-fúrás", ro: "Forajul lui David", en: "David's Drill" },
-    coordinates: { lat: -8.5208, lng: 179.1917 },
+    coords: [179.1917, -8.5208],
     description: {
       de: "Standort einer wissenschaftlichen Bohrung der Royal Society aus dem Jahr 1896. Das Experiment sollte Charles Darwins Theorie zur Korallenriffbildung belegen.",
       hu: "A Royal Society 1896-os tudományos fúrásának helyszíne Funafutin. A kísérlet Charles Darwin korallzátony-képződési elméletét hivatott igazolni.",
@@ -43,7 +43,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nanumea-airfield-history-v2",
     type: "landmark",
     name: { de: "Nanumea Flugplatz", hu: "Nanumea repülőtér", ro: "Aerodromul Nanumea", en: "Nanumea Airfield" },
-    coordinates: { lat: -5.6761, lng: 176.1264 },
+    coords: [176.1264, -5.6761],
     description: {
       de: "Ein wichtiger US-Luftwaffenstützpunkt, der 1943 während des Zweiten Weltkriegs erbaut wurde. Er diente als Basis für Angriffe auf japanische Stellungen.",
       hu: "A második világháború alatt, 1943-ban épült fontos amerikai légitámaszpont. B-24-es bombázók bázisaként szolgált a japán állások elleni támadásokhoz.",
@@ -62,7 +62,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nukufetau-airfield-history-v2",
     type: "landmark",
     name: { de: "Nukufetau Flugplatz", hu: "Nukufetau repülőtér", ro: "Aerodromul Nukufetau", en: "Nukufetau Airfield" },
-    coordinates: { lat: -8.0167, lng: 178.5 },
+    coords: [178.5, -8.0167],
     description: {
       de: "Dieser 1943 errichtete Stützpunkt der US-Marine half bei der Überwachung des Pazifiks. Die X-förmige Landebahn ist heute noch aus der Luft erkennbar.",
       hu: "Az 1943-ban létesített amerikai tengerészgyalogos bázis a Csendes-óceán ellenőrzését segítette. Az X-alakú kifutópálya ma is felismerhető a levegőből.",
@@ -81,7 +81,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-motufoua-school-history-v2",
     type: "university",
     name: { de: "Motufoua Sekundarschule", hu: "Motufoua Középiskola", ro: "Școala Secundară Motufoua", en: "Motufoua Secondary School" },
-    coordinates: { lat: -7.4833, lng: 178.6833 },
+    coords: [178.6833, -7.4833],
     description: {
       de: "Die 1905 gegründete Schule ist das älteste Bildungszentrum von Tuvalu. Sie spielte eine zentrale Rolle bei der Ausbildung der nationalen Elite.",
       hu: "Az 1905-ben alapított iskola Tuvalu legrégebbi oktatási központja. Meghatározó szerepet játszott a nemzeti értelmiség képzésében.",
@@ -100,7 +100,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-funafuti-war-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal von Funafuti", hu: "Funafuti háborús emlékmű", ro: "Monumentul de Război din Funafuti", en: "Funafuti War Memorial" },
-    coordinates: { lat: -8.5242, lng: 179.1944 },
+    coords: [179.1944, -8.5242],
     description: {
       de: "Dieses Denkmal erinnert an die Zusammenarbeit zwischen Tuvaluern und US-Truppen im Zweiten Weltkrieg. Es ehrt die Opfer des Pazifikkrieges.",
       hu: "Ez az emlékmű a tuvaluiak és az amerikai csapatok második világháborús együttműködésének állít emléket. A csendes-óceáni háború áldozatai előtt tiszteleg.",
@@ -119,7 +119,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-tepuka-bunker-history-v2",
     type: "ruins",
     name: { de: "Tepuka-Insel Bunker", hu: "Tepuka-szigeti bunker", ro: "Buncărul de pe Insula Tepuka", en: "Tepuka Islet Bunker" },
-    coordinates: { lat: -8.4772, lng: 179.0833 },
+    coords: [179.0833, -8.4772],
     description: {
       de: "Ein gut erhaltener Betonbunker der US-Marine auf der unbewohnten Insel Tepuka. Er diente während des Pazifikkrieges als Beobachtungs- und Kommunikationsposten.",
       hu: "Egy jól megőrzött amerikai tengerészeti betonbunker a lakatlan Tepuka-szigeten. Megfigyelő- és kommunikációs állomásként szolgált a háború alatt.",
@@ -138,7 +138,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-fongafale-hospital-history-v2",
     type: "landmark",
     name: { de: "Ehemaliges WWII-Krankenhaus", hu: "Egykori WWII kórházhelyszín", ro: "Fostul Spital din WWII", en: "Former WWII Hospital Site" },
-    coordinates: { lat: -8.515, lng: 179.195 },
+    coords: [179.195, -8.515],
     description: {
       de: "Standort des provisorischen US-Militärkrankenhauses auf Fongafale während der 1940er Jahre. Hier wurden verwundete Soldaten aus den Schlachten im Gilbert-Archipel versorgt.",
       hu: "Az ideiglenes amerikai katonai kórház helyszíne Fongafale szigetén az 1940-es években. Itt ápolták a Gilbert-szigeteki csaták sebesült katonáit.",
@@ -157,7 +157,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nukulaelae-altar-history-v2",
     type: "ruins",
     name: { de: "Vorchristlicher Altar von Nukulaelae", hu: "Nukulaelae kereszténység előtti oltára", ro: "Altarul precreștin din Nukulaelae", en: "Nukulaelae Pre-Christian Altar" },
-    coordinates: { lat: -9.3833, lng: 179.85 },
+    coords: [179.85, -9.3833],
     description: {
       de: "Überreste einer antiken religiösen Stätte auf dem Atoll Nukulaelae. Der Ort diente vor der Ankunft der Missionare im 19. Jahrhundert rituellen Zwecken.",
       hu: "Egy ősi vallási helyszín maradványai Nukulaelae atollján. A helyszín rituális célokat szolgált a misszionáriusok 19. századi érkezése előtt.",
@@ -176,7 +176,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-vaitupu-colonial-building-history-v2",
     type: "landmark",
     name: { de: "Kolonialhaus von Vaitupu", hu: "Vaitupu koloniális épülete", ro: "Clădirea Colonială din Vaitupu", en: "Vaitupu Colonial Building" },
-    coordinates: { lat: -7.485, lng: 178.675 },
+    coords: [178.675, -7.485],
     description: {
       de: "Dieses Gebäude stammt aus der Zeit der britischen Kolonialverwaltung der Gilbert- und Elliceinseln. Es spiegelt die Architektur des frühen 20. Jahrhunderts wider.",
       hu: "Ez az épület a Gilbert- és Ellice-szigetek brit gyarmati igazgatásának idejéből származik. A 20. század eleji építészetet tükrözi.",
@@ -195,7 +195,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nanumea-church-history-v2",
     type: "church",
     name: { de: "Dorfkirche von Nanumea", hu: "Nanumea falusi templom", ro: "Biserica din Nanumea", en: "Nanumea Village Church" },
-    coordinates: { lat: -5.675, lng: 176.125 },
+    coords: [176.125, -5.675],
     description: {
       de: "Ein bedeutendes religiöses Zentrum, das in den 1930er Jahren von der lokalen Gemeinschaft erbaut wurde. Sie zeugt von der starken christlichen Tradition der Insel.",
       hu: "Jelentős vallási központ, amelyet az 1930-as években épített a helyi közösség. A sziget erős keresztény hagyományait reprezentálja.",
@@ -214,7 +214,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-amatuku-school-history-v2",
     type: "landmark",
     name: { de: "Amatuku Seefahrerschule", hu: "Amatuku Tengerészeti Iskola", ro: "Școala de Marină Amatuku", en: "Amatuku Seamen's School" },
-    coordinates: { lat: -8.5217, lng: 179.1833 },
+    coords: [179.1833, -8.5217],
     description: {
       de: "Historische Ausbildungsstätte für Seeleute, die Tuvalus maritime Identität prägte. Die Schule wurde in der späten Kolonialzeit gegründet, um lokale Fachkräfte zu schulen.",
       hu: "Történelmi képzőhely tengerészek számára, amely meghatározta Tuvalu tengeri identitását. A késő gyarmati korszakban alapították helyi szakemberek képzésére.",
@@ -233,7 +233,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-nui-maneapa-history-v2",
     type: "landmark",
     name: { de: "Traditionelles Maneapa von Nui", hu: "Nui tradicionális Maneapája", ro: "Maneapa tradițională din Nui", en: "Nui Traditional Maneapa" },
-    coordinates: { lat: -7.2333, lng: 177.15 },
+    coords: [177.15, -7.2333],
     description: {
       de: "Ein jahrhundertealtes traditionelles Versammlungshaus auf der Insel Nui. Es ist das kulturelle Herz der Insel, in dem alle wichtigen politischen Entscheidungen fallen.",
       hu: "Évszázados hagyományos gyülekezeti ház Nui szigetén. A sziget kulturális szíve, ahol minden fontos politikai döntés születik.",
@@ -252,7 +252,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-funafuti-wrecks-history-v2",
     type: "landmark",
     name: { de: "Schiffswracks der Funafuti-Lagune", hu: "Funafuti-lagúna hajóroncsai", ro: "Epavele din Laguna Funafuti", en: "Funafuti Lagoon Wrecks" },
-    coordinates: { lat: -8.5167, lng: 179.1833 },
+    coords: [179.1833, -8.5167],
     description: {
       de: "Unterwasserreste von US-Landungsbooten und Ausrüstung aus dem Zweiten Weltkrieg. Die Wracks liegen in den flachen Gewässern der Lagune und ziehen heute Taucher an.",
       hu: "Amerikai naszádok és katonai felszerelések víz alatti maradványai a második világháborúból. A roncsok a lagúna sekély vizeiben fekszenek.",
@@ -271,7 +271,7 @@ export const tuvaluHistoryV2: POI[] = [
     id: "tuvalu-national-archives-history-v2",
     type: "museum",
     name: { de: "Nationalarchiv von Tuvalu", hu: "Tuvalu Nemzeti Archívuma", ro: "Arhivele Naționale din Tuvalu", en: "Tuvalu National Archives" },
-    coordinates: { lat: -8.521, lng: 179.191 },
+    coords: [179.191, -8.521],
     description: {
       de: "Dieses Archiv bewahrt wichtige Dokumente zur Unabhängigkeit Tuvalus im Jahr 1978 auf. Es beherbergt zudem genealogische Aufzeichnungen und koloniale Berichte.",
       hu: "Ez az archívum őrzi Tuvalu 1978-as függetlenedésének fontos dokumentumait. Genealógiai feljegyzéseket és gyarmati jelentéseket is tárolnak itt.",

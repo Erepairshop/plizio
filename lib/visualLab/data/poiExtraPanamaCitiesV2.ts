@@ -304,7 +304,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-la-chorrera-cities-v2",
     type: "city",
     name: { de: "La Chorrera", hu: "La Chorrera", ro: "La Chorrera", en: "La Chorrera" },
-    coordinates: { lat: 8.8821, lng: -79.7849 },
+    coords: [-79.7849, 8.8821],
     description: {
       de: "La Chorrera liegt westlich der Panamakanal-Zone und ist das Verwaltungszentrum der Provinz Panamá Oeste. Die Stadt ist ein bedeutender Knotenpunkt für den Handel zwischen der Hauptstadt und dem Landesinneren.",
       hu: "La Chorrera a Panamái-csatorna övezetétől nyugatra fekszik, és Panamá Oeste tartomány közigazgatási központja. A város fontos kereskedelmi csomópont a főváros és az ország belseje között.",
@@ -323,7 +323,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-penonome-cities-v2",
     type: "city",
     name: { de: "Penonomé", hu: "Penonomé", ro: "Penonomé", en: "Penonomé" },
-    coordinates: { lat: 8.5186, lng: -80.3542 },
+    coords: [-80.3542, 8.5186],
     description: {
       de: "Penonomé ist die Hauptstadt der Provinz Coclé im zentralen Panama. Die Stadt dient als zentraler Marktort für die umliegenden landwirtschaftlichen Regionen.",
       hu: "Penonomé Coclé tartomány fővárosa Panama középső részén. A város központi piactérként szolgál a környező mezőgazdasági régiók számára.",
@@ -342,7 +342,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-las-tablas-cities-v2",
     type: "city",
     name: { de: "Las Tablas", hu: "Las Tablas", ro: "Las Tablas", en: "Las Tablas" },
-    coordinates: { lat: 7.7686, lng: -80.2725 },
+    coords: [-80.2725, 7.7686],
     description: {
       de: "Las Tablas ist die Hauptstadt der Provinz Los Santos auf der Azuero-Halbinsel. Die Stadt ist für ihre traditionellen Folklore-Festivals bekannt.",
       hu: "Las Tablas Los Santos tartomány fővárosa az Azuero-félszigeten. A város a hagyományos folklórfesztiváljairól ismert.",
@@ -361,7 +361,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-aguadulce-cities-v2",
     type: "city",
     name: { de: "Aguadulce", hu: "Aguadulce", ro: "Aguadulce", en: "Aguadulce" },
-    coordinates: { lat: 8.2364, lng: -80.5486 },
+    coords: [-80.5486, 8.2364],
     description: {
       de: "Aguadulce liegt in der Provinz Coclé nahe der Pazifikküste. Die Wirtschaft der Stadt basiert primär auf dem Zuckerrohranbau und der Salzgewinnung.",
       hu: "Aguadulce Coclé tartományban található, a Csendes-óceán partjának közelében. A város gazdasága elsősorban a cukornádtermesztésen és a sóbányászaton alapul.",
@@ -380,7 +380,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-volcan-cities-v2",
     type: "city",
     name: { de: "Volcán", hu: "Volcán", ro: "Volcán", en: "Volcán" },
-    coordinates: { lat: 8.7733, lng: -82.6375 },
+    coords: [-82.6375, 8.7733],
     description: {
       de: "Volcán liegt im Hochland der Provinz Chiriquí in der Nähe des Vulkans Barú. Aufgrund seiner Höhenlage herrscht hier ein deutlich kühleres Klima als im Tiefland.",
       hu: "Volcán Chiriquí tartomány felföldjén fekszik, a Barú vulkán közelében. Magassága miatt itt lényegesen hűvösebb az éghajlat, mint az alföldön.",
@@ -399,7 +399,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-meteti-cities-v2",
     type: "city",
     name: { de: "Metetí", hu: "Metetí", ro: "Metetí", en: "Metetí" },
-    coordinates: { lat: 8.3975, lng: -77.7289 },
+    coords: [-77.7289, 8.3975],
     description: {
       de: "Metetí ist die größte Ortschaft in der Provinz Darién. Sie dient als wichtiges logistisches Zentrum für die abgelegene Region nahe der kolumbianischen Grenze.",
       hu: "Metetí a Darién tartomány legnagyobb települése. Fontos logisztikai központként szolgál a kolumbiai határ melletti távoli régió számára.",
@@ -418,7 +418,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-changuinola-cities-v2",
     type: "city",
     name: { de: "Changuinola", hu: "Changuinola", ro: "Changuinola", en: "Changuinola" },
-    coordinates: { lat: 9.4319, lng: -82.5125 },
+    coords: [-82.5125, 9.4319],
     description: {
       de: "Changuinola liegt in der Provinz Bocas del Toro an der Grenze zu Costa Rica. Die Stadt ist ein bedeutendes Zentrum für den Bananenexport.",
       hu: "Changuinola Bocas del Toro tartományban fekszik, Costa Rica határánál. A város a banánexport jelentős központja.",
@@ -437,7 +437,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-puerto-armuelles-cities-v2",
     type: "city",
     name: { de: "Puerto Armuelles", hu: "Puerto Armuelles", ro: "Puerto Armuelles", en: "Puerto Armuelles" },
-    coordinates: { lat: 8.2833, lng: -82.8667 },
+    coords: [-82.8667, 8.2833],
     description: {
       de: "Puerto Armuelles ist eine Hafenstadt in der Provinz Chiriquí an der Pazifikküste. Die Stadt hat eine lange Geschichte als Umschlagplatz für landwirtschaftliche Produkte.",
       hu: "Puerto Armuelles egy kikötőváros Chiriquí tartományban, a csendes-óceáni parton. A város hosszú múltra tekint vissza a mezőgazdasági termékek átrakodóhelyeként.",
@@ -456,7 +456,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-chepo-cities-v2",
     type: "city",
     name: { de: "Chepo", hu: "Chepo", ro: "Chepo", en: "Chepo" },
-    coordinates: { lat: 9.1667, lng: -79.1 },
+    coords: [-79.1, 9.1667],
     description: {
       de: "Chepo liegt östlich von Panama-Stadt und fungiert als Brücke zwischen der urbanen Metropolregion und den ländlichen Gebieten im Osten des Landes.",
       hu: "Chepo Panama-várostól keletre fekszik, és hídként szolgál a városi agglomeráció és az ország keleti részének vidéki területei között.",
@@ -475,7 +475,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-santos-city-cities-v2",
     type: "city",
     name: { de: "Los Santos", hu: "Los Santos", ro: "Los Santos", en: "Los Santos" },
-    coordinates: { lat: 7.9333, lng: -80.4167 },
+    coords: [-80.4167, 7.9333],
     description: {
       de: "Los Santos ist eine Stadt in der gleichnamigen Provinz auf der Halbinsel Azuero. Die Gegend ist historisch bedeutend als Zentrum der Unabhängigkeitsbewegung.",
       hu: "Los Santos a hasonló nevű tartomány városa az Azuero-félszigeten. A terület történelmileg jelentős, mint a függetlenségi mozgalom központja.",
@@ -494,7 +494,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-el-porvenir-cities-v2",
     type: "city",
     name: { de: "El Porvenir", hu: "El Porvenir", ro: "El Porvenir", en: "El Porvenir" },
-    coordinates: { lat: 9.55, lng: -78.95 },
+    coords: [-78.95, 9.55],
     description: {
       de: "El Porvenir liegt im Gebiet der indigenen Guna Yala Comarca. Es ist das administrative Zentrum für den autonomen Inseldistrikt.",
       hu: "El Porvenir a Guna Yala őslakos régióban található. Ez az autonóm szigetkerület közigazgatási központja.",
@@ -513,7 +513,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-almirante-cities-v2",
     type: "city",
     name: { de: "Almirante", hu: "Almirante", ro: "Almirante", en: "Almirante" },
-    coordinates: { lat: 9.2964, lng: -82.3944 },
+    coords: [-82.3944, 9.2964],
     description: {
       de: "Almirante ist eine Hafenstadt in der Provinz Bocas del Toro. Sie fungiert als Hauptumschlagplatz für Waren, die zu den Bocas-Inseln transportiert werden.",
       hu: "Almirante kikötőváros Bocas del Toro tartományban. Fő átrakodóhelyként szolgál a Bocas-szigetekre szállított áruk számára.",
@@ -532,7 +532,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-capira-cities-v2",
     type: "city",
     name: { de: "Capira", hu: "Capira", ro: "Capira", en: "Capira" },
-    coordinates: { lat: 8.8167, lng: -79.9333 },
+    coords: [-79.9333, 8.8167],
     description: {
       de: "Capira ist eine Stadt in der Provinz Panamá Oeste. Die Umgebung ist von bergigem Gelände und landwirtschaftlicher Nutzung geprägt.",
       hu: "Capira Panamá Oeste tartomány városa. A környezetet hegyvidéki terep és mezőgazdasági hasznosítás jellemzi.",
@@ -551,7 +551,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-oca-cities-v2",
     type: "city",
     name: { de: "Ocú", hu: "Ocú", ro: "Ocú", en: "Ocú" },
-    coordinates: { lat: 7.95, lng: -80.7833 },
+    coords: [-80.7833, 7.95],
     description: {
       de: "Ocú ist eine historische Stadt in der Provinz Herrera. Sie ist berühmt für die Wahrung traditioneller panamaischer Bräuche.",
       hu: "Ocú történelmi város Herrera tartományban. Híres a hagyományos panamai szokások megőrzéséről.",
@@ -570,7 +570,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-parita-cities-v2",
     type: "city",
     name: { de: "Parita", hu: "Parita", ro: "Parita", en: "Parita" },
-    coordinates: { lat: 8.0167, lng: -80.5 },
+    coords: [-80.5, 8.0167],
     description: {
       de: "Parita ist eine der ältesten Kolonialstädte in der Provinz Herrera. Die Architektur des Zentrums spiegelt die spanische Kolonialzeit wider.",
       hu: "Parita Herrera tartomány egyik legrégebbi gyarmati városa. A központ építészete a spanyol gyarmati időszakot tükrözi.",
@@ -589,7 +589,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-la-villa-de-los-santos-cities-v2",
     type: "city",
     name: { de: "La Villa de los Santos", hu: "La Villa de los Santos", ro: "La Villa de los Santos", en: "La Villa de los Santos" },
-    coordinates: { lat: 7.9333, lng: -80.4 },
+    coords: [-80.4, 7.9333],
     description: {
       de: "La Villa de los Santos ist ein bedeutender historischer Ort in der Provinz Los Santos. Die Stadt ist eng mit der Unabhängigkeitsgeschichte verbunden.",
       hu: "La Villa de los Santos jelentős történelmi helyszín Los Santos tartományban. A város szorosan kapcsolódik a függetlenség történetéhez.",
@@ -608,7 +608,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-bugaba-cities-v2",
     type: "city",
     name: { de: "Bugaba", hu: "Bugaba", ro: "Bugaba", en: "Bugaba" },
-    coordinates: { lat: 8.4833, lng: -82.6167 },
+    coords: [-82.6167, 8.4833],
     description: {
       de: "Bugaba ist ein wichtiges landwirtschaftliches Zentrum in der Provinz Chiriquí. Die Stadt ist für ihre Viehzucht bekannt.",
       hu: "Bugaba fontos mezőgazdasági központ Chiriquí tartományban. A város az állattenyésztéséről ismert.",
@@ -627,7 +627,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-pedasi-cities-v2",
     type: "city",
     name: { de: "Pedasí", hu: "Pedasí", ro: "Pedasí", en: "Pedasí" },
-    coordinates: { lat: 7.55, lng: -80.0333 },
+    coords: [-80.0333, 7.55],
     description: {
       de: "Pedasí ist eine kleine Küstenstadt in der Provinz Los Santos. Sie zieht Surfer und Touristen aufgrund ihrer unberührten Strände an.",
       hu: "Pedasí kis tengerparti város Los Santos tartományban. A szörfösöket és a turistákat vonzza az érintetlen strandjai miatt.",
@@ -646,7 +646,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-tonosi-cities-v2",
     type: "city",
     name: { de: "Tonosí", hu: "Tonosí", ro: "Tonosí", en: "Tonosí" },
-    coordinates: { lat: 7.4333, lng: -80.4333 },
+    coords: [-80.4333, 7.4333],
     description: {
       de: "Tonosí ist eine Ortschaft im Süden der Provinz Los Santos. Die Region ist landwirtschaftlich geprägt und grenzt an den Pazifik.",
       hu: "Tonosí település Los Santos tartomány déli részén. A régiót mezőgazdaság jellemzi, és a Csendes-óceánnal határos.",
@@ -665,7 +665,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-sona-cities-v2",
     type: "city",
     name: { de: "Soná", hu: "Soná", ro: "Soná", en: "Soná" },
-    coordinates: { lat: 8.1667, lng: -81.3 },
+    coords: [-81.3, 8.1667],
     description: {
       de: "Soná ist eine Stadt in der Provinz Veraguas. Sie ist ein wichtiger Handelsplatz für die umliegenden ländlichen Gemeinden.",
       hu: "Soná város Veraguas tartományban. Fontos kereskedelmi központ a környező vidéki közösségek számára.",
@@ -684,7 +684,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-calobre-cities-v2",
     type: "city",
     name: { de: "Calobre", hu: "Calobre", ro: "Calobre", en: "Calobre" },
-    coordinates: { lat: 8.3667, lng: -80.7667 },
+    coords: [-80.7667, 8.3667],
     description: {
       de: "Calobre ist eine Gemeinde in der Provinz Veraguas. Die Umgebung ist geprägt durch landwirtschaftliche Nutzflächen und hügelige Landschaften.",
       hu: "Calobre település Veraguas tartományban. A környezetet mezőgazdasági területek és dombvidéki tájak jellemzik.",
@@ -703,7 +703,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-las-minas-cities-v2",
     type: "city",
     name: { de: "Las Minas", hu: "Las Minas", ro: "Las Minas", en: "Las Minas" },
-    coordinates: { lat: 7.85, lng: -80.7667 },
+    coords: [-80.7667, 7.85],
     description: {
       de: "Las Minas ist ein kleiner Ort in der Provinz Herrera. Die Gegend ist bekannt für ihre ländliche Lebensweise und Viehzucht.",
       hu: "Las Minas kis település Herrera tartományban. A környék a vidéki életmódjáról és az állattenyésztéséről ismert.",
@@ -722,7 +722,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-maca-cities-v2",
     type: "city",
     name: { de: "Macaracas", hu: "Macaracas", ro: "Macaracas", en: "Macaracas" },
-    coordinates: { lat: 7.6333, lng: -80.4833 },
+    coords: [-80.4833, 7.6333],
     description: {
       de: "Macaracas liegt in der Provinz Los Santos. Es ist ein Zentrum für den Anbau von Reis und Mais in der Region.",
       hu: "Macaracas Los Santos tartományban található. A rizs és a kukorica termesztésének központja a régióban.",
@@ -741,7 +741,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-ponuga-cities-v2",
     type: "city",
     name: { de: "Ponuga", hu: "Ponuga", ro: "Ponuga", en: "Ponuga" },
-    coordinates: { lat: 7.9, lng: -80.9167 },
+    coords: [-80.9167, 7.9],
     description: {
       de: "Ponuga ist ein Ort in der Provinz Veraguas. Die Gemeinde ist hauptsächlich in der Landwirtschaft und Viehzucht tätig.",
       hu: "Ponuga Veraguas tartományban található település. A közösség főként mezőgazdasággal és állattenyésztéssel foglalkozik.",
@@ -760,7 +760,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-dolega-cities-v2",
     type: "city",
     name: { de: "Dolega", hu: "Dolega", ro: "Dolega", en: "Dolega" },
-    coordinates: { lat: 8.5333, lng: -82.4333 },
+    coords: [-82.4333, 8.5333],
     description: {
       de: "Dolega liegt in der Provinz Chiriquí. Die Stadt dient als Bindeglied zwischen der Provinzhauptstadt David und den Bergregionen.",
       hu: "Dolega Chiriquí tartományban fekszik. A város összekötő kapocsként szolgál David tartományi székhely és a hegyvidéki régiók között.",
@@ -779,7 +779,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-volcan-baru-town-cities-v2",
     type: "city",
     name: { de: "Volcán Barú Stadt", hu: "Volcán Barú Város", ro: "Volcán Barú Oraș", en: "Volcán Barú Town" },
-    coordinates: { lat: 8.8167, lng: -82.5 },
+    coords: [-82.5, 8.8167],
     description: {
       de: "Diese Siedlung liegt am Fuße des Vulkans Barú in Chiriquí. Sie dient als wichtiger Ausgangspunkt für Expeditionen in den Nationalpark.",
       hu: "Ez a település a Barú vulkán lábánál fekszik Chiriquíben. Fontos kiindulópontként szolgál a nemzeti parkba irányuló expedíciókhoz.",
@@ -798,7 +798,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-tola-cities-v2",
     type: "city",
     name: { de: "Tolé", hu: "Tolé", ro: "Tolé", en: "Tolé" },
-    coordinates: { lat: 8.2333, lng: -81.7 },
+    coords: [-81.7, 8.2333],
     description: {
       de: "Tolé ist eine Stadt in der Provinz Chiriquí. Die Gemeinde ist stark landwirtschaftlich geprägt und grenzt an bergige Regionen.",
       hu: "Tolé város Chiriquí tartományban. A közösséget erősen jellemzi a mezőgazdaság, és hegyvidéki régiókkal határos.",
@@ -817,7 +817,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-cortezo-cities-v2",
     type: "city",
     name: { de: "Cortezo", hu: "Cortezo", ro: "Cortezo", en: "Cortezo" },
-    coordinates: { lat: 8.35, lng: -82.1667 },
+    coords: [-82.1667, 8.35],
     description: {
       de: "Cortezo ist eine kleine Siedlung in der Provinz Chiriquí. Sie ist landwirtschaftlich ausgerichtet und liegt in einer grünen Hügellandschaft.",
       hu: "Cortezo kis település Chiriquí tartományban. Mezőgazdasági jellegű, és zöld dombvidéki tájban fekszik.",
@@ -836,7 +836,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-guabito-cities-v2",
     type: "city",
     name: { de: "Guabito", hu: "Guabito", ro: "Guabito", en: "Guabito" },
-    coordinates: { lat: 9.5167, lng: -82.6333 },
+    coords: [-82.6333, 9.5167],
     description: {
       de: "Guabito ist ein Grenzort in der Provinz Bocas del Toro. Er liegt direkt an der Grenze zu Costa Rica am Fluss Sixaola.",
       hu: "Guabito határ menti település Bocas del Toro tartományban. Közvetlenül Costa Rica határán, a Sixaola folyó mellett fekszik.",
@@ -855,7 +855,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-isla-colon-town-cities-v2",
     type: "city",
     name: { de: "Bocas Stadt", hu: "Bocas Város", ro: "Orașul Bocas", en: "Bocas Town" },
-    coordinates: { lat: 9.3333, lng: -82.25 },
+    coords: [-82.25, 9.3333],
     description: {
       de: "Bocas Stadt ist das wirtschaftliche Zentrum auf der Isla Colón in Bocas del Toro. Es ist ein beliebter Ausgangspunkt für Insel-Touren.",
       hu: "Bocas város a gazdasági központ az Isla Colónon, Bocas del Toro tartományban. Népszerű kiindulópont szigettúrákhoz.",
@@ -874,7 +874,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-baja-boquete-cities-v2",
     type: "city",
     name: { de: "Baja Boquete", hu: "Baja Boquete", ro: "Baja Boquete", en: "Baja Boquete" },
-    coordinates: { lat: 8.7667, lng: -82.45 },
+    coords: [-82.45, 8.7667],
     description: {
       de: "Baja Boquete liegt in einer tieferen Lage des Boquete-Tals in Chiriquí. Es ist bekannt für seine fruchtbaren Böden und Landwirtschaft.",
       hu: "Baja Boquete a Boquete-völgy mélyebb részén fekszik Chiriquíben. Termékeny talajáról és mezőgazdaságáról ismert.",
@@ -893,7 +893,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-sereno-cities-v2",
     type: "city",
     name: { de: "Sereno", hu: "Sereno", ro: "Sereno", en: "Sereno" },
-    coordinates: { lat: 8.85, lng: -82.8 },
+    coords: [-82.8, 8.85],
     description: {
       de: "Sereno ist eine Ortschaft in der Provinz Chiriquí, nahe der Grenze zu Costa Rica. Sie ist ländlich geprägt und vom Kaffeeanbau beeinflusst.",
       hu: "Sereno település Chiriquí tartományban, közel Costa Rica határához. Vidéki jellegű és a kávétermesztés befolyásolja.",
@@ -912,7 +912,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-jurutungo-cities-v2",
     type: "city",
     name: { de: "Jurutungo", hu: "Jurutungo", ro: "Jurutungo", en: "Jurutungo" },
-    coordinates: { lat: 8.9167, lng: -82.7833 },
+    coords: [-82.7833, 8.9167],
     description: {
       de: "Jurutungo liegt hoch in den Bergen von Chiriquí an der Grenze zu Costa Rica. Es ist für seine kühlen Temperaturen und Landwirtschaft bekannt.",
       hu: "Jurutungo magasan fekszik Chiriquí hegyeiben, Costa Rica határánál. Hűvös hőmérsékletéről és mezőgazdaságáról ismert.",
@@ -931,7 +931,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-tierras-altas-cities-v2",
     type: "city",
     name: { de: "Tierras Altas", hu: "Tierras Altas", ro: "Tierras Altas", en: "Tierras Altas" },
-    coordinates: { lat: 8.8, lng: -82.6 },
+    coords: [-82.6, 8.8],
     description: {
       de: "Tierras Altas umfasst mehrere Ortschaften im Chiriquí-Hochland. Diese Region ist der Hauptproduzent für Gemüse in ganz Panama.",
       hu: "Tierras Altas több települést foglal magában a Chiriquí-felföldön. Ez a régió az egész Panama zöldségtermelésének központja.",
@@ -950,7 +950,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-las-lajas-cities-v2",
     type: "city",
     name: { de: "Las Lajas", hu: "Las Lajas", ro: "Las Lajas", en: "Las Lajas" },
-    coordinates: { lat: 8.2167, lng: -81.85 },
+    coords: [-81.85, 8.2167],
     description: {
       de: "Las Lajas liegt in der Provinz Chiriquí nahe der Pazifikküste. Die Stadt ist bekannt für ihre weiten Strände und den Tourismus.",
       hu: "Las Lajas Chiriquí tartományban fekszik, a csendes-óceáni part közelében. A város széles strandjairól és a turizmusáról ismert.",
@@ -969,7 +969,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-ticantiqui-cities-v2",
     type: "city",
     name: { de: "Ticantiquí", hu: "Ticantiquí", ro: "Ticantiquí", en: "Ticantiquí" },
-    coordinates: { lat: 9.35, lng: -78.4333 },
+    coords: [-78.4333, 9.35],
     description: {
       de: "Ticantiquí ist ein Küstenort in der Guna Yala Comarca. Die Gemeinde lebt vom Fischfang und traditioneller Landwirtschaft.",
       hu: "Ticantiquí tengerparti település Guna Yala Comarcában. A közösség halászatból és hagyományos mezőgazdaságból él.",
@@ -988,7 +988,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     id: "panama-playon-chico-cities-v2",
     type: "city",
     name: { de: "Playón Chico", hu: "Playón Chico", ro: "Playón Chico", en: "Playón Chico" },
-    coordinates: { lat: 9.3333, lng: -78.2333 },
+    coords: [-78.2333, 9.3333],
     description: {
       de: "Playón Chico liegt an der Karibikküste in der Guna Yala Region. Das Dorf ist bekannt für seine indigene Kultur und Lage.",
       hu: "Playón Chico a karib-tengeri partvidéken fekszik, a Guna Yala régióban. A falu őslakos kultúrájáról és elhelyezkedéséről ismert.",

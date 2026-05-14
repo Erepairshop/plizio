@@ -889,7 +889,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-crocolandia-foundation-life-v2",
     type: "wildlife",
     name: { de: "Crocolandia Stiftung", hu: "Crocolandia Alapítvány", ro: "Fundația Crocolandia", en: "Crocolandia Foundation" },
-    coordinates: { lat: 10.2453, lng: 123.8231 },
+    coords: [123.8231, 10.2453],
     description: {
       de: "Dieses Naturschutzzentrum in Talisay widmet sich der Erhaltung gefährdeter philippinischer Krokodile. Es beherbergt zudem verschiedene lokale Vogelarten und Reptilien in einer parkähnlichen Anlage.",
       hu: "Ez a Talisay-ben található központ a veszélyeztetett fülöp-szigeteki krokodilok megmentésére szakosodott. A parkban számos helyi madárfaj és hüllő is látható természetes környezetben.",
@@ -908,7 +908,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-baluarte-mini-zoo-life-v2",
     type: "wildlife",
     name: { de: "Baluarte Resort und Mini-Zoo", hu: "Baluarte Resort és Mini Állatkert", ro: "Baluarte Resort și Mini Zoo", en: "Baluarte Resort and Mini Zoo" },
-    coordinates: { lat: 17.5512, lng: 120.3745 },
+    coords: [120.3745, 17.5512],
     description: {
       de: "Ein weitläufiger Wildpark in Vigan, der für seine Sammlung exotischer Tiere und eine interaktive Schmetterlingsfarm bekannt ist. Besucher können hier Tiger und verschiedene Vogelarten aus nächster Nähe sehen.",
       hu: "Egy tágas vadaspark Viganban, amely egzotikus állatgyűjteményéről és interaktív lepkeházáról ismert. A látogatók közelről láthatnak tigriseket és különféle madárfajokat.",
@@ -927,7 +927,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-ocean-adventure-subic-life-v2",
     type: "wildlife",
     name: { de: "Ocean Adventure Subic Bay", hu: "Ocean Adventure Subic-öböl", ro: "Ocean Adventure Subic Bay", en: "Ocean Adventure Subic Bay" },
-    coordinates: { lat: 14.7705, lng: 120.2782 },
+    coords: [120.2782, 14.7705],
     description: {
       de: "Der erste Meeres-Themenpark Südostasiens im Freien bietet Delfin- und Seelöwenshows direkt an der Küste. Er fördert den Schutz der Meeresumwelt durch Bildungsprogramme und Rettungsaktionen.",
       hu: "Délkelet-Ázsia első szabadtéri tengeri élményparkja delfin- és oroszlánfóka-bemutatókat kínál közvetlenül a parton. Oktatási programokkal segíti a tengeri környezet védelmét.",
@@ -946,7 +946,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-olango-island-wildlife-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Olango Island Vogelschutzgebiet", hu: "Olango-szigeti Vadvédelmi Terület", ro: "Sanctuarul de Faună de pe Insula Olango", en: "Olango Island Wildlife Sanctuary" },
-    coordinates: { lat: 10.2585, lng: 124.0322 },
+    coords: [124.0322, 10.2585],
     description: {
       de: "Ein wichtiges Feuchtgebiet auf der Insel Olango, das als Rastplatz für Tausende von Zugvögeln auf der ostasiatisch-australischen Flugroute dient. Es umfasst Mangrovenwälder und ausgedehnte Wattflächen.",
       hu: "Fontos vizes élőhely Olango szigetén, amely vonuló madarak ezreinek pihenőhelye az kelet-ázsiai-ausztrál útvonalon. Mangroveerdőket és kiterjedt árapály-síkságokat foglal magában.",
@@ -965,7 +965,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-puerto-princesa-butterfly-eco-garden-life-v2",
     type: "wildlife",
     name: { de: "Schmetterlingsgarten Puerto Princesa", hu: "Puerto Princesa Lepkekert", ro: "Grădina de Fluturi Puerto Princesa", en: "Puerto Princesa Butterfly Eco-Garden" },
-    coordinates: { lat: 9.7735, lng: 118.7511 },
+    coords: [118.7511, 9.7735],
     description: {
       de: "Dieser ökologische Garten zeigt die Artenvielfalt von Palawan mit Schwerpunkt auf tropischen Schmetterlingen und endemischen Insekten. Ein integriertes Kulturdorf präsentiert zudem die Traditionen lokaler indigener Gruppen.",
       hu: "Ez az ökológiai kert Palawan biodiverzitását mutatja be, fókuszban a trópusi lepkékkel és őshonos rovarokkal. Egy kulturális falu is tartozik hozzá, ahol helyi törzsek hagyományait ismerhetjük meg.",
@@ -984,7 +984,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-davao-crocodile-park-life-v2",
     type: "wildlife",
     name: { de: "Davao Krokodilpark", hu: "Davaói Krokodilpark", ro: "Davao Crocodile Park", en: "Davao Crocodile Park" },
-    coordinates: { lat: 7.1032, lng: 125.5945 },
+    coords: [125.5945, 7.1032],
     description: {
       de: "Eine moderne Einrichtung zur Krokodilzucht in Davao City, die auch als Bildungszentrum für Wildtiere dient. Der Park beherbergt neben Krokodilen auch Vögel, Schlangen und Affen in thematischen Gehegen.",
       hu: "Egy modern krokodiltenyésztő létesítmény Davao City-ben, amely vadvédelmi oktatási központként is működik. A parkban krokodilok mellett madarak, kígyók és majmok is élnek.",
@@ -1003,7 +1003,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-makiling-botanic-gardens-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Makiling", hu: "Makiling Botanikus Kert", ro: "Grădina Botanică Makiling", en: "Makiling Botanic Gardens" },
-    coordinates: { lat: 14.1625, lng: 121.2361 },
+    coords: [121.2361, 14.1625],
     description: {
       de: "Am Fuße des Mount Makiling gelegen, bewahrt dieser Garten die reiche Flora der Region Laguna. Er dient als Freiluftlabor für Studenten und beherbergt zahlreiche seltene tropische Pflanzenarten.",
       hu: "A Makiling-hegy lábánál található kert Laguna régió gazdag flóráját őrzi. Szabadtéri laboratóriumként szolgál a hallgatók számára, és számos ritka trópusi növénynek ad otthont.",
@@ -1022,7 +1022,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-pawikan-conservation-center-life-v2",
     type: "wildlife",
     name: { de: "Pawikan Naturschutzzentrum", hu: "Pawikan Természetvédelmi Központ", ro: "Centrul de Conservare Pawikan", en: "Pawikan Conservation Center" },
-    coordinates: { lat: 14.6782, lng: 120.2641 },
+    coords: [120.2641, 14.6782],
     description: {
       de: "Ein von der Gemeinde geführtes Zentrum in Morong, das sich dem Schutz bedrohter Meeresschildkröten widmet. Es überwacht die Niststrände und entlässt jährlich Tausende von Jungtieren sicher ins Meer.",
       hu: "Morongban található közösségi központ, amely a veszélyeztetett tengeri teknősök védelmével foglalkozik. Felügyelik a fészkelőhelyeket és évente teknősfiatalok ezreit engedik a tengerbe.",
@@ -1041,7 +1041,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-monfort-bat-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Monfort Fledermausschutzgebiet", hu: "Monfort Denevérrezervátum", ro: "Sanctuarul de Lilieci Monfort", en: "Monfort Bat Sanctuary" },
-    coordinates: { lat: 7.1172, lng: 125.6883 },
+    coords: [125.6883, 7.1172],
     description: {
       de: "Dieses Reservat auf der Insel Samal beherbergt die weltweit größte Kolonie von Geoffroy-Flughunden in einem einzigen Höhlensystem. Es ist ein bedeutender Ort für ökologische Forschung und Ökotourismus.",
       hu: "Ez a Samal-szigeti rezervátum ad otthont a világ legnagyobb Geoffroy-repülőkutya kolóniájának egyetlen barlangrendszerben. Fontos ökológiai kutatóhely és turisztikai célpont.",
@@ -1060,7 +1060,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-minalungao-national-park-life-v2",
     type: "park",
     name: { de: "Minalungao Nationalpark", hu: "Minalungao Nemzeti Park", ro: "Parcul Național Minalungao", en: "Minalungao National Park" },
-    coordinates: { lat: 15.2985, lng: 121.1214 },
+    coords: [121.1214, 15.2985],
     description: {
       de: "Ein Naturschutzgebiet in Nueva Ecija, das für seinen smaragdgrünen Fluss bekannt ist, der von hohen Kalksteinwänden gesäumt wird. Der Park bietet Lebensraum für vielfältige lokale Pflanzen und Vögel.",
       hu: "Nueva Ecija-i védett terület, amely smaragdzöld folyójáról és magas mészkőfalairól ismert. A park változatos helyi növényvilágnak és madárfajoknak nyújt menedéket.",
@@ -1079,7 +1079,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-candaba-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Candaba Vogelschutzgebiet", hu: "Candaba Madárrezervátum", ro: "Sanctuarul de Păsări Candaba", en: "Candaba Bird Sanctuary" },
-    coordinates: { lat: 15.0872, lng: 120.8845 },
+    coords: [120.8845, 15.0872],
     description: {
       de: "Diese ausgedehnten Sumpfgebiete in Pampanga sind ein Paradies für Vogelbeobachter und beherbergen tausende wandernde Wasservögel. Es ist eines der wichtigsten Binnen-Feuchtgebiete des Landes.",
       hu: "Ez a Pampanga területén fekvő mocsárvidék a madármegfigyelők paradicsoma, ahol több ezer vonuló vízimadár tanyázik. Az ország egyik legfontosabb vizes élőhelye.",
@@ -1098,7 +1098,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-mount-isarog-national-park-life-v2",
     type: "park",
     name: { de: "Mount Isarog Nationalpark", hu: "Isarog-hegy Nemzeti Park", ro: "Parcul Național Muntele Isarog", en: "Mount Isarog National Park" },
-    coordinates: { lat: 13.6585, lng: 123.3752 },
+    coords: [123.3752, 13.6585],
     description: {
       de: "Dieser Park schützt die Primärwälder des Mount Isarog in der Region Bicol. Er ist bekannt für seine hohe Endemismusrate, einschließlich zahlreicher nur hier vorkommender Nagetier- und Vogelarten.",
       hu: "Ez a park az Isarog-hegy őserdőit védi Bicol régióban. Magas endémia-arányáról ismert, számos csak itt élő rágcsáló- és madárfajnak ad otthont.",
@@ -1117,7 +1117,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-rajah-sikatuna-protected-landscape-life-v2",
     type: "park",
     name: { de: "Rajah Sikatuna Naturschutzgebiet", hu: "Rajah Sikatuna Védett Tájegység", ro: "Peisajul Protejat Rajah Sikatuna", en: "Rajah Sikatuna Protected Landscape" },
-    coordinates: { lat: 9.7125, lng: 124.2341 },
+    coords: [124.2341, 9.7125],
     description: {
       de: "Das größte verbliebene Waldstück auf Bohol ist ein wichtiges Refugium für den Philippinen-Koboldmaki und zahlreiche Vogelarten. Es zeichnet sich durch seine Karstlandschaft und dichten Kalksteinwälder aus.",
       hu: "Bohol legnagyobb megmaradt erdőterülete, amely fontos menedéket nyújt a fülöp-szigeteki pápaszemes makinak és számos madárfajnak. Karsztvidék és sűrű mészkőerdők jellemzik.",
@@ -1136,7 +1136,7 @@ image: "/poi-images/ph-masungi-georeserve-life-v2.webp"
     id: "philippines-bataan-national-park-life-v2",
     type: "park",
     name: { de: "Bataan Nationalpark", hu: "Bataan Nemzeti Park", ro: "Parcul Național Bataan", en: "Bataan National Park" },
-    coordinates: { lat: 14.7302, lng: 120.3705 },
+    coords: [120.3705, 14.7302],
     description: {
       de: "Dieser Nationalpark in Zentral-Luzon schützt die tropischen Regenwälder und die dort lebenden bedrohten Tierarten. Er umfasst Bergketten und Täler, die als wichtige Wassereinzugsgebiete dienen.",
       hu: "Ez a közép-luzoni nemzeti park a trópusi esőerdőket és az ott élő veszélyeztetett állatfajokat védi. Hegyláncokat és völgyeket foglal magában, amelyek fontos vízgyűjtők.",

@@ -691,7 +691,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-harappa-history-v2",
     type: "ruins",
     name: { de: "Harappa", hu: "Harappa", ro: "Harappa", en: "Harappa" },
-    coordinates: { lat: 30.627, lng: 72.862 },
+    coords: [72.862, 30.627],
     description: {
       de: "Harappa ist eine der bedeutendsten archäologischen Stätten der antiken Indus-Kultur. Die befestigte Stadt stammt aus der Bronzezeit um 3300 v. Chr.",
       hu: "Harappa az ősi Indus-völgyi civilizáció egyik legjelentősebb régészeti lelőhelye. A bronzkori erődített város i. e. 3300 körül alakult ki.",
@@ -710,7 +710,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-tomb-of-jahangir-history-v2",
     type: "monument",
     name: { de: "Grabmal von Jahangir", hu: "Dzsahángír sah síremléke", ro: "Mormântul lui Jahangir", en: "Tomb of Jahangir" },
-    coordinates: { lat: 31.622, lng: 74.282 },
+    coords: [74.282, 31.622],
     description: {
       de: "Dieses Mausoleum aus dem 17. Jahrhundert wurde für den Mogulkaiser Jahangir errichtet. Es besticht durch seine Fresken und Marmorinlays.",
       hu: "Ez a 17. századi mauzóleum Dzsahángír mogul sah tiszteletére épült. Híres a gazdag freskóiról és márványberakásairól.",
@@ -729,7 +729,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-altit-fort-history-v2",
     type: "castle",
     name: { de: "Altit Fort", hu: "Altit-erőd", ro: "Fortul Altit", en: "Altit Fort" },
-    coordinates: { lat: 36.314, lng: 74.671 },
+    coords: [74.671, 36.314],
     description: {
       de: "Altit Fort ist ein antikes Denkmal im Hunza-Tal und war der ursprüngliche Sitz der Mirs. Es ist etwa 1100 Jahre alt.",
       hu: "Az Altit-erőd egy ősi műemlék a Hunza-völgyben, amely eredetileg a helyi uralkodók székhelye volt. Körülbelül 1100 éves.",
@@ -748,7 +748,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-bala-hissar-fort-history-v2",
     type: "castle",
     name: { de: "Bala-Hissar-Festung", hu: "Bala Hissar-erőd", ro: "Fortul Bala Hissar", en: "Bala Hissar Fort" },
-    coordinates: { lat: 34.016, lng: 71.567 },
+    coords: [71.567, 34.016],
     description: {
       de: "Bala Hissar ist eine historische Festung in Peschawar, die auf einem hohen Hügel über der Stadt thront. Sie diente jahrhundertelang als königliche Residenz.",
       hu: "Bala Hissar egy történelmi erőd Pesavarban, amely a város feletti magas dombon trónol. Évszázadokig királyi rezidenciaként szolgált.",
@@ -767,7 +767,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-mohatta-palace-history-v2",
     type: "palace",
     name: { de: "Mohatta-Palast", hu: "Mohatta-palota", ro: "Palatul Mohatta", en: "Mohatta Palace" },
-    coordinates: { lat: 24.814, lng: 67.033 },
+    coords: [67.033, 24.814],
     description: {
       de: "Dieser prächtige Palast in Karatschi wurde 1927 als Sommerresidenz für einen hinduistischen Geschäftsmann erbaut. Er kombiniert Rajput- und Mogul-Stile.",
       hu: "Ez a pompás karacsi palota 1927-ben épült egy hindu üzletember nyári rezidenciájaként. Rádzsput és mogul stílusokat ötvöz.",
@@ -786,7 +786,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-attock-fort-history-v2",
     type: "castle",
     name: { de: "Attock-Festung", hu: "Attock-erőd", ro: "Fortul Attock", en: "Attock Fort" },
-    coordinates: { lat: 33.889, lng: 72.24 },
+    coords: [72.24, 33.889],
     description: {
       de: "Die Attock-Festung wurde unter Kaiser Akbar dem Großen errichtet, um die Überquerung des Indus zu schützen. Sie ist strategisch am Flussufer gelegen.",
       hu: "Az Attock-erődöt Nagy Akbar mogul sah építtette az Indus-folyón való átkelés védelmére. Stratégiai helyen fekszik a folyó partján.",
@@ -805,7 +805,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-kharpocho-fort-history-v2",
     type: "castle",
     name: { de: "Kharpocho Fort", hu: "Kharpocho-erőd", ro: "Fortul Kharpocho", en: "Kharpocho Fort" },
-    coordinates: { lat: 35.301, lng: 75.641 },
+    coords: [75.641, 35.301],
     description: {
       de: "Diese Festung in Skardu, auch als 'König der Festungen' bekannt, thront auf einem Felsen über dem Indus. Sie stammt aus dem späten 16. Jahrhundert.",
       hu: "Ez a szkardui erőd, amelyet az 'erődök királyaként' is ismernek, egy sziklán trónol az Indus felett. A 16. század végéről származik.",
@@ -824,7 +824,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-banbhore-history-v2",
     type: "ruins",
     name: { de: "Banbhore", hu: "Banbhore", ro: "Banbhore", en: "Banbhore" },
-    coordinates: { lat: 24.751, lng: 67.518 },
+    coords: [67.518, 24.751],
     description: {
       de: "Banbhore ist eine antike Hafenstadt in Sindh, die vermutlich das historische Debal ist. Hier landete Muhammad bin Qasim im Jahr 711 n. Chr.",
       hu: "Banbhore egy ősi kikötőváros Szindh tartományban, amely vélhetően a történelmi Debal helyszíne. Itt szállt partra Muhammad bin Qászim 711-ben.",
@@ -843,7 +843,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-kot-diji-history-v2",
     type: "ruins",
     name: { de: "Kot Diji", hu: "Kot Diji", ro: "Kot Diji", en: "Kot Diji" },
-    coordinates: { lat: 27.297, lng: 68.706 },
+    coords: [68.706, 27.297],
     description: {
       de: "Kot Diji ist eine bedeutende Fundstätte der Harappa-Kultur, die älter als Mohenjo-Daro ist. Sie umfasst eine massive Zitadelle und eine Siedlung.",
       hu: "Kot Diji egy jelentős harappai lelőhely, amely régebbi, mint Mohendzsodáro. Egy masszív fellegvárból és egy településből áll.",
@@ -862,7 +862,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-amri-history-v2",
     type: "ruins",
     name: { de: "Amri", hu: "Amri", ro: "Amri", en: "Amri" },
-    coordinates: { lat: 26.171, lng: 68.021 },
+    coords: [68.021, 26.171],
     description: {
       de: "Amri ist eine prähistorische Stätte in Sindh, die der Indus-Zivilisation vorausging. Sie gab der Amri-Kultur ihren Namen.",
       hu: "Amri egy őstörténeti lelőhely Szindhben, amely megelőzte az Indus-civilizációt. Nevét az Amri-kultúráról kapta.",
@@ -881,7 +881,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-rehman-dheri-history-v2",
     type: "ruins",
     name: { de: "Rehman Dheri", hu: "Rehman Dheri", ro: "Rehman Dheri", en: "Rehman Dheri" },
-    coordinates: { lat: 31.848, lng: 70.803 },
+    coords: [70.803, 31.848],
     description: {
       de: "Rehman Dheri ist eine der ältesten geplanten Städte in Südasien. Die Stätte bei Dera Ismail Khan stammt aus dem 4. Jahrtausend v. Chr.",
       hu: "Rehman Dheri Dél-Ázsia egyik legrégebbi tervezett városa. A Dera Iszmail Hán melletti lelőhely az i. e. 4. évezredből származik.",
@@ -900,7 +900,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-mansura-history-v2",
     type: "ruins",
     name: { de: "Mansura", hu: "Manszura", ro: "Mansura", en: "Mansura" },
-    coordinates: { lat: 25.833, lng: 68.616 },
+    coords: [68.616, 25.833],
     description: {
       de: "Mansura war im 8. Jahrhundert die erste Hauptstadt des muslimischen Reiches in Sindh. Die Ruinen zeigen eine fortgeschrittene Stadtplanung.",
       hu: "Manszura a 8. században a szindhi muszlim birodalom első fővárosa volt. A romok fejlett várostervezésről tanúskodnak.",
@@ -919,7 +919,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-shah-rukn-e-alam-history-v2",
     type: "monument",
     name: { de: "Grab des Shah Rukn-e-Alam", hu: "Shah Rukn-e-Alam síremléke", ro: "Mormântul lui Shah Rukn-e-Alam", en: "Tomb of Shah Rukn-e-Alam" },
-    coordinates: { lat: 30.2, lng: 71.479 },
+    coords: [71.479, 30.2],
     description: {
       de: "Das Mausoleum in Multan gilt als eines der schönsten Beispiele für die Tughlaq-Architektur. Seine markante Kuppel ist weithin sichtbar.",
       hu: "A multáni mauzóleum a tuglak építészet egyik legszebb példája. Jellegzetes kupolája messziről látható.",
@@ -938,7 +938,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-gurdwara-panja-sahib-history-v2",
     type: "monument",
     name: { de: "Gurdwara Panja Sahib", hu: "Gurdwara Panja Sahib", ro: "Gurdwara Panja Sahib", en: "Gurdwara Panja Sahib" },
-    coordinates: { lat: 33.821, lng: 72.689 },
+    coords: [72.689, 33.821],
     description: {
       de: "Dieser heilige Schrein der Sikhs in Hassan Abdal beherbergt einen Stein mit dem Handabdruck von Guru Nanak. Er ist ein wichtiges Pilgerziel.",
       hu: "Ez a szikh szentély Haszan Abdalban egy Guru Nanak kézlenyomatát őrző követ tartalmaz. Fontos zarándokhely.",
@@ -957,7 +957,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-empress-market-history-v2",
     type: "landmark",
     name: { de: "Empress Market", hu: "Empress-piac", ro: "Piața Empress", en: "Empress Market" },
-    coordinates: { lat: 24.862, lng: 67.031 },
+    coords: [67.031, 24.862],
     description: {
       de: "Der Empress Market ist ein markantes Bauwerk aus der britischen Kolonialzeit in Karatschi. Er wurde zu Ehren von Königin Victoria erbaut.",
       hu: "Az Empress-piac Karacsi egyik jellegzetes épülete a brit gyarmati korszakból. Viktória királynő tiszteletére épült.",
@@ -976,7 +976,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-merewether-clock-tower-history-v2",
     type: "tower",
     name: { de: "Merewether-Uhrturm", hu: "Merewether-óratorony", ro: "Turnul cu ceas Merewether", en: "Merewether Clock Tower" },
-    coordinates: { lat: 24.849, lng: 67.0 },
+    coords: [67.0, 24.849],
     description: {
       de: "Dieser neugotische Uhrturm in Karatschi wurde im 19. Jahrhundert als Denkmal für Sir William Merewether errichtet.",
       hu: "Ez a neogótikus óratorony Karacsiban a 19. században épült Sir William Merewether emlékére.",
@@ -995,7 +995,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-quaid-e-azam-house-history-v2",
     type: "museum",
     name: { de: "Quaid-e-Azam-Haus", hu: "Quaid-e-Azam-ház", ro: "Casa Quaid-e-Azam", en: "Quaid-e-Azam House" },
-    coordinates: { lat: 24.851, lng: 67.038 },
+    coords: [67.038, 24.851],
     description: {
       de: "Das auch als Flagstaff House bekannte Gebäude war die offizielle Residenz von Muhammad Ali Jinnah, dem Gründer Pakistans.",
       hu: "A Flagstaff House-ként is ismert épület Muhammad Ali Dzsinnahnak, Pakisztán alapítójának hivatalos rezidenciája volt.",
@@ -1014,7 +1014,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-khaplu-palace-history-v2",
     type: "palace",
     name: { de: "Khaplu-Palast", hu: "Khaplu-palota", ro: "Palatul Khaplu", en: "Khaplu Palace" },
-    coordinates: { lat: 35.163, lng: 76.335 },
+    coords: [76.335, 35.163],
     description: {
       de: "Dieser Palast in Gilgit-Baltistan war die königliche Residenz der Raja von Khaplu. Er gilt als architektonisches Juwel der Region.",
       hu: "Ez a gilgit-baltisztáni palota a khaplu-i rádzsa királyi rezidenciája volt. A régió építészeti gyöngyszemének számít.",
@@ -1033,7 +1033,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-shigar-fort-history-v2",
     type: "castle",
     name: { de: "Shigar-Festung", hu: "Shigar-erőd", ro: "Fortul Shigar", en: "Shigar Fort" },
-    coordinates: { lat: 35.422, lng: 75.744 },
+    coords: [75.744, 35.422],
     description: {
       de: "Die Shigar-Festung, auch 'Palast auf dem Felsen' genannt, ist ein historisches Gebäude in Baltistan aus dem 17. Jahrhundert.",
       hu: "A Shigar-erőd, más néven a 'Sziklapalota', egy 17. századi történelmi épület Baltisztánban.",
@@ -1052,7 +1052,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-bibi-jawindi-tomb-history-v2",
     type: "monument",
     name: { de: "Grabmal der Bibi Jawindi", hu: "Bibi Dzsavindi síremléke", ro: "Mormântul lui Bibi Jawindi", en: "Tomb of Bibi Jawindi" },
-    coordinates: { lat: 29.236, lng: 71.062 },
+    coords: [71.062, 29.236],
     description: {
       de: "Dieses Mausoleum in Uch Sharif ist berühmt für seine blau-weißen Glasurfliesen. Es wurde im 15. Jahrhundert für die Urenkelin eines Heiligen erbaut.",
       hu: "Ez az Uch Sharif-i mauzóleum híres kék-fehér mázas csempéiről. A 15. században épült egy szent dédunokájának.",
@@ -1071,7 +1071,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-jamrud-fort-history-v2",
     type: "castle",
     name: { de: "Jamrud-Festung", hu: "Jamrud-erőd", ro: "Fortul Jamrud", en: "Jamrud Fort" },
-    coordinates: { lat: 34.001, lng: 71.385 },
+    coords: [71.385, 34.001],
     description: {
       de: "Die Jamrud-Festung bewacht den östlichen Eingang zum Chaiber-Pass. Sie wurde 1836 von dem Sikh-General Hari Singh Nalwa erbaut.",
       hu: "A Jamrud-erőd a Haibár-hágó keleti bejáratát őrzi. 1836-ban építette Hari Singh Nalwa szikh tábornok.",
@@ -1090,7 +1090,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-pharwala-fort-history-v2",
     type: "castle",
     name: { de: "Pharwala-Festung", hu: "Pharwala-erőd", ro: "Fortul Pharwala", en: "Pharwala Fort" },
-    coordinates: { lat: 33.619, lng: 73.298 },
+    coords: [73.298, 33.619],
     description: {
       de: "Pharwala ist eine alte Festung der Gakharen aus dem 15. Jahrhundert. Sie liegt versteckt in den Hügeln nahe Islamabad.",
       hu: "Pharwala a gakharok 15. századi ősi erődje. Iszlámábád közelében, a dombok között rejtőzik.",
@@ -1109,7 +1109,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-ramkot-fort-history-v2",
     type: "castle",
     name: { de: "Ramkot-Festung", hu: "Ramkot-erőd", ro: "Fortul Ramkot", en: "Ramkot Fort" },
-    coordinates: { lat: 33.208, lng: 73.743 },
+    coords: [73.743, 33.208],
     description: {
       de: "Die Ramkot-Festung liegt auf einer Halbinsel im Mangla-See. Sie wurde vermutlich im 16. Jahrhundert auf den Überresten eines alten Hindu-Tempels errichtet.",
       hu: "A Ramkot-erőd a Mangla-tó egyik félszigetén található. Valószínűleg a 16. században épült egy ősi hindu templom romjaira.",
@@ -1128,7 +1128,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-mir-chakars-fort-history-v2",
     type: "castle",
     name: { de: "Mir Chakars Festung", hu: "Mir Csakar erődje", ro: "Fortul lui Mir Chakar", en: "Mir Chakar's Fort" },
-    coordinates: { lat: 29.544, lng: 67.876 },
+    coords: [67.876, 29.544],
     description: {
       de: "Diese Festung in Sibi wurde von dem legendären Belutschen-Helden Mir Chakar Rind im 15. Jahrhundert erbaut.",
       hu: "Ezt a szibi erődöt a legendás beludzs hős, Mir Csakar Rind építtette a 15. században.",
@@ -1147,7 +1147,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-tomb-of-nur-jahan-history-v2",
     type: "monument",
     name: { de: "Grabmal der Nur Jahan", hu: "Nur Dzsahán síremléke", ro: "Mormântul lui Nur Jahan", en: "Tomb of Nur Jahan" },
-    coordinates: { lat: 31.621, lng: 74.276 },
+    coords: [74.276, 31.621],
     description: {
       de: "Dieses Mausoleum in Lahore ist der Mogulkaiserin Nur Jahan gewidmet. Sie war die einflussreiche Ehefrau von Kaiser Jahangir.",
       hu: "Ez a lahore-i mauzóleum Nur Dzsahán mogul császárnénak állít emléket. Dzsahángír sah befolyásos felesége volt.",
@@ -1166,7 +1166,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-akbari-sarai-history-v2",
     type: "landmark",
     name: { de: "Akbari Sarai", hu: "Akbari Sarai", ro: "Akbari Sarai", en: "Akbari Sarai" },
-    coordinates: { lat: 31.622, lng: 74.281 },
+    coords: [74.281, 31.622],
     description: {
       de: "Die Akbari Sarai ist eine historische Karawanserei in Lahore, die Reisenden und Beamten während der Mogulzeit als Unterkunft diente.",
       hu: "Az Akbari Sarai egy történelmi karavánszeráj Lahore-ban, amely utazók és tisztviselők szállásaként szolgált a mogul korszakban.",
@@ -1185,7 +1185,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-chauburji-history-v2",
     type: "monument",
     name: { de: "Chauburji", hu: "Csauburdzi", ro: "Chauburji", en: "Chauburji" },
-    coordinates: { lat: 31.554, lng: 74.305 },
+    coords: [74.305, 31.554],
     description: {
       de: "Chauburji war einst das monumentale Tor zu einem weitläufigen Mogulgarten in Lahore. Der Name bedeutet 'Vier Türme'.",
       hu: "A Csauburdzi egykor egy hatalmas mogul kert monumentális kapuja volt Lahore-ban. A név jelentése: 'Négy torony'.",
@@ -1204,7 +1204,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-dai-anga-mosque-history-v2",
     type: "monument",
     name: { de: "Dai-Anga-Moschee", hu: "Dai Anga-mecset", ro: "Moscheea Dai Anga", en: "Dai Anga Mosque" },
-    coordinates: { lat: 31.579, lng: 74.341 },
+    coords: [74.341, 31.579],
     description: {
       de: "Diese Moschee in Lahore wurde für Dai Anga, die Amme von Kaiser Shah Jahan, erbaut. Sie ist bekannt für ihre prächtigen Fliesenarbeiten.",
       hu: "Ez a lahore-i mecset Dai Angának, Sah Dzsahán sah dajkájának épült. Pompás csempedíszítéseiről ismert.",
@@ -1223,7 +1223,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-tomb-of-asif-khan-history-v2",
     type: "monument",
     name: { de: "Grabmal von Asif Khan", hu: "Aszif Hán síremléke", ro: "Mormântul lui Asif Khan", en: "Tomb of Asif Khan" },
-    coordinates: { lat: 31.622, lng: 74.279 },
+    coords: [74.279, 31.622],
     description: {
       de: "Asif Khan war der Schwager von Kaiser Jahangir. Sein achteckiges Mausoleum in Lahore zeigt die Pracht der Mogul-Architektur.",
       hu: "Aszif Hán Dzsahángír sah sógora volt. Nyolcszögletű mauzóleuma Lahore-ban a mogul építészet pompáját hirdeti.",
@@ -1242,7 +1242,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-satghara-history-v2",
     type: "ruins",
     name: { de: "Satghara", hu: "Szatghara", ro: "Satghara", en: "Satghara" },
-    coordinates: { lat: 30.917, lng: 73.498 },
+    coords: [73.498, 30.917],
     description: {
       de: "Satghara ist eine historische Stadt im Punjab, die für ihre antike Festung und die Gräber der Belutschen-Könige bekannt ist.",
       hu: "Szatghara egy történelmi város Pandzsábban, amely ősi erődjéről és a beludzs királyok sírjairól ismert.",
@@ -1261,7 +1261,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-sharda-peeth-history-v2",
     type: "ruins",
     name: { de: "Sharda Peeth", hu: "Sharda Peeth", ro: "Sharda Peeth", en: "Sharda Peeth" },
-    coordinates: { lat: 34.796, lng: 74.191 },
+    coords: [74.191, 34.796],
     description: {
       de: "Sharda Peeth ist eine zerstörte Hindu-Universität und ein Tempel im Neelum-Tal. Sie war einst ein bedeutendes Zentrum des Gelehrsamkeit.",
       hu: "Sharda Peeth egy romos hindu egyetem és templom a Neelum-völgyben. Egykor a tudás egyik legfontosabb központja volt.",
@@ -1280,7 +1280,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-hinglaj-mata-temple-history-v2",
     type: "landmark",
     name: { de: "Hinglaj-Mata-Tempel", hu: "Hinglaj Mata-templom", ro: "Templul Hinglaj Mata", en: "Hinglaj Mata Temple" },
-    coordinates: { lat: 25.513, lng: 65.515 },
+    coords: [65.515, 25.513],
     description: {
       de: "Dieser Höhlentempel in Belutschistan ist eine der wichtigsten Pilgerstätten des Hinduismus. Er liegt im abgelegenen Hingol-Nationalpark.",
       hu: "Ez a beludzsisztáni barlangtemplom a hinduizmus egyik legfontosabb zarándokhelye. A távoli Hingol Nemzeti Parkban található.",
@@ -1299,7 +1299,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-tochi-valley-inscriptions-history-v2",
     type: "ruins",
     name: { de: "Tochi-Tal-Inschriften", hu: "Tochi-völgyi feliratok", ro: "Inscripțiile din Valea Tochi", en: "Tochi Valley Inscriptions" },
-    coordinates: { lat: 32.95, lng: 70.0 },
+    coords: [70.0, 32.95],
     description: {
       de: "Diese antiken Felsinschriften im Tochi-Tal stammen aus der Zeit der Shahi-Herrscher und geben Einblick in die frühe Geschichte der Region.",
       hu: "Ezek az ősi sziklafeliratok a Tochi-völgyben a Sahi-uralkodók idejéből származnak, és betekintést nyújtanak a régió korai történelmébe.",
@@ -1318,7 +1318,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-butkara-stupa-history-v2",
     type: "ruins",
     name: { de: "Butkara-Stupa", hu: "Butkara-sztúpa", ro: "Stupa Butkara", en: "Butkara Stupa" },
-    coordinates: { lat: 34.773, lng: 72.361 },
+    coords: [72.361, 34.773],
     description: {
       de: "Die Butkara-Stupa im Swat-Tal ist eine bedeutende buddhistische Ausgrabungsstätte, die bis in die Herrschaft von Ashoka zurückreicht.",
       hu: "A Butkara-sztúpa a Swat-völgyben egy jelentős buddhista régészeti lelőhely, amely Asóka király uralkodásáig nyúlik vissza.",
@@ -1337,7 +1337,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-shingardar-stupa-history-v2",
     type: "monument",
     name: { de: "Shingardar-Stupa", hu: "Shingardar-sztúpa", ro: "Stupa Shingardar", en: "Shingardar Stupa" },
-    coordinates: { lat: 34.717, lng: 72.247 },
+    coords: [72.247, 34.717],
     description: {
       de: "Diese massive Stupa im Swat-Tal ist eine der größten in der Region Gandhara. Sie wurde vermutlich zwischen dem 3. und 4. Jahrhundert n. Chr. erbaut.",
       hu: "Ez a hatalmas sztúpa a Swat-völgyben az egyik legnagyobb a Gandhára régióban. Valószínűleg a 3. és 4. század között épült.",
@@ -1356,7 +1356,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-mohabbat-khan-mosque-history-v2",
     type: "monument",
     name: { de: "Mohabbat-Khan-Moschee", hu: "Mohabbat Khan-mecset", ro: "Moscheea Mohabbat Khan", en: "Mohabbat Khan Mosque" },
-    coordinates: { lat: 34.013, lng: 71.572 },
+    coords: [71.572, 34.013],
     description: {
       de: "Die Mohabbat-Khan-Moschee ist ein Wahrzeichen der Mogul-Architektur in Peschawar. Sie wurde im 17. Jahrhundert vom Gouverneur der Provinz erbaut.",
       hu: "A Mohabbat Khan-mecset a mogul építészet egyik jelképe Pesavarban. A 17. században építtette a tartomány kormányzója.",
@@ -1375,7 +1375,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-sethi-mohallah-history-v2",
     type: "landmark",
     name: { de: "Sethi Mohallah", hu: "Sethi Mohallah", ro: "Sethi Mohallah", en: "Sethi Mohallah" },
-    coordinates: { lat: 34.013, lng: 71.577 },
+    coords: [71.577, 34.013],
     description: {
       de: "Sethi Mohallah ist ein Viertel in Peschawar, das für seine prächtigen Holzhäuser wohlhabender Händlerfamilien aus dem 19. Jahrhundert bekannt ist.",
       hu: "Sethi Mohallah Pesavar egyik negyede, amely gazdag kereskedőcsaládok 19. századi pompás faházairól ismert.",
@@ -1394,7 +1394,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-gor-khatri-history-v2",
     type: "ruins",
     name: { de: "Gor Khatri", hu: "Gor Khatri", ro: "Gor Khatri", en: "Gor Khatri" },
-    coordinates: { lat: 34.014, lng: 71.583 },
+    coords: [71.583, 34.014],
     description: {
       de: "Gor Khatri ist eine antike Ausgrabungsstätte in Peschawar, die als Karawanserei, Kloster und Tempel diente. Die Schichten reichen 2500 Jahre zurück.",
       hu: "Gor Khatri egy ősi régészeti lelőhely Pesavarban, amely karavánszerájként, kolostorként és templomként is szolgált. Rétegei 2500 évesek.",
@@ -1413,7 +1413,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-tombs-of-talpur-mirs-history-v2",
     type: "monument",
     name: { de: "Gräber der Talpur-Mirs", hu: "Talpur Mir-ek sírjai", ro: "Mormintele Mirilor Talpur", en: "Tombs of Talpur Mirs" },
-    coordinates: { lat: 25.405, lng: 68.375 },
+    coords: [68.375, 25.405],
     description: {
       de: "Diese prächtigen Gräber in Hyderabad gehören den Herrschern der Talpur-Dynastie, die Sindh im 18. und 19. Jahrhundert regierten.",
       hu: "Ezek a pompás hyderabadi sírok a Talpur-dinasztia uralkodóié, akik a 18. és 19. században irányították Szindh tartományt.",
@@ -1432,7 +1432,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-satyan-jo-astan-history-v2",
     type: "monument",
     name: { de: "Satyan-jo-Astan", hu: "Satyan-jo-Astan", ro: "Satyan-jo-Astan", en: "Satyan-jo-Astan" },
-    coordinates: { lat: 27.701, lng: 68.892 },
+    coords: [68.892, 27.701],
     description: {
       de: "Satyan-jo-Astan ist eine historische Grabstätte in Sukkur am Ufer des Indus. Sie ist berühmt für ihre Legenden über sieben fromme Frauen.",
       hu: "A Satyan-jo-Astan egy történelmi sírhely Sukkurban, az Indus partján. Híres hét jámbor asszony legendájáról.",
@@ -1451,7 +1451,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-lansdowne-bridge-history-v2",
     type: "bridge",
     name: { de: "Lansdowne-Brücke", hu: "Lansdowne-híd", ro: "Podul Lansdowne", en: "Lansdowne Bridge" },
-    coordinates: { lat: 27.712, lng: 68.902 },
+    coords: [68.902, 27.712],
     description: {
       de: "Die Lansdowne-Brücke war bei ihrer Fertigstellung 1889 die längste Auslegerbrücke der Welt. Sie verbindet Sukkur und Rohri über den Indus.",
       hu: "A Lansdowne-híd 1889-es elkészültekor a világ leghosszabb konzolos hídja volt. Sukkurt és Rohrit köti össze az Induson keresztül.",
@@ -1470,7 +1470,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
     id: "pakistan-sadiq-garh-palace-history-v2",
     type: "palace",
     name: { de: "Sadiq-Garh-Palast", hu: "Sadiq Garh-palota", ro: "Palatul Sadiq Garh", en: "Sadiq Garh Palace" },
-    coordinates: { lat: 28.331, lng: 71.218 },
+    coords: [71.218, 28.331],
     description: {
       de: "Dieser prunkvolle Palast wurde im 19. Jahrhundert für den Nawab von Bahawalpur erbaut. Er ist von einer massiven Festungsmauer umgeben.",
       hu: "Ez a pompás palota a 19. században épült Bahavalpur návabja számára. Hatalmas erődítményfal veszi körül.",

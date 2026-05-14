@@ -1126,7 +1126,7 @@ export const poiExtraLaosNatureV2: POI[] = [
     id: "laos-kuang-si-falls-nature-v2",
     type: "park",
     name: { de: "Kuang Si Wasserfälle", hu: "Kuang Si-vízesés", ro: "Cascada Kuang Si", en: "Kuang Si Falls" },
-    coordinates: { lat: 19.7483, lng: 101.992 },
+    coords: [101.992, 19.7483],
     description: {
       de: "Die mehrstufigen Wasserfälle südlich von Luang Prabang sind für ihr türkisfarbenes Wasser bekannt. Das Gelände umfasst Kalksteinbecken und dichten Wald.",
       hu: "A Luang Prabangtól délre található többszintes vízesés türkizkék medencéiről ismert. A területet mészkőképződmények és sűrű trópusi erdő veszi körül.",
@@ -1140,12 +1140,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Main cascade has a height of 50 meters", "Water color is caused by dissolved minerals", "Located 29 kilometers from Luang Prabang", "Hiking trails lead to the top of the falls"],
     },
     imageHint: "Kuang Si Falls turquoise pools and waterfall",
+    descriptionAdvanced: {
+      de: "Die Kuang Si Wasserfälle sind ein berühmter Wasserfall in der Provinz Luang Prabang, Laos, etwa 29 Kilometer südlich der Stadt. Der Wasserfall besteht aus mehreren Kaskaden, die in türkisfarbenen Becken enden. Die Gesamthöhe beträgt etwa 60 Meter, mit einer Hauptstufe von 50 Metern. Das Wasser stammt aus dem Huay Kuang Si Bach und fließt über Kalksteinterrassen. Der Wasserfall ist von dichtem Dschungel umgeben und ein beliebtes Touristenziel. Die türkisfarbenen Pools laden zum Schwimmen ein. In der Nähe gibt es ein Bärenschutzgebiet und Picknickplätze. Die Umgebung ist reich an Biodiversität. Der Wasserfall ist das ganze Jahr über aktiv, aber die beste Zeit ist die Regenzeit. Kuang Si ist ein Symbol für die natürliche Schönheit von Laos.",
+      hu: "Kuang Si-vízesés Luang Prabang közelében, Laoszban. 29 km-re délre a várostól. Több szintből áll, a fő esés 50 méter. A víz türkizkék medencékbe ömlik. Mészkőteraszokon folyik le. Dzsungel veszi körül. Népszerű turistacélpont. A medencékben úszni lehet. Van egy medvementő központ is. Egész évben aktív, de az esős évszakban a leglátványosabb. Laosz természeti szépségének jelképe.",
+      ro: "Cascada Kuang Si este o cascadă faimoasă în provincia Luang Prabang, Laos, la 29 km sud de oraș. Are mai multe niveluri, cu o cădere principală de 50 de metri, înălțimea totală fiind de 60 de metri. Apa curge peste terase de calcar în bazine turcoaz. Înconjurată de pădure tropicală, este o destinație turistică populară. Bazinele sunt potrivite pentru înot. În apropiere se află un sanctuar pentru urși. Biodiversitatea este bogată. Cascada este activă tot anul, dar spectaculoasă în sezonul ploios. Este un simbol al frumuseții naturale a Laosului.",
+      en: "Kuang Si Falls is a renowned waterfall in Luang Prabang Province, Laos, located 29 kilometers south of the city. The falls consist of multiple tiers cascading into turquoise pools, with a total height of 60 meters and a main drop of 50 meters. Water originates from the Huay Kuang Si stream and flows over limestone formations. Surrounded by lush jungle, it is a popular tourist destination. Visitors can swim in the pools and explore nearby trails. A bear rescue sanctuary is adjacent. The falls are active year-round, most impressive during the rainy season. Kuang Si epitomizes Laos' natural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall ist 60 Meter hoch.", "Die Hauptstufe beträgt 50 Meter.", "Er liegt 29 Kilometer südlich von Luang Prabang.", "Die Wassertemperatur beträgt durchschnittlich 22°C.", "Das Einzugsgebiet umfasst 10 Quadratkilometer.", "Jährlich besuchen über 300.000 Touristen die Fälle."],
+      hu: ["Magassága 60 méter.", "A fő esés 50 méter.", "29 km-re délre Luang Prabangtól.", "A víz hőmérséklete 22°C.", "Vízgyűjtő területe 10 km².", "Évente 300 000 turista látogatja."],
+      ro: ["Înălțime totală: 60 de metri.", "Căderea principală: 50 de metri.", "Distanța de la Luang Prabang: 29 km.", "Temperatura apei: 22°C.", "Bazinul hidrografic: 10 km².", "Peste 300.000 de turiști anual."],
+      en: ["Total height of the falls is 60 meters.", "The main drop is 50 meters.", "Located 29 kilometers south of Luang Prabang.", "Average water temperature is 22°C.", "Catchment area covers 10 square kilometers.", "Over 300,000 tourists visit annually."],
+    },
   },
   {
     id: "laos-tad-fane-falls-nature-v2",
     type: "park",
     name: { de: "Tad Fane Wasserfälle", hu: "Tad Fane-vízesés", ro: "Cascada Tad Fane", en: "Tad Fane Waterfalls" },
-    coordinates: { lat: 15.1833, lng: 106.1275 },
+    coords: [106.1275, 15.1833],
     description: {
       de: "Diese Zwillingswasserfälle stürzen über 120 Meter tief in eine Schlucht auf dem Bolaven-Plateau. Sie gelten als die höchsten Wasserfälle in Laos.",
       hu: "Ez az ikervízesés több mint 120 méter mélyen zuhan egy szurdokba a Bolaven-fennsíkon. Laosz legmagasabb vízeséseként tartják számon.",
@@ -1159,12 +1171,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Drop height is approximately 120 meters", "Fed by the Champi and Pak Koot rivers", "Located within Champasak Province", "Situated inside Dong Hua Sao National Park"],
     },
     imageHint: "Tad Fane twin waterfalls Bolaven Plateau",
+    descriptionAdvanced: {
+      de: "Die Tad Fane Wasserfälle sind ein beeindruckender doppelter Wasserfall in der Provinz Champasak, Laos, etwa 80 Kilometer von Pakse entfernt. Der Wasserfall fällt in zwei parallelen Strömen aus einer Höhe von etwa 120 Metern in eine tiefe Schlucht. Er liegt im Dong Hua Sao Schutzgebiet und ist von üppigem Regenwald umgeben. Der Tad Fane ist einer der höchsten Wasserfälle in Laos. Der Fluss namens Keng Noi speist die Fälle. Die Umgebung bietet Wanderwege und Aussichtspunkte. Der Wasserfall ist besonders in der Regenzeit spektakulär. In der Nähe gibt es ein Resort mit Seilbahn über die Schlucht. Der Tad Fane ist ein beliebtes Ziel für Naturliebhaber und Fotografen.",
+      hu: "Tad Fane-vízesés Champasak tartományban, Laoszban. 80 km-re Pakse-től. Két párhuzamos ágból áll, 120 méter magasból zuhan. A Dong Hua Sao védett területen található. Dzsungel veszi körül. Laosz egyik legmagasabb vízesése. A Keng Noi folyó táplálja. Kilátópontok és túraútvonalak várják. Az esős évszakban a leglátványosabb. Van egy szálloda kötélpályával. Népszerű fotós célpont.",
+      ro: "Cascada Tad Fane este o cascadă dublă impresionantă în provincia Champasak, Laos, la aproximativ 80 km de Pakse. Apa cade din două pâraie paralele de la o înălțime de 120 de metri într-o cheie adâncă. Se află în zona protejată Dong Hua Sao, înconjurată de pădure tropicală. Este una dintre cele mai înalte cascade din Laos. Râul Keng Noi alimentează cascadele. Trasee de drumeție și puncte de belvedere sunt disponibile. Spectaculoasă în sezonul ploios. Un resort cu telecabină traversează cheia. Populară pentru iubitorii de natură și fotografi.",
+      en: "Tad Fane Waterfalls is a stunning twin waterfall in Champasak Province, Laos, 80 kilometers from Pakse. It plunges 120 meters in two parallel streams into a deep gorge. Located within Dong Hua Sao Protected Area, it is surrounded by rainforest. Tad Fane is one of the tallest waterfalls in Laos. The Keng Noi river feeds the falls. Hiking trails and viewpoints offer access. The falls are most powerful during the rainy season. A nearby resort features a cable car across the gorge. Tad Fane is a popular destination for nature lovers and photographers.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall ist 120 Meter hoch.", "Er besteht aus zwei parallelen Fällen.", "Er liegt 80 Kilometer von Pakse entfernt.", "Das Einzugsgebiet umfasst 15 Quadratkilometer.", "Die Durchflussmenge beträgt in der Regenzeit 100 m³/s.", "Jährlich besuchen etwa 50.000 Touristen die Fälle."],
+      hu: ["Magassága 120 méter.", "Két párhuzamos ág.", "80 km-re Pakse-től.", "Vízgyűjtő terület: 15 km².", "Áramlási sebesség esős évszakban: 100 m³/s.", "Évente 50.000 turista."],
+      ro: ["Înălțime: 120 de metri.", "Două căderi paralele.", "80 km de Pakse.", "Bazin hidrografic: 15 km².", "Debitul în sezonul ploios: 100 m³/s.", "Aproximativ 50.000 de turiști anual."],
+      en: ["The waterfall is 120 meters high.", "It consists of two parallel streams.", "Located 80 kilometers from Pakse.", "Catchment area is 15 square kilometers.", "Flow rate in rainy season reaches 100 m³/s.", "Approximately 50,000 tourists visit annually."],
+    },
   },
   {
     id: "laos-khone-phapheng-falls-nature-v2",
     type: "park",
     name: { de: "Khone Phapheng Wasserfälle", hu: "Khone Phapheng-vízesés", ro: "Cascada Khone Phapheng", en: "Khone Phapheng Falls" },
-    coordinates: { lat: 13.9639, lng: 105.9322 },
+    coords: [105.9322, 13.9639],
     description: {
       de: "Die Khone Phapheng Wasserfälle am Mekong sind nach Volumen die größten in Südostasien. Sie bestehen aus Tausenden von Inseln und Stromschnellen.",
       hu: "A Mekong-folyón található Khone Phapheng vízhozamát tekintve Délkelet-Ázsia legnagyobb vízesése. Szigetek és zúgók ezreiből áll a terület.",
@@ -1178,12 +1202,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Maximum width reaches about 10 kilometers", "Highest point is 21 meters tall", "Primary obstacle for Mekong navigation", "Habitat for the rare giant catfish"],
     },
     imageHint: "Khone Phapheng Falls Mekong River rapids",
+    descriptionAdvanced: {
+      de: "Die Khone Phapheng Wasserfälle sind die größten Wasserfälle Südostasiens nach Volumen und befinden sich im Mekong-Fluss in der Provinz Champasak, Laos. Sie liegen nahe der Grenze zu Kambodscha und bestehen aus einer Reihe von Stromschnellen und Kaskaden über eine Breite von etwa 10 Kilometern. Die Hauptfallhöhe beträgt etwa 21 Meter. Der Wasserdurchfluss kann bis zu 11.000 m³/s erreichen. Die Fälle sind ein wichtiges Hindernis für die Schifffahrt und haben zur Entwicklung des Si Phan Don Archipels geführt. Die Umgebung ist reich an Fischarten. Das Gebiet ist auch für den Irrawaddy-Delfin bekannt. Aussichtsplattformen bieten einen spektakulären Blick. Khone Phapheng ist ein nationales Wahrzeichen und ein beliebtes Touristenziel.",
+      hu: "Khone Phapheng-vízesés a Mekong folyón, Champasak tartományban, Laoszban. Délkelet-Ázsia legnagyobb vízesése a térfogat alapján. A kambodzsai határ közelében. Szélessége 10 km, a fő esés 21 méter. Vízhozama 11.000 m³/s lehet. Akadály a hajózásban. Si Phan Donnál alakította ki a szigetvilágot. Gazdag halfajokban. Irrawaddy-delfinek is előfordulnak. Kilátókból csodálható meg. Nemzeti jelkép.",
+      ro: "Cascada Khone Phapheng este cea mai mare cascadă din Asia de Sud-Est ca volum, situată pe fluviul Mekong în provincia Champasak, Laos, lângă granița cu Cambodgia. Ea constă dintr-o serie de rapiduri și cascade pe o lățime de aproximativ 10 km. Căderea principală este de 21 de metri. Debitul poate atinge 11.000 m³/s. Cascada este un obstacol major pentru navigație, contribuind la formarea arhipelagului Si Phan Don. Zona este bogată în specii de pești. De asemenea, este habitat pentru delfinii Irrawaddy. Platforme de observare oferă vederi spectaculoase. Khone Phapheng este un simbol național și o atracție turistică.",
+      en: "Khone Phapheng Falls is the largest waterfall in Southeast Asia by volume, located on the Mekong River in Champasak Province, Laos, near the Cambodian border. It consists of a series of rapids and cascades stretching about 10 kilometers wide, with a main drop of 21 meters. Flow rates can reach 11,000 m³/s. The falls form a major navigation obstacle, leading to the Si Phan Don archipelago. The area supports diverse fish species and is habitat for Irrawaddy dolphins. Viewing platforms provide spectacular vistas. Khone Phapheng is a national landmark and popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall ist 10 Kilometer breit.", "Die Hauptfallhöhe beträgt 21 Meter.", "Der maximale Wasserdurchfluss erreicht 11.000 m³/s.", "Er liegt nahe der Grenze zu Kambodscha.", "Über 100 Fischarten sind in der Umgebung dokumentiert.", "Jährlich besuchen über 100.000 Touristen die Fälle."],
+      hu: ["Szélessége 10 km.", "Fő esés: 21 méter.", "Max. vízhozam: 11 000 m³/s.", "Kambodzsa határa közelében.", "Több mint 100 halfaj.", "Évente 100 000 turista."],
+      ro: ["Lățimea: 10 km.", "Căderea principală: 21 de metri.", "Debit maxim: 11.000 m³/s.", "Aproape de granița cu Cambodgia.", "Peste 100 de specii de pești.", "Peste 100.000 de turiști anual."],
+      en: ["The falls span 10 kilometers in width.", "Main drop is 21 meters.", "Maximum flow rate reaches 11,000 m³/s.", "Located near the border with Cambodia.", "Over 100 fish species are found in the area.", "Over 100,000 tourists visit annually."],
+    },
   },
   {
     id: "laos-si-phan-don-nature-v2",
     type: "river",
     name: { de: "Si Phan Don (4000 Inseln)", hu: "Si Phan Don (4000 sziget)", ro: "Si Phan Don (4000 de insule)", en: "Si Phan Don (4000 Islands)" },
-    coordinates: { lat: 13.945, lng: 105.918 },
+    coords: [105.918, 13.945],
     description: {
       de: "Dieses Binnendelta im Mekong umfasst Tausende von Inseln an der Grenze zu Kambodscha. Die Region ist für ihre Artenvielfalt und Ruhe bekannt.",
       hu: "A Mekong folyó belső deltája több ezer szigetet foglal magában a kambodzsai határnál. A régió biológiai sokféleségéről és nyugalmáról híres.",
@@ -1197,12 +1233,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Home to the rare Irrawaddy dolphins", "Largest islands are Don Khong and Don Det", "Features remains of the first Lao railway", "Mekong reaches its greatest width here"],
     },
     imageHint: "Si Phan Don islands Mekong River sunset",
+    descriptionAdvanced: {
+      de: "Si Phan Don, auch bekannt als die 4000 Inseln, ist eine Inselgruppe im Mekong in der Provinz Champasak, Laos. Sie erstreckt sich über etwa 50 Kilometer Flusslänge und umfasst Hunderte von Inseln, die in der Regenzeit teilweise überschwemmt sind. Die größten Inseln sind Don Khong, Don Det und Don Khon. Si Phan Don ist bekannt für seine entspannte Atmosphäre, Wasserfälle (Khone Phapheng) und den Irrawaddy-Delfin. Die Inseln sind durch Brücken und Fähren verbunden. Der Tourismus ist die Haupteinnahmequelle. Die Landschaft ist geprägt von Reisfeldern, Kokospalmen und Fischerdörfern. Si Phan Don ist ein beliebtes Ziel für Rucksacktouristen und Naturliebhaber. Es bietet auch alte französische Kolonialarchitektur.",
+      hu: "Si Phan Don (4000 sziget) szigetcsoport a Mekongon, Champasak tartományban, Laosz déli részén. 50 km hosszan terül el. Több száz sziget, részben elöntve. Fő szigetek: Don Khong, Don Det, Don Khon. Híres laza hangulatáról, vízeséseiről és delfinjeiről. Hidak és kompok kötik össze. Turizmus a fő ágazat. Rizsföldek, pálmafák, halászfalvak. Népszerű hátizsákos turisták körében. Francia gyarmati épületek is találhatók.",
+      ro: "Si Phan Don (4000 de insule) este un arhipelag pe fluviul Mekong, în provincia Champasak, Laos, întinzându-se pe aproximativ 50 km. Cuprinde sute de insule, unele inundate parțial în sezonul ploios. Principalele insule sunt Don Khong, Don Det și Don Khon. Este cunoscut pentru atmosfera relaxată, cascade (Khone Phapheng) și delfinii Irrawaddy. Insulele sunt legate prin poduri și feriboturi. Turismul este principala activitate economică. Peisajul include orezării, palmieri de cocos și sate de pescari. Destinație populară pentru backpackeri și iubitorii de natură. Arhitectură colonială franceză veche.",
+      en: "Si Phan Don, or the 4000 Islands, is an archipelago on the Mekong River in Champasak Province, southern Laos, stretching about 50 kilometers. It comprises hundreds of islands, some partially submerged during the rainy season. Major islands include Don Khong, Don Det, and Don Khon. Known for its laid-back atmosphere, waterfalls (Khone Phapheng), and Irrawaddy dolphins. Islands are connected by bridges and ferries. Tourism is the main economic driver. Landscape features rice paddies, coconut palms, and fishing villages. Popular among backpackers and nature lovers. Remnants of French colonial architecture can be found.",
+    },
+    factsAdvanced: {
+      de: ["Die Inselgruppe erstreckt sich über 50 Kilometer.", "Sie umfasst mehrere hundert Inseln.", "Die größte Insel, Don Khong, ist 18 Kilometer lang.", "Don Det ist etwa 5 Kilometer lang.", "Die Irrawaddy-Delfinpopulation in der Nähe beträgt etwa 10 Tiere.", "Jährlich besuchen über 200.000 Touristen die Region."],
+      hu: ["50 km hosszan terül el.", "Több száz sziget.", "Don Khong 18 km hosszú.", "Don Det 5 km hosszú.", "Kb. 10 delfin él a közelben.", "Évente 200 000 turista."],
+      ro: ["Se întinde pe 50 km.", "Sute de insule.", "Don Khong are 18 km lungime.", "Don Det are 5 km lungime.", "Populația de delfini: aproximativ 10.", "Peste 200.000 de turiști anual."],
+      en: ["The archipelago stretches 50 kilometers.", "It consists of several hundred islands.", "Largest island, Don Khong, is 18 kilometers long.", "Don Det is about 5 kilometers long.", "Irrawaddy dolphin population nearby is approximately 10.", "Over 200,000 tourists visit annually."],
+    },
   },
   {
     id: "laos-tad-yuang-falls-nature-v2",
     type: "park",
     name: { de: "Tad Yuang Wasserfälle", hu: "Tad Yuang-vízesés", ro: "Cascada Tad Yuang", en: "Tad Yuang Waterfalls" },
-    coordinates: { lat: 15.18, lng: 106.138 },
+    coords: [106.138, 15.18],
     description: {
       de: "Tad Yuang ist ein beeindruckender Wasserfall im Distrikt Paksong, umgeben von Kaffeplantagen. Das Wasser stürzt über eine breite Felskante.",
       hu: "A Tad Yuang egy látványos vízesés Paksong körzetében, kávéültetvényekkel övezve. A víz egy széles sziklaperemről zúdul alá a mélybe.",
@@ -1216,12 +1264,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Total height is approximately 40 meters", "Located on the Bolaven Plateau", "Popular spot for picnics and hikers", "Has a steady flow year-round due to rainforest"],
     },
     imageHint: "Tad Yuang waterfall Bolaven Plateau",
+    descriptionAdvanced: {
+      de: "Tad Yuang Wasserfall ist ein Wasserfall in der Provinz Champasak, Laos, etwa 60 Kilometer von Pakse entfernt. Er hat eine Höhe von etwa 40 Metern und stürzt in ein türkisfarbenes Becken. Der Wasserfall liegt inmitten von Kaffeeplantagen und Dschungel. Tad Yuang ist weniger bekannt als Tad Fane, aber ebenso schön. Der Fluss Yuang speist den Wasserfall. In der Nähe gibt es einen Eco-Lodge und Wanderwege. Besucher können in den Pool springen und die Umgebung erkunden. Der Wasserfall ist ganzjährig aktiv, am stärksten in der Regenzeit. Es gibt zwei Aussichtsplattformen. Tad Yuang ist ein ideales Ziel für einen ruhigen Tagesausflug. Die Landschaft ist geprägt von üppiger Vegetation.",
+      hu: "Tad Yuang-vízesés Champasak tartományban, Laoszban. 60 km-re Pakse-től. Magassága 40 méter. Türkizkék medencébe zuhan. Kávéültetvények és dzsungel veszik körül. Kevesebb turista látogatja, mint Tad Fanet. A Yuang folyó táplálja. Van egy öko-szállás és túraútvonalak. Lehet úszni. Egész évben aktív. Két kilátó található. Csendes kirándulóhely.",
+      ro: "Cascada Tad Yuang este o cascadă în provincia Champasak, Laos, la 60 km de Pakse. Înălțime de aproximativ 40 de metri, căzând într-un bazin turcoaz. Înconjurată de plantații de cafea și pădure. Mai puțin cunoscută decât Tad Fane, dar la fel de frumoasă. Râul Yuang alimentează cascada. Aproape există o eco-lodge și trasee. Vizitatorii pot înota. Activă tot anul, cel mai spectaculoasă în sezonul ploios. Două platforme de observare. Destinație liniștită pentru excursii de o zi.",
+      en: "Tad Yuang Waterfall is a 40-meter-high waterfall in Champasak Province, Laos, 60 kilometers from Pakse. It plunges into a turquoise pool surrounded by coffee plantations and jungle. Less frequented than Tad Fane, it offers a tranquil experience. The Yuang River feeds the falls. An eco-lodge and hiking trails are nearby. Visitors can swim and enjoy viewpoints. Active year-round, most powerful during rainy season. Two viewing platforms provide good perspectives. Tad Yuang is an ideal day trip destination for nature lovers.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall ist 40 Meter hoch.", "Er liegt 60 Kilometer von Pakse entfernt.", "Das Becken hat eine Tiefe von 3 Metern.", "Die Wassertemperatur beträgt 24°C.", "Der Wasserfall wird vom Yuang-Fluss gespeist.", "Jährlich besuchen etwa 20.000 Touristen den Wasserfall."],
+      hu: ["Magassága 40 méter.", "60 km-re Pakse-től.", "A medence mélysége 3 méter.", "Víz hőmérséklete: 24°C.", "A Yuang folyó táplálja.", "Évente 20.000 turista."],
+      ro: ["Înălțime: 40 de metri.", "60 km de Pakse.", "Adâncimea bazinului: 3 metri.", "Temperatura apei: 24°C.", "Alimentată de râul Yuang.", "Aproximativ 20.000 de turiști anual."],
+      en: ["The waterfall is 40 meters high.", "Located 60 kilometers from Pakse.", "The pool depth is 3 meters.", "Water temperature averages 24°C.", "Fed by the Yuang River.", "Approximately 20,000 tourists visit annually."],
+    },
   },
   {
     id: "laos-mekong-river-nature-v2",
     type: "river",
     name: { de: "Mekong Fluss", hu: "Mekong-folyó", ro: "Fluviul Mekong", en: "Mekong River" },
-    coordinates: { lat: 17.962, lng: 102.597 },
+    coords: [102.597, 17.962],
     description: {
       de: "Der Mekong ist die wichtigste Wasserstraße von Laos und prägt das Land auf einer Länge von fast 1.900 Kilometern. Er dient als Lebensgrundlage und Transportweg.",
       hu: "A Mekong Laosz legfontosabb vízi útja, amely közel 1900 kilométer hosszan szeli át az országot. Megélhetést és fontos szállítási útvonalat biztosít.",
@@ -1235,12 +1295,24 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Twelfth longest river in the world", "Forms much of the border with Thailand", "Most important fishing area in Southeast Asia", "Water level fluctuates heavily with seasons"],
     },
     imageHint: "Mekong River aerial view Laos",
+    descriptionAdvanced: {
+      de: "Der Mekong ist einer der größten Flüsse Asiens, der durch Laos fließt und eine Länge von etwa 4.350 Kilometern hat. In Laos erstreckt er sich über 1.900 Kilometer und bildet die Grenze zu Thailand und Myanmar. Der Fluss ist lebenswichtig für die Landwirtschaft, Fischerei und den Transport. Er beherbergt eine einzigartige Biodiversität, darunter den Mekong-Riesenwels und Irrawaddy-Delfine. Der Mekong ist auch kulturell bedeutsam und Schauplatz vieler Feste. Die Wasserführung schwankt stark zwischen Trocken- und Regenzeit. Staudämme entlang des Flusses haben Auswirkungen auf das Ökosystem. Der Mekong ist eine wichtige Wasserstraße und eine Quelle des Lebens für Millionen von Menschen.",
+      hu: "A Mekong Ázsia egyik legnagyobb folyója, 4350 km hosszú. Laoszban 1900 km-en folyik, határt képez Thaifölddel és Mianmarral. Fontos a mezőgazdaság, halászat, közlekedés szempontjából. Egyedülálló élővilág: Mekong-óriásharcsa, Irrawaddy-delfin. Kulturális jelentőséggel bír. Vízhozama erősen ingadozik. Gátak építése hatással van az ökoszisztémára. A folyó létfontosságú milliók számára.",
+      ro: "Fluviul Mekong este unul dintre cele mai mari fluvii din Asia, cu o lungime de 4.350 km. În Laos, curge pe 1.900 km, formând granița cu Thailanda și Myanmar. Este vital pentru agricultură, pescuit și transport. Găzduiește o biodiversitate unică, inclusiv somnul uriaș al Mekongului și delfinul Irrawaddy. Are importanță culturală, găzduind festivaluri. Debitul variază sezonier. Barajele de pe fluviu afectează ecosistemul. Mekongul este o sursă de viață pentru milioane de oameni.",
+      en: "The Mekong River is one of Asia's major rivers, flowing 4,350 kilometers. In Laos, it runs for 1,900 kilometers, forming borders with Thailand and Myanmar. It is essential for agriculture, fisheries, and transportation. The river hosts unique biodiversity, including the Mekong giant catfish and Irrawaddy dolphin. Culturally significant, it is the site of many festivals. Water levels vary dramatically between dry and rainy seasons. Dams along the river impact ecosystems. The Mekong is a lifeline for millions of people.",
+    },
+    factsAdvanced: {
+      de: ["Der Mekong ist 4.350 Kilometer lang.", "In Laos fließt er über 1.900 Kilometer.", "Die durchschnittliche Breite beträgt 1,5 Kilometer.", "Die maximale Tiefe erreicht 100 Meter.", "Der Mekong-Riesenwels kann bis zu 300 kg schwer werden.", "Über 60 Millionen Menschen leben im Einzugsgebiet des Mekong."],
+      hu: ["Hossza 4350 km.", "Laoszban 1900 km hosszú.", "Átlagos szélesség 1,5 km.", "Maximális mélység 100 m.", "Mekong-óriásharcsa súlya elérheti a 300 kg-ot.", "Több mint 60 millió ember él a vízgyűjtő területén."],
+      ro: ["Lungime: 4.350 km.", "În Laos: 1.900 km.", "Lățimea medie: 1,5 km.", "Adâncimea maximă: 100 m.", "Somnul uriaș al Mekongului poate atinge 300 kg.", "Peste 60 de milioane de oameni trăiesc în bazinul hidrografic."],
+      en: ["The Mekong River is 4,350 kilometers long.", "It flows 1,900 kilometers within Laos.", "Average width is 1.5 kilometers.", "Maximum depth reaches 100 meters.", "Mekong giant catfish can weigh up to 300 kg.", "Over 60 million people live in the Mekong basin."],
+    },
   },
   {
     id: "laos-tad-sae-falls-nature-v2",
     type: "park",
     name: { de: "Tad Sae Wasserfälle", hu: "Tad Sae-vízesés", ro: "Cascada Tad Sae", en: "Tad Sae Waterfalls" },
-    coordinates: { lat: 19.841, lng: 102.215 },
+    coords: [102.215, 19.841],
     description: {
       de: "Die Tad Sae Wasserfälle zeichnen sich durch flache Kalkbecken aus, über die das Wasser in den Nam Khan Fluss fließt. Sie sind nur per Boot erreichbar.",
       hu: "A Tad Sae-vízesés jellegzetessége a sekély mészkőmedencék sorozata, amelyeken keresztül a víz a Nam Khan-folyóba ömlik. Csak hajóval közelíthető meg.",
@@ -1259,7 +1331,7 @@ export const poiExtraLaosNatureV2: POI[] = [
     id: "laos-tad-lo-falls-nature-v2",
     type: "park",
     name: { de: "Tad Lo Wasserfälle", hu: "Tad Lo-vízesés", ro: "Cascada Tad Lo", en: "Tad Lo Waterfalls" },
-    coordinates: { lat: 15.535, lng: 106.275 },
+    coords: [106.275, 15.535],
     description: {
       de: "Tad Lo ist eine Serie von drei Wasserfällen am Fluss Xe Set in der Provinz Salavan. Die Gegend ist für ihre natürliche Schönheit und ethnische Vielfalt bekannt.",
       hu: "A Tad Lo egy három vízesésből álló sorozat a Xe Set-folyón, Salavan tartományban. A környék természeti szépségéről és etnikai sokszínűségéről ismert.",
@@ -1273,5 +1345,17 @@ export const poiExtraLaosNatureV2: POI[] = [
       en: ["Composed of Tad Hang, Tad Lo, and Tad Suong", "Tad Suong is the tallest section at 90 meters", "Popular base for trekking expeditions", "Nearby villages are home to Katu and Alak people"],
     },
     imageHint: "Tad Lo waterfall Salavan Province",
+    descriptionAdvanced: {
+      de: "Die Tad Lo Wasserfälle befinden sich im Süden von Laos, etwa 80 km von Pakse entfernt, in der Provinz Champasak. Sie bestehen aus drei Hauptstufen, von denen die höchste etwa 10 Meter misst. Die Fälle sind Teil des Flusses Xe Don, der über Basaltfelsen in das umliegende tropische Waldgebiet stürzt. Die Region ist von traditionellen Dörfern der ethnischen Gruppen der Alak und Katu geprägt, die in der Umgebung bewirtschaften. Der Wasserfall ist ein beliebtes Ziel für Ökotourismus, bietet aber auch Einblicke in die landwirtschaftliche Nutzung der umliegenden Hochebene, auf der hauptsächlich Kaffee und Reis angebaut werden. Die Fälle haben eine durchschnittliche Breite von etwa 30 Metern während der Trockenzeit und können in der Regenzeit auf über 100 Meter anschwellen.",
+      hu: "A Tad Lo-vízesés Dél-Laoszban, a Bolaven-fennsík közelében található, és a Xe Don folyó alkotja. A három szintből álló zuhatag a régió egyik leglátogatottabb természeti látványossága. A környékbeli falvakban a katu és alak etnikai csoportok élnek, akik hagyományos mezőgazdasággal, például kávé- és rizstermesztéssel foglalkoznak. A vízesés a monszun idején különösen impozáns, amikor a vízhozam megsokszorozódik. A turisták számára szálláslehetőségek is rendelkezésre állnak, és a helyi vezetők túrákat szerveznek a környező erdőkbe. A Tad Lo népszerűsége az elmúlt évtizedben nőtt, részben a Pakse-ból kiinduló könnyű megközelíthetőségének köszönhetően. A vízesés környéke gazdag növény- és állatvilággal rendelkezik.",
+      ro: "Cascada Tad Lo este situată în sudul Laosului, în provincia Champasak, la aproximativ 80 km de Pakse. Formată de râul Xe Don, cascada are trei trepte principale, cea mai înaltă măsurând circa 10 metri. Zona este cunoscută pentru podișul Bolaven, unde se cultivă cafea de înaltă calitate. Cascada atrage turiști interesați de drumeții și observarea păsărilor. În sezonul ploios, debitul crește semnificativ, iar înconjurul devine mai luxuriant. Comunitățile locale, în principal din etniile Alak și Katu, oferă cazare și ghizi. Agricultura, în special cafeaua, cardamomul și fructele tropicale, contribuie la economia zonei. Tad Lo este accesibilă pe drum asfaltat și reprezintă o oprire frecventă pe traseul turistic al podișului.",
+      en: "Tad Lo Waterfalls, located in southern Laos, are a series of cascades on the Xe Don River. The falls span three distinct drops, with the tallest reaching 10 meters. The surrounding Bolaven Plateau is a major coffee-growing region, and the waterfalls are a key ecotourism destination. The area supports diverse bird species, including hornbills and kingfishers, and is home to ethnic minority villages. The falls' flow varies seasonally; during the dry season width averages 30 meters, expanding significantly in the wet season. Tourism has spurred local economic development, with guesthouses and community-based tours. The falls are part of the larger Tad Lo Natural Heritage Site, designated by the Lao government for conservation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Hauptstufe: 10 Meter", "Entfernung von Pakse: ca. 80 km", "Breite in der Trockenzeit: 30 Meter", "Anzahl der Hauptstufen: 3", "Höhe über dem Meeresspiegel: 200 m", "Jährliche Besucherzahl: ca. 50.000"],
+      hu: ["Magasság: 10 m", "Szélesség esős évszakban: 100 m", "Távolság Pakse-tól: 80 km", "Vízhozam száraz évszakban: 5 m³/s", "Etnikai csoportok: Alak, Katu", "Látogatók száma 2023-ban: 45.000"],
+      ro: ["Debit mediu: 15 m³/s", "Suprafața bazinului hidrografic: 200 km²", "Altitudine: 200 m", "Distanță de la Pakse: 80 km", "Nr. de trepte: 3", "Precipitații anuale: 2.500 mm"],
+      en: ["Total drop: 10 m", "Width in dry season: 30 m", "Elevation: 200 m", "Annual rainfall: 2,500 mm", "Tourist arrivals 2022: 40,000", "Length of waterfall trail: 1.2 km"],
+    },
   }
 ];

@@ -5,7 +5,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-rock-islands-nature-v2",
     type: "park",
     name: { de: "Rock Islands", hu: "Rock-szigetek", ro: "Insulele Rock", en: "Rock Islands" },
-    coordinates: { lat: 7.15, lng: 134.3333 },
+    coords: [134.3333, 7.15],
     description: {
       de: "Die Rock Islands sind eine Ansammlung von über 200 Kalksteininseln in Palau. Sie gehören zum UNESCO-Welterbe und sind für ihre Pilzform bekannt.",
       hu: "A Rock-szigetek több mint 200 mészkőszigetből álló csoport Palau déli részén. Az UNESCO Világörökség része, jellegzetes gomba alakú képződményekkel.",
@@ -24,7 +24,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-mount-ngerchelchuus-nature-v2",
     type: "peak",
     name: { de: "Mount Ngerchelchuus", hu: "Ngerchelchuus-hegy", ro: "Muntele Ngerchelchuus", en: "Mount Ngerchelchuus" },
-    coordinates: { lat: 7.5647, lng: 134.5714 },
+    coords: [134.5714, 7.5647],
     description: {
       de: "Der Mount Ngerchelchuus ist mit 242 Metern der höchste Gipfel von Palau. Er befindet sich auf der Insel Babeldaob im Bundesstaat Ngardmau.",
       hu: "A Ngerchelchuus-hegy Palau legmagasabb pontja, tengerszint feletti magassága 242 méter. Babeldaob szigetén, Ngardmau államban található.",
@@ -43,7 +43,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-lake-ngardok-nature-v2",
     type: "lake",
     name: { de: "Ngardok-See", hu: "Ngardok-tó", ro: "Lacul Ngardok", en: "Lake Ngardok" },
-    coordinates: { lat: 7.5125, lng: 134.6142 },
+    coords: [134.6142, 7.5125],
     description: {
       de: "Der Ngardok-See ist der größte natürliche Süßwassersee in Mikronesien. Er dient als wichtiges Wasserreservoir und Schutzgebiet für seltene Vogelarten.",
       hu: "A Ngardok-tó Mikronézia legnagyobb természetes édesvizű tava. Fontos víztározó és számos ritka madárfaj természetes élőhelye.",
@@ -62,7 +62,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-eil-malk-island-nature-v2",
     type: "park",
     name: { de: "Eil Malk", hu: "Eil Malk-sziget", ro: "Insula Eil Malk", en: "Eil Malk Island" },
-    coordinates: { lat: 7.15, lng: 134.37 },
+    coords: [134.37, 7.15],
     description: {
       de: "Eil Malk ist die größte Insel in der Mecherchar-Gruppe der Rock Islands. Sie beherbergt zahlreiche marine Seen, darunter den berühmten Quallensee.",
       hu: "Eil Malk a Rock-szigetek Mecherchar csoportjának legnagyobb szigete. Számos tengeri tónak ad otthont, köztük a híres Zselatin-tónak.",
@@ -81,7 +81,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-ngeruktabel-island-nature-v2",
     type: "park",
     name: { de: "Ngeruktabel", hu: "Ngeruktabel-sziget", ro: "Insula Ngeruktabel", en: "Ngeruktabel Island" },
-    coordinates: { lat: 7.27, lng: 134.42 },
+    coords: [134.42, 7.27],
     description: {
       de: "Ngeruktabel ist die zweitgrößte Insel in der Koror-Gruppe von Palau. Sie zeichnet sich durch hohe Kalksteinklippen und tief eingeschnittene Buchten aus.",
       hu: "Ngeruktabel Palau Koror-csoportjának második legnagyobb szigete. Magas mészkősziklák és mélyen benyúló öblök jellemzik.",
@@ -100,7 +100,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-peleliu-island-nature-v2",
     type: "park",
     name: { de: "Peleliu", hu: "Peleliu-sziget", ro: "Insula Peleliu", en: "Peleliu Island" },
-    coordinates: { lat: 7.01, lng: 134.25 },
+    coords: [134.25, 7.01],
     description: {
       de: "Peleliu ist eine flache Koralleninsel im Süden des Palau-Archipels. Neben ihrer Geschichte ist sie für ihre dichten Mangrovenwälder und Sandstrände bekannt.",
       hu: "Peleliu egy lapos korallsziget a Palau-szigetcsoport déli részén. Történelmi jelentősége mellett sűrű mangroveerdőiről és homokos strandjairól ismert.",
@@ -119,7 +119,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-angaur-island-nature-v2",
     type: "park",
     name: { de: "Angaur", hu: "Angaur-sziget", ro: "Insula Angaur", en: "Angaur Island" },
-    coordinates: { lat: 6.91, lng: 134.13 },
+    coords: [134.13, 6.91],
     description: {
       de: "Angaur ist die südlichste der bewohnten Hauptinseln von Palau. Die Insel besteht aus Korallenkalk und ist für ihre wildlebenden Affenpopulationen bekannt.",
       hu: "Angaur Palau lakott főszigetei közül a legdélebbi. A korallmészkőből álló sziget híres az ott élő vadon élő majompopulációról.",
@@ -138,7 +138,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-helen-reef-nature-v2",
     type: "park",
     name: { de: "Helen Reef", hu: "Helen-zátony", ro: "Reciful Helen", en: "Helen Reef" },
-    coordinates: { lat: 2.97, lng: 131.78 },
+    coords: [131.78, 2.97],
     description: {
       de: "Helen Reef ist ein großes, abgelegenes Atoll im Südwesten von Palau. Es ist ein streng geschütztes Meeresschutzgebiet mit einer enormen Artenvielfalt.",
       hu: "A Helen-zátony egy hatalmas, távoli atoll Palau délnyugati részén. Szigorúan védett tengeri rezervátum, óriási biológiai sokféleséggel.",
@@ -157,7 +157,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-sonsorol-island-nature-v2",
     type: "park",
     name: { de: "Sonsorol-Insel", hu: "Sonsorol-sziget", ro: "Insula Sonsorol", en: "Sonsorol Island" },
-    coordinates: { lat: 5.33, lng: 132.22 },
+    coords: [132.22, 5.33],
     description: {
       de: "Sonsorol ist eine kleine, abgelegene Koralleninsel, die von dichtem Wald bedeckt ist. Sie gehört zu den südwestlichen Inseln von Palau und ist kaum erschlossen.",
       hu: "Sonsorol egy kicsi, távoli korallsziget, amelyet sűrű erdő borít. Palau délnyugati szigeteihez tartozik, és szinte teljesen érintetlen.",
@@ -176,7 +176,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-merir-island-nature-v2",
     type: "wildlife",
     name: { de: "Merir", hu: "Merir-sziget", ro: "Insula Merir", en: "Merir Island" },
-    coordinates: { lat: 4.32, lng: 132.31 },
+    coords: [132.31, 4.32],
     description: {
       de: "Merir ist eine einsame Insel im Südwesten Palaus, die für ihre Seeschildkröten-Nistplätze bekannt ist. Die Insel ist fast vollständig bewaldet.",
       hu: "Merir egy elhagyatott sziget Palau délnyugati részén, amely tengeri teknősök fészkelőhelyeiről híres. A szigetet szinte teljesen erdő borítja.",
@@ -195,7 +195,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-pulo-anna-nature-v2",
     type: "park",
     name: { de: "Pulo Anna", hu: "Pulo Anna-sziget", ro: "Insula Pulo Anna", en: "Pulo Anna" },
-    coordinates: { lat: 4.66, lng: 131.95 },
+    coords: [131.95, 4.66],
     description: {
       de: "Pulo Anna ist eine winzige Koralleninsel, die weit entfernt vom palauischen Hauptarchipel liegt. Sie ist ein Rückzugsort für Seevögel und marine Lebewesen.",
       hu: "Pulo Anna egy apró korallsziget, amely messze fekszik Palau fő szigetcsoportjától. Tengeri madarak és tengeri élőlények menedékhelye.",
@@ -214,7 +214,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-tobi-island-nature-v2",
     type: "park",
     name: { de: "Tobi", hu: "Tobi-sziget", ro: "Insula Tobi", en: "Tobi Island" },
-    coordinates: { lat: 3.01, lng: 131.12 },
+    coords: [131.12, 3.01],
     description: {
       de: "Tobi ist die westlichste Insel von Palau und liegt näher an Indonesien als an der Hauptstadt Koror. Die Insel ist flach und von Kokoswäldern geprägt.",
       hu: "Tobi Palau legnyugatibb szigete, közelebb fekszik Indonéziához, mint a fővároshoz, Kororhoz. A sziget lapos, kókuszligetek borítják.",
@@ -233,7 +233,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-ngeruangel-reserve-nature-v2",
     type: "park",
     name: { de: "Ngeruangel-Reservat", hu: "Ngeruangel-rezervátum", ro: "Rezervația Ngeruangel", en: "Ngeruangel Marine Reserve" },
-    coordinates: { lat: 8.12, lng: 134.63 },
+    coords: [134.63, 8.12],
     description: {
       de: "Ngeruangel ist ein unbewohntes Atoll nördlich von Kayangel, das als Meeresschutzgebiet ausgewiesen ist. Es dient als wichtiger Lebensraum für bedrohte Tierarten.",
       hu: "Ngeruangel egy lakatlan atoll Kayangeltől északra, amely tengeri rezervátumként védett. Fontos élőhelye veszélyeztetett fajoknak.",
@@ -252,7 +252,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-ngaremeduu-bay-nature-v2",
     type: "wildlife",
     name: { de: "Ngaremeduu-Bucht", hu: "Ngaremeduu-öböl", ro: "Golful Ngaremeduu", en: "Ngaremeduu Bay" },
-    coordinates: { lat: 7.52, lng: 134.51 },
+    coords: [134.51, 7.52],
     description: {
       de: "Die Ngaremeduu-Bucht ist das größte Ästuar und Mangrovenökosystem in Palau. Sie bietet einen entscheidenden Schutzraum für Fische und wirbellose Tiere.",
       hu: "A Ngaremeduu-öböl Palau legnagyobb torkolati és mangrove ökoszisztémája. Döntő fontosságú óvóhely halak és gerinctelenek számára.",
@@ -271,7 +271,7 @@ export const palauNatureV2: POI[] = [
     id: "palau-babeldaob-mangroves-nature-v2",
     type: "wildlife",
     name: { de: "Babeldaob-Mangroven", hu: "Babeldaob mangroveerdei", ro: "Mangrovele din Babeldaob", en: "Babeldaob Mangroves" },
-    coordinates: { lat: 7.5, lng: 134.6 },
+    coords: [134.6, 7.5],
     description: {
       de: "Die Mangrovenwälder von Babeldaob säumen große Teile der Küste der Hauptinsel. Sie sind ein komplexes Ökosystem, das das Land vor Erosion schützt.",
       hu: "Babeldaob mangroveerdei a fősziget partvonalának jelentős részét szegélyezik. Összetett ökoszisztémát alkotnak, amely védi a partot az eróziótól.",

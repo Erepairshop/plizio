@@ -6,7 +6,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-kamuk-relief-v2",
     type: "peak",
     name: { de: "Cerro Kamuk", hu: "Cerro Kamuk", ro: "Cerro Kamuk", en: "Cerro Kamuk" },
-    coordinates: { lat: 9.2647, lng: -83.0211 },
+    coords: [-83.0211, 9.2647],
     description: {
       de: "Der Cerro Kamuk ist einer der höchsten Gipfel in der Cordillera de Talamanca. Er liegt innerhalb des Nationalparks La Amistad.",
       hu: "A Cerro Kamuk a Talamanca-hegység egyik legmagasabb csúcsa. A La Amistad Nemzeti Park területén található.",
@@ -20,12 +20,24 @@ export const poiExtraCostaricaReliefV2: POI[] = [
       en: ["Elevation: 3549 meters", "Location: Talamanca Mountains", "Ecosystem: Páramo", "Status: UNESCO World Heritage"],
     },
     imageHint: "Cerro Kamuk mountain peak cloud forest landscape",
+    descriptionAdvanced: {
+      de: "Der Cerro Kamuk ist mit 3.554 m der zweithöchste Gipfel Costa Ricas, gelegen in der Cordillera de Talamanca im Chirripó-Nationalpark. Er bietet anspruchsvolle Wanderungen durch paramo-ähnliches Gelände. Der Berg ist von alpiner Tundra und Felsformationen geprägt. Die Umgebung ist reich an endemischen Pflanzenarten. Cerro Kamuk ist Teil des La Amistad International Park Biosphärenreservats. Die Besteigung erfordert mehrere Tage und gute Kondition.",
+      hu: "A Cerro Kamuk 3.554 m magas, Costa Rica második legmagasabb csúcsa, a Talamanca-hegységben, a Chirripó Nemzeti Parkban. Kihívást jelentő túrákat kínál páramószerű terepen. A hegyet alpesi tundra és sziklás formációk jellemzik. A környék gazdag endemikus növényfajokban. A Cerro Kamuk a La Amistad Nemzetközi Park bioszféra-rezervátum része. A megmászás több napot és jó fizikai állapotot igényel.",
+      ro: "Cerro Kamuk, cu 3.554 m, este al doilea cel mai înalt vârf din Costa Rica, situat în Cordillera de Talamanca, în Parcul Național Chirripó. Oferă drumeții provocatoare prin teren asemănător paramourilor. Muntele este caracterizat de tundră alpină și formațiuni stâncoase. Zona este bogată în plante endemice. Cerro Kamuk face parte din Rezervația Biosferei Parcul Internațional La Amistad. Ascensiunea necesită mai multe zile și o condiție fizică bună.",
+      en: "Cerro Kamuk, at 3,554 meters, is Costa Rica's second-highest peak, located in the Chirripó National Park within the Talamanca Mountains. The summit offers views of the surrounding paramo and glacial lakes. The region features unique alpine flora such as dwarf bamboo and frailejones. The ascent takes 2-3 days and requires acclimatization. Cerro Kamuk is part of the La Amistad biosphere reserve, a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.554 m", "Rang: 2. höchster Gipfel Costa Ricas", "Nationalparkfläche: 508 km²", "Dauer der Besteigung: 2-3 Tage", "Anzahl der endemischen Pflanzenarten: 30+", "Durchschnittstemperatur auf dem Gipfel: 0-5°C"],
+      hu: ["Magasság: 3.554 m", "Rangsor: Costa Rica 2. legmagasabb csúcsa", "Nemzeti park területe: 508 km²", "Mászás időtartama: 2-3 nap", "Endemikus növényfajok száma: 30 felett", "Átlaghőmérséklet a csúcson: 0-5°C"],
+      ro: ["Altitudine: 3.554 m", "Clasament: al 2-lea cel mai înalt vârf din Costa Rica", "Suprafața parcului național: 508 km²", "Durata ascensiunii: 2-3 zile", "Specii de plante endemice: peste 30", "Temperatura medie pe vârf: 0-5°C"],
+      en: ["Elevation: 3,554 m", "Rank: 2nd highest peak in Costa Rica", "National park area: 508 km²", "Ascent duration: 2-3 days", "Endemic plant species: over 30", "Average summit temperature: 0-5°C"],
+    },
   },
   {
     id: "costarica-volcan-turrialba-relief-v2",
     type: "mountain",
     name: { de: "Vulkan Turrialba", hu: "Turrialba vulkán", ro: "Vulcanul Turrialba", en: "Turrialba Volcano" },
-    coordinates: { lat: 10.0242, lng: -83.7658 },
+    coords: [-83.7658, 10.0242],
     description: {
       de: "Der Turrialba ist ein aktiver Stratovulkan im Osten des Zentraltals. Er verfügt über drei Hauptkrater.",
       hu: "A Turrialba egy aktív rétegvulkán a Központi-völgy keleti részén. Három fő kráterrel rendelkezik.",
@@ -44,7 +56,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-silencio-relief-v2",
     type: "peak",
     name: { de: "Cerro Silencio", hu: "Cerro Silencio", ro: "Cerro Silencio", en: "Cerro Silencio" },
-    coordinates: { lat: 8.7833, lng: -82.9167 },
+    coords: [-82.9167, 8.7833],
     description: {
       de: "Der Cerro Silencio liegt in der Fila Costeña, einer Gebirgskette im Südwesten Costa Ricas. Er bietet Ausblicke auf den Pazifik.",
       hu: "A Cerro Silencio a Fila Costeña hegységben található, Costa Rica délnyugati részén. Kilátást nyújt a Csendes-óceánra.",
@@ -63,7 +75,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cordillera-guanacaste-relief-v2",
     type: "mountain",
     name: { de: "Guanacaste-Gebirge", hu: "Guanacaste-hegység", ro: "Munții Guanacaste", en: "Guanacaste Mountains" },
-    coordinates: { lat: 10.7, lng: -85.3333 },
+    coords: [-85.3333, 10.7],
     description: {
       de: "Die Guanacaste-Gebirgskette verläuft von Nordwesten nach Südosten. Sie umfasst mehrere bekannte Vulkane wie den Rincón de la Vieja.",
       hu: "A Guanacaste-hegység északnyugatról délkeletre húzódik. Számos ismert vulkánt foglal magába, mint például a Rincón de la Vieja.",
@@ -82,7 +94,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-caraigres-relief-v2",
     type: "peak",
     name: { de: "Cerro Caraigres", hu: "Cerro Caraigres", ro: "Cerro Caraigres", en: "Cerro Caraigres" },
-    coordinates: { lat: 9.7167, lng: -84.1833 },
+    coords: [-84.1833, 9.7167],
     description: {
       de: "Der Cerro Caraigres ist ein markanter Gipfel in der Nähe von San José. Er ist ein beliebtes Ziel für Bergwanderer.",
       hu: "A Cerro Caraigres egy feltűnő csúcs San José közelében. Népszerű célpont a hegyi túrázók számára.",
@@ -101,7 +113,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-buey-relief-v2",
     type: "mountain",
     name: { de: "Fila Buey", hu: "Fila Buey", ro: "Fila Buey", en: "Fila Buey" },
-    coordinates: { lat: 8.7167, lng: -83.1667 },
+    coords: [-83.1667, 8.7167],
     description: {
       de: "Die Fila Buey ist ein Gebirgszug im Süden von Costa Rica. Sie bildet die natürliche Grenze zwischen verschiedenen Tälern.",
       hu: "A Fila Buey egy hegyvonulat Costa Rica déli részén. Természetes határt képez a különböző völgyek között.",
@@ -120,7 +132,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-pito-relief-v2",
     type: "peak",
     name: { de: "Cerro Pito", hu: "Cerro Pito", ro: "Cerro Pito", en: "Cerro Pito" },
-    coordinates: { lat: 8.5833, lng: -82.8833 },
+    coords: [-82.8833, 8.5833],
     description: {
       de: "Der Cerro Pito liegt an der Grenze zu Panama. Er ist Teil der Talamanca-Gebirgskette.",
       hu: "A Cerro Pito a panamai határnál található. A Talamanca-hegység része.",
@@ -139,7 +151,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-valle-diquis-relief-v2",
     type: "valley",
     name: { de: "Diquis-Tal", hu: "Diquis-völgy", ro: "Valea Diquis", en: "Diquis Valley" },
-    coordinates: { lat: 8.9333, lng: -83.4 },
+    coords: [-83.4, 8.9333],
     description: {
       de: "Das Diquis-Tal ist eine bedeutende Tieflandregion im Süden. Es ist für seine archäologischen Steinmonumente bekannt.",
       hu: "A Diquis-völgy jelentős alföldi régió délen. Ismert régészeti kőmonumentjeiről.",
@@ -158,7 +170,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-vueltas-relief-v2",
     type: "peak",
     name: { de: "Cerro Vueltas", hu: "Cerro Vueltas", ro: "Cerro Vueltas", en: "Cerro Vueltas" },
-    coordinates: { lat: 9.5833, lng: -83.8333 },
+    coords: [-83.8333, 9.5833],
     description: {
       de: "Der Cerro Vueltas ist ein Berg im Bereich der Cordillera de Talamanca. Er liegt nahe dem Cerro de la Muerte.",
       hu: "A Cerro Vueltas egy hegy a Cordillera de Talamanca területén. A Cerro de la Muerte közelében fekszik.",
@@ -177,7 +189,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-coton-relief-v2",
     type: "mountain",
     name: { de: "Fila Coton", hu: "Fila Coton", ro: "Fila Coton", en: "Fila Coton" },
-    coordinates: { lat: 8.7667, lng: -82.8667 },
+    coords: [-82.8667, 8.7667],
     description: {
       de: "Die Fila Coton ist eine Gebirgskette nahe der Grenze zu Panama. Sie ist für ihre hohe Biodiversität bekannt.",
       hu: "A Fila Coton egy hegyvonulat a panamai határ közelében. Ismert magas biodiverzitásáról.",
@@ -196,7 +208,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-asuncion-relief-v2",
     type: "peak",
     name: { de: "Cerro Asunción", hu: "Cerro Asunción", ro: "Cerro Asunción", en: "Cerro Asunción" },
-    coordinates: { lat: 9.55, lng: -83.75 },
+    coords: [-83.75, 9.55],
     description: {
       de: "Der Cerro Asunción ist einer der höchsten Punkte entlang des Interamerikanischen Highways. Er liegt in der Talamanca-Region.",
       hu: "A Cerro Asunción az egyik legmagasabb pont a Pánamerikai autópálya mentén. A Talamanca régióban található.",
@@ -215,7 +227,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-escazu-relief-v2",
     type: "mountain",
     name: { de: "Cerro Escazú", hu: "Cerro Escazú", ro: "Cerro Escazú", en: "Cerro Escazú" },
-    coordinates: { lat: 9.8667, lng: -84.1833 },
+    coords: [-84.1833, 9.8667],
     description: {
       de: "Der Cerro Escazú ist der höchste Punkt im Gebirgsmassiv von Escazú. Er grenzt an das Zentraltal.",
       hu: "A Cerro Escazú az Escazú-hegység legmagasabb pontja. A Központi-völggyel határos.",
@@ -234,7 +246,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-cal-relief-v2",
     type: "mountain",
     name: { de: "Fila Cal", hu: "Fila Cal", ro: "Fila Cal", en: "Fila Cal" },
-    coordinates: { lat: 8.7833, lng: -83.25 },
+    coords: [-83.25, 8.7833],
     description: {
       de: "Die Fila Cal ist eine Bergrücken-Formation im Süden von Costa Rica. Sie ist größtenteils bewaldet.",
       hu: "A Fila Cal egy hegyhát-képződmény Costa Rica déli részén. Nagy része erdővel borított.",
@@ -253,7 +265,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-buenos-aires-relief-v2",
     type: "peak",
     name: { de: "Cerro Buenos Aires", hu: "Cerro Buenos Aires", ro: "Cerro Buenos Aires", en: "Cerro Buenos Aires" },
-    coordinates: { lat: 10.3667, lng: -84.7333 },
+    coords: [-84.7333, 10.3667],
     description: {
       de: "Der Cerro Buenos Aires liegt in der Nähe des Arenal-Vulkans. Er ist Teil des zerklüfteten nördlichen Hochlandes.",
       hu: "A Cerro Buenos Aires az Arenal-vulkán közelében található. A tagolt északi felföld része.",
@@ -272,7 +284,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-angostura-relief-v2",
     type: "mountain",
     name: { de: "Fila Angostura", hu: "Fila Angostura", ro: "Fila Angostura", en: "Fila Angostura" },
-    coordinates: { lat: 9.9167, lng: -83.65 },
+    coords: [-83.65, 9.9167],
     description: {
       de: "Die Fila Angostura ist ein kleinerer Bergrücken östlich von Turrialba. Er ist durch steile Hänge gekennzeichnet.",
       hu: "A Fila Angostura egy kisebb hegyhát Turrialbától keletre. Meredek lejtők jellemzik.",
@@ -291,7 +303,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-baja-relief-v2",
     type: "peak",
     name: { de: "Cerro Baja", hu: "Cerro Baja", ro: "Cerro Baja", en: "Cerro Baja" },
-    coordinates: { lat: 10.45, lng: -85.1667 },
+    coords: [-85.1667, 10.45],
     description: {
       de: "Der Cerro Baja ist ein Hügel im Norden des Landes. Er liegt in einer Region, die für ihre Viehzucht bekannt ist.",
       hu: "A Cerro Baja egy domb az ország északi részén. Olyan régióban fekszik, amely az állattenyésztésről ismert.",
@@ -310,7 +322,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-matambu-relief-v2",
     type: "mountain",
     name: { de: "Fila Matambú", hu: "Fila Matambú", ro: "Fila Matambú", en: "Fila Matambú" },
-    coordinates: { lat: 10.0833, lng: -85.3667 },
+    coords: [-85.3667, 10.0833],
     description: {
       de: "Die Fila Matambú liegt auf der Halbinsel Nicoya. Sie bildet eine wichtige Trennlinie in der Landschaft.",
       hu: "A Fila Matambú a Nicoya-félszigeten fekszik. Fontos elválasztó vonalat képez a tájban.",
@@ -329,7 +341,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-la-chonta-relief-v2",
     type: "mountain",
     name: { de: "Fila La Chonta", hu: "Fila La Chonta", ro: "Fila La Chonta", en: "Fila La Chonta" },
-    coordinates: { lat: 9.7167, lng: -83.8333 },
+    coords: [-83.8333, 9.7167],
     description: {
       de: "Die Fila La Chonta ist eine Gebirgskette, die die Grenze zwischen den Provinzen San José und Cartago bildet.",
       hu: "A Fila La Chonta egy hegyvonulat, amely San José és Cartago tartományok határát képezi.",
@@ -348,7 +360,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-cerro-durika-relief-v2",
     type: "peak",
     name: { de: "Cerro Dúrika", hu: "Cerro Dúrika", ro: "Cerro Dúrika", en: "Cerro Dúrika" },
-    coordinates: { lat: 9.3, lng: -83.3 },
+    coords: [-83.3, 9.3],
     description: {
       de: "Der Cerro Dúrika liegt in der Cordillera de Talamanca. Er ist für seine unberührte Natur bekannt.",
       hu: "A Cerro Dúrika a Cordillera de Talamanca-ban fekszik. Ismert érintetlen természetéről.",
@@ -367,7 +379,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     id: "costarica-fila-costena-relief-v2",
     type: "mountain",
     name: { de: "Fila Costeña", hu: "Fila Costeña", ro: "Fila Costeña", en: "Fila Costeña" },
-    coordinates: { lat: 8.75, lng: -83.25 },
+    coords: [-83.25, 8.75],
     description: {
       de: "Die Fila Costeña verläuft parallel zur Pazifikküste. Sie ist eine wichtige geologische Barriere im Süden.",
       hu: "A Fila Costeña párhuzamosan húzódik a csendes-óceáni parttal. Fontos geológiai akadály délen.",

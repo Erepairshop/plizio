@@ -727,7 +727,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-deogyusan-mountain-relief-v2",
     type: "peak",
     name: { de: "Deogyusan Berg", hu: "Deogyusan-hegy", ro: "Muntele Deogyusan", en: "Deogyusan Mountain" },
-    coordinates: { lat: 35.8583, lng: 127.7478 },
+    coords: [127.7478, 35.8583],
     description: {
       de: "Dieser Gebirgszug im Zentrum Südkoreas erreicht am Hyangjeokbong eine Höhe von 1614 Metern und ist für seine alpinen Hochplateaus bekannt.",
       hu: "Dél-Korea központi részén elhelyezkedő hegység, melynek legmagasabb pontja a 1614 méteres Hyangjeokbong-csúcs.",
@@ -746,7 +746,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-gayasan-mountain-relief-v2",
     type: "peak",
     name: { de: "Gayasan Berg", hu: "Gayasan-hegy", ro: "Muntele Gayasan", en: "Gayasan Mountain" },
-    coordinates: { lat: 35.8236, lng: 128.1219 },
+    coords: [128.1219, 35.8236],
     description: {
       de: "Ein Granitgebirge in der Provinz Gyeongsangnam-do, das für seine markanten Felsformationen und den 1430 Meter hohen Sangwangbong bekannt ist.",
       hu: "Gránithegység Gyeongsangnam-do tartományban, mely jellegzetes sziklaalakzatairól és az 1430 méter magas Sangwangbong-csúcsról ismert.",
@@ -765,7 +765,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-maisan-mountain-relief-v2",
     type: "mountain",
     name: { de: "Maisan Berg", hu: "Maisan-hegy", ro: "Muntele Maisan", en: "Maisan Mountain" },
-    coordinates: { lat: 35.7533, lng: 127.4692 },
+    coords: [127.4692, 35.7533],
     description: {
       de: "Zwei markante Konglomeratgipfel in Jinan, die an Pferdeohren erinnern und eine Höhe von 686 Metern erreichen.",
       hu: "Két jellegzetes, lófülekre emlékeztető konglomerátum csúcs Jinan megyében, melyek 686 méteres magasságot érnek el.",
@@ -784,7 +784,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-wolchulsan-mountain-relief-v2",
     type: "peak",
     name: { de: "Wolchulsan Berg", hu: "Wolchulsan-hegy", ro: "Muntele Wolchulsan", en: "Wolchulsan Mountain" },
-    coordinates: { lat: 34.7892, lng: 126.6958 },
+    coords: [126.6958, 34.7892],
     description: {
       de: "Der kleinste Nationalpark des Landes zeichnet sich durch seine extrem zerklüfteten Granitgipfel und den 809 Meter hohen Cheonhwangbong aus.",
       hu: "Az ország legkisebb nemzeti parkja, mely rendkívül tagolt gránitcsúcsairól és a 809 méteres Cheonhwangbong-csúcsról ismert.",
@@ -803,7 +803,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-mudeungsan-mountain-relief-v2",
     type: "mountain",
     name: { de: "Mudeungsan Berg", hu: "Mudeungsan-hegy", ro: "Muntele Mudeungsan", en: "Mudeungsan Mountain" },
-    coordinates: { lat: 35.1333, lng: 127.0 },
+    coords: [127.0, 35.1333],
     description: {
       de: "Ein Berg bei Gwangju, der für seine massiven säulenförmigen Gelenkformationen aus Vulkangestein in 1187 Metern Höhe bekannt ist.",
       hu: "Gwangju melletti hegy, mely az 1187 méteres magasságban található masszív vulkáni oszlopos elválásairól híres.",
@@ -822,7 +822,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-odaesan-mountain-relief-v2",
     type: "peak",
     name: { de: "Odaesan Berg", hu: "Odaesan-hegy", ro: "Muntele Odaesan", en: "Odaesan Mountain" },
-    coordinates: { lat: 37.7833, lng: 128.5917 },
+    coords: [128.5917, 37.7833],
     description: {
       de: "Dieses Massiv in Gangwon-do besteht aus fünf Hauptgipfeln, wobei der Birobong mit 1563 Metern die höchste Erhebung bildet.",
       hu: "Gangwon-do tartományban található hegység öt fő csúccsal, melyek közül a 1563 méteres Birobong a legmagasabb.",
@@ -841,7 +841,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-woraksan-mountain-relief-v2",
     type: "peak",
     name: { de: "Woraksan Berg", hu: "Woraksan-hegy", ro: "Muntele Woraksan", en: "Woraksan Mountain" },
-    coordinates: { lat: 36.8856, lng: 128.0933 },
+    coords: [128.0933, 36.8856],
     description: {
       de: "Ein steiler Kalkstein- und Granitberg am Chungju-See, dessen höchster Punkt der Yeongbong auf 1097 Metern liegt.",
       hu: "Meredek mészkő- és gránithegy a Chungju-tó partján, melynek legmagasabb pontja az 1097 méteres Yeongbong.",
@@ -860,7 +860,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-chiaksan-mountain-relief-v2",
     type: "peak",
     name: { de: "Chiaksan Berg", hu: "Chiaksan-hegy", ro: "Muntele Chiaksan", en: "Chiaksan Mountain" },
-    coordinates: { lat: 37.3614, lng: 128.0553 },
+    coords: [128.0553, 37.3614],
     description: {
       de: "Ein Gebirgszug mit steilen Hängen in der Nähe von Wonju, bekannt für den 1288 Meter hohen Birobong und seine drei Steintürme.",
       hu: "Meredek lejtőjű hegység Wonju közelében, mely a 1288 méteres Birobong-csúcsról és három kőtornyáról nevezetes.",
@@ -879,7 +879,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-gimje-plain-relief-v2",
     type: "landmark",
     name: { de: "Gimje Ebene", hu: "Gimje-alföld", ro: "Câmpia Gimje", en: "Gimje Plain" },
-    coordinates: { lat: 35.8, lng: 126.8833 },
+    coords: [126.8833, 35.8],
     description: {
       de: "Eines der wenigen Gebiete Südkoreas mit einem flachen Horizont, das als wichtigstes Reisanbaugebiet des Landes dient.",
       hu: "Dél-Korea kevés sík vidékének egyike, mely az ország legfontosabb rizstermelő területeként szolgál.",
@@ -898,7 +898,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-daedunsan-mountain-relief-v2",
     type: "peak",
     name: { de: "Daedunsan Berg", hu: "Daedunsan-hegy", ro: "Muntele Daedunsan", en: "Daedunsan Mountain" },
-    coordinates: { lat: 36.1247, lng: 127.3172 },
+    coords: [127.3172, 36.1247],
     description: {
       de: "Ein dramatisches Relief mit steilen Felsnadeln und Schluchten, das am Macheondae-Gipfel eine Höhe von 878 Metern erreicht.",
       hu: "Drámai domborzat meredek sziklatűkkel és szurdokokkal, mely a Macheondae-csúcson 878 méteres magasságot ér el.",
@@ -917,7 +917,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-noryeong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Noryeong-Gebirge", hu: "Noryeong-hegység", ro: "Munții Noryeong", en: "Noryeong Mountains" },
-    coordinates: { lat: 35.5, lng: 126.8 },
+    coords: [126.8, 35.5],
     description: {
       de: "Ein Gebirgszug im Südwesten Koreas, der sich vom Sobaek-Gebirge abspaltet und die Wasserscheide zwischen dem Geum- und dem Yeongsan-Fluss bildet.",
       hu: "Délnyugat-koreai hegylánc, amely a Sobaek-hegységből ágazik ki, és a Geum és Yeongsan folyók vízválasztója.",
@@ -936,7 +936,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-charyeong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Charyeong-Gebirge", hu: "Charyeong-hegység", ro: "Munții Charyeong", en: "Charyeong Mountains" },
-    coordinates: { lat: 36.8, lng: 127.3 },
+    coords: [127.3, 36.8],
     description: {
       de: "Dieser Gebirgszug verläuft quer durch die Mitte der Halbinsel und trennt die Becken des Han-Flusses und des Geum-Flusses.",
       hu: "A félsziget közepén áthúzódó hegylánc, amely elválasztja a Han-folyó és a Geum-folyó medencéit.",
@@ -955,7 +955,7 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "southkorea-honam-plain-relief-v2",
     type: "landmark",
     name: { de: "Honam Ebene", hu: "Honam-alföld", ro: "Câmpia Honam", en: "Honam Plain" },
-    coordinates: { lat: 35.9, lng: 126.9 },
+    coords: [126.9, 35.9],
     description: {
       de: "Die größte Alluviaebene Südkoreas erstreckt sich entlang der Westküste und ist das wichtigste landwirtschaftliche Zentrum des Landes.",
       hu: "Dél-Korea legnagyobb hordaléksíksága a nyugati part mentén, az ország legfontosabb mezőgazdasági központja.",

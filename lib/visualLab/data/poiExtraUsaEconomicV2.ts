@@ -684,7 +684,7 @@ factsAdvanced: { de: ["Das Technologiezentrum der Region trägt den weit verbrei
     id: "usa-research-triangle-park-economic-v2",
     type: "industry",
     name: { de: "Research Triangle Park", hu: "Research Triangle Park", ro: "Research Triangle Park", en: "Research Triangle Park" },
-    coordinates: { lat: 35.9085, lng: -78.8657 },
+    coords: [-78.8657, 35.9085],
     description: {
       de: "Einer der größten forschungsorientierten Industrieparks in den USA, gelegen in North Carolina zwischen Raleigh, Durham und Chapel Hill. Der Standort beherbergt hunderte Technologie- und Biotech-Unternehmen.",
       hu: "Az USA egyik legnagyobb kutatás-orientált ipari parkja Észak-Karolinában, Raleigh, Durham és Chapel Hill között. A helyszín több száz technológiai és biotechnológiai vállalatnak ad otthont.",
@@ -703,7 +703,7 @@ factsAdvanced: { de: ["Das Technologiezentrum der Region trägt den weit verbrei
     id: "usa-port-of-los-angeles-economic-v2",
     type: "port",
     name: { de: "Hafen von Los Angeles", hu: "Los Angeles-i kikötő", ro: "Portul din Los Angeles", en: "Port of Los Angeles" },
-    coordinates: { lat: 33.7437, lng: -118.2619 },
+    coords: [-118.2619, 33.7437],
     description: {
       de: "Der verkehrsreichste Containerhafen Nordamerikas, gelegen in der San Pedro Bay in Kalifornien. Er ist ein zentrales Tor für den Warenhandel zwischen Asien und den Vereinigten Staaten.",
       hu: "Észak-Amerika legforgalmasabb konténerkikötője a kaliforniai San Pedro-öbölben. Központi kapu az ázsiai és amerikai kontinens közötti kereskedelem számára.",

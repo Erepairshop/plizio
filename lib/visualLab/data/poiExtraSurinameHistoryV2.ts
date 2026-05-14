@@ -1025,7 +1025,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-fort-nieuw-amsterdam-history-v2",
     type: "fort",
     name: { de: "Fort Nieuw-Amsterdam", hu: "Fort Nieuw-Amsterdam", ro: "Fort Nieuw-Amsterdam", en: "Fort Nieuw-Amsterdam" },
-    coordinates: { lat: 5.887, lng: -55.088 },
+    coords: [-55.088, 5.887],
     description: {
       de: "Eine Festung am Zusammenfluss von Suriname- und Commewijne-Fluss. Sie wurde im 18. Jahrhundert zur Verteidigung errichtet.",
       hu: "Erőd a Suriname és a Commewijne folyók találkozásánál. A 18. században épült védelmi céllal.",
@@ -1044,7 +1044,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-rust-en-vrede-history-v2",
     type: "ruins",
     name: { de: "Plantage Rust en Vrede", hu: "Rust en Vrede ültetvény", ro: "Plantația Rust en Vrede", en: "Rust en Vrede Plantation" },
-    coordinates: { lat: 5.791, lng: -54.985 },
+    coords: [-54.985, 5.791],
     description: {
       de: "Eine ehemalige Zuckerrohrplantage am Commewijne-Fluss. Heute sind nur noch Ruinen der alten Infrastruktur erhalten.",
       hu: "Egykori cukornádültetvény a Commewijne folyó mentén. Mára csak a régi infrastruktúra romjai maradtak fenn.",
@@ -1063,7 +1063,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-akker-boz-history-v2",
     type: "ruins",
     name: { de: "Akker Boz", hu: "Akker Boz", ro: "Akker Boz", en: "Akker Boz" },
-    coordinates: { lat: 5.862, lng: -54.942 },
+    coords: [-54.942, 5.862],
     description: {
       de: "Archäologische Stätte einer ehemaligen Plantage am Unterlauf des Commewijne. Dokumentiert die Geschichte der Plantagenwirtschaft.",
       hu: "Egykori ültetvény régészeti lelőhelye a Commewijne alsó folyásánál. Dokumentálja az ültetvénygazdálkodás történetét.",
@@ -1082,7 +1082,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-voorburg-history-v2",
     type: "ruins",
     name: { de: "Plantage Voorburg", hu: "Voorburg ültetvény", ro: "Plantația Voorburg", en: "Voorburg Plantation" },
-    coordinates: { lat: 5.892, lng: -55.082 },
+    coords: [-55.082, 5.892],
     description: {
       de: "Eine historische Plantage nahe Fort Nieuw-Amsterdam. Sie spielte eine wichtige Rolle im kolonialen Agrarsystem.",
       hu: "Történelmi ültetvény a Fort Nieuw-Amsterdam közelében. Fontos szerepet játszott a gyarmati mezőgazdasági rendszerben.",
@@ -1101,7 +1101,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-roosenburg-history-v2",
     type: "ruins",
     name: { de: "Plantage Roosenburg", hu: "Roosenburg ültetvény", ro: "Plantația Roosenburg", en: "Roosenburg Plantation" },
-    coordinates: { lat: 5.855, lng: -54.915 },
+    coords: [-54.915, 5.855],
     description: {
       de: "Ehemalige Plantage im Commewijne-Gebiet, die heute als archäologische Fundstelle bekannt ist. Zeigt frühe koloniale Siedlungsstrukturen.",
       hu: "Egykori ültetvény a Commewijne régióban, amely ma régészeti lelőhelyként ismert. Korai gyarmati településszerkezeteket mutat be.",
@@ -1120,7 +1120,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-lust-en-rust-history-v2",
     type: "ruins",
     name: { de: "Plantage Lust en Rust", hu: "Lust en Rust ültetvény", ro: "Plantația Lust en Rust", en: "Lust en Rust Plantation" },
-    coordinates: { lat: 5.845, lng: -54.935 },
+    coords: [-54.935, 5.845],
     description: {
       de: "Historische Plantagenstätte mit Ruinen entlang des Commewijne-Flusses. Sie veranschaulicht die koloniale Landwirtschaftsgeschichte.",
       hu: "Történelmi ültetvény helyszíne romokkal a Commewijne folyó mentén. Szemlélteti a gyarmati mezőgazdaság történetét.",
@@ -1139,7 +1139,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-mon-resort-history-v2",
     type: "ruins",
     name: { de: "Plantage Mon Resort", hu: "Mon Resort ültetvény", ro: "Plantația Mon Resort", en: "Mon Resort Plantation" },
-    coordinates: { lat: 5.835, lng: -54.945 },
+    coords: [-54.945, 5.835],
     description: {
       de: "Eine ehemalige Plantage im Commewijne-Distrikt. Heute sind nur noch wenige architektonische Reste aus der Kolonialzeit vorhanden.",
       hu: "Egykori ültetvény a Commewijne kerületben. Ma már csak kevés építészeti maradvány látható a gyarmati időkből.",
@@ -1158,7 +1158,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-bo-zorg-history-v2",
     type: "ruins",
     name: { de: "Plantage Bo-Zorg", hu: "Bo-Zorg ültetvény", ro: "Plantația Bo-Zorg", en: "Bo-Zorg Plantation" },
-    coordinates: { lat: 5.815, lng: -54.965 },
+    coords: [-54.965, 5.815],
     description: {
       de: "Ehemalige Plantage am Commewijne. Diese Stätte bietet Einblicke in die frühe wirtschaftliche Entwicklung der Region.",
       hu: "Egykori ültetvény a Commewijne mentén. Ez a hely betekintést nyújt a régió korai gazdasági fejlődésébe.",
@@ -1177,7 +1177,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-be-thania-history-v2",
     type: "ruins",
     name: { de: "Plantage Bethania", hu: "Bethania ültetvény", ro: "Plantația Bethania", en: "Bethania Plantation" },
-    coordinates: { lat: 5.875, lng: -55.055 },
+    coords: [-55.055, 5.875],
     description: {
       de: "Eine historische Plantage, deren Strukturen in den tropischen Wald zurückgekehrt sind. Sie repräsentiert die koloniale Vergangenheit.",
       hu: "Történelmi ültetvény, amelynek struktúrái visszatértek a trópusi erdőbe. Képviseli a gyarmati múltat.",
@@ -1196,7 +1196,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-vriesenburg-history-v2",
     type: "ruins",
     name: { de: "Plantage Vriesenburg", hu: "Vriesenburg ültetvény", ro: "Plantația Vriesenburg", en: "Vriesenburg Plantation" },
-    coordinates: { lat: 5.865, lng: -55.065 },
+    coords: [-55.065, 5.865],
     description: {
       de: "Ehemalige Plantage unweit von Paramaribo. Dokumentiert die Geschichte des niederländischen kolonialen Zuckeranbaus.",
       hu: "Egykori ültetvény Paramaribo közelében. Dokumentálja a holland gyarmati cukortermelés történetét.",
@@ -1215,7 +1215,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-palo-e-history-v2",
     type: "ruins",
     name: { de: "Plantage Palo-e", hu: "Palo-e ültetvény", ro: "Plantația Palo-e", en: "Palo-e Plantation" },
-    coordinates: { lat: 5.825, lng: -54.925 },
+    coords: [-54.925, 5.825],
     description: {
       de: "Historisches Plantagengelände am Commewijne-Fluss. Ein Beispiel für die frühere koloniale Landnutzung.",
       hu: "Történelmi ültetvényterület a Commewijne folyó mentén. Példa a korábbi gyarmati földhasználatra.",
@@ -1234,7 +1234,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-de-goede-hoop-history-v2",
     type: "ruins",
     name: { de: "Plantage De Goede Hoop", hu: "De Goede Hoop ültetvény", ro: "Plantația De Goede Hoop", en: "De Goede Hoop Plantation" },
-    coordinates: { lat: 5.855, lng: -55.075 },
+    coords: [-55.075, 5.855],
     description: {
       de: "Ehemalige Plantage nahe des Suriname-Flusses. Sie illustriert die Bedeutung der Plantagenwirtschaft im 18. und 19. Jahrhundert.",
       hu: "Egykori ültetvény a Suriname folyó közelében. Szemlélteti az ültetvénygazdálkodás jelentőségét a 18. és 19. században.",
@@ -1253,7 +1253,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-fort-sommelsdijk-ruins-history-v2",
     type: "ruins",
     name: { de: "Fort Sommelsdijk Ruinen", hu: "Fort Sommelsdijk romjai", ro: "Ruinele Fortului Sommelsdijk", en: "Fort Sommelsdijk Ruins" },
-    coordinates: { lat: 5.922, lng: -55.033 },
+    coords: [-55.033, 5.922],
     description: {
       de: "Überreste des historischen Fort Sommelsdijk, das zur Verteidigung der Plantagenregion am Commewijne diente.",
       hu: "A történelmi Fort Sommelsdijk maradványai, amely a Commewijne ültetvényrégiójának védelmét szolgálta.",
@@ -1272,7 +1272,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-buiten-zorg-history-v2",
     type: "ruins",
     name: { de: "Plantage Buiten Zorg", hu: "Buiten Zorg ültetvény", ro: "Plantația Buiten Zorg", en: "Buiten Zorg Plantation" },
-    coordinates: { lat: 5.812, lng: -54.982 },
+    coords: [-54.982, 5.812],
     description: {
       de: "Historisches Plantagengelände, das Einblicke in die koloniale Agrarwirtschaft gibt. Heute finden sich hier archäologische Spuren.",
       hu: "Történelmi ültetvényterület, amely betekintést nyújt a gyarmati agrárgazdaságba. Ma régészeti nyomok találhatók itt.",
@@ -1291,7 +1291,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-visserszorg-history-v2",
     type: "ruins",
     name: { de: "Plantage Visserszorg", hu: "Visserszorg ültetvény", ro: "Plantația Visserszorg", en: "Visserszorg Plantation" },
-    coordinates: { lat: 5.822, lng: -54.992 },
+    coords: [-54.992, 5.822],
     description: {
       de: "Ehemalige Plantage im Commewijne-Distrikt. Bekannt als Zeugnis der historischen niederländischen Kolonialisierung.",
       hu: "Egykori ültetvény a Commewijne kerületben. A történelmi holland gyarmatosítás bizonyítékaként ismert.",
@@ -1310,7 +1310,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-akker-history-v2",
     type: "ruins",
     name: { de: "Plantage Akker", hu: "Akker ültetvény", ro: "Plantația Akker", en: "Akker Plantation" },
-    coordinates: { lat: 5.872, lng: -55.012 },
+    coords: [-55.012, 5.872],
     description: {
       de: "Historisches Plantagengelände. Die Überreste spiegeln die koloniale Agrarkultur am Suriname-Fluss wider.",
       hu: "Történelmi ültetvényterület. A maradványok a Suriname folyó menti gyarmati agrárkultúrát tükrözik.",
@@ -1329,7 +1329,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-nieuw-zorg-history-v2",
     type: "ruins",
     name: { de: "Plantage Nieuw Zorg", hu: "Nieuw Zorg ültetvény", ro: "Plantația Nieuw Zorg", en: "Nieuw Zorg Plantation" },
-    coordinates: { lat: 5.832, lng: -55.042 },
+    coords: [-55.042, 5.832],
     description: {
       de: "Ehemalige Plantage. Ein Ort, der die Geschichte der kolonialen Landnutzung im Suriname-Tal dokumentiert.",
       hu: "Egykori ültetvény. Egy hely, amely dokumentálja a koloniális földhasználat történetét a Suriname-völgyben.",
@@ -1348,7 +1348,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-belwaarde-history-v2",
     type: "ruins",
     name: { de: "Plantage Belwaarde", hu: "Belwaarde ültetvény", ro: "Plantația Belwaarde", en: "Belwaarde Plantation" },
-    coordinates: { lat: 5.882, lng: -55.052 },
+    coords: [-55.052, 5.882],
     description: {
       de: "Historische Plantagenruinen. Repräsentativ für die wirtschaftliche Struktur der niederländischen Kolonialzeit.",
       hu: "Történelmi ültetvényromok. Képviseli a holland gyarmati korszak gazdasági struktúráját.",
@@ -1367,7 +1367,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-vrieseland-history-v2",
     type: "ruins",
     name: { de: "Plantage Vrieseland", hu: "Vrieseland ültetvény", ro: "Plantația Vrieseland", en: "Vrieseland Plantation" },
-    coordinates: { lat: 5.892, lng: -55.042 },
+    coords: [-55.042, 5.892],
     description: {
       de: "Ehemalige Plantage. Die Stätte bietet archäologische Einblicke in die frühe koloniale Landwirtschaft.",
       hu: "Egykori ültetvény. A hely régészeti betekintést nyújt a korai gyarmati mezőgazdaságba.",
@@ -1386,7 +1386,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "suriname-plantation-hospedales-history-v2",
     type: "ruins",
     name: { de: "Plantage Hospedales", hu: "Hospedales ültetvény", ro: "Plantația Hospedales", en: "Hospedales Plantation" },
-    coordinates: { lat: 5.802, lng: -54.912 },
+    coords: [-54.912, 5.802],
     description: {
       de: "Historisches Plantagengelände am Commewijne. Diente als wichtiger Knotenpunkt für die landwirtschaftliche Produktion.",
       hu: "Történelmi ültetvényterület a Commewijne mentén. Fontos csomópontként szolgált a mezőgazdasági termelés számára.",

@@ -5,7 +5,7 @@ export const cookislandsReliefV2: POI[] = [
     id: "cookislands-te-rua-manga-relief-v2",
     type: "peak",
     name: { de: "Te Rua Manga", hu: "Te Rua Manga", ro: "Te Rua Manga", en: "Te Rua Manga" },
-    coordinates: { lat: -21.2351, lng: -159.7892 },
+    coords: [-159.7892, -21.2351],
     description: {
       de: "Diese markante Felsnadel, auch bekannt als 'The Needle', ist eine der bekanntesten geologischen Formationen Rarotongas.",
       hu: "A 'The Needle' néven is ismert sziklás csúcs Rarotonga egyik legjellegzetesebb és legismertebb geológiai képződménye.",
@@ -19,12 +19,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 413 meters", "Prominent basalt formation", "Part of the Cross-Island Track", "Sacred site in local mythology"],
     },
     imageHint: "Te Rua Manga The Needle Rarotonga rock formation",
+    descriptionAdvanced: {
+      de: "Te Rua Manga ist ein markanter Felsvorsprung auf Rarotonga, Cookinseln, und bildet einen Teil der zerklüfteten Bergkette im Inneren der Insel. Die Felsformation ragt etwa 200 Meter aus dem umliegenden Regenwald empor. Der Gipfel bietet einen Panoramablick über die Südküste Rarotongas. Die Besteigung erfordert eine anspruchsvolle Wanderung durch tropischen Wald. Der Name bedeutet in der Maori-Sprache ‚die Höhle der Mangoblüte‘.",
+      hu: "Te Rua Manga egy jellegzetes sziklakiugrás Rarotonga szigetén, a Cook-szigeteken, a sziget tagolt hegyvonulatának része. A sziklafal kb. 200 méterre emelkedik ki a környező esőerdőből. A csúcsról panorámás kilátás nyílik Rarotonga déli partjára. A megmászás egy igényes túrát igényel trópusi erdőn keresztül. A név maori nyelven 'a mangóvirág barlangját' jelenti.",
+      ro: "Te Rua Manga este un pinten stâncos proeminent pe insula Rarotonga, Insulele Cook, făcând parte din lanțul muntos accidentat al insulei. Stânca se înalță cu aproximativ 200 de metri deasupra pădurii tropicale din jur. Vârful oferă o vedere panoramică asupra coastei de sud a Rarotongăi. Ascensiunea necesită o drumeție dificilă prin pădure tropicală. Numele înseamnă în limba maori 'peștera florii de mango'.",
+      en: "Te Rua Manga is a prominent rock spur on Rarotonga, Cook Islands, part of the island's rugged mountain range. The rock formation rises about 200 meters above the surrounding rainforest. The summit offers panoramic views of Rarotonga's south coast. Climbing it requires a challenging hike through tropical forest. The name means 'the cave of the mango blossom' in Maori.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 200 m ü. NN", "Standort: Rarotonga, Südküste", "Gestein: Basalt", "Wanderzeit: 2-3 Stunden", "Schwierigkeit: mittel", "Namensbedeutung: Höhle der Mangoblüte"],
+      hu: ["Magasság: kb. 200 m", "Helyszín: Rarotonga, déli part", "Kőzet: bazalt", "Túra időtartam: 2-3 óra", "Nehézség: közepes", "Név jelentése: mangóvirág barlangja"],
+      ro: ["Înălțime: aprox. 200 m", "Locație: Rarotonga, coasta de sud", "Rocă: bazalt", "Durată drumeție: 2-3 ore", "Dificultate: medie", "Semnificația numelui: peștera florii de mango"],
+      en: ["Height: approx. 200 m", "Location: Rarotonga, south coast", "Rock type: basalt", "Hiking time: 2-3 hours", "Difficulty: moderate", "Name meaning: cave of the mango blossom"],
+    },
   },
   {
     id: "cookislands-maungapu-relief-v2",
     type: "peak",
     name: { de: "Maungapu", hu: "Maungapu", ro: "Maungapu", en: "Maungapu" },
-    coordinates: { lat: -18.8472, lng: -159.7914 },
+    coords: [-159.7914, -18.8472],
     description: {
       de: "Der Maungapu ist mit 124 Metern die höchste Erhebung auf dem ansonsten flachen Atoll von Aitutaki.",
       hu: "A 124 méter magas Maungapu az egyébként sík Aitutaki-atoll legmagasabb pontja a sziget északi részén.",
@@ -38,12 +50,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 124 meters", "Highest point of Aitutaki", "View over the entire lagoon", "Easy hiking trail to the summit"],
     },
     imageHint: "Maungapu hill Aitutaki lagoon view",
+    descriptionAdvanced: {
+      de: "Maungapu ist der höchste Gipfel auf der Insel Aitutaki, Cookinseln, mit einer Höhe von 124 Metern. Er ist vulkanischen Ursprungs und bietet einen hervorragenden Blick über die Lagune von Aitutaki und das umliegende Atoll. Der Aufstieg ist relativ einfach und führt durch kultiviertes Land und Wald. Auf dem Gipfel befindet sich ein Aussichtspunkt. Maungapu ist ein beliebtes Ziel für Wanderer.",
+      hu: "A Maungapu a legmagasabb csúcs Aitutaki szigetén, a Cook-szigeteken, 124 méter magas. Vulkáni eredetű, és kitűnő kilátást nyújt Aitutaki lagúnájára és a környező atollra. A feljutás viszonylag könnyű, művelt földeken és erdőn keresztül vezet. A csúcson kilátó található. A Maungapu népszerú túracélpont.",
+      ro: "Maungapu este cel mai înalt vârf de pe insula Aitutaki, Insulele Cook, cu o înălțime de 124 de metri. Este de origine vulcanică și oferă o vedere excelentă asupra lagunei Aitutaki și a atolului din jur. Ascensiunea este relativ ușoară, trecând prin terenuri cultivate și pădure. În vârf există un punct de belvedere. Maungapu este o destinație populară pentru drumeții.",
+      en: "Maungapu is the highest peak on Aitutaki, Cook Islands, at 124 meters. Of volcanic origin, it offers excellent views of Aitutaki's lagoon and the surrounding atoll. The ascent is relatively easy, passing through cultivated land and forest. A lookout point is at the summit. Maungapu is a popular hiking destination.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 124 m", "Insel: Aitutaki", "Gipfeltyp: Vulkankegel", "Aufstiegszeit: 30 Minuten", "Besonderheit: Aussichtspunkt", "Entfernung zur Lagune: 1 km"],
+      hu: ["Magasság: 124 m", "Sziget: Aitutaki", "Csúcstípus: vulkáni kúp", "Feljutási idő: 30 perc", "Különlegesség: kilátó", "Távolság a lagúnától: 1 km"],
+      ro: ["Înălțime: 124 m", "Insulă: Aitutaki", "Tip vârf: con vulcanic", "Timp de ascensiune: 30 minute", "Caracteristică: punct de belvedere", "Distanță față de lagună: 1 km"],
+      en: ["Height: 124 m", "Island: Aitutaki", "Summit type: volcanic cone", "Ascent time: 30 minutes", "Feature: lookout point", "Distance to lagoon: 1 km"],
+    },
   },
   {
     id: "cookislands-raemaru-relief-v2",
     type: "mountain",
     name: { de: "Raemaru", hu: "Raemaru", ro: "Raemaru", en: "Raemaru" },
-    coordinates: { lat: -21.2305, lng: -159.8181 },
+    coords: [-159.8181, -21.2305],
     description: {
       de: "Der Raemaru ist ein markanter Tafelberg auf Rarotonga, der für sein flaches Gipfelplateau und steile Felswände bekannt ist.",
       hu: "A Raemaru egy jellegzetes táblahegy Rarotonga szigetén, amely lapos tetejéről és meredek sziklafalairól ismert.",
@@ -57,12 +81,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 350 meters", "Geological plateau", "Legend of the stolen mountain top", "Steep climb requiring ropes"],
     },
     imageHint: "Raemaru flat topped mountain Rarotonga",
+    descriptionAdvanced: {
+      de: "Raemaru ist ein Berg auf der Insel Rarotonga, Cookinseln, mit einer Höhe von 357 Metern. Er liegt im zentralen Gebirgskamm und ist von dichtem Regenwald bedeckt. Der Gipfel bietet einen atemberaubenden Blick auf die Nordküste Rarotongas und das Meer. Der Name stammt aus der Maori-Sprache und bezieht sich auf eine lokale Legende. Die Besteigung ist anspruchsvoll und erfordert gute Kondition.",
+      hu: "Raemaru egy hegy Rarotonga szigetén, a Cook-szigeteken, 357 méter magas. A központi hegygerincen található, sűrű esőerdő borítja. A csúcsról lélegzetelállító kilátás nyílik Rarotonga északi partjára és a tengerre. A név a maori nyelvből származik, egy helyi legendára utal. A megmászás nehéz, jó fizikai állapotot igényel.",
+      ro: "Raemaru este un munte pe insula Rarotonga, Insulele Cook, cu o înălțime de 357 de metri. Se află pe creasta centrală și este acoperit de pădure tropicală densă. Vârful oferă o vedere spectaculoasă asupra coastei de nord a Rarotongăi și a mării. Numele provine din limba maori și se referă la o legendă locală. Ascensiunea este dificilă și necesită o condiție fizică bună.",
+      en: "Raemaru is a mountain on Rarotonga, Cook Islands, with a height of 357 meters. Located on the central ridge, it is covered in dense rainforest. The summit offers spectacular views of Rarotonga's north coast and the ocean. The name derives from Maori and refers to a local legend. The climb is challenging and requires good fitness.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 357 m", "Standort: zentraler Gebirgskamm", "Gestein: Basalt", "Vegetation: Regenwald", "Wanderzeit: 3-4 Stunden", "Schwierigkeit: schwer"],
+      hu: ["Magasság: 357 m", "Elhelyezkedés: központi hegygerinc", "Kőzet: bazalt", "Növényzet: esőerdő", "Túra időtartam: 3-4 óra", "Nehézség: nehéz"],
+      ro: ["Înălțime: 357 m", "Locație: creasta centrală", "Rocă: bazalt", "Vegetație: pădure tropicală", "Durată drumeție: 3-4 ore", "Dificultate: dificilă"],
+      en: ["Height: 357 m", "Location: central ridge", "Rock type: basalt", "Vegetation: rainforest", "Hiking time: 3-4 hours", "Difficulty: hard"],
+    },
   },
   {
     id: "cookislands-ikurangi-relief-v2",
     type: "peak",
     name: { de: "Ikurangi", hu: "Ikurangi", ro: "Ikurangi", en: "Ikurangi" },
-    coordinates: { lat: -21.2214, lng: -159.7643 },
+    coords: [-159.7643, -21.2214],
     description: {
       de: "Der Ikurangi überragt die Hauptstadt Avarua und ist aufgrund seiner schroffen Form eines der bekanntesten Wahrzeichen Rarotongas.",
       hu: "Az Ikurangi a főváros, Avarua felett magasodik, és meredek formája miatt Rarotonga egyik legismertebb tájképi eleme.",
@@ -76,12 +112,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 485 meters", "Landmark of Avarua", "First point to catch sunrise", "Challenging hiking trail"],
     },
     imageHint: "Ikurangi peak overlooking Avarua Rarotonga",
+    descriptionAdvanced: {
+      de: "Ikurangi ist ein markanter Gipfel auf Rarotonga, Cookinseln, mit einer Höhe von 489 Metern. Er ist Teil des zentralen Gebirgszugs und bekannt für seine steilen Klippen. Der Gipfel ist oft in Wolken gehüllt. Der Name bedeutet in der Maori-Sprache ‚der Gipfel des Regens‘. Die Besteigung ist technisch anspruchsvoll und erfordert Kletterkenntnisse. Der Berg ist ein wichtiger Teil der lokalen Mythologie.",
+      hu: "Ikurangi egy jellegzetes csúcs Rarotonga szigetén, a Cook-szigeteken, 489 méter magas. A központi hegyvonulat része, meredek szikláiról ismert. A csúcs gyakran felhőbe burkolózik. A név maori nyelven 'az eső csúcsát' jelenti. A megmászás technikailag nehéz, mászótudást igényel. A hegy a helyi mitológia fontos része.",
+      ro: "Ikurangi este un vârf proeminent pe Rarotonga, Insulele Cook, cu o înălțime de 489 de metri. Face parte din lanțul muntos central și este cunoscut pentru stâncile sale abrupte. Vârful este adesea învăluit în nori. Numele înseamnă 'vârful ploii' în limba maori. Ascensiunea este dificilă din punct de vedere tehnic și necesită abilități de cățărare. Muntele este o parte importantă a mitologiei locale.",
+      en: "Ikurangi is a prominent peak on Rarotonga, Cook Islands, at 489 meters. It is part of the central mountain range and known for its steep cliffs. The summit is often cloud-covered. The name means 'the peak of rain' in Maori. The climb is technically challenging, requiring climbing skills. The mountain is a key element of local mythology.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 489 m", "Standort: zentraler Gebirgszug", "Gestein: Basalt", "Niederschlag: >3000 mm/Jahr", "Besteigungszeit: 5-6 Stunden", "Mythologisch: ja"],
+      hu: ["Magasság: 489 m", "Elhelyezkedés: központi hegyvonulat", "Kőzet: bazalt", "Csapadék: >3000 mm/év", "Mászási idő: 5-6 óra", "Mitológiai jelentőség: van"],
+      ro: ["Înălțime: 489 m", "Locație: lanț muntos central", "Rocă: bazalt", "Precipitații: >3000 mm/an", "Timp de ascensiune: 5-6 ore", "Semnificație mitologică: da"],
+      en: ["Height: 489 m", "Location: central mountain range", "Rock type: basalt", "Rainfall: >3000 mm/year", "Climb time: 5-6 hours", "Mythological significance: yes"],
+    },
   },
   {
     id: "cookislands-te-kou-relief-v2",
     type: "peak",
     name: { de: "Te Kou", hu: "Te Kou", ro: "Te Kou", en: "Te Kou" },
-    coordinates: { lat: -21.2468, lng: -159.7745 },
+    coords: [-159.7745, -21.2468],
     description: {
       de: "Der Te Kou ist die zweithöchste Erhebung der Insel Rarotonga und bietet ein weites Gipfelplateau mit einzigartiger Vegetation.",
       hu: "A Te Kou Rarotonga második legmagasabb csúcsa, amelynek tágas fennsíkján egyedülálló növényvilág található.",
@@ -95,12 +143,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 588 meters", "Second highest mountain on the island", "Large summit plateau", "Important water catchment area"],
     },
     imageHint: "Te Kou mountain Rarotonga misty peaks",
+    descriptionAdvanced: {
+      de: "Te Kou ist mit 588 Metern der höchste Berg auf Rarotonga, Cookinseln. Er liegt im zentralen Gebirgsmassiv und ist dicht bewaldet. Der Gipfel ist ein wichtiger Aussichtspunkt, von dem man bei gutem Wetter die gesamte Insel überblicken kann. Der Berg ist vulkanischen Ursprungs. Die Besteigung ist anspruchsvoll und führt durch unwegsames Gelände. Der Name bedeutet in der Maori-Sprache ‚der große Haufen‘.",
+      hu: "A Te Kou a legmagasabb hegy Rarotonga szigetén, a Cook-szigeteken, 588 méter magas. A központi hegycsoportban található, sűrűn erdős. A csúcs fontos kilátópont, tiszta időben az egész szigetet belátni. Vulkáni eredetű. A megmászás nehéz, járhatatlan terepen keresztül vezet. A név maori nyelven 'a nagy halmot' jelenti.",
+      ro: "Te Kou este cel mai înalt munte de pe Rarotonga, Insulele Cook, cu o înălțime de 588 de metri. Se află în masivul muntos central și este dens împădurit. Vârful este un important punct de belvedere, de unde, pe vreme senină, se poate vedea întreaga insulă. Muntele este de origine vulcanică. Ascensiunea este dificilă, prin teren accidentat. Numele înseamnă 'mormanul mare' în limba maori.",
+      en: "Te Kou is the highest mountain on Rarotonga, Cook Islands, at 588 meters. Located in the central massif, it is densely forested. The summit is a key viewpoint, offering a panoramic view of the entire island on clear days. The mountain is of volcanic origin. The climb is challenging, through rough terrain. The name means 'the large heap' in Maori.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 588 m (höchster Berg Rarotongas)", "Standort: zentrales Massiv", "Gestein: Basalt", "Vegetation: Regenwald", "Aufstiegszeit: 6-8 Stunden", "Schwierigkeit: schwer"],
+      hu: ["Magasság: 588 m (Rarotonga legmagasabb hegye)", "Elhelyezkedés: központi masszívum", "Kőzet: bazalt", "Növényzet: esőerdő", "Feljutási idő: 6-8 óra", "Nehézség: nehéz"],
+      ro: ["Înălțime: 588 m (cel mai înalt munte din Rarotonga)", "Locație: masiv central", "Rocă: bazalt", "Vegetație: pădure tropicală", "Timp de ascensiune: 6-8 ore", "Dificultate: dificilă"],
+      en: ["Height: 588 m (highest mountain on Rarotonga)", "Location: central massif", "Rock type: basalt", "Vegetation: rainforest", "Ascent time: 6-8 hours", "Difficulty: hard"],
+    },
   },
   {
     id: "cookislands-rangimotia-relief-v2",
     type: "peak",
     name: { de: "Rangimotia", hu: "Rangimotia", ro: "Rangimotia", en: "Rangimotia" },
-    coordinates: { lat: -21.9161, lng: -157.9254 },
+    coords: [-157.9254, -21.9161],
     description: {
       de: "Rangimotia ist der höchste Punkt der Insel Mangaia und bietet einen Panoramablick über das zentrale vulkanische Hochland.",
       hu: "A Rangimotia Mangaia szigetének legmagasabb pontja, ahonnan panorámás kilátás nyílik a központi vulkanikus felföldre.",
@@ -114,12 +174,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 169 meters", "Highest point of Mangaia", "Central volcanic plateau", "Surrounded by Makatea limestone rim"],
     },
     imageHint: "Rangimotia Mangaia island central highlands",
+    descriptionAdvanced: {
+      de: "Rangimotia ist ein Berg auf der Insel Rarotonga, Cookinseln, mit einer Höhe von 432 Metern. Er liegt im östlichen Teil des zentralen Gebirgszugs. Der Gipfel ist von Regenwald umgeben und bietet einen guten Blick auf die Ostküste. Der Name bedeutet in der Maori-Sprache ‚friedlicher Hügel‘. Die Besteigung ist moderat schwierig. In der Umgebung gibt es historische Marae.",
+      hu: "Rangimotia egy hegy Rarotonga szigetén, a Cook-szigeteken, 432 méter magas. A központi hegyvonulat keleti részén található. A csúcsot esőerdő veszi körül, és jó kilátást nyújt a keleti partra. A név maori nyelven 'békés dombot' jelent. A megmászás közepesen nehéz. A környéken történelmi marae-k találhatók.",
+      ro: "Rangimotia este un munte pe insula Rarotonga, Insulele Cook, cu o înălțime de 432 de metri. Se află în partea de est a lanțului muntos central. Vârful este înconjurat de pădure tropicală și oferă o vedere bună asupra coastei de est. Numele înseamnă 'dealul pașnic' în limba maori. Ascensiunea este moderat dificilă. În zonă se găsesc marae istorice.",
+      en: "Rangimotia is a mountain on Rarotonga, Cook Islands, at 432 meters. It lies in the eastern part of the central mountain range. The summit is surrounded by rainforest and provides good views of the east coast. The name means 'peaceful hill' in Maori. The climb is moderately difficult. Historical marae are found nearby.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 432 m", "Standort: östlicher Gebirgszug", "Gestein: Basalt", "Vegetation: Regenwald", "Wanderzeit: 3-4 Stunden", "Historische Stätten: Marae in der Umgebung"],
+      hu: ["Magasság: 432 m", "Elhelyezkedés: keleti hegyvonulat", "Kőzet: bazalt", "Növényzet: esőerdő", "Túra időtartam: 3-4 óra", "Történelmi helyek: marae a környéken"],
+      ro: ["Înălțime: 432 m", "Locație: lanț muntos estic", "Rocă: bazalt", "Vegetație: pădure tropicală", "Durată drumeție: 3-4 ore", "Situri istorice: marae în apropiere"],
+      en: ["Height: 432 m", "Location: eastern mountain range", "Rock type: basalt", "Vegetation: rainforest", "Hiking time: 3-4 hours", "Historical sites: marae nearby"],
+    },
   },
   {
     id: "cookislands-maungatea-relief-v2",
     type: "peak",
     name: { de: "Maungatea", hu: "Maungatea", ro: "Maungatea", en: "Maungatea" },
-    coordinates: { lat: -21.2282, lng: -159.7803 },
+    coords: [-159.7803, -21.2282],
     description: {
       de: "Der Maungatea ist ein markanter Berg westlich des Cross-Island Tracks auf Rarotonga, der das Avatiu-Tal dominiert.",
       hu: "A Maungatea egy jelentős hegycsúcs Rarotonga szigetén, amely az Avatiu-völgy felett uralkodik az út nyugati oldalán.",
@@ -133,12 +205,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 523 meters", "Part of the central mountain range", "Steep volcanic ridges", "Excellent coastal views"],
     },
     imageHint: "Maungatea peak Rarotonga tropical mountains",
+    descriptionAdvanced: {
+      de: "Maungatea ist ein Berg auf der Insel Rarotonga, Cookinseln, mit einer Höhe von 514 Metern. Er ist Teil des westlichen Gebirgszugs. Der Gipfel ist oft neblig und von dichtem Wald bedeckt. Der Name bedeutet in der Maori-Sprache ‚der weiße Berg‘, möglicherweise aufgrund der hellen Felsen. Die Besteigung ist anspruchsvoll und erfordert Orientierungsvermögen. Vom Gipfel hat man Ausblicke auf die Westküste.",
+      hu: "Maungatea egy hegy Rarotonga szigetén, a Cook-szigeteken, 514 méter magas. A nyugati hegyvonulat része. A csúcs gyakran ködös és sűrű erdő borítja. A név maori nyelven 'a fehér hegyet' jelenti, valószínűleg a világos sziklák miatt. A megmászás nehéz, tájékozódási képességet igényel. A csúcsról kilátás nyílik a nyugati partra.",
+      ro: "Maungatea este un munte pe insula Rarotonga, Insulele Cook, cu o înălțime de 514 metri. Face parte din lanțul muntos vestic. Vârful este adesea cețos și acoperit de pădure deasă. Numele înseamnă 'muntele alb' în maori, probabil datorită stâncilor deschise la culoare. Ascensiunea este dificilă, necesitând abilități de orientare. Vârful oferă vederi asupra coastei de vest.",
+      en: "Maungatea is a mountain on Rarotonga, Cook Islands, at 514 meters. It is part of the western mountain range. The summit is often foggy and covered in dense forest. The name means 'white mountain' in Maori, possibly due to light-colored rocks. The climb is challenging and requires navigation skills. Views from the summit include the west coast.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 514 m", "Standort: westlicher Gebirgszug", "Gestein: Vulkanit", "Niederschlag: 2500 mm/Jahr", "Schwierigkeit: schwer", "Namensbedeutung: weißer Berg"],
+      hu: ["Magasság: 514 m", "Elhelyezkedés: nyugati hegyvonulat", "Kőzet: vulkanikus", "Csapadék: 2500 mm/év", "Nehézség: nehéz", "Név jelentése: fehér hegy"],
+      ro: ["Înălțime: 514 m", "Locație: lanț muntos vestic", "Rocă: vulcanică", "Precipitații: 2500 mm/an", "Dificultate: dificilă", "Semnificația numelui: muntele alb"],
+      en: ["Height: 514 m", "Location: western mountain range", "Rock type: volcanic", "Rainfall: 2500 mm/year", "Difficulty: hard", "Name meaning: white mountain"],
+    },
   },
   {
     id: "cookislands-te-atukura-relief-v2",
     type: "peak",
     name: { de: "Te Atukura", hu: "Te Atukura", ro: "Te Atukura", en: "Te Atukura" },
-    coordinates: { lat: -21.2392, lng: -159.7731 },
+    coords: [-159.7731, -21.2392],
     description: {
       de: "Te Atukura ist ein wichtiger Gipfel im zerklüfteten Inneren von Rarotonga, der zum Te Manga Bergmassiv gehört.",
       hu: "A Te Atukura egy jelentős csúcs Rarotonga tagolt belső területén, amely a Te Manga hegymasszívumhoz tartozik.",
@@ -152,12 +236,24 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 638 meters", "Third highest peak on the island", "Extremely steep terrain", "Home to rare mountain flora"],
     },
     imageHint: "Te Atukura peak Rarotonga dense jungle",
+    descriptionAdvanced: {
+      de: "Te Atukura ist ein Gipfel auf Rarotonga, Cookinseln, mit einer Höhe von 623 Metern (laut einigen Quellen der höchste). Er liegt im zentralen Bergmassiv. Der Gipfel ist Teil eines schmalen Grats und bietet Aussicht auf die Nord- und Südküste. Die Besteigung ist extrem anspruchsvoll und nur für erfahrene Bergsteiger geeignet. Der Name bedeutet in der Maori-Sprache ‚der Leuchtturm‘. Der Berg ist oft in Wolken gehüllt.",
+      hu: "Te Atukura egy csúcs Rarotonga szigetén, a Cook-szigeteken, 623 méter magas (egyes források szerint a legmagasabb). A központi hegycsoportban található. A csúcs egy keskeny gerinc része, és kilátást nyújt az északi és déli partra. A megmászás rendkívül nehéz, csak tapasztalt hegymászóknak ajánlott. A név maori nyelven 'a világítótorony' jelentése van. A hegy gyakran felhőbe burkolózik.",
+      ro: "Te Atukura este un vârf pe Rarotonga, Insulele Cook, cu o înălțime de 623 de metri (conform unor surse, cel mai înalt). Se află în masivul muntos central. Vârful face parte dintr-o creastă îngustă și oferă vedere către coastele de nord și de sud. Ascensiunea este extrem de dificilă, potrivită doar pentru alpiniști experimentați. Numele înseamnă 'farul' în maori. Muntele este adesea învăluit în nori.",
+      en: "Te Atukura is a peak on Rarotonga, Cook Islands, at 623 meters (considered by some to be the highest). It is located in the central massif. The peak is part of a narrow ridge and offers views of both the north and south coasts. The climb is extremely difficult, suitable only for experienced mountaineers. The name means 'the lighthouse' in Maori. The mountain is often cloud-covered.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 623 m (umstritten höchster)", "Standort: zentrales Massiv", "Gestein: Basalt", "Aufstiegszeit: 8+ Stunden", "Schwierigkeit: extrem", "Namensbedeutung: Leuchtturm"],
+      hu: ["Magasság: 623 m (vitathatatlanul a legmagasabb)", "Elhelyezkedés: központi masszívum", "Kőzet: bazalt", "Feljutási idő: 8+ óra", "Nehézség: extrém", "Név jelentése: világítótorony"],
+      ro: ["Înălțime: 623 m (considerat cel mai înalt)", "Locație: masiv central", "Rocă: bazalt", "Timp de ascensiune: 8+ ore", "Dificultate: extremă", "Semnificația numelui: far"],
+      en: ["Height: 623 m (disputed highest)", "Location: central massif", "Rock type: basalt", "Ascent time: 8+ hours", "Difficulty: extreme", "Name meaning: lighthouse"],
+    },
   },
   {
     id: "cookislands-orovaru-relief-v2",
     type: "mountain",
     name: { de: "Orovaru", hu: "Orovaru", ro: "Orovaru", en: "Orovaru" },
-    coordinates: { lat: -21.2421, lng: -159.8055 },
+    coords: [-159.8055, -21.2421],
     description: {
       de: "Orovaru ist ein Gebirgskamm im Westen Rarotongas, der für seine dramatischen Felswände und die Aussicht auf die Westküste bekannt ist.",
       hu: "Az Orovaru egy hegygerinc Rarotonga nyugati részén, amely drámai sziklafalairól és a nyugati partra nyíló kilátásáról ismert.",
@@ -171,5 +267,17 @@ export const cookislandsReliefV2: POI[] = [
       en: ["Elevation: 450 meters", "Prominent rock ledge", "Overlooks the Arorangi district", "Volcanic rock formations"],
     },
     imageHint: "Orovaru ridge Rarotonga mountain view",
+    descriptionAdvanced: {
+      de: "Orovaru ist ein Berg auf der Insel Rarotonga, Cookinseln, mit einer Höhe von 346 Metern. Er liegt im südlichen Teil der Insel. Der Gipfel ist bewaldet und bietet einen Blick auf die Südküste und das Meer. Der Name bedeutet in der Maori-Sprache ‚der große Schrei‘, möglicherweise aufgrund von Windgeräuschen. Der Aufstieg ist moderat und durchquert Plantagen und Wald. In der Umgebung gibt es alte Siedlungsreste.",
+      hu: "Orovaru egy hegy Rarotonga szigetén, a Cook-szigeteken, 346 méter magas. A sziget déli részén található. A csúcs erdős, és kilátást nyújt a déli partra és a tengerre. A név maori nyelven 'a nagy kiáltást' jelenti, valószínűleg a szél zajai miatt. A feljutás közepesen nehéz, ültetvényeken és erdőn keresztül vezet. A környéken régi településmaradványok találhatók.",
+      ro: "Orovaru este un munte pe insula Rarotonga, Insulele Cook, cu o înălțime de 346 de metri. Se află în partea de sud a insulei. Vârful este împădurit și oferă vedere spre coasta de sud și mare. Numele înseamnă 'strigătul mare' în maori, posibil din cauza zgomotului vântului. Ascensiunea este moderată, traversând plantații și pădure. În zonă se găsesc vestigii ale unor așezări vechi.",
+      en: "Orovaru is a mountain on Rarotonga, Cook Islands, at 346 meters. It lies in the southern part of the island. The summit is forested and offers views of the south coast and ocean. The name means 'the great cry' in Maori, possibly due to wind sounds. The ascent is moderate, passing through plantations and forest. Old settlement remains are found nearby.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 346 m", "Standort: Süden Rarotongas", "Gestein: Basalt", "Vegetation: Mischwald", "Wanderzeit: 2-3 Stunden", "Archäologische Stätten: Siedlungsreste"],
+      hu: ["Magasság: 346 m", "Elhelyezkedés: Rarotonga déli része", "Kőzet: bazalt", "Növényzet: vegyes erdő", "Túra időtartam: 2-3 óra", "Régészeti lelőhelyek: településmaradványok"],
+      ro: ["Înălțime: 346 m", "Locație: sudul Rarotongăi", "Rocă: bazalt", "Vegetație: pădure mixtă", "Durată drumeție: 2-3 ore", "Situri arheologice: vestigii așezări"],
+      en: ["Height: 346 m", "Location: southern Rarotonga", "Rock type: basalt", "Vegetation: mixed forest", "Hiking time: 2-3 hours", "Archaeological sites: settlement remains"],
+    },
   }
 ];

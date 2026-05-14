@@ -637,7 +637,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-comptoir-agricole-malanville-economic-v2",
     type: "industry",
     name: { de: "Agrarhandelszentrum Malanville", hu: "Malanville mezőgazdasági kereskedelmi központ", ro: "Centrul comercial agricol Malanville", en: "Malanville Agricultural Trading Center" },
-    coordinates: { lat: 11.8617, lng: 3.3768 },
+    coords: [3.3768, 11.8617],
     description: {
       de: "Zentraler Umschlagplatz für landwirtschaftliche Erzeugnisse an der Grenze zu Nigeria. Dient dem regionalen Handel mit Zwiebeln und Getreide.",
       hu: "Központi átrakodóhely mezőgazdasági termékek számára a nigériai határnál. A hagyma- és gabonakereskedelmet szolgálja.",
@@ -668,7 +668,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-usines-coton-kandi-economic-v2",
     type: "factory",
     name: { de: "Baumwollentkernung Kandi", hu: "Kandi gyapotmagtalanító üzem", ro: "Fabrica de curățare a bumbacului Kandi", en: "Kandi Cotton Ginning Plant" },
-    coordinates: { lat: 11.1342, lng: 2.9371 },
+    coords: [2.9371, 11.1342],
     description: {
       de: "Industrielle Anlage zur Verarbeitung von Rohbaumwolle aus dem Norden Benins. Die Fabrik trennt Fasern von Samen für den Export.",
       hu: "Ipari létesítmény az észak-benini nyersgyapot feldolgozására. A gyár exportra választja szét a szálakat a magoktól.",
@@ -699,7 +699,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-abattoir-modern-parakou-economic-v2",
     type: "industry",
     name: { de: "Moderner Schlachthof Parakou", hu: "Parakou modern vágóhíd", ro: "Abatorul modern Parakou", en: "Modern Slaughterhouse of Parakou" },
-    coordinates: { lat: 9.3512, lng: 2.6247 },
+    coords: [2.6247, 9.3512],
     description: {
       de: "Regionale Schlacht- und Verarbeitungsstätte für Viehprodukte. Versorgt den Norden des Landes mit hygienisch kontrolliertem Fleisch.",
       hu: "Regionális vágó- és feldolgozóüzem állati termékek számára. Higiéniailag ellenőrzött hússal látja el az ország északi részét.",
@@ -730,7 +730,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-zone-artisanale-natitingou-economic-v2",
     type: "industry",
     name: { de: "Handwerkszentrum Natitingou", hu: "Natitingou kézműves központ", ro: "Centrul meșteșugăresc Natitingou", en: "Natitingou Artisanal Center" },
-    coordinates: { lat: 10.3061, lng: 1.3789 },
+    coords: [1.3789, 10.3061],
     description: {
       de: "Zentrum für die handwerkliche Herstellung und Vermarktung lokaler Produkte. Unterstützt die lokale Wirtschaft durch Tourismus und Handel.",
       hu: "Központ a helyi termékek kézműves gyártására és forgalmazására. Támogatja a helyi gazdaságot a turizmuson és kereskedelmen keresztül.",
@@ -761,7 +761,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-depot-petrole-parakou-economic-v2",
     type: "industry",
     name: { de: "Erdöllager Parakou", hu: "Parakou kőolajraktár", ro: "Depozitul de petrol Parakou", en: "Parakou Petroleum Depot" },
-    coordinates: { lat: 9.3785, lng: 2.6514 },
+    coords: [2.6514, 9.3785],
     description: {
       de: "Wichtiges Lager für Treibstoffe im Landesinneren. Verteilt Ölprodukte in die nördlichen Regionen und Nachbarländer.",
       hu: "Fontos üzemanyagraktár az ország belsejében. Olajtermékeket oszt szét az északi régiókba és a szomszédos országokba.",
@@ -792,7 +792,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-centrale-solaire-djougou-economic-v2",
     type: "industry",
     name: { de: "Solarkraftwerk Djougou", hu: "Djougou naperőmű", ro: "Centrala solară Djougou", en: "Djougou Solar Power Plant" },
-    coordinates: { lat: 9.7124, lng: 1.6642 },
+    coords: [1.6642, 9.7124],
     description: {
       de: "Erneuerbare Energieanlage zur lokalen Stromversorgung. Reduziert die Abhängigkeit von fossilen Brennstoffen im Norden.",
       hu: "Megújuló energiaforrás a helyi áramellátáshoz. Csökkenti a fosszilis tüzelőanyagoktól való függőséget északon.",
@@ -823,7 +823,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-usine-transformation-ananas-zagnanado-economic-v2",
     type: "factory",
     name: { de: "Ananasverarbeitung Zagnanado", hu: "Zagnanado ananászfeldolgozó", ro: "Procesarea ananasului Zagnanado", en: "Zagnanado Pineapple Processing" },
-    coordinates: { lat: 6.9452, lng: 2.3718 },
+    coords: [2.3718, 6.9452],
     description: {
       de: "Fabrik zur Konservierung und Saftproduktion von regionalem Ananas-Anbau. Trägt zur Wertschöpfung in der Agrarwirtschaft bei.",
       hu: "Gyár a helyi termesztésű ananász tartósítására és légyártására. Hozzájárul a mezőgazdasági gazdaság hozzáadott értékéhez.",
@@ -854,7 +854,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-zone-franche-semé-economic-v2",
     type: "industry",
     name: { de: "Freihandelszone Sèmè-Podji", hu: "Sèmè-Podji szabadkereskedelmi övezet", ro: "Zona de liber schimb Sèmè-Podji", en: "Sèmè-Podji Free Trade Zone" },
-    coordinates: { lat: 6.3982, lng: 2.5831 },
+    coords: [2.5831, 6.3982],
     description: {
       de: "Wirtschaftszone für importierte Waren und industrielle Montage nahe der nigerianischen Grenze. Fördert grenzüberschreitenden Handel.",
       hu: "Gazdasági övezet importált áruk és ipari összeszerelés számára a nigériai határ közelében. Ösztönzi a határokon átnyúló kereskedelmet.",
@@ -885,7 +885,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-rizerie-malanville-economic-v2",
     type: "factory",
     name: { de: "Reismühle Malanville", hu: "Malanville rizsmalom", ro: "Moara de orez Malanville", en: "Malanville Rice Mill" },
-    coordinates: { lat: 11.8741, lng: 3.3855 },
+    coords: [3.3855, 11.8741],
     description: {
       de: "Anlage zur Verarbeitung von lokal angebautem Reis. Reinigt und verpackt Reis für den landesweiten Konsum.",
       hu: "Létesítmény a helyben termesztett rizs feldolgozására. Tisztítja és csomagolja a rizst az országos fogyasztáshoz.",
@@ -916,7 +916,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     id: "benin-usine-transformation-soja-parakou-economic-v2",
     type: "factory",
     name: { de: "Sojaverarbeitung Parakou", hu: "Parakou szójafeldolgozó", ro: "Procesarea soiei Parakou", en: "Parakou Soy Processing" },
-    coordinates: { lat: 9.3489, lng: 2.6392 },
+    coords: [2.6392, 9.3489],
     description: {
       de: "Fabrik für die Weiterverarbeitung von Sojabohnen zu Öl und Futtermitteln. Wichtiger Standort für die Agrarindustrie.",
       hu: "Gyár a szójabab olajjal és takarmánnyal való tovább feldolgozására. Fontos helyszín a mezőgazdasági ipar számára.",

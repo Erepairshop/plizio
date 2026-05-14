@@ -546,7 +546,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-ogurchinskiy-island-life-v2",
     type: "wildlife",
     name: { de: "Ogurtschinski-Insel Wildreservat", hu: "Ogurcsinszkij-sziget vadvédelmi terület", ro: "Rezervația naturală Insula Ogurtschinski", en: "Ogurchinskiy Island Wildlife Sanctuary" },
-    coordinates: { lat: 39.0167, lng: 53.0333 },
+    coords: [53.0333, 39.0167],
     description: {
       de: "Die größte Insel Turkmenistans im Kaspischen Meer dient als wichtiges Schutzgebiet für Gazellen und Robben. Die sandige Insel erstreckt sich über 42 Kilometer Länge.",
       hu: "Türkmenisztán legnagyobb szigete a Kaszpi-tengeren, amely a golyvás gazellák és fókák fontos védett élőhelye. A homokos sziget 42 kilométer hosszan nyúlik el.",
@@ -565,7 +565,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-altyn-asyr-lake-life-v2",
     type: "lake",
     name: { de: "Altyn Asyr See Feuchtgebiete", hu: "Altyn Asyr-tó vizesélőhelyek", ro: "Zonele umede ale lacului Altyn Asyr", en: "Altyn Asyr Lake Wetlands" },
-    coordinates: { lat: 40.7583, lng: 56.6833 },
+    coords: [56.6833, 40.7583],
     description: {
       de: "Ein riesiger künstlicher See in der Karakum-Wüste, der durch die Ableitung von Drainagewasser entstanden ist. Er bildet ein neues Ökosystem für zahlreiche Vogelarten.",
       hu: "Hatalmas mesterséges tó a Karakum-sivatagban, amelyet mezőgazdasági víz elvezetésével hoztak létre. Új ökoszisztémát alkot számos madárfaj számára.",
@@ -584,7 +584,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-esenguly-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Esenguly Vogelschutzgebiet", hu: "Eszenguli madárrezervátum", ro: "Sanctuarul de păsări Esenguly", en: "Esenguly Bird Sanctuary" },
-    coordinates: { lat: 37.4667, lng: 53.9667 },
+    coords: [53.9667, 37.4667],
     description: {
       de: "Teil des Hazar-Reservats an der südöstlichen Küste des Kaspischen Meeres. Es ist ein international bedeutendes Gebiet für die Überwinterung von Wasservögeln.",
       hu: "A Hazar-rezervátum része a Kaszpi-tenger délkeleti partján. Nemzetközi jelentőségű terület a vízimadarak telelése szempontjából.",
@@ -603,7 +603,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-inspiration-park-life-v2",
     type: "park",
     name: { de: "Inspirationspark Ylham", hu: "Ylham ihletpark", ro: "Parcul Inspirației Ylham", en: "Inspiration Park" },
-    coordinates: { lat: 37.9433, lng: 58.3844 },
+    coords: [58.3844, 37.9433],
     description: {
       de: "Ein künstlerisch gestalteter Park im Zentrum von Aschgabat mit zahlreichen Skulpturen berühmter turkmenischer Denker. Er kombiniert moderne Landschaftsgestaltung mit Flora.",
       hu: "Művészien kialakított park Asgabat központjában, híres türkmén gondolkodók szobraival. A modern tájépítészetet ötvözi a helyi flórával.",
@@ -622,7 +622,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-independence-park-life-v2",
     type: "park",
     name: { de: "Unabhängigkeitspark Ashgabat", hu: "Függetlenség park Asgabat", ro: "Parcul Independenței Ashgabat", en: "Independence Park" },
-    coordinates: { lat: 37.8856, lng: 58.3822 },
+    coords: [58.3822, 37.8856],
     description: {
       de: "Ein riesiges Parkgelände im Süden der Hauptstadt, das das Unabhängigkeitsdenkmal umgibt. Es ist bekannt für seine weiten Rasenflächen und gepflegten Gärten.",
       hu: "Hatalmas parkterület a főváros déli részén, amely a Függetlenségi Emlékművet veszi körül. Hatalmas gyepeiről és gondozott kertjeiről ismert.",
@@ -641,7 +641,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-kuly-lake-life-v2",
     type: "lake",
     name: { de: "Kuly See Feuchtgebiete", hu: "Kuly-tó vizesélőhelyek", ro: "Zonele umede ale lacului Kuly", en: "Kuly Lake Wetlands" },
-    coordinates: { lat: 37.5833, lng: 61.8251 },
+    coords: [61.8251, 37.5833],
     description: {
       de: "Ein wichtiges Feuchtgebiet in der Nähe von Mary, das als Rückzugsort für Wasservögel dient. Der See wird durch landwirtschaftliche Kanäle gespeist.",
       hu: "Fontos vizesélőhely Mary közelében, amely a vízimadarak menedékéül szolgál. A tavat mezőgazdasági csatornák táplálják.",
@@ -660,7 +660,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-dashoguz-friendship-park-life-v2",
     type: "park",
     name: { de: "Freundschaftspark Dashoguz", hu: "Dashoguz barátság park", ro: "Parcul Prieteniei Dashoguz", en: "Dashoguz Friendship Park" },
-    coordinates: { lat: 41.8333, lng: 59.9667 },
+    coords: [59.9667, 41.8333],
     description: {
       de: "Die größte Grünanlage in der nördlichen Stadt Dashoguz. Der Park bietet Schatten und Erholung in einer Region mit extremem Wüstenklima.",
       hu: "A legnagyobb zöldterület az északi Dashoguz városában. A park árnyékot és kikapcsolódást nyújt a szélsőséges sivatagi éghajlatú régióban.",
@@ -679,7 +679,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-kelif-lakes-life-v2",
     type: "wildlife",
     name: { de: "Kelif-Seen Vogelschutzgebiet", hu: "Kelif-tavak madárrezervátum", ro: "Sanctuarul lacurilor Kelif", en: "Kelif Lakes Sanctuary" },
-    coordinates: { lat: 37.3833, lng: 66.25 },
+    coords: [66.25, 37.3833],
     description: {
       de: "Ein Komplex aus Seen im Südosten Turkmenistans an der Grenze zu Afghanistan. Es ist ein bedeutendes Schutzgebiet für seltene und gefährdete Vögel.",
       hu: "Tórendszer Türkmenisztán délkeleti részén, az afgán határ mentén. Jelentős védett terület a ritka és veszélyeztetett madarak számára.",
@@ -698,7 +698,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-kurtli-lake-life-v2",
     type: "lake",
     name: { de: "Kurtli-See Erholungsgebiet", hu: "Kurtli-tó pihenőövezet", ro: "Zona de recreere a lacului Kurtli", en: "Kurtli Lake Habitat" },
-    coordinates: { lat: 37.975, lng: 58.2833 },
+    coords: [58.2833, 37.975],
     description: {
       de: "Ein künstliches Reservoir am Rande von Aschgabat, das sich zu einem wichtigen lokalen Ökosystem entwickelt hat. Es bietet Lebensraum für Fische und Vögel.",
       hu: "Mesterséges víztározó Asgabat szélén, amely fontos helyi ökoszisztémává fejlődött. Halaknak és madaraknak nyújt élőhelyet.",
@@ -717,7 +717,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-ashgabat-rose-garden-life-v2",
     type: "park",
     name: { de: "Aschgabat Rosengarten", hu: "Asgabati rózsakert", ro: "Grădina de trandafiri din Ashgabat", en: "Ashgabat Rose Garden" },
-    coordinates: { lat: 37.9525, lng: 58.3744 },
+    coords: [58.3744, 37.9525],
     description: {
       de: "Ein spezialisierter botanischer Bereich in der Hauptstadt, der sich der Kultivierung verschiedener Rosenarten widmet. Der Garten ist Teil der städtischen Verschönerung.",
       hu: "A főváros speciális botanikai területe, amely a különböző rózsafajták termesztésének szentelt. A kert a városépítészeti szépítés része.",
@@ -736,7 +736,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-magtymguly-pomegranate-groves-life-v2",
     type: "wildlife",
     name: { de: "Magtymguly Granatapfelhaine", hu: "Magtymguly gránátalma-ligetek", ro: "Livezile de rodii Magtymguly", en: "Magtymguly Pomegranate Groves" },
-    coordinates: { lat: 38.4412, lng: 56.3311 },
+    coords: [56.3311, 38.4412],
     description: {
       de: "Historische Obstgärten im Sumbar-Tal, bekannt für ihre genetische Vielfalt an Granatäpfeln. Sie sind ein wichtiges Zentrum für landwirtschaftliche Biodiversität.",
       hu: "Történelmi gyümölcsösök a Sumbar-völgyben, amelyek a gránátalma genetikai sokféleségéről ismertek. A mezőgazdasági biodiverzitás fontos központjai.",
@@ -755,7 +755,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "turkmenistan-chuli-mountain-forest-life-v2",
     type: "forest",
     name: { de: "Chuli Bergwaldgebiet", hu: "Csuli hegyi erdőterület", ro: "Zona forestieră montană Chuli", en: "Chuli Mountain Forest" },
-    coordinates: { lat: 37.9011, lng: 58.0122 },
+    coords: [58.0122, 37.9011],
     description: {
       de: "Ein bewaldetes Tal im Kopet-Dag-Gebirge westlich von Aschgabat. Es bietet ein kühleres Mikroklima und eine reiche Flora mit Wacholder und Wildobst.",
       hu: "Erdős völgy a Kopet-dag hegységben, Asgabattól nyugatra. Hűvösebb mikroklímát és gazdag flórát kínál borókával és vadvízi gyümölcsökkel.",

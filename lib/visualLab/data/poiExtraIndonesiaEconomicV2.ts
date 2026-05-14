@@ -727,7 +727,7 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
     id: "indonesia-gili-mas-terminal-economic-v2",
     type: "port",
     name: { de: "Gili Mas Terminal", hu: "Gili Mas terminál", ro: "Terminalul Gili Mas", en: "Gili Mas Terminal" },
-    coordinates: { lat: -8.7431, lng: 116.0652 },
+    coords: [116.0652, -8.7431],
     description: {
       de: "Ein moderner Mehrzweckhafen auf West-Lombok, der für Kreuzfahrtschiffe und Containertransport konzipiert wurde.",
       hu: "Modern többcélú kikötő Nyugat-Lombokon, amelyet tengerjáró hajók és konténerszállítás fogadására terveztek.",
@@ -741,12 +741,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Opened in 2019", "440-meter long pier", "Part of the Lembar Port complex", "Capacity for 2.6 million passengers"],
     },
     imageHint: "Modern cruise terminal pier in Lombok",
+    descriptionAdvanced: {
+      de: "Gili Mas Terminal ist ein Hafen- und Logistikterminal auf der Insel Lombok, Indonesien. Es liegt an der Westküste der Insel in der Nähe von Mataram. Das Terminal wurde entwickelt, um den Frachtumschlag für die Region zu erleichtern und den Druck auf den bestehenden Hafen von Lembar zu verringern. Gili Mas ist für den Umschlag von Containern, Schüttgut und allgemeiner Fracht ausgelegt. Der Hafen hat eine Wassertiefe von bis zu 14 Metern und kann Schiffe mit einer Größe von bis zu 50.000 DWT aufnehmen. Die Anlage spielt eine wichtige Rolle für die Wirtschaft von Lombok und den Ostinseln, indem sie Im- und Exporte abwickelt.",
+      hu: "A Gili Mas Terminal egy kikötői és logisztikai terminál Lombok szigetének nyugati partján, Mataram közelében. Azért hozták létre, hogy tehermentesítse a Lembar kikötőt és javítsa a régió áruforgalmát. Konténerek, ömlesztett áruk és általános rakomány kezelésére alkalmas. A meder mélysége eléri a 14 métert, így akár 50 000 DWT hajók is használhatják. A terminál kulcsszerepet játszik Lombok és a keleti szigetek gazdaságában, kezelve az importot és exportot.",
+      ro: "Terminalul Gili Mas este un terminal portuar și logistic situat pe coasta de vest a insulei Lombok, lângă Mataram. A fost construit pentru a facilita manipularea mărfurilor în regiune și a reduce presiunea asupra portului Lembar. Este proiectat pentru containere, vrac și marfă generală. Adâncimea apei ajunge la 14 metri, permițând accesul navelor de până la 50.000 DWT. Terminalul este esențial pentru economia Lombok și a insulelor estice, gestionând importurile și exporturile.",
+      en: "Gili Mas Terminal is a port and logistics terminal on the west coast of Lombok Island, Indonesia, near Mataram. It was developed to handle cargo shipments for the region and reduce pressure on the existing Lembar port. The terminal is designed for container, bulk, and general cargo. It has a water depth of up to 14 meters, accommodating vessels up to 50,000 DWT. The facility plays a key role in the economy of Lombok and eastern islands, managing imports and exports.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 14 m", "Schiffsgröße: bis zu 50.000 DWT", "Containerumschlagkapazität: 300.000 TEU pro Jahr", "Kai länge: 500 m", "Eröffnung: 2020", "Investitionsvolumen: 1,2 Billionen IDR"],
+      hu: ["Vízmélység: 14 m", "Hajóméret: 50.000 DWT-ig", "Konténerkapacitás: 300.000 TEU/év", "Rakpart hossza: 500 m", "Megnyitás: 2020", "Befektetés: 1,2 billió IDR"],
+      ro: ["Adâncimea apei: 14 m", "Capacitate nave: până la 50.000 DWT", "Capacitate containere: 300.000 TEU pe an", "Lungime chei: 500 m", "Deschis în 2020", "Investiție: 1,2 trilioane IDR"],
+      en: ["Water depth: 14 m", "Vessel capacity: up to 50,000 DWT", "Container capacity: 300,000 TEU per year", "Quay length: 500 m", "Opened: 2020", "Investment: 1.2 trillion IDR"],
+    },
   },
   {
     id: "indonesia-bitung-hub-port-economic-v2",
     type: "port",
     name: { de: "Bitung Internationaler Hub-Hafen", hu: "Bitung nemzetközi csomóponti kikötő", ro: "Portul Hub Internațional Bitung", en: "Bitung International Hub Port" },
-    coordinates: { lat: 1.4385, lng: 125.1912 },
+    coords: [125.1912, 1.4385],
     description: {
       de: "Ein strategischer Tiefwasserhafen in Nordsulawesi, der als Tor zum pazifischen Wirtschaftsraum dient.",
       hu: "Stratégiai mélyvízi kikötő Észak-Sulawesin, amely kapuként szolgál a csendes-óceáni gazdasági térség felé.",
@@ -760,12 +772,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["International hub status", "Export center for coconut oil", "Bitung Special Economic Zone", "Maritime link to the Philippines"],
     },
     imageHint: "Busy industrial shipping port in Bitung Sulawesi",
+    descriptionAdvanced: {
+      de: "Der Bitung International Hub Port liegt in der Provinz Nordsulawesi auf der Insel Sulawesi. Er ist ein wichtiger internationaler Hafen für den Ostteil Indonesiens und dient als Exportdrehkreuz für landwirtschaftliche Produkte, Mineralien und Industriegüter. Der Hafen hat eine Wassertiefe von bis zu 16 Metern und kann Großcontainerschiffe aufnehmen. Die Entwicklung des Hafens ist Teil der nationalen Seeverkehrsstrategie, um die Anbindung der östlichen Regionen zu verbessern. Bitung ist auch ein Fischereizentrum. Der Hafenumschlag beträgt mehrere Millionen Tonnen pro Jahr.",
+      hu: "A Bitung Nemzetközi Kikötő Észak-Szulawesi tartományban, Sulawesi szigetén található. Kiemelt szerepet játszik Indonézia keleti részének tengeri kereskedelmében, mezőgazdasági termékek, ásványkincsek és ipari áruk exportját szolgálja. A kikötő mélyvízi, 16 méteres merüléssel, nagy konténerszállító hajók számára alkalmas. Fejlesztése a nemzeti tengeri stratégia része. Bitung halászati központ is. Az éves forgalom több millió tonna.",
+      ro: "Portul Internațional Bitung este situat în provincia Sulawesi de Nord, pe insula Sulawesi. Este un port important pentru estul Indoneziei, servind ca hub de export pentru produse agricole, minerale și bunuri industriale. Portul are o adâncime a apei de până la 16 metri, permițând accesul navelor mari de containere. Dezvoltarea sa face parte din strategia națională de transport maritim pentru a îmbunătăți conectivitatea regiunilor estice. Bitung este și un centru de pescuit. Traficul portuar este de câteva milioane de tone anual.",
+      en: "Bitung International Hub Port is located in North Sulawesi province on Sulawesi Island. It is a key international port for eastern Indonesia, serving as an export hub for agricultural products, minerals, and industrial goods. The port has a water depth of up to 16 meters, accommodating large container vessels. Its development is part of the national maritime strategy to improve connectivity in eastern regions. Bitung is also a fishing center. Annual throughput is several million tons.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 16 m", "Jährlicher Frachtumschlag: 5 Mio. Tonnen", "Containerumschlag: 200.000 TEU", "Kai länge: 1.200 m", "Erweiterung: 2023 abgeschlossen", "Investitionsvolumen: 3 Billionen IDR"],
+      hu: ["Vízmélység: 16 m", "Éves rakományforgalom: 5 millió tonna", "Konténerforgalom: 200.000 TEU", "Rakpart hossza: 1.200 m", "Bővítés: 2023-ban fejeződött be", "Befektetés: 3 billió IDR"],
+      ro: ["Adâncimea apei: 16 m", "Trafic anual de marfă: 5 milioane de tone", "Trafic containere: 200.000 TEU", "Lungime chei: 1.200 m", "Extindere finalizată în 2023", "Investiție: 3 trilioane IDR"],
+      en: ["Water depth: 16 m", "Annual cargo throughput: 5 million tons", "Container throughput: 200,000 TEU", "Quay length: 1,200 m", "Expansion completed in 2023", "Investment: 3 trillion IDR"],
+    },
   },
   {
     id: "indonesia-kuala-tanjung-port-economic-v2",
     type: "port",
     name: { de: "Hafen Kuala Tanjung", hu: "Kuala Tanjung kikötő", ro: "Portul Kuala Tanjung", en: "Kuala Tanjung Port" },
-    coordinates: { lat: 3.3752, lng: 99.4451 },
+    coords: [99.4451, 3.3752],
     description: {
       de: "Eines der größten Hafenprojekte in Westindonesien, gelegen an der strategisch wichtigen Straße von Malakka.",
       hu: "Nyugat-Indonézia egyik legnagyobb kikötői projektje a stratégiai jelentőségű Malaka-szoros mentén.",
@@ -779,12 +803,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Phase I completed in 2019", "Industrial estate connection", "17-meter water depth", "Main logistics hub in Sumatra"],
     },
     imageHint: "Large container terminal at Kuala Tanjung Port",
+    descriptionAdvanced: {
+      de: "Der Kuala Tanjung Port liegt an der Ostküste Sumatras in der Provinz Nordsumatra. Er ist ein Tiefwasserhafen, der für den Export von Palmöl, Gummi und anderen landwirtschaftlichen Produkten aus der Region entwickelt wurde. Der Hafen hat eine Wassertiefe von bis zu 16 Metern und kann Panamax-Schiffe aufnehmen. Kuala Tanjung ist Teil des „Sei Mangkei Special Economic Zone“-Projekts und soll die wirtschaftliche Entwicklung in Nordsumatra fördern. Der Hafenumschlag wird auf mehrere Millionen Tonnen pro Jahr geschätzt. Die Anlage ist mit modernen Containerterminals ausgestattet.",
+      hu: "A Kuala Tanjung kikötő Szumátra keleti partján, Észak-Szumátra tartományban található. Mélyvízi kikötő, amelyet a régió pálmaolaj-, gumi- és más mezőgazdasági exportjára fejlesztettek. Vízmélysége 16 méter, Panamax hajók számára alkalmas. A kikötő a Sei Mangkei Különleges Gazdasági Övezet része, célja Észak-Szumátra gazdasági fejlődésének elősegítése. Éves forgalma több millió tonna. Modern konténerterminálokkal rendelkezik.",
+      ro: "Portul Kuala Tanjung este situat pe coasta de est a Sumatrei, în provincia Sumatra de Nord. Este un port de adâncime, dezvoltat pentru exportul de ulei de palmier, cauciuc și alte produse agricole din regiune. Portul are o adâncime a apei de până la 16 metri și poate găzdui nave Panamax. Face parte din proiectul Zonei Economice Speciale Sei Mangkei și urmărește stimularea dezvoltării economice în Sumatra de Nord. Traficul anual este de câteva milioane de tone. Facilitatea include terminale moderne de containere.",
+      en: "Kuala Tanjung Port is located on the east coast of Sumatra in North Sumatra province. It is a deep-water port developed for exporting palm oil, rubber, and other agricultural products from the region. The port has a water depth of up to 16 meters, accommodating Panamax vessels. It is part of the Sei Mangkei Special Economic Zone project and aims to boost economic development in North Sumatra. Annual throughput is several million tons. The facility is equipped with modern container terminals.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 16 m", "Jährlicher Frachtumschlag: 8 Mio. Tonnen", "Containerterminal: 1.200 m Kailänge", "Eröffnet: 2018", "Maximale Schiffsgröße: Panamax (65.000 DWT)", "Investitionsvolumen: 1,8 Billionen IDR"],
+      hu: ["Vízmélység: 16 m", "Éves rakományforgalom: 8 millió tonna", "Konténerterminál: 1.200 m rakpart", "Megnyitás: 2018", "Maximális hajóméret: Panamax (65.000 DWT)", "Befektetés: 1,8 billió IDR"],
+      ro: ["Adâncimea apei: 16 m", "Trafic anual de marfă: 8 milioane de tone", "Terminal containere: 1.200 m chei", "Deschis în 2018", "Dimensiunea maximă a navei: Panamax (65.000 DWT)", "Investiție: 1,8 trilioane IDR"],
+      en: ["Water depth: 16 m", "Annual cargo throughput: 8 million tons", "Container terminal: 1,200 m quay length", "Opened: 2018", "Maximum vessel size: Panamax (65,000 DWT)", "Investment: 1.8 trillion IDR"],
+    },
   },
   {
     id: "indonesia-batu-hijau-mine-economic-v2",
     type: "mine",
     name: { de: "Batu-Hijau-Mine", hu: "Batu Hijau bánya", ro: "Mina Batu Hijau", en: "Batu Hijau Mine" },
-    coordinates: { lat: -8.9722, lng: 116.8451 },
+    coords: [116.8451, -8.9722],
     description: {
       de: "Eine bedeutende Kupfer- und Goldmine im Tagebau auf der Insel Sumbawa im Süden Indonesiens.",
       hu: "Jelentős külszíni réz- és aranybánya Sumbawa szigetén, Indonézia déli részén.",
@@ -798,12 +834,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Operations started in 2000", "Second largest mine in the country", "Owned by PT Amman Mineral", "Advanced seawater desalination plant"],
     },
     imageHint: "Large open pit mine Batu Hijau Sumbawa",
+    descriptionAdvanced: {
+      de: "Die Batu-Hijau-Mine ist eine der größten Kupfer- und Goldminen Indonesiens. Sie liegt im Südwesten der Insel Sumbawa in der Provinz West-Nusa Tenggara. Die Tagebaumine wird von PT Amman Mineral Nusa Tenggara betrieben. Die Produktion begann im Jahr 2000. Batu Hijau hat bedeutende Kupfer- und Goldreserven. Die Mine fördert jährlich mehrere hunderttausend Tonnen Kupferkonzentrat und Tonnen von Gold. Sie ist ein wichtiger Wirtschaftsfaktor für die Region, schafft Arbeitsplätze und trägt zur lokalen Entwicklung bei. Die Abraumhalden und Umweltauswirkungen sind jedoch umstritten.",
+      hu: "A Batu Hijau bánya Indonézia egyik legnagyobb réz- és aranybányája, Sumbawa szigetének délnyugati részén, Nyugat-Nusa Tenggara tartományban. A külszíni bánya üzemeltetője a PT Amman Mineral Nusa Tenggara. A termelés 2000-ben indult. Jelentős réz- és aranykészletekkel rendelkezik. Évente több százezer tonna rézkoncentrátumot és tonnányi aranyat termel. A bánya fontos gazdasági szereplő, munkahelyeket teremt és hozzájárul a helyi fejlődéshez, bár környezeti hatásai vitatottak.",
+      ro: "Mina Batu Hijau este una dintre cele mai mari mine de cupru și aur din Indonezia. Este situată în sud-vestul insulei Sumbawa, în provincia Nusa Tenggara de Vest. Mina de suprafață este operată de PT Amman Mineral Nusa Tenggara. Producția a început în anul 2000. Mina are rezerve semnificative de cupru și aur. Produce anual sute de mii de tone de concentrat de cupru și tone de aur. Mina este un factor economic important pentru regiune, creând locuri de muncă și contribuind la dezvoltarea locală, deși impactul asupra mediului este controversat.",
+      en: "Batu Hijau Mine is one of Indonesia's largest copper and gold mines. It is located in southwestern Sumbawa Island, West Nusa Tenggara province. The open-pit mine is operated by PT Amman Mineral Nusa Tenggara. Production started in 2000. Batu Hijau has substantial copper and gold reserves. It produces hundreds of thousands of tonnes of copper concentrate and tonnes of gold annually. The mine is a significant economic driver for the region, creating employment and contributing to local development, though environmental impacts are debated.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsbeginn: 2000", "Jährliche Kupferproduktion: 200.000 Tonnen Konzentrat", "Jährliche Goldproduktion: 12 Tonnen", "Reserven: 2 Mrd. Tonnen Erz", "Tagebau: 1.000 m über dem Meeresspiegel", "Beschäftigte: 8.000"],
+      hu: ["Termelés kezdete: 2000", "Éves réztermelés: 200.000 tonna koncentrátum", "Éves aranytermelés: 12 tonna", "Készletek: 2 milliárd tonna érc", "Külszíni bánya: 1.000 m tengerszint felett", "Foglalkoztatottak: 8.000"],
+      ro: ["Începutul producției: 2000", "Producția anuală de cupru: 200.000 de tone de concentrat", "Producția anuală de aur: 12 tone", "Rezerve: 2 miliarde de tone de minereu", "Mină de suprafață: 1.000 m deasupra nivelului mării", "Angajați: 8.000"],
+      en: ["Production start: 2000", "Annual copper production: 200,000 tonnes concentrate", "Annual gold production: 12 tonnes", "Reserves: 2 billion tonnes ore", "Open-pit mine elevation: 1,000 m above sea level", "Employees: 8,000"],
+    },
   },
   {
     id: "indonesia-arun-lng-plant-economic-v2",
     type: "factory",
     name: { de: "Arun LNG-Anlage", hu: "Arun LNG üzem", ro: "Instalația Arun LNG", en: "Arun LNG Plant" },
-    coordinates: { lat: 5.2215, lng: 97.0852 },
+    coords: [97.0852, 5.2215],
     description: {
       de: "Einst die weltweit größte Flüssigerdgas-Anlage, heute ein wichtiger Regasifizierungsterminal in Aceh.",
       hu: "Valaha a világ legnagyobb cseppfolyósított földgáz üzeme, ma Aceh fontos gázvisszaalakító terminálja.",
@@ -817,12 +865,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Built in 1974", "First LNG shipment in 1978", "Converted to terminal in 2015", "Supplies gas to fertilizer plants"],
     },
     imageHint: "Industrial LNG gas processing plant in Lhokseumawe",
+    descriptionAdvanced: {
+      de: "Das Arun LNG Plant befindet sich in der Provinz Aceh auf Sumatra. Es war eine der ersten und größten LNG-Anlagen Indonesiens, die 1978 in Betrieb genommen wurde. Die Anlage verarbeitet Erdgas aus dem Arun-Feld, das in den 1970er Jahren entdeckt wurde. Aufgrund der Erschöpfung der Gasreserven wurde die Anlage 2014 vorübergehend stillgelegt, aber später für den Import und die Wiederaufbereitung von LNG umgenutzt. Arun spielte eine entscheidende Rolle in Indonesiens LNG-Exporten und trug zur wirtschaftlichen Entwicklung von Aceh bei. Heute dient sie als LNG-Importterminal.",
+      hu: "Az Arun LNG-üzem Aceh tartományban, Szumátrán található. Indonézia egyik első és legnagyobb LNG-üzeme volt, amely 1978-ban kezdte meg a termelést. A földgázt az Arun mezőből nyerte, amelyet az 1970-es években fedeztek fel. A készletek kimerülése miatt 2014-ben ideiglenesen bezárták, később azonban LNG import- és újrafeldolgozó terminállá alakították. Az üzem kulcsszerepet játszott Indonézia LNG-exportjában és Aceh gazdasági fejlődésében. Ma LNG-import terminálként működik.",
+      ro: "Uzina LNG Arun este situată în provincia Aceh, pe insula Sumatra. A fost una dintre primele și cele mai mari instalații de LNG din Indonezia, fiind pusă în funcțiune în 1978. Procesa gaze naturale din câmpul Arun, descoperit în anii 1970. Din cauza epuizării rezervelor, instalația a fost închisă temporar în 2014, dar ulterior transformată într-un terminal de import și re-procesare LNG. Arun a jucat un rol crucial în exporturile de LNG ale Indoneziei și în dezvoltarea economică a Aceh. Astăzi funcționează ca terminal de import LNG.",
+      en: "The Arun LNG Plant is located in Aceh province, Sumatra. It was one of Indonesia's first and largest LNG plants, commissioned in 1978. It processed natural gas from the Arun field, discovered in the 1970s. Due to depletion of gas reserves, the plant was temporarily shut down in 2014 but later converted into an LNG import and re-processing terminal. Arun played a critical role in Indonesia's LNG exports and contributed to Aceh's economic development. It now operates as an LNG import terminal.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1978", "Maximale Kapazität: 12 Mio. Tonnen LNG pro Jahr", "Stilllegung der Produktion: 2014", "Umrüstung zum Importterminal: 2018", "Arun-Gasfeld: Reserven ca. 10 Billionen Kubikfuß", "Investitionsvolumen ursprünglich: 2,5 Mrd. USD"],
+      hu: ["Üzembe helyezés: 1978", "Maximális kapacitás: évi 12 millió tonna LNG", "Termelés leállítása: 2014", "Import terminállá alakítás: 2018", "Arun gázmező: kb. 10 billió köbláb készlet", "Eredeti beruházás: 2,5 milliárd USD"],
+      ro: ["Punere în funcțiune: 1978", "Capacitate maximă: 12 milioane de tone LNG pe an", "Închiderea producției: 2014", "Conversia în terminal de import: 2018", "Câmpul Arun: rezerve de aproximativ 10 trilioane de picioare cubice", "Investiția inițială: 2,5 miliarde USD"],
+      en: ["Commissioned: 1978", "Peak capacity: 12 million tonnes LNG per year", "Production shut down: 2014", "Converted to import terminal: 2018", "Arun gas field: reserves approx. 10 trillion cubic feet", "Original investment: 2.5 billion USD"],
+    },
   },
   {
     id: "indonesia-morowali-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Morowali", hu: "Morowali Ipari Park", ro: "Parcul Industrial Morowali", en: "Morowali Industrial Park" },
-    coordinates: { lat: -2.8351, lng: 122.1522 },
+    coords: [122.1522, -2.8351],
     description: {
       de: "Ein riesiges Zentrum für die Nickelverarbeitung und Edelstahlproduktion in Zentralsulawesi.",
       hu: "Hatalmas nikkel-feldolgozó és rozsdamentes acélgyártó központ Közép-Sulawesin.",
@@ -836,12 +896,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Over 2,000 hectares in area", "Largest ferronickel facility", "On-site power plants", "Key site for EV battery supply chain"],
     },
     imageHint: "Massive Morowali Industrial Park nickel factory complex",
+    descriptionAdvanced: {
+      de: "Der Morowali Industrial Park ist ein großes Industriegebiet in der Provinz Zentralsulawesi auf der Insel Sulawesi. Der Park konzentriert sich auf die Verarbeitung von Nickel, einem wichtigen Rohstoff für Edelstahl und Batterien. Er beherbergt zahlreiche Schmelzanlagen, die Nickel verhütten. Der Park wurde ab 2014 entwickelt und hat sich zu einem der größten Nickelverarbeitungszentren der Welt entwickelt. Er liegt in der Nähe von Nickelerzvorkommen und hat einen eigenen Hafen. Der Park beschäftigt Zehntausende Arbeiter und exportiert hauptsächlich nach China. Umweltbedenken wegen Abfallentsorgung bestehen.",
+      hu: "A Morowali Ipari Park Közép-Szulawesi tartományban, Sulawesi szigetén található. Ez egy nagy ipari övezet, amely a nikkelfeldolgozásra specializálódott, mivel a nikkel fontos a rozsdamentes acél és akkumulátorok gyártásában. Számos olvasztót és feldolgozót foglal magában. A park 2014 óta fejlődik, és a világ egyik legnagyobb nikkelfeldolgozó központjává vált. Saját kikötővel rendelkezik, és főként Kínába exportál. Több tízezer munkást foglalkoztat. Környezeti aggályok merültek fel a hulladékkezeléssel kapcsolatban.",
+      ro: "Parcul Industrial Morowali este o zonă industrială mare situată în provincia Sulawesi Centrală, pe insula Sulawesi. Parcul este concentrat pe prelucrarea nichelului, o materie primă esențială pentru oțel inoxidabil și baterii. Include numeroase topitorii și uzine de prelucrare. Parcul a fost dezvoltat începând cu 2014 și a devenit unul dintre cele mai mari centre de prelucrare a nichelului din lume. Are propriul port și exportă în principal în China. Angajează zeci de mii de muncitori. Există preocupări de mediu legate de gestionarea deșeurilor.",
+      en: "Morowali Industrial Park is a large industrial estate in Central Sulawesi province, Sulawesi Island. The park specializes in nickel processing, a key material for stainless steel and batteries. It houses numerous smelters and processing plants. Developed since 2014, it has become one of the world's largest nickel processing hubs. It has its own port and exports mainly to China. The park employs tens of thousands of workers. Environmental concerns exist regarding waste management.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2.000 Hektar", "Anzahl der Schmelzanlagen: über 20", "Investitionsvolumen: 20 Mrd. USD", "Jährliche Nickelproduktion: 300.000 Tonnen Ni-Gehalt", "Exporthafen: eigenes Terminal", "Beschäftigte: 60.000"],
+      hu: ["Terület: 2.000 hektár", "Olvasztók száma: több mint 20", "Befektetés: 20 milliárd USD", "Éves nikkeltermelés: 300.000 tonna Ni-tartalom", "Exportkikötő: saját terminál", "Foglalkoztatottak: 60.000"],
+      ro: ["Suprafață: 2.000 de hectare", "Număr de topitorii: peste 20", "Investiție: 20 miliarde USD", "Producția anuală de nichel: 300.000 de tone conținut Ni", "Port de export: terminal propriu", "Angajați: 60.000"],
+      en: ["Area: 2,000 hectares", "Number of smelters: over 20", "Investment: 20 billion USD", "Annual nickel production: 300,000 tonnes Ni content", "Export port: own terminal", "Employees: 60,000"],
+    },
   },
   {
     id: "indonesia-tanjung-jati-b-power-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Tanjung Jati B", hu: "Tanjung Jati B erőmű", ro: "Centrala Electrică Tanjung Jati B", en: "Tanjung Jati B Power Station" },
-    coordinates: { lat: -6.4462, lng: 110.7415 },
+    coords: [110.7415, -6.4462],
     description: {
       de: "Ein bedeutendes Kohlekraftwerk an der Nordküste von Zentraljava, das einen Großteil der Insel versorgt.",
       hu: "Jelentős széntüzelésű erőmű Közép-Jáva északi partján, amely a sziget nagy részét látja el árammal.",
@@ -855,12 +927,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["4,640 megawatt capacity", "Supercritical boiler technology", "Supplies the Java-Bali grid", "Uses domestic coal as fuel"],
     },
     imageHint: "Large Tanjung Jati B coal power plant Jepara",
+    descriptionAdvanced: {
+      de: "Das Tanjung Jati B Kraftwerk ist ein Kohlekraftwerk in der Provinz Zentraljava, Indonesien, an der Nordküste der Insel Java. Es ist eines der größten Kohlekraftwerke des Landes mit einer installierten Kapazität von 4.800 MW. Die Anlage besteht aus mehreren Blöcken, die zwischen 2006 und 2011 in Betrieb gingen. Das Kraftwerk versorgt das Stromnetz von Java und Bali mit Elektrizität. Es wird mit importierter Kohle betrieben. Tanjung Jati B spielt eine zentrale Rolle in der Stromversorgung der Region. Umweltauswirkungen durch Kohleverbrennung sind ein Thema. Die Kühlung erfolgt mit Meerwasser aus der Java-See.",
+      hu: "A Tanjung Jati B erőmű egy széntüzelésű erőmű Közép-Jáva tartományban, Jáva szigetének északi partján. Indonézia egyik legnagyobb szénerőműve, beépített kapacitása 4.800 MW. A létesítmény több blokkból áll, amelyeket 2006 és 2011 között helyeztek üzembe. Az erőmű Jáva és Bali áramellátását biztosítja. Importált szénnel működik. A régió villamosenergia-ellátásának kulcsszereplője. A szénégítés környezeti hatásai vitatottak. Hűtéséhez tengervizet használ a Jáva-tengerből.",
+      ro: "Centrala termoelectrică Tanjung Jati B este o centrală pe cărbune situată în provincia Java Centrală, pe coasta de nord a insulei Java. Este una dintre cele mai mari centrale pe cărbune din Indonezia, cu o capacitate instalată de 4.800 MW. Instalația este formată din mai multe unități, puse în funcțiune între 2006 și 2011. Centrala furnizează electricitate rețelei electrice Java-Bali. Funcționează cu cărbune importat. Joacă un rol central în alimentarea cu energie a regiunii. Impactul asupra mediului al arderii cărbunelui este o problemă. Răcirea se face cu apă de mare din Marea Java.",
+      en: "Tanjung Jati B Power Station is a coal-fired power plant in Central Java province, on the north coast of Java Island. It is one of Indonesia's largest coal power plants, with an installed capacity of 4,800 MW. The facility consists of multiple units commissioned between 2006 and 2011. The plant supplies electricity to the Java-Bali grid. It operates on imported coal. Tanjung Jati B plays a central role in the region's power supply. Environmental impacts from coal combustion are a concern. Cooling uses seawater from the Java Sea.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Kapazität: 4.800 MW", "Anzahl der Blöcke: 4 (je 1.200 MW)", "Inbetriebnahme: 2006–2011", "Jährliche Kohleverbrauch: 15 Mio. Tonnen", "Kühlwasser: 1,5 Mrd. m³ pro Jahr", "Versorgt: 30 Mio. Haushalte"],
+      hu: ["Beépített kapacitás: 4.800 MW", "Blokkok száma: 4 (egyenként 1.200 MW)", "Üzembe helyezés: 2006–2011", "Éves szénfelhasználás: 15 millió tonna", "Hűtővíz: 1,5 milliárd m³/év", "Ellát: 30 millió háztartást"],
+      ro: ["Capacitate instalată: 4.800 MW", "Număr de unități: 4 (fiecare 1.200 MW)", "Punere în funcțiune: 2006–2011", "Consum anual de cărbune: 15 milioane de tone", "Apă de răcire: 1,5 miliarde m³ pe an", "Aprovizionează: 30 milioane de gospodării"],
+      en: ["Installed capacity: 4,800 MW", "Number of units: 4 (each 1,200 MW)", "Commissioning: 2006–2011", "Annual coal consumption: 15 million tonnes", "Cooling water: 1.5 billion m³ per year", "Supplies: 30 million households"],
+    },
   },
   {
     id: "indonesia-sei-mangkei-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Sei Mangkei", hu: "Sei Mangkei különleges gazdasági övezet", ro: "Zonă Economică Specială Sei Mangkei", en: "Sei Mangkei Special Economic Zone" },
-    coordinates: { lat: 3.1251, lng: 99.3622 },
+    coords: [99.3622, 3.1251],
     description: {
       de: "Indonesiens erste Sonderwirtschaftszone, spezialisiert auf die Verarbeitung von Palmöl und Kautschuk in Nordsumatra.",
       hu: "Indonézia első különleges gazdasági övezete, amely pálmaolaj és gumi feldolgozására szakosodott Észak-Szumátrán.",
@@ -874,12 +958,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Established in 2012", "Focus on agro-industry", "Integrated dry port facility", "On-site biomass power plant"],
     },
     imageHint: "Industrial palm oil refinery Sei Mangkei",
+    descriptionAdvanced: {
+      de: "Die Sei Mangkei Special Economic Zone (SEZ) liegt in der Provinz Nordsumatra, etwa 100 Kilometer von Medan entfernt. Sie wurde 2015 gegründet, um die industrielle Entwicklung in der Region zu fördern. Die SEZ konzentriert sich auf die Verarbeitung von Palmöl, Gummi und anderen Agrarprodukten. Sie beherbergt Fabriken zur Herstellung von Biodiesel, Oleochemikalien und Gummiwaren. Die Zone ist strategisch günstig in der Nähe des Kuala Tanjung-Tiefwasserhafens gelegen. Ziel ist es, ausländische Investitionen anzuziehen und Arbeitsplätze zu schaffen. Die SEZ bietet Steueranreize und moderne Infrastruktur.",
+      hu: "A Sei Mangkei Különleges Gazdasági Övezet (SEZ) Észak-Szumátra tartományban található, mintegy 100 kilométerre Medantól. 2015-ben hozták létre a régió ipari fejlődésének elősegítésére. Az övezet a pálmaolaj-, gumi- és egyéb mezőgazdasági termékek feldolgozására összpontosít. Gyárakat foglal magában, amelyek biodízelt, oleokemikáliákat és gumitermékeket állítanak elő. A zóna stratégiai elhelyezkedésű, a Kuala Tanjung mélyvízi kikötő közelében. Célja külföldi befektetések vonzása és munkahelyek teremtése. Adókedvezményeket és modern infrastruktúrát kínál.",
+      ro: "Zona Economică Specială (SEZ) Sei Mangkei este situată în provincia Sumatra de Nord, la aproximativ 100 de kilometri de Medan. A fost înființată în 2015 pentru a stimula dezvoltarea industrială a regiunii. SEZ se concentrează pe prelucrarea uleiului de palmier, a cauciucului și a altor produse agricole. Adăpostește fabrici care produc biodiesel, oleochimice și articole din cauciuc. Zona este situată strategic lângă portul de adâncime Kuala Tanjung. Scopul este atragerea investițiilor străine și crearea de locuri de muncă. SEZ oferă stimulente fiscale și infrastructură modernă.",
+      en: "Sei Mangkei Special Economic Zone (SEZ) is located in North Sumatra province, about 100 kilometers from Medan. It was established in 2015 to promote industrial development in the region. The SEZ focuses on processing palm oil, rubber, and other agricultural products. It hosts factories producing biodiesel, oleochemicals, and rubber goods. The zone is strategically located near the Kuala Tanjung deep-sea port. The goal is to attract foreign investment and create jobs. The SEZ offers tax incentives and modern infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 Hektar", "Gründungsjahr: 2015", "Investitionsvolumen: 2 Mrd. USD", "Anzahl der Fabriken: 15", "Jährliche Palmölverarbeitung: 1 Mio. Tonnen", "Arbeitsplätze: 10.000"],
+      hu: ["Terület: 200 hektár", "Alapítás éve: 2015", "Befektetés: 2 milliárd USD", "Gyárak száma: 15", "Éves pálmaolaj-feldolgozás: 1 millió tonna", "Munkahelyek: 10.000"],
+      ro: ["Suprafață: 200 de hectare", "Anul înființării: 2015", "Investiție: 2 miliarde USD", "Număr de fabrici: 15", "Prelucrare anuală de ulei de palmier: 1 milion de tone", "Locuri de muncă: 10.000"],
+      en: ["Area: 200 hectares", "Established: 2015", "Investment: 2 billion USD", "Number of factories: 15", "Annual palm oil processing: 1 million tonnes", "Jobs: 10,000"],
+    },
   },
   {
     id: "indonesia-mandalika-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Mandalika", hu: "Mandalika különleges gazdasági övezet", ro: "Zonă Economică Specială Mandalika", en: "Mandalika Special Economic Zone" },
-    coordinates: { lat: -8.8955, lng: 116.2952 },
+    coords: [116.2952, -8.8955],
     description: {
       de: "Ein großangelegtes Wirtschaftsgebiet auf Süd-Lombok, das Tourismus mit hochmoderner Sportinfrastruktur verbindet.",
       hu: "Nagyszabású gazdasági övezet Dél-Lombokon, amely a turizmust modern sportinfrastruktúrával ötvözi.",
@@ -893,12 +989,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Houses the Street Circuit", "MotoGP host venue", "Over 1,100 hectares in size", "Focus on eco-tourism"],
     },
     imageHint: "Mandalika International Circuit and coastal development",
+    descriptionAdvanced: {
+      de: "Die Mandalika Special Economic Zone (SEZ) liegt auf der Insel Lombok in der Provinz West-Nusa Tenggara. Sie ist ein integriertes Tourismusgebiet, das sich über 1.175 Hektar entlang der Küste erstreckt. Die SEZ wurde 2015 gegründet und zielt darauf ab, hochwertigen Tourismus zu entwickeln, einschließlich Resorts, Golfplätze und eines internationalen Rennstreckenkomplexes (Mandalika International Street Circuit). Die Zone soll ausländische Investitionen anziehen und die lokale Wirtschaft durch Tourismus ankurbeln. Sie umfasst Strände, Hügel und traditionelle Dörfer. Die Infrastruktur umfasst einen Flughafen in der Nähe.",
+      hu: "A Mandalika Különleges Gazdasági Övezet (SEZ) Lombok szigetén, Nyugat-Nusa Tenggara tartományban található. Ez egy integrált turisztikai terület, amely 1.175 hektáron terül el a part mentén. Az övezetet 2015-ben hozták létre, hogy magas színvonalú turizmust fejlesszen, beleértve üdülőhelyeket, golfpályákat és egy nemzetközi versenypályát (Mandalika International Street Circuit). Célja külföldi befektetések vonzása és a helyi gazdaság fellendítése a turizmus révén. A terület strandokat, dombokat és hagyományos falvakat foglal magában. A közeli repülőtér biztosítja a megközelíthetőséget.",
+      ro: "Zona Economică Specială (SEZ) Mandalika este situată pe insula Lombok, în provincia Nusa Tenggara de Vest. Este o zonă turistică integrată, întinsă pe 1.175 de hectare de-a lungul coastei. SEZ a fost înființată în 2015 pentru a dezvolta turismul de înaltă calitate, incluzând stațiuni, terenuri de golf și un circuit internațional de curse (Mandalika International Street Circuit). Zona urmărește atragerea investițiilor străine și stimularea economiei locale prin turism. Include plaje, dealuri și sate tradiționale. Infrastructura include un aeroport în apropiere.",
+      en: "Mandalika Special Economic Zone (SEZ) is located on Lombok Island in West Nusa Tenggara province. It is an integrated tourism area spanning 1,175 hectares along the coast. The SEZ was established in 2015 to develop high-quality tourism, including resorts, golf courses, and an international racetrack (Mandalika International Street Circuit). The zone aims to attract foreign investment and boost the local economy through tourism. It encompasses beaches, hills, and traditional villages. Nearby airport provides access.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.175 Hektar", "Gründungsjahr: 2015", "Rennstrecke: 4,3 km Länge", "Golfplätze: 2", "Hotelzimmer geplant: 5.000", "Investitionsvolumen: 3 Mrd. USD"],
+      hu: ["Terület: 1.175 hektár", "Alapítás éve: 2015", "Versenypálya hossza: 4,3 km", "Golfpályák: 2", "Tervezett szobák: 5.000", "Befektetés: 3 milliárd USD"],
+      ro: ["Suprafață: 1.175 de hectare", "Anul înființării: 2015", "Lungimea circuitului: 4,3 km", "Terenuri de golf: 2", "Camere de hotel planificate: 5.000", "Investiție: 3 miliarde USD"],
+      en: ["Area: 1,175 hectares", "Established: 2015", "Racetrack length: 4.3 km", "Golf courses: 2", "Planned hotel rooms: 5,000", "Investment: 3 billion USD"],
+    },
   },
   {
     id: "indonesia-bontang-lng-plant-economic-v2",
     type: "factory",
     name: { de: "Bontang LNG-Anlage", hu: "Bontang LNG üzem", ro: "Instalația GNL Bontang", en: "Bontang LNG Plant" },
-    coordinates: { lat: 0.1065, lng: 117.4762 },
+    coords: [117.4762, 0.1065],
     description: {
       de: "Ein riesiger Industriekomplex in Ost-Kalimantan, der Erdgas für den Export nach Ostasien verflüssigt.",
       hu: "Hatalmas ipari komplexum Kelet-Kalimantánban, amely földgázt cseppfolyósít kelet-ázsiai exportra.",
@@ -912,12 +1020,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Operated by PT Badak NGL", "In operation since 1977", "Features 8 production trains", "Leading global supplier"],
     },
     imageHint: "Large LNG storage tanks and plant Bontang",
+    descriptionAdvanced: {
+      de: "Das Bontang LNG Plant ist eine der größten LNG-Anlagen der Welt und befindet sich in Bontang, Ostkalimantan. Die Anlage wurde 1977 in Betrieb genommen und besteht aus acht LNG-Verarbeitungslinien (Trains). Sie verarbeitet Erdgas aus Feldern in der Region, darunter das Badak-Feld. Das Bontang LNG Plant hat eine jährliche Kapazität von über 22 Millionen Tonnen LNG. Es exportiert hauptsächlich nach Japan, Südkorea und China. Die Anlage ist ein wichtiger Wirtschaftsfaktor für Ostkalimantan und beschäftigt Tausende von Arbeitern. Umweltauswirkungen und Gasverknappung sind Herausforderungen.",
+      hu: "A Bontang LNG-üzem a világ egyik legnagyobb LNG-üzeme, Bontangban, Kelet-Kalimantanon található. 1977-ben kezdte meg a termelést, és nyolc LNG-feldolgozó vonalból (trains) áll. A földgázt a régió mezőiből, köztük a Badak-mezőből nyeri. Éves kapacitása meghaladja a 22 millió tonna LNG-t. Főként Japánba, Dél-Koreába és Kínába exportál. Az üzem fontos gazdasági tényező Kelet-Kalimantan számára, és több ezer munkást foglalkoztat. Környezeti hatások és gázhiány kihívásokat jelentenek.",
+      ro: "Uzina LNG Bontang este una dintre cele mai mari instalații de LNG din lume, situată în Bontang, Kalimantanul de Est. Instalația a fost pusă în funcțiune în 1977 și este formată din opt linii de prelucrare LNG (trenuri). Procesează gaze naturale din câmpuri din regiune, inclusiv câmpul Badak. Capacitatea anuală depășește 22 de milioane de tone de LNG. Exportă în principal în Japonia, Coreea de Sud și China. Uzina este un factor economic important pentru Kalimantanul de Est și angajează mii de muncitori. Impactul asupra mediului și penuria de gaze sunt provocări.",
+      en: "Bontang LNG Plant is one of the world's largest LNG facilities, located in Bontang, East Kalimantan. Commissioned in 1977, it consists of eight LNG processing trains. It processes natural gas from regional fields, including the Badak field. The plant has an annual capacity exceeding 22 million tonnes of LNG. It exports primarily to Japan, South Korea, and China. The plant is a major economic driver for East Kalimantan, employing thousands of workers. Environmental impacts and gas depletion are challenges.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Trains: 8", "Jährliche Kapazität: 22,6 Mio. Tonnen LNG", "Inbetriebnahme: 1977", "Exportziele: Japan (40%), Südkorea (30%), China (20%)", "Gasfeld: Badak (Reserven 5 Billionen Kubikfuß)", "Beschäftigte: 5.000"],
+      hu: ["Trains száma: 8", "Éves kapacitás: 22,6 millió tonna LNG", "Üzembe helyezés: 1977", "Export célországok: Japán (40%), Dél-Korea (30%), Kína (20%)", "Gázmező: Badak (5 billió köbláb készlet)", "Foglalkoztatottak: 5.000"],
+      ro: ["Număr de trenuri: 8", "Capacitate anuală: 22,6 milioane de tone LNG", "Punere în funcțiune: 1977", "Destinații de export: Japonia (40%), Coreea de Sud (30%), China (20%)", "Câmpul gazier: Badak (rezerve de 5 trilioane de picioare cubice)", "Angajați: 5.000"],
+      en: ["Number of trains: 8", "Annual capacity: 22.6 million tonnes LNG", "Commissioned: 1977", "Export destinations: Japan (40%), South Korea (30%), China (20%)", "Gas field: Badak (5 trillion cubic feet reserves)", "Employees: 5,000"],
+    },
   },
   {
     id: "indonesia-weda-bay-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Weda Bay", hu: "Weda Bay ipari övezet", ro: "Zona Industrială Weda Bay", en: "Weda Bay Industrial Park" },
-    coordinates: { lat: 0.4852, lng: 127.9151 },
+    coords: [127.9151, 0.4852],
     description: {
       de: "Ein integrierter Industriepark in Nord-Maluku, der sich auf den Abbau und die Verhüttung von Nickel konzentriert.",
       hu: "Integrált ipari park Észak-Molukkákon, amely nikkel bányászatára és kohászatára összpontosít.",
@@ -931,12 +1051,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Center for battery materials", "Massive foreign investment", "Dedicated cargo port", "Employs thousands of workers"],
     },
     imageHint: "Industrial smelting facility Weda Bay Halmahera",
+    descriptionAdvanced: {
+      de: "Der Weda Bay Industrial Park ist ein Industriegebiet in der Provinz Nordmolukken auf der Insel Halmahera. Der Park konzentriert sich auf die Verarbeitung von Nickel und anderen Mineralien. Er wurde ab 2018 entwickelt und beherbergt Schmelzanlagen für Nickel, die hauptsächlich von chinesischen Unternehmen betrieben werden. Weda Bay hat eine der größten Nickelreserven Indonesiens. Der Park verfügt über einen eigenen Hafen und eine Kraftwerksanlage. Er exportiert Nickelprodukte nach China und in andere Länder. Der Park bietet Tausende von Arbeitsplätzen, steht aber wegen Umweltauswirkungen in der Kritik.",
+      hu: "A Weda Bay Ipari Park Észak-Maluku tartományban, Halmahera szigetén található. A park a nikkel és más ásványi anyagok feldolgozására összpontosít. 2018-tól kezdve fejlesztették ki, és nikkelolvasztókat foglal magában, amelyeket főként kínai vállalatok üzemeltetnek. Weda Bay rendelkezik Indonézia egyik legnagyobb nikkelkészletével. Saját kikötővel és erőművel rendelkezik. Nikkeltermékeket exportál Kínába és más országokba. Több ezer munkahelyet teremt, de környezeti hatásai miatt kritizálják.",
+      ro: "Parcul Industrial Weda Bay este o zonă industrială situată în provincia Molucele de Nord, pe insula Halmahera. Parcul este concentrat pe prelucrarea nichelului și a altor minerale. A fost dezvoltat începând cu 2018 și include topitorii de nichel operate în principal de companii chinezești. Weda Bay are unele dintre cele mai mari rezerve de nichel din Indonezia. Parcul are propriul port și o centrală electrică. Exportă produse din nichel în China și în alte țări. Oferă mii de locuri de muncă, dar este criticat pentru impactul asupra mediului.",
+      en: "Weda Bay Industrial Park is an industrial estate located in North Maluku province on Halmahera Island. The park focuses on processing nickel and other minerals. Developed since 2018, it hosts nickel smelters operated mainly by Chinese companies. Weda Bay has some of Indonesia's largest nickel reserves. The park has its own port and power plant. It exports nickel products to China and other countries. It provides thousands of jobs but faces criticism for environmental impacts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3.000 Hektar", "Nickelreserven: 1 Mrd. Tonnen Erz", "Anzahl der Schmelzanlagen: 4", "Jährliche Nickelproduktion: 200.000 Tonnen", "Kraftwerkskapazität: 500 MW", "Beschäftigte: 20.000"],
+      hu: ["Terület: 3.000 hektár", "Nikkelkészlet: 1 milliárd tonna érc", "Olvasztók száma: 4", "Éves nikkeltermelés: 200.000 tonna", "Erőmű kapacitása: 500 MW", "Foglalkoztatottak: 20.000"],
+      ro: ["Suprafață: 3.000 de hectare", "Rezerve de nichel: 1 miliard de tone de minereu", "Număr de topitorii: 4", "Producția anuală de nichel: 200.000 de tone", "Capacitate centrală electrică: 500 MW", "Angajați: 20.000"],
+      en: ["Area: 3,000 hectares", "Nickel reserves: 1 billion tonnes ore", "Number of smelters: 4", "Annual nickel production: 200,000 tonnes", "Power plant capacity: 500 MW", "Employees: 20,000"],
+    },
   },
   {
     id: "indonesia-semen-padang-plant-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Semen Padang", hu: "Semen Padang cementgyár", ro: "Fabrica de ciment Semen Padang", en: "Semen Padang Plant" },
-    coordinates: { lat: -0.9542, lng: 100.4721 },
+    coords: [100.4721, -0.9542],
     description: {
       de: "Die älteste Zementfabrik Indonesiens, gelegen am Fuße des Barisan-Gebirges in West-Sumatra.",
       hu: "Indonézia legrégebbi cementgyára, amely a Barisan-hegység lábánál található Nyugat-Szumátrán.",
@@ -950,12 +1082,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Founded in 1910", "8 million ton annual capacity", "Own limestone quarries", "Industrial landmark of Padang"],
     },
     imageHint: "Old industrial cement factory in Padang Sumatra",
+    descriptionAdvanced: {
+      de: "Das Semen Padang Werk ist ein Zementwerk in der Provinz Westsumatra, in der Nähe der Stadt Padang. Es ist eines der ältesten Zementwerke Indonesiens und wurde 1910 von der niederländischen Kolonialregierung gegründet. Das Werk gehört heute zur Semen Indonesia Group. Es produziert verschiedene Zementarten und hat eine jährliche Kapazität von etwa 10 Millionen Tonnen. Das Werk versorgt hauptsächlich den Markt in Sumatra. Es nutzt lokale Rohstoffe wie Kalkstein und Ton. Die Anlage beschäftigt Tausende von Arbeitern und ist ein wichtiger Wirtschaftsfaktor für die Region.",
+      hu: "A Semen Padang cementgyár Nyugat-Szumátra tartományban, Padang város közelében található. Indonézia egyik legrégebbi cementgyára, amelyet 1910-ben alapított a holland gyarmati kormány. Ma a Semen Indonesia Group része. Különböző cementtípusokat gyárt, éves kapacitása mintegy 10 millió tonna. Főként Szumátra piacát látja el. Helyi nyersanyagokat, például mészkövet és agyagot használ. Több ezer munkást foglalkoztat, és fontos gazdasági tényező a régióban.",
+      ro: "Fabrica de ciment Semen Padang este situată în provincia Sumatra de Vest, lângă orașul Padang. Este una dintre cele mai vechi fabrici de ciment din Indonezia, fondată în 1910 de administrația colonială olandeză. Fabrica aparține acum Semen Indonesia Group. Produce diferite tipuri de ciment și are o capacitate anuală de aproximativ 10 milioane de tone. Aprovizionează în principal piața din Sumatra. Utilizează materii prime locale precum calcar și argilă. Angajează mii de muncitori și este un factor economic important pentru regiune.",
+      en: "Semen Padang plant is a cement factory located in West Sumatra province, near the city of Padang. It is one of Indonesia's oldest cement plants, founded in 1910 by the Dutch colonial government. The plant is now part of the Semen Indonesia Group. It produces various types of cement and has an annual capacity of about 10 million tonnes. It primarily supplies the Sumatra market. It uses local raw materials such as limestone and clay. The plant employs thousands of workers and is a key economic driver for the region.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1910", "Jährliche Kapazität: 10 Mio. Tonnen", "Anzahl der Produktionslinien: 4", "Rohstoffvorkommen: 200 Mio. Tonnen Kalkstein", "Beschäftigte: 3.500", "Exportanteil: 20%"],
+      hu: ["Alapítás éve: 1910", "Éves kapacitás: 10 millió tonna", "Gyártósorok száma: 4", "Nyersanyagkészlet: 200 millió tonna mészkő", "Foglalkoztatottak: 3.500", "Export aránya: 20%"],
+      ro: ["Anul înființării: 1910", "Capacitate anuală: 10 milioane de tone", "Număr de linii de producție: 4", "Rezerve de materii prime: 200 de milioane de tone de calcar", "Angajați: 3.500", "Procent de export: 20%"],
+      en: ["Founded: 1910", "Annual capacity: 10 million tonnes", "Number of production lines: 4", "Raw material reserves: 200 million tonnes limestone", "Employees: 3,500", "Export share: 20%"],
+    },
   },
   {
     id: "indonesia-pomalaa-nickel-mine-economic-v2",
     type: "mine",
     name: { de: "Nickelmine Pomalaa", hu: "Pomalaa nikkelbánya", ro: "Mina de nichel Pomalaa", en: "Pomalaa Nickel Mine" },
-    coordinates: { lat: -4.1752, lng: 121.6151 },
+    coords: [121.6151, -4.1752],
     description: {
       de: "Eines der traditionsreichsten Nickelabbaugebiete Indonesiens in der Provinz Südost-Sulawesi.",
       hu: "Indonézia egyik legrégebbi nikkelbányászati területe Délkelet-Sulawesi tartományban.",
@@ -969,12 +1113,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Operated by PT Antam", "Includes a ferronickel smelter", "Mining since the 1960s", "Major export facility"],
     },
     imageHint: "Nickel mining and processing site Pomalaa Sulawesi",
+    descriptionAdvanced: {
+      de: "Die Pomalaa Nickel Mine liegt in der Provinz Südostsulawesi auf der Insel Sulawesi. Es ist eine der größten Nickeltagebauminen Indonesiens. Die Mine wird von PT Antam betrieben, einem staatlichen Bergbauunternehmen. Der Abbau begann in den 1960er Jahren. Pomalaa hat bedeutende Nickelreserven und produziert jährlich mehrere Millionen Tonnen Nickelerz. Das Erz wird in nahegelegenen Schmelzanlagen verarbeitet oder exportiert. Die Mine ist ein wichtiger Wirtschaftsfaktor für die Region, aber Umweltprobleme wie Abholzung und Abfall sind vorhanden.",
+      hu: "A Pomalaa nikkelbánya Délkelet-Szulawesi tartományban, Sulawesi szigetén található. Indonézia egyik legnagyobb nikkel külszíni bányája. A bányát a PT Antam állami bányászati vállalat üzemelteti. A kitermelés az 1960-as években kezdődött. Jelentős nikkelkészletekkel rendelkezik, és évente több millió tonna nikkelércet termel. Az ércet a közeli olvasztókban dolgozzák fel, vagy exportálják. A bánya fontos gazdasági tényező, de környezeti problémák, mint az erdőirtás és a hulladék, jelen vannak.",
+      ro: "Mina de nichel Pomalaa este situată în provincia Sulawesi de Sud-Est, pe insula Sulawesi. Este una dintre cele mai mari mine de nichel de suprafață din Indonezia. Mina este operată de PT Antam, o companie minieră de stat. Exploatarea a început în anii 1960. Pomalaa are rezerve semnificative de nichel și produce anual câteva milioane de tone de minereu de nichel. Minereul este procesat în topitorii din apropiere sau exportat. Mina este un factor economic important, dar există probleme de mediu, cum ar fi defrișările și deșeurile.",
+      en: "Pomalaa Nickel Mine is located in Southeast Sulawesi province, Sulawesi Island. It is one of Indonesia's largest nickel open-pit mines. The mine is operated by PT Antam, a state-owned mining company. Extraction began in the 1960s. Pomalaa has substantial nickel reserves and produces several million tonnes of nickel ore annually. The ore is processed in nearby smelters or exported. The mine is a significant economic driver, but environmental issues such as deforestation and waste exist.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsbeginn: 1968", "Jährliche Förderung: 5 Mio. Tonnen Erz", "Nickelgehalt: 1,8%", "Reserven: 200 Mio. Tonnen Erz", "Tagebaufläche: 1.500 Hektar", "Beschäftigte: 4.000"],
+      hu: ["Kitermelés kezdete: 1968", "Éves termelés: 5 millió tonna érc", "Nikkeltartalom: 1,8%", "Készletek: 200 millió tonna érc", "Külszíni bánya területe: 1.500 hektár", "Foglalkoztatottak: 4.000"],
+      ro: ["Începutul exploatării: 1968", "Producția anuală: 5 milioane de tone de minereu", "Conținut de nichel: 1,8%", "Rezerve: 200 de milioane de tone de minereu", "Suprafața minei: 1.500 de hectare", "Angajați: 4.000"],
+      en: ["Start of production: 1968", "Annual ore production: 5 million tonnes", "Nickel grade: 1.8%", "Reserves: 200 million tonnes ore", "Mine area: 1,500 hectares", "Employees: 4,000"],
+    },
   },
   {
     id: "indonesia-patimban-deep-sea-port-economic-v2",
     type: "port",
     name: { de: "Tiefseehafen Patimban", hu: "Patimban mélyvízi kikötő", ro: "Portul de adâncime Patimban", en: "Patimban Deep Sea Port" },
-    coordinates: { lat: -6.2452, lng: 107.9121 },
+    coords: [107.9121, -6.2452],
     description: {
       de: "Ein neuer strategischer Hafen in Westjava, der zur Entlastung des Hafens Tanjung Priok in Jakarta gebaut wurde.",
       hu: "Új stratégiai kikötő Nyugat-Jáván, amelyet a jakartai Tanjung Priok tehermentesítésére építettek.",
@@ -988,12 +1144,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Specialized in vehicle exports", "Partial opening in 2020", "Cooperation with Japan", "Direct toll road access"],
     },
     imageHint: "New Patimban Deep Sea Port terminal",
+    descriptionAdvanced: {
+      de: "Der Patimban Deep Sea Port ist ein Tiefwasserhafen in der Provinz Westjava, etwa 200 Kilometer östlich von Jakarta. Der Hafen wurde entwickelt, um den überlasteten Hafen Tanjung Priok in Jakarta zu entlasten. Patimban hat eine Wassertiefe von bis zu 17 Metern und kann große Containerschiffe sowie Autotransporter aufnehmen. Der Hafen ist auf den Export von Automobilen und anderen Fertigprodukten spezialisiert. Phase 1 wurde 2020 eröffnet. Patimban ist ein wichtiger Teil der nationalen Logistikstrategie und soll die Exportkapazität Indonesiens erhöhen.",
+      hu: "A Patimban mélyvízi kikötő Nyugat-Jáva tartományban található, mintegy 200 kilométerre keletre Jakartától. A kikötőt a túlterhelt Tanjung Priok kikötő tehermentesítésére fejlesztették ki. Vízmélysége eléri a 17 métert, így nagy konténerszállító hajók és autószállítók számára alkalmas. A kikötő az autók és más feldolgozott termékek exportjára specializálódott. Az 1. fázist 2020-ban nyitották meg. Patimban a nemzeti logisztikai stratégia fontos része, növelve Indonézia exportkapacitását.",
+      ro: "Portul de adâncime Patimban este situat în provincia Java de Vest, la aproximativ 200 de kilometri est de Jakarta. Portul a fost dezvoltat pentru a descongestiona portul supraaglomerat Tanjung Priok din Jakarta. Patimban are o adâncime a apei de până la 17 metri și poate găzdui nave mari de containere și transportatoare de mașini. Portul este specializat în exportul de automobile și alte produse finite. Faza 1 a fost deschisă în 2020. Patimban este o parte importantă a strategiei naționale de logistică, crescând capacitatea de export a Indoneziei.",
+      en: "Patimban Deep Sea Port is a deep-water port in West Java province, about 200 kilometers east of Jakarta. The port was developed to relieve congestion at Tanjung Priok port in Jakarta. Patimban has a water depth of up to 17 meters, accommodating large container vessels and car carriers. The port specializes in exporting automobiles and other manufactured goods. Phase 1 opened in 2020. Patimban is a key part of the national logistics strategy, increasing Indonesia's export capacity.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 17 m", "Containerumschlagkapazität: 3,8 Mio. TEU pro Jahr", "Autoumschlag: 600.000 Einheiten pro Jahr", "Kai länge: 1.500 m", "Eröffnung Phase 1: 2020", "Investitionsvolumen: 2,5 Mrd. USD"],
+      hu: ["Vízmélység: 17 m", "Konténerkapacitás: 3,8 millió TEU/év", "Autóforgalom: 600.000 db/év", "Rakpart hossza: 1.500 m", "1. fázis megnyitása: 2020", "Befektetés: 2,5 milliárd USD"],
+      ro: ["Adâncimea apei: 17 m", "Capacitate containere: 3,8 milioane TEU pe an", "Capacitate automobile: 600.000 de unități pe an", "Lungime chei: 1.500 m", "Deschiderea fazei 1: 2020", "Investiție: 2,5 miliarde USD"],
+      en: ["Water depth: 17 m", "Container capacity: 3.8 million TEU per year", "Car handling: 600,000 units per year", "Quay length: 1,500 m", "Phase 1 opened: 2020", "Investment: 2.5 billion USD"],
+    },
   },
   {
     id: "indonesia-pusri-palembang-fertilizer-economic-v2",
     type: "factory",
     name: { de: "Pusri Düngemittelwerk", hu: "Pusri műtrágyagyár", ro: "Fabrica de îngrășăminte Pusri", en: "Pusri Palembang Fertilizer Plant" },
-    coordinates: { lat: -2.9752, lng: 104.8051 },
+    coords: [104.8051, -2.9752],
     description: {
       de: "Ein großer Industriekomplex am Ufer des Musi-Flusses, der für die Landwirtschaft Indonesiens lebenswichtigen Dünger produziert.",
       hu: "Hatalmas ipari komplexum a Musi-folyó partján, amely az indonéz mezőgazdaság számára létfontosságú műtrágyát gyárt.",
@@ -1007,12 +1175,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Established in 1959", "Headquartered in Palembang", "Produces urea and ammonia", "Dedicated river port"],
     },
     imageHint: "Pusri industrial fertilizer factory Palembang",
+    descriptionAdvanced: {
+      de: "Das Pusri Palembang Düngemittelwerk liegt in Palembang, der Hauptstadt der Provinz Südsumatra. Es ist eines der größten Düngemittelwerke Indonesiens und wurde 1963 gegründet. Das Werk produziert Harnstoff und Ammoniak für den landwirtschaftlichen Bedarf. Es hat eine jährliche Kapazität von über 2 Millionen Tonnen Harnstoff. Pusri Palembang spielt eine wichtige Rolle in der nationalen Nahrungsmittelproduktion, indem es Düngemittel für Reisfelder und Plantagen bereitstellt. Das Werk nutzt Erdgas aus der Region als Rohstoff. Es beschäftigt Tausende von Arbeitern und trägt zur wirtschaftlichen Entwicklung Südsumatras bei.",
+      hu: "A Pusri Palembang műtrágyagyár Palembangban, Dél-Szumátra tartomány fővárosában található. Indonézia egyik legnagyobb műtrágyagyára, 1963-ban alapították. Karbamidot és ammóniát állít elő mezőgazdasági felhasználásra. Éves kapacitása meghaladja a 2 millió tonna karbamidot. A Pusri Palembang fontos szerepet játszik a nemzeti élelmiszer-termelésben, műtrágyát biztosítva a rizsföldek és ültetvények számára. A gyár földgázt használ nyersanyagként. Több ezer munkást foglalkoztat, és hozzájárul Dél-Szumátra gazdasági fejlődéséhez.",
+      ro: "Fabrica de îngrășăminte Pusri Palembang este situată în Palembang, capitala provinciei Sumatra de Sud. Este una dintre cele mai mari fabrici de îngrășăminte din Indonezia, fondată în 1963. Produce uree și amoniac pentru nevoi agricole. Capacitatea anuală depășește 2 milioane de tone de uree. Pusri Palembang joacă un rol important în producția națională de alimente, furnizând îngrășăminte pentru orezării și plantații. Fabrica utilizează gaze naturale din regiune ca materie primă. Angajează mii de muncitori și contribuie la dezvoltarea economică a Sumatrei de Sud.",
+      en: "Pusri Palembang Fertilizer Plant is located in Palembang, the capital of South Sumatra province. It is one of Indonesia's largest fertilizer plants, established in 1963. The plant produces urea and ammonia for agricultural use. It has an annual capacity of over 2 million tonnes of urea. Pusri Palembang plays a key role in national food production, supplying fertilizers for rice fields and plantations. The plant uses natural gas from the region as feedstock. It employs thousands of workers and contributes to South Sumatra's economic development.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1963", "Jährliche Harnstoffkapazität: 2,2 Mio. Tonnen", "Ammoniakproduktion: 1,5 Mio. Tonnen pro Jahr", "Rohstoff: Erdgas aus Südsumatra", "Beschäftigte: 6.000", "Versorgt 20% des indonesischen Düngemittelmarktes"],
+      hu: ["Alapítás éve: 1963", "Éves karbamid kapacitás: 2,2 millió tonna", "Ammoniák termelés: évi 1,5 millió tonna", "Nyersanyag: földgáz Dél-Szumátráról", "Foglalkoztatottak: 6.000", "Az indonéz műtrágyapiac 20%-át látja el"],
+      ro: ["Anul înființării: 1963", "Capacitate anuală de uree: 2,2 milioane de tone", "Producție de amoniac: 1,5 milioane de tone pe an", "Materie primă: gaze naturale din Sumatra de Sud", "Angajați: 6.000", "Furnizează 20% din piața de îngrășăminte din Indonezia"],
+      en: ["Founded: 1963", "Annual urea capacity: 2.2 million tonnes", "Ammonia production: 1.5 million tonnes per year", "Feedstock: natural gas from South Sumatra", "Employees: 6,000", "Supplies 20% of Indonesia's fertilizer market"],
+    },
   },
   {
     id: "indonesia-galang-batang-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Galang Batang", hu: "Galang Batang különleges gazdasági övezet", ro: "Zonă Economică Specială Galang Batang", en: "Galang Batang Special Economic Zone" },
-    coordinates: { lat: 0.8521, lng: 104.6452 },
+    coords: [104.6452, 0.8521],
     description: {
       de: "Ein auf Bauxitabbau und Tonerdeproduktion spezialisiertes Industriegebiet auf der Insel Bintan.",
       hu: "Bauxitbányászatra és timföldgyártásra szakosodott ipari övezet Bintan szigetén.",
@@ -1026,12 +1206,24 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["SEZ status since 2017", "Large aluminum smelter", "Dedicated deep-water port", "Supplied by on-site power plant"],
     },
     imageHint: "Industrial bauxite processing plant Bintan",
+    descriptionAdvanced: {
+      de: "Die Galang Batang Special Economic Zone (SEZ) liegt auf der Insel Bintan in der Provinz Kepulauan Riau. Sie wurde 2014 gegründet und konzentriert sich auf die Verarbeitung von Bauxit und die Aluminiumproduktion. Die SEZ beherbergt eine Aluminiumraffinerie und ein Kraftwerk. Galang Batang ist strategisch günstig in der Nähe von Singapur gelegen und verfügt über einen Tiefwasserhafen. Ziel ist es, die Wertschöpfung von Bauxit in Indonesien zu steigern und Arbeitsplätze zu schaffen. Die Zone bietet Steueranreize und eine moderne Infrastruktur. Umweltbedenken bezüglich der Aluminiumproduktion bestehen.",
+      hu: "A Galang Batang Különleges Gazdasági Övezet (SEZ) Bintan szigetén, Riau-szigetek tartományban található. 2014-ben hozták létre, és a bauxit feldolgozására és alumíniumgyártásra összpontosít. Az övezetben alumíniumfinomító és erőmű található. Galang Batang stratégiai elhelyezkedésű Szingapúr közelében, és mélyvízi kikötővel rendelkezik. Célja a bauxit hozzáadott értékének növelése Indonéziában és munkahelyek teremtése. Az övezet adókedvezményeket és modern infrastruktúrát kínál. Környezeti aggályok az alumíniumgyártással kapcsolatban fennállnak.",
+      ro: "Zona Economică Specială (SEZ) Galang Batang este situată pe insula Bintan, în provincia Insulele Riau. A fost înființată în 2014 și se concentrează pe prelucrarea bauxitei și producția de aluminiu. SEZ include o rafinărie de aluminiu și o centrală electrică. Galang Batang este situată strategic în apropierea Singaporei și are un port de adâncime. Scopul este de a crește valoarea adăugată a bauxitei în Indonezia și de a crea locuri de muncă. Zona oferă stimulente fiscale și infrastructură modernă. Există preocupări de mediu legate de producția de aluminiu.",
+      en: "Galang Batang Special Economic Zone (SEZ) is located on Bintan Island in the Riau Islands province. It was established in 2014 and focuses on bauxite processing and aluminum production. The SEZ houses an aluminum refinery and a power plant. Galang Batang is strategically located near Singapore and has a deep-sea port. The goal is to increase the added value of bauxite in Indonesia and create jobs. The zone offers tax incentives and modern infrastructure. Environmental concerns regarding aluminum production exist.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.000 Hektar", "Gründungsjahr: 2014", "Aluminiumkapazität: 1 Mio. Tonnen pro Jahr", "Kraftwerkskapazität: 300 MW", "Investitionsvolumen: 3,5 Mrd. USD", "Beschäftigte: 15.000"],
+      hu: ["Terület: 1.000 hektár", "Alapítás éve: 2014", "Alumíniumkapacitás: évi 1 millió tonna", "Erőmű kapacitása: 300 MW", "Befektetés: 3,5 milliárd USD", "Foglalkoztatottak: 15.000"],
+      ro: ["Suprafață: 1.000 de hectare", "Anul înființării: 2014", "Capacitate de aluminiu: 1 milion de tone pe an", "Capacitate centrală electrică: 300 MW", "Investiție: 3,5 miliarde USD", "Angajați: 15.000"],
+      en: ["Area: 1,000 hectares", "Established: 2014", "Aluminum capacity: 1 million tonnes per year", "Power plant capacity: 300 MW", "Investment: 3.5 billion USD", "Employees: 15,000"],
+    },
   },
   {
     id: "indonesia-maloy-batuta-sez-economic-v2",
     type: "industry",
     name: { de: "Maloy Batuta Trans Kalimantan SEZ", hu: "Maloy Batuta Trans Kalimantan övezet", ro: "ZES Maloy Batuta Trans Kalimantan", en: "Maloy Batuta Trans Kalimantan SEZ" },
-    coordinates: { lat: 0.8752, lng: 117.9851 },
+    coords: [117.9851, 0.8752],
     description: {
       de: "Ein strategisches Industrie- und Hafenzentrum in Ost-Kalimantan, das den Export von Palmöl und Kohle optimiert.",
       hu: "Stratégiai ipari és kikötői központ Kelet-Kalimantánban a pálmaolaj- és szénexport optimalizálására.",
@@ -1045,6 +1237,18 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
       en: ["Located on the Makassar Strait", "Integrated industrial port", "Oleochemical industry hub", "Part of Trans-Kalimantan network"],
     },
     imageHint: "Maloy Batuta industrial port development East Kalimantan",
+    descriptionAdvanced: {
+      de: "Die Maloy Batuta Trans Kalimantan Special Economic Zone (SEZ) liegt in der Provinz Ostkalimantan auf der Insel Borneo. Sie wurde 2018 gegründet und ist auf die Verarbeitung von Palmöl, Gummi und anderen Agrarpflanzen spezialisiert. Die SEZ verfügt über einen Hafen zur Ausfuhr von verarbeiteten Produkten. Ziel ist es, die Industrialisierung in Ostkalimantan zu fördern und die Abhängigkeit von Rohstoffexporten zu verringern. Die Zone bietet Steueranreize und ist Teil der nationalen Strategie zur wirtschaftlichen Entwicklung Kalimantans. Infrastrukturprojekte umfassen Straßen und Häfen.",
+      hu: "A Maloy Batuta Trans Kalimantan Különleges Gazdasági Övezet (SEZ) Kelet-Kalimantan tartományban, Borneó szigetén található. 2018-ban hozták létre, és a pálmaolaj, gumi és más mezőgazdasági növények feldolgozására specializálódott. Az övezet rendelkezik kikötővel a feldolgozott termékek exportjához. Célja Kelet-Kalimantan iparosításának előmozdítása és a nyersanyagexporttól való függőség csökkentése. Adókedvezményeket kínál, és része a nemzeti kalimantani gazdaságfejlesztési stratégiának. Infrastrukturális projektek közé tartoznak utak és kikötők.",
+      ro: "Zona Economică Specială (SEZ) Maloy Batuta Trans Kalimantan este situată în provincia Kalimantanul de Est, pe insula Borneo. A fost înființată în 2018 și este specializată în prelucrarea uleiului de palmier, a cauciucului și a altor culturi agricole. SEZ dispune de un port pentru exportul produselor prelucrate. Scopul este de a promova industrializarea în Kalimantanul de Est și de a reduce dependența de exporturile de materii prime. Zona oferă stimulente fiscale și face parte din strategia națională de dezvoltare economică a Kalimantanului. Proiectele de infrastructură includ drumuri și porturi.",
+      en: "Maloy Batuta Trans Kalimantan Special Economic Zone (SEZ) is located in East Kalimantan province, Borneo Island. It was established in 2018 and specializes in processing palm oil, rubber, and other agricultural crops. The SEZ has a port for exporting processed products. The goal is to promote industrialization in East Kalimantan and reduce dependence on raw material exports. The zone offers tax incentives and is part of the national strategy for Kalimantan's economic development. Infrastructure projects include roads and ports.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.500 Hektar", "Gründungsjahr: 2018", "Palmölkapazität: 500.000 Tonnen pro Jahr", "Hafentiefe: 12 m", "Investitionsvolumen: 1,5 Mrd. USD", "Beschäftigte: 8.000"],
+      hu: ["Terület: 1.500 hektár", "Alapítás éve: 2018", "Pálmaolaj kapacitás: évi 500.000 tonna", "Kikötő mélysége: 12 m", "Befektetés: 1,5 milliárd USD", "Foglalkoztatottak: 8.000"],
+      ro: ["Suprafață: 1.500 de hectare", "Anul înființării: 2018", "Capacitate ulei de palmier: 500.000 de tone pe an", "Adâncimea portului: 12 m", "Investiție: 1,5 miliarde USD", "Angajați: 8.000"],
+      en: ["Area: 1,500 hectares", "Established: 2018", "Palm oil capacity: 500,000 tonnes per year", "Port depth: 12 m", "Investment: 1.5 billion USD", "Employees: 8,000"],
+    },
   }
 ];
 

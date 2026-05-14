@@ -546,7 +546,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     id: "srilanka-st-clairs-falls-nature-v2",
     type: "landmark",
     name: { de: "St. Clair's Falls", hu: "St. Clair-vízesés", ro: "Cascada St. Clair", en: "St. Clair's Falls" },
-    coordinates: { lat: 6.9405, lng: 80.6322 },
+    coords: [80.6322, 6.9405],
     description: {
       de: "Die St. Clair's Falls sind ein breiter Wasserfall im Distrikt Nuwara Eliya. Er besteht aus zwei Stufen und ist von Teekulturen umgeben.",
       hu: "A St. Clair-vízesés egy széles vízesés Nuwara Eliya körzetében. Két lépcsőből áll, és kiterjedt teakertek veszik körül a hegyvidéken.",
@@ -565,7 +565,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     id: "srilanka-delft-island-nature-v2",
     type: "wildlife",
     name: { de: "Delft Island", hu: "Delft-sziget", ro: "Insula Delft", en: "Delft Island" },
-    coordinates: { lat: 9.518, lng: 79.693 },
+    coords: [79.693, 9.518],
     description: {
       de: "Delft Island ist eine Koralleninsel in der Palkstraße nördlich von Sri Lanka. Sie ist bekannt für ihre wilden Ponys und Korallensteinmauern.",
       hu: "Delft-sziget egy korallsziget a Palk-szorosban, Sri Lanka északi részén. Vadon élő pónijairól és korallkőből emelt kerítéseiről nevezetes.",

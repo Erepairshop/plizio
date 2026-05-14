@@ -1061,7 +1061,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-tlatelolco-history-v2",
     type: "ruins",
     name: { de: "Tlatelolco", hu: "Tlatelolco", ro: "Tlatelolco", en: "Tlatelolco" },
-    coordinates: { lat: 19.4503, lng: -99.1386 },
+    coords: [-99.1386, 19.4503],
     description: {
       de: "Tlatelolco war ein bedeutendes Handelszentrum und die letzte Festung der Azteken gegen die Spanier. Heute bewahrt die Stätte aztekische Ruinen und ein kolonialzeitliches Kloster.",
       hu: "Tlatelolco jelentős kereskedelmi központ volt, az utolsó azték erődítmény a spanyolok ellen. A helyszín ma azték romokat és egy koloniális kolostort őriz.",
@@ -1080,7 +1080,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-tamuin-history-v2",
     type: "ruins",
     name: { de: "Tamuín", hu: "Tamuín", ro: "Tamuín", en: "Tamuín" },
-    coordinates: { lat: 22.0158, lng: -98.7844 },
+    coords: [-98.7844, 22.0158],
     description: {
       de: "Tamuín ist eine bedeutende huastekische archäologische Stätte. Sie umfasst zeremonielle Plattformen und Gebäude aus der Zeit der Huasteken-Kultur.",
       hu: "Tamuín egy jelentős huastek régészeti lelőhely. Szertartási platformokat és épületeket tartalmaz a huastek kultúra idejéből.",
@@ -1099,7 +1099,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-castillo-de-chapultepec-history-v2",
     type: "palace",
     name: { de: "Chapultepec Schloss", hu: "Chapultepec-kastély", ro: "Castelul Chapultepec", en: "Chapultepec Palace" },
-    coordinates: { lat: 19.4203, lng: -99.1819 },
+    coords: [-99.1819, 19.4203],
     description: {
       de: "Dieses Schloss auf dem Chapultepec-Hügel war einst die Residenz von Kaiser Maximilian I. Es beherbergt heute das Nationalmuseum für Geschichte.",
       hu: "Ez a kastély a Chapultepec-dombon egykor I. Miksa császár rezidenciája volt. Ma a Nemzeti Történeti Múzeumnak ad otthont.",
@@ -1118,7 +1118,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-malinalco-history-v2",
     type: "ruins",
     name: { de: "Malinalco", hu: "Malinalco", ro: "Malinalco", en: "Malinalco" },
-    coordinates: { lat: 18.9483, lng: -99.5028 },
+    coords: [-99.5028, 18.9483],
     description: {
       de: "Malinalco ist berühmt für seinen in den Fels gehauenen aztekischen Tempelkomplex. Er diente zur Ausbildung der Adler- und Jaguarkrieger.",
       hu: "Malinalco híres a sziklába vájt azték templomkomplexumáról. A sas- és jaguárharcosok kiképzésére szolgált.",
@@ -1137,7 +1137,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-fuerte-san-juan-de-ulua-history-v2",
     type: "monument",
     name: { de: "San Juan de Ulúa", hu: "San Juan de Ulúa", ro: "San Juan de Ulúa", en: "San Juan de Ulúa" },
-    coordinates: { lat: 19.2045, lng: -96.1281 },
+    coords: [-96.1281, 19.2045],
     description: {
       de: "Diese Festung diente über Jahrhunderte der Verteidigung des Hafens von Veracruz. Sie fungierte auch als berüchtigtes Gefängnis während der Kolonialzeit.",
       hu: "Ez az erőd évszázadokon át szolgálta Veracruz kikötőjének védelmét. A gyarmati időszakban hírhedt börtönként is funkcionált.",
@@ -1156,7 +1156,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-calixtlahuaca-history-v2",
     type: "ruins",
     name: { de: "Calixtlahuaca", hu: "Calixtlahuaca", ro: "Calixtlahuaca", en: "Calixtlahuaca" },
-    coordinates: { lat: 19.3139, lng: -99.7194 },
+    coords: [-99.7194, 19.3139],
     description: {
       de: "Calixtlahuaca war eine bedeutende Siedlung der Matlatzinca-Kultur. Bekannt ist sie für ihre ungewöhnliche zylindrische Pyramide.",
       hu: "Calixtlahuaca a matlatzinca kultúra jelentős települése volt. Szokatlan, hengeres piramisáról ismert.",
@@ -1175,7 +1175,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-fuerte-san-felipe-bacalar-history-v2",
     type: "monument",
     name: { de: "Fuerte de San Felipe", hu: "Fuerte de San Felipe", ro: "Fuerte de San Felipe", en: "Fuerte de San Felipe" },
-    coordinates: { lat: 18.6756, lng: -88.3908 },
+    coords: [-88.3908, 18.6756],
     description: {
       de: "Dieses Fort in Bacalar wurde zum Schutz gegen Piratenangriffe aus der Karibik errichtet. Es beherbergt heute ein regionales Geschichtsmuseum.",
       hu: "Ez az erőd Bacalarban a karibi kalóztámadások elleni védelemre épült. Ma regionális történeti múzeumnak ad otthont.",
@@ -1194,7 +1194,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-la-quemada-history-v2",
     type: "ruins",
     name: { de: "La Quemada", hu: "La Quemada", ro: "La Quemada", en: "La Quemada" },
-    coordinates: { lat: 22.4556, lng: -102.8108 },
+    coords: [-102.8108, 22.4556],
     description: {
       de: "La Quemada ist eine riesige archäologische Stätte in Zacatecas. Sie besteht aus befestigten Strukturen auf einem Hügel mit ungewöhnlicher Architektur.",
       hu: "La Quemada egy hatalmas régészeti lelőhely Zacatecasban. Dombon elhelyezkedő erődített szerkezetekből áll, szokatlan építészettel.",
@@ -1213,7 +1213,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-cantona-history-v2",
     type: "ruins",
     name: { de: "Cantona", hu: "Cantona", ro: "Cantona", en: "Cantona" },
-    coordinates: { lat: 19.5583, lng: -97.4811 },
+    coords: [-97.4811, 19.5583],
     description: {
       de: "Cantona war eine große, befestigte Stadt im mexikanischen Hochland. Sie ist für ihre zahlreichen Ballspielplätze bekannt.",
       hu: "Cantona egy nagy, erődített város volt a mexikói felföldön. Számos labdajátékteréről ismert.",
@@ -1232,7 +1232,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-ex-convento-de-san-gabriel-history-v2",
     type: "church",
     name: { de: "Ex-Convento de San Gabriel", hu: "Ex-Convento de San Gabriel", ro: "Ex-Convento de San Gabriel", en: "Ex-Convento de San Gabriel" },
-    coordinates: { lat: 19.0625, lng: -98.4111 },
+    coords: [-98.4111, 19.0625],
     description: {
       de: "Dieses ehemalige Franziskanerkloster in Cholula ist ein wichtiges religiöses Denkmal aus dem 16. Jahrhundert. Es ist für seine Kapellen bekannt.",
       hu: "Ez az egykori ferences kolostor Cholulában egy fontos vallási emlék a 16. századból. Kápolnáiról ismert.",
@@ -1251,7 +1251,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-paquime-v2-history-v2",
     type: "ruins",
     name: { de: "Paquimé (Ergänzung)", hu: "Paquimé (kiegészítés)", ro: "Paquimé (supliment)", en: "Paquimé (addition)" },
-    coordinates: { lat: 30.3703, lng: -107.9256 },
+    coords: [-107.9256, 30.3703],
     description: {
       de: "Dieses archäologische Gebiet ist ein herausragendes Beispiel für die adobe-basierte Architektur im Norden Mexikos. Es zeugt von komplexen sozialen Strukturen.",
       hu: "Ez a régészeti terület kiemelkedő példája az észak-mexikói agyagtégla építészetnek. Összetett társadalmi struktúrákról tanúskodik.",
@@ -1270,7 +1270,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-cuicuilco-history-v2",
     type: "ruins",
     name: { de: "Cuicuilco", hu: "Cuicuilco", ro: "Cuicuilco", en: "Cuicuilco" },
-    coordinates: { lat: 19.3039, lng: -99.1814 },
+    coords: [-99.1814, 19.3039],
     description: {
       de: "Cuicuilco ist eine präkolumbische Stätte in Mexiko-Stadt, die durch einen Vulkanausbruch teilweise zerstört wurde. Sie ist bekannt für ihre runde Pyramide.",
       hu: "Cuicuilco egy prekolumbiánus helyszín Mexikóvárosban, amelyet részben elpusztított egy vulkánkitörés. Kerek piramisáról ismert.",
@@ -1289,7 +1289,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-museo-nacional-del-virreinato-history-v2",
     type: "museum",
     name: { de: "Museo Nacional del Virreinato", hu: "Museo Nacional del Virreinato", ro: "Museo Nacional del Virreinato", en: "Museo Nacional del Virreinato" },
-    coordinates: { lat: 19.7319, lng: -99.2317 },
+    coords: [-99.2317, 19.7319],
     description: {
       de: "Das Museum befindet sich in einem ehemaligen Jesuitenkloster in Tepotzotlán. Es beherbergt eine bedeutende Sammlung zur Kolonialzeit in Neuspanien.",
       hu: "A múzeum egy volt jezsuita kolostorban található Tepotzotlánban. Jelentős gyűjteményt őriz Új-Spanyolország gyarmati koráról.",
@@ -1308,7 +1308,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-tizatlan-history-v2",
     type: "ruins",
     name: { de: "Tizatlán", hu: "Tizatlán", ro: "Tizatlán", en: "Tizatlán" },
-    coordinates: { lat: 19.3364, lng: -98.2258 },
+    coords: [-98.2258, 19.3364],
     description: {
       de: "Tizatlán war eine wichtige Tlaxcalteken-Stadt. Die Stätte ist berühmt für ihre gut erhaltenen polychromen Wandmalereien auf Altären.",
       hu: "Tizatlán fontos tlaxcaltek város volt. A helyszín híres a jól megőrzött, oltárokon lévő polikróm falfestményeiről.",
@@ -1327,7 +1327,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-fuerte-loreto-puebla-v2-history-v2",
     type: "monument",
     name: { de: "Fuerte Loreto (Ergänzung)", hu: "Fuerte Loreto (kiegészítés)", ro: "Fuerte Loreto (supliment)", en: "Fuerte Loreto (addition)" },
-    coordinates: { lat: 19.0567, lng: -98.1822 },
+    coords: [-98.1822, 19.0567],
     description: {
       de: "Diese Festung in Puebla spielte eine Schlüsselrolle in der Schlacht vom 5. Mai 1862 gegen die französischen Invasoren.",
       hu: "Ez az erőd Pueblában kulcsszerepet játszott az 1862. május 5-i csatában a francia megszállók ellen.",
@@ -1346,7 +1346,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-tzintzuntzan-history-v2",
     type: "ruins",
     name: { de: "Tzintzuntzan", hu: "Tzintzuntzan", ro: "Tzintzuntzan", en: "Tzintzuntzan" },
-    coordinates: { lat: 19.6264, lng: -101.5794 },
+    coords: [-101.5794, 19.6264],
     description: {
       de: "Tzintzuntzan war die Hauptstadt des Tarasken-Reiches. Sie ist für ihre 'Yácatas' bekannt, einzigartige terrassierte Tempelstrukturen.",
       hu: "Tzintzuntzan a taraszk birodalom fővárosa volt. 'Yácatas'-airól ismert, amelyek egyedi teraszos templomszerkezetek.",
@@ -1365,7 +1365,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-tonina-history-v2",
     type: "ruins",
     name: { de: "Toniná", hu: "Toniná", ro: "Toniná", en: "Toniná" },
-    coordinates: { lat: 16.8978, lng: -92.0089 },
+    coords: [-92.0089, 16.8978],
     description: {
       de: "Toniná ist eine monumentale Maya-Stadt in Chiapas. Sie zeichnet sich durch ihre extrem steilen und hohen Stufenpyramiden aus.",
       hu: "Toniná monumentális maja város Chiapasban. Rendkívül meredek és magas lépcsőzetes piramisairól ismert.",
@@ -1384,7 +1384,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-iglesia-de-santa-maria-tonantzintla-history-v2",
     type: "church",
     name: { de: "Santa María Tonantzintla", hu: "Santa María Tonantzintla", ro: "Santa María Tonantzintla", en: "Santa María Tonantzintla" },
-    coordinates: { lat: 19.0347, lng: -98.3075 },
+    coords: [-98.3075, 19.0347],
     description: {
       de: "Diese Kirche ist ein Meisterwerk der indigenen Barockkunst in Mexiko. Ihr Innenraum ist dicht mit komplexen Stuckfiguren verziert.",
       hu: "Ez a templom az őslakos barokk művészet remekműve Mexikóban. Belseje sűrűn díszített bonyolult stukkófigurákkal.",
@@ -1403,7 +1403,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "mexico-zona-arqueologica-tenayuca-history-v2",
     type: "ruins",
     name: { de: "Tenayuca", hu: "Tenayuca", ro: "Tenayuca", en: "Tenayuca" },
-    coordinates: { lat: 19.5333, lng: -99.1467 },
+    coords: [-99.1467, 19.5333],
     description: {
       de: "Tenayuca war ein frühes Zentrum der Chichimeken. Die Stätte ist berühmt für ihre doppelt gewölbte Hauptpyramide.",
       hu: "Tenayuca a chichimekek korai központja volt. A helyszín híres a kettős boltíves főpiramisáról.",

@@ -710,7 +710,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-sar-e-sang-economic-v2",
     type: "mine",
     name: { de: "Sar-e-Sang Lapislazuli-Mine", hu: "Sar-e-Sang lapiszlazuli-bánya", ro: "Mina de lapis lazuli Sar-e-Sang", en: "Sar-e-Sang Lapis Lazuli Mine" },
-    coordinates: { lat: 36.2144, lng: 70.7525 },
+    coords: [70.7525, 36.2144],
     description: {
       de: "Diese Mine in Badakhshan ist seit über 6.000 Jahren die weltweit wichtigste Quelle für hochwertigen Lapislazuli.",
       hu: "Ez a Badahsán tartományban található bánya több mint 6000 éve a világ legfontosabb minőségi lapiszlazuli-forrása.",
@@ -741,7 +741,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-kod-e-barq-economic-v2",
     type: "factory",
     name: { de: "Kod-e-Barq Düngemittelwerk", hu: "Kod-e-Barq műtrágyagyár", ro: "Fabrica de îngrășăminte Kod-e-Barq", en: "Kod-e-Barq Fertilizer Plant" },
-    coordinates: { lat: 36.6667, lng: 66.8833 },
+    coords: [66.8833, 36.6667],
     description: {
       de: "Die einzige Anlage Afghanistans zur Herstellung von Harnstoff-Düngemitteln nutzt Erdgas aus den nördlichen Feldern zur Produktion.",
       hu: "Afganisztán egyetlen karbamid-műtrágyát előállító üzeme, amely az északi mezők földgázát használja a termeléshez.",
@@ -772,7 +772,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-pul-e-charkhi-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Pul-e-Charkhi", hu: "Puli-Charkhi ipari terület", ro: "Zona industrială Pul-e-Charkhi", en: "Pul-e-Charkhi Industrial Area" },
-    coordinates: { lat: 34.545, lng: 69.348 },
+    coords: [69.348, 34.545],
     description: {
       de: "Dies ist das größte Industriezentrum in Kabul, in dem zahlreiche Fabriken für Konsumgüter und Baumaterialien angesiedelt sind.",
       hu: "Ez Kabul legnagyobb ipari központja, ahol számos fogyasztási cikket és építőanyagot gyártó üzem található.",
@@ -803,7 +803,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-shorandam-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Shorandam", hu: "Shorandam ipari park", ro: "Parcul industrial Shorandam", en: "Shorandam Industrial Park" },
-    coordinates: { lat: 31.565, lng: 65.815 },
+    coords: [65.815, 31.565],
     description: {
       de: "Ein moderner Industriekomplex in Kandahar, der auf die Verarbeitung landwirtschaftlicher Produkte und den Export spezialisiert ist.",
       hu: "Modern ipari komplexum Kandahárban, amely mezőgazdasági termékek feldolgozására és exportjára szakosodott.",
@@ -834,7 +834,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-sarobi-dam-economic-v2",
     type: "industry",
     name: { de: "Sarobi-Talsperre", hu: "Sarobi-gát", ro: "Barajul Sarobi", en: "Sarobi Dam" },
-    coordinates: { lat: 34.591, lng: 69.756 },
+    coords: [69.756, 34.591],
     description: {
       de: "Dieses am Zusammenfluss von Kabul- und Pandschschir-Fluss gelegene Kraftwerk ist eine der ältesten Wasserkraftanlagen des Landes.",
       hu: "A Kabul- és a Pandzsír-folyók találkozásánál fekvő erőmű az ország egyik legrégebbi vízerőműve.",
@@ -865,7 +865,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-mahipar-dam-economic-v2",
     type: "industry",
     name: { de: "Mahipar-Wasserkraftwerk", hu: "Mahipar vízerőmű", ro: "Hidrocentrala Mahipar", en: "Mahipar Hydropower Plant" },
-    coordinates: { lat: 34.532, lng: 69.495 },
+    coords: [69.495, 34.532],
     description: {
       de: "Ein bedeutendes Wasserkraftwerk am Kabul-Fluss, das den großen Höhenunterschied in der Mahipar-Schlucht zur Energiegewinnung nutzt.",
       hu: "Jelentős vízerőmű a Kabul-folyón, amely a Mahipar-szoros nagy szintkülönbségét használja ki az energiatermeléshez.",
@@ -896,7 +896,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-angot-oil-field-economic-v2",
     type: "mine",
     name: { de: "Angot Erdölfeld", hu: "Angot olajmező", ro: "Câmpul petrolifer Angot", en: "Angot Oil Field" },
-    coordinates: { lat: 36.142, lng: 66.245 },
+    coords: [66.245, 36.142],
     description: {
       de: "Eines der ersten entdeckten Erdölfelder Afghanistans in der Provinz Sar-e Pol, das das Potenzial der heimischen Energieressourcen zeigt.",
       hu: "Afganisztán egyik elsőként felfedezett olajmezője Sar-e Pol tartományban, amely a hazai energiaforrások potenciálját jelzi.",
@@ -927,7 +927,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-dahaneh-ghori-coal-economic-v2",
     type: "mine",
     name: { de: "Dahaneh-ye Ghori Kohleminen", hu: "Dahaneh-ye Ghori szénbányák", ro: "Minele de cărbune Dahaneh-ye Ghori", en: "Dahaneh-ye Ghori Coal Mines" },
-    coordinates: { lat: 35.918, lng: 68.482 },
+    coords: [68.482, 35.918],
     description: {
       de: "Diese Minen in der Provinz Baghlan sind die Hauptquelle für Industriekohle, die vor allem in der Zementherstellung verwendet wird.",
       hu: "Ezek a Baglán tartománybeli bányák az ipari szén fő forrásai, amelyet elsősorban a cementgyártásban használnak.",
@@ -958,7 +958,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-panjshir-emerald-mines-economic-v2",
     type: "mine",
     name: { de: "Pandschschir-Smaragdminen", hu: "Pandzsír-völgyi smaragdbányák", ro: "Minele de smarald din Panjshir", en: "Panjshir Emerald Mines" },
-    coordinates: { lat: 35.425, lng: 70.021 },
+    coords: [70.021, 35.425],
     description: {
       de: "Die im Hochgebirge des Pandschschir-Tals gelegenen Minen produzieren Smaragde, die qualitativ mit kolumbianischen Steinen vergleichbar sind.",
       hu: "A Pandzsír-völgy magashegyi bányái olyan smaragdot termelnek, amely minőségében a kolumbiai kövekkel vetekszik.",
@@ -989,7 +989,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-abu-nasir-farahi-economic-v2",
     type: "port",
     name: { de: "Abu-Nasir-Farahi Grenzübergang", hu: "Abu Nasir Farahi határátkelő", ro: "Punctul de trecere Abu Nasir Farahi", en: "Abu Nasir Farahi Border Crossing" },
-    coordinates: { lat: 32.222, lng: 60.525 },
+    coords: [60.525, 32.222],
     description: {
       de: "Ein wichtiger Handels- und Transitpunkt an der Grenze zum Iran in der Provinz Farah, über den Treibstoff und Waren importiert werden.",
       hu: "Fontos kereskedelmi és tranzitpont az iráni határon, Farah tartományban, ahol üzemanyagot és árukat importálnak.",
@@ -1020,7 +1020,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-ishkashim-economic-v2",
     type: "port",
     name: { de: "Grenzübergang Ischkaschim", hu: "Iskasim határátkelő", ro: "Punctul de trecere Ishkashim", en: "Ishkashim Border Crossing" },
-    coordinates: { lat: 36.721, lng: 71.555 },
+    coords: [71.555, 36.721],
     description: {
       de: "Ein Grenzübergang zwischen Afghanistan und Tadschikistan im Wakhan-Korridor, bekannt für seinen grenzüberschreitenden Markt.",
       hu: "Határátkelő Afganisztán és Tádzsikisztán között a Vahán-folyosóban, amely a határon átnyúló piacáról ismert.",
@@ -1051,7 +1051,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-gulbahar-textile-economic-v2",
     type: "factory",
     name: { de: "Textilfabrik Gulbahar", hu: "Gulbahar textilgyár", ro: "Fabrica de textile Gulbahar", en: "Gulbahar Textile Factory" },
-    coordinates: { lat: 35.138, lng: 69.232 },
+    coords: [69.232, 35.138],
     description: {
       de: "Einst das größte Textilwerk Zentralasiens, steht diese Anlage in der Provinz Kapisa symbolisch für die afghanische Industriegeschichte.",
       hu: "Egykor Közép-Ázsia legnagyobb textilüzeme volt, ez a Kapisza tartománybeli gyár az afgán ipartörténet szimbóluma.",
@@ -1082,7 +1082,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-andkhoy-salt-mine-economic-v2",
     type: "mine",
     name: { de: "Salzmine von Andkhoy", hu: "Andkhoy sósbánya", ro: "Mina de sare Andkhoy", en: "Andkhoy Salt Mine" },
-    coordinates: { lat: 36.965, lng: 64.915 },
+    coords: [64.915, 36.965],
     description: {
       de: "Ein bedeutendes Abbaugebiet für Steinsalz in der Provinz Faryab, das weite Teile Nordafghanistans mit Speisesalz versorgt.",
       hu: "Jelentős kősólelőhely Faryab tartományban, amely Észak-Afganisztán nagy részét ellátja konyhasóval.",
@@ -1113,7 +1113,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-sabzak-coal-mine-economic-v2",
     type: "mine",
     name: { de: "Sabzak Kohlemine", hu: "Sabzak szénbánya", ro: "Mina de cărbune Sabzak", en: "Sabzak Coal Mine" },
-    coordinates: { lat: 34.635, lng: 63.125 },
+    coords: [63.125, 34.635],
     description: {
       de: "Diese Mine am Sabzak-Pass ist die wichtigste Energiequelle für die Industrie und die Haushalte in der Region Herat.",
       hu: "Ez a Sabzak-hágónál található bánya Herat régió iparának és háztartásainak legfontosabb energiaforrása.",
@@ -1144,7 +1144,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-qashqari-oil-economic-v2",
     type: "mine",
     name: { de: "Qashqari Erdölfeld", hu: "Qashqari olajmező", ro: "Câmpul petrolifer Qashqari", en: "Qashqari Oil Field" },
-    coordinates: { lat: 36.185, lng: 66.152 },
+    coords: [66.152, 36.185],
     description: {
       de: "Ein neu erschlossenes Erdölfeld in der Provinz Sar-e Pol, das ein zentraler Bestandteil der afghanischen Strategie zur Energieunabhängigkeit ist.",
       hu: "Újonnan feltárt olajmező Sar-e Pol tartományban, amely az afgán energiafüggetlenségi stratégia központi eleme.",
@@ -1175,7 +1175,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-koshk-e-kohna-economic-v2",
     type: "mine",
     name: { de: "Koshk-e Kohna Kohlemine", hu: "Koshk-e Kohna szénbánya", ro: "Mina de cărbune Koshk-e Kohna", en: "Koshk-e Kohna Coal Mine" },
-    coordinates: { lat: 34.785, lng: 62.532 },
+    coords: [62.532, 34.785],
     description: {
       de: "Eine bedeutende Kohlemine im Norden der Provinz Herat, die die lokale Industrie mit kostengünstigem Brennstoff versorgt.",
       hu: "Jelentős szénbánya Herat tartomány északi részén, amely olcsó fűtőanyaggal látja el a helyi ipart.",
@@ -1206,7 +1206,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     id: "afghanistan-ghani-khel-market-economic-v2",
     type: "landmark",
     name: { de: "Ghani-Khel Agrarmarkt", hu: "Ghani Khel mezőgazdasági piac", ro: "Piața agricolă Ghani Khel", en: "Ghani Khel Agricultural Market" },
-    coordinates: { lat: 34.185, lng: 70.782 },
+    coords: [70.782, 34.185],
     description: {
       de: "Einer der größten landwirtschaftlichen Handelsplätze in Ost-Afghanistan, spezialisiert auf den Export von Zitrusfrüchten und Gemüse.",
       hu: "Kelet-Afganisztán egyik legnagyobb mezőgazdasági kereskedelmi központja, amely citrusfélék és zöldségek exportjára szakosodott.",

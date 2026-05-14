@@ -546,7 +546,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-presidential-palace-landmarks-v2",
     type: "palace",
     name: { de: "Nicolau-Lobato-Präsidentenpalast", hu: "Nicolau Lobato Elnöki Palota", ro: "Palatul Prezidențial Nicolau Lobato", en: "Nicolau Lobato Presidential Palace" },
-    coordinates: { lat: -8.5514, lng: 125.5615 },
+    coords: [125.5615, -8.5514],
     description: {
       de: "Der Amtssitz des Präsidenten von Timor-Leste wurde 2009 eröffnet. Das moderne Gebäude ist ein markantes Symbol der nationalen Souveränität.",
       hu: "Kelet-Timor elnökének hivatalos rezidenciája, melyet 2009-ben adtak át. A modern épület az ország függetlenségének egyik legfontosabb jelképe.",
@@ -565,7 +565,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-national-parliament-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalparlament von Timor-Leste", hu: "Kelet-timori Nemzeti Parlament", ro: "Parlamentul Național din Timorul de Est", en: "National Parliament of Timor-Leste" },
-    coordinates: { lat: -8.5544, lng: 125.5786 },
+    coords: [125.5786, -8.5544],
     description: {
       de: "Das Parlamentsgebäude in Dili beherbergt die gesetzgebende Versammlung des Landes. Es befindet sich in einem historisch renovierten Komplex.",
       hu: "A dili parlamenti épület a törvényhozó hatalom székhelye. Az épületegyüttes egy történelmi jelentőségű, felújított komplexumban található.",
@@ -584,7 +584,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-kuan-yin-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Kuan-Yin-Tempel Dili", hu: "Kuan Yin templom Dili", ro: "Templul Kuan Yin din Dili", en: "Kuan Yin Temple Dili" },
-    coordinates: { lat: -8.5523, lng: 125.5891 },
+    coords: [125.5891, -8.5523],
     description: {
       de: "Dieser farbenfrohe chinesische Tempel in Dili ist der Göttin der Barmherzigkeit gewidmet. Er ist ein Zentrum für die lokale chinesische Gemeinde.",
       hu: "Ez a színes kínai templom Dili városában az irgalmasság istennőjének szentelt hely. A helyi kínai közösség fontos vallási központja.",
@@ -603,7 +603,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-ai-pelo-prison-landmarks-v2",
     type: "ruins",
     name: { de: "Gefängnisruinen von Ai Pelo", hu: "Ai Pelo börtönromok", ro: "Ruinele închisorii Ai Pelo", en: "Ai Pelo Prison Ruins" },
-    coordinates: { lat: -8.5831, lng: 125.3347 },
+    coords: [125.3347, -8.5831],
     description: {
       de: "Die Überreste eines portugiesischen Kolonialgefängnisses direkt am Meer. Es diente zur Inhaftierung politischer Gefangener und Krimineller.",
       hu: "Egy közvetlenül a tengerparton álló portugál gyarmati börtön romjai. Politikai foglyok és bűnözők fogvatartására használták.",
@@ -622,7 +622,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-nicolau-lobato-airport-landmarks-v2",
     type: "landmark",
     name: { de: "Flughafen Presidente Nicolau Lobato", hu: "Presidente Nicolau Lobato repülőtér", ro: "Aeroportul Internațional Nicolau Lobato", en: "President Nicolau Lobato International Airport" },
-    coordinates: { lat: -8.5476, lng: 125.5264 },
+    coords: [125.5264, -8.5476],
     description: {
       de: "Der wichtigste internationale Flughafen von Timor-Leste liegt westlich von Dili. Er ist nach einem Nationalhelden des Unabhängigkeitskampfes benannt.",
       hu: "Kelet-Timor fő nemzetközi repülőtere Dilitől nyugatra. A függetlenségi harc egyik nemzeti hőséről nevezték el.",
@@ -641,7 +641,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-comoro-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "CPLP-Brücke (Comoro-Brücke)", hu: "CPLP híd (Comoro híd)", ro: "Podul CPLP (Podul Comoro)", en: "CPLP Bridge (Comoro Bridge)" },
-    coordinates: { lat: -8.5484, lng: 125.5412 },
+    coords: [125.5412, -8.5484],
     description: {
       de: "Eine moderne Schrägseilbrücke in Dili, die den Fluss Comoro überquert. Sie verbindet das Stadtzentrum mit dem Flughafen und dem Hafen von Tibar.",
       hu: "Modern ferdekábeles híd Dili városában a Comoro-folyó felett. Összeköti a városközpontot a repülőtérrel és a Tibar-kikötővel.",
@@ -660,7 +660,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-pante-macassar-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Antonius Pante Macassar", hu: "Pante Macassar Szent Antal templom", ro: "Biserica Sfântul Anton din Pante Macassar", en: "Church of Saint Anthony Pante Macassar" },
-    coordinates: { lat: -9.2015, lng: 124.3682 },
+    coords: [124.3682, -9.2015],
     description: {
       de: "Die Hauptkirche der Enklave Oecusse ist ein zentrales religiöses Wahrzeichen. Sie steht im Zentrum von Pante Macassar nahe der Küste.",
       hu: "Az Oecusse exklávé főtemploma és központi vallási jelképe. Pante Macassar központjában, a tengerpart közelében található.",
@@ -679,7 +679,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-quelicai-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Quelicai", hu: "Quelicai templom", ro: "Biserica din Quelicai", en: "Quelicai Church" },
-    coordinates: { lat: -8.6012, lng: 126.5591 },
+    coords: [126.5591, -8.6012],
     description: {
       de: "Eine beeindruckende katholische Kirche im Hochland von Baucau. Sie ist bekannt für ihre Architektur und die Lage inmitten steiler Berge.",
       hu: "Lenyűgöző katolikus templom Baucau felföldjein. Építészetéről és a meredek hegyek közötti elhelyezkedéséről ismert.",
@@ -698,7 +698,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-fatumaca-mission-landmarks-v2",
     type: "landmark",
     name: { de: "Salesianer-Mission Fatumaca", hu: "Fatumaca szalézi misszió", ro: "Misiunea Saleziană din Fatumaca", en: "Fatumaca Salesian Mission" },
-    coordinates: { lat: -8.5912, lng: 126.3984 },
+    coords: [126.3984, -8.5912],
     description: {
       de: "Ein bedeutendes Bildungs- und Missionszentrum in der Nähe von Baucau. Die Anlage umfasst eine Landwirtschaftsschule und eine Kirche.",
       hu: "Jelentős oktatási és missziós központ Baucau közelében. A komplexum egy mezőgazdasági iskolát és egy templomot is magában foglal.",
@@ -717,7 +717,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-fuiloro-school-landmarks-v2",
     type: "landmark",
     name: { de: "Don-Bosco-Schule Fuiloro", hu: "Don Bosco iskola Fuiloro", ro: "Școala Don Bosco din Fuiloro", en: "Fuiloro Don Bosco School" },
-    coordinates: { lat: -8.5141, lng: 126.9852 },
+    coords: [126.9852, -8.5141],
     description: {
       de: "Diese Schule im Distrikt Lautém ist in einem imposanten Gebäude aus der portugiesischen Kolonialzeit untergebracht. Sie liegt auf einer Hochebene.",
       hu: "Ez a Lautém körzetben található iskola egy lenyűgöző portugál gyarmati épületben működik. A Fuiloro-fennsíkon helyezkedik el.",
@@ -736,7 +736,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-independence-monument-landmarks-v2",
     type: "monument",
     name: { de: "Unabhängigkeitsdenkmal Dili", hu: "Függetlenségi emlékmű Dili", ro: "Monumentul Independenței din Dili", en: "Independence Monument Dili" },
-    coordinates: { lat: -8.5532, lng: 125.5741 },
+    coords: [125.5741, -8.5532],
     description: {
       de: "Ein Denkmal im Zentrum von Dili, das an die Ausrufung der Unabhängigkeit erinnert. Es ist ein zentraler Treffpunkt bei nationalen Feierlichkeiten.",
       hu: "Dili központjában álló emlékmű, amely a függetlenség kikiáltására emlékeztet. Nemzeti ünnepek és megemlékezések központi helyszíne.",
@@ -755,7 +755,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-ermera-admin-building-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Verwaltungsgebäude Ermera", hu: "Ermera régi közigazgatási épülete", ro: "Vechea clădire administrativă din Ermera", en: "Ermera Old Administrative Building" },
-    coordinates: { lat: -8.7521, lng: 125.3972 },
+    coords: [125.3972, -8.7521],
     description: {
       de: "Ein klassisches Beispiel portugiesischer Kolonialarchitektur im Zentrum von Gleno. Es diente einst als lokaler Verwaltungssitz.",
       hu: "A portugál gyarmati építészet klasszikus példája Gleno központjában. Egykor helyi közigazgatási székhelyként szolgált.",
@@ -774,7 +774,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-lautem-megaliths-landmarks-v2",
     type: "ruins",
     name: { de: "Megalithanlagen von Lautém", hu: "Lautém megalitikus helyszínek", ro: "Situl megalitic din Lautém", en: "Lautém Megalithic Sites" },
-    coordinates: { lat: -8.3612, lng: 126.9014 },
+    coords: [126.9014, -8.3612],
     description: {
       de: "Alte Steingräber und megalithische Strukturen im Osten des Landes. Sie zeugen von der prähistorischen Besiedlung und animistischen Traditionen.",
       hu: "Ősi kősírok és megalitikus építmények az ország keleti felén. A történelem előtti idők és az animista hagyományok tanúi.",
@@ -793,7 +793,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-viqueque-old-market-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Markt von Viqueque", hu: "Viqueque régi piaca", ro: "Piața veche din Viqueque", en: "Viqueque Old Market" },
-    coordinates: { lat: -8.8541, lng: 126.3621 },
+    coords: [126.3621, -8.8541],
     description: {
       de: "Das alte Marktgebäude in Viqueque ist ein markanter Bau im Zentrum der Stadt. Er ist ein wichtiger Handelsplatz für lokale Erzeugnisse.",
       hu: "Viqueque régi piaci épülete a városközpont meghatározó építménye. A helyi termékek kereskedelmének fontos csomópontja.",
@@ -812,7 +812,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-suai-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Suai", hu: "Suai székesegyház", ro: "Catedrala din Suai", en: "Suai Cathedral" },
-    coordinates: { lat: -9.3132, lng: 125.2554 },
+    coords: [125.2554, -9.3132],
     description: {
       de: "Die Kathedrale Unserer Lieben Frau von Fatima ist ein wichtiges religiöses Denkmal. Sie ist auch als Ort der Erinnerung an den Unabhängigkeitskampf bekannt.",
       hu: "A Fatimai Miasszonyunk székesegyház fontos vallási emlékhely. A függetlenségi harcokra való emlékezés egyik helyszíneként is ismert.",
@@ -831,7 +831,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-maliana-old-market-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Markt von Maliana", hu: "Maliana régi piaca", ro: "Piața veche din Maliana", en: "Maliana Old Market" },
-    coordinates: { lat: -8.9912, lng: 125.2214 },
+    coords: [125.2214, -8.9912],
     description: {
       de: "Ein historisches Handelsgebäude im Zentrum von Maliana, nahe der indonesischen Grenze. Er ist bekannt für den Austausch regionaler Agrarprodukte.",
       hu: "Történelmi kereskedelmi épület Maliana központjában, az indonéz határ közelében. A regionális mezőgazdasági termékek cseréjéről ismert.",
@@ -850,7 +850,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-untl-building-landmarks-v2",
     type: "university",
     name: { de: "Hauptgebäude der UNTL", hu: "UNTL központi épület", ro: "Clădirea centrală UNTL", en: "UNTL Central Building" },
-    coordinates: { lat: -8.5571, lng: 125.5762 },
+    coords: [125.5762, -8.5571],
     description: {
       de: "Das Hauptgebäude der Nationalen Universität von Timor-Leste in Dili. Es ist ein zentrales Symbol für Bildung und nationale Entwicklung.",
       hu: "A Kelet-timori Nemzeti Egyetem (UNTL) főépülete Dili városában. Az oktatás és a nemzeti fejlődés központi szimbóluma.",
@@ -869,7 +869,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-ainaro-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Ainaro", hu: "Ainaro katolikus templom", ro: "Biserica catolică din Ainaro", en: "Ainaro Catholic Church" },
-    coordinates: { lat: -9.0521, lng: 125.5014 },
+    coords: [125.5014, -9.0521],
     description: {
       de: "Eine markante Kirche in der Bergstadt Ainaro. Sie zeichnet sich durch ihre Schieferverkleidung aus, die typisch für die Architektur der Region ist.",
       hu: "Meghatározó templom Ainaro hegyi városában. Pala burkolata jellemző a régió építészetére.",
@@ -888,7 +888,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-lospalos-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Lospalos", hu: "Lospalos katolikus templom", ro: "Biserica catolică din Lospalos", en: "Lospalos Catholic Church" },
-    coordinates: { lat: -8.5214, lng: 127.0012 },
+    coords: [127.0012, -8.5214],
     description: {
       de: "Die Hauptkirche von Lospalos im Osten des Landes. Die Architektur verbindet westliche sakrale Formen mit lokalen kulturellen Elementen.",
       hu: "Lospalos főtemploma az ország keleti részén. Az építészet a nyugati szakrális formákat ötvözi a helyi kulturális elemekkel.",
@@ -907,7 +907,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-manatuto-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Manatuto", hu: "Manatuto katolikus templom", ro: "Biserica catolică din Manatuto", en: "Manatuto Catholic Church" },
-    coordinates: { lat: -8.5112, lng: 126.0123 },
+    coords: [126.0123, -8.5112],
     description: {
       de: "Diese Kirche steht im Zentrum von Manatuto an der Nordküste. Sie ist dem Heiligen Antonius gewidmet und blickt auf eine lange Geschichte zurück.",
       hu: "Ez a templom Manatuto központjában található az északi parton. Szent Antalnak szentelték, és hosszú történelemre tekint vissza.",
@@ -926,7 +926,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-pousada-tutuala-landmarks-v2",
     type: "landmark",
     name: { de: "Pousada von Tutuala", hu: "Tutuala Pousada", ro: "Pousada din Tutuala", en: "Tutuala Pousada" },
-    coordinates: { lat: -8.3941, lng: 127.2542 },
+    coords: [127.2542, -8.3941],
     description: {
       de: "Ein historisches Gästehaus an der östlichsten Spitze von Timor. Das Gebäude im Kolonialstil bietet einen weiten Blick über das Meer bis zur Insel Jaco.",
       hu: "Történelmi vendégház Timor legkeletibb csücskében. A gyarmati stílusú épületből pazar kilátás nyílik a tengerre és a Jaco-szigetre.",
@@ -945,7 +945,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-dili-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Städtisches Stadion Dili", hu: "Dili Városi Stadion", ro: "Stadionul Municipal din Dili", en: "Dili Municipal Stadium" },
-    coordinates: { lat: -8.5582, lng: 125.5831 },
+    coords: [125.5831, -8.5582],
     description: {
       de: "Das größte Stadion des Landes und Austragungsort für nationale Sportereignisse. Es wird hauptsächlich für Fußballspiele genutzt.",
       hu: "Az ország legnagyobb stadionja és a nemzeti sportesemények helyszíne. Elsősorban labdarúgó-mérkőzésekre használják.",
@@ -964,7 +964,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-liquica-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Liquiçá", hu: "Liquiçá templom", ro: "Biserica din Liquiçá", en: "Liquiçá Church" },
-    coordinates: { lat: -8.5912, lng: 125.3214 },
+    coords: [125.3214, -8.5912],
     description: {
       de: "Die katholische Kirche im Zentrum von Liquiçá ist ein bedeutendes Bauwerk an der Nordküste. Sie ist ein Ort der Religionsausübung und Besinnung.",
       hu: "Liquiçá központjában álló katolikus templom az északi part jelentős építménye. A vallásgyakorlás és az elmélyülés helyszíne.",
@@ -983,7 +983,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "timorleste-bobonaro-fort-landmarks-v2",
     type: "castle",
     name: { de: "Alte Festung Bobonaro", hu: "Bobonaro régi erőd", ro: "Vechea fortăreață din Bobonaro", en: "Bobonaro Old Fort" },
-    coordinates: { lat: -9.0312, lng: 125.3241 },
+    coords: [125.3241, -9.0312],
     description: {
       de: "Die Ruinen einer portugiesischen Bergfestung im Hinterland. Sie diente zur Kontrolle der Grenzregion und bietet einen strategischen Weitblick.",
       hu: "Egy portugál hegyi erőd romjai a szárazföld belsejében. A határvidék ellenőrzésére szolgált, és stratégiai kilátást nyújt.",

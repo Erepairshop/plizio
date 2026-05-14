@@ -5,7 +5,7 @@ export const saintvincentReliefV2: POI[] = [
     id: "saintvincent-petit-bonhomme-relief-v2",
     type: "peak",
     name: { de: "Petit Bonhomme", hu: "Petit Bonhomme", ro: "Petit Bonhomme", en: "Petit Bonhomme" },
-    coordinates: { lat: 13.2083, lng: -61.1917 },
+    coords: [-61.1917, 13.2083],
     description: {
       de: "Der Petit Bonhomme ist der kleinere Nachbargipfel des Grand Bonhomme und bildet einen Teil des zentralen Rückgrats der Insel.",
       hu: "A Petit Bonhomme a Grand Bonhomme kisebb szomszédos csúcsa, a sziget központi gerincének részét képezi.",
@@ -24,7 +24,7 @@ export const saintvincentReliefV2: POI[] = [
     id: "saintvincent-morne-garu-relief-v2",
     type: "mountain",
     name: { de: "Morne Garu", hu: "Morne Garu", ro: "Morne Garu", en: "Morne Garu" },
-    coordinates: { lat: 13.25, lng: -61.1833 },
+    coords: [-61.1833, 13.25],
     description: {
       de: "Das Morne Garu-Massiv ist ein zerklüftetes Gebirge zwischen dem Richmond Peak und der nördlichen Zentralkette.",
       hu: "A Morne Garu-masszívum egy egyenetlen hegység a Richmond-csúcs és az északi központi lánc között.",
@@ -43,7 +43,7 @@ export const saintvincentReliefV2: POI[] = [
     id: "saintvincent-cumberland-valley-relief-v2",
     type: "valley",
     name: { de: "Cumberland-Tal", hu: "Cumberland-völgy", ro: "Valea Cumberland", en: "Cumberland Valley" },
-    coordinates: { lat: 13.2667, lng: -61.2333 },
+    coords: [-61.2333, 13.2667],
     description: {
       de: "Das Cumberland-Tal im Westen der Insel ist eine tiefe Reliefvertiefung, die durch den Cumberland River geformt wurde.",
       hu: "A sziget nyugati részén található Cumberland-völgy egy mély domborzati mélyedés, amelyet a Cumberland-folyó alakított ki.",
@@ -62,7 +62,7 @@ export const saintvincentReliefV2: POI[] = [
     id: "saintvincent-vermont-valley-relief-v2",
     type: "valley",
     name: { de: "Vermont-Tal", hu: "Vermont-völgy", ro: "Valea Vermont", en: "Vermont Valley" },
-    coordinates: { lat: 13.2167, lng: -61.2167 },
+    coords: [-61.2167, 13.2167],
     description: {
       de: "Das Vermont-Tal ist eine üppige, bewaldete Senke, die für ihre Wanderwege und als Lebensraum des Saint-Vincent-Papageis bekannt ist.",
       hu: "A Vermont-völgy egy buja, erdős medence, amely túraútvonalairól és a királyamazon élőhelyeként ismert.",
@@ -81,7 +81,7 @@ export const saintvincentReliefV2: POI[] = [
     id: "saintvincent-colonarie-valley-relief-v2",
     type: "valley",
     name: { de: "Colonarie-Tal", hu: "Colonarie-völgy", ro: "Valea Colonarie", en: "Colonarie Valley" },
-    coordinates: { lat: 13.2333, lng: -61.15 },
+    coords: [-61.15, 13.2333],
     description: {
       de: "Das Colonarie-Tal ist eines der längsten Täler an der Ostküste und wird vom gleichnamigen Fluss durchflossen.",
       hu: "A Colonarie-völgy az egyik leghosszabb völgy a keleti parton, amelyet az azonos nevű folyó szel át.",

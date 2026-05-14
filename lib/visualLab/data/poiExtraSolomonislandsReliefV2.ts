@@ -5,7 +5,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-maetambe-relief-v2",
     type: "peak",
     name: { de: "Mount Maetambe", hu: "Mount Maetambe", ro: "Muntele Maetambe", en: "Mount Maetambe" },
-    coordinates: { lat: -7.033, lng: 156.95 },
+    coords: [156.95, -7.033],
     description: {
       de: "Mount Maetambe ist die höchste Erhebung auf der Insel Choiseul im Nordwesten der Salomonen. Der Berg erreicht eine Höhe von 1060 Metern und ist vulkanischen Ursprungs.",
       hu: "A Mount Maetambe Choiseul szigetének legmagasabb pontja a Salamon-szigetek északnyugati részén. A hegy 1060 méter magas és vulkáni eredetű.",
@@ -24,7 +24,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-kela-relief-v2",
     type: "peak",
     name: { de: "Mount Kela", hu: "Mount Kela", ro: "Muntele Kela", en: "Mount Kela" },
-    coordinates: { lat: -8.033, lng: 159.083 },
+    coords: [159.083, -8.033],
     description: {
       de: "Mount Kela ist der höchste Berg auf Santa Isabel und bildet den zentralen Teil des Gebirgskamms der Insel. Er ragt 1219 Meter über den Meeresspiegel empor.",
       hu: "A Mount Kela Santa Isabel szigetének legmagasabb hegye, amely a sziget központi hegyláncának részét képezi. 1219 méterrel magasodik a tengerszint fölé.",
@@ -43,7 +43,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-galau-relief-v2",
     type: "peak",
     name: { de: "Mount Galau", hu: "Mount Galau", ro: "Muntele Galau", en: "Mount Galau" },
-    coordinates: { lat: -9.1, lng: 161.0 },
+    coords: [161.0, -9.1],
     description: {
       de: "Mount Galau ist die höchste Erhebung auf der Insel Malaita und liegt in deren südlichem Zentrum. Der Berg erreicht eine Höhe von etwa 1327 Metern.",
       hu: "A Mount Galau Malaita szigetének legmagasabb pontja, amely a sziget déli-központi részén helyezkedik el. A hegy magassága körülbelül 1327 méter.",
@@ -62,7 +62,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-gower-relief-v2",
     type: "peak",
     name: { de: "Mount Gower", hu: "Mount Gower", ro: "Muntele Gower", en: "Mount Gower" },
-    coordinates: { lat: -10.5, lng: 161.7 },
+    coords: [161.7, -10.5],
     description: {
       de: "Der Mount Gower ist der höchste Punkt der Insel Makira, ehemals San Cristobal. Er erhebt sich auf eine Höhe von 1100 Metern im unwegsamen Landesinneren.",
       hu: "A Mount Gower Makira szigetének (korábban San Cristobal) legmagasabb pontja. 1100 méteres magasságba emelkedik a sziget nehezen megközelíthető belsejében.",
@@ -81,7 +81,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-vangunu-relief-v2",
     type: "peak",
     name: { de: "Mount Vangunu", hu: "Mount Vangunu", ro: "Muntele Vangunu", en: "Mount Vangunu" },
-    coordinates: { lat: -8.633, lng: 157.967 },
+    coords: [157.967, -8.633],
     description: {
       de: "Mount Vangunu ist der zentrale Vulkankegel der gleichnamigen Insel im New-Georgia-Archipel. Er erreicht eine Höhe von 1123 Metern und umschließt einen Kratersee.",
       hu: "A Mount Vangunu az azonos nevű sziget központi vulkáni kúpja a New Georgia-szigetcsoportban. 1123 méteres magasságot ér el és egy krátertavat fog közre.",
@@ -100,7 +100,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-rendova-relief-v2",
     type: "peak",
     name: { de: "Mount Rendova", hu: "Mount Rendova", ro: "Muntele Rendova", en: "Mount Rendova" },
-    coordinates: { lat: -8.533, lng: 157.317 },
+    coords: [157.317, -8.533],
     description: {
       de: "Der Mount Rendova dominiert die Silhouette der Insel Rendova in der Westprovinz. Er ist ein markanter vulkanischer Gipfel mit einer Höhe von 1060 Metern.",
       hu: "A Mount Rendova uralja Rendova szigetének sziluettjét a Nyugati Tartományban. Ez egy jellegzetes vulkáni csúcs, amelynek magassága 1060 méter.",
@@ -119,7 +119,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-paneti-relief-v2",
     type: "peak",
     name: { de: "Mount Paneti", hu: "Mount Paneti", ro: "Muntele Paneti", en: "Mount Paneti" },
-    coordinates: { lat: -7.7, lng: 156.6 },
+    coords: [156.6, -7.7],
     description: {
       de: "Mount Paneti ist die höchste Erhebung auf Vella Lavella im New-Georgia-Archipel. Der Berg erreicht 808 Meter Höhe und ist von dichten Wäldern und geothermischen Gebieten umgeben.",
       hu: "A Mount Paneti Vella Lavella legmagasabb pontja a New Georgia-szigetcsoportban. A hegy 808 méter magas, sűrű erdők és geotermikus területek veszik körül.",
@@ -138,7 +138,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-sambe-relief-v2",
     type: "peak",
     name: { de: "Mount Sambe", hu: "Mount Sambe", ro: "Muntele Sambe", en: "Mount Sambe" },
-    coordinates: { lat: -8.05, lng: 156.6 },
+    coords: [156.6, -8.05],
     description: {
       de: "Mount Sambe ist der höchste Gipfel der Insel Ranongga im Westen der Salomonen. Er ragt 815 Meter hoch auf und bietet weite Ausblicke über den New-Georgia-Archipel.",
       hu: "A Mount Sambe Ranongga szigetének legmagasabb csúcsa a Salamon-szigetek nyugati részén. 815 méter magasra emelkedik, tágas kilátást nyújtva a New Georgia-szigetcsoportra.",
@@ -157,7 +157,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-turu-relief-v2",
     type: "peak",
     name: { de: "Mount Turu", hu: "Mount Turu", ro: "Muntele Turu", en: "Mount Turu" },
-    coordinates: { lat: -9.6, lng: 160.0 },
+    coords: [160.0, -9.6],
     description: {
       de: "Mount Turu ist ein Gipfel im zentralen Gebirge von Guadalcanal, westlich des Mount Popomanaseu. Er ist Teil des zerklüfteten Terrains, das das Inselinnere prägt.",
       hu: "A Mount Turu egy csúcs Guadalcanal központi hegységében, a Mount Popomanaseutól nyugatra. Része annak a tagolt terepnek, amely a sziget belsejét jellemzi.",
@@ -176,7 +176,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-kaichui-relief-v2",
     type: "peak",
     name: { de: "Mount Kaichui", hu: "Mount Kaichui", ro: "Muntele Kaichui", en: "Mount Kaichui" },
-    coordinates: { lat: -6.9, lng: 156.8 },
+    coords: [156.8, -6.9],
     description: {
       de: "Mount Kaichui ist einer der markantesten Gipfel auf der Insel Choiseul. Er bildet einen Teil des zentralen Rückgrats der Insel und erreicht eine Höhe von 950 Metern.",
       hu: "A Mount Kaichui Choiseul szigetének egyik legjellegzetesebb csúcsa. A sziget központi gerincének részét képezi és 950 méteres magasságot ér el.",
@@ -195,7 +195,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-marescot-relief-v2",
     type: "peak",
     name: { de: "Mount Marescot", hu: "Mount Marescot", ro: "Muntele Marescot", en: "Mount Marescot" },
-    coordinates: { lat: -8.1, lng: 159.2 },
+    coords: [159.2, -8.1],
     description: {
       de: "Der Mount Marescot liegt auf der Insel Santa Isabel und ist ein markanter Teil der dortigen Gebirgskette. Er erhebt sich auf etwa 1000 Meter Höhe über dem Meer.",
       hu: "A Mount Marescot Santa Isabel szigetén található, és az ottani hegylánc jelentős része. Körülbelül 1000 méteres magasságba emelkedik a tenger szintje fölé.",
@@ -214,7 +214,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-namarakao-relief-v2",
     type: "peak",
     name: { de: "Mount Namarakao", hu: "Mount Namarakao", ro: "Muntele Namarakao", en: "Mount Namarakao" },
-    coordinates: { lat: -10.4, lng: 161.6 },
+    coords: [161.6, -10.4],
     description: {
       de: "Mount Namarakao ist ein bedeutender Gipfel auf der Insel Makira. Er liegt im zerklüfteten Inneren der Insel und erreicht eine Höhe von etwa 1000 Metern.",
       hu: "A Mount Namarakao Makira szigetének egyik jelentős csúcsa. A sziget tagolt belsejében található, és körülbelül 1000 méteres magasságot ér el.",
@@ -233,7 +233,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-kavo-range-relief-v2",
     type: "mountain",
     name: { de: "Kavo-Kette", hu: "Kavo-hegység", ro: "Munții Kavo", en: "Kavo Range" },
-    coordinates: { lat: -9.6, lng: 160.1 },
+    coords: [160.1, -9.6],
     description: {
       de: "Die Kavo-Kette ist das zentrale Gebirgsmassiv auf Guadalcanal, das die höchsten Gipfel des Landes umfasst. Sie bildet das zerklüftete Rückgrat der Insel und trennt Nord- von Südküste.",
       hu: "A Kavo-hegység Guadalcanal központi hegylánca, amely az ország legmagasabb csúcsait foglalja magában. Ez alkotja a sziget tagolt gerincét, elválasztva az északi és déli partot.",
@@ -252,7 +252,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-central-range-malaita-relief-v2",
     type: "mountain",
     name: { de: "Zentralgebirge Malaita", hu: "Malaita-központi-hegység", ro: "Lanțul Central Malaita", en: "Central Range Malaita" },
-    coordinates: { lat: -8.8, lng: 160.8 },
+    coords: [160.8, -8.8],
     description: {
       de: "Das Zentralgebirge durchzieht die gesamte Länge der Insel Malaita von Nordwesten nach Südosten. Es besteht überwiegend aus Kalkstein und vulkanischem Gestein mit tief eingeschnittenen Tälern.",
       hu: "A központi hegység végighúzódik Malaita szigetén északnyugatról délkelet felé. Főleg mészkőből és vulkáni kőzetből áll, mélyen bevágott völgyekkel.",
@@ -271,7 +271,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-itina-valley-relief-v2",
     type: "valley",
     name: { de: "Itina-Tal", hu: "Itina-völgy", ro: "Valea Itina", en: "Itina Valley" },
-    coordinates: { lat: -9.6, lng: 160.0 },
+    coords: [160.0, -9.6],
     description: {
       de: "Das Itina-Tal ist ein tief eingeschnittenes Flusstal in den Bergen von Guadalcanal. Es ist bekannt für sein schroffes Relief und die steilen Flanken der Kavo-Kette.",
       hu: "Az Itina-völgy egy mélyen bevágott folyóvölgy Guadalcanal hegyei között. Ismert meredek domborzatáról és a Kavo-hegység meredek oldalfalairól.",
@@ -290,7 +290,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-lungga-plain-relief-v2",
     type: "landmark",
     name: { de: "Lungga-Ebene", hu: "Lungga-síkság", ro: "Câmpia Lungga", en: "Lungga Plain" },
-    coordinates: { lat: -9.4, lng: 160.0 },
+    coords: [160.0, -9.4],
     description: {
       de: "Die Lungga-Ebene ist das bedeutendste Tieflandgebiet auf Guadalcanal, geformt durch die Ablagerungen des Lungga-Flusses. Sie ist ein Zentrum für Landwirtschaft und Siedlungen.",
       hu: "A Lungga-síkság Guadalcanal legfontosabb alföldi területe, amelyet a Lungga-folyó hordaléka alakított ki. A mezőgazdaság és a települések központja.",
@@ -309,7 +309,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-gold-ridge-relief-v2",
     type: "mountain",
     name: { de: "Gold Ridge", hu: "Gold Ridge", ro: "Gold Ridge", en: "Gold Ridge" },
-    coordinates: { lat: -9.6, lng: 160.1 },
+    coords: [160.1, -9.6],
     description: {
       de: "Gold Ridge ist ein Bergrücken in den zentralen Highlands von Guadalcanal, der für seine Goldvorkommen bekannt ist. Das Relief ist durch Bergbauaktivitäten und steile Hänge geprägt.",
       hu: "A Gold Ridge egy hegyhát Guadalcanal központi felföldjén, amely aranylelőhelyeiről ismert. A domborzatot bányászati tevékenység és meredek lejtők jellemzik.",
@@ -328,7 +328,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-gallego-relief-v2",
     type: "mountain",
     name: { de: "Mount Gallego", hu: "Mount Gallego", ro: "Muntele Gallego", en: "Mount Gallego" },
-    coordinates: { lat: -9.35, lng: 159.8 },
+    coords: [159.8, -9.35],
     description: {
       de: "Mount Gallego ist ein erloschener Vulkan im Nordwesten von Guadalcanal. Sein markantes Profil dominiert das Relief am westlichen Ende der Insel nahe Cape Esperance.",
       hu: "A Mount Gallego egy kialudt vulkán Guadalcanal északnyugati részén. Jellegzetes profilja uralja a domborzatot a sziget nyugati végén, az Esperance-fok közelében.",
@@ -347,7 +347,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-nasuha-relief-v2",
     type: "mountain",
     name: { de: "Mount Nasuha", hu: "Mount Nasuha", ro: "Muntele Nasuha", en: "Mount Nasuha" },
-    coordinates: { lat: -9.2, lng: 161.1 },
+    coords: [161.1, -9.2],
     description: {
       de: "Mount Nasuha ist einer der bedeutenden Gipfel im südlichen Malaita. Der Berg ist Teil der zentralen Erhebung, die die Wasserscheide der Insel bildet.",
       hu: "A Mount Nasuha Malaita déli részének egyik jelentős csúcsa. A hegy a központi kiemelkedés része, amely a sziget vízválasztóját alkotja.",
@@ -366,7 +366,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-florida-ridge-relief-v2",
     type: "mountain",
     name: { de: "Florida-Rücken", hu: "Florida-hegyhát", ro: "Creasta Florida", en: "Florida Ridge" },
-    coordinates: { lat: -9.1, lng: 160.2 },
+    coords: [160.2, -9.1],
     description: {
       de: "Der Florida-Rücken ist der zentrale Gebirgskamm der Nggela-Inseln (Florida-Inseln). Er besteht aus schroffen Kalksteinhügeln und vulkanischem Gestein inmitten von Korallenriffen.",
       hu: "A Florida-hegyhát a Nggela-szigetek (Florida-szigetek) központi gerince. Meredek mészkődombokból és vulkáni kőzetekből áll, korallzátonyok között.",
@@ -385,7 +385,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-kubonitu-relief-v2",
     type: "mountain",
     name: { de: "Mount Kubonitu", hu: "Mount Kubonitu", ro: "Muntele Kubonitu", en: "Mount Kubonitu" },
-    coordinates: { lat: -8.2, lng: 159.3 },
+    coords: [159.3, -8.2],
     description: {
       de: "Mount Kubonitu ist ein markanter Gipfel im Südosten von Santa Isabel. Er ist Teil des zerklüfteten Gebirgssystems, das das Inselinnere charakterisiert.",
       hu: "A Mount Kubonitu egy jellegzetes csúcs Santa Isabel délkeleti részén. Része annak a tagolt hegységrendszernek, amely a sziget belsejét jellemzi.",
@@ -404,7 +404,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-suku-relief-v2",
     type: "mountain",
     name: { de: "Mount Suku", hu: "Mount Suku", ro: "Muntele Suku", en: "Mount Suku" },
-    coordinates: { lat: -9.65, lng: 160.15 },
+    coords: [160.15, -9.65],
     description: {
       de: "Mount Suku ist ein Gipfel in der Kavo-Kette auf Guadalcanal. Er liegt in einer Region mit extrem steilem Relief und dichten tropischen Bergwäldern.",
       hu: "A Mount Suku egy csúcs a Kavo-hegységben, Guadalcanal szigetén. Egy rendkívül meredek domborzatú régióban található, sűrű trópusi hegyi erdőkkel.",
@@ -423,7 +423,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-mount-lambi-relief-v2",
     type: "mountain",
     name: { de: "Mount Lambi", hu: "Mount Lambi", ro: "Muntele Lambi", en: "Mount Lambi" },
-    coordinates: { lat: -9.3, lng: 159.6 },
+    coords: [159.6, -9.3],
     description: {
       de: "Mount Lambi ist eine markante Erhebung im westlichen Teil von Guadalcanal. Der Berg prägt das Relief der Westprovinz der Insel und ist vulkanischen Ursprungs.",
       hu: "A Mount Lambi egy jellegzetes kiemelkedés Guadalcanal nyugati részén. A hegy meghatározza a sziget nyugati tartományának domborzatát és vulkáni eredetű.",
@@ -442,7 +442,7 @@ export const solomonislandsReliefV2: POI[] = [
     id: "solomonislands-savo-crater-relief-v2",
     type: "landmark",
     name: { de: "Savo-Krater", hu: "Savo-kráter", ro: "Craterul Savo", en: "Savo Crater" },
-    coordinates: { lat: -9.13, lng: 159.82 },
+    coords: [159.82, -9.13],
     description: {
       de: "Der Savo-Krater bildet das Zentrum der Vulkaninsel Savo nördlich von Guadalcanal. Das Relief ist durch geothermische Aktivität, Fumarolen und steile Kraterwände geprägt.",
       hu: "A Savo-kráter a Guadalcanaltól északra fekvő Savo vulkáni sziget központját alkotja. A domborzatot geotermikus aktivitás, fumarolák és meredek kráterfalak jellemzik.",

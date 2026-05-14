@@ -790,7 +790,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
     id: "uganda-mabira-forest-life-v2",
     type: "forest",
     name: { de: "Mabira-Wald", hu: "Mabira-erdő", ro: "Pădurea Mabira", en: "Mabira Forest" },
-    coordinates: { lat: 0.3833, lng: 32.9667 },
+    coords: [32.9667, 0.3833],
     description: {
       de: "Mabira-Wald ist ein 300 km² großer Regenwald in Zentraluganda. Er schützt den Uganda-Mangaben und über 300 verschiedene Vogelarten.",
       hu: "A Mabira-erdő egy 300 km²-es esőerdő Közép-Ugandában. Otthont ad az endemikus ugandai mangábénak és több mint 300 különböző madárfajnak.",

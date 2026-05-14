@@ -727,7 +727,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-dadohaehaesang-life-v2",
     type: "wildlife",
     name: { de: "Dadohaehaesang-Nationalpark", hu: "Dadohaehaesang Nemzeti Park", ro: "Parcul Național Dadohaehaesang", en: "Dadohaehaesang National Park" },
-    coordinates: { lat: 34.3625, lng: 126.8311 },
+    coords: [126.8311, 34.3625],
     description: {
       de: "Südkoreas größter Meeresnationalpark umfasst über 1700 Inseln und weite Meeresgebiete. Er schützt vielfältige Meeresökosysteme und dichte immergrüne Wälder.",
       hu: "Dél-Korea legnagyobb tengeri nemzeti parkja több mint 1700 szigetet foglal magában. Változatos tengeri ökoszisztémákat és örökzöld erdőket védelmez.",
@@ -746,7 +746,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-seoul-grand-park-life-v2",
     type: "wildlife",
     name: { de: "Seoul Grand Park", hu: "Seoul Grand Park", ro: "Seoul Grand Park", en: "Seoul Grand Park" },
-    coordinates: { lat: 37.4272, lng: 127.0169 },
+    coords: [127.0169, 37.4272],
     description: {
       de: "Dieser weitläufige Parkkomplex umfasst einen bedeutenden Zoo, einen botanischen Garten und Waldwege. Er dient der Erhaltung der Tierwelt in der Hauptstadtregion.",
       hu: "Ez a kiterjedt parkkomplexum egy jelentős állatkertet, botanikus kertet és erdei ösvényeket foglal magában. Vadon élő állatok védelmével foglalkozik.",
@@ -765,7 +765,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-garden-morning-calm-life-v2",
     type: "park",
     name: { de: "Garten der Morgenstille", hu: "A Reggeli Nyugalom Kertje", ro: "Grădina Liniștii de Dimineață", en: "The Garden of Morning Calm" },
-    coordinates: { lat: 37.7439, lng: 127.3522 },
+    coords: [127.3522, 37.7439],
     description: {
       de: "Das älteste private Arboretum Koreas zeigt eine große Vielfalt einheimischer Pflanzen in thematischen Gärten. Es betont die natürliche Kurvenästhetik Koreas.",
       hu: "Korea legrégebbi magán arborétuma őshonos növények széles választékát mutatja be tematikus kertekben. A koreai esztétika természetes íveit hangsúlyozza.",
@@ -784,7 +784,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-korea-national-arboretum-life-v2",
     type: "forest",
     name: { de: "Nationales Arboretum von Korea", hu: "Koreai Nemzeti Arborétum", ro: "Arboretul Național al Coreei", en: "National Arboretum of Korea" },
-    coordinates: { lat: 37.7561, lng: 127.1653 },
+    coords: [127.1653, 37.7561],
     description: {
       de: "Dieses Arboretum befindet sich im Gwangneung-Wald und bewahrt seit über 500 Jahren ein wichtiges Waldökosystem. Es dient der Forschung und dem Naturschutz.",
       hu: "Ez az arborétum a Gwangneung-erdőben található, és több mint 500 éve őriz egy fontos erdei ökoszisztémát. Kutatási és természetvédelmi célokat szolgál.",
@@ -803,7 +803,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-oedo-botania-life-v2",
     type: "park",
     name: { de: "Oedo Botania", hu: "Oedo Botania", ro: "Oedo Botania", en: "Oedo Botania" },
-    coordinates: { lat: 34.8175, lng: 128.7108 },
+    coords: [128.7108, 34.8175],
     description: {
       de: "Ein botanischer Garten im europäischen Stil auf einer Insel vor der Küste von Geoje. Er ist bekannt für seine mediterrane Atmosphäre und exotische Flora.",
       hu: "Európai stílusú botanikus kert egy szigeten, Geoje partjainál. Mediterrán hangulatáról és egzotikus növényvilágáról ismert.",
@@ -822,7 +822,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-junam-reservoir-life-v2",
     type: "wildlife",
     name: { de: "Junam-Stausee", hu: "Junam-víztározó", ro: "Rezervorul Junam", en: "Junam Reservoir" },
-    coordinates: { lat: 35.3133, lng: 128.6781 },
+    coords: [128.6781, 35.3133],
     description: {
       de: "Eines der wichtigsten Überwinterungsgebiete für Zugvögel in Südkorea. Das Feuchtgebiet bietet lebenswichtige Nahrungsgründe für seltene Vogelarten.",
       hu: "Dél-Korea egyik legfontosabb telelőhelye a költöző madarak számára. A vizes élőhely fontos táplálkozóhelyet biztosít ritka madárfajoknak.",
@@ -841,7 +841,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-cheonsuman-bay-life-v2",
     type: "wildlife",
     name: { de: "Cheonsuman-Bucht", hu: "Cheonsuman-öböl", ro: "Golful Cheonsuman", en: "Cheonsuman Bay" },
-    coordinates: { lat: 36.6586, lng: 126.4358 },
+    coords: [126.4358, 36.6586],
     description: {
       de: "Ein riesiges Rückgewinnungsgebiet, das zu einem wichtigen Zwischenstopp für Millionen von Zugvögeln auf dem ostasiatisch-australasiatischen Flugweg wurde.",
       hu: "Hatalmas feltöltött terület, amely több millió költöző madár fontos pihenőhelyévé vált a Kelet-Ázsia–Ausztrália útvonalon.",
@@ -860,7 +860,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-eulsukdo-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Eulsukdo", hu: "Eulsukdo-sziget", ro: "Insula Eulsukdo", en: "Eulsukdo Island" },
-    coordinates: { lat: 35.1052, lng: 128.9442 },
+    coords: [128.9442, 35.1052],
     description: {
       de: "Diese Insel an der Mündung des Nakdong-Flusses ist ein bedeutendes Schutzgebiet für Zugvögel und ein Zentrum für ökologische Wiederherstellung.",
       hu: "A Nakdong-folyó torkolatánál fekvő sziget a költöző madarak jelentős menedékhelye és az ökológiai helyreállítás központja.",
@@ -879,7 +879,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-deogyusan-national-park-life-v2",
     type: "wildlife",
     name: { de: "Deogyusan-Nationalpark", hu: "Deogyusan Nemzeti Park", ro: "Parcul Național Deogyusan", en: "Deogyusan National Park" },
-    coordinates: { lat: 35.8611, lng: 127.7508 },
+    coords: [127.7508, 35.8611],
     description: {
       de: "Der Park schützt eine reiche alpine Flora und Fauna im zentralen Gebirge. Er ist berühmt für seine verschneiten Landschaften und seltenen Insektenarten.",
       hu: "A park gazdag alpesi növény- és állatvilágot védelmez a központi hegységben. Havas tájairól és ritka rovarfajairól híres.",
@@ -898,7 +898,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-wolchulsan-national-park-life-v2",
     type: "wildlife",
     name: { de: "Wolchulsan-Nationalpark", hu: "Wolchulsan Nemzeti Park", ro: "Parcul Național Wolchulsan", en: "Wolchulsan National Park" },
-    coordinates: { lat: 34.7892, lng: 126.6917 },
+    coords: [126.6917, 34.7892],
     description: {
       de: "Obwohl er Koreas kleinster Gebirgsnationalpark ist, beherbergt er hunderte von Pflanzenarten auf seinen markanten, zerklüfteten Granitfelsen.",
       hu: "Bár Korea legkisebb hegyi nemzeti parkja, több száz növényfajnak ad otthont jellegzetes, csipkés gránitsziklái között.",
@@ -917,7 +917,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-taean-haean-national-park-life-v2",
     type: "wildlife",
     name: { de: "Taean-Haean-Nationalpark", hu: "Taean-Haean Nemzeti Park", ro: "Parcul Național Taean-Haean", en: "Taean-Haean National Park" },
-    coordinates: { lat: 36.7869, lng: 126.1311 },
+    coords: [126.1311, 36.7869],
     description: {
       de: "Der einzige Küstennationalpark Südkoreas umfasst Sanddünen, Wattflächen und Pinienwälder entlang der Westküste. Er ist ein wichtiges Ökosystem für Meereslebewesen.",
       hu: "Dél-Korea egyetlen parti nemzeti parkja homokdűnéket, mocsarakat és fenyőerdőket foglal magában. Fontos ökoszisztéma a tengeri élőlények számára.",
@@ -936,7 +936,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-hallyeohaesang-national-park-life-v2",
     type: "wildlife",
     name: { de: "Hallyeohaesang-Nationalpark", hu: "Hallyeohaesang Nemzeti Park", ro: "Parcul Național Hallyeohaesang", en: "Hallyeohaesang National Park" },
-    coordinates: { lat: 34.7644, lng: 128.4528 },
+    coords: [128.4528, 34.7644],
     description: {
       de: "Dieser Meerespark erstreckt sich über die Südküste und schützt Hunderte von Inseln. Er beherbergt eine reiche marine Artenvielfalt und seltene Seevögel.",
       hu: "Ez a tengeri park a déli part mentén húzódik és szigetek százait védi. Gazdag tengeri élővilágnak és ritka tengeri madaraknak ad otthont.",
@@ -955,7 +955,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-mudeungsan-national-park-life-v2",
     type: "wildlife",
     name: { de: "Mudeungsan-Nationalpark", hu: "Mudeungsan Nemzeti Park", ro: "Parcul Național Mudeungsan", en: "Mudeungsan National Park" },
-    coordinates: { lat: 35.1333, lng: 127.0 },
+    coords: [127.0, 35.1333],
     description: {
       de: "Der Park nahe Gwangju ist bekannt für seine einzigartigen säulenförmigen Gelenkgestein-Formationen und eine hohe Dichte an bedrohten Tierarten.",
       hu: "A Gwangju közeli park egyedülálló oszlopos elválású kőzetformációiról és a veszélyeztetett állatfajok nagy sűrűségéről ismert.",
@@ -974,7 +974,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-chiaksan-national-park-life-v2",
     type: "wildlife",
     name: { de: "Chiaksan-Nationalpark", hu: "Chiaksan Nemzeti Park", ro: "Parcul Național Chiaksan", en: "Chiaksan National Park" },
-    coordinates: { lat: 37.3672, lng: 128.0561 },
+    coords: [128.0561, 37.3672],
     description: {
       de: "Dieser Park ist bekannt für seine steilen Hänge und tiefen Täler, die Schutz für zahlreiche einheimische Baumarten und Gebirgsvögel bieten.",
       hu: "Ez a park meredek lejtőiről és mély völgyeiről ismert, amelyek számos őshonos fafajnak és hegyi madárnak nyújtanak menedéket.",
@@ -993,7 +993,7 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
     id: "southkorea-gayasan-national-park-life-v2",
     type: "wildlife",
     name: { de: "Gayasan-Nationalpark", hu: "Gayasan Nemzeti Park", ro: "Parcul Național Gayasan", en: "Gayasan National Park" },
-    coordinates: { lat: 35.8169, lng: 128.1258 },
+    coords: [128.1258, 35.8169],
     description: {
       de: "Der Park schützt dichte Kiefern- und Eichenwälder sowie eine reiche alpine Vegetation um den markanten Sangwangbong-Gipfel.",
       hu: "A park sűrű fenyő- és tölgyerdőket, valamint gazdag alpesi vegetációt védelmez a jellegzetes Sangwangbong-csúcs körül.",

@@ -709,7 +709,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-mahathat-ayutthaya-history-v2",
     type: "ruins",
     name: { de: "Wat Mahathat Ayutthaya", hu: "Wat Mahathat Ayutthaya", ro: "Wat Mahathat Ayutthaya", en: "Wat Mahathat Ayutthaya" },
-    coordinates: { lat: 14.357, lng: 100.5675 },
+    coords: [100.5675, 14.357],
     description: {
       de: "Diese Tempelruine aus dem 14. Jahrhundert war einst das religiöse Zentrum des Königreichs Ayutthaya.",
       hu: "Ez a 14. századi templomrom egykor az Ayutthaya Királyság vallási központja volt.",
@@ -728,7 +728,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-ratchaburana-ayutthaya-history-v2",
     type: "ruins",
     name: { de: "Wat Ratchaburana", hu: "Wat Ratchaburana", ro: "Wat Ratchaburana", en: "Wat Ratchaburana" },
-    coordinates: { lat: 14.3585, lng: 100.5678 },
+    coords: [100.5678, 14.3585],
     description: {
       de: "Ein prächtiger buddhistischer Tempel in Ayutthaya, bekannt für seinen gut erhaltenen zentralen Prang.",
       hu: "Ayutthaya egyik pompás buddhista temploma, amely jól megőrzött központi prangjáról ismert.",
@@ -747,7 +747,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-sukhothai-wat-mahathat-history-v2",
     type: "ruins",
     name: { de: "Wat Mahathat Sukhothai", hu: "Wat Mahathat Sukhothai", ro: "Wat Mahathat Sukhothai", en: "Wat Mahathat Sukhothai" },
-    coordinates: { lat: 17.017, lng: 99.704 },
+    coords: [99.704, 17.017],
     description: {
       de: "Der bedeutendste Tempel des Sukhothai-Königreichs mit einer beeindruckenden Lotusknospen-Stupa.",
       hu: "A Szukhothaj Királyság legjelentősebb temploma, lenyűgöző lótuszbimbó formájú sztúpával.",
@@ -766,7 +766,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-si-sawai-history-v2",
     type: "ruins",
     name: { de: "Wat Si Sawai", hu: "Wat Si Sawai", ro: "Wat Si Sawai", en: "Wat Si Sawai" },
-    coordinates: { lat: 17.0145, lng: 99.7042 },
+    coords: [99.7042, 17.0145],
     description: {
       de: "Ein ehemaliger Hindu-Schrein in Sukhothai, der später in einen buddhistischen Tempel umgewandelt wurde.",
       hu: "Egykori hindu szentély Szukhothajban, amelyet később buddhista templommá alakítottak.",
@@ -785,7 +785,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-saphan-hin-history-v2",
     type: "ruins",
     name: { de: "Wat Saphan Hin", hu: "Wat Saphan Hin", ro: "Wat Saphan Hin", en: "Wat Saphan Hin" },
-    coordinates: { lat: 17.022, lng: 99.684 },
+    coords: [99.684, 17.022],
     description: {
       de: "Ein auf einem Hügel gelegener Tempel, bekannt für seine steinerne Brücke und eine massive Buddha-Statue.",
       hu: "Egy dombtetőn lévő templom, amely kőhídjáról és egy hatalmas Buddha-szoborról ismert.",
@@ -804,7 +804,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-chang-lom-si-satchanalai-history-v2",
     type: "ruins",
     name: { de: "Wat Chang Lom", hu: "Wat Chang Lom", ro: "Wat Chang Lom", en: "Wat Chang Lom" },
-    coordinates: { lat: 17.4304, lng: 99.785 },
+    coords: [99.785, 17.4304],
     description: {
       de: "Ein historischer Tempel in Si Satchanalai, berühmt für seine von Elefantenstatuen umgebene Stupa.",
       hu: "Szi Szatcsanalaj történelmi temploma, amely elefántszobrokkal körbevett sztúpájáról híres.",
@@ -823,7 +823,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-chedi-chet-thaeo-history-v2",
     type: "ruins",
     name: { de: "Wat Chedi Chet Thaeo", hu: "Wat Chedi Chet Thaeo", ro: "Wat Chedi Chet Thaeo", en: "Wat Chedi Chet Thaeo" },
-    coordinates: { lat: 17.4308, lng: 99.786 },
+    coords: [99.786, 17.4308],
     description: {
       de: "Ein Tempelkomplex mit zahlreichen Chedis, die verschiedene architektonische Stile Thailands vereinen.",
       hu: "Számos csediből álló templomkomplexum, amely Thaiföld különböző építészeti stílusait ötvözi.",
@@ -842,7 +842,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-si-rattana-mahathat-si-satchanalai-history-v2",
     type: "ruins",
     name: { de: "Wat Phra Si Rattana Mahathat Chaliang", hu: "Wat Phra Si Rattana Mahathat Chaliang", ro: "Wat Phra Si Rattana Mahathat Chaliang", en: "Wat Phra Si Rattana Mahathat Chaliang" },
-    coordinates: { lat: 17.432, lng: 99.805 },
+    coords: [99.805, 17.432],
     description: {
       de: "Ein alter Tempel in Chaliang, bekannt für seinen großen Prang und das markante Eingangstor.",
       hu: "Egy ősi templom Csaliangban, amely nagy prangjáról és jellegzetes bejárati kapujáról ismert.",
@@ -861,7 +861,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-kaew-kamphaeng-phet-history-v2",
     type: "ruins",
     name: { de: "Wat Phra Kaew Kamphaeng Phet", hu: "Wat Phra Kaew Kamphaeng Phet", ro: "Wat Phra Kaew Kamphaeng Phet", en: "Wat Phra Kaew Kamphaeng Phet" },
-    coordinates: { lat: 16.488, lng: 99.522 },
+    coords: [99.522, 16.488],
     description: {
       de: "Ein großer königlicher Tempel in Kamphaeng Phet, der einst wichtige Buddha-Statuen beherbergte.",
       hu: "Kamphengphet egy nagy királyi temploma, amely egykor fontos Buddha-szobroknak adott otthont.",
@@ -880,7 +880,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-chang-rob-history-v2",
     type: "ruins",
     name: { de: "Wat Chang Rob", hu: "Wat Chang Rob", ro: "Wat Chang Rob", en: "Wat Chang Rob" },
-    coordinates: { lat: 16.505, lng: 99.516 },
+    coords: [99.516, 16.505],
     description: {
       de: "Ein Tempel auf einem Hügel in Kamphaeng Phet, bekannt für seine Basis mit 68 Elefanten-Stuckreliefs.",
       hu: "Kamphengphet egyik dombon lévő temploma, amelynek alapját 68 elefántos stukkódombormű díszíti.",
@@ -899,7 +899,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-ban-chiang-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Ban-Chiang-Ausgrabungsstätte", hu: "Ban Chiang régészeti lelőhely", ro: "Situl arheologic Ban Chiang", en: "Ban Chiang Archaeological Site" },
-    coordinates: { lat: 17.407, lng: 103.237 },
+    coords: [103.237, 17.407],
     description: {
       de: "Eine der weltweit bedeutendsten prähistorischen Fundstätten, bekannt für ihre charakteristische rote Keramik.",
       hu: "A világ egyik legjelentősebb őskori lelőhelye, jellegzetes vörös kerámiáiról ismert.",
@@ -918,7 +918,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-muang-tam-history-v2",
     type: "ruins",
     name: { de: "Prasat Muang Tam", hu: "Prasat Muang Tam", ro: "Prasat Muang Tam", en: "Prasat Muang Tam" },
-    coordinates: { lat: 14.5002, lng: 102.9818 },
+    coords: [102.9818, 14.5002],
     description: {
       de: "Ein Khmer-Tempel aus dem 10. Jahrhundert, berühmt für seine vier L-förmigen Teiche mit Nagas.",
       hu: "Egy 10. századi khmer templom, amely négy L alakú, nágákkal díszített taváról híres.",
@@ -937,7 +937,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-sikhoraphum-history-v2",
     type: "ruins",
     name: { de: "Prasat Sikhoraphum", hu: "Prasat Sikhoraphum", ro: "Prasat Sikhoraphum", en: "Prasat Sikhoraphum" },
-    coordinates: { lat: 14.945, lng: 103.791 },
+    coords: [103.791, 14.945],
     description: {
       de: "Ein Khmer-Tempelkomplex mit fünf Ziegel-Prangs, bekannt für feinste Sandsteinreliefs.",
       hu: "Öt téglából épült prangból álló khmer templomkomplexum, finom homokkő domborműveiről ismert.",
@@ -956,7 +956,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-sra-kamphaeng-yai-history-v2",
     type: "ruins",
     name: { de: "Prasat Sra Kamphaeng Yai", hu: "Prasat Sra Kamphaeng Yai", ro: "Prasat Sra Kamphaeng Yai", en: "Prasat Sra Kamphaeng Yai" },
-    coordinates: { lat: 15.101, lng: 104.124 },
+    coords: [104.124, 15.101],
     description: {
       de: "Die größte Khmer-Ruine in der Provinz Sisaket, bestehend aus drei Prangs auf einer Laterit-Basis.",
       hu: "Sisaket tartomány legnagyobb khmer romja, amely három, laterit alapon álló prangból áll.",
@@ -975,7 +975,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wiang-kum-kam-history-v2",
     type: "ruins",
     name: { de: "Wiang Kum Kam", hu: "Wiang Kum Kam", ro: "Wiang Kum Kam", en: "Wiang Kum Kam" },
-    coordinates: { lat: 18.751, lng: 99.001 },
+    coords: [99.001, 18.751],
     description: {
       de: "Die verlorene unterirdische Stadt von König Mengrai, die durch eine Flut im 16. Jahrhundert versank.",
       hu: "Mengrai király elveszett földalatti városa, amely egy 16. századi árvíz során süllyedt el.",
@@ -994,7 +994,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-chedi-luang-history-v2",
     type: "ruins",
     name: { de: "Wat Chedi Luang", hu: "Wat Chedi Luang", ro: "Wat Chedi Luang", en: "Wat Chedi Luang" },
-    coordinates: { lat: 18.7869, lng: 98.9865 },
+    coords: [98.9865, 18.7869],
     description: {
       de: "Ein massiver Chedi in Chiang Mai, der einst das höchste Bauwerk des Lanna-Königreichs war.",
       hu: "Egy hatalmas csedi Csianngmajban, amely egykor a Lanna Királyság legmagasabb építménye volt.",
@@ -1013,7 +1013,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-singh-history-v2",
     type: "temple",
     name: { de: "Wat Phra Singh", hu: "Wat Phra Singh", ro: "Wat Phra Singh", en: "Wat Phra Singh" },
-    coordinates: { lat: 18.7884, lng: 98.982 },
+    coords: [98.982, 18.7884],
     description: {
       de: "Ein bedeutender buddhistischer Tempel in Chiang Mai, bekannt für das Bildnis des Phra Singh Buddha.",
       hu: "Chiang Mai jelentős buddhista temploma, amely a Phra Singh Buddha képmásáról ismert.",
@@ -1032,7 +1032,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phra-pathom-chedi-history-v2",
     type: "monument",
     name: { de: "Phra Pathom Chedi", hu: "Phra Pathom Chedi", ro: "Phra Pathom Chedi", en: "Phra Pathom Chedi" },
-    coordinates: { lat: 13.82, lng: 100.0592 },
+    coords: [100.0592, 13.82],
     description: {
       de: "Der höchste buddhistische Chedi der Welt, gelegen in der antiken Stadt Nakhon Pathom.",
       hu: "A világ legmagasabb buddhista csedije, amely Nakhonpathom ősi városában található.",
@@ -1051,7 +1051,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-bang-pa-in-palace-history-v2",
     type: "palace",
     name: { de: "Bang-Pa-In-Sommerpalast", hu: "Bang Pa-In nyári palota", ro: "Palatul de vară Bang Pa-In", en: "Bang Pa-In Royal Palace" },
-    coordinates: { lat: 14.232, lng: 100.579 },
+    coords: [100.579, 14.232],
     description: {
       de: "Ein königlicher Palastkomplex am Chao Phraya, der thailändische, chinesische und europäische Architektur vereint.",
       hu: "Királyi palotakomplexum a Csao Phraja partján, amely thai, kínai és európai építészetet ötvöz.",
@@ -1070,7 +1070,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phra-nakhon-khiri-history-v2",
     type: "palace",
     name: { de: "Phra Nakhon Khiri (Khao Wang)", hu: "Phra Nakhon Khiri (Khao Wang)", ro: "Phra Nakhon Khiri (Khao Wang)", en: "Phra Nakhon Khiri (Khao Wang)" },
-    coordinates: { lat: 13.109, lng: 99.937 },
+    coords: [99.937, 13.109],
     description: {
       de: "Ein königlicher Palast auf einem Hügel in Phetchaburi, der europäische und thailändische Stile kombiniert.",
       hu: "Királyi palota egy dombtetőn Phetchaburiban, amely európai és thai stílusokat ötvöz.",
@@ -1089,7 +1089,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phra-sumen-fort-history-v2",
     type: "monument",
     name: { de: "Phra Sumen Fort", hu: "Phra Sumen erőd", ro: "Fortul Phra Sumen", en: "Phra Sumen Fort" },
-    coordinates: { lat: 13.764, lng: 100.496 },
+    coords: [100.496, 13.764],
     description: {
       de: "Eines der zwei verbliebenen historischen Forts von Bangkok, erbaut zum Schutz der neuen Hauptstadt.",
       hu: "Bangkok két megmaradt történelmi erődjének egyike, amelyet az új főváros védelmére építettek.",
@@ -1108,7 +1108,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-ananta-samakhom-throne-hall-history-v2",
     type: "palace",
     name: { de: "Ananta-Samakhom-Thronsaal", hu: "Ananta Samakhom trónterem", ro: "Sala Tronului Ananta Samakhom", en: "Ananta Samakhom Throne Hall" },
-    coordinates: { lat: 13.771, lng: 100.513 },
+    coords: [100.513, 13.771],
     description: {
       de: "Ein prachtvoller neoklassizistischer Bau in Bangkok, der als Empfangshalle des Dusit-Palastes diente.",
       hu: "Pompás neoklasszicista épület Bangkokban, amely a Dusit-palota fogadótermeként szolgált.",
@@ -1127,7 +1127,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phrathat-lampang-luang-history-v2",
     type: "temple",
     name: { de: "Wat Phra That Lampang Luang", hu: "Wat Phra That Lampang Luang", ro: "Wat Phra That Lampang Luang", en: "Wat Phra That Lampang Luang" },
-    coordinates: { lat: 18.218, lng: 99.387 },
+    coords: [99.387, 18.218],
     description: {
       de: "Einer der am besten erhaltenen Holztempel im Lanna-Stil, umgeben von einer massiven Festungsmauer.",
       hu: "Az egyik legjobb állapotban maradt lanna stílusú fatemplom, amelyet hatalmas erődítményfal vesz körül.",
@@ -1146,7 +1146,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-that-hariphunchai-history-v2",
     type: "temple",
     name: { de: "Wat Phra That Hariphunchai", hu: "Wat Phra That Hariphunchai", ro: "Wat Phra That Hariphunchai", en: "Wat Phra That Hariphunchai" },
-    coordinates: { lat: 18.577, lng: 99.008 },
+    coords: [99.008, 18.577],
     description: {
       de: "Ein historisches religiöses Zentrum in Lamphun, das auf das Hariphunchai-Königreich zurückgeht.",
       hu: "Lamphun történelmi vallási központja, amely a Hariphunchai Királyság idejéből származik.",
@@ -1165,7 +1165,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phumin-history-v2",
     type: "temple",
     name: { de: "Wat Phumin", hu: "Wat Phumin", ro: "Wat Phumin", en: "Wat Phumin" },
-    coordinates: { lat: 18.775, lng: 100.771 },
+    coords: [100.771, 18.775],
     description: {
       de: "Ein einzigartiger Tempel in Nan, bekannt für seinen kreuzförmigen Grundriss und berühmte Wandmalereien.",
       hu: "Nan egyedülálló temploma, amely kereszt alakú alaprajzáról és híres falfestményeiről ismert.",
@@ -1184,7 +1184,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-yai-chai-mongkhon-history-v2",
     type: "temple",
     name: { de: "Wat Yai Chai Mongkhon", hu: "Wat Yai Chai Mongkhon", ro: "Wat Yai Chai Mongkhon", en: "Wat Yai Chai Mongkhon" },
-    coordinates: { lat: 14.345, lng: 100.592 },
+    coords: [100.592, 14.345],
     description: {
       de: "Ein markanter Tempel in Ayutthaya mit einem riesigen Chedi und hunderten Buddha-Statuen.",
       hu: "Ayutthaya jellegzetes temploma hatalmas csedijével és Buddha-szobrok százaival.",
@@ -1203,7 +1203,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phanan-choeng-history-v2",
     type: "temple",
     name: { de: "Wat Phanan Choeng", hu: "Wat Phanan Choeng", ro: "Wat Phanan Choeng", en: "Wat Phanan Choeng" },
-    coordinates: { lat: 14.344, lng: 100.579 },
+    coords: [100.579, 14.344],
     description: {
       de: "Ein alter Tempel in Ayutthaya, der eine massive vergoldete sitzende Buddha-Statue beherbergt.",
       hu: "Ayutthaya egyik ősi temploma, amely egy hatalmas, aranyozott ülő Buddha-szobrot őriz.",
@@ -1222,7 +1222,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-na-phra-men-history-v2",
     type: "temple",
     name: { de: "Wat Na Phra Men", hu: "Wat Na Phra Men", ro: "Wat Na Phra Men", en: "Wat Na Phra Men" },
-    coordinates: { lat: 14.362, lng: 100.56 },
+    coords: [100.56, 14.362],
     description: {
       de: "Der einzige Tempel in Ayutthaya, der die Zerstörung von 1767 fast unbeschadet überstand.",
       hu: "Az egyetlen templom Ayutthayában, amely szinte sértetlenül túlélte az 1767-es pusztítást.",
@@ -1241,7 +1241,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-mahathat-nakhon-si-thammarat-history-v2",
     type: "temple",
     name: { de: "Wat Phra Mahathat Nakhon Si Thammarat", hu: "Wat Phra Mahathat Nakhon Si Thammarat", ro: "Wat Phra Mahathat Nakhon Si Thammarat", en: "Wat Phra Mahathat Nakhon Si Thammarat" },
-    coordinates: { lat: 8.411, lng: 99.966 },
+    coords: [99.966, 8.411],
     description: {
       de: "Einer der heiligsten Tempel Südthailands, bekannt für seinen schattenlosen Chedi.",
       hu: "Dél-Thaiföld egyik legszentebb temploma, amely árnyék nélküli csedijéről ismert.",
@@ -1260,7 +1260,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-borommathat-chaiya-history-v2",
     type: "temple",
     name: { de: "Wat Phra Borommathat Chaiya", hu: "Wat Phra Borommathat Chaiya", ro: "Wat Phra Borommathat Chaiya", en: "Wat Phra Borommathat Chaiya" },
-    coordinates: { lat: 9.387, lng: 99.181 },
+    coords: [99.181, 9.387],
     description: {
       de: "Ein bedeutendes Beispiel für die Srivijaya-Architektur in Thailand, gelegen in Surat Thani.",
       hu: "A srivijaya építészet jelentős példája Thaiföldön, Szuratthani tartományban.",
@@ -1279,7 +1279,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-muang-fa-daet-song-yang-history-v2",
     type: "ruins",
     name: { de: "Muang Fa Daet Song Yang", hu: "Muang Fa Daet Song Yang", ro: "Muang Fa Daet Song Yang", en: "Muang Fa Daet Song Yang" },
-    coordinates: { lat: 16.315, lng: 103.522 },
+    coords: [103.522, 16.315],
     description: {
       de: "Eine antike Stadt der Dvaravati-Periode in Kalasin, bekannt für ihre verzierten Semas (Grenzsteine).",
       hu: "Egy ősi dvaravati város Kalasinban, amely díszes szema köveiről (határkövek) ismert.",
@@ -1298,7 +1298,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-benchamabophit-history-v2",
     type: "temple",
     name: { de: "Wat Benchamabophit (Marmor-Tempel)", hu: "Wat Benchamabophit (Márványtemplom)", ro: "Wat Benchamabophit (Templul de Marmură)", en: "Wat Benchamabophit (Marble Temple)" },
-    coordinates: { lat: 13.766, lng: 100.514 },
+    coords: [100.514, 13.766],
     description: {
       de: "Einer der modernsten und schönsten Tempel Bangkoks, fast vollständig aus weißem Marmor erbaut.",
       hu: "Bangkok egyik legszebb és legmodernebb temploma, szinte teljesen fehér márványból épült.",
@@ -1317,7 +1317,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-suthat-thepwararam-history-v2",
     type: "temple",
     name: { de: "Wat Suthat Thepwararam", hu: "Wat Suthat Thepwararam", ro: "Wat Suthat Thepwararam", en: "Wat Suthat Thepwararam" },
-    coordinates: { lat: 13.751, lng: 100.501 },
+    coords: [100.501, 13.751],
     description: {
       de: "Ein erstklassiger königlicher Tempel in Bangkok, berühmt für seine riesige Gebetshalle und Wandgemälde.",
       hu: "Kiemelt királyi templom Bangkokban, híres hatalmas imaterméről és falfestményeiről.",
@@ -1336,7 +1336,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-mahakan-fort-history-v2",
     type: "monument",
     name: { de: "Mahakan Fort", hu: "Mahakan erőd", ro: "Fortul Mahakan", en: "Mahakan Fort" },
-    coordinates: { lat: 13.755, lng: 100.505 },
+    coords: [100.505, 13.755],
     description: {
       de: "Ein weiteres historisches Fort in Bangkok, das einst Teil der Stadtmauer am Khlong Rop Krung war.",
       hu: "Egy másik történelmi erőd Bangkokban, amely egykor a Khlong Rop Krung menti városfal része volt.",
@@ -1355,7 +1355,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-national-museum-bangkok-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum Bangkok (Wang Na)", hu: "Bangkok Nemzeti Múzeum (Wang Na)", ro: "Muzeul Național Bangkok (Wang Na)", en: "National Museum Bangkok (Wang Na)" },
-    coordinates: { lat: 13.758, lng: 100.492 },
+    coords: [100.492, 13.758],
     description: {
       de: "Das größte Museum Südostasien, untergebracht im ehemaligen Palast des Vizekönigs.",
       hu: "Délkelet-Ázsia legnagyobb múzeuma, az alkirály egykori palotájában kapott helyet.",
@@ -1374,7 +1374,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-old-customs-house-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus Bangkok", hu: "Régi városháza Bangkok", ro: "Vama Veche Bangkok", en: "Old Customs House Bangkok" },
-    coordinates: { lat: 13.725, lng: 100.514 },
+    coords: [100.514, 13.725],
     description: {
       de: "Ein historisches neoklassizistisches Gebäude am Ufer des Chao Phraya, das Bangkoks Handelsgeschichte markiert.",
       hu: "Történelmi neoklasszicista épület a Csao Phraja partján, amely Bangkok kereskedelmi múltját idézi.",
@@ -1393,7 +1393,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-sanam-luang-history-v2",
     type: "landmark",
     name: { de: "Sanam Luang", hu: "Sanam Luang", ro: "Sanam Luang", en: "Sanam Luang" },
-    coordinates: { lat: 13.755, lng: 100.492 },
+    coords: [100.492, 13.755],
     description: {
       de: "Ein historisches offenes Feld vor dem Großen Palast, das für königliche Zeremonien genutzt wird.",
       hu: "Történelmi nyitott terület a Nagy Palota előtt, amelyet királyi ceremóniákra használnak.",
@@ -1412,7 +1412,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-bowonniwet-vihara-history-v2",
     type: "temple",
     name: { de: "Wat Bowonniwet Vihara", hu: "Wat Bowonniwet Vihara", ro: "Wat Bowonniwet Vihara", en: "Wat Bowonniwet Vihara" },
-    coordinates: { lat: 13.76, lng: 100.502 },
+    coords: [100.502, 13.76],
     description: {
       de: "Ein bedeutender königlicher Tempel in Bangkok, der als Sitz des Thammayut-Ordens dient.",
       hu: "Bangkok jelentős királyi temploma, amely a Thammayut szerzetesrend székhelye.",
@@ -1431,7 +1431,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-tham-krasae-bridge-history-v2",
     type: "bridge",
     name: { de: "Tham-Krasae-Brücke (Todesbahn)", hu: "Tham Krasae híd (Halálvasút)", ro: "Podul Tham Krasae (Calea ferată a morții)", en: "Tham Krasae Bridge (Death Railway)" },
-    coordinates: { lat: 14.104, lng: 99.165 },
+    coords: [99.165, 14.104],
     description: {
       de: "Ein spektakulärer Abschnitt der berüchtigten Todesbahn, der an einer Felswand über dem Fluss Kwai verläuft.",
       hu: "A hírhedt Halálvasút látványos szakasza, amely egy sziklafal mentén halad a Kwai-folyó felett.",
@@ -1450,7 +1450,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phaya-thai-palace-history-v2",
     type: "palace",
     name: { de: "Phaya-Thai-Palast", hu: "Phaya Thai palota", ro: "Palatul Phaya Thai", en: "Phaya Thai Palace" },
-    coordinates: { lat: 13.768, lng: 100.533 },
+    coords: [100.533, 13.768],
     description: {
       de: "Ein ehemaliger königlicher Palastkomplex in Bangkok, der europäische Stile wie Romanik und Gotik vereint.",
       hu: "Egykori királyi palotakomplexum Bangkokban, amely olyan európai stílusokat ötvöz, mint a román és a gótika.",
@@ -1469,7 +1469,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phra-racha-wang-chan-history-v2",
     type: "ruins",
     name: { de: "Phra Racha Wang Chan (Palast des Prinzen)", hu: "Phra Racha Wang Chan", ro: "Phra Racha Wang Chan", en: "Phra Racha Wang Chan" },
-    coordinates: { lat: 16.828, lng: 100.262 },
+    coords: [100.262, 16.828],
     description: {
       de: "Die Überreste des Geburtsortes von König Naresuan dem Großen in Phitsanulok.",
       hu: "Naresuan király szülőhelyének maradványai Phitsanulokban.",
@@ -1488,7 +1488,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-na-muang-fa-daet-history-v2",
     type: "ruins",
     name: { de: "Wat Phra That Yakhu", hu: "Wat Phra That Yakhu", ro: "Wat Phra That Yakhu", en: "Wat Phra That Yakhu" },
-    coordinates: { lat: 16.316, lng: 103.523 },
+    coords: [103.523, 16.316],
     description: {
       de: "Der größte und am besten erhaltene Chedi in der antiken Stadt Muang Fa Daet Song Yang.",
       hu: "Muang Fa Daet Song Yang ősi városának legnagyobb és legjobb állapotban maradt csedije.",
@@ -1507,7 +1507,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-sa-si-history-v2",
     type: "ruins",
     name: { de: "Wat Sa Si", hu: "Wat Sa Si", ro: "Wat Sa Si", en: "Wat Sa Si" },
-    coordinates: { lat: 17.019, lng: 99.702 },
+    coords: [99.702, 17.019],
     description: {
       de: "Ein malerischer Tempel im Sukhothai-Park, der auf einer kleinen Insel in einem See liegt.",
       hu: "Gleccser Szukhothaj park festői temploma, amely egy tó közepén lévő kis szigeten fekszik.",
@@ -1526,7 +1526,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-si-rattana-mahathat-phitsanulok-history-v2",
     type: "temple",
     name: { de: "Wat Phra Si Rattana Mahathat (Wat Yai)", hu: "Wat Phra Si Rattana Mahathat (Wat Yai)", ro: "Wat Phra Si Rattana Mahathat (Wat Yai)", en: "Wat Phra Si Rattana Mahathat (Wat Yai)" },
-    coordinates: { lat: 16.823, lng: 100.262 },
+    coords: [100.262, 16.823],
     description: {
       de: "Heimat des Phra Phuttha Chinnarat, einer der am schönsten angesehenen Buddha-Statuen Thailands.",
       hu: "A Phra Phuttha Chinnarat otthona, amelyet Thaiföld egyik legszebb Buddha-szobrának tartanak.",
@@ -1545,7 +1545,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-muang-sing-history-v2",
     type: "ruins",
     name: { de: "Prasat Muang Sing", hu: "Prasat Muang Sing", ro: "Prasat Muang Sing", en: "Prasat Muang Sing" },
-    coordinates: { lat: 14.039, lng: 99.241 },
+    coords: [99.241, 14.039],
     description: {
       de: "Der am weitesten westlich gelegene Khmer-Tempelkomplex Thailands, nahe der Grenze zu Myanmar.",
       hu: "Thaiföld legnyugatibb khmer templomkomplexuma, a mianmari határ közelében.",
@@ -1564,7 +1564,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-suan-dok-history-v2",
     type: "temple",
     name: { de: "Wat Suan Dok", hu: "Wat Suan Dok", ro: "Wat Suan Dok", en: "Wat Suan Dok" },
-    coordinates: { lat: 18.788, lng: 98.968 },
+    coords: [98.968, 18.788],
     description: {
       de: "Ein geschichtsträchtiger Tempel in Chiang Mai, bekannt für seine weißen Chedis mit der Asche der Lanna-Könige.",
       hu: "Chiang Mai történelmi temploma, amely a Lanna-királyok hamvait őrző fehér csedijeiről ismert.",
@@ -1583,7 +1583,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-that-cho-hae-history-v2",
     type: "temple",
     name: { de: "Wat Phra That Cho Hae", hu: "Wat Phra That Cho Hae", ro: "Wat Phra That Cho Hae", en: "Wat Phra That Cho Hae" },
-    coordinates: { lat: 18.086, lng: 100.204 },
+    coords: [100.204, 18.086],
     description: {
       de: "Der heiligste Tempel der Provinz Phrae, berühmt für seinen mit Goldplatten bedeckten Chedi.",
       hu: "Phrae tartomány legszentebb temploma, híres aranylemezekkel borított csedijéről.",
@@ -1602,7 +1602,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-mahathat-worawihan-ratchaburi-history-v2",
     type: "ruins",
     name: { de: "Wat Mahathat Worawihan Ratchaburi", hu: "Wat Mahathat Worawihan Ratchaburi", ro: "Wat Mahathat Worawihan Ratchaburi", en: "Wat Mahathat Worawihan Ratchaburi" },
-    coordinates: { lat: 13.541, lng: 99.818 },
+    coords: [99.818, 13.541],
     description: {
       de: "Ein alter Tempel in Ratchaburi mit einem beeindruckenden Prang im Khmer-Stil.",
       hu: "Ratchaburi ősi temploma lenyűgöző khmer stílusú prangjával.",
@@ -1621,7 +1621,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-ta-muen-thom-history-v2",
     type: "ruins",
     name: { de: "Prasat Ta Muen Thom", hu: "Prasat Ta Muen Thom", ro: "Prasat Ta Muen Thom", en: "Prasat Ta Muen Thom" },
-    coordinates: { lat: 14.351, lng: 103.265 },
+    coords: [103.265, 14.351],
     description: {
       de: "Ein großer Khmer-Tempel an der thailändisch-kambodschanischen Grenze, erbaut auf einem natürlichen Felsen.",
       hu: "Nagy khmer templom a thai-kambodzsai határon, amely egy természetes sziklára épült.",
@@ -1640,7 +1640,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wiang-ta-kan-history-v2",
     type: "ruins",
     name: { de: "Wiang Ta Kan", hu: "Wiang Ta Kan", ro: "Wiang Ta Kan", en: "Wiang Ta Kan" },
-    coordinates: { lat: 18.528, lng: 98.889 },
+    coords: [98.889, 18.528],
     description: {
       de: "Eine antike befestigte Stadt der Hariphunchai-Periode in der Provinz Chiang Mai.",
       hu: "Ősi erődített város a Hariphunchai-korszakból Chiang Mai tartományban.",
@@ -1659,7 +1659,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-prasat-prang-ku-chaiyaphum-history-v2",
     type: "ruins",
     name: { de: "Prasat Prang Ku (Chaiyaphum)", hu: "Prasat Prang Ku", ro: "Prasat Prang Ku", en: "Prasat Prang Ku" },
-    coordinates: { lat: 15.808, lng: 102.042 },
+    coords: [102.042, 15.808],
     description: {
       de: "Ein Khmer-Heiligtum in Chaiyaphum, das einst als 'Arogayasala' (Krankenhaus) diente.",
       hu: "Khmer szentély Csajaphumban, amely egykor 'Arogayasala' (kórház) néven szolgált.",
@@ -1678,7 +1678,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-na-phra-that-phitsanulok-history-v2",
     type: "temple",
     name: { de: "Wat Phra Si Rattana Mahathat (Phitsanulok)", hu: "Wat Phra Si Rattana Mahathat", ro: "Wat Phra Si Rattana Mahathat", en: "Wat Phra Si Rattana Mahathat" },
-    coordinates: { lat: 16.824, lng: 100.262 },
+    coords: [100.262, 16.824],
     description: {
       de: "Dieser Tempel beherbergt den berühmten goldenen Buddha Phra Phuttha Chinnarat.",
       hu: "Ez a templom ad otthont a híres arany Buddhának, a Phra Phuttha Chinnaratnak.",
@@ -1697,7 +1697,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-don-chedi-monument-history-v2",
     type: "monument",
     name: { de: "Don Chedi Monument", hu: "Don Chedi emlékmű", ro: "Monumentul Don Chedi", en: "Don Chedi Monument" },
-    coordinates: { lat: 14.631, lng: 99.894 },
+    coords: [99.894, 14.631],
     description: {
       de: "Ein Nationaldenkmal zum Gedenken an den Sieg von König Naresuan in einer Elefantenschlacht.",
       hu: "Nemzeti emlékmű Naresuan király elefántcsatában aratott győzelmének emlékére.",
@@ -1716,7 +1716,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-muang-boran-history-v2",
     type: "museum",
     name: { de: "Muang Boran (Die Antike Stadt)", hu: "Muang Boran (Az ősi város)", ro: "Muang Boran (Orașul Antic)", en: "Muang Boran (Ancient City)" },
-    coordinates: { lat: 13.539, lng: 100.623 },
+    coords: [100.623, 13.539],
     description: {
       de: "Das weltgrößte Freilichtmuseum, das maßstabsgetreue Nachbildungen der wichtigsten thailändischen Bauwerke zeigt.",
       hu: "A világ legnagyobb szabadtéri múzeuma, amely Thaiföld legfontosabb építményeinek mérethű másolatait mutatja be.",
@@ -1735,7 +1735,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-thammikarat-history-v2",
     type: "ruins",
     name: { de: "Wat Thammikarat", hu: "Wat Thammikarat", ro: "Wat Thammikarat", en: "Wat Thammikarat" },
-    coordinates: { lat: 14.36, lng: 100.563 },
+    coords: [100.563, 14.36],
     description: {
       de: "Eine beeindruckende Ruine in Ayutthaya, bekannt für ihre Basis mit Löwenstatuen (Singhas).",
       hu: "Ayutthaya lenyűgöző romja, amely oroszlánszobrokkal (Szinghák) díszített alapjáról ismert.",
@@ -1754,7 +1754,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-kaew-chiang-rai-history-v2",
     type: "temple",
     name: { de: "Wat Phra Kaew Chiang Rai", hu: "Wat Phra Kaew Chiang Rai", ro: "Wat Phra Kaew Chiang Rai", en: "Wat Phra Kaew Chiang Rai" },
-    coordinates: { lat: 19.911, lng: 99.828 },
+    coords: [99.828, 19.911],
     description: {
       de: "Der Tempel in Chiang Rai, in dem der berühmte Smaragd-Buddha im 15. Jahrhundert entdeckt wurde.",
       hu: "A templom Chiang Raiban, ahol a híres Smaragd Buddhát felfedezték a 15. században.",
@@ -1773,7 +1773,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-non-chakkrasi-history-v2",
     type: "temple",
     name: { de: "Wat Phra Non Chakkrasi", hu: "Wat Phra Non Chakkrasi", ro: "Wat Phra Non Chakkrasi", en: "Wat Phra Non Chakkrasi" },
-    coordinates: { lat: 14.869, lng: 100.415 },
+    coords: [100.415, 14.869],
     description: {
       de: "Ein historischer Tempel in Sing Buri, der eine riesige liegende Buddha-Statue beherbergt.",
       hu: "Sing Buri történelmi temploma, amely egy hatalmas fekvő Buddha-szobornak ad otthont.",
@@ -1792,7 +1792,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-chedi-liam-history-v2",
     type: "temple",
     name: { de: "Wat Chedi Liam", hu: "Wat Chedi Liam", ro: "Wat Chedi Liam", en: "Wat Chedi Liam" },
-    coordinates: { lat: 18.752, lng: 99.002 },
+    coords: [99.002, 18.752],
     description: {
       de: "Ein markanter Tempel in der antiken Stadt Wiang Kum Kam mit einer stufenförmigen Pyramiden-Stupa.",
       hu: "Wiang Kum Kam ősi városának jellegzetes temploma, lépcsős piramis-sztúpával.",
@@ -1811,7 +1811,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-phra-racha-wang-san-am-chandra-history-v2",
     type: "palace",
     name: { de: "Sanam-Chandra-Palast", hu: "Sanam Chandra palota", ro: "Palatul Sanam Chandra", en: "Sanam Chandra Palace" },
-    coordinates: { lat: 13.82, lng: 100.045 },
+    coords: [100.045, 13.82],
     description: {
       de: "Ein königlicher Palast in Nakhon Pathom, der thailändische und europäische (Fachwerk) Architektur mischt.",
       hu: "Királyi palota Nakhonpathomban, amely thai és európai (fagerendás) építészetet ötvöz.",
@@ -1830,7 +1830,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-kaew-don-tao-history-v2",
     type: "temple",
     name: { de: "Wat Phra Kaew Don Tao", hu: "Wat Phra Kaew Don Tao", ro: "Wat Phra Kaew Don Tao", en: "Wat Phra Kaew Don Tao" },
-    coordinates: { lat: 18.302, lng: 99.516 },
+    coords: [99.516, 18.302],
     description: {
       de: "Ein bedeutender Tempel in Lampang, der einst den Smaragd-Buddha beherbergte.",
       hu: "Lampang jelentős temploma, amely egykor a Smaragd Buddhának adott otthont.",
@@ -1849,7 +1849,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-si-chum-phitsanulok-history-v2",
     type: "ruins",
     name: { de: "Wat Si Chum (Phitsanulok)", hu: "Wat Si Chum", ro: "Wat Si Chum", en: "Wat Si Chum" },
-    coordinates: { lat: 16.828, lng: 100.262 },
+    coords: [100.262, 16.828],
     description: {
       de: "Nicht zu verwechseln mit Sukhothai, ist dies eine bedeutende Tempelruine in Phitsanulok.",
       hu: "Nem tévesztendő össze a szukhothajival, ez Phitsanulok egy jelentős templomroma.",
@@ -1868,7 +1868,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-kamphaeng-phet-city-walls-history-v2",
     type: "monument",
     name: { de: "Stadtmauer von Kamphaeng Phet", hu: "Kamphaeng Phet városfalai", ro: "Zidurile orașului Kamphaeng Phet", en: "Kamphaeng Phet City Walls" },
-    coordinates: { lat: 16.486, lng: 99.525 },
+    coords: [99.525, 16.486],
     description: {
       de: "Die massiven antiken Befestigungsanlagen von Kamphaeng Phet, erbaut aus Laterit.",
       hu: "Kamphengphet hatalmas ősi erődítményei, amelyek lateritből épültek.",
@@ -1887,7 +1887,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-phra-kaew-kamphaeng-phet-ruins-history-v2",
     type: "ruins",
     name: { de: "Wat Phra Kaew (Kamphaeng Phet)", hu: "Wat Phra Kaew", ro: "Wat Phra Kaew", en: "Wat Phra Kaew" },
-    coordinates: { lat: 16.488, lng: 99.522 },
+    coords: [99.522, 16.488],
     description: {
       de: "Eine weitläufige Tempelanlage in Kamphaeng Phet mit beeindruckenden sitzenden Buddha-Skulpturen.",
       hu: "Kamphengphet kiterjedt templomegyüttese, lenyűgöző ülő Buddha-szobrokkal.",
@@ -1906,7 +1906,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-yai-phitsanulok-history-v2",
     type: "temple",
     name: { de: "Wat Phra Si Rattana Mahathat (Wat Yai)", hu: "Wat Yai Phitsanulok", ro: "Wat Yai Phitsanulok", en: "Wat Yai Phitsanulok" },
-    coordinates: { lat: 16.823, lng: 100.262 },
+    coords: [100.262, 16.823],
     description: {
       de: "Dieser Tempel in Phitsanulok ist berühmt für die Statue des Phra Phuttha Chinnarat.",
       hu: "Ez a phitsanuloki templom a Phra Phuttha Chinnarat szoborról híres.",
@@ -1925,7 +1925,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wiang-kum-kam-underground-city-history-v2",
     type: "ruins",
     name: { de: "Unterirdische Stadt Wiang Kum Kam", hu: "Wiang Kum Kam földalatti városa", ro: "Orașul subteran Wiang Kum Kam", en: "Wiang Kum Kam Underground City" },
-    coordinates: { lat: 18.751, lng: 99.001 },
+    coords: [99.001, 18.751],
     description: {
       de: "Eine archäologische Stätte bei Chiang Mai, die erst vor wenigen Jahrzehnten aus dem Schlamm ausgegraben wurde.",
       hu: "Chiang Mai melletti régészeti terület, amelyet csak néhány évtizede ástak ki az iszap alól.",
@@ -1944,7 +1944,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-bang-pa-in-summer-palace-history-v2",
     type: "palace",
     name: { de: "Bang-Pa-In-Sommerpalast", hu: "Bang Pa-In palota", ro: "Palatul Bang Pa-In", en: "Bang Pa-In Summer Palace" },
-    coordinates: { lat: 14.232, lng: 100.579 },
+    coords: [100.579, 14.232],
     description: {
       de: "Ein königlicher Rückzugsort nördlich von Bangkok, bekannt für seine eklektische Mischung aus Bauwerken.",
       hu: "Királyi rezidencia Bangkoktól északra, amely épületeinek eklektikus keverékéről ismert.",
@@ -1963,7 +1963,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-national-museum-bangkok-palace-history-v2",
     type: "museum",
     name: { de: "Bangkok Nationalmuseum (Vizekönig-Palast)", hu: "Bangkok Nemzeti Múzeum", ro: "Muzeul Național Bangkok", en: "National Museum Bangkok" },
-    coordinates: { lat: 13.758, lng: 100.492 },
+    coords: [100.492, 13.758],
     description: {
       de: "Das Hauptmuseum für thailändische Geschichte, untergebracht im Palast des 'Zweiten Königs'.",
       hu: "Thaiföld történelmének fő múzeuma, a 'második király' palotájában.",
@@ -1982,7 +1982,7 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "thailand-wat-benchamabophit-marble-history-v2",
     type: "temple",
     name: { de: "Wat Benchamabophit (Marmor-Tempel)", hu: "Wat Benchamabophit", ro: "Wat Benchamabophit", en: "Wat Benchamabophit" },
-    coordinates: { lat: 13.766, lng: 100.514 },
+    coords: [100.514, 13.766],
     description: {
       de: "Ein Meisterwerk der thailändischen Tempelarchitektur, erbaut aus italienischem Marmor.",
       hu: "A thai templomépítészet remekműve, olasz márványból épült.",

@@ -1502,7 +1502,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     id: "equatorialguinea-mikomeseng-cities-v2",
     type: "city",
     name: { de: "Mikomeseng", hu: "Mikomeseng", ro: "Mikomeseng", en: "Mikomeseng" },
-    coordinates: { lat: 2.15, lng: 10.5 },
+    coords: [10.5, 2.15],
     description: {
       de: "Mikomeseng liegt in der Provinz Kie-Ntem im Norden des Landes. Die Stadt ist ein lokales Verwaltungszentrum nahe der kamerunischen Grenze.",
       hu: "Mikomeseng az északi Kie-Ntem tartományban található. A város helyi közigazgatási központ a kameruni határ közelében.",
@@ -1516,12 +1516,24 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Province: Kie-Ntem", "Near Cameroonian border", "Commercial hub", "Elevation: approx. 600m"],
     },
     imageHint: "rural market street in equatorial guinea town",
+    descriptionAdvanced: {
+      de: "Mikomeseng ist eine Stadt in der Provinz Kié-Ntem in Äquatorialguinea, etwa 100 km östlich von Bata. Sie hat rund 15.000 Einwohner und ist ein wichtiges Handelszentrum für landwirtschaftliche Produkte wie Kaffee und Kakao. Die Stadt ist Sitz der katholischen Diözese Mikomeseng und verfügt über eine Kathedrale. Die Wirtschaft basiert auf Landwirtschaft und Kleinhandel. Mikomeseng ist auch für seine traditionellen Feste bekannt, die die Kultur der Fang-Bevölkerung widerspiegeln.",
+      hu: "Mikomeseng város Egyenlítői-Guineában, Kié-Ntem tartományban, Batától 100 km-re keletre. Lakossága kb. 15.000 fő, fontos kereskedelmi központ mezőgazdasági termékek, például kávé és kakaó számára. A város a Mikomesengi Katolikus Egyházmegye székhelye, székesegyházzal. Gazdasága a mezőgazdaságon és kiskereskedelemen alapul. Mikomeseng híres hagyományos ünnepeiről, amelyek a fang nép kultúráját tükrözik.",
+      ro: "Mikomeseng este un oraș din provincia Kié-Ntem, Guineea Ecuatorială, situat la aproximativ 100 km est de Bata. Are aproximativ 15.000 de locuitori și este un important centru comercial pentru produse agricole precum cafeaua și cacao. Orașul este sediul Diecezei Catolice de Mikomeseng, având o catedrală. Economia se bazează pe agricultură și comerțul cu amănuntul. Mikomeseng este cunoscut pentru festivalurile sale tradiționale care reflectă cultura poporului Fang.",
+      en: "Mikomeseng is a town in Kié-Ntem Province, Equatorial Guinea, about 100 km east of Bata. It has a population of around 15,000 and is a key trading center for agricultural products such as coffee and cocoa. The town is the seat of the Roman Catholic Diocese of Mikomeseng, with a cathedral. Its economy relies on agriculture and small-scale trade. Mikomeseng is known for its traditional festivals reflecting Fang culture.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 15.000", "Entfernung zu Bata: 100 km", "Höhe über Meer: 400 m", "Gegründet: 19. Jahrhundert", "Kathedrale erbaut 1965", "Hauptsprache: Fang"],
+      hu: ["Lakosság: kb. 15.000", "Távolság Batától: 100 km", "Tengerszint feletti magasság: 400 m", "Alapítva: 19. század", "Székesegyház épült: 1965", "Fő nyelv: fang"],
+      ro: ["Populație: circa 15.000", "Distanța față de Bata: 100 km", "Altitudine: 400 m", "Fondat: secolul al XIX-lea", "Catedrala construită în 1965", "Limba principală: Fang"],
+      en: ["Population: approx. 15,000", "Distance to Bata: 100 km", "Elevation: 400 m", "Founded: 19th century", "Cathedral built in 1965", "Main language: Fang"],
+    },
   },
   {
     id: "equatorialguinea-akurenam-cities-v2",
     type: "city",
     name: { de: "Akurenam", hu: "Akurenam", ro: "Akurenam", en: "Akurenam" },
-    coordinates: { lat: 1.45, lng: 10.7 },
+    coords: [10.7, 1.45],
     description: {
       de: "Akurenam liegt in der Provinz Centro Sur. Es ist ein Knotenpunkt für den lokalen Handel im zentralen Hinterland von Äquatorialguinea.",
       hu: "Akurenam a Centro Sur tartományban található. A város fontos csomópont a helyi kereskedelem számára az ország középső belvidékén.",
@@ -1535,6 +1547,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Province: Centro Sur", "Central location", "Traffic junction", "Located near Wele river"],
     },
     imageHint: "small town landscape in centro sur province",
+    descriptionAdvanced: {
+      de: "Akurenam ist eine Stadt im zentralen Teil Äquatorialguineas, in der Provinz Centro Sur. Sie hat etwa 8.000 Einwohner und liegt in einer hügeligen Region, die von tropischem Regenwald bedeckt ist. Die Wirtschaft basiert auf Holzwirtschaft, Landwirtschaft und etwas Bergbau. Akurenam ist ein wichtiger Knotenpunkt für den Transport von Holz und landwirtschaftlichen Erzeugnissen in die Hauptstadt Malabo. Die Stadt hat Grundschulen und ein Gesundheitszentrum.",
+      hu: "Akurenam város Egyenlőtői-Guinea középső részén, Centro Sur tartományban. Lakossága kb. 8.000 fő, dombos, trópusi esőerdő borította területen fekszik. Gazdasága a fakitermelésen, mezőgazdaságon és kisebb bányászaton alapul. Akurenam fontos csomópont a fa és mezőgazdasági termékek Malabóba történő szállításában. A városban általános iskolák és egészségügyi központ található.",
+      ro: "Akurenam este un oraș din centrul Guineei Ecuatoriale, în provincia Centro Sur. Are aproximativ 8.000 de locuitori și este situat într-o regiune deluroasă acoperită de păduri tropicale. Economia se bazează pe exploatarea lemnului, agricultură și minerit ocazional. Akurenam este un nod important pentru transportul lemnului și produselor agricole către Malabo. Orașul are școli primare și un centru de sănătate.",
+      en: "Akurenam is a town in central Equatorial Guinea, in Centro Sur Province. It has about 8,000 inhabitants and lies in a hilly region covered by tropical rainforest. The economy relies on logging, agriculture, and some mining. Akurenam is a key hub for transporting timber and agricultural goods to Malabo. The town has primary schools and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 8.000", "Provinz: Centro Sur", "Höhe: 600 m", "Regenwaldfläche: 70% des Umlands", "Hauptwirtschaft: Holzwirtschaft", "Entfernung nach Bata: 80 km"],
+      hu: ["Lakosság: kb. 8.000", "Tartomány: Centro Sur", "Tengerszint feletti magasság: 600 m", "Esőerdő: a környék 70%-a", "Fő gazdasági ág: fakitermelés", "Távolság Batától: 80 km"],
+      ro: ["Populație: circa 8.000", "Provincie: Centro Sur", "Altitudine: 600 m", "Pădure tropicală: 70% din împrejurimi", "Economie principală: exploatare forestieră", "Distanța până la Bata: 80 km"],
+      en: ["Population: approx. 8,000", "Province: Centro Sur", "Elevation: 600 m", "Rainforest cover: 70% of surroundings", "Main industry: logging", "Distance to Bata: 80 km"],
+    },
   }
 ];
 

@@ -720,7 +720,7 @@ export const poiExtraVietnamNatureV2: POI[] = [
     id: "vietnam-cham-islands-nature-v2",
     type: "island",
     name: { de: "Cham-Inseln", hu: "Cham-szigetek", ro: "Insulele Cham", en: "Cham Islands" },
-    coordinates: { lat: 15.93, lng: 108.51 },
+    coords: [108.51, 15.93],
     description: {
       de: "Die Cham-Inseln liegen vor Hoi An im Südchinesischen Meer. Das Gebiet ist seit 2009 ein UNESCO-Biosphärenreservat mit Korallenriffen.",
       hu: "A Cham-szigetek Hoi An partjainál fekszenek a Dél-kínai-tengeren. A terület 2009 óta UNESCO bioszféra-rezervátum és korallokban gazdag.",

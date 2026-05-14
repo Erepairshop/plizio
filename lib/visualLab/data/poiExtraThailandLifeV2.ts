@@ -710,7 +710,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-huai-kha-khaeng-life-v2",
     type: "wildlife",
     name: { de: "Wildschutzgebiet Huai Kha Khaeng", hu: "Huai Kha Khaeng Vadvédelmi Terület", ro: "Rezervația de Faună Huai Kha Khaeng", en: "Huai Kha Khaeng Wildlife Sanctuary" },
-    coordinates: { lat: 15.5492, lng: 99.2025 },
+    coords: [99.2025, 15.5492],
     description: {
       de: "Dieses Schutzgebiet beherbergt eines der unberührtesten Waldökosysteme Südostasiens. Es ist ein Rückzugsort für seltene Tierarten wie den Indochinesischen Tiger und wilde Wasserbüffel.",
       hu: "Ez a védett terület Délkelet-Ázsia egyik legérintetlenebb erdei ökoszisztémájának ad otthont. Olyan ritka fajok menedéke, mint az indokínai tigris és a vad vízibivaly.",
@@ -729,7 +729,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-tarutao-marine-park-life-v2",
     type: "park",
     name: { de: "Nationalpark Tarutao", hu: "Tarutao Nemzeti Park", ro: "Parcul Național Tarutao", en: "Tarutao National Marine Park" },
-    coordinates: { lat: 6.6022, lng: 99.6547 },
+    coords: [99.6547, 6.6022],
     description: {
       de: "Der erste Meeresnationalpark Thailands besteht aus 51 Inseln in der Andamanensee. Er bietet eine Mischung aus Mangroven, Korallenriffen und geschichtsträchtigen Orten.",
       hu: "Thaiföld első tengeri nemzeti parkja 51 szigetből áll az Andaman-tengeren. Mangroveerdők, korallzátonyok és történelmi helyszínek egyedülálló keverékét kínálja.",
@@ -748,7 +748,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-mu-ko-surin-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Mu Ko Surin", hu: "Mu Ko Surin Nemzeti Park", ro: "Parcul Național Mu Ko Surin", en: "Mu Ko Surin National Park" },
-    coordinates: { lat: 9.4144, lng: 97.8631 },
+    coords: [97.8631, 9.4144],
     description: {
       de: "Diese Inselgruppe in der Andamanensee ist berühmt für ihre spektakulären Korallenriffe und die Gemeinschaft der Moken. Das Gebiet bietet einige der besten Schnorchelplätze Thailands.",
       hu: "Ez az andaman-tengeri szigetcsoport látványos korallzátonyairól és a moken közösségről híres. A terület Thaiföld legjobb búvárhelyeit kínálja.",
@@ -767,7 +767,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-nam-nao-life-v2",
     type: "park",
     name: { de: "Nationalpark Nam Nao", hu: "Nam Nao Nemzeti Park", ro: "Parcul Național Nam Nao", en: "Nam Nao National Park" },
-    coordinates: { lat: 16.735, lng: 101.5731 },
+    coords: [101.5731, 16.735],
     description: {
       de: "Nam Nao ist bekannt für sein kühles Klima und ausgedehnte Kiefernwälder in den Bergen. Der Park bietet beeindruckende Höhlen und eine reiche Vogelwelt.",
       hu: "Nam Nao hűvös klímájáról és kiterjedt hegyi fenyőerdőiről ismert. A park lenyűgöző barlangokat és gazdag madárvilágot kínál.",
@@ -786,7 +786,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-queen-sirikit-bg-life-v2",
     type: "wildlife",
     name: { de: "Botanischer Garten Queen Sirikit", hu: "Queen Sirikit Botanikus Kert", ro: "Grădina Botanică Regina Sirikit", en: "Queen Sirikit Botanical Garden" },
-    coordinates: { lat: 18.8986, lng: 98.8617 },
+    coords: [98.8617, 18.8986],
     description: {
       de: "Dieser Garten in Chiang Mai widmet sich der thailändischen Flora. Er besticht durch einen Canopy Walkway und große Gewächshäuser für seltene Pflanzen.",
       hu: "Ez a Chiang Mai-i kert a thaiföldi flórának szentelt. Különlegessége a lombkorona-sétány és a ritka növényeknek otthont adó nagy üvegházak.",
@@ -805,7 +805,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-nong-nooch-life-v2",
     type: "wildlife",
     name: { de: "Tropischer Garten Nong Nooch", hu: "Nong Nooch Trópusi Kert", ro: "Grădina Tropicală Nong Nooch", en: "Nong Nooch Tropical Botanical Garden" },
-    coordinates: { lat: 12.7664, lng: 100.9333 },
+    coords: [100.9333, 12.7664],
     description: {
       de: "Dieser riesige Garten bei Pattaya ist bekannt für seine kunstvollen Gartenanlagen und die weltweit größte Palmensammlung. Er verbindet Botanik mit kulturellen Shows.",
       hu: "Ez a Pattaya melletti hatalmas kert művészi kerttervezéséről és a világ legnagyobb pálmagyűjteményéről ismert. A botanikát kulturális show-kkal ötvözi.",
@@ -824,7 +824,7 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "thailand-thung-salaeng-luang-life-v2",
     type: "park",
     name: { de: "Nationalpark Thung Salaeng Luang", hu: "Thung Salaeng Luang Nemzeti Park", ro: "Parcul Național Thung Salaeng Luang", en: "Thung Salaeng Luang National Park" },
-    coordinates: { lat: 16.5772, lng: 100.8872 },
+    coords: [100.8872, 16.5772],
     description: {
       de: "Dieser Park wird oft als die „Savanne Thailands“ bezeichnet. Er ist berühmt für seine weiten Graslandschaften und lichten Kiefernwälder.",
       hu: "Ezt a parkot gyakran „Thaiföld szavannájaként” emlegetik. Híres tágas füves pusztáiról és ritkás fenyőerdőiről.",

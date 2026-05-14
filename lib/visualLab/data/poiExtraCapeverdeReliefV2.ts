@@ -667,7 +667,7 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     id: "capeverde-pico-da-cruz-relief-v2",
     type: "peak",
     name: { de: "Pico da Cruz", hu: "Pico da Cruz", ro: "Pico da Cruz", en: "Pico da Cruz" },
-    coordinates: { lat: 17.1022, lng: -25.0289 },
+    coords: [-25.0289, 17.1022],
     description: {
       de: "Dieser Gipfel erreicht 1.585 Meter im Osten der Insel Santo Antão. Er bietet Ausblicke auf die Cova-Caldera und die Nordküste.",
       hu: "Ez a csúcs 1585 méter magas Santo Antão szigetének keleti felén. Kilátást nyújt a Cova-kalderára és az északi partvidékre.",
@@ -698,7 +698,7 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     id: "capeverde-monte-graciosa-relief-v2",
     type: "mountain",
     name: { de: "Monte Graciosa", hu: "Monte Graciosa", ro: "Monte Graciosa", en: "Monte Graciosa" },
-    coordinates: { lat: 15.2811, lng: -23.7544 },
+    coords: [-23.7544, 15.2811],
     description: {
       de: "Dieser Berg erhebt sich 645 Meter über der Stadt Tarrafal im Norden von Santiago. Er ist geprägt von Steilhängen und Basaltgestein.",
       hu: "Ez a hegy 645 méterrel magasodik a Santiago északi részén fekvő Tarrafal fölé. Meredek lejtők és bazaltkőzetek jellemzik.",

@@ -727,7 +727,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
     id: "southsudan-jebel-boma-relief-v2",
     type: "mountain",
     name: { de: "Jebel Boma", hu: "Jebel Boma", ro: "Jebel Boma", en: "Jebel Boma" },
-    coordinates: { lat: 6.25, lng: 34.66 },
+    coords: [34.66, 6.25],
     description: {
       de: "Das Jebel Boma ist ein markantes Hochlandgebiet im Osten des Südsudan nahe der äthiopischen Grenze. Es bildet einen wichtigen Teil des lokalen Ökosystems mit spezifischen geologischen Formationen.",
       hu: "A Jebel Boma egy jelentős felföldi terület Dél-Szudán keleti részén, az etióp határ közelében. Fontos részét képezi a helyi ökoszisztémának, jellegzetes geológiai képződményekkel.",
@@ -746,7 +746,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
     id: "southsudan-jebel-kator-relief-v2",
     type: "mountain",
     name: { de: "Jebel Kator", hu: "Jebel Kator", ro: "Jebel Kator", en: "Jebel Kator" },
-    coordinates: { lat: 4.82, lng: 31.55 },
+    coords: [31.55, 4.82],
     description: {
       de: "Der Jebel Kator ist ein isolierter Hügel in der Nähe der Hauptstadt Juba. Die Erhebung besteht hauptsächlich aus metamorphem Gestein und prägt das Relief am Westufer des Weißen Nils.",
       hu: "A Jebel Kator egy elszigetelt domb Juba főváros közelében. A kiemelkedés főként metamorf kőzetekből áll, és meghatározza a domborzatot a Fehér-Nílus nyugati partján.",

@@ -5,7 +5,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-qelt-life-v2",
     type: "wildlife",
     name: { de: "Wadi Qelt Naturschutzgebiet", hu: "Wadi Qelt természetvédelmi terület", ro: "Rezervația Naturală Wadi Qelt", en: "Wadi Qelt Nature Reserve" },
-    coordinates: { lat: 31.8439, lng: 35.4131 },
+    coords: [35.4131, 31.8439],
     description: {
       de: "Dieses tiefe Tal in der Judäischen Wüste beherbergt einzigartige Flora und Fauna an ganzjährigen Quellen. Es ist ein wichtiger Lebensraum für Greifvögel.",
       hu: "Ez a Júdeai-sivatagban található mély völgy egész évben bővizű forrásokkal és gazdag élővilággal rendelkezik. Fontos élőhely a ragadozó madarak számára.",
@@ -24,7 +24,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-gaza-life-v2",
     type: "wildlife",
     name: { de: "Wadi Gaza Naturschutzgebiet", hu: "Wadi Gaza természetvédelmi terület", ro: "Rezervația Naturală Wadi Gaza", en: "Wadi Gaza Nature Reserve" },
-    coordinates: { lat: 31.4481, lng: 34.4019 },
+    coords: [34.4019, 31.4481],
     description: {
       de: "Das Wadi Gaza ist ein wichtiges Feuchtgebiet im Gazastreifen, das als Rastplatz für Zugvögel dient. Es beherbergt eine Vielzahl von Küstenpflanzen.",
       hu: "A Wadi Gaza a Gázai övezet egyik legfontosabb vizes élőhelye, amely vonuló madarak pihenőhelye. Számos tengerparti növényfajnak ad otthont.",
@@ -43,7 +43,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-al-quff-life-v2",
     type: "forest",
     name: { de: "Wadi al-Quff Naturschutzgebiet", hu: "Wadi al-Quff természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Quff", en: "Wadi al-Quff Nature Reserve" },
-    coordinates: { lat: 31.5786, lng: 35.0514 },
+    coords: [35.0514, 31.5786],
     description: {
       de: "Dieses Reservat bei Hebron ist das erste staatlich anerkannte Naturschutzgebiet in Palästina. Es umfasst dichte Pinienwälder und Kalksteinhöhlen.",
       hu: "Ez a Hebron melletti rezervátum Palesztina első hivatalos természetvédelmi területe. Sűrű fenyőerdők és mészkőbarlangok jellemzik a tájat.",
@@ -62,7 +62,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-umm-ar-rihan-life-v2",
     type: "forest",
     name: { de: "Umm ar-Rihan Wald", hu: "Umm ar-Rihan erdő", ro: "Pădurea Umm ar-Rihan", en: "Umm ar-Rihan Forest" },
-    coordinates: { lat: 32.5167, lng: 35.15 },
+    coords: [35.15, 32.5167],
     description: {
       de: "Umm ar-Rihan ist ein bedeutender mediterraner Eichenwald im Norden des Westjordanlandes. Er bietet Schutz für zahlreiche seltene Orchideenarten.",
       hu: "Umm ar-Rihan egy jelentős mediterrán tölgyerdő Ciszjordánia északi részén. Számos ritka orchideafajnak nyújt védett élőhelyet.",
@@ -81,7 +81,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-ein-feshkha-life-v2",
     type: "wildlife",
     name: { de: "Ein Feshkha Quellen", hu: "Ein Feshkha források", ro: "Izvoarele Ein Feshkha", en: "Ein Feshkha Springs" },
-    coordinates: { lat: 31.7114, lng: 35.4522 },
+    coords: [35.4522, 31.7114],
     description: {
       de: "Diese Süßwasserquellen am Ufer des Toten Meeres bilden eine grüne Oase in der Wüste. Sie unterstützen eine isolierte Population von Wüstenfischen.",
       hu: "Ezek az édesvízi források a Holt-tenger partján zöld oázist alkotnak a sivatagban. Egy elszigetelt sivatagi halfaj populációját tartják fenn.",
@@ -100,7 +100,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-kanah-life-v2",
     type: "wildlife",
     name: { de: "Wadi Kanah Naturschutzgebiet", hu: "Wadi Kanah természetvédelmi terület", ro: "Rezervația Naturală Wadi Kanah", en: "Wadi Kanah Nature Reserve" },
-    coordinates: { lat: 32.1383, lng: 35.0972 },
+    coords: [35.0972, 32.1383],
     description: {
       de: "Wadi Kanah ist bekannt für seine natürlichen Quellen und die traditionelle Landwirtschaft in den Bergen. Es beherbergt eine Vielfalt an Amphibien.",
       hu: "A Wadi Kanah híres természetes forrásairól és a hegyvidéki hagyományos mezőgazdaságáról. Számos kétéltűfaj számára biztosít élőhelyet.",
@@ -119,7 +119,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-battir-terraces-life-v2",
     type: "park",
     name: { de: "Kulturlandschaft von Battir", hu: "Battir ókori teraszai", ro: "Terasele Agricole din Battir", en: "Battir Cultural Landscape" },
-    coordinates: { lat: 31.7225, lng: 35.1328 },
+    coords: [35.1328, 31.7225],
     description: {
       de: "Die antiken Terrassen von Battir nutzen ein jahrtausendealtes Bewässerungssystem. Die Landschaft ist Lebensraum für viele endemische Pflanzenarten.",
       hu: "Battir ókori teraszai többezer éves öntözőrendszert használnak. A táj számos endemikus növényfajnak ad otthont a hegyoldalakon.",
@@ -138,7 +138,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-solomons-pools-life-v2",
     type: "lake",
     name: { de: "Teiche Salomos Naturbereich", hu: "Salamon tavai természetvédelmi terület", ro: "Bazinele lui Solomon", en: "Solomon's Pools Nature Area" },
-    coordinates: { lat: 31.6894, lng: 35.1764 },
+    coords: [35.1764, 31.6894],
     description: {
       de: "Drei antike Reservoirs sammeln Quellwasser in einem bewaldeten Tal bei Bethlehem. Das Gebiet ist ein Refugium für Wasservögel und Amphibien.",
       hu: "Három ókori víztározó gyűjti a forrásvizet egy erdős völgyben Betlehem mellett. A terület vízimadarak és kétéltűek fontos menedékhelye.",
@@ -157,7 +157,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-mount-gerizim-life-v2",
     type: "mountain",
     name: { de: "Berg Garizim Naturbereich", hu: "Garizim-hegy természetvédelmi terület", ro: "Muntele Garizim", en: "Mount Gerizim Nature Area" },
-    coordinates: { lat: 32.2003, lng: 35.2631 },
+    coords: [35.2631, 32.2003],
     description: {
       de: "Der Berg Garizim bietet einen weiten Blick über Nablus und beherbergt seltene Gebirgspflanzen. Er ist ein ökologisch wertvolles Kalksteingebiet.",
       hu: "A Garizim-hegy tágas kilátást nyújt Nábluszra és ritka hegyi növényeknek ad otthont. Ökológiailag értékes mészkőhegység.",
@@ -176,7 +176,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-mount-ebal-life-v2",
     type: "mountain",
     name: { de: "Berg Ebal Naturbereich", hu: "Ebál-hegy természetvédelmi terület", ro: "Muntele Ebal", en: "Mount Ebal Nature Area" },
-    coordinates: { lat: 32.2333, lng: 35.2742 },
+    coords: [35.2742, 32.2333],
     description: {
       de: "Der Berg Ebal ist der höchste Punkt im Norden des Westjordanlandes. Seine steilen Hänge bieten Lebensraum für Rebhühner und Greifvögel.",
       hu: "Az Ebál-hegy Ciszjordánia északi részének legmagasabb pontja. Meredek lejtői foglyok és ragadozó madarak számára nyújtanak élőhelyet.",
@@ -195,7 +195,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-al-fara-life-v2",
     type: "wildlife",
     name: { de: "Wadi al-Far'a Naturschutzgebiet", hu: "Wadi al-Far'a természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Far'a", en: "Wadi al-Far'a Nature Reserve" },
-    coordinates: { lat: 32.2908, lng: 35.3722 },
+    coords: [35.3722, 32.2908],
     description: {
       de: "Dieses fruchtbare Tal im Jordantal verfügt über reichlich Wasserressourcen. Es ist ein wichtiges landwirtschaftliches und ökologisches Gebiet.",
       hu: "Ez a termékeny völgy a Jordán-völgyben bőséges vízkészletekkel rendelkezik. Fontos mezőgazdasági és ökológiai terület.",
@@ -214,7 +214,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-an-nar-life-v2",
     type: "valley",
     name: { de: "Wadi an-Nar Tal", hu: "Wadi an-Nar völgy", ro: "Valea Wadi an-Nar", en: "Wadi an-Nar Valley" },
-    coordinates: { lat: 31.7136, lng: 35.2858 },
+    coords: [35.2858, 31.7136],
     description: {
       de: "Das Wadi an-Nar ist ein dramatisches Canyon-System, das vom Kidrontal zum Toten Meer führt. Es beherbergt spezialisierte Wüstenvegetation.",
       hu: "A Wadi an-Nar egy látványos kanyonszakasz, amely a Kidron-völgytől a Holt-tengerig tart. Speciális sivatagi növényzetnek ad otthont.",
@@ -233,7 +233,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-makkuk-life-v2",
     type: "wildlife",
     name: { de: "Wadi el-Makkuk Naturschutzgebiet", hu: "Wadi el-Makkuk természetvédelmi terület", ro: "Rezervația Naturală Wadi el-Makkuk", en: "Wadi el-Makkuk Nature Reserve" },
-    coordinates: { lat: 31.8622, lng: 35.385 },
+    coords: [35.385, 31.8622],
     description: {
       de: "Wadi el-Makkuk ist eine isolierte Schlucht in der Wüste mit einer einzigartigen Flora. Es ist ein Brutgebiet für seltene Adlerarten.",
       hu: "A Wadi el-Makkuk egy elszigetelt sivatagi szurdok egyedi flórával. Ritka sasfajok fontos fészkelőhelye.",
@@ -252,7 +252,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-og-life-v2",
     type: "valley",
     name: { de: "Wadi Og Naturbereich", hu: "Wadi Og természetvédelmi terület", ro: "Valea Wadi Og", en: "Wadi Og Nature Area" },
-    coordinates: { lat: 31.7825, lng: 35.4314 },
+    coords: [35.4314, 31.7825],
     description: {
       de: "Das Wadi Og ist bekannt für seine engen Schluchten und saisonalen Sturzfluten. Es ist ein Lebensraum für spezialisierte Wüstenechsen und Vögel.",
       hu: "A Wadi Og híres szűk szurdokairól és időszakos áradásairól. Speciális sivatagi gyíkok és madarak élőhelye.",
@@ -271,7 +271,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-jericho-oasis-life-v2",
     type: "park",
     name: { de: "Oase von Jericho", hu: "Jerikói oázis", ro: "Oaza Ierihon", en: "Jericho Oasis" },
-    coordinates: { lat: 31.86, lng: 35.46 },
+    coords: [35.46, 31.86],
     description: {
       de: "Die Oase von Jericho wird von der Ein es-Sultan-Quelle gespeist und beherbergt Palmenhaine. Sie ist ein wichtiger Knotenpunkt für Biodiversität.",
       hu: "A jerikói oázist az Ein es-Sultan forrás táplálja, gazdag pálmaligeteknek ad otthont. A biodiverzitás fontos csomópontja a sivatagban.",
@@ -290,7 +290,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-dead-sea-west-life-v2",
     type: "lake",
     name: { de: "Totes Meer Westufer", hu: "Holt-tenger nyugati part", ro: "Malul vestic al Mării Moarte", en: "Dead Sea West Shore" },
-    coordinates: { lat: 31.75, lng: 35.5 },
+    coords: [35.5, 31.75],
     description: {
       de: "Das Westufer des Toten Meeres ist geprägt von Salzkristallen und extremen Bedingungen. Die angrenzenden Berge beherbergen Schakale und Hyänen.",
       hu: "A Holt-tenger nyugati partját sókristályok és extrém környezet jellemzi. A környező hegyek sakálok és hiénák élőhelyei.",
@@ -309,7 +309,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-al-badhan-life-v2",
     type: "river",
     name: { de: "Wadi al-Badhan Naturbereich", hu: "Wadi al-Badhan természetvédelmi terület", ro: "Valea Wadi al-Badhan", en: "Wadi al-Badhan Nature Area" },
-    coordinates: { lat: 32.2614, lng: 35.3128 },
+    coords: [35.3128, 32.2614],
     description: {
       de: "Wadi al-Badhan ist ein wasserreiches Tal nordöstlich von Nablus mit vielen Kaskaden. Es beherbergt eine reiche Population an Wasserkrebsen.",
       hu: "A Wadi al-Badhan egy Náblusztól északkeletre fekvő, vízben gazdag völgy vízesésekkel. Jelentős édesvízi rákpopulációnak ad otthont.",
@@ -328,7 +328,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-al-dilb-life-v2",
     type: "wildlife",
     name: { de: "Wadi al-Dilb Naturschutzgebiet", hu: "Wadi al-Dilb természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Dilb", en: "Wadi al-Dilb Nature Reserve" },
-    coordinates: { lat: 31.9125, lng: 35.1436 },
+    coords: [35.1436, 31.9125],
     description: {
       de: "Wadi al-Dilb westlich von Ramallah zeichnet sich durch seine Platanen und Quellen aus. Es bietet Lebensraum für verschiedene Wildblumen und Insekten.",
       hu: "A Ramallahtól nyugatra fekvő Wadi al-Dilb platánfáiról és forrásairól ismert. Különféle vadvirágoknak és rovaroknak nyújt élőhelyet.",
@@ -347,7 +347,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-fukin-life-v2",
     type: "valley",
     name: { de: "Wadi Fukin Tal", hu: "Wadi Fukin völgy", ro: "Valea Wadi Fukin", en: "Wadi Fukin Valley" },
-    coordinates: { lat: 31.7111, lng: 35.1028 },
+    coords: [35.1028, 31.7111],
     description: {
       de: "Das Wadi Fukin ist bekannt für seine traditionellen landwirtschaftlichen Terrassen und elf Quellen. Es ist ein Beispiel für nachhaltige Ökosysteme.",
       hu: "A Wadi Fukin híres hagyományos mezőgazdasági teraszairól és tizenegy forrásáról. A fenntartható ökoszisztémák egyik mintapéldája.",
@@ -366,7 +366,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-al-auja-spring-life-v2",
     type: "wildlife",
     name: { de: "Al-Auja Quelle", hu: "Al-Auja forrás", ro: "Izvorul Al-Auja", en: "Al-Auja Spring" },
-    coordinates: { lat: 31.9422, lng: 35.4314 },
+    coords: [35.4314, 31.9422],
     description: {
       de: "Die Al-Auja Quelle im Jordantal ist eine wichtige Wasserquelle für Mensch und Tier. Sie speist ein Wadi, das reich an Wüstenvegetation ist.",
       hu: "A Jordán-völgyi Al-Auja forrás létfontosságú vízforrás embernek és állatnak egyaránt. Sivatagi növényzetben gazdag vádit táplál.",
@@ -385,7 +385,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-ez-zarka-life-v2",
     type: "valley",
     name: { de: "Wadi ez-Zarka Naturbereich", hu: "Wadi ez-Zarka természetvédelmi terület", ro: "Valea Wadi ez-Zarka", en: "Wadi ez-Zarka Nature Area" },
-    coordinates: { lat: 32.0514, lng: 35.1028 },
+    coords: [35.1028, 32.0514],
     description: {
       de: "Wadi ez-Zarka bei Salfit ist ein tiefes Tal mit dichter mediterraner Macchia. Es beherbergt Wildschweine und verschiedene Vogelarten.",
       hu: "A Szalfit melletti Wadi ez-Zarka egy mély völgy sűrű mediterrán macchiával. Vaddisznóknak és különféle madárfajoknak ad otthont.",
@@ -404,7 +404,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-hafi-life-v2",
     type: "wildlife",
     name: { de: "Wadi el-Hafi Naturbereich", hu: "Wadi el-Hafi természetvédelmi terület", ro: "Valea Wadi el-Hafi", en: "Wadi el-Hafi Nature Area" },
-    coordinates: { lat: 32.3211, lng: 35.0525 },
+    coords: [35.0525, 32.3211],
     description: {
       de: "Wadi el-Hafi liegt bei Tulkarm und ist für seine reiche Insektenfauna und Wildblumen bekannt. Es bildet einen grünen Korridor in der Region.",
       hu: "A Tulkarm melletti Wadi el-Hafi gazdag rovarvilágáról és vadvirágairól ismert. Zöld folyosót alkot a régióban a vadon élő állatoknak.",
@@ -423,7 +423,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-gaza-coastal-dunes-life-v2",
     type: "wildlife",
     name: { de: "Gaza Küstendünen", hu: "Gázai tengerparti dűnék", ro: "Dunele de Coastă din Gaza", en: "Gaza Coastal Dunes" },
-    coordinates: { lat: 31.5, lng: 34.45 },
+    coords: [34.45, 31.5],
     description: {
       de: "Die Küstendünen im Gazastreifen beherbergen spezialisierte Pflanzen und Reptilien. Sie sind ein wichtiges Barriere-Ökosystem zum Mittelmeer.",
       hu: "A Gázai övezet tengerparti dűnéi speciális növényeknek és hüllőknek adnak otthont. Fontos gát-ökoszisztémát alkotnak a Földközi-tengernél.",
@@ -442,7 +442,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-al-qattamine-life-v2",
     type: "forest",
     name: { de: "Al-Qattamine Naturbereich", hu: "Al-Qattamine természetvédelmi terület", ro: "Zona Naturală Al-Qattamine", en: "Al-Qattamine Nature Area" },
-    coordinates: { lat: 31.6528, lng: 35.0836 },
+    coords: [35.0836, 31.6528],
     description: {
       de: "Al-Qattamine ist ein Waldgebiet bei Hebron mit einer Mischung aus natürlichen Eichen und Pinien. Es beherbergt verschiedene kleine Säugetiere.",
       hu: "Az Al-Qattamine egy Hebron közeli erdőség, ahol tölgyesek és fenyvesek keverednek. Különféle kisemlősök számára biztosít élőhelyet.",
@@ -461,7 +461,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-arayis-life-v2",
     type: "wildlife",
     name: { de: "Wadi el-Arayis Naturbereich", hu: "Wadi el-Arayis természetvédelmi terület", ro: "Valea Wadi el-Arayis", en: "Wadi el-Arayis Nature Area" },
-    coordinates: { lat: 31.7514, lng: 35.2536 },
+    coords: [35.2536, 31.7514],
     description: {
       de: "Wadi el-Arayis ist ein abgelegenes Tal in der Judäischen Wüste mit beeindruckenden Felsformationen. Es ist ein Rückzugsort für Wüstenwildtiere.",
       hu: "A Wadi el-Arayis egy távoli völgy a Júdeai-sivatagban, lenyűgöző sziklaformációkkal. Fontos menedékhely a sivatagi vadvilág számára.",
@@ -480,7 +480,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-mount-of-temptation-life-v2",
     type: "mountain",
     name: { de: "Berg der Versuchung Naturbereich", hu: "Megkísértés hegye természetvédelmi terület", ro: "Muntele Ispitirii", en: "Mount of Temptation Slopes" },
-    coordinates: { lat: 31.8739, lng: 35.4317 },
+    coords: [35.4317, 31.8739],
     description: {
       de: "Die Hänge des Berges der Versuchung bei Jericho beherbergen seltene Wüstenpflanzen und Fledermäuse in Höhlen. Er überragt das Jordantal.",
       hu: "A Megkísértés hegyének lejtői Jerikónál ritka sivatagi növényeknek és barlangi denevéreknek adnak otthont. A Jordán-völgy fölé magasodik.",
@@ -499,7 +499,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-ein-es-sultan-life-v2",
     type: "wildlife",
     name: { de: "Ein es-Sultan Quelle", hu: "Ein es-Sultan forrás", ro: "Izvorul Ein es-Sultan", en: "Ein es-Sultan Spring" },
-    coordinates: { lat: 31.8656, lng: 35.4444 },
+    coords: [35.4444, 31.8656],
     description: {
       de: "Die Ein es-Sultan Quelle ist die wichtigste Wasserquelle für Jericho und ermöglicht seit 10.000 Jahren Leben. Sie speist das lokale Ökosystem.",
       hu: "Az Ein es-Sultan forrás Jerikó legfontosabb vízforrása, 10 000 éve teszi lehetővé az életet. A helyi ökoszisztémát táplálja.",
@@ -518,7 +518,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-mureijat-life-v2",
     type: "wildlife",
     name: { de: "Wadi el-Mureijat Naturbereich", hu: "Wadi el-Mureijat természetvédelmi terület", ro: "Rezervația Wadi el-Mureijat", en: "Wadi el-Mureijat Nature Area" },
-    coordinates: { lat: 31.8825, lng: 35.3514 },
+    coords: [35.3514, 31.8825],
     description: {
       de: "Wadi el-Mureijat zeichnet sich durch seine extremen Höhenunterschiede und seltene Gesteinsflora aus. Es ist ein wichtiger Teil des zentralen Hochlands.",
       hu: "A Wadi el-Mureijat extrém szintkülönbségeiről és ritka sziklalakó növényeiről ismert. A központi felföld fontos ökológiai része.",
@@ -537,7 +537,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-asalah-life-v2",
     type: "wildlife",
     name: { de: "Wadi el-Asalah Naturbereich", hu: "Wadi el-Asalah természetvédelmi terület", ro: "Valea Wadi el-Asalah", en: "Wadi el-Asalah Nature Area" },
-    coordinates: { lat: 31.5514, lng: 35.1528 },
+    coords: [35.1528, 31.5514],
     description: {
       de: "Wadi el-Asalah liegt südlich von Hebron und ist für seine alten Olivenbäume und Artenvielfalt bekannt. Es bildet ein traditionelles Agrar-Ökosystem.",
       hu: "A Hebrontól délre fekvő Wadi el-Asalah ősi olajfáiról és biodiverzitásáról ismert. Hagyományos mezőgazdasági ökoszisztémát alkot.",
@@ -556,7 +556,7 @@ export const palestineLifeV2: POI[] = [
     id: "palestine-wadi-el-loz-life-v2",
     type: "valley",
     name: { de: "Wadi el-Loz (Mandeltal)", hu: "Wadi el-Loz (Mandula-völgy)", ro: "Wadi el-Loz (Valea Migdalilor)", en: "Wadi el-Loz (Almond Valley)" },
-    coordinates: { lat: 31.7025, lng: 35.1514 },
+    coords: [35.1514, 31.7025],
     description: {
       de: "Das Mandeltal bei Bethlehem ist berühmt für seine Mandelblüte im Frühling. Es beherbergt eine Vielzahl von Singvögeln in seinen Obstgärten.",
       hu: "A Betlehem melletti Mandula-völgy híres tavaszi mandulavirágzásáról. Számos énekesmadárnak ad otthont gyümölcsöseiben.",

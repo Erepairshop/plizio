@@ -5,7 +5,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-gros-piton-nature-v2",
     type: "peak",
     name: { de: "Gros Piton", hu: "Gros Piton", ro: "Gros Piton", en: "Gros Piton" },
-    coordinates: { lat: 13.8048, lng: -61.0658 },
+    coords: [-61.0658, 13.8048],
     description: {
       de: "Der Gros Piton ist ein markanter Vulkangipfel im Südwesten von Saint Lucia. Er erreicht eine Höhe von 798 Metern über dem Meeresspiegel.",
       hu: "A Gros Piton egy markáns vulkáni csúcs Saint Lucia délnyugati részén. A tengerszint feletti magassága eléri a 798 métert.",
@@ -24,7 +24,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-petit-piton-nature-v2",
     type: "peak",
     name: { de: "Petit Piton", hu: "Petit Piton", ro: "Petit Piton", en: "Petit Piton" },
-    coordinates: { lat: 13.8365, lng: -61.0642 },
+    coords: [-61.0642, 13.8365],
     description: {
       de: "Der Petit Piton ist der kleinere der beiden berühmten Zwillingsgipfel bei Soufriere. Er ist steiler als sein Nachbar und 743 Meter hoch.",
       hu: "A Petit Piton a két híres ikercsúcs kisebbike Soufriere közelében. Szomszédjánál meredekebb, magassága 743 méter.",
@@ -43,7 +43,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-sulphur-springs-nature-v2",
     type: "landmark",
     name: { de: "Sulphur Springs", hu: "Sulphur Springs", ro: "Sulphur Springs", en: "Sulphur Springs" },
-    coordinates: { lat: 13.8383, lng: -61.0561 },
+    coords: [-61.0561, 13.8383],
     description: {
       de: "Sulphur Springs gilt als der einzige Drive-in-Vulkan der Welt. Es ist ein aktives geothermisches Gebiet mit kochenden Schlammbecken.",
       hu: "A Sulphur Springs a világ egyetlen autóval bejárható vulkánjaként ismert. Ez egy aktív geotermikus terület forró iszapmedencékkel.",
@@ -62,7 +62,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-diamond-falls-nature-v2",
     type: "landmark",
     name: { de: "Diamond Falls", hu: "Diamond vízesés", ro: "Cascada Diamond", en: "Diamond Falls" },
-    coordinates: { lat: 13.8524, lng: -61.0471 },
+    coords: [-61.0471, 13.8524],
     description: {
       de: "Der Diamond-Wasserfall ist für seine mineralhaltigen Ablagerungen bekannt, die die Felswand färben. Er liegt in einem botanischen Garten.",
       hu: "A Diamond-vízesés az ásványi lerakódásokról ismert, amelyek elszínezik a sziklafalat. Egy botanikus kertben található.",
@@ -81,7 +81,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-toraille-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Toraille Wasserfall", hu: "Toraille vízesés", ro: "Cascada Toraille", en: "Toraille Waterfall" },
-    coordinates: { lat: 13.8584, lng: -61.0412 },
+    coords: [-61.0412, 13.8584],
     description: {
       de: "Der Toraille-Wasserfall stürzt aus etwa 15 Metern Höhe in ein natürliches Becken. Er ist von üppiger tropischer Vegetation umgeben.",
       hu: "A Toraille-vízesés körülbelül 15 méter magasból zúdul egy természetes medencébe. Lush trópusi növényzet veszi körül.",
@@ -100,7 +100,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-mount-gimie-nature-v2",
     type: "peak",
     name: { de: "Mount Gimie", hu: "Mount Gimie", ro: "Muntele Gimie", en: "Mount Gimie" },
-    coordinates: { lat: 13.8614, lng: -61.0017 },
+    coords: [-61.0017, 13.8614],
     description: {
       de: "Der Mount Gimie ist mit 950 Metern der höchste Berg von Saint Lucia. Er ist vulkanischen Ursprungs und liegt im Zentrum der Insel.",
       hu: "A Mount Gimie 950 méterével Saint Lucia legmagasabb hegye. Vulkáni eredetű és a sziget közepén található.",
@@ -119,7 +119,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-piton-flore-nature-v2",
     type: "peak",
     name: { de: "Piton Flore", hu: "Piton Flore", ro: "Piton Flore", en: "Piton Flore" },
-    coordinates: { lat: 13.945, lng: -60.945 },
+    coords: [-60.945, 13.945],
     description: {
       de: "Der Piton Flore ist ein Berg im nördlichen Teil der Insel, der für seine üppige Vegetation bekannt ist. Er erreicht eine Höhe von 564 Metern.",
       hu: "A Piton Flore egy hegy a sziget északi részén, amely dús növényzetéről ismert. Magassága 564 méter.",
@@ -138,7 +138,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-roseau-river-nature-v2",
     type: "river",
     name: { de: "Roseau River", hu: "Roseau-folyó", ro: "Râul Roseau", en: "Roseau River" },
-    coordinates: { lat: 13.9353, lng: -61.0264 },
+    coords: [-61.0264, 13.9353],
     description: {
       de: "Der Roseau River ist einer der längsten Flüsse von Saint Lucia. Er fließt durch fruchtbare Täler und mündet an der Westküste ins Meer.",
       hu: "A Roseau-folyó Saint Lucia egyik leghosszabb folyója. Termékeny völgyeken folyik keresztül, és a nyugati parton torkollik a tengerbe.",
@@ -157,7 +157,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-anse-chastanet-reef-nature-v2",
     type: "wildlife",
     name: { de: "Anse Chastanet Riff", hu: "Anse Chastanet korallzátony", ro: "Reciful Anse Chastanet", en: "Anse Chastanet Reef" },
-    coordinates: { lat: 13.8642, lng: -61.0769 },
+    coords: [-61.0769, 13.8642],
     description: {
       de: "Das Riff von Anse Chastanet ist ein geschütztes Meeresgebiet an der Südwestküste. Es ist berühmt für seine hohe Artenvielfalt an Fischen und Korallen.",
       hu: "Az Anse Chastanet zátony egy védett tengeri terület a délnyugati parton. Híres a halak és korallok nagy fajgazdagságáról.",
@@ -176,7 +176,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-maria-islands-nature-v2",
     type: "wildlife",
     name: { de: "Maria Islands", hu: "Maria-szigetek", ro: "Insulele Maria", en: "Maria Islands" },
-    coordinates: { lat: 13.7272, lng: -60.9294 },
+    coords: [-60.9294, 13.7272],
     description: {
       de: "Die Maria Islands sind zwei kleine unbewohnte Inseln vor der Südostküste. Sie sind ein streng geschütztes Naturschutzgebiet für seltene Reptilien.",
       hu: "A Maria-szigetek két kicsi, lakatlan sziget a délkeleti partoknál. Szigorúan védett természetvédelmi terület ritka hüllők számára.",
@@ -195,7 +195,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-dennery-falls-nature-v2",
     type: "landmark",
     name: { de: "Dennery Wasserfall", hu: "Dennery vízesés", ro: "Cascada Dennery", en: "Dennery Falls" },
-    coordinates: { lat: 13.9053, lng: -60.9261 },
+    coords: [-60.9261, 13.9053],
     description: {
       de: "Der Dennery-Wasserfall, auch als Sault Falls bekannt, liegt versteckt im Osten der Insel. Er stürzt über eine breite Felskante in ein tiefes Becken.",
       hu: "A Dennery-vízesés, más néven Sault Falls, a sziget keleti részén rejtőzik. Egy széles sziklafalon zúdul le egy mély medencébe.",
@@ -214,7 +214,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-soufriere-river-nature-v2",
     type: "river",
     name: { de: "Soufriere River", hu: "Soufriere-folyó", ro: "Râul Soufriere", en: "Soufriere River" },
-    coordinates: { lat: 13.8558, lng: -61.0558 },
+    coords: [-61.0558, 13.8558],
     description: {
       de: "Der Soufriere River entspringt in den Bergen des Zentrums und fließt durch die Stadt Soufriere. Er wird von vulkanischen Quellen gespeist.",
       hu: "A Soufriere-folyó a központi hegyekben ered és Soufriere városán folyik keresztül. Vulkáni források táplálják.",
@@ -233,7 +233,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-latille-falls-nature-v2",
     type: "landmark",
     name: { de: "Latille Wasserfall", hu: "Latille-vízesés", ro: "Cascada Latille", en: "Latille Falls" },
-    coordinates: { lat: 13.8658, lng: -60.9142 },
+    coords: [-60.9142, 13.8658],
     description: {
       de: "Der Latille-Wasserfall ist ein verstecktes Juwel in der Gemeinde Micoud. Er ist von Gärten mit einer Vielzahl tropischer Pflanzen umgeben.",
       hu: "A Latille-vízesés egy rejtett gyöngyszem Micoud községben. Trópusi növények sokaságával teli kertek veszik körül.",
@@ -252,7 +252,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-piton-mitan-nature-v2",
     type: "peak",
     name: { de: "Piton Mitan", hu: "Piton Mitan", ro: "Piton Mitan", en: "Piton Mitan" },
-    coordinates: { lat: 13.8953, lng: -61.0114 },
+    coords: [-61.0114, 13.8953],
     description: {
       de: "Piton Mitan ist ein Berg im Zentrum der Insel, der oft bei Wanderungen durch den Regenwald besucht wird. Er bietet weite Panoramablicke.",
       hu: "A Piton Mitan egy hegy a sziget közepén, amelyet gyakran látogatnak az esőerdei túrák során. Széles panorámás kilátást nyújt.",
@@ -271,7 +271,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-frigate-island-nature-v2",
     type: "wildlife",
     name: { de: "Frigate Island", hu: "Frigate-sziget", ro: "Insula Fregatei", en: "Frigate Island" },
-    coordinates: { lat: 13.8822, lng: -60.8911 },
+    coords: [-60.8911, 13.8822],
     description: {
       de: "Frigate Island ist ein kleines Naturschutzgebiet vor der Ostküste. Es ist ein wichtiger Brutplatz für Prachtfregattvögel.",
       hu: "A Frigate-sziget egy kis természetvédelmi terület a keleti partoknál. A pompás fregattmadarak fontos költőhelye.",
@@ -290,7 +290,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-savannes-bay-nature-v2",
     type: "landmark",
     name: { de: "Savannes Bay", hu: "Savannes-öböl", ro: "Golful Savannes", en: "Savannes Bay" },
-    coordinates: { lat: 13.7483, lng: -60.9153 },
+    coords: [-60.9153, 13.7483],
     description: {
       de: "Die Savannes Bay ist ein geschütztes Meeres- und Küstengebiet im Südosten. Sie umfasst wichtige Mangrovenwälder und Korallenriffe.",
       hu: "A Savannes-öböl egy védett tengeri és parti terület délkeleten. Fontos mangroveerdőket és korallzátonyokat foglal magában.",
@@ -309,7 +309,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-troumasse-river-nature-v2",
     type: "river",
     name: { de: "Troumasse River", hu: "Troumasse-folyó", ro: "Râul Troumasse", en: "Troumasse River" },
-    coordinates: { lat: 13.8267, lng: -60.9017 },
+    coords: [-60.9017, 13.8267],
     description: {
       de: "Der Troumasse River ist ein bedeutender Fluss an der Ostküste von Saint Lucia. Er fließt durch unberührte Naturräume bis zum Atlantik.",
       hu: "A Troumasse-folyó egy jelentős folyó Saint Lucia keleti partján. Érintetlen természeti területeken folyik keresztül az Atlanti-óceánig.",
@@ -328,7 +328,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-canaries-river-nature-v2",
     type: "river",
     name: { de: "Canaries River", hu: "Canaries-folyó", ro: "Râul Canaries", en: "Canaries River" },
-    coordinates: { lat: 13.9058, lng: -61.0642 },
+    coords: [-61.0642, 13.9058],
     description: {
       de: "Der Canaries River fließt durch das gleichnamige Dorf an der Westküste. Er ist von steilen Hügeln und dichter Vegetation umgeben.",
       hu: "A Canaries-folyó az azonos nevű falun folyik keresztül a nyugati parton. Meredek dombok és dús növényzet veszi körül.",
@@ -347,7 +347,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-cul-de-sac-valley-nature-v2",
     type: "valley",
     name: { de: "Cul de Sac Tal", hu: "Cul de Sac-völgy", ro: "Valea Cul de Sac", en: "Cul de Sac Valley" },
-    coordinates: { lat: 13.9781, lng: -61.0022 },
+    coords: [-61.0022, 13.9781],
     description: {
       de: "Das Cul de Sac Tal ist ein breites, fruchtbares Tal südlich von Castries. Es ist eines der wichtigsten landwirtschaftlichen Gebiete der Insel.",
       hu: "A Cul de Sac-völgy egy széles, termékeny völgy Castriestől délre. A sziget egyik legfontosabb mezőgazdasági területe.",
@@ -366,7 +366,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-praslin-island-nature-v2",
     type: "wildlife",
     name: { de: "Praslin Island", hu: "Praslin-sziget", ro: "Insula Praslin", en: "Praslin Island" },
-    coordinates: { lat: 13.8753, lng: -60.8942 },
+    coords: [-60.8942, 13.8753],
     description: {
       de: "Praslin Island ist eine kleine Insel vor der Ostküste, die für ihre endemischen Eidechsen bekannt ist. Sie ist Teil eines Naturschutzgebiets.",
       hu: "A Praslin-sziget egy kis sziget a keleti partoknál, amely endemikus gyíkjairól ismert. Egy természetvédelmi terület része.",
@@ -385,7 +385,7 @@ export const saintluciaNatureV2: POI[] = [
     id: "saintlucia-sapphire-falls-nature-v2",
     type: "landmark",
     name: { de: "Sapphire Falls", hu: "Sapphire-vízesés", ro: "Cascada Sapphire", en: "Sapphire Falls" },
-    coordinates: { lat: 13.8444, lng: -61.0483 },
+    coords: [-61.0483, 13.8444],
     description: {
       de: "Die Sapphire Falls sind ein abgelegener Wasserfall in der Nähe von Soufriere. Das Wasser ist aufgrund mineralischer Quellen oft leicht getrübt.",
       hu: "A Sapphire-vízesés egy félreeső vízesés Soufriere közelében. A víz az ásványi források miatt gyakran enyhén zavaros.",

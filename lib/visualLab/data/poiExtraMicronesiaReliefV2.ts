@@ -5,7 +5,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-mount-tabiwol-relief-v2",
     type: "mountain",
     name: { de: "Berg Tabiwol", hu: "Tabiwol-hegy", ro: "Muntele Tabiwol", en: "Mount Tabiwol" },
-    coordinates: { lat: 9.5492, lng: 138.1186 },
+    coords: [138.1186, 9.5492],
     description: {
       de: "Der Mount Tabiwol ist der höchste Berg auf der Hauptinsel von Yap. Er bietet einen weiten Blick über die flacheren Küstengebiete der Insel.",
       hu: "A Tabiwol-hegy Yap szigetének legmagasabb pontja Mikronéziában. Bár magassága szerény, meghatározza a sziget belső domborzati képét.",
@@ -24,7 +24,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-mount-ngihnen-relief-v2",
     type: "peak",
     name: { de: "Berg Ngihnen", hu: "Ngihnen-hegy", ro: "Muntele Ngihnen", en: "Mount Ngihnen" },
-    coordinates: { lat: 6.8911, lng: 158.2322 },
+    coords: [158.2322, 6.8911],
     description: {
       de: "Der Mount Ngihnen ist der zweithöchste Gipfel in Pohnpei und im gesamten Land. Er liegt in den zerklüfteten zentralen Highlands.",
       hu: "A Ngihnen-hegy Pohnpei és az egész ország második legmagasabb csúcsa. A hegy a központi felföldek nehezen megközelíthető részén fekszik.",
@@ -43,7 +43,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-sleeping-lady-relief-v2",
     type: "landmark",
     name: { de: "Schlafende Dame von Kosrae", hu: "Kosrae alvó hölgye", ro: "Doamna Adormită din Kosrae", en: "Kosrae Sleeping Lady" },
-    coordinates: { lat: 5.3314, lng: 162.9997 },
+    coords: [162.9997, 5.3314],
     description: {
       de: "Die Schlafende Dame ist eine markante Gebirgskette auf Kosrae, deren Silhouette einer liegenden Frau ähnelt. Sie ist das Wahrzeichen der Insel.",
       hu: "Az alvó hölgy egy hegyvonulat Kosrae szigetén, amelynek körvonala egy fekvő női alakot formáz. Ez a sziget legnépszerűbb vizuális jelképe.",
@@ -62,7 +62,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-mount-teroken-relief-v2",
     type: "mountain",
     name: { de: "Berg Teroken", hu: "Teroken-hegy", ro: "Muntele Teroken", en: "Mount Teroken" },
-    coordinates: { lat: 7.4419, lng: 151.8511 },
+    coords: [151.8511, 7.4419],
     description: {
       de: "Der Mount Teroken ist ein markanter Hügel auf der Insel Weno in Chuuk. Er diente im Zweiten Weltkrieg als wichtiger Beobachtungspunkt.",
       hu: "A Teroken-hegy Weno szigetének meghatározó magaslata Chuuk államban. A második világháború alatt stratégiai figyelőpontként használták.",
@@ -81,7 +81,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-mount-oma-relief-v2",
     type: "peak",
     name: { de: "Berg Oma", hu: "Oma-hegy", ro: "Muntele Oma", en: "Mount Oma" },
-    coordinates: { lat: 5.3025, lng: 162.9736 },
+    coords: [162.9736, 5.3025],
     description: {
       de: "Der Mount Oma ist ein bedeutender Gipfel im Landesinneren von Kosrae. Er ist für sein zerklüftetes Gelände und unberührte Wasserfälle bekannt.",
       hu: "Az Oma-hegy Kosrae belső részének egyik jelentős csúcsa. Ismert a meredek terepviszonyairól és a sűrű erdőkben rejtőző vízeséseiről.",
@@ -100,7 +100,7 @@ export const micronesiaReliefV2: POI[] = [
     id: "micronesia-dolohmwar-relief-v2",
     type: "peak",
     name: { de: "Dolohmwar", hu: "Dolohmwar", ro: "Dolohmwar", en: "Dolohmwar" },
-    coordinates: { lat: 6.8833, lng: 158.2167 },
+    coords: [158.2167, 6.8833],
     description: {
       de: "Dolohmwar ist ein hoher Gipfel in den Senjawin-Inseln auf Pohnpei. Er bildet einen Teil des bergigen Rückgrats im Zentrum der Insel.",
       hu: "A Dolohmwar Pohnpei egyik magas csúcsa a Senyavin-szigeteken. A hegy a sziget központi hegyvidéki gerincének egyik fontos alkotóeleme.",

@@ -546,7 +546,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-khalid-ibn-walid-mosque-landmarks-v2",
     type: "monument",
     name: { de: "Khalid-ibn-al-Walid-Moschee", hu: "Hálid ibn al-Valíd mecset", ro: "Moscheea Khalid ibn al-Walid", en: "Khalid ibn al-Walid Mosque" },
-    coordinates: { lat: 34.736, lng: 36.716 },
+    coords: [36.716, 34.736],
     description: {
       de: "Diese markante Moschee in Homs ist für ihre neun Kuppeln und zwei hohen Minarette bekannt. Sie beherbergt das Grab des Generals Khalid ibn al-Walid.",
       hu: "Ez a jellegzetes homszi mecset kilenc kupolájáról és két magas minaretjéről ismert. Itt található Hálid ibn al-Valíd hadvezér síremléke.",
@@ -565,7 +565,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-saint-ananias-chapel-landmarks-v2",
     type: "church",
     name: { de: "Ananias-Kapelle", hu: "Szent Ananiás-kápolna", ro: "Capela Sfântul Anania", en: "Saint Ananias Chapel" },
-    coordinates: { lat: 33.512, lng: 36.317 },
+    coords: [36.317, 33.512],
     description: {
       de: "Diese unterirdische Kapelle in Damaskus gilt als das Haus des Heiligen Ananias. Hier wurde der Apostel Paulus nach seiner Bekehrung geheilt.",
       hu: "Ez a damaszkuszi föld alatti kápolna a hagyomány szerint Szent Ananiás háza volt. Itt gyógyult meg Pál apostol a megtérése után.",
@@ -584,7 +584,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-saint-george-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster Sankt Georg", hu: "Szent György-kolostor", ro: "Mănăstirea Sfântul Gheorghe", en: "Saint George's Monastery" },
-    coordinates: { lat: 34.767, lng: 36.273 },
+    coords: [36.273, 34.767],
     description: {
       de: "Dieses griechisch-orthodoxe Kloster liegt im 'Tal der Christen' nahe dem Krak des Chevaliers. Es ist ein bedeutendes religiöses Zentrum.",
       hu: "Ez a görög ortodox kolostor a 'Keresztények völgyében' található, a Krak des Chevaliers közelében. Fontos vallási központ Szíriában.",
@@ -603,7 +603,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-chastel-blanc-landmarks-v2",
     type: "tower",
     name: { de: "Chastel Blanc (Weißer Turm)", hu: "Chastel Blanc (Fehér-torony)", ro: "Chastel Blanc (Turnul Alb)", en: "Chastel Blanc" },
-    coordinates: { lat: 34.821, lng: 36.119 },
+    coords: [36.119, 34.821],
     description: {
       de: "Der Weiße Turm in Safita ist der Überrest einer ehemaligen Kreuzritterburg. Er kombiniert eine Kapelle mit militärischer Verteidigung.",
       hu: "A szafitai Fehér-torony egy egykori keresztes lovagvár maradványa. Egy kápolnát ötvöz katonai védelmi funkciókkal.",
@@ -622,7 +622,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-hosn-suleiman-landmarks-v2",
     type: "ruins",
     name: { de: "Hosn Suleiman", hu: "Hoszn Szulejmán", ro: "Hosn Suleiman", en: "Hosn Suleiman" },
-    coordinates: { lat: 34.931, lng: 36.241 },
+    coords: [36.241, 34.931],
     description: {
       de: "Diese archäologische Stätte beherbergt die massiven Überreste eines antiken Heiligtums des Baalkitot. Sie liegt im nordsyrischen Küstengebirge.",
       hu: "Ez a régészeti lelőhely egy ősi Baalkitot-szentély hatalmas maradványait rejti. Az észak-szíriai parti hegységben található.",
@@ -641,7 +641,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-qalat-sheizar-landmarks-v2",
     type: "castle",
     name: { de: "Zitadelle von Schaizar", hu: "Sejzár vára", ro: "Cetatea Sheizar", en: "Citadel of Sheizar" },
-    coordinates: { lat: 35.267, lng: 36.565 },
+    coords: [36.565, 35.267],
     description: {
       de: "Diese Burg liegt strategisch günstig auf einer Klippe über dem Orontes-Fluss. Sie war im Mittelalter eine wichtige Festung gegen die Kreuzritter.",
       hu: "Ez a vár stratégiai helyen, az Orontész folyó feletti sziklán fekszik. A középkorban fontos erődítmény volt a keresztesek ellen.",
@@ -660,7 +660,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-maarrat-al-numan-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mosaikmuseum von Maarrat al-Numan", hu: "Maarrat al-Numán-i Mozaikmúzeum", ro: "Muzeul de Mozaic din Ma'arrat al-Nu'man", en: "Maarrat al-Nu'man Mosaic Museum" },
-    coordinates: { lat: 35.642, lng: 36.685 },
+    coords: [36.685, 35.642],
     description: {
       de: "Dieses Museum in einer osmanischen Karawanserei beherbergt eine der weltweit größten Sammlungen römischer und byzantinischer Mosaike.",
       hu: "Ez az oszmán karavánszerájban kialakított múzeum a világ egyik legnagyobb római és bizánci mozaikgyűjteményének ad otthont.",
@@ -679,7 +679,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-qalb-lozeh-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Qalb Lozeh", hu: "Kalb Loze-templom", ro: "Biserica Qalb Lozeh", en: "Qalb Lozeh Church" },
-    coordinates: { lat: 36.17, lng: 36.583 },
+    coords: [36.583, 36.17],
     description: {
       de: "Diese byzantinische Basilika aus dem 5. Jahrhundert gilt als Vorläufer der großen gotischen Kathedralen Europas.",
       hu: "Ez az 5. századi bizánci bazilika az európai gótikus katedrálisok építészeti előfutárának tekinthető.",
@@ -698,7 +698,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-ain-dara-temple-landmarks-v2",
     type: "ruins",
     name: { de: "Tempel von Ain Dara", hu: "Ain Dara-templom", ro: "Templul Ain Dara", en: "Ain Dara Temple" },
-    coordinates: { lat: 36.46, lng: 36.853 },
+    coords: [36.853, 36.46],
     description: {
       de: "Ain Dara ist ein späthethitischer Tempel, der für seine riesigen in den Stein gehauenen Fußabdrücke und Basaltreliefs bekannt ist.",
       hu: "Ain Dara egy késő hettita templom, amely a kőbe vésett hatalmas lábnyomairól és bazalt domborműveiről ismert.",
@@ -717,7 +717,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-jableh-roman-theatre-landmarks-v2",
     type: "landmark",
     name: { de: "Römisches Theater von Dschabla", hu: "Dzsabla-i római színház", ro: "Teatrul Roman din Jableh", en: "Roman Theatre of Jableh" },
-    coordinates: { lat: 35.359, lng: 35.927 },
+    coords: [35.927, 35.359],
     description: {
       de: "Dieses gut erhaltene römische Theater liegt mitten in der Küstenstadt Dschabla. Es bot einst Platz für bis zu 9.000 Zuschauer.",
       hu: "Ez a jól megőrzött római színház Dzsabla kikötővárosának központjában található. Egykor akár 9000 néző befogadására is alkalmas volt.",
@@ -736,7 +736,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-baghdad-gate-landmarks-v2",
     type: "monument",
     name: { de: "Bagdad-Tor", hu: "Bagdadi kapu", ro: "Poarta Bagdadului", en: "Baghdad Gate" },
-    coordinates: { lat: 35.946, lng: 39.025 },
+    coords: [39.025, 35.946],
     description: {
       de: "Das Bagdad-Tor ist ein Überrest der abbasidischen Stadtmauern von Raqqa. Es ist für seine dekorativen Ziegelverzierungen bekannt.",
       hu: "A Bagdadi kapu Rakka abbászida városfalának maradványa. Dekoratív téglafalazásáról és díszítéseiről ismert.",
@@ -755,7 +755,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-qasr-al-banat-landmarks-v2",
     type: "ruins",
     name: { de: "Qasr al-Banat", hu: "Kaszer al-Banát", ro: "Qasr al-Banat", en: "Qasr al-Banat" },
-    coordinates: { lat: 35.949, lng: 39.02 },
+    coords: [39.02, 35.949],
     description: {
       de: "Der Mädchenpalast ist eine Ruine aus der Zeit der Ayyubiden in Raqqa. Er diente vermutlich als fürstliche Residenz oder Schule.",
       hu: "A 'Lányok palotája' egy ajjúbida kori romegyüttes Rakkában. Feltehetően fejedelmi rezidenciaként vagy iskolaként szolgált.",
@@ -774,7 +774,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-aleppo-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Aleppo", hu: "Aleppói Nemzeti Múzeum", ro: "Muzeul Național din Alep", en: "National Museum of Aleppo" },
-    coordinates: { lat: 36.204, lng: 37.149 },
+    coords: [37.149, 36.204],
     description: {
       de: "Das Nationalmuseum in Aleppo beherbergt bedeutende Funde aus der Antike, insbesondere aus Tell Halaf und Ugarit.",
       hu: "Az aleppói Nemzeti Múzeum jelentős ókori leleteket őriz, különösen Tell Halaf és Ugarit területéről.",
@@ -793,7 +793,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-baron-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Hotel Baron", hu: "Baron Hotel", ro: "Hotel Baron", en: "Baron Hotel" },
-    coordinates: { lat: 36.204, lng: 37.152 },
+    coords: [37.152, 36.204],
     description: {
       de: "Das Hotel Baron in Aleppo ist das älteste Hotel Syriens und ein Symbol der kosmopolitischen Vergangenheit der Stadt.",
       hu: "Az aleppói Baron Hotel Szíria legrégebbi szállodája, a város kozmopolita múltjának egyik szimbóluma.",
@@ -812,7 +812,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-deir-ez-zor-suspension-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Hängebrücke von Deir ez-Zor", hu: "Dejr ez-Zór-i függőhíd", ro: "Podul Suspendat din Deir ez-Zor", en: "Deir ez-Zor Suspension Bridge" },
-    coordinates: { lat: 35.344, lng: 40.142 },
+    coords: [40.142, 35.344],
     description: {
       de: "Diese Brücke war ein Wahrzeichen von Deir ez-Zor über dem Euphrat. Sie verband die Stadtteile und galt als technisches Meisterwerk.",
       hu: "Ez a híd Dejr ez-Zór jelképe volt az Eufrátesz felett. Összekötötte a városrészeket és technikai remekműnek számított.",
@@ -831,7 +831,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-bab-tuma-landmarks-v2",
     type: "monument",
     name: { de: "Bab Tuma (Thomas-Tor)", hu: "Bab Tuma (Tamás-kapu)", ro: "Bab Tuma (Poarta Toma)", en: "Bab Tuma" },
-    coordinates: { lat: 33.514, lng: 36.313 },
+    coords: [36.313, 33.514],
     description: {
       de: "Das Thomas-Tor ist eines der sieben historischen Tore der Altstadt von Damaskus. Es ist Namensgeber für das umliegende christliche Viertel.",
       hu: "A Tamás-kapu Damaszkusz óvárosának hét történelmi kapuja közül az egyik. Nevét a környező keresztény negyedről kapta.",
@@ -850,7 +850,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-church-of-the-belt-landmarks-v2",
     type: "church",
     name: { de: "Kirche des Gürtels der Jungfrau Maria", hu: "Szűz Mária Szent Övének temploma", ro: "Biserica Brâul Maicii Domnului", en: "Saint Mary Church of the Holy Belt" },
-    coordinates: { lat: 34.729, lng: 36.714 },
+    coords: [36.714, 34.729],
     description: {
       de: "Diese Kirche in Homs bewahrt eine Reliquie auf, die als der Gürtel der Jungfrau Maria verehrt wird. Sie ist ein bedeutendes Heiligtum.",
       hu: "Ez a homszi templom egy ereklyét őriz, amelyet Szűz Mária öveként tisztelnek. Fontos szír ortodox szentély.",
@@ -869,7 +869,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-cherubim-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster der Cherubim", hu: "Kerub-kolostor", ro: "Mănăstirea Cheruvim", en: "Monastery of the Cherubim" },
-    coordinates: { lat: 33.722, lng: 36.353 },
+    coords: [36.353, 33.722],
     description: {
       de: "Dieses hoch gelegene Kloster oberhalb von Saidnaya bietet eine weite Aussicht. Es ist durch eine riesige Christusstatue weithin sichtbar.",
       hu: "Ez a Szaidnája felett magasan fekvő kolostor lenyűgöző kilátást nyújt. Hatalmas Krisztus-szobra messziről látható.",
@@ -888,7 +888,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-mushabbak-church-landmarks-v2",
     type: "church",
     name: { de: "Mushabbak-Kirche", hu: "Musabbak-templom", ro: "Biserica Mushabbak", en: "Mushabbak Church" },
-    coordinates: { lat: 36.257, lng: 36.885 },
+    coords: [36.885, 36.257],
     description: {
       de: "Die Mushabbak-Kirche ist eine außergewöhnlich gut erhaltene byzantinische Basilika in der Nähe von Aleppo.",
       hu: "A Musabbak-templom egy kivételesen jó állapotban fennmaradt bizánci bazilika Aleppó közelében.",
@@ -907,7 +907,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-qalat-al-madiq-landmarks-v2",
     type: "castle",
     name: { de: "Zitadelle von al-Madiq", hu: "Kalb al-Madik vára", ro: "Cetatea al-Madiq", en: "Citadel of al-Madiq" },
-    coordinates: { lat: 35.42, lng: 36.39 },
+    coords: [36.39, 35.42],
     description: {
       de: "Diese Festung überblickt die antike Stadt Apamea. In ihren Mauern befindet sich noch heute ein bewohntes Dorf.",
       hu: "Ez az erőd az ókori Apameia városára tekint le. Falai között ma is egy lakott falu található.",
@@ -926,7 +926,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-al-firdaws-madrasa-landmarks-v2",
     type: "monument",
     name: { de: "Al-Firdaws-Madrasa", hu: "Al-Firdaws madrasza", ro: "Madrasa Al-Firdaws", en: "Al-Firdaws Madrasa" },
-    coordinates: { lat: 36.188, lng: 37.158 },
+    coords: [37.158, 36.188],
     description: {
       de: "Die Al-Firdaws-Madrasa ist ein Meisterwerk ayyubidischer Architektur in Aleppo, bekannt für ihren eleganten Innenhof und den Mihrab.",
       hu: "Az aleppói Al-Firdaws madrasza az ajjúbida építészet remekműve, elegáns udvaráról és mihrábjáról ismert.",
@@ -945,7 +945,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-hama-museum-landmarks-v2",
     type: "museum",
     name: { de: "Hama Museum (Azem-Palast)", hu: "Hama Múzeum (Azem-palota)", ro: "Muzeul Hama (Palatul Azem)", en: "Hama Museum" },
-    coordinates: { lat: 35.132, lng: 36.751 },
+    coords: [36.751, 35.132],
     description: {
       de: "Das Museum in Hama befindet sich in einem prächtigen Palast aus der osmanischen Zeit und zeigt lokale archäologische Funde.",
       hu: "A Hamában található múzeum egy pompás oszmán kori palotában kapott helyet, és helyi régészeti leleteket mutat be.",
@@ -964,7 +964,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
     id: "syria-saint-sergius-maaloula-landmarks-v2",
     type: "church",
     name: { de: "Kloster Sankt Sergius und Bacchus", hu: "Szent Szergiusz és Bakhosz-kolostor", ro: "Mănăstirea Sfântul Serghie și Vah", en: "Church of Saint Sergius and Bacchus" },
-    coordinates: { lat: 33.849, lng: 36.545 },
+    coords: [36.545, 33.849],
     description: {
       de: "Dieses Kloster in Maaloula beherbergt eine der ältesten Kirchen der Welt. Hier wird noch immer Aramäisch, die Sprache Jesu, gesprochen.",
       hu: "Ez a maalulai kolostor a világ egyik legrégebbi keresztény templomát őrzi. Itt még ma is beszélik az arámi nyelvet.",

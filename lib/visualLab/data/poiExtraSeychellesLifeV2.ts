@@ -726,7 +726,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-ile-cocos-marine-life-v2",
     type: "park",
     name: { de: "Ile Cocos Marine National Park", hu: "Ile Cocos Tengeri Nemzeti Park", ro: "Parcul Național Marin Ile Cocos", en: "Ile Cocos Marine National Park" },
-    coordinates: { lat: -4.516, lng: 55.866 },
+    coords: [55.866, -4.516],
     description: {
       de: "Dieser Meerespark umfasst drei kleine Inseln, die von flachen Korallenriffen umgeben sind. Er ist ein wichtiges Schutzgebiet für Karettschildkröten und bunte Rifffische.",
       hu: "Ez a tengeri park három kis szigetet foglal magában, amelyeket sekély korallzátonyok vesznek körül. Fontos védelmi terület a közönséges cserepesteknősök és a színes zátonyhalak számára.",
@@ -745,7 +745,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-moyenne-island-life-v2",
     type: "park",
     name: { de: "Moyenne Island National Park", hu: "Moyenne-szigeti Nemzeti Park", ro: "Parcul Național Insula Moyenne", en: "Moyenne Island National Park" },
-    coordinates: { lat: -4.617, lng: 55.5 },
+    coords: [55.5, -4.617],
     description: {
       de: "Diese Insel im Ste Anne Marine Park ist bekannt für ihre Population von über 100 freilaufenden Riesenschildkröten. Sie gilt als der kleinste Nationalpark der Welt.",
       hu: "A Ste Anne Tengeri Parkban található sziget híres a több mint 100 szabadon élő óriásteknőséről. A világ legkisebb nemzeti parkjaként tartják számon.",
@@ -764,7 +764,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-st-pierre-island-life-v2",
     type: "wildlife",
     name: { de: "St. Pierre Island Marine Spot", hu: "St. Pierre-szigeti tengeri megfigyelőhely", ro: "Punctul Marin Insula St. Pierre", en: "St. Pierre Island Marine Spot" },
-    coordinates: { lat: -4.5, lng: 55.85 },
+    coords: [55.85, -4.5],
     description: {
       de: "Diese markante Granitinsel ist ein Symbol der Seychellen und ein Zentrum für marine Biodiversität. Sie dient als wichtiger Nistplatz für Seevögel und bietet reiche Korallenriffe.",
       hu: "Ez a jellegzetes gránitsziget a Seychelle-szigetek szimbóluma és a tengeri biológiai sokféleség központja. Fontos fészkelőhely tengeri madarak számára, és gazdag korallzátonyokkal rendelkezik.",
@@ -783,7 +783,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-cosmoledo-atoll-life-v2",
     type: "wildlife",
     name: { de: "Cosmoledo Atoll Wildlife", hu: "Cosmoledo-atoll vadvilág", ro: "Fauna Atolului Cosmoledo", en: "Cosmoledo Atoll Wildlife" },
-    coordinates: { lat: -9.715, lng: 47.593 },
+    coords: [47.593, -9.715],
     description: {
       de: "Dieses abgelegene Atoll beherbergt die größten Seevogelkolonien der Seychellen, darunter Tölpelarten. Es ist ein bedeutender Brutplatz für grüne Meeresschildkröten.",
       hu: "Ez a távoli atoll ad otthont a Seychelle-szigetek legnagyobb tengeri madárkolóniáinak, köztük különféle szula-fajoknak. A zöld teknősök fontos szaporodóhelye.",
@@ -802,7 +802,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-grande-soeur-island-life-v2",
     type: "wildlife",
     name: { de: "Grande Soeur Island Nature Site", hu: "Grande Soeur-szigeti természetvédelmi terület", ro: "Situl Natural Insula Grande Soeur", en: "Grande Soeur Island Nature Site" },
-    coordinates: { lat: -4.475, lng: 55.866 },
+    coords: [55.866, -4.475],
     description: {
       de: "Diese Privatinsel wird ökologisch streng verwaltet, um Nistplätze für Meeresschildkröten zu schützen. Sie beherbergt zudem eine kleine Population von Aldabra-Riesenschildkröten.",
       hu: "Ez a magánsziget szigorú ökológiai kezelés alatt áll a tengeri teknősök fészkelőhelyeinek védelme érdekében. Emellett egy kis Aldabra-óriásteknős populációnak is otthont ad.",
@@ -821,7 +821,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-baie-laraie-mangroves-life-v2",
     type: "park",
     name: { de: "Baie Laraie Mangrove Forest", hu: "Baie Laraie mangroveerdő", ro: "Pădurea de Mangrove Baie Laraie", en: "Baie Laraie Mangrove Forest" },
-    coordinates: { lat: -4.47, lng: 55.728 },
+    coords: [55.728, -4.47],
     description: {
       de: "Dieses ausgedehnte Mangrovengebiet auf der Insel Curieuse ist ein wichtiges Ökosystem für juvenile Fische und Krabbenarten. Ein Holzsteg ermöglicht die Beobachtung der Biodiversität.",
       hu: "A Curieuse-szigeten található kiterjedt mangrove terület fontos ökoszisztéma a fiatal halak és rákfajok számára. Egy fapalló teszi lehetővé a biológiai sokféleség megfigyelését.",
@@ -840,7 +840,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-alphonse-island-life-v2",
     type: "wildlife",
     name: { de: "Alphonse Island Conservation Area", hu: "Alphonse-szigeti természetvédelmi terület", ro: "Aria de Conservare Insula Alphonse", en: "Alphonse Island Conservation Area" },
-    coordinates: { lat: -7.005, lng: 52.735 },
+    coords: [52.735, -7.005],
     description: {
       de: "Dieses abgelegene Atoll ist ein bedeutendes Forschungszentrum für Mantarochen und Seevögel. Die umliegenden Gewässer schützen unberührte Korallenriffe und Fischgründe.",
       hu: "Ez a távoli atoll az ördögráják és tengeri madarak fontos kutatóközpontja. A környező vizek érintetlen korallzátonyokat és halászterületeket védenek.",
@@ -859,7 +859,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-astove-atoll-life-v2",
     type: "wildlife",
     name: { de: "Astove Atoll Marine Reserve", hu: "Astove-atoll tengeri rezervátum", ro: "Rezervația Marină Atolul Astove", en: "Astove Atoll Marine Reserve" },
-    coordinates: { lat: -10.08, lng: 47.745 },
+    coords: [47.745, -10.08],
     description: {
       de: "Dieses abgelegene Atoll ist berühmt für seine 'Wand', einen dramatischen Korallenabfall von über 1.000 Metern. Es schützt seltene marine Arten und Seevogelhabitate.",
       hu: "Ez a távoli atoll híres a 'faláról', amely egy drámai, több mint 1000 méteres korallszakadék. Ritka tengeri fajokat és tengeri madarak élőhelyeit védi.",
@@ -878,7 +878,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-desnoeufs-island-life-v2",
     type: "wildlife",
     name: { de: "Desnoeufs Island Bird Colony", hu: "Desnoeufs-szigeti madárkolónia", ro: "Colonia de Păsări Insula Desnoeufs", en: "Desnoeufs Island Bird Colony" },
-    coordinates: { lat: -6.23, lng: 53.03 },
+    coords: [53.03, -6.23],
     description: {
       de: "Diese flache Insel beherbergt eine der größten Rußseeschwalben-Kolonien der Welt. Sie ist ein streng geschütztes Gebiet, das für die marine Avifauna von globaler Bedeutung ist.",
       hu: "Ez a lapos sziget a világ egyik legnagyobb füstös csér kolóniájának ad otthont. Szigorúan védett terület, amely globális jelentőségű a tengeri madárvilág számára.",
@@ -897,7 +897,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
     id: "seychelles-poivre-atoll-life-v2",
     type: "wildlife",
     name: { de: "Poivre Atoll Nature Reserve", hu: "Poivre-atoll természetvédelmi terület", ro: "Rezervația Naturală Atolul Poivre", en: "Poivre Atoll Nature Reserve" },
-    coordinates: { lat: -5.76, lng: 53.31 },
+    coords: [53.31, -5.76],
     description: {
       de: "Dieses aus zwei Hauptinseln bestehende Atoll schützt bedeutende Korallenriffe und dient als Rückzugsort für Reiher und Fregattvögel. Es ist bekannt für seine reiche marine Biodiversität.",
       hu: "Ez a két fő szigetből álló atoll jelentős korallzátonyokat véd, és menedékül szolgál gémek és fregattmadarak számára. Gazdag tengeri biológiai sokféleségéről ismert.",

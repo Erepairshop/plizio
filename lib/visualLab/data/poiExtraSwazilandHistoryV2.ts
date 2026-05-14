@@ -726,7 +726,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-nsangwini-rock-art-history-v2",
     type: "ruins",
     name: { de: "Nsangwini Felsmalereien", hu: "Nsangwini sziklarajzok", ro: "Picturile rupestre Nsangwini", en: "Nsangwini Rock Art" },
-    coordinates: { lat: -26.1983, lng: 31.2136 },
+    coords: [31.2136, -26.1983],
     description: {
       de: "Bedeutendste Felsmalereien der San in Eswatini mit Darstellungen von Tieren und Menschen.",
       hu: "Eswatini legjelentősebb San sziklarajzai, amelyek állatokat és embereket ábrázolnak.",
@@ -745,7 +745,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mbilaneni-cemetery-history-v2",
     type: "landmark",
     name: { de: "Mbilaneni Königlicher Friedhof", hu: "Mbilaneni királyi temető", ro: "Cimitirul Regal Mbilaneni", en: "Mbilaneni Royal Cemetery" },
-    coordinates: { lat: -27.1611, lng: 31.3922 },
+    coords: [31.3922, -27.1611],
     description: {
       de: "Heilige Grabstätte der frühen Swasi-Könige im südlichen Shiselweni-Distrikt.",
       hu: "A korai swazi királyok szent temetkezési helye a déli Shiselweni körzetben.",
@@ -764,7 +764,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-old-mbabane-cemetery-history-v2",
     type: "landmark",
     name: { de: "Alter Friedhof von Mbabane", hu: "Mbabane régi temetője", ro: "Vechiul cimitir din Mbabane", en: "Old Mbabane Cemetery" },
-    coordinates: { lat: -26.3267, lng: 31.1389 },
+    coords: [31.1389, -26.3267],
     description: {
       de: "Historischer Friedhof mit Gräbern europäischer Siedler und Kolonialbeamter aus dem frühen 20. Jahrhundert.",
       hu: "Történelmi temető európai telepesek és gyarmati tisztviselők sírjaival a 20. század elejéről.",
@@ -783,7 +783,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-bethany-mission-history-v2",
     type: "church",
     name: { de: "Bethany Missionsstation", hu: "Bethany missziós állomás", ro: "Misiunea Bethany", en: "Bethany Mission Station" },
-    coordinates: { lat: -26.4714, lng: 31.2458 },
+    coords: [31.2458, -26.4714],
     description: {
       de: "Frühe christliche Missionsstation, die eine zentrale Rolle in der ländlichen Bildung spielte.",
       hu: "Korai keresztény missziós állomás, amely központi szerepet játszott a vidéki oktatásban.",
@@ -802,7 +802,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-shiselweni-village-history-v2",
     type: "village",
     name: { de: "Königliches Dorf Shiselweni I", hu: "Shiselweni I királyi falu", ro: "Satul Regal Shiselweni I", en: "Shiselweni I Royal Village" },
-    coordinates: { lat: -27.1083, lng: 31.3833 },
+    coords: [31.3833, -27.1083],
     description: {
       de: "Standort der ersten dauerhaften Siedlung der Swasi nach ihrer Wanderung nach Süden.",
       hu: "A swaziak első tartós településének helyszíne a déli vándorlásuk után.",
@@ -821,7 +821,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-hhohho-royal-village-history-v2",
     type: "palace",
     name: { de: "Königliches Dorf Hhohho", hu: "Hhohho királyi falu", ro: "Satul Regal Hhohho", en: "Hhohho Royal Village" },
-    coordinates: { lat: -25.85, lng: 31.25 },
+    coords: [31.25, -25.85],
     description: {
       de: "Historische Residenz von König Mswati II., der das Reich im 19. Jahrhundert massiv erweiterte.",
       hu: "II. Mswati király történelmi rezidenciája, aki a 19. században jelentősen kiterjesztette a birodalmat.",
@@ -840,7 +840,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mdzimba-caves-history-v2",
     type: "ruins",
     name: { de: "Mdzimba-Höhlen", hu: "Mdzimba-barlangok", ro: "Peșterile Mdzimba", en: "Mdzimba Royal Caves" },
-    coordinates: { lat: -26.35, lng: 31.2 },
+    coords: [31.2, -26.35],
     description: {
       de: "Heilige Höhlen in den Mdzimba-Bergen, die als Zufluchtsort während Kriegen dienten.",
       hu: "Szent barlangok a Mdzimba-hegységben, amelyek háborúk idején menedékül szolgáltak.",
@@ -859,7 +859,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mbabane-war-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal Mbabane", hu: "Mbabane-i háborús emlékmű", ro: "Monumentul Eroilor din Mbabane", en: "Mbabane War Memorial" },
-    coordinates: { lat: -26.3242, lng: 31.1444 },
+    coords: [31.1444, -26.3242],
     description: {
       de: "Denkmal zu Ehren der Swasi-Soldaten, die in den beiden Weltkriegen gedient haben.",
       hu: "Emlékmű a két világháborúban szolgált swazi katonák tiszteletére.",
@@ -878,7 +878,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-st-marks-school-history-v2",
     type: "landmark",
     name: { de: "St. Mark's Schule (Altbau)", hu: "St. Mark iskola (régi épület)", ro: "Școala Sf. Marcu (clădirea veche)", en: "St. Mark's School (Old Building)" },
-    coordinates: { lat: -26.3211, lng: 31.1347 },
+    coords: [31.1347, -26.3211],
     description: {
       de: "Eine der ältesten Bildungseinrichtungen des Landes, gegründet während der Kolonialzeit.",
       hu: "Az ország egyik legrégebbi oktatási intézménye, amelyet a gyarmati korszakban alapítottak.",
@@ -897,7 +897,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-evelyn-baring-school-history-v2",
     type: "landmark",
     name: { de: "Evelyn Baring Oberschule", hu: "Evelyn Baring középiskola", ro: "Liceul Evelyn Baring", en: "Evelyn Baring High School" },
-    coordinates: { lat: -27.1125, lng: 31.2056 },
+    coords: [31.2056, -27.1125],
     description: {
       de: "Bedeutende historische Schule in Nhlangano, benannt nach einem britischen Hochkommissar.",
       hu: "Jelentős történelmi iskola Nhlangano-ban, egy brit főbiztosról nevezték el.",
@@ -916,7 +916,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-franson-christian-high-history-v2",
     type: "landmark",
     name: { de: "Franson Christian High School", hu: "Franson Christian középiskola", ro: "Liceul Creștin Franson", en: "Franson Christian High School" },
-    coordinates: { lat: -26.9681, lng: 31.3219 },
+    coords: [31.3219, -26.9681],
     description: {
       de: "Eine von Missionaren gegründete Schule, die seit Jahrzehnten die Bildung in Hlatikulu prägt.",
       hu: "Misszionáriusok által alapított iskola, amely évtizedek óta meghatározza Hlatikulu oktatását.",
@@ -935,7 +935,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-malandelas-settlement-history-v2",
     type: "village",
     name: { de: "Malandela's Historische Stätte", hu: "Malandela történelmi helyszín", ro: "Situl istoric Malandela", en: "Malandela's Historical Site" },
-    coordinates: { lat: -26.495, lng: 31.2181 },
+    coords: [31.2181, -26.495],
     description: {
       de: "Ort in Malkerns mit tiefen Wurzeln in der lokalen Geschichte und kulturellen Entwicklung.",
       hu: "Helyszín Malkerns-ben, mély gyökerekkel a helyi történelemben és kulturális fejlődésben.",
@@ -954,7 +954,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-ngwempisi-paintings-history-v2",
     type: "ruins",
     name: { de: "Ngwempisi Felsmalereien", hu: "Ngwempisi sziklarajzok", ro: "Picturile de la Ngwempisi", en: "Ngwempisi Rock Paintings" },
-    coordinates: { lat: -26.65, lng: 31.05 },
+    coords: [31.05, -26.65],
     description: {
       de: "Prähistorische Kunst der San in der abgelegenen Ngwempisi-Schlucht.",
       hu: "Prehisztorikus San művészet a távoli Ngwempisi-szurdokban.",
@@ -973,7 +973,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-forbes-reef-post-history-v2",
     type: "landmark",
     name: { de: "Alte Post Forbes Reef", hu: "Forbes Reef régi posta", ro: "Vechiul oficiu poștal Forbes Reef", en: "Forbes Reef Old Post Office" },
-    coordinates: { lat: -26.1514, lng: 31.1256 },
+    coords: [31.1256, -26.1514],
     description: {
       de: "Überreste des Postamtes aus der Zeit des Goldrausches im späten 19. Jahrhundert.",
       hu: "A 19. század végi aranyláz idejéből származó postahivatal maradványai.",
@@ -992,7 +992,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-siteki-hospital-relics-history-v2",
     type: "landmark",
     name: { de: "Historisches Siteki Krankenhaus", hu: "Siteki történelmi kórház", ro: "Spitalul istoric din Siteki", en: "Siteki Historical Hospital" },
-    coordinates: { lat: -26.4528, lng: 31.9514 },
+    coords: [31.9514, -26.4528],
     description: {
       de: "Ursprüngliche Gebäude des Good Shepherd Hospitals, das die medizinische Geschichte des Ostens markiert.",
       hu: "A Good Shepherd kórház eredeti épületei, amelyek a keleti országrész egészségügyi történelmét jelzik.",
@@ -1011,7 +1011,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-manzini-old-bridge-history-v2",
     type: "bridge",
     name: { de: "Alte Manzini-Brücke", hu: "Régi Manzini-híd", ro: "Vechiul pod din Manzini", en: "Manzini Old Bridge" },
-    coordinates: { lat: -26.5055, lng: 31.375 },
+    coords: [31.375, -26.5055],
     description: {
       de: "Historische Flussüberquerung, die einst die wichtigste Handelsroute durch Manzini bediente.",
       hu: "Történelmi folyami átkelő, amely egykor a Manzini-n áthaladó legfontosabb kereskedelmi útvonalat szolgálta ki.",
@@ -1030,7 +1030,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-matsapha-old-terminal-history-v2",
     type: "landmark",
     name: { de: "Alter Terminal Matsapha", hu: "Matsapha régi terminál", ro: "Vechiul terminal Matsapha", en: "Matsapha Old Terminal" },
-    coordinates: { lat: -26.5283, lng: 31.3083 },
+    coords: [31.3083, -26.5283],
     description: {
       de: "Ehemaliges Hauptgebäude des ersten internationalen Flughafens des Landes.",
       hu: "Az ország első nemzetközi repülőterének egykori főépülete.",
@@ -1049,7 +1049,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mlilwane-tin-mine-history-v2",
     type: "mine",
     name: { de: "Mlilwane Zinngrube", hu: "Mlilwane ónbánya", ro: "Mina de cositor Mlilwane", en: "Mlilwane Tin Mine" },
-    coordinates: { lat: -26.48, lng: 31.18 },
+    coords: [31.18, -26.48],
     description: {
       de: "Relikte des Zinnabbaus, der vor der Gründung des Wildschutzgebiets stattfand.",
       hu: "Az ónbányászat emlékei, amely a vadrezervátum alapítása előtt zajlott itt.",
@@ -1068,7 +1068,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-wyldsdale-gold-mine-history-v2",
     type: "mine",
     name: { de: "Wyldsdale Goldmine", hu: "Wyldsdale aranybánya", ro: "Mina de aur Wyldsdale", en: "Wyldsdale Gold Mine" },
-    coordinates: { lat: -25.82, lng: 31.28 },
+    coords: [31.28, -25.82],
     description: {
       de: "Historische Goldmine im hohen Norden des Landes, aktiv während des späten 19. Jahrhunderts.",
       hu: "Történelmi aranybánya az ország északi részén, a 19. század végén volt aktív.",
@@ -1087,7 +1087,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-hlatikulu-prison-history-v2",
     type: "landmark",
     name: { de: "Altes Gefängnis Hlatikulu", hu: "Hlatikulu régi börtön", ro: "Vechea închisoare Hlatikulu", en: "Hlatikulu Old Prison" },
-    coordinates: { lat: -26.9744, lng: 31.3256 },
+    coords: [31.3256, -26.9744],
     description: {
       de: "Koloniales Gefängnisgebäude, das ein wichtiges Beispiel für die Justizgeschichte im Süden ist.",
       hu: "Gyarmati börtönépület, amely az igazságszolgáltatás déli történetének fontos példája.",
@@ -1106,7 +1106,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mhlosheni-center-history-v2",
     type: "landmark",
     name: { de: "Mhlosheni Ausbildungszentrum", hu: "Mhlosheni képzési központ", ro: "Centrul de instruire Mhlosheni", en: "Mhlosheni Training Center" },
-    coordinates: { lat: -27.1822, lng: 31.4239 },
+    coords: [31.4239, -27.1822],
     description: {
       de: "Historisches Zentrum für landwirtschaftliche Bildung, das aus der frühen Missionsarbeit hervorging.",
       hu: "Történelmi mezőgazdasági képzési központ, amely a korai missziós munkából alakult ki.",
@@ -1125,7 +1125,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-elangeni-homestead-history-v2",
     type: "village",
     name: { de: "Elangeni Königshof", hu: "Elangeni királyi udvar", ro: "Curtea Regală Elangeni", en: "Elangeni Royal Homestead" },
-    coordinates: { lat: -26.3833, lng: 31.2333 },
+    coords: [31.2333, -26.3833],
     description: {
       de: "Eines der traditionellen königlichen Gehöfte, das mit der Geschichte der herrschenden Dlamini-Dynastie verbunden ist.",
       hu: "Az egyik hagyományos királyi udvar, amely a Dlamini-dinasztia történelméhez kapcsolódik.",
@@ -1144,7 +1144,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-nahlavela-site-history-v2",
     type: "village",
     name: { de: "Nahlavela Historische Stätte", hu: "Nahlavela történelmi helyszín", ro: "Situl istoric Nahlavela", en: "Nahlavela Historical Site" },
-    coordinates: { lat: -26.85, lng: 31.45 },
+    coords: [31.45, -26.85],
     description: {
       de: "Ehemaliges königliches Dorf, das die Ausdehnung der Swasi-Macht im zentralen Bergland dokumentiert.",
       hu: "Egykori királyi falu, amely a swazi hatalom kiterjedését dokumentálja a központi hegyvidéken.",
@@ -1163,7 +1163,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mlumati-iron-furnaces-history-v2",
     type: "ruins",
     name: { de: "Mlumati Eisenöfen", hu: "Mlumati vasolvasztók", ro: "Cuptoarele de fier Mlumati", en: "Mlumati Iron Furnaces" },
-    coordinates: { lat: -25.8833, lng: 31.1833 },
+    coords: [31.1833, -25.8833],
     description: {
       de: "Überreste antiker Eisenverhüttungsanlagen im Mlumati-Tal.",
       hu: "Ősi vasolvasztó berendezések maradványai a Mlumati-völgyben.",
@@ -1182,7 +1182,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-sandlane-border-relics-history-v2",
     type: "landmark",
     name: { de: "Sandlane Grenzrelikte", hu: "Sandlane határmenti emlékek", ro: "Vestigii de frontieră la Sandlane", en: "Sandlane Border Relics" },
-    coordinates: { lat: -26.5711, lng: 30.7933 },
+    coords: [30.7933, -26.5711],
     description: {
       de: "Historische Grenzposten und Gebäude am westlichen Übergang nach Südafrika.",
       hu: "Történelmi határőrbódék és épületek a dél-afrikai nyugati átkelőnél.",
@@ -1201,7 +1201,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-florence-mission-history-v2",
     type: "church",
     name: { de: "Florence Missionsstation", hu: "Florence missziós állomás", ro: "Misiunea Florence", en: "Florence Mission Station" },
-    coordinates: { lat: -26.5833, lng: 31.4167 },
+    coords: [31.4167, -26.5833],
     description: {
       de: "Historische Missionsstation, die für ihre frühen Beiträge zur medizinischen Versorgung bekannt ist.",
       hu: "Történelmi missziós állomás, amely korai orvosi segítségnyújtásáról volt ismert.",
@@ -1220,7 +1220,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-st-josephs-center-history-v2",
     type: "landmark",
     name: { de: "St. Joseph's Berufszentrum", hu: "St. Joseph szakképző központ", ro: "Centrul Vocațional Sf. Iosif", en: "St. Joseph's Vocation Center" },
-    coordinates: { lat: -26.4667, lng: 31.4833 },
+    coords: [31.4833, -26.4667],
     description: {
       de: "Alte Gebäude einer Berufsschule, die von katholischen Missionaren für Behinderte gegründet wurde.",
       hu: "Egy katolikus misszionáriusok által fogyatékkal élőknek alapított szakiskola régi épületei.",
@@ -1239,7 +1239,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-mbabane-club-history-v2",
     type: "landmark",
     name: { de: "Mbabane Club (Altbau)", hu: "Mbabane Club (régi épület)", ro: "Clubul Mbabane (clădirea veche)", en: "Mbabane Club (Old Building)" },
-    coordinates: { lat: -26.3247, lng: 31.1403 },
+    coords: [31.1403, -26.3247],
     description: {
       de: "Zentrum des sozialen Lebens der Kolonialzeit in Mbabane, gegründet für britische Beamte.",
       hu: "A gyarmati kori társasági élet központja Mbabane-ban, brit tisztviselők számára alapítva.",
@@ -1258,7 +1258,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-piggs-peak-office-history-v2",
     type: "landmark",
     name: { de: "Piggs Peak Distriktbüro", hu: "Piggs Peak körzeti iroda", ro: "Biroul districtual Piggs Peak", en: "Piggs Peak District Office" },
-    coordinates: { lat: -25.9611, lng: 31.2528 },
+    coords: [31.2528, -25.9611],
     description: {
       de: "Historisches Verwaltungsgebäude, das während der frühen kolonialen Verwaltung des Nordens erbaut wurde.",
       hu: "Történelmi közigazgatási épület, amely az északi rész korai gyarmati irányítása alatt épült.",
@@ -1277,7 +1277,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
     id: "swaziland-nhlangano-town-hall-history-v2",
     type: "landmark",
     name: { de: "Nhlangano Rathaus (Alt)", hu: "Nhlangano városháza (régi)", ro: "Vechea primărie din Nhlangano", en: "Nhlangano Old Town Hall" },
-    coordinates: { lat: -27.1111, lng: 31.2014 },
+    coords: [31.2014, -27.1111],
     description: {
       de: "Ehemaliges politisches Zentrum von Nhlangano, das an die koloniale Stadtplanung erinnert.",
       hu: "Nhlangano egykori politikai központja, amely a gyarmati várostervezésre emlékeztet.",

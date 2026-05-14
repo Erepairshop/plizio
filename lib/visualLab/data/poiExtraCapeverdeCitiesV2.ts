@@ -106,7 +106,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-achada-igreja-cities-v2",
     type: "town",
     name: { de: "Achada Igreja", hu: "Achada Igreja", ro: "Achada Igreja", en: "Achada Igreja" },
-    coordinates: { lat: 15.0833, lng: -23.6333 },
+    coords: [-23.6333, 15.0833],
     description: {
       de: "Achada Igreja ist das administrative Zentrum der Gemeinde São Salvador do Mundo auf der Insel Santiago.",
       hu: "Achada Igreja a Santiago szigetén található São Salvador do Mundo község közigazgatási központja.",
@@ -137,7 +137,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-sao-jorge-dos-orgaos-cities-v2",
     type: "town",
     name: { de: "São Jorge dos Órgãos", hu: "São Jorge dos Órgãos", ro: "São Jorge dos Órgãos", en: "São Jorge dos Órgãos" },
-    coordinates: { lat: 15.0567, lng: -23.6125 },
+    coords: [-23.6125, 15.0567],
     description: {
       de: "Diese Stadt im Landesinneren von Santiago ist bekannt für ihre botanische Forschung und üppige Vegetation.",
       hu: "Ez a Santiago belsejében fekvő város botanikai kutatásairól és buja növényzetéről ismert.",
@@ -168,7 +168,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-cruzinha-cities-v2",
     type: "village",
     name: { de: "Cruzinha", hu: "Cruzinha", ro: "Cruzinha", en: "Cruzinha" },
-    coordinates: { lat: 17.1633, lng: -25.0967 },
+    coords: [-25.0967, 17.1633],
     description: {
       de: "Cruzinha ist ein abgelegenes Fischerdorf an der rauen Nordküste der Insel Santo Antão.",
       hu: "Cruzinha egy távoli halászfalu Santo Antão szigetének északi partján.",
@@ -199,7 +199,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-cha-de-igreja-cities-v2",
     type: "village",
     name: { de: "Chã de Igreja", hu: "Chã de Igreja", ro: "Chã de Igreja", en: "Chã de Igreja" },
-    coordinates: { lat: 17.155, lng: -25.1167 },
+    coords: [-25.1167, 17.155],
     description: {
       de: "Chã de Igreja liegt malerisch auf einem Felsvorsprung oberhalb der Ribeira Grande auf Santo Antão.",
       hu: "Chã de Igreja festői helyen, a Ribeira Grande feletti sziklán fekszik Santo Antão szigetén.",
@@ -230,7 +230,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-cachaco-cities-v2",
     type: "village",
     name: { de: "Cachaço", hu: "Cachaço", ro: "Cachaço", en: "Cachaço" },
-    coordinates: { lat: 16.6067, lng: -24.3217 },
+    coords: [-24.3217, 16.6067],
     description: {
       de: "Cachaço ist ein Bergdorf auf São Nicolau, das als Zugang zum Nationalpark Monte Gordo dient.",
       hu: "Cachaço egy hegyi falu São Nicolau szigetén, amely a Monte Gordo Nemzeti Park kapujaként szolgál.",
@@ -261,7 +261,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-queimada-cities-v2",
     type: "village",
     name: { de: "Queimada", hu: "Queimada", ro: "Queimada", en: "Queimada" },
-    coordinates: { lat: 16.6383, lng: -24.3117 },
+    coords: [-24.3117, 16.6383],
     description: {
       de: "Queimada ist ein landwirtschaftlich geprägtes Dorf im nördlichen Teil der Insel São Nicolau.",
       hu: "Queimada egy mezőgazdasági jellegű falu São Nicolau szigetének északi részén.",
@@ -292,7 +292,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-eito-cities-v2",
     type: "village",
     name: { de: "Eito", hu: "Eito", ro: "Eito", en: "Eito" },
-    coordinates: { lat: 17.1383, lng: -25.0233 },
+    coords: [-25.0233, 17.1383],
     description: {
       de: "Eito ist eine dicht besiedelte Ortschaft im oberen Teil des fruchtbaren Paul-Tals auf Santo Antão.",
       hu: "Eito egy sűrűn lakott település a termékeny Paul-völgy felső részén, Santo Antão szigetén.",
@@ -323,7 +323,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-janela-cities-v2",
     type: "village",
     name: { de: "Janela", hu: "Janela", ro: "Janela", en: "Janela" },
-    coordinates: { lat: 17.1167, lng: -25.0117 },
+    coords: [-25.0117, 17.1167],
     description: {
       de: "Janela ist ein Küstendorf im Nordosten von Santo Antão, bekannt für seinen historischen Leuchtturm.",
       hu: "Janela egy partmenti falu Santo Antão északkeleti részén, amely történelmi világítótornyáról ismert.",
@@ -354,7 +354,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-cova-rodela-cities-v2",
     type: "village",
     name: { de: "Cova Rodela", hu: "Cova Rodela", ro: "Cova Rodela", en: "Cova Rodela" },
-    coordinates: { lat: 14.8683, lng: -24.7117 },
+    coords: [-24.7117, 14.8683],
     description: {
       de: "Cova Rodela ist ein malerisches Dorf im Hochland der Insel Brava, umgeben von Obstgärten.",
       hu: "Cova Rodela egy festői falu Brava szigetének felföldjén, gyümölcsösökkel körülvéve.",
@@ -385,7 +385,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     id: "capeverde-achada-fazenda-cities-v2",
     type: "village",
     name: { de: "Achada Fazenda", hu: "Achada Fazenda", ro: "Achada Fazenda", en: "Achada Fazenda" },
-    coordinates: { lat: 15.1467, lng: -23.5133 },
+    coords: [-23.5133, 15.1467],
     description: {
       de: "Achada Fazenda ist eine wachsende Siedlung nördlich von Pedra Badejo auf der Insel Santiago.",
       hu: "Achada Fazenda egy növekvő település Pedra Badejótól északra, Santiago szigetén.",

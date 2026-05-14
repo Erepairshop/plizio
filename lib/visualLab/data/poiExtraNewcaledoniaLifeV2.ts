@@ -5,7 +5,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-riviere-bleue-park-life-v2",
     type: "park",
     name: { de: "Provvinzpark Rivière Bleue", hu: "Rivière Bleue Tartományi Park", ro: "Parcul Provincial Rivière Bleue", en: "Rivière Bleue Provincial Park" },
-    coordinates: { lat: -22.1022, lng: 166.7558 },
+    coords: [166.7558, -22.1022],
     description: {
       de: "Ein 9.000 Hektar großer Park in der Südprovinz, der den bedrohten Kagu-Vogel und uralte Houp-Bäume in einer geschützten Umgebung schützt.",
       hu: "Egy 9000 hektáros park a Déli tartományban, amely a veszélyeztetett kagu madarat és ősi Houp-fákat védi megőrzött környezetben.",
@@ -24,7 +24,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-noumea-zoo-forest-life-v2",
     type: "wildlife",
     name: { de: "Zoologischer und Forstpark Michel Corbasson", hu: "Michel Corbasson Állat- és Erdőpark", ro: "Parcul Zoologic și Forestier Michel Corbasson", en: "Michel Corbasson Zoological and Forest Park" },
-    coordinates: { lat: -22.2541, lng: 166.4566 },
+    coords: [166.4566, -22.2541],
     description: {
       de: "Dieser Park in den Höhen von Nouméa verbindet einen botanischen Garten mit einem Zoo, der die endemische Fauna der Insel zeigt.",
       hu: "Ez a Nouméa magasan fekvő részén található park botanikus kertet és állatkertet ötvöz, bemutatva a sziget endemikus faunáját.",
@@ -43,7 +43,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-grandes-fougeres-park-life-v2",
     type: "forest",
     name: { de: "Provvinzpark Grandes Fougères", hu: "Grandes Fougères Tartományi Park", ro: "Parcul Provincial Grandes Fougères", en: "Grandes Fougères Provincial Park" },
-    coordinates: { lat: -21.6145, lng: 165.7789 },
+    coords: [165.7789, -21.6145],
     description: {
       de: "Ein tropischer Regenwaldpark bei Farino, der für seine riesigen Baumfarne und die vielfältige Vogelwelt des Hochlands bekannt ist.",
       hu: "Egy trópusi esőerdőpark Farino közelében, amely óriási páfrányfáiról és a felföldi madárvilág sokszínűségéről ismert.",
@@ -62,7 +62,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-coral-sea-park-life-v2",
     type: "park",
     name: { de: "Naturpark Korallenmeer", hu: "Korall-tenger Natúrpark", ro: "Parcul Natural al Mării de Corali", en: "Coral Sea Natural Park" },
-    coordinates: { lat: -19.0, lng: 160.0 },
+    coords: [160.0, -19.0],
     description: {
       de: "Eines der weltweit größten Meeresschutzgebiete, das ein riesiges Ökosystem mit Korallenriffen, Walen und Seevögeln umfasst.",
       hu: "A világ egyik legnagyobb tengeri védett területe, amely korallzátonyok, bálnák és tengeri madarak hatalmas ökoszisztémáját foglalja magában.",
@@ -81,7 +81,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-amedee-island-reserve-life-v2",
     type: "wildlife",
     name: { de: "Meeresschutzgebiet Amédée-Leuchtturm", hu: "Amédée-világítótorony Tengeri Rezervátum", ro: "Rezervația Marină Farul Amédée", en: "Amédée Lighthouse Marine Reserve" },
-    coordinates: { lat: -22.4777, lng: 166.4741 },
+    coords: [166.4741, -22.4777],
     description: {
       de: "Ein geschütztes Meeresgebiet um die Insel Amédée, bekannt für seine Seeschlangen, Schildkröten und farbenfrohen Korallengärten.",
       hu: "Az Amédée-sziget körüli védett tengeri terület, amely tengeri kígyóiról, teknőseiről és színes korallkertjeiről ismert.",
@@ -100,7 +100,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-duck-island-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Île aux Canards", hu: "Île aux Canards Természetvédelmi Terület", ro: "Rezervația Naturală Île aux Canards", en: "Île aux Canards Nature Reserve" },
-    coordinates: { lat: -22.3128, lng: 166.4361 },
+    coords: [166.4361, -22.3128],
     description: {
       de: "Dieses küstennahe Reservat bei Nouméa bietet einen Unterwasserlehrpfad zur Erkundung der marinen Artenvielfalt der Lagune.",
       hu: "Ez a Nouméa közeli partmenti rezervátum egy víz alatti tanösvényt kínál a lagúna tengeri élővilágának felfedezéséhez.",
@@ -119,7 +119,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-roche-percee-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Roche Percée", hu: "Roche Percée Rezervátum", ro: "Rezervația Roche Percée", en: "Roche Percée Reserve" },
-    coordinates: { lat: -21.6111, lng: 165.4516 },
+    coords: [165.4516, -21.6111],
     description: {
       de: "Ein wichtiges Küstenschutzgebiet in Bourail, das für seine einzigartigen Felsformationen und als Nistplatz für Meeresschildkröten bekannt ist.",
       hu: "Fontos partmenti védett terület Bourailnál, amely egyedülálló sziklaformációiról és teknősfészkelő helyeiről ismert.",
@@ -138,7 +138,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-domaine-deva-life-v2",
     type: "park",
     name: { de: "Naturgebiet Deva", hu: "Deva Természeti Terület", ro: "Domeniul Natural Deva", en: "Deva Natural Domain" },
-    coordinates: { lat: -21.5744, lng: 165.3458 },
+    coords: [165.3458, -21.5744],
     description: {
       de: "Ein riesiges geschütztes Gebiet, das trockene Wälder, Mangroven und eine reiche Küstenflora zwischen Bergen und Lagune bewahrt.",
       hu: "Egy hatalmas védett terület, amely száraz erdőket, mangrovékat és gazdag partmenti flórát őriz a hegyek és a lagúna között.",
@@ -157,7 +157,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-noumea-botanical-garden-life-v2",
     type: "wildlife",
     name: { de: "Botanischer Garten Nouméa", hu: "Nouméa-i Botanikus Kert", ro: "Grădina Botanică Nouméa", en: "Nouméa Botanical Garden" },
-    coordinates: { lat: -22.2536, lng: 166.4552 },
+    coords: [166.4552, -22.2536],
     description: {
       de: "Ein spezialisierter Garten, der die außergewöhnliche Pflanzenwelt Neukaledoniens zeigt, darunter seltene Palmen und Araukarien.",
       hu: "Egy specializált kert, amely Új-Kaledónia kivételes növényvilágát mutatja be, beleértve ritka pálmákat és araukáriákat.",
@@ -176,7 +176,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-mont-panie-reserve-life-v2",
     type: "forest",
     name: { de: "Naturschutzgebiet Mont Panié", hu: "Mont Panié Természetvédelmi Terület", ro: "Rezervația Naturală Mont Panié", en: "Mont Panié Nature Reserve" },
-    coordinates: { lat: -20.5888, lng: 164.7708 },
+    coords: [164.7708, -20.5888],
     description: {
       de: "Dieses Reservat schützt den höchsten Berg der Insel und ist ein Hotspot für seltene Flora und endemische wirbellose Tiere.",
       hu: "Ez a rezervátum a sziget legmagasabb hegyét védi, és a ritka flóra, valamint az endemikus gerinctelenek hotspotja.",
@@ -195,7 +195,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-ilot-maitre-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Îlot Maître", hu: "Îlot Maître Rezervátum", ro: "Rezervația Îlot Maître", en: "Îlot Maître Reserve" },
-    coordinates: { lat: -22.3364, lng: 166.4111 },
+    coords: [166.4111, -22.3364],
     description: {
       de: "Ein 200 Hektar großes Meeresschutzgebiet, das für seine Seegraswiesen und die große Population von grünen Meeresschildkröten bekannt ist.",
       hu: "Egy 200 hektáros tengeri védett terület, amely tengerifű-mezőiről és a zöld teknősök nagy populációjáról ismert.",
@@ -214,7 +214,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-white-river-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Rivière Blanche", hu: "Rivière Blanche Rezervátum", ro: "Rezervația Rivière Blanche", en: "Rivière Blanche Reserve" },
-    coordinates: { lat: -22.1333, lng: 166.7167 },
+    coords: [166.7167, -22.1333],
     description: {
       de: "Dieses Sumpfgebiet beherbergt seltene Sumpfpflanzen und ist ein kritischer Lebensraum für bedrohte Wasservögel der Südprovinz.",
       hu: "Ez a mocsaras terület ritka mocsári növényeknek ad otthont, és kritikus élőhely a Déli tartomány vízimadarai számára.",
@@ -233,7 +233,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-signal-island-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Îlot Signal", hu: "Îlot Signal Természetvédelmi Terület", ro: "Rezervația Naturală Îlot Signal", en: "Îlot Signal Nature Reserve" },
-    coordinates: { lat: -22.2961, lng: 166.2917 },
+    coords: [166.2917, -22.2961],
     description: {
       de: "Ein bedeutender Nistplatz für Seevögel und ein reiches Korallenökosystem, das die marine Vielfalt der äußeren Lagune schützt.",
       hu: "Tengeri madarak jelentős fészkelőhelye és gazdag korall-ökoszisztéma, amely a külső lagúna tengeri élővilágát védi.",
@@ -252,7 +252,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-yves-merlet-reserve-life-v2",
     type: "wildlife",
     name: { de: "Integrales Reservat Yves Merlet", hu: "Yves Merlet Integrált Rezervátum", ro: "Rezervația Integrală Yves Merlet", en: "Yves Merlet Integral Reserve" },
-    coordinates: { lat: -22.7, lng: 167.0 },
+    coords: [167.0, -22.7],
     description: {
       de: "Das strengste Schutzgebiet des Landes, ein Meeresreservat, das für wissenschaftliche Forschung ohne menschliches Betreten reserviert ist.",
       hu: "Az ország legszigorúbb védett területe, egy tengeri rezervátum, amelyet tudományos kutatásokra tartanak fenn, emberi belépés nélkül.",
@@ -271,7 +271,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-ouen-toro-forest-life-v2",
     type: "forest",
     name: { de: "Waldschutzgebiet Ouen Toro", hu: "Ouen Toro Erdőrezervátum", ro: "Rezervația Forestieră Ouen Toro", en: "Ouen Toro Forest Reserve" },
-    coordinates: { lat: -22.3025, lng: 166.4528 },
+    coords: [166.4528, -22.3025],
     description: {
       de: "Ein städtisches Naturreservat in Nouméa, das eines der letzten Überbleibsel des gefährdeten tropischen Trockenwaldes bewahrt.",
       hu: "Egy városi természetvédelmi terület Nouméában, amely a veszélyeztetett trópusi száraz erdő egyik utolsó maradványát őrzi.",
@@ -290,7 +290,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-ouamenie-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Mangroven von Ouaménie", hu: "Ouaménie mangrovék", ro: "Mangrovele din Ouaménie", en: "Ouaménie Mangroves" },
-    coordinates: { lat: -21.8667, lng: 166.0167 },
+    coords: [166.0167, -21.8667],
     description: {
       de: "Ein weitläufiges Mangrovensystem in Boulouparis, das als Kinderstube für Fische dient und eine reiche Küstenbiologie beherbergt.",
       hu: "Egy kiterjedt mangrore-rendszer Boulouparis-ban, amely halak bölcsődéjeként szolgál és gazdag partmenti biológiát rejt.",
@@ -309,7 +309,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-ouvea-atoll-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Lagune des Ouvéa-Atolls", hu: "Ouvéa-atoll lagúnája", ro: "Laguna Atolului Ouvéa", en: "Ouvéa Atoll Lagoon" },
-    coordinates: { lat: -20.6167, lng: 166.55 },
+    coords: [166.55, -20.6167],
     description: {
       de: "Diese UNESCO-geschützte Lagune ist ein Refugium für Haie, Rochen und die seltene Ouvéa-Sittich-Art auf dem Atoll.",
       hu: "Ez az UNESCO által védett lagúna cápák, ráják és az atollon élő ritka Ouvéa-papagáj menedékhelye.",
@@ -328,7 +328,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-prony-bay-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Bucht von Prony", hu: "Prony-öböl Rezervátum", ro: "Rezervația Golful Prony", en: "Prony Bay Reserve" },
-    coordinates: { lat: -22.3167, lng: 166.85 },
+    coords: [166.85, -22.3167],
     description: {
       de: "Bekannt für seine einzigartigen hydrothermalen Nadeln und als saisonaler Versammlungsort für Buckelwale im Südwinter.",
       hu: "Egyedülálló hidrotermális tűiről ismert, valamint a hosszúszárnyú bálnák szezonális gyülekezőhelyeként a déli télen.",
@@ -347,7 +347,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-entrecasteaux-reefs-life-v2",
     type: "wildlife",
     name: { de: "Entrecasteaux-Riffe", hu: "Entrecasteaux-zátonyok", ro: "Recifele Entrecasteaux", en: "Entrecasteaux Reefs" },
-    coordinates: { lat: -18.0, lng: 163.0 },
+    coords: [163.0, -18.0],
     description: {
       de: "Ein abgelegenes UNESCO-Schutzgebiet, das als weltweit bedeutender Nistplatz für die Grüne Meeresschildkröte und Seevögel dient.",
       hu: "Egy távoli UNESCO védett terület, amely a zöld teknősök és tengeri madarak világszinten jelentős fészkelőhelye.",
@@ -366,7 +366,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-netcha-reserve-life-v2",
     type: "park",
     name: { de: "Naturschutzgebiet Netcha", hu: "Netcha Természetvédelmi Terület", ro: "Rezervația Naturală Netcha", en: "Netcha Nature Reserve" },
-    coordinates: { lat: -22.1833, lng: 166.8333 },
+    coords: [166.8333, -22.1833],
     description: {
       de: "Ein Schutzgebiet im Süden, das für seine markante rote Erde und die einzigartige Macchia-Vegetation auf ultramafischem Gestein bekannt ist.",
       hu: "Egy déli védett terület, amely jellegzetes vörös földjéről és az ultramafikus kőzeteken élő egyedülálló macchia növényzetéről ismert.",
@@ -385,7 +385,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-saille-forest-life-v2",
     type: "forest",
     name: { de: "Wald von Saille", hu: "Saille-erdő", ro: "Pădurea Saille", en: "Saille Forest" },
-    coordinates: { lat: -21.4667, lng: 165.9167 },
+    coords: [165.9167, -21.4667],
     description: {
       de: "Dieser dichte Wald beherbergt eine außergewöhnliche Vielfalt an endemischen Palmen und seltenen Farnen in einer Bergregion.",
       hu: "Ez a sűrű erdő az endemikus pálmák és ritka páfrányok kivételes változatosságának ad otthont egy hegyvidéki régióban.",
@@ -404,7 +404,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-poindimie-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Meeresschutzgebiet Poindimié", hu: "Poindimié Tengeri Rezervátum", ro: "Rezervația Marină Poindimié", en: "Poindimié Marine Reserve" },
-    coordinates: { lat: -20.9333, lng: 165.3333 },
+    coords: [165.3333, -20.9333],
     description: {
       de: "Ein Schutzgebiet an der Ostküste, das für seine intakten Korallenwände und die hohe Dichte an Makro-Meereslebewesen bekannt ist.",
       hu: "Egy keleti parti védett terület, amely ép korallfalairól és a tengeri makró-élővilág nagy sűrűségéről ismert.",
@@ -423,7 +423,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-upi-bay-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Bucht von Upi", hu: "Upi-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Golful Upi", en: "Upi Bay Nature Reserve" },
-    coordinates: { lat: -22.6333, lng: 167.5167 },
+    coords: [167.5167, -22.6333],
     description: {
       de: "Ein spektakuläres Meeresgebiet auf der Insel Pines, bekannt für seine Korallenfelsen und die reiche marine Biodiversität.",
       hu: "Egy látványos tengeri terület a Fenyő-szigeten, amely korallszikláiról és gazdag tengeri biodiverzitásáról ismert.",
@@ -442,7 +442,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-boulari-pass-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Boulari-Passage", hu: "Boulari-átjáró Rezervátum", ro: "Rezervația Pasul Boulari", en: "Boulari Pass Reserve" },
-    coordinates: { lat: -22.4833, lng: 166.4167 },
+    coords: [166.4167, -22.4833],
     description: {
       de: "Eine strategische Passage im Riff, die als kritischer Korridor für große Meeresbewohner wie Mantarochen und Haie dient.",
       hu: "Egy stratégiai zátonyátjáró, amely kritikus folyosóként szolgál a nagy tengeri állatok, például mantaráják és cápák számára.",
@@ -461,7 +461,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-sarcelle-forest-life-v2",
     type: "forest",
     name: { de: "Waldschutzgebiet Sarcelle", hu: "Sarcelle Erdőrezervátum", ro: "Rezervația Forestieră Sarcelle", en: "Sarcelle Forest Reserve" },
-    coordinates: { lat: -21.6, lng: 166.25 },
+    coords: [166.25, -21.6],
     description: {
       de: "Ein abgelegener Bergwald in Thio, der eine hohe Anzahl endemischer Baumarten und seltener Vögel der Zentralkette beherbergt.",
       hu: "Egy távoli hegyi erdő Thio-ban, amely számos endemikus fafajnak és a központi lánc ritka madarainak ad otthont.",
@@ -480,7 +480,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-laregnere-island-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Îlot Larégnère", hu: "Îlot Larégnère Rezervátum", ro: "Rezervația Îlot Larégnère", en: "Îlot Larégnère Reserve" },
-    coordinates: { lat: -22.3308, lng: 166.3056 },
+    coords: [166.3056, -22.3308],
     description: {
       de: "Ein Inselreservat mit unberührten Korallenriffen, das als geschütztes Gebiet für Seevögel und marine Artenvielfalt dient.",
       hu: "Szigeti rezervátum érintetlen korallzátonyokkal, amely tengeri madarak és a tengeri élővilág védett területe.",
@@ -499,7 +499,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-bellona-reefs-life-v2",
     type: "wildlife",
     name: { de: "Bellona-Riffe", hu: "Bellona-zátonyok", ro: "Recifele Bellona", en: "Bellona Reefs" },
-    coordinates: { lat: -21.3, lng: 159.0 },
+    coords: [159.0, -21.3],
     description: {
       de: "Abgelegene Korallenriffe im Korallenmeer-Naturpark, die riesige Populationen von Seevögeln und großen Pelagialfischen beherbergen.",
       hu: "Távoli korallzátonyok a Korall-tenger Natúrparkban, amelyek hatalmas tengeri madár-populációknak és nagy ragadozó halaknak adnak otthont.",
@@ -518,7 +518,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-voh-heart-mangrove-life-v2",
     type: "wildlife",
     name: { de: "Herz von Voh Mangroven", hu: "Voh-szív mangrovék", ro: "Inima din Voh Mangrove", en: "Heart of Voh Mangroves" },
-    coordinates: { lat: -20.9333, lng: 164.65 },
+    coords: [164.65, -20.9333],
     description: {
       de: "Eine natürliche Lichtung in den Mangroven, die ein Herz formt und die Widerstandsfähigkeit des Küstenökosystems symbolisiert.",
       hu: "Természetes tisztás a mangrovékban, amely egy szívet formáz, és a partmenti ökoszisztéma ellenállóképességét jelképezi.",
@@ -537,7 +537,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-turtle-bay-reserve-life-v2",
     type: "wildlife",
     name: { de: "Schutzgebiet Schildkrötenbucht", hu: "Teknős-öböl Rezervátum", ro: "Rezervația Golful Tortues", en: "Turtle Bay Reserve" },
-    coordinates: { lat: -21.6167, lng: 165.4333 },
+    coords: [165.4333, -21.6167],
     description: {
       de: "Ein geschützter Küstenabschnitt, der für seine Araukarienwälder und als wichtiger Strand für die Eiablage von Meeresschildkröten bekannt ist.",
       hu: "Védett tengerparti szakasz, amely araukária-erdőiről és a tengeri teknősök fontos tojásrakó partjáról ismert.",
@@ -556,7 +556,7 @@ export const newcaledoniaLifeV2: POI[] = [
     id: "newcaledonia-madeleine-waterfalls-reserve-life-v2",
     type: "park",
     name: { de: "Schutzgebiet Madeleine-Wasserfälle", hu: "Madeleine-vízesés Rezervátum", ro: "Rezervația Cascada Madeleine", en: "Madeleine Waterfalls Reserve" },
-    coordinates: { lat: -22.15, lng: 166.8667 },
+    coords: [166.8667, -22.15],
     description: {
       de: "Ein einzigartiges botanisches Reservat, das seltene Nadelbäume und Pflanzen schützt, die nur in den metallreichen Böden des Südens wachsen.",
       hu: "Egyedülálló botanikai rezervátum, amely ritka fenyőféléket és növényeket véd, amelyek csak a dél fémekben gazdag talajain élnek.",

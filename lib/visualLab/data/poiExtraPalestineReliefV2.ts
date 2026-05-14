@@ -5,7 +5,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-baal-hazor-relief-v2",
     type: "peak",
     name: { de: "Baal-Hazor", hu: "Baal-Hácór", ro: "Baal-Hazor", en: "Baal-Hazor" },
-    coordinates: { lat: 31.9928, lng: 35.2408 },
+    coords: [35.2408, 31.9928],
     description: {
       de: "Der Baal-Hazor ist mit einer Höhe von 1.016 Metern der höchste Berg im Westjordanland. Er liegt im zentralen Hochland nördlich von Ramallah.",
       hu: "A Baal-Hácór Ciszjordánia legmagasabb pontja, amely 1016 méterrel magasodik a tengerszint fölé. A központi hegyvidéken található, Ramallahtól északra.",
@@ -24,7 +24,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-dead-sea-basin-relief-v2",
     type: "landmark",
     name: { de: "Holt-tenger-medence", hu: "Holt-tengeri medence", ro: "Bazinul Mării Moarte", en: "Dead Sea Basin" },
-    coordinates: { lat: 31.5, lng: 35.48 },
+    coords: [35.48, 31.5],
     description: {
       de: "Das Becken des Toten Meeres ist der tiefste Punkt der Erdoberfläche auf dem Festland. Es ist durch hohe Salzkonzentrationen und steile Klippen am Westufer geprägt.",
       hu: "A Holt-tenger medencéje a földfelszín legmélyebb pontja a szárazföldön. Magas sókoncentráció és a nyugati parton meredek sziklafalak jellemzik.",
@@ -43,7 +43,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-sartaba-relief-v2",
     type: "mountain",
     name: { de: "Sartaba", hu: "Szartaba", ro: "Sartaba", en: "Mount Sartaba" },
-    coordinates: { lat: 32.0944, lng: 35.4628 },
+    coords: [35.4628, 32.0944],
     description: {
       de: "Sartaba ist ein kegelförmiger Berg, der steil über dem Jordantal aufragt. Auf seinem Gipfel befinden sich die Ruinen der hasmonäischen Festung Alexandrium.",
       hu: "A Szartaba egy kúp alakú hegy, amely meredeken magasodik a Jordán-völgy fölé. Csúcsán az ókori Alexandrium várának romjai találhatók.",
@@ -62,7 +62,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-samarian-highlands-relief-v2",
     type: "landmark",
     name: { de: "Samarisches Hochland", hu: "Szamáriai-hegyvidék", ro: "Podișul Samariei", en: "Samarian Highlands" },
-    coordinates: { lat: 32.15, lng: 35.25 },
+    coords: [35.25, 32.15],
     description: {
       de: "Das Samarische Hochland bildet den zentralen Teil des Westjordanlandes. Es ist eine hügelige Region mit fruchtbaren Tälern und Olivenhainen.",
       hu: "A Szamáriai-hegyvidék Ciszjordánia központi részét alkotja. Dombos vidék, amelyet termékeny völgyek és olajfaligetek tagolnak.",
@@ -81,7 +81,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-wadi-ghazza-relief-v2",
     type: "valley",
     name: { de: "Wadi Ghazza", hu: "Vádi Gáza", ro: "Wadi Ghazza", en: "Wadi Ghazza" },
-    coordinates: { lat: 31.445, lng: 34.41 },
+    coords: [34.41, 31.445],
     description: {
       de: "Das Wadi Ghazza ist ein saisonaler Flusslauf im Gaza-Streifen. Es bildet eines der wichtigsten Feuchtgebiete der Region und eine markante Senke in der Küstenebene.",
       hu: "A Vádi Gáza egy időszakos folyómeder a Gázai övezetben. A régió egyik legfontosabb vizes élőhelye és jellegzetes mélyedés a tengerparti síkságon.",
@@ -100,7 +100,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-muntar-relief-v2",
     type: "peak",
     name: { de: "Muntar-Hügel", hu: "Muntar-domb", ro: "Dealul Muntar", en: "Mount Muntar" },
-    coordinates: { lat: 31.503, lng: 34.472 },
+    coords: [34.472, 31.503],
     description: {
       de: "Der Muntar-Hügel ist die höchste Erhebung in der Nähe der Stadt Gaza. Er bietet einen strategischen Blick über die gesamte Küstenebene und den Hafen.",
       hu: "A Muntar-domb a Gáza városa melletti legmagasabb pont. Stratégiai kilátást nyújt a teljes tengerparti síkságra és a kikötőre.",
@@ -119,7 +119,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-tamun-relief-v2",
     type: "mountain",
     name: { de: "Berg Tamun", hu: "Tamun-hegy", ro: "Muntele Tamun", en: "Mount Tamun" },
-    coordinates: { lat: 32.258, lng: 35.352 },
+    coords: [35.352, 32.258],
     description: {
       de: "Der Berg Tamun ist eine markante Erhebung im nordöstlichen Samarien. Er überragt das Dorf Tamun und bietet weite Blicke über das Far'a-Tal.",
       hu: "A Tamun-hegy Északkelet-Szamária egyik jelentős csúcsa. Tamun faluja felett magasodik, és tágas kilátást nyújt a Far'a-völgyre.",
@@ -138,7 +138,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-herodium-hill-relief-v2",
     type: "landmark",
     name: { de: "Herodium", hu: "Heródion", ro: "Herodium", en: "Herodium Hill" },
-    coordinates: { lat: 31.6658, lng: 35.2414 },
+    coords: [35.2414, 31.6658],
     description: {
       de: "Das Herodium ist ein kegelförmiger, künstlich erhöhter Hügel am Rande der Judäischen Wüste. Er diente als Festungspalast von Herodes dem Großen.",
       hu: "A Heródion egy kúp alakú, mesterségesen megemelt domb a Júdeai-sivatag szélén. Nagy Heródes király erődpalotájaként szolgált.",
@@ -157,7 +157,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-munidhra-relief-v2",
     type: "mountain",
     name: { de: "Berg Munidhra", hu: "Munidhra-hegy", ro: "Muntele Munidhra", en: "Mount Munidhra" },
-    coordinates: { lat: 32.312, lng: 35.305 },
+    coords: [35.305, 32.312],
     description: {
       de: "Der Berg Munidhra ist ein markanter Gipfel nördlich von Nablus. Er ist Teil des zerklüfteten Samarien-Gebirges und bietet weite Blicke nach Norden.",
       hu: "A Munidhra-hegy egy jellegzetes csúcs Náplusztól északra. A szaggatott Szamáriai-hegység része, és tágas kilátást nyújt északi irányba.",
@@ -176,7 +176,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-jenin-hills-relief-v2",
     type: "landmark",
     name: { de: "Hügelland von Jenin", hu: "Dzsenini-dombság", ro: "Dealurile Jeninului", en: "Jenin Hills" },
-    coordinates: { lat: 32.44, lng: 35.21 },
+    coords: [35.21, 32.44],
     description: {
       de: "Das Hügelland von Jenin bildet den Übergang vom samarischen Bergland zur Jesreel-Ebene. Es ist eine sanftere, aber dennoch markante Hügelregion.",
       hu: "A Dzsenini-dombság a szamáriai hegyvidék és a jezréeli síkság közötti átmenetet képezi. Lankásabb, de mégis jellegzetes dombvidék.",
@@ -195,7 +195,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-aziur-relief-v2",
     type: "peak",
     name: { de: "Berg 'Aziur", hu: "Aziur-hegy", ro: "Muntele 'Aziur", en: "Mount 'Aziur" },
-    coordinates: { lat: 31.611, lng: 35.111 },
+    coords: [35.111, 31.611],
     description: {
       de: "Der Berg 'Aziur ist eine der höchsten Erhebungen im Hebron-Hügelland. Er bietet eine weite Aussicht über das südliche Judäische Bergland.",
       hu: "Az Aziur-hegy a Hebron-dombság egyik legmagasabb pontja. Tágas kilátást nyújt a déli Júdeai-hegységre.",
@@ -214,7 +214,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-kanub-relief-v2",
     type: "mountain",
     name: { de: "Berg Kanub", hu: "Kanub-hegy", ro: "Muntele Kanub", en: "Mount Kanub" },
-    coordinates: { lat: 31.565, lng: 35.185 },
+    coords: [35.185, 31.565],
     description: {
       de: "Der Berg Kanub ist eine markante Erhebung östlich von Hebron. Er ist bekannt für seine steinige Topographie und den Blick auf die Judäische Wüste.",
       hu: "A Kanub-hegy Hebrontól keletre fekvő jelentős csúcs. Köves domborzatáról és a Júdeai-sivatagra nyíló kilátásáról ismert.",
@@ -233,7 +233,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-jebel-abu-ghneim-relief-v2",
     type: "mountain",
     name: { de: "Jebel Abu Ghneim", hu: "Dzsebel Abu Gneim", ro: "Jebel Abu Ghneim", en: "Jebel Abu Ghneim" },
-    coordinates: { lat: 31.722, lng: 35.215 },
+    coords: [35.215, 31.722],
     description: {
       de: "Der Jebel Abu Ghneim ist ein bewaldeter Hügel zwischen Jerusalem und Bethlehem. Er bildet eine markante Erhebung im südlichen Teil der Region.",
       hu: "A Dzsebel Abu Gneim egy erdős domb Jeruzsálem és Betlehem között. A régió déli részének egyik jellegzetes magaslata.",
@@ -252,7 +252,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-gilo-relief-v2",
     type: "mountain",
     name: { de: "Berg Gilo", hu: "Giló-hegy", ro: "Muntele Gilo", en: "Mount Gilo" },
-    coordinates: { lat: 31.721, lng: 35.182 },
+    coords: [35.182, 31.721],
     description: {
       de: "Der Berg Gilo ist ein hoher Gebirgsrücken südlich von Jerusalem. Mit über 900 Metern ist er einer der höchsten Punkte im zentralen Bergland.",
       hu: "A Giló-hegy egy magas hegygerinc Jeruzsálemtől délre. Több mint 900 méterével a központi hegyvidék egyik legmagasabb pontja.",
@@ -271,7 +271,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-jebel-juhar-relief-v2",
     type: "peak",
     name: { de: "Jebel Juhar", hu: "Dzsebel Dzsuhar", ro: "Jebel Juhar", en: "Jebel Juhar" },
-    coordinates: { lat: 31.52, lng: 35.125 },
+    coords: [35.125, 31.52],
     description: {
       de: "Der Jebel Juhar ist der höchste Punkt im Gebiet von Hebron. Er ist Teil des massiven zentralen Berglandes im südlichen Westjordanland.",
       hu: "A Dzsebel Dzsuhar Hebron környékének legmagasabb pontja. A dél-ciszjordániai masszív hegyvidék része.",
@@ -290,7 +290,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-jebel-mukabbir-relief-v2",
     type: "peak",
     name: { de: "Jebel Mukabbir", hu: "Dzsebel Mukabbir", ro: "Jebel Mukabbir", en: "Jebel Mukabbir" },
-    coordinates: { lat: 31.75, lng: 35.235 },
+    coords: [35.235, 31.75],
     description: {
       de: "Der Jebel Mukabbir ist ein markanter Hügel im Süden Jerusalems. Er bietet einen der berühmtesten Ausblicke auf die Altstadt und den Tempelberg.",
       hu: "A Dzsebel Mukabbir egy jellegzetes domb Jeruzsálem déli részén. Az egyik leghíresebb kilátást nyújtja az óvárosra és a Templom-hegyre.",
@@ -309,7 +309,7 @@ export const palestineReliefV2: POI[] = [
     id: "palestine-mount-salman-relief-v2",
     type: "mountain",
     name: { de: "Berg Salman", hu: "Szalman-hegy", ro: "Muntele Salman", en: "Mount Salman" },
-    coordinates: { lat: 32.185, lng: 35.232 },
+    coords: [35.232, 32.185],
     description: {
       de: "Der Berg Salman ist eine Erhebung westlich von Nablus. Er ist Teil des zentralen Samarien-Massivs und bekannt für seine felsigen Gipfelbereiche.",
       hu: "A Szalman-hegy Náplusztól nyugatra fekvő magaslat. A központi szamáriai masszívum része, és sziklás csúcsterületeiről ismert.",

@@ -633,7 +633,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-nikachhu-hydropower-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Nikachhu", hu: "Nikachhu vízerőmű", ro: "Centrala hidroelectrică Nikachhu", en: "Nikachhu Hydropower Plant" },
-    coordinates: { lat: 27.4208, lng: 90.4125 },
+    coords: [90.4125, 27.4208],
     description: {
       de: "Das Nikachhu-Wasserkraftwerk in Trongsa leistet 118 Megawatt. Es exportiert Strom nach Indien und fördert die grüne Wirtschaft des Landes.",
       hu: "A Trongsa körzetben található 118 megawattos vízerőmű fontos projekt. Áramot exportál Indiába, támogatva az ország zöld gazdasági növekedését.",
@@ -664,7 +664,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-kholongchhu-hydropower-economic-v2",
     type: "industry",
     name: { de: "Kholongchhu-Wasserkraftprojekt", hu: "Kholongchhu vízerőmű projekt", ro: "Proiectul hidroelectric Kholongchhu", en: "Kholongchhu Hydropower Project" },
-    coordinates: { lat: 27.6014, lng: 91.5128 },
+    coords: [91.5128, 27.6014],
     description: {
       de: "Dieses Projekt in Trashi Yangtse ist das erste Joint Venture mit Indien. Es wird 600 Megawatt Strom für den regionalen Export erzeugen.",
       hu: "Ez a Trashi Yangtse-i projekt az első vegyesvállalat Indiával. 600 megawatt energiát termel majd a regionális export céljára.",
@@ -695,7 +695,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-chunaikhola-dolomite-mine-economic-v2",
     type: "mine",
     name: { de: "Dolomitbergwerk Chunaikhola", hu: "Chunaikhola dolomitbánya", ro: "Mina de dolomit Chunaikhola", en: "Chunaikhola Dolomite Mine" },
-    coordinates: { lat: 26.9352, lng: 89.2241 },
+    coords: [89.2241, 26.9352],
     description: {
       de: "Dieses Bergwerk in Samtse ist eine der größten Dolomitquellen der Region. Es versorgt die Stahl- und Zementindustrie im benachbarten Indien.",
       hu: "Ez a Samtse-i bánya a régió egyik legnagyobb dolomitforrása. Az acél- és cementipart látja el alapanyaggal a szomszédos Indiában.",
@@ -726,7 +726,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-pagli-limestone-mine-economic-v2",
     type: "mine",
     name: { de: "Kalksteinbergwerk Pagli", hu: "Pagli mészkőbánya", ro: "Mina de calcar Pagli", en: "Pagli Limestone Mine" },
-    coordinates: { lat: 26.8914, lng: 89.1125 },
+    coords: [89.1125, 26.8914],
     description: {
       de: "Die Pagli-Mine liefert hochwertigen Kalkstein für die Zementproduktion. Sie ist ein Rückgrat der Bauindustrie im südlichen Bhutan.",
       hu: "A Pagli bánya kiváló minőségű mészkövet biztosít a cementgyártáshoz. A dél-bhutáni építőipar egyik meghatározó alapanyagszállítója.",
@@ -757,7 +757,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-changzamtog-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Gewerbegebiet Changzamtog", hu: "Changzamtog ipari negyed", ro: "Zona industrială Changzamtog", en: "Changzamtog Industrial Estate" },
-    coordinates: { lat: 27.4625, lng: 89.6412 },
+    coords: [89.6412, 27.4625],
     description: {
       de: "Dieses Industriegebiet in Thimphu beherbergt zahlreiche kleine und mittlere Betriebe. Es ist ein Zentrum für Handwerk und Leichtindustrie.",
       hu: "Ez a Thimphu-i ipari terület számos kis- és középvállalkozásnak ad otthont. A kézműipar és a könnyűipar egyik központja a fővárosban.",
@@ -788,7 +788,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-bhutan-board-products-economic-v2",
     type: "factory",
     name: { de: "Bhutan Board Products Limited", hu: "Bhutan Board Products Limited", ro: "Bhutan Board Products Limited", en: "Bhutan Board Products Limited" },
-    coordinates: { lat: 26.9312, lng: 89.5218 },
+    coords: [89.5218, 26.9312],
     description: {
       de: "Diese Fabrik in Gedu stellt hochwertige Holzwerkstoffe und Spanplatten her. Sie nutzt Bhutans forstwirtschaftliche Ressourcen nachhaltig aus.",
       hu: "Ez a Gedu-i gyár kiváló minőségű faalapú paneleket és forgácslapokat gyárt. Fenntartható módon használja ki az ország erdészeti kincseit.",
@@ -819,7 +819,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-national-mushroom-centre-economic-v2",
     type: "industry",
     name: { de: "Nationales Pilzzentrum", hu: "Nemzeti Gombakutató Központ", ro: "Centrul Național de Ciuperci", en: "National Mushroom Centre" },
-    coordinates: { lat: 27.4215, lng: 89.6385 },
+    coords: [89.6385, 27.4215],
     description: {
       de: "Das Zentrum in Wangchutaba koordiniert die Pilzproduktion im ganzen Land. Es unterstützt Bauern bei der Kultivierung von Speisepilzen.",
       hu: "A Wangchutaba-i központ koordinálja az országos gombatermesztést. Segíti a gazdákat az ehető gombák termesztési technológiájával.",
@@ -850,7 +850,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-red-panda-brewery-economic-v2",
     type: "factory",
     name: { de: "Red Panda Brauerei", hu: "Red Panda Sörfőzde", ro: "Fabrica de bere Red Panda", en: "Red Panda Brewery" },
-    coordinates: { lat: 27.5512, lng: 90.7485 },
+    coords: [90.7485, 27.5512],
     description: {
       de: "Diese berühmte Brauerei in Bumthang produziert das erste Weißbier Bhutans. Sie ist ein Beispiel für erfolgreiches lokales Unternehmertum.",
       hu: "Ez a híres Bumthang-i sörfőzde gyártja Bhután első búzasörét. A helyi vállalkozói szellem és minőségi gyártás egyik példája.",
@@ -881,7 +881,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-samtse-fruit-processing-economic-v2",
     type: "factory",
     name: { de: "Früchteverarbeitung Samtse", hu: "Samtse Gyümölcsfeldolgozó Üzem", ro: "Fabrica de procesare a fructelor Samtse", en: "Samtse Fruit Processing Plant" },
-    coordinates: { lat: 26.9015, lng: 89.0725 },
+    coords: [89.0725, 26.9015],
     description: {
       de: "Die Anlage verarbeitet tropische Früchte zu Säften und Konserven für den Export. Sie sichert die Einkommen zahlreicher Obstbauern im Süden.",
       hu: "Az üzem trópusi gyümölcsöket dolgoz fel lévé és konzervvé exportra. Számos déli gyümölcstermesztő gazda megélhetését biztosítja.",
@@ -912,7 +912,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-beekeeping-cooperative-economic-v2",
     type: "industry",
     name: { de: "Imkereigenossenschaft Bhutans", hu: "Bhutáni Méhészeti Szövetkezet", ro: "Cooperativa Apicolă din Bhutan", en: "Beekeeping Cooperative of Bhutan" },
-    coordinates: { lat: 27.5452, lng: 90.7512 },
+    coords: [90.7512, 27.5452],
     description: {
       de: "Diese Genossenschaft in Bumthang vermarktet hochwertigen Bio-Honig weltweit. Sie fördert nachhaltige Landwirtschaft und schützt die Artenvielfalt.",
       hu: "Ez a Bumthang-i szövetkezet kiváló minőségű bio mézet értékesít világszerte. Segíti a fenntartható gazdálkodást és a beporzókat.",
@@ -943,7 +943,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-gedu-business-college-economic-v2",
     type: "university",
     name: { de: "Wirtschaftshochschule Gedu", hu: "Gedu Gazdasági Főiskola", ro: "Colegiul de Afaceri Gedu", en: "Gedu College of Business Studies" },
-    coordinates: { lat: 26.9385, lng: 89.5122 },
+    coords: [89.5122, 26.9385],
     description: {
       de: "Die Hochschule bildet die zukünftigen Führungskräfte für Bhutans Wirtschaft aus. Sie ist das führende Zentrum für Management und Unternehmertum.",
       hu: "A főiskola Bhután gazdasági életének jövőbeli vezetőit képzi. Az ország vezető központja a menedzsment és a vállalkozás terén.",
@@ -974,7 +974,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-tingtibi-citrus-hub-economic-v2",
     type: "industry",
     name: { de: "Zitruszentrum Tingtibi", hu: "Tingtibi Citrusközpont", ro: "Hub-ul de citrice Tingtibi", en: "Tingtibi Citrus Hub" },
-    coordinates: { lat: 27.1325, lng: 90.6912 },
+    coords: [90.6912, 27.1325],
     description: {
       de: "Tingtibi ist ein wichtiger Sammelpunkt für die Mandarinenproduktion in Zentralbhutan. Von hier aus werden Zitrusfrüchte nach Indien exportiert.",
       hu: "Tingtibi a közép-bhutáni mandarintermesztés egyik legfontosabb gyűjtőpontja. Innen exportálják a citrusféléket Indiába és Bangladesbe.",
@@ -1005,7 +1005,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-chengmari-cardamom-estates-economic-v2",
     type: "industry",
     name: { de: "Kardamom-Plantagen Chengmari", hu: "Chengmari kardamom ültetvények", ro: "Plantațiile de cardamom Chengmari", en: "Chengmari Cardamom Estates" },
-    coordinates: { lat: 26.9514, lng: 89.0528 },
+    coords: [89.0528, 26.9514],
     description: {
       de: "Chengmari im Südwesten ist bekannt für den großflächigen Anbau von schwarzem Kardamom. Die Gewürze sind ein wertvolles Exportgut Bhutans.",
       hu: "A délnyugati Chengmari a fekete kardamom nagyüzemi termesztéséről ismert. Ez a fűszer Bhután egyik legértékesebb exportcikke.",
@@ -1036,7 +1036,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-bondey-agricultural-machinery-economic-v2",
     type: "factory",
     name: { de: "Landmaschinenzentrum Bondey", hu: "Bondey Mezőgazdasági Gépközpont", ro: "Centrul de utilaje agricole Bondey", en: "Bondey Farm Machinery Centre" },
-    coordinates: { lat: 27.4125, lng: 89.4214 },
+    coords: [89.4214, 27.4125],
     description: {
       de: "Dieses Zentrum in Paro ist für die Mechanisierung der bhutanischen Landwirtschaft entscheidend. Es fertigt und wartet spezialisierte Landmaschinen.",
       hu: "Ez a Paro-i központ kulcsfontosságú a bhutáni mezőgazdaság gépesítésében. Speciális mezőgazdasági gépeket gyártanak és javítanak itt.",
@@ -1067,7 +1067,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-bhutan-post-hq-economic-v2",
     type: "landmark",
     name: { de: "Bhutan Post Hauptquartier", hu: "Bhutan Post központ", ro: "Sediul Central Bhutan Post", en: "Bhutan Post HQ" },
-    coordinates: { lat: 27.4715, lng: 89.6385 },
+    coords: [89.6385, 27.4715],
     description: {
       de: "Das Hauptquartier in Thimphu steuert die postalischen und finanziellen Dienste des Landes. Es ist berühmt für seine einzigartigen Briefmarken.",
       hu: "A Thimphu-i központ irányítja az ország postai és pénzügyi szolgáltatásait. Világhírű az egyedi és különleges postabélyegeiről.",
@@ -1098,7 +1098,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-babesa-techpark-economic-v2",
     type: "industry",
     name: { de: "IT-Park Babesa", hu: "Babesa IT Park", ro: "Parcul IT Babesa", en: "Babesa TechPark" },
-    coordinates: { lat: 27.4325, lng: 89.6685 },
+    coords: [89.6685, 27.4325],
     description: {
       de: "Der TechPark in Babesa ist Bhutans erster IT-Park und fördert digitale Innovationen. Er beherbergt nationale und internationale Technologieunternehmen.",
       hu: "A Babesa-i technológiai park Bhután első IT-központja a digitális innovációért. Hazai és nemzetközi szoftvercégeknek ad otthont.",
@@ -1129,7 +1129,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-khasadrapchu-weaving-centre-economic-v2",
     type: "factory",
     name: { de: "Webzentrum Khasadrapchu", hu: "Khasadrapchu szövőközpont", ro: "Centrul de țesut Khasadrapchu", en: "Khasadrapchu Weaving Centre" },
-    coordinates: { lat: 27.3614, lng: 89.6125 },
+    coords: [89.6125, 27.3614],
     description: {
       de: "Dieses Zentrum bewahrt die traditionelle bhutanische Webkunst und schafft Arbeitsplätze. Die handgefertigten Textilien sind wertvolle Wirtschaftsgüter.",
       hu: "Ez a központ megőrzi a hagyományos bhutáni szövésművészetet és munkahelyeket teremt. A kézzel készült textilek értékes árucikkek.",
@@ -1160,7 +1160,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-bajo-research-centre-economic-v2",
     type: "industry",
     name: { de: "Forschungszentrum Bajo", hu: "Bajo Mezőgazdasági Kutatóközpont", ro: "Centrul de Cercetare Bajo", en: "Bajo Research Centre" },
-    coordinates: { lat: 27.4815, lng: 89.9085 },
+    coords: [89.9085, 27.4815],
     description: {
       de: "Das Zentrum in Bajo forscht an neuen Anbaumethoden für Reis und Weizen. Es ist entscheidend für die Ernährungssicherheit und Agrarwirtschaft.",
       hu: "A Bajo-i központ új rizs- és búzafajták termesztési módszereit kutatja. Kulcsfontosságú az ország élelmiszerbiztonsága szempontjából.",
@@ -1191,7 +1191,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "bhutan-borbang-coal-mine-economic-v2",
     type: "mine",
     name: { de: "Kohlebergwerk Borbang", hu: "Borbang kőszénbánya", ro: "Mina de cărbune Borbang", en: "Borbang Coal Mine" },
-    coordinates: { lat: 26.8512, lng: 91.6325 },
+    coords: [91.6325, 26.8512],
     description: {
       de: "Borbang ist eine der wenigen Kohleminen Bhutans und liegt im Südosten. Sie versorgt lokale Industrien und Zementfabriken mit Energie.",
       hu: "Borbang Bhután kevés kőszénbányájának egyike a délkeleti országrészben. A helyi ipart és cementgyárakat látja el energiával.",

@@ -547,7 +547,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Rumeli Hisarı", hu: "Rumeli erőd", ro: "Cetatea Rumeli", en: "Rumeli Fortress" },
-    coordinates: { lat: 41.0861, lng: 29.0572 },
+    coords: [29.0572, 41.0861],
     description: {
       de: "Ottomanische Festung am Bosporus, erbaut 1452 zur Vorbereitung der Eroberung Konstantinopels. Sie verfügt über drei große Haupttürme.",
       hu: "Oszmán erőd a Boszporusz partján, 1452-ben épült Konstantinápoly ostromának előkészítésére. Három hatalmas főtoronnyal rendelkezik.",
@@ -567,7 +567,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Süleymaniye-Moschee", hu: "Szulejmán-mecset", ro: "Moscheea Süleymaniye", en: "Süleymaniye Mosque" },
-    coordinates: { lat: 41.0161, lng: 28.9644 },
+    coords: [28.9644, 41.0161],
     description: {
       de: "Große kaiserliche Moschee in Istanbul, entworfen vom Architekten Mimar Sinan im 16. Jahrhundert. Sie ist das Grabmal von Süleyman dem Prächtigen.",
       hu: "Hatalmas császári mecset Isztambulban, amelyet Mimar Sinan tervezett a 16. században. Itt található Nagy Szulejmán szultán sírhelye.",
@@ -587,7 +587,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Mevlana-Museum", hu: "Mevlana Múzeum", ro: "Muzeul Mevlana", en: "Mevlana Museum" },
-    coordinates: { lat: 37.8711, lng: 32.505 },
+    coords: [32.505, 37.8711],
     description: {
       de: "Mausoleum von Rumi, dem Gründer des Ordens der tanzenden Derwische in Konya. Das Gebäude ist an seiner markanten grünen Kuppel erkennbar.",
       hu: "Rumi mauzóleuma Konyában, aki a keringő dervisek rendjének alapítója volt. Az épület jellegzetes zöld kupolájáról ismerhető fel.",
@@ -607,7 +607,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "church",
     parent: "TR",
     name: { de: "Kirche von Akdamar", hu: "Ahtamari templom", ro: "Biserica Akdamar", en: "Church of Akdamar" },
-    coordinates: { lat: 38.3411, lng: 43.0333 },
+    coords: [43.0333, 38.3411],
     description: {
       de: "Armenische Kathedrale des Heiligen Kreuzes auf der Insel Akdamar im Van-See. Sie ist berühmt für ihre kunstvollen biblischen Steinreliefs.",
       hu: "Örmény Szent Kereszt-székesegyház a Van-tó Akdamar-szigetén. Híres a falait díszítő bibliai témájú kőfaragványokról.",
@@ -627,7 +627,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Stadtmauer von Diyarbakır", hu: "Diyarbakıri várfalak", ro: "Zidurile din Diyarbakır", en: "Diyarbakır Fortress Walls" },
-    coordinates: { lat: 37.9133, lng: 40.2317 },
+    coords: [40.2317, 37.9133],
     description: {
       de: "Massive Stadtmauern aus schwarzem Basalt, die die Altstadt von Diyarbakır umschließen. Sie gehören zu den längsten Stadtmauern der Welt.",
       hu: "Masszív fekete bazalt várfalak, amelyek körbeveszik Diyarbakır óvárosát. A világ egyik leghosszabb fennmaradt városfala.",
@@ -647,7 +647,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "monument",
     parent: "TR",
     name: { de: "Märtyrerdenkmal von Çanakkale", hu: "Çanakkale mártírok emlékműve", ro: "Monumentul Martirilor din Çanakkale", en: "Çanakkale Martyrs' Memorial" },
-    coordinates: { lat: 40.05, lng: 26.2133 },
+    coords: [26.2133, 40.05],
     description: {
       de: "Kriegsdenkmal zu Ehren der türkischen Soldaten, die in der Schlacht von Gallipoli 1915 fielen. Es ist ein Symbol des modernen türkischen Staates.",
       hu: "Háborús emlékmű az 1915-ös gallipoli csatában elesett török katonák tiszteletére. A modern török állam egyik fontos szimbóluma.",
@@ -667,7 +667,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "palace",
     parent: "TR",
     name: { de: "Beylerbeyi-Palast", hu: "Beylerbeyi palota", ro: "Palatul Beylerbeyi", en: "Beylerbeyi Palace" },
-    coordinates: { lat: 41.0425, lng: 29.0403 },
+    coords: [29.0403, 41.0425],
     description: {
       de: "Sommerresidenz der osmanischen Sultane auf der asiatischen Seite des Bosporus. Er ist bekannt für seine prächtige Ausstattung und Gärten.",
       hu: "Oszmán szultánok nyári rezidenciája a Boszporusz ázsiai oldalán. Híres fényűző belső berendezéséről és kertjeiről.",
@@ -687,7 +687,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Ortaköy-Moschee", hu: "Ortaköy-mecset", ro: "Moscheea Ortaköy", en: "Ortaköy Mosque" },
-    coordinates: { lat: 41.0472, lng: 29.0272 },
+    coords: [29.0272, 41.0472],
     description: {
       de: "Barocke Moschee direkt am Bosporus-Ufer, offiziell Büyük Mecidiye Camii genannt. Sie ist ein beliebtes Fotomotiv vor der Bosporus-Brücke.",
       hu: "Barokk mecset közvetlenül a Boszporusz partján, hivatalos neve Büyük Mecidiye Camii. Népszerű fotótéma a Boszporusz-híd előtt.",
@@ -707,7 +707,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Bahnhof Haydarpaşa", hu: "Haydarpaşa pályaudvar", ro: "Gara Haydarpașa", en: "Haydarpaşa Railway Station" },
-    coordinates: { lat: 40.9972, lng: 29.0192 },
+    coords: [29.0192, 40.9972],
     description: {
       de: "Historischer Hauptbahnhof auf der asiatischen Seite Istanbuls, erbaut im Jahr 1908. Er war der Endpunkt der Bagdadbahn.",
       hu: "Történelmi főpályaudvar Isztambul ázsiai oldalán, 1908-ban épült. A Bagdad-vasút nyugati végállomása volt.",
@@ -727,7 +727,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Valens-Aquädukt", hu: "Valens-vízvezeték", ro: "Apeductul lui Valens", en: "Valens Aqueduct" },
-    coordinates: { lat: 41.0164, lng: 28.955 },
+    coords: [28.955, 41.0164],
     description: {
       de: "Römisches Aquädukt im Herzen Istanbuls, fertiggestellt unter Kaiser Valens im 4. Jahrhundert. Es diente jahrhundertelang der Wasserversorgung.",
       hu: "Római kori vízvezeték Isztambul szívében, Valens császár alatt készült el a 4. században. Évszázadokon át biztosította a vízellátást.",
@@ -747,7 +747,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Altstadt von Mardin", hu: "Mardin óvárosa", ro: "Orașul vechi Mardin", en: "Mardin Old City" },
-    coordinates: { lat: 37.3131, lng: 40.735 },
+    coords: [40.735, 37.3131],
     description: {
       de: "Historische Stadt mit honigfarbenen Kalksteinhäusern am Hang eines Hügels. Sie überblickt die weiten Ebenen von Mesopotamien.",
       hu: "Történelmi város mézszínű mészkőházakkal egy domboldalon. Pazar kilátás nyílik innen a mezopotámiai síkságokra.",
@@ -767,7 +767,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Kloster Deyrulzafaran", hu: "Deyrulzafaran-kolostor", ro: "Mănăstirea Deyrulzafaran", en: "Deyrulzafaran Monastery" },
-    coordinates: { lat: 37.3, lng: 40.7933 },
+    coords: [40.7933, 37.3],
     description: {
       de: "Bedeutendes syrisch-orthodoxes Kloster nahe Mardin, das auf einem alten Sonnentempel errichtet wurde. Es war lange Sitz des Patriarchen.",
       hu: "Fontos szír ortodox kolostor Mardin közelében, amely egy ókori naptemplomra épült. Hosszú ideig a pátriárka székhelye volt.",
@@ -787,7 +787,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "bridge",
     parent: "TR",
     name: { de: "Yavuz-Sultan-Selim-Brücke", hu: "Yavuz Sultan Selim híd", ro: "Podul Yavuz Sultan Selim", en: "Yavuz Sultan Selim Bridge" },
-    coordinates: { lat: 41.2028, lng: 29.1111 },
+    coords: [29.1111, 41.2028],
     description: {
       de: "Dritte Brücke über den Bosporus, die Europa und Asien verbindet. Sie ist eine der höchsten und breitesten Hängebrücken der Welt.",
       hu: "A harmadik híd a Boszporusz felett, amely Európát és Ázsiát köti össze. A világ egyik legmagasabb és legszélesebb függőhídja.",
@@ -807,7 +807,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Große Moschee von Bursa", hu: "Bursai nagymecset", ro: "Marea Moschee din Bursa", en: "Bursa Grand Mosque" },
-    coordinates: { lat: 40.1839, lng: 29.062 },
+    coords: [29.062, 40.1839],
     description: {
       de: "Historische Moschee in Bursa mit 20 Kuppeln, erbaut Ende des 14. Jahrhunderts. Sie ist berühmt für ihre monumentale Kalligrafie.",
       hu: "Történelmi mecset Bursában 20 kupolával, a 14. század végén épült. Híres a falait díszítő monumentális kalligráfiáról.",
@@ -827,7 +827,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Karatay-Madrasa", hu: "Karatay medresze", ro: "Medresa Karatay", en: "Karatay Madrasa" },
-    coordinates: { lat: 37.8744, lng: 32.4892 },
+    coords: [32.4892, 37.8744],
     description: {
       de: "Ehemalige religiöse Schule in Konya, heute ein Museum für Keramikfliesen. Sie ist ein bedeutendes Beispiel seldschukischer Architektur.",
       hu: "Egykori vallási iskola Konyában, ma kerámiamúzeum. A szeldzsuk építészet egyik legfontosabb fennmaradt emléke.",
@@ -847,7 +847,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Archäologische Museen Istanbul", hu: "Isztambuli Régészeti Múzeum", ro: "Muzeele de Arheologie din Istanbul", en: "Istanbul Archaeological Museums" },
-    coordinates: { lat: 41.0117, lng: 28.9814 },
+    coords: [28.9814, 41.0117],
     description: {
       de: "Museumskomplex in der Nähe des Topkapı-Palastes mit über einer Million Artefakten. Er umfasst den Alexander-Sarkophag.",
       hu: "Múzeumi komplexum a Topkapı palota közelében, több mint egymillió műtárggyal. Itt található a híres Alexandrosz-szarkofág.",
@@ -867,7 +867,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Burg von Ankara", hu: "Ankarai vár", ro: "Cetatea din Ankara", en: "Ankara Castle" },
-    coordinates: { lat: 39.9414, lng: 32.8653 },
+    coords: [32.8653, 39.9414],
     description: {
       de: "Historische Festung auf einem Hügel über der Altstadt von Ankara. Ihre Mauern stammen aus verschiedenen Epochen von der Antike bis zum Mittelalter.",
       hu: "Történelmi erőd az ankarai óváros feletti dombon. Falai különböző korszakokból, az ókortól a középkorig származnak.",
@@ -887,7 +887,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "museum",
     parent: "TR",
     name: { de: "Museum für anatolische Zivilisationen", hu: "Anatóliai Civilizációk Múzeuma", ro: "Muzeul Civilizațiilor Anatoliene", en: "Museum of Anatolian Civilizations" },
-    coordinates: { lat: 39.9383, lng: 32.8619 },
+    coords: [32.8619, 39.9383],
     description: {
       de: "Preisgekröntes Museum in Ankara, das in einem restaurierten osmanischen Basar untergebracht ist. Es zeigt Exponate von der Steinzeit bis heute.",
       hu: "Díjnyertes múzeum Ankarában, egy felújított oszmán bazár épületében. A kőkorszaktól napjainkig mutatja be Anatólia történelmét.",
@@ -907,7 +907,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "church",
     parent: "TR",
     name: { de: "Chora-Kirche", hu: "Kariye-mecset", ro: "Biserica Chora", en: "Chora Church" },
-    coordinates: { lat: 41.0311, lng: 28.9392 },
+    coords: [28.9392, 41.0311],
     description: {
       de: "Ehemalige byzantinische Kirche in Istanbul, bekannt für ihre gut erhaltenen Mosaiken und Fresken. Sie wurde später in eine Moschee umgewandelt.",
       hu: "Egykori bizánci templom Isztambulban, híres épen maradt mozaikjairól és freskóiról. Később mecsetté alakították.",
@@ -927,7 +927,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "bridge",
     parent: "TR",
     name: { de: "Osmangazi-Brücke", hu: "Osmangazi híd", ro: "Podul Osmangazi", en: "Osmangazi Bridge" },
-    coordinates: { lat: 40.7519, lng: 29.5194 },
+    coords: [29.5194, 40.7519],
     description: {
       de: "Hängebrücke über den Golf von Izmit im Marmarameer. Sie verkürzt die Reisezeit zwischen Istanbul und dem westlichen Anatolien erheblich.",
       hu: "Függőhíd az Izmiti-öböl felett a Márvány-tengeren. Jelentősen lerövidíti az utazási időt Isztambul és Nyugat-Anatólia között.",
@@ -947,7 +947,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "castle",
     parent: "TR",
     name: { de: "Festung Yedikule", hu: "Yedikule erőd", ro: "Cetatea Yedikule", en: "Yedikule Fortress" },
-    coordinates: { lat: 40.9939, lng: 28.9228 },
+    coords: [28.9228, 40.9939],
     description: {
       de: "Historische Anlage an der Stadtmauer von Istanbul, bekannt als die Burg der sieben Türme. Sie umfasst das goldene Tor der Byzantiner.",
       hu: "Történelmi erőd az isztambuli városfalnál, héttorony néven is ismert. Itt található a bizánciak egykori Aranykapuja.",
@@ -967,7 +967,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "palace",
     parent: "TR",
     name: { de: "Çırağan-Palast", hu: "Çırağan palota", ro: "Palatul Çırağan", en: "Çırağan Palace" },
-    coordinates: { lat: 41.0439, lng: 29.0164 },
+    coords: [29.0164, 41.0439],
     description: {
       de: "Ehemaliger osmanischer Palast am Bosporusufer, heute ein Luxushotel. Er wurde im 19. Jahrhundert für Sultan Abdülaziz errichtet.",
       hu: "Egykori oszmán palota a Boszporusz partján, ma luxusszálloda. A 19. században épült Abdül-Aziz szultán számára.",
@@ -987,7 +987,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR",
     name: { de: "Fatih-Moschee", hu: "Hódító-mecset", ro: "Moscheea Fatih", en: "Fatih Mosque" },
-    coordinates: { lat: 41.0197, lng: 28.9497 },
+    coords: [28.9497, 41.0197],
     description: {
       de: "Großer Moscheekomplex in Istanbul, benannt nach Sultan Mehmed dem Eroberer. Das ursprüngliche Gebäude stand an der Stelle der Apostelkirche.",
       hu: "Hatalmas mecsetkomplexum Isztambulban, II. Mehmed hódító szultánról nevezték el. Az eredeti épület a Szent Apostolok-templom helyén állt.",

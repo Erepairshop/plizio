@@ -935,7 +935,7 @@ export const poiExtraSudanLifeV2: POI[] = [
     id: "sudan-radom-national-park-life-v2",
     type: "wildlife",
     name: { de: "Radom-Nationalpark", hu: "Radom Nemzeti Park", ro: "Parcul Național Radom", en: "Radom National Park" },
-    coordinates: { lat: 9.25, lng: 24.166667 },
+    coords: [24.166667, 9.25],
     description: {
       de: "Der Radom-Nationalpark ist ein Biosphärenreservat im Südwesten des Sudans an der Grenze zur Zentralafrikanischen Republik. Er beheimatet diverse Arten der afrikanischen Savanne und Feuchtwaldgebiete.",
       hu: "A Radom Nemzeti Park egy bioszféra-rezervátum Szudán délnyugati részén, a Közép-afrikai Köztársasággal határos. Az afrikai szavannák és nedves erdők változatos fajainak ad otthont.",

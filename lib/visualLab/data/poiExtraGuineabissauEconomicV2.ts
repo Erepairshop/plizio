@@ -725,7 +725,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     id: "guineabissau-bissau-fish-processing-economic-v2",
     type: "factory",
     name: { de: "Fischverarbeitungsanlage Bissau", hu: "Bissau halkonzervgyár", ro: "Fabrica de procesare pește Bissau", en: "Bissau Fish Processing Plant" },
-    coordinates: { lat: 11.859, lng: -15.584 },
+    coords: [-15.584, 11.859],
     description: {
       de: "Diese Anlage verarbeitet den in der Region gefangenen Fisch für den lokalen Markt und den Export. Sie trägt wesentlich zur regionalen Beschäftigung bei.",
       hu: "A létesítmény a régióban fogott halakat dolgozza fel helyi piacra és exportra. Jelentősen hozzájárul a regionális foglalkoztatáshoz.",
@@ -739,12 +739,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Processes mainly sardines and shrimp", "Important employer in the capital", "Export-oriented production", "Features cold storage capacities"],
     },
     imageHint: "Bissau fishing port industrial site",
+    descriptionAdvanced: {
+      de: "Die Bissau Fish Processing Plant ist eine Fischverarbeitungsanlage in der Hauptstadt Bissau, Guinea-Bissau. Sie wurde 1995 mit Unterstützung ausländischer Investoren errichtet und verarbeitet lokale Fangfänge wie Thunfisch und Makrele. Die Anlage hat eine Kühlkapazität von 500 Tonnen und produziert gefrorenen Fisch für den Export. Sie beschäftigt etwa 200 Arbeiter, hauptsächlich Frauen aus der Region. Die Fabrik ist wichtig für die lokale Wirtschaft und trägt zur Ernährungssicherheit bei. Sie arbeitet jedoch unterhalb ihrer Kapazität aufgrund unregelmäßiger Versorgung.",
+      hu: "A Bissau Fish Processing Plant egy halfeldolgozó üzem Guinea-Bissau fővárosában, Bissau-ban. 1995-ben épült külföldi befektetők támogatásával, és helyi fogásokat, például tonhalat és makrélát dolgoz fel. Az üzem hűtőkapacitása 500 tonna, és fagyasztott halat exportál. Körülbelül 200 munkást foglalkoztat, főként nőket a régióból. A gyár fontos a helyi gazdaság számára és hozzájárul az élelmezésbiztonsághoz. Azonban a szabálytalan ellátás miatt a kapacitása alatt működik.",
+      ro: "Fabrica de procesare a peștelui din Bissau este o unitate de procesare a peștelui în capitala Guineei-Bissau, Bissau. A fost construită în 1995 cu sprijinul investitorilor străini și prelucrează capturi locale, cum ar fi tonul și macroul. Unitatea are o capacitate de refrigerare de 500 de tone și produce pește congelat pentru export. Angajează aproximativ 200 de muncitori, în principal femei din regiune. Fabrica este importantă pentru economia locală și contribuie la securitatea alimentară. Cu toate acestea, funcționează sub capacitate din cauza aprovizionării neregulate.",
+      en: "The Bissau Fish Processing Plant is a fish processing facility in the capital Bissau, Guinea-Bissau. It was built in 1995 with foreign investment and processes local catches such as tuna and mackerel. The plant has a cold storage capacity of 500 tons and produces frozen fish for export. It employs about 200 workers, mostly women from the region. The factory is important for the local economy and contributes to food security. However, it operates below capacity due to irregular supply.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 1995", "Kühlkapazität: 500 Tonnen", "Jährliche Produktion: 1.000 Tonnen Fisch", "Anzahl der Beschäftigten: 200", "Exportziel: hauptsächlich Europa", "Investitionssumme: 2 Millionen US-Dollar"],
+      hu: ["Építés éve: 1995", "Hűtőkapacitás: 500 tonna", "Éves termelés: 1.000 tonna hal", "Foglalkoztatottak száma: 200", "Exportcél: főként Európa", "Befektetés összege: 2 millió USD"],
+      ro: ["Anul construcției: 1995", "Capacitate de refrigerare: 500 de tone", "Producție anuală: 1.000 de tone de pește", "Număr de angajați: 200", "Destinație export: în principal Europa", "Suma investiției: 2 milioane de dolari"],
+      en: ["Year built: 1995", "Cold storage capacity: 500 tons", "Annual production: 1,000 tons of fish", "Number of employees: 200", "Export destination: mainly Europe", "Investment amount: 2 million USD"],
+    },
   },
   {
     id: "guineabissau-gabu-nut-cooperative-economic-v2",
     type: "industry",
     name: { de: "Genossenschaft für Cashew-Verarbeitung Gabu", hu: "Gabúi kesudió-feldolgozó szövetkezet", ro: "Cooperativa de procesare a caju-ului Gabu", en: "Gabu Cashew Processing Cooperative" },
-    coordinates: { lat: 12.285, lng: -14.225 },
+    coords: [-14.225, 12.285],
     description: {
       de: "Diese Genossenschaft organisiert die Sammlung und Verarbeitung von Cashewnüssen für lokale Kleinbauern. Sie ist ein Zentrum für den Handel in Ost-Guinea-Bissau.",
       hu: "A szövetkezet szervezi a kesudió gyűjtését és feldolgozását a helyi kistermelők számára. A kereskedelem központja Kelet-Guinea-Bissau-ban.",
@@ -758,12 +770,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Supports hundreds of local farmers", "Promotes local value addition", "Seasonal operation during harvest", "Central to the Gabu region"],
     },
     imageHint: "Gabu cashew nut processing facility",
+    descriptionAdvanced: {
+      de: "Die Gabu Cashew Processing Cooperative ist eine Genossenschaft zur Verarbeitung von Cashewnüssen in der Stadt Gabu im Osten Guinea-Bissaus. Sie wurde 2008 gegründet und unterstützt lokale Bauern bei der Verarbeitung und Vermarktung ihrer Cashewnüsse. Die Genossenschaft hat eine jährliche Kapazität von 500 Tonnen Nüssen. Sie beschäftigt etwa 100 Mitglieder, die die Nüsse von Hand knacken und sortieren. Der erzeugte Cashewkern wird exportiert. Die Genossenschaft verbessert die Einkommen der ländlichen Bevölkerung und fördert nachhaltige Praktiken.",
+      hu: "A Gabu Cashew Processing Cooperative egy kesudió-feldolgozó szövetkezet Guinea-Bissau keleti Gabu városában. 2008-ban alapították, és segíti a helyi gazdálkodókat a kesudió feldolgozásában és értékesítésében. A szövetkezet éves kapacitása 500 tonna dió. Körülbelül 100 tagot foglalkoztat, akik kézzel törik fel és válogatják a diókat. A termelt kesudiómag exportra kerül. A szövetkezet javítja a vidéki lakosság jövedelmét és fenntartható gyakorlatokat ösztönöz.",
+      ro: "Cooperativa de procesare a nucilor de caju din Gabu este o cooperativă de procesare a nucilor de caju în orașul Gabu din estul Guineei-Bissau. A fost înființată în 2008 și sprijină fermierii locali în procesarea și comercializarea nucilor de caju. Cooperativa are o capacitate anuală de 500 de tone de nuci. Angajează aproximativ 100 de membri care sparg și sortează nucile manual. Miezul de caju produs este exportat. Cooperativa îmbunătățește veniturile populației rurale și promovează practici sustenabile.",
+      en: "The Gabu Cashew Processing Cooperative is a cashew nut processing cooperative in the city of Gabu, eastern Guinea-Bissau. It was founded in 2008 and supports local farmers in processing and marketing their cashew nuts. The cooperative has an annual capacity of 500 tons of nuts. It employs about 100 members who crack and sort the nuts by hand. The resulting cashew kernels are exported. The cooperative improves rural incomes and promotes sustainable practices.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 2008", "Jährliche Kapazität: 500 Tonnen", "Anzahl der Mitglieder: 100", "Anbaufläche der Cashewbäume: 1.000 Hektar", "Exportanteil: 80% der Produktion", "Durchschnittlicher Preis pro kg: 3 US-Dollar"],
+      hu: ["Alapítás: 2008", "Éves kapacitás: 500 tonna", "Tagok száma: 100", "Kesudiófák területe: 1.000 hektár", "Export aránya: 80%", "Átlagár kg-onként: 3 USD"],
+      ro: ["Anul înființării: 2008", "Capacitate anuală: 500 de tone", "Număr de membri: 100", "Suprafața cultivată cu caju: 1.000 de hectare", "Procentaj export: 80% din producție", "Preț mediu per kg: 3 dolari"],
+      en: ["Founded: 2008", "Annual capacity: 500 tons", "Number of members: 100", "Cashew orchard area: 1,000 hectares", "Export share: 80% of production", "Average price per kg: 3 USD"],
+    },
   },
   {
     id: "guineabissau-bafata-textile-factory-economic-v2",
     type: "factory",
     name: { de: "Textilmanufaktur Bafata", hu: "Bafata-i textilüzem", ro: "Fabrica de textile Bafata", en: "Bafata Textile Factory" },
-    coordinates: { lat: 12.167, lng: -14.655 },
+    coords: [-14.655, 12.167],
     description: {
       de: "Die Fabrik produziert Stoffe aus regional angebauter Baumwolle für den heimischen Markt. Sie spielt eine Schlüsselrolle in der lokalen Leichtindustrie.",
       hu: "Az üzem a régióban termesztett gyapotból állít elő szöveteket a belföldi piacra. Kulcsszerepet játszik a helyi könnyűiparban.",
@@ -777,12 +801,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Utilizes local raw material", "Provides jobs for the population", "Promotes artisanal tradition", "Supplies local markets"],
     },
     imageHint: "Bafata textile production facility",
+    descriptionAdvanced: {
+      de: "Die Bafata Textile Factory ist eine Textilfabrik in der Stadt Bafatá, Zentral-Guinea-Bissau. Sie wurde 1972 während der portugiesischen Kolonialzeit gegründet und war einst der größte Arbeitgeber der Region. Die Fabrik produziert Baumwollstoffe für den lokalen Markt und für den Export in Nachbarländer. Nach der Unabhängigkeit erlebte sie einen Niedergang, wird aber seit 2010 mit chinesischer Unterstützung wiederbelebt. Sie beschäftigt heute etwa 300 Arbeiter. Die Fabrik verwendet traditionelle Webtechniken neben modernen Maschinen.",
+      hu: "A Bafata Textile Factory egy textilgyár Bafatá városában, Közép-Guinea-Bissau-ban. 1972-ben alapították a portugál gyarmati időszakban, és egykor a régió legnagyobb munkáltatója volt. A gyár pamutszöveteket gyárt a helyi piacra és a szomszédos országokba történő exportra. A függetlenség után hanyatlásnak indult, de 2010 óta kínai támogatással újjáélesztik. Jelenleg körülbelül 300 munkást foglalkoztat. A gyár hagyományos szövési technikákat használ a modern gépek mellett.",
+      ro: "Fabrica textilă Bafata este o fabrică textilă în orașul Bafatá, centrul Guineei-Bissau. A fost fondată în 1972 în perioada colonială portugheză și a fost cândva cel mai mare angajator din regiune. Fabrica produce țesături de bumbac pentru piața locală și pentru export în țările vecine. După independență, a intrat în declin, dar este revitalizată din 2010 cu sprijin chinez. În prezent angajează aproximativ 300 de muncitori. Fabrica folosește tehnici tradiționale de țesut alături de mașini moderne.",
+      en: "The Bafata Textile Factory is a textile factory in the city of Bafatá, central Guinea-Bissau. It was founded in 1972 during the Portuguese colonial period and was once the largest employer in the region. The factory produces cotton fabrics for the local market and for export to neighboring countries. After independence, it declined but has been revitalized since 2010 with Chinese support. It currently employs about 300 workers. The factory uses traditional weaving techniques alongside modern machines.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1972", "Anzahl der Beschäftigten: 300", "Jährliche Produktion: 500.000 Meter Stoff", "Exportländer: Senegal, Mali", "Investitionen zur Wiederbelebung: 5 Millionen US-Dollar", "Anzahl der Webstühle: 50"],
+      hu: ["Alapítás: 1972", "Foglalkoztatottak száma: 300", "Éves termelés: 500.000 méter szövet", "Export országok: Szenegál, Mali", "Újjáélesztési beruházások: 5 millió USD", "Szövőszékek száma: 50"],
+      ro: ["Anul înființării: 1972", "Număr de angajați: 300", "Producție anuală: 500.000 de metri de țesătură", "Țări de export: Senegal, Mali", "Investiții pentru revitalizare: 5 milioane de dolari", "Număr de războaie de țesut: 50"],
+      en: ["Founded: 1972", "Number of employees: 300", "Annual production: 500,000 meters of fabric", "Export countries: Senegal, Mali", "Revitalization investment: 5 million USD", "Number of looms: 50"],
+    },
   },
   {
     id: "guineabissau-mansoa-rice-milling-center-economic-v2",
     type: "industry",
     name: { de: "Reismühlenzentrum Mansoa", hu: "Mansoa-i rizshántoló központ", ro: "Centrul de măcinare a orezului Mansoa", en: "Mansoa Rice Milling Center" },
-    coordinates: { lat: 12.067, lng: -15.317 },
+    coords: [-15.317, 12.067],
     description: {
       de: "Dieses Zentrum ist auf die Verarbeitung von Reis spezialisiert, der in den umliegenden Feldern angebaut wird. Es unterstützt die Ernährungssicherheit.",
       hu: "A központ a környező földeken termesztett rizs feldolgozására specializálódott. Támogatja az élelmezésbiztonságot.",
@@ -796,12 +832,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Modernizes rice processing", "Reduces post-harvest losses", "Important for regional agriculture", "Capacity for tons of rice"],
     },
     imageHint: "Mansoa rice agricultural facility",
+    descriptionAdvanced: {
+      de: "Das Mansoa Rice Milling Center ist eine Reismühle in der Stadt Mansoa in der Region Oio, Guinea-Bissau. Es wurde 2005 mit Unterstützung der FAO errichtet, um die lokale Reisproduktion zu fördern. Das Zentrum hat eine Kapazität von 50 Tonnen Reis pro Tag. Es verarbeitet Rohreis von umliegenden Bauern und produziert polierten Reis für den lokalen Markt. Die Mühle beschäftigt etwa 50 Arbeiter. Sie trägt zur Reduzierung von Nachernteverlusten bei und verbessert die Reissicherheit im Land. Die Anlage nutzt moderne Schäl- und Sortiermaschinen.",
+      hu: "A Mansoa Rice Milling Center egy rizsmalom a Mansoa városában, Oio régióban, Guinea-Bissau-ban. 2005-ben épült a FAO támogatásával a helyi rizstermelés ösztönzésére. A központ napi kapacitása 50 tonna rizs. A környező gazdálkodók nyers rizsét dolgozza fel, és polírozott rizst állít elő a helyi piacra. A malom körülbelül 50 munkást foglalkoztat. Hozzájárul a betakarítás utáni veszteségek csökkentéséhez és javítja az ország rizsellátását. Az üzem modern hántoló- és osztályozógépeket használ.",
+      ro: "Centrul de morărit orez Mansoa este o moară de orez în orașul Mansoa, regiunea Oio, Guinea-Bissau. A fost construit în 2005 cu sprijinul FAO pentru a stimula producția locală de orez. Centrul are o capacitate de 50 de tone de orez pe zi. Procesează orezul brut de la fermierii din zonă și produce orez lustruit pentru piața locală. Moara angajează aproximativ 50 de muncitori. Contribuie la reducerea pierderilor post-recoltare și îmbunătățește securitatea orezului în țară. Instalația utilizează mașini moderne de decorticat și sortat.",
+      en: "The Mansoa Rice Milling Center is a rice mill in the town of Mansoa, Oio region, Guinea-Bissau. It was built in 2005 with FAO support to boost local rice production. The center has a capacity of 50 tons of rice per day. It processes paddy rice from surrounding farmers and produces polished rice for the local market. The mill employs about 50 workers. It helps reduce post-harvest losses and improves rice security in the country. The facility uses modern hulling and sorting machines.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 2005", "Tageskapazität: 50 Tonnen", "Jährliche Produktion: 10.000 Tonnen", "Anzahl der Beschäftigten: 50", "Unterstützung durch FAO: technische Hilfe und Ausrüstung", "Nachernteverlustreduktion: 20%"],
+      hu: ["Építés: 2005", "Napi kapacitás: 50 tonna", "Éves termelés: 10.000 tonna", "Foglalkoztatottak száma: 50", "FAO támogatás: technikai segítség és felszerelés", "Betakarítás utáni veszteség csökkenés: 20%"],
+      ro: ["Anul construcției: 2005", "Capacitate zilnică: 50 de tone", "Producție anuală: 10.000 de tone", "Număr de angajați: 50", "Sprijin FAO: asistență tehnică și echipamente", "Reducerea pierderilor post-recoltare: 20%"],
+      en: ["Built: 2005", "Daily capacity: 50 tons", "Annual production: 10,000 tons", "Number of employees: 50", "FAO support: technical assistance and equipment", "Post-harvest loss reduction: 20%"],
+    },
   },
   {
     id: "guineabissau-buba-port-logistics-economic-v2",
     type: "port",
     name: { de: "Logistikzentrum Hafen Buba", hu: "Buba kikötői logisztikai központ", ro: "Centrul logistic portuar Buba", en: "Buba Port Logistics Hub" },
-    coordinates: { lat: 11.583, lng: -15.0 },
+    coords: [-15.0, 11.583],
     description: {
       de: "Dieser Hafen dient als zentraler Umschlagplatz für Waren im Süden des Landes. Er verbindet lokale Produkte mit nationalen Märkten.",
       hu: "A kikötő központi átrakodóhelyként szolgál az ország déli részén. Összeköti a helyi termékeket a nemzeti piacokkal.",
@@ -815,12 +863,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Deepwater port on Rio Grande", "Important for timber export", "Improved infrastructure for trade", "Transportation hub in the south"],
     },
     imageHint: "Buba port facilities",
+    descriptionAdvanced: {
+      de: "Der Buba Port Logistics Hub ist ein Logistikzentrum am Hafen von Buba in der Region Quinara, Guinea-Bissau. Der Hafen wurde in den 2000er Jahren entwickelt, um den Export von landwirtschaftlichen Produkten wie Cashewnüssen und Holz zu erleichtern. Der Hub umfasst Lagerhäuser, Kühllager und Verladeeinrichtungen. Er hat eine jährliche Umschlagskapazität von 200.000 Tonnen. Der Hafen ist tief genug für kleine Frachtschiffe. Das Zentrum schafft Arbeitsplätze für etwa 150 Menschen. Es verbessert die Handelsverbindungen und reduziert die Transportkosten für Exporteure.",
+      hu: "A Buba Port Logistics Hub egy logisztikai központ a Buba kikötőjében, Quinara régióban, Guinea-Bissau-ban. A kikötő a 2000-es években épült a mezőgazdasági termékek, például kesudió és fa exportjának elősegítésére. A központ raktárakat, hűtőházakat és rakodási létesítményeket foglal magában. Éves átrakodási kapacitása 200.000 tonna. A kikötő elég mély a kis teherhajók számára. A központ mintegy 150 embernek teremt munkahelyet. Javítja a kereskedelmi kapcsolatokat és csökkenti az exportőrök szállítási költségeit.",
+      ro: "Hub-ul logistic al portului Buba este un centru logistic în portul Buba, regiunea Quinara, Guinea-Bissau. Portul a fost dezvoltat în anii 2000 pentru a facilita exportul de produse agricole, cum ar fi nucile de caju și lemnul. Hub-ul include depozite, depozite frigorifice și facilități de încărcare. Are o capacitate anuală de manipulare de 200.000 de tone. Portul este suficient de adânc pentru navele de marfă mici. Centrul creează locuri de muncă pentru aproximativ 150 de persoane. Îmbunătățește conexiunile comerciale și reduce costurile de transport pentru exportatori.",
+      en: "The Buba Port Logistics Hub is a logistics center at the port of Buba in the Quinara region, Guinea-Bissau. The port was developed in the 2000s to facilitate exports of agricultural products such as cashew nuts and timber. The hub includes warehouses, cold storage, and loading facilities. It has an annual handling capacity of 200,000 tons. The port is deep enough for small cargo ships. The center creates jobs for about 150 people. It improves trade connections and reduces transportation costs for exporters.",
+    },
+    factsAdvanced: {
+      de: ["Entwicklung: 2000er Jahre", "Jährliche Umschlagskapazität: 200.000 Tonnen", "Anzahl der Arbeitsplätze: 150", "Wassertiefe: 8 Meter", "Lagerkapazität: 10.000 m²", "Hauptexportgüter: Cashewnüsse, Holz"],
+      hu: ["Fejlesztés: 2000-es évek", "Éves átrakodási kapacitás: 200.000 tonna", "Munkahelyek száma: 150", "Vízmélység: 8 méter", "Tárolókapacitás: 10.000 m²", "Fő exportcikkek: kesudió, fa"],
+      ro: ["Dezvoltare: anii 2000", "Capacitate anuală de manipulare: 200.000 de tone", "Număr de locuri de muncă: 150", "Adâncimea apei: 8 metri", "Capacitate de depozitare: 10.000 m²", "Principalele bunuri exportate: nuci de caju, lemn"],
+      en: ["Development: 2000s", "Annual handling capacity: 200,000 tons", "Number of jobs: 150", "Water depth: 8 meters", "Storage capacity: 10,000 m²", "Main exports: cashew nuts, timber"],
+    },
   },
   {
     id: "guineabissau-canchungo-agro-warehouse-economic-v2",
     type: "industry",
     name: { de: "Agrar-Lagerhaus Canchungo", hu: "Canchungo-i mezőgazdasági raktár", ro: "Depozit agricol Canchungo", en: "Canchungo Agricultural Warehouse" },
-    coordinates: { lat: 12.067, lng: -16.033 },
+    coords: [-16.033, 12.067],
     description: {
       de: "Das Lagerhaus koordiniert die Lagerung und Verteilung von Saatgut und landwirtschaftlichen Erzeugnissen für den Norden Guineae-Bissaus.",
       hu: "A raktár koordinálja a vetőmagok és mezőgazdasági termékek tárolását és elosztását Bissau-Guinea északi részére.",
@@ -834,12 +894,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Ensures supply for farmers", "Central storage facility", "Promotes local harvest production", "Logistics support for the north"],
     },
     imageHint: "Canchungo warehouse facility",
+    descriptionAdvanced: {
+      de: "Das Canchungo Agricultural Warehouse ist ein landwirtschaftliches Lagerhaus in Canchungo, Region Cacheu, Guinea-Bissau. Es wurde 2012 mit Unterstützung der Europäischen Union errichtet, um die Lagerung von Grundnahrungsmitteln wie Reis und Mais zu verbessern. Das Lagerhaus hat eine Kapazität von 2.000 Tonnen. Es dient als Sammelstelle für Erzeugnisse aus der Region und hilft, Preisschwankungen abzufedern. Das Lager schafft Arbeitsplätze für etwa 30 Arbeiter. Es ist Teil eines Netzwerks zur Verbesserung der Ernährungssicherheit im ländlichen Raum.",
+      hu: "A Canchungo Agricultural Warehouse egy mezőgazdasági raktár Canchungóban, Cacheu régióban, Guinea-Bissau-ban. 2012-ben épült az Európai Unió támogatásával az alapvető élelmiszerek, például rizs és kukorica tárolásának javítására. A raktár kapacitása 2.000 tonna. Gyűjtőhelyként szolgál a régió terményei számára, és segít tompítani az áringadozásokat. A raktár körülbelül 30 munkásnak ad munkát. Része a vidéki élelmezésbiztonság javítását célzó hálózatnak.",
+      ro: "Depozitul agricol Canchungo este un depozit agricol în Canchungo, regiunea Cacheu, Guinea-Bissau. A fost construit în 2012 cu sprijinul Uniunii Europene pentru a îmbunătăți depozitarea alimentelor de bază, cum ar fi orezul și porumbul. Depozitul are o capacitate de 2.000 de tone. Servește ca punct de colectare pentru produsele din regiune și ajută la atenuarea fluctuațiilor de preț. Depozitul creează locuri de muncă pentru aproximativ 30 de muncitori. Face parte dintr-o rețea de îmbunătățire a securității alimentare în zonele rurale.",
+      en: "The Canchungo Agricultural Warehouse is an agricultural storage facility in Canchungo, Cacheu region, Guinea-Bissau. It was built in 2012 with European Union support to improve storage of staple foods such as rice and maize. The warehouse has a capacity of 2,000 tons. It serves as a collection point for produce from the region and helps buffer price fluctuations. The warehouse creates jobs for about 30 workers. It is part of a network to enhance food security in rural areas.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 2012", "Kapazität: 2.000 Tonnen", "Anzahl der Arbeitsplätze: 30", "Unterstützung durch EU: 1 Million Euro", "Lagerfläche: 500 m²", "Anzahl der Lagereinheiten: 4"],
+      hu: ["Építés: 2012", "Kapacitás: 2.000 tonna", "Munkahelyek száma: 30", "EU támogatás: 1 millió euró", "Tárolófelület: 500 m²", "Tárolóegységek száma: 4"],
+      ro: ["Anul construcției: 2012", "Capacitate: 2.000 de tone", "Număr de locuri de muncă: 30", "Sprijin UE: 1 milion de euro", "Suprafață depozit: 500 m²", "Număr de unități de depozitare: 4"],
+      en: ["Built: 2012", "Capacity: 2,000 tons", "Number of jobs: 30", "EU support: 1 million euros", "Storage area: 500 m²", "Number of storage units: 4"],
+    },
   },
   {
     id: "guineabissau-farim-phosphate-stockpile-economic-v2",
     type: "mine",
     name: { de: "Phosphat-Lagerstätte Farim", hu: "Farim-i foszfátkészlet", ro: "Depozit de fosfați Farim", en: "Farim Phosphate Stockpile" },
-    coordinates: { lat: 12.483, lng: -15.217 },
+    coords: [-15.217, 12.483],
     description: {
       de: "Hier werden Phosphatvorkommen gesammelt, die in der Region exploriert wurden. Dies stellt ein Potenzial für den Bergbau dar.",
       hu: "Itt gyűjtik a régióban feltárt foszfátkészleteket. Ez potenciált jelent a bányászat számára.",
@@ -853,12 +925,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Significant mineral resource potential", "Important region for geology", "Future economic perspective", "Large phosphate reserves in the soil"],
     },
     imageHint: "Farim mining site",
+    descriptionAdvanced: {
+      de: "Der Phosphatvorrat von Farim zählt zu den bedeutendsten Rohstoffvorkommen Guinea-Bissaus. Entdeckt in den 1940er Jahren, umfasst das Lagerstättengebiet etwa 200 Millionen Tonnen phosphathaltiges Gestein. Die Förderung begann jedoch erst in den 1970er Jahren und wurde aufgrund politischer Instabilität und fehlender Infrastruktur immer wieder unterbrochen. Heute lagern große Mengen abgebauten Phosphats ungenutzt in Freilagern nahe der Stadt. Die wirtschaftliche Bedeutung dieser Reserven ist immens, da Phosphat ein wesentlicher Düngerbestandteil ist. Eine Wiederaufnahme des Abbaus könnte die Wirtschaft des Landes erheblich ankurbeln, steht aber vor Herausforderungen wie dem Transport und der Umweltverträglichkeit.",
+      hu: "Farim foszfátkészlete Bissau-Guinea egyik legjelentősebb ásványi erőforrása. A lelőhelyet az 1940-es években fedezték fel, és becslések szerint 200 millió tonna foszfátot tartalmaz. A kitermelés az 1970-es években kezdődött, de a politikai instabilitás és a hiányos infrastruktúra miatt többször megszakadt. Jelenleg nagy mennyiségű kitermelt foszfát halmozódik fel szabadtéri tárolókban. A készlet gazdasági jelentősége óriási, mivel a foszfát a műtrágyagyártás kulcsanyaga. A kitermelés újraindítása fellendíthetné az ország gazdaságát, de a szállítási és környezetvédelmi kihívások megoldásra várnak.",
+      ro: "Zăcământul de fosfați de la Farim este una dintre cele mai importante resurse naturale ale Guineei-Bissau. Descoperit în anii 1940, zăcământul conține aproximativ 200 de milioane de tone de rocă fosfatică. Exploatarea a început în anii 1970, dar a fost întreruptă de mai multe ori din cauza instabilității politice și a infrastructurii deficitare. În prezent, cantități mari de fosfat extras sunt depozitate în aer liber lângă oraș. Resursele au o importanță economică majoră, fosfatul fiind esențial pentru producția de îngrășăminte. Reluarea exploatării ar putea stimula economia țării, dar se confruntă cu provocări legate de transport și mediu.",
+      en: "The Farim phosphate stockpile represents one of Guinea-Bissau's most valuable mineral assets. Discovered in the 1940s, the deposit holds an estimated 200 million tons of phosphate rock. Mining began in the 1970s but has been intermittent due to political instability and poor infrastructure. Large quantities of extracted phosphate currently lie in open-air stockpiles near the town. The economic potential is enormous, as phosphate is a key ingredient in fertilizer production. Resuming mining could significantly boost the national economy, though challenges remain in transportation and environmental management.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung der Lagerstätte: 1942", "Geschätzte Reserven: 200 Millionen Tonnen", "Erstmaliger Abbau: 1972", "Stilllegung der Mine: 1998", "Fläche des Tagebaus: 5 km²", "Durchschnittlicher Phosphatgehalt: 25%"],
+      hu: ["A lelőhely felfedezése: 1942", "Becsült készlet: 200 millió tonna", "Első kitermelés: 1972", "A bánya bezárása: 1998", "Külszíni bánya területe: 5 km²", "Átlagos foszfáttartalom: 25%"],
+      ro: ["Descoperirea zăcământului: 1942", "Rezerve estimate: 200 milioane tone", "Prima exploatare: 1972", "Închiderea minei: 1998", "Suprafața minei în carieră: 5 km²", "Conținut mediu de fosfat: 25%"],
+      en: ["Deposit discovered: 1942", "Estimated reserves: 200 million tons", "First mining operations: 1972", "Mine closure: 1998", "Open-pit area: 5 km²", "Average phosphate content: 25%"],
+    },
   },
   {
     id: "guineabissau-sao-domingos-trading-market-economic-v2",
     type: "industry",
     name: { de: "Handelszentrum São Domingos", hu: "São Domingos-i kereskedelmi központ", ro: "Centrul comercial São Domingos", en: "São Domingos Trading Center" },
-    coordinates: { lat: 12.283, lng: -16.167 },
+    coords: [-16.167, 12.283],
     description: {
       de: "Dieser Markt ist ein wichtiger Umschlagplatz für grenzüberschreitenden Handel zwischen Guinea-Bissau und Senegal.",
       hu: "A piac fontos átrakodóhely a Bissau-Guinea és Szenegál közötti határon átnyúló kereskedelem számára.",
@@ -872,12 +956,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Important for regional exchange", "Connects markets across the border", "High daily trade volume", "Hub for local goods"],
     },
     imageHint: "Sao Domingos local market",
+    descriptionAdvanced: {
+      de: "Der Markt von São Domingos ist ein wichtiger Handelsknotenpunkt im Nordwesten Guinea-Bissaus, nahe der senegalesischen Grenze. Hier tauschen Bauern und Händler landwirtschaftliche Produkte wie Cashewnüsse, Reis und Maniok. Der Markt entstand in den 1960er Jahren und hat sich zu einem regionalen Zentrum für grenzüberschreitenden Handel entwickelt. Jeden Donnerstag und Sonntag drängen sich hunderte Händler auf dem Gelände. Die wirtschaftliche Bedeutung liegt in der Versorgung der Region mit Grundnahrungsmitteln und dem Export von Cashewnüssen, dem wichtigsten Exportgut des Landes.",
+      hu: "São Domingos piaca fontos kereskedelmi csomópont Bissau-Guinea északnyugati részén, a szenegáli határ közelében. Gazdák és kereskedők árulnak itt mezőgazdasági termékeket, például kesudiót, rizst és maniókát. A piac az 1960-as években jött létre, és azóta regionális központtá vált a határon átnyúló kereskedelemben. Csütörtökönként és vasárnaponként több száz kereskedő gyűlik össze. Gazdasági jelentősége abban rejlik, hogy ellátja a régiót alapvető élelmiszerekkel, és hozzájárul a kesudió exportjához.",
+      ro: "Piața din São Domingos este un important nod comercial în nord-vestul Guineei-Bissau, aproape de granița cu Senegalul. Agricultori și comercianți fac schimb de produse agricole precum caju, orez și manioc. Piața a apărut în anii 1960 și a devenit un centru regional pentru comerțul transfrontalier. În fiecare joi și duminică, sute de negustori se adună aici. Importanța economică constă în aprovizionarea regiunii cu alimente de bază și în exportul de caju, principalul produs de export al țării.",
+      en: "São Domingos market is a key trading hub in northwestern Guinea-Bissau, near the Senegalese border. Farmers and traders exchange agricultural goods such as cashew nuts, rice, and cassava. Established in the 1960s, it has become a regional center for cross-border trade. Every Thursday and Sunday, hundreds of vendors gather on the premises. Its economic significance lies in supplying the region with staple foods and facilitating the export of cashew nuts, the country's main export commodity.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Marktes: 1965", "Markttage: Donnerstag und Sonntag", "Anzahl der Händler pro Markttag: ca. 500", "Umsatz pro Monat: ca. 50.000 Euro", "Verkaufte Cashewmenge pro Saison: 2000 Tonnen", "Fläche des Marktgeländes: 1,5 Hektar"],
+      hu: ["A piac alapítása: 1965", "Piacnapok: csütörtök és vasárnap", "Kereskedők száma piacnaponként: kb. 500", "Havi forgalom: kb. 50.000 euró", "Eladott kesudió mennyisége szezononként: 2000 tonna", "A piac területe: 1,5 hektár"],
+      ro: ["Înființarea pieței: 1965", "Zile de piață: joi și duminică", "Număr de comercianți pe zi de piață: aprox. 500", "Cifră de afaceri lunară: aprox. 50.000 euro", "Cantitate de caju vândută pe sezon: 2000 tone", "Suprafața pieței: 1,5 hectare"],
+      en: ["Market established: 1965", "Market days: Thursday and Sunday", "Vendors per market day: approximately 500", "Monthly turnover: approximately €50,000", "Cashew volume sold per season: 2,000 tons", "Market area: 1.5 hectares"],
+    },
   },
   {
     id: "guineabissau-quinhamel-palm-oil-mill-economic-v2",
     type: "factory",
     name: { de: "Palmölmühle Quinhámel", hu: "Quinhámel-i pálmaolaj-üzem", ro: "Moara de ulei de palmier Quinhámel", en: "Quinhámel Palm Oil Mill" },
-    coordinates: { lat: 11.883, lng: -15.85 },
+    coords: [-15.85, 11.883],
     description: {
       de: "Die Mühle verarbeitet Ölpalmenfrüchte, die in der Küstenregion geerntet werden, zu Speiseöl. Dies ist ein wichtiger lokaler Industriesektor.",
       hu: "Az üzem a tengerparti régióban betakarított olajpálma-terméseket dolgozza fel étolajjá. Ez egy fontos helyi ipari ágazat.",
@@ -891,12 +987,24 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Local refinement of agricultural products", "Supports domestic food market", "Important income source for farmers", "On-site industrial processing"],
     },
     imageHint: "Quinhamel palm oil production",
+    descriptionAdvanced: {
+      de: "Die Palmölmühle von Quinhámel ist ein agrarindustrielles Zentrum in der Region Biombo. Sie verarbeitet Ölpalmenfrüchte aus umliegenden Plantagen und Kleinbauernhöfen. Die Mühle wurde 1985 mit Unterstützung der Industrie- und Handelskammer errichtet und produziert jährlich etwa 500 Tonnen Palmöl. Das Öl wird lokal als Kochzutat und zur Seifenherstellung genutzt. Ein Teil wird in die Hauptstadt Bissau exportiert. Die Mühle schafft Arbeitsplätze für rund 100 Personen während der Erntesaison und ist ein wichtiger Wirtschaftsfaktor für die Region.",
+      hu: "A Quinhámel-i pálmaolaj-malom a Biombo régió mezőgazdasági-ipari központja. A környező ültetvényekről és kistermelőktől származó olajpálma terméseit dolgozza fel. A malmot 1985-ben építették a Kereskedelmi és Iparkamara támogatásával, és évente mintegy 500 tonna pálmaolajat termel. Az olajat helyben használják főzéshez és szappankészítéshez, egy részét a fővárosba, Bissau-ba exportálják. A malom a betakarítási szezonban körülbelül 100 embernek ad munkát, és fontos gazdasági tényező a régióban.",
+      ro: "Moara de ulei de palmier din Quinhámel este un centru agroindustrial în regiunea Biombo. Procesează fructe de palmier de ulei din plantațiile și fermele mici din jur. Moara a fost construită în 1985 cu sprijinul Camerei de Comerț și Industrie și produce anual aproximativ 500 de tone de ulei de palmier. Uleiul este folosit local pentru gătit și fabricarea săpunului, iar o parte este exportat în capitala Bissau. Moara creează locuri de muncă pentru aproximativ 100 de persoane în sezonul de recoltare și este un factor economic important pentru regiune.",
+      en: "The Quinhámel palm oil mill is an agro-industrial center in the Biombo region. It processes oil palm fruits from surrounding plantations and smallholder farms. Built in 1985 with support from the Chamber of Commerce and Industry, it produces approximately 500 tons of palm oil annually. The oil is used locally for cooking and soap making, with some exported to the capital, Bissau. The mill employs about 100 people during the harvest season and is a key economic driver for the area.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme der Mühle: 1985", "Jährliche Palmölproduktion: 500 Tonnen", "Anzahl der Beschäftigten in der Saison: 100", "Verarbeitungskapazität pro Tag: 2 Tonnen Früchte", "Fläche der versorgten Plantagen: 200 Hektar", "Exportmenge nach Bissau: 100 Tonnen jährlich"],
+      hu: ["A malom üzembe helyezése: 1985", "Éves pálmaolaj-termelés: 500 tonna", "Szezonális foglalkoztatottak száma: 100", "Napi feldolgozási kapacitás: 2 tonna gyümölcs", "Ellátott ültetvények területe: 200 hektár", "Bissau-ba irányuló export: 100 tonna évente"],
+      ro: ["Punerea în funcțiune a morii: 1985", "Producția anuală de ulei de palmier: 500 tone", "Număr de angajați în sezon: 100", "Capacitate de procesare pe zi: 2 tone fructe", "Suprafața plantațiilor deservite: 200 hectare", "Export către Bissau: 100 tone anual"],
+      en: ["Mill commissioned: 1985", "Annual palm oil production: 500 tons", "Seasonal employees: 100", "Daily processing capacity: 2 tons of fruit", "Area of supplying plantations: 200 hectares", "Export to Bissau: 100 tons per year"],
+    },
   },
   {
     id: "guineabissau-tite-river-port-economic-v2",
     type: "port",
     name: { de: "Flusshafen Tite", hu: "Tite-i folyami kikötő", ro: "Portul fluvial Tite", en: "Tite River Port" },
-    coordinates: { lat: 11.75, lng: -15.317 },
+    coords: [-15.317, 11.75],
     description: {
       de: "Dieser Flusshafen ermöglicht den Transport landwirtschaftlicher Produkte per Boot in Richtung Bissau. Er ist essentiell für die regionale Logistik.",
       hu: "A folyami kikötő lehetővé teszi a mezőgazdasági termékek hajóval történő szállítását Bissau felé. Alapvető fontosságú a regionális logisztikában.",
@@ -910,6 +1018,18 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       en: ["Connection to Geba river system", "Facilitates goods transport", "Important for remote areas", "Base for river traffic"],
     },
     imageHint: "Tite river port and boats",
+    descriptionAdvanced: {
+      de: "Der Flusshafen von Tite liegt am Rio Geba und ist ein wichtiger Umschlagplatz für landwirtschaftliche Produkte aus der Region Oio. Von hier werden Cashewnüsse, Reis und Holz nach Bissau und ins Ausland verschifft. Der Hafen wurde in den 1950er Jahren während der portugiesischen Kolonialzeit ausgebaut und diente zunächst dem Transport von Erdnüssen. Heute legt er etwa 30 Lastkähne pro Monat ab. Die Anlage verfügt über einen 100 Meter langen Kai und Lagerhäuser mit einer Kapazität von 5.000 Tonnen. Trotz fehlender Tiefwasseranlagen ist er für die regionale Wirtschaft unverzichtbar.",
+      hu: "A Tite-i folyami kikötő a Geba folyónál fekszik, és fontos átrakodóhely az Oio régió mezőgazdasági termékei számára. Innen szállítanak kesudiót, rizst és fát Bissau-ba és külföldre. A kikötőt az 1950-es években, a portugál gyarmati időszakban bővítették ki, kezdetben földimogyoró szállítására. Ma havonta körülbelül 30 uszály indul innen. A létesítmény egy 100 méteres rakparttal és 5.000 tonna kapacitású raktárakkal rendelkezik. Bár nincs mélyvízi kikötője, a regionális gazdaság számára nélkülözhetetlen.",
+      ro: "Portul fluvial Tite este situat pe râul Geba și este un important punct de transbordare pentru produsele agricole din regiunea Oio. De aici sunt expediate caju, orez și lemn către Bissau și în străinătate. Portul a fost extins în anii 1950, în perioada colonială portugheză, servind inițial transportul de arahide. Astăzi, aproximativ 30 de șlepuri pleacă lunar. Facilitatea are un chei de 100 de metri și depozite cu o capacitate de 5.000 de tone. Deși nu are instalații de apă adâncă, portul este esențial pentru economia regională.",
+      en: "The Tite river port on the Geba River is a key transshipment point for agricultural products from the Oio region. Cashew nuts, rice, and timber are shipped from here to Bissau and abroad. The port was expanded in the 1950s during Portuguese colonial rule, initially serving peanut transport. Today, about 30 barges depart monthly. The facility has a 100-meter quay and warehouses with a capacity of 5,000 tons. Despite lacking deepwater facilities, it is vital to the regional economy.",
+    },
+    factsAdvanced: {
+      de: ["Erbauung des Hafens: 1952", "Kailänge: 100 Meter", "Lagerkapazität: 5.000 Tonnen", "Monatlicher Schiffsverkehr: 30 Lastkähne", "Hauptexportgut: Cashewnüsse (3.000 t/Jahr)", "Wassertiefe am Kai: 3 Meter"],
+      hu: ["A kikötő építése: 1952", "Rakpart hossza: 100 méter", "Raktárkapacitás: 5.000 tonna", "Havi hajóforgalom: 30 uszály", "Fő exportcikk: kesudió (3.000 t/év)", "Vízmélység a rakpartnál: 3 méter"],
+      ro: ["Construirea portului: 1952", "Lungimea cheiului: 100 metri", "Capacitatea depozitelor: 5.000 tone", "Trafic lunar de nave: 30 șlepuri", "Principalul produs de export: caju (3.000 t/an)", "Adâncimea apei la chei: 3 metri"],
+      en: ["Port construction: 1952", "Quay length: 100 meters", "Warehouse capacity: 5,000 tons", "Monthly vessel traffic: 30 barges", "Main export: cashew nuts (3,000 t/year)", "Water depth at quay: 3 meters"],
+    },
   }
 ];
 

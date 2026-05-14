@@ -5,7 +5,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-parliament-house-landmarks-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude von Vanuatu", hu: "Vanuatu parlamentje", ro: "Parlamentul din Vanuatu", en: "Vanuatu Parliament House" },
-    coordinates: { lat: -17.7442, lng: 168.3245 },
+    coords: [168.3245, -17.7442],
     description: {
       de: "Das Parlamentsgebäude in Port Vila ist der Sitz der gesetzgebenden Versammlung der Republik Vanuatu.",
       hu: "A Port Vilában található épület Vanuatu törvényhozó testületének székhelye és fontos politikai központ.",
@@ -24,7 +24,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Vanuatu", hu: "Vanuatu Nemzeti Múzeum", ro: "Muzeul Național din Vanuatu", en: "Vanuatu National Museum" },
-    coordinates: { lat: -17.7451, lng: 168.3248 },
+    coords: [168.3248, -17.7451],
     description: {
       de: "Das Nationalmuseum präsentiert die reiche kulturelle Geschichte und die archäologischen Funde der Inselgruppe.",
       hu: "A nemzeti múzeum bemutatja a szigetcsoport gazdag kulturális történelmét és régészeti leleteit.",
@@ -43,7 +43,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-port-vila-market-landmarks-v2",
     type: "landmark",
     name: { de: "Markt von Port Vila", hu: "Port Vila piac", ro: "Piața din Port Vila", en: "Port Vila Market" },
-    coordinates: { lat: -17.7392, lng: 168.3125 },
+    coords: [168.3125, -17.7392],
     description: {
       de: "Das Marktgebäude am Wasser ist ein zentraler Treffpunkt für Einheimische und Touristen in der Hauptstadt.",
       hu: "A vízparti piacépület a főváros központi találkozóhelye a helyiek és a turisták számára egyaránt.",
@@ -62,7 +62,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-french-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Französisches Kriegsdenkmal", hu: "Francia háborús emlékmű", ro: "Monumentul de Război Francez", en: "French War Memorial" },
-    coordinates: { lat: -17.7365, lng: 168.3112 },
+    coords: [168.3112, -17.7365],
     description: {
       de: "Dieses Denkmal in Port Vila erinnert an die im Zweiten Weltkrieg gefallenen Soldaten aus Vanuatu.",
       hu: "Ez a Port Vilában található emlékmű a második világháborúban elesett vanuatui katonáknak állít emléket.",
@@ -81,7 +81,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-chiefs-nakamal-landmarks-v2",
     type: "landmark",
     name: { de: "Chief's Nakamal", hu: "Főnöki Nakamal", ro: "Nakamal-ul Șefilor", en: "Chief's Nakamal" },
-    coordinates: { lat: -17.7462, lng: 168.3215 },
+    coords: [168.3215, -17.7462],
     description: {
       de: "Das Nakamal ist ein traditionelles Versammlungshaus für die Stammeshäuptlinge in Port Vila.",
       hu: "A Nakamal a törzsi főnökök hagyományos gyülekezőhelye Port Vilában, fontos kulturális központ.",
@@ -100,7 +100,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-usp-emalus-campus-landmarks-v2",
     type: "university",
     name: { de: "USP Emalus Campus", hu: "USP Emalus Campus", ro: "Campusul USP Emalus", en: "USP Emalus Campus" },
-    coordinates: { lat: -17.7385, lng: 168.3372 },
+    coords: [168.3372, -17.7385],
     description: {
       de: "Der Emalus Campus der University of the South Pacific ist die wichtigste Hochschuleinrichtung in Vanuatu.",
       hu: "A South Pacific Egyetem Emalus campusa Vanuatu legfontosabb felsőoktatási intézménye.",
@@ -119,7 +119,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-paton-memorial-church-landmarks-v2",
     type: "church",
     name: { de: "Paton-Gedächtniskirche", hu: "Paton emléktemplom", ro: "Biserica Memorială Paton", en: "Paton Memorial Church" },
-    coordinates: { lat: -17.7352, lng: 168.3155 },
+    coords: [168.3155, -17.7352],
     description: {
       de: "Diese presbyterianische Kirche ist dem Missionar John G. Paton gewidmet und ein markantes Gebäude in Vila.",
       hu: "Ez a presbiteriánus templom John G. Paton misszionáriusnak van szentelve, Vila jellegzetes épülete.",
@@ -138,7 +138,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-luganville-municipal-market-landmarks-v2",
     type: "landmark",
     name: { de: "Städtischer Markt von Luganville", hu: "Luganville városi piac", ro: "Piața Municipală Luganville", en: "Luganville Municipal Market" },
-    coordinates: { lat: -15.5145, lng: 167.1812 },
+    coords: [167.1812, -15.5145],
     description: {
       de: "Der Hauptmarkt von Luganville auf der Insel Espiritu Santo ist ein wichtiger Handelsplatz.",
       hu: "Luganville fő piaca Espiritu Santo szigetén a térség legfontosabb kereskedelmi központja.",
@@ -157,7 +157,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-unity-park-luganville-landmarks-v2",
     type: "landmark",
     name: { de: "Einheitspark Luganville", hu: "Egység park Luganville", ro: "Parcul Unității Luganville", en: "Unity Park Luganville" },
-    coordinates: { lat: -15.5125, lng: 167.1785 },
+    coords: [167.1785, -15.5125],
     description: {
       de: "Der Unity Park ist die zentrale öffentliche Grünfläche und Veranstaltungsort in Luganville.",
       hu: "A Unity Park Luganville központi nyilvános zöldterülete és rendezvényhelyszíne.",
@@ -176,7 +176,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-ss-president-coolidge-landmarks-v2",
     type: "ruins",
     name: { de: "SS President Coolidge Wrack", hu: "SS President Coolidge roncs", ro: "Epava SS President Coolidge", en: "SS President Coolidge Wreck" },
-    coordinates: { lat: -15.5352, lng: 167.2348 },
+    coords: [167.2348, -15.5352],
     description: {
       de: "Das Wrack dieses Luxusliners, der im Zweiten Weltkrieg sank, ist eines der berühmtesten Wahrzeichen Vanuatus.",
       hu: "A II. világháborúban elsüllyedt luxushajó roncsa Vanuatu egyik leghíresebb történelmi látványossága.",
@@ -195,7 +195,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-santo-war-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Santo-Kriegsdenkmal", hu: "Santo háborús emlékmű", ro: "Monumentul de Război Santo", en: "Santo War Memorial" },
-    coordinates: { lat: -15.5132, lng: 167.1825 },
+    coords: [167.1825, -15.5132],
     description: {
       de: "Dieses Denkmal in Luganville ehrt diejenigen, die während des Zweiten Weltkriegs auf Espiritu Santo dienten.",
       hu: "Ez a Luganville-ben található emlékmű azokra emlékezik, akik Espiritu Santo szigetén szolgáltak a II. világháború alatt.",
@@ -214,7 +214,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-port-orly-catholic-church-landmarks-v2",
     type: "church",
     name: { de: "Katholische Kirche von Port Orly", hu: "Port Orly katolikus templom", ro: "Biserica Catolică din Port Orly", en: "Port Orly Catholic Church" },
-    coordinates: { lat: -15.0452, lng: 167.1085 },
+    coords: [167.1085, -15.0452],
     description: {
       de: "Die katholische Mission in Port Orly ist ein markantes Bauwerk in dem französischsprachigen Dorf.",
       hu: "A Port Orly-i katolikus misszió a francia nyelvű falu egyik meghatározó épülete.",
@@ -233,7 +233,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-lolowai-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Lolowai-Kathedrale", hu: "Lolowai székesegyház", ro: "Catedrala Lolowai", en: "Lolowai Cathedral" },
-    coordinates: { lat: -15.2855, lng: 167.9782 },
+    coords: [167.9782, -15.2855],
     description: {
       de: "Diese Kathedrale auf der Insel Ambae ist ein wichtiges religiöses Zentrum für den Norden Vanuatus.",
       hu: "Ez az Ambae-szigeten található székesegyház Észak-Vanuatu egyik fontos vallási központja.",
@@ -252,7 +252,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-lamap-catholic-mission-landmarks-v2",
     type: "landmark",
     name: { de: "Katholische Mission von Lamap", hu: "Lamap katolikus misszió", ro: "Misiunea Catolică Lamap", en: "Lamap Catholic Mission" },
-    coordinates: { lat: -16.4382, lng: 167.7975 },
+    coords: [167.7975, -16.4382],
     description: {
       de: "Die Mission von Lamap auf Malekula ist ein bedeutendes Beispiel für französische Kolonialarchitektur.",
       hu: "A Malekula-szigeti Lamap misszió a francia gyarmati építészet egyik jelentős példája.",
@@ -271,7 +271,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-vao-stone-monuments-landmarks-v2",
     type: "monument",
     name: { de: "Steinmonumente von Vao", hu: "Vao kőmonumentumok", ro: "Monumentele de piatră din Vao", en: "Vao Stone Monuments" },
-    coordinates: { lat: -15.8955, lng: 167.2952 },
+    coords: [167.2952, -15.8955],
     description: {
       de: "Auf der Insel Vao befinden sich antike Megalithen und Zeremonialplätze, die für die lokale Kultur zentral sind.",
       hu: "Vao szigetén ősi megalitok és szertartási helyek találhatók, melyek központi szerepet töltenek be a helyi kultúrában.",
@@ -290,7 +290,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-isangel-courthouse-landmarks-v2",
     type: "landmark",
     name: { de: "Gerichtsgebäude von Isangel", hu: "Isangel bírósági épület", ro: "Tribunalul din Isangel", en: "Isangel Courthouse" },
-    coordinates: { lat: -19.5252, lng: 169.2785 },
+    coords: [169.2785, -19.5252],
     description: {
       de: "Das Gerichtsgebäude in Isangel ist das administrative Zentrum der Insel Tanna.",
       hu: "Az isangeli bírósági épület Tanna szigetének közigazgatási és igazságügyi központja.",
@@ -309,7 +309,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-bauerfield-terminal-landmarks-v2",
     type: "port",
     name: { de: "Bauerfield Flughafenterminal", hu: "Bauerfield repülőtéri terminál", ro: "Terminalul Bauerfield", en: "Bauerfield Airport Terminal" },
-    coordinates: { lat: -17.6995, lng: 168.3302 },
+    coords: [168.3302, -17.6995],
     description: {
       de: "Das Hauptterminal des internationalen Flughafens von Port Vila ist das wichtigste Tor zum Land.",
       hu: "Port Vila nemzetközi repülőterének fő terminálja az ország legfontosabb légiközlekedési kapuja.",
@@ -328,7 +328,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-pekoa-terminal-landmarks-v2",
     type: "port",
     name: { de: "Pekoa Flughafenterminal", hu: "Pekoa repülőtéri terminál", ro: "Terminalul Pekoa", en: "Pekoa Airport Terminal" },
-    coordinates: { lat: -15.5052, lng: 167.2215 },
+    coords: [167.2215, -15.5052],
     description: {
       de: "Das Terminal des Pekoa Flughafens bedient Luganville und die Insel Espiritu Santo.",
       hu: "A Pekoa repülőtér terminálja Luganville-t és Espiritu Santo szigetét szolgálja ki.",
@@ -347,7 +347,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-whitegrass-terminal-landmarks-v2",
     type: "port",
     name: { de: "Whitegrass Flughafenterminal", hu: "Whitegrass repülőtéri terminál", ro: "Terminalul Whitegrass", en: "Whitegrass Airport Terminal" },
-    coordinates: { lat: -19.4545, lng: 169.2232 },
+    coords: [169.2232, -19.4545],
     description: {
       de: "Das Terminal des Whitegrass Flughafens ist der Hauptzugangspunkt für Touristen auf der Insel Tanna.",
       hu: "A Whitegrass repülőtér terminálja Tanna szigetének fő érkezési pontja a turisták számára.",
@@ -366,7 +366,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-iririki-island-landmarks-v2",
     type: "landmark",
     name: { de: "Iririki Island Resort", hu: "Iririki-sziget üdülőhely", ro: "Resortul Iririki Island", en: "Iririki Island Resort" },
-    coordinates: { lat: -17.7422, lng: 168.3095 },
+    coords: [168.3095, -17.7422],
     description: {
       de: "Diese private Insel gegenüber von Port Vila ist ein Wahrzeichen und beherbergte einst den britischen Hochkommissar.",
       hu: "Ez a Port Vilával szemközti magánsziget jellegzetes pont, korábban a brit főbiztos lakhelye volt.",
@@ -385,7 +385,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-erakor-church-landmarks-v2",
     type: "church",
     name: { de: "Erakor-Kirche", hu: "Erakor templom", ro: "Biserica Erakor", en: "Erakor Church" },
-    coordinates: { lat: -17.7715, lng: 168.3132 },
+    coords: [168.3132, -17.7715],
     description: {
       de: "Die historische Kirche von Erakor liegt in einem der ältesten Dörfer in der Nähe von Port Vila.",
       hu: "Erakor történelmi temploma Port Vila egyik legrégebbi falujában található a tengerparton.",
@@ -404,7 +404,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-hat-island-landmarks-v2",
     type: "landmark",
     name: { de: "Hat Island (Eretoka)", hu: "Hat-sziget (Eretoka)", ro: "Insula Hat (Eretoka)", en: "Hat Island (Eretoka)" },
-    coordinates: { lat: -17.6362, lng: 168.2255 },
+    coords: [168.2255, -17.6362],
     description: {
       de: "Diese markante Insel ist Teil des UNESCO-Welterbes und Grabstätte des Häuptlings Roi Mata.",
       hu: "Ez a jellegzetes sziget az UNESCO Világörökség része, Roi Mata főnök temetkezési helye.",
@@ -423,7 +423,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-sola-hq-landmarks-v2",
     type: "landmark",
     name: { de: "Sola-Provinzhauptquartier", hu: "Sola tartományi székhely", ro: "Sediul Provincial Sola", en: "Sola Provincial Headquarters" },
-    coordinates: { lat: -13.8825, lng: 167.5512 },
+    coords: [167.5512, -13.8825],
     description: {
       de: "Sola ist das Verwaltungszentrum der Provinz Torba auf der Insel Vanua Lava.",
       hu: "Sola a Torba tartomány közigazgatási központja Vanua Lava szigetén.",
@@ -442,7 +442,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-lakatoro-house-landmarks-v2",
     type: "landmark",
     name: { de: "Lakatoro-Ratshaus", hu: "Lakatoro tanácsház", ro: "Casa Consiliului Lakatoro", en: "Lakatoro Council House" },
-    coordinates: { lat: -16.1085, lng: 167.4212 },
+    coords: [167.4212, -16.1085],
     description: {
       de: "Das Ratshaus in Lakatoro ist das administrative Herz der Provinz Malampa auf Malekula.",
       hu: "A lakatorói tanácsház Malampa tartomány közigazgatási központja Malekula szigetén.",
@@ -461,7 +461,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-saratamata-station-landmarks-v2",
     type: "landmark",
     name: { de: "Saratamata-Regierungsstation", hu: "Saratamata kormányzati állomás", ro: "Stația Guvernamentală Saratamata", en: "Saratamata Government Station" },
-    coordinates: { lat: -15.2832, lng: 167.9755 },
+    coords: [167.9755, -15.2832],
     description: {
       de: "Saratamata ist das Verwaltungszentrum der Provinz Penama auf der Insel Ambae.",
       hu: "Saratamata Penama tartomány közigazgatási központja Ambae szigetén.",
@@ -480,7 +480,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-lowanatom-mission-landmarks-v2",
     type: "landmark",
     name: { de: "Katholische Mission Lowanatom", hu: "Lowanatom katolikus misszió", ro: "Misiunea Catolică Lowanatom", en: "Lowanatom Catholic Mission" },
-    coordinates: { lat: -19.4952, lng: 169.2555 },
+    coords: [169.2555, -19.4952],
     description: {
       de: "Die katholische Mission in Lowanatom ist eine bedeutende Bildungseinrichtung und Kirche auf Tanna.",
       hu: "A lowanatomi katolikus misszió Tanna szigetének egyik jelentős oktatási és hitéleti központja.",
@@ -499,7 +499,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-nagol-towers-pentecost-landmarks-v2",
     type: "landmark",
     name: { de: "Nagol-Türme (Pentecost)", hu: "Nagol-tornyok (Pünkösd-sziget)", ro: "Turnurile Nagol (Pentecost)", en: "Nagol Towers (Pentecost)" },
-    coordinates: { lat: -15.8552, lng: 168.1855 },
+    coords: [168.1855, -15.8552],
     description: {
       de: "Diese temporären Holztürme werden jährlich für das Landtauch-Ritual auf der Insel Pentecost errichtet.",
       hu: "Ezeket az ideiglenes fatornyokat évente építik fel a Pünkösd-szigeti rituális földbeugráshoz.",
@@ -518,7 +518,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-ambrym-gongs-landmarks-v2",
     type: "monument",
     name: { de: "Schlitztrommeln von Ambrym", hu: "Ambrym-i résdobok", ro: "Gongurile din Ambrym", en: "Ambrym Slit Gongs" },
-    coordinates: { lat: -16.1355, lng: 168.0852 },
+    coords: [168.0852, -16.1355],
     description: {
       de: "Die monumentalen geschnitzten Schlitztrommeln (Atingting) sind ikonische Symbole der Kultur von Ambrym.",
       hu: "A monumentális faragott résdobok (Atingting) Ambrym szigetének ikonikus kulturális szimbólumai.",
@@ -537,7 +537,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-tanna-coffee-factory-landmarks-v2",
     type: "industry",
     name: { de: "Tanna-Kaffeefabrik", hu: "Tanna kávégyár", ro: "Fabrica de Cafea Tanna", en: "Tanna Coffee Factory" },
-    coordinates: { lat: -19.5152, lng: 169.2855 },
+    coords: [169.2855, -19.5152],
     description: {
       de: "Die Kaffeefabrik auf Tanna ist ein industrielles Wahrzeichen, das den berühmten lokalen Kaffee verarbeitet.",
       hu: "A Tanna kávégyár ipari jellegzetesség, ahol a híres helyi kávét dolgozzák fel.",
@@ -556,7 +556,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-national-library-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalbibliothek von Vanuatu", hu: "Vanuatu Nemzeti Könyvtár", ro: "Biblioteca Națională din Vanuatu", en: "Vanuatu National Library" },
-    coordinates: { lat: -17.7455, lng: 168.3252 },
+    coords: [168.3252, -17.7455],
     description: {
       de: "Die Nationalbibliothek in Port Vila bewahrt die literarischen und historischen Aufzeichnungen des Landes auf.",
       hu: "A Port Vilában található nemzeti könyvtár őrzi az ország irodalmi és történelmi feljegyzéseit.",
@@ -575,7 +575,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-australian-high-commission-landmarks-v2",
     type: "landmark",
     name: { de: "Australische Hochkommission", hu: "Ausztrál főbiztosság", ro: "Înaltul Comisariat al Australiei", en: "Australian High Commission" },
-    coordinates: { lat: -17.7412, lng: 168.3185 },
+    coords: [168.3185, -17.7412],
     description: {
       de: "Dieses moderne Regierungsgebäude in Port Vila repräsentiert die diplomatischen Beziehungen zu Australien.",
       hu: "Ez a modern port vilai kormányzati épület az Ausztráliával való diplomáciai kapcsolatokat képviseli.",
@@ -594,7 +594,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-port-sandwich-wharf-landmarks-v2",
     type: "port",
     name: { de: "Hafenkai von Port Sandwich", hu: "Port Sandwich-i kikötő", ro: "Debarcaderul Port Sandwich", en: "Port Sandwich Wharf" },
-    coordinates: { lat: -16.4452, lng: 167.7755 },
+    coords: [167.7755, -16.4452],
     description: {
       de: "Der historische Kai von Port Sandwich war einst ein bedeutender Exporthafen für Kopra auf Malekula.",
       hu: "A Port Sandwich-i történelmi kikötő egykor Malekula szigetének legfontosabb kopra-export kikötője volt.",
@@ -613,7 +613,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-loltong-church-landmarks-v2",
     type: "church",
     name: { de: "Loltong-Kirche", hu: "Loltongi templom", ro: "Biserica Loltong", en: "Loltong Church" },
-    coordinates: { lat: -15.5355, lng: 168.1552 },
+    coords: [168.1552, -15.5355],
     description: {
       de: "Die Kirche von Loltong ist ein zentrales Bauwerk in dem malerischen Dorf an der Westküste von Pentecost.",
       hu: "A loltongi templom a Pünkösd-sziget nyugati partján fekvő festői falu központi épülete.",
@@ -632,7 +632,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-mele-village-nakamal-landmarks-v2",
     type: "landmark",
     name: { de: "Mele Dorf-Nakamal", hu: "Mele falu Nakamal", ro: "Nakamal-ul satului Mele", en: "Mele Village Nakamal" },
-    coordinates: { lat: -17.6952, lng: 168.2655 },
+    coords: [168.2655, -17.6952],
     description: {
       de: "Das Nakamal von Mele ist eines der größten traditionellen Versammlungshäuser in der Nähe von Port Vila.",
       hu: "A Mele Nakamal az egyik legnagyobb hagyományos gyülekezőhely Port Vila közelében.",
@@ -651,7 +651,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-hideaway-island-landmarks-v2",
     type: "landmark",
     name: { de: "Hideaway Island Postamt", hu: "Hideaway-szigeti víz alatti posta", ro: "Oficiul Poștal Subacvatic", en: "Hideaway Island Post Office" },
-    coordinates: { lat: -17.7052, lng: 168.2652 },
+    coords: [168.2652, -17.7052],
     description: {
       de: "Das einzige Unterwasser-Postamt der Welt befindet sich im Meerespark von Hideaway Island.",
       hu: "A világ egyetlen víz alatti postahivatala a Hideaway-sziget tengeri parkjában található.",
@@ -670,7 +670,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-central-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Zentrales Krankenhaus Port Vila", hu: "Port Vila központi kórház", ro: "Spitalul Central Port Vila", en: "Port Vila Central Hospital" },
-    coordinates: { lat: -17.7452, lng: 168.3352 },
+    coords: [168.3352, -17.7452],
     description: {
       de: "Das Vila Central Hospital ist die wichtigste medizinische Einrichtung des Landes.",
       hu: "A Vila Central Hospital Vanuatu legfontosabb egészségügyi intézménye a fővárosban.",
@@ -689,7 +689,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-vila-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Port Vila", hu: "Port Vila városháza", ro: "Primăria Port Vila", en: "Port Vila City Hall" },
-    coordinates: { lat: -17.7382, lng: 168.3152 },
+    coords: [168.3152, -17.7382],
     description: {
       de: "Das Rathaus ist das administrative Zentrum für die städtische Verwaltung der Hauptstadt Port Vila.",
       hu: "A városháza a főváros, Port Vila önkormányzati közigazgatási központja.",
@@ -708,7 +708,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-unity-house-landmarks-v2",
     type: "landmark",
     name: { de: "Unity House (Haos blong Unit)", hu: "Egység Háza", ro: "Casa Unității", en: "Unity House" },
-    coordinates: { lat: -17.7425, lng: 168.3192 },
+    coords: [168.3192, -17.7425],
     description: {
       de: "Das Unity House beherbergt verschiedene Regierungsstellen und ist ein wichtiges Bürogebäude in Vila.",
       hu: "Az Egység Háza számos kormányzati szervnek ad otthont, Vila egyik fontos irodaépülete.",
@@ -727,7 +727,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-british-high-commission-landmarks-v2",
     type: "landmark",
     name: { de: "Britische Hochkommission", hu: "Brit főbiztosság", ro: "Înaltul Comisariat Britanic", en: "British High Commission" },
-    coordinates: { lat: -17.7345, lng: 168.3122 },
+    coords: [168.3122, -17.7345],
     description: {
       de: "Dieses diplomatische Gebäude repräsentiert das Vereinigte Königreich in Port Vila.",
       hu: "Ez a diplomáciai épület képviseli az Egyesült Királyságot Port Vilában.",
@@ -746,7 +746,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-malapoa-college-landmarks-v2",
     type: "university",
     name: { de: "Malapoa College", hu: "Malapoa College", ro: "Colegiul Malapoa", en: "Malapoa College" },
-    coordinates: { lat: -17.7155, lng: 168.3052 },
+    coords: [168.3052, -17.7155],
     description: {
       de: "Das Malapoa College ist eine der angesehensten weiterführenden Schulen in Port Vila.",
       hu: "A Malapoa College Port Vila egyik legnevesebb középfokú oktatási intézménye.",
@@ -765,7 +765,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-lycee-bougainville-landmarks-v2",
     type: "university",
     name: { de: "Lycée Louis Antoine de Bougainville", hu: "Lycée Louis Antoine de Bougainville", ro: "Liceul Louis Antoine de Bougainville", en: "Lycée Louis Antoine de Bougainville" },
-    coordinates: { lat: -17.7482, lng: 168.3355 },
+    coords: [168.3355, -17.7482],
     description: {
       de: "Das Lycée Bougainville ist die führende französischsprachige Sekundarschule in Vanuatu.",
       hu: "A Lycée Bougainville Vanuatu vezető francia nyelvű középiskolája Port Vilában.",
@@ -784,7 +784,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-northern-district-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Nördliches Distriktkrankenhaus", hu: "Északi körzeti kórház", ro: "Spitalul Districtual de Nord", en: "Northern District Hospital" },
-    coordinates: { lat: -15.5185, lng: 167.1952 },
+    coords: [167.1952, -15.5185],
     description: {
       de: "Das Northern District Hospital in Luganville ist das wichtigste Gesundheitszentrum für die nördlichen Inseln.",
       hu: "A Luganville-ben található északi körzeti kórház az északi szigetek legfontosabb egészségügyi központja.",
@@ -803,7 +803,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-forari-mine-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen der Forari-Mine", hu: "Forari bánya romjai", ro: "Ruinele Minei Forari", en: "Forari Mine Ruins" },
-    coordinates: { lat: -17.6855, lng: 168.5352 },
+    coords: [168.5352, -17.6855],
     description: {
       de: "Die Ruinen der Forari-Manganmine sind ein industrielles Denkmal an der Ostküste von Efate.",
       hu: "A forari mangánbánya romjai ipari emlékhelynek számítanak Efate keleti partján.",
@@ -822,7 +822,7 @@ export const vanuatuLandmarksV2: POI[] = [
     id: "vanuatu-havannah-seaplane-ramp-landmarks-v2",
     type: "ruins",
     name: { de: "Havannah Wasserflugzeug-Rampe", hu: "Havannah vízirepülő-rámpa", ro: "Rampa de Hidroavioane Havannah", en: "Havannah Seaplane Ramp" },
-    coordinates: { lat: -17.5855, lng: 168.2552 },
+    coords: [168.2552, -17.5855],
     description: {
       de: "Diese Relikte im Havannah Harbour stammen von einer US-Wasserflugzeugbasis aus dem Zweiten Weltkrieg.",
       hu: "A Havannah-kikötőben található maradványok egy II. világháborús amerikai vízirepülő-bázishoz tartoztak.",

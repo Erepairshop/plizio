@@ -646,7 +646,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-gyzyl-gaya-relief-v2",
     type: "valley",
     name: { de: "Gyzyl-Gaya Schluchten", hu: "Gyzyl-Gaya kanyonok", ro: "Canyoanele Gyzyl-Gaya", en: "Gyzyl-Gaya Canyons" },
-    coordinates: { lat: 40.0167, lng: 55.4833 },
+    coords: [55.4833, 40.0167],
     description: {
       de: "Diese markanten roten Felsformationen befinden sich im Nordwesten Turkmenistans. Sie zeichnen sich durch ihre tiefen Erosionseinschnitte und leuchtenden Farbtöne aus.",
       hu: "Ezek a jellegzetes vörös sziklaalakzatok Türkmenisztán északnyugati részén találhatók. Mély eróziós bevágások és élénk színek jellemzik a tájat.",
@@ -665,7 +665,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-misrian-plateau-relief-v2",
     type: "landmark",
     name: { de: "Misrian-Plateau", hu: "Miszrián-fennsík", ro: "Podișul Misrian", en: "Misrian Plateau" },
-    coordinates: { lat: 38.3121, lng: 54.6122 },
+    coords: [54.6122, 38.3121],
     description: {
       de: "Dieses aride Plateau im Südwesten Turkmenistans ist eine karge Ebene mit historischer Bedeutung. Es bildet eine natürliche Terrasse zwischen den Bergen und dem Meer.",
       hu: "Ez a délnyugat-türkmenisztáni száraz fennsík egy történelmi jelentőségű kopár síkság. Természetes teraszt alkot a hegyek és a tenger között.",
@@ -684,7 +684,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-ak-gaya-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Ak-Gaya Klippen", hu: "Ak-Gaya sziklák", ro: "Falezele Ak-Gaya", en: "Ak-Gaya Cliffs" },
-    coordinates: { lat: 40.2333, lng: 55.2667 },
+    coords: [55.2667, 40.2333],
     description: {
       de: "Diese strahlend weißen Kalksteinklippen bieten einen starken Kontrast zur umliegenden Wüstenlandschaft. Sie liegen am Rande des Karabogasgol-Beckens.",
       hu: "Ezek a vakítóan fehér mészkősziklák erős kontrasztot alkotnak a környező sivatagi tájjal. A Karabogas-gol medencéjének szélén találhatók.",
@@ -703,7 +703,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-kara-shor-depression-relief-v2",
     type: "valley",
     name: { de: "Kara-Shor-Senke", hu: "Kara-Shor-mélyföld", ro: "Depresiunea Kara-Shor", en: "Kara-Shor Depression" },
-    coordinates: { lat: 40.35, lng: 58.2167 },
+    coords: [58.2167, 40.35],
     description: {
       de: "Die Kara-Shor-Senke ist ein tief liegendes Becken in der zentralen Karakum-Wüste. Sie ist heute der Standort für den künstlichen Altyn-Asyr-See.",
       hu: "A Kara-Shor-mélyföld egy mélyen fekvő medence a központi Karakum-sivatagban. Ma itt található a mesterséges Altyn Asyr-tó.",
@@ -722,7 +722,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-tuerkhir-plateau-relief-v2",
     type: "landmark",
     name: { de: "Tuerkhir-Plateau", hu: "Tuerkhir-fennsík", ro: "Podișul Tuerkhir", en: "Tuerkhir Plateau" },
-    coordinates: { lat: 41.25, lng: 54.55 },
+    coords: [54.55, 41.25],
     description: {
       de: "Dieses Plateau liegt im Norden Turkmenistans nahe der Grenze zu Usbekistan. Es ist ein Teil der größeren Ustyurt-Struktur und besitzt steile Ränder.",
       hu: "Ez a fennsík Észak-Türkmenisztánban, az üzbég határ közelében található. A nagyobb Usztyurt-szerkezet része, meredek peremekkel.",
@@ -741,7 +741,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-erbent-dunes-relief-v2",
     type: "landmark",
     name: { de: "Erbent-Sanddünen", hu: "Erbent-homokdűnék", ro: "Dunele de nisip Erbent", en: "Erbent Sand Dunes" },
-    coordinates: { lat: 39.3167, lng: 58.6167 },
+    coords: [58.6167, 39.3167],
     description: {
       de: "Diese massiven Wanderdünen umgeben die Oasensiedlung Erbent im Herzen der Karakum-Wüste. Sie bilden ein klassisches Bild der turkmenischen Wüstenreliefs.",
       hu: "Ezek a hatalmas vándorló homokdűnék Erbent oázisát veszik körül a Karakum-sivatag szívében. A türkmenisztáni sivatagi domborzat klasszikus képét adják.",
@@ -760,7 +760,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-kelif-uzboy-relief-v2",
     type: "valley",
     name: { de: "Kelif-Uzboy-Tal", hu: "Kelif-Uzboy-völgy", ro: "Valea Kelif-Uzboy", en: "Kelif Uzboy Valley" },
-    coordinates: { lat: 37.5833, lng: 66.0167 },
+    coords: [66.0167, 37.5833],
     description: {
       de: "Das Kelif-Uzboy ist ein fossiles Flusstal im Südosten Turkmenistans. Es war einst Teil eines antiken Kanalsystems, das den Amudarja mit dem Kaspischen Meer verband.",
       hu: "A Kelif-Uzboy egy fosszilis folyóvölgy Türkmenisztán délkeleti részén. Valaha egy ősi csatornarendszer része volt, amely az Amu-darját kötötte össze a Kaszpi-tengerrel.",
@@ -779,7 +779,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-mount-shahshah-relief-v2",
     type: "peak",
     name: { de: "Berg Schahschah", hu: "Shahshah-hegy", ro: "Muntele Shahshah", en: "Mount Shahshah" },
-    coordinates: { lat: 37.8667, lng: 58.1167 },
+    coords: [58.1167, 37.8667],
     description: {
       de: "Der Berg Shahshah liegt im zentralen Teil des Kopet-Dag-Gebirges. Er zeichnet sich durch seine zerklüfteten Kalksteinformationen und tiefen Schluchten aus.",
       hu: "A Shahshah-hegy a Kopet-dag központi részén található. Tagolt mészkőformációk és mély szurdokok jellemzik.",
@@ -798,7 +798,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-gaurdak-karst-relief-v2",
     type: "landmark",
     name: { de: "Gaurdak-Hochland", hu: "Gaurdak-fennsík", ro: "Podișul Gaurdak", en: "Gaurdak Highlands" },
-    coordinates: { lat: 37.8167, lng: 66.4333 },
+    coords: [66.4333, 37.8167],
     description: {
       de: "Dieses Hochland im äußersten Osten Turkmenistans ist für seine spektakulären Karstlandschaften bekannt. Es beherbergt riesige Gipsvorkommen und Höhlensysteme.",
       hu: "Ez a Türkmenisztán távoli keleti részén fekvő fennsík látványos karsztvidékéről ismert. Hatalmas gipszkészleteknek és barlangrendszereknek ad otthont.",
@@ -817,7 +817,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-gezgyadyk-pass-relief-v2",
     type: "landmark",
     name: { de: "Gezgyadyk-Pass", hu: "Gezgyadyk-hágó", ro: "Pasul Gezgyadyk", en: "Gezgyadyk Pass" },
-    coordinates: { lat: 38.0333, lng: 57.1667 },
+    coords: [57.1667, 38.0333],
     description: {
       de: "Der Gezgyadyk-Pass ist ein strategisch wichtiger Übergang im Kopet-Dag-Gebirge. Er verbindet die Küstenebene mit den inneren Hochtälern des Gebirges.",
       hu: "A Gezgyadyk-hágó stratégiai fontosságú átkelőhely a Kopet-dag hegységben. Összeköti a tengerparti síkságot a hegység belső magashegyi völgyeivel.",
@@ -836,7 +836,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     id: "turkmenistan-khorezm-lowland-relief-v2",
     type: "valley",
     name: { de: "Khorezm-Niederung", hu: "Horezm-alföld", ro: "Câmpia Khorezm", en: "Khorezm Lowland" },
-    coordinates: { lat: 41.8333, lng: 59.8333 },
+    coords: [59.8333, 41.8333],
     description: {
       de: "Die Khorezm-Niederung ist eine fruchtbare Schwemmlandebene im Norden Turkmenistans entlang des Amudarja. Sie bildet eine grüne Oase inmitten der Wüste.",
       hu: "A Horezm-alföld egy termékeny hordaléksíkság Észak-Türkmenisztánban, az Amu-darja mentén. Zöld oázist alkot a sivatag közepén.",

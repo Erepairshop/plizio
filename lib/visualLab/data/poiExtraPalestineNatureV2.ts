@@ -5,7 +5,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-qelt-nature-v2",
     type: "valley",
     name: { de: "Wadi Qelt", hu: "Vádi Kelt", ro: "Wadi Qelt", en: "Wadi Qelt" },
-    coordinates: { lat: 31.84, lng: 35.41 },
+    coords: [35.41, 31.84],
     description: {
       de: "Dieses tiefe Felstal erstreckt sich von Jerusalem bis Jericho und beherbergt ganzjährige Quellen. Es ist bekannt für seine steilen Klippen und Klöster.",
       hu: "Ez a mély szurdokvölgy Jeruzsálemtől Jerikóig húzódik, egész évben folyó forrásokkal. Meredek szikláiról és kolostorairól ismert.",
@@ -24,7 +24,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-mount-temptation-nature-v2",
     type: "mountain",
     name: { de: "Berg der Versuchung", hu: "Kísértés hegye", ro: "Muntele Ispitirii", en: "Mount of Temptation" },
-    coordinates: { lat: 31.87, lng: 35.43 },
+    coords: [35.43, 31.87],
     description: {
       de: "Dieser steile Berg in der Nähe von Jericho erhebt sich markant über das Jordantal. Er beherbergt ein in die Felswand gebautes Kloster.",
       hu: "Ez a Jerikó közeli meredek hegy markánsan emelkedik a Jordán-völgy fölé. Egy közvetlenül a sziklába épült kolostornak ad otthont.",
@@ -43,7 +43,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-gaza-nature-v2",
     type: "wildlife",
     name: { de: "Wadi Gaza", hu: "Vádi Gáza", ro: "Wadi Gaza", en: "Wadi Gaza" },
-    coordinates: { lat: 31.45, lng: 34.42 },
+    coords: [34.42, 31.45],
     description: {
       de: "Das Wadi Gaza ist ein bedeutendes Feuchtgebiet und Naturschutzgebiet im Gazastreifen. Es dient als wichtiger Rastplatz für Zugvögel.",
       hu: "A Vádi Gáza egy jelentős vizes élőhely és természetvédelmi terület a Gázai övezetben. Fontos pihenőhely a költöző madarak számára.",
@@ -62,7 +62,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-judean-desert-nature-v2",
     type: "wildlife",
     name: { de: "Judäische Wüste", hu: "Júdeai-sivatag", ro: "Pustiul Iudeii", en: "Judean Desert" },
-    coordinates: { lat: 31.65, lng: 35.32 },
+    coords: [35.32, 31.65],
     description: {
       de: "Die Judäische Wüste erstreckt sich östlich des zentralen Hochlandes bis zum Toten Meer. Sie ist geprägt von tiefen Schluchten und kargen Bergen.",
       hu: "A Júdeai-sivatag a központi felföldtől keletre, a Holt-tengerig húzódik. Mély szurdokok és kopár hegyek jellemzik.",
@@ -81,7 +81,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-ein-feshkha-nature-v2",
     type: "wildlife",
     name: { de: "Ein Feshkha", hu: "Ein Feshkha", ro: "Ein Feshkha", en: "Ein Feshkha" },
-    coordinates: { lat: 31.71, lng: 35.45 },
+    coords: [35.45, 31.71],
     description: {
       de: "Ein Feshkha ist eine natürliche Oase am Ufer des Toten Meeres. Es ist das am tiefsten gelegene Naturschutzgebiet der Welt mit Brackwasserquellen.",
       hu: "Ein Feshkha egy természetes oázis a Holt-tenger partján. A világ legmélyebben fekvő természetvédelmi területe, brakkvizes forrásokkal.",
@@ -100,7 +100,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-auja-nature-v2",
     type: "river",
     name: { de: "Wadi Auja", hu: "Vádi Audzsa", ro: "Wadi Auja", en: "Wadi Auja" },
-    coordinates: { lat: 31.94, lng: 35.42 },
+    coords: [35.42, 31.94],
     description: {
       de: "Das Wadi Auja ist ein markantes Tal mit einer starken Quelle im Jordantal. Es bietet im Winter und Frühjahr üppige grüne Landschaften.",
       hu: "A Vádi Audzsa egy látványos völgy a Jordán-völgyben, bővizű forrással. Télen és tavasszal dús, zöld tájat kínál.",
@@ -119,7 +119,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-kidron-valley-nature-v2",
     type: "valley",
     name: { de: "Kidrontal", hu: "Kidron-völgy", ro: "Valea Cedronului", en: "Kidron Valley" },
-    coordinates: { lat: 31.77, lng: 35.24 },
+    coords: [35.24, 31.77],
     description: {
       de: "Das Kidrontal trennt den Tempelberg vom Ölberg in Jerusalem. Es verläuft weiter durch die Judäische Wüste bis zum Toten Meer.",
       hu: "A Kidron-völgy választja el a Templom-hegyet az Olajfák hegyétől Jeruzsálemben. A Júdeai-sivatagon át tart a Holt-tengerig.",
@@ -138,7 +138,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-marj-sanur-nature-v2",
     type: "lake",
     name: { de: "Marj Sanur", hu: "Mardzs Szanúr", ro: "Marj Sanur", en: "Marj Sanur" },
-    coordinates: { lat: 32.34, lng: 35.26 },
+    coords: [35.26, 32.34],
     description: {
       de: "Marj Sanur ist eine geschlossene Senke im nördlichen Westjordanland, die sich im Winter oft in einen saisonalen See verwandelt.",
       hu: "Mardzs Szanúr egy zárt medence Észak-Ciszjordániában, amely télen gyakran időszakos tóvá alakul át.",
@@ -157,7 +157,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-el-fara-nature-v2",
     type: "valley",
     name: { de: "Wadi el-Far'a", hu: "Vádi el-Fára", ro: "Wadi el-Far'a", en: "Wadi el-Far'a" },
-    coordinates: { lat: 32.29, lng: 35.35 },
+    coords: [35.35, 32.29],
     description: {
       de: "Das Wadi el-Far'a ist eines der wasserreichsten Täler im Westjordanland. Es verbindet das Hochland von Nablus mit dem Jordantal.",
       hu: "A Vádi el-Fára Ciszjordánia egyik legvizesebb völgye. Náblusz felföldjét köti össze a Jordán-völgyével.",
@@ -176,7 +176,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-en-nar-nature-v2",
     type: "valley",
     name: { de: "Wadi en-Nar", hu: "Vádi en-Nár", ro: "Wadi en-Nar", en: "Wadi en-Nar" },
-    coordinates: { lat: 31.73, lng: 35.34 },
+    coords: [35.34, 31.73],
     description: {
       de: "Das Wadi en-Nar ist die Fortsetzung des Kidrontals in der Judäischen Wüste. Es bildet eine tiefe, dramatische Schlucht mit steilen Felswänden.",
       hu: "A Vádi en-Nár a Kidron-völgy folytatása a Júdeai-sivatagban. Mély, drámai szurdokot alkot meredek sziklafalakkal.",
@@ -195,7 +195,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-hinnom-valley-nature-v2",
     type: "valley",
     name: { de: "Hinnomtal", hu: "Hinnom-völgy", ro: "Valea Hinom", en: "Hinnom Valley" },
-    coordinates: { lat: 31.77, lng: 35.22 },
+    coords: [35.22, 31.77],
     description: {
       de: "Das Hinnomtal umschließt die Altstadt von Jerusalem im Süden und Westen. Es ist geprägt von Felsklippen und mediterraner Vegetation.",
       hu: "A Hinnom-völgy délről és nyugatról kerüli meg Jeruzsálem óvárosát. Sziklás peremek és mediterrán vegetáció jellemzi.",
@@ -214,7 +214,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-battir-terraces-nature-v2",
     type: "landmark",
     name: { de: "Battir Terrassen", hu: "Battíri teraszok", ro: "Terasele de la Battir", en: "Battir Terraces" },
-    coordinates: { lat: 31.72, lng: 35.13 },
+    coords: [35.13, 31.72],
     description: {
       de: "Die Terrassen von Battir sind ein UNESCO-Welterbe, das für sein antikes Bewässerungssystem bekannt ist. Sie nutzen natürliche Quellen für den Feldbau.",
       hu: "A battíri teraszok az UNESCO Világörökség részei, ősi öntözőrendszerükről híresek. Természetes forrásokat használnak a földműveléshez.",
@@ -233,7 +233,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-al-makhrour-nature-v2",
     type: "valley",
     name: { de: "Wadi al-Makhrour", hu: "Vádi al-Makhrúr", ro: "Wadi al-Makhrour", en: "Wadi al-Makhrour" },
-    coordinates: { lat: 31.7, lng: 35.16 },
+    coords: [35.16, 31.7],
     description: {
       de: "Wadi al-Makhrour ist eines der letzten grünen Täler in der Region Bethlehem. Es ist bekannt für seine natürliche Artenvielfalt und alten Olivenbäume.",
       hu: "A Vádi al-Makhrúr Betlehem környékének egyik utolsó zöld völgye. Természetes biodiverzitásáról és ősi olajfáiról ismert.",
@@ -252,7 +252,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-al-quff-forest-nature-v2",
     type: "forest",
     name: { de: "Al-Quff Wald", hu: "Al-Quff erdő", ro: "Pădurea Al-Quff", en: "Al-Quff Forest" },
-    coordinates: { lat: 31.59, lng: 35.05 },
+    coords: [35.05, 31.59],
     description: {
       de: "Der Al-Quff Wald ist ein bedeutendes Waldgebiet nördlich von Hebron. Er bietet einen wichtigen Rückzugsort für die heimische Flora und Fauna.",
       hu: "Az Al-Quff erdő egy jelentős erdős terület Hebrontól északra. Fontos menedéket nyújt a hazai növény- és állatvilág számára.",
@@ -271,7 +271,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-gaza-coastline-nature-v2",
     type: "sea",
     name: { de: "Küste von Gaza", hu: "Gázai tengerpart", ro: "Coasta Gazei", en: "Gaza Coastline" },
-    coordinates: { lat: 31.42, lng: 34.36 },
+    coords: [34.36, 31.42],
     description: {
       de: "Die Küste des Gazastreifens erstreckt sich über 40 Kilometer entlang des Mittelmeers. Sie ist geprägt von Sandstränden und Küstendünen.",
       hu: "A Gázai övezet tengerpartja 40 kilométer hosszan nyúlik el a Földközi-tenger mentén. Homokos strandok és dűnék jellemzik.",
@@ -290,7 +290,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-sartaba-peak-nature-v2",
     type: "peak",
     name: { de: "Sartaba", hu: "Szartaba", ro: "Sartaba", en: "Sartaba" },
-    coordinates: { lat: 32.1, lng: 35.46 },
+    coords: [35.46, 32.1],
     description: {
       de: "Sartaba ist ein kegelförmiger Berg, der markant über dem Jordantal aufragt. Er bietet einen weiten Blick über die Wüstenlandschaft.",
       hu: "A Szartaba egy kúp alakú hegy, amely látványosan emelkedik a Jordán-völgy fölé. Messzire ellátni innen a sivatagi tájon.",
@@ -309,7 +309,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-mount-kabir-nature-v2",
     type: "peak",
     name: { de: "Berg Kabir", hu: "Kabir-hegy", ro: "Muntele Kabir", en: "Mount Kabir" },
-    coordinates: { lat: 32.22, lng: 35.34 },
+    coords: [35.34, 32.22],
     description: {
       de: "Der Berg Kabir liegt östlich von Nablus und bietet einen der besten Aussichtspunkte im nördlichen Westjordanland auf das Jordantal.",
       hu: "A Kabir-hegy Náblusztól keletre fekszik, és az egyik legjobb kilátóhelyet kínálja a Jordán-völgyre Észak-Ciszjordániában.",
@@ -328,7 +328,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-zarqa-al-ulwi-nature-v2",
     type: "river",
     name: { de: "Wadi Zarqa al-Ulwi", hu: "Vádi Zarka al-Ulvi", ro: "Wadi Zarqa al-Ulwi", en: "Wadi Zarqa al-Ulwi" },
-    coordinates: { lat: 32.07, lng: 35.11 },
+    coords: [35.11, 32.07],
     description: {
       de: "Wadi Zarqa al-Ulwi ist ein wichtiges Flusstal im zentralen Westjordanland. Es beherbergt ganzjährige Quellen und eine reiche Flora.",
       hu: "A Vádi Zarka al-Ulvi egy fontos folyóvölgy Közép-Ciszjordániában. Egész évben folyó forrásoknak és gazdag flórának ad otthont.",
@@ -347,7 +347,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-shair-nature-v2",
     type: "valley",
     name: { de: "Wadi Shair", hu: "Vádi Saír", ro: "Wadi Shair", en: "Wadi Shair" },
-    coordinates: { lat: 32.25, lng: 35.12 },
+    coords: [35.12, 32.25],
     description: {
       de: "Wadi Shair ist ein fruchtbares Tal, das Nablus mit Tulkarm verbindet. Es ist bekannt für seine ausgedehnten Oliven- und Zitrushaine.",
       hu: "A Vádi Saír egy termékeny völgy, amely Nábluszt köti össze Tulkarmmal. Kiterjedt olajfa- és citrusligeteiről nevezetes.",
@@ -366,7 +366,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-natuf-nature-v2",
     type: "valley",
     name: { de: "Wadi Natuf", hu: "Vádi Natúf", ro: "Wadi Natuf", en: "Wadi Natuf" },
-    coordinates: { lat: 31.97, lng: 35.1 },
+    coords: [35.1, 31.97],
     description: {
       de: "Wadi Natuf ist ein historisch und ökologisch bedeutsames Tal nordwestlich von Ramallah. Es ist die Namensgeberin der prähistorischen Natufien-Kultur.",
       hu: "A Vádi Natúf egy történelmileg és ökológiailag jelentős völgy Rámalláhtól északnyugatra. Innen kapta nevét a történelem előtti Natúf-kultúra.",
@@ -385,7 +385,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-hebron-hills-nature-v2",
     type: "mountain",
     name: { de: "Hebron-Hügelland", hu: "Hebroni-dombság", ro: "Dealurile Hebronului", en: "Hebron Hills" },
-    coordinates: { lat: 31.53, lng: 35.09 },
+    coords: [35.09, 31.53],
     description: {
       de: "Das Hebron-Hügelland bildet den südlichen Teil des zentralen Hochlandes. Es ist geprägt durch terrassierte Hänge und weite Weinberge.",
       hu: "A Hebroni-dombság a központi felföld déli részét alkotja. Teraszos lejtők és kiterjedt szőlőültetvények jellemzik.",
@@ -404,7 +404,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-ein-sultan-spring-nature-v2",
     type: "landmark",
     name: { de: "Ein Sultan Quelle", hu: "Ein Sultan-forrás", ro: "Izvorul Ein Sultan", en: "Ein Sultan Spring" },
-    coordinates: { lat: 31.87, lng: 35.44 },
+    coords: [35.44, 31.87],
     description: {
       de: "Ein Sultan ist die wichtigste natürliche Süßwasserquelle von Jericho. Sie ermöglichte seit Jahrtausenden das Leben in dieser Wüstenoase.",
       hu: "Ein Sultan Jerikó legfontosabb természetes édesvízforrása. Évezredek óta lehetővé teszi az életet ebben a sivatagi oázisban.",
@@ -423,7 +423,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-nablus-valley-nature-v2",
     type: "valley",
     name: { de: "Tal von Nablus", hu: "Nábluszi-völgy", ro: "Valea Nablusului", en: "Nablus Valley" },
-    coordinates: { lat: 32.22, lng: 35.26 },
+    coords: [35.26, 32.22],
     description: {
       de: "Das Tal von Nablus liegt eingebettet zwischen den Bergen Garizim und Ebal. Es ist bekannt für seine zahlreichen Quellen und fruchtbaren Gärten.",
       hu: "A Nábluszi-völgy a Gerizim és az Ebál hegyek közé ékelődik. Számos forrásáról és termékeny kertjeiről ismert.",
@@ -442,7 +442,7 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-gaza-sand-dunes-nature-v2",
     type: "wildlife",
     name: { de: "Sanddünen von Gaza", hu: "Gázai homokdűnék", ro: "Dunele de nisip din Gaza", en: "Gaza Sand Dunes" },
-    coordinates: { lat: 31.35, lng: 34.3 },
+    coords: [34.3, 31.35],
     description: {
       de: "Die Sanddünen im südlichen Gazastreifen sind ein charakteristisches Küstenökosystem. Sie beherbergen spezialisierte Pflanzen und Wüstenfüchse.",
       hu: "A Gázai övezet déli részének homokdűnéi jellegzetes parti ökoszisztémát alkotnak. Speciális növényeknek és sivatagi rókáknak adnak otthont.",

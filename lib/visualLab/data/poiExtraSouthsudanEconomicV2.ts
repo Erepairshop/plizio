@@ -727,7 +727,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-wunrok-trading-economic-v2",
     type: "city",
     name: { de: "Wunrok Handelszentrum", hu: "Wunrok kereskedelmi központ", ro: "Centrul comercial Wunrok", en: "Wunrok Trading Center" },
-    coordinates: { lat: 8.4485, lng: 28.5342 },
+    coords: [28.5342, 8.4485],
     description: {
       de: "Wunrok ist ein bedeutender Handelsort im Bundesstaat Warrap. Er dient als lokales Zentrum für den Austausch landwirtschaftlicher Güter.",
       hu: "Wunrok fontos kereskedelmi pont Warrap államban. Helyi csomópontként szolgál a mezőgazdasági termékek cseréjéhez.",
@@ -746,7 +746,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-juba-logistics-hub-economic-v2",
     type: "industry",
     name: { de: "Juba Logistikzentrum", hu: "Juba logisztikai központ", ro: "Centrul logistic Juba", en: "Juba Logistics Hub" },
-    coordinates: { lat: 4.8453, lng: 31.5796 },
+    coords: [31.5796, 4.8453],
     description: {
       de: "Dieses Logistikzentrum in Juba koordiniert die Verteilung importierter Güter. Es ist ein zentraler Umschlagplatz für landesweite Lieferungen.",
       hu: "Ez a jubai logisztikai központ koordinálja az importált áruk elosztását. Központi átrakodóhely az országos szállításokhoz.",
@@ -765,7 +765,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-pariang-supply-zone-economic-v2",
     type: "industry",
     name: { de: "Pariang Versorgungszone", hu: "Pariang ellátási zóna", ro: "Zona de aprovizionare Pariang", en: "Pariang Supply Zone" },
-    coordinates: { lat: 9.3512, lng: 29.5398 },
+    coords: [29.5398, 9.3512],
     description: {
       de: "Die Versorgungszone Pariang unterstützt die umliegenden Öl- und Infrastrukturprojekte. Sie fungiert als wichtiger technischer Versorgungsstützpunkt.",
       hu: "A Pariang ellátási zóna támogatja a környező olaj- és infrastrukturális projekteket. Fontos műszaki ellátóbázisként működik.",
@@ -784,7 +784,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-torit-agricultural-center-economic-v2",
     type: "factory",
     name: { de: "Torit Agrarzentrum", hu: "Torit mezőgazdasági központ", ro: "Centrul agricol Torit", en: "Torit Agricultural Center" },
-    coordinates: { lat: 4.4082, lng: 32.5701 },
+    coords: [32.5701, 4.4082],
     description: {
       de: "Das Agrarzentrum in Torit bündelt die landwirtschaftliche Produktion der Region. Es dient der Weiterverarbeitung lokaler Erzeugnisse.",
       hu: "A toriti mezőgazdasági központ összefogja a régió termelését. A helyi termékek további feldolgozására szolgál.",
@@ -803,7 +803,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-renk-milling-plant-economic-v2",
     type: "factory",
     name: { de: "Renk Mühlenanlage", hu: "Renk malomüzem", ro: "Instalație de morărit Renk", en: "Renk Milling Plant" },
-    coordinates: { lat: 11.8344, lng: 32.7933 },
+    coords: [32.7933, 11.8344],
     description: {
       de: "Die Mühlenanlage in Renk ist auf die Verarbeitung von Getreide spezialisiert. Sie versorgt den Norden des Landes mit Grundnahrungsmitteln.",
       hu: "A Renk-i malomüzem gabonafélék feldolgozására szakosodott. Alapvető élelmiszerekkel látja el az ország északi részét.",
@@ -822,7 +822,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-yambio-timber-yard-economic-v2",
     type: "industry",
     name: { de: "Yambio Holzplatz", hu: "Yambio fatelep", ro: "Depozit de cherestea Yambio", en: "Yambio Timber Yard" },
-    coordinates: { lat: 4.5732, lng: 28.3942 },
+    coords: [28.3942, 4.5732],
     description: {
       de: "Der Holzplatz in Yambio organisiert den Umschlag von tropischem Hartholz. Er ist ein zentraler Punkt für die regionale Forstwirtschaft.",
       hu: "A yambioi fatelep trópusi keményfa átrakodását szervezi. A regionális erdőgazdálkodás központi pontja.",
@@ -841,7 +841,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-wau-processing-hub-economic-v2",
     type: "industry",
     name: { de: "Wau Verarbeitungszentrum", hu: "Wau feldolgozó központ", ro: "Centrul de procesare Wau", en: "Wau Processing Hub" },
-    coordinates: { lat: 7.7025, lng: 27.9944 },
+    coords: [27.9944, 7.7025],
     description: {
       de: "Dieses Zentrum in Wau spezialisiert sich auf die Veredelung landwirtschaftlicher Rohstoffe. Es ist ein wichtiger Wirtschaftsfaktor der Stadt.",
       hu: "Ez a waui központ a mezőgazdasági nyersanyagok finomítására specializálódott. A város fontos gazdasági tényezője.",
@@ -860,7 +860,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-malakal-port-expansion-economic-v2",
     type: "port",
     name: { de: "Malakal Hafenerweiterung", hu: "Malakal kikötőbővítés", ro: "Extinderea portului Malakal", en: "Malakal Port Expansion" },
-    coordinates: { lat: 9.5487, lng: 31.6607 },
+    coords: [31.6607, 9.5487],
     description: {
       de: "Die Hafenerweiterung in Malakal zielt auf die Kapazitätssteigerung für den Warenverkehr auf dem Weißen Nil ab. Ein strategisches Infrastrukturprojekt.",
       hu: "A malakali kikötőbővítés a Fehér-Nílusi áruforgalom kapacitásnövelését célozza. Stratégiai infrastrukturális projekt.",
@@ -879,7 +879,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-aweil-cotton-project-economic-v2",
     type: "factory",
     name: { de: "Aweil Baumwollprojekt", hu: "Aweil gyapotprojekt", ro: "Proiectul de bumbac Aweil", en: "Aweil Cotton Project" },
-    coordinates: { lat: 8.7753, lng: 27.4042 },
+    coords: [27.4042, 8.7753],
     description: {
       de: "Das Aweil-Baumwollprojekt fördert den Anbau und die erste Verarbeitung der Faserpflanze. Es unterstützt den regionalen Export.",
       hu: "Az Aweil-i gyapotprojekt elősegíti a növény termesztését és elsődleges feldolgozását. Támogatja a regionális exportot.",
@@ -898,7 +898,7 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
     id: "southsudan-nimule-trade-crossing-economic-v2",
     type: "city",
     name: { de: "Nimule Handelsübergang", hu: "Nimule kereskedelmi átkelő", ro: "Trecere comercială Nimule", en: "Nimule Trading Crossing" },
-    coordinates: { lat: 3.5933, lng: 32.0569 },
+    coords: [32.0569, 3.5933],
     description: {
       de: "Der Handelsübergang Nimule an der Grenze zu Uganda ist der wichtigste Knotenpunkt für Importe. Er steuert den Großteil des landesweiten Güterverkehrs.",
       hu: "A Nimule-i kereskedelmi átkelő az ugandai határnál a legfontosabb import csomópont. Az országos áruforgalom nagy részét irányítja.",

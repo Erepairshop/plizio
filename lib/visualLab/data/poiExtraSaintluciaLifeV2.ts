@@ -5,7 +5,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-maria-islands-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Maria Islands Naturschutzgebiet", hu: "Maria-szigetek Természetvédelmi Terület", ro: "Rezervația Naturală Maria Islands", en: "Maria Islands Nature Reserve" },
-    coordinates: { lat: 13.725, lng: -60.931 },
+    coords: [-60.931, 13.725],
     description: {
       de: "Zwei kleine Inseln vor der Südostküste, die seltene Reptilien beherbergen. Es ist das einzige Refugium für die Saint-Lucia-Rennnatter.",
       hu: "Két kis sziget a délkeleti partnál, amely ritka hüllőknek ad otthont. Ez a Saint Lucia-i sikló utolsó menedéke.",
@@ -24,7 +24,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-diamond-falls-botanical-gardens-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Diamond Falls", hu: "Diamond Falls Botanikus Kert", ro: "Grădina Botanică Diamond Falls", en: "Diamond Falls Botanical Gardens" },
-    coordinates: { lat: 13.852, lng: -61.054 },
+    coords: [-61.054, 13.852],
     description: {
       de: "Ein preisgekrönter Garten mit tropischen Pflanzen und einem farbenfrohen Wasserfall. Das Wasser ist durch vulkanische Mineralien gefärbt.",
       hu: "Díjnyertes kert trópusi növényekkel és egy színes vízeséssel. A vizet vulkáni ásványok színezik meg.",
@@ -43,7 +43,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-millet-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Millet Vogelschutzgebiet", hu: "Millet Madárrezervátum", ro: "Sanctuarul de Păsări Millet", en: "Millet Bird Sanctuary" },
-    coordinates: { lat: 13.905, lng: -60.975 },
+    coords: [-60.975, 13.905],
     description: {
       de: "Ein Waldreservat im Zentrum der Insel, das für seine hohe Dichte an endemischen Vogelarten bekannt ist.",
       hu: "A sziget közepén található erdőrezervátum, amely az endemikus madárfajok nagy sűrűségéről ismert.",
@@ -62,7 +62,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-mankote-mangrove-life-v2",
     type: "park",
     name: { de: "Mankoté Mangroven", hu: "Mankoté-mangrove", ro: "Mangrova Mankoté", en: "Mankoté Mangrove" },
-    coordinates: { lat: 13.738, lng: -60.923 },
+    coords: [-60.923, 13.738],
     description: {
       de: "Das größte Mangrovengebiet in Saint Lucia, gelegen an der Südostküste. Es ist ein wichtiges Brutgebiet für Fische und Vögel.",
       hu: "Saint Lucia legnagyobb mangrove-területe a délkeleti parton. Fontos ívóhely a halak és fészkelőhely a madarak számára.",
@@ -81,7 +81,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-frigate-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Frigate Island Naturschutzgebiet", hu: "Fregatt-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Frigate Island", en: "Frigate Island Nature Reserve" },
-    coordinates: { lat: 13.878, lng: -60.892 },
+    coords: [-60.892, 13.878],
     description: {
       de: "Ein felsiges Eiland vor der Ostküste, das als bedeutender Nistplatz für Prachtfregattvögel dient.",
       hu: "Sziklás szigetecske a keleti partnál, amely a pompás fregattmadarak jelentős fészkelőhelye.",
@@ -100,7 +100,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-edmund-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Edmund Waldreservat", hu: "Edmund Erdőrezervátum", ro: "Rezervația Forestieră Edmund", en: "Edmund Forest Reserve" },
-    coordinates: { lat: 13.85, lng: -60.985 },
+    coords: [-60.985, 13.85],
     description: {
       de: "Ein riesiges Regenwaldreservat im Herzen der Insel, das für seine reiche Artenvielfalt und Nebelwälder bekannt ist.",
       hu: "Hatalmas esőerdő-rezervátum a sziget szívében, amely gazdag élővilágáról és köderdőiről ismert.",
@@ -119,7 +119,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-des-cartier-trail-life-v2",
     type: "wildlife",
     name: { de: "Des Cartier Wanderweg", hu: "Des Cartier Tanösvény", ro: "Traseul Des Cartier", en: "Des Cartier Trail" },
-    coordinates: { lat: 13.842, lng: -60.945 },
+    coords: [-60.945, 13.842],
     description: {
       de: "Ein Wanderweg durch den unberührten Regenwald im Osten, ideal zur Beobachtung der seltenen Saint-Lucia-Amazone.",
       hu: "Ösvény az érintetlen esőerdőben keleten, amely ideális a ritka Saint Lucia-i amazon megfigyelésére.",
@@ -138,7 +138,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-savannes-bay-nature-reserve-life-v2",
     type: "park",
     name: { de: "Savannes Bay Naturschutzgebiet", hu: "Savannes-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Savannes Bay", en: "Savannes Bay Nature Reserve" },
-    coordinates: { lat: 13.753, lng: -60.915 },
+    coords: [-60.915, 13.753],
     description: {
       de: "Ein geschütztes Feuchtgebiet an der Südostküste mit Mangrovenwäldern und Seegraswiesen.",
       hu: "Védett vizes élőhely a délkeleti parton, mangroveerdőkkel és tengerifű-mezőkkel.",
@@ -157,7 +157,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-mamiku-gardens-life-v2",
     type: "park",
     name: { de: "Mamiku Gärten", hu: "Mamiku Kertek", ro: "Grădinile Mamiku", en: "Mamiku Gardens" },
-    coordinates: { lat: 13.882, lng: -60.902 },
+    coords: [-60.902, 13.882],
     description: {
       de: "Botanische Gärten auf dem Gelände einer ehemaligen Plantage, die eine Mischung aus Zierpflanzen und Heilkräutern zeigen.",
       hu: "Botanikus kertek egy korábbi ültetvény területén, dísznövények és gyógynövények keverékével.",
@@ -176,7 +176,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-union-nature-trail-life-v2",
     type: "wildlife",
     name: { de: "Union Naturpfad", hu: "Union Tanösvény", ro: "Traseul Union Nature", en: "Union Nature Trail" },
-    coordinates: { lat: 14.02, lng: -60.957 },
+    coords: [-60.957, 14.02],
     description: {
       de: "Ein lehrreicher Pfad im Norden der Insel, der durch Trockenwald führt und ein Informationszentrum über lokale Wildtiere besitzt.",
       hu: "Oktató jellegű ösvény a sziget északi részén, amely száraz erdőn vezet keresztül, és információs központtal rendelkezik.",
@@ -195,7 +195,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-quilesse-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Quilesse Waldreservat", hu: "Quilesse Erdőrezervátum", ro: "Rezervația Forestieră Quilesse", en: "Quilesse Forest Reserve" },
-    coordinates: { lat: 13.835, lng: -60.955 },
+    coords: [-60.955, 13.835],
     description: {
       de: "Ein hochgelegenes Waldreservat, das einen der unberührtesten Regenwälder der Kleinen Antillen beherbergt.",
       hu: "Magasan fekvő erdőrezervátum, amely a Kis-Antillák egyik legérintetlenebb esőerdőjének ad otthont.",
@@ -214,7 +214,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-praslin-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Praslin Island Naturschutzgebiet", hu: "Praslin-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Praslin Island", en: "Praslin Island Nature Reserve" },
-    coordinates: { lat: 13.875, lng: -60.895 },
+    coords: [-60.895, 13.875],
     description: {
       de: "Eine kleine küstennahe Insel, die für ihre Population der Saint-Lucia-Peitschenschwanz-Eidechse bekannt ist.",
       hu: "Kis partközeli sziget, amely a Saint Lucia-i ostorfarkú gyík populációjáról ismert.",
@@ -233,7 +233,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-scorpion-island-life-v2",
     type: "wildlife",
     name: { de: "Scorpion Island", hu: "Skorpió-sziget", ro: "Insula Scorpion", en: "Scorpion Island" },
-    coordinates: { lat: 13.755, lng: -60.905 },
+    coords: [-60.905, 13.755],
     description: {
       de: "Ein kleines Eiland in der Savannes Bay, das für seine reiche Meeresvogelwelt und ungestörte Flora bekannt ist.",
       hu: "Kis szigetecske a Savannes-öbölben, amely gazdag tengeri madárvilágáról és érintetlen flórájáról ismert.",
@@ -252,7 +252,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-dennery-island-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Dennery Island Naturschutzgebiet", hu: "Dennery-sziget Természetvédelmi Terület", ro: "Rezervația Naturală Dennery Island", en: "Dennery Island Nature Reserve" },
-    coordinates: { lat: 13.91, lng: -60.885 },
+    coords: [-60.885, 13.91],
     description: {
       de: "Eine zerklüftete Insel vor Dennery, die ein wichtiges Refugium für Küstenvögel und Reptilien darstellt.",
       hu: "Dennery előtti sziklás sziget, amely fontos menedéket nyújt a parti madarak és hüllők számára.",
@@ -271,7 +271,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-choc-bay-mangroves-life-v2",
     type: "park",
     name: { de: "Choc Bay Mangroven", hu: "Choc-öböl mangrovéi", ro: "Mangrovele din Golful Choc", en: "Choc Bay Mangroves" },
-    coordinates: { lat: 14.03, lng: -60.965 },
+    coords: [-60.965, 14.03],
     description: {
       de: "Eines der wenigen verbliebenen Mangrovengebiete im Norden, das als Puffer zwischen Land und Meer dient.",
       hu: "Az északi rész kevés megmaradt mangrove-területének egyike, amely pufferként szolgál a szárazföld és a tenger között.",
@@ -290,7 +290,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-canelles-river-delta-life-v2",
     type: "river",
     name: { de: "Canelles Flussdelta", hu: "Canelles-folyó deltája", ro: "Delta Râului Canelles", en: "Canelles River Delta" },
-    coordinates: { lat: 13.775, lng: -60.935 },
+    coords: [-60.935, 13.775],
     description: {
       de: "Ein Mündungsgebiet im Südosten, wo Süßwasser auf das Meer trifft und eine einzigartige Mischflora schafft.",
       hu: "Torkolati terület délkeleten, ahol az édesvíz találkozik a tengerrel, egyedi kevert flórát hozva létre.",
@@ -309,7 +309,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-fond-dor-nature-reserve-life-v2",
     type: "park",
     name: { de: "Fond d'Or Naturschutzgebiet", hu: "Fond d'Or Természetvédelmi Terület", ro: "Rezervația Naturală Fond d'Or", en: "Fond d'Or Nature Reserve" },
-    coordinates: { lat: 13.935, lng: -60.895 },
+    coords: [-60.895, 13.935],
     description: {
       de: "Ein Küstenpark, der Strand, Ästuar und historischen Wald kombiniert und ein Rückzugsort für Wasservögel ist.",
       hu: "Partmenti park, amely ötvözi a strandot, a torkolatot és a történelmi erdőt, vízimadarak menedékhelye.",
@@ -328,7 +328,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-latille-waterfalls-and-gardens-life-v2",
     type: "park",
     name: { de: "Latille Wasserfälle und Gärten", hu: "Latille-vízesések és kertek", ro: "Cascadele și Grădinile Latille", en: "Latille Waterfalls and Gardens" },
-    coordinates: { lat: 13.825, lng: -60.925 },
+    coords: [-60.925, 13.825],
     description: {
       de: "Eine private Naturoase im Osten mit üppigen Gärten und natürlichen Pools, umgeben von tropischem Wald.",
       hu: "Magánkézben lévő természetvédelmi oázis keleten, buja kertekkel és természetes medencékkel, trópusi erdővel körülvéve.",
@@ -347,7 +347,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-marigot-bay-mangroves-life-v2",
     type: "park",
     name: { de: "Marigot Bay Mangroven", hu: "Marigot-öböl mangrovéi", ro: "Mangrovele din Golful Marigot", en: "Marigot Bay Mangroves" },
-    coordinates: { lat: 13.965, lng: -61.025 },
+    coords: [-61.025, 13.965],
     description: {
       de: "Ein wichtiges Ökosystem innerhalb der geschützten Bucht von Marigot, das Rote und Weiße Mangroven beherbergt.",
       hu: "Fontos ökoszisztéma a védett Marigot-öblön belül, amely vörös és fehér mangrovéknak ad otthont.",
@@ -366,7 +366,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-anse-chastanet-marine-national-park-life-v2",
     type: "wildlife",
     name: { de: "Anse Chastanet Marine Nationalpark", hu: "Anse Chastanet Tengeri Nemzeti Park", ro: "Parcul Național Marin Anse Chastanet", en: "Anse Chastanet Marine National Park" },
-    coordinates: { lat: 13.865, lng: -61.065 },
+    coords: [-61.065, 13.865],
     description: {
       de: "Ein Unterwasserschutzgebiet mit einigen der gesündesten Korallenriffe der Insel und großer Fischvielfalt.",
       hu: "Víz alatti védett terület a sziget egyik legegészségesebb korallzátonyával és nagy halkínálattal.",
@@ -385,7 +385,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-soufriere-marine-management-area-life-v2",
     type: "wildlife",
     name: { de: "Soufrière Marine Management Area", hu: "Soufrière Tengerkezelési Terület", ro: "Zona de Management Marin Soufrière", en: "Soufriere Marine Management Area" },
-    coordinates: { lat: 13.855, lng: -61.06 },
+    coords: [-61.06, 13.855],
     description: {
       de: "Ein umfassendes Küstenschutzgebiet, das Riffe, Strände und Seegraswiesen entlang der Westküste schützt.",
       hu: "Átfogó partmenti védett terület, amely zátonyokat, strandokat és tengerifű-mezőket véd a nyugati part mentén.",
@@ -404,7 +404,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-canaries-anse-la-raye-marine-management-area-life-v2",
     type: "wildlife",
     name: { de: "Canaries-Anse La Raye Marine Area", hu: "Canaries-Anse La Raye Tengeri Terület", ro: "Zona de Management Marin Canaries-Anse La Raye", en: "Canaries-Anse La Raye Marine Management Area" },
-    coordinates: { lat: 13.915, lng: -61.045 },
+    coords: [-61.045, 13.915],
     description: {
       de: "Ein Schutzgebiet an der Westküste, das sich auf die Erhaltung der marinen Artenvielfalt und lokalen Fischgründe konzentriert.",
       hu: "Védett terület a nyugati parton, amely a tengeri élővilág és a helyi halászterületek megőrzésére összpontosít.",
@@ -423,7 +423,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-pigeon-island-nature-focus-life-v2",
     type: "park",
     name: { de: "Pigeon Island (Naturfokus)", hu: "Galamb-sziget (Természeti fókusz)", ro: "Insula Pigeon (Focus Natural)", en: "Pigeon Island (Nature Focus)" },
-    coordinates: { lat: 14.091, lng: -60.964 },
+    coords: [-60.964, 14.091],
     description: {
       de: "Obwohl historisch bekannt, beherbergt dieser Nationalpark seltene Trockenwald-Ökosysteme und Küstenflora.",
       hu: "Bár történelmileg ismert, ez a nemzeti park ritka száraz erdő-ökoszisztémáknak és partmenti flórának ad otthont.",
@@ -442,7 +442,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-roseau-river-wetlands-life-v2",
     type: "river",
     name: { de: "Roseau Fluss-Feuchtgebiete", hu: "Roseau-folyó vizes élőhelyei", ro: "Zonele Umede ale Râului Roseau", en: "Roseau River Wetlands" },
-    coordinates: { lat: 13.955, lng: -61.025 },
+    coords: [-61.025, 13.955],
     description: {
       de: "Ein ausgedehntes Flusssystem mit angrenzenden Feuchtgebieten, das für seine reiche Vogelwelt und Landwirtschaft bekannt ist.",
       hu: "Kiterjedt folyórendszer a szomszédos vizes élőhelyekkel, amely gazdag madárvilágáról és mezőgazdaságáról ismert.",
@@ -461,7 +461,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-troumassee-river-delta-life-v2",
     type: "river",
     name: { de: "Troumassee Flussdelta", hu: "Troumassee-folyó deltája", ro: "Delta Râului Troumassee", en: "Troumassee River Delta" },
-    coordinates: { lat: 13.825, lng: -60.895 },
+    coords: [-60.895, 13.825],
     description: {
       de: "Eines der größten Flusseinzugsgebiete der Insel, dessen Delta ein kritisches Habitat für aquatische Lebensformen bildet.",
       hu: "A sziget egyik legnagyobb vízgyűjtő területe, amelynek deltája kritikus élőhelyet biztosít a vízi élőlényeknek.",
@@ -480,7 +480,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-cul-de-sac-river-wetlands-life-v2",
     type: "river",
     name: { de: "Cul de Sac Feuchtgebiete", hu: "Cul de Sac vizes élőhelyei", ro: "Zonele Umede Cul de Sac", en: "Cul de Sac River Wetlands" },
-    coordinates: { lat: 13.99, lng: -61.01 },
+    coords: [-61.01, 13.99],
     description: {
       de: "Ein bedeutendes Feuchtgebiet am Auslauf des Cul de Sac Flusses, das trotz Industrienähe wichtige ökologische Funktionen erfüllt.",
       hu: "Jelentős vizes élőhely a Cul de Sac folyó torkolatánál, amely az ipari közelség ellenére fontos ökológiai funkciókat lát el.",
@@ -499,7 +499,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-marquis-river-mangroves-life-v2",
     type: "park",
     name: { de: "Marquis Fluss Mangroven", hu: "Marquis-folyó mangrovéi", ro: "Mangrovele Râului Marquis", en: "Marquis River Mangroves" },
-    coordinates: { lat: 14.045, lng: -60.895 },
+    coords: [-60.895, 14.045],
     description: {
       de: "Ein abgelegenes Mangrovengebiet an der Nordostküste, das weitgehend vom Massentourismus unberührt ist.",
       hu: "Elszigetelt mangrove-terület az északkeleti parton, amely nagyrészt érintetlen a tömegturizmustól.",
@@ -518,7 +518,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-fond-st-jacques-forest-life-v2",
     type: "forest",
     name: { de: "Fond St. Jacques Wald", hu: "Fond St. Jacques erdő", ro: "Pădurea Fond St. Jacques", en: "Fond St. Jacques Forest" },
-    coordinates: { lat: 13.845, lng: -61.015 },
+    coords: [-61.015, 13.845],
     description: {
       de: "Ein dichter Sekundärwald in der Nähe von Soufrière, der für seine üppige Farnvegetation und Vogelvielfalt bekannt ist.",
       hu: "Sűrű másodlagos erdő Soufrière közelében, amely buja páfrányairól és madárvilágáról ismert.",
@@ -537,7 +537,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-barre-de-lisle-forest-life-v2",
     type: "forest",
     name: { de: "Barre de l'Isle Wald", hu: "Barre de l'Isle erdő", ro: "Pădurea Barre de l'Isle", en: "Barre de l'Isle Forest" },
-    coordinates: { lat: 13.925, lng: -60.955 },
+    coords: [-60.955, 13.925],
     description: {
       de: "Dieser Wald markiert die kontinentale Wasserscheide der Insel und bietet Übergangsökosysteme zwischen Ost und West.",
       hu: "Ez az erdő jelzi a sziget kontinentális vízválasztóját, és átmeneti ökoszisztémákat kínál kelet és nyugat között.",
@@ -556,7 +556,7 @@ export const saintluciaLifeV2: POI[] = [
     id: "saintlucia-mount-gimie-forest-life-v2",
     type: "forest",
     name: { de: "Mount Gimie Wald", hu: "Mount Gimie erdő", ro: "Pădurea Muntelui Gimie", en: "Mount Gimie Forest" },
-    coordinates: { lat: 13.86, lng: -61.0 },
+    coords: [-61.0, 13.86],
     description: {
       de: "Das höchstgelegene Waldgebiet der Insel rund um den Mount Gimie, bekannt für seltene Orchideen und Elfenwald-Vegetation.",
       hu: "A sziget legmagasabban fekvő erdőterülete a Mount Gimie körül, amely ritka orchideáiról és törpeerdőiről ismert.",

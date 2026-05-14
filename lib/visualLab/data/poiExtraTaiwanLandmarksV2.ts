@@ -646,7 +646,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-sun-yat-sen-memorial-hall-landmarks-v2",
     type: "monument",
     name: { de: "Sun-Yat-sen-Gedächtnishalle", hu: "Szun Jat-szen Emlékcsarnok", ro: "Sala Memorială Sun Yat-sen", en: "Sun Yat-sen Memorial Hall" },
-    coordinates: { lat: 25.04, lng: 121.5602 },
+    coords: [121.5602, 25.04],
     description: {
       de: "Ein monumentales Gebäude, das dem Gründervater der Republik China gewidmet ist und kulturelle Veranstaltungen beherbergt.",
       hu: "A Kínai Köztársaság alapító atyjának szentelt monumentális épület, amely kulturális eseményeknek ad otthont.",
@@ -665,7 +665,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-luce-memorial-chapel-landmarks-v2",
     type: "church",
     name: { de: "Luce-Gedächtniskapelle", hu: "Luce Emlékkápolna", ro: "Capela Memorială Luce", en: "Luce Memorial Chapel" },
-    coordinates: { lat: 24.1788, lng: 120.6006 },
+    coords: [120.6006, 24.1788],
     description: {
       de: "Diese modernistische Kapelle auf dem Campus der Tunghai-Universität ist bekannt für ihre zeltartige Struktur.",
       hu: "A Tunghai Egyetem kampuszán található modernista kápolna híres sátorszerű szerkezetéről.",
@@ -684,7 +684,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-national-taichung-theater-landmarks-v2",
     type: "theater",
     name: { de: "Nationaltheater Taichung", hu: "Tajcsungi Nemzeti Színház", ro: "Teatrul Național din Taichung", en: "National Taichung Theater" },
-    coordinates: { lat: 24.1627, lng: 120.6403 },
+    coords: [120.6403, 24.1627],
     description: {
       de: "Ein avantgardistisches Opernhaus, das für seine kurvigen Wände und das schallisolierte Design berühmt ist.",
       hu: "Avantgárd operaház, amely íves falairól és hangszigetelt kialakításáról híres.",
@@ -703,7 +703,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-grand-hotel-taipei-landmarks-v2",
     type: "landmark",
     name: { de: "Grand Hotel Taipeh", hu: "Tajpej Grand Hotel", ro: "Grand Hotel Taipei", en: "Grand Hotel Taipei" },
-    coordinates: { lat: 25.0792, lng: 121.5269 },
+    coords: [121.5269, 25.0792],
     description: {
       de: "Ein majestätisches Hotel im Stil eines chinesischen Palastes, das auf einem Hügel über Taipeh thront.",
       hu: "Fenséges, kínai palota stílusú szálloda, amely egy dombon magasodik Tajpej felett.",
@@ -722,7 +722,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-national-theater-concert-hall-landmarks-v2",
     type: "theater",
     name: { de: "Nationaltheater und Konzerthalle", hu: "Nemzeti Színház és Koncertterem", ro: "Teatrul Național și Sala de Concerte", en: "National Theater and Concert Hall" },
-    coordinates: { lat: 25.036, lng: 121.5186 },
+    coords: [121.5186, 25.036],
     description: {
       de: "Zwei prächtige Gebäude im traditionellen chinesischen Stil auf dem Platz der Freiheit in Taipeh.",
       hu: "Két pompás, hagyományos kínai stílusú épület a tajpeji Szabadság téren.",
@@ -741,7 +741,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-national-taiwan-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Taiwan", hu: "Tajvani Nemzeti Múzeum", ro: "Muzeul Național din Taiwan", en: "National Taiwan Museum" },
-    coordinates: { lat: 25.0428, lng: 121.515 },
+    coords: [121.515, 25.0428],
     description: {
       de: "Das älteste Museum Taiwans, untergebracht in einem neoklassizistischen Gebäude im 2-28 Friedenspark.",
       hu: "Tajvan legrégebbi múzeuma, amely egy neoklasszicista épületben található a 2-28 Béke Parkban.",
@@ -760,7 +760,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-dalongdong-baoan-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Dalongdong Baoan Tempel", hu: "Talongtung Paoan templom", ro: "Templul Baoan din Dalongdong", en: "Dalongdong Baoan Temple" },
-    coordinates: { lat: 25.073, lng: 121.5153 },
+    coords: [121.5153, 25.073],
     description: {
       de: "Ein prächtig restaurierter taoistischer Tempel in Taipeh, der für seine kunstvollen Schnitzereien bekannt ist.",
       hu: "Pompásan felújított taoista templom Tajpejben, amely művészi faragványairól híres.",
@@ -779,7 +779,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-85-sky-tower-landmarks-v2",
     type: "tower",
     name: { de: "85 Sky Tower", hu: "85 Sky Tower", ro: "85 Sky Tower", en: "85 Sky Tower" },
-    coordinates: { lat: 22.6117, lng: 120.3003 },
+    coords: [120.3003, 22.6117],
     description: {
       de: "Ein markanter Wolkenkratzer in Kaohsiung, dessen Form an das chinesische Schriftzeichen für 'hoch' erinnert.",
       hu: "Kaohsziung jellegzetes felhőkarcolója, melynek formája a 'magas' jelentésű kínai írásjelre emlékeztet.",
@@ -798,7 +798,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-museum-natural-science-landmarks-v2",
     type: "museum",
     name: { de: "Naturwissenschaftliches Nationalmuseum", hu: "Nemzeti Természettudományi Múzeum", ro: "Muzeul Național de Științe Naturale", en: "National Museum of Natural Science" },
-    coordinates: { lat: 24.1558, lng: 120.6631 },
+    coords: [120.6631, 24.1558],
     description: {
       de: "Eines der meistbesuchten Museen in Taichung, bekannt für seine Dinosaurier-Ausstellung und das Botanische Zentrum.",
       hu: "Tajcsung egyik leglátogatottabb múzeuma, híres a dinoszaurusz-kiállításáról és a botanikus központjáról.",
@@ -817,7 +817,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-moca-taipei-landmarks-v2",
     type: "museum",
     name: { de: "MOCA Taipeh", hu: "Tajpeji Kortárs Művészeti Múzeum", ro: "MOCA Taipei", en: "Museum of Contemporary Art Taipei" },
-    coordinates: { lat: 25.0494, lng: 121.5191 },
+    coords: [121.5191, 25.0494],
     description: {
       de: "Ein Zentrum für zeitgenössische Kunst, das in einem ehemaligen Schulgebäude aus der Kolonialzeit untergebracht ist.",
       hu: "Kortárs művészeti központ, amely egy egykori gyarmati korszakbeli iskolaépületben kapott helyet.",
@@ -836,7 +836,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-ju-ming-museum-landmarks-v2",
     type: "museum",
     name: { de: "Ju-Ming-Museum", hu: "Ju Ming Múzeum", ro: "Muzeul Ju Ming", en: "Ju Ming Museum" },
-    coordinates: { lat: 25.2464, lng: 121.6111 },
+    coords: [121.6111, 25.2464],
     description: {
       de: "Das größte Freiluftmuseum Taiwans, das die Werke des berühmten Bildhauers Ju Ming präsentiert.",
       hu: "Tajvan legnagyobb szabadtéri múzeuma, amely Ju Ming híres szobrászművész alkotásait mutatja be.",
@@ -855,7 +855,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-nmmba-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum für Meeresbiologie", hu: "Nemzeti Tengerbiológiai Múzeum", ro: "Muzeul Național de Biologie Marină", en: "National Museum of Marine Biology" },
-    coordinates: { lat: 22.0465, lng: 120.6978 },
+    coords: [120.6978, 22.0465],
     description: {
       de: "Ein riesiges Aquarium und Forschungszentrum im Süden Taiwans, berühmt für seinen Unterwassertunnel.",
       hu: "Hatalmas akvárium és kutatóközpont Dél-Tajvanon, híres a víz alatti alagútjáról.",
@@ -874,7 +874,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-sansiantai-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke der acht Bögen", hu: "Nyolcívű híd", ro: "Podul cu opt arcuri", en: "Bridge of Eight Arches" },
-    coordinates: { lat: 23.1233, lng: 121.4116 },
+    coords: [121.4116, 23.1233],
     description: {
       de: "Eine markante Fußgängerbrücke, die das Festland mit der Insel Sansiantai an der Ostküste verbindet.",
       hu: "Jellegzetes gyalogoshíd, amely a szárazföldet köti össze Sansiantai szigetével a keleti parton.",
@@ -893,7 +893,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-penghu-great-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Große Penghu-Brücke", hu: "Penghu nagy híd", ro: "Marele Pod din Penghu", en: "Penghu Great Bridge" },
-    coordinates: { lat: 23.6521, lng: 119.5532 },
+    coords: [119.5532, 23.6521],
     description: {
       de: "Die längste Meeresbrücke in Taiwan, die die Inseln Siyu und Baisha im Penghu-Archipel verbindet.",
       hu: "Tajvan leghosszabb tengeri hídja, amely Siyu és Baisha szigetét köti össze a Penghu-szigetcsoportban.",
@@ -912,7 +912,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-tamsui-lovers-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Tamsui-Liebesbrücke", hu: "Tamsui Szerelmesek hídja", ro: "Podul Îndrăgostiților din Tamsui", en: "Tamsui Lover's Bridge" },
-    coordinates: { lat: 25.1824, lng: 121.4111 },
+    coords: [121.4111, 25.1824],
     description: {
       de: "Eine elegante Schrägseilbrücke im Fischerkai von Tamsui, bekannt für ihre romantische Beleuchtung bei Nacht.",
       hu: "Elegáns ferdekábeles híd Tamsui halászkikötőjében, híres az éjszakai romantikus kivilágításáról.",
@@ -931,7 +931,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-national-palace-museum-southern-landmarks-v2",
     type: "museum",
     name: { de: "Südliche Zweigstelle des Nationalen Palastmuseums", hu: "Nemzeti Palotamúzeum déli részlege", ro: "Filiala de Sud a Muzeului Palatului Național", en: "Southern Branch of the National Palace Museum" },
-    coordinates: { lat: 23.4705, lng: 120.2934 },
+    coords: [120.2934, 23.4705],
     description: {
       de: "Ein modernes Museum in Chiayi, das sich auf asiatische Kunst und Kultur spezialisiert hat.",
       hu: "Modern múzeum Csiaji megyében, amely az ázsiai művészetre és kultúrára specializálódott.",
@@ -950,7 +950,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-chung-tai-chan-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Chung Tai Chan Kloster", hu: "Chung Tai Chan kolostor", ro: "Mănăstirea Chung Tai Chan", en: "Chung Tai Chan Monastery" },
-    coordinates: { lat: 24.0076, lng: 120.9436 },
+    coords: [120.9436, 24.0076],
     description: {
       de: "Ein monumentales buddhistisches Kloster in Nantou, das moderne Architektur mit traditionellen Elementen verbindet.",
       hu: "Monumentális buddhista kolostor Nantouban, amely a modern építészetet ötvözi a hagyományos elemekkel.",
@@ -969,7 +969,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-xingtian-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Xingtian-Tempel", hu: "Hszingtien templom", ro: "Templul Xingtian", en: "Xingtian Temple" },
-    coordinates: { lat: 25.063, lng: 121.5338 },
+    coords: [121.5338, 25.063],
     description: {
       de: "Einer der am stärksten besuchten Tempel in Taipeh, gewidmet dem Gott des Krieges und des Handels.",
       hu: "Tajpej egyik leglátogatottabb temploma, amelyet a háború és a kereskedelem istenének szenteltek.",
@@ -988,7 +988,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-holy-rosary-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale zum Heiligen Rosenkranz", hu: "Szent Rózsafüzér székesegyház", ro: "Catedrala Sfântul Rozariu", en: "Holy Rosary Cathedral" },
-    coordinates: { lat: 22.6201, lng: 120.2926 },
+    coords: [120.2926, 22.6201],
     description: {
       de: "Die älteste katholische Kirche Taiwans, ein prächtiges Bauwerk in Kaohsiung im neugotischen und neuromanischen Stil.",
       hu: "Tajvan legrégebbi katolikus temploma, neogótikus és neoromán stílusú pompás épület Kaohsziungban.",
@@ -1007,7 +1007,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-lin-antai-house-landmarks-v2",
     type: "landmark",
     name: { de: "Lin-Antai Historisches Haus", hu: "Lin Antai Történelmi Ház", ro: "Casa Istorică Lin Antai", en: "Lin Antai Historical House" },
-    coordinates: { lat: 25.0718, lng: 121.5303 },
+    coords: [121.5303, 25.0718],
     description: {
       de: "Eines der besterhaltenen Wohnhäuser aus der Qing-Dynastie in Taipeh, umgeben von einem traditionellen Garten.",
       hu: "Tajpej egyik legjobb állapotban fennmaradt Csing-dinasztia korabeli lakóháza, hagyományos kerttel körülvéve.",
@@ -1026,7 +1026,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-national-museum-taiwan-history-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum für taiwanische Geschichte", hu: "Tajvani Történeti Nemzeti Múzeum", ro: "Muzeul Național de Istorie a Taiwanului", en: "National Museum of Taiwan History" },
-    coordinates: { lat: 23.0594, lng: 120.2356 },
+    coords: [120.2356, 23.0594],
     description: {
       de: "Ein modernes Museum in Tainan, das die vielfältige Geschichte und kulturelle Entwicklung der Insel dokumentiert.",
       hu: "Modern múzeum Tainanban, amely a sziget sokszínű történelmét és kulturális fejlődését dokumentálja.",
@@ -1045,7 +1045,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     id: "taiwan-kaohsiung-music-center-landmarks-v2",
     type: "landmark",
     name: { de: "Kaohsiung Musikzentrum", hu: "Kaohsziungi Zenei Központ", ro: "Centrul de Muzică Kaohsiung", en: "Kaohsiung Music Center" },
-    coordinates: { lat: 22.62, lng: 120.29 },
+    coords: [120.29, 22.62],
     description: {
       de: "Ein futuristisches Wahrzeichen am Hafen von Kaohsiung, das die maritime Identität der Stadt widerspiegelt.",
       hu: "Futurisztikus látványosság Kaohsziung kikötőjében, amely a város tengeri identitását tükrözi.",

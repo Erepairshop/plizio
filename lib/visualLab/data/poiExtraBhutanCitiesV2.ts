@@ -1356,7 +1356,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-gedu-cities-v2",
     type: "town",
     name: { de: "Gedu", hu: "Gedu", ro: "Gedu", en: "Gedu" },
-    coordinates: { lat: 26.921, lng: 89.525 },
+    coords: [89.525, 26.921],
     description: {
       de: "Gedu ist ein Bildungszentrum im Distrikt Chhukha, bekannt für seine Wirtschaftshochschule. Es ist ein wichtiger Halt an der Straße nach Indien.",
       hu: "Gedu egy oktatási központ Chhukha körzetben, amely híres gazdasági főiskolájáról. Fontos pihenőhely az indiai határ felé vezető főúton.",
@@ -1387,7 +1387,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-yoeseltse-cities-v2",
     type: "village",
     name: { de: "Yoeseltse", hu: "Yoeseltse", ro: "Yoeseltse", en: "Yoeseltse" },
-    coordinates: { lat: 26.958, lng: 88.939 },
+    coords: [88.939, 26.958],
     description: {
       de: "Yoeseltse ist eine Grenzstadt im Distrikt Samtse im Südwesten Bhutans. Die Region ist für ihre fruchtbaren landwirtschaftlichen Flächen bekannt.",
       hu: "Yoeseltse egy határmenti település Samtse körzetben, Bhután délnyugati részén. A régió termékeny mezőgazdasági területeiről ismert.",
@@ -1418,7 +1418,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-panbang-cities-v2",
     type: "town",
     name: { de: "Panbang", hu: "Panbang", ro: "Panbang", en: "Panbang" },
-    coordinates: { lat: 26.852, lng: 90.951 },
+    coords: [90.951, 26.852],
     description: {
       de: "Panbang liegt am Zusammenfluss der Flüsse Mangde Chhu und Drangme Chhu. Es ist ein Tor zum Royal-Manas-Nationalpark im Süden.",
       hu: "Panbang a Mangde Chhu és a Drangme Chhu folyók összefolyásánál fekszik. Ez a déli Royal Manas Nemzeti Park egyik bejárata.",
@@ -1449,7 +1449,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-lobesa-cities-v2",
     type: "village",
     name: { de: "Lobesa", hu: "Lobesa", ro: "Lobesa", en: "Lobesa" },
-    coordinates: { lat: 27.502, lng: 89.871 },
+    coords: [89.871, 27.502],
     description: {
       de: "Lobesa ist ein malerisches Dorf im Tal von Punakha, bekannt für seine Reisfelder. Es liegt an der Straße zum berühmten Chimi Lhakhang.",
       hu: "Lobesa egy festői falu a Punakha-völgyben, amely rizsföldjeiről híres. A népszerű Chimi Lhakhang templomhoz vezető úton fekszik.",
@@ -1480,7 +1480,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-bajothang-cities-v2",
     type: "town",
     name: { de: "Bajothang", hu: "Bajothang", ro: "Bajothang", en: "Bajothang" },
-    coordinates: { lat: 27.493, lng: 89.904 },
+    coords: [89.904, 27.493],
     description: {
       de: "Bajothang ist das neue Verwaltungszentrum des Distrikts Wangdue Phodrang. Die Stadt wurde nach dem Brand des alten Dzongs modern ausgebaut.",
       hu: "Bajothang Wangdue Phodrang körzet új közigazgatási központja. A várost modern szempontok szerint építették a régi központ tüze után.",
@@ -1511,7 +1511,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-jomotshangkha-cities-v2",
     type: "town",
     name: { de: "Jomotshangkha", hu: "Jomotshangkha", ro: "Jomotshangkha", en: "Jomotshangkha" },
-    coordinates: { lat: 26.911, lng: 92.098 },
+    coords: [92.098, 26.911],
     description: {
       de: "Jomotshangkha ist eine abgelegene Stadt im äußersten Südosten Bhutans. Sie dient als wichtiger Grenzposten zum indischen Bundesstaat Assam.",
       hu: "Jomotshangkha egy távoli város Bhután délkeleti csücskében. Fontos határátkelőhelyként szolgál az indiai Assam állam felé.",
@@ -1542,7 +1542,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-tashichhoeling-cities-v2",
     type: "town",
     name: { de: "Tashichhoeling", hu: "Tashichhoeling", ro: "Tashichhoeling", en: "Tashichhoeling" },
-    coordinates: { lat: 27.025, lng: 88.917 },
+    coords: [88.917, 27.025],
     description: {
       de: "Tashichhoeling ist eine wachsende Stadt im Distrikt Samtse. Sie ist ein bedeutendes landwirtschaftliches Zentrum im Südwesten des Landes.",
       hu: "Tashichhoeling egy fejlődő város Samtse körzetben. Az ország délnyugati részének egyik jelentős mezőgazdasági központja.",
@@ -1573,7 +1573,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-khaling-cities-v2",
     type: "town",
     name: { de: "Khaling", hu: "Khaling", ro: "Khaling", en: "Khaling" },
-    coordinates: { lat: 27.198, lng: 91.602 },
+    coords: [91.602, 27.198],
     description: {
       de: "Khaling liegt im Osten Bhutans und ist berühmt für seine Webtraditionen. Das Dorf beherbergt die erste Blindenschule des Landes.",
       hu: "Khaling Bhután keleti részén fekszik, és híres a szövési hagyományairól. A település ad otthont az ország első vakok iskolájának.",
@@ -1604,7 +1604,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-radhi-cities-v2",
     type: "village",
     name: { de: "Radhi", hu: "Radhi", ro: "Radhi", en: "Radhi" },
-    coordinates: { lat: 27.381, lng: 91.684 },
+    coords: [91.684, 27.381],
     description: {
       de: "Radhi wird oft als die 'Reisschüssel des Ostens' bezeichnet. Das Dorf ist bekannt für seine ausgedehnten Reisterrassen und Seidenweberei.",
       hu: "Radhit gyakran 'Kelet rizstáljaként' emlegetik. A falu kiterjedt rizsteraszairól és selyemszövéséről ismert.",
@@ -1635,7 +1635,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-taktse-cities-v2",
     type: "village",
     name: { de: "Taktse", hu: "Taktse", ro: "Taktse", en: "Taktse" },
-    coordinates: { lat: 27.422, lng: 90.581 },
+    coords: [90.581, 27.422],
     description: {
       de: "Taktse liegt in der Nähe von Trongsa und ist Standort einer bedeutenden Hochschule für Sprache und Kultur. Es bietet weite Ausblicke auf das Tal.",
       hu: "Taktse Trongsa közelében fekszik, és egy jelentős nyelvészeti és kulturális főiskola helyszíne. Széles kilátást nyújt a völgyre.",
@@ -1666,7 +1666,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-drujegang-cities-v2",
     type: "village",
     name: { de: "Drujegang", hu: "Drujegang", ro: "Drujegang", en: "Drujegang" },
-    coordinates: { lat: 27.055, lng: 90.012 },
+    coords: [90.012, 27.055],
     description: {
       de: "Drujegang ist ein historisches Dorf im Distrikt Dagana. Es ist bekannt für seine alten Wehrtürme und die fruchtbare Umgebung.",
       hu: "Drujegang egy történelmi falu Dagana körzetben. Régi őrtornyairól és termékeny környezetéről ismert.",
@@ -1697,7 +1697,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-bondey-cities-v2",
     type: "town",
     name: { de: "Bondey", hu: "Bondey", ro: "Bondey", en: "Bondey" },
-    coordinates: { lat: 27.391, lng: 89.442 },
+    coords: [89.442, 27.391],
     description: {
       de: "Bondey ist ein geschäftiger Handelsort im Paro-Tal. Er liegt strategisch günstig in der Nähe des internationalen Flughafens von Bhutan.",
       hu: "Bondey egy forgalmas kereskedelmi csomópont a Paro-völgyben. Stratégiailag kedvező helyen, a nemzetközi repülőtér közelében fekszik.",
@@ -1728,7 +1728,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-rinchending-cities-v2",
     type: "town",
     name: { de: "Rinchending", hu: "Rinchending", ro: "Rinchending", en: "Rinchending" },
-    coordinates: { lat: 26.862, lng: 89.394 },
+    coords: [89.394, 26.862],
     description: {
       de: "Rinchending markiert den Eingang zum bhutanischen Hochland oberhalb von Phuentsholing. Es ist bekannt für sein prächtiges Klostertor.",
       hu: "Rinchending jelzi a bhutáni felföld bejáratát Phuentsholing felett. Híres a pompás kolostorkapujáról.",
@@ -1759,7 +1759,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-nobding-cities-v2",
     type: "village",
     name: { de: "Nobding", hu: "Nobding", ro: "Nobding", en: "Nobding" },
-    coordinates: { lat: 27.441, lng: 90.065 },
+    coords: [90.065, 27.441],
     description: {
       de: "Nobding ist ein kleiner Ort an der wichtigen Ost-West-Autobahn in Bhutan. Er dient als beliebter Rastplatz für Reisende in Richtung Phobjikha.",
       hu: "Nobding egy kis település a fontos bhutáni kelet-nyugati főút mentén. Népszerű pihenőhely a Phobjikha felé tartó utazók számára.",
@@ -1790,7 +1790,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-darla-cities-v2",
     type: "town",
     name: { de: "Darla", hu: "Darla", ro: "Darla", en: "Darla" },
-    coordinates: { lat: 26.883, lng: 89.512 },
+    coords: [89.512, 26.883],
     description: {
       de: "Darla ist ein bedeutender Industriestandort im Distrikt Chhukha. Die Stadt ist eng mit den großen Wasserkraftprojekten des Landes verbunden.",
       hu: "Darla jelentős ipari helyszín Chhukha körzetben. A város szorosan kapcsolódik az ország nagy vízienergia-projektjeihez.",
@@ -1821,7 +1821,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-dorokha-cities-v2",
     type: "town",
     name: { de: "Dorokha", hu: "Dorokha", ro: "Dorokha", en: "Dorokha" },
-    coordinates: { lat: 26.955, lng: 89.152 },
+    coords: [89.152, 26.955],
     description: {
       de: "Dorokha ist ein abgelegenes Verwaltungszentrum im Distrikt Samtse. Die Stadt liegt in einer hügeligen Landschaft mit reicher Landwirtschaft.",
       hu: "Dorokha egy távoli közigazgatási központ Samtse körzetben. A város dombos vidéken fekszik, gazdag mezőgazdasággal rendelkezik.",
@@ -1852,7 +1852,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-chengmari-cities-v2",
     type: "town",
     name: { de: "Chengmari", hu: "Chengmari", ro: "Chengmari", en: "Chengmari" },
-    coordinates: { lat: 26.912, lng: 89.054 },
+    coords: [89.054, 26.912],
     description: {
       de: "Chengmari ist ein wichtiger Grenzort im Südwesten Bhutans. Er ist ein Zentrum für den Handel mit Agrarprodukten im Distrikt Samtse.",
       hu: "Chengmari egy fontos határmenti település Bhután délnyugati részén. A Samtse körzet mezőgazdasági kereskedelmének központja.",
@@ -1883,7 +1883,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-gakiling-cities-v2",
     type: "village",
     name: { de: "Gakiling", hu: "Gakiling", ro: "Gakiling", en: "Gakiling" },
-    coordinates: { lat: 27.152, lng: 89.102 },
+    coords: [89.102, 27.152],
     description: {
       de: "Gakiling ist eine abgelegene Siedlung im Distrikt Haa. Das Dorf liegt in einer tief eingeschnittenen Talregion mit unberührter Natur.",
       hu: "Gakiling egy távoli település Haa körzetben. A falu egy mély völgyben fekszik, érintetlen természeti környezetben.",
@@ -1914,7 +1914,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-sangbaykha-cities-v2",
     type: "village",
     name: { de: "Sangbaykha", hu: "Sangbaykha", ro: "Sangbaykha", en: "Sangbaykha" },
-    coordinates: { lat: 27.184, lng: 89.081 },
+    coords: [89.081, 27.184],
     description: {
       de: "Sangbaykha ist ein isoliertes Dorf im Distrikt Haa. Es bewahrt viele traditionelle bhutanische Bräuche in seiner abgeschiedenen Lage.",
       hu: "Sangbaykha egy elszigetelt falu Haa körzetben. Elzárt fekvésének köszönhetően számos hagyományos bhutáni szokást őriz.",
@@ -1945,7 +1945,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-khasadrapchu-cities-v2",
     type: "town",
     name: { de: "Khasadrapchu", hu: "Khasadrapchu", ro: "Khasadrapchu", en: "Khasadrapchu" },
-    coordinates: { lat: 27.371, lng: 89.601 },
+    coords: [89.601, 27.371],
     description: {
       de: "Khasadrapchu ist eine wachsende Stadt südlich von Thimphu am Ufer des Wang Chhu. Sie beherbergt wichtige Werkstätten und Industrien.",
       hu: "Khasadrapchu egy fejlődő város Thimphutól délre, a Wang Chhu partján. Fontos műhelyeknek és ipari létesítményeknek ad otthont.",
@@ -1976,7 +1976,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-hongtsho-cities-v2",
     type: "village",
     name: { de: "Hongtsho", hu: "Hongtsho", ro: "Hongtsho", en: "Hongtsho" },
-    coordinates: { lat: 27.482, lng: 89.742 },
+    coords: [89.742, 27.482],
     description: {
       de: "Hongtsho ist ein Bergdorf am Weg zum Dochula-Pass. Es ist berühmt für seinen Apfelanbau und dient als Kontrollpunkt für den Verkehr.",
       hu: "Hongtsho egy hegyi falu a Dochula-hágó felé vezető úton. Almatermesztéséről híres és fontos közúti ellenőrző pontként szolgál.",
@@ -2007,7 +2007,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-shaba-cities-v2",
     type: "village",
     name: { de: "Shaba", hu: "Shaba", ro: "Shaba", en: "Shaba" },
-    coordinates: { lat: 27.382, lng: 89.471 },
+    coords: [89.471, 27.382],
     description: {
       de: "Shaba ist ein bedeutender landwirtschaftlicher Ort im Paro-Tal. Das Dorf ist bekannt für seine fruchtbaren Böden und traditionellen Farmen.",
       hu: "Shaba egy jelentős mezőgazdasági település a Paro-völgyben. A falu termékeny talajáról és hagyományos gazdaságairól ismert.",
@@ -2038,7 +2038,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-wangchang-cities-v2",
     type: "village",
     name: { de: "Wangchang", hu: "Wangchang", ro: "Wangchang", en: "Wangchang" },
-    coordinates: { lat: 27.432, lng: 89.421 },
+    coords: [89.421, 27.432],
     description: {
       de: "Wangchang ist eine Gemeinde im Herzen des Paro-Tals. Sie umfasst viele historische Tempel und ist ein Zentrum der lokalen Kultur.",
       hu: "Wangchang egy település a Paro-völgy szívében. Számos történelmi templomot foglal magában és a helyi kultúra központja.",
@@ -2069,7 +2069,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-tsento-cities-v2",
     type: "village",
     name: { de: "Tsento", hu: "Tsento", ro: "Tsento", en: "Tsento" },
-    coordinates: { lat: 27.525, lng: 89.381 },
+    coords: [89.381, 27.525],
     description: {
       de: "Tsento liegt im nördlichen Paro-Tal und ist der Ausgangspunkt für Wanderungen zum Jomolhari. Die Region ist für ihre Viehzucht bekannt.",
       hu: "Tsento az északi Paro-völgyben fekszik, és a Jomolhari-túrák kiindulópontja. A régió az állattenyésztéséről ismert.",
@@ -2100,7 +2100,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-doteng-cities-v2",
     type: "village",
     name: { de: "Doteng", hu: "Doteng", ro: "Doteng", en: "Doteng" },
-    coordinates: { lat: 27.501, lng: 89.352 },
+    coords: [89.352, 27.501],
     description: {
       de: "Doteng ist ein ruhiges Bergdorf im Paro-Tal. Es ist bekannt für seine unberührte Natur und den Anbau von Äpfeln und Gemüse.",
       hu: "Doteng egy csendes hegyi falu a Paro-völgyben. Érintetlen természetéről, valamint alma- és zöldségtermesztéséről ismert.",
@@ -2131,7 +2131,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-dogar-cities-v2",
     type: "village",
     name: { de: "Dogar", hu: "Dogar", ro: "Dogar", en: "Dogar" },
-    coordinates: { lat: 27.302, lng: 89.482 },
+    coords: [89.482, 27.302],
     description: {
       de: "Dogar ist eine landwirtschaftlich geprägte Gemeinde im Distrikt Paro. Das Dorf liegt in einer malerischen Gegend mit vielen Obstbäumen.",
       hu: "Dogar egy mezőgazdasági közösség Paro körzetben. A falu festői környezetben fekszik, számos gyümölcsfával körülvéve.",
@@ -2162,7 +2162,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-naja-cities-v2",
     type: "village",
     name: { de: "Naja", hu: "Naja", ro: "Naja", en: "Naja" },
-    coordinates: { lat: 27.251, lng: 89.501 },
+    coords: [89.501, 27.251],
     description: {
       de: "Naja ist ein hochgelegenes Dorf im Distrikt Paro. Die Einwohner leben hauptsächlich von der Viehzucht und dem Anbau von Berggetreide.",
       hu: "Naja egy magasan fekvő falu Paro körzetben. Lakói főként állattenyésztésből és hegyi gabonafélék termesztéséből élnek.",
@@ -2193,7 +2193,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-genekha-cities-v2",
     type: "village",
     name: { de: "Genekha", hu: "Genekha", ro: "Genekha", en: "Genekha" },
-    coordinates: { lat: 27.305, lng: 89.652 },
+    coords: [89.652, 27.305],
     description: {
       de: "Genekha ist ein berühmtes Dorf im Distrikt Thimphu, bekannt für seine Matsutake-Pilze. Jährlich findet hier ein bekanntes Pilzfestival statt.",
       hu: "Genekha egy híres falu Thimphu körzetben, amely matsutake gombáiról ismert. Évente népszerű gombafesztiválnak ad otthont.",
@@ -2224,7 +2224,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-kamji-cities-v2",
     type: "village",
     name: { de: "Kamji", hu: "Kamji", ro: "Kamji", en: "Kamji" },
-    coordinates: { lat: 26.982, lng: 89.481 },
+    coords: [89.481, 26.982],
     description: {
       de: "Kamji ist eine kleine Siedlung an der Autobahn zwischen Phuentsholing und Thimphu. Sie dient als wichtiger Halt für Lkw-Fahrer.",
       hu: "Kamji egy kis település a Phuentsholing és Thimphu közötti főút mentén. Fontos megállóhely a teherautó-sofőrök számára.",
@@ -2255,7 +2255,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     id: "bhutan-bongo-cities-v2",
     type: "village",
     name: { de: "Bongo", hu: "Bongo", ro: "Bongo", en: "Bongo" },
-    coordinates: { lat: 27.021, lng: 89.485 },
+    coords: [89.485, 27.021],
     description: {
       de: "Bongo ist ein geschichtsträchtiges Dorf im Distrikt Chhukha. Es ist bekannt für seine strategische Lage und traditionelle Landwirtschaft.",
       hu: "Bongo egy történelmi múltú falu Chhukha körzetben. Stratégiai fekvéséről és hagyományos mezőgazdaságáról ismert.",

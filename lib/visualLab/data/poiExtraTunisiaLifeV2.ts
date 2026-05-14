@@ -763,7 +763,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     id: "tunisia-kroumirie-biodiversity-life-v2",
     type: "wildlife",
     name: { de: "Biodiversitätsgebiet Kroumirie", hu: "Kroumirie biodiverzitási terület", ro: "Zona de biodiversitate Kroumirie", en: "Kroumirie Biodiversity Area" },
-    coordinates: { lat: 36.7833, lng: 8.7667 },
+    coords: [8.7667, 36.7833],
     description: {
       de: "Dieses Berggebiet im Nordwesten Tunesiens zeichnet sich durch dichte Korkeichenwälder und eine vielfältige Flora aus. Es beherbergt zahlreiche endemische Tierarten in einem feuchten Ökosystem.",
       hu: "Ez a Tunézia északnyugati részén fekvő hegyvidék sűrű paratölgyerdőiről és változatos növényvilágáról ismert. Nedves ökoszisztémája számos endemikus állatfajnak ad otthont.",
@@ -782,7 +782,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     id: "tunisia-kuriat-islands-nature-life-v2",
     type: "wildlife",
     name: { de: "Kuriat-Inseln Schutzgebiet", hu: "Kuriat-szigetek természetvédelmi terület", ro: "Rezervația Insulelor Kuriat", en: "Kuriat Islands Marine Reserve" },
-    coordinates: { lat: 35.8083, lng: 11.0333 },
+    coords: [11.0333, 35.8083],
     description: {
       de: "Die vor der Küste von Monastir gelegenen Inseln sind ein wichtiges Nistgebiet für Unechte Karettschildkröten. Das umliegende marine Schutzgebiet bewahrt das fragile mediterrane Meeresleben.",
       hu: "A Monasztír partjainál fekvő szigetek a fattyúteknősök fontos fészkelőhelyei. A környező tengeri rezervátum védi a törékeny mediterrán tengeri élővilágot.",

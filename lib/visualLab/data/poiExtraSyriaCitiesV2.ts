@@ -460,7 +460,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-azaz-cities-v2",
     type: "city",
     name: { de: "Asas", hu: "Azáz", ro: "Azaz", en: "Azaz" },
-    coordinates: { lat: 36.5822, lng: 37.0483 },
+    coords: [37.0483, 36.5822],
     description: {
       de: "Asas ist eine strategisch wichtige Stadt im Norden Syriens nahe der türkischen Grenze. Sie blickt auf eine lange Geschichte zurück, die bis in die Zeit der Kreuzzüge reicht.",
       hu: "Azáz egy stratégiailag fontos város Szíria északi részén, a török határ közelében. Hosszú történelemre tekint vissza, amely a keresztes hadjáratok idejéig nyúlik.",
@@ -479,7 +479,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-bukamal-cities-v2",
     type: "city",
     name: { de: "Al-Bukamal", hu: "Al-Bukamal", ro: "Al-Bukamal", en: "Al-Bukamal" },
-    coordinates: { lat: 34.45, lng: 40.9167 },
+    coords: [40.9167, 34.45],
     description: {
       de: "Al-Bukamal ist eine Grenzstadt am Euphrat im Osten Syriens direkt an der Grenze zum Irak. Sie dient als bedeutender Handelsweg und Verbindungspunkt zwischen den beiden Ländern.",
       hu: "Al-Bukamal egy határmenti város az Eufrátesz partján Kelet-Szíriában, közvetlenül az iraki határnál. Fontos kereskedelmi útvonalként szolgál a két ország között.",
@@ -498,7 +498,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-tell-abyad-cities-v2",
     type: "city",
     name: { de: "Tell Abyad", hu: "Tell Abjad", ro: "Tell Abyad", en: "Tell Abyad" },
-    coordinates: { lat: 36.6975, lng: 38.9553 },
+    coords: [38.9553, 36.6975],
     description: {
       de: "Tell Abyad ist eine Stadt im Norden des Gouvernements ar-Raqqa an der Grenze zur Türkei. Der Name bedeutet auf Arabisch 'weißer Hügel' und bezieht sich auf die antiken Ausgrabungsstätten.",
       hu: "Tell Abjad egy város az ar-Rakka kormányzóság északi részén, a török határ mentén. A név arabul 'fehér dombot' jelent, utalva az ősi településdombra.",
@@ -517,7 +517,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-jisr-al-shughur-cities-v2",
     type: "city",
     name: { de: "Dschisr asch-Schughur", hu: "Dzsíszr es-Sugúr", ro: "Jisr al-Shughur", en: "Jisr al-Shughur" },
-    coordinates: { lat: 35.8158, lng: 36.3194 },
+    coords: [36.3194, 35.8158],
     description: {
       de: "Dschisr asch-Schughur ist eine Stadt im Gouvernement Idlib am Fluss Orontes. Sie liegt in einem strategischen Tal zwischen den Küstenbergen und der Inlandsregion.",
       hu: "Dzsíszr es-Sugúr egy város az Idlib kormányzóságban, az Orontész-folyó partján. Stratégiai völgyben fekszik a tengerparti hegyek és a belső régiók között.",
@@ -536,7 +536,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-ariha-cities-v2",
     type: "city",
     name: { de: "Ariha", hu: "Ariha", ro: "Ariha", en: "Ariha" },
-    coordinates: { lat: 35.8142, lng: 36.6111 },
+    coords: [36.6111, 35.8142],
     description: {
       de: "Ariha ist eine Stadt im Gouvernement Idlib am Fuße des Berges Zawiya. Sie ist bekannt für ihr mildes Klima und die umliegenden Kirsch- und Obstplantagen.",
       hu: "Ariha város az Idlib kormányzóságban, a Záwija-hegy lábánál. Kellemes éghajlatáról, valamint a környékbeli cseresznye- és gyümölcsöskertjeiről ismert.",
@@ -555,7 +555,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-maarat-al-numan-cities-v2",
     type: "city",
     name: { de: "Maarat an-Numan", hu: "Maarat en-Numán", ro: "Ma'arrat al-Nu'man", en: "Maarat al-Nu'man" },
-    coordinates: { lat: 35.6417, lng: 36.6744 },
+    coords: [36.6744, 35.6417],
     description: {
       de: "Maarat an-Numan ist eine geschichtsträchtige Stadt im Gouvernement Idlib an der Autobahn Aleppo-Damaskus. Sie ist berühmt für ihr Mosaikmuseum in einer alten Karawanserei.",
       hu: "Maarat en-Numán történelmi város az Idlib kormányzóságban, az Aleppó-Damaszkusz autópálya mentén. Híres mozaikmúzeumáról, amely egy régi karavánszerájban működik.",
@@ -574,7 +574,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-salkhad-cities-v2",
     type: "city",
     name: { de: "Salchad", hu: "Szalkhad", ro: "Salkhad", en: "Salkhad" },
-    coordinates: { lat: 32.4933, lng: 36.7117 },
+    coords: [36.7117, 32.4933],
     description: {
       de: "Salchad ist eine antike Stadt im Gouvernement as-Suwayda im Süden Syriens. Sie wird von einer markanten mittelalterlichen Zitadelle auf einem erloschenen Vulkan überragt.",
       hu: "Szalkhad egy ókori város az asz-Szuvajda kormányzóságban, Szíria déli részén. Egy kialudt vulkán tetején álló, impozáns középkori fellegvár uralja a látképet.",
@@ -593,7 +593,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-shahba-cities-v2",
     type: "city",
     name: { de: "Schahba", hu: "Sahba", ro: "Shahba", en: "Shahba" },
-    coordinates: { lat: 32.855, lng: 36.6283 },
+    coords: [36.6283, 32.855],
     description: {
       de: "Schahba ist eine römische Stadt im Gouvernement as-Suwayda, die vom Kaiser Philippus Arabs gegründet wurde. Die Stadt bewahrt beeindruckende Ruinen aus dem 3. Jahrhundert.",
       hu: "Sahba egy római város az asz-Szuvajda kormányzóságban, amelyet Philippus Arabs császár alapított. A város lenyűgöző 3. századi romokat őriz.",
@@ -612,7 +612,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-salamiyah-cities-v2",
     type: "city",
     name: { de: "Salamiyah", hu: "Szalimíja", ro: "Salamiyah", en: "Salamiyah" },
-    coordinates: { lat: 35.0114, lng: 37.0528 },
+    coords: [37.0528, 35.0114],
     description: {
       de: "Salamiyah ist eine Stadt im Gouvernement Hama am Rande der syrischen Wüste. Sie ist das historische Zentrum der ismailitischen Gemeinde in Syrien.",
       hu: "Szalimíja város a Hamá kormányzóságban, a Szíriai-sivatag szélén. A szíriai iszmáilita közösség történelmi központja.",
@@ -631,7 +631,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-mahardah-cities-v2",
     type: "city",
     name: { de: "Mahardah", hu: "Maharda", ro: "Mahardah", en: "Mahardah" },
-    coordinates: { lat: 35.2536, lng: 36.5744 },
+    coords: [36.5744, 35.2536],
     description: {
       de: "Mahardah ist eine überwiegend christlich bewohnte Stadt im Gouvernement Hama am Fluss Orontes. Sie ist bekannt für ihre Landwirtschaft und das nahegelegene Wärmekraftwerk.",
       hu: "Maharda egy túlnyomórészt keresztények lakta város a Hamá kormányzóságban, az Orontész-folyó partján. Mezőgazdaságáról és a közeli hőerőműről ismert.",
@@ -650,7 +650,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-talbiseh-cities-v2",
     type: "city",
     name: { de: "Talbiseh", hu: "Talbisza", ro: "Talbiseh", en: "Talbiseh" },
-    coordinates: { lat: 34.8361, lng: 36.7289 },
+    coords: [36.7289, 34.8361],
     description: {
       de: "Talbiseh ist eine Stadt im Gouvernement Homs an der strategischen Autobahn zwischen Hama und Homs. Die Region ist von fruchtbaren Ebenen und Landwirtschaft geprägt.",
       hu: "Talbisza város a Homtsz kormányzóságban, a Hamá és Homtsz közötti stratégiai autópálya mentén. A régiót termékeny síkságok és mezőgazdaság jellemzi.",
@@ -669,7 +669,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-nabk-cities-v2",
     type: "city",
     name: { de: "An-Nabk", hu: "An-Nabk", ro: "An-Nabk", en: "Al-Nabk" },
-    coordinates: { lat: 34.0233, lng: 36.7283 },
+    coords: [36.7283, 34.0233],
     description: {
       de: "An-Nabk ist eine Stadt im Qalamoun-Gebirge im Gouvernement Rif Dimashq. Sie liegt an der Hauptstraße zwischen Damaskus und Homs und ist bekannt für ihr Kloster.",
       hu: "An-Nabk város a Kalamún-hegységben, a Ríf Dimask kormányzóságban. A Damaszkusz és Homtsz közötti főúton fekszik, és kolostoráról híres.",
@@ -688,7 +688,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-tall-cities-v2",
     type: "city",
     name: { de: "At-Tall", hu: "At-Tall", ro: "At-Tall", en: "Al-Tall" },
-    coordinates: { lat: 33.6103, lng: 36.3108 },
+    coords: [36.3108, 33.6103],
     description: {
       de: "At-Tall ist eine Stadt im Gouvernement Rif Dimashq, nördlich von Damaskus. Sie liegt in den Ausläufern des Qalamoun-Gebirges und dient als Vorort der Hauptstadt.",
       hu: "At-Tall város a Ríf Dimask kormányzóságban, Damaszkusztól északra. A Kalamún-hegység lábánál fekszik, és a főváros elővárosaként szolgál.",
@@ -707,7 +707,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-qatana-cities-v2",
     type: "city",
     name: { de: "Katana", hu: "Katana", ro: "Qatana", en: "Qatana" },
-    coordinates: { lat: 33.4358, lng: 36.0819 },
+    coords: [36.0819, 33.4358],
     description: {
       de: "Katana ist eine Stadt südwestlich von Damaskus am Osthang des Berges Hermon. Sie ist ein wichtiges militärisches und landwirtschaftliches Zentrum der Region.",
       hu: "Katana város Damaszkusztól délnyugatra, a Hermon-hegy keleti lejtőjén. A régió fontos katonai és mezőgazdasági központja.",
@@ -726,7 +726,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-darayya-cities-v2",
     type: "city",
     name: { de: "Darayya", hu: "Darája", ro: "Darayya", en: "Darayya" },
-    coordinates: { lat: 33.4586, lng: 36.2333 },
+    coords: [36.2333, 33.4586],
     description: {
       de: "Darayya ist ein großer Vorort von Damaskus im westlichen Ghouta-Becken. Die Stadt ist historisch für ihre Möbelindustrie und ihre fruchtbaren Traubenplantagen bekannt.",
       hu: "Darája Damaszkusz egyik nagy elővárosa a nyugati Gúta-medencében. A város történelmileg bútoriparáról és termékeny szőlőültetvényeiről híres.",
@@ -745,7 +745,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-harasta-cities-v2",
     type: "city",
     name: { de: "Harasta", hu: "Harászta", ro: "Harasta", en: "Harasta" },
-    coordinates: { lat: 33.5583, lng: 36.3653 },
+    coords: [36.3653, 33.5583],
     description: {
       de: "Harasta ist eine Stadt im nordöstlichen Ghouta-Becken nahe Damaskus. Sie liegt strategisch an der Autobahn, die Damaskus mit den nördlichen Gouvernements verbindet.",
       hu: "Harászta város az északkeleti Gúta-medencében, Damaszkusz közelében. Stratégiai helyen, a fővárost az északi kormányzóságokkal összekötő autópálya mentén fekszik.",
@@ -764,7 +764,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-irbin-cities-v2",
     type: "city",
     name: { de: "Irbin", hu: "Irbin", ro: "Irbin", en: "Irbin" },
-    coordinates: { lat: 33.5417, lng: 36.3556 },
+    coords: [36.3556, 33.5417],
     description: {
       de: "Irbin ist eine historische Stadt im östlichen Ghouta-Gürtel von Damaskus. Sie ist Teil des fruchtbaren Gebiets, das traditionell die Hauptstadt mit Lebensmitteln versorgt.",
       hu: "Irbin történelmi város Damaszkusz keleti Gúta-övzetében. Annak a termékeny területnek a része, amely hagyományosan élelmiszerrel látja el a fővárost.",
@@ -783,7 +783,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-amuda-cities-v2",
     type: "city",
     name: { de: "Amuda", hu: "Ámúda", ro: "Amuda", en: "Amuda" },
-    coordinates: { lat: 37.1083, lng: 40.9108 },
+    coords: [40.9108, 37.1083],
     description: {
       de: "Amuda ist eine Stadt im Gouvernement al-Hasakah im Nordosten Syriens. Sie liegt direkt an der Grenze zur Türkei und ist ein kulturelles Zentrum der kurdischen Bevölkerung.",
       hu: "Ámúda város az al-Haszaka kormányzóságban, Északkelet-Szíriában. Közvetlenül a török határ mentén fekszik, és a kurd lakosság egyik kulturális központja.",
@@ -802,7 +802,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-darbasiyah-cities-v2",
     type: "city",
     name: { de: "Ad-Darbasiyah", hu: "Ad-Darbaszija", ro: "Al-Darbasiyah", en: "Al-Darbasiyah" },
-    coordinates: { lat: 37.0678, lng: 40.6481 },
+    coords: [40.6481, 37.0678],
     description: {
       de: "Ad-Darbasiyah ist eine Grenzstadt im Gouvernement al-Hasakah im Nordosten Syriens. Sie liegt gegenüber der türkischen Stadt Şenyurt und ist ein Handelsplatz für Agrarprodukte.",
       hu: "Ad-Darbaszija határmenti város az al-Haszaka kormányzóságban, Északkelet-Szíriában. A törökországi Şenyurt várossal szemben fekszik, és mezőgazdasági termékek kereskedelmi helye.",
@@ -821,7 +821,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-shaddadi-cities-v2",
     type: "city",
     name: { de: "Asch-Schaddadi", hu: "As-Saddádi", ro: "Al-Shaddadi", en: "Al-Shaddadi" },
-    coordinates: { lat: 36.0594, lng: 40.7303 },
+    coords: [40.7303, 36.0594],
     description: {
       de: "Asch-Schaddadi ist eine Stadt im Gouvernement al-Hasakah am Fluss Chabur. Sie ist ein bedeutendes Zentrum für die Öl- und Gasindustrie in der östlichen Dschazira-Region.",
       hu: "As-Saddádi város az al-Haszaka kormányzóságban, a Hábúr-folyó partján. A keleti Dzsazíra-régió olaj- és gáziparának jelentős központja.",
@@ -840,7 +840,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-haffah-cities-v2",
     type: "city",
     name: { de: "Al-Haffah", hu: "Al-Haffa", ro: "Al-Haffah", en: "Al-Haffah" },
-    coordinates: { lat: 35.6028, lng: 36.1097 },
+    coords: [36.1097, 35.6028],
     description: {
       de: "Al-Haffah ist eine malerische Bergstadt im Gouvernement Latakia. Sie liegt in den bewaldeten Ausläufern des Küstengebirges und ist für ihre Naturschönheit bekannt.",
       hu: "Al-Haffa egy festői hegyi város a Latakia kormányzóságban. A tengerparti hegység erdős lábainál fekszik, és természeti szépségéről ismert.",
@@ -859,7 +859,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-qardaha-cities-v2",
     type: "city",
     name: { de: "Qardaha", hu: "Kardaha", ro: "Qardaha", en: "Qardaha" },
-    coordinates: { lat: 35.4522, lng: 36.1281 },
+    coords: [36.1281, 35.4522],
     description: {
       de: "Qardaha ist eine Stadt im Gouvernement Latakia im nordsyrischen Küstengebirge. Sie ist als Stammsitz und Geburtsort der Familie Assad von besonderer politischer Bedeutung.",
       hu: "Kardaha város a Latakia kormányzóságban, az észak-szíriai tengerparti hegységben. Az Aszad-család székhelyeként és szülőhelyeként különleges politikai jelentőséggel bír.",
@@ -878,7 +878,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-dreikish-cities-v2",
     type: "city",
     name: { de: "Dreikish", hu: "Dreikis", ro: "Dreikish", en: "Dreikish" },
-    coordinates: { lat: 34.9122, lng: 36.1186 },
+    coords: [36.1186, 34.9122],
     description: {
       de: "Dreikish ist eine Stadt im Gouvernement Tartus, die für ihre Mineralwasserquellen und ihre Seidenproduktion berühmt ist. Sie liegt malerisch in den grünen Bergen Syriens.",
       hu: "Dreikis város a Tartúsz kormányzóságban, amely ásványvízforrásairól és selyemgyártásáról híres. Festői környezetben, Szíria zöld hegyei között fekszik.",
@@ -897,7 +897,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-shaykh-badr-cities-v2",
     type: "city",
     name: { de: "asch-Schaich Badr", hu: "as-Sejk Badr", ro: "Al-Shaykh Badr", en: "Al-Shaykh Badr" },
-    coordinates: { lat: 35.0381, lng: 36.0864 },
+    coords: [36.0864, 35.0381],
     description: {
       de: "asch-Schaich Badr ist eine historische Stadt im Gouvernement Tartus. Sie war der Ausgangspunkt der syrischen Revolte gegen die französische Mandatsmacht unter Saleh al-Ali.",
       hu: "as-Sejk Badr történelmi város a Tartúsz kormányzóságban. Itt kezdődött a Saleh al-Ali vezette szíriai felkelés a francia mandátum ellen.",
@@ -916,7 +916,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-izra-cities-v2",
     type: "city",
     name: { de: "Izra", hu: "Izra", ro: "Izra", en: "Izra" },
-    coordinates: { lat: 32.8725, lng: 36.2536 },
+    coords: [36.2536, 32.8725],
     description: {
       de: "Izra ist eine antike Stadt im Gouvernement Daraa in der Hauran-Ebene. Sie ist berühmt für die St.-Georgs-Kirche, eine der ältesten kontinuierlich genutzten Kirchen der Welt.",
       hu: "Izra egy ókori város a Dara kormányzóságban, a Haurán-síkságon. Híres a Szent György-templomáról, amely a világ egyik legrégebbi folyamatosan működő temploma.",
@@ -935,7 +935,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-al-sanamayn-cities-v2",
     type: "city",
     name: { de: "as-Sanamain", hu: "asz-Szanamejn", ro: "Al-Sanamayn", en: "Al-Sanamayn" },
-    coordinates: { lat: 33.0767, lng: 36.1864 },
+    coords: [36.1864, 33.0767],
     description: {
       de: "as-Sanamain ist eine Stadt im Gouvernement Daraa an der Hauptstraße nach Damaskus. Der Name bedeutet 'die zwei Statuen' und verweist auf antike Monumente der Stadt.",
       hu: "asz-Szanamejn város a Dara kormányzóságban, a Damaszkuszba vezető főút mentén. A név 'a két szobrot' jelenti, utalva a város ókori emlékműveire.",
@@ -954,7 +954,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-nawa-cities-v2",
     type: "city",
     name: { de: "Nawa", hu: "Nava", ro: "Nawa", en: "Nawa" },
-    coordinates: { lat: 32.9017, lng: 36.0469 },
+    coords: [36.0469, 32.9017],
     description: {
       de: "Nawa ist die größte Stadt im Gouvernement Daraa und liegt im Herzen des fruchtbaren Hauran-Plateaus. Sie ist ein bedeutendes Zentrum für Getreide- und Weizenproduktion.",
       hu: "Nava a Dara kormányzóság legnagyobb városa, a termékeny Haurán-fennsík szívében. A gabona- és búzatermesztés jelentős központja.",
@@ -973,7 +973,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-atarib-cities-v2",
     type: "city",
     name: { de: "Atarib", hu: "Atárib", ro: "Atarib", en: "Atarib" },
-    coordinates: { lat: 36.1353, lng: 36.8167 },
+    coords: [36.8167, 36.1353],
     description: {
       de: "Atarib ist eine Stadt im Gouvernement Aleppo, westlich der Stadt Aleppo gelegen. Sie dient als wichtiges Handelszentrum für die umliegende Agrarregion.",
       hu: "Atárib város az Aleppó kormányzóságban, Aleppótól nyugatra. Fontos kereskedelmi központként szolgál a környező mezőgazdasági régió számára.",
@@ -992,7 +992,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "syria-jarabulus-cities-v2",
     type: "city",
     name: { de: "Djarabulus", hu: "Dzserábulusz", ro: "Jarabulus", en: "Jarabulus" },
-    coordinates: { lat: 36.8222, lng: 38.0103 },
+    coords: [38.0103, 36.8222],
     description: {
       de: "Djarabulus ist eine Grenzstadt am Euphrat im Norden Syriens. Sie liegt direkt gegenüber der antiken Stätte Karkemisch und dient als wichtiger Übergang zur Türkei.",
       hu: "Dzserábulusz határmenti város az Eufrátesz partján Észak-Szíriában. Közvetlenül az ókori Karkemis városa mellett fekszik, és fontos átkelőhely Törökország felé.",

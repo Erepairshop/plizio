@@ -727,7 +727,7 @@ export const poiExtraIndiaLifeV2: POI[] = [
     id: "india-hemis-national-park-life-v2",
     type: "wildlife",
     name: { de: "Hemis-Nationalpark", hu: "Hemis Nemzeti Park", ro: "Parcul Național Hemis", en: "Hemis National Park" },
-    coordinates: { lat: 33.91, lng: 77.41 },
+    coords: [77.41, 33.91],
     description: {
       de: "Dieser Nationalpark in Ladakh ist das größte Schutzgebiet Indiens und weltberühmt für seine hohe Dichte an Schneeleoparden.",
       hu: "Ez a ladakhi nemzeti park India legnagyobb védett területe, amely a hópárducok magas egyedszámáról világszerte ismert.",
@@ -741,12 +741,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Largest national park in South Asia", "Established in 1981", "Altitude ranges from 3300 to 6000 meters", "Home to approximately 200 snow leopards"],
     },
     imageHint: "Snow leopard in the rugged mountains of Hemis National Park",
+    descriptionAdvanced: {
+      de: "Der Hemis-Nationalpark in Ladakh ist der größte Nationalpark Indiens (4.400 km²). Er wurde 1981 gegründet und ist bekannt für seine Population von Schneeleoparden. Die Höhenlage reicht von 3.000 bis 6.000 Metern. Der Park beherbergt auch Tibetische Wölfe, Argali und viele Vogelarten. Die Landschaft besteht aus trockenen Hochgebirgswüsten.",
+      hu: "A Hemis Nemzeti Park Ladakhban India legnagyobb nemzeti parkja (4400 km²). 1981-ben alapították, és híres a hópárducpopulációjáról. Tengerszint feletti magassága 3000 és 6000 méter között mozog. A parkban élnek tibeti farkasok, argalik és számos madárfaj. A tájat magashegyi sivatagok jellemzik.",
+      ro: "Parcul Național Hemis din Ladakh este cel mai mare parc național din India (4.400 km²). A fost înființat în 1981 și este renumit pentru populația sa de lei ai zăpezii. Altitudinea variază între 3.000 și 6.000 de metri. Parcul găzduiește, de asemenea, lupi tibetani, argali și multe specii de păsări. Peisajul este alcătuit din deșerturi montane înalte și aride.",
+      en: "Hemis National Park in Ladakh is India's largest national park, covering 4,400 km². Established in 1981, it is renowned for its high density of snow leopards. The park's altitude ranges from 3,000 to 6,000 meters. It also shelters Tibetan wolves, Eurasian brown bears, and the high-altitude bird species. The terrain is characterized by cold deserts and barren mountains.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1981 gegründet.", "Er erstreckt sich über 4.400 km².", "Die Höhenlage reicht von 3.000 bis 6.000 Meter.", "Er ist der größte Nationalpark Indiens.", "Er beherbergt Schneeleoparden.", "Der Park liegt in Ladakh."],
+      hu: ["A parkot 1981-ben alapították.", "Területe 4400 km².", "Magassága 3000-6000 méter között változik.", "India legnagyobb nemzeti parkja.", "Hópárducok élnek itt.", "Ladakhban található."],
+      ro: ["Parcul a fost înființat în 1981.", "Se întinde pe 4.400 km².", "Altitudinea variază între 3.000 și 6.000 de metri.", "Este cel mai mare parc național din India.", "Adăpostește lei ai zăpezii.", "Parcul este situat în Ladakh."],
+      en: ["Established in 1981.", "Covers 4,400 km².", "Altitude ranges from 3,000 to 6,000 meters.", "It is the largest national park in India.", "Homes snow leopards.", "Located in Ladakh."],
+    },
   },
   {
     id: "india-eravikulam-national-park-life-v2",
     type: "wildlife",
     name: { de: "Eravikulam-Nationalpark", hu: "Eravikulam Nemzeti Park", ro: "Parcul Național Eravikulam", en: "Eravikulam National Park" },
-    coordinates: { lat: 10.15, lng: 77.06 },
+    coords: [77.06, 10.15],
     description: {
       de: "Dieser Nationalpark in den Western Ghats von Kerala schützt den gefährdeten Nilgiri-Tahr und den höchsten Berg Südindiens.",
       hu: "Ez a Kerala állambeli nemzeti park a veszélyeztetett nilgiri tahr védelmére és Dél-India legmagasabb csúcsára összpontosít.",
@@ -760,12 +772,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Home to the Anamudi peak (2695 m)", "Area of approximately 97 square kilometers", "Neelakurinji flowers bloom every 12 years", "Largest population of Nilgiri Tahr globally"],
     },
     imageHint: "Nilgiri Tahr mountain goat on a green hillside in Eravikulam",
+    descriptionAdvanced: {
+      de: "Der Eravikulam-Nationalpark in Kerala wurde 1978 gegründet und erstreckt sich über 97 km². Er ist bekannt für seine Population der bedrohten Nilgiri-Tahre (Nilgiri Tahr). Der Park liegt in den Anaimalai-Bergen und hat eine Höhenlage von 1.800 bis 2.700 Metern. Die Landschaft besteht aus Grasland und Sholas (tropische Trockenwälder).",
+      hu: "Az Eravikulam Nemzeti Park Keralában 1978-ban jött létre, területe 97 km². Híres a veszélyeztetett nilgiri tahrok (Nilgiri Tahr) populációjáról. A park az Anaimalai-hegységben található, magassága 1800-2700 méter. Táját füves területek és shola erdők jellemzik.",
+      ro: "Parcul Național Eravikulam din Kerala a fost înființat în 1978 și se întinde pe 97 km². Este renumit pentru populația de Nilgiri Tahr, o specie amenințată. Parcul este situat în Munții Anaimalai, la altitudini între 1.800 și 2.700 de metri. Peisajul constă în pajiști și păduri shola (păduri tropicale uscate).",
+      en: "Eravikulam National Park in Kerala, established in 1978, spans 97 km². It is primarily known for conserving the endangered Nilgiri Tahr. Located in the Anaimalai Hills, its elevation ranges from 1,800 to 2,700 meters. The park features montane grasslands and shola forests. It is also the source of several rivers and waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1978 gegründet.", "Er erstreckt sich über 97 km².", "Die Höhenlage beträgt 1.800 bis 2.700 Meter.", "Er beherbergt den gefährdeten Nilgiri-Tahr.", "Der Park liegt in den Anaimalai-Bergen.", "Er ist die Quelle mehrerer Flüsse."],
+      hu: ["A parkot 1978-ban alapították.", "Területe 97 km².", "Magassága 1800-2700 méter.", "A veszélyeztetett nilgiri tahrok élőhelye.", "Az Anaimalai-hegységben található.", "Több folyó forrásvidéke."],
+      ro: ["Parcul a fost înființat în 1978.", "Se întinde pe 97 km².", "Altitudinea este între 1.800 și 2.700 de metri.", "Adăpostește Nilgiri Tahr, o specie amenințată.", "Este situat în Munții Anaimalai.", "Este sursa mai multor râuri."],
+      en: ["Established in 1978.", "Covers 97 km².", "Elevation ranges from 1,800 to 2,700 meters.", "Homes the endangered Nilgiri Tahr.", "Located in the Anaimalai Hills.", "Source of several rivers."],
+    },
   },
   {
     id: "india-tadoba-andhari-tiger-reserve-life-v2",
     type: "wildlife",
     name: { de: "Tadoba-Andhari-Tigerreservat", hu: "Tadoba-Andhari Tigrisrezervátum", ro: "Rezervația de Tigri Tadoba-Andhari", en: "Tadoba Andhari Tiger Reserve" },
-    coordinates: { lat: 20.21, lng: 79.33 },
+    coords: [79.33, 20.21],
     description: {
       de: "Als ältester Nationalpark in Maharashtra bietet Tadoba ein dichtes Waldgebiet, das für seine hohe Tigerpopulation bekannt ist.",
       hu: "Maharashtra legrégebbi nemzeti parkja sűrű erdőkkel rendelkezik, és jelentős tigrispopulációjáról nevezetes.",
@@ -779,12 +803,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Established in 1955", "Total area of 625 square kilometers", "Dominated by teak and bamboo forests", "Includes the central Tadoba Lake"],
     },
     imageHint: "Bengal tiger walking through a teak forest in Tadoba",
+    descriptionAdvanced: {
+      de: "Das Tadoba-Andhari-Tigerreservat in Maharashtra wurde 1995 gegründet und erstreckt sich über 1.727 km². Es ist eines der ältesten Tigerreservate Indiens. Der Kernbereich umfasst 625 km². Das Reservat beherbergt eine hohe Dichte an Tigern, aber auch Leoparden, Bären und verschiedene Hirscharten. Die Landschaft besteht aus trockenen Laubwäldern.",
+      hu: "A Tadoba-Andhari Tigrisrezervátum Maharashtrában 1995-ben jött létre, területe 1727 km². India egyik legrégebbi tigrisrezervátuma. A magterület 625 km². A rezervátumban magas a tigrisek sűrűsége, de leopárdok, medvék és különböző szarvasfajok is élnek. A tájat száraz lombhullató erdők jellemzik.",
+      ro: "Rezervația de tigri Tadoba-Andhari din Maharashtra a fost înființată în 1995 și se întinde pe 1.727 km². Este una dintre cele mai vechi rezervații de tigri din India. Zona centrală are 625 km². Rezervația are o densitate mare de tigri, dar și leoparzi, urși și diverse specii de cerbi. Peisajul constă în păduri uscate de foioase.",
+      en: "Tadoba Andhari Tiger Reserve in Maharashtra, established in 1995, covers 1,727 km². It is one of India's oldest tiger reserves, with a core area of 625 km². The reserve boasts a high tiger density, along with leopards, sloth bears, and wild dogs. The habitat comprises dry deciduous forests and bamboo groves.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat wurde 1995 gegründet.", "Es erstreckt sich über 1.727 km².", "Der Kernbereich ist 625 km² groß.", "Es beherbergt eine hohe Tigerdichte.", "Das Reservat liegt in Maharashtra.", "Die Vegetation besteht aus trockenen Laubwäldern."],
+      hu: ["A rezervátumot 1995-ben alapították.", "Területe 1727 km².", "A magterület 625 km².", "Magas a tigrisek sűrűsége.", "Maharashtrában található.", "A növényzet száraz lombhullató erdőkből áll."],
+      ro: ["Rezervația a fost înființată în 1995.", "Se întinde pe 1.727 km².", "Zona centrală are 625 km².", "Are o densitate mare de tigri.", "Este situată în Maharashtra.", "Vegetația constă în păduri uscate de foioase."],
+      en: ["Established in 1995.", "Covers 1,727 km².", "Core area is 625 km².", "High tiger density.", "Located in Maharashtra.", "Vegetation is dry deciduous forest."],
+    },
   },
   {
     id: "india-silent-valley-national-park-life-v2",
     type: "wildlife",
     name: { de: "Silent-Valley-Nationalpark", hu: "Silent Valley Nemzeti Park", ro: "Parcul Național Silent Valley", en: "Silent Valley National Park" },
-    coordinates: { lat: 11.13, lng: 76.42 },
+    coords: [76.42, 11.13],
     description: {
       de: "Dieses unberührte Regenwaldgebiet in Kerala ist ein Hotspot der Biodiversität und Heimat des seltenen Bartaffen.",
       hu: "Ez az érintetlen keralai esőerdő a biológiai sokféleség központja és a ritka oroszlánfejű makákó otthona.",
@@ -798,12 +834,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Declared a national park in 1984", "The Kuntipuzha River flows through it", "Part of the Nilgiri Biosphere Reserve", "No human habitation within the core area"],
     },
     imageHint: "Dense tropical rainforest canopy in Silent Valley, Kerala",
+    descriptionAdvanced: {
+      de: "Der Silent-Valley-Nationalpark in Kerala wurde 1984 gegründet und erstreckt sich über 237 km². Der Park ist ein tropischer Regenwald und ein UNESCO-Weltnaturerbe. Er ist bekannt für seine Artenvielfalt, einschließlich des gefährdeten Nilgiri-Languren und des Königstigers. Der Park hat eine Höhenlage von 200 bis 2.400 Metern.",
+      hu: "A Silent Valley Nemzeti Park Keralában 1984-ben jött létre, területe 237 km². A park trópusi esőerdő, és az UNESCO természeti világörökség része. Híres biológiai sokféleségéről, beleértve a veszélyeztetett nilgiri langur majmot és a királytigrist. Magassága 200-2400 méter között változik.",
+      ro: "Parcul Național Silent Valley din Kerala a fost înființat în 1984 și se întinde pe 237 km². Este o pădure tropicală pluvială și face parte din Patrimoniul Natural Mondial UNESCO. Este renumit pentru biodiversitatea sa, inclusiv pentru langurul Nilgiri pe cale de dispariție și tigrul regelui. Altitudinea variază între 200 și 2.400 de metri.",
+      en: "Silent Valley National Park in Kerala, established in 1984, covers 237 km². It is a tropical rainforest and part of the UNESCO World Heritage Site of Western Ghats. The park is known for its exceptional biodiversity, hosting the endangered Nilgiri langur, lion-tailed macaque, and numerous endemic species. The elevation ranges from 200 to 2,400 meters.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1984 gegründet.", "Er erstreckt sich über 237 km².", "Die Höhenlage reicht von 200 bis 2.400 Meter.", "Er ist ein tropischer Regenwald.", "Der Park ist Teil des UNESCO-Weltnaturerbes.", "Er beherbergt den gefährdeten Nilgiri-Languren."],
+      hu: ["A parkot 1984-ben alapították.", "Területe 237 km².", "Magassága 200-2400 méter.", "Trópusi esőerdő.", "Az UNESCO természeti világörökség része.", "A veszélyeztetett nilgiri langur élőhelye."],
+      ro: ["Parcul a fost înființat în 1984.", "Se întinde pe 237 km².", "Altitudinea variază între 200 și 2.400 de metri.", "Este o pădure tropicală pluvială.", "Face parte din Patrimoniul Natural Mondial UNESCO.", "Adăpostește langurul Nilgiri pe cale de dispariție."],
+      en: ["Established in 1984.", "Covers 237 km².", "Elevation ranges from 200 to 2,400 meters.", "It is a tropical rainforest.", "Part of UNESCO World Heritage Site of Western Ghats.", "Houses the endangered Nilgiri langur."],
+    },
   },
   {
     id: "india-dachigam-national-park-life-v2",
     type: "wildlife",
     name: { de: "Dachigam-Nationalpark", hu: "Dachigam Nemzeti Park", ro: "Parcul Național Dachigam", en: "Dachigam National Park" },
-    coordinates: { lat: 34.13, lng: 75.03 },
+    coords: [75.03, 34.13],
     description: {
       de: "Der Park in Jammu und Kashmir ist das letzte natürliche Refugium für den vom Aussterben bedrohten Kaschmirhirsch.",
       hu: "Ez a Dzsammu és Kasmírban található park a súlyosan veszélyeztetett kasmírszarvas utolsó természetes menedéke.",
@@ -817,12 +865,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["The name means Ten Villages", "Established as a national park in 1981", "Contains the high-altitude Marsar Lake", "Altitude varies from 1700 to 4300 meters"],
     },
     imageHint: "Hangul deer in the coniferous forests of Dachigam",
+    descriptionAdvanced: {
+      de: "Der Dachigam-Nationalpark im Unionsterritorium Jammu und Kashmir wurde 1981 gegründet und umfasst 141 km². Der Park ist bekannt für die Erhaltung des gefährdeten Hangul (Kashmir-Hirsch). Die Höhenlage reicht von 1.500 bis 4.200 Metern. Die Vegetation umfasst alpine Wiesen, Mischwälder und Nadelwälder.",
+      hu: "A Dachigam Nemzeti Park Dzsammu és Kasmír szövetségi területen található, 1981-ben alapították, területe 141 km². A park híres a veszélyeztetett hangul (kasmíri szarvas) védelméről. Magassága 1500-4200 méter. Növényzete alpesi réteket, vegyes erdőket és tűlevelű erdőket foglal magában.",
+      ro: "Parcul Național Dachigam din teritoriul unionale Jammu și Kashmir a fost înființat în 1981 și se întinde pe 141 km². Parcul este cunoscut pentru conservarea hangul (cerbul din Kashmir), o specie pe cale de dispariție. Altitudinea variază între 1.500 și 4.200 de metri. Vegetația include pajiști alpine, păduri mixte și conifere.",
+      en: "Dachigam National Park in Jammu and Kashmir, established in 1981, covers 141 km². It is primarily known for conserving the critically endangered Kashmir stag (hangul). The park's altitude ranges from 1,500 to 4,200 meters. Its habitats include alpine meadows, temperate forests, and scrublands. It also shelters Himalayan black bears and leopards.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1981 gegründet.", "Er erstreckt sich über 141 km².", "Die Höhenlage reicht von 1.500 bis 4.200 Meter.", "Er ist bekannt für den gefährdeten Hangul (Kashmir-Hirsch).", "Der Park liegt in Jammu und Kashmir.", "Die Vegetation umfasst alpine Wiesen."],
+      hu: ["A parkot 1981-ben alapították.", "Területe 141 km².", "Magassága 1500-4200 méter.", "A veszélyeztetett hangul (kasmíri szarvas) élőhelye.", "Dzsammu és Kasmírban található.", "Növényzete alpesi réteket is magában foglal."],
+      ro: ["Parcul a fost înființat în 1981.", "Se întinde pe 141 km².", "Altitudinea variază între 1.500 și 4.200 de metri.", "Este cunoscut pentru conservarea hangul (cerbul din Kashmir).", "Este situat în Jammu și Kashmir.", "Vegetația include pajiști alpine."],
+      en: ["Established in 1981.", "Covers 141 km².", "Elevation ranges from 1,500 to 4,200 meters.", "Known for the endangered hangul (Kashmir stag).", "Located in Jammu and Kashmir.", "Vegetation includes alpine meadows."],
+    },
   },
   {
     id: "india-panna-national-park-life-v2",
     type: "wildlife",
     name: { de: "Panna-Nationalpark", hu: "Panna Nemzeti Park", ro: "Parcul Național Panna", en: "Panna National Park" },
-    coordinates: { lat: 24.63, lng: 79.92 },
+    coords: [79.92, 24.63],
     description: {
       de: "Dieser Park am Ken-Fluss in Madhya Pradesh ist bekannt für seine erfolgreichen Tigerschutzprojekte und weiten Grassavannen.",
       hu: "A Madhya Pradesh államban, a Ken-folyó mentén fekvő park sikeres tigrisvédelmi programjairól és szavannáiról ismert.",
@@ -836,12 +896,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["The 22nd tiger reserve of India", "The Ken River flows through the park", "Presence of marsh crocodiles and gharials", "Consists of teak forests and grasslands"],
     },
     imageHint: "Ken River flowing through the rocky landscape of Panna",
+    descriptionAdvanced: {
+      de: "Der Panna-Nationalpark in Madhya Pradesh wurde 1981 gegründet und erstreckt sich über 542 km². Der Park ist Teil des Panna-Tigerreservats. Er ist bekannt für seine Tigerpopulation und die landschaftlich reizvollen Ken-Fälle. Die Höhenlage liegt im Durchschnitt bei 400 Metern. Der Park beherbergt auch Leoparden, Wildkatzen und verschiedene Vogelarten.",
+      hu: "A Panna Nemzeti Park Madhya Pradesben 1981-ben jött létre, területe 542 km². A park a Panna Tigrisrezervátum része. Híres tigrispopulációjáról és a festői Ken-vízesésről. Átlagos magassága 400 méter. A parkban leopárdok, vadmacskák és számos madárfaj is él.",
+      ro: "Parcul Național Panna din Madhya Pradesh a fost înființat în 1981 și se întinde pe 542 km². Parcul face parte din Rezervația de Tigri Panna. Este renumit pentru populația de tigri și pentru cascadele pitorești Ken. Altitudinea medie este de 400 de metri. Parcul adăpostește, de asemenea, leoparzi, pisici sălbatice și diverse specii de păsări.",
+      en: "Panna National Park in Madhya Pradesh, established in 1981, covers 542 km². It is part of the Panna Tiger Reserve. The park is known for its successful tiger reintroduction program and the scenic Ken River waterfalls. The average elevation is 400 meters. It also hosts leopards, sloth bears, and over 200 bird species.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1981 gegründet.", "Er erstreckt sich über 542 km².", "Die durchschnittliche Höhenlage beträgt 400 Meter.", "Er ist Teil des Panna-Tigerreservats.", "Der Park liegt in Madhya Pradesh.", "Er beherbergt über 200 Vogelarten."],
+      hu: ["A parkot 1981-ben alapították.", "Területe 542 km².", "Átlagos magassága 400 méter.", "A Panna Tigrisrezervátum része.", "Madhya Pradesben található.", "Több mint 200 madárfaj él itt."],
+      ro: ["Parcul a fost înființat în 1981.", "Se întinde pe 542 km².", "Altitudinea medie este de 400 de metri.", "Face parte din Rezervația de Tigri Panna.", "Este situat în Madhya Pradesh.", "Adăpostește peste 200 de specii de păsări."],
+      en: ["Established in 1981.", "Covers 542 km².", "Average elevation is 400 meters.", "Part of Panna Tiger Reserve.", "Located in Madhya Pradesh.", "Hosts over 200 bird species."],
+    },
   },
   {
     id: "india-desert-national-park-life-v2",
     type: "wildlife",
     name: { de: "Wüsten-Nationalpark", hu: "Sivatagi Nemzeti Park", ro: "Parcul Național Desert", en: "Desert National Park" },
-    coordinates: { lat: 26.15, lng: 70.51 },
+    coords: [70.51, 26.15],
     description: {
       de: "In der Thar-Wüste schützt dieser weitläufige Park die seltene Große Indische Trappe und zeigt fossile Überreste aus dem Jura.",
       hu: "A Thar-sivatagban fekvő park a ritka nagy indiai túzokot védi, és jura kori fosszilis maradványokat mutat be.",
@@ -855,12 +927,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Area exceeds 3100 square kilometers", "Contains the Akal Wood Fossil Park", "Crucial habitat for desert foxes", "About 20 percent consists of sand dunes"],
     },
     imageHint: "Great Indian Bustard walking on the sandy soil of Thar",
+    descriptionAdvanced: {
+      de: "Der Wüsten-Nationalpark in Rajasthan wurde 1992 gegründet und erstreckt sich über 3.162 km². Der Park liegt in der Thar-Wüste und ist bekannt für seine Population der Großtrappe (Great Indian Bustard). Die Landschaft besteht aus Sanddünen, trockenen Grasländern und salzigen Seebetten. Die Höhenlage liegt zwischen 40 und 300 Metern.",
+      hu: "A Sivatagi Nemzeti Park Rádzsasztánban 1992-ben jött létre, területe 3162 km². A park a Thar-sivatagban található, és híres a nagy indiai túzok (Great Indian Bustard) populációjáról. A tájat homokdűnék, száraz füves területek és sós tómedrek jellemzik. Magassága 40 és 300 méter között van.",
+      ro: "Parcul Național Deșertul din Rajasthan a fost înființat în 1992 și se întinde pe 3.162 km². Parcul este situat în Deșertul Thar și este renumit pentru populația de dropie indiană (Great Indian Bustard). Peisajul constă în dune de nisip, pajiști uscate și albii sărate ale lacurilor. Altitudinea variază între 40 și 300 de metri.",
+      en: "Desert National Park in Rajasthan, established in 1992, covers 3,162 km². It is located in the Thar Desert and is a critical habitat for the critically endangered Great Indian Bustard. The landscape features sand dunes, rocky habitats, and salt flats. Elevation ranges from 40 to 300 meters. It also protects chinkara and desert foxes.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1992 gegründet.", "Er erstreckt sich über 3.162 km².", "Die Höhenlage liegt zwischen 40 und 300 Metern.", "Er ist Lebensraum der gefährdeten Großtrappe.", "Der Park liegt in der Thar-Wüste in Rajasthan.", "Die Landschaft umfasst Sanddünen und Salzseen."],
+      hu: ["A parkot 1992-ben alapították.", "Területe 3162 km².", "Magassága 40-300 méter.", "A nagy indiai túzok élőhelye.", "A Thar-sivatagban található Rádzsasztánban.", "Táját homokdűnék és sós tavak jellemzik."],
+      ro: ["Parcul a fost înființat în 1992.", "Se întinde pe 3.162 km².", "Altitudinea variază între 40 și 300 de metri.", "Este habitatul dropiei indiene pe cale de dispariție.", "Este situat în Deșertul Thar, Rajasthan.", "Peisajul include dune de nisip și lacuri sărate."],
+      en: ["Established in 1992.", "Covers 3,162 km².", "Elevation ranges from 40 to 300 meters.", "Critical habitat for the Great Indian Bustard.", "Located in the Thar Desert, Rajasthan.", "Landscape includes sand dunes and salt lakes."],
+    },
   },
   {
     id: "india-similipal-national-park-life-v2",
     type: "wildlife",
     name: { de: "Similipal-Nationalpark", hu: "Similipal Nemzeti Park", ro: "Parcul Național Similipal", en: "Similipal National Park" },
-    coordinates: { lat: 21.93, lng: 86.35 },
+    coords: [86.35, 21.93],
     description: {
       de: "Dieses Biosphärenreservat in Odisha umfasst dichte Wälder, hohe Wasserfälle und ist ein bedeutendes Schutzgebiet für Elefanten.",
       hu: "Ez az odishai bioszféra-rezervátum sűrű erdőket, magas vízeséseket és fontos elefántrezervátumot foglal magában.",
@@ -874,12 +958,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Named after the red silk cotton tree", "Home to Barehipani Falls (399 m)", "Part of UNESCO World Network of Biosphere Reserves", "Largest wildlife sanctuary in Odisha"],
     },
     imageHint: "Barehipani Falls cascading down a cliff in Similipal",
+    descriptionAdvanced: {
+      de: "Der Similipal-Nationalpark in Odisha wurde 1980 gegründet und erstreckt sich über 845 km². Der Park ist Teil des Similipal-Tigerreservats und ein UNESCO-Biosphärenreservat. Er ist bekannt für seine Population von königlichen bengalischen Tigern und asiatischen Elefanten. Die Vegetation besteht aus feuchten tropischen Laubwäldern.",
+      hu: "A Similipal Nemzeti Park Odishában 1980-ban jött létre, területe 845 km². A park a Similipal Tigrisrezervátum része és UNESCO bioszféra-rezervátum. Híres a királyi bengáli tigrisek és az ázsiai elefántok populációjáról. Növényzete nedves trópusi lombhullató erdőkből áll.",
+      ro: "Parcul Național Similipal din Odisha a fost înființat în 1980 și se întinde pe 845 km². Parcul face parte din Rezervația de Tigri Similipal și este o Rezervație a Biosferei UNESCO. Este renumit pentru populațiile de tigri bengalezi și elefanți asiatici. Vegetația constă în păduri tropicale umede de foioase.",
+      en: "Similipal National Park in Odisha, established in 1980, covers 845 km². It is part of the Similipal Tiger Reserve and a UNESCO Biosphere Reserve. The park is known for its Bengal tigers, Asian elephants, and the unique Similipal black variety of tiger. The forest is moist tropical deciduous. The park also features numerous waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1980 gegründet.", "Er erstreckt sich über 845 km².", "Er ist ein UNESCO-Biosphärenreservat.", "Er beherbergt Bengalische Tiger und Asiatische Elefanten.", "Der Park liegt in Odisha.", "Die Vegetation sind feuchte tropische Laubwälder."],
+      hu: ["A parkot 1980-ban alapították.", "Területe 845 km².", "UNESCO bioszféra-rezervátum.", "Bengáli tigrisek és ázsiai elefántok élnek itt.", "Odishában található.", "Növényzete nedves trópusi lombhullató erdő."],
+      ro: ["Parcul a fost înființat în 1980.", "Se întinde pe 845 km².", "Este o Rezervație a Biosferei UNESCO.", "Adăpostește Tigrul Bengal și elefanți asiatici.", "Este situat în Odisha.", "Vegetația este pădure tropicală umedă de foioase."],
+      en: ["Established in 1980.", "Covers 845 km².", "UNESCO Biosphere Reserve.", "Homes Bengal tigers and Asian elephants.", "Located in Odisha.", "Vegetation is moist tropical deciduous."],
+    },
   },
   {
     id: "india-blackbuck-national-park-life-v2",
     type: "wildlife",
     name: { de: "Blackbuck-Nationalpark", hu: "Blackbuck Nemzeti Park", ro: "Parcul Național Blackbuck", en: "Blackbuck National Park" },
-    coordinates: { lat: 21.93, lng: 72.03 },
+    coords: [72.03, 21.93],
     description: {
       de: "Dieser Park in Gujarat besteht aus weitläufigen Graslandschaften, die speziell dem Schutz der indischen Hirschziegenantilope dienen.",
       hu: "Ez a gujarati park kiterjedt füves pusztákból áll, amelyeket az indiai antilopok védelmére hoztak létre.",
@@ -893,12 +989,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Established in 1976 in Velavadar", "Area of about 34 square kilometers", "Major roosting site for harrier birds", "Borders the Gulf of Khambhat"],
     },
     imageHint: "A group of blackbuck antelopes in the golden grass of Velavadar",
+    descriptionAdvanced: {
+      de: "Der Blackbuck-Nationalpark in Gujarat wurde 1976 gegründet und erstreckt sich über 34 km². Der Park ist bekannt für die Erhaltung der Schwarzböcke (Blackbuck), einer Antilopenart. Die Landschaft besteht aus trockenen Grasländern und Dornbüschen. Der Park beherbergt auch verschiedene Vogelarten und Raubtiere wie den Indischen Fuchs.",
+      hu: "A Fekete antilop Nemzeti Park Gudzsarátban 1976-ban jött létre, területe 34 km². A park a fekete antilop (Blackbuck) védelméről ismert. A tájat száraz füves területek és tövisbokrok jellemzik. A parkban számos madárfaj és ragadozó, például az indiai róka is él.",
+      ro: "Parcul Național Blackbuck din Gujarat a fost înființat în 1976 și se întinde pe 34 km². Parcul este renumit pentru conservarea antilopei negre (Blackbuck). Peisajul constă în pajiști uscate și tufișuri spinoase. Parcul adăpostește, de asemenea, diverse specii de păsări și prădători, cum ar fi vulpea indiană.",
+      en: "Blackbuck National Park in Gujarat, established in 1976, covers 34 km². It is a protected area for the Indian blackbuck, an antelope species. The grassland and thorn scrub habitat supports a high density of blackbucks. It also harbors wolves, foxes, and near the coast, flamingos.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1976 gegründet.", "Er erstreckt sich über 34 km².", "Er ist bekannt für die Erhaltung der Schwarzböcke.", "Der Park liegt in Gujarat.", "Die Landschaft besteht aus trockenen Grasländern.", "Es leben dort auch Indische Wölfe."],
+      hu: ["A parkot 1976-ban alapították.", "Területe 34 km².", "A fekete antilop védelméről ismert.", "Gudzsarátban található.", "Táját száraz füves területek jellemzik.", "Indiai farkasok is élnek itt."],
+      ro: ["Parcul a fost înființat în 1976.", "Se întinde pe 34 km².", "Este cunoscut pentru conservarea antilopei negre.", "Este situat în Gujarat.", "Peisajul constă în pajiști uscate.", "Lupii indieni trăiesc, de asemenea, aici."],
+      en: ["Established in 1976.", "Covers 34 km².", "Known for blackbuck conservation.", "Located in Gujarat.", "Habitat is dry grasslands.", "Also home to Indian wolves."],
+    },
   },
   {
     id: "india-namdapha-national-park-life-v2",
     type: "wildlife",
     name: { de: "Namdapha-Nationalpark", hu: "Namdapha Nemzeti Park", ro: "Parcul Național Namdapha", en: "Namdapha National Park" },
-    coordinates: { lat: 27.48, lng: 96.38 },
+    coords: [96.38, 27.48],
     description: {
       de: "An der Grenze zu Myanmar gelegen, ist dieser Park für seine extreme Höhenvarianz und seltene Arten wie den Nebelparder bekannt.",
       hu: "A mianmari határ közelében fekvő park a nagy szintkülönbségeiről és a ködfoltos párduchoz hasonló ritka fajokról ismert.",
@@ -912,12 +1020,24 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Fourth largest national park in India", "Altitude varies from 200 to 4500 meters", "Only park with tigers, leopards, and snow leopards", "Home to the endemic Namdapha flying squirrel"],
     },
     imageHint: "Lush evergreen rainforest in the hills of Namdapha",
+    descriptionAdvanced: {
+      de: "Der Namdapha-Nationalpark im Bundesstaat Arunachal Pradesh ist eines der artenreichsten Schutzgebiete Indiens. Er erstreckt sich über 1.985 km² und umfasst Höhenlagen von 200 bis 4.500 Metern. Der Park beherbergt seltene Großkatzen wie Tiger, Leopard und Nebelparder sowie über 1.000 Pflanzenarten. Er ist Teil des Indo-Burma-Biodiversitätshotspots und zeichnet sich durch eine außergewöhnliche Vielfalt an Lebensräumen aus, von tropischen Regenwäldern bis zu alpinen Matten. Experten schätzen die Anzahl der Vogelarten auf über 450, darunter der Weißbauch-Papageienschnabel. Der Park ist auch für seine Schmetterlingsfauna bekannt, mit über 400 dokumentierten Arten.",
+      hu: "A Namdapha Nemzeti Park India egyik legkevésbé feltárt természetvédelmi területe. 1983-ban alapították, és azóta is a biológiai sokféleség egyik utolsó fellegvára. A park területén 47 emlősfajt és 310 madárfajt azonosítottak, köztük a himalájai medvét és a vörös pandát. A Namdapha különlegessége, hogy itt él a négy macskaféle – tigris, leopárd, ködfoltos párduc és arany macska – együtt. A park másik kiemelkedő értéke a növényvilág: 1500-nál több edényes növényfajt regisztráltak, amelyek közül sok endemikus. A Dí-bözőo folyó és mellékfolyói gazdag halállománnyal rendelkeznek.",
+      ro: "Parcul Național Namdapha din Arunachal Pradesh este una dintre cele mai diverse arii protejate din Asia de Sud. Înființat în 1983, parcul acoperă 1.985 km² și găzduiește specii rare precum tigrul, leopardul și leopardul pătat. Ecosistemele variază de la păduri tropicale umede la pajiști alpine. Flora include peste 1.000 de specii de plante, iar fauna include patru specii de feline mari. Parcul este renumit pentru populațiile de veverițe zburătoare și pentru liliecii cu nas de frunză. Este un sit important pentru conservarea păsărilor migratoare. Accesul este restricționat din cauza terenului accidentat și a biodiversității fragile.",
+      en: "Namdapha National Park in Arunachal Pradesh is a biodiversity hotspot spanning 1,985 km². Established in 1983, it features an altitude gradient from 200 to 4,500 meters. The park is home to four big cat species: tiger, leopard, clouded leopard, and golden cat. It hosts over 450 bird species and 1,000 plant species. Namdapha is part of the Indo-Burma biodiversity hotspot and remains largely unexplored due to its remote location. The park's river systems support diverse aquatic life, including rare fish species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.985 km²", "Höhenlage: 200 bis 4.500 m", "Gegründet: 1983", "Vogelarten: über 450", "Säugetierarten: 47 dokumentierte", "Großkatzen: 4 Arten (Tiger, Leopard, Nebelparder, Goldkatze)"],
+      hu: ["Terület: 1.985 km²", "Alapítás éve: 1983", "Edényes növényfajok: több mint 1500", "Emlősfajok: 47", "Madárfajok: 310", "Négy nagymacskafaj együttes előfordulása"],
+      ro: ["Suprafață: 1.985 km²", "An înființare: 1983", "Specii de păsări: peste 450", "Specii de mamifere: 47", "Specii de plante: peste 1.000", "Patru specii de feline mari"],
+      en: ["Area: 1,985 km²", "Established: 1983", "Elevation range: 200–4,500 m", "Bird species: >450", "Mammal species: 47", "Big cat species: 4"],
+    },
   },
   {
     id: "india-indian-botanic-garden-life-v2",
     type: "wildlife",
     name: { de: "Indischer Botanischer Garten", hu: "Indiai Botanikus Kert", ro: "Grădina Botanică Indiană", en: "Indian Botanic Garden" },
-    coordinates: { lat: 22.56, lng: 88.29 },
+    coords: [88.29, 22.56],
     description: {
       de: "Dieser historische Garten bei Kalkutta beherbergt Tausende Pflanzenarten und den weltberühmten, riesigen Banyan-Baum.",
       hu: "Ez a Kalkutta melletti történelmi kert több ezer növényfajnak és a világhírű, hatalmas banianfának ad otthont.",
@@ -931,6 +1051,18 @@ export const poiExtraIndiaLifeV2: POI[] = [
       en: ["Founded in 1787 by Robert Kyd", "Home to the Great Banyan (over 250 years old)", "Spans an area of 109 hectares", "Officially named after Acharya Jagadish Chandra Bose"],
     },
     imageHint: "The sprawling Great Banyan Tree in the Indian Botanic Garden",
+    descriptionAdvanced: {
+      de: "Der Indische Botanische Garten in Shibpur, Kalkutta, wurde 1787 unter der Britischen Ostindien-Kompanie gegründet. Er erstreckt sich über 109 Hektar und beherbergt den berühmten Banyan-Baum 'Acharya Jagadish Chandra Bose', dessen Krone über 400 Meter Umfang erreicht. Der Garten enthält über 12.000 lebende Pflanzenarten, darunter seltene Palmen, Bambusarten und Orchideen. Er dient der botanischen Forschung und Erhaltung bedrohter Arten. Ein herbarium mit über 2,5 Millionen Exemplaren ist angeschlossen. Der Garten ist in thematische Abteilungen gegliedert, darunter ein japanischer Garten und ein Sukkulentenhaus.",
+      hu: "Az Indian Botanic Garden Kalkutta egyik legrégebbi botanikus kertje, amelyet 1787-ben alapítottak. Területe 109 hektár, és több mint 12.000 növényfajt mutat be. A kert fő látványossága az óriási banyánfa, amelynek lombozata több mint 400 méter kerületű. A gyűjteményben gazdag pálma-, orchidea- és bambuszfélék találhatók. A kert fontos szerepet játszik a ritka és veszélyeztetett növények konzervációjában. A herbárium több mint 2,5 millió szárított növényi példányt őriz. A kertben tematikus kertek is találhatók, mint a japánkert és a pozsgás növények háza.",
+      ro: "Grădina Botanică Indiană din Shibpur, lângă Kolkata, a fost fondată în 1787 de către Compania Britanică a Indiilor de Est. Se întinde pe 109 hectare și adăpostește arborele banyan ‘Acharya Jagadish Chandra Bose’, cu o coroană de peste 400 m circumferință. Colecția include peste 12.000 de specii de plante vii, inclusiv palmieri rari și bambus. Grădina are un herbar cu 2,5 milioane de specimene și servește cercetării botanice. Este împărțită în secțiuni tematice, cum ar fi grădina japoneză și casa suculentelor.",
+      en: "The Indian Botanic Garden in Shibpur, Kolkata, was founded in 1787. Covering 109 hectares, it houses over 12,000 plant species. Its centerpiece is the Great Banyan Tree, with a canopy circumference of about 450 meters. The garden maintains a herbarium with 2.5 million specimens. It is divided into thematic sections including a cactus house and a Japanese garden. The garden plays a key role in conservation of rare flora, particularly palms and orchids.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1787", "Fläche: 109 ha", "Pflanzenarten: über 12.000", "Herbarium: 2,5 Mio. Exponate", "Banyan-Baum: Kronenumfang >400 m", "Standort: Shibpur, Kalkutta"],
+      hu: ["Alapítás éve: 1787", "Terület: 109 hektár", "Növényfajok száma: 12.000+", "Herbárium: 2,5 millió példány", "Banyánfa lombkorona kerülete: 400+ m", "Cím: Shibpur, Kalkutta"],
+      ro: ["Anul fondării: 1787", "Suprafața: 109 ha", "Specii de plante: >12.000", "Herbar: 2,5 milioane de specimene", "Arborele banyan: circumferință coroanei >400 m", "Locație: Shibpur, Kolkata"],
+      en: ["Founded: 1787", "Area: 109 ha", "Plant species: >12,000", "Herbarium: 2.5 million specimens", "Great Banyan canopy: ~450 m circumference", "Location: Shibpur, Kolkata"],
+    },
   }
 ];
 

@@ -1046,7 +1046,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
     id: "saotomeandprincipe-pico-de-santa-maria-relief-v2",
     type: "peak",
     name: { de: "Pico de Santa Maria", hu: "Pico de Santa Maria", ro: "Pico de Santa Maria", en: "Pico de Santa Maria" },
-    coordinates: { lat: 0.2661, lng: 6.5752 },
+    coords: [6.5752, 0.2661],
     description: {
       de: "Dieser 1065 Meter hohe Gipfel liegt im zentralen Bergmassiv von São Tomé. Er ist von dichtem primärem Regenwald umgeben und Teil des Obô-Nationalparks.",
       hu: "Ez az 1065 méter magas csúcs São Tomé központi hegymasszívumában található. Sűrű őserdő veszi körül az Obô Nemzeti Park területén.",
@@ -1065,7 +1065,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
     id: "saotomeandprincipe-mesa-do-infante-relief-v2",
     type: "peak",
     name: { de: "Mesa do Infante", hu: "Mesa do Infante", ro: "Mesa do Infante", en: "Mesa do Infante" },
-    coordinates: { lat: 1.5755, lng: 7.3758 },
+    coords: [7.3758, 1.5755],
     description: {
       de: "Die Mesa do Infante ist ein markanter Tafelberg im Süden der Insel Príncipe. Er zeichnet sich durch seine flache Spitze und steile vulkanische Hänge aus.",
       hu: "A Mesa do Infante egy jellegzetes táblahegy Príncipe szigetének déli részén. Lapos teteje és meredek vulkanikus oldalai teszik különlegessé.",
@@ -1084,7 +1084,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
     id: "saotomeandprincipe-pico-de-mencorne-relief-v2",
     type: "peak",
     name: { de: "Pico de Mencorne", hu: "Pico de Mencorne", ro: "Pico de Mencorne", en: "Pico de Mencorne" },
-    coordinates: { lat: 1.6114, lng: 7.3892 },
+    coords: [7.3892, 1.6114],
     description: {
       de: "Der Pico de Mencorne ist einer der höchsten Gipfel auf Príncipe mit einer Höhe von 537 Metern. Er bietet eine weite Aussicht über die bergige Landschaft der Insel.",
       hu: "A Pico de Mencorne Príncipe egyik legmagasabb csúcsa 537 méteres magasságával. Kilátást nyújt a sziget hegyvidéki tájaira.",

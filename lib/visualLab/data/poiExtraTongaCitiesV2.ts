@@ -5,7 +5,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-nukualofa-cities-v2",
     type: "capital",
     name: { de: "Nukuʻalofa", hu: "Nukuʻalofa", ro: "Nukuʻalofa", en: "Nukuʻalofa" },
-    coordinates: { lat: -21.139, lng: -175.204 },
+    coords: [-175.204, -21.139],
     description: {
       de: "Nukuʻalofa ist die Hauptstadt und das wirtschaftliche Zentrum von Tonga auf der Insel Tongatapu.",
       hu: "Nukuʻalofa Tonga fővárosa és gazdasági központja, amely Tongatapu szigetének északi partján fekszik.",
@@ -24,7 +24,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-neiafu-cities-v2",
     type: "town",
     name: { de: "Neiafu", hu: "Neiafu", ro: "Neiafu", en: "Neiafu" },
-    coordinates: { lat: -18.65, lng: -173.983 },
+    coords: [-173.983, -18.65],
     description: {
       de: "Neiafu ist die zweitgrößte Stadt Tongas und der Hauptort der Vavaʻu-Inselgruppe.",
       hu: "Neiafu Tonga második legnagyobb városa és a Vavaʻu-szigetcsoport közigazgatási központja.",
@@ -43,7 +43,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haveluloto-cities-v2",
     type: "village",
     name: { de: "Haveluloto", hu: "Haveluloto", ro: "Haveluloto", en: "Haveluloto" },
-    coordinates: { lat: -21.157, lng: -175.212 },
+    coords: [-175.212, -21.157],
     description: {
       de: "Haveluloto ist eine bedeutende Siedlung unmittelbar südlich der Hauptstadt Nukuʻalofa.",
       hu: "Haveluloto egy jelentős település közvetlenül a főváros, Nukuʻalofa déli határában.",
@@ -62,7 +62,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-vaini-cities-v2",
     type: "village",
     name: { de: "Vaini", hu: "Vaini", ro: "Vaini", en: "Vaini" },
-    coordinates: { lat: -21.2, lng: -175.175 },
+    coords: [-175.175, -21.2],
     description: {
       de: "Vaini ist ein zentral gelegenes Dorf auf Tongatapu, bekannt für seine Landwirtschaft.",
       hu: "Vaini egy központi fekvésű falu Tongatapu szigetén, amely mezőgazdaságáról ismert.",
@@ -81,7 +81,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tofoa-koloua-cities-v2",
     type: "village",
     name: { de: "Tofoa-Koloua", hu: "Tofoa-Koloua", ro: "Tofoa-Koloua", en: "Tofoa-Koloua" },
-    coordinates: { lat: -21.15, lng: -175.22 },
+    coords: [-175.22, -21.15],
     description: {
       de: "Tofoa-Koloua ist eine wachsende Siedlung im Distrikt Vaini, nahe Nukuʻalofa.",
       hu: "Tofoa-Koloua egy növekvő település Vaini körzetében, Nukuʻalofa közelében.",
@@ -100,7 +100,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tatakamotonga-cities-v2",
     type: "village",
     name: { de: "Tatakamotonga", hu: "Tatakamotonga", ro: "Tatakamotonga", en: "Tatakamotonga" },
-    coordinates: { lat: -21.18, lng: -175.12 },
+    coords: [-175.12, -21.18],
     description: {
       de: "Tatakamotonga ist ein historisch bedeutsames Dorf im Osten von Tongatapu.",
       hu: "Tatakamotonga egy történelmileg jelentős falu Tongatapu keleti részén.",
@@ -119,7 +119,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-lapaha-cities-v2",
     type: "village",
     name: { de: "Lapaha", hu: "Lapaha", ro: "Lapaha", en: "Lapaha" },
-    coordinates: { lat: -21.178, lng: -175.117 },
+    coords: [-175.117, -21.178],
     description: {
       de: "Lapaha war über Jahrhunderte das spirituelle und politische Zentrum des Tonganischen Imperiums.",
       hu: "Lapaha évszázadokon át a Tongai Birodalom spirituális és politikai központja volt.",
@@ -138,7 +138,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-pea-cities-v2",
     type: "village",
     name: { de: "Pea", hu: "Pea", ro: "Pea", en: "Pea" },
-    coordinates: { lat: -21.166, lng: -175.233 },
+    coords: [-175.233, -21.166],
     description: {
       de: "Pea ist ein historisches Dorf auf Tongatapu, das im 19. Jahrhundert eine Festung beherbergte.",
       hu: "Pea egy történelmi falu Tongatapu szigetén, amely a 19. században erődítménynek adott otthont.",
@@ -157,7 +157,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haateiho-cities-v2",
     type: "village",
     name: { de: "Haʻateiho", hu: "Haʻateiho", ro: "Haʻateiho", en: "Haʻateiho" },
-    coordinates: { lat: -21.167, lng: -175.217 },
+    coords: [-175.217, -21.167],
     description: {
       de: "Haʻateiho ist ein großes Dorf im Landesinneren von Tongatapu, bekannt für seinen lokalen Markt.",
       hu: "Haʻateiho egy nagy falu Tongatapu belső részén, amely helyi piacáról ismert.",
@@ -176,7 +176,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-fuaamotu-cities-v2",
     type: "village",
     name: { de: "Fuaʻamotu", hu: "Fuaʻamotu", ro: "Fuaʻamotu", en: "Fuaʻamotu" },
-    coordinates: { lat: -21.25, lng: -175.133 },
+    coords: [-175.133, -21.25],
     description: {
       de: "Fuaʻamotu ist das Tor zu Tonga, da sich hier der wichtigste internationale Flughafen befindet.",
       hu: "Fuaʻamotu Tonga kapuja, mivel itt található az ország legfontosabb nemzetközi repülőtere.",
@@ -195,7 +195,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-houma-tongatapu-cities-v2",
     type: "village",
     name: { de: "Houma", hu: "Houma", ro: "Houma", en: "Houma" },
-    coordinates: { lat: -21.167, lng: -175.3 },
+    coords: [-175.3, -21.167],
     description: {
       de: "Houma ist ein Küstendorf auf Tongatapu, berühmt für seine natürlichen Blaslöcher.",
       hu: "Houma egy parti falu Tongatapu szigetén, amely természetes szökőkútjairól (blowholes) híres.",
@@ -214,7 +214,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-nukunuku-cities-v2",
     type: "village",
     name: { de: "Nukunuku", hu: "Nukunuku", ro: "Nukunuku", en: "Nukunuku" },
-    coordinates: { lat: -21.133, lng: -175.3 },
+    coords: [-175.3, -21.133],
     description: {
       de: "Nukunuku ist das Verwaltungszentrum des westlichen Distrikts von Tongatapu.",
       hu: "Nukunuku Tongatapu nyugati körzetének közigazgatási központja.",
@@ -233,7 +233,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-leimatua-cities-v2",
     type: "village",
     name: { de: "Leimatuʻa", hu: "Leimatuʻa", ro: "Leimatuʻa", en: "Leimatuʻa" },
-    coordinates: { lat: -18.6, lng: -173.983 },
+    coords: [-173.983, -18.6],
     description: {
       de: "Leimatuʻa ist eines der größten Dörfer auf der Insel Vavaʻu im Norden Tongas.",
       hu: "Leimatuʻa az egyik legnagyobb falu Vavaʻu szigetén, Tonga északi részén.",
@@ -252,7 +252,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-kolonga-cities-v2",
     type: "village",
     name: { de: "Kolonga", hu: "Kolonga", ro: "Kolonga", en: "Kolonga" },
-    coordinates: { lat: -21.133, lng: -175.067 },
+    coords: [-175.067, -21.133],
     description: {
       de: "Kolonga ist ein historisches Dorf im nordöstlichen Teil der Insel Tongatapu.",
       hu: "Kolonga egy történelmi falu Tongatapu szigetének északkeleti részén.",
@@ -271,7 +271,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-ohonua-cities-v2",
     type: "town",
     name: { de: "ʻOhonua", hu: "ʻOhonua", ro: "ʻOhonua", en: "ʻOhonua" },
-    coordinates: { lat: -21.346, lng: -174.952 },
+    coords: [-174.952, -21.346],
     description: {
       de: "ʻOhonua ist der Hauptort und das Verwaltungszentrum der Insel ʻEua.",
       hu: "ʻOhonua ʻEua szigetének legfőbb városa és közigazgatási központja.",
@@ -290,7 +290,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-pangai-haapai-cities-v2",
     type: "town",
     name: { de: "Pangai", hu: "Pangai", ro: "Pangai", en: "Pangai" },
-    coordinates: { lat: -19.803, lng: -174.348 },
+    coords: [-174.348, -19.803],
     description: {
       de: "Pangai ist das Verwaltungszentrum der Haʻapai-Inselgruppe und liegt auf der Insel Lifuka.",
       hu: "Pangai a Haʻapai-szigetcsoport közigazgatási központja, Lifuka szigetén található.",
@@ -309,7 +309,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-hihifo-haapai-cities-v2",
     type: "village",
     name: { de: "Hihifo", hu: "Hihifo", ro: "Hihifo", en: "Hihifo" },
-    coordinates: { lat: -19.817, lng: -174.35 },
+    coords: [-174.35, -19.817],
     description: {
       de: "Hihifo ist eine bedeutende Siedlung auf der Insel Lifuka im Haʻapai-Archipel.",
       hu: "Hihifo egy jelentős település Lifuka szigetén, a Haʻapai-szigetcsoportban.",
@@ -328,7 +328,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-veitongo-cities-v2",
     type: "village",
     name: { de: "Veitongo", hu: "Veitongo", ro: "Veitongo", en: "Veitongo" },
-    coordinates: { lat: -21.183, lng: -175.183 },
+    coords: [-175.183, -21.183],
     description: {
       de: "Veitongo ist ein zentrales Dorf auf Tongatapu, das für seine sportlichen Aktivitäten bekannt ist.",
       hu: "Veitongo egy központi falu Tongatapu szigetén, amely sporttevékenységeiről ismert.",
@@ -347,7 +347,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-holonga-tongatapu-cities-v2",
     type: "village",
     name: { de: "Holonga", hu: "Holonga", ro: "Holonga", en: "Holonga" },
-    coordinates: { lat: -21.183, lng: -175.15 },
+    coords: [-175.15, -21.183],
     description: {
       de: "Holonga ist ein ländliches Dorf im Osten der Insel Tongatapu.",
       hu: "Holonga egy vidéki falu Tongatapu szigetének keleti részén.",
@@ -366,7 +366,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-malapo-cities-v2",
     type: "village",
     name: { de: "Malapo", hu: "Malapo", ro: "Malapo", en: "Malapo" },
-    coordinates: { lat: -21.183, lng: -175.133 },
+    coords: [-175.133, -21.183],
     description: {
       de: "Malapo ist ein kleines Dorf an der Hauptstraße nach Fuaʻamotu auf Tongatapu.",
       hu: "Malapo egy kis falu a Fuaʻamotu felé vezető főút mentén, Tongatapu szigetén.",
@@ -385,7 +385,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-pelehake-cities-v2",
     type: "village",
     name: { de: "Pelehake", hu: "Pelehake", ro: "Pelehake", en: "Pelehake" },
-    coordinates: { lat: -21.2, lng: -175.133 },
+    coords: [-175.133, -21.2],
     description: {
       de: "Pelehake ist ein adliges Dorf auf Tongatapu mit engen Verbindungen zum Königshaus.",
       hu: "Pelehake egy nemesi falu Tongatapu szigetén, amely szoros kapcsolatban áll a királyi családdal.",
@@ -404,7 +404,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-alaki-cities-v2",
     type: "village",
     name: { de: "Alaki", hu: "Alaki", ro: "Alaki", en: "Alaki" },
-    coordinates: { lat: -21.167, lng: -175.133 },
+    coords: [-175.133, -21.167],
     description: {
       de: "Alaki ist ein Küstendorf am südlichen Ufer der Fangaʻuta-Lagune auf Tongatapu.",
       hu: "Alaki egy parti falu a Fangaʻuta-lagúna déli partján, Tongatapu szigetén.",
@@ -423,7 +423,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-folaha-cities-v2",
     type: "village",
     name: { de: "Folaha", hu: "Folaha", ro: "Folaha", en: "Folaha" },
-    coordinates: { lat: -21.167, lng: -175.167 },
+    coords: [-175.167, -21.167],
     description: {
       de: "Folaha ist ein Dorf am westlichen Arm der Fangaʻuta-Lagune auf Tongatapu.",
       hu: "Folaha egy falu a Fangaʻuta-lagúna nyugati ágánál, Tongatapu szigetén.",
@@ -442,7 +442,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-longoteme-cities-v2",
     type: "village",
     name: { de: "Longoteme", hu: "Longoteme", ro: "Longoteme", en: "Longoteme" },
-    coordinates: { lat: -21.183, lng: -175.167 },
+    coords: [-175.167, -21.183],
     description: {
       de: "Longoteme ist ein traditionelles Dorf im Herzen der Insel Tongatapu.",
       hu: "Longoteme egy tradicionális falu Tongatapu szigetének szívében.",
@@ -461,7 +461,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-fatumu-cities-v2",
     type: "village",
     name: { de: "Fatumu", hu: "Fatumu", ro: "Fatumu", en: "Fatumu" },
-    coordinates: { lat: -21.217, lng: -175.117 },
+    coords: [-175.117, -21.217],
     description: {
       de: "Fatumu ist ein malerisches Dorf an der Ostküste von Tongatapu, nahe der ʻAnahulu-Höhle.",
       hu: "Fatumu egy festői falu Tongatapu keleti partján, az ʻAnahulu-barlang közelében.",
@@ -480,7 +480,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-lavengatonga-cities-v2",
     type: "village",
     name: { de: "Lavengatonga", hu: "Lavengatonga", ro: "Lavengatonga", en: "Lavengatonga" },
-    coordinates: { lat: -21.233, lng: -175.1 },
+    coords: [-175.1, -21.233],
     description: {
       de: "Lavengatonga ist ein Küstendorf im Südosten von Tongatapu, bekannt für seine schönen Strände.",
       hu: "Lavengatonga egy parti falu Tongatapu délkeleti részén, szép strandjairól ismert.",
@@ -499,7 +499,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haasini-cities-v2",
     type: "village",
     name: { de: "Haʻasini", hu: "Haʻasini", ro: "Haʻasini", en: "Haʻasini" },
-    coordinates: { lat: -21.233, lng: -175.133 },
+    coords: [-175.133, -21.233],
     description: {
       de: "Haʻasini ist ein ländliches Dorf auf Tongatapu, das für seine starke Gemeinschaft bekannt ist.",
       hu: "Haʻasini egy vidéki falu Tongatapu szigetén, amely erős közösségéről ismert.",
@@ -518,7 +518,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-hamula-cities-v2",
     type: "village",
     name: { de: "Hamula", hu: "Hamula", ro: "Hamula", en: "Hamula" },
-    coordinates: { lat: -21.233, lng: -175.15 },
+    coords: [-175.15, -21.233],
     description: {
       de: "Hamula ist ein kleines Dorf im Distrikt Vaini, im Südosten von Tongatapu.",
       hu: "Hamula egy kis falu Vaini körzetében, Tongatapu délkeleti részén.",
@@ -537,7 +537,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-nakolo-cities-v2",
     type: "village",
     name: { de: "Nakolo", hu: "Nakolo", ro: "Nakolo", en: "Nakolo" },
-    coordinates: { lat: -21.25, lng: -175.117 },
+    coords: [-175.117, -21.25],
     description: {
       de: "Nakolo ist ein ruhiges Dorf im äußersten Südosten von Tongatapu.",
       hu: "Nakolo egy csendes falu Tongatapu szigetének legdélebbi-keletibb részén.",
@@ -556,7 +556,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-talafoou-cities-v2",
     type: "village",
     name: { de: "Talafoʻou", hu: "Talafoʻou", ro: "Talafoʻou", en: "Talafoʻou" },
-    coordinates: { lat: -21.133, lng: -175.083 },
+    coords: [-175.083, -21.133],
     description: {
       de: "Talafoʻou ist ein Dorf im Nordosten von Tongatapu, das für seine Fischerei bekannt ist.",
       hu: "Talafoʻou egy falu Tongatapu északkeleti részén, amely halászatáról ismert.",
@@ -575,7 +575,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-navutoka-cities-v2",
     type: "village",
     name: { de: "Navutoka", hu: "Navutoka", ro: "Navutoka", en: "Navutoka" },
-    coordinates: { lat: -21.133, lng: -175.1 },
+    coords: [-175.1, -21.133],
     description: {
       de: "Navutoka ist ein Küstendorf im Nordosten von Tongatapu, unmittelbar westlich von Talafoʻou.",
       hu: "Navutoka egy parti falu Tongatapu északkeleti részén, közvetlenül Talafoʻou-tól nyugatra.",
@@ -594,7 +594,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-manuka-cities-v2",
     type: "village",
     name: { de: "Manuka", hu: "Manuka", ro: "Manuka", en: "Manuka" },
-    coordinates: { lat: -21.133, lng: -175.05 },
+    coords: [-175.05, -21.133],
     description: {
       de: "Manuka ist ein ruhiges Küstendorf im Nordosten von Tongatapu, östlich von Kolonga.",
       hu: "Manuka egy csendes parti falu Tongatapu északkeleti részén, Kolonga-tól keletre.",
@@ -613,7 +613,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-kolovai-cities-v2",
     type: "village",
     name: { de: "Kolovai", hu: "Kolovai", ro: "Kolovai", en: "Kolovai" },
-    coordinates: { lat: -21.1, lng: -175.333 },
+    coords: [-175.333, -21.1],
     description: {
       de: "Kolovai ist ein Dorf im Westen von Tongatapu, berühmt für seine Flughund-Kolonie.",
       hu: "Kolovai egy falu Tongatapu nyugati részén, amely repülőkutya-kolóniájáról híres.",
@@ -632,7 +632,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haavakatolo-cities-v2",
     type: "village",
     name: { de: "Haʻavakatolo", hu: "Haʻavakatolo", ro: "Haʻavakatolo", en: "Haʻavakatolo" },
-    coordinates: { lat: -21.1, lng: -175.317 },
+    coords: [-175.317, -21.1],
     description: {
       de: "Haʻavakatolo ist ein Dorf im Distrikt Hihifo, im Nordwesten von Tongatapu.",
       hu: "Haʻavakatolo egy falu Hihifo körzetében, Tongatapu északnyugati részén.",
@@ -651,7 +651,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-foui-cities-v2",
     type: "village",
     name: { de: "Foʻui", hu: "Foʻui", ro: "Foʻui", en: "Foʻui" },
-    coordinates: { lat: -21.117, lng: -175.317 },
+    coords: [-175.317, -21.117],
     description: {
       de: "Foʻui ist ein bedeutendes Dorf auf Tongatapu, das an der Hauptstraße nach Nukuʻalofa liegt.",
       hu: "Foʻui egy jelentős falu Tongatapu szigetén, a Nukuʻalofa felé vezető főút mentén.",
@@ -670,7 +670,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-teekiu-cities-v2",
     type: "village",
     name: { de: "Teʻekiu", hu: "Teʻekiu", ro: "Teʻekiu", en: "Teʻekiu" },
-    coordinates: { lat: -21.133, lng: -175.317 },
+    coords: [-175.317, -21.133],
     description: {
       de: "Teʻekiu ist ein kleines, ruhiges Dorf im Westen von Tongatapu.",
       hu: "Teʻekiu egy kicsi, csendes falu Tongatapu nyugati részén.",
@@ -689,7 +689,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-masilamea-cities-v2",
     type: "village",
     name: { de: "Masilamea", hu: "Masilamea", ro: "Masilamea", en: "Masilamea" },
-    coordinates: { lat: -21.15, lng: -175.317 },
+    coords: [-175.317, -21.15],
     description: {
       de: "Masilamea ist ein kleines Dorf auf Tongatapu, das südlich von Teʻekiu liegt.",
       hu: "Masilamea egy kis falu Tongatapu szigetén, Teʻekiu-tól délre.",
@@ -708,7 +708,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-fahefa-cities-v2",
     type: "village",
     name: { de: "Fahefa", hu: "Fahefa", ro: "Fahefa", en: "Fahefa" },
-    coordinates: { lat: -21.167, lng: -175.317 },
+    coords: [-175.317, -21.167],
     description: {
       de: "Fahefa ist ein Dorf im Westen von Tongatapu, das für seine reiche Landwirtschaft bekannt ist.",
       hu: "Fahefa egy falu Tongatapu nyugati részén, amely gazdag mezőgazdaságáról ismert.",
@@ -727,7 +727,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-kalaau-cities-v2",
     type: "village",
     name: { de: "Kalaʻau", hu: "Kalaʻau", ro: "Kalaʻau", en: "Kalaʻau" },
-    coordinates: { lat: -21.183, lng: -175.317 },
+    coords: [-175.317, -21.183],
     description: {
       de: "Kalaʻau ist ein kleines Dorf im Distrikt Hihifo auf Tongatapu.",
       hu: "Kalaʻau egy kis falu Tongatapu Hihifo körzetében.",
@@ -746,7 +746,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-hautu-cities-v2",
     type: "village",
     name: { de: "Haʻutu", hu: "Haʻutu", ro: "Haʻutu", en: "Haʻutu" },
-    coordinates: { lat: -21.2, lng: -175.317 },
+    coords: [-175.317, -21.2],
     description: {
       de: "Haʻutu ist ein Binnendorf im Westen von Tongatapu, umgeben von Plantagen.",
       hu: "Haʻutu egy belső falu Tongatapu nyugati részén, ültetvényekkel körülvéve.",
@@ -765,7 +765,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haalalo-cities-v2",
     type: "village",
     name: { de: "Haʻalalo", hu: "Haʻalalo", ro: "Haʻalalo", en: "Haʻalalo" },
-    coordinates: { lat: -21.217, lng: -175.317 },
+    coords: [-175.317, -21.217],
     description: {
       de: "Haʻalalo ist ein Dorf im Südwesten von Tongatapu, nahe der Küste.",
       hu: "Haʻalalo egy falu Tongatapu délnyugati részén, a parthoz közel.",
@@ -784,7 +784,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-utulau-cities-v2",
     type: "village",
     name: { de: "ʻUtulau", hu: "ʻUtulau", ro: "ʻUtulau", en: "ʻUtulau" },
-    coordinates: { lat: -21.217, lng: -175.283 },
+    coords: [-175.283, -21.217],
     description: {
       de: "ʻUtulau ist ein Binnendorf im Südwesten von Tongatapu, bekannt für seine religiöse Geschichte.",
       hu: "ʻUtulau egy belső falu Tongatapu délnyugati részén, vallástörténetéről ismert.",
@@ -803,7 +803,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tefisi-cities-v2",
     type: "village",
     name: { de: "Tefisi", hu: "Tefisi", ro: "Tefisi", en: "Tefisi" },
-    coordinates: { lat: -18.633, lng: -174.033 },
+    coords: [-174.033, -18.633],
     description: {
       de: "Tefisi ist ein Bergdorf auf der Insel Vavaʻu, bekannt für seine Aussichten.",
       hu: "Tefisi egy hegyi falu Vavaʻu szigetén, kilátásairól nevezetes.",
@@ -822,7 +822,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-longomapu-cities-v2",
     type: "village",
     name: { de: "Longomapu", hu: "Longomapu", ro: "Longomapu", en: "Longomapu" },
-    coordinates: { lat: -18.65, lng: -174.05 },
+    coords: [-174.05, -18.65],
     description: {
       de: "Longomapu ist ein malerisches Dorf im Westen von Vavaʻu, nahe dem Lake Ano.",
       hu: "Longomapu egy festői falu Vavaʻu nyugati részén, az Ano-tó közelében.",
@@ -841,7 +841,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tuanuku-cities-v2",
     type: "village",
     name: { de: "Tuʻanuku", hu: "Tuʻanuku", ro: "Tuʻanuku", en: "Tuʻanuku" },
-    coordinates: { lat: -18.667, lng: -174.017 },
+    coords: [-174.017, -18.667],
     description: {
       de: "Tuʻanuku ist ein historisches Dorf am Ufer des Lake Ano auf Vavaʻu.",
       hu: "Tuʻanuku egy történelmi falu az Ano-tó partján, Vavaʻu szigetén.",
@@ -860,7 +860,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-taoa-cities-v2",
     type: "village",
     name: { de: "Taoa", hu: "Taoa", ro: "Taoa", en: "Taoa" },
-    coordinates: { lat: -18.633, lng: -173.983 },
+    coords: [-173.983, -18.633],
     description: {
       de: "Taoa ist ein kleines Dorf im Zentrum der Insel Vavaʻu.",
       hu: "Taoa egy kis falu Vavaʻu szigetének központjában.",
@@ -879,7 +879,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-vaimalo-cities-v2",
     type: "village",
     name: { de: "Vaimalo", hu: "Vaimalo", ro: "Vaimalo", en: "Vaimalo" },
-    coordinates: { lat: -18.633, lng: -174.0 },
+    coords: [-174.0, -18.633],
     description: {
       de: "Vaimalo ist ein Küstendorf am nördlichen Ufer des Port of Refuge auf Vavaʻu.",
       hu: "Vaimalo egy parti falu a Port of Refuge északi partján, Vavaʻu szigetén.",
@@ -898,7 +898,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haalaufuli-cities-v2",
     type: "village",
     name: { de: "Haʻalaufuli", hu: "Haʻalaufuli", ro: "Haʻalaufuli", en: "Haʻalaufuli" },
-    coordinates: { lat: -18.6, lng: -173.917 },
+    coords: [-173.917, -18.6],
     description: {
       de: "Haʻalaufuli ist das bevölkerungsreichste Dorf im Osten der Insel Vavaʻu.",
       hu: "Haʻalaufuli Vavaʻu szigetének legnépesebb faluja a keleti részen.",
@@ -917,7 +917,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-feletoa-cities-v2",
     type: "village",
     name: { de: "Feletoa", hu: "Feletoa", ro: "Feletoa", en: "Feletoa" },
-    coordinates: { lat: -18.6, lng: -173.967 },
+    coords: [-173.967, -18.6],
     description: {
       de: "Feletoa ist ein historisches Dorf auf Vavaʻu, das im 19. Jahrhundert Schauplatz von Kämpfen war.",
       hu: "Feletoa egy történelmi falu Vavaʻu szigetén, amely a 19. században csaták színhelye volt.",
@@ -936,7 +936,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-koulo-cities-v2",
     type: "village",
     name: { de: "Koulo", hu: "Koulo", ro: "Koulo", en: "Koulo" },
-    coordinates: { lat: -19.783, lng: -174.35 },
+    coords: [-174.35, -19.783],
     description: {
       de: "Koulo ist ein Dorf im Norden der Insel Lifuka in der Haʻapai-Gruppe.",
       hu: "Koulo egy falu Lifuka szigetének északi részén, a Haʻapai-csoportban.",
@@ -955,7 +955,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-holopeka-cities-v2",
     type: "village",
     name: { de: "Holopeka", hu: "Holopeka", ro: "Holopeka", en: "Holopeka" },
-    coordinates: { lat: -19.783, lng: -174.333 },
+    coords: [-174.333, -19.783],
     description: {
       de: "Holopeka ist ein kleines Dorf auf der Insel Lifuka im Haʻapai-Archipel.",
       hu: "Holopeka egy kis falu Lifuka szigetén, a Haʻapai-szigetcsoportban.",
@@ -974,7 +974,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-faleloa-cities-v2",
     type: "village",
     name: { de: "Faleloa", hu: "Faleloa", ro: "Faleloa", en: "Faleloa" },
-    coordinates: { lat: -19.717, lng: -174.333 },
+    coords: [-174.333, -19.717],
     description: {
       de: "Faleloa ist das größte Dorf auf der Insel Foa in der Haʻapai-Gruppe.",
       hu: "Faleloa Foa szigetének legnagyobb faluja a Haʻapai-csoportban.",
@@ -993,7 +993,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-lotofoa-cities-v2",
     type: "village",
     name: { de: "Lotofoa", hu: "Lotofoa", ro: "Lotofoa", en: "Lotofoa" },
-    coordinates: { lat: -19.733, lng: -174.333 },
+    coords: [-174.333, -19.733],
     description: {
       de: "Lotofoa ist ein traditionelles Dorf auf der Insel Foa im Haʻapai-Archipel.",
       hu: "Lotofoa egy tradicionális falu Foa szigetén, a Haʻapai-szigetcsoportban.",
@@ -1012,7 +1012,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haano-cities-v2",
     type: "village",
     name: { de: "Haʻano", hu: "Haʻano", ro: "Haʻano", en: "Haʻano" },
-    coordinates: { lat: -19.667, lng: -174.283 },
+    coords: [-174.283, -19.667],
     description: {
       de: "Haʻano ist das Hauptdorf der gleichnamigen Insel im Haʻapai-Distrikt.",
       hu: "Haʻano az azonos nevű sziget fő faluja a Haʻapai körzetben.",
@@ -1031,7 +1031,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-fangaleounga-cities-v2",
     type: "village",
     name: { de: "Fangaleʻounga", hu: "Fangaleʻounga", ro: "Fangaleʻounga", en: "Fangaleʻounga" },
-    coordinates: { lat: -19.683, lng: -174.317 },
+    coords: [-174.317, -19.683],
     description: {
       de: "Fangaleʻounga ist ein kleines Küstendorf auf der Insel Haʻano.",
       hu: "Fangaleʻounga egy kis parti falu Haʻano szigetén.",
@@ -1050,7 +1050,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tufuvai-cities-v2",
     type: "village",
     name: { de: "Tufuvai", hu: "Tufuvai", ro: "Tufuvai", en: "Tufuvai" },
-    coordinates: { lat: -21.367, lng: -174.967 },
+    coords: [-174.967, -21.367],
     description: {
       de: "Tufuvai ist ein Küstendorf im Westen der Insel ʻEua, bekannt für seine Klippen.",
       hu: "Tufuvai egy parti falu ʻEua szigetének nyugati részén, szikláiról ismert.",
@@ -1069,7 +1069,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-vaipoa-cities-v2",
     type: "village",
     name: { de: "Vaipoa", hu: "Vaipoa", ro: "Vaipoa", en: "Vaipoa" },
-    coordinates: { lat: -15.95, lng: -173.767 },
+    coords: [-173.767, -15.95],
     description: {
       de: "Vaipoa ist das zweitgrößte Dorf auf der Insel Niuatoputapu.",
       hu: "Vaipoa a második legnagyobb falu Niuatoputapu szigetén.",
@@ -1088,7 +1088,7 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-falehau-cities-v2",
     type: "village",
     name: { de: "Falehau", hu: "Falehau", ro: "Falehau", en: "Falehau" },
-    coordinates: { lat: -15.95, lng: -173.75 },
+    coords: [-173.75, -15.95],
     description: {
       de: "Falehau ist ein Dorf im Osten von Niuatoputapu, nahe dem Hafen.",
       hu: "Falehau egy falu Niuatoputapu keleti részén, a kikötő közelében.",

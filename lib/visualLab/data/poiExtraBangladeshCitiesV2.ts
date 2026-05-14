@@ -1175,7 +1175,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-sunamganj-cities-v2",
     type: "city",
     name: { de: "Sunamganj", hu: "Szunámganj", ro: "Sunamganj", en: "Sunamganj" },
-    coordinates: { lat: 25.0667, lng: 91.4 },
+    coords: [91.4, 25.0667],
     description: {
       de: "Sunamganj liegt am Ufer des Surma-Flusses im Nordosten von Bangladesch. Die Stadt ist bekannt für ihre weiten Sumpfgebiete und den Reisanbau.",
       hu: "Szunámganj a Szurma-folyó partján fekszik Banglades északkeleti részén. A város híres kiterjedt mocsárvidékeiről és a rizstermesztésről.",
@@ -1206,7 +1206,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-moulvibazar-cities-v2",
     type: "city",
     name: { de: "Moulvibazar", hu: "Maulvibazar", ro: "Moulvibazar", en: "Moulvibazar" },
-    coordinates: { lat: 24.4833, lng: 91.7667 },
+    coords: [91.7667, 24.4833],
     description: {
       de: "Moulvibazar ist ein wichtiges Handelszentrum im Osten des Landes. Die Stadt ist von zahlreichen Teegärten und sanften Hügeln umgeben.",
       hu: "Maulvibazar fontos kereskedelmi központ az ország keleti részén. A várost számos teakert és lankás dombvidék veszi körül.",
@@ -1237,7 +1237,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-habiganj-cities-v2",
     type: "city",
     name: { de: "Habiganj", hu: "Habiganj", ro: "Habiganj", en: "Habiganj" },
-    coordinates: { lat: 24.3833, lng: 91.4167 },
+    coords: [91.4167, 24.3833],
     description: {
       de: "Habiganj ist eine wachsende Stadt im Nordosten von Bangladesch. Sie dient als administratives Zentrum und ist reich an Erdgasvorkommen.",
       hu: "Habiganj egy fejlődő város Banglades északkeleti részén. Közigazgatási központként szolgál, és földgázkészletekben gazdag.",
@@ -1268,7 +1268,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-netrokona-cities-v2",
     type: "city",
     name: { de: "Netrokona", hu: "Netrokona", ro: "Netrokona", en: "Netrokona" },
-    coordinates: { lat: 24.8833, lng: 90.7333 },
+    coords: [90.7333, 24.8833],
     description: {
       de: "Netrokona liegt im Norden von Bangladesch am Fuße der Garo-Hügel. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft.",
       hu: "Netrokona Banglades északi részén, a Garo-dombság lábánál fekszik. A város fontos mezőgazdasági központ.",
@@ -1299,7 +1299,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-sherpur-cities-v2",
     type: "city",
     name: { de: "Sherpur", hu: "Serpur", ro: "Sherpur", en: "Sherpur" },
-    coordinates: { lat: 25.0167, lng: 90.0167 },
+    coords: [90.0167, 25.0167],
     description: {
       de: "Sherpur ist eine historische Stadt im Norden von Bangladesch. Sie liegt nahe der indischen Grenze und ist von Hügeln umgeben.",
       hu: "Serpur történelmi város Banglades északi részén. Az indiai határ közelében fekszik, és dombok veszik körül.",
@@ -1330,7 +1330,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-kishoreganj-cities-v2",
     type: "city",
     name: { de: "Kishoreganj", hu: "Kishoreganj", ro: "Kishoreganj", en: "Kishoreganj" },
-    coordinates: { lat: 24.4333, lng: 90.7833 },
+    coords: [90.7833, 24.4333],
     description: {
       de: "Kishoreganj ist eine bedeutende Stadt in Zentral-Bangladesch. Sie ist berühmt für das Sholakia-Feld, wo eines der größten Eid-Gebete stattfindet.",
       hu: "Kishoreganj jelentős város Közép-Bangladesben. Híres a Sholakia-mezőről, ahol az egyik legnagyobb Eid-imádságot tartják.",
@@ -1361,7 +1361,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-munshiganj-cities-v2",
     type: "city",
     name: { de: "Munshiganj", hu: "Munshiganj", ro: "Munshiganj", en: "Munshiganj" },
-    coordinates: { lat: 23.55, lng: 90.5333 },
+    coords: [90.5333, 23.55],
     description: {
       de: "Munshiganj, auch bekannt als Bikrampur, ist eine historische Stadt nahe Dhaka. Sie ist berühmt für ihre archäologischen Stätten und Kartoffelanbau.",
       hu: "Munshiganj, más néven Bikrampur, egy történelmi város Dakka közelében. Régészeti lelőhelyeiről és burgonyatermesztéséről híres.",
@@ -1392,7 +1392,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-manikganj-cities-v2",
     type: "city",
     name: { de: "Manikganj", hu: "Manikganj", ro: "Manikganj", en: "Manikganj" },
-    coordinates: { lat: 23.85, lng: 90.0 },
+    coords: [90.0, 23.85],
     description: {
       de: "Manikganj liegt westlich von Dhaka am Ufer des Kaliganga-Flusses. Die Stadt ist bekannt für ihre Zuckerindustrie und historische Zamindar-Häuser.",
       hu: "Manikganj Dakkától nyugatra, a Kaliganga-folyó partján fekszik. A város cukoriparáról és történelmi Zamindar-házairól ismert.",
@@ -1423,7 +1423,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-rajbari-cities-v2",
     type: "city",
     name: { de: "Rajbari", hu: "Rajbari", ro: "Rajbari", en: "Rajbari" },
-    coordinates: { lat: 23.75, lng: 89.65 },
+    coords: [89.65, 23.75],
     description: {
       de: "Rajbari ist eine Stadt in Zentral-Bangladesch, benannt nach den historischen Palästen der Region. Sie liegt am südlichen Ufer des Padma-Flusses.",
       hu: "Rajbari város Közép-Bangladesben, a régió történelmi palotáiról kapta a nevét. A Padma-folyó déli partján fekszik.",
@@ -1454,7 +1454,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-gopalganj-cities-v2",
     type: "city",
     name: { de: "Gopalganj", hu: "Gopalganj", ro: "Gopalganj", en: "Gopalganj" },
-    coordinates: { lat: 23.0, lng: 89.8333 },
+    coords: [89.8333, 23.0],
     description: {
       de: "Gopalganj ist eine bedeutende Stadt im Süden Bangladeschs. Sie ist weltweit bekannt als Geburtsort von Sheikh Mujibur Rahman, dem Vater der Nation.",
       hu: "Gopalganj jelentős város Banglades déli részén. Világszerte Sheikh Mujibur Rahman, a nemzet atyjának szülőhelyeként ismert.",
@@ -1485,7 +1485,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-madaripur-cities-v2",
     type: "city",
     name: { de: "Madaripur", hu: "Madaripur", ro: "Madaripur", en: "Madaripur" },
-    coordinates: { lat: 23.1667, lng: 90.2 },
+    coords: [90.2, 23.1667],
     description: {
       de: "Madaripur liegt im Zentrum von Bangladesch an der Kreuzung wichtiger Wasserwege. Die Stadt ist ein Handelszentrum für landwirtschaftliche Erzeugnisse.",
       hu: "Madaripur Banglades központjában, fontos vízi utak kereszteződésében fekszik. A város mezőgazdasági termékek kereskedelmi központja.",
@@ -1516,7 +1516,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-shariatpur-cities-v2",
     type: "city",
     name: { de: "Shariatpur", hu: "Sariatpur", ro: "Shariatpur", en: "Shariatpur" },
-    coordinates: { lat: 23.2167, lng: 90.35 },
+    coords: [90.35, 23.2167],
     description: {
       de: "Shariatpur ist eine Stadt in der Division Dhaka, benannt nach Haji Shariatullah. Sie liegt in einer flachen Ebene, die von zahlreichen Kanälen durchzogen ist.",
       hu: "Sariatpur egy város a Dakka körzetben, Haji Shariatullah-ról kapta a nevét. Számos csatornával átszőtt síkságon fekszik.",
@@ -1547,7 +1547,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-magura-cities-v2",
     type: "city",
     name: { de: "Magura", hu: "Magura", ro: "Magura", en: "Magura" },
-    coordinates: { lat: 23.4833, lng: 89.4167 },
+    coords: [89.4167, 23.4833],
     description: {
       de: "Magura liegt im Südwesten von Bangladesch am Ufer des Nabaganga-Flusses. Die Stadt ist ein wichtiges Zentrum für Sport und Landwirtschaft.",
       hu: "Magura Banglades délnyugati részén, a Nabaganga-folyó partján fekszik. A város fontos sport- és mezőgazdasági központ.",
@@ -1578,7 +1578,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-narail-cities-v2",
     type: "city",
     name: { de: "Narail", hu: "Narail", ro: "Narail", en: "Narail" },
-    coordinates: { lat: 23.1667, lng: 89.5 },
+    coords: [89.5, 23.1667],
     description: {
       de: "Narail ist eine kleine, malerische Stadt im Südwesten des Landes. Sie ist bekannt für ihre kulturellen Beiträge und den Otterschutz.",
       hu: "Narail egy kis, festői város az ország délnyugati részén. Kulturális hozzájárulásairól és a vidravédelemről ismert.",
@@ -1609,7 +1609,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-meherpur-cities-v2",
     type: "city",
     name: { de: "Meherpur", hu: "Meherpur", ro: "Meherpur", en: "Meherpur" },
-    coordinates: { lat: 23.7667, lng: 88.6333 },
+    coords: [88.6333, 23.7667],
     description: {
       de: "Meherpur ist eine historisch bedeutende Stadt an der Grenze zu Indien. Hier wurde 1971 die erste provisorische Regierung von Bangladesch vereidigt.",
       hu: "Meherpur történelmileg jelentős város az indiai határ mentén. Itt tette le az esküt Banglades első ideiglenes kormánya 1971-ben.",
@@ -1640,7 +1640,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-chuadanga-cities-v2",
     type: "city",
     name: { de: "Chuadanga", hu: "Chuadanga", ro: "Chuadanga", en: "Chuadanga" },
-    coordinates: { lat: 23.6333, lng: 88.85 },
+    coords: [88.85, 23.6333],
     description: {
       de: "Chuadanga liegt im Westen von Bangladesch nahe der indischen Grenze. Die Stadt ist ein wichtiges landwirtschaftliches und industrielles Zentrum.",
       hu: "Chuadanga Banglades nyugati részén, az indiai határ közelében fekszik. A város fontos mezőgazdasági és ipari központ.",
@@ -1671,7 +1671,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-satkhira-cities-v2",
     type: "city",
     name: { de: "Satkhira", hu: "Szatkhira", ro: "Satkhira", en: "Satkhira" },
-    coordinates: { lat: 22.7167, lng: 89.0667 },
+    coords: [89.0667, 22.7167],
     description: {
       de: "Satkhira ist eine Küstenstadt im Südwesten von Bangladesch. Sie dient als wichtiges Tor zu den Sundarbans-Mangrovenwäldern.",
       hu: "Szatkhira egy parti város Banglades délnyugati részén. Fontos kapuként szolgál a Szundarbansz mangroveerdőkhöz.",
@@ -1702,7 +1702,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-nilphamari-cities-v2",
     type: "city",
     name: { de: "Nilphamari", hu: "Nilphamari", ro: "Nilphamari", en: "Nilphamari" },
-    coordinates: { lat: 25.9333, lng: 88.85 },
+    coords: [88.85, 25.9333],
     description: {
       de: "Nilphamari liegt im hohen Norden von Bangladesch. Die Stadt ist ein Zentrum für Textilindustrie und Tabakanbau in der Region.",
       hu: "Nilphamari Banglades távoli északi részén fekszik. A város a régió textiliparának és dohánytermesztésének központja.",
@@ -1733,7 +1733,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-pirojpur-cities-v2",
     type: "city",
     name: { de: "Pirojpur", hu: "Pirojpur", ro: "Pirojpur", en: "Pirojpur" },
-    coordinates: { lat: 22.5833, lng: 89.9667 },
+    coords: [89.9667, 22.5833],
     description: {
       de: "Pirojpur liegt im Südwesten von Bangladesch in einer wasserreichen Region. Die Stadt ist für ihre schwimmenden Märkte und Holzwirtschaft bekannt.",
       hu: "Pirojpur Banglades délnyugati részén, vízi utakban gazdag vidéken fekszik. Úszó piacairól és faiparáról nevezetes.",
@@ -1764,7 +1764,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-patuakhali-cities-v2",
     type: "city",
     name: { de: "Patuakhali", hu: "Patuakhali", ro: "Patuakhali", en: "Patuakhali" },
-    coordinates: { lat: 22.35, lng: 90.3333 },
+    coords: [90.3333, 22.35],
     description: {
       de: "Patuakhali ist eine bedeutende Stadt im Süden Bangladeschs nahe dem Golf von Bengalen. Sie ist von zahlreichen Flüssen und Kanälen umgeben.",
       hu: "Patuakhali jelentős város Banglades déli részén, a Bengáli-öböl közelében. Számos folyó és csatorna veszi körül.",
@@ -1795,7 +1795,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-barguna-cities-v2",
     type: "city",
     name: { de: "Barguna", hu: "Barguna", ro: "Barguna", en: "Barguna" },
-    coordinates: { lat: 22.15, lng: 90.1167 },
+    coords: [90.1167, 22.15],
     description: {
       de: "Barguna liegt im südlichsten Teil von Bangladesch an der Küste. Die Stadt ist geprägt von Fischerei und dem Schutz der Mangrovenwälder.",
       hu: "Barguna Banglades legdélebbi részén, a tengerparton fekszik. A várost a halászat és a mangroveerdők védelme jellemzi.",
@@ -1826,7 +1826,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-lakshmipur-cities-v2",
     type: "city",
     name: { de: "Lakshmipur", hu: "Laksmpur", ro: "Lakshmipur", en: "Lakshmipur" },
-    coordinates: { lat: 22.95, lng: 90.8333 },
+    coords: [90.8333, 22.95],
     description: {
       de: "Lakshmipur ist eine blühende Handelsstadt im Südosten von Bangladesch. Sie liegt am Ostufer des mächtigen Meghna-Flusses.",
       hu: "Laksmpur egy virágzó kereskedőváros Banglades délkeleti részén. A hatalmas Meghna-folyó keleti partján fekszik.",
@@ -1857,7 +1857,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-joypurhat-cities-v2",
     type: "city",
     name: { de: "Joypurhat", hu: "Joypurhat", ro: "Joypurhat", en: "Joypurhat" },
-    coordinates: { lat: 25.1, lng: 89.0167 },
+    coords: [89.0167, 25.1],
     description: {
       de: "Joypurhat liegt im Nordwesten von Bangladesch in der Region Barind Tract. Die Stadt ist ein bedeutendes Zentrum für Landwirtschaft und Geflügelzucht.",
       hu: "Joypurhat Banglades északnyugati részén, a Barind-síkságon fekszik. A város a mezőgazdaság és a baromfitenyésztés fontos központja.",
@@ -1888,7 +1888,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-chapai-nawabganj-cities-v2",
     type: "city",
     name: { de: "Chapai Nawabganj", hu: "Csápai Navábganj", ro: "Chapai Nawabganj", en: "Chapai Nawabganj" },
-    coordinates: { lat: 24.6, lng: 88.2667 },
+    coords: [88.2667, 24.6],
     description: {
       de: "Chapai Nawabganj ist als Mango-Hauptstadt von Bangladesch bekannt. Die Stadt liegt im äußersten Westen am Ufer des Mahananda-Flusses.",
       hu: "Csápai Navábganj Banglades mangófővárosaként ismert. A város a távoli nyugaton, a Mahananda-folyó partján fekszik.",
@@ -1919,7 +1919,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-natore-cities-v2",
     type: "city",
     name: { de: "Natore", hu: "Natore", ro: "Natore", en: "Natore" },
-    coordinates: { lat: 24.4167, lng: 88.9833 },
+    coords: [88.9833, 24.4167],
     description: {
       de: "Natore ist eine historische Stadt im Nordwesten von Bangladesch. Sie ist berühmt für ihre alten Königspaläste und traditionellen Süßwaren.",
       hu: "Natore egy történelmi város Banglades északnyugati részén. Régi királyi palotáiról és hagyományos édességeiről híres.",
@@ -1950,7 +1950,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-gaibandha-cities-v2",
     type: "city",
     name: { de: "Gaibandha", hu: "Gaibandha", ro: "Gaibandha", en: "Gaibandha" },
-    coordinates: { lat: 25.3333, lng: 89.5333 },
+    coords: [89.5333, 25.3333],
     description: {
       de: "Gaibandha liegt im Norden von Bangladesch am Westufer des Brahmaputra-Flusses. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft.",
       hu: "Gaibandha Banglades északi részén, a Brahmaputra-folyó nyugati partján fekszik. A város fontos mezőgazdasági központ.",
@@ -1981,7 +1981,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-kurigram-cities-v2",
     type: "city",
     name: { de: "Kurigram", hu: "Kurigram", ro: "Kurigram", en: "Kurigram" },
-    coordinates: { lat: 25.8, lng: 89.65 },
+    coords: [89.65, 25.8],
     description: {
       de: "Kurigram ist eine Grenzstadt im Norden von Bangladesch. Sie liegt am Zusammenfluss mehrerer großer Flüsse wie dem Dharla und dem Brahmaputra.",
       hu: "Kurigram egy határváros Banglades északi részén. Több nagy folyó, köztük a Dharla és a Brahmaputra találkozásánál fekszik.",
@@ -2012,7 +2012,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-lalmonirhat-cities-v2",
     type: "city",
     name: { de: "Lalmonirhat", hu: "Lalmonirhat", ro: "Lalmonirhat", en: "Lalmonirhat" },
-    coordinates: { lat: 25.9167, lng: 89.45 },
+    coords: [89.45, 25.9167],
     description: {
       de: "Lalmonirhat liegt im äußersten Norden von Bangladesch an der Grenze zu Indien. Die Stadt ist ein wichtiger Eisenbahn- und Handelsknotenpunkt.",
       hu: "Lalmonirhat Banglades távoli északi részén, az indiai határ mentén fekszik. A város fontos vasúti és kereskedelmi csomópont.",
@@ -2043,7 +2043,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-panchagarh-cities-v2",
     type: "city",
     name: { de: "Panchagarh", hu: "Pancshagar", ro: "Panchagarh", en: "Panchagarh" },
-    coordinates: { lat: 26.3333, lng: 88.55 },
+    coords: [88.55, 26.3333],
     description: {
       de: "Panchagarh ist die nördlichste Stadt von Bangladesch. Sie ist bekannt für ihre Teegärten und bietet bei klarem Wetter Sicht auf den Himalaya.",
       hu: "Pancshagar Banglades legészakibb városa. Teakertjeiről ismert, és tiszta időben kilátást nyújt a Himalájára.",
@@ -2074,7 +2074,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     id: "bangladesh-thakurgaon-cities-v2",
     type: "city",
     name: { de: "Thakurgaon", hu: "Thakurgaon", ro: "Thakurgaon", en: "Thakurgaon" },
-    coordinates: { lat: 26.0333, lng: 88.4667 },
+    coords: [88.4667, 26.0333],
     description: {
       de: "Thakurgaon liegt im Nordwesten von Bangladesch in der Division Rangpur. Die Stadt ist ein wichtiges agrarindustrielles Zentrum.",
       hu: "Thakurgaon Banglades északnyugati részén, a Rangpur körzetben fekszik. A város fontos agrár-ipari központ.",

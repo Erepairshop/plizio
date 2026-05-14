@@ -546,7 +546,7 @@ export const poiExtraQatarNatureV2: POI[] = [
     id: "qatar-jazirat-al-ishat-nature-v2",
     type: "island",
     name: { de: "Insel Al Ishat", hu: "Al Ishat-sziget", ro: "Insula Al Ishat", en: "Al Ishat Island" },
-    coordinates: { lat: 24.777, lng: 51.583 },
+    coords: [51.583, 24.777],
     description: {
       de: "Die Insel Al Ishat liegt südöstlich von Mesaieed im Persischen Golf. Sie ist von Korallenriffen umgeben und ein wichtiger Lebensraum für Seevögel.",
       hu: "Az Al Ishat-sziget Mesaieedtől délkeletre található a Perzsa-öbölben. Korallzátonyok veszik körül, és fontos élőhely a tengeri madarak számára.",
@@ -565,7 +565,7 @@ export const poiExtraQatarNatureV2: POI[] = [
     id: "qatar-ras-ushairij-nature-v2",
     type: "landmark",
     name: { de: "Ras Ushairij", hu: "Ras Ushairij", ro: "Ras Ushairij", en: "Ras Ushairij" },
-    coordinates: { lat: 25.985, lng: 51.052 },
+    coords: [51.052, 25.985],
     description: {
       de: "Ras Ushairij ist ein felsiges Küstengebiet an der Westküste von Katar. Es ist bekannt für seine markanten Kalksteinformationen und paläontologischen Funde.",
       hu: "Ras Ushairij egy sziklás tengerparti terület Katar nyugati partján. Jellegzetes mészkőformációiról és őslénytani leleteiről ismert.",

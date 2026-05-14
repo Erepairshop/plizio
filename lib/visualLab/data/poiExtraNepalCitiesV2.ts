@@ -1166,7 +1166,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-bharatpur-cities-v2",
     type: "city",
     name: { de: "Bharatpur", hu: "Bharatpur", ro: "Bharatpur", en: "Bharatpur" },
-    coordinates: { lat: 27.6833, lng: 84.4333 },
+    coords: [84.4333, 27.6833],
     description: {
       de: "Bharatpur ist die viertgrößte Stadt Nepals am Ufer des Narayani-Flusses. Sie ist ein bedeutendes Zentrum für Landwirtschaft und Bildung.",
       hu: "Bharatpur Nepál negyedik legnagyobb városa a Narayani-folyó partján. Fontos mezőgazdasági, oktatási és egészségügyi központ a térségben.",
@@ -1185,7 +1185,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-dhangadhi-cities-v2",
     type: "city",
     name: { de: "Dhangadhi", hu: "Dhangadhi", ro: "Dhangadhi", en: "Dhangadhi" },
-    coordinates: { lat: 28.7064, lng: 80.5925 },
+    coords: [80.5925, 28.7064],
     description: {
       de: "Dhangadhi ist das wirtschaftliche Zentrum von Sudurpashchim im Westen Nepals. Die Stadt liegt an der Grenze zu Indien und ist ein Handelsplatz.",
       hu: "Dhangadhi Nyugat-Nepál gazdasági központja Sudurpashchim tartományban. Az indiai határ közelében fekvő város fontos kereskedelmi csomópont.",
@@ -1204,7 +1204,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-itahari-cities-v2",
     type: "city",
     name: { de: "Itahari", hu: "Itahari", ro: "Itahari", en: "Itahari" },
-    coordinates: { lat: 26.6667, lng: 87.2667 },
+    coords: [87.2667, 26.6667],
     description: {
       de: "Itahari ist ein wichtiger Verkehrsknotenpunkt im Osten Nepals im Distrikt Sunsari. Hier kreuzen sich die beiden wichtigsten Autobahnen des Landes.",
       hu: "Itahari Kelet-Nepál kulcsfontosságú közlekedési csomópontja Sunsari körzetben. Itt találkozik az ország két legfontosabb főútvonala.",
@@ -1223,7 +1223,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-damak-cities-v2",
     type: "city",
     name: { de: "Damak", hu: "Damak", ro: "Damak", en: "Damak" },
-    coordinates: { lat: 26.6667, lng: 87.6833 },
+    coords: [87.6833, 26.6667],
     description: {
       de: "Damak ist eine bedeutende Industriestadt im Distrikt Jhapa im Osten Nepals. Sie ist bekannt für ihre Landwirtschaft und die Ansiedlung von Fabriken.",
       hu: "Damak egy jelentős ipari város Kelet-Nepálban, Jhapa körzetben. Híres a mezőgazdaságáról és a gyorsan fejlődő gyáriparáról.",
@@ -1242,7 +1242,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-mechinagar-cities-v2",
     type: "city",
     name: { de: "Mechinagar", hu: "Mechinagar", ro: "Mechinagar", en: "Mechinagar" },
-    coordinates: { lat: 26.6439, lng: 88.1386 },
+    coords: [88.1386, 26.6439],
     description: {
       de: "Mechinagar ist die östlichste Stadt Nepals direkt an der indischen Grenze. Der Ortsteil Kakarbhitta ist der wichtigste Grenzübergang nach Indien.",
       hu: "Mechinagar Nepál legkeletibb városa az indiai határ mentén. Kakarbhitta városrésze az ország egyik legfontosabb határátkelőhelye.",
@@ -1261,7 +1261,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-panauti-cities-v2",
     type: "town",
     name: { de: "Panauti", hu: "Panauti", ro: "Panauti", en: "Panauti" },
-    coordinates: { lat: 27.5833, lng: 85.5167 },
+    coords: [85.5167, 27.5833],
     description: {
       de: "Panauti ist eine historische Stadt am Zusammenfluss zweier heiliger Flüsse. Sie gilt als eine der am besten erhaltenen Newar-Siedlungen des Landes.",
       hu: "Panauti egy történelmi város két szent folyó összefolyásánál. Az egyik legjobban megőrzött Newar település Nepálban.",
@@ -1280,7 +1280,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-dhulikhel-cities-v2",
     type: "town",
     name: { de: "Dhulikhel", hu: "Dhulikhel", ro: "Dhulikhel", en: "Dhulikhel" },
-    coordinates: { lat: 27.6167, lng: 85.55 },
+    coords: [85.55, 27.6167],
     description: {
       de: "Dhulikhel ist eine antike Stadt im Distrikt Kavrepalanchok, bekannt für ihren Panoramablick auf den Himalaya und ihre traditionelle Newar-Architektur.",
       hu: "Dhulikhel egy ősi város Kavre körzetben, amely híres a Himalájára nyíló panorámájáról és hagyományos Newar építészetéről.",
@@ -1299,7 +1299,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-jiri-cities-v2",
     type: "town",
     name: { de: "Jiri", hu: "Jiri", ro: "Jiri", en: "Jiri" },
-    coordinates: { lat: 27.6333, lng: 86.2333 },
+    coords: [86.2333, 27.6333],
     description: {
       de: "Jiri wird oft als die 'Schweiz von Nepal' bezeichnet. Die Stadt war der klassische Ausgangspunkt für Expeditionen zum Mount Everest.",
       hu: "Jirit gyakran 'Nepál Svájcaként' emlegetik. A város volt a klasszikus kiindulópontja a Mount Everestre induló expedícióknak.",
@@ -1318,7 +1318,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-besisahar-cities-v2",
     type: "town",
     name: { de: "Besisahar", hu: "Besisahar", ro: "Besisahar", en: "Besisahar" },
-    coordinates: { lat: 28.2333, lng: 84.3667 },
+    coords: [84.3667, 28.2333],
     description: {
       de: "Besisahar ist die Hauptstadt des Distrikts Lamjung. Sie ist weltbekannt als offizieller Startpunkt des Annapurna-Circuit-Treks.",
       hu: "Besisahar Lamjung körzet székhelye. Világszerte az Annapurna-kör túraútvonal hivatalos kiindulópontjaként ismert.",
@@ -1337,7 +1337,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-bhimeshwar-cities-v2",
     type: "town",
     name: { de: "Bhimeshwar", hu: "Bhimeshwar", ro: "Bhimeshwar", en: "Bhimeshwar" },
-    coordinates: { lat: 27.6667, lng: 86.05 },
+    coords: [86.05, 27.6667],
     description: {
       de: "Bhimeshwar, oft als Charikot bezeichnet, ist die Hauptstadt des Distrikts Dolakha. Die Stadt bietet spektakuläre Ausblicke auf den Gipfel des Gauri Sankar.",
       hu: "Bhimeshwar, közismertebb nevén Charikot, Dolakha körzet székhelye. A városból lenyűgöző kilátás nyílik a Gauri Sankar csúcsra.",
@@ -1356,7 +1356,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-namche-bazaar-cities-v2",
     type: "town",
     name: { de: "Namche Bazaar", hu: "Namche Bazaar", ro: "Namche Bazaar", en: "Namche Bazaar" },
-    coordinates: { lat: 27.8, lng: 86.7167 },
+    coords: [86.7167, 27.8],
     description: {
       de: "Namche Bazaar ist das inoffizielle Zentrum der Everest-Region. Die hufeisenförmige Stadt ist ein wichtiger Akklimatisierungsstopp für Bergsteiger.",
       hu: "Namche Bazaar az Everest-régió nem hivatalos központja. A patkó alakú város fontos akklimatizációs állomás a hegymászók számára.",
@@ -1375,7 +1375,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-lukla-cities-v2",
     type: "town",
     name: { de: "Lukla", hu: "Lukla", ro: "Lukla", en: "Lukla" },
-    coordinates: { lat: 27.6833, lng: 86.7333 },
+    coords: [86.7333, 27.6833],
     description: {
       de: "Lukla ist eine kleine Stadt im Distrikt Solukhumbu, die als Startpunkt für die meisten Everest-Expeditionen und Trekkingtouren dient.",
       hu: "Lukla egy kis város Solukhumbu körzetben, amely a legtöbb Everest-expedíció és túra kiindulópontjaként szolgál.",
@@ -1394,7 +1394,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-jomsom-cities-v2",
     type: "town",
     name: { de: "Jomsom", hu: "Jomsom", ro: "Jomsom", en: "Jomsom" },
-    coordinates: { lat: 28.7833, lng: 83.7333 },
+    coords: [83.7333, 28.7833],
     description: {
       de: "Jomsom ist das Verwaltungszentrum des Distrikts Mustang. Die Stadt liegt im tiefen Tal des Kali Gandaki zwischen den Bergriesen Dhaulagiri und Annapurna.",
       hu: "Jomsom Mustang körzet közigazgatási központja. A város a Kali Gandaki mély völgyében fekszik a Dhaulagiri és az Annapurna között.",
@@ -1413,7 +1413,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-khandbari-cities-v2",
     type: "town",
     name: { de: "Khandbari", hu: "Khandbari", ro: "Khandbari", en: "Khandbari" },
-    coordinates: { lat: 27.3736, lng: 87.2039 },
+    coords: [87.2039, 27.3736],
     description: {
       de: "Khandbari ist die Hauptstadt des Distrikts Sankhuwasabha. Sie dient als wichtigster Ausgangspunkt für Expeditionen zum Makalu, dem fünfthöchsten Berg.",
       hu: "Khandbari Sankhuwasabha körzet székhelye. Ez a fő kiindulópont a világ ötödik legmagasabb csúcsára, a Makalura induló expedíciókhoz.",
@@ -1432,7 +1432,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-dipayal-silgadhi-cities-v2",
     type: "town",
     name: { de: "Dipayal Silgadhi", hu: "Dipayal Silgadhi", ro: "Dipayal Silgadhi", en: "Dipayal Silgadhi" },
-    coordinates: { lat: 29.2667, lng: 80.9333 },
+    coords: [80.9333, 29.2667],
     description: {
       de: "Dipayal Silgadhi ist das Verwaltungszentrum des Distrikts Doti. Die Stadt liegt am Seti-Fluss und ist ein wichtiges Tor zur Khaptad-Hochebene.",
       hu: "Dipayal Silgadhi Doti körzet közigazgatási központja. A Seti-folyó partján fekvő város a Khaptad-fennsík fontos kapuja.",
@@ -1451,7 +1451,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-amargadhi-cities-v2",
     type: "town",
     name: { de: "Amargadhi", hu: "Amargadhi", ro: "Amargadhi", en: "Amargadhi" },
-    coordinates: { lat: 29.3167, lng: 80.5833 },
+    coords: [80.5833, 29.3167],
     description: {
       de: "Amargadhi ist die Hauptstadt des Distrikts Dadeldhura. Die Stadt ist nach dem nepalesischen Nationalhelden Amar Singh Thapa benannt.",
       hu: "Amargadhi Dadeldhura körzet székhelye. A várost Nepál nemzeti hőséről, Amar Singh Thapáról nevezték el.",
@@ -1470,7 +1470,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-narayan-cities-v2",
     type: "town",
     name: { de: "Narayan", hu: "Narayan", ro: "Narayan", en: "Narayan" },
-    coordinates: { lat: 28.8411, lng: 81.7083 },
+    coords: [81.7083, 28.8411],
     description: {
       de: "Narayan, oft einfach Dailekh genannt, ist die Hauptstadt des gleichnamigen Distrikts. Die Stadt ist bekannt für ihre antiken Steinstelen und Inschriften.",
       hu: "Narayan, közismertebb nevén Dailekh, az azonos nevű körzet székhelye. A város ősi kőoszlopairól és feliratairól híres.",
@@ -1489,7 +1489,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-birendranagar-cities-v2",
     type: "city",
     name: { de: "Birendranagar", hu: "Birendranagar", ro: "Birendranagar", en: "Birendranagar" },
-    coordinates: { lat: 28.5939, lng: 81.6331 },
+    coords: [81.6331, 28.5939],
     description: {
       de: "Birendranagar ist die Hauptstadt der Provinz Karnali im Surkhet-Tal. Die Stadt ist eine der ersten geplanten Städte Nepals.",
       hu: "Birendranagar a Karnali tartomány székhelye a Surkhet-völgyben. Ez az egyik első tervezett város Nepálban.",
@@ -1508,7 +1508,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-putalibazar-cities-v2",
     type: "town",
     name: { de: "Putalibazar", hu: "Putalibazar", ro: "Putalibazar", en: "Putalibazar" },
-    coordinates: { lat: 28.1, lng: 83.8667 },
+    coords: [83.8667, 28.1],
     description: {
       de: "Putalibazar ist das Verwaltungszentrum des Distrikts Syangja. Die Stadt liegt im hügeligen Vorland des Himalaya an der Straße nach Pokhara.",
       hu: "Putalibazar Syangja körzet közigazgatási központja. A város a Himalája dombvidékén fekszik, a Pokhara felé vezető út mentén.",
@@ -1527,7 +1527,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-kushma-cities-v2",
     type: "town",
     name: { de: "Kushma", hu: "Kushma", ro: "Kushma", en: "Kushma" },
-    coordinates: { lat: 28.2167, lng: 83.6833 },
+    coords: [83.6833, 28.2167],
     description: {
       de: "Kushma ist die Hauptstadt des Distrikts Parbat. Die Stadt ist berühmt für einige der weltweit höchsten und längsten Hängebrücken.",
       hu: "Kushma Parbat körzet székhelye. A város a világ legmagasabb és leghosszabb függőhídjairól híres.",
@@ -1546,7 +1546,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-kamalamai-cities-v2",
     type: "town",
     name: { de: "Kamalamai", hu: "Kamalamai", ro: "Kamalamai", en: "Kamalamai" },
-    coordinates: { lat: 27.2167, lng: 85.9167 },
+    coords: [85.9167, 27.2167],
     description: {
       de: "Kamalamai, bekannt als Sindhulimadi, ist die Hauptstadt des Distrikts Sindhuli. Die Stadt liegt im fruchtbaren Tal am Fuße des Mahabharat-Gebirges.",
       hu: "Kamalamai, közismertebb nevén Sindhulimadi, Sindhuli körzet székhelye. A város a Mahabharat-hegység lábánál fekvő termékeny völgyben található.",
@@ -1565,7 +1565,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-kawasoti-cities-v2",
     type: "city",
     name: { de: "Kawasoti", hu: "Kawasoti", ro: "Kawasoti", en: "Kawasoti" },
-    coordinates: { lat: 27.6433, lng: 84.1261 },
+    coords: [84.1261, 27.6433],
     description: {
       de: "Kawasoti ist die Hauptstadt des Distrikts Nawalpur. Die Stadt liegt im Terai-Tiefland und ist ein Tor zum Chitwan-Nationalpark.",
       hu: "Kawasoti Nawalpur körzet székhelye. A Terai-alföldön fekvő város a Chitwan Nemzeti Park egyik fontos kapuja.",
@@ -1584,7 +1584,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-gaushala-cities-v2",
     type: "town",
     name: { de: "Gaushala", hu: "Gaushala", ro: "Gaushala", en: "Gaushala" },
-    coordinates: { lat: 26.8914, lng: 85.8153 },
+    coords: [85.8153, 26.8914],
     description: {
       de: "Gaushala ist eine Gemeinde im Distrikt Mahottari im Süden Nepals. Sie ist ein landwirtschaftliches Zentrum in der fruchtbaren Terai-Region.",
       hu: "Gaushala Mahottari körzet egyik városa Nepál déli részén. Fontos mezőgazdasági központ a termékeny Terai-régióban.",
@@ -1603,7 +1603,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-bardaghat-cities-v2",
     type: "city",
     name: { de: "Bardaghat", hu: "Bardaghat", ro: "Bardaghat", en: "Bardaghat" },
-    coordinates: { lat: 27.5583, lng: 83.8247 },
+    coords: [83.8247, 27.5583],
     description: {
       de: "Bardaghat ist eine Industriestadt im Distrikt Nawalparasi West. Sie liegt am Fuße der Daunne-Hügel direkt am Mahendra Highway.",
       hu: "Bardaghat egy ipari város Nyugat-Nawalparasi körzetben. A Daunne-dombok lábánál fekszik a Mahendra főútvonal mentén.",
@@ -1622,7 +1622,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-sunwal-cities-v2",
     type: "city",
     name: { de: "Sunwal", hu: "Sunwal", ro: "Sunwal", en: "Sunwal" },
-    coordinates: { lat: 27.6111, lng: 83.6744 },
+    coords: [83.6744, 27.6111],
     description: {
       de: "Sunwal ist eine wachsende Stadt im Distrikt Nawalparasi West. Sie ist bekannt für ihre strategische Lage zwischen Butwal und Parasi.",
       hu: "Sunwal egy fejlődő város Nyugat-Nawalparasi körzetben. Butwal és Parasi közötti stratégiai elhelyezkedéséről ismert.",
@@ -1641,7 +1641,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-belauri-cities-v2",
     type: "town",
     name: { de: "Belauri", hu: "Belauri", ro: "Belauri", en: "Belauri" },
-    coordinates: { lat: 28.6606, lng: 80.3456 },
+    coords: [80.3456, 28.6606],
     description: {
       de: "Belauri ist eine Grenzstadt im Distrikt Kanchanpur im äußersten Westen Nepals. Sie ist ein wichtiger Handelsplatz für den grenzüberschreitenden Verkehr.",
       hu: "Belauri egy határváros Kanchanpur körzetben, Nepál legnyugatibb részén. Fontos kereskedelmi központ a határon átnyúló forgalom számára.",
@@ -1660,7 +1660,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-bedkot-cities-v2",
     type: "town",
     name: { de: "Bedkot", hu: "Bedkot", ro: "Bedkot", en: "Bedkot" },
-    coordinates: { lat: 28.9833, lng: 80.3167 },
+    coords: [80.3167, 28.9833],
     description: {
       de: "Bedkot ist eine Gemeinde im Distrikt Kanchanpur, bekannt für den gleichnamigen malerischen See am Fuße der Churia-Hügel.",
       hu: "Bedkot Kanchanpur körzet egyik városa, amely a Churia-dombok lábánál fekvő, azonos nevű festői taváról híres.",
@@ -1679,7 +1679,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-punarwas-cities-v2",
     type: "town",
     name: { de: "Punarwas", hu: "Punarwas", ro: "Punarwas", en: "Punarwas" },
-    coordinates: { lat: 28.6167, lng: 80.5 },
+    coords: [80.5, 28.6167],
     description: {
       de: "Punarwas ist eine Gemeinde im Distrikt Kanchanpur. Die Stadt wurde ursprünglich als Siedlungsprojekt für rückkehrende Nepalesen gegründet.",
       hu: "Punarwas Kanchanpur körzet egyik városa. Eredetileg a hazatérő nepáliak számára létrehozott letelepítési projektként indult.",
@@ -1698,7 +1698,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "nepal-bandipur-cities-v2",
     type: "town",
     name: { de: "Bandipur", hu: "Bandipur", ro: "Bandipur", en: "Bandipur" },
-    coordinates: { lat: 27.9333, lng: 84.4167 },
+    coords: [84.4167, 27.9333],
     description: {
       de: "Bandipur ist eine charmante Bergstadt im Distrikt Tanahu, bekannt für ihre gut erhaltene Newar-Architektur und ihre autofreie Hauptstraße.",
       hu: "Bandipur egy bájos hegyi város Tanahu körzetben, amely kiválóan megőrzött Newar építészetéről és autómentes főutcájáról híres.",

@@ -1046,7 +1046,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-palacio-de-lahane-history-v2",
     type: "palace",
     name: { de: "Palácio de Lahane", hu: "Lahane-palota", ro: "Palácio de Lahane", en: "Palácio de Lahane" },
-    coordinates: { lat: -8.581, lng: 125.592 },
+    coords: [125.592, -8.581],
     description: {
       de: "Ehemalige Sommerresidenz des portugiesischen Gouverneurs in den Hügeln südlich von Dili. Das Gebäude stammt aus der Kolonialzeit.",
       hu: "A portugál kormányzó egykori nyári rezidenciája Dili déli dombjai között. Az épület a gyarmati korszakból származik.",
@@ -1065,7 +1065,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-ai-pelo-prison-history-v2",
     type: "ruins",
     name: { de: "Gefängnis von Ai Pelo", hu: "Ai Pelo börtön", ro: "Închisoarea Ai Pelo", en: "Ai Pelo Prison" },
-    coordinates: { lat: -8.567, lng: 125.405 },
+    coords: [125.405, -8.567],
     description: {
       de: "Ruinen eines portugiesischen Kolonialgefängnisses an der Küste von Liquiça. Es wurde im späten 19. Jahrhundert errichtet.",
       hu: "Egy portugál gyarmati börtön romjai Liquiça partjainál. A 19. század végén épült az elítéltek fogva tartására.",
@@ -1084,7 +1084,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-maubara-fort-history-v2",
     type: "castle",
     name: { de: "Festung von Maubara", hu: "Maubara erőd", ro: "Fortăreața Maubara", en: "Maubara Fort" },
-    coordinates: { lat: -8.613, lng: 125.205 },
+    coords: [125.205, -8.613],
     description: {
       de: "Historische Festung, die ursprünglich von den Niederländern im 17. Jahrhundert erbaut wurde. Später wurde sie an Portugal übergeben.",
       hu: "Történelmi erőd, amelyet eredetileg a hollandok építettek a 17. században. Később Portugáliának adták át.",
@@ -1103,7 +1103,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-lene-hara-cave-history-v2",
     type: "ruins",
     name: { de: "Lene-Hara-Höhle", hu: "Lene Hara-barlang", ro: "Peștera Lene Hara", en: "Lene Hara Cave" },
-    coordinates: { lat: -8.404, lng: 127.291 },
+    coords: [127.291, -8.404],
     description: {
       de: "Bedeutende archäologische Stätte mit Felsmalereien, die bis zu 30.000 Jahre alt sind. Sie liegt im Osten von Timor.",
       hu: "Jelentős régészeti lelőhely sziklarajzokkal, amelyek akár 30 000 évesek is lehetnek. Kelet-Timor keleti végén található.",
@@ -1122,7 +1122,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-ili-kere-kere-history-v2",
     type: "ruins",
     name: { de: "Ili Kere Kere", hu: "Ili Kere Kere", ro: "Ili Kere Kere", en: "Ili Kere Kere" },
-    coordinates: { lat: -8.406, lng: 127.279 },
+    coords: [127.279, -8.406],
     description: {
       de: "Ein Überhang mit prähistorischen Felsmalereien nahe Tutuala. Die Zeichnungen zeigen Boote, Tiere und menschliche Figuren.",
       hu: "Egy sziklaeresz prehisztorikus sziklarajzokkal Tutuala közelében. A rajzok hajókat, állatokat és emberi alakokat ábrázolnak.",
@@ -1141,7 +1141,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-ruinas-de-same-history-v2",
     type: "ruins",
     name: { de: "Ruinen des alten Same", hu: "Régi Same romjai", ro: "Ruinele vechiului Same", en: "Ruins of Old Same" },
-    coordinates: { lat: -9.001, lng: 125.651 },
+    coords: [125.651, -9.001],
     description: {
       de: "Überreste des ursprünglichen Stadtzentrums von Same, das während der indonesischen Besatzung zerstört wurde.",
       hu: "Same eredeti városközpontjának maradványai, amely az indonéz megszállás idején pusztult el.",
@@ -1160,7 +1160,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-batugade-fort-history-v2",
     type: "castle",
     name: { de: "Festung von Batugade", hu: "Batugade erőd", ro: "Fortăreața Batugade", en: "Batugade Fort" },
-    coordinates: { lat: -8.945, lng: 124.935 },
+    coords: [124.935, -8.945],
     description: {
       de: "Eine portugiesische Grenzfestung nahe der Grenze zu West-Timor. Sie diente der Überwachung des Handels und des Militärs.",
       hu: "Egy portugál határerőd Nyugat-Timor határának közelében. A kereskedelem és a katonaság ellenőrzésére szolgált.",
@@ -1179,7 +1179,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-palacio-do-administrador-oecusse-history-v2",
     type: "palace",
     name: { de: "Verwaltungspalast von Oecusse", hu: "Oecusse közigazgatási palotája", ro: "Palatul Administrativ din Oecusse", en: "Administrative Palace of Oecusse" },
-    coordinates: { lat: -9.201, lng: 124.368 },
+    coords: [124.368, -9.201],
     description: {
       de: "Das repräsentative Verwaltungsgebäude in Pante Macassar aus der späten portugiesischen Ära.",
       hu: "Pante Macassar reprezentatív közigazgatási épülete a késői portugál korszakból.",
@@ -1198,7 +1198,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-liquica-church-massacre-site-history-v2",
     type: "monument",
     name: { de: "Kirche von San Juan de Brito", hu: "San Juan de Brito-templom", ro: "Biserica San Juan de Brito", en: "Church of San Juan de Brito" },
-    coordinates: { lat: -8.591, lng: 125.328 },
+    coords: [125.328, -8.591],
     description: {
       de: "Schauplatz des Massakers von Liquiça im April 1999. Es war einer der ersten schweren Vorfälle vor dem Referendum.",
       hu: "Az 1999. áprilisi liquiçái mészárlás helyszíne. Ez volt az egyik első súlyos incidens a népszavazás előtt.",
@@ -1217,7 +1217,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-monumento-aos-herois-metinaro-history-v2",
     type: "monument",
     name: { de: "Heldenfriedhof von Metinaro", hu: "Metinarói hősi temető", ro: "Cimitirul Eroilor din Metinaro", en: "Metinaro Heroes Cemetery" },
-    coordinates: { lat: -8.528, lng: 125.751 },
+    coords: [125.751, -8.528],
     description: {
       de: "Nationaler Friedhof für die gefallenen Soldaten des Befreiungskampfes von Timor-Leste in Metinaro.",
       hu: "Kelet-Timor felszabadítási harcában elesett katonák nemzeti temetője Metinaróban.",
@@ -1236,7 +1236,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-old-baucau-prison-history-v2",
     type: "ruins",
     name: { de: "Altes Gefängnis von Baucau", hu: "Baucaui régi börtön", ro: "Vechea închisoare din Baucau", en: "Old Baucau Prison" },
-    coordinates: { lat: -8.463, lng: 126.452 },
+    coords: [126.452, -8.463],
     description: {
       de: "Historische Gefängnisanlage in Baucau aus der Kolonialzeit, bekannt für ihre Architektur und Geschichte.",
       hu: "Történelmi börtönkomplexum Baucauban a gyarmati időkből, építészetéről és múltjáról ismert.",
@@ -1255,7 +1255,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-venilale-school-colonial-history-v2",
     type: "ruins",
     name: { de: "Kolonialschule von Venilale", hu: "Venilalei gyarmati iskola", ro: "Școala colonială din Venilale", en: "Venilale Colonial School" },
-    coordinates: { lat: -8.643, lng: 126.379 },
+    coords: [126.379, -8.643],
     description: {
       de: "Eines der besterhaltenen kolonialen Schulgebäude in Venilale, erbaut in den 1930er Jahren.",
       hu: "Venilale egyik legjobb állapotban megmaradt gyarmati iskolaépülete, az 1930-as években épült.",
@@ -1274,7 +1274,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-laleia-colonial-church-history-v2",
     type: "cathedral",
     name: { de: "Kirche Unserer Lieben Frau vom Sieg", hu: "Győzelmes Boldogasszony-templom", ro: "Biserica Maica Domnului a Victoriei", en: "Church of Our Lady of Victory" },
-    coordinates: { lat: -8.535, lng: 126.162 },
+    coords: [126.162, -8.535],
     description: {
       de: "Prachtvolle katholische Kirche in Laleia, die für ihre auffällige Architektur und rote Farbe bekannt ist.",
       hu: "Pompás katolikus templom Laleiában, amely feltűnő építészetéről és piros színéről ismert.",
@@ -1293,7 +1293,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-marobo-colonial-baths-history-v2",
     type: "ruins",
     name: { de: "Kolonialbad von Marobo", hu: "Marobói gyarmati fürdők", ro: "Băile coloniale din Marobo", en: "Marobo Colonial Baths" },
-    coordinates: { lat: -8.974, lng: 125.318 },
+    coords: [125.318, -8.974],
     description: {
       de: "Historische Thermalbäder aus der portugiesischen Ära, genutzt als Kurort für Kolonialbeamte.",
       hu: "Történelmi termálfürdők a portugál korszakból, amelyeket a gyarmati tisztviselők gyógyhelyként használtak.",
@@ -1312,7 +1312,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-fatubessi-coffee-ruins-history-v2",
     type: "ruins",
     name: { de: "Kaffee-Ruinen von Fatubessi", hu: "Fatubessi kávéromok", ro: "Ruinele de cafea din Fatubessi", en: "Fatubessi Coffee Ruins" },
-    coordinates: { lat: -8.749, lng: 125.328 },
+    coords: [125.328, -8.749],
     description: {
       de: "Überreste einer großen Kaffeeverarbeitungsanlage und Verwaltung aus der Kolonialzeit in Ermera.",
       hu: "Egy nagy gyarmati kávéfeldolgozó üzem és közigazgatási központ maradványai Ermerában.",
@@ -1331,7 +1331,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-soibada-old-mission-history-v2",
     type: "church",
     name: { de: "Alte Mission von Soibada", hu: "Soibadai régi misszió", ro: "Vechea misiune din Soibada", en: "Soibada Old Mission" },
-    coordinates: { lat: -8.865, lng: 125.942 },
+    coords: [125.942, -8.865],
     description: {
       de: "Historisches Zentrum der katholischen Bildung in Timor-Leste, gegründet im frühen 20. Jahrhundert.",
       hu: "Kelet-Timor katolikus oktatásának történelmi központja, a 20. század elején alapították.",
@@ -1350,7 +1350,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-lore-colonial-wharf-history-v2",
     type: "ruins",
     name: { de: "Kolonialkai von Lore", hu: "Loréi gyarmati móló", ro: "Debarcaderul colonial din Lore", en: "Lore Colonial Wharf" },
-    coordinates: { lat: -8.653, lng: 127.021 },
+    coords: [127.021, -8.653],
     description: {
       de: "Ruinen eines Hafenkais an der Südküste, der einst dem Export von Hartholz und Sandelholz diente.",
       hu: "Egy kikötőmóló romjai a déli parton, amely egykor keményfa és szantálfa exportjára szolgált.",
@@ -1369,7 +1369,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-uatucarbau-wwii-shelters-history-v2",
     type: "ruins",
     name: { de: "WWII-Unterstände von Uatucarbau", hu: "Uatucarbaui második világháborús óvóhelyek", ro: "Adăposturile WWII din Uatucarbau", en: "Uatucarbau WWII Shelters" },
-    coordinates: { lat: -8.847, lng: 126.754 },
+    coords: [126.754, -8.847],
     description: {
       de: "Von japanischen Truppen während des Zweiten Weltkriegs genutzte Tunnel und Verteidigungsanlagen.",
       hu: "A japán csapatok által a második világháború alatt használt alagutak és védművek.",
@@ -1388,7 +1388,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-alas-historic-mission-history-v2",
     type: "church",
     name: { de: "Historische Mission von Alas", hu: "Alasi történelmi misszió", ro: "Misiunea istorică din Alas", en: "Alas Historic Mission" },
-    coordinates: { lat: -9.022, lng: 125.795 },
+    coords: [125.795, -9.022],
     description: {
       de: "Eine abgelegene katholische Mission, die eine Schlüsselrolle bei der Evangelisierung des Südens spielte.",
       hu: "Egy távoli katolikus misszió, amely kulcsszerepet játszott a déli területek hittérítésében.",
@@ -1407,7 +1407,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-barique-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Barique", hu: "Barique romjai", ro: "Ruinele din Barique", en: "Barique Ruins" },
-    coordinates: { lat: -8.835, lng: 126.068 },
+    coords: [126.068, -8.835],
     description: {
       de: "Verlassene Steingebäude einer alten Missionsstation und Verwaltung tief im Landesinneren.",
       hu: "Egy régi missziós állomás és közigazgatási központ elhagyatott kőépületei a szárazföld belsejében.",
@@ -1426,7 +1426,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-balibo-house-memorial-history-v2",
     type: "museum",
     name: { de: "Haus der Balibo Five", hu: "Balibo Five-ház", ro: "Casa Balibo Five", en: "Balibo Five House" },
-    coordinates: { lat: -8.969, lng: 125.041 },
+    coords: [125.041, -8.969],
     description: {
       de: "Das Haus, in dem fünf ausländische Journalisten 1975 während der indonesischen Invasion getötet wurden.",
       hu: "A ház, ahol öt külföldi újságírót meggyilkoltak az 1975-ös indonéz invázió során.",
@@ -1445,7 +1445,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-dom-boaventura-statue-history-v2",
     type: "monument",
     name: { de: "Statue von Dom Boaventura", hu: "Dom Boaventura-szobor", ro: "Statuia lui Dom Boaventura", en: "Statue of Dom Boaventura" },
-    coordinates: { lat: -8.985, lng: 125.508 },
+    coords: [125.508, -8.985],
     description: {
       de: "Denkmal für den Liurai von Manufahi, der den größten Aufstand gegen die portugiesische Herrschaft anführte.",
       hu: "Emlékmű Manufahi liurai-ának (királyának), aki a legnagyobb lázadást vezette a portugál uralom ellen.",
@@ -1464,7 +1464,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-fuiloro-agricultural-school-history-v2",
     type: "university",
     name: { de: "Landwirtschaftsschule Fuiloro", hu: "Fuilorói mezőgazdasági iskola", ro: "Școala agricolă Fuiloro", en: "Fuiloro Agricultural School" },
-    coordinates: { lat: -8.505, lng: 126.985 },
+    coords: [126.985, -8.505],
     description: {
       de: "Eine bedeutende Bildungseinrichtung der Salesianer, die für ihre historische Architektur bekannt ist.",
       hu: "A szalézi rend jelentős oktatási intézménye, amely történelmi építészetéről ismert.",
@@ -1483,7 +1483,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-quelicai-colonial-post-history-v2",
     type: "ruins",
     name: { de: "Kolonialposten Quelicai", hu: "Quelicai gyarmati őrspont", ro: "Postul colonial din Quelicai", en: "Quelicai Colonial Post" },
-    coordinates: { lat: -8.601, lng: 126.558 },
+    coords: [126.558, -8.601],
     description: {
       de: "Historisches Verwaltungsgebäude am Fuße des Berges Matebian, einst Sitz der lokalen Kolonialverwaltung.",
       hu: "Történelmi közigazgatási épület a Matebian-hegy lábánál, egykor a helyi gyarmati adminisztráció székhelye.",
@@ -1502,7 +1502,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-laga-old-bridge-history-v2",
     type: "bridge",
     name: { de: "Alte Brücke von Laga", hu: "Lagai régi híd", ro: "Podul vechi din Laga", en: "Laga Old Bridge" },
-    coordinates: { lat: -8.473, lng: 126.598 },
+    coords: [126.598, -8.473],
     description: {
       de: "Eine markante Stahl- und Betonbrücke aus der Mitte des 20. Jahrhunderts, ein Wahrzeichen der Küstenstraße.",
       hu: "Jellegzetes acél- és betonhíd a 20. század közepéről, a tengerparti út egyik jelképe.",
@@ -1521,7 +1521,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-com-fort-ruins-history-v2",
     type: "ruins",
     name: { de: "Festungsruinen von Com", hu: "Comi erődomok", ro: "Ruinele fortăreței din Com", en: "Com Fort Ruins" },
-    coordinates: { lat: -8.361, lng: 127.054 },
+    coords: [127.054, -8.361],
     description: {
       de: "Überreste kleinerer Küstenbefestigungen in der Nähe des Hafens von Com im äußersten Osten.",
       hu: "Kisebb tengerparti erődítmények maradványai Com kikötőjének közelében, a távoli keleten.",
@@ -1540,7 +1540,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-nitibe-throne-site-history-v2",
     type: "landmark",
     name: { de: "Thronsitz von Nitibe", hu: "Nitibei trónszék", ro: "Tronul din Nitibe", en: "Nitibe Throne Site" },
-    coordinates: { lat: -9.314, lng: 124.162 },
+    coords: [124.162, -9.314],
     description: {
       de: "Traditioneller Zeremonienort in Oecusse, der mit der Geschichte der Liurai-Könige verbunden ist.",
       hu: "Hagyományos ceremoniális helyszín Oecusséban, amely a Liurai királyok történelméhez kötődik.",
@@ -1559,7 +1559,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-laclubar-liurai-seat-history-v2",
     type: "village",
     name: { de: "Liurai-Sitz von Laclubar", hu: "Laclubari Liurai-székhely", ro: "Sediul Liurai din Laclubar", en: "Laclubar Liurai Seat" },
-    coordinates: { lat: -8.748, lng: 125.912 },
+    coords: [125.912, -8.748],
     description: {
       de: "Das historische Machtzentrum der lokalen Herrscher in den Bergen von Laclubar.",
       hu: "A helyi uralkodók történelmi hatalmi központja a Laclubar-hegységben.",
@@ -1578,7 +1578,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-aileu-1942-memorial-history-v2",
     type: "monument",
     name: { de: "1942-Mahnmal von Aileu", hu: "Aileui 1942-es emlékmű", ro: "Memorialul 1942 din Aileu", en: "Aileu 1942 Memorial" },
-    coordinates: { lat: -8.729, lng: 125.568 },
+    coords: [125.568, -8.729],
     description: {
       de: "Denkmal zur Erinnerung an die Opfer der japanischen Besatzung und des Widerstands im Jahr 1942.",
       hu: "Emlékmű a japán megszállás és az 1942-es ellenállás áldozatainak emlékére.",
@@ -1597,7 +1597,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-maubara-colonial-market-history-v2",
     type: "landmark",
     name: { de: "Kolonialmarkt von Maubara", hu: "Maubarai gyarmati piac", ro: "Piața colonială din Maubara", en: "Maubara Colonial Market" },
-    coordinates: { lat: -8.614, lng: 125.207 },
+    coords: [125.207, -8.614],
     description: {
       de: "Ein historisches Marktgebäude in Maubara, bekannt für seine dekorative portugiesische Architektur.",
       hu: "Egy történelmi piacépület Maubarában, amely dekoratív portugál építészetéről ismert.",
@@ -1616,7 +1616,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-fohorem-colonial-church-history-v2",
     type: "church",
     name: { de: "Kirche von Fohorem", hu: "Fohoremi templom", ro: "Biserica din Fohorem", en: "Fohorem Church" },
-    coordinates: { lat: -9.281, lng: 125.088 },
+    coords: [125.088, -9.281],
     description: {
       de: "Eine beeindruckende katholische Kirche im Hochland von Cova Lima aus der Kolonialzeit.",
       hu: "Egy lenyűgöző katolikus templom Cova Lima felföldjén a gyarmati időkből.",
@@ -1635,7 +1635,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-oecusse-cutete-wwii-history-v2",
     type: "battlefield",
     name: { de: "Cutete-Hügel WWII-Stätte", hu: "Cutete-dombi második világháborús helyszín", ro: "Situl WWII de pe dealul Cutete", en: "Cutete Hill WWII Site" },
-    coordinates: { lat: -9.333, lng: 124.285 },
+    coords: [124.285, -9.333],
     description: {
       de: "Strategischer Hügel in Oecusse, der im Zweiten Weltkrieg von japanischen Truppen als Aussichtspunkt genutzt wurde.",
       hu: "Stratégiai domb Oecusséban, amelyet a japán csapatok kilátóként használtak a második világháborúban.",
@@ -1654,7 +1654,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-monumento-integracao-history-v2",
     type: "monument",
     name: { de: "Integrationsdenkmal", hu: "Integrációs emlékmű", ro: "Monumentul Integrării", en: "Integration Monument" },
-    coordinates: { lat: -8.552, lng: 125.578 },
+    coords: [125.578, -8.552],
     description: {
       de: "Ein von Indonesien errichtetes Denkmal, das die 'Befreiung' von der Kolonialherrschaft darstellen sollte.",
       hu: "Egy Indonézia által emelt emlékmű, amely a gyarmati uralom alóli 'felszabadítást' volt hivatott ábrázolni.",
@@ -1673,7 +1673,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-xanana-capture-house-history-v2",
     type: "landmark",
     name: { de: "Haus der Gefangennahme von Xanana", hu: "Xanana elfogásának háza", ro: "Casa capturării lui Xanana", en: "Xanana's Capture House" },
-    coordinates: { lat: -8.568, lng: 125.602 },
+    coords: [125.602, -8.568],
     description: {
       de: "Das Haus in Dili, in dem der Widerstandsführer Xanana Gusmão 1992 von indonesischen Truppen gefasst wurde.",
       hu: "A ház Diliben, ahol Xanana Gusmão ellenállási vezetőt 1992-ben elfogták az indonéz csapatok.",
@@ -1692,7 +1692,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-ossu-administrative-ruins-history-v2",
     type: "ruins",
     name: { de: "Kolonialverwaltung Ossu", hu: "Ossui gyarmati közigazgatás", ro: "Administrația colonială din Ossu", en: "Ossu Administrative Ruins" },
-    coordinates: { lat: -8.738, lng: 126.375 },
+    coords: [126.375, -8.738],
     description: {
       de: "Überreste des ehemaligen kolonialen Verwaltungszentrums in der Bergstadt Ossu.",
       hu: "Az egykori gyarmati közigazgatási központ maradványai Ossu hegyi városában.",
@@ -1711,7 +1711,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-bidau-portuguese-quarter-history-v2",
     type: "landmark",
     name: { de: "Bidau Portugiesisches Viertel", hu: "Bidau portugál negyed", ro: "Cartierul portughez Bidau", en: "Bidau Portuguese Quarter" },
-    coordinates: { lat: -8.551, lng: 125.589 },
+    coords: [125.589, -8.551],
     description: {
       de: "Eines der ältesten Viertel von Dili, geprägt von kolonialem Erbe und alten portugiesischen Familienhäusern.",
       hu: "Dili egyik legrégebbi negyede, amelyet a gyarmati örökség és régi portugál családi házak jellemezöznek.",
@@ -1730,7 +1730,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-luro-traditional-tombs-history-v2",
     type: "monument",
     name: { de: "Traditionelle Gräber von Luro", hu: "Lurói hagyományos sírok", ro: "Mormintele tradiționale din Luro", en: "Luro Traditional Tombs" },
-    coordinates: { lat: -8.543, lng: 126.832 },
+    coords: [126.832, -8.543],
     description: {
       de: "Große Megalithgräber in der Region Luro, die Zeugnis von alten Begräbnisriten der Fataluku ablegen.",
       hu: "Hatalmas megalit sírok Luro régiójában, amelyek a fataluku nép ősi temetkezési rítusait hirdetik.",
@@ -1749,7 +1749,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-manatuto-portuguese-post-history-v2",
     type: "ruins",
     name: { de: "Portugiesischer Posten Manatuto", hu: "Manatutói portugál őrállomás", ro: "Postul portughez din Manatuto", en: "Manatuto Portuguese Post" },
-    coordinates: { lat: -8.512, lng: 126.012 },
+    coords: [126.012, -8.512],
     description: {
       de: "Historisches Gebäude in Manatuto, das als Postamt und Telegrafenstation während der Kolonialzeit diente.",
       hu: "Történelmi épület Manatutóban, amely posta- és távíróállomásként szolgált a gyarmati időszakban.",
@@ -1768,7 +1768,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-maubisse-old-hospital-history-v2",
     type: "ruins",
     name: { de: "Altes Krankenhaus von Maubisse", hu: "Maubissei régi kórház", ro: "Vechiul spital din Maubisse", en: "Old Maubisse Hospital" },
-    coordinates: { lat: -8.835, lng: 125.598 },
+    coords: [125.598, -8.835],
     description: {
       de: "Ehemaliges Sanatorium und Krankenhaus in der kühlen Bergregion von Maubisse.",
       hu: "Egykori szanatórium és kórház Maubisse hűvös hegyi régiójában.",
@@ -1787,7 +1787,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-liquica-arts-school-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Kunstgewerbeschule", hu: "Iparművészeti iskola romjai", ro: "Ruinele școlii de arte și meserii", en: "Arts and Crafts School Ruins" },
-    coordinates: { lat: -8.589, lng: 125.331 },
+    coords: [125.331, -8.589],
     description: {
       de: "Die Überreste der Ruínas der Escola de Artes e Ofícios in Liquiça, ein Beispiel kolonialer Bildungsarchitektur.",
       hu: "Az Escola de Artes e Ofícios romjai Liquiçában, a gyarmati oktatási építészet egy példája.",
@@ -1806,7 +1806,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-dili-bishopric-archives-history-v2",
     type: "museum",
     name: { de: "Archive des Bistums Dili", hu: "Dili püspökségi levéltár", ro: "Arhivele Episcopiei Dili", en: "Bishopric Archives of Dili" },
-    coordinates: { lat: -8.555, lng: 125.571 },
+    coords: [125.571, -8.555],
     description: {
       de: "Ein historisches Gebäude, das wichtige kirchliche und historische Dokumente aus Jahrhunderten beherbergt.",
       hu: "Történelmi épület, amely évszázadok fontos egyházi és történelmi dokumentumait őrzi.",
@@ -1825,7 +1825,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-lifau-church-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Kirche von Lifau", hu: "Lifaui templomromok", ro: "Ruinele bisericii din Lifau", en: "Lifau Church Ruins" },
-    coordinates: { lat: -9.191, lng: 124.288 },
+    coords: [124.288, -9.191],
     description: {
       de: "Überreste der ersten Steinkirche, die von den Portugiesen in ihrer ersten Siedlung auf Timor errichtet wurde.",
       hu: "Az első kőtemplom maradványai, amelyet a portugálok építettek első timori településükön.",
@@ -1844,7 +1844,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-mundo-perdido-bases-history-v2",
     type: "battlefield",
     name: { de: "Mundo Perdido Widerstandsbasen", hu: "Mundo Perdido ellenállási bázisok", ro: "Bazele rezistenței Mundo Perdido", en: "Mundo Perdido Resistance Bases" },
-    coordinates: { lat: -8.712, lng: 126.335 },
+    coords: [126.335, -8.712],
     description: {
       de: "Strategische Verstecke und Basen der FALINTIL im dichten Dschungel des Mundo Perdido Gebirges.",
       hu: "A FALINTIL stratégiai búvóhelyei és bázisai a Mundo Perdido hegység sűrű dzsungelében.",
@@ -1863,7 +1863,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-gleno-colonial-villas-history-v2",
     type: "landmark",
     name: { de: "Kolonialvillen von Gleno", hu: "Glenói gyarmati villák", ro: "Vilele coloniale din Gleno", en: "Gleno Colonial Villas" },
-    coordinates: { lat: -8.723, lng: 125.438 },
+    coords: [125.438, -8.723],
     description: {
       de: "Mehrere gut erhaltene oder malerisch verfallene Wohnhäuser aus der späten Kolonialzeit in Gleno.",
       hu: "Több jó állapotban megmaradt vagy festőien romos lakóház a késői gyarmati időkből Glenóban.",
@@ -1882,7 +1882,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-seloi-colonial-ruins-history-v2",
     type: "ruins",
     name: { de: "Kolonialruinen von Seloi", hu: "Seloi gyarmati romok", ro: "Ruinele coloniale din Seloi", en: "Seloi Colonial Ruins" },
-    coordinates: { lat: -8.698, lng: 125.535 },
+    coords: [125.535, -8.698],
     description: {
       de: "Die Überreste einer ehemaligen Viehzuchtfarm und Verwaltungseinheit in der Nähe des Seloi-Sees.",
       hu: "Egy egykori állattenyésztő telep és közigazgatási egység maradványai a Seloi-tó közelében.",
@@ -1901,7 +1901,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-fatucama-wwii-bunkers-history-v2",
     type: "battlefield",
     name: { de: "Fatucama WWII-Bunker", hu: "Fatucamai második világháborús bunkerek", ro: "Buncărele WWII din Fatucama", en: "Fatucama WWII Bunkers" },
-    coordinates: { lat: -8.523, lng: 125.609 },
+    coords: [125.609, -8.523],
     description: {
       de: "Versteckte Betonbunker und Kanonenstellungen an der Küste von Fatucama, genutzt während des Zweiten Weltkriegs.",
       hu: "Rejtett betonbunkerek és ágyúállások Fatucama partjainál, amelyeket a második világháború alatt használtak.",
@@ -1920,7 +1920,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-tibar-old-quarantine-station-history-v2",
     type: "ruins",
     name: { de: "Alte Quarantänestation Tibar", hu: "Tibari régi karanténállomás", ro: "Vechea stație de carantină Tibar", en: "Tibar Old Quarantine Station" },
-    coordinates: { lat: -8.575, lng: 125.485 },
+    coords: [125.485, -8.575],
     description: {
       de: "Ruinen einer Station, die zur Untersuchung von Reisenden und Waren im frühen 20. Jahrhundert genutzt wurde.",
       hu: "Egy állomás romjai, amelyet utazók és áruk vizsgálatára használtak a 20. század elején.",
@@ -1939,7 +1939,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     id: "timorleste-metinaro-resistance-shelters-history-v2",
     type: "battlefield",
     name: { de: "Widerstandshütten von Metinaro", hu: "Metinarói ellenállási kunyhók", ro: "Adăposturile rezistenței din Metinaro", en: "Metinaro Resistance Shelters" },
-    coordinates: { lat: -8.545, lng: 125.765 },
+    coords: [125.765, -8.545],
     description: {
       de: "Rekonstruierte oder erhaltene temporäre Unterkünfte der Widerstandskämpfer in den Wäldern bei Metinaro.",
       hu: "Az ellenállási harcosok rekonstruált vagy megmaradt ideiglenes szálláshelyei Metinaro erdőiben.",

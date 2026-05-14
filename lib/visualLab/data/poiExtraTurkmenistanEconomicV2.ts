@@ -646,7 +646,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-shatlyk-gas-field-economic-v2",
     type: "mine",
     name: { de: "Shatlyk-Gasfeld", hu: "Shatlyk-gázmező", ro: "Zăcământul de gaze Shatlyk", en: "Shatlyk Gas Field" },
-    coordinates: { lat: 37.6014, lng: 61.7852 },
+    coords: [61.7852, 37.6014],
     description: {
       de: "Dieses bedeutende Erdgasfeld in der Nähe von Mary ist eine tragende Säule der turkmenischen Energieexporte. Es liefert seit Jahrzehnten Rohstoffe für internationale Pipelines.",
       hu: "Ez a Mary közelében található jelentős földgázmező a türkmén energiaexport egyik alappillére. Évtizedek óta biztosít nyersanyagot a nemzetközi csővezetékek számára.",
@@ -665,7 +665,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-malay-gas-field-economic-v2",
     type: "mine",
     name: { de: "Malay-Gasfeld", hu: "Malay-gázmező", ro: "Zăcământul de gaze Malay", en: "Malay Gas Field" },
-    coordinates: { lat: 38.5833, lng: 64.0833 },
+    coords: [64.0833, 38.5833],
     description: {
       de: "Das Malay-Feld in der Provinz Lebap ist strategisch wichtig für die Gaslieferungen nach China. Eine leistungsstarke Kompressorstation erhöht hier den Exportdruck.",
       hu: "A Lebap tartományban található Malay-mező stratégiai fontosságú a Kínába irányuló gázszállítások szempontjából. Nagy teljesítményű kompresszorállomás üzemel itt.",
@@ -684,7 +684,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-goturdepe-oil-field-economic-v2",
     type: "mine",
     name: { de: "Goturdepe-Olajfeld", hu: "Goturdepe-olajmező", ro: "Zăcământul petrolier Goturdepe", en: "Goturdepe Oil Field" },
-    coordinates: { lat: 39.4667, lng: 53.4167 },
+    coords: [53.4167, 39.4667],
     description: {
       de: "Goturdepe ist eines der ältesten und produktivsten Ölfelder am Kaspischen Meer. Es bildet das Rückgrat der Erdölindustrie in der westlichen Balkanregion.",
       hu: "Goturdepe a Kaszpi-tenger partvidékének egyik legrégebbi és legtermékenyebb olajmezője. A nyugat-balkáni régió kőolajiparának gerincét alkotja.",
@@ -703,7 +703,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-barsagelmes-oil-field-economic-v2",
     type: "mine",
     name: { de: "Barsagelmes-Ölfeld", hu: "Barsagelmes-olajmező", ro: "Zăcământul petrolier Barsagelmes", en: "Barsagelmes Oil Field" },
-    coordinates: { lat: 39.3167, lng: 53.6333 },
+    coords: [53.6333, 39.3167],
     description: {
       de: "Dieses küstennahe Ölfeld ist für seine komplexen geologischen Strukturen bekannt. Es trägt maßgeblich zur Rohölversorgung der Raffinerie in Türkmenbaşy bei.",
       hu: "Ez a partközeli olajmező összetett geológiai szerkezetéről ismert. Jelentősen hozzájárul a türkmenbasi finomító nyersolajellátásához.",
@@ -722,7 +722,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-tejen-urea-plant-economic-v2",
     type: "factory",
     name: { de: "Harnstoffwerk Tejen", hu: "Tejeni karbamidgyár", ro: "Fabrica de uree din Tejen", en: "Tejen Urea Plant" },
-    coordinates: { lat: 37.3667, lng: 60.4833 },
+    coords: [60.4833, 37.3667],
     description: {
       de: "Das Werk in Tejen ist eine der größten Anlagen zur Herstellung von Stickstoffdüngern in Zentralasien. Es nutzt lokales Erdgas als Rohstoff für die Produktion.",
       hu: "A tejeni gyár Közép-Ázsia egyik legnagyobb nitrogénműtrágya-előállító létesítménye. A helyi földgázt használja fel alapanyagként.",
@@ -741,7 +741,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-turkmenabat-chemical-plant-economic-v2",
     type: "factory",
     name: { de: "Chemiewerk Türkmenabat", hu: "Türkménabati vegyiművek", ro: "Combinatul chimic din Türkmenabat", en: "Turkmenabat Chemical Plant" },
-    coordinates: { lat: 39.0667, lng: 63.5333 },
+    coords: [63.5333, 39.0667],
     description: {
       de: "Dieser Industriekomplex in der Provinz Lebap ist auf die Produktion von Phosphatdüngern und Schwefelsäure spezialisiert. Er ist ein zentraler Akteur der Chemiebranche.",
       hu: "Ez a Lebap tartománybeli ipari komplexum foszfátműtrágyák és kénsav gyártására specializálódott. A vegyipar központi szereplője.",
@@ -760,7 +760,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-maryazot-fertilizer-plant-economic-v2",
     type: "factory",
     name: { de: "Düngemittelwerk Maryazot", hu: "Maryazot műtrágyagyár", ro: "Fabrica de îngrășăminte Maryazot", en: "Maryazot Fertilizer Plant" },
-    coordinates: { lat: 37.5833, lng: 61.9167 },
+    coords: [61.9167, 37.5833],
     description: {
       de: "Maryazot ist der führende Produzent von Ammoniumnitrat in Turkmenistan. Das Werk spielt eine entscheidende Rolle für die Fruchtbarkeit der Baumwollfelder des Landes.",
       hu: "A Maryazot Türkmenisztán vezető ammónium-nitrát gyártója. A gyár döntő szerepet játszik az ország gyapotföldjeinek termékenységében.",
@@ -779,7 +779,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-abadan-carpet-factory-economic-v2",
     type: "factory",
     name: { de: "Teppichfabrik Abadan", hu: "Abadani szőnyeggyár", ro: "Fabrica de covoare din Abadan", en: "Abadan Carpet Factory" },
-    coordinates: { lat: 38.0512, lng: 58.2145 },
+    coords: [58.2145, 38.0512],
     description: {
       de: "Diese Fabrik produziert hochwertige turkmenische Teppiche in industriellem Maßstab. Sie verbindet traditionelle Webmuster mit moderner Fertigungstechnik.",
       hu: "Ez a gyár kiváló minőségű türkmén szőnyegeket állít elő ipari méretekben. A hagyományos mintákat ötvözi a modern gyártási technológiával.",
@@ -798,7 +798,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-ruhabat-textile-complex-economic-v2",
     type: "factory",
     name: { de: "Textilkomplex Ruhabat", hu: "Ruhabati textilkomplexum", ro: "Complexul textil din Ruhabat", en: "Ruhabat Textile Complex" },
-    coordinates: { lat: 38.1167, lng: 58.1333 },
+    coords: [58.1333, 38.1167],
     description: {
       de: "Ruhabat ist ein hochmoderner Textilstandort, der Baumwolle direkt aus turkmenischem Anbau verarbeitet. Hier werden hochwertige Garne und Stoffe für den Weltmarkt hergestellt.",
       hu: "Ruhabat egy ultramodern textilipari központ, amely közvetlenül a türkmén gyapotot dolgozza fel. Kiváló minőségű fonalakat és szöveteket gyártanak itt.",
@@ -817,7 +817,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-sarahs-railway-crossing-economic-v2",
     type: "port",
     name: { de: "Bahnhof Sarahs", hu: "Sarahs vasúti határátkelő", ro: "Punctul feroviar de frontieră Sarahs", en: "Sarahs Railway Crossing" },
-    coordinates: { lat: 36.5251, lng: 61.2164 },
+    coords: [61.2164, 36.5251],
     description: {
       de: "Sarahs ist ein wichtiger Eisenbahnknotenpunkt an der Grenze zum Iran. Hier findet der Spurwechsel zwischen dem zentralasiatischen und dem iranischen Netz statt.",
       hu: "Sarahs fontos vasúti csomópont az iráni határon. Itt történik a nyomtávváltás a közép-ázsiai és az iráni vasúthálózat között.",
@@ -836,7 +836,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-ashgabat-airport-economic-v2",
     type: "port",
     name: { de: "Flughafen Aşgabat", hu: "Asgabati nemzetközi repülőtér", ro: "Aeroportul Internațional Așgabat", en: "Ashgabat International Airport" },
-    coordinates: { lat: 37.9867, lng: 58.3611 },
+    coords: [58.3611, 37.9867],
     description: {
       de: "Der Flughafen von Aşgabat ist das wichtigste Luftdrehkreuz des Landes. Mit seinem markanten Falken-Design dient er als zentrales Tor für den internationalen Handel und Personenverkehr.",
       hu: "Az asgabati repülőtér az ország legfontosabb légi csomópontja. Jellegzetes sólyom-alakjával a nemzetközi kereskedelem és forgalom kapuja.",
@@ -855,7 +855,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-zehli-gas-field-economic-v2",
     type: "mine",
     name: { de: "Zehli-Gasfeld", hu: "Zehli-gázmező", ro: "Zăcământul de gaze Zehli", en: "Zehli Gas Field" },
-    coordinates: { lat: 38.8512, lng: 59.5345 },
+    coords: [59.5345, 38.8512],
     description: {
       de: "Das Zehli-Feld ist eine wichtige Erdgasquelle im Herzen der Karakum-Wüste. Es trägt zur stabilen Gasversorgung des heimischen Marktes und des Exports bei.",
       hu: "A Zehli-mező fontos földgázforrás a Karakum-sivatag szívében. Hozzájárul a hazai piac és az export stabil gázellátásához.",
@@ -874,7 +874,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-kirpichli-gas-field-economic-v2",
     type: "mine",
     name: { de: "Kirpichli-Gasfeld", hu: "Kirpichli-gázmező", ro: "Zăcământul de gaze Kirpichli", en: "Kirpichli Gas Field" },
-    coordinates: { lat: 39.5167, lng: 60.1167 },
+    coords: [60.1167, 39.5167],
     description: {
       de: "Kirpichli ist ein ertragreiches Gasfeld im Norden Turkmenistans. Seine Infrastruktur wurde modernisiert, um die Effizienz der Förderung in abgelegenen Gebieten zu steigern.",
       hu: "Kirpichli egy bőséges gázmező Türkmenisztán északi részén. Infrastruktúráját modernizálták a távoli területek kitermelésének javítása érdekében.",
@@ -893,7 +893,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-altyn-asyr-lake-project-economic-v2",
     type: "river",
     name: { de: "Altyn-Asyr-See-Projekt", hu: "Altyn Asyr-tó projekt", ro: "Proiectul Lacului Altyn Asyr", en: "Altyn Asyr Lake Project" },
-    coordinates: { lat: 40.8167, lng: 55.1333 },
+    coords: [55.1333, 40.8167],
     description: {
       de: "Dieses gigantische Bewässerungsprojekt leitet Entwässerungswasser in eine natürliche Senke, um Ackerland zu gewinnen. Es ist ein Schlüsselprojekt für die Landwirtschaft in der Wüste.",
       hu: "Ez a gigantikus öntözési projekt a vízelvezető vizeket egy természetes mélyedésbe tereli új termőföldekért. A sivatagi mezőgazdaság kulcsprojektje.",
@@ -912,7 +912,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-kaka-textile-complex-economic-v2",
     type: "factory",
     name: { de: "Textilkomplex Kaka", hu: "Kaka textilkomplexum", ro: "Complexul textil din Kaka", en: "Kaka Textile Complex" },
-    coordinates: { lat: 37.3512, lng: 59.6145 },
+    coords: [59.6145, 37.3512],
     description: {
       de: "Der Textilkomplex in Kaka ist eine neuere Investition in die wertsteigernde Verarbeitung von Baumwolle. Hier wird der gesamte Prozess vom Spinnen bis zum fertigen Produkt abgedeckt.",
       hu: "A kaka-i textilkomplexum egy újabb beruházás a gyapot feldolgozásába. A teljes folyamatot lefedi a fonástól a késztermékig.",
@@ -931,7 +931,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "turkmenistan-turkmenabat-cotton-gin-economic-v2",
     type: "factory",
     name: { de: "Baumwollentkernung Türkmenabat", hu: "Türkménabati gyapotfeldolgozó", ro: "Fabrica de degrenat bumbac Türkmenabat", en: "Turkmenabat Cotton Ginning Plant" },
-    coordinates: { lat: 39.1124, lng: 63.6145 },
+    coords: [63.6145, 39.1124],
     description: {
       de: "Diese Anlage ist das Herzstück der Baumwollverarbeitung im Osten des Landes. Hier werden die Samen von den Fasern getrennt, bevor die Baumwolle weiterversendet wird.",
       hu: "Ez az üzem a kelet-türkmenisztáni gyapotfeldolgozás központja. Itt választják el a magvakat a szálaktól a további szállítás előtt.",

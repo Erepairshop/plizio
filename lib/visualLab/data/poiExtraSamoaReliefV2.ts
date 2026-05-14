@@ -5,7 +5,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-matavanu-relief-v2",
     type: "landmark",
     name: { de: "Vulkan Matavanu", hu: "Matavanu-vulkán", ro: "Vulcanul Matavanu", en: "Mount Matavanu" },
-    coordinates: { lat: -13.533, lng: -172.367 },
+    coords: [-172.367, -13.533],
     description: {
       de: "Der Matavanu ist ein aktiver Vulkan auf Savai'i, dessen Ausbruch zwischen 1905 und 1911 die umliegende Landschaft massiv veränderte.",
       hu: "A Matavanu egy aktív vulkán Savai'i szigetén, amelynek 1905 és 1911 közötti kitörése hatalmas lávamezőket hozott létre.",
@@ -24,7 +24,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-lanotoo-relief-v2",
     type: "peak",
     name: { de: "Mount Lanoto'o", hu: "Lanoto'o-hegy", ro: "Muntele Lanoto'o", en: "Mount Lanoto'o" },
-    coordinates: { lat: -13.911, lng: -171.834 },
+    coords: [-171.834, -13.911],
     description: {
       de: "Der Mount Lanoto'o beherbergt in seinem Krater den tiefgelegenen Lanoto'o-See, ein international bedeutendes Feuchtgebiet.",
       hu: "A Lanoto'o-hegy kráterében található a Lanoto'o-tó, amely nemzetközileg elismert vizes élőhely és természetvédelmi terület.",
@@ -43,7 +43,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-vaa-o-fonoti-relief-v2",
     type: "peak",
     name: { de: "Mount Vaa-o-Fonoti", hu: "Vaa-o-Fonoti-hegy", ro: "Muntele Vaa-o-Fonoti", en: "Mount Vaa-o-Fonoti" },
-    coordinates: { lat: -13.948, lng: -171.536 },
+    coords: [-171.536, -13.948],
     description: {
       de: "Der Mount Vaa-o-Fonoti ist ein markanter Berggipfel im Osten von Upolu, der das umliegende Küstengebiet überragt.",
       hu: "A Vaa-o-Fonoti-hegy egy jellegzetes hegycsúcs Upolu keleti részén, amely uralja a környező part menti tájat.",
@@ -62,7 +62,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-saleaula-lava-field-relief-v2",
     type: "landmark",
     name: { de: "Saleaula-Lavafelder", hu: "Saleaula lávamező", ro: "Câmpul de lavă Saleaula", en: "Saleaula Lava Field" },
-    coordinates: { lat: -13.447, lng: -172.338 },
+    coords: [-172.338, -13.447],
     description: {
       de: "Die Saleaula-Lavafelder entstanden durch den Ausbruch des Matavanu und begruben mehrere Dörfer unter einer dicken Gesteinsschicht.",
       hu: "A Saleaula lávamezők a Matavanu kitörésekor keletkeztek, több falut is vastag kőzetréteg alá temetve.",
@@ -81,7 +81,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-apolima-crater-relief-v2",
     type: "landmark",
     name: { de: "Apolima-Krater", hu: "Apolima-kráter", ro: "Craterul Apolima", en: "Apolima Crater" },
-    coordinates: { lat: -13.818, lng: -172.152 },
+    coords: [-172.152, -13.818],
     description: {
       de: "Die Insel Apolima besteht aus einem erloschenen Vulkankrater, dessen eine Wand zum Meer hin eingestürzt ist.",
       hu: "Apolima szigete egy kialudt vulkáni kráterből áll, amelynek egyik oldala a tenger felé beomlott.",
@@ -100,7 +100,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-mauga-afi-relief-v2",
     type: "peak",
     name: { de: "Mount Mauga Afi", hu: "Mauga Afi-hegy", ro: "Muntele Mauga Afi", en: "Mount Mauga Afi" },
-    coordinates: { lat: -13.578, lng: -172.502 },
+    coords: [-172.502, -13.578],
     description: {
       de: "Mauga Afi, was 'Feuerberg' bedeutet, ist ein bedeutender Vulkan auf Savai'i, der Anfang des 20. Jahrhunderts ausbrach.",
       hu: "A Mauga Afi, jelentése 'Tűzhegy', egy jelentős vulkán Savai'i szigetén, amely a 20. század elején tört ki.",
@@ -119,7 +119,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-mafane-relief-v2",
     type: "peak",
     name: { de: "Mount Mafane", hu: "Mafane-hegy", ro: "Muntele Mafane", en: "Mount Mafane" },
-    coordinates: { lat: -13.595, lng: -172.375 },
+    coords: [-172.375, -13.595],
     description: {
       de: "Mount Mafane ist einer der höchsten Gipfel im östlichen Teil des zentralen Hochlands von Savai'i.",
       hu: "A Mafane-hegy Savai'i központi felföldjének keleti részén található egyik legmagasabb csúcs.",
@@ -138,7 +138,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-falefa-valley-relief-v2",
     type: "valley",
     name: { de: "Falefa-Tal", hu: "Falefa-völgy", ro: "Valea Falefa", en: "Falefa Valley" },
-    coordinates: { lat: -13.892, lng: -171.595 },
+    coords: [-171.595, -13.892],
     description: {
       de: "Das Falefa-Tal ist eine fruchtbare Senke im Osten von Upolu, bekannt für seine Wasserfälle und steilen grünen Hänge.",
       hu: "A Falefa-völgy egy termékeny mélyedés Upolu keleti részén, amely vízeséseiről és meredek zöld lankáiről ismert.",
@@ -157,7 +157,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-lake-mataulano-relief-v2",
     type: "lake",
     name: { de: "Mataulano-See", hu: "Mataulano-tó", ro: "Lacul Mataulano", en: "Lake Mataulano" },
-    coordinates: { lat: -13.621, lng: -172.405 },
+    coords: [-172.405, -13.621],
     description: {
       de: "Der Mataulano-See ist ein Kratersee auf der Insel Savai'i, der in einem erloschenen Vulkankegel im Hochland liegt.",
       hu: "A Mataulano-tó egy krátertó Savai'i szigetén, amely egy kialudt vulkáni kúpban található a felföldön.",
@@ -176,7 +176,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-vaitapu-relief-v2",
     type: "peak",
     name: { de: "Mount Vaitapu", hu: "Vaitapu-hegy", ro: "Muntele Vaitapu", en: "Mount Vaitapu" },
-    coordinates: { lat: -13.922, lng: -171.685 },
+    coords: [-171.685, -13.922],
     description: {
       de: "Mount Vaitapu ist ein Teil der zentralen Bergkette von Upolu und trägt zur komplexen Topographie des Inselinneren bei.",
       hu: "A Vaitapu-hegy Upolu központi hegyláncának része, hozzájárulva a sziget belsejének összetett domborzatához.",
@@ -195,7 +195,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-teelagi-relief-v2",
     type: "peak",
     name: { de: "Mount Te'elagi", hu: "Te'elagi-hegy", ro: "Muntele Te'elagi", en: "Mount Te'elagi" },
-    coordinates: { lat: -13.655, lng: -172.455 },
+    coords: [-172.455, -13.655],
     description: {
       de: "Mount Te'elagi ist ein markanter Gipfel im Savai'i-Hochland, der oft in dichte Passatwolken gehüllt ist.",
       hu: "A Te'elagi-hegy Savai'i felföldjének egyik jellegzetes csúcsa, amelyet gyakran sűrű felhők borítanak.",
@@ -214,7 +214,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-malata-relief-v2",
     type: "peak",
     name: { de: "Mount Malata", hu: "Malata-hegy", ro: "Muntele Malata", en: "Mount Malata" },
-    coordinates: { lat: -13.905, lng: -171.652 },
+    coords: [-171.652, -13.905],
     description: {
       de: "Mount Malata ist ein Berg im östlichen Hochland von Upolu, der für seine steilen Reliefs und dichten Wälder bekannt ist.",
       hu: "A Malata-hegy Upolu keleti felföldjén található, amely meredek domborzatáról és sűrű erdőiről ismert.",
@@ -233,7 +233,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-olotapu-relief-v2",
     type: "peak",
     name: { de: "Mount Olotapu", hu: "Olotapu-hegy", ro: "Muntele Olotapu", en: "Mount Olotapu" },
-    coordinates: { lat: -13.552, lng: -172.555 },
+    coords: [-172.555, -13.552],
     description: {
       de: "Mount Olotapu ist ein vulkanischer Gipfel im Nordwesten von Savai'i, unweit der Küste gelegen.",
       hu: "Az Olotapu-hegy egy vulkáni csúcs Savai'i északnyugati részén, nem messze a parttól.",
@@ -252,7 +252,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-salani-relief-v2",
     type: "peak",
     name: { de: "Mount Salani", hu: "Salani-hegy", ro: "Muntele Salani", en: "Mount Salani" },
-    coordinates: { lat: -13.985, lng: -171.685 },
+    coords: [-171.685, -13.985],
     description: {
       de: "Mount Salani ist eine Erhebung im südlichen Upolu, die den Übergang vom Hochland zur Küstenebene markiert.",
       hu: "A Salani-hegy Upolu déli részén található kiemelkedés, amely a felföld és a parti síkság közötti átmenetet jelzi.",
@@ -271,7 +271,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-siga-relief-v2",
     type: "peak",
     name: { de: "Mount Siga", hu: "Siga-hegy", ro: "Muntele Siga", en: "Mount Siga" },
-    coordinates: { lat: -13.605, lng: -172.355 },
+    coords: [-172.355, -13.605],
     description: {
       de: "Mount Siga ist ein Gipfel im zentralen Teil von Savai'i, der Teil des komplexen Reliefs aus Vulkankegeln ist.",
       hu: "A Siga-hegy Savai'i központi részén található csúcs, amely a vulkáni kúpokból álló összetett domborzat része.",
@@ -290,7 +290,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-talatala-relief-v2",
     type: "peak",
     name: { de: "Mount Talatala", hu: "Talatala-hegy", ro: "Muntele Talatala", en: "Mount Talatala" },
-    coordinates: { lat: -13.632, lng: -172.422 },
+    coords: [-172.422, -13.632],
     description: {
       de: "Mount Talatala ist ein Gipfel in der Nähe des Mount Silisili und trägt zur beeindruckenden Skyline des Savai'i-Zentrums bei.",
       hu: "A Talatala-hegy a Silisili-hegy közelében található, és hozzájárul Savai'i központi részének lenyűgöző látképéhez.",
@@ -309,7 +309,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-tofua-relief-v2",
     type: "peak",
     name: { de: "Mount Tofua", hu: "Tofua-hegy", ro: "Muntele Tofua", en: "Mount Tofua" },
-    coordinates: { lat: -13.682, lng: -172.485 },
+    coords: [-172.485, -13.682],
     description: {
       de: "Mount Tofua ist ein weiterer hoher Gipfel auf Savai'i, der Teil des zentralen Hochlandmassivs ist.",
       hu: "A Tofua-hegy egy másik magas csúcs Savai'i szigetén, amely a központi felföldi masszívum része.",
@@ -328,7 +328,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-veve-relief-v2",
     type: "peak",
     name: { de: "Mount Veve", hu: "Veve-hegy", ro: "Muntele Veve", en: "Mount Veve" },
-    coordinates: { lat: -13.702, lng: -172.502 },
+    coords: [-172.502, -13.702],
     description: {
       de: "Mount Veve markiert den südlichen Rand des zentralen Hochlandes von Savai'i und fällt steil nach Süden ab.",
       hu: "A Veve-hegy Savai'i központi felföldjének déli szélét jelzi, meredeken lejtve dél felé.",
@@ -347,7 +347,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-le-pue-relief-v2",
     type: "peak",
     name: { de: "Mount Le Pu'e", hu: "Le Pu'e-hegy", ro: "Muntele Le Pu'e", en: "Mount Le Pu'e" },
-    coordinates: { lat: -13.925, lng: -171.855 },
+    coords: [-171.855, -13.925],
     description: {
       de: "Mount Le Pu'e ist ein vulkanischer Gipfel im zentralen Upolu, der dem Nationalpark seinen Namen gibt.",
       hu: "A Le Pu'e-hegy Upolu központi részén található vulkáni csúcs, amely a nemzeti park névadója.",
@@ -366,7 +366,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-seuao-relief-v2",
     type: "peak",
     name: { de: "Mount Seuao", hu: "Seuao-hegy", ro: "Muntele Seuao", en: "Mount Seuao" },
-    coordinates: { lat: -13.955, lng: -171.752 },
+    coords: [-171.752, -13.955],
     description: {
       de: "Mount Seuao ist ein Berg im Landesinneren von Upolu, der durch seine steilen bewaldeten Hänge besticht.",
       hu: "A Seuao-hegy Upolu belsejében található, meredek erdős lejtőiről ismert.",
@@ -385,7 +385,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-sinaele-relief-v2",
     type: "peak",
     name: { de: "Mount Sinaele", hu: "Sinaele-hegy", ro: "Muntele Sinaele", en: "Mount Sinaele" },
-    coordinates: { lat: -13.935, lng: -171.822 },
+    coords: [-171.822, -13.935],
     description: {
       de: "Mount Sinaele ist ein Berggipfel in Upolu, der nahe dem Lanoto'o-See liegt und zum Relief des Hochlands gehört.",
       hu: "A Sinaele-hegy Upolu egyik hegycsúcsa, amely a Lanoto'o-tó közelében található és a felföldi domborzat része.",
@@ -404,7 +404,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-pofua-relief-v2",
     type: "peak",
     name: { de: "Mount Pofua", hu: "Pofua-hegy", ro: "Muntele Pofua", en: "Mount Pofua" },
-    coordinates: { lat: -13.725, lng: -172.442 },
+    coords: [-172.442, -13.725],
     description: {
       de: "Mount Pofua ist ein markanter Vulkanberg im südlichen Hochland von Savai'i.",
       hu: "A Pofua-hegy egy jellegzetes vulkáni hegy Savai'i déli felföldjén.",
@@ -423,7 +423,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-tagotala-relief-v2",
     type: "peak",
     name: { de: "Mount Tagotala", hu: "Tagotala-hegy", ro: "Muntele Tagotala", en: "Mount Tagotala" },
-    coordinates: { lat: -13.965, lng: -171.782 },
+    coords: [-171.782, -13.965],
     description: {
       de: "Mount Tagotala ist eine Erhebung im südlichen Zentral-Upolu, die für ihre raue Topographie bekannt ist.",
       hu: "A Tagotala-hegy Upolu déli-központi részén található kiemelkedés, amely zord domborzatáról ismert.",
@@ -442,7 +442,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-lano-relief-v2",
     type: "peak",
     name: { de: "Mount Lano", hu: "Lano-hegy", ro: "Muntele Lano", en: "Mount Lano" },
-    coordinates: { lat: -13.645, lng: -172.392 },
+    coords: [-172.392, -13.645],
     description: {
       de: "Mount Lano ist ein Vulkanberg auf Savai'i, der sich über dem Dorf Lano im Osten der Insel erhebt.",
       hu: "A Lano-hegy egy vulkáni hegy Savai'i szigetén, amely a sziget keleti részén fekvő Lano falu felett emelkedik.",
@@ -461,7 +461,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-mu-relief-v2",
     type: "peak",
     name: { de: "Mount Mu", hu: "Mu-hegy", ro: "Muntele Mu", en: "Mount Mu" },
-    coordinates: { lat: -13.665, lng: -172.385 },
+    coords: [-172.385, -13.665],
     description: {
       de: "Mount Mu ist ein kleinerer Vulkankegel im östlichen Teil des zentralen Hochlands von Savai'i.",
       hu: "A Mu-hegy egy kisebb vulkáni kúp Savai'i központi felföldjének keleti részén.",
@@ -480,7 +480,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-aopo-lava-field-relief-v2",
     type: "landmark",
     name: { de: "Aopo-Lavafeld", hu: "Aopo lávamező", ro: "Câmpul de lavă Aopo", en: "Aopo Lava Field" },
-    coordinates: { lat: -13.505, lng: -172.525 },
+    coords: [-172.525, -13.505],
     description: {
       de: "Das Aopo-Lavafeld ist ein ausgedehntes Gebiet mit erstarrter Lava im Norden von Savai'i, das durch historische Eruptionen geformt wurde.",
       hu: "Az Aopo lávamező egy kiterjedt terület megszilárdult lávából Savai'i északi részén, amelyet történelmi kitörések formáltak.",
@@ -499,7 +499,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-fagaloa-bay-cliffs-relief-v2",
     type: "landmark",
     name: { de: "Fagaloa-Bucht-Klippen", hu: "Fagaloa-öböl sziklái", ro: "Stâncile Golfului Fagaloa", en: "Fagaloa Bay Cliffs" },
-    coordinates: { lat: -13.925, lng: -171.535 },
+    coords: [-171.535, -13.925],
     description: {
       de: "Die Klippen der Fagaloa-Bucht sind spektakuläre, fast senkrechte Hänge, die im Osten von Upolu direkt in den Ozean abfallen.",
       hu: "A Fagaloa-öböl sziklái látványos, szinte függőleges lejtők Upolu keleti részén, amelyek közvetlenül az óceánba szakadnak.",
@@ -518,7 +518,7 @@ export const samoaReliefV2: POI[] = [
     id: "samoa-mount-elietoga-relief-v2",
     type: "peak",
     name: { de: "Mount Elietoga", hu: "Elietoga-hegy", ro: "Muntele Elietoga", en: "Mount Elietoga" },
-    coordinates: { lat: -13.945, lng: -171.722 },
+    coords: [-171.722, -13.945],
     description: {
       de: "Mount Elietoga ist ein Gipfel im zentralen Hochland von Upolu, umgeben von dichtem Nebelwald.",
       hu: "Az Elietoga-hegy Upolu központi felföldjén található csúcs, amelyet sűrű köderdő vesz körül.",

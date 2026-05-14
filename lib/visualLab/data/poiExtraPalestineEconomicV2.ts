@@ -5,7 +5,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-hebron-shoe-industry-economic-v2",
     type: "industry",
     name: { de: "Schuhindustrie von Hebron", hu: "Hebroni cipőipar", ro: "Industria de încălțăminte din Hebron", en: "Hebron Shoe Industry" },
-    coordinates: { lat: 31.532, lng: 35.092 },
+    coords: [35.092, 31.532],
     description: {
       de: "Hebron ist das Zentrum der palesinänsischen Leder- und Schuhwarenproduktion mit Hunderten von spezialisierten Werkstätten.",
       hu: "Hebron a palesztin bőr- és cipőgyártás központja, ahol műhelyek százai készítenek exportra szánt lábbeliket.",
@@ -24,7 +24,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-nablus-soap-factories-economic-v2",
     type: "factory",
     name: { de: "Seifenfabriken von Nablus", hu: "Nabuluszi szappangyárak", ro: "Fabricile de săpun din Nablus", en: "Nablus Soap Factories" },
-    coordinates: { lat: 32.221, lng: 35.259 },
+    coords: [35.259, 32.221],
     description: {
       de: "Die historischen Fabriken in Nablus produzieren seit Jahrhunderten die berühmte Nabulsi-Olivenölseife für den Export.",
       hu: "Nabulusz történelmi gyárai évszázadok óta készítik a híres nabuluszi olívaolaj-szappant a világpiacra.",
@@ -43,7 +43,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-securities-exchange-economic-v2",
     type: "landmark",
     name: { de: "Palesinänsische Börse", hu: "Palesztin Értéktőzsde", ro: "Bursa de Valori din Palestina", en: "Palestine Securities Exchange" },
-    coordinates: { lat: 32.226, lng: 35.271 },
+    coords: [35.271, 32.226],
     description: {
       de: "Die in Nablus ansässige Börse ist das Zentrum des Kapitalmarktes und erleichtert Investitionen in palesinänsische Unternehmen.",
       hu: "A Nabuluszban működő tőzsde a tőkepiac központja, amely segíti a palesztin vállalatokba történő befektetéseket.",
@@ -62,7 +62,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-jericho-date-plantations-economic-v2",
     type: "industry",
     name: { de: "Dattelplantagen von Jericho", hu: "Jerikói dátumültetvények", ro: "Plantațiile de curmali din Ierihon", en: "Jericho Date Plantations" },
-    coordinates: { lat: 31.865, lng: 35.459 },
+    coords: [35.459, 31.865],
     description: {
       de: "Jericho ist bekannt für die Produktion hochwertiger Medjool-Datteln, die weltweit exportiert werden und die lokale Wirtschaft stützen.",
       hu: "Jerikó híres a kiváló minőségű Medjool datolya termeléséről, amelyet világszerte exportálnak a helyi gazdaság javára.",
@@ -81,7 +81,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-hebron-stone-quarries-economic-v2",
     type: "industry",
     name: { de: "Steinbrüche von Hebron", hu: "Hebroni kőbányák", ro: "Carierele de piatră din Hebron", en: "Hebron Stone Quarries" },
-    coordinates: { lat: 31.518, lng: 35.115 },
+    coords: [35.115, 31.518],
     description: {
       de: "Die Steinindustrie in Hebron liefert den berühmten Jerusalem-Stein, der in der Bauindustrie weltweit geschätzt wird.",
       hu: "A hebroni kőipar biztosítja a híres jeruzsálemi követ, amelyet világszerte nagyra értékelnek az építőiparban.",
@@ -100,7 +100,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-gaza-fishing-port-economic-v2",
     type: "port",
     name: { de: "Fischereihafen von Gaza", hu: "Gázai halászkikötő", ro: "Portul de pescuit din Gaza", en: "Gaza Fishing Port" },
-    coordinates: { lat: 31.517, lng: 34.435 },
+    coords: [34.435, 31.517],
     description: {
       de: "Der Hafen von Gaza ist die zentrale Anlaufstelle für die Fischereiindustrie und versorgt die Bevölkerung mit frischen Meeresfrüchten.",
       hu: "A gázai kikötő a halászat központja, amely friss tengeri élelmiszerrel látja el a helyi lakosságot.",
@@ -119,7 +119,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-jenin-agro-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Agrar-Industriepark Jenin", hu: "Dzsenini Agrár-Ipari Park", ro: "Parcul Agro-Industrial Jenin", en: "Jenin Agro-Industrial Park" },
-    coordinates: { lat: 32.491, lng: 35.295 },
+    coords: [35.295, 32.491],
     description: {
       de: "Dieser Industriepark im Norden zielt darauf ab, die Lebensmittelverarbeitung und den Export von Agrarprodukten zu fördern.",
       hu: "Ez az északi ipari park az élelmiszer-feldolgozás és a mezőgazdasági export ösztönzését célozza.",
@@ -138,7 +138,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-rawabi-tech-hub-economic-v2",
     type: "industry",
     name: { de: "Rawabi Technologiezentrum", hu: "Rawabi Technológiai Központ", ro: "Centrul Tehnologic Rawabi", en: "Rawabi Tech Hub" },
-    coordinates: { lat: 32.011, lng: 35.185 },
+    coords: [35.185, 32.011],
     description: {
       de: "Das Tech-Hub in der neuen Stadt Rawabi ist ein Zentrum für IT-Dienstleistungen und Innovationen in den Palesinänsergebieten.",
       hu: "Az új Rawabi városában található tech központ az IT szolgáltatások és innovációk palesztinai bázisa.",
@@ -157,7 +157,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-bethlehem-handicraft-workshops-economic-v2",
     type: "industry",
     name: { de: "Bethlehemer Kunsthandwerk", hu: "Betlehemi kézműves műhelyek", ro: "Atelierele de artizanat din Betleem", en: "Bethlehem Handicraft Workshops" },
-    coordinates: { lat: 31.704, lng: 35.202 },
+    coords: [35.202, 31.704],
     description: {
       de: "Bethlehem ist weltberühmt für seine Olivenholz-Schnitzereien und Perlmuttarbeiten, die eine wichtige Tourismuseinnahmequelle bilden.",
       hu: "Betlehem világhírű olajfa-faragásairól és gyöngyházmunkáiról, amelyek fontos turisztikai bevételi forrást jelentenek.",
@@ -176,7 +176,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-qalqilya-greenhouses-economic-v2",
     type: "industry",
     name: { de: "Gewächshäuser von Qalqilya", hu: "Kalkiljai üvegházak", ro: "Serele din Qalqilya", en: "Qalqilya Greenhouses" },
-    coordinates: { lat: 32.192, lng: 34.975 },
+    coords: [34.975, 32.192],
     description: {
       de: "Qalqilya ist ein wichtiges Agrarzentrum, das für seine intensiven Gewächshauskulturen von Obst und Gemüse bekannt ist.",
       hu: "Kalkilja jelentős mezőgazdasági központ, amely az intenzív üvegházi zöldség- és gyümölcstermesztésről ismert.",
@@ -195,7 +195,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-gaza-power-plant-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Gaza", hu: "Gázai erőmű", ro: "Centrala Electrică din Gaza", en: "Gaza Power Plant" },
-    coordinates: { lat: 31.439, lng: 34.401 },
+    coords: [34.401, 31.439],
     description: {
       de: "Das Kraftwerk im Zentrum von Gaza ist die einzige lokale Stromerzeugungsanlage für das gesamte Gebiet.",
       hu: "A Gáza központjában lévő erőmű az egyetlen helyi villamosenergia-termelő létesítmény a területen.",
@@ -214,7 +214,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-nablus-furniture-industry-economic-v2",
     type: "industry",
     name: { de: "Möbelindustrie von Nablus", hu: "Nabuluszi bútoripar", ro: "Industria de mobilier din Nablus", en: "Nablus Furniture Industry" },
-    coordinates: { lat: 32.222, lng: 35.241 },
+    coords: [35.241, 32.222],
     description: {
       de: "Nablus ist ein führendes Zentrum für Möbeldesign und -herstellung, bekannt für Qualität und handwerkliche Präzision.",
       hu: "Nabulusz a bútortervezés és -gyártás vezető központja, amely minőségéről és precizitásáról ismert.",
@@ -233,7 +233,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-tulkarm-industrial-zone-economic-v2",
     type: "industry",
     name: { de: "Industriezone Tulkarm", hu: "Tulkarm ipari zóna", ro: "Zona Industrială Tulkarm", en: "Tulkarm Industrial Zone" },
-    coordinates: { lat: 32.315, lng: 35.025 },
+    coords: [35.025, 32.315],
     description: {
       de: "Die Industriezone von Tulkarm beherbergt Textilfabriken und chemische Industrieanlagen nahe der Grünen Linie.",
       hu: "Tulkarm ipari zónája textilgyáraknak és vegyipari létesítményeknek ad otthont a zöld vonal közelében.",
@@ -252,7 +252,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-halhul-vineyards-economic-v2",
     type: "industry",
     name: { de: "Weinberge von Halhul", hu: "Halhuli szőlőültetvények", ro: "Podgoriile din Halhul", en: "Halhul Vineyards" },
-    coordinates: { lat: 31.583, lng: 35.105 },
+    coords: [35.105, 31.583],
     description: {
       de: "Halhul ist das Zentrum der Traubenproduktion in Palästina, bekannt für seine weiten Weinberge und Traubenmärkte.",
       hu: "Halhul a palesztin szőlőtermelés központja, híres kiterjedt ültetvényeiről és szőlőpiacáról.",
@@ -271,7 +271,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-bethlehem-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Industriepark Bethlehem", hu: "Betlehemi Ipari Park", ro: "Parcul Industrial Betleem", en: "Bethlehem Industrial Park" },
-    coordinates: { lat: 31.701, lng: 35.215 },
+    coords: [35.215, 31.701],
     description: {
       de: "Der Industriepark in Bethlehem unterstützt moderne Unternehmen in den Bereichen Pharmazie und Lebensmitteltechnologie.",
       hu: "A betlehemi ipari park modern vállalatokat támogat a gyógyszeripar és élelmiszertechnológia területén.",
@@ -290,7 +290,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-gaza-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Gaza", hu: "Gázai ipari övezet", ro: "Zona Industrială Gaza", en: "Gaza Industrial Estate" },
-    coordinates: { lat: 31.475, lng: 34.481 },
+    coords: [34.481, 31.475],
     description: {
       de: "Dies ist das größte Industriegebiet im Gazastreifen, das für Produktion und Handel konzipiert wurde.",
       hu: "Ez a Gázai övezet legnagyobb ipari területe, amelyet gyártásra és kereskedelemre terveztek.",
@@ -309,7 +309,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-birzeit-pharmaceuticals-economic-v2",
     type: "factory",
     name: { de: "Pharmaunternehmen Birzeit", hu: "Birzeiti gyógyszergyár", ro: "Compania Farmaceutică Birzeit", en: "Birzeit Pharmaceutical Company" },
-    coordinates: { lat: 31.961, lng: 35.191 },
+    coords: [35.191, 31.961],
     description: {
       de: "Birzeit Pharmaceutical ist das führende palesinänsische Unternehmen für die Herstellung von Medikamenten.",
       hu: "A Birzeit Pharmaceutical a vezető palesztin vállalat a gyógyszerek gyártása terén.",
@@ -328,7 +328,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-salfit-olive-oil-presses-economic-v2",
     type: "industry",
     name: { de: "Ölmühlen von Salfit", hu: "Szalfiti olajütők", ro: "Presele de ulei din Salfit", en: "Salfit Olive Oil Presses" },
-    coordinates: { lat: 32.121, lng: 35.178 },
+    coords: [35.178, 32.121],
     description: {
       de: "Salfit ist berühmt für seine weiten Olivenhaine und die Produktion von hochwertigem nativem Olivenöl extra.",
       hu: "Szalfit híres kiterjedt olajfaligeteiről és a kiváló minőségű extra szűz olívaolaj gyártásáról.",
@@ -347,7 +347,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-jericho-agro-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Agrar-Industriepark Jericho", hu: "Jerikói Agrár-Ipari Park", ro: "Parcul Agro-Industrial Ierihon", en: "Jericho Agro-Industrial Park" },
-    coordinates: { lat: 31.835, lng: 35.451 },
+    coords: [35.451, 31.835],
     description: {
       de: "Dieser Park ist ein Flaggschiffprojekt für die Verarbeitung von landwirtschaftlichen Erzeugnissen im Jordantal.",
       hu: "Ez a park a Jordán-völgyi mezőgazdasági termékek feldolgozásának kiemelt projektje.",
@@ -366,7 +366,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-tubas-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftliches Zentrum Tubas", hu: "Tubaszi mezőgazdasági központ", ro: "Centrul Agricol Tubas", en: "Tubas Agricultural Center" },
-    coordinates: { lat: 32.321, lng: 35.371 },
+    coords: [35.371, 32.321],
     description: {
       de: "Tubas ist ein wichtiges Versorgungszentrum für Gemüse und Viehprodukte für den gesamten Norden Palästinas.",
       hu: "Tubasz a zöldség- és állati termékek fontos ellátó központja Palesztina teljes északi részén.",
@@ -385,7 +385,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-deir-al-balah-dates-economic-v2",
     type: "industry",
     name: { de: "Dattelpalmen von Deir al-Balah", hu: "Deir al-Balah-i datolyapálmák", ro: "Curmalii din Deir al-Balah", en: "Deir al-Balah Date Palms" },
-    coordinates: { lat: 31.415, lng: 34.349 },
+    coords: [34.349, 31.415],
     description: {
       de: "Die Region Deir al-Balah im Gazastreifen ist nach ihren Dattelpalmen benannt und ein Zentrum der Dattelproduktion.",
       hu: "A Gázai övezet Deir al-Balah régiója a datolyapálmákról kapta a nevét, és a datolyatermelés központja.",
@@ -404,7 +404,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-hebron-glass-ceramics-economic-v2",
     type: "industry",
     name: { de: "Hebroner Glas und Keramik", hu: "Hebroni üveg és kerámia", ro: "Sticla și ceramica din Hebron", en: "Hebron Glass and Ceramics" },
-    coordinates: { lat: 31.545, lng: 35.085 },
+    coords: [35.085, 31.545],
     description: {
       de: "Hebron ist berühmt für seine traditionelle Glasbläserkunst und farbenfrohe handbemalte Keramik, die weltweit exportiert wird.",
       hu: "Hebron híres hagyományos üvegfúvó művészetéről és színes, kézzel festett kerámiáiról, amelyeket világszerte exportálnak.",
@@ -423,7 +423,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-khan-yunis-trade-center-economic-v2",
     type: "industry",
     name: { de: "Handelszentrum Khan Yunis", hu: "Hán Júnisz kereskedelmi központ", ro: "Centrul Comercial Khan Yunis", en: "Khan Yunis Trade Center" },
-    coordinates: { lat: 31.345, lng: 34.301 },
+    coords: [34.301, 31.345],
     description: {
       de: "Khan Yunis fungiert als wichtigster landwirtschaftlicher Umschlagplatz im südlichen Gazastreifen.",
       hu: "Hán Júnisz a Gázai övezet déli részének legfontosabb mezőgazdasági kereskedelmi csomópontja.",
@@ -442,7 +442,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-rafah-commercial-crossing-economic-v2",
     type: "port",
     name: { de: "Handelsübergang Rafah", hu: "Rafahi kereskedelmi átkelő", ro: "Punctul de Trecere Rafah", en: "Rafah Commercial Crossing" },
-    coordinates: { lat: 31.241, lng: 34.251 },
+    coords: [34.251, 31.241],
     description: {
       de: "Der Übergang Rafah ist die einzige Verbindung zwischen dem Gazastreifen und Ägypten für Personen und Waren.",
       hu: "A rafahi átkelő az egyetlen összeköttetés a Gázai övezet és Egyiptom között személyek és áruk számára.",
@@ -461,7 +461,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-beit-jala-cremisan-winery-economic-v2",
     type: "factory",
     name: { de: "Cremisan Weingut Beit Jala", hu: "Cremisan borászat Beit Jala", ro: "Crama Cremisan Beit Jala", en: "Beit Jala Cremisan Winery" },
-    coordinates: { lat: 31.715, lng: 35.181 },
+    coords: [35.181, 31.715],
     description: {
       de: "Das Cremisan Weingut bei Beit Jala produziert seit 1885 Weine und Olivenöl unter der Leitung der Salesianer.",
       hu: "A Beit Jala melletti Cremisan borászat 1885 óta termel bort és olívaolajat a szalézi rend vezetésével.",
@@ -480,7 +480,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-dhahiriya-livestock-market-economic-v2",
     type: "industry",
     name: { de: "Viehmarkt von Dhahiriya", hu: "Dahírijai állatvásár", ro: "Piața de animale din Dhahiriya", en: "Dhahiriya Livestock Market" },
-    coordinates: { lat: 31.439, lng: 34.975 },
+    coords: [34.975, 31.439],
     description: {
       de: "Der Markt von Dhahiriya ist einer der größten Handelsplätze für Schafe und Ziegen im südlichen Westjordanland.",
       hu: "Dahírija vására az egyik legnagyobb juh- és kecskekereskedelmi központ Ciszjordánia déli részén.",
@@ -499,7 +499,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-gaza-textile-sector-economic-v2",
     type: "industry",
     name: { de: "Textilsektor Gaza", hu: "Gázai textilágazat", ro: "Sectorul Textil din Gaza", en: "Gaza Textile Sector" },
-    coordinates: { lat: 31.511, lng: 34.455 },
+    coords: [34.455, 31.511],
     description: {
       de: "Die Textilindustrie in Gaza war historisch einer der größten Arbeitgeber und produzierte Kleidung für regionale Märkte.",
       hu: "A gázai textilipar történelmileg az egyik legnagyobb foglalkoztató volt, ruházati cikkeket gyártva a régió számára.",
@@ -518,7 +518,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-nablus-stone-processing-economic-v2",
     type: "industry",
     name: { de: "Steinverarbeitung Nablus", hu: "Nabuluszi kőfeldolgozás", ro: "Prelucrarea Pietrei din Nablus", en: "Nablus Stone Processing" },
-    coordinates: { lat: 32.215, lng: 35.285 },
+    coords: [35.285, 32.215],
     description: {
       de: "Die Steinverarbeitungsbetriebe in Nablus schneiden und polieren Kalkstein für den Einsatz in der modernen Architektur.",
       hu: "A nabuluszi kőfeldolgozó üzemek mészkövet vágnak és políroznak a modern építészet számára.",
@@ -537,7 +537,7 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-paltel-headquarters-economic-v2",
     type: "landmark",
     name: { de: "Paltel Hauptquartier", hu: "Paltel székház", ro: "Sediul Paltel", en: "Paltel Headquarters" },
-    coordinates: { lat: 31.911, lng: 35.195 },
+    coords: [35.195, 31.911],
     description: {
       de: "Die Paltel Group ist das größte private Unternehmen in Palästina und dominiert den Telekommunikationsmarkt.",
       hu: "A Paltel Group Palesztina legnagyobb magánvállalata, amely uralja a telekommunikációs piacot.",

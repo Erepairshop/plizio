@@ -1126,7 +1126,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-potong-gate-history-v2",
     type: "landmark",
     name: { de: "Potong-Tor", hu: "Potong-kapu", ro: "Poarta Potong", en: "Potong Gate" },
-    coordinates: { lat: 39.027, lng: 125.741 },
+    coords: [125.741, 39.027],
     description: {
       de: "Das Potong-Tor ist das westliche Tor der inneren Festung der mittelalterlichen Stadt Pjöngjang. Es wurde ursprünglich im 6. Jahrhundert während der Goguryeo-Dynastie errichtet.",
       hu: "A Potong-kapu a középkori Phenjan belső erődjének nyugati kapuja. Eredetileg a 6. században épült a Kogurjo-dinasztia idején, majd a 15. században újjáépítették.",
@@ -1145,7 +1145,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-hyonmu-gate-history-v2",
     type: "landmark",
     name: { de: "Hyonmu-Tor", hu: "Hjonmu-kapu", ro: "Poarta Hyonmu", en: "Hyonmu Gate" },
-    coordinates: { lat: 39.043, lng: 125.759 },
+    coords: [125.759, 39.043],
     description: {
       de: "Das Hyonmu-Tor dient als nördlicher Eingang zur inneren Festung von Pjöngjang auf dem Moran-Hügel. Die Struktur wurde mehrfach rekonstruiert, zuletzt im 19. Jahrhundert.",
       hu: "A Hjonmu-kapu Phenjan belső erődjének északi bejárata a Moran-dombon. A szerkezetet többször újjáépítették, legutóbb a 19. század közepén.",
@@ -1164,7 +1164,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sungryong-hall-history-v2",
     type: "temple",
     name: { de: "Sungryong-Halle", hu: "Szungrjong-csarnok", ro: "Sala Sungryong", en: "Sungryong Hall" },
-    coordinates: { lat: 39.028, lng: 125.752 },
+    coords: [125.752, 39.028],
     description: {
       de: "Die Sungryong-Halle ist ein historischer Schrein in Pjöngjang, der den Gründern der ersten koreanischen Königreiche gewidmet ist. Das Gebäude stammt ursprünglich aus dem Jahr 1429.",
       hu: "A Szungrjong-csarnok egy történelmi szentély Phenjanban, amelyet az első koreai királyságok alapítóinak szenteltek. Az épület eredetileg 1429-ben épült.",
@@ -1183,7 +1183,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sungin-hall-history-v2",
     type: "temple",
     name: { de: "Sungin-Halle", hu: "Szungin-csarnok", ro: "Sala Sungin", en: "Sungin Hall" },
-    coordinates: { lat: 39.028, lng: 125.753 },
+    coords: [125.753, 39.028],
     description: {
       de: "Diese historische Halle in Pjöngjang wurde im 14. Jahrhundert zu Ehren von Kija, einer legendären Figur der koreanischen Geschichte, erbaut. Sie steht unmittelbar neben der Sungryong-Halle.",
       hu: "Ez a phenjani történelmi csarnok a 14. században épült Kidzsa, a koreai történelem egyik legendás alakjának tiszteletére. Közvetlenül a Szungrjong-csarnok mellett áll.",
@@ -1202,7 +1202,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pubyok-pavilion-history-v2",
     type: "landmark",
     name: { de: "Pubyok-Pavillon", hu: "Pubjok-pavilon", ro: "Pavilionul Pubyok", en: "Pubyok Pavilion" },
-    coordinates: { lat: 39.042, lng: 125.762 },
+    coords: [125.762, 39.042],
     description: {
       de: "Der Pubyok-Pavillon liegt auf einer Klippe über dem Taedong-Fluss und gilt als einer der acht schönsten Orte Westkoreas. Er wurde ursprünglich im Jahr 393 errichtet.",
       hu: "A Pubjok-pavilon a Tedong-folyó feletti sziklán található, és Észak-Korea nyolc legszebb helyének egyikeként tartják számon. Eredetileg 393-ban épült.",
@@ -1221,7 +1221,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pyongjang-castle-walls-history-v2",
     type: "ruins",
     name: { de: "Stadtmauer von Pjöngjang", hu: "Phenjani várfalak", ro: "Zidurile Cetății Phenian", en: "Pyongyang Castle Walls" },
-    coordinates: { lat: 39.035, lng: 125.755 },
+    coords: [125.755, 39.035],
     description: {
       de: "Die massiven Steinmauern von Pjöngjang umschließen die historische Altstadt und stammen aus der Goguryeo-Zeit. Sie dienten über Jahrhunderte als Hauptverteidigungslinie gegen Invasionen.",
       hu: "Phenjan masszív kőfalai a történelmi óvárost veszik körül, és a Kogurjo-korszakból származnak. Évszázadokon át fő védelmi vonalként szolgáltak az inváziók ellen.",
@@ -1240,7 +1240,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kangso-three-tombs-history-v2",
     type: "ruins",
     name: { de: "Drei Gräber von Kangso", hu: "Kangszoi három sír", ro: "Cele trei morminte din Kangso", en: "Kangso Three Tombs" },
-    coordinates: { lat: 38.919, lng: 125.415 },
+    coords: [125.415, 38.919],
     description: {
       de: "Diese drei Hügelgräber aus dem 7. Jahrhundert sind berühmt für ihre lebendigen Wandmalereien der vier Schutzgottheiten. Sie gehören zum UNESCO-Welterbe der Goguryeo-Grabstätten.",
       hu: "Ez a három 7. századi halomsír a négy égi oltalmazót ábrázoló élénk falfestményeiről híres. A Kogurjo-sírok UNESCO Világörökség részét képezik.",
@@ -1259,7 +1259,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-tokhung-ri-tomb-history-v2",
     type: "ruins",
     name: { de: "Tokhung-ri Grab", hu: "Tokhung-ri sír", ro: "Mormântul Tokhung-ri", en: "Tokhung-ri Tomb" },
-    coordinates: { lat: 38.971, lng: 125.434 },
+    coords: [125.434, 38.971],
     description: {
       de: "Das Tokhung-ri Grab ist eine bedeutende archäologische Stätte mit Wandmalereien, die das tägliche Leben und Beamte der Goguryeo-Zeit darstellen. Es wurde im Jahr 408 erbaut.",
       hu: "A Tokhung-ri sír egy jelentős régészeti lelőhely, falfestményei a Kogurjo-korszak mindennapi életét és tisztviselőit ábrázolják. 408-ban épült.",
@@ -1278,7 +1278,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-hamhung-royal-villa-history-v2",
     type: "palace",
     name: { de: "Königliche Villa von Hamhung", hu: "Hamhungi királyi villa", ro: "Vila Regală din Hamhung", en: "Hamhung Royal Villa" },
-    coordinates: { lat: 39.897, lng: 127.558 },
+    coords: [127.558, 39.897],
     description: {
       de: "Die Hamhung-Villa (Hamhung Bon-gung) war die Residenz von Ri Seong-gye, dem Gründer der Joseon-Dynastie, nach seiner Abdankung. Die Anlage umfasst mehrere traditionelle Gebäude.",
       hu: "A hamhungi villa (Hamhung Bon-gung) Ri Szong-gje, a Csoszon-dinasztia alapítójának rezidenciája volt lemondása után. A komplexum több hagyományos épületet foglal magában.",
@@ -1297,7 +1297,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kuchon-pavilion-history-v2",
     type: "landmark",
     name: { de: "Kuchon-Pavillon", hu: "Kucson-pavilon", ro: "Pavilionul Kuchon", en: "Kuchon Pavilion" },
-    coordinates: { lat: 39.919, lng: 127.534 },
+    coords: [127.534, 39.919],
     description: {
       de: "Der Kuchon-Pavillon ist ein historischer Aussichtspunkt auf der nördlichen Mauer der Festung Hamhung. Er bietet einen weiten Blick über die Stadt und den Fluss Songchon.",
       hu: "A Kucson-pavilon egy történelmi kilátópont a hamhungi erőd északi falán. Széles kilátást nyújt a városra és a Szongcson-folyóra.",
@@ -1316,7 +1316,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sonhwa-hall-history-v2",
     type: "landmark",
     name: { de: "Sonhwa-Halle", hu: "Szonhva-csarnok", ro: "Sala Sonhwa", en: "Sonhwa Hall" },
-    coordinates: { lat: 39.917, lng: 127.538 },
+    coords: [127.538, 39.917],
     description: {
       de: "Die Sonhwa-Halle in Hamhung diente während der Joseon-Dynastie als Hauptbüro des Provinzgouverneurs von Hamgyong. Sie ist ein bedeutendes Beispiel für Verwaltungsarchitektur dieser Zeit.",
       hu: "A hamhungi Szonhva-csarnok a Csoszon-dinasztia idején Hamgyong tartomány kormányzójának központi hivatala volt. A korszak közigazgatási építészetének jelentős példája.",
@@ -1335,7 +1335,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-jongbangsan-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Jongbangsan", hu: "Dzsongbangszan erőd", ro: "Cetatea Jongbangsan", en: "Jongbangsan Fortress" },
-    coordinates: { lat: 38.583, lng: 125.762 },
+    coords: [125.762, 38.583],
     description: {
       de: "Die Bergfestung Jongbangsan in der Nähe von Sariwon stammt aus der Goryeo-Zeit und schützte den Zugang nach Pjöngjang. Die Steinmauern erstrecken sich über mehrere Kilometer.",
       hu: "A Szarivon közelében található Dzsongbangszan hegyi erőd a Korjo-korszakból származik, és Phenjan elérését védte. A kőfalak több kilométer hosszan nyúlnak el.",
@@ -1354,7 +1354,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-songbul-temple-history-v2",
     type: "temple",
     name: { de: "Songbul-Tempel", hu: "Szongbul-templom", ro: "Templul Songbul", en: "Songbul Temple" },
-    coordinates: { lat: 38.586, lng: 125.761 },
+    coords: [125.761, 38.586],
     description: {
       de: "Der Songbul-Tempel ist eine buddhistische Anlage innerhalb der Jongbangsan-Festung. Das Gebäude Kukrak-Halle ist eines der ältesten erhaltenen Holzbauwerke des Landes.",
       hu: "A Szongbul-templom a Dzsongbangszan-erődön belül található buddhista épületegyüttes. A Kukrak-csarnok az ország egyik legrégebbi fennmaradt faépítménye.",
@@ -1373,7 +1373,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-uiju-south-gate-history-v2",
     type: "landmark",
     name: { de: "Südtor von Uiju", hu: "Uidzsu déli kapuja", ro: "Poarta de Sud din Uiju", en: "Uiju South Gate" },
-    coordinates: { lat: 30.198, lng: 124.53 },
+    coords: [124.53, 30.198],
     description: {
       de: "Das Südtor von Uiju war der wichtigste Eingang zur historischen Grenzstadt am Yalu-Fluss. Es ist ein markantes Beispiel für die Wehrarchitektur der Joseon-Zeit.",
       hu: "Uidzsu déli kapuja volt a Jalu-folyó menti történelmi határváros legfontosabb bejárata. A Csoszon-kori védelmi építészet kiemelkedő példája.",
@@ -1392,7 +1392,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-tonggun-pavilion-history-v2",
     type: "landmark",
     name: { de: "Tonggun-Pavillon", hu: "Tonggun-pavilon", ro: "Pavilionul Tonggun", en: "Tonggun Pavilion" },
-    coordinates: { lat: 40.201, lng: 124.532 },
+    coords: [124.532, 40.201],
     description: {
       de: "Der Tonggun-Pavillon steht auf einer Anhöhe in Uiju und diente als Beobachtungsposten über den Yalu-Fluss. Er ist bekannt für seine strategische Lage an der Grenze.",
       hu: "A Tonggun-pavilon egy Uidzsu melletti magaslaton áll, és megfigyelőpontként szolgált a Jalu-folyó felett. Stratégiai határmenti elhelyezkedéséről ismert.",
@@ -1411,7 +1411,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-annam-gate-history-v2",
     type: "landmark",
     name: { de: "Annam-Tor", hu: "Annam-kapu", ro: "Poarta Annam", en: "Annam Gate" },
-    coordinates: { lat: 39.832, lng: 125.752 },
+    coords: [125.752, 39.832],
     description: {
       de: "Das Annam-Tor ist das Südtor der inneren Festung der Stadt Yongbyon. Die Struktur ist ein Überrest der Verteidigungsanlagen, die die Region vor nördlichen Eindringlingen schützten.",
       hu: "Az Annam-kapu Jongbjon város belső erődjének déli kapuja. A szerkezet a régiót az északi betolakodók ellen védő védművek maradványa.",
@@ -1430,7 +1430,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-gwansan-ri-dolmen-history-v2",
     type: "ruins",
     name: { de: "Gwansan-ri Dolmen", hu: "Gvanszan-ri dolmen", ro: "Dolmenul Gwansan-ri", en: "Gwansan-ri Dolmen" },
-    coordinates: { lat: 38.536, lng: 125.105 },
+    coords: [125.105, 38.536],
     description: {
       de: "Der Gwansan-ri Dolmen ist einer der größten und am besten erhaltenen nordischen Dolmen in Korea. Er stammt aus der Bronzezeit und diente als Begräbnisstätte für Anführer.",
       hu: "A gvanszan-ri dolmen Korea egyik legnagyobb és legjobb állapotban fennmaradt északi típusú dolmenje. A bronzkorból származik, és vezetők temetkezési helyeként szolgált.",
@@ -1449,7 +1449,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-maengsan-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Maengsan", hu: "Mengszan erőd", ro: "Cetatea Maengsan", en: "Maengsan Fortress" },
-    coordinates: { lat: 39.485, lng: 126.658 },
+    coords: [126.658, 39.485],
     description: {
       de: "Die Festung Maengsan ist eine historische Verteidigungsanlage im bergigen Inneren Nordkoreas. Sie wurde während der Goryeo-Dynastie zum Schutz der Grenzregion errichtet.",
       hu: "A mengszani erőd egy történelmi védmű Észak-Korea hegyvidéki belsejében. A Korjo-dinasztia idején épült a határvidék védelmére.",
@@ -1468,7 +1468,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-suyangsan-fortress-history-v2",
     type: "ruins",
     name: { de: "Festung Suyangsan", hu: "Szujangszan erőd", ro: "Cetatea Suyangsan", en: "Suyangsan Fortress" },
-    coordinates: { lat: 38.075, lng: 125.715 },
+    coords: [125.715, 38.075],
     description: {
       de: "Die Bergfestung Suyangsan liegt nördlich von Haeju und ist eine der größten ihrer Art in Korea. Sie wurde ursprünglich von der Goguryeo-Dynastie zum Schutz der Region Hwanghae erbaut.",
       hu: "A Hedzsu-tól északra fekvő Szujangszan hegyi erőd Korea egyik legnagyobb ilyen típusú építménye. Eredetileg a Kogurjo-dinasztia építette a Hvanghe régió védelmére.",
@@ -1487,7 +1487,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-haeju-five-story-pagoda-history-v2",
     type: "landmark",
     name: { de: "Fünfstöckige Pagode von Haeju", hu: "Hedzsui ötemeletes pagoda", ro: "Pagoda cu cinci etaje din Haeju", en: "Haeju Five-story Pagoda" },
-    coordinates: { lat: 38.033, lng: 125.717 },
+    coords: [125.717, 38.033],
     description: {
       de: "Diese Steinpagode aus der Goryeo-Zeit steht im Zentrum der Stadt Haeju. Sie zeichnet sich durch ihre eleganten Proportionen und die feine Steinmetzarbeit aus.",
       hu: "Ez a Korjo-korszakból származó kőpagoda Hedzsu város központjában áll. Elegáns arányai és finom kőfaragásai jellemzik.",
@@ -1506,7 +1506,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sokdamgugok-history-v2",
     type: "park",
     name: { de: "Sokdamgugok", hu: "Szokdamgugok", ro: "Sokdamgugok", en: "Sokdamgugok" },
-    coordinates: { lat: 38.125, lng: 125.688 },
+    coords: [125.688, 38.125],
     description: {
       de: "Sokdamgugok, das 'Tal der neun Windungen', ist eine malerische Schlucht bei Haeju, die eng mit dem Gelehrten Yi I aus der Joseon-Zeit verbunden ist. Hier befindet sich die historische Sohyon-Akademie.",
       hu: "Szokdamgugok, a 'Kilenc kanyar völgye', egy festői szurdok Hedzsu közelében, amely szorosan kapcsolódik Ji I tudóshoz. Itt található a történelmi Szohjon-akadémia.",
@@ -1525,7 +1525,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kaesong-observatory-history-v2",
     type: "landmark",
     name: { de: "Observatorium von Kaesong", hu: "Kesongi obszervatórium", ro: "Observatorul din Kaesong", en: "Kaesong Observatory" },
-    coordinates: { lat: 37.981, lng: 126.562 },
+    coords: [126.562, 37.981],
     description: {
       de: "Dieses Observatorium (Chomsongdae) in Kaesong wurde während der Goryeo-Dynastie für astronomische Beobachtungen genutzt. Es ist ein wichtiger Zeuge der mittelalterlichen koreanischen Wissenschaft.",
       hu: "Ezt a kesongi obszervatóriumot (Csomoszongde) a Korjo-dinasztia idején csillagászati megfigyelésekre használták. A középkori koreai tudomány fontos emléke.",
@@ -1544,7 +1544,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-ryongthong-temple-history-v2",
     type: "temple",
     name: { de: "Ryongthong-Tempel", hu: "Rjongthong-templom", ro: "Templul Ryongthong", en: "Ryongthong Temple" },
-    coordinates: { lat: 37.995, lng: 126.621 },
+    coords: [126.621, 37.995],
     description: {
       de: "Der Ryongthong-Tempel liegt am Fuße des Berges Ogwan bei Kaesong und war ein Zentrum der Cheontae-Schule des Buddhismus. Er wurde nach archäologischen Grabungen umfassend restauriert.",
       hu: "A Rjongthong-templom az Ogvan-hegy lábánál fekszik Kesong közelében, és a buddhizmus Csonté iskolájának központja volt. Régészeti feltárások után átfogóan restaurálták.",
@@ -1563,7 +1563,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-singye-temple-history-v2",
     type: "temple",
     name: { de: "Singye-Tempel", hu: "Singje-templom", ro: "Templul Singye", en: "Singye Temple" },
-    coordinates: { lat: 38.625, lng: 128.175 },
+    coords: [128.175, 38.625],
     description: {
       de: "Der Singye-Tempel ist einer der vier großen buddhistischen Tempel im Kumgang-Gebirge. Er wurde im Koreakrieg zerstört und mit Unterstützung beider koreanischer Staaten wiederaufgebaut.",
       hu: "A Singje-templom a Kumgang-hegység négy nagy buddhista templomának egyike. A koreai háborúban elpusztult, de a két koreai állam támogatásával újjáépítették.",
@@ -1582,7 +1582,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-podok-hermitage-history-v2",
     type: "temple",
     name: { de: "Podok-Einsiedelei", hu: "Podok-remetelak", ro: "Schitul Podok", en: "Podok Hermitage" },
-    coordinates: { lat: 38.647, lng: 128.182 },
+    coords: [128.182, 38.647],
     description: {
       de: "Die Podok-Einsiedelei ist ein spektakuläres kleines Gebäude, das an einer senkrechten Felswand im Kumgang-Gebirge hängt. Sie wird nur durch eine einzige Kupfersäule gestützt.",
       hu: "A Podok-remetelak egy látványos kis épület, amely a Kumgang-hegység egyik függőleges sziklafalán függ. Egyetlen rézoszlop támasztja alá.",
@@ -1601,7 +1601,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sangwon-hermitage-history-v2",
     type: "temple",
     name: { de: "Sangwon-Einsiedelei", hu: "Szangvon-remetelak", ro: "Schitul Sangwon", en: "Sangwon Hermitage" },
-    coordinates: { lat: 40.016, lng: 126.242 },
+    coords: [126.242, 40.016],
     description: {
       de: "Die Sangwon-Einsiedelei liegt hoch in den Myohyang-Bergen und ist bekannt für ihre ruhige Lage und den Blick auf Wasserfälle. Sie wurde während der Goryeo-Zeit gegründet.",
       hu: "A Szangvon-remetelak magasan a Mjohjang-hegységben található, csendes elhelyezkedéséről és vízesésekre nyíló kilátásáról ismert. A Korjo-korszakban alapították.",
@@ -1620,7 +1620,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-habiro-hermitage-history-v2",
     type: "temple",
     name: { de: "Habiro-Einsiedelei", hu: "Habiro-remetelak", ro: "Schitul Habiro", en: "Habiro Hermitage" },
-    coordinates: { lat: 40.012, lng: 126.255 },
+    coords: [126.255, 40.012],
     description: {
       de: "Die Habiro-Einsiedelei ist eine abgeschiedene buddhistische Stätte in den Myohyang-Bergen. Sie ist bekannt für ihre historische Steinpagode und die umliegenden Ahornwälder.",
       hu: "A Habiro-remetelak egy eldugott buddhista helyszín a Mjohjang-hegységben. Történelmi kőpagodájáról és a környező juharerdőkről ismert.",
@@ -1639,7 +1639,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-inphung-pavilion-history-v2",
     type: "landmark",
     name: { de: "Inphung-Pavillon", hu: "Inphung-pavilon", ro: "Pavilionul Inphung", en: "Inphung Pavilion" },
-    coordinates: { lat: 40.966, lng: 126.586 },
+    coords: [126.586, 40.966],
     description: {
       de: "Der Inphung-Pavillon in Kanggye liegt am Ufer des Flusses Jangja. Er wurde ursprünglich im 15. Jahrhundert als Teil des Verteidigungssystems der Grenzstadt erbaut.",
       hu: "A kanggyei Inphung-pavilon a Csangdzsa-folyó partján található. Eredetileg a 15. században épült a határváros védelmi rendszerének részeként.",
@@ -1658,7 +1658,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kyongsong-south-gate-history-v2",
     type: "landmark",
     name: { de: "Südtor von Kyongsong", hu: "Kjongszong déli kapuja", ro: "Poarta de Sud din Kyongsong", en: "Kyongsong South Gate" },
-    coordinates: { lat: 41.585, lng: 129.605 },
+    coords: [129.605, 41.585],
     description: {
       de: "Das Südtor von Kyongsong ist das am besten erhaltene Tor der historischen Stadtmauern im Nordosten des Landes. Es wurde im 15. Jahrhundert zur Verteidigung gegen Überfälle errichtet.",
       hu: "Kjongszong déli kapuja az ország északkeleti részén található történelmi városfalak legjobb állapotban fennmaradt kapuja. A 15. században épült a portyázók elleni védekezésül.",
@@ -1677,7 +1677,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kyongsong-fortress-walls-history-v2",
     type: "ruins",
     name: { de: "Stadtmauer von Kyongsong", hu: "Kjongszongi várfalak", ro: "Zidurile Cetății Kyongsong", en: "Kyongsong Fortress Walls" },
-    coordinates: { lat: 41.587, lng: 129.608 },
+    coords: [129.608, 41.587],
     description: {
       de: "Die Stadtmauern von Kyongsong umschließen das historische Zentrum dieser Garnisonsstadt. Sie wurden aus Stein und Erde errichtet, um die Nordgrenze Koreas zu sichern.",
       hu: "Kjongszong várfalai ezen helyőrségi város történelmi központját veszik körül. Kőből és földből épültek Korea északi határának biztosítására.",
@@ -1696,7 +1696,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-paeksang-pavilion-history-v2",
     type: "landmark",
     name: { de: "Paeksang-Pavillon", hu: "Pekszang-pavilon", ro: "Pavilionul Paeksang", en: "Paeksang Pavilion" },
-    coordinates: { lat: 39.619, lng: 125.656 },
+    coords: [125.656, 39.619],
     description: {
       de: "Der Paeksang-Pavillon liegt in Anju auf der Stadtmauer über dem Fluss Chongchon. Er ist als einer der acht schönsten Pavillons im Westen Koreas bekannt.",
       hu: "A Pekszang-pavilon Andzsuban található, a várfalon, a Csongcshon-folyó felett. Nyugat-Korea nyolc legszebb pavilonjának egyikeként ismert.",
@@ -1715,7 +1715,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-anju-south-gate-history-v2",
     type: "landmark",
     name: { de: "Südtor von Anju", hu: "Andzsu déli kapuja", ro: "Poarta de Sud din Anju", en: "Anju South Gate" },
-    coordinates: { lat: 39.617, lng: 125.658 },
+    coords: [125.658, 39.617],
     description: {
       de: "Das Südtor von Anju ist ein historischer Teil der Befestigungsanlagen von Anju. Es ist ein bedeutendes Zeugnis der Verteidigungsstrategie zum Schutz der Region Pjöngjang.",
       hu: "Andzsu déli kapuja az andzsui védelmi rendszer történelmi része. Jelentős emléke a Phenjan régió védelmét szolgáló védelmi stratégiának.",
@@ -1734,7 +1734,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-ryonggang-dolmens-history-v2",
     type: "ruins",
     name: { de: "Dolmen von Ryonggang", hu: "Rjonggangi dolmenek", ro: "Dolmenele din Ryonggang", en: "Ryonggang Dolmens" },
-    coordinates: { lat: 38.85, lng: 125.466 },
+    coords: [125.466, 38.85],
     description: {
       de: "Die Dolmengruppe von Ryonggang umfasst mehrere megalithische Grabanlagen aus der Bronzezeit. Sie geben Einblick in die Bestattungsriten der frühen Bewohner Koreas.",
       hu: "A rjonggangi dolmencsoport több bronzkori megalitikus síremléket foglal magában. Betekintést nyújtanak Korea korai lakóinak temetkezési rítusaiba.",
@@ -1753,7 +1753,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-taehung-temple-history-v2",
     type: "temple",
     name: { de: "Taehung-Tempel", hu: "Tehung-templom", ro: "Templul Taehung", en: "Taehung Temple" },
-    coordinates: { lat: 38.085, lng: 126.638 },
+    coords: [126.638, 38.085],
     description: {
       de: "Der Taehung-Tempel ist eine historische buddhistische Anlage in der Nähe der Stadt Kaesong, gelegen am Berg Songak. Er ist bekannt für seine gut erhaltene Haupthalle aus der späten Joseon-Zeit.",
       hu: "A Tehung-templom egy történelmi buddhista épületegyüttes Kesong közelében, a Szongak-hegyen. A késő Csoszon-korból származó, jó állapotú főcsarnokáról ismert.",
@@ -1772,7 +1772,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-jajinam-hermitage-history-v2",
     type: "temple",
     name: { de: "Jajinam-Einsiedelei", hu: "Dzadzinam-remetelak", ro: "Schitul Jajinam", en: "Jajinam Hermitage" },
-    coordinates: { lat: 38.077, lng: 126.631 },
+    coords: [126.631, 38.077],
     description: {
       de: "Jajinam ist eine kleine Einsiedelei, die an einer Klippe des Berges Songak bei Kaesong thront. Sie bietet eine weite Aussicht auf die historische Stadt und das Umland.",
       hu: "Dzadzinam egy kis remetelak, amely a kesongi Szongak-hegy egyik szikláján trónol. Széles kilátást nyújt a történelmi városra és környékére.",
@@ -1791,7 +1791,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kwangje-temple-history-v2",
     type: "temple",
     name: { de: "Kwangje-Tempel", hu: "Kvangdzse-templom", ro: "Templul Kwangje", en: "Kwangje Temple" },
-    coordinates: { lat: 38.331, lng: 128.058 },
+    coords: [128.058, 38.331],
     description: {
       de: "Der Kwangje-Tempel liegt in den Bergen von Kosong an der Ostküste. Er ist bekannt für seine kunstvollen architektonischen Details aus der Joseon-Dynastie.",
       hu: "A Kvangdzse-templom a keleti parton, Koszong hegyei között található. A Csoszon-dinasztia korából származó művészi építészeti részleteiről ismert.",
@@ -1810,7 +1810,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sinhung-temple-history-v2",
     type: "temple",
     name: { de: "Sinhung-Tempel", hu: "Szinhung-templom", ro: "Templul Sinhung", en: "Sinhung Temple" },
-    coordinates: { lat: 39.932, lng: 127.518 },
+    coords: [127.518, 39.932],
     description: {
       de: "Der Sinhung-Tempel in Hamhung ist eine historische Tempelanlage der Joseon-Dynastie. Die Haupthalle ist ein exzellentes Beispiel für die sakrale Holzarchitektur des 18. Jahrhunderts.",
       hu: "A hamhungi Szinhung-templom a Csoszon-dinasztia egyik történelmi templomegyüttese. Főcsarnoka a 18. századi szakrális faépítészet kiváló példája.",
@@ -1829,7 +1829,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sukchon-old-wall-history-v2",
     type: "ruins",
     name: { de: "Alte Mauer von Sukchon", hu: "Szukcshoni öreg fal", ro: "Zidul Vechi din Sukchon", en: "Sukchon Old Wall" },
-    coordinates: { lat: 39.418, lng: 125.612 },
+    coords: [125.612, 39.418],
     description: {
       de: "Die Überreste der alten Stadtmauer von Sukchon stammen aus der mittleren Joseon-Zeit. Sie dienten als lokaler Schutzwall für die landwirtschaftlich bedeutende Region nördlich von Pjöngjang.",
       hu: "A szukcshoni régi városfal maradványai a középső Csoszon-korból származnak. Helyi védműként szolgáltak a Phenjantól északra fekvő mezőgazdasági régió számára.",
@@ -1848,7 +1848,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pyongsong-south-gate-history-v2",
     type: "landmark",
     name: { de: "Südtor von Pyongsong", hu: "Phjongszong déli kapuja", ro: "Poarta de Sud din Pyongsong", en: "Pyongsong South Gate" },
-    coordinates: { lat: 39.245, lng: 125.852 },
+    coords: [125.852, 39.245],
     description: {
       de: "Das historische Südtor von Pyongsong ist ein Relikt der alten Befestigungen der Stadt Sain-ri. Es wurde im traditionellen Stil der Joseon-Dynastie errichtet.",
       hu: "Phjongszong történelmi déli kapuja a régi Szain-ri város erődítményeinek maradványa. A Csoszon-dinasztia hagyományos stílusában épült.",
@@ -1867,7 +1867,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-ryongwang-temple-history-v2",
     type: "temple",
     name: { de: "Ryongwang-Tempel", hu: "Rjongvang-templom", ro: "Templul Ryongwang", en: "Ryongwang Temple" },
-    coordinates: { lat: 39.955, lng: 125.742 },
+    coords: [125.742, 39.955],
     description: {
       de: "Der Ryongwang-Tempel in der Region Yongbyon ist eine bedeutende buddhistische Stätte aus der Goryeo-Zeit. Er ist bekannt für seine ruhige Lage und die historische Pagode.",
       hu: "A jongbjoni régióban található Rjongvang-templom a Korjo-kor egyik jelentős buddhista helyszíne. Csendes elhelyezkedéséről és történelmi pagodájáról ismert.",
@@ -1886,7 +1886,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-simwon-temple-history-v2",
     type: "temple",
     name: { de: "Simwon-Tempel", hu: "Simvon-templom", ro: "Templul Simwon", en: "Simwon Temple" },
-    coordinates: { lat: 38.455, lng: 125.912 },
+    coords: [125.912, 38.455],
     description: {
       de: "Der Simwon-Tempel ist ein historisches Heiligtum in der Provinz Hwanghae. Die Pogwang-Halle des Tempels zählt zu den wertvollsten Holzgebäuden aus der Zeit der Goryeo-Dynastie.",
       hu: "A Simvon-templom egy történelmi szentély Hvanghe tartományban. A templom Pogvang-csarnoka a Korjo-dinasztia korának egyik legértékesebb faépülete.",
@@ -1905,7 +1905,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-chonghae-garden-history-v2",
     type: "park",
     name: { de: "Chonghae-Garten", hu: "Csonghe-kert", ro: "Grădina Chonghae", en: "Chonghae Garden" },
-    coordinates: { lat: 39.855, lng: 127.612 },
+    coords: [127.612, 39.855],
     description: {
       de: "Der Chonghae-Garten in Hamhung ist eine historische Parkanlage, die ursprünglich als Rückzugsort für den Joseon-Gründer Ri Seong-gye angelegt wurde. Er verbindet Natur mit klassischer Architektur.",
       hu: "A hamhungi Csonghe-kert egy történelmi park, amelyet eredetileg Ri Szong-gje, a Csoszon-alapító visszavonulási helyeként alakítottak ki. A természetet ötvözi a klasszikus építészettel.",
@@ -1924,7 +1924,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-yaksu-ri-tomb-history-v2",
     type: "ruins",
     name: { de: "Yaksu-ri Grab", hu: "Jakszu-ri sír", ro: "Mormântul Yaksu-ri", en: "Yaksu-ri Tomb" },
-    coordinates: { lat: 38.925, lng: 125.395 },
+    coords: [125.395, 38.925],
     description: {
       de: "Das Yaksu-ri Grab ist ein Grabhügel aus der Goguryeo-Dynastie, der für seine detaillierten Wandmalereien von Belagerungen und Festungen bekannt ist. Es stammt aus dem frühen 5. Jahrhundert.",
       hu: "A Jakszu-ri sír egy Kogurjo-dinasztia korabeli sírhalom, amely az ostromokat és erődöket ábrázoló részletes falfestményeiről ismert. Az 5. század elejéről származik.",
@@ -1943,7 +1943,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-susan-ri-tomb-history-v2",
     type: "ruins",
     name: { de: "Susan-ri Grab", hu: "Szuszan-ri sír", ro: "Mormântul Susan-ri", en: "Susan-ri Tomb" },
-    coordinates: { lat: 38.911, lng: 125.422 },
+    coords: [125.422, 38.911],
     description: {
       de: "Das Susan-ri Grab ist berühmt für seine farbenfrohen Wandmalereien, die Akrobaten und Unterhaltungsszenen der Goguryeo-Zeit darstellen. Es bietet Einblick in die Kultur des 5. Jahrhunderts.",
       hu: "A Szuszan-ri sír színes falfestményeiről híres, amelyek a Kogurjo-korszak akrobatáit és szórakoztató jeleneteit ábrázolják. Betekintést nyújt az 5. századi kultúrába.",
@@ -1962,7 +1962,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-onpho-historic-resort-history-v2",
     type: "landmark",
     name: { de: "Historisches Onpho-Resort", hu: "Onpho történelmi üdülőhely", ro: "Stațiunea istorică Onpho", en: "Onpho Historic Resort" },
-    coordinates: { lat: 41.655, lng: 129.588 },
+    coords: [129.588, 41.655],
     description: {
       de: "Das Onpho-Resort bei Kyongsong ist seit Jahrhunderten für seine Thermalquellen bekannt. Es wurde bereits während der Joseon-Dynastie von Beamten und Adligen zur Erholung genutzt.",
       hu: "A Kjongszong melletti Onpho-üdülőhely évszázadok óta ismert termálforrásairól. Már a Csoszon-dinasztia idején tisztviselők és nemesek használták pihenésre.",
@@ -1981,7 +1981,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pukwan-victory-monument-history-v2",
     type: "monument",
     name: { de: "Pukwan-Siegessäule", hu: "Pukvan győzelmi emlékmű", ro: "Monumentul Victoriei Pukwan", en: "Pukwan Victory Monument" },
-    coordinates: { lat: 41.285, lng: 129.155 },
+    coords: [129.155, 41.285],
     description: {
       de: "Das Pukwan-Denkmal erinnert an den Sieg der koreanischen Miliz über japanische Truppen im Jahr 1592 während des Imjin-Krieges. Es wurde im 18. Jahrhundert in der Nähe von Kimchaek errichtet.",
       hu: "A Pukvan-emlékmű a koreai milícia japán csapatok felett aratott 1592-es győzelmének állít emléket az Imdzsin-háború idején. A 18. században emelték Kimcshak közelében.",
@@ -2000,7 +2000,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kyongsong-old-city-walls-history-v2",
     type: "ruins",
     name: { de: "Alte Mauern von Kyongsong", hu: "Kjongszong régi várfalai", ro: "Vechile Ziduri din Kyongsong", en: "Kyongsong Old City Walls" },
-    coordinates: { lat: 41.588, lng: 129.602 },
+    coords: [129.602, 41.588],
     description: {
       de: "Diese Steinwälle umschließen den historischen Kern von Kyongsong und stammen aus der Joseon-Zeit. Sie sind ein markantes Beispiel für die Wehrarchitektur im Nordosten Koreas.",
       hu: "Ezek a kőfalak Kjongszong történelmi magját ölelik körül, és a Csoszon-korból származnak. Korea északkeleti részének védelmi építészetére jellemző példák.",
@@ -2019,7 +2019,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-cholong-castle-history-v2",
     type: "castle",
     name: { de: "Festung Cholong", hu: "Csholong-erőd", ro: "Cetatea Cholong", en: "Cholong Castle" },
-    coordinates: { lat: 39.835, lng: 125.755 },
+    coords: [125.755, 39.835],
     description: {
       de: "Die Festung Cholong ist eine strategische Wehranlage in Yongbyon, die für ihre massiven Steinmauern bekannt ist. Sie galt über Jahrhunderte als uneinnehmbares Bollwerk.",
       hu: "A Csholong-erőd egy stratégiai védmű Jongbjonban, amely masszív kőfalairól ismert. Évszázadokon át bevehetetlen bástyaként tartották számon.",
@@ -2038,7 +2038,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-maengsan-old-house-history-v2",
     type: "landmark",
     name: { de: "Altes Haus von Maengsan", hu: "Mengszani öreg ház", ro: "Casa Veche din Maengsan", en: "Maengsan Old House" },
-    coordinates: { lat: 39.482, lng: 126.652 },
+    coords: [126.652, 39.482],
     description: {
       de: "Dieses historische Wohnhaus in Maengsan ist ein seltenes Beispiel für die ländliche Architektur der mittleren Joseon-Dynastie. Es bewahrt die traditionelle Raumaufteilung und Bauweise.",
       hu: "Ez a mengszani történelmi lakóház a középső Csoszon-dinasztia vidéki építészetének ritka példája. Megőrzi a hagyományos belső elrendezést és építési módot.",
@@ -2057,7 +2057,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-uiju-old-wall-ruins-history-v2",
     type: "ruins",
     name: { de: "Mauerruinen von Uiju", hu: "Uidzsu várfalmaradványai", ro: "Ruinele Zidului din Uiju", en: "Uiju Old Wall Ruins" },
-    coordinates: { lat: 40.196, lng: 124.528 },
+    coords: [124.528, 40.196],
     description: {
       de: "Die Steinruinen der Stadtmauer von Uiju zeugen von der Bedeutung der Stadt als militärisches Bollwerk am Yalu-Fluss. Sie schützten Korea über Jahrhunderte vor Invasionen vom Festland.",
       hu: "Uidzsu várfalának kőmaradványai a város Jalu-folyó menti katonai bástyaként betöltött szerepét tanúsítják. Évszázadokon át védték Koreát a szárazföldi inváziók ellen.",
@@ -2076,7 +2076,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kaesong-koryo-wall-history-v2",
     type: "ruins",
     name: { de: "Koryo-Mauer von Kaesong", hu: "Kesongi Korjo-fal", ro: "Zidul Goryeo din Kaesong", en: "Kaesong Koryo Wall" },
-    coordinates: { lat: 37.975, lng: 126.545 },
+    coords: [126.545, 37.975],
     description: {
       de: "Die Koryo-Mauer ist die äußere Befestigungslinie der ehemaligen Hauptstadt Gaegyeong. Diese Erd- und Steinmälle wurden im 11. Jahrhundert zum Schutz vor Kitan-Invasionen errichtet.",
       hu: "A Korjo-fal az egykori főváros, Kegjong külső védelmi vonala. Ezeket a föld- és kőműveket a 11. században emelték a kitaj inváziók elleni védekezésül.",
@@ -2095,7 +2095,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pyongyang-north-fortress-history-v2",
     type: "ruins",
     name: { de: "Nordfestung von Pjöngjang", hu: "Phenjani északi erőd", ro: "Cetatea de Nord din Phenian", en: "Pyongyang North Fortress" },
-    coordinates: { lat: 39.048, lng: 125.758 },
+    coords: [125.758, 39.048],
     description: {
       de: "Die Nordfestung ist ein Teilkomplex der Stadtmauern von Pjöngjang auf dem Moran-Hügel. Sie diente als letzte Rückzugsebene und umfasst mehrere strategische Pavillons.",
       hu: "Az északi erőd a phenjani várfalak részkomplexuma a Moran-dombon. Utolsó visszavonulási vonalként szolgált, és számos stratégiai pavilont foglal magában.",
@@ -2114,7 +2114,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-haeju-south-gate-history-v2",
     type: "landmark",
     name: { de: "Südtor von Haeju", hu: "Hedzsu déli kapuja", ro: "Poarta de Sud din Haeju", en: "Haeju South Gate" },
-    coordinates: { lat: 38.03, lng: 125.715 },
+    coords: [125.715, 38.03],
     description: {
       de: "Das Südtor von Haeju ist ein bedeutender Überrest der historischen Stadtmauer. Die massive Steinbasis und der kunstvolle Holzpavillon repräsentieren den Baustil der mittleren Joseon-Zeit.",
       hu: "Hedzsu déli kapuja a történelmi városfal jelentős maradványa. Masszív kő alapzata és művészi fa pavilonja a középső Csoszon-kor építészeti stílusát képviseli.",
@@ -2133,7 +2133,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-wonsan-old-port-history-v2",
     type: "port",
     name: { de: "Alter Hafen von Wonsan", hu: "Vonszan régi kikötője", ro: "Vechiul Port din Wonsan", en: "Wonsan Old Port" },
-    coordinates: { lat: 39.155, lng: 127.452 },
+    coords: [127.452, 39.155],
     description: {
       de: "Der alte Hafen von Wonsan war einer der ersten Häfen Koreas, der im späten 19. Jahrhundert für den internationalen Handel geöffnet wurde. Er spielte eine Schlüsselrolle in der Modernisierung der Region.",
       hu: "Vonszan régi kikötője az egyik első koreai kikötő volt, amelyet a 19. század végén megnyitottak a nemzetközi kereskedelem előtt. Kulcsszerepet játszott a régió modernizációjában.",
@@ -2152,7 +2152,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sariwon-ancient-dolmen-history-v2",
     type: "ruins",
     name: { de: "Alter Dolmen von Sariwon", hu: "Szarivon ősi dolmenje", ro: "Dolmenul Antic din Sariwon", en: "Sariwon Ancient Dolmen" },
-    coordinates: { lat: 38.515, lng: 125.752 },
+    coords: [125.752, 38.515],
     description: {
       de: "Dieser prähistorische Dolmen am Stadtrand von Sariwon stammt aus der Bronzezeit. Er ist ein bedeutendes Beispiel für die megalithische Kultur in der Provinz Hwanghae.",
       hu: "Ez a Szarivon szélén található őskori dolmen a bronzkorból származik. A Hvanghe tartomány megalitikus kultúrájának jelentős példája.",
@@ -2171,7 +2171,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kaesong-chomsongdae-history-v2",
     type: "landmark",
     name: { de: "Kaesong Chomsongdae", hu: "Kesongi Csomoszongde", ro: "Chomsongdae Kaesong", en: "Kaesong Chomsongdae" },
-    coordinates: { lat: 37.982, lng: 126.565 },
+    coords: [126.565, 37.982],
     description: {
       de: "Das Chomsongdae in Kaesong ist eine astronomische Plattform aus der Goryeo-Dynastie. Sie wurde zur Beobachtung von Himmelskörpern und zur meteorologischen Aufzeichnung genutzt.",
       hu: "A kesongi Csomoszongde a Korjo-dinasztia korából származó csillagászati platform. Égitestek megfigyelésére és meteorológiai feljegyzések készítésére használták.",
@@ -2190,7 +2190,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-potonggang-riverfront-history-v2",
     type: "park",
     name: { de: "Potonggang-Uferpromenade", hu: "Potonggang-parti sétány", ro: "Promenada Râului Potonggang", en: "Potonggang Riverfront" },
-    coordinates: { lat: 39.035, lng: 125.728 },
+    coords: [125.728, 39.035],
     description: {
       de: "Das historische Ufer des Potong-Flusses in Pjöngjang war einst Schauplatz wichtiger Befestigungsarbeiten. Heute ist es eine parkähnliche Anlage mit Denkmälern zur Stadtgeschichte.",
       hu: "A Potong-folyó történelmi partja Phenjanban egykor fontos erődítési munkálatok helyszíne volt. Ma parkosított terület, amely a várostörténeti emlékműveknek ad otthont.",
@@ -2209,7 +2209,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-taesong-fortress-ruins-history-v2",
     type: "ruins",
     name: { de: "Festungsruinen von Taesong", hu: "Teszongi várromok", ro: "Ruinele Cetății Taesong", en: "Taesong Fortress Ruins" },
-    coordinates: { lat: 39.072, lng: 125.822 },
+    coords: [125.822, 39.072],
     description: {
       de: "Die Bergfestung Taesongsan war die Hauptverteidigungsanlage von Pjöngjang während der Goguryeo-Dynastie. Die massiven Mauern umschließen sechs Berggipfel.",
       hu: "A Teszongszan hegyi erőd Phenjan fő védelmi létesítménye volt a Kogurjo-dinasztia idején. A masszív falak hat hegycsúcsot zárnak körül.",
@@ -2228,7 +2228,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-ryongmun-temple-site-history-v2",
     type: "ruins",
     name: { de: "Ryongmun-Tempelstätte", hu: "Rjongmun-templomhely", ro: "Situl Templului Ryongmun", en: "Ryongmun Temple Site" },
-    coordinates: { lat: 39.985, lng: 125.922 },
+    coords: [125.922, 39.985],
     description: {
       de: "Die historische Stätte des Ryongmun-Tempels in Kujang beherbergt archäologische Überreste einer bedeutenden Tempelanlage der Goryeo-Zeit. Sie liegt in der Nähe der berühmten Ryongmun-Höhlen.",
       hu: "A kudzsangi Rjongmun-templom történelmi helyszíne egy jelentős Korjo-kori templomegyüttes régészeti maradványait őrzi. A híres Rjongmun-barlangok közelében található.",
@@ -2247,7 +2247,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kaechon-old-fortress-history-v2",
     type: "ruins",
     name: { de: "Alte Festung von Kaechon", hu: "Kecshoni régi erőd", ro: "Cetatea Veche din Kaechon", en: "Kaechon Old Fortress" },
-    coordinates: { lat: 39.695, lng: 125.888 },
+    coords: [125.888, 39.695],
     description: {
       de: "Die Überreste der Festung Kaechon stammen aus der frühen Goryeo-Dynastie. Sie wurde strategisch an den Ufern des Flusses Daedong errichtet, um den Norden zu sichern.",
       hu: "A kecshoni erőd maradványai a korai Korjo-dinasztia idejéből származnak. Stratégiailag a Tedong-folyó partján emelték az északi területek biztosítására.",
@@ -2266,7 +2266,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sunchon-victory-site-history-v2",
     type: "battlefield",
     name: { de: "Siegesschlachtfeld von Sunchon", hu: "Szuncshoni győzelmi csatatér", ro: "Câmpul de Luptă al Victoriei din Sunchon", en: "Sunchon Victory Site" },
-    coordinates: { lat: 39.425, lng: 125.932 },
+    coords: [125.932, 39.425],
     description: {
       de: "Dieses historische Gebiet bei Sunchon erinnert an entscheidende Schlachten in der koreanischen Geschichte, insbesondere während des Widerstands gegen ausländische Invasionen.",
       hu: "Ez a Szuncshon melletti történelmi terület a koreai történelem döntő csatáira emlékeztet, különösen a külföldi inváziók elleni ellenállás idejéből.",
@@ -2285,7 +2285,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-songrim-historical-foundry-history-v2",
     type: "industry",
     name: { de: "Historische Gießerei von Songrim", hu: "Szongrim történelmi öntöde", ro: "Turnătoria Istorică din Songrim", en: "Songrim Historical Foundry" },
-    coordinates: { lat: 38.742, lng: 125.645 },
+    coords: [125.645, 38.742],
     description: {
       de: "Die historische Gießerei in Songrim war eines der ersten modernen Industriezentren Koreas. Sie wurde zu Beginn des 20. Jahrhunderts errichtet und spielte eine zentrale Rolle in der Eisenproduktion.",
       hu: "A szongrimi történelmi öntöde Korea egyik első modern ipari központja volt. A 20. század elején alapították, és központi szerepet játszott a vasgyártásban.",
@@ -2304,7 +2304,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-hoeryong-revolutionary-site-history-v2",
     type: "landmark",
     name: { de: "Revolutionäre Stätte von Hoeryong", hu: "Hö rjong-i forradalmi emlékhely", ro: "Situl Revoluționar din Hoeryong", en: "Hoeryong Revolutionary Site" },
-    coordinates: { lat: 42.435, lng: 129.748 },
+    coords: [129.748, 42.435],
     description: {
       de: "Diese Stätte in Hoeryong ist dem Gedenken an Kim Jong-suk, eine bedeutende Figur der nordkoreanischen Geschichte, gewidmet. Sie umfasst ihr Geburtshaus und verschiedene Denkmäler.",
       hu: "Ez a hö rjong-i helyszín Kim Dzsongszuknak, az észak-koreai történelem egyik jelentős alakjának állít emléket. Magában foglalja szülőházát és különféle emlékműveket.",
@@ -2323,7 +2323,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-manpo-frontier-fortress-history-v2",
     type: "ruins",
     name: { de: "Grenzfestung von Manpo", hu: "Manpói határerőd", ro: "Cetatea de Frontieră din Manpo", en: "Manpo Frontier Fortress" },
-    coordinates: { lat: 41.155, lng: 126.288 },
+    coords: [126.288, 41.155],
     description: {
       de: "Die Überreste der Grenzfestung Manpo liegen am Ufer des Yalu-Flusses. Sie dienten über Jahrhunderte der Überwachung des Grenzverkehrs und der Verteidigung gegen Einfälle aus dem Norden.",
       hu: "A manpói határerőd maradványai a Jalu-folyó partján fekszenek. Évszázadokon át a határforgalom ellenőrzésére és az északi betörések elleni védekezésre szolgáltak.",
@@ -2342,7 +2342,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sinpho-historical-fishing-village-history-v2",
     type: "village",
     name: { de: "Historisches Fischerdorf von Sinpho", hu: "Szinphói történelmi halászfalu", ro: "Satul istoric de pescari din Sinpho", en: "Sinpho Historical Fishing Village" },
-    coordinates: { lat: 40.033, lng: 128.188 },
+    coords: [128.188, 40.033],
     description: {
       de: "Das historische Fischerdorf in Sinpho bewahrt die traditionelle Lebensweise der Küstenbewohner an der Ostsee. Es umfasst alte strohgedeckte Häuser und Gerätschaften für den Fischfang.",
       hu: "A szinphói történelmi halászfalu a keleti parti lakosok hagyományos életmódját őrzi. Régi nádfedeles házakat és halászati eszközöket foglal magában.",
@@ -2361,7 +2361,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sonchon-old-academy-history-v2",
     type: "university",
     name: { de: "Alte Akademie von Sonchon", hu: "Szoncshoni régi akadémia", ro: "Vechea Academie din Sonchon", en: "Sonchon Old Academy" },
-    coordinates: { lat: 39.815, lng: 124.912 },
+    coords: [124.912, 39.815],
     description: {
       de: "Diese ehemalige konfuzianische Akademie in Sonchon war ein bedeutendes Bildungszentrum der Joseon-Dynastie im Nordwesten Koreas. Die Anlage umfasst eine Schrein- und eine Lehrhalle.",
       hu: "Ez az egykori konfuciánus akadémia Szoncshonban a Csoszon-dinasztia jelentős oktatási központja volt Északnyugat-Koreában. A komplexum egy szentélyt és egy tantermet foglal magában.",
@@ -2380,7 +2380,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-samjiyon-grand-monument-history-v2",
     type: "monument",
     name: { de: "Großmonument von Samjiyon", hu: "Szamdzsijoni nagymonumentum", ro: "Marele Monument din Samjiyon", en: "Samjiyon Grand Monument" },
-    coordinates: { lat: 41.835, lng: 128.332 },
+    coords: [128.332, 41.835],
     description: {
       de: "Das Großmonument von Samjiyon liegt am Ufer des Sees Samji und erinnert an den bewaffneten Kampf gegen die japanische Besatzung. Es ist eines der größten skulpturalen Ensembles des Landes.",
       hu: "A szamdzsijoni nagymonumentum a Szamdzi-tó partján található, és a japán megszállás elleni fegyveres harcnak állít emléket. Az ország egyik legnagyobb szobrászati együttese.",
@@ -2399,7 +2399,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-pukchang-historical-pass-history-v2",
     type: "valley",
     name: { de: "Historischer Pass von Pukchang", hu: "Pukcsangi történelmi hágó", ro: "Pasul Istoric din Pukchang", en: "Pukchang Historical Pass" },
-    coordinates: { lat: 39.515, lng: 126.115 },
+    coords: [126.115, 39.515],
     description: {
       de: "Dieser Gebirgspass bei Pukchang war über Jahrhunderte eine strategische Passage zwischen dem zentralen Bergland und der Westküste. Er ist bekannt für seine alten Befestigungsspuren.",
       hu: "Ez a Pukcsang melletti hágó évszázadokon át stratégiai átjáró volt a középső hegyvidék és a nyugati part között. Régi erődítések nyomairól ismert.",
@@ -2418,7 +2418,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-wonsan-liberation-tower-history-v2",
     type: "monument",
     name: { de: "Befreiungsturm von Wonsan", hu: "Vonszani felszabadulási torony", ro: "Turnul Eliberării din Wonsan", en: "Wonsan Liberation Tower" },
-    coordinates: { lat: 39.158, lng: 127.442 },
+    coords: [127.442, 39.158],
     description: {
       de: "Der Befreiungsturm in Wonsan erinnert an die Rolle der sowjetischen Armee bei der Befreiung Koreas von der japanischen Herrschaft im Jahr 1945. Er ist ein markantes Denkmal im Stadtbild.",
       hu: "A vonszani felszabadulási torony a szovjet hadsereg szerepére emlékeztet Korea 1945-ös, japán uralom alóli felszabadításában. A városkép jellegzetes emlékműve.",
@@ -2437,7 +2437,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-kaesong-folklore-site-history-v2",
     type: "landmark",
     name: { de: "Historische Folklore-Stätte Kaesong", hu: "Kesongi történelmi folklór helyszín", ro: "Situl Istoric de Folclor Kaesong", en: "Kaesong Historical Folklore Site" },
-    coordinates: { lat: 37.972, lng: 126.548 },
+    coords: [126.548, 37.972],
     description: {
       de: "Diese Stätte in Kaesong umfasst ein Ensemble originaler Hanok-Häuser aus der Joseon-Zeit. Sie bietet eine authentische Kulisse für das Studium der traditionellen Lebensweise.",
       hu: "Ez a kesongi helyszín eredeti Csoszon-kori hanok házak együttesét foglalja magában. Hiteles díszletet nyújt a hagyományos életmód tanulmányozásához.",
@@ -2456,7 +2456,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-tokchon-victory-memorial-history-v2",
     type: "monument",
     name: { de: "Sieg-Denkmal von Tokchon", hu: "Tokcshoni győzelmi emlékmű", ro: "Monumentul Victoriei din Tokchon", en: "Tokchon Victory Memorial" },
-    coordinates: { lat: 39.755, lng: 126.295 },
+    coords: [126.295, 39.755],
     description: {
       de: "Das Tokchon-Denkmal erinnert an bedeutende militärische Erfolge in der Region während des Koreakrieges. Es steht auf einer Anhöhe mit weitem Blick über das Industriegebiet von Tokchon.",
       hu: "A tokcshoni emlékmű a régióban a koreai háború alatt elért jelentős katonai sikereknek állít emléket. Egy magaslaton áll, ahonnan széles kilátás nyílik a tokcshoni ipari területre.",
@@ -2475,7 +2475,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-hyesan-liberation-monument-history-v2",
     type: "monument",
     name: { de: "Befreiungsdenkmal von Hyesan", hu: "Hjeszani felszabadulási emlékmű", ro: "Monumentul Eliberării din Hyesan", en: "Hyesan Liberation Monument" },
-    coordinates: { lat: 41.405, lng: 128.178 },
+    coords: [128.178, 41.405],
     description: {
       de: "Das Befreiungsdenkmal in Hyesan ehrt den Kampf der koreanischen Guerillabewegung an der Nordgrenze. Es dominiert den zentralen Platz der Stadt am Yalu-Fluss.",
       hu: "A hjeszani felszabadulási emlékmű a koreai gerillamozgalom északi határon vívott harca előtt tiszteleg. A város Jalu-folyó menti központi terét uralja.",
@@ -2494,7 +2494,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-huichon-old-wall-history-v2",
     type: "ruins",
     name: { de: "Alte Mauer von Huichon", hu: "Hücshoni régi fal", ro: "Zidul Vechi din Huichon", en: "Huichon Old Wall" },
-    coordinates: { lat: 40.165, lng: 126.255 },
+    coords: [126.255, 40.165],
     description: {
       de: "Die Huichon-Mauerruinen sind Überreste einer Bergfestung, die den strategischen Durchbruch in die nördlichen Provinzen sicherte. Sie stammt ursprünglich aus der Goryeo-Zeit.",
       hu: "A hücshoni várfalromok egy hegyi erőd maradványai, amely az északi tartományokba vezető stratégiai átjárót biztosította. Eredetileg a Korjo-korszakból származik.",
@@ -2513,7 +2513,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-jongju-old-fortress-history-v2",
     type: "ruins",
     name: { de: "Alte Festung von Jongju", hu: "Dzsongdzsu régi erőd", ro: "Cetatea Veche din Jongju", en: "Jongju Old Fortress" },
-    coordinates: { lat: 39.695, lng: 125.212 },
+    coords: [125.212, 39.695],
     description: {
       de: "Die Festung von Jongju war eine bedeutende Verteidigungsanlage im Westen des Landes. Ihre Steinmauern dienten dem Schutz der Küstenregion und der Handelsstraßen nach China.",
       hu: "Dzsongdzsu erődje az ország nyugati részének jelentős védelmi létesítménye volt. Kőfalai a tengerparti régiót és a Kínába vezető kereskedelmi utakat védték.",

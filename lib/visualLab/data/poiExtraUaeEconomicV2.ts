@@ -546,7 +546,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-difc-economic-v2",
     type: "landmark",
     name: { de: "Dubai International Financial Centre", hu: "Dubai Nemzetközi Pénzügyi Központ", ro: "Centrul Financiar Internațional Dubai", en: "Dubai International Financial Centre" },
-    coordinates: { lat: 25.213, lng: 55.281 },
+    coords: [55.281, 25.213],
     description: {
       de: "DIFC ist ein weltweit führendes Finanzzentrum im Nahen Osten. Es verfügt über ein unabhängiges Rechtssystem und eigene Gerichte.",
       hu: "A DIFC a Közel-Kelet egyik vezető globális pénzügyi központja. Független jogrendszerrel és saját igazságszolgáltatással rendelkezik.",
@@ -565,7 +565,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-masdar-city-economic-v2",
     type: "landmark",
     name: { de: "Masdar City", hu: "Masdar City", ro: "Orașul Masdar", en: "Masdar City" },
-    coordinates: { lat: 24.427, lng: 54.618 },
+    coords: [54.618, 24.427],
     description: {
       de: "Masdar City ist eine geplante nachhaltige Stadt in Abu Dhabi. Sie konzentriert sich auf saubere Energie und grüne Technologien.",
       hu: "Masdar City egy fenntartható városi közösség Abu-Dzabiban. A tiszta energiára és a zöld technológiákra összpontosít.",
@@ -584,7 +584,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-dubai-silicon-oasis-economic-v2",
     type: "industry",
     name: { de: "Dubai Silicon Oasis", hu: "Dubai Szilícium-oázis", ro: "Dubai Silicon Oasis", en: "Dubai Silicon Oasis" },
-    coordinates: { lat: 25.122, lng: 55.385 },
+    coords: [55.385, 25.122],
     description: {
       de: "Dubai Silicon Oasis ist ein Technologiepark und eine Freihandelszone. Er fördert moderne technologiebasierte Industrien in Dubai.",
       hu: "A Dubai Szilícium-oázis egy technológiai park és szabadkereskedelmi övezet. A modern technológiai iparágakat támogatja Dubajban.",
@@ -603,7 +603,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-dubai-media-city-economic-v2",
     type: "landmark",
     name: { de: "Dubai Media City", hu: "Dubai Media City", ro: "Dubai Media City", en: "Dubai Media City" },
-    coordinates: { lat: 25.092, lng: 55.154 },
+    coords: [55.154, 25.092],
     description: {
       de: "Dubai Media City ist ein regionales Zentrum für Medienorganisationen. Es bietet eine steuerfreie Umgebung für Nachrichten- und Marketingfirmen.",
       hu: "A Dubai Media City a médiavállalatok regionális központja. Adómentes környezetet biztosít a hír- és marketingcégek számára.",
@@ -622,7 +622,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-das-island-economic-v2",
     type: "industry",
     name: { de: "Das Island", hu: "Dasz-sziget", ro: "Insula Das", en: "Das Island" },
-    coordinates: { lat: 25.152, lng: 52.872 },
+    coords: [52.872, 25.152],
     description: {
       de: "Das Island ist ein wichtiger Offshore-Knotenpunkt für die Öl- und Gasindustrie. Es dient als Verarbeitungszentrum für Offshore-Felder.",
       hu: "Dasz-sziget az olaj- és gázipar kulcsfontosságú tengeri csomópontja. A tengeri mezők feldolgozó központjaként szolgál.",
@@ -641,7 +641,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-mina-saqr-economic-v2",
     type: "port",
     name: { de: "Mina Saqr", hu: "Szakr-kikötő", ro: "Portul Saqr", en: "Mina Saqr" },
-    coordinates: { lat: 25.981, lng: 56.052 },
+    coords: [56.052, 25.981],
     description: {
       de: "Mina Saqr ist der primäre Schüttguthafen im Nahen Osten. Er liegt in Ras Al Khaimah und bedient die größten Steinbrüche der Region.",
       hu: "A Szakr-kikötő a Közel-Kelet elsődleges ömlesztettáru-kikötője. Rász el-Haimában található, és a régió legnagyobb kőbányáit szolgálja ki.",
@@ -660,7 +660,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-taweelah-desalination-economic-v2",
     type: "industry",
     name: { de: "Taweelah Meerwasserentsalzungsanlage", hu: "Tavila vízsótalanító üzem", ro: "Instalația de desalinizare Taweelah", en: "Taweelah Desalination Plant" },
-    coordinates: { lat: 24.771, lng: 54.702 },
+    coords: [54.702, 24.771],
     description: {
       de: "Die Anlage in Taweelah ist eine der weltweit größten Umkehrosmose-Entsalzungsanlagen. Sie sichert die Wasserversorgung von Abu Dhabi.",
       hu: "A tavilai üzem a világ egyik legnagyobb fordított ozmózisú sótalanítója. Abu-Dzabi vízellátását biztosítja.",
@@ -679,7 +679,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-al-khaleej-sugar-economic-v2",
     type: "factory",
     name: { de: "Al Khaleej Zucker-Raffinerie", hu: "Al Khaleej cukorfinomító", ro: "Rafinăria de zahăr Al Khaleej", en: "Al Khaleej Sugar Refinery" },
-    coordinates: { lat: 25.015, lng: 55.071 },
+    coords: [55.071, 25.015],
     description: {
       de: "Die Al Khaleej Raffinerie ist die größte eigenständige Zucker-Raffinerie der Welt. Sie befindet sich im Hafen Jebel Ali in Dubai.",
       hu: "Az Al Khaleej a világ legnagyobb önálló cukorfinomítója. Dubajban, a Jebel Ali kikötő területén található.",
@@ -698,7 +698,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-julphar-pharmaceuticals-economic-v2",
     type: "factory",
     name: { de: "Julphar Arzneimittelherstellung", hu: "Julphar gyógyszergyár", ro: "Julphar Farmaceutice", en: "Julphar Pharmaceuticals" },
-    coordinates: { lat: 25.862, lng: 56.035 },
+    coords: [56.035, 25.862],
     description: {
       de: "Julphar ist einer der größten Pharmahersteller in der Region. Das Unternehmen hat seinen Hauptsitz in Ras Al Khaimah.",
       hu: "A Julphar a régió egyik legnagyobb gyógyszergyártója. Székhelye Rász el-Haimában található.",
@@ -717,7 +717,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-dubai-healthcare-city-economic-v2",
     type: "landmark",
     name: { de: "Dubai Healthcare City", hu: "Dubai Egészségügyi Város", ro: "Dubai Healthcare City", en: "Dubai Healthcare City" },
-    coordinates: { lat: 25.231, lng: 55.322 },
+    coords: [55.322, 25.231],
     description: {
       de: "Dubai Healthcare City ist eine Gesundheits-Freizone in Dubai. Sie ist ein Zentrum für medizinische Dienstleistungen und Ausbildung.",
       hu: "A Dubai Egészségügyi Város egy speciális egészségügyi szabadövezet. Orvosi szolgáltatások és oktatás központja.",
@@ -736,7 +736,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-dubai-design-district-economic-v2",
     type: "landmark",
     name: { de: "Dubai Design District", hu: "Dubai Design District", ro: "Dubai Design District", en: "Dubai Design District" },
-    coordinates: { lat: 25.185, lng: 55.301 },
+    coords: [55.301, 25.185],
     description: {
       de: "Dubai Design District, bekannt als d3, ist ein Zentrum für die Kreativindustrie. Er beherbergt Designer, Modemarken und Künstler.",
       hu: "A Dubai Design District, ismertebb nevén d3, a kreatív ipar központja. Tervezőknek, divatmárkáknak és művészeknek ad otthont.",
@@ -755,7 +755,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-strata-manufacturing-economic-v2",
     type: "factory",
     name: { de: "Strata Luftfahrtindustrie", hu: "Strata repülőgépgyártó", ro: "Strata Manufacturing", en: "Strata Manufacturing" },
-    coordinates: { lat: 24.261, lng: 55.762 },
+    coords: [55.762, 24.261],
     description: {
       de: "Strata ist ein führender Hersteller von Flugzeugkomponenten aus Verbundwerkstoffen. Das Unternehmen hat seinen Sitz in Al Ain.",
       hu: "A Strata a repülőgépek kompozit alkatrészeinek vezető gyártója. Székhelye el-Ajn városában található.",
@@ -774,7 +774,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-dubai-commercity-economic-v2",
     type: "industry",
     name: { de: "Dubai CommerCity", hu: "Dubai CommerCity", ro: "Dubai CommerCity", en: "Dubai CommerCity" },
-    coordinates: { lat: 25.252, lng: 55.375 },
+    coords: [55.375, 25.252],
     description: {
       de: "Dubai CommerCity ist die erste Freihandelszone für E-Commerce in der Region. Sie unterstützt digitale Handelsunternehmen.",
       hu: "A Dubai CommerCity a régió első e-kereskedelmi szabadövezete. Digitális kereskedelmi vállalkozásokat támogat.",
@@ -793,7 +793,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-hamriyah-free-zone-economic-v2",
     type: "industry",
     name: { de: "Hamriyah Freihandelszone", hu: "Hamriyah szabadövezet", ro: "Zona Liberă Hamriyah", en: "Hamriyah Free Zone" },
-    coordinates: { lat: 25.462, lng: 55.485 },
+    coords: [55.485, 25.462],
     description: {
       de: "Die Hamriyah Freihandelszone ist ein bedeutendes Industriezentrum in Sharjah. Sie beherbergt Tausende von Unternehmen aus verschiedenen Branchen.",
       hu: "A Hamriyah szabadövezet Sardzsa jelentős ipari központja. Több ezer különböző szektorból érkező cégnek ad otthont.",
@@ -812,7 +812,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-upper-zakum-oil-field-economic-v2",
     type: "industry",
     name: { de: "Upper Zakum Ölfeld", hu: "Felső-Zakum olajmező", ro: "Câmpul petrolier Upper Zakum", en: "Upper Zakum Oil Field" },
-    coordinates: { lat: 24.845, lng: 53.755 },
+    coords: [53.755, 24.845],
     description: {
       de: "Upper Zakum ist das zweitgrößte Offshore-Ölfeld der Welt. Es wird von der Zakum Development Company (ZADCO) betrieben.",
       hu: "A Felső-Zakum a világ második legnagyobb tengeri olajmezője. A Zakum Development Company (ZADCO) üzemelteti.",
@@ -831,7 +831,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-gold-diamond-park-economic-v2",
     type: "industry",
     name: { de: "Gold and Diamond Park", hu: "Arany- és Gyémántpark", ro: "Gold and Diamond Park", en: "Gold and Diamond Park" },
-    coordinates: { lat: 25.125, lng: 55.215 },
+    coords: [55.215, 25.125],
     description: {
       de: "Der Gold and Diamond Park ist eine spezialisierte Zone für die Schmuckindustrie. Er verbindet Produktion und Einzelhandel.",
       hu: "Az Arany- és Gyémántpark az ékszeripar speciális övezete. Ötvözi a gyártást és a kiskereskedelmet.",
@@ -850,7 +850,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-al-ain-dairy-economic-v2",
     type: "industry",
     name: { de: "Al Ain Milchfarm", hu: "el-Ajni tejüzem", ro: "Ferma de lactate Al Ain", en: "Al Ain Dairy Farm" },
-    coordinates: { lat: 24.302, lng: 55.655 },
+    coords: [55.655, 24.302],
     description: {
       de: "Die Al Ain Dairy Farm war die erste Milchfarm der VAE. Sie ist ein führender Produzent von Milchprodukten und Säften.",
       hu: "Az el-Ajni tejüzem volt az Emírségek első tejgazdasága. A tejtermékek és gyümölcslevek vezető gyártója.",
@@ -869,7 +869,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-shams-media-city-economic-v2",
     type: "landmark",
     name: { de: "Sharjah Media City (Shams)", hu: "Sardzsa Médiaváros (Shams)", ro: "Sharjah Media City (Shams)", en: "Sharjah Media City (Shams)" },
-    coordinates: { lat: 25.312, lng: 55.705 },
+    coords: [55.705, 25.312],
     description: {
       de: "Sharjah Media City ist ein Zentrum für Kreativ- und Medienunternehmen in Sharjah. Sie bietet flexible Lizenzen für Startups.",
       hu: "A Sardzsa Médiaváros a kreatív és médiavállalkozások központja Sardzsában. Rugalmas licenceket kínál startupoknak.",
@@ -888,7 +888,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-habshan-gas-economic-v2",
     type: "industry",
     name: { de: "Habshan Gaskomplex", hu: "Habshan gázkomplexum", ro: "Complexul de gaze Habshan", en: "Habshan Gas Complex" },
-    coordinates: { lat: 23.632, lng: 53.735 },
+    coords: [53.735, 23.632],
     description: {
       de: "Der Habshan Komplex ist eines der weltweit größten Zentren für die Gasverarbeitung. Er liegt in der Wüste von Abu Dhabi.",
       hu: "A Habshan komplexum a világ egyik legnagyobb gázfeldolgozó központja. Abu-Dzabi sivatagi részén található.",
@@ -907,7 +907,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
     id: "uae-foiz-economic-v2",
     type: "industry",
     name: { de: "Fujairah Oil Industry Zone", hu: "Fudzsejra olajipari övezet", ro: "Zona Industriel Petroliere Fujairah", en: "Fujairah Oil Industry Zone" },
-    coordinates: { lat: 25.192, lng: 56.355 },
+    coords: [56.355, 25.192],
     description: {
       de: "Die Fujairah Oil Industry Zone ist ein strategisches Zentrum für die Lagerung von Öl. Sie liegt direkt am Golf von Oman.",
       hu: "A Fudzsejra olajipari övezet az olajtárolás stratégiai központja. Közvetlenül az Ománi-öböl partján fekszik.",

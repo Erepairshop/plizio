@@ -5,7 +5,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-apia-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Apia", hu: "Apia kikötője", ro: "Portul Apia", en: "Port of Apia" },
-    coordinates: { lat: -13.826, lng: -171.764 },
+    coords: [-171.764, -13.826],
     description: {
       de: "Der Hafen von Apia ist der wichtigste internationale Seehandelsknotenpunkt Samoas. Er wickelt fast alle Container- und Treibstoffimporte des Inselstaates ab.",
       hu: "Apia kikötője Szamoa legfontosabb nemzetközi tengeri kereskedelmi csomópontja. Ez a kikötő kezeli a szigetország szinte összes konténeres és üzemanyag-importját.",
@@ -24,7 +24,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-vaitele-industrial-zone-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Vaitele", hu: "Vaitele ipari negyed", ro: "Zona industrială Vaitele", en: "Vaitele Industrial Zone" },
-    coordinates: { lat: -13.837, lng: -171.802 },
+    coords: [-171.802, -13.837],
     description: {
       de: "Das Industriegebiet Vaitele westlich von Apia ist das größte Produktionszentrum des Landes. Hier befinden sich Fabriken, Lagerhäuser und Logistikunternehmen.",
       hu: "Az Apiától nyugatra fekvő Vaitele ipari övezet az ország legnagyobb gyártási központja. Itt találhatók gyárak, raktárak és logisztikai cégek.",
@@ -43,7 +43,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-faleolo-airport-logistics-economic-v2",
     type: "port",
     name: { de: "Internationaler Flughafen Faleolo", hu: "Faleolo nemzetközi repülőtér", ro: "Aeroportul Internațional Faleolo", en: "Faleolo International Airport" },
-    coordinates: { lat: -13.83, lng: -172.008 },
+    coords: [-172.008, -13.83],
     description: {
       de: "Faleolo ist das wichtigste Luftverkehrsdrehkreuz Samoas für Tourismus und Luftfracht. Er liegt etwa 30 Kilometer westlich der Hauptstadt Apia.",
       hu: "Faleolo Szamoa legfontosabb légiközlekedési csomópontja a turizmus és a légi áruszállítás számára. Apiától mintegy 30 kilométerre nyugatra található.",
@@ -62,7 +62,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-salelologa-market-economic-v2",
     type: "landmark",
     name: { de: "Markt von Salelologa", hu: "Salelologa piac", ro: "Piața Salelologa", en: "Salelologa Market" },
-    coordinates: { lat: -13.741, lng: -172.215 },
+    coords: [-172.215, -13.741],
     description: {
       de: "Dieser Markt ist das wirtschaftliche Zentrum der Insel Savai'i. Er dient als Hauptumschlagplatz für landwirtschaftliche Erzeugnisse und lokales Handwerk.",
       hu: "Ez a piac Savai'i szigetének gazdasági központja. A mezőgazdasági termékek és a helyi kézműves termékek fő elosztóhelyeként szolgál.",
@@ -81,7 +81,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-fugalei-fresh-produce-market-economic-v2",
     type: "landmark",
     name: { de: "Frischwarenmarkt Fugalei", hu: "Fugalei frissáru piac", ro: "Piața de produse proaspete Fugalei", en: "Fugalei Fresh Produce Market" },
-    coordinates: { lat: -13.837, lng: -171.77 },
+    coords: [-171.77, -13.837],
     description: {
       de: "Der Fugalei-Markt in Apia ist der zentrale Handelsplatz für Obst und Gemüse in Samoa. Er spielt eine entscheidende Rolle für die Ernährungssicherheit der Hauptstadt.",
       hu: "Az apiai Fugalei piac Szamoa központi gyümölcs- és zöldségkereskedelmi helyszíne. Meghatározó szerepet játszik a főváros élelmiszerellátásában.",
@@ -100,7 +100,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-afulilo-hydroelectric-plant-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Afulilo", hu: "Afulilo vízerőmű", ro: "Hidrocentrala Afulilo", en: "Afulilo Hydroelectric Plant" },
-    coordinates: { lat: -13.918, lng: -171.605 },
+    coords: [-171.605, -13.918],
     description: {
       de: "Afulilo ist das größte Wasserkraftwerk Samoas und nutzt ein Hochlandreservoir zur Stromerzeugung. Es ist ein Eckpfeiler der erneuerbaren Energiestrategie des Landes.",
       hu: "Az Afulilo Szamoa legnagyobb vízerőműve, amely egy felföldi tározót használ áramtermelésre. Az ország megújuló energia stratégiájának alapköve.",
@@ -119,7 +119,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-fiaga-power-station-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk Fiaga", hu: "Fiaga erőmű", ro: "Centrala electrică Fiaga", en: "Fiaga Power Station" },
-    coordinates: { lat: -13.882, lng: -171.856 },
+    coords: [-171.856, -13.882],
     description: {
       de: "Die Fiaga-Station ist das wichtigste Dieselkraftwerk zur Grundlastversorgung des Stromnetzes von Upolu. Es sichert die Energieversorgung bei geringer Wasserkraftleistung.",
       hu: "A Fiaga állomás az Upolu elektromos hálózatának alapterhelését biztosító legfontosabb dízelüzemű erőműve. Biztosítja az energiaellátást alacsony vízhozam esetén.",
@@ -138,7 +138,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-asau-port-savaii-economic-v2",
     type: "port",
     name: { de: "Hafen von Asau", hu: "Asau kikötője", ro: "Portul Asau", en: "Asau Port" },
-    coordinates: { lat: -13.512, lng: -172.638 },
+    coords: [-172.638, -13.512],
     description: {
       de: "Asau ist ein geschützter Hafen im Nordwesten von Savai'i, der früher ein Zentrum der Holzindustrie war. Heute wird er für die regionale Schifffahrt und Fischerei genutzt.",
       hu: "Asau egy védett kikötő Savai'i északnyugati részén, amely korábban a fafeldolgozó ipar központja volt. Ma regionális hajózásra és halászatra használják.",
@@ -157,7 +157,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-mulifanua-wharf-economic-v2",
     type: "port",
     name: { de: "Mulifanua-Kai", hu: "Mulifanua kikötőmóló", ro: "Mollul Mulifanua", en: "Mulifanua Wharf" },
-    coordinates: { lat: -13.818, lng: -172.042 },
+    coords: [-172.042, -13.818],
     description: {
       de: "Mulifanua ist der wichtigste Fährhafen auf Upolu für den Transport von Passagieren und Gütern nach Savai'i. Er ist eine lebenswichtige Verbindung für den Binnenhandel.",
       hu: "Mulifanua az Upolu sziget legfontosabb kompátkelője, amely utasokat és árukat szállít Savai'ira. Létfontosságú kapcsolat a belső kereskedelem számára.",
@@ -176,7 +176,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-salelologa-wharf-economic-v2",
     type: "port",
     name: { de: "Salelologa-Kai", hu: "Salelologa kikötőmóló", ro: "Mollul Salelologa", en: "Salelologa Wharf" },
-    coordinates: { lat: -13.738, lng: -172.209 },
+    coords: [-172.209, -13.738],
     description: {
       de: "Der Kai von Salelologa ist das Gegenstück zu Mulifanua auf der Insel Savai'i. Er ermöglicht den massiven Import von Waren vom Festland Upolu.",
       hu: "A salelologai móló a Mulifanua kikötő párja Savai'i szigetén. Lehetővé teszi az áruk tömeges behozatalát Upolu főszigetéről.",
@@ -195,7 +195,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-breweries-vaitele-economic-v2",
     type: "factory",
     name: { de: "Samoa Breweries Limited", hu: "Szamoai Sörfőzde", ro: "Fabrica de bere din Samoa", en: "Samoa Breweries Limited" },
-    coordinates: { lat: -13.835, lng: -171.81 },
+    coords: [-171.81, -13.835],
     description: {
       de: "Samoa Breweries ist der Produzent des bekannten Vailima-Bieres. Es ist eines der erfolgreichsten und bekanntesten Produktionsunternehmen des Landes.",
       hu: "A Szamoai Sörfőzde a jól ismert Vailima sör gyártója. Ez az ország egyik legsikeresebb és legismertebb gyártóvállalata.",
@@ -214,7 +214,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-savalalo-fish-market-economic-v2",
     type: "landmark",
     name: { de: "Fischmarkt von Savalalo", hu: "Savalalo halpiac", ro: "Piața de pește Savalalo", en: "Savalalo Fish Market" },
-    coordinates: { lat: -13.831, lng: -171.767 },
+    coords: [-171.767, -13.831],
     description: {
       de: "Der Fischmarkt in Apia ist das Zentrum der lokalen Fischereiindustrie. Hier wird der tägliche Fang direkt von den Booten an Händler und Restaurants verkauft.",
       hu: "Az apiai halpiac a helyi halászati ipar központja. Itt a napi fogást közvetlenül a hajókról adják el kereskedőknek és éttermeknek.",
@@ -233,7 +233,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-central-bank-building-economic-v2",
     type: "landmark",
     name: { de: "Zentralbank von Samoa", hu: "Szamoai Központi Bank", ro: "Banca Centrală a Samoa", en: "Central Bank of Samoa" },
-    coordinates: { lat: -13.831, lng: -171.768 },
+    coords: [-171.768, -13.831],
     description: {
       de: "Das Gebäude der Zentralbank von Samoa in Apia ist das Herz des Finanzsystems des Landes. Es reguliert die Währung Tala und überwacht die Geschäftsbanken.",
       hu: "A Szamoai Központi Bank épülete Apiában az ország pénzügyi rendszerének szíve. Szabályozza a Tala valutát és felügyeli a kereskedelmi bankokat.",
@@ -252,7 +252,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-development-bank-building-economic-v2",
     type: "landmark",
     name: { de: "Entwicklungsbank von Samoa", hu: "Szamoai Fejlesztési Bank", ro: "Banca de Dezvoltare a Samoa", en: "Development Bank of Samoa" },
-    coordinates: { lat: -13.833, lng: -171.767 },
+    coords: [-171.767, -13.833],
     description: {
       de: "Die Entwicklungsbank bietet Kredite für Landwirtschaft, Fischerei und kleine Unternehmen an. Sie ist ein wichtiges Instrument zur Förderung des lokalen Wirtschaftswachstums.",
       hu: "A Fejlesztési Bank hiteleket nyújt a mezőgazdaság, a halászat és a kisvállalkozások számára. A helyi gazdasági növekedés ösztönzésének fontos eszköze.",
@@ -271,7 +271,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-nuu-agricultural-center-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Nu'u", hu: "Nu'u Mezőgazdasági Központ", ro: "Centrul Agricol Nu'u", en: "Nu'u Agricultural Center" },
-    coordinates: { lat: -13.842, lng: -171.815 },
+    coords: [-171.815, -13.842],
     description: {
       de: "Nu'u ist das Zentrum für landwirtschaftliche Forschung und Entwicklung in Samoa. Hier werden neue Anbaumethoden und Schädlingsbekämpfung für Exportkulturen entwickelt.",
       hu: "Nu'u a mezőgazdasági kutatás és fejlesztés központja Szamoán. Itt fejlesztenek új termesztési módszereket és kártevőirtást az exportnövények számára.",
@@ -290,7 +290,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-sogi-industrial-district-economic-v2",
     type: "industry",
     name: { de: "Industrieviertel Sogi", hu: "Sogi ipari negyed", ro: "Districtul industrial Sogi", en: "Sogi Industrial District" },
-    coordinates: { lat: -13.83, lng: -171.775 },
+    coords: [-171.775, -13.83],
     description: {
       de: "Sogi ist ein Küstenstreifen in Apia, der als wichtiges Gewerbe- und Industriegebiet dient. Hier befinden sich Hafenanlagen, Werkstätten und Regierungsgebäude.",
       hu: "Sogi egy part menti sáv Apiában, amely fontos kereskedelmi és ipari területként szolgál. Itt találhatók kikötői létesítmények, műhelyek és kormányzati épületek.",
@@ -309,7 +309,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-vaitele-west-manufacturing-economic-v2",
     type: "factory",
     name: { de: "Fertigungszentrum Vaitele-West", hu: "Vaitele-West gyártási központ", ro: "Centrul de producție Vaitele West", en: "Vaitele West Manufacturing Center" },
-    coordinates: { lat: -13.84, lng: -171.82 },
+    coords: [-171.82, -13.84],
     description: {
       de: "Vaitele-West ist eine Erweiterung der Industriezone, die sich auf Leichtindustrie und Verpackung konzentriert. Es beherbergt mehrere moderne Abfüllanlagen.",
       hu: "Vaitele-West az ipari övezet bővítése, amely a könnyűiparra és a csomagolásra összpontosít. Több modern palackozóüzemnek ad otthont.",
@@ -328,7 +328,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-loto-samasoni-hydro-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Loto Samasoni", hu: "Loto Samasoni vízerőmű", ro: "Hidrocentrala Loto Samasoni", en: "Loto Samasoni Hydro Plant" },
-    coordinates: { lat: -13.848, lng: -171.765 },
+    coords: [-171.765, -13.848],
     description: {
       de: "Das Kraftwerk Loto Samasoni nutzt das Wasser des Vaisigano-Flusses zur Stromerzeugung. Es ist eines der ältesten und zuverlässigsten Wasserkraftwerke Samoas.",
       hu: "A Loto Samasoni erőmű a Vaisigano-folyó vizét használja áramtermelésre. Szamoa egyik legrégebbi és legmegbízhatóbb vízerőműve.",
@@ -347,7 +347,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-alaoa-dam-reservoir-economic-v2",
     type: "lake",
     name: { de: "Alaoa-Talsperre", hu: "Alaoa-gát", ro: "Barajul Alaoa", en: "Alaoa Dam" },
-    coordinates: { lat: -13.871, lng: -171.748 },
+    coords: [-171.748, -13.871],
     description: {
       de: "Die Alaoa-Talsperre dient sowohl der Wasserversorgung der Hauptstadt als auch der Energiegewinnung. Sie ist eine kritische Infrastruktur für den Großraum Apia.",
       hu: "Az Alaoa-gát a főváros vízellátását és az energiatermelést egyaránt szolgálja. Kritikus infrastruktúra Apia térsége számára.",
@@ -366,7 +366,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-tanugamanono-power-substation-economic-v2",
     type: "industry",
     name: { de: "Umspannwerk Tanugamanono", hu: "Tanugamanono alállomás", ro: "Stația electrică Tanugamanono", en: "Tanugamanono Power Substation" },
-    coordinates: { lat: -13.845, lng: -171.758 },
+    coords: [-171.758, -13.845],
     description: {
       de: "Tanugamanono ist der zentrale Knotenpunkt für die Stromverteilung auf der Insel Upolu. Früher befand sich hier das Hauptdieselkraftwerk der Stadt.",
       hu: "Tanugamanono az Upolu sziget áramelosztásának központi csomópontja. Korábban itt működött a város fő dízelüzemű erőműve.",
@@ -385,7 +385,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-coconut-clusters-factory-vaitele-economic-v2",
     type: "factory",
     name: { de: "Kokosnuss-Verarbeitungsbetrieb", hu: "Kókuszfeldolgozó üzem", ro: "Fabrica de procesare a nucii de cocos", en: "Samoa Coconut Clusters Factory" },
-    coordinates: { lat: -13.839, lng: -171.805 },
+    coords: [-171.805, -13.839],
     description: {
       de: "Dieser Betrieb in Vaitele verarbeitet Kokosnüsse zu Öl, Mehl und anderen Exportprodukten. Er ist wichtig für die Wertschöpfung in der heimischen Landwirtschaft.",
       hu: "Ez a vaitelei üzem kókuszdiót dolgoz fel olajjá, lisztté és egyéb exporttermékekké. Fontos a hazai mezőgazdaság hozzáadott értékének növelésében.",
@@ -404,7 +404,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-ah-liki-distribution-center-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Ah Liki", hu: "Ah Liki logisztikai központ", ro: "Centrul de distribuție Ah Liki", en: "Ah Liki Distribution Center" },
-    coordinates: { lat: -13.838, lng: -171.795 },
+    coords: [-171.795, -13.838],
     description: {
       de: "Das Logistikzentrum Ah Liki ist einer der größten Großhandels- und Vertriebsknotenpunkte für Lebensmittel in Samoa. Es beliefert Geschäfte im ganzen Land.",
       hu: "Az Ah Liki logisztikai központ Szamoa egyik legnagyobb élelmiszer-nagykereskedelmi és elosztó csomópontja. Az egész országban kiszolgálja az üzleteket.",
@@ -423,7 +423,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-apia-marina-economic-v2",
     type: "port",
     name: { de: "Marina von Apia", hu: "Apia jachtkikötő", ro: "Marina Apia", en: "Apia Marina" },
-    coordinates: { lat: -13.828, lng: -171.76 },
+    coords: [-171.76, -13.828],
     description: {
       de: "Die Marina von Apia dient dem Yachtverkehr und dem gehobenen Tourismussektor. Sie trägt durch Liegegebühren und Dienstleistungen zur lokalen Wirtschaft bei.",
       hu: "Az apiai jachtkikötő a jachtforgalmat és az igényes turisztikai szektort szolgálja. Kikötési díjakkal és szolgáltatásokkal járul hozzá a helyi gazdasághoz.",
@@ -442,7 +442,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-acc-building-economic-v2",
     type: "landmark",
     name: { de: "ACC-Gebäude", hu: "ACC-épület", ro: "Clădirea ACC", en: "ACC Building" },
-    coordinates: { lat: -13.832, lng: -171.769 },
+    coords: [-171.769, -13.832],
     description: {
       de: "Das ACC-Gebäude beherbergt die Accident Compensation Corporation und zahlreiche Privatunternehmen. Es ist eines der modernsten Bürogebäude in Apia.",
       hu: "Az ACC-épület ad otthont a Baleseti Kártérítési Társaságnak és számos magáncégnek. Ez Apia egyik legmodernebb irodaháza.",
@@ -461,7 +461,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-togitogiga-agriculture-area-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftsgebiet Togitogiga", hu: "Togitogiga mezőgazdasági terület", ro: "Zona agricolă Togitogiga", en: "Togitogiga Agriculture Area" },
-    coordinates: { lat: -14.015, lng: -171.685 },
+    coords: [-171.685, -14.015],
     description: {
       de: "Togitogiga ist eine wichtige Region für den kommerziellen Anbau von Obst und Gemüse an der Südküste von Upolu. Es versorgt sowohl lokale Märkte als auch Exporteure.",
       hu: "Togitogiga a kereskedelmi gyümölcs- és zöldségtermesztés fontos régiója Upolu déli partján. Kiszolgálja a helyi piacokat és az exportőröket egyaránt.",
@@ -480,7 +480,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-falealili-cocoa-plantations-economic-v2",
     type: "industry",
     name: { de: "Kakaoplantagen von Falealili", hu: "Falealili kakaóültetvények", ro: "Plantațiile de cacao Falealili", en: "Falealili Cocoa Plantations" },
-    coordinates: { lat: -14.005, lng: -171.655 },
+    coords: [-171.655, -14.005],
     description: {
       de: "Die Region Falealili ist historisch und aktuell eines der Zentren der Kakaoproduktion in Samoa. Der hier angebaute Edelkakao ist ein wertvolles Exportgut.",
       hu: "Falealili régiója történelmileg és jelenleg is Szamoa kakaótermelésének egyik központja. Az itt termesztett nemes kakaó értékes exportcikk.",
@@ -499,7 +499,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-vaiaata-prison-farm-economic-v2",
     type: "industry",
     name: { de: "Gefängnisfarm Vaiaata", hu: "Vaiaata börtönfarm", ro: "Ferma penitenciarului Vaiaata", en: "Vaiaata Prison Farm" },
-    coordinates: { lat: -13.685, lng: -172.315 },
+    coords: [-172.315, -13.685],
     description: {
       de: "Vaiaata auf Savai'i ist eine große landwirtschaftliche Einrichtung, die von Insassen bewirtschaftet wird. Sie produziert große Mengen an Grundnahrungsmitteln für das Land.",
       hu: "Savai'i szigetén Vaiaata egy hatalmas mezőgazdasági létesítmény, amelyet fogvatartottak művelnek. Nagy mennyiségű alapvető élelmiszert termel az ország számára.",
@@ -518,7 +518,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-manono-island-fishing-hub-economic-v2",
     type: "village",
     name: { de: "Fischereizentrum Manono", hu: "Manono halászati központ", ro: "Centrul de pescuit Manono", en: "Manono Island Fishing Hub" },
-    coordinates: { lat: -13.845, lng: -172.11 },
+    coords: [-172.11, -13.845],
     description: {
       de: "Die Insel Manono ist ein Zentrum für traditionelle und kleingewerbliche Fischerei. Sie versorgt die Märkte von Upolu täglich mit frischem Fisch aus den Riffen.",
       hu: "Manono szigete a hagyományos és kisüzemi halászat központja. Naponta friss halat szállít Upolu piacaira a korallzátonyokról.",
@@ -537,7 +537,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-maritime-academy-training-economic-v2",
     type: "university",
     name: { de: "Samoanische Seefahrtsakademie", hu: "Szamoai Tengerészeti Akadémia", ro: "Academia Maritimă din Samoa", en: "Samoa Maritime Academy" },
-    coordinates: { lat: -13.825, lng: -172.015 },
+    coords: [-172.015, -13.825],
     description: {
       de: "Die Seefahrtsakademie bildet Fachkräfte für die internationale Schifffahrt aus. Rücküberweisungen von Seeleuten sind eine tragende Säule der samoanischen Wirtschaft.",
       hu: "A Tengerészeti Akadémia szakembereket képez a nemzetközi hajózás számára. A tengerészek hazautalásai a szamoai gazdaság tartóoszlopai.",
@@ -556,7 +556,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-tui-samoa-cable-landing-economic-v2",
     type: "industry",
     name: { de: "Tui-Samoa Kabelstation", hu: "Tui-Samoa kábelállomás", ro: "Stația de cablu Tui-Samoa", en: "Tui-Samoa Cable Landing Station" },
-    coordinates: { lat: -13.855, lng: -171.785 },
+    coords: [-171.785, -13.855],
     description: {
       de: "Diese Station ist der Landungspunkt für das Tui-Samoa-Unterseekabel. Es bietet die notwendige digitale Infrastruktur für den modernen Dienstleistungssektor.",
       hu: "Ez az állomás a Tui-Samoa tengeralatti kábel fogadóhelye. Biztosítja a modern szolgáltató szektor számára szükséges digitális infrastruktúrát.",
@@ -575,7 +575,7 @@ export const samoaEconomicV2: POI[] = [
     id: "samoa-vaitele-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Gewerbepark Vaitele", hu: "Vaitele Ipari Park", ro: "Parcul Industrial Vaitele", en: "Vaitele Industrial Park" },
-    coordinates: { lat: -13.84, lng: -171.8 },
+    coords: [-171.8, -13.84],
     description: {
       de: "Der Gewerbepark Vaitele bietet subventionierte Flächen für kleine und mittlere Industrieunternehmen. Er fördert die lokale Produktion und Beschäftigung.",
       hu: "A Vaitele Ipari Park támogatott területeket kínál kis- és közepes ipari vállalatok számára. Ösztönzi a helyi termelést és a foglalkoztatást.",

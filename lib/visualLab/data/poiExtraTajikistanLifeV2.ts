@@ -726,7 +726,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-muzkul-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Muzkul", hu: "Muzkul Természetvédelmi Terület", ro: "Rezervația Naturală Muzkul", en: "Muzkul Nature Reserve" },
-    coordinates: { lat: 38.4521, lng: 73.6542 },
+    coords: [73.6542, 38.4521],
     description: {
       de: "Dieses Schutzgebiet im östlichen Pamir bewahrt die hochalpine Flora und Fauna Tadschikistans. Es dient als wichtiger Rückzugsort für das Marco-Polo-Schaf und den gefährdeten Schneeleoparden.",
       hu: "Ez a védett terület a Kelet-Pamírban található, megőrizve Tádzsikisztán magashegyi növény- és állatvilágát. Fontos menedékhely a Marco Polo juh és a veszélyeztetett hópárduc számára.",
@@ -745,7 +745,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-kusavlisay-reserve-life-v2",
     type: "forest",
     name: { de: "Naturschutzgebiet Kusavlisay", hu: "Kuszavliszaj Természetvédelmi Terület", ro: "Rezervația Naturală Kusavlisay", en: "Kusavlisay Nature Reserve" },
-    coordinates: { lat: 39.7542, lng: 68.6125 },
+    coords: [68.6125, 39.7542],
     description: {
       de: "Dieses Reservat in der Turkestan-Kette schützt ausgedehnte Wacholderwälder in Nordtadschikistan. Es ist bekannt für seine reiche botanische Vielfalt und seltene Pflanzenarten der Gebirgsregion.",
       hu: "A Turkesztáni-hegységben található rezervátum kiterjedt borókaerdőket véd Észak-Tádzsikisztánban. Gazdag botanikai sokszínűségéről és ritka hegyi növényfajairól ismert.",
@@ -764,7 +764,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-kulob-botanical-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Kulob", hu: "Kulobi Botanikus Kert", ro: "Grădina Botanică din Kulob", en: "Kulob Botanical Garden" },
-    coordinates: { lat: 37.9125, lng: 69.7842 },
+    coords: [69.7842, 37.9125],
     description: {
       de: "Dieser bedeutende botanische Garten im Süden Tadschikistans sammelt und erforscht die Pflanzenwelt der subtropischen und alpinen Zonen. Er dient als Zentrum für Naturschutz und Umweltbildung.",
       hu: "Ez a dél-tádzsikisztáni botanikus kert a szubtrópusi és alpesi övezetek növényvilágát gyűjti és kutatja. A természetvédelem és a környezeti nevelés központjaként szolgál.",
@@ -783,7 +783,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-zeravshan-reserve-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Zeravshan", hu: "Zeravsán Természetvédelmi Terület", ro: "Rezervația Naturală Zeravshan", en: "Zeravshan Nature Reserve" },
-    coordinates: { lat: 39.4862, lng: 67.8125 },
+    coords: [67.8125, 39.4862],
     description: {
       de: "Dieses Reservat am Fluss Zeravshan schützt die Auenwälder und die reiche Artenvielfalt des Tals. Es ist ein wichtiger Lebensraum für den Buchara-Hirsch und zahlreiche Wasservögel.",
       hu: "A Zeravsán folyó mentén található rezervátum az ártéri erdőket és a völgy gazdag biodiverzitását védi. Fontos élőhelye a Buhara-szarvasnak és számos vízimadárnak.",
@@ -802,7 +802,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-kairakkum-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Feuchtgebiete am Kairakkum-Stausee", hu: "Kajrakkum-víztározó vizesélőhelyei", ro: "Zonele umede ale lacului Kairakkum", en: "Kairakkum Reservoir Wetlands" },
-    coordinates: { lat: 40.2842, lng: 70.0563 },
+    coords: [70.0563, 40.2842],
     description: {
       de: "Die Uferzonen des Kairakkum-Stausees bilden eines der wichtigsten Feuchtgebiete Zentralasiens für Zugvögel. Es ist als international bedeutendes Vogelgebiet (IBA) anerkannt.",
       hu: "A Kajrakkum-víztározó parti övezetei Közép-Ázsia egyik legfontosabb vizesélőhelyét alkotják a vándormadarak számára. Nemzetközi jelentőségű madárvédelmi területként (IBA) ismerik el.",
@@ -821,7 +821,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-childukhtaron-life-v2",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Childukhtaron", hu: "Csilduhtarón Természetvédelmi Terület", ro: "Rezervația Naturală Childukhtaron", en: "Childukhtaron Nature Reserve" },
-    coordinates: { lat: 38.3562, lng: 70.1842 },
+    coords: [70.1842, 38.3562],
     description: {
       de: "Berühmt für seine '40 Jungfrauen' genannten Felsformationen, schützt dieses Gebiet auch eine reiche Bergflora. Es ist ein Ort voller Legenden und biologischer Vielfalt im Muminobod-Distrikt.",
       hu: "A „40 szűznek” nevezett sziklaalakzatairól híres terület gazdag hegyi flórát is véd. Legendákkal és biológiai sokszínűséggel teli hely a Muminobod járásban.",
@@ -840,7 +840,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-kondara-gorge-life-v2",
     type: "wildlife",
     name: { de: "Kondara-Schlucht-Reservat", hu: "Kondara-szurdok Rezervátum", ro: "Rezervația Defileul Kondara", en: "Kondara Gorge Reserve" },
-    coordinates: { lat: 38.8125, lng: 68.8242 },
+    coords: [68.8242, 38.8125],
     description: {
       de: "Dieses Reservat in der Nähe von Duschanbe ist ein wichtiges Zentrum für botanische Forschung. Es bewahrt eine enorme Vielfalt an Pflanzenarten des Varzob-Flusstals.",
       hu: "Ez a Dusanbe közelében található rezervátum fontos botanikai kutatóközpont. A Varzob-folyó völgyének növényfajainak hatalmas változatosságát őrzi.",
@@ -859,7 +859,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-shakhristan-juniper-life-v2",
     type: "forest",
     name: { de: "Wacholderwälder von Shakhristan", hu: "Sahrisztáni borókaerdők", ro: "Pădurile de ienupăr din Shakhristan", en: "Shakhristan Juniper Forests" },
-    coordinates: { lat: 39.5542, lng: 68.8563 },
+    coords: [68.8563, 39.5542],
     description: {
       de: "Diese Hochgebirgswälder im Shakhristan-Pass-Gebiet bestehen aus jahrhundertealten Wacholderbäumen. Sie bilden ein einzigartiges Ökosystem an den Hängen der Turkestan-Kette.",
       hu: "Ezek a Sahrisztán-hágó környéki magashegyi erdők évszázados borókafenyőkből állnak. Egyedülálló ökoszisztémát alkotnak a Turkesztáni-hegység lejtőin.",
@@ -878,7 +878,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-hamadoni-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Hamadoni-Pyanj-Feuchtgebiete", hu: "Hamadoni-Pandzs vizesélőhelyek", ro: "Zonele umede Hamadoni-Pyanj", en: "Hamadoni-Pyanj Wetlands" },
-    coordinates: { lat: 37.4863, lng: 69.3842 },
+    coords: [69.3842, 37.4863],
     description: {
       de: "Diese Auenlandschaft am Fluss Pyanj im Süden Tadschikistans ist ein Rückzugsort für Wasservögel und seltene Uferpflanzen. Sie bildet einen wichtigen grenzüberschreitenden ökologischen Korridor.",
       hu: "Ez a dél-tádzsikisztáni Pandzs folyó menti ártéri táj vízimadarak és ritka parti növények menedékhelye. Fontos határokon átnyúló ökológiai folyosót alkot.",
@@ -897,7 +897,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-sangvor-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Wildtiergebiet Sangvor", hu: "Szangvori vadvédelmi terület", ro: "Zona sălbatică Sangvor", en: "Sangvor Wildlife Area" },
-    coordinates: { lat: 38.6542, lng: 70.4563 },
+    coords: [70.4563, 38.6542],
     description: {
       de: "In den abgelegenen Bergen des Rasht-Tals gelegen, schützt dieses Gebiet dichte Laubwälder und den Lebensraum von Braunbären. Es ist bekannt für seine unberührte Natur und reiche Flora.",
       hu: "A Rast-völgy elszigetelt hegyeiben található terület sűrű lombhullató erdőket és a barna medvék élőhelyét védi. Érintetlen természetéről és gazdag flórájáról ismert.",
@@ -916,7 +916,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-pshart-valley-life-v2",
     type: "wildlife",
     name: { de: "Pshart-Tal-Wildschutzgebiet", hu: "Psart-völgyi vadvédelmi terület", ro: "Zona de conservare Valea Pshart", en: "Pshart Valley Wildlife Area" },
-    coordinates: { lat: 38.3242, lng: 73.8563 },
+    coords: [73.8563, 38.3242],
     description: {
       de: "Dieses Hochtal im östlichen Pamir ist ein Zentrum für den Schutz des Marco-Polo-Schafes. Die bunte Geologie und extreme Höhenlage prägen die lokale Flora.",
       hu: "Ez a Kelet-Pamírban található magashegyi völgy a Marco Polo juh védelmének központja. A színes geológia és az extrém tengerszint feletti magasság jellemzi a helyi flórát.",
@@ -935,7 +935,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-varzob-botanical-life-v2",
     type: "park",
     name: { de: "Botanisches Gebiet Varzob", hu: "Varzobi botanikai terület", ro: "Zona botanică Varzob", en: "Varzob Botanical Area" },
-    coordinates: { lat: 38.9214, lng: 68.8842 },
+    coords: [68.8842, 38.9214],
     description: {
       de: "Dieses Gebiet am Oberlauf des Varzob schützt eine außergewöhnliche Vielfalt an Wildblumen und Gebirgssträuchern. Es ist ein beliebtes Ziel für Naturforscher in der Nähe der Hauptstadt.",
       hu: "A Varzob felső szakaszán található terület a vadvirágok és hegyi cserjék rendkívüli változatosságát védi. A főváros közeli természetbúvárok kedvelt célpontja.",
@@ -954,7 +954,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-karatag-valley-life-v2",
     type: "wildlife",
     name: { de: "Wildschutzgebiet Karatag-Tal", hu: "Karatag-völgyi vadvédelmi terület", ro: "Zona de protecție Valea Karatag", en: "Karatag Valley Wildlife Area" },
-    coordinates: { lat: 38.6242, lng: 68.3563 },
+    coords: [68.3563, 38.6242],
     description: {
       de: "Das Karatag-Tal ist bekannt für seine dichten Bergwälder und spektakulären Wasserfälle. Es schützt eine vielfältige Fauna, darunter Wildschweine und seltene Greifvögel der Gissar-Region.",
       hu: "A Karatag-völgy sűrű hegyi erdőiről és látványos vízeséseiről ismert. Változatos faunát véd, többek között vaddisznókat és a Gisszar-régió ritka ragadozó madarait.",
@@ -973,7 +973,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-somoni-park-khujand-life-v2",
     type: "park",
     name: { de: "Somoni-Park Khujand", hu: "Somoni Park Hudzsand", ro: "Parcul Somoni din Khujand", en: "Somoni Park Khujand" },
-    coordinates: { lat: 40.2862, lng: 69.6242 },
+    coords: [69.6242, 40.2862],
     description: {
       de: "Diese weitläufige Parkanlage am Ufer des Syrdarja in Khujand kombiniert Grünflächen mit kulturellen Monumenten. Sie dient als grüne Lunge der Stadt und Ort für lokale Biodiversität.",
       hu: "Ez a hudzsandi Szir-darja partján fekvő kiterjedt park zöldterületeket ötvöz kulturális emlékművekkel. A város zöld tüdejeként és a helyi biodiverzitás helyszíneként szolgál.",
@@ -992,7 +992,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     id: "tajikistan-bibi-fatima-life-v2",
     type: "wildlife",
     name: { de: "Thermalquellen-Gebiet Bibi Fatima", hu: "Bibi Fatima termálforrás-terület", ro: "Zona izvoarelor termale Bibi Fatima", en: "Bibi Fatima Hot Springs Area" },
-    coordinates: { lat: 36.9842, lng: 72.2263 },
+    coords: [72.2263, 36.9842],
     description: {
       de: "Dieses Gebiet im Wakhan-Korridor ist bekannt für seine mineralreichen Thermalquellen und die spezialisierte Flora der Umgebung. Es bildet eine einzigartige ökologische Nische im Hochgebirge.",
       hu: "A Vakhán-folyosóban található terület ásványi anyagokban gazdag termálforrásairól és a környező speciális flóráról ismert. Egyedülálló ökológiai fülkét alkot a magashegységben.",

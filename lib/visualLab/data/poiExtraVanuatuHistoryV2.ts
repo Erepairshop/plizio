@@ -5,7 +5,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-chief-roi-mata-domain-history-v2",
     type: "landmark",
     name: { de: "Häuptling Roi Matas Herrschaftsgebiet", hu: "Roi Mata főnök birodalma", ro: "Domeniul șefului Roi Mata", en: "Chief Roi Mata's Domain" },
-    coordinates: { lat: -17.6253, lng: 168.2045 },
+    coords: [168.2045, -17.6253],
     description: {
       de: "Dieses UNESCO-Welterbe umfasst mehrere Stätten auf den Inseln Efate, Lelepa und Artok, die mit dem Leben des Häuptlings verbunden sind.",
       hu: "Ez az UNESCO világörökségi helyszín Efate, Lelepa és Artok szigetén található helyszíneket foglal magában, amelyek a főnök életéhez kapcsolódnak.",
@@ -24,7 +24,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-fels-cave-history-v2",
     type: "landmark",
     name: { de: "Fels-Höhle", hu: "Fels-barlang", ro: "Peștera Fels", en: "Fels Cave" },
-    coordinates: { lat: -17.5878, lng: 168.2125 },
+    coords: [168.2125, -17.5878],
     description: {
       de: "Eine monumentale Höhle auf der Insel Lelepa, die als Sterbeort des legendären Häuptlings Roi Mata im 13. Jahrhundert gilt.",
       hu: "Egy monumentális barlang Lelepa szigetén, amely a legenda szerint a 13. században Roi Mata főnök halálának helyszíne volt.",
@@ -43,7 +43,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-artok-island-history-v2",
     type: "landmark",
     name: { de: "Insel Artok", hu: "Artok-sziget", ro: "Insula Artok", en: "Artok Island" },
-    coordinates: { lat: -17.6539, lng: 168.1642 },
+    coords: [168.1642, -17.6539],
     description: {
       de: "Eine unbewohnte Insel, die aufgrund ihrer Hutform bekannt ist und die Grabstätte von Häuptling Roi Mata beherbergt.",
       hu: "Egy lakatlan sziget, amely kalap alakjáról ismert, és itt található Roi Mata főnök sírhelye.",
@@ -62,7 +62,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-million-dollar-point-history-v2",
     type: "landmark",
     name: { de: "Million Dollar Point", hu: "Million Dollar Point", ro: "Million Dollar Point", en: "Million Dollar Point" },
-    coordinates: { lat: -15.5255, lng: 167.2422 },
+    coords: [167.2422, -15.5255],
     description: {
       de: "Ein geschichtsträchtiger Unterwasserfriedhof vor Espiritu Santo, wo das US-Militär nach dem Zweiten Weltkrieg Ausrüstung versenkte.",
       hu: "Történelmi víz alatti temető Espiritu Santo partjainál, ahol az amerikai hadsereg a második világháború után felszereléseket süllyesztett el.",
@@ -81,7 +81,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ss-president-coolidge-history-v2",
     type: "landmark",
     name: { de: "SS President Coolidge", hu: "SS President Coolidge", ro: "SS President Coolidge", en: "SS President Coolidge" },
-    coordinates: { lat: -15.5312, lng: 167.2388 },
+    coords: [167.2388, -15.5312],
     description: {
       de: "Ein ehemaliger Luxusliner und Truppentransporter des Zweiten Weltkriegs, der 1942 nach der Kollision mit US-Minen sank.",
       hu: "Egykori luxushajó és csapatszállító a második világháborúban, amely 1942-ben süllyedt el, miután amerikai aknákra futott.",
@@ -100,7 +100,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-uss-tucker-history-v2",
     type: "landmark",
     name: { de: "USS Tucker (DD-374)", hu: "USS Tucker (DD-374)", ro: "USS Tucker (DD-374)", en: "USS Tucker (DD-374)" },
-    coordinates: { lat: -15.545, lng: 167.12 },
+    coords: [167.12, -15.545],
     description: {
       de: "Ein Zerstörer der US-Marine, der im August 1942 bei Santo sank, nachdem er versehentlich in ein US-Minenfeld geraten war.",
       hu: "Az amerikai haditengerészet rombolója, amely 1942 augusztusában süllyedt el Santónál, miután véletlenül egy amerikai aknamezőre futott.",
@@ -119,7 +119,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-luganville-quonset-huts-history-v2",
     type: "landmark",
     name: { de: "Quonset-Hütten von Luganville", hu: "Luganville Quonset kunyhók", ro: "Cabanele Quonset din Luganville", en: "Luganville Quonset Huts" },
-    coordinates: { lat: -15.5134, lng: 167.1812 },
+    coords: [167.1812, -15.5134],
     description: {
       de: "Diese charakteristischen Wellblechhütten sind Überreste der massiven US-Militärpräsenz in Luganville während des Pazifikkriegs.",
       hu: "Ezek a jellegzetes hullámlemez kunyhók a csendes-óceáni háború idején Luganville-ben tapasztalt hatalmas amerikai katonai jelenlét maradványai.",
@@ -138,7 +138,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-bomber-two-wreck-history-v2",
     type: "landmark",
     name: { de: "Bomber Nr. 2 Wrack", hu: "Bomber No. 2 roncs", ro: "Epava Bomber Nr. 2", en: "Bomber No. 2 Wreck" },
-    coordinates: { lat: -15.505, lng: 167.155 },
+    coords: [167.155, -15.505],
     description: {
       de: "Das gut erhaltene Wrack eines US-Bombers aus dem Zweiten Weltkrieg, das sich in der Nähe von Luganville befindet.",
       hu: "Egy második világháborús amerikai bombázó jól konzervált roncsa, amely Luganville közelében található.",
@@ -157,7 +157,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-havannah-harbour-history-v2",
     type: "port",
     name: { de: "Havannah Harbour", hu: "Havannah Harbour", ro: "Havannah Harbour", en: "Havannah Harbour" },
-    coordinates: { lat: -17.58, lng: 168.25 },
+    coords: [168.25, -17.58],
     description: {
       de: "Ein natürlicher Hafen auf Efate, der während des Zweiten Weltkriegs als bedeutender Stützpunkt für die US-Flotte diente.",
       hu: "Természetes kikötő Efate szigetén, amely a második világháború alatt az amerikai flotta jelentős bázisaként szolgált.",
@@ -176,7 +176,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-port-vila-war-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegerdenkmal von Port Vila", hu: "Port Vila-i háborús emlékmű", ro: "Monumentul de Război din Port Vila", en: "Port Vila War Memorial" },
-    coordinates: { lat: -17.7342, lng: 168.3218 },
+    coords: [168.3218, -17.7342],
     description: {
       de: "Ein Denkmal in der Hauptstadt, das den Soldaten aus Vanuatu gedenkt, die in den Weltkriegen gedient haben.",
       hu: "Egy emlékmű a fővárosban, amely a világháborúkban szolgált vanuatui katonáknak állít emléket.",
@@ -195,7 +195,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-teouma-lapita-site-history-v2",
     type: "ruins",
     name: { de: "Teouma-Lapita-Fundstätte", hu: "Teouma Lapita lelőhely", ro: "Situl Lapita de la Teouma", en: "Teouma Lapita Site" },
-    coordinates: { lat: -17.77, lng: 168.4 },
+    coords: [168.4, -17.77],
     description: {
       de: "Ein bedeutender archäologischer Ort, an dem 2004 der älteste bekannte Friedhof der Lapita-Kultur im Pazifik entdeckt wurde.",
       hu: "Jelentős régészeti lelőhely, ahol 2004-ben felfedezték a Lapita-kultúra legrégebbi ismert temetőjét a Csendes-óceánon.",
@@ -214,7 +214,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-iririki-island-residency-history-v2",
     type: "palace",
     name: { de: "Britische Residenz auf Iririki", hu: "Iririki-szigeti brit rezidencia", ro: "Reședința britanică de pe insula Iririki", en: "Iririki Island British Residency" },
-    coordinates: { lat: -17.7415, lng: 168.312 },
+    coords: [168.312, -17.7415],
     description: {
       de: "Einst der Standort der Residenz des britischen Hochkommissars während des anglo-französischen Kondominiums.",
       hu: "Egykor a brit főbiztos rezidenciája az angol-francia közös kormányzás (kondomínium) idején.",
@@ -233,7 +233,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-malakula-cannibal-site-history-v2",
     type: "ruins",
     name: { de: "Kannibalenstätte von Malakula", hu: "Malakula kannibál helyszín", ro: "Situl antropofag din Malakula", en: "Malakula Cannibal Site" },
-    coordinates: { lat: -16.2, lng: 167.5 },
+    coords: [167.5, -16.2],
     description: {
       de: "Ein historischer Ort auf Malakula, der von der rituellen Vergangenheit der lokalen Stämme zeugt.",
       hu: "Történelmi helyszín Malakula szigetén, amely a helyi törzsek rituális múltjáról tanúskodik.",
@@ -252,7 +252,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-john-frum-village-history-v2",
     type: "village",
     name: { de: "John-Frum-Dorf (Sulphur Bay)", hu: "John Frum falu (Sulphur Bay)", ro: "Satul John Frum (Sulphur Bay)", en: "John Frum Village (Sulphur Bay)" },
-    coordinates: { lat: -19.525, lng: 169.455 },
+    coords: [169.455, -19.525],
     description: {
       de: "Das spirituelle Zentrum des John-Frum-Frachtkults auf Tanna, der während des Zweiten Weltkriegs entstand.",
       hu: "A John Frum rakománykultusz spirituális központja Tanna szigetén, amely a második világháború alatt jött létre.",
@@ -271,7 +271,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-anityum-church-ruins-history-v2",
     type: "church",
     name: { de: "Kirchenruinen von Aneityum", hu: "Aneityum templomromok", ro: "Ruinele bisericii din Aneityum", en: "Aneityum Church Ruins" },
-    coordinates: { lat: -20.24, lng: 169.78 },
+    coords: [169.78, -20.24],
     description: {
       de: "Die Überreste einer riesigen presbyterianischen Steinkirche, die im 19. Jahrhundert auf der Insel Aneityum erbaut wurde.",
       hu: "Egy hatalmas presbiteriánus kőtemplom maradványai, amelyet a 19. században építettek Aneityum szigetén.",
@@ -290,7 +290,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-dillons-bay-martyrs-history-v2",
     type: "monument",
     name: { de: "Märtyrer-Gedenkstätte Dillon's Bay", hu: "Dillon's Bay mártír emlékmű", ro: "Memorialul martirilor din Dillon's Bay", en: "Dillon's Bay Martyrs Memorial" },
-    coordinates: { lat: -18.815, lng: 169.01 },
+    coords: [169.01, -18.815],
     description: {
       de: "Ein Denkmal auf der Insel Erromango für die christlichen Missionare, die dort im 19. Jahrhundert getötet wurden.",
       hu: "Emlékmű Erromango szigetén a 19. században megölt keresztény misszionáriusok tiszteletére.",
@@ -309,7 +309,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-port-resolution-history-v2",
     type: "port",
     name: { de: "Port Resolution", hu: "Port Resolution", ro: "Port Resolution", en: "Port Resolution" },
-    coordinates: { lat: -19.528, lng: 169.495 },
+    coords: [169.495, -19.528],
     description: {
       de: "Eine Bucht auf Tanna, die 1774 von Kapitän James Cook entdeckt und nach seinem Schiff HMS Resolution benannt wurde.",
       hu: "Öböl Tanna szigetén, amelyet 1774-ben James Cook kapitány fedezett fel és hajójáról, a HMS Resolutionről nevezett el.",
@@ -328,7 +328,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-pentecost-land-diving-history-v2",
     type: "landmark",
     name: { de: "Laval-Landtauchplatz", hu: "Laval földugró helyszín", ro: "Locul de plonjări ritualice din Pentecost", en: "Pentecost Land Diving Site" },
-    coordinates: { lat: -15.9, lng: 168.2 },
+    coords: [168.2, -15.9],
     description: {
       de: "Die traditionellen Stätten auf der Insel Pentecost, an denen das jahrhundertealte Ritual des Naghol (Landtauchen) praktiziert wird.",
       hu: "Hagyományos helyszínek Pentecost szigetén, ahol a több évszázados Naghol (földugrás) rituálét gyakorolják.",
@@ -347,7 +347,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-forari-mine-history-v2",
     type: "mine",
     name: { de: "Forari-Manganmine", hu: "Forari mangánbánya", ro: "Mina de mangan din Forari", en: "Forari Manganese Mine" },
-    coordinates: { lat: -17.7, lng: 168.52 },
+    coords: [168.52, -17.7],
     description: {
       de: "Eine ehemalige Manganmine an der Ostküste von Efate, die ein wichtiges Zentrum der kolonialen Wirtschaft war.",
       hu: "Egykori mangánbánya Efate keleti partján, amely a gyarmati gazdaság fontos központja volt.",
@@ -366,7 +366,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ano-island-dancing-ground-history-v2",
     type: "landmark",
     name: { de: "Tanzplatz der Insel Rano", hu: "Rano-szigeti tánctér", ro: "Locul de dans de pe insula Rano", en: "Rano Island Dancing Ground" },
-    coordinates: { lat: -15.97, lng: 167.38 },
+    coords: [167.38, -15.97],
     description: {
       de: "Ein uralter zeremonieller Platz auf der Insel Rano vor Malakula, gesäumt von monolithischen Steinen.",
       hu: "Ősi ceremoniális tér a Malakula melletti Rano-szigeten, amelyet monolit kövek szegélyeznek.",
@@ -385,7 +385,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-gaua-stone-walls-history-v2",
     type: "ruins",
     name: { de: "Antike Steinwände von Gaua", hu: "Gaua ősi kőfalai", ro: "Zidurile de piatră antice din Gaua", en: "Gaua Ancient Stone Walls" },
-    coordinates: { lat: -14.27, lng: 167.5 },
+    coords: [167.5, -14.27],
     description: {
       de: "Geheimnisvolle, gestufte Steinmauern auf der Insel Gaua, deren genauer Ursprung noch archäologisch erforscht wird.",
       hu: "Rejtélyes, lépcsőzetes kőfalak Gaua szigetén, amelyek pontos eredetét még régészetileg kutatják.",
@@ -404,7 +404,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-quoin-hill-airfield-history-v2",
     type: "landmark",
     name: { de: "Flugplatz Quoin Hill", hu: "Quoin Hill repülőtér", ro: "Aerodromul Quoin Hill", en: "Quoin Hill Airfield" },
-    coordinates: { lat: -17.55, lng: 168.4 },
+    coords: [168.4, -17.55],
     description: {
       de: "Ein ehemaliger US-Militärflugplatz im Norden von Efate, der während des Zweiten Weltkriegs als Ausweichpiste diente.",
       hu: "Egykori amerikai katonai repülőtér Efate északi részén, amely a második világháború alatt tartalék kifutópályaként szolgált.",
@@ -423,7 +423,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-loltong-mission-history-v2",
     type: "church",
     name: { de: "Mission Loltong", hu: "Loltong misszió", ro: "Misiunea Loltong", en: "Loltong Mission Site" },
-    coordinates: { lat: -15.53, lng: 168.15 },
+    coords: [168.15, -15.53],
     description: {
       de: "Eine historische Missionsstation auf Pentecost, die die Einführung des Christentums in der Region markierte.",
       hu: "Történelmi missziós állomás Pentecost szigetén, amely a kereszténység régióbeli elterjedését jelezte.",
@@ -442,7 +442,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ureparapara-paimet-history-v2",
     type: "ruins",
     name: { de: "Paimet-Festungswälle", hu: "Paimet erődítményfalak", ro: "Zidurile fortăreței Paimet", en: "Paimet Fortress Walls" },
-    coordinates: { lat: -13.53, lng: 167.33 },
+    coords: [167.33, -13.53],
     description: {
       de: "Massive Steinmauern auf der kreisförmigen Insel Ureparapara, die einst Verteidigungszwecken dienten.",
       hu: "Masszív kőfalak a kör alakú Ureparapara-szigeten, amelyek egykor védelmi célokat szolgáltak.",
@@ -461,7 +461,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-lamap-french-mission-history-v2",
     type: "church",
     name: { de: "Französische Mission Lamap", hu: "Lamapi francia misszió", ro: "Misiunea franceză din Lamap", en: "Lamap French Mission" },
-    coordinates: { lat: -16.44, lng: 167.79 },
+    coords: [167.79, -16.44],
     description: {
       de: "Ein bedeutendes Zentrum des französischen Einflusses auf Malakula während der Zeit des anglo-französischen Kondominiums.",
       hu: "A francia befolyás jelentős központja Malakula szigetén az angol-francia közös kormányzás idején.",
@@ -480,7 +480,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-aore-island-wwii-history-v2",
     type: "landmark",
     name: { de: "WWII-Relikte auf Aore", hu: "Aore-szigeti WWII maradványok", ro: "Vestigii din al Doilea Război Mondial pe Aore", en: "Aore Island WWII Relics" },
-    coordinates: { lat: -15.58, lng: 167.18 },
+    coords: [167.18, -15.58],
     description: {
       de: "Überreste von US-Militäranlagen auf der Insel Aore, die während des Zweiten Weltkriegs als Erholungszentrum dienten.",
       hu: "Amerikai katonai létesítmények maradványai Aore szigetén, amely a második világháború alatt pihenőhelyként szolgált.",
@@ -499,7 +499,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ambrym-magic-square-history-v2",
     type: "landmark",
     name: { de: "Magischer Platz von Ambrym", hu: "Ambrym-i mágikus tér", ro: "Piața magică din Ambrym", en: "Ambrym Magic Square" },
-    coordinates: { lat: -16.15, lng: 168.12 },
+    coords: [168.12, -16.15],
     description: {
       de: "Ein zeremonieller Platz auf Ambrym, bekannt für Sandzeichnungen und die Bewahrung alter spiritueller Traditionen.",
       hu: "Ceremoniális tér Ambrym szigetén, amely homokrajzairól és az ősi spirituális hagyományok megőrzéséről ismert.",
@@ -518,7 +518,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-mota-mission-history-v2",
     type: "church",
     name: { de: "Mission auf der Insel Mota", hu: "Mota-szigeti misszió", ro: "Misiunea de pe insula Mota", en: "Mota Island Mission History" },
-    coordinates: { lat: -13.85, lng: 167.7 },
+    coords: [167.7, -13.85],
     description: {
       de: "Die Insel Mota war im 19. Jahrhundert das Zentrum der melanesischen Mission und Wiege der Mota-Sprache als Lingua Franca.",
       hu: "Mota szigete a 19. században a melanéziai misszió központja és a mota nyelv, mint közvetítő nyelv bölcsője volt.",
@@ -537,7 +537,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ifira-island-village-history-v2",
     type: "village",
     name: { de: "Traditionelles Dorf Ifira", hu: "Ifira hagyományos falu", ro: "Satul tradițional Ifira", en: "Ifira Island Traditional Village" },
-    coordinates: { lat: -17.746, lng: 168.295 },
+    coords: [168.295, -17.746],
     description: {
       de: "Ein historisches Dorf auf der Insel Ifira im Hafen von Port Vila, das seine kulturelle Autonomie über Jahrhunderte bewahrt hat.",
       hu: "Hagyományos falu a Port Vila kikötőjében található Ifira-szigeten, amely évszázadokon át megőrizte kulturális autonómiáját.",
@@ -556,7 +556,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-mele-village-grounds-history-v2",
     type: "landmark",
     name: { de: "Zeremonielle Plätze von Mele", hu: "Mele ceremoniális terek", ro: "Terenurile ceremoniale din Mele", en: "Mele Village Traditional Grounds" },
-    coordinates: { lat: -17.685, lng: 168.26 },
+    coords: [168.26, -17.685],
     description: {
       de: "Historische Versammlungsplätze des Dorfes Mele, des größten Dorfes auf Efate mit einer reichen polynesischen Exklaven-Geschichte.",
       hu: "Mele falu történelmi gyülekezőhelyei; ez Efate legnagyobb faluja, gazdag polinéz exklávé történelemmel.",
@@ -575,7 +575,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-pby-catalina-wreck-history-v2",
     type: "landmark",
     name: { de: "PBY-Catalina-Wrack", hu: "PBY Catalina roncs", ro: "Epava PBY Catalina", en: "PBY Catalina Wreck" },
-    coordinates: { lat: -15.535, lng: 167.225 },
+    coords: [167.225, -15.535],
     description: {
       de: "Das Wrack eines US-Flugbootes vom Typ PBY Catalina, das während des Zweiten Weltkriegs im Segond-Kanal sank.",
       hu: "Egy PBY Catalina típusú amerikai repülőcsónak roncsa, amely a második világháború alatt süllyedt el a Segond-csatornában.",
@@ -594,7 +594,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-sbd-dauntless-wreck-history-v2",
     type: "landmark",
     name: { de: "SBD-Dauntless-Wrack", hu: "SBD Dauntless roncs", ro: "Epava SBD Dauntless", en: "SBD Dauntless Wreck" },
-    coordinates: { lat: -15.54, lng: 167.21 },
+    coords: [167.21, -15.54],
     description: {
       de: "Ein US-Sturzkampfbomber, der während des Zweiten Weltkriegs vor der Küste von Espiritu Santo abstürzte.",
       hu: "Amerikai zuhanóbombázó, amely a második világháború alatt zuhant le Espiritu Santo partjainál.",
@@ -613,7 +613,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ao-island-monoliths-history-v2",
     type: "landmark",
     name: { de: "Steinmonolithe der Insel Vao", hu: "Vao-szigeti kőmonolitok", ro: "Monoliții de piatră de pe insula Vao", en: "Vao Island Stone Monoliths" },
-    coordinates: { lat: -15.89, lng: 167.3 },
+    coords: [167.3, -15.89],
     description: {
       de: "Große stehende Steine auf der Insel Vao, die für antike Zeremonien und den Ahnenkult verwendet wurden.",
       hu: "Hatalmas állókövek Vao szigetén, amelyeket ősi ceremóniákhoz és ősök tiszteletéhez használtak.",
@@ -632,7 +632,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-malo-island-pottery-history-v2",
     type: "ruins",
     name: { de: "Malo-Keramikfundstätte", hu: "Malo-szigeti kerámia lelőhely", ro: "Situl de olărie din insula Malo", en: "Malo Island Pottery Site" },
-    coordinates: { lat: -15.68, lng: 167.15 },
+    coords: [167.15, -15.68],
     description: {
       de: "Eine archäologische Stätte auf der Insel Malo, die bedeutende Funde von Lapita-Keramik hervorgebracht hat.",
       hu: "Régészeti lelőhely Malo szigetén, ahol jelentős Lapita-kerámia leleteket találtak.",
@@ -651,7 +651,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-luganville-airfield-history-v2",
     type: "landmark",
     name: { de: "Flugplatz Luganville (Bomber Field No. 1)", hu: "Luganville-i repülőtär", ro: "Aerodromul Luganville", en: "Luganville Airfield" },
-    coordinates: { lat: -15.508, lng: 167.22 },
+    coords: [167.22, -15.508],
     description: {
       de: "Ein massiver Militärflugplatz, der während des Zweiten Weltkriegs von den USA auf Espiritu Santo errichtet wurde.",
       hu: "Hatalmas katonai repülőtér, amelyet az USA épített Espiritu Santo szigetén a második világháború alatt.",
@@ -670,7 +670,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-martyrs-memorial-erromango-history-v2",
     type: "monument",
     name: { de: "Märtyrer-Denkmal von Erromango", hu: "Erromangói mártír emlékmű", ro: "Memorialul martirilor din Erromango", en: "Erromango Martyrs Memorial" },
-    coordinates: { lat: -18.814, lng: 169.008 },
+    coords: [169.008, -18.814],
     description: {
       de: "Ein Gedenkort auf Erromango, der an die gewaltsamen Konflikte zwischen Einheimischen und frühen Missionaren erinnert.",
       hu: "Emlékhely Erromango szigetén, amely a helyiek és a korai misszionáriusok közötti erőszakos konfliktusokra emlékeztet.",
@@ -689,7 +689,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-williams-river-history-v2",
     type: "river",
     name: { de: "Williams River", hu: "Williams-folyó", ro: "Râul Williams", en: "Williams River" },
-    coordinates: { lat: -18.816, lng: 169.012 },
+    coords: [169.012, -18.816],
     description: {
       de: "Ein historisch bedeutsamer Fluss auf Erromango, Schauplatz tragischer Ereignisse der Missionsgeschichte.",
       hu: "Történelmileg jelentős folyó Erromango szigetén, a missziótörténet tragikus eseményeinek helyszíne.",
@@ -708,7 +708,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-pattpatrick-lapita-history-v2",
     type: "ruins",
     name: { de: "Port Patrick Lapita-Stätte", hu: "Port Patrick Lapita lelőhely", ro: "Situl Lapita de la Port Patrick", en: "Port Patrick Lapita Site" },
-    coordinates: { lat: -20.15, lng: 169.85 },
+    coords: [169.85, -20.15],
     description: {
       de: "Eine archäologische Fundstätte im Norden von Aneityum, die Spuren der frühesten Lapita-Besiedlung aufweist.",
       hu: "Régészeti lelőhely Aneityum északi részén, amely a legkorábbi Lapita benépesülés nyomait mutatja.",
@@ -727,7 +727,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-resolution-bay-history-v2",
     type: "landmark",
     name: { de: "Resolution Bay", hu: "Resolution-öböl", ro: "Golful Resolution", en: "Resolution Bay" },
-    coordinates: { lat: -19.53, lng: 169.49 },
+    coords: [169.49, -19.53],
     description: {
       de: "Der historische Landungsort von James Cook auf Tanna, benannt nach seinem berühmten Forschungsschiff.",
       hu: "James Cook történelmi partraszállási helye Tanna szigetén, híres kutatóhajójáról elnevezve.",
@@ -746,7 +746,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-matchin-island-monoliths-history-v2",
     type: "landmark",
     name: { de: "Atchin-Insel Monolithe", hu: "Atchin-szigeti monolitok", ro: "Monoliții de pe insula Atchin", en: "Atchin Island Monoliths" },
-    coordinates: { lat: -15.9, lng: 167.33 },
+    coords: [167.33, -15.9],
     description: {
       de: "Zahlreiche stehende Steine auf der kleinen Insel Atchin, die für komplexe zeremonielle Zyklen errichtet wurden.",
       hu: "Számos állókő Atchin kis szigetén, amelyeket összetett ceremoniális ciklusokhoz emeltek.",
@@ -765,7 +765,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-small-nambas-territory-history-v2",
     type: "village",
     name: { de: "Gebiet der Small Nambas", hu: "Small Nambas terület", ro: "Teritoriul Small Nambas", en: "Small Nambas Territory" },
-    coordinates: { lat: -16.3, lng: 167.45 },
+    coords: [167.45, -16.3],
     description: {
       de: "Die historischen Wohngebiete des Small-Nambas-Stammes im Süden Malakulas, bekannt für ihre einzigartige Kultur.",
       hu: "A Small Nambas törzs történelmi lakóterületei Malakula déli részén, egyedülálló kultúrájukról ismertek.",
@@ -784,7 +784,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-big-nambas-territory-history-v2",
     type: "village",
     name: { de: "Gebiet der Big Nambas", hu: "Big Nambas terület", ro: "Teritoriul Big Nambas", en: "Big Nambas Territory" },
-    coordinates: { lat: -16.1, lng: 167.4 },
+    coords: [167.4, -16.1],
     description: {
       de: "Das Territorium der Big Nambas im Norden Malakulas, einst gefürchtet für ihre kriegerische und ritualistische Vergangenheit.",
       hu: "A Big Nambas terület Malakula északi részén, amely egykor harcias és rituális múltjáról volt félelmetes.",
@@ -803,7 +803,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-fanla-village-history-v2",
     type: "village",
     name: { de: "Dorf Fanla", hu: "Fanla falu", ro: "Satul Fanla", en: "Fanla Village" },
-    coordinates: { lat: -16.14, lng: 168.13 },
+    coords: [168.13, -16.14],
     description: {
       de: "Ein uraltes Dorf auf Ambrym, das als wichtigstes Zentrum für traditionelle Magie und den Rom-Tanz gilt.",
       hu: "Ősi falu Ambrym szigetén, amely a hagyományos mágia és a Rom tánc legfontosabb központja.",
@@ -822,7 +822,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-louniel-traditional-site-history-v2",
     type: "village",
     name: { de: "Traditionelle Stätte von Louniel", hu: "Louniel hagyományos helyszín", ro: "Situl tradițional Louniel", en: "Louniel Traditional Site" },
-    coordinates: { lat: -19.45, lng: 169.4 },
+    coords: [169.4, -19.45],
     description: {
       de: "Ein geschichtsträchtiges Küstendorf im Norden von Tanna, das für den Erhalt ursprünglicher Lebensweisen bekannt ist.",
       hu: "Történelmi tengerparti falu Tanna északi részén, amely az eredeti életmód megőrzéséről ismert.",
@@ -841,7 +841,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-anelcauhat-mission-history-v2",
     type: "church",
     name: { de: "Mission Anelcauhat", hu: "Anelcauhati misszió", ro: "Misiunea Anelcauhat", en: "Anelcauhat Mission" },
-    coordinates: { lat: -20.23, lng: 169.77 },
+    coords: [169.77, -20.23],
     description: {
       de: "Der Hauptort von Aneityum, der durch die presbyterianische Mission im 19. Jahrhundert entscheidend geprägt wurde.",
       hu: "Aneityum fő települése, amelyet a 19. századi presbiteriánus misszió döntően meghatározott.",
@@ -860,7 +860,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-paimet-fortress-history-v2",
     type: "ruins",
     name: { de: "Paimet-Steinfort", hu: "Paimet kőerőd", ro: "Fortăreața de piatră Paimet", en: "Paimet Stone Fort" },
-    coordinates: { lat: -13.525, lng: 167.335 },
+    coords: [167.335, -13.525],
     description: {
       de: "Eine beeindruckende prähistorische Steinfestung auf Ureparapara, die Zeugnis von früheren Stammesrivalitäten ablegt.",
       hu: "Lenyűgöző őskori kőerőd Ureparapara szigetén, amely korábbi törzsi rivalizálásokról tanúskodik.",
@@ -879,7 +879,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-mangalliu-village-history-v2",
     type: "village",
     name: { de: "Dorf Mangaliliu", hu: "Mangaliliu falu", ro: "Satul Mangaliliu", en: "Mangaliliu Village History" },
-    coordinates: { lat: -17.65, lng: 168.18 },
+    coords: [168.18, -17.65],
     description: {
       de: "Ein historisches Küstendorf auf Efate, das als Tor zum UNESCO-Welterbe von Roi Mata dient.",
       hu: "Történelmi tengerparti falu Efate szigetén, amely kapuként szolgál Roi Mata UNESCO világörökségi helyszínéhez.",
@@ -898,7 +898,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-ipota-sandalwood-history-v2",
     type: "landmark",
     name: { de: "Ipota-Sandelholzstation", hu: "Ipota szantálfa állomás", ro: "Stația de lemn de santal Ipota", en: "Ipota Sandalwood Station" },
-    coordinates: { lat: -18.85, lng: 169.28 },
+    coords: [169.28, -18.85],
     description: {
       de: "Ein historischer Ort auf Erromango, der im 19. Jahrhundert das Zentrum des Sandelholzhandels im Pazifik war.",
       hu: "Történelmi helyszín Erromango szigetén, amely a 19. században a csendes-óceáni szantálfa-kereskedelem központja volt.",
@@ -917,7 +917,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-bokissa-island-wwii-history-v2",
     type: "landmark",
     name: { de: "Bokissa-Insel WWII-Relikte", hu: "Bokissa-szigeti WWII emlékek", ro: "Vestigii WWII pe insula Bokissa", en: "Bokissa Island WWII Remains" },
-    coordinates: { lat: -15.585, lng: 167.24 },
+    coords: [167.24, -15.585],
     description: {
       de: "Überreste von US-Stützpunkten auf der kleinen Privatinsel Bokissa, die strategisch im Segond-Kanal liegt.",
       hu: "Amerikai bázisok maradványai a Segond-csatornában fekvő kis magánszigeten, Bokissán.",
@@ -936,7 +936,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-efate-round-road-history-v2",
     type: "landmark",
     name: { de: "Historische Ringstraße von Efate", hu: "Efate történelmi körút", ro: "Drumul circular istoric din Efate", en: "Efate Round Island Road History" },
-    coordinates: { lat: -17.7, lng: 168.4 },
+    coords: [168.4, -17.7],
     description: {
       de: "Die Hauptverkehrsader um Efate, deren Verlauf größtenteils auf US-Militärstraßen aus dem Zweiten Weltkrieg basiert.",
       hu: "Efate fő közlekedési útvonala, amelynek vonalvezetése nagyrészt a második világháborús amerikai katonai utakon alapul.",
@@ -955,7 +955,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-mota-lava-church-history-v2",
     type: "church",
     name: { de: "Historische Kirche Mota Lava", hu: "Mota Lava történelmi templom", ro: "Biserica istorică din Mota Lava", en: "Mota Lava Historic Church" },
-    coordinates: { lat: -13.67, lng: 167.65 },
+    coords: [167.65, -13.67],
     description: {
       de: "Eine der ältesten Kirchen der Banks-Inseln, die den Einfluss der anglikanischen Mission widerspiegelt.",
       hu: "A Banks-szigetek egyik legrégebbi temploma, amely az anglikán misszió befolyását tükrözi.",
@@ -974,7 +974,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-avenger-wreck-history-v2",
     type: "landmark",
     name: { de: "Avenger-Wrack", hu: "Avenger roncs", ro: "Epava Avenger", en: "Avenger Wreck" },
-    coordinates: { lat: -15.52, lng: 167.23 },
+    coords: [167.23, -15.52],
     description: {
       de: "Das Unterwasserwrack eines TBF Avenger Torpedobombers der US Navy in der Nähe von Santo.",
       hu: "Az amerikai haditengerészet TBF Avenger torpedóbombázójának víz alatti roncsa Santo közelében.",
@@ -993,7 +993,7 @@ export const vanuatuHistoryV2: POI[] = [
     id: "vanuatu-mele-cascades-legend-history-v2",
     type: "landmark",
     name: { de: "Mele-Wasserfälle (Legendenstätte)", hu: "Mele-vízesés (legendák helyszíne)", ro: "Cascadele Mele (loc de legendă)", en: "Mele Cascades Legend Site" },
-    coordinates: { lat: -17.675, lng: 168.255 },
+    coords: [168.255, -17.675],
     description: {
       de: "Ein natürliches Wahrzeichen, das tief in der mündlichen Geschichte und den Legenden der Mele-Bevölkerung verwurzelt ist.",
       hu: "Természetes látnivaló, amely mélyen gyökerezik a Mele lakosság szóbeli történelmében és legendáiban.",

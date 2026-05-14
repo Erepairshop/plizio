@@ -1423,7 +1423,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-matendera-ruins-history-v2",
     type: "ruins",
     name: { de: "Matendera-Ruinen", hu: "Matendera romok", ro: "Ruinele Matendera", en: "Matendera Ruins" },
-    coordinates: { lat: -19.5542, lng: 31.9514 },
+    coords: [31.9514, -19.5542],
     description: {
       de: "Diese bedeutende Ruinenstätte aus dem 16. Jahrhundert zeigt die Architektur des Great Zimbabwe-Stils. Sie war einst ein wichtiges regionales Zentrum im Buhera-Distrikt.",
       hu: "Ez a 16. századi romterület a Nagy-Zimbabwe stílusú építészet egyik legfontosabb példája. Egykor jelentős regionális központ volt Buhera körzetében.",
@@ -1442,7 +1442,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-mudzi-ruins-history-v2",
     type: "ruins",
     name: { de: "Mudzi-Ruinen", hu: "Mudzi romok", ro: "Ruinele Mudzi", en: "Mudzi Ruins" },
-    coordinates: { lat: -17.0833, lng: 32.5833 },
+    coords: [32.5833, -17.0833],
     description: {
       de: "Diese Ruinen im Nordosten Simbabwes stammen aus der späten Eisenzeit. Sie zeigen Einflüsse des Mutapa-Reiches und dienten wahrscheinlich als administrativer Posten.",
       hu: "Ezek az északkelet-zimbabwei romok a késő vaskorból származnak. A Mutapa Birodalom hatását tükrözik, és valószínűleg közigazgatási központként működtek.",
@@ -1461,7 +1461,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-fort-charter-history-v2",
     type: "fort",
     name: { de: "Fort Charter", hu: "Charter-erőd", ro: "Fortul Charter", en: "Fort Charter" },
-    coordinates: { lat: -18.9667, lng: 31.1167 },
+    coords: [31.1167, -18.9667],
     description: {
       de: "Dieses historische Fort wurde 1890 von der Pioneer Column errichtet. Es war ein strategischer Stützpunkt während der Kolonialisierung von Mashonaland.",
       hu: "Ezt a történelmi erődöt 1890-ben alapította a Pioneer Column. Stratégiai fontosságú támaszpont volt Mashonaland gyarmatosítása során.",
@@ -1480,7 +1480,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-inyati-mission-history-v2",
     type: "church",
     name: { de: "Inyati-Mission", hu: "Inyati misszió", ro: "Misiunea Inyati", en: "Inyati Mission" },
-    coordinates: { lat: -19.6756, lng: 28.8519 },
+    coords: [28.8519, -19.6756],
     description: {
       de: "Gegründet im Jahr 1859 von Robert Moffat, ist dies die älteste permanente christliche Missionsstation in Simbabwe. Sie markiert den Beginn westlicher Bildung im Land.",
       hu: "Az 1859-ben Robert Moffat által alapított misszió a legrégebbi állandó keresztény állomás Zimbabwében. A nyugati oktatás kezdetét jelzi.",
@@ -1499,7 +1499,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-hope-fountain-mission-history-v2",
     type: "church",
     name: { de: "Hope Fountain Mission", hu: "Hope Fountain misszió", ro: "Misiunea Hope Fountain", en: "Hope Fountain Mission" },
-    coordinates: { lat: -20.2703, lng: 28.6656 },
+    coords: [28.6656, -20.2703],
     description: {
       de: "Diese 1870 gegründete Mission in der Nähe von Bulawayo spielte eine zentrale Rolle in der Geschichte des Matabele-Reiches. Sie war ein Zentrum für Handwerk und Bildung.",
       hu: "Ez az 1870-ben alapított misszió Bulawayo közelében központi szerepet játszott a Matabele Birodalom történetében. A kézművesség és az oktatás központja volt.",
@@ -1518,7 +1518,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-empandeni-mission-history-v2",
     type: "church",
     name: { de: "Empandeni-Mission", hu: "Empandeni misszió", ro: "Misiunea Empandeni", en: "Empandeni Mission" },
-    coordinates: { lat: -20.9333, lng: 27.9333 },
+    coords: [27.9333, -20.9333],
     description: {
       de: "Empandeni wurde 1887 als erste katholische Mission in Matabeleland gegründet. Sie ist bekannt für ihre beeindruckende neugotische Architektur und ihre Schule.",
       hu: "Az 1887-ben alapított Empandeni volt az első katolikus misszió Matabeleföldön. Híres neogótikus építészetéről és iskolájáról.",
@@ -1537,7 +1537,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-fort-mazowe-history-v2",
     type: "fort",
     name: { de: "Fort Mazowe", hu: "Mazowe-erőd", ro: "Fortul Mazowe", en: "Fort Mazowe" },
-    coordinates: { lat: -17.5125, lng: 30.9856 },
+    coords: [30.9856, -17.5125],
     description: {
       de: "Dieses Fort war 1896 Schauplatz der berühmten Alice-Mine-Belagerung während der ersten Chimurenga. Es diente als Zufluchtsort für Siedler in der Mazowe-Region.",
       hu: "Ez az erőd volt az 1896-os híres Alice Mine ostrom helyszíne az első Chimurenga idején. Menedékként szolgált a telepeseknek a Mazowe régióban.",
@@ -1556,7 +1556,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-lobengula-pupu-site-history-v2",
     type: "battlefield",
     name: { de: "Pupu-Schlachtfeld", hu: "Pupu csatatér", ro: "Câmpul de luptă Pupu", en: "Pupu Battlefield" },
-    coordinates: { lat: -18.7833, lng: 28.25 },
+    coords: [28.25, -18.7833],
     description: {
       de: "Pupu ist der Ort der historischen Schlacht von 1893, in der König Lobengulas Krieger die Shangani-Patrouille besiegten. Es ist ein Symbol des Widerstands.",
       hu: "Pupu az 1893-as történelmi csata helyszíne, ahol Lobengula király harcosai legyőzték a Shangani-járőrt. Az ellenállás fontos szimbóluma.",
@@ -1575,7 +1575,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-nswatugi-cave-history-v2",
     type: "landmark",
     name: { de: "Nswatugi-Höhle", hu: "Nswatugi-barlang", ro: "Peștera Nswatugi", en: "Nswatugi Cave" },
-    coordinates: { lat: -20.5333, lng: 28.4833 },
+    coords: [28.4833, -20.5333],
     description: {
       de: "Diese Höhle in den Matobo-Hügeln beherbergt einige der am besten erhaltenen Felsmalereien Afrikas. Besonders bekannt sind die lebensechten Darstellungen von Giraffen.",
       hu: "A Matobo-hegységben található barlang Afrika egyik legjobb állapotban fennmaradt sziklarajz-gyűjteményének ad otthont. Különösen híres élethű zsiráfábrázolásairól.",
@@ -1594,7 +1594,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-pomongwe-cave-history-v2",
     type: "landmark",
     name: { de: "Pomongwe-Höhle", hu: "Pomongwe-barlang", ro: "Peștera Pomongwe", en: "Pomongwe Cave" },
-    coordinates: { lat: -20.55, lng: 28.5167 },
+    coords: [28.5167, -20.55],
     description: {
       de: "Pomongwe ist eine der größten Höhlen im Matopos-Gebiet und eine bedeutende archäologische Fundstätte. Sie lieferte wichtige Erkenntnisse über die Steinzeit.",
       hu: "A Pomongwe a Matopos-vidék egyik legnagyobb barlangja és jelentős régészeti lelőhely. Fontos adatokkal szolgált a kőkorszaki életről.",
@@ -1613,7 +1613,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-bambata-cave-history-v2",
     type: "landmark",
     name: { de: "Bambata-Höhle", hu: "Bambata-barlang", ro: "Peștera Bambata", en: "Bambata Cave" },
-    coordinates: { lat: -20.5083, lng: 28.3917 },
+    coords: [28.3917, -20.5083],
     description: {
       de: "Diese Höhle war die erste in Simbabwe, die archäologisch untersucht wurde. Sie gab der 'Bambata-Kultur' der mittleren Steinzeit ihren Namen.",
       hu: "Ez volt az első barlang Zimbabwében, amelyet régészetileg megvizsgáltak. Róla nevezték el a középső kőkorszaki 'Bambata-kultúrát'.",
@@ -1632,7 +1632,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-chamavara-rock-art-history-v2",
     type: "landmark",
     name: { de: "Chamavara-Felsmalereien", hu: "Chamavara sziklarajzok", ro: "Picturile rupestre Chamavara", en: "Chamavara Rock Art" },
-    coordinates: { lat: -19.7833, lng: 31.05 },
+    coords: [31.05, -19.7833],
     description: {
       de: "Chamavara ist berühmt für seine riesige menschliche Figur, die als 'Riese' bekannt ist. Diese prähistorische Galerie liegt in der Nähe von Masvingo.",
       hu: "Chamavara híres egy hatalmas emberi alakról, amelyet csak 'Óriásként' ismernek. Ez a prahisztorikus galéria Masvingo közelében található.",
@@ -1651,7 +1651,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-chiremba-balancing-rocks-history-v2",
     type: "landmark",
     name: { de: "Chiremba Balancing Rocks", hu: "Chiremba egyensúlyozó sziklák", ro: "Stâncile balansate Chiremba", en: "Chiremba Balancing Rocks" },
-    coordinates: { lat: -17.8875, lng: 31.1214 },
+    coords: [31.1214, -17.8875],
     description: {
       de: "Diese ikonischen Felsformationen in Epworth sind weltberühmt als Motiv auf den simbabwischen Geldscheinen. Sie sind ein geschütztes Nationaldenkmal.",
       hu: "Ezek az ikonikus sziklaalakzatok Epworth-ben világhírűek a zimbabwei bankjegyekről. Védett nemzeti emlékhelynek minősülnek.",
@@ -1670,7 +1670,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-umnukwana-ruins-history-v2",
     type: "ruins",
     name: { de: "Umnukwana-Ruinen", hu: "Umnukwana romok", ro: "Ruinele Umnukwana", en: "Umnukwana Ruins" },
-    coordinates: { lat: -20.625, lng: 30.0833 },
+    coords: [30.0833, -20.625],
     description: {
       de: "Umnukwana ist eine historische Stätte der Khami-Periode im Belingwe-Distrikt. Die Anlage zeigt aufwendige Schachbrettmuster in den Steinmauern.",
       hu: "Az Umnukwana a Khami-korszak egyik történelmi lelőhelye a Belingwe körzetben. A falak bonyolult sakktábla-mintázatú kőmunkával készültek.",
@@ -1689,7 +1689,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-chumnungwa-ruins-history-v2",
     type: "ruins",
     name: { de: "Chumnungwa-Ruinen", hu: "Chumnungwa romok", ro: "Ruinele Chumnungwa", en: "Chumnungwa Ruins" },
-    coordinates: { lat: -20.8167, lng: 29.9833 },
+    coords: [29.9833, -20.8167],
     description: {
       de: "Diese Ruinen sind Teil der Belingwe-Gruppe und stammen aus dem 15. Jahrhundert. Sie waren eng mit dem regionalen Goldhandel verbunden.",
       hu: "Ezek a romok a Belingwe-csoport részét képezik, és a 15. századból származnak. Szoros kapcsolatban álltak a regionális aranykereskedelemmel.",
@@ -1708,7 +1708,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-majiri-ruins-history-v2",
     type: "ruins",
     name: { de: "Majiri-Ruinen", hu: "Majiri romok", ro: "Ruinele Majiri", en: "Majiri Ruins" },
-    coordinates: { lat: -20.2833, lng: 30.9833 },
+    coords: [30.9833, -20.2833],
     description: {
       de: "Majiri ist eine Außenstelle des Great Zimbabwe Komplexes. Die Ruinen bieten wertvolle Informationen über die Ausdehnung des antiken Reiches.",
       hu: "Majiri a Nagy-Zimbabwe komplexum egyik külső állomása. A romok értékes információkkal szolgálnak az ősi birodalom kiterjedéséről.",
@@ -1727,7 +1727,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-pasas-ruin-history-v2",
     type: "ruins",
     name: { de: "Pasas-Ruine", hu: "Pasas rom", ro: "Ruina Pasas", en: "Pasas Ruin" },
-    coordinates: { lat: -19.45, lng: 31.85 },
+    coords: [31.85, -19.45],
     description: {
       de: "Diese weniger bekannte Ruine im Buhera-Distrikt gehört zum Matendera-Cluster. Sie zeigt die typische Bauweise der regionalen Zentren des 17. Jahrhunderts.",
       hu: "Ez a kevésbé ismert rom a Buhera körzetben a Matendera-csoporthoz tartozik. A 17. századi regionális központok tipikus építésmódját tükrözi.",
@@ -1746,7 +1746,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-kagumbudzi-ruins-history-v2",
     type: "ruins",
     name: { de: "Kagumbudzi-Ruinen", hu: "Kagumbudzi romok", ro: "Ruinele Kagumbudzi", en: "Kagumbudzi Ruins" },
-    coordinates: { lat: -19.3833, lng: 31.9167 },
+    coords: [31.9167, -19.3833],
     description: {
       de: "Kagumbudzi ist ein archäologischer Komplex im Osten Simbabwes. Die Stätte ist bekannt für ihre strategische Lage auf einem Hügelkamm.",
       hu: "A Kagumbudzi egy régészeti komplexum Kelet-Zimbabwében. A lelőhely a dombgerincen elfoglalt stratégiai helyzetéről nevezetes.",
@@ -1765,7 +1765,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-fort-umlugulu-history-v2",
     type: "fort",
     name: { de: "Fort Umlugulu", hu: "Umlugulu-erőd", ro: "Fortul Umlugulu", en: "Fort Umlugulu" },
-    coordinates: { lat: -20.5, lng: 29.0 },
+    coords: [29.0, -20.5],
     description: {
       de: "Fort Umlugulu war ein wichtiger Militärposten während des Matabele-Aufstands von 1896. Es lag am Rande der Matobo-Hügel.",
       hu: "Az Umlugulu-erőd fontos katonai támaszpont volt az 1896-os Matabele-felkelés idején. A Matobo-hegység szélén helyezkedett el.",
@@ -1784,7 +1784,7 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     id: "zimbabwe-manasora-ruins-history-v2",
     type: "ruins",
     name: { de: "Manasora-Ruinen", hu: "Manasora romok", ro: "Ruinele Manasora", en: "Manasora Ruins" },
-    coordinates: { lat: -19.525, lng: 31.9833 },
+    coords: [31.9833, -19.525],
     description: {
       de: "Die Manasora-Ruinen liegen unweit von Matendera und gehören zum selben archäologischen Komplex. Sie dienten als Vorposten oder Wohnplatz für Untergebene.",
       hu: "A Manasora romok Matendera közelében találhatók, és ugyanahhoz a komplexumhoz tartoznak. Előörsként vagy szolgálati lakóhelyként funkcionáltak.",

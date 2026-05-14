@@ -5,7 +5,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-canaima-life-v2",
     type: "park",
     name: { de: "Nationalpark Canaima", hu: "Canaima Nemzeti Park", ro: "Parcul Național Canaima", en: "Canaima National Park" },
-    coordinates: { lat: 5.92, lng: -62.5 },
+    coords: [-62.5, 5.92],
     description: {
       de: "Dieser Nationalpark erstreckt sich über 30.000 Quadratkilometer im Südosten Venezuelas. Er schützt ausgedehnte Tafelberge und dichte tropische Regenwälder.",
       hu: "Ez a nemzeti park 30 000 négyzetkilométeren terül el Venezuela délkeleti részén. Védi a kiterjedt táblahegyeket és a sűrű trópusi esőerdőket.",
@@ -24,7 +24,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-henri-pittier-life-v2",
     type: "park",
     name: { de: "Nationalpark Henri Pittier", hu: "Henri Pittier Nemzeti Park", ro: "Parcul Național Henri Pittier", en: "Henri Pittier National Park" },
-    coordinates: { lat: 10.4, lng: -67.6 },
+    coords: [-67.6, 10.4],
     description: {
       de: "Dies ist der älteste Nationalpark Venezuelas, benannt nach einem Schweizer Geografen. Er umfasst eine vielfältige Küstengebirgslandschaft.",
       hu: "Ez Venezuela legrégebbi nemzeti parkja, amelyet egy svájci geográfusról neveztek el. Változatos parti hegyvidéki tájat foglal magában.",
@@ -43,7 +43,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-morrocoy-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Morrocoy", hu: "Morrocoy Nemzeti Park", ro: "Parcul Național Morrocoy", en: "Morrocoy National Park" },
-    coordinates: { lat: 10.88, lng: -68.2 },
+    coords: [-68.2, 10.88],
     description: {
       de: "Dieses Schutzgebiet an der Westküste ist bekannt für seine Mangrovenwälder und Korallenriffe. Es dient vielen Meeresarten als Brutstätte.",
       hu: "Ez a nyugati parti védett terület mangrove-erdőiről és korallzátonyairól ismert. Számos tengeri faj számára szolgál szaporodóhelyként.",
@@ -62,7 +62,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-archipielago-los-roques-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Archipel Los Roques", hu: "Los Roques Szigetcsoport Nemzeti Park", ro: "Parcul Național Arhipelagul Los Roques", en: "Los Roques Archipelago National Park" },
-    coordinates: { lat: 11.83, lng: -66.75 },
+    coords: [-66.75, 11.83],
     description: {
       de: "Dieser Archipel im Karibischen Meer umfasst über 300 Koralleninseln und Sandbänke. Er schützt ein fragiles maritimes Ökosystem.",
       hu: "Ez a Karib-tengeri szigetcsoport több mint 300 korallszigetet és homokpadot foglal magában. Védi a törékeny tengeri ökoszisztémát.",
@@ -81,7 +81,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-el-avila-life-v2",
     type: "park",
     name: { de: "Nationalpark El Ávila", hu: "El Ávila Nemzeti Park", ro: "Parcul Național El Ávila", en: "El Ávila National Park" },
-    coordinates: { lat: 10.53, lng: -66.8 },
+    coords: [-66.8, 10.53],
     description: {
       de: "Dieses Gebirge trennt Caracas von der Karibikküste. Es bietet Schutz für vielfältige Bergwälder und zahlreiche endemische Tierarten.",
       hu: "Ez a hegység választja el Caracas városát a Karib-tenger partjától. Védelmet nyújt a változatos hegyi erdőknek és számos endemikus állatfajnak.",
@@ -100,7 +100,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-jardin-botanico-de-caracas-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Caracas", hu: "Caracasi Botanikus Kert", ro: "Grădina Botanică din Caracas", en: "Botanical Garden of Caracas" },
-    coordinates: { lat: 10.48, lng: -66.9 },
+    coords: [-66.9, 10.48],
     description: {
       de: "Diese Anlage in Caracas bewahrt eine umfangreiche Sammlung tropischer Pflanzenarten. Sie ist Teil der Universitätshauptstadt.",
       hu: "Ez a caracasi kert trópusi növényfajok kiterjedt gyűjteményét őrzi. Az egyetemi városrész része.",
@@ -119,7 +119,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-zoológico-caricuao-life-v2",
     type: "wildlife",
     name: { de: "Zoo Caricuao", hu: "Caricuao Állatkert", ro: "Grădina Zoologică Caricuao", en: "Caricuao Zoo" },
-    coordinates: { lat: 10.43, lng: -66.98 },
+    coords: [-66.98, 10.43],
     description: {
       de: "Dieser Zoo im Südwesten von Caracas beherbergt zahlreiche einheimische und afrikanische Tierarten. Er erstreckt sich über ein hügeliges Gelände.",
       hu: "Ez a caracasi állatkert számos őshonos és afrikai állatfajnak ad otthont. Dombvidéki területen fekszik.",
@@ -138,7 +138,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-medanos-de-coro-life-v2",
     type: "park",
     name: { de: "Nationalpark Médanos de Coro", hu: "Médanos de Coro Nemzeti Park", ro: "Parcul Național Médanos de Coro", en: "Médanos de Coro National Park" },
-    coordinates: { lat: 11.45, lng: -69.65 },
+    coords: [-69.65, 11.45],
     description: {
       de: "Dieses Wüstengebiet zeichnet sich durch riesige, ständig wandernde Sanddünen aus. Es ist ein einzigartiges ökologisches Phänomen in der Region.",
       hu: "Ez a sivatagi terület hatalmas, állandóan vándorló homokdűnéiről nevezetes. Egyedülálló ökológiai jelenség a régióban.",
@@ -157,7 +157,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-maclearo-life-v2",
     type: "park",
     name: { de: "Nationalpark Macarao", hu: "Macarao Nemzeti Park", ro: "Parcul Național Macarao", en: "Macarao National Park" },
-    coordinates: { lat: 10.35, lng: -67.1 },
+    coords: [-67.1, 10.35],
     description: {
       de: "Dieser Park liegt in der Nähe von Caracas und dient als wichtiges Wassereinzugsgebiet. Er bewahrt intakte Wolkenwälder.",
       hu: "Ez a park Caracas közelében fekszik, és fontos vízgyűjtő területként szolgál. Épen maradt köderdőket őriz.",
@@ -176,7 +176,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-parima-tapirapec-life-v2",
     type: "park",
     name: { de: "Nationalpark Parima-Tapirapecó", hu: "Parima-Tapirapecó Nemzeti Park", ro: "Parcul Național Parima-Tapirapecó", en: "Parima-Tapirapecó National Park" },
-    coordinates: { lat: 2.5, lng: -64.5 },
+    coords: [-64.5, 2.5],
     description: {
       de: "Dieser entlegene Nationalpark liegt an der brasilianischen Grenze im Bundesstaat Amazonas. Er umfasst ursprüngliche Dschungellandschaften.",
       hu: "Ez a távoli nemzeti park a brazil határon, Amazonas államban található. Érintetlen dzsungeltájakat foglal magában.",
@@ -195,7 +195,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-delta-del-orinoco-life-v2",
     type: "wildlife",
     name: { de: "Orinoco-Delta", hu: "Orinoco-delta", ro: "Delta Orinoco", en: "Orinoco Delta" },
-    coordinates: { lat: 9.0, lng: -61.5 },
+    coords: [-61.5, 9.0],
     description: {
       de: "Das Mündungsgebiet des Orinoco bildet eines der größten und artenreichsten Flussdeltas der Welt. Es besteht aus einem Labyrinth aus Kanälen.",
       hu: "Az Orinoco torkolatvidéke a világ egyik legnagyobb és fajokban leggazdagabb folyódeltája. Csatornák labirintusából áll.",
@@ -214,7 +214,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-peninsula-de-paria-life-v2",
     type: "park",
     name: { de: "Nationalpark Halbinsel Paria", hu: "Paria-félsziget Nemzeti Park", ro: "Parcul Național Peninsula Paria", en: "Paria Peninsula National Park" },
-    coordinates: { lat: 10.65, lng: -62.5 },
+    coords: [-62.5, 10.65],
     description: {
       de: "Dieser Park schützt eine hügelige Halbinsel im Nordosten des Landes. Die Vegetation besteht aus dichten Berg- und Küstenregenwäldern.",
       hu: "Ez a park az ország északkeleti részén fekvő dombos félszigetet védi. A növényzet sűrű hegyi és parti esőerdőkből áll.",
@@ -233,7 +233,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-cinaruco-capanaparo-life-v2",
     type: "park",
     name: { de: "Nationalpark Cinaruco-Capanaparo", hu: "Cinaruco-Capanaparo Nemzeti Park", ro: "Parcul Național Cinaruco-Capanaparo", en: "Cinaruco-Capanaparo National Park" },
-    coordinates: { lat: 6.5, lng: -67.5 },
+    coords: [-67.5, 6.5],
     description: {
       de: "Dieses Schutzgebiet liegt in den venezolanischen Llanos. Es zeichnet sich durch weite Ebenen, Flüsse und saisonale Überschwemmungsgebiete aus.",
       hu: "Ez a védett terület a venezuelai Llanos-síkságon fekszik. Hatalmas síkságok, folyók és szezonális ártéri területek jellemzik.",
@@ -252,7 +252,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-dinira-life-v2",
     type: "park",
     name: { de: "Nationalpark Dinira", hu: "Dinira Nemzeti Park", ro: "Parcul Național Dinira", en: "Dinira National Park" },
-    coordinates: { lat: 9.6, lng: -70.1 },
+    coords: [-70.1, 9.6],
     description: {
       de: "Dieser Nationalpark erstreckt sich über Teile der Anden. Er dient dem Schutz zahlreicher Quellen und der umliegenden Bergwälder.",
       hu: "Ez a nemzeti park az Andok egyes részeit foglalja magában. Számos forrás és a környező hegyi erdők védelmét szolgálja.",
@@ -271,7 +271,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-chorro-el-indio-life-v2",
     type: "park",
     name: { de: "Nationalpark Chorro El Indio", hu: "Chorro El Indio Nemzeti Park", ro: "Parcul Național Chorro El Indio", en: "Chorro El Indio National Park" },
-    coordinates: { lat: 7.8, lng: -72.15 },
+    coords: [-72.15, 7.8],
     description: {
       de: "Dieser Park bei San Cristóbal ist für seine Wasserfälle bekannt. Die bergige Region ist durch eine dichte, feuchte Vegetation geprägt.",
       hu: "Ez a San Cristóbal melletti park vízeséseiről ismert. A hegyvidéki régiót sűrű, nedves növényzet jellemzi.",
@@ -290,7 +290,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-tapo-caparo-life-v2",
     type: "park",
     name: { de: "Nationalpark Tapo-Caparo", hu: "Tapo-Caparo Nemzeti Park", ro: "Parcul Național Tapo-Caparo", en: "Tapo-Caparo National Park" },
-    coordinates: { lat: 8.1, lng: -71.5 },
+    coords: [-71.5, 8.1],
     description: {
       de: "Dieser Park schützt die Wassereinzugsgebiete der Flüsse Tapo und Caparo in den Anden. Er beheimatet verschiedene Bergwald-Ökosysteme.",
       hu: "Ez a park a Tapo és Caparo folyók vízgyűjtő területeit védi az Andokban. Különböző hegyi erdő-ökoszisztémáknak ad otthont.",
@@ -309,7 +309,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-la-tupia-life-v2",
     type: "park",
     name: { de: "Nationalpark La Tupi", hu: "La Tupi Nemzeti Park", ro: "Parcul Național La Tupi", en: "La Tupi National Park" },
-    coordinates: { lat: 9.2, lng: -67.9 },
+    coords: [-67.9, 9.2],
     description: {
       de: "Dieser Park befindet sich in den nördlichen Ebenen. Er dient dem Schutz lokaler Tierarten und der bewaldeten Hügelketten.",
       hu: "Ez a park az északi síkságokon található. A helyi állatfajok és az erdős dombságok védelmét szolgálja.",
@@ -328,7 +328,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-peninsula-de-guanoco-life-v2",
     type: "park",
     name: { de: "Nationalpark Guanoco", hu: "Guanoco Nemzeti Park", ro: "Parcul Național Guanoco", en: "Guanoco National Park" },
-    coordinates: { lat: 10.15, lng: -62.8 },
+    coords: [-62.8, 10.15],
     description: {
       de: "Dieses Gebiet umfasst Sumpflandschaften und Mangroven im Osten. Es ist bekannt für seine natürlichen Asphaltvorkommen und Artenvielfalt.",
       hu: "Ez a terület keleten mocsaras tájakat és mangrove-erdőket foglal magában. Természetes aszfaltlelőhelyeiről és fajgazdagságáról ismert.",
@@ -347,7 +347,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-serra-de-neblina-life-v2",
     type: "park",
     name: { de: "Nationalpark Serranía de la Neblina", hu: "Serranía de la Neblina Nemzeti Park", ro: "Parcul Național Serranía de la Neblina", en: "Serranía de la Neblina National Park" },
-    coordinates: { lat: 1.0, lng: -66.0 },
+    coords: [-66.0, 1.0],
     description: {
       de: "Dieser Park an der Grenze zu Brasilien ist ein unzugängliches Hochplateau. Es beheimatet zahlreiche endemische Pflanzenarten.",
       hu: "Ez a Brazília határán fekvő park egy megközelíthetetlen fennsík. Számos endemikus növényfajnak ad otthont.",
@@ -366,7 +366,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-turuépano-life-v2",
     type: "park",
     name: { de: "Nationalpark Turuépano", hu: "Turuépano Nemzeti Park", ro: "Parcul Național Turuépano", en: "Turuépano National Park" },
-    coordinates: { lat: 10.3, lng: -62.5 },
+    coords: [-62.5, 10.3],
     description: {
       de: "Dieser Park schützt die Küsten-Sümpfe und Mangrovengebiete des Bundesstaates Sucre. Er ist ein wichtiges Refugium für Wasservögel.",
       hu: "Ez a park Sucre állam parti mocsaraid és mangrove-területeit védi. Fontos menedékhely a vízimadarak számára.",
@@ -385,7 +385,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2",
     type: "park",
     name: { de: "Nationalpark Cueva de la Quebrada del Toro", hu: "Cueva de la Quebrada del Toro Nemzeti Park", ro: "Parcul Național Cueva de la Quebrada del Toro", en: "Cueva de la Quebrada del Toro National Park" },
-    coordinates: { lat: 10.8, lng: -69.1 },
+    coords: [-69.1, 10.8],
     description: {
       de: "Dieser Nationalpark schützt ein komplexes Höhlensystem mit unterirdischen Flüssen. Es beheimatet eine spezielle Fledermausfauna.",
       hu: "Ez a nemzeti park egy földalatti folyókkal rendelkező komplex barlangrendszert véd. Különleges denevérfaunának ad otthont.",
@@ -404,7 +404,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-yacambú-life-v2",
     type: "park",
     name: { de: "Nationalpark Yacambú", hu: "Yacambú Nemzeti Park", ro: "Parcul Național Yacambú", en: "Yacambú National Park" },
-    coordinates: { lat: 9.6, lng: -69.5 },
+    coords: [-69.5, 9.6],
     description: {
       de: "Dieser Park liegt in Lara und schützt die Bergwaldregionen. Er ist von hoher Bedeutung für die Wasserversorgung der umliegenden Täler.",
       hu: "Ez a park Lara államban található és a hegyi erdőrégiókat védi. Nagy jelentőséggel bír a környező völgyek vízellátása szempontjából.",
@@ -423,7 +423,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-duida-marahuaca-life-v2",
     type: "park",
     name: { de: "Nationalpark Duida-Marahuaca", hu: "Duida-Marahuaca Nemzeti Park", ro: "Parcul Național Duida-Marahuaca", en: "Duida-Marahuaca National Park" },
-    coordinates: { lat: 3.5, lng: -65.5 },
+    coords: [-65.5, 3.5],
     description: {
       de: "Dieser Nationalpark umfasst massive Tafelberge (Tepuis) im Amazonasgebiet. Er ist ein Zentrum für botanische und zoologische Diversität.",
       hu: "Ez a nemzeti park hatalmas táblahegyeket (Tepui-kat) foglal magában az Amazonas-vidéken. A botanikai és zoológiai sokféleség központja.",
@@ -442,7 +442,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-jaua-sarisariñama-life-v2",
     type: "park",
     name: { de: "Nationalpark Jaua-Sarisariñama", hu: "Jaua-Sarisariñama Nemzeti Park", ro: "Parcul Național Jaua-Sarisariñama", en: "Jaua-Sarisariñama National Park" },
-    coordinates: { lat: 4.7, lng: -64.2 },
+    coords: [-64.2, 4.7],
     description: {
       de: "Dieser Park beherbergt die weltweit bekannten Sarisariñama-Senklöcher auf den Tafelbergen. Sie weisen ein isoliertes Ökosystem auf.",
       hu: "Ez a park ad otthont a világszerte ismert Sarisariñama-nyelőlyukaknak a táblahegyeken. Elszigetelt ökoszisztémával rendelkeznek.",
@@ -461,7 +461,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-aguanaro-life-v2",
     type: "park",
     name: { de: "Nationalpark Aguaro-Guariquito", hu: "Aguaro-Guariquito Nemzeti Park", ro: "Parcul Național Aguaro-Guariquito", en: "Aguaro-Guariquito National Park" },
-    coordinates: { lat: 8.1, lng: -66.5 },
+    coords: [-66.5, 8.1],
     description: {
       de: "Dieser Park in den zentralen Ebenen dient der Erhaltung von Savannen- und Sumpfgebieten. Er ist ein wichtiges Rückzugsgebiet für Wildtiere.",
       hu: "Ez a központi síkságokon fekvő park a szavannák és mocsarak megőrzését szolgálja. Fontos visszavonulási terület a vadállatok számára.",
@@ -480,7 +480,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-guatopo-life-v2",
     type: "park",
     name: { de: "Nationalpark Guatopo", hu: "Guatopo Nemzeti Park", ro: "Parcul Național Guatopo", en: "Guatopo National Park" },
-    coordinates: { lat: 10.1, lng: -66.4 },
+    coords: [-66.4, 10.1],
     description: {
       de: "Dieser Park liegt in einer bergigen Region und dient als zentrales Wasserreservat für den Großraum Caracas. Er besteht aus dichten Wäldern.",
       hu: "Ez a park egy hegyvidéki régióban fekszik, és központi víztározóként szolgál Caracas nagyvárosi térsége számára. Sűrű erdőkből áll.",
@@ -499,7 +499,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-san-esteban-life-v2",
     type: "park",
     name: { de: "Nationalpark San Esteban", hu: "San Esteban Nemzeti Park", ro: "Parcul Național San Esteban", en: "San Esteban National Park" },
-    coordinates: { lat: 10.45, lng: -68.0 },
+    coords: [-68.0, 10.45],
     description: {
       de: "Dieser Park erstreckt sich von der Küste bis ins Gebirge bei Valencia. Er schützt historische Pfade und vielfältige Waldökosysteme.",
       hu: "Ez a park a parttól a valenciai hegyekig terjed. Védi a történelmi ösvényeket és a változatos erdei ökoszisztémákat.",
@@ -518,7 +518,7 @@ export const venezuelaLifeV2: POI[] = [
     id: "venezuela-parque-nacional-capanaparo-life-v2",
     type: "wildlife",
     name: { de: "Nationalpark Capanaparo", hu: "Capanaparo Nemzeti Park", ro: "Parcul Național Capanaparo", en: "Capanaparo National Park" },
-    coordinates: { lat: 6.8, lng: -68.0 },
+    coords: [-68.0, 6.8],
     description: {
       de: "Dieses Reservat in der Llanos-Region bietet Schutz für vielfältige Flussbewohner und Savannentiere. Es umfasst große Wasserflächen.",
       hu: "Ez a Llanos-régióban található rezervátum védelmet nyújt a különféle folyami élőlényeknek és szavannaállatoknak. Nagy vízfelületeket foglal magában.",

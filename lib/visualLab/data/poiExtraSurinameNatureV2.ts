@@ -253,7 +253,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-kabalebo-river-nature-v2",
     type: "river",
     name: { de: "Kabalebo-Fluss", hu: "Kabalebo-folyó", ro: "Râul Kabalebo", en: "Kabalebo River" },
-    coordinates: { lat: 4.5833, lng: -57.5 },
+    coords: [-57.5, 4.5833],
     description: {
       de: "Der Kabalebo ist ein Nebenfluss des Corantijn im Westen Surinames. Er ist bekannt für seine zahlreichen Stromschnellen und unberührten Regenwaldgebiete.",
       hu: "A Kabalebo a Corantijn folyó mellékfolyója Suriname nyugati részén. Számos zuhatagjáról és érintetlen esőerdőiről ismert.",
@@ -272,7 +272,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-tapanahony-river-nature-v2",
     type: "river",
     name: { de: "Tapanahony-Fluss", hu: "Tapanahony-folyó", ro: "Râul Tapanahony", en: "Tapanahony River" },
-    coordinates: { lat: 3.55, lng: -54.7 },
+    coords: [-54.7, 3.55],
     description: {
       de: "Der Tapanahony ist ein bedeutender Fluss im Südosten Surinames. Er entspringt im Eilerts-de-Haan-Gebirge und mündet in den Marowijne.",
       hu: "A Tapanahony jelentős folyó Suriname délkeleti részén. Az Eilerts de Haan-hegységben ered és a Marowijne folyóba torkollik.",
@@ -291,7 +291,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-coppename-mundung-nature-v2",
     type: "river",
     name: { de: "Coppename-Mündung", hu: "Coppename-torkolat", ro: "Estuarul Coppename", en: "Coppename River Mouth" },
-    coordinates: { lat: 5.78, lng: -55.9 },
+    coords: [-55.9, 5.78],
     description: {
       de: "Die Mündung des Coppename in den Atlantischen Ozean bildet ein ausgedehntes Mangrovengebiet. Dieses Ökosystem ist für viele Vogelarten wichtig.",
       hu: "A Coppename folyó torkolata az Atlanti-óceánba kiterjedt mangrovevidéket alkot. Ez az ökoszisztéma számos madárfaj számára fontos.",
@@ -310,7 +310,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-van-stockum-berg-nature-v2",
     type: "mountain",
     name: { de: "Van Stockum-Berg", hu: "Van Stockum-hegy", ro: "Muntele Van Stockum", en: "Van Stockum Mountain" },
-    coordinates: { lat: 3.36, lng: -56.7 },
+    coords: [-56.7, 3.36],
     description: {
       de: "Der Van Stockum-Berg liegt im südlichen Teil Surinames. Er ist Teil der zentralen Gebirgszüge, die das Landesinnere durchziehen.",
       hu: "A Van Stockum-hegy Suriname déli részén található. A belső területeket átszelő központi hegyvonulatok része.",
@@ -329,7 +329,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-gran-rio-nature-v2",
     type: "river",
     name: { de: "Gran Rio", hu: "Gran Rio", ro: "Gran Rio", en: "Gran Rio" },
-    coordinates: { lat: 3.75, lng: -55.5 },
+    coords: [-55.5, 3.75],
     description: {
       de: "Der Gran Rio ist ein Hauptquellfluss des Suriname-Flusses. Er fließt durch das zentrale Hochland und trifft auf den Pikin Rio.",
       hu: "A Gran Rio a Suriname folyó fő forrásfolyója. A központi felföldön folyik keresztül, és találkozik a Pikin Rióval.",
@@ -348,7 +348,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-pikin-rio-nature-v2",
     type: "river",
     name: { de: "Pikin Rio", hu: "Pikin Rio", ro: "Pikin Rio", en: "Pikin Rio" },
-    coordinates: { lat: 3.75, lng: -55.5 },
+    coords: [-55.5, 3.75],
     description: {
       de: "Der Pikin Rio ist der zweite Hauptquellfluss des Suriname-Flusses. Er vereinigt sich beim Dorf Pokigron mit dem Gran Rio.",
       hu: "A Pikin Rio a Suriname folyó másik fő forrásfolyója. Pokigron falunál egyesül a Gran Rióval.",
@@ -367,7 +367,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-emma-kette-nature-v2",
     type: "mountain",
     name: { de: "Emma-Gebirgskette", hu: "Emma-hegység", ro: "Munții Emma", en: "Emma Range" },
-    coordinates: { lat: 3.7, lng: -56.3 },
+    coords: [-56.3, 3.7],
     description: {
       de: "Die Emma-Kette ist ein Gebirgszug im Zentrum von Suriname. Sie ist Teil des Wilhelminagebirges und dicht bewaldet.",
       hu: "Az Emma-hegység egy hegyvonulat Suriname központjában. A Wilhelmina-hegység része és sűrűn erdősült.",
@@ -386,7 +386,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-saramacca-fluss-nature-v2",
     type: "river",
     name: { de: "Saramacca-Fluss", hu: "Saramacca-folyó", ro: "Râul Saramacca", en: "Saramacca River" },
-    coordinates: { lat: 5.8, lng: -55.5 },
+    coords: [-55.5, 5.8],
     description: {
       de: "Der Saramacca ist ein Fluss im Norden Surinames, der in den Atlantik mündet. Sein Einzugsgebiet umfasst bedeutende Sumpfgebiete.",
       hu: "A Saramacca Suriname északi részén folyó folyó, amely az Atlanti-óceánba torkollik. Vízgyűjtő területe jelentős mocsárvidékeket foglal magában.",
@@ -405,7 +405,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-nickerie-fluss-nature-v2",
     type: "river",
     name: { de: "Nickerie-Fluss", hu: "Nickerie-folyó", ro: "Râul Nickerie", en: "Nickerie River" },
-    coordinates: { lat: 5.9, lng: -57.0 },
+    coords: [-57.0, 5.9],
     description: {
       de: "Der Nickerie-Fluss liegt im Nordwesten von Suriname. Er ist eine zentrale Wasserstraße für die dortige Agrarregion um Nieuw Nickerie.",
       hu: "A Nickerie folyó Suriname északnyugati részén található. Központi vízi út a Nieuw Nickerie körüli mezőgazdasági régió számára.",
@@ -424,7 +424,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-falawatra-wasserfall-nature-v2",
     type: "landmark",
     name: { de: "Falawatra-Wasserfall", hu: "Falawatra-vízesés", ro: "Cascada Falawatra", en: "Falawatra Waterfall" },
-    coordinates: { lat: 4.4, lng: -56.3 },
+    coords: [-56.3, 4.4],
     description: {
       de: "Der Falawatra-Wasserfall befindet sich in einem abgelegenen Waldgebiet in Zentralsuriname. Er ist ein natürliches Highlight der Region.",
       hu: "A Falawatra-vízesés Suriname középső részének egy távoli erdőterületén található. A régió természeti látványossága.",
@@ -443,7 +443,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-lucie-fluss-nature-v2",
     type: "river",
     name: { de: "Lucie-Fluss", hu: "Lucie-folyó", ro: "Râul Lucie", en: "Lucie River" },
-    coordinates: { lat: 3.6, lng: -57.5 },
+    coords: [-57.5, 3.6],
     description: {
       de: "Der Lucie-Fluss ist ein Nebenfluss des Corantijn im westlichen Landesinneren. Die Region ist bekannt für ihre unberührte Biodiversität.",
       hu: "A Lucie-folyó a Corantijn folyó mellékfolyója a nyugati belterületen. A régió az érintetlen biodiverzitásáról ismert.",
@@ -462,7 +462,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-awan-fluss-nature-v2",
     type: "river",
     name: { de: "Awan-Fluss", hu: "Awan-folyó", ro: "Râul Awan", en: "Awan River" },
-    coordinates: { lat: 3.7, lng: -57.7 },
+    coords: [-57.7, 3.7],
     description: {
       de: "Der Awan ist ein kleinerer Fluss im Westen von Suriname. Er schlängelt sich durch ein dichtes Waldgebiet in der Nähe der Grenze zu Guyana.",
       hu: "Az Awan egy kisebb folyó Suriname nyugati részén. Sűrű erdőterületen kanyarog a Guyana határának közelében.",
@@ -481,7 +481,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-sipaliwini-savanne-nature-v2",
     type: "park",
     name: { de: "Sipaliwini-Savanne", hu: "Sipaliwini-szavanna", ro: "Savana Sipaliwini", en: "Sipaliwini Savannah" },
-    coordinates: { lat: 2.2, lng: -56.0 },
+    coords: [-56.0, 2.2],
     description: {
       de: "Die Sipaliwini-Savanne ist ein riesiges Graslandgebiet im äußersten Süden Surinames. Sie unterscheidet sich stark vom umliegenden Regenwald.",
       hu: "A Sipaliwini-szavanna egy hatalmas füves terület Suriname legdélibb részén. Jelentősen eltér a környező esőerdőtől.",
@@ -500,7 +500,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-oranje-gebirge-nature-v2",
     type: "mountain",
     name: { de: "Oranje-Gebirge", hu: "Oranje-hegység", ro: "Munții Oranje", en: "Oranje Mountains" },
-    coordinates: { lat: 2.5, lng: -55.0 },
+    coords: [-55.0, 2.5],
     description: {
       de: "Das Oranje-Gebirge erstreckt sich entlang der südlichen Grenze Surinames. Es handelt sich um ein abgelegenes und wildes Berggebiet.",
       hu: "Az Oranje-hegység Suriname déli határa mentén húzódik. Egy távoli és vad hegyvidéki terület.",
@@ -519,7 +519,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-gonini-fluss-nature-v2",
     type: "river",
     name: { de: "Gonini-Fluss", hu: "Gonini-folyó", ro: "Râul Gonini", en: "Gonini River" },
-    coordinates: { lat: 3.8, lng: -54.5 },
+    coords: [-54.5, 3.8],
     description: {
       de: "Der Gonini ist ein Nebenfluss des Lawa im Osten von Suriname. Die Region ist geprägt von tropischer Vegetation und abgelegenen Siedlungen.",
       hu: "A Gonini a Lawa folyó mellékfolyója Suriname keleti részén. A régiót trópusi növényzet és távoli települések jellemzik.",
@@ -538,7 +538,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-marowijne-mündung-nature-v2",
     type: "river",
     name: { de: "Marowijne-Mündung", hu: "Marowijne-torkolat", ro: "Estuarul Marowijne", en: "Marowijne River Mouth" },
-    coordinates: { lat: 5.75, lng: -53.9 },
+    coords: [-53.9, 5.75],
     description: {
       de: "Die Mündung des Marowijne in den Atlantik markiert die Grenze zwischen Suriname und Französisch-Guayana. Sie umfasst große Inseln.",
       hu: "A Marowijne folyó Atlanti-óceáni torkolata Suriname és Francia Guyana határát jelzi. Nagy szigeteket foglal magában.",
@@ -557,7 +557,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-curuni-fluss-nature-v2",
     type: "river",
     name: { de: "Curuni-Fluss", hu: "Curuni-folyó", ro: "Râul Curuni", en: "Curuni River" },
-    coordinates: { lat: 3.7, lng: -58.0 },
+    coords: [-58.0, 3.7],
     description: {
       de: "Der Curuni-Fluss markiert teilweise die westliche Grenze Surinames zu Guyana. Er führt durch unberührte Regenwaldgebiete.",
       hu: "A Curuni-folyó részben Suriname és Guyana nyugati határát jelzi. Érintetlen esőerdőterületeken halad keresztül.",
@@ -576,7 +576,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-kabalebo-wasserfall-nature-v2",
     type: "landmark",
     name: { de: "Kabalebo-Wasserfall", hu: "Kabalebo-vízesés", ro: "Cascada Kabalebo", en: "Kabalebo Waterfall" },
-    coordinates: { lat: 4.6, lng: -57.4 },
+    coords: [-57.4, 4.6],
     description: {
       de: "Die Kabalebo-Wasserfälle sind Teil des Kabalebo-Flusssystems. Sie sind bekannt für ihre Schönheit inmitten der dichten Dschungellandschaft.",
       hu: "A Kabalebo-vízesések a Kabalebo folyórendszer részét képezik. Szépségükről ismertek a sűrű dzsungeltáj közepén.",
@@ -595,7 +595,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-coeroeni-fluss-nature-v2",
     type: "river",
     name: { de: "Coeroeni-Fluss", hu: "Coeroeni-folyó", ro: "Râul Coeroeni", en: "Coeroeni River" },
-    coordinates: { lat: 3.0, lng: -57.5 },
+    coords: [-57.5, 3.0],
     description: {
       de: "Der Coeroeni-Fluss fließt im Südwesten Surinames. Er speist das komplexe hydrologische System der westlichen Grenzregion.",
       hu: "A Coeroeni-folyó Suriname délnyugati részén folyik. A nyugati határvidék komplex hidrológiai rendszerét táplálja.",
@@ -614,7 +614,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-kaburi-fluss-nature-v2",
     type: "river",
     name: { de: "Kaburi-Fluss", hu: "Kaburi-folyó", ro: "Râul Kaburi", en: "Kaburi River" },
-    coordinates: { lat: 3.5, lng: -57.8 },
+    coords: [-57.8, 3.5],
     description: {
       de: "Der Kaburi ist ein kleiner Nebenfluss in West-Suriname. Er verläuft durch eine dünn besiedelte und weitgehend unberührte Region.",
       hu: "A Kaburi egy kisebb mellékfolyó Suriname nyugati részén. Ritkán lakott és nagyrészt érintetlen területen halad át.",
@@ -633,7 +633,7 @@ export const poiExtraSurinameNatureV2: POI[] = [
     id: "suriname-lawadom-nature-v2",
     type: "landmark",
     name: { de: "Lawa-Damm", hu: "Lawa-gát", ro: "Barajul Lawa", en: "Lawa Dam" },
-    coordinates: { lat: 3.2, lng: -54.0 },
+    coords: [-54.0, 3.2],
     description: {
       de: "Der Lawa-Damm ist eine natürliche oder teils geformte Barriere im Lawa-Flusssystem. Er ist von Bedeutung für den Wasserstand.",
       hu: "A Lawa-gát egy természetes vagy részben formált akadály a Lawa folyórendszerben. Fontos a vízszint szempontjából.",

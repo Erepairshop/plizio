@@ -1087,7 +1087,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-gibeon-meteorite-fountain-landmarks-v2",
     type: "monument",
     name: { de: "Gibeon-Meteoriten-Brunnen", hu: "Gibeon-meteorit-szökőkút", ro: "Fântâna Meteoritului Gibeon", en: "Gibeon Meteorite Fountain" },
-    coordinates: { lat: -22.5672, lng: 17.0841 },
+    coords: [17.0841, -22.5672],
     description: {
       de: "Einzigartige Installation in der Post Street Mall von Windhoek, die 33 Meteoriten aus dem Gibeon-Streufeld präsentiert.",
       hu: "Egyedülálló installáció Windhoek sétálóutcájában, amely 33 darab, Gibeon környékén talált vasmeteoritot mutat be.",
@@ -1106,7 +1106,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-supreme-court-landmarks-v2",
     type: "landmark",
     name: { de: "Oberster Gerichtshof von Namibia", hu: "Namíbiai Legfelsőbb Bíróság", ro: "Curtea Supremă a Namibiei", en: "Supreme Court of Namibia" },
-    coordinates: { lat: -22.5681, lng: 17.0872 },
+    coords: [17.0872, -22.5681],
     description: {
       de: "Das höchste Gerichtsgebäude des Landes beeindruckt durch seine postkoloniale Architektur und rote Ziegelfassade.",
       hu: "Az ország legmagasabb szintű bírósági épülete, amely posztkoloniális építészetével és vörös tégláival tűnik ki.",
@@ -1125,7 +1125,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-gathemann-house-landmarks-v2",
     type: "landmark",
     name: { de: "Gathemann-Haus", hu: "Gathemann-ház", ro: "Casa Gathemann", en: "Gathemann House" },
-    coordinates: { lat: -22.5683, lng: 17.0851 },
+    coords: [17.0851, -22.5683],
     description: {
       de: "Ein historisches Kolonialgebäude in der Independence Avenue, entworfen vom Architekten Wilhelm Sander.",
       hu: "Történelmi gyarmati épület az Independence Avenue-n, amelyet Wilhelm Sander építész tervezett.",
@@ -1144,7 +1144,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-state-house-landmarks-v2",
     type: "palace",
     name: { de: "Staatshaus von Namibia", hu: "Namíbiai Állami Ház", ro: "Casa de Stat a Namibiei", en: "State House of Namibia" },
-    coordinates: { lat: -22.5852, lng: 17.1014 },
+    coords: [17.1014, -22.5852],
     description: {
       de: "Der offizielle Amts- und Wohnsitz des namibischen Präsidenten, ein weitläufiger moderner Palastkomplex.",
       hu: "Namíbia elnökének hivatalos rezidenciája és munkahelye, egy hatalmas, modern palotakomplexum.",
@@ -1163,7 +1163,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-nagn-landmarks-v2",
     type: "museum",
     name: { de: "Nationalgalerie von Namibia", hu: "Namíbiai Nemzeti Művészeti Galéria", ro: "Galeria Națională de Artă a Namibiei", en: "National Art Gallery of Namibia" },
-    coordinates: { lat: -22.5621, lng: 17.0862 },
+    coords: [17.0862, -22.5621],
     description: {
       de: "Die wichtigste Kunstinstitution des Landes zur Förderung und Bewahrung des namibischen Kulturerbes.",
       hu: "Az ország legfontosabb művészeti intézménye, amely a namíbiai kulturális örökséget népszerűsíti.",
@@ -1182,7 +1182,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-owela-museum-landmarks-v2",
     type: "museum",
     name: { de: "Owela-Museum", hu: "Owela Múzeum", ro: "Muzeul Owela", en: "Owela Museum" },
-    coordinates: { lat: -22.5661, lng: 17.0883 },
+    coords: [17.0883, -22.5661],
     description: {
       de: "Zweigstelle des Nationalmuseums, die sich auf Naturkunde und die vielfältigen Kulturen Namibias konzentriert.",
       hu: "A Nemzeti Múzeum egyik részlege, amely a természetrajzra és Namíbia sokszínű kultúrájára összpontosít.",
@@ -1201,7 +1201,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-swakopmund-prison-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Gefängnis Swakopmund", hu: "Régi Börtön (Swakopmund)", ro: "Vechea Închisoare din Swakopmund", en: "Altes Gefängnis (Old Prison)" },
-    coordinates: { lat: -22.6782, lng: 14.5303 },
+    coords: [14.5303, -22.6782],
     description: {
       de: "Ein auffälliges historisches Gebäude im Kolonialstil, das aufgrund seiner Architektur oft mit einem Schloss verwechselt wird.",
       hu: "Feltűnő gyarmati stílusú épület, amelyet építészeti megoldásai miatt gyakran kastélynak néznek.",
@@ -1220,7 +1220,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-otavi-railway-station-landmarks-v2",
     type: "landmark",
     name: { de: "Otavi-Bahnhof", hu: "Otavi vasútállomás", ro: "Gara Otavi", en: "Otavi Railway Station" },
-    coordinates: { lat: -22.6771, lng: 14.5301 },
+    coords: [14.5301, -22.6771],
     description: {
       de: "Der historische Endpunkt der Schmalspurbahn von Tsumeb, ein bedeutendes Zeugnis der Eisenbahngeschichte.",
       hu: "A Tsumebből induló keskeny nyomtávú vasútvonal történelmi végállomása, fontos vasúttörténeti emlék.",
@@ -1239,7 +1239,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-prinzessin-rupprecht-heim-landmarks-v2",
     type: "landmark",
     name: { de: "Prinzessin-Rupprecht-Heim", hu: "Rupprecht hercegnő otthon", ro: "Casa Principesa Rupprecht", en: "Prinzessin-Rupprecht-Heim" },
-    coordinates: { lat: -22.6841, lng: 14.5272 },
+    coords: [14.5272, -22.6841],
     description: {
       de: "Ehemaliges Lazarett und Erholungsheim in Swakopmund, das heute als Gästehaus und historisches Denkmal dient.",
       hu: "Egykori kórház és üdülő Swakopmundban, amely ma vendégházként és történelmi műemlékként működik.",
@@ -1258,7 +1258,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-hansa-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Hansa Hotel Gebäude", hu: "Hansa Hotel épülete", ro: "Clădirea Hotelului Hansa", en: "Hansa Hotel Building" },
-    coordinates: { lat: -22.6784, lng: 14.5261 },
+    coords: [14.5261, -22.6784],
     description: {
       de: "Das älteste Hotel Namibias, ein architektonisches Juwel im Zentrum von Swakopmund mit klassischer Eleganz.",
       hu: "Namíbia legrégebbi szállodája, építészeti ékszer Swakopmund központjában, klasszikus eleganciával.",
@@ -1277,7 +1277,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-deutsche-afrika-bank-landmarks-v2",
     type: "landmark",
     name: { de: "Deutsche Afrika Bank Gebäude", hu: "Német Afrika Bank épülete", ro: "Clădirea Deutsche Afrika Bank", en: "Deutsche Afrika Bank Building" },
-    coordinates: { lat: -26.6474, lng: 15.1552 },
+    coords: [15.1552, -26.6474],
     description: {
       de: "Ein prächtiges Gebäude der Neorenaissance in Lüderitz, das den wirtschaftlichen Aufschwung der Diamantenzeit zeigt.",
       hu: "Pompás neoreneszánsz épület Lüderitzben, amely a gyémántláz korszakának gazdasági fellendülését tükrözi.",
@@ -1296,7 +1296,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-krabbenhoeft-lampe-building-landmarks-v2",
     type: "landmark",
     name: { de: "Krabbenhöft & Lampe Gebäude", hu: "Krabbenhöft & Lampe épület", ro: "Clădirea Krabbenhöft & Lampe", en: "Krabbenhöft & Lampe Building" },
-    coordinates: { lat: -26.6482, lng: 15.1554 },
+    coords: [15.1554, -26.6482],
     description: {
       de: "Ein geschütztes Baudenkmal in Lüderitz, das einst als Handelshaus und Lager für Waren aus Übersee diente.",
       hu: "Műemlékileg védett épület Lüderitzben, amely egykor kereskedőházként és tengerentúli áruk raktáraként szolgált.",
@@ -1315,7 +1315,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-lesehalle-luderitz-landmarks-v2",
     type: "landmark",
     name: { de: "Lesehalle Lüderitz", hu: "Lüderitzi Lesehalle", ro: "Lesehalle Lüderitz", en: "Lesehalle Lüderitz" },
-    coordinates: { lat: -26.6471, lng: 15.1573 },
+    coords: [15.1573, -26.6471],
     description: {
       de: "Eine historische Bibliothek und Lesehalle in Lüderitz, bekannt für ihre charakteristische Architektur.",
       hu: "Történelmi könyvtár és olvasóterem Lüderitzben, amely jellegzetes építészetéről ismert.",
@@ -1334,7 +1334,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-naulila-monument-outjo-landmarks-v2",
     type: "monument",
     name: { de: "Naulila-Denkmal Outjo", hu: "Naulila-emlékmű (Outjo)", ro: "Monumentul Naulila din Outjo", en: "Naulila Monument (Outjo)" },
-    coordinates: { lat: -20.1081, lng: 16.1543 },
+    coords: [16.1543, -20.1081],
     description: {
       de: "Ein historisches Denkmal in Outjo, das an die Schlacht von Naulila während des Ersten Weltkriegs erinnert.",
       hu: "Történelmi emlékmű Outjóban, amely az első világháború alatti naulilai csatára emlékeztet.",
@@ -1353,7 +1353,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-schmelenhaus-bethanie-landmarks-v2",
     type: "landmark",
     name: { de: "Schmelenhaus", hu: "Schmelen-ház", ro: "Casa Schmelen", en: "Schmelenhaus" },
-    coordinates: { lat: -26.5021, lng: 17.1542 },
+    coords: [17.1542, -26.5021],
     description: {
       de: "Das älteste von Europäern errichtete Gebäude in Namibia, erbaut vom Missionar Heinrich Schmelen in Bethanien.",
       hu: "Namíbia legrégebbi európaiak által emelt épülete, amelyet Heinrich Schmelen misszionárius épített Bethanie-ban.",
@@ -1372,7 +1372,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-rhenish-mission-house-omaruru-landmarks-v2",
     type: "landmark",
     name: { de: "Rheinische Missionshaus Omaruru", hu: "Rajnai Missziós Ház (Omaruru)", ro: "Casa Misiunii Rhenane din Omaruru", en: "Rhenish Mission House (Omaruru)" },
-    coordinates: { lat: -21.4182, lng: 15.9554 },
+    coords: [15.9554, -21.4182],
     description: {
       de: "Ein historisches Missionshaus in Omaruru, das als eines der ältesten Gebäude der Stadt gilt und die lokale Geschichte prägte.",
       hu: "Történelmi missziós ház Omaruruban, a város egyik legrégebbi épülete, amely meghatározta a helyi történelmet.",
@@ -1391,7 +1391,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-roesemannhaus-karibib-landmarks-v2",
     type: "landmark",
     name: { de: "Roesemannhaus", hu: "Roesemann-ház", ro: "Casa Roesemann", en: "Roesemannhaus" },
-    coordinates: { lat: -21.9392, lng: 15.8563 },
+    coords: [15.8563, -21.9392],
     description: {
       de: "Ein markantes historisches Gebäude in Karibib, das die wirtschaftliche Bedeutung des Ortes zur Kolonialzeit widerspiegelt.",
       hu: "Jellegzetes történelmi épület Karibibben, amely a település gyarmati kori gazdasági jelentőségét tükrözi.",
@@ -1410,7 +1410,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "namibia-swakopmund-high-court-landmarks-v2",
     type: "landmark",
     name: { de: "Kaiserliches Bezirksgericht Swakopmund", hu: "Császári Járásbíróság (Swakopmund)", ro: "Tribunalul Districtual Imperial din Swakopmund", en: "Kaiserliches Bezirksgericht (High Court)" },
-    coordinates: { lat: -22.6791, lng: 14.5244 },
+    coords: [14.5244, -22.6791],
     description: {
       de: "Ein imposantes ehemaliges Gerichtsgebäude in Swakopmund, das heute als Sommerresidenz des Präsidenten dient.",
       hu: "Impozáns egykori bírósági épület Swakopmundban, amely ma az elnök nyári rezidenciája.",

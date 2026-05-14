@@ -5,7 +5,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-yaren-cities-v2",
     type: "capital",
     name: { de: "Yaren", hu: "Yaren", ro: "Yaren", en: "Yaren" },
-    coordinates: { lat: -0.5467, lng: 166.9167 },
+    coords: [166.9167, -0.5467],
     description: {
       de: "Yaren ist der wichtigste Verwaltungsbezirk von Nauru und dient als de facto Hauptstadt. Hier befinden sich das Parlament und der internationale Flughafen.",
       hu: "Yaren Nauru fő közigazgatási körzete és de facto fővárosa. Itt található az ország parlamentje és a nemzetközi repülőtér is.",
@@ -24,7 +24,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-aiwo-cities-v2",
     type: "city",
     name: { de: "Aiwo", hu: "Aiwo", ro: "Aiwo", en: "Aiwo" },
-    coordinates: { lat: -0.5333, lng: 166.9167 },
+    coords: [166.9167, -0.5333],
     description: {
       de: "Aiwo gilt als das wichtigste Handelszentrum von Nauru. Der Bezirk beherbergt den Haupthafen der Insel und große Anlagen zur Phosphatverarbeitung.",
       hu: "Aiwo Nauru legfontosabb kereskedelmi központja. A körzetben található a sziget fő kikötője és a jelentős foszfátfeldolgozó létesítmények.",
@@ -43,7 +43,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-boe-cities-v2",
     type: "village",
     name: { de: "Boe", hu: "Boe", ro: "Boe", en: "Boe" },
-    coordinates: { lat: -0.5417, lng: 166.9167 },
+    coords: [166.9167, -0.5417],
     description: {
       de: "Boe ist ein kleiner, aber dicht besiedelter Verwaltungsbezirk im Südwesten von Nauru. Er grenzt direkt an den internationalen Flughafen der Insel.",
       hu: "Boe egy kicsi, de sűrűn lakott közigazgatási körzet Nauru délnyugati részén. Közvetlenül határos a sziget nemzetközi repülőterével.",
@@ -62,7 +62,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-denigomodu-cities-v2",
     type: "city",
     name: { de: "Denigomodu", hu: "Denigomodu", ro: "Denigomodu", en: "Denigomodu" },
-    coordinates: { lat: -0.525, lng: 166.912 },
+    coords: [166.912, -0.525],
     description: {
       de: "Denigomodu ist der bevölkerungsreichste Bezirk von Nauru. Er beherbergt Wohnanlagen für Bergbauarbeiter sowie das staatliche Krankenhaus der Insel.",
       hu: "Denigomodu Nauru legnépesebb körzete. Itt találhatóak a bányamunkások lakónegyedei és a sziget állami kórháza is.",
@@ -81,7 +81,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-meneng-cities-v2",
     type: "city",
     name: { de: "Meneng", hu: "Meneng", ro: "Meneng", en: "Meneng" },
-    coordinates: { lat: -0.548, lng: 166.938 },
+    coords: [166.938, -0.548],
     description: {
       de: "Meneng ist ein weitläufiger Bezirk im Südosten von Nauru. Er beherbergt bedeutende Regierungsgebäude, das Meneng-Stadion und das ehemalige Meneng Hotel.",
       hu: "Meneng egy kiterjedt körzet Nauru délkeleti részén. Jelentős kormányzati épületeknek, a Meneng Stadionnak és a korábbi Meneng Hotelnek ad otthont.",
@@ -100,7 +100,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-anibare-cities-v2",
     type: "village",
     name: { de: "Anibare", hu: "Anibare", ro: "Anibare", en: "Anibare" },
-    coordinates: { lat: -0.535, lng: 166.953 },
+    coords: [166.953, -0.535],
     description: {
       de: "Anibare ist vor allem für die gleichnamige Bucht bekannt, die den besten Badestrand der Insel bietet. Der Bezirk verfügt über einen kleinen Hafen.",
       hu: "Anibare leginkább az azonos nevű öbölről ismert, amely a sziget legjobb strandját kínálja. A körzetben egy kis kikötő is található.",
@@ -119,7 +119,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-buada-cities-v2",
     type: "village",
     name: { de: "Buada", hu: "Buada", ro: "Buada", en: "Buada" },
-    coordinates: { lat: -0.533, lng: 166.925 },
+    coords: [166.925, -0.533],
     description: {
       de: "Buada ist der einzige Binnenbezirk von Nauru. Er umschließt die Buada-Lagune, eine malerische Brackwasser-Oase im Zentrum der Insel.",
       hu: "Buada Nauru egyetlen belső, tengerparttal nem rendelkező körzete. A Buada-lagúnát öleli körül, amely egy festői brakkvizű oázis a sziget közepén.",
@@ -138,7 +138,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-nibok-cities-v2",
     type: "village",
     name: { de: "Nibok", hu: "Nibok", ro: "Nibok", en: "Nibok" },
-    coordinates: { lat: -0.521, lng: 166.918 },
+    coords: [166.918, -0.521],
     description: {
       de: "Nibok ist ein Bezirk an der Westküste von Nauru. Er ist stark von der Geschichte des Phosphatbergbaus geprägt und liegt im hügeligen Teil der Insel.",
       hu: "Nibok egy körzet Nauru nyugati partján. Erősen meghatározza a foszfátbányászat történelme, és a sziget dombos részén fekszik.",
@@ -157,7 +157,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-uaboe-cities-v2",
     type: "village",
     name: { de: "Uaboe", hu: "Uaboe", ro: "Uaboe", en: "Uaboe" },
-    coordinates: { lat: -0.515, lng: 166.922 },
+    coords: [166.922, -0.515],
     description: {
       de: "Uaboe ist ein kleiner Küstenbezirk im Nordwesten von Nauru. Er gehört zu den flächenmäßig kleineren Verwaltungseinheiten der Insel.",
       hu: "Uaboe egy kis tengerparti körzet Nauru északnyugati részén. A sziget területileg kisebb közigazgatási egységei közé tartozik.",
@@ -176,7 +176,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-baitsi-cities-v2",
     type: "village",
     name: { de: "Baitsi", hu: "Baitsi", ro: "Baitsi", en: "Baitsi" },
-    coordinates: { lat: -0.509, lng: 166.927 },
+    coords: [166.927, -0.509],
     description: {
       de: "Baitsi liegt im Norden von Nauru und erstreckt sich von der Küste bis in das hügelige Landesinnere. Der Bezirk hat eine starke landwirtschaftliche Tradition.",
       hu: "Baitsi Nauru északi részén található, a parttól a dombos belső területekig nyúlik el. A körzet erős mezőgazdasági hagyományokkal rendelkezik.",
@@ -195,7 +195,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-ewa-cities-v2",
     type: "village",
     name: { de: "Ewa", hu: "Ewa", ro: "Ewa", en: "Ewa" },
-    coordinates: { lat: -0.502, lng: 166.936 },
+    coords: [166.936, -0.502],
     description: {
       de: "Ewa ist der nördlichste Punkt von Nauru. Der Bezirk beherbergt das wichtigste Einkaufszentrum der Insel sowie bedeutende religiöse Stätten.",
       hu: "Ewa Nauru legészakibb pontja. A körzetben található a sziget legfontosabb bevásárlóközpontja és több jelentős vallási helyszín is.",
@@ -214,7 +214,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-anetan-cities-v2",
     type: "village",
     name: { de: "Anetan", hu: "Anetan", ro: "Anetan", en: "Anetan" },
-    coordinates: { lat: -0.504, lng: 166.944 },
+    coords: [166.944, -0.504],
     description: {
       de: "Anetan ist ein Bezirk an der Nordküste von Nauru. Er ist bekannt für seine Bildungseinrichtungen und die Nähe zu den nördlichen Korallenstränden.",
       hu: "Anetan egy körzet Nauru északi partján. Oktatási intézményeiről és az északi korallos strandok közelségéről ismert.",
@@ -233,7 +233,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-anabar-cities-v2",
     type: "village",
     name: { de: "Anabar", hu: "Anabar", ro: "Anabar", en: "Anabar" },
-    coordinates: { lat: -0.508, lng: 166.953 },
+    coords: [166.953, -0.508],
     description: {
       de: "Anabar liegt im Nordosten von Nauru und zeichnet sich durch seine zerklüftete Felsküste aus. Der Bezirk ist dünn besiedelt und bietet weite Ausblicke auf den Pazifik.",
       hu: "Anabar Nauru északkeleti részén fekszik, és tagolt, sziklás partvidék jellemzi. A körzet ritkán lakott, és széles kilátást nyújt a Csendes-óceánra.",
@@ -252,7 +252,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-ijuw-cities-v2",
     type: "village",
     name: { de: "Ijuw", hu: "Ijuw", ro: "Ijuw", en: "Ijuw" },
-    coordinates: { lat: -0.52, lng: 166.959 },
+    coords: [166.959, -0.52],
     description: {
       de: "Ijuw ist der östlichste Bezirk von Nauru. Er ist bekannt für das Cape Ijuw und markiert den Punkt, an dem die Sonne auf der Insel zuerst aufgeht.",
       hu: "Ijuw Nauru legkeletibb körzete. Az Ijuw-fokról ismert, és ez az a pont, ahol a szigeten legelőször kél fel a nap.",
@@ -271,7 +271,7 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-arenibek-cities-v2",
     type: "village",
     name: { de: "Arenibek", hu: "Arenibek", ro: "Arenibek", en: "Arenibek" },
-    coordinates: { lat: -0.5085, lng: 166.9525 },
+    coords: [166.9525, -0.5085],
     description: {
       de: "Arenibek ist eine kleine Küstensiedlung im Bezirk Anabar. Das Dorf liegt in einer ruhigen Gegend, die von traditionellen Wohnhäusern und Palmen geprägt ist.",
       hu: "Arenibek egy kis tengerparti település Anabar körzetben. A falu egy csendes területen fekszik, amelyet hagyományos lakóházak és pálmák jellemeznek.",

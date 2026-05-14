@@ -646,7 +646,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-national-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Nationaltheater von Bahrain", hu: "Bahreini Nemzeti Színház", ro: "Teatrul Național din Bahrain", en: "National Theatre of Bahrain" },
-    coordinates: { lat: 26.2431, lng: 50.5986 },
+    coords: [50.5986, 26.2431],
     description: {
       de: "Dieses Nationaltheater liegt direkt am Meer in Manama. Die Architektur erinnert an traditionelle arabische Segelschiffe.",
       hu: "A nemzeti színház Manama partján fekszik. Építészete a hagyományos arab vitorlás hajókat idézi fel.",
@@ -677,7 +677,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-national-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalstadion von Bahrain", hu: "Bahreini Nemzeti Stadion", ro: "Stadionul Național din Bahrain", en: "Bahrain National Stadium" },
-    coordinates: { lat: 26.1558, lng: 50.5436 },
+    coords: [50.5436, 26.1558],
     description: {
       de: "Das Stadion in Riffa ist die größte Sportstätte des Landes. Es dient primär als Heimspielstätte der Fußballnationalmannschaft.",
       hu: "A Riffa városában található stadion az ország legnagyobbja. Elsősorban a válogatott otthonaként szolgál.",
@@ -708,7 +708,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-post-office-museum-landmarks-v2",
     type: "museum",
     name: { de: "Postmuseum von Bahrain", hu: "Bahreini Postamúzeum", ro: "Muzeul Poștei din Bahrain", en: "Bahrain Post Office Museum" },
-    coordinates: { lat: 26.2361, lng: 50.5769 },
+    coords: [50.5769, 26.2361],
     description: {
       de: "Das Postmuseum befindet sich im historischen Manama Postamt. Es zeigt die Geschichte des Postwesens seit dem 19. Jahrhundert.",
       hu: "A postamúzeum a történelmi manamai postahivatalban van. A postai szolgáltatások történetét mutatja be.",
@@ -739,7 +739,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-currency-museum-landmarks-v2",
     type: "museum",
     name: { de: "Währungsmuseum von Bahrain", hu: "Bahreini Pénzmúzeum", ro: "Muzeul Monedei din Bahrain", en: "Currency Museum of Bahrain" },
-    coordinates: { lat: 26.2386, lng: 50.5894 },
+    coords: [50.5894, 26.2386],
     description: {
       de: "Das Währungsmuseum befindet sich in der Zentralbank von Bahrain. Es präsentiert Münzen und Scheine aus verschiedenen Epochen.",
       hu: "A pénzmúzeum a Bahreini Központi Bank épületében található. Különböző korok érméit és bankjegyeit mutatja be.",
@@ -770,7 +770,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-oil-museum-landmarks-v2",
     type: "museum",
     name: { de: "Ölmuseum von Bahrain", hu: "Bahreini Olajmúzeum", ro: "Muzeul Petrolului din Bahrain", en: "BAPCO Oil Museum" },
-    coordinates: { lat: 26.0469, lng: 50.5519 },
+    coords: [50.5519, 26.0469],
     description: {
       de: "Das Ölmuseum liegt nahe der ersten Ölquelle des Landes. Es dokumentiert die Entdeckung des schwarzen Goldes im Jahr 1932.",
       hu: "Az olajmúzeum az ország első olajkútja mellett található. A fekete arany 1932-es felfedezését dokumentálja.",
@@ -801,7 +801,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-shaikh-ebrahim-center-landmarks-v2",
     type: "landmark",
     name: { de: "Shaikh Ebrahim Center", hu: "Shaikh Ebrahim Központ", ro: "Centrul Shaikh Ebrahim", en: "Shaikh Ebrahim Center" },
-    coordinates: { lat: 26.2517, lng: 50.6117 },
+    coords: [50.6117, 26.2517],
     description: {
       de: "Dieses Kulturzentrum in Muharraq ist ein Forum für Literatur und Forschung. Es wurde in einem restaurierten traditionellen Haus eröffnet.",
       hu: "Ez a muharraqi kulturális központ az irodalom és a kutatás fóruma. Egy restaurált hagyományos házban nyílt meg.",
@@ -832,7 +832,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-rashid-al-oraifi-museum-landmarks-v2",
     type: "museum",
     name: { de: "Rashid Al Oraifi Museum", hu: "Rashid Al Oraifi Múzeum", ro: "Muzeul Rashid Al Oraifi", en: "Rashid Al Oraifi Museum" },
-    coordinates: { lat: 26.2486, lng: 50.6153 },
+    coords: [50.6153, 26.2486],
     description: {
       de: "Das Museum ist dem Werk des bahrainischen Künstlers Rashid Al Oraifi gewidmet. Seine Kunst ist stark von der Dilmun-Kultur inspiriert.",
       hu: "A múzeum Rashid Al Oraifi bahreini művész munkásságának van szentelve. Művészetét a dilmun kultúra ihlette.",
@@ -863,7 +863,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-abdullah-al-zayed-house-landmarks-v2",
     type: "museum",
     name: { de: "Abdullah Al Zayed Haus", hu: "Abdullah Al Zayed Ház", ro: "Casa Abdullah Al Zayed", en: "Abdullah Al Zayed House" },
-    coordinates: { lat: 26.2514, lng: 50.6122 },
+    coords: [50.6122, 26.2514],
     description: {
       de: "Dies ist das ehemalige Wohnhaus des Gründers der ersten Zeitung Bahrains. Es dient heute als Presse-Kulturerbe-Zentrum.",
       hu: "Ez Bahrein első újságja alapítójának egykori lakóháza. Ma sajtótörténeti kulturális központként működik.",
@@ -894,7 +894,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-nuzul-al-salam-landmarks-v2",
     type: "landmark",
     name: { de: "Nuzul Al Salam", hu: "Nuzul Al Salam", ro: "Nuzul Al Salam", en: "Nuzul Al Salam" },
-    coordinates: { lat: 26.2497, lng: 50.6106 },
+    coords: [50.6106, 26.2497],
     description: {
       de: "Nuzul Al Salam ist ein wunderschön restauriertes Gästehaus in Muharraq. Es ist Teil des Pearling Path Kulturprojekts.",
       hu: "A Nuzul Al Salam egy gyönyörűen restaurált vendégház Muharraqban. A Gyöngyút kulturális projekt része.",
@@ -925,7 +925,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-khalifa-bin-salman-causeway-landmarks-v2",
     type: "bridge",
     name: { de: "Khalifa Bin Salman Damm", hu: "Khalifa Bin Salman Híd", ro: "Podul Khalifa Bin Salman", en: "Khalifa Bin Salman Causeway" },
-    coordinates: { lat: 26.2167, lng: 50.65 },
+    coords: [50.65, 26.2167],
     description: {
       de: "Dieser Damm verbindet die Insel Manama mit dem Industriegebiet von Hidd. Er ist eine wichtige Verkehrsader des Inselstaates.",
       hu: "Ez a híd köti össze Manama szigetét Hidd ipari negyedével. Az ország egyik legfontosabb közlekedési útvonala.",
@@ -956,7 +956,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-sheikh-isa-bin-salman-causeway-landmarks-v2",
     type: "bridge",
     name: { de: "Sheikh Isa Bin Salman Damm", hu: "Sheikh Isa Bin Salman Híd", ro: "Podul Sheikh Isa Bin Salman", en: "Sheikh Isa Bin Salman Causeway" },
-    coordinates: { lat: 26.2528, lng: 50.5833 },
+    coords: [50.5833, 26.2528],
     description: {
       de: "Diese Brücke verbindet Manama mit der Insel Muharraq. Sie ist nach dem ehemaligen Emir von Bahrain benannt.",
       hu: "Ez a híd köti össze Manamát Muharraq szigetével. Bahrein korábbi emírjéről nevezték el.",
@@ -987,7 +987,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-sitra-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Sitra Brücke", hu: "Sitra Híd", ro: "Podul Sitra", en: "Sitra Bridge" },
-    coordinates: { lat: 26.195, lng: 50.61 },
+    coords: [50.61, 26.195],
     description: {
       de: "Die Sitra Brücke verbindet die Insel Sitra mit dem Hauptland. Sie wurde vor einigen Jahren durch einen modernen Neubau ersetzt.",
       hu: "A Sitra híd köti össze Sitra szigetét a főszigettel. Néhány éve egy modern új építménnyel váltották fel.",
@@ -1018,7 +1018,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-aali-pottery-village-landmarks-v2",
     type: "landmark",
     name: { de: "Töpferdorf A'ali", hu: "A'ali Fazekasfalu", ro: "Satul de Olărit A'ali", en: "A'ali Pottery Village" },
-    coordinates: { lat: 26.1542, lng: 50.5256 },
+    coords: [50.5256, 26.1542],
     description: {
       de: "A'ali ist bekannt für seine jahrtausendealte Töpfertradition. Besucher können Handwerkern bei der Arbeit zusehen.",
       hu: "A'ali évezredes fazekas hagyományairól ismert. A látogatók munka közben figyelhetik meg a mestereket.",
@@ -1049,7 +1049,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-avenues-mall-landmarks-v2",
     type: "landmark",
     name: { de: "The Avenues Bahrain", hu: "The Avenues Bahrain", ro: "The Avenues Bahrain", en: "The Avenues Bahrain" },
-    coordinates: { lat: 26.2447, lng: 50.5819 },
+    coords: [50.5819, 26.2447],
     description: {
       de: "The Avenues ist ein großes Einkaufszentrum am Wasser in Manama. Es besticht durch seine Glasarchitektur und Uferpromenade.",
       hu: "The Avenues egy nagy vízparti bevásárlóközpont Manamában. Üvegépítészetéről és parti sétányáról híres.",
@@ -1080,7 +1080,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-lost-paradise-dilmun-landmarks-v2",
     type: "park",
     name: { de: "Lost Paradise of Dilmun", hu: "Lost Paradise of Dilmun", ro: "Lost Paradise of Dilmun", en: "Lost Paradise of Dilmun" },
-    coordinates: { lat: 25.9861, lng: 50.5139 },
+    coords: [50.5139, 25.9861],
     description: {
       de: "Dieser Wasserpark ist thematisch an die antike Dilmun-Zivilisation angelehnt. Er ist der größte seiner Art in Bahrain.",
       hu: "Ez a vízipark az ősi dilmun civilizáció tematikájára épült. Bahrein legnagyobb ilyen jellegű létesítménye.",
@@ -1111,7 +1111,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-science-centre-landmarks-v2",
     type: "museum",
     name: { de: "Wissenschaftszentrum Bahrain", hu: "Bahreini Tudományos Központ", ro: "Centrul de Științe din Bahrain", en: "Bahrain Science Centre" },
-    coordinates: { lat: 26.1733, lng: 50.5486 },
+    coords: [50.5486, 26.1733],
     description: {
       de: "Das Wissenschaftszentrum in Isa Town fördert interaktives Lernen für Kinder. Es bietet Ausstellungen zu Natur und Technik.",
       hu: "Az Isa Town-ban lévő tudományos központ interaktív tanulást kínál gyerekeknek. Természeti és műszaki kiállításai vannak.",
@@ -1142,7 +1142,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-al-bareh-gallery-landmarks-v2",
     type: "landmark",
     name: { de: "Al Bareh Kunstgalerie", hu: "Al Bareh Galéria", ro: "Galeria Al Bareh", en: "Al Bareh Art Gallery" },
-    coordinates: { lat: 26.2206, lng: 50.5461 },
+    coords: [50.5461, 26.2206],
     description: {
       de: "Al Bareh ist eine renommierte Galerie für zeitgenössische Kunst in Adliya. Sie präsentiert Werke regionaler und internationaler Künstler.",
       hu: "Az Al Bareh egy neves kortárs művészeti galéria Adliyában. Regionális és nemzetközi művészek munkáit mutatja be.",
@@ -1173,7 +1173,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-vertical-garden-muharraq-landmarks-v2",
     type: "landmark",
     name: { de: "Vertikaler Garten Muharraq", hu: "Muharraqi Vertikális Kert", ro: "Grădina Verticală din Muharraq", en: "Vertical Garden Muharraq" },
-    coordinates: { lat: 26.2489, lng: 50.6103 },
+    coords: [50.6103, 26.2489],
     description: {
       de: "Dieser vertikale Garten wurde vom Botaniker Patrick Blanc entworfen. Er ist eine grüne Oase an einer historischen Mauer in Muharraq.",
       hu: "Ezt a vertikális kertet Patrick Blanc botanikus tervezte. Zöld oázis Muharraq egyik történelmi falán.",
@@ -1204,7 +1204,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-pearling-path-visitor-centre-landmarks-v2",
     type: "museum",
     name: { de: "Besucherzentrum Perlenpfad", hu: "Gyöngyút Látogatóközpont", ro: "Centrul de Vizitare Pearling Path", en: "Pearling Path Visitor Centre" },
-    coordinates: { lat: 26.2417, lng: 50.6133 },
+    coords: [50.6133, 26.2417],
     description: {
       de: "Dieses moderne Besucherzentrum liegt im Herzen von Muharraq. Es erklärt die Bedeutung der Perlenfischerei für Bahrain.",
       hu: "Ez a modern látogatóközpont Muharraq szívében található. A gyöngyhalászat bahreini jelentőségét mutatja be.",
@@ -1235,7 +1235,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-four-seasons-bay-landmarks-v2",
     type: "landmark",
     name: { de: "Four Seasons Bahrain Bay", hu: "Four Seasons Bahrain Bay", ro: "Four Seasons Bahrain Bay", en: "Four Seasons Hotel Bahrain Bay" },
-    coordinates: { lat: 26.2494, lng: 50.5744 },
+    coords: [50.5744, 26.2494],
     description: {
       de: "Dieses markante Hotelgebäude steht auf einer eigenen Insel in der Bahrain Bay. Die H-Form macht es zu einem Wahrzeichen der Skyline.",
       hu: "Ez a jellegzetes hotelépület saját szigetén áll a Bahrain Bay-ben. H-alakú formája a sziluett meghatározó eleme.",
@@ -1266,7 +1266,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-pearl-diving-museum-landmarks-v2",
     type: "museum",
     name: { de: "Perlentaucher-Museum", hu: "Gyöngybúvár Múzeum", ro: "Muzeul Scufundărilor de Perle", en: "Museum of Pearl Diving" },
-    coordinates: { lat: 26.2375, lng: 50.5786 },
+    coords: [50.5786, 26.2375],
     description: {
       de: "Das Museum ist in einem historischen Justizgebäude in Manama untergebracht. Es zeigt die harte Arbeit der Perlentaucher.",
       hu: "A múzeum egy történelmi igazságügyi épületben van Manamában. A gyöngybúvárok kemény munkáját mutatja be.",
@@ -1297,7 +1297,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     id: "bahrain-al-fadel-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Fadel Moschee", hu: "Al-Fadel Mecset", ro: "Moscheea Al-Fadel", en: "Al-Fadel Mosque" },
-    coordinates: { lat: 26.2367, lng: 50.5794 },
+    coords: [50.5794, 26.2367],
     description: {
       de: "Die Al-Fadel Moschee in Manama ist bekannt für ihr einzigartiges Minarett. Die Architektur zeigt traditionelle bahrainische Motive.",
       hu: "A manamai Al-Fadel mecset egyedülálló minaretjéről híres. Építészete hagyományos bahreini motívumokat mutat.",

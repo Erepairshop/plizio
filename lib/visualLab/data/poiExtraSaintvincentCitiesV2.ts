@@ -5,7 +5,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-kingstown-cities-v2",
     type: "capital",
     name: { de: "Kingstown", hu: "Kingstown", ro: "Kingstown", en: "Kingstown" },
-    coordinates: { lat: 13.1583, lng: -61.2267 },
+    coords: [-61.2267, 13.1583],
     description: {
       de: "Kingstown ist die Hauptstadt und der Haupthafen von St. Vincent. Die Stadt ist das wirtschaftliche Zentrum des Inselstaates.",
       hu: "Kingstown Saint Vincent és a Grenadine-szigetek fővárosa és legfontosabb kikötője, az ország gazdasági központja.",
@@ -24,7 +24,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-barrouallie-cities-v2",
     type: "town",
     name: { de: "Barrouallie", hu: "Barrouallie", ro: "Barrouallie", en: "Barrouallie" },
-    coordinates: { lat: 13.2358, lng: -61.2725 },
+    coords: [-61.2725, 13.2358],
     description: {
       de: "Barrouallie ist eine Küstenstadt an der Westküste von St. Vincent. Die Stadt ist bekannt für ihre lange Walfangtradition.",
       hu: "Barrouallie egy partmenti város Saint Vincent nyugati oldalán. A település híres a hagyományos bálnavadászatáról.",
@@ -43,7 +43,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-layou-cities-v2",
     type: "town",
     name: { de: "Layou", hu: "Layou", ro: "Layou", en: "Layou" },
-    coordinates: { lat: 13.2033, lng: -61.2683 },
+    coords: [-61.2683, 13.2033],
     description: {
       de: "Layou liegt nördlich von Kingstown an der Westküste. In der Nähe befinden sich bedeutende archäologische Petroglyphen.",
       hu: "Layou Kingstowntól északra, a nyugati parton fekszik. A közelben jelentős régészeti leletek, sziklarajzok találhatók.",
@@ -62,7 +62,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-chateaubelair-cities-v2",
     type: "town",
     name: { de: "Chateaubelair", hu: "Chateaubelair", ro: "Chateaubelair", en: "Chateaubelair" },
-    coordinates: { lat: 13.2889, lng: -61.2394 },
+    coords: [-61.2394, 13.2889],
     description: {
       de: "Chateaubelair ist die nördlichste Stadt an der Westküste von St. Vincent. Sie dient als Ausgangspunkt für Vulkantouren.",
       hu: "Chateaubelair Saint Vincent legészakibb városa a nyugati parton. Gyakran szolgál a vulkántúrák kiindulópontjaként.",
@@ -81,7 +81,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-port-elizabeth-cities-v2",
     type: "town",
     name: { de: "Port Elizabeth", hu: "Port Elizabeth", ro: "Port Elizabeth", en: "Port Elizabeth" },
-    coordinates: { lat: 13.0033, lng: -61.2356 },
+    coords: [-61.2356, 13.0033],
     description: {
       de: "Port Elizabeth ist der Hauptort der Insel Bequia. Er ist ein beliebter Anlaufpunkt für Segelyachten in den Grenadinen.",
       hu: "Port Elizabeth Bequia szigetének központja. A Grenadine-szigeteken közlekedő vitorlások kedvelt kikötőhelye.",
@@ -100,7 +100,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-clifton-cities-v2",
     type: "town",
     name: { de: "Clifton", hu: "Clifton", ro: "Clifton", en: "Clifton" },
-    coordinates: { lat: 12.5958, lng: -61.4183 },
+    coords: [-61.4183, 12.5958],
     description: {
       de: "Clifton ist der geschäftige Hauptort der Insel Union Island. Er ist das Tor zu den Tobago Cays und den südlichen Grenadinen.",
       hu: "Clifton Union Island forgalmas központja. Ez a település a kapu a Tobago Cays és a déli Grenadine-szigetek felé.",
@@ -119,7 +119,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-calliaqua-cities-v2",
     type: "town",
     name: { de: "Calliaqua", hu: "Calliaqua", ro: "Calliaqua", en: "Calliaqua" },
-    coordinates: { lat: 13.1303, lng: -61.1925 },
+    coords: [-61.1925, 13.1303],
     description: {
       de: "Calliaqua liegt an der Südküste von St. Vincent. Die Stadt ist ein lokales Handelszentrum mit einer aktiven Fischereiindustrie.",
       hu: "Calliaqua Saint Vincent déli partján fekszik. Helyi kereskedelmi központ élénk halászati ágazattal.",
@@ -138,7 +138,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-biabou-cities-v2",
     type: "village",
     name: { de: "Biabou", hu: "Biabou", ro: "Biabou", en: "Biabou" },
-    coordinates: { lat: 13.1975, lng: -61.1419 },
+    coords: [-61.1419, 13.1975],
     description: {
       de: "Biabou ist eine Siedlung an der Ostküste von St. Vincent. Der Ort liegt in einem fruchtbaren landwirtschaftlichen Gebiet.",
       hu: "Biabou egy település Saint Vincent keleti partján. A falu egy termékeny mezőgazdasági területen fekszik.",
@@ -157,7 +157,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-charlestown-cities-v2",
     type: "town",
     name: { de: "Charlestown", hu: "Charlestown", ro: "Charlestown", en: "Charlestown" },
-    coordinates: { lat: 12.7167, lng: -61.3267 },
+    coords: [-61.3267, 12.7167],
     description: {
       de: "Charlestown ist die größte Siedlung auf Canouan. Der Ort hat sich durch den Bau von Luxusresorts stark gewandelt.",
       hu: "Charlestown Canouan szigetének legnagyobb települése. A falu sokat változott a luxusüdülőhelyek építése miatt.",
@@ -176,7 +176,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-ashton-cities-v2",
     type: "village",
     name: { de: "Ashton", hu: "Ashton", ro: "Ashton", en: "Ashton" },
-    coordinates: { lat: 12.5939, lng: -61.4358 },
+    coords: [-61.4358, 12.5939],
     description: {
       de: "Ashton ist das bevölkerungsreichste Dorf auf Union Island. Es liegt an der Südküste und bietet Blick auf die Lagune.",
       hu: "Ashton Union Island legnépesebb faluja. A déli parton fekszik, és kilátást nyújt a közeli lagúnára.",
@@ -195,7 +195,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-dovers-cities-v2",
     type: "village",
     name: { de: "Dovers", hu: "Dovers", ro: "Dovers", en: "Dovers" },
-    coordinates: { lat: 12.8789, lng: -61.1764 },
+    coords: [-61.1764, 12.8789],
     description: {
       de: "Dovers ist eine kleine Siedlung auf der exklusiven Insel Mustique. Sie beherbergt die lokale Bevölkerung und Infrastruktur.",
       hu: "Dovers egy kis település az exkluzív Mustique szigetén. Itt él a helyi lakosság és itt található az infrastruktúra.",
@@ -214,7 +214,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-byera-hill-cities-v2",
     type: "village",
     name: { de: "Byera Hill", hu: "Byera Hill", ro: "Byera Hill", en: "Byera Hill" },
-    coordinates: { lat: 13.25, lng: -61.12 },
+    coords: [-61.12, 13.25],
     description: {
       de: "Byera Hill ist ein Ort an der Ostküste von St. Vincent. Die Gegend ist bekannt für ihre raue Küstenlandschaft.",
       hu: "Byera Hill egy település Saint Vincent keleti partján. A környék a vadregényes tengerparti tájáról ismert.",
@@ -233,7 +233,7 @@ export const saintvincentCitiesV2: POI[] = [
     id: "saintvincent-derrick-cities-v2",
     type: "village",
     name: { de: "Derrick", hu: "Derrick", ro: "Derrick", en: "Derrick" },
-    coordinates: { lat: 12.9861, lng: -61.2528 },
+    coords: [-61.2528, 12.9861],
     description: {
       de: "Derrick ist eine kleine Siedlung im Süden der Insel Bequia. Sie liegt in der Nähe beliebter Strände wie Friendship Bay.",
       hu: "Derrick egy kis település Bequia szigetének déli részén. Olyan népszerű strandok közelében van, mint a Friendship Bay.",

@@ -1567,7 +1567,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-palacio-municipal-granada-landmarks-v2",
     type: "palace",
     name: { de: "Rathaus von Granada", hu: "Granada városháza", ro: "Primăria Granada", en: "Granada City Hall" },
-    coordinates: { lat: 11.9304, lng: -85.9592 },
+    coords: [-85.9592, 11.9304],
     description: {
       de: "Das historische Gebäude dient als Sitz der Stadtverwaltung von Granada. Es wurde im frühen 20. Jahrhundert erbaut und zeigt neoklassizistische Architekturelemente.",
       hu: "A történelmi épület Granada városvezetésének székhelye. A 20. század elején épült, és neoklasszikus építészeti elemeket mutat be.",
@@ -1586,7 +1586,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-iglesia-el-calvario-granada-landmarks-v2",
     type: "church",
     name: { de: "Kirche El Calvario (Granada)", hu: "El Calvario templom (Granada)", ro: "Biserica El Calvario (Granada)", en: "El Calvario Church (Granada)" },
-    coordinates: { lat: 11.9329, lng: -85.9615 },
+    coords: [-85.9615, 11.9329],
     description: {
       de: "Diese Kirche befindet sich im historischen Zentrum von Granada. Das Bauwerk ist für seine farbenfrohe Fassade und den barocken Stil bekannt.",
       hu: "Ez a templom Granada történelmi központjában található. Az építmény színes homlokzatáról és barokk stílusáról ismert.",
@@ -1605,7 +1605,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-teatro-municipal-leon-landmarks-v2",
     type: "theater",
     name: { de: "Stadttheater von León", hu: "Leóni városi színház", ro: "Teatrul Municipal din León", en: "León Municipal Theater" },
-    coordinates: { lat: 12.4346, lng: -86.8778 },
+    coords: [-86.8778, 12.4346],
     description: {
       de: "Das städtische Theater in León ist ein Ort für kulturelle Veranstaltungen. Das Gebäude spiegelt den Architekturstil des 20. Jahrhunderts in Nicaragua wider.",
       hu: "A leóni városi színház kulturális rendezvények helyszíne. Az épület a 20. századi nicaraguai építészeti stílust tükrözi.",
@@ -1624,7 +1624,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-templo-parroquial-jinotega-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche Jinotega", hu: "Jinotegai plébániatemplom", ro: "Biserica Parohială Jinotega", en: "Jinotega Parish Church" },
-    coordinates: { lat: 13.0906, lng: -86.0004 },
+    coords: [-86.0004, 13.0906],
     description: {
       de: "Die Pfarrkirche steht im Stadtzentrum von Jinotega. Sie ist ein zentraler religiöser Bau für die lokale Gemeinschaft in den Bergen.",
       hu: "A plébániatemplom Jinotega városközpontjában áll. Központi vallási épület a hegyvidéki helyi közösség számára.",
@@ -1643,7 +1643,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-museo-antropologico-managua-landmarks-v2",
     type: "museum",
     name: { de: "Anthropologisches Museum Managua", hu: "Managuai antropológiai múzeum", ro: "Muzeul Antropologic din Managua", en: "Managua Anthropological Museum" },
-    coordinates: { lat: 12.1328, lng: -86.2504 },
+    coords: [-86.2504, 12.1328],
     description: {
       de: "Das Museum bewahrt archäologische Funde aus der Region Managua. Es dokumentiert die präkolumbianische Geschichte der dortigen Völker.",
       hu: "A múzeum régészeti leleteket őriz a Managua régióból. Dokumentálja az ott élő népek prekolumbián történelmét.",
@@ -1662,7 +1662,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-torre-del-reloj-esteli-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm Estelí", hu: "Estelí óratorony", ro: "Turnul cu ceas din Estelí", en: "Estelí Clock Tower" },
-    coordinates: { lat: 13.0917, lng: -86.3524 },
+    coords: [-86.3524, 13.0917],
     description: {
       de: "Dieser Uhrturm steht an einem markanten Platz in der Stadt Estelí. Er dient als lokales Wahrzeichen im Zentrum der Stadt.",
       hu: "Ez az óratorony Estelí városának egyik kiemelkedő pontján áll. Helyi jelképként szolgál a városközpontban.",
@@ -1681,7 +1681,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-iglesia-san-antonio-jinotepe-landmarks-v2",
     type: "church",
     name: { de: "Kirche San Antonio (Jinotepe)", hu: "San Antonio templom (Jinotepe)", ro: "Biserica San Antonio (Jinotepe)", en: "San Antonio Church (Jinotepe)" },
-    coordinates: { lat: 11.8519, lng: -86.2023 },
+    coords: [-86.2023, 11.8519],
     description: {
       de: "Die Kirche San Antonio ist ein bedeutendes religiöses Gebäude in Jinotepe. Sie ist für ihre Architektur und den Standort bekannt.",
       hu: "A San Antonio templom fontos vallási épület Jinotepében. Építészetéről és elhelyezkedéséről ismert.",
@@ -1700,7 +1700,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-palacio-municipal-matagalpa-landmarks-v2",
     type: "palace",
     name: { de: "Rathaus von Matagalpa", hu: "Matagalpai városháza", ro: "Primăria din Matagalpa", en: "Matagalpa City Hall" },
-    coordinates: { lat: 12.9248, lng: -85.9174 },
+    coords: [-85.9174, 12.9248],
     description: {
       de: "Das Rathaus von Matagalpa befindet sich im Stadtzentrum. Es fungiert als Verwaltungssitz und ist ein architektonischer Ankerpunkt.",
       hu: "A matagalpai városháza a városközpontban található. Adminisztratív székhelyként működik és építészeti tájékozódási pont.",
@@ -1719,7 +1719,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-iglesia-parroquial-chinandega-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche Chinandega", hu: "Chinandegai plébániatemplom", ro: "Biserica Parohială Chinandega", en: "Chinandega Parish Church" },
-    coordinates: { lat: 12.6315, lng: -87.1354 },
+    coords: [-87.1354, 12.6315],
     description: {
       de: "Die Pfarrkirche von Chinandega prägt das Stadtbild mit ihrer historischen Struktur. Sie ist ein Zentrum des religiösen Lebens vor Ort.",
       hu: "A chinandegai plébániatemplom történelmi szerkezetével meghatározza a városképet. A helyi vallási élet központja.",
@@ -1738,7 +1738,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-teatro-municipal-diriamba-landmarks-v2",
     type: "theater",
     name: { de: "Stadttheater von Diriamba", hu: "Diriambai városi színház", ro: "Teatrul Municipal din Diriamba", en: "Diriamba Municipal Theater" },
-    coordinates: { lat: 11.8654, lng: -86.2367 },
+    coords: [-86.2367, 11.8654],
     description: {
       de: "Das Theater in Diriamba dient als Ort für kulturelle Darbietungen und städtische Versammlungen. Es ist ein kulturelles Herzstück der Stadt.",
       hu: "A diriambai színház kulturális előadások és városi gyűlések helyszíne. A város kulturális központja.",
@@ -1757,7 +1757,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-museo-de-la-cerimica-san-juan-de-limay-landmarks-v2",
     type: "museum",
     name: { de: "Keramikmuseum San Juan de Limay", hu: "San Juan de Limay kerámiamúzeum", ro: "Muzeul de Ceramică San Juan de Limay", en: "San Juan de Limay Ceramics Museum" },
-    coordinates: { lat: 13.1678, lng: -86.6025 },
+    coords: [-86.6025, 13.1678],
     description: {
       de: "Dieses Museum zeigt lokale Kunsthandwerkstechniken und Keramikprodukte aus San Juan de Limay. Es dokumentiert das traditionelle Handwerk.",
       hu: "Ez a múzeum bemutatja a San Juan de Limay-i helyi kézműves technikákat és kerámia termékeket. Dokumentálja a hagyományos mesterséget.",
@@ -1776,7 +1776,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-iglesia-la-asuncion-masaya-landmarks-v2",
     type: "church",
     name: { de: "Kirche La Asunción (Masaya)", hu: "La Asunción templom (Masaya)", ro: "Biserica La Asunción (Masaya)", en: "La Asunción Church (Masaya)" },
-    coordinates: { lat: 11.9751, lng: -86.1077 },
+    coords: [-86.1077, 11.9751],
     description: {
       de: "Die Kirche La Asunción in Masaya ist ein historischer religiöser Bau. Sie ist architektonisch bedeutend für die lokale Region.",
       hu: "A masayai La Asunción templom történelmi vallási épület. Építészetileg jelentős a helyi régió számára.",
@@ -1795,7 +1795,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-puente-rio-grande-matagalpa-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke über den Rio Grande de Matagalpa", hu: "Híd a Rio Grande de Matagalpa felett", ro: "Pod peste Rio Grande de Matagalpa", en: "Bridge over Rio Grande de Matagalpa" },
-    coordinates: { lat: 12.9234, lng: -85.9189 },
+    coords: [-85.9189, 12.9234],
     description: {
       de: "Diese Brücke überspannt den Fluss im Zentrum von Matagalpa. Sie ist eine wichtige Infrastrukturverbindung für den städtischen Verkehr.",
       hu: "Ez a híd ível át a folyón Matagalpa központjában. Fontos infrastrukturális kapcsolat a városi forgalom számára.",
@@ -1814,7 +1814,7 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
     id: "nicaragua-palacio-cultura-somoto-landmarks-v2",
     type: "palace",
     name: { de: "Kulturpalast Somoto", hu: "Somotoi kultúrpalota", ro: "Palatul Culturii Somoto", en: "Somoto Palace of Culture" },
-    coordinates: { lat: 13.4815, lng: -86.5833 },
+    coords: [-86.5833, 13.4815],
     description: {
       de: "Der Kulturpalast in Somoto dient als Zentrum für künstlerische und soziale Aktivitäten. Er beherbergt verschiedene lokale kulturelle Projekte.",
       hu: "A somotoi kultúrpalota művészeti és szociális tevékenységek központjaként szolgál. Különböző helyi kulturális projekteknek ad otthont.",

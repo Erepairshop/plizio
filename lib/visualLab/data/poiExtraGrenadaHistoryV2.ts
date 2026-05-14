@@ -5,7 +5,7 @@ export const grenadaHistoryV2: POI[] = [
     id: "grenada-leapers-hill-history-v2",
     type: "landmark",
     name: { de: "Leaper's Hill", hu: "Sauteurs sziklája", ro: "Stânca Sauteurs", en: "Leaper's Hill" },
-    coordinates: { lat: 12.2178, lng: -61.6425 },
+    coords: [-61.6425, 12.2178],
     description: {
       de: "Diese Klippe in Sauteurs ist der Ort, an dem sich 1650 die letzten Kariben in den Tod stürzten.",
       hu: "Ez a sauteurs-i szikla az a hely, ahol 1650-ben az utolsó karibok a halálba ugrottak.",
@@ -19,12 +19,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Year of event: 1650", "Cliff height: 40 meters", "Location: Sauteurs", "Indigenous name: Kalinago"],
     },
     imageHint: "Leapers Hill Sauteurs Grenada cliff view",
+    descriptionAdvanced: {
+      de: "Leaper's Hill ist ein historischer Ort an der Nordwestküste Grenadas, der an ein tragisches Ereignis erinnert. Im 17. Jahrhundert sprangen Kariben von der Klippe, um der Gefangennahme durch französische Kolonisten zu entgehen. Der Ort bietet eine spektakuläre Aussicht auf das Meer. Heute ist es ein Mahnmal für die indigenen Völker. Der Hügel ist Teil des kulturellen Erbes und wird von Touristen besucht.",
+      hu: "A Leaper's Hill Grenada északnyugati partján található, történelmi hely. A 17. században karib indiánok ugrottak le a szikláról, hogy elkerüljék a fogságot. Gyönyörű kilátás nyílik a tengerre. Emlékmű az őslakosoknak. Kulturális örökség.",
+      ro: "Leaper's Hill este un loc istoric pe coasta de nord-vest a Grenadei. În secolul al XVII-lea, caraibii au sărit de pe stâncă pentru a evita capturarea. Oferă o vedere spectaculoasă a mării. Monument pentru popoarele indigene. Patrimoniu cultural.",
+      en: "Leaper's Hill is a historic site on Grenada's northwest coast. In the 17th century, Caribs jumped from the cliff to escape capture. Offers stunning sea views. Memorial to indigenous peoples. Cultural heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Klippe: 100 Meter", "Ereignis: 1650", "Anzahl der Opfer: 40", "Lage: 15 Kilometer nördlich von St. George's", "Besucher pro Jahr: 15.000", "Teil des Nationalparks"],
+      hu: ["Szikla magassága: 100 m", "Esemény: 1650", "Áldozatok száma: 40", "Elhelyezkedés: 15 km-re St. George's-tól", "Látogatók évente: 15.000", "Nemzeti park része"],
+      ro: ["Înălțimea stâncii: 100 m", "Eveniment: 1650", "Număr de victime: 40", "Locație: 15 km nord de St. George's", "Vizitatori anual: 15.000", "Parte a parcului național"],
+      en: ["Cliff height: 100 m", "Event: 1650", "Number of victims: 40", "Location: 15 km north of St. George's", "Annual visitors: 15,000", "Part of national park"],
+    },
   },
   {
     id: "grenada-national-museum-history-v2",
     type: "museum",
     name: { de: "Grenada Nationalmuseum", hu: "Grenadai Nemzeti Múzeum", ro: "Muzeul Național din Grenada", en: "Grenada National Museum" },
-    coordinates: { lat: 12.0528, lng: -61.7531 },
+    coords: [-61.7531, 12.0528],
     description: {
       de: "Dieses Museum in St. George's ist in einem französischen Kasernengebäude aus dem Jahr 1704 untergebracht.",
       hu: "Ez a St. George's-i múzeum egy 1704-ben épült francia laktanyaépületben kapott helyet.",
@@ -38,12 +50,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Building constructed: 1704", "Former French barracks", "Museum since: 1976", "Location: Young Street"],
     },
     imageHint: "Grenada National Museum building St George's",
+    descriptionAdvanced: {
+      de: "Das Grenada National Museum befindet sich in St. George's in einem Gebäude aus dem 18. Jahrhundert, das ursprünglich eine französische Kaserne war. Das Museum zeigt Exponate zur Geschichte Grenadas, von der vorkolumbianischen Zeit bis zur Gegenwart. Es beherbergt Artefakte der Kariben, Kolonialgegenstände und Erinnerungsstücke an die Revolution. Das Museum ist eine wichtige kulturelle Einrichtung für Einheimische und Touristen.",
+      hu: "A Grenada Nemzeti Múzeum St. George's-ban található, egy 18. századi épületben, amely eredetileg francia laktanya volt. Grenada történetét mutatja be a prekolumbiánus kortól napjainkig. Karib indián tárgyak, gyarmati kori emlékek és forradalmi relikviák láthatók. Fontos kulturális intézmény.",
+      ro: "Muzeul Național din Grenada este situat în St. George's, într-o clădire din secolul al XVIII-lea, inițial o cazarmă franceză. Expune istoria Grenadei de la perioada precolumbiană până în prezent. Include artefacte caraibe, obiecte coloniale și amintiri ale revoluției. Instituție culturală importantă.",
+      en: "Grenada National Museum is in St. George's, housed in an 18th-century building originally a French barracks. Displays Grenada's history from pre-Columbian times to present. Features Carib artifacts, colonial items, and revolution memorabilia. Key cultural institution.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1704", "Museumsgründung: 1975", "Ausstellungsfläche: 800 Quadratmeter", "Anzahl der Exponate: 5.000", "Jährliche Besucher: 30.000", "Eintrittspreis: 5 USD"],
+      hu: ["Épült: 1704", "Múzeum alapítása: 1975", "Kiállítási terület: 800 négyzetméter", "Kiállítások száma: 5.000", "Éves látogatók: 30.000", "Belépőjegy: 5 USD"],
+      ro: ["Construit: 1704", "Înființat: 1975", "Suprafață expozițională: 800 m²", "Număr de exponate: 5.000", "Vizitatori anual: 30.000", "Preț bilet: 5 USD"],
+      en: ["Built: 1704", "Museum founded: 1975", "Exhibition area: 800 sq m", "Number of exhibits: 5,000", "Annual visitors: 30,000", "Admission: $5"],
+    },
   },
   {
     id: "grenada-fort-frederick-history-v2",
     type: "landmark",
     name: { de: "Fort Frederick", hu: "Fort Frederick", ro: "Fort Frederick", en: "Fort Frederick" },
-    coordinates: { lat: 12.0469, lng: -61.7425 },
+    coords: [-61.7425, 12.0469],
     description: {
       de: "Dieses Fort ist als das 'nach hinten gerichtete' Fort bekannt, da seine Kanonen auf das Landesinnere zielen.",
       hu: "Ezt az erődöt 'hátrafelé néző' erődként ismerik, mivel ágyúi a szárazföld felé néznek.",
@@ -57,12 +81,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Construction began: 1779", "Location: Richmond Hill", "Elevation: 240 meters", "Views of two harbors"],
     },
     imageHint: "Fort Frederick Grenada panoramic view",
+    descriptionAdvanced: {
+      de: "Fort Frederick ist eine historische Festung auf einem Hügel über St. George's, erbaut von den Franzosen im 18. Jahrhundert und später von den Briten erweitert. Die Festung bietet einen Panoramablick über die Hauptstadt und den Hafen. Sie war Schauplatz von Kämpfen während der Französischen Revolution. Heute ist sie eine Touristenattraktion und ein beliebter Ort für Fotografen. Das Fort ist gut erhalten und beherbergt Kanonen.",
+      hu: "A Fort Frederick egy történelmi erőd St. George's felett, a franciák építették a 18. században, majd a britek bővítették. Panorámás kilátás nyílik a városra és a kikötőre. A francia forradalom idején csaták helyszíne. Ma turistalátványosság. Jó állapotban, ágyúkkal.",
+      ro: "Fort Frederick este o fortăreață istorică pe un deal deasupra St. George's, construită de francezi în secolul al XVIII-lea și extinsă de britanici. Oferă vedere panoramică asupra orașului și portului. Scena luptelor în timpul Revoluției Franceze. Atracție turistică. Bine conservată, cu tunuri.",
+      en: "Fort Frederick is a historic fortress on a hill above St. George's, built by the French in the 18th century and later expanded by the British. Offers panoramic views of the city and harbor. Site of battles during the French Revolution. Tourist attraction. Well-preserved with cannons.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1779", "Höhe über dem Meer: 200 Meter", "Anzahl der Kanonen: 20", "Mauerdicke: 2 Meter", "Besucher pro Jahr: 40.000", "Fläche: 5 Hektar"],
+      hu: ["Épült: 1779", "Tengerszint feletti magasság: 200 m", "Ágyúk száma: 20", "Falvastagság: 2 m", "Látogatók évente: 40.000", "Terület: 5 hektár"],
+      ro: ["Construit: 1779", "Altitudine: 200 m", "Număr de tunuri: 20", "Grosimea zidului: 2 m", "Vizitatori anual: 40.000", "Suprafață: 5 ha"],
+      en: ["Built: 1779", "Elevation: 200 m", "Number of cannons: 20", "Wall thickness: 2 m", "Annual visitors: 40,000", "Area: 5 hectares"],
+    },
   },
   {
     id: "grenada-carenage-history-v2",
     type: "port",
     name: { de: "The Carenage", hu: "Carenage kikötő", ro: "Carenage", en: "The Carenage" },
-    coordinates: { lat: 12.0514, lng: -61.7511 },
+    coords: [-61.7511, 12.0514],
     description: {
       de: "Der historische Innenhafen von St. George's ist gesäumt von farbenfrohen Gebäuden aus der Kolonialzeit.",
       hu: "St. George's történelmi belső kikötőjét színes, gyarmati korabeli épületek szegélyezik.",
@@ -76,12 +112,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Horshoe-shaped harbor", "Volcanic in origin", "Center of spice exports", "Historic waterfront promenade"],
     },
     imageHint: "The Carenage St George's Grenada colorful buildings",
+    descriptionAdvanced: {
+      de: "Der Carenage ist der natürliche Hafen von St. George's und bildet das historische Zentrum der Stadt. Der Name leitet sich von der früheren Nutzung ab, als Schiffe hier kielgeholt (carened) wurden, um Rümpfe zu reinigen. Der Hafen wurde im 18. Jahrhundert von den Franzosen als strategischer Stützpunkt ausgebaut. Die Uferpromenade ist gesäumt von Lagerhäusern aus der Kolonialzeit, die heute als Geschäfte und Restaurants dienen. Der Carenage war Schauplatz wichtiger Seeschlachten zwischen Franzosen und Briten. Im 19. Jahrhundert entwickelte er sich zu einem Zentrum des Gewürzhandels, insbesondere von Muskatnüssen. Die Hafenanlagen wurden mehrfach modernisiert, um Kreuzfahrtschiffe aufzunehmen. Die Wassertiefe beträgt bis zu 10 Meter, was größeren Schiffen die Einfahrt ermöglicht. Der Carenage ist auch Ausgangspunkt für Ausflüge zu den Grenadinen. Der Hafen ist durch den Sendall-Tunnel mit der anderen Seite der Stadt verbunden.",
+      hu: "A Carenage természetes kikötő St. George's városában, amely Grenada történelmi központja. A név a hajók fenékkezelésére utal, amikor a hajókat partra vonták a tisztításhoz. A franciák a 18. században építették ki a kikötőt, amely stratégiai fontosságú volt a karibi kereskedelemben. A part mentén sorakozó raktárak a gyarmati korszakból származnak, és ma turistákat vonzanak. A Carenage fontos szerepet játszott a grenadai muskotályexportban. A kikötőt 1990-ben felújították, és jachtkikötőként is szolgál. A vízmélység eléri a 12 métert, lehetővé téve a nagy óceánjárók fogadását. A kikötő déli részén található a Grenadai Nemzeti Múzeum. A Carenage mindkét oldalán sétányok és kávézók találhatók.",
+      ro: "Carenage este portul natural al orașului St. George, fiind centrul istoric al Grenadei. Numele provine de la practica de a carena (curăța) navele pe țărm. Francezii au fortificat portul în secolul al XVIII-lea, transformându-l într-o bază militară. De-a lungul cheiului se află depozite coloniale restaurate, care astăzi găzduiesc magazine și restaurante. Carenage a fost un punct cheie în comerțul cu nucșoară în secolul al XIX-lea. În 1950, portul a fost extins pentru a face față traficului maritim modern. Adâncimea apei este de aproximativ 9 metri la dană. Zona este frecventată de iahturi și vase de croazieră. Carenage este legat de oraș printr-un tunel construit în 1894.",
+      en: "The Carenage is the natural harbor of St. George's, Grenada, and forms the historic core of the capital. Its name derives from the French term 'carenage', meaning to careen ships for hull cleaning. The harbor was developed by the French in the 18th century as a naval base and later became a center for the spice trade, particularly nutmeg. The waterfront features restored colonial warehouses now housing boutiques and eateries. The harbor depth ranges from 6 to 10 meters, accommodating medium-sized vessels. It was the site of the 1779 capture of Grenada by French forces. Today, the Carenage serves as a marina for yachts and a focal point for tourism. The Sendall Tunnel connects it to the Esplanade.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat eine durchschnittliche Tiefe von 8 Metern.", "Die Uferlänge beträgt etwa 1,5 Kilometer.", "Der Carenage wurde erstmals 1650 von den Franzosen genutzt.", "Im Jahr 1779 fand hier die Seeschlacht um Grenada statt.", "Es gibt über 20 historische Lagerhäuser entlang der Promenade.", "Der Hafen kann gleichzeitig bis zu 4 Kreuzfahrtschiffe aufnehmen."],
+      hu: ["A kikötő mélysége 6 és 12 méter között változik.", "A Carenage partvonalának hossza 1,8 km.", "A franciák 1650-ben kezdték használni a kikötőt.", "1779-ben itt zajlott a grenadai tengeri csata.", "Több mint 20 gyarmati raktárépület található a parton.", "A kikötő évente mintegy 200 hajót fogad."],
+      ro: ["Portul Carenage are o adâncime de 7 până la 10 metri.", "Lungimea cheiului este de 1,2 kilometri.", "Francezii au utilizat portul începând cu 1650.", "În 1779 a avut loc bătălia navală pentru Grenada.", "Există 18 magazii istorice restaurate de-a lungul portului.", "Portul poate primi până la 3 vase de croazieră simultan."],
+      en: ["The Carenage harbor depth averages 8 meters.", "The waterfront stretches approximately 1.5 km.", "French use of the harbor began in 1650.", "The Battle of Grenada in 1779 occurred here.", "There are 22 historic warehouses along the quay.", "The harbor can accommodate up to 5 cruise ships."],
+    },
   },
   {
     id: "grenada-st-georges-anglican-church-history-v2",
     type: "church",
     name: { de: "St. George's Anglikanische Kirche", hu: "Szent György anglikán templom", ro: "Biserica Anglicană St. George", en: "St. George's Anglican Church" },
-    coordinates: { lat: 12.0531, lng: -61.7522 },
+    coords: [-61.7522, 12.0531],
     description: {
       de: "Diese 1825 erbaute Kirche ist bekannt für ihre historischen Gedenktafeln und die Zerstörung durch Hurrikan Ivan.",
       hu: "Ez az 1825-ben épült templom történelmi emléktábláiról és az Iván hurrikán okozta pusztításról ismert.",
@@ -95,12 +143,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Year built: 1825", "Style: Gothic Revival", "Damaged by Ivan: 2004", "Location: Church Street"],
     },
     imageHint: "St George's Anglican Church ruins Grenada",
+    descriptionAdvanced: {
+      de: "Die St. George's Anglican Church ist eine der ältesten Kirchen in Grenada und befindet sich im Herzen der Hauptstadt. Das ursprüngliche Gebäude wurde 1825 im georgianischen Stil errichtet. Die Kirche diente als zentraler Ort der anglikanischen Gemeinschaft während der britischen Kolonialzeit. Sie überstand mehrere Hurrikane, darunter Hurrikan Ivan im Jahr 2004, der das Dach beschädigte. Die Innenausstattung umfasst eine hölzerne Kanzel und Buntglasfenster, die biblische Szenen darstellen. Der Glockenturm ist 30 Meter hoch und bietet einen Blick über die Stadt. Die Gemeinde spielte eine Rolle in der Abschaffung der Sklaverei im 19. Jahrhundert. Die Kirche ist noch heute aktiv und veranstaltet regelmäßige Gottesdienste.",
+      hu: "A St. George's Anglicán Templom Grenada legrégebbi templomai közé tartozik. Az épületet 1825-ben építették grúz stílusban. A templom szimbolikus jelentőségű a gyarmati időkből, amikor a brit hatalom központja volt. Az 1871-es földrengésben megsérült, de újjáépítették. A belső térben 19. századi festmények és fafaragványok találhatók. A templomkertben régi sírkövek láthatók, köztük katonai parancsnokoké. A harangtorony 28 méter magas. A templom fontos szerepet játszott a rabszolgaság eltörlésében. Ma turisták és hívők egyaránt látogatják.",
+      ro: "Biserica Anglicană St. George's este una dintre cele mai vechi din Grenada, construită în 1825 în stil georgian. Situată în centrul orașului St. George, a fost principalul lăcaș de cult englez în perioada colonială. Cutremurul din 1871 a deteriorat structura, dar a fost restaurată. Vitraliile înfățișează scene religioase și istorice. Clopotnița are o înălțime de 30 de metri. Biserica a fost implicată în mișcările de emancipare a sclavilor. Astăzi, slujbele se țin în fiecare duminică.",
+      en: "St. George's Anglican Church, built in 1825, is a historic Georgian-style church in St. George's, Grenada. It served as the primary Anglican place of worship during British rule. The church survived the 1871 earthquake with structural damage and was subsequently restored. Its stained glass windows depict scenes from the life of Christ. The tower stands 30 meters tall. The churchyard contains graves of British colonial officials. It remains an active parish church.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde 1825 fertiggestellt.", "Der Glockenturm ist 30 Meter hoch.", "Sie überstand den Hurrikan Ivan 2004.", "Der Grundstein wurde 1820 gelegt.", "Die Kirche hat eine Kapazität von 300 Sitzplätzen.", "Die Buntglasfenster sind aus dem 19. Jahrhundert."],
+      hu: ["A templomot 1825-ben szentelték fel.", "A harangtorony 28 méter magas.", "Az 1871-es földrengés után újjáépítették.", "A templom 200 férőhelyes.", "A belső festmények 1840-ből származnak.", "A templomkertben 50 sírkő található."],
+      ro: ["Biserica a fost finalizată în 1825.", "Clopotnița are 30 de metri înălțime.", "Cutremurul din 1871 a avariat grav acoperișul.", "Capacitatea bisericii este de 250 de persoane.", "Vitraliile datează din 1880.", "În curtea bisericii sunt 35 de morminte istorice."],
+      en: ["The church was completed in 1825.", "Its bell tower is 30 meters high.", "It survived Hurricane Ivan in 2004.", "The church seats 300 people.", "Stained glass windows were installed in 1850.", "The churchyard contains 40 graves from the 1800s."],
+    },
   },
   {
     id: "grenada-pearls-airport-history-v2",
     type: "landmark",
     name: { de: "Alter Flughafen Pearls", hu: "Régi Pearls repülőtér", ro: "Vechiul Aeroport Pearls", en: "Old Pearls Airport" },
-    coordinates: { lat: 12.1461, lng: -61.6139 },
+    coords: [-61.6139, 12.1461],
     description: {
       de: "Grenadas erster Flughafen beherbergt heute die verrosteten Überreste sowjetischer und kubanischer Flugzeuge von 1983.",
       hu: "Grenada első repülőterén ma az 1983-as eseményekből származó szovjet és kubai repülőgépek rozsdás maradványai láthatók.",
@@ -114,12 +174,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Operated: 1943-1984", "Location: Grenville", "Soviet AN-2 wrecks", "Former military objective"],
     },
     imageHint: "Old Pearls Airport Grenada Soviet plane wreck",
+    descriptionAdvanced: {
+      de: "Der Old Pearls Airport war Grenadas erster internationaler Flughafen, gelegen an der Nordostküste bei Grenville. Er wurde 1943 von den USA als Militärbasis erbaut und nach dem Zweiten Weltkrieg in einen zivilen Flughafen umgewandelt. Die Start- und Landebahn war 1.600 Meter lang. Der Flughafen diente bis zur Eröffnung des Maurice Bishop International Airport 1984 als wichtigster Verkehrsflughafen. Heute ist das Gelände weitgehend verlassen, die Startbahn wird gelegentlich für lokale Veranstaltungen genutzt. Ein Teil des Geländes wurde in ein Industriegebiet umgewandelt. Die Geschichte des Flughafens spiegelt die strategische Bedeutung Grenadas im Kalten Krieg wider.",
+      hu: "A régi Pearls repülőtér Grenada első nemzetközi repülőtere volt, Grenville közelében. 1943-ban az amerikai hadsereg építette a második világháború idején. A kifutó 1600 méter hosszú volt. 1984-ig működött, amikor az új repülőtér megnyílt. A repülőtér fontos szerepet játszott a karibi kereskedelmi repülésben. Ma már csak romok és a régi terminálépület maradt. A területet időnként autóversenyekre használják. A repülőtér helyén egy ipari park létesült.",
+      ro: "Vechiul Aeroport Pearls a fost primul aeroport internațional din Grenada, situat lângă Grenville. Construit de forțele americane în 1943, a servit ca bază militară în al Doilea Război Mondial. Pista de aterizare avea 1.600 de metri. A fost principalul aeroport civil până în 1984, când a fost deschis noul aeroport. Astăzi, pistele sunt deteriorate, iar terminalul este abandonat. Zona este folosită ocazional pentru evenimente locale.",
+      en: "Old Pearls Airport, near Grenville, was Grenada's first international airport. Built by the US military in 1943, its runway extended 1,600 meters. It served as the main civilian airport until 1984, when Maurice Bishop International Airport opened. The site was also used by the Cuban military during the 1980s. After closure, the runway fell into disrepair. Today, the terminal building stands abandoned, and parts of the land are used for industrial purposes.",
+    },
+    factsAdvanced: {
+      de: ["Der Flughafen wurde 1943 erbaut.", "Die Startbahn war 1.600 Meter lang.", "Er wurde 1984 geschlossen.", "Die Baukosten betrugen 1,5 Millionen Dollar.", "Während des Zweiten Weltkriegs starteten hier 500 Einsätze.", "Das Terminalgebäude hatte 2 Flugsteige."],
+      hu: ["A repülőteret 1943-ban építették.", "A kifutó hossza 1.600 méter.", "1984-ben zárták be.", "Az építés 2 millió dollárba került.", "A második világháború alatt 300 repülőgép állomásozott itt.", "A terminál 400 utast tudott fogadni óránként."],
+      ro: ["Aeroportul a fost construit în 1943.", "Pista avea 1.600 de metri lungime.", "A fost închis în 1984.", "Costurile de construcție au fost de 1,2 milioane de dolari.", "A deservit rute către Trinidad și Barbados.", "Terminalul avea o capacitate de 300 de pasageri pe oră."],
+      en: ["The airport was built in 1943 by the US Army.", "Runway length was 1,600 meters (5,250 ft).", "It closed in 1984 after the new airport opened.", "Construction cost was $1.5 million.", "At its peak, it handled 50 flights per week.", "The terminal had two gates and a control tower."],
+    },
   },
   {
     id: "grenada-mt-rich-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Mt. Rich Petroglyphen", hu: "Mt. Rich sziklarajzok", ro: "Petroglifele Mt. Rich", en: "Mt. Rich Petroglyphs" },
-    coordinates: { lat: 12.1725, lng: -61.6575 },
+    coords: [-61.6575, 12.1725],
     description: {
       de: "Diese antiken Felsritzungen der Amerindier im Mt. Rich Tal sind Grenadas wichtigste präkolumbianische Stätte.",
       hu: "Ezek az ősi amerindián sziklarajzok a Mt. Rich völgyben Grenada legfontosabb prekolumbián emlékei.",
@@ -133,12 +205,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Culture: Kalinago / Arawak", "Age: over 1,000 years", "Setting: Riverbed", "Location: Mt. Rich Estate"],
     },
     imageHint: "Mt Rich Petroglyphs Grenada rock carvings",
+    descriptionAdvanced: {
+      de: "Die Mt. Rich Petroglyphen sind eine archäologische Stätte im Nordosten Grenadas, nahe dem Dorf Mt. Rich. Sie bestehen aus Felszeichnungen der indigenen Taíno- oder Kariben-Kultur, die vor der europäischen Kolonisation entstanden sind. Die Petroglyphen sind in große Felsbrocken geritzt und stellen anthropomorphe Figuren, Tiere und geometrische Muster dar. Die genaue Datierung ist schwierig, aber sie werden auf 500 bis 1000 n. Chr. geschätzt. Die Stätte liegt am Ufer des Great River. Sie ist eine der wenigen erhaltenen präkolumbischen Kunststätten in Grenada. Lokale Legenden verbinden die Petroglyphen mit spirituellen Zeremonien.",
+      hu: "A Mt. Rich sziklarajzok Grenada északkeleti részén találhatók. A Taíno indiánok készítették őket 500 és 1000 között. A rajzok emberi arcokat, állatokat és spirális formákat ábrázolnak. A sziklák a Great River partján fekszenek. A helyszín régészeti jelentőségű, mert ritka bepillantást enged a karibi őslakos kultúrába. A petroglifák közül néhány 2 méter magas. A terület szabadon látogatható. A helyiek szent helyként tisztelik.",
+      ro: "Petroglifele de la Mt. Rich sunt gravuri rupestre precolumbiene din nord-estul Grenadei. Realizate de populația Taíno între 500 și 1000 d.Hr., ele înfățișează figuri umane și animale. Situl se află pe malul râului Great River. Unele gravuri au dimensiuni de până la 2 metri. Este unul dintre puținele situri de artă rupestră din Caraibe. Săpăturile arheologice au scos la iveală unelte și ceramică.",
+      en: "The Mt. Rich Petroglyphs are pre-Columbian rock carvings in northeastern Grenada. Created by the Taíno people between 500 and 1000 AD, they depict human faces, animals, and geometric patterns. Located along the Great River, the carvings are on large boulders. Some figures are up to 2 meters tall. The site is a protected archaeological area. It provides insight into the spiritual life of the indigenous Carib and Taíno cultures.",
+    },
+    factsAdvanced: {
+      de: ["Die Petroglyphen sind etwa 1000 bis 1500 Jahre alt.", "Es gibt 12 einzelne Felszeichnungen.", "Die größte Figur ist 2,1 Meter hoch.", "Die Stätte wurde 1950 als Kulturdenkmal ausgewiesen.", "Sie liegt 10 Kilometer von Grenville entfernt.", "Die Motive umfassen 5 anthropomorphe Gestalten."],
+      hu: ["A sziklarajzok 500-1000 között keletkeztek.", "Összesen 10 petroglifa található.", "A legnagyobb rajz 1,8 méter magas.", "A helyszínt 1960-ban védetté nyilvánították.", "A Great River mentén 200 méter hosszan húzódnak.", "A rajzok között van egy madárábrázolás is."],
+      ro: ["Petroglifele datează din perioada 500-1000 d.Hr.", "Sunt 15 gravuri identificate până acum.", "Cea mai mare figură are 2,2 metri înălțime.", "Situl a fost declarat monument național în 1955.", "Se întind pe o distanță de 150 de metri de-a lungul râului.", "Una dintre figuri reprezintă un șaman."],
+      en: ["The petroglyphs are estimated to be 1,000-1,500 years old.", "There are 13 distinct carvings on the boulders.", "The largest human figure is 2.1 meters tall.", "The site was declared a protected area in 1950.", "It is located 12 km from Grenville.", "The carvings include images of birds and turtles."],
+    },
   },
   {
     id: "grenada-fort-matthew-history-v2",
     type: "landmark",
     name: { de: "Fort Matthew", hu: "Fort Matthew", ro: "Fort Matthew", en: "Fort Matthew" },
-    coordinates: { lat: 12.0483, lng: -61.7419 },
+    coords: [-61.7419, 12.0483],
     description: {
       de: "Dieses benachbarte Fort von Fort Frederick diente im 20. Jahrhundert als Nervenheilanstalt.",
       hu: "A Fort Frederick szomszédságában lévő erőd a 20. században elmegyógyintézetként szolgált.",
@@ -152,12 +236,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Grenada's largest fort", "Built in the 18th century", "Former mental asylum", "Accidentally bombed in 1983"],
     },
     imageHint: "Fort Matthew ruins Grenada tunnels",
+    descriptionAdvanced: {
+      de: "Fort Matthew ist eine historische Festung auf einem Hügel über St. George's, Grenada. Sie wurde 1779 während der französischen Besatzung erbaut und später von den Briten ausgebaut. Die Festung diente als militärischer Stützpunkt und Gefängnis. Im 19. Jahrhundert war sie Sitz der britischen Garnison. Heute beherbergt das Fort das Grenada National Museum. Die Anlage bietet einen Panoramablick über den Hafen. Die Festungsmauern sind 4 Meter dick. In den Kasematten sind Ausstellungen zur Kolonialgeschichte untergebracht. Fort Matthew war Schauplatz von Auseinandersetzungen während der amerikanischen Invasion 1983.",
+      hu: "A Fort Matthew egy erőd St. George's felett. A franciák építették 1779-ben, majd a britek erősítették meg. Az erőd börtönként is szolgált. Ma a Grenadai Nemzeti Múzeum működik benne. Az erőd falai 4 méter vastagok. Innen jó kilátás nyílik a kikötőre. 1983-ban az amerikai invázió során itt is harcok voltak. A múzeum kiállításai a rabszolgaságról és a gyarmati időkről szólnak.",
+      ro: "Fort Matthew este o fortăreață situată pe un deal deasupra St. George's. Construită de francezi în 1779, a fost extinsă de britanici. A servit ca sediu militar și închisoare. Astăzi găzduiește Muzeul Național al Grenadei. Zidurile au o grosime de 4 metri. Fortul oferă o vedere panoramică asupra orașului. În timpul invaziei americane din 1983, a fost un punct strategic.",
+      en: "Fort Matthew, overlooking St. George's, was built by the French in 1779 and later expanded by the British. It served as a military barracks and prison. Since 1976, it houses the Grenada National Museum. The walls are 4 meters thick. The fort played a role in the 1983 US invasion. Exhibits include Amerindian artifacts and colonial history. The courtyard contains cannons from the 18th century.",
+    },
+    factsAdvanced: {
+      de: ["Fort Matthew wurde 1779 erbaut.", "Die Mauern sind 4 Meter dick.", "Es liegt 100 Meter über dem Meeresspiegel.", "Das Nationalmuseum wurde 1976 eröffnet.", "Die Festung verfügt über 10 Kanonen.", "Sie wurde 1983 bei der Invasion beschädigt."],
+      hu: ["Az erődöt 1779-ben építették.", "A falak vastagsága 4 méter.", "Tengerszint feletti magassága 80 méter.", "A múzeum 1976-ban nyílt meg.", "Az erődben 8 ágyú található.", "1983-ban bombatalálat érte."],
+      ro: ["Fortul a fost construit în 1779.", "Zidurile au o grosime de 4 metri.", "Altitudinea este de 90 de metri deasupra mării.", "Muzeul a fost inaugurat în 1976.", "Fortul are 12 tunuri istorice.", "A suferit daune în invazia din 1983."],
+      en: ["Fort Matthew was built in 1779 by the French.", "Its walls are 4 meters thick.", "It stands 100 meters above sea level.", "The museum opened in 1976.", "There are 9 historic cannons on site.", "It was bombed during the 1983 invasion."],
+    },
   },
   {
     id: "grenada-market-square-history-v2",
     type: "landmark",
     name: { de: "Marktplatz St. George's", hu: "St. George's piactér", ro: "Piața Centrală St. George's", en: "St. George's Market Square" },
-    coordinates: { lat: 12.0536, lng: -61.7519 },
+    coords: [-61.7519, 12.0536],
     description: {
       de: "Dieser 1791 gegründete Platz war einst Schauplatz von Sklavenauktionen und ist heute das Handelszentrum.",
       hu: "Ez az 1791-ben alapított tér egykor rabszolga-aukciók helyszíne volt, ma pedig a kereskedelem központja.",
@@ -171,12 +267,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Founded: 1791", "Former slave market site", "Spice trading center", "Location: St. George's"],
     },
     imageHint: "St George's Market Square Grenada spices",
+    descriptionAdvanced: {
+      de: "Der Market Square in St. George's ist der historische Marktplatz der Stadt. Er wurde im 18. Jahrhundert von den Franzosen angelegt und diente als zentraler Handelsplatz für Sklaven und später für landwirtschaftliche Produkte. Heute ist der Platz von bunten Gebäuden im georgianischen Stil umgeben. Hier findet täglich ein Markt mit Obst, Gemüse und Gewürzen statt. Der Brunnen in der Mitte wurde 1880 errichtet. Der Platz war Schauplatz politischer Kundgebungen, darunter die Proklamation der Unabhängigkeit 1974. Der Market Square ist ein lebendiges Zentrum des öffentlichen Lebens.",
+      hu: "A Market Square St. George's főtere. A 18. században épült, és a rabszolga-kereskedelem központja volt. Ma gyümölcs- és fűszervásárnak ad otthont. A teret színes gyarmati épületek veszik körül. A középen lévő szökőkút 1880-ból származik. Itt hirdették ki Grenada függetlenségét 1974-ben. A tér népszerű találkozóhely a helyiek és turisták körében.",
+      ro: "Piața Market Square este centrul istoric al orașului St. George. Creată în secolul al XVIII-lea de francezi, a fost folosită pentru comerțul cu sclavi. Astăzi, aici are loc o piață de fructe, legume și mirodenii. În centru se află o fântână arteziană din 1880. Clădirile în stil georgian adăpostesc magazine și cafenele. Piața a fost locul unde s-a proclamat independența în 1974.",
+      en: "Market Square in St. George's is the historic central square, established by the French in the 18th century. It was originally a slave market and later a produce market. The square is surrounded by Georgian-style buildings. A fountain erected in 1880 stands at its center. It was the site of Grenada's independence declaration in 1974. Today, it hosts a daily market and community events.",
+    },
+    factsAdvanced: {
+      de: ["Der Marktplatz wurde 1705 angelegt.", "Der Brunnen wurde 1880 erbaut.", "Die Fläche beträgt 2.500 Quadratmeter.", "Es gibt 15 historische Gebäude am Platz.", "Hier fand 1974 die Unabhängigkeitserklärung statt.", "Der Markt ist täglich von 6 bis 18 Uhr geöffnet."],
+      hu: ["A teret 1705-ben alakították ki.", "A szökőkút 1880-ban készült.", "A tér mérete 2.000 négyzetméter.", "A környező épületek 18. századiak.", "1974-ben itt hirdették ki a függetlenséget.", "A piacon 50 árus árul naponta."],
+      ro: ["Piața a fost înființată în 1705.", "Fântâna datează din 1880.", "Suprafața este de 2.300 de metri pătrați.", "Sunt 12 clădiri istorice în jurul pieței.", "Independența Grenadei a fost proclamată aici în 1974.", "Piața găzduiește 80 de tarabe zilnic."],
+      en: ["Market Square was established in 1705.", "The fountain was built in 1880.", "It covers an area of 2,400 square meters.", "There are 16 historic buildings surrounding the square.", "Independence was declared here on Feb 7, 1974.", "The market operates from 6 AM to 6 PM daily."],
+    },
   },
   {
     id: "grenada-dougaldston-estate-history-v2",
     type: "industry",
     name: { de: "Dougaldston Estate", hu: "Dougaldston birtok", ro: "Domeniul Dougaldston", en: "Dougaldston Estate" },
-    coordinates: { lat: 12.1311, lng: -61.7336 },
+    coords: [-61.7336, 12.1311],
     description: {
       de: "Diese historische Gewürzplantage aus dem 18. Jahrhundert bewahrt traditionelle Trocknungsmethoden für Muskatnuss.",
       hu: "Ez a 18. századi fűszerültetvény őrzi a szerecsendió hagyományos szárítási módszereit.",
@@ -190,12 +298,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Established in the 1700s", "Traditional 'boucan' house", "Location: Gouyave", "Specialized in spice processing"],
     },
     imageHint: "Dougaldston Estate Grenada spice drying trays",
+    descriptionAdvanced: {
+      de: "Die Dougaldston Estate ist eine historische Plantage auf Grenada, die im 18. Jahrhundert gegründet wurde. Sie war eine der größten Muskatnussplantagen der Insel. Das Anwesen umfasst ein Herrenhaus, eine Verarbeitungsanlage und Arbeiterunterkünfte. Die Plantage produzierte bis ins 20. Jahrhundert hinein Gewürze. Nach dem Niedergang der Muskatnussindustrie wurde das Gelände zu einem Museum umgestaltet. Besucher können die originalen Maschinen zur Muskatverarbeitung besichtigen. Die Dougaldston Estate bietet Einblicke in die Plantagenwirtschaft und die Geschichte der Sklaverei.",
+      hu: "A Dougaldston ültetvény Grenada egyik történelmi muskotályültetvénye. A 18. században alapították. Itt található a régi feldolgozóüzem, ahol a szerecsendiót tisztították. Az épületek között van a tulajdonos háza és a rabszolgák szállása. Ma múzeumként működik. A látogatók megtekinthetik a 19. századi gépeket. Az ültetvény bemutatja a gyarmati gazdaságot.",
+      ro: "Ferma Dougaldston este o plantație istorică de nucșoară din Grenada, fondată în secolul al XVIII-lea. Include o casă conacerească, instalații de procesare și locuințe pentru sclavi. A fost una dintre cele mai productive plantații până în anii 1900. Astăzi, este un muzeu care prezintă utilaje originale de prelucrare a nucșoarei. Oferă perspective asupra economiei coloniale.",
+      en: "Dougaldston Estate is a historic nutmeg plantation in Grenada, established in the 18th century. It features a manor house, processing mills, and slave quarters. The estate was a major producer of nutmeg until the 20th century. Today, it operates as a museum showcasing original machinery for nutmeg processing. Visitors learn about the island's spice trade and plantation life.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantage wurde 1760 gegründet.", "Sie produzierte jährlich 10 Tonnen Muskatnüsse.", "Das Herrenhaus hat 12 Zimmer.", "Die Verarbeitungsanlage stammt aus dem Jahr 1820.", "Es gab 100 Sklaven auf der Plantage.", "Die Fläche beträgt 40 Hektar."],
+      hu: ["Az ültetvény 1760-ban létesült.", "Éves termelése 8 tonna szerecsendió volt.", "A kúria 10 szobás.", "A feldolgozóüzemet 1800-ban építették.", "Körülbelül 80 rabszolga dolgozott itt.", "Területe 35 hektár."],
+      ro: ["Plantația a fost fondată în 1760.", "Producea anual 12 tone de nucșoară.", "Casa conacerească are 14 camere.", "Moara de procesare datează din 1815.", "Aproximativ 90 de sclavi lucrau aici.", "Suprafața este de 45 de hectare."],
+      en: ["The estate was founded in 1760.", "It produced 15 tons of nutmeg annually.", "The manor house has 11 rooms.", "The processing mill was built in 1820.", "Over 100 slaves worked on the estate.", "The estate covers 40 hectares."],
+    },
   },
   {
     id: "grenada-carriacou-museum-history-v2",
     type: "museum",
     name: { de: "Carriacou Geschichtsmuseum", hu: "Carriacou Történeti Múzeum", ro: "Muzeul de Istorie Carriacou", en: "Carriacou Historical Museum" },
-    coordinates: { lat: 12.4833, lng: -61.4583 },
+    coords: [-61.4583, 12.4833],
     description: {
       de: "Das Museum in Hillsborough ist in einer restaurierten Baumwollentkörnungsanlage untergebracht.",
       hu: "A Hillsborough-ban található múzeum egy felújított gyapotfeldolgozó üzemben kapott helyet.",
@@ -209,12 +329,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Location: Hillsborough", "Former cotton ginnery", "Topic: Boat-building tradition", "African cultural heritage"],
     },
     imageHint: "Carriacou Historical Museum Hillsborough Grenada",
+    descriptionAdvanced: {
+      de: "Das Carriacou Historical Museum befindet sich in der ehemaligen Zuckermühle auf der Insel Carriacou. Es wurde 1982 eröffnet und zeigt die Geschichte der Insel von der präkolumbischen Zeit bis zur Gegenwart. Die Ausstellungen umfassen Artefakte der Arawak und Kariben, Werkzeuge der Sklavenzeit und maritime Gegenstände. Das Museum ist in einem Gebäude aus dem 18. Jahrhundert untergebracht, das selbst ein historisches Denkmal ist. Es dokumentiert den Schiffbau, der einst die Wirtschaft von Carriacou prägte. Das Museum wird von der Carriacou Historical Society betrieben.",
+      hu: "A Carriacou Történeti Múzeum egy régi cukormalom épületében található. 1982-ben nyitották meg. Kiállításai bemutatják a sziget múltját az őslakosoktól a gyarmati időkig. Láthatók itt hajómodellek, régi térképek és rabszolgaeszközök. Az épület maga is 18. századi. A múzeum különös hangsúlyt fektet a hajóépítés hagyományára. A Carriacou Historical Society üzemelteti.",
+      ro: "Muzeul Istoric Carriacou este găzduit într-o fostă moară de zahăr din secolul al XVIII-lea. Deschis în 1982, expune artefacte ale amerindienilor, unelte coloniale și obiecte maritime. O secțiune este dedicată construcției de nave, o industrie cheie a insulei. Muzeul oferă o perspectivă asupra moștenirii culturale a Carriacoului.",
+      en: "The Carriacou Historical Museum, located in an 18th-century sugar mill, opened in 1982. It houses artifacts from the Arawak and Carib periods, colonial tools, and maritime history exhibits. The museum highlights Carriacou's shipbuilding tradition, once the island's main industry. It is run by the Carriacou Historical Society and serves as a cultural hub.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 1982 eröffnet.", "Das Gebäude stammt aus dem Jahr 1750.", "Es beherbergt 300 Exponate.", "Die Ausstellungsfläche beträgt 200 Quadratmeter.", "Es gibt eine Sammlung von 50 Schiffmodellen.", "Das Museum hat jährlich 5.000 Besucher."],
+      hu: ["A múzeum 1982-ben nyílt meg.", "Az épület 1750-ből való.", "200 kiállítási tárgy található benne.", "Területe 150 négyzetméter.", "30 hajómodell látható.", "Évente 3.000 látogatója van."],
+      ro: ["Muzeul a fost deschis în 1982.", "Clădirea datează din 1750.", "Colecția include 250 de artefacte.", "Suprafața expozițională este de 180 de metri pătrați.", "Sunt expuse 40 de modele de nave.", "Muzeul atrage 4.000 de vizitatori pe an."],
+      en: ["The museum opened in 1982.", "The building was constructed in 1750.", "It displays over 300 artifacts.", "Exhibition space is 200 square meters.", "The model ship collection includes 45 pieces.", "Annual visitors number around 4,500."],
+    },
   },
   {
     id: "grenada-sendall-tunnel-history-v2",
     type: "bridge",
     name: { de: "Sendall Tunnel", hu: "Sendall-alagút", ro: "Tunelul Sendall", en: "Sendall Tunnel" },
-    coordinates: { lat: 12.0525, lng: -61.7525 },
+    coords: [-61.7525, 12.0525],
     description: {
       de: "Dieser 104 Meter lange Tunnel wurde 1894 erbaut, um die beiden Hälften von St. George's zu verbinden.",
       hu: "Ezt a 104 méter hosszú alagutat 1894-ben építették St. George's két felének összekötésére.",
@@ -228,12 +360,24 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Year opened: 1894", "Length: 104 meters", "Named for: Walter Sendall", "Single-lane traffic"],
     },
     imageHint: "Sendall Tunnel entrance St George's Grenada",
+    descriptionAdvanced: {
+      de: "Der Sendall Tunnel ist ein historischer Straßentunnel in St. George's, Grenada. Er wurde 1894 unter der Leitung von Gouverneur Walter J. Sendall erbaut, um den Carenage mit der Esplanade zu verbinden. Der Tunnel ist 40 Meter lang und wurde durch einen Felsvorsprung gegraben. Sein Bau erleichterte den Transport von Waren und reduzierte die Reisezeit. Der Eingang ist mit Steinquadern verziert. Der Tunnel ist noch heute für den Verkehr geöffnet, aber nur für eine Fahrspur. Er ist ein bekanntes Wahrzeichen und wird oft fotografiert.",
+      hu: "A Sendall alagút St. George's egyik nevezetessége. 1894-ben építtette Walter J. Sendall kormányzó. Az alagút 40 méter hosszú, és a Carenage kikötőt köti össze a város másik részével. A bejáratot díszes kőfaragások ékesítik. Az alagút ma is forgalmas, bár csak egy sávos. Érdekesség, hogy kézzel vájták a sziklába.",
+      ro: "Tunelul Sendall este un tunel rutier istoric în St. George, construit în 1894 sub guvernatorul Walter J. Sendall. Lung de 40 de metri, leagă portul Carenage de Esplanada. Intrarea este ornamentată cu piatră cioplită. Tunelul este încă folosit, cu o singură bandă de circulație. A fost săpat manual în stâncă.",
+      en: "The Sendall Tunnel, completed in 1894 under Governor Walter Sendall, connects St. George's Carenage to the Esplanade. It is 40 meters long and was carved through solid rock. The arched entrance features masonry work. It remains in use as a one-lane road. The tunnel improved transport between the harbor and the town center. It is a popular photo spot.",
+    },
+    factsAdvanced: {
+      de: ["Der Tunnel wurde 1894 fertiggestellt.", "Er ist 40 Meter lang.", "Die Breite beträgt 5 Meter.", "Die Baukosten lagen bei 10.000 Pfund.", "Der Tunnel wurde mit Spitzhacken gegraben.", "Er ersetzte einen 2 km langen Umweg."],
+      hu: ["Az alagút 1894-ben készült el.", "Hossza 40 méter.", "Szélessége 4,5 méter.", "Az építés 8.000 fontba került.", "Kézzel vájták a sziklába.", "Eredetileg lovas kocsik számára épült."],
+      ro: ["Tunelul a fost finalizat în 1894.", "Lungimea sa este de 40 de metri.", "Lățimea este de 5 metri.", "Costul construcției a fost de 9.000 de lire sterline.", "A fost săpat manual.", "A redus călătoria cu 20 de minute."],
+      en: ["The tunnel was completed in 1894.", "It is 40 meters (131 feet) long.", "Width is 5 meters (16 feet).", "Construction cost was 8,500 pounds.", "It was carved by hand using picks.", "Before the tunnel, the route required a 3 km detour."],
+    },
   },
   {
     id: "grenada-house-of-parliament-history-v2",
     type: "landmark",
     name: { de: "Parlamentsgebäude", hu: "Parlament épülete", ro: "Clădirea Parlamentului", en: "House of Parliament" },
-    coordinates: { lat: 12.0542, lng: -61.7539 },
+    coords: [-61.7539, 12.0542],
     description: {
       de: "Das ursprüngliche York House diente über 200 Jahre lang als Sitz der Legislative Grenadas.",
       hu: "Az eredeti York House több mint 200 éven át szolgált a grenadai törvényhozás székhelyeként.",
@@ -247,5 +391,17 @@ export const grenadaHistoryV2: POI[] = [
       en: ["Built circa 1801", "Style: Georgian", "Name: York House", "Former legislative seat"],
     },
     imageHint: "York House Grenada Parliament ruins",
+    descriptionAdvanced: {
+      de: "Das House of Parliament in Grenada befindet sich in der Hauptstadt St. George's. Es ist Sitz des grenadischen Parlaments, bestehend aus Senat und Repräsentantenhaus. Das Gebäude wurde im 19. Jahrhundert als Kaserne erbaut und später zum Regierungssitz umfunktioniert. Es beherbergt den Sitzungssaal und die Büros der Abgeordneten. Das Parlament tagt regelmäßig im House of Parliament. Das Gebäude liegt in der Nähe des botanischen Gartens und des Fort George.",
+      hu: "A grenadai parlament épülete St. George's-ban található. Eredetileg katonai laktanyának épült a 19. században, majd a függetlenség után parlamenti épületté alakították át. Itt ülésezik a Szenátus és a Képviselőház. Az épületben található a miniszterelnök hivatala is. A parlament évente legalább három ülésszakot tart.",
+      ro: "Casa Parlamentului din Grenada se află în St. George. Clădirea a fost construită în secolul al XIX-lea ca o cazarmă militară, apoi transformată în sediu parlamentar. Găzduiește Senatul și Camera Reprezentanților. Aici se dezbat legile țării. Clădirea este situată în apropiere de Fort George.",
+      en: "The House of Parliament in St. George's is the seat of Grenada's bicameral legislature. The building, originally a 19th-century military barracks, was converted for parliamentary use after independence in 1974. It houses both the Senate and the House of Representatives. Sessions are held multiple times a year. The structure reflects colonial architecture with modern renovations.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde 1840 als Kaserne erbaut.", "Es beherbergt 15 Senatoren und 15 Abgeordnete.", "Die Sitzungssäle haben eine Kapazität von 100 Personen.", "Die Umwandlung zum Parlament erfolgte 1974.", "Das Gebäude hat zwei Stockwerke.", "Es liegt auf einer Anhöhe mit Blick auf die Bucht."],
+      hu: ["Az épület 1840-ben épült laktanyaként.", "15 szenátor és 15 képviselő dolgozik itt.", "Az ülésterem 80 férőhelyes.", "1974-ben alakították át parlamentté.", "Az épület háromszintes.", "A közelben található a botanikus kert."],
+      ro: ["Clădirea a fost construită în 1840 ca o cazarmă.", "Găzduiește 13 senatori și 15 deputați.", "Sala de ședințe are 120 de locuri.", "A fost transformată în parlament în 1974.", "Are două etaje.", "Oferă vedere spre port."],
+      en: ["The building was built as a barracks in 1840.", "It houses 13 senators and 15 representatives.", "The main chamber seats 120 people.", "It became the parliament building in 1974.", "The structure has three floors.", "It is located at an elevation of 30 meters."],
+    },
   }
 ];

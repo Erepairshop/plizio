@@ -646,7 +646,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-pulau-siarau-life-v2",
     type: "wildlife",
     name: { de: "Insel Pulau Siarau", hu: "Siarau-sziget", ro: "Insula Pulau Siarau", en: "Pulau Siarau" },
-    coordinates: { lat: 4.8322, lng: 114.9315 },
+    coords: [114.9315, 4.8322],
     description: {
       de: "Diese Insel im Brunei-Fluss ist ein wichtiges Schutzgebiet für Nasenaffen. Die dichten Mangroven bieten ideale Bedingungen für Beobachtungen.",
       hu: "Ez a Brunei-folyóban található sziget a nagyorrú majmok egyik legfontosabb menedéke. Sűrű mangroveerdői ideálisak a főemlősök megfigyelésére.",
@@ -677,7 +677,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-pulau-ranggu-life-v2",
     type: "wildlife",
     name: { de: "Insel Pulau Ranggu", hu: "Ranggu-sziget", ro: "Insula Pulau Ranggu", en: "Pulau Ranggu" },
-    coordinates: { lat: 4.8515, lng: 114.9122 },
+    coords: [114.9122, 4.8515],
     description: {
       de: "Eine strategisch wichtige Insel für die lokale Fauna nahe des Präsidentenpalastes. Sie dient als Ruheplatz für große Kolonien von Fledermäusen.",
       hu: "A palota közelében fekvő sziget stratégiai fontosságú a helyi fauna számára. Hatalmas repülőkutya-kolóniák kedvelt pihenőhelye.",
@@ -708,7 +708,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-badas-peat-swamp-life-v2",
     type: "forest",
     name: { de: "Badas Torfmoor-Sumpf", hu: "Badas tőzegmocsár", ro: "Mlaștina de turbă Badas", en: "Badas Peat Swamp" },
-    coordinates: { lat: 4.5758, lng: 114.4085 },
+    coords: [114.4085, 4.5758],
     description: {
       de: "Eines der besterhaltenen Torfmoor-Ökosysteme in Südostasien. Hier leben seltene Pflanzenarten und spezialisierte tropische Tierarten.",
       hu: "Délkelet-Ázsia egyik legjobb állapotban megőrzött tőzegmocsara. Ritka növényfajoknak és speciális trópusi állatoknak ad otthont.",
@@ -739,7 +739,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-sungai-damit-life-v2",
     type: "wildlife",
     name: { de: "Sungai Damit Feuchtgebiet", hu: "Sungai Damit vizes élőhely", ro: "Zona umedă Sungai Damit", en: "Sungai Damit Wetland" },
-    coordinates: { lat: 4.7825, lng: 114.6548 },
+    coords: [114.6548, 4.7825],
     description: {
       de: "Diese Feuchtgebiete sind ein Paradies für Ornithologen im Distrikt Tutong. Sie beherbergen zahlreiche wandernde und endemische Vogelarten.",
       hu: "Ez a vizes élőhely az ornitológusok paradicsoma Tutong körzetében. Számos vándorló és endemikus madárfajnak ad otthont.",
@@ -770,7 +770,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-muara-mangroves-life-v2",
     type: "forest",
     name: { de: "Muara Mangrovenwald", hu: "Muara mangroveerdő", ro: "Pădurea de mangrove Muara", en: "Muara Mangrove Forest" },
-    coordinates: { lat: 4.9958, lng: 115.0425 },
+    coords: [115.0425, 4.9958],
     description: {
       de: "Ein vitales Küstenökosystem, das als Kinderstube für viele Meeresbewohner dient. Es schützt die Küstenlinie und beherbergt spezialisierte Fauna.",
       hu: "Létfontosságú parti ökoszisztéma, amely számos tengeri faj bölcsőjeként szolgál. Védi a partvonalat és speciális faunának ad otthont.",
@@ -801,7 +801,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-kuala-belalong-field-centre-life-v2",
     type: "university",
     name: { de: "Kuala Belalong Forschungszentrum", hu: "Kuala Belalong kutatóközpont", ro: "Centrul de cercetare Kuala Belalong", en: "Kuala Belalong Field Centre" },
-    coordinates: { lat: 4.5452, lng: 115.1558 },
+    coords: [115.1558, 4.5452],
     description: {
       de: "Ein weltweit renommiertes Zentrum für die Erforschung der tropischen Biodiversität. Es bietet Zugang zu unberührtem primärem Regenwald.",
       hu: "A trópusi biodiverzitás kutatásának világhírű központja. Hozzáférést biztosít az érintetlen elsődleges esőerdőkhöz.",
@@ -832,7 +832,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-meragang-turtle-hatchery-life-v2",
     type: "wildlife",
     name: { de: "Meragang Schildkröten-Station", hu: "Meragang teknősnevelde", ro: "Centrul de țestoase Meragang", en: "Meragang Turtle Hatchery" },
-    coordinates: { lat: 5.0185, lng: 115.0212 },
+    coords: [115.0212, 5.0185],
     description: {
       de: "Diese Einrichtung widmet sich dem Schutz bedrohter Meeresschildkröten an Bruneis Küste. Sie verwaltet Nester und schützt die Jungtiere.",
       hu: "Ez az intézmény a veszélyeztetett tengeri teknősök védelmére szakosodott Brunei partjainál. Kezeli a fészkeket és védi a kicsinyeket.",
@@ -863,7 +863,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-wasai-wong-kadir-life-v2",
     type: "park",
     name: { de: "Wasai Wong Kadir Florazone", hu: "Wasai Wong Kadir flórazóna", ro: "Zona de floră Wasai Wong Kadir", en: "Wasai Wong Kadir Flora Zone" },
-    coordinates: { lat: 4.3412, lng: 114.4625 },
+    coords: [114.4625, 4.3412],
     description: {
       de: "Ein Waldgebiet um einen Wasserfall, das für seine außergewöhnliche botanische Vielfalt bekannt ist. Besonders Orchideen und Moose gedeihen hier.",
       hu: "Egy vízesés körüli erdős terület, amely kivételes botanikai diverzitásáról híres. Különösen az orchideák és mohák virágoznak itt.",
@@ -894,7 +894,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-bukit-sawat-life-v2",
     type: "wildlife",
     name: { de: "Bukit Sawat Wildtierhabitat", hu: "Bukit Sawat vadvilág", ro: "Habitatul Bukit Sawat", en: "Bukit Sawat Wildlife Habitat" },
-    coordinates: { lat: 4.4535, lng: 114.4278 },
+    coords: [114.4278, 4.4535],
     description: {
       de: "Ein abgelegenes Dschungelgebiet, das als Rückzugsort für seltene Säugetiere des Borneo-Regenwalds dient. Es ist reich an unberührter Flora.",
       hu: "Egy távoli dzsungelrész, amely a borneói esőerdő ritka emlőseinek menedékhelyeként szolgál. Érintetlen flórában rendkívül gazdag.",
@@ -925,7 +925,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-sungai-tutong-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Sungai Tutong Feuchtgebiete", hu: "Sungai Tutong vizes élőhelyek", ro: "Zonele umede Sungai Tutong", en: "Sungai Tutong Wetlands" },
-    coordinates: { lat: 4.7558, lng: 114.6082 },
+    coords: [114.6082, 4.7558],
     description: {
       de: "Dieses Mündungsgebiet ist ein bedeutendes Zentrum für die aquatische Biodiversität. Es beherbergt Krokodile und zahlreiche Wasservögel.",
       hu: "Ez a torkolati terület az aquatikus biodiverzitás jelentős központja. Krokodiloknak és számos vízimadárnak ad otthont.",
@@ -956,7 +956,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-tanjong-pelumpong-life-v2",
     type: "wildlife",
     name: { de: "Tanjong Pelumpong Vogelzone", hu: "Tanjong Pelumpong madárzóna", ro: "Zona de păsări Tanjong Pelumpong", en: "Tanjong Pelumpong Bird Area" },
-    coordinates: { lat: 5.0425, lng: 115.1152 },
+    coords: [115.1152, 5.0425],
     description: {
       de: "Diese Landzunge ist ein kritischer Stopover für Zugvögel auf der ostasiatisch-australasiatischen Flugroute. Sie bietet Busch- und Strandhabitate.",
       hu: "Ez a földnyelv kritikus pihenőhely a vándorló madaraknak a kelet-ázsiai-ausztráliai útvonalon. Parti bozótos és homokos élőhelyeket kínál.",
@@ -987,7 +987,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-bukit-biang-life-v2",
     type: "forest",
     name: { de: "Bukit Biang Flora-Reservat", hu: "Bukit Biang flórarezervátum", ro: "Rezervația de floră Bukit Biang", en: "Bukit Biang Flora Reserve" },
-    coordinates: { lat: 4.7885, lng: 115.1325 },
+    coords: [115.1325, 4.7885],
     description: {
       de: "Die Hänge dieses Hügels sind mit Dipterocarp-Wäldern bedeckt, die Makaken und farbenfrohen Pittas einen Lebensraum bieten. Ein Paradies für Botaniker.",
       hu: "A domb lejtőit dipterocarpus erdők borítják, amelyek makákóknak és színes pitta-madaraknak adnak otthont. Botanikusok paradicsoma.",
@@ -1018,7 +1018,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-sungai-pandaruan-life-v2",
     type: "river",
     name: { de: "Sungai Pandaruan Wildtierkorridor", hu: "Sungai Pandaruan vadfolyosó", ro: "Coridorul de faună Sungai Pandaruan", en: "Sungai Pandaruan Wildlife Zone" },
-    coordinates: { lat: 4.7312, lng: 115.0258 },
+    coords: [115.0258, 4.7312],
     description: {
       de: "Dieser Grenzfluss dient als wichtiger Korridor für Wildtiere zwischen den Wäldern. Eisvögel und Adler werden hier häufig bei der Jagd beobachtet.",
       hu: "Ez a határfolyó fontos folyosóként szolgál a vadon élő állatok számára az erdők között. Jégmadarak és sasok gyakran vadásznak itt.",
@@ -1049,7 +1049,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-pulau-berambang-life-v2",
     type: "wildlife",
     name: { de: "Pulau Berambang Naturgebiet", hu: "Pulau Berambang természetvédelmi terület", ro: "Zona naturală Pulau Berambang", en: "Pulau Berambang Nature Area" },
-    coordinates: { lat: 4.8552, lng: 114.9725 },
+    coords: [114.9725, 4.8552],
     description: {
       de: "Eine große Insel gegenüber der Hauptstadt, die für ihre Fledermaushöhlen bekannt ist. Sie spielt eine Schlüsselrolle bei der Bestäubung im Ökosystem.",
       hu: "A fővárossal szemben fekvő nagy sziget, amely denevérbarlangjairól ismert. Kulcsszerepet játszik az ökoszisztéma beporzásában.",
@@ -1080,7 +1080,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-pulau-chermin-life-v2",
     type: "wildlife",
     name: { de: "Pulau Chermin Meeresleben", hu: "Pulau Chermin tengeri élet", ro: "Viața marină Pulau Chermin", en: "Pulau Chermin Coastal Life" },
-    coordinates: { lat: 4.9228, lng: 114.9912 },
+    coords: [114.9912, 4.9228],
     description: {
       de: "Die Riffe und felsigen Ufer dieser Insel werden von verschiedenen Weichtieren und Korallenfischen bewohnt. Ein Einblick in die marine Biodiversität.",
       hu: "A sziget körüli zátonyokon és sziklás partokon különféle puhatestűek és korallsügérek élnek. Betekintést nyújt a tengeri biodiverzitásba.",
@@ -1111,7 +1111,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-sungai-emas-life-v2",
     type: "river",
     name: { de: "Sungai Emas Uferzone", hu: "Sungai Emas folyóparti élőhely", ro: "Zona riverană Sungai Emas", en: "Sungai Emas Riparian Zone" },
-    coordinates: { lat: 4.8052, lng: 114.7025 },
+    coords: [114.7025, 4.8052],
     description: {
       de: "Diese Uferzone ist reich an Amphibien und Libellen, was den guten Zustand des lokalen Süßwassersystems widerspiegelt. Die dichte Vegetation bietet Schutz.",
       hu: "Ez a folyóparti zóna gazdag kétéltűekben és szitakötőkben, ami a helyi édesvízi rendszer egészségét tükrözi. A sűrű növényzet védelmet nyújt.",
@@ -1142,7 +1142,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-bukit-udal-life-v2",
     type: "wildlife",
     name: { de: "Bukit Udal Naturzone", hu: "Bukit Udal természetvédelmi zóna", ro: "Zona naturală Bukit Udal", en: "Bukit Udal Nature Zone" },
-    coordinates: { lat: 4.7082, lng: 114.6512 },
+    coords: [114.6512, 4.7082],
     description: {
       de: "Ein Hotspot für Schmetterlinge, in dem zahlreiche Arten wie der spektakuläre Rajah Brooke's Vogelfalter leben. Der Wald ist reich an Blütenpflanzen.",
       hu: "A pillangók egyik gyűjtőhelye, ahol számos faj él, köztük a látványos Rajah Brooke pillangó. Az erdő gazdag virágzó növényekben.",
@@ -1173,7 +1173,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-luagan-kandar-life-v2",
     type: "lake",
     name: { de: "Luagan Kandar Feuchtgebiet", hu: "Luagan Kandar vizes élőhely", ro: "Zona umedă Luagan Kandar", en: "Luagan Kandar Wetland" },
-    coordinates: { lat: 4.6025, lng: 114.5052 },
+    coords: [114.5052, 4.6025],
     description: {
       de: "Dieser flache See und die umliegenden Sümpfe unterstützen eine Vielzahl von Süßwasserfischen und Watvögeln. Ein ruhiger Ort für Naturliebhaber.",
       hu: "Ez a sekély tó és a környező mocsarak számos édesvízi halnak és gázlómadárnak adnak otthont. Nyugodt hely a természetkedvelőknek.",
@@ -1204,7 +1204,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "brunei-sungai-ingei-life-v2",
     type: "wildlife",
     name: { de: "Sungai Ingei Schutzgebiet", hu: "Sungai Ingei védett terület", ro: "Zona de conservare Sungai Ingei", en: "Sungai Ingei Conservation Area" },
-    coordinates: { lat: 4.1552, lng: 114.7125 },
+    coords: [114.7125, 4.1552],
     description: {
       de: "Im abgelegenen Süden gelegen, schützt dieses Reservat einige der unberührtesten Primärwälder des Landes. Es ist ein Zufluchtsort für große Säugetiere.",
       hu: "A távoli délen fekvő rezervátum az ország legérintetlenebb őserdeit védi. Fontos menedékhely a nagytestű emlősök számára.",

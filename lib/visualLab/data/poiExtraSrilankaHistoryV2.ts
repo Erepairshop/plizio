@@ -546,7 +546,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-panduwasnuwara-history-v2",
     type: "ruins",
     name: { de: "Panduwasnuwara", hu: "Panduwasnuwara", ro: "Panduwasnuwara", en: "Panduwasnuwara" },
-    coordinates: { lat: 7.662, lng: 80.015 },
+    coords: [80.015, 7.662],
     description: {
       de: "Diese Ruinenstätte war im 12. Jahrhundert die erste Hauptstadt des Königreiches von Polonnaruwa unter Parakramabahu I.",
       hu: "Ez a romterület a 12. században Polonnaruwa királyságának első fővárosaként szolgált I. Parakramabahu uralkodása alatt.",
@@ -565,7 +565,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-aukana-buddha-history-v2",
     type: "monument",
     name: { de: "Aukana Buddha-Statue", hu: "Aukana Buddha-szobor", ro: "Statuia Buddha din Aukana", en: "Aukana Buddha Statue" },
-    coordinates: { lat: 8.016, lng: 80.513 },
+    coords: [80.513, 8.016],
     description: {
       de: "Diese monumentale Steinstatue aus dem 5. Jahrhundert wurde aus einer massiven Granitwand gehauen und ist fast 12 Meter hoch.",
       hu: "Ez az 5. századi monumentális kőszobor egyetlen gránittömbből lett kifaragva, magassága eléri a 12 métert.",
@@ -584,7 +584,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-tissamaharama-stupa-history-v2",
     type: "landmark",
     name: { de: "Tissamaharama Stupa", hu: "Tissamaharama sztúpa", ro: "Stupa Tissamaharama", en: "Tissamaharama Stupa" },
-    coordinates: { lat: 6.282, lng: 81.286 },
+    coords: [81.286, 6.282],
     description: {
       de: "Dieser im 2. Jahrhundert v. Chr. errichtete Stupa war das religiöse Zentrum des alten Königreichs Ruhuna im Süden Sri Lankas.",
       hu: "Ez az i. e. 2. században épült sztúpa az ősi déli Ruhuna királyság vallási központjaként szolgált.",
@@ -603,7 +603,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-buduruwagala-rock-history-v2",
     type: "ruins",
     name: { de: "Buduruwagala-Felsen", hu: "Buduruwagala-szikla", ro: "Stânca Buduruwagala", en: "Buduruwagala Rock" },
-    coordinates: { lat: 6.685, lng: 81.082 },
+    coords: [81.082, 6.685],
     description: {
       de: "Dieser Ort beherbergt sieben Mahayana-buddhistische Skulpturen aus dem 10. Jahrhundert, die direkt in die Felswand gehauen wurden.",
       hu: "Ezen a helyszínen hét 10. századi mahájána buddhista szobor található, amelyeket közvetlenül a sziklafalba faragtak.",
@@ -622,7 +622,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-maligawila-statues-history-v2",
     type: "monument",
     name: { de: "Maligawila-Statuen", hu: "Maligawila-szobrok", ro: "Statuile din Maligawila", en: "Maligawila Statues" },
-    coordinates: { lat: 6.681, lng: 81.241 },
+    coords: [81.241, 6.681],
     description: {
       de: "In Maligawila befindet sich die größte freistehende antike Buddha-Statue Sri Lankas aus dem 7. Jahrhundert.",
       hu: "Maligawila ad otthont Srí Lanka legnagyobb, a 7. századból származó, szabadon álló ókori Buddha-szobrának.",
@@ -641,7 +641,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-lankatilaka-udunuwara-history-v2",
     type: "temple",
     name: { de: "Lankatilaka Udunuwara", hu: "Lankatilaka Udunuwara", ro: "Lankatilaka Udunuwara", en: "Lankatilaka Udunuwara" },
-    coordinates: { lat: 7.234, lng: 80.563 },
+    coords: [80.563, 7.234],
     description: {
       de: "Dieser auf einem Felsen errichtete Tempel aus der Gampola-Ära (14. Jahrhundert) verbindet buddhistische und hinduistische Kultstätten.",
       hu: "Ez a Gampola-korszakból (14. század) származó, sziklára épült templom buddhista és hindu szentélyeket egyesít.",
@@ -660,7 +660,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-gadaladeniya-vihara-history-v2",
     type: "temple",
     name: { de: "Gadaladeniya-Vihara", hu: "Gadaladeniya Vihara", ro: "Gadaladeniya Vihara", en: "Gadaladeniya Vihara" },
-    coordinates: { lat: 7.256, lng: 80.551 },
+    coords: [80.551, 7.256],
     description: {
       de: "Ein historischer buddhistischer Tempel aus dem Jahr 1344, bekannt für seine südindisch inspirierte Steinarchitektur.",
       hu: "Egy 1344-ben épült történelmi buddhista templom, amely dél-indiai ihletésű kőépítészetéről ismert.",
@@ -679,7 +679,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-aluvihare-temple-history-v2",
     type: "temple",
     name: { de: "Aluvihare-Felsentempel", hu: "Aluvihare sziklatemplom", ro: "Templul rupestru Aluvihare", en: "Aluvihare Rock Temple" },
-    coordinates: { lat: 7.485, lng: 80.623 },
+    coords: [80.623, 7.485],
     description: {
       de: "In diesem Höhlentempel wurde im 1. Jahrhundert v. Chr. der buddhistische Pali-Kanon erstmals schriftlich auf Palmblättern festgehalten.",
       hu: "Ebben a sziklatemplomban jegyezték le először írásban, pálmalevelekre a buddhista Páli Kánont az i. e. 1. században.",
@@ -698,7 +698,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-nalanda-gedige-history-v2",
     type: "temple",
     name: { de: "Nalanda Gedige", hu: "Nalanda Gedige", ro: "Nalanda Gedige", en: "Nalanda Gedige" },
-    coordinates: { lat: 7.671, lng: 80.645 },
+    coords: [80.645, 7.671],
     description: {
       de: "Ein einzigartiges Bauwerk aus dem 8. bis 10. Jahrhundert, das hinduistische und buddhistische Architekturstile vereint.",
       hu: "Egy egyedülálló, 8-10. századból származó építmény, amely ötvözi a hindu és a buddhista építészeti stílusokat.",
@@ -717,7 +717,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-medirigiriya-vatadage-history-v2",
     type: "ruins",
     name: { de: "Medirigiriya Vatadage", hu: "Medirigiriya Vatadage", ro: "Medirigiriya Vatadage", en: "Medirigiriya Vatadage" },
-    coordinates: { lat: 8.156, lng: 80.992 },
+    coords: [80.992, 8.156],
     description: {
       de: "Dieses kreisförmige Reliquienhaus aus dem 7. Jahrhundert ist eines der am besten erhaltenen Beispiele dieser Architekturform in Sri Lanka.",
       hu: "Ez a 7. századi kör alakú ereklyetartó ház Srí Lanka egyik legjobb állapotban megmaradt ilyen típusú építménye.",
@@ -736,7 +736,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-fort-hammenhiel-history-v2",
     type: "castle",
     name: { de: "Fort Hammenhiel", hu: "Hammenhiel-erőd", ro: "Fortul Hammenhiel", en: "Fort Hammenhiel" },
-    coordinates: { lat: 9.714, lng: 79.866 },
+    coords: [79.866, 9.714],
     description: {
       de: "Ein kleines Inselfort, das im 17. Jahrhundert von den Portugiesen erbaut und später von den Niederländern erweitert wurde.",
       hu: "Egy kisméretű szigeterőd, amelyet a portugálok építettek a 17. században, majd később a hollandok bővítették ki.",
@@ -755,7 +755,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kalpitiya-fort-history-v2",
     type: "castle",
     name: { de: "Kalpitiya Dutch Fort", hu: "Kalpitiya holland erőd", ro: "Fortul olandez din Kalpitiya", en: "Kalpitiya Dutch Fort" },
-    coordinates: { lat: 8.232, lng: 79.764 },
+    coords: [79.764, 8.232],
     description: {
       de: "Dieses 1667 von den Niederländern erbaute Fort diente der Kontrolle des Zimthandels und des strategischen Hafens von Kalpitiya.",
       hu: "Ezt az 1667-ben épült holland erődöt a fahéjkereskedelem és Kalpitiya stratégiai kikötőjének ellenőrzésére használták.",
@@ -774,7 +774,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-wolvendaal-church-history-v2",
     type: "church",
     name: { de: "Wolvendaal-Kirche", hu: "Wolvendaal-templom", ro: "Biserica Wolvendaal", en: "Wolvendaal Church" },
-    coordinates: { lat: 6.941, lng: 79.854 },
+    coords: [79.854, 6.941],
     description: {
       de: "Die 1749 fertiggestellte Wolvendaal-Kirche ist eines der bedeutendsten Bauwerke der niederländischen Kolonialzeit in Colombo.",
       hu: "Az 1749-ben elkészült Wolvendaal-templom Colombo holland gyarmati korszakának egyik legjelentősebb épülete.",
@@ -793,7 +793,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-richmond-castle-history-v2",
     type: "palace",
     name: { de: "Richmond Castle", hu: "Richmond-kastély", ro: "Castelul Richmond", en: "Richmond Castle" },
-    coordinates: { lat: 6.591, lng: 79.982 },
+    coords: [79.982, 6.591],
     description: {
       de: "Ein prächtiges Herrenhaus aus dem frühen 20. Jahrhundert, das indische und europäische Baustile auf einem 42 Hektar großen Anwesen vereint.",
       hu: "Egy pompás, 20. század eleji kúria, amely indiai és európai építészeti stílusokat ötvöz egy 42 hektáros birtokon.",
@@ -812,7 +812,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-katuwana-fort-history-v2",
     type: "castle",
     name: { de: "Katuwana Dutch Fort", hu: "Katuwana holland erőd", ro: "Fortul olandez Katuwana", en: "Katuwana Dutch Fort" },
-    coordinates: { lat: 6.241, lng: 80.725 },
+    coords: [80.725, 6.241],
     description: {
       de: "Dieses kleine Binnenfort wurde von den Niederländern erbaut, um die Grenze zum Königreich Kandy zu sichern.",
       hu: "Ezt a kis szárazföldi erődöt a hollandok építették, hogy biztosítsák a határt a Kandy Királyság felé.",
@@ -831,7 +831,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-girihandu-seya-history-v2",
     type: "landmark",
     name: { de: "Girihandu Seya", hu: "Girihandu Seya", ro: "Girihandu Seya", en: "Girihandu Seya" },
-    coordinates: { lat: 8.766, lng: 81.025 },
+    coords: [81.025, 8.766],
     description: {
       de: "Dieser Stupa gilt als der älteste in Sri Lanka und soll zu Lebzeiten Buddhas von zwei Kaufleuten errichtet worden sein.",
       hu: "Ez a sztúpa Srí Lanka legősibbje, amelyet a hagyomány szerint két kereskedő épített még Buddha életében.",
@@ -850,7 +850,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-ridi-vihara-history-v2",
     type: "temple",
     name: { de: "Ridi Vihara", hu: "Ridi Vihara", ro: "Ridi Vihara", en: "Ridi Vihara" },
-    coordinates: { lat: 7.562, lng: 80.465 },
+    coords: [80.465, 7.562],
     description: {
       de: "Ein historischer Höhlentempel aus dem 2. Jahrhundert v. Chr., der an der Stelle einer antiken Silbermine errichtet wurde.",
       hu: "Egy i. e. 2. századi történelmi barlangtemplom, amely egy ősi ezüstbánya helyén épült.",
@@ -869,7 +869,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-arankele-monastery-history-v2",
     type: "ruins",
     name: { de: "Arankele-Kloster", hu: "Arankele-kolostor", ro: "Mănăstirea Arankele", en: "Arankele Monastery" },
-    coordinates: { lat: 7.741, lng: 80.395 },
+    coords: [80.395, 7.741],
     description: {
       de: "Die Überreste eines antiken Waldklosters aus dem 6. Jahrhundert, das als Meditationszentrum für Einsiedlermönche diente.",
       hu: "Egy 6. századi ősi erdei kolostor maradványai, amely remete szerzetesek meditációs központjaként szolgált.",
@@ -888,7 +888,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-menikkadawara-fort-history-v2",
     type: "castle",
     name: { de: "Menikkadawara Fort", hu: "Menikkadawara-erőd", ro: "Fortul Menikkadawara", en: "Menikkadawara Fort" },
-    coordinates: { lat: 7.185, lng: 80.265 },
+    coords: [80.265, 7.185],
     description: {
       de: "Ein ehemaliges portugiesisches Erdenfort aus dem späten 16. Jahrhundert, das als wichtiger Außenposten im Landesinneren diente.",
       hu: "Egy korábbi portugál földerőd a 16. század végéről, amely fontos szárazföldi őrhelyként szolgált.",
@@ -907,7 +907,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-pooneryn-fort-history-v2",
     type: "castle",
     name: { de: "Pooneryn Fort", hu: "Pooneryn-erőd", ro: "Fortul Pooneryn", en: "Pooneryn Fort" },
-    coordinates: { lat: 9.492, lng: 80.205 },
+    coords: [80.205, 9.492],
     description: {
       de: "Dieses Fort kontrollierte den Zugang zur Jaffna-Halbinsel und wurde nacheinander von Portugiesen, Niederländern und Briten genutzt.",
       hu: "Ez az erőd ellenőrizte a Jaffna-félszigetre vezető utat, és egymás után portugálok, hollandok, majd britek használták.",
@@ -926,7 +926,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kayts-fort-history-v2",
     type: "castle",
     name: { de: "Kayts Fort", hu: "Kayts-erőd", ro: "Fortul Kayts", en: "Kayts Fort" },
-    coordinates: { lat: 9.682, lng: 79.915 },
+    coords: [79.915, 9.682],
     description: {
       de: "Überreste eines portugiesischen Forts auf der Insel Kayts, das ursprünglich zum Schutz des Hafens errichtet wurde.",
       hu: "Portugál erőd romjai Kayts szigetén, amelyet eredetileg a kikötő védelmére emeltek.",
@@ -945,7 +945,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kudumbigala-monastery-history-v2",
     type: "temple",
     name: { de: "Kudumbigala-Kloster", hu: "Kudumbigala-kolostor", ro: "Mănăstirea Kudumbigala", en: "Kudumbigala Monastery" },
-    coordinates: { lat: 6.645, lng: 81.742 },
+    coords: [81.742, 6.645],
     description: {
       de: "Ein antikes Höhlenkloster aus dem 3. Jahrhundert v. Chr., das in spektakulärer Lage auf Felsgipfeln errichtet wurde.",
       hu: "Egy i. e. 3. századi ősi barlangkolostor, amely látványos környezetben, sziklacsúcsokon épült.",
@@ -964,7 +964,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-neelagiriseya-history-v2",
     type: "ruins",
     name: { de: "Neelagiriseya", hu: "Neelagiriseya", ro: "Neelagiriseya", en: "Neelagiriseya" },
-    coordinates: { lat: 6.842, lng: 81.655 },
+    coords: [81.655, 6.842],
     description: {
       de: "Der größte antike Stupa in der Ostprovinz, der über Jahrhunderte im dichten Dschungel von Lahugala verborgen war.",
       hu: "A keleti tartomány legnagyobb ókori sztúpája, amely évszázadokon át rejtve maradt Lahugala sűrű dzsungelében.",
@@ -983,7 +983,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-magul-maha-vihara-history-v2",
     type: "ruins",
     name: { de: "Magul Maha Vihara", hu: "Magul Maha Vihara", ro: "Magul Maha Vihara", en: "Magul Maha Vihara" },
-    coordinates: { lat: 6.871, lng: 81.675 },
+    coords: [81.675, 6.871],
     description: {
       de: "Ein historisches Kloster, das als Ort der königlichen Hochzeit zwischen König Kavan Tissa und Prinzessin Viharamahadevi gilt.",
       hu: "Történelmi kolostor, amely a hagyomány szerint Kavan Tissa király és Viharamahadevi hercegnő királyi esküvőjének helyszíne volt.",
@@ -1002,7 +1002,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-muhudu-maha-vihara-history-v2",
     type: "temple",
     name: { de: "Muhudu Maha Vihara", hu: "Muhudu Maha Vihara", ro: "Muhudu Maha Vihara", en: "Muhudu Maha Vihara" },
-    coordinates: { lat: 6.755, lng: 81.825 },
+    coords: [81.825, 6.755],
     description: {
       de: "Ein antiker Tempel an der Küste von Pottuvil, der den Ort markiert, an dem Prinzessin Viharamahadevi an Land gespült wurde.",
       hu: "Pottuvil partján fekvő ősi templom, amely azt a helyet jelöli, ahol Viharamahadevi hercegnőt partra vetette a tenger.",
@@ -1021,7 +1021,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-seruwila-mangala-vihara-history-v2",
     type: "temple",
     name: { de: "Seruwila Mangala Vihara", hu: "Seruwila Mangala Vihara", ro: "Seruwila Mangala Vihara", en: "Seruwila Mangala Vihara" },
-    coordinates: { lat: 8.375, lng: 81.315 },
+    coords: [81.315, 8.375],
     description: {
       de: "Ein bedeutender buddhistischer Schrein aus dem 2. Jahrhundert v. Chr., der am Ufer des Verugal Oruwa liegt.",
       hu: "Jelentős buddhista szentély az i. e. 2. századból, amely a Verugal Oruwa partján található.",
@@ -1040,7 +1040,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-somawathiya-stupa-history-v2",
     type: "temple",
     name: { de: "Somawathiya-Stupa", hu: "Somawathiya sztúpa", ro: "Stupa Somawathiya", en: "Somawathiya Stupa" },
-    coordinates: { lat: 8.125, lng: 81.175 },
+    coords: [81.175, 8.125],
     description: {
       de: "Dieser antike Stupa am Mahaweli-Fluss wurde vor über 2.100 Jahren erbaut und beherbergt eine Zahnreliquie.",
       hu: "Ez a Mahaweli-folyó mentén fekvő ősi sztúpa több mint 2100 éve épült, és egy fogereklyét őriz.",
@@ -1059,7 +1059,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-tirukkovil-kovil-history-v2",
     type: "temple",
     name: { de: "Tirukkovil-Kovil", hu: "Tirukkovil-templom", ro: "Templul Tirukkovil", en: "Tirukkovil Kovil" },
-    coordinates: { lat: 7.105, lng: 81.855 },
+    coords: [81.855, 7.105],
     description: {
       de: "Ein historischer Hindutempel an der Ostküste, der dem Gott Murugan geweiht ist und eine lange religiöse Tradition hat.",
       hu: "A keleti parton fekvő történelmi hindu templom, amelyet Murugan istennek szenteltek, és nagy múltú vallási hagyományokkal rendelkezik.",
@@ -1078,7 +1078,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kasagala-vihara-history-v2",
     type: "temple",
     name: { de: "Kasagala Vihara", hu: "Kasagala Vihara", ro: "Kasagala Vihara", en: "Kasagala Vihara" },
-    coordinates: { lat: 6.135, lng: 80.795 },
+    coords: [80.795, 6.135],
     description: {
       de: "Ein alter Tempelkomplex im Süden, der für seine historischen Wandmalereien aus der Kandy-Zeit bekannt ist.",
       hu: "Déli ősi templomkomplexum, amely a Kandy-korszakból származó történelmi falfestményeiről ismert.",
@@ -1097,7 +1097,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-sitawaka-palace-history-v2",
     type: "ruins",
     name: { de: "Sitawaka-Palastruinen", hu: "Sitawaka palotaromok", ro: "Ruinele palatului Sitawaka", en: "Sitawaka Palace Ruins" },
-    coordinates: { lat: 6.955, lng: 80.215 },
+    coords: [80.215, 6.955],
     description: {
       de: "Überreste des Palastes des Königreichs Sitawaka, das im 16. Jahrhundert ein mächtiger Gegner der Portugiesen war.",
       hu: "A Sitawaka Királyság palotájának maradványai, amely a 16. században a portugálok hatalmas ellenfele volt.",
@@ -1116,7 +1116,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kotte-ramparts-history-v2",
     type: "ruins",
     name: { de: "Kotte-Wälle", hu: "Kotte városfalak", ro: "Fortificațiile din Kotte", en: "Kotte Ramparts" },
-    coordinates: { lat: 6.905, lng: 79.915 },
+    coords: [79.915, 6.905],
     description: {
       de: "Überreste der Befestigungsanlagen von Sri Jayawardenepura Kotte, der Hauptstadt Sri Lankas im 15. Jahrhundert.",
       hu: "Srí Jayawardenepura Kotte, Srí Lanka 15. századi fővárosának erődítményrendszeréből megmaradt falszakaszok.",
@@ -1135,7 +1135,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-madu-shrine-history-v2",
     type: "church",
     name: { de: "Madu-Schrein", hu: "Madu-szentély", ro: "Sanctuarul din Madu", en: "Madu Shrine" },
-    coordinates: { lat: 8.855, lng: 80.205 },
+    coords: [80.205, 8.855],
     description: {
       de: "Ein bedeutendes katholisches Heiligtum mit über 400-jähriger Geschichte, das Pilger aller Glaubensrichtungen anzieht.",
       hu: "Több mint 400 éves múltra visszatekintő jelentős katolikus szentély, amely minden vallás hívőit vonzza.",
@@ -1154,7 +1154,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-arippu-doric-house-history-v2",
     type: "ruins",
     name: { de: "Arippu Doric House", hu: "Arippu dór ház", ro: "Casa Dorică din Arippu", en: "Arippu Doric House" },
-    coordinates: { lat: 8.795, lng: 79.915 },
+    coords: [79.915, 8.795],
     description: {
       de: "Die Ruinen der Residenz des ersten britischen Gouverneurs von Ceylon, erbaut im dorischen Stil am Strand von Arippu.",
       hu: "Ceylon első brit kormányzójának dór stílusban épült egykori rezidenciája az Arippu-parton.",
@@ -1173,7 +1173,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-fort-ostenburg-history-v2",
     type: "castle",
     name: { de: "Fort Ostenburg", hu: "Ostenburg-erőd", ro: "Fortul Ostenburg", en: "Fort Ostenburg" },
-    coordinates: { lat: 8.545, lng: 81.235 },
+    coords: [81.235, 8.545],
     description: {
       de: "Ein strategisches Fort am Eingang zum Hafen von Trincomalee, das die inneren Buchten gegen Angriffe vom Meer schützte.",
       hu: "Stratégiai erőd Trincomalee kikötőjének bejáratánál, amely a belső öblöket védte a tengeri támadásoktól.",
@@ -1192,7 +1192,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-maligakanda-reservoir-history-v2",
     type: "industry",
     name: { de: "Maligakanda-Reservoir", hu: "Maligakanda víztározó", ro: "Rezervorul Maligakanda", en: "Maligakanda Reservoir" },
-    coordinates: { lat: 6.935, lng: 79.875 },
+    coords: [79.875, 6.935],
     description: {
       de: "Das erste moderne Wasserreservoir von Colombo, erbaut im späten 19. Jahrhundert zur Versorgung der wachsenden Kolonialstadt.",
       hu: "Colombo első modern víztározója, amely a 19. század végén épült a növekvő gyarmati város ellátására.",
@@ -1211,7 +1211,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-bogambara-prison-history-v2",
     type: "landmark",
     name: { de: "Bogambara-Gefängnis", hu: "Bogambara börtön", ro: "Închisoarea Bogambara", en: "Bogambara Prison" },
-    coordinates: { lat: 7.295, lng: 80.635 },
+    coords: [80.635, 7.295],
     description: {
       de: "Ein historisches Gefängnisgebäude in Kandy, erbaut von den Briten im Jahr 1876 mit einer markanten Architektur.",
       hu: "Történelmi börtönépület Kandyben, amelyet a britek emeltek 1876-ban jellegzetes építészeti stílusban.",
@@ -1230,7 +1230,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-batadombalena-cave-history-v2",
     type: "ruins",
     name: { de: "Batadombalena-Höhle", hu: "Batadombalena-barlang", ro: "Peștera Batadombalena", en: "Batadombalena Cave" },
-    coordinates: { lat: 6.785, lng: 80.385 },
+    coords: [80.385, 6.785],
     description: {
       de: "Eine bedeutende archäologische Stätte, die Beweise für menschliche Siedlungen vor über 28.500 Jahren liefert.",
       hu: "Jelentős régészeti lelőhely, amely több mint 28 500 évvel ezelőtti emberi jelenlétre szolgáltat bizonyítékot.",
@@ -1249,7 +1249,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-pahiyangala-cave-history-v2",
     type: "temple",
     name: { de: "Pahiyangala-Höhle", hu: "Pahiyangala-barlang", ro: "Peștera Pahiyangala", en: "Pahiyangala Cave" },
-    coordinates: { lat: 6.655, lng: 80.215 },
+    coords: [80.215, 6.655],
     description: {
       de: "Die größte natürliche Felshöhle in Sri Lanka, benannt nach dem chinesischen Mönch Faxian, der hier im 5. Jahrhundert verweilte.",
       hu: "Srí Lanka legnagyobb természetes sziklabarlangja, amelyet Faxian kínai szerzetesről neveztek el, aki az 5. században járt itt.",
@@ -1268,7 +1268,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-belilena-cave-history-v2",
     type: "ruins",
     name: { de: "Belilena-Höhle", hu: "Belilena-barlang", ro: "Peștera Belilena", en: "Belilena Cave" },
-    coordinates: { lat: 6.995, lng: 80.445 },
+    coords: [80.445, 6.995],
     description: {
       de: "Eine berühmte prähistorische Höhle bei Kitulgala, die wichtige Erkenntnisse über die Steinzeit auf der Insel lieferte.",
       hu: "Kitulgala közelében található híres történelem előtti barlang, amely fontos ismereteket nyújtott a sziget kőkorszakáról.",
@@ -1287,7 +1287,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-kiralagala-monastery-history-v2",
     type: "ruins",
     name: { de: "Kiralagala-Kloster", hu: "Kiralagala-kolostor", ro: "Mănăstirea Kiralagala", en: "Kiralagala Monastery" },
-    coordinates: { lat: 8.445, lng: 80.605 },
+    coords: [80.605, 8.445],
     description: {
       de: "Die Ruinen eines Padhanaghara-Klosters, das für seine strenge Architektur und das Fehlen jeglicher Ornamente bekannt ist.",
       hu: "Egy Padhanaghara-típusú kolostor romjai, amely puritán építészetéről és a díszítések teljes hiányáról ismert.",
@@ -1306,7 +1306,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-vijithapura-fortress-history-v2",
     type: "battlefield",
     name: { de: "Vijithapura-Festung", hu: "Vijithapura-erődítmény", ro: "Fortăreața Vijithapura", en: "Vijithapura Fortress" },
-    coordinates: { lat: 8.045, lng: 80.525 },
+    coords: [80.525, 8.045],
     description: {
       de: "Der Ort einer legendären Schlacht im 2. Jahrhundert v. Chr. zwischen den Königen Dutugemunu und Elara.",
       hu: "Egy i. e. 2. századi legendás csata helyszíne Dutugemunu és Elara királyok között.",
@@ -1325,7 +1325,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-gurulupotha-archaeological-history-v2",
     type: "ruins",
     name: { de: "Gurulupotha", hu: "Gurulupotha", ro: "Gurulupotha", en: "Gurulupotha" },
-    coordinates: { lat: 7.345, lng: 80.955 },
+    coords: [80.955, 7.345],
     description: {
       de: "Ein archäologisches Areal bei Mahiyangana, das mit der Legende von Rawana und antiker Flugtechnologie (Vimana) verbunden wird.",
       hu: "Mahiyangana közelében fekvő régészeti terület, amelyet Rawana legendájával és ókori repülő szerkezetekkel (Vimana) hoznak összefüggésbe.",
@@ -1344,7 +1344,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-velgam-vehera-history-v2",
     type: "ruins",
     name: { de: "Velgam Vehera", hu: "Velgam Vehera", ro: "Velgam Vehera", en: "Velgam Vehera" },
-    coordinates: { lat: 8.585, lng: 81.165 },
+    coords: [81.165, 8.585],
     description: {
       de: "Ein buddhistischer Tempel aus dem 2. Jahrhundert, der sowohl von Singhalesen als auch von Tamilen über Jahrhunderte verehrt wurde.",
       hu: "Egy 2. századi buddhista templom, amelyet évszázadokon át mind a szingalézek, mind a tamilok tiszteltek.",
@@ -1363,7 +1363,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-rasvehera-rock-history-v2",
     type: "temple",
     name: { de: "Rasvehera Rock Temple", hu: "Rasvehera sziklatemplom", ro: "Templul stâncos Rasvehera", en: "Rasvehera Rock Temple" },
-    coordinates: { lat: 7.995, lng: 80.445 },
+    coords: [80.445, 7.995],
     description: {
       de: "Bekannt für eine unvollendete kolossale Buddha-Statue, die Ähnlichkeiten mit der berühmten Aukana-Statue aufweist.",
       hu: "Egy befejezetlen kolosszális Buddha-szoborról ismert, amely hasonlóságot mutat a híres Aukana-szoborral.",
@@ -1382,7 +1382,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-galmaduwa-vihara-history-v2",
     type: "temple",
     name: { de: "Galmaduwa Vihara", hu: "Galmaduwa Vihara", ro: "Galmaduwa Vihara", en: "Galmaduwa Vihara" },
-    coordinates: { lat: 7.275, lng: 80.665 },
+    coords: [80.665, 7.275],
     description: {
       de: "Ein unvollendeter Steintempel aus dem 18. Jahrhundert, der einen ungewöhnlichen Architekturstil mit hinduistischen Einflüssen zeigt.",
       hu: "Egy 18. századi befejezetlen kőtemplom, amely szokatlan, hindu hatásokat mutató építészeti stílust képvisel.",
@@ -1401,7 +1401,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-hindagala-rock-history-v2",
     type: "temple",
     name: { de: "Hindagala-Felsentempel", hu: "Hindagala sziklatemplom", ro: "Templul stâncos Hindagala", en: "Hindagala Rock Temple" },
-    coordinates: { lat: 7.245, lng: 80.605 },
+    coords: [80.605, 7.245],
     description: {
       de: "Ein antiker Höhlentempel in der Nähe von Peradeniya, der für seine Malereien aus verschiedenen Epochen bekannt ist.",
       hu: "Peradeniya közelében található ősi barlangtemplom, amely különböző korszakokból származó festményeiről ismert.",
@@ -1420,7 +1420,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-degaldoruwa-temple-history-v2",
     type: "temple",
     name: { de: "Degaldoruwa-Tempel", hu: "Degaldoruwa-templom", ro: "Templul Degaldoruwa", en: "Degaldoruwa Temple" },
-    coordinates: { lat: 7.295, lng: 80.665 },
+    coords: [80.665, 7.295],
     description: {
       de: "Ein Höhlentempel aus dem 18. Jahrhundert, der einige der besten Beispiele für Kandy-Stil-Wandmalereien beherbergt.",
       hu: "18. századi barlangtemplom, amely a Kandy-stílusú falfestmények egyik legszebb gyűjteményét őrzi.",
@@ -1439,7 +1439,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-suriyagoda-temple-history-v2",
     type: "temple",
     name: { de: "Suriyagoda-Tempel", hu: "Suriyagoda-templom", ro: "Templul Suriyagoda", en: "Suriyagoda Temple" },
-    coordinates: { lat: 7.265, lng: 80.575 },
+    coords: [80.575, 7.265],
     description: {
       de: "Ein historischer Tempel, in dem die Wiedergeburt des buddhistischen Ordens (Upasampada) im 18. Jahrhundert ihren Anfang nahm.",
       hu: "Történelmi templom, ahol a 18. században megkezdődött a buddhista szerzetesi rend újjáélesztése (Upasampada).",
@@ -1458,7 +1458,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     id: "srilanka-medamahanuwara-ruins-history-v2",
     type: "ruins",
     name: { de: "Medamahanuwara-Ruinen", hu: "Medamahanuwara-romok", ro: "Ruinele Medamahanuwara", en: "Medamahanuwara Ruins" },
-    coordinates: { lat: 7.305, lng: 80.795 },
+    coords: [80.795, 7.305],
     description: {
       de: "Der Ort, an dem der letzte König von Kandy, Sri Wickrama Rajasinghe, 1815 von den Briten gefangen genommen wurde.",
       hu: "A helyszín, ahol 1815-ben a britek elfogták az utolsó Kandy királyt, Srí Wickrama Rajasinghét.",

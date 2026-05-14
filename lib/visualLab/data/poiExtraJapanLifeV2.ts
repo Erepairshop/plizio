@@ -710,7 +710,7 @@ export const poiExtraJapanLifeV2: POI[] = [
     id: "japan-ogasawara-national-park-life-v2",
     type: "park",
     name: { de: "Ogasawara-Nationalpark", hu: "Ogaszavara Nemzeti Park", ro: "Parcul Național Ogasawara", en: "Ogasawara National Park" },
-    coordinates: { lat: 27.0708, lng: 142.2156 },
+    coords: [142.2156, 27.0708],
     description: {
       de: "Dieser abgelegene Nationalpark im Pazifik umfasst die Bonin-Inseln und ist für seine hohe Zahl an endemischen Arten bekannt.",
       hu: "Ez a távoli csendes-óceáni nemzeti park a Bonin-szigeteket foglalja magában, és magas számú endemikus fajáról ismert.",
@@ -724,12 +724,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["UNESCO World Natural Heritage since 2011", "Accessible only by a 24-hour ferry ride", "Home to rare Ogasawara flying foxes", "Important nesting site for green sea turtles"],
     },
     imageHint: "Ogasawara islands turquoise water and cliffs",
+    descriptionAdvanced: {
+      de: "Der Ogasawara-Nationalpark umfasst die Bonin-Inseln, eine abgelegene Inselgruppe etwa 1.000 Kilometer südlich von Tokio. Der Park wurde 1972 gegründet und ist ein UNESCO-Weltnaturerbe (2011). Die Inseln sind vulkanischen Ursprungs und beheimaten viele endemische Arten, darunter die Ogasawara-Fledermaus und den Bonin-Petrel. Die Inseln werden oft als „Galapagos des Ostens“ bezeichnet. Die einzigartige Flora und Fauna hat sich isoliert entwickelt. Der Park umfasst Land- und Meeresflächen. Die Inseln sind für Touristen schwer zugänglich, nur mit Fähre von Tokio aus. Die Bevölkerung konzentriert sich auf die Inseln Chichijima und Hahajima. Die jährliche Besucherzahl ist begrenzt, etwa 20.000 Touristen.",
+      hu: "Az Ogaszavara Nemzeti Park a Bonin-szigeteket foglalja magában, egy elszigetelt szigetcsoportot körülbelül 1000 kilométerre Tokiótól délre. A parkot 1972-ben alapították, és 2011 óta az UNESCO Világörökség része. A szigetek vulkanikus eredetűek, és számos endemikus fajnak adnak otthont, köztük az Ogaszavara-denevér és a Bonin-viharmadár. A szigeteket gyakran „Kelet Galapagosának” nevezik. Az egyedülálló növény- és állatvilág elszigetelten fejlődött. A park szárazföldi és tengeri területeket is magában foglal. A szigetek nehezen megközelíthetőek, csak komppal érhetőek el Tokióból. A lakosság főleg Chichijima és Hahajima szigetére összpontosul. Éves látogatószáma korlátozott, körülbelül 20.000 turista.",
+      ro: "Parcul Național Ogasawara cuprinde Insulele Bonin, un arhipelag izolat la aproximativ 1.000 de kilometri sud de Tokyo. Parcul a fost înființat în 1972 și este Patrimoniu Natural UNESCO (2011). Insulele sunt de origine vulcanică și găzduiesc multe specii endemice, inclusiv liliecul Ogasawara și petrelul Bonin. Insulele sunt adesea numite „Galapagosul Orientului”. Flora și fauna unice s-au dezvoltat izolat. Parcul include zone terestre și marine. Insulele sunt dificil de accesat, doar cu feribotul din Tokyo. Populația este concentrată pe insulele Chichijima și Hahajima. Numărul anual de vizitatori este limitat, aproximativ 20.000 de turiști.",
+      en: "Ogasawara National Park encompasses the Bonin Islands, an isolated archipelago about 1,000 kilometers south of Tokyo. Designated a national park in 1972 and a UNESCO World Natural Heritage Site in 2011, it is renowned for its exceptional biodiversity and high endemism. The islands are volcanic and host species such as the Ogasawara flying fox and the Bonin petrel. Often called the 'Galápagos of the East', the islands' ecosystems evolved in isolation. The park covers both terrestrial and marine areas, including coral reefs and deep-sea environments. Access is limited to a 24-hour ferry ride from Tokyo, with only around 20,000 tourists per year. The main inhabited islands are Chichijima and Hahajima.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr des Parks: 1972", "Entfernung von Tokio: ca. 1.000 km", "UNESCO-Weltnaturerbe seit 2011", "Anzahl endemischer Pflanzenarten: über 200", "Jährliche Besucher: ca. 20.000", "Inseln: 30+ Inseln, 2 bewohnt"],
+      hu: ["Park alapításának éve: 1972", "Távolság Tokiótól: kb. 1000 km", "UNESCO Világörökség 2011 óta", "Endemikus növényfajok száma: több mint 200", "Éves látogatók: kb. 20.000", "Szigetek: több mint 30, 2 lakott"],
+      ro: ["Anul înființării parcului: 1972", "Distanța de Tokyo: aprox. 1.000 km", "Patrimoniu UNESCO din 2011", "Număr de specii de plante endemice: peste 200", "Vizitatori anual: aprox. 20.000", "Insule: peste 30, 2 locuite"],
+      en: ["Park established: 1972", "Distance from Tokyo: approx. 1,000 km", "UNESCO World Heritage (natural) since 2011", "Number of endemic plant species: over 200", "Annual visitors: approx. 20,000", "Islands: over 30, 2 inhabited"],
+    },
   },
   {
     id: "japan-oze-national-park-life-v2",
     type: "park",
     name: { de: "Oze-Nationalpark", hu: "Oze Nemzeti Park", ro: "Parcul Național Oze", en: "Oze National Park" },
-    coordinates: { lat: 36.9314, lng: 139.2319 },
+    coords: [139.2319, 36.9314],
     description: {
       de: "Der Park schützt das Ozegahara-Moor, das größte Hochmoor Japans, und ist berühmt für seine Wanderwege auf Holzplanken.",
       hu: "A park az Ozegahara-mocsarat, Japán legnagyobb magaslati mocsárvidékét védi, és híres fapallós túraútvonalairól.",
@@ -743,12 +755,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Spans across four different prefectures", "Famous for the blooming of white skunk cabbage", "Includes the peak of Mount Shibutsu", "Became an independent national park in 2007"],
     },
     imageHint: "Oze National Park boardwalk marshland",
+    descriptionAdvanced: {
+      de: "Der Oze-Nationalpark in der Region Tohoku ist bekannt für seine ausgedehnten Hochmoorlandschaften, insbesondere das Oze-Feuchtgebiet (Ozegahara). Der Park wurde 1972 gegründet und umfasst eine Fläche von 372 Quadratkilometern. Das Gebiet ist reich an alpiner Flora, darunter die berühmte Nikkō-Kisuge (Hemerocallis dumortieri var. esculenta), die im Sommer blüht. Der Ozegahara-Moor ist das größte Hochmoor Japans. Der Park bietet Wanderwege auf Holzstegen, um die empfindliche Moorvegetation zu schützen. Die höchste Erhebung ist der Berg Hiuchigatake mit 2.356 Metern. Der Park ist auch für seine Wildtiere wie asiatische Schwarzbären und Serau bekannt. Jährlich besuchen etwa 500.000 Menschen den Park.",
+      hu: "Az Oze Nemzeti Park Tohoku régióban található, és híres kiterjedt lápvidékeiről, különösen az Oze-lápról (Ozegahara). A parkot 1972-ben alapították, területe 372 négyzetkilométer. A terület gazdag alpesi növényvilágban, köztük a híres Nikkó-kisuge-ban (Hemerocallis dumortieri var. esculenta), amely nyáron virágzik. Az Ozegahara láp Japán legnagyobb magaslapi lápja. A park fából készült sétányokon át járható, hogy védjék a kényes lápvegetációt. A legmagasabb pont a Hiuchigatake-hegy 2.356 méterrel. A park vadon élő állatai közé tartozik az ázsiai fekete medve és a szarvas. Évente körülbelül 500.000 ember látogatja a parkot.",
+      ro: "Parcul Național Oze din regiunea Tohoku este renumit pentru întinderile sale de mlaștini înalte, în special mlaștina Oze (Ozegahara). Parcul a fost înființat în 1972 și acoperă o suprafață de 372 de kilometri pătrați. Zona este bogată în floră alpină, inclusiv renumita crin Nikkō (Hemerocallis dumortieri var. esculenta), care înflorește vara. Mlaștina Ozegahara este cea mai mare mlaștină înaltă din Japonia. Parcul oferă trasee pe podețe din lemn pentru a proteja vegetația fragilă. Cel mai înalt vârf este Muntele Hiuchigatake, cu 2.356 de metri. Fauna include urși negri asiatici și serow. Aproximativ 500.000 de oameni vizitează parcul anual.",
+      en: "Oze National Park, located in the Tohoku region, is famed for its vast high-altitude marshlands, particularly the Ozegahara wetland. Designated a national park in 1972, it spans 372 square kilometers. The park is renowned for its alpine flora, including the Nikkō daylily (Hemerocallis dumortieri var. esculenta), which blooms in midsummer. Ozegahara is Japan's largest highland marsh, sitting at around 1,400 meters elevation. The park has boardwalk trails to protect the fragile ecosystem. The highest peak is Mount Hiuchigatake at 2,356 meters. Wildlife includes Asian black bears, Japanese serow, and many bird species. The park is popular for hiking, especially during the short summer season, attracting about 500,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr des Parks: 1972", "Fläche: 372 km²", "Höchster Gipfel: Hiuchigatake (2.356 m)", "Größtes Hochmoor Japans: Ozegahara", "Jährliche Besucher: ca. 500.000", "Länge der Holzstege: ca. 60 km"],
+      hu: ["Park alapításának éve: 1972", "Terület: 372 km²", "Legmagasabb csúcs: Hiuchigatake (2.356 m)", "Japán legnagyobb magaslapi lápja: Ozegahara", "Éves látogatók: kb. 500.000", "Fasétányok hossza: kb. 60 km"],
+      ro: ["Anul înființării parcului: 1972", "Suprafață: 372 km²", "Cel mai înalt vârf: Hiuchigatake (2.356 m)", "Cea mai mare mlaștină înaltă din Japonia: Ozegahara", "Vizitatori anual: aprox. 500.000", "Lungimea podețelor din lemn: aprox. 60 km"],
+      en: ["Park established: 1972", "Area: 372 km²", "Highest peak: Hiuchigatake (2,356 m)", "Japan's largest highland marsh: Ozegahara", "Annual visitors: approx. 500,000", "Length of boardwalks: approx. 60 km"],
+    },
   },
   {
     id: "japan-setonaikai-national-park-life-v2",
     type: "wildlife",
     name: { de: "Setonaikai-Nationalpark", hu: "Szetonaikai Nemzeti Park", ro: "Parcul Național Setonaikai", en: "Setonaikai National Park" },
-    coordinates: { lat: 34.3333, lng: 133.5 },
+    coords: [133.5, 34.3333],
     description: {
       de: "Japans erster Nationalpark umfasst weite Teile der Seto-Inlandsee mit tausenden Inseln und vielfältigen Meeresökosystemen.",
       hu: "Japán első nemzeti parkja a Szeto-beltenger nagy részét foglalja magában, több ezer szigettel és változatos tengeri ökoszisztémával.",
@@ -767,7 +791,7 @@ export const poiExtraJapanLifeV2: POI[] = [
     id: "japan-kenrokuen-garden-life-v2",
     type: "park",
     name: { de: "Kenroku-en Garten", hu: "Kenrokuen kert", ro: "Grădina Kenroku-en", en: "Kenrokuen Garden" },
-    coordinates: { lat: 36.5621, lng: 136.6628 },
+    coords: [136.6628, 36.5621],
     description: {
       de: "Einer der drei schönsten Gärten Japans, der für seine perfekte Landschaftsgestaltung und historische Bedeutung in Kanazawa bekannt ist.",
       hu: "Japán három legszebb kertjének egyike, amely tökéletes tájépítészetéről és történelmi jelentőségéről ismert Kanazavában.",
@@ -781,12 +805,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Name means 'Garden of the Six Attributes'", "Features Japan's oldest pressurized fountain", "Famous for the two-legged Kotoji stone lantern", "Developed over two centuries by the Maeda clan"],
     },
     imageHint: "Kenrokuen Garden Kanazawa winter",
+    descriptionAdvanced: {
+      de: "Der Kenrokuen-Garten in Kanazawa gehört zu den drei berühmtesten Gärten Japans und ist ein Paradebeispiel der Landschaftsgestaltung der Edo-Zeit. Ursprünglich als äußerer Garten der Kanazawa-Burg angelegt, wurde er über mehrere Generationen der Maeda-Familie entwickelt. Der Name bedeutet wörtlich „Garten der sechs Eigenschaften“, die einen perfekten chinesischen Garten ausmachen: Weitläufigkeit, Abgeschiedenheit, Kunstfertigkeit, Antike, Wasserläufe und Aussichtspunkte. Der Garten beherbergt über 8.000 Bäume, darunter berühmte Schneebäume (Yuki-zuri), die im Winter mit Stützen versehen werden. Eine besondere Attraktion ist der Kotaki-Steingarten und der alte Teehaus Shigure-tei. Der Kenrokuen ist nicht nur ein Ort der Erholung, sondern auch ein lebendiges Museum japanischer Gartenbaukunst, das Besuchern die Harmonie von Natur und menschlicher Gestaltung vermittelt.",
+      hu: "A Kenrokuen-kert Kanazawa városában található, és Japán három leghíresebb kertje közé tartozik. A kert építése a 17. században kezdődött a Maeda klán uralma alatt, és több mint 150 évig tartott. A név jelentése „hat tulajdonság kertje”, amely a tökéletes kínai kert jellemzőire utal. A kert területe körülbelül 11,4 hektár. Különlegessége a Kazumi-no-taki vízesés és a Gankō-bashi híd, amely 11 kőből álló íves híd. A kertben található egy régi teaház, a Shigure-tei, ahonnan gyönyörű kilátás nyílik. A Kenrokuen híres a tavasszal virágzó szilvafákról, a nyári szentjánosbogarakról és az őszi juharlevél-színeződésről. Télen a fák védelmére alkalmazott juki-zuri (hófeszítő kötelek) látványa is egyedülálló.",
+      ro: "Grădina Kenrokuen din Kanazawa este una dintre cele trei grădini celebre ale Japoniei, reprezentând un exemplu desăvârșit al arhitecturii peisagistice japoneze din perioada Edo. Construită inițial ca grădină exterioară a Castelului Kanazawa, dezvoltarea sa a fost coordonată de clanul Maeda timp de generații. Numele său se traduce prin „grădina celor șase atribute”, făcând referire la caracteristicile unei grădini chinezești perfecte: spațiu vast, liniște, artificialitate, antichitate, cursuri de apă și priveliști. Grădina adăpostește peste 8.000 de copaci, inclusiv renumiții copaci de zăpadă (Yuki-zuri), susținuți iarna cu funii. Atracții speciale includ grădina de piatră Kotaki și vechea casă de ceai Shigure-tei. Kenrokuen este nu doar un loc de relaxare, ci și un muzeu viu al artei grădinăritului japonez.",
+      en: "Kenrokuen Garden in Kanazawa is one of Japan's Three Great Gardens, renowned for its Edo-period landscape design. Developed over generations by the Maeda clan as the outer garden of Kanazawa Castle, its name signifies a garden possessing six attributes: spaciousness, seclusion, artifice, antiquity, water features, and panoramic views. Spanning 11.4 hectares, it features over 8,000 trees, including the iconic 'yuki-zuri' snow hooks used in winter to protect branches. Key landmarks include the Kotaki stone garden, the Shigure-tei teahouse, and the 11-stone Gankō-bashi bridge. The garden's ponds are fed by a sophisticated water system from the 19th century. Kenrokuen offers seasonal beauty: plum blossoms in spring, cherry blossoms, fiery autumn foliage, and winter snowscapes.",
+    },
+    factsAdvanced: {
+      de: ["Der Kenrokuen-Garten erstreckt sich über eine Fläche von etwa 11,4 Hektar.", "Der Gartenbau begann 1676 unter dem Maeda-Fürsten Tsunanori.", "Es gibt über 8.000 Bäume im Garten, darunter 500 Kirschbäume.", "Die berühmten Yuki-zuri (Schneestützen) werden jährlich ab November angebracht.", "Der Garten verfügt über einen künstlichen Teich, den Kasumigaike, mit einer Fläche von 5.000 m².", "Der 11,2 Meter hohe Kotaki-Wasserfall ist eine der Hauptattraktionen."],
+      hu: ["A Kenrokuen-kert területe 11,4 hektár.", "A kert építése 1676-ban kezdődött a Maeda klán uralma alatt.", "A kertben több mint 8 000 fa található, köztük 500 cseresznyefa.", "A juki-zuri hókötéseket novembertől alkalmazzák a fák védelmére.", "A Kasumigaike mesterséges tó területe 5 000 négyzetméter.", "A Kotaki-vízesés magassága 11,2 méter."],
+      ro: ["Grădina Kenrokuen se întinde pe 11,4 hectare.", "Construcția grădinii a început în 1676 sub domnia clanului Maeda.", "Grădina conține peste 8.000 de arbori, inclusiv 500 de cireși.", "Suporturile de zăpadă Yuki-zuri se instalează anual din noiembrie.", "Lacul artificial Kasumigaike are o suprafață de 5.000 m².", "Cascada Kotaki are o înălțime de 11,2 metri."],
+      en: ["Kenrokuen Garden covers an area of approximately 11.4 hectares.", "Construction began in 1676 under Lord Maeda Tsunanori.", "The garden contains over 8,000 trees, including 500 cherry trees.", "The famous Yuki-zuri snow hooks are installed annually from November.", "The artificial Kasumigaike pond spans 5,000 square meters.", "The Kotaki waterfall stands 11.2 meters tall."],
+    },
   },
   {
     id: "japan-towada-hachimantai-national-park-life-v2",
     type: "park",
     name: { de: "Towada-Hachimantai-Nationalpark", hu: "Tovada-Hacsimantai Nemzeti Park", ro: "Parcul Național Towada-Hachimantai", en: "Towada-Hachimantai National Park" },
-    coordinates: { lat: 40.5056, lng: 140.8528 },
+    coords: [140.8528, 40.5056],
     description: {
       de: "Dieser Gebirgspark in der Region Tohoku umfasst den Towada-See, den Oirase-Fluss und die vulkanische Hachimantai-Hochebene.",
       hu: "Ez a Tohoku régióban található hegyvidéki park magában foglalja a Tovada-tavat, az Oirasze-folyót és a vulkanikus Hacsimantai-fennsíkot.",
@@ -800,12 +836,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Renowned for spectacular autumn colors", "Lake Towada is a deep caldera lake", "Habitat for macaques and Asian black bears", "Encompasses numerous hot spring (onsen) areas"],
     },
     imageHint: "Oirase Stream autumn Towada-Hachimantai",
+    descriptionAdvanced: {
+      de: "Der Towada-Hachimantai-Nationalpark in der Region Tohoku auf Honshu ist bekannt für seine Calderaseen, Vulkane und heißen Quellen. Der Park umfasst den Lake Towada, einen doppelten Calderasee mit tiefblauem Wasser, und die Hachimantai-Hochebene mit aktiven vulkanischen Gebieten. Die Region ist ein Hotspot für Outdoor-Aktivitäten wie Wandern, Skifahren und Bootfahren. Der Park beherbergt seltene alpine Pflanzen und Tierarten wie den Japanischen Serau. Der Oirase-Bach, der aus dem Lake Towada fließt, bietet malerische Wanderwege entlang Wasserfällen. Die geologische Vielfalt reicht von sauren Moorlandschaften bis zu Fumarolen. Kulturell bedeutsam sind die zahlreichen Onsen-Resorts wie das Tamagawa Onsen, dessen saures Wasser als das sauerste Japans gilt. Der Park ist auch ein wichtiges Gebiet für die Vogelbeobachtung, insbesondere für den Goldadler.",
+      hu: "A Towada-Hachimantai Nemzeti Park Honsú északi részén, Tohoku régióban található. A park fő attrakciója a Towada-tó, amely egy kettős kaldera-tó, 327 méteres mélységével Japán 12. legmélyebb tava. A tó vizének mélykék színe a magas átlátszóságnak köszönhető. A park magában foglalja a Hachimantai-fennsíkot is, ahol aktív vulkáni tevékenység, gőzölgő fumarolák és forró források találhatók. A terület gazdag növényvilággal büszkélkedhet, beleértve az alpesi növényeket, mint a havas gyopár. A parkban található az Oirase-patak, amely a Towada-tóból folyik ki, és festői vízesésekkel tarkított. A nemzeti park 1936-ban kapta ezt a státuszt. A téli hónapokban a Hachimantai régió kiváló síelési lehetőségeket kínál. A park fontos élőhelye a japán szarvasnak és a fekete medvének.",
+      ro: "Parcul Național Towada-Hachimantai este situat în regiunea Tohoku, nordul insulei Honshu, și este renumit pentru lacurile de calderă, vulcani și izvoare termale. Lacul Towada, un lac de calderă dublă, are o adâncime maximă de 327 de metri și o culoare albastră intensă datorită clarității apei. Platoul Hachimantai prezintă activitate vulcanică activă, cu fumarole și izvoare fierbinți. Parcul include defileul râului Oirase, cu cascade pitorești și trasee de drumeție. Flora alpină rară include specii precum floarea de zăpadă japoneză. Fauna include capra neagră japoneză (serow) și ursul negru asiatic. Înființat în 1936, parcul se întinde pe o suprafață de 85.534 hectare. Zona este celebră pentru onsenurile sale, precum Tamagawa Onsen, cu un izvor acid extrem de puternic. Iarna, stațiunile de schi precum Appi Kogen atrag vizitatori.",
+      en: "Towada-Hachimantai National Park in northern Honshu features the stunning double-caldera Lake Towada, known for its deep blue waters and clarity. The surrounding Hachimantai Plateau is an active volcanic area with fumaroles, boiling mud pots, and numerous hot springs. The park was established in 1936 and covers 85,534 hectares. The Oirase River, the only outlet of Lake Towada, flows through a scenic gorge with waterfalls and lush forests. Alpine plants like the Japanese snowflower bloom in summer. Wildlife includes Japanese serow, black bears, and golden eagles. The park offers year-round recreation: hiking and boating in summer, skiing in winter. Notable onsen resorts include Tamagawa Onsen, whose acidic waters have a pH of 1.2, the strongest in Japan. The park's volcanic peaks such as Mount Hachimantai (1,614 m) provide panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["Der Lake Towada ist ein Doppelkaldera-See mit einer maximalen Tiefe von 327 Metern.", "Der Park erstreckt sich über 85.534 Hektar und wurde 1936 gegründet.", "Der Mount Hachimantai ist 1.614 Meter hoch.", "Der Oirase-Bach erstreckt sich über 14 Kilometer bis zur Pazifikküste.", "Das Tamagawa Onsen hat einen pH-Wert von 1,2, das sauerste Thermalwasser Japans.", "Der Park beherbergt über 100 Vogelarten, darunter den Steinadler."],
+      hu: ["A Towada-tó maximális mélysége 327 méter, Japán 12. legmélyebb tava.", "A nemzeti park 85.534 hektáron terül el, és 1936-ban alapították.", "A Hachimantai-hegy magassága 1.614 méter.", "Az Oirase-patak hossza 14 kilométer.", "A Tamagawa Onsen pH-értéke 1,2, Japán leg savasabb termálvize.", "A parkban több mint 100 madárfaj él, köztük a szirti sas."],
+      ro: ["Lacul Towada are o adâncime maximă de 327 de metri.", "Parcul se întinde pe 85.534 de hectare și a fost înființat în 1936.", "Muntele Hachimantai are o altitudine de 1.614 metri.", "Râul Oirase se întinde pe 14 kilometri.", "Tamagawa Onsen are un pH de 1,2, cea mai acidă apă termală din Japonia.", "Parcul găzduiește peste 100 de specii de păsări, inclusiv acvila de munte."],
+      en: ["Lake Towada has a maximum depth of 327 meters, making it Japan's 12th deepest lake.", "The national park covers 85,534 hectares and was established in 1936.", "Mount Hachimantai has an elevation of 1,614 meters.", "The Oirase River stretches for 14 kilometers to the Pacific coast.", "Tamagawa Onsen has a pH of 1.2, the most acidic hot spring water in Japan.", "The park hosts over 100 bird species, including the golden eagle."],
+    },
   },
   {
     id: "japan-bandai-asahi-national-park-life-v2",
     type: "park",
     name: { de: "Bandai-Asahi-Nationalpark", hu: "Bandai-Aszahi Nemzeti Park", ro: "Parcul Național Bandai-Asahi", en: "Bandai-Asahi National Park" },
-    coordinates: { lat: 37.75, lng: 139.98 },
+    coords: [139.98, 37.75],
     description: {
       de: "Ein weitläufiger Nationalpark, der vulkanische Gipfel wie den Bandai und heilige Berge der Dewa-Sanzan-Region umfasst.",
       hu: "Egy kiterjedt nemzeti park, amely olyan vulkáni csúcsokat foglal magában, mint a Bandai, valamint a Dewa Sanzan régió szent hegyeit.",
@@ -819,12 +867,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Includes the colorful Goshiki-numa lakes", "Home to the rare Japanese serow", "Third largest national park in Japan", "Famous for winter sports and hiking"],
     },
     imageHint: "Mount Bandai and Goshiki-numa lakes",
+    descriptionAdvanced: {
+      de: "Der Bandai-Asahi-Nationalpark im Norden Honshūs umfasst eine Fläche von 1.870 km² und ist bekannt für seine vulkanische Landschaft. Der 1.819 m hohe Bandai-Vulkan brach 1888 aus und formte den malerischen Hibara-See. Die Region beherbergt seltene Pflanzenarten wie die Bandai-Azalee und bietet Lebensraum für den japanischen Serau. Alpine Wälder und heiße Quellen prägen das Gebiet, das auch als wichtiges Wassereinzugsgebiet für den Agano-Fluss dient. Wanderwege erschließen die karge Gipfelregion und die üppigen Täler, während das Azuma-Bergmassiv mit saisonaler Blütenpracht beeindruckt.",
+      hu: "A Bandai-Aszahi Nemzeti Park Japán északi részén, Fukusima prefektúrában található. A terület vulkanikus eredetű; a Bandai-hegy 1888-as kitörése után alakult ki a Hibara-tó. A park népszerű a turisták körében, akik a hegyi ösvényeken túrázva csodálhatják meg a tájat. Az itt található forró források, mint például az Inawashiro, gyógyító hatásúak. A nemzeti park erdőségeiben számos madárfaj él, köztük a szirti sas. A terület kulturális jelentőségét mutatja a környék számos szentélye és temploma, melyek a sintó hitvilághoz kapcsolódnak.",
+      ro: "Parcul Național Bandai-Asahi din Japonia se întinde pe 1.870 km² în regiunea Tohoku. Este renumit pentru peisajele vulcanice și lacul Hibara, creat de o erupție din 1888. Flora include specii endemice precum azalea Bandai, iar fauna cuprinde capre negre japoneze. Drumeții pot explora trasee care traversează păduri de conifere și câmpuri de lavă. Zona termală de la Inawashiro este populară pentru băi naturale. Parcul este, de asemenea, un habitat critic pentru păsări migratoare și oferă vederi spectaculoase ale Muntelui Azuma.",
+      en: "Bandai-Asahi National Park, established in 1950, covers 1,870 km² in northern Japan. It features the volcanic Mount Bandai, whose 1888 eruption created Lake Hibara. The park's diverse geology includes lava fields, hot springs, and alpine zones. It is home to the Japanese serow and over 100 bird species. The park's forests range from temperate deciduous to subalpine conifers. Key attractions include the Goshikinuma ponds, five colored lakes formed by the eruption, and the ancient cedar trees of the Asahi Mountains. The park also serves as a crucial water source for the Agano River.",
+    },
+    factsAdvanced: {
+      de: ["Der Bandai-Asahi-Nationalpark wurde 1950 gegründet.", "Die Fläche beträgt 1.870 km².", "Der Bandai-Vulkan erreicht eine Höhe von 1.819 m.", "Der letzte Ausbruch des Bandai war 1888.", "Der Hibara-See entstand durch die Eruption von 1888.", "Im Park leben etwa 100 Vogelarten."],
+      hu: ["A nemzeti park területe 1.870 km².", "A Bandai-hegy magassága 1.819 méter.", "A Hibara-tó 1888-ban keletkezett.", "A parkban található az Inawashiro gyógyforrás.", "Az Azuma-hegység legmagasabb csúcsa 2.035 m.", "A park 1950 óta védett."],
+      ro: ["Parcul Național Bandai-Asahi are 1.870 km².", "Muntele Bandai are 1.819 m altitudine.", "Lacul Hibara s-a format în 1888.", "Parcul găzduiește peste 100 de specii de păsări.", "Izvoarele termale Inawashiro sunt renumite.", "Parcul a fost înființat în anul 1950."],
+      en: ["Bandai-Asahi National Park covers 1,870 km².", "Mount Bandai has an elevation of 1,819 m.", "Lake Hibara formed in 1888 after a volcanic eruption.", "The park was established in 1950.", "More than 100 bird species inhabit the park.", "The Goshikinuma ponds consist of five colored lakes."],
+    },
   },
   {
     id: "japan-unzen-amakusa-national-park-life-v2",
     type: "park",
     name: { de: "Unzen-Amakusa-Nationalpark", hu: "Unzen-Amakusza Nemzeti Park", ro: "Parcul Național Unzen-Amakusa", en: "Unzen-Amakusa National Park" },
-    coordinates: { lat: 32.7483, lng: 130.2606 },
+    coords: [130.2606, 32.7483],
     description: {
       de: "Der Park auf der Insel Kyushu ist berühmt für den aktiven Vulkan Mount Unzen und die malerische Inselwelt von Amakusa.",
       hu: "A Kjúsú szigetén található park híres az aktív Unzen-hegyről és Amakusza festői szigetvilágáról.",
@@ -838,12 +898,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Japan's first designated national park (1934)", "Known for volcanic sulfur fields called 'Jigoku'", "Amakusa is famous for wild dolphin watching", "Significant site for Japan's Christian history"],
     },
     imageHint: "Mount Unzen volcanic steam fields",
+    descriptionAdvanced: {
+      de: "Der Unzen-Amakusa-Nationalpark auf der Insel Kyūshū umfasst die Unzen-Vulkanregion und die Amakusa-Inseln. Die Unzen-Berge mit dem 1.483 m hohen Heisei-Shinzan entstanden durch historische Ausbrüche. Der Park ist bekannt für seine heißen Quellen und subtropische Vegetation. Die Amakusa-Küste bietet felsige Buchten und eine reiche Meeresfauna. Historisch war das Gebiet Zentrum des Kirishitan-Glaubens während der christlichen Verfolgung. Heute ziehen die malerischen Landschaften und die Tierwelt viele Besucher an.",
+      hu: "Az Unzen-Amakusza Nemzeti Park Dél-Japánban, Nagaszaki és Kumamoto prefektúrákban fekszik. A vulkáni tevékenység formálta a tájat, a Heisei-Shinzan csúcs 1991-ben emelkedett ki. A park híres forró forrásairól és a szigetek biológiai sokféleségéről. Az Amakusa-szigetek történelme szorosan összefonódik a keresztényüldözéssel, számos rejtett keresztény közösség maradt fenn. A tengeri élővilág gazdag, a delfinek és tengeri teknősök gyakori látványosságok.",
+      ro: "Parcul Național Unzen-Amakusa din sudul Japoniei include zona vulcanică Unzen și arhipelagul Amakusa. Vârful Heisei-Shinzan, format în 1991, atinge 1.483 m. Izvoarele termale sunt o atracție majoră, iar pădurile subtropicale găzduiesc specii rare. Coasta stâncoasă a insulelor oferă habitate pentru delfini și broaște țestoase marine. Istoric, regiunea a fost un refugiu pentru creștinii persecutați, rămânând urme ale culturii ascunse. Parcul combină geologia vulcanică cu biodiversitatea marină.",
+      en: "Unzen-Amakusa National Park spans southern Kyushu, encompassing the Unzen volcanic area and the Amakusa islands. The park features the active Mount Unzen, whose 1991 eruption created the Heisei-Shinzan dome. Hot springs like Unzen Jigoku are popular. The Amakusa coast is known for its ria coastline, supporting diverse marine life including dolphins and sea turtles. Historically, the region is significant for its hidden Christian communities. The park was designated in 1934 as one of Japan's first national parks.",
+    },
+    factsAdvanced: {
+      de: ["Der Unzen-Amakusa-Nationalpark wurde 1934 gegründet.", "Der Heisei-Shinzan entstand 1991 und ist 1.483 m hoch.", "Die Amakusa-Inseln bestehen aus über 120 Inseln.", "Die Wassertemperatur der heißen Quellen beträgt bis zu 100 °C.", "Im Park leben über 200 Vogelarten.", "Die Fläche beträgt etwa 283 km²."],
+      hu: ["A park területe 283 km².", "A Heisei-Shinzan 1991-ben keletkezett.", "Az Amakusa-szigetcsoport 120 szigetből áll.", "A forró források hőmérséklete eléri a 100 °C-t.", "A park 1934 óta védett.", "Több mint 200 madárfaj él itt."],
+      ro: ["Parcul are 283 km².", "Heisei-Shinzan s-a format în 1991, cu 1.483 m altitudine.", "Arhipelagul Amakusa are peste 120 de insule.", "Izvoarele termale ating 100 °C.", "Parcul a fost înființat în 1934.", "Peste 200 de specii de păsări sunt prezente."],
+      en: ["Unzen-Amakusa National Park was established in 1934.", "The park covers 283 km².", "Heisei-Shinzan formed in 1991 and is 1,483 m high.", "The Amakusa archipelago includes over 120 islands.", "Hot spring temperatures can reach 100 °C.", "Over 200 bird species inhabit the park."],
+    },
   },
   {
     id: "japan-kairakuen-garden-life-v2",
     type: "park",
     name: { de: "Kairaku-en Garten", hu: "Kairakuen kert", ro: "Grădina Kairaku-en", en: "Kairakuen Garden" },
-    coordinates: { lat: 36.375, lng: 140.4531 },
+    coords: [140.4531, 36.375],
     description: {
       de: "Ein historischer Garten in Mito, der im 19. Jahrhundert angelegt wurde und für seine tausenden Pflaumenbäume berühmt ist.",
       hu: "Egy történelmi kert Mitóban, amelyet a 19. században hoztak létre, és több ezer szilvafájáról híres.",
@@ -857,12 +929,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Home to over 3000 plum blossom trees", "Founded in 1842 by Tokugawa Nariaki", "Name means 'garden to be enjoyed together'", "Hosts the annual Mito Plum Festival"],
     },
     imageHint: "Kairakuen Garden plum blossoms Mito",
+    descriptionAdvanced: {
+      de: "Der Kairakuen-Garten in Mito, Präfektur Ibaraki, zählt zu den drei großen Gärten Japans. Er wurde 1842 von Tokugawa Nariaki, dem Daimyō von Mito, angelegt. Der Garten ist berühmt für seine 3.000 Pflaumenbäume, die im Frühling blühen. Der Kobuntei-Pavillon bietet einen Panoramablick. Kairakuen verbindet japanische Landschaftsgestaltung mit westlichen Elementen. Neben Pflaumen gibt es Bambushaine und Teiche. Der Garten war ursprünglich als Vergnügungsort für alle Bürger gedacht. Heute ist er ein beliebtes Ausflugsziel.",
+      hu: "A Kairakuen kert Mito városában, Ibaraki prefektúrában található. 1842-ben építtette Tokugawa Nariaki, a Mito klán vezetője. A kert híres 3000 szilvafájáról, melyek februárban virágoznak. A Kobuntei pavilonból csodálatos kilátás nyílik a Senba-tóra. A kert a japán és kínai kertészeti stílusok keveréke. Eredetileg a köznép számára is nyitva állt. A tavaszi szilvavirágzás mellett az őszi juharfa-lomb is népszerű látványosság.",
+      ro: "Grădina Kairakuen din Mito, prefectura Ibaraki, este una dintre cele trei grădini celebre ale Japoniei. A fost construită în 1842 de Tokugawa Nariaki. Grădina conține aproximativ 3.000 de pruni, care înfloresc în februarie. Pavilioanele, precum Kobuntei, oferă vederi pitorești. Stilul combină elemente tradiționale japoneze cu influențe chinezești. Inițial, grădina era deschisă publicului larg. Pe lângă pruni, există bambus și iazuri cu koi. Este un loc popular pentru hanami (petreceri sub flori).",
+      en: "Kairakuen Garden in Mito, Ibaraki Prefecture, is one of Japan's Three Great Gardens. Built in 1842 by feudal lord Tokugawa Nariaki, it features over 3,000 plum trees of 100 varieties. The garden's design emphasizes natural scenery, with ponds, streams, and a teahouse. The Kobuntei pavilion offers views of Lake Senba. Unlike many traditional gardens, Kairakuen was designed for public enjoyment. The plum blossoms in late winter are a major attraction. The garden also has a bamboo grove and a small shrine.",
+    },
+    factsAdvanced: {
+      de: ["Kairakuen wurde 1842 erbaut.", "Der Garten beherbergt über 3.000 Pflaumenbäume.", "Es gibt 100 verschiedene Pflaumensorten.", "Der Kobuntei-Pavillon stammt aus dem 19. Jahrhundert.", "Die Fläche des Gartens beträgt 12,7 Hektar.", "Kairakuen gehört zu den drei großen Gärten Japans."],
+      hu: ["A kert 1842-ben épült.", "Több mint 3000 szilvafa található itt.", "A szilvafák 100 fajtából állnak.", "A Kobuntei pavilon a 19. századból származik.", "A kert területe 12,7 hektár.", "Ez Japán három nagy kertjének egyike."],
+      ro: ["Grădina a fost construită în 1842.", "Conține peste 3.000 de pruni.", "Sunt 100 de soiuri de prun.", " Pavilionul Kobuntei datează din secolul al XIX-lea.", "Suprafața grădinii este de 12,7 hectare.", "Kairakuen este una dintre cele trei grădini celebre ale Japoniei."],
+      en: ["Kairakuen Garden was built in 1842.", "It features over 3,000 plum trees.", "There are 100 different plum varieties.", "The garden covers 12.7 hectares.", "The Kobuntei pavilion was built in the 19th century.", "Kairakuen is one of Japan's Three Great Gardens."],
+    },
   },
   {
     id: "japan-daisen-oki-national-park-life-v2",
     type: "park",
     name: { de: "Daisen-Oki-Nationalpark", hu: "Daiszen-Oki Nemzeti Park", ro: "Parcul Național Daisen-Oki", en: "Daisen-Oki National Park" },
-    coordinates: { lat: 35.3725, lng: 133.535 },
+    coords: [133.535, 35.3725],
     description: {
       de: "Der Park umfasst den Berg Daisen, das Izumo-Küstengebiet und die geologisch bedeutsamen Oki-Inseln im Japanischen Meer.",
       hu: "A park magában foglalja a Daiszen-hegyet, az Izumo-partvidéket és a geológiailag jelentős Oki-szigeteket a Japán-tengerben.",
@@ -876,12 +960,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Mount Daisen is often called the 'mini Fuji'", "Encompasses Izumo-Taisha, Japan's oldest shrine", "Oki Islands are a UNESCO Global Geopark", "Important sanctuary for the Japanese giant salamander"],
     },
     imageHint: "Mount Daisen peak and forest",
+    descriptionAdvanced: {
+      de: "Der Daisen-Oki-Nationalpark erstreckt sich über die Präfekturen Tottori, Shimane und Okayama. Der markante Berg Daisen (1.729 m) ist ein ruhender Vulkan und wird seit Jahrhunderten als heiliger Berg verehrt. Die Oki-Inseln bieten vulkanische Küsten und alte Zedernwälder. Der Park umfasst heiße Quellen, alpine Wiesen und tiefe Schluchten. Die Region ist für den Anbau von Birnen und Reis bekannt. Der Daisen-Tempel ist ein bedeutendes buddhistisches Zentrum. Die Tierwelt umfasst Sikahirsche und japanische Makaken.",
+      hu: "A Daisen-Oki Nemzeti Park a Csúgoku-hegységben található. Középpontjában a Daisen-hegy áll, amely 1.729 méter magas és szent hegyként tisztelt. A park részei az Oki-szigetek, melyek vulkáni szikláiról és ősi cédrusairól híresek. A terület gazdag forrásokban és vízesésekben. A helyi gazdaság meghatározó ágazata a mezőgazdaság. A park számos túraútvonalat kínál, és népszerű a természetjárók körében.",
+      ro: "Parcul Național Daisen-Oki din vestul Japoniei include Muntele Daisen (1.729 m), un vulcan stins considerat sacru. Insulele Oki au coaste stâncoase și păduri de cedri seculari. Parcul oferă izvoare termale, pajiști alpine și chei adânci. Fauna include căpriori și maimuțe japoneze. Agricultura locală produce pere și orez. Templele budiste de pe munte atrag pelerini. Peisajul este un amestec de vulcanism și biodiversitate temperată.",
+      en: "Daisen-Oki National Park in western Honshu centers on Mount Daisen, a 1,729 m dormant volcano considered sacred. The park includes the Oki Islands, formed by volcanic activity, with dramatic cliffs and ancient forests. The area features hot springs, highland bogs, and the Nawa River valley. Mount Daisen has been a site of mountain worship for centuries, with temples at its base. The park provides habitat for Japanese macaques, serow, and over 100 bird species. It was designated a national park in 1936.",
+    },
+    factsAdvanced: {
+      de: ["Der Daisen-Oki-Nationalpark wurde 1936 gegründet.", "Der Berg Daisen ist 1.729 m hoch.", "Die Oki-Inseln bestehen aus über 180 Inseln.", "Die Fläche des Parks beträgt 319 km².", "Der Daisen-Tempel wurde im 8. Jahrhundert errichtet.", "Im Park leben japanische Makaken."],
+      hu: ["A park 1936-ban jött létre.", "A Daisen-hegy magassága 1.729 méter.", "Az Oki-szigetcsoport több mint 180 szigetből áll.", "A park területe 319 km².", "A Daisen-templom a 8. században épült.", "A parkban élnek japán makákók."],
+      ro: ["Parcul a fost înființat în 1936.", "Muntele Daisen are 1.729 m.", "Insulele Oki numără peste 180 de insule.", "Parcul se întinde pe 319 km².", "Templul Daisen datează din secolul al VIII-lea.", "Parcul adăpostește macaci japonezi."],
+      en: ["Daisen-Oki National Park was established in 1936.", "Mount Daisen is 1,729 m tall.", "The Oki Islands comprise over 180 islands.", "The park covers 319 km².", "The Daisen Temple dates to the 8th century.", "Japanese macaques inhabit the park."],
+    },
   },
   {
     id: "japan-sanriku-fukko-national-park-life-v2",
     type: "wildlife",
     name: { de: "Sanriku-Fukko-Nationalpark", hu: "Szanriku-Fukko Nemzeti Park", ro: "Parcul Național Sanriku Fukko", en: "Sanriku Fukko National Park" },
-    coordinates: { lat: 39.4211, lng: 141.9567 },
+    coords: [141.9567, 39.4211],
     description: {
       de: "Dieser Küstenpark erstreckt sich über 250 km und wurde zur Unterstützung des Wiederaufbaus nach dem Tsunami von 2011 gegründet.",
       hu: "Ez a 250 km hosszan elnyúló tengerparti park a 2011-es szökőár utáni újjáépítés támogatására jött létre.",
@@ -895,12 +991,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Formerly known as Rikuchu-Kaigan National Park", "Famous for the spectacular Tanesashi Coast", "Provides nesting grounds for numerous seabirds", "Features dramatic rias-type coastal formations"],
     },
     imageHint: "Sanriku coast cliffs and ocean",
+    descriptionAdvanced: {
+      de: "Der Sanriku-Fukko-Nationalpark an der Nordostküste Honshūs erstreckt sich über 285 km Küstenlinie. Er wurde 2013 nach dem verheerenden Tsunami von 2011 als Teil der Wiederaufbaumaßnahmen neu gegründet. Der Park umfasst die Sanriku-Ria-Küste mit tief eingeschnittenen Buchten und felsigen Klippen. Die Kitayamazaki-Klippen sind bis zu 200 m hoch. Der Park ist ein wichtiges Vogelschutzgebiet mit Papageitauchern und Kormoranen. Die Region ist auch für ihre Austern- und Lachszucht bekannt.",
+      hu: "A Sanriku Fukkó Nemzeti Park a Tohoku régióban, a Csendes-óceán partján fekszik. A 2011-es cunami után hozták létre 2013-ban. A park jellegzetessége a riás partszakasz, ahol a keskeny öblök és meredek sziklák váltakoznak. A Kitayamazaki-sziklák 200 méter magasak. A terület fontos madárélőhely, a szirti sasok és kárókatonák gyakoriak. A halászat és a kagylótenyésztés a helyi gazdaság alapja.",
+      ro: "Parcul Național Sanriku Fukko de pe coasta de nord-est a Honshu a fost înființat în 2013, după tsunami-ul din 2011. Are o coastă de tip ria, cu golfuri adânci și stânci de până la 200 m la Kitayamazaki. Este un habitat pentru păsări marine, inclusiv papagai de mare. Creșterea stridiilor și a somonului este importantă economic. Parcul simbolizează recuperarea după dezastru, combinând conservarea cu educația privind riscurile naturale.",
+      en: "Sanriku Fukko National Park was established in 2013 as part of the recovery from the 2011 Great East Japan Earthquake and tsunami. It stretches along the Sanriku ria coastline, featuring deep bays and cliffs like Kitayamazaki (200 m). The park includes several islands and reefs, such as the renowned Kinkasan Island. It is a haven for seabirds, including black-tailed gulls and cormorants. The park also protects cultural heritage, including ancient fishing villages. The name 'Fukko' means 'reconstruction'.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2013 gegründet.", "Die Küstenlänge beträgt 285 km.", "Die Kitayamazaki-Klippen sind bis zu 200 m hoch.", "Der Park beherbergt Papageitaucherpopulationen.", "Die Fläche beträgt 285 km².", "Der Tsunami 2011 forderte in der Region über 15.000 Todesopfer."],
+      hu: ["A park 2013-ban jött létre.", "A partvonal hossza 285 km.", "A Kitayamazaki-sziklák 200 méter magasak.", "A parkban élnek lundák.", "Területe 285 km².", "A 2011-es cunami több mint 15.000 ember életét követelte a régióban."],
+      ro: ["Parcul a fost înființat în 2013.", "Lungimea coastei este de 285 km.", "Stâncile Kitayamazaki au 200 m.", "Parcul găzduiește papagai de mare.", "Suprafața parcului este de 285 km².", "Tsunamiul din 2011 a ucis peste 15.000 de oameni în regiune."],
+      en: ["Sanriku Fukko National Park was created in 2013.", "The park covers 285 km².", "The coastline spans 285 km.", "Kitayamazaki cliffs reach 200 m in height.", "The park is home to tufted puffins.", "The 2011 tsunami caused over 15,000 deaths in the area."],
+    },
   },
   {
     id: "japan-ashizuri-uwakai-national-park-life-v2",
     type: "wildlife",
     name: { de: "Ashizuri-Uwakai-Nationalpark", hu: "Asizuri-Uvakai Nemzeti Park", ro: "Parcul Național Ashizuri-Uwakai", en: "Ashizuri-Uwakai National Park" },
-    coordinates: { lat: 32.7242, lng: 132.9814 },
+    coords: [132.9814, 32.7242],
     description: {
       de: "Der Park an der Südspitze Shikokus ist für seine Korallenriffe, tropischen Fische und schroffen Klippen am Kap Ashizuri bekannt.",
       hu: "A Sikoku déli csücskén található park korallzátonyairól, trópusi halairól és az Asizuri-fok sziklás partjairól ismert.",
@@ -914,12 +1022,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Includes Japan's first designated underwater park", "Home to over 80 species of coral", "Offers views of the warm Kuroshio Current", "Important habitat for nesting sea turtles"],
     },
     imageHint: "Cape Ashizuri cliffs and lighthouse",
+    descriptionAdvanced: {
+      de: "Der Ashizuri-Uwakai-Nationalpark auf der Insel Shikoku umfasst das Kap Ashizuri, den südlichsten Punkt Shikokus, und die Uwakai-Bucht mit ihren vielen Inseln. Das Kap Ashizuri ist von Ryukyu-Kiefern und subtropischer Vegetation geprägt. Der Park ist ein bedeutendes Tauchgebiet mit Korallenriffen und einer reichen Meeresfauna. Die Küstenlinie ist zerklüftet mit bizarren Felsformationen. Der Leuchtturm von Ashizuri ist ein Wahrzeichen. Die Region ist auch für den Anbau von Zitrusfrüchten bekannt.",
+      hu: "Az Ashizuri-Uwakai Nemzeti Park Sikoku déli részén található. Az Ashizuri-fok Sikoku legdélibb pontja. A parkot szubtrópusi erdők borítják, amelyekben a Rjúkjú-fenyő dominál. A tengeri élővilág gazdag, a korallzátonyok kedveltek a búvárok körében. A part menti sziklák lenyűgöző formációkat alkotnak. Az Ashizuri világítótorony a 19. században épült. A helyi gazdaságban fontos a citrusfélék termesztése és a halászat.",
+      ro: "Parcul Național Ashizuri-Uwakai din sudul insulei Shikoku include Capul Ashizuri, cel mai sudic punct al insulei, și Golful Uwakai. Vegetația subtropicală, cu pini Ryukyu, domină zona. Recifele de corali atrag scafandri. Coasta are forme stâncoase spectaculoase. Farul Ashizuri, construit în secolul al XIX-lea, este un reper. Parcul este important pentru biodiversitatea marină și pentru cultura locală, inclusiv festivalurile de dans.",
+      en: "Ashizuri-Uwakai National Park on southern Shikoku features Cape Ashizuri, the southernmost point of the island, and the scenic Uwakai Sea with many islets. The park is known for its subtropical forests, coral reefs, and clear waters. Cape Ashizuri is crowned by a white lighthouse built in 1912. The area is a popular destination for diving, whale watching, and hiking. The park also protects the Habu-no-tani valley with giant camphor trees. Local industries include fishing and citrus farming.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1972 gegründet.", "Kap Ashizuri ist der südlichste Punkt Shikokus.", "Der Leuchtturm von Ashizuri wurde 1912 erbaut.", "Die Fläche beträgt 110 km².", "Die Wassertemperaturen erreichen im Sommer 28 °C.", "Im Park gibt es über 100 Korallenarten."],
+      hu: ["A park 1972-ben jött létre.", "Az Ashizuri-fok Sikoku legdélibb pontja.", "Az Ashizuri világítótorony 1912-ben épült.", "A park területe 110 km².", "A vízhőmérséklet nyáron eléri a 28 °C-ot.", "Több mint 100 korallfaj található itt."],
+      ro: ["Parcul a fost înființat în 1972.", "Capul Ashizuri este cel mai sudic punct al Shikoku.", "Farul Ashizuri a fost construit în 1912.", "Parcul are 110 km².", "Temperatura apei atinge 28 °C vara.", "Există peste 100 de specii de coral."],
+      en: ["Ashizuri-Uwakai National Park was established in 1972.", "The park covers 110 km².", "Cape Ashizuri is Shikoku's southernmost point.", "The Ashizuri Lighthouse was built in 1912.", "Summer water temperatures reach 28 °C.", "Over 100 coral species are found here."],
+    },
   },
   {
     id: "japan-minami-alps-national-park-life-v2",
     type: "park",
     name: { de: "Südalpen-Nationalpark", hu: "Déli-Alpok Nemzeti Park", ro: "Parcul Național Alpii de Sud", en: "Minami Alps National Park" },
-    coordinates: { lat: 35.5344, lng: 138.2536 },
+    coords: [138.2536, 35.5344],
     description: {
       de: "Schützt das Akaishi-Gebirge (Südalpen), eine Hochgebirgsregion mit mehreren Gipfeln über 3000 Metern und reicher alpiner Flora.",
       hu: "Az Akaishi-hegységet (Déli-Alpok) védi, egy magashegyi régiót, ahol több csúcs is 3000 méter feletti, gazdag alpesi flórával.",
@@ -933,12 +1053,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Includes Mount Kita, Japan's second highest peak", "UNESCO Biosphere Reserve since 2014", "Important habitat for the rock ptarmigan", "Known for its deep forests and steep valleys"],
     },
     imageHint: "Southern Alps Japan snow capped peaks",
+    descriptionAdvanced: {
+      de: "Der Minami-Alpen-Nationalpark (Südliche Alpen) in Zentraljapan umfasst die Akaishi-Berge mit Gipfeln über 3.000 m. Der höchste Berg ist der Kita-dake (3.193 m), der zweithöchste Japans. Der Park ist bekannt für seine alpine Flora, darunter die Japanische Edelweiß. Steile Täler und Gletscherreste prägen die Landschaft. Der Park ist ein Paradies für Bergsteiger. Die Wälder in tieferen Lagen beherbergen Bären und Sikahirsche. Die Region ist dünn besiedelt und wild.",
+      hu: "A Minami-Alpoki (Déli-Alpok) Nemzeti Park Japán középső részén, a Akaishi-hegységben található. A legmagasabb csúcs a Kita-dake (3.193 m). A park híres alpesi növényeiről, mint a japán havasi gyopár. A gleccserek által formált völgyek és a meredek sziklafalak népszerűek a hegymászók körében. Az erdőkben barnamedvék és szikaszarvasok élnek. A park védett terület, ahol a természet szinte érintetlen.",
+      ro: "Parcul Național Minami-Alpi (Alpii Sudici) din centrul Japoniei cuprinde Munții Akaishi, cu vârfuri de peste 3.000 m, inclusiv Kita-dake (3.193 m). Flora alpină include edelweiss japonez. Văile glaciare și crestele abrupte sunt ideale pentru alpinism. Fauna include urși bruni și căpriori. Parcul a fost înființat în 1964 și protejează unul dintre cele mai sălbatice peisaje din Japonia. Aproximativ 70% din parc este acoperit de păduri.",
+      en: "Minami Alps National Park in central Honshu protects the Akaishi Mountains, part of Japan's Southern Alps. The park contains 11 peaks over 3,000 m, including Kita-dake (3,193 m), Japan's second-highest mountain. The rugged terrain features deep valleys, alpine meadows, and snow patches. It is a popular destination for mountaineering and hiking. The park is home to the Japanese serow, Asiatic black bear, and over 1,500 plant species. Designated in 1964, it covers 358 km².",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1964 gegründet.", "Der Kita-dake ist 3.193 m hoch.", "Es gibt 11 Gipfel über 3.000 m.", "Die Fläche beträgt 358 km².", "Der Park beherbergt den Asiatischen Schwarzbären.", "Die alpine Flora umfasst über 1.500 Pflanzenarten."],
+      hu: ["A park 1964-ben jött létre.", "A Kita-dake magassága 3.193 méter.", "11 csúcs haladja meg a 3000 métert.", "Területe 358 km².", "Él itt ázsiai fekete medve.", "Több mint 1500 növényfaj található."],
+      ro: ["Parcul a fost înființat în 1964.", "Kita-dake are 3.193 m.", "11 vârfuri depășesc 3.000 m.", "Parcul are 358 km².", "Adăpostește ursul negru asiatic.", "Peste 1.500 de specii de plante."],
+      en: ["Minami Alps National Park was designated in 1964.", "The park covers 358 km².", "Kita-dake is 3,193 m high.", "There are 11 peaks over 3,000 m.", "The park is home to the Asiatic black bear.", "Over 1,500 plant species are found."],
+    },
   },
   {
     id: "japan-saikai-national-park-life-v2",
     type: "wildlife",
     name: { de: "Saikai-Nationalpark", hu: "Szaikai Nemzeti Park", ro: "Parcul Național Saikai", en: "Saikai National Park" },
-    coordinates: { lat: 33.15, lng: 129.0833 },
+    coords: [129.0833, 33.15],
     description: {
       de: "Ein maritimer Nationalpark in der Präfektur Nagasaki, der über 200 Inseln, darunter die Kujukushima-Inselgruppe, umfasst.",
       hu: "Egy tengeri nemzeti park Nagaszaki prefektúrában, amely több mint 200 szigetet, köztük a Kudzsukusima-szigetcsoportot foglalja magában.",
@@ -952,12 +1084,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Kujukushima literally means '99 islands'", "Protects valuable subtropical marine plants", "Major stopover for migrating birds of prey", "Famous for its high-quality oyster farming"],
     },
     imageHint: "Kujukushima islands Nagasaki aerial",
+    descriptionAdvanced: {
+      de: "Der Saikai-Nationalpark in der Präfektur Nagasaki umfasst die Küstenregionen der Westsee (Saikai) mit vielen Inseln, darunter die Goto-Inseln und die Kujūku-Inseln. Der Park ist bekannt für seine riaartigen Küsten und alte Zedernwälder. Die Region war historisch ein Zentrum des christlichen Glaubens, mit versteckten Kirchen. Der Park bietet Vogelbeobachtung und Wassersport. Die Korallenriffe im Meer sind artenreich. Der Hirado-Kastell und die katholischen Kirchen sind kulturelle Höhepunkte.",
+      hu: "A Szaikai Nemzeti Park Nagaszaki prefektúrában fekszik, és a tengerparti szigetvilágot foglalja magában. A Gotó-szigetek és a Kudzsúku-szigetek tartoznak hozzá. A partvonalat riás öblök jellemzik. A terület fontos keresztény történelmi emlékeket őriz, a rejtett keresztények templomaival. A parkban régi cédruserdők találhatók. A tengeri élet gazdag, korallzátonyok és delfinek élnek itt. A Hirado vár és a templomok népszerű turistacélpontok.",
+      ro: "Parcul Național Saikai din prefectura Nagasaki include arhipelagurile Goto și Kujuku, cu coaste de tip ria și păduri de cedri. Regiunea are o istorie creștină profundă, cu biserici ascunse. Parcul oferă recife de corali și o biodiversitate marină bogată. Castelul Hirado și bisericile catolice sunt atracții culturale. Parcul a fost înființat în 1955 și se întinde pe 210 km². Fauna include delfini și țestoase marine.",
+      en: "Saikai National Park in Nagasaki Prefecture encompasses the western sea islands, including the Goto and Kujuku islands. The park features ria coastlines, ancient cedar forests, and secluded bays. It is known for its hidden Christian heritage, with historic churches like the Dozaki Church. The park's marine environment supports coral reefs, dolphins, and sea turtles. Visitors can explore the Hirado Castle and the scenic Kujuku Islands. The park was designated in 1955 and covers 210 km².",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1955 gegründet.", "Die Fläche beträgt 210 km².", "Die Kujūku-Inseln bestehen aus über 200 Inseln.", "Der Hirado-Kastell stammt aus dem 17. Jahrhundert.", "Im Park leben Delfine.", "Die Dozaki-Kirche wurde 1908 erbaut."],
+      hu: ["A park 1955-ben jött létre.", "Területe 210 km².", "A Kudzsúku-szigetek több mint 200 szigetből állnak.", "A Hirado vár a 17. században épült.", "A parkban delfinek élnek.", "A Dozaki templom 1908-ban épült."],
+      ro: ["Parcul a fost înființat în 1955.", "Suprafața este de 210 km².", "Insulele Kujuku au peste 200 de insule.", "Castelul Hirado datează din secolul al XVII-lea.", "Parcul găzduiește delfini.", "Biserica Dozaki a fost construită în 1908."],
+      en: ["Saikai National Park was established in 1955.", "The park covers 210 km².", "The Kujuku Islands consist of over 200 islands.", "Hirado Castle dates to the 17th century.", "Dolphins are found in the park's waters.", "Dozaki Church was built in 1908."],
+    },
   },
   {
     id: "japan-myoko-togakushi-renzan-national-park-life-v2",
     type: "park",
     name: { de: "Myoko-Togakushi-Renzan-Nationalpark", hu: "Mjókó-Togakusi Renzan Nemzeti Park", ro: "Parcul Național Myoko-Togakushi Renzan", en: "Myoko-Togakushi Renzan National Park" },
-    coordinates: { lat: 36.8833, lng: 138.1167 },
+    coords: [138.1167, 36.8833],
     description: {
       de: "Dieser 2015 gegründete Park umfasst die markanten Gipfel der Myoko- und Togakushi-Berge an der Grenze von Nagano und Niigata.",
       hu: "Ez a 2015-ben alapított park a Mjókó- és Togakusi-hegység jellegzetes csúcsait foglalja magában Nagano és Niigata határán.",
@@ -971,12 +1115,24 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Home to the famous Togakushi Shrine", "Known for its ancient and dense cedar forests", "Significant region for Soba buckwheat production", "Includes Mount Myoko, an active volcano"],
     },
     imageHint: "Togakushi Shrine cedar forest walkway",
+    descriptionAdvanced: {
+      de: "Der Myōkō-Togakushi-Renzan-Nationalpark in der Präfektur Niigata und Nagano umfasst die Vulkanberge Myōkō (2.454 m) und Togakushi (1.904 m). Der Park ist bekannt für seine heißen Quellen, tiefen Wälder und Skigebiete. Der Myōkō-Vulkan hat einen Kratersee. Der Togakushi-Schrein ist ein bedeutendes Shintō-Heiligtum. Die Region ist reich an Schnee und hat eine ausgeprägte Wintersportkultur. Die Flora umfasst Buchen und Tannen. Im Herbst sind die Wälder farbenprächtig.",
+      hu: "A Myókó-Togakusi-Renzan Nemzeti Park Niigata és Nagano prefektúrákban található. A Myókó-hegy 2.454 méter magas, vulkáni eredetű. A park híres forró forrásairól és a sípályákról. A Togakusi-szentély egy fontos sintó szentély, zarándokhely. A télen nagy mennyiségű hó hullik, ami kiváló síelési lehetőségeket teremt. Az erdőkben bükk és fenyőfélék élnek. A tavasz és ősz különösen szép a virágzó és színes lombok miatt.",
+      ro: "Parcul Național Myoko-Togakushi Renzan din centrul Japoniei include Munții Myoko (2.454 m) și Togakushi (1.904 m). Vulcanul Myoko are un lac de crater. Izvoarele termale și stațiunile de schi sunt populare. Altarul Togakushi este un sit sacru shinto. Pădurile sunt dominate de fagi și brazi. Zăpada abundentă iarna atrage sportivi. Parcul a fost înființat în 2015, fiind unul dintre cele mai noi parcuri naționale din Japonia.",
+      en: "Myoko-Togakushi Renzan National Park in Niigata and Nagano prefectures centers on the volcanic peaks of Mount Myoko (2,454 m) and Mount Togakushi (1,904 m). The park features diverse landscapes, including crater lakes, beech forests, and alpine meadows. It is a popular destination for skiing, hiking, and hot spring baths. The Togakushi Shrine, over 2,000 years old, is a national treasure. The park was established in 2015 and covers 391 km². Wildlife includes Japanese macaques and golden eagles.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2015 gegründet.", "Der Myōkō ist 2.454 m hoch.", "Der Togakushi-Schrein ist über 2.000 Jahre alt.", "Die Fläche beträgt 391 km².", "Im Park leben Goldadler.", "Der Schneefall beträgt im Winter durchschnittlich 5 m."],
+      hu: ["A park 2015-ben jött létre.", "A Myókó-hegy 2.454 méter magas.", "A Togakusi-szentély több mint 2000 éves.", "Területe 391 km².", "A parkban aranysasok élnek.", "A téli hóvastagság átlagosan 5 méter."],
+      ro: ["Parcul a fost înființat în 2015.", "Muntele Myoko are 2.454 m.", "Altarul Togakushi are peste 2.000 de ani.", "Parcul are 391 km².", "Vulturii aurii trăiesc în parc.", "Zăpada atinge în medie 5 m iarna."],
+      en: ["Myoko-Togakushi Renzan National Park was created in 2015.", "The park covers 391 km².", "Mount Myoko is 2,454 m high.", "The Togakushi Shrine is over 2,000 years old.", "Golden eagles inhabit the park.", "Winter snowfall averages 5 m."],
+    },
   },
   {
     id: "japan-korakuen-garden-life-v2",
     type: "park",
     name: { de: "Koraku-en Garten", hu: "Korakuen kert", ro: "Grădina Koraku-en", en: "Korakuen Garden" },
-    coordinates: { lat: 34.6667, lng: 133.9358 },
+    coords: [133.9358, 34.6667],
     description: {
       de: "Einer der drei großen Gärten Japans, der einen weiten Blick auf die Burg Okayama und weitläufige Rasenflächen bietet.",
       hu: "Japán három nagy kertjének egyike, amely tágas kilátást nyújt az Okayama-várra és kiterjedt pázsitokkal rendelkezik.",
@@ -990,6 +1146,18 @@ export const poiExtraJapanLifeV2: POI[] = [
       en: ["Completed in the year 1700", "Contains working rice paddies and tea groves", "Utilizes the 'borrowed scenery' landscape technique", "Breeds rare red-crowned Japanese cranes"],
     },
     imageHint: "Korakuen Garden Okayama Castle background",
+    descriptionAdvanced: {
+      de: "Der Kōrakuen-Garten in Okayama ist einer der drei großen Gärten Japans. Er wurde 1700 von Ikeda Tsunamasa, dem Daimyō von Okayama, angelegt. Der Garten vereint verschiedene Landschaftsstile: einen großen Teich, Inseln, Brücken, Teehäuser und einen Schrein. Die Bepflanzung umfasst Pflaumenbäume, Kirschbäume, Ahorne und Bambus. Der Garten bietet wechselnde Ausblicke, die an die Jahreszeiten angepasst sind. Ursprünglich war er dem Daimyō vorbehalten, später wurde er der Öffentlichkeit zugänglich gemacht. Der angrenzende Okayama-Schloss ist ein weiteres Highlight.",
+      hu: "A Kórakuen kert Okajama városában található, és Japán három nagy kertjének egyike. 1700-ban építtette Ikeda Cunamasa. A kertet egy nagy tó uralja, szigetekkel és hidakkal. A tea pavilonok és a sinto szentély a hagyományos építészetet képviselik. A növényzet változatos, tavasszal a szilva- és cseresznyefák, ősszel a juharok színesednek. A kertet úgy tervezték, hogy séta közben folyamatosan változó képeket nyújtson. 1884-ben nyitották meg a nagyközönség számára.",
+      ro: "Grădina Korakuen din Okayama este una dintre cele trei grădini celebre ale Japoniei. A fost construită în 1700 de Ikeda Tsunamasa. Designul include un iaz mare cu insule, poduri și pavilioane de ceai. Arborii de prun și cireș înfloresc primăvara, iar arțarii roșu toamna. Grădina a fost deschisă publicului în 1884. Castelul Okayama este situat în apropiere. Stilul grădinii reflectă estetica perioadei Edo, cu promenade pitorești și elemente simbolice.",
+      en: "Korakuen Garden in Okayama is one of Japan's Three Great Gardens. Built in 1700 by feudal lord Ikeda Tsunamasa, it features a large pond, artificial hills, and a teahouse. The garden incorporates elements of Chinese and Western design. It is famous for its seasonal beauty: plum blossoms in spring, lush greenery in summer, autumn colors, and snow views in winter. The garden was originally a private retreat for the daimyo but opened to the public in 1884. It covers 13.3 hectares and adjoins Okayama Castle.",
+    },
+    factsAdvanced: {
+      de: ["Kōrakuen wurde 1700 erbaut.", "Der Garten umfasst 13,3 Hektar.", "Er ist einer der drei großen Gärten Japans.", "Die Teehäuser stammen aus dem 18. Jahrhundert.", "Der Garten wurde 1884 der Öffentlichkeit zugänglich gemacht.", "Es gibt insgesamt 6 Teiche im Garten."],
+      hu: ["A kert 1700-ban épült.", "Területe 13,3 hektár.", "Japán három nagy kertjének egyike.", "A tea pavilonok a 18. századból származnak.", "A kertet 1884-ben nyitották meg a közönség számára.", "Hat tó található a kertben."],
+      ro: ["Grădina a fost construită în 1700.", "Suprafața este de 13,3 hectare.", "Este una dintre cele trei grădini celebre ale Japoniei.", "Pavilioanele de ceai datează din secolul al XVIII-lea.", "Grădina a fost deschisă publicului în 1884.", "Există 6 iazuri în grădină."],
+      en: ["Korakuen Garden was built in 1700.", "It covers 13.3 hectares.", "It is one of Japan's Three Great Gardens.", "The teahouses date from the 18th century.", "The garden opened to the public in 1884.", "There are six ponds within the garden."],
+    },
   }
 ];
 

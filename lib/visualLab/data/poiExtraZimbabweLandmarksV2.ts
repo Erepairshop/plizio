@@ -1429,7 +1429,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-national-gallery-harare-landmarks-v2",
     type: "museum",
     name: { de: "Nationalgalerie von Simbabwe", hu: "Zimbabwei Nemzeti Galéria", ro: "Galeria Națională din Zimbabwe", en: "National Gallery of Zimbabwe" },
-    coordinates: { lat: -17.8242, lng: 31.0494 },
+    coords: [31.0494, -17.8242],
     description: {
       de: "Bedeutendes Kunstmuseum in Harare, das zeitgenössische und traditionelle Kunst zeigt. Es wurde 1957 offiziell eröffnet.",
       hu: "Harare jelentős művészeti múzeuma, amely kortárs és hagyományos alkotásokat mutat be. 1957-ben nyitották meg.",
@@ -1448,7 +1448,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-natural-history-museum-landmarks-v2",
     type: "museum",
     name: { de: "Naturhistorisches Museum von Simbabwe", hu: "Zimbabwei Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală din Zimbabwe", en: "Natural History Museum of Zimbabwe" },
-    coordinates: { lat: -20.1472, lng: 28.5975 },
+    coords: [28.5975, -20.1472],
     description: {
       de: "Eines der besten naturwissenschaftlichen Museen Afrikas in Bulawayo. Es ist bekannt für seine umfangreichen zoologischen Sammlungen.",
       hu: "Afrika egyik legjobb természettudományi múzeuma Bulawayóban. Híres kiterjedt zoológiai gyűjteményeiről.",
@@ -1467,7 +1467,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-bulawayo-railway-museum-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum Bulawayo", hu: "Bulawayói Vasúti Múzeum", ro: "Muzeul Căilor Ferate Bulawayo", en: "Bulawayo Railway Museum" },
-    coordinates: { lat: -20.1653, lng: 28.5778 },
+    coords: [28.5778, -20.1653],
     description: {
       de: "Technikmuseum, das die Geschichte des Eisenbahnwesens in Simbabwe dokumentiert. Es zeigt historische Dampflokomotiven.",
       hu: "Technikai múzeum, amely a zimbabwei vasút történetét dokumentálja. Történelmi gőzmozdonyokat mutat be.",
@@ -1486,7 +1486,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-museum-human-sciences-landmarks-v2",
     type: "museum",
     name: { de: "Simbabwe-Museum für Humanwissenschaften", hu: "Zimbabwei Humántudományi Múzeum", ro: "Muzeul de Științe Umane din Zimbabwe", en: "Zimbabwe Museum of Human Sciences" },
-    coordinates: { lat: -17.8317, lng: 31.0367 },
+    coords: [31.0367, -17.8317],
     description: {
       de: "Zentrales Museum in Harare für Archäologie und Ethnografie. Es beherbergt das bedeutende Ngoma Lungundu Artefakt.",
       hu: "Harare központi régészeti és néprajzi múzeuma. Itt található a jelentős Ngoma Lungundu ereklye.",
@@ -1505,7 +1505,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-mutare-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mutare Museum", hu: "Mutare Múzeum", ro: "Muzeul Mutare", en: "Mutare Museum" },
-    coordinates: { lat: -18.9744, lng: 32.6681 },
+    coords: [32.6681, -18.9744],
     description: {
       de: "Regionalmuseum im Osten Simbabwes mit Fokus auf Transportwesen und Antiquitäten. Es wurde 1954 als Galerie eröffnet.",
       hu: "Kelet-Zimbabwe regionális múzeuma, amely a közlekedésre és régiségekre összpontosít. 1954-ben nyílt meg.",
@@ -1524,7 +1524,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-military-museum-gweru-landmarks-v2",
     type: "museum",
     name: { de: "Militärmuseum von Simbabwe", hu: "Zimbabwei Katonai Múzeum", ro: "Muzeul Militar din Zimbabwe", en: "Military Museum of Zimbabwe" },
-    coordinates: { lat: -19.4589, lng: 29.8164 },
+    coords: [29.8164, -19.4589],
     description: {
       de: "Das nationale Militärmuseum in Gweru dokumentiert die Geschichte der Armee und der Luftwaffe. Es zeigt Flugzeuge und Panzer.",
       hu: "Gweru nemzeti katonai múzeuma a hadsereg és a légierő történetét dokumentálja. Repülőket és harckocsikat mutat be.",
@@ -1543,7 +1543,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-national-archives-landmarks-v2",
     type: "landmark",
     name: { de: "Nationalarchiv von Simbabwe", hu: "Zimbabwei Nemzeti Archívum", ro: "Arhivele Naționale din Zimbabwe", en: "National Archives of Zimbabwe" },
-    coordinates: { lat: -17.7842, lng: 31.0589 },
+    coords: [31.0589, -17.7842],
     description: {
       de: "Zentrales Repositorium für die Geschichte und Dokumentation des Landes. Es wurde 1935 gegründet und bewahrt wichtige Manuskripte.",
       hu: "Az ország történelmének és dokumentációjának központi tára. 1935-ben alapították, fontos kéziratokat őriz.",
@@ -1562,7 +1562,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-bulawayo-high-court-landmarks-v2",
     type: "landmark",
     name: { de: "Hoher Gerichtshof von Bulawayo", hu: "Bulawayói Felsőbíróság Épülete", ro: "Înalta Curte din Bulawayo", en: "Bulawayo High Court Building" },
-    coordinates: { lat: -20.1517, lng: 28.5864 },
+    coords: [28.5864, -20.1517],
     description: {
       de: "Ein prächtiges historisches Gebäude im Zentrum von Bulawayo. Es ist bekannt für seine klassische rote Ziegelarchitektur.",
       hu: "Pompás történelmi épület Bulawayo központjában. Klasszikus vörös téglaépítészetéről ismert.",
@@ -1581,7 +1581,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-african-unity-square-landmarks-v2",
     type: "landmark",
     name: { de: "Platz der Afrikanischen Einheit", hu: "Afrikai Egység Tere", ro: "Piața Unității Africane", en: "African Unity Square" },
-    coordinates: { lat: -17.8292, lng: 31.0522 },
+    coords: [31.0522, -17.8292],
     description: {
       de: "Zentraler öffentlicher Platz in Harare, ursprünglich Cecil Square genannt. Er ist ein wichtiger Treffpunkt und historisches Wahrzeichen.",
       hu: "Központi nyilvános tér Hararéban, eredetileg Cecil térnek hívták. Fontos találkozóhely és történelmi jelkép.",
@@ -1600,7 +1600,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-nesbitt-castle-landmarks-v2",
     type: "castle",
     name: { de: "Nesbitt Castle", hu: "Nesbitt Kastély", ro: "Castelul Nesbitt", en: "Nesbitt Castle" },
-    coordinates: { lat: -20.1872, lng: 28.6144 },
+    coords: [28.6144, -20.1872],
     description: {
       de: "Ein gotisches Schlossgebäude aus dem frühen 20. Jahrhundert in Bulawayo. Es dient heute als exklusives Boutique-Hotel.",
       hu: "Egy korai 20. századi gótikus kastély Bulawayóban. Ma exkluzív butikhotelként működik.",
@@ -1619,7 +1619,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-charter-house-landmarks-v2",
     type: "landmark",
     name: { de: "Charter House", hu: "Charter House", ro: "Charter House", en: "Charter House" },
-    coordinates: { lat: -17.8285, lng: 31.0488 },
+    coords: [31.0488, -17.8285],
     description: {
       de: "Ein historisches Bürogebäude in Harare, das einst der British South Africa Company gehörte. Es ist ein Beispiel für die Architektur der 1950er.",
       hu: "Történelmi irodaépület Hararéban, amely egykor a Brit Dél-afrikai Társaságé volt. Az 1950-es évek építészetének példája.",
@@ -1638,7 +1638,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-goldfields-building-landmarks-v2",
     type: "landmark",
     name: { de: "Goldfields Gebäude", hu: "Goldfields Épület", ro: "Clădirea Goldfields", en: "Goldfields Building" },
-    coordinates: { lat: -17.8288, lng: 31.0503 },
+    coords: [31.0503, -17.8288],
     description: {
       de: "Eines der ältesten erhaltenen Geschäftsgebäude in Harare. Es repräsentiert die frühe Bergbaugeschichte und koloniale Architektur.",
       hu: "Harare egyik legrégebbi fennmaradt üzleti épülete. A korai bányászati történelmet és a gyarmati építészetet képviseli.",
@@ -1657,7 +1657,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-bulawayo-public-library-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek Bulawayo", hu: "Bulawayói Közkönyvtár", ro: "Biblioteca Publică din Bulawayo", en: "Bulawayo Public Library" },
-    coordinates: { lat: -20.1555, lng: 28.5836 },
+    coords: [28.5836, -20.1555],
     description: {
       de: "Eine der ältesten öffentlichen Bibliotheken des Landes, gegründet im späten 19. Jahrhundert. Das Gebäude ist ein Kulturdenkmal.",
       hu: "Az ország egyik legrégebbi közkönyvtára, amelyet a 19. század végén alapítottak. Az épület kulturális műemlék.",
@@ -1676,7 +1676,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-harare-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptpostamt Harare", hu: "Hararei Főposta", ro: "Poșta Centrală din Harare", en: "Harare Main Post Office" },
-    coordinates: { lat: -17.8322, lng: 31.0492 },
+    coords: [31.0492, -17.8322],
     description: {
       de: "Ein zentrales öffentliches Gebäude und ein wichtiger Orientierungspunkt im Stadtzentrum von Harare an der Inez Terrace.",
       hu: "Központi középület és fontos tájékozódási pont Harare városközpontjában, az Inez Terrace-on.",
@@ -1695,7 +1695,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-rhodes-nyanga-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Rhodes Nyanga Hotel", hu: "Rhodes Nyanga Hotel", ro: "Hotelul Rhodes Nyanga", en: "Rhodes Nyanga Hotel" },
-    coordinates: { lat: -18.2867, lng: 32.7383 },
+    coords: [32.7383, -18.2867],
     description: {
       de: "Ein historisches Hotel in den Nyanga-Bergen, das ursprünglich das Sommerhaus von Cecil Rhodes war. Es ist heute ein nationales Denkmal.",
       hu: "Történelmi szálloda a Nyanga-hegységben, amely eredetileg Cecil Rhodes nyaralója volt. Ma nemzeti emlékhely.",
@@ -1714,7 +1714,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-mbare-musika-landmarks-v2",
     type: "landmark",
     name: { de: "Mbare Musika", hu: "Mbare Musika", ro: "Mbare Musika", en: "Mbare Musika" },
-    coordinates: { lat: -17.8544, lng: 31.0389 },
+    coords: [31.0389, -17.8544],
     description: {
       de: "Der größte Busbahnhof und Marktplatz in Simbabwe, gelegen im Stadtteil Mbare von Harare. Ein pulsierendes Zentrum des Handels.",
       hu: "Zimbabwe legnagyobb buszpályaudvara és piactere Harare Mbare negyedében. A kereskedelem lüktető központja.",
@@ -1733,7 +1733,7 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
     id: "zimbabwe-mining-museum-kwekwe-landmarks-v2",
     type: "museum",
     name: { de: "Bergbaumuseum Kwekwe", hu: "Kwekwei Bányászati Múzeum", ro: "Muzeul Mineritului din Kwekwe", en: "Mining Museum Kwekwe" },
-    coordinates: { lat: -18.9225, lng: 29.8111 },
+    coords: [29.8111, -18.9225],
     description: {
       de: "Ein spezialisiertes Museum in Kwekwe, das die Entwicklung der Bergbauindustrie in der Region und ihre technische Geschichte zeigt.",
       hu: "Kwekwei szakmúzeum, amely a régió bányászatának fejlődését és technikai történetét mutatja be.",

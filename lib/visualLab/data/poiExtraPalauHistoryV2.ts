@@ -5,7 +5,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-peleliu-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Peleliu", hu: "Peleliui csatatér", ro: "Câmpul de luptă Peleliu", en: "Peleliu Battlefield" },
-    coordinates: { lat: 6.985, lng: 134.238 },
+    coords: [134.238, 6.985],
     description: {
       de: "Dieses geschichtsträchtige Areal umfasst Überreste der heftigen Kämpfe von 1944, darunter japanische Bunker und amerikanische Panzer.",
       hu: "Ez a történelmi terület az 1944-es heves harcok maradványait őrzi, beleértve a japán bunkereket és az amerikai harckocsikat.",
@@ -24,7 +24,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-badrulchau-monoliths-history-v2",
     type: "ruins",
     name: { de: "Badrulchau Steinmonolithe", hu: "Badrulchau kőmonolitok", ro: "Monoliții din Badrulchau", en: "Badrulchau Stone Monoliths" },
-    coordinates: { lat: 7.713, lng: 134.628 },
+    coords: [134.628, 7.713],
     description: {
       de: "Die Anlage in Ngarchelong besteht aus 37 massiven Basaltmonolithen, deren Ursprung auf etwa 150 n. Chr. datiert wird.",
       hu: "A Ngarchelongban található helyszín 37 masszív bazaltmonolitból áll, melyek eredete i.sz. 150 környékére tehető.",
@@ -43,7 +43,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-angaur-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Angaur", hu: "Angauri csatatér", ro: "Câmpul de luptă Angaur", en: "Angaur Battlefield" },
-    coordinates: { lat: 6.906, lng: 134.131 },
+    coords: [134.131, 6.906],
     description: {
       de: "Im September 1944 war diese Insel Schauplatz erbitterter Kämpfe zwischen der 81. Infanteriedivision der USA und japanischen Verteidigern.",
       hu: "1944 szeptemberében ez a sziget az amerikai 81. gyaloghadosztály és a japán védők közötti elkeseredett harcok helyszíne volt.",
@@ -62,7 +62,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-german-channel-history-v2",
     type: "landmark",
     name: { de: "Deutscher Kanal", hu: "Német-csatorna", ro: "Canalul German", en: "German Channel" },
-    coordinates: { lat: 7.118, lng: 134.275 },
+    coords: [134.275, 7.118],
     description: {
       de: "Dieser künstliche Kanal wurde während der deutschen Kolonialzeit angelegt, um den Transport von Phosphat aus den südlichen Lagunen zu ermöglichen.",
       hu: "Ezt a mesterséges csatornát a német gyarmati időszakban hozták létre, hogy lehetővé tegyék a foszfát szállítását a déli lagúnákból.",
@@ -81,7 +81,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-airai-bai-history-v2",
     type: "landmark",
     name: { de: "Bai ra Airai", hu: "Airai-i Bai", ro: "Bai ra Airai", en: "Bai ra Airai" },
-    coordinates: { lat: 7.363, lng: 134.562 },
+    coords: [134.562, 7.363],
     description: {
       de: "Dieses über 130 Jahre alte traditionelle Versammlungshaus ist das älteste seiner Art in Palau und ein wichtiges kulturelles Denkmal.",
       hu: "Ez a több mint 130 éves hagyományos gyülekezeti ház a legrégebbi ilyen típusú épület Palauban és fontos kulturális emlék.",
@@ -100,7 +100,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-japanese-comm-center-history-v2",
     type: "ruins",
     name: { de: "Japanisches Kommunikationszentrum", hu: "Japán hírközlési központ", ro: "Centrul de comunicații japonez", en: "Japanese Communications Center" },
-    coordinates: { lat: 7.375, lng: 134.551 },
+    coords: [134.551, 7.375],
     description: {
       de: "Diese Ruine eines massiven Stahlbetongebäudes in Airai diente während des Zweiten Weltkriegs als Nachrichtenzentrale der japanischen Armee.",
       hu: "Ez az Airai-ban található masszív vasbeton épületrom a japán hadsereg hírközlési központjaként szolgált a második világháború alatt.",
@@ -119,7 +119,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-aimeliik-terraces-history-v2",
     type: "ruins",
     name: { de: "Aimeliik-Terrassen", hu: "Aimeliik-teraszok", ro: "Terasele din Aimeliik", en: "Aimeliik Terraces" },
-    coordinates: { lat: 7.445, lng: 134.502 },
+    coords: [134.502, 7.445],
     description: {
       de: "Diese monumentalen Erdterrassen wurden von prähistorischen Gesellschaften in die Hügel von Babeldaob geformt.",
       hu: "Ezeket a monumentális földteraszokat történelem előtti társadalmak alakították ki Babeldaob dombjain.",
@@ -138,7 +138,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-orange-beach-history-v2",
     type: "battlefield",
     name: { de: "Orange Beach", hu: "Orange Beach", ro: "Plaja Orange", en: "Orange Beach" },
-    coordinates: { lat: 6.993, lng: 134.225 },
+    coords: [134.225, 6.993],
     description: {
       de: "An diesem Strandabschnitt auf Peleliu landeten am 15. September 1944 die ersten US-Marines unter heftigem japanischem Feuer.",
       hu: "Peleliu ezen strand szakaszán szálltak partra az első amerikai tengerészgyalogosok 1944. szeptember 15-én, heves japán tűz közepette.",
@@ -157,7 +157,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-ngarchelong-stone-faces-history-v2",
     type: "ruins",
     name: { de: "Ngarchelong Steingesichter", hu: "Ngarchelongi kőarcok", ro: "Fețele de piatră din Ngarchelong", en: "Ngarchelong Stone Faces" },
-    coordinates: { lat: 7.712, lng: 134.629 },
+    coords: [134.629, 7.712],
     description: {
       de: "Inmitten der Badrulchau-Anlage finden sich Basaltsteine, in die rätselhafte menschliche Gesichter eingemeißelt wurden.",
       hu: "A Badrulchau-helyszín közepén olyan bazaltkövek találhatók, melyekbe rejtélyes emberi arcokat véstek.",
@@ -176,7 +176,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-chelechol-ra-orrak-history-v2",
     type: "ruins",
     name: { de: "Chelechol ra Orrak", hu: "Chelechol ra Orrak", ro: "Chelechol ra Orrak", en: "Chelechol ra Orrak" },
-    coordinates: { lat: 7.333, lng: 134.451 },
+    coords: [134.451, 7.333],
     description: {
       de: "Diese Kalksteinhöhle auf einer Insel nahe Koror diente vor etwa 3.000 Jahren als eine der frühesten Bestattungsstätten des Archipels.",
       hu: "Ez a Koror közeli szigeten található mészkőbarlang körülbelül 3000 évvel ezelőtt a szigetcsoport egyik legkorábbi temetkezési helyeként szolgált.",
@@ -195,7 +195,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-ngerulmud-monoliths-history-v2",
     type: "landmark",
     name: { de: "Ngerulmud Monolithe", hu: "Ngerulmudi monolitok", ro: "Monoliții din Ngerulmud", en: "Ngerulmud Monoliths" },
-    coordinates: { lat: 7.501, lng: 134.624 },
+    coords: [134.624, 7.501],
     description: {
       de: "In der Nähe des heutigen Regierungssitzes befinden sich antike Steinbauten, die auf die historische Bedeutung dieses Ortes hinweisen.",
       hu: "A mai kormányzati székhely közelében antik kőépítmények találhatók, melyek a hely történelmi jelentőségére utalnak.",
@@ -214,7 +214,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-ngerchelchuus-stone-path-history-v2",
     type: "ruins",
     name: { de: "Steinpfad von Ngerchelchuus", hu: "Ngerchelchuus kőút", ro: "Calea de piatră din Ngerchelchuus", en: "Stone Path of Ngerchelchuus" },
-    coordinates: { lat: 7.562, lng: 134.568 },
+    coords: [134.568, 7.562],
     description: {
       de: "Dieser antike, mit Steinen gepflasterte Weg führt durch den dichten Dschungel von Babeldaob und verband einst wichtige Dörfer.",
       hu: "Ez az antik, kövekkel kirakott út Babeldaob sűrű dzsungelén vezet keresztül, és egykor fontos falvakat kötött össze.",
@@ -233,7 +233,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-imeong-village-ruins-history-v2",
     type: "ruins",
     name: { de: "Imeong Dorfruinen", hu: "Imeong faluromok", ro: "Ruinele satului Imeong", en: "Imeong Village Ruins" },
-    coordinates: { lat: 7.526, lng: 134.526 },
+    coords: [134.526, 7.526],
     description: {
       de: "Das antike Dorf Imeong beherbergt bedeutende Steinplattformen und Terrassen, die einst das kulturelle Zentrum von Ngeremlengui bildeten.",
       hu: "Imeong antik faluja jelentős kőplatformoknak és teraszoknak ad otthont, melyek egykor Ngeremlengui kulturális központját alkották.",
@@ -252,7 +252,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-ngeruktabel-stone-fort-history-v2",
     type: "ruins",
     name: { de: "Steinfort von Ngeruktabel", hu: "Ngeruktabel kőerőd", ro: "Fortul de piatră din Ngeruktabel", en: "Ngeruktabel Stone Fort" },
-    coordinates: { lat: 7.273, lng: 134.409 },
+    coords: [134.409, 7.273],
     description: {
       de: "Auf der unbewohnten Insel Ngeruktabel finden sich Überreste von Verteidigungsanlagen aus Stein, die vor dem europäischen Kontakt errichtet wurden.",
       hu: "A lakatlan Ngeruktabel-szigeten kőből készült védművek maradványai találhatók, melyeket az európaiakkal való érintkezés előtt építettek.",
@@ -271,7 +271,7 @@ export const palauHistoryV2: POI[] = [
     id: "palau-ngaraard-stone-path-history-v2",
     type: "ruins",
     name: { de: "Ngaraard Steinpfad", hu: "Ngaraardi kőút", ro: "Calea de piatră din Ngaraard", en: "Ngaraard Stone Path" },
-    coordinates: { lat: 7.626, lng: 134.629 },
+    coords: [134.629, 7.626],
     description: {
       de: "Dieser historische Pfad in Ngaraard ist ein hervorragendes Beispiel für die traditionelle Wegebautechnik aus behauenem Basaltstein.",
       hu: "Ez a Ngaraardban található történelmi út kiváló példája a hagyományos, faragott bazaltkőből készült útépítési technikának.",

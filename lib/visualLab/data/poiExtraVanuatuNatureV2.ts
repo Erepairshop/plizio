@@ -5,7 +5,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mount-tabwemasana-nature-v2",
     type: "peak",
     name: { de: "Mount Tabwemasana", hu: "Mount Tabwemasana", ro: "Muntele Tabwemasana", en: "Mount Tabwemasana" },
-    coordinates: { lat: -15.3533, lng: 166.7533 },
+    coords: [166.7533, -15.3533],
     description: {
       de: "Der Mount Tabwemasana ist mit 1.879 Metern der höchste Gipfel Vanuatus. Er befindet sich an der Westküste der Insel Espiritu Santo.",
       hu: "A Mount Tabwemasana Vanuatu legmagasabb csúcsa, amely 1879 méter magas. Espiritu Santo szigetének vadregényes nyugati partján található.",
@@ -24,7 +24,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mount-yasur-nature-v2",
     type: "mountain",
     name: { de: "Mount Yasur", hu: "Mount Yasur", ro: "Muntele Yasur", en: "Mount Yasur" },
-    coordinates: { lat: -19.5322, lng: 169.4475 },
+    coords: [169.4475, -19.5322],
     description: {
       de: "Der Mount Yasur ist ein aktiver Vulkan auf der Insel Tanna. Er ist bekannt für seine kontinuierlichen strombolianischen Eruptionen.",
       hu: "A Mount Yasur egy aktív vulkán Tanna szigetén. Folyamatos strombolói típusú kitöréseiről és könnyű megközelíthetőségéről ismert.",
@@ -43,7 +43,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-lake-letas-nature-v2",
     type: "lake",
     name: { de: "Letas-See", hu: "Letas-tó", ro: "Lacul Letas", en: "Lake Letas" },
-    coordinates: { lat: -14.2833, lng: 167.5333 },
+    coords: [167.5333, -14.2833],
     description: {
       de: "Der Letas-See ist der größte Süßwassersee in Vanuatu und befindet sich auf der Insel Gaua. Er liegt in der Caldera des Mount Garet.",
       hu: "A Letas-tó Vanuatu legnagyobb édesvízi tava Gaua szigetén. A Mount Garet vulkán kalderájában található, 418 méterrel a tengerszint felett.",
@@ -62,7 +62,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-siri-falls-nature-v2",
     type: "river",
     name: { de: "Siri-Wasserfall", hu: "Siri-vízesés", ro: "Cascada Siri", en: "Siri Falls" },
-    coordinates: { lat: -14.2758, lng: 167.5136 },
+    coords: [167.5136, -14.2758],
     description: {
       de: "Die Siri-Wasserfälle speisen sich aus dem Letas-See auf Gaua. Mit einer Fallhöhe von 120 Metern gehören sie zu den höchsten des Landes.",
       hu: "A Siri-vízesés a Gaua-szigeti Letas-tóból ered. 120 méteres magasságával Vanuatu egyik leglátványosabb és legmagasabb vízesése.",
@@ -81,7 +81,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mele-cascades-nature-v2",
     type: "river",
     name: { de: "Mele-Kaskaden", hu: "Mele-vízesés", ro: "Cascadele Mele", en: "Mele Cascades" },
-    coordinates: { lat: -17.675, lng: 168.2561 },
+    coords: [168.2561, -17.675],
     description: {
       de: "Die Mele-Kaskaden sind eine Reihe von Terrassenwasserfällen auf der Insel Efate. Sie münden in natürliche Pools zum Schwimmen.",
       hu: "A Mele-vízesés egy sor teraszos zuhatag Efate szigetén. A víz természetes mészkőmedencékbe folyik, amelyek alkalmasak az úszásra.",
@@ -100,7 +100,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-champagne-beach-nature-v2",
     type: "landmark",
     name: { de: "Champagne Beach", hu: "Champagne-part", ro: "Plaja Champagne", en: "Champagne Beach" },
-    coordinates: { lat: -15.1439, lng: 167.1214 },
+    coords: [167.1214, -15.1439],
     description: {
       de: "Champagne Beach ist berühmt für seinen weißen Sand und das sprudelnde Wasser bei Ebbe, das durch vulkanische Gase verursacht wird.",
       hu: "A Champagne-part híres fehér homokjáról és a víz alatti gázok okozta pezsgésről, amely apálykor figyelhető meg.",
@@ -119,7 +119,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mount-marum-nature-v2",
     type: "mountain",
     name: { de: "Mount Marum", hu: "Mount Marum", ro: "Muntele Marum", en: "Mount Marum" },
-    coordinates: { lat: -16.25, lng: 168.1167 },
+    coords: [168.1167, -16.25],
     description: {
       de: "Der Mount Marum ist einer der beiden aktiven Vulkankegel in der großen Caldera auf der Insel Ambrym.",
       hu: "A Mount Marum az egyik aktív vulkáni kúp az Ambrym-szigeti hatalmas kalderában. Aktív lávataváról ismert.",
@@ -138,7 +138,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mount-benbow-nature-v2",
     type: "mountain",
     name: { de: "Mount Benbow", hu: "Mount Benbow", ro: "Muntele Benbow", en: "Mount Benbow" },
-    coordinates: { lat: -16.2333, lng: 168.0833 },
+    coords: [168.0833, -16.2333],
     description: {
       de: "Mount Benbow ist der zweite aktive Krater auf Ambrym. Er zeichnet sich durch seine karge Aschelandschaft und steile Kraterwände aus.",
       hu: "A Mount Benbow a második aktív kráter Ambrym szigetén. Sivár hamusivatag és meredek kráterfalak jellemzik.",
@@ -157,7 +157,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-manaro-voui-nature-v2",
     type: "mountain",
     name: { de: "Manaro Voui", hu: "Manaro Voui", ro: "Manaro Voui", en: "Manaro Voui" },
-    coordinates: { lat: -15.3889, lng: 167.8333 },
+    coords: [167.8333, -15.3889],
     description: {
       de: "Manaro Voui ist ein gefährlicher Schildvulkan auf der Insel Ambae. Er beherbergt drei Kraterseen mit unterschiedlichen Farben.",
       hu: "A Manaro Voui egy veszélyes pajzsvulkán Ambae szigetén. Három különböző színű krátertónak ad otthont a csúcsán.",
@@ -176,7 +176,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-erakor-lagoon-nature-v2",
     type: "landmark",
     name: { de: "Erakor-Lagune", hu: "Erakor-lagúna", ro: "Laguna Erakor", en: "Erakor Lagoon" },
-    coordinates: { lat: -17.7667, lng: 168.3167 },
+    coords: [168.3167, -17.7667],
     description: {
       de: "Die Erakor-Lagune ist eine flache, türkisfarbene Wasserstraße in der Nähe von Port Vila. Sie ist von Mangroven und Korallenriffen umgeben.",
       hu: "Az Erakor-lagúna egy sekély, türkizkék vízfelület Port Vila közelében. Mangroveerdők és korallzátonyok veszik körül.",
@@ -195,7 +195,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-shark-bay-nature-v2",
     type: "landmark",
     name: { de: "Shark Bay", hu: "Cápa-öböl", ro: "Golful Rechinilor", en: "Shark Bay" },
-    coordinates: { lat: -15.1833, lng: 167.1333 },
+    coords: [167.1333, -15.1833],
     description: {
       de: "Shark Bay ist eine ruhige Bucht auf Espiritu Santo mit klarem Wasser und ausgedehnten Seegraswiesen.",
       hu: "A Cápa-öböl egy csendes öböl Espiritu Santo szigetén, tiszta vízzel és kiterjedt tengerifű-mezőkkel.",
@@ -214,7 +214,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-cooks-bay-nature-v2",
     type: "landmark",
     name: { de: "Cooks Bay", hu: "Cook-öböl", ro: "Golful Cook", en: "Cook's Bay" },
-    coordinates: { lat: -18.7333, lng: 169.2167 },
+    coords: [169.2167, -18.7333],
     description: {
       de: "Cooks Bay auf der Insel Erromango ist nach Kapitän James Cook benannt. Die Bucht ist von steilen, bewaldeten Hügeln umgeben.",
       hu: "Az Erromango-szigeti Cook-öböl James Cook kapitányról kapta a nevét. Az öblöt meredek, erdős dombok veszik körül.",
@@ -233,7 +233,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mystery-island-nature-v2",
     type: "landmark",
     name: { de: "Mystery Island", hu: "Mystery-sziget", ro: "Insula Mystery", en: "Mystery Island" },
-    coordinates: { lat: -20.25, lng: 169.8333 },
+    coords: [169.8333, -20.25],
     description: {
       de: "Mystery Island, lokal als Inyeug bekannt, ist eine winzige, unbewohnte Koralleninsel südlich von Aneityum mit unberührten Riffen.",
       hu: "A Mystery-sziget, helyi nevén Inyeug, egy apró, lakatlan korallsziget Aneityumtól délre, érintetlen zátonyokkal.",
@@ -252,7 +252,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-lopevi-volcano-nature-v2",
     type: "mountain",
     name: { de: "Lopevi Vulkan", hu: "Lopevi-vulkán", ro: "Vulcanul Lopevi", en: "Lopevi Volcano" },
-    coordinates: { lat: -16.5111, lng: 168.3458 },
+    coords: [168.3458, -16.5111],
     description: {
       de: "Lopevi ist einer der aktivsten Vulkane Vanuatus und bildet eine perfekte kegelförmige Insel im Pazifik.",
       hu: "Lopevi Vanuatu egyik legaktívabb vulkánja, amely egy tökéletes kúp alakú szigetet alkot a Csendes-óceánban.",
@@ -271,7 +271,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-port-orly-nature-v2",
     type: "landmark",
     name: { de: "Port Orly Küste", hu: "Port Orly tengerpart", ro: "Coasta Port Orly", en: "Port Orly Coastline" },
-    coordinates: { lat: -15.0417, lng: 167.1111 },
+    coords: [167.1111, -15.0417],
     description: {
       de: "Port Orly ist bekannt für seine weiten, weißen Sandstrände und das ruhige, azurblaue Wasser im Norden von Espiritu Santo.",
       hu: "Port Orly híres széles, fehér homokos strandjairól és nyugodt, azúrkék vizéről Espiritu Santo északi részén.",
@@ -290,7 +290,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-mount-garet-nature-v2",
     type: "mountain",
     name: { de: "Mount Garet", hu: "Mount Garet", ro: "Muntele Garet", en: "Mount Garet" },
-    coordinates: { lat: -14.2889, lng: 167.5167 },
+    coords: [167.5167, -14.2889],
     description: {
       de: "Mount Garet ist der aktive Vulkankegel im Zentrum der Insel Gaua, umgeben vom halbmondförmigen Letas-See.",
       hu: "A Mount Garet egy aktív vulkáni kúp Gaua szigetének közepén, amelyet a félhold alakú Letas-tó vesz körül.",
@@ -309,7 +309,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-hideaway-island-nature-v2",
     type: "landmark",
     name: { de: "Hideaway Island", hu: "Hideaway-sziget", ro: "Insula Hideaway", en: "Hideaway Island" },
-    coordinates: { lat: -17.7083, lng: 168.2611 },
+    coords: [168.2611, -17.7083],
     description: {
       de: "Hideaway Island ist ein kleines Korallen-Atoll in der Mele Bay bei Efate. Es ist ein ausgewiesenes Meeresschutzgebiet.",
       hu: "A Hideaway-sziget egy kis korallzátony az Efate-szigeti Mele-öbölben. Kijelölt tengeri természetvédelmi terület.",
@@ -328,7 +328,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-pele-island-nature-v2",
     type: "landmark",
     name: { de: "Pele Island", hu: "Pele-sziget", ro: "Insula Pele", en: "Pele Island" },
-    coordinates: { lat: -17.4833, lng: 168.4 },
+    coords: [168.4, -17.4833],
     description: {
       de: "Pele Island ist eine vulkanische Insel nördlich von Efate. Sie bietet weiße Sandstrände und reiche Korallenriffe zum Schnorcheln.",
       hu: "A Pele-sziget egy vulkanikus sziget Efate-tól északra. Fehér homokos strandokat és gazdag korallzátonyokat kínál.",
@@ -347,7 +347,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-nguna-island-nature-v2",
     type: "mountain",
     name: { de: "Nguna Island", hu: "Nguna-sziget", ro: "Insula Nguna", en: "Nguna Island" },
-    coordinates: { lat: -17.45, lng: 168.35 },
+    coords: [168.35, -17.45],
     description: {
       de: "Nguna Island wird von zwei erloschenen Vulkankegeln dominiert. Der Mount Taputoa ist mit 593 Metern der höchste Punkt.",
       hu: "A Nguna-szigetet két kialudt vulkáni kúp uralja. A Mount Taputoa 593 méteres magasságával a sziget legmagasabb pontja.",
@@ -366,7 +366,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-moso-island-nature-v2",
     type: "landmark",
     name: { de: "Moso Island", hu: "Moso-sziget", ro: "Insula Moso", en: "Moso Island" },
-    coordinates: { lat: -17.5333, lng: 168.25 },
+    coords: [168.25, -17.5333],
     description: {
       de: "Moso Island bildet eine natürliche Barriere für den Havannah Harbour auf Efate. Die Insel ist bekannt für ihre Schildkrötenschutzgebiete.",
       hu: "A Moso-sziget természetes gátat alkot az Efate-szigeti Havannah-kikötő számára. A sziget teknősvédelmi projektjeiről ismert.",
@@ -385,7 +385,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-lelepa-island-nature-v2",
     type: "landmark",
     name: { de: "Lelepa Island", hu: "Lelepa-sziget", ro: "Insula Lelepa", en: "Lelepa Island" },
-    coordinates: { lat: -17.6, lng: 168.2 },
+    coords: [168.2, -17.6],
     description: {
       de: "Lelepa Island ist eine zerklüftete Insel bei Efate mit bedeutenden Kalksteinhöhlen und unberührten Schnorchelplätzen.",
       hu: "A Lelepa-sziget egy tagolt sziget Efate mellett, jelentős mészkőbarlangokkal és érintetlen búvárhelyekkel.",
@@ -404,7 +404,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-rentapao-river-nature-v2",
     type: "river",
     name: { de: "Rentapao-Fluss", hu: "Rentapao-folyó", ro: "Râul Rentapao", en: "Rentapao River" },
-    coordinates: { lat: -17.7833, lng: 168.4333 },
+    coords: [168.4333, -17.7833],
     description: {
       de: "Der Rentapao ist einer der größten Flüsse auf der Insel Efate. Er fließt durch dichten Regenwald und bildet kleine Kaskaden.",
       hu: "A Rentapao az Efate-sziget egyik legnagyobb folyója. Sűrű esőerdőn keresztül folyik, és kisebb zuhatagokat alkot.",
@@ -423,7 +423,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-teouma-river-nature-v2",
     type: "river",
     name: { de: "Teouma-Fluss", hu: "Teouma-folyó", ro: "Râul Teouma", en: "Teouma River" },
-    coordinates: { lat: -17.7667, lng: 168.3833 },
+    coords: [168.3833, -17.7667],
     description: {
       de: "Der Teouma-Fluss auf Efate ist für sein klares Wasser und die umliegenden fruchtbaren Täler bekannt.",
       hu: "Az Efate-szigeti Teouma-folyó tiszta vizéről és a környező termékeny völgyekről ismert.",
@@ -442,7 +442,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-big-bay-nature-v2",
     type: "landmark",
     name: { de: "Big Bay", hu: "Big Bay", ro: "Golful Big Bay", en: "Big Bay" },
-    coordinates: { lat: -15.1167, lng: 166.8667 },
+    coords: [166.8667, -15.1167],
     description: {
       de: "Big Bay ist die größte Bucht Vanuatus im Norden von Espiritu Santo. Sie beherbergt das Vatthe-Schutzgebiet und schwarze Sandstrände.",
       hu: "A Big Bay Vanuatu legnagyobb öble Espiritu Santo északi részén. Itt található a Vatthe természetvédelmi terület és fekete homokos strandok.",
@@ -461,7 +461,7 @@ export const vanuatuNatureV2: POI[] = [
     id: "vanuatu-south-west-bay-nature-v2",
     type: "landmark",
     name: { de: "South West Bay", hu: "Délnyugati-öböl", ro: "Golful South West", en: "South West Bay" },
-    coordinates: { lat: -16.4833, lng: 167.4333 },
+    coords: [167.4333, -16.4833],
     description: {
       de: "Die South West Bay auf Malakula ist eine tiefe, natürliche Bucht, die von Bergen und Mangrovenwäldern umgeben ist.",
       hu: "A malakulai Délnyugati-öböl egy mély, természetes öböl, amelyet hegyek és mangroveerdők vesznek körül.",

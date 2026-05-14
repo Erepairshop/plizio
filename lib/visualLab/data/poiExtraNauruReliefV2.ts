@@ -5,7 +5,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-anibare-escarpment-relief-v2",
     type: "landmark",
     name: { de: "Anibare-Abhang", hu: "Anibare-sziklafal", ro: "Escarpamentul Anibare", en: "Anibare Escarpment" },
-    coordinates: { lat: -0.535, lng: 166.948 },
+    coords: [166.948, -0.535],
     description: {
       de: "Dieser steile Abhang markiert den Übergang vom zentralen Plateau zur Anibare-Bucht an der Ostküste.",
       hu: "Ez a meredek lejtő jelzi az átmenetet a központi fennsík és a keleti parton fekvő Anibare-öböl között.",
@@ -24,7 +24,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-buada-basin-relief-v2",
     type: "valley",
     name: { de: "Buada-Becken", hu: "Buada-medence", ro: "Bazinul Buada", en: "Buada Basin" },
-    coordinates: { lat: -0.536, lng: 166.921 },
+    coords: [166.921, -0.536],
     description: {
       de: "Das Buada-Becken ist eine natürliche Senke im zentralen Plateau, in der sich der einzige Binnensee der Insel befindet.",
       hu: "A Buada-medence egy természetes mélyedés a fennsíkon, ahol a sziget egyetlen belvízi tava található.",
@@ -43,7 +43,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-western-slopes-relief-v2",
     type: "mountain",
     name: { de: "Westliche Hänge", hu: "Nyugati lejtők", ro: "Pantele Vestice", en: "Western Slopes" },
-    coordinates: { lat: -0.528, lng: 166.912 },
+    coords: [166.912, -0.528],
     description: {
       de: "Die westlichen Hänge fallen steil vom Topside-Plateau zur schmalen Küstenebene in den Distrikten Aiwo und Denigomodu ab.",
       hu: "A nyugati lejtők meredeken ereszkednek le a Topside fennsíkról a keskeny parti síkságra Aiwo környékén.",
@@ -62,7 +62,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-northern-uplands-relief-v2",
     type: "mountain",
     name: { de: "Nördliches Hochland", hu: "Északi-fennsíkvidék", ro: "Ținuturile Înalte de Nord", en: "Northern Uplands" },
-    coordinates: { lat: -0.512, lng: 166.932 },
+    coords: [166.932, -0.512],
     description: {
       de: "Das nördliche Hochland umfasst die höher gelegenen Bereiche des Plateaus in den Distrikten Ewa und Anetan.",
       hu: "Az északi fennsíkvidék a sziget északi részének magasabb területeit foglalja magában Ewa körzetében.",
@@ -81,7 +81,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-meneng-terrace-relief-v2",
     type: "landmark",
     name: { de: "Meneng-Terrasse", hu: "Meneng-terasz", ro: "Terasa Meneng", en: "Meneng Terrace" },
-    coordinates: { lat: -0.545, lng: 166.935 },
+    coords: [166.935, -0.545],
     description: {
       de: "Die Meneng-Terrasse ist eine flache topographische Stufe zwischen dem hohen Plateau und der südlichen Küste.",
       hu: "A Meneng-terasz egy lapos domborzati lépcső a magas fennsík és a déli partvonal között.",
@@ -100,7 +100,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-phosphate-pinnacles-relief-v2",
     type: "landmark",
     name: { de: "Phosphat-Zinnentürme", hu: "Foszfát-sziklatűk", ro: "Pinnacles de Fosfat", en: "Phosphate Pinnacles" },
-    coordinates: { lat: -0.53, lng: 166.935 },
+    coords: [166.935, -0.53],
     description: {
       de: "Diese bizarren Kalksteinsäulen blieben nach dem Abbau der Phosphatschichten im Landesinneren von Nauru zurück.",
       hu: "Ezek a különös mészkőoszlopok a foszfátrétegek kitermelése után maradtak vissza Nauru belsejében.",
@@ -119,7 +119,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-eastern-rim-relief-v2",
     type: "landmark",
     name: { de: "Östlicher Plateaurand", hu: "Keleti fennsíkperem", ro: "Marginea Estică a Podișului", en: "Eastern Plateau Rim" },
-    coordinates: { lat: -0.525, lng: 166.95 },
+    coords: [166.95, -0.525],
     description: {
       de: "Der östliche Rand des Plateaus bietet steile Felswände, die über der schmalen Küstenebene von Ijuw thronen.",
       hu: "A fennsík keleti pereme meredek sziklákkal magasodik Ijuw körzetének keskeny parti síksága fölé.",
@@ -138,7 +138,7 @@ export const nauruReliefV2: POI[] = [
     id: "nauru-interior-lowland-relief-v2",
     type: "valley",
     name: { de: "Inneres Tiefland", hu: "Belső mélyföld", ro: "Depresiunea Interioară", en: "Interior Lowland" },
-    coordinates: { lat: -0.54, lng: 166.92 },
+    coords: [166.92, -0.54],
     description: {
       de: "Dieses tiefer gelegene Gebiet im Inneren der Insel ist von den höheren Rändern des Korallenplateaus umgeben.",
       hu: "A sziget belsejében található alacsonyabb fekvésű terület, amelyet a korallfennsík magasabb peremei vesznek körül.",

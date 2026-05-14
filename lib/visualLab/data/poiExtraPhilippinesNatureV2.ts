@@ -848,7 +848,7 @@ image: "/poi-images/ph-davao-gulf-nature-v2.webp"
     id: "philippines-kayangan-lake-nature-v2",
     type: "lake",
     name: { de: "Kayangan-See", hu: "Kayangan-tó", ro: "Lacul Kayangan", en: "Kayangan Lake" },
-    coordinates: { lat: 11.9472, lng: 120.2267 },
+    coords: [120.2267, 11.9472],
     description: {
       de: "Der Kayangan-See ist ein kristallklarer See auf der Insel Coron in Palawan. Er besteht zu 70 % aus Süßwasser und ist von steilen Kalksteinfelsen umgeben.",
       hu: "A Kayangan-tó egy kristálytiszta vízű tó Coron szigetén, Palawan tartományban. Vize 70%-ban édesvízből áll, meredek mészkősziklák ölelik körbe.",

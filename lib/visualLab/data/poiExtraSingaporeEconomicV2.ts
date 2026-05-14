@@ -728,7 +728,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-mapletree-business-city-economic-v2",
     type: "industry",
     name: { de: "Mapletree Business City", hu: "Mapletree Business City", ro: "Mapletree Business City", en: "Mapletree Business City" },
-    coordinates: { lat: 1.2741, lng: 103.8012 },
+    coords: [103.8012, 1.2741],
     description: {
       de: "Ein moderner integrierter Business-Park im Süden Singapurs mit Fokus auf Technologie und Logistik. Er bietet nachhaltige Arbeitsumgebungen und umfangreiche Freizeiteinrichtungen.",
       hu: "Egy modern üzleti park Szingapúr déli részén, amely technológiai és logisztikai cégekre összpontosít. Fenntartható munkakörnyezetet és kiterjedt szabadidős létesítményeket kínál.",
@@ -747,7 +747,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-international-business-park-economic-v2",
     type: "industry",
     name: { de: "International Business Park", hu: "International Business Park", ro: "International Business Park", en: "International Business Park" },
-    coordinates: { lat: 1.3325, lng: 103.7501 },
+    coords: [103.7501, 1.3325],
     description: {
       de: "Singapurs erster Business-Park liegt im Distrikt Jurong East und beherbergt globale Konzerne. Er dient als Zentrum für Hochtechnologie und softwarebasierte Dienstleistungen.",
       hu: "Szingapúr első üzleti parkja a Jurong East negyedben található, globális vállalatoknak otthont adva. A csúcstechnológia és a szoftveres szolgáltatások központja.",
@@ -766,7 +766,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-paya-lebar-quarter-economic-v2",
     type: "city",
     name: { de: "Paya Lebar Quarter", hu: "Paya Lebar Quarter", ro: "Paya Lebar Quarter", en: "Paya Lebar Quarter" },
-    coordinates: { lat: 1.3174, lng: 103.8932 },
+    coords: [103.8932, 1.3174],
     description: {
       de: "Ein bedeutendes neues Geschäftszentrum im Osten Singapurs, das Büroflächen mit Einkaufszentren kombiniert. Es gilt als wichtiger Knotenpunkt für die regionale Wirtschaftsentwicklung.",
       hu: "Jelentős új üzleti központ Kelet-Szingapúrban, amely irodákat és bevásárlóközpontokat ötvöz. A regionális gazdasági fejlődés fontos csomópontja.",
@@ -785,7 +785,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-changi-airfreight-centre-economic-v2",
     type: "port",
     name: { de: "Changi Airfreight Centre", hu: "Changi Airfreight Centre", ro: "Changi Airfreight Centre", en: "Changi Airfreight Centre" },
-    coordinates: { lat: 1.3652, lng: 103.9961 },
+    coords: [103.9961, 1.3652],
     description: {
       de: "Ein spezialisiertes Frachtzentrum am Flughafen Changi, das rund um die Uhr in Betrieb ist. Es ist einer der effizientesten Luftfrachtknotenpunkte im asiatisch-pazifischen Raum.",
       hu: "A Changi repülőtéren található speciális teherforgalmi központ, amely a nap 24 órájában üzemel. Az ázsiai-csendes-óceáni térség egyik leghatékonyabb légi árufuvarozási csomópontja.",
@@ -804,7 +804,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-tanjong-pagar-terminal-economic-v2",
     type: "port",
     name: { de: "Tanjong Pagar Terminal", hu: "Tanjong Pagar Terminal", ro: "Tanjong Pagar Terminal", en: "Tanjong Pagar Terminal" },
-    coordinates: { lat: 1.2655, lng: 103.8448 },
+    coords: [103.8448, 1.2655],
     description: {
       de: "Das älteste Containerterminal Singapurs liegt direkt am Rande des zentralen Geschäftsviertels. Es spielt eine historische Rolle in der maritimen Entwicklung des Stadtstaates.",
       hu: "Szingapúr legrégebbi konténerterminálja, amely közvetlenül a központi üzleti negyed szélén található. Történelmi szerepet játszik a városállam tengeri fejlődésében.",
@@ -823,7 +823,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-brani-terminal-economic-v2",
     type: "port",
     name: { de: "Brani Terminal", hu: "Brani Terminal", ro: "Brani Terminal", en: "Brani Terminal" },
-    coordinates: { lat: 1.2608, lng: 103.8322 },
+    coords: [103.8322, 1.2608],
     description: {
       de: "Ein bedeutendes Containerterminal auf der Insel Pulau Brani, gegenüber dem Haupthafen. Es ist durch einen Damm mit der Hauptinsel Singapur verbunden.",
       hu: "Jelentős konténerterminál Pulau Brani szigetén, a fő kikötővel szemben. Egy gáttal kapcsolódik Szingapúr főszigetéhez.",
@@ -842,7 +842,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-loyang-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Loyang Industrial Estate", hu: "Loyang Industrial Estate", ro: "Loyang Industrial Estate", en: "Loyang Industrial Estate" },
-    coordinates: { lat: 1.3638, lng: 103.9785 },
+    coords: [103.9785, 1.3638],
     description: {
       de: "Ein Industriegebiet im Osten Singapurs, das sich auf die Luftfahrt und maritime Unterstützung konzentriert. Es beherbergt viele Unternehmen aus der Öl- und Gasindustrie.",
       hu: "Iparnegyed Kelet-Szingapúrban, amely a repülésre és a tengeri támogatásra összpontosít. Számos olaj- és gázipari vállalat bázisa.",
@@ -861,7 +861,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-tai-seng-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Tai Seng Industrial Estate", hu: "Tai Seng Industrial Estate", ro: "Tai Seng Industrial Estate", en: "Tai Seng Industrial Estate" },
-    coordinates: { lat: 1.3352, lng: 103.8885 },
+    coords: [103.8885, 1.3352],
     description: {
       de: "Ein dynamisches Gebiet für Leichtindustrie, Lebensmittelherstellung und Medienunternehmen. Es hat sich von einem traditionellen Fabrikviertel zu einem modernen Lifestyle-Hub gewandelt.",
       hu: "Dinamikus könnyűipari negyed, amely élelmiszergyártásnak és médiacégeknek ad otthont. Hagyományos gyárnegyedből modern életmódközponttá alakult.",
@@ -880,7 +880,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-lim-chu-kang-agrotechnology-park-economic-v2",
     type: "industry",
     name: { de: "Lim Chu Kang Agrotechnology Park", hu: "Lim Chu Kang Agrotechnology Park", ro: "Lim Chu Kang Agrotechnology Park", en: "Lim Chu Kang Agrotechnology Park" },
-    coordinates: { lat: 1.4405, lng: 103.7052 },
+    coords: [103.7052, 1.4405],
     description: {
       de: "Ein spezialisierter Park für moderne Landwirtschaft und Aquakultur im ländlichen Nordwesten Singapurs. Er nutzt Hochtechnologie zur Steigerung der lokalen Lebensmittelproduktion.",
       hu: "Speciális park a modern mezőgazdaság és akvakultúra számára Szingapúr északnyugati részén. Csúcstechnológiát alkalmaz a helyi élelmiszertermelés növelésére.",
@@ -899,7 +899,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-tengeh-floating-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Tengeh Floating Solar Farm", hu: "Tengeh lebegő napelempark", ro: "Ferma solară plutitoare Tengeh", en: "Tengeh Floating Solar Farm" },
-    coordinates: { lat: 1.4028, lng: 103.6805 },
+    coords: [103.6805, 1.4028],
     description: {
       de: "Eines der weltweit größten schwimmenden Solarkraftwerke auf Binnengewässern befindet sich auf dem Tengeh-Reservoir. Es ist ein wichtiger Schritt für Singapurs grüne Energiepolitik.",
       hu: "A világ egyik legnagyobb belföldi vízi felületen lebegő napelemparkja a Tengeh-víztározón található. Fontos lépés Szingapúr zöldenergia-politikájában.",
@@ -918,7 +918,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-senoko-fishery-port-economic-v2",
     type: "port",
     name: { de: "Senoko Fishery Port", hu: "Senoko halászkikötő", ro: "Portul de pescuit Senoko", en: "Senoko Fishery Port" },
-    coordinates: { lat: 1.4645, lng: 103.8122 },
+    coords: [103.8122, 1.4645],
     description: {
       de: "Ein bedeutender Großhandelsmarkt für Fisch und Meeresfrüchte im Norden Singapurs. Der Hafen dient als Anlandungs- und Vertriebszentrum für den lokalen Konsum.",
       hu: "Jelentős hal- és tenger gyümölcsei nagykereskedelmi piac Észak-Szingapúrban. A kikötő a helyi fogyasztás elosztó központjaként szolgál.",
@@ -937,7 +937,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-jurong-fishery-port-economic-v2",
     type: "port",
     name: { de: "Jurong Fishery Port", hu: "Jurong halászkikötő", ro: "Portul de pescuit Jurong", en: "Jurong Fishery Port" },
-    coordinates: { lat: 1.3105, lng: 103.7225 },
+    coords: [103.7225, 1.3105],
     description: {
       de: "Ein internationaler Anlegepunkt für ausländische Fischereischiffe und ein wichtiger Fischgroßhandelsplatz. Er spielt eine zentrale Rolle in der Versorgungskette für Meeresfrüchte.",
       hu: "Külföldi halászhajók nemzetközi kikötőhelye és fontos halnagykereskedelmi központ. Központi szerepet játszik a tenger gyümölcseinek ellátási láncában.",
@@ -956,7 +956,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-globalfoundries-woodlands-economic-v2",
     type: "factory",
     name: { de: "GlobalFoundries Singapore", hu: "GlobalFoundries Singapore", ro: "GlobalFoundries Singapore", en: "GlobalFoundries Singapore" },
-    coordinates: { lat: 1.4462, lng: 103.7845 },
+    coords: [103.7845, 1.4462],
     description: {
       de: "Einer der weltweit führenden Hersteller von Halbleitern betreibt hier riesige Fabrikationsanlagen. Die Fabrik ist entscheidend für die globale Elektronik-Lieferkette.",
       hu: "A világ egyik vezető félvezetőgyártója üzemeltet itt hatalmas gyártóegységeket. A gyár meghatározó a globális elektronikai ellátási láncban.",
@@ -975,7 +975,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-sunget-kadut-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Sungei Kadut Industrial Estate", hu: "Sungei Kadut iparnegyed", ro: "Zona industrială Sungei Kadut", en: "Sungei Kadut Industrial Estate" },
-    coordinates: { lat: 1.4055, lng: 103.7502 },
+    coords: [103.7502, 1.4055],
     description: {
       de: "Ein traditionelles Schwerindustriegebiet, das für Holzverarbeitung und Möbelherstellung bekannt ist. Es wird derzeit zu einem modernen Eco-Distrikt für Agrartechnologie umgebaut.",
       hu: "Hagyományos nehézipari övezet, amely fafeldolgozásáról és bútorgyártásáról ismert. Jelenleg modern agrártechnológiai öko-negyeddé alakítják át.",
@@ -994,7 +994,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-mediapolis-economic-v2",
     type: "industry",
     name: { de: "Mediapolis", hu: "Mediapolis", ro: "Mediapolis", en: "Mediapolis" },
-    coordinates: { lat: 1.2995, lng: 103.7885 },
+    coords: [103.7885, 1.2995],
     description: {
       de: "Ein spezialisierter Hub für die Medien- und Unterhaltungsindustrie in Singapur. Er bietet modernste Infrastruktur für Filmproduktion, digitale Animation und Spieleentwicklung.",
       hu: "Szingapúr média- és szórakoztatóiparának speciális központja. Korszerű infrastruktúrát kínál filmgyártáshoz, digitális animációhoz és játékfejlesztéshez.",
@@ -1013,7 +1013,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-tampines-wafer-fab-park-economic-v2",
     type: "industry",
     name: { de: "Tampines Wafer Fab Park", hu: "Tampines ostyagyártó park", ro: "Parcul de fabricare a waferelor Tampines", en: "Tampines Wafer Fab Park" },
-    coordinates: { lat: 1.3705, lng: 103.9302 },
+    coords: [103.9302, 1.3705],
     description: {
       de: "Ein spezialisiertes Industriegebiet für die Herstellung von Halbleiterwafern im Osten Singapurs. Hier konzentrieren sich Hightech-Unternehmen mit extremen Anforderungen an Reinräume.",
       hu: "Speciális ipari övezet félvezető ostyák gyártására Kelet-Szingapúrban. Itt csoportosulnak a tisztaterekkel szemben támasztott extrém igényű csúcstechnológiai cégek.",
@@ -1032,7 +1032,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-kranji-countryside-economic-v2",
     type: "industry",
     name: { de: "Kranji Countryside", hu: "Kranji vidék", ro: "Zona rurală Kranji", en: "Kranji Countryside" },
-    coordinates: { lat: 1.4255, lng: 103.7152 },
+    coords: [103.7152, 1.4255],
     description: {
       de: "Das primäre Agrargebiet Singapurs, das lokale Farmen und Agrotourismus vereint. Es ist entscheidend für die heimische Produktion von Gemüse, Eiern und Fisch.",
       hu: "Szingapúr elsődleges mezőgazdasági területe, amely egyesíti a helyi farmokat és az agroturizmust. Döntő szerepe van a hazai zöldség-, tojás- és haltermelésben.",
@@ -1051,7 +1051,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-defu-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Defu Industrial Estate", hu: "Defu iparnegyed", ro: "Zona industrială Defu", en: "Defu Industrial Estate" },
-    coordinates: { lat: 1.3508, lng: 103.8955 },
+    coords: [103.8955, 1.3508],
     description: {
       de: "Ein weitläufiges Industriegebiet für kleine und mittlere Unternehmen sowie Logistikzentren. Es durchläuft eine mehrjährige Modernisierung zu einem grünen Industriepark.",
       hu: "Kiterjedt ipari övezet kis- és középvállalkozások, valamint logisztikai központok számára. Többéves modernizáción megy keresztül egy zöld ipari parkká.",
@@ -1070,7 +1070,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     id: "singapore-ang-mo-kio-industrial-park-2-economic-v2",
     type: "industry",
     name: { de: "Ang Mo Kio Industrial Park 2", hu: "Ang Mo Kio 2. sz. ipari park", ro: "Parcul Industrial Ang Mo Kio 2", en: "Ang Mo Kio Industrial Park 2" },
-    coordinates: { lat: 1.3752, lng: 103.8558 },
+    coords: [103.8558, 1.3752],
     description: {
       de: "Ein Cluster für Präzisionstechnik und Elektronikfertigung im Herzen von Ang Mo Kio. Es beherbergt sowohl multinationale Konzerne als auch lokale Zulieferbetriebe.",
       hu: "Precíziós mérnöki és elektronikai gyártási klaszter Ang Mo Kio szívében. Multinacionális vállalatoknak és helyi beszállítóknak egyaránt otthont ad.",

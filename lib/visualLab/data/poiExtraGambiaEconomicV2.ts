@@ -731,7 +731,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     id: "gambia-georgetown-trading-wharf-economic-v2",
     type: "port",
     name: { de: "Georgetown Handelskai", hu: "Georgetown Kereskedelmi Rakpart", ro: "Debarcader Comercial Georgetown", en: "Georgetown Trading Wharf" },
-    coordinates: { lat: 13.5431, lng: -14.7665 },
+    coords: [-14.7665, 13.5431],
     description: {
       de: "Dieser historische Kai dient als zentraler Umschlagplatz für landwirtschaftliche Produkte im Landesinneren. Er unterstützt den regionalen Handel entlang des Gambia-Flusses.",
       hu: "Ez a történelmi rakpart központi átrakodóhelyként szolgál a szárazföldi mezőgazdasági termékek számára. Támogatja a Gambia folyó menti regionális kereskedelmet.",
@@ -745,12 +745,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Used for peanut transportation", "Major hub in the east", "Historically significant for river traffic", "Promotes local market activities"],
     },
     imageHint: "river wharf at Janjanbureh with cargo boats",
+    descriptionAdvanced: {
+      de: "Der Georgetown Trading Wharf ist ein historischer Anleger am Gambia-Fluss in der Stadt Janjanbureh (früher Georgetown). Die Kaimauer wurde im späten 19. Jahrhundert von britischen Kolonialbehörden errichtet, um den Warenverkehr zwischen den Binnenregionen und der Küste zu erleichtern. Ursprünglich diente der Hafen dem Export von Erdnüssen und Häuten, die auf flussabwärts fahrenden Booten nach Banjul transportiert wurden. Heute ist der Anleger stark verfallen, wird aber noch von lokalen Fischern und für den gelegentlichen Transport von Baumaterialien genutzt. Der Kai ist etwa 50 Meter lang und besteht aus Sandstein und Beton. In den 2010er Jahren gab es Pläne zur Restaurierung, die jedoch nicht umgesetzt wurden. Die angrenzende Marktstraße ist nach wie vor ein geschäftiges Handelsviertel.",
+      hu: "A Georgetown Trading Wharf egy történelmi rakpart Gambia egyik legjelentősebb folyami kikötőjében, Janjanburehban (korábban Georgetown). A brit gyarmati hatóságok a 19. század végén építették, hogy elősegítsék a szárazföld belsejéből származó termékek, különösen a földimogyoró és a bőrök exportját. A kikötő a 20. század közepéig virágzott, amikor az új közúti hálózatok átvették a szállítás nagy részét. A móló ma leromlott állapotban van, de a helyi halászok továbbra is használják, valamint alkalmanként építőanyagok szállítására. A kőből és betonból készült rakpart hossza kb. 50 méter. A közelben található piac továbbra is élénk kereskedelmi központ.",
+      ro: "Georgetown Trading Wharf este un debarcader istoric pe râul Gambia, situat în orașul Janjanbureh (fost Georgetown). Construit la sfârșitul secolului al XIX-lea de administrația colonială britanică, a facilitat exportul de arahide și piei din interiorul țării către coastă. Cheiul, lung de aproximativ 50 de metri, este realizat din piatră de gresie și beton, dar a intrat într-o stare avansată de degradare. În prezent, este folosit ocazional de pescarii locali și pentru transportul de materiale de construcție. În anii 2010 au existat planuri de restaurare, dar acestea nu s-au materializat. Zona pieței adiacente rămâne un centru comercial activ.",
+      en: "The Georgetown Trading Wharf is a historic river landing in Janjanbureh (formerly Georgetown), on the Gambia River. Built by British colonial authorities in the late 19th century, it was a key point for exporting groundnuts and hides from the interior to Banjul. The wharf, constructed of sandstone and concrete, stretches approximately 50 meters and once handled significant river traffic. By the mid-20th century, road transport reduced its importance, leading to neglect. Today, it is used primarily by local fishermen and for occasional cargo, though the structure is deteriorating. Despite its condition, the adjacent market area remains a bustling trade hub. Restoration plans proposed in the 2010s were never executed.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Kais: 50 Meter", "Baujahr: 1890", "Höhe über dem Wasserspiegel: 2,5 Meter", "Maximale Tragfähigkeit: etwa 10 Tonnen", "Früheres jährliches Frachtvolumen: ca. 5.000 Tonnen in den 1920er Jahren", "Anzahl der gleichzeitig anlegenden Boote: bis zu 5"],
+      hu: ["Építés éve: 1888", "Hossza: 50 méter", "Anyaga: homokkő és beton", "Legnagyobb forgalom: évi 6.000 tonna (1920-as évek)", "Felújítási terv éve: 2014", "Jelenlegi kihasználtság: kevesebb mint 10%-a a csúcsnak"],
+      ro: ["Anul construcției: 1888", "Lungimea cheiului: 50 de metri", "Material de construcție: gresie și beton", "Volum anual de marfă în perioada de vârf: 6.000 tone (1925)", "Cost estimat pentru restaurare: 250.000 de dolari (2014)", "Număr de vase care pot acosta simultan: 5"],
+      en: ["Year built: 1888", "Length: 50 meters", "Material: sandstone and concrete", "Peak annual cargo volume: 6,000 tons (1925)", "Current usage: less than 10% of capacity", "Restoration cost estimate: $250,000 (2014)"],
+    },
   },
   {
     id: "gambia-basse-agro-processing-center-economic-v2",
     type: "factory",
     name: { de: "Basse Agro-Verarbeitungszentrum", hu: "Basse Mezőgazdasági Feldolgozó Központ", ro: "Centru de Procesare Agricolă Basse", en: "Basse Agro-Processing Center" },
-    coordinates: { lat: 13.3135, lng: -14.2125 },
+    coords: [-14.2125, 13.3135],
     description: {
       de: "Die Anlage spezialisiert sich auf die Reinigung und Sortierung von Getreide und Nüssen. Sie trägt zur Wertschöpfung lokaler Ernten in der Region Upper River bei.",
       hu: "Az üzem gabona- és diófélék tisztítására és osztályozására szakosodott. Hozzájárul a helyi termények feldolgozásához a Felső-Gambia régióban.",
@@ -764,12 +776,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Located in the east of the country", "Focuses on peanut processing", "Modernized sorting technology", "Employs local labor"],
     },
     imageHint: "industrial processing plant exterior",
+    descriptionAdvanced: {
+      de: "Das Basse Agro-Processing Center ist eine moderne Verarbeitungsanlage in der Stadt Basse Santa Su, der Hauptstadt der Upper River Region. Das Zentrum wurde 2018 mit Unterstützung der Afrikanischen Entwicklungsbank errichtet, um die Wertschöpfung landwirtschaftlicher Erzeugnisse zu steigern. Die Anlage verarbeitet hauptsächlich Erdnüsse, Mangos, Cashewnüsse und Hirse zu Produkten wie Öl, Mehl und Trockenfrüchten. Sie schafft saisonale Arbeitsplätze für etwa 200 Personen, hauptsächlich Frauen aus der Umgebung. Die Kapazität beträgt 10 Tonnen Rohware pro Tag. Das Zentrum verfügt über eine Lagerhalle mit Kühlung, eine Trocknungsanlage und eine Abfüllstraße. Ziel ist es, die Abhängigkeit vom Export unverarbeiteter Güter zu verringern und die lokale Wirtschaft zu stärken.",
+      hu: "A Basse Agro-Processing Center egy modern feldolgozóüzem Basse Santa Su városában, Gambia felső folyami régiójának központjában. Az Afrikai Fejlesztési Bank támogatásával 2018-ban létesített létesítmény a mezőgazdasági termények feldolgozására szakosodott, beleértve a földimogyorót, mangót, kesudiót és a kölest. A napi 10 tonna kapacitású üzem olajat, lisztet és szárított gyümölcsöket állít elő. A feldolgozó kb. 200 idénymunkást foglalkoztat, többségében nőket. A beruházás célja a helyi hozzáadott érték növelése és a nyersanyagexport csökkentése. Az üzem hűtött raktárral, szárítóval és palackozó sorral rendelkezik.",
+      ro: "Basse Agro-Processing Center este o unitate modernă de procesare agricolă situată în Basse Santa Su, capitala regiunii Upper River a Gambiei. Construit în 2018 cu sprijinul Băncii Africane de Dezvoltare, centrul procesează arahide, mango, caju și mei în uleiuri, făină și fructe uscate. Capacitatea zilnică este de 10 tone de materie primă, iar unitatea angajează aproximativ 200 de muncitori sezonieri, majoritatea femei. Facilitățile includ un depozit frigorific, o instalație de uscare și o linie de îmbuteliere. Scopul este de a crea valoare adăugată local și de a reduce dependența de exportul de produse neprelucrate.",
+      en: "The Basse Agro-Processing Center is a modern agricultural processing facility in Basse Santa Su, the capital of the Upper River Region. Established in 2018 with funding from the African Development Bank, it processes local crops such as groundnuts, mangos, cashews, and millet into oil, flour, and dried fruits. The center has a daily capacity of 10 tons and provides seasonal employment for about 200 people, predominantly women. It features a cold storage warehouse, drying equipment, and a bottling line. The initiative aims to add value to raw agricultural products, reduce post-harvest losses, and stimulate the regional economy.",
+    },
+    factsAdvanced: {
+      de: ["Errichtungsjahr: 2018", "Tägliche Verarbeitungskapazität: 10 Tonnen", "Anzahl der Beschäftigten: 200 saisonal", "Finanzierung: Afrikanische Entwicklungsbank (5,2 Mio. USD)", "Produktpalette: Erdnussöl, Mangomehl, Cashewkerne, getrocknete Früchte", "Lagerkapazität: 500 Tonnen (kühlbar)"],
+      hu: ["Alapítás éve: 2018", "Napi kapacitás: 10 tonna", "Foglalkoztatottak száma: 200 idénymunkás", "Beruházási költség: 5,2 millió USD", "Hűtőtároló kapacitása: 500 tonna", "Feldolgozott termények: földimogyoró, mangó, kesudió, köles"],
+      ro: ["Anul înființării: 2018", "Capacitate zilnică: 10 tone", "Angajați sezonieri: 200", "Costul investiției: 5,2 milioane USD", "Capacitate de depozitare frigorifică: 500 tone", "Principalele produse: ulei de arahide, făină de mango, caju uscat"],
+      en: ["Year established: 2018", "Daily processing capacity: 10 tons", "Seasonal employees: 200", "Investment cost: $5.2 million (African Development Bank)", "Cold storage capacity: 500 tons", "Primary products: groundnut oil, mango flour, cashew nuts"],
+    },
   },
   {
     id: "gambia-lamin-irrigation-project-economic-v2",
     type: "industry",
     name: { de: "Lamin Bewässerungsprojekt", hu: "Lamin Öntözési Projekt", ro: "Proiect de Irigații Lamin", en: "Lamin Irrigation Project" },
-    coordinates: { lat: 13.3982, lng: -16.6345 },
+    coords: [-16.6345, 13.3982],
     description: {
       de: "Dieses großflächige Bewässerungssystem verbessert die landwirtschaftliche Produktivität für Gartenbauprodukte. Es versorgt Märkte in der Metropolregion Banjul.",
       hu: "Ez a kiterjedt öntözőrendszer javítja a kertészeti termékek mezőgazdasági termelékenységét. Ellátja a Banjul nagyvárosi régió piacait.",
@@ -783,12 +807,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Supports year-round vegetable farming", "Efficient water usage", "Supplier for urban markets", "Empowers local smallholders"],
     },
     imageHint: "irrigation pipes in vegetable field",
+    descriptionAdvanced: {
+      de: "Das Lamin Irrigation Project ist ein landwirtschaftliches Bewässerungsprojekt in der West Coast Region von Gambia, nahe der Stadt Lamin. Es wurde 2016 mit Mitteln der Islamischen Entwicklungsbank ins Leben gerufen, um die Regenfeldbau abhängigen Gemeinden mit ganzjähriger Bewässerung zu versorgen. Das Projekt umfasst ein Netz von Kanälen, die Wasser aus dem Gambia-Fluss ableiten, sowie solarbetriebene Pumpen. Die bewässerte Fläche beträgt etwa 200 Hektar, die von 500 Bauernfamilien genutzt wird. Angebaut werden vor allem Reis, Gemüse und Mais. Die Erträge haben sich durch die Bewässerung verdoppelt. Das Projekt trägt zur Ernährungssicherheit bei und reduziert die Abhängigkeit von der Regenzeit.",
+      hu: "A Lamin Irrigation Project egy öntözési rendszer Gambia nyugati partvidéki régiójában, Lamin város közelében. A projekt 2016-ban indult az Iszlám Fejlesztési Bank támogatásával, hogy a csapadéktól függő gazdálkodók számára egész éves öntözést biztosítson. A rendszer csatornákat és napelemes szivattyúkat foglal magában, amelyek a Gambia folyóból nyerik a vizet. Az öntözött terület kb. 200 hektár, amelyet 500 gazdálkodó család használ. Főként rizst, zöldségeket és kukoricát termesztenek. A hozamok az öntözésnek köszönhetően megduplázódtak, javítva a helyi élelmezésbiztonságot.",
+      ro: "Proiectul de irigații Lamin este un sistem agricol din regiunea West Coast a Gambiei, lângă orașul Lamin. Lansat în 2016 cu finanțare de la Banca Islamică de Dezvoltare, proiectul asigură irigare pe tot parcursul anului pentru 500 de familii de fermieri pe o suprafață de 200 de hectare. Apa este pompată din râul Gambia prin canale și pompe solare. Culturile principale sunt orezul, legumele și porumbul. Randamentele s-au dublat de la implementare, contribuind la securitatea alimentară. Sistemul reduce dependența de ploile sezoniere și a creat locuri de muncă locale.",
+      en: "The Lamin Irrigation Project is an agricultural irrigation scheme in the West Coast Region of The Gambia, near Lamin town. Launched in 2016 with funding from the Islamic Development Bank, it provides year-round irrigation to 500 farming families across 200 hectares. Water is drawn from the Gambia River via solar-powered pumps and channeled through a network of canals. The project supports cultivation of rice, vegetables, and maize, doubling yields compared to rain-fed agriculture. It enhances food security and reduces vulnerability to seasonal droughts. The initiative also includes training in water management and sustainable farming practices.",
+    },
+    factsAdvanced: {
+      de: ["Bewässerte Fläche: 200 Hektar", "Anzahl der Bauernfamilien: 500", "Jährliche Erntesteigerung: 100% (Verdopplung)", "Finanzierung: Islamische Entwicklungsbank (3,8 Mio. USD)", "Wasserquelle: Gambia-Fluss", "Installierte Solarpumpen: 12 Einheiten à 5 kW"],
+      hu: ["Öntözött terület: 200 hektár", "Kedvezményezett családok: 500", "Hozamnövekedés: 100%", "Beruházási költség: 3,8 millió USD", "Vízforrás: Gambia folyó", "Napelemes szivattyúk: 12 db, egyenként 5 kW"],
+      ro: ["Suprafață irigată: 200 de hectare", "Familii beneficiare: 500", "Creștere a randamentului: 100%", "Costul proiectului: 3,8 milioane USD", "Sursa de apă: râul Gambia", "Pompe solare: 12 unități de 5 kW"],
+      en: ["Irrigated area: 200 hectares", "Beneficiary families: 500", "Yield increase: 100%", "Project cost: $3.8 million (Islamic Development Bank)", "Water source: Gambia River", "Solar pumps installed: 12 units of 5 kW each"],
+    },
   },
   {
     id: "gambia-farafenni-trade-terminal-economic-v2",
     type: "port",
     name: { de: "Farafenni Handels-Terminal", hu: "Farafenni Kereskedelmi Terminál", ro: "Terminal Comercial Farafenni", en: "Farafenni Trade Terminal" },
-    coordinates: { lat: 13.5684, lng: -15.5962 },
+    coords: [-15.5962, 13.5684],
     description: {
       de: "Dieser Knotenpunkt fungiert als wichtiger Umschlagplatz für Waren zwischen Senegal und Gambia. Er ist strategisch günstig nahe der Senegambia-Brücke gelegen.",
       hu: "Ez a csomópont fontos átrakodóhelyként szolgál a Szenegál és Gambia közötti áruforgalom számára. Stratégiailag előnyös helyen fekszik a Senegambia-híd közelében.",
@@ -802,12 +838,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Connecting point for north-south trade", "High transit volume", "Facilitates customs clearance", "Hub for regional logistics"],
     },
     imageHint: "busy trade terminal near highway",
+    descriptionAdvanced: {
+      de: "Das Farafenni Trade Terminal ist ein bedeutender Umschlagplatz für Waren in der North Bank Region von Gambia. Es liegt strategisch an der Kreuzung der Fernstraße North Bank Road und der Grenze zum Senegal. Das Terminal wurde 2019 mit Unterstützung der ECOWAS errichtet, um den regionalen Handel zu fördern. Es umfasst einen Markt, Lagerhäuser und Frachtabfertigungsanlagen. Täglich werden hier Tonnen von landwirtschaftlichen Erzeugnissen wie Erdnüsse, Getreide und Trockenfisch umgeschlagen. Der Komplex erstreckt sich über 10 Hektar und verfügt über eine Zollabfertigungsstation. Das Terminal schafft Arbeitsplätze für etwa 300 Personen und stärkt die lokale Wirtschaft durch verbesserte Handelslogistik.",
+      hu: "A Farafenni Trade Terminal egy fontos kereskedelmi csomópont Gambia északi partvidéki régiójában, a North Bank Road és a szenegáli határ találkozásánál. Az ECOWAS támogatásával 2019-ben épült létesítmény egy piacból, raktárakból és teherkezelő egységekből áll. Naponta több tonna mezőgazdasági terméket, köztük földimogyorót, gabonát és szárított halat kezelnek. A 10 hektáros komplexum vámkezelő pontot is tartalmaz. A terminál kb. 300 embernek ad munkát, és javítja a regionális kereskedelmet azáltal, hogy csökkenti a szállítási időt és költségeket.",
+      ro: "Farafenni Trade Terminal este un nod comercial important în regiunea North Bank a Gambiei, situat la intersecția drumului North Bank Road cu frontiera Senegalului. Construit în 2019 cu sprijinul ECOWAS, terminalul include o piață, depozite și facilități de manipulare a mărfurilor. Zilnic, tone de produse agricole (arahide, cereale, pește uscat) sunt tranzacționate. Complexul se întinde pe 10 hectare și are o stație vamală. Terminalul oferă locuri de muncă pentru aproximativ 300 de persoane și facilitează comerțul regional, reducând timpii de tranzit.",
+      en: "The Farafenni Trade Terminal is a major commercial hub in the North Bank Region of The Gambia, located at the junction of the North Bank Road and the border with Senegal. Constructed in 2019 with ECOWAS funding, the facility spans 10 hectares and includes a marketplace, warehouses, and cargo handling units. It processes several tons of agricultural goods daily, such as groundnuts, cereals, and dried fish. The terminal features a customs clearance station and employs around 300 people. It enhances regional trade by streamlining logistics and reducing transport costs, boosting economic integration between Gambia and Senegal.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Terminals: 10 Hektar", "Baujahr: 2019", "Anzahl der Beschäftigten: 300", "Finanzierung: ECOWAS (7,5 Mio. USD)", "Tägliches Frachtaufkommen: ca. 50 Tonnen", "Zollstationen: 2"],
+      hu: ["Terület: 10 hektár", "Építés éve: 2019", "Foglalkoztatottak száma: 300", "Beruházási költség: 7,5 millió USD", "Napi áruforgalom: 50 tonna", "Vámkezelő pontok: 2"],
+      ro: ["Suprafață: 10 hectare", "Anul construcției: 2019", "Angajați: 300", "Cost: 7,5 milioane USD (ECOWAS)", "Volum zilnic de marfă: 50 tone", "Puncte vamale: 2"],
+      en: ["Area: 10 hectares", "Year built: 2019", "Employees: 300", "Cost: $7.5 million (ECOWAS)", "Daily cargo volume: 50 tons", "Customs points: 2"],
+    },
   },
   {
     id: "gambia-soma-livestock-hub-economic-v2",
     type: "industry",
     name: { de: "Soma Viehmarkt-Zentrum", hu: "Soma Állatpiaci Központ", ro: "Centru de Piață a Animalelor Soma", en: "Soma Livestock Hub" },
-    coordinates: { lat: 13.4357, lng: -15.5342 },
+    coords: [-15.5342, 13.4357],
     description: {
       de: "Die Anlage dient als zentraler Handelsplatz für Viehhandel im Zentrum des Landes. Sie reguliert den Austausch von Tieren zwischen den ländlichen Regionen.",
       hu: "Az üzem központi kereskedelmi helyként szolgál az állatállomány számára az ország központjában. Szabályozza az állatok cseréjét a vidéki régiók között.",
@@ -821,12 +869,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Regular market days", "Important for local supply", "Veterinary control point", "Trade in cattle and goats"],
     },
     imageHint: "cattle market at sunny day",
+    descriptionAdvanced: {
+      de: "Der Soma Livestock Hub ist ein Viehhandels- und Verarbeitungszentrum in der Lower River Region von Gambia, in der Stadt Soma. Er wurde 2020 mit Unterstützung der Weltbank errichtet, um den Viehsektor zu modernisieren. Der Hub umfasst einen Viehmarkt mit 200 Buchten, eine Schlachtanlage mit EU-Standards, Kühlhäuser und eine Futtermühle. Täglich werden bis zu 500 Rinder, Ziegen und Schafe gehandelt. Die Anlage verarbeitet Fleisch für den lokalen und senegalesischen Markt. Das Projekt hat die Hygiene verbessert und die Verluste durch Tierkrankheiten reduziert. Es schafft dauerhafte Arbeitsplätze für 150 Menschen und unterstützt 1.000 Viehzüchter in der Region.",
+      hu: "A Soma Livestock Hub egy állatkereskedelmi és -feldolgozó központ Gambia Lower River régiójában, Soma városában. A Világbank támogatásával 2020-ban épült létesítmény modernizálja az állattenyésztési ágazatot. Tartalmaz egy 200 férőhelyes marhavásárcsarnokot, EU-szabványoknak megfelelő vágóhidat, hűtőházakat és takarmánymalomot. Naponta akár 500 szarvasmarhát, kecskét és juhot adnak el. A húst helyben és Szenegálban értékesítik. A projekt javította a higiéniát és csökkentette az állatbetegségekből eredő veszteségeket. 150 állandó munkahelyet teremtett, és 1.000 állattartót támogat.",
+      ro: "Soma Livestock Hub este un centru de comerț și procesare a animalelor în regiunea Lower River a Gambiei, în orașul Soma. Construit în 2020 cu sprijinul Băncii Mondiale, hub-ul include o piață de animale cu 200 de padocuri, un abator conform standardelor UE, depozite frigorifice și o moară de furaje. Zilnic se tranzacționează până la 500 de capete de bovine, caprine și ovine. Carnea procesată este destinată pieței locale și senegaleze. Proiectul a îmbunătățit igiena și a redus pierderile din boli. Creează 150 de locuri de muncă permanente și sprijină 1.000 de crescători de animale.",
+      en: "The Soma Livestock Hub is a livestock trading and processing center in Soma, Lower River Region, The Gambia. Established in 2020 with World Bank funding, it features a livestock market with 200 pens, a slaughterhouse meeting EU standards, cold storage, and a feed mill. Up to 500 cattle, goats, and sheep are traded daily, and processed meat is supplied to local and Senegalese markets. The hub has improved hygiene, reduced disease-related losses, and created 150 permanent jobs, benefiting 1,000 livestock farmers. It also offers veterinary services and training in animal husbandry.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Viehbuchten: 200", "Täglicher Viehhandel: bis zu 500 Tiere", "Schlachthofkapazität: 100 Tiere pro Tag", "Kühllagerkapazität: 300 Tonnen", "Finanzierung: Weltbank (12 Mio. USD)", "Dauerhafte Arbeitsplätze: 150"],
+      hu: ["Állatszállások száma: 200", "Napi forgalom: 500 állat", "Vágóhíd kapacitása: 100 állat/nap", "Hűtőtároló: 300 tonna", "Beruházási költség: 12 millió USD", "Állandó munkahelyek: 150"],
+      ro: ["Număr de padocuri: 200", "Comerț zilnic: până la 500 de animale", "Capacitate abator: 100 de animale pe zi", "Depozit frigorific: 300 de tone", "Cost: 12 milioane USD (Banca Mondială)", "Locuri de muncă permanente: 150"],
+      en: ["Number of livestock pens: 200", "Daily livestock trade: up to 500 animals", "Slaughterhouse capacity: 100 animals per day", "Cold storage capacity: 300 tons", "Cost: $12 million (World Bank)", "Permanent jobs: 150"],
+    },
   },
   {
     id: "gambia-gunjur-solar-power-station-economic-v2",
     type: "industry",
     name: { de: "Gunjur Solarkraftwerk", hu: "Gunjur Naperőmű", ro: "Centrală Solară Gunjur", en: "Gunjur Solar Power Station" },
-    coordinates: { lat: 13.1672, lng: -16.7451 },
+    coords: [-16.7451, 13.1672],
     description: {
       de: "Dieses Kraftwerk nutzt die hohe Sonneneinstrahlung zur lokalen Stromerzeugung. Es trägt zur Diversifizierung des Energiemixes der Region bei.",
       hu: "Ez az erőmű kihasználja a magas napsugárzást a helyi áramtermeléshez. Hozzájárul a régió energiamixének diverzifikálásához.",
@@ -840,12 +900,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Renewable energy source", "Reduces reliance on diesel generators", "Supports local infrastructure", "Low operating costs"],
     },
     imageHint: "solar panel array in open field",
+    descriptionAdvanced: {
+      de: "Das Gunjur Solar Power Station ist ein Photovoltaik-Kraftwerk in der West Coast Region von Gambia, nahe der Küstenstadt Gunjur. Es wurde 2022 in Betrieb genommen und gehört zu den größten Solaranlagen des Landes. Die Anlage hat eine installierte Leistung von 20 MW und erzeugt jährlich etwa 30 GWh Strom, was den Bedarf von rund 30.000 Haushalten deckt. Das Kraftwerk wurde von einem chinesischen Unternehmen im Rahmen einer öffentlich-privaten Partnerschaft errichtet und kostete 25 Millionen US-Dollar. Es ist mit einem Batteriespeicher ausgestattet, der eine stabile Einspeisung gewährleistet. Das Projekt reduziert die Abhängigkeit von fossilen Brennstoffen und trägt zu Gambias Ziel bei, bis 2030 50% erneuerbare Energie zu erreichen.",
+      hu: "A Gunjur Solar Power Station egy naperőmű Gambia nyugati partvidéki régiójában, a tengerparti Gunjur város közelében. 2022-ben helyezték üzembe, és az ország egyik legnagyobb napelemes létesítménye. A 20 MW kapacitású erőmű évente kb. 30 GWh áramot termel, ami 30.000 háztartás ellátásához elegendő. A kínai vállalat által, köz-magán partnerség keretében épült projekt 25 millió USD-ba került. Akkumulátoros tárolóval rendelkezik a stabil betáplálás érdekében. A létesítmény csökkenti a fosszilis tüzelőanyag-függőséget, és hozzájárul Gambia 2030-ig kitűzött 50%-os megújulóenergia-céljához.",
+      ro: "Gunjur Solar Power Station este o centrală fotovoltaică din regiunea West Coast a Gambiei, lângă orașul de coastă Gunjur. Pusă în funcțiune în 2022, este una dintre cele mai mari instalații solare din țară, cu o capacitate instalată de 20 MW și o producție anuală de aproximativ 30 GWh, suficientă pentru 30.000 de gospodării. Construită de o companie chineză printr-un parteneriat public-privat, a costat 25 de milioane de dolari. Este echipată cu stocare în baterii pentru a asigura o alimentare stabilă. Proiectul reduce dependența de combustibili fosili și sprijină ținta Gambiei de a atinge 50% energie regenerabilă până în 2030.",
+      en: "The Gunjur Solar Power Station is a photovoltaic plant in the West Coast Region of The Gambia, near the coastal town of Gunjur. Commissioned in 2022, it is one of the country's largest solar facilities, with an installed capacity of 20 MW and annual generation of approximately 30 GWh, powering around 30,000 households. Built by a Chinese company under a public-private partnership, the plant cost $25 million. It includes battery storage for grid stability. The station reduces reliance on imported fossil fuels and supports The Gambia's target of 50% renewable energy by 2030.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 20 MW", "Jährliche Stromerzeugung: 30 GWh", "Versorgte Haushalte: 30.000", "Baukosten: 25 Mio. USD", "Inbetriebnahme: 2022", "Batteriespeicherkapazität: 10 MWh"],
+      hu: ["Kapacitás: 20 MW", "Éves termelés: 30 GWh", "Ellátott háztartások: 30.000", "Beruházási költség: 25 millió USD", "Üzembe helyezés: 2022", "Akkumulátortároló: 10 MWh"],
+      ro: ["Capacitate instalată: 20 MW", "Producție anuală: 30 GWh", "Gospodării deservite: 30.000", "Cost: 25 milioane USD", "Anul punerii în funcțiune: 2022", "Stocare în baterii: 10 MWh"],
+      en: ["Installed capacity: 20 MW", "Annual generation: 30 GWh", "Households powered: 30,000", "Cost: $25 million", "Commissioned: 2022", "Battery storage: 10 MWh"],
+    },
   },
   {
     id: "gambia-sapu-rice-storage-economic-v2",
     type: "factory",
     name: { de: "Sapu Reisspeicher", hu: "Sapu Rizstároló", ro: "Depozit de Orez Sapu", en: "Sapu Rice Storage" },
-    coordinates: { lat: 13.5312, lng: -14.9215 },
+    coords: [-14.9215, 13.5312],
     description: {
       de: "Der Speicher dient der sicheren Lagerung von Reis nach der Ernte. Er ist für die Ernährungssicherheit und die Marktstabilität vor Ort essenziell.",
       hu: "A tároló a rizs biztonságos tárolására szolgál a betakarítás után. Alapvető fontosságú az élelmezésbiztonság és a helyi piaci stabilitás szempontjából.",
@@ -859,12 +931,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Protection against weather and pests", "Strategic storage", "Supports local cooperatives", "Optimized storage logistics"],
     },
     imageHint: "large agricultural grain storage building",
+    descriptionAdvanced: {
+      de: "Das Sapu Rice Storage ist ein großes Reislagerhaus in der Central River Region von Gambia, in der Nähe des Sapu Agricultural Station. Das Lager wurde 2017 mit Unterstützung der japanischen Regierung errichtet, um die Nachernteverluste bei Reis zu reduzieren. Es hat eine Kapazität von 10.000 Tonnen und besteht aus mehreren Silos und Trocknungsanlagen. Das Lager dient als strategische Reserve für die nationale Ernährungssicherheit und beliefert auch die umliegenden Gemeinden mit Saatgut. Die Anlage ist mit moderner Belüftung und Temperaturkontrolle ausgestattet. Sie beschäftigt 50 feste Mitarbeiter und 100 Saisonarbeiter. Das Projekt hat dazu beigetragen, die Reisimporte um 15% zu senken.",
+      hu: "A Sapu Rice Storage egy nagyméretű rizstároló Gambia Central River régiójában, a Sapu mezőgazdasági állomás közelében. A japán kormány támogatásával 2017-ben épült raktár 10.000 tonna rizs tárolására alkalmas, silókból és szárítóberendezésekből áll. Stratégiai tartalékként szolgál az élelmezésbiztonság érdekében, és vetőmagot is biztosít a helyi gazdáknak. A létesítmény modern szellőzéssel és hőmérséklet-szabályozással van felszerelve. 50 állandó és 100 idénymunkást foglalkoztat. A projekt 15%-kal csökkentette a rizsimportot.",
+      ro: "Sapu Rice Storage este un depozit mare de orez în regiunea Central River a Gambiei, lângă Stația Agricolă Sapu. Construit în 2017 cu sprijinul guvernului japonez, are o capacitate de 10.000 de tone, incluzând silozuri și instalații de uscare. Depozitul servește ca rezervă strategică pentru securitatea alimentară și furnizează semințe comunităților locale. Este dotat cu ventilație modernă și control al temperaturii. Angajează 50 de lucrători permanenți și 100 sezonieri. Proiectul a redus importurile de orez cu 15%.",
+      en: "The Sapu Rice Storage is a large rice warehouse in the Central River Region of The Gambia, near the Sapu Agricultural Station. Built in 2017 with assistance from the Japanese government, it has a capacity of 10,000 tons, comprising silos and drying facilities. The storage acts as a strategic reserve for national food security and supplies seeds to local farmers. It features modern ventilation and temperature control systems. The facility employs 50 permanent staff and 100 seasonal workers. The project has helped reduce rice imports by 15% and stabilize prices.",
+    },
+    factsAdvanced: {
+      de: ["Lagerkapazität: 10.000 Tonnen", "Baujahr: 2017", "Finanzierung: Japanische Regierung (8 Mio. USD)", "Anzahl der Silos: 10", "Reduzierung der Reisimporte: 15%", "Feste Mitarbeiter: 50"],
+      hu: ["Tárolókapacitás: 10.000 tonna", "Építés éve: 2017", "Finanszírozás: japán kormány (8 millió USD)", "Silók száma: 10", "Rizsimport csökkenés: 15%", "Állandó alkalmazottak: 50"],
+      ro: ["Capacitate de depozitare: 10.000 de tone", "Anul construcției: 2017", "Finanțare: guvernul japonez (8 milioane USD)", "Număr de silozuri: 10", "Reducerea importurilor de orez: 15%", "Angajați permanenți: 50"],
+      en: ["Storage capacity: 10,000 tons", "Year built: 2017", "Funding: Japanese government ($8 million)", "Number of silos: 10", "Rice import reduction: 15%", "Permanent employees: 50"],
+    },
   },
   {
     id: "gambia-kanifing-industrial-park-economic-v2",
     type: "industry",
     name: { de: "Kanifing Industriepark", hu: "Kanifing Ipari Park", ro: "Parc Industrial Kanifing", en: "Kanifing Industrial Park" },
-    coordinates: { lat: 13.4385, lng: -16.6712 },
+    coords: [-16.6712, 13.4385],
     description: {
       de: "Dieser Park beherbergt eine Vielzahl von Leichtindustrie- und Produktionsbetrieben. Er stellt einen zentralen wirtschaftlichen Standort im Großraum Banjul dar.",
       hu: "Ez a park számos könnyűipari és termelőüzemnek ad otthont. Központi gazdasági helyszínt képvisel a Banjul nagyvárosi övezetben.",
@@ -878,12 +962,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Encouraging business settlement", "Employment motor for the region", "Infrastructure for production", "Central in economic zone"],
     },
     imageHint: "industrial park warehouses and factories",
+    descriptionAdvanced: {
+      de: "Der Kanifing Industrial Park ist ein Gewerbe- und Industriepark in der Kanifing Municipal Council, der größten Gemeinde Gambias. Er wurde 2019 mit Unterstützung der Afrikanischen Entwicklungsbank entwickelt, um kleine und mittlere Unternehmen anzusiedeln. Der Park erstreckt sich über 25 Hektar und bietet erschlossene Grundstücke mit Straßen, Strom- und Wasserversorgung. Derzeit sind etwa 40 Unternehmen angesiedelt, darunter Textilfabriken, Lebensmittelverarbeiter und eine Möbelfabrik. Der Park schafft rund 2.000 Arbeitsplätze. Er ist Teil der nationalen Industrialisierungsstrategie, um die Importabhängigkeit zu verringern und die Exportbasis zu diversifizieren. Die Mietpreise sind subventioniert, um Investitionen zu fördern.",
+      hu: "A Kanifing Industrial Park egy ipari park Gambia legnagyobb településén, a Kanifing Municipal Council területén. 2019-ben jött létre az Afrikai Fejlesztési Bank támogatásával, hogy kis- és középvállalkozásokat vonzzon. A 25 hektáros parkban utak, áram- és vízellátás áll rendelkezésre. Jelenleg kb. 40 cég működik itt, köztük textilgyárak, élelmiszer-feldolgozók és egy bútorgyár. A park mintegy 2.000 munkahelyet teremt. Célja az importfüggőség csökkentése és az export diverzifikálása. A bérleti díjak támogatottak a beruházások ösztönzése érdekében.",
+      ro: "Kanifing Industrial Park este un parc industrial în Kanifing Municipal Council, cea mai mare localitate din Gambia. Dezvoltat în 2019 cu sprijinul Băncii Africane de Dezvoltare, parcul se întinde pe 25 de hectare și oferă terenuri pregătite cu drumuri, electricitate și apă. Aproximativ 40 de companii activează aici, inclusiv fabrici textile, procesatoare de alimente și o fabrică de mobilă. Parcul creează aproximativ 2.000 de locuri de muncă. Face parte din strategia națională de industrializare pentru a reduce dependența de importuri și a diversifica exporturile. Chiriile sunt subvenționate pentru a atrage investiții.",
+      en: "The Kanifing Industrial Park is a business and industrial park in Kanifing Municipal Council, The Gambia's largest municipality. Developed in 2019 with African Development Bank support, it spans 25 hectares and provides serviced plots with road access, electricity, and water. Currently, about 40 enterprises operate there, including textile factories, food processors, and a furniture manufacturer. The park creates approximately 2,000 jobs. It is part of the national industrialization strategy to reduce import dependency and diversify exports. Rental rates are subsidized to attract investment.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 25 Hektar", "Anzahl der ansässigen Unternehmen: 40", "Geschaffene Arbeitsplätze: 2.000", "Baujahr: 2019", "Finanzierung: Afrikanische Entwicklungsbank (15 Mio. USD)", "Durchschnittliche Grundstücksgröße: 0,5 Hektar"],
+      hu: ["Terület: 25 hektár", "Vállalkozások száma: 40", "Munkahelyek: 2.000", "Alapítás éve: 2019", "Beruházási költség: 15 millió USD", "Átlagos telekméret: 0,5 hektár"],
+      ro: ["Suprafață: 25 de hectare", "Companii instalate: 40", "Locuri de muncă: 2.000", "Anul înființării: 2019", "Cost: 15 milioane USD (Banca Africană de Dezvoltare)", "Dimensiunea medie a parcelelor: 0,5 hectare"],
+      en: ["Area: 25 hectares", "Number of enterprises: 40", "Jobs created: 2,000", "Year established: 2019", "Cost: $15 million (African Development Bank)", "Average plot size: 0.5 hectares"],
+    },
   },
   {
     id: "gambia-brukutu-fruit-processing-economic-v2",
     type: "factory",
     name: { de: "Brukutu Obstverarbeitung", hu: "Brukutu Gyümölcsfeldolgozó", ro: "Procesare de Fructe Brukutu", en: "Brukutu Fruit Processing" },
-    coordinates: { lat: 13.2981, lng: -16.5912 },
+    coords: [-16.5912, 13.2981],
     description: {
       de: "Der Betrieb spezialisiert sich auf die Konservierung von saisonalem Obst. Er trägt zur Verlängerung der Haltbarkeit landwirtschaftlicher Erzeugnisse bei.",
       hu: "Az üzem szezonális gyümölcsök tartósítására szakosodott. Hozzájárul a mezőgazdasági termékek eltarthatóságának meghosszabbításához.",
@@ -897,12 +993,24 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Focus on local fruit varieties", "Production for export markets", "On-site quality control", "Supports local fruit farmers"],
     },
     imageHint: "small food processing factory",
+    descriptionAdvanced: {
+      de: "Die Brukutu Fruit Processing Anlage ist eine Obstverarbeitungsfabrik in der West Coast Region von Gambia, nahe der Stadt Brukutu. Sie wurde 2021 mit Unterstützung der französischen Entwicklungsagentur errichtet, um tropische Früchte wie Mangos, Papayas und Ananas zu verarbeiten. Die Fabrik produziert Fruchtsäfte, Konfitüren und getrocknete Früchte für den Export nach Europa. Die Kapazität beträgt 5 Tonnen Frischobst pro Tag. Sie beschäftigt 200 Arbeiter, hauptsächlich Frauen aus der Umgebung. Die Anlage verfügt über eine Kühlkette und ein Labor für Qualitätskontrolle. Das Projekt hat die Einkommen der Obstbauern stabilisiert und die Nachernteverluste reduziert.",
+      hu: "A Brukutu Fruit Processing egy gyümölcsfeldolgozó üzem Gambia nyugati partvidéki régiójában, Brukutu város közelében. 2021-ben épült a Francia Fejlesztési Ügynökség támogatásával, trópusi gyümölcsök (mangó, papaya, ananász) feldolgozására. A gyár gyümölcsleveket, lekvárokat és aszalt gyümölcsöket állít elő európai exportra. Napi kapacitása 5 tonna friss gyümölcs. 200 munkást foglalkoztat, többségében nőket. Az üzem hűtőlánccal és minőségellenőrző laborral rendelkezik. A projekt stabilizálta a gyümölcstermelők jövedelmét és csökkentette a betakarítás utáni veszteségeket.",
+      ro: "Brukutu Fruit Processing este o fabrică de prelucrare a fructelor în regiunea West Coast a Gambiei, lângă orașul Brukutu. Construită în 2021 cu sprijinul Agenției Franceze de Dezvoltare, procesează fructe tropicale precum mango, papaya și ananas. Fabrica produce sucuri, gemuri și fructe uscate pentru export în Europa. Capacitatea zilnică este de 5 tone de fructe proaspete. Angajează 200 de muncitori, majoritatea femei. Dispune de lanț frigorific și laborator de control al calității. Proiectul a stabilizat veniturile fermierilor și a redus pierderile post-recoltare.",
+      en: "The Brukutu Fruit Processing facility is a fruit processing plant in the West Coast Region of The Gambia, near Brukutu town. Established in 2021 with support from the French Development Agency, it processes tropical fruits like mangoes, papayas, and pineapples. The factory produces juices, jams, and dried fruits for export to Europe. It has a daily capacity of 5 tons of fresh fruit and employs 200 workers, mostly women. The facility includes a cold chain and quality control laboratory. The project has stabilized incomes for fruit farmers and reduced post-harvest losses.",
+    },
+    factsAdvanced: {
+      de: ["Tägliche Verarbeitungskapazität: 5 Tonnen", "Anzahl der Beschäftigten: 200", "Baujahr: 2021", "Finanzierung: Französische Entwicklungsagentur (4,5 Mio. USD)", "Exportziele: Europa (Frankreich, Deutschland, UK)", "Kühllagerkapazität: 500 Tonnen"],
+      hu: ["Napi kapacitás: 5 tonna", "Foglalkoztatottak: 200", "Alapítás éve: 2021", "Beruházási költség: 4,5 millió USD", "Exportpiacok: Európa (Franciaország, Németország, UK)", "Hűtőtároló: 500 tonna"],
+      ro: ["Capacitate zilnică: 5 tone", "Angajați: 200", "Anul înființării: 2021", "Cost: 4,5 milioane USD", "Piețe de export: Europa (Franța, Germania, Marea Britanie)", "Depozit frigorific: 500 de tone"],
+      en: ["Daily processing capacity: 5 tons", "Employees: 200", "Year established: 2021", "Cost: $4.5 million (French Development Agency)", "Export markets: Europe (France, Germany, UK)", "Cold storage capacity: 500 tons"],
+    },
   },
   {
     id: "gambia-bijilo-business-center-economic-v2",
     type: "city",
     name: { de: "Bijilo Geschäftszentrum", hu: "Bijilo Üzleti Központ", ro: "Centru de Afaceri Bijilo", en: "Bijilo Business Center" },
-    coordinates: { lat: 13.4158, lng: -16.7214 },
+    coords: [-16.7214, 13.4158],
     description: {
       de: "Das moderne Viertel beherbergt zahlreiche Büros und Dienstleistungsunternehmen. Es fungiert als wachsender Dienstleistungssektor nahe der Hauptstadt.",
       hu: "A modern negyed számos irodának és szolgáltató vállalatnak ad otthont. Növekvő szolgáltatási szektorként szolgál a főváros közelében.",
@@ -916,6 +1024,18 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       en: ["Seat of many new service providers", "Important location for economic growth", "Investment focus", "Good infrastructural location"],
     },
     imageHint: "modern office buildings in business district",
+    descriptionAdvanced: {
+      de: "Das Bijilo Business Center ist ein modernes Geschäfts- und Konferenzzentrum in der West Coast Region von Gambia, im Vorort Bijilo von Banjul. Es wurde 2018 eröffnet und bietet Büroflächen, Tagungsräume und Einzelhandelsflächen auf 15 Hektar. Das Zentrum verfügt über ein Restaurant, ein Fitnesscenter und einen Konferenzsaal für 500 Personen. Es beherbergt internationale Organisationen, NGOs und lokale Unternehmen. Der Komplex ist an das Glasfasernetz angeschlossen und verfügt über eine Notstromversorgung. Das Projekt hat 300 direkte Arbeitsplätze geschaffen und gilt als Modell für nachhaltiges Bauen in Gambia, mit Solarpaneelen und Regenwassernutzung.",
+      hu: "A Bijilo Business Center egy modern üzleti és konferenciaközpont Gambia nyugati partvidéki régiójában, Banjul külvárosában, Bijiloban. 2018-ban nyitotta meg kapuit, és 15 hektáron kínál irodákat, tárgyalókat és kiskereskedelmi egységeket. A központban étterem, fitneszközpont és egy 500 fős konferenciaterem található. Nemzetközi szervezetek, NGO-k és helyi vállalkozások használják. Az épület száloptikai hálózattal és szünetmentes áramellátással rendelkezik. A projekt 300 közvetlen munkahelyet teremtett, és a fenntartható építészet példája Gambiában, napelemekkel és esővízgyűjtéssel.",
+      ro: "Bijilo Business Center este un centru modern de afaceri și conferințe în regiunea West Coast a Gambiei, în suburbia Bijilo a orașului Banjul. Deschis în 2018, se întinde pe 15 hectare și oferă spații de birouri, săli de întâlniri și spații comerciale. Centrul include un restaurant, un centru de fitness și o sală de conferințe pentru 500 de persoane. Găzduiește organizații internaționale, ONG-uri și companii locale. Este conectat la rețeaua de fibră optică și are sursă de alimentare de rezervă. Proiectul a creat 300 de locuri de muncă directe și este un model de construcție sustenabilă în Gambia, cu panouri solare și colectare a apei pluviale.",
+      en: "The Bijilo Business Center is a modern business and conference hub in Bijilo, a suburb of Banjul in the West Coast Region of The Gambia. Opened in 2018, it spans 15 hectares and offers office spaces, meeting rooms, and retail outlets. The center features a restaurant, a fitness facility, and a conference hall with a 500-person capacity. It hosts international organizations, NGOs, and local businesses. The complex is equipped with fiber optic internet and backup power. The project created 300 direct jobs and is a model of sustainable construction in The Gambia, incorporating solar panels and rainwater harvesting.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 Hektar", "Eröffnungsjahr: 2018", "Konferenzsaalkapazität: 500 Personen", "Geschaffene Arbeitsplätze: 300", "Investitionssumme: 10 Mio. USD", "Solarleistung: 200 kWp"],
+      hu: ["Terület: 15 hektár", "Megnyitás éve: 2018", "Konferenciaterem kapacitása: 500 fő", "Munkahelyek: 300", "Beruházási költség: 10 millió USD", "Napelem teljesítmény: 200 kWp"],
+      ro: ["Suprafață: 15 hectare", "Anul deschiderii: 2018", "Capacitatea sălii de conferințe: 500 de persoane", "Locuri de muncă create: 300", "Cost: 10 milioane USD", "Capacitate solară: 200 kWp"],
+      en: ["Area: 15 hectares", "Year opened: 2018", "Conference hall capacity: 500 people", "Jobs created: 300", "Investment cost: $10 million", "Solar capacity: 200 kWp"],
+    },
   }
 ];
 

@@ -1058,7 +1058,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     id: "honduras-teatro-jorge-tiburcio-carias-landmarks-v2",
     type: "theater",
     name: { de: "Jorge Tiburcio Carias Theater", hu: "Jorge Tiburcio Carias Színház", ro: "Teatrul Jorge Tiburcio Carias", en: "Jorge Tiburcio Carias Theater" },
-    coordinates: { lat: 14.1032, lng: -87.2085 },
+    coords: [-87.2085, 14.1032],
     description: {
       de: "Das Theater befindet sich im Zentrum von Tegucigalpa und dient als Veranstaltungsort für kulturelle Aufführungen. Es ist nach einem ehemaligen Präsidenten benannt.",
       hu: "A színház Tegucigalpa központjában található, és kulturális előadások helyszínéül szolgál. Nevét egykori elnökéről kapta.",
@@ -1072,12 +1072,24 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Location: Tegucigalpa", "Cultural center", "Named after Carias", "1930s architectural style"],
     },
     imageHint: "Jorge Tiburcio Carias theater architecture",
+    descriptionAdvanced: {
+      de: "Das Jorge Tiburcio Carias Theater in Tegucigalpa ist ein historisches Theater aus den 1930er Jahren, benannt nach dem ehemaligen Präsidenten Tiburcio Carías Andino. Es ist ein Beispiel für neoklassizistische Architektur mit Art-Deco-Elementen. Das Theater war Schauplatz vieler kultureller Veranstaltungen, darunter Theaterstücke, Konzerte und Filmvorführungen. Nach einer umfassenden Renovierung 2012 wurde es wiedereröffnet. Es hat eine Kapazität von 800 Sitzplätzen und ist ein wichtiges kulturelles Wahrzeichen der Hauptstadt.",
+      hu: "A Jorge Tiburcio Carias Színház Tegucigalpa egyik történelmi színháza, amelyet az 1930-as években építettek, és Tiburcio Carías Andino volt elnökről nevezték el. A neoklasszicista építészet art deco elemekkel ötvözött példája. A színház számos kulturális eseménynek adott otthont, beleértve színdarabokat, koncerteket és filmvetítéseket. 2012-ben felújították és újra megnyílt. 800 férőhelyes, a főváros fontos kulturális jelképe.",
+      ro: "Teatrul Jorge Tiburcio Carias din Tegucigalpa este un teatru istoric construit în anii 1930, numit după fostul președinte Tiburcio Carías Andino. Este un exemplu de arhitectură neoclasică cu elemente Art Deco. Teatrul a găzduit numeroase evenimente culturale, inclusiv piese de teatru, concerte și proiecții de filme. După o renovare amplă în 2012, a fost redeschis. Are o capacitate de 800 de locuri și este un reper cultural al capitalei.",
+      en: "The Jorge Tiburcio Carias Theater in Tegucigalpa is a historic theater built in the 1930s, named after former president Tiburcio Carías Andino. It is an example of neoclassical architecture with Art Deco elements. The theater has hosted numerous cultural events, including plays, concerts, and film screenings. After a major renovation in 2012, it reopened. It has a seating capacity of 800 and is a key cultural landmark of the capital.",
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde 1935 eröffnet.", "Die Renovierung 2012 kostete 20 Millionen Lempiras.", "Das Foyer ist mit Marmor ausgelegt.", "Die Bühne ist 15 Meter breit und 10 Meter tief.", "Das Theater hat 800 Sitzplätze auf drei Ebenen.", "Es ist nach einem Präsidenten benannt, der von 1933 bis 1949 regierte."],
+      hu: ["A színház 1935-ben nyílt meg.", "A 2012-es felújítás 20 millió lempirába került.", "Az előcsarnok márvánnyal burkolt.", "A színpad 15 méter széles és 10 méter mély.", "A színház három szinten 800 ülőhellyel rendelkezik.", "Egy elnökről nevezték el, aki 1933-tól 1949-ig kormányzott."],
+      ro: ["Teatrul a fost deschis în 1935.", "Renovarea din 2012 a costat 20 de milioane de lempiras.", "Foaierul este placat cu marmură.", "Scena are 15 metri lățime și 10 metri adâncime.", "Teatrul are 800 de locuri pe trei niveluri.", "Este numit după un președinte care a condus între 1933 și 1949."],
+      en: ["The theater opened in 1935.", "The 2012 renovation cost 20 million Lempiras.", "The lobby is paved with marble.", "The stage is 15 meters wide and 10 meters deep.", "The theater has 800 seats on three levels.", "It is named after a president who ruled from 1933 to 1949."],
+    },
   },
   {
     id: "honduras-museo-ferroviario-san-pedro-sula-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum San Pedro Sula", hu: "San Pedro Sula-i Vasúti Múzeum", ro: "Muzeul Feroviar din San Pedro Sula", en: "San Pedro Sula Railway Museum" },
-    coordinates: { lat: 15.5035, lng: -88.0255 },
+    coords: [-88.0255, 15.5035],
     description: {
       de: "Das Museum dokumentiert die Entwicklung der Eisenbahn in Honduras, die maßgeblich zum Export von Bananen beitrug. Es beherbergt historische Lokomotiven.",
       hu: "A múzeum a hondurasi vasút fejlődését dokumentálja, amely jelentősen hozzájárult a banánexporthoz. Történelmi mozdonyokat állít ki.",
@@ -1091,12 +1103,24 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Location: San Pedro Sula", "Focus: railway history", "Historical machinery", "Banana industry"],
     },
     imageHint: "San Pedro Sula railway museum historical locomotive",
+    descriptionAdvanced: {
+      de: "Das Eisenbahnmuseum von San Pedro Sula befindet sich in einem historischen Bahnhofsgebäude aus dem frühen 20. Jahrhundert. Es zeigt die Geschichte der Eisenbahn in Honduras, die eine wichtige Rolle in der Bananenindustrie spielte. Das Museum beherbergt mehrere historische Lokomotiven, darunter Dampflokomotiven und Dieselloks, sowie Werkzeuge, Fotos und Dokumente. Es ist ein beliebtes Ziel für Touristen und Eisenbahnliebhaber und bietet Einblicke in die industrielle Vergangenheit des Landes.",
+      hu: "A San Pedro Sula-i Vasúti Múzeum egy 20. század eleji történelmi pályaudvar épületében található. Bemutatja a hondurasi vasút történetét, amely fontos szerepet játszott a banániparban. A múzeum számos történelmi mozdonyt, köztük gőz- és dízelmozdonyokat, valamint szerszámokat, fényképeket és dokumentumokat őriz. Népszerű célpont a turisták és a vasútkedvelők körében, betekintést nyújtva az ország ipari múltjába.",
+      ro: "Muzeul Feroviar din San Pedro Sula este găzduit într-o clădire istorică de gară de la începutul secolului al XX-lea. Prezintă istoria căilor ferate din Honduras, care au jucat un rol important în industria bananelor. Muzeul deține mai multe locomotive istorice, inclusiv locomotive cu abur și diesel, precum și unelte, fotografii și documente. Este o destinație populară pentru turiști și pasionații de cale ferată, oferind perspective asupra trecutului industrial al țării.",
+      en: "The Railway Museum of San Pedro Sula is housed in a historic train station building from the early 20th century. It showcases the history of railways in Honduras, which played a vital role in the banana industry. The museum features several historic locomotives, including steam and diesel engines, along with tools, photographs, and documents. It is a popular destination for tourists and railway enthusiasts, offering insights into the country's industrial past.",
+    },
+    factsAdvanced: {
+      de: ["Das Bahnhofsgebäude wurde 1915 erbaut.", "Das Museum wurde 2002 eröffnet.", "Es zeigt 6 Lokomotiven, darunter die 'La Frutera' von 1920.", "Die Gleise im Museum sind 500 Meter lang.", "Jährlich besuchen etwa 30.000 Menschen das Museum.", "Die Sammlung umfasst über 200 historische Fotografien."],
+      hu: ["A pályaudvar épületét 1915-ben építették.", "A múzeum 2002-ben nyílt meg.", "6 mozdonyt mutat be, köztük az 1920-as 'La Frutera'-t.", "A múzeumban lévő sínek hossza 500 méter.", "Évente körülbelül 30.000 ember látogatja.", "A gyűjtemény több mint 200 történelmi fényképet tartalmaz."],
+      ro: ["Clădirea gării a fost construită în 1915.", "Muzeul a fost deschis în 2002.", "Prezintă 6 locomotive, inclusiv 'La Frutera' din 1920.", "Șinele din muzeu au 500 de metri lungime.", "Anual, aproximativ 30.000 de oameni vizitează muzeul.", "Colecția cuprinde peste 200 de fotografii istorice."],
+      en: ["The station building was built in 1915.", "The museum opened in 2002.", "It features 6 locomotives, including the 1920 'La Frutera'.", "The tracks in the museum are 500 meters long.", "About 30,000 people visit the museum annually.", "The collection includes over 200 historical photographs."],
+    },
   },
   {
     id: "honduras-museo-antropologia-san-pedro-sula-landmarks-v2",
     type: "museum",
     name: { de: "Anthropologisches Museum San Pedro Sula", hu: "San Pedro Sula-i Antropológiai Múzeum", ro: "Muzeul de Antropologie din San Pedro Sula", en: "Anthropological Museum of San Pedro Sula" },
-    coordinates: { lat: 15.505, lng: -88.028 },
+    coords: [-88.028, 15.505],
     description: {
       de: "Das Museum stellt Artefakte der präkolumbianischen Kulturen aus der Region Sula aus. Es bietet Einblicke in die frühe Geschichte von Honduras.",
       hu: "A múzeum a Sula régió prekolumbiánus kultúráinak műtárgyait mutatja be. Betekintést nyújt Honduras korai történelmébe.",
@@ -1110,12 +1134,24 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Location: San Pedro Sula", "Pre-Columbian artifacts", "Cultural heritage", "Educational institution"],
     },
     imageHint: "Anthropological Museum San Pedro Sula exhibits",
+    descriptionAdvanced: {
+      de: "Das Anthropologische Museum von San Pedro Sula ist eines der wichtigsten Museen in Honduras. Es befindet sich im Stadtzentrum und beherbergt eine umfangreiche Sammlung präkolumbischer Artefakte, darunter Keramik, Steinskulpturen und Goldobjekte. Das Museum beleuchtet die Geschichte der indigenen Völker der Region, von den Maya bis zu den Lenca. Es gibt auch Ausstellungen zur Kolonialgeschichte und zur modernen Ethnographie. Das Museum wurde 1994 gegründet und ist ein Zentrum für Forschung und Bildung.",
+      hu: "A San Pedro Sula-i Antropológiai Múzeum Honduras egyik legfontosabb múzeuma. A városközpontban található, és kiterjedt gyűjteménnyel rendelkezik prekolumbiánus tárgyakból, beleértve kerámiákat, kőszobrokat és aranytárgyakat. A múzeum bemutatja a régió őslakos népeinek történetét a maja és lenca kultúráktól kezdve. Kiállításai vonatkoznak a gyarmati történelemre és a modern etnográfiára is. 1994-ben alapították, kutatási és oktatási központ.",
+      ro: "Muzeul Antropologic din San Pedro Sula este unul dintre cele mai importante muzee din Honduras. Situat în centrul orașului, adăpostește o vastă colecție de artefacte precolumbiene, inclusiv ceramică, sculpturi în piatră și obiecte din aur. Muzeul explorează istoria popoarelor indigene ale regiunii, de la mayași la lenca. Există, de asemenea, expoziții despre istoria colonială și etnografia modernă. Muzeul a fost fondat în 1994 și este un centru de cercetare și educație.",
+      en: "The Anthropological Museum of San Pedro Sula is one of the most important museums in Honduras. Located in the city center, it houses an extensive collection of pre-Columbian artifacts, including pottery, stone sculptures, and gold objects. The museum covers the history of the region's indigenous peoples, from the Maya to the Lenca. There are also exhibits on colonial history and modern ethnography. Founded in 1994, it is a center for research and education.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 1994 eröffnet.", "Die Sammlung umfasst über 10.000 Objekte.", "Das älteste Artefakt stammt aus dem Jahr 2000 v. Chr.", "Das Museum hat eine Fläche von 2.500 Quadratmetern.", "Jährlich besuchen etwa 50.000 Menschen das Museum.", "Es gibt 8 Dauerausstellungsräume."],
+      hu: ["A múzeum 1994-ben nyílt meg.", "A gyűjtemény több mint 10.000 tárgyat számlál.", "A legrégebbi lelet Kr.e. 2000-ből származik.", "A múzeum területe 2500 négyzetméter.", "Évente körülbelül 50.000 ember látogatja.", "8 állandó kiállítóterem található."],
+      ro: ["Muzeul a fost deschis în 1994.", "Colecția cuprinde peste 10.000 de obiecte.", "Cel mai vechi artefact datează din anul 2000 î.Hr.", "Muzeul are o suprafață de 2.500 de metri pătrați.", "Anual, aproximativ 50.000 de vizitatori.", "Există 8 săli de expoziție permanentă."],
+      en: ["The museum opened in 1994.", "The collection includes over 10,000 items.", "The oldest artifact dates from 2000 BC.", "The museum covers 2,500 square meters.", "About 50,000 people visit annually.", "There are 8 permanent exhibition halls."],
+    },
   },
   {
     id: "honduras-iglesia-santa-rosa-de-copan-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Santa Rosa de Copán", hu: "Santa Rosa de Copán-i székesegyház", ro: "Catedrala din Santa Rosa de Copán", en: "Cathedral of Santa Rosa de Copán" },
-    coordinates: { lat: 14.76, lng: -88.77 },
+    coords: [-88.77, 14.76],
     description: {
       de: "Diese Kathedrale ist das wichtigste religiöse Gebäude in Santa Rosa de Copán. Sie zeichnet sich durch ihren neoklassizistischen Baustil aus.",
       hu: "Ez a katedrális Santa Rosa de Copán legfontosabb vallási épülete. Neoklasszikus építészeti stílusáról ismert.",
@@ -1129,12 +1165,24 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Location: Santa Rosa de Copán", "Neoclassicism", "Important religious site", "Architectural heritage"],
     },
     imageHint: "Cathedral of Santa Rosa de Copan",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Santa Rosa de Copán ist ein imposantes neoklassizistisches Bauwerk aus dem 19. Jahrhundert. Sie ist die Kathedrale des Bistums Santa Rosa de Copán und ein spirituelles Zentrum der Region. Die Fassade wird von zwei Türmen flankiert, und das Innere ist reich verziert mit Holzarbeiten und religiösen Gemälden. Die Kathedrale wurde zwischen 1882 und 1900 erbaut und ist ein Symbol der Stadt. Sie beherbergt auch ein kleines Museum mit sakraler Kunst.",
+      hu: "A Santa Rosa de Copán-i székesegyház a 19. században épült neoklasszicista stílusban. A Santa Rosa de Copán-i egyházmegye székesegyháza, a régió vallási központja. Homlokzatát két torony szegélyezi, belseje gazdagon díszített faragásokkal és vallási festményekkel. 1882 és 1900 között épült, a város jelképe. Szakrális művészeti múzeumot is magában foglal.",
+      ro: "Catedrala din Santa Rosa de Copán este o impunătoare construcție neoclasică din secolul al XIX-lea. Este catedrala diecezei de Santa Rosa de Copán și un centru spiritual al regiunii. Fațada este flancată de două turnuri, iar interiorul este bogat ornamentat cu sculpturi în lemn și picturi religioase. Catedrala a fost construită între 1882 și 1900 și este un simbol al orașului. Adăpostește și un mic muzeu de artă sacră.",
+      en: "The Cathedral of Santa Rosa de Copán is an imposing neoclassical building from the 19th century. It is the cathedral of the Diocese of Santa Rosa de Copán and a spiritual center of the region. The façade is flanked by two towers, and the interior is richly decorated with wood carvings and religious paintings. Built between 1882 and 1900, it is a symbol of the city. It also houses a small museum of sacred art.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann 1882 und wurde 1900 abgeschlossen.", "Die Türme sind 40 Meter hoch.", "Die Kathedrale ist 60 Meter lang und 25 Meter breit.", "Der Hauptaltar ist aus Carrara-Marmor gefertigt.", "Das Bistum wurde 1916 gegründet.", "Die Kathedrale bietet Platz für 1.000 Gläubige."],
+      hu: ["Az építkezés 1882-ben kezdődött és 1900-ban fejeződött be.", "A tornyok 40 méter magasak.", "A székesegyház hossza 60 méter, szélessége 25 méter.", "A főoltár carrarai márványból készült.", "Az egyházmegyét 1916-ban alapították.", "A székesegyház 1000 hívő befogadására alkalmas."],
+      ro: ["Construcția a început în 1882 și s-a finalizat în 1900.", "Turlele au 40 de metri înălțime.", "Catedrala are 60 de metri lungime și 25 de metri lățime.", "Altarul principal este din marmură de Carrara.", "Dieceza a fost fondată în 1916.", "Catedrala poate găzdui 1.000 de credincioși."],
+      en: ["Construction began in 1882 and was completed in 1900.", "The towers are 40 meters high.", "The cathedral is 60 meters long and 25 meters wide.", "The main altar is made of Carrara marble.", "The diocese was founded in 1916.", "The cathedral can accommodate 1,000 worshippers."],
+    },
   },
   {
     id: "honduras-torre-de-mercedes-tegucigalpa-landmarks-v2",
     type: "tower",
     name: { de: "Torre de Mercedes", hu: "Torre de Mercedes torony", ro: "Turnul Mercedes", en: "Torre de Mercedes" },
-    coordinates: { lat: 14.101, lng: -87.195 },
+    coords: [-87.195, 14.101],
     description: {
       de: "Die Torre de Mercedes ist eines der moderneren Hochhäuser im Finanzviertel von Tegucigalpa. Sie prägt das zeitgenössische Stadtbild der Hauptstadt.",
       hu: "A Torre de Mercedes Tegucigalpa pénzügyi negyedének egyik modernebb felhőkarcolója. Meghatározza a főváros kortárs városképét.",
@@ -1148,6 +1196,18 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Location: Tegucigalpa", "Financial district", "Modern high-rise", "Cityscape defining"],
     },
     imageHint: "Torre de Mercedes Tegucigalpa skyscraper",
+    descriptionAdvanced: {
+      de: "Der Torre de Mercedes ist ein Glockenturm im Zentrum von Tegucigalpa, der zur Kirche Nuestra Señora de la Merced gehört. Ursprünglich im 18. Jahrhundert erbaut, wurde er nach einem Erdbeben 1856 wieder aufgebaut. Der Turm ist ein Wahrzeichen der Stadt und bietet einen Panoramablick über die Hauptstadt. Er ist im barocken Stil gehalten und mit Keramikfliesen verziert. Der Torre de Mercedes ist ein beliebter Treffpunkt und ein Symbol der kolonialen Vergangenheit Tegucigalpas.",
+      hu: "A Torre de Mercedes egy harangtorony Tegucigalpa központjában, amely a Nuestra Señora de la Merced templomhoz tartozik. Eredetileg a 18. században épült, de az 1856-os földrengés után újjáépítették. A torony a város egyik jelképe, panorámás kilátást nyújt a fővárosra. Barokk stílusú, kerámialapokkal díszített. Népszerű találkozóhely, és Tegucigalpa gyarmati múltjának szimbóluma.",
+      ro: "Turnul Mercedes este un turn clopotniță din centrul orașului Tegucigalpa, care aparține bisericii Nuestra Señora de la Merced. Construit inițial în secolul al XVIII-lea, a fost reconstruit după un cutremur în 1856. Turnul este un reper al orașului, oferind o priveliște panoramică asupra capitalei. Este în stil baroc, decorat cu plăci ceramice. Turnul Mercedes este un loc de întâlnire popular și un simbol al trecutului colonial al Tegucigalpei.",
+      en: "The Torre de Mercedes is a bell tower in downtown Tegucigalpa, part of the Church of Nuestra Señora de la Merced. Originally built in the 18th century, it was rebuilt after an earthquake in 1856. The tower is a city landmark, offering panoramic views of the capital. It features Baroque style and ceramic tile decoration. The Torre de Mercedes is a popular meeting point and a symbol of Tegucigalpa's colonial past.",
+    },
+    factsAdvanced: {
+      de: ["Der Turm wurde 1780 erbaut.", "Die Höhe beträgt 30 Meter.", "Nach dem Erdbeben 1856 wurde er 1860 wieder aufgebaut.", "Die Uhr wurde 1880 installiert.", "Der Turm hat 100 Stufen bis zur Spitze.", "Die Glocke wiegt 500 Kilogramm."],
+      hu: ["A tornyot 1780-ban építették.", "Magassága 30 méter.", "Az 1856-os földrengés után 1860-ban építették újjá.", "Az órát 1880-ban szerelték fel.", "A torony tetejéig 100 lépcsőfok vezet.", "A harang súlya 500 kilogramm."],
+      ro: ["Turnul a fost construit în 1780.", "Înălțimea este de 30 de metri.", "După cutremurul din 1856, a fost reconstruit în 1860.", "Ceasul a fost instalat în 1880.", "Turnul are 100 de trepte până în vârf.", "Clopotul cântărește 500 de kilograme."],
+      en: ["The tower was built in 1780.", "It is 30 meters high.", "After the 1856 earthquake, it was rebuilt in 1860.", "The clock was installed in 1880.", "The tower has 100 steps to the top.", "The bell weighs 500 kilograms."],
+    },
   }
 ];
 

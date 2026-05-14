@@ -5,7 +5,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-kouilou-river-nature-v2",
     type: "river",
     name: { de: "Kouilou", hu: "Kouilou", ro: "Kouilou", en: "Kouilou River" },
-    coordinates: { lat: -4.43, lng: 11.66 },
+    coords: [11.66, -4.43],
     description: {
       de: "Der Kouilou-Niari fließt durch den Süden des Landes und mündet bei Diosso in den Atlantischen Ozean. Er ist bekannt für seine Stromschnellen.",
       hu: "A Kouilou-Niari az ország déli részén folyik, és Diosso közelében ömlik az Atlanti-óceánba. A folyó zúgóiról ismert.",
@@ -24,7 +24,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-djoukou-plateau-nature-v2",
     type: "mountain",
     name: { de: "Djoukou-Plateau", hu: "Djoukou-fennsík", ro: "Platoul Djoukou", en: "Djoukou Plateau" },
-    coordinates: { lat: -2.5, lng: 15.0 },
+    coords: [15.0, -2.5],
     description: {
       de: "Das Djoukou-Plateau ist eine weitläufige Hochebene im Zentrum des Landes. Sie besteht überwiegend aus Graslandschaften und Galeriewäldern.",
       hu: "A Djoukou-fennsík egy kiterjedt fennsík az ország közepén. Főleg gyepekből és galériaerdőkből áll.",
@@ -43,7 +43,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-djouan-falls-nature-v2",
     type: "landmark",
     name: { de: "Djouan-Wasserfall", hu: "Djouan-vízesés", ro: "Cascada Djouan", en: "Djouan Waterfall" },
-    coordinates: { lat: -3.5, lng: 14.2 },
+    coords: [14.2, -3.5],
     description: {
       de: "Dieser Wasserfall liegt im Inneren des Landes und bildet eine malerische Kaskade. Er ist umgeben von dichtem Waldgebiet.",
       hu: "Ez a vízesés az ország belsejében található és festői kaszkádot alkot. Sűrű erdő veszi körül.",
@@ -62,7 +62,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-lifoula-river-nature-v2",
     type: "river",
     name: { de: "Lifoula", hu: "Lifoula", ro: "Lifoula", en: "Lifoula River" },
-    coordinates: { lat: -4.0, lng: 15.0 },
+    coords: [15.0, -4.0],
     description: {
       de: "Der Lifoula ist ein kleinerer Zufluss im Kongobecken. Er speist die umliegenden Feuchtgebiete und unterstützt eine diverse Tierwelt.",
       hu: "A Lifoula egy kisebb mellékfolyó a Kongó-medencében. Táplálja a környező vizes élőhelyeket és támogatja a változatos állatvilágot.",
@@ -81,7 +81,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-lakou-lake-nature-v2",
     type: "lake",
     name: { de: "Lakou-See", hu: "Lakou-tó", ro: "Lacul Lakou", en: "Lakou Lake" },
-    coordinates: { lat: -3.2, lng: 14.8 },
+    coords: [14.8, -3.2],
     description: {
       de: "Dieser See ist ein ruhiges Gewässer inmitten einer bewaldeten Region. Er bietet Lebensraum für zahlreiche Vogelarten.",
       hu: "Ez a tó egy csendes állóvíz egy erdős régió közepén. Számos madárfajnak nyújt élőhelyet.",
@@ -100,7 +100,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-divenie-river-nature-v2",
     type: "river",
     name: { de: "Divenie", hu: "Divenie", ro: "Divenie", en: "Divenie River" },
-    coordinates: { lat: -3.5, lng: 13.0 },
+    coords: [13.0, -3.5],
     description: {
       de: "Der Divenie ist ein kleiner Fluss in der Niari-Region. Er trägt zur Entwässerung der umliegenden Hügellandschaften bei.",
       hu: "A Divenie egy kis folyó a Niari régióban. Hozzájárul a környező dombvidékek vízelvezetéséhez.",
@@ -119,7 +119,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-djoumouna-river-nature-v2",
     type: "river",
     name: { de: "Djoumouna", hu: "Djoumouna", ro: "Djoumouna", en: "Djoumouna River" },
-    coordinates: { lat: -4.2, lng: 14.9 },
+    coords: [14.9, -4.2],
     description: {
       de: "Dieser Fluss entspringt nahe Brazzaville und mündet in den Kongo. Er spielt eine wichtige Rolle für die lokale Wasserwirtschaft.",
       hu: "Ez a folyó Brazzaville közelében ered és a Kongóba ömlik. Fontos szerepet játszik a helyi vízgazdálkodásban.",
@@ -138,7 +138,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-leketi-nature-v2",
     type: "forest",
     name: { de: "Leketi-Region", hu: "Leketi régió", ro: "Regiunea Leketi", en: "Leketi Region" },
-    coordinates: { lat: -1.5, lng: 14.8 },
+    coords: [14.8, -1.5],
     description: {
       de: "Die Leketi-Region ist bekannt für ihre dichten Wälder und ihre Artenvielfalt. Sie bietet Schutz für viele seltene Säugetiere.",
       hu: "A Leketi régió sűrű erdeiről és biodiverzitásáról ismert. Sok ritka emlős számára nyújt védelmet.",
@@ -157,7 +157,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-nkeni-river-nature-v2",
     type: "river",
     name: { de: "Nkeni", hu: "Nkeni", ro: "Nkeni", en: "Nkeni River" },
-    coordinates: { lat: -2.0, lng: 16.0 },
+    coords: [16.0, -2.0],
     description: {
       de: "Der Nkeni fließt durch das zentrale Kongobecken. Er bildet ein Netzwerk aus kleinen Wasserwegen innerhalb der Regenwaldgebiete.",
       hu: "A Nkeni a központi Kongó-medencén folyik át. Kis vízi utak hálózatát alkotja az esőerdők területén.",
@@ -176,7 +176,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-loulou-falls-nature-v2",
     type: "landmark",
     name: { de: "Loulou-Wasserfall", hu: "Loulou-vízesés", ro: "Cascada Loulou", en: "Loulou Waterfall" },
-    coordinates: { lat: -4.2, lng: 13.8 },
+    coords: [13.8, -4.2],
     description: {
       de: "Dieser Wasserfall im Süden des Landes ist ein bekanntes Naturdenkmal. Er bietet eine eindrucksvolle Kulisse inmitten der grünen Landschaft.",
       hu: "Ez az ország déli részén található vízesés ismert természeti emlék. Lenyűgöző hátteret nyújt a zöld táj közepén.",
@@ -195,7 +195,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-lekoumou-river-nature-v2",
     type: "river",
     name: { de: "Lekoumou", hu: "Lekoumou", ro: "Lekoumou", en: "Lekoumou River" },
-    coordinates: { lat: -3.0, lng: 13.5 },
+    coords: [13.5, -3.0],
     description: {
       de: "Der Lekoumou ist ein Fluss im Südwesten, der durch eine hügelige Region fließt. Er prägt das lokale Landschaftsbild.",
       hu: "A Lekoumou egy folyó a délnyugaton, amely egy dombos vidéken folyik át. Meghatározza a helyi tájképet.",
@@ -214,7 +214,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-mpouya-forest-nature-v2",
     type: "forest",
     name: { de: "Mpouya-Wald", hu: "Mpouya-erdő", ro: "Pădurea Mpouya", en: "Mpouya Forest" },
-    coordinates: { lat: -2.0, lng: 16.2 },
+    coords: [16.2, -2.0],
     description: {
       de: "Dieser Wald zeichnet sich durch seine reiche Flora und Fauna aus. Er ist Teil des dichten tropischen Regenwaldgürtels.",
       hu: "Ezt az erdőt gazdag flóra és fauna jellemzi. A sűrű trópusi esőerdő öv része.",
@@ -233,7 +233,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-niari-valley-nature-v2",
     type: "valley",
     name: { de: "Niari-Tal", hu: "Niari-völgy", ro: "Valea Niari", en: "Niari Valley" },
-    coordinates: { lat: -3.8, lng: 12.5 },
+    coords: [12.5, -3.8],
     description: {
       de: "Das Niari-Tal ist eine fruchtbare Region im Süden des Landes. Es ist bekannt für seine landwirtschaftliche Nutzung und üppige Vegetation.",
       hu: "A Niari-völgy egy termékeny régió az ország déli részén. Mezőgazdasági hasznosításáról és buja növényzetéről ismert.",
@@ -252,7 +252,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-ouesso-river-nature-v2",
     type: "river",
     name: { de: "Ouesso-Flussabschnitt", hu: "Ouesso folyószakasz", ro: "Secțiunea râului Ouesso", en: "Ouesso River Section" },
-    coordinates: { lat: 1.6, lng: 16.0 },
+    coords: [16.0, 1.6],
     description: {
       de: "Dieser Flussabschnitt nahe Ouesso ist Teil eines größeren Wasserstraßensystems. Er ist umgeben von tiefem Regenwald.",
       hu: "Ez a folyószakasz Ouesso közelében egy nagyobb vízi út rendszer része. Mély esőerdő veszi körül.",
@@ -271,7 +271,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-djoum-river-nature-v2",
     type: "river",
     name: { de: "Djoum", hu: "Djoum", ro: "Djoum", en: "Djoum River" },
-    coordinates: { lat: -2.2, lng: 14.5 },
+    coords: [14.5, -2.2],
     description: {
       de: "Der Djoum schlängelt sich durch die Waldgebiete Zentral-Kongos. Er ist ein wichtiger Lebensraum für Süßwasserfische.",
       hu: "A Djoum kígyózik a közép-kongói erdőkön keresztül. Fontos élőhely az édesvízi halak számára.",
@@ -290,7 +290,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-lenge-lake-nature-v2",
     type: "lake",
     name: { de: "Lenge-See", hu: "Lenge-tó", ro: "Lacul Lenge", en: "Lenge Lake" },
-    coordinates: { lat: -3.5, lng: 15.0 },
+    coords: [15.0, -3.5],
     description: {
       de: "Der Lenge-See ist ein natürliches Reservoir im Landesinneren. Er unterstützt die lokale Flora in der Trockenzeit.",
       hu: "A Lenge-tó egy természetes víztározó az ország belsejében. Támogatja a helyi flórát a száraz évszakban.",
@@ -309,7 +309,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-kibangou-forest-nature-v2",
     type: "forest",
     name: { de: "Kibangou-Wald", hu: "Kibangou-erdő", ro: "Pădurea Kibangou", en: "Kibangou Forest" },
-    coordinates: { lat: -3.8, lng: 12.0 },
+    coords: [12.0, -3.8],
     description: {
       de: "Dieser Wald liegt im Südwesten und bietet eine vielfältige Vegetation. Er ist geprägt von tropischen Baumarten.",
       hu: "Ez az erdő délnyugaton található és változatos növényzetet kínál. Trópusi fafajok jellemzik.",
@@ -328,7 +328,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-sese-river-nature-v2",
     type: "river",
     name: { de: "Sese", hu: "Sese", ro: "Sese", en: "Sese River" },
-    coordinates: { lat: -1.2, lng: 16.8 },
+    coords: [16.8, -1.2],
     description: {
       de: "Der Sese durchfließt den Norden des Landes. Er ist ein wichtiger Teil des dortigen aquatischen Ökosystems.",
       hu: "A Sese az ország északi részén folyik át. Fontos része az ottani vízi ökoszisztémának.",
@@ -347,7 +347,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-loni-lake-nature-v2",
     type: "lake",
     name: { de: "Loni-See", hu: "Loni-tó", ro: "Lacul Loni", en: "Loni Lake" },
-    coordinates: { lat: -2.8, lng: 14.5 },
+    coords: [14.5, -2.8],
     description: {
       de: "Der Loni-See ist ein malerisches Gewässer in der Nähe der zentralen Wälder. Er bietet einen ruhigen Lebensraum für viele Tiere.",
       hu: "A Loni-tó egy festői állóvíz a központi erdők közelében. Csendes élőhelyet nyújt sok állat számára.",
@@ -366,7 +366,7 @@ export const republicofcongoNatureV2: POI[] = [
     id: "republicofcongo-mpama-river-nature-v2",
     type: "river",
     name: { de: "Mpama", hu: "Mpama", ro: "Mpama", en: "Mpama River" },
-    coordinates: { lat: -2.0, lng: 15.5 },
+    coords: [15.5, -2.0],
     description: {
       de: "Der Mpama ist ein Fluss im zentralen Bereich des Kongobeckens. Er trägt zur reichen Bewässerung der Region bei.",
       hu: "A Mpama egy folyó a Kongó-medence középső részén. Hozzájárul a régió gazdag öntözéséhez.",

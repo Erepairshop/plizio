@@ -1686,7 +1686,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-daayen-cities-v2",
     type: "town",
     name: { de: "Al Daayen", hu: "Al-Dajen", ro: "Al Daayen", en: "Al Daayen" },
-    coordinates: { lat: 25.54, lng: 51.46 },
+    coords: [51.46, 25.54],
     description: {
       de: "Al Daayen ist das Verwaltungszentrum der gleichnamigen Gemeinde im Norden von Doha. Die Stadt ist für ihre moderne Infrastruktur und die Nähe zur Küste bekannt.",
       hu: "Al-Dajen az azonos nevű község közigazgatási központja Doha északi részén. A város modern infrastruktúrájáról és a tengerparthoz való közelségéről ismert.",
@@ -1705,7 +1705,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-umm-qarn-cities-v2",
     type: "town",
     name: { de: "Umm Qarn", hu: "Umm Qarn", ro: "Umm Qarn", en: "Umm Qarn" },
-    coordinates: { lat: 25.6, lng: 51.42 },
+    coords: [51.42, 25.6],
     description: {
       de: "Umm Qarn ist eine bedeutende Siedlung in der Gemeinde Al Daayen. Der Ort liegt landeinwärts und ist durch traditionelle und moderne Wohnbebauung geprägt.",
       hu: "Umm Qarn egy jelentős település Al-Dajen községben. A helység a szárazföld belsejében található, és hagyományos, valamint modern lakóépületek jellemzik.",
@@ -1724,7 +1724,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-ebb-cities-v2",
     type: "town",
     name: { de: "Al Ebb", hu: "Al Ebb", ro: "Al Ebb", en: "Al Ebb" },
-    coordinates: { lat: 25.4, lng: 51.45 },
+    coords: [51.45, 25.4],
     description: {
       de: "Al Ebb ist ein schnell wachsender Stadtteil nördlich von Doha. Er zeichnet sich durch großzügige Villenviertel und eine moderne städtebauliche Planung aus.",
       hu: "Al Ebb egy gyorsan növekvő városrész Dohától északra. Tágas villanegyedek és modern várostervezés jellemzi.",
@@ -1743,7 +1743,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-jeryan-jenaihat-cities-v2",
     type: "town",
     name: { de: "Jeryan Jenaihat", hu: "Dzserjan Dzsenaihat", ro: "Jeryan Jenaihat", en: "Jeryan Jenaihat" },
-    coordinates: { lat: 25.42, lng: 51.46 },
+    coords: [51.46, 25.42],
     description: {
       de: "Jeryan Jenaihat ist eine moderne Wohnsiedlung in der Nähe von Lusail. Der Ort bietet hochwertige Immobilien und eine ruhige Atmosphäre abseits des Stadtzentrums.",
       hu: "Dzserjan Dzsenaihat egy modern lakótelep Luszail közelében. A hely kiváló ingatlanokat és nyugodt légkört kínál a városközponttól távol.",
@@ -1762,7 +1762,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-rawdat-al-hamama-cities-v2",
     type: "town",
     name: { de: "Rawdat Al Hamama", hu: "Rawdat Al Hamama", ro: "Rawdat Al Hamama", en: "Rawdat Al Hamama" },
-    coordinates: { lat: 25.46, lng: 51.44 },
+    coords: [51.44, 25.46],
     description: {
       de: "Rawdat Al Hamama ist ein strategisch günstig gelegenes Wohngebiet zwischen Doha und Lusail. Es ist für seine weite Fläche und geplante Grünflächen bekannt.",
       hu: "Rawdat Al Hamama egy stratégiai fekvésű lakóövezet Doha és Luszail között. Hatalmas területéről és tervezett zöldterületeiről ismert.",
@@ -1781,7 +1781,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-ain-khaled-cities-v2",
     type: "town",
     name: { de: "Ain Khaled", hu: "Ain Khaled", ro: "Ain Khaled", en: "Ain Khaled" },
-    coordinates: { lat: 25.24, lng: 51.46 },
+    coords: [51.46, 25.24],
     description: {
       de: "Ain Khaled ist ein etablierter Stadtteil im Südwesten von Doha. Er beherbergt zahlreiche Wohnkomplexe, Schulen und gewerbliche Einrichtungen.",
       hu: "Ain Khaled egy jól bevált városrész Doha délnyugati részén. Számos lakókomplexumnak, iskolának és kereskedelmi létesítménynek ad otthont.",
@@ -1800,7 +1800,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-abu-hamour-cities-v2",
     type: "town",
     name: { de: "Abu Hamour", hu: "Abu Hamour", ro: "Abu Hamour", en: "Abu Hamour" },
-    coordinates: { lat: 25.23, lng: 51.49 },
+    coords: [51.49, 25.23],
     description: {
       de: "Abu Hamour ist ein lebendiges Wohn- und Gewerbegebiet in Doha. Es ist besonders bekannt für seine vielen Bildungseinrichtungen und Einkaufsmärkte.",
       hu: "Abu Hamour egy pezsgő lakó- és kereskedelmi övezet Dohában. Különösen ismert számos oktatási intézményéről és bevásárlóközpontjáról.",
@@ -1819,7 +1819,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-gharrafa-cities-v2",
     type: "town",
     name: { de: "Al Gharrafa", hu: "Al Gharrafa", ro: "Al Gharrafa", en: "Al Gharrafa" },
-    coordinates: { lat: 25.32, lng: 51.45 },
+    coords: [51.45, 25.32],
     description: {
       de: "Al Gharrafa ist ein bedeutendes Gewerbe- und Sportviertel in der Gemeinde Al Rayyan. Es beherbergt große Einkaufszentren und wichtige Sportstadien.",
       hu: "Al Gharrafa egy jelentős kereskedelmi és sportnegyed Al-Rajján községben. Nagy bevásárlóközpontoknak és fontos sportstadionoknak ad otthont.",
@@ -1838,7 +1838,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-madinat-khalifa-cities-v2",
     type: "town",
     name: { de: "Madinat Khalifa", hu: "Kalifa Város", ro: "Madinat Khalifa", en: "Madinat Khalifa" },
-    coordinates: { lat: 25.32, lng: 51.49 },
+    coords: [51.49, 25.32],
     description: {
       de: "Madinat Khalifa ist ein historischer Stadtteil von Doha, der in Nord- und Südbereiche unterteilt ist. Er ist bekannt für seine zentrale Lage und dichte Besiedlung.",
       hu: "Kalifa Város Doha egyik történelmi városrésze, amely északi és déli területekre oszlik. Központi elhelyezkedéséről és sűrű lakottságáról ismert.",
@@ -1857,7 +1857,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-sadd-cities-v2",
     type: "town",
     name: { de: "Al Sadd", hu: "Al-Szadd", ro: "Al Sadd", en: "Al Sadd" },
-    coordinates: { lat: 25.28, lng: 51.5 },
+    coords: [51.5, 25.28],
     description: {
       de: "Al Sadd ist eines der geschäftigsten Handels- und Wohnzentren in Doha. Es ist berühmt für seinen Sportverein und die lebhafte Atmosphäre.",
       hu: "Al-Szadd Doha egyik legforgalmasabb kereskedelmi és lakónegyede. Híres sportklubjáról és élénk hangulatáról.",
@@ -1876,7 +1876,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-waab-cities-v2",
     type: "town",
     name: { de: "Al Waab", hu: "Al Waab", ro: "Al Waab", en: "Al Waab" },
-    coordinates: { lat: 25.27, lng: 51.47 },
+    coords: [51.47, 25.27],
     description: {
       de: "Al Waab ist ein gehobenes Wohnviertel im Westen von Doha. Es beherbergt bedeutende Sportanlagen wie die Aspire Zone und große Wohnanlagen.",
       hu: "Al Waab egy előkelő lakónegyed Doha nyugati részén. Olyan jelentős sportlétesítményeknek ad otthont, mint az Aspire Zone és nagy lakóparkok.",
@@ -1895,7 +1895,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-izghawa-cities-v2",
     type: "town",
     name: { de: "Izghawa", hu: "Izghawa", ro: "Izghawa", en: "Izghawa" },
-    coordinates: { lat: 25.36, lng: 51.44 },
+    coords: [51.44, 25.36],
     description: {
       de: "Izghawa ist ein Wohngebiet, das sich über die Gemeinden Umm Salal und Al Rayyan erstreckt. Es bietet eine ruhige Wohnumgebung für Familien.",
       hu: "Izghawa egy lakóövezet, amely Umm Salal és Al-Rajján községek területén oszlik el. Nyugodt lakókörnyezetet biztosít családok számára.",
@@ -1914,7 +1914,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-messila-cities-v2",
     type: "town",
     name: { de: "Al Messila", hu: "Al Messila", ro: "Al Messila", en: "Al Messila" },
-    coordinates: { lat: 25.3, lng: 51.48 },
+    coords: [51.48, 25.3],
     description: {
       de: "Al Messila ist ein exklusiver Stadtteil in Doha, der für seine Luxusresorts und weitläufigen grünen Wohnanlagen bekannt ist.",
       hu: "Al Messila Doha egyik exkluzív városrésze, amely luxusüdülőiről és kiterjedt zöld lakóparkjairól ismert.",
@@ -1933,7 +1933,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-nuaija-cities-v2",
     type: "town",
     name: { de: "Nuaija", hu: "Nuaija", ro: "Nuaija", en: "Nuaija" },
-    coordinates: { lat: 25.25, lng: 51.53 },
+    coords: [51.53, 25.25],
     description: {
       de: "Nuaija ist ein dicht besiedelter Stadtteil im Süden von Doha. Er zeichnet sich durch eine Mischung aus älteren Villen und modernen Wohnblöcken aus.",
       hu: "Nuaija egy sűrűn lakott városrész Doha déli részén. Régebbi villák és modern lakóházak keveréke jellemzi.",
@@ -1952,7 +1952,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-thumama-cities-v2",
     type: "town",
     name: { de: "Al Thumama", hu: "Al-Tumama", ro: "Al Thumama", en: "Al Thumama" },
-    coordinates: { lat: 25.23, lng: 51.55 },
+    coords: [51.55, 25.23],
     description: {
       de: "Al Thumama ist ein bedeutender Wohnbezirk im Süden von Doha, der durch das gleichnamige WM-Stadion weltweite Bekanntheit erlangte.",
       hu: "Al-Tumama Doha déli részén fekvő jelentős lakónegyed, amely az azonos nevű világbajnoki stadion révén vált világszerte ismertté.",
@@ -1971,7 +1971,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-barwa-city-cities-v2",
     type: "town",
     name: { de: "Barwa City", hu: "Barwa City", ro: "Barwa City", en: "Barwa City" },
-    coordinates: { lat: 25.19, lng: 51.53 },
+    coords: [51.53, 25.19],
     description: {
       de: "Barwa City ist eine moderne, geplante Wohnstadt südlich von Doha. Sie wurde konzipiert, um Tausenden von Bewohnern hochwertigen Wohnraum zu bieten.",
       hu: "Barwa City egy modern, tervezett lakóváros Dohától délre. Úgy alakították ki, hogy több ezer lakos számára biztosítson színvonalas lakhelyet.",
@@ -1990,7 +1990,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-aziziya-cities-v2",
     type: "town",
     name: { de: "Al Aziziya", hu: "Al-Azizija", ro: "Al Aziziya", en: "Al Aziziya" },
-    coordinates: { lat: 25.25, lng: 51.45 },
+    coords: [51.45, 25.25],
     description: {
       de: "Al Aziziya ist ein belebtes Viertel in der Gemeinde Al Rayyan. Es ist bekannt für seine kommerziellen Straßen und die Nähe zum Aspire Park.",
       hu: "Al-Azizija egy forgalmas negyed Al-Rajján községben. Kereskedelmi utcáiról és az Aspire Park közelségéről ismert.",
@@ -2009,7 +2009,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-muraikh-cities-v2",
     type: "town",
     name: { de: "Muraikh", hu: "Muraikh", ro: "Muraikh", en: "Muraikh" },
-    coordinates: { lat: 25.29, lng: 51.43 },
+    coords: [51.43, 25.29],
     description: {
       de: "Muraikh ist ein ruhiges Wohngebiet in Al Rayyan. Der Ort ist geprägt von traditionellen Häusern und modernen Wohnanlagen für Einheimische.",
       hu: "Muraikh egy csendes lakóövezet Al-Rajjánban. A helyet hagyományos házak és modern lakóparkok jellemzik a helyiek számára.",
@@ -2028,7 +2028,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-duhail-cities-v2",
     type: "town",
     name: { de: "Duhail", hu: "Duhail", ro: "Duhail", en: "Duhail" },
-    coordinates: { lat: 25.36, lng: 51.48 },
+    coords: [51.48, 25.36],
     description: {
       de: "Duhail ist ein prestigeträchtiges Wohnviertel im Norden von Doha. Es ist Sitz wichtiger Bildungseinrichtungen und Militäranlagen.",
       hu: "Duhail egy tekintélyes lakónegyed Doha északi részén. Fontos oktatási intézmények és katonai létesítmények székhelye.",
@@ -2047,7 +2047,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-markhiya-cities-v2",
     type: "town",
     name: { de: "Al Markhiya", hu: "Al-Markija", ro: "Al Markhiya", en: "Al Markhiya" },
-    coordinates: { lat: 25.33, lng: 51.49 },
+    coords: [51.49, 25.33],
     description: {
       de: "Al Markhiya ist ein zentral gelegener Stadtteil von Doha, der für seine großzügigen Villen und den Markhiya-Kreisel bekannt ist.",
       hu: "Al-Markija Doha egyik központi városrésze, amely tágas villáiról és a Markija-körforgalomról ismert.",
@@ -2066,7 +2066,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-madinat-al-kaaban-cities-v2",
     type: "town",
     name: { de: "Madinat Al Kaaban", hu: "Madinat Al Kaaban", ro: "Madinat Al Kaaban", en: "Madinat Al Kaaban" },
-    coordinates: { lat: 25.81, lng: 51.35 },
+    coords: [51.35, 25.81],
     description: {
       de: "Madinat Al Kaaban ist ein ruhiger Ort im Norden von Katar, der zur Gemeinde Al Khor gehört. Die Siedlung ist für ihren traditionellen Charme bekannt.",
       hu: "Madinat Al Kaaban egy csendes hely Katar északi részén, amely Al-Hor községhez tartozik. A település hagyományos bájáról ismert.",
@@ -2085,7 +2085,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-masrouhiya-cities-v2",
     type: "town",
     name: { de: "Al Masrouhiya", hu: "Al-Maszruhija", ro: "Al Masrouhiya", en: "Al Masrouhiya" },
-    coordinates: { lat: 25.49, lng: 51.46 },
+    coords: [51.46, 25.49],
     description: {
       de: "Al Masrouhiya ist eine aufstrebende Wohngegend in der Gemeinde Al Daayen. Der Ort liegt günstig an der Autobahn nach Norden.",
       hu: "Al-Maszruhija egy fejlődő lakóövezet Al-Dajen községben. A hely kedvező fekvésű az északi autópálya mentén.",
@@ -2104,7 +2104,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-onaiza-cities-v2",
     type: "town",
     name: { de: "Onaiza", hu: "Onaiza", ro: "Onaiza", en: "Onaiza" },
-    coordinates: { lat: 25.34, lng: 51.52 },
+    coords: [51.52, 25.34],
     description: {
       de: "Onaiza ist ein gehobenes Viertel in Doha, das zwischen der West Bay und dem Katara Cultural Village liegt. Es ist bekannt für Botschaften und Villen.",
       hu: "Onaiza egy előkelő negyed Dohában, a West Bay és a Katara kulturális falu között. Nagykövetségeiről és villáiról ismert.",
@@ -2123,7 +2123,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-qassar-cities-v2",
     type: "town",
     name: { de: "Al Qassar", hu: "Al Qassar", ro: "Al Qassar", en: "Al Qassar" },
-    coordinates: { lat: 25.35, lng: 51.53 },
+    coords: [51.53, 25.35],
     description: {
       de: "Al Qassar ist ein modernes Viertel in Doha, das für das Katara Cultural Village und hochwertige Hotelanlagen bekannt ist.",
       hu: "Al Qassar Doha egyik modern negyede, amely a Katara kulturális faluról és színvonalas szállodakomplexumairól ismert.",
@@ -2142,7 +2142,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-egla-cities-v2",
     type: "town",
     name: { de: "Al Egla", hu: "Al Egla", ro: "Al Egla", en: "Al Egla" },
-    coordinates: { lat: 25.4, lng: 51.51 },
+    coords: [51.51, 25.4],
     description: {
       de: "Al Egla ist ein neues Wohnviertel nördlich von Doha, direkt an der Grenze zu Lusail. Es bietet modernen Wohnraum in Meeresnähe.",
       hu: "Al Egla egy új lakónegyed Dohától északra, közvetlenül Luszail határában. Modern lakhelyet kínál a tenger közelében.",
@@ -2161,7 +2161,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-otouriya-cities-v2",
     type: "village",
     name: { de: "Al Otouriya", hu: "Al-Otourija", ro: "Al Otouriya", en: "Al Otouriya" },
-    coordinates: { lat: 25.5, lng: 51.17 },
+    coords: [51.17, 25.5],
     description: {
       de: "Al Otouriya ist ein ländlicher Ort im Zentrum von Katar. Das Dorf ist ein wichtiges lokales Zentrum für die umliegenden Farmgebiete.",
       hu: "Al-Otourija egy vidéki település Katar központjában. A falu fontos helyi központ a környező farmterületek számára.",
@@ -2180,7 +2180,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-nasraniya-cities-v2",
     type: "village",
     name: { de: "Al Nasraniya", hu: "Al-Naszranija", ro: "Al Nasraniya", en: "Al Nasraniya" },
-    coordinates: { lat: 25.41, lng: 51.1 },
+    coords: [51.1, 25.41],
     description: {
       de: "Al Nasraniya ist ein abgelegenes Dorf im Westen Katars. Es ist bekannt für seine Brunnen und die traditionelle katarische Landwirtschaft.",
       hu: "Al-Naszranija egy távoli falu Katar nyugati részén. Kútjairól és a hagyományos katari mezőgazdaságról ismert.",
@@ -2199,7 +2199,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-al-seej-cities-v2",
     type: "town",
     name: { de: "Al Seej", hu: "Al Seej", ro: "Al Seej", en: "Al Seej" },
-    coordinates: { lat: 25.33, lng: 51.38 },
+    coords: [51.38, 25.33],
     description: {
       de: "Al Seej ist ein Wohngebiet in der Gemeinde Al Rayyan, westlich von Doha. Es bietet großflächige Grundstücke für katarische Familien.",
       hu: "Al Seej egy lakóövezet Al-Rajján községben, Dohától nyugatra. Nagy telkeket kínál katari családok számára.",
@@ -2218,7 +2218,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-baaya-cities-v2",
     type: "town",
     name: { de: "Baaya", hu: "Baaya", ro: "Baaya", en: "Baaya" },
-    coordinates: { lat: 25.27, lng: 51.44 },
+    coords: [51.44, 25.27],
     description: {
       de: "Baaya ist ein zentrales Viertel in Al Rayyan, das an das Aspire-Gelände grenzt. Es ist ein beliebter Wohnort für Kataris und Expats gleichermaßen.",
       hu: "Baaya Al-Rajján egyik központi negyede, amely az Aspire területével határos. Népszerű lakóhely katariak és külföldiek számára egyaránt.",
@@ -2237,7 +2237,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qatar-bani-hajer-cities-v2",
     type: "town",
     name: { de: "Bani Hajer", hu: "Bani Hadzser", ro: "Bani Hajer", en: "Bani Hajer" },
-    coordinates: { lat: 25.33, lng: 51.41 },
+    coords: [51.41, 25.33],
     description: {
       de: "Bani Hajer ist ein wachsender Vorort von Doha in der Gemeinde Al Rayyan. Er ist bekannt für seine exklusiven Villen und die Nähe zur Education City.",
       hu: "Bani Hadzser Doha egyik növekvő elővárosa Al-Rajján községben. Exkluzív villáiról és az Education City közelségéről ismert.",

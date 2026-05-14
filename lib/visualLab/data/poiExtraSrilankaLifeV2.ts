@@ -546,7 +546,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-muthurajawela-marsh-life-v2",
     type: "wildlife",
     name: { de: "Muthurajawela-Sumpf", hu: "Muthurajawela mocsárvidék", ro: "Mlaștina Muthurajawela", en: "Muthurajawela Marsh" },
-    coordinates: { lat: 7.0425, lng: 79.9144 },
+    coords: [79.9144, 7.0425],
     description: {
       de: "Dieses Küstenfeuchtgebiet erstreckt sich über 3.068 Hektar und dient als lebenswichtiger Lebensraum für Zugvögel. Es wurde 1996 zum Schutzgebiet erklärt.",
       hu: "Ez a 3068 hektáros parti mocsárvidék kiemelt fontosságú élőhely a vándormadarak számára. Ökológiai jelentősége miatt 1996-ban nyilvánították védett területté.",
@@ -565,7 +565,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-seethawaka-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Seethawaka", hu: "Seethawaka botanikus kert", ro: "Grădina Botanică Seethawaka", en: "Seethawaka Botanical Garden" },
-    coordinates: { lat: 6.9067, lng: 80.2078 },
+    coords: [80.2078, 6.9067],
     description: {
       de: "Dieser 2014 eröffnete Garten widmet sich dem Erhalt bedrohter Pflanzen der Feuchtzone. Er liegt in Avissawella und beherbergt einen künstlich angelegten See.",
       hu: "A 2014-ben megnyitott kert a nedves zóna veszélyeztetett növényeinek megőrzésére összpontosít. Avissawellában található, és egy mesterséges tavat is magában foglal.",
@@ -584,7 +584,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-dehiwala-zoological-gardens-life-v2",
     type: "wildlife",
     name: { de: "Zoologischer Garten Dehiwala", hu: "Dehiwala állatkert", ro: "Grădina Zoologică Dehiwala", en: "Dehiwala Zoological Gardens" },
-    coordinates: { lat: 6.8561, lng: 79.8736 },
+    coords: [79.8736, 6.8561],
     description: {
       de: "Dieser 1936 gegründete Zoo ist einer der ältesten in Asien und beherbergt über 2.500 Tiere. Er ist bekannt für seinen Schmetterlingsgarten und die Elefanten.",
       hu: "Az 1936-ban alapított intézmény Ázsia egyik legrégebbi állatkertje, ahol több mint 2500 állat él. Pillangókertjéről és elefántjairól ismert.",
@@ -603,7 +603,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-chundikulam-national-park-life-v2",
     type: "wildlife",
     name: { de: "Chundikulam-Nationalpark", hu: "Chundikulam Nemzeti Park", ro: "Parcul Național Chundikulam", en: "Chundikulam National Park" },
-    coordinates: { lat: 9.4753, lng: 80.5283 },
+    coords: [80.5283, 9.4753],
     description: {
       de: "Das 2015 zum Nationalpark erklärte Gebiet umfasst eine große Lagune und Sanddünen im Norden. Es bietet Schutz für verschiedene Wasservögel und Krokodile.",
       hu: "A 2015-ben nemzeti parkká nyilvánított terület egy nagy lagúnát és homokdűnéket foglal magában. Számos vízimadárnak és krokodilnak nyújt menedéket.",
@@ -622,7 +622,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-anawilundawa-wetland-life-v2",
     type: "wildlife",
     name: { de: "Anawilundawa-Feuchtgebiet", hu: "Anawilundawa mocsárrezervátum", ro: "Rezervația Anawilundawa", en: "Anawilundawa Wetland Sanctuary" },
-    coordinates: { lat: 7.7125, lng: 79.8164 },
+    coords: [79.8164, 7.7125],
     description: {
       de: "Dieses Ramsar-Feuchtgebiet besteht aus sieben antiken künstlichen Teichen. Es dient als Brutstätte für viele einheimische und ziehende Vogelarten.",
       hu: "Ez a Ramsari-terület hét ősi mesterséges tóból áll. Számos fészkelő és vándormadár számára biztosít kiemelt fontosságú élőhelyet.",
@@ -641,7 +641,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-kanneliya-forest-reserve-life-v2",
     type: "forest",
     name: { de: "Waldreservat Kanneliya", hu: "Kanneliya erdőrezervátum", ro: "Rezervația forestieră Kanneliya", en: "Kanneliya Forest Reserve" },
-    coordinates: { lat: 6.2503, lng: 80.3375 },
+    coords: [80.3375, 6.2503],
     description: {
       de: "Dieser Tieflandregenwald ist ein bedeutender Biodiversitäts-Hotspot im Süden. Er beherbergt viele endemische Pflanzen- und Tierarten der Feuchtzone.",
       hu: "Ez az alföldi esőerdő Srí Lanka déli részének jelentős biodiverzitási forrópontja. Számos endemikus növény- és állatfajnak ad otthont.",
@@ -660,7 +660,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-somawathiya-national-park-life-v2",
     type: "wildlife",
     name: { de: "Somawathiya-Nationalpark", hu: "Somawathiya Nemzeti Park", ro: "Parcul Național Somawathiya", en: "Somawathiya National Park" },
-    coordinates: { lat: 8.1633, lng: 81.1611 },
+    coords: [81.1611, 8.1633],
     description: {
       de: "Der 1986 gegründete Park ist berühmt für seine Elefanten und die antike Somawathiya Stupa. Er umfasst Teile der Überschwemmungsgebiete des Mahaweli.",
       hu: "Az 1986-ban alapított park híres elefántpopulációjáról és az ősi Somawathiya sztúpáról. A Mahaweli-folyó árterének területén fekszik.",
@@ -679,7 +679,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     id: "srilanka-angammedilla-national-park-life-v2",
     type: "wildlife",
     name: { de: "Angammedilla-Nationalpark", hu: "Angammedilla Nemzeti Park", ro: "Parcul Național Angammedilla", en: "Angammedilla National Park" },
-    coordinates: { lat: 7.9158, lng: 80.8972 },
+    coords: [80.8972, 7.9158],
     description: {
       de: "Der 2006 gegründete Park schützt das Einzugsgebiet des Parakrama Samudra Reservoirs. Er dient als Korridor für Elefanten zwischen anderen Parks.",
       hu: "A 2006-ban alapított park a Parakrama Samudra víztározó vízgyűjtő medencéjét védi. Elefántfolyosóként szolgál a szomszédos parkok között.",

@@ -790,7 +790,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     id: "southafrica-hluhluwe-imfolozi-life-v2",
     type: "wildlife",
     name: { de: "Hluhluwe-iMfolozi-Park", hu: "Hluhluwe–iMfolozi Park", ro: "Parcul Hluhluwe–iMfolozi", en: "Hluhluwe–iMfolozi Park" },
-    coordinates: { lat: -28.219, lng: 31.952 },
+    coords: [31.952, -28.219],
     description: {
       de: "Dies ist Afrikas ältestes Naturschutzgebiet, das 1895 gegründet wurde. Es ist weltberühmt für die Rettung der Breitmaulnashörner.",
       hu: "Ez Afrika legrégebbi természetvédelmi területe, amelyet 1895-ben alapítottak. Világhírű a szélesszájú orrszarvúk megmentéséről.",

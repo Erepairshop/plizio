@@ -5,7 +5,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-mount-nanlaud-nature-v2",
     type: "peak",
     name: { de: "Berg Nanlaud", hu: "Nanlaud-hegy", ro: "Muntele Nanlaud", en: "Mount Nanlaud" },
-    coordinates: { lat: 6.882, lng: 158.217 },
+    coords: [158.217, 6.882],
     description: {
       de: "Der Berg Nanlaud ist mit 782 Metern der höchste Punkt der Insel Pohnpei und der gesamten Föderierten Staaten von Mikronesien. Er ist von dichtem, wolkenverhangenem Regenwald bedeckt und ein wichtiges Wassereinzugsgebiet.",
       hu: "A Nanlaud-hegy 782 méteres magasságával Pohnpei szigetének és egyben Mikronézia egészének legmagasabb pontja. Sűrű esőerdő borítja, amely gyakran felhőkbe burkolózik, és meghatározza a sziget vízháztartását.",
@@ -24,7 +24,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-mount-winipot-nature-v2",
     type: "peak",
     name: { de: "Berg Winipot", hu: "Winipot-hegy", ro: "Muntele Winipot", en: "Mount Winipot" },
-    coordinates: { lat: 7.371, lng: 151.581 },
+    coords: [151.581, 7.371],
     description: {
       de: "Der Berg Winipot auf der Insel Tol ist die höchste Erhebung im Bundesstaat Chuuk. Er ist bekannt für seine einzigartige Flora und als Lebensraum für seltene, nur hier vorkommende Vogelarten.",
       hu: "A Tol-szigeten található Winipot-hegy Chuuk állam legmagasabb pontja. Egyedülálló flórájáról és ritka, csak itt fészkelő madárfajok élőhelyeként ismert.",
@@ -43,7 +43,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-mount-matade-nature-v2",
     type: "peak",
     name: { de: "Berg Matade", hu: "Matade-hegy", ro: "Muntele Matade", en: "Mount Matade" },
-    coordinates: { lat: 9.531, lng: 138.114 },
+    coords: [138.114, 9.531],
     description: {
       de: "Der Berg Matade ist die höchste Erhebung auf der Insel Yap. Mit 173 Metern bietet er Wanderern einen moderaten Aufstieg und Panoramablicke über die Küstenlinie und die umliegenden Mangrovenwälder.",
       hu: "A Matade-hegy Yap szigetének legmagasabb pontja. A 173 méteres magasságával mérsékelt kihívást jelentő túrát kínál, fentről pedig panorámás kilátás nyílik a partvonalra és a környező mangrovékra.",
@@ -62,7 +62,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-kepirohi-waterfall-nature-v2",
     type: "park",
     name: { de: "Kepirohi-Wasserfall", hu: "Kepirohi-vízesés", ro: "Cascada Kepirohi", en: "Kepirohi Waterfall" },
-    coordinates: { lat: 6.842, lng: 158.291 },
+    coords: [158.291, 6.842],
     description: {
       de: "Der Kepirohi-Wasserfall ist einer der bekanntesten und fotogensten Wasserfälle auf Pohnpei. Das Wasser stürzt über stufenförmige Basaltsäulen in ein großes, zum Schwimmen geeignetes Becken.",
       hu: "A Kepirohi-vízesés Pohnpei egyik legismertebb és leglátványosabb vízesése. A víz lépcsőzetes bazaltoszlopokon zúdul le egy hatalmas medencébe, amely kiválóan alkalmas úszásra.",
@@ -81,7 +81,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-liduduhniap-waterfalls-nature-v2",
     type: "park",
     name: { de: "Liduduhniap-Wasserfälle", hu: "Liduduhniap-vízesések", ro: "Cascadele Liduduhniap", en: "Liduduhniap Waterfalls" },
-    coordinates: { lat: 6.937, lng: 158.191 },
+    coords: [158.191, 6.937],
     description: {
       de: "Die Liduduhniap-Wasserfälle sind zwei malerische Zwillingswasserfälle auf Pohnpei. Sie liegen versteckt im Regenwald und bieten natürliche Pools, die zum Baden in ruhiger Atmosphäre einladen.",
       hu: "A Liduduhniap-vízesések két festői ikervízesés Pohnpei szigetén. Az esőerdő mélyén találhatók, és természetes medencéket kínálnak, amelyek nyugodt környezetben hívogatnak fürdőzésre.",
@@ -100,7 +100,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-sahwar-waterfall-nature-v2",
     type: "park",
     name: { de: "Sahwar-Wasserfall", hu: "Sahwar-vízesés", ro: "Cascada Sahwar", en: "Sahwar Waterfall" },
-    coordinates: { lat: 6.871, lng: 158.224 },
+    coords: [158.224, 6.871],
     description: {
       de: "Der Sahwar-Wasserfall ist ein abgelegenes Naturjuwel auf Pohnpei, tief im Inselinneren. Er zeichnet sich durch seine ruhige Lage und das kristallklare Wasser aus, das in einen tiefen Dschungelpool fällt.",
       hu: "A Sahwar-vízesés Pohnpei egy eldugott természeti kincse a sziget belsejében. Nyugodt elhelyezkedése és kristálytiszta vize jellemzi, amely egy mély dzsungelmedencébe hullik.",
@@ -119,7 +119,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-chuuk-lagoon-nature-v2",
     type: "wildlife",
     name: { de: "Chuuk-Lagune", hu: "Chuuk-lagúna", ro: "Laguna Chuuk", en: "Chuuk Lagoon" },
-    coordinates: { lat: 7.42, lng: 151.78 },
+    coords: [151.78, 7.42],
     description: {
       de: "Die Chuuk-Lagune ist eines der weltweit größten Atolle und bekannt für ihre immense marine Biodiversität. Sie umfasst ein riesiges Korallenriff, das zahlreiche vulkanische Inseln und kristallklares Wasser umschließt.",
       hu: "A Chuuk-lagúna a világ egyik legnagyobb atollja, amely hatalmas tengeri biodiverzitásáról ismert. Egy óriási korallzátonyból áll, amely számos vulkanikus szigetet és kristálytiszta vizet zár körül.",
@@ -138,7 +138,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-woleai-atoll-nature-v2",
     type: "wildlife",
     name: { de: "Woleai-Atoll", hu: "Woleai-atoll", ro: "Atolul Woleai", en: "Woleai Atoll" },
-    coordinates: { lat: 7.35, lng: 143.88 },
+    coords: [143.88, 7.35],
     description: {
       de: "Das Woleai-Atoll ist ein abgelegenes Korallenatoll in den westlichen Karolinen. Es besteht aus zwei durch einen Kanal verbundenen Lagunen und ist bekannt für seine unberührte Natur und reiche Fischgründe.",
       hu: "A Woleai-atoll egy eldugott korallatoll a nyugati Karolina-szigeteken. Két, csatornával összekötött lagúnából áll, és érintetlen természetéről, valamint gazdag halászterületeiről ismert.",
@@ -157,7 +157,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-kosrae-mangrove-forest-nature-v2",
     type: "forest",
     name: { de: "Kosrae-Mangrovenwald", hu: "Kosrae mangroveerdő", ro: "Pădurea de Mangrove Kosrae", en: "Kosrae Mangrove Forest" },
-    coordinates: { lat: 5.345, lng: 163.002 },
+    coords: [163.002, 5.345],
     description: {
       de: "Der Mangrovenwald von Kosrae ist eines der intaktesten und artenreichsten Mangrovenökosysteme im Pazifik. Er umschließt fast die gesamte Insel und dient als Schutzwall gegen Küstenerosion.",
       hu: "Kosrae mangroveerdeje a Csendes-óceán egyik legépebben maradt és legváltozatosabb mangrovéja. Szinte az egész szigetet körülöleli, és védőgátként szolgál a partmenti erózió ellen.",
@@ -176,7 +176,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-wiya-bird-cave-nature-v2",
     type: "wildlife",
     name: { de: "Wiya-Vogelhöhle", hu: "Wiya-madárbarlang", ro: "Peștera Wiya Bird", en: "Wiya Bird Cave" },
-    coordinates: { lat: 5.348, lng: 163.018 },
+    coords: [163.018, 5.348],
     description: {
       de: "Die Wiya-Vogelhöhle auf Kosrae ist eine große Kalksteinhöhle, die tausenden von mikronesischen Salanganen als Nistplatz dient. Sie ist ein faszinierendes Beispiel für die unterirdische Fauna der Insel.",
       hu: "A kosrae-i Wiya-madárbarlang egy hatalmas mészkőbarlang, amely mikronéziai szalangánok ezreinek szolgál fészkelőhelyül. A sziget földalatti faunájának lenyűgöző példája.",
@@ -195,7 +195,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-kuop-atoll-nature-v2",
     type: "wildlife",
     name: { de: "Kuop-Atoll", hu: "Kuop-atoll", ro: "Atolul Kuop", en: "Kuop Atoll" },
-    coordinates: { lat: 7.052, lng: 151.912 },
+    coords: [151.912, 7.052],
     description: {
       de: "Das Kuop-Atoll ist ein kleines, unbewohntes Atoll direkt südlich der Chuuk-Lagune. Es ist ein ausgewiesenes Meeresschutzgebiet, das für seine außergewöhnliche Korallenvielfalt und unberührten Riffe bekannt ist.",
       hu: "A Kuop-atoll egy kicsi, lakatlan atoll közvetlenül a Chuuk-lagúnától délre. Kijelölt tengeri védett terület, amely kivételes korall-sokszínűségéről és érintetlen zátonyairól ismert.",
@@ -214,7 +214,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-ngulu-atoll-nature-v2",
     type: "wildlife",
     name: { de: "Ngulu-Atoll", hu: "Ngulu-atoll", ro: "Atolul Ngulu", en: "Ngulu Atoll" },
-    coordinates: { lat: 8.452, lng: 137.478 },
+    coords: [137.478, 8.452],
     description: {
       de: "Das Ngulu-Atoll ist das westlichste Atoll der Föderierten Staaten von Mikronesien. Es liegt zwischen Yap und Palau und ist für seine riesige Lagune und den außergewöhnlichen Fischreichtum bekannt.",
       hu: "A Ngulu-atoll Mikronézia legnyugatibb atollja. Yap és Palau között fekszik, hatalmas lagúnájáról és kivételes halgazdagságáról ismert.",
@@ -233,7 +233,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-ifalik-atoll-nature-v2",
     type: "wildlife",
     name: { de: "Ifalik-Atoll", hu: "Ifalik-atoll", ro: "Atolul Ifalik", en: "Ifalik Atoll" },
-    coordinates: { lat: 7.248, lng: 144.452 },
+    coords: [144.452, 7.248],
     description: {
       de: "Das Ifalik-Atoll ist ein kleines Korallenatoll in den zentralen Karolinen. Es ist bekannt für seine fast kreisrunde Lagune und die Bewahrung einer sehr traditionellen Lebensweise im Einklang mit der Natur.",
       hu: "Az Ifalik-atoll egy kicsi korallatoll a központi Karolina-szigeteken. Majdnem kör alakú lagúnájáról és a természettel összhangban lévő, nagyon hagyományos életmód megőrzéséről ismert.",
@@ -252,7 +252,7 @@ export const micronesiaNatureV2: POI[] = [
     id: "micronesia-okat-river-nature-v2",
     type: "river",
     name: { de: "Okat-Fluss", hu: "Okat-folyó", ro: "Râul Okat", en: "Okat River" },
-    coordinates: { lat: 5.352, lng: 162.948 },
+    coords: [162.948, 5.352],
     description: {
       de: "Der Okat-Fluss ist das größte Flusssystem auf der Insel Kosrae. Er fließt durch dichte Mangrovenwälder und mündet in den Ozean nahe dem Inselflughafen.",
       hu: "Az Okat-folyó Kosrae szigetének legnagyobb folyórendszere. Sűrű mangrovékon keresztül folyik, és a sziget repülőterének közelében torkollik az óceánba.",

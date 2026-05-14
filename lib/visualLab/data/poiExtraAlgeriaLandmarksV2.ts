@@ -938,7 +938,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-fort-de-l-amirante-landmarks-v2",
     type: "landmark",
     name: { de: "Fort de l'Amirante", hu: "Fort de l'Amirante", ro: "Fort de l'Amirante", en: "Fort de l'Amirante" },
-    coordinates: { lat: 36.7765, lng: 3.0561 },
+    coords: [3.0561, 36.7765],
     description: {
       de: "Diese historische Festungsanlage befindet sich im Hafenbereich von Algier. Sie wurde während der osmanischen Periode zur Verteidigung der Küste errichtet.",
       hu: "Ez a történelmi erőd Algír kikötőjének területén található. Az oszmán időszakban építették a partvidék védelmére.",
@@ -969,7 +969,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-dar-aziza-landmarks-v2",
     type: "palace",
     name: { de: "Dar Aziza", hu: "Dar Aziza", ro: "Dar Aziza", en: "Dar Aziza" },
-    coordinates: { lat: 36.7797, lng: 3.0617 },
+    coords: [3.0617, 36.7797],
     description: {
       de: "Dieser osmanische Palast in der Kasbah von Algier stammt aus dem 16. Jahrhundert. Er gilt als eines der besterhaltenen Beispiele für diesen Baustil.",
       hu: "Ez a 16. századi oszmán palota Algír Kasbahjában található. Az ilyen építészeti stílus egyik legjobban megőrzött példája.",
@@ -1000,7 +1000,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-mosque-djeroua-landmarks-v2",
     type: "landmark",
     name: { de: "Djeroua Moschee", hu: "Djeroua mecset", ro: "Moscheea Djeroua", en: "Djeroua Mosque" },
-    coordinates: { lat: 36.7828, lng: 3.0645 },
+    coords: [3.0645, 36.7828],
     description: {
       de: "Diese Moschee ist ein historisches Gebäude in der Hauptstadt. Sie ist bekannt für ihr traditionelles Mauerwerk und ihre architektonischen Details.",
       hu: "Ez a mecset egy történelmi épület a fővárosban. Hagyományos falazatáról és építészeti részleteiről ismert.",
@@ -1031,7 +1031,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-sidi-abdallah-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Sidi Abdallah Moschee", hu: "Sidi Abdallah mecset", ro: "Moscheea Sidi Abdallah", en: "Sidi Abdallah Mosque" },
-    coordinates: { lat: 36.7808, lng: 3.0635 },
+    coords: [3.0635, 36.7808],
     description: {
       de: "Eine Moschee in der Kasbah von Algier, die für ihr Minarett und ihren historischen Wert bekannt ist. Das Gebäude spiegelt den regionalen Baustil wider.",
       hu: "Egy mecset Algír Kasbahjában, amely minaretjéről és történelmi értékéről ismert. Az épület a regionális építészeti stílust tükrözi.",
@@ -1062,7 +1062,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-bibliotheque-nationale-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek von Algerien", hu: "Algéria Nemzeti Könyvtára", ro: "Biblioteca Națională a Algeriei", en: "National Library of Algeria" },
-    coordinates: { lat: 36.7511, lng: 3.0619 },
+    coords: [3.0619, 36.7511],
     description: {
       de: "Ein modernes kulturelles Bauwerk in Algier, das umfangreiche literarische Sammlungen beherbergt. Es ist ein Zentrum für Wissenschaft und Forschung.",
       hu: "Egy modern kulturális építmény Algírban, amely kiterjedt irodalmi gyűjteményeket őriz. A tudomány és a kutatás központja.",
@@ -1093,7 +1093,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-palais-des-arts-landmarks-v2",
     type: "theater",
     name: { de: "Palast der Künste", hu: "Művészetek Palotája", ro: "Palatul Artelor", en: "Palace of Arts" },
-    coordinates: { lat: 36.7505, lng: 3.0722 },
+    coords: [3.0722, 36.7505],
     description: {
       de: "Dieser Veranstaltungsort in Algier widmet sich der Förderung und Präsentation verschiedener Kunstformen. Er dient als Ausstellungs- und Aufführungsraum.",
       hu: "Ez az algíri rendezvényhelyszín különböző művészeti formák támogatásának és bemutatásának szenteli magát. Kiállító- és előadótérként szolgál.",
@@ -1124,7 +1124,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-el-hamma-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "El Hamma Brücke", hu: "El Hamma híd", ro: "Podul El Hamma", en: "El Hamma Bridge" },
-    coordinates: { lat: 36.7523, lng: 3.0754 },
+    coords: [3.0754, 36.7523],
     description: {
       de: "Eine wichtige innerstädtische Brückenverbindung in Algier. Das Bauwerk erleichtert den Verkehrsfluss in einem dicht besiedelten städtischen Bereich.",
       hu: "Fontos városi hídösszeköttetés Algírban. Az építmény megkönnyíti a közlekedést egy sűrűn lakott városi területen.",
@@ -1155,7 +1155,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-musee-des-antiquites-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Antiken", hu: "Antikvitások Múzeuma", ro: "Muzeul de Antichități", en: "Museum of Antiquities" },
-    coordinates: { lat: 36.7558, lng: 3.0512 },
+    coords: [3.0512, 36.7558],
     description: {
       de: "Dieses Museum beherbergt eine umfangreiche Sammlung archäologischer Funde aus der Geschichte Algeriens. Es bewahrt Exponate der phönizischen und römischen Ära.",
       hu: "Ez a múzeum kiterjedt régészeti leletgyűjteményt őriz Algéria történetéből. A föníciai és római korszakból származó kiállítási tárgyakat őriz.",
@@ -1186,7 +1186,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-mausoleum-sidi-abd-er-rahman-landmarks-v2",
     type: "monument",
     name: { de: "Mausoleum von Sidi Abd er-Rahman", hu: "Sidi Abd er-Rahman mauzóleuma", ro: "Mausoleul lui Sidi Abd er-Rahman", en: "Mausoleum of Sidi Abd er-Rahman" },
-    coordinates: { lat: 36.7825, lng: 3.0648 },
+    coords: [3.0648, 36.7825],
     description: {
       de: "Dieses Mausoleum befindet sich in der Nähe der Kasbah von Algier. Es ist ein bedeutender Ort religiöser Verehrung und historischer Architektur.",
       hu: "Ez a mauzóleum Algír Kasbahjának közelében található. Jelentős helyszíne a vallási tiszteletnek és a történelmi építészetnek.",
@@ -1217,7 +1217,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-stadium-5-july-landmarks-v2",
     type: "landmark",
     name: { de: "5. Juli Stadion", hu: "Július 5. Stadion", ro: "Stadionul 5 Iulie", en: "5 July Stadium" },
-    coordinates: { lat: 36.7542, lng: 3.0118 },
+    coords: [3.0118, 36.7542],
     description: {
       de: "Ein bedeutendes Sportstadion in Algier, benannt nach dem Unabhängigkeitstag des Landes. Es ist eines der größten Bauwerke dieser Art im Land.",
       hu: "Jelentős sportstadion Algírban, amelyet az ország függetlenségének napjáról neveztek el. Az ország egyik legnagyobb ilyen jellegű építménye.",
@@ -1248,7 +1248,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-cathedrale-sacré-coeur-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale Sacré-Cœur d'Alger", hu: "Sacré-Cœur katedrális (Algír)", ro: "Catedrala Sacré-Cœur din Alger", en: "Sacré-Cœur Cathedral of Algiers" },
-    coordinates: { lat: 36.7588, lng: 3.0425 },
+    coords: [3.0425, 36.7588],
     description: {
       de: "Dieses religiöse Gebäude in Algier weist eine moderne architektonische Gestaltung auf. Es dient heute als wichtige Stätte für die Gemeinschaft.",
       hu: "Ez az algíri vallási épület modern építészeti kialakítással rendelkezik. Ma fontos közösségi helyszínként szolgál.",
@@ -1279,7 +1279,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-mosque-ali-betchin-landmarks-v2",
     type: "landmark",
     name: { de: "Ali Betchin Moschee", hu: "Ali Betchin mecset", ro: "Moscheea Ali Betchin", en: "Ali Betchin Mosque" },
-    coordinates: { lat: 36.7802, lng: 3.0612 },
+    coords: [3.0612, 36.7802],
     description: {
       de: "Eine historische Moschee in Algier, die für ihren osmanischen Baustil bekannt ist. Das Gebäude ist ein integraler Bestandteil der Kasbah-Struktur.",
       hu: "Egy történelmi mecset Algírban, amely oszmán építészeti stílusáról ismert. Az épület a Kasbah-struktúra szerves része.",
@@ -1310,7 +1310,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-grand-theatre-algiers-landmarks-v2",
     type: "theater",
     name: { de: "Großes Theater von Algier", hu: "Algíri Nagyszínház", ro: "Marele Teatru din Alger", en: "Grand Theatre of Algiers" },
-    coordinates: { lat: 36.7725, lng: 3.0585 },
+    coords: [3.0585, 36.7725],
     description: {
       de: "Ein kulturelles Gebäude in Algier, das für Aufführungen und künstlerische Veranstaltungen genutzt wird. Es ist ein zentraler Treffpunkt für Kunstinteressierte.",
       hu: "Egy algíri kulturális épület, amelyet előadásokhoz és művészeti rendezvényekhez használnak. Központi találkozóhely a művészetkedvelők számára.",
@@ -1341,7 +1341,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-palais-gouvernement-landmarks-v2",
     type: "landmark",
     name: { de: "Regierungspalast Algier", hu: "Algíri Kormányzati Palota", ro: "Palatul Guvernului din Alger", en: "Government Palace of Algiers" },
-    coordinates: { lat: 36.7728, lng: 3.0515 },
+    coords: [3.0515, 36.7728],
     description: {
       de: "Ein bedeutendes offizielles Gebäude in der Hauptstadt. Es dient als Sitz für wichtige administrative Regierungsfunktionen.",
       hu: "Jelentős hivatali épület a fővárosban. Fontos igazgatási kormányzati funkciók székhelyeként szolgál.",
@@ -1372,7 +1372,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-hotel-saint-georges-landmarks-v2",
     type: "landmark",
     name: { de: "Hotel Saint George", hu: "Hotel Saint George", ro: "Hotel Saint George", en: "Hotel Saint George" },
-    coordinates: { lat: 36.7555, lng: 3.0485 },
+    coords: [3.0485, 36.7555],
     description: {
       de: "Dieses historische Hotel in Algier blickt auf eine lange Tradition zurück. Es ist bekannt für seine Architektur und als Ort historischer Ereignisse.",
       hu: "Ez a történelmi szálloda Algírban hosszú hagyományra tekint vissza. Építészetéről ismert, és történelmi események helyszíneként.",
@@ -1403,7 +1403,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-gare-centrale-alger-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptbahnhof Algier", hu: "Algíri központi pályaudvar", ro: "Gara Centrală din Alger", en: "Algiers Central Station" },
-    coordinates: { lat: 36.7745, lng: 3.0615 },
+    coords: [3.0615, 36.7745],
     description: {
       de: "Ein wichtiges Bahninfrastrukturgebäude in Algier. Es ist ein zentraler Verkehrsknotenpunkt für den regionalen und nationalen Bahnverkehr.",
       hu: "Fontos vasúti infrastrukturális épület Algírban. Központi közlekedési csomópont a regionális és országos vasúti forgalom számára.",
@@ -1434,7 +1434,7 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "algeria-maison-culture-alger-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturhaus Algier", hu: "Algíri Kulturális Ház", ro: "Casa Culturii din Alger", en: "Culture House of Algiers" },
-    coordinates: { lat: 36.7612, lng: 3.0555 },
+    coords: [3.0555, 36.7612],
     description: {
       de: "Ein Bauwerk in Algier, das der Förderung lokaler Kultur und Kunst dient. Es beherbergt verschiedene Werkstätten und Veranstaltungsräume.",
       hu: "Egy algíri építmény, amely a helyi kultúra és művészet támogatását szolgálja. Különböző műhelyeknek és rendezvénytermeknek ad otthont.",

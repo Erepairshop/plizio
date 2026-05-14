@@ -1087,7 +1087,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-supreme-court-landmarks-v2",
     type: "landmark",
     name: { de: "Oberster Gerichtshof von Uganda", hu: "Uganda Legfelsőbb Bírósága", ro: "Curtea Supremă a Ugandei", en: "Supreme Court of Uganda" },
-    coordinates: { lat: 0.315, lng: 32.585 },
+    coords: [32.585, 0.315],
     description: {
       de: "Das Gebäude des Obersten Gerichtshofs in Kampala ist der Sitz der höchsten Justizbehörde des Landes.",
       hu: "A kampalai Legfelsőbb Bíróság épülete az ország legmagasabb szintű igazságszolgáltatási szerve.",
@@ -1106,7 +1106,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-bank-of-uganda-landmarks-v2",
     type: "landmark",
     name: { de: "Zentralbank von Uganda", hu: "Ugandai Központi Bank", ro: "Banca Ugandei", en: "Bank of Uganda Building" },
-    coordinates: { lat: 0.314, lng: 32.582 },
+    coords: [32.582, 0.314],
     description: {
       de: "Das Hauptgebäude der Zentralbank von Uganda prägt mit seiner modernen Architektur das Geschäftsviertel von Kampala.",
       hu: "Az Ugandai Központi Bank főépülete modern építészetével meghatározza Kampala üzleti negyedét.",
@@ -1125,7 +1125,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-high-court-landmarks-v2",
     type: "landmark",
     name: { de: "Hohes Gericht von Uganda", hu: "Ugandai Felsőbíróság", ro: "Înalta Curte a Ugandei", en: "High Court of Uganda" },
-    coordinates: { lat: 0.3155, lng: 32.5835 },
+    coords: [32.5835, 0.3155],
     description: {
       de: "Das Gebäude des Hohen Gerichts von Uganda ist ein wichtiges architektonisches Denkmal der Justizgeschichte.",
       hu: "Az ugandai Felsőbíróság épülete az igazságszolgáltatás történetének fontos építészeti emléke.",
@@ -1144,7 +1144,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-sheraton-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Sheraton Kampala Hotel", hu: "Sheraton Kampala Hotel", ro: "Sheraton Kampala Hotel", en: "Sheraton Kampala Hotel" },
-    coordinates: { lat: 0.316, lng: 32.5855 },
+    coords: [32.5855, 0.316],
     description: {
       de: "Dieses markante kreisförmige Hochhaus wurde in den 1960er Jahren erbaut und ist ein Wahrzeichen Kampalas.",
       hu: "Ez a jellegzetes kör alakú toronyház az 1960-as években épült, és Kampala egyik jelképe.",
@@ -1163,7 +1163,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-city-hall-kampala-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Kampala", hu: "Kampalai Városháza", ro: "Primăria din Kampala", en: "Kampala City Hall" },
-    coordinates: { lat: 0.3165, lng: 32.588 },
+    coords: [32.588, 0.3165],
     description: {
       de: "Das Rathaus von Kampala beherbergt die Stadtverwaltung und ist ein zentraler Verwaltungsbau im Herzen der Stadt.",
       hu: "A kampalai városháza ad otthont a városvezetésnek, és központi közigazgatási épület a város szívében.",
@@ -1182,7 +1182,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-uganda-house-landmarks-v2",
     type: "landmark",
     name: { de: "Uganda House", hu: "Uganda House", ro: "Uganda House", en: "Uganda House" },
-    coordinates: { lat: 0.3135, lng: 32.584 },
+    coords: [32.584, 0.3135],
     description: {
       de: "Dieses markante Bürogebäude beherbergt verschiedene politische Büros und ist ein bekanntes Symbol im Stadtzentrum.",
       hu: "Ez a jellegzetes irodaház különböző politikai irodáknak ad otthont, és a városközpont ismert szimbóluma.",
@@ -1201,7 +1201,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-state-house-entebbe-landmarks-v2",
     type: "palace",
     name: { de: "Staatshaus Entebbe", hu: "Entebbei Állami Ház", ro: "Casa de Stat din Entebbe", en: "State House Entebbe" },
-    coordinates: { lat: 0.06, lng: 32.475 },
+    coords: [32.475, 0.06],
     description: {
       de: "Die offizielle Residenz des Präsidenten von Uganda liegt direkt am Victoria-See in der Stadt Entebbe.",
       hu: "Uganda elnökének hivatalos rezidenciája közvetlenül a Viktória-tó partján, Entebbe városában található.",
@@ -1220,7 +1220,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-mulago-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Mulago-Krankenhaus", hu: "Mulago Kórház", ro: "Spitalul Mulago", en: "Mulago Hospital" },
-    coordinates: { lat: 0.338, lng: 32.576 },
+    coords: [32.576, 0.338],
     description: {
       de: "Das nationale Referenzkrankenhaus in Kampala ist der größte medizinische Komplex in Uganda.",
       hu: "Ez a kampalai nemzeti referenciakórház Uganda legnagyobb egészségügyi komplexuma.",
@@ -1239,7 +1239,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-pakwach-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Pakwach-Brücke", hu: "Pakwach-híd", ro: "Podul Pakwach", en: "Pakwach Bridge" },
-    coordinates: { lat: 2.451, lng: 31.503 },
+    coords: [31.503, 2.451],
     description: {
       de: "Diese strategische Brücke über den Albert-Nil verbindet die West-Nile-Region mit dem Rest des Landes.",
       hu: "Ez az Albert-Níluson átívelő stratégiai híd köti össze a Nyugat-Nílus régiót az ország többi részével.",
@@ -1258,7 +1258,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-serena-hotel-kampala-landmarks-v2",
     type: "landmark",
     name: { de: "Kampala Serena Hotel", hu: "Kampala Serena Hotel", ro: "Kampala Serena Hotel", en: "Kampala Serena Hotel" },
-    coordinates: { lat: 0.319, lng: 32.586 },
+    coords: [32.586, 0.319],
     description: {
       de: "Das elegante Hotelgebäude gilt als architektonisches Highlight und ist ein Treffpunkt für internationale Konferenzen.",
       hu: "Az elegáns szállodaépület építészeti csúcspontnak számít, és nemzetközi konferenciák helyszíne.",
@@ -1277,7 +1277,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-postel-building-landmarks-v2",
     type: "landmark",
     name: { de: "Postel Building", hu: "Postel Building", ro: "Clădirea Postel", en: "Postel Building" },
-    coordinates: { lat: 0.3145, lng: 32.5845 },
+    coords: [32.5845, 0.3145],
     description: {
       de: "Dieses Hochhaus in Kampala ist ein wichtiger Standort für Telekommunikation und Postdienste.",
       hu: "Ez a kampalai toronyház a távközlés és a postai szolgáltatások egyik fontos központja.",
@@ -1296,7 +1296,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-amber-house-landmarks-v2",
     type: "landmark",
     name: { de: "Amber House", hu: "Amber House", ro: "Amber House", en: "Amber House" },
-    coordinates: { lat: 0.313, lng: 32.583 },
+    coords: [32.583, 0.313],
     description: {
       de: "Ein historisches Bürogebäude in Kampala, das für die Verwaltung des Energie- und Bergbausektors bekannt ist.",
       hu: "Történelmi irodaház Kampalában, amely az energia- és bányászati szektor igazgatásáról ismert.",
@@ -1315,7 +1315,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-diamond-trust-building-landmarks-v2",
     type: "landmark",
     name: { de: "Diamond Trust Building", hu: "Diamond Trust Building", ro: "Clădirea Diamond Trust", en: "Diamond Trust Building" },
-    coordinates: { lat: 0.3125, lng: 32.5815 },
+    coords: [32.5815, 0.3125],
     description: {
       de: "Dieses moderne Glasgebäude ist einer der auffälligsten Wolkenkratzer im Finanzdistrikt von Kampala.",
       hu: "Ez a modern üvegépület Kampala pénzügyi negyedének egyik legfeltűnőbb felhőkarcolója.",
@@ -1334,7 +1334,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-st-peters-cathedral-nsambya-landmarks-v2",
     type: "cathedral",
     name: { de: "St. Peter's Kathedrale Nsambya", hu: "Szent Péter-székesegyház, Nsambya", ro: "Catedrala Sf. Petru Nsambya", en: "St. Peter's Cathedral Nsambya" },
-    coordinates: { lat: 0.298, lng: 32.588 },
+    coords: [32.588, 0.298],
     description: {
       de: "Die historische katholische Kathedrale auf dem Nsambya-Hügel ist bekannt für ihre Architektur und Gemeinde.",
       hu: "A Nsambya-dombon álló történelmi katolikus székesegyház építészetéről és közösségéről ismert.",
@@ -1353,7 +1353,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-bishop-tucker-building-landmarks-v2",
     type: "university",
     name: { de: "Bishop Tucker Gebäude", hu: "Bishop Tucker épület", ro: "Clădirea Bishop Tucker", en: "Bishop Tucker Building" },
-    coordinates: { lat: 0.354, lng: 32.735 },
+    coords: [32.735, 0.354],
     description: {
       de: "Das zentrale Gebäude der Uganda Christian University in Mukono besticht durch seinen kolonialen Baustil.",
       hu: "Az ugandai Keresztény Egyetem központi épülete Mukonóban gyarmati stílusú építészetével tűnik ki.",
@@ -1372,7 +1372,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-jinja-city-hall-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Jinja", hu: "Jinjai Városháza", ro: "Primăria din Jinja", en: "Jinja City Hall" },
-    coordinates: { lat: 0.428, lng: 33.205 },
+    coords: [33.205, 0.428],
     description: {
       de: "Das Verwaltungsgebäude in Jinja spiegelt die Bedeutung der Stadt als industrielles Zentrum wider.",
       hu: "A jinjai közigazgatási épület a város ipari központként betöltött szerepét tükrözi.",
@@ -1391,7 +1391,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-mbale-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Mbale", hu: "Mbalei óratorony", ro: "Turnul cu ceas din Mbale", en: "Mbale Clock Tower" },
-    coordinates: { lat: 1.077, lng: 34.178 },
+    coords: [34.178, 1.077],
     description: {
       de: "Dieser historische Uhrturm im Zentrum von Mbale ist ein markanter Orientierungspunkt.",
       hu: "Ez a Mbale központjában álló történelmi óratorony kiemelkedő tájékozódási pont.",
@@ -1410,7 +1410,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-fort-portal-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Fort Portal", hu: "Fort Portali óratorony", ro: "Turnul cu ceas din Fort Portal", en: "Fort Portal Clock Tower" },
-    coordinates: { lat: 0.654, lng: 30.274 },
+    coords: [30.274, 0.654],
     description: {
       de: "Ein bekanntes Wahrzeichen im Zentrum der Stadt, das den Weg in die Rwenzori-Berge markiert.",
       hu: "A város központjának ismert jelképe, amely a Rwenzori-hegység felé vezető utat jelzi.",
@@ -1429,7 +1429,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "uganda-kyambogo-main-building-landmarks-v2",
     type: "university",
     name: { de: "Hauptgebäude der Kyambogo-Universität", hu: "Kyambogo Egyetem főépülete", ro: "Clădirea principală a Universității Kyambogo", en: "Kyambogo University Main Building" },
-    coordinates: { lat: 0.351, lng: 32.631 },
+    coords: [32.631, 0.351],
     description: {
       de: "Das markante Hauptgebäude der Universität ist ein Symbol für akademische Exzellenz in Kampala.",
       hu: "Az egyetem jellegzetes főépülete az akadémiai kiválóság szimbóluma Kampalában.",

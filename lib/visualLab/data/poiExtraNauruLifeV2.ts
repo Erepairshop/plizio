@@ -5,7 +5,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-buada-lagoon-life-v2",
     type: "lake",
     name: { de: "Buada-Lagune", hu: "Buada-lagúna", ro: "Laguna Buada", en: "Buada Lagoon" },
-    coordinates: { lat: -0.5333, lng: 166.9231 },
+    coords: [166.9231, -0.5333],
     description: {
       de: "Die Buada-Lagune ist ein brackiger Binnensee im Zentrum der Insel. Sie ist von fruchtbarem Land und Palmen umgeben.",
       hu: "A Buada-lagúna egy szárazfölddel körülvett sós tó a sziget közepén. Termékeny földek és pálmafák övezik.",
@@ -24,7 +24,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-anibare-bay-reef-life-v2",
     type: "wildlife",
     name: { de: "Anibare-Bucht-Riff", hu: "Anibare-öböl zátony", ro: "Reciful din Golful Anibare", en: "Anibare Bay Reef" },
-    coordinates: { lat: -0.5352, lng: 166.9535 },
+    coords: [166.9535, -0.5352],
     description: {
       de: "Das Korallenriff in der Anibare-Bucht beherbergt eine große Vielfalt an maritimem Leben. Es ist der wichtigste Meereslebensraum der Insel.",
       hu: "Az Anibare-öböl korallzátonya gazdag tengeri élővilágnak ad otthont. Ez a sziget legfontosabb tengeri élőhelye.",
@@ -43,7 +43,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-topside-plateau-ferns-life-v2",
     type: "forest",
     name: { de: "Farne des Zentralplateaus", hu: "Központi-fennsík páfrányai", ro: "Ferigile de pe Platoul Central", en: "Central Plateau Ferns" },
-    coordinates: { lat: -0.5285, lng: 166.9352 },
+    coords: [166.9352, -0.5285],
     description: {
       de: "Auf dem Zentralplateau entwickeln sich nach dem Phosphatabbau neue Farngesellschaften. Diese Pionierpflanzen begrünen die Kalksteinfelsen.",
       hu: "A központi fennsíkon a foszfátbányászat után új páfrányközösségek alakultak ki. Ezek az úttörő növények zöldítik be a mészkősziklákat.",
@@ -62,7 +62,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-command-ridge-forest-life-v2",
     type: "forest",
     name: { de: "Command-Ridge-Wald", hu: "Command Ridge erdő", ro: "Pădurea Command Ridge", en: "Command Ridge Forest" },
-    coordinates: { lat: -0.5301, lng: 166.9155 },
+    coords: [166.9155, -0.5301],
     description: {
       de: "Der Command Ridge beherbergt einige der dichtesten verbliebenen Waldstücke der Insel. Hier wachsen einheimische Baumarten wie der Tamanu.",
       hu: "A Command Ridge a sziget legsűrűbb megmaradt erdőfoltjainak ad otthont. Itt olyan őshonos fák nőnek, mint a Tamanu.",
@@ -81,7 +81,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-moqua-well-area-life-v2",
     type: "landmark",
     name: { de: "Moqua-Well-Gebiet", hu: "Moqua Well környéke", ro: "Zona Moqua Well", en: "Moqua Well Area" },
-    coordinates: { lat: -0.5482, lng: 166.9312 },
+    coords: [166.9312, -0.5482],
     description: {
       de: "Die Umgebung des Moqua Well ist durch unterirdische Wasserspeicher und spezifische Feuchtvegetation gekennzeichnet. Es ist ein seltener Süßwasserlebensraum.",
       hu: "A Moqua Well környékét földalatti víztározók és sajátos nedves vegetáció jellemzi. Ritka édesvízi élőhely.",
@@ -100,7 +100,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-ijuw-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Ijuw-Mangroven", hu: "Ijuw-mangroveerdő", ro: "Mangrovele din Ijuw", en: "Ijuw Mangroves" },
-    coordinates: { lat: -0.5185, lng: 166.9551 },
+    coords: [166.9551, -0.5185],
     description: {
       de: "Kleine Bestände von Mangroven wachsen entlang der Küste von Ijuw. Sie schützen das Ufer und bieten Lebensraum für kleine Krebstiere.",
       hu: "Ijuw partjai mentén kis mangrove-állományok nőnek. Védik a partvonalat és életteret biztosítanak a rákféléknek.",
@@ -119,7 +119,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-nibok-shrubland-life-v2",
     type: "wildlife",
     name: { de: "Nibok-Buschland", hu: "Nibok cserjés", ro: "Zona de arbuști din Nibok", en: "Nibok Shrubland" },
-    coordinates: { lat: -0.5105, lng: 166.9182 },
+    coords: [166.9182, -0.5105],
     description: {
       de: "Die Küstenstreifen von Nibok sind von Scaevola-Büschen und einheimischen Sträuchern bedeckt. Diese Flora ist extrem salztolerant.",
       hu: "Nibok part menti sávját Scaevola bokrok és őshonos cserjék borítják. Ez a flóra rendkívül sótűrő.",
@@ -138,7 +138,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-meneng-pandanus-groves-life-v2",
     type: "wildlife",
     name: { de: "Meneng-Pandanus-Haine", hu: "Meneng pandanus ligetek", ro: "Crângurile de pandanus din Meneng", en: "Meneng Pandanus Groves" },
-    coordinates: { lat: -0.5452, lng: 166.9455 },
+    coords: [166.9455, -0.5452],
     description: {
       de: "In Meneng wachsen ausgedehnte Haine des Pandanus-Baumes. Diese markanten Bäume mit Stelzwurzeln prägen das Landschaftsbild.",
       hu: "Meneng területén kiterjedt pandanus ligetek találhatók. Ezek a jellegzetes léggyökerű fák határozzák meg a tájat.",
@@ -157,7 +157,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-anetan-frigatebird-nesting-life-v2",
     type: "wildlife",
     name: { de: "Anetan-Vogelbrutstätte", hu: "Anetan madárfészkelő hely", ro: "Locul de cuibărit din Anetan", en: "Anetan Bird Nesting Site" },
-    coordinates: { lat: -0.5052, lng: 166.9421 },
+    coords: [166.9421, -0.5052],
     description: {
       de: "Die Küstenfelsen von Anetan sind ein bevorzugter Brut- und Ruheplatz für Fregattvögel. Diese Vögel sind ein nationales Symbol Naurus.",
       hu: "Anetan parti sziklái a fregattmadarak kedvelt fészkelő- és pihenőhelyei. Ezek a madarak Nauru nemzeti szimbólumai.",
@@ -176,7 +176,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-buada-district-gardens-life-v2",
     type: "park",
     name: { de: "Gärten von Buada", hu: "Buada kertjei", ro: "Grădinile din Buada", en: "Buada District Gardens" },
-    coordinates: { lat: -0.5355, lng: 166.9205 },
+    coords: [166.9205, -0.5355],
     description: {
       de: "Die Gärten im Buada-Distrikt zeigen eine Mischung aus Zierpflanzen und Nutzpflanzen. Hier gedeihen Bananen, Papayas und Brotfruchtbäume.",
       hu: "A Buada kerület kertjei dísznövények és haszonnövények keverékét mutatják be. Itt banán, papaya és kenyérfa is terem.",
@@ -195,7 +195,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-denigomodu-casuarinas-life-v2",
     type: "forest",
     name: { de: "Denigomodu-Kasuarinen", hu: "Denigomodu kazuárfák", ro: "Casuarinele din Denigomodu", en: "Denigomodu Casuarinas" },
-    coordinates: { lat: -0.5255, lng: 166.9125 },
+    coords: [166.9125, -0.5255],
     description: {
       de: "Entlang der Küste von Denigomodu wachsen Gruppen von Kasuarinen, auch Eisenholzbäume genannt. Sie bieten Schutz vor Wind und Sonne.",
       hu: "Denigomodu partja mentén kazuárfa-csoportok, más néven vasfák nőnek. Védelmet nyújtanak a szél és a nap ellen.",
@@ -214,7 +214,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-aiwo-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Aiwo-Mangroven", hu: "Aiwo-mangrove", ro: "Mangrovele din Aiwo", en: "Aiwo Mangroves" },
-    coordinates: { lat: -0.5325, lng: 166.9102 },
+    coords: [166.9102, -0.5325],
     description: {
       de: "An der Küste von Aiwo finden sich vereinzelte Mangrovenbestände in geschützten Zonen. Sie sind wichtig für die Bio-Diversität der Gezeitenzone.",
       hu: "Aiwo partjainál védett zónákban elszórt mangrove-foltok találhatók. Fontosak az árapályzóna biodiverzitása szempontjából.",
@@ -233,7 +233,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-boe-coastal-flora-life-v2",
     type: "park",
     name: { de: "Flora von Boe", hu: "Boe flórája", ro: "Flora din Boe", en: "Boe Coastal Flora" },
-    coordinates: { lat: -0.5402, lng: 166.9155 },
+    coords: [166.9155, -0.5402],
     description: {
       de: "Die Flora von Boe umfasst eine Vielzahl von Strandwinden und flachen Küstenpflanzen. Sie stabilisieren den sandigen Boden am Westufer.",
       hu: "Boe flórája számos tengerparti folyondárt és alacsony növényt foglal magában. Stabilizálják a homokos talajt a nyugati parton.",
@@ -252,7 +252,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-yaren-greenbelt-life-v2",
     type: "park",
     name: { de: "Grüngürtel von Yaren", hu: "Yaren zöldövezete", ro: "Centura verde din Yaren", en: "Yaren Greenbelt" },
-    coordinates: { lat: -0.5475, lng: 166.9222 },
+    coords: [166.9222, -0.5475],
     description: {
       de: "Der Grüngürtel von Yaren besteht aus gepflegten Grünflächen und Alleen mit tropischen Bäumen. Er ist das urbane Zentrum der Naturbeobachtung.",
       hu: "Yaren zöldövezete gondozott zöldterületekből és trópusi fákkal szegélyezett utakból áll. A természetmegfigyelés városi központja.",
@@ -271,7 +271,7 @@ export const nauruLifeV2: POI[] = [
     id: "nauru-conservation-nursery-life-v2",
     type: "park",
     name: { de: "Naturschutz-Baumschule", hu: "Természetvédelmi faiskola", ro: "Pepiniera de conservare", en: "Conservation Nursery" },
-    coordinates: { lat: -0.5225, lng: 166.9305 },
+    coords: [166.9305, -0.5225],
     description: {
       de: "Die Baumschule dient der Wiederaufforstung der durch Bergbau geschädigten Gebiete. Hier werden einheimische Pflanzen für die Zukunft gezüchtet.",
       hu: "A faiskola a bányászat által károsított területek újrafásítását szolgálja. Itt nevelik az őshonos növényeket a jövő számára.",

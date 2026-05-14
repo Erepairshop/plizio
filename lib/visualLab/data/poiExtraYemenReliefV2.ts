@@ -546,7 +546,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-jabal-raymah-relief-v2",
     type: "mountain",
     name: { de: "Jabal Raymah", hu: "Dzsebel Rajma", ro: "Jabal Raymah", en: "Jabal Raymah" },
-    coordinates: { lat: 14.6167, lng: 43.7167 },
+    coords: [43.7167, 14.6167],
     description: {
       de: "Ein steiler Gebirgszug im westlichen Hochland, bekannt für seine extremen Höhenunterschiede und landwirtschaftlichen Terrassen.",
       hu: "Meredek hegylánc a nyugati felföldön, amely szélsőséges szintkülönbségeiről és mezőgazdasági teraszairól ismert.",
@@ -565,7 +565,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-jabal-milhan-relief-v2",
     type: "mountain",
     name: { de: "Jabal Milhan", hu: "Dzsebel Milhán", ro: "Jabal Milhan", en: "Jabal Milhan" },
-    coordinates: { lat: 15.2533, lng: 43.5567 },
+    coords: [43.5567, 15.2533],
     description: {
       de: "Ein isoliertes Bergmassiv im Gouvernement Al-Mahwit, das markant aus der Tihama-Küstenebene aufsteigt.",
       hu: "Elszigetelt hegymasszívum Al-Mahwit kormányzóságban, amely markánsan emelkedik ki a Tiháma-parti síkságból.",
@@ -584,7 +584,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-wadi-masila-relief-v2",
     type: "valley",
     name: { de: "Wadi Masila", hu: "Vádi Maszíla", ro: "Wadi Masila", en: "Wadi Masila" },
-    coordinates: { lat: 15.5167, lng: 50.8333 },
+    coords: [50.8333, 15.5167],
     description: {
       de: "Der untere Abschnitt des großen Wadi-Hadhramaut-Systems, der durch das Mahra-Plateau zum Arabischen Meer führt.",
       hu: "A hatalmas Vádi-Hadhramaut rendszer alsó szakasza, amely a Mahra-fennsíkon keresztül vezet az Arab-tengerhez.",
@@ -603,7 +603,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-jabal-utmah-relief-v2",
     type: "mountain",
     name: { de: "Jabal Utmah", hu: "Dzsebel Utma", ro: "Jabal Utmah", en: "Jabal Utmah" },
-    coordinates: { lat: 14.5, lng: 43.9167 },
+    coords: [43.9167, 14.5],
     description: {
       de: "Ein zerklüftetes Berggebiet in der Provinz Dhamar, das Teil des ersten offiziellen Naturschutzgebietes des Jemen ist.",
       hu: "Tagolt hegyvidéki terület Dhamár tartományban, amely Jemen első hivatalos természetvédelmi területének része.",
@@ -622,7 +622,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-shuqra-volcanic-field-relief-v2",
     type: "landmark",
     name: { de: "Vulkanfeld von Schuqra", hu: "Sukra vulkáni mező", ro: "Câmpul vulcanic Shuqra", en: "Shuqra Volcanic Field" },
-    coordinates: { lat: 13.5833, lng: 45.9167 },
+    coords: [45.9167, 13.5833],
     description: {
       de: "Ein ausgedehntes basaltisches Lavafeld an der Südküste des Jemen, das durch zahlreiche Schlackenkegel gekennzeichnet ist.",
       hu: "Kiterjedt bazalt lávamező Jemen déli partjainál, amelyet számos salakkúp jellemez.",
@@ -641,7 +641,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-jabal-shaharah-relief-v2",
     type: "mountain",
     name: { de: "Jabal Schahara", hu: "Dzsebel Sahara", ro: "Jabal Shaharah", en: "Jabal Shaharah" },
-    coordinates: { lat: 16.1833, lng: 43.7333 },
+    coords: [43.7333, 16.1833],
     description: {
       de: "Ein massiver Kalksteingipfel im Norden, der durch eine tiefe Schlucht in zwei Hälften geteilt wird.",
       hu: "Masszív északi mészkőcsúcs, amelyet egy mély szurdok választ ketté.",
@@ -660,7 +660,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-wadi-mawr-relief-v2",
     type: "river",
     name: { de: "Wadi Mawr", hu: "Vádi Mavr", ro: "Wadi Mawr", en: "Wadi Mawr" },
-    coordinates: { lat: 15.75, lng: 42.9167 },
+    coords: [42.9167, 15.75],
     description: {
       de: "Eines der größten Flusstäler der Tihama-Region, das Sedimente aus den Bergen zur Küstenebene transportiert.",
       hu: "A Tiháma-régió egyik legnagyobb folyóvölgye, amely üledéket szállít a hegyekből a parti síkságra.",
@@ -679,7 +679,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-jabal-kanis-relief-v2",
     type: "peak",
     name: { de: "Jabal Kanis", hu: "Dzsebel Kanisz", ro: "Jabal Kanis", en: "Jabal Kanis" },
-    coordinates: { lat: 15.5833, lng: 44.4833 },
+    coords: [44.4833, 15.5833],
     description: {
       de: "Ein prominenter Berggipfel im nördlichen Hochland nordöstlich von Sanaa, der weite Teile der Hochebene überragt.",
       hu: "Kiemelkedő hegycsúcs az északi felföldön Szanaától északkeletre, amely a fennsík nagy részei fölé magasodik.",
@@ -698,7 +698,7 @@ export const poiExtraYemenReliefV2: POI[] = [
     id: "yemen-abyan-coastal-plain-relief-v2",
     type: "landmark",
     name: { de: "Abyan-Küstenebene", hu: "Abjan-parti síkság", ro: "Câmpia de coastă Abyan", en: "Abyan Coastal Plain" },
-    coordinates: { lat: 13.1667, lng: 45.4167 },
+    coords: [45.4167, 13.1667],
     description: {
       de: "Ein flaches Küstenrelief am Golf von Aden, gebildet durch die Sedimentablagerungen der Wadis Bana und Hassan.",
       hu: "Lapos parti domborzat az Ádeni-öböl mentén, amelyet a Vádi Bana és a Vádi Hasszán üledéklerakódásai alakítottak ki.",

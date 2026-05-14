@@ -726,7 +726,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-al-shaheen-oil-field-economic-v2",
     type: "industry",
     name: { de: "Al-Shaheen-Ölfeld", hu: "Al-Shaheen olajmező", ro: "Câmpul petrolifer Al-Shaheen", en: "Al Shaheen Oil Field" },
-    coordinates: { lat: 26.6111, lng: 51.5833 },
+    coords: [51.5833, 26.6111],
     description: {
       de: "Das größte Offshore-Ölfeld Katars liegt im Persischen Golf. Es trägt maßgeblich zur nationalen Rohölproduktion des Landes bei.",
       hu: "Katar legnagyobb tengeri olajmezője a Perzsa-öbölben található. Jelentősen hozzájárul az ország teljes nyersolaj-termeléséhez.",
@@ -745,7 +745,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-hamad-international-airport-economic-v2",
     type: "port",
     name: { de: "Hamad International Airport", hu: "Hamad nemzetközi repülőtér", ro: "Aeroportul Internațional Hamad", en: "Hamad International Airport" },
-    coordinates: { lat: 25.2731, lng: 51.6081 },
+    coords: [51.6081, 25.2731],
     description: {
       de: "Dieser Flughafen ist das globale Drehkreuz von Qatar Airways. Er ist ein zentraler Pfeiler für den Tourismus und Logistiksektor.",
       hu: "Ez a repülőtér a Qatar Airways globális központja. A turizmus és a logisztikai szektor egyik központi pillére Katarban.",
@@ -764,7 +764,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-msheireb-downtown-doha-economic-v2",
     type: "city",
     name: { de: "Msheireb Downtown Doha", hu: "Msheireb Downtown Doha", ro: "Msheireb Downtown Doha", en: "Msheireb Downtown Doha" },
-    coordinates: { lat: 25.2867, lng: 51.5275 },
+    coords: [51.5275, 25.2867],
     description: {
       de: "Ein modernes Geschäftsviertel, das auf Nachhaltigkeit und katarische Architektur setzt. Es bildet das wirtschaftliche Herz der Altstadt.",
       hu: "Fenntarthatóságra és katari építészetre épülő modern üzleti negyed. Az óváros gazdasági szívét alkotja Dohában.",
@@ -783,7 +783,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-umm-alhoul-free-zone-economic-v2",
     type: "industry",
     name: { de: "Umm-Al-Houl-Freizone", hu: "Umm Al Houl különleges gazdasági övezet", ro: "Zona Liberă Umm Al Houl", en: "Umm Alhoul Free Zone" },
-    coordinates: { lat: 25.045, lng: 51.615 },
+    coords: [51.615, 25.045],
     description: {
       de: "Diese Sonderwirtschaftszone liegt direkt neben dem Hamad-Hafen. Sie konzentriert sich auf maritime Industrien und Schwerlastlogistik.",
       hu: "Ez a különleges gazdasági övezet a Hamad-kikötő mellett fekszik. A tengeri iparra és a nehézipari logisztikára összpontosít.",
@@ -802,7 +802,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-qapco-petrochemical-plant-economic-v2",
     type: "factory",
     name: { de: "QAPCO Petrochemiewerk", hu: "QAPCO petrolkémiai üzem", ro: "Combinatul petrochimic QAPCO", en: "QAPCO Petrochemical Plant" },
-    coordinates: { lat: 24.975, lng: 51.585 },
+    coords: [51.585, 24.975],
     description: {
       de: "Ein führender Produzent von Ethylen und Polyethylen in der Region. Die Anlage befindet sich im Industriegebiet von Mesaieed.",
       hu: "A régió egyik vezető etilén- és polietiléngyártó üzeme. A létesítmény Mesaieed ipari övezetében található.",
@@ -821,7 +821,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-west-bay-business-district-economic-v2",
     type: "city",
     name: { de: "West Bay Geschäftsviertel", hu: "West Bay üzleti negyed", ro: "Districtul de afaceri West Bay", en: "West Bay Business District" },
-    coordinates: { lat: 25.325, lng: 51.531 },
+    coords: [51.531, 25.325],
     description: {
       de: "Das moderne Banken- und Regierungszentrum von Doha. Es ist bekannt für seine markante Skyline mit zahlreichen Wolkenkratzern.",
       hu: "Doha modern banki és kormányzati központja. Jellegzetes sziluettjéről és számos felhőkarcolójáról ismert.",
@@ -840,7 +840,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-energy-city-qatar-economic-v2",
     type: "industry",
     name: { de: "Energy City Qatar", hu: "Energy City Qatar", ro: "Energy City Qatar", en: "Energy City Qatar" },
-    coordinates: { lat: 25.395, lng: 51.505 },
+    coords: [51.505, 25.395],
     description: {
       de: "Ein spezialisiertes Geschäftszentrum in Lusail für die Energiebranche. Es dient als administrativer Hub für Öl- und Gasunternehmen.",
       hu: "Lusailban található, az energiaiparra szakosodott üzleti központ. Olaj- és gázipari cégek adminisztratív bázisa.",
@@ -859,7 +859,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-al-wajba-dairy-farm-economic-v2",
     type: "factory",
     name: { de: "Al Wajba Milchfarm", hu: "Al Wajba tejgazdaság", ro: "Ferma de lactate Al Wajba", en: "Al Wajba Dairy Farm" },
-    coordinates: { lat: 25.32, lng: 51.35 },
+    coords: [51.35, 25.32],
     description: {
       de: "Ein bedeutender Betrieb zur Sicherung der katarischen Nahrungsmittelautarkie. Er produziert Milchprodukte für den lokalen Markt.",
       hu: "Katar élelmiszer-önrendelkezését segítő jelentős gazdaság. Tejtermékeket állít elő a helyi piac számára.",
@@ -878,7 +878,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-qafac-additives-plant-economic-v2",
     type: "factory",
     name: { de: "QAFAC Zusatzstoffwerk", hu: "QAFAC adalékanyaggyár", ro: "Fabrica de aditivi QAFAC", en: "QAFAC Additives Plant" },
-    coordinates: { lat: 24.981, lng: 51.572 },
+    coords: [51.572, 24.981],
     description: {
       de: "Spezialisiert auf die Produktion von Methanol und MTBE. Die Anlage ist ein wichtiger Teil der chemischen Wertschöpfungskette.",
       hu: "Metanol és MTBE gyártására szakosodott üzem. A létesítmény a vegyipari értéklánc fontos része.",
@@ -897,7 +897,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-qvc-vinyl-plant-economic-v2",
     type: "factory",
     name: { de: "QVC Vinylwerk", hu: "QVC vinilüzem", ro: "Fabrica de vinil QVC", en: "QVC Vinyl Plant" },
-    coordinates: { lat: 24.968, lng: 51.592 },
+    coords: [51.592, 24.968],
     description: {
       de: "Diese Anlage produziert wichtige Grundstoffe für die Kunststoffindustrie. Sie verarbeitet Ethylen und Chlor zu Vinyl-Zwischenprodukten.",
       hu: "Ez az üzem a műanyagipar számára fontos alapanyagokat gyárt. Etilént és klórt dolgoz fel vinil-köztestermékekké.",
@@ -916,7 +916,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-qchem-chemical-plant-economic-v2",
     type: "factory",
     name: { de: "Q-Chem Chemiewerk", hu: "Q-Chem vegyipari üzem", ro: "Combinatul chimic Q-Chem", en: "Q-Chem Chemical Plant" },
-    coordinates: { lat: 24.992, lng: 51.565 },
+    coords: [51.565, 24.992],
     description: {
       de: "Ein Joint Venture zur Produktion von Polyethylen hoher Dichte. Die Anlage nutzt fortschrittliche Technologien für Spezialkunststoffe.",
       hu: "Nagy sűrűségű polietilén gyártására létrehozott vegyesvállalat. Az üzem fejlett technológiát alkalmaz speciális műanyagokhoz.",
@@ -935,7 +935,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-al-khor-industrial-area-economic-v2",
     type: "industry",
     name: { de: "Al-Khor Industriegebiet", hu: "Al Khor ipari övezet", ro: "Zona Industrială Al Khor", en: "Al Khor Industrial Area" },
-    coordinates: { lat: 25.655, lng: 51.482 },
+    coords: [51.482, 25.655],
     description: {
       de: "Ein Zentrum für kleine und mittlere Industrien im Norden Katars. Es unterstützt die lokale Wirtschaft außerhalb der Hauptstadt.",
       hu: "Kis- és középvállalkozások központja Katar északi részén. A fővároson kívüli helyi gazdaságot támogatja.",
@@ -954,7 +954,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-lusail-commercial-boulevard-economic-v2",
     type: "landmark",
     name: { de: "Lusail Commercial Boulevard", hu: "Lusail Commercial Boulevard", ro: "Lusail Commercial Boulevard", en: "Lusail Commercial Boulevard" },
-    coordinates: { lat: 25.391, lng: 51.512 },
+    coords: [51.512, 25.391],
     description: {
       de: "Die zentrale Prachtstraße von Lusail für Handel und Gastronomie. Sie ist als lebendiges wirtschaftliches und soziales Zentrum konzipiert.",
       hu: "Lusail központi sugárútja a kereskedelem és a vendéglátás számára. Élénk gazdasági és társadalmi központnak tervezték.",
@@ -973,7 +973,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-doha-exhibition-convention-centre-economic-v2",
     type: "landmark",
     name: { de: "Doha Exhibition and Convention Centre", hu: "Dohai Kiállítási és Kongresszusi Központ", ro: "Centrul de Expoziții și Convenții Doha", en: "Doha Exhibition and Convention Centre" },
-    coordinates: { lat: 25.326, lng: 51.528 },
+    coords: [51.528, 25.326],
     description: {
       de: "Ein wichtiges Zentrum für den internationalen Geschäfts- und Messetourismus. Es liegt zentral im West Bay Distrikt.",
       hu: "A nemzetközi üzleti és kiállítási turizmus fontos központja. Központi elhelyezkedésű a West Bay negyedben.",
@@ -992,7 +992,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-gwc-logistics-village-economic-v2",
     type: "industry",
     name: { de: "GWC Logistikdorf", hu: "GWC logisztikai falu", ro: "Satul logistic GWC", en: "GWC Logistics Village" },
-    coordinates: { lat: 25.185, lng: 51.555 },
+    coords: [51.555, 25.185],
     description: {
       de: "Ein riesiger Logistikkomplex zur Unterstützung der Lieferketten in Katar. Er bietet Lagerhaltung und Distribution für diverse Branchen.",
       hu: "Hatalmas logisztikai komplexum a katari ellátási láncok támogatására. Raktározást és disztribúciót biztosít több iparág számára.",
@@ -1011,7 +1011,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-qpmc-gabbro-terminal-economic-v2",
     type: "port",
     name: { de: "QPMC Gabbro Terminal", hu: "QPMC Gabbro terminál", ro: "Terminalul de Gabbro QPMC", en: "QPMC Gabbro Terminal" },
-    coordinates: { lat: 24.985, lng: 51.625 },
+    coords: [51.625, 24.985],
     description: {
       de: "Ein spezialisiertes Importterminal für Baumaterialien in Mesaieed. Es sichert die Versorgung für Katars Infrastrukturprojekte.",
       hu: "Speciális építőanyag-import terminál Mesaieedben. Biztosítja az alapanyagot Katar infrastruktúra-projektjeihez.",
@@ -1030,7 +1030,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-mall-of-qatar-economic-v2",
     type: "landmark",
     name: { de: "Mall of Qatar", hu: "Mall of Qatar", ro: "Mall of Qatar", en: "Mall of Qatar" },
-    coordinates: { lat: 25.331, lng: 51.341 },
+    coords: [51.341, 25.331],
     description: {
       de: "Eines der größten Einkaufszentren des Landes nahe dem Ahmad bin Ali Stadion. Es ist ein wichtiger Motor für den Einzelhandel.",
       hu: "Az ország egyik legnagyobb bevásárlóközpontja az Ahmad bin Ali stadion mellett. A kiskereskedelmi szektor fontos motorja.",
@@ -1049,7 +1049,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-doha-festival-city-economic-v2",
     type: "landmark",
     name: { de: "Doha Festival City", hu: "Doha Festival City", ro: "Doha Festival City", en: "Doha Festival City" },
-    coordinates: { lat: 25.385, lng: 51.442 },
+    coords: [51.442, 25.385],
     description: {
       de: "Ein riesiger Handels- und Unterhaltungskomplex im Norden von Doha. Er beherbergt das erste IKEA-Möbelhaus des Landes.",
       hu: "Hatalmas kereskedelmi és szórakoztató komplexum Doha északi részén. Itt található az ország első IKEA áruháza.",
@@ -1068,7 +1068,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-idd-el-shargi-field-economic-v2",
     type: "industry",
     name: { de: "Idd El Shargi Ölfeld", hu: "Idd El Shargi olajmező", ro: "Câmpul petrolifer Idd El Shargi", en: "Idd El Shargi Oil Field" },
-    coordinates: { lat: 25.48, lng: 52.38 },
+    coords: [52.38, 25.48],
     description: {
       de: "Eines der ältesten Offshore-Ölfelder Katars, entdeckt in den 1960er Jahren. Es ist für seine komplexe Geologie bekannt.",
       hu: "Katar egyik legrégebbi tengeri olajmezője, melyet az 1960-as években fedeztek fel. Összetett geológiájáról ismert.",
@@ -1087,7 +1087,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "qatar-hassad-food-rakhiya-economic-v2",
     type: "factory",
     name: { de: "Hassad Al-Rakhiya Farm", hu: "Hassad Al Rakhiya gazdaság", ro: "Ferma Hassad Al Rakhiya", en: "Hassad Al Rakhiya Farm" },
-    coordinates: { lat: 25.105, lng: 51.102 },
+    coords: [51.102, 25.105],
     description: {
       de: "Ein führender landwirtschaftlicher Betrieb zur Produktion von Futtermitteln und Gemüse. Er nutzt moderne Bewässerung in der Wüste.",
       hu: "Takarmányt és zöldségeket előállító vezető mezőgazdasági üzem. Modern öntözési technológiát alkalmaz a sivatagban.",

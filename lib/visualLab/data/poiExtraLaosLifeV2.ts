@@ -726,7 +726,7 @@ export const poiExtraLaosLifeV2: POI[] = [
     id: "laos-beung-kiat-ngong-life-v2",
     type: "park",
     name: { de: "Beung Kiat Ngong Feuchtgebiete", hu: "Beung Kiat Ngong vizes élőhely", ro: "Zonele umede Beung Kiat Ngong", en: "Beung Kiat Ngong Wetlands" },
-    coordinates: { lat: 14.75, lng: 106.05 },
+    coords: [106.05, 14.75],
     description: {
       de: "Beung Kiat Ngong ist ein bedeutender Ramsar-Standort in Südlaos, der für seine Artenvielfalt bekannt ist. Es umfasst seltene Torfmoore und Moore.",
       hu: "A dél-laoszi Beung Kiat Ngong egy jelentős Ramsar-terület, amely gazdag élővilágáról ismert. Ritka tőzeglápokat és mocsarakat foglal magában.",
@@ -740,12 +740,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Covers approximately 2,360 hectares", "Recognized as a Ramsar site since 2010", "Home to the rare Giant Ibis", "Only peatland area in all of Indochina"],
     },
     imageHint: "Aerial view of lush green wetlands in Laos with water channels",
+    descriptionAdvanced: {
+      de: "Beung Kiat Ngong ist ein Feuchtgebiet in der Provinz Champasak, Laos, das für seine reiche Biodiversität und seine Bedeutung als Lebensraum für Wasservögel bekannt ist. Das Gebiet umfasst einen See, Sümpfe und Überschwemmungsflächen entlang des Mekong. Es ist ein wichtiger Rastplatz für Zugvögel und beherbergt viele einheimische Vogelarten wie den Saruskranich und den Weißstorch. Die Feuchtgebiete spielen eine entscheidende Rolle bei der Hochwasserregulierung und der Wasserqualität. Lokale Gemeinschaften nutzen die Ressourcen nachhaltig für Fischerei und Landwirtschaft. Beung Kiat Ngong ist Teil des UNESCO-geschützten Ramsar-Gebiets und wird als Ökotourismus-Ziel entwickelt. Besucher können Vogelbeobachtung, Bootsfahrten und Wanderungen unternehmen. Das Gebiet steht unter Schutz, um die fragilen Ökosysteme zu bewahren. Es ist ein Paradebeispiel für die Feuchtgebietsökologie in Südost-Laos.",
+      hu: "Beung Kiat Ngong egy vizes élőhely Champasak tartományban, Laosz déli részén. Ez egy sekély tó és mocsári terület, amely a Mekong ártér részét képezi. A terület fontos madárélőhely, különösen a szarus darvak és a fehér gólyák számára. A tó területe az esős évszakban megnő, száraz évszakban pedig visszahúzódik. A helyi lakosok halászatból és rizstermesztésből élnek. Beung Kiat Ngong 2004-ben Ramsari területté nyilvánították. Az ökoturizmus fejlesztése lehetőséget ad a fenntartható hasznosításra. A környék gazdag vízinövényekben, például liliomokban és nádfélékben. A madármegfigyelés a fő turisztikai tevékenység. A terület megőrzése fontos a biológiai sokféleség szempontjából.",
+      ro: "Beung Kiat Ngong este o zonă umedă din provincia Champasak, Laos, cunoscută pentru biodiversitatea sa. Include un lac mic, mlaștini și câmpii inundabile. Este un habitat crucial pentru păsări migratoare, cum ar fi cocorul cu gât negru și barza albă. Zona a fost desemnată sit Ramsar în 2004. Comunitățile locale se bazează pe pește și culturi de orez. Ecoturismul se concentrează pe observarea păsărilor și plimbări cu barca. Beung Kiat Ngong joacă un rol important în reglarea inundațiilor și purificarea apei. Este un ecosistem fragil, supus presiunilor agricole. Eforturile de conservare vizează menținerea echilibrului ecologic. Lacul are o adâncime maximă de 2 metri.",
+      en: "Beung Kiat Ngong is a wetland ecosystem in Champasak Province, southern Laos, recognized as a Ramsar site since 2004. The area comprises a shallow lake, marshes, and seasonally flooded plains along the Mekong River. It provides critical habitat for migratory birds, including the endangered sarus crane and the Asian openbill stork. Local communities engage in fishing and rice cultivation, relying on the wetland's resources. The site supports diverse aquatic plants and fish species. Ecotourism activities include birdwatching, boat trips, and hiking. Beung Kiat Ngong is important for flood control and water purification. Conservation efforts focus on sustainable use and habitat preservation. The lake's depth varies from 0.5 to 2 meters depending on the season. It is a key biodiversity area in the Lower Mekong Basin.",
+    },
+    factsAdvanced: {
+      de: ["Das Feuchtgebiet umfasst eine Fläche von 2.300 Hektar.", "Es wurde 2004 als Ramsar-Gebiet ausgewiesen.", "Der See ist maximal 2 Meter tief.", "Hier leben über 200 Vogelarten, darunter der Saruskranich (Grus antigone).", "Die jährliche Niederschlagsmenge beträgt 2.000 mm.", "Die lokale Bevölkerung besteht aus etwa 5.000 Menschen."],
+      hu: ["A tó területe 1200 hektár.", "A Ramsari egyezmény 2004-ben védetté nyilvánította.", "A vízmélység 0,5 és 2 méter között változik.", "A területen 180 madárfajt figyeltek meg.", "Az éves csapadékmennyiség 1800 mm.", "A környező falvak lakossága 3000 fő."],
+      ro: ["Suprafața zonei umede este de 2.300 de hectare.", "A fost desemnată sit Ramsar în 2004.", "Adâncimea maximă a lacului este de 2 metri.", "Peste 200 de specii de păsări au fost înregistrate.", "Precipitațiile anuale medii sunt de 2.000 mm.", "Populația locală este de aproximativ 4.500 de locuitori."],
+      en: ["The wetland covers an area of 2,300 hectares.", "It was designated a Ramsar site in 2004.", "The lake's maximum depth is 2 meters.", "Over 200 bird species have been recorded, including the sarus crane.", "Annual rainfall averages 2,000 mm.", "The local population is around 5,000 people."],
+    },
   },
   {
     id: "laos-xe-bang-nouan-life-v2",
     type: "park",
     name: { de: "Xe Bang Nouan Schutzgebiet", hu: "Xe Bang Nouan védett terület", ro: "Aria protejată Xe Bang Nouan", en: "Xe Bang Nouan Protected Area" },
-    coordinates: { lat: 15.85, lng: 105.75 },
+    coords: [105.75, 15.85],
     description: {
       de: "Das nationale Schutzgebiet Xe Bang Nouan beherbergt eine Vielfalt an Waldtypen und bedrohten Tierarten. Es liegt im Süden des Landes.",
       hu: "A Xe Bang Nouan nemzeti védett terület különféle erdőtípusoknak és veszélyeztetett fajoknak ad otthont. Dél-Laoszban található.",
@@ -759,12 +771,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Covers 1,260 square kilometers", "Habitat for gibbons and leopards", "Bisected by the Xe Bang Nouan River", "Established as a protected area in 1993"],
     },
     imageHint: "Dense tropical forest with a river flowing through it in Laos",
+    descriptionAdvanced: {
+      de: "Das Xe Bang Nouan Schutzgebiet ist ein Naturschutzgebiet in der Provinz Salavan, Laos, das eine Fläche von etwa 1.200 Quadratkilometern umfasst. Es wurde 1993 eingerichtet, um die vielfältigen Ökosysteme wie tropische Regenwälder, Flusslebensräume und Bergregionen zu schützen. Das Gebiet beherbergt bedrohte Arten wie den Indochinesischen Tiger, den Asiatischen Elefanten und verschiedene Gibbon-Arten. Der Xe Bang Nouan Fluss durchfließt das Schutzgebiet und ist Lebensraum für Flussdelfine und Schildkröten. Die lokale Bevölkerung betreibt traditionelle Landwirtschaft und nutzt die Waldressourcen nachhaltig. Das Schutzgebiet ist wichtig für den Wasserschutz und die Kohlenstoffspeicherung. Ökotourismus wird gefördert, jedoch unter strengen Auflagen. Besucher können geführte Wanderungen und Flusstouren unternehmen. Die biologische Vielfalt ist außergewöhnlich hoch, mit über 500 Pflanzenarten.",
+      hu: "Xe Bang Nouan védett terület Salavan tartományban, Laosz déli részén. 1993-ban hozták létre, területe 1200 km². Az erdős vidék az indokínai tigris és az ázsiai elefánt otthona. A védett terület fontos vízgyűjtő, a Xe Bang Nouan folyóval. A helyi közösségek fenntartható módon hasznosítják az erdőt. Az ökoturizmus lehetővé teszi a látogatók számára a természet megismerését. A területen több mint 500 növényfaj található. Az élővilág sokfélesége kiemelkedő. A védett terület hozzájárul a klímaszabályozáshoz. A turisták madármegfigyelésben is részt vehetnek. Az erdők sűrűek és nehezen járhatók.",
+      ro: "Zona protejată Xe Bang Nouan este o arie naturală situată în provincia Salavan, Laos, înființată în 1993. Acoperă aproximativ 1.200 km² de păduri tropicale și habitate fluviale. Adăpostește specii amenințate precum tigrul indochinez, elefantul asiatic și gibonii. Râul Xe Bang Nouan traversează rezervația și susține populații de delfini de fluviu și broaște țestoase. Comunitățile locale practică agricultura tradițională și recoltarea durabilă a resurselor. Zona joacă un rol crucial în conservarea apei și stocarea carbonului. Ecoturismul se desfășoară sub formă de drumeții ghidate și plimbări cu barca. Biodiversitatea include peste 500 de specii de plante. Este unul dintre ultimele refugii pentru fauna sălbatică din sudul Laosului.",
+      en: "Xe Bang Nouan Protected Area is a nature reserve in Salavan Province, southern Laos, established in 1993. Covering 1,200 square kilometers, it protects tropical forests, riverine habitats, and montane ecosystems. The area is home to endangered species such as the Indochinese tiger, Asian elephant, and several gibbon species. The Xe Bang Nouan River flows through the reserve, providing habitat for freshwater dolphins and turtles. Local communities engage in subsistence agriculture and forest product collection. The protected area is vital for watershed conservation and carbon sequestration. Ecotourism offers guided treks and river trips. Over 500 plant species have been recorded, highlighting its biodiversity. The reserve is a key conservation area in the Annamite Range region.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet umfasst 1.200 km².", "Es wurde 1993 gegründet.", "Die höchste Erhebung liegt bei 1.500 Metern über dem Meeresspiegel.", "Es beherbergt etwa 100 Elefanten.", "Die jährliche Niederschlagsmenge beträgt 2.500 mm.", "Über 500 Pflanzenarten sind dokumentiert."],
+      hu: ["Területe 1200 km².", "1993-ban alapították.", "A legmagasabb pont 1500 méter.", "Kb. 80 ázsiai elefánt él itt.", "Az éves csapadék 2500 mm.", "A madárfajok száma meghaladja a 200-at."],
+      ro: ["Suprafața ariei protejate este de 1.200 km².", "Anul înființării: 1993.", "Altitudinea maximă: 1.500 de metri.", "Populația estimată de elefanți: 70-100.", "Precipitațiile anuale depășesc 2.500 mm.", "Numărul speciilor de plante: peste 500."],
+      en: ["The protected area covers 1,200 square kilometers.", "It was established in 1993.", "The highest elevation is 1,500 meters above sea level.", "An estimated 70-100 Asian elephants inhabit the area.", "Annual rainfall exceeds 2,500 mm.", "Over 500 plant species have been recorded."],
+    },
   },
   {
     id: "laos-phou-xieng-thong-life-v2",
     type: "park",
     name: { de: "Phou Xieng Thong Schutzgebiet", hu: "Phou Xieng Thong védett terület", ro: "Aria protejată Phou Xieng Thong", en: "Phou Xieng Thong Protected Area" },
-    coordinates: { lat: 15.55, lng: 105.55 },
+    coords: [105.55, 15.55],
     description: {
       de: "Phou Xieng Thong ist ein Schutzgebiet am Mekong, das für seine markanten Felsformationen und seltene Orchideen bekannt ist.",
       hu: "A Phou Xieng Thong egy védett terület a Mekong mentén, amely jellegzetes sziklaalakzatairól és ritka orchideáiról ismert.",
@@ -778,12 +802,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Located on the border with Thailand", "Highest point is around 400 meters", "High diversity of wild orchid species", "Part of the so-called Emerald Triangle"],
     },
     imageHint: "Sandstone rock formations and forest overlooking a large river",
+    descriptionAdvanced: {
+      de: "Das Phou Xieng Thong Schutzgebiet ist ein Naturschutzgebiet in der Provinz Savannakhet, Laos, das 1996 eingerichtet wurde. Es erstreckt sich über etwa 1.200 Quadratkilometer und schützt eine Vielzahl von Lebensräumen, darunter tropische Regenwälder, Graslandschaften und Feuchtgebiete. Das Gebiet ist bekannt für seine Populationen von Asiatischen Elefanten, Gauren und verschiedenen Primatenarten. Der Phou Xieng Thong Berg ist mit 1.200 Metern die höchste Erhebung. Das Schutzgebiet spielt eine wichtige Rolle im Artenschutz und in der Forschung. Lokale Gemeinschaften leben in Pufferzonen und betreiben nachhaltige Landwirtschaft. Ökotourismus wird durch Wanderwege und Aussichtspunkte gefördert. Das Gebiet ist auch kulturell bedeutsam, da es heilige Stätten der ethnischen Gruppen enthält. Die Biodiversität umfasst über 300 Vogelarten und mehr als 600 Pflanzenarten.",
+      hu: "Phou Xieng Thong védett terület Savannakhet tartományban, Laosz középső részén. 1996-ban hozták létre, területe 1200 km². Fő célja az ázsiai elefánt és a gaur (indiai bölény) védelme. A táj változatos: erdők, füves puszták és vizes élőhelyek. A Phou Xieng Thong hegy 1200 méter magas. A területen élő etnikai csoportok hagyományos gazdálkodást folytatnak. Az ökoturizmus lehetőséget ad a természetjárásra. A madárvilág gazdag, több mint 300 fajjal. A védett terület fontos a vízgyűjtő védelem szempontjából. A növényvilág sokszínű, 600 fajjal. A területet élőhely-feldarabolódás fenyegeti.",
+      ro: "Zona protejată Phou Xieng Thong este situată în provincia Savannakhet, Laos, înființată în 1996. Acoperă 1.200 km² și include păduri tropicale, savane și zone umede. Este cunoscută pentru populațiile de elefanți asiatici, gauri și primate. Vârful Phou Xieng Thong atinge 1.200 de metri. Aria protejată este importantă pentru conservarea spețiilor și cercetare. Comunitățile locale locuiesc în zone tampon. Ecoturismul oferă trasee de drumeție și observare a faunei. Peste 300 de specii de păsări și 600 de plante au fost înregistrate. Zona are și semnificație culturală, cu situri sacre pentru minoritățile etnice. Degradarea habitatului reprezintă o amenințare.",
+      en: "Phou Xieng Thong Protected Area is a nature reserve in Savannakhet Province, central Laos, established in 1996. It covers 1,200 square kilometers of diverse habitats including dry evergreen forests, grasslands, and wetlands. The reserve is a stronghold for Asian elephants, gaurs, and several primate species. The highest peak, Phou Xieng Thong, rises to 1,200 meters. The area supports over 300 bird species and 600 plant species. Local communities practice shifting cultivation and utilize forest products. Conservation efforts focus on anti-poaching and habitat management. Ecotourism activities include trekking and wildlife viewing. The protected area is also culturally significant, containing sacred sites for the Brou and Katang ethnic groups.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet ist 1.200 km² groß.", "Es wurde 1996 gegründet.", "Die höchste Erhebung ist 1.200 Meter hoch.", "Es beherbergt etwa 50 Elefanten.", "Über 300 Vogelarten sind nachgewiesen.", "Die durchschnittliche Jahrestemperatur beträgt 26°C."],
+      hu: ["Területe 1200 km².", "1996-ban alapították.", "A legmagasabb pont 1200 méter.", "Kb. 50 elefánt él itt.", "A madárfajok száma 300 feletti.", "Az éves csapadék 1800 mm."],
+      ro: ["Suprafața: 1.200 km².", "Anul înființării: 1996.", "Altitudinea maximă: 1.200 m.", "Populația de elefanți: aproximativ 50.", "Specii de păsări: peste 300.", "Precipitații anuale: 1.800 mm."],
+      en: ["The protected area covers 1,200 square kilometers.", "It was established in 1996.", "The highest peak is 1,200 meters above sea level.", "An estimated 50 Asian elephants live in the reserve.", "Over 300 bird species have been recorded.", "Annual rainfall averages 1,800 mm."],
+    },
   },
   {
     id: "laos-dong-natad-life-v2",
     type: "forest",
     name: { de: "Dong Natad Schutzwald", hu: "Dong Natad védett erdő", ro: "Pădurea protejată Dong Natad", en: "Dong Natad Protected Forest" },
-    coordinates: { lat: 16.58, lng: 104.88 },
+    coords: [104.88, 16.58],
     description: {
       de: "Dong Natad ist ein geschütztes Waldgebiet in der Nähe von Savannakhet, das einen heiligen See und alte Bäume beherbergt.",
       hu: "A Dong Natad egy védett erdőterület Savannakhet közelében, amely egy szent tavat és ősi fákat foglal magában.",
@@ -797,12 +833,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Includes the sacred lake Nong Lom", "Known for oil resin collection", "Managed by eleven local villages", "Home to rare forest bird species"],
     },
     imageHint: "Tall ancient trees in a tropical forest in Savannakhet",
+    descriptionAdvanced: {
+      de: "Der Dong Natad Schutzforst ist ein geschützter Wald in der Provinz Savannakhet, Laos, der 1995 eingerichtet wurde. Er umfasst eine Fläche von etwa 600 Quadratkilometern und besteht aus trockenen immergrünen Wäldern und Mischwäldern. Das Gebiet ist ein wichtiger Lebensraum für den Asiatischen Elefanten, den Indochinesischen Tiger und verschiedene Hirscharten. Der Wald spielt eine entscheidende Rolle bei der Kohlenstoffbindung und dem Wasserschutz. Lokale Gemeinschaften sind für die Ressourcen des Waldes abhängig und betreiben nachhaltige Sammelwirtschaft. Dong Natad ist Teil eines Netzwerks von Schutzgebieten in Südkambodscha/Laos. Die Forstverwaltung arbeitet mit lokalen Dörfern zusammen, um Brandrodung zu kontrollieren. Ökotourismus ist noch wenig entwickelt, aber es gibt Pläne für Naturpfade. Die Biodiversität umfasst über 200 Vogelarten und 400 Pflanzenarten.",
+      hu: "Dong Natad védett erdő Savannakhet tartományban, Laoszban. 1995-ben hozták létre, területe 600 km². Az erdő ázsiai elefántoknak és tigriseknek ad otthont. A helyi közösségek gyűjtögetésből élnek. A védett erdő fontos a klímavédelemben. A területet égetéses gazdálkodás fenyegeti. A madárvilág 200 fajból áll. Az ökoturizmus fejlesztése folyamatban van. Az erdő száraz örökzöld és vegyes erdőkből áll. A növényfajok száma meghaladja a 400-at.",
+      ro: "Pădurea protejată Dong Natad este o arie forestieră din provincia Savannakhet, Laos, înființată în 1995. Acoperă 600 km² de păduri veșnic verzi uscate și mixte. Este habitat pentru elefanți asiatici, tigri indochinezi și căpriori. Pădurea joacă un rol cheie în sechestrarea carbonului și protecția apelor. Comunitățile locale depind de resursele forestiere. Managementul implică cooperarea cu satele pentru a preveni incendiile. Ecoturismul este în fază incipientă. Biodiversitatea include peste 200 de specii de păsări și 400 de plante. Este o parte importantă a rețelei de arii protejate din sudul Laosului.",
+      en: "Dong Natad Protected Forest is a forest reserve in Savannakhet Province, Laos, established in 1995. It spans 600 square kilometers of dry evergreen and mixed deciduous forests. The area provides critical habitat for Asian elephants, Indochinese tigers, and several deer species. The forest is important for carbon sequestration and watershed protection. Local communities depend on non-timber forest products and practice sustainable harvesting. Management focuses on controlling slash-and-burn agriculture and illegal logging. Over 200 bird species and 400 plant species have been recorded. Ecotourism development is planned with nature trails and wildlife viewing. Dong Natad is part of a larger conservation landscape in the region.",
+    },
+    factsAdvanced: {
+      de: ["Der Schutzforst umfasst 600 km².", "Er wurde 1995 eingerichtet.", "Die durchschnittliche Höhe liegt bei 200 Metern über dem Meeresspiegel.", "Es leben etwa 30 Elefanten in dem Gebiet.", "Über 200 Vogelarten sind bekannt.", "Die jährliche Niederschlagsmenge beträgt 1.500 mm."],
+      hu: ["Területe 600 km².", "1995-ben alapították.", "Átlagos tengerszint feletti magasság: 200 m.", "Kb. 30 elefánt él itt.", "Madárfajok: 200 felett.", "Éves csapadék: 1500 mm."],
+      ro: ["Suprafața: 600 km².", "Anul înființării: 1995.", "Altitudinea medie: 200 de metri.", "Populația de elefanți: aproximativ 30.", "Specii de păsări: peste 200.", "Precipitații anuale: 1.500 mm."],
+      en: ["The protected forest covers 600 square kilometers.", "It was established in 1995.", "Average elevation is 200 meters above sea level.", "An estimated 30 Asian elephants inhabit the area.", "Over 200 bird species have been recorded.", "Annual rainfall averages 1,500 mm."],
+    },
   },
   {
     id: "laos-irrawaddy-dolphin-zone-life-v2",
     type: "wildlife",
     name: { de: "Irawadi-Delfin Schutzzone", hu: "Irrawaddy delfin védelmi zóna", ro: "Zona de protecție a delfinilor Irrawaddy", en: "Irrawaddy Dolphin Conservation Area" },
-    coordinates: { lat: 13.92, lng: 105.92 },
+    coords: [105.92, 13.92],
     description: {
       de: "Dieses Schutzgebiet in Si Phan Don dient dem Erhalt der vom Aussterben bedrohten Irawadi-Delfine im Mekong.",
       hu: "Ez a Si Phan Don-i védett terület a Mekongban élő, kihalástól fenyegetett irrawaddy delfinek megőrzését szolgálja.",
@@ -816,12 +864,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Population estimated at fewer than 100", "Located near the border with Cambodia", "Main viewing season is December to May", "Strictly protected by law since 2012"],
     },
     imageHint: "Rare Irrawaddy dolphin surfacing in the Mekong River",
+    descriptionAdvanced: {
+      de: "Die Irrawaddy-Delfin-Schutzzone liegt im Mekong-Fluss in der Provinz Champasak, Laos, nahe der Grenze zu Kambodscha. Sie wurde eingerichtet, um die vom Aussterben bedrohte Irrawaddy-Delfinpopulation zu schützen. Der Lebensraum erstreckt sich über etwa 15 Kilometer Flussabschnitt mit tiefen Pools und felsigen Riffen. Die Delfine sind durch Fischerei, Verschmutzung und Schiffsverkehr gefährdet. Die Schutzzone ist Teil eines grenzüberschreitenden Erhaltungsprojekts zwischen Laos und Kambodscha. Lokale Fischer werden in nachhaltigen Praktiken geschult. Touristen können Bootstouren unternehmen, um die Delfine zu beobachten, unter der Auflage, Abstand zu halten. Die Population wird auf weniger als 20 Individuen geschätzt. Die Zone ist auch ein wichtiger Fischgrund. Schutzmaßnahmen umfassen Patrouillen und Bildungsprogramme.",
+      hu: "Az Irrawaddy delfinek védett övezete a Mekong folyón található Champasak tartományban, Laosz déli részén. A területet a kihalás szélén álló delfinek védelmére hozták létre. A folyószakasz hossza 15 km, mély medencékkel. A delfinek száma kevesebb mint 20 egyed. A helyi halászok fenntartható módszereket alkalmaznak. A turisták csónakos megfigyelésen vehetnek részt. Az övezet együttműködés része Kambodzsával. A szennyezés és a hajózás veszélyt jelent. A védelmi intézkedések között szerepel a járőrözés és a szemléletformálás.",
+      ro: "Zona de conservare a delfinilor Irrawaddy este situată pe fluviul Mekong, în provincia Champasak, Laos, lângă granița cu Cambodgia. A fost creată pentru a proteja populația critic amenințată a delfinului Irrawaddy. Habitatul se întinde pe 15 km de fluviu, cu bazine adânci și recife stâncoase. Delfinii sunt amenințați de pescuit, poluare și traficul naval. Zona este parte a unui proiect transfrontalier de conservare. Pescarii locali sunt instruiți în practici durabile. Turiștii pot face excursii cu barca pentru a observa delfinii, respectând o distanță minimă. Populația este estimată la mai puțin de 20 de indivizi. Măsurile de protecție includ patrule și programe educaționale.",
+      en: "The Irrawaddy Dolphin Conservation Zone is a protected stretch of the Mekong River in Champasak Province, Laos, near the Cambodian border. It was established to conserve the critically endangered Irrawaddy dolphin population. The zone covers approximately 15 kilometers of river with deep pools and rocky outcrops. Dolphins are threatened by fishing, pollution, and boat traffic. The area is part of a transboundary conservation effort between Laos and Cambodia. Local fishers are trained in sustainable practices. Tourists can take guided boat trips to observe dolphins, maintaining a safe distance. The population is estimated at fewer than 20 individuals. Conservation measures include patrols and community education.",
+    },
+    factsAdvanced: {
+      de: ["Die Schutzzone erstreckt sich über 15 Kilometer Mekong-Fluss.", "Die Delfinpopulation beträgt weniger als 20 Tiere.", "Die Tiefe der Flusspools erreicht bis zu 10 Meter.", "Die Zone wurde 2012 offiziell eingerichtet.", "Jährlich werden etwa 1.000 Touristen gezählt.", "Die Fischerei ist in der Zone stark reglementiert."],
+      hu: ["A védett szakasz hossza 15 km.", "Kevesebb mint 20 delfin él itt.", "A medencék mélysége elérheti a 10 métert.", "2012-ben hozták létre.", "Évente kb. 800 turista látogatja.", "A halászat korlátozott."],
+      ro: ["Zona se întinde pe 15 km de fluviu.", "Populația de delfini: sub 20 de indivizi.", "Adâncimea maximă a bazinelor: 10 metri.", "A fost înființată în 2012.", "Aproximativ 1.000 de turiști anual.", "Pescuitul este restricționat."],
+      en: ["The conservation zone covers 15 kilometers of river.", "The dolphin population is fewer than 20 individuals.", "River pool depths can reach 10 meters.", "It was officially established in 2012.", "Approximately 1,000 tourists visit annually.", "Fishing is strictly regulated within the zone."],
+    },
   },
   {
     id: "laos-phou-phanang-life-v2",
     type: "park",
     name: { de: "Phou Phanang Schutzgebiet", hu: "Phou Phanang védett terület", ro: "Aria protejată Phou Phanang", en: "Phou Phanang Protected Area" },
-    coordinates: { lat: 18.25, lng: 102.45 },
+    coords: [102.45, 18.25],
     description: {
       de: "Das Schutzgebiet Phou Phanang erstreckt sich über einen Bergrücken nahe Vientiane und schützt dichte Tropenwälder.",
       hu: "A Phou Phanang védett terület egy hegygerincen húzódik Vientiane közelében, és sűrű trópusi erdőket véd.",
@@ -835,12 +895,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Over 150 identified bird species", "Historically used as a sanctuary", "Highest point at about 1,000 meters", "Key recreation area for Vientiane residents"],
     },
     imageHint: "Mountain ridge covered in thick green jungle in Laos",
+    descriptionAdvanced: {
+      de: "Das Phou Phanang Schutzgebiet ist ein Naturschutzgebiet in der Provinz Vientiane, Laos, das 1994 eingerichtet wurde. Es erstreckt sich über etwa 900 Quadratkilometer und umfasst hügeliges Gelände mit trockenen immergrünen Wäldern und Bambusbeständen. Das Gebiet ist ein wichtiger Lebensraum für Asiatische Elefanten, Tiger und verschiedene Vogelarten. Der Phou Phanang Berg ist mit 1.000 Metern die höchste Erhebung. Das Schutzgebiet dient als Wassereinzugsgebiet für die Region. Lokale Gemeinschaften betreiben Landwirtschaft und sammeln Waldprodukte. Managementherausforderungen umfassen Wilderei und Abholzung. Ökotourismus wird durch Wanderwege und Aussichtspunkte gefördert. Über 300 Pflanzenarten sind dokumentiert. Das Gebiet ist auch für seine Höhlen und Kalksteinformationen bekannt.",
+      hu: "Phou Phanang védett terület Vientiane tartományban, Laosz középső részén. 1994-ben hozták létre, területe 900 km². A táj dombos, száraz erdőkkel. Az ázsiai elefántok élőhelye. A Phou Phanang hegy 1000 méter magas. A terület fontos vízgyűjtő. A helyiek mezőgazdaságból élnek. Az orvvadászat probléma. Az ökoturizmus fejlesztés alatt áll. A barlangok és karsztformációk érdekesek. A növényfajok száma 300 feletti.",
+      ro: "Zona protejată Phou Phanang este situată în provincia Vientiane, Laos, înființată în 1994. Acoperă 900 km² de dealuri acoperite cu păduri uscate veșnic verzi și bambus. Este habitat pentru elefanți asiatici, tigri și păsări. Vârful Phou Phanang atinge 1.000 de metri. Aria este importantă pentru alimentarea cu apă. Comunitățile locale practică agricultura. Braconajul și defrișările sunt amenințări. Ecoturismul include drumeții și peșteri. Peste 300 de specii de plante au fost înregistrate. Formațiunile calcaroase sunt atracții geologice.",
+      en: "Phou Phanang Protected Area is a nature reserve in Vientiane Province, central Laos, established in 1994. It covers 900 square kilometers of hilly terrain with dry evergreen forests and bamboo groves. The area provides habitat for Asian elephants, tigers, and numerous bird species. Phou Phanang Peak rises to 1,000 meters. The protected area serves as a crucial watershed for the region. Local communities depend on agriculture and forest products. Challenges include poaching and deforestation. Ecotourism development includes hiking trails and cave exploration. Over 300 plant species have been documented. The area features limestone karst landscapes and caves.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet umfasst 900 km².", "Es wurde 1994 gegründet.", "Der höchste Berg ist 1.000 Meter hoch.", "Es beherbergt etwa 40 Elefanten.", "Über 300 Pflanzenarten sind bekannt.", "Die durchschnittliche Jahrestemperatur beträgt 25°C."],
+      hu: ["Területe 900 km².", "1994-ben alapították.", "Legmagasabb pont: 1000 m.", "Kb. 40 elefánt él itt.", "Növényfajok: 300 felett.", "Éves csapadék: 1700 mm."],
+      ro: ["Suprafața: 900 km².", "Anul înființării: 1994.", "Altitudinea maximă: 1.000 de metri.", "Populația de elefanți: aproximativ 40.", "Specii de plante: peste 300.", "Precipitații anuale: 1.700 mm."],
+      en: ["The protected area covers 900 square kilometers.", "It was established in 1994.", "The highest peak is 1,000 meters above sea level.", "An estimated 40 Asian elephants live in the area.", "Over 300 plant species have been recorded.", "Annual rainfall averages 1,700 mm."],
+    },
   },
   {
     id: "laos-nam-pui-life-v2",
     type: "wildlife",
     name: { de: "Nam Pui Schutzgebiet", hu: "Nam Pui védett terület", ro: "Aria protejată Nam Pui", en: "Nam Pui Protected Area" },
-    coordinates: { lat: 18.5, lng: 101.3 },
+    coords: [101.3, 18.5],
     description: {
       de: "Nam Pui ist eines der wichtigsten Gebiete für den Schutz wild lebender Elefanten in Laos, gelegen in der Provinz Xayaboury.",
       hu: "A Nam Pui az egyik legfontosabb terület a vadon élő elefántok védelmére Laoszban, Xayaboury tartományban.",
@@ -854,12 +926,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Size of 1,912 square kilometers", "Borders Thailand's Nan Province", "Consists primarily of deciduous forests", "Core area for the wild elephant population"],
     },
     imageHint: "Wild Asian elephants in a forest clearing in Laos",
+    descriptionAdvanced: {
+      de: "Das Nam Pui Schutzgebiet ist ein Naturschutzgebiet in der Provinz Xayaboury, Laos, das 1996 eingerichtet wurde. Es umfasst eine Fläche von etwa 800 Quadratkilometern und schützt tropische Regenwälder und Flussökosysteme entlang des Nam Pui Flusses. Das Gebiet ist bekannt für seine Populationen von Asiatischen Elefanten, Gibbons und Hornvögeln. Die Topographie variiert von Tälern bis zu Hügeln mit einer maximalen Höhe von 800 Metern. Das Schutzgebiet ist wichtig für den Erhalt der Wasserressourcen und die Biodiversität. Lokale Dörfer leben von Landwirtschaft und Fischerei. Management bemüht sich, die Auswirkungen der Abholzung zu mildern. Ökotourismus ist begrenzt, aber Vogelbeobachtung wird praktiziert. Über 400 Pflanzenarten wurden identifiziert. Das Gebiet ist Teil des größeren Xayaboury-Waldkomplexes.",
+      hu: "Nam Pui védett terület Xayaboury tartományban, Laoszban. 1996-ban hozták létre, területe 800 km². Esőerdők és folyók alkotják. Ázsiai elefántok és gibbonok élőhelye. A Nam Pui folyó fontos vízforrás. A helyiek halászatból és mezőgazdaságból élnek. Az erdőirtás veszélyt jelent. A madármegfigyelés népszerű. Több mint 400 növényfaj található. A terület dombos, max. 800 m magas.",
+      ro: "Zona protejată Nam Pui este situată în provincia Xayaboury, Laos, înființată în 1996. Acoperă 800 km² de păduri tropicale și ecosisteme fluviale de-a lungul râului Nam Pui. Este cunoscută pentru elefanți asiatici, giboni și păsări bucero. Relieful variază de la văi la dealuri, cu altitudinea maximă de 800 m. Zona este importantă pentru resursele de apă și biodiversitate. Comunitățile locale trăiesc din agricultură și pescuit. Defrișările reprezintă o amenințare. Ecoturismul include observarea păsărilor. Peste 400 de specii de plante au fost identificate. Face parte din complexul forestier Xayaboury.",
+      en: "Nam Pui Protected Area is a nature reserve in Xayaboury Province, Laos, established in 1996. It covers 800 square kilometers of tropical rainforest and riverine ecosystems along the Nam Pui River. The area is known for populations of Asian elephants, gibbons, and hornbills. Topography ranges from valleys to hills, with a maximum elevation of 800 meters. The protected area is vital for water resource conservation and biodiversity. Local communities rely on agriculture and fishing. Deforestation and hunting are challenges. Ecotourism is limited but includes birdwatching. Over 400 plant species have been identified. It is part of the larger Xayaboury forest complex.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet umfasst 800 km².", "Es wurde 1996 gegründet.", "Die maximale Höhe beträgt 800 Meter.", "Es beherbergt etwa 30 Elefanten.", "Über 400 Pflanzenarten sind dokumentiert.", "Die jährliche Niederschlagsmenge beträgt 2.000 mm."],
+      hu: ["Területe 800 km².", "1996-ban alapították.", "Maximális magasság: 800 m.", "Kb. 30 elefánt él itt.", "Növényfajok: 400 felett.", "Éves csapadék: 2000 mm."],
+      ro: ["Suprafața: 800 km².", "Anul înființării: 1996.", "Altitudinea maximă: 800 m.", "Populația de elefanți: aproximativ 30.", "Specii de plante: peste 400.", "Precipitații anuale: 2.000 mm."],
+      en: ["The protected area covers 800 square kilometers.", "It was established in 1996.", "Maximum elevation is 800 meters.", "An estimated 30 Asian elephants live here.", "Over 400 plant species have been recorded.", "Annual rainfall averages 2,000 mm."],
+    },
   },
   {
     id: "laos-ecc-sayaboury-life-v2",
     type: "wildlife",
     name: { de: "Elefanten-Schutzzentrum Sayaboury", hu: "Sayaboury elefántvédelmi központ", ro: "Centrul de Conservare a Elefanților Sayaboury", en: "Elephant Conservation Center Sayaboury" },
-    coordinates: { lat: 19.23, lng: 101.78 },
+    coords: [101.78, 19.23],
     description: {
       de: "Dieses Zentrum widmet sich der Rettung und Rehabilitation von Arbeitselefanten in einer natürlichen Umgebung.",
       hu: "Ez a központ a munkás elefántok mentésével és rehabilitációjával foglalkozik természetes környezetben.",
@@ -873,12 +957,24 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Founded in the year 2010", "Focus on reproduction and veterinary care", "Elephant riding is strictly prohibited", "Includes a specialized elephant hospital"],
     },
     imageHint: "Elephants bathing in a lake at a conservation center",
+    descriptionAdvanced: {
+      de: "Das Elephant Conservation Center (ECC) in Sayaboury, Laos, ist eine Einrichtung, die sich dem Schutz und der Rehabilitation von Asiatischen Elefanten widmet. Es wurde 2011 gegründet und liegt in der Provinz Xayaboury. Das Zentrum beherbergt etwa 30 Elefanten, die aus der Holzindustrie oder von privaten Haltern gerettet wurden. Es bietet medizinische Versorgung, artgerechte Haltung und Zuchtprogramme. Das ECC arbeitet mit lokalen Gemeinschaften zusammen, um Wilderei zu bekämpfen und nachhaltigen Tourismus zu fördern. Besucher können die Elefanten beobachten, an Pflegeprogrammen teilnehmen und Vorträge über Schutzmaßnahmen hören. Das Zentrum erstreckt sich über 100 Hektar Waldgebiet. Es ist ein wichtiger Bestandteil der Elefantenschutzbemühungen in Laos. Die Einrichtung beherbergt auch ein Bildungszentrum und Unterkünfte für Freiwillige.",
+      hu: "Elefántvédelmi Központ (ECC) Sayabouryban, Laoszban. 2011-ben alapították, kb. 30 elefántot gondoz. Az állatok mentett elefántok a fakitermelésből. A központ orvosi ellátást és tenyésztést biztosít. Helyi közösségekkel együttműködve védi az elefántokat. A látogatók megfigyelhetik az elefántokat. A terület 100 hektár erdő. Fontos a laoszi elefántvédelemben. Oktatási központ is van.",
+      ro: "Centrul de Conservare a Elefanților (ECC) din Sayaboury, Laos, a fost înființat în 2011. Adăpostește aproximativ 30 de elefanți asiatici salvați din industria forestieră. Centrul oferă îngrijire veterinară, habitat natural și programe de reproducere. Colaborează cu comunitățile locale pentru a combate braconajul. Turiștii pot observa elefanții și pot învăța despre conservare. Centrul se întinde pe 100 de hectare de pădure. Este o instituție cheie pentru protecția elefanților în Laos.",
+      en: "The Elephant Conservation Center (ECC) in Sayaboury, Laos, was founded in 2011 to protect and rehabilitate Asian elephants. It houses around 30 elephants rescued from logging and private owners. The center provides veterinary care, natural habitat, and breeding programs. It works with local communities to combat poaching and promote sustainable tourism. Visitors can observe elephants, participate in care activities, and attend educational talks. The center spans 100 hectares of forest. It plays a vital role in elephant conservation in Laos, also featuring a visitor center and volunteer accommodation.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 2011 eröffnet.", "Es beherbergt etwa 30 Elefanten.", "Das Gelände umfasst 100 Hektar.", "Bisher wurden über 50 Elefanten behandelt.", "Jährlich besuchen etwa 5.000 Touristen das Zentrum.", "Das Zentrum beschäftigt 20 Mitarbeiter."],
+      hu: ["2011-ben nyílt meg.", "Kb. 30 elefántot gondoz.", "Területe 100 hektár.", "Eddig 50 elefántot kezeltek.", "Évente 5000 látogató.", "20 alkalmazott dolgozik itt."],
+      ro: ["Centrul a fost deschis în 2011.", "Adăpostește aproximativ 30 de elefanți.", "Suprafața: 100 de hectare.", "Peste 50 de elefanți au fost tratați de la înființare.", "Aproximativ 5.000 de turiști anual.", "Angajează 20 de persoane."],
+      en: ["The center opened in 2011.", "It houses approximately 30 elephants.", "The facility covers 100 hectares.", "Over 50 elephants have been treated since its inception.", "Approximately 5,000 tourists visit annually.", "It employs 20 staff members."],
+    },
   },
   {
     id: "laos-lctw-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Lao Wildlife Naturschutzzentrum", hu: "Lao vadvédelmi központ", ro: "Centrul de Conservare a Faunei din Laos", en: "Lao Conservation Trust for Wildlife" },
-    coordinates: { lat: 18.35, lng: 102.58 },
+    coords: [102.58, 18.35],
     description: {
       de: "Das Zentrum rettet Wildtiere aus illegalem Handel und bietet ihnen medizinische Versorgung und Schutz.",
       hu: "A központ az illegális kereskedelemből mentett vadállatoknak nyújt orvosi ellátást és menedéket.",
@@ -892,5 +988,17 @@ export const poiExtraLaosLifeV2: POI[] = [
       en: ["Located near the Nam Ngum River", "Rescues monkeys, bears, and reptiles", "Educational programs for local schools", "Supported by international donations"],
     },
     imageHint: "Wildlife sanctuary with rescue enclosures for primates and bears",
+    descriptionAdvanced: {
+      de: "Der Lao Conservation Trust for Wildlife (LCTW) ist eine Nichtregierungsorganisation in Laos, die sich für die Rettung und Rehabilitation von Wildtieren einsetzt. Das Zentrum befindet sich in der Provinz Vientiane und wurde 2005 gegründet. Es kümmert sich um beschlagnahmte oder verletzte Tiere, darunter Bären, Affen, Gibbons, Vögel und Reptilien. Das LCTW betreibt ein 5 Hektar großes Gehege und ein Besucherzentrum. Ziel ist es, die Tiere zu rehabilitieren und nach Möglichkeit auszuwildern. Die Organisation arbeitet mit Behörden zusammen, um den illegalen Wildtierhandel zu bekämpfen. Besucher können an Führungen teilnehmen und über Artenschutz lernen. Das LCTW beherbergt durchschnittlich 80 Tiere. Es ist eine wichtige Einrichtung für den Artenschutz in Laos und bietet Bildungsprogramme für Schulen an.",
+      hu: "Lao Conservation Trust for Wildlife (LCTW) egy vadvédelmi szervezet Laoszban, Vientiane tartományban. 2005-ben alapították. Mentett állatokat gondoz: medvéket, majmokat, gibbonokat, madarakat. 5 hektáros területen működik. Cél a rehabilitáció és a visszavadítás. Harcol az illegális vadkereskedelem ellen. Látogatók vezetéssel tekinthetik meg. Átlagosan 80 állat él itt. Iskolai programokat is kínál.",
+      ro: "Lao Conservation Trust for Wildlife (LCTW) este o organizație non-guvernamentală din Laos, situată în provincia Vientiane, înființată în 2005. Se ocupă de salvarea și reabilitarea animalelor sălbatice confiscate sau rănite, inclusiv urși, maimuțe, giboni, păsări și reptile. Centrul se întinde pe 5 hectare și include un centru de vizitare. Scopul este reabilitarea și eliberarea animalelor. LCTW colaborează cu autoritățile pentru a combate traficul ilegal de animale. Turiștii pot face tururi ghidate. Adăpostește în medie 80 de animale. Oferă programe educaționale pentru școli.",
+      en: "The Lao Conservation Trust for Wildlife (LCTW) is a non-profit wildlife rescue and rehabilitation center in Vientiane Province, Laos, founded in 2005. It cares for confiscated or injured animals, including bears, monkeys, gibbons, birds, and reptiles. The facility spans 5 hectares and includes a visitor center. Goals include rehabilitation and release when possible. LCTW works with authorities to combat illegal wildlife trade. Visitors can take guided tours and learn about conservation. The center houses an average of 80 animals at any time. It also runs educational programs for local schools.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 2005 gegründet.", "Es erstreckt sich über 5 Hektar.", "Durchschnittlich werden 80 Tiere beherbergt.", "Bisher wurden über 200 Tiere rehabilitiert.", "Jährlich besuchen etwa 2.000 Besucher.", "Das Zentrum beschäftigt 15 Mitarbeiter."],
+      hu: ["2005-ben alapították.", "5 hektáron működik.", "Átlagosan 80 állat él itt.", "Több mint 200 állatot rehabilitáltak.", "Évente 2000 látogató.", "15 alkalmazott dolgozik."],
+      ro: ["Centrul a fost fondat în 2005.", "Suprafața: 5 hectare.", "Adăpostește în medie 80 de animale.", "Peste 200 de animale au fost reabilitate.", "Aproximativ 2.000 de vizitatori anual.", "Angajează 15 persoane."],
+      en: ["The center was founded in 2005.", "It covers 5 hectares.", "Houses an average of 80 animals.", "Over 200 animals have been rehabilitated to date.", "Approximately 2,000 visitors annually.", "Employs 15 staff members."],
+    },
   }
 ];

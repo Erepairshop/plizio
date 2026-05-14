@@ -651,7 +651,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-serguel-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Serguel Wildtiergebiet", hu: "Serguel Vadvédelmi Terület", ro: "Rezervația de faună Serguel", en: "Serguel Wildlife Reserve" },
-    coordinates: { lat: 10.88, lng: 16.52 },
+    coords: [16.52, 10.88],
     description: {
       de: "Das Serguel-Wildtiergebiet liegt in der Region Chari-Baguirmi und dient dem Schutz lokaler Savannenarten. Es umfasst geschützte Graslandschaften, die regelmäßig von Wildtieren durchzogen werden.",
       hu: "A Chari-Baguirmi régióban található Serguel vadvédelmi terület a helyi szavannai fajok megőrzését szolgálja. Védett gyepeket foglal magában, amelyeken rendszeresen átvonulnak a vadállatok.",
@@ -682,7 +682,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-bahr-keita-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Bahr Keita Feuchtgebiete", hu: "Bahr Keita Vizes élőhelyek", ro: "Zonele umede Bahr Keita", en: "Bahr Keita Wetlands" },
-    coordinates: { lat: 9.25, lng: 17.15 },
+    coords: [17.15, 9.25],
     description: {
       de: "Die Bahr Keita Feuchtgebiete bilden ein saisonales Überschwemmungsgebiet im Süden des Landes. Sie bieten wichtigen Lebensraum für zahlreiche Wasservögel und Amphibien.",
       hu: "A Bahr Keita vizes élőhelyek szezonális árterületet képeznek az ország déli részén. Fontos élőhelyet biztosítanak számos vízimadár és kétéltű számára.",
@@ -713,7 +713,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-doba-arboretum-life-v2",
     type: "park",
     name: { de: "Doba Arboretum", hu: "Doba Arborétum", ro: "Arboretul Doba", en: "Doba Arboretum" },
-    coordinates: { lat: 8.68, lng: 16.86 },
+    coords: [16.86, 8.68],
     description: {
       de: "Das Arboretum von Doba wurde zur Dokumentation und Erhaltung lokaler Baumarten angelegt. Es dient als Forschungsstandort und Erholungsraum für die Bewohner der Stadt.",
       hu: "A Doba Arborétumot a helyi fafajok dokumentálására és megőrzésére hozták létre. Kutatási helyszínként és a városlakók rekreációs terepeként szolgál.",
@@ -744,7 +744,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-ouadi-doum-reserve-life-v2",
     type: "wildlife",
     name: { de: "Ouadi Doum Reservat", hu: "Ouadi Doum Rezervátum", ro: "Rezervația Ouadi Doum", en: "Ouadi Doum Reserve" },
-    coordinates: { lat: 17.85, lng: 17.5 },
+    coords: [17.5, 17.85],
     description: {
       de: "Das Ouadi Doum Reservat liegt im Norden des Landes und umfasst wüstenartige Habitate. Es unterstützt die Erforschung seltener arider Flora und Fauna.",
       hu: "Az Ouadi Doum Rezervátum az ország északi részén található, sivatagi élőhelyeket foglal magában. Támogatja a ritka szárazföldi növény- és állatvilág kutatását.",
@@ -775,7 +775,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-gounou-gaya-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Gounou Gaya Naturschutzgebiet", hu: "Gounou Gaya Természetvédelmi Terület", ro: "Zona Protejată Gounou Gaya", en: "Gounou Gaya Protected Area" },
-    coordinates: { lat: 9.65, lng: 15.5 },
+    coords: [15.5, 9.65],
     description: {
       de: "Das Gounou Gaya Naturschutzgebiet ist eine geschützte Zone nahe der Grenze zu Kamerun. Es schützt die vielfältigen Ufervegetationen der Region.",
       hu: "A Gounou Gaya természetvédelmi terület egy védett zóna a kameruni határ közelében. Védi a régió változatos part menti növényzetét.",
@@ -806,7 +806,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-bahr-salamat-reserve-life-v2",
     type: "wildlife",
     name: { de: "Bahr Salamat Reservat", hu: "Bahr Salamat Rezervátum", ro: "Rezervația Bahr Salamat", en: "Bahr Salamat Reserve" },
-    coordinates: { lat: 10.5, lng: 19.5 },
+    coords: [19.5, 10.5],
     description: {
       de: "Das Bahr Salamat Reservat schützt die Uferregionen des gleichnamigen Flusses. Es ist bekannt für seine Populationen von größeren Säugetieren.",
       hu: "A Bahr Salamat Rezervátum a névadó folyó menti régiókat védi. Ismert a nagyobb emlősfajok populációiról.",
@@ -837,7 +837,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-mongo-forest-life-v2",
     type: "forest",
     name: { de: "Mongo Waldgebiet", hu: "Mongo Erdőterület", ro: "Zona Forestieră Mongo", en: "Mongo Forest Area" },
-    coordinates: { lat: 12.18, lng: 18.68 },
+    coords: [18.68, 12.18],
     description: {
       de: "Das Mongo Waldgebiet liegt in der Region Guéra. Es bewahrt seltene Busch- und Baumarten, die an das semi-aride Klima angepasst sind.",
       hu: "A Mongo erdőterület a Guéra régióban található. Megőrzi a ritka, szemiarid éghajlathoz alkalmazkodott bokor- és fafajokat.",
@@ -868,7 +868,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-fitri-wildlife-zone-life-v2",
     type: "wildlife",
     name: { de: "Fitri Wildtierzone", hu: "Fitri Vadvédelmi Zóna", ro: "Zona de Faună Fitri", en: "Fitri Wildlife Zone" },
-    coordinates: { lat: 12.85, lng: 17.55 },
+    coords: [17.55, 12.85],
     description: {
       de: "Die Fitri Wildtierzone umgibt den Fitri-See und dessen Uferbereiche. Sie dient dem Schutz der spezialisierten Fauna dieses bedeutenden Feuchtbiotops.",
       hu: "A Fitri vadvédelmi zóna a Fitri-tavat és part menti területeit öleli körül. E jelentős vizes élőhely speciális állatvilágának védelmét szolgálja.",
@@ -899,7 +899,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-kanem-nature-reserve-life-v2",
     type: "wildlife",
     name: { de: "Kanem Naturreservat", hu: "Kanem Természetvédelmi Rezervátum", ro: "Rezervația Naturală Kanem", en: "Kanem Nature Reserve" },
-    coordinates: { lat: 14.5, lng: 15.3 },
+    coords: [15.3, 14.5],
     description: {
       de: "Das Kanem Naturreservat schützt sandige Wüstenökosysteme und deren spezifische Flora. Es ist ein wichtiger Standort für die ökologische Erforschung der Sahel-Zone.",
       hu: "A Kanem természetvédelmi rezervátum védi a homokos sivatagi ökoszisztémákat és azok sajátos flóráját. Fontos helyszín a Száhel-övezet ökológiai kutatásához.",
@@ -930,7 +930,7 @@ export const poiExtraChadLifeV2: POI[] = [
     id: "chad-lakes-ounianga-birds-life-v2",
     type: "wildlife",
     name: { de: "Ounianga Vogelschutzgebiet", hu: "Ounianga Madárvédelmi Terület", ro: "Zona de Protecție a Păsărilor Ounianga", en: "Ounianga Bird Sanctuary" },
-    coordinates: { lat: 19.03, lng: 20.51 },
+    coords: [20.51, 19.03],
     description: {
       de: "Das Ounianga Vogelschutzgebiet umfasst die Seen der Region Ounianga. Es dient dem Schutz von Zugvögeln, die diese Oasen als Zwischenstopp nutzen.",
       hu: "Az Ounianga madárvédelmi terület az Ounianga régió tavait öleli fel. A vándormadarak védelmét szolgálja, amelyek megállóhelyként használják ezeket az oázisokat.",

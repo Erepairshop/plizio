@@ -628,7 +628,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-national-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Brunei", hu: "Brunei Nemzeti Múzeum", ro: "Muzeul Național Brunei", en: "Brunei Museum" },
-    coordinates: { lat: 4.9311, lng: 114.9653 },
+    coords: [114.9653, 4.9311],
     description: {
       de: "Das größte Museum des Landes befindet sich in Kota Batu und zeigt islamische Kunst sowie Naturgeschichte.",
       hu: "Az ország legnagyobb múzeuma Kota Batuban található, iszlám művészeti és természettudományi tárlatokkal.",
@@ -659,7 +659,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-ministry-of-finance-landmarks-v2",
     type: "landmark",
     name: { de: "Finanzministerium Gebäude", hu: "Pénzügyminisztérium épülete", ro: "Clădirea Ministerului de Finanțe", en: "Ministry of Finance Building" },
-    coordinates: { lat: 4.9192, lng: 114.9491 },
+    coords: [114.9491, 4.9192],
     description: {
       de: "Mit 120 Metern ist dieses markante Hochhaus das höchste Gebäude in Brunei Darussalam.",
       hu: "A maga 120 méteres magasságával ez a markáns toronyház Brunei Darussalam legmagasabb épülete.",
@@ -690,7 +690,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-prime-ministers-office-landmarks-v2",
     type: "landmark",
     name: { de: "Büro des Premierministers", hu: "Miniszterelnöki Hivatal", ro: "Biroul Primului Ministru", en: "Prime Minister's Office" },
-    coordinates: { lat: 4.9155, lng: 114.9455 },
+    coords: [114.9455, 4.9155],
     description: {
       de: "Ein weitläufiger administrativer Gebäudekomplex mit markanten grünen Dächern und traditioneller malaiischer Architektur.",
       hu: "Hatalmas adminisztratív épületkomplexum jellegzetes zöld tetőkkel és hagyományos maláj építészeti stílussal.",
@@ -721,7 +721,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-arts-and-handicraft-centre-landmarks-v2",
     type: "museum",
     name: { de: "Zentrum für Kunst und Handwerk", hu: "Művészeti és Kézműves Központ", ro: "Centrul de Artă și Meșteșuguri", en: "Brunei Arts and Handicraft Training Centre" },
-    coordinates: { lat: 4.8872, lng: 114.9461 },
+    coords: [114.9461, 4.8872],
     description: {
       de: "Ein wichtiges Zentrum am Flussufer von Bandar Seri Begawan zur Förderung traditioneller bruneiischer Handwerkskunst.",
       hu: "Fontos központ Bandar Seri Begawan folyópartján a hagyományos brunei kézművesség népszerűsítésére.",
@@ -752,7 +752,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-international-convention-centre-landmarks-v2",
     type: "landmark",
     name: { de: "Internationales Konferenzzentrum", hu: "Nemzetközi Konferencia Központ", ro: "Centrul Internațional de Convenții", en: "International Convention Centre (ICC)" },
-    coordinates: { lat: 4.9385, lng: 114.9442 },
+    coords: [114.9442, 4.9385],
     description: {
       de: "Bruneis größter Veranstaltungsort für internationale Gipfeltreffen und Konferenzen in der Region Berakas.",
       hu: "Brunei legnagyobb rendezvényhelyszíne nemzetközi csúcstalálkozók és konferenciák számára Berakas negyedben.",
@@ -783,7 +783,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-catholic-assumption-church-landmarks-v2",
     type: "church",
     name: { de: "Mariä-Himmelfahrt-Kirche", hu: "Nagyboldogasszony-templom", ro: "Biserica Adormirea Maicii Domnului", en: "Our Lady of the Assumption Church" },
-    coordinates: { lat: 4.8961, lng: 114.9415 },
+    coords: [114.9415, 4.8961],
     description: {
       de: "Die größte römisch-katholische Kirche in Brunei, gelegen im Zentrum der Hauptstadt Bandar Seri Begawan.",
       hu: "Brunei legnagyobb római katolikus temploma, Bandar Seri Begawan fővárosának központjában található.",
@@ -814,7 +814,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-st-andrews-church-landmarks-v2",
     type: "church",
     name: { de: "St.-Andreas-Kirche", hu: "Szent András-templom", ro: "Biserica Sfântul Andrei", en: "St. Andrew's Church" },
-    coordinates: { lat: 4.8911, lng: 114.9422 },
+    coords: [114.9422, 4.8911],
     description: {
       de: "Ein historisches anglikanisches Gotteshaus im Herzen von Bandar Seri Begawan mit klassischem Kirchendesign.",
       hu: "Történelmi anglikán templom Bandar Seri Begawan szívében, klasszikus templomi építészettel.",
@@ -845,7 +845,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-seria-flagpole-landmarks-v2",
     type: "monument",
     name: { de: "Flaggenmast von Seria", hu: "Seria zászlórúd", ro: "Catargul din Seria", en: "Seria Flagpole" },
-    coordinates: { lat: 4.6115, lng: 114.3255 },
+    coords: [114.3255, 4.6115],
     description: {
       de: "Ein monumentaler Flaggenmast am Eingang der Ölstadt Seria, der zu Ehren des Sultans errichtet wurde.",
       hu: "Monumentális zászlórúd Seria olajvárosának bejáratánál, amelyet a szultán tiszteletére emeltek.",
@@ -876,7 +876,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-tutong-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Uhrturm von Tutong", hu: "Tutong óratorony", ro: "Turnul cu Ceas din Tutong", en: "Tutong Clock Tower" },
-    coordinates: { lat: 4.8055, lng: 114.6548 },
+    coords: [114.6548, 4.8055],
     description: {
       de: "Ein zentraler Uhrturm, der den Eingang zur Stadt Tutong markiert und ein markantes Wahrzeichen ist.",
       hu: "Központi óratorony, amely Tutong városának bejáratát jelzi, és jelentős helyi tájékozódási pont.",
@@ -907,7 +907,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-seria-mosque-landmarks-v2",
     type: "church",
     name: { de: "Pekan Seria Moschee", hu: "Pekan Seria mecset", ro: "Moscheea Pekan Seria", en: "Masjid Pekan Seria" },
-    coordinates: { lat: 4.6105, lng: 114.3288 },
+    coords: [114.3288, 4.6105],
     description: {
       de: "Die Hauptmoschee der Stadt Seria, bekannt für ihre blaue Kuppel und ihre Bedeutung für die lokale Ölindustrie-Gemeinschaft.",
       hu: "Seria városának fő mecsete, amely kék kupolájáról és a helyi olajipari közösségben betöltött szerepéről ismert.",
@@ -938,7 +938,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-belait-district-museum-landmarks-v2",
     type: "museum",
     name: { de: "Distriktmuseum Belait", hu: "Belait Kerületi Múzeum", ro: "Muzeul Districtual Belait", en: "Belait District Museum" },
-    coordinates: { lat: 4.5888, lng: 114.1945 },
+    coords: [114.1945, 4.5888],
     description: {
       de: "Ein Regionalmuseum in einem restaurierten Kolonialgebäude, das die Geschichte und Kultur des Belait-Distrikts zeigt.",
       hu: "Regionális múzeum egy felújított koloniális épületben, amely a Belait kerület történelmét és kultúráját mutatja be.",
@@ -969,7 +969,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-kuala-belait-waterfront-landmarks-v2",
     type: "landmark",
     name: { de: "Waterfront von Kuala Belait", hu: "Kuala Belait vízpart", ro: "Faleza din Kuala Belait", en: "Kuala Belait Waterfront" },
-    coordinates: { lat: 4.5882, lng: 114.1885 },
+    coords: [114.1885, 4.5882],
     description: {
       de: "Eine malerische Promenade am Belait-Fluss mit Skulpturen und Aussichtspunkten auf die Mündung in das Südchinesische Meer.",
       hu: "Gleccseres sétány a Belait-folyó mentén, szobrokkal és kilátópontokkal a Dél-kínai-tenger torkolatára.",
@@ -1000,7 +1000,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-ubd-main-gates-landmarks-v2",
     type: "landmark",
     name: { de: "Haupteingang der UBD", hu: "UBD főbejárat", ro: "Poarta principală UBD", en: "Universiti Brunei Darussalam (UBD) Main Gates" },
-    coordinates: { lat: 4.9755, lng: 114.8932 },
+    coords: [114.8932, 4.9755],
     description: {
       de: "Die imposanten Eingangstore der führenden Universität Bruneis sind ein bekanntes architektonisches Wahrzeichen.",
       hu: "Brunei vezető egyetemének impozáns bejárati kapuja, amely ismert építészeti tájékozódási pont.",
@@ -1031,7 +1031,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-tutong-hassanal-bolkiah-mosque-landmarks-v2",
     type: "church",
     name: { de: "Hassanal-Bolkiah-Moschee Tutong", hu: "Hassanal Bolkiah mecset Tutong", ro: "Moscheea Hassanal Bolkiah din Tutong", en: "Hassanal Bolkiah Mosque (Tutong)" },
-    coordinates: { lat: 4.8062, lng: 114.6565 },
+    coords: [114.6565, 4.8062],
     description: {
       de: "Die wichtigste Moschee im Distrikt Tutong, ein markantes religiöses Zentrum mit traditionellem Design.",
       hu: "A Tutong kerület legjelentősebb mecsete, hagyományos kialakítású, meghatározó vallási központ.",
@@ -1062,7 +1062,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-supreme-court-building-landmarks-v2",
     type: "landmark",
     name: { de: "Oberstes Gericht von Brunei", hu: "Brunei Legfelsőbb Bíróság", ro: "Curtea Supremă din Brunei", en: "Supreme Court of Brunei" },
-    coordinates: { lat: 4.8942, lng: 114.9418 },
+    coords: [114.9418, 4.8942],
     description: {
       de: "Ein offizielles Gebäude in Bandar Seri Begawan, das durch seine klassische Architektur und juristische Bedeutung besticht.",
       hu: "Hivatalos épület Bandar Seri Begawanban, amely klasszikus építészetével és jogi jelentőségével tűnik ki.",
@@ -1093,7 +1093,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-ripas-hospital-landmark-landmarks-v2",
     type: "landmark",
     name: { de: "RIPAS Krankenhaus Wahrzeichen", hu: "RIPAS Kórház épülete", ro: "Clădirea Spitalului RIPAS", en: "RIPAS Hospital Building" },
-    coordinates: { lat: 4.8915, lng: 114.9325 },
+    coords: [114.9325, 4.8915],
     description: {
       de: "Das größte staatliche Krankenhaus Bruneis ist ein markanter Gebäudekomplex am Ufer des Brunei-Flusses.",
       hu: "Brunei legnagyobb állami kórháza, amely jellegzetes épületkomplexum a Brunei-folyó partján.",
@@ -1124,7 +1124,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-international-airport-terminal-landmarks-v2",
     type: "landmark",
     name: { de: "Flughafen Brunei Terminal", hu: "Brunei repülőtér terminál", ro: "Terminalul Aeroportului Brunei", en: "Brunei International Airport Terminal" },
-    coordinates: { lat: 4.9445, lng: 114.9315 },
+    coords: [114.9315, 4.9445],
     description: {
       de: "Das Haupttor nach Brunei, ein modernes Terminalgebäude mit architektonischen Einflüssen aus der malaiischen Kultur.",
       hu: "Brunei fő kapuja, modern terminálépület, amely maláj kulturális építészeti jegyeket hordoz.",
@@ -1155,7 +1155,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-royal-brunei-polo-club-landmarks-v2",
     type: "landmark",
     name: { de: "Royal Brunei Polo Club", hu: "Royal Brunei Polo Club", ro: "Royal Brunei Polo Club", en: "Royal Brunei Polo and Riding Club" },
-    coordinates: { lat: 4.9425, lng: 114.8355 },
+    coords: [114.8355, 4.9425],
     description: {
       de: "Ein prestigeträchtiger Club in Jerudong mit erstklassigen Sportanlagen und eleganter Architektur.",
       hu: "Tekintélyes klub Jerudongban, világszínvonalú sportlétesítményekkel és elegáns építészettel.",
@@ -1186,7 +1186,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     id: "brunei-taman-sir-muda-omar-ali-saifuddien-landmarks-v2",
     type: "monument",
     name: { de: "Sir Muda Omar Ali Saifuddien Park", hu: "Sir Muda Omar Ali Saifuddien tér", ro: "Parcul Sir Muda Omar Ali Saifuddien", en: "Taman Haji Sir Muda Omar Ali Saifuddien" },
-    coordinates: { lat: 4.8898, lng: 114.9412 },
+    coords: [114.9412, 4.8898],
     description: {
       de: "Der zentrale Platz der Hauptstadt, auf dem 1984 die Unabhängigkeit Bruneis verkündet wurde.",
       hu: "A főváros központi tere, ahol 1984-ben kikiáltották Brunei függetlenségét.",

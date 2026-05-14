@@ -966,7 +966,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-brak-history-v2",
     type: "ruins",
     name: { de: "Tell Brak", hu: "Tell Brak", ro: "Tell Brak", en: "Tell Brak" },
-    coordinates: { lat: 36.666, lng: 41.05 },
+    coords: [41.05, 36.666],
     description: {
       de: "Eine antike Stadt im Nordosten Syriens, die als eines der bedeutendsten Zentren im frühen Mesopotamien gilt.",
       hu: "Ősi város Északkelet-Szíriában, amely a korai Mezopotámia egyik legjelentősebb központjának számított.",
@@ -985,7 +985,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-leilan-history-v2",
     type: "ruins",
     name: { de: "Tell Leilan", hu: "Tell Leilan", ro: "Tell Leilan", en: "Tell Leilan" },
-    coordinates: { lat: 36.95, lng: 41.5 },
+    coords: [41.5, 36.95],
     description: {
       de: "Die einstige Hauptstadt des assyrischen Königs Schamschi-Adad I., bekannt als Schubat-Enlil.",
       hu: "I. Samsi-Adad asszír király egykori fővárosa, amely Subat-Enlil néven volt ismert.",
@@ -1004,7 +1004,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-halaf-history-v2",
     type: "ruins",
     name: { de: "Tell Halaf", hu: "Tell Halaf", ro: "Tell Halaf", en: "Tell Halaf" },
-    coordinates: { lat: 36.82, lng: 40.03 },
+    coords: [40.03, 36.82],
     description: {
       de: "Eine bedeutende prähistorische Fundstätte, die namengebend für die neolithische Halaf-Kultur war.",
       hu: "Jelentős őskori lelőhely, amely a neolitikus Halaf-kultúra névadója volt.",
@@ -1023,7 +1023,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qalat-najm-history-v2",
     type: "castle",
     name: { de: "Qal'at Nadschm", hu: "Kalat Nadzsm", ro: "Qalat Najm", en: "Qalat Najm" },
-    coordinates: { lat: 36.55, lng: 38.25 },
+    coords: [38.25, 36.55],
     description: {
       de: "Eine imposante mittelalterliche Burg am rechten Ufer des Euphrat, die den Flussübergang kontrollierte.",
       hu: "Impozáns középkori vár az Eufrátesz jobb partján, amely a folyami átkelőt ellenőrizte.",
@@ -1042,7 +1042,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-mozan-history-v2",
     type: "ruins",
     name: { de: "Tell Mozan", hu: "Tell Mozan", ro: "Tell Mozan", en: "Tell Mozan" },
-    coordinates: { lat: 37.05, lng: 40.99 },
+    coords: [40.99, 37.05],
     description: {
       de: "Identifiziert als das antike Urkesch, war es ein religiöses und politisches Zentrum der Hurriter.",
       hu: "Az ókori Urkesként azonosított lelőhely a hurriták vallási és politikai központja volt.",
@@ -1061,7 +1061,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-sheikh-hamad-history-v2",
     type: "ruins",
     name: { de: "Tell Scheich Hamad", hu: "Tell Sejk Hamad", ro: "Tell Sheikh Hamad", en: "Tell Sheikh Hamad" },
-    coordinates: { lat: 35.64, lng: 40.74 },
+    coords: [40.74, 35.64],
     description: {
       de: "Die antike Stadt Dur-Katlimmu am Fluss Khabur war ein regionales Zentrum des assyrischen Reiches.",
       hu: "A Habur folyó mentén fekvő ókori Dur-Katlimmu az Asszír Birodalom regionális központja volt.",
@@ -1080,7 +1080,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-maaloula-town-history-v2",
     type: "village",
     name: { de: "Maalula", hu: "Maalúla", ro: "Maaloula", en: "Maaloula" },
-    coordinates: { lat: 33.922, lng: 36.545 },
+    coords: [36.545, 33.922],
     description: {
       de: "Ein historisches Bergdorf, in dem noch heute West-Aramäisch, die Sprache Jesu Christi, gesprochen wird.",
       hu: "Történelmi hegyi falu, ahol ma is beszélik a nyugati arámi nyelvet, Jézus Krisztus nyelvét.",
@@ -1099,7 +1099,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-bab-al-saghir-cemetery-history-v2",
     type: "monument",
     name: { de: "Bab al-Saghir Friedhof", hu: "Bab al-Szagir temető", ro: "Cimitirul Bab al-Saghir", en: "Bab al-Saghir Cemetery" },
-    coordinates: { lat: 33.502, lng: 36.302 },
+    coords: [36.302, 33.502],
     description: {
       de: "Einer der ältesten und bedeutendsten islamischen Friedhöfe der Welt, gelegen vor den Toren von Damaskus.",
       hu: "A világ egyik legrégebbi és legjelentősebb iszlám temetője, amely Damaszkusz kapui előtt található.",
@@ -1118,7 +1118,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-bimaristan-arghun-al-kamili-history-v2",
     type: "museum",
     name: { de: "Bimaristan Arghun al-Kamili", hu: "Bimaristan Arghun al-Kamili", ro: "Bimaristan Arghun al-Kamili", en: "Bimaristan Arghun al-Kamili" },
-    coordinates: { lat: 36.196, lng: 37.155 },
+    coords: [37.155, 36.196],
     description: {
       de: "Ein historisches Krankenhaus in Aleppo aus der Mamluken-Zeit, das für seine fortschrittlichen Therapiemethoden bekannt war.",
       hu: "Történelmi kórház Aleppóban a mamlúk korból, amely fejlett terápiás módszereiről volt ismert.",
@@ -1137,7 +1137,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-madrasa-al-zahiriyah-history-v2",
     type: "monument",
     name: { de: "Madrasa al-Zahiriyah", hu: "Zahirija medresze", ro: "Madrasa al-Zahiriyah", en: "Madrasa al-Zahiriyah" },
-    coordinates: { lat: 33.512, lng: 36.305 },
+    coords: [36.305, 33.512],
     description: {
       de: "Ein prächtiges Mausoleum und eine ehemalige Schule in Damaskus, in der Sultan Baibars I. begraben liegt.",
       hu: "Pompás mauzóleum és egykori iskola Damaszkuszban, ahol I. Baibarsz szultán nyugszik.",
@@ -1156,7 +1156,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qalat-al-madiq-history-v2",
     type: "castle",
     name: { de: "Qal'at al-Madiq", hu: "Kalat al-Madik", ro: "Qalat al-Madiq", en: "Qalat al-Madiq" },
-    coordinates: { lat: 35.419, lng: 36.388 },
+    coords: [36.388, 35.419],
     description: {
       de: "Eine mittelalterliche Festung, die auf der Akropolis der antiken Stadt Apamea errichtet wurde.",
       hu: "Középkori erődítmény, amelyet az ókori Apameia akropoliszára építettek.",
@@ -1175,7 +1175,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-sabi-abyad-history-v2",
     type: "ruins",
     name: { de: "Tell Sabi Abyad", hu: "Tell Szabi Abjad", ro: "Tell Sabi Abyad", en: "Tell Sabi Abyad" },
-    coordinates: { lat: 36.52, lng: 39.01 },
+    coords: [39.01, 36.52],
     description: {
       de: "Ein bedeutender archäologischer Fundort im Balikh-Tal, der wichtige Einblicke in das Neolithikum bietet.",
       hu: "Jelentős régészeti lelőhely a Balikh-völgyben, amely fontos betekintést nyújt az újkőkorba.",
@@ -1194,7 +1194,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-meskene-emar-history-v2",
     type: "ruins",
     name: { de: "Tell Meskene (Emar)", hu: "Tell Meszkene (Emar)", ro: "Tell Meskene (Emar)", en: "Tell Meskene (Emar)" },
-    coordinates: { lat: 35.986, lng: 38.114 },
+    coords: [38.114, 35.986],
     description: {
       de: "Eine antike Stadt am Knie des Euphrat, die in der Spätbronzezeit ein wichtiges Handelszentrum war.",
       hu: "Ősi város az Eufrátesz kanyarulatánál, amely a késő bronzkorban fontos kereskedelmi központ volt.",
@@ -1213,7 +1213,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-chuera-history-v2",
     type: "ruins",
     name: { de: "Tell Chuera", hu: "Tell Chuera", ro: "Tell Chuera", en: "Tell Chuera" },
-    coordinates: { lat: 36.65, lng: 39.11 },
+    coords: [39.11, 36.65],
     description: {
       de: "Eine große Ruinenstadt in Nordsyrien, die eine der bedeutendsten Fundstätten der Frühbronzezeit ist.",
       hu: "Nagy romváros Észak-Szíriában, amely a kora bronzkor egyik legjelentősebb lelőhelye.",
@@ -1232,7 +1232,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-beydar-history-v2",
     type: "ruins",
     name: { de: "Tell Beydar", hu: "Tell Bejdar", ro: "Tell Beydar", en: "Tell Beydar" },
-    coordinates: { lat: 36.738, lng: 40.588 },
+    coords: [40.588, 36.738],
     description: {
       de: "Die antike Stadt Nabada war ein bedeutendes regionales Zentrum im 3. Jahrtausend v. Chr. in der Khabur-Region.",
       hu: "Az ókori Nabada városa az i. e. 3. évezredben a Habur-régió egyik fontos regionális központja volt.",
@@ -1251,7 +1251,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qasr-al-hayr-al-gharbi-history-v2",
     type: "palace",
     name: { de: "Qasr al-Hayr al-Gharbi", hu: "Kaszr al-Hajr al-Garbi", ro: "Qasr al-Hayr al-Gharbi", en: "Qasr al-Hayr al-Gharbi" },
-    coordinates: { lat: 34.375, lng: 37.602 },
+    coords: [37.602, 34.375],
     description: {
       de: "Ein prächtiges Wüstenschloss der Umayyaden, erbaut von Kalif Hischam ibn Abd al-Malik.",
       hu: "Pompás omajjád sivatagi kastély, amelyet Hisám ibn Abd al-Malik kalifa építtetett.",
@@ -1270,7 +1270,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-mushabbak-basilica-history-v2",
     type: "church",
     name: { de: "Mushabbak Basilika", hu: "Musabbak-bazilika", ro: "Bazilica Mushabbak", en: "Mushabbak Basilica" },
-    coordinates: { lat: 36.262, lng: 36.885 },
+    coords: [36.885, 36.262],
     description: {
       de: "Eine außergewöhnlich gut erhaltene byzantinische Basilika aus dem 5. Jahrhundert in der Nähe von Aleppo.",
       hu: "Kivételesen jól megőrzött 5. századi bizánci bazilika Aleppó közelében.",
@@ -1289,7 +1289,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-kharab-shams-history-v2",
     type: "ruins",
     name: { de: "Kharab Shams", hu: "Kharab Shams", ro: "Kharab Shams", en: "Kharab Shams" },
-    coordinates: { lat: 36.338, lng: 36.902 },
+    coords: [36.902, 36.338],
     description: {
       de: "Eine der 'Toten Städte' im Nordwesten Syriens, berühmt für ihre gut erhaltene frühbyzantinische Basilika.",
       hu: "Az északnyugat-szíriai 'Holtak Városai' egyike, híres jó állapotban maradt kora bizánci bazilikájáról.",
@@ -1308,7 +1308,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-bauda-history-v2",
     type: "ruins",
     name: { de: "Bauda", hu: "Bauda", ro: "Bauda", en: "Bauda" },
-    coordinates: { lat: 35.671, lng: 36.568 },
+    coords: [36.568, 35.671],
     description: {
       de: "Eine antike Siedlung im Jebel Zawiya, bekannt für ihre markanten Pyramidengräber.",
       hu: "Ősi település a Dzsebel Zavija területén, amely jellegzetes piramis alakú sírjairól ismert.",
@@ -1327,7 +1327,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-ruweiha-history-v2",
     type: "ruins",
     name: { de: "Ruweiha", hu: "Ruweiha", ro: "Ruweiha", en: "Ruweiha" },
-    coordinates: { lat: 35.741, lng: 36.695 },
+    coords: [36.695, 35.741],
     description: {
       de: "Eine weitläufige Geisterstadt im Jebel Zawiya mit zwei großen Basiliken und monumentalen Grabbauten.",
       hu: "Kiterjedt szellemváros a Dzsebel Zavija területén, két nagy bazilikával és monumentális sírépítményekkel.",
@@ -1346,7 +1346,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qalb-loze-history-v2",
     type: "church",
     name: { de: "Qalb Loze", hu: "Kalb Loze", ro: "Qalb Loze", en: "Qalb Loze" },
-    coordinates: { lat: 36.17, lng: 36.582 },
+    coords: [36.582, 36.17],
     description: {
       de: "Ein herausragendes Beispiel byzantinischer Kirchenbaukunst, das als Vorbild für die Kathedrale von Notre-Dame gilt.",
       hu: "A bizánci templomépítészet kiemelkedő példája, amely a Notre-Dame-székesegyház mintájául is szolgálhatott.",
@@ -1365,7 +1365,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-ain-dara-history-v2",
     type: "ruins",
     name: { de: "Tell Ain Dara", hu: "Tell Ain Dara", ro: "Tell Ain Dara", en: "Tell Ain Dara" },
-    coordinates: { lat: 36.46, lng: 36.855 },
+    coords: [36.855, 36.46],
     description: {
       de: "Ein eisenzeitlicher syro-hethitischer Tempel, bekannt für seine riesigen in Stein gehauenen Fußabdrücke.",
       hu: "Vaskori szír-hettita templom, amely a kőbe vésett hatalmas lábnyomairól ismert.",
@@ -1384,7 +1384,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-canatha-qanawat-history-v2",
     type: "ruins",
     name: { de: "Canatha (Qanawat)", hu: "Canatha (Kanavat)", ro: "Canatha (Qanawat)", en: "Canatha (Qanawat)" },
-    coordinates: { lat: 32.755, lng: 36.618 },
+    coords: [36.618, 32.755],
     description: {
       de: "Eine antike Stadt im Jebel ed-Druze, die einst Mitglied der Dekapolis war und römische sowie byzantinische Ruinen beherbergt.",
       hu: "Ősi város a Dzsebel ed-Drúz területén, amely egykor a Dekapolisz tagja volt, és római, valamint bizánci romokat őriz.",
@@ -1403,7 +1403,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-philippopolis-shahba-history-v2",
     type: "ruins",
     name: { de: "Philippopolis (Shahba)", hu: "Philippopolisz (Sahba)", ro: "Philippopolis (Shahba)", en: "Philippopolis (Shahba)" },
-    coordinates: { lat: 32.855, lng: 36.628 },
+    coords: [36.628, 32.855],
     description: {
       de: "Die Geburtsstadt des römischen Kaisers Philippus Arabs, die er zu einer kaiserlichen Residenz ausbaute.",
       hu: "Philippus Arabs római császár szülővárosa, amelyet császári rezidenciává építtetett ki.",
@@ -1422,7 +1422,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-cyrrhus-history-v2",
     type: "ruins",
     name: { de: "Cyrrhus (Nabi Houri)", hu: "Cyrrhus (Nabi Houri)", ro: "Cyrrhus (Nabi Houri)", en: "Cyrrhus (Nabi Houri)" },
-    coordinates: { lat: 36.745, lng: 36.958 },
+    coords: [36.958, 36.745],
     description: {
       de: "Eine antike Stadt im Norden Syriens, die für ihr prächtiges römisches Theater und zwei erhaltene Brücken bekannt ist.",
       hu: "Ősi város Észak-Szíriában, amely pompás római színházáról és két épségben maradt hídjáról ismert.",
@@ -1441,7 +1441,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-qarqur-history-v2",
     type: "ruins",
     name: { de: "Tell Qarqur", hu: "Tell Karkur", ro: "Tell Qarqur", en: "Tell Qarqur" },
-    coordinates: { lat: 35.75, lng: 36.333 },
+    coords: [36.333, 35.75],
     description: {
       de: "Ein strategisch wichtiger Siedlungshügel im Orontes-Tal, der über 10.000 Jahre kontinuierlich besiedelt war.",
       hu: "Stratégiailag fontos településhalom az Orontész-völgyben, amely több mint 10 000 éven át folyamatosan lakott volt.",
@@ -1460,7 +1460,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-asharneh-history-v2",
     type: "ruins",
     name: { de: "Tell Asharneh", hu: "Tell Asarneh", ro: "Tell Asharneh", en: "Tell Asharneh" },
-    coordinates: { lat: 35.255, lng: 36.455 },
+    coords: [36.455, 35.255],
     description: {
       de: "Vermutlich der Standort der antiken Stadt Tunip, ein wichtiges politisches Zentrum im Orontes-Tal.",
       hu: "Feltételezhetően az ókori Tunip városa, amely az Orontész-völgy egyik fontos politikai központja volt.",
@@ -1479,7 +1479,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-afis-history-v2",
     type: "ruins",
     name: { de: "Tell Afis", hu: "Tell Afisz", ro: "Tell Afis", en: "Tell Afis" },
-    coordinates: { lat: 35.915, lng: 36.785 },
+    coords: [36.785, 35.915],
     description: {
       de: "Ein bedeutender Siedlungshügel in Nordsyrien, der für die Entdeckung der Zakkur-Stele bekannt ist.",
       hu: "Jelentős településhalom Észak-Szíriában, amely a Zakkur-sztélé felfedezéséről ismert.",
@@ -1498,7 +1498,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-kazel-history-v2",
     type: "ruins",
     name: { de: "Tell Kazel", hu: "Tell Kazel", ro: "Tell Kazel", en: "Tell Kazel" },
-    coordinates: { lat: 34.708, lng: 35.985 },
+    coords: [35.985, 34.708],
     description: {
       de: "Eine antike Hafenstadt an der syrischen Küste, die oft mit der Stadt Sumur identifiziert wird.",
       hu: "Ősi kikötőváros a szíriai tengerparton, amelyet gyakran Szumur városával azonosítanak.",
@@ -1517,7 +1517,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-sukas-history-v2",
     type: "ruins",
     name: { de: "Tell Sukas", hu: "Tell Szukasz", ro: "Tell Sukas", en: "Tell Sukas" },
-    coordinates: { lat: 35.335, lng: 35.925 },
+    coords: [35.925, 35.335],
     description: {
       de: "Ein Siedlungshügel an der Küste südlich von Jableh, der Handelskontakte bis nach Griechenland hatte.",
       hu: "Településhalom a tengerparton, Dzsabla városától délre, amely Görögországig terjedő kereskedelmi kapcsolatokkal rendelkezett.",
@@ -1536,7 +1536,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-tweini-history-v2",
     type: "ruins",
     name: { de: "Tell Tweini", hu: "Tell Tweini", ro: "Tell Tweini", en: "Tell Tweini" },
-    coordinates: { lat: 35.365, lng: 35.945 },
+    coords: [35.945, 35.365],
     description: {
       de: "Die antike Stadt Gibala war ein wichtiger Hafen und Handelsplatz im Einflussbereich von Ugarit.",
       hu: "Az ókori Gibala városa Ugarit befolyási övezetének fontos kikötője és kereskedelmi központja volt.",
@@ -1555,7 +1555,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-jebel-khalid-history-v2",
     type: "ruins",
     name: { de: "Jebel Khalid", hu: "Dzsebel Khalid", ro: "Jebel Khalid", en: "Jebel Khalid" },
-    coordinates: { lat: 36.365, lng: 38.165 },
+    coords: [38.165, 36.365],
     description: {
       de: "Eine seleukidische Festungsstadt am Euphrat, die als Verteidigungsposten gegen die Parther diente.",
       hu: "Szeleukida erődváros az Eufrátesz mentén, amely védelmi bástyaként szolgált a pártusok ellen.",
@@ -1574,7 +1574,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-ahmar-til-barsip-history-v2",
     type: "ruins",
     name: { de: "Tell Ahmar (Til Barsip)", hu: "Tell Ahmar (Til Barszip)", ro: "Tell Ahmar (Til Barsip)", en: "Tell Ahmar (Til Barsip)" },
-    coordinates: { lat: 36.635, lng: 38.125 },
+    coords: [38.125, 36.635],
     description: {
       de: "Die einstige Hauptstadt des aramäischen Königreichs Bit Adini und später eine assyrische Provinzhauptstadt.",
       hu: "A Bit Adini arámi királyság egykori fővárosa, majd később asszír tartományi központ.",
@@ -1593,7 +1593,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-shiyukh-tahtani-history-v2",
     type: "ruins",
     name: { de: "Tell Schiyukh Tahtani", hu: "Tell Shiyukh Tahtani", ro: "Tell Shiyukh Tahtani", en: "Tell Shiyukh Tahtani" },
-    coordinates: { lat: 36.705, lng: 38.015 },
+    coords: [38.015, 36.705],
     description: {
       de: "Ein Siedlungshügel am Euphrat, der von der Frühbronzezeit bis in die frühislamische Zeit bewohnt war.",
       hu: "Településhalom az Eufrátesz mentén, amely a kora bronzkortól a korai iszlám korig lakott volt.",
@@ -1612,7 +1612,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-banat-history-v2",
     type: "ruins",
     name: { de: "Tell Banat", hu: "Tell Banat", ro: "Tell Banat", en: "Tell Banat" },
-    coordinates: { lat: 36.435, lng: 38.255 },
+    coords: [38.255, 36.435],
     description: {
       de: "Ein bedeutender Komplex von Grabbauten aus der Frühbronzezeit, bekannt als der 'Weiße Monument'.",
       hu: "Jelentős kora bronzkori sírépítmény-komplexum, amely 'Fehér Emlékmű' néven ismert.",
@@ -1631,7 +1631,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-terqa-tell-ashara-history-v2",
     type: "ruins",
     name: { de: "Terqa (Tell Ashara)", hu: "Terka (Tell Asara)", ro: "Terqa (Tell Ashara)", en: "Terqa (Tell Ashara)" },
-    coordinates: { lat: 34.915, lng: 40.545 },
+    coords: [40.545, 34.915],
     description: {
       de: "Die Hauptstadt des Königreichs Hana am Mittellauf des Euphrat, ein wichtiges religiöses Zentrum.",
       hu: "A Hana királyság fővárosa az Eufrátesz középső szakaszán, fontos vallási központ.",
@@ -1650,7 +1650,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-zalabiye-citadel-history-v2",
     type: "castle",
     name: { de: "Zalabiye", hu: "Zalabije", ro: "Zalabiye", en: "Zalabiye" },
-    coordinates: { lat: 35.662, lng: 39.815 },
+    coords: [39.815, 35.662],
     description: {
       de: "Eine byzantinische Festungsanlage am linken Ufer des Euphrat, gegenüber der Schwesterfestung Halabiye.",
       hu: "Bizánci erődítmény az Eufrátesz bal partján, szemben testvérvárával, Halabijével.",
@@ -1669,7 +1669,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-halabiye-citadel-history-v2",
     type: "castle",
     name: { de: "Halabiye", hu: "Halabije", ro: "Halabiye", en: "Halabiye" },
-    coordinates: { lat: 35.688, lng: 39.818 },
+    coords: [39.818, 35.688],
     description: {
       de: "Eine monumentale antike Festungsstadt am Euphrat, die von Zenobia, der Königin von Palmyra, befestigt wurde.",
       hu: "Monumentális ókori erődváros az Eufrátesz mentén, amelyet Zenobia, Palmüra királynője erődített meg.",
@@ -1688,7 +1688,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qalat-rahba-history-v2",
     type: "castle",
     name: { de: "Qal'at Rahba", hu: "Kalat Rahba", ro: "Qalat Rahba", en: "Qalat Rahba" },
-    coordinates: { lat: 35.005, lng: 40.425 },
+    coords: [40.425, 35.005],
     description: {
       de: "Eine strategische mittelalterliche Festung am Rande der syrischen Wüste nahe der Stadt Mayadin.",
       hu: "Stratégiai középkori erődítmény a szíriai sivatag szélén, Majadin városa közelében.",
@@ -1707,7 +1707,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-mar-elian-monastery-history-v2",
     type: "monument",
     name: { de: "Kloster Mar Elian", hu: "Mar Elián-kolostor", ro: "Mănăstirea Mar Elian", en: "Mar Elian Monastery" },
-    coordinates: { lat: 34.225, lng: 37.245 },
+    coords: [37.245, 34.225],
     description: {
       de: "Ein historisches christliches Kloster in Al-Qaryatayn, das auf das 5. Jahrhundert zurückgeht.",
       hu: "Történelmi keresztény kolostor al-Karjatajnban, amely az 5. századig nyúlik vissza.",
@@ -1726,7 +1726,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-qasr-al-azem-hama-history-v2",
     type: "palace",
     name: { de: "Azem-Palast Hama", hu: "Azem-palota (Hama)", ro: "Palatul Azem Hama", en: "Azem Palace Hama" },
-    coordinates: { lat: 35.132, lng: 36.755 },
+    coords: [36.755, 35.132],
     description: {
       de: "Ein prächtiges Beispiel osmanischer Architektur in Hama, erbaut für den Gouverneur As'ad Pascha al-Azm.",
       hu: "Az oszmán építészet pompás példája Hamában, amelyet Aszad pasa al-Azem kormányzó számára építettek.",
@@ -1745,7 +1745,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-beit-ghazaleh-history-v2",
     type: "palace",
     name: { de: "Beit Ghazaleh", hu: "Beit Ghazaleh", ro: "Beit Ghazaleh", en: "Beit Ghazaleh" },
-    coordinates: { lat: 36.205, lng: 37.156 },
+    coords: [37.156, 36.205],
     description: {
       de: "Eines der größten und am besten erhaltenen Häuser aus der osmanischen Zeit im Jdeideh-Viertel von Aleppo.",
       hu: "Aleppó Jdeideh negyedének egyik legnagyobb és legjobb állapotban maradt oszmán kori háza.",
@@ -1764,7 +1764,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-hammam-al-nahhasin-history-v2",
     type: "monument",
     name: { de: "Hammam al-Nahhasin", hu: "Hammam al-Nahhasin", ro: "Hammam al-Nahhasin", en: "Hammam al-Nahhasin" },
-    coordinates: { lat: 36.198, lng: 37.158 },
+    coords: [37.158, 36.198],
     description: {
       de: "Eines der ältesten und bedeutendsten öffentlichen Badehäuser (Hammam) in der Altstadt von Aleppo.",
       hu: "Aleppó óvárosának egyik legrégebbi és legjelentősebb nyilvános fürdője (hammam).",
@@ -1783,7 +1783,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-souq-al-hamidiyyeh-history-v2",
     type: "monument",
     name: { de: "Souq al-Hamidiyyeh", hu: "Al-Hamidijja szúk", ro: "Souq al-Hamidiyyeh", en: "Souq al-Hamidiyyeh" },
-    coordinates: { lat: 33.511, lng: 36.302 },
+    coords: [36.302, 33.511],
     description: {
       de: "Der größte und zentralste Basar von Damaskus, der für sein historisches Eisendach und seine antike Atmosphäre bekannt ist.",
       hu: "Damaszkusz legnagyobb és legközpontibb bazárja, amely történelmi vastetőjéről és ősi hangulatáról ismert.",
@@ -1802,7 +1802,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-maarrat-al-numan-mosaic-museum-history-v2",
     type: "museum",
     name: { de: "Mosaikmuseum Ma'arrat al-Nu'man", hu: "Maarrat al-Numán mozaikmúzeum", ro: "Muzeul de Mozaic Maarrat al-Nu'man", en: "Maarrat al-Nu'man Mosaic Museum" },
-    coordinates: { lat: 35.642, lng: 36.685 },
+    coords: [36.685, 35.642],
     description: {
       de: "Ein Museum in einer osmanischen Karawanserei, das eine der weltweit bedeutendsten Sammlungen römischer und byzantinischer Mosaike beherbergt.",
       hu: "Oszmán karavánszerájban kialakított múzeum, amely a világ egyik legjelentősebb római és bizánci mozaikgyűjteményének ad otthont.",
@@ -1821,7 +1821,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-hammam-et-turkman-history-v2",
     type: "ruins",
     name: { de: "Tell Hammam et-Turkman", hu: "Tell Hammam et-Turkman", ro: "Tell Hammam et-Turkman", en: "Tell Hammam et-Turkman" },
-    coordinates: { lat: 36.485, lng: 39.055 },
+    coords: [39.055, 36.485],
     description: {
       de: "Ein großer Siedlungshügel am Fluss Balikh, der wichtige Funde aus der Bronzezeit geliefert hat.",
       hu: "Nagy településhalom a Balikh folyó mentén, amely fontos bronzkori leletekkel szolgált.",
@@ -1840,7 +1840,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-bia-history-v2",
     type: "ruins",
     name: { de: "Tell Bi'a", hu: "Tell Bi'a", ro: "Tell Bi'a", en: "Tell Bi'a" },
-    coordinates: { lat: 35.962, lng: 39.025 },
+    coords: [39.025, 35.962],
     description: {
       de: "Die antike Stadt Tuttul an der Mündung des Balikh in den Euphrat, ein bedeutendes religiöses Zentrum des Gottes Dagan.",
       hu: "Az ókori Tuttul városa a Balikh és az Eufrátesz találkozásánál, Dagan isten jelentős vallási központja.",
@@ -1859,7 +1859,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-bab-al-saghir-history-v2",
     type: "monument",
     name: { de: "Bab al-Saghir Tor", hu: "Bab al-Szagir kapu", ro: "Poarta Bab al-Saghir", en: "Bab al-Saghir Gate" },
-    coordinates: { lat: 33.504, lng: 36.303 },
+    coords: [36.303, 33.504],
     description: {
       de: "Eines der sieben antiken Stadttore von Damaskus, das den Zugang zum gleichnamigen historischen Friedhof ermöglicht.",
       hu: "Damaszkusz hét ókori városkapujának egyike, amely utat nyit az azonos nevű történelmi temetőhöz.",
@@ -1878,7 +1878,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-bimaristan-arghun-history-v2",
     type: "museum",
     name: { de: "Arghun-Krankenhaus", hu: "Arghun-kórház", ro: "Spitalul Arghun", en: "Arghun Hospital" },
-    coordinates: { lat: 36.195, lng: 37.154 },
+    coords: [37.154, 36.195],
     description: {
       de: "Eine bedeutende medizinische Einrichtung des 14. Jahrhunderts in Aleppo, die für ihre Architektur und Heilmethoden berühmt war.",
       hu: "Jelentős 14. századi orvosi intézmény Aleppóban, amely építészetéről és gyógyítási módszereiről volt híres.",
@@ -1897,7 +1897,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-madrasa-al-zahiriyah-monument-history-v2",
     type: "monument",
     name: { de: "Al-Zahiriyah Bibliothek", hu: "Al-Zahirija könyvtár", ro: "Biblioteca Al-Zahiriyah", en: "Al-Zahiriyah Library" },
-    coordinates: { lat: 33.513, lng: 36.304 },
+    coords: [36.304, 33.513],
     description: {
       de: "Eine historische Madrasa und Bibliothek in Damaskus, die das Grab von Sultan Baibars beherbergt.",
       hu: "Történelmi medresze és könyvtár Damaszkuszban, amely I. Baibarsz szultán sírjának ad otthont.",
@@ -1916,7 +1916,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-el-abd-history-v2",
     type: "ruins",
     name: { de: "Tell el-Abd", hu: "Tell el-Abd", ro: "Tell el-Abd", en: "Tell el-Abd" },
-    coordinates: { lat: 36.195, lng: 38.165 },
+    coords: [38.165, 36.195],
     description: {
       de: "Ein Siedlungshügel am Ufer des Euphrat, der vor der Überflutung durch den Tabqa-Staudamm untersucht wurde.",
       hu: "Településhalom az Eufrátesz partján, amelyet a Tabka-gát általi elárasztás előtt kutattak fel.",
@@ -1935,7 +1935,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-munbaqa-history-v2",
     type: "ruins",
     name: { de: "Tell Munbaqa (Ekalte)", hu: "Tell Munbaka (Ekalte)", ro: "Tell Munbaqa (Ekalte)", en: "Tell Munbaqa (Ekalte)" },
-    coordinates: { lat: 36.21, lng: 38.115 },
+    coords: [38.115, 36.21],
     description: {
       de: "Die antike Stadt Ekalte am Euphrat ist bekannt für ihre außergewöhnlich gut erhaltenen Wohnhäuser der Bronzezeit.",
       hu: "Az ókori Ekalte városa az Eufrátesz mentén, amely kivételesen jó állapotban maradt bronzkori lakóházairól ismert.",
@@ -1954,7 +1954,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-bazi-history-v2",
     type: "ruins",
     name: { de: "Tell Bazi", hu: "Tell Bazi", ro: "Tell Bazi", en: "Tell Bazi" },
-    coordinates: { lat: 36.465, lng: 38.215 },
+    coords: [38.215, 36.465],
     description: {
       de: "Eine antike Siedlung am Euphrat, die aus einer Zitadelle auf einem Hügel und einer Unterstadt besteht.",
       hu: "Ősi település az Eufrátesz mentén, amely egy dombtetőn lévő citadellából és egy alsóvárosból áll.",
@@ -1973,7 +1973,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-shadi-history-v2",
     type: "ruins",
     name: { de: "Tell Schadi", hu: "Tell Shadi", ro: "Tell Shadi", en: "Tell Shadi" },
-    coordinates: { lat: 36.315, lng: 40.755 },
+    coords: [40.755, 36.315],
     description: {
       de: "Ein Siedlungshügel im Khabur-Dreieck, der wichtige Informationen über die frühe Stadtentwicklung liefert.",
       hu: "Településhalom a Habur-háromszögben, amely fontos információkkal szolgál a korai városfejlődésről.",
@@ -1992,7 +1992,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-hamman-history-v2",
     type: "ruins",
     name: { de: "Tell Hammam", hu: "Tell Hammam", ro: "Tell Hammam", en: "Tell Hammam" },
-    coordinates: { lat: 36.645, lng: 38.255 },
+    coords: [38.255, 36.645],
     description: {
       de: "Ein archäologischer Fundplatz am Oberlauf des syrischen Euphrat, nahe der türkischen Grenze.",
       hu: "Régészeti lelőhely a szíriai Eufrátesz felső szakaszán, a török határ közelében.",
@@ -2011,7 +2011,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-jebel-zawiya-dead-cities-history-v2",
     type: "ruins",
     name: { de: "Jebel Zawiya Ruinen", hu: "Dzsebel Zavija romjai", ro: "Ruinele Jebel Zawiya", en: "Jebel Zawiya Ruins" },
-    coordinates: { lat: 35.7, lng: 36.6 },
+    coords: [36.6, 35.7],
     description: {
       de: "Eine Region im Nordwesten Syriens, die für ihre hohe Dichte an antiken byzantinischen Geisterstädten bekannt ist.",
       hu: "Északnyugat-szíriai régió, amely az ókori bizánci szellemvárosok nagy sűrűségéről ismert.",
@@ -2030,7 +2030,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-madrasa-al-nuri-history-v2",
     type: "monument",
     name: { de: "Al-Nuri Madrasa (Hama)", hu: "Al-Nuri medresze (Hama)", ro: "Madrasa Al-Nuri (Hama)", en: "Al-Nuri Madrasa (Hama)" },
-    coordinates: { lat: 35.134, lng: 36.753 },
+    coords: [36.753, 35.134],
     description: {
       de: "Eine historische islamische Schule in Hama, die von Nur ad-Din Zangi im 12. Jahrhundert gegründet wurde.",
       hu: "Történelmi iszlám iskola Hamában, amelyet Núr ad-Dín Zangi alapított a 12. században.",
@@ -2049,7 +2049,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-marrit-al-numan-mosaic-history-v2",
     type: "museum",
     name: { de: "Ma'arrat al-Nu'man Mosaike", hu: "Maarrat al-Numán mozaikjai", ro: "Mozaicurile Maarrat al-Nu'man", en: "Maarrat al-Nu'man Mosaics" },
-    coordinates: { lat: 35.641, lng: 36.686 },
+    coords: [36.686, 35.641],
     description: {
       de: "Diese weltberühmte Mosaiksammlung zeigt detaillierte Szenen aus Mythologie und Alltag der Antike.",
       hu: "Ez a világhírű mozaikgyűjtemény az ókori mitológia és mindennapi élet részletgazdag jeleneteit mutatja be.",
@@ -2068,7 +2068,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-fayda-history-v2",
     type: "ruins",
     name: { de: "Tell Fayda", hu: "Tell Fayda", ro: "Tell Fayda", en: "Tell Fayda" },
-    coordinates: { lat: 36.215, lng: 40.785 },
+    coords: [40.785, 36.215],
     description: {
       de: "Ein Siedlungshügel in der Khabur-Region, der wichtige Funde zur neolithischen Keramikentwicklung lieferte.",
       hu: "Településhalom a Habur-régióban, amely fontos leleteket szolgáltatott a neolitikus kerámia fejlődéséről.",
@@ -2087,7 +2087,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-boueid-history-v2",
     type: "ruins",
     name: { de: "Tell Boueid", hu: "Tell Boueid", ro: "Tell Boueid", en: "Tell Boueid" },
-    coordinates: { lat: 36.325, lng: 40.815 },
+    coords: [40.815, 36.325],
     description: {
       de: "Ein kleinerer, aber bedeutender Tell im Khabur-Becken mit Funden aus der Halaf-Zeit.",
       hu: "Kisebb, de jelentős tell a Habur-medencében, Halaf-kori leletekkel.",
@@ -2106,7 +2106,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-arbid-history-v2",
     type: "ruins",
     name: { de: "Tell Arbid", hu: "Tell Arbid", ro: "Tell Arbid", en: "Tell Arbid" },
-    coordinates: { lat: 36.865, lng: 41.015 },
+    coords: [41.015, 36.865],
     description: {
       de: "Eine antike Stadt im Khabur-Dreieck, die vor allem in der Frühbronzezeit ein bedeutendes Zentrum war.",
       hu: "Ősi város a Habur-háromszögben, amely főleg a kora bronzkorban volt jelentős központ.",
@@ -2125,7 +2125,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-shiyukh-fauqani-history-v2",
     type: "ruins",
     name: { de: "Tell Schiyukh Fauqani", hu: "Tell Shiyukh Fauqani", ro: "Tell Shiyukh Fauqani", en: "Tell Shiyukh Fauqani" },
-    coordinates: { lat: 36.725, lng: 38.025 },
+    coords: [38.025, 36.725],
     description: {
       de: "Ein Siedlungshügel am Euphrat, der wertvolle Schichten von der Bronzezeit bis zur islamischen Periode umfasst.",
       hu: "Településhalom az Eufrátesz mentén, amely értékes rétegeket tartalmaz a bronzkortól az iszlám korszakig.",
@@ -2144,7 +2144,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-qaramel-history-v2",
     type: "ruins",
     name: { de: "Tell Qaramel", hu: "Tell Karamel", ro: "Tell Qaramel", en: "Tell Qaramel" },
-    coordinates: { lat: 36.385, lng: 37.265 },
+    coords: [37.265, 36.385],
     description: {
       de: "Ein bedeutender neolithischer Siedlungshügel nördlich von Aleppo, der zu den ältesten Siedlungen der Welt gehört.",
       hu: "Jelentős neolitikus településhalom Aleppótól északra, amely a világ egyik legrégebbi települései közé tartozik.",
@@ -2163,7 +2163,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-ansari-history-v2",
     type: "ruins",
     name: { de: "Tell Ansari", hu: "Tell Ansari", ro: "Tell Ansari", en: "Tell Ansari" },
-    coordinates: { lat: 36.185, lng: 37.125 },
+    coords: [37.125, 36.185],
     description: {
       de: "Ein Siedlungshügel innerhalb der modernen Stadt Aleppo, der Informationen über die Bronzezeit liefert.",
       hu: "Településhalom a modern Aleppó városán belül, amely a bronzkorról szolgáltat információkat.",
@@ -2182,7 +2182,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-sabiyah-history-v2",
     type: "ruins",
     name: { de: "Tell Sabiyah", hu: "Tell Sabiyah", ro: "Tell Sabiyah", en: "Tell Sabiyah" },
-    coordinates: { lat: 36.515, lng: 39.015 },
+    coords: [39.015, 36.515],
     description: {
       de: "Ein neolithischer Fundort im Balikh-Tal, der zur Sabi-Abyad-Gruppe gehört.",
       hu: "Neolitikus lelőhely a Balikh-völgyben, amely a Sabi-Abyad csoporthoz tartozik.",
@@ -2201,7 +2201,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-mashnaqa-history-v2",
     type: "ruins",
     name: { de: "Tell Maschnaqa", hu: "Tell Mashnaqa", ro: "Tell Mashnaqa", en: "Tell Mashnaqa" },
-    coordinates: { lat: 36.315, lng: 40.715 },
+    coords: [40.715, 36.315],
     description: {
       de: "Ein Siedlungshügel am Khabur, der Funde von der Ubaid- bis zur Mittani-Zeit lieferte.",
       hu: "Településhalom a Habur mentén, amely az Ubaid-kortól a Mittani-korig szolgáltatott leleteket.",
@@ -2220,7 +2220,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-mulla-matar-history-v2",
     type: "ruins",
     name: { de: "Tell Mulla Matar", hu: "Tell Mulla Matar", ro: "Tell Mulla Matar", en: "Tell Mulla Matar" },
-    coordinates: { lat: 36.345, lng: 40.725 },
+    coords: [40.725, 36.345],
     description: {
       de: "Ein kleinerer Tell am Khabur, bekannt für Funde aus dem 4. Jahrtausend v. Chr.",
       hu: "Kisebb tell a Habur mentén, amely az i. e. 4. évezredből származó leleteiről ismert.",
@@ -2239,7 +2239,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-kneidej-history-v2",
     type: "ruins",
     name: { de: "Tell Kneidej", hu: "Tell Kneidej", ro: "Tell Kneidej", en: "Tell Kneidej" },
-    coordinates: { lat: 36.375, lng: 40.735 },
+    coords: [40.735, 36.375],
     description: {
       de: "Ein Siedlungshügel am Khabur mit bedeutenden Schichten aus der Frühbronzezeit.",
       hu: "Településhalom a Habur mentén, jelentős kora bronzkori rétegekkel.",
@@ -2258,7 +2258,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-kerma-history-v2",
     type: "ruins",
     name: { de: "Tell Kerma", hu: "Tell Kerma", ro: "Tell Kerma", en: "Tell Kerma" },
-    coordinates: { lat: 36.535, lng: 39.025 },
+    coords: [39.025, 36.535],
     description: {
       de: "Ein neolithischer Fundplatz in Nordsyrien, der wertvolle Daten zur Halaf-Kultur lieferte.",
       hu: "Neolitikus lelőhely Észak-Szíriában, amely értékes adatokat szolgáltatott a Halaf-kultúráról.",
@@ -2277,7 +2277,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-damishliyya-history-v2",
     type: "ruins",
     name: { de: "Tell Damischliyya", hu: "Tell Damishliyya", ro: "Tell Damishliyya", en: "Tell Damishliyya" },
-    coordinates: { lat: 36.555, lng: 39.035 },
+    coords: [39.035, 36.555],
     description: {
       de: "Ein kleiner Siedlungshügel im Balikh-Tal mit bedeutenden neolithischen Schichten.",
       hu: "Kisebb településhalom a Balikh-völgyben, jelentős neolitikus rétegekkel.",
@@ -2296,7 +2296,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-jid-history-v2",
     type: "ruins",
     name: { de: "Tell Jid", hu: "Tell Dzsid", ro: "Tell Jid", en: "Tell Jid" },
-    coordinates: { lat: 36.575, lng: 39.045 },
+    coords: [39.045, 36.575],
     description: {
       de: "Ein Siedlungshügel in Nordsyrien, der Funde von der Halaf- bis zur Eisenzeit umfasst.",
       hu: "Településhalom Észak-Szíriában, amely a Halaf-kortól a vaskorig tartalmaz leleteket.",
@@ -2315,7 +2315,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-sahlan-history-v2",
     type: "ruins",
     name: { de: "Tell Sahlan", hu: "Tell Szahlan", ro: "Tell Sahlan", en: "Tell Sahlan" },
-    coordinates: { lat: 36.595, lng: 39.055 },
+    coords: [39.055, 36.595],
     description: {
       de: "Ein bedeutender archäologischer Ort im Balikh-Tal, der Schichten der Bronze- und Eisenzeit aufweist.",
       hu: "Jelentős régészeti helyszín a Balikh-völgyben, bronz- és vaskori rétegekkel.",
@@ -2334,7 +2334,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
     id: "syria-tell-shadi-fauqani-history-v2",
     type: "ruins",
     name: { de: "Tell Schadi Fauqani", hu: "Tell Shadi Fauqani", ro: "Tell Shadi Fauqani", en: "Tell Shadi Fauqani" },
-    coordinates: { lat: 36.325, lng: 40.765 },
+    coords: [40.765, 36.325],
     description: {
       de: "Ein hoher Siedlungshügel im Khabur-Tal, der Informationen zur Urbanisierung Nordsyriens bietet.",
       hu: "Magas településhalom a Habur-völgyben, amely információkkal szolgál Észak-Szíria urbanizációjáról.",

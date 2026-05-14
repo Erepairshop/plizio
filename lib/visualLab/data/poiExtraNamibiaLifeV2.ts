@@ -936,7 +936,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     id: "namibia-khaudum-national-park-life-v2",
     type: "wildlife",
     name: { de: "Khaudum-Nationalpark", hu: "Khaudum Nemzeti Park", ro: "Parcul Național Khaudum", en: "Khaudum National Park" },
-    coordinates: { lat: -18.5833, lng: 20.7333 },
+    coords: [20.7333, -18.5833],
     description: {
       de: "Der Khaudum-Nationalpark ist ein abgelegenes Wildreservat im Nordosten Namibias, das für seine unberührte Wildnis bekannt ist. Er beherbergt große Elefantenherden und ist nur mit 4x4-Fahrzeugen erreichbar.",
       hu: "A Khaudum Nemzeti Park egy távoli vadrezervátum Namíbia északkeleti részén, amely érintetlen vadonjáról híres. Hatalmas elefántcsordáknak ad otthont, és csak 4x4-es járművekkel közelíthető meg.",

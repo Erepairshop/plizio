@@ -546,7 +546,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-laga-salt-fields-economic-v2",
     type: "industry",
     name: { de: "Salzfelder von Laga", hu: "Lagai sólepárlók", ro: "Câmpurile de sare din Laga", en: "Laga Salt Fields" },
-    coordinates: { lat: -8.475, lng: 126.595 },
+    coords: [126.595, -8.475],
     description: {
       de: "Diese Küstenregion ist bekannt für ihre traditionelle Salzgewinnung durch natürliche Sonnenverdunstung. Sie versorgt die lokalen Märkte im Osten des Landes mit Speisesalz.",
       hu: "Ez a tengerparti régió a hagyományos, napenergiával történő sólepárlásról ismert. Fontos szerepet játszik az ország keleti részének szoellátásában.",
@@ -565,7 +565,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-metinaro-fisheries-economic-v2",
     type: "port",
     name: { de: "Fischereizentrum Metinaro", hu: "Metinarói halászati központ", ro: "Centrul de pescuit Metinaro", en: "Metinaro Fisheries Center" },
-    coordinates: { lat: -8.53, lng: 125.75 },
+    coords: [125.75, -8.53],
     description: {
       de: "Metinaro dient als zentraler Umschlagplatz für den Fischfang an der Nordküste nahe der Hauptstadt Dili. Hier befinden sich wichtige Kühlanlagen und Verarbeitungsstätten.",
       hu: "Metinaro központi szerepet tölt be az északi partvidék halászatában, közel a fővároshoz. Fontos hűtőházak és feldolgozóüzemek találhatók itt.",
@@ -584,7 +584,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-naturbora-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Naturbora", hu: "Naturbora mezőgazdasági központ", ro: "Centrul agricol Naturbora", en: "Naturbora Agricultural Center" },
-    coordinates: { lat: -8.995, lng: 126.17 },
+    coords: [126.17, -8.995],
     description: {
       de: "Naturbora ist ein bedeutendes Zentrum für die landwirtschaftliche Ausbildung und großflächigen Reisanbau an der Südküste. Es beherbergt eine wichtige technische Fachschule.",
       hu: "Naturbora a mezőgazdasági képzés és a nagyüzemi rizstermesztés jelentős központja a déli parton. Itt található egy fontos szakiskola is.",
@@ -603,7 +603,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-fatumean-manganese-economic-v2",
     type: "mine",
     name: { de: "Manganlagerstätten von Fatumean", hu: "Fatumeani mangánlelőhelyek", ro: "Zăcămintele de mangan din Fatumean", en: "Fatumean Manganese Deposits" },
-    coordinates: { lat: -9.23, lng: 125.04 },
+    coords: [125.04, -9.23],
     description: {
       de: "Die Region Fatumean an der Grenze zu West-Timor verfügt über bedeutende Manganvorkommen. Diese Bodenschätze stellen ein wichtiges Potential für den Bergbausektor dar.",
       hu: "A nyugati határ mentén fekvő Fatumean régió jelentős mangánkészletekkel rendelkezik. Ezek az ásványkincsek fontos potenciált jelentenek a bányászat számára.",
@@ -622,7 +622,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-vemasse-irrigation-economic-v2",
     type: "industry",
     name: { de: "Bewässerungssystem Vemasse", hu: "Vemassei öntözőrendszer", ro: "Sistemul de irigații Vemasse", en: "Vemasse Irrigation Scheme" },
-    coordinates: { lat: -8.51, lng: 126.21 },
+    coords: [126.21, -8.51],
     description: {
       de: "Vemasse ist ein zentrales Gebiet für die Reisproduktion im Norden, das durch ein umfangreiches Kanalsystem bewässert wird. Es sichert die Nahrungsmittelversorgung der Region Baucau.",
       hu: "Vemasse az északi rizstermesztés egyik központi területe, amelyet kiterjedt csatornahálózat öntöz. Ez biztosítja Baucau régió élelmiszerellátását.",
@@ -641,7 +641,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-laleia-rice-economic-v2",
     type: "industry",
     name: { de: "Reisanbaugebiete von Laleia", hu: "Laleiai rizsföldek", ro: "Culturile de orez din Laleia", en: "Laleia Rice Schemes" },
-    coordinates: { lat: -8.54, lng: 126.16 },
+    coords: [126.16, -8.54],
     description: {
       de: "Das Laleia-Becken beherbergt eines der produktivsten Reisanbaugebiete des Landes. Ein komplexes Bewässerungssystem ermöglicht hier mehrere Ernten pro Jahr.",
       hu: "A Laleia-medence az ország egyik legtermékenyebb rizstermesztő vidéke. Az összetett öntözőrendszer lehetővé teszi az évi többszöri betakarítást.",
@@ -660,7 +660,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-uatolari-irrigation-economic-v2",
     type: "industry",
     name: { de: "Bewässerungsprojekt Uatolari", hu: "Uatolari öntözési projekt", ro: "Proiectul de irigații Uatolari", en: "Uatolari Irrigation Scheme" },
-    coordinates: { lat: -8.92, lng: 126.51 },
+    coords: [126.51, -8.92],
     description: {
       de: "Dieses Projekt in der Gemeinde Viqueque nutzt die Wasserressourcen der Region für den intensiven Reisanbau. Es ist ein Eckpfeiler der wirtschaftlichen Entwicklung an der Südküste.",
       hu: "Ez a Viqueque községben található projekt a régió vízkészleteit hasznosítja az intenzív rizstermesztéshez. A déli part gazdasági fejlődésének egyik alapköve.",
@@ -679,7 +679,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-lautem-livestock-economic-v2",
     type: "industry",
     name: { de: "Viehzuchtfarmen von Lautém", hu: "Lautémi állattenyésztő telepek", ro: "Fermele de animale din Lautém", en: "Lautém Livestock Ranches" },
-    coordinates: { lat: -8.37, lng: 126.91 },
+    coords: [126.91, -8.37],
     description: {
       de: "Das Lautém-Plateau ist das wichtigste Zentrum für die Rinderzucht in Timor-Leste. Die weitläufigen Weideflächen ermöglichen eine bedeutende Fleischproduktion für den Inlandsmarkt.",
       hu: "A Lautém-fennsík Timor-Leste legfontosabb szarvasmarha-tenyésztési központja. A kiterjedt legelők jelentős hústermelést tesznek lehetővé a belföldi piac számára.",
@@ -698,7 +698,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-atsabe-coffee-economic-v2",
     type: "factory",
     name: { de: "Kaffeemühlen von Atsabe", hu: "Atsabei kávémalmok", ro: "Morile de cafea din Atsabe", en: "Atsabe Coffee Processing Mills" },
-    coordinates: { lat: -8.93, lng: 125.4 },
+    coords: [125.4, -8.93],
     description: {
       de: "In den Hochlandregionen von Atsabe befinden sich spezialisierte Verarbeitungsbetriebe für hochwertigen Arabica-Kaffee. Diese Anlagen bereiten die Bohnen für den internationalen Export vor.",
       hu: "Atsabe felföldi régióiban speciális feldolgozóüzemek működnek a kiváló minőségű Arabica kávé számára. Ezek az üzemek készítik elő a szemeket a nemzetközi exportra.",
@@ -717,7 +717,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-comoro-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Comoro", hu: "Comoro ipari negyed", ro: "Zona industrială Comoro", en: "Comoro Industrial Area" },
-    coordinates: { lat: -8.555, lng: 125.53 },
+    coords: [125.53, -8.555],
     description: {
       de: "Das Gebiet westlich des Flughafens in Dili ist das wichtigste Zentrum für Leichtindustrie und Logistik. Es beherbergt Fabriken für Baumaterialien und Konsumgüter.",
       hu: "A dili repülőtértől nyugatra fekvő terület a könnyűipar és a logisztika legfontosabb központja. Építőanyag-gyárak és fogyasztási cikkek üzemei találhatók itt.",
@@ -736,7 +736,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-colmera-business-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel Colmera", hu: "Colmera üzleti negyed", ro: "Districtul de afaceri Colmera", en: "Colmera Business District" },
-    coordinates: { lat: -8.556, lng: 125.575 },
+    coords: [125.575, -8.556],
     description: {
       de: "Colmera ist das wirtschaftliche Herz von Dili, in dem sich Banken, Regierungsgebäude und Einzelhandelszentren konzentrieren. Es ist der primäre Ort für kommerzielle Transaktionen.",
       hu: "Colmera Dili gazdasági szíve, ahol bankok, kormányzati épületek és kiskereskedelmi központok összpontosulnak. A kereskedelmi tranzakciók elsődleges helyszíne.",
@@ -755,7 +755,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-viqueque-copra-economic-v2",
     type: "industry",
     name: { de: "Kopra-Produktionszentrum Viqueque", hu: "Viqueque-i kopra-feldolgozó", ro: "Centrul de producție de copră Viqueque", en: "Viqueque Copra Center" },
-    coordinates: { lat: -8.86, lng: 126.36 },
+    coords: [126.36, -8.86],
     description: {
       de: "Viqueque ist ein bedeutendes Anbaugebiet für Kokospalmen zur Gewinnung von Kopra. Das getrocknete Kokosfleisch wird zu Öl weiterverarbeitet oder für den Export vorbereitet.",
       hu: "Viqueque jelentős kókuszpálma-termesztő vidék a kopra előállításához. A szárított kókuszdiót olajjá dolgozzák fel vagy exportra készítik elő.",
@@ -774,7 +774,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-maubara-salt-economic-v2",
     type: "industry",
     name: { de: "Salzgewinnung Maubara", hu: "Maubarai sótermelés", ro: "Producția de sare din Maubara", en: "Maubara Salt Production" },
-    coordinates: { lat: -8.61, lng: 125.21 },
+    coords: [125.21, -8.61],
     description: {
       de: "In der Nähe der Maubara-Lagune wird seit Generationen Salz durch Verdunstung gewonnen. Dieses handwerkliche Produkt ist für die Märkte im Westen des Landes von großer Bedeutung.",
       hu: "A Maubara-lagúna közelében generációk óta folyik a sólepárlás. Ez a kézműves termék nagy jelentőséggel bír az ország nyugati piacai számára.",
@@ -793,7 +793,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-lospalos-candlenut-economic-v2",
     type: "industry",
     name: { de: "Lichtnuss-Zentrum Lospalos", hu: "Lospalosi kemiri-dió központ", ro: "Centrul de nuci de lumânare Lospalos", en: "Lospalos Candlenut Hub" },
-    coordinates: { lat: -8.52, lng: 127.0 },
+    coords: [127.0, -8.52],
     description: {
       de: "Lospalos ist das Hauptgebiet für die Ernte und Verarbeitung von Lichtnüssen (Kemiri). Das aus den Nüssen gewonnene Öl wird in der Kosmetikindustrie und als Brennstoff verwendet.",
       hu: "Lospalos a kemiri-dió betakarításának és feldolgozásának fő területe. A dióból nyert olajat a kozmetikai iparban és üzemanyagként is hasznosítják.",
@@ -812,7 +812,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-fatululic-sandalwood-economic-v2",
     type: "forest",
     name: { de: "Sandelholz-Plantagen Fatu-Lulic", hu: "Fatu-lulic-i szantálfa-ültetvények", ro: "Plantațiile de lemn de santal Fatu-Lulic", en: "Fatu-Lulic Sandalwood Plantations" },
-    coordinates: { lat: -9.18, lng: 125.14 },
+    coords: [125.14, -9.18],
     description: {
       de: "Die Region um Fatu-Lulic ist ein Zentrum für die Wiederaufforstung und Bewirtschaftung von Sandelholz. Dieses historisch wertvolle Gut ist ein wichtiger Teil der zukünftigen Forstwirtschaft.",
       hu: "Fatu-Lulic környéke a szantálfa újratelepítésének és kezelésének központja. Ez a történelmileg értékes áru a jövőbeli erdőgazdálkodás fontos része.",
@@ -831,7 +831,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-baucau-airport-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Flughafen Baucau", hu: "Baucaui repülőtéri logisztikai központ", ro: "Centrul logistic Aeroportul Baucau", en: "Baucau Airport Logistics Hub" },
-    coordinates: { lat: -8.48, lng: 126.4 },
+    coords: [126.4, -8.48],
     description: {
       de: "Der Flughafen Baucau verfügt über die längste Landebahn des Landes und dient als wichtiges Logistikdrehkreuz. Er spielt eine zentrale Rolle für den Warenverkehr im Osten.",
       hu: "A baucaui repülőtér rendelkezik az ország leghosszabb kifutópályájával, és fontos logisztikai csomópontként szolgál. Kulcsszerepe van a keleti áruforgalomban.",
@@ -850,7 +850,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-aileu-timber-economic-v2",
     type: "industry",
     name: { de: "Holzverarbeitung Aileu", hu: "Aileui fafeldolgozó ipar", ro: "Procesarea lemnului Aileu", en: "Aileu Timber Industry" },
-    coordinates: { lat: -8.73, lng: 125.56 },
+    coords: [125.56, -8.73],
     description: {
       de: "Aileu ist ein Zentrum für die nachhaltige Forstwirtschaft und Holzverarbeitung im zentralen Hochland. Hier werden lokale Hölzer für den Bau und die Möbelherstellung vorbereitet.",
       hu: "Aileu a fenntartható erdőgazdálkodás és fafeldolgozás központja a központi felföldön. Itt készítik elő a helyi faanyagot építkezésekhez és bútorgyártáshoz.",
@@ -869,7 +869,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     id: "timorleste-bobonaro-market-economic-v2",
     type: "industry",
     name: { de: "Viehmarkt von Bobonaro", hu: "Bobonaro-i állatvásár", ro: "Piața de animale din Bobonaro", en: "Bobonaro Livestock Market" },
-    coordinates: { lat: -9.03, lng: 125.32 },
+    coords: [125.32, -9.03],
     description: {
       de: "Der Markt in Bobonaro ist einer der größten Umschlagplätze für Vieh im Westen des Landes. Bauern aus der gesamten Grenzregion handeln hier mit Rindern, Büffeln und Schweinen.",
       hu: "A bobonaro-i vásár az ország nyugati részének egyik legnagyobb állatkereskedelmi központja. A határmenti gazdák itt kereskednek marhákkal, bivalyokkal és sertésekkel.",

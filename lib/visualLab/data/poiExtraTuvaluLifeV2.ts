@@ -5,7 +5,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-funafuti-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Funafuti-Naturschutzgebiet", hu: "Funafuti Természetvédelmi Terület", ro: "Aria de Conservare Funafuti", en: "Funafuti Conservation Area" },
-    coordinates: { lat: -8.517, lng: 179.052 },
+    coords: [179.052, -8.517],
     description: {
       de: "Dieses 1996 gegründete Schutzgebiet umfasst sechs unbewohnte Inseln und schützt die marine Artenvielfalt der Lagune.",
       hu: "Az 1996-ban alapított védett terület hat lakatlan szigetet foglal magában a lagúna élővilágának megőrzésére.",
@@ -24,7 +24,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-tepuka-vili-vili-life-v2",
     type: "wildlife",
     name: { de: "Tepuka Vili Vili Insel", hu: "Tepuka Vili Vili-sziget", ro: "Insula Tepuka Vili Vili", en: "Tepuka Vili Vili Islet" },
-    coordinates: { lat: -8.466, lng: 179.083 },
+    coords: [179.083, -8.466],
     description: {
       de: "Ein kleines Inselchen im Funafuti-Atoll, das für seine reiche Korallenwelt und als Nistplatz für Seevögel bekannt ist.",
       hu: "A Funafuti-atoll egyik kis szigete, amely gazdag korallvilágáról és tengeri madarak fészkelőhelyéről ismert.",
@@ -43,7 +43,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-fualopa-islet-life-v2",
     type: "wildlife",
     name: { de: "Fualopa Insel", hu: "Fualopa-sziget", ro: "Insula Fualopa", en: "Fualopa Islet" },
-    coordinates: { lat: -8.481, lng: 179.064 },
+    coords: [179.064, -8.481],
     description: {
       de: "Diese unbewohnte Insel beherbergt eine bedeutende Kolonie von Schwarznoddiseeschwalben in den Pisonia-Wäldern.",
       hu: "Ez a lakatlan sziget jelentős barna noddi kolóniának ad otthont a helyi Pisonia erdőkben.",
@@ -62,7 +62,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-fuafatu-islet-life-v2",
     type: "wildlife",
     name: { de: "Fuafatu Insel", hu: "Fuafatu-sziget", ro: "Insula Fuafatu", en: "Fuafatu Islet" },
-    coordinates: { lat: -8.512, lng: 179.048 },
+    coords: [179.048, -8.512],
     description: {
       de: "Die westlichste Insel des Funafuti-Atolls bietet einen unberührten Lebensraum für pelagische Fische und Korallen.",
       hu: "A Funafuti-atoll legnyugatibb szigete érintetlen élőhelyet biztosít a nyílt tengeri halaknak és koralloknak.",
@@ -81,7 +81,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-vasafua-islet-life-v2",
     type: "wildlife",
     name: { de: "Vasafua Insel", hu: "Vasafua-sziget", ro: "Insula Vasafua", en: "Vasafua Islet" },
-    coordinates: { lat: -8.544, lng: 179.055 },
+    coords: [179.055, -8.544],
     description: {
       de: "Einst eine bewaldete Insel, wurde Vasafua durch Wirbelstürme weitgehend abgetragen und dient heute als Sandbank für Vögel.",
       hu: "Valaha erdős sziget volt, de a ciklonok nagy részét elmosták, ma homokpadként szolgál a madaraknak.",
@@ -100,7 +100,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-nanumea-mangroves-life-v2",
     type: "forest",
     name: { de: "Nanumea Mangrovenwald", hu: "Nanumea mangroveerdő", ro: "Pădurea de Mangrove Nanumea", en: "Nanumea Mangrove Forest" },
-    coordinates: { lat: -5.67, lng: 176.12 },
+    coords: [176.12, -5.67],
     description: {
       de: "Die Mangroven von Nanumea bieten Schutz für Fische und sind ein seltenes Beispiel für dieses Ökosystem in Tuvalu.",
       hu: "Nanumea mangrovéi védelmet nyújtanak a halaknak, és ritka példái ennek az ökoszisztémának Tuvalun.",
@@ -119,7 +119,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-vaitupu-ponds-life-v2",
     type: "lake",
     name: { de: "Vaitupu Süßwasserteiche", hu: "Vaitupu édesvízi tavak", ro: "Iazurile cu apă dulce Vaitupu", en: "Vaitupu Freshwater Ponds" },
-    coordinates: { lat: -7.48, lng: 178.68 },
+    coords: [178.68, -7.48],
     description: {
       de: "Vaitupu besitzt einzigartige Binnengewässer und Sümpfe, die eine spezielle Flora und Fauna in der Inselmitte beherbergen.",
       hu: "Vaitupu egyedülálló belső tavakkal és mocsarakkal rendelkezik, amelyek különleges flórát és faunát rejtenek.",
@@ -138,7 +138,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-niulakita-forest-life-v2",
     type: "forest",
     name: { de: "Niulakita Tropenwald", hu: "Niulakita trópusi erdő", ro: "Pădurea Tropicală Niulakita", en: "Niulakita Tropical Forest" },
-    coordinates: { lat: -10.78, lng: 179.47 },
+    coords: [179.47, -10.78],
     description: {
       de: "Die südlichste Insel Tuvalus ist dicht mit Kokospalmen und Pandanus-Bäumen bewaldet und ein Paradies für Landkrabben.",
       hu: "Tuvalu legdélibbi szigete sűrűn erdősített kókuszpálmákkal és pandanuszfákkal, a szárazföldi rákok paradicsoma.",
@@ -157,7 +157,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-nukulaelae-marine-zone-life-v2",
     type: "wildlife",
     name: { de: "Nukulaelae Marinezone", hu: "Nukulaelae tengeri övezet", ro: "Zona Marină Nukulaelae", en: "Nukulaelae Marine Zone" },
-    coordinates: { lat: -9.38, lng: 179.85 },
+    coords: [179.85, -9.38],
     description: {
       de: "Das Nukulaelae-Atoll ist für seine weite Lagune bekannt, die eine enorme Vielfalt an tropischen Rifffischen beherbergt.",
       hu: "A Nukulaelae-atoll hatalmas lagúnájáról ismert, amely trópusi zátonyhalak óriási változatosságának ad otthont.",
@@ -176,7 +176,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-nukufetau-ecosystem-life-v2",
     type: "wildlife",
     name: { de: "Nukufetau Lagunen-Ökosystem", hu: "Nukufetau lagúna-ökoszisztéma", ro: "Ecosistemul Lagunei Nukufetau", en: "Nukufetau Lagoon Ecosystem" },
-    coordinates: { lat: -8.0, lng: 178.5 },
+    coords: [178.5, -8.0],
     description: {
       de: "Diese große Lagune ist ein wichtiger Lebensraum für verschiedene Haiarten und große Rochen in den tiefen Kanälen.",
       hu: "Ez a hatalmas lagúna fontos élőhelye különböző cápafajoknak és nagy rájáknak a mély csatornákban.",
@@ -195,7 +195,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-nanumanga-coral-shelf-life-v2",
     type: "wildlife",
     name: { de: "Nanumanga Korallenschelf", hu: "Nanumanga korallpad", ro: "Platforma de Corali Nanumanga", en: "Nanumanga Coral Shelf" },
-    coordinates: { lat: -6.28, lng: 176.31 },
+    coords: [176.31, -6.28],
     description: {
       de: "Das steile Korallenschelf von Nanumanga ist berühmt für seine vertikalen Wände, an denen pelagische Fische jagen.",
       hu: "Nanumanga meredek korallpadja híres függőleges falairól, ahol nyílt tengeri halak vadásznak.",
@@ -214,7 +214,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-niutao-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Niutao Feuchtgebiete", hu: "Niutao vizesélőhelyek", ro: "Zonele Umede Niutao", en: "Niutao Wetlands" },
-    coordinates: { lat: -6.11, lng: 177.34 },
+    coords: [177.34, -6.11],
     description: {
       de: "Die geschlossene Lagune von Niutao bildet ein Brackwasser-Feuchtgebiet, das ideal für spezialisierte Krabbenarten ist.",
       hu: "Niutao zárt lagúnája sós mocsaras élőhelyet alkot, amely ideális a speciális rákfajok számára.",
@@ -233,7 +233,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-amatuku-marine-area-life-v2",
     type: "wildlife",
     name: { de: "Amatuku Marinezone", hu: "Amatuku tengeri terület", ro: "Zona Marină Amatuku", en: "Amatuku Marine Area" },
-    coordinates: { lat: -8.52, lng: 179.18 },
+    coords: [179.18, -8.52],
     description: {
       de: "Die Gewässer um Amatuku sind für ihre gesunden Korallengärten und eine hohe Konzentration an Wirbellosen bekannt.",
       hu: "Az Amatuku körüli vizek egészséges korallkertjeikről és a gerinctelenek magas koncentrációjáról ismertek.",
@@ -252,7 +252,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-nui-marine-reserve-life-v2",
     type: "wildlife",
     name: { de: "Nui Meeresreservat", hu: "Nui tengeri rezervátum", ro: "Rezervația Marină Nui", en: "Nui Marine Reserve" },
-    coordinates: { lat: -7.22, lng: 177.15 },
+    coords: [177.15, -7.22],
     description: {
       de: "Nui beherbergt eine außergewöhnliche Korallenbedeckung und dient als wichtige Kinderstube für viele Rifffische.",
       hu: "Nui rendkívüli koralllefedettséggel rendelkezik, és fontos bölcsődéje számos zátonyhalnak.",
@@ -271,7 +271,7 @@ export const tuvaluLifeV2: POI[] = [
     id: "tuvalu-motugatau-bird-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Motugatau Vogelschutzgebiet", hu: "Motugatau madárrezervátum", ro: "Sanctuarul de Păsări Motugatau", en: "Motugatau Bird Sanctuary" },
-    coordinates: { lat: -8.583, lng: 179.088 },
+    coords: [179.088, -8.583],
     description: {
       de: "Diese kleine Insel im Funafuti-Atoll ist ein bedeutendes Refugium für Zugvögel und einheimische Seevogelarten.",
       hu: "Ez a Funafuti-atollon található kis sziget a vándormadarak és az őshonos tengeri madarak fontos menedéke.",

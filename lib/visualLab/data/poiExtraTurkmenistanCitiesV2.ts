@@ -764,7 +764,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-serhetabat-cities-v2",
     type: "town",
     name: { de: "Serhetabat", hu: "Serhetabat", ro: "Serhetabat", en: "Serhetabat" },
-    coordinates: { lat: 35.274, lng: 62.343 },
+    coords: [62.343, 35.274],
     description: {
       de: "Die Kleinstadt liegt am Fluss Kuschka und ist als südlichster Punkt des ehemaligen Russischen Reiches bekannt.",
       hu: "A Kuska-folyó partján fekvő város az egykori Orosz Birodalom legdélebbi pontjaként vált ismertté.",
@@ -783,7 +783,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-sarahs-cities-v2",
     type: "town",
     name: { de: "Sarahs", hu: "Sarahs", ro: "Sarahs", en: "Sarahs" },
-    coordinates: { lat: 36.523, lng: 61.214 },
+    coords: [61.214, 36.523],
     description: {
       de: "Diese historische Oasenstadt an der Seidenstraße liegt direkt an der Grenze zum Iran in der Provinz Ahal.",
       hu: "Ez a Selyemút mentén fekvő történelmi oázisváros közvetlenül az iráni határon található Ahal tartományban.",
@@ -802,7 +802,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-garabogaz-cities-v2",
     type: "town",
     name: { de: "Garabogaz", hu: "Garabogaz", ro: "Garabogaz", en: "Garabogaz" },
-    coordinates: { lat: 41.535, lng: 52.554 },
+    coords: [52.554, 41.535],
     description: {
       de: "Die Industriestadt liegt im Westen des Landes am schmalen Kanal, der das Kaspische Meer mit der Garabogazköl-Lagune verbindet.",
       hu: "Az iparváros az ország nyugati részén fekszik, a Kaszpi-tengert a Garabogazköl-lagúnával összekötő csatornánál.",
@@ -821,7 +821,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-etrek-cities-v2",
     type: "town",
     name: { de: "Etrek", hu: "Etrek", ro: "Etrek", en: "Etrek" },
-    coordinates: { lat: 37.512, lng: 54.448 },
+    coords: [54.448, 37.512],
     description: {
       de: "Die Siedlung ist das Verwaltungszentrum des gleichnamigen Distrikts im Südwesten der Provinz Balkan an der iranischen Grenze.",
       hu: "A település az azonos nevű járás közigazgatási központja Balkan tartomány délnyugati részén, az iráni határnál.",
@@ -840,7 +840,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-halach-cities-v2",
     type: "town",
     name: { de: "Halach", hu: "Halaç", ro: "Halach", en: "Halach" },
-    coordinates: { lat: 38.151, lng: 65.055 },
+    coords: [65.055, 38.151],
     description: {
       de: "Halach ist ein bedeutendes landwirtschaftliches Zentrum in der Provinz Lebap, am linken Ufer des Flusses Amu Darja.",
       hu: "Halaç jelentős mezőgazdasági központ Lebap tartományban, az Amu-darja folyó bal partján.",
@@ -859,7 +859,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-garabekewul-cities-v2",
     type: "town",
     name: { de: "Garabekewül", hu: "Garabekewül", ro: "Garabekewül", en: "Garabekewül" },
-    coordinates: { lat: 38.441, lng: 64.128 },
+    coords: [64.128, 38.441],
     description: {
       de: "Diese Stadt in der Provinz Lebap dient als lokales Handelszentrum für die fruchtbaren Oasen entlang des Amu Darja.",
       hu: "Ez a Lebap tartománybeli város helyi kereskedelmi központként szolgál az Amu-darja menti termékeny oázisok számára.",
@@ -878,7 +878,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-sakarchage-cities-v2",
     type: "town",
     name: { de: "Sakarçäge", hu: "Sakarçäge", ro: "Sakarçäge", en: "Sakarçäge" },
-    coordinates: { lat: 37.602, lng: 61.662 },
+    coords: [61.662, 37.602],
     description: {
       de: "Sakarçäge ist eine Stadt in der Provinz Mary, die durch ein weitläufiges Bewässerungssystem aus dem Karakum-Kanal versorgt wird.",
       hu: "Sakarçäge városa Mary tartományban található, amely a Karakum-csatorna kiterjedt öntözőrendszeréből kapja a vizet.",
@@ -897,7 +897,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-murgap-cities-v2",
     type: "town",
     name: { de: "Murgap", hu: "Murgap", ro: "Murgap", en: "Murgap" },
-    coordinates: { lat: 37.501, lng: 61.972 },
+    coords: [61.972, 37.501],
     description: {
       de: "Die Stadt liegt im Delta des Flusses Murghab und ist ein wichtiger Knotenpunkt für den Gütertransport in der Provinz Mary.",
       hu: "A város a Murgab-folyó deltájában fekszik, és Mary tartomány fontos áruszállítási csomópontja.",
@@ -916,7 +916,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-turkmengala-cities-v2",
     type: "town",
     name: { de: "Türkmengala", hu: "Türkmengala", ro: "Türkmengala", en: "Türkmengala" },
-    coordinates: { lat: 37.595, lng: 62.195 },
+    coords: [62.195, 37.595],
     description: {
       de: "Türkmengala liegt im südöstlichen Teil der Mary-Oase und ist das administrative Zentrum des gleichnamigen Distrikts.",
       hu: "Türkmengala a Mary-oázis délkeleti részén fekszik, és az azonos nevű járás közigazgatási központja.",
@@ -935,7 +935,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-tagtabazar-cities-v2",
     type: "town",
     name: { de: "Tagtabazar", hu: "Tagtabazar", ro: "Tagtabazar", en: "Tagtabazar" },
-    coordinates: { lat: 35.952, lng: 62.724 },
+    coords: [62.724, 35.952],
     description: {
       de: "Die Siedlung liegt am Ufer des Murghab-Flusses im äußersten Süden von Turkmenistan, nahe der Grenze zu Afghanistan.",
       hu: "A település a Murgab-folyó partján fekszik Türkmenisztán távoli déli részén, az afgán határ közelében.",
@@ -954,7 +954,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-esenguly-cities-v2",
     type: "town",
     name: { de: "Esenguly", hu: "Esenguly", ro: "Esenguly", en: "Esenguly" },
-    coordinates: { lat: 37.476, lng: 53.974 },
+    coords: [53.974, 37.476],
     description: {
       de: "Esenguly ist eine Hafenstadt am Kaspischen Meer im Südwesten der Provinz Balkan, unweit der Grenze zum Iran.",
       hu: "Esenguly egy kikötőváros a Kaszpi-tenger partján, Balkan tartomány délnyugati részén, az iráni határ közelében.",
@@ -973,7 +973,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-dostluk-cities-v2",
     type: "town",
     name: { de: "Dostluk", hu: "Dostluk", ro: "Dostluk", en: "Dostluk" },
-    coordinates: { lat: 37.352, lng: 66.155 },
+    coords: [66.155, 37.352],
     description: {
       de: "Die Grenzstadt Dostluk liegt im äußersten Osten Turkmenistans in der Provinz Lebap, direkt an der Grenze zu Usbekistan.",
       hu: "Dostluk határváros Türkmenisztán távoli keleti részén, Lebap tartományban, közvetlenül az üzbég határnál.",
@@ -992,7 +992,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-akdepe-cities-v2",
     type: "town",
     name: { de: "Akdepe", hu: "Akdepe", ro: "Akdepe", en: "Akdepe" },
-    coordinates: { lat: 42.054, lng: 59.385 },
+    coords: [59.385, 42.054],
     description: {
       de: "Akdepe ist eine Stadt in der Provinz Daşoguz, die als wichtiges Zentrum für die Landwirtschaft im Norden des Landes dient.",
       hu: "Akdepe városa Daşoguz tartományban található, amely az ország északi részének fontos mezőgazdasági központja.",
@@ -1011,7 +1011,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-saparmurat-turkmenbashy-cities-v2",
     type: "town",
     name: { de: "Saparmurat Türkmenbaşy", hu: "Saparmurat Türkmenbaşy", ro: "Saparmurat Türkmenbaşy", en: "Saparmurat Türkmenbaşy" },
-    coordinates: { lat: 42.175, lng: 58.735 },
+    coords: [58.735, 42.175],
     description: {
       de: "Diese Stadt im Norden der Provinz Daşoguz wurde nach dem ersten Präsidenten Turkmenistans benannt.",
       hu: "Ez az észak-daşoguzi város Türkmenisztán első elnökéről kapta a nevét.",
@@ -1030,7 +1030,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-ruhubelent-cities-v2",
     type: "town",
     name: { de: "Ruhubelent", hu: "Ruhubelent", ro: "Ruhubelent", en: "Ruhubelent" },
-    coordinates: { lat: 41.152, lng: 58.555 },
+    coords: [58.555, 41.152],
     description: {
       de: "Ruhubelent ist ein neu gegründetes Verwaltungszentrum in der Provinz Daşoguz, das die Erschließung von Neuland fördert.",
       hu: "Ruhubelent egy újonnan alapított közigazgatási központ Daşoguz tartományban, amely az új földek művelésbe vonását segíti.",
@@ -1049,7 +1049,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-koytendag-cities-v2",
     type: "town",
     name: { de: "Köýtendag", hu: "Köýtendag", ro: "Köýtendag", en: "Köýtendag" },
-    coordinates: { lat: 37.825, lng: 66.024 },
+    coords: [66.024, 37.825],
     description: {
       de: "Die Stadt liegt am Fuße des Köýtendag-Gebirges in der Provinz Lebap und ist das Tor zu den Naturwundern der Region.",
       hu: "A város a Köýtendag-hegység lábánál fekszik Lebap tartományban, és a régió természeti csodáinak kapuja.",
@@ -1068,7 +1068,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-altyn-asyr-cities-v2",
     type: "town",
     name: { de: "Altyn Asyr", hu: "Altyn Asyr", ro: "Altyn Asyr", en: "Altyn Asyr" },
-    coordinates: { lat: 37.382, lng: 59.505 },
+    coords: [59.505, 37.382],
     description: {
       de: "Altyn Asyr ist eine Stadt in der Provinz Ahal, die nach der 'Goldenen Ära' Turkmenistans benannt wurde.",
       hu: "Altyn Asyr egy város Ahal tartományban, amelyet Türkmenisztán 'aranykoráról' neveztek el.",
@@ -1087,7 +1087,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-babadayhan-cities-v2",
     type: "town",
     name: { de: "Babadaýhan", hu: "Babadaýhan", ro: "Babadaýhan", en: "Babadaýhan" },
-    coordinates: { lat: 37.332, lng: 60.505 },
+    coords: [60.505, 37.332],
     description: {
       de: "Babadaýhan ist eine Siedlung in der Provinz Ahal, die eine wichtige Rolle in der landwirtschaftlichen Erschließung der Region spielt.",
       hu: "Babadaýhan egy település Ahal tartományban, amely fontos szerepet játszik a régió mezőgazdasági fejlesztésében.",
@@ -1106,7 +1106,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-sa-nyyazow-cities-v2",
     type: "town",
     name: { de: "S.A. Nyýazow", hu: "S.A. Nyýazow", ro: "S.A. Nyýazow", en: "S.A. Nyýazow" },
-    coordinates: { lat: 41.872, lng: 59.784 },
+    coords: [59.784, 41.872],
     description: {
       de: "Die Stadt im Distrikt Daşoguz ist ein lebhaftes Handels- und Landwirtschaftszentrum im Norden Turkmenistans.",
       hu: "A Daşoguz járásbeli város Türkmenisztán északi részének élénk kereskedelmi és mezőgazdasági központja.",
@@ -1125,7 +1125,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-garashsyzlyk-cities-v2",
     type: "town",
     name: { de: "Garaşsyzlyk", hu: "Garaşsyzlyk", ro: "Garaşsyzlyk", en: "Garaşsyzlyk" },
-    coordinates: { lat: 38.852, lng: 63.554 },
+    coords: [63.554, 38.852],
     description: {
       de: "Die Stadt Garaşsyzlyk in der Provinz Lebap ist ein wichtiges regionales Zentrum für den Handel und die Industrie.",
       hu: "Garaşsyzlyk városa Lebap tartományban található, fontos regionális kereskedelmi és ipari központ.",
@@ -1144,7 +1144,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-sakar-cities-v2",
     type: "town",
     name: { de: "Sakar", hu: "Sakar", ro: "Sakar", en: "Sakar" },
-    coordinates: { lat: 38.885, lng: 63.782 },
+    coords: [63.782, 38.885],
     description: {
       de: "Sakar ist eine kleine Stadt in der Provinz Lebap, die für ihre traditionelle Lebensweise und Landwirtschaft am Amu Darja bekannt ist.",
       hu: "Sakar egy kisváros Lebap tartományban, amely a hagyományos életmódjáról és az Amu-darja menti mezőgazdaságáról ismert.",
@@ -1163,7 +1163,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-garametniyaz-cities-v2",
     type: "town",
     name: { de: "Garametniýaz", hu: "Garametniýaz", ro: "Garametniýaz", en: "Garametniýaz" },
-    coordinates: { lat: 38.102, lng: 64.954 },
+    coords: [64.954, 38.102],
     description: {
       de: "Diese Siedlung in der Provinz Lebap liegt am Rande der Wüste Karakum und ist ein wichtiger Stützpunkt für die Viehzucht.",
       hu: "Ez a Lebap tartománybeli település a Karakum-sivatag szélén fekszik, és az állattenyésztés fontos bázisa.",
@@ -1182,7 +1182,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-zerger-cities-v2",
     type: "town",
     name: { de: "Zerger", hu: "Zerger", ro: "Zerger", en: "Zerger" },
-    coordinates: { lat: 39.055, lng: 63.454 },
+    coords: [63.454, 39.055],
     description: {
       de: "Zerger ist eine Industriestadt in der Nähe von Türkmenabat, die als wichtiger Eisenbahnknotenpunkt und Versorgungszentrum dient.",
       hu: "Zerger egy Türkmenabat közeli iparváros, amely fontos vasúti csomópontként és ellátó központként szolgál.",
@@ -1201,7 +1201,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-shatlyk-cities-v2",
     type: "town",
     name: { de: "Şatlyk", hu: "Şatlyk", ro: "Șatlyk", en: "Shatlyk" },
-    coordinates: { lat: 37.585, lng: 61.354 },
+    coords: [61.354, 37.585],
     description: {
       de: "Die Stadt Şatlyk wurde als Wohnsiedlung für die Arbeiter der nahegelegenen Erdgasfelder in der Provinz Mary gegründet.",
       hu: "Şatlyk városát a Mary tartománybeli közeli földgázmezők dolgozóinak lakóhelyeként alapították.",
@@ -1220,7 +1220,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-sandykgachy-cities-v2",
     type: "town",
     name: { de: "Sandykgaçy", hu: "Sandykgaçy", ro: "Sandykgaçy", en: "Sandykgaçy" },
-    coordinates: { lat: 36.532, lng: 62.554 },
+    coords: [62.554, 36.532],
     description: {
       de: "Sandykgaçy liegt im malerischen Tal des Flusses Murghab und ist bekannt für seine fruchtbaren Obstgärten.",
       hu: "Sandykgaçy a Murgab-folyó festői völgyében fekszik, és termékeny gyümölcsöskertjeiről ismert.",
@@ -1239,7 +1239,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-okarem-cities-v2",
     type: "town",
     name: { de: "Okarem", hu: "Okarem", ro: "Okarem", en: "Okarem" },
-    coordinates: { lat: 38.482, lng: 53.054 },
+    coords: [53.054, 38.482],
     description: {
       de: "Okarem ist eine spezialisierte Industriesiedlung an der Küste des Kaspischen Meeres, die dem Öl- und Gassektor gewidmet ist.",
       hu: "Okarem egy speciális ipari település a Kaszpi-tenger partján, amelyet az olaj- és gázszektornak szenteltek.",
@@ -1258,7 +1258,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-gulanly-cities-v2",
     type: "town",
     name: { de: "Gulanly", hu: "Gulanly", ro: "Gulanly", en: "Gulanly" },
-    coordinates: { lat: 37.522, lng: 62.054 },
+    coords: [62.054, 37.522],
     description: {
       de: "Gulanly ist ein bedeutendes landwirtschaftliches Dorf in der Provinz Mary, das Teil des intensiven Oasen-Anbaus ist.",
       hu: "Gulanly egy jelentős mezőgazdasági falu Mary tartományban, amely az intenzív oázis-művelés része.",
@@ -1277,7 +1277,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-mollanepes-cities-v2",
     type: "town",
     name: { de: "Mollanepes", hu: "Mollanepes", ro: "Mollanepes", en: "Mollanepes" },
-    coordinates: { lat: 37.625, lng: 61.854 },
+    coords: [61.854, 37.625],
     description: {
       de: "Diese Stadt in der Provinz Mary wurde zu Ehren des berühmten turkmenischen Dichters Mollanepes benannt.",
       hu: "Ezt a Mary tartománybeli várost a híres türkmén költő, Mollanepes tiszteletére nevezték el.",
@@ -1296,7 +1296,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-yerbent-cities-v2",
     type: "village",
     name: { de: "Ýerbent", hu: "Ýerbent", ro: "Ýerbent", en: "Yerbent" },
-    coordinates: { lat: 39.324, lng: 58.602 },
+    coords: [58.602, 39.324],
     description: {
       de: "Ýerbent ist eine traditionelle Wüstensiedlung im Zentrum der Karakum-Wüste, die einen Einblick in das Leben der Nomaden bietet.",
       hu: "Ýerbent egy hagyományos sivatagi település a Karakum-sivatag közepén, amely betekintést nyújt a nomádok életébe.",
@@ -1315,7 +1315,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "turkmenistan-bokurdak-cities-v2",
     type: "village",
     name: { de: "Bokurdak", hu: "Bokurdak", ro: "Bokurdak", en: "Bokurdak" },
-    coordinates: { lat: 38.985, lng: 58.424 },
+    coords: [58.424, 38.985],
     description: {
       de: "Die Siedlung Bokurdak liegt an der Straße zwischen Aşgabat und Daşoguz inmitten der weiten Sandlandschaft der Karakum.",
       hu: "Bokurdak települése az Aşgabat és Daşoguz közötti út mentén fekszik a Karakum hatalmas homokos tájának közepén.",

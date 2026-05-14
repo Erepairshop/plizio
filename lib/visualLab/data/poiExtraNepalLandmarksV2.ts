@@ -627,7 +627,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-mahabouddha-temple-landmarks-v2",
     type: "temple",
     name: { de: "Mahabouddha-Tempel", hu: "Mahabouddha templom", ro: "Templul Mahabouddha", en: "Mahabouddha Temple" },
-    coordinates: { lat: 27.6715, lng: 85.3276 },
+    coords: [85.3276, 27.6715],
     description: {
       de: "Dieser Terrakotta-Tempel in Patan ist als 'Tempel der tausend Buddhas' bekannt, da jeder Ziegel ein Buddha-Bild trägt.",
       hu: "Ez a patani terrakotta templom az 'ezer Buddha templomaként' ismert, mivel minden téglája Buddha-képet ábrázol.",
@@ -646,7 +646,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-kumbheshwar-temple-landmarks-v2",
     type: "temple",
     name: { de: "Kumbheshwar-Tempel", hu: "Kumbheshwar templom", ro: "Templul Kumbheshwar", en: "Kumbheshwar Temple" },
-    coordinates: { lat: 27.6792, lng: 85.3255 },
+    coords: [85.3255, 27.6792],
     description: {
       de: "Einer der wenigen fünfstöckigen Pagoden-Tempel im Kathmandu-Tal, gewidmet dem Gott Shiva.",
       hu: "A Katmandu-völgy azon kevés ötszintes pagodatemplomának egyike, amelyet Shiva istennek szenteltek.",
@@ -665,7 +665,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-bhairab-nath-temple-landmarks-v2",
     type: "temple",
     name: { de: "Bhairab-Nath-Tempel", hu: "Bhairab Nath templom", ro: "Templul Bhairab Nath", en: "Bhairab Nath Temple" },
-    coordinates: { lat: 27.6722, lng: 85.4288 },
+    coords: [85.4288, 27.6722],
     description: {
       de: "Ein imposanter dreistöckiger Tempel am Taumadhi-Platz in Bhaktapur, gewidmet der furchterregenden Inkarnation Shivas.",
       hu: "Impozáns háromszintes templom a bhaktapuri Taumadhi téren, amelyet Siva félelmetes inkarnációjának szenteltek.",
@@ -684,7 +684,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-siddha-pokhari-landmarks-v2",
     type: "lake",
     name: { de: "Siddha Pokhari", hu: "Siddha Pokhari", ro: "Siddha Pokhari", en: "Siddha Pokhari" },
-    coordinates: { lat: 27.6745, lng: 85.4215 },
+    coords: [85.4215, 27.6745],
     description: {
       de: "Dieser rechteckige künstliche Teich in Bhaktapur ist einer der ältesten und größten historischen Wasserspeicher der Stadt.",
       hu: "Ez a téglalap alakú mesterséges tó Bhaktapurban a város egyik legrégebbi és legnagyobb történelmi víztározója.",
@@ -703,7 +703,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-seto-machindranath-temple-landmarks-v2",
     type: "temple",
     name: { de: "Seto Machindranath Tempel", hu: "Seto Machindranath templom", ro: "Templul Seto Machindranath", en: "Seto Machindranath Temple" },
-    coordinates: { lat: 27.7065, lng: 85.3128 },
+    coords: [85.3128, 27.7065],
     description: {
       de: "Ein bedeutender buddhistischer und hinduistischer Tempel in Kathmandu, gewidmet dem Gott des Regens.",
       hu: "Katmandu jelentős buddhista és hindu temploma, amelyet az eső istenének szenteltek.",
@@ -722,7 +722,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-akash-bhairav-temple-landmarks-v2",
     type: "temple",
     name: { de: "Akash Bhairav Tempel", hu: "Akash Bhairav templom", ro: "Templul Akash Bhairav", en: "Akash Bhairav Temple" },
-    coordinates: { lat: 27.7061, lng: 85.3121 },
+    coords: [85.3121, 27.7061],
     description: {
       de: "Dieser Tempel am Indra Chowk beherbergt den Kopf von Akash Bhairav, dem Gott des Himmels.",
       hu: "Ez az Indra Chowk-on található templom őrzi Akash Bhairav, az ég istenének fejét.",
@@ -741,7 +741,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-kala-bhairav-landmarks-v2",
     type: "monument",
     name: { de: "Kala Bhairav", hu: "Kala Bhairav", ro: "Kala Bhairav", en: "Kala Bhairav" },
-    coordinates: { lat: 27.7042, lng: 85.3065 },
+    coords: [85.3065, 27.7042],
     description: {
       de: "Eine riesige Steinskulptur des schwarzen Bhairav auf dem Kathmandu Durbar Square, die Gerechtigkeit symbolisiert.",
       hu: "A fekete Bhairav hatalmas kőszobra a katmandui Durbar téren, amely az igazságosságot jelképezi.",
@@ -760,7 +760,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-kaisar-mahal-landmarks-v2",
     type: "palace",
     name: { de: "Kaisar Mahal", hu: "Kaisar Mahal", ro: "Kaisar Mahal", en: "Kaisar Mahal" },
-    coordinates: { lat: 27.7145, lng: 85.3155 },
+    coords: [85.3155, 27.7145],
     description: {
       de: "Ein historischer Palast in Kathmandu, der die berühmte Kaiser-Bibliothek mit einer wertvollen Sammlung alter Manuskripte beherbergt.",
       hu: "Történelmi palota Katmanduban, amely a híres Kaiser Könyvtárnak és régi kéziratok értékes gyűjteményének ad otthont.",
@@ -779,7 +779,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-amitabha-monastery-landmarks-v2",
     type: "monastery",
     name: { de: "Amitabha-Kloster", hu: "Amitabha kolostor", ro: "Mănăstirea Amitabha", en: "Amitabha Monastery" },
-    coordinates: { lat: 27.7218, lng: 85.2678 },
+    coords: [85.2678, 27.7218],
     description: {
       de: "Auch als Weißes Gumba bekannt, bietet dieses Kloster auf einem Hügel eine spektakuläre Aussicht auf das Kathmandu-Tal.",
       hu: "Fehér Gumbaként is ismert, ez a dombtetőn lévő kolostor látványos kilátást nyújt a Katmandu-völgyre.",
@@ -798,7 +798,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-shechen-monastery-landmarks-v2",
     type: "monastery",
     name: { de: "Shechen-Kloster", hu: "Shechen kolostor", ro: "Mănăstirea Shechen", en: "Shechen Monastery" },
-    coordinates: { lat: 27.7212, lng: 85.3595 },
+    coords: [85.3595, 27.7212],
     description: {
       de: "Eines der sechs Hauptklöster der Nyingma-Tradition des tibetischen Buddhismus, gelegen nahe dem Boudhanath-Stupa.",
       hu: "A tibeti buddhizmus Nyingma hagyományának hat fő kolostorának egyike, a Boudhanath sztúpa közelében.",
@@ -817,7 +817,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-khawalung-monastery-landmarks-v2",
     type: "monastery",
     name: { de: "Khawalung-Kloster", hu: "Khawalung kolostor", ro: "Mănăstirea Khawalung", en: "Khawalung Monastery" },
-    coordinates: { lat: 27.7265, lng: 85.3621 },
+    coords: [85.3621, 27.7265],
     description: {
       de: "Ein farbenfrohes tibetisches Kloster in Kathmandu, das sich der Bewahrung der buddhistischen Lehren und Kultur widmet.",
       hu: "Színes tibeti kolostor Katmanduban, amely a buddhista tanítások és kultúra megőrzésének szentelt.",
@@ -836,7 +836,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-ashoka-pillar-landmarks-v2",
     type: "monument",
     name: { de: "Ashoka-Säule", hu: "Asóka-oszlop", ro: "Stâlpul lui Ashoka", en: "Ashoka Pillar" },
-    coordinates: { lat: 27.4812, lng: 83.2761 },
+    coords: [83.2761, 27.4812],
     description: {
       de: "Diese Steinsäule in Lumbini wurde von Kaiser Ashoka errichtet, um den Geburtsort des Buddha zu markieren.",
       hu: "Ezt a lumbini kőoszlopot Asóka császár állította, hogy megjelölje Buddha születési helyét.",
@@ -855,7 +855,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-maya-devi-temple-landmarks-v2",
     type: "temple",
     name: { de: "Maya Devi Tempel", hu: "Maya Devi templom", ro: "Templul Maya Devi", en: "Maya Devi Temple" },
-    coordinates: { lat: 27.4815, lng: 83.2764 },
+    coords: [83.2764, 27.4815],
     description: {
       de: "Der wichtigste Tempel in Lumbini, der den genauen Ort markiert, an dem Königin Maya Devi Prinz Siddhartha zur Welt brachte.",
       hu: "Lumbini legfontosabb temploma, amely azt a helyet jelöli, ahol Maya Devi királynő világra hozta Sziddhártha herceget.",
@@ -874,7 +874,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-karnali-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Karnali-Brücke", hu: "Karnali híd", ro: "Podul Karnali", en: "Karnali Bridge" },
-    coordinates: { lat: 28.6415, lng: 81.2825 },
+    coords: [81.2825, 28.6415],
     description: {
       de: "Eine beeindruckende Schrägseilbrücke über den Karnali-Fluss, die den Westen Nepals mit dem Rest des Landes verbindet.",
       hu: "Lenyűgöző ferdekábeles híd a Karnali-folyó felett, amely Nyugat-Nepált köti össze az ország többi részével.",
@@ -893,7 +893,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-upardangadi-fort-landmarks-v2",
     type: "ruins",
     name: { de: "Upardangadi-Festung", hu: "Upardangadi erőd", ro: "Fortăreața Upardangadi", en: "Upardangadi Fort" },
-    coordinates: { lat: 27.7132, lng: 84.5121 },
+    coords: [84.5121, 27.7132],
     description: {
       de: "Eine historische Festung im Chitwan-Distrikt, die einst das strategische Zentrum der Region war.",
       hu: "Történelmi erőd a Chitwan körzetben, amely egykor a régió stratégiai központja volt.",
@@ -912,7 +912,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-bhadrakali-temple-landmarks-v2",
     type: "temple",
     name: { de: "Bhadrakali-Tempel", hu: "Bhadrakali templom", ro: "Templul Bhadrakali", en: "Bhadrakali Temple" },
-    coordinates: { lat: 27.6985, lng: 85.3168 },
+    coords: [85.3168, 27.6985],
     description: {
       de: "Ein bedeutender Hindu-Tempel in Kathmandu, der der Göttin Bhadrakali gewidmet ist und nahe dem Tundikhel liegt.",
       hu: "Jelentős hindu templom Katmanduban, amelyet Bhadrakali istennőnek szenteltek, a Tundikhel közelében.",
@@ -931,7 +931,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-sobha-baghwati-temple-landmarks-v2",
     type: "temple",
     name: { de: "Sobha-Baghwati-Tempel", hu: "Sobha Baghwati templom", ro: "Templul Sobha Baghwati", en: "Sobha Baghwati Temple" },
-    coordinates: { lat: 27.7168, lng: 85.2985 },
+    coords: [85.2985, 27.7168],
     description: {
       de: "Ein heiliger Tempel am Ufer des Bishnumati-Flusses, der für seine spirituelle Bedeutung bekannt ist.",
       hu: "Szent templom a Bishnumati-folyó partján, amely spirituális jelentőségéről ismert.",
@@ -950,7 +950,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-rudra-varna-mahavihar-landmarks-v2",
     type: "monastery",
     name: { de: "Rudra-Varna-Mahavihar", hu: "Rudra Varna Mahavihar", ro: "Rudra Varna Mahavihar", en: "Rudra Varna Mahavihar" },
-    coordinates: { lat: 27.6718, lng: 85.3291 },
+    coords: [85.3291, 27.6718],
     description: {
       de: "Eines der ältesten buddhistischen Klöster in Patan, bekannt für seine beeindruckende Sammlung von Bronzestatuen.",
       hu: "Patan egyik legrégebbi buddhista kolostora, amely lenyűgöző bronzszobor-gyűjteményéről ismert.",
@@ -969,7 +969,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-gadhimai-temple-landmarks-v2",
     type: "temple",
     name: { de: "Gadhi-Mai-Tempel", hu: "Gadhi Mai templom", ro: "Templul Gadhi Mai", en: "Gadhi Mai Temple" },
-    coordinates: { lat: 26.8532, lng: 85.0358 },
+    coords: [85.0358, 26.8532],
     description: {
       de: "Ein bedeutender Hindu-Tempel im Süden Nepals, bekannt für sein großes religiöses Festival alle fünf Jahre.",
       hu: "Jelentős hindu templom Dél-Nepálban, amely az ötévente megrendezett nagy vallási fesztiváljáról ismert.",
@@ -988,7 +988,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-indreshwar-mahadev-temple-landmarks-v2",
     type: "temple",
     name: { de: "Indreshwar-Mahadev-Tempel", hu: "Indreshwar Mahadev templom", ro: "Templul Indreshwar Mahadev", en: "Indreshwar Mahadev Temple" },
-    coordinates: { lat: 27.5842, lng: 85.5165 },
+    coords: [85.5165, 27.5842],
     description: {
       de: "Einer der größten und ältesten Pagoden-Tempel Nepals, gelegen in der historischen Stadt Panauti.",
       hu: "Nepál egyik legnagyobb és legrégebbi pagodatemploma, a történelmi Panauti városában.",
@@ -1007,7 +1007,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "nepal-jalbinayak-temple-landmarks-v2",
     type: "temple",
     name: { de: "Jalbinayak-Tempel", hu: "Jalbinayak templom", ro: "Templul Jalbinayak", en: "Jalbinayak Temple" },
-    coordinates: { lat: 27.6625, lng: 85.2915 },
+    coords: [85.2915, 27.6625],
     description: {
       de: "Ein wichtiger Ganesha-Tempel nahe der Chobar-Schlucht, der am Ufer des Bagmati-Flusses liegt.",
       hu: "Fontos Ganésa-templom a Chobar-szoros közelében, a Bagmati-folyó partján.",

@@ -903,7 +903,7 @@ export const poiExtraCubaHistoryV2: POI[] = [
     id: "cuba-fuerte-del-norte-history-v2",
     type: "landmark",
     name: { de: "Fuerte del Norte", hu: "Fuerte del Norte", ro: "Fuerte del Norte", en: "Fuerte del Norte" },
-    coordinates: { lat: 23.1534, lng: -82.3589 },
+    coords: [-82.3589, 23.1534],
     description: {
       de: "Diese Befestigung diente im 18. Jahrhundert zum Schutz der Bucht von Havanna. Sie war Teil des Verteidigungssystems gegen Piratenangriffe.",
       hu: "Ez az erődítmény a 18. században Havanna öblének védelmét szolgálta. A kalóztámadások elleni védelmi rendszer részét képezte.",
@@ -922,7 +922,7 @@ export const poiExtraCubaHistoryV2: POI[] = [
     id: "cuba-sitio-arqueologico-canimar-history-v2",
     type: "ruins",
     name: { de: "Canímar Archäologische Stätte", hu: "Canímar régészeti lelőhely", ro: "Sit arheologic Canímar", en: "Canímar Archaeological Site" },
-    coordinates: { lat: 23.0333, lng: -81.5 },
+    coords: [-81.5, 23.0333],
     description: {
       de: "Das Gebiet am Fluss Canímar beherbergt bedeutende Funde indigener Kulturen. Ausgrabungen liefern Erkenntnisse über das präkolumbische Leben.",
       hu: "A Canímar-folyó mentén található terület jelentős bennszülött kultúrájú leleteket rejt. Az ásatások betekintést nyújtanak a Kolumbusz előtti életbe.",
@@ -936,12 +936,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Pre-Columbian findings", "Riverside settlements", "Scientifically researched", "Regional history"],
     },
     imageHint: "river landscape archaeological dig site Cuba",
+    descriptionAdvanced: {
+      de: "Die archäologische Stätte Canímar nahe Matanzas ist ein bedeutender Fundort der Taíno-Kultur. Die Anlage, die aus mehreren Felszeichnungen und Petroglyphen besteht, wurde im 15. Jahrhundert von den Ureinwohnern Kubas genutzt. Die Gravuren zeigen spirituelle Symbole und Jagdszenen. Die Stätte liegt an einer Flussmündung, was auf eine strategische Siedlungslage hinweist. Archäologische Grabungen förderten Keramikreste und Werkzeuge zutage, die auf eine komplexe Gesellschaftsstruktur schließen lassen. Die Felsmalereien sind in einem guten Erhaltungszustand, da die Umgebung klimatisch geschützt ist.",
+      hu: "A Canímar régészeti lelőhely Matanzas közelében a Taíno kultúra fontos emléke. A sziklafaragványok és petroglifák együttesét a 15. században használták Kuba őslakosai. A vésetek spirituális szimbólumokat és vadászati jeleneteket ábrázolnak. A lelőhely egy folyótorkolatnál fekszik, ami stratégiai településhelyre utal. Az ásatások során kerámiatöredékeket és szerszámokat találtak, amelyek összetett társadalmi szerkezetre engednek következtetni. A sziklafestmények jó állapotban maradtak fenn a védett klímának köszönhetően.",
+      ro: "Situl arheologic Canímar, lângă Matanzas, este un important sit al culturii Taíno. Ansamblul, format din mai multe gravuri rupestre și petroglife, a fost folosit în secolul al XV-lea de către băștinașii Cubei. Inciziile reprezintă simboluri spirituale și scene de vânătoare. Situl este situat la vărsarea unui râu, indicând o așezare strategică. Săpăturile arheologice au scos la iveală fragmente ceramice și unelte, indicând o structură socială complexă. Picturile rupestre sunt bine conservate datorită climei protejate.",
+      en: "The Canímar Archaeological Site near Matanzas is a significant Taíno cultural site. It features a collection of rock carvings and petroglyphs used by Cuba's indigenous people in the 15th century. The engravings depict spiritual symbols and hunting scenes. Located at a river mouth, the site indicates a strategic settlement. Excavations uncovered pottery fragments and tools, suggesting a complex social structure. The rock paintings are well-preserved due to the protected climate.",
+    },
+    factsAdvanced: {
+      de: ["Alter der Petroglyphen: ca. 500 Jahre", "Entfernung zu Matanzas: 10 km", "Anzahl der Felszeichnungen: über 30", "Ausgrabungsfläche: 200 m²", "Höhe über dem Meeresspiegel: 15 m", "Erste archäologische Untersuchung: 1998"],
+      hu: ["A petroglifák kora: kb. 500 év", "Távolság Matanzastól: 10 km", "Sziklavésetek száma: több mint 30", "Feltárási terület: 200 m²", "Tengerszint feletti magasság: 15 m", "Első régészeti kutatás: 1998"],
+      ro: ["Vârsta petroglifelor: aprox. 500 de ani", "Distanța față de Matanzas: 10 km", "Numărul de gravuri rupestre: peste 30", "Suprafața excavată: 200 m²", "Altitudinea: 15 m deasupra nivelului mării", "Prima cercetare arheologică: 1998"],
+      en: ["Age of petroglyphs: approx. 500 years", "Distance from Matanzas: 10 km", "Number of rock carvings: over 30", "Excavated area: 200 m²", "Elevation: 15 m above sea level", "First archaeological survey: 1998"],
+    },
   },
   {
     id: "cuba-castillo-de-la-luz-history-v2",
     type: "castle",
     name: { de: "Castillo de la Luz", hu: "Castillo de la Luz", ro: "Castillo de la Luz", en: "Castillo de la Luz" },
-    coordinates: { lat: 23.1411, lng: -82.3875 },
+    coords: [-82.3875, 23.1411],
     description: {
       de: "Diese kleine Festung bewachte während der Kolonialzeit den westlichen Küstenabschnitt. Sie ist ein Beispiel für befestigte Verteidigungsposten.",
       hu: "Ez a kis erőd a gyarmati időkben őrizte a nyugati partszakaszt. A megerősített védelmi állások egyik példája.",
@@ -955,12 +967,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Built in 19th century", "Coastal protection", "Stone construction", "Restored monument"],
     },
     imageHint: "small stone coastal fortress tower",
+    descriptionAdvanced: {
+      de: "Das Castillo de la Luz in Havanna ist eine historische Festung aus dem 16. Jahrhundert. Es wurde 1570 erbaut, um die Bucht von Havanna vor Piratenangriffen zu schützen. Die Festung hat eine rechteckige Grundform mit dicken Steinmauern und einem zentralen Innenhof. Sie diente als Leuchtturm und Gefängnis. Im 18. Jahrhundert wurde sie umgebaut. Heute beherbergt sie ein Museum zur Schifffahrtsgeschichte. Die Anlage ist ein Beispiel spanischer Militärarchitektur in der Karibik.",
+      hu: "A Castillo de la Luz Havannában egy 16. századi történelmi erőd. 1570-ben épült a havannai öböl kalóztámadások elleni védelmére. Az erőd téglalap alakú, vastag kőfalakkal és központi belső udvarral. Világítótoronyként és börtönként szolgált. A 18. században átépítették. Ma tengerészeti múzeum működik benne. Az építmény a spanyol katonai építészet karibi példája.",
+      ro: "Castillo de la Luz din Havana este o fortăreață istorică din secolul al XVI-lea. A fost construit în 1570 pentru a proteja golful Havana de atacurile piraților. Fortul are formă dreptunghiulară, cu ziduri groase de piatră și o curte interioară centrală. A servit ca far și închisoare. În secolul al XVIII-lea a fost renovat. Astăzi găzduiește un muzeu de istorie maritimă. Este un exemplu de arhitectură militară spaniolă în Caraibe.",
+      en: "Castillo de la Luz in Havana is a 16th-century fortress built in 1570 to protect Havana Bay from pirate attacks. It features a rectangular layout with thick stone walls and a central courtyard. It served as a lighthouse and prison. Renovated in the 18th century, it now houses a maritime history museum. The structure exemplifies Spanish military architecture in the Caribbean.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1570", "Mauerstärke: 2 m", "Innenhofgröße: 400 m²", "Höhe des Leuchtturms: 18 m", "Anzahl der Kanonen: 12", "Erster Umbau: 1725"],
+      hu: ["Építés éve: 1570", "Falvastagság: 2 m", "Belső udvar mérete: 400 m²", "Világítótorony magassága: 18 m", "Ágyúk száma: 12", "Első átépítés: 1725"],
+      ro: ["Anul construirii: 1570", "Grosimea zidurilor: 2 m", "Dimensiunea curții interioare: 400 m²", "Înălțimea farului: 18 m", "Numărul de tunuri: 12", "Prima renovare: 1725"],
+      en: ["Year built: 1570", "Wall thickness: 2 m", "Courtyard size: 400 m²", "Lighthouse height: 18 m", "Number of cannons: 12", "First renovation: 1725"],
+    },
   },
   {
     id: "cuba-ruinas-de-san-pedro-history-v2",
     type: "ruins",
     name: { de: "Ruinas de San Pedro", hu: "San Pedro romok", ro: "Ruinele San Pedro", en: "San Pedro Ruins" },
-    coordinates: { lat: 22.4167, lng: -79.95 },
+    coords: [-79.95, 22.4167],
     description: {
       de: "Die Überreste dieser alten Siedlung zeugen von der frühen landwirtschaftlichen Erschließung der Region. Steinmauern markieren den ehemaligen Kern.",
       hu: "Az ősi település maradványai tanúskodnak a régió korai mezőgazdasági fejlesztéséről. Kőfalak jelölik az egykori központot.",
@@ -974,12 +998,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Colonial agricultural history", "Historical ruins", "Rural heritage", "Archaeological interest"],
     },
     imageHint: "stone ruins in rural landscape",
+    descriptionAdvanced: {
+      de: "Die Ruinen von San Pedro in Santiago de Cuba sind Überreste einer ehemaligen Festungsanlage aus dem 17. Jahrhundert. Sie wurde 1640 erbaut, um die Stadt vor Angriffen zu schützen. Die Anlage besteht aus dicken Mauern, Bastionen und einem Wachturm. Im 19. Jahrhundert verfiel sie und wurde später teilweise restauriert. Die Ruinen bieten einen Einblick in die koloniale Militärarchitektur. Sie sind ein nationales Denkmal und beliebtes Ausflugsziel.",
+      hu: "A San Pedro romjai Santiago de Cubában egy 17. századi erődítmény maradványai. 1640-ben épült a város védelmére. Az építmény vastag falakból, bástyákból és egy őrtoronyból áll. A 19. században pusztulásnak indult, majd részben restaurálták. A romok betekintést nyújtanak a gyarmati katonai építészetbe. Nemzeti emlékmű és népszerű kirándulóhely.",
+      ro: "Ruinele San Pedro din Santiago de Cuba sunt rămășițele unei fortificații din secolul al XVII-lea. Construită în 1640 pentru apărarea orașului, structura include ziduri groase, bastioane și un turn de veghe. În secolul al XIX-lea a căzut în paragină, fiind parțial restaurată ulterior. Ruinele oferă o perspectivă asupra arhitecturii militare coloniale. Este un monument național și o destinație turistică populară.",
+      en: "The San Pedro Ruins in Santiago de Cuba are remnants of a 17th-century fortress built in 1640 to defend the city. The structure features thick walls, bastions, and a watchtower. It fell into disrepair in the 19th century and was partially restored. The ruins provide insight into colonial military architecture. It is a national monument and popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1640", "Mauerhöhe: 8 m", "Fläche der Anlage: 1.200 m²", "Anzahl der Bastionen: 4", "Wachturmhöhe: 12 m", "Restaurierungsjahr: 1985"],
+      hu: ["Építés éve: 1640", "Falmagasság: 8 m", "Terület: 1.200 m²", "Bástyák száma: 4", "Őrtorony magassága: 12 m", "Restaurálás éve: 1985"],
+      ro: ["Anul construirii: 1640", "Înălțimea zidurilor: 8 m", "Suprafața ansamblului: 1.200 m²", "Numărul de bastioane: 4", "Înălțimea turnului de veghe: 12 m", "Anul restaurării: 1985"],
+      en: ["Year built: 1640", "Wall height: 8 m", "Site area: 1,200 m²", "Number of bastions: 4", "Watchtower height: 12 m", "Restoration year: 1985"],
+    },
   },
   {
     id: "cuba-plaza-de-armas-santiago-history-v2",
     type: "landmark",
     name: { de: "Plaza de Armas Santiago", hu: "Plaza de Armas Santiago", ro: "Plaza de Armas Santiago", en: "Plaza de Armas Santiago" },
-    coordinates: { lat: 20.0208, lng: -75.8267 },
+    coords: [-75.8267, 20.0208],
     description: {
       de: "Dieser zentrale Platz in Santiago de Cuba war Schauplatz wichtiger politischer und militärischer Ereignisse. Er ist von historischen Gebäuden umgeben.",
       hu: "Ez a központi tér Santiago de Cubában fontos politikai és katonai események színhelye volt. Történelmi épületek veszik körül.",
@@ -993,12 +1029,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Political center", "Colonial architecture", "Historical meeting point", "City center"],
     },
     imageHint: "colonial plaza square Santiago de Cuba",
+    descriptionAdvanced: {
+      de: "Der Plaza de Armas in Santiago de Cuba ist der zentrale Platz der Stadt, der im 16. Jahrhundert angelegt wurde. Er ist umgeben von historischen Gebäuden wie der Kathedrale und dem Rathaus. Der Platz war Schauplatz politischer Ereignisse, darunter die Unabhängigkeitserklärung von 1868. In der Mitte steht ein Denkmal für Carlos Manuel de Céspedes. Der Platz ist ein beliebter Treffpunkt und Austragungsort kultureller Veranstaltungen. Seine Architektur spiegelt den spanischen Kolonialstil wider.",
+      hu: "A Plaza de Armas Santiago de Cuba központi tere, amelyet a 16. században alakítottak ki. Történelmi épületek, mint a székesegyház és a városháza veszik körül. A tér politikai események színhelye volt, köztük az 1868-as függetlenségi nyilatkozat. Közepén Carlos Manuel de Céspedes emlékműve áll. A tér népszerű találkozóhely és kulturális rendezvények helyszíne. Építészete a spanyol gyarmati stílust tükrözi.",
+      ro: "Plaza de Armas din Santiago de Cuba este piața centrală a orașului, amenajată în secolul al XVI-lea. Este înconjurată de clădiri istorice, precum catedrala și primăria. Piața a fost scena unor evenimente politice, inclusiv declarația de independență din 1868. În mijloc se află un monument dedicat lui Carlos Manuel de Céspedes. Piața este un loc popular de întâlnire și gazdă a evenimentelor culturale. Arhitectura reflectă stilul colonial spaniol.",
+      en: "Plaza de Armas in Santiago de Cuba is the city's central square, laid out in the 16th century. It is surrounded by historic buildings such as the cathedral and city hall. The square has been the scene of political events, including the 1868 declaration of independence. At its center stands a monument to Carlos Manuel de Céspedes. It is a popular meeting point and venue for cultural events, with architecture reflecting Spanish colonial style.",
+    },
+    factsAdvanced: {
+      de: ["Anlagejahr: 1515", "Fläche: 4.500 m²", "Höhe des Denkmals: 6 m", "Baujahr der Kathedrale: 1522", "Anzahl der umliegenden Gebäude: 8", "Renovierungsjahr: 2005"],
+      hu: ["Kialakítás éve: 1515", "Terület: 4.500 m²", "Emlékmű magassága: 6 m", "Székesegyház építési éve: 1522", "Környező épületek száma: 8", "Felújítás éve: 2005"],
+      ro: ["Anul amenajării: 1515", "Suprafața: 4.500 m²", "Înălțimea monumentului: 6 m", "Anul construirii catedralei: 1522", "Numărul clădirilor din jur: 8", "Anul renovării: 2005"],
+      en: ["Year laid out: 1515", "Area: 4,500 m²", "Monument height: 6 m", "Cathedral built: 1522", "Number of surrounding buildings: 8", "Renovation year: 2005"],
+    },
   },
   {
     id: "cuba-bateria-santa-clara-history-v2",
     type: "monument",
     name: { de: "Batería Santa Clara", hu: "Batería Santa Clara", ro: "Batería Santa Clara", en: "Batería Santa Clara" },
-    coordinates: { lat: 23.1367, lng: -82.392 },
+    coords: [-82.392, 23.1367],
     description: {
       de: "Eine ehemalige Küstenbatterie, die zur Verteidigung der Hauptstadt beigetragen hat. Sie bietet Einblicke in die militärische Küstengeschichte.",
       hu: "Egykori partvédelmi üteg, amely hozzájárult a főváros védelméhez. Bepillantást enged a katonai part menti történelembe.",
@@ -1012,12 +1060,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Military facility", "18th century", "Coastal defense", "Historical monument"],
     },
     imageHint: "old coastal cannon battery stone",
+    descriptionAdvanced: {
+      de: "Die Batería Santa Clara ist eine historische Artilleriebatterie in Havanna, erbaut 1795. Sie diente der Verteidigung der Stadt und war mit 14 Kanonen ausgestattet. Die Anlage liegt auf einer Anhöhe mit Blick auf die Bucht. Sie wurde im 19. Jahrhundert modernisiert. Heute ist sie ein Museum für Militärgeschichte. Die Batterie zeigt die Entwicklung der Küstenverteidigung in Kuba. Sie ist Teil des UNESCO-Weltkulturerbes von Alt-Havanna.",
+      hu: "A Batería Santa Clara egy történelmi tüzérségi üteg Havannában, 1795-ben épült. A város védelmét szolgálta, 14 ágyúval felszerelve. Az építmény egy magaslaton fekszik, rálátással az öbölre. A 19. században modernizálták. Ma hadtörténeti múzeum. Az üteg bemutatja a kubai parti védelem fejlődését. Havanna óvárosa UNESCO világörökség része.",
+      ro: "Batería Santa Clara este o baterie de artilerie istorică din Havana, construită în 1795. A servit la apărarea orașului, fiind echipată cu 14 tunuri. Amplasamentul se află pe o înălțime cu vedere spre golf. A fost modernizată în secolul al XIX-lea. Astăzi este un muzeu de istorie militară. Bateria ilustrează evoluția apărării de coastă în Cuba. Face parte din patrimoniul UNESCO al Havanei Vechi.",
+      en: "Batería Santa Clara is a historic artillery battery in Havana, built in 1795. It defended the city with 14 cannons. The site is on a hill overlooking the bay. It was modernized in the 19th century. Today it is a military history museum, showcasing the evolution of coastal defense in Cuba. It is part of the UNESCO World Heritage site of Old Havana.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1795", "Anzahl der Kanonen: 14", "Höhe über der Bucht: 30 m", "Mauerstärke: 1,5 m", "Modernisierungsjahr: 1850", "Museumsgründung: 1965"],
+      hu: ["Építés éve: 1795", "Ágyúk száma: 14", "Magasság az öböl felett: 30 m", "Falvastagság: 1,5 m", "Modernizálás éve: 1850", "Múzeum alapítása: 1965"],
+      ro: ["Anul construirii: 1795", "Numărul de tunuri: 14", "Înălțimea deasupra golfului: 30 m", "Grosimea zidurilor: 1,5 m", "Anul modernizării: 1850", "Înființarea muzeului: 1965"],
+      en: ["Year built: 1795", "Number of cannons: 14", "Height above bay: 30 m", "Wall thickness: 1.5 m", "Modernization year: 1850", "Museum established: 1965"],
+    },
   },
   {
     id: "cuba-iglesia-parroquial-history-v2",
     type: "church",
     name: { de: "Iglesia Parroquial Mayor", hu: "Iglesia Parroquial Mayor", ro: "Iglesia Parroquial Mayor", en: "Iglesia Parroquial Mayor" },
-    coordinates: { lat: 21.9167, lng: -79.4333 },
+    coords: [-79.4333, 21.9167],
     description: {
       de: "Eine der ältesten Kirchen der Region, die den religiösen und gesellschaftlichen Mittelpunkt der Stadt bildete. Die Fassade ist gut erhalten.",
       hu: "A régió egyik legrégebbi temploma, amely a város vallási és társadalmi központját alkotta. A homlokzata jól megőrzött.",
@@ -1031,12 +1091,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Colonial church architecture", "Important monument", "Religious history", "Old building structure"],
     },
     imageHint: "colonial church facade stone",
+    descriptionAdvanced: {
+      de: "Die Iglesia Parroquial Mayor in Bayamo ist eine der ältesten Kirchen Kubas, erbaut 1519. Sie wurde im 17. Jahrhundert im Barockstil umgebaut. Die Kirche beherbergt eine Statue der Virgen de la Caridad del Cobre. Sie war Zeuge der Unabhängigkeitsbewegung von 1868. Das Gebäude erlitt Brände und wurde mehrmals restauriert. Sie ist ein nationales Denkmal und Zentrum religiösen Lebens.",
+      hu: "A bayamói Iglesia Parroquial Mayor Kuba egyik legrégebbi temploma, 1519-ben épült. A 17. században barokk stílusban építették át. A templomban található a Virgen de la Caridad del Cobre szobra. Az 1868-as függetlenségi mozgalom tanúja volt. Az épület többször leégett és felújították. Nemzeti emlékmű és vallási központ.",
+      ro: "Iglesia Parroquial Mayor din Bayamo este una dintre cele mai vechi biserici din Cuba, construită în 1519. A fost reconstruită în stil baroc în secolul al XVII-lea. Biserica adăpostește o statuie a Virgen de la Caridad del Cobre. A fost martoră a mișcării de independență din 1868. Clădirea a suferit incendii și a fost restaurată de mai multe ori. Este un monument național și centru al vieții religioase.",
+      en: "Iglesia Parroquial Mayor in Bayamo is one of Cuba's oldest churches, built in 1519. It was remodeled in Baroque style in the 17th century. The church houses a statue of the Virgen de la Caridad del Cobre. It witnessed the 1868 independence movement. The building suffered fires and has been restored several times. It is a national monument and religious center.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1519", "Barocker Umbau: 1675", "Höhe des Glockenturms: 25 m", "Anzahl der Sitze: 500", "Brand im Jahr: 1869", "Restaurierungsjahr: 1987"],
+      hu: ["Építés éve: 1519", "Barokk átépítés: 1675", "Harangtorony magassága: 25 m", "Ülőhelyek száma: 500", "Tűzvész éve: 1869", "Restaurálás éve: 1987"],
+      ro: ["Anul construirii: 1519", "Reconstrucția barocă: 1675", "Înălțimea turnului clopotniță: 25 m", "Numărul de locuri: 500", "Incendiul din anul: 1869", "Anul restaurării: 1987"],
+      en: ["Year built: 1519", "Baroque remodeling: 1675", "Bell tower height: 25 m", "Seating capacity: 500", "Fire in year: 1869", "Restoration year: 1987"],
+    },
   },
   {
     id: "cuba-cuartel-de-caballeria-history-v2",
     type: "monument",
     name: { de: "Cuartel de Caballería", hu: "Lovassági laktanya", ro: "Cuartel de Caballería", en: "Cavalry Barracks" },
-    coordinates: { lat: 23.13, lng: -82.35 },
+    coords: [-82.35, 23.13],
     description: {
       de: "Dieses historische Gebäude diente als Unterbringung für Kavallerieeinheiten. Es ist ein Beispiel für militärische Logistik im 19. Jahrhundert.",
       hu: "Ez a történelmi épület lovassági egységek elszállásolására szolgált. Példa a 19. századi katonai logisztikára.",
@@ -1050,12 +1122,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Military history", "19th century", "Historical building", "Restoration project"],
     },
     imageHint: "historic cavalry barracks building",
+    descriptionAdvanced: {
+      de: "Die Kavalleriekaserne in Cienfuegos ist ein historisches Militärgebäude aus dem 19. Jahrhundert. Es wurde 1855 erbaut und diente als Unterkunft für das Kavallerieregiment. Das Gebäude hat eine neoklassizistische Fassade mit Säulen und Arkaden. Im 20. Jahrhundert wurde es als Schulgebäude genutzt. Heute beherbergt es ein Museum zur Militärgeschichte der Region. Die Kaserne ist ein Beispiel für die Architektur der spanischen Kolonialzeit.",
+      hu: "A cienfuegosi lovassági laktanya egy 19. századi történelmi katonai épület. 1855-ben épült a lovasezred elszállásolására. Az épület neoklasszicista homlokzattal rendelkezik, oszlopokkal és árkádokkal. A 20. században iskolaként használták. Ma a régió hadtörténeti múzeuma. A laktanya a spanyol gyarmati kor építészetének példája.",
+      ro: "Cazarma de cavalerie din Cienfuegos este o clădire militară istorică din secolul al XIX-lea. Construită în 1855, a servit ca adăpost pentru regimentul de cavalerie. Clădirea are o fațadă neoclasică cu coloane și arcade. În secolul al XX-lea a fost folosită ca școală. Astăzi găzduiește un muzeu de istorie militară a regiunii. Cazarma este un exemplu de arhitectură colonială spaniolă.",
+      en: "The Cavalry Barracks in Cienfuegos is a historic military building from the 19th century. Built in 1855, it housed the cavalry regiment. The building features a neoclassical facade with columns and arcades. In the 20th century it was used as a school. Today it houses a museum of regional military history. The barracks exemplify Spanish colonial architecture.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1855", "Fassadenbreite: 40 m", "Anzahl der Säulen: 12", "Stockwerke: 2", "Nutzung als Schule: 1930-1960", "Museumsgründung: 1980"],
+      hu: ["Építés éve: 1855", "Homlokzat szélessége: 40 m", "Oszlopok száma: 12", "Emeletek száma: 2", "Iskolai használat: 1930-1960", "Múzeum alapítása: 1980"],
+      ro: ["Anul construirii: 1855", "Lățimea fațadei: 40 m", "Numărul de coloane: 12", "Numărul de etaje: 2", "Folosirea ca școală: 1930-1960", "Înființarea muzeului: 1980"],
+      en: ["Year built: 1855", "Facade width: 40 m", "Number of columns: 12", "Floors: 2", "Use as school: 1930-1960", "Museum established: 1980"],
+    },
   },
   {
     id: "cuba-casa-de-la-historia-history-v2",
     type: "museum",
     name: { de: "Casa de la Historia", hu: "Casa de la Historia", ro: "Casa de la Historia", en: "House of History" },
-    coordinates: { lat: 22.12, lng: -80.4 },
+    coords: [-80.4, 22.12],
     description: {
       de: "Das Museum dokumentiert die lokale Geschichte und die sozialen Bewegungen der Region. Es beherbergt zahlreiche Artefakte aus verschiedenen Epochen.",
       hu: "A múzeum dokumentálja a helyi történelmet és a régió társadalmi mozgalmait. Számos műtárgyat őriz különböző korszakokból.",
@@ -1069,12 +1153,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Local exhibitions", "Historical artifacts", "Cultural center", "Educational institution"],
     },
     imageHint: "museum interior history artifacts",
+    descriptionAdvanced: {
+      de: "Das Haus der Geschichte in Trinidad ist ein Museum, das die sozialistische Geschichte Kubas dokumentiert. Das Gebäude stammt aus dem 18. Jahrhundert und diente als Wohnhaus. Es wurde 1975 in ein Museum umgewandelt. Die Ausstellung zeigt Gegenstände aus der kubanischen Revolution, darunter Fotos und Waffen. Das Museum beleuchtet die Rolle Trinidads im Unabhängigkeitskampf. Es ist Teil des UNESCO-Weltkulturerbes von Trinidad.",
+      hu: "A trinidadi Történet Háza múzeum, amely Kuba szocialista történetét dokumentálja. Az épület a 18. századból származik, eredetileg lakóház volt. 1975-ben alakították múzeummá. A kiállítás a kubai forradalom tárgyait mutatja be, köztük fényképeket és fegyvereket. A múzeum Trinidad szerepét világítja meg a függetlenségi harcban. Trinidad óvárosa UNESCO világörökség.",
+      ro: "Casa de la Historia din Trinidad este un muzeu care documentează istoria socialistă a Cubei. Clădirea datează din secolul al XVIII-lea și a fost o locuință. A fost transformată în muzeu în 1975. Expoziția prezintă obiecte din revoluția cubaneză, inclusiv fotografii și arme. Muzeul evidențiază rolul Trinidadului în lupta pentru independență. Face parte din patrimoniul UNESCO al Trinidadului.",
+      en: "The House of History in Trinidad is a museum documenting Cuba's socialist history. The building dates from the 18th century and was originally a residence. It was converted into a museum in 1975. The exhibit displays items from the Cuban Revolution, including photos and weapons. The museum highlights Trinidad's role in the independence struggle. It is part of the UNESCO World Heritage site of Trinidad.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Gebäudes: 1780", "Museumsgründung: 1975", "Ausstellungsfläche: 300 m²", "Anzahl der Exponate: 1.500", "Jährliche Besucher: 20.000", "Höhe der Decken: 4 m"],
+      hu: ["Épület építési éve: 1780", "Múzeum alapítása: 1975", "Kiállítási terület: 300 m²", "Kiállítási tárgyak száma: 1.500", "Éves látogatók: 20.000", "Belmagasság: 4 m"],
+      ro: ["Anul construirii clădirii: 1780", "Înființarea muzeului: 1975", "Suprafața expozițională: 300 m²", "Numărul de exponate: 1.500", "Vizitatori anuali: 20.000", "Înălțimea tavanelor: 4 m"],
+      en: ["Building construction year: 1780", "Museum established: 1975", "Exhibition area: 300 m²", "Number of exhibits: 1,500", "Annual visitors: 20,000", "Ceiling height: 4 m"],
+    },
   },
   {
     id: "cuba-fortin-de-la-loma-history-v2",
     type: "tower",
     name: { de: "Fortín de la Loma", hu: "Fortín de la Loma", ro: "Fortín de la Loma", en: "Fortín de la Loma" },
-    coordinates: { lat: 22.8, lng: -81.2 },
+    coords: [-81.2, 22.8],
     description: {
       de: "Dieser kleine Wachturm thront auf einer Erhebung und bot früher eine weite Sicht über das umliegende Land. Er diente der militärischen Überwachung.",
       hu: "Ez a kis őrtorony egy magaslaton trónol, és régen széles kilátást biztosított a környező vidékre. Katonai megfigyelésre szolgált.",
@@ -1088,12 +1184,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Watchtower", "Military surveillance", "Strategic position", "Stone structure"],
     },
     imageHint: "small stone watchtower on hill",
+    descriptionAdvanced: {
+      de: "Das Fortín de la Loma ist ein kleiner Verteidigungsturm in Holguín, erbaut 1868. Er diente als Beobachtungsposten während des Unabhängigkeitskrieges. Das Fort ist aus Stein gemauert und hat einen quadratischen Grundriss. Es liegt auf einem Hügel mit Panoramablick über die Stadt. Heute ist es ein Museum für lokale Militärgeschichte. Der Turm ist ein wichtiges Symbol der Stadt Holguín.",
+      hu: "A Fortín de la Loma egy kicsi védőtorony Holguínban, 1868-ban épült. A függetlenségi háború idején megfigyelőpontként szolgált. Az erőd kőből épült, négyzet alaprajzú. Egy dombon fekszik, kilátással a városra. Ma a helyi hadtörténet múzeuma. A torony Holguín fontos jelképe.",
+      ro: "Fortín de la Loma este un mic turn de apărare din Holguín, construit în 1868. A servit ca post de observație în timpul războiului de independență. Fortul este construit din piatră, având un plan pătrat. Se află pe o colină cu vedere panoramică asupra orașului. Astăzi este un muzeu de istorie militară locală. Turnul este un simbol important al orașului Holguín.",
+      en: "Fortín de la Loma is a small defensive tower in Holguín, built in 1868. It served as an observation post during the War of Independence. The fort is made of stone with a square layout. It sits on a hill with panoramic views of the city. Today it is a museum of local military history. The tower is an important symbol of Holguín.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1868", "Höhe des Turms: 10 m", "Mauerstärke: 1 m", "Grundfläche: 25 m²", "Höhe des Hügels: 50 m ü. M.", "Museumsnutzung seit: 1979"],
+      hu: ["Építés éve: 1868", "Torony magassága: 10 m", "Falvastagság: 1 m", "Alapterület: 25 m²", "Domb magassága: 50 m tszf.", "Múzeum használata: 1979 óta"],
+      ro: ["Anul construirii: 1868", "Înălțimea turnului: 10 m", "Grosimea zidurilor: 1 m", "Suprafața la bază: 25 m²", "Înălțimea colinei: 50 m deasupra n.m.", "Utilizare ca muzeu din: 1979"],
+      en: ["Year built: 1868", "Tower height: 10 m", "Wall thickness: 1 m", "Base area: 25 m²", "Hill elevation: 50 m above sea level", "Museum use since: 1979"],
+    },
   },
   {
     id: "cuba-teatro-guantanamo-history-v2",
     type: "theater",
     name: { de: "Antiguo Teatro Guantánamo", hu: "Antiguo Teatro Guantánamo", ro: "Antiguo Teatro Guantánamo", en: "Old Guantánamo Theater" },
-    coordinates: { lat: 20.14, lng: -75.21 },
+    coords: [-75.21, 20.14],
     description: {
       de: "Dieses historische Theater war ein Zentrum für das kulturelle Leben der Stadt im frühen 20. Jahrhundert. Es spiegelt die architektonischen Trends der Ära wider.",
       hu: "Ez a történelmi színház a város kulturális életének központja volt a 20. század elején. Tükrözi az korszak építészeti trendjeit.",
@@ -1107,12 +1215,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Cultural heritage", "Early 20th century", "Architectural design", "Historical stage"],
     },
     imageHint: "historic theater facade old building",
+    descriptionAdvanced: {
+      de: "Das alte Theater von Guantánamo ist ein historisches Gebäude aus dem 19. Jahrhundert. Es wurde 1885 erbaut und war ein Zentrum der Kultur in der Region. Das Theater hat eine neoklassizistische Fassade und einen Innenraum mit Rängen und Logen. Es wurde 1959 nach der Revolution geschlossen und verfiel. In den 1990er Jahren begann eine Restaurierung. Heute wird es für kulturelle Veranstaltungen genutzt. Es ist ein Beispiel für die Theaterarchitektur des 19. Jahrhunderts in Kuba.",
+      hu: "A régi guantánamói színház egy 19. századi történelmi épület. 1885-ben épült, a régió kulturális központja volt. A színház neoklasszicista homlokzattal és belső karzattal és páholyokkal rendelkezik. 1959-ben a forradalom után bezárt és romlásnak indult. Az 1990-es években elkezdték a restaurálást. Ma kulturális eseményeknek ad otthont. A 19. századi színházépítészet példája Kubában.",
+      ro: "Vechiul teatru din Guantánamo este o clădire istorică din secolul al XIX-lea. A fost construit în 1885 și a fost un centru cultural al regiunii. Teatrul are o fațadă neoclasică și un interior cu balcoane și loje. A fost închis după revoluția din 1959 și a căzut în paragină. În anii 1990 a început restaurarea. Astăzi este folosit pentru evenimente culturale. Este un exemplu de arhitectură teatrală din secolul al XIX-lea în Cuba.",
+      en: "The old Guantánamo Theater is a historic 19th-century building. Built in 1885, it was a cultural hub. The theater has a neoclassical facade and interior with balconies and boxes. It closed after the 1959 revolution and fell into disrepair. Restoration began in the 1990s. Today it hosts cultural events. It exemplifies 19th-century theater architecture in Cuba.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1885", "Sitzplätze: 600", "Anzahl der Logen: 12", "Fassadenbreite: 30 m", "Restaurierungsbeginn: 1995", "Wiedereröffnung: 2002"],
+      hu: ["Építés éve: 1885", "Ülőhelyek: 600", "Páholyok száma: 12", "Homlokzat szélessége: 30 m", "Restaurálás kezdete: 1995", "Újranyitás: 2002"],
+      ro: ["Anul construirii: 1885", "Locuri: 600", "Numărul de loje: 12", "Lățimea fațadei: 30 m", "Începerea restaurării: 1995", "Redeschiderea: 2002"],
+      en: ["Year built: 1885", "Seating capacity: 600", "Number of boxes: 12", "Facade width: 30 m", "Restoration start: 1995", "Reopening: 2002"],
+    },
   },
   {
     id: "cuba-puente-de-hierro-history-v2",
     type: "bridge",
     name: { de: "Puente de Hierro", hu: "Puente de Hierro", ro: "Puente de Hierro", en: "Puente de Hierro" },
-    coordinates: { lat: 20.5, lng: -76.3 },
+    coords: [-76.3, 20.5],
     description: {
       de: "Eine historische Eisenbrücke, die für die industrielle Entwicklung des frühen Jahrhunderts entscheidend war. Sie ist ein technisches Denkmal.",
       hu: "Történelmi vashíd, amely döntő fontosságú volt a század eleji ipari fejlődéshez. Műszaki emlékmű.",
@@ -1126,12 +1246,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Technical heritage", "Iron construction", "Industrial history", "Historical infrastructure"],
     },
     imageHint: "old iron truss bridge",
+    descriptionAdvanced: {
+      de: "Die Puente de Hierro in Sancti Spíritus ist eine historische Eisenbrücke aus dem 19. Jahrhundert. Sie wurde 1875 erbaut und überspannt den Río Yayabo. Die Brücke ist eine der ältesten Eisenbrücken Kubas. Sie wurde aus vorgefertigten Teilen aus England zusammengesetzt. Die Brücke diente dem Verkehr und ist ein technisches Denkmal. Sie ist ein Symbol der Stadt und steht unter Denkmalschutz.",
+      hu: "A sancti spíritusi Puente de Hierro egy 19. századi történelmi vashíd. 1875-ben épült, a Yayabo folyón ível át. A híd Kuba egyik legrégebbi vashídja. Előregyártott angol alkatrészekből szerelték össze. A híd forgalmi célokat szolgált, és műszaki emlékmű. A város jelképe, műemlék védelem alatt áll.",
+      ro: "Puente de Hierro din Sancti Spíritus este un pod istoric de fier din secolul al XIX-lea. Construit în 1875, traversează râul Yayabo. Podul este unul dintre cele mai vechi poduri de fier din Cuba. A fost asamblat din elemente prefabricate din Anglia. A servit traficului și este un monument tehnic. Este un simbol al orașului și monument protejat.",
+      en: "Puente de Hierro in Sancti Spíritus is a historic iron bridge from the 19th century. Built in 1875, it spans the Yayabo River. It is one of Cuba's oldest iron bridges, assembled from prefabricated parts from England. It served traffic and is an engineering landmark. It is a symbol of the city and a protected monument.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1875", "Länge: 60 m", "Breite: 5 m", "Höhe über dem Wasser: 8 m", "Gewicht: 120 Tonnen", "Anzahl der Pfeiler: 3"],
+      hu: ["Építés éve: 1875", "Hossz: 60 m", "Szélesség: 5 m", "Magasság a víz felett: 8 m", "Súly: 120 tonna", "Pillérek száma: 3"],
+      ro: ["Anul construirii: 1875", "Lungime: 60 m", "Lățime: 5 m", "Înălțimea deasupra apei: 8 m", "Greutate: 120 de tone", "Numărul de piloni: 3"],
+      en: ["Year built: 1875", "Length: 60 m", "Width: 5 m", "Height above water: 8 m", "Weight: 120 tons", "Number of piers: 3"],
+    },
   },
   {
     id: "cuba-cementerio-de-holguin-history-v2",
     type: "monument",
     name: { de: "Cementerio de Holguín", hu: "Cementerio de Holguín", ro: "Cementerio de Holguín", en: "Holguín Cemetery" },
-    coordinates: { lat: 20.88, lng: -76.26 },
+    coords: [-76.26, 20.88],
     description: {
       de: "Dieser historische Friedhof enthält aufwendige Grabmale bedeutender Persönlichkeiten der Region. Er ist ein wichtiger Ort für die lokale Geschichtsforschung.",
       hu: "Ez a történelmi temető a régió jelentős személyiségeinek kidolgozott síremlékeit tartalmazza. Fontos hely a helyi történelemkutatás számára.",
@@ -1145,12 +1277,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Tombs", "Historical graves", "Local personalities", "Cemetery culture"],
     },
     imageHint: "historic cemetery tombs sculptures",
+    descriptionAdvanced: {
+      de: "Der Friedhof von Holguín ist ein historischer Friedhof aus dem 19. Jahrhundert. Er wurde 1819 angelegt und ist die letzte Ruhestätte vieler bedeutender Persönlichkeiten. Der Friedhof enthält kunstvolle Mausoleen und Grabsteine im neoklassizistischen Stil. Er ist nach dem Vorbild des Friedhofs von Havanna gestaltet. Der Friedhof ist ein nationales Denkmal und ein Museum unter freiem Himmel. Er spiegelt die soziale und kulturelle Geschichte der Stadt wider.",
+      hu: "A holguíni temető egy 19. századi történelmi temető. 1819-ben hozták létre, számos jelentős személyiség végső nyughelye. A temetőben díszes mauzóleumok és neoklasszicista sírkövek találhatók. A havannai temető mintájára alakították ki. Nemzeti emlékmű és szabadtéri múzeum. Tükrözi a város társadalmi és kulturális történetét.",
+      ro: "Cimitirul din Holguín este un cimitir istoric din secolul al XIX-lea. A fost înființat în 1819 și este locul de veci al multor personalități. Cimitirul conține mausolee ornamentate și pietre funerare în stil neoclasic. Este modelat după cimitirul din Havana. Este un monument național și un muzeu în aer liber. Reflectă istoria socială și culturală a orașului.",
+      en: "The Holguín Cemetery is a historic 19th-century cemetery. Established in 1819, it is the final resting place of many notable figures. It features ornate mausoleums and tombstones in neoclassical style. It was modeled after the Havana cemetery. It is a national monument and open-air museum, reflecting the city's social and cultural history.",
+    },
+    factsAdvanced: {
+      de: ["Anlagejahr: 1819", "Fläche: 5 Hektar", "Anzahl der Mausoleen: 50", "Höchstes Mausoleum: 8 m", "Anzahl der Gräber: 10.000", "Denkmalschutz seit: 1980"],
+      hu: ["Alapítás éve: 1819", "Terület: 5 hektár", "Mauzóleumok száma: 50", "Legmagasabb mauzóleum: 8 m", "Sírok száma: 10.000", "Műemléki védelem: 1980 óta"],
+      ro: ["Anul înființării: 1819", "Suprafața: 5 hectare", "Numărul de mausolee: 50", "Cel mai înalt mausoleu: 8 m", "Numărul de morminte: 10.000", "Protejat ca monument din: 1980"],
+      en: ["Year established: 1819", "Area: 5 hectares", "Number of mausoleums: 50", "Tallest mausoleum: 8 m", "Number of graves: 10,000", "Protected as monument since: 1980"],
+    },
   },
   {
     id: "cuba-parque-de-la-libertad-history-v2",
     type: "park",
     name: { de: "Parque de la Libertad", hu: "Parque de la Libertad", ro: "Parque de la Libertad", en: "Parque de la Libertad" },
-    coordinates: { lat: 23.04, lng: -81.57 },
+    coords: [-81.57, 23.04],
     description: {
       de: "Dieser Park ist nach der Unabhängigkeit benannt und beherbergt mehrere historische Denkmäler. Er ist zentraler Treffpunkt der Stadtgeschichte.",
       hu: "Ez a park a függetlenségről kapta a nevét, és több történelmi emlékműnek ad otthont. A várostörténet központi találkozóhelye.",
@@ -1164,12 +1308,24 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Historical monuments", "City park", "Independence history", "Public space"],
     },
     imageHint: "park monument statue city",
+    descriptionAdvanced: {
+      de: "Der Parque de la Libertad in Camagüey ist der zentrale Platz der Stadt. Er wurde 1515 angelegt und später nach der Unabhängigkeit umbenannt. Der Park ist umgeben von historischen Gebäuden wie der Kathedrale und dem Rathaus. In der Mitte steht ein Denkmal für die Mambises (Unabhängigkeitskämpfer). Der Park ist ein beliebter Treffpunkt und Ort für Veranstaltungen. Er symbolisiert den Freiheitskampf Kubas.",
+      hu: "A camagüeyi Parque de la Libertad a város központi tere. 1515-ben hozták létre, és a függetlenség után nevezték át. A parkot történelmi épületek veszik körül, mint a székesegyház és a városháza. Közepén a Mambises (szabadságharcosok) emlékműve áll. A park népszerű találkozóhely és rendezvényhelyszín. Kuba szabadságharcát szimbolizálja.",
+      ro: "Parque de la Libertad din Camagüey este piața centrală a orașului. A fost amenajat în 1515 și redenumit după independență. Parcul este înconjurat de clădiri istorice precum catedrala și primăria. În mijloc se află un monument dedicat mambises (luptătorii pentru independență). Parcul este un loc popular de întâlnire și gazdă de evenimente. Simbolizează lupta pentru libertate a Cubei.",
+      en: "Parque de la Libertad in Camagüey is the city's central square. Laid out in 1515, it was renamed after independence. The park is surrounded by historic buildings like the cathedral and city hall. At its center stands a monument to the Mambises (independence fighters). The park is a popular meeting place and event venue. It symbolizes Cuba's struggle for freedom.",
+    },
+    factsAdvanced: {
+      de: ["Anlagejahr: 1515", "Fläche: 6.000 m²", "Höhe des Denkmals: 12 m", "Anzahl der Bäume: 80", "Jährliche Veranstaltungen: 50", "Umbenennung: 1902"],
+      hu: ["Kialakítás éve: 1515", "Terület: 6.000 m²", "Emlékmű magassága: 12 m", "Fák száma: 80", "Éves rendezvények: 50", "Átnevezés: 1902"],
+      ro: ["Anul amenajării: 1515", "Suprafața: 6.000 m²", "Înălțimea monumentului: 12 m", "Numărul de copaci: 80", "Evenimente anuale: 50", "Redenumirea: 1902"],
+      en: ["Year laid out: 1515", "Area: 6,000 m²", "Monument height: 12 m", "Number of trees: 80", "Annual events: 50", "Renamed: 1902"],
+    },
   },
   {
     id: "cuba-fuerte-del-puerto-history-v2",
     type: "fortress",
     name: { de: "Fuerte del Puerto", hu: "Fuerte del Puerto", ro: "Fuerte del Puerto", en: "Harbor Fort" },
-    coordinates: { lat: 21.22, lng: -77.06 },
+    coords: [-77.06, 21.22],
     description: {
       de: "Diese kleine Hafenfestung diente der Verteidigung gegen Angriffe vom Meer. Ihre Struktur ist typisch für die maritime Verteidigungsarchitektur.",
       hu: "Ez a kis kikötői erőd a tenger felőli támadások elleni védekezésre szolgált. Felépítése tipikus a tengeri védelmi építészet számára.",
@@ -1183,6 +1339,18 @@ export const poiExtraCubaHistoryV2: POI[] = [
       en: ["Maritime defense", "Harbor protection", "Stone fortress", "Colonial architecture"],
     },
     imageHint: "coastal stone fortress harbor",
+    descriptionAdvanced: {
+      de: "Das Hafenfort in Cárdenas ist eine Festung aus dem 18. Jahrhundert. Es wurde 1740 erbaut, um den Hafen zu verteidigen. Das Fort hat einen fünfeckigen Grundriss mit Bastionen. Es war mit Kanonen bestückt und diente als Pulvermagazin. Im 19. Jahrhundert verlor es an Bedeutung. Heute ist es ein Museum für Marinegeschichte. Das Fort ist ein Beispiel für spanische Befestigungstechnik in der Karibik.",
+      hu: "A cárdenasi kikötő erőd egy 18. századi erődítmény. 1740-ben épült a kikötő védelmére. Az erőd ötszög alaprajzú, bástyákkal. Ágyúkkal volt felszerelve, és lőporraktárként szolgált. A 19. században veszített jelentőségéből. Ma haditengerészeti múzeum. Az erőd a spanyol erődítési technika karibi példája.",
+      ro: "Fortul portuar din Cárdenas este o fortificație din secolul al XVIII-lea. Construit în 1740 pentru apărarea portului. Fortul are un plan pentagonal cu bastioane. A fost echipat cu tunuri și a servit ca depozit de praf de pușcă. În secolul al XIX-lea și-a pierdut importanța. Astăzi este un muzeu de istorie navală. Fortul este un exemplu de tehnică spaniolă de fortificație în Caraibe.",
+      en: "The Harbor Fort in Cárdenas is an 18th-century fortress built in 1740 to defend the port. It has a pentagonal layout with bastions. It was equipped with cannons and used as a powder magazine. It declined in the 19th century. Today it is a naval history museum. The fort exemplifies Spanish fortification techniques in the Caribbean.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1740", "Anzahl der Bastionen: 5", "Mauerhöhe: 10 m", "Anzahl der Kanonen: 20", "Grundfläche: 800 m²", "Museumsgründung: 1960"],
+      hu: ["Építés éve: 1740", "Bástyák száma: 5", "Falmagasság: 10 m", "Ágyúk száma: 20", "Alapterület: 800 m²", "Múzeum alapítása: 1960"],
+      ro: ["Anul construirii: 1740", "Numărul de bastioane: 5", "Înălțimea zidurilor: 10 m", "Numărul de tunuri: 20", "Suprafața de bază: 800 m²", "Înființarea muzeului: 1960"],
+      en: ["Year built: 1740", "Number of bastions: 5", "Wall height: 10 m", "Number of cannons: 20", "Base area: 800 m²", "Museum established: 1960"],
+    },
   }
 ];
 

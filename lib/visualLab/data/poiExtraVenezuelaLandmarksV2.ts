@@ -1061,7 +1061,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-obelisco-altamira-landmarks-v2",
     type: "monument",
     name: { de: "Obelisk von Altamira", hu: "Altamira obeliszk", ro: "Obeliscul din Altamira", en: "Altamira Obelisk" },
-    coordinates: { lat: 10.4905, lng: -66.8517 },
+    coords: [-66.8517, 10.4905],
     description: {
       de: "Der Obelisk befindet sich auf der Plaza Francia im Stadtteil Altamira in Caracas. Er ist ein bekanntes Wahrzeichen des Finanzbezirks.",
       hu: "Az obeliszk a caracasi Altamira negyedben található Francia téren áll. A pénzügyi negyed egyik ismert mérföldköve.",
@@ -1080,7 +1080,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-museo-historia-maracaibo-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Militärgeschichte von Maracaibo", hu: "Maracaiboi Hadtörténeti Múzeum", ro: "Muzeul de Istorie Militară din Maracaibo", en: "Maracaibo Military History Museum" },
-    coordinates: { lat: 10.6394, lng: -71.6125 },
+    coords: [-71.6125, 10.6394],
     description: {
       de: "Das Museum ist im Gebäude des ehemaligen Castillo de San Carlos untergebracht. Es zeigt Ausstellungsstücke zur militärischen Geschichte der Region.",
       hu: "A múzeum az egykori San Carlos-kastély épületében kapott helyet. A régió katonai történelméhez kapcsolódó kiállítási tárgyakat mutat be.",
@@ -1099,7 +1099,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-catedral-valencia-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Valencia", hu: "Valenciai katedrális", ro: "Catedrala din Valencia", en: "Cathedral of Valencia" },
-    coordinates: { lat: 10.1824, lng: -68.0033 },
+    coords: [-68.0033, 10.1824],
     description: {
       de: "Die Kathedrale von Valencia ist eine römisch-katholische Kirche im Stadtzentrum. Sie wurde ursprünglich im 16. Jahrhundert errichtet.",
       hu: "A valenciai katedrális egy római katolikus templom a városközpontban. Eredetileg a 16. században épült.",
@@ -1118,7 +1118,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-capilla-de-humboldt-landmarks-v2",
     type: "church",
     name: { de: "Humboldt-Kapelle", hu: "Humboldt-kápolna", ro: "Capela Humboldt", en: "Humboldt Chapel" },
-    coordinates: { lat: 10.518, lng: -66.864 },
+    coords: [-66.864, 10.518],
     description: {
       de: "Die Kapelle befindet sich in den Bergen nahe Caracas. Sie ist dem Naturforscher Alexander von Humboldt gewidmet.",
       hu: "A kápolna a Caracas melletti hegyekben található. A természetkutató Alexander von Humboldt tiszteletére épült.",
@@ -1137,7 +1137,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-palacio-federal-legislativo-landmarks-v2",
     type: "palace",
     name: { de: "Legislativer Bundespalast", hu: "Szövetségi Törvényhozási Palota", ro: "Palatul Legislativ Federal", en: "Federal Legislative Palace" },
-    coordinates: { lat: 10.5042, lng: -66.9153 },
+    coords: [-66.9153, 10.5042],
     description: {
       de: "Das Gebäude beherbergt die Nationalversammlung von Venezuela. Es liegt im historischen Zentrum von Caracas.",
       hu: "Az épület ad otthont Venezuela Nemzetgyűlésének. Caracas történelmi központjában található.",
@@ -1156,7 +1156,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-puente-de-hierro-caracas-landmarks-v2",
     type: "bridge",
     name: { de: "Puente de Hierro", hu: "Puente de Hierro (Vas híd)", ro: "Puente de Hierro", en: "Puente de Hierro (Iron Bridge)" },
-    coordinates: { lat: 10.4958, lng: -66.9054 },
+    coords: [-66.9054, 10.4958],
     description: {
       de: "Eine historische Eisenbrücke in Caracas. Sie wurde im späten 19. Jahrhundert konstruiert.",
       hu: "Egy történelmi vas híd Caracasban. A 19. század végén építették.",
@@ -1175,7 +1175,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-museo-arte-colonial-quinta-anauco-landmarks-v2",
     type: "museum",
     name: { de: "Museum für Kolonialkunst Quinta de Anauco", hu: "Quinta de Anauco Koloniális Művészeti Múzeum", ro: "Muzeul de Artă Colonială Quinta de Anauco", en: "Quinta de Anauco Colonial Art Museum" },
-    coordinates: { lat: 10.5115, lng: -66.8925 },
+    coords: [-66.8925, 10.5115],
     description: {
       de: "Das Museum befindet sich in einem Herrenhaus aus dem 18. Jahrhundert. Es präsentiert Kunstwerke aus der Kolonialzeit.",
       hu: "A múzeum egy 18. századi udvarházban található. A gyarmati időszakból származó műalkotásokat mutat be.",
@@ -1194,7 +1194,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-torre-pedregosa-landmarks-v2",
     type: "tower",
     name: { de: "Torre Pedregosa", hu: "Torre Pedregosa torony", ro: "Torre Pedregosa", en: "Torre Pedregosa" },
-    coordinates: { lat: 8.591, lng: -71.144 },
+    coords: [-71.144, 8.591],
     description: {
       de: "Ein moderner Turm in der Stadt Mérida. Er bietet Ausblicke auf die umliegende Berglandschaft.",
       hu: "Egy modern torony Mérida városában. Kilátást nyújt a környező hegyvidékre.",
@@ -1213,7 +1213,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-teatro-juarez-barquisimeto-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Juárez", hu: "Teatro Juárez színház", ro: "Teatro Juárez", en: "Teatro Juárez" },
-    coordinates: { lat: 10.0665, lng: -69.3248 },
+    coords: [-69.3248, 10.0665],
     description: {
       de: "Das Theater befindet sich in Barquisimeto. Es ist einer der wichtigsten kulturellen Orte der Stadt.",
       hu: "A színház Barquisimetóban található. A város egyik legfontosabb kulturális helyszíne.",
@@ -1232,7 +1232,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-estadio-olimpico-ucv-landmarks-v2",
     type: "landmark",
     name: { de: "Olympiastadion der UCV", hu: "UCV Olimpiai Stadion", ro: "Stadionul Olimpic UCV", en: "Olympic Stadium of UCV" },
-    coordinates: { lat: 10.4852, lng: -66.8924 },
+    coords: [-66.8924, 10.4852],
     description: {
       de: "Das Stadion ist Teil der Ciudad Universitaria de Caracas. Es ist ein bedeutendes Beispiel moderner Architektur.",
       hu: "A stadion a Ciudad Universitaria de Caracas része. A modern építészet jelentős példája.",
@@ -1251,7 +1251,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-castillo-de-la-asuncion-landmarks-v2",
     type: "castle",
     name: { de: "Castillo de la Asunción", hu: "Castillo de la Asunción erőd", ro: "Castillo de la Asunción", en: "Castillo de la Asunción" },
-    coordinates: { lat: 11.026, lng: -63.858 },
+    coords: [-63.858, 11.026],
     description: {
       de: "Diese Festung befindet sich auf der Insel Margarita. Sie diente der Verteidigung gegen Piraten.",
       hu: "Ez az erőd Margarita szigetén található. Kalózok elleni védekezésre szolgált.",
@@ -1270,7 +1270,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-museo-de-la-ciencia-maracaibo-landmarks-v2",
     type: "museum",
     name: { de: "Wissenschaftsmuseum von Maracaibo", hu: "Maracaiboi Tudományos Múzeum", ro: "Muzeul de Știință din Maracaibo", en: "Science Museum of Maracaibo" },
-    coordinates: { lat: 10.655, lng: -71.631 },
+    coords: [-71.631, 10.655],
     description: {
       de: "Das Museum in Maracaibo widmet sich naturwissenschaftlichen Themen. Es bietet Ausstellungen für verschiedene Altersgruppen.",
       hu: "A maracaiboi múzeum természettudományi témáknak szenteli figyelmét. Különböző korosztályok számára kínál kiállításokat.",
@@ -1289,7 +1289,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-catedral-de-barquisimeto-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Barquisimeto", hu: "Barquisimetói katedrális", ro: "Catedrala din Barquisimeto", en: "Cathedral of Barquisimeto" },
-    coordinates: { lat: 10.0718, lng: -69.3245 },
+    coords: [-69.3245, 10.0718],
     description: {
       de: "Die Kathedrale von Barquisimeto ist für ihre moderne Architektur bekannt. Sie wurde im Jahr 1968 eingeweiht.",
       hu: "A barquisimetói katedrális modern építészetéről ismert. 1968-ban szentelték fel.",
@@ -1308,7 +1308,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-palacio-municipal-valencia-landmarks-v2",
     type: "palace",
     name: { de: "Stadthaus von Valencia", hu: "Valenciai Városháza", ro: "Palatul Municipal din Valencia", en: "Municipal Palace of Valencia" },
-    coordinates: { lat: 10.1835, lng: -68.0042 },
+    coords: [-68.0042, 10.1835],
     description: {
       de: "Dieses historische Gebäude dient als Sitz der Stadtverwaltung. Es befindet sich im Zentrum von Valencia.",
       hu: "Ez a történelmi épület a városvezetés székhelye. Valencia központjában található.",
@@ -1327,7 +1327,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-museo-de-arte-contemporaneo-zulia-landmarks-v2",
     type: "museum",
     name: { de: "Museum für zeitgenössische Kunst von Zulia", hu: "Zulia Kortárs Művészeti Múzeum", ro: "Muzeul de Artă Contemporană din Zulia", en: "Contemporary Art Museum of Zulia" },
-    coordinates: { lat: 10.651, lng: -71.614 },
+    coords: [-71.614, 10.651],
     description: {
       de: "Das Museum befindet sich in Maracaibo und sammelt zeitgenössische Werke. Es fördert lokale und internationale Künstler.",
       hu: "A múzeum Maracaibóban található és kortárs alkotásokat gyűjt. Hazai és külföldi művészeket támogat.",
@@ -1346,7 +1346,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-puente-de-la-sierra-landmarks-v2",
     type: "bridge",
     name: { de: "Puente de la Sierra", hu: "Puente de la Sierra híd", ro: "Puente de la Sierra", en: "Puente de la Sierra" },
-    coordinates: { lat: 8.65, lng: -71.2 },
+    coords: [-71.2, 8.65],
     description: {
       de: "Eine Brücke in der Gebirgsregion der Anden. Sie ist ein technisches Bauwerk zur Überquerung von Schluchten.",
       hu: "Egy híd az Andok hegyvidéki régiójában. Műszaki építmény szakadékok áthidalására.",
@@ -1365,7 +1365,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-teatro-ateneo-valencia-landmarks-v2",
     type: "theater",
     name: { de: "Teatro Ateneo de Valencia", hu: "Teatro Ateneo de Valencia színház", ro: "Teatro Ateneo de Valencia", en: "Teatro Ateneo de Valencia" },
-    coordinates: { lat: 10.185, lng: -68.006 },
+    coords: [-68.006, 10.185],
     description: {
       de: "Das Theater in Valencia dient als Zentrum für darstellende Künste. Es ist architektonisch wertvoll.",
       hu: "A valenciai színház az előadó-művészet központja. Építészetileg értékes.",
@@ -1384,7 +1384,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-torre-de-la-universidad-landmarks-v2",
     type: "tower",
     name: { de: "Universitäts-Uhrturm", hu: "Egyetemi óratorony", ro: "Turnul cu ceas al Universității", en: "University Clock Tower" },
-    coordinates: { lat: 10.487, lng: -66.891 },
+    coords: [-66.891, 10.487],
     description: {
       de: "Dieser Turm ist ein ikonisches Merkmal der Ciudad Universitaria de Caracas. Er gilt als Symbol des Campus.",
       hu: "Ez a torony a Ciudad Universitaria de Caracas ikonikus eleme. A campus szimbólumának tekintik.",
@@ -1403,7 +1403,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     id: "venezuela-museo-de-la-musica-caracas-landmarks-v2",
     type: "museum",
     name: { de: "Musikmuseum von Caracas", hu: "Caracasi Zenei Múzeum", ro: "Muzeul Muzicii din Caracas", en: "Music Museum of Caracas" },
-    coordinates: { lat: 10.505, lng: -66.908 },
+    coords: [-66.908, 10.505],
     description: {
       de: "Das Museum in Caracas widmet sich der Geschichte der Musik in Venezuela. Es zeigt traditionelle Instrumente.",
       hu: "A caracasi múzeum Venezuela zenetörténetével foglalkozik. Hagyományos hangszereket mutat be.",

@@ -489,7 +489,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-badr-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Badr", hu: "Badri csatatér", ro: "Câmpul de luptă de la Badr", en: "Badr Battlefield" },
-    coordinates: { lat: 23.7744, lng: 38.7911 },
+    coords: [38.7911, 23.7744],
     description: {
       de: "Ort der ersten großen Schlacht zwischen Muslimen und Quraisch im Jahr 624 n. Chr. Es ist eine bedeutende historische Stätte in der Nähe von Medina.",
       hu: "A muszlimok és a kurajszok közötti első nagy csata helyszíne 624-ben. Medinától nem messze fekvő fontos történelmi emlékhely.",
@@ -508,7 +508,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-khaybar-forts-history-v2",
     type: "castle",
     name: { de: "Festungen von Khaybar", hu: "Khajbar erődítményei", ro: "Cetățile din Khaybar", en: "Khaybar Forts" },
-    coordinates: { lat: 25.6833, lng: 39.3167 },
+    coords: [39.3167, 25.6833],
     description: {
       de: "Historische Oase mit Ruinen jüdischer Festungen, die 628 n. Chr. von muslimischen Kräften erobert wurden. Die Stätte zeigt beeindruckende Basaltarchitektur.",
       hu: "Történelmi oázis zsidó erődök romjaival, melyeket 628-ban foglaltak el a muszlim seregek. A helyszín lenyűgöző bazaltépítészettel rendelkezik.",
@@ -527,7 +527,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qaryat-al-faw-history-v2",
     type: "ruins",
     name: { de: "Qaryat al-Faw", hu: "Karjat al-Fau", ro: "Qaryat al-Faw", en: "Qaryat al-Faw" },
-    coordinates: { lat: 18.4714, lng: 45.1506 },
+    coords: [45.1506, 18.4714],
     description: {
       de: "Einstige Hauptstadt des Kindah-Königreichs am Rande des Leeren Viertels. Die archäologische Stätte stammt aus dem 1. Jahrtausend v. Chr.",
       hu: "A Kinda Királyság egykori fővárosa a Rub el-Háli sivatag szélén. A régészeti lelőhely az i. e. 1. évezredből származik.",
@@ -546,7 +546,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-dedan-history-v2",
     type: "ruins",
     name: { de: "Antikes Dedan", hu: "Ókori Dédán", ro: "Dedanul Antic", en: "Ancient Dedan" },
-    coordinates: { lat: 26.6325, lng: 37.9308 },
+    coords: [37.9308, 26.6325],
     description: {
       de: "Hauptstadt der Königreiche Dedan und Lihyan im Al-Ula-Tal. Die Stätte ist berühmt für ihre monumentalen Löwengräber und Inschriften.",
       hu: "Dédán és Lihján királyságainak fővárosa az Al-Ula völgyben. A helyszín híres monumentális oroszlános sírjairól és feliratairól.",
@@ -565,7 +565,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jabal-ikmah-history-v2",
     type: "landmark",
     name: { de: "Jabal Ikmah Inschriften", hu: "Dzsebel Ikma feliratok", ro: "Inscripțiile de la Jabal Ikmah", en: "Jabal Ikmah Inscriptions" },
-    coordinates: { lat: 26.6547, lng: 37.9152 },
+    coords: [37.9152, 26.6547],
     description: {
       de: "Eine Freiluftbibliothek mit hunderten lihyanischen und aramäischen Felsinschriften. Sie gilt als eine der bedeutendsten epigraphischen Stätten Saudi-Arabiens.",
       hu: "Szabadtéri könyvtár több száz lihjáni és arámi sziklafelirattal. Szaúd-Arábia egyik legjelentősebb epigráfiai helyszíne.",
@@ -584,7 +584,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-al-hamra-history-v2",
     type: "ruins",
     name: { de: "Qasr al-Hamra", hu: "Kaszr al-Hamra", ro: "Qasr al-Hamra", en: "Qasr al-Hamra" },
-    coordinates: { lat: 27.6361, lng: 38.4833 },
+    coords: [38.4833, 27.6361],
     description: {
       de: "Ruinen eines eisenzeitlichen Palastes in der Oase Tayma. Er ist bekannt für seine architektonischen Verbindungen zu mesopotamischen Stilen.",
       hu: "Vaskori palota romjai Tajma oázisában. Mezopotámiai stílusjegyeket mutató építészetéről ismert.",
@@ -603,7 +603,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-al-ablaq-history-v2",
     type: "castle",
     name: { de: "Palast von Al-Ablaq", hu: "Al-Ablak palota", ro: "Palatul Al-Ablaq", en: "Al-Ablaq Palace" },
-    coordinates: { lat: 27.625, lng: 38.475 },
+    coords: [38.475, 27.625],
     description: {
       de: "Legendäre Festung in Tayma, die in der vorislamischen arabischen Poesie für ihre Standhaftigkeit gepriesen wurde. Sie gehörte dem Dichter Samaw'al ibn 'Adiya.",
       hu: "Legendás erődítmény Tajmában, amelyet az iszlám előtti arab költészet dicsőített állhatatosságáért. Szamaval ibn Adija költőé volt.",
@@ -622,7 +622,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-bir-haddaj-history-v2",
     type: "landmark",
     name: { de: "Bir Haddaj", hu: "Bir Haddadzs", ro: "Bir Haddaj", en: "Bir Haddaj" },
-    coordinates: { lat: 27.6289, lng: 38.4811 },
+    coords: [38.4811, 27.6289],
     description: {
       de: "Einer der größten und bekanntesten antiken Brunnen der arabischen Halbinsel in der Oase Tayma. Er versorgte über Jahrtausende Reisende und Karawanen.",
       hu: "Az Arab-félsziget egyik legnagyobb és legismertebb ókori kútja Tajma oázisában. Évezredeken át látta el vízzel az utazókat és karavánokat.",
@@ -641,7 +641,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-shuwaymis-history-v2",
     type: "landmark",
     name: { de: "Shuwaymis Felskunst", hu: "Suvajmisz sziklarajzok", ro: "Arta rupestră de la Shuwaymis", en: "Shuwaymis Rock Art" },
-    coordinates: { lat: 26.3167, lng: 40.1167 },
+    coords: [40.1167, 26.3167],
     description: {
       de: "Bedeutende Fundstätte prähistorischer Felsgravuren, die Szenen der Jagd und Domestizierung zeigen. Sie gehört zum UNESCO-Welterbe der Region Ha'il.",
       hu: "Jelentős őskori sziklavésetek lelőhelye, melyek vadászati és háziasítási jeleneteket ábrázolnak. A Ha'il régió UNESCO világörökségének része.",
@@ -660,7 +660,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jawatha-mosque-history-v2",
     type: "monument",
     name: { de: "Jawatha-Moschee", hu: "Dzsavatha mecset", ro: "Moscheea Jawatha", en: "Jawatha Mosque" },
-    coordinates: { lat: 25.4681, lng: 49.6783 },
+    coords: [49.6783, 25.4681],
     description: {
       de: "Einer der ältesten Moscheen in Ost-Arabien, erbaut vom Stamm der Bani Abd al-Qays. Sie gilt als Ort des zweiten Freitagsgebets im Islam.",
       hu: "Kelet-Arábia egyik legrégebbi mecsetje, melyet a Bani Abd al-Kajsz törzs épített. Az iszlám második pénteki imájának helyszíneként tartják számon.",
@@ -679,7 +679,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ibrahim-palace-history-v2",
     type: "palace",
     name: { de: "Ibrahim-Palast", hu: "Ibrahim-palota", ro: "Palatul Ibrahim", en: "Ibrahim Palace" },
-    coordinates: { lat: 25.3753, lng: 49.5878 },
+    coords: [49.5878, 25.3753],
     description: {
       de: "Historisches Fort und Palast in Al-Hofuf, das osmanische und lokale Najdi-Architekturstile vereint. Es diente als Garnison und Verwaltungszentrum.",
       hu: "Történelmi erőd és palota Al-Hofufban, amely ötvözi az oszmán és a helyi nadzsdi építészeti stílusokat. Helyőrségként és közigazgatási központként szolgált.",
@@ -698,7 +698,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-murabba-palace-history-v2",
     type: "palace",
     name: { de: "Murabba-Palast", hu: "Murabba-palota", ro: "Palatul Murabba", en: "Murabba Palace" },
-    coordinates: { lat: 24.6469, lng: 46.7111 },
+    coords: [46.7111, 24.6469],
     description: {
       de: "Ehemalige Residenz von König Abdulaziz, dem Gründer des modernen Saudi-Arabiens. Der Palast ist ein Musterbeispiel für die traditionelle Najdi-Architektur.",
       hu: "Abdulaziz királynak, a modern Szaúd-Arábia alapítójának egykori rezidenciája. A palota a hagyományos nadzsdi építészet mintapéldája.",
@@ -717,7 +717,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-salwa-palace-history-v2",
     type: "palace",
     name: { de: "Salwa-Palast", hu: "Szalva-palota", ro: "Palatul Salwa", en: "Salwa Palace" },
-    coordinates: { lat: 24.7336, lng: 46.5753 },
+    coords: [46.5753, 24.7336],
     description: {
       de: "Der größte Palast im historischen Bezirk At-Turaif in Diriyah. Er diente als Regierungssitz des ersten saudi-arabischen Staates im 18. Jahrhundert.",
       hu: "A legnagyobb palota Dirijah történelmi At-Turaif negyedében. A 18. században az első szaúdi állam kormányzati központjaként szolgált.",
@@ -736,7 +736,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-nasif-house-history-v2",
     type: "monument",
     name: { de: "Nasif-Haus", hu: "Naszíf-ház", ro: "Casa Nasif", en: "Nasif House" },
-    coordinates: { lat: 21.4839, lng: 39.1864 },
+    coords: [39.1864, 21.4839],
     description: {
       de: "Eines der prächtigsten historischen Gebäude in Dschidda, erbaut im späten 19. Jahrhundert. Es diente König Abdulaziz als Residenz nach seinem Einzug in die Stadt.",
       hu: "Dzsidda egyik legpompásabb történelmi épülete, amely a 19. század végén épült. Abdulaziz király rezidenciájaként szolgált a városba való bevonulása után.",
@@ -755,7 +755,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-khuzam-palace-history-v2",
     type: "palace",
     name: { de: "Khuzam-Palast", hu: "Khuzam-palota", ro: "Palatul Khuzam", en: "Khuzam Palace" },
-    coordinates: { lat: 21.4778, lng: 39.215 },
+    coords: [39.215, 21.4778],
     description: {
       de: "Ein bedeutender Palast in Dschidda, in dem das erste Abkommen über die Erdölexploration in Saudi-Arabien unterzeichnet wurde. Er beherbergt heute ein Regionalmuseum.",
       hu: "Jelentős palota Dzsiddában, ahol az első szaúdi kőolaj-feltárási megállapodást aláírták. Ma regionális múzeumnak ad otthont.",
@@ -774,7 +774,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-shada-palace-history-v2",
     type: "palace",
     name: { de: "Shada-Palast", hu: "Sada-palota", ro: "Palatul Shada", en: "Shada Palace" },
-    coordinates: { lat: 18.2164, lng: 42.5028 },
+    coords: [42.5028, 18.2164],
     description: {
       de: "Ein historisches Regierungsgebäude in Abha, das 1927 erbaut wurde. Es ist ein markantes Beispiel für den traditionellen Architekturstil der Asir-Region.",
       hu: "Történelmi kormányzati épület Abhában, amely 1927-ben épült. Az Aszir régió hagyományos építészeti stílusának jellegzetes példája.",
@@ -793,7 +793,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qishlah-fortress-history-v2",
     type: "castle",
     name: { de: "Qishlah-Festung", hu: "Kislah erőd", ro: "Cetatea Qishlah", en: "Qishlah Fortress" },
-    coordinates: { lat: 27.5194, lng: 41.6939 },
+    coords: [41.6939, 27.5194],
     description: {
       de: "Eine massive Lehmziegel-Festung in Ha'il, die in den 1940er Jahren erbaut wurde. Sie diente als Militärbaracke und Symbol für die Stabilität der Region.",
       hu: "Hatalmas vályogtégla erőd Ha'ilban, amely az 1940-es években épült. Katonai laktanyaként és a régió stabilitásának szimbólumaként szolgált.",
@@ -812,7 +812,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-zaabal-castle-history-v2",
     type: "castle",
     name: { de: "Za'abal-Burg", hu: "Zaabal vára", ro: "Castelul Za'abal", en: "Za'abal Castle" },
-    coordinates: { lat: 29.9883, lng: 40.2017 },
+    coords: [40.2017, 29.9883],
     description: {
       de: "Eine auf einem Hügel gelegene Festung in Sakaka, die die Stadt seit Jahrhunderten überblickt. Sie wurde auf den Überresten nabatäischer Strukturen errichtet.",
       hu: "Dombtetőre épült erődítmény Szakakában, amely évszázadok óta őrzi a várost. Nabateus építmények maradványaira épült.",
@@ -831,7 +831,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-al-subeia-history-v2",
     type: "palace",
     name: { de: "Qasr al-Subeia", hu: "Kaszr al-Szubeia", ro: "Qasr al-Subeia", en: "Qasr al-Subeia" },
-    coordinates: { lat: 25.2447, lng: 45.2606 },
+    coords: [45.2606, 25.2447],
     description: {
       de: "Ein historischer Palast in Shaqra, der für seine feinen Najdi-Verzierungen und Lehmziegelarchitektur bekannt ist. Er war ein wichtiger Stopp für Karawanen.",
       hu: "Történelmi palota Sakrában, amely finom nadzsdi díszítéseiről és vályogtégla építészetéről ismert. Fontos megállóhely volt a karavánok számára.",
@@ -850,7 +850,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-cave-of-thawr-history-v2",
     type: "landmark",
     name: { de: "Höhle von Thawr", hu: "Szaur-barlang", ro: "Peștera Thawr", en: "Cave of Thawr" },
-    coordinates: { lat: 21.3808, lng: 39.8514 },
+    coords: [39.8514, 21.3808],
     description: {
       de: "Eine Höhle am Berg Thawr, in der der Prophet Muhammad und Abu Bakr während der Hidschra vor den Quraisch Zuflucht suchten.",
       hu: "A Szaur-hegyen található barlang, ahol Mohamed próféta és Abu Bakr menedéket keresett a kurajszok elől a hidzsra idején.",
@@ -869,7 +869,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-arafat-plains-history-v2",
     type: "landmark",
     name: { de: "Ebene von Arafat", hu: "Arafát-síkság", ro: "Câmpia Arafat", en: "Plains of Arafat" },
-    coordinates: { lat: 21.3547, lng: 39.9839 },
+    coords: [39.9839, 21.3547],
     description: {
       de: "Eine weite Ebene östlich von Mekka, die der zentrale Ort für den Höhepunkt der Haddsch-Wallfahrt ist. Hier hielt der Prophet Muhammad seine Abschiedspredigt.",
       hu: "Mekkától keletre fekvő tágas síkság, a haddzs zarándoklat csúcspontjának központi helyszíne. Itt tartotta Mohamed próféta a búcsúbeszédét.",
@@ -888,7 +888,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-mualla-cemetery-history-v2",
     type: "monument",
     name: { de: "Al-Mu'alla Friedhof", hu: "Al-Mualla temető", ro: "Cimitirul Al-Mu'alla", en: "Al-Mu'alla Cemetery" },
-    coordinates: { lat: 21.4369, lng: 39.8292 },
+    coords: [39.8292, 21.4369],
     description: {
       de: "Ein historischer Friedhof in Mekka, auf dem viele Vorfahren und Verwandte des Propheten Muhammad begraben sind, darunter seine Frau Khadija.",
       hu: "Történelmi temető Mekkában, ahol Mohamed próféta számos őse és rokona nyugszik, köztük felesége, Kadidzsza is.",
@@ -907,7 +907,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-baqi-cemetery-history-v2",
     type: "monument",
     name: { de: "Al-Baqi Friedhof", hu: "Al-Baki temető", ro: "Cimitirul Al-Baqi", en: "Al-Baqi Cemetery" },
-    coordinates: { lat: 24.4675, lng: 39.615 },
+    coords: [39.615, 24.4675],
     description: {
       de: "Der älteste und erste islamische Friedhof in Medina, gelegen neben der Prophetenmoschee. Er beherbergt die Gräber vieler Gefährten und Familienmitglieder Muhammads.",
       hu: "Medina legrégebbi és első iszlám temetője, a Próféta-mecset mellett. Itt nyugszik Mohamed számos társa és családtagja.",
@@ -926,7 +926,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qiblatayn-mosque-history-v2",
     type: "monument",
     name: { de: "Masjid al-Qiblatayn", hu: "Kiblatajn mecset", ro: "Moscheea Qiblatayn", en: "Masjid al-Qiblatayn" },
-    coordinates: { lat: 24.4842, lng: 39.5789 },
+    coords: [39.5789, 24.4842],
     description: {
       de: "Die Moschee der zwei Gebetsrichtungen in Medina. Hier erhielt der Prophet Muhammad den Befehl, die Qibla von Jerusalem nach Mekka zu ändern.",
       hu: "A két imairány mecsetje Medinában. Itt kapta Mohamed próféta az utasítást, hogy az imairányt (kibla) Jeruzsálemről Mekkára változtassa.",
@@ -945,7 +945,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-seven-mosques-history-v2",
     type: "landmark",
     name: { de: "Die sieben Moscheen", hu: "A hét mecset", ro: "Cele șapte moschei", en: "The Seven Mosques" },
-    coordinates: { lat: 24.4758, lng: 39.5939 },
+    coords: [39.5939, 24.4758],
     description: {
       de: "Ein Komplex kleiner historischer Moscheen am Standort der Grabenschlacht in Medina. Sie erinnern an die Standorte der Gefährten während der Belagerung.",
       hu: "Kisméretű történelmi mecsetek együttese az árokcsata helyszínén Medinában. A próféta társainak állomáshelyeire emlékeztetnek az ostrom alatt.",
@@ -964,7 +964,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ghamama-mosque-history-v2",
     type: "monument",
     name: { de: "Masjid al-Ghamama", hu: "Gamama mecset", ro: "Moscheea Al-Ghamama", en: "Masjid al-Ghamama" },
-    coordinates: { lat: 24.4667, lng: 39.6106 },
+    coords: [39.6106, 24.4667],
     description: {
       de: "Eine historische Moschee in Medina, an der Stelle, wo der Prophet Muhammad das Regengebet verrichtete. Der Name bedeutet 'Wolkenmoschee'.",
       hu: "Történelmi mecset Medinában, azon a helyen, ahol Mohamed próféta esőért könyörgő imát tartott. Neve 'Felhő mecsetet' jelent.",
@@ -983,7 +983,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jumuah-mosque-history-v2",
     type: "monument",
     name: { de: "Masjid al-Jumu'ah", hu: "Dzsumua mecset", ro: "Moscheea Al-Jumu'ah", en: "Masjid al-Jumu'ah" },
-    coordinates: { lat: 24.4458, lng: 39.6153 },
+    coords: [39.6153, 24.4458],
     description: {
       de: "Die Moschee, an der der Prophet Muhammad das erste Freitagsgebet in Medina verrichtete, nachdem er von Kuba aufgebrochen war.",
       hu: "A mecset, ahol Mohamed próféta az első pénteki imát tartotta Medinában, miután elindult Kubából.",
@@ -1002,7 +1002,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-thaj-ruins-history-v2",
     type: "ruins",
     name: { de: "Antikes Thaj", hu: "Ókori Thadzs", ro: "Thajul Antic", en: "Ancient Thaj" },
-    coordinates: { lat: 26.8775, lng: 48.7183 },
+    coords: [48.7183, 26.8775],
     description: {
       de: "Eine der größten befestigten Siedlungen der hellenistischen Zeit in der Ostprovinz. Die Ruinen umfassen massive Mauern und Grabstätten.",
       hu: "A hellenisztikus korszak egyik legnagyobb erődített települése a Keleti Tartományban. A romok hatalmas falakat és sírhelyeket foglalnak magukban.",
@@ -1021,7 +1021,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-maghair-shuayb-history-v2",
     type: "ruins",
     name: { de: "Magha'ir Shu'ayb", hu: "Magair Suajb", ro: "Magha'ir Shu'ayb", en: "Magha'ir Shu'ayb" },
-    coordinates: { lat: 28.4833, lng: 34.9933 },
+    coords: [34.9933, 28.4833],
     description: {
       de: "Eine antike nabatäische Nekropole in der Region Tabuk, die oft mit dem biblischen Volk Midian in Verbindung gebracht wird. Sie zeigt in Fels gehauene Fassaden.",
       hu: "Ókori nabateus nekropolisz Tabuk régióban, amelyet gyakran a bibliai Midián népével hoznak összefüggésbe. Sziklába vájt homlokzatokat mutat be.",
@@ -1040,7 +1040,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qal-al-azlam-history-v2",
     type: "castle",
     name: { de: "Burg Al-Azlam", hu: "Al-Azlam vára", ro: "Cetatea Al-Azlam", en: "Al-Azlam Fort" },
-    coordinates: { lat: 25.8672, lng: 36.7889 },
+    coords: [36.7889, 25.8672],
     description: {
       de: "Ein historisches osmanisches Fort an der Pilgerroute südlich von Al-Wajh. Es diente als Versorgungsstation und Schutz für Pilger auf dem Weg nach Mekka.",
       hu: "Történelmi oszmán erőd a zarándokút mentén, Al-Wajh-tól délre. Ellátó állomásként és védelemként szolgált a Mekkába tartó zarándokoknak.",
@@ -1059,7 +1059,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qal-al-zuraib-history-v2",
     type: "castle",
     name: { de: "Burg Al-Zuraib", hu: "Al-Zurajb vára", ro: "Cetatea Al-Zuraib", en: "Al-Zuraib Fort" },
-    coordinates: { lat: 26.2417, lng: 36.4778 },
+    coords: [36.4778, 26.2417],
     description: {
       de: "Eine Festung aus der Zeit von Sultan Murad IV. in der Nähe von Al-Wajh. Sie wurde zum Schutz des Brunnens und der Pilgerkarawanen errichtet.",
       hu: "IV. Murád szultán idején épült erőd Al-Wajh közelében. A kút és a zarándokkaravánok védelmére hozták létre.",
@@ -1078,7 +1078,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-mabiyat-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Al-Mabiyat", hu: "Al-Mabiját régészeti lelőhely", ro: "Situl arheologic Al-Mabiyat", en: "Al-Mabiyat Archaeological Site" },
-    coordinates: { lat: 26.5167, lng: 38.125 },
+    coords: [38.125, 26.5167],
     description: {
       de: "Die Überreste der frühmittelalterlichen Stadt Qurh, die einst ein blühendes Handels- und Landwirtschaftszentrum in der Nähe von Al-Ula war.",
       hu: "A kora középkori Kurh városának maradványai, amely egykor virágzó kereskedelmi és mezőgazdasági központ volt Al-Ula közelében.",
@@ -1097,7 +1097,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-rabadhah-history-v2",
     type: "ruins",
     name: { de: "Al-Rabadhah", hu: "Al-Rabadza", ro: "Al-Rabadhah", en: "Al-Rabadhah" },
-    coordinates: { lat: 24.6333, lng: 41.2917 },
+    coords: [41.2917, 24.6333],
     description: {
       de: "Eine wichtige Raststation an der Zubaida-Route (Darb Zubaida) während der Abbasidenzeit. Sie ist bekannt für ihre gut erhaltenen archäologischen Funde.",
       hu: "Fontos pihenőhely a Zubajda-út (Darb Zubajda) mentén az Abbászida korszakban. Jól megőrzött régészeti leleteiről ismert.",
@@ -1116,7 +1116,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-faid-fortress-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Faid", hu: "Fajd régészeti lelőhely", ro: "Situl arheologic Faid", en: "Faid Archaeological Site" },
-    coordinates: { lat: 27.1167, lng: 42.5167 },
+    coords: [42.5167, 27.1167],
     description: {
       de: "Eine antike Stadt in der Region Ha'il, die als wichtigste Station auf der Kufa-Mekka-Pilgerstraße (Darb Zubaida) galt.",
       hu: "Ókori város Ha'il régióban, amely a Kúfa-Mekka zarándokút (Darb Zubajda) legfontosabb állomása volt.",
@@ -1135,7 +1135,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jurash-history-v2",
     type: "ruins",
     name: { de: "Jurash-Ausgrabungen", hu: "Dzsuras-ásatások", ro: "Excavațiile de la Jurash", en: "Jurash Archaeological Site" },
-    coordinates: { lat: 18.2528, lng: 42.7167 },
+    coords: [42.7167, 18.2528],
     description: {
       de: "Überreste einer antiken Stadt in der Nähe von Khamis Mushait, die für ihre Produktion von Leder und Militärtechnologie in der vorislamischen Zeit bekannt war.",
       hu: "Egy ókori város maradványai Khamis Mushait közelében, amely az iszlám előtti időkben bőrgyártásáról és haditechnikai eszközeiről volt ismert.",
@@ -1154,7 +1154,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-abla-history-v2",
     type: "mine",
     name: { de: "Al-Abla Bergbaustätte", hu: "Al-Abla bányászati lelőhely", ro: "Situl minier Al-Abla", en: "Al-Abla Ancient Site" },
-    coordinates: { lat: 19.8514, lng: 41.875 },
+    coords: [41.875, 19.8514],
     description: {
       de: "Eine bedeutende antike Bergbaustadt im Südwesten Saudi-Arabiens, die für den Abbau von Gold und Kupfer während der abbasidischen Ära bekannt war.",
       hu: "Jelentős ókori bányászváros Szaúd-Arábia délnyugati részén, amely az Abbászida korban arany- és rézbányászatáról volt nevezetes.",
@@ -1173,7 +1173,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-wajh-fort-history-v2",
     type: "castle",
     name: { de: "Al-Wajh Fort", hu: "Al-Wadzsh erőd", ro: "Cetatea Al-Wajh", en: "Al-Wajh Fort" },
-    coordinates: { lat: 26.2347, lng: 36.4528 },
+    coords: [36.4528, 26.2347],
     description: {
       de: "Ein historisches Fort mit Blick auf den alten Hafen von Al-Wajh. Es diente zur Verteidigung der Stadt und der Küste des Roten Meeres.",
       hu: "Történelmi erőd, amely Al-Wajh régi kikötőjére néz. A város és a Vörös-tenger partvidékének védelmét szolgálta.",
@@ -1192,7 +1192,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-ula-station-history-v2",
     type: "landmark",
     name: { de: "Hejaz-Bahnhof Al-Ula", hu: "Al-Ula Hedzsáz-vasútállomás", ro: "Gara Hejaz din Al-Ula", en: "Al-Ula Hejaz Station" },
-    coordinates: { lat: 26.5333, lng: 38.0017 },
+    coords: [38.0017, 26.5333],
     description: {
       de: "Einer der wichtigsten Bahnhöfe der historischen Hejaz-Eisenbahn, die Damaskus mit Medina verband. Die Station zeigt restaurierte osmanische Bahnbauten.",
       hu: "A Damaszkuszt Medinával összekötő történelmi Hedzsáz-vasút egyik legfontosabb állomása. Restaurált oszmán vasúti épületeket mutat be.",
@@ -1211,7 +1211,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-madain-railway-history-v2",
     type: "landmark",
     name: { de: "Bahnhof Madain Salih", hu: "Madáin Szálih vasútállomás", ro: "Gara Madain Salih", en: "Madain Salih Railway Station" },
-    coordinates: { lat: 26.8011, lng: 37.9547 },
+    coords: [37.9547, 26.8011],
     description: {
       de: "Eine bedeutende Station der Hejaz-Eisenbahn innerhalb der Welterbestätte Madain Salih (Hegra). Sie umfasst Werkstätten und Wohnhäuser für Eisenbahner.",
       hu: "A Hedzsáz-vasút jelentős állomása a Madáin Szálih (Hegra) világörökségi helyszínen belül. Műhelyeket és vasutas lakóházakat is magában foglal.",
@@ -1230,7 +1230,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-ahsa-qanats-history-v2",
     type: "landmark",
     name: { de: "Al-Ahsa Qanate", hu: "Al-Ahsza kanátok", ro: "Canalele Qanat din Al-Ahsa", en: "Al-Ahsa Qanats" },
-    coordinates: { lat: 25.4217, lng: 49.585 },
+    coords: [49.585, 25.4217],
     description: {
       de: "Ein uraltes System unterirdischer Bewässerungskanäle in der Al-Ahsa-Oase. Sie zeugen von der fortschrittlichen Wasserwirtschaft vergangener Zivilisationen.",
       hu: "Földalatti öntözőcsatornák ősi rendszere az Al-Ahsza oázisban. A múltbeli civilizációk fejlett vízgazdálkodásának tanúbizonyságai.",
@@ -1249,7 +1249,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ain-dar-history-v2",
     type: "ruins",
     name: { de: "Ain Dar Stätte", hu: "Ain Dar lelőhely", ro: "Situl Ain Dar", en: "Ain Dar Site" },
-    coordinates: { lat: 25.9861, lng: 49.3875 },
+    coords: [49.3875, 25.9861],
     description: {
       de: "Eine archäologische Fundstätte in der Ostprovinz mit Siedlungsspuren aus der Bronze- und Eisenzeit. Sie lieferte wichtige Erkenntnisse über frühe Handelsrouten.",
       hu: "Régészeti lelőhely a Keleti Tartományban bronz- és vaskori településnyomokkal. Fontos információkkal szolgált a korai kereskedelmi útvonalakról.",
@@ -1268,7 +1268,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-dosariyah-history-v2",
     type: "ruins",
     name: { de: "Dosariyah Neolithische Stätte", hu: "Doszarija neolitikus lelőhely", ro: "Situl neolitic Dosariyah", en: "Dosariyah Neolithic Site" },
-    coordinates: { lat: 26.9667, lng: 49.5333 },
+    coords: [49.5333, 26.9667],
     description: {
       de: "Einer der bedeutendsten neolithischen Fundorte am Persischen Golf. Er dokumentiert den frühen Austausch zwischen Mesopotamien und Arabien vor ca. 7.000 Jahren.",
       hu: "A Perzsa-öböl egyik legjelentősebb neolitikus lelőhelye. Dokumentálja a Mezopotámia és Arábia közötti korai cserét kb. 7000 évvel ezelőttről.",
@@ -1287,7 +1287,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-yanbu-al-nakhl-history-v2",
     type: "village",
     name: { de: "Yanbu Al-Nakhl Kulturerbe", hu: "Yanbu Al-Nakhl örökség", ro: "Patrimoniul Yanbu Al-Nakhl", en: "Yanbu Al-Nakhl Heritage" },
-    coordinates: { lat: 24.2333, lng: 38.15 },
+    coords: [38.15, 24.2333],
     description: {
       de: "Eine historische Oase im Landesinneren von Yanbu, bekannt für ihre jahrtausendealten Dörfer und Quellen. Sie war ein bedeutender Rastplatz auf der Weihrauchstraße.",
       hu: "Történelmi oázis Yanbu szárazföldi részén, amely évezredes falvairól és forrásairól híres. Fontos pihenőhely volt a tömjénúton.",
@@ -1306,7 +1306,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-imara-najran-history-v2",
     type: "palace",
     name: { de: "Qasr al-Imara Najran", hu: "Nadzsrán kormányzói palota", ro: "Qasr al-Imara Najran", en: "Qasr al-Imara Najran" },
-    coordinates: { lat: 17.5133, lng: 44.1311 },
+    coords: [44.1311, 17.5133],
     description: {
       de: "Ein prächtiger historischer Palast in Najran, der 1944 als Sitz des Gouverneurs erbaut wurde. Er vereint traditionelle sudarabische Architektur mit Wehrelementen.",
       hu: "Pompás történelmi palota Nadzsránban, amely 1944-ben épült a kormányzó székhelyeként. Ötvözi a dél-arábiai építészetet a védelmi elemekkel.",
@@ -1325,7 +1325,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-ghat-village-history-v2",
     type: "village",
     name: { de: "Al-Ghat Kulturerbedorf", hu: "Al-Gat skanzen", ro: "Satul de patrimoniu Al-Ghat", en: "Al-Ghat Heritage Village" },
-    coordinates: { lat: 26.0233, lng: 44.9167 },
+    coords: [44.9167, 26.0233],
     description: {
       de: "Ein gut erhaltenes historisches Dorf in der Region Najd. Es zeigt authentische Lehmhausarchitektur und bietet Einblicke in das traditionelle Leben Zentralarabiens.",
       hu: "Jól megőrzött történelmi falu a Nadzsd régióban. Hiteles vályogház-építészetet mutat be, és betekintést nyújt Közép-Arábia hagyományos életébe.",
@@ -1344,7 +1344,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-shaqra-heritage-history-v2",
     type: "village",
     name: { de: "Shaqra Historisches Viertel", hu: "Sakra történelmi negyede", ro: "Cartierul istoric Shaqra", en: "Shaqra Heritage District" },
-    coordinates: { lat: 25.2417, lng: 45.2528 },
+    coords: [45.2528, 25.2417],
     description: {
       de: "Das historische Zentrum von Shaqra, einer einst blühenden Handelsstadt in Najd. Die Gegend ist berühmt für ihre dichte Ansammlung traditioneller Lehmbauten.",
       hu: "Sakra történelmi központja, amely egykor virágzó kereskedőváros volt Nadzsdban. A környék híres a sűrűn épült hagyományos vályogépületeiről.",
@@ -1363,7 +1363,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ushaiqer-history-v2",
     type: "village",
     name: { de: "Ushaiqer Kulturerbedorf", hu: "Usajker skanzen", ro: "Satul de patrimoniu Ushaiqer", en: "Ushaiqer Heritage Village" },
-    coordinates: { lat: 25.335, lng: 45.1883 },
+    coords: [45.1883, 25.335],
     description: {
       de: "Eines der ältesten Dörfer in der Najd-Region, das seine ursprüngliche Form über Jahrhunderte bewahrt hat. Es ist bekannt für seine gelbe Lehmarchitektur.",
       hu: "A Nadzsd régió egyik legrégebbi faluja, amely évszázadokon át megőrizte eredeti formáját. Sárga vályogépítészetéről ismert.",
@@ -1382,7 +1382,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-khubara-history-v2",
     type: "village",
     name: { de: "Al-Khubara Heritage Village", hu: "Al-Khubara skanzen", ro: "Satul de patrimoniu Al-Khubara", en: "Al-Khubara Heritage Village" },
-    coordinates: { lat: 26.0583, lng: 43.6222 },
+    coords: [43.6222, 26.0583],
     description: {
       de: "Ein historisches Dorf in der Region Qassim, bekannt für seine kreisförmige Anordnung und dicken Verteidigungsmauern aus Lehm.",
       hu: "Történelmi falu Kasszim régióban, amely kör alakú elrendezéséről és vastag védelmi vályogfalairól ismert.",
@@ -1401,7 +1401,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-hait-town-history-v2",
     type: "ruins",
     name: { de: "Al-Ha'it Antike Stadt", hu: "Al-Hait ókori városa", ro: "Orașul antic Al-Ha'it", en: "Al-Ha'it Ancient Town" },
-    coordinates: { lat: 25.9961, lng: 40.5222 },
+    coords: [40.5222, 25.9961],
     description: {
       de: "Eine antike Oase in der Region Ha'il, die für ihre schwarzen Basaltbauten und zahlreichen Inschriften bekannt ist. Sie war einst als Fadak bekannt.",
       hu: "Ókori oázis Ha'il régióban, amely fekete bazaltépületeiről és számos feliratáról ismert. Egykor Fadak néven volt ismert.",
@@ -1420,7 +1420,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-thawr-cave-history-v2",
     type: "landmark",
     name: { de: "Berg Thawr Pfad", hu: "Szaur-hegyi ösvény", ro: "Poteca de pe Muntele Thawr", en: "Mount Thawr Path" },
-    coordinates: { lat: 21.3783, lng: 39.8492 },
+    coords: [39.8492, 21.3783],
     description: {
       de: "Der historische Aufstieg zum Gipfel des Berges Thawr, den der Prophet Muhammad nutzte. Der Pfad ist eine wichtige Route für geschichtsinteressierte Pilger.",
       hu: "A Szaur-hegy csúcsára vezető történelmi út, amelyet Mohamed próféta is használt. Fontos útvonal a történelem iránt érdeklődő zarándokoknak.",
@@ -1439,7 +1439,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qiblatayn-well-history-v2",
     type: "landmark",
     name: { de: "Ruma-Brunnen", hu: "Ruma-kút", ro: "Fântâna Ruma", en: "Ruma Well" },
-    coordinates: { lat: 24.5028, lng: 39.5639 },
+    coords: [39.5639, 24.5028],
     description: {
       de: "Ein historischer Brunnen in Medina, der von Uthman bin Affan gekauft wurde, um ihn der muslimischen Gemeinschaft kostenlos zur Verfügung zu stellen.",
       hu: "Történelmi kút Medinában, amelyet Oszmán bin Affán vásárolt meg, hogy ingyenesen a muszlim közösség rendelkezésére bocsássa.",
@@ -1458,7 +1458,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jabal-salma-history-v2",
     type: "landmark",
     name: { de: "Jabal Salma Historische Stätten", hu: "Dzsebel Szalma történelmi helyszínek", ro: "Siturile istorice de la Jabal Salma", en: "Jabal Salma Historic Sites" },
-    coordinates: { lat: 27.2, lng: 41.8 },
+    coords: [41.8, 27.2],
     description: {
       de: "Ein Gebirgszug in der Nähe von Ha'il, der reich an antiken Felsinschriften und prähistorischen Grabstätten ist.",
       hu: "Ha'il közelében fekvő hegység, amely gazdag ókori sziklafeliratokban és őskori sírhelyekben.",
@@ -1477,7 +1477,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-al-maraj-history-v2",
     type: "castle",
     name: { de: "Burg Al-Maraj", hu: "Al-Maradzs vára", ro: "Cetatea Al-Maraj", en: "Al-Maraj Fort" },
-    coordinates: { lat: 28.3, lng: 36.6 },
+    coords: [36.6, 28.3],
     description: {
       de: "Ein osmanisches Fort in der Region Tabuk, das zur Überwachung der Pilgerroute und zum Schutz der Wasserstellen diente.",
       hu: "Oszmán erőd Tabuk régióban, amely a zarándokút felügyeletére és a vízlelőhelyek védelmére szolgált.",
@@ -1496,7 +1496,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ushaiqer-heritage-district-history-v2",
     type: "village",
     name: { de: "Marktplatz von Ushaiqer", hu: "Usajker piaca", ro: "Piața din Ushaiqer", en: "Ushaiqer Souq" },
-    coordinates: { lat: 25.3361, lng: 45.1872 },
+    coords: [45.1872, 25.3361],
     description: {
       de: "Der historische Marktplatz im Herzen von Ushaiqer, wo früher Handelskarawanen Waren tauschten. Er wurde detailgetreu restauriert.",
       hu: "Történelmi piac Usajker szívében, ahol egykor kereskedelmi karavánok cseréltek gazdát. Részletgazdagon restaurálták.",
@@ -1515,7 +1515,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-bad-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Al-Bad'", hu: "Al-Bad' romjai", ro: "Ruinele din Al-Bad'", en: "Al-Bad' Ruins" },
-    coordinates: { lat: 28.4872, lng: 35.0139 },
+    coords: [35.0139, 28.4872],
     description: {
       de: "Archäologische Überreste in der Nähe der Stadt Al-Bad', die Siedlungsspuren aus verschiedenen Epochen, einschließlich der nabatäischen Zeit, aufweisen.",
       hu: "Régészeti maradványok Al-Bad' városa közelében, melyek különböző korszakok, köztük a nabateus idők nyomait mutatják.",
@@ -1534,7 +1534,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-shaqra-city-walls-history-v2",
     type: "landmark",
     name: { de: "Stadtmauern von Shaqra", hu: "Sakra városfalai", ro: "Zidurile cetății Shaqra", en: "Shaqra City Walls" },
-    coordinates: { lat: 25.2458, lng: 45.2514 },
+    coords: [45.2514, 25.2458],
     description: {
       de: "Die historischen Befestigungsanlagen von Shaqra, die die Stadt vor Angriffen schützten. Die Mauern sind ein beeindruckendes Beispiel für Lehmfestungsbau.",
       hu: "Sakra történelmi védművei, amelyek a várost védték a támadásoktól. A falak a vályogból készült erődépítészet lenyűgöző példái.",
@@ -1553,7 +1553,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-ula-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Ula", hu: "Al-Ula citadellája", ro: "Citadela din Al-Ula", en: "Al-Ula Citadel" },
-    coordinates: { lat: 26.6217, lng: 37.9258 },
+    coords: [37.9258, 26.6217],
     description: {
       de: "Ein auf einem Hügel gelegenes Fort, das die historische Altstadt von Al-Ula überragt. Es bot strategischen Schutz für die Oase.",
       hu: "Dombtetőre épült erőd, amely Al-Ula történelmi óvárosa fölé magasodik. Stratégiai védelmet nyújtott az oázisnak.",
@@ -1572,7 +1572,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-faid-water-wells-history-v2",
     type: "landmark",
     name: { de: "Historische Brunnen von Faid", hu: "Fajd történelmi kútjai", ro: "Fântânile istorice din Faid", en: "Faid Historic Wells" },
-    coordinates: { lat: 27.1189, lng: 42.5183 },
+    coords: [42.5183, 27.1189],
     description: {
       de: "Ein außergewöhnliches System antiker Brunnen in Faid, die in den Basaltfels gehauen wurden, um die Wasserversorgung an der Wüstenroute zu sichern.",
       hu: "Fajd ókori kútjainak rendkívüli rendszere, melyeket bazaltsziklába vájtak, hogy biztosítsák a vízellátást a sivatagi úton.",
@@ -1591,7 +1591,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-mabiyat-city-walls-history-v2",
     type: "ruins",
     name: { de: "Stadtmauern von Qurh", hu: "Kurh városfalai", ro: "Zidurile cetății Qurh", en: "City Walls of Qurh" },
-    coordinates: { lat: 26.5178, lng: 38.1264 },
+    coords: [38.1264, 26.5178],
     description: {
       de: "Die massiven Verteidigungsmauern der antiken Stadt Qurh (Al-Mabiyat). Sie boten Schutz für eines der wichtigsten Handelszentren des frühen Islam.",
       hu: "Kurh (Al-Mabiját) ókori városának hatalmas védőfalai. A kora iszlám korszak egyik legfontosabb kereskedelmi központját védték.",
@@ -1610,7 +1610,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ain-zubaydah-channels-history-v2",
     type: "landmark",
     name: { de: "Ain Zubaydah Aquädukt", hu: "Ain Zubajda akvedukt", ro: "Aveductul Ain Zubaydah", en: "Ain Zubaydah Aqueduct" },
-    coordinates: { lat: 21.3, lng: 39.95 },
+    coords: [39.95, 21.3],
     description: {
       de: "Ein historisches Wasserleitungssystem, das Wasser aus den Bergen nach Mekka leitete. Errichtet auf Anweisung von Prinzessin Zubaydah, der Frau von Harun al-Rashid.",
       hu: "Történelmi vízvezeték-rendszer, amely a hegyekből szállított vizet Mekkába. Zubajda hercegnő, Harun al-Rasid feleségének utasítására épült.",
@@ -1629,7 +1629,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-khaybar-irrigation-history-v2",
     type: "landmark",
     name: { de: "Bewässerungssystem von Khaybar", hu: "Khajbar öntözőrendszere", ro: "Sistemul de irigații din Khaybar", en: "Khaybar Irrigation System" },
-    coordinates: { lat: 25.6889, lng: 39.3194 },
+    coords: [39.3194, 25.6889],
     description: {
       de: "Ein antikes System von Kanälen und Dämmen in der Oase Khaybar, das eine intensive Landwirtschaft in der vulkanischen Region ermöglichte.",
       hu: "Ősi csatornákból és gátakból álló rendszer Khajbar oázisában, amely intenzív mezőgazdaságot tett lehetővé a vulkanikus vidéken.",
@@ -1648,7 +1648,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-rabadhah-mosque-history-v2",
     type: "ruins",
     name: { de: "Moschee von Al-Rabadhah", hu: "Al-Rabadza mecset", ro: "Moscheea Al-Rabadhah", en: "Al-Rabadhah Mosque" },
-    coordinates: { lat: 24.6342, lng: 41.2933 },
+    coords: [41.2933, 24.6342],
     description: {
       de: "Die Ruinen der Hauptmoschee der abbasidischen Siedlung Al-Rabadhah. Sie ist ein bedeutendes Beispiel für die sakrale Architektur an den alten Pilgerrouten.",
       hu: "Az abbászida kori Al-Rabadza település főmecsetének romjai. A régi zarándokutak menti szakrális építészet jelentős példája.",
@@ -1667,7 +1667,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-thaj-necropolis-history-v2",
     type: "ruins",
     name: { de: "Nekropole von Thaj", hu: "Thadzs nekropolisza", ro: "Necropola din Thaj", en: "Thaj Necropolis" },
-    coordinates: { lat: 26.88, lng: 48.72 },
+    coords: [48.72, 26.88],
     description: {
       de: "Ein ausgedehntes Gräberfeld außerhalb der antiken Stadt Thaj. Die Bestattungen geben wertvolle Einblicke in die Bestattungsriten der Gerrhaer.",
       hu: "Kiterjedt sírmező az ókori Thadzs városán kívül. A temetkezések értékes betekintést nyújtanak a gerrhaiak temetkezési rituáléiba.",
@@ -1686,7 +1686,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-dedan-lion-tombs-history-v2",
     type: "ruins",
     name: { de: "Löwengräber von Dedan", hu: "Dédán oroszlános sírjai", ro: "Mormintele cu lei din Dedan", en: "Lion Tombs of Dedan" },
-    coordinates: { lat: 26.6339, lng: 37.9317 },
+    coords: [37.9317, 26.6339],
     description: {
       de: "Berühmte Felsengräber im antiken Dedan, die mit Reliefs von sitzenden Löwen verziert sind. Sie dienten als Ruhestätten für die Aristokratie von Lihyan.",
       hu: "Híres sziklasírok az ókori Dédánban, melyeket ülő oroszlánok domborművei díszítenek. Lihján arisztokráciájának nyughelyeként szolgáltak.",
@@ -1705,7 +1705,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-jabal-ikmah-library-history-v2",
     type: "landmark",
     name: { de: "Steinbibliothek Jabal Ikmah", hu: "Dzsebel Ikma kőkönyvtár", ro: "Biblioteca de piatră Jabal Ikmah", en: "Jabal Ikmah Stone Library" },
-    coordinates: { lat: 26.655, lng: 37.916 },
+    coords: [37.916, 26.655],
     description: {
       de: "Eine Ansammlung monumentaler Inschriften in einer Schlucht bei Al-Ula. Sie bilden eine der reichsten Quellen zur Geschichte des vorislamischen Nordarabien.",
       hu: "Monumentális feliratok gyűjteménye egy Al-Ula közeli kanyonban. Az iszlám előtti Észak-Arábia történetének egyik leggazdagabb forrását alkotják.",
@@ -1724,7 +1724,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qasr-al-farid-history-v2",
     type: "ruins",
     name: { de: "Qasr al-Farid", hu: "Kaszr al-Farid", ro: "Qasr al-Farid", en: "Qasr al-Farid" },
-    coordinates: { lat: 26.7864, lng: 37.9511 },
+    coords: [37.9511, 26.7864],
     description: {
       de: "Das 'Einsame Schloss', ein monumentales unvollendetes nabatäisches Grabmal in Hegra. Es besteht aus einem einzigen massiven Felsblock.",
       hu: "A 'Magányos kastély', egy monumentális, befejezetlen nabateus síremlék Hegrában. Egyetlen hatalmas sziklatömbből áll.",
@@ -1743,7 +1743,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-qaryat-heritage-village-history-v2",
     type: "village",
     name: { de: "Al-Qaryat Kulturerbedorf", hu: "Al-Karjat skanzen", ro: "Satul de patrimoniu Al-Qaryat", en: "Al-Qaryat Heritage Village" },
-    coordinates: { lat: 31.3333, lng: 37.3333 },
+    coords: [37.3333, 31.3333],
     description: {
       de: "Ein historisches Zentrum in der nördlichen Region Al-Jouf, das traditionelle Architektur und lokale Geschichte der Grenzregion zeigt.",
       hu: "Történelmi központ az északi Al-Dzsouf régióban, amely a határvidék hagyományos építészetét és helyi történelmét mutatja be.",
@@ -1762,7 +1762,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-al-ukhdud-ruins-history-v2",
     type: "ruins",
     name: { de: "Ausgrabungen von Al-Ukhdud", hu: "Al-Ukhdud ásatások", ro: "Săpăturile de la Al-Ukhdud", en: "Al-Ukhdud Excavations" },
-    coordinates: { lat: 17.4833, lng: 44.1833 },
+    coords: [44.1833, 17.4833],
     description: {
       de: "Archäologische Stätte in Najran, die die Überreste einer antiken Stadt mit massiven Steinmauern und Inschriften umfasst.",
       hu: "Régészeti lelőhely Nadzsránban, amely egy ókori város maradványait foglalja magában hatalmas kőfalakkal és feliratokkal.",
@@ -1781,7 +1781,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-shaqra-old-market-history-v2",
     type: "village",
     name: { de: "Al-Majlis Souq Shaqra", hu: "Al-Madzslisz szúk Sakra", ro: "Piața Al-Majlis din Shaqra", en: "Al-Majlis Souq Shaqra" },
-    coordinates: { lat: 25.2428, lng: 45.2539 },
+    coords: [45.2539, 25.2428],
     description: {
       de: "Der historische Hauptmarkt von Shaqra, bekannt für seine traditionelle Najdi-Architektur und seine Rolle als Wirtschaftszentrum der Region.",
       hu: "Sakra fő történelmi piaca, amely hagyományos nadzsdi építészetéről és a régió gazdasági központjaként betöltött szerepéről ismert.",
@@ -1800,7 +1800,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-ushaiqer-heritage-museum-history-v2",
     type: "monument",
     name: { de: "Ushaiqer Museum", hu: "Usajker Múzeum", ro: "Muzeul Ushaiqer", en: "Ushaiqer Museum" },
-    coordinates: { lat: 25.3375, lng: 45.1867 },
+    coords: [45.1867, 25.3375],
     description: {
       de: "Ein privates Museum im Kulturerbedorf Ushaiqer, das tausende Exponate zur Geschichte und Kultur der Region Najd beherbergt.",
       hu: "Magánmúzeum Usajker skanzenében, amely több ezer kiállítási tárgyat mutat be a Nadzsd régió történelméről és kultúrájáról.",
@@ -1819,7 +1819,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-khubara-citadel-history-v2",
     type: "castle",
     name: { de: "Zitadelle von Al-Khubara", hu: "Al-Khubara citadellája", ro: "Citadela din Al-Khubara", en: "Al-Khubara Citadel" },
-    coordinates: { lat: 26.0594, lng: 43.6211 },
+    coords: [43.6211, 26.0594],
     description: {
       de: "Der befestigte Kern des Heritage Village Al-Khubara. Er diente als letzte Verteidigungslinie der Bewohner während regionaler Konflikte.",
       hu: "Al-Khubara skanzenének megerősített magja. A lakosok utolsó védelmi vonalaként szolgált a regionális konfliktusok idején.",
@@ -1838,7 +1838,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-rabadhah-cisterns-history-v2",
     type: "landmark",
     name: { de: "Zisternen von Al-Rabadhah", hu: "Al-Rabadza ciszternái", ro: "Cisternele din Al-Rabadhah", en: "Al-Rabadhah Cisterns" },
-    coordinates: { lat: 24.635, lng: 41.295 },
+    coords: [41.295, 24.635],
     description: {
       de: "Bedeutende wasserbauliche Anlagen der Abbasidenzeit in Al-Rabadhah. Die kreisförmigen Zisternen fingen Regenwasser für Pilger auf.",
       hu: "Jelentős abbászida kori vízi építmények Al-Rabadzában. A kör alakú ciszternák esővizet gyűjtöttek a zarándokok számára.",
@@ -1857,7 +1857,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-faid-mosque-history-v2",
     type: "ruins",
     name: { de: "Alte Moschee von Faid", hu: "Fajd régi mecsetje", ro: "Moscheea veche din Faid", en: "Old Mosque of Faid" },
-    coordinates: { lat: 27.1175, lng: 42.5172 },
+    coords: [42.5172, 27.1175],
     description: {
       de: "Die Überreste einer der frühesten Moscheen in der Region Ha'il, gelegen in der antiken Stadt Faid an der Pilgerroute.",
       hu: "Ha'il régió egyik legkorábbi mecsetének maradványai, a zarándokút menti ókori Fajd városában.",
@@ -1876,7 +1876,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-dedan-inscriptions-history-v2",
     type: "landmark",
     name: { de: "Inschriften von Dedan", hu: "Dédáni feliratok", ro: "Inscripțiile din Dedan", en: "Dedan Inscriptions" },
-    coordinates: { lat: 26.6328, lng: 37.9303 },
+    coords: [37.9303, 26.6328],
     description: {
       de: "Zahlreiche Felsinschriften im Bereich von Al-Khuraybah (Dedan), die wichtige Informationen über die Könige von Lihyan enthalten.",
       hu: "Számos sziklafelirat Al-Khurajbah (Dédán) területén, amelyek fontos információkat tartalmaznak Lihján királyairól.",
@@ -1895,7 +1895,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-tayma-city-walls-history-v2",
     type: "landmark",
     name: { de: "Stadtmauern von Tayma", hu: "Tajma városfalai", ro: "Zidurile cetății Tayma", en: "Tayma City Walls" },
-    coordinates: { lat: 27.6211, lng: 38.4878 },
+    coords: [38.4878, 27.6211],
     description: {
       de: "Ein gewaltiges System antiker Verteidigungsmauern, das die Oase Tayma umschließt. Es erstreckt sich über eine Länge von fast 15 Kilometern.",
       hu: "Ókori védőfalak hatalmas rendszere, amely körbeveszi Tajma oázisát. Közel 15 kilométer hosszan nyúlik el.",
@@ -1914,7 +1914,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     id: "saudiarabia-hejaz-locomotive-history-v2",
     type: "monument",
     name: { de: "Hejaz-Dampflokomotive", hu: "Hedzsáz gőzmozdony", ro: "Locomotiva cu abur Hejaz", en: "Hejaz Steam Locomotive" },
-    coordinates: { lat: 24.4611, lng: 39.6011 },
+    coords: [39.6011, 24.4611],
     description: {
       de: "Eine originale Dampflokomotive der Hejaz-Eisenbahn, die im Eisenbahnmuseum von Medina ausgestellt ist. Sie ist ein Symbol für den technologischen Fortschritt Anfang des 20. Jahrhunderts.",
       hu: "A Hedzsáz-vasút egyik eredeti gőzmozdonya, amelyet a medinai vasúti múzeumban állítottak ki. A 20. század eleji technológiai fejlődés szimbóluma.",

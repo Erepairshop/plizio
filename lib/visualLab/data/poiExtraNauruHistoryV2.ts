@@ -5,7 +5,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-command-ridge-guns-history-v2",
     type: "monument",
     name: { de: "Geschütze am Command Ridge", hu: "Command Ridge ágyúk", ro: "Tunurile de pe Command Ridge", en: "Command Ridge Guns" },
-    coordinates: { lat: -0.5312, lng: 166.9151 },
+    coords: [166.9151, -0.5312],
     description: {
       de: "Historische japanische Küstenverteidigungsgeschütze auf dem höchsten Punkt der Insel, die noch heute an ihren ursprünglichen Positionen stehen.",
       hu: "Történelmi japán partvédelmi ágyúk a sziget legmagasabb pontján, amelyek ma is eredeti helyükön állnak.",
@@ -24,7 +24,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-old-cantilever-history-v2",
     type: "industry",
     name: { de: "Alter Phosphat-Ausleger", hu: "Régi foszfátrakodó", ro: "Vechiul cantilever de fosfat", en: "Old Phosphate Cantilever" },
-    coordinates: { lat: -0.5365, lng: 166.9102 },
+    coords: [166.9102, -0.5365],
     description: {
       de: "Eine massive Stahlkonstruktion an der Küste, die einst zur Beladung von Schiffen mit Phosphat diente und die Wirtschaftsgeschichte Naurus prägte.",
       hu: "Egy hatalmas acélszerkezet a parton, amely egykor hajók foszfáttal való megtöltésére szolgált, és meghatározta Nauru gazdaságtörténetét.",
@@ -43,7 +43,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-pow-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegsgefangenen-Denkmal", hu: "Hadifogoly emlékmű", ro: "Monumentul prizonierilor de război", en: "POW Memorial" },
-    coordinates: { lat: -0.5482, lng: 166.9205 },
+    coords: [166.9205, -0.5482],
     description: {
       de: "Ein Denkmal zur Erinnerung an die nauruischen Zivilisten und ausländischen Gefangenen, die während der japanischen Besetzung litten.",
       hu: "Emlékmű a naurui civilek és külföldi foglyok emlékére, akik a japán megszállás alatt szenvedtek.",
@@ -62,7 +62,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-naoero-museum-history-v2",
     type: "museum",
     name: { de: "Naoero Museum", hu: "Naoero Múzeum", ro: "Muzeul Naoero", en: "Naoero Museum" },
-    coordinates: { lat: -0.5461, lng: 166.9192 },
+    coords: [166.9192, -0.5461],
     description: {
       de: "Das Nationalmuseum von Nauru, das Artefakte zur Inselgeschichte, zum Phosphatabbau und zum Zweiten Weltkrieg beherbergt.",
       hu: "Nauru nemzeti múzeuma, amely a sziget történelmével, a foszfátbányászattal és a második világháborúval kapcsolatos tárgyakat őriz.",
@@ -81,7 +81,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-anabar-caves-history-v2",
     type: "landmark",
     name: { de: "Anabar-Höhlen", hu: "Anabar-barlangok", ro: "Peșterile Anabar", en: "Anabar Caves" },
-    coordinates: { lat: -0.5105, lng: 166.9458 },
+    coords: [166.9458, -0.5105],
     description: {
       de: "Natürliche Kalksteinhöhlen, die in der Geschichte Naurus als Zufluchtsorte während Dürren und Kriegen dienten.",
       hu: "Természetes mészkőbarlangok, amelyek Nauru történelme során menedékként szolgáltak aszályok és háborúk idején.",
@@ -100,7 +100,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-buada-settlement-site-history-v2",
     type: "village",
     name: { de: "Historische Siedlung Buada", hu: "Buada történelmi település", ro: "Așezarea istorică Buada", en: "Buada Historic Settlement" },
-    coordinates: { lat: -0.5342, lng: 166.9231 },
+    coords: [166.9231, -0.5342],
     description: {
       de: "Das fruchtbare Landesinnere um die Buada-Lagune, seit Jahrhunderten ein Zentrum für Landwirtschaft und Besiedlung auf der Insel.",
       hu: "A Buada-lagúna körüli termékeny belső terület, amely évszázadok óta a mezőgazdaság és a letelepedés központja a szigeten.",
@@ -119,7 +119,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-phosphate-discovery-site-history-v2",
     type: "landmark",
     name: { de: "Stelle der Phosphat-Entdeckung", hu: "A foszfát felfedezésének helye", ro: "Locul descoperirii fosfatului", en: "Phosphate Discovery Site" },
-    coordinates: { lat: -0.5301, lng: 166.9304 },
+    coords: [166.9304, -0.5301],
     description: {
       de: "Der Ort, an dem um 1900 die riesigen Phosphatvorkommen identifiziert wurden, was den Lauf der Geschichte Naurus für immer veränderte.",
       hu: "Az a hely, ahol 1900 körül azonosították a hatalmas foszfátkészleteket, ami örökre megváltoztatta Nauru történelmét.",
@@ -138,7 +138,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-state-house-history-v2",
     type: "landmark",
     name: { de: "Altes State House", hu: "Régi Állami Ház", ro: "Vechea Casă de Stat", en: "Old State House" },
-    coordinates: { lat: -0.5492, lng: 166.9158 },
+    coords: [166.9158, -0.5492],
     description: {
       de: "Der historische Amtssitz des Präsidenten von Nauru, ein Symbol der politischen Souveränität seit der Unabhängigkeit 1968.",
       hu: "Nauru elnökének történelmi hivatali lakhelye, a politikai szuverenitás szimbóluma az 1968-as függetlenség óta.",
@@ -157,7 +157,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-japanese-hospital-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des japanischen Lazaretts", hu: "Japán katonai kórház romjai", ro: "Ruinele spitalului japonez", en: "Japanese Hospital Ruins" },
-    coordinates: { lat: -0.5358, lng: 166.9174 },
+    coords: [166.9174, -0.5358],
     description: {
       de: "Überreste einer medizinischen Einrichtung der japanischen Armee, die während des Pazifikkrieges im Inselinneren errichtet wurde.",
       hu: "A japán hadsereg egészségügyi létesítményének maradványai, amelyet a csendes-óceáni háború alatt építettek a sziget belsejében.",
@@ -176,7 +176,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-bpc-office-history-v2",
     type: "landmark",
     name: { de: "BPC-Verwaltungsgebäude", hu: "BPC adminisztrációs épület", ro: "Clădirea administrativă BPC", en: "BPC Administration Building" },
-    coordinates: { lat: -0.5382, lng: 166.9121 },
+    coords: [166.9121, -0.5382],
     description: {
       de: "Das ehemalige Hauptquartier der British Phosphate Commissioners, die den Bergbau über Jahrzehnte kontrollierten.",
       hu: "A British Phosphate Commissioners egykori főhadiszállása, amely évtizedeken át irányította a bányászatot.",
@@ -195,7 +195,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-anibare-landing-site-history-v2",
     type: "port",
     name: { de: "Anibare-Landungsstelle", hu: "Anibare partraszállási hely", ro: "Locul de debarcare Anibare", en: "Anibare Landing Site" },
-    coordinates: { lat: -0.5369, lng: 166.9531 },
+    coords: [166.9531, -0.5369],
     description: {
       de: "Ein historisch bedeutender Küstenabschnitt in der Anibare-Bucht, der als einer der wenigen sicheren Anlandepunkte der Insel diente.",
       hu: "Történelmileg jelentős szakasz az Anibare-öbölben, amely a sziget kevés biztonságos kikötőhelyének egyikeként szolgált.",
@@ -214,7 +214,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-aiwo-church-history-v2",
     type: "church",
     name: { de: "Historische Kirche von Aiwo", hu: "Aiwo történelmi temploma", ro: "Biserica istorică din Aiwo", en: "Aiwo Historic Church" },
-    coordinates: { lat: -0.5372, lng: 166.9115 },
+    coords: [166.9115, -0.5372],
     description: {
       de: "Eine der ältesten Kirchengemeinden der Insel, deren Gebäude die Missionierung und den kulturellen Wandel widerspiegeln.",
       hu: "A sziget egyik legrégebbi egyházközsége, amelynek épületei tükrözik a hittérítést és a kulturális változást.",
@@ -233,7 +233,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-civil-administration-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Zivilverwaltung", hu: "Polgári közigazgatás romjai", ro: "Ruinele administrației civile", en: "Civil Administration Ruins" },
-    coordinates: { lat: -0.5475, lng: 166.9163 },
+    coords: [166.9163, -0.5475],
     description: {
       de: "Die Überreste der Verwaltungsgebäude aus der Zeit des Völkerbundmandats, die im Zweiten Weltkrieg zerstört wurden.",
       hu: "A Népszövetségi mandátum idejéből származó közigazgatási épületek maradványai, amelyek a második világháborúban pusztultak el.",
@@ -252,7 +252,7 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-centenary-complex-history-v2",
     type: "landmark",
     name: { de: "Centenary Complex", hu: "Centenáriumi Komplexum", ro: "Complexul Centenar", en: "Centenary Complex" },
-    coordinates: { lat: -0.5452, lng: 166.9181 },
+    coords: [166.9181, -0.5452],
     description: {
       de: "Ein Gebäudekomplex zur Feier des 100. Jahrestages der Entdeckung des Phosphats, der heute Regierungsstellen beherbergt.",
       hu: "A foszfát felfedezésének 100. évfordulójára épült épületegyüttes, amely ma kormányzati hivataloknak ad otthont.",

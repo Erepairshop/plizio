@@ -628,7 +628,7 @@ export const poiExtraIranLifeV2: POI[] = [
     id: "iran-anzali-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Anzali-Lagune", hu: "Anzali-lagúna", ro: "Laguna Anzali", en: "Anzali Lagoon" },
-    coordinates: { lat: 37.4721, lng: 49.3345 },
+    coords: [49.3345, 37.4721],
     description: {
       de: "Diese Küstenlagune am Kaspischen Meer ist ein bedeutendes Feuchtgebiet für Zugvögel. Sie ist bekannt für ihre weiten Felder aus Kaspischem Lotus.",
       hu: "A Kaszpi-tenger partján fekvő lagúna fontos vizes élőhely a költöző madarak számára. Híres a kaszpi lótusz kiterjedt virágmezőiről.",
@@ -642,12 +642,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["15,000 hectares in size", "Ramsar site since 1975", "Home to the Caspian lotus", "70+ registered bird species"],
     },
     imageHint: "Anzali Lagoon with pink Caspian lotus flowers and small boats",
+    descriptionAdvanced: {
+      de: "Die Anzali-Lagune ist ein Küstenfeuchtgebiet im Nordiran, nahe dem Kaspischen Meer in der Provinz Gilan. Sie erstreckt sich über 15.000 Hektar und ist ein wichtiges Vogelparadies. Die Lagune beherbergt zahlreiche Zugvögel wie Flamingos, Pelikane und Reiher. Auch Fischarten wie Störe und Karpfen sind verbreitet. Die Ufer sind von Schilfgürteln und Wäldern gesäumt. Die Lagune ist durch Verschmutzung bedroht, aber Naturschutzmaßnahmen laufen.",
+      hu: "Az Anzali-lagúna egy parti vizes élőhely Észak-Iránban, a Kaszpi-tenger közelében, Gilan tartományban. Területe 15.000 hektár, fontos madárparadicsom. A lagúna számos vonuló madárnak ad otthont, mint a flamingók, pelikánok és gémek. Halfajok, mint a tokhalak és pontyok is gyakoriak. A partokat nádasok és erdők szegélyezik. A lagúnát szennyezés fenyegeti, de természetvédelmi intézkedések zajlanak.",
+      ro: "Laguna Anzali este o zonă umedă de coastă din nordul Iranului, lângă Marea Caspică, în provincia Gilan. Se întinde pe 15.000 de hectare și este un important paradis pentru păsări. Laguna găzduiește numeroase păsări migratoare, cum ar fi flamingo, pelicani și stârci. Specii de pești precum sturionii și crapii sunt, de asemenea, frecvente. Malurile sunt mărginite de stuf și păduri. Laguna este amenințată de poluare, dar se desfășoară măsuri de conservare.",
+      en: "Anzali Lagoon is a coastal wetland in northern Iran, near the Caspian Sea in Gilan province. It covers 15,000 hectares and is an important bird sanctuary. The lagoon hosts numerous migratory birds such as flamingos, pelicans, and herons. Fish species like sturgeon and carp are also common. The shores are lined with reed beds and forests. The lagoon is threatened by pollution, but conservation measures are ongoing.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15.000 Hektar", "Tiefe: durchschnittlich 2 Meter", "Anzahl der Vogelarten: über 150", "Salzgehalt: Brackwasser", "Jährliche Niederschlagsmenge: 1.200 mm", "Entfernung zum Kaspischen Meer: 5 km"],
+      hu: ["Terület: 15.000 hektár", "Mélység: átlagosan 2 méter", "Madárfajok száma: több mint 150", "Sótartalom: brakkvíz", "Éves csapadék: 1200 mm", "Távolság a Kaszpi-tengertől: 5 km"],
+      ro: ["Suprafață: 15.000 ha", "Adâncime: medie 2 m", "Număr de specii de păsări: peste 150", "Salinitate: apă salmastră", "Precipitații anuale: 1200 mm", "Distanța până la Marea Caspică: 5 km"],
+      en: ["Area: 15,000 hectares", "Depth: average 2 meters", "Number of bird species: over 150", "Salinity: brackish water", "Annual rainfall: 1,200 mm", "Distance to Caspian Sea: 5 km"],
+    },
   },
   {
     id: "iran-miankaleh-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Miankaleh-Halbinsel", hu: "Miankaleh-félsziget", ro: "Peninsula Miankaleh", en: "Miankaleh Peninsula" },
-    coordinates: { lat: 36.8523, lng: 53.7541 },
+    coords: [53.7541, 36.8523],
     description: {
       de: "Dieses Biosphärenreservat am Kaspischen Meer ist ein unberührtes Naturparadies. Es dient Millionen von Zugvögeln als wichtigster Rastplatz in Zentralasien.",
       hu: "Ez a Kaszpi-tenger menti bioszféra-rezervátum érintetlen természeti paradicsom. Közép-Ázsia legfontosabb pihenőhelye költöző madarak milliói számára.",
@@ -661,12 +673,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["68,000 hectares protected", "UNESCO Biosphere Reserve (1976)", "No permanent settlements", "800,000+ birds in winter"],
     },
     imageHint: "Miankaleh Peninsula with flocks of flamingos and wild bushes",
+    descriptionAdvanced: {
+      de: "Die Miankaleh-Halbinsel liegt im Südosten des Kaspischen Meeres in der Provinz Mazandaran. Sie erstreckt sich über 40 Kilometer Länge und 5 Kilometer Breite und ist ein bedeutendes Naturschutzgebiet. Die Halbinsel beherbergt seltene Tierarten wie die Kaspische Robbe und verschiedene Vogelarten. Die Feuchtgebiete sind Rastplatz für Zugvögel aus Sibirien. Die Region ist auch für ihre Flora bekannt, darunter Kaspische Wälder und Salzmarschen.",
+      hu: "A Miankaleh-félsziget a Kaszpi-tenger délkeleti részén található, Mazandaran tartományban. Hossza 40 kilométer, szélessége 5 kilométer, és jelentős természetvédelmi terület. A félsziget ritka állatfajoknak ad otthont, mint a kaszpi fóka, és számos madárfajnak. A vizes élőhelyek pihenőhelyet biztosítanak a Szibériából érkező vonuló madaraknak. A régió növényvilága is ismert, beleértve a kaszpi erdőket és sós mocsarakat.",
+      ro: "Peninsula Miankaleh este situată în sud-estul Mării Caspice, în provincia Mazandaran. Se întinde pe 40 de kilometri lungime și 5 kilometri lățime și este o importantă arie protejată. Peninsula găzduiește specii rare de animale, cum ar fi foca caspică, și diverse specii de păsări. Zonele umede sunt locuri de odihnă pentru păsările migratoare din Siberia. Regiunea este cunoscută și pentru flora sa, inclusiv pădurile caspice și mlaștinile sărate.",
+      en: "Miankaleh Peninsula is located in the southeastern Caspian Sea in Mazandaran province. It stretches 40 kilometers in length and 5 kilometers in width, forming a significant wildlife refuge. The peninsula hosts rare species such as the Caspian seal and a variety of birds. The wetlands serve as a stopover for migratory birds from Siberia. The region is also notable for its flora, including Caspian forests and salt marshes.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 40 Kilometer", "Breite: 5 Kilometer", "Fläche: 200 km²", "Anzahl der Vogelarten: 200", "Anzahl der Robben: ca. 500", "Schutzstatus: Ramsar-Gebiet seit 1975"],
+      hu: ["Hossz: 40 kilométer", "Szélesség: 5 kilométer", "Terület: 200 km²", "Madárfajok száma: 200", "Fókák száma: kb. 500", "Védettség: Ramsari terület 1975 óta"],
+      ro: ["Lungime: 40 km", "Lățime: 5 km", "Suprafață: 200 km²", "Număr de specii de păsări: 200", "Număr de foci: cca 500", "Statut de protecție: Sit Ramsar din 1975"],
+      en: ["Length: 40 km", "Width: 5 km", "Area: 200 km²", "Number of bird species: 200", "Number of seals: approx. 500", "Protected status: Ramsar site since 1975"],
+    },
   },
   {
     id: "iran-arasbaran-protected-area-life-v2",
     type: "wildlife",
     name: { de: "Arasbaran-Schutzgebiet", hu: "Arasbaran természetvédelmi terület", ro: "Aria Protejată Arasbaran", en: "Arasbaran Protected Area" },
-    coordinates: { lat: 38.8512, lng: 46.8543 },
+    coords: [46.8543, 38.8512],
     description: {
       de: "Dieses Gebirgswaldgebiet im Norden Irans ist ein UNESCO-Biosphärenreservat. Es ist bekannt für seine reiche Flora und das seltene Kaukasus-Birkhuhn.",
       hu: "Ez az észak-iráni hegyi erdővidék UNESCO bioszféra-rezervátum. Gazdag flórájáról és a ritka kaukázusi nyírfajdról ismert.",
@@ -680,12 +704,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["72,000 hectares in size", "UNESCO Biosphere Reserve (1976)", "1,000+ plant species", "Home to Caucasian black grouse"],
     },
     imageHint: "Arasbaran forest mountains with mist and Babak Castle in distance",
+    descriptionAdvanced: {
+      de: "Das Arasbaran-Schutzgebiet liegt im Nordwesten Irans in der Provinz Ost-Aserbaidschan, nahe der Grenze zu Armenien und Aserbaidschan. Es umfasst 78.000 Hektar Bergland mit dichten Wäldern, Flüssen und einer reichen Artenvielfalt. Hier leben seltene Tiere wie der Persische Leopard, der Syrische Braunbär und verschiedene Vogelarten. Die Region ist auch für ihre botanische Vielfalt bekannt, mit über 1.000 Pflanzenarten. Das Gebiet ist ein Biosphärenreservat der UNESCO.",
+      hu: "Az Arasbaran védett terület Északnyugat-Iránban, Kelet-Azerbajdzsán tartományban található, közel Örményország és Azerbajdzsán határához. 78.000 hektár hegyvidéket foglal magában sűrű erdőkkel, folyókkal és gazdag biodiverzitással. Ritka állatok élnek itt, mint a perzsa leopárd, a szíriai barnamedve és számos madárfaj. A régió botanikai sokféleségéről is ismert, több mint 1000 növényfajjal. A terület az UNESCO bioszféra-rezervátuma.",
+      ro: "Zona protejată Arasbaran este situată în nord-vestul Iranului, în provincia Azerbaidjanul de Est, aproape de granița cu Armenia și Azerbaidjanul. Acoperă 78.000 de hectare de teren muntos, cu păduri dese, râuri și o bogată biodiversitate. Aici trăiesc animale rare precum leopardul persan, ursul brun sirian și diverse specii de păsări. Regiunea este cunoscută și pentru diversitatea botanică, cu peste 1.000 de specii de plante. Zona este o rezervație a biosferei UNESCO.",
+      en: "Arasbaran Protected Area is in northwestern Iran, East Azerbaijan province, near the borders with Armenia and Azerbaijan. It covers 78,000 hectares of mountainous terrain with dense forests, rivers, and rich biodiversity. Rare animals such as the Persian leopard, Syrian brown bear, and various bird species inhabit the area. The region is also renowned for its botanical diversity, with over 1,000 plant species. The area is a UNESCO Biosphere Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 78.000 Hektar", "Höhenlage: 500 bis 3.000 Meter", "Anzahl der Pflanzenarten: 1.000", "Anzahl der Vogelarten: 150", "Anzahl der Leoparden: ca. 30", "UNESCO-Biosphärenreservat seit 1976"],
+      hu: ["Terület: 78.000 hektár", "Tengerszint feletti magasság: 500-3000 méter", "Növényfajok száma: 1000", "Madárfajok száma: 150", "Leopárdok száma: kb. 30", "UNESCO bioszféra-rezervátum 1976 óta"],
+      ro: ["Suprafață: 78.000 ha", "Altitudine: 500-3000 m", "Număr de specii de plante: 1000", "Număr de specii de păsări: 150", "Număr de leoparzi: cca 30", "Rezervație a biosferei UNESCO din 1976"],
+      en: ["Area: 78,000 hectares", "Elevation: 500 to 3,000 meters", "Number of plant species: 1,000", "Number of bird species: 150", "Number of leopards: approx. 30", "UNESCO Biosphere Reserve since 1976"],
+    },
   },
   {
     id: "iran-gavkhouni-wetland-life-v2",
     type: "wildlife",
     name: { de: "Gavkhouni-Sumpfgebiet", hu: "Gavkhouni-mocsár", ro: "Mlaștina Gavkhouni", en: "Gavkhouni Wetland" },
-    coordinates: { lat: 32.1521, lng: 52.8542 },
+    coords: [52.8542, 32.1521],
     description: {
       de: "Dieses Salzsumpfgebiet ist der Endpunkt des Zayande-rud-Flusses. Es ist eine ökologisch isolierte Oase in der zentraliranischen Wüste.",
       hu: "Ez a sós mocsárvidék a Zayande-rud folyó végpontja. Ökológiailag izolált oázis a közép-iráni sivatagban.",
@@ -699,12 +735,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["47,000 hectares in size", "Ramsar site since 1975", "1,470 m above sea level", "Termination of Zayande-rud"],
     },
     imageHint: "Gavkhouni Wetland with salt crusts and Varzaneh sand dunes",
+    descriptionAdvanced: {
+      de: "Das Gavkhouni-Feuchtgebiet liegt in der Provinz Isfahan, im Zentrum des Iran. Es ist ein saisonaler Salzsee mit einer Fläche von bis zu 47.000 Hektar, der durch den Zayandeh Rud gespeist wird. Das Feuchtgebiet ist ein wichtiger Rastplatz für Zugvögel wie Kraniche und Flamingos. Aufgrund von Wasserknappheit ist der See oft ausgetrocknet. Es ist ein Schutzgebiet, aber durch Dürre und Wasserentnahme bedroht. Die Umgebung ist von Wüste geprägt.",
+      hu: "A Gavkhouni-vizes élőhely Iszfahán tartományban, Irán középső részén található. Ez egy időszakos sós tó, amelynek területe akár 47.000 hektár is lehet, és a Zayandeh Rud táplálja. A vizes élőhely fontos pihenőhely a vonuló madarak, például darvak és flamingók számára. A vízhiány miatt a tó gyakran kiszárad. Védett terület, de az aszály és a vízkivétel veszélyezteti. A környéket sivatag jellemzi.",
+      ro: "Zona umedă Gavkhouni este situată în provincia Isfahan, în centrul Iranului. Este un lac sărat sezonier, cu o suprafață de până la 47.000 de hectare, alimentat de râul Zayandeh Rud. Zona umedă este un important loc de odihnă pentru păsări migratoare, cum ar fi cocorii și flamingo. Din cauza lipsei de apă, lacul se usucă adesea. Este o arie protejată, dar amenințată de secetă și extracția apei. Zona înconjurătoare este deșertică.",
+      en: "Gavkhouni Wetland is in Isfahan province, central Iran. It is a seasonal salt lake covering up to 47,000 hectares, fed by the Zayandeh Rud river. The wetland is a crucial stopover for migratory birds such as cranes and flamingos. Due to water scarcity, the lake often dries up. It is a protected area but threatened by drought and water diversion. The surrounding landscape is desert.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 47.000 Hektar", "Salzgehalt: 300 g/L", "Tiefe: bis zu 1 Meter", "Anzahl der Vogelarten: 120", "Jährlicher Niederschlag: 150 mm", "Entfernung zu Isfahan: 140 km"],
+      hu: ["Maximális terület: 47.000 hektár", "Sótartalom: 300 g/L", "Mélység: legfeljebb 1 méter", "Madárfajok száma: 120", "Éves csapadék: 150 mm", "Távolság Iszfahántól: 140 km"],
+      ro: ["Suprafața maximă: 47.000 ha", "Salinitate: 300 g/L", "Adâncime: până la 1 m", "Număr de specii de păsări: 120", "Precipitații anuale: 150 mm", "Distanța până la Isfahan: 140 km"],
+      en: ["Maximum area: 47,000 hectares", "Salinity: 300 g/L", "Depth: up to 1 meter", "Number of bird species: 120", "Annual rainfall: 150 mm", "Distance to Isfahan: 140 km"],
+    },
   },
   {
     id: "iran-bahram-e-gur-life-v2",
     type: "wildlife",
     name: { de: "Bahram-e Gur Schutzgebiet", hu: "Bahram-e Gur védett terület", ro: "Aria Protejată Bahram-e Gur", en: "Bahram-e Gur Protected Area" },
-    coordinates: { lat: 29.2534, lng: 54.8521 },
+    coords: [54.8521, 29.2534],
     description: {
       de: "Dieses Reservat in der Provinz Fars ist das letzte Refugium für den Persischen Onager. Es bietet eine einzigartige Steppen- und Halbwüstenflora.",
       hu: "Ez a Farsz tartománybeli rezervátum a perzsa onager utolsó menedéke. Egyedülálló sztyeppei és félsivatagi flórát kínál.",
@@ -718,12 +766,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["408,000 hectares in size", "Home to Persian onager", "Established in 1972", "Semi-desert ecosystem"],
     },
     imageHint: "Persian onagers running in the semi-desert of Bahram-e Gur",
+    descriptionAdvanced: {
+      de: "Das Bahram-e Gur-Schutzgebiet liegt in der Provinz Fars, südlich von Schiras. Es umfasst 120.000 Hektar und ist bekannt für seine Population der Persischen Halbesel (Gur). Das Gebiet besteht aus trockenen Bergen und Steppen. Es wurde nach dem sassanidischen König Bahram V. benannt, der für seine Jagdleidenschaft bekannt war. Die Region ist auch Lebensraum für Gazellen, Wildschafe und Raubvögel. Das Schutzgebiet ist ein wichtiges Zentrum für den Artenschutz.",
+      hu: "A Bahram-e Gur védett terület Fars tartományban, Sírásztól délre található. 120.000 hektáron terül el, és híres a perzsa félvadszamár (gur) populációjáról. A terület száraz hegyekből és sztyeppékből áll. Az V. Bahram szászánida királyról kapta a nevét, aki híres volt vadászszenvedélyéről. A régió gazelláknak, vad juhoknak és ragadozó madaraknak is otthont ad. A védett terület fontos természetvédelmi központ.",
+      ro: "Zona protejată Bahram-e Gur este situată în provincia Fars, la sud de Shiraz. Acoperă 120.000 de hectare și este cunoscută pentru populația de măgar sălbatic persan (gur). Zona este formată din munți uscați și stepe. A fost numită după regele sasanid Bahram al V-lea, renumit pentru pasiunea sa pentru vânătoare. Regiunea găzduiește și gazele, oi sălbatice și păsări de pradă. Aria protejată este un important centru de conservare a speciilor.",
+      en: "Bahram-e Gur Protected Area is in Fars province, south of Shiraz. It covers 120,000 hectares and is known for its population of Persian onager (gur). The area consists of dry mountains and steppes. It is named after the Sassanian king Bahram V, famous for his hunting prowess. The region also hosts gazelles, wild sheep, and birds of prey. The protected area is an important conservation center.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 120.000 Hektar", "Population der Halbesel: ca. 500", "Höhenlage: 1.500 bis 2.500 Meter", "Anzahl der Gazellen: 2.000", "Jährliche Temperatur: 10-25°C", "Schutzstatus: seit 1970"],
+      hu: ["Terület: 120.000 hektár", "Félvadszamár populáció: kb. 500", "Tengerszint feletti magasság: 1500-2500 méter", "Gazellák száma: 2000", "Éves hőmérséklet: 10-25°C", "Védett terület 1970 óta"],
+      ro: ["Suprafață: 120.000 ha", "Populația de măgar sălbatic: cca 500", "Altitudine: 1500-2500 m", "Număr de gazele: 2000", "Temperatură anuală: 10-25°C", "Arie protejată din 1970"],
+      en: ["Area: 120,000 hectares", "Onager population: approx. 500", "Elevation: 1,500 to 2,500 meters", "Number of gazelles: 2,000", "Annual temperature: 10-25°C", "Protected since 1970"],
+    },
   },
   {
     id: "iran-haftad-qolleh-life-v2",
     type: "wildlife",
     name: { de: "Haftad-Qolleh-Schutzgebiet", hu: "Haftad Qolleh védett terület", ro: "Aria Protejată Haftad Qolleh", en: "Haftad Qolleh Protected Area" },
-    coordinates: { lat: 34.0012, lng: 50.1543 },
+    coords: [50.1543, 34.0012],
     description: {
       de: "Dieses Gebirgsreservat bei Arak ist eines der ältesten Schutzgebiete Irans. Es beherbergt bedeutende Populationen von Wildschafen und Ziegen.",
       hu: "Ez az Arak melletti hegyi rezervátum Irán egyik legrégebbi védett területe. Jelentős vadjuh- és kecskepopulációknak ad otthont.",
@@ -737,12 +797,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["97,000 hectares in size", "Protected since 1974", "Home to Armenian mouflon", "Over 500 plant species"],
     },
     imageHint: "Haftad Qolleh mountains with wild sheep on rocky slopes",
+    descriptionAdvanced: {
+      de: "Das Haftad-Qolleh-Schutzgebiet liegt in der Provinz Semnan im Nordiran und umfasst eine Fläche von etwa 95.000 Hektar. Es wurde 1990 gegründet, um die einzigartige Berglandschaft und die Biodiversität der Region zu schützen. Der Name bedeutet „siebzig Gipfel“ und bezieht sich auf die zahlreichen, teils über 3.000 Meter hohen Bergkämme. Das Gebiet ist bekannt für seine Population des Persischen Leoparden und des Wildschafs. Es bietet Lebensraum für über 150 Vogelarten. Die Vegetation reicht von Wacholderwäldern bis zu alpinen Steppen. Die durchschnittliche Niederschlagsmenge beträgt 250 mm pro Jahr. Das Schutzgebiet ist ein wichtiges Refugium für bedrohte Tierarten und ein Ziel für Naturliebhaber.",
+      hu: "A Haftad Qolleh Védett Terület Irán északi részén, Szemnán tartományban található, területe körülbelül 95 000 hektár. 1990-ben alapították a régió egyedi hegyvidéki tájának és biológiai sokféleségének védelmére. A név jelentése „hetven csúcs”, ami a számos, néhol 3000 méternél is magasabb hegygerincre utal. A terület híres a perzsa leopárd és a muflon populációjáról. Több mint 150 madárfajnak ad otthont. A növényzet a borókás erdőktől az alpesi sztyeppékig terjed. Az éves csapadékátlag 250 mm. A védett terület fontos menedék a veszélyeztetett fajok számára, és a természetkedvelők célpontja.",
+      ro: "Zona Protejată Haftad Qolleh este situată în provincia Semnan, în nordul Iranului, acoperind aproximativ 95.000 de hectare. A fost înființată în 1990 pentru a proteja peisajul montan unic și biodiversitatea regiunii. Numele înseamnă „șaptezeci de vârfuri”, referindu-se la numeroasele creste montane, unele depășind 3.000 de metri. Zona este cunoscută pentru populația de leopard persan și oaie sălbatică. Adăpostește peste 150 de specii de păsări. Vegetația variază de la păduri de ienupăr la stepe alpine. Precipitațiile medii anuale sunt de 250 mm. Zona protejată este un refugiu important pentru specii amenințate și o destinație pentru iubitorii de natură.",
+      en: "Haftad Qolleh Protected Area, located in Semnan Province, northern Iran, spans approximately 95,000 hectares. Established in 1990, it safeguards the region's unique mountainous landscape and biodiversity. The name translates to 'seventy peaks,' referencing its numerous ridges, some exceeding 3,000 meters. It hosts a significant population of Persian leopards and wild sheep. Over 150 bird species have been recorded. Vegetation ranges from juniper forests to alpine steppes. Annual precipitation averages 250 mm. The area serves as a critical refuge for endangered species and a destination for nature enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 95.000 Hektar", "Gründungsjahr: 1990", "Höchster Gipfel: über 3.000 m", "Niederschlag: 250 mm/Jahr", "Vogelarten: über 150", "Säugetierarten: Persischer Leopard, Wildschaf"],
+      hu: ["Terület: kb. 95 000 hektár", "Alapítás éve: 1990", "Legmagasabb csúcs: 3000 m felett", "Csapadék: 250 mm/év", "Madárfajok: több mint 150", "Emlősfajok: perzsa leopárd, muflon"],
+      ro: ["Suprafață: approx. 95.000 ha", "An înființare: 1990", "Cel mai înalt vârf: peste 3.000 m", "Precipitații: 250 mm/an", "Specii de păsări: peste 150", "Mamifere: leopard persan, oaie sălbatică"],
+      en: ["Area: approx. 95,000 hectares", "Established: 1990", "Highest peak: over 3,000 m", "Precipitation: 250 mm/year", "Bird species: over 150", "Mammals: Persian leopard, wild sheep"],
+    },
   },
   {
     id: "iran-bakhtegan-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Bakhtegan-Wildschutzgebiet", hu: "Bakhtegan vadrezervátum", ro: "Sanctuarul Bakhtegan", en: "Bakhtegan Wildlife Shelter" },
-    coordinates: { lat: 29.3521, lng: 53.8543 },
+    coords: [53.8543, 29.3521],
     description: {
       de: "Dieses Gebiet umfasst den zweitgrößten See Irans und ist ein Paradies für Flamingos. Es bietet Schutz für seltene Wüsten- und Feuchtgebietsbewohner.",
       hu: "Ez a terület Irán második legnagyobb tavát foglalja magában, és a flamingók paradicsoma. Menedéket nyújt ritka sivatagi és vizes élőhelyi fajoknak.",
@@ -756,12 +828,24 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["160,000 hectares in size", "Ramsar site since 1975", "Primary breeding ground for flamingos", "Iran's second-largest lake"],
     },
     imageHint: "Bakhtegan Lake with pink flamingos and white salt flats",
+    descriptionAdvanced: {
+      de: "Das Bakhtegan-Wildtierreservat liegt in der Provinz Fars im Südiran und umfasst den Bakhtegan-See, einen der größten hypersalinen Seen des Landes. Das Reservat wurde 1968 ausgewiesen und erstreckt sich über etwa 220.000 Hektar. Der See ist ein wichtiger Rastplatz für Zugvögel wie Flamingos und Pelikane. Die Region ist durch semiarides Klima mit Jahresniederschlägen unter 200 mm gekennzeichnet. Die Uferzonen sind von Salzsteppen und Tamarisken geprägt. Der See hat eine maximale Tiefe von etwa 3 Metern. Bedrohungen sind sinkende Wasserstände durch Bewässerungsprojekte. Das Reservat ist Teil des UNESCO-Programms für Feuchtgebiete.",
+      hu: "A Bakhtegan Vadvédelmi Rezervátum Irán déli részén, Farsz tartományban található, magában foglalja a Bakhtegan-tavat, az ország egyik legnagyobb hiperszalin tavát. A rezervátumot 1968-ban hozták létre, területe körülbelül 220 000 hektár. A tó fontos pihenőhely a vándormadarak, például flamingók és pelikánok számára. A régió féléghajlású, évi 200 mm alatti csapadékkal. A part menti területeket szikes sztyeppék és tamariszkuszok jellemzik. A tó maximális mélysége körülbelül 3 méter. A vízszint csökkenése az öntözési projektek miatt veszélyt jelent. A rezervátum a vizes élőhelyek UNESCO programjának része.",
+      ro: "Rezervația de Faună Bakhtegan este situată în provincia Fars, sudul Iranului, incluzând Lacul Bakhtegan, unul dintre cele mai mari lacuri hipersaline din țară. Rezervația a fost desemnată în 1968 și se întinde pe aproximativ 220.000 de hectare. Lacul este un loc important de popas pentru păsările migratoare, precum flamingo și pelicani. Regiunea are un climat semiarid, cu precipitații anuale sub 200 mm. Zonele de mal sunt caracterizate de stepe sărate și tufișuri de tamarix. Lacul are o adâncime maximă de aproximativ 3 metri. Amenințările includ scăderea nivelului apei din cauza proiectelor de irigații. Rezervația face parte din programul UNESCO pentru zone umede.",
+      en: "Bakhtegan Wildlife Refuge, located in Fars Province, southern Iran, encompasses Lake Bakhtegan, one of the country's largest hypersaline lakes. Designated in 1968, it covers approximately 220,000 hectares. The lake is a crucial stopover for migratory birds such as flamingos and pelicans. The region experiences a semiarid climate with annual precipitation below 200 mm. Shorelines feature salt steppes and tamarisk shrubs. The lake's maximum depth is about 3 meters. Threats include declining water levels due to irrigation projects. The refuge is part of UNESCO's wetlands program.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 220.000 Hektar", "Ausweisung: 1968", "Seefläche: variabel, bis zu 120.000 ha", "Maximale Tiefe: 3 m", "Salzgehalt: hypersalin", "Jahresniederschlag: unter 200 mm"],
+      hu: ["Terület: kb. 220 000 hektár", "Kijelölés: 1968", "Tó területe: változó, akár 120 000 ha", "Maximális mélység: 3 m", "Sótartalom: hiperszalin", "Éves csapadék: 200 mm alatt"],
+      ro: ["Suprafață: approx. 220.000 ha", "Desemnare: 1968", "Suprafața lacului: variabilă, până la 120.000 ha", "Adâncime maximă: 3 m", "Salinitate: hipersalină", "Precipitații anuale: sub 200 mm"],
+      en: ["Area: approx. 220,000 hectares", "Designated: 1968", "Lake area: variable, up to 120,000 ha", "Max depth: 3 m", "Salinity: hypersaline", "Annual precipitation: below 200 mm"],
+    },
   },
   {
     id: "iran-hamoun-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Hamoun-Feuchtgebiete", hu: "Hámun-vizesélőhely", ro: "Zonele Umede Hamoun", en: "Hamoun Wetlands" },
-    coordinates: { lat: 31.0012, lng: 61.3543 },
+    coords: [61.3543, 31.0012],
     description: {
       de: "Dieses transnationale Feuchtgebiet an der Grenze zu Afghanistan ist ein UNESCO-Biosphärenreservat. Es ist lebenswichtig für die nomadische Viehzucht und die lokale Avifauna.",
       hu: "Ez az afganisztáni határon fekvő nemzetközi vizes élőhely UNESCO bioszféra-rezervátum. Létfontosságú a nomád állattenyésztés és a helyi madárvilág számára.",
@@ -775,5 +859,17 @@ export const poiExtraIranLifeV2: POI[] = [
       en: ["Largest freshwater ecosystem in Iran", "UNESCO Biosphere Reserve (2016)", "Ramsar site since 1975", "Comprises 3 linked lakes"],
     },
     imageHint: "Hamoun Wetlands with reeds and Mount Khwaja in the background",
+    descriptionAdvanced: {
+      de: "Die Hamoun-Feuchtgebiete liegen im Südosten Irans, nahe der Grenze zu Afghanistan, und bestehen aus drei flachen Süßwasserseen: Hamoun-e Helmand, Hamoun-e Sabari und Hamoun-e Puzak. Sie sind ein wichtiges Wassersystem im Trockengebiet und wurden von der UNESCO als Biosphärenreservat anerkannt. Die Feuchtgebiete beherbergen eine vielfältige Vogelwelt, darunter den seltenen Sumpfbussard. Die Wasserfläche variiert stark je nach jährlichem Niederschlag und Wasserzufluss aus dem Helmand-Fluss. In den letzten Jahrzehnten sind die Seen aufgrund von Dürren und Wasserableitung drastisch geschrumpft. Die lokale Bevölkerung ist auf die Feuchtgebiete für Fischerei und Landwirtschaft angewiesen. Die Fläche kann bis zu 4.000 km² betragen.",
+      hu: "A Hamoun vizes élőhelyek Irán délkeleti részén, Afganisztán határa közelében találhatók, három sekély édesvizű tóból állnak: Hamoun-e Helmand, Hamoun-e Sabari és Hamoun-e Puzak. Száraz területen fontos vízrendszert alkotnak, és az UNESCO bioszféra-rezervátumként ismerte el őket. A vizes élőhelyek változatos madárvilágnak adnak otthont, köztük a ritka mocsári ölyvnek. A vízfelület nagymértékben változik az éves csapadéktól és a Helmand folyó vízhozamától függően. Az elmúlt évtizedekben a tavak az aszályok és a vízelvezetés miatt drasztikusan zsugorodtak. A helyi lakosság a halászat és a mezőgazdaság miatt függ a vizes élőhelyektől. A terület akár 4000 km² is lehet.",
+      ro: "Zonele umede Hamoun sunt situate în sud-estul Iranului, aproape de granița cu Afganistanul, și constau din trei lacuri de apă dulce puțin adânci: Hamoun-e Helmand, Hamoun-e Sabari și Hamoun-e Puzak. Ele formează un sistem acvatic important într-o regiune aridă, fiind recunoscute de UNESCO ca rezervație a biosferei. Zonele umede găzduiesc o avifaună diversă, inclusiv șoimul de mlaștină, o specie rară. Suprafața apei variază considerabil în funcție de precipitațiile anuale și de debitul râului Helmand. În ultimele decenii, lacurile s-au redus drastic din cauza secetelor și a devierii apei. Populația locală depinde de aceste zone pentru pescuit și agricultură. Suprafața poate ajunge până la 4.000 km².",
+      en: "The Hamoun Wetlands in southeastern Iran, near the Afghan border, comprise three shallow freshwater lakes: Hamoun-e Helmand, Hamoun-e Sabari, and Hamoun-e Puzak. They form a vital water system in an arid region and are recognized by UNESCO as a biosphere reserve. The wetlands host diverse birdlife, including the rare marsh harrier. Water surface area fluctuates significantly based on annual precipitation and inflow from the Helmand River. In recent decades, the lakes have shrunk drastically due to droughts and water diversion. Local communities rely on the wetlands for fishing and agriculture. The area can reach up to 4,000 km².",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Seen: 3", "Maximale Fläche: 4.000 km²", "Höhe: ca. 470 m über NN", "Vogelarten: über 200", "UNESCO-Biosphärenreservat seit: 1976", "Wichtiger Zufluss: Helmand-Fluss"],
+      hu: ["Tavak száma: 3", "Maximális terület: 4000 km²", "Tengerszint feletti magasság: kb. 470 m", "Madárfajok: több mint 200", "UNESCO bioszféra-rezervátum: 1976 óta", "Fő vízforrás: Helmand folyó"],
+      ro: ["Număr de lacuri: 3", "Suprafață maximă: 4.000 km²", "Altitudine: cca. 470 m", "Specii de păsări: peste 200", "Rezervație UNESCO din: 1976", "Afluent principal: Râul Helmand"],
+      en: ["Number of lakes: 3", "Maximum area: 4,000 km²", "Elevation: approx. 470 m", "Bird species: over 200", "UNESCO biosphere reserve since: 1976", "Main inflow: Helmand River"],
+    },
   }
 ];

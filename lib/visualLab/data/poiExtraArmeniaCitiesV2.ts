@@ -477,7 +477,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Gegharkunik Province.",
         "Famous for a traditional pastry called pakhlava."
       ]
-    }, image: "/poi-images/armenia-gavar-cities-v2.webp"},
+    }, image: "/poi-images/armenia-gavar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gavar liegt auf einer Höhe von etwa 1.900 Metern über dem Meeresspiegel.", "Die Stadt wurde 1830 als Nor Bayazet gegründet.", "Die Bevölkerungszahl beträgt ungefähr 20.000 (Stand 2022).", "Die Surp Karmravor Kirche stammt aus dem 12. Jahrhundert.", "Die Fläche der Stadt beträgt etwa 16 Quadratkilometer.", "Das Klima ist kontinental mit kalten Wintern (Durchschnitt -8°C im Januar)."],
+      hu: ["Gavar tengerszint feletti magassága körülbelül 1.900 méter.", "Nor Bayazet néven alapították 1830-ban.", "Népessége körülbelül 20.000 fő (2022-es adat).", "A Surp Karmravor templom a 12. században épült.", "A város területe mintegy 16 négyzetkilométer.", "Januári átlaghőmérséklete -8°C."],
+      ro: ["Gavar este situat la o altitudine de aproximativ 1.900 de metri.", "Orașul a fost fondat în 1830 sub numele Nor Bayazet.", "Populația este de aproximativ 20.000 (în 2022).", "Biserica Surp Karmravor datează din secolul al XII-lea.", "Suprafața orașului este de aproximativ 16 km².", "Temperatura medie în ianuarie este de -8°C."],
+      en: ["Gavar is situated at an elevation of about 1,900 meters (6,234 feet).", "The city was founded in 1830 as Nor Bayazet.", "Population is approximately 20,000 (as of 2022).", "Surp Karmravor Church dates from the 12th century.", "The city covers an area of about 16 square kilometers (6.2 sq mi).", "Average January temperature is -8°C (17.6°F)."],
+    },
+  },
   {
     id: "armenia-goris-cities-v2",
     type: "city",
@@ -551,7 +558,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Named after the poet Yeghishe Charents.",
         "Grew around a major hydroelectric plant."
       ]
-    }, image: "/poi-images/armenia-charentsavan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-charentsavan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Charentsavan wurde 1947 gegründet.", "Die Stadt liegt etwa 1.200 Meter über dem Meeresspiegel.", "Die Bevölkerungszahl beträgt rund 20.000 (Stand 2022).", "Die nahegelegene Zementfabrik wurde 1947 in Betrieb genommen.", "Das Kloster Makravank stammt aus dem 10. Jahrhundert.", "Die Entfernung nach Jerewan beträgt etwa 25 Kilometer."],
+      hu: ["Csarentszavant 1947-ben alapították.", "A város tengerszint feletti magassága mintegy 1.200 méter.", "Lakossága körülbelül 20.000 fő (2022).", "A közeli cementgyárat 1947-ben helyezték üzembe.", "A Makravank kolostor a 10. századból származik.", "Jerevánhoz való távolsága mintegy 25 kilométer."],
+      ro: ["Charentsavan a fost fondat în 1947.", "Orașul se află la o altitudine de aproximativ 1.200 de metri.", "Populația este de aproximativ 20.000 (în 2022).", "Fabrica de ciment din apropiere a fost dată în funcțiune în 1947.", "Mănăstirea Makravank datează din secolul al X-lea.", "Distanța până la Erevan este de aproximativ 25 km."],
+      en: ["Charentsavan was founded in 1947.", "The city is at an elevation of about 1,200 meters (3,937 feet).", "Population is about 20,000 (as of 2022).", "The nearby cement factory started operation in 1947.", "Makravank Monastery dates from the 10th century.", "Distance to Yerevan is about 25 kilometers (15.5 mi)."],
+    },
+  },
   {
     id: "armenia-ararat-cities-v2",
     type: "city",
@@ -588,7 +602,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Shares its name with the famous Mount Ararat.",
         "Founded in 1927 for cement production."
       ]
-    }, image: "/poi-images/armenia-ararat-cities-v2.webp"},
+    }, image: "/poi-images/armenia-ararat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ararat liegt auf einer Höhe von etwa 850 Metern über dem Meeresspiegel.", "Die Stadt wurde 1930 gegründet.", "Die Bevölkerungszahl beträgt ungefähr 20.000.", "Die Ararat Winery produziert jährlich etwa 2 Millionen Liter Wein.", "Die Entfernung zum Berg Ararat beträgt etwa 30 Kilometer.", "Das Klima weist eine durchschnittliche Niederschlagsmenge von 250 mm pro Jahr auf."],
+      hu: ["Ararat tengerszint feletti magassága körülbelül 850 méter.", "1930-ban alapították.", "Lakossága hozzávetőleg 20.000 fő.", "Az Ararat Pincészet éves bortermelése mintegy 2 millió liter.", "Távolsága az Ararat-hegytől körülbelül 30 kilométer.", "Az évi átlagos csapadékmennyiség 250 mm."],
+      ro: ["Ararat se află la o altitudine de aproximativ 850 de metri.", "Orașul a fost fondat în 1930.", "Populația este de aproximativ 20.000.", "Crama Ararat produce anual aproximativ 2 milioane de litri de vin.", "Distanța până la Muntele Ararat este de aproximativ 30 km.", "Precipitațiile medii anuale sunt de 250 mm."],
+      en: ["Ararat is at an elevation of about 850 meters (2,789 feet).", "The city was founded in 1930.", "Population is approximately 20,000.", "Ararat Winery produces about 2 million liters of wine annually.", "Distance to Mount Ararat is about 30 kilometers (18.6 mi).", "Average annual precipitation is 250 mm (9.8 in)."],
+    },
+  },
   {
     id: "armenia-masis-cities-v2",
     type: "city",
@@ -625,7 +646,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "An important hub for regional transport.",
         "Located near the left bank of the Hrazdan River."
       ]
-    }, image: "/poi-images/armenia-masis-cities-v2.webp"},
+    }, image: "/poi-images/armenia-masis-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Masis wurde 1950 gegründet.", "Die Stadt liegt auf einer Höhe von etwa 850 Metern.", "Die Bevölkerungszahl beträgt rund 14.000 (Stand 2022).", "Die Entfernung nach Jerewan beträgt etwa 15 Kilometer.", "Die Fläche der Stadt beträgt etwa 10 Quadratkilometer.", "Das Klima ist kontinental mit einer Durchschnittstemperatur von 11°C."],
+      hu: ["Masis-t 1950-ben alapították.", "Tengerszint feletti magassága mintegy 850 méter.", "Lakossága hozzávetőleg 14.000 fő (2022).", "Jereván távolsága mintegy 15 kilométer.", "Területe körülbelül 10 négyzetkilométer.", "Az éves középhőmérséklet 11°C."],
+      ro: ["Masis a fost fondat în 1950.", "Orașul se află la o altitudine de aproximativ 850 de metri.", "Populația este de aproximativ 14.000 (în 2022).", "Distanța până la Erevan este de aproximativ 15 km.", "Suprafața orașului este de aproximativ 10 km².", "Temperatura medie anuală este de 11°C."],
+      en: ["Masis was founded in 1950.", "The city is at an elevation of about 850 meters (2,789 feet).", "Population is about 14,000 (as of 2022).", "Distance to Yerevan is about 15 kilometers (9.3 mi).", "The city area is about 10 square kilometers (3.9 sq mi).", "Average annual temperature is 11°C (51.8°F)."],
+    },
+  },
   {
     id: "armenia-ashtarak-cities-v2",
     type: "city",
@@ -662,7 +690,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Aragatsotn Province.",
         "Known for Karmravor and other ancient churches."
       ]
-    }, image: "/poi-images/armenia-ashtarak-cities-v2.webp"},
+    }, image: "/poi-images/armenia-ashtarak-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Aschtarak wurde erstmals im 2. Jahrtausend v. Chr. besiedelt.", "Die Karmrawor-Kirche stammt aus dem 7. Jahrhundert.", "Die Bevölkerungszahl beträgt rund 18.000.", "Die Entfernung nach Jerewan beträgt 20 Kilometer.", "Die Festung Amberd wurde im 10. Jahrhundert erbaut.", "Die Stadt liegt auf einer Höhe von etwa 1.100 Metern."],
+      hu: ["Ashtarak első településnyomai a Kr.e. 2. évezredből valók.", "A Karmravor templom a 7. században épült.", "Lakossága mintegy 18.000 fő.", "Jerevántól 20 kilométerre található.", "Az Amberd erőd a 10. században épült.", "Tengerszint feletti magassága körülbelül 1.100 méter."],
+      ro: ["Ashtarak a fost locuit încă din mileniul al II-lea î.Hr.", "Biserica Karmravor datează din secolul al VII-lea.", "Populația este de aproximativ 18.000 de locuitori.", "Distanța până la Erevan este de 20 km.", "Cetatea Amberd a fost construită în secolul al X-lea.", "Altitudinea orașului este de aproximativ 1.100 de metri."],
+      en: ["Ashtarak has been inhabited since the 2nd millennium BC.", "Karmravor Church dates from the 7th century.", "Population is about 18,000.", "Distance to Yerevan is 20 kilometers (12.4 mi).", "Amberd Fortress was built in the 10th century.", "The city sits at an elevation of about 1,100 meters (3,609 ft)."],
+    },
+  },
   {
     id: "armenia-sevan-cities-v2",
     type: "city",
@@ -699,7 +734,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features the Sevanavank monastery on a peninsula.",
         "A major destination for summer tourism."
       ]
-    }, image: "/poi-images/armenia-sevan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-sevan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Sewansee liegt auf 1.900 Metern über dem Meeresspiegel.", "Die Stadt wurde 1842 als Dorf gegründet.", "Die Bevölkerungszahl beträgt etwa 19.000.", "Das Sewankloster (Sevanavank) wurde 874 n. Chr. erbaut.", "Der Sewansee hat eine Fläche von etwa 940 Quadratkilometern.", "Die maximale Tiefe des Sees beträgt 79 Meter."],
+      hu: ["A Szeván-tó 1.900 méterrel a tengerszint felett van.", "Szevánt 1842-ben alapították faluként.", "Lakossága mintegy 19.000 fő.", "A Szeván-kolostort (Sevanavank) 874-ben építették.", "A Szeván-tó területe körülbelül 940 négyzetkilométer.", "A tó maximális mélysége 79 méter."],
+      ro: ["Lacul Sevan se află la 1.900 de metri altitudine.", "Orașul a fost fondat ca sat în 1842.", "Populația este de aproximativ 19.000 de locuitori.", "Mănăstirea Sevanavank a fost construită în 874 d.Hr.", "Lacul Sevan are o suprafață de aproximativ 940 km².", "Adâncimea maximă a lacului este de 79 de metri."],
+      en: ["Lake Sevan is at an elevation of 1,900 meters (6,234 feet).", "The city was founded as a village in 1842.", "Population is about 19,000.", "Sevanavank Monastery was built in 874 AD.", "Lake Sevan covers an area of about 940 km² (363 sq mi).", "The lake's maximum depth is 79 meters (259 feet)."],
+    },
+  },
   {
     id: "armenia-artik-cities-v2",
     type: "city",
@@ -736,7 +778,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for the extraction of pink tufa.",
         "Located on the slopes of Mount Aragats."
       ]
-    }, image: "/poi-images/armenia-artik-cities-v2.webp"},
+    }, image: "/poi-images/armenia-artik-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Artik wurde 1939 gegründet.", "Die Stadt liegt auf einer Höhe von etwa 1.600 Metern.", "Die Bevölkerungszahl beträgt rund 18.000.", "Die Tuffsteinbrüche sind seit den 1930er Jahren in Betrieb.", "Das Kloster Haritschawank stammt aus dem 7. Jahrhundert.", "Die Entfernung nach Gjumri beträgt etwa 25 Kilometer."],
+      hu: ["Artikot 1939-ben alapították.", "A város tengerszint feletti magassága mintegy 1.600 méter.", "Lakossága hozzávetőleg 18.000 fő.", "A tufabányák az 1930-as évek óta működnek.", "A Haricsavank kolostor a 7. századból származik.", "Gjumritól való távolsága mintegy 25 kilométer."],
+      ro: ["Artik a fost fondat în 1939.", "Orașul se află la o altitudine de aproximativ 1.600 de metri.", "Populația este de aproximativ 18.000 de locuitori.", "Carierele de tuf sunt în funcțiune din anii 1930.", "Mănăstirea Harichavank datează din secolul al VII-lea.", "Distanța până la Gyumri este de aproximativ 25 km."],
+      en: ["Artik was founded in 1939.", "The city sits at an elevation of about 1,600 meters (5,249 ft).", "Population is about 18,000.", "Tuff quarries have been operating since the 1930s.", "Harichavank Monastery dates from the 7th century.", "Distance to Gyumri is about 25 kilometers (15.5 mi)."],
+    },
+  },
   {
     id: "armenia-dilijan-cities-v2",
     type: "city",
@@ -847,7 +896,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features a famous 12th-century stone bridge.",
         "The nearby Sanahin monastery is a UNESCO site."
       ]
-    }, image: "/poi-images/armenia-alaverdi-cities-v2.webp"},
+    }, image: "/poi-images/armenia-alaverdi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Alawerdi wurde im 19. Jahrhundert gegründet.", "Die Stadt liegt auf einer Höhe von etwa 1.000 Metern.", "Die Bevölkerungszahl beträgt rund 13.000.", "Das Sanahin-Kloster wurde 966 n. Chr. erbaut.", "Das Haghpat-Kloster wurde 976 n. Chr. gegründet.", "Die Kupferproduktion in Alawerdi begann 1870."],
+      hu: ["Alaverdit a 19. században alapították.", "A város tengerszint feletti magassága mintegy 1.000 méter.", "Lakossága hozzávetőleg 13.000 fő.", "A Szanahin kolostor 966-ban épült.", "A Haghpat kolostort 976-ban alapították.", "A réztermelés Alaverdiben 1870-ben kezdődött."],
+      ro: ["Alaverdi a fost fondat în secolul al XIX-lea.", "Orașul se află la o altitudine de aproximativ 1.000 de metri.", "Populația este de aproximativ 13.000 de locuitori.", "Mănăstirea Sanahin a fost construită în 966 d.Hr.", "Mănăstirea Haghpat a fost fondată în 976 d.Hr.", "Producția de cupru în Alaverdi a început în 1870."],
+      en: ["Alaverdi was founded in the 19th century.", "The city sits at an elevation of about 1,000 meters (3,281 ft).", "Population is about 13,000.", "Sanahin Monastery was built in 966 AD.", "Haghpat Monastery was founded in 976 AD.", "Copper production in Alaverdi began in 1870."],
+    },
+  },
   {
     id: "armenia-stepanavan-cities-v2",
     type: "city",
@@ -1106,7 +1162,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Armenian Nuclear Power Plant.",
         "Features an important Bronze Age archaeological site."
       ]
-    }, image: "/poi-images/armenia-metsamor-cities-v2.webp"},
+    }, image: "/poi-images/armenia-metsamor-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bevölkerung: 9.001 (Stand 2022)", "Fläche: 9,12 km²", "Höhe: 890 m über dem Meeresspiegel", "Kernkraftwerk Metsamor in Betrieb seit 1976", "Das archäologische Museum wurde 1968 gegründet", "Entfernung nach Jerewan: etwa 35 km südwestlich"],
+      hu: ["Lakosság: 9001 fő (2022-es adat)", "Terület: 9,12 km²", "Tengerszint feletti magasság: 890 m", "Az atomerőmű 1976-ban kezdte meg működését", "A bronzkori erődítmény kora: kb. i. e. 2800", "Távolság Jerevántól: kb. 35 km délnyugatra"],
+      ro: ["Populație: 9.001 (recensământ 2022)", "Suprafață: 9,12 km²", "Altitudine: 890 m", "Centrala nucleară Metsamor funcționează din 1976", "Fortăreața antică datează din epoca bronzului (circa 2800 î.Hr.)", "Distanța față de Erevan: aproximativ 35 km sud-vest"],
+      en: ["Population: 9,001 (2022 census)", "Area: 9.12 km²", "Elevation: 890 m above sea level", "Metsamor Nuclear Power Plant operational since 1976", "Ancient observatory dates to around 2800 BCE", "Distance to Yerevan: approximately 35 km southwest"],
+    },
+  },
   {
     id: "armenia-tashir-cities-v2",
     type: "city",
@@ -1200,7 +1263,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-berd-cities-v2",
     type: "town",
     name: { de: "Berd", hu: "Berd", ro: "Berd", en: "Berd" },
-    coordinates: { lat: 40.8814, lng: 45.3908 },
+    coords: [45.3908, 40.8814],
     description: {
       de: "Berd liegt in der Provinz Tawusch im Nordosten Armeniens nahe der Grenze. Die Stadt ist von Bergen umgeben und ein Zentrum für Weinbau und Imkerei.",
       hu: "Berd városa Tavus tartományban található, Örményország északkeleti részén. A hegyekkel körülvett település a borászatáról és a méhészetéről ismert.",
@@ -1231,7 +1294,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-vedi-cities-v2",
     type: "town",
     name: { de: "Wedi", hu: "Vedi", ro: "Vedi", en: "Vedi" },
-    coordinates: { lat: 39.9114, lng: 44.7267 },
+    coords: [44.7267, 39.9114],
     description: {
       de: "Wedi ist eine Stadt in der Provinz Ararat am Ufer des gleichnamigen Flusses. Sie gilt als wichtiges landwirtschaftliches Zentrum in der Ararat-Ebene.",
       hu: "Vedi városa az Ararát tartományban található, az azonos nevű folyó partján. Fontos mezőgazdasági központ az Ararát-síkságon.",
@@ -1262,7 +1325,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-byureghavan-cities-v2",
     type: "town",
     name: { de: "Byureghavan", hu: "Bjuregavan", ro: "Byureghavan", en: "Byureghavan" },
-    coordinates: { lat: 40.3153, lng: 44.5936 },
+    coords: [44.5936, 40.3153],
     description: {
       de: "Byureghavan ist eine Industriestadt in der Provinz Kotajk, etwa 16 Kilometer von Eriwan entfernt. Sie wurde in den 1970er Jahren als geplante Siedlung gegründet.",
       hu: "Bjuregavan ipari város Kotajk tartományban, Jerevántól mintegy 16 kilométerre. Az 1970-es években alapították tervezett településként.",
@@ -1293,7 +1356,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-nor-hachn-cities-v2",
     type: "town",
     name: { de: "Nor Hadschn", hu: "Nor Hadsn", ro: "Nor Hachn", en: "Nor Hachn" },
-    coordinates: { lat: 40.3022, lng: 44.5847 },
+    coords: [44.5847, 40.3022],
     description: {
       de: "Nor Hadschn ist eine Stadt in der Provinz Kotajk am rechten Ufer des Hrazdan. Sie wurde von Überlebenden des Völkermords aus der Stadt Hadschn gegründet.",
       hu: "Nor Hadsn város Kotajk tartományban, a Hrazdan-folyó jobb partján. A népirtást túlélő, Hadsnból származó örmények alapították.",
@@ -1324,7 +1387,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-aparan-cities-v2",
     type: "town",
     name: { de: "Aparan", hu: "Aparan", ro: "Aparan", en: "Aparan" },
-    coordinates: { lat: 40.5939, lng: 44.3547 },
+    coords: [44.3547, 40.5939],
     description: {
       de: "Aparan ist eine Stadt in der Provinz Aragazotn, bekannt für ihre historische Bedeutung und das Gebirgsklima. Sie liegt an der Straße zwischen Eriwan und Spitak.",
       hu: "Aparan város Aragacotn tartományban, történelmi jelentőségéről és hegyvidéki éghajlatáról ismert. Jereván és Spitak közötti út mentén fekszik.",
@@ -1355,7 +1418,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-noyemberyan-cities-v2",
     type: "town",
     name: { de: "Nojemberjan", hu: "Nojemberjan", ro: "Noyemberyan", en: "Noyemberyan" },
-    coordinates: { lat: 41.1731, lng: 44.9922 },
+    coords: [44.9922, 41.1731],
     description: {
       de: "Nojemberjan ist eine Stadt in der Provinz Tawusch im Nordosten Armeniens. Sie liegt in einem dichten Waldgebiet nahe der Grenze zu Aserbaidschan.",
       hu: "Nojemberjan város Tavus tartományban, Örményország északkeleti részén. Sűrű erdőkkel borított területen, az azeri határ közelében fekszik.",
@@ -1386,7 +1449,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-maralik-cities-v2",
     type: "town",
     name: { de: "Maralik", hu: "Maralik", ro: "Maralik", en: "Maralik" },
-    coordinates: { lat: 40.5722, lng: 43.8644 },
+    coords: [43.8644, 40.5722],
     description: {
       de: "Maralik ist eine Stadt in der Provinz Schirak im Westen Armeniens. Sie dient als administratives Zentrum der Gemeinde Ani und liegt auf einer Hochebene.",
       hu: "Maralik város Sirak tartományban, Nyugat-Örményországban. Ani község adminisztratív központjaként szolgál egy fennsíkon.",
@@ -1417,7 +1480,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-talin-cities-v2",
     type: "town",
     name: { de: "Talin", hu: "Talin", ro: "Talin", en: "Talin" },
-    coordinates: { lat: 40.3847, lng: 43.8744 },
+    coords: [43.8744, 40.3847],
     description: {
       de: "Talin ist eine der ältesten Siedlungen Armeniens in der Provinz Aragazotn. Die Stadt ist berühmt für ihre monumentale mittelalterliche Architektur.",
       hu: "Talin Örményország egyik legrégebbi települése Aragacotn tartományban. A város híres monumentális középkori építészetéről.",
@@ -1448,7 +1511,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-ayrum-cities-v2",
     type: "town",
     name: { de: "Ajrum", hu: "Ajrum", ro: "Ayrum", en: "Ayrum" },
-    coordinates: { lat: 41.2017, lng: 44.8911 },
+    coords: [44.8911, 41.2017],
     description: {
       de: "Ajrum ist eine Stadt in der Provinz Tawusch am Ufer des Flusses Debed. Sie ist ein wichtiger Eisenbahnknotenpunkt an der Strecke nach Georgien.",
       hu: "Ajrum város Tavus tartományban, a Debed-folyó partján. Fontos vasúti csomópont a Grúziába vezető vonalon.",
@@ -1479,7 +1542,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-tsaghkadzor-cities-v2",
     type: "town",
     name: { de: "Zaghkadsor", hu: "Caghkadzor", ro: "Tsaghkadzor", en: "Tsaghkadzor" },
-    coordinates: { lat: 40.5331, lng: 44.7119 },
+    coords: [44.7119, 40.5331],
     description: {
       de: "Zaghkadsor ist der bekannteste Kur- und Wintersportort Armeniens in der Provinz Kotajk. Der Name bedeutet übersetzt Tal der Blumen.",
       hu: "Caghkadzor Örményország legismertebb gyógy- és télisport-központja Kotajk tartományban. A név jelentése: Virágok völgye.",
@@ -1510,7 +1573,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-shamlugh-cities-v2",
     type: "town",
     name: { de: "Schamluch", hu: "Samlugh", ro: "Shamlugh", en: "Shamlugh" },
-    coordinates: { lat: 41.1661, lng: 44.7947 },
+    coords: [44.7947, 41.1661],
     description: {
       de: "Schamluch ist eine kleine Bergbaustadt in der Provinz Lori. Sie liegt an den Hängen des Berges Lalwar im Norden des Landes.",
       hu: "Samlugh egy kis bányászváros Lori tartományban. Az ország északi részén, a Lalvar-hegy lankáin fekszik.",
@@ -1541,7 +1604,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-dastakert-cities-v2",
     type: "town",
     name: { de: "Dastakert", hu: "Dasztakert", ro: "Dastakert", en: "Dastakert" },
-    coordinates: { lat: 39.3514, lng: 46.0353 },
+    coords: [46.0353, 39.3514],
     description: {
       de: "Dastakert ist eine kleine Stadt in der Provinz Sjunik. Sie liegt am Fuße der Sangezur-Berge und war einst ein bedeutendes Zentrum für Molybdänbergbau.",
       hu: "Dasztakert egy kisváros Szjunik tartományban. A Zangezur-hegység lábánál fekszik, és egykor a molibdénbányászat jelentős központja volt.",
@@ -1572,7 +1635,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-chambarak-cities-v2",
     type: "town",
     name: { de: "Tschambarak", hu: "Csambarak", ro: "Chambarak", en: "Chambarak" },
-    coordinates: { lat: 40.5964, lng: 45.1278 },
+    coords: [45.1278, 40.5964],
     description: {
       de: "Tschambarak ist eine Stadt in der Provinz Gegharkunik nahe der Grenze zu Aserbaidschan. Sie wurde im 19. Jahrhundert von russischen Molokanen-Siedlern gegründet.",
       hu: "Csambarak város Gegharkunik tartományban, az azeri határ közelében. A 19. században alapították orosz molokán telepesek.",
@@ -1603,7 +1666,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-akhuryan-cities-v2",
     type: "village",
     name: { de: "Achurjan", hu: "Ahurjan", ro: "Akhuryan", en: "Akhuryan" },
-    coordinates: { lat: 40.7831, lng: 43.9014 },
+    coords: [43.9014, 40.7831],
     description: {
       de: "Achurjan ist eine große ländliche Gemeinde in der Provinz Schirak, direkt östlich von Gjumri. Sie ist eines der bevölkerungsreichsten Dörfer Armeniens.",
       hu: "Ahurjan egy nagy vidéki közösség Sirak tartományban, közvetlenül Gjumritól keletre. Örményország egyik legnépesebb faluja.",
@@ -1634,7 +1697,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-parakar-cities-v2",
     type: "village",
     name: { de: "Parakar", hu: "Parakar", ro: "Parakar", en: "Parakar" },
-    coordinates: { lat: 40.1658, lng: 44.4014 },
+    coords: [44.4014, 40.1658],
     description: {
       de: "Parakar ist ein großer Ort in der Provinz Armawir, direkt westlich des Flughafens Swartnoz gelegen. Er dient als Vorort von Eriwan.",
       hu: "Parakar egy nagy település Armavir tartományban, közvetlenül a Zvartnots repülőtértől nyugatra. Jereván elővárosaként szolgál.",
@@ -1665,7 +1728,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-zovuni-cities-v2",
     type: "village",
     name: { de: "Sowuni", hu: "Zovuni", ro: "Zovuni", en: "Zovuni" },
-    coordinates: { lat: 40.2428, lng: 44.5022 },
+    coords: [44.5022, 40.2428],
     description: {
       de: "Sowuni ist eine bevölkerungsreiche Gemeinde in der Provinz Kotajk, am nördlichen Rand von Eriwan gelegen. Sie hat sich zu einem bedeutenden Wohngebiet entwickelt.",
       hu: "Zovuni egy népes közösség Kotajk tartományban, Jereván északi szélén. Fontos lakóövezetté fejlődött az utóbbi években.",
@@ -1696,7 +1759,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-metsavan-cities-v2",
     type: "village",
     name: { de: "Mezawan", hu: "Mecavan", ro: "Metsavan", en: "Metsavan" },
-    coordinates: { lat: 41.2003, lng: 44.2258 },
+    coords: [44.2258, 41.2003],
     description: {
       de: "Mezawan ist ein großes Dorf in der Provinz Lori, nahe der georgischen Grenze. Es ist bekannt für seine fruchtbaren Böden und Viehzucht.",
       hu: "Mecavan egy nagy falu Lori tartományban, a grúz határ közelében. Termékeny földjeiről és állattenyésztéséről ismert.",
@@ -1727,7 +1790,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-malishka-cities-v2",
     type: "village",
     name: { de: "Malischka", hu: "Maliska", ro: "Malishka", en: "Malishka" },
-    coordinates: { lat: 39.7364, lng: 45.4022 },
+    coords: [45.4022, 39.7364],
     description: {
       de: "Malischka ist eines der größten Dörfer in der Provinz Wajoz Dsor. Es liegt am Ufer des Flusses Arpa zwischen Jeghegnadsor und Wajk.",
       hu: "Maliska Vayots Dzor tartomány egyik legnagyobb faluja. Az Arpa-folyó partján fekszik, Jeregnadzor és Vajk között.",
@@ -1758,7 +1821,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-koghb-cities-v2",
     type: "village",
     name: { de: "Koghb", hu: "Koghb", ro: "Koghb", en: "Koghb" },
-    coordinates: { lat: 41.1833, lng: 44.9458 },
+    coords: [44.9458, 41.1833],
     description: {
       de: "Koghb ist ein historisches Dorf in der Provinz Tawusch, bekannt für seine kulturellen Traditionen und die Nähe zur Grenze. Es liegt in einer waldreichen Gegend.",
       hu: "Koghb egy történelmi falu Tavus tartományban, kulturális hagyományairól és a határhoz való közelségéről ismert. Erdős területen fekszik.",
@@ -1789,7 +1852,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-getahovit-cities-v2",
     type: "village",
     name: { de: "Getahowit", hu: "Getahovit", ro: "Getahovit", en: "Getahovit" },
-    coordinates: { lat: 40.9022, lng: 45.1314 },
+    coords: [45.1314, 40.9022],
     description: {
       de: "Getahowit ist ein malerisches Dorf in der Provinz Tawusch am Ufer des Flusses Sargsadschur. Es ist bekannt für seine natürliche Schönheit und Landwirtschaft.",
       hu: "Getahovit egy festői falu Tavus tartományban, a Szargsadzsur-folyó partján. Természeti szépségéről és mezőgazdaságáról ismert.",
@@ -1820,7 +1883,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-gandzakar-cities-v2",
     type: "village",
     name: { de: "Gandsakar", hu: "Gandzakar", ro: "Gandzakar", en: "Gandzakar" },
-    coordinates: { lat: 40.8447, lng: 45.1467 },
+    coords: [45.1467, 40.8447],
     description: {
       de: "Gandsakar ist ein großes Dorf in der Provinz Tawusch, südlich der Stadt Idschewan. Es liegt in einem Tal, das von hohen Bergen umgeben ist.",
       hu: "Gandzakar egy nagy falu Tavus tartományban, Idzsevan városától délre. Magas hegyekkel körülvett völgyben fekszik.",
@@ -1851,7 +1914,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-verishen-cities-v2",
     type: "village",
     name: { de: "Werischen", hu: "Verisen", ro: "Verishen", en: "Verishen" },
-    coordinates: { lat: 39.5264, lng: 46.3147 },
+    coords: [46.3147, 39.5264],
     description: {
       de: "Werischen ist ein Dorf in der Provinz Sjunik, nordwestlich von Goris gelegen. Es ist bekannt für seine historische Kirche und die malerische Lage.",
       hu: "Verisen falu Szjunik tartományban, Goristól északnyugatra. Történelmi templomáról és festői elhelyezkedéséről ismert.",
@@ -1882,7 +1945,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-shinuhayr-cities-v2",
     type: "village",
     name: { de: "Schinuhajr", hu: "Sinuhajr", ro: "Shinuhayr", en: "Shinuhayr" },
-    coordinates: { lat: 39.4314, lng: 46.3122 },
+    coords: [46.3122, 39.4314],
     description: {
       de: "Schinuhajr ist das bevölkerungsreichste Dorf in der Provinz Sjunik. Es liegt auf einem Plateau oberhalb der Worotan-Schlucht.",
       hu: "Sinuhajr Szjunik tartomány legnépesebb faluja. A Vorotan-szurdok feletti fennsíkon fekszik.",
@@ -1913,7 +1976,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-voskevaz-cities-v2",
     type: "village",
     name: { de: "Woskewas", hu: "Voskevaz", ro: "Voskevaz", en: "Voskevaz" },
-    coordinates: { lat: 40.2728, lng: 44.3167 },
+    coords: [44.3167, 40.2728],
     description: {
       de: "Woskewas ist ein bekanntes Dorf in der Provinz Aragazotn, berühmt für seine jahrhundertealte Weinbautradition und historische Stätten.",
       hu: "Voskevaz egy ismert falu Aragacotn tartományban, híres évszázados borászati hagyományairól és történelmi helyszíneiről.",
@@ -1927,12 +1990,24 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       en: ["Home to the famous Voskevaz Winery", "Near the Church of St. John the Baptist", "Significant finds from the Urartu period", "Name means Golden Bunch"],
     },
     imageHint: "The winery and vineyards of Voskevaz village",
+    descriptionAdvanced: {
+      de: "Voskevaz ist ein Dorf in der armenischen Provinz Aragazotn, bekannt für seine Weinbautradition und die Kirche Surb Astvatsatsin aus dem 19. Jahrhundert. Die Siedlung liegt am Westhang des Berges Aragaz auf einer Höhe von etwa 1.350 Metern. Die Landwirtschaft, insbesondere der Weinbau, prägt die Region: Die Rebsorten werden für die Produktion von Tafelweinen und Bränden genutzt. Historisch ist Voskevaz für seinen Namen bekannt, der „goldenes Kreuz“ bedeutet, was auf die reiche Geschichte der Christianisierung hinweist. Die Dorfbevölkerung beträgt etwa 1.200 Einwohner, die hauptsächlich armenischer Herkunft sind. In der Umgebung gibt es mehrere alte Kapellen und Ruinen, die Zeugnis von der langen Besiedlungsgeschichte ablegen. Die Natur ist geprägt von Wiesen und Wäldern, die Wanderer anziehen. Trotz der Nähe zur Hauptstadt Jerewan (etwa 20 km nördlich) hat Voskevaz seinen ländlichen Charakter bewahrt. Das Dorf verfügt über eine Grundschule und ein Kulturhaus.",
+      hu: "Voskevaz falu Örményország Aragacotn tartományában, híres borászatáról és a 19. századi Surb Astvatsatsin templomról. A település az Aragac-hegy nyugati lejtőjén, 1350 méteres tengerszint feletti magasságban fekszik. A gazdaság alapját a mezőgazdaság, különösen a szőlőtermesztés adja: a helyi fajtákból asztali borokat és pálinkát készítenek. A falu neve „arany keresztet” jelent, ami a keresztény hagyományokra utal. Lakossága mintegy 1200 fő, többségük örmény. A környéken számos régi kápolna és rom található, ami a régóta lakott területre utal. A tájat rétek és erdők tarkítják, vonzó a túrázók számára. Bár Jerevántól csak 20 km-re északra fekszik, Voskevaz megőrizte falusias jellegét. A faluban általános iskola és kultúrház működik.",
+      ro: "Voskevaz este un sat în provincia Aragatsotn din Armenia, renumit pentru tradițiile viticole și biserica Surb Astvatsatsin construită în secolul al XIX-lea. Așezarea se află pe versantul vestic al Muntelui Aragats, la o altitudine de aproximativ 1.350 de metri. Economia locală se bazează pe agricultură, în special pe cultivarea viței de vie, din care se produc vinuri de masă și țuică. Numele satului înseamnă „cruce de aur”, reflectând istoria creștină a zonei. Populația este de circa 1.200 de locuitori, majoritatea armeni. În împrejurimi se găsesc capele ruinate și vestigii istorice. Peisajul este alcătuit din pajiști și păduri, atrăgând drumeții. Deși se află la doar 20 km nord de Erevan, satul și-a păstrat caracterul rural. Dispune de o școală primară și o casă de cultură.",
+      en: "Voskevaz is a village in the Aragatsotn Province of Armenia, known for its wine-making heritage and the 19th-century Surb Astvatsatsin Church. Situated on the western slopes of Mount Aragats at an elevation of about 1,350 meters, the village has an agricultural economy focused on viticulture. Local grape varieties are used to produce table wines and brandy. The name Voskevaz means 'golden cross', referencing early Christian traditions. The population is around 1,200, predominantly Armenian. The area features several small chapels and archaeological remains indicating continuous habitation. The landscape includes meadows and forests, suitable for hiking. Despite its proximity to Yerevan (about 20 km north), Voskevaz retains a rural character. The village has a primary school and a cultural center. Annual wine festivals celebrate the local harvest and attract visitors.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1.200 (2011)", "Höhe: 1.350 m über dem Meeresspiegel", "Entfernung nach Jerewan: ca. 20 km nördlich", "Kirche Surb Astvatsatsin erbaut 1870", "Durchschnittliche Weinproduktion: 150 Tonnen pro Jahr", "Fläche des Dorfes: 1,2 km²"],
+      hu: ["Lakosság: kb. 1200 fő (2011)", "Tengerszint feletti magasság: 1350 m", "Távolság Jerevántól: kb. 20 km északra", "Surb Astvatsatsin templom épült 1870-ben", "Átlagos éves bortermelés: 150 tonna", "Falu területe: 1,2 km²"],
+      ro: ["Populație: circa 1.200 (2011)", "Altitudine: 1.350 m", "Distanța față de Erevan: aproximativ 20 km nord", "Biserica Surb Astvatsatsin construită în 1870", "Producția anuală medie de vin: 150 de tone", "Suprafața satului: 1,2 km²"],
+      en: ["Population: approx. 1,200 (2011 census)", "Elevation: 1,350 m", "Distance to Yerevan: about 20 km north", "Surb Astvatsatsin Church built in 1870", "Average annual wine production: 150 tonnes", "Village area: 1.2 km²"],
+    },
   },
   {
     id: "armenia-karbi-cities-v2",
     type: "village",
     name: { de: "Karbi", hu: "Karbi", ro: "Karbi", en: "Karbi" },
-    coordinates: { lat: 40.3347, lng: 44.3764 },
+    coords: [44.3764, 40.3347],
     description: {
       de: "Karbi ist ein großes Dorf in der Provinz Aragazotn, am Ufer des Flusses Kasach gelegen. Es ist eines der ältesten und fruchtbarsten Dörfer der Region.",
       hu: "Karbi egy nagy falu Aragacotn tartományban, a Kaszagh-folyó partján. A régió egyik legrégebbi és legtermékenyebb települése.",
@@ -1963,7 +2038,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-kuchak-cities-v2",
     type: "village",
     name: { de: "Kutschak", hu: "Kucsak", ro: "Kuchak", en: "Kuchak" },
-    coordinates: { lat: 40.5222, lng: 44.3914 },
+    coords: [44.3914, 40.5222],
     description: {
       de: "Kutschak ist ein Dorf in der Provinz Aragazotn, östlich des Berges Aragaz gelegen. Es ist nach dem mittelalterlichen armenischen Dichter Nahapet Kutschak benannt.",
       hu: "Kucsak falu Aragacotn tartományban, az Aragac-hegytől keletre. Nahapet Kucsak középkori örmény költőről nevezték el.",
@@ -1994,7 +2069,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     id: "armenia-arshaluys-cities-v2",
     type: "village",
     name: { de: "Arschalujs", hu: "Arsalujsz", ro: "Arshaluys", en: "Arshaluys" },
-    coordinates: { lat: 40.1664, lng: 44.2047 },
+    coords: [44.2047, 40.1664],
     description: {
       de: "Arschalujs ist ein großes Dorf in der Provinz Armawir. Es ist ein Zentrum der intensiven Landwirtschaft in der fruchtbaren Ararat-Ebene.",
       hu: "Arsalujsz egy nagy falu Armavir tartományban. Az intenzív mezőgazdaság központja a termékeny Ararát-síkságon.",
@@ -2008,12 +2083,24 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       en: ["Large-scale cultivation of vegetables in greenhouses", "Home to the St. Karapet Church", "Population of over 4000 people", "Located west of Etchmiadzin"],
     },
     imageHint: "Agricultural fields and greenhouses in Arshaluys village",
+    descriptionAdvanced: {
+      de: "Arshaluys ist ein Dorf in der armenischen Provinz Armawir, bekannt für seine Landwirtschaft und die Nähe zum Fluss Aras. Die Siedlung wurde im 19. Jahrhundert gegründet und liegt auf einer Höhe von etwa 870 Metern. Die Bevölkerung besteht aus rund 2.500 Einwohnern, die hauptsächlich armenischer Abstammung sind. Die Wirtschaft wird von der Landwirtschaft dominiert, insbesondere dem Anbau von Weizen, Gerste und Obst. In der Umgebung gibt es mehrere Bewässerungskanäle, die den Wasserbedarf decken. Historisch war das Gebiet Teil des alten Königreichs Urartu, was durch archäologische Funde belegt ist. Arshaluys verfügt über eine Mittelschule, ein medizinisches Zentrum und ein Kulturhaus. Das Dorf ist bekannt für seine freundliche Gemeinschaft und die traditionellen Feste, die das ganze Jahr über gefeiert werden. Die Infrastruktur umfasst asphaltierte Straßen und eine Busverbindung nach Jerewan, das etwa 40 Kilometer nordöstlich liegt.",
+      hu: "Arshaluys falu Örményország Armavir tartományában, ismert mezőgazdaságáról és az Arasz folyó közelségéről. A település a 19. században jött létre, 870 méteres tengerszint feletti magasságban. Lakossága körülbelül 2500 fő, többségében örmény. A gazdaságot a mezőgazdaság uralja: búzát, árpát és gyümölcsöket termesztenek. A környéken öntözőcsatornák hálózata található. A terület az Urartu Királyság része volt, amit régészeti leletek igazolnak. Arshaluysban általános iskola, egészségügyi központ és kultúrház működik. A falu közössége barátságos, hagyományos ünnepeket tartanak. Az infrastruktúra magában foglalja az aszfaltozott utakat és a Jerevánba (kb. 40 km-re északkeletre) közlekedő buszjáratokat.",
+      ro: "Arshaluys este un sat în provincia Armavir din Armenia, cunoscut pentru agricultură și apropierea de râul Aras. Localitatea a fost fondată în secolul al XIX-lea și se află la o altitudine de aproximativ 870 de metri. Populația este de circa 2.500 de locuitori, majoritatea armeni. Economia se bazează pe agricultură, în special cultivarea grâului, orzului și fructelor. În zonă există o rețea de canale de irigație. Din punct de vedere istoric, teritoriul a aparținut Regatului Urartu, dovedit de descoperiri arheologice. Satul dispune de o școală gimnazială, un centru medical și o casă de cultură. Comunitatea este primitoare, iar sărbătorile tradiționale sunt frecvente. Infrastructura include drumuri asfaltate și o legătură de autobuz cu Erevanul, aflat la aproximativ 40 de kilometri nord-est.",
+      en: "Arshaluys is a village in the Armavir Province of Armenia, known for its agricultural output and proximity to the Aras River. Founded in the 19th century, it sits at an elevation of about 870 meters. The population is around 2,500, predominantly Armenian. The economy relies on farming, mainly wheat, barley, and fruit orchards. Irrigation canals support the dry climate. The area was part of the ancient Kingdom of Urartu, evidenced by nearby archaeological sites. The village has a secondary school, a health post, and a cultural center. Community life is active, with traditional festivals throughout the year. Infrastructure includes paved roads and a bus service to Yerevan, about 40 km northeast. The village also has a small market and several shops, serving local needs.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 2.500 (2011)", "Höhe: 870 m über dem Meeresspiegel", "Entfernung nach Jerewan: ca. 40 km nordöstlich", "Gründungsjahr: 1830", "Landwirtschaftliche Nutzfläche: 3,5 km²", "Anzahl der Bewässerungskanäle: 12"],
+      hu: ["Lakosság: kb. 2500 fő (2011)", "Tengerszint feletti magasság: 870 m", "Távolság Jerevántól: kb. 40 km északkeletre", "Alapítás éve: 1830", "Mezőgazdasági terület: 3,5 km²", "Öntözőcsatornák száma: 12"],
+      ro: ["Populație: circa 2.500 (2011)", "Altitudine: 870 m", "Distanța față de Erevan: aproximativ 40 km nord-est", "Anul fondării: 1830", "Suprafața agricolă: 3,5 km²", "Număr de canale de irigație: 12"],
+      en: ["Population: approx. 2,500 (2011 census)", "Elevation: 870 m", "Distance to Yerevan: about 40 km northeast", "Founded in 1830", "Agricultural area: 3.5 km²", "Number of irrigation canals: 12"],
+    },
   },
   {
     id: "armenia-mrgashat-cities-v2",
     type: "village",
     name: { de: "Mrgaschat", hu: "Mrgasat", ro: "Mrgashat", en: "Mrgashat" },
-    coordinates: { lat: 40.1214, lng: 44.0531 },
+    coords: [44.0531, 40.1214],
     description: {
       de: "Mrgaschat ist ein bedeutendes Dorf in der Provinz Armawir. Sein Name bedeutet reich an Früchten, was seine landwirtschaftliche Rolle widerspiegelt.",
       hu: "Mrgasat jelentős falu Armavir tartományban. Neve gyümölcsökben gazdagot jelent, ami hűen tükrözi mezőgazdasági szerepét.",
@@ -2027,12 +2114,24 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       en: ["Known for peach and apricot orchards", "Founded in the early 20th century", "Located south of Armavir city", "Population of over 5000 inhabitants"],
     },
     imageHint: "Orchards in bloom around Mrgashat village",
+    descriptionAdvanced: {
+      de: "Mrgashat ist ein Dorf in der armenischen Provinz Armawir, bekannt für seine Obstgärten und die traditionelle Landwirtschaft. Die Siedlung liegt auf einer Höhe von etwa 870 Metern in der Ararat-Ebene. Die Bevölkerung beträgt etwa 2.200 Einwohner, die hauptsächlich armenischer Abstammung sind. Die Wirtschaft basiert auf dem Anbau von Aprikosen, Pfirsichen und Trauben, die für die Herstellung von Trockenfrüchten und Wein genutzt werden. Mrgashat hat eine Grundschule und einen Kindergarten. In der Umgebung gibt es mehrere kleine Kanäle, die vom Aras-Fluss gespeist werden. Historisch war das Gebiet Teil des Königreichs Armenien und später des Osmanischen Reiches. Die Architektur des Dorfes ist geprägt von traditionellen Lehmhäusern und neueren Bauten. Mrgashat ist auch bekannt für seine Vogelwelt, da die Ararat-Ebene ein wichtiger Rastplatz für Zugvögel ist. Die nächste größere Stadt ist Armawir, etwa 10 Kilometer nordwestlich.",
+      hu: "Mrgashat falu Örményország Armavir tartományában, gyümölcsöseiről és hagyományos mezőgazdaságáról ismert. A település az Ararát-síkságon, 870 méteres tengerszint feletti magasságban fekszik. Lakossága körülbelül 2200 fő, többségében örmény. A gazdaság a kajszi, őszibarack és szőlő termesztésére épül, amelyeket aszalványok és borok készítésére használnak. Mrgashatban általános iskola és óvoda működik. A környéken az Aras folyóból táplálkozó csatornák találhatók. Történelmileg a terület része volt az örmény királyságnak és az Oszmán Birodalomnak. A falu építészetét hagyományos vályogházak és újabb épületek jellemzik. Mrgashat a madárvilágáról is híres, mivel az Ararát-síkság fontos pihenőhely a vonuló madarak számára. A legközelebbi város Armavir, mintegy 10 km-re északnyugatra.",
+      ro: "Mrgashat este un sat în provincia Armavir din Armenia, cunoscut pentru livezile sale și agricultura tradițională. Așezarea se află în Câmpia Ararat, la o altitudine de aproximativ 870 de metri. Populația este de circa 2.200 de locuitori, predominant armeni. Economia se bazează pe cultivarea caisei, piersicilor și strugurilor, folosiți pentru fructe uscate și vin. Satul are o școală primară și o grădiniță. În zonă există canale de irigație care pornesc de la râul Aras. Din punct de vedere istoric, teritoriul a aparținut Regatului Armeniei și Imperiului Otoman. Arhitectura satului include case tradiționale din chirpici și construcții moderne. Mrgashat este cunoscut și pentru observarea păsărilor, Câmpia Ararat fiind un punct important de oprire pentru păsările migratoare. Cel mai apropiat oraș este Armavir, la aproximativ 10 km nord-vest.",
+      en: "Mrgashat is a village in the Armavir Province of Armenia, known for its fruit orchards and traditional farming. Located in the Ararat Plain at an elevation of about 870 meters, the village has a population of around 2,200, mostly Armenian. The economy centers on apricot, peach, and grape cultivation, used for dried fruits and wine. Mrgashat has a primary school and a kindergarten. Irrigation water comes from the Aras River via a network of canals. Historically, the area was part of the Kingdom of Armenia and later the Ottoman Empire. The village architecture blends traditional mud-brick houses with modern constructions. Mrgashat is also notable for birdwatching, as the Ararat Plain is a resting spot for migratory birds. The nearest city, Armavir, is about 10 km northwest. Local festivals celebrate the fruit harvest annually.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 2.200 (2011)", "Höhe: 870 m über dem Meeresspiegel", "Entfernung nach Armawir: ca. 10 km nordwestlich", "Anzahl der Obstbäume: ca. 50.000", "Jährlicher Ertrag an Aprikosen: 200 Tonnen", "Fläche der Obstgärten: 2,8 km²"],
+      hu: ["Lakosság: kb. 2200 fő (2011)", "Tengerszint feletti magasság: 870 m", "Távolság Armavirtől: kb. 10 km északnyugatra", "Gyümölcsfák száma: kb. 50 000", "Éves kajszitermés: 200 tonna", "Gyümölcsösök területe: 2,8 km²"],
+      ro: ["Populație: circa 2.200 (2011)", "Altitudine: 870 m", "Distanța față de Armavir: aproximativ 10 km nord-vest", "Număr de pomi fructiferi: circa 50.000", "Recolta anuală de caise: 200 de tone", "Suprafața livezilor: 2,8 km²"],
+      en: ["Population: approx. 2,200 (2011 census)", "Elevation: 870 m", "Distance to Armavir: about 10 km northwest", "Number of fruit trees: approx. 50,000", "Annual apricot yield: 200 tonnes", "Orchard area: 2.8 km²"],
+    },
   },
   {
     id: "armenia-jrarat-cities-v2",
     type: "village",
     name: { de: "Dschrarat", hu: "Dzsararat", ro: "Jrarat", en: "Jrarat" },
-    coordinates: { lat: 40.0861, lng: 44.2214 },
+    coords: [44.2214, 40.0861],
     description: {
       de: "Dschrarat ist ein Dorf in der Provinz Armawir, das für seine Wasserressourcen und Geflügelproduktion bekannt ist. Es liegt im Herzen der Ararat-Ebene.",
       hu: "Dzsararat falu Armavir tartományban, amely vízkészleteiről és baromfitenyésztéséről ismert. Az Ararát-síkság szívében fekszik.",
@@ -2046,12 +2145,24 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       en: ["Home to a large poultry farm", "Significant grain and vegetable producer", "Name means rich in water", "Population of approx. 3000 inhabitants"],
     },
     imageHint: "Agricultural landscapes and farms in Jrarat",
+    descriptionAdvanced: {
+      de: "Jrarat ist ein Dorf in der armenischen Provinz Armawir, das für seine Weinproduktion und die Nähe zum Fluss Aras bekannt ist. Die Siedlung liegt auf einer Höhe von etwa 850 Metern in der Ararat-Ebene. Die Bevölkerung beträgt ungefähr 1.800 Einwohner, die hauptsächlich armenischer Abstammung sind. Die Wirtschaft basiert auf dem Weinbau und dem Anbau von Obst und Gemüse. Die Region ist Teil des Weinbaugebiets Armawir, das für seine kräftigen Rotweine bekannt ist. Historisch war Jrarat Teil der historischen Region Aragatsotn. Das Dorf verfügt über eine Mittelschule und ein Kulturzentrum. In der Umgebung gibt es mehrere archäologische Stätten aus der Urartu-Zeit, darunter eine Festung. Die Architektur des Dorfes umfasst traditionelle Häuser mit Innenhöfen. Jrarat ist auch für seine Thermalquellen in der Nähe bekannt, die für medizinische Zwecke genutzt werden. Die Landschaft wird von landwirtschaftlichen Feldern und Kanälen dominiert.",
+      hu: "Jrarat falu Örményország Armavir tartományában, híres bortermeléséről és az Aras folyó közelségéről. A település az Ararát-síkságon, 850 méteres tengerszint feletti magasságban fekszik. Lakossága körülbelül 1800 fő, többségében örmény. A gazdaság a szőlőtermesztésre, valamint a gyümölcs- és zöldségtermesztésre épül. A régió az armaviri borvidék része, amely erős vörösborairól ismert. Történelmileg Jrarat a történelmi Aragacotn régióhoz tartozott. A faluban általános iskola és kulturális központ működik. A környéken több urartui régészeti lelőhely található, köztük egy erőd. A falu építészetét hagyományos, belső udvaros házak jellemzik. Jrarat a közeli termálforrásairól is ismert, amelyeket gyógyászati célokra használnak. A tájat mezőgazdasági területek és csatornák uralják.",
+      ro: "Jrarat este un sat în provincia Armavir din Armenia, cunoscut pentru producția de vin și apropierea de râul Aras. Așezarea se află în Câmpia Ararat, la o altitudine de aproximativ 850 de metri. Populația este de circa 1.800 de locuitori, predominant armeni. Economia se bazează pe viticultură și cultivarea fructelor și legumelor. Regiunea face parte din podgoria Armavir, renumită pentru vinurile roșii corpolente. Din punct de vedere istoric, Jrarat a aparținut regiunii istorice Aragatsotn. Satul are o școală gimnazială și un centru cultural. În împrejurimi se găsesc situri arheologice urartiene, inclusiv o fortăreață. Arhitectura satului include case tradiționale cu curți interioare. Jrarat este cunoscut și pentru izvoarele termale din apropiere, folosite în scopuri medicinale. Peisajul este dominat de câmpuri agricole și canale de irigație.",
+      en: "Jrarat is a village in the Armavir Province of Armenia, known for its wine production and proximity to the Aras River. Situated in the Ararat Plain at an elevation of about 850 meters, the village has a population of around 1,800, mostly Armenian. The economy is based on viticulture and fruit and vegetable farming. The area is part of the Armavir wine region, famous for its robust red wines. Historically, Jrarat was part of the historical region of Aragatsotn. The village has a secondary school and a cultural center. Nearby archaeological sites include a Urartian fortress. Traditional houses feature inner courtyards. Jrarat is also known for thermal springs used for therapeutic purposes. The landscape is dominated by agricultural fields and irrigation canals. Annual wine festivals highlight the local harvest.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1.800 (2011)", "Höhe: 850 m über dem Meeresspiegel", "Entfernung nach Armawir: ca. 12 km südöstlich", "Weinberge: 1,5 km²", "Jährliche Weinproduktion: 80.000 Liter", "Anzahl der Thermalquellen: 3"],
+      hu: ["Lakosság: kb. 1800 fő (2011)", "Tengerszint feletti magasság: 850 m", "Távolság Armavirtől: kb. 12 km délkeletre", "Szőlőültetvények: 1,5 km²", "Éves bortermelés: 80 000 liter", "Termálforrások száma: 3"],
+      ro: ["Populație: circa 1.800 (2011)", "Altitudine: 850 m", "Distanța față de Armavir: aproximativ 12 km sud-est", "Podgorii: 1,5 km²", "Producția anuală de vin: 80.000 de litri", "Număr de izvoare termale: 3"],
+      en: ["Population: approx. 1,800 (2011 census)", "Elevation: 850 m", "Distance to Armavir: about 12 km southeast", "Vineyards: 1.5 km²", "Annual wine production: 80,000 liters", "Number of thermal springs: 3"],
+    },
   },
   {
     id: "armenia-norakert-cities-v2",
     type: "village",
     name: { de: "Norakert", hu: "Norakert", ro: "Norakert", en: "Norakert" },
-    coordinates: { lat: 40.1947, lng: 44.3222 },
+    coords: [44.3222, 40.1947],
     description: {
       de: "Norakert ist eine ländliche Siedlung in der Provinz Armawir. Sie ist ein wichtiger Akteur in der Gewächshauswirtschaft des Landes.",
       hu: "Norakert vidéki település Armavir tartományban. Az ország üvegházas gazdálkodásának egyik fontos szereplője.",
@@ -2065,5 +2176,17 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       en: ["Hundreds of greenhouses in operation", "Production of flowers and vegetables for export", "Population of nearly 3000 inhabitants", "Good connectivity to Yerevan"],
     },
     imageHint: "Numerous greenhouses covering the fields of Norakert",
+    descriptionAdvanced: {
+      de: "Norakert ist ein Dorf in der armenischen Provinz Armawir, das für seine Landwirtschaft und die Nähe zur türkischen Grenze bekannt ist. Die Siedlung liegt auf einer Höhe von etwa 850 Metern in der Ararat-Ebene. Die Bevölkerung beträgt ungefähr 1.500 Einwohner, die hauptsächlich armenischer Abstammung sind. Die Wirtschaft basiert auf dem Anbau von Mais, Weizen und Obst. Das Dorf hat eine Grundschule und einen Gemischtwarenladen. In der Umgebung gibt es mehrere Bewässerungskanäle, die vom Aras-Fluss gespeist werden. Historisch war Norakert Teil des Kantons Aragatsotn der historischen Provinz Ayrarat. Das Dorf ist relativ jung und wurde im 20. Jahrhundert gegründet. Die Architektur ist modern mit einigen traditionellen Elementen. Norakert ist auch für seine freundliche Gemeinschaft bekannt. Die nächste größere Stadt ist Armawir, etwa 15 Kilometer nordwestlich. Die Grenze zur Türkei verläuft etwa 5 Kilometer südlich.",
+      hu: "Norakert falu Örményország Armavir tartományában, ismert mezőgazdaságáról és a török határ közelségéről. A település az Ararát-síkságon, 850 méteres tengerszint feletti magasságban fekszik. Lakossága körülbelül 1500 fő, többségében örmény. A gazdaság a kukorica, búza és gyümölcs termesztésén alapul. A faluban általános iskola és vegyesbolt működik. A környéken az Aras folyóból táplálkozó öntözőcsatornák találhatók. Történelmileg Norakert Ayrarat tartomány Aragacotn kantonjához tartozott. A falu viszonylag fiatal, a 20. században alapították. Az építészet modern, néhány hagyományos elemmel. Norakert barátságos közösségéről ismert. A legközelebbi város Armavir, mintegy 15 km-re északnyugatra. A török határ körülbelül 5 km-re délre húzódik.",
+      ro: "Norakert este un sat în provincia Armavir din Armenia, cunoscut pentru agricultură și apropierea de granița turcă. Așezarea se află în Câmpia Ararat, la o altitudine de aproximativ 850 de metri. Populația este de circa 1.500 de locuitori, predominant armeni. Economia se bazează pe cultivarea porumbului, grâului și fructelor. Satul are o școală primară și un magazin alimentar. În zonă există canale de irigație care pornesc de la râul Aras. Din punct de vedere istoric, Norakert a făcut parte din cantonul Aragatsotn al provinciei Ayrarat. Satul este relativ tânăr, fondat în secolul al XX-lea. Arhitectura este modernă, cu câteva elemente tradiționale. Norakert este cunoscut pentru comunitatea sa prietenoasă. Cel mai apropiat oraș este Armavir, la aproximativ 15 km nord-vest. Granița cu Turcia se află la circa 5 km sud.",
+      en: "Norakert is a village in the Armavir Province of Armenia, known for its agriculture and proximity to the Turkish border. Located in the Ararat Plain at an elevation of about 850 meters, the village has a population of around 1,500, mostly Armenian. The economy is based on corn, wheat, and fruit farming. The village has a primary school and a general store. Irrigation canals fed by the Aras River support agriculture. Historically, Norakert was part of the Aragatsotn canton of the Ayrarat province. The village was founded in the 20th century and features modern architecture with some traditional touches. The community is known for its friendliness. The nearest city is Armavir, about 15 km northwest. The Turkish border lies approximately 5 km to the south, making the village part of a border region.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1.500 (2011)", "Höhe: 850 m über dem Meeresspiegel", "Entfernung zur türkischen Grenze: 5 km südlich", "Gründungsjahr: 1925", "Anzahl der landwirtschaftlichen Betriebe: 80", "Bewässerte Fläche: 2,5 km²"],
+      hu: ["Lakosság: kb. 1500 fő (2011)", "Tengerszint feletti magasság: 850 m", "Távolság a török határtól: 5 km délre", "Alapítás éve: 1925", "Mezőgazdasági üzemek száma: 80", "Öntözött terület: 2,5 km²"],
+      ro: ["Populație: circa 1.500 (2011)", "Altitudine: 850 m", "Distanța față de granița turcă: 5 km sud", "Anul fondării: 1925", "Număr de ferme agricole: 80", "Suprafața irigată: 2,5 km²"],
+      en: ["Population: approx. 1,500 (2011 census)", "Elevation: 850 m", "Distance to Turkish border: 5 km south", "Founded in 1925", "Number of agricultural farms: 80", "Irrigated area: 2.5 km²"],
+    },
   }
 ];

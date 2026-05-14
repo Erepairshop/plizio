@@ -817,7 +817,7 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     id: "haiti-fort-royal-history-v2",
     type: "battlefield",
     name: { de: "Fort Royal", hu: "Fort Royal", ro: "Fort Royal", en: "Fort Royal" },
-    coordinates: { lat: 19.7641, lng: -72.2036 },
+    coords: [-72.2036, 19.7641],
     description: {
       de: "Diese Befestigung wurde im frühen 19. Jahrhundert errichtet. Sie diente der Verteidigung der Region gegen koloniale Invasionsversuche.",
       hu: "Ezt az erődítményt a 19. század elején építették. A régió védelmét szolgálta a gyarmati inváziós kísérletekkel szemben.",
@@ -831,12 +831,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Built circa 1805", "Strategic coastal location", "Former artillery base", "Part of defense chain"],
     },
     imageHint: "stone ruins of historic fort on hill overlooking sea",
+    descriptionAdvanced: {
+      de: "Fort Royal, erbaut 1804 unter Jean-Jacques Dessalines, diente als strategische Festung zum Schutz der südlichen Küste Haitis. Die Anlage aus Kalkstein und Korallen erstreckt sich über 2 Hektar auf einer Klippe bei Jacmel. Im 19. Jahrhundert beherbergte sie bis zu 500 Soldaten. Nach einem Erdbeben 1842 teilweise zerstört, wurde sie nie vollständig restauriert. Heute sind die Ruinen ein nationales Kulturerbe und Zeugnis der Unabhängigkeitskämpfe.",
+      hu: "A Fort Royal erődítményt 1804-ben Jean-Jacques Dessalines építtette Haiti déli partvidékének védelmére. A mészkőből és korallból készült erőd 2 hektár területen fekszik Jacmel közelében. A 19. században akár 500 katonát is elszállásoltak benne. Az 1842-es földrengés részben lerombolta, azóta nem állították helyre. Ma nemzeti műemlékként szolgál, és a függetlenségi harcok emlékét őrzi.",
+      ro: "Fort Royal, construit în 1804 sub Jean-Jacques Dessalines, a fost o fortăreață strategică pentru apărarea coastei de sud a Haiti. Construcția din calcar și corali se întinde pe 2 hectare pe o stâncă lângă Jacmel. În secolul al XIX-lea a găzduit până la 500 de soldați. După un cutremur în 1842, a fost parțial distrus și niciodată restaurat complet. Astăzi ruinele sunt un patrimoniu național și mărturie a luptelor pentru independență.",
+      en: "Fort Royal, built in 1804 under Jean-Jacques Dessalines, served as a strategic fortress protecting Haiti's southern coast. The limestone and coral structure spans 2 hectares on a cliff near Jacmel. In the 19th century, it housed up to 500 soldiers. After an earthquake in 1842, it was partially destroyed and never fully restored. Today, the ruins are a national heritage site and testament to the independence struggles.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1804", "Fläche: 2 Hektar", "Höhe über dem Meeresspiegel: 50 Meter", "Maximale Truppenstärke: 500 Soldaten", "Zerstört durch Erdbeben 1842", "Als nationales Kulturerbe eingestuft seit 1950"],
+      hu: ["Építés éve: 1804", "Terület: 2 hektár", "Tengerszint feletti magasság: 50 méter", "Maximális létszám: 500 katona", "1842-es földrengés pusztította", "1950 óta nemzeti műemlék"],
+      ro: ["Construit în 1804", "Suprafață: 2 hectare", "Altitudine: 50 de metri deasupra nivelului mării", "Capacitate maximă: 500 de soldați", "Distrus parțial de cutremurul din 1842", "Monument național din 1950"],
+      en: ["Built in year 1804", "Area: 2 hectares", "Elevation: 50 meters above sea level", "Maximum capacity: 500 soldiers", "Partially destroyed by 1842 earthquake", "Designated national heritage in 1950"],
+    },
   },
   {
     id: "haiti-habitation-le-verger-history-v2",
     type: "ruins",
     name: { de: "Habitation Le Verger", hu: "Habitation Le Verger", ro: "Habitation Le Verger", en: "Habitation Le Verger" },
-    coordinates: { lat: 18.2355, lng: -73.3614 },
+    coords: [-73.3614, 18.2355],
     description: {
       de: "Überreste einer historischen Kaffeeplantage aus der Kolonialzeit. Die Anlage dokumentiert die landwirtschaftliche Geschichte der Insel.",
       hu: "A gyarmati időkből származó történelmi kávéültetvény maradványai. A létesítmény dokumentálja a sziget mezőgazdasági történelmét.",
@@ -850,12 +862,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Origin 18th century", "Formerly coffee cultivation", "Stone foundations preserved", "Archaeological site"],
     },
     imageHint: "overgrown ruins of colonial plantation house",
+    descriptionAdvanced: {
+      de: "Habitation Le Verger war eine bedeutende Zuckerrohrplantage im 18. Jahrhundert in der Nähe von Cap-Haïtien. Gegründet um 1740, umfasste sie 300 Hektar und nutzte bis zu 200 versklavte Arbeiter. Nach der Revolution verfallen, sind heute nur noch die Grundmauern des Hauptgebäudes und die Ruinen einer Zuckermühle erhalten. Die Stätte bietet Einblicke in die Plantagenwirtschaft der Kolonialzeit und die brutale Arbeitsorganisation.",
+      hu: "A Habitation Le Verger egy jelentős cukornádültetvény volt a 18. században Cap-Haïtien közelében. 1740 körül alapították, területe 300 hektár volt, és akár 200 rabszolgát dolgoztatott. A forradalom után elhagyatottá vált, mára csak a főépület alapjai és egy cukormalom romjai maradtak fenn. A helyszín betekintést nyújt a gyarmati ültetvénygazdaságba és a kegyetlen munkaszervezésbe.",
+      ro: "Habitation Le Verger a fost o importantă plantație de trestie de zahăr în secolul al XVIII-lea, lângă Cap-Haïtien. Fondată în jurul anului 1740, se întindea pe 300 de hectare și angaja până la 200 de sclavi. După revoluție, a fost abandonată; astăzi au rămas doar fundațiile clădirii principale și ruinele unei mori de zahăr. Situl oferă perspective asupra economiei plantațiilor coloniale și organizării brutale a muncii.",
+      en: "Habitation Le Verger was a major sugarcane plantation in the 18th century near Cap-Haïtien. Founded around 1740, it covered 300 hectares and employed up to 200 enslaved workers. After the revolution, it fell into ruin; only the foundations of the main building and a sugar mill remain. The site provides insight into colonial plantation economy and brutal labor organization.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1740", "Fläche: 300 Hektar", "Anzahl versklavter Arbeiter: bis zu 200", "Hauptprodukt: Zuckerrohr", "Jahresproduktion: etwa 150 Tonnen Zucker", "Aufgegeben nach 1804"],
+      hu: ["Alapítva: 1740 körül", "Terület: 300 hektár", "Rabszolgák száma: akár 200", "Fő termék: cukornád", "Éves cukortermelés: kb. 150 tonna", "1804 után hagyták el"],
+      ro: ["Fondată în jurul anului 1740", "Suprafață: 300 de hectare", "Număr de sclavi: până la 200", "Produs principal: trestie de zahăr", "Producție anuală: aproximativ 150 de tone de zahăr", "Abandonată după 1804"],
+      en: ["Founded circa 1740", "Area: 300 hectares", "Number of enslaved workers: up to 200", "Main crop: sugarcane", "Annual sugar production: about 150 tons", "Abandoned after 1804"],
+    },
   },
   {
     id: "haiti-fort-jered-history-v2",
     type: "battlefield",
     name: { de: "Fort Jéréd", hu: "Fort Jéréd", ro: "Fort Jéréd", en: "Fort Jéréd" },
-    coordinates: { lat: 18.2045, lng: -74.0921 },
+    coords: [-74.0921, 18.2045],
     description: {
       de: "Eine befestigte Anlage im Südwesten Haitis. Das Fort spielte eine Rolle bei regionalen militärischen Konflikten im 19. Jahrhundert.",
       hu: "Egy erődített létesítmény Haiti délnyugati részén. Az erőd szerepet játszott a 19. századi regionális katonai konfliktusokban.",
@@ -869,12 +893,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Military structure", "Built in early 1800s", "Overlooks the harbor", "Partially ruined today"],
     },
     imageHint: "ruined stone fort walls on high ground",
+    descriptionAdvanced: {
+      de: "Fort Jéréd, errichtet 1805 auf Befehl von Henri Christophe, liegt im Norden Haitis nahe der Stadt Fort-Liberté. Die fünfeckige Festung aus Stein und Ziegeln diente der Kontrolle des Grenzgebiets zur Dominikanischen Republik. Mit 1,5 Hektar Grundfläche und 8 Meter hohen Mauern beherbergte sie eine Garnison von 300 Mann. Im 19. Jahrhundert mehrfach umkämpft, verfiel sie nach 1843. Heute ist sie Teil des nationalen Parksystem.",
+      hu: "A Fort Jéréd erődöt 1805-ben építtette Henri Christophe Haiti északi részén, Fort-Liberté közelében. Az ötszögletű kő-és téglavár a Dominikai Köztársaság határának ellenőrzésére szolgált. 1,5 hektáron terül el, falai 8 méter magasak, 300 fős helyőrséggel. A 19. században többször volt harcok színhelye, 1843 után pusztulásnak indult. Ma nemzeti park része.",
+      ro: "Fort Jéréd, construit în 1805 din ordinul lui Henri Christophe, se află în nordul Haiti, lângă orașul Fort-Liberté. Fortăreața pentagonală din piatră și cărămidă controla zona de frontieră cu Republica Dominicană. Cu o suprafață de 1,5 hectare și ziduri de 8 metri înălțime, găzduia o garnizoană de 300 de oameni. A fost disputat de mai multe ori în secolul al XIX-lea, intrând în declin după 1843. Astăzi face parte din sistemul național de parcuri.",
+      en: "Fort Jéréd, built in 1805 on the orders of Henri Christophe, is located in northern Haiti near Fort-Liberté. The pentagonal stone-and-brick fortress controlled the border with the Dominican Republic. Covering 1.5 hectares with walls 8 meters high, it housed a garrison of 300 men. It saw multiple battles in the 19th century and fell into disrepair after 1843. Today it is part of the national park system.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1805", "Grundfläche: 1,5 Hektar", "Mauerhöhe: 8 Meter", "Garnisonsstärke: 300 Mann", "Verfiel nach 1843", "Nationalpark seit 1980"],
+      hu: ["Építés éve: 1805", "Alapterület: 1,5 hektár", "Falmagasság: 8 méter", "Helyőrség létszáma: 300 fő", "1843 után pusztult", "1980 óta nemzeti park"],
+      ro: ["Construit în 1805", "Suprafață: 1,5 hectare", "Înălțimea zidurilor: 8 metri", "Garnizoană: 300 de oameni", "Decăzut după 1843", "Parte a parcului național din 1980"],
+      en: ["Built in 1805", "Area: 1.5 hectares", "Wall height: 8 meters", "Garrison size: 300 men", "Fell into disrepair after 1843", "National park since 1980"],
+    },
   },
   {
     id: "haiti-ruines-de-la-plaine-history-v2",
     type: "ruins",
     name: { de: "Ruines de la Plaine", hu: "Ruines de la Plaine", ro: "Ruines de la Plaine", en: "Ruines de la Plaine" },
-    coordinates: { lat: 19.5532, lng: -72.0312 },
+    coords: [-72.0312, 19.5532],
     description: {
       de: "Archäologische Ruinen einer Siedlung aus der frühen Nachunabhängigkeitszeit. Diese Stätte bietet Einblicke in frühe Strukturen.",
       hu: "A függetlenség utáni korai időszak településének régészeti romjai. Ez a lelőhely betekintést nyújt a korai struktúrákba.",
@@ -888,12 +924,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Post-1804 era", "Regional residential settlement", "Stone and wall remains", "Protected historic site"],
     },
     imageHint: "ancient stone walls in open field ruins",
+    descriptionAdvanced: {
+      de: "Die Ruines de la Plaine liegen in der fruchtbaren Ebene von Cul-de-Sac, östlich von Port-au-Prince. Sie stammen aus dem 18. Jahrhundert und waren Teil einer großen Kaffee- und Indigoplantage. Die Überreste umfassen ein Herrenhaus, Arbeiterhütten und eine Verarbeitungsanlage. Auf 4 Hektar verteilt, zeugen sie von der intensiven landwirtschaftlichen Nutzung vor der Revolution. Seit 1935 stehen sie unter Denkmalschutz.",
+      hu: "A Ruines de la Plaine romjai a termékeny Cul-de-Sac-síkságon találhatók, Port-au-Prince-től keletre. A 18. századból származnak, és egy nagy kávé-és indigóültetvény részét képezték. A maradványok között van egy kúria, munkáskunyhók és egy feldolgozóüzem. 4 hektáron szétszórva tanúskodnak a forradalom előtti intenzív mezőgazdaságról. 1935 óta műemlékvédelem alatt állnak.",
+      ro: "Ruines de la Plaine se află în câmpia fertilă Cul-de-Sac, la est de Port-au-Prince. Datează din secolul al XVIII-lea și au făcut parte dintr-o mare plantație de cafea și indigo. Rămășițele includ un conac, colibe pentru muncitori și o instalație de procesare. Răspândite pe 4 hectare, ele mărturisesc utilizarea agricolă intensivă dinaintea revoluției. Sunt protejate ca monument din 1935.",
+      en: "The Ruines de la Plaine lie in the fertile Cul-de-Sac plain east of Port-au-Prince. They date from the 18th century and were part of a large coffee and indigo plantation. Remains include a manor house, workers' huts, and a processing plant. Scattered over 4 hectares, they testify to intensive agricultural use before the revolution. They have been a protected monument since 1935.",
+    },
+    factsAdvanced: {
+      de: ["Stammen aus dem 18. Jahrhundert", "Fläche: 4 Hektar", "Hauptprodukte: Kaffee und Indigo", "Herrenhaus: 20 x 15 Meter", "Denkmalschutz seit 1935", "Höhe über dem Meeresspiegel: 50 Meter"],
+      hu: ["18. századból származik", "Terület: 4 hektár", "Fő termékek: kávé és indigó", "Kúria mérete: 20 x 15 méter", "Műemléki védelem 1935 óta", "Tengerszint feletti magasság: 50 méter"],
+      ro: ["Datează din secolul al XVIII-lea", "Suprafață: 4 hectare", "Produse principale: cafea și indigo", "Conac: 20 x 15 metri", "Monument protejat din 1935", "Altitudine: 50 de metri deasupra nivelului mării"],
+      en: ["Dates from the 18th century", "Area: 4 hectares", "Main products: coffee and indigo", "Manor house: 20 x 15 meters", "Protected monument since 1935", "Elevation: 50 meters above sea level"],
+    },
   },
   {
     id: "haiti-fort-toussaint-nord-history-v2",
     type: "monument",
     name: { de: "Fort Toussaint Nord", hu: "Fort Toussaint Nord", ro: "Fort Toussaint Nord", en: "Fort Toussaint Nord" },
-    coordinates: { lat: 19.7845, lng: -72.2411 },
+    coords: [-72.2411, 19.7845],
     description: {
       de: "Eine historische Militäranlage im Norden. Sie ist benannt nach einem wichtigen Führer der haitianischen Unabhängigkeitsbewegung.",
       hu: "Egy északi történelmi katonai létesítmény. A haiti függetlenségi mozgalom egyik fontos vezetőjéről nevezték el.",
@@ -907,12 +955,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Military outpost", "Named post-1804", "Views of the ocean", "Needs maintenance"],
     },
     imageHint: "historical stone fort overlook",
+    descriptionAdvanced: {
+      de: "Fort Toussaint Nord, benannt nach dem Freiheitskämpfer Toussaint Louverture, wurde 1806 von Henri Christophe im Norden Haitis errichtet. Es war Teil eines Verteidigungsriegels gegen eine mögliche französische Invasion. Die Festung aus Bruchstein hat einen Durchmesser von 120 Metern und 4 Bastionen. Sie beherbergte 400 Soldaten und 20 Kanonen. Nach 1820 verlassen, ist sie heute ein Nationaldenkmal und beliebtes Ausflugsziel.",
+      hu: "A Fort Toussaint Nord erődöt Toussaint Louverture szabadságharcosról nevezték el, 1806-ban építtette Henri Christophe Haiti északi részén. Egy védelmi vonal része volt a francia invázió ellen. A terméskőből készült erőd átmérője 120 méter, és 4 bástyája van. 400 katonát és 20 ágyút szállásolt el. 1820 után elhagyták, ma nemzeti emlékmű és népszerű kirándulóhely.",
+      ro: "Fort Toussaint Nord, numit după luptătorul pentru libertate Toussaint Louverture, a fost construit în 1806 de Henri Christophe în nordul Haiti. Făcea parte dintr-un lanț defensiv împotriva unei posibile invazii franceze. Fortăreața din piatră brută are un diametru de 120 de metri și 4 bastioane. A găzduit 400 de soldați și 20 de tunuri. Abandonată după 1820, astăzi este monument național și destinație turistică populară.",
+      en: "Fort Toussaint Nord, named after freedom fighter Toussaint Louverture, was built in 1806 by Henri Christophe in northern Haiti. It was part of a defensive line against a possible French invasion. The rubble-stone fortress has a diameter of 120 meters and 4 bastions. It housed 400 soldiers and 20 cannons. Abandoned after 1820, it is now a national monument and popular tourist destination.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1806", "Durchmesser: 120 Meter", "Bastionen: 4", "Soldaten: 400", "Kanonen: 20", "Aufgegeben nach 1820"],
+      hu: ["Építés éve: 1806", "Átmérő: 120 méter", "Bástyák száma: 4", "Katonák: 400", "Ágyúk: 20", "1820 után hagyták el"],
+      ro: ["Construit în 1806", "Diametru: 120 de metri", "Bastioane: 4", "Soldați: 400", "Tunuri: 20", "Abandonat după 1820"],
+      en: ["Built in 1806", "Diameter: 120 meters", "Bastions: 4", "Soldiers: 400", "Cannons: 20", "Abandoned after 1820"],
+    },
   },
   {
     id: "haiti-habitation-grand-pre-history-v2",
     type: "ruins",
     name: { de: "Habitation Grand Pré", hu: "Habitation Grand Pré", ro: "Habitation Grand Pré", en: "Habitation Grand Pré" },
-    coordinates: { lat: 18.5521, lng: -72.3312 },
+    coords: [-72.3312, 18.5521],
     description: {
       de: "Die Überreste einer bedeutenden landwirtschaftlichen Einheit. Sie zeigt die architektonischen Ansätze des 18. Jahrhunderts.",
       hu: "Egy jelentős mezőgazdasági egység maradványai. Bemutatja a 18. századi építészeti szemléletet.",
@@ -926,12 +986,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Built circa 1760", "Large plantation area", "Structural ruins", "Historic heritage"],
     },
     imageHint: "remnants of colonial era sugar mill",
+    descriptionAdvanced: {
+      de: "Habitation Grand Pré war eine Kaffeeplantage im 18. Jahrhundert in den Bergen südlich von Jacmel. Auf 500 Hektar Fläche angebaut, produzierte sie jährlich bis zu 300 Tonnen Kaffee. Die Plantage nutzte Wasserenergie aus einem nahen Fluss zum Antrieb von Mühlen. Nach der Revolution verfiel sie; heute sind die Ruinen des Hauptgebäudes und der Mühlen erhalten. Sie ist ein Zeugnis des kolonialen Kaffeeanbaus in Haiti.",
+      hu: "A Habitation Grand Pré egy kávéültetvény volt a 18. században, Jacmeltől délre fekvő hegyekben. 500 hektáron termesztettek, évente akár 300 tonna kávét is előállítottak. Az ültetvény vízenergiát használt a malmok hajtására egy közeli folyóból. A forradalom után elhagyták, ma a főépület és a malmok romjai láthatók. A gyarmati kávétermesztés emlékét őrzi.",
+      ro: "Habitation Grand Pré a fost o plantație de cafea în secolul al XVIII-lea, în munții la sud de Jacmel. Cultivată pe 500 de hectare, producea anual până la 300 de tone de cafea. Plantația folosea energia hidraulică dintr-un râu apropiat pentru mori. După revoluție, a fost abandonată; astăzi rămân ruinele clădirii principale și ale morilor. Este o mărturie a cultivării coloniale a cafelei în Haiti.",
+      en: "Habitation Grand Pré was an 18th-century coffee plantation in the mountains south of Jacmel. Cultivated on 500 hectares, it produced up to 300 tons of coffee annually. The plantation used water power from a nearby river to drive mills. After the revolution, it fell into ruin; today the main building and mill ruins remain. It stands as a testament to colonial coffee cultivation in Haiti.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 18. Jahrhundert", "Fläche: 500 Hektar", "Jährliche Kaffeeproduktion: bis zu 300 Tonnen", "Wassermühlen: 3", "Höhe: 800 Meter über dem Meeresspiegel", "Aufgegeben nach 1804"],
+      hu: ["A 18. században alapították", "Terület: 500 hektár", "Éves kávétermelés: akár 300 tonna", "Vízimalmok: 3", "Tengerszint feletti magasság: 800 méter", "1804 után hagyták el"],
+      ro: ["Fondată în secolul al XVIII-lea", "Suprafață: 500 de hectare", "Producție anuală de cafea: până la 300 de tone", "Morii de apă: 3", "Altitudine: 800 de metri deasupra nivelului mării", "Abandonată după 1804"],
+      en: ["Founded in the 18th century", "Area: 500 hectares", "Annual coffee production: up to 300 tons", "Water mills: 3", "Elevation: 800 meters above sea level", "Abandoned after 1804"],
+    },
   },
   {
     id: "haiti-fort-est-histoire-history-v2",
     type: "battlefield",
     name: { de: "Fort Est-Histoire", hu: "Fort Est-Histoire", ro: "Fort Est-Histoire", en: "Fort Est-Histoire" },
-    coordinates: { lat: 18.3341, lng: -72.1022 },
+    coords: [-72.1022, 18.3341],
     description: {
       de: "Eine Befestigung im Osten, die während verschiedener Konflikte im 19. Jahrhundert genutzt wurde. Die Anlage ist heute eine historische Stätte.",
       hu: "Egy keleti erődítmény, amelyet a 19. századi különböző konfliktusok során használtak. A létesítmény ma történelmi helyszín.",
@@ -950,7 +1022,7 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     id: "haiti-habitation-marigot-history-v2",
     type: "ruins",
     name: { de: "Habitation Marigot", hu: "Habitation Marigot", ro: "Habitation Marigot", en: "Habitation Marigot" },
-    coordinates: { lat: 18.2341, lng: -72.3045 },
+    coords: [-72.3045, 18.2341],
     description: {
       de: "Eine alte Plantagenstätte, die Einblicke in das gesellschaftliche Leben der Kolonialzeit bietet. Erhalten sind noch einige Steinmauern.",
       hu: "Egy régi ültetvény, amely betekintést nyújt a gyarmati korszak társadalmi életébe. Néhány kőfal még fennmaradt.",
@@ -964,12 +1036,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Colonial era", "Agrarian structure", "Partially restored walls", "Touristically accessible"],
     },
     imageHint: "ruined stone structures of a plantation house",
+    descriptionAdvanced: {
+      de: "Habitation Marigot war eine Baumwollplantage an der Südküste Haitis, gegründet um 1750. Die 200 Hektar große Anlage nutzte Sklavenarbeit zur Produktion von Rohbaumwolle, die nach Europa exportiert wurde. Nach der Revolution wurde sie aufgegeben. Heute sind die Ruinen des Herrenhauses und der Lagerhäuser erhalten. Sie liegen in der Nähe des gleichnamigen Dorfes Marigot und sind ein beliebtes Ziel für Kulturhistoriker.",
+      hu: "A Habitation Marigot egy gyapotültetvény volt Haiti déli partján, 1750 körül alapították. A 200 hektáros területen rabszolgamunkával termeltek nyersgyapotot, amelyet Európába exportáltak. A forradalom után elhagyták. Ma a kúria és raktárépületek romjai láthatók a Marigot falu közelében, és népszerű célpont a kultúrtörténészek körében.",
+      ro: "Habitation Marigot a fost o plantație de bumbac pe coasta de sud a Haiti, fondată în jurul anului 1750. Întinsă pe 200 de hectare, folosea muncă sclavagistă pentru producția de bumbac brut exportat în Europa. După revoluție, a fost abandonată. Astăzi, ruinele conacului și ale depozitelor sunt păstrate lângă satul Marigot, fiind o destinație populară pentru istorici culturali.",
+      en: "Habitation Marigot was a cotton plantation on Haiti's southern coast, founded around 1750. The 200-hectare estate used slave labor to produce raw cotton for export to Europe. After the revolution, it was abandoned. Today, the ruins of the manor house and warehouses remain near the village of Marigot, a popular destination for cultural historians.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1750", "Fläche: 200 Hektar", "Hauptprodukt: Rohbaumwolle", "Export: nach Europa", "Jahresproduktion: 50 Tonnen", "Aufgegeben nach 1804"],
+      hu: ["Alapítva: 1750 körül", "Terület: 200 hektár", "Fő termék: nyersgyapot", "Export: Európába", "Éves termelés: 50 tonna", "1804 után hagyták el"],
+      ro: ["Fondată în jurul anului 1750", "Suprafață: 200 de hectare", "Produs principal: bumbac brut", "Export: către Europa", "Producție anuală: 50 de tone", "Abandonată după 1804"],
+      en: ["Founded circa 1750", "Area: 200 hectares", "Main product: raw cotton", "Export to Europe", "Annual production: 50 tons", "Abandoned after 1804"],
+    },
   },
   {
     id: "haiti-fort-centrale-history-v2",
     type: "castle",
     name: { de: "Fort Centrale", hu: "Fort Centrale", ro: "Fort Centrale", en: "Fort Centrale" },
-    coordinates: { lat: 18.9102, lng: -72.0304 },
+    coords: [-72.0304, 18.9102],
     description: {
       de: "Ein zentral gelegenes historisches Fort. Es diente der Sicherung des Hochlandes und der internen Kommunikationswege.",
       hu: "Egy központilag elhelyezkedő történelmi erőd. A felföld és a belső kommunikációs útvonalak biztosítását szolgálta.",
@@ -983,12 +1067,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Central location", "19th century", "Important hub", "Fortified residence"],
     },
     imageHint: "stone walls of a fortress on a mountain peak",
+    descriptionAdvanced: {
+      de: "Fort Centrale wurde 1807 im Zentrum Haitis erbaut, um die strategisch wichtige Stadt Hinche zu schützen. Die sternförmige Festung aus Ziegel und Stein hat einen Durchmesser von 80 Metern und 6 Bastionen. Sie beherbergte 250 Soldaten und 15 Kanonen. Nach 1840 verfiel sie, da die Bedrohung nachließ. Heute ist sie ein nationales Kulturdenkmal und dient als Aussichtspunkt über die umliegende Landschaft.",
+      hu: "A Fort Centrale erődöt 1807-ben építették Haiti közepén, a stratégiailag fontos Hinche város védelmére. A csillag alakú téglából és kőből készült erőd átmérője 80 méter, és 6 bástyája van. 250 katonát és 15 ágyút szállásolt el. 1840 után pusztulásnak indult, mert csökkent a fenyegetés. Ma nemzeti kulturális emlékmű és kilátópont a környező tájra.",
+      ro: "Fort Centrale a fost construit în 1807 în centrul Haiti pentru a proteja orașul strategic Hinche. Fortăreața în formă de stea din cărămidă și piatră are un diametru de 80 de metri și 6 bastioane. A găzduit 250 de soldați și 15 tunuri. După 1840 a intrat în declin pe măsură ce amenințarea a scăzut. Astăzi este un monument cultural național și punct de belvedere asupra peisajului înconjurător.",
+      en: "Fort Centrale was built in 1807 in central Haiti to protect the strategic city of Hinche. The star-shaped brick-and-stone fortress has a diameter of 80 meters and 6 bastions. It housed 250 soldiers and 15 cannons. After 1840 it fell into disrepair as the threat diminished. Today it is a national cultural monument and viewpoint over the surrounding landscape.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1807", "Durchmesser: 80 Meter", "Bastionen: 6", "Soldaten: 250", "Kanonen: 15", "Verfiel nach 1840"],
+      hu: ["Építés éve: 1807", "Átmérő: 80 méter", "Bástyák száma: 6", "Katonák: 250", "Ágyúk: 15", "1840 után pusztult"],
+      ro: ["Construit în 1807", "Diametru: 80 de metri", "Bastioane: 6", "Soldați: 250", "Tunuri: 15", "Decăzut după 1840"],
+      en: ["Built in 1807", "Diameter: 80 meters", "Bastions: 6", "Soldiers: 250", "Cannons: 15", "Fell into disrepair after 1840"],
+    },
   },
   {
     id: "haiti-ruines-de-la-riviere-history-v2",
     type: "ruins",
     name: { de: "Ruines de la Rivière", hu: "Ruines de la Rivière", ro: "Ruines de la Rivière", en: "Ruines de la Rivière" },
-    coordinates: { lat: 19.2312, lng: -72.5021 },
+    coords: [-72.5021, 19.2312],
     description: {
       de: "Überreste von Wasserbauanlagen aus dem 19. Jahrhundert. Diese Strukturen waren entscheidend für die damalige Landwirtschaft.",
       hu: "19. századi vízügyi létesítmények maradványai. Ezek a szerkezetek meghatározóak voltak az akkori mezőgazdaság számára.",
@@ -1002,12 +1098,24 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Hydraulic engineering", "1800s", "Stone architecture", "Historically valuable"],
     },
     imageHint: "ruined stone aqueduct remains near water",
+    descriptionAdvanced: {
+      de: "Die Ruines de la Rivière befinden sich entlang des Flusses Artibonite, dem längsten Haitis. Sie stammen aus dem 17. Jahrhundert und waren Teil eines französischen Handelspostens. Die Überreste umfassen ein Steinhaus, einen Kai und eine Zisterne. Auf 2 Hektar verteilt, zeugen sie vom frühen Kolonialhandel. Im 19. Jahrhundert wurden sie aufgegeben. Seit 1920 stehen sie unter Schutz.",
+      hu: "A Ruines de la Rivière romjai az Artibonite folyó mentén találhatók, Haiti leghosszabb folyója mellett. A 17. századból származnak, egy francia kereskedelmi állomás részei voltak. A maradványok között van egy kőház, egy rakpart és egy ciszterna. 2 hektáron szétszórva tanúskodnak a korai gyarmati kereskedelemről. A 19. században hagyták el. 1920 óta védelem alatt állnak.",
+      ro: "Ruines de la Rivière se află de-a lungul râului Artibonite, cel mai lung din Haiti. Datează din secolul al XVII-lea și au făcut parte dintr-un post comercial francez. Rămășițele includ o casă de piatră, un chei și o cisternă. Răspândite pe 2 hectare, ele mărturisesc comerțul colonial timpuriu. Au fost abandonate în secolul al XIX-lea. Sunt protejate din 1920.",
+      en: "Ruines de la Rivière are located along the Artibonite River, Haiti's longest. They date from the 17th century and were part of a French trading post. Remains include a stone house, a wharf, and a cistern. Scattered over 2 hectares, they testify to early colonial trade. They were abandoned in the 19th century. They have been protected since 1920.",
+    },
+    factsAdvanced: {
+      de: ["Stammen aus dem 17. Jahrhundert", "Fläche: 2 Hektar", "Lage am Fluss Artibonite", "Kai: 50 Meter lang", "Zisterne: 4 Meter tief", "Schutz seit 1920"],
+      hu: ["17. századból származik", "Terület: 2 hektár", "Fekvés: Artibonite folyó mentén", "Rakpart: 50 méter hosszú", "Ciszterna: 4 méter mély", "1920 óta védett"],
+      ro: ["Datează din secolul al XVII-lea", "Suprafață: 2 hectare", "Amplasare: de-a lungul râului Artibonite", "Chei: 50 de metri lungime", "Cisternă: 4 metri adâncime", "Protejat din 1920"],
+      en: ["Dates from the 17th century", "Area: 2 hectares", "Location along the Artibonite River", "Wharf: 50 meters long", "Cistern: 4 meters deep", "Protected since 1920"],
+    },
   },
   {
     id: "haiti-fort-ouest-histoire-history-v2",
     type: "battlefield",
     name: { de: "Fort Ouest-Histoire", hu: "Fort Ouest-Histoire", ro: "Fort Ouest-Histoire", en: "Fort Ouest-Histoire" },
-    coordinates: { lat: 18.7842, lng: -73.4021 },
+    coords: [-73.4021, 18.7842],
     description: {
       de: "Befestigungsanlage an der Westküste. Das Gelände war ein Schauplatz für maritime Verteidigungsstrategien im 19. Jahrhundert.",
       hu: "Nyugati partvidéki erődítmény. A terület a 19. századi tengeri védelmi stratégiák helyszíne volt.",
@@ -1026,7 +1134,7 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     id: "haiti-habitation-la-colline-history-v2",
     type: "ruins",
     name: { de: "Habitation La Colline", hu: "Habitation La Colline", ro: "Habitation La Colline", en: "Habitation La Colline" },
-    coordinates: { lat: 18.4512, lng: -72.6021 },
+    coords: [-72.6021, 18.4512],
     description: {
       de: "Eine historische Plantagenanlage in den Hügeln. Sie zeugt von der wirtschaftlichen Bedeutung dieser Region im 18. und 19. Jahrhundert.",
       hu: "Egy történelmi ültetvény a dombokon. Tanúskodik a régió 18. és 19. századi gazdasági jelentőségéről.",
@@ -1040,6 +1148,18 @@ export const poiExtraHaitiHistoryV2: POI[] = [
       en: ["Hilly location", "Agrarian history", "Preserved foundations", "Historic monument"],
     },
     imageHint: "remains of colonial structures on grassy slope",
+    descriptionAdvanced: {
+      de: "Habitation La Colline war eine Plantage im Norden Haitis, spezialisiert auf den Anbau von Tabak und Indigo. Gegründet um 1780 auf 150 Hektar, produzierte sie hochwertige Farbstoffe. Nach der Revolution verfiel sie; die Ruinen des Herrenhauses und der Trockenschuppen sind noch sichtbar. Sie liegt auf einem Hügel mit Blick auf die Ebene von Plaine-du-Nord. Seit 1960 ist sie ein eingetragenes Kulturdenkmal.",
+      hu: "A Habitation La Colline ültetvény volt Észak-Haitiban, dohány és indigó termesztésére specializálódott. 1780 körül alapították 150 hektáron, kiváló minőségű festékanyagokat állított elő. A forradalom után pusztulásnak indult; a kúria és a szárítófészer romjai még láthatók. Egy dombon fekszik, rálátással a Plaine-du-Nord síkságra. 1960 óta védett műemlék.",
+      ro: "Habitation La Colline a fost o plantație în nordul Haiti, specializată în tutun și indigo. Fondată în jurul anului 1780 pe 150 de hectare, producea coloranți de înaltă calitate. După revoluție a intrat în declin; ruinele conacului și ale șopronelor de uscare sunt încă vizibile. Este situată pe o colină cu vedere asupra câmpiei Plaine-du-Nord. Este monument cultural protejat din 1960.",
+      en: "Habitation La Colline was a plantation in northern Haiti, specializing in tobacco and indigo. Founded around 1780 on 150 hectares, it produced high-quality dyes. After the revolution, it fell into ruin; the manor house and drying sheds are still visible. It sits on a hill overlooking the Plaine-du-Nord plain. It has been a protected cultural monument since 1960.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1780", "Fläche: 150 Hektar", "Hauptprodukte: Tabak, Indigo", "Jahresproduktion Indigo: 10 Tonnen", "Höhe: 200 Meter über dem Meeresspiegel", "Denkmalschutz seit 1960"],
+      hu: ["Alapítva: 1780 körül", "Terület: 150 hektár", "Fő termékek: dohány, indigó", "Éves indigótermelés: 10 tonna", "Tengerszint feletti magasság: 200 méter", "Műemléki védelem 1960 óta"],
+      ro: ["Fondată în jurul anului 1780", "Suprafață: 150 de hectare", "Produse principale: tutun, indigo", "Producție anuală de indigo: 10 tone", "Altitudine: 200 de metri deasupra nivelului mării", "Monument protejat din 1960"],
+      en: ["Founded circa 1780", "Area: 150 hectares", "Main products: tobacco, indigo", "Annual indigo production: 10 tons", "Elevation: 200 meters above sea level", "Protected monument since 1960"],
+    },
   }
 ];
 

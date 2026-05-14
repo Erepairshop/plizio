@@ -1060,7 +1060,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-castillo-san-fernando-ocumo-history-v2",
     type: "castle",
     name: { de: "Castillo San Fernando de Ocumo", hu: "Castillo San Fernando de Ocumo", ro: "Castillo San Fernando de Ocumo", en: "Castillo San Fernando de Ocumo" },
-    coordinates: { lat: 10.6033, lng: -67.5958 },
+    coords: [-67.5958, 10.6033],
     description: {
       de: "Diese koloniale Befestigungsanlage wurde im 18. Jahrhundert zum Schutz der Küstenlinie errichtet. Sie diente der Verteidigung gegen Piratenangriffe.",
       hu: "Ez a 18. századi koloniális erődítmény a tengerpart védelmére épült. A kalóztámadások elhárítását szolgálta a gyarmati korszakban.",
@@ -1079,7 +1079,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-fuerte-diamante-history-v2",
     type: "castle",
     name: { de: "Fuerte El Diamante", hu: "Fuerte El Diamante", ro: "Fuerte El Diamante", en: "Fuerte El Diamante" },
-    coordinates: { lat: 10.9572, lng: -63.8586 },
+    coords: [-63.8586, 10.9572],
     description: {
       de: "Das Fort befindet sich auf der Insel Margarita und wurde zur Kontrolle der strategischen Handelswege erbaut. Es stammt aus dem frühen 19. Jahrhundert.",
       hu: "A Margarita-szigeten található erőd a stratégiai kereskedelmi útvonalak ellenőrzésére épült. A 19. század elejéről származik.",
@@ -1098,7 +1098,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-casa-de-la-estrella-history-v2",
     type: "museum",
     name: { de: "Casa de la Estrella", hu: "Casa de la Estrella", ro: "Casa de la Estrella", en: "Casa de la Estrella" },
-    coordinates: { lat: 10.2486, lng: -68.0041 },
+    coords: [-68.0041, 10.2486],
     description: {
       de: "Dieses historische Gebäude in Valencia diente als Krankenhaus und später als Ort politischer Entscheidungsprozesse. Es wurde im 19. Jahrhundert erbaut.",
       hu: "Ez a valenciai történelmi épület kórházként, majd politikai döntéshozatal helyszíneként szolgált. A 19. században építették.",
@@ -1117,7 +1117,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-fortin-libertador-history-v2",
     type: "monument",
     name: { de: "Fortín Libertador", hu: "Fortín Libertador", ro: "Fortín Libertador", en: "Fortín Libertador" },
-    coordinates: { lat: 10.4951, lng: -66.8924 },
+    coords: [-66.8924, 10.4951],
     description: {
       de: "Das Bauwerk erinnert an die Unabhängigkeitskämpfe in der Region Caracas. Es wurde im 20. Jahrhundert als historisches Denkmal errichtet.",
       hu: "Az építmény a caracasi régió függetlenségi harcaira emlékeztet. A 20. században állították fel történelmi emlékműként.",
@@ -1136,7 +1136,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-casa-antigua-de-cumana-history-v2",
     type: "landmark",
     name: { de: "Casa Antigua de Cumaná", hu: "Casa Antigua de Cumaná", ro: "Casa Antigua de Cumaná", en: "Casa Antigua de Cumaná" },
-    coordinates: { lat: 10.4633, lng: -64.1755 },
+    coords: [-64.1755, 10.4633],
     description: {
       de: "Dieses koloniale Herrenhaus in Cumaná repräsentiert die Architektur der spanischen Herrschaft. Es beherbergt heute historische Sammlungen.",
       hu: "Ez a cumanái koloniális kúria a spanyol uralom építészetét képviseli. Ma történelmi gyűjteményeknek ad otthont.",
@@ -1155,7 +1155,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-ruinas-de-san-pedro-history-v2",
     type: "ruins",
     name: { de: "Ruinas de San Pedro", hu: "Ruinas de San Pedro", ro: "Ruinas de San Pedro", en: "Ruinas de San Pedro" },
-    coordinates: { lat: 10.5055, lng: -66.8633 },
+    coords: [-66.8633, 10.5055],
     description: {
       de: "Die Ruinen der Kirche von San Pedro zeugen von der frühen religiösen Besiedlung. Sie stammen aus dem 17. Jahrhundert.",
       hu: "A San Pedro-templom romjai a korai vallási letelepedésről tanúskodnak. A 17. századból származnak.",
@@ -1174,7 +1174,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-castillo-san-cristobal-history-v2",
     type: "castle",
     name: { de: "Castillo San Cristóbal", hu: "Castillo San Cristóbal", ro: "Castillo San Cristóbal", en: "Castillo San Cristóbal" },
-    coordinates: { lat: 10.4578, lng: -64.1812 },
+    coords: [-64.1812, 10.4578],
     description: {
       de: "Diese Festung schützte den Hafen von Cumaná während der Kolonialzeit. Sie wurde zur Abwehr feindlicher Schiffe errichtet.",
       hu: "Ez az erőd védte Cumaná kikötőjét a gyarmati időszakban. Az ellenséges hajók elhárítására építették.",
@@ -1193,7 +1193,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-casa-de-la-cultura-angostura-history-v2",
     type: "museum",
     name: { de: "Casa de la Cultura Angostura", hu: "Casa de la Cultura Angostura", ro: "Casa de la Cultura Angostura", en: "Casa de la Cultura Angostura" },
-    coordinates: { lat: 8.1364, lng: -63.5471 },
+    coords: [-63.5471, 8.1364],
     description: {
       de: "Das Gebäude befindet sich im historischen Stadtkern von Ciudad Bolívar. Es dokumentiert die regionale Geschichte des 19. Jahrhunderts.",
       hu: "Az épület Ciudad Bolívar történelmi városközpontjában található. A 19. századi regionális történelmet dokumentálja.",
@@ -1212,7 +1212,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-monumento-batalla-matasiete-history-v2",
     type: "monument",
     name: { de: "Monumento Batalla de Matasiete", hu: "Monumento Batalla de Matasiete", ro: "Monumento Batalla de Matasiete", en: "Monumento Batalla de Matasiete" },
-    coordinates: { lat: 10.9754, lng: -63.8751 },
+    coords: [-63.8751, 10.9754],
     description: {
       de: "Dieses Denkmal erinnert an eine entscheidende Schlacht im venezolanischen Unabhängigkeitskrieg auf der Insel Margarita.",
       hu: "Ez az emlékmű a venezuelai függetlenségi háború egyik döntő csatájára emlékeztet Margarita szigetén.",
@@ -1231,7 +1231,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-iglesia-de-la-inmaculada-history-v2",
     type: "church",
     name: { de: "Iglesia de la Inmaculada Concepción", hu: "Iglesia de la Inmaculada Concepción", ro: "Iglesia de la Inmaculada Concepción", en: "Iglesia de la Inmaculada Concepción" },
-    coordinates: { lat: 10.4806, lng: -66.8736 },
+    coords: [-66.8736, 10.4806],
     description: {
       de: "Die Kirche in Caracas ist ein bedeutendes Beispiel religiöser kolonialer Architektur. Sie wurde im 18. Jahrhundert errichtet.",
       hu: "A caracasi templom a vallási koloniális építészet jelentős példája. A 18. században építették.",
@@ -1250,7 +1250,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-casa-natal-de-paez-history-v2",
     type: "museum",
     name: { de: "Casa Natal de José Antonio Páez", hu: "Casa Natal de José Antonio Páez", ro: "Casa Natal de José Antonio Páez", en: "Casa Natal de José Antonio Páez" },
-    coordinates: { lat: 9.9455, lng: -69.2155 },
+    coords: [-69.2155, 9.9455],
     description: {
       de: "Das Geburtshaus von José Antonio Páez, einem Helden der Unabhängigkeit. Es dient heute als Museum für historische Exponate.",
       hu: "José Antonio Páez, a függetlenségi hős szülőháza. Ma múzeumként működik, történelmi kiállítási tárgyakkal.",
@@ -1269,7 +1269,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-plaza-bolivar-angostura-history-v2",
     type: "landmark",
     name: { de: "Plaza Bolívar de Ciudad Bolívar", hu: "Plaza Bolívar de Ciudad Bolívar", ro: "Plaza Bolívar de Ciudad Bolívar", en: "Plaza Bolívar de Ciudad Bolívar" },
-    coordinates: { lat: 8.1466, lng: -63.5492 },
+    coords: [-63.5492, 8.1466],
     description: {
       de: "Dieser Platz im Zentrum von Ciudad Bolívar ist historisch bedeutsam. Er ist ein zentraler Treffpunkt der Stadtgeschichte.",
       hu: "Ez a Ciudad Bolívar központjában található tér történelmileg jelentős. A város történelmének központi találkozóhelye.",
@@ -1288,7 +1288,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-cuartel-del-sol-history-v2",
     type: "museum",
     name: { de: "Cuartel del Sol", hu: "Cuartel del Sol", ro: "Cuartel del Sol", en: "Cuartel del Sol" },
-    coordinates: { lat: 10.4851, lng: -66.8791 },
+    coords: [-66.8791, 10.4851],
     description: {
       de: "Ehemalige Kaserne, die heute Ausstellungen zur Militärgeschichte beherbergt. Das Gebäude stammt aus der frühen Republikzeit.",
       hu: "Egykori laktanya, ma hadtörténeti kiállításoknak ad otthont. Az épület a korai köztársasági időkből származik.",
@@ -1307,7 +1307,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-ruinas-de-la-catedral-vieja-history-v2",
     type: "ruins",
     name: { de: "Ruinas de la Catedral Vieja", hu: "Ruinas de la Catedral Vieja", ro: "Ruinas de la Catedral Vieja", en: "Ruinas de la Catedral Vieja" },
-    coordinates: { lat: 10.4691, lng: -64.1801 },
+    coords: [-64.1801, 10.4691],
     description: {
       de: "Die Überreste der alten Kathedrale von Cumaná. Sie spiegeln die religiöse Geschichte der Stadt wider.",
       hu: "Cumaná régi katedrálisának maradványai. Tükrözik a város vallási történelmét.",
@@ -1326,7 +1326,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-fuerte-del-cerro-history-v2",
     type: "castle",
     name: { de: "Fuerte del Cerro", hu: "Fuerte del Cerro", ro: "Fuerte del Cerro", en: "Fuerte del Cerro" },
-    coordinates: { lat: 10.3541, lng: -68.0588 },
+    coords: [-68.0588, 10.3541],
     description: {
       de: "Historische Festung auf einem Hügel, die die Stadt Valencia kontrollierte. Sie stammt aus der Zeit der spanischen Herrschaft.",
       hu: "Történelmi erőd egy dombon, amely Valencia városát ellenőrizte. A spanyol uralom idejéből származik.",
@@ -1345,7 +1345,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-casa-guzman-blanco-history-v2",
     type: "landmark",
     name: { de: "Casa Guzmán Blanco", hu: "Casa Guzmán Blanco", ro: "Casa Guzmán Blanco", en: "Casa Guzmán Blanco" },
-    coordinates: { lat: 10.5011, lng: -66.8601 },
+    coords: [-66.8601, 10.5011],
     description: {
       de: "Historisches Wohnhaus aus dem 19. Jahrhundert, das eng mit dem Leben von Antonio Guzmán Blanco verbunden ist.",
       hu: "Történelmi lakóház a 19. századból, amely szorosan kapcsolódik Antonio Guzmán Blanco életéhez.",
@@ -1364,7 +1364,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-monumento-a-la-federacion-history-v2",
     type: "monument",
     name: { de: "Monumento a la Federación", hu: "Monumento a la Federación", ro: "Monumento a la Federación", en: "Monumento a la Federación" },
-    coordinates: { lat: 10.4988, lng: -66.8661 },
+    coords: [-66.8661, 10.4988],
     description: {
       de: "Dieses Denkmal ehrt die Kämpfer und Ideale des Bundeskrieges. Es ist ein Symbol für die Einigung des Landes.",
       hu: "Ez az emlékmű a szövetségi háború harcosait és eszményeit tiszteli. Az ország egyesítésének jelképe.",
@@ -1383,7 +1383,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-antiguo-palacio-legislativo-history-v2",
     type: "palace",
     name: { de: "Antiguo Palacio Legislativo", hu: "Antiguo Palacio Legislativo", ro: "Antiguo Palacio Legislativo", en: "Antiguo Palacio Legislativo" },
-    coordinates: { lat: 10.5051, lng: -66.9133 },
+    coords: [-66.9133, 10.5051],
     description: {
       de: "Früheres Gebäude der Legislative. Es repräsentiert die architektonische Entwicklung der staatlichen Verwaltung im 19. Jahrhundert.",
       hu: "A törvényhozás korábbi épülete. A 19. századi állami igazgatás építészeti fejlődését képviseli.",
@@ -1402,7 +1402,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     id: "venezuela-fortin-de-la-cruz-history-v2",
     type: "castle",
     name: { de: "Fortín de la Cruz", hu: "Fortín de la Cruz", ro: "Fortín de la Cruz", en: "Fortín de la Cruz" },
-    coordinates: { lat: 10.2155, lng: -64.6312 },
+    coords: [-64.6312, 10.2155],
     description: {
       de: "Eine historische Festung an der Küste. Sie diente der Verteidigung und Überwachung gegen Eindringlinge.",
       hu: "Történelmi erőd a tengerparton. A védelemre és a behatolókkal szembeni megfigyelésre szolgált.",

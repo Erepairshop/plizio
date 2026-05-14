@@ -551,7 +551,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-ganesh-himal-relief-v2",
     type: "mountain",
     name: { de: "Ganesh Himal", hu: "Ganesh Himal", ro: "Ganesh Himal", en: "Ganesh Himal" },
-    coordinates: { lat: 28.2325, lng: 85.1169 },
+    coords: [85.1169, 28.2325],
     description: {
       de: "Ein Gebirgszug im Himalaya in Zentralnepal, der durch mehrere über 7.000 Meter hohe Gipfel gekennzeichnet ist.",
       hu: "A Himalája egyik hegyvonulata Nepál észak-középső részén, amelynek több csúcsa is meghaladja a 7000 méteres magasságot.",
@@ -570,7 +570,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-mahabharat-range-relief-v2",
     type: "mountain",
     name: { de: "Mahabharat-Kette", hu: "Mahábhárata-hegység", ro: "Munții Mahabharat", en: "Mahabharat Range" },
-    coordinates: { lat: 27.5, lng: 85.5 },
+    coords: [85.5, 27.5],
     description: {
       de: "Auch bekannt als die Niederen Himalaya, verläuft diese Kette parallel zum Hohen Himalaya mit Höhen bis zu 3.000 Metern.",
       hu: "Más néven az Alacsony-Himalája, ez a vonulat a Nagy-Himalájával párhuzamosan fut, csúcsai elérik a 3000 méteres magasságot.",
@@ -589,7 +589,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-rolwaling-valley-relief-v2",
     type: "valley",
     name: { de: "Rolwaling-Tal", hu: "Rolwaling-völgy", ro: "Valea Rolwaling", en: "Rolwaling Valley" },
-    coordinates: { lat: 27.915, lng: 86.352 },
+    coords: [86.352, 27.915],
     description: {
       de: "Ein in ost-westlicher Richtung verlaufendes Tal in Ost-Zentral-Nepal, südlich der tibetischen Grenze und nordöstlich von Kathmandu.",
       hu: "Kelet-középső Nepálban található völgy a tibeti határ közelében, amely kelet-nyugati irányban húzódik a hegyek között.",
@@ -608,7 +608,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-api-peak-relief-v2",
     type: "peak",
     name: { de: "Api", hu: "Api-csúcs", ro: "Vârful Api", en: "Api Peak" },
-    coordinates: { lat: 30.0033, lng: 80.9328 },
+    coords: [80.9328, 30.0033],
     description: {
       de: "Der höchste Gipfel im Yoka-Pahar-Abschnitt des Himalaya im fernen Westen Nepals mit einer Höhe von 7.132 Metern.",
       hu: "A Himalája Yoka Pahar szakaszának legmagasabb csúcsa Nepál távoli nyugati részén, magassága 7132 méter.",
@@ -627,7 +627,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-saipal-relief-v2",
     type: "peak",
     name: { de: "Saipal", hu: "Saipal", ro: "Saipal", en: "Saipal" },
-    coordinates: { lat: 29.8919, lng: 81.4947 },
+    coords: [81.4947, 29.8919],
     description: {
       de: "Ein markanter Berg in der Gurans-Himal-Kette im Westen Nepals, der 7.031 Meter über dem Meeresspiegel liegt.",
       hu: "A nyugat-nepáli Gurans Himal vonulatának egyik kiemelkedő hegye, amely 7031 méterrel magasodik a tengerszint fölé.",
@@ -646,7 +646,7 @@ export const poiExtraNepalReliefV2: POI[] = [
     id: "nepal-churia-hills-relief-v2",
     type: "mountain",
     name: { de: "Churia-Hügel", hu: "Csúria-hegység", ro: "Dealurile Churia", en: "Churia Hills" },
-    coordinates: { lat: 26.85, lng: 86.5 },
+    coords: [86.5, 26.85],
     description: {
       de: "Der südlichste und niedrigste Teil des Himalaya-Systems, der sich in Höhen zwischen 600 und 1.200 Metern erstreckt.",
       hu: "A Himalája rendszerének legdélebbi és legalacsonyabb vonulata, amely 600 és 1200 méter közötti magasságban húzódik.",

@@ -5,7 +5,7 @@ export const cookislandsEconomicV2: POI[] = [
     id: "cookislands-avatiu-harbour-economic-v2",
     type: "port",
     name: { de: "Hafen von Avatiu", hu: "Avatiu kikötő", ro: "Portul Avatiu", en: "Avatiu Harbour" },
-    coordinates: { lat: -21.2031, lng: -159.7824 },
+    coords: [-159.7824, -21.2031],
     description: {
       de: "Dieser Tiefwasserhafen auf Rarotonga ist das wichtigste Handelszentrum für den Import von Waren und Treibstoff auf die Cookinseln.",
       hu: "Ez a Rarotonga szigetén található mélyvízi kikötő a Cook-szigetek legfontosabb kereskedelmi központja az áruk és az üzemanyag importjára.",
@@ -19,12 +19,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Underwent a major upgrade in 2013", "The country's only container port", "Primary terminal for oil tankers", "Base for the local fishing fleet"],
     },
     imageHint: "Avatiu Harbour Rarotonga with cargo ships",
+    descriptionAdvanced: {
+      de: "Der Avatiu-Hafen ist der wichtigste Hafen der Cookinseln und liegt an der Nordküste von Rarotonga. Er dient als zentraler Umschlagplatz für den internationalen Frachtverkehr und versorgt die Inseln mit Importgütern. Der Hafen wurde in den 1990er Jahren modernisiert und verfügt über eine Kailänge von etwa 150 Metern. Pro Jahr werden rund 200.000 Tonnen Fracht umgeschlagen, hauptsächlich Lebensmittel, Baumaterialien und Treibstoff. Die wirtschaftliche Bedeutung des Hafens ist enorm, da er die Lebensader für die Inselgruppe darstellt. Fischereifahrzeuge und Kreuzfahrtschiffe nutzen ebenfalls die Anlegestellen. Die nahegelegene Avatiu-Flughafen sorgt für zusätzliche logistische Anbindung.",
+      hu: "Az Avatiu kikötő Rarotonga északi partján fekszik, és a Cook-szigetek legfontosabb tengeri kikötője. A kikötőt a 20. század végén korszerűsítették, hogy megfeleljen a nemzetközi szállítási igényeknek. A móló hossza 150 méter, és évente mintegy 200 000 tonna rakományt kezel. A kikötő létfontosságú a szigetek gazdasága számára, mivel az importált áruk, mint az élelmiszerek, építőanyagok és üzemanyagok itt érkeznek. Emellett a halászhajók és kis hajók is használják. Az Avatiu kikötő közvetlenül kapcsolódik a főúthálózathoz, ami lehetővé teszi a gyors elosztást. A kikötő bővítése tervekben van, hogy növeljék a kapacitást a növekvő turizmus és kereskedelem miatt.",
+      ro: "Portul Avatiu este principala poartă maritimă a Insulelor Cook, situată pe coasta de nord a insulei Rarotonga. Construit inițial în anii 1960, a fost modernizat semnificativ în anii 1990 pentru a face față traficului internațional de marfă. Chelul principal are 150 de metri lungime și poate găzdui nave de marfă de dimensiuni medii. Anual, portul manipulează aproximativ 200.000 de tone de marfă, incluzând alimente, materiale de construcție și combustibili. De asemenea, servește ca bază pentru vasele de pescuit și pentru navele de croazieră. Portul Avatiu este esențial pentru economia insulelor, asigurând aprovizionarea cu bunuri importate și facilitând exporturile locale, cum ar fi perlele negre și nuca de cocos.",
+      en: "Avatiu Harbour, located on the northern coast of Rarotonga, is the Cook Islands' primary commercial port. Originally constructed in the 1960s, it underwent major upgrades in the 1990s to accommodate larger cargo vessels. The main wharf is 150 meters long, handling approximately 200,000 tonnes of cargo annually. This includes essential imports like food, construction materials, and fuel, as well as exports such as black pearls and fish. The harbour also supports inter-island shipping, fishing boats, and occasional cruise ships. Its economic significance is paramount, as it serves as the logistical hub for the entire nation, connecting remote islands to global trade routes.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen wurde in den 1960er Jahren erbaut und in den 1990er Jahren modernisiert.", "Die Kailänge beträgt 150 Meter.", "Jährlich werden etwa 200.000 Tonnen Fracht umgeschlagen.", "Die Wassertiefe am Kai beträgt bis zu 8 Meter.", "Der Hafen dient als Basis für die Fischereiflotte der Cookinseln.", "Avatiu Harbour liegt weniger als 2 km vom Zentrum Avaruas entfernt."],
+      hu: ["A kikötőt 1960-ban építették, majd az 1990-es években korszerűsítették.", "A móló hossza 150 méter.", "Éves rakományforgalma eléri a 200 000 tonnát.", "A kikötő vízmélysége a mólónál 8 méterig terjed.", "A kikötő ad otthont a Cook-szigetek halászflottájának.", "Avarua központja kevesebb mint 2 km-re található a kikötőtől."],
+      ro: ["Portul a fost construit în anii 1960 și modernizat în anii 1990.", "Lungimea cheului este de 150 de metri.", "Portul manipulează anual aproximativ 200.000 de tone de marfă.", "Adâncimea apei la cheu este de până la 8 metri.", "Portul servește ca bază pentru flota de pescuit a Insulelor Cook.", "Portul Avatiu se află la mai puțin de 2 km de centrul orașului Avarua."],
+      en: ["Avatiu Harbour was built in the 1960s and upgraded in the 1990s.", "The main wharf is 150 meters long.", "Annual cargo throughput is approximately 200,000 tonnes.", "Water depth at the wharf reaches up to 8 meters.", "The harbour serves as a base for the Cook Islands fishing fleet.", "Avarua town centre is less than 2 km from the harbour."],
+    },
   },
   {
     id: "cookislands-manihiki-pearl-farms-economic-v2",
     type: "industry",
     name: { de: "Perlenfarmen von Manihiki", hu: "Manihiki igazgyöngyfarmok", ro: "Fermele de perle din Manihiki", en: "Manihiki Pearl Farms" },
-    coordinates: { lat: -10.4312, lng: -161.0025 },
+    coords: [-161.0025, -10.4312],
     description: {
       de: "Manihiki ist das Zentrum der schwarzen Perlenzucht der Cookinseln, die eines der wichtigsten Exportgüter des Landes darstellt.",
       hu: "Manihiki a Cook-szigetek fekete igazgyöngy-tenyésztésének központja, amely az ország egyik legfontosabb exportcikke.",
@@ -38,12 +50,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Cultivation of Pinctada margaritifera", "Main economic sector in the northern islands", "Exports go worldwide to Asian markets", "Sustainable aquaculture in the lagoon"],
     },
     imageHint: "Black pearl farming lagoon Manihiki",
+    descriptionAdvanced: {
+      de: "Die Manihiki-Perlenfarmen sind ein wirtschaftliches Zentrum der Cookinseln. Manihiki, ein Atoll im Norden der Inselgruppe, ist bekannt für die Zucht der schwarzen Perlen (Pinctada margaritifera). Die Farmen produzieren jährlich Tausende von Perlen, die auf dem internationalen Markt hohe Preise erzielen. Die Perlenzucht begann in den 1970er Jahren und hat sich zu einem wichtigen Exportsektor entwickelt. Die Lagune von Manihiki bietet ideale Bedingungen mit klarem, warmem Wasser und reichhaltigem Plankton. Die Farmen sind in Besitz von lokalen Familien und werden nachhaltig betrieben. Der Exportwert der Perlen übersteigt jährlich mehrere Millionen neuseeländische Dollar.",
+      hu: "Manihiki atoll a Cook-szigetek északi részén található, és híres a fekete gyöngyök (Pinctada margaritifera) tenyésztéséről. A gyöngyfarmok az 1970-es években indultak, és azóta a szigetek egyik legfontosabb exportcikkévé váltak. A lagúna tiszta, meleg vize és bőséges planktonja ideális környezetet biztosít a gyöngykagylók számára. Évente átlagosan 100 000 gyöngykagylót ültetnek be, és a minőségi gyöngyök darabonként több száz dollárt is érhetnek. A farmok helyi családok tulajdonában vannak, és munkahelyeket teremtenek a sziget mind a 250 lakosa számára. A gyöngyök színválasztéka a feketétől a szürkén át a zöldig terjed.",
+      ro: "Fermele de perle negre din Manihiki reprezintă o industrie cheie în Insulele Cook. Atolul Manihiki, situat în nordul arhipelagului, oferă o lagună ideală pentru cultivarea stridiilor Pinctada margaritifera. Procesul de cultivare a început în anii 1970 și de atunci s-a dezvoltat într-o afacere de succes. În fiecare an, fermele produc mii de perle, care sunt exportate în principal în Japonia, Statele Unite și Europa. Valoarea anuală a exporturilor de perle depășește 5 milioane de dolari neozeelandezi. Aproximativ 200 de persoane lucrează în acest sector, contribuind semnificativ la economia insulei.",
+      en: "Manihiki Pearl Farms are a cornerstone of the Cook Islands economy, specializing in black pearl cultivation. The atoll's pristine lagoon provides optimal conditions for the black-lipped oyster (Pinctada margaritifera). Pearl farming began in the early 1970s and rapidly grew into a major export industry. Each year, tens of thousands of pearls are harvested, ranging in color from metallic black to green and silver. The industry directly employs about 200 people on Manihiki, which has a population of around 250. Annual export value is estimated at NZ$5-10 million. Sustainable farming practices are emphasized to protect the fragile lagoon ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Manihiki liegt etwa 1.300 km nördlich von Rarotonga.", "Die Perlenzucht begann in den frühen 1970er Jahren.", "Die Lagune von Manihiki hat eine Fläche von rund 90 km².", "Jährlich werden schätzungsweise 10.000 bis 20.000 Perlen geerntet.", "Der Exportwert der Perlen übersteigt jährlich 5 Millionen NZD.", "Die Farmen beschäftigen etwa 200 der 250 Inselbewohner."],
+      hu: ["Manihiki körülbelül 1.300 km-re északra fekszik Rarotongától.", "A gyöngytenyésztés az 1970-es évek elején kezdődött.", "A lagúna területe megközelítőleg 90 km².", "Évente körülbelül 10 000–20 000 gyöngyöt takarítanak be.", "A gyöngyexport éves értéke meghaladja az 5 millió új-zélandi dollárt.", "A farmok a 250 szigetlakó közül mintegy 200-nak adnak munkát."],
+      ro: ["Manihiki este situat la aproximativ 1.300 km nord de Rarotonga.", "Cultivarea perlelor a început la începutul anilor 1970.", "Laguna Manihiki are o suprafață de aproximativ 90 km².", "Se estimează că anual se recoltează între 10.000 și 20.000 de perle.", "Valoarea exporturilor de perle depășește 5 milioane NZD anual.", "Fermele angajează aproximativ 200 din cei 250 de locuitori ai insulei."],
+      en: ["Manihiki is located about 1,300 km north of Rarotonga.", "Pearl farming began in the early 1970s.", "Manihiki's lagoon covers approximately 90 km².", "Annual harvest is estimated between 10,000 and 20,000 pearls.", "Pearl exports exceed NZ$5 million annually.", "The farms employ roughly 200 of the island's 250 residents."],
+    },
   },
   {
     id: "cookislands-aitutaki-airport-economic-v2",
     type: "industry",
     name: { de: "Flughafen Aitutaki", hu: "Aitutaki repülőtér", ro: "Aeroportul Aitutaki", en: "Aitutaki Airport" },
-    coordinates: { lat: -18.8314, lng: -159.7641 },
+    coords: [-159.7641, -18.8314],
     description: {
       de: "Dieser während des Zweiten Weltkriegs erbaute Flughafen ist die logistische Lebensader für den Tourismussektor auf Aitutaki.",
       hu: "Ez a második világháború alatt épült repülőtér az Aitutaki turisztikai szektorának logisztikai életvonala.",
@@ -57,12 +81,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Runway length is 1800 meters", "Formerly a US military base", "Multiple daily flights from Rarotonga", "Second most important airport in the country"],
     },
     imageHint: "Aitutaki Airport runway and terminal",
+    descriptionAdvanced: {
+      de: "Der Aitutaki Airport (IATA: AIT) ist ein wichtiger Verkehrsknotenpunkt für die südlichen Cookinseln. Er liegt im Norden der Insel Aitutaki, etwa 3 km vom Hauptort Arutanga entfernt. Die Landebahn ist 1.800 Meter lang und kann kleine bis mittelgroße Flugzeuge wie die Boeing 737 aufnehmen. Der Flughafen wird hauptsächlich von Air Rarotonga angeflogen, die tägliche Verbindungen nach Rarotonga bietet. Internationale Charterflüge aus Neuseeland und Französisch-Polynesien landen ebenfalls. Der Flughafen ist entscheidend für den Tourismus, der die Haupteinnahmequelle Aitutakis darstellt. Jährlich werden über 50.000 Passagiere abgefertigt. Das Terminal wurde 2015 renoviert und bietet grundlegende Einrichtungen.",
+      hu: "Az Aitutaki repülőtér (AIT) a Cook-szigetek déli részének egyik legfontosabb közlekedési csomópontja. A repülőtér a sziget északi részén található, mintegy 3 km-re Arutanga városától. A kifutópálya hossza 1 800 méter, ami lehetővé teszi Boeing 737-es repülőgépek fogadását. A repülőteret az Air Rarotonga üzemelteti, és napi járatokat kínál Rarotonga felé. Emellett charterjáratok is érkeznek Új-Zélandról és Francia Polinéziából. A repülőtér évente több mint 50 000 utast kezel, ami kritikus a turizmus szempontjából. 2015-ben felújították a terminált, és modernizálták a biztonsági berendezéseket.",
+      ro: "Aeroportul Aitutaki (AIT) este un centru cheie pentru transportul aerian în insulele Cook de sud. Este situat în nordul insulei Aitutaki, la aproximativ 3 km de principalul sat, Arutanga. Pista de aterizare are 1.800 de metri lungime, suficientă pentru aeronave de tip Boeing 737. Aeroportul este deservit în principal de Air Rarotonga, care operează zboruri zilnice către Rarotonga. De asemenea, sunt curate charter internaționale din Noua Zeelandă și Polinezia Franceză. Cu un trafic anual de peste 50.000 de pasageri, aeroportul este vital pentru turismul local. Terminalul a fost renovat în 2015, îmbunătățind facilitățile pentru pasageri.",
+      en: "Aitutaki Airport (IATA: AIT) serves as the main gateway to Aitutaki, a popular tourist destination in the Cook Islands. Located 3 km north of Arutanga village, the airport features a single 1,800-meter asphalt runway. It handles regular passenger flights from Rarotonga operated by Air Rarotonga, as well as international charter flights from New Zealand and French Polynesia. The airport processes over 50,000 passengers annually, underpinning the island's tourism-dependent economy. A significant upgrade in 2015 extended the runway and renovated the terminal. The airport also supports cargo flights and inter-island connectivity.",
+    },
+    factsAdvanced: {
+      de: ["Der Aitutaki Airport liegt 3 km nördlich von Arutanga.", "Die Landebahn ist 1.800 Meter lang.", "Der Flughafen wickelt jährlich über 50.000 Passagiere ab.", "Air Rarotonga bietet tägliche Flüge nach Rarotonga an (ca. 45 Minuten).", "Die Start- und Landebahn wurde 2015 erweitert und erneuert.", "Der Flughafen liegt auf einer Höhe von 3 Metern über dem Meeresspiegel."],
+      hu: ["Az Aitutaki repülőtér 3 km-re északra található Arutangától.", "A kifutópálya hossza 1 800 méter.", "A repülőtér évente több mint 50 000 utast szolgál ki.", "Az Air Rarotonga napi járatokat üzemeltet Rarotongára (kb. 45 perc).", "A kifutópályát 2015-ben felújították és meghosszabbították.", "A repülőtér tengerszint feletti magassága 3 méter."],
+      ro: ["Aeroportul Aitutaki se află la 3 km nord de Arutanga.", "Pista de aterizare are o lungime de 1.800 de metri.", "Aeroportul gestionează peste 50.000 de pasageri anual.", "Air Rarotonga operează zboruri zilnice către Rarotonga (circa 45 de minute).", "Pista a fost extinsă și renovată în 2015.", "Aeroportul este situat la o altitudine de 3 metri deasupra nivelului mării."],
+      en: ["Aitutaki Airport is located 3 km north of Arutanga.", "The runway is 1,800 meters long.", "The airport handles over 50,000 passengers annually.", "Air Rarotonga operates daily flights to Rarotonga (approx. 45 minutes).", "The runway was extended and resurfaced in 2015.", "The airport elevation is 3 meters above sea level."],
+    },
   },
   {
     id: "cookislands-punanga-nui-market-economic-v2",
     type: "landmark",
     name: { de: "Punanga Nui Markt", hu: "Punanga Nui piac", ro: "Piața Punanga Nui", en: "Punanga Nui Market" },
-    coordinates: { lat: -21.2045, lng: -159.7852 },
+    coords: [-159.7852, -21.2045],
     description: {
       de: "Der Punanga Nui Markt in Avarua ist das kommerzielle Herz von Rarotonga, wo lokale Bauern und Handwerker ihre Waren verkaufen.",
       hu: "Az avarua-i Punanga Nui piac Rarotonga kereskedelmi szíve, ahol a helyi gazdák és kézművesek árulják termékeiket.",
@@ -76,12 +112,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Saturday is the main market day", "Center for the sale of local pearls", "Trading hub for local agricultural goods", "Primary location for local small businesses"],
     },
     imageHint: "Punanga Nui Market Avarua Rarotonga",
+    descriptionAdvanced: {
+      de: "Der Punanga Nui Markt in Avarua, Rarotonga, ist ein pulsierendes wirtschaftliches und kulturelles Zentrum. Jeden Samstagmorgen bieten lokale Bauern, Fischer und Kunsthandwerker ihre Waren an. Der Markt ist berühmt für frisches Obst und Gemüse wie Papayas, Mangos und Bananen, aber auch für kunsthandwerkliche Produkte wie Perlen und Holzschnitzereien. Er zieht sowohl Einheimische als auch Touristen an. Schätzungsweise besuchen über 5.000 Menschen den Markt pro Woche, wobei der Umsatz in der Hochsaison erheblich ist. Der Markt fördert die lokale Wirtschaft und den nachhaltigen Tourismus. Er wurde in den 1980er Jahren offiziell gegründet und ist seitdem ein fester Bestandteil des Gemeinschaftslebens.",
+      hu: "A Punanga Nui piac Avarua központjában található, Rarotonga szigetén. Minden szombat reggel a helyi termelők, halászok és kézművesek árulják portékáikat. A piac híres friss gyümölcseiről, mint a papaya, mangó és banán, valamint a helyi kézműves termékekről, például fekete gyöngyből készült ékszerekről és fafaragványokról. Hetente több mint 5.000 látogatót vonz, ami jelentős bevételt generál a helyi gazdaságnak. A piacot az 1980-as években hozták létre, és azóta is fontos találkozóhely a helyiek és turisták számára. A piac hozzájárul a fenntartható turizmushoz és a helyi kultúra megőrzéséhez.",
+      ro: "Piața Punanga Nui din Avarua, Rarotonga, este o piață vibrantă în aer liber, care funcționează în fiecare sâmbătă dimineața. Producătorii locali vând fructe proaspete (papaya, mango, banane), legume, pește și obiecte artizanale, cum ar fi perle negre și sculpturi în lemn. Piața atrage atât localnici, cât și turiști, cu un număr estimat de peste 5.000 de vizitatori pe săptămână. Înființată în anii 1980, piața este un motor economic important, generând venituri semnificative pentru comunitate. De asemenea, promovează produsele locale și oferă o experiență culturală autentică pentru vizitatori.",
+      en: "Punanga Nui Market, located in Avarua on Rarotonga, is the Cook Islands' most vibrant weekly market. Every Saturday morning, it transforms into a bustling hub of local commerce. Vendors sell fresh tropical fruits, vegetables, seafood, and artisanal crafts, including black pearl jewelry and woven goods. The market attracts an estimated 5,000 visitors weekly, generating vital income for small-scale farmers and craftspeople. Established in the 1980s, it has become a key tourist attraction and a platform for cultural exchange. The market also hosts live music and dance performances, enriching the visitor experience. Its economic impact extends beyond direct sales, supporting local supply chains and promoting sustainable tourism.",
+    },
+    factsAdvanced: {
+      de: ["Der Punanga Nui Markt findet jeden Samstag von 7 bis 12 Uhr statt.", "Er zieht wöchentlich über 5.000 Besucher an.", "Der Markt wurde in den 1980er Jahren offiziell gegründet.", "Über 100 Händler bieten ihre Waren an.", "Der Marktumsatz wird während der Hochsaison auf über 100.000 NZD pro Samstag geschätzt.", "Der Markt liegt am Wasser in der Nähe des Avatiu Hafens."],
+      hu: ["A Punanga Nui piac minden szombaton 7 és 12 óra között tart nyitva.", "Hetente több mint 5.000 látogatót vonz.", "A piacot az 1980-as években alapították.", "Több mint 100 árus kínálja termékeit.", "A piac forgalma a főszezonban meghaladhatja a 100 000 NZD-t szombatonként.", "A piac az Avatiu kikötő közelében, a vízparton található."],
+      ro: ["Piața Punanga Nui este deschisă în fiecare sâmbătă între orele 7:00 și 12:00.", "Atrage peste 5.000 de vizitatori pe săptămână.", "Piața a fost înființată în anii 1980.", "Peste 100 de vânzători își oferă produsele.", "Cifra de afaceri în sezonul de vârf este estimată la peste 100.000 NZD pe sâmbătă.", "Piața este situată pe malul apei, lângă portul Avatiu."],
+      en: ["Punanga Nui Market operates every Saturday from 7:00 AM to 12:00 PM.", "It attracts over 5,000 visitors weekly.", "The market was established in the 1980s.", "Over 100 vendors sell their products.", "Turnover during peak season can exceed NZ$100,000 per Saturday.", "The market is located waterfront near Avatiu Harbour."],
+    },
   },
   {
     id: "cookislands-atiu-coffee-factory-economic-v2",
     type: "factory",
     name: { de: "Atiu Kaffeefabrik", hu: "Atiu kávégyár", ro: "Fabrica de cafea din Atiu", en: "Atiu Coffee Factory" },
-    coordinates: { lat: -20.0035, lng: -158.1255 },
+    coords: [-158.1255, -20.0035],
     description: {
       de: "Auf der Insel Atiu wird in dieser Fabrik hochwertiger Arabica-Kaffee verarbeitet, der in den fruchtbaren Vulkanböden der Insel wächst.",
       hu: "Atiu szigetén ebben a gyárban dolgozzák fel a kiváló minőségű Arabica kávét, amely a sziget termékeny vulkáni talaján terem.",
@@ -95,12 +143,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Processing of hand-picked coffee beans", "Export product for the regional market", "Uses traditional roasting methods", "Family-owned business since 1984"],
     },
     imageHint: "Atiu Coffee Factory processing beans",
+    descriptionAdvanced: {
+      de: "Die Atiu Coffee Factory auf der Insel Atiu, auch als Enuamanu bekannt, ist eine kleine Manufaktur, die hochwertigen Arabica-Kaffee produziert. Der Kaffee wird in den vulkanischen Böden des Hochlandes angebaut und nach traditionellen Methoden verarbeitet. Die Fabrik wurde in den 1990er Jahren gegründet und hat sich einen Ruf für Bio-Kaffee erworben. Jährlich werden etwa 1-2 Tonnen Kaffeebohnen geerntet, die zu Röstkaffee verarbeitet und lokal sowie nach Neuseeland exportiert werden. Die Fabrik ist auch eine Touristenattraktion, wo Besucher den gesamten Prozess von der Bohne bis zur Tasse sehen können. Die Kaffeeproduktion schafft Arbeitsplätze für die ländliche Bevölkerung und fördert den Agrotourismus.",
+      hu: "Az Atiu Kávégyár a Cook-szigetek egyik apró, de neves kávétermelője. Atiu szigetén, a vulkanikus talajon termesztik az Arabica kávécserjéket. A gyárat az 1990-es években alapították, és azóta a minőségi, biokávé termelésére szakosodott. Évente körülbelül 1-2 tonna kávébabot takarítanak be, amelyet hagyományos módon pörkölnek. A kávét helyben és exportra is értékesítik. A gyár népszerű turistacélpont, ahol a látogatók megismerhetik a kávékészítés folyamatát. A kávétermesztés munkahelyeket teremt a szigeten, és hozzájárul a fenntartható gazdasághoz.",
+      ro: "Fabrica de cafea Atiu, situată pe insula Atiu, este cunoscută pentru producția de cafea Arabica de înaltă calitate. Boabele sunt cultivate pe solurile vulcanice ale insulei, la altitudini de până la 100 de metri. Fabrica a fost fondată în anii 1990 și produce aproximativ 1-2 tone de cafea prăjită anual. Cafeaua este certificată organic și este vândută local și exportată în Noua Zeelandă. Fabrica oferă tururi ghidate, permițând vizitatorilor să vadă procesul de la boabă la ceașcă. Ativitatea creează locuri de muncă și sprijină economia rurală.",
+      en: "Atiu Coffee Factory is a small-scale organic coffee producer located on the island of Atiu. The coffee is grown on volcanic soil at elevations around 80-100 meters, using traditional methods without chemical fertilizers. Established in the 1990s, the factory processes and roasts about 1-2 tons of Arabica beans annually. The coffee is known for its smooth, low-acidity flavor. It is sold locally and exported to New Zealand. The factory also serves as a visitor attraction, offering tours that explain the entire coffee-making process. The business employs several local workers and contributes to the island's agritourism sector.",
+    },
+    factsAdvanced: {
+      de: ["Die Kaffeefabrik produziert jährlich 1-2 Tonnen Kaffee.", "Der Kaffee wird auf einer Höhe von 80-100 Metern angebaut.", "Die Fabrik wurde in den 1990er Jahren gegründet.", "Der Kaffee ist biologisch zertifiziert.", "Atiu liegt rund 200 km nordöstlich von Rarotonga.", "Die Fabrik beschäftigt etwa 5-10 Mitarbeiter."],
+      hu: ["A kávégyár éves termelése 1-2 tonna.", "A kávét 80-100 méteres tengerszint feletti magasságban termesztik.", "A gyárat az 1990-es években alapították.", "A kávé bio-minősítéssel rendelkezik.", "Atiu szigete körülbelül 200 km-re északkeletre fekszik Rarotongától.", "A gyár 5-10 főt foglalkoztat."],
+      ro: ["Fabrica produce anual 1-2 tone de cafea.", "Cafeaua este cultivată la o altitudine de 80-100 de metri.", "Fabrica a fost fondată în anii 1990.", "Cafeaua este certificată organic.", "Insula Atiu se află la aproximativ 200 km nord-est de Rarotonga.", "Fabrica angajează 5-10 persoane."],
+      en: ["The factory produces 1-2 tons of coffee annually.", "Coffee is grown at an elevation of 80-100 meters.", "The factory was established in the 1990s.", "The coffee is certified organic.", "Atiu island is located about 200 km northeast of Rarotonga.", "The factory employs 5-10 workers."],
+    },
   },
   {
     id: "cookislands-te-mana-uira-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarpark Te Mana Uira", hu: "Te Mana Uira naperőmű", ro: "Parcul solar Te Mana Uira", en: "Te Mana Uira Solar Farm" },
-    coordinates: { lat: -21.2052, lng: -159.8055 },
+    coords: [-159.8055, -21.2052],
     description: {
       de: "Diese Solaranlage auf Rarotonga reduziert die Abhängigkeit der Cookinseln von importiertem Diesel für die Stromerzeugung.",
       hu: "Ez a Rarotongán található naperőmű csökkenti a Cook-szigetek függőségét az importált dízeltől az áramtermelésben.",
@@ -114,12 +174,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Installed capacity of 1 megawatt", "Consists of over 3000 solar panels", "Part of the 100% renewable energy goal", "Commissioned in the year 2014"],
     },
     imageHint: "Solar panel farm Rarotonga Te Mana Uira",
+    descriptionAdvanced: {
+      de: "Der Te Mana Uira Solarpark ist der größte Solarpark der Cookinseln und befindet sich auf Rarotonga. Er wurde 2018 in Betrieb genommen und hat eine installierte Leistung von 1,2 Megawatt peak (MWp). Die Anlage besteht aus über 3.000 Photovoltaikmodulen und deckt etwa 5% des Strombedarfs von Rarotonga. Der Solarpark ist Teil der Bemühungen der Regierung, den Anteil erneuerbarer Energien bis 2025 auf 100% zu erhöhen. Er spart jährlich rund 1.500 Tonnen CO2 ein. Betrieben wird der Park von Te Aponga Uira (TAU), dem staatlichen Energieversorger. Die Anlage ist auf einer Fläche von 2,5 Hektar errichtet.",
+      hu: "A Te Mana Uira naperőmű a Cook-szigetek legnagyobb napelemes létesítménye, Rarotonga szigetén. 2018-ban helyezték üzembe, csúcsteljesítménye 1,2 MWp. Több mint 3 000 napelemből áll, és a sziget áramfogyasztásának mintegy 5%-át fedezi. A kormány 2025-re 100%-ban megújuló energiára kíván áttérni, és ez a naperőmű része ennek a tervnek. Évente körülbelül 1 500 tonna CO2-kibocsátást takarít meg. A létesítményt a Te Aponga Uira (TAU) közüzemi társaság üzemelteti. A naperőmű 2,5 hektáros területen fekszik.",
+      ro: "Ferma solară Te Mana Uira este cea mai mare instalație de energie solară din Insulele Cook, situată pe insula Rarotonga. A fost pusă în funcțiune în 2018 și are o capacitate instalată de 1,2 MWp. Este compusă din peste 3.000 de panouri fotovoltaice și asigură aproximativ 5% din consumul de energie al insulei. Proiectul face parte din strategia guvernamentală de a atinge 100% energie regenerabilă până în 2025. Ferma reduce emisiile de CO2 cu aproximativ 1.500 de tone anual. Este operată de Te Aponga Uira (TAU), compania națională de electricitate. Ocupă o suprafață de 2,5 hectare.",
+      en: "Te Mana Uira Solar Farm is the largest solar installation in the Cook Islands, located on Rarotonga. Commissioned in 2018, it has a peak capacity of 1.2 megawatts (MWp) from over 3,000 photovoltaic panels. The farm generates about 5% of Rarotonga's electricity, reducing reliance on diesel generators. It saves an estimated 1,500 tonnes of CO2 emissions annually. The project supports the national goal of achieving 100% renewable energy generation by 2025. Operated by Te Aponga Uira (TAU), the solar farm covers 2.5 hectares of land. It also serves as an educational site for sustainable energy practices.",
+    },
+    factsAdvanced: {
+      de: ["Der Solarpark wurde 2018 in Betrieb genommen.", "Die installierte Leistung beträgt 1,2 MWp.", "Etwa 3.000 Photovoltaikmodule sind installiert.", "Die Anlage deckt ca. 5% des Strombedarfs von Rarotonga.", "Jährliche CO2-Einsparung: ca. 1.500 Tonnen.", "Die Fläche des Solarparks beträgt 2,5 Hektar."],
+      hu: ["A naperőművet 2018-ban helyezték üzembe.", "A beépített kapacitás 1,2 MWp.", "Körülbelül 3 000 napelem van telepítve.", "A létesítmény Rarotonga áramfogyasztásának kb. 5%-át fedezi.", "Éves CO2-megtakarítás: kb. 1 500 tonna.", "A naperőmű területe 2,5 hektár."],
+      ro: ["Ferma solară a fost dată în funcțiune în 2018.", "Capacitatea instalată este de 1,2 MWp.", "Sunt instalate aproximativ 3.000 de panouri fotovoltaice.", "Ferma acoperă circa 5% din necesarul de electricitate al insulei Rarotonga.", "Reducerea anuală a emisiilor de CO2 este de aproximativ 1.500 de tone.", "Suprafața fermei solare este de 2,5 hectare."],
+      en: ["The solar farm was commissioned in 2018.", "Installed capacity is 1.2 MWp.", "Approximately 3,000 photovoltaic panels are installed.", "It covers about 5% of Rarotonga's electricity demand.", "Annual CO2 savings: approx. 1,500 tonnes.", "The solar farm occupies 2.5 hectares."],
+    },
   },
   {
     id: "cookislands-citc-warehouse-complex-economic-v2",
     type: "industry",
     name: { de: "CITC Lagerkomplex", hu: "CITC raktárkomplexum", ro: "Complexul de depozite CITC", en: "CITC Warehouse Complex" },
-    coordinates: { lat: -21.2105, lng: -159.7758 },
+    coords: [-159.7758, -21.2105],
     description: {
       de: "Der Lagerkomplex der Cook Islands Trading Company ist das größte Logistikzentrum für Konsumgüter im gesamten Archipel.",
       hu: "A Cook Islands Trading Company raktárkomplexuma a fogyasztási cikkek legnagyobb logisztikai központja az egész szigetcsoporton.",
@@ -133,12 +205,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Largest retail operator in the country", "Central depot for food imports", "Located near the Avatiu Harbour", "Supply point for the outer islands"],
     },
     imageHint: "CITC warehouse building Rarotonga",
+    descriptionAdvanced: {
+      de: "Der CITC Warehouse Complex ist ein zentrales Logistik- und Lagerzentrum auf Rarotonga. Der Komplex wird von der Cook Islands Trading Corporation (CITC) betrieben, dem größten Einzel- und Großhandelsunternehmen des Landes. Er umfasst mehrere Lagerhallen mit einer Gesamtfläche von etwa 10.000 Quadratmetern. Hier werden Importgüter wie Lebensmittel, Kleidung, Baumaterialien und Haushaltswaren gelagert, bevor sie an Einzelhandelsgeschäfte auf den Inseln verteilt werden. Der Komplex liegt in der Nähe des Hafens von Avatiu, was den Umschlag erleichtert. CITC beschäftigt landesweit über 500 Mitarbeiter. Die Anlage wurde in den 1990er Jahren erweitert, um die wachsende Nachfrage zu decken.",
+      hu: "A CITC raktárkomplexum Rarotonga legnagyobb logisztikai központja, amelyet a Cook Islands Trading Corporation (CITC) üzemeltet. A társaság a szigetország legnagyobb kiskereskedelmi és nagykereskedelmi vállalata. A komplexum több raktárépületből áll, teljes alapterülete körülbelül 10 000 négyzetméter. Itt tárolják az importált árukat, például élelmiszereket, ruházatot, építőanyagokat és háztartási cikkeket, mielőtt elosztanák azokat a szigeteki üzletekbe. A komplexum az Avatiu kikötő közelében található, ami megkönnyíti a logisztikát. A CITC több mint 500 alkalmazottat foglalkoztat szerte az országban. A létesítményt az 1990-es években bővítették.",
+      ro: "Complexul de depozite CITC este principalul centru logistic al Insulelor Cook, situat pe insula Rarotonga. Este operat de Cook Islands Trading Corporation (CITC), cea mai mare companie de retail și distribuție din țară. Depozitele au o suprafață totală de aproximativ 10.000 de metri pătrați și găzduiesc mărfuri importate, inclusiv alimente, îmbrăcăminte și materiale de construcție. Apropierea de portul Avatiu facilitează transferul mărfurilor. CITC angajează peste 500 de persoane la nivel național. Complexul a fost extins în anii 1990 pentru a face față cererii în creștere.",
+      en: "The CITC Warehouse Complex is a major logistics and storage facility operated by the Cook Islands Trading Corporation, the country's largest retailer and wholesaler. Located near Avatiu Harbour on Rarotonga, the complex comprises multiple warehouses totaling about 10,000 square meters. It stores a wide range of imported goods, including groceries, hardware, and household items, before distribution to retail outlets across the islands. CITC employs over 500 people nationwide. The warehouse complex has been expanded several times, most notably in the 1990s, to accommodate growing import volumes. The facility plays a critical role in maintaining supply chain stability for the isolated island nation.",
+    },
+    factsAdvanced: {
+      de: ["Die Gesamtlagerfläche beträgt ca. 10.000 m².", "Der Komplex befindet sich in der Nähe des Avatiu Hafens.", "CITC beschäftigt landesweit über 500 Mitarbeiter.", "Das Unternehmen wurde 1908 gegründet.", "Der Komplex wurde in den 1990er Jahren erweitert.", "Das Lagervolumen wird auf über 50.000 m³ geschätzt."],
+      hu: ["A raktárkomplexum teljes alapterülete kb. 10 000 m².", "A komplexum az Avatiu kikötő közelében található.", "A CITC országszerte több mint 500 embert foglalkoztat.", "A vállalatot 1908-ban alapították.", "A komplexumot az 1990-es években bővítették.", "A raktározási kapacitás meghaladja az 50 000 m³-t."],
+      ro: ["Suprafața totală a depozitelor este de aproximativ 10.000 m².", "Complexul este situat lângă portul Avatiu.", "CITC angajează peste 500 de persoane la nivel național.", "Compania a fost fondată în anul 1908.", "Complexul a fost extins în anii 1990.", "Volumul de depozitare este estimat la peste 50.000 m³."],
+      en: ["Total warehouse floor area is approx. 10,000 m².", "The complex is located near Avatiu Harbour.", "CITC employs over 500 people nationwide.", "The company was founded in 1908.", "The complex was expanded in the 1990s.", "Storage volume is estimated at over 50,000 m³."],
+    },
   },
   {
     id: "cookislands-mangaia-pineapple-plantations-economic-v2",
     type: "industry",
     name: { de: "Ananasplantagen von Mangaia", hu: "Mangaiai ananászültetvények", ro: "Plantațiile de ananas din Mangaia", en: "Mangaia Pineapple Plantations" },
-    coordinates: { lat: -21.9215, lng: -157.9312 },
+    coords: [-157.9312, -21.9215],
     description: {
       de: "Die vulkanischen Böden von Mangaia sind ideal für den Anbau von Ananas, die früher ein wichtiges Exportgut der Insel waren.",
       hu: "Mangaia vulkáni talaja ideális az ananásztermesztéshez, amely korábban a sziget egyik legfontosabb exportcikke volt.",
@@ -152,12 +236,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Cultivation in the island's fertile valleys", "Known for particularly sweet fruit", "Seasonal trade with Rarotonga", "Use of traditional terrace farming"],
     },
     imageHint: "Pineapple fields Mangaia Cook Islands",
+    descriptionAdvanced: {
+      de: "Die Mangaia-Ananasplantagen sind für die Produktion der sogenannten Mangaia-Ananas bekannt, einer lokalen Sorte, die für ihren süßen und saftigen Geschmack geschätzt wird. Die Insel Mangaia, die südlichste der Cookinseln, hat vulkanische Böden, die ideal für den Ananasanbau sind. Die Plantagen erstrecken sich über mehrere Hektar, wobei die Produktion saisonal von Oktober bis Januar stattfindet. Der Großteil der Ernte wird lokal konsumiert, ein Teil wird nach Rarotonga exportiert. Die Ananasindustrie bietet Arbeitsplätze für rund 100 Inselbewohner. Der Anbau erfolgt überwiegend ohne chemische Düngemittel, was die Nachhaltigkeit fördert.",
+      hu: "A mangaiai ananászültetvények Cook-szigetek legdélebbi szigetén, Mangaia szigetén találhatóak. A vulkanikus talaj kiválóan alkalmas ananász termesztésére, a helyi fajta édes és lédús. Az ültetvények több hektáron terülnek el, a betakarítási szezon októbertől januárig tart. A termés nagy részét helyben fogyasztják, egy részét Rarotongára exportálják. Az ananásztermesztés mintegy 100 helyi lakosnak biztosít munkát. A termesztés hagyományosan vegyszermentes, ami hozzájárul a fenntarthatósághoz.",
+      ro: "Plantațiile de ananas din Mangaia sunt renumite pentru soiul local de ananas, dulce și suculent. Insula Mangaia, cea mai sudică a arhipelagului Cook, are soluri vulcanice propice culturii de ananas. Plantațiile se întind pe mai multe hectare, iar recoltarea are loc din octombrie până în ianuarie. Majoritatea producției este consumată local, o parte fiind exportată pe insula Rarotonga. Cultura ananasului asigură locuri de muncă pentru aproximativ 100 de persoane. Metodele de cultivare sunt în mare parte ecologice, fără utilizarea de pesticide chimice.",
+      en: "Mangaia Pineapple Plantations are dedicated to growing a unique local pineapple variety known for its exceptional sweetness and low acidity. Mangaia, the southernmost island of the Cook Islands, features volcanic soils that are well-suited for pineapple cultivation. The plantations cover several hectares, with the harvest season running from October to January. Most of the crop is consumed fresh on the island, while surplus is exported to Rarotonga. This sector employs about 100 people, making it a crucial part of the local economy. Traditional farming methods minimize chemical inputs, aligning with sustainable agriculture practices.",
+    },
+    factsAdvanced: {
+      de: ["Mangaia ist die südlichste Insel der Cookinseln.", "Die Ananasernte findet von Oktober bis Januar statt.", "Die Plantagen erstrecken sich über etwa 50 Hektar.", "Etwa 100 Inselbewohner sind in der Ananasproduktion beschäftigt.", "Die Mangaia-Ananas ist eine lokale Sorte, die nirgendwo sonst angebaut wird.", "Die Insel hat eine Fläche von rund 51 km²."],
+      hu: ["Mangaia a Cook-szigetek legdélebbi szigete.", "Az ananász betakarítása októbertől januárig tart.", "Az ültetvények körülbelül 50 hektáron terülnek el.", "Mintegy 100 szigetlakó foglalkozik ananásztermesztéssel.", "A mangaiai ananász egy helyi fajta, amelyet sehol máshol nem termesztenek.", "A sziget területe hozzávetőlegesen 51 km²."],
+      ro: ["Mangaia este cea mai sudică insulă a arhipelagului Cook.", "Recoltarea ananasului are loc din octombrie până în ianuarie.", "Plantațiile se întind pe aproximativ 50 de hectare.", "Aproximativ 100 de insulari lucrează în producția de ananas.", "Ananasul din Mangaia este un soi local care nu se cultivă în altă parte.", "Insula are o suprafață de aproximativ 51 km²."],
+      en: ["Mangaia is the southernmost island of the Cook Islands.", "Pineapple harvest runs from October to January.", "Plantations cover approximately 50 hectares.", "About 100 islanders are employed in pineapple production.", "The Mangaia pineapple is a local variety not grown elsewhere.", "The island has an area of about 51 km²."],
+    },
   },
   {
     id: "cookislands-rarotonga-brewery-economic-v2",
     type: "factory",
     name: { de: "Rarotonga Brauerei", hu: "Rarotonga sörfőzde", ro: "Berăria Rarotonga", en: "Rarotonga Brewery" },
-    coordinates: { lat: -21.2224, lng: -159.7451 },
+    coords: [-159.7451, -21.2224],
     description: {
       de: "Die Brauerei in Matavera produziert lokal gebrautes Bier und ist ein wichtiger Akteur in der lokalen Getränkeindustrie.",
       hu: "A Matavera-ban található sörfőzde helyi sört állít elő, és a helyi italipar egyik meghatározó szereplője.",
@@ -171,12 +267,24 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Produces the famous 'Cooks' beer", "Important for import substitution", "Uses modern bottling facilities", "Source of employment in Matavera"],
     },
     imageHint: "Rarotonga brewery building and beer",
+    descriptionAdvanced: {
+      de: "Die Rarotonga Brewery ist die einzige Brauerei der Cookinseln und befindet sich in Avarua. Sie wurde 1998 gegründet und produziert eine Reihe von Bieren, darunter das beliebte Cooks Lager und das Mana Wheat Beer. Die Brauerei verwendet importiertes Malz und Hopfen, aber das Wasser stammt aus lokalen Quellen. Jährlich werden etwa 1,5 Millionen Liter Bier gebraut. Der Großteil wird auf den Cookinseln konsumiert, ein Teil wird nach Neuseeland und Australien exportiert. Die Brauerei beschäftigt 30 Mitarbeiter. Sie bietet Führungen an, bei denen Besucher den Brauprozess kennenlernen und die Biere verkosten können.",
+      hu: "A Rarotonga Sörfőzde a Cook-szigetek egyetlen sörgyára, Avarua városában található. 1998-ban alapították, és olyan söröket gyárt, mint a Cooks Lager és a Mana Wheat Beer. A sörfőzéshez importált malátát és komlót használnak, de a víz helyi forrásokból származik. Éves termelése körülbelül 1,5 millió liter. A sör nagy részét a szigeteken fogyasztják, kisebb mennyiséget exportálnak Új-Zélandra és Ausztráliába. A sörfőzde 30 alkalmazottat foglalkoztat. Látogatók számára is nyitott, ahol megtekinthetik a gyártási folyamatot és kóstolhatnak.",
+      ro: "Rarotonga Brewery este singura fabrică de bere din Insulele Cook, situată în Avarua. A fost fondată în 1998 și produce o gamă de beri, inclusiv Cooks Lager și Mana Wheat Beer. Utilizând malț și hamei importate, dar apă locală, fabrica produce anual aproximativ 1,5 milioane de litri de bere. Majoritatea producției este consumată local, o parte fiind exportată în Noua Zeelandă și Australia. Fabrica angajează 30 de persoane și oferă tururi ghidate cu degustări.",
+      en: "Rarotonga Brewery, located in Avarua, is the only commercial brewery in the Cook Islands. Established in 1998, it brews a variety of beers, with Cooks Lager and Mana Wheat Beer being the flagship brands. The brewery uses imported malt and hops but local spring water, ensuring a distinct island character. Production capacity is around 1.5 million liters per year. The beer is widely available across the islands and is also exported to New Zealand and Australia. The brewery employs 30 people and has a visitor center where tourists can take tours and sample the products. It is an important contributor to the local economy and tourism industry.",
+    },
+    factsAdvanced: {
+      de: ["Die Brauerei wurde 1998 gegründet.", "Die jährliche Produktion beträgt etwa 1,5 Millionen Liter.", "Cooks Lager ist das meistverkaufte Bier auf den Cookinseln.", "Die Brauerei beschäftigt 30 Mitarbeiter.", "Das Bier wird auch nach Neuseeland und Australien exportiert.", "Die Brauerei bietet tägliche Führungen an."],
+      hu: ["A sörfőzdét 1998-ban alapították.", "Az éves termelés körülbelül 1,5 millió liter.", "A Cooks Lager a legnépszerűbb sör a Cook-szigeteken.", "A sörfőzde 30 munkavállalót foglalkoztat.", "A sört exportálják Új-Zélandra és Ausztráliába is.", "A sörfőzde naponta tart vezetett túrákat."],
+      ro: ["Fabrica de bere a fost fondată în 1998.", "Producția anuală este de aproximativ 1,5 milioane de litri.", "Cooks Lager este cea mai populară bere din Insulele Cook.", "Fabrica angajează 30 de persoane.", "Berea este exportată în Noua Zeelandă și Australia.", "Fabrica oferă tururi ghidate zilnic."],
+      en: ["The brewery was founded in 1998.", "Annual production is approximately 1.5 million liters.", "Cooks Lager is the best-selling beer in the Cook Islands.", "The brewery employs 30 staff.", "Beer is exported to New Zealand and Australia.", "The brewery offers daily guided tours."],
+    },
   },
   {
     id: "cookislands-penrhyn-marine-resources-economic-v2",
     type: "industry",
     name: { de: "Penrhyn Meeresressourcen-Zentrum", hu: "Penrhyn tengeri erőforrások központja", ro: "Centrul de resurse marine din Penrhyn", en: "Penrhyn Marine Resources" },
-    coordinates: { lat: -8.9812, lng: -157.9605 },
+    coords: [-157.9605, -8.9812],
     description: {
       de: "Das Penrhyn-Atoll im Norden nutzt seine riesige Lagune für die nachhaltige Gewinnung von Perlmutt und Meeresfrüchten.",
       hu: "Az északi Penrhyn-atoll hatalmas lagúnáját a gyöngyház és a tenger gyümölcseinek fenntartható kinyerésére használják.",
@@ -190,5 +298,17 @@ export const cookislandsEconomicV2: POI[] = [
       en: ["Largest lagoon in the Cook Islands", "Center for commercial fishing operations", "Sustainable harvesting of giant clams", "Crucial trading point for northern islands"],
     },
     imageHint: "Penrhyn lagoon fishing boats",
+    descriptionAdvanced: {
+      de: "Die Penrhyn Marine Resources umfassen die Fischerei und Meeresressourcen des Penrhyn-Atolls (Tongareva), dem nördlichsten Atoll der Cookinseln. Die Lagune ist reich an Fisch, Haien und Schalentieren. Die Fischerei ist die Haupteinnahmequelle für die etwa 200 Einwohner. Es wird hauptsächlich Thunfisch gefangen, sowohl für den lokalen Verzehr als auch für den Export nach Rarotonga. Die nachhaltige Bewirtschaftung der Ressourcen ist entscheidend, da die Insel stark von der Fischerei abhängig ist. Es gibt auch Bestrebungen, den Meerestourismus zu entwickeln, wie zum Beispiel Tauchausflüge zu den unberührten Riffen. Die Lagune hat eine Fläche von etwa 300 km².",
+      hu: "A Penrhyn Tengeri Erőforrások a Cook-szigetek legészakibb atolljának, Penrhyn (Tongareva) halászatát és tengeri erőforrásait foglalják magukban. A lagúna gazdag halakban, cápákban és kagylókban. A halászat a mintegy 200 fős lakosság fő megélhetési forrása. Főleg tonhalat fognak, amelyet helyben fogyasztanak és Rarotongára exportálnak. A fenntartható gazdálkodás létfontosságú, mivel a sziget erősen függ a halászattól. A tengeri turizmus fejlesztése is tervben van, például búvárkodás az érintetlen zátonyoknál. A lagúna területe körülbelül 300 km².",
+      ro: "Resursele marine Penrhyn se referă la pescuitul și resursele oceanice ale atolului Penrhyn (Tongareva), cel mai nordic atol al Insulelor Cook. Laguna este bogată în pești, rechini și crustacee. Pescuitul este principala sursă de trai pentru cei aproximativ 200 de locuitori. Se capturează în principal ton, atât pentru consum local, cât și pentru export pe Rarotonga. Gestionarea durabilă este esențială, deoarece insula depinde în mare măsură de pescuit. Există planuri de dezvoltare a turismului marin, cum ar fi scufundările în recifele virgine. Laguna are o suprafață de aproximativ 300 km².",
+      en: "Penrhyn Marine Resources represent the fishing and marine wealth of Penrhyn Atoll (Tongareva), the northernmost atoll of the Cook Islands. The expansive lagoon teems with fish, sharks, and shellfish. Fishing is the economic mainstay for the atoll's population of about 200. Skipjack and yellowfin tuna are the primary catches, sold locally and exported to Rarotonga. Sustainable practices are crucial to prevent overfishing. The lagoon covers about 300 km², offering potential for ecotourism. Initiatives promote aquaculture of black pearls and sea cucumbers, diversifying income. The remoteness of Penrhyn presents logistical challenges, but the marine resources remain vital for survival.",
+    },
+    factsAdvanced: {
+      de: ["Penrhyn liegt etwa 1.365 km nördlich von Rarotonga.", "Die Lagune hat eine Fläche von ca. 300 km².", "Die Insel hat eine Bevölkerung von rund 200 Menschen.", "Der Fischereiertrag beträgt schätzungsweise 50 Tonnen Thunfisch pro Jahr.", "Die Lagune beherbergt eine der größten Perlenfarmen der Cookinseln.", "Penrhyn ist auch bekannt als Tongareva."],
+      hu: ["Penrhyn körülbelül 1 365 km-re északra található Rarotongától.", "A lagúna területe körülbelül 300 km².", "A sziget lakossága mintegy 200 fő.", "A halászati hozam évente kb. 50 tonna tonhal.", "A lagúna a Cook-szigetek egyik legnagyobb gyöngyfarmjának ad otthont.", "Penrhyn másik neve Tongareva."],
+      ro: ["Penrhyn este situat la aproximativ 1.365 km nord de Rarotonga.", "Laguna are o suprafață de circa 300 km².", "Insula are o populație de aproximativ 200 de locuitori.", "Captura anuală de ton este estimată la 50 de tone.", "Laguna găzduiește una dintre cele mai mari ferme de perle din Insulele Cook.", "Penrhyn este cunoscut și sub numele de Tongareva."],
+      en: ["Penrhyn is located about 1,365 km north of Rarotonga.", "The lagoon covers an area of approximately 300 km².", "The atoll has a population of around 200 people.", "Annual tuna catch is estimated at 50 tonnes.", "The lagoon hosts one of the largest pearl farms in the Cook Islands.", "Penrhyn is also known as Tongareva."],
+    },
   }
 ];

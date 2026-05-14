@@ -5,7 +5,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-tukosmera-relief-v2",
     type: "peak",
     name: { de: "Mount Tukosmera", hu: "Mount Tukosmera", ro: "Muntele Tukosmera", en: "Mount Tukosmera" },
-    coordinates: { lat: -19.585, lng: 169.395 },
+    coords: [169.395, -19.585],
     description: {
       de: "Der Mount Tukosmera ist der höchste Punkt im Süden der Insel Tanna. Dieser erloschene Vulkan gilt bei den Einheimischen als heiliger Ort.",
       hu: "A Mount Tukosmera Tanna szigetének legmagasabb pontja a déli részen. Ez a kialudt tűzhányó szent helynek számít a helyiek körében.",
@@ -24,7 +24,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-lombenben-relief-v2",
     type: "peak",
     name: { de: "Mount Lombenben", hu: "Mount Lombenben", ro: "Muntele Lombenben", en: "Mount Lombenben" },
-    coordinates: { lat: -15.389, lng: 167.834 },
+    coords: [167.834, -15.389],
     description: {
       de: "Der Mount Lombenben ist ein massiver Schildvulkan auf der Insel Ambae. Er ist für seine Kraterseen mit wechselnden Farben weltweit bekannt.",
       hu: "A Mount Lombenben egy hatalmas pajzsvulkán Ambae szigetén. Világszerte ismert a változó színű krátertavairól a csúcs közelében.",
@@ -43,7 +43,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-mcdonald-relief-v2",
     type: "peak",
     name: { de: "Mount McDonald", hu: "Mount McDonald", ro: "Muntele McDonald", en: "Mount McDonald" },
-    coordinates: { lat: -17.614, lng: 168.358 },
+    coords: [168.358, -17.614],
     description: {
       de: "Der Mount McDonald ist der höchste Gipfel der Insel Efate. Er überragt die umliegenden Regenwälder und bietet einen Blick über die Hauptstadt.",
       hu: "A Mount McDonald Efate szigetének legmagasabb csúcsa. Kiemelkedik a környező esőerdőkből, rálátást biztosítva a főváros környékére.",
@@ -62,7 +62,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-gharat-relief-v2",
     type: "peak",
     name: { de: "Mount Gharat", hu: "Mount Gharat", ro: "Muntele Gharat", en: "Mount Gharat" },
-    coordinates: { lat: -14.272, lng: 167.518 },
+    coords: [167.518, -14.272],
     description: {
       de: "Der Mount Gharat ist ein aktiver Vulkankegel im Zentrum der Insel Gaua. Er ragt direkt aus dem großen Kratersee Lake Letas empor.",
       hu: "A Mount Gharat egy aktív vulkáni kúp Gaua szigetének közepén. Közvetlenül a hatalmas Letas-tó közepéből emelkedik a magasba.",
@@ -81,7 +81,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-lopevi-relief-v2",
     type: "peak",
     name: { de: "Mount Lopevi", hu: "Mount Lopevi", ro: "Muntele Lopevi", en: "Mount Lopevi" },
-    coordinates: { lat: -16.507, lng: 168.346 },
+    coords: [168.346, -16.507],
     description: {
       de: "Der Mount Lopevi bildet eine eigene, fast perfekt kegelförmige Insel. Er ist einer der aktivsten und beeindruckendsten Stratovulkane Vanuatus.",
       hu: "A Mount Lopevi egy önálló, szinte tökéletes kúp alakú szigetet alkot. Vanuatu egyik legaktívabb és leglátványosabb sztratovulkánja.",
@@ -100,7 +100,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-cumberland-peninsula-relief-v2",
     type: "mountain",
     name: { de: "Cumberland-Halbinsel", hu: "Cumberland-félsziget", ro: "Peninsula Cumberland", en: "Cumberland Peninsula" },
-    coordinates: { lat: -14.755, lng: 166.652 },
+    coords: [166.652, -14.755],
     description: {
       de: "Die Cumberland-Halbinsel im Norden von Espiritu Santo ist von steilen Gebirgsketten geprägt. Sie beherbergt einige der entlegensten Gipfel des Landes.",
       hu: "Az Espiritu Santo északi részén található Cumberland-félszigetet meredek hegyláncok jellemzik. Az ország legeldugottabb csúcsai találhatók itt.",
@@ -119,7 +119,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-santop-relief-v2",
     type: "peak",
     name: { de: "Mount Santop", hu: "Mount Santop", ro: "Muntele Santop", en: "Mount Santop" },
-    coordinates: { lat: -18.735, lng: 169.182 },
+    coords: [169.182, -18.735],
     description: {
       de: "Der Mount Santop ist der höchste Gipfel auf der Insel Erromango. Das Relief ist von tiefen Tälern und dichter tropischer Vegetation geprägt.",
       hu: "A Mount Santop Erromango szigetének legmagasabb csúcsa. A domborzatot mély völgyek és sűrű trópusi vegetáció jellemzi errefelé.",
@@ -138,7 +138,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-napiuan-relief-v2",
     type: "peak",
     name: { de: "Mount Napiuan", hu: "Mount Napiuan", ro: "Muntele Napiuan", en: "Mount Napiuan" },
-    coordinates: { lat: -16.425, lng: 167.505 },
+    coords: [167.505, -16.425],
     description: {
       de: "Der Mount Napiuan ist der höchste Punkt im zentralen Hochland von Malakula. Die Region ist für ihre zerklüftete und schwer zugängliche Topografie bekannt.",
       hu: "A Mount Napiuan Malakula központi felföldjének legmagasabb pontja. A régió híres a tagolt és nehezen megközelíthető domborzatáról.",
@@ -157,7 +157,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-inrerow-atanainyong-relief-v2",
     type: "peak",
     name: { de: "Mount Inrerow Atanainyong", hu: "Mount Inrerow Atanainyong", ro: "Muntele Inrerow Atanainyong", en: "Mount Inrerow Atanainyong" },
-    coordinates: { lat: -20.205, lng: 169.782 },
+    coords: [169.782, -20.205],
     description: {
       de: "Dieser Berg ist der höchste Gipfel auf der südlichsten bewohnten Insel Aneityum. Das Relief fällt steil zu den Korallenriffen der Küste ab.",
       hu: "Ez a hegy a legdélebbi lakott sziget, Aneityum legmagasabb csúcsa. A domborzat meredeken szakad le a parti korallzátonyok felé.",
@@ -176,7 +176,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-vulmat-relief-v2",
     type: "peak",
     name: { de: "Mount Vulmat", hu: "Mount Vulmat", ro: "Muntele Vulmat", en: "Mount Vulmat" },
-    coordinates: { lat: -15.824, lng: 168.188 },
+    coords: [168.188, -15.824],
     description: {
       de: "Der Mount Vulmat ist der höchste Punkt auf der Insel Pentecost. Er bildet den zentralen Teil des langen Gebirgsrückens, der die Insel durchzieht.",
       hu: "A Mount Vulmat Pentecost szigetének legmagasabb pontja. A szigeten végighúzódó hosszú hegylánc központi részét alkotja.",
@@ -195,7 +195,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-tawenun-relief-v2",
     type: "peak",
     name: { de: "Mount Tawenun", hu: "Mount Tawenun", ro: "Muntele Tawenun", en: "Mount Tawenun" },
-    coordinates: { lat: -15.155, lng: 168.125 },
+    coords: [168.125, -15.155],
     description: {
       de: "Der Mount Tawenun ist der höchste Berg der Insel Maewo. Die Topografie der Insel ist durch ihre große Höhe im Verhältnis zur geringen Breite bekannt.",
       hu: "A Mount Tawenun Maewo szigetének legmagasabb hegye. A sziget domborzata a kis szélességéhez képest jelentős magasságáról ismert.",
@@ -214,7 +214,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-sereama-relief-v2",
     type: "peak",
     name: { de: "Mount Sere'ama", hu: "Mount Sere'ama", ro: "Muntele Sere'ama", en: "Mount Sere'ama" },
-    coordinates: { lat: -13.805, lng: 167.485 },
+    coords: [167.485, -13.805],
     description: {
       de: "Der Mount Sere'ama ist der höchste Punkt auf der Insel Vanua Lava. Das Relief umfasst aktive Fumarolen und schwefelhaltige Gebiete am Hang.",
       hu: "A Mount Sere'ama Vanua Lava szigetének legmagasabb pontja. A domborzat aktív fumarolákat és kénes területeket is magában foglal.",
@@ -233,7 +233,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-taniar-relief-v2",
     type: "peak",
     name: { de: "Mount Taniar", hu: "Mount Taniar", ro: "Muntele Taniar", en: "Mount Taniar" },
-    coordinates: { lat: -16.732, lng: 168.254 },
+    coords: [168.254, -16.732],
     description: {
       de: "Der Mount Taniar ist der markanteste Gipfel auf der Insel Epi. Er ist Teil eines alten Vulkankomplexes, der das Relief der Insel dominiert.",
       hu: "A Mount Taniar Epi szigetének legjellegzetesebb csúcsa. Egy régi vulkáni komplexum része, amely meghatározza a sziget domborzatát.",
@@ -252,7 +252,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-efate-plateau-relief-v2",
     type: "mountain",
     name: { de: "Efate-Plateau", hu: "Efate-fennsík", ro: "Podișul Efate", en: "Efate Plateau" },
-    coordinates: { lat: -17.705, lng: 168.452 },
+    coords: [168.452, -17.705],
     description: {
       de: "Das Efate-Plateau ist eine weitläufige Kalksteinterrasse im Inneren der Insel Efate. Es zeigt ein typisches Karstrelief mit zahlreichen Höhlen.",
       hu: "Az Efate-fennsík egy kiterjedt mészkőterasz Efate szigetének belsejében. Tipikus karsztos domborzatot mutat számos barlanggal.",
@@ -271,7 +271,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-south-santo-highlands-relief-v2",
     type: "mountain",
     name: { de: "Südliches Santo-Hochland", hu: "Dél-Santo felföld", ro: "Podișul Santo de Sud", en: "South Santo Highlands" },
-    coordinates: { lat: -15.555, lng: 166.852 },
+    coords: [166.852, -15.555],
     description: {
       de: "Das südliche Hochland von Espiritu Santo besteht aus extrem zerklüfteten Gebirgsketten. Die Reliefenergie ist hier besonders hoch mit tiefen Schluchten.",
       hu: "Espiritu Santo déli felföldje rendkívül tagolt hegyláncokból áll. A domborzati energia itt különösen nagy, mély szurdokokkal tarkított.",
@@ -290,7 +290,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-malakula-central-range-relief-v2",
     type: "mountain",
     name: { de: "Malakula-Zentralkette", hu: "Malakula központi hegylánc", ro: "Lanțul Central Malakula", en: "Malakula Central Range" },
-    coordinates: { lat: -16.255, lng: 167.402 },
+    coords: [167.402, -16.255],
     description: {
       de: "Die Malakula-Zentralkette bildet das Rückgrat der Insel und trennt die Ostküste von der Westküste. Es ist ein Gebiet mit dichter Bewaldung.",
       hu: "A Malakula központi hegylánc alkotja a sziget gerincét, elválasztva a keleti és nyugati partot. Sűrű erdővel borított terület.",
@@ -309,7 +309,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-rentabao-valley-relief-v2",
     type: "valley",
     name: { de: "Rentabao-Tal", hu: "Rentabao-völgy", ro: "Valea Rentabao", en: "Rentabao Valley" },
-    coordinates: { lat: -17.755, lng: 168.458 },
+    coords: [168.458, -17.755],
     description: {
       de: "Das Rentabao-Tal ist ein bedeutendes Flusstal im Südosten der Insel Efate. Es bildet eine seltene flachere Zone inmitten des hügeligen Reliefs.",
       hu: "A Rentabao-völgy egy jelentős folyóvölgy Efate szigetének délkeleti részén. Ritka síkabb területet alkot a dombos vidék közepén.",
@@ -328,7 +328,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-lemon-relief-v2",
     type: "peak",
     name: { de: "Mount Lemon", hu: "Mount Lemon", ro: "Muntele Lemon", en: "Mount Lemon" },
-    coordinates: { lat: -17.065, lng: 168.384 },
+    coords: [168.384, -17.065],
     description: {
       de: "Der Mount Lemon ist der höchste Punkt der Insel Emae. Er ist ein markanter vulkanischer Rest, der aus dem flacheren Umland hervorragt.",
       hu: "A Mount Lemon Emae szigetének legmagasabb pontja. Egy jellegzetes vulkáni maradvány, amely kiemelkedik a laposabb környékből.",
@@ -347,7 +347,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-zeila-relief-v2",
     type: "peak",
     name: { de: "Mount Zeila", hu: "Mount Zeila", ro: "Muntele Zeila", en: "Mount Zeila" },
-    coordinates: { lat: -17.445, lng: 168.352 },
+    coords: [168.352, -17.445],
     description: {
       de: "Der Mount Zeila ist der höchste Gipfel der Vulkaninsel Nguna. Das Relief der Insel wird durch zwei große, inaktive Krater bestimmt.",
       hu: "A Mount Zeila a vulkanikus Nguna szigetének legmagasabb csúcsa. A sziget domborzatát két nagy, inaktív kráter határozza meg.",
@@ -366,7 +366,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-melen-relief-v2",
     type: "peak",
     name: { de: "Mount Melen", hu: "Mount Melen", ro: "Muntele Melen", en: "Mount Melen" },
-    coordinates: { lat: -19.505, lng: 169.452 },
+    coords: [169.452, -19.505],
     description: {
       de: "Der Mount Melen ist einer der höheren Gipfel im Norden von Tanna. Er bildet einen markanten Teil des vulkanischen Reliefs dieser Insel.",
       hu: "A Mount Melen Tanna északi részének egyik magasabb csúcsa. Jellegzetes részét alkotja a sziget vulkanikus domborzatának.",
@@ -385,7 +385,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-gaua-highlands-relief-v2",
     type: "mountain",
     name: { de: "Gaua-Hochland", hu: "Gaua-felföld", ro: "Podișul Gaua", en: "Gaua Highlands" },
-    coordinates: { lat: -14.285, lng: 167.452 },
+    coords: [167.452, -14.285],
     description: {
       de: "Das Hochland von Gaua umschließt den zentralen Kratersee Lake Letas. Es ist eine hügelige, vulkanische Hochebene mit reicher Biodiversität.",
       hu: "Gaua felföldje körülöleli a központi Letas-tavat. Ez egy dombos, vulkanikus fennsík, amely gazdag biodiverzitással rendelkezik.",
@@ -404,7 +404,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-paama-highlands-relief-v2",
     type: "mountain",
     name: { de: "Paama-Hochland", hu: "Paama-felföld", ro: "Podișul Paama", en: "Paama Highlands" },
-    coordinates: { lat: -16.475, lng: 168.232 },
+    coords: [168.232, -16.475],
     description: {
       de: "Das Hochland der Insel Paama ist durch extrem steile Hänge und tief eingeschnittene Täler geprägt. Es ist der Rest eines alten Vulkans.",
       hu: "Paama szigetének felföldjét rendkívül meredek lejtők és mélyen bevágott völgyek jellemzik. Egy ősi tűzhányó maradványa.",
@@ -423,7 +423,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-futuna-highlands-relief-v2",
     type: "mountain",
     name: { de: "Futuna-Hochland", hu: "Futuna-felföld", ro: "Podișul Futuna", en: "Futuna Highlands" },
-    coordinates: { lat: -19.535, lng: 170.222 },
+    coords: [170.222, -19.535],
     description: {
       de: "Futuna ist eine gehobene Koralleninsel mit einem markanten, tischförmigen Hochland im Zentrum. Es hebt sich schroff aus dem Ozean.",
       hu: "Futuna egy megemelkedett korallsziget, amelynek közepén jellegzetes, asztal alakú felföld található. Meredeken emelkedik ki az óceánból.",
@@ -442,7 +442,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-maewo-central-range-relief-v2",
     type: "mountain",
     name: { de: "Maewo-Zentralkette", hu: "Maewo központi hegylánc", ro: "Lanțul Central Maewo", en: "Maewo Central Range" },
-    coordinates: { lat: -15.005, lng: 168.102 },
+    coords: [168.102, -15.005],
     description: {
       de: "Die Maewo-Zentralkette zieht sich über die gesamte Länge der schmalen Insel. Sie fängt die Feuchtigkeit der Passatwinde ein und verursacht Regen.",
       hu: "A Maewo központi hegylánc a keskeny sziget teljes hosszában végighúzódik. Felfogja a passzátszelek nedvességét, esőt okozva.",
@@ -461,7 +461,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-pentecost-central-range-relief-v2",
     type: "mountain",
     name: { de: "Pentecost-Zentralkette", hu: "Pentecost központi hegylánc", ro: "Lanțul Central Pentecost", en: "Pentecost Central Range" },
-    coordinates: { lat: -15.705, lng: 168.202 },
+    coords: [168.202, -15.705],
     description: {
       de: "Das Relief von Pentecost wird von einer zentralen Kette dominiert, die im Osten steil und im Westen sanfter abfällt. Sie prägt das lokale Klima.",
       hu: "Pentecost domborzatát egy központi hegylánc uralja, amely keleten meredek, nyugaton pedig lankásabb. Meghatározza a helyi klímát.",
@@ -480,7 +480,7 @@ export const vanuatuReliefV2: POI[] = [
     id: "vanuatu-malo-peak-relief-v2",
     type: "peak",
     name: { de: "Malo-Gipfel", hu: "Malo-csúcs", ro: "Vârful Malo", en: "Malo Peak" },
-    coordinates: { lat: -15.685, lng: 167.182 },
+    coords: [167.182, -15.685],
     description: {
       de: "Der Malo-Gipfel ist die höchste Erhebung der Insel Malo. Er ist ein alter Vulkankegel, der heute von dichtem Regenwald überzogen ist.",
       hu: "A Malo-csúcs Malo szigetének legmagasabb pontja. Ez egy ősi vulkáni kúp, amelyet mára sűrű esőerdő borított be teljesen.",

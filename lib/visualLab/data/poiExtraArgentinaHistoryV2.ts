@@ -1207,7 +1207,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-batalla-de-suipacha-history-v2",
     type: "battlefield",
     name: { de: "Schlacht von Suipacha", hu: "Suipachai csata", ro: "Bătălia de la Suipacha", en: "Battle of Suipacha" },
-    coordinates: { lat: -22.215, lng: -65.556 },
+    coords: [-65.556, -22.215],
     description: {
       de: "Dies ist der Ort der Schlacht von Suipacha vom 7. November 1810. Es war der erste Sieg der Kräfte der Mai-Revolution gegen die Royalisten.",
       hu: "Ez az 1810. november 7-i suipachai csata helyszíne. Ez volt a májusi forradalom erőinek első győzelme a royalisták ellen.",
@@ -1221,12 +1221,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Battle date November 7, 1810", "War of Independence", "Patriot victory", "Site near the border"],
     },
     imageHint: "Suipacha battlefield memorial",
+    descriptionAdvanced: {
+      de: "Die Schlacht von Suipacha fand am 7. November 1810 in der Nähe des heutigen Ortes Suipacha in der Provinz Jujuy, Argentinien, statt. Sie war der erste militärische Sieg der argentinischen Unabhängigkeitsbewegung gegen die spanischen Royalisten. Unter dem Kommando von General Antonio González Balcarce besiegte eine kleine Rebellenarmee von etwa 600 Mann eine zahlenmäßig überlegene royalistische Streitmacht von rund 1.000 Soldaten. Der Sieg stärkte die Moral der Revolutionäre und sicherte die Kontrolle über den Nordwesten. Die Schlacht war Teil der Mairevolution und führte zur Ausweitung des Aufstands auf Oberperu (heute Bolivien). Der Ort ist heute ein historisches Denkmal.",
+      hu: "A suipachai csatára 1810. november 7-én került sor a mai Suipacha település közelében, Jujuy tartományban, Argentínában. Ez volt az argentin függetlenségi mozgalom elsõ katonai gyõzelme a spanyol royalisták felett. Antonio González Balcarce tábornok vezetésével egy kb. 600 fõs lázadó sereg legyõzött egy létszámfölényben lévõ, kb. 1000 fõs royalista erõt. A gyõzelem megerõsítette a forradalmárok morálját és biztosította az északnyugati régió ellenõrzését. A csata a Májusi Forradalom része volt, és a felkelés Felsõ-Perura (ma Bolívia) is átterjedt. A helyszín ma történelmi m.",
+      ro: "Bătălia de la Suipacha a avut loc la 7 noiembrie 1810 lângă localitatea actuală Suipacha, în provincia Jujuy, Argentina. A fost prima victorie militară a mișcării de independență argentiniene împotriva regaliștilor spanioli. Sub comanda generalului Antonio González Balcarce, o armată rebelă de aproximativ 600 de oameni a învins o forță regalistă superioară numeric, de aproximativ 1.000 de soldați. Victoria a întărit moralul revoluționarilor și a asigurat controlul asupra nord-vestului. Bătălia a făcut parte din Revoluția din Mai și a dus la extinderea revoltei în Peru Superior (azi Bolivia). Locul este acum un monument istoric.",
+      en: "The Battle of Suipacha, fought on November 7, 1810, near present-day Suipacha in Jujuy Province, Argentina, was the first military victory of the Argentine War of Independence against Spanish royalists. Led by General Antonio González Balcarce, a patriot force of about 600 men defeated a royalist army of around 1,000 soldiers. This triumph boosted revolutionary morale and secured the northwestern frontier. It was a key engagement in the Upper Peru campaign, allowing the revolutionaries to advance into modern-day Bolivia. The battlefield is now a national historic site, with a commemorative obelisk erected in 1910.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 7. November 1810", "Patriotische Truppen: 600 Mann", "Royalistische Truppen: 1.000 Mann", "Tote auf patriotischer Seite: 50", "Tote auf royalistischer Seite: 200", "Kommandant: Antonio González Balcarce (1773–1820)"],
+      hu: ["Dátum: 1810. november 7.", "Hazafias csapatok: 600 fõ", "Royalista csapatok: 1000 fõ", "Hazafiak vesztesége: 50 halott", "Royalista veszteség: 200 halott", "Parancsnok: Antonio González Balcarce (1773–1820)"],
+      ro: ["Data: 7 noiembrie 1810", "Trupe patriotice: 600 de oameni", "Trupe regaliste: 1.000 de oameni", "Pierderi patriotice: 50 de morți", "Pierderi regaliste: 200 de morți", "Comandant: Antonio González Balcarce (1773–1820)"],
+      en: ["Date: November 7, 1810", "Patriot forces: 600 men", "Royalist forces: 1,000 men", "Patriot casualties: 50 dead", "Royalist casualties: 200 dead", "Commander: Antonio González Balcarce (1773–1820)"],
+    },
   },
   {
     id: "argentina-ruinas-de-quillacas-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Quillacas", hu: "Quillacas romok", ro: "Ruinele din Quillacas", en: "Ruins of Quillacas" },
-    coordinates: { lat: -25.8167, lng: -67.2167 },
+    coords: [-67.2167, -25.8167],
     description: {
       de: "Diese archäologische Stätte in der Provinz Salta zeigt Reste indigener Siedlungen aus der Zeit vor der spanischen Eroberung. Sie bietet Einblicke in die vorspanische Architektur.",
       hu: "Ez a Salta tartományban található régészeti lelőhely a spanyol hódítás előtti őslakos települések maradványait mutatja be. Betekintést nyújt a spanyolok előtti építészetbe.",
@@ -1245,7 +1257,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-fuerte-san-carlos-history-v2",
     type: "monument",
     name: { de: "Fuerte San Carlos", hu: "Fuerte San Carlos", ro: "Fuerte San Carlos", en: "Fuerte San Carlos" },
-    coordinates: { lat: -33.85, lng: -69.033 },
+    coords: [-69.033, -33.85],
     description: {
       de: "Das Fort wurde 1770 in der Provinz Mendoza gegründet, um die Region vor Angriffen indigener Stämme zu schützen. Heute ist es eine Gedenkstätte.",
       hu: "Az erődöt 1770-ben alapították Mendoza tartományban, hogy megvédjék a régiót az őslakos törzsek támadásaitól. Ma emlékhely.",
@@ -1264,7 +1276,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-posta-de-pucara-history-v2",
     type: "landmark",
     name: { de: "Posta de Pucará", hu: "Posta de Pucará", ro: "Posta de Pucará", en: "Posta de Pucará" },
-    coordinates: { lat: -22.75, lng: -65.2 },
+    coords: [-65.2, -22.75],
     description: {
       de: "Diese historische Poststation aus der Kolonialzeit liegt in der Provinz Jujuy. Sie diente als wichtige Anlaufstelle auf der Route nach Oberperu.",
       hu: "Ez a koloniális korból származó történelmi postaállomás Jujuy tartományban található. Fontos állomásként szolgált a Felső-Peru felé vezető útvonalon.",
@@ -1283,7 +1295,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-palacio-taranco-history-v2",
     type: "palace",
     name: { de: "Palacio Taranco", hu: "Palacio Taranco", ro: "Palacio Taranco", en: "Palacio Taranco" },
-    coordinates: { lat: -34.61, lng: -58.37 },
+    coords: [-58.37, -34.61],
     description: {
       de: "Dieses herrschaftliche Gebäude in Buenos Aires stammt aus dem frühen 20. Jahrhundert. Es repräsentiert die architektonische Pracht der argentinischen Aristokratie.",
       hu: "Ez a Buenos Aires-i uradalmi épület a 20. század elejéről származik. Az argentin arisztokrácia építészeti pompáját képviseli.",
@@ -1302,7 +1314,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-ruinas-de-san-jose-de-lules-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San José de Lules", hu: "San José de Lules romok", ro: "Ruinele din San José de Lules", en: "Ruins of San José de Lules" },
-    coordinates: { lat: -26.91, lng: -65.37 },
+    coords: [-65.37, -26.91],
     description: {
       de: "Überreste einer jesuitischen Reduktion aus dem 17. Jahrhundert in der Provinz Tucumán. Sie dokumentieren das Leben der indigenen Bevölkerung und der Missionare.",
       hu: "A 17. századi jezsuita misszió maradványai Tucumán tartományban. Dokumentálják az őslakos népesség és a misszionáriusok életét.",
@@ -1321,7 +1333,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-fuerte-de-la-luz-history-v2",
     type: "monument",
     name: { de: "Fuerte de la Luz", hu: "Fuerte de la Luz", ro: "Fuerte de la Luz", en: "Fuerte de la Luz" },
-    coordinates: { lat: -38.45, lng: -63.5 },
+    coords: [-63.5, -38.45],
     description: {
       de: "Ein historischer Verteidigungsort in der Provinz Buenos Aires, der während der Expansionskriege gegen die Indigenen genutzt wurde. Heute eine Gedenkstätte.",
       hu: "Történelmi védelmi pont Buenos Aires tartományban, amelyet az őslakosok elleni terjeszkedési háborúk során használtak. Ma emlékhely.",
@@ -1340,7 +1352,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-casco-historico-de-san-antonio-history-v2",
     type: "landmark",
     name: { de: "Historischer Kern San Antonio", hu: "San Antonio történelmi magja", ro: "Nucleul istoric San Antonio", en: "Historic Core of San Antonio" },
-    coordinates: { lat: -24.4, lng: -65.1 },
+    coords: [-65.1, -24.4],
     description: {
       de: "Dieser Bezirk in Jujuy bewahrt Gebäude und Strukturen aus dem 18. und 19. Jahrhundert. Er zeugt von der kolonialen Baukunst in den Anden.",
       hu: "Ez a Jujuy-i negyed a 18. és 19. századi épületeket és szerkezeteket őrzi. Tanúskodik az andoki gyarmati építészetről.",
@@ -1359,7 +1371,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-museo-histórico-nacional-history-v2",
     type: "museum",
     name: { de: "Nationales Historisches Museum", hu: "Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie", en: "National Historical Museum" },
-    coordinates: { lat: -34.62, lng: -58.37 },
+    coords: [-58.37, -34.62],
     description: {
       de: "Das Museum in Buenos Aires bewahrt Artefakte und Dokumente aus der argentinischen Unabhängigkeitszeit. Es ist zentral für das historische Verständnis des Landes.",
       hu: "A Buenos Aires-i múzeum az argentin függetlenségi korszakból származó tárgyakat és dokumentumokat őriz. Központi szerepet játszik az ország történelmének megértésében.",
@@ -1378,7 +1390,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-campo-de-la-gloria-history-v2",
     type: "battlefield",
     name: { de: "Campo de la Gloria", hu: "Campo de la Gloria", ro: "Campo de la Gloria", en: "Campo de la Gloria" },
-    coordinates: { lat: -33.56, lng: -60.21 },
+    coords: [-60.21, -33.56],
     description: {
       de: "Ort der Schlacht von San Lorenzo im Jahr 1813. Hier siegten die Streitkräfte von José de San Martín erstmals in der Region gegen spanische Truppen.",
       hu: "Az 1813-as san lorenzo-i csata helyszíne. Itt győzték le José de San Martín erői először a spanyol csapatokat a régióban.",
@@ -1397,7 +1409,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-fortaleza-real-felipe-patagonia-history-v2",
     type: "landmark",
     name: { de: "Fortaleza Real Felipe (Patagonien)", hu: "Fortaleza Real Felipe (Patagónia)", ro: "Fortaleza Real Felipe (Patagonia)", en: "Fortaleza Real Felipe (Patagonia)" },
-    coordinates: { lat: -40.8, lng: -62.9 },
+    coords: [-62.9, -40.8],
     description: {
       de: "Historische Befestigungsanlage aus der frühen Kolonialzeit an der Mündung des Río Negro. Sie diente der Sicherung des Gebiets gegen fremde Mächte.",
       hu: "Történelmi erődítmény a korai gyarmati időszakból, a Río Negro torkolatánál. A terület biztosítását szolgálta az idegen hatalmakkal szemben.",
@@ -1416,7 +1428,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-museo-de-armas-history-v2",
     type: "museum",
     name: { de: "Waffenmuseum (Buenos Aires)", hu: "Fegyvermúzeum (Buenos Aires)", ro: "Muzeul Armelor (Buenos Aires)", en: "Museum of Arms (Buenos Aires)" },
-    coordinates: { lat: -34.59, lng: -58.37 },
+    coords: [-58.37, -34.59],
     description: {
       de: "Das Museum zeigt eine umfangreiche Sammlung historischer Waffen aus der Zeit des Unabhängigkeitskrieges. Es befindet sich im San-Martín-Palast.",
       hu: "A múzeum a függetlenségi háború idejéből származó történelmi fegyverek kiterjedt gyűjteményét mutatja be. A San Martín-palotában található.",
@@ -1435,7 +1447,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-yacimiento-arqueologico-el-bolson-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte El Bolsón", hu: "El Bolsón régészeti lelőhely", ro: "Sit arheologic El Bolsón", en: "El Bolsón Archaeological Site" },
-    coordinates: { lat: -41.97, lng: -71.53 },
+    coords: [-71.53, -41.97],
     description: {
       de: "Fundort von Spuren indigener Besiedlung in Patagonien. Diese Stätte bietet wichtige Informationen über frühe Kulturen in den Andentälern.",
       hu: "Patagóniai őslakos településnyomok lelőhelye. Ez a hely fontos információkat nyújt az andoki völgyek korai kultúráiról.",
@@ -1454,7 +1466,7 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
     id: "argentina-iglesia-de-san-francisco-corrientes-history-v2",
     type: "church",
     name: { de: "Kirche San Francisco (Corrientes)", hu: "San Francisco-templom (Corrientes)", ro: "Biserica San Francisco (Corrientes)", en: "San Francisco Church (Corrientes)" },
-    coordinates: { lat: -27.47, lng: -58.83 },
+    coords: [-58.83, -27.47],
     description: {
       de: "Eine der ältesten Kirchen in der Provinz Corrientes, die religiöse und koloniale Geschichte verbindet. Sie ist ein Beispiel für den Bau im 18. Jahrhundert.",
       hu: "Corrientes tartomány egyik legrégebbi temploma, amely összeköti a vallási és gyarmati történelmet. Példa a 18. századi építkezésre.",
@@ -1468,12 +1480,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Corrientes Province", "18th century", "Colonial history", "Religious monument"],
     },
     imageHint: "San Francisco church Corrientes facade",
+    descriptionAdvanced: {
+      de: "Die Iglesia de San Francisco in Corrientes ist eine der ältesten Kirchen Argentiniens, deren Bau 1588 begann und 1602 abgeschlossen wurde. Sie vereint barocke und neoklassizistische Elemente, mit einer markanten Fassade aus rotem Ziegelstein. Im Inneren beherbergt sie bedeutende Kunstwerke aus der Kolonialzeit, darunter religiöse Gemälde und Holzschnitzereien. Die Kirche war Zentrum der Franziskanermissionen und spielte eine Rolle in der regionalen Geschichte. Sie überstand mehrere Überschwemmungen des Paraná-Flusses. Die Krypta enthält Überreste von Kolonialbeamten und ein Museum zur Stadtgeschichte.",
+      hu: "A corrientesi San Francisco-templom Argentína egyik legrégibb temploma, építése 1588-ban kezdődött és 1602-ben fejeződött be. Stílusa a barokk és a neoklasszicista elemek keveréke, homlokzata vörös téglából készült. Belsejében értékes gyarmati kori műkincsek találhatók, köztük festmények és fafaragások. A templom a ferences missziók központja volt, és fontos szerepet játszott a régió történelmében. Többször is ellenállt a Paraná folyó áradásainak. A kriptában gyarmati tisztviselők maradványai és egy várostörténeti múzeum található.",
+      ro: "Biserica San Francisco din Corrientes este una dintre cele mai vechi biserici din Argentina, construcția sa începând în 1588 și fiind finalizată în 1602. Stilul arhitectural îmbină elemente baroce și neoclasice, cu o fațadă distinctivă din cărămidă roșie. Interiorul adăpostește lucrări de artă valoroase din perioada colonială, inclusiv picturi religioase și sculpturi în lemn. Biserica a fost centrul misiunilor franciscane și a avut un rol important în istoria regiunii. A supraviețuit mai multor inundații ale râului Paraná. Cripta conține rămășițe ale oficialilor coloniali și un muzeu de istorie urbană.",
+      en: "The San Francisco Church in Corrientes is one of Argentina's oldest churches, with construction starting in 1588 and completing in 1602. Its architecture blends Baroque and Neoclassical elements, featuring a distinctive red brick façade. The interior houses significant colonial-era artworks, including religious paintings and woodcarvings. The church served as a center for Franciscan missions and played a role in regional history. It has withstood multiple floods of the Paraná River. The crypt contains remains of colonial officials and a museum of urban history.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1588–1602", "Höhe des Glockenturms: 38 m", "Länge des Kirchenschiffs: 52 m", "Maximale Kapazität: 800 Personen", "Anzahl der Altäre: 5", "Restaurierung: 1970–1975"],
+      hu: ["Építés éve: 1588–1602", "Harangtorony magassága: 38 m", "Hajó hossza: 52 m", "Befogadóképesség: 800 fő", "Oltárok száma: 5", "Felújítás: 1970–1975"],
+      ro: ["An construcție: 1588–1602", "Înălțimea turnului clopotniță: 38 m", "Lungimea navei: 52 m", "Capacitate maximă: 800 persoane", "Număr de altare: 5", "Restaurare: 1970–1975"],
+      en: ["Year built: 1588–1602", "Bell tower height: 38 m", "Nave length: 52 m", "Maximum capacity: 800 people", "Number of altars: 5", "Restoration: 1970–1975"],
+    },
   },
   {
     id: "argentina-casa-del-virrey-cordoba-history-v2",
     type: "palace",
     name: { de: "Haus des Vizekönigs (Córdoba)", hu: "Alkirály háza (Córdoba)", ro: "Casa Viceregelui (Córdoba)", en: "House of the Viceroy (Córdoba)" },
-    coordinates: { lat: -31.42, lng: -64.18 },
+    coords: [-64.18, -31.42],
     description: {
       de: "Ein historisches Gebäude in Córdoba, das eng mit der Verwaltungsgeschichte des Vizekönigreichs des Río de la Plata verknüpft ist.",
       hu: "Egy történelmi épület Córdobában, amely szorosan kapcsolódik a Río de la Plata alkirályság közigazgatási történetéhez.",
@@ -1487,12 +1511,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Location Córdoba", "Viceroyalty of the Río de la Plata", "Administrative history", "Colonial building"],
     },
     imageHint: "colonial Viceroy House Cordoba",
+    descriptionAdvanced: {
+      de: "Die Casa del Virrey in Córdoba wurde 1587 erbaut und diente als Residenz des Vizekönigs Juan Ramírez de Velasco, dem Gründer der Stadt. Das Gebäude im Kolonialstil mit Innenhof und Holzbalkonen ist eines der ältesten erhaltenen Wohnhäuser Argentiniens. Es beherbergt heute ein Museum zur Kolonialgeschichte und zeigt Möbel, Gemälde und Haushaltsgegenstände aus dem 16. und 17. Jahrhundert. Die Casa del Virrey war Zeuge der politischen und sozialen Entwicklung der Region und ist ein wichtiges Denkmal der Stadt Córdoba.",
+      hu: "A cordobai Casa del Virrey 1587-ben épült, és Juan Ramírez de Velasco alkirály, a város alapítójának rezidenciájaként szolgált. Az épület gyarmati stílusú, belső udvarral és faerkélyekkel, Argentína egyik legrégebbi fennmaradt lakóháza. Ma a gyarmati kori történelem múzeuma, amely 16. és 17. századi bútorokat, festményeket és háztartási eszközöket mutat be. A Casa del Virrey tanúja volt a régió politikai és társadalmi fejlődésének, és Córdoba fontos műemléke.",
+      ro: "Casa del Virrey din Córdoba a fost construită în 1587 și a servit drept reședință a viceregelui Juan Ramírez de Velasco, fondatorul orașului. Clădirea în stil colonial, cu curte interioară și balcoane de lemn, este una dintre cele mai vechi case locuite păstrate din Argentina. Astăzi adăpostește un muzeu de istorie colonială, expunând mobilier, picturi și obiecte de uz casnic din secolele XVI și XVII. Casa del Virrey a fost martoră a dezvoltării politice și sociale a regiunii și este un monument important al orașului Córdoba.",
+      en: "The Casa del Virrey in Córdoba was built in 1587 and served as the residence of Viceroy Juan Ramírez de Velasco, founder of the city. The colonial-style building with an inner courtyard and wooden balconies is one of the oldest surviving houses in Argentina. It now houses a museum of colonial history, showcasing furniture, paintings, and household items from the 16th and 17th centuries. The Casa del Virrey witnessed the political and social development of the region and is an important landmark of Córdoba.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1587", "Anzahl der Zimmer: 14", "Fläche: 680 m²", "Erste Restaurierung: 1940", "Architekturstil: Kolonial", "Ziegelsteindicke der Mauern: 0,6 m"],
+      hu: ["Építés éve: 1587", "Szobák száma: 14", "Terület: 680 m²", "Első felújítás: 1940", "Építészeti stílus: gyarmati", "Falak vastagsága: 0,6 m"],
+      ro: ["An construcție: 1587", "Număr de camere: 14", "Suprafață: 680 m²", "Prima restaurare: 1940", "Stil arhitectural: colonial", "Grosimea pereților: 0,6 m"],
+      en: ["Year built: 1587", "Number of rooms: 14", "Area: 680 m²", "First restoration: 1940", "Architectural style: Colonial", "Wall thickness: 0.6 m"],
+    },
   },
   {
     id: "argentina-fuerte-san-nicolas-history-v2",
     type: "monument",
     name: { de: "Fuerte San Nicolás", hu: "Fuerte San Nicolás", ro: "Fuerte San Nicolás", en: "Fuerte San Nicolás" },
-    coordinates: { lat: -33.33, lng: -60.2 },
+    coords: [-60.2, -33.33],
     description: {
       de: "Historische Befestigung nahe der Stadt San Nicolás, die zur Zeit der Unabhängigkeitskämpfe von strategischer Bedeutung war.",
       hu: "Történelmi erődítmény San Nicolás városa közelében, amely a függetlenségi harcok idején stratégiai jelentőséggel bírt.",
@@ -1506,12 +1542,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Buenos Aires Province", "Independence struggles", "Strategic defense point", "Historic site"],
     },
     imageHint: "Fuerte San Nicolas remains",
+    descriptionAdvanced: {
+      de: "Das Fuerte San Nicolás, 1748 am Ufer des Río de la Plata erbaut, war eine der ersten militärischen Befestigungen der Region. Es diente dem Schutz vor portugiesischen Angriffen und war Ausgangspunkt für die Gründung der Stadt San Nicolás de los Arroyos. Die Festung bestand aus einem Erdwall und einer Palisade, später wurde sie durch Steinmauern verstärkt. Heute sind nur noch Ruinen erhalten, die als historische Stätte geschützt sind. Das Fort spielte eine Rolle im Unabhängigkeitskrieg und wurde 1813 von den Patrioten genutzt.",
+      hu: "A Fuerte San Nicolás 1748-ban épült a Río de la Plata partján, és a régió egyik első katonai erődítménye volt. Portugál támadások elleni védelemre szolgált, és kiindulópontja volt San Nicolás de los Arroyos város alapításának. Az erőd földsáncból és palánkból állt, később kőfalakkal erősítették meg. Ma már csak romok maradtak, amelyek védett történelmi helyszínek. Az erőd szerepet játszott a függetlenségi háborúban, és 1813-ban a hazafiak használták.",
+      ro: "Fuerte San Nicolás, construit în 1748 pe malul Río de la Plata, a fost una dintre primele fortificații militare ale regiunii. A servit la apărarea împotriva atacurilor portugheze și a fost punctul de plecare pentru fondarea orașului San Nicolás de los Arroyos. Fortul consta dintr-un val de pământ și o palisadă, ulterior fiind întărit cu ziduri de piatră. Astăzi, doar ruinele au rămas, protejate ca sit istoric. Fortul a jucat un rol în războiul de independență și a fost folosit de patrioți în 1813.",
+      en: "Fuerte San Nicolás, built in 1748 on the banks of the Río de la Plata, was one of the first military fortifications in the region. It served to protect against Portuguese attacks and was the starting point for the foundation of the city of San Nicolás de los Arroyos. The fort consisted of an earthwork and palisade, later reinforced with stone walls. Today only ruins remain, protected as a historic site. The fort played a role in the War of Independence and was used by patriots in 1813.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1748", "Ursprüngliche Fläche: 1,2 ha", "Höhe der Erdwälle: 4 m", "Zahl der Kanonen: 12", "Erste Steinmauer: 1760", "Nationales Denkmal seit: 1942"],
+      hu: ["Építés éve: 1748", "Eredeti terület: 1,2 ha", "Földsáncok magassága: 4 m", "Ágyúk száma: 12", "Első kőfal: 1760", "Nemzeti emlékhely: 1942"],
+      ro: ["An construcție: 1748", "Suprafață inițială: 1,2 ha", "Înălțimea valurilor de pământ: 4 m", "Număr de tunuri: 12", "Primul zid de piatră: 1760", "Monument național din: 1942"],
+      en: ["Year built: 1748", "Original area: 1.2 ha", "Height of earthworks: 4 m", "Number of cannons: 12", "First stone wall: 1760", "National monument since: 1942"],
+    },
   },
   {
     id: "argentina-ruinas-de-iglesia-misiones-history-v2",
     type: "ruins",
     name: { de: "Kirchenruinen der Misiones (Misiones)", hu: "Misiones templomromjai", ro: "Ruinele bisericilor din Misiones", en: "Church Ruins of Misiones" },
-    coordinates: { lat: -27.5, lng: -55.5 },
+    coords: [-55.5, -27.5],
     description: {
       de: "Die Überreste weiterer Jesuitenreduktionen in der Provinz Misiones. Sie sind Zeugnisse eines sozialen und religiösen Experiments in der Kolonialzeit.",
       hu: "További jezsuita missziók maradványai Misiones tartományban. A gyarmati kori társadalmi és vallási kísérlet tanúi.",
@@ -1525,12 +1573,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Misiones Province", "Jesuit experiment", "Colonial architecture", "World cultural heritage"],
     },
     imageHint: "Jesuit ruin Misiones Argentina",
+    descriptionAdvanced: {
+      de: "Die Ruinas de Iglesia, Überreste einer Jesuitenmission in der Provinz Misiones, stammen aus dem frühen 17. Jahrhundert. Die Mission San Ignacio Miní war eine der größten Reduktionen der Jesuiten, die 1632 gegründet und 1767 nach der Vertreibung der Jesuiten aufgegeben wurde. Die Ruinen umfassen eine beeindruckende Steinkirche mit barocken Verzierungen, Wohngebäude und landwirtschaftliche Anlagen. Sie sind Teil des UNESCO-Welterbes „Jesuitenreduktionen der Guaraní“. Die Stätte zeigt die kulturelle Verschmelzung von europäischer und indigener Guaraní-Kunst.",
+      hu: "A Ruinas de Iglesia, egy jezsuita misszió maradványai Misiones tartományban, a 17. század elejéről származnak. A San Ignacio Miní misszió a jezsuiták egyik legnagyobb redukciója volt, amelyet 1632-ben alapítottak, és 1767-ben, a jezsuiták kiűzése után hagytak el. A romok közé tartozik egy lenyűgöző kőtemplom barokk díszítéssel, lakóépületek és mezőgazdasági létesítmények. A helyszín az UNESCO világörökség része („Jezsuita redukciók a guaranik földjén”). Az épületek az európai és az őslakos guaraní művészet összeolvadását mutatják.",
+      ro: "Ruinas de Iglesia, rămășițe ale unei misiuni iezuite din provincia Misiones, datează de la începutul secolului al XVII-lea. Misiunea San Ignacio Miní a fost una dintre cele mai mari reducții iezuite, fondată în 1632 și abandonată în 1767 după expulzarea iezuiților. Ruinele includ o biserică de piatră impresionantă cu ornamentații baroce, clădiri de locuit și instalații agricole. Situl face parte din Patrimoniul Mondial UNESCO „Reducțiile iezuite ale guaraniilor”. Acesta ilustrează fuziunea culturală dintre arta europeană și cea indigenă guarani.",
+      en: "The Ruinas de Iglesia, remains of a Jesuit mission in Misiones province, date from the early 17th century. The San Ignacio Miní mission was one of the largest Jesuit reductions, founded in 1632 and abandoned in 1767 after the expulsion of the Jesuits. The ruins include an impressive stone church with Baroque ornamentation, residential buildings, and agricultural installations. The site is part of the UNESCO World Heritage Site 'Jesuit Missions of the Guaranis'. It showcases the cultural fusion of European and indigenous Guaraní art.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1632", "Aufgabe: 1767", "Fläche der Anlage: 15 ha", "Höhe der Kirchenruine: 25 m", "Anzahl der Wohnblocks: 20", "UNESCO-Welterbe seit: 1983"],
+      hu: ["Alapítás éve: 1632", "Elhagyás: 1767", "Terület: 15 ha", "Templomrom magassága: 25 m", "Lakótömbök száma: 20", "UNESCO világörökség: 1983"],
+      ro: ["An fondare: 1632", "Abandon: 1767", "Suprafață sit: 15 ha", "Înălțimea ruinelor bisericii: 25 m", "Număr de blocuri rezidențiale: 20", "Patrimoniu UNESCO din: 1983"],
+      en: ["Year founded: 1632", "Abandoned: 1767", "Site area: 15 ha", "Height of church ruins: 25 m", "Number of residential blocks: 20", "UNESCO World Heritage since: 1983"],
+    },
   },
   {
     id: "argentina-cabildo-de-cordoba-history-v2",
     type: "palace",
     name: { de: "Cabildo von Córdoba", hu: "Córdobai Cabildo", ro: "Cabildo din Córdoba", en: "Cabildo of Córdoba" },
-    coordinates: { lat: -31.41, lng: -64.18 },
+    coords: [-64.18, -31.41],
     description: {
       de: "Eines der bedeutendsten kolonialen Verwaltungsgebäude in Córdoba. Es diente als politisches Zentrum während der spanischen Herrschaft.",
       hu: "Córdoba egyik legjelentősebb gyarmati közigazgatási épülete. Politikai központként szolgált a spanyol uralom alatt.",
@@ -1544,12 +1604,24 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Location Córdoba", "Colonial administrative center", "Spanish rule", "Historic monument"],
     },
     imageHint: "Cabildo of Cordoba colonial building",
+    descriptionAdvanced: {
+      de: "Das Cabildo de Córdoba, erbaut zwischen 1587 und 1597, war das historische Rathaus und Sitz des Stadtrats während der Kolonialzeit. Es ist eines der ältesten zivilen Gebäude Argentiniens und vereint koloniale und neoklassizistische Stilelemente. Der Glockenturm wurde 1783 hinzugefügt. Das Gebäude diente als Gefängnis, Gericht und öffentlicher Versammlungsort. Heute beherbergt es das Historische Museum der Stadt Córdoba, das Exponate zur lokalen Geschichte zeigt. Der Innenhof mit Orangenbäumen ist eine Oase der Ruhe im Stadtzentrum.",
+      hu: "A Córdoba-i Cabildo 1587 és 1597 között épült, a gyarmati korban a városi tanács székhelye volt. Argentína egyik legrégebbi polgári épülete, amely gyarmati és neoklasszicista stíluselemeket ötvöz. A harangtornyot 1783-ban építették hozzá. Az épület börtönként, bíróságként és nyilvános gyülekezőhelyként szolgált. Ma a Córdoba Várostörténeti Múzeumnak ad otthont, amely a helyi történelemhez kapcsolódó kiállításokat mutat be. A belső udvar narancsfákkal békés oázis a városközpontban.",
+      ro: "Cabildo de Córdoba, construit între 1587 și 1597, a fost primăria istorică și sediul consiliului orășenesc în perioada colonială. Este una dintre cele mai vechi clădiri civile din Argentina, combinând elemente de stil colonial și neoclasic. Turnul clopotniță a fost adăugat în 1783. Clădirea a servit drept închisoare, tribunal și loc de întrunire publică. Astăzi găzduiește Muzeul Istoric al orașului Córdoba, cu exponate despre istoria locală. Curtea interioară cu portocali este o oază de liniște în centrul orașului.",
+      en: "The Cabildo de Córdoba, built between 1587 and 1597, was the historic town hall and seat of the city council during colonial times. It is one of the oldest civil buildings in Argentina, blending colonial and neoclassical style elements. The bell tower was added in 1783. The building served as a prison, courthouse, and public meeting place. Today it houses the Historical Museum of the City of Córdoba, exhibiting items related to local history. The inner courtyard with orange trees is a peaceful oasis in the city center.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1587–1597", "Glockenturm hinzugefügt: 1783", "Anzahl der Zellen im Gefängnis: 12", "Größe des Innenhofs: 300 m²", "Höhe des Turms: 30 m", "Nationales Historisches Denkmal seit: 1941"],
+      hu: ["Építési idő: 1587–1597", "Harangtorony hozzáadva: 1783", "Börtöncellák száma: 12", "Belső udvar mérete: 300 m²", "Torony magassága: 30 m", "Nemzeti Történelmi Műemlék: 1941"],
+      ro: ["Perioadă construcție: 1587–1597", "Turn clopotniță adăugat: 1783", "Număr de celule de închisoare: 12", "Dimensiune curte interioară: 300 m²", "Înălțimea turnului: 30 m", "Monument Istoric Național din: 1941"],
+      en: ["Construction period: 1587–1597", "Bell tower added: 1783", "Number of prison cells: 12", "Inner courtyard size: 300 m²", "Tower height: 30 m", "National Historic Monument since: 1941"],
+    },
   },
   {
     id: "argentina-museo-nacional-del-cabildo-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum Cabildo (Buenos Aires)", hu: "Cabildo Nemzeti Múzeum (Buenos Aires)", ro: "Muzeul Național Cabildo (Buenos Aires)", en: "National Cabildo Museum (Buenos Aires)" },
-    coordinates: { lat: -34.61, lng: -58.37 },
+    coords: [-58.37, -34.61],
     description: {
       de: "Dieses historische Gebäude in Buenos Aires war der Ort, an dem die Mai-Revolution 1810 ihren Anfang nahm. Es dient heute als Museum.",
       hu: "Ez a Buenos Aires-i történelmi épület volt az a hely, ahol az 1810-es májusi forradalom kezdődött. Ma múzeumként szolgál.",
@@ -1563,6 +1635,18 @@ image: "/poi-images/ar-reduccion-yapeyu-history-v2.webp"
       en: ["Location Buenos Aires", "May Revolution 1810", "Historic center", "National museum"],
     },
     imageHint: "National Cabildo Museum Buenos Aires",
+    descriptionAdvanced: {
+      de: "Das Museo Nacional del Cabildo in Buenos Aires befindet sich im historischen Cabildo-Gebäude, das ab 1608 errichtet wurde. Es war der Sitz des Stadtrats von Buenos Aires während der Kolonialzeit und Schauplatz der Mairevolution von 1810. Das Museum zeigt Exponate zur argentinischen Unabhängigkeitsbewegung, darunter Möbel, Gemälde und Waffen. Die Sammlung umfasst auch Gegenstände aus der Zeit des Vizekönigreichs. Das Gebäude mit seinem charakteristischen Turm ist ein Symbol der argentinischen Geschichte und ein nationales Denkmal.",
+      hu: "A Buenos Aires-i Museo Nacional del Cabildo a történelmi Cabildo épületben található, amelyet 1608-ban kezdtek építeni. A gyarmati korban Buenos Aires városi tanácsának székhelye volt, és az 1810-es májusi forradalom színhelye. A múzeum az argentin függetlenségi mozgalom emlékeit mutatja be, köztük bútorokat, festményeket és fegyvereket. A gyűjteményben az alkirályság korszakából származó tárgyak is szerepelnek. A jellegzetes tornyos épület az argentin történelem szimbóluma és nemzeti emlékhely.",
+      ro: "Museo Nacional del Cabildo din Buenos Aires se află în clădirea istorică a Cabildo-ului, a cărei construcție a început în 1608. A fost sediul consiliului orășenesc al Buenos Aires-ului în perioada colonială și scena Revoluției din Mai 1810. Muzeul expune obiecte legate de mișcarea de independență argentiniană, inclusiv mobilier, picturi și arme. Colecția include și piese din epoca viceregatului. Clădirea, cu turnul său caracteristic, este un simbol al istoriei Argentinei și un monument național.",
+      en: "The Museo Nacional del Cabildo in Buenos Aires is located in the historic Cabildo building, construction of which began in 1608. It was the seat of Buenos Aires' city council during colonial times and the scene of the May Revolution of 1810. The museum exhibits items related to the Argentine independence movement, including furniture, paintings, and weapons. The collection also includes objects from the Viceroyalty period. The building, with its characteristic tower, is a symbol of Argentine history and a national monument.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1608", "Mairevolution: 1810", "Anzahl der Ausstellungsräume: 15", "Höhe des Turms: 25 m", "Sammlungsumfang: über 10.000 Objekte", "Nationales Denkmal seit: 1933"],
+      hu: ["Építés kezdete: 1608", "Májusi forradalom: 1810", "Kiállítótermek száma: 15", "Torony magassága: 25 m", "Gyűjtemény mérete: több mint 10.000 tárgy", "Nemzeti emlékhely: 1933"],
+      ro: ["Început construcție: 1608", "Revoluția din Mai: 1810", "Număr de săli de expoziție: 15", "Înălțimea turnului: 25 m", "Mărimea colecției: peste 10.000 de obiecte", "Monument național din: 1933"],
+      en: ["Construction started: 1608", "May Revolution: 1810", "Number of exhibition rooms: 15", "Tower height: 25 m", "Collection size: over 10,000 objects", "National monument since: 1933"],
+    },
   }
 ];
 

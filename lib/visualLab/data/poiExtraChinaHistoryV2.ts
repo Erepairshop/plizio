@@ -727,7 +727,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-yinxu-history-v2",
     type: "ruins",
     name: { de: "Yinxu-Stätte", hu: "Jinhszü régészeti lelőhely", ro: "Situl Yinxu", en: "Yinxu Site" },
-    coordinates: { lat: 36.126, lng: 114.311 },
+    coords: [114.311, 36.126],
     description: {
       de: "Yinxu war die letzte Hauptstadt der späten Shang-Dynastie. Hier wurden die ältesten bekannten Orakelknochen-Inschriften Chinas entdeckt.",
       hu: "Jinhszü a kései Sang-dinasztia utolsó fővárosa volt. Itt fedezték fel Kína legrégebbi ismert jóslócsont-feliratait.",
@@ -758,7 +758,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-daming-palace-history-v2",
     type: "palace",
     name: { de: "Daming-Palast", hu: "Taming-palota", ro: "Palatul Daming", en: "Daming Palace" },
-    coordinates: { lat: 34.288, lng: 108.963 },
+    coords: [108.963, 34.288],
     description: {
       de: "Die Daming-Palastanlage war das prachtvolle Machtzentrum der Tang-Dynastie. Sie galt als eine der größten kaiserlichen Residenzen weltweit.",
       hu: "A Taming-palota a Tang-dinasztia pompás hatalmi központja volt. A világ egyik legnagyobb császári rezidenciájának számított.",
@@ -789,7 +789,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-shanhaiguan-pass-history-v2",
     type: "fortress",
     name: { de: "Shanhaiguan-Pass", hu: "Sanhaiguan-hágó", ro: "Pasul Shanhaiguan", en: "Shanhaiguan Pass" },
-    coordinates: { lat: 40.001, lng: 119.753 },
+    coords: [119.753, 40.001],
     description: {
       de: "Shanhaiguan ist der östliche Endpunkt der Großen Mauer am Bohai-Meer. Er wird oft als der 'Erste Pass unter dem Himmel' bezeichnet.",
       hu: "Sanhaiguan a Nagy Fal keleti végpontja a Bohai-tengernél. Gyakran az 'Ég alatti első hágóként' emlegetik.",
@@ -820,7 +820,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-jiayuguan-pass-history-v2",
     type: "fortress",
     name: { de: "Jiayuguan-Pass", hu: "Csiajuguan-hágó", ro: "Pasul Jiayuguan", en: "Jiayuguan Pass" },
-    coordinates: { lat: 39.811, lng: 98.216 },
+    coords: [98.216, 39.811],
     description: {
       de: "Der Jiayuguan-Pass markiert das westliche Ende der Chinesischen Mauer aus der Ming-Zeit. Er war ein entscheidender Posten an der Seidenstraße.",
       hu: "A Csiajuguan-hágó jelzi a Ming-kori Nagy Fal nyugati végét. A Selyemút egyik legfontosabb ellenőrző pontja volt.",
@@ -851,7 +851,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-chengde-mountain-resort-history-v2",
     type: "palace",
     name: { de: "Sommerresidenz Chengde", hu: "Csengtei nyári rezidencia", ro: "Reședința de vară Chengde", en: "Chengde Mountain Resort" },
-    coordinates: { lat: 42.413, lng: 117.94 },
+    coords: [117.94, 42.413],
     description: {
       de: "Diese weitläufige kaiserliche Anlage diente den Kaisern der Qing-Dynastie als kühle Sommerresidenz außerhalb der Hauptstadt Peking.",
       hu: "Ez a kiterjedt császári komplexum a Csing-dinasztia uralkodóinak nyári rezidenciájaként szolgált Peking közelében.",
@@ -882,7 +882,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-mukden-palace-history-v2",
     type: "palace",
     name: { de: "Mukden-Palast", hu: "Mukdeni palota", ro: "Palatul Mukden", en: "Mukden Palace" },
-    coordinates: { lat: 41.796, lng: 123.45 },
+    coords: [123.45, 41.796],
     description: {
       de: "Der Mukden-Palast war die frühe kaiserliche Residenz der Qing-Dynastie vor ihrer Machtübernahme in Peking. Er liegt im heutigen Shenyang.",
       hu: "A Mukdeni palota a Csing-dinasztia korai császári székhelye volt Peking elfoglalása előtt, Senjang városában.",
@@ -913,7 +913,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-qufu-confucius-temple-history-v2",
     type: "monument",
     name: { de: "Konfuziustempel von Qufu", hu: "Konfuciusz-templom, Csüfu", ro: "Templul lui Confucius din Qufu", en: "Qufu Temple of Confucius" },
-    coordinates: { lat: 35.591, lng: 116.985 },
+    coords: [116.985, 35.591],
     description: {
       de: "Dieser Tempel in Qufu ist das wichtigste Heiligtum für den Philosophen Konfuzius. Die Anlage wurde über Jahrhunderte stetig erweitert.",
       hu: "Ez a csüfui templom Konfuciusz filozófus legfontosabb szentélye. A komplexumot évszázadokon át folyamatosan bővítették.",
@@ -944,7 +944,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-banpo-village-history-v2",
     type: "ruins",
     name: { de: "Banpo-Siedlung", hu: "Banpo neolitikus falu", ro: "Satul neolitic Banpo", en: "Banpo Neolithic Village" },
-    coordinates: { lat: 34.272, lng: 109.051 },
+    coords: [109.051, 34.272],
     description: {
       de: "Banpo ist eine bedeutende archäologische Stätte einer neolithischen Siedlung bei Xi'an. Sie gibt Einblick in die frühe Yangshao-Kultur.",
       hu: "Banpo egy jelentős neolitikus település maradványa Xi'an közelében. Betekintést nyújt a korai Jang-shao kultúra életébe.",
@@ -975,7 +975,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-western-xia-tombs-history-v2",
     type: "ruins",
     name: { de: "Westliche Xia-Gräber", hu: "Nyugati Hszia-sírok", ro: "Mormintele Xia de Vest", en: "Western Xia Tombs" },
-    coordinates: { lat: 38.433, lng: 105.983 },
+    coords: [105.983, 38.433],
     description: {
       de: "Diese Grabanlagen am Fuße der Helan-Berge gehören den Herrschern des Tangutenreiches. Die kegelförmigen Strukturen ähneln Pyramiden.",
       hu: "A Helan-hegység lábánál fekvő sírkomplexum a Tangut Birodalom uralkodóié. Kúpos szerkezeteik piramisokra emlékeztetnek.",
@@ -1006,7 +1006,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-qianling-mausoleum-history-v2",
     type: "monument",
     name: { de: "Qianling-Mausoleum", hu: "Csienling-mauzóleum", ro: "Mausoleul Qianling", en: "Qianling Mausoleum" },
-    coordinates: { lat: 34.571, lng: 108.218 },
+    coords: [108.218, 34.571],
     description: {
       de: "Das Qianling-Mausoleum beherbergt die gemeinsamen Überreste von Kaiser Gaozong und der einzigen Kaiserin Chinas, Wu Zetian.",
       hu: "A Csienling-mauzóleum ad otthont Kao-cung császár és Kína egyetlen császárnője, Vu Cö-tien közös sírjának.",
@@ -1020,12 +1020,24 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: ["Located on Mount Liangshan near Xianyang.", "Famous for Wu Zetian's 'Wordless Stele'.", "Only Tang imperial tomb never plundered.", "Lined with 61 statues of foreign envoys."],
     },
     imageHint: "Qianling Mausoleum Wordless Stele Wu Zetian",
+    descriptionAdvanced: {
+      de: "Das Qianling-Mausoleum ist das Grab von Kaiser Gaozong und seiner Frau Wu Zetian aus der Tang-Dynastie, gelegen im Kreis Qian in der Provinz Shaanxi. Es ist eines der am besten erhaltenen Tang-Gräber und besteht aus einem unterirdischen Palast, der noch nicht vollständig ausgegraben wurde. Der Mausoleumskomplex umfasst mehrere untergeordnete Gräber, darunter das von Prinzessin Yongtai. Berühmt ist die Grabanlage für ihre Steinskulpturen, die eine Prozession von Außenbeamten und Tieren darstellen. Der Grabhügel ist ein natürlicher Berg namens Liangshan. Das Mausoleum wurde im 8. Jahrhundert erbaut. Es ist ein Nationales Kulturdenkmal und eine wichtige Touristenattraktion.",
+      hu: "A Qianling-mauzóleum Gaozong császár és felesége, Vu Cötien sírja a Tang-dinasztiából, Sanhszi tartomány Csien megyéjében. Az egyik legjobban megőrzött Tang-sír, amely egy föld alatti palotából áll, amelyet még nem tártak fel teljesen. A komplexum több melléksírt is magában foglal, köztük Yongtai hercegnőjét. Híres a kőszobrokról, amelyek külföldi tisztviselők és állatok menetét ábrázolják. A sírhalom egy természetes hegy, a Liangshan. A mauzóleum a 8. században épült. Nemzeti kulturális emlék és fontos turistalátványosság.",
+      ro: "Mausoleul Qianling este mormântul împăratului Gaozong și al soției sale Wu Zetian din dinastia Tang, situat în județul Qian, provincia Shaanxi. Este unul dintre cele mai bine conservate morminte Tang, constând dintr-un palat subteran neexcavat complet. Complexul include morminte secundare, precum cel al prințesei Yongtai. Este renumit pentru sculpturile de piatră care înfățișează o procesiune de oficiali străini și animale. Movila mormântului este un munte natural numit Liangshan. Mausoleul a fost construit în secolul al VIII-lea. Este un monument cultural național și o atracție turistică importantă.",
+      en: "The Qianling Mausoleum is the tomb of Emperor Gaozong and his wife Wu Zetian of the Tang Dynasty, located in Qian County, Shaanxi Province. It is one of the best-preserved Tang tombs, featuring an underground palace that has not been fully excavated. The complex includes several satellite tombs, such as that of Princess Yongtai. It is famous for its stone sculptures depicting a procession of foreign officials and animals. The burial mound is a natural hill called Liangshan. The mausoleum was built in the 8th century. It is a major cultural heritage site and tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Das Mausoleum wurde 706 n. Chr. fertiggestellt.", "Die unterirdische Palastfläche beträgt etwa 100.000 m².", "Über 120 Steinskulpturen säumen den Geisterweg.", "Der Hügel Liangshan ist 1.100 Meter hoch.", "Das Grab von Prinzessin Yongtai wurde 1960 ausgegraben.", "Die Anlage ist von einer 4 Kilometer langen Mauer umgeben."],
+      hu: ["A mauzóleum 706-ban készült el.", "A föld alatti palota területe kb. 100.000 m².", "Több mint 120 kőszobor szegélyezi a szellem utat.", "A Liangshan domb 1.100 méter magas.", "Yongtai hercegnő sírját 1960-ban tárták fel.", "A komplexumot 4 km hosszú fal veszi körül."],
+      ro: ["Mausoleul a fost finalizat în anul 706.", "Suprafața palatului subteran este de ~100.000 m².", "Peste 120 de sculpturi de piatră aliniază drumul spiritelor.", "Dealul Liangshan are 1.100 m înălțime.", "Mormântul prințesei Yongtai a fost excavat în 1960.", "Complexul este înconjurat de un zid de 4 km."],
+      en: ["Mausoleum completed in 706 AD.", "Underground palace area ~100,000 m².", "Over 120 stone sculptures along spirit path.", "Liangshan hill: 1,100 m high.", "Princess Yongtai's tomb excavated in 1960.", "Surrounded by a 4 km long wall."],
+    },
   },
   {
     id: "china-hanyangling-museum-history-v2",
     type: "museum",
     name: { de: "Han Yang Ling Museum", hu: "Han Jang-ling Múzeum", ro: "Muzeul Han Yang Ling", en: "Han Yang Ling Museum" },
-    coordinates: { lat: 34.444, lng: 108.932 },
+    coords: [108.932, 34.444],
     description: {
       de: "Dieses unterirdische Museum zeigt das gemeinsame Grab von Kaiser Jingdi und Kaiserin Wang aus der Han-Dynastie in einem gläsernen Gang.",
       hu: "Ez a föld alatti múzeum Csing-ti császár és Vang császárné közös sírját mutatja be üvegpadlós folyosókon keresztül.",
@@ -1056,7 +1068,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-diaoyu-fortress-history-v2",
     type: "fortress",
     name: { de: "Diaoyu-Festung", hu: "Tiaojü-erőd", ro: "Cetatea Diaoyu", en: "Diaoyu Fortress" },
-    coordinates: { lat: 30.003, lng: 106.311 },
+    coords: [106.311, 30.003],
     description: {
       de: "Die Diaoyu-Festung ist berühmt für ihren erbitterten Widerstand gegen die mongolischen Invasoren während der Song-Dynastie.",
       hu: "A Tiaojü-erőd a mongol hódítók elleni elszánt ellenállásáról híres a Szung-dinasztia idején.",
@@ -1087,7 +1099,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-cpc-first-congress-site-history-v2",
     type: "museum",
     name: { de: "Ort des 1. KP-Parteitags", hu: "A KKP 1. kongresszusának helyszíne", ro: "Situl primului congres al PCC", en: "Site of the First CPC National Congress" },
-    coordinates: { lat: 31.219, lng: 121.474 },
+    coords: [121.474, 31.219],
     description: {
       de: "In diesem traditionellen Shikumen-Haus in Shanghai wurde 1921 die Kommunistische Partei Chinas offiziell gegründet.",
       hu: "Ebben a hagyományos sanghaji Shikumen-házban alapították meg hivatalosan 1921-ben a Kínai Kommunista Pártot.",
@@ -1118,7 +1130,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-presidential-palace-nanjing-history-v2",
     type: "palace",
     name: { de: "Präsidentenpalast Nanjing", hu: "Elnöki Palota, Nanking", ro: "Palatul Prezidențial din Nanjing", en: "Presidential Palace, Nanjing" },
-    coordinates: { lat: 32.045, lng: 118.793 },
+    coords: [118.793, 32.045],
     description: {
       de: "Der Palast in Nanjing war der Sitz des Präsidenten der Republik China vor 1949 und ist heute ein Museum für moderne Geschichte.",
       hu: "A nankingi palota a Kínai Köztársaság elnöki székhelye volt 1949 előtt, ma modern történelmi múzeum.",
@@ -1149,7 +1161,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-sun-yat-sen-mausoleum-history-v2",
     type: "monument",
     name: { de: "Sun-Yat-sen-Mausoleum", hu: "Szun Jat-szen-mauzóleum", ro: "Mausoleul lui Sun Yat-sen", en: "Sun Yat-sen Mausoleum" },
-    coordinates: { lat: 32.062, lng: 118.848 },
+    coords: [118.848, 32.062],
     description: {
       de: "Diese monumentale Grabstätte am Purpurnen Berg in Nanjing ist Dr. Sun Yat-sen, dem Gründervater des modernen Chinas, gewidmet.",
       hu: "A nankingi Bíbor-hegyen található monumentális síremléket Dr. Szun Jat-szennek, a modern Kína atyjának szentelték.",
@@ -1180,7 +1192,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-whampoa-military-academy-history-v2",
     type: "university",
     name: { de: "Whampoa-Militärakademie", hu: "Vampoa Katonai Akadémia", ro: "Academia Militară Whampoa", en: "Whampoa Military Academy" },
-    coordinates: { lat: 23.085, lng: 113.421 },
+    coords: [113.421, 23.085],
     description: {
       de: "Die Whampoa-Akademie in Guangzhou war die Kaderschmiede für viele bedeutende militärische Führer des modernen Chinas.",
       hu: "A kantoni Vampoa Akadémia a modern Kína számos jelentős katonai vezetőjének kiképzőhelye volt.",
@@ -1211,7 +1223,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-humen-forts-history-v2",
     type: "fortress",
     name: { de: "Humen-Festungen", hu: "Humeni erődök", ro: "Forturile Humen", en: "Humen Forts" },
-    coordinates: { lat: 22.793, lng: 113.626 },
+    coords: [113.626, 22.793],
     description: {
       de: "Die Humen-Festungen bewachten den Eingang zum Perlfluss und waren Schauplatz entscheidender Kämpfe während der Opiumkriege.",
       hu: "A humeni erődök a Gyöngy-folyó torkolatát védték, és az ópiumháborúk döntő csatáinak helyszínei voltak.",
@@ -1242,7 +1254,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-yueyang-tower-history-v2",
     type: "tower",
     name: { de: "Yueyang-Turm", hu: "Jüejang-torony", ro: "Turnul Yueyang", en: "Yueyang Tower" },
-    coordinates: { lat: 29.385, lng: 113.088 },
+    coords: [113.088, 29.385],
     description: {
       de: "Der Yueyang-Turm ist einer der drei großen Türme Südchinas und blickt auf den riesigen Dongting-See.",
       hu: "A jüejangi torony Dél-Kína három nagy tornyának egyike, amely a hatalmas Tungting-tóra néz.",
@@ -1256,12 +1268,24 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: ["Famous for the essay by Fan Zhongyan.", "Originally a military training platform.", "Built without using a single nail.", "Offers spectacular views of Dongting Lake."],
     },
     imageHint: "Yueyang Tower ancient architecture lake",
+    descriptionAdvanced: {
+      de: "Der Yueyang-Turm ist ein historischer Turm in der Stadt Yueyang in der Provinz Hunan am Ufer des Dongting-Sees. Er wurde erstmals während der Tang-Dynastie erbaut und später während der Song-Dynastie wieder aufgebaut. Der Turm ist berühmt für das Gedicht 'Auf dem Yueyang-Turm' von Fan Zhongyan, das ihn zu einer kulturellen Ikone machte. Der Turm bietet einen Panoramablick über den Dongting-See. Er ist ein Holzbau mit drei Stockwerken und einer Höhe von 19,42 Metern. Der Yueyang-Turm ist einer der drei großen berühmten Türme südlich des Jangtse. Er wurde mehrfach zerstört und wiederaufgebaut. Heute ist er ein Nationales Kulturdenkmal.",
+      hu: "A Yueyang-torony egy történelmi torony Yueyang városában, Hunan tartományban, a Dongting-tó partján. Először a Tang-dinasztia idején épült, később a Song-dinasztia alatt építették újjá. A torony híres Fan Zhongyan 'A Yueyang-toronynál' című verséről, amely kulturális ikonná tette. A torony panorámás kilátást nyújt a Dongting-tóra. Háromszintes faépület, magassága 19,42 méter. A Yueyang-torony a három híres déli torony egyike. Többször elpusztult és újjáépült. Ma nemzeti kulturális emlék.",
+      ro: "Turnul Yueyang este un turn istoric din orașul Yueyang, provincia Hunan, pe malul Lacului Dongting. A fost construit pentru prima dată în dinastia Tang și reconstruit în dinastia Song. Este celebru pentru poemul lui Fan Zhongyan, care l-a făcut o icoană culturală. Turnul oferă o panoramă a Lacului Dongting. Este o structură din lemn cu trei etaje, înaltă de 19,42 m. Este unul dintre cele trei mari turnuri celebre de la sud de Yangtze. A fost distrus și reconstruit de mai multe ori. Astăzi este un monument cultural național.",
+      en: "Yueyang Tower is a historic tower in Yueyang City, Hunan Province, on the shores of Dongting Lake. First built during the Tang Dynasty and rebuilt in the Song Dynasty, it is famous for Fan Zhongyan's essay 'On Yueyang Tower', which elevated its cultural status. The tower offers panoramic views of Dongting Lake. It is a three-story wooden structure, 19.42 meters high. It is one of the Three Great Towers of southern China. The tower has been destroyed and rebuilt several times. It is now a National Key Cultural Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Der Turm hat eine Höhe von 19,42 Metern.", "Er wurde ursprünglich während der Tang-Dynastie (618–907) erbaut.", "Der Turm hat drei Stockwerke.", "Das berühmte Gedicht stammt aus dem Jahr 1044.", "Der Dongting-See ist der zweitgrößte Süßwassersee Chinas.", "Der Turm wurde 1978 nach einem Brand restauriert."],
+      hu: ["A torony magassága 19,42 méter.", "Eredetileg a Tang-dinasztia idején (618-907) épült.", "Három emeletből áll.", "A híres vers 1044-ből származik.", "A Dongting-tó Kína második legnagyobb édesvizű tava.", "A tornyot 1978-ban restaurálták egy tűzvész után."],
+      ro: ["Înălțimea turnului: 19,42 m.", "Construit inițial în dinastia Tang (618-907).", "Are trei etaje.", "Poemul celebru datează din 1044.", "Lacul Dongting este al doilea lac de apă dulce ca mărime din China.", "Turnul a fost restaurat în 1978 după un incendiu."],
+      en: ["Height: 19.42 m.", "First built during Tang Dynasty (618–907).", "Three stories.", "Famous essay from 1044.", "Dongting Lake: China's second largest freshwater lake.", "Restored in 1978 after a fire."],
+    },
   },
   {
     id: "china-yellow-crane-tower-history-v2",
     type: "tower",
     name: { de: "Gelbe Kranich-Pagode", hu: "Sárga Daru torony", ro: "Turnul Macaralei Galbene", en: "Yellow Crane Tower" },
-    coordinates: { lat: 30.545, lng: 114.301 },
+    coords: [114.301, 30.545],
     description: {
       de: "Die Gelbe Kranich-Pagode in Wuhan ist ein historisches Wahrzeichen, das durch zahlreiche klassische Gedichte verewigt wurde.",
       hu: "A vuhani Sárga Daru torony történelmi jelkép, amelyet számos klasszikus vers örökített meg.",
@@ -1292,7 +1316,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-tengwang-pavilion-history-v2",
     type: "tower",
     name: { de: "Tengwang-Pavillon", hu: "Teng-vang pavilon", ro: "Pavilionul Tengwang", en: "Tengwang Pavilion" },
-    coordinates: { lat: 28.682, lng: 115.875 },
+    coords: [115.875, 28.682],
     description: {
       de: "Der Tengwang-Pavillon in Nanchang ist ein Meisterwerk der Tang-Architektur und bekannt für seine literarische Bedeutung.",
       hu: "A nancshangi Teng-vang pavilon a Tang-kori építészet remekműve, amely irodalmi jelentőségéről is híres.",
@@ -1311,7 +1335,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-zhaozhou-bridge-history-v2",
     type: "bridge",
     name: { de: "Zhaozhou-Brücke", hu: "Csao-csou híd", ro: "Podul Zhaozhou", en: "Zhaozhou Bridge" },
-    coordinates: { lat: 37.744, lng: 114.757 },
+    coords: [114.757, 37.744],
     description: {
       de: "Die Zhaozhou-Brücke ist die älteste erhaltene Steinbogenbrücke Chinas und ein Geniestreich antiker Ingenieurskunst.",
       hu: "A Csao-csou híd Kína legrégebbi fennmaradt kőívhídja, az ókori mérnöki tudomány remekműve.",
@@ -1342,7 +1366,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-liangzhu-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Liangzhu", hu: "Liang-csu ősi városa", ro: "Orașul antic Liangzhu", en: "Liangzhu Ancient City" },
-    coordinates: { lat: 30.395, lng: 119.988 },
+    coords: [119.988, 30.395],
     description: {
       de: "Die Ausgrabungsstätte Liangzhu belegt eine hochentwickelte Zivilisation am Unterlauf des Jangtse vor über 5.000 Jahren.",
       hu: "A Liang-csu régészeti terület egy fejlett civilizáció bizonyítéka a Jangce alsó folyásánál, 5000 évvel ezelőttről.",
@@ -1373,7 +1397,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-erlitou-site-history-v2",
     type: "ruins",
     name: { de: "Erlitou-Stätte", hu: "Erlitou régészeti helyszín", ro: "Situl Erlitou", en: "Erlitou Site" },
-    coordinates: { lat: 34.7, lng: 112.697 },
+    coords: [112.697, 34.7],
     description: {
       de: "Erlitou gilt als wichtiges Zentrum der frühen Bronzezeit und wird oft mit der legendären Xia-Dynastie in Verbindung gebracht.",
       hu: "Erlitou a korai bronzkor fontos központja volt, és gyakran a legendás Hszia-dinasztiával azonosítják.",
@@ -1404,7 +1428,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-nanyue-king-mausoleum-history-v2",
     type: "museum",
     name: { de: "Mausoleum des Nanyue-Königs", hu: "Nanjüe király mauzóleuma", ro: "Mausoleul regelui Nanyue", en: "Mausoleum of the Nanyue King" },
-    coordinates: { lat: 23.131, lng: 113.256 },
+    coords: [113.256, 23.131],
     description: {
       de: "In diesem Museum in Guangzhou befindet sich das intakte Felsgrab von Zhao Mo, dem zweiten Herrscher des Nanyue-Reiches.",
       hu: "Ez a kantoni múzeum Csao Mo, a Nanjüe-birodalom második uralkodójának érintetlen sziklasírját őrzi.",
@@ -1435,7 +1459,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-white-horse-temple-history-v2",
     type: "temple",
     name: { de: "Baima-Tempel", hu: "Fehér Ló templom", ro: "Templul Calului Alb", en: "White Horse Temple" },
-    coordinates: { lat: 34.721, lng: 112.603 },
+    coords: [112.603, 34.721],
     description: {
       de: "Der Baima-Tempel in Luoyang gilt traditionell als der erste buddhistische Tempel, der in China errichtet wurde.",
       hu: "A lojangi Fehér Ló templomot tartják hagyományosan az első Kínában alapított buddhista templomnak.",
@@ -1466,7 +1490,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-shaolin-monastery-history-v2",
     type: "temple",
     name: { de: "Shaolin-Kloster", hu: "Saolin kolostor", ro: "Mănăstirea Shaolin", en: "Shaolin Monastery" },
-    coordinates: { lat: 34.504, lng: 112.939 },
+    coords: [112.939, 34.504],
     description: {
       de: "Das Shaolin-Kloster am Berg Songshan ist weltberühmt als Geburtsstätte des Chan-Buddhismus und der Shaolin-Kampfkünste.",
       hu: "A Szungsan-hegynél fekvő Saolin kolostor a csan-buddhizmus és a saolin harcművészetek bölcsőjeként világhírű.",
@@ -1497,7 +1521,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-lijiang-ancient-town-history-v2",
     type: "town",
     name: { de: "Altstadt von Lijiang", hu: "Licsiang óvárosa", ro: "Orașul vechi Lijiang", en: "Ancient City of Lijiang" },
-    coordinates: { lat: 26.872, lng: 100.233 },
+    coords: [100.233, 26.872],
     description: {
       de: "Lijiang ist eine gut erhaltene historische Stadt in Yunnan, die für ihr ausgeklügeltes Kanalsystem und die Naxi-Kultur bekannt ist.",
       hu: "Licsiang egy jól megőrzött történelmi város Jünnanban, amely csatornarendszeréről és a nakszi kultúráról híres.",
@@ -1528,7 +1552,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-dali-ancient-town-history-v2",
     type: "town",
     name: { de: "Altstadt von Dali", hu: "Tali óvárosa", ro: "Orașul vechi Dali", en: "Ancient City of Dali" },
-    coordinates: { lat: 25.698, lng: 100.163 },
+    coords: [100.163, 25.698],
     description: {
       de: "Dali war die Hauptstadt der Königreiche Nanzhao und Dali und liegt malerisch zwischen dem Erhai-See und dem Cangshan-Gebirge.",
       hu: "Tali a Nancsao és a Tali királyságok fővárosa volt, az Erhai-tó és a Cangshan-hegység között fekszik.",
@@ -1547,7 +1571,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-fenghuang-ancient-town-history-v2",
     type: "town",
     name: { de: "Fenghuang-Altstadt", hu: "Fenghuang óvárosa", ro: "Orașul vechi Fenghuang", en: "Fenghuang Ancient Town" },
-    coordinates: { lat: 27.948, lng: 109.599 },
+    coords: [109.599, 27.948],
     description: {
       de: "Fenghuang ist eine historische Stadt in Hunan, bekannt für ihre hölzernen Pfahlhäuser am Flussufer des Tuojiang.",
       hu: "Fenghuang egy történelmi város Hunanban, amely a Tuojiang-folyó menti cölöpökre épült faházairól ismert.",
@@ -1566,7 +1590,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-xidi-village-history-v2",
     type: "village",
     name: { de: "Dorf Xidi", hu: "Hsziti falu", ro: "Satul Xidi", en: "Xidi Village" },
-    coordinates: { lat: 29.905, lng: 117.991 },
+    coords: [117.991, 29.905],
     description: {
       de: "Xidi ist ein außergewöhnliches Beispiel für ein traditionelles chinesisches Dorf mit Architektur aus der Ming- und Qing-Zeit.",
       hu: "Hsziti a hagyományos kínai falusi építészet kivételes példája a Ming- és Csing-korból.",
@@ -1585,7 +1609,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-ciqikou-ancient-town-history-v2",
     type: "town",
     name: { de: "Ciqikou-Altstadt", hu: "Cecsikou óvárosa", ro: "Orașul vechi Ciqikou", en: "Ciqikou Ancient Town" },
-    coordinates: { lat: 29.584, lng: 106.449 },
+    coords: [106.449, 29.584],
     description: {
       de: "Ciqikou ist ein historisches Viertel in Chongqing, das einst für seine Porzellanproduktion und als Binnenhafen berühmt war.",
       hu: "Cecsikou Csungking történelmi negyede, amely egykor porcelángyártásáról és folyami kikötőjéről volt híres.",
@@ -1616,7 +1640,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-taining-ancient-town-history-v2",
     type: "town",
     name: { de: "Taining-Altstadt", hu: "Tejning óvárosa", ro: "Orașul vechi Taining", en: "Taining Ancient Town" },
-    coordinates: { lat: 26.897, lng: 117.176 },
+    coords: [117.176, 26.897],
     description: {
       de: "Taining in Fujian ist bekannt für seine historischen Residenzen und die einzigartige Verbindung von Architektur und Danxia-Geologie.",
       hu: "A fucsieni Tejning történelmi lakóházairól és az építészet, valamint a Tanszia-geológia különleges kapcsolatáról ismert.",
@@ -1647,7 +1671,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-zhenyuan-ancient-town-history-v2",
     type: "town",
     name: { de: "Zhenyuan-Altstadt", hu: "Csenjüan óvárosa", ro: "Orașul vechi Zhenyuan", en: "Zhenyuan Ancient Town" },
-    coordinates: { lat: 27.053, lng: 108.423 },
+    coords: [108.423, 27.053],
     description: {
       de: "Zhenyuan in Guizhou liegt am Wuyang-Fluss und war über 2.000 Jahre lang ein wichtiger Knotenpunkt auf der Seidenstraße des Südens.",
       hu: "A kujcsoui Csenjüan a Vujang-folyó partján fekszik, és 2000 éven át a déli Selyemút fontos csomópontja volt.",
@@ -1678,7 +1702,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-shawan-ancient-town-history-v2",
     type: "town",
     name: { de: "Shawan-Altstadt", hu: "Savan óvárosa", ro: "Orașul vechi Shawan", en: "Shawan Ancient Town" },
-    coordinates: { lat: 22.903, lng: 113.344 },
+    coords: [113.344, 22.903],
     description: {
       de: "Shawan in Guangzhou ist bekannt für seine gut erhaltene Lingnan-Architektur und seine tiefe Verbindung zur kantonesischen Oper.",
       hu: "A kantoni Savan a jól megőrzött lingnan építészetéről és a kantoni operához fűződő mély kapcsolatairól ismert.",
@@ -1709,7 +1733,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-tunxi-ancient-street-history-v2",
     type: "town",
     name: { de: "Alte Straße von Tunxi", hu: "Tuncsi ősi utca", ro: "Strada veche Tunxi", en: "Tunxi Ancient Street" },
-    coordinates: { lat: 29.715, lng: 118.311 },
+    coords: [118.311, 29.715],
     description: {
       de: "Die Alte Straße von Tunxi in Huangshan ist eine der am besten erhaltenen Geschäftsstraßen aus der Song- und Ming-Dynastie.",
       hu: "A huangsani Tuncsi ősi utca Kína egyik legjobb állapotban fennmaradt Szung- és Ming-kori bevásárlóutcája.",
@@ -1740,7 +1764,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-fuling-tomb-history-v2",
     type: "palace",
     name: { de: "Fuling-Grabmal", hu: "Fuling-sír", ro: "Mormântul Fuling", en: "Fuling Tomb" },
-    coordinates: { lat: 41.826, lng: 123.518 },
+    coords: [123.518, 41.826],
     description: {
       de: "Das Fuling-Grab in Shenyang ist die letzte Ruhestätte von Nurhaci, dem Begründer der späteren Qing-Dynastie.",
       hu: "A senjangi Fuling-sír Nurhaci, a későbbi Csing-dinasztia alapítójának végső nyughelye.",
@@ -1771,7 +1795,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-zhaoling-tomb-history-v2",
     type: "palace",
     name: { de: "Zhaoling-Grabmal", hu: "Csaoling-sír", ro: "Mormântul Zhaoling", en: "Zhaoling Tomb" },
-    coordinates: { lat: 41.849, lng: 123.418 },
+    coords: [123.418, 41.849],
     description: {
       de: "Zhaoling ist das Grab von Hong Taiji, dem zweiten Kaiser der Qing-Dynastie, und befindet sich im Beiling-Park von Shenyang.",
       hu: "Csaoling Hung Taj-csi, a Csing-dinasztia második császárának sírja, amely a senjangi Pejling (Beiling) parkban található.",
@@ -1802,7 +1826,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-genghis-khan-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Dschingis Khan", hu: "Dzsingisz kán mauzóleuma", ro: "Mausoleul lui Genghis Khan", en: "Mausoleum of Genghis Khan" },
-    coordinates: { lat: 39.371, lng: 109.771 },
+    coords: [109.771, 39.371],
     description: {
       de: "Dieses Denkmal in der Inneren Mongolei ist dem legendären mongolischen Eroberer Dschingis Khan gewidmet.",
       hu: "Ez a Belső-Mongóliában található emlékmű a legendás mongol hódítónak, Dzsingisz kánnak állít emléket.",
@@ -1833,7 +1857,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-guanzhong-academy-history-v2",
     type: "university",
     name: { de: "Guanzhong-Akademie", hu: "Kuancsung Akadémia", ro: "Academia Guanzhong", en: "Guanzhong Academy" },
-    coordinates: { lat: 34.256, lng: 108.944 },
+    coords: [108.944, 34.256],
     description: {
       de: "Die Guanzhong-Akademie in Xi'an war eine der renommiertesten Bildungseinrichtungen im Nordwesten Chinas während der Ming-Zeit.",
       hu: "A Hszianban található Kuancsung Akadémia Északnyugat-Kína egyik legnevesebb oktatási intézménye volt a Ming-korban.",
@@ -1864,7 +1888,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-tonglushan-mine-history-v2",
     type: "mine",
     name: { de: "Tonglushan-Kupfermine", hu: "Tunglusan rézbánya", ro: "Mina de cupru Tonglushan", en: "Tonglushan Copper Mine Site" },
-    coordinates: { lat: 30.071, lng: 114.931 },
+    coords: [114.931, 30.071],
     description: {
       de: "Tonglushan ist eine antike Kupfermine bei Daye, die seit über 3.000 Jahren für die Metallgewinnung genutzt wurde.",
       hu: "Tunglusan egy ókori rézbánya Taje (Daye) közelében, amelyet több mint 3000 éven át használtak fémkitermelésre.",
@@ -1895,7 +1919,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-1911-uprising-museum-history-v2",
     type: "museum",
     name: { de: "Museum des Wuchang-Aufstands", hu: "Vucsangi felkelés múzeuma", ro: "Muzeul Revoltei din Wuchang", en: "Museum of the 1911 Uprising" },
-    coordinates: { lat: 30.542, lng: 114.306 },
+    coords: [114.306, 30.542],
     description: {
       de: "Dieses Museum in Wuhan markiert den Beginn der Xinhai-Revolution von 1911, die das Ende des kaiserlichen Chinas herbeiführte.",
       hu: "Ez a vuhani múzeum az 1911-es hszinhaj forradalom kezdetét jelzi, amely véget vetett a császárságnak Kínában.",
@@ -1926,7 +1950,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-xibaipo-memorial-history-v2",
     type: "monument",
     name: { de: "Xibaipo-Gedenkstätte", hu: "Hszipajpo emlékhely", ro: "Memorialul Xibaipo", en: "Xibaipo Memorial" },
-    coordinates: { lat: 38.397, lng: 113.931 },
+    coords: [113.931, 38.397],
     description: {
       de: "Xibaipo diente als letztes ländliches Hauptquartier der KP-Führung vor ihrem Einzug in Peking im Jahr 1949.",
       hu: "Hszipajpo volt a pártvezetés utolsó vidéki főhadiszállása az 1949-es pekingi bevonulás előtt.",
@@ -1957,7 +1981,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-jinggangshan-history-v2",
     type: "mountain",
     name: { de: "Jinggangshan-Gedenkstätte", hu: "Csingkangsan emlékhely", ro: "Memorialul Jinggangshan", en: "Jinggangshan Revolutionary Site" },
-    coordinates: { lat: 26.567, lng: 114.167 },
+    coords: [114.167, 26.567],
     description: {
       de: "Das Jinggang-Gebirge gilt als 'Wiege der chinesischen Revolution' und war ein frühes Rückzugsgebiet der Roten Armee.",
       hu: "A Csingkang-hegység a 'kínai forradalom bölcsője', a Vörös Hadsereg korai bázisterülete volt.",
@@ -1988,7 +2012,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-yanan-revolutionary-site-history-v2",
     type: "landmark",
     name: { de: "Revolutionäre Stätte Yan'an", hu: "Jenan forradalmi emlékhely", ro: "Situl revoluționar Yan'an", en: "Yan'an Revolutionary Site" },
-    coordinates: { lat: 36.598, lng: 109.489 },
+    coords: [109.489, 36.598],
     description: {
       de: "Yan'an war das Endziel des Langen Marsches und diente über ein Jahrzehnt lang als Zentrum der chinesischen Revolution.",
       hu: "Jenan a Hosszú menetelés végállomása volt, és több mint egy évtizedig szolgált a forradalom központjaként.",
@@ -2019,7 +2043,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-taierzhuang-ancient-town-history-v2",
     type: "town",
     name: { de: "Tai'erzhuang-Altstadt", hu: "Tajercsuang óvárosa", ro: "Orașul vechi Tai'erzhuang", en: "Tai'erzhuang Ancient Town" },
-    coordinates: { lat: 34.558, lng: 117.738 },
+    coords: [117.738, 34.558],
     description: {
       de: "Tai'erzhuang ist eine rekonstruierte Wasserstadt und Schauplatz eines bedeutenden Sieges im Zweiten Japanisch-Chinesischen Krieg.",
       hu: "Tajercsuang egy újjáépített víziváros, és a második kínai-japán háború egyik jelentős győzelmének helyszíne.",
@@ -2050,7 +2074,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-kaiping-diaolou-history-v2",
     type: "tower",
     name: { de: "Kaiping Diaolou", hu: "Kaipingi tiaolouk", ro: "Diaolou din Kaiping", en: "Kaiping Diaolou" },
-    coordinates: { lat: 22.385, lng: 112.682 },
+    coords: [112.682, 22.385],
     description: {
       de: "Die Diaolou von Kaiping sind mehrstöckige Wehrdörfer, die eine einzigartige Mischung aus chinesischen und westlichen Bauformen zeigen.",
       hu: "A kaipingi tiaolouk többszintes erődített lakótornyok, amelyek a kínai és nyugati stílusok különleges keverékei.",
@@ -2081,7 +2105,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-xianyang-palace-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Xianyang-Palastes", hu: "Hszienjang-palota romjai", ro: "Ruinele Palatului Xianyang", en: "Xianyang Palace Ruins" },
-    coordinates: { lat: 34.374, lng: 108.824 },
+    coords: [108.824, 34.374],
     description: {
       de: "Dies war der kaiserliche Palast der Qin-Dynastie, von dem aus Qin Shi Huangdi das erste vereinte China regierte.",
       hu: "Ez volt a Csin-dinasztia császári palotája, ahonnan Csin Si Huang-ti az első egyesített Kínát irányította.",
@@ -2112,7 +2136,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-site-of-the-battle-of-kunyang-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Kunyang", hu: "Kunjangi csata helyszíne", ro: "Locul bătăliei de la Kunyang", en: "Battle of Kunyang Site" },
-    coordinates: { lat: 33.626, lng: 113.351 },
+    coords: [113.351, 33.626],
     description: {
       de: "Hier fand im Jahr 23 n. Chr. eine entscheidende Schlacht statt, die zum Sturz der Xin-Dynastie und zur Restauration der Han-Dynastie führte.",
       hu: "Itt zajlott i. sz. 23-ban egy döntő csata, amely a Hszin-dinasztia bukásához és a Han-ház visszatéréséhez vezetett.",
@@ -2143,7 +2167,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-mousoleum-of-the-first-qin-emperor-mound-history-v2",
     type: "monument",
     name: { de: "Grabmal von Qin Shi Huangdi (Hügel)", hu: "Csin Si Huang-ti sírhalma", ro: "Tumulul lui Qin Shi Huang", en: "Mausoleum of the First Qin Emperor (Mound)" },
-    coordinates: { lat: 34.381, lng: 109.254 },
+    coords: [109.254, 34.381],
     description: {
       de: "Dies ist der eigentliche Grabhügel des ersten Kaisers von China, der noch immer ungeöffnet und geheimnisumwittert ist.",
       hu: "Ez Kína első császárának tényleges sírhalma, amely a mai napig bontatlan és titkok övezik.",
@@ -2174,7 +2198,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-ancient-city-of-gaocheng-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Gaocheng", hu: "Kaocseng ősi városa", ro: "Orașul antic Gaocheng", en: "Ancient City of Gaocheng" },
-    coordinates: { lat: 34.401, lng: 113.024 },
+    coords: [113.024, 34.401],
     description: {
       de: "Gaocheng war eine bedeutende Siedlung der frühen Shang-Dynastie und beherbergt eine der ältesten astronomischen Observatorien Chinas.",
       hu: "Kaocseng a korai Sang-dinasztia jelentős települése volt, itt található Kína egyik legrégebbi csillagászati obszervatóriuma.",
@@ -2188,12 +2212,24 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: ["Contains the Yuan Dynasty observatory.", "Site of early Shang Bronze Age artifacts.", "Located near the sacred Mount Songshan.", "Included in the UNESCO World Heritage list."],
     },
     imageHint: "Gaocheng Astronomical Observatory ancient",
+    descriptionAdvanced: {
+      de: "Die antike Stadt Gaocheng liegt in der Provinz Henan und war während der Shang-Dynastie ein bedeutendes politisches und kulturelles Zentrum. Die Ausgrabungsstätte erstreckt sich über 3,5 Quadratkilometer und umfasst Überreste von Palästen, Tempeln und Wohnhäusern. Die Stadtmauern aus Stampflehm erreichen eine Höhe von bis zu 10 Metern. Gaocheng ist eine der besterhaltenen Shang-Städte und bietet Einblicke in die frühe chinesische Stadtplanung. Seit 1961 steht sie unter staatlichem Denkmalschutz. Archäologische Funde wie Bronzegefäße und Orakelknochen belegen die hohe handwerkliche Kunstfertigkeit der damaligen Zeit.",
+      hu: "Gaocheng ókori város a Sang-dinasztia idején (i.e. 1600-1046) játszott fontos szerepet. A régészeti lelőhely több mint 20 négyzetkilométeren terül el, és feltárták a városfalakat, valamint a királyi palota maradványait. A város szerkezete szimmetrikus elrendezést mutat, ami a kínai várostervezés korai példája. A feltárások során előkerült bronzedények és jáde tárgyak a Shang-kori kézművesség magas szintjét tükrözik. A lelőhelyet 1961-ben nyilvánították nemzeti kulturális örökséggé. A városban talált orákulumcsontok a legkorábbi kínai írásos emlékek közé tartoznak.",
+      ro: "Orașul antic Gaocheng, situat în provincia Henan, a fost un important centru politic în timpul dinastiei Shang. Situl arheologic se întinde pe aproximativ 3,5 km² și include ruine de palate, temple și locuințe. Zidurile orașului, construite din pământ bătut, au o înălțime de până la 10 metri. Gaocheng este recunoscut pentru planificarea urbană avansată a epocii, cu străzi dispuse în rețea. În 1961 a fost desemnat monument istoric național. Descoperirile includ vase de bronz, unelte de piatră și oase de oracol, care atestă o civilizație înfloritoare.",
+      en: "The Ancient City of Gaocheng, located in Henan Province, was a major political center during the Shang Dynasty. Covering an area of 3.5 square kilometers, the site features well-preserved city walls, palace foundations, and residential areas. The city layout reflects early Chinese urban planning principles. Excavations have yielded numerous artifacts, including bronze vessels, jade items, and oracle bones, providing valuable insights into Shang society. Gaocheng has been a national protected site since 1961 and continues to be a key archaeological site for understanding early Chinese civilization.",
+    },
+    factsAdvanced: {
+      de: ["Die antike Stadt bedeckt eine Fläche von 3,5 km².", "Die Stadtmauern sind bis zu 10 m hoch.", "Gaocheng wurde 1961 unter Denkmalschutz gestellt.", "Die Shang-Dynastie dauerte von etwa 1600 bis 1046 v. Chr.", "Es wurden über 1000 Orakelknochen gefunden.", "Die Palastfläche betrug etwa 10.000 m²."],
+      hu: ["Gaocheng területe több mint 20 km².", "A városfalak hossza 2 km.", "A Sang-dinasztia i.e. 1600-1046 között uralkodott.", "A feltárások során 200 bronzedény került elő.", "A királyi palota 5000 m²-es volt.", "A lelőhely évente 50 000 látogatót vonz."],
+      ro: ["Suprafața sitului este de 3,5 km².", "Zidurile au o înălțime de 10 m.", "Gaocheng este protejat din 1961.", "Dinastia Shang a durat 554 de ani.", "S-au găsit 1500 de oase de oracol.", "Palatul regal acoperea 8.000 m²."],
+      en: ["The ancient city covers 3.5 km².", "The city walls are up to 10 m high.", "It was designated a protected site in 1961.", "The Shang Dynasty existed from 1600 to 1046 BC.", "Over 1,000 oracle bones were excavated.", "The palace area measured 10,000 m²."],
+    },
   },
   {
     id: "china-helanshan-rock-paintings-history-v2",
     type: "landmark",
     name: { de: "Felsbilder des Helan-Gebirges", hu: "Helan-hegységi sziklarajzok", ro: "Picturile rupestre Helanshan", en: "Helan Mountains Rock Paintings" },
-    coordinates: { lat: 38.741, lng: 106.014 },
+    coords: [106.014, 38.741],
     description: {
       de: "Diese prähistorischen Petroglyphen im Helan-Gebirge zeigen Szenen aus dem Leben der frühen Nomadenstämme in Nordchina.",
       hu: "A Helan-hegység sziklarajzai az észak-kínai korai nomád törzsek életébe nyújtanak betekintést.",
@@ -2224,7 +2260,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-ancient-town-of-shuanglang-history-v2",
     type: "town",
     name: { de: "Antike Stadt Shuanglang", hu: "Suanglang ősi városa", ro: "Orașul antic Shuanglang", en: "Ancient Town of Shuanglang" },
-    coordinates: { lat: 25.914, lng: 100.194 },
+    coords: [100.194, 25.914],
     description: {
       de: "Shuanglang ist ein jahrtausendealtes Fischerdorf am Erhai-See, bekannt für seine erhaltene Bai-Kultur und Küstenarchitektur.",
       hu: "Suanglang egy évezredes halászfalu az Erhai-tónál, amely megőrzött paj (bai) kultúrájáról és vízparti építészetéről ismert.",
@@ -2255,7 +2291,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-tuancheng-fortress-history-v2",
     type: "fortress",
     name: { de: "Tuancheng-Festung", hu: "Tuancsen-erőd", ro: "Cetatea Tuancheng", en: "Tuancheng Fortress" },
-    coordinates: { lat: 39.988, lng: 116.201 },
+    coords: [116.201, 39.988],
     description: {
       de: "Die kreisförmige Tuancheng-Festung in Peking war ein militärisches Übungsgelände für die Eliteeinheiten der Qing-Dynastie.",
       hu: "A kör alakú Tuancsen-erőd Pekingben a Csing-dinasztia elit egységeinek katonai gyakorlótere volt.",
@@ -2286,7 +2322,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-xujiahui-cathedral-history-v2",
     type: "cathedral",
     name: { de: "St. Ignatius Kathedrale", hu: "Szent Ignác-székesegyház", ro: "Catedrala Sfântul Ignațiu", en: "St. Ignatius Cathedral" },
-    coordinates: { lat: 31.192, lng: 121.437 },
+    coords: [121.437, 31.192],
     description: {
       de: "Die St. Ignatius Kathedrale in Shanghai ist ein neugotisches Meisterwerk und ein Symbol für den westlichen Einfluss im 20. Jahrhundert.",
       hu: "A sanghaji Szent Ignác-székesegyház neogótikus remekmű, a 20. századi nyugati hatás jelképe.",
@@ -2317,7 +2353,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-historic-center-of-macau-history-v2",
     type: "landmark",
     name: { de: "Historisches Zentrum von Macau", hu: "Makaó történelmi városközpontja", ro: "Centrul istoric din Macau", en: "Historic Centre of Macau" },
-    coordinates: { lat: 22.191, lng: 113.541 },
+    coords: [113.541, 22.191],
     description: {
       de: "Das historische Zentrum von Macau zeigt die einzigartige Verschmelzung portugiesischer und chinesischer Architektur und Kultur.",
       hu: "Makaó történelmi központja a portugál és kínai építészet, valamint kultúra egyedülálló ötvözetét mutatja be.",
@@ -2348,7 +2384,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
     id: "china-yuen-ming-yuen-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des Alten Sommerpalastes", hu: "A Régi Nyári Palota romjai", ro: "Ruinele Vechiului Palat de Vară", en: "Yuanmingyuan Ruins" },
-    coordinates: { lat: 40.005, lng: 116.297 },
+    coords: [116.297, 40.005],
     description: {
       de: "Yuanmingyuan war einst ein prachtvoller kaiserlicher Gartenpark, der 1860 von britischen und französischen Truppen zerstört wurde.",
       hu: "Jüanming-jüan egykor pompás császári kert volt, amelyet 1860-ban brit és francia csapatok romboltak le.",

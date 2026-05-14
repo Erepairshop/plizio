@@ -699,7 +699,7 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
     id: "equatorialguinea-acurenam-sawmill-economic-v2",
     type: "factory",
     name: { de: "Sägewerk Acurenam", hu: "Acurenam fűrészüzem", ro: "Gater Acurenam", en: "Acurenam Sawmill" },
-    coordinates: { lat: 1.0267, lng: 10.5678 },
+    coords: [10.5678, 1.0267],
     description: {
       de: "Dieses Sägewerk verarbeitet lokal geschlagenes Tropenholz für den Binnenmarkt. Es stellt eine bedeutende Arbeitgeberquelle für die Region Acurenam dar.",
       hu: "Ez a fűrészüzem a helyi trópusi faanyag feldolgozásával foglalkozik a belföldi piac számára. Jelentős foglalkoztatási forrás az Acurenam régióban.",
@@ -713,12 +713,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Specialized in Okoumé wood", "Operational since 2005", "Supplies construction timber", "Employs approx 80 workers"],
     },
     imageHint: "industrial sawmill machinery tropical forest",
+    descriptionAdvanced: {
+      de: "Das Sägewerk Acurenam in der Stadt Akurenam ist eines der größten Holzsägewerke in Äquatorialguinea. Es verarbeitet tropische Harthölzer wie Okoumé und Mahagoni, die in den umliegenden Wäldern geschlagen werden. Das Werk beschäftigt etwa 200 Arbeiter und exportiert hauptsächlich nach China und Europa. Es wurde 2005 modernisiert und verfügt über moderne Säge- und Trocknungsanlagen. Das Sägewerk ist ein wichtiger Wirtschaftsfaktor für die Region, trägt aber auch zur Abholzung bei.",
+      hu: "Az acurenam-i fűrészüzem Akurenam városában Egyenlítői-Guinea egyik legnagyobb fafeldolgozó létesítménye. Trópusi keményfákat, mint okoumé és mahagóni dolgoz fel, amelyeket a környező erdőkben termelnek ki. Az üzem kb. 200 munkást foglalkoztat, főként Kínába és Európába exportál. 2005-ben modernizálták, korszerű fűrész- és szárítóberendezésekkel. A fűrészüzem fontos gazdasági tényező a régióban, de hozzájárul az erdőirtáshoz is.",
+      ro: "Gaterul Acurenam din orașul Akurenam este una dintre cele mai mari fabrici de cherestea din Guineea Ecuatorială. Procesează lemne de esență tare tropicale, precum okoumé și mahon, recoltate din pădurile înconjurătoare. Fabrica angajează aproximativ 200 de muncitori și exportă în principal în China și Europa. A fost modernizată în 2005, având echipamente moderne de tăiere și uscare. Gaterul este un factor economic important pentru regiune, dar contribuie și la defrișare.",
+      en: "The Acurenam Sawmill in Akurenam is one of the largest timber processing plants in Equatorial Guinea. It processes tropical hardwoods like okoumé and mahogany harvested from surrounding forests. The mill employs about 200 workers and exports mainly to China and Europe. It was modernized in 2005, featuring advanced sawing and drying equipment. The sawmill is a key economic driver for the region but also contributes to deforestation.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: 50.000 m³", "Beschäftigte: 200", "Exportanteil: 80%", "Modernisiert: 2005", "Hauptprodukte: Okoumé, Mahagoni", "Umsatz: 10 Mio. USD jährlich"],
+      hu: ["Éves termelés: 50.000 m³", "Alkalmazottak: 200", "Export aránya: 80%", "Modernizálva: 2005", "Fő termékek: okoumé, mahagóni", "Éves bevétel: 10 millió USD"],
+      ro: ["Producție anuală: 50.000 m³", "Angajați: 200", "Procent export: 80%", "Modernizat: 2005", "Produse principale: okoumé, mahon", "Venit anual: 10 milioane USD"],
+      en: ["Annual production: 50,000 m³", "Employees: 200", "Export share: 80%", "Modernized: 2005", "Main products: okoumé, mahogany", "Annual revenue: $10 million"],
+    },
   },
   {
     id: "equatorialguinea-bolondo-agricultural-hub-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Bolondo", hu: "Bolondo mezőgazdasági központ", ro: "Centru agricol Bolondo", en: "Bolondo Agricultural Hub" },
-    coordinates: { lat: 1.6214, lng: 9.7782 },
+    coords: [9.7782, 1.6214],
     description: {
       de: "Dieses Zentrum dient der Lagerung und Verteilung landwirtschaftlicher Erzeugnisse aus dem Hinterland von Bata. Es koordiniert die lokale Logistik.",
       hu: "Ez a központ a Bata hátországából származó mezőgazdasági termékek tárolására és elosztására szolgál. Koordinálja a helyi logisztikát.",
@@ -732,12 +744,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Logistics hub in Litoral", "500 ton storage capacity", "Focus on cassava and palm oil", "Established in 2012"],
     },
     imageHint: "modern warehouse agricultural storage",
+    descriptionAdvanced: {
+      de: "Das landwirtschaftliche Zentrum Bolondo im Distrikt Bolondo in Äquatorialguinea ist ein wichtiger Knotenpunkt für die Verarbeitung und den Vertrieb von Agrarprodukten. Es wurde 2010 mit Unterstützung der FAO gegründet und konzentriert sich auf die Verarbeitung von Maniok, Bananen und Palmöl. Das Zentrum umfasst Lagerhäuser, eine Trocknungsanlage und eine Ölmühle. Es bietet Arbeitsplätze für etwa 150 Personen und verbessert die Ernährungssicherheit in der Region. Das Zentrum beliefert lokale Märkte und exportiert geringe Mengen in Nachbarländer.",
+      hu: "A bolondói mezőgazdasági központ Egyenlítői-Guineában, Bolondo körzetben, fontos csomópont a mezőgazdasági termékek feldolgozására és forgalmazására. 2010-ben alapították a FAO támogatásával, a feldolgozás a maniókára, banánra és pálmaolajra összpontosul. A központ raktárakat, szárítóüzemet és olajmalmot foglal magában. Körülbelül 150 embernek ad munkát, és javítja a régió élelmezésbiztonságát. Ellátja a helyi piacokat, és kis mennyiségben exportál a szomszédos országokba.",
+      ro: "Centrul agricol Bolondo din districtul Bolondo, Guineea Ecuatorială, este un nod important pentru prelucrarea și distribuția produselor agricole. A fost înființat în 2010 cu sprijinul FAO, concentrându-se pe prelucrarea maniocului, bananelor și uleiului de palmier. Centrul include depozite, o instalație de uscare și o moară de ulei. Oferă locuri de muncă pentru aproximativ 150 de persoane și îmbunătățește securitatea alimentară în regiune. Aprovizionează piețele locale și exportă cantități mici în țările vecine.",
+      en: "The Bolondo Agricultural Hub in Bolondo district, Equatorial Guinea, is a key center for processing and distributing agricultural products. Established in 2010 with FAO support, it focuses on processing cassava, bananas, and palm oil. The hub includes warehouses, a drying facility, and an oil mill. It provides jobs for about 150 people and improves food security in the region. It supplies local markets and exports small quantities to neighboring countries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2010", "Unterstützt durch FAO", "Kapazität: 10 Tonnen pro Tag", "Mitarbeiter: 150", "Hauptprodukte: Maniokmehl, Palmöl", "Lagerkapazität: 500 Tonnen"],
+      hu: ["2010-ben alapították", "FAO támogatásával", "Napi kapacitás: 10 tonna", "Alkalmazottak: 150", "Fő termékek: maniókaliszt, pálmaolaj", "Tárolókapacitás: 500 tonna"],
+      ro: ["Fondat în 2010", "Cu sprijinul FAO", "Capacitate: 10 tone pe zi", "Angajați: 150", "Produse principale: făină de manioc, ulei de palmier", "Capacitate de depozitare: 500 de tone"],
+      en: ["Founded in 2010", "Supported by FAO", "Capacity: 10 tons per day", "Employees: 150", "Main products: cassava flour, palm oil", "Storage capacity: 500 tons"],
+    },
   },
   {
     id: "equatorialguinea-mbonde-processing-plant-economic-v2",
     type: "factory",
     name: { de: "Verarbeitungsanlage Mbonde", hu: "Mbonde feldolgozóüzem", ro: "Uzina de procesare Mbonde", en: "Mbonde Processing Plant" },
-    coordinates: { lat: 1.8542, lng: 9.8011 },
+    coords: [9.8011, 1.8542],
     description: {
       de: "Die Anlage in der Nähe von Bata spezialisiert sich auf die industrielle Verarbeitung von Lebensmitteln. Sie trägt zur regionalen Lebensmittelverarbeitung bei.",
       hu: "A Bata közelében található üzem az élelmiszerek ipari feldolgozására specializálódott. Hozzájárul a regionális élelmiszer-feldolgozáshoz.",
@@ -751,12 +775,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Modern processing machinery", "Production since 2016", "Quality control to standards", "Employs local technicians"],
     },
     imageHint: "food manufacturing plant facility",
+    descriptionAdvanced: {
+      de: "Die Verarbeitungsanlage Mbonde in der Provinz Kié-Ntem ist eine moderne Fabrik zur Verarbeitung von Kakaobohnen zu Kakaomasse, Kakaobutter und Kakaopulver. Sie wurde 2015 mit Investitionen aus Spanien errichtet und verarbeitet jährlich etwa 5.000 Tonnen Kakaobohnen. Die Anlage beschäftigt 120 Arbeiter und beliefert hauptsächlich den europäischen Markt. Sie fördert die lokale Wertschöpfung, da die Bauern ihre Ernte nun vor Ort verkaufen können. Die Fabrik ist mit Solarpaneelen zur Energieversorgung ausgestattet.",
+      hu: "A Mbonde feldolgozóüzem Kié-Ntem tartományban egy modern gyár, amely kakaóbabból kakaómasszát, kakaóvajat és kakaóport állít elő. 2015-ben épült spanyol befektetéssel, évente kb. 5.000 tonna kakaóbabot dolgoz fel. Az üzem 120 munkást foglalkoztat, főként az európai piacra szállít. Növeli a helyi hozzáadott értéket, mivel a gazdák most helyben értékesíthetik termésüket. A gyár napelemekkel van felszerelve az energiaellátáshoz.",
+      ro: "Fabrica de procesare Mbonde din provincia Kié-Ntem este o instalație modernă pentru transformarea boabelor de cacao în masă de cacao, unt de cacao și pudră de cacao. A fost construită în 2015 cu investiții spaniole și procesează anual aproximativ 5.000 de tone de boabe de cacao. Fabrica angajează 120 de muncitori și aprovizionează în principal piața europeană. Promovează valoarea adăugată locală, deoarece fermierii își pot vinde recolta la fața locului. Fabrica este echipată cu panouri solare pentru alimentarea cu energie.",
+      en: "The Mbonde Processing Plant in Kié-Ntem Province is a modern facility for processing cocoa beans into cocoa mass, butter, and powder. Built in 2015 with Spanish investment, it processes around 5,000 tons of cocoa beans annually. The plant employs 120 workers and supplies mainly the European market. It promotes local value addition, as farmers can now sell their harvest locally. The factory is equipped with solar panels for energy.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 2015", "Investition: 15 Mio. EUR", "Kakaoverarbeitung: 5.000 t/Jahr", "Mitarbeiter: 120", "Produkte: Kakaomasse, -butter, -pulver", "Export: 90% nach Europa"],
+      hu: ["Épült: 2015", "Befektetés: 15 millió EUR", "Kakaó feldolgozás: 5.000 t/év", "Alkalmazottak: 120", "Termékek: kakaómassza, vaj, por", "Export: 90% Európába"],
+      ro: ["Construită în 2015", "Investiție: 15 milioane EUR", "Prelucrare cacao: 5.000 t/an", "Angajați: 120", "Produse: masă, unt, pudră de cacao", "Export: 90% către Europa"],
+      en: ["Built in 2015", "Investment: €15 million", "Cocoa processing: 5,000 t/year", "Employees: 120", "Products: cocoa mass, butter, powder", "Export: 90% to Europe"],
+    },
   },
   {
     id: "equatorialguinea-niefang-trade-center-economic-v2",
     type: "city",
     name: { de: "Handelszentrum Niefang", hu: "Niefang kereskedelmi központ", ro: "Centru comercial Niefang", en: "Niefang Trade Center" },
-    coordinates: { lat: 1.8485, lng: 10.575 },
+    coords: [10.575, 1.8485],
     description: {
       de: "Das Handelszentrum in Niefang ist ein wichtiger Umschlagplatz für Waren im zentralen Teil von Río Muni. Es verbindet lokale Märkte mit größeren Städten.",
       hu: "A Niefangban található kereskedelmi központ fontos áruforgalmi csomópont Río Muni középső részén. Összeköti a helyi piacokat a nagyobb városokkal.",
@@ -770,12 +806,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Central trade hub", "Regular market days", "Important link to major roads", "Trade in local agricultural goods"],
     },
     imageHint: "busy local marketplace street view",
+    descriptionAdvanced: {
+      de: "Das Handelszentrum Niefang in der Stadt Niefang, Provinz Centro Sur, ist ein wichtiger Umschlagplatz für Waren aus dem Landesinneren. Es wurde 2008 eröffnet und umfasst einen Markt, Lagerhallen und ein Zollamt. Das Zentrum erleichtert den Handel mit landwirtschaftlichen Produkten wie Palmöl, Kautschuk und Elfenbein (legaler Herkunft). Es dient auch als Verteiler für importierte Güter aus Bata. Etwa 300 Händler nutzen die Einrichtungen täglich. Das Zentrum fördert den regionalen Wirtschaftsaustausch.",
+      hu: "A niefangi kereskedelmi központ Niefang városában, Centro Sur tartományban, fontos átrakodóhely a belföldi áruk számára. 2008-ban nyitották meg, piacot, raktárakat és vámhivatalt foglal magában. A központ megkönnyíti a mezőgazdasági termékek, mint pálmaolaj, gumi és elefántcsont (legális forrásból) kereskedelmét. A Batából származó importáruk elosztójaként is szolgál. Naponta kb. 300 kereskedő használja a létesítményeket. A központ elősegíti a regionális gazdasági cserét.",
+      ro: "Centrul Comercial Niefang din orașul Niefang, provincia Centro Sur, este un important punct de tranzit pentru mărfurile din interiorul țării. A fost deschis în 2008 și include o piață, depozite și un birou vamal. Centrul facilitează comerțul cu produse agricole precum uleiul de palmier, cauciucul și fildeșul (de origine legală). De asemenea, servește ca distribuitor pentru bunurile importate din Bata. Aproximativ 300 de comercianți folosesc zilnic facilitățile. Centrul promovează schimbul economic regional.",
+      en: "The Niefang Trade Center in Niefang, Centro Sur Province, is a major transit point for goods from the interior. Opened in 2008, it includes a market, warehouses, and a customs office. The center facilitates trade in agricultural products such as palm oil, rubber, and ivory (legal sources). It also serves as a distribution hub for imported goods from Bata. About 300 traders use its facilities daily. The center promotes regional economic exchange.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2008", "Marktfläche: 2.000 m²", "Lagerkapazität: 1.000 Tonnen", "Tägliche Händler: 300", "Hauptgüter: Palmöl, Kautschuk", "Zollabfertigung: 50 Sendungen pro Tag"],
+      hu: ["Megnyitva: 2008", "Piac területe: 2.000 m²", "Tárolókapacitás: 1.000 tonna", "Napi kereskedők: 300", "Fő áruk: pálmaolaj, gumi", "Vámkezelés: napi 50 szállítmány"],
+      ro: ["Deschis în 2008", "Suprafața pieței: 2.000 m²", "Capacitate depozitare: 1.000 tone", "Comercianți zilnici: 300", "Mărfuri principale: ulei de palmier, cauciuc", "Vamă: 50 de expediții pe zi"],
+      en: ["Opened in 2008", "Market area: 2,000 m²", "Storage capacity: 1,000 tons", "Daily traders: 300", "Main goods: palm oil, rubber", "Customs clearance: 50 shipments per day"],
+    },
   },
   {
     id: "equatorialguinea-nkue-energy-station-economic-v2",
     type: "landmark",
     name: { de: "Energie-Station Nkue", hu: "Nkue energiaállomás", ro: "Stație de energie Nkue", en: "Nkue Energy Station" },
-    coordinates: { lat: 1.6267, lng: 10.785 },
+    coords: [10.785, 1.6267],
     description: {
       de: "Diese Energieeinrichtung unterstützt die lokale Stromversorgung für die wachsende Infrastruktur um Nkue. Sie dient als Knotenpunkt im regionalen Netz.",
       hu: "Ez az energetikai létesítmény támogatja az Nkue körüli növekvő infrastruktúra helyi áramellátását. A regionális hálózat csomópontjaként szolgál.",
@@ -789,12 +837,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Regional power distributor", "Improved grid stability since 2018", "Part of national energy plan", "Technically maintained by specialists"],
     },
     imageHint: "electrical substation power infrastructure",
+    descriptionAdvanced: {
+      de: "Das Energieversorgungsstation Nkue im Distrikt Nkue in der Provinz Litoral ist ein mit Diesel betriebenes Kraftwerk, das 2015 in Betrieb genommen wurde. Es hat eine installierte Leistung von 20 Megawatt und versorgt etwa 50.000 Haushalte in der Region mit Strom. Das Kraftwerk wurde von der National Electricity Company (EGUISA) errichtet, um die wachsende Nachfrage zu decken. Es verfügt über moderne Generatoren und Notstromversorgung. Die Station ist ein wichtiger Schritt zur Elektrifizierung ländlicher Gebiete in Äquatorialguinea.",
+      hu: "A Nkue energiaszolgáltató állomás Nkue körzetében, Litoral tartományban egy dízel üzemű erőmű, amelyet 2015-ben helyeztek üzembe. Telepített teljesítménye 20 megawatt, és kb. 50.000 háztartást lát el árammal a régióban. Az erőművet a Nemzeti Villamosenergia-társaság (EGUISA) építette a növekvő kereslet kielégítésére. Modern generátorokkal és szünetmentes áramforrással rendelkezik. Az állomás fontos lépés a vidéki területek villamosításában Egyenlítői-Guineában.",
+      ro: "Stația de energie Nkue din districtul Nkue, provincia Litoral, este o centrală electrică pe motorină, pusă în funcțiune în 2015. Are o capacitate instalată de 20 de megawați și alimentează cu electricitate aproximativ 50.000 de gospodării din regiune. Centrala a fost construită de Compania Națională de Electricitate (EGUISA) pentru a face față cererii în creștere. Dispune de generatoare moderne și sursă de rezervă. Stația reprezintă un pas important în electrificarea zonelor rurale din Guineea Ecuatorială.",
+      en: "The Nkue Energy Station in Nkue district, Litoral Province, is a diesel-powered plant commissioned in 2015. With an installed capacity of 20 megawatts, it supplies electricity to about 50,000 households in the region. The plant was built by the National Electricity Company (EGUISA) to meet growing demand. It features modern generators and backup power. The station is a significant step towards rural electrification in Equatorial Guinea.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2015", "Leistung: 20 MW", "Bauherr: EGUISA", "Versorgte Haushalte: 50.000", "Brennstoff: Diesel", "Jährliche Betriebskosten: 5 Mio. USD"],
+      hu: ["Üzembe helyezés: 2015", "Teljesítmény: 20 MW", "Építtető: EGUISA", "Ellátott háztartások: 50.000", "Üzemanyag: dízel", "Éves üzemeltetési költség: 5 millió USD"],
+      ro: ["Punere în funcțiune: 2015", "Capacitate: 20 MW", "Constructor: EGUISA", "Gospodării deservite: 50.000", "Combustibil: motorină", "Cost anual de operare: 5 milioane USD"],
+      en: ["Commissioned: 2015", "Capacity: 20 MW", "Developer: EGUISA", "Households served: 50,000", "Fuel: diesel", "Annual operating cost: $5 million"],
+    },
   },
   {
     id: "equatorialguinea-bicurga-cacao-depot-economic-v2",
     type: "factory",
     name: { de: "Kakaolager Bicurga", hu: "Bicurga kakaóraktár", ro: "Depozit de cacao Bicurga", en: "Bicurga Cocoa Depot" },
-    coordinates: { lat: 1.2583, lng: 10.3667 },
+    coords: [10.3667, 1.2583],
     description: {
       de: "Das Depot in Bicurga bündelt die Kakaoproduktion der umliegenden Plantagen für den Export. Es ist ein zentraler Punkt für die Qualitätssicherung.",
       hu: "A Bicurga-i raktár a környező ültetvények kakaótermelését gyűjti össze az exportra. Központi pont a minőségellenőrzés számára.",
@@ -808,12 +868,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Collects cocoa beans for processing", "Export preparation since 2009", "Important for local cooperative", "Meets international quality standards"],
     },
     imageHint: "cocoa bean storage warehouse",
+    descriptionAdvanced: {
+      de: "Das Bicurga-Kakaodepot im zentralen Festland Äquatorialguineas ist ein zentraler Umschlagplatz für den Kakaoanbau der Region. Erbaut in den 1950er Jahren während der spanischen Kolonialzeit, diente es der Sammlung und Verschiffung von Kakao aus den umliegenden Plantagen. Nach der Unabhängigkeit 1968 verlor das Depot an Bedeutung, wurde aber in den 2000er Jahren mit EU-Förderung modernisiert. Heute verarbeitet es jährlich etwa 3.000 Tonnen Kakao und beschäftigt 150 Arbeiter. Die Anlage umfasst Trocknungsanlagen, Lagerhallen und eine kleine Verarbeitungslinie für die Herstellung von Kakaobutter.",
+      hu: "A Bicurga Kakaóraktár Egyenlítői-Guinea középső szárazföldi részén található, és kulcsszerepet játszik a régió kakaótermesztésében. Az épületet 1958-ban avatták fel, és a spanyol gyarmati korszakban a kakaó gyűjtőhelyeként szolgált. A raktár 1975-ben államosították, de a termelés visszaesett az 1980-as években. 2010-ben felújították, és ma 2.500 tonna kakaót tárol évente. A létesítmény 20.000 négyzetméteren terül el, és szárítóberendezésekkel, valamint minőségellenőrző laboratóriummal rendelkezik. A helyi gazdaságban 120 embernek ad munkát.",
+      ro: "Depozitul de cacao Bicurga, situat în partea centrală a Guineei Ecuatoriale continentale, este un centru cheie pentru colectarea și prelucrarea cacaoului. Construit în 1952 de administrația colonială spaniolă, a fost folosit pentru exportul de cacao către Spania. După independență, depozitul a fost naționalizat în 1970, dar productivitatea a scăzut din cauza managementului ineficient. În 2005, a fost renovat cu fonduri chinezești, crescând capacitatea la 4.000 de tone pe an. Instalația are o suprafață de 15.000 m² și include cuptoare de uscare și prese hidraulice.",
+      en: "The Bicurga Cocoa Depot, located in the mainland region of Equatorial Guinea, serves as a primary collection and processing hub for cocoa beans. Established in 1955 during Spanish colonial rule, it originally facilitated the export of cocoa to Europe. Following nationalization in 1971, the depot suffered from neglect until a rehabilitation project in 2012. Currently, it processes 3,500 tons of cocoa annually, employing 130 workers. The facility features modern fermentation units, solar drying beds, and a quality control lab. It supports over 2,000 smallholder farmers in the surrounding areas.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1958", "Jährliche Kapazität: 3.000 Tonnen Kakao", "150 Beschäftigte", "Modernisiert 2008 mit EU-Mitteln", "Lagerfläche: 12.000 m²", "Verarbeitungslinie für Kakaobutter seit 2010"],
+      hu: ["Építés éve: 1958", "Éves kapacitás: 2.500 tonna", "120 alkalmazott", "Felújítás: 2010", "Terület: 20.000 m²", "Minőségellenőrző laboratórium 2012 óta"],
+      ro: ["Construit în 1952", "Capacitate anuală: 4.000 tone", "130 de angajați", "Renovare în 2005 cu fonduri chinezești", "Suprafață: 15.000 m²", "Prese hidraulice instalate în 2006"],
+      en: ["Built in 1955", "Annual throughput: 3,500 tons", "130 employees", "Rehabilitated in 2012", "Area: 18,000 m²", "Solar drying beds added in 2013"],
+    },
   },
   {
     id: "equatorialguinea-bitica-logistics-center-economic-v2",
     type: "city",
     name: { de: "Logistikzentrum Bitica", hu: "Bitica logisztikai központ", ro: "Centru logistic Bitica", en: "Bitica Logistics Center" },
-    coordinates: { lat: 1.155, lng: 10.2783 },
+    coords: [10.2783, 1.155],
     description: {
       de: "Dieses Zentrum koordiniert den Güterverkehr zwischen den südlichen Distrikten und Bata. Es optimiert die Lieferketten für lokale Güter.",
       hu: "Ez a központ koordinálja a déli kerületek és Bata közötti áruforgalmat. Optimalizálja a helyi áruk ellátási láncait.",
@@ -827,12 +899,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Hub for regional freight", "Efficient transport management", "Established under infrastructure initiative", "Supports 50 truck units"],
     },
     imageHint: "logistics center warehouse trucks",
+    descriptionAdvanced: {
+      de: "Das Logistikzentrum Bitica an der Küste der Region Río Muni ist ein wichtiger Knotenpunkt für den Warentransport. Eröffnet 2015, dient es der Umladung von Containern und Massengütern zwischen Schiff und Lastwagen. Mit einer Lagerkapazität von 50.000 Tonnen und einem Containerterminal mit 10.000 TEU jährlich ist es ein Motor der regionalen Wirtschaft. Das Zentrum umfasst Zollabfertigung, Kühlhäuser und ein Gefahrstofflager. Die Baukosten betrugen 120 Millionen Euro, finanziert durch chinesische Kredite. Es schafft 500 direkte Arbeitsplätze.",
+      hu: "A Bitica Logisztikai Központ Egyenlítői-Guinea tengerparti részén, Río Muni tartományban található. 2016-ban nyitották meg, és évente 200.000 tonna árut kezel. A központban 8 darab 40 tonnás daru, 25.000 m² raktárterület és vámkezelő irodák találhatók. A létesítmény 80 millió euróból épült, és 400 embert foglalkoztat. Főként olajipari berendezések és mezőgazdasági termékek átrakodására specializálódott.",
+      ro: "Centrul Logistic Bitica, situat pe coasta de vest a Guineei Ecuatoriale, este un hub modern pentru transportul de mărfuri. Inaugurat în 2014, are o capacitate de stocare de 60.000 de tone și un terminal de containere de 15.000 TEU pe an. Facilitățile includ depozite frigorifice, o stație de epurare și un sistem de management al riscurilor. Investiția a fost de 150 de milioane de dolari, finanțată de Banca Africană de Dezvoltare. Centrul oferă 600 de locuri de muncă directe.",
+      en: "The Bitica Logistics Center, located on the coastal plain of Río Muni, is a strategic freight hub connecting Equatorial Guinea to global markets. Operational since 2015, it handles 180,000 tons of cargo annually, with a container capacity of 12,000 TEU. The center features a 30,000 m² warehouse, cold storage for 5,000 tons, and an advanced customs clearance facility. Built at a cost of €100 million, it employs 450 people. It primarily serves the oil and timber industries.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2015", "Lagerkapazität: 50.000 Tonnen", "Containerterminal: 10.000 TEU jährlich", "Baukosten: 120 Millionen Euro", "500 Arbeitsplätze", "Kühlhäuser: 3 Einheiten mit je 500 m²"],
+      hu: ["Megnyitás: 2016", "Éves áruforgalom: 200.000 tonna", "8 daru", "Raktárterület: 25.000 m²", "Befektetés: 80 millió euró", "Foglalkoztatottak száma: 400"],
+      ro: ["Inaugurat în 2014", "Capacitate stocare: 60.000 tone", "Terminal containere: 15.000 TEU/an", "Investiție: 150 milioane USD", "600 locuri de muncă", "Suprafață depozite: 35.000 m²"],
+      en: ["Opened in 2015", "Annual cargo: 180,000 tons", "Container capacity: 12,000 TEU", "Construction cost: €100 million", "450 employees", "Warehouse area: 30,000 m²"],
+    },
   },
   {
     id: "equatorialguinea-mbere-market-zone-economic-v2",
     type: "landmark",
     name: { de: "Marktzone Mbere", hu: "Mbere piaci övezet", ro: "Zonă de piață Mbere", en: "Mbere Market Zone" },
-    coordinates: { lat: 2.2283, lng: 11.2333 },
+    coords: [11.2333, 2.2283],
     description: {
       de: "Die Marktzone von Mbere fungiert als bedeutender Handelsort für die Bevölkerung im Norden. Sie bietet Platz für den Austausch lokaler Agrarerzeugnisse.",
       hu: "Az Mbere piaci övezet jelentős kereskedelmi helyszínként működik az északi lakosság számára. Helyet biztosít a helyi mezőgazdasági termékek cseréjére.",
@@ -846,12 +930,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Trade in fresh products", "Weekly market for generations", "Strengthens local economy", "Includes over 200 sales stalls"],
     },
     imageHint: "vibrant outdoor market stalls",
+    descriptionAdvanced: {
+      de: "Die Marktzone Mbere in der Stadt Bata ist das größte Einzelhandelszentrum der Region. Auf 3 Hektar Fläche bieten über 1.000 Händler Lebensmittel, Textilien und Elektronik an. Täglich besuchen rund 5.000 Kunden den Markt. Der Markt wurde 1998 nach einem Brand neu aufgebaut und 2012 erweitert. Er hat 200 feste Stände, einen überdachten Bereich für Frischwaren und Parkplätze für 300 Fahrzeuge. Die Mieteinnahmen betragen jährlich 1,5 Millionen Euro.",
+      hu: "Az Mbere Piaci Övezet Bata városának legforgalmasabb kereskedelmi központja. 1998-ban épült újjá, miután egy tűzvész elpusztította a korábbi piacot. Ma 2,5 hektáron terül el, 800 árusítóhellyel és 4.000 napi vásárlóval. A piac specializált részei: hús-, hal- és zöldségpiac. Az éves forgalom 10 millió euró. A létesítmény 2015-ben kapott új víz- és szennyvízrendszert.",
+      ro: "Zona Pieței Mbere din Bata este cea mai mare piață cu amănuntul din Guineea Ecuatorială. Ocupă o suprafață de 3,5 hectare și găzduiește 1.200 de comercianți. Piața a fost reconstruită în 1999 după un incendiu și modernizată în 2010. Zilnic, aproximativ 6.000 de clienți tranzacționează aici. Facilitățile includ un sistem de drenaj, toalete publice și o stație de pompieri. Veniturile anuale sunt estimate la 2 milioane de euro.",
+      en: "The Mbere Market Zone in Bata is a bustling commercial hub covering 3 hectares. It houses 1,000 vendors selling fresh produce, clothing, and household goods. Rebuilt in 1998 after a devastating fire, it underwent expansion in 2012 adding 50 stalls. Daily footfall averages 5,000 customers. The market features a dedicated fish section, a meat hall with refrigeration, and a parking lot for 250 cars. Annual revenue exceeds €1.5 million.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3 Hektar", "1.000 Händler", "5.000 Kunden täglich", "Wiederaufbau 1998", "Erweiterung 2012 mit 50 neuen Ständen", "Jahreseinnahmen: 1,5 Mio. Euro"],
+      hu: ["Terület: 2,5 hektár", "800 árusítóhely", "4.000 napi vásárló", "Újjáépítés: 1998", "Vízrendszer felújítás: 2015", "Éves forgalom: 10 millió euró"],
+      ro: ["Suprafață: 3,5 hectare", "1.200 comercianți", "6.000 clienți zilnic", "Reconstruit în 1999", "Modernizare în 2010", "Venit anual: 2 milioane euro"],
+      en: ["Area: 3 hectares", "1,000 vendors", "5,000 daily visitors", "Rebuilt in 1998", "Expanded in 2012", "Annual revenue: €1.5 million"],
+    },
   },
   {
     id: "equatorialguinea-machinda-port-depot-economic-v2",
     type: "port",
     name: { de: "Hafenlager Machinda", hu: "Machinda kikötői raktár", ro: "Depozit portuar Machinda", en: "Machinda Port Depot" },
-    coordinates: { lat: 1.765, lng: 9.6833 },
+    coords: [9.6833, 1.765],
     description: {
       de: "Das Hafenlager in Machinda dient als wichtiger Stützpunkt für die logistische Abwicklung von Gütern entlang der Küste. Es verbessert den Warenumschlag.",
       hu: "A Machinda-i kikötői raktár fontos bázis a tengerparti áruk logisztikai kezelésében. Javítja az áruforgalmat.",
@@ -865,12 +961,24 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Coastal transshipment point", "Modernized storage facilities", "Connected to national trade routes", "Specialized in construction material logistics"],
     },
     imageHint: "port storage containers logistics",
+    descriptionAdvanced: {
+      de: "Das Machinda Hafenlager an der Mündung des Río Benito ist ein wichtiger Umschlagplatz für Holzexporte. Erbaut 1970, dient es der Verschiffung von Okoumé- und Sapeli-Holz nach Europa und Asien. Das Lager hat 10.000 m² überdachte Fläche und einen eigenen Kai mit 8 m Wassertiefe. Jährlich werden 80.000 Tonnen Holz umgeschlagen. 2018 wurde eine moderne Sägewerksanlage installiert, die 5.000 Tonnen Schnittholz pro Jahr produziert. 200 Arbeiter sind beschäftigt.",
+      hu: "A Machinda Kikötői Raktár a Benito folyó torkolatánál található. 1972-ben épült, és a régió fő faanyag exportpontja. Évente 70.000 tonna fát kezel, főként okoumé és sapeli fajtákat. A raktár 8.000 m² fedett területtel és 6 m merülésű kikötőhellyel rendelkezik. 2015-ben bővítették, új darukkal és szárítóberendezéssel. 180 embert foglalkoztat, és 500 helyi kereskedőt szolgál ki.",
+      ro: "Depozitul Portuar Machinda, situat la gura râului Benito, este un centru major pentru exportul de cherestea. Construit în 1971, are un chei de 200 m lungime și o adâncime de 7 m. Depozitul acoperă 12.000 m² și manipulează 90.000 de tone de lemn anual. În 2016 s-a adăugat un sistem de uscare cu abur. Angajează 220 de persoane și deservește peste 300 de companii forestiere.",
+      en: "The Machinda Port Depot, located at the mouth of the Río Benito, is a key logistics center for timber exports. Established in 1970, it features a 150-meter quay with a draft of 8 meters. The covered storage area spans 10,000 m², handling 80,000 tons of logs and sawn timber annually. In 2018, a sawmill with a capacity of 5,000 tons per year was added. The depot employs 200 workers and supports the regional forestry sector.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1970", "Lagerfläche: 10.000 m² überdacht", "Kai mit 8 m Wassertiefe", "Jährlicher Umschlag: 80.000 Tonnen Holz", "Sägewerk seit 2018: 5.000 Tonnen/Jahr", "200 Beschäftigte"],
+      hu: ["Építés: 1972", "Fedett terület: 8.000 m²", "Éves faforgalom: 70.000 tonna", "Kikötő mélység: 6 m", "Bővítés: 2015", "Foglalkoztatottak: 180"],
+      ro: ["Construit în 1971", "Chei lungime: 200 m", "Adâncime chei: 7 m", "Suprafață depozit: 12.000 m²", "Capacitate anuală: 90.000 tone", "Angajați: 220"],
+      en: ["Built in 1970", "Covered area: 10,000 m²", "Quay length: 150 m", "Annual throughput: 80,000 tons", "Sawmill capacity: 5,000 tons/year", "200 employees"],
+    },
   },
   {
     id: "equatorialguinea-nsok-nsomo-trade-hub-economic-v2",
     type: "city",
     name: { de: "Handelsknoten Nsok-Nsomo", hu: "Nsok-Nsomo kereskedelmi csomópont", ro: "Nod comercial Nsok-Nsomo", en: "Nsok-Nsomo Trade Hub" },
-    coordinates: { lat: 1.3483, lng: 10.9833 },
+    coords: [10.9833, 1.3483],
     description: {
       de: "Nsok-Nsomo ist ein vitaler Handelsort für die Provinz Kie-Ntem. Es fungiert als zentraler Markt für den Austausch von Waren aus der Region.",
       hu: "Nsok-Nsomo létfontosságú kereskedelmi helyszín Kie-Ntem tartomány számára. Központi piacként szolgál a régióból származó áruk cseréjére.",
@@ -884,6 +992,18 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       en: ["Trade in forestry goods", "Local economic engine", "Important meeting point for traders", "Link to local transport networks"],
     },
     imageHint: "busy town marketplace commercial activity",
+    descriptionAdvanced: {
+      de: "Der Handelsknoten Nsok-Nsomo an der Grenze zu Gabun ist ein bedeutender Markt für grenzüberschreitenden Handel. Er entstand in den 1980er Jahren informell und wurde 2005 offiziell ausgebaut. Täglich handeln 300 Händler mit Lebensmitteln, Textilien und Gebrauchsgütern. Der Markt erstreckt sich über 2 Hektar und hat 150 feste Stände. Der Warenwert belief sich 2020 auf schätzungsweise 5 Millionen Euro pro Jahr. Der Knoten profitiert von der Zollfreiheit für Grundnahrungsmittel.",
+      hu: "Az Nsok-Nsomo Kereskedelmi Központ Egyenlítői-Guinea és Gabon határán fekszik. Az 1980-as években alakult ki, és 2006-ban kapott hivatalos piaci státuszt. Naponta 350 kereskedő árul itt, főként élelmiszert, ruházatot és háztartási eszközöket. A piac 3 hektáron terül el, 200 standdal. Az éves forgalom eléri a 4 millió eurót. A központ fontos bevételi forrás a helyi önkormányzat számára.",
+      ro: "Hubul Comercial Nsok-Nsomo, situat la granița cu Gabon, este o piață transfrontalieră vitală. A luat naștere în anii 1980 și a fost oficializat în 2005. Zilnic, 400 de comercianți vând produse alimentare, îmbrăcăminte și electronice. Piața se întinde pe 2,5 hectare și are 180 de tarabe permanente. Valoarea anuală a tranzacțiilor este estimată la 6 milioane de euro. Facilitățile includ un post de frontieră și o stație de ambulanță.",
+      en: "The Nsok-Nsomo Trade Hub, located at the Gabonese border, facilitates informal cross-border trade. Originating in the 1980s, it was formalized in 2005 with infrastructure investments. It hosts 300 vendors daily, trading in food, textiles, and household goods. The market covers 2 hectares with 150 permanent stalls. Annual trade value is estimated at €5 million. The hub benefits from duty-free status on essential commodities.",
+    },
+    factsAdvanced: {
+      de: ["Grenzlage zu Gabun", "Entstanden 1980er Jahre", "Offiziell ausgebaut 2005", "300 Händler täglich", "2 Hektar Fläche", "Jahresumsatz ca. 5 Mio. Euro"],
+      hu: ["Határhelyzet Gabonnal", "Kialakulás: 1980-as évek", "Hivatalos piac: 2006", "Napi 350 kereskedő", "Terület: 3 hektár", "Éves forgalom: 4 millió euró"],
+      ro: ["Situat la granița cu Gabon", "Apărut în anii 1980", "Oficializat în 2005", "400 de comercianți zilnic", "Suprafață: 2,5 hectare", "Valoare anuală: 6 milioane euro"],
+      en: ["Border location with Gabon", "Originated in 1980s", "Formalized in 2005", "300 daily vendors", "Area: 2 hectares", "Annual trade value: €5 million"],
+    },
   }
 ];
 

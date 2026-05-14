@@ -1408,7 +1408,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-museu-nacional-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von São Tomé und Príncipe", hu: "São Tomé és Príncipe Nemzeti Múzeuma", ro: "Muzeul Național din São Tomé și Príncipe", en: "National Museum of São Tomé and Príncipe" },
-    coordinates: { lat: 0.3422, lng: 6.7408 },
+    coords: [6.7408, 0.3422],
     description: {
       de: "Das Museum befindet sich in der Festung São Sebastião. Es zeigt Exponate zur Kolonialgeschichte und sakrale Kunst.",
       hu: "A múzeum a São Sebastião-erődben található. Gyarmati történelmi emlékeket és szakrális művészeti tárgyakat mutat be.",
@@ -1427,7 +1427,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-santo-amaro-landmarks-v2",
     type: "church",
     name: { de: "Kirche Santo Amaro", hu: "Santo Amaro-templom", ro: "Biserica Santo Amaro", en: "Church of Saint Amaro" },
-    coordinates: { lat: 0.3444, lng: 6.7111 },
+    coords: [6.7111, 0.3444],
     description: {
       de: "Dies ist die älteste Kirche des Archipels. Sie befindet sich im Nordwesten der Hauptstadt São Tomé.",
       hu: "Ez a szigetcsoport legrégebbi temploma. A főváros, São Tomé északnyugati részén helyezkedik el.",
@@ -1446,7 +1446,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-farol-santa-catarina-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Santa Catarina", hu: "Santa Catarina-világítótorony", ro: "Farul Santa Catarina", en: "Santa Catarina Lighthouse" },
-    coordinates: { lat: 0.2505, lng: 6.4831 },
+    coords: [6.4831, 0.2505],
     description: {
       de: "Ein eiserner Leuchtturm an der Westküste von São Tomé. Er dient der Navigation in der Nähe von Neves.",
       hu: "Egy vasból készült világítótorony São Tomé nyugati partján. A Neves közeli hajózást segíti.",
@@ -1465,7 +1465,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-museu-cafe-landmarks-v2",
     type: "museum",
     name: { de: "Kaffeemuseum Monte Café", hu: "Monte Café Kávémúzeum", ro: "Muzeul Cafelei Monte Café", en: "Monte Café Coffee Museum" },
-    coordinates: { lat: 0.3014, lng: 6.6394 },
+    coords: [6.6394, 0.3014],
     description: {
       de: "Das Museum dokumentiert den Kaffeeanbau auf einer historischen Plantage. Es liegt in den kühlen Bergen.",
       hu: "A múzeum a kávétermesztést mutatja be egy történelmi ültetvényen. A hűvös hegyekben található.",
@@ -1484,7 +1484,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-monumento-fernao-dias-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal Fernão Dias", hu: "Fernão Dias-emlékmű", ro: "Monumentul Fernão Dias", en: "Fernão Dias Monument" },
-    coordinates: { lat: 0.3953, lng: 6.6781 },
+    coords: [6.6781, 0.3953],
     description: {
       de: "Ein Denkmal an der Küste zur Erinnerung an das Massaker von Batepá. Es markiert einen Ort des Leids.",
       hu: "Parti emlékmű a Batepá-mészárlás áldozatainak emlékére. A szenvedés egyik helyszínét jelöli.",
@@ -1503,7 +1503,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-edificio-correios-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptpostgebäude", hu: "Központi Postaépület", ro: "Clădirea Poștei Centrale", en: "Main Post Office Building" },
-    coordinates: { lat: 0.3392, lng: 6.7336 },
+    coords: [6.7336, 0.3392],
     description: {
       de: "Ein markantes Gebäude der Kolonialmoderne im Zentrum von São Tomé. Es dient als Hauptsitz der Post.",
       hu: "Jellegzetes gyarmati modern épület São Tomé központjában. A posta főhadiszállásaként szolgál.",
@@ -1522,7 +1522,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-edificio-alfandega-landmarks-v2",
     type: "landmark",
     name: { de: "Zollgebäude von São Tomé", hu: "São Tomé-i Vámház", ro: "Clădirea Vămii din São Tomé", en: "São Tomé Customs House" },
-    coordinates: { lat: 0.3408, lng: 6.7378 },
+    coords: [6.7378, 0.3408],
     description: {
       de: "Historisches Verwaltungsgebäude am Hafen von São Tomé. Es spielte eine zentrale Rolle im Warenhandel.",
       hu: "Történelmi igazgatási épület São Tomé kikötőjénél. Központi szerepet játszott az árukereskedelemben.",
@@ -1541,7 +1541,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-hospital-ayres-menezes-landmarks-v2",
     type: "landmark",
     name: { de: "Krankenhaus Dr. Ayres de Menezes", hu: "Dr. Ayres de Menezes Kórház", ro: "Spitalul Dr. Ayres de Menezes", en: "Dr. Ayres de Menezes Hospital" },
-    coordinates: { lat: 0.3364, lng: 6.7411 },
+    coords: [6.7411, 0.3364],
     description: {
       de: "Das größte Krankenhaus des Landes mit historischen Gebäudeteilen. Es liegt nahe der Küste der Hauptstadt.",
       hu: "Az ország legnagyobb kórháza történelmi épületrészekkel. A főváros partjához közel található.",
@@ -1560,7 +1560,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-santa-cruz-landmarks-v2",
     type: "church",
     name: { de: "Heilig-Kreuz-Kirche von Trindade", hu: "Trindadei Szent Kereszt-templom", ro: "Biserica Sfânta Cruce din Trindade", en: "Holy Cross Church of Trindade" },
-    coordinates: { lat: 0.2981, lng: 6.6806 },
+    coords: [6.6806, 0.2981],
     description: {
       de: "Eine bedeutende katholische Kirche in der Stadt Trindade. Sie ist ein Zentrum für religiöse Feste.",
       hu: "Jelentős katolikus templom Trindade városában. A vallási ünnepek egyik központja.",
@@ -1579,7 +1579,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-camara-municipal-agua-grande-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Água Grande", hu: "Água Grande Városháza", ro: "Primăria din Água Grande", en: "Água Grande City Hall" },
-    coordinates: { lat: 0.3397, lng: 6.7314 },
+    coords: [6.7314, 0.3397],
     description: {
       de: "Der Sitz der Stadtverwaltung von São Tomé. Ein repräsentatives Gebäude im Herzen der Stadt.",
       hu: "São Tomé városi közigazgatásának székhelye. Egy reprezentatív épület a város szívében.",
@@ -1598,7 +1598,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-farol-ponta-figo-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Ponta Figo", hu: "Ponta Figo-világítótorony", ro: "Farul Ponta Figo", en: "Ponta Figo Lighthouse" },
-    coordinates: { lat: 0.3803, lng: 6.5161 },
+    coords: [6.5161, 0.3803],
     description: {
       de: "Dieser Leuchtturm steht an der Nordwestspitze von São Tomé. Er sichert die Seefahrt in Küstennähe.",
       hu: "Ez a világítótorony São Tomé északnyugati csücskén áll. A parti hajózás biztonságát szolgálja.",
@@ -1617,7 +1617,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-santana-landmarks-v2",
     type: "church",
     name: { de: "Pfarrkirche von Santana", hu: "Santana-plébániatemplom", ro: "Biserica Parohială din Santana", en: "Santana Parish Church" },
-    coordinates: { lat: 0.2442, lng: 6.7447 },
+    coords: [6.7447, 0.2442],
     description: {
       de: "Eine charmante Kirche in der Küstenstadt Santana. Sie ist ein markanter Punkt an der Ostküste.",
       hu: "Bájos templom Santana tengerparti városában. Az keleti part egyik jellegzetes pontja.",
@@ -1636,7 +1636,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-ponte-manuel-jorge-landmarks-v2",
     type: "bridge",
     name: { de: "Manuel-Jorge-Brücke", hu: "Manuel Jorge-híd", ro: "Podul Manuel Jorge", en: "Manuel Jorge Bridge" },
-    coordinates: { lat: 0.2486, lng: 6.7114 },
+    coords: [6.7114, 0.2486],
     description: {
       de: "Diese Brücke überquert den Fluss Manuel Jorge südlich der Hauptstadt. Sie ist Teil der Hauptstraße.",
       hu: "Ez a híd a Manuel Jorge-folyót íveli át a fővárostól délre. A főútvonal része.",
@@ -1655,7 +1655,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-angolares-landmarks-v2",
     type: "church",
     name: { de: "Kirche von São João dos Angolares", hu: "São João dos Angolares-templom", ro: "Biserica din São João dos Angolares", en: "Church of São João dos Angolares" },
-    coordinates: { lat: 0.1347, lng: 6.6481 },
+    coords: [6.6481, 0.1347],
     description: {
       de: "Eine historische Kirche im Süden der Insel. Sie dient der Gemeinschaft der Angolares als Gebetshaus.",
       hu: "Történelmi templom a sziget déli részén. Az angolares közösség imaházaként szolgál.",
@@ -1674,7 +1674,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-ponte-pantufo-landmarks-v2",
     type: "bridge",
     name: { de: "Pantufo-Brücke", hu: "Pantufo-híd", ro: "Podul Pantufo", en: "Pantufo Bridge" },
-    coordinates: { lat: 0.3183, lng: 6.7428 },
+    coords: [6.7428, 0.3183],
     description: {
       de: "Eine Brücke im Fischerdorf Pantufo, nahe São Tomé. Sie verbindet die Küstenabschnitte des Ortes.",
       hu: "Híd Pantufo halászfalujában, São Tomé közelében. A település parti szakaszait köti össze.",
@@ -1693,7 +1693,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-marco-equador-landmarks-v2",
     type: "monument",
     name: { de: "Äquatormarkierung", hu: "Egyenlítő-emlékmű", ro: "Marcajul Ecuatorului", en: "Equator Marker" },
-    coordinates: { lat: 0.0, lng: 6.5211 },
+    coords: [6.5211, 0.0],
     description: {
       de: "Ein Monument auf der Insel Rolas, das den Verlauf des Äquators markiert. Es ist ein weltberühmter Ort.",
       hu: "Emlékmű a Rolas-szigeten, amely az Egyenlítő vonalát jelzi. Világhírű turisztikai helyszín.",
@@ -1712,7 +1712,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-guadalupe-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Guadalupe", hu: "Guadalupe-templom", ro: "Biserica din Guadalupe", en: "Church of Guadalupe" },
-    coordinates: { lat: 0.3583, lng: 6.6458 },
+    coords: [6.6458, 0.3583],
     description: {
       de: "Eine katholische Kirche in der Stadt Guadalupe. Sie ist der Mittelpunkt der Gemeinde im Distrikt Lobata.",
       hu: "Katolikus templom Guadalupe városában. Lobata kerület közösségének központja.",
@@ -1731,7 +1731,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-ponte-neves-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Neves", hu: "Nevesi híd", ro: "Podul din Neves", en: "Neves Town Bridge" },
-    coordinates: { lat: 0.3581, lng: 6.5494 },
+    coords: [6.5494, 0.3581],
     description: {
       de: "Diese Brücke führt über einen Küstenfluss in der Industriestadt Neves. Sie verbindet die Stadtteile.",
       hu: "Ez a híd egy parti folyón vezet át Neves iparvárosában. A városrészeket köti össze.",
@@ -1750,7 +1750,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-assembleia-regional-principe-landmarks-v2",
     type: "landmark",
     name: { de: "Regionalversammlung von Príncipe", hu: "Príncipe Regionális Gyűlése", ro: "Adunarea Regională din Príncipe", en: "Príncipe Regional Assembly" },
-    coordinates: { lat: 1.6375, lng: 7.4189 },
+    coords: [7.4189, 1.6375],
     description: {
       de: "Der Sitz der regionalen Legislative auf der Insel Príncipe. Es befindet sich in Santo António.",
       hu: "Príncipe szigetének regionális törvényhozási székhelye. Santo António városában található.",
@@ -1769,7 +1769,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-farol-ilheu-bombom-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Ilhéu Bombom", hu: "Ilhéu Bombom-világítótorony", ro: "Farul Ilhéu Bombom", en: "Bombom Island Lighthouse" },
-    coordinates: { lat: 1.7011, lng: 7.4022 },
+    coords: [7.4022, 1.7011],
     description: {
       de: "Ein kleiner Leuchtturm auf der Insel Bombom nördlich von Príncipe. Er leitet Schiffe um die Nordspitze.",
       hu: "Kis világítótorony a Bombom-szigeten, Príncipétől északra. A hajókat vezeti az északi fok körül.",
@@ -1788,7 +1788,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-ponte-ribeira-afonso-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Ribeira Afonso", hu: "Ribeira Afonso-híd", ro: "Podul Ribeira Afonso", en: "Ribeira Afonso Bridge" },
-    coordinates: { lat: 0.1764, lng: 6.7214 },
+    coords: [6.7214, 0.1764],
     description: {
       de: "Diese Brücke überquert den Fluss Afonso an der Ostküste. Sie ist wichtig für die Route in den Süden.",
       hu: "Ez a híd az Afonso-folyót íveli át a keleti parton. Fontos a délre tartó útvonal szempontjából.",
@@ -1807,7 +1807,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-igreja-madalena-landmarks-v2",
     type: "church",
     name: { de: "Kirche von Madalena", hu: "Madalena-templom", ro: "Biserica din Madalena", en: "Church of Madalena" },
-    coordinates: { lat: 0.3208, lng: 6.6667 },
+    coords: [6.6667, 0.3208],
     description: {
       de: "Eine ländliche Kirche in der Siedlung Madalena. Sie ist ein Beispiel für die Architektur des Binnenlandes.",
       hu: "Vidéki templom Madalena településén. A belső területek építészetének egyik példája.",
@@ -1826,7 +1826,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-ponte-santo-antonio-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Santo António", hu: "Santo António-híd", ro: "Podul din Santo António", en: "Santo António Bridge" },
-    coordinates: { lat: 1.6361, lng: 7.4208 },
+    coords: [7.4208, 1.6361],
     description: {
       de: "Eine wichtige Brücke über den Rio Papagaio in Santo António. Sie verbindet die beiden Seiten der Hauptstadt.",
       hu: "Fontos híd a Rio Papagaio felett Santo António-ban. A főváros két oldalát köti össze.",
@@ -1845,7 +1845,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-casa-cultura-landmarks-v2",
     type: "landmark",
     name: { de: "Kulturhaus von São Tomé", hu: "São Tomé-i Kultúrház", ro: "Casa de Cultură din São Tomé", en: "São Tomé Culture House" },
-    coordinates: { lat: 0.3386, lng: 6.7358 },
+    coords: [6.7358, 0.3386],
     description: {
       de: "Ein Zentrum für Kunst und kulturelle Veranstaltungen in der Hauptstadt. Es fördert lokale Künstler.",
       hu: "Művészeti és kulturális rendezvények központja a fővárosban. Támogatja a helyi művészeket.",
@@ -1864,7 +1864,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
     id: "saotomeandprincipe-antigo-cais-landmarks-v2",
     type: "landmark",
     name: { de: "Alter Kai von São Tomé", hu: "São Tomé-i Régi Rakpart", ro: "Vechiul Debarcader din São Tomé", en: "Old Pier of São Tomé" },
-    coordinates: { lat: 0.3425, lng: 6.7353 },
+    coords: [6.7353, 0.3425],
     description: {
       de: "Überreste der alten Hafenanlage an der Bucht von Ana Chaves. Er zeugt von der maritimen Geschichte.",
       hu: "A régi kikötői létesítmény maradványai az Ana Chaves-öbölben. A tengerészeti múlt emléke.",

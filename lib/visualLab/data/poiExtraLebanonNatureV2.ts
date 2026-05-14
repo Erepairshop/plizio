@@ -5,7 +5,7 @@ export const lebanonNatureV2: POI[] = [
     id: "lebanon-qaraoun-lake-nature-v2",
     type: "lake",
     name: { de: "Qaraoun-See", hu: "Qaraoun-tó", ro: "Lacul Qaraoun", en: "Lake Qaraoun" },
-    coordinates: { lat: 33.5714, lng: 35.8322 },
+    coords: [35.8322, 33.5714],
     description: {
       de: "Der Qaraoun-See ist der größte künstliche See im Libanon am Litani-Fluss. Er dient der Stromerzeugung und Bewässerung der Bekaa-Ebene.",
       hu: "A Qaraoun-tó Libanon legnagyobb mesterséges tava a Litáni-folyón. 1959-ben hozták létre áramtermelés és öntözés céljából.",
@@ -19,12 +19,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Surface area of about 12 square kilometers.", "Dam built in 1959.", "Dam height of 61 meters.", "Capacity of 220 million cubic meters."],
     },
     imageHint: "Aerial view of Lake Qaraoun and the Litani dam",
+    descriptionAdvanced: {
+      de: "Der Qaraoun-See ist der größte künstliche See im Libanon, entstanden durch den Qaraoun-Damm am Litani-Fluss. Er dient der Bewässerung, Stromerzeugung und Erholung. Der See ist ein beliebtes Ziel für Angler und Wassersportler, aber auch für Vogelbeobachter. Die umliegenden Hügel sind mit Weinbergen und Obstplantagen bedeckt.",
+      hu: "A Qaraoun-tó Libanon legnagyobb mesterséges tava, amely a Litani folyón épült gát által jött létre. Víztározóként szolgál öntözéshez és vízerőművek számára. A tó környéke népszerű rekreációs terület, ahol horgászni, vitorlázni és madarakat figyelni lehet. A part mentén számos üdülőhely található.",
+      ro: "Lacul Qaraoun este cel mai mare lac artificial din Liban, format de barajul Qaraoun pe râul Litani. Acesta joacă un rol crucial în irigarea Văii Beqaa și producerea de electricitate. Zona este un punct de atracție pentru pescuit și sporturi nautice, iar pe maluri cresc sălcii și papură.",
+      en: "Lake Qaraoun is the largest man-made lake in Lebanon, created in 1959 by damming the Litani River. The reservoir has a capacity of 220 million cubic meters and provides irrigation to 27,000 hectares of farmland. It also supports a hydroelectric power station. The lake is a key waterfowl habitat despite eutrophication issues.",
+    },
+    factsAdvanced: {
+      de: ["Stauseevolumen: 220 Mio. m³", "Dammhöhe: 60 m", "Bewässerte Fläche: 27.000 ha", "Jahr der Fertigstellung: 1959", "Länge: 12 km", "Breite: bis zu 3 km"],
+      hu: ["Víztározó térfogata: 220 millió m³", "Gát magassága: 60 méter", "Öntözött terület: 27.000 hektár", "Építés éve: 1959", "Hossz: 12 km", "Szélesség: 3 km-ig"],
+      ro: ["Volumul rezervorului: 220 milioane m³", "Înălțimea barajului: 60 m", "Suprafața irigată: 27.000 ha", "Anul finalizării: 1959", "Lungimea lacului: 12 km", "Lățimea maximă: 3 km"],
+      en: ["Reservoir volume: 220 million m³", "Dam height: 60 m", "Irrigated area: 27,000 ha", "Completed: 1959", "Lake length: 12 km", "Maximum width: 3 km"],
+    },
   },
   {
     id: "lebanon-nahr-ibrahim-nature-v2",
     type: "river",
     name: { de: "Nahr Ibrahim", hu: "Nahr Ibrahim", ro: "Râul Nahr Ibrahim", en: "Nahr Ibrahim River" },
-    coordinates: { lat: 34.0658, lng: 35.6481 },
+    coords: [35.6481, 34.0658],
     description: {
       de: "Der Fluss Nahr Ibrahim ist in der Mythologie als Adonis-Fluss bekannt. Er entspringt in Afqa und mündet nördlich von Jounieh ins Meer.",
       hu: "A Nahr Ibrahim folyó a mitológiában Adonis-folyóként ismert. Afqában ered és Jounieh-től északra torkollik a Földközi-tengerbe.",
@@ -38,12 +50,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Total length of about 30 kilometers.", "Linked to the myth of Adonis and Aphrodite.", "Famous for its reddish color in spring.", "Discharges into the sea near ancient Byblos."],
     },
     imageHint: "The Nahr Ibrahim river valley with lush vegetation",
+    descriptionAdvanced: {
+      de: "Der Nahr Ibrahim ist ein Fluss im Libanon, der von den Höhen des Libanongebirges ins Mittelmeer fließt. Sein Tal ist reich an Vegetation und beherbergt viele Quellen und Wasserfälle. Der Fluss ist bekannt für seine historische Bedeutung, da er in der Antike als heilig galt. Heute ist er ein beliebtes Ziel für Rafting und Wandern. Die umliegenden Dörfer leben von Landwirtschaft und Tourismus.",
+      hu: "A Nahr Ibrahim folyó Libanon egyik legfontosabb vízfolyása, amely a hegyekből ered és a Földközi-tengerbe ömlik. A folyó völgye buja növényzetű, és számos forrás táplálja. A terület fontos a madárvonulás szempontjából, és a helyi gazdálkodók a vízhasználatot szabályozzák.",
+      ro: "Râul Nahr Ibrahim izvorăște din Munții Libanului și se varsă în Marea Mediterană. Valea sa este cunoscută pentru peisajele pitorești și diversitatea floristică. Râul este folosit pentru irigații și producerea de energie hidroelectrică, iar pe maluri se găsesc așezări rurale cu tradiții agricole.",
+      en: "The Nahr Ibrahim River, also known as the Adonis River, runs through a scenic valley with deep gorges and limestone cliffs. The river has been historically significant since Phoenician times, associated with the myth of Adonis. Today, it provides water for agriculture and domestic use, but faces challenges from pollution and water extraction.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 50 km", "Einzugsgebiet: 600 km²", "Durchflussmenge: 10 m³/s im Frühjahr", "Höchster Wasserfall: 30 m", "Anzahl der Gemeinden im Tal: 8", "Mündung: Mittelmeer bei Jbeil"],
+      hu: ["Hossz: 50 km", "Vízgyűjtő terület: 600 km²", "Tavaszi vízhozam: 10 m³/s", "Legmagasabb vízesés: 30 m", "Völgyben lévő települések száma: 8", "Torkolat: Földközi-tenger, Byblosnál"],
+      ro: ["Lungime: 50 km", "Bazin hidrografic: 600 km²", "Debit primăvara: 10 m³/s", "Cea mai mare cascadă: 30 m", "Număr de sate în vale: 8", "Gura de vărsare: Marea Mediterană la Byblos"],
+      en: ["Length: 50 km", "Catchment area: 600 km²", "Spring discharge: 10 m³/s", "Highest waterfall: 30 m", "Villages in valley: 8", "Mouth: Mediterranean at Byblos"],
+    },
   },
   {
     id: "lebanon-afqa-grotto-nature-v2",
     type: "landmark",
     name: { de: "Afqa-Grotte", hu: "Afqa-barlang", ro: "Grota Afqa", en: "Afqa Grotto" },
-    coordinates: { lat: 34.0681, lng: 35.8928 },
+    coords: [35.8928, 34.0681],
     description: {
       de: "Die Afqa-Grotte ist die Quelle des Nahr Ibrahim und ein heiliger Ort. Hier stürzt ein Wasserfall aus einer massiven Kalksteinwand.",
       hu: "Az Afqa-barlang a Nahr Ibrahim folyó forrása és egy szent hely. Egy hatalmas mészkőfalból zúdul ki itt a vízivízesés.",
@@ -57,12 +81,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Located at 1200 meters above sea level.", "Sacred site for the god Adonis.", "Contains ruins of a Roman temple.", "Impressive waterfall during snowmelt."],
     },
     imageHint: "The entrance of Afqa Grotto with water flowing out",
+    descriptionAdvanced: {
+      de: "Die Afqa-Grotte ist eine beeindruckende Karsthöhle im Libanon, aus der eine starke Quelle entspringt, die den Nahr Ibrahim speist. Die Grotte ist von steilen Felswänden umgeben und hat eine tiefe mythologische Bedeutung. In der Antike wurde sie der Göttin Astarte geweiht. Heute ist sie ein beliebtes Ausflugsziel, das Wandermöglichkeiten und spektakuläre Ausblicke bietet.",
+      hu: "Az Afqa-barlang egy lenyűgöző forrásbarlang, ahol a Nahr Ibrahim folyó ered. A helyszín gazdag mitológiában, hiszen Adonisz és Aphrodité történetéhez kötődik. A barlang környéke védett természeti terület, ahol ritka növényfajok és madarak élnek. A látogatók a barlanghoz vezető ösvényeken csodálhatják meg a tájat.",
+      ro: "Grota Afqa este o peșteră carstică din Liban, de unde izvorăște râul Nahr Ibrahim. Acest loc sacru a fost venerat în antichitate ca sanctuar al zeiței Astarte. Peștera este înconjurată de pereți abrupți și păduri de stejar, oferind un habitat pentru specii endemice de lilieci.",
+      en: "Afqa Grotto is a large limestone cave in the Mount Lebanon range, the source of the Adonis River. The cave is a natural bridge formation with a vertical drop of 200 meters to the pool below. Archaeological excavations have revealed artifacts from the Neolithic and Roman periods. The site is also a haven for rock climbers and hikers.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe des Schachts: 200 m", "Wassertemperatur der Quelle: 12 °C", "Höhe über dem Meeresspiegel: 1200 m", "Schüttung der Quelle: 5 m³/s", "Alter der Höhle: ca. 20 Mio. Jahre", "Jährliche Besucherzahl: 50.000"],
+      hu: ["A barlang mélysége: 200 m", "Forrás vízhőmérséklete: 12 °C", "Tengerszint feletti magasság: 1200 m", "Forrás hozama: 5 m³/s", "Barlang kora: kb. 20 millió év", "Éves látogatók száma: 50.000"],
+      ro: ["Adâncimea peșterii: 200 m", "Temperatura apei izvorului: 12 °C", "Altitudine: 1200 m", "Debitul izvorului: 5 m³/s", "Vârsta peșterii: aprox. 20 milioane de ani", "Număr anual de vizitatori: 50.000"],
+      en: ["Cave depth: 200 m", "Spring water temperature: 12 °C", "Elevation: 1200 m", "Spring discharge: 5 m³/s", "Cave age: approx. 20 million years", "Annual visitors: 50,000"],
+    },
   },
   {
     id: "lebanon-jezzine-waterfall-nature-v2",
     type: "landmark",
     name: { de: "Jezzine-Wasserfall", hu: "Jezzine-vízesés", ro: "Cascada Jezzine", en: "Jezzine Waterfall" },
-    coordinates: { lat: 33.5417, lng: 35.5861 },
+    coords: [35.5861, 33.5417],
     description: {
       de: "Der Jezzine-Wasserfall, auch Shalouf genannt, stürzt über eine Klippe. Er gehört zu den höchsten Wasserfällen im Nahen Osten.",
       hu: "A Jezzine-vízesés, más néven Shalouf, egy meredek szikláról zúdul alá. Közel-Kelet egyik legmagasabb vízeséseként ismert.",
@@ -76,12 +112,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Drop height of about 74 meters.", "Landmark of the city of Jezzine.", "Visible from many points in the town.", "Most powerful during the spring season."],
     },
     imageHint: "Long shot of the Jezzine Waterfall from the valley",
+    descriptionAdvanced: {
+      de: "Der Jezzine-Wasserfall ist einer der höchsten Wasserfälle im Libanon, gelegen in der Nähe der Stadt Jezzine. Er stürzt über eine Klippe in eine Schlucht und ist ein beliebtes Touristenziel. Das Wasser stammt aus Quellen, die von Schneeschmelze gespeist werden. Die Region ist für ihre Pinienwälder und die Produktion von Jezzine-Messer bekannt.",
+      hu: "A Jezzine-vízesés Libanon egyik leglátványosabb természeti látványossága, a város közelében található. A vízesés magassága eléri a 70 métert, és a környék sűrű erdőségekkel borított. A helyi gazdaságban fontos szerepet játszik a turizmus, valamint a kézműves termékek előállítása.",
+      ro: "Cascada Jezzine este una dintre cele mai înalte căderi de apă din Liban, situată în apropierea orașului Jezzine. Apa provine din izvoare montane și alimentează un pârâu care traversează o vale împădurită. Cascada este un simbol al regiunii și atrage vizitatori datorită peisajului spectaculos și aerului curat.",
+      en: "Jezzine Waterfall is a 90-meter-high cascade in the Jezzine District, fed by snowmelt and natural springs. The waterfall flows year-round but peaks in spring. The surrounding area is known for its pine forests and is a popular summer resort. The waterfall also powers a small hydroelectric plant that supplies electricity to nearby villages.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 90 m", "Durchflussmenge: 2 m³/s im Frühjahr", "Höhe über dem Meeresspiegel: 900 m", "Jährliche Niederschlagsmenge: 1000 mm", "Entfernung zur Stadt Jezzine: 3 km", "Anzahl der Besucher jährlich: 100.000"],
+      hu: ["Magasság: 90 méter", "Tavaszi vízhozam: 2 m³/s", "Tengerszint feletti magasság: 900 m", "Éves csapadék: 1000 mm", "Távolság Jezzine városától: 3 km", "Éves látogatók száma: 100.000"],
+      ro: ["Înălțime: 90 m", "Debit primăvara: 2 m³/s", "Altitudine: 900 m", "Precipitații anuale: 1000 mm", "Distanța până la orașul Jezzine: 3 km", "Număr anual de vizitatori: 100.000"],
+      en: ["Height: 90 m", "Spring flow rate: 2 m³/s", "Elevation: 900 m", "Annual rainfall: 1000 mm", "Distance from Jezzine town: 3 km", "Annual visitors: 100,000"],
+    },
   },
   {
     id: "lebanon-nahr-el-assi-nature-v2",
     type: "river",
     name: { de: "Nahr el-Assi", hu: "Nahr el-Assi", ro: "Râul Orontes", en: "Orontes River" },
-    coordinates: { lat: 34.345, lng: 36.3814 },
+    coords: [36.3814, 34.345],
     description: {
       de: "Der Nahr el-Assi ist der einzige Fluss im Libanon, der nach Norden fließt. Er entspringt bei Hermel und ist ein beliebtes Rafting-Ziel.",
       hu: "A Nahr el-Assi az egyetlen folyó Libanonban, amely észak felé folyik. Hermel közelében ered és népszerű rafting helyszín.",
@@ -95,12 +143,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Name means 'the rebellious river'.", "Most important river in northern Beqaa.", "Perennial river with constant flow.", "Known for trout farming and sports."],
     },
     imageHint: "Rafting on the Orontes river near Hermel",
+    descriptionAdvanced: {
+      de: "Der Nahr el-Assi, auch Orontes genannt, ist ein Fluss, der im Libanon entspringt und durch Syrien und die Türkei fließt. Sein Quellgebiet liegt in der Bekaa-Ebene. Der Fluss ist für die Bewässerung der Region von großer Bedeutung und hat eine reiche Geschichte. In der Antike war er Schauplatz mehrerer Schlachten. Heute ist er durch Wassernutzung und Verschmutzung bedroht.",
+      hu: "A Nahr el-Assi (Orontész) folyó Libanonban ered, és áthalad Szírián és Törökországon. A folyó völgye termékeny mezőgazdasági terület, ahol gyapotot és gabonát termesztenek. A folyó élővilága változatos, de a vízelvezetés és a szennyezés veszélyezteti. Történelmi jelentőségű, mivel az ókorban határfolyó volt.",
+      ro: "Râul Nahr el-Assi (Orontes) izvorăște din Liban și traversează Siria și Turcia. Este un râu major în regiune, utilizat pentru irigații și ca sursă de apă potabilă. Valea Orontesului este cunoscută pentru siturile arheologice, inclusiv ruine romane și bizantine. Biodiversitatea acvatică este amenințată de baraje și poluare.",
+      en: "The Orontes River originates in the Bekaa Valley of Lebanon and flows northward for 571 km through Syria and Turkey. Its Lebanese section is about 40 km long, and the river historically delineated the border between ancient kingdoms. The river supports wetlands that are crucial for migratory birds, but water extraction has reduced flow significantly.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 571 km", "Länge im Libanon: 40 km", "Einzugsgebiet: 23.000 km²", "Mündung: Mittelmeer bei Samandağ", "Durchflussmenge an der Quelle: 7 m³/s", "Anzahl der Staudämme: 12"],
+      hu: ["Teljes hossz: 571 km", "Libanonban: 40 km", "Vízgyűjtő terület: 23.000 km²", "Torkolat: Földközi-tenger, Samandağ", "Forrás vízhozama: 7 m³/s", "Gátak száma: 12"],
+      ro: ["Lungime totală: 571 km", "Lungime în Liban: 40 km", "Bazin hidrografic: 23.000 km²", "Gura de vărsare: Marea Mediterană la Samandağ", "Debit la izvor: 7 m³/s", "Număr de baraje: 12"],
+      en: ["Total length: 571 km", "Length in Lebanon: 40 km", "Catchment area: 23,000 km²", "Mouth: Mediterranean at Samandağ", "Spring discharge: 7 m³/s", "Number of dams: 12"],
+    },
   },
   {
     id: "lebanon-kammouha-forest-nature-v2",
     type: "forest",
     name: { de: "Kammouha-Wald", hu: "Kammouha-erdő", ro: "Pădurea Kammouha", en: "Kammouha Forest" },
-    coordinates: { lat: 34.4825, lng: 36.2133 },
+    coords: [36.2133, 34.4825],
     description: {
       de: "Der Kammouha-Wald in der Region Akkar ist berühmt für seine Jahrhunderte alten Zedern und Tannen. Er liegt auf einem Hochplateau.",
       hu: "Az Akkar régióban található Kammouha-erdő híres évszázados cédrusairól és fenyőiről. Egy magas fennsíkon fekszik.",
@@ -114,12 +174,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Located at 1400 meters elevation.", "Home to rare Cilician fir trees.", "One of the densest forests in Lebanon.", "Popular spot for hikers and campers."],
     },
     imageHint: "A dense forest of ancient cedar and fir trees in Akkar",
+    descriptionAdvanced: {
+      de: "Der Kammouha-Wald ist eines der größten zusammenhängenden Waldgebiete im Libanon, gelegen im Distrikt Akkar. Er besteht hauptsächlich aus Libanon-Zedern und anderen Nadelbäumen. Der Wald ist ein wichtiger Lebensraum für Wildtiere wie Wildschweine und Rehe. Die Region ist auch für ihre Biodiversität und die Bemühungen zur Wiederaufforstung bekannt.",
+      hu: "A Kammouha-erdő Libanon egyik legnagyobb őserdeje, amely az Akkar régióban található. A területet sűrű cédrus- és fenyőerdők borítják, és számos védett állatfajnak ad otthont. Az erdő fontos a szén-dioxid megkötésében és a vízháztartás szabályozásában. A helyi közösségek hagyományos módon hasznosítják az erdőt.",
+      ro: "Pădurea Kammouha este una dintre cele mai extinse păduri de conifere din Liban, situată în districtul Akkar. Este dominată de cedri și brazi, oferind habitat pentru mistreți și vulpi. Pădurea joacă un rol esențial în conservarea solului și a apei, iar proiectele de reîmpădurire vizează refacerea zonelor degradate.",
+      en: "Kammouha Forest is a large remaining tract of coniferous forest in northern Lebanon, dominated by Cedrus libani and Abies cilicica. The forest covers approximately 50 square kilometers and is a stronghold for the endangered Lebanese cedar. It acts as a carbon sink and provides timber and non-timber products. Unregulated logging and fires pose ongoing threats.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50 km²", "Höhenlage: 1000 bis 1800 m", "Durchschnittsalter der Bäume: 200 Jahre", "Jährliche Niederschlagsmenge: 1200 mm", "Anzahl dokumentierter Vogelarten: 100", "Schutzstatus: Naturreservat seit 2010"],
+      hu: ["Terület: 50 négyzetkilométer", "Magasság: 1000-1800 m", "Átlagos fák kora: 200 év", "Éves csapadék: 1200 mm", "Madárfajok: 100", "Védetté nyilvánítás: 2010"],
+      ro: ["Suprafața: 50 km²", "Altitudine: 1000-1800 m", "Vârsta medie a copacilor: 200 de ani", "Precipitații anuale: 1200 mm", "Specii de păsări: 100", "Statut de protecție: rezervație naturală din 2010"],
+      en: ["Area: 50 km²", "Elevation range: 1000 to 1800 m", "Average tree age: 200 years", "Annual rainfall: 1200 mm", "Documented bird species: 100", "Protected status: nature reserve since 2010"],
+    },
   },
   {
     id: "lebanon-wadi-jahannam-nature-v2",
     type: "valley",
     name: { de: "Wadi Jahannam", hu: "Wadi Jahannam", ro: "Wadi Jahannam", en: "Wadi Jahannam" },
-    coordinates: { lat: 34.4128, lng: 36.145 },
+    coords: [36.145, 34.4128],
     description: {
       de: "Wadi Jahannam, das Tal der Hölle, ist eine tiefe und wilde Schlucht in Nordlibanon. Es bietet dramatische Klippen und dichte Wälder.",
       hu: "A Wadi Jahannam, vagyis a Pokol-völgye, egy mély és vad szurdok Észak-Libanonban. Drámai sziklák és sűrű erdők jellemzik.",
@@ -133,12 +205,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Separates Akkar and Miniyeh-Danniyeh districts.", "Very steep and pristine mountainsides.", "Contains numerous hiking trails.", "Name refers to its rugged inaccessibility."],
     },
     imageHint: "A deep wild canyon with rocky walls and greenery",
+    descriptionAdvanced: {
+      de: "Wadi Jahannam ist eine tiefe Schlucht im Libanon, die für ihre dramatischen Felsformationen und das wilde Berggelände bekannt ist. Der Name bedeutet 'Tal der Hölle' und bezieht sich auf die unwirtliche Landschaft. Trotz der rauen Umgebung gibt es eine vielfältige Tierwelt, darunter Steinadler und Wildziegen. Das Tal ist bei Abenteuerreisenden und Kletterern beliebt.",
+      hu: "A Wadi Jahannam egy mély szurdok, amely Libanon egyik legvadregényesebb tája. A meredek sziklafalak és a kanyargó patak lenyűgöző látványt nyújtanak. A terület kiválóan alkalmas túrázásra és sziklamászásra, de óvatosságot igényel. A helyi legenda szerint a szurdok neve a pokol kapujára utal.",
+      ro: "Wadi Jahannam este un canion adânc din Munții Libanului, cunoscut pentru peisajul său aspru și sălbatic. Pereții abrupți și pârâul care curge prin vale atrag drumeții și alpiniști. Zona este importantă pentru conservarea prădătorilor de vârf, cum ar fi vulturul și șoimul.",
+      en: "Wadi Jahannam, meaning 'Valley of Hell', is a deep gorge in the Mount Lebanon range formed by erosion. The canyon walls rise up to 500 meters, and the valley floor contains a perennial stream. It is a habitat for the endangered Persian leopard and a vital corridor for wildlife movement. The area is also of geological interest for its exposed Jurassic limestone.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe: bis zu 500 m", "Länge: 8 km", "Höhenlage des Talbodens: 800 m", "Anzahl der Kletterrouten: 15", "Vorkommen gefährdeter Arten: Persischer Leopard", "Geologisches Alter: Jura (200 Mio. Jahre)"],
+      hu: ["Mélység: 500 m-ig", "Hossz: 8 km", "Völgyfenék magassága: 800 m", "Mászóutak száma: 15", "Veszélyeztetett faj: perzsa leopárd", "Geológiai kor: jura (200 millió év)"],
+      ro: ["Adâncime: până la 500 m", "Lungime: 8 km", "Altitudinea fundului văii: 800 m", "Număr de trasee de alpinism: 15", "Specii periclitate: leopardul persan", "Vârsta geologică: Jurasic (200 milioane de ani)"],
+      en: ["Depth: up to 500 m", "Length: 8 km", "Valley floor elevation: 800 m", "Number of climbing routes: 15", "Endangered species: Persian leopard", "Geological age: Jurassic (200 million years)"],
+    },
   },
   {
     id: "lebanon-nahr-el-barid-nature-v2",
     type: "river",
     name: { de: "Nahr el-Barid", hu: "Nahr el-Barid", ro: "Nahr el-Barid", en: "Nahr el-Barid River" },
-    coordinates: { lat: 34.4533, lng: 35.9875 },
+    coords: [35.9875, 34.4533],
     description: {
       de: "Der Nahr el-Barid, der kalte Fluss, fließt durch den Norden des Libanon ins Mittelmeer. Er ist für sein klares und kühles Gebirgswasser bekannt.",
       hu: "A Nahr el-Barid, azaz Hideg-folyó, Libanon északi részén folyik a Földközi-tengerbe. Tiszta és hűvös hegyi vizéről híres.",
@@ -152,12 +236,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Originates in the Makmel mountains.", "Important source for irrigation.", "Perennial water flow from the mountains.", "Enters the sea north of Tripoli."],
     },
     imageHint: "A clear river flowing through a rocky mountain landscape",
+    descriptionAdvanced: {
+      de: "Der Nahr el-Barid ist ein Fluss im Norden des Libanon, der durch ein fruchtbares Tal fließt. Er wird für die Bewässerung von Obstgärten und Olivenhainen genutzt. Der Fluss ist saisonal wasserführend, mit Hochwasser im Winter. Die Umgebung ist ländlich geprägt und bietet Lebensraum für Wasservögel und Amphibien.",
+      hu: "A Nahr el-Barid folyó Észak-Libanonban található, és a téli esőzések idején jelentős vízhozammal rendelkezik. Völgyében mandula- és olajfaligetek terülnek el. A folyó mentén számos forrás található, amelyeket a helyi lakosok ivóvízellátásra és öntözésre használnak.",
+      ro: "Râul Nahr el-Barid curge prin nordul Libanului, traversând o vale agricolă. Este un râu temporar, cu debit maxim iarna și primăvara. Zona ripariană este importantă pentru păsări și mamifere mici. Apele sunt folosite pentru irigații, iar în unele locuri există mori de apă tradiționale.",
+      en: "The Nahr el-Barid River is a seasonal watercourse in northern Lebanon, flowing only after heavy rains. Its basin covers about 200 square kilometers and supports rain-fed agriculture. The river valley is home to small villages that rely on spring water for drinking. Biodiversity includes reptiles and migratory birds that use the corridor.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 30 km", "Einzugsgebiet: 200 km²", "Maximale Durchflussmenge: 15 m³/s", "Jährliche Niederschlagsmenge: 700 mm", "Anzahl der Quellen: 10", "Mündung: Mittelmeer nördlich von Tripoli"],
+      hu: ["Hossz: 30 km", "Vízgyűjtő: 200 km²", "Maximális vízhozam: 15 m³/s", "Éves csapadék: 700 mm", "Források száma: 10", "Torkolat: Földközi-tenger, Tripolitól északra"],
+      ro: ["Lungime: 30 km", "Bazin hidrografic: 200 km²", "Debit maxim: 15 m³/s", "Precipitații anuale: 700 mm", "Număr de izvoare: 10", "Gura de vărsare: Marea Mediterană la nord de Tripoli"],
+      en: ["Length: 30 km", "Catchment area: 200 km²", "Maximum flow rate: 15 m³/s", "Annual rainfall: 700 mm", "Number of springs: 10", "Mouth: Mediterranean north of Tripoli"],
+    },
   },
   {
     id: "lebanon-mount-rihan-nature-v2",
     type: "mountain",
     name: { de: "Jabal Rihan", hu: "Rihan-hegy", ro: "Muntele Rihan", en: "Mount Rihan" },
-    coordinates: { lat: 33.4583, lng: 35.575 },
+    coords: [35.575, 33.4583],
     description: {
       de: "Der Mount Rihan ist ein bedeutender Gipfel im Südlibanon nahe Jezzine. Er ist Teil des Libanon-Gebirges und bietet weite Panoramablicke.",
       hu: "A Rihan-hegy egy jelentős csúcs Dél-Libanonban, Jezzine közelében. A Libanon-hegység része és széles panorámát kínál.",
@@ -171,12 +267,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Height of about 1100 meters.", "Rich in holm oaks and pine trees.", "Strategically important location in the south.", "Popular for rural tourism."],
     },
     imageHint: "The slopes of Mount Rihan with mediterranean vegetation",
+    descriptionAdvanced: {
+      de: "Der Mount Rihan ist ein Berg im Südlibanon, der sich durch seine reiche Vegetation und historische Stätten auszeichnet. Der Berg ist Teil einer Gebirgskette und bietet weite Ausblicke auf die Umgebung. Die Hänge sind mit Kiefern, Eichen und wilden Blumen bedeckt. In der Antike befanden sich hier phönizische Tempel.",
+      hu: "A Rihan-hegy Dél-Libanonban található, és híres a természeti szépségeiről és a kulturális örökségéről. A hegy lankáin szőlőültetvények és erdők váltakoznak. A csúcsról lenyűgöző panoráma nyílik a tengerre és a hegyekre. A terület a helyi közösségek fontos zarándokhelye.",
+      ro: "Muntele Rihan este situat în sudul Libanului, fiind un sit natural și istoric deosebit. Pădurile sale găzduiesc o floră diversă, iar pe versanți se află ruine ale unor așezări antice. Zona este protejată pentru conservarea habitatelor de păsări de pradă.",
+      en: "Mount Rihan is a peak in the southern Lebanon mountain range, reaching 1,500 meters. It is part of a biosphere reserve that includes Mediterranean maquis and remnant forests. The area is known for its springs and has been inhabited since the Bronze Age. Efforts are underway to promote sustainable tourism and protect the endemic flora.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1500 m", "Fläche des Schutzgebiets: 30 km²", "Anzahl der Pflanzenarten: 500", "Höchster Punkt: 1500 m", "Jährliche Niederschlagsmenge: 800 mm", "Anzahl der archäologischen Stätten: 5"],
+      hu: ["Magasság: 1500 m", "Védett terület: 30 km²", "Növényfajok száma: 500", "Legmagasabb pont: 1500 m", "Éves csapadék: 800 mm", "Régészeti lelőhelyek: 5"],
+      ro: ["Înălțime: 1500 m", "Suprafața ariei protejate: 30 km²", "Specii de plante: 500", "Cel mai înalt punct: 1500 m", "Precipitații anuale: 800 mm", "Situri arheologice: 5"],
+      en: ["Height: 1500 m", "Protected area size: 30 km²", "Plant species: 500", "Highest point: 1500 m", "Annual rainfall: 800 mm", "Archaeological sites: 5"],
+    },
   },
   {
     id: "lebanon-chawan-lake-nature-v2",
     type: "lake",
     name: { de: "Chawan-See", hu: "Chawan-tó", ro: "Lacul Chawan", en: "Chawan Lake" },
-    coordinates: { lat: 34.0755, lng: 35.7742 },
+    coords: [35.7742, 34.0755],
     description: {
       de: "Der Chawan-See ist ein natürliches Becken am Nahr Ibrahim in einem dichten Tal. Er ist berühmt für sein türkisblaues, klares Wasser.",
       hu: "A Chawan-tó egy természetes medence a Nahr Ibrahim folyón, egy sűrű völgyben. Híres türkizkék, tiszta vizéről.",
@@ -190,12 +298,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Located within the Jabal Moussa Reserve.", "Accessible only via hiking trails.", "Popular spot for swimming in summer.", "Surrounded by untouched nature."],
     },
     imageHint: "The turquoise waters of Chawan Lake surrounded by trees",
+    descriptionAdvanced: {
+      de: "Der Chawan-See ist ein künstlicher See im Libanon, der zur Bewässerung und als Trinkwasserreservoir dient. Er liegt in einer bergigen Region und ist von Wäldern umgeben. Der See ist ein beliebtes Ausflugsziel für Familien, die dort picknicken und angeln. Die Fauna umfasst Wasservögel und Fische.",
+      hu: "A Chawan-tó egy mesterséges tó Libanonban, amelyet a mezőgazdasági öntözés céljából hoztak létre. A tó környéke erdős, és számos túraútvonal indul innen. A víztározó fontos élőhely a madarak számára, és népszerű horgászhely is.",
+      ro: "Lacul Chawan este un lac de acumulare situat în Liban, utilizat pentru irigații și alimentare cu apă. Înconjurat de păduri de pini, lacul oferă un habitat pentru păsări acvatice. Zona este frecventată de localnici pentru recreere și pescuit.",
+      en: "Chawan Lake is a man-made reservoir built to supply water for irrigation in the surrounding agricultural areas. It has a surface area of approximately 0.5 square kilometers and a maximum depth of 20 meters. The lake is stocked with fish such as tilapia and carp, supporting local fisheries. Its shores are popular for weekend outings.",
+    },
+    factsAdvanced: {
+      de: ["Oberfläche: 0,5 km²", "Maximale Tiefe: 20 m", "Fassungsvermögen: 5 Mio. m³", "Baujahr: 1965", "Höhe über dem Meeresspiegel: 1200 m", "Fischarten: Tilapia, Karpfen"],
+      hu: ["Felszín: 0,5 km²", "Maximális mélység: 20 m", "Űrtartalom: 5 millió m³", "Építés éve: 1965", "Tengerszint feletti magasság: 1200 m", "Halfajok: tilápia, ponty"],
+      ro: ["Suprafața: 0,5 km²", "Adâncime maximă: 20 m", "Capacitate: 5 milioane m³", "Anul construcției: 1965", "Altitudine: 1200 m", "Specii de pești: tilapia, crap"],
+      en: ["Surface area: 0.5 km²", "Maximum depth: 20 m", "Capacity: 5 million m³", "Year built: 1965", "Elevation: 1200 m", "Fish species: tilapia, carp"],
+    },
   },
   {
     id: "lebanon-nahr-abou-ali-nature-v2",
     type: "river",
     name: { de: "Nahr Abou Ali", hu: "Nahr Abou Ali", ro: "Nahr Abou Ali", en: "Nahr Abou Ali River" },
-    coordinates: { lat: 34.4439, lng: 35.8502 },
+    coords: [35.8502, 34.4439],
     description: {
       de: "Der Nahr Abou Ali ist die Fortsetzung des Kadisha-Flusses, der durch Tripoli fließt. Er prägt das Stadtbild der nördlichen Metropole.",
       hu: "A Nahr Abou Ali a Kadisha-folyó folytatása, amely keresztülfolyik Tripolin. Meghatározza az északi nagyváros látképét.",
@@ -209,12 +329,24 @@ export const lebanonNatureV2: POI[] = [
       en: ["Discharges at the Port of Tripoli.", "Channelized after severe flooding events.", "Historically vital for city mills.", "Connects the mountains to the coast."],
     },
     imageHint: "The Nahr Abou Ali river flowing through the city of Tripoli",
+    descriptionAdvanced: {
+      de: "Der Nahr Abou Ali ist ein Fluss im Nordlibanon, der durch die Stadt Tripoli fließt. Er entspringt im Libanongebirge und mündet ins Mittelmeer. Der Fluss ist stark kanalisiert und dient der Entwässerung. Trotz der Urbanisierung gibt es Abschnitte mit natürlicher Vegetation. Der Fluss hat historische Bedeutung für die Stadt.",
+      hu: "A Nahr Abou Ali folyó Tripoli városán keresztülfolyva éri el a tengert. A folyó forrása a Libanon-hegységben található, és a téli esőzések idején jelentős vízhozammal rendelkezik. A partok mentén parkokat és sétányokat alakítottak ki. A folyó régen hajózható volt.",
+      ro: "Râul Nahr Abou Ali traversează orașul Tripoli, având izvorul în Munții Libanului. Este un râu important pentru drenajul urban și istoric a jucat un rol în dezvoltarea orașului. De-a lungul malurilor se găsesc zone verzi, iar apa este folosită pentru irigații în câmpiile din jur.",
+      en: "The Nahr Abou Ali River runs through the city of Tripoli and is the main drainage channel for the area. Its source is at an elevation of 2,000 meters in the Mount Lebanon range. The river is approximately 45 km long and has been harnessed for flood control. Despite pollution, it still supports some aquatic life.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 45 km", "Einzugsgebiet: 300 km²", "Höhe der Quelle: 2000 m", "Durchflussmenge: 3 m³/s", "Mündung: Mittelmeer in Tripoli", "Stadtbevölkerung von Tripoli: 500.000"],
+      hu: ["Hossz: 45 km", "Vízgyűjtő: 300 km²", "Forrás magassága: 2000 m", "Vízhozam: 3 m³/s", "Torkolat: Földközi-tenger, Tripoli", "Tripoli lakossága: 500.000"],
+      ro: ["Lungime: 45 km", "Bazin hidrografic: 300 km²", "Altitudinea izvorului: 2000 m", "Debit: 3 m³/s", "Gura de vărsare: Marea Mediterană la Tripoli", "Populația orașului Tripoli: 500.000"],
+      en: ["Length: 45 km", "Catchment area: 300 km²", "Source elevation: 2000 m", "Flow rate: 3 m³/s", "Mouth: Mediterranean at Tripoli", "Population of Tripoli: 500,000"],
+    },
   },
   {
     id: "lebanon-nahr-damour-nature-v2",
     type: "river",
     name: { de: "Nahr Damour", hu: "Damour-folyó", ro: "Râul Damour", en: "Damour River" },
-    coordinates: { lat: 33.7125, lng: 35.4508 },
+    coords: [35.4508, 33.7125],
     description: {
       de: "Der Nahr Damour ist ein kurzer Küstenfluss südlich von Beirut. Er fließt durch ein grünes Tal und mündet bei der Stadt Damour.",
       hu: "A Damour-folyó egy rövid part menti folyó Bejrúttól délre. Egy zöld völgyön halad át és Damour városánál torkollik a tengerbe.",
@@ -228,5 +360,17 @@ export const lebanonNatureV2: POI[] = [
       en: ["Known for the surrounding banana plantations.", "Popular for picnics and hiking.", "Discharges directly into the Mediterranean.", "Carries significant rainwater in winter."],
     },
     imageHint: "The Damour river mouth and nearby vegetation",
+    descriptionAdvanced: {
+      de: "Der Damour River ist ein Küstenfluss im Libanon, der südlich von Beirut ins Mittelmeer mündet. Sein Tal ist landwirtschaftlich geprägt, mit Bananen- und Zitrusplantagen. Der Fluss hat eine wechselhafte Wasserführung und führte in der Vergangenheit zu Überschwemmungen. Die Region ist auch für ihr archäologisches Erbe bekannt.",
+      hu: "A Damour folyó Beirúttól délre ömlik a tengerbe, és völgyében gazdag mezőgazdaság folyik. A folyó vízhozama erősen ingadozó, a téli esőzések idején gyakoriak az áradások. A környékbeli falvakban hagyományos gyümölcstermesztés folyik, különösen citrusféléké.",
+      ro: "Râul Damour se varsă în Marea Mediterană la sud de Beirut, străbătând o vale fertilă. Apele sale sunt folosite pentru irigarea plantațiilor de banane și citrice. Zona a fost afectată de inundații istorice, iar pe maluri se găsesc ruine romane.",
+      en: "The Damour River flows through a fertile valley south of Beirut, known for its agricultural output. The river is about 30 km long and has a discharge that varies from near zero in summer to flash floods in winter. It historically marked the boundary between Phoenician city-states. The river basin is also home to several industrial facilities.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 30 km", "Einzugsgebiet: 500 km²", "Jährliche Niederschlagsmenge: 800 mm", "Maximale Durchflussmenge: 20 m³/s", "Mündung: Mittelmeer südlich von Beirut", "Landwirtschaftliche Nutzfläche: 100 km²"],
+      hu: ["Hossz: 30 km", "Vízgyűjtő: 500 km²", "Éves csapadék: 800 mm", "Maximális vízhozam: 20 m³/s", "Torkolat: Földközi-tenger, Beirúttól délre", "Mezőgazdasági terület: 100 km²"],
+      ro: ["Lungime: 30 km", "Bazin hidrografic: 500 km²", "Precipitații anuale: 800 mm", "Debit maxim: 20 m³/s", "Gura de vărsare: Marea Mediterană la sud de Beirut", "Suprafața agricolă: 100 km²"],
+      en: ["Length: 30 km", "Catchment area: 500 km²", "Annual rainfall: 800 mm", "Maximum flow: 20 m³/s", "Mouth: Mediterranean south of Beirut", "Agricultural area: 100 km²"],
+    },
   }
 ];

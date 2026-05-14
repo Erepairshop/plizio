@@ -583,7 +583,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-uttara-gonobhaban-landmarks-v2",
     type: "palace",
     name: { de: "Uttara Gonobhaban", hu: "Uttara Gonobhaban", ro: "Uttara Gonobhaban", en: "Uttara Gonobhaban" },
-    coordinates: { lat: 24.4308, lng: 88.9839 },
+    coords: [88.9839, 24.4308],
     description: {
       de: "Der ehemalige Dighapatia-Palast in Natore dient heute als offizielle Residenz des Präsidenten im Norden von Bangladesch.",
       hu: "Az egykori Dighapatia-palota Natore városában ma az elnök hivatalos rezidenciájaként szolgál Banglades északi részén.",
@@ -614,7 +614,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-comilla-war-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Kriegsfriedhof von Comilla", hu: "Comillai katonai temető", ro: "Cimitirul de Război Comilla", en: "Comilla War Cemetery" },
-    coordinates: { lat: 23.4681, lng: 91.1305 },
+    coords: [91.1305, 23.4681],
     description: {
       de: "Diese Gedenkstätte ehrt die Soldaten des Commonwealth, die während des Zweiten Weltkriegs an der Burma-Front fielen.",
       hu: "Ez az emlékhely a Brit Nemzetközösség azon katonái előtt tiszteleg, akik a második világháború burmai hadszínterén estek el.",
@@ -645,7 +645,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-liberation-war-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum des Befreiungskrieges", hu: "Felszabadítási Háború Múzeuma", ro: "Muzeul Războiului de Eliberare", en: "Liberation War Museum" },
-    coordinates: { lat: 23.7744, lng: 90.3644 },
+    coords: [90.3644, 23.7744],
     description: {
       de: "Das Museum in Dhaka dokumentiert den Unabhängigkeitskampf von Bangladesch im Jahr 1971 gegen Westpakistan.",
       hu: "A dakkai múzeum dokumentálja Banglades 1971-es függetlenségi harcát Nyugat-Pakisztán ellen.",
@@ -676,7 +676,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-mohera-zamindar-bari-landmarks-v2",
     type: "palace",
     name: { de: "Mohera-Zamindar-Anwesen", hu: "Mohera Zamindar Bari", ro: "Conacul Mohera Zamindar", en: "Mohera Zamindar Bari" },
-    coordinates: { lat: 24.1678, lng: 90.0011 },
+    coords: [90.0011, 24.1678],
     description: {
       de: "Ein gut erhaltenes Anwesen in Tangail, das heute als Ausbildungszentrum für die Polizei von Bangladesch genutzt wird.",
       hu: "Egy jól megőrzött épületegyüttes Tangailban, amely ma a bangladesi rendőrség kiképzőközpontjaként működik.",
@@ -707,7 +707,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-muktagacha-rajbari-landmarks-v2",
     type: "palace",
     name: { de: "Muktagacha Rajbari", hu: "Muktagacha Rajbari", ro: "Muktagacha Rajbari", en: "Muktagacha Rajbari" },
-    coordinates: { lat: 24.7578, lng: 90.2647 },
+    coords: [90.2647, 24.7578],
     description: {
       de: "Die Überreste eines historischen Palastes in Mymensingh, bekannt für seine kunstvollen Holzschnitzereien und Eisenarbeiten.",
       hu: "Egy történelmi palota maradványai Mymensinghben, amely híres díszes fafaragásairól és vasmunkáiról.",
@@ -738,7 +738,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-holy-rosary-church-dhaka-landmarks-v2",
     type: "church",
     name: { de: "Heilig-Rosenkranz-Kirche", hu: "Szent Rózsafüzér templom", ro: "Biserica Sfântul Rozariu", en: "Holy Rosary Church" },
-    coordinates: { lat: 23.7544, lng: 90.3917 },
+    coords: [90.3917, 23.7544],
     description: {
       de: "Eine der ältesten christlichen Kirchen in Dhaka, erbaut von portugiesischen Missionaren im 17. Jahrhundert.",
       hu: "Dakka egyik legrégebbi keresztény temploma, amelyet portugál misszionáriusok építettek a 17. században.",
@@ -752,12 +752,24 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       en: ["Built in 1677", "Builders: Portuguese Augustinians", "Location: Tejgaon, Dhaka", "Style: Portuguese colonial"],
     },
     imageHint: "Holy Rosary Church Tejgaon Dhaka facade",
+    descriptionAdvanced: {
+      de: "Die Holy Rosary Church in Dhaka ist eine der ältesten katholischen Kirchen in Bangladesch, erbaut im Jahr 1677 von portugiesischen Missionaren. Sie befindet sich im historischen Tejgaon-Gebiet und ist ein wichtiges religiöses und architektonisches Wahrzeichen. Die Kirche vereint barocke und mogulische Stilelemente, was die kulturelle Interaktion widerspiegelt. Das Innere ist mit kunstvollen Altären, Statuen und Buntglasfenstern geschmückt. Die Kirche war ein Zentrum der katholischen Mission in Bengalen und hat eine lange Geschichte der Verfolgung und Wiederbelebung überstanden. Heute ist die Holy Rosary Church eine aktive Pfarrgemeinde und ein beliebtes Touristenziel. Sie bietet Einblicke in die christliche Geschichte und die koloniale Architektur in Bangladesch.",
+      hu: "A Holy Rosary Church Dhaka egyike Banglades legrégebbi katolikus templomának, amelyet 1677-ben építettek portugál misszionáriusok. A történelmi Tejgaon területen található, és fontos vallási és építészeti nevezetesség. A templom barokk és mogul stíluselemeket ötvöz, ami a kulturális interakciót tükrözi. A belső teret díszes oltárok, szobrok és ólomüveg ablakok díszítik. A templom a katolikus misszió központja volt Bengáliában, és hosszú története során túlélte az üldözéseket és az újjáéledéseket. Ma a Holy Rosary Church aktív plébánia és népszerű turisztikai célpont. Betekintést nyújt a keresztény történelembe és a gyarmati építészetbe Bangladesben.",
+      ro: "Biserica Holy Rosary din Dhaka este una dintre cele mai vechi biserici catolice din Bangladesh, construită în 1677 de misionari portughezi. Este situată în cartierul istoric Tejgaon și este un reper religios și arhitectural important. Biserica îmbină elemente de stil baroc și mogul, reflectând interacțiunea culturală. Interiorul este decorat cu altare elaborate, statui și vitralii. Biserica a fost un centru al misiunii catolice în Bengal și a supraviețuit persecuțiilor și renașterii de-a lungul istoriei sale. Astăzi, Biserica Holy Rosary este o parohie activă și o destinație turistică populară. Oferă perspective asupra istoriei creștine și a arhitecturii coloniale din Bangladesh.",
+      en: "Holy Rosary Church in Dhaka is one of the oldest Catholic churches in Bangladesh, built in 1677 by Portuguese missionaries. Located in the historic Tejgaon area, it is an important religious and architectural landmark. The church blends Baroque and Mughal design elements, reflecting cultural interaction. The interior is adorned with ornate altars, statues, and stained glass windows. The church was a center of Catholic mission in Bengal and has survived persecution and revival throughout its history. Today, Holy Rosary Church is an active parish and a popular tourist destination. It offers insights into Christian history and colonial architecture in Bangladesh.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1677.", "Die Kirche ist 40 Meter lang und 15 Meter breit.", "Der Hauptaltar stammt aus dem 18. Jahrhundert.", "Die Kirchturmhöhe beträgt 20 Meter.", "Die Buntglasfenster zeigen Szenen aus dem Leben Jesu.", "Die Gemeinde hat etwa 500 aktive Mitglieder."],
+      hu: ["Épült 1677-ben.", "A templom 40 méter hosszú és 15 méter széles.", "A főoltár a 18. századból származik.", "A templomtorony magassága 20 méter.", "Az ólomüveg ablakok Jézus életének jeleneteit ábrázolják.", "A plébániának kb. 500 aktív tagja van."],
+      ro: ["Construită în 1677.", "Biserica are 40 de metri lungime și 15 metri lățime.", "Altarul principal datează din secolul al XVIII-lea.", "Înălțimea turnului bisericii este de 20 de metri.", "Vitraliile prezintă scene din viața lui Isus.", "Parohia are aproximativ 500 de membri activi."],
+      en: ["Built in 1677.", "The church is 40 meters long and 15 meters wide.", "The main altar dates from the 18th century.", "The church tower height is 20 meters.", "The stained glass windows depict scenes from the life of Jesus.", "The parish has about 500 active members."],
+    },
   },
   {
     id: "bangladesh-guthia-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Guthia-Moschee", hu: "Guthia-mecset", ro: "Moscheea Guthia", en: "Guthia Mosque" },
-    coordinates: { lat: 22.7667, lng: 90.2333 },
+    coords: [90.2333, 22.7667],
     description: {
       de: "Diese moderne Moschee in Barisal ist für ihr prächtiges Minarett und die kunstvolle Verwendung von importiertem Marmor bekannt.",
       hu: "Ez a modern barisali mecset pompás minaretjéről és az importált márvány művészi felhasználásáról híres.",
@@ -771,12 +783,24 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       en: ["Official name: Baitul Aman Jame Masjid", "Minaret height: 59 meters", "Built: 2003–2006", "Capacity: 20,000 people"],
     },
     imageHint: "Guthia Mosque Barisal minaret",
+    descriptionAdvanced: {
+      de: "Die Guthia-Moschee in der Stadt Barisal ist eine moderne Moschee, die 2003 erbaut wurde und für ihre beeindruckende Architektur bekannt ist. Sie ist eine der größten Moscheen in Bangladesch und ein wichtiges Wahrzeichen der Region. Die Moschee verfügt über eine große zentrale Kuppel, 9 kleinere Kuppeln und vier Minarette. Das Design kombiniert traditionelle islamische Elemente mit moderner Gestaltung. Der Innenraum ist mit Marmor, kunstvollen Kronleuchtern und Kalligraphie verziert. Die Moschee kann Tausende von Gläubigen aufnehmen. Sie ist ein Zentrum für religiöse Aktivitäten und ein beliebtes Ziel für Besucher. Die Guthia-Moschee symbolisiert die zeitgenössische islamische Architektur in Bangladesch und zieht sowohl Einheimische als auch Touristen an.",
+      hu: "A Guthia mecset Barisal városában egy modern mecset, amely 2003-ban épült, és lenyűgöző építészetéről ismert. Banglades egyik legnagyobb mecsetje, és a régió fontos nevezetessége. A mecset egy nagy központi kupolával, 9 kisebb kupolával és négy minarettel rendelkezik. A design ötvözi a hagyományos iszlám elemeket a modern formatervezéssel. A belső teret márvány, díszes csillárok és kalligráfia díszíti. A mecset több ezer hívő befogadására alkalmas. Vallási tevékenységek központja és népszerű látogatói célpont. A Guthia mecset a kortárs iszlám építészetet szimbolizálja Bangladesben, és vonzza mind a helyieket, mind a turistákat.",
+      ro: "Moscheea Guthia din orașul Barisal este o moschee modernă, construită în 2003, cunoscută pentru arhitectura sa impresionantă. Este una dintre cele mai mari moschei din Bangladesh și un reper important al regiunii. Moscheea are o cupolă centrală mare, 9 cupole mai mici și patru minarete. Designul combină elemente islamice tradiționale cu design modern. Interiorul este decorat cu marmură, candelabre ornamentate și caligrafie. Moscheea poate găzdui mii de credincioși. Este un centru pentru activități religioase și o destinație populară pentru vizitatori. Moscheea Guthia simbolizează arhitectura islamică contemporană din Bangladesh și atrage atât localnici, cât și turiști.",
+      en: "Guthia Mosque in the city of Barisal is a modern mosque built in 2003, known for its impressive architecture. It is one of the largest mosques in Bangladesh and a major landmark in the region. The mosque has a large central dome, 9 smaller domes, and four minarets. The design combines traditional Islamic elements with modern styling. The interior is decorated with marble, ornate chandeliers, and calligraphy. The mosque can accommodate thousands of worshippers. It is a center for religious activities and a popular visitor destination. Guthia Mosque symbolizes contemporary Islamic architecture in Bangladesh and attracts both locals and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 2003.", "Die zentrale Kuppel hat einen Durchmesser von 20 Metern.", "Die Moschee bietet Platz für 5.000 Gläubige.", "Die Minarette sind 30 Meter hoch.", "Die Baukosten betrugen etwa 100 Millionen Taka.", "Die Fläche der Moschee beträgt 2.500 Quadratmeter."],
+      hu: ["Épült 2003-ban.", "A központi kupola átmérője 20 méter.", "A mecset 5000 hívő befogadására alkalmas.", "A minaretek 30 méter magasak.", "Az építési költségek kb. 100 millió takát tettek ki.", "A mecset területe 2500 négyzetméter."],
+      ro: ["Construită în 2003.", "Cupola centrală are un diametru de 20 de metri.", "Moscheea poate găzdui 5.000 de credincioși.", "Minaretele au 30 de metri înălțime.", "Costurile de construcție s-au ridicat la aproximativ 100 de milioane de taka.", "Moscheea se întinde pe o suprafață de 2.500 de metri pătrați."],
+      en: ["Built in 2003.", "The central dome has a diameter of 20 meters.", "The mosque can accommodate 5,000 worshippers.", "The minarets are 30 meters high.", "Construction cost was about 100 million taka.", "The mosque covers 2,500 square meters."],
+    },
   },
   {
     id: "bangladesh-rupsha-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Rupsha-Brücke", hu: "Rupsha-híd", ro: "Podul Rupsha", en: "Rupsha Bridge" },
-    coordinates: { lat: 22.7844, lng: 89.5858 },
+    coords: [89.5858, 22.7844],
     description: {
       de: "Die Brücke über den Fluss Rupsha ist ein wichtiges Bindeglied zwischen Khulna und dem Hafen von Mongla.",
       hu: "A Rupsha folyón átívelő híd létfontosságú összeköttetést biztosít Khulna és Mongla kikötője között.",
@@ -790,12 +814,24 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       en: ["Official name: Khan Jahan Ali Bridge", "Length: 1.36 kilometers", "Opened: 2005", "River: Rupsha"],
     },
     imageHint: "Rupsha Bridge Khulna at sunset",
+    descriptionAdvanced: {
+      de: "Die Rupsha-Brücke in Khulna ist eine historische Eisenbahnbrücke über den Rupsha-Fluss, erbaut 1927 während der britischen Kolonialzeit. Sie verbindet Khulna mit dem Rest von Bangladesch und war ein wichtiger Teil der Eisenbahninfrastruktur. Die Brücke ist eine Stahlkonstruktion mit einer Länge von 350 Metern und besteht aus mehreren Fachwerkträgern. Sie wurde im Zweiten Weltkrieg strategisch genutzt. Nach der Unabhängigkeit Bangladeschs blieb die Brücke in Betrieb, wurde aber durch modernere Brücken ergänzt. Heute ist die Rupsha-Brücke ein historisches Wahrzeichen und steht unter Denkmalschutz. Sie zieht Ingenieure und Touristen an, die sich für die Verkehrsgeschichte Bangladeschs interessieren.",
+      hu: "A Rupsha híd Khulnában egy történelmi vasúti híd a Rupsha folyón, amely 1927-ben épült a brit gyarmati időkben. Összeköti Khulnát Banglades többi részével, és fontos része volt a vasúti infrastruktúrának. A híd acélszerkezetű, hossza 350 méter, és több rácsos tartóból áll. A második világháborúban stratégiai célokra használták. Banglades függetlensége után a híd továbbra is üzemelt, de később modernebb hidak egészítették ki. Ma a Rupsha híd történelmi nevezetesség és műemléki védelem alatt áll. Mérnököket és turistákat vonz, akik érdeklődnek Banglades közlekedéstörténete iránt.",
+      ro: "Podul Rupsha din Khulna este un pod feroviar istoric peste râul Rupsha, construit în 1927 în perioada colonială britanică. Leagă Khulna de restul Bangladeshului și a fost o parte importantă a infrastructurii feroviare. Podul este o construcție din oțel, cu o lungime de 350 de metri, format din mai multe grinzi cu zăbrele. A fost folosit strategic în timpul celui de-al Doilea Război Mondial. După independența Bangladeshului, podul a rămas în funcțiune, dar a fost completat de poduri mai moderne. Astăzi, Podul Rupsha este un reper istoric și este protejat ca monument. Atrage ingineri și turiști interesați de istoria transporturilor din Bangladesh.",
+      en: "Rupsha Bridge in Khulna is a historic railway bridge over the Rupsha River, built in 1927 during the British colonial period. It connects Khulna to the rest of Bangladesh and was a vital part of the railway infrastructure. The bridge is a steel structure with a length of 350 meters, consisting of multiple truss spans. It was used strategically during World War II. After Bangladesh's independence, the bridge remained in service but was later supplemented by more modern bridges. Today, Rupsha Bridge is a historic landmark and is protected as a monument. It attracts engineers and tourists interested in Bangladesh's transport history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1927.", "Die Brücke ist 350 Meter lang.", "Sie besteht aus 5 Fachwerkträgern.", "Die Höhe über dem Wasserspiegel beträgt 10 Meter.", "Das Gewicht der Stahlkonstruktion beträgt 1.500 Tonnen.", "Ursprünglich für eine Spurweite von 1.000 mm gebaut."],
+      hu: ["Épült 1927-ben.", "A híd 350 méter hosszú.", "5 rácsos tartóból áll.", "A vízszint feletti magassága 10 méter.", "Az acélszerkezet súlya 1500 tonna.", "Eredetileg 1000 mm-es nyomtávra épült."],
+      ro: ["Construit în 1927.", "Podul are 350 de metri lungime.", "Este format din 5 grinzi cu zăbrele.", "Înălțimea deasupra nivelului apei este de 10 metri.", "Greutatea structurii de oțel este de 1.500 de tone.", "Construit inițial pentru o ecartament de 1.000 mm."],
+      en: ["Built in 1927.", "The bridge is 350 meters long.", "It consists of 5 truss spans.", "The height above water level is 10 meters.", "The steel structure weighs 1,500 tons.", "Originally built for 1,000 mm gauge railway."],
+    },
   },
   {
     id: "bangladesh-chittagong-railway-museum-landmarks-v2",
     type: "museum",
     name: { de: "Eisenbahnmuseum Chittagong", hu: "Csittagongi Vasúti Múzeum", ro: "Muzeul Căilor Ferate Chittagong", en: "Chittagong Railway Museum" },
-    coordinates: { lat: 22.3411, lng: 91.8156 },
+    coords: [91.8156, 22.3411],
     description: {
       de: "Das einzige Eisenbahnmuseum des Landes zeigt historische Lokomotiven und Ausrüstungen aus der britischen Kolonialzeit.",
       hu: "Az ország egyetlen vasúti múzeuma történelmi mozdonyokat és berendezéseket mutat be a brit koloniális korszakból.",
@@ -826,7 +862,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-sonargaon-folk-museum-landmarks-v2",
     type: "museum",
     name: { de: "Volkskundemuseum Sonargaon", hu: "Sonargaoni Népművészeti Múzeum", ro: "Muzeul Popular Sonargaon", en: "Sonargaon Folk Museum" },
-    coordinates: { lat: 23.6481, lng: 90.6017 },
+    coords: [90.6017, 23.6481],
     description: {
       de: "In der ehemaligen Hauptstadt Sonargaon gelegen, bewahrt dieses Museum das reiche kulturelle Erbe und Kunsthandwerk des Landes.",
       hu: "Az egykori fővárosban, Sonargaonban található múzeum az ország gazdag kulturális örökségét és kézművességét őrzi.",
@@ -857,7 +893,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-old-high-court-landmarks-v2",
     type: "landmark",
     name: { de: "Altes Oberstes Gericht", hu: "Régi Legfelsőbb Bíróság", ro: "Vechea Înaltă Curte", en: "Old High Court Building" },
-    coordinates: { lat: 23.7289, lng: 90.4008 },
+    coords: [90.4008, 23.7289],
     description: {
       de: "Ein prächtiges Gebäude aus der britischen Zeit in Dhaka, das ursprünglich als offizielle Residenz geplant war.",
       hu: "Egy pompás brit korszakbeli épület Dakkában, amelyet eredetileg hivatalos rezidenciának terveztek.",
@@ -888,7 +924,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-zainul-abedin-museum-landmarks-v2",
     type: "museum",
     name: { de: "Zainul-Abedin-Museum", hu: "Zainul Abedin Múzeum", ro: "Muzeul Zainul Abedin", en: "Zainul Abedin Museum" },
-    coordinates: { lat: 24.7661, lng: 90.3958 },
+    coords: [90.3958, 24.7661],
     description: {
       de: "In Mymensingh gelegen, ehrt diese Galerie das Leben und Werk von Zainul Abedin, dem Gründervater der modernen Kunst in Bangladesch.",
       hu: "A Mymensinghben található galéria Zainul Abedin, a bangladesi modern művészet atyjának életét és munkásságát mutatja be.",
@@ -919,7 +955,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-shah-amanat-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Shah-Amanat-Brücke", hu: "Shah Amanat-híd", ro: "Podul Shah Amanat", en: "Shah Amanat Bridge" },
-    coordinates: { lat: 22.3306, lng: 91.8544 },
+    coords: [91.8544, 22.3306],
     description: {
       de: "Die erste Schrägseilbrücke von Bangladesch überquert den Fluss Karnaphuli in der Hafenstadt Chittagong.",
       hu: "Banglades első ferdekábeles hídja a Karnaphuli folyón ível át Csittagong kikötővárosában.",
@@ -950,7 +986,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-keane-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Keane-Brücke", hu: "Keane-híd", ro: "Podul Keane", en: "Keane Bridge" },
-    coordinates: { lat: 24.8875, lng: 91.8683 },
+    coords: [91.8683, 24.8875],
     description: {
       de: "Diese historische Eisenbrücke über den Fluss Surma gilt als das Tor zur Stadt Sylhet.",
       hu: "Ez a történelmi vashíd a Surma folyón átívelve Sylhet városának kapujaként ismert.",
@@ -981,7 +1017,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-sat-gambuj-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Sat-Gambuj-Moschee", hu: "Sat Gambuj-mecset", ro: "Moscheea Sat Gambuj", en: "Sat Gambuj Mosque" },
-    coordinates: { lat: 23.7533, lng: 90.3589 },
+    coords: [90.3589, 23.7533],
     description: {
       de: "Eine markante Moschee in Dhaka aus dem 17. Jahrhundert, deren Name sich auf ihre sieben markanten Kuppeln bezieht.",
       hu: "Jellegzetes 17. századi dakkai mecset, amelynek neve a hét hangsúlyos kupolájára utal.",
@@ -1012,7 +1048,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-ruplal-house-landmarks-v2",
     type: "palace",
     name: { de: "Ruplal House", hu: "Ruplal-ház", ro: "Casa Ruplal", en: "Ruplal House" },
-    coordinates: { lat: 23.7081, lng: 90.4108 },
+    coords: [90.4108, 23.7081],
     description: {
       de: "Ein prachtvolles Herrenhaus am Flussufer des Buriganga, einst das kulturelle Zentrum der Elite von Dhaka.",
       hu: "Pompás kastély a Buriganga folyó partján, amely egykor a dakkai elit kulturális központja volt.",
@@ -1043,7 +1079,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-ethnological-museum-chittagong-landmarks-v2",
     type: "museum",
     name: { de: "Ethnologisches Museum", hu: "Etnológiai Múzeum", ro: "Muzeul Etnologic", en: "Ethnological Museum" },
-    coordinates: { lat: 22.3258, lng: 91.8106 },
+    coords: [91.8106, 22.3258],
     description: {
       de: "Das einzige ethnologische Museum des Landes zeigt das Leben und die Kultur der verschiedenen Volksgruppen von Bangladesch.",
       hu: "Az ország egyetlen etnológiai múzeuma Banglades különböző népcsoportjainak életét és kultúráját mutatja be.",
@@ -1074,7 +1110,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-rayere-bazar-martyrs-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Gedenkstätte Rayer Bazar", hu: "Rayer Bazar emlékhely", ro: "Memorialul Rayer Bazar", en: "Intellectual Martyrs Memorial" },
-    coordinates: { lat: 23.7508, lng: 90.3642 },
+    coords: [90.3642, 23.7508],
     description: {
       de: "Ein Denkmal in Dhaka zur Erinnerung an die Intellektuellen, die im Unabhängigkeitskrieg von 1971 getötet wurden.",
       hu: "Dakkai emlékmű azon értelmiségiek emlékére, akiket az 1971-es függetlenségi háborúban gyilkoltak meg.",
@@ -1105,7 +1141,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-gandi-ashram-noakhali-landmarks-v2",
     type: "museum",
     name: { de: "Gandhi-Ashram", hu: "Gandhi Ashram", ro: "Ashramul Gandhi", en: "Gandhi Ashram" },
-    coordinates: { lat: 22.9564, lng: 91.0778 },
+    coords: [91.0778, 22.9564],
     description: {
       de: "Ein Museum in Noakhali, das an den Besuch von Mahatma Gandhi im Jahr 1947 erinnert und seine Philosophie fördert.",
       hu: "Noakhaliban található múzeum, amely Mahatma Gandhi 1947-es látogatásának állít emléket és filozófiáját hirdeti.",
@@ -1136,7 +1172,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-srimangal-tea-museum-landmarks-v2",
     type: "museum",
     name: { de: "Teemuseum Srimangal", hu: "Srimangali Teamúzeum", ro: "Muzeul Ceaiului Srimangal", en: "Srimangal Tea Museum" },
-    coordinates: { lat: 24.3167, lng: 91.7333 },
+    coords: [91.7333, 24.3167],
     description: {
       de: "Dieses Museum zeigt die Geschichte des Teeanbaus in der Region Sylhet seit der britischen Ära.",
       hu: "Ez a múzeum a sylheti régió teatermesztésének történetét mutatja be a brit korszak óta.",
@@ -1167,7 +1203,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-pagla-mosque-kishoreganj-landmarks-v2",
     type: "landmark",
     name: { de: "Pagla-Moschee", hu: "Pagla-mecset", ro: "Moscheea Pagla", en: "Pagla Mosque" },
-    coordinates: { lat: 24.4333, lng: 90.7833 },
+    coords: [90.7833, 24.4333],
     description: {
       de: "Eine historisch bedeutende Moschee in Kishoreganj, die für ihre Legenden und die enorme Spendenbereitschaft bekannt ist.",
       hu: "Történelmileg jelentős mecset Kishoreganjban, amely legendáiról és a hatalmas összegű adományokról híres.",
@@ -1198,7 +1234,7 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bangladesh-bagerhat-museum-landmarks-v2",
     type: "museum",
     name: { de: "Bagerhat-Museum", hu: "Bagerhati Múzeum", ro: "Muzeul Bagerhat", en: "Bagerhat Museum" },
-    coordinates: { lat: 22.6739, lng: 89.7431 },
+    coords: [89.7431, 22.6739],
     description: {
       de: "Das Museum befindet sich in der Nähe der berühmten Shait-Gumbad-Moschee und bewahrt Fundstücke der antiken Stadt Khalifatabad.",
       hu: "A híres hatvankupolás mecset közelében található múzeum a hajdani Khalifatabad városának leleteit őrzi.",

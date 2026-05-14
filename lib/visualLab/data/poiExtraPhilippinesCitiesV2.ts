@@ -966,7 +966,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-batangas-city-cities-v2",
     type: "city",
     name: { de: "Batangas City", hu: "Batangas City", ro: "Batangas City", en: "Batangas City" },
-    coordinates: { lat: 13.7565, lng: 121.0583 },
+    coords: [121.0583, 13.7565],
     description: {
       de: "Batangas City ist ein bedeutendes Industrie- und Logistikzentrum auf den Philippinen. Die Stadt beherbergt einen der größten internationalen Seehäfen.",
       hu: "Batangas City a Fülöp-szigetek egyik jelentős ipari és logisztikai központja. Itt található az ország egyik legnagyobb nemzetközi tengeri kikötője.",
@@ -985,7 +985,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-naga-city-cities-v2",
     type: "city",
     name: { de: "Naga City", hu: "Naga City", ro: "Naga City", en: "Naga City" },
-    coordinates: { lat: 13.6218, lng: 123.1948 },
+    coords: [123.1948, 13.6218],
     description: {
       de: "Naga City ist das religiöse und kulturelle Zentrum der Bicol-Region. Die Stadt ist weltbekannt für das jährliche Peñafrancia-Festival zu Ehren der Schutzpatronin.",
       hu: "Naga City a Bicol-régió vallási és kulturális központja. A város világszerte ismert az éves Peñafrancia fesztiválról, amelyet a védőszent tiszteletére rendeznek.",
@@ -1004,7 +1004,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-legazpi-city-cities-v2",
     type: "city",
     name: { de: "Legazpi City", hu: "Legazpi City", ro: "Legazpi City", en: "Legazpi City" },
-    coordinates: { lat: 13.1391, lng: 123.7438 },
+    coords: [123.7438, 13.1391],
     description: {
       de: "Legazpi City ist die Hauptstadt der Provinz Albay und das Tor zum Vulkan Mayon. Die Stadt bietet einen spektakulären Blick auf den fast perfekt geformten Kegel.",
       hu: "Legazpi City Albay tartomány fővárosa és a Mayon-vulkán kapuja. A város látványos kilátást nyújt a szinte tökéletesen formált vulkáni kúpra.",
@@ -1023,7 +1023,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-lucena-cities-v2",
     type: "city",
     name: { de: "Lucena", hu: "Lucena", ro: "Lucena", en: "Lucena" },
-    coordinates: { lat: 13.9312, lng: 121.6135 },
+    coords: [121.6135, 13.9312],
     description: {
       de: "Lucena ist die Hauptstadt der Provinz Quezon und ein wichtiges Handelszentrum im Süden Luzons. Die Stadt ist für ihre Kokosölproduktion bekannt.",
       hu: "Lucena Quezon tartomány fővárosa és Luzon déli részének fontos kereskedelmi központja. A város a kókuszolaj-termeléséről ismert.",
@@ -1042,7 +1042,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-puerto-princesa-cities-v2",
     type: "city",
     name: { de: "Puerto Princesa", hu: "Puerto Princesa", ro: "Puerto Princesa", en: "Puerto Princesa" },
-    coordinates: { lat: 9.7392, lng: 118.7353 },
+    coords: [118.7353, 9.7392],
     description: {
       de: "Puerto Princesa ist die Hauptstadt von Palawan und gilt als die grünste Stadt der Philippinen. Sie ist Ausgangspunkt für Touren zum Untergrundfluss.",
       hu: "Puerto Princesa Palawan fővárosa, és a Fülöp-szigetek legzöldebb városának tartják. Ez a kiindulópontja a föld alatti folyóhoz vezető túráknak.",
@@ -1061,7 +1061,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-tacloban-cities-v2",
     type: "city",
     name: { de: "Tacloban", hu: "Tacloban", ro: "Tacloban", en: "Tacloban" },
-    coordinates: { lat: 11.2421, lng: 125.0031 },
+    coords: [125.0031, 11.2421],
     description: {
       de: "Tacloban ist das regionale Zentrum der östlichen Visayas und liegt am Golf von Leyte. Die Stadt erlangte durch die Landung von General MacArthur im Zweiten Weltkrieg Bedeutung.",
       hu: "Tacloban a Kelet-Visayas régió központja, a Leyte-öböl partján fekszik. A város MacArthur tábornok második világháborús partraszállásáról vált híressé.",
@@ -1080,7 +1080,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-butuan-cities-v2",
     type: "city",
     name: { de: "Butuan", hu: "Butuan", ro: "Butuan", en: "Butuan" },
-    coordinates: { lat: 8.9475, lng: 125.5406 },
+    coords: [125.5406, 8.9475],
     description: {
       de: "Butuan ist eine historische Stadt im Nordosten von Mindanao mit Wurzeln, die bis in die vorkoloniale Zeit zurückreichen. Sie ist bekannt für die Entdeckung alter Balangay-Boote.",
       hu: "Butuan egy történelmi város Mindanao északkeleti részén, gyökerei a gyarmatosítás előtti időkbe nyúlnak vissza. A várost a régi Balangay hajók felfedezéséről ismerik.",
@@ -1099,7 +1099,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-cotabato-city-cities-v2",
     type: "city",
     name: { de: "Cotabato City", hu: "Cotabato City", ro: "Cotabato City", en: "Cotabato City" },
-    coordinates: { lat: 7.2236, lng: 124.2458 },
+    coords: [124.2458, 7.2236],
     description: {
       de: "Cotabato City ist das Verwaltungszentrum der Autonomen Region Bangsamoro. Die Stadt liegt an der Mündung des Rio Grande de Mindanao.",
       hu: "Cotabato City a Bangsamoro Autonóm Régió közigazgatási központja. A város a Rio Grande de Mindanao torkolatánál fekszik.",
@@ -1118,7 +1118,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-lipa-cities-v2",
     type: "city",
     name: { de: "Lipa", hu: "Lipa", ro: "Lipa", en: "Lipa" },
-    coordinates: { lat: 13.9419, lng: 121.1644 },
+    coords: [121.1644, 13.9419],
     description: {
       de: "Lipa ist eine Stadt in der Provinz Batangas, die für ihr kühles Klima und ihre reiche religiöse Geschichte bekannt ist. Sie war einst das Zentrum der weltweiten Kaffeeindustrie.",
       hu: "Lipa Batangas tartomány városa, amely hűvös éghajlatáról és gazdag vallástörténetéről ismert. Egykor a világ kávéiparának központja volt.",
@@ -1137,7 +1137,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-tarlac-city-cities-v2",
     type: "city",
     name: { de: "Tarlac City", hu: "Tarlac City", ro: "Tarlac City", en: "Tarlac City" },
-    coordinates: { lat: 15.4851, lng: 120.59 },
+    coords: [120.59, 15.4851],
     description: {
       de: "Tarlac City ist die Hauptstadt der Provinz Tarlac und ein wichtiger Verkehrsknotenpunkt in Zentral-Luzon. Die Stadt ist für ihre kulturelle Vielfalt bekannt.",
       hu: "Tarlac City Tarlac tartomány fővárosa és Közép-Luzon fontos közlekedési csomópontja. A város kulturális sokszínűségéről ismert.",
@@ -1156,7 +1156,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-cabanatuan-cities-v2",
     type: "city",
     name: { de: "Cabanatuan", hu: "Cabanatuan", ro: "Cabanatuan", en: "Cabanatuan" },
-    coordinates: { lat: 15.4833, lng: 120.9667 },
+    coords: [120.9667, 15.4833],
     description: {
       de: "Cabanatuan ist als die Tricycle-Hauptstadt der Philippinen bekannt und liegt in der Provinz Nueva Ecija. Sie ist ein bedeutendes Wirtschaftszentrum in der Reiskammer des Landes.",
       hu: "Cabanatuan a Fülöp-szigetek tricikli-fővárosaként ismert, Nueva Ecija tartományban található. Jelentős gazdasági központ az ország „rizsestáljában”.",
@@ -1175,7 +1175,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-tuguegarao-cities-v2",
     type: "city",
     name: { de: "Tuguegarao", hu: "Tuguegarao", ro: "Tuguegarao", en: "Tuguegarao" },
-    coordinates: { lat: 17.6132, lng: 121.7271 },
+    coords: [121.7271, 17.6132],
     description: {
       de: "Tuguegarao ist die Hauptstadt der Provinz Cagayan und bekannt als die heißeste Stadt der Philippinen. Sie ist ein wichtiges Bildungs- und Handelszentrum im Cagayan Valley.",
       hu: "Tuguegarao Cagayan tartomány fővárosa, és a Fülöp-szigetek legforróbb városaként ismert. Fontos oktatási és kereskedelmi központ a Cagayan-völgyben.",
@@ -1194,7 +1194,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-dumaguete-cities-v2",
     type: "city",
     name: { de: "Dumaguete", hu: "Dumaguete", ro: "Dumaguete", en: "Dumaguete" },
-    coordinates: { lat: 9.3068, lng: 123.308 },
+    coords: [123.308, 9.3068],
     description: {
       de: "Dumaguete ist die Hauptstadt von Negros Oriental und bekannt als Stadt der sanften Menschen. Sie ist eine bedeutende Universitätsstadt mit entspannter Küstenatmosphäre.",
       hu: "Dumaguete Negros Oriental fővárosa, amelyet a „szelíd emberek városaként” ismernek. Jelentős egyetemi város, nyugodt tengerparti hangulattal.",
@@ -1213,7 +1213,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-tagbilaran-cities-v2",
     type: "city",
     name: { de: "Tagbilaran", hu: "Tagbilaran", ro: "Tagbilaran", en: "Tagbilaran" },
-    coordinates: { lat: 9.65, lng: 123.85 },
+    coords: [123.85, 9.65],
     description: {
       de: "Tagbilaran ist die Hauptstadt der Provinz Bohol und das wichtigste Tor zur Insel. Die Stadt ist für ihre historische Bedeutung und als Startpunkt für Touren zu den Chocolate Hills bekannt.",
       hu: "Tagbilaran Bohol tartomány fővárosa és a sziget legfontosabb kapuja. A város történelmi jelentőségéről és a Chocolate Hills-túrák kiindulópontjaként ismert.",
@@ -1232,7 +1232,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-koronadal-cities-v2",
     type: "city",
     name: { de: "Koronadal", hu: "Koronadal", ro: "Koronadal", en: "Koronadal" },
-    coordinates: { lat: 6.5, lng: 124.85 },
+    coords: [124.85, 6.5],
     description: {
       de: "Koronadal ist die Hauptstadt von South Cotabato und das regionale Zentrum von SOCCSKSARGEN. Die Stadt ist ein wichtiger landwirtschaftlicher Umschlagplatz auf Mindanao.",
       hu: "Koronadal South Cotabato fővárosa és SOCCSKSARGEN regionális központja. A város Mindanao egyik fontos mezőgazdasági elosztó központja.",
@@ -1251,7 +1251,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-surigao-city-cities-v2",
     type: "city",
     name: { de: "Surigao City", hu: "Surigao City", ro: "Surigao City", en: "Surigao City" },
-    coordinates: { lat: 9.7833, lng: 125.4833 },
+    coords: [125.4833, 9.7833],
     description: {
       de: "Surigao City ist die Hauptstadt von Surigao del Norte und das Tor zum Surigao-Strait. Die Stadt ist ein bedeutendes Bergbauzentrum und Ausgangspunkt für Reisen nach Siargao.",
       hu: "Surigao City Surigao del Norte fővárosa és a Surigao-szoros kapuja. A város jelentős bányászati központ és a Siargao-szigetre tartó utazók kiindulópontja.",
@@ -1270,7 +1270,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-ormoc-cities-v2",
     type: "city",
     name: { de: "Ormoc", hu: "Ormoc", ro: "Ormoc", en: "Ormoc" },
-    coordinates: { lat: 11.0, lng: 124.6 },
+    coords: [124.6, 11.0],
     description: {
       de: "Ormoc ist eine unabhängige Stadt in der Provinz Leyte und ein bedeutender Hafen für Westleyte. Sie ist bekannt für ihre Zuckerrohr- und Ananasplantagen.",
       hu: "Ormoc egy független város Leyte tartományban, Nyugat-Leyte jelentős kikötője. Cukornád- és ananászültetvényeiről ismert.",
@@ -1289,7 +1289,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-pagadian-cities-v2",
     type: "city",
     name: { de: "Pagadian", hu: "Pagadian", ro: "Pagadian", en: "Pagadian" },
-    coordinates: { lat: 7.8249, lng: 123.4357 },
+    coords: [123.4357, 7.8249],
     description: {
       de: "Pagadian ist die Hauptstadt von Zamboanga del Sur und das regionale Zentrum der Zamboanga-Halbinsel. Die Stadt ist für ihre steilen Straßen und einzigartigen Tricycles bekannt.",
       hu: "Pagadian Zamboanga del Sur fővárosa és a Zamboanga-félsziget regionális központja. A város meredek utcáiról és egyedi triciklijeiről ismert.",
@@ -1308,7 +1308,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-general-trias-cities-v2",
     type: "city",
     name: { de: "General Trias", hu: "General Trias", ro: "General Trias", en: "General Trias" },
-    coordinates: { lat: 14.3861, lng: 120.8806 },
+    coords: [120.8806, 14.3861],
     description: {
       de: "General Trias ist eine schnell wachsende Industriestadt in der Provinz Cavite. Sie beherbergt zahlreiche Wirtschaftszonen und ist ein wichtiger Standort für Fertigungsindustrie.",
       hu: "General Trias egy gyorsan növekvő iparváros Cavite tartományban. Számos gazdasági övezetnek ad otthont, és a feldolgozóipar fontos helyszíne.",
@@ -1327,7 +1327,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-binan-cities-v2",
     type: "city",
     name: { de: "Biñan", hu: "Biñan", ro: "Biñan", en: "Biñan" },
-    coordinates: { lat: 14.3397, lng: 121.0847 },
+    coords: [121.0847, 14.3397],
     description: {
       de: "Biñan ist eine bedeutende Industriestadt in der Provinz Laguna, bekannt für ihre Schuhindustrie und traditionellen Reiskuchen. Sie ist ein wichtiges Handelszentrum südlich von Manila.",
       hu: "Biñan Laguna tartomány jelentős iparvárosa, amely cipőiparáról és hagyományos rizssüteményeiről ismert. Fontos kereskedelmi központ Manilától délre.",
@@ -1346,7 +1346,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-urdaneta-cities-v2",
     type: "city",
     name: { de: "Urdaneta", hu: "Urdaneta", ro: "Urdaneta", en: "Urdaneta" },
-    coordinates: { lat: 15.9761, lng: 120.5714 },
+    coords: [120.5714, 15.9761],
     description: {
       de: "Urdaneta ist eine bedeutende Stadt in der Provinz Pangasinan und ein zentraler Umschlagplatz für Agrarprodukte. Sie ist für einen der größten Viehmärkte des Landes bekannt.",
       hu: "Urdaneta Pangasinan tartomány jelentős városa, a mezőgazdasági termékek központi elosztóhelye. Az ország egyik legnagyobb állatvásáráról ismert.",
@@ -1365,7 +1365,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-olongapo-cities-v2",
     type: "city",
     name: { de: "Olongapo", hu: "Olongapo", ro: "Olongapo", en: "Olongapo" },
-    coordinates: { lat: 14.8267, lng: 120.2842 },
+    coords: [120.2842, 14.8267],
     description: {
       de: "Olongapo ist eine hochgradig urbanisierte Stadt in der Provinz Zambales, angrenzend an die Subic Bay Freeport Zone. Die Stadt hat eine reiche Geschichte als ehemaliger US-Marinestützpunkt.",
       hu: "Olongapo Zambales tartomány nagymértékben urbanizált városa, közvetlenül a Subic Bay szabadkikötő mellett. A város gazdag múlttal rendelkezik, korábban amerikai tengerészeti bázis volt.",
@@ -1384,7 +1384,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-roxas-city-cities-v2",
     type: "city",
     name: { de: "Roxas City", hu: "Roxas City", ro: "Roxas City", en: "Roxas City" },
-    coordinates: { lat: 11.5853, lng: 122.7511 },
+    coords: [122.7511, 11.5853],
     description: {
       de: "Roxas City ist die Hauptstadt der Provinz Capiz und bekannt als die Meeresfrüchte-Hauptstadt der Philippinen. Sie ist ein bedeutendes Fischerei- und Handelszentrum auf der Insel Panay.",
       hu: "Roxas City Capiz tartomány fővárosa, a Fülöp-szigetek tenger gyümölcsei fővárosaként ismert. Jelentős halászati és kereskedelmi központ Panay szigetén.",
@@ -1403,7 +1403,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-kabankalan-cities-v2",
     type: "city",
     name: { de: "Kabankalan", hu: "Kabankalan", ro: "Kabankalan", en: "Kabankalan" },
-    coordinates: { lat: 9.9833, lng: 122.8167 },
+    coords: [122.8167, 9.9833],
     description: {
       de: "Kabankalan ist eine wachsende Stadt in Negros Occidental und ein wichtiges Zentrum für die Zuckerindustrie. Sie dient als Tor zum südlichen Teil der Insel Negros.",
       hu: "Kabankalan egy növekvő város Negros Occidental tartományban, a cukoripar egyik fontos központja. Kapuként szolgál Negros szigetének déli részéhez.",
@@ -1422,7 +1422,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-malaybalay-cities-v2",
     type: "city",
     name: { de: "Malaybalay", hu: "Malaybalay", ro: "Malaybalay", en: "Malaybalay" },
-    coordinates: { lat: 8.1256, lng: 125.1264 },
+    coords: [125.1264, 8.1256],
     description: {
       de: "Malaybalay ist die Hauptstadt der Provinz Bukidnon und als Sommerhauptstadt des Südens bekannt. Die Stadt liegt im Hochland von Mindanao und genießt ein kühles Klima.",
       hu: "Malaybalay Bukidnon tartomány fővárosa, „dél nyári fővárosaként” ismert. A város Mindanao felföldjén található, és hűvös éghajlatot élvez.",
@@ -1441,7 +1441,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-sorsogon-city-cities-v2",
     type: "city",
     name: { de: "Sorsogon City", hu: "Sorsogon City", ro: "Sorsogon City", en: "Sorsogon City" },
-    coordinates: { lat: 12.9667, lng: 124.0 },
+    coords: [124.0, 12.9667],
     description: {
       de: "Sorsogon City ist die Hauptstadt der gleichnamigen Provinz und das südliche Tor zur Insel Luzon. Die Stadt liegt an der strategisch wichtigen Bucht von Sorsogon.",
       hu: "Sorsogon City az azonos nevű tartomány fővárosa és Luzon szigetének déli kapuja. A város a stratégiailag fontos Sorsogon-öböl partján fekszik.",
@@ -1460,7 +1460,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-calapan-cities-v2",
     type: "city",
     name: { de: "Calapan", hu: "Calapan", ro: "Calapan", en: "Calapan" },
-    coordinates: { lat: 13.4111, lng: 121.1803 },
+    coords: [121.1803, 13.4111],
     description: {
       de: "Calapan ist die Hauptstadt von Oriental Mindoro und das regionale Zentrum von MIMAROPA. Die Stadt ist ein wichtiger Seehafen für den Waren- und Personenverkehr nach Batangas.",
       hu: "Calapan Oriental Mindoro fővárosa és MIMAROPA regionális központja. A város fontos tengeri kikötő a Batangasba irányuló áru- és személyforgalom számára.",
@@ -1479,7 +1479,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "philippines-digos-cities-v2",
     type: "city",
     name: { de: "Digos", hu: "Digos", ro: "Digos", en: "Digos" },
-    coordinates: { lat: 6.7561, lng: 125.3556 },
+    coords: [125.3556, 6.7561],
     description: {
       de: "Digos ist die Hauptstadt von Davao del Sur und liegt am Fuße des Mount Apo. Die Stadt ist für ihre süßen Mangos und als wichtiger Verkehrsknotenpunkt bekannt.",
       hu: "Digos Davao del Sur fővárosa, a Mount Apo lábánál fekszik. A város édes mangóiról és fontos közlekedési csomópontként ismert.",

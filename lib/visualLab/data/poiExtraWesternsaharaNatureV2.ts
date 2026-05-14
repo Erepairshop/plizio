@@ -5,7 +5,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-sebkhat-tijirit-nature-v2",
     type: "lake",
     name: { de: "Sebkhat Tijirit", hu: "Sebkhat Tijirit", ro: "Sebkhat Tijirit", en: "Sebkhat Tijirit" },
-    coordinates: { lat: 20.35, lng: -15.15 },
+    coords: [-15.15, 20.35],
     description: {
       de: "Sebkhat Tijirit ist eine große Salzpfanne im nordwestlichen Teil der Westsahara. Sie füllt sich bei seltenen Regenfällen mit Wasser.",
       hu: "A Sebkhat Tijirit egy kiterjedt sómedence Nyugat-Szahara északnyugati részén. Ritka esőzések idején vízzel telik meg.",
@@ -24,7 +24,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-erg-aguerguer-nature-v2",
     type: "landmark",
     name: { de: "Erg Aguerguer", hu: "Erg Aguerguer", ro: "Erg Aguerguer", en: "Erg Aguerguer" },
-    coordinates: { lat: 21.32, lng: -16.48 },
+    coords: [-16.48, 21.32],
     description: {
       de: "Erg Aguerguer ist ein ausgedehntes Sanddünengebiet entlang der Atlantikküste. Die Landschaft ist durch wandernde Dünen geprägt.",
       hu: "Az Erg Aguerguer egy kiterjedt homokdűne-terület az Atlanti-óceán partvidékén. A tájat vándorló dűnék jellemzik.",
@@ -43,7 +43,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-saguia-el-hamra-nature-v2",
     type: "river",
     name: { de: "Oued Saguia el-Hamra", hu: "Oued Saguia el-Hamra", ro: "Oued Saguia el-Hamra", en: "Oued Saguia el-Hamra" },
-    coordinates: { lat: 27.15, lng: -13.2 },
+    coords: [-13.2, 27.15],
     description: {
       de: "Der Oued Saguia el-Hamra ist ein bedeutendes Trockenflusstal in der Region. Er führt nur bei starken Niederschlägen Wasser in Richtung Atlantik.",
       hu: "Az Oued Saguia el-Hamra a régió jelentős kiszáradt folyóvölgye. Csak heves esőzések idején szállít vizet az Atlanti-óceán felé.",
@@ -62,7 +62,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-cabo-bojador-coast-nature-v2",
     type: "landmark",
     name: { de: "Küste von Cabo Bojador", hu: "Cabo Bojador partvidéke", ro: "Coasta Cabo Bojador", en: "Cabo Bojador Coast" },
-    coordinates: { lat: 26.13, lng: -14.5 },
+    coords: [-14.5, 26.13],
     description: {
       de: "Die Küste bei Cabo Bojador markiert einen markanten Vorsprung in den Atlantik. Die Geologie ist durch felsige Kliffs und Sandstrände bestimmt.",
       hu: "Cabo Bojador partvidéke egy kiemelkedő pont az Atlanti-óceán felé. A geológiát sziklás sziklák és homokos partok határozzák meg.",
@@ -81,7 +81,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-draa-delta-nature-v2",
     type: "river",
     name: { de: "Oued Draa Delta", hu: "Oued Draa delta", ro: "Delta Oued Draa", en: "Oued Draa Delta" },
-    coordinates: { lat: 28.75, lng: -11.08 },
+    coords: [-11.08, 28.75],
     description: {
       de: "Das Mündungsgebiet des Oued Draa erreicht den Atlantik an der Grenze zur Region. Es bildet eine ökologisch sensible Zone mit Feuchtgebieten.",
       hu: "Az Oued Draa torkolatvidéke a régió határán éri el az Atlanti-óceánt. Ökológiailag érzékeny zónát alkot vizes élőhelyekkel.",
@@ -100,7 +100,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-plateau-de-le-guerra-nature-v2",
     type: "mountain",
     name: { de: "Plateau de Le Guerra", hu: "Plateau de Le Guerra", ro: "Plateau de Le Guerra", en: "Plateau de Le Guerra" },
-    coordinates: { lat: 21.33, lng: -16.98 },
+    coords: [-16.98, 21.33],
     description: {
       de: "Das Plateau de Le Guerra ist eine karge Hochebene im extremen Süden der Westsahara. Die Landschaft wird von Felsgestein und Kies dominiert.",
       hu: "A Plateau de Le Guerra egy kopár fennsík Nyugat-Szahara szélső déli részén. A tájat sziklák és kavicsok uralják.",
@@ -119,7 +119,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-sebkha-dakhla-nature-v2",
     type: "lake",
     name: { de: "Sebkha von Dakhla", hu: "Dakhla-i Sebkha", ro: "Sebkha din Dakhla", en: "Sebkha of Dakhla" },
-    coordinates: { lat: 23.95, lng: -15.5 },
+    coords: [-15.5, 23.95],
     description: {
       de: "Die Sebkha von Dakhla ist eine ausgedehnte Salzsenke im Landesinneren der Halbinsel. Sie bleibt meist trocken und ist von sandigen Erhebungen umgeben.",
       hu: "A Dakhla-i Sebkha egy kiterjedt sómedence a félsziget belsejében. Többnyire száraz marad, és homokos emelkedők veszik körül.",
@@ -138,7 +138,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-ras-nouadhibou-coast-nature-v2",
     type: "landmark",
     name: { de: "Küstenlinie Ras Nouadhibou", hu: "Ras Nouadhibou partvonala", ro: "Linia de coastă Ras Nouadhibou", en: "Ras Nouadhibou Coastline" },
-    coordinates: { lat: 20.78, lng: -17.03 },
+    coords: [-17.03, 20.78],
     description: {
       de: "Die Landzunge von Ras Nouadhibou bildet den südlichsten Punkt des Küstenabschnitts. Die Umgebung ist von marinen Ablagerungen und Küstendünen geprägt.",
       hu: "A Ras Nouadhibou-fok a partvonal legdélibb pontját képezi. A környezetet tengeri üledékek és part menti dűnék jellemzik.",
@@ -157,7 +157,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-tizgui-nature-v2",
     type: "river",
     name: { de: "Oued Tizgui", hu: "Oued Tizgui", ro: "Oued Tizgui", en: "Oued Tizgui" },
-    coordinates: { lat: 26.55, lng: -12.4 },
+    coords: [-12.4, 26.55],
     description: {
       de: "Oued Tizgui ist ein kleineres Trockenflusstal in der Region Saguia el-Hamra. Es entwässert gelegentlich bei schweren Gewitterregen.",
       hu: "Az Oued Tizgui egy kisebb kiszáradt folyóvölgy a Saguia el-Hamra régióban. Súlyos zivatarok idején alkalmanként lefolyást biztosít.",
@@ -176,7 +176,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-erg-tifariti-nature-v2",
     type: "landmark",
     name: { de: "Erg Tifariti", hu: "Erg Tifariti", ro: "Erg Tifariti", en: "Erg Tifariti" },
-    coordinates: { lat: 26.58, lng: -10.5 },
+    coords: [-10.5, 26.58],
     description: {
       de: "Erg Tifariti ist eine abgelegene Wüstenregion mit charakteristischen Sandformationen. Die Gegend ist für ihre archäologischen Felszeichnungen bekannt.",
       hu: "Az Erg Tifariti egy távoli sivatagi régió jellegzetes homokformációkkal. A terület a régészeti sziklarajzairól ismert.",
@@ -195,7 +195,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-es-semara-valley-nature-v2",
     type: "valley",
     name: { de: "Es-Semara Tal", hu: "Es-Semara völgy", ro: "Valea Es-Semara", en: "Es-Semara Valley" },
-    coordinates: { lat: 26.75, lng: -11.67 },
+    coords: [-11.67, 26.75],
     description: {
       de: "Das Tal bei Es-Semara umfasst die Umgebung des Flusssystems Saguia el-Hamra. Es bietet einen der wenigen Orte mit natürlicher Vegetation.",
       hu: "Az Es-Semara melletti völgy a Saguia el-Hamra folyórendszer környezetét foglalja magában. Egyike azon kevés helyeknek, ahol természetes növényzet található.",
@@ -214,7 +214,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-cabo-boujdour-cliffs-nature-v2",
     type: "landmark",
     name: { de: "Klippen von Cabo Boujdour", hu: "Cabo Boujdour-sziklák", ro: "Stâncile de la Cabo Boujdour", en: "Cabo Boujdour Cliffs" },
-    coordinates: { lat: 26.12, lng: -14.48 },
+    coords: [-14.48, 26.12],
     description: {
       de: "Diese steilen Klippen bilden die markante Küstenkante bei Boujdour. Sie sind ein wichtiger Referenzpunkt für die lokale maritime Geografie.",
       hu: "Ezek a meredek sziklák képezik Boujdour jellegzetes partvonalát. Fontos referenciapontot jelentenek a helyi tengeri földrajzban.",
@@ -233,7 +233,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-plateau-de-zemmour-nature-v2",
     type: "mountain",
     name: { de: "Plateau de Zemmour", hu: "Plateau de Zemmour", ro: "Plateau de Zemmour", en: "Plateau de Zemmour" },
-    coordinates: { lat: 25.0, lng: -11.5 },
+    coords: [-11.5, 25.0],
     description: {
       de: "Das Plateau de Zemmour ist ein ausgedehntes, steiniges Hochland im Landesinneren. Die Umgebung ist durch Wüstengeröll und isolierte Berge gekennzeichnet.",
       hu: "A Plateau de Zemmour egy kiterjedt, köves felföld a szárazföld belsejében. A környezetet sivatagi törmelék és elszigetelt hegyek jellemzik.",
@@ -252,7 +252,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-guelta-de-dakhla-nature-v2",
     type: "lake",
     name: { de: "Guelta de Dakhla", hu: "Guelta de Dakhla", ro: "Guelta de Dakhla", en: "Guelta de Dakhla" },
-    coordinates: { lat: 23.5, lng: -15.8 },
+    coords: [-15.8, 23.5],
     description: {
       de: "Eine Guelta in der Nähe von Dakhla, die als temporäres Wasserbecken fungiert. Sie wird von Niederschlägen gespeist und verdunstet schnell.",
       hu: "Egy Guelta Dakhla közelében, amely ideiglenes vízmedenceként funkcionál. Csapadékból táplálkozik és gyorsan elpárolog.",
@@ -271,7 +271,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-massif-du-zereg-nature-v2",
     type: "mountain",
     name: { de: "Massif du Zereg", hu: "Massif du Zereg", ro: "Massif du Zereg", en: "Massif du Zereg" },
-    coordinates: { lat: 27.0, lng: -10.5 },
+    coords: [-10.5, 27.0],
     description: {
       de: "Das Massif du Zereg besteht aus einer Reihe niedriger, felsiger Gebirgsketten. Die Gegend ist durch extreme Trockenheit und spärliche Flora geprägt.",
       hu: "A Massif du Zereg alacsony, sziklás hegyvonulatok sorából áll. A területet az extrém szárazság és a ritka növényzet jellemzi.",
@@ -290,7 +290,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-sakia-valley-nature-v2",
     type: "valley",
     name: { de: "Oued Sakia Tal", hu: "Oued Sakia völgy", ro: "Valea Oued Sakia", en: "Oued Sakia Valley" },
-    coordinates: { lat: 27.05, lng: -12.5 },
+    coords: [-12.5, 27.05],
     description: {
       de: "Ein weites, trockenes Tal, das sich durch die zentrale Region zieht. Es ist ein wichtiger Kanal für sedimentäre Prozesse bei Starkregen.",
       hu: "Egy széles, száraz völgy, amely a központi régión halad keresztül. Fontos csatorna az üledékes folyamatok számára heves esőzés esetén.",
@@ -309,7 +309,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-erg-aguerguer-south-nature-v2",
     type: "landmark",
     name: { de: "Erg Aguerguer Süd", hu: "Erg Aguerguer Dél", ro: "Erg Aguerguer Sud", en: "Erg Aguerguer South" },
-    coordinates: { lat: 21.15, lng: -16.55 },
+    coords: [-16.55, 21.15],
     description: {
       de: "Der südliche Teil von Erg Aguerguer erstreckt sich entlang der Küste nahe der Grenze. Hier treffen Sanddünen auf den Atlantischen Ozean.",
       hu: "Az Erg Aguerguer déli része a határ közelében, a part mentén húzódik. Itt találkoznak a homokdűnék az Atlanti-óceánnal.",
@@ -328,7 +328,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-sebkha-tijirit-center-nature-v2",
     type: "lake",
     name: { de: "Zentrale Sebkha Tijirit", hu: "Központi Sebkha Tijirit", ro: "Sebkha Tijirit Centrală", en: "Central Sebkha Tijirit" },
-    coordinates: { lat: 20.4, lng: -15.1 },
+    coords: [-15.1, 20.4],
     description: {
       de: "Das Zentrum von Sebkha Tijirit ist eine flache, salzhaltige Senke. Bei extremer Hitze bildet sich eine glitzernde Salzkruste auf der Oberfläche.",
       hu: "A Sebkhat Tijirit közepe egy lapos, sós mélyedés. Extrém hőségben csillogó sókéreg képződik a felszínen.",
@@ -347,7 +347,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-plateau-boujdour-nature-v2",
     type: "mountain",
     name: { de: "Boujdour Plateau", hu: "Boujdour-fennsík", ro: "Podișul Boujdour", en: "Boujdour Plateau" },
-    coordinates: { lat: 26.2, lng: -14.0 },
+    coords: [-14.0, 26.2],
     description: {
       de: "Das Boujdour Plateau erhebt sich sanft über das umliegende Küstentiefland. Die Oberfläche ist durch steinige Ebenen und Wüstenkies geprägt.",
       hu: "A Boujdour-fennsík enyhén emelkedik a környező parti alföld fölé. A felszínt köves síkságok és sivatagi kavicsok jellemzik.",
@@ -366,7 +366,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-tiguint-nature-v2",
     type: "river",
     name: { de: "Oued Tiguint", hu: "Oued Tiguint", ro: "Oued Tiguint", en: "Oued Tiguint" },
-    coordinates: { lat: 27.2, lng: -11.5 },
+    coords: [-11.5, 27.2],
     description: {
       de: "Ein kleineres Flusstal, das in das System des Saguia el-Hamra mündet. Es ist meist trocken und trägt nur temporär Wasser.",
       hu: "Egy kisebb folyóvölgy, amely a Saguia el-Hamra rendszerébe torkollik. Általában száraz és csak ideiglenesen vezet vizet.",
@@ -385,7 +385,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-erg-tifariti-north-nature-v2",
     type: "landmark",
     name: { de: "Erg Tifariti Nord", hu: "Erg Tifariti Észak", ro: "Erg Tifariti Nord", en: "Erg Tifariti North" },
-    coordinates: { lat: 26.7, lng: -10.6 },
+    coords: [-10.6, 26.7],
     description: {
       de: "Der nördliche Bereich von Erg Tifariti zeichnet sich durch höhere Sandansammlungen aus. Die Dünen bilden hier beeindruckende geometrische Muster.",
       hu: "Az Erg Tifariti északi területét magasabb homokfelhalmozódások jellemzik. A dűnék itt lenyűgöző geometriai mintákat alkotnak.",
@@ -404,7 +404,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-guelta-de-zemmour-nature-v2",
     type: "lake",
     name: { de: "Guelta de Zemmour", hu: "Guelta de Zemmour", ro: "Guelta de Zemmour", en: "Guelta de Zemmour" },
-    coordinates: { lat: 25.1, lng: -11.6 },
+    coords: [-11.6, 25.1],
     description: {
       de: "Eine isolierte Wasserstelle im Zemmour-Gebiet. Sie wird oft von lokalen Herden und Wildtieren in der trockenen Wüstenumgebung aufgesucht.",
       hu: "Egy elszigetelt vízlelőhely a Zemmour régióban. A száraz sivatagi környezetben gyakran keresik fel a helyi csordák és vadállatok.",
@@ -423,7 +423,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-massif-du-zereg-east-nature-v2",
     type: "mountain",
     name: { de: "Östliches Massif du Zereg", hu: "Keleti Massif du Zereg", ro: "Massif du Zereg Est", en: "Eastern Massif du Zereg" },
-    coordinates: { lat: 27.1, lng: -10.3 },
+    coords: [-10.3, 27.1],
     description: {
       de: "Der östliche Teil des Zereg-Massivs weist zerklüftete Felsformationen auf. Die Region ist durch extreme Erosion und Trockenheit gezeichnet.",
       hu: "A Zereg-tömb keleti része szaggatott sziklaképződményekkel rendelkezik. A régiót extrém erózió és szárazság jellemzi.",
@@ -442,7 +442,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-cabo-bojador-north-nature-v2",
     type: "landmark",
     name: { de: "Nördliches Cabo Bojador", hu: "Északi Cabo Bojador", ro: "Cabo Bojador Nord", en: "Northern Cabo Bojador" },
-    coordinates: { lat: 26.2, lng: -14.4 },
+    coords: [-14.4, 26.2],
     description: {
       de: "Die nördliche Küste von Cabo Bojador bietet lange Sandstrände vor felsigen Abschnitten. Sie ist ein dynamischer Übergangsbereich am Atlantik.",
       hu: "Cabo Bojador északi partja hosszú homokos strandokat kínál sziklás szakaszok előtt. Dinamikus átmeneti terület az Atlanti-óceánon.",
@@ -461,7 +461,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-plateau-zemmour-east-nature-v2",
     type: "mountain",
     name: { de: "Zemmour Plateau Ost", hu: "Zemmour-fennsík Kelet", ro: "Podișul Zemmour Est", en: "Zemmour Plateau East" },
-    coordinates: { lat: 25.1, lng: -11.3 },
+    coords: [-11.3, 25.1],
     description: {
       de: "Das östliche Zemmour-Plateau bildet die Grenze zu trockenem Hinterland. Es besteht aus einer ausgedehnten, flachen und steinigen Hochfläche.",
       hu: "A keleti Zemmour-fennsík képezi a határt a száraz hátország felé. Egy kiterjedt, lapos és köves felföldből áll.",
@@ -480,7 +480,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-oued-sakia-dune-nature-v2",
     type: "landmark",
     name: { de: "Oued Sakia Düne", hu: "Oued Sakia dűne", ro: "Duna Oued Sakia", en: "Oued Sakia Dune" },
-    coordinates: { lat: 27.1, lng: -12.3 },
+    coords: [-12.3, 27.1],
     description: {
       de: "Eine einzelne große Wanderdüne im Bereich des Oued Sakia. Sie veranschaulicht die äolischen Prozesse in der Nähe des ausgetrockneten Flussbettes.",
       hu: "Egyetlen nagy vándorló dűne az Oued Sakia területén. Illusztrálja az eolikus folyamatokat a kiszáradt folyómeder közelében.",
@@ -499,7 +499,7 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-guelta-de-zoug-northeast-nature-v2",
     type: "lake",
     name: { de: "Guelta de Zoug Nordost", hu: "Guelta de Zoug Északkelet", ro: "Guelta de Zoug Nord-Est", en: "Guelta de Zoug Northeast" },
-    coordinates: { lat: 25.5, lng: -12.0 },
+    coords: [-12.0, 25.5],
     description: {
       de: "Der nordöstliche Randbereich der Guelta de Zoug zeigt felsige Ausläufer. In diesem Teil sammelt sich Wasser nach seltenen Niederschlägen.",
       hu: "A Guelta de Zoug északkeleti pereme sziklás kinyúlásokat mutat. Ezen a részen gyűlik össze a víz ritka esőzések után.",

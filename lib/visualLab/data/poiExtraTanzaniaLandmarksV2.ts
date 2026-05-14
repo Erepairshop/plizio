@@ -1087,7 +1087,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-ocean-road-hospital-landmarks-v2",
     type: "landmark",
     name: { de: "Ocean Road Krankenhaus", hu: "Ocean Road Kórház", ro: "Spitalul Ocean Road", en: "Ocean Road Hospital" },
-    coordinates: { lat: -6.8125, lng: 39.2975 },
+    coords: [39.2975, -6.8125],
     description: {
       de: "Dieses historische Krankenhaus wurde 1897 während der deutschen Kolonialzeit in Daressalam erbaut. Das Gebäude zeichnet sich durch seine charakteristische Architektur mit Rundbögen aus.",
       hu: "Ez a történelmi kórház 1897-ben épült Dar es-Salaamban a német gyarmati időszak alatt. Az épület jellegzetes köríves építészetéről és tengerparti elhelyezkedéséről ismert.",
@@ -1106,7 +1106,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-kariakoo-market-building-landmarks-v2",
     type: "landmark",
     name: { de: "Kariakoo Markthalle", hu: "Kariakoo Vásárcsarnok", ro: "Piața Kariakoo", en: "Kariakoo Market Building" },
-    coordinates: { lat: -6.8242, lng: 39.2778 },
+    coords: [39.2778, -6.8242],
     description: {
       de: "Die zentrale Markthalle von Kariakoo ist ein bedeutendes Beispiel für brutalistische Architektur in Tansania. Das 1974 eröffnete Gebäude ist das wirtschaftliche Herz von Daressalam.",
       hu: "A Kariakoo központi piaca a brutalista építészet jelentős példája Tanzániában. Az 1974-ben megnyitott épület Dar es-Salaam kereskedelmi központja.",
@@ -1125,7 +1125,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-state-house-dar-landmarks-v2",
     type: "palace",
     name: { de: "Staatshaus Daressalam", hu: "Elnöki Palota (Ikulu) Dar es-Salaam", ro: "Casa de Stat Dar es Salaam", en: "State House Dar es Salaam" },
-    coordinates: { lat: -6.8194, lng: 39.2997 },
+    coords: [39.2997, -6.8194],
     description: {
       de: "Das Staatshaus, lokal bekannt als Ikulu, ist der offizielle Amtssitz des Präsidenten in Daressalam. Das weiße Gebäude kombiniert afrikanische und arabische Architekturelemente.",
       hu: "Az állami rezidencia, helyi nevén Ikulu, az elnök hivatalos székhelye Dar es-Salaamban. A fehér épület az afrikai és az arab építészet stílusjegyeit ötvözi.",
@@ -1144,7 +1144,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-jnicc-dar-landmarks-v2",
     type: "landmark",
     name: { de: "Julius Nyerere Konferenzzentrum", hu: "Julius Nyerere Konferencia-központ", ro: "Centrul de Conferințe Julius Nyerere", en: "Julius Nyerere International Convention Centre" },
-    coordinates: { lat: -6.8145, lng: 39.2898 },
+    coords: [39.2898, -6.8145],
     description: {
       de: "Dieses moderne Konferenzzentrum in Daressalam ist nach dem ersten Präsidenten Tansanias benannt. Es ist ein wichtiger Ort für internationale Gipfeltreffen und Wirtschaftstreffen.",
       hu: "Ez a modern konferencia-központ Dar es-Salaamban Tanzánia első elnökéről kapta a nevét. Fontos helyszín nemzetközi csúcstalálkozók és gazdasági események számára.",
@@ -1163,7 +1163,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-udsm-library-landmarks-v2",
     type: "landmark",
     name: { de: "Universität Daressalam Bibliothek", hu: "Dar es-Salaam-i Egyetem Könyvtára", ro: "Biblioteca Universității din Dar es Salaam", en: "University of Dar es Salaam Library" },
-    coordinates: { lat: -6.7795, lng: 39.2045 },
+    coords: [39.2045, -6.7795],
     description: {
       de: "Die Bibliothek der Universität Daressalam ist eine der größten wissenschaftlichen Bibliotheken in Ostafrika. Das neue Gebäude wurde 2018 eröffnet und bietet moderne Studienplätze.",
       hu: "A Dar es-Salaam-i Egyetem könyvtára Kelet-Afrika egyik legnagyobb tudományos gyűjteménye. Az új épületet 2018-ban adták át, és modern tanulási környezetet biztosít.",
@@ -1182,7 +1182,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-holy-spirit-cathedral-dodoma-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale des Heiligen Geistes Dodoma", hu: "Szentlélek-székesegyház Dodoma", ro: "Catedrala Duhul Sfânt Dodoma", en: "Anglican Cathedral of the Holy Spirit Dodoma" },
-    coordinates: { lat: -6.1755, lng: 35.7482 },
+    coords: [35.7482, -6.1755],
     description: {
       de: "Diese markante anglikanische Kathedrale ist ein zentrales religiöses Wahrzeichen in Tansanias Hauptstadt Dodoma. Sie ist bekannt für ihre weithin sichtbare rote Kuppel.",
       hu: "Ez a jellegzetes anglikán székesegyház Tanzánia fővárosának, Dodomának egyik központi vallási jelképe. Messziről látható vörös kupolájáról ismert.",
@@ -1201,7 +1201,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-white-fathers-house-landmarks-v2",
     type: "landmark",
     name: { de: "Haus der Weißen Väter", hu: "Fehér Atyák Háza", ro: "Casa Părinților Albi", en: "White Fathers' House Dar es Salaam" },
-    coordinates: { lat: -6.8152, lng: 39.2915 },
+    coords: [39.2915, -6.8152],
     description: {
       de: "Das Haus der Weißen Väter ist eines der ältesten erhaltenen Gebäude in Daressalam. Es wurde im späten 19. Jahrhundert als Missionsstation der katholischen Kirche errichtet.",
       hu: "A Fehér Atyák Háza Dar es-Salaam egyik legrégebbi fennmaradt épülete. A 19. század végén épült a katolikus egyház missziós állomásaként.",
@@ -1220,7 +1220,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-peramiho-monastery-landmarks-v2",
     type: "landmark",
     name: { de: "Kloster Peramiho", hu: "Peramiho Kolostor", ro: "Mănăstirea Peramiho", en: "St. Benedict's Monastery Peramiho" },
-    coordinates: { lat: -10.6542, lng: 35.4385 },
+    coords: [35.4385, -10.6542],
     description: {
       de: "Dieses Benediktinerkloster in der Region Ruvuma ist bekannt für seine imposante Kirche im bayerischen Stil. Es wurde von deutschen Missionaren gegründet und ist ein Zentrum für Handwerk und Bildung.",
       hu: "Ez a Ruvuma régióban található bencés kolostor impozáns, bajor stílusú templomáról ismert. Német misszionáriusok alapították, és a kézművesség, valamint az oktatás központja.",
@@ -1239,7 +1239,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-mkapa-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Mkapa-Brücke", hu: "Mkapa-híd", ro: "Podul Mkapa", en: "Mkapa Bridge" },
-    coordinates: { lat: -7.9425, lng: 38.9388 },
+    coords: [38.9388, -7.9425],
     description: {
       de: "Die Mkapa-Brücke überquert den Rufiji-Fluss und ist eine der längsten Brücken Tansanias. Sie ist ein entscheidendes Bindeglied zwischen dem Norden und dem Süden des Landes.",
       hu: "A Rufiji-folyón átívelő Mkapa-híd Tanzánia egyik leghosszabb hídja. Döntő fontosságú összeköttetést biztosít az ország északi és déli része között.",
@@ -1258,7 +1258,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-high-court-dar-landmarks-v2",
     type: "landmark",
     name: { de: "Oberstes Gericht Daressalam", hu: "Legfelsőbb Bíróság Dar es-Salaam", ro: "Înalta Curte Dar es Salaam", en: "High Court Building Dar es Salaam" },
-    coordinates: { lat: -6.8188, lng: 39.2935 },
+    coords: [39.2935, -6.8188],
     description: {
       de: "Das Gebäude des Obersten Gerichtshofs in Daressalam ist ein architektonisch bedeutendes Bauwerk aus der Kolonialzeit. Es liegt in der Nähe der Uferpromenade Kivukoni Front.",
       hu: "A dar es-salaami Legfelsőbb Bíróság épülete a gyarmati korszak építészetileg jelentős alkotása. A Kivukoni Front tengerparti sétány közelében található.",
@@ -1277,7 +1277,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-amaan-stadium-zanzibar-landmarks-v2",
     type: "landmark",
     name: { de: "Amaan-Stadion Sansibar", hu: "Amaan Stadion Zanzibár", ro: "Stadionul Amaan Zanzibar", en: "Amaan Stadium Zanzibar" },
-    coordinates: { lat: -6.1725, lng: 39.2198 },
+    coords: [39.2198, -6.1725],
     description: {
       de: "Das Amaan-Stadion ist die wichtigste Sportstätte in Sansibar. Es wird für Fußballspiele und nationale Feiertagszeremonien der Inselgruppe genutzt.",
       hu: "Az Amaan Stadion Zanzibár legfontosabb sportlétesítménye. Labdarúgó-mérkőzések és a szigetcsoport nemzeti ünnepi ceremóniáinak helyszíne.",
@@ -1296,7 +1296,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-livingstone-house-zanzibar-landmarks-v2",
     type: "landmark",
     name: { de: "Livingstone-Haus Sansibar", hu: "Livingstone-ház Zanzibár", ro: "Casa Livingstone Zanzibar", en: "Livingstone House Zanzibar" },
-    coordinates: { lat: -6.1512, lng: 39.1978 },
+    coords: [39.1978, -6.1512],
     description: {
       de: "Das Livingstone-Haus in Sansibar-Stadt diente dem Forscher David Livingstone als Stützpunkt vor seiner letzten Expedition ins Landesinnere Afrikas.",
       hu: "A Zanzibár városában található Livingstone-ház David Livingstone kutató bázisaként szolgált utolsó afrikai expedíciója előtt.",
@@ -1315,7 +1315,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-kigongo-busisi-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Kigongo-Busisi-Brücke", hu: "Kigongo-Busisi-híd", ro: "Podul Kigongo-Busisi", en: "Kigongo-Busisi Bridge" },
-    coordinates: { lat: -2.6285, lng: 32.8365 },
+    coords: [32.8365, -2.6285],
     description: {
       de: "Diese neue Brücke über den Victoriasee verbindet die Bezirke Kigongo und Busisi in der Region Mwanza. Sie ist ein bedeutendes Infrastrukturprojekt zur Erleichterung des Verkehrs.",
       hu: "Ez az új híd a Viktória-tavon keresztül köti össze Kigongo és Busisi körzeteket Mwanza régióban. Jelentős infrastrukturális projekt a forgalom megkönnyítésére.",
@@ -1334,7 +1334,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-mv-bukoba-memorial-landmarks-v2",
     type: "monument",
     name: { de: "MV Bukoba Denkmal", hu: "MV Bukoba Emlékmű", ro: "Monumentul MV Bukoba", en: "MV Bukoba Memorial" },
-    coordinates: { lat: -2.5208, lng: 32.8985 },
+    coords: [32.8985, -2.5208],
     description: {
       de: "Das MV Bukoba Denkmal in Mwanza erinnert an die Opfer des Schiffsunglücks der Fähre MV Bukoba im Jahr 1996 auf dem Victoriasee.",
       hu: "A Mwanza városában található MV Bukoba emlékmű az MV Bukoba komp 1996-os, Viktória-tavi katasztrófájának áldozataira emlékeztet.",
@@ -1353,7 +1353,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-dar-war-cemetery-landmarks-v2",
     type: "landmark",
     name: { de: "Kriegsgräberstätte Daressalam", hu: "Dar es-Salaam-i Világháborús Temető", ro: "Cimitirul de Război Dar es Salaam", en: "Dar es Salaam War Cemetery" },
-    coordinates: { lat: -6.7728, lng: 39.2482 },
+    coords: [39.2482, -6.7728],
     description: {
       de: "Der Kriegsfriedhof in Daressalam wird von der Commonwealth War Graves Commission gepflegt. Er beherbergt die Gräber von Soldaten aus beiden Weltkriegen.",
       hu: "A dar es-salaami katonai temetőt a Commonwealth War Graves Commission gondozza. Mindkét világháború elesett katonáinak sírjait őrzi.",
@@ -1372,7 +1372,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-kcmc-hospital-moshi-landmarks-v2",
     type: "landmark",
     name: { de: "KCMC Krankenhaus Moshi", hu: "KCMC Kórház Moshi", ro: "Spitalul KCMC Moshi", en: "Kilimanjaro Christian Medical Centre (KCMC)" },
-    coordinates: { lat: -3.3245, lng: 37.3378 },
+    coords: [37.3378, -3.3245],
     description: {
       de: "Das KCMC in Moshi ist ein führendes medizinisches Zentrum und Lehrkrankenhaus am Fuße des Kilimandscharo. Es ist ein bedeutender architektonischer Komplex im Norden Tansanias.",
       hu: "A moshi KCMC egy vezető orvosi központ és oktatókórház a Kilimandzsáró lábánál. Észak-Tanzánia jelentős építészeti együttese.",
@@ -1391,7 +1391,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-tra-headquarters-dar-landmarks-v2",
     type: "landmark",
     name: { de: "TRA Hauptsitz Daressalam", hu: "TRA Székház Dar es-Salaam", ro: "Sediul TRA Dar es Salaam", en: "Tanzania Revenue Authority Headquarters" },
-    coordinates: { lat: -6.8202, lng: 39.2845 },
+    coords: [39.2845, -6.8202],
     description: {
       de: "Das Hauptgebäude der tansanischen Steuerbehörde (TRA) ist ein markantes Hochhaus im Geschäftszentrum von Daressalam. Es prägt die moderne Skyline der Stadt.",
       hu: "A Tanzániai Adóhatóság (TRA) székháza egy jellegzetes toronyház Dar es-Salaam üzleti negyedében. Meghatározó eleme a város modern látképének.",
@@ -1410,7 +1410,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-bot-mwanza-building-landmarks-v2",
     type: "landmark",
     name: { de: "Bank of Tanzania Mwanza", hu: "Tanzániai Központi Bank Mwanza", ro: "Banca Tanzaniei Mwanza", en: "Bank of Tanzania Mwanza Branch Building" },
-    coordinates: { lat: -2.5185, lng: 32.9002 },
+    coords: [32.9002, -2.5185],
     description: {
       de: "Das Gebäude der Bank von Tansania in Mwanza ist ein beeindruckendes Beispiel für moderne Architektur am Victoriasee. Es dient als regionales Finanzzentrum.",
       hu: "A tanzániai központi bank mwanza-i épülete a modern építészet lenyűgöző példája a Viktória-tó partján. Regionális pénzügyi központként szolgál.",
@@ -1429,7 +1429,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-aicc-arusha-landmarks-v2",
     type: "landmark",
     name: { de: "AICC Arusha", hu: "AICC Arusha", ro: "AICC Arusha", en: "Arusha International Conference Centre (AICC)" },
-    coordinates: { lat: -3.3712, lng: 36.6975 },
+    coords: [36.6975, -3.3712],
     description: {
       de: "Das AICC ist ein bedeutender Komplex in Arusha, der internationale Konferenzen und Organisationen beherbergt. Es ist als 'Genf von Afrika' bekannt.",
       hu: "Az AICC egy jelentős komplexum Arushában, amely nemzetközi konferenciáknak és szervezeteknek ad otthont. 'Afrika Genfjeként' is emlegetik.",
@@ -1448,7 +1448,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     id: "tanzania-mbeya-boma-landmarks-v2",
     type: "landmark",
     name: { de: "Boma-Gebäude Mbeya", hu: "Boma épület Mbeya", ro: "Clădirea Boma Mbeya", en: "Mbeya Boma Building" },
-    coordinates: { lat: -8.9055, lng: 33.4542 },
+    coords: [33.4542, -8.9055],
     description: {
       de: "Das Boma-Gebäude in Mbeya ist ein historischer Verwaltungssitz aus der britischen Kolonialzeit. Es liegt im Stadtzentrum und dient heute regionalen Regierungszwecken.",
       hu: "A mbeyai Boma épület egy történelmi közigazgatási központ a brit gyarmati időszakból. A városközpontban található, és ma regionális kormányzati célokat szolgál.",

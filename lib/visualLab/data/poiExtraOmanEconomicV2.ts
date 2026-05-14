@@ -966,7 +966,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-ruwi-business-district-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel Ruwi", hu: "Ruwi üzleti negyed", ro: "Districtul de afaceri Ruwi", en: "Ruwi Business District" },
-    coordinates: { lat: 23.595, lng: 58.545 },
+    coords: [58.545, 23.595],
     description: {
       de: "Das zentrale Finanzviertel von Maskat beherbergt die Wertpapierbörse und zahlreiche Hauptsitze regionaler Banken.",
       hu: "Maszkat központi pénzügyi negyede, ahol az ománi értéktőzsde és a legnagyobb helyi bankok székházai találhatók.",
@@ -985,7 +985,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-qarn-alam-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Qarn Alam", hu: "Qarn Alam olajmező", ro: "Câmpul petrolier Qarn Alam", en: "Qarn Alam Oil Field" },
-    coordinates: { lat: 21.372, lng: 57.065 },
+    coords: [57.065, 21.372],
     description: {
       de: "Ein bedeutendes Ölfeld, das für den Einsatz weltweit führender Dampfinjektionsverfahren zur Ölförderung bekannt ist.",
       hu: "Jelentős olajmező, amely a világelső gőzbefecskendezéses olajkitermelési technológia alkalmazásáról ismert.",
@@ -1004,7 +1004,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-lekhwair-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Lekhwair", hu: "Lekhwair olajmező", ro: "Câmpul petrolier Lekhwair", en: "Lekhwair Oil Field" },
-    coordinates: { lat: 22.955, lng: 55.332 },
+    coords: [55.332, 22.955],
     description: {
       de: "Dieses im Nordwesten gelegene Feld ist eine der produktivsten Anlagen für Rohöl und Erdgas im Sultanat.",
       hu: "Az ország északnyugati részén fekvő mező a szultanátus egyik legtermelékenyebb kőolaj- és földgázlelőhelye.",
@@ -1023,7 +1023,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-harweel-oil-field-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Harweel", hu: "Harweel olajmező", ro: "Câmpul petrolier Harweel", en: "Harweel Oil Field" },
-    coordinates: { lat: 18.331, lng: 53.864 },
+    coords: [53.864, 18.331],
     description: {
       de: "Ein wichtiger Cluster im Süden Omans, der bahnbrechende Technologien zur Gaseinspeisung für die Ölförderung nutzt.",
       hu: "Dél-ománi klaszter, amely úttörő gázbefecskendezéses technológiát alkalmaz az olajkitermelés fokozására.",
@@ -1042,7 +1042,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-rabab-harweel-integrated-project-economic-v2",
     type: "industry",
     name: { de: "Integrierter Komplex Rabab Harweel", hu: "Rabab Harweel integrált projekt", ro: "Proiectul integrat Rabab Harweel", en: "Rabab Harweel Integrated Project" },
-    coordinates: { lat: 18.252, lng: 53.755 },
+    coords: [53.755, 18.252],
     description: {
       de: "Eines der größten Investitionsprojekte im Öl- und Gassektor Omans zur gleichzeitigen Gewinnung von Öl und Sauergas.",
       hu: "Az ománi olaj- és gázszektor egyik legnagyobb beruházása, amely egyszerre termel ki kőolajat és kénhidrogénes gázt.",
@@ -1061,7 +1061,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-raysut-industrial-estate-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Raysut", hu: "Raysut ipari terület", ro: "Zona industrială Raysut", en: "Raysut Industrial Estate" },
-    coordinates: { lat: 16.985, lng: 54.002 },
+    coords: [54.002, 16.985],
     description: {
       de: "Das primäre Industriezentrum im Süden Omans liegt strategisch günstig in der Nähe des Hafens von Salalah.",
       hu: "Dél-Omán elsődleges ipari központja, amely stratégiai helyen, a szalálai kikötő közvetlen közelében fekszik.",
@@ -1080,7 +1080,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-sohar-freezone-economic-v2",
     type: "industry",
     name: { de: "Freizone Sohar", hu: "Sohar szabadkereskedelmi övezet", ro: "Zona liberă Sohar", en: "Sohar Freezone" },
-    coordinates: { lat: 24.465, lng: 56.512 },
+    coords: [56.512, 24.465],
     description: {
       de: "Ein massives Wirtschaftsprojekt neben dem Hafen von Sohar, das globale Investoren in den Bereichen Logistik und Fertigung anzieht.",
       hu: "Hatalmas gazdasági projekt a sohari kikötő mellett, amely globális logisztikai és gyártó cégeket vonz.",
@@ -1099,7 +1099,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-convention-exhibition-centre-economic-v2",
     type: "landmark",
     name: { de: "Konferenzzentrum Omans (OCEC)", hu: "Ománi Konferencia- és Kiállítási Központ", ro: "Centrul de Convenții și Expoziții din Oman", en: "Oman Convention & Exhibition Centre" },
-    coordinates: { lat: 23.585, lng: 58.335 },
+    coords: [58.335, 23.585],
     description: {
       de: "Ein modernes Zentrum für Geschäftsveranstaltungen und internationale Messen in der Nähe des Flughafens von Maskat.",
       hu: "Modern üzleti rendezvényközpont és nemzetközi kiállítóhely Maszkat repülőterének közelében.",
@@ -1118,7 +1118,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-manah-solar-power-plant-economic-v2",
     type: "industry",
     name: { de: "Solarpark Manah", hu: "Manah naperőmű", ro: "Parcul solar Manah", en: "Manah Solar Power Plant" },
-    coordinates: { lat: 22.782, lng: 57.535 },
+    coords: [57.535, 22.782],
     description: {
       de: "Ein groß angelegtes Photovoltaik-Projekt, das einen wesentlichen Beitrag zur Versorgung Omans mit erneuerbarer Energie leistet.",
       hu: "Nagyszabású fotovoltaikus projekt, amely jelentősen hozzájárul Omán megújuló energiaellátásához.",
@@ -1137,7 +1137,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-dhofar-wind-power-project-economic-v2",
     type: "industry",
     name: { de: "Windpark Dhofar", hu: "Dhofar szélpark", ro: "Proiectul eolian Dhofar", en: "Dhofar Wind Power Project" },
-    coordinates: { lat: 17.842, lng: 54.185 },
+    coords: [54.185, 17.842],
     description: {
       de: "Der erste große Windpark in der Golfregion nutzt die starken saisonalen Winde im Süden Omans zur Stromerzeugung.",
       hu: "Az Öböl-térség első nagy szélparkja, amely Dél-Omán erős szezonális szeleit használja áramtermelésre.",
@@ -1156,7 +1156,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-amin-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarfarm Amin", hu: "Amin naperőmű", ro: "Ferma solară Amin", en: "Amin Solar Farm" },
-    coordinates: { lat: 18.651, lng: 56.095 },
+    coords: [56.095, 18.651],
     description: {
       de: "Diese Anlage versorgt die nahegelegenen Ölfelder mit umweltfreundlicher Energie und reduziert so den Erdgasverbrauch.",
       hu: "Ez a létesítmény tiszta energiával látja el a közeli olajmezőket, csökkentve ezzel a földgázfelhasználást.",
@@ -1175,7 +1175,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-barka-power-desalination-plant-economic-v2",
     type: "industry",
     name: { de: "Kraftwerk und Entsalzungsanlage Barka", hu: "Barka erőmű és sótalanító", ro: "Centrala electrică și de desalinizare Barka", en: "Barka Power and Desalination Plant" },
-    coordinates: { lat: 23.682, lng: 57.885 },
+    coords: [57.885, 23.682],
     description: {
       de: "Eine lebenswichtige Anlage an der Küste, die einen großen Teil des Trinkwassers und Stroms für den Großraum Maskat liefert.",
       hu: "Létfontosságú parti létesítmény, amely Maszkat térségének ivóvíz- és áramszükségletének jelentős részét fedezi.",
@@ -1194,7 +1194,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-nimr-water-treatment-plant-economic-v2",
     type: "industry",
     name: { de: "Wasseraufbereitungsanlage Nimr", hu: "Nimr víztisztító telep", ro: "Stația de epurare Nimr", en: "Nimr Water Treatment Plant" },
-    coordinates: { lat: 18.612, lng: 55.912 },
+    coords: [55.912, 18.612],
     description: {
       de: "Die weltweit größte künstliche Sumpflandschaft zur biologischen Reinigung von Wasser, das bei der Ölförderung anfällt.",
       hu: "A világ legnagyobb mesterséges vizes élőhelye az olajkitermelés során keletkező víz biológiai tisztítására.",
@@ -1213,7 +1213,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-knowledge-oasis-muscat-economic-v2",
     type: "industry",
     name: { de: "Technologiepark Knowledge Oasis Muscat", hu: "Knowledge Oasis Muscat (KOM)", ro: "Parcul tehnologic Knowledge Oasis Muscat", en: "Knowledge Oasis Muscat" },
-    coordinates: { lat: 23.565, lng: 58.171 },
+    coords: [58.171, 23.565],
     description: {
       de: "Der führende Technologie- und Innovationspark Omans beherbergt zahlreiche IT-Unternehmen und Bildungsreinrichtungen.",
       hu: "Omán vezető technológiai és innovációs parkja, amely számos IT-vállalatnak és oktatási intézménynek ad otthont.",
@@ -1232,7 +1232,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-nejd-agricultural-area-economic-v2",
     type: "industry",
     name: { de: "Agrarregion Nejd", hu: "Nedzsd mezőgazdasági terület", ro: "Zona agricolă Nejd", en: "Nejd Agricultural Area" },
-    coordinates: { lat: 18.455, lng: 54.105 },
+    coords: [54.105, 18.455],
     description: {
       de: "Ein riesiges Wüstengebiet, das durch fossiles Grundwasser für den intensiven Anbau von Futterpflanzen und Obst genutzt wird.",
       hu: "Hatalmas sivatagi terület, ahol fosszilis talajvizet használnak takarmány- és gyümölcstermesztéshez.",
@@ -1251,7 +1251,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-duqm-fishery-port-economic-v2",
     type: "port",
     name: { de: "Fischereihafen Duqm", hu: "Dukmi halászati kikötő", ro: "Portul de pescuit Duqm", en: "Duqm Fishery Port" },
-    coordinates: { lat: 19.665, lng: 57.712 },
+    coords: [57.712, 19.665],
     description: {
       de: "Einer der größten Fischereihäfen im Oman mit integrierten Verarbeitungszentren und modernster Logistik für den Export.",
       hu: "Omán egyik legnagyobb halászati kikötője integrált feldolgozó központokkal és modern exportlogisztikával.",
@@ -1270,7 +1270,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-miraah-solar-plant-economic-v2",
     type: "industry",
     name: { de: "Solarthermieanlage Miraah", hu: "Miraah napenergia-telep", ro: "Instalația solară Miraah", en: "Miraah Solar Plant" },
-    coordinates: { lat: 18.152, lng: 55.855 },
+    coords: [55.855, 18.152],
     description: {
       de: "Eine der weltweit größten Solarthermieanlagen nutzt Sonnenenergie zur Erzeugung von Dampf für die Ölförderung.",
       hu: "A világ egyik legnagyobb szolártermikus létesítménye, amely napenergiával fejleszt gőzt az olajkitermeléshez.",
@@ -1289,7 +1289,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-liwa-plastics-industries-complex-economic-v2",
     type: "factory",
     name: { de: "Kunststoffkomplex Liwa", hu: "Liwa műanyagipari komplexum", ro: "Complexul de mase plastice Liwa", en: "Liwa Plastics Industries Complex" },
-    coordinates: { lat: 24.492, lng: 56.595 },
+    coords: [56.595, 24.492],
     description: {
       de: "Ein riesiger petrochemischer Komplex in Sohar zur Herstellung von Polymeren und anderen Kunststoffprodukten.",
       hu: "Hatalmas petrolkémiai komplexum Soharban, amely polimerek és egyéb műanyagtermékek gyártására szakosodott.",
@@ -1308,7 +1308,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
     id: "oman-khazaen-economic-city-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftsstadt Khazaen", hu: "Khazaen gazdasági város", ro: "Orașul economic Khazaen", en: "Khazaen Economic City" },
-    coordinates: { lat: 23.652, lng: 57.955 },
+    coords: [57.955, 23.652],
     description: {
       de: "Ein bedeutendes Logistik- und Industriezentrum in Barka, das als Verbindung zwischen Hafen, Flughafen und Märkten dient.",
       hu: "Jelentős logisztikai és ipari központ Barkában, amely összeköti a kikötőket, a repülőteret és a piacokat.",

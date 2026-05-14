@@ -1047,7 +1047,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-massif-du-badjini-relief-v2",
     type: "mountain",
     name: { de: "Badjini-Massiv", hu: "Badjini-masszívum", ro: "Masivul Badjini", en: "Badjini Massif" },
-    coordinates: { lat: -11.88, lng: 43.46 },
+    coords: [43.46, -11.88],
     description: {
       de: "Das Massiv bildet die südliche Spitze von Grande Comore. Es besteht aus alten Lavaströmen und ist von dichter Vegetation bedeckt.",
       hu: "Ez a hegytömb Grande Comore déli csücskét alkotja. Ősi lávafolyamokból áll, és sűrű trópusi növényzet borítja a meredek lejtőit.",
@@ -1078,7 +1078,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-plateau-de-djandro-relief-v2",
     type: "mountain",
     name: { de: "Djandro-Plateau", hu: "Djandro-fennsík", ro: "Podișul Djandro", en: "Djandro Plateau" },
-    coordinates: { lat: -12.32, lng: 43.84 },
+    coords: [43.84, -12.32],
     description: {
       de: "Dieses Hochplateau im Osten von Mohéli ist für seine fruchtbaren Böden bekannt. Es liegt auf einer durchschnittlichen Höhe von 500 Metern.",
       hu: "Ez a Mohéli keleti részén fekvő fennsík termékeny talajáról ismert. Átlagosan 500 méteres tengerszint feletti magasságban terül el.",
@@ -1109,7 +1109,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-col-de-patsy-relief-v2",
     type: "mountain",
     name: { de: "Patsy-Gebirgspass", hu: "Patsy-hágó", ro: "Pasul Patsy", en: "Patsy Mountain Pass" },
-    coordinates: { lat: -12.185, lng: 44.435 },
+    coords: [44.435, -12.185],
     description: {
       de: "Der strategische Gebirgspass verbindet die Städte Mutsamudu und Domoni auf Anjouan. Er bietet weite Ausblicke über die gesamte Insel.",
       hu: "Ez a stratégiai hágó köti össze Mutsamudu és Domoni városait Anjouan szigetén. Széles kilátást nyújt az egész sziget domborzatára.",
@@ -1140,7 +1140,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-mlima-mani-relief-v2",
     type: "peak",
     name: { de: "Mlima Mani Gipfel", hu: "Mlima Mani-csúcs", ro: "Vârful Mlima Mani", en: "Mlima Mani Peak" },
-    coordinates: { lat: -12.258, lng: 44.508 },
+    coords: [44.508, -12.258],
     description: {
       de: "Dieser markante Vulkankegel erhebt sich im Osten der Insel Anjouan. Er ist ein wichtiger Orientierungspunkt für die lokale Bevölkerung.",
       hu: "Ez a jellegzetes vulkáni kúp Anjouan szigetének keleti részén magasodik. Fontos tájékozódási pont a helyi lakosság számára.",
@@ -1171,7 +1171,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-massif-de-nioumakele-relief-v2",
     type: "mountain",
     name: { de: "Nioumakélé-Massiv", hu: "Nioumakélé-masszívum", ro: "Masivul Nioumakélé", en: "Nioumakélé Massif" },
-    coordinates: { lat: -12.36, lng: 44.51 },
+    coords: [44.51, -12.36],
     description: {
       de: "Das zerklüftete Bergland prägt den äußersten Süden der Insel Anjouan. Es ist durch steile Hänge und tiefe Erosionstaler gekennzeichnet.",
       hu: "Ez a tagolt hegyvidék Anjouan szigetének legdélebbi részét határozza meg. Meredek lejtők és mély eróziós völgyek jellemzik.",
@@ -1202,7 +1202,7 @@ export const poiExtraComorosReliefV2: POI[] = [
     id: "comoros-plateau-de-boboni-relief-v2",
     type: "mountain",
     name: { de: "Boboni-Plateau", hu: "Boboni-fennsík", ro: "Podișul Boboni", en: "Boboni Plateau" },
-    coordinates: { lat: -11.74, lng: 43.31 },
+    coords: [43.31, -11.74],
     description: {
       de: "Das Plateau liegt an den westlichen Flanken des Mount Karthala Vulkans. Es dient als wichtiges Wassereinzugsgebiet für die Region Moroni.",
       hu: "Ez a fennsík a Karthala-vulkán nyugati oldalán fekszik. Fontos vízgyűjtő területként szolgál Moroni régiója számára.",

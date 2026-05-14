@@ -1063,7 +1063,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-kairouan-mosque-barber-history-v2",
     type: "landmark",
     name: { de: "Mausoleum Sidi Sahab", hu: "Sidi Sahab-mauzóleum", ro: "Mausoleul Sidi Sahab", en: "Mausoleum of Sidi Sahab" },
-    coordinates: { lat: 35.6792, lng: 10.1008 },
+    coords: [10.1008, 35.6792],
     description: {
       de: "Dieses religiöse Gebäude in Kairouan ist dem Gefährten des Propheten Mohammed gewidmet. Der Bau vereint im 17. Jahrhundert entstandene andalusische und osmanische Stilelemente.",
       hu: "Ez a kairouani vallási épület Mohamed próféta társának állít emléket. Az építmény a 17. századi andalúziai és oszmán építészeti stílusokat ötvözi.",
@@ -1082,7 +1082,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-karkouane-necropolis-history-v2",
     type: "ruins",
     name: { de: "Nekropole von Kerkouane", hu: "Kerkouane-i nekropolisz", ro: "Necropola din Kerkouane", en: "Necropolis of Kerkouane" },
-    coordinates: { lat: 36.9535, lng: 11.1008 },
+    coords: [11.1008, 36.9535],
     description: {
       de: "Diese punische Grabstätte liegt nahe der antiken Stadt Kerkouane am Mittelmeer. Sie bietet Einblicke in die Bestattungskultur der Karthager vor der Zerstörung durch Rom.",
       hu: "Ez a pun temetkezési hely a Földközi-tenger partján, Kerkouane ókori városa közelében található. Betekintést nyújt a karthágóiak temetkezési kultúrájába a római pusztítás előttről.",
@@ -1101,7 +1101,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-thugga-theatre-history-v2",
     type: "theater",
     name: { de: "Römisches Theater von Dougga", hu: "Douggai római színház", ro: "Teatrul roman din Dougga", en: "Roman Theatre of Dougga" },
-    coordinates: { lat: 36.4222, lng: 9.2158 },
+    coords: [9.2158, 36.4222],
     description: {
       de: "Das antike Theater in Dougga wurde im 2. Jahrhundert erbaut und bot Platz für über 3.000 Zuschauer. Es ist eines der am besten erhaltenen römischen Theater in Tunesien.",
       hu: "A douggai ókori színház a 2. században épült, és több mint 3000 néző befogadására volt alkalmas. Ez az egyik legjobb állapotban fennmaradt római színház Tunéziában.",
@@ -1120,7 +1120,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-sbeitla-triumphal-arch-history-v2",
     type: "monument",
     name: { de: "Triumphbogen des Diokletian", hu: "Diocletianus diadalíve", ro: "Arcul de triumf al lui Dioclețian", en: "Triumphal Arch of Diocletian" },
-    coordinates: { lat: 35.2429, lng: 9.1245 },
+    coords: [9.1245, 35.2429],
     description: {
       de: "Dieser Triumphbogen markiert den Eingang zur antiken Stadt Sufetula. Er wurde zu Ehren des Kaisers Diokletian und der Tetrarchie errichtet.",
       hu: "Ez a diadalív az ókori Sufetula városának bejáratát jelöli. Diocletianus császár és a tetrarchia tiszteletére emelték.",
@@ -1139,7 +1139,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-makthar-temple-history-v2",
     type: "ruins",
     name: { de: "Tempel des Apollo in Makthar", hu: "Makthari Apolló-templom", ro: "Templul lui Apollo din Makthar", en: "Temple of Apollo in Makthar" },
-    coordinates: { lat: 35.8561, lng: 9.2064 },
+    coords: [9.2064, 35.8561],
     description: {
       de: "Der Tempel des Apollo befindet sich in der archäologischen Stätte von Makthar. Die antike Stadt Mactaris war einst ein bedeutendes regionales Zentrum.",
       hu: "Az Apolló-templom a makthari régészeti lelőhelyen található. Mactaris ókori városa egykor jelentős regionális központ volt.",
@@ -1158,7 +1158,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-ghomrassen-ksar-history-v2",
     type: "castle",
     name: { de: "Ksar Ghomrassen", hu: "Ghomrassen-i ksar", ro: "Ksar Ghomrassen", en: "Ksar Ghomrassen" },
-    coordinates: { lat: 33.0833, lng: 10.3167 },
+    coords: [10.3167, 33.0833],
     description: {
       de: "Ksar Ghomrassen ist ein traditioneller Speicherort in der Region Tataouine. Diese Bauweise diente dem Schutz von Vorräten durch Berberstämme.",
       hu: "A Ghomrassen-i ksar egy hagyományos tárolóhely a Tataouine régióban. Ezt az építési módot a berber törzsek készleteinek védelmére használták.",
@@ -1177,7 +1177,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-bulla-regia-underground-history-v2",
     type: "ruins",
     name: { de: "Unterirdische Häuser von Bulla Regia", hu: "Bulla Regia földalatti házai", ro: "Casele subterane din Bulla Regia", en: "Underground Houses of Bulla Regia" },
-    coordinates: { lat: 36.5744, lng: 8.7617 },
+    coords: [8.7617, 36.5744],
     description: {
       de: "In Bulla Regia finden sich einzigartige römische Wohnhäuser, die teilweise unter der Erde liegen. Diese Bauweise diente als Schutz vor der sommerlichen Hitze.",
       hu: "Bulla Regiában egyedülálló római lakóházak találhatók, amelyek részben a föld alatt helyezkednek el. Ezt az építési módot a nyári hőség elleni védekezésre használták.",
@@ -1196,7 +1196,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-utique-necropolis-history-v2",
     type: "ruins",
     name: { de: "Nekropole von Utica", hu: "Uticai nekropolisz", ro: "Necropola din Utica", en: "Necropolis of Utica" },
-    coordinates: { lat: 37.05, lng: 10.05 },
+    coords: [10.05, 37.05],
     description: {
       de: "Die phönizische Nekropole in der antiken Stadt Utica belegt die frühe Besiedlung durch die Phönizier. Sie ist eine der ältesten punischen Stätten in Nordafrika.",
       hu: "Az Utica ókori városában található föníciai nekropolisz a föníciaiak korai megtelepedését bizonyítja. Észak-Afrika egyik legrégebbi pun helyszíne.",
@@ -1215,7 +1215,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-sousse-casbah-history-v2",
     type: "castle",
     name: { de: "Kasbah von Sousse", hu: "Soussi kasbah", ro: "Casbah din Sousse", en: "Kasbah of Sousse" },
-    coordinates: { lat: 35.8272, lng: 10.6389 },
+    coords: [10.6389, 35.8272],
     description: {
       de: "Die Kasbah von Sousse wurde im 9. Jahrhundert errichtet und diente als Befestigungsanlage. Heute beherbergt sie ein archäologisches Museum.",
       hu: "A soussi kasbah a 9. században épült, és erődítményként szolgált. Ma régészeti múzeumnak ad otthont.",
@@ -1234,7 +1234,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-kairouan-bir-barouta-history-v2",
     type: "landmark",
     name: { de: "Bir Barouta", hu: "Bir Barouta", ro: "Bir Barouta", en: "Bir Barouta" },
-    coordinates: { lat: 35.6798, lng: 10.1012 },
+    coords: [10.1012, 35.6798],
     description: {
       de: "Bir Barouta ist ein historischer Brunnen in Kairouan. Der Legende nach ist er unterirdisch mit dem Brunnen von Zamzam in Mekka verbunden.",
       hu: "A Bir Barouta egy történelmi kút Kairouanban. A legenda szerint a föld alatt össze van kötve a mekkai Zamzam-kúttal.",
@@ -1253,7 +1253,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-tunis-bab-jedid-history-v2",
     type: "tower",
     name: { de: "Bab Jedid", hu: "Bab Jedid", ro: "Bab Jedid", en: "Bab Jedid" },
-    coordinates: { lat: 36.7933, lng: 10.1656 },
+    coords: [10.1656, 36.7933],
     description: {
       de: "Bab Jedid ist eines der historischen Stadttore der Medina von Tunis. Es wurde im 13. Jahrhundert unter der Hafsiden-Dynastie erbaut.",
       hu: "Bab Jedid a tuniszi medina egyik történelmi városkapuja. A 13. században épült, a Hafsida-dinasztia idején.",
@@ -1272,7 +1272,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-medjez-el-bab-bridge-history-v2",
     type: "bridge",
     name: { de: "Antike Brücke von Medjez el-Bab", hu: "Medjez el-Bab-i ókori híd", ro: "Podul antic din Medjez el-Bab", en: "Ancient Bridge of Medjez el-Bab" },
-    coordinates: { lat: 36.6475, lng: 9.6111 },
+    coords: [9.6111, 36.6475],
     description: {
       de: "Diese historische Brücke in Medjez el-Bab stammt aus römischer Zeit. Sie überspannt den Fluss Medjerda und war ein wichtiger Handelsweg.",
       hu: "Ez a Medjez el-Bab-i történelmi híd a római korból származik. Átíveli a Medjerda folyót, és fontos kereskedelmi útvonal volt.",
@@ -1291,7 +1291,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-haidra-mausoleum-history-v2",
     type: "monument",
     name: { de: "Mausoleum von Haidra", hu: "Haidrai mauzóleum", ro: "Mausoleul din Haidra", en: "Mausoleum of Haidra" },
-    coordinates: { lat: 35.5667, lng: 8.45 },
+    coords: [8.45, 35.5667],
     description: {
       de: "Haidra, das antike Ammaedara, beherbergt bedeutende römische Ruinen und Mausoleen. Es zeigt die historische Bedeutung dieser Stadt im Westen Tunesiens.",
       hu: "Haidra, az ókori Ammaedara jelentős római romoknak és mauzóleumoknak ad otthont. Tanúskodik a város történelmi jelentőségéről Tunézia nyugati részén.",
@@ -1310,7 +1310,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-dougga-capitol-history-v2",
     type: "ruins",
     name: { de: "Kapitol von Dougga", hu: "Douggai capitolium", ro: "Capitoliul din Dougga", en: "Capitol of Dougga" },
-    coordinates: { lat: 36.4225, lng: 9.2155 },
+    coords: [9.2155, 36.4225],
     description: {
       de: "Der Kapitolstempel in Dougga ist eines der besterhaltenen Beispiele für römische Tempelarchitektur in Nordafrika. Er stammt aus dem 2. Jahrhundert.",
       hu: "A douggai Capitolium-templom az észak-afrikai római templomépítészet egyik legjobban megőrzött példája. A 2. századból származik.",
@@ -1329,7 +1329,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-el-djem-amphitheatre-underground-history-v2",
     type: "ruins",
     name: { de: "Untergrund des Amphitheaters El Djem", hu: "El Djem-i amfiteátrum alagútja", ro: "Subteranul amfiteatrului El Djem", en: "Underground of the El Djem Amphitheatre" },
-    coordinates: { lat: 35.295, lng: 10.706 },
+    coords: [10.706, 35.295],
     description: {
       de: "Die unterirdischen Gänge des Amphitheaters von El Djem bieten Einblicke in die logistische Organisation antiker Spiele. Sie sind hervorragend erhalten.",
       hu: "Az el djem-i amfiteátrum földalatti folyosói betekintést nyújtanak az ókori játékok logisztikai szervezésébe. Kiváló állapotban maradtak fenn.",
@@ -1348,7 +1348,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-kerkouane-mosaic-history-v2",
     type: "landmark",
     name: { de: "Punische Mosaike von Kerkouane", hu: "Kerkouane-i pun mozaikok", ro: "Mozaicuri punice din Kerkouane", en: "Punic Mosaics of Kerkouane" },
-    coordinates: { lat: 36.953, lng: 11.1005 },
+    coords: [11.1005, 36.953],
     description: {
       de: "Die Mosaike in Kerkouane zeigen seltene Beispiele punischer Kunstfertigkeit. Sie sind ein wichtiger Beweis für den Lebensstil der Menschen vor der römischen Eroberung.",
       hu: "A kerkouane-i mozaikok a pun művészi tehetség ritka példáit mutatják be. Fontos bizonyítékai a római hódítás előtti életmódnak.",
@@ -1367,7 +1367,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-sfax-bab-diwan-history-v2",
     type: "tower",
     name: { de: "Bab Diwan", hu: "Bab Diwan", ro: "Bab Diwan", en: "Bab Diwan" },
-    coordinates: { lat: 34.7364, lng: 10.7606 },
+    coords: [10.7606, 34.7364],
     description: {
       de: "Bab Diwan ist das Haupttor zur Medina von Sfax. Es ist ein zentraler Punkt der Stadt und spiegelt die mittelalterliche Befestigungsarchitektur wider.",
       hu: "Bab Diwan a sfaxi medina főkapuja. A város központi pontja, amely a középkori erődítési építészetet tükrözi.",
@@ -1386,7 +1386,7 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "tunisia-zaghouan-temple-water-history-v2",
     type: "ruins",
     name: { de: "Wassertempel von Zaghouan", hu: "Zaghouani víztemplom", ro: "Templul apelor din Zaghouan", en: "Temple of the Waters in Zaghouan" },
-    coordinates: { lat: 36.3861, lng: 10.1264 },
+    coords: [10.1264, 36.3861],
     description: {
       de: "Der Wassertempel bei Zaghouan markierte den Beginn des römischen Aquädukts nach Karthago. Er ist ein beeindruckendes Beispiel römischer Ingenieurskunst.",
       hu: "A Zaghouan melletti víztemplom jelölte a Karthágóba vezető római vízvezeték kezdetét. A római mérnöki munka lenyűgöző példája.",

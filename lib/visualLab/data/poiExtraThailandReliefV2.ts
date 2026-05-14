@@ -711,7 +711,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-khorat-plateau-relief-v2",
     type: "mountain",
     name: { de: "Khorat-Hochebene", hu: "Khorat-fennsík", ro: "Podișul Khorat", en: "Khorat Plateau" },
-    coordinates: { lat: 15.5, lng: 103.0 },
+    coords: [103.0, 15.5],
     description: {
       de: "Diese weite Hochebene im Nordosten Thailands liegt durchschnittlich 200 Meter über dem Meeresspiegel.",
       hu: "Ez a tágas fennsík Thaiföld északkeleti részén terül el, átlagosan kétszáz méteres magasságban.",
@@ -730,7 +730,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-phu-phan-mountains-relief-v2",
     type: "mountain",
     name: { de: "Phu-Phan-Gebirge", hu: "Phu Phan-hegység", ro: "Munții Phu Phan", en: "Phu Phan Mountains" },
-    coordinates: { lat: 17.0, lng: 104.0 },
+    coords: [104.0, 17.0],
     description: {
       de: "Eine Bergkette, die die Khorat-Hochebene in zwei Becken unterteilt und wichtige Wasserscheiden bildet.",
       hu: "Ez a hegylánc osztja ketté a Khorat-fennsíkot, fontos vízválasztót alkotva a régióban.",
@@ -749,7 +749,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-cardamom-mountains-relief-v2",
     type: "mountain",
     name: { de: "Kardamom-Gebirge (Thailand)", hu: "Kardamom-hegység (Thaiföld)", ro: "Munții Cardamom (Thailanda)", en: "Cardamom Mountains (Thailand)" },
-    coordinates: { lat: 12.5, lng: 102.6 },
+    coords: [102.6, 12.5],
     description: {
       de: "Der thailändische Ausläufer dieses Gebirges liegt in der Provinz Trat und ist extrem regenreich.",
       hu: "Ennek a hegységnek a thaiföldi nyúlványa Trat tartományban fekszik és rendkívül csapadékos.",
@@ -768,7 +768,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-khao-luang-relief-v2",
     type: "peak",
     name: { de: "Khao Luang", hu: "Khao Luang-csúcs", ro: "Vârful Khao Luang", en: "Khao Luang" },
-    coordinates: { lat: 8.498, lng: 99.725 },
+    coords: [99.725, 8.498],
     description: {
       de: "Der höchste Gipfel im Süden Thailands ist Teil der Nakhon-Si-Thammarat-Bergkette.",
       hu: "Dél-Thaiföld legmagasabb csúcsa, amely a Nakhon Szithammarat-hegylánc része.",
@@ -787,7 +787,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-sankalakhiri-range-relief-v2",
     type: "mountain",
     name: { de: "Sankalakhiri-Gebirge", hu: "Sankalakhiri-hegység", ro: "Munții Sankalakhiri", en: "Sankalakhiri Range" },
-    coordinates: { lat: 6.0, lng: 101.5 },
+    coords: [101.5, 6.0],
     description: {
       de: "Diese Bergkette im äußersten Süden bildet die Grenze zwischen Thailand und Malaysia.",
       hu: "Ez a legdélebbi hegylánc alkotja a határt Thaiföld és Malajzia között.",
@@ -806,7 +806,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-chao-phraya-basin-relief-v2",
     type: "valley",
     name: { de: "Chao-Phraya-Becken", hu: "Csaophraja-medence", ro: "Bazinul Chao Phraya", en: "Chao Phraya Basin" },
-    coordinates: { lat: 15.0, lng: 100.2 },
+    coords: [100.2, 15.0],
     description: {
       de: "Die zentrale Tiefebene Thailands, geprägt durch fruchtbare Sedimente und Reisanbaugebiete.",
       hu: "Thaiföld központi síksága, amelyet termékeny üledék és rizsföldek jellemeznek.",
@@ -825,7 +825,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-doi-mae-tho-relief-v2",
     type: "mountain",
     name: { de: "Doi Mae Tho", hu: "Doi Mae Tho", ro: "Doi Mae Tho", en: "Doi Mae Tho" },
-    coordinates: { lat: 18.2, lng: 98.1 },
+    coords: [98.1, 18.2],
     description: {
       de: "Ein markanter Berg im Norden, bekannt für seine wellenförmigen Graslandschaften und Kiefernwälder.",
       hu: "Jellegzetes északi hegy, amely hullámzó füves dombjairól és fenyőerdőiről ismert.",
@@ -844,7 +844,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-phu-soi-dao-relief-v2",
     type: "peak",
     name: { de: "Phu Soi Dao", hu: "Phu Soi Dao", ro: "Phu Soi Dao", en: "Phu Soi Dao" },
-    coordinates: { lat: 17.8, lng: 101.0 },
+    coords: [101.0, 17.8],
     description: {
       de: "Ein hoher Berggipfel an der thailändisch-laotischen Grenze, berühmt für seine Kiefernhochebenen.",
       hu: "Magas hegycsúcs a thai-laoszi határon, amely híres fenyvesekkel borított fennsíkjairól.",
@@ -863,7 +863,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-khao-soi-dao-relief-v2",
     type: "peak",
     name: { de: "Khao Soi Dao", hu: "Khao Soi Dao", ro: "Khao Soi Dao", en: "Khao Soi Dao" },
-    coordinates: { lat: 12.9, lng: 102.2 },
+    coords: [102.2, 12.9],
     description: {
       de: "Der höchste Punkt im Osten Thailands, gelegen in der wasserreichen Provinz Chanthaburi.",
       hu: "Kelet-Thaiföld legmagasabb pontja, amely a vízi utakkal teli Csanthaburi tartományban van.",
@@ -882,7 +882,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-doi-langka-luang-relief-v2",
     type: "peak",
     name: { de: "Doi Langka Luang", hu: "Doi Langka Luang", ro: "Doi Langka Luang", en: "Doi Langka Luang" },
-    coordinates: { lat: 18.9, lng: 99.4 },
+    coords: [99.4, 18.9],
     description: {
       de: "Ein bedeutender Gipfel im Khun-Tan-Gebirge, bekannt für seine kühlen Temperaturen und Wanderpfade.",
       hu: "A Khun Tan-hegység jelentős csúcsa, amely hűvös hőmérsékletéről és túraútvonalairól ismert.",
@@ -901,7 +901,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-khao-khitchakut-relief-v2",
     type: "mountain",
     name: { de: "Khao Khitchakut", hu: "Khao Khitchakut", ro: "Khao Khitchakut", en: "Khao Khitchakut" },
-    coordinates: { lat: 12.8, lng: 102.1 },
+    coords: [102.1, 12.8],
     description: {
       de: "Ein Granitberg im Osten, berühmt für seine ungewöhnlichen Felsformationen und religiöse Bedeutung.",
       hu: "Gránithegy az ország keleti részén, amely különleges sziklaformációiról és vallási jelentőségéről híres.",
@@ -920,7 +920,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-doi-phu-kha-relief-v2",
     type: "peak",
     name: { de: "Doi Phu Kha", hu: "Doi Phu Kha", ro: "Doi Phu Kha", en: "Doi Phu Kha" },
-    coordinates: { lat: 19.2, lng: 101.1 },
+    coords: [101.1, 19.2],
     description: {
       de: "Der höchste Gipfel in der Provinz Nan, Teil einer zerklüfteten und abgelegenen Bergregion.",
       hu: "Nan tartomány legmagasabb csúcsa, amely egy vadregényes és távoli hegyvidék része.",
@@ -939,7 +939,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-phu-langka-relief-v2",
     type: "mountain",
     name: { de: "Phu Langka", hu: "Phu Langka", ro: "Phu Langka", en: "Phu Langka" },
-    coordinates: { lat: 17.9, lng: 104.1 },
+    coords: [104.1, 17.9],
     description: {
       de: "Ein markanter Sandsteinberg am Mekong, bekannt für seine schlangenförmigen Felsstrukturen.",
       hu: "Jellegzetes homokkő hegy a Mekong mellett, amely kígyószerű sziklaalakzatairól ismert.",
@@ -958,7 +958,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-khao-phanom-bencha-relief-v2",
     type: "peak",
     name: { de: "Khao Phanom Bencha", hu: "Khao Phanom Bencha", ro: "Khao Phanom Bencha", en: "Khao Phanom Bencha" },
-    coordinates: { lat: 8.24, lng: 98.92 },
+    coords: [98.92, 8.24],
     description: {
       de: "Der höchste Punkt der Provinz Krabi, umgeben von dichtem Urwald und steilen Kalksteinklippen.",
       hu: "Krabi tartomány legmagasabb pontja, amelyet őserdő és meredek mészkősziklák vesznek körül.",
@@ -977,7 +977,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-doi-ang-khang-relief-v2",
     type: "mountain",
     name: { de: "Doi Ang Khang", hu: "Doi Ang Khang", ro: "Doi Ang Khang", en: "Doi Ang Khang" },
-    coordinates: { lat: 19.9, lng: 99.0 },
+    coords: [99.0, 19.9],
     description: {
       de: "Ein Bergland im Norden, das für sein kühles Hochlandklima und terrassierte Plantagen bekannt ist.",
       hu: "Északi hegyvidék, amely hűvös magaslati klímájáról és teraszos ültetvényeiről ismert.",
@@ -996,7 +996,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-pa-sak-valley-relief-v2",
     type: "valley",
     name: { de: "Pa-Sak-Flusstal", hu: "Pa Sak-völgy", ro: "Valea Pa Sak", en: "Pa Sak Valley" },
-    coordinates: { lat: 15.5, lng: 101.1 },
+    coords: [101.1, 15.5],
     description: {
       de: "Ein langes, schmales Tal zwischen dem Phetchabun- und dem Dong-Phaya-Yen-Gebirge.",
       hu: "Hosszú, keskeny völgy a Phetchabun és a Dong Phaya Yen-hegység között.",
@@ -1015,7 +1015,7 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "thailand-phu-luang-plateau-relief-v2",
     type: "mountain",
     name: { de: "Phu-Luang-Plateau", hu: "Phu Luang-fennsík", ro: "Podișul Phu Luang", en: "Phu Luang Plateau" },
-    coordinates: { lat: 17.27, lng: 101.53 },
+    coords: [101.53, 17.27],
     description: {
       de: "Ein großes Sandsteinplateau in der Provinz Loei, bekannt für seine vielfältige Flora und kühle Luft.",
       hu: "Hatalmas homokkő fennsík Loei tartományban, amely változatos flórájáról és hűvös levegőjéről ismert.",

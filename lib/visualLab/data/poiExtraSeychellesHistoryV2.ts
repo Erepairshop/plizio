@@ -713,7 +713,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-pierre-poivre-statue-history-v2",
     type: "monument",
     name: { de: "Pierre Poivre Statue", hu: "Pierre Poivre szobor", ro: "Statuia Pierre Poivre", en: "Pierre Poivre Statue" },
-    coordinates: { lat: -4.629, lng: 55.451 },
+    coords: [55.451, -4.629],
     description: {
       de: "Diese Statue in Victoria ehrt den französischen Gartenbauexperten, der im 18. Jahrhundert Gewürze auf die Inseln brachte.",
       hu: "Ez a viktóriai szobor a 18. századi francia botanikusnak állít emléket, aki meghonosította a fűszereket a szigeteken.",
@@ -732,7 +732,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-st-andre-plantation-house-history-v2",
     type: "palace",
     name: { de: "Plantagenhaus La Plaine St. André", hu: "La Plaine St. André ültetvényesház", ro: "Casa de plantație La Plaine St. André", en: "La Plaine St. André Plantation House" },
-    coordinates: { lat: -4.712, lng: 55.518 },
+    coords: [55.518, -4.712],
     description: {
       de: "Ein sorgfältig restauriertes französisches Kolonialhaus aus dem Jahr 1792, das einst das Zentrum einer großen Plantage war.",
       hu: "Egy gondosan restaurált, 1792-ben épült francia gyarmati ház, amely egykor egy hatalmas ültetvény központja volt.",
@@ -751,7 +751,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-union-vale-cemetery-history-v2",
     type: "monument",
     name: { de: "Friedhof Union Vale", hu: "Union Vale temető", ro: "Cimitirul Union Vale", en: "Union Vale Cemetery" },
-    coordinates: { lat: -4.615, lng: 55.45 },
+    coords: [55.45, -4.615],
     description: {
       de: "Ein historischer Friedhof in Victoria, auf dem viele bedeutende Persönlichkeiten der seychellischen Kolonialgeschichte begraben liegen.",
       hu: "Egy történelmi temető Viktóriában, ahol a seychelle-i gyarmati történelem számos jelentős alakja nyugszik.",
@@ -770,7 +770,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-victoria-cenotaph-history-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal Victoria", hu: "Viktória-kenotáfium", ro: "Cenotaful din Victoria", en: "Victoria Cenotaph" },
-    coordinates: { lat: -4.623, lng: 55.452 },
+    coords: [55.452, -4.623],
     description: {
       de: "Dieses Denkmal ehrt die seychellischen Soldaten, die in den beiden Weltkriegen ihr Leben ließen.",
       hu: "Ez az emlékmű azok előtt a seychelle-i katonák előtt tiszteleg, akik az első és második világháborúban vesztették életüket.",
@@ -789,7 +789,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-old-supreme-court-history-v2",
     type: "landmark",
     name: { de: "Altes Oberstes Gericht", hu: "Régi Legfelsőbb Bíróság", ro: "Vechea Curte Supremă", en: "Old Supreme Court" },
-    coordinates: { lat: -4.624, lng: 55.453 },
+    coords: [55.453, -4.624],
     description: {
       de: "Ein markantes koloniales Gebäude im Zentrum von Victoria, das über ein Jahrhundert lang als Justizzentrum diente.",
       hu: "Egy jellegzetes gyarmati épület Viktória központjában, amely több mint egy évszázadon át szolgált az igazságszolgáltatás központjaként.",
@@ -808,7 +808,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-dauban-family-cemetery-history-v2",
     type: "monument",
     name: { de: "Familiengrab der Daubans", hu: "Dauban családi temető", ro: "Cimitirul familiei Dauban", en: "Dauban Family Cemetery" },
-    coordinates: { lat: -4.478, lng: 55.251 },
+    coords: [55.251, -4.478],
     description: {
       de: "Die letzte Ruhestätte der Familie Dauban, die im 19. Jahrhundert die Insel Silhouette besaß und entwickelte.",
       hu: "A Dauban család végső nyughelye, akik a 19. században Silhouette szigetének tulajdonosai és fejlesztői voltak.",
@@ -827,7 +827,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-long-island-quarantine-history-v2",
     type: "ruins",
     name: { de: "Quarantänestation Long Island", hu: "Long Island karanténállomás", ro: "Stația de carantină Long Island", en: "Long Island Quarantine Station" },
-    coordinates: { lat: -4.652, lng: 55.503 },
+    coords: [55.503, -4.652],
     description: {
       de: "Überreste einer historischen Station, die im 19. und frühen 20. Jahrhundert zur Isolierung von Kranken genutzt wurde.",
       hu: "Egy történelmi állomás maradványai, amelyet a 19. és a 20. század elején használtak a betegek izolálására.",
@@ -846,7 +846,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-moyenne-ruins-history-v2",
     type: "ruins",
     name: { de: "Historische Ruinen Moyenne", hu: "Moyenne-szigeti történelmi romok", ro: "Ruinele istorice de pe insula Moyenne", en: "Moyenne Island Historical Ruins" },
-    coordinates: { lat: -4.618, lng: 55.509 },
+    coords: [55.509, -4.618],
     description: {
       de: "Überreste alter Siedlungen und mysteriöse Gräber auf der Privatinsel, die nun ein Nationalpark ist.",
       hu: "Régi települések maradványai és titokzatos sírok a magánszigeten, amely ma már nemzeti park.",
@@ -865,7 +865,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-anse-forbans-pirate-caves-history-v2",
     type: "landmark",
     name: { de: "Piratenhöhlen von Anse Forbans", hu: "Anse Forbans kalózbarlangok", ro: "Peșterile piraților din Anse Forbans", en: "Anse Forbans Pirate Caves" },
-    coordinates: { lat: -4.782, lng: 55.517 },
+    coords: [55.517, -4.782],
     description: {
       de: "Küstenhöhlen, die der Überlieferung nach im 18. Jahrhundert als Versteck für Piraten und ihre Beute dienten.",
       hu: "Tengerparti barlangok, amelyek a hagyomány szerint a 18. században kalózok és zsákmányuk rejtekhelyéül szolgáltak.",
@@ -884,7 +884,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-signal-hill-station-history-v2",
     type: "ruins",
     name: { de: "Signal Hill Station", hu: "Signal Hill jelzőállomás", ro: "Stația Signal Hill", en: "Signal Hill Station" },
-    coordinates: { lat: -4.625, lng: 55.445 },
+    coords: [55.445, -4.625],
     description: {
       de: "Eine historische Kommunikationsstation, mit der herannahende Schiffe an den Hafen von Victoria gemeldet wurden.",
       hu: "Egy történelmi kommunikációs állomás, amelyet a közeledő hajók jelzésére használtak Viktória kikötője számára.",
@@ -903,7 +903,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-customs-house-victoria-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus", hu: "Régi Vámház", ro: "Vechea Casă a Vămii", en: "Old Customs House" },
-    coordinates: { lat: -4.622, lng: 55.455 },
+    coords: [55.455, -4.622],
     description: {
       de: "Ein historisches Verwaltungsgebäude am Hafen, das einst den gesamten Seehandel der Inseln kontrollierte.",
       hu: "Egy történelmi adminisztratív épület a kikötőben, amely egykor a szigetek teljes tengeri kereskedelmét ellenőrizte.",
@@ -922,7 +922,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-ile-du-phare-lighthouse-history-v2",
     type: "tower",
     name: { de: "Leuchtturm Île du Phare", hu: "Île du Phare világítótorony", ro: "Farul Île du Phare", en: "Île du Phare Lighthouse" },
-    coordinates: { lat: -4.617, lng: 55.534 },
+    coords: [55.534, -4.617],
     description: {
       de: "Ein historischer Leuchtturm auf einer kleinen Insel, der Schiffen den Weg zum Hafen von Victoria wies.",
       hu: "Egy kis szigeten álló történelmi világítótorony, amely a Viktória kikötőjébe tartó hajókat segítette.",
@@ -941,7 +941,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-grann-kaz-silhouette-history-v2",
     type: "palace",
     name: { de: "Grann Kaz Silhouette", hu: "Silhouette-szigeti Grann Kaz", ro: "Grann Kaz Silhouette", en: "Grann Kaz Silhouette" },
-    coordinates: { lat: -4.479, lng: 55.242 },
+    coords: [55.242, -4.479],
     description: {
       de: "Das ursprüngliche Herrenhaus der Familie Dauban auf Silhouette, ein Beispiel für prächtige Plantagenarchitektur.",
       hu: "A Dauban család eredeti kúriája Silhouette-en, a pompás ültetvényes építészet egyik példája.",
@@ -960,7 +960,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-lexil-estate-history-v2",
     type: "landmark",
     name: { de: "Anwesen L'Exil", hu: "L'Exil birtok", ro: "Domeniul L'Exil", en: "L'Exil Estate" },
-    coordinates: { lat: -4.638, lng: 55.435 },
+    coords: [55.435, -4.638],
     description: {
       de: "Ein historisches Anwesen in den Bergen von Sans Souci, bekannt für seine kühle Lage und koloniale Geschichte.",
       hu: "Egy történelmi birtok a Sans Souci hegyeiben, amely hűvös elhelyezkedéséről és gyarmati múltjáról ismert.",
@@ -979,7 +979,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-fiennes-institute-history-v2",
     type: "landmark",
     name: { de: "Fiennes Institute", hu: "Fiennes Intézet", ro: "Institutul Fiennes", en: "Fiennes Institute" },
-    coordinates: { lat: -4.641, lng: 55.462 },
+    coords: [55.462, -4.641],
     description: {
       de: "Ein bedeutendes soziales Gebäude aus der Kolonialzeit, das ursprünglich als Heim für Bedürftige errichtet wurde.",
       hu: "Egy jelentős gyarmati kori szociális épület, amelyet eredetileg a rászorulók otthonaként emeltek.",
@@ -998,7 +998,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-mont-fleuri-cemetery-history-v2",
     type: "monument",
     name: { de: "Friedhof Mont Fleuri", hu: "Mont Fleuri temető", ro: "Cimitirul Mont Fleuri", en: "Mont Fleuri Cemetery" },
-    coordinates: { lat: -4.636, lng: 55.461 },
+    coords: [55.461, -4.636],
     description: {
       de: "Einer der größten historischen Friedhöfe der Insel, auf dem Bürger verschiedener Epochen begraben sind.",
       hu: "A sziget egyik legnagyobb történelmi temetője, ahol különböző korszakok polgárai nyugszanak.",
@@ -1017,7 +1017,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-first-settlers-cemetery-history-v2",
     type: "monument",
     name: { de: "Friedhof der ersten Siedler", hu: "Első telepesek temetője", ro: "Cimitirul primilor coloniști", en: "Cemetery of the First Settlers" },
-    coordinates: { lat: -4.625, lng: 55.448 },
+    coords: [55.448, -4.625],
     description: {
       de: "Ein kleiner, alter Friedhof in Victoria, der die Gräber der ersten französischen Kolonisten beherbergt.",
       hu: "Egy kicsi, ősi temető Viktóriában, amely az első francia telepesek sírjait őrzi.",
@@ -1036,7 +1036,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-queen-victoria-monument-history-v2",
     type: "monument",
     name: { de: "Königin-Victoria-Denkmal", hu: "Viktória királynő emlékmű", ro: "Monumentul Reginei Victoria", en: "Queen Victoria Monument" },
-    coordinates: { lat: -4.624, lng: 55.452 },
+    coords: [55.452, -4.624],
     description: {
       de: "Eine Statue zu Ehren von Königin Victoria, die vor dem Gerichtsgebäude an die britische Kolonialzeit erinnert.",
       hu: "Viktória királynő tiszteletére emelt szobor a bíróság épülete előtt, amely a brit gyarmati korszakra emlékeztet.",
@@ -1055,7 +1055,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-st-roch-church-history-v2",
     type: "church",
     name: { de: "Kirche St. Roch", hu: "Szent Rókus-templom", ro: "Biserica Sfântul Roch", en: "St. Roch Church" },
-    coordinates: { lat: -4.618, lng: 55.426 },
+    coords: [55.426, -4.618],
     description: {
       de: "Eine historische katholische Kirche in Bel Ombre, bekannt für ihre Architektur und ihre Rolle in der Gemeinschaft.",
       hu: "Egy történelmi katolikus templom Bel Ombre-ban, amely építészetéről és közösségi szerepéről ismert.",
@@ -1074,7 +1074,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-capucins-mission-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen der Kapuziner-Mission", hu: "Kapucinus misszió romjai", ro: "Ruinele misiunii Capucinilor", en: "Capucins Mission Ruins" },
-    coordinates: { lat: -4.672, lng: 55.448 },
+    coords: [55.448, -4.672],
     description: {
       de: "Die Überreste einer frühen religiösen Siedlung, die von Kapuzinermönchen zur Ausbildung ehemaliger Sklaven gegründet wurde.",
       hu: "Egy korai vallási település maradványai, amelyet kapucinus szerzetesek alapítottak korábbi rabszolgák oktatására.",
@@ -1093,7 +1093,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-praslin-hospital-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen des alten Krankenhauses Praslin", hu: "Régi praslini kórház romjai", ro: "Ruinele vechiului spital din Praslin", en: "Praslin Old Hospital Ruins" },
-    coordinates: { lat: -4.332, lng: 55.742 },
+    coords: [55.742, -4.332],
     description: {
       de: "Die historischen Überreste der ersten medizinischen Einrichtung auf der Insel Praslin.",
       hu: "Praslin szigetének első orvosi létesítményének történelmi maradványai.",
@@ -1112,7 +1112,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-anse-boileau-old-police-history-v2",
     type: "landmark",
     name: { de: "Alte Polizeistation Anse Boileau", hu: "Anse Boileau régi rendőrőrs", ro: "Vechea secție de poliție din Anse Boileau", en: "Anse Boileau Old Police Station" },
-    coordinates: { lat: -4.708, lng: 55.482 },
+    coords: [55.482, -4.708],
     description: {
       de: "Ein historisches Steingebäude, das einst als administrativer und polizeilicher Stützpunkt im Westen von Mahé diente.",
       hu: "Egy történelmi kőépület, amely egykor Mahé nyugati részének adminisztratív és rendőrségi központjaként szolgált.",
@@ -1131,7 +1131,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-assumption-mining-ruins-history-v2",
     type: "ruins",
     name: { de: "Bergbauruinen Assumption Island", hu: "Assumption-szigeti bányászati romok", ro: "Ruinele miniere de pe insula Assumption", en: "Assumption Island Mining Ruins" },
-    coordinates: { lat: -9.733, lng: 46.505 },
+    coords: [46.505, -9.733],
     description: {
       de: "Die Überreste von Industrieanlagen, die zu Beginn des 20. Jahrhunderts für den Guano-Abbau genutzt wurden.",
       hu: "Ipari létesítmények maradványai, amelyeket a 20. század elején guano-bányászatra használtak.",
@@ -1150,7 +1150,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-aride-plantation-house-history-v2",
     type: "landmark",
     name: { de: "Plantagenhaus Aride Island", hu: "Aride-szigeti ültetvényesház", ro: "Casa de plantație de pe insula Aride", en: "Aride Island Plantation House" },
-    coordinates: { lat: -4.212, lng: 55.666 },
+    coords: [55.666, -4.212],
     description: {
       de: "Ein historisches Gebäude auf der Insel Aride, das einst als Verwalterhaus der Kokosnuss-Plantage diente.",
       hu: "Egy történelmi épület Aride szigetén, amely egykor a kókuszültetvény intézőjének háza volt.",
@@ -1169,7 +1169,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-caz-mamnan-history-v2",
     type: "landmark",
     name: { de: "Caz Mamnan", hu: "Caz Mamnan", ro: "Caz Mamnan", en: "Caz Mamnan" },
-    coordinates: { lat: -4.358, lng: 55.829 },
+    coords: [55.829, -4.358],
     description: {
       de: "Ein traditionelles kreolisches Haus auf La Digue, das die Geschichte des einfachen Lebens in der Vergangenheit bewahrt.",
       hu: "Egy hagyományos kreol ház La Digue-en, amely a múlt egyszerű életének történetét őrzi.",
@@ -1188,7 +1188,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-old-pier-la-digue-history-v2",
     type: "port",
     name: { de: "Alter Pier La Digue", hu: "Régi móló La Digue", ro: "Vechiul ponton din La Digue", en: "Old Pier La Digue" },
-    coordinates: { lat: -4.348, lng: 55.823 },
+    coords: [55.823, -4.348],
     description: {
       de: "Die Überreste des ursprünglichen Anlegeplatzes, der über Jahrzehnte die einzige Verbindung der Insel zur Außenwelt war.",
       hu: "Az eredeti kikötőhely maradványai, amely évtizedeken át a sziget egyetlen kapcsolata volt a külvilággal.",
@@ -1207,7 +1207,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-fregate-slave-walls-history-v2",
     type: "ruins",
     name: { de: "Sklavenmauern Fregate", hu: "Fregate-szigeti rabszolgafalak", ro: "Zidurile sclavilor de pe Fregate", en: "Fregate Island Slave Walls" },
-    coordinates: { lat: -4.585, lng: 55.94 },
+    coords: [55.94, -4.585],
     description: {
       de: "Alte Trockenmauern, die von versklavten Menschen errichtet wurden, um Plantagengrenzen auf der Insel Fregate zu markieren.",
       hu: "Régi szárazon rakott kőfalak, amelyeket rabszolgák építettek az ültetvények határainak kijelölésére Fregate szigetén.",
@@ -1226,7 +1226,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-coetivy-old-garrison-history-v2",
     type: "ruins",
     name: { de: "Alte Garnison Coëtivy", hu: "Coëtivy régi helyőrség", ro: "Vechea garnizoană din Coëtivy", en: "Coëtivy Old Garrison" },
-    coordinates: { lat: -7.14, lng: 56.27 },
+    coords: [56.27, -7.14],
     description: {
       de: "Die Überreste militärischer Unterkünfte auf der Insel Coëtivy, die zur Überwachung des Ozeans genutzt wurden.",
       hu: "Katonai szállások maradványai Coëtivy szigetén, amelyeket az óceán megfigyelésére használtak.",
@@ -1245,7 +1245,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-lazare-picault-landmark-history-v2",
     type: "monument",
     name: { de: "Lazare Picault Denkmal", hu: "Lazare Picault emlékmű", ro: "Monumentul Lazare Picault", en: "Lazare Picault Landmark" },
-    coordinates: { lat: -4.747, lng: 55.474 },
+    coords: [55.474, -4.747],
     description: {
       de: "Ein Denkmal an der Baie Lazare, das an die Landung des französischen Entdeckers Lazare Picault im Jahr 1742 erinnert.",
       hu: "Egy emlékmű a Baie Lazare-nál, amely Lazare Picault francia felfedező 1742-es partraszállásának állít emléket.",
@@ -1264,7 +1264,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
     id: "seychelles-st-francis-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von St. Francis", hu: "Szent Ferenc-romok", ro: "Ruinele Sfântului Francisc", en: "St. Francis Church Ruins" },
-    coordinates: { lat: -4.75, lng: 55.485 },
+    coords: [55.485, -4.75],
     description: {
       de: "Die verwitterten Überreste einer alten Kapelle in der Nähe von Baie Lazare, die von frühen Siedlern erbaut wurde.",
       hu: "Egy régi kápolna málló maradványai Baie Lazare közelében, amelyet a korai telepesek építettek.",

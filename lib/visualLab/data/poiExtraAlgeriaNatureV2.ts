@@ -85,7 +85,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-babor-nature-v2",
     type: "mountain",
     name: { de: "Djebel Babor", hu: "Babor-hegy", ro: "Muntele Babor", en: "Mount Babor" },
-    coordinates: { lat: 36.458, lng: 5.474 },
+    coords: [5.474, 36.458],
     description: {
       de: "Das Djebel Babor ist ein Bergmassiv im Tellatlas, das für seine einzigartige Flora und Fauna bekannt ist. Es bildet eine der höchsten Erhebungen in der Provinz Sétif.",
       hu: "A Babor-hegy a Tell-Atlasz hegység része, amely különleges növény- és állatvilágáról ismert. Sétif tartomány egyik legmagasabb pontja.",
@@ -116,7 +116,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-saoura-nature-v2",
     type: "river",
     name: { de: "Oued Saoura", hu: "Saoura folyó", ro: "Râul Saoura", en: "Saoura River" },
-    coordinates: { lat: 29.5, lng: -2.0 },
+    coords: [-2.0, 29.5],
     description: {
       de: "Der Oued Saoura ist ein temporärer Flusslauf in der Sahara, der aus dem Zusammenfluss von Oued Guir und Oued Zousfana entsteht. Er versickert schließlich in der Wüste.",
       hu: "A Saoura egy időszakos folyó a Szaharában, amely a Guir és a Zousfana folyók összefolyásából keletkezik. Végül a sivatagban tűnik el.",
@@ -147,7 +147,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-chemora-nature-v2",
     type: "mountain",
     name: { de: "Djebel Chemora", hu: "Chemora-hegy", ro: "Muntele Chemora", en: "Mount Chemora" },
-    coordinates: { lat: 35.6, lng: 6.3 },
+    coords: [6.3, 35.6],
     description: {
       de: "Das Djebel Chemora ist ein Bergmassiv in der Nähe von Batna, Teil des Aurès-Gebirges. Es bietet felsige Landschaften und eine typische Steppenvegetation.",
       hu: "A Chemora-hegy egy Batna melletti hegyvonulat az Aurès-hegység része. Sziklás tájak és tipikus sztyeppei növényzet jellemzi.",
@@ -178,7 +178,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-chott-ech-chergui-nature-v2",
     type: "lake",
     name: { de: "Chott Ech Chergui", hu: "Chott Ech Chergui", ro: "Chott Ech Chergui", en: "Chott Ech Chergui" },
-    coordinates: { lat: 34.5, lng: 0.5 },
+    coords: [0.5, 34.5],
     description: {
       de: "Der Chott Ech Chergui ist ein großer Salzsee in den algerischen Hochplateaus. Er ist ein wichtiges Feuchtgebiet gemäß der Ramsar-Konvention.",
       hu: "A Chott Ech Chergui egy nagy sós tó az algériai fennsíkokon. A Ramsari egyezmény szerinti fontos vizes élőhely.",
@@ -209,7 +209,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-megriss-nature-v2",
     type: "mountain",
     name: { de: "Djebel Megriss", hu: "Megriss-hegy", ro: "Muntele Megriss", en: "Mount Megriss" },
-    coordinates: { lat: 36.4, lng: 5.5 },
+    coords: [5.5, 36.4],
     description: {
       de: "Das Djebel Megriss ist ein markanter Berg im Norden Algeriens, bekannt für seine bewaldeten Hänge. Er liegt in einer Region mit hohem Niederschlag.",
       hu: "A Megriss-hegy egy jellegzetes hegy Észak-Algériában, ismert erdős lejtőiről. Nagy csapadékmennyiségű régióban található.",
@@ -240,7 +240,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-chelif-nature-v2",
     type: "river",
     name: { de: "Oued Chelif", hu: "Chelif folyó", ro: "Râul Chelif", en: "Chelif River" },
-    coordinates: { lat: 36.0, lng: 0.5 },
+    coords: [0.5, 36.0],
     description: {
       de: "Der Oued Chelif ist der längste Fluss Algeriens und fließt durch den Norden des Landes. Sein Wasser wird intensiv für die Landwirtschaft genutzt.",
       hu: "A Chelif Algéria leghosszabb folyója, amely az ország északi részén folyik keresztül. Vizét intenzíven használják a mezőgazdaságban.",
@@ -271,7 +271,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-kroumine-nature-v2",
     type: "mountain",
     name: { de: "Djebel Kroumine", hu: "Kroumine-hegy", ro: "Muntele Kroumine", en: "Mount Kroumine" },
-    coordinates: { lat: 36.8, lng: 8.0 },
+    coords: [8.0, 36.8],
     description: {
       de: "Das Djebel Kroumine liegt nahe der Grenze zu Tunesien in der Provinz El Tarf. Es ist bekannt für seine Korkeichenwälder.",
       hu: "A Kroumine-hegy a tunéziai határ közelében, El Tarf tartományban található. Ismert a paratölgy-erdőiről.",
@@ -302,7 +302,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-tessala-nature-v2",
     type: "river",
     name: { de: "Oued Tessala", hu: "Tessala folyó", ro: "Râul Tessala", en: "Tessala River" },
-    coordinates: { lat: 35.3, lng: -0.6 },
+    coords: [-0.6, 35.3],
     description: {
       de: "Der Oued Tessala entspringt im Tessala-Gebirge in Westalgerien. Er durchfließt eine Region, die für ihre Wein- und Obstplantagen bekannt ist.",
       hu: "A Tessala folyó a nyugat-algériai Tessala-hegységből ered. Olyan régión folyik keresztül, amely bor- és gyümölcsültetvényeiről ismert.",
@@ -333,7 +333,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-anttar-nature-v2",
     type: "mountain",
     name: { de: "Djebel Anttar", hu: "Anttar-hegy", ro: "Muntele Anttar", en: "Mount Anttar" },
-    coordinates: { lat: 34.6, lng: 0.2 },
+    coords: [0.2, 34.6],
     description: {
       de: "Das Djebel Anttar ist ein Berg im Sahara-Atlas. Die Region ist karg und durch die typische Wüstenlandschaft geprägt.",
       hu: "Az Anttar-hegy egy hegy a Szahara-Atlaszban. A régió kopár, és a tipikus sivatagi táj jellemzi.",
@@ -364,7 +364,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-dayet-et-tayour-nature-v2",
     type: "lake",
     name: { de: "Dayet et Tayour", hu: "Dayet et Tayour", ro: "Dayet et Tayour", en: "Dayet et Tayour" },
-    coordinates: { lat: 35.8, lng: 0.2 },
+    coords: [0.2, 35.8],
     description: {
       de: "Dayet et Tayour ist ein saisonaler See in der Nähe von Oran. Er dient als Rastplatz für zahlreiche Zugvögel während der Wanderungszeit.",
       hu: "A Dayet et Tayour egy szezonális tó Oran közelében. Számos vonuló madár pihenőhelyéül szolgál a vándorlási időszakban.",
@@ -395,7 +395,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-amour-nature-v2",
     type: "mountain",
     name: { de: "Djebel Amour", hu: "Amour-hegység", ro: "Munții Amour", en: "Amour Mountains" },
-    coordinates: { lat: 33.7, lng: 2.5 },
+    coords: [2.5, 33.7],
     description: {
       de: "Das Djebel-Amour-Gebirge ist ein Teil des Sahara-Atlas. Es zeichnet sich durch Plateaus und tiefe Schluchten aus.",
       hu: "Az Amour-hegység a Szahara-Atlasz része. Fennsíkok és mély szurdokok jellemzik.",
@@ -426,7 +426,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-abdi-nature-v2",
     type: "river",
     name: { de: "Oued Abdi", hu: "Abdi folyó", ro: "Râul Abdi", en: "Abdi River" },
-    coordinates: { lat: 35.2, lng: 6.3 },
+    coords: [6.3, 35.2],
     description: {
       de: "Der Oued Abdi fließt durch das Aurès-Gebirge. Er hat eine bedeutende Rolle bei der Bewässerung der historischen Terrassenfelder der Region.",
       hu: "Az Abdi folyó az Aurès-hegységen folyik keresztül. Jelentős szerepet játszik a régió történelmi teraszos földjeinek öntözésében.",
@@ -457,7 +457,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-ouarsenis-nature-v2",
     type: "mountain",
     name: { de: "Djebel Ouarsenis", hu: "Ouarsenis-hegy", ro: "Muntele Ouarsenis", en: "Mount Ouarsenis" },
-    coordinates: { lat: 35.8, lng: 1.7 },
+    coords: [1.7, 35.8],
     description: {
       de: "Das Djebel Ouarsenis ist eine zerklüftete Gebirgsregion im Atlas. Sie ist bekannt für ihre dichten Wälder und zerklüfteten Gipfel.",
       hu: "Az Ouarsenis-hegy egy tagolt hegyvidék az Atlaszban. Ismert sűrű erdőiről és szabdalt csúcsairól.",
@@ -488,7 +488,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-chott-hodna-nature-v2",
     type: "lake",
     name: { de: "Chott Hodna", hu: "Hodna-sós-tó", ro: "Chott Hodna", en: "Chott Hodna" },
-    coordinates: { lat: 35.5, lng: 4.7 },
+    coords: [4.7, 35.5],
     description: {
       de: "Der Chott Hodna ist ein bedeutender endorheischer Salzsee im algerischen Hochland. Er bietet Lebensraum für gefährdete Arten.",
       hu: "A Chott Hodna egy jelentős endorheikus sós tó az algériai felföldön. Élőhelyet biztosít a veszélyeztetett fajok számára.",
@@ -519,7 +519,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-boghni-nature-v2",
     type: "mountain",
     name: { de: "Djebel Boghni", hu: "Boghni-hegy", ro: "Muntele Boghni", en: "Mount Boghni" },
-    coordinates: { lat: 36.5, lng: 4.1 },
+    coords: [4.1, 36.5],
     description: {
       de: "Das Djebel Boghni ist ein Bergzug in der Kabylei. Die Landschaft ist geprägt durch grüne Hügel und tiefe Täler.",
       hu: "A Boghni-hegy egy hegyvonulat Kabyliában. A tájat zöld dombok és mély völgyek jellemzik.",
@@ -550,7 +550,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-zousfana-nature-v2",
     type: "river",
     name: { de: "Oued Zousfana", hu: "Zousfana folyó", ro: "Râul Zousfana", en: "Zousfana River" },
-    coordinates: { lat: 31.0, lng: -2.0 },
+    coords: [-2.0, 31.0],
     description: {
       de: "Der Oued Zousfana ist ein episodischer Fluss in der Sahara. Er ist lebenswichtig für die Oasen entlang seines Laufes.",
       hu: "A Zousfana folyó egy epizodikus folyó a Szaharában. Létfontosságú az útja mentén található oázisok számára.",
@@ -581,7 +581,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-edough-nature-v2",
     type: "mountain",
     name: { de: "Djebel Edough", hu: "Edough-hegység", ro: "Munții Edough", en: "Edough Mountains" },
-    coordinates: { lat: 36.9, lng: 7.6 },
+    coords: [7.6, 36.9],
     description: {
       de: "Das Edough-Massiv erhebt sich nahe der Stadt Annaba. Es ist ein bewaldetes Berggebiet mit einer sehr vielfältigen Pflanzenwelt.",
       hu: "Az Edough-hegység Annaba városa közelében emelkedik. Ez egy erdős hegyvidék, nagyon változatos növényvilággal.",
@@ -612,7 +612,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-sebaou-nature-v2",
     type: "river",
     name: { de: "Oued Sebaou", hu: "Sebaou folyó", ro: "Râul Sebaou", en: "Sebaou River" },
-    coordinates: { lat: 36.7, lng: 4.2 },
+    coords: [4.2, 36.7],
     description: {
       de: "Der Oued Sebaou entwässert die nördlichen Bereiche der Kabylei. Er spielt eine zentrale Rolle in der Wasserversorgung dieser Bergregion.",
       hu: "A Sebaou folyó Kabília északi területeit vízteleníti. Központi szerepet játszik e hegyvidéki régió vízellátásában.",
@@ -643,7 +643,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-tababor-nature-v2",
     type: "mountain",
     name: { de: "Djebel Tababor", hu: "Tababor-hegy", ro: "Muntele Tababor", en: "Mount Tababor" },
-    coordinates: { lat: 36.4, lng: 5.4 },
+    coords: [5.4, 36.4],
     description: {
       de: "Das Djebel Tababor ist ein Berg im Babor-Massiv. Die Region ist ein wichtiges Schutzgebiet für endemische Pflanzenarten.",
       hu: "A Tababor-hegy a Babor-hegység egyik hegye. A régió fontos védett terület az endemikus növényfajok számára.",
@@ -674,7 +674,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-dayet-et-touile-nature-v2",
     type: "lake",
     name: { de: "Dayet et Touile", hu: "Dayet et Touile", ro: "Dayet et Touile", en: "Dayet et Touile" },
-    coordinates: { lat: 34.2, lng: 0.1 },
+    coords: [0.1, 34.2],
     description: {
       de: "Dayet et Touile ist ein Salzsee auf den Hochplateaus. Er bildet ein wichtiges Ökosystem für wandernde Vogelarten in der Steppenregion.",
       hu: "A Dayet et Touile egy sós tó a felföldeken. Fontos ökoszisztémát alkot a vonuló madárfajok számára a sztyeppei régióban.",
@@ -705,7 +705,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-oued-reghaia-nature-v2",
     type: "river",
     name: { de: "Oued Reghaia", hu: "Reghaia folyó", ro: "Râul Reghaia", en: "Reghaia River" },
-    coordinates: { lat: 36.7, lng: 3.3 },
+    coords: [3.3, 36.7],
     description: {
       de: "Der Oued Reghaia mündet in ein bedeutendes Feuchtgebiet nahe Algiers. Der See von Reghaia ist ein streng geschütztes Naturschutzgebiet.",
       hu: "A Reghaia folyó egy jelentős vizes élőhelybe torkollik Algír közelében. A Reghaia-tó egy szigorúan védett természetvédelmi terület.",
@@ -736,7 +736,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     id: "algeria-djebel-teniet-nature-v2",
     type: "mountain",
     name: { de: "Djebel Teniet", hu: "Teniet-hegy", ro: "Muntele Teniet", en: "Mount Teniet" },
-    coordinates: { lat: 36.3, lng: 2.1 },
+    coords: [2.1, 36.3],
     description: {
       de: "Das Djebel Teniet ist ein Bergmassiv im Atlas-Gebirge, berühmt für seine Zedernwälder. Es ist Teil eines nationalen Schutzgebiets.",
       hu: "A Teniet-hegy egy hegyvonulat az Atlaszban, híres cédruserdőiről. Egy nemzeti védett terület része.",

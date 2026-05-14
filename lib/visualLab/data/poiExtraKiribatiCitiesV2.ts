@@ -5,7 +5,7 @@ export const kiribatiCitiesV2: POI[] = [
     id: "kiribati-south-tarawa-cities-v2",
     type: "capital",
     name: { de: "Süd-Tarawa", hu: "Dél-Tarawa", ro: "Tarawa de Sud", en: "South Tarawa" },
-    coordinates: { lat: 1.33, lng: 172.98 },
+    coords: [172.98, 1.33],
     description: {
       de: "Süd-Tarawa ist das bevölkerungsreichste Gebiet und die Hauptstadt von Kiribati. Es besteht aus einer Kette von Inseln im Tarawa-Atoll.",
       hu: "Dél-Tarawa Kiribati fővárosa és legnépesebb területe. A település a Tarawa-atoll déli részén lévő kis szigetek láncolatából áll.",
@@ -19,12 +19,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Capital of Kiribati", "Population over 60,000", "Includes Betio and Bairiki", "Part of the Gilbert Islands"],
     },
     imageHint: "South Tarawa atoll aerial view with causeways",
+    descriptionAdvanced: {
+      de: "South Tarawa ist das urbane Zentrum des Inselstaates Kiribati und liegt auf dem Tarawa-Atoll. Die Stadt erstreckt sich über mehrere Inseln, die durch Dämme und Brücken verbunden sind. Mit rund 50.000 Einwohnern konzentriert sich hier ein Großteil der Bevölkerung Kiribatis. Die Infrastruktur steht vor Herausforderungen durch den steigenden Meeresspiegel und die begrenzte Landfläche. Wirtschaftlich dominieren der öffentliche Dienst, Handel und Fischerei. Der internationale Flughafen Bonriki verbindet South Tarawa mit anderen Pazifikstaaten.",
+      hu: "South Tarawa Kiribati fővárosa és legnépesebb települése, a Tarawa-atoll déli részén helyezkedik el. A város számos kis szigetből áll, amelyeket utak és hidak kötnek össze. Lakossága meghaladja az 50 000 főt, ami az ország népességének felét jelenti. A tengerszint emelkedése komoly veszélyt jelent a part menti településekre. A gazdaság a közszférára, a halászatra és a kisipart épül. A Bonriki nemzetközi repülőtér biztosítja a külvilággal való összeköttetést.",
+      ro: "South Tarawa este capitala și cel mai mare oraș din Kiribati, situat pe atolul Tarawa. Orașul se întinde pe mai multe insulițe conectate prin diguri și poduri. Cu o populație de aproximativ 50.000 de locuitori, găzduiește peste jumătate din populația țării. Creșterea nivelului mării amenință direct infrastructura și locuințele. Economia se bazează pe sectorul public, pescuit și comerț. Aeroportul Internațional Bonriki asigură legături aeriene regulate cu Fiji și alte insule.",
+      en: "South Tarawa is the capital and main urban center of Kiribati, located on the Tarawa Atoll. It comprises several small islands linked by causeways and bridges, with a population of around 50,000. The city faces severe environmental pressures from sea-level rise, coastal erosion, and freshwater scarcity. The economy is dominated by government services, fishing, and small-scale trade. Bonriki International Airport serves as the primary gateway, connecting Kiribati to Fiji and other Pacific destinations.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 50.000 (2020)", "Fläche: etwa 15 km²", "Höchster Punkt: 3 m über dem Meeresspiegel", "Jährlicher Niederschlag: 1.500 mm", "Gegründet: 1979 (Unabhängigkeit Kiribatis)", "Anzahl der bewohnten Inseln: 4"],
+      hu: ["Népesség: kb. 50 000 fő (2020)", "Terület: körülbelül 15 km²", "Legmagasabb pont: 3 m tengerszint felett", "Éves csapadékmennyiség: 1500 mm", "Alapítás: 1979 (Kiribati függetlenné válása)", "Lakott szigetek száma: 4"],
+      ro: ["Populație: circa 50.000 (2020)", "Suprafață: aproximativ 15 km²", "Altitudine maximă: 3 m deasupra nivelului mării", "Precipitații anuale: 1.500 mm", "Înființare: 1979 (independența Kiribati)", "Număr de insule locuite: 4"],
+      en: ["Population: approx. 50,000 (2020)", "Area: about 15 km²", "Highest elevation: 3 m above sea level", "Annual rainfall: 1,500 mm", "Founded: 1979 (Kiribati independence)", "Number of inhabited islets: 4"],
+    },
   },
   {
     id: "kiribati-betio-cities-v2",
     type: "town",
     name: { de: "Betio", hu: "Betio", ro: "Betio", en: "Betio" },
-    coordinates: { lat: 1.35, lng: 172.93 },
+    coords: [172.93, 1.35],
     description: {
       de: "Betio ist das wirtschaftliche Zentrum von Kiribati und liegt im Südwesten des Tarawa-Atolls. Es war ein wichtiger Schauplatz im Zweiten Weltkrieg.",
       hu: "Betio Kiribati gazdasági központja, a Tarawa-atoll délnyugati részén fekszik. A második világháború egyik fontos helyszíne volt.",
@@ -38,12 +50,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Site of Battle of Tarawa", "Main port of Kiribati", "Dense population center", "Liberated in 1943"],
     },
     imageHint: "Betio port and WWII coastal defense guns",
+    descriptionAdvanced: {
+      de: "Betio ist eine dicht besiedelte Inselstadt im Süden des Tarawa-Atolls, die als wirtschaftliches Zentrum Kiribatis gilt. Hier befinden sich der wichtigste Hafen des Landes mit Containerterminals und ein Schiffsbauhof. Die Bevölkerungsdichte ist extrem hoch; Betio hat über 20.000 Einwohner auf weniger als 2 km². Die Stadt war während des Zweiten Weltkriegs Schauplatz heftiger Kämpfe zwischen Japan und den USA. Heute prägen Fischerei, Handel und Logistik das Wirtschaftsleben.",
+      hu: "Betio sűrűn lakott város a Tarawa-atoll déli részén, Kiribati gazdasági központja. Itt található az ország fő kikötője konténerterminálokkal és hajójavító üzemmel. A népsűrűség rendkívül magas, több mint 20 000 ember él kevesebb mint 2 km²-en. A második világháborúban súlyos csaták zajlottak itt a japán és amerikai erők között. A gazdaságot a halászat, kereskedelem és logisztika határozza meg.",
+      ro: "Betio este un oraș insular dens populat în sudul atolului Tarawa, considerat centrul economic al Kiribati. Aici se găsește principalul port al țării, cu terminale de containere și un șantier naval. Populația depășește 20.000 de locuitori pe mai puțin de 2 km². În al Doilea Război Mondial, Betio a fost locul unor lupte sângeroase între japonezi și americani. Economia se bazează pe pescuit, comerț și logistică portuară.",
+      en: "Betio is a densely populated urban island in southern Tarawa Atoll and serves as Kiribati's economic hub. It hosts the country's main seaport, container terminals, and a shipyard. With over 20,000 residents on less than 2 km², it is one of the most crowded places in the Pacific. The island was a key battleground in the WWII Battle of Tarawa (1943). Today, its economy revolves around fishing, trade, and port services.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 22.000 (2020)", "Fläche: 1,8 km²", "Bevölkerungsdichte: 12.222/km²", "Hafen: 5 Liegeplätze für Frachtschiffe", "Schlacht von Tarawa: November 1943", "Höchster Punkt: 2 m"],
+      hu: ["Népesség: 22 000 (2020)", "Terület: 1,8 km²", "Népsűrűség: 12 222/km²", "Kikötő: 5 teherhajó-kikötőhely", "Tarawa-i csata: 1943 november", "Legmagasabb pont: 2 m"],
+      ro: ["Populație: 22.000 (2020)", "Suprafață: 1,8 km²", "Densitatea populației: 12.222/km²", "Port: 5 locuri de acostare pentru nave de marfă", "Bătălia de la Tarawa: noiembrie 1943", "Altitudine maximă: 2 m"],
+      en: ["Population: 22,000 (2020)", "Area: 1.8 km²", "Population density: 12,222/km²", "Port: 5 berths for cargo vessels", "Battle of Tarawa: November 1943", "Maximum elevation: 2 m"],
+    },
   },
   {
     id: "kiribati-bikenibeu-cities-v2",
     type: "town",
     name: { de: "Bikenibeu", hu: "Bikenibeu", ro: "Bikenibeu", en: "Bikenibeu" },
-    coordinates: { lat: 1.36, lng: 173.12 },
+    coords: [173.12, 1.36],
     description: {
       de: "Bikenibeu ist eine bedeutende Siedlung im Südosten von Süd-Tarawa. Der Ort beherbergt wichtige staatliche Einrichtungen wie das nationale Krankenhaus.",
       hu: "Bikenibeu egy jelentős település Dél-Tarawa délkeleti részén. Fontos állami intézményeknek, köztük a nemzeti kórháznak ad otthont.",
@@ -57,12 +81,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Home to Tungaru Central Hospital", "Location of Ministry of Education", "Population over 7,000", "Important educational hub"],
     },
     imageHint: "Bikenibeu street scene and traditional maneaba",
+    descriptionAdvanced: {
+      de: "Bikenibeu ist eine Siedlung auf South Tarawa, die als Wohngebiet und Standort von Bildungseinrichtungen bekannt ist. Hier befindet sich das Tarawa Teachers College und eine Außenstelle der University of the South Pacific. Die Bevölkerung beträgt etwa 7.000 Einwohner. Der Ort liegt an der Lagune und ist durch eine Straße mit dem Rest des Atolls verbunden. Die lokale Wirtschaft basiert auf Landwirtschaft und Fischerei, ergänzt durch Handwerksbetriebe.",
+      hu: "Bikenibeu South Tarawa egyik negyede, amely oktatási intézményeiről ismert. Itt található a Tarawa Tanárképző Főiskola és a Dél-csendes-óceáni Egyetem kihelyezett tagozata. Lakossága körülbelül 7000 fő. A település a lagúna partján fekszik, és úton kapcsolódik a többi szigethez. Gazdasági tevékenység a mezőgazdaság, halászat és kisipar.",
+      ro: "Bikenibeu este o localitate din South Tarawa, cunoscută pentru instituțiile sale de învățământ. Aici se află Tarawa Teachers College și o filială a Universității Pacificului de Sud. Populația este de aproximativ 7.000 de locuitori. Satul este situat pe malul lagunei și este conectat prin șosea cu restul atolului. Economia locală se bazează pe agricultură, pescuit și meșteșuguri.",
+      en: "Bikenibeu is a settlement on South Tarawa known for its educational institutions. It hosts the Tarawa Teachers College and a campus of the University of the South Pacific. With about 7,000 residents, it serves as a residential area. The village lies along the lagoon and is linked by road. Local livelihoods include small-scale agriculture, fishing, and handicrafts.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 7.000 (2020)", "Entfernung zu Bairiki: 5 km", "Anzahl der Bildungseinrichtungen: 3", "Fläche: ca. 1 km²", "Höchster Punkt: 2 m", "Gründung: 1950er Jahre als Siedlung"],
+      hu: ["Népesség: 7000 (2020)", "Távolság Bairikitől: 5 km", "Oktatási intézmények száma: 3", "Terület: kb. 1 km²", "Legmagasabb pont: 2 m", "Alapítás: 1950-es évek"],
+      ro: ["Populație: 7.000 (2020)", "Distanța față de Bairiki: 5 km", "Număr de instituții de învățământ: 3", "Suprafață: circa 1 km²", "Altitudine maximă: 2 m", "Înființare: anii 1950"],
+      en: ["Population: 7,000 (2020)", "Distance to Bairiki: 5 km", "Number of educational institutions: 3", "Area: about 1 km²", "Highest point: 2 m", "Established: 1950s"],
+    },
   },
   {
     id: "kiribati-teaoraereke-cities-v2",
     type: "town",
     name: { de: "Teaoraereke", hu: "Teaoraereke", ro: "Teaoraereke", en: "Teaoraereke" },
-    coordinates: { lat: 1.33, lng: 173.01 },
+    coords: [173.01, 1.33],
     description: {
       de: "Teaoraereke ist ein bevölkerungsreiches Dorf in Süd-Tarawa. Es ist bekannt als Standort der katholischen Kathedrale und des Campus der USP.",
       hu: "Teaoraereke egy népes falu Dél-Tarawán. A katolikus székesegyház és a Csendes-óceáni Egyetem kampuszának helyszíneként ismert.",
@@ -76,12 +112,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Seat of the Diocese of Tarawa", "Location of USP campus", "Third largest settlement in Tarawa", "Religious center"],
     },
     imageHint: "Sacred Heart Cathedral Teaoraereke Kiribati",
+    descriptionAdvanced: {
+      de: "Teaoraereke ist ein Ort im Norden von South Tarawa, der für seine traditionelle Lebensweise und Kokosnussplantagen bekannt ist. Die Siedlung hat rund 5.000 Einwohner und liegt zwischen Lagune und Ozean. Die Straßenverbindungen sind begrenzt, viele Wege sind unbefestigt. Die Bewohner betreiben Subsistenzlandwirtschaft mit Taro und Brotfrucht. Die Fischerei in der Lagune ist eine wichtige Nahrungsquelle.",
+      hu: "Teaoraereke Észak-South Tarawában található, hagyományos életmódjáról és kókuszültetvényeiről ismert. Lakossága körülbelül 5000 fő. A település a lagúna és az óceán között fekszik, korlátozott úthálózattal. A lakók önellátó gazdálkodást folytatnak: tarót és kenyeret termesztenek. A lagúnában való halászat fontos élelemforrás.",
+      ro: "Teaoraereke este o localitate în nordul South Tarawa, cunoscută pentru stilul de viață tradițional și plantațiile de cocos. Populația este de aproximativ 5.000 de locuitori. Satul se află între lagună și ocean, cu drumuri limitate. Locuitorii practică agricultura de subzistență, cultivând taro și fructul de pâine. Pescuitul în lagună este o sursă importantă de hrană.",
+      en: "Teaoraereke is a village in northern South Tarawa, known for its traditional lifestyle and coconut plantations. It has about 5,000 residents and sits between the lagoon and the ocean. Road infrastructure is limited; many paths are unpaved. Inhabitants practice subsistence farming of taro and breadfruit. Lagoon fishing provides a key food source.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 5.000 (2020)", "Fläche: 0,8 km²", "Anzahl der Plantagen: 2 große Kokosplantagen", "Durchschnittstemperatur: 28°C", "Jährlicher Niederschlag: 1.800 mm", "Entfernung zum Flughafen: 10 km"],
+      hu: ["Népesség: 5000 (2020)", "Terület: 0,8 km²", "Nagy kókuszültetvények száma: 2", "Átlaghőmérséklet: 28°C", "Éves csapadék: 1800 mm", "Távolság a repülőtértől: 10 km"],
+      ro: ["Populație: 5.000 (2020)", "Suprafață: 0,8 km²", "Număr de plantații mari de cocos: 2", "Temperatura medie: 28°C", "Precipitații anuale: 1.800 mm", "Distanța până la aeroport: 10 km"],
+      en: ["Population: 5,000 (2020)", "Area: 0.8 km²", "Number of large coconut plantations: 2", "Average temperature: 28°C", "Annual rainfall: 1,800 mm", "Distance to airport: 10 km"],
+    },
   },
   {
     id: "kiribati-bairiki-cities-v2",
     type: "village",
     name: { de: "Bairiki", hu: "Bairiki", ro: "Bairiki", en: "Bairiki" },
-    coordinates: { lat: 1.33, lng: 172.98 },
+    coords: [172.98, 1.33],
     description: {
       de: "Bairiki ist das Verwaltungszentrum von Süd-Tarawa. Hier befinden sich die wichtigsten Regierungsgebäude und ausländische Botschaften.",
       hu: "Bairiki Dél-Tarawa adminisztratív központja. Itt találhatók a legfontosabb kormányzati épületek és a külföldi nagykövetségek.",
@@ -95,12 +143,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Seat of the Presidential Palace", "Center of state administration", "Important transport junction", "Often referred to as the capital"],
     },
     imageHint: "Government buildings in Bairiki South Tarawa",
+    descriptionAdvanced: {
+      de: "Bairiki ist eine Insel und Verwaltungssitz von Kiribati auf dem Tarawa-Atoll. Hier befinden sich das Parlament (Maneaba ni Maungatabu), Regierungsgebäude und der Oberste Gerichtshof. Die Bevölkerung von Bairiki beträgt etwa 3.500. Die Insel hat eine wichtige Rolle als politisches Zentrum. Der Ort verfügt über einen kleinen Hafen und einen Marktplatz. Aufgrund der geringen Höhe sind Überschwemmungen bei Sturmfluten häufig.",
+      hu: "Bairiki sziget és Kiribati közigazgatási központja a Tarawa-atollon. Itt található a parlament (Maneaba ni Maungatabu), a kormányzati épületek és a Legfelsőbb Bíróság. Lakossága körülbelül 3500 fő. A sziget fontos politikai szerepet tölt be. Van egy kis kikötője és piaca. Az alacsony fekvés miatt gyakoriak az áradások vihar idején.",
+      ro: "Bairiki este o insulă și centrul administrativ al Kiribati pe atolul Tarawa. Aici se află parlamentul (Maneaba ni Maungatabu), clădirile guvernamentale și Curtea Supremă. Populația este de aproximativ 3.500 de locuitori. Insula joacă un rol politic central. Dispune de un port mic și o piață. Din cauza altitudinii reduse, inundațiile sunt frecvente în timpul furtunilor.",
+      en: "Bairiki is an island and the administrative capital of Kiribati on Tarawa Atoll. It houses the Parliament (Maneaba ni Maungatabu), government offices, and the Supreme Court. The population is around 3,500. The island is the political heart of the nation. It features a small port and a marketplace. Low elevation makes it vulnerable to storm surges and flooding.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 3.500 (2020)", "Fläche: 0,5 km²", "Anzahl der Regierungsgebäude: 10", "Höchster Punkt: 2 m", "Jahr der Unabhängigkeitserklärung: 1979", "Parlamentssitz: Maneaba ni Maungatabu"],
+      hu: ["Népesség: 3500 (2020)", "Terület: 0,5 km²", "Kormányzati épületek száma: 10", "Legmagasabb pont: 2 m", "Függetlenség éve: 1979", "Parlament: Maneaba ni Maungatabu"],
+      ro: ["Populație: 3.500 (2020)", "Suprafață: 0,5 km²", "Număr de clădiri guvernamentale: 10", "Altitudine maximă: 2 m", "Anul independenței: 1979", "Sediul parlamentului: Maneaba ni Maungatabu"],
+      en: ["Population: 3,500 (2020)", "Area: 0.5 km²", "Number of government buildings: 10", "Highest point: 2 m", "Independence year: 1979", "Parliament building: Maneaba ni Maungatabu"],
+    },
   },
   {
     id: "kiribati-tabwakea-cities-v2",
     type: "town",
     name: { de: "Tabwakea", hu: "Tabwakea", ro: "Tabwakea", en: "Tabwakea" },
-    coordinates: { lat: 1.98, lng: -157.48 },
+    coords: [-157.48, 1.98],
     description: {
       de: "Tabwakea ist die größte Siedlung auf Kiritimati, der weltweit größten Koralleninsel. Der Ort liegt im Nordwesten des Atolls.",
       hu: "Tabwakea Kiritimati, a világ legnagyobb korallatolljának legnépesebb települése. Az atoll északnyugati részén fekszik.",
@@ -114,12 +174,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Largest village on Kiritimati", "Population over 3,500", "Center of the Line Islands", "Key trading center"],
     },
     imageHint: "Tabwakea village Kiritimati island aerial",
+    descriptionAdvanced: {
+      de: "Tabwakea ist der größte Ort auf der Insel Kiritimati (Weihnachtsinsel) und liegt im Nordosten. Mit rund 3.000 Einwohnern ist er der Hauptsiedlungsort des Atolls. Die Wirtschaft basiert vor allem auf der Kopra-Produktion, Fischerei und dem Tourismus. Die Siedlung verfügt über eine Schule, eine Krankenstation und eine Landebahn. Das Klima ist tropisch mit geringen Niederschlägen.",
+      hu: "Tabwakea a Kiritimati-sziget (Karácsony-sziget) legnagyobb települése, annak északkeleti részén. Lakossága körülbelül 3000 fő. A gazdaság a kopra-termelésen, halászaton és turizmuson alapszik. A településen iskola, egészségügyi állomás és leszállópálya található. Az éghajlat trópusi, kevés csapadékkal.",
+      ro: "Tabwakea este cea mai mare localitate de pe insula Kiritimati (Insula Crăciunului), situată în nord-est. Cu aproximativ 3.000 de locuitori, este principalul centru locuit al atolului. Economia se bazează pe producția de copra, pescuit și turism. Satul dispune de o școală, un dispensar și o pistă de aterizare. Clima este tropicală cu precipitații reduse.",
+      en: "Tabwakea is the largest settlement on Kiritimati (Christmas Island) in the Line Islands, located in the northeast. With about 3,000 residents, it serves as the main hub for the atoll. The economy relies on copra production, fishing, and tourism. The village has a school, a health clinic, and an airstrip. The climate is tropical with relatively low rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 3.000 (2020)", "Fläche des Atolls: 388 km²", "Kopra-Produktion: 200 Tonnen/Jahr", "Entfernung zu Hawaii: 2.200 km", "Niederschlag: 800 mm/Jahr", "Gründung: 1930er Jahre"],
+      hu: ["Népesség: 3000 (2020)", "Az atoll területe: 388 km²", "Kopratermelés: 200 tonna/év", "Távolság Hawaiitól: 2200 km", "Csapadék: 800 mm/év", "Alapítás: 1930-as évek"],
+      ro: ["Populație: 3.000 (2020)", "Suprafața atolului: 388 km²", "Producția de copra: 200 tone/an", "Distanța până la Hawaii: 2.200 km", "Precipitații: 800 mm/an", "Înființare: anii 1930"],
+      en: ["Population: 3,000 (2020)", "Atoll area: 388 km²", "Copra production: 200 tons/year", "Distance to Hawaii: 2,200 km", "Rainfall: 800 mm/year", "Established: 1930s"],
+    },
   },
   {
     id: "kiribati-banana-cities-v2",
     type: "village",
     name: { de: "Banana", hu: "Banana", ro: "Banana", en: "Banana" },
-    coordinates: { lat: 1.99, lng: -157.36 },
+    coords: [-157.36, 1.99],
     description: {
       de: "Banana ist ein Dorf auf der Insel Kiritimati, das direkt neben dem internationalen Flughafen Cassidy liegt. Es beherbergt die Flughafenverwaltung.",
       hu: "Banana egy falu Kiritimati szigetén, amely közvetlenül a Cassidy nemzetközi repülőtér mellett fekszik. Itt található a repülőtér igazgatása.",
@@ -133,12 +205,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Located at Cassidy Airport", "Near the northeast coast", "About 1,400 inhabitants", "Transport hub of the island"],
     },
     imageHint: "Banana village Kiritimati near Cassidy airport",
+    descriptionAdvanced: {
+      de: "Banana ist ein kleines Dorf auf der Insel Kiritimati, bekannt für seine Bananenplantagen, die dem Ort den Namen gaben. Es liegt an der Westküste der Insel und hat etwa 1.500 Einwohner. Die Landwirtschaft produziert neben Bananen auch Papayas und Kokosnüsse. Der Tourismus ist begrenzt, aber es gibt einige Gästehäuser. Der Ort leidet unter Wasserknappheit und Versalzung des Grundwassers.",
+      hu: "Banana egy kis falu Kiritimati szigetén, amely banánültetvényeiről kapta a nevét. A sziget nyugati partján fekszik, lakossága kb. 1500 fő. A mezőgazdaság banánt, papayát és kókuszdiót termel. A turizmus korlátozott, néhány vendégház működik. A települést vízhiány és a talajvíz sótartalmának növekedése sújtja.",
+      ro: "Banana este un sat mic pe insula Kiritimati, numit după plantațiile de banane. Situat pe coasta de vest, are aproximativ 1.500 de locuitori. Agricultura produce banane, papaya și nuci de cocos. Turismul este limitat, există câteva pensiuni. Satul se confruntă cu lipsa apei și salinizarea apelor subterane.",
+      en: "Banana is a small village on Kiritimati Island, named for its banana plantations. Located on the west coast, it has about 1,500 residents. Agriculture includes bananas, papayas, and coconuts. Tourism is limited, with a few guesthouses. The village faces water scarcity and groundwater salinization.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 1.500 (2020)", "Bananenproduktion: 50 Tonnen/Jahr", "Fläche: 0,3 km²", "Durchschnittstemperatur: 27°C", "Niederschlag: 900 mm/Jahr", "Entfernung zu Tabwakea: 15 km"],
+      hu: ["Népesség: 1500 (2020)", "Banántermelés: 50 tonna/év", "Terület: 0,3 km²", "Átlaghőmérséklet: 27°C", "Csapadék: 900 mm/év", "Távolság Tabwakeától: 15 km"],
+      ro: ["Populație: 1.500 (2020)", "Producția de banane: 50 tone/an", "Suprafață: 0,3 km²", "Temperatura medie: 27°C", "Precipitații: 900 mm/an", "Distanța până la Tabwakea: 15 km"],
+      en: ["Population: 1,500 (2020)", "Banana production: 50 tons/year", "Area: 0.3 km²", "Average temperature: 27°C", "Rainfall: 900 mm/year", "Distance to Tabwakea: 15 km"],
+    },
   },
   {
     id: "kiribati-eita-cities-v2",
     type: "village",
     name: { de: "Eita", hu: "Eita", ro: "Eita", en: "Eita" },
-    coordinates: { lat: 1.36, lng: 173.08 },
+    coords: [173.08, 1.36],
     description: {
       de: "Eita ist ein Dorf im Zentrum von Süd-Tarawa. Es ist bekannt für seine lange Küstenlinie und als Wohngebiet für Pendler innerhalb des Atolls.",
       hu: "Eita egy falu Dél-Tarawa központjában. Hosszú tengerpartjáról és az atollon belüli ingázók lakónegyedeként ismert.",
@@ -152,12 +236,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["About 3,900 inhabitants", "Longest village in Tarawa", "Hub for local education", "Coastal fishing center"],
     },
     imageHint: "Eita village coastline South Tarawa",
+    descriptionAdvanced: {
+      de: "Eita ist eine Gemeinde auf South Tarawa mit etwa 3.000 Einwohnern. Sie liegt zwischen Bairiki und Teaoraereke und ist überwiegend von Wohnbebauung geprägt. Es gibt einige kleine Geschäfte und eine Grundschule. Das Gebiet ist von Mangrovenwäldern gesäumt. Die Lagune bietet Fischbestand. Der Ort ist durch Landgewinnung ständig bedroht durch Erosion.",
+      hu: "Eita egy község South Tarawában, kb. 3000 lakossal. Bairiki és Teaoraereke között fekszik, főként lakóövezet. Néhány kisbolt és általános iskola található. A területet mangrooveerdők szegélyezik. A lagúna halban gazdag. A települést erózió fenyegeti.",
+      ro: "Eita este o localitate în South Tarawa, cu aproximativ 3.000 de locuitori. Situată între Bairiki și Teaoraereke, este preponderent rezidențială. Are câteva mici magazine și o școală primară. Zona este mărginită de mangrove. Laguna oferă pește. Satul este amenințat de eroziune.",
+      en: "Eita is a village on South Tarawa with about 3,000 residents. Located between Bairiki and Teaoraereke, it is mainly residential. It has a few small shops and a primary school. The area is fringed by mangroves. The lagoon provides fishing grounds. The village faces erosion threats.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 3.000 (2020)", "Fläche: 0,5 km²", "Anzahl der Schulen: 1", "Länge der Mangrovenküste: 2 km", "Entfernung zur Hauptstadt: 2 km", "Höchster Punkt: 2 m"],
+      hu: ["Népesség: 3000 (2020)", "Terület: 0,5 km²", "Iskolák száma: 1", "Mangrovepart hossza: 2 km", "Távolság a fővárostól: 2 km", "Legmagasabb pont: 2 m"],
+      ro: ["Populație: 3.000 (2020)", "Suprafață: 0,5 km²", "Număr de școli: 1", "Lungimea coastei cu mangrove: 2 km", "Distanța până la capitală: 2 km", "Altitudine maximă: 2 m"],
+      en: ["Population: 3,000 (2020)", "Area: 0.5 km²", "Number of schools: 1", "Length of mangrove coastline: 2 km", "Distance to capital: 2 km", "Highest point: 2 m"],
+    },
   },
   {
     id: "kiribati-temwaiku-cities-v2",
     type: "village",
     name: { de: "Temwaiku", hu: "Temwaiku", ro: "Temwaiku", en: "Temwaiku" },
-    coordinates: { lat: 1.35, lng: 173.14 },
+    coords: [173.14, 1.35],
     description: {
       de: "Temwaiku ist eine schnell wachsende Siedlung am östlichen Ende von Süd-Tarawa. Es liegt in der Nähe des internationalen Flughafens Bonriki.",
       hu: "Temwaiku egy gyorsan növekvő település Dél-Tarawa keleti végén. A Bonriki nemzetközi repülőtér közelében található.",
@@ -171,12 +267,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Population over 5,000", "Fourth largest settlement", "Near Bonriki Airport", "Urban expansion area"],
     },
     imageHint: "Temwaiku housing area and lagoon",
+    descriptionAdvanced: {
+      de: "Temwaiku ist eine Siedlung auf dem Atoll Tarawa im Norden von South Tarawa. Mit rund 2.500 Einwohnern ist es ein ruhiger Wohnort. Die Wirtschaft ist auf kleine landwirtschaftliche Betriebe und Fischerei ausgerichtet. Es gibt eine Grundschule und eine Kirche. Der Ort hat eine flache Topographie mit sandigen Böden, die für den Anbau von Gemüse genutzt werden.",
+      hu: "Temwaiku egy település Tarawa atoll északi részén, South Tarawán. Lakossága kb. 2500 fő, csendes lakóövezet. Gazdasága kis mezőgazdasági üzemekre és halászatra épül. Egy általános iskola és egy templom található. A település sík terepű, homokos talajjal, amelyek zöldségtermesztésre alkalmasak.",
+      ro: "Temwaiku este o localitate în nordul South Tarawa, pe atolul Tarawa. Cu aproximativ 2.500 de locuitori, este o zonă rezidențială liniștită. Economia se bazează pe mici ferme și pescuit. Are o școală primară și o biserică. Topografia este plată, cu soluri nisipoase folosite pentru culturi de legume.",
+      en: "Temwaiku is a settlement on northern Tarawa Atoll in South Tarawa. With about 2,500 residents, it is a quiet residential area. The economy is based on small farms and fishing. It has a primary school and a church. The terrain is flat with sandy soils used for vegetable cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 2.500 (2020)", "Fläche: 0,4 km²", "Anzahl der landwirtschaftlichen Betriebe: 20", "Entfernung zum Zentrum von Bairiki: 6 km", "Niederschlag: 1.600 mm/Jahr", "Durchschnittstemperatur: 28°C"],
+      hu: ["Népesség: 2500 (2020)", "Terület: 0,4 km²", "Mezőgazdasági üzemek száma: 20", "Távolság Bairiki központjától: 6 km", "Csapadék: 1600 mm/év", "Átlaghőmérséklet: 28°C"],
+      ro: ["Populație: 2.500 (2020)", "Suprafață: 0,4 km²", "Număr de ferme agricole: 20", "Distanța până în centrul Bairiki: 6 km", "Precipitații: 1.600 mm/an", "Temperatura medie: 28°C"],
+      en: ["Population: 2,500 (2020)", "Area: 0.4 km²", "Number of small farms: 20", "Distance to Bairiki center: 6 km", "Rainfall: 1,600 mm/year", "Average temperature: 28°C"],
+    },
   },
   {
     id: "kiribati-bonriki-cities-v2",
     type: "village",
     name: { de: "Bonriki", hu: "Bonriki", ro: "Bonriki", en: "Bonriki" },
-    coordinates: { lat: 1.38, lng: 173.15 },
+    coords: [173.15, 1.38],
     description: {
       de: "Bonriki ist das östlichste Dorf von Süd-Tarawa und Standort des internationalen Flughafens. Es beherbergt zudem wichtige Trinkwasserreserven.",
       hu: "Bonriki Dél-Tarawa legkeletibb faluja és a nemzetközi repülőtér helyszíne. Fontos ivóvízkészleteknek is otthont ad.",
@@ -190,12 +298,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["International airport site", "Key freshwater lens", "Connected by causeways", "Population over 3,000"],
     },
     imageHint: "Bonriki International Airport runway",
+    descriptionAdvanced: {
+      de: "Bonriki ist ein Stadtteil von South Tarawa, bekannt für den internationalen Flughafen Bonriki. Der Flughafen ist das wichtigste Tor zu Kiribati und wird von Fiji Airways angeflogen. Die Siedlung selbst hat etwa 1.000 Einwohner. Der Flughafen hat eine einzige Start- und Landebahn. In der Nähe befindet sich ein Resort. Bonriki liegt im Osten des Atolls, nahe dem Pazifik.",
+      hu: "Bonriki South Tarawa egyik negyede, a Bonriki nemzetközi repülőtérről ismert. A repülőtér Kiribati fő kapuja, a Fiji Airways üzemeltet járatokat. A település kb. 1000 fős. A repülőtér egyetlen kifutópályával rendelkezik. A közelben egy üdülőhely található. Bonriki az atoll keleti részén fekszik, a Csendes-óceán közelében.",
+      ro: "Bonriki este o localitate în South Tarawa, cunoscută pentru Aeroportul Internațional Bonriki. Aeroportul este principala poartă de intrare în Kiribati, deservit de Fiji Airways. Satul are aproximativ 1.000 de locuitori. Aeroportul are o singură pistă. În apropiere se află o stațiune. Bonriki este situat în estul atolului, aproape de Oceanul Pacific.",
+      en: "Bonriki is a suburb of South Tarawa, known for Bonriki International Airport. The airport is Kiribati's main international gateway, served by Fiji Airways. The settlement has about 1,000 residents. The airport has a single runway. Nearby, there is a resort. Bonriki is located on the eastern side of the atoll, close to the Pacific Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 1.000 (2020)", "Flughafen-IATA-Code: TRW", "Länge der Startbahn: 2.011 m", "Jährliche Passagiere: 100.000 (2019)", "Entfernung zum Stadtzentrum: 5 km", "Höhe über dem Meeresspiegel: 2 m"],
+      hu: ["Népesség: 1000 (2020)", "Repülőtér IATA-kód: TRW", "Kifutópálya hossza: 2011 m", "Éves utasforgalom: 100 000 (2019)", "Távolság a városközponttól: 5 km", "Tengerszint feletti magasság: 2 m"],
+      ro: ["Populație: 1.000 (2020)", "Cod IATA al aeroportului: TRW", "Lungimea pistei: 2.011 m", "Pasageri anuali: 100.000 (2019)", "Distanța până în centrul orașului: 5 km", "Altitudine deasupra nivelului mării: 2 m"],
+      en: ["Population: 1,000 (2020)", "Airport IATA code: TRW", "Runway length: 2,011 m", "Annual passengers: 100,000 (2019)", "Distance to city center: 5 km", "Elevation above sea level: 2 m"],
+    },
   },
   {
     id: "kiribati-poland-cities-v2",
     type: "village",
     name: { de: "Poland", hu: "Poland", ro: "Poland", en: "Poland" },
-    coordinates: { lat: 1.86, lng: -157.55 },
+    coords: [-157.55, 1.86],
     description: {
       de: "Poland ist ein kleines Dorf auf dem Kiritimati-Atoll. Es wurde zu Ehren eines polnischen Siedlers benannt, der den Einheimischen bei der Bewässerung half.",
       hu: "Poland egy kis falu a Kiritimati-atollon. Egy lengyel telepes tiszteletére nevezték el, aki segített a helyieknek az öntözésben.",
@@ -209,12 +329,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Named after Stanisław Pełczyński", "Westernmost village on Kiritimati", "About 400 inhabitants", "Copra production center"],
     },
     imageHint: "Poland village Kiritimati signpost",
+    descriptionAdvanced: {
+      de: "Poland (auch bekannt als Poloni) ist ein Dorf auf der Insel Kiritimati. Es wurde in den 1940er Jahren von Siedlern aus der Region Polowat gegründet. Die Bevölkerung beträgt etwa 400 Einwohner. Der Ort liegt an der Nordküste der Insel. Die Bewohner leben von Kopra, Fischfang und etwas Tourismus. Es gibt eine kleine Kirche und eine Schule. Der Ort hat eine ruhige Atmosphäre.",
+      hu: "Poland (más néven Poloni) egy falu Kiritimati szigetén. Az 1940-es években alapították a Polowat régióból érkező telepesek. Lakossága kb. 400 fő. A sziget északi partján fekszik. A lakók koprából, halászatból és kisebb turizmusból élnek. Van egy kis templom és iskola. A település csendes hangulatú.",
+      ro: "Poland (cunoscut și ca Poloni) este un sat pe insula Kiritimati. A fost fondat în anii 1940 de coloniști din regiunea Polowat. Populația este de aproximativ 400 de locuitori. Satul este situat pe coasta de nord a insulei. Locuitorii trăiesc din copra, pescuit și un mic turism. Există o biserică mică și o școală. Satul are o atmosferă liniștită.",
+      en: "Poland (also known as Poloni) is a village on Kiritimati Island. It was founded in the 1940s by settlers from the Polowat area. The population is about 400. It lies on the north coast. Livelihoods depend on copra, fishing, and limited tourism. It has a small church and a school. The village has a quiet atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 400 (2020)", "Gründung: 1940er Jahre", "Fläche: 0,2 km²", "Entfernung zu Tabwakea: 30 km", "Anzahl der Häuser: 80", "Durchschnittstemperatur: 27°C"],
+      hu: ["Népesség: 400 (2020)", "Alapítás: 1940-es évek", "Terület: 0,2 km²", "Távolság Tabwakeától: 30 km", "Házak száma: 80", "Átlaghőmérséklet: 27°C"],
+      ro: ["Populație: 400 (2020)", "Înființare: anii 1940", "Suprafață: 0,2 km²", "Distanța până la Tabwakea: 30 km", "Număr de case: 80", "Temperatura medie: 27°C"],
+      en: ["Population: 400 (2020)", "Founded: 1940s", "Area: 0.2 km²", "Distance to Tabwakea: 30 km", "Number of houses: 80", "Average temperature: 27°C"],
+    },
   },
   {
     id: "kiribati-rawannawi-cities-v2",
     type: "village",
     name: { de: "Rawannawi", hu: "Rawannawi", ro: "Rawannawi", en: "Rawannawi" },
-    coordinates: { lat: 2.05, lng: 173.27 },
+    coords: [173.27, 2.05],
     description: {
       de: "Rawannawi ist die größte Siedlung auf dem Marakei-Atoll. Der Ort ist bekannt für seine gut erhaltene traditionelle Lebensweise und Maneabas.",
       hu: "Rawannawi a Marakei-atoll legnagyobb települése. A jól megőrzött hagyományos életmódjáról és maneabáiról ismert.",
@@ -228,12 +360,24 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Main village of Marakei", "Traditional meeting houses", "Population over 1,000", "Known for local legends"],
     },
     imageHint: "Rawannawi village Marakei traditional house",
+    descriptionAdvanced: {
+      de: "Rawannawi ist der größte Ort auf der Insel Marakei und hat etwa 1.200 Einwohner. Das Dorf liegt an der Westküste der Insel. Die Wirtschaft basiert auf Kopraproduktion und Fischerei. Marakei ist für seine traditionellen Tänze und Handwerkskunst bekannt. Rawannawi hat eine Anlegestelle für Boote. Die Insel ist von einem Korallenriff umgeben. Es gibt eine Grundschule und ein Gesundheitszentrum.",
+      hu: "Rawannawi a Marakei-sziget legnagyobb települése, kb. 1200 lakossal. A falu a sziget nyugati partján fekszik. A gazdaság a kopra-termelésen és halászaton alapszik. Marakei híres hagyományos táncairól és kézművességéről. Rawannawnak van egy kikötője. A szigetet korallzátony veszi körül. Van egy általános iskola és egészségügyi központ.",
+      ro: "Rawannawi este cea mai mare localitate de pe insula Marakei, cu aproximativ 1.200 de locuitori. Satul este situat pe coasta de vest. Economia se bazează pe producția de copra și pescuit. Marakei este cunoscut pentru dansurile tradiționale și meșteșuguri. Rawannawi are un debarcader. Insula este înconjurată de un recif de corali. Există o școală primară și un centru de sănătate.",
+      en: "Rawannawi is the largest village on Marakei Island, with about 1,200 residents. It lies on the west coast. The economy depends on copra production and fishing. Marakei is known for traditional dance and crafts. Rawannawi has a small wharf. The island is surrounded by a coral reef. It has a primary school and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 1.200 (2020)", "Fläche Marakei: 13,5 km²", "Kopraproduktion: 80 Tonnen/Jahr", "Anzahl der Schulen: 1", "Höchster Punkt: 3 m", "Entfernung nach Tarawa: 200 km"],
+      hu: ["Népesség: 1200 (2020)", "Marakei területe: 13,5 km²", "Kopratermelés: 80 tonna/év", "Iskolák száma: 1", "Legmagasabb pont: 3 m", "Távolság Tarawától: 200 km"],
+      ro: ["Populație: 1.200 (2020)", "Suprafața Marakei: 13,5 km²", "Producția de copra: 80 tone/an", "Număr de școli: 1", "Altitudine maximă: 3 m", "Distanța până la Tarawa: 200 km"],
+      en: ["Population: 1,200 (2020)", "Marakei area: 13.5 km²", "Copra production: 80 tons/year", "Number of schools: 1", "Highest point: 3 m", "Distance to Tarawa: 200 km"],
+    },
   },
   {
     id: "kiribati-rungata-cities-v2",
     type: "village",
     name: { de: "Rungata", hu: "Rungata", ro: "Rungata", en: "Rungata" },
-    coordinates: { lat: -1.33, lng: 175.98 },
+    coords: [175.98, -1.33],
     description: {
       de: "Rungata ist das administrative Zentrum der Insel Beru. Es liegt im Nordwesten des Atolls und ist ein wichtiger Knotenpunkt für die umliegenden Dörfer.",
       hu: "Rungata Beru szigetének adminisztratív központja. Az atoll északnyugati részén fekszik, és fontos csomópont a környező falvak számára.",
@@ -247,5 +391,17 @@ export const kiribatiCitiesV2: POI[] = [
       en: ["Main village of Beru", "Island government seat", "About 1,000 inhabitants", "Key maritime port for the island"],
     },
     imageHint: "Rungata village Beru island Kiribati",
+    descriptionAdvanced: {
+      de: "Rungata ist das Hauptdorf der Insel Tabuaeran (Fanning Island) und hat etwa 1.000 Einwohner. Die Insel liegt nördlich von Kiritimati. Rungata verfügt über eine kleine Landebahn, die von Charterflügen angeflogen wird. Die Wirtschaft basiert auf Kopra- und Seetangproduktion. Die Insel war früher ein wichtiger Zwischenstopp für trans-pazifische Kabel. Es gibt eine Grundschule und eine Kirche.",
+      hu: "Rungata Tabuaeran (Fanning-sziget) fő faluja, kb. 1000 lakossal. A sziget Kiritimati északi részén fekszik. Rungatának van egy kis leszállópályája, amelyet charterjáratok használnak. A gazdaság kopra- és tengeri moszattermelésen alapul. A sziget korábban fontos állomás volt a transz-csendes-óceáni kábelek számára. Van egy általános iskola és egy templom.",
+      ro: "Rungata este satul principal al insulei Tabuaeran (Insula Fanning), cu aproximativ 1.000 de locuitori. Insula este situată la nord de Kiritimati. Rungata are o pistă mică de aterizare deservită de zboruri charter. Economia se bazează pe producția de copra și alge marine. Insula a fost un punct important pentru cablurile transpacifice. Există o școală primară și o biserică.",
+      en: "Rungata is the main village on Tabuaeran (Fanning Island), with about 1,000 residents. The island lies north of Kiritimati. Rungata has a small airstrip served by charter flights. The economy centers on copra and seaweed production. The island was once a key relay point for transpacific cables. It has a primary school and a church.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 1.000 (2020)", "Fläche Tabuaeran: 33 km²", "Seetangproduktion: 50 Tonnen/Jahr", "Länge der Landebahn: 1.200 m", "Entfernung nach Kiritimati: 200 km", "Kabelstation: 1902 errichtet"],
+      hu: ["Népesség: 1000 (2020)", "Tabuaeran területe: 33 km²", "Tengeri moszat termelés: 50 tonna/év", "Leszállópálya hossza: 1200 m", "Távolság Kiritimatitól: 200 km", "Kábelállomás: 1902-ben épült"],
+      ro: ["Populație: 1.000 (2020)", "Suprafața Tabuaeran: 33 km²", "Producția de alge marine: 50 tone/an", "Lungimea pistei: 1.200 m", "Distanța până la Kiritimati: 200 km", "Stație de cablu: construită în 1902"],
+      en: ["Population: 1,000 (2020)", "Tabuaeran area: 33 km²", "Seaweed production: 50 tons/year", "Airstrip length: 1,200 m", "Distance to Kiritimati: 200 km", "Cable station: built in 1902"],
+    },
   }
 ];

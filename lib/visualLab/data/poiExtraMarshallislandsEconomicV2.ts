@@ -5,7 +5,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-port-of-majuro-economic-v2",
     type: "port",
     name: { de: "Hafen von Majuro", hu: "Majuroi kikötő", ro: "Portul Majuro", en: "Port of Majuro" },
-    coordinates: { lat: 7.108, lng: 171.378 },
+    coords: [171.378, 7.108],
     description: {
       de: "Der wichtigste Hafen für den internationalen Handel und den Thunfischumschlag. Er unterstützt die Logistik- und Fischereiindustrie des Landes.",
       hu: "A nemzetközi kereskedelem és a tonhal-átrakodás legfontosabb kikötője. Támogatja az ország logisztikai és halászati ágazatait.",
@@ -24,7 +24,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-tobolar-processing-plant-economic-v2",
     type: "factory",
     name: { de: "Tobolar Kopra-Verarbeitungsanlage", hu: "Tobolar kopra-feldolgozó üzem", ro: "Fabrica de procesare Tobolar", en: "Tobolar Copra Processing Plant" },
-    coordinates: { lat: 7.112, lng: 171.372 },
+    coords: [171.372, 7.112],
     description: {
       de: "Diese Anlage verarbeitet getrocknetes Kokosfleisch zu Kokosöl und Seife. Sie bildet das Rückgrat der lokalen Exportwirtschaft.",
       hu: "Ez az üzem a szárított kókuszdiót kókuszolajjá és szappanná dolgozza fel. A helyi exportgazdaság gerincét alkotja.",
@@ -43,7 +43,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-kwajalein-tech-center-economic-v2",
     type: "industry",
     name: { de: "Kwajalein Technologiezentrum", hu: "Kwajalein Technológiai Központ", ro: "Centrul Tehnologic Kwajalein", en: "Kwajalein Technology Center" },
-    coordinates: { lat: 8.718, lng: 167.733 },
+    coords: [167.733, 8.718],
     description: {
       de: "Ein Hochtechnologiezentrum für Raketentests und Satellitenverfolgung. Es ist eine der wichtigsten Einnahmequellen des Landes.",
       hu: "Csúcstechnológiai központ rakétakísérletekhez és műholdkövetéshez. Az ország egyik legfontosabb bevételi forrása.",
@@ -62,7 +62,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-delap-business-district-economic-v2",
     type: "industry",
     name: { de: "Wirtschaftsviertel Delap", hu: "Delap üzleti negyed", ro: "Districtul comercial Delap", en: "Delap Business District" },
-    coordinates: { lat: 7.091, lng: 171.38 },
+    coords: [171.38, 7.091],
     description: {
       de: "Das kommerzielle Herz von Majuro mit Banken, Regierungsgebäuden und Einzelhandel. Hier konzentriert sich die nationale Verwaltung.",
       hu: "Majuro kereskedelmi szíve bankokkal, kormányzati épületekkel és üzletekkel. Itt összpontosul az országos adminisztráció.",
@@ -81,7 +81,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-ship-registry-hq-economic-v2",
     type: "landmark",
     name: { de: "Schiffsregister-Hauptquartier", hu: "Hajóregiszter központ", ro: "Sediul Registrului Naval", en: "Ship Registry Headquarters" },
-    coordinates: { lat: 7.086, lng: 171.381 },
+    coords: [171.381, 7.086],
     description: {
       de: "Verwaltungszentrum für eines der weltweit größten Schiffsregister. Es bietet rechtliche und kommerzielle Dienstleistungen für Reedereien.",
       hu: "A világ egyik legnagyobb hajóregiszterének adminisztratív központja. Jogi és kereskedelmi szolgáltatásokat nyújt a hajózási cégeknek.",
@@ -100,7 +100,7 @@ export const marshallislandsEconomicV2: POI[] = [
     id: "marshallislands-laura-agriculture-center-economic-v2",
     type: "landmark",
     name: { de: "Agrarzentrum Laura", hu: "Laura mezőgazdasági központ", ro: "Centrul agricol Laura", en: "Laura Agriculture Center" },
-    coordinates: { lat: 7.135, lng: 171.045 },
+    coords: [171.045, 7.135],
     description: {
       de: "Das wichtigste landwirtschaftliche Gebiet von Majuro. Es produziert Obst und Gemüse für den lokalen Markt und fördert die Ernährungssicherheit.",
       hu: "Majuro legfontosabb mezőgazdasági területe. Gyümölcsöt és zöldséget termel a helyi piacra és javítja az élelmiszerbiztonságot.",
@@ -114,12 +114,24 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Features the largest freshwater lens", "Produces bananas, papayas, and breadfruit", "Center for agricultural research", "Primary supplier for the Majuro market"],
     },
     imageHint: "Lush vegetable farms in Laura village Majuro",
+    descriptionAdvanced: {
+      de: "Das Laura Agriculture Center auf dem Majuro-Atoll ist eine zentrale Einrichtung zur Förderung der landwirtschaftlichen Selbstversorgung der Marshallinseln. Es dient als Forschungsstation und Schulungszentrum für lokale Landwirte, insbesondere im Anbau von tropischen Früchten, Wurzelgemüse und Nutzpflanzen. Das Zentrum erprobt nachhaltige Anbaumethoden, die an das maritime Klima und die kargen Böden der Atolle angepasst sind. Neben der Produktion von Setzlingen und Saatgut bietet das Zentrum Kurse in nachhaltiger Landwirtschaft und Ernährungssicherheit an. Die Einrichtung spielt eine wichtige Rolle bei der Reduzierung der Abhängigkeit von importierten Lebensmitteln. Durch Projekte wie die Einführung von wassersparenden Bewässerungssystemen und den Einsatz von lokal produziertem Kompost trägt es zur ökologischen und ökonomischen Stabilität der Inseln bei.",
+      hu: "A Laura Mezőgazdasági Központ a Marshall-szigetek mezőgazdasági önellátásának előmozdítására létesült a Majuro-atollon. Kutatóállomásként és képzőközpontként szolgál a helyi gazdálkodók számára, különös tekintettel a trópusi gyümölcsök, gyökérzöldségek és haszonnövények termesztésére. A központ fenntartható gazdálkodási módszereket tesztel, amelyek alkalmazkodnak az atollok tengeri klímájához és szegényes talajához. Palánták és vetőmagok előállítása mellett tanfolyamokat is kínál a fenntartható mezőgazdaság és élelmiszer-biztonság területén. A létesítmény kulcsszerepet játszik az importált élelmiszerektől való függőség csökkentésében. Olyan projektek révén, mint a víztakarékos öntözőrendszerek bevezetése és a helyi komposzt használata, hozzájárul a szigetek ökológiai és gazdasági stabilitásához.",
+      ro: "Centrul Agricol Laura, situat pe atolul Majuro, este o instituție cheie pentru promovarea autosuficienței agricole a Insulelor Marshall. Funcționează ca o stație de cercetare și un centru de formare pentru fermierii locali, concentrându-se pe cultivarea fructelor tropicale, a legumelor rădăcinoase și a culturilor de bază. Centrul testează metode agricole durabile adaptate climatului maritim și solurilor sărace ale atolurilor. Pe lângă producerea de răsaduri și semințe, oferă cursuri în domeniul agriculturii durabile și al securității alimentare. Facilitatea joacă un rol important în reducerea dependenței de alimentele importate. Prin proiecte precum introducerea sistemelor de irigații economice și utilizarea compostului local, contribuie la stabilitatea ecologică și economică a insulelor.",
+      en: "The Laura Agriculture Center on Majuro Atoll is a pivotal institution for enhancing agricultural self-sufficiency in the Marshall Islands. It serves as a research station and training hub for local farmers, focusing on tropical fruits, root vegetables, and staple crops. The center tests sustainable farming techniques adapted to the maritime climate and poor soils of the atolls. Besides producing seedlings and seeds, it offers courses in sustainable agriculture and food security. This facility plays a crucial role in reducing reliance on imported food. Through projects like water-efficient irrigation and local compost production, it contributes to the ecological and economic stability of the islands.",
+    },
+    factsAdvanced: {
+      de: ["Das Laura Agriculture Center wurde 2003 gegründet.", "Es verfügt über eine Anbaufläche von etwa 10 Hektar.", "Jährlich produziert das Zentrum über 50.000 Setzlinge.", "Die durchschnittliche Niederschlagsmenge in Laura beträgt 3.500 mm pro Jahr.", "Etwa 80 % der Lehrgangsteilnehmer sind Frauen.", "Das Zentrum arbeitet mit der University of the South Pacific zusammen."],
+      hu: ["A Laura Mezőgazdasági Központot 2003-ban alapították.", "A központ területe körülbelül 10 hektár.", "Évente több mint 50.000 palántát termel.", "Laura átlagos éves csapadékmennyisége 3500 mm.", "A tanfolyamok résztvevőinek kb. 80%-a nő.", "A központ együttműködik a Dél-Csendes-óceáni Egyetemmel."],
+      ro: ["Centrul Agricol Laura a fost înființat în 2003.", "Are o suprafață cultivată de aproximativ 10 hectare.", "Produce anual peste 50.000 de răsaduri.", "Precipitațiile medii anuale în Laura sunt de 3.500 mm.", "Aproximativ 80% dintre participanții la cursuri sunt femei.", "Centrul colaborează cu Universitatea din Pacificul de Sud."],
+      en: ["The Laura Agriculture Center was established in 2003.", "It covers about 10 hectares of cultivated land.", "Annually, it produces over 50,000 seedlings.", "Average annual rainfall in Laura is 3,500 mm.", "About 80% of course participants are women.", "The center collaborates with the University of the South Pacific."],
+    },
   },
   {
     id: "marshallislands-wotje-trade-post-economic-v2",
     type: "port",
     name: { de: "Handelsposten Wotje", hu: "Wotje kereskedelmi állomás", ro: "Postul comercial Wotje", en: "Wotje Trade Post" },
-    coordinates: { lat: 9.458, lng: 170.237 },
+    coords: [170.237, 9.458],
     description: {
       de: "Ein wichtiges Handelszentrum für die nördlichen Atolle. Es dient als Sammelstelle für Kopra und als Verteilerzentrum für Waren.",
       hu: "Fontos kereskedelmi központ az északi atollok számára. Kopra-gyűjtőhelyként és áruelosztó központként szolgál.",
@@ -133,12 +145,24 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Central logistics point for the Ratak Chain", "Transshipment hub for agricultural goods", "Important stop for supply vessels", "Supports the economy of outer islands"],
     },
     imageHint: "Small trade boat at Wotje Atoll pier",
+    descriptionAdvanced: {
+      de: "Der Wotje Trade Post ist ein historischer Handelsposten auf dem Wotje-Atoll, der während der deutschen Kolonialzeit und später unter japanischer Herrschaft als wichtiger Umschlagplatz für Kopra und andere Inselprodukte diente. Nach dem Zweiten Weltkrieg verlor der Posten an Bedeutung, blieb aber ein zentraler Ort für den lokalen Austausch von Gütern. Heute wird der Handelsposten von der lokalen Genossenschaft betrieben, die Fischerei- und Agrarprodukte vermarktet. Die Anlage umfasst Lagerhäuser, einen kleinen Hafen und Verkaufsräume. Der Posten unterstützt die wirtschaftliche Aktivität auf dem Atoll, indem er den Inselbewohnern Zugang zu Märkten und grundlegenden Versorgungsgütern bietet. Aufgrund der Abgeschiedenheit des Atolls ist der Posten für die Versorgungssicherheit von großer Bedeutung.",
+      hu: "A wotjei kereskedelmi állomás történelmi jelentőségű telep a Wotje-atollon, amely a német gyarmati időkben, majd a japán uralom alatt a kopra és más szigeti termékek fontos átrakodóhelye volt. A második világháború után az állomás jelentősége csökkent, de továbbra is központi szerepet játszott a helyi árucserében. Ma a helyi szövetkezet üzemelteti, amely halászati és mezőgazdasági termékeket forgalmaz. A létesítmény raktárakat, egy kis kikötőt és eladóhelyiségeket foglal magában. Az állomás támogatja az atoll gazdasági aktivitását azáltal, hogy hozzáférést biztosít a piacokhoz és alapvető fogyasztási cikkekhez. Az atoll elszigeteltsége miatt az állomás létfontosságú az ellátásbiztonság szempontjából.",
+      ro: "Postul comercial Wotje este un punct comercial istoric pe atolul Wotje, care a servit ca un important centru de tranzit pentru copra și alte produse ale insulelor în perioada colonială germană și ulterior sub dominația japoneză. După al Doilea Război Mondial, postul și-a pierdut din importanță, dar a rămas un loc central pentru schimbul local de bunuri. Astăzi, este operat de cooperativa locală, care comercializează produse pescărești și agricole. Facilitatea include depozite, un mic port și spații de vânzare. Postul sprijină activitatea economică pe atol, oferind acces la piețe și bunuri esențiale. Datorită izolării atolului, postul este crucial pentru securitatea aprovizionării.",
+      en: "The Wotje Trade Post is a historic trading station on Wotje Atoll, which served as a major transshipment point for copra and other island products during the German colonial period and later under Japanese rule. After World War II, the post declined in importance but remained a central venue for local goods exchange. Today, it is operated by the local cooperative, marketing fishery and agricultural products. The facility includes warehouses, a small port, and sales rooms. The post supports economic activity on the atoll by providing access to markets and basic supplies. Due to the atoll's isolation, the post is vital for supply security.",
+    },
+    factsAdvanced: {
+      de: ["Der Handelsposten wurde 1888 von deutschen Händlern gegründet.", "Wotje-Atoll hat eine Landfläche von etwa 4,3 km².", "Die Bevölkerung von Wotje beträgt rund 1.000 Einwohner (Stand 2021).", "Kopra machte historisch über 70 % des Exports aus.", "Die Genossenschaft beschäftigt etwa 20 lokale Mitarbeiter.", "Der Posten verfügt über einen Lagerraum von 500 m²."],
+      hu: ["A kereskedelmi állomást 1888-ban alapították német kereskedők.", "A Wotje-atoll szárazföldi területe körülbelül 4,3 km².", "Wotje lakossága körülbelül 1000 fő (2021-es adat).", "A kopra történelmileg az export több mint 70%-át tette ki.", "A szövetkezet körülbelül 20 helyi alkalmazottat foglalkoztat.", "Az állomás raktárkapacitása 500 m²."],
+      ro: ["Postul a fost înființat în 1888 de comercianți germani.", "Atolul Wotje are o suprafață terestră de aproximativ 4,3 km².", "Populația insulei Wotje este de circa 1.000 locuitori (2021).", "Copra reprezenta istoric peste 70% din exporturi.", "Cooperativa angajează aproximativ 20 de localnici.", "Depozitul are o capacitate de 500 m²."],
+      en: ["The trade post was established in 1888 by German traders.", "Wotje Atoll has a land area of about 4.3 km².", "The population of Wotje is around 1,000 (as of 2021).", "Copra historically made up over 70% of exports.", "The cooperative employs about 20 local workers.", "The warehouse capacity is 500 m²."],
+    },
   },
   {
     id: "marshallislands-ebeye-economic-hub-economic-v2",
     type: "town",
     name: { de: "Wirtschaftszentrum Ebeye", hu: "Ebeye gazdasági csomópont", ro: "Centrul economic Ebeye", en: "Ebeye Economic Hub" },
-    coordinates: { lat: 8.778, lng: 167.736 },
+    coords: [167.736, 8.778],
     description: {
       de: "Das am dichtesten besiedelte Handelszentrum des Landes. Es bietet Arbeitskräfte und Dienstleistungen für die nahegelegene Militärbasis.",
       hu: "Az ország legsűrűbben lakott kereskedelmi központja. Munkaerőt és szolgáltatásokat nyújt a közeli katonai bázisnak.",
@@ -152,12 +176,24 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Hub for local retail commerce", "Residence for the Kwajalein workforce", "Second largest population center in the nation", "Features its own desalination plant"],
     },
     imageHint: "Dense commercial buildings on Ebeye island",
+    descriptionAdvanced: {
+      de: "Ebeye ist das wirtschaftliche Zentrum des Kwajalein-Atolls und der zweitgrößte besiedelte Ort der Marshallinseln. Die Insel ist extrem dicht besiedelt, mit über 15.000 Einwohnern auf nur 0,36 km². Die Wirtschaft basiert hauptsächlich auf der Unterstützung der nahegelegenen US-Raketenabschussbasis auf Kwajalein, was Arbeitsplätze in den Bereichen Dienstleistung, Bau und Verwaltung schafft. Zudem gibt es einen kleinen Fischereihafen und lokale Märkte. Ebeye hat eine Schule, ein Krankenhaus und eine Kirche. Die hohe Bevölkerungsdichte führt zu sozialen und ökologischen Herausforderungen, wie Abwasserproblemen und Wohnungsnot. Trotzdem bleibt Ebeye ein wichtiger Knotenpunkt für Handel und Dienstleistungen im Atoll.",
+      hu: "Ebeye a Kwajalein-atoll gazdasági központja és a Marshall-szigetek második legnépesebb települése. A sziget rendkívül sűrűn lakott, több mint 15.000 lakossal mindössze 0,36 km²-en. A gazdaság elsősorban a közeli kwajaleini amerikai rakétakilövő bázis támogatásán alapul, ami munkahelyeket teremt a szolgáltatás, építőipar és közigazgatás területén. Emellett van egy kis halászati kikötő és helyi piacok is. Ebeye-n iskola, kórház és templom is működik. A magas népsűrűség társadalmi és környezeti kihívásokhoz vezet, mint a szennyvízproblémák és lakáshiány. Ennek ellenére Ebeye fontos csomópont marad a kereskedelem és szolgáltatások számára az atollon.",
+      ro: "Ebeye este centrul economic al atolului Kwajalein și a doua cea mai populată așezare din Insulele Marshall. Insula este extrem de dens populată, cu peste 15.000 de locuitori pe doar 0,36 km². Economia se bazează în principal pe sprijinirea bazei americane de lansare a rachetelor de pe Kwajalein, ceea ce creează locuri de muncă în servicii, construcții și administrație. Există, de asemenea, un mic port de pescuit și piețe locale. Ebeye are o școală, un spital și o biserică. Densitatea mare a populației duce la provocări sociale și de mediu, cum ar fi problemele de canalizare și lipsa locuințelor. Cu toate acestea, Ebeye rămâne un nod important pentru comerț și servicii în atol.",
+      en: "Ebeye is the economic hub of Kwajalein Atoll and the second most populous settlement in the Marshall Islands. The island is extremely densely populated, with over 15,000 residents on only 0.36 km². The economy relies heavily on supporting the nearby U.S. missile range on Kwajalein, creating jobs in services, construction, and administration. There is also a small fishing port and local markets. Ebeye has a school, a hospital, and a church. High population density leads to social and environmental challenges, such as sewage issues and housing shortages. Nevertheless, Ebeye remains a key node for trade and services in the atoll.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerungsdichte von Ebeye beträgt über 41.000 Einwohner pro km².", "Die Insel hat eine Fläche von nur 0,36 km².", "Etwa 60 % der Erwerbstätigen arbeiten für die US-Militärbasis.", "Das Durchschnittseinkommen liegt bei etwa 12.000 USD pro Jahr.", "Es gibt drei Supermärkte und einen wöchentlichen Bauernmarkt.", "Die Stromversorgung erfolgt durch dieselbetriebene Generatoren, die jährlich 2 Mio. US-Dollar kosten."],
+      hu: ["Ebeye népsűrűsége meghaladja a 41.000 fő/km²-t.", "A sziget területe mindössze 0,36 km².", "A munkavállalók kb. 60%-a az amerikai katonai bázison dolgozik.", "Az átlagos éves jövedelem körülbelül 12.000 USD.", "Három szupermarket és egy heti termelői piac működik.", "Az áramellátást dízelgenerátorok biztosítják, évi 2 millió USD költséggel."],
+      ro: ["Densitatea populației pe Ebeye este de peste 41.000 locuitori pe km².", "Insula are o suprafață de doar 0,36 km².", "Aproximativ 60% dintre angajați lucrează pentru baza militară americană.", "Venitul mediu anual este de aproximativ 12.000 USD.", "Există trei supermarketuri și o piață săptămânală a fermierilor.", "Alimentarea cu energie electrică se face prin generatoare diesel, costând 2 milioane USD anual."],
+      en: ["Ebeye's population density exceeds 41,000 people per km².", "The island covers only 0.36 km².", "About 60% of employed residents work for the U.S. military base.", "Average annual income is around 12,000 USD.", "There are three supermarkets and a weekly farmer's market.", "Electricity is supplied by diesel generators, costing 2 million USD annually."],
+    },
   },
   {
     id: "marshallislands-majuro-fishing-port-economic-v2",
     type: "port",
     name: { de: "Fischereihafen Majuro", hu: "Majuroi halászkikötő", ro: "Portul de pescuit Majuro", en: "Majuro Fishing Port" },
-    coordinates: { lat: 7.114, lng: 171.371 },
+    coords: [171.371, 7.114],
     description: {
       de: "Ein spezialisierter Hafen für die Fischereiflotte. Er ist entscheidend für den Export von Meeresfrüchten und die Versorgung lokaler Märkte.",
       hu: "A halászflotta számára fenntartott speciális kikötő. Kulcsfontosságú a tenger gyümölcseinek exportjához és a helyi ellátáshoz.",
@@ -171,12 +207,24 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Base for international tuna seiners", "Provides cold storage for catches", "Supports local artisanal fishing", "Major revenue source from fishing licenses"],
     },
     imageHint: "Fishing vessels docked at Majuro harbor",
+    descriptionAdvanced: {
+      de: "Der Majuro-Fischereihafen ist der wichtigste Fischereihafen der Marshallinseln und ein zentraler Knotenpunkt für Thunfischfang und -verarbeitung. Der Hafen liegt im östlichen Teil des Majuro-Atolls in der Nähe des internationalen Flughafens. Er wurde mit Unterstützung der Japan International Cooperation Agency (JICA) modernisiert und bietet Kailiegeplätze für große Fischereifahrzeuge. Der Hafen verfügt über Kühllager, eine Eisproduktionsanlage und Reparaturwerkstätten. Er ist die Heimatflotte der lokalen Thunfischindustrie, die einen bedeutenden Teil der Wirtschaft ausmacht. Täglich werden hier Tonnen von Thunfisch angelandet und für den Export nach Japan, Europa und in die USA verarbeitet. Der Hafen schafft Arbeitsplätze für Hunderte von Inselbewohnern.",
+      hu: "A majurói halászkikötő a Marshall-szigetek legfontosabb halászkikötője, és központi csomópont a tonhal halászat és feldolgozás számára. A kikötő a Majuro-atoll keleti részén, a nemzetközi repülőtér közelében található. A Japán Nemzetközi Együttműködési Ügynökség (JICA) támogatásával korszerűsítették, és nagy halászhajók számára biztosít kikötőhelyeket. A kikötő rendelkezik hűtőraktárakkal, jégtermelő üzemmel és javítóműhelyekkel. Ez a helyi tonhalipar bázisa, amely a gazdaság jelentős részét teszi ki. Naponta tonnányi tonhalat raknak ki itt, és dolgoznak fel exportra Japánba, Európába és az USA-ba. A kikötő százaknak biztosít munkát a szigetlakók közül.",
+      ro: "Portul de pescuit Majuro este cel mai important port de pescuit din Insulele Marshall și un nod central pentru pescuitul și procesarea tonului. Portul este situat în partea de est a atolului Majuro, lângă aeroportul internațional. A fost modernizat cu sprijinul Agenției Japoneze de Cooperare Internațională (JICA) și oferă dană pentru nave mari de pescuit. Portul dispune de depozite frigorifice, o fabrică de gheață și ateliere de reparații. Este baza flotei locale de ton, care reprezintă o parte semnificativă a economiei. Zilnic, tone de ton sunt debarcate și procesate pentru export în Japonia, Europa și SUA. Portul creează locuri de muncă pentru sute de insulari.",
+      en: "Majuro Fishing Port is the most important fishing port in the Marshall Islands and a central hub for tuna fishing and processing. Located in the eastern part of Majuro Atoll near the international airport, the port was modernized with assistance from the Japan International Cooperation Agency (JICA) and provides berths for large fishing vessels. It has cold storage, an ice production plant, and repair workshops. The port is home to the local tuna fleet, which accounts for a significant part of the economy. Daily, tons of tuna are landed and processed for export to Japan, Europe, and the USA. The port provides employment for hundreds of islanders.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat eine jährliche Umschlagskapazität von 50.000 Tonnen Thunfisch.", "Die Kühlhauskapazität beträgt 3.000 Tonnen.", "Die Eisproduktionsanlage kann täglich 100 Tonnen Eis herstellen.", "Der Hafen verfügt über 5 Kailiegeplätze für Schiffe bis 150 m Länge.", "Die Baukosten der Modernisierung beliefen sich auf 8 Mio. USD.", "Im Jahr 2022 wurden Thunfischprodukte im Wert von 25 Mio. USD exportiert."],
+      hu: ["A kikötő éves tonhal-átrakodási kapacitása 50.000 tonna.", "A hűtőház kapacitása 3.000 tonna.", "A jégtermelő üzem napi 100 tonna jég előállítására képes.", "A kikötő 5 kikötőhellyel rendelkezik 150 m hosszú hajók számára.", "A korszerűsítés költsége 8 millió USD volt.", "2022-ben 25 millió USD értékű tonhalból készült terméket exportáltak."],
+      ro: ["Portul are o capacitate anuală de manipulare de 50.000 de tone de ton.", "Capacitatea de depozitare frigorifică este de 3.000 de tone.", "Fabrica de gheață poate produce 100 de tone de gheață pe zi.", "Portul are 5 dană pentru nave de până la 150 m lungime.", "Costurile de modernizare s-au ridicat la 8 milioane USD.", "În 2022, s-au exportat produse din ton în valoare de 25 milioane USD."],
+      en: ["The port has an annual handling capacity of 50,000 tons of tuna.", "Cold storage capacity is 3,000 tons.", "The ice plant can produce 100 tons of ice per day.", "The port has 5 berths for vessels up to 150 m length.", "Modernization costs amounted to 8 million USD.", "In 2022, tuna products worth 25 million USD were exported."],
+    },
   },
   {
     id: "marshallislands-majuro-central-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Majuro", hu: "Majuroi központi piac", ro: "Piața Centrală din Majuro", en: "Majuro Central Market" },
-    coordinates: { lat: 7.09, lng: 171.382 },
+    coords: [171.382, 7.09],
     description: {
       de: "Das primäre Handelszentrum für lokale Produkte und Handwerk. Es verbindet die Produzenten der Außeninseln mit den Konsumenten der Hauptstadt.",
       hu: "A helyi termékek és kézműves áruk elsődleges kereskedelmi központja. Összeköti a külső szigetek termelőit a fővárosi fogyasztókkal.",
@@ -190,5 +238,17 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Sells hand-woven mats and baskets", "Primary location for fresh seafood", "Promotes preservation of traditional crafts", "Weekly arrival point for outer island goods"],
     },
     imageHint: "Local market stalls with handicrafts in Majuro",
+    descriptionAdvanced: {
+      de: "Der Majuro Central Market ist der größte Markt der Marshallinseln und befindet sich im Zentrum von Delap-Uliga-Darrit (DUD) auf Majuro. Er ist ein lebendiger Ort des Handels und der sozialen Interaktion. Hier bieten lokale Produzenten frische Fische, tropische Früchte, Gemüse, Kunsthandwerk und Kleidung feil. Der Markt dient als primäre Verteilungsstelle für landwirtschaftliche Produkte von den äußeren Atollen. Der Markt ist in verschiedene Abschnitte unterteilt: einen Fischmarkt, einen Obst- und Gemüsemarkt und einen Bereich für Handwerk. Der Markt wird von der Stadtverwaltung Majuros betrieben und ist täglich geöffnet. Er spielt eine zentrale Rolle für die lokale Wirtschaft, da er Kleinbauern und Fischern eine direkte Verkaufsmöglichkeit bietet. Der Markt ist auch ein Treffpunkt für Touristen, die lokale Produkte erwerben möchten.",
+      hu: "A majurói központi piac a Marshall-szigetek legnagyobb piaca, és Majuro központjában, Delap-Uliga-Darritban (DUD) található. Élénk kereskedelmi és társadalmi találkozóhely. Itt a helyi termelők friss halat, trópusi gyümölcsöket, zöldségeket, kézműves termékeket és ruházatot árulnak. A piac elsődleges elosztóközpont a külső atollokról származó mezőgazdasági termékek számára. A piac külön szekciókra oszlik: halpiac, gyümölcs- és zöldségpiac, valamint kézműves részleg. A piacot Majuro városi önkormányzata üzemelteti, és minden nap nyitva tart. Központi szerepet játszik a helyi gazdaságban, mivel közvetlen értékesítési lehetőséget biztosít a kistermelőknek és halászoknak. A piac a turisták számára is találkozóhely, akik helyi termékeket szeretnének vásárolni.",
+      ro: "Piața Centrală Majuro este cea mai mare piață din Insulele Marshall și este situată în centrul Delap-Uliga-Darrit (DUD) din Majuro. Este un loc vibrant de comerț și interacțiune socială. Aici, producătorii locali vând pește proaspăt, fructe tropicale, legume, meșteșuguri și îmbrăcăminte. Piața servește ca principal centru de distribuție pentru produsele agricole din atolurile exterioare. Piața este împărțită în secțiuni: o piață de pește, o piață de fructe și legume și o zonă de meșteșuguri. Piața este operată de administrația orașului Majuro și este deschisă zilnic. Joacă un rol central în economia locală, oferind fermierilor mici și pescarilor o oportunitate directă de vânzare. Piața este, de asemenea, un punct de întâlnire pentru turiștii care doresc să cumpere produse locale.",
+      en: "Majuro Central Market is the largest market in the Marshall Islands, located in the center of Delap-Uliga-Darrit (DUD) on Majuro. It is a vibrant place of trade and social interaction. Here, local producers sell fresh fish, tropical fruits, vegetables, handicrafts, and clothing. The market serves as the primary distribution point for agricultural products from the outer atolls. The market is divided into sections: a fish market, a fruit and vegetable market, and a crafts area. It is operated by the Majuro city government and is open daily. It plays a central role in the local economy by offering direct sales opportunities for small farmers and fishers. The market is also a meeting point for tourists seeking local products.",
+    },
+    factsAdvanced: {
+      de: ["Der Markt hat eine Fläche von etwa 2.500 m².", "Über 150 Händler verkaufen täglich ihre Produkte.", "Täglich werden etwa 500 kg Fisch umgesetzt.", "Der Markt wurde 2010 renoviert und erweitert.", "Etwa 40 % der angebotenen Früchte stammen von den äußeren Atollen.", "Der Markt zieht täglich schätzungsweise 2.000 Besucher an."],
+      hu: ["A piac területe körülbelül 2500 m².", "Több mint 150 árus árul naponta.", "Naponta körülbelül 500 kg halat adnak el.", "A piacot 2010-ben felújították és bővítették.", "A kínált gyümölcsök kb. 40%-a a külső atollokról származik.", "A piac naponta becslések szerint 2000 látogatót vonz."],
+      ro: ["Piața are o suprafață de aproximativ 2.500 m².", "Peste 150 de comercianți își vând produsele zilnic.", "Zilnic se vând aproximativ 500 kg de pește.", "Piața a fost renovată și extinsă în 2010.", "Aproximativ 40% din fructe provin din atolurile exterioare.", "Piața atrage zilnic aproximativ 2.000 de vizitatori."],
+      en: ["The market covers an area of about 2,500 m².", "Over 150 vendors sell their products daily.", "Approximately 500 kg of fish are sold daily.", "The market was renovated and expanded in 2010.", "About 40% of fruits offered come from outer atolls.", "The market attracts an estimated 2,000 visitors daily."],
+    },
   }
 ];

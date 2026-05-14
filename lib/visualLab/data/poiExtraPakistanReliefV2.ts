@@ -1126,7 +1126,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-salt-range-relief-v2",
     type: "mountain",
     name: { de: "Salzgebirge", hu: "Sós-hegység", ro: "Munții Sării", en: "Salt Range" },
-    coordinates: { lat: 32.5333, lng: 72.4667 },
+    coords: [72.4667, 32.5333],
     description: {
       de: "Dieses Mittelgebirge in Punjab ist weltberühmt für seine riesigen Steinsalzvorkommen. Es erstreckt sich zwischen den Flüssen Jhelum und Indus.",
       hu: "Ez a Pandzsábban található középhegység hatalmas kősótelepeiről világhírű. A Dzsehelam és az Indus folyók között húzódik.",
@@ -1145,7 +1145,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-hindu-kush-range-relief-v2",
     type: "mountain",
     name: { de: "Hindukusch-Gebirge", hu: "Hindukus-hegység", ro: "Munții Hindu Kush", en: "Hindu Kush Range" },
-    coordinates: { lat: 36.2, lng: 71.3 },
+    coords: [71.3, 36.2],
     description: {
       de: "Dieses bedeutende Gebirgssystem bildet die westliche Fortsetzung des Himalayas und trennt das Industal von Zentralasien.",
       hu: "Ez a jelentős hegységrendszer a Himalája nyugati folytatását alkotja, és elválasztja az Indus-völgyet Közép-Ázsiától.",
@@ -1164,7 +1164,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-suleiman-mountains-relief-v2",
     type: "mountain",
     name: { de: "Suleiman-Gebirge", hu: "Szulejmán-hegység", ro: "Munții Suleiman", en: "Suleiman Mountains" },
-    coordinates: { lat: 30.1, lng: 69.8 },
+    coords: [69.8, 30.1],
     description: {
       de: "Dieses Gebirge bildet den östlichen Rand des iranischen Hochlands und erstreckt sich entlang der Grenze zwischen Belutschistan und Punjab.",
       hu: "Ez a hegység az Iráni-fennsík keleti peremét alkotja, és Beludzsisztán és Pandzsáb határa mentén húzódik.",
@@ -1183,7 +1183,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-kirthar-range-relief-v2",
     type: "mountain",
     name: { de: "Kirthar-Gebirge", hu: "Kirthar-hegység", ro: "Munții Kirthar", en: "Kirthar Range" },
-    coordinates: { lat: 26.15, lng: 67.45 },
+    coords: [67.45, 26.15],
     description: {
       de: "Diese Gebirgskette im Süden Pakistans bildet die Grenze zwischen den Provinzen Sindh und Belutschistan.",
       hu: "Ez a dél-pakisztáni hegylánc alkotja a határt Szindh és Beludzsisztán tartományok között.",
@@ -1202,7 +1202,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-passu-cones-relief-v2",
     type: "peak",
     name: { de: "Passu Cones", hu: "Passu-kúpok", ro: "Conurile Passu", en: "Passu Cones" },
-    coordinates: { lat: 36.4783, lng: 74.9042 },
+    coords: [74.9042, 36.4783],
     description: {
       de: "Diese markanten, kegelförmigen Gipfel im Hunzatal werden auch 'Cathedral Ridge' genannt. Sie sind eines der meistfotografierten Motive am Karakorum Highway.",
       hu: "Ezek a jellegzetes, kúp alakú csúcsok a Hunza-völgyben 'Katedrális-gerinc' néven is ismertek. A Karakorum Highway egyik legtöbbet fotózott látnivalói.",
@@ -1221,7 +1221,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-trango-towers-relief-v2",
     type: "peak",
     name: { de: "Trango-Türme", hu: "Trango-tornyok", ro: "Turnurile Trango", en: "Trango Towers" },
-    coordinates: { lat: 35.7611, lng: 76.1917 },
+    coords: [76.1917, 35.7611],
     description: {
       de: "Diese Gruppe von gigantischen Granitpfeilern beherbergt die höchsten vertikalen Felswände der Erde. Sie liegen im Baltoro-Gebiet des Karakorums.",
       hu: "Ez a gigantikus gránitpillérekből álló csoport a Föld legmagasabb függőleges sziklafalaival büszkélkedhet. A Karakorum Baltoro régiójában találhatók.",
@@ -1240,7 +1240,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
     id: "pakistan-safed-koh-relief-v2",
     type: "mountain",
     name: { de: "Safed-Koh-Gebirge", hu: "Száfid-kuh-hegység", ro: "Munții Safed Koh", en: "Safed Koh Range" },
-    coordinates: { lat: 33.85, lng: 70.2833 },
+    coords: [70.2833, 33.85],
     description: {
       de: "Dieses Gebirge, auch als 'Weiße Berge' bekannt, bildet die natürliche Grenze zwischen Pakistan und Afghanistan südlich des Flusses Kabul.",
       hu: "Ez a 'Fehér-hegység' néven is ismert vonulat alkotja a természetes határt Pakisztán és Afganisztán között a Kabul-folyótól délre.",

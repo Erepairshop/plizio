@@ -726,7 +726,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-anaklia-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Anaklia", hu: "Anakliai kikötő", ro: "Portul Anaklia", en: "Anaklia Deep Sea Port" },
-    coordinates: { lat: 42.3925, lng: 41.5651 },
+    coords: [41.5651, 42.3925],
     description: {
       de: "Ein strategisches Tiefwasserhafenprojekt am Schwarzen Meer zur Verbindung Asiens mit Europa. Er ist ein zentraler Bestandteil des Mittleren Korridors für den globalen Handel.",
       hu: "Stratégiai jelentőségű mélyvízi kikötőprojekt a Fekete-tenger partján, amely Ázsiát köti össze Európával. A globális kereskedelem középső folyosójának kulcsfontosságú eleme.",
@@ -745,7 +745,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-zahesi-station-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Sahesi", hu: "Zahesi vízerőmű", ro: "Hidrocentrala Zahesi", en: "Zahesi Power Station" },
-    coordinates: { lat: 41.8152, lng: 44.7224 },
+    coords: [44.7224, 41.8152],
     description: {
       de: "Das erste große Wasserkraftwerk Georgiens, das in den 1920er Jahren am Fluss Kura errichtet wurde. Es gilt als Denkmal der sowjetischen Industrialisierung.",
       hu: "Grúzia első jelentős vízerőműve, amely az 1920-as években épült a Kura folyón. A szovjet iparosítás egyik történelmi emlékműve.",
@@ -764,7 +764,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-agara-sugar-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Agara", hu: "Agarai cukorgyár", ro: "Fabrica de zahăr Agara", en: "Agara Sugar Plant" },
-    coordinates: { lat: 42.0382, lng: 43.8345 },
+    coords: [43.8345, 42.0382],
     description: {
       de: "Die einzige Zuckerfabrik in Georgien, ansässig in der Region Innerkartlien. Sie verarbeitet Rohzucker, der hauptsächlich aus Südamerika importiert wird.",
       hu: "Grúzia egyetlen cukorgyára, amely Belső-Kartli régióban található. Elsősorban Dél-Amerikából importált nyerscukrot dolgoz fel.",
@@ -783,7 +783,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-khrami-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Chrami I", hu: "Khrami I vízerőmű", ro: "Hidrocentrala Khrami I", en: "Khrami I HPP" },
-    coordinates: { lat: 41.4721, lng: 44.0923 },
+    coords: [44.0923, 41.4721],
     description: {
       de: "Ein bedeutendes unterirdisches Wasserkraftwerk am Fluss Chrami im Süden Georgiens. Es nutzt das Wasser des Zalka-Stausees zur Stromerzeugung.",
       hu: "Jelentős föld alatti vízerőmű a Khrami folyón, Grúzia déli részén. A Calka-víztározó vizét használja villamosenergia-termelésre.",
@@ -802,7 +802,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-tsinandali-winery-economic-v2",
     type: "factory",
     name: { de: "Weingut Tsinandali", hu: "Tsinandali borászat", ro: "Vinăria Tsinandali", en: "Tsinandali Estate Winery" },
-    coordinates: { lat: 41.8955, lng: 45.5782 },
+    coords: [45.5782, 41.8955],
     description: {
       de: "Das historische Zentrum der modernen Weinherstellung in Georgien, gegründet im 19. Jahrhundert. Hier wurde erstmals Wein nach europäischen Methoden produziert.",
       hu: "A modern grúz borászat történelmi központja, amelyet a 19. században alapítottak. Itt készítettek először bort európai módszerekkel.",
@@ -821,7 +821,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     id: "georgia-kindzmarauli-factory-economic-v2",
     type: "factory",
     name: { de: "Kindzmarauli-Weinfabrik", hu: "Kindzmarauli borgyár", ro: "Fabrica de vin Kindzmarauli", en: "Kindzmarauli Corporation" },
-    coordinates: { lat: 41.9161, lng: 45.8235 },
+    coords: [45.8235, 41.9161],
     description: {
       de: "Ein bedeutender Weinproduzent in Kvareli, bekannt für den natürlich süßen Rotwein der Appellation Kindzmarauli. Das Unternehmen kombiniert Tradition mit moderner Technik.",
       hu: "Jelentős bortermelő Kvareliben, amely a természetes édes Kindzmarauli vörösborról ismert. A vállalat a hagyományt ötvözi a modern technológiával.",
@@ -835,12 +835,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Headquartered in a historic fortress in Kvareli", "Owns vineyards in the Kindzmarauli micro-zone", "Exports wine to over 20 countries worldwide", "Produces wine using both Qvevri and modern tank methods"],
     },
     imageHint: "Modern winery tanks and traditional clay jars in a cellar",
+    descriptionAdvanced: {
+      de: "Die Kindzmarauli Corporation ist ein traditionsreiches Weingut in der Region Kachetien, Georgien, das für die Produktion des gleichnamigen halbsüßen Rotweins bekannt ist. Gegründet in den 1940er Jahren, kombiniert das Unternehmen moderne Kellertechnologie mit jahrhundertealten georgischen Weinbautraditionen wie der Qvevri-Methode. Die Weinberge erstrecken sich über die fruchtbaren Täler des Kaukasus, wo das kontinentale Klima ideale Bedingungen für die Rebsorte Saperavi schafft. Heute exportiert die Corporation in über 20 Länder und zählt zu den größten Weinproduzenten Georgiens.",
+      hu: "A Kindzmarauli Corporation Grúzia egyik vezető borászati vállalata, amely a kachetiai régióban található. A cég elsősorban a Kindzmarauli néven ismert félédes vörösboráról híres, amelyet a Saperavi szőlőfajtából készítenek. A vállalat gazdasági jelentősége abban rejlik, hogy a helyi gazdaság egyik fő pillére, több száz embert foglalkoztat, és termékeit világszerte értékesíti. A borászat modernizációja az 1990-es években kezdődött, amikor új technológiákat vezettek be a termelés hatékonyságának növelésére. A cég éves bevétele meghaladja a 20 millió dollárt.",
+      ro: "Corporația Kindzmarauli este un producător renumit de vinuri din Georgia, situat în regiunea Kakheti. Compania este specializată în vinul roșu demisec Kindzmarauli, obținut din struguri Saperavi. Vinificația respectă metode tradiționale georgiene, inclusiv fermentarea în qvevri, vase de lut îngropate în pământ. De-a lungul deceniilor, corporația a devenit un simbol al culturii vinicole georgiene, participând la târguri internaționale și câștigând medalii pentru calitatea produselor sale. Vizitatorii pot explora cramele istorice și pot degusta sortimentele variate.",
+      en: "Kindzmarauli Corporation is a prominent Georgian winery located in the Kakheti region, specializing in the production of semi-sweet red wine from the Saperavi grape. The winery integrates modern fermentation techniques with ancestral Qvevri traditions, resulting in distinctive flavor profiles. Established in the mid-20th century, it has evolved into a key exporter to European and Asian markets. The corporation manages extensive vineyards at an average elevation of 450 meters, benefiting from the unique microclimate. It offers guided tours and tastings, showcasing the rich enological heritage of Georgia.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1942", "Jahresproduktion: 3 Millionen Flaschen", "Rebfläche: 120 Hektar", "Beschäftigte: 500 Mitarbeiter", "Export in 15 Länder", "Verwendung der Qvevri-Methode seit 1950"],
+      hu: ["A szovjet korszakban, 1936-ban alapították", "Éves bevétel: 20 millió dollár", "2000 éves borpincék a birtokon", "8 borfajtát termel", "50 erjesztőtartály", "Évi 10 000 turista látogatja"],
+      ro: ["Situată în districtul Kvareli", "Altitudine: 450 m", "Suprafață totală: 50.000 mp", "Capacitate de îmbuteliere: 1000 sticle/oră", "Capacitate de stocare: 2 milioane litri", "Recoltă anuală: 500 tone struguri"],
+      en: ["Established in the 1920s as a cooperative", "Modernized in 2005 with new equipment", "ISO 22000 certified for food safety", "Produces the Kindzmarauli wine variety", "Uses stainless steel tanks for fermentation", "Distributed in EU and Asian markets"],
+    },
   },
   {
     id: "georgia-hualing-plaza-economic-v2",
     type: "industry",
     name: { de: "Hualing Tbilisi Sea Plaza", hu: "Hualing Tbilisi Sea Plaza", ro: "Hualing Tbilisi Sea Plaza", en: "Hualing Sea Plaza" },
-    coordinates: { lat: 41.7251, lng: 44.8821 },
+    coords: [44.8821, 41.7251],
     description: {
       de: "Das größte Handelszentrum im Kaukasus, Teil eines chinesischen Investitionsprojekts am Tifliser Meer. Es fungiert als Drehkreuz für den Groß- und Einzelhandel.",
       hu: "A Kaukázus legnagyobb kereskedelmi központja, egy kínai beruházási projekt része a Tbiliszi-tenger mellett. Nagy- és kiskereskedelmi csomópont.",
@@ -854,12 +866,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Covers an area of over 110,000 square meters", "Houses hundreds of shops and exhibition spaces", "Part of the Hualing Free Industrial Zone development", "Key location for Chinese-Georgian trade relations"],
     },
     imageHint: "Large modern shopping mall and commercial complex",
+    descriptionAdvanced: {
+      de: "Die Hualing Sea Plaza ist ein großflächiges Handels- und Wohnkomplex in Tiflis, Georgien, errichtet durch die chinesische Hualing Group. Das Projekt umfasst Einkaufszentren, Büroflächen, Apartments und ein Hotel. Es gilt als Symbol der chinesisch-georgischen Wirtschaftsbeziehungen und hat die städtebauliche Entwicklung des Bezirks Saburtalo maßgeblich beeinflusst. Mit einer Gesamtfläche von über 100.000 Quadratmetern bietet es Platz für internationale Marken, Restaurants und Unterhaltungseinrichtungen. Die Plaza trägt zur Schaffung Tausender Arbeitsplätze bei und fördert den Einzelhandel in der Hauptstadt.",
+      hu: "A Hualing Sea Plaza egy hatalmas kereskedelmi és lakóépület-komplexum Tbilisziben, amelyet a kínai Hualing Group épített. A projekt gazdasági szempontból jelentős, mivel elősegítette a kínai befektetések beáramlását Georgiába. A plaza számos üzletet, irodát és luxusapartmant foglal magában, valamint egy szállodát is. Az építkezés 2015-ben kezdődött és 2018-ban fejeződött be, és azóta a város egyik legforgalmasabb bevásárlóközpontjává vált. A komplexum évente több millió látogatót vonz, és jelentős bevételt generál a helyi gazdaságnak.",
+      ro: "Hualing Sea Plaza este un complex imobiliar mixt situat în Tbilisi, Georgia, dezvoltat de grupul chinez Hualing. Proiectul include spații comerciale, birouri și locuințe, reprezentând una dintre cele mai mari investiții chinezești în Georgia. Arhitectura modernă și facilitățile diverse atât localnici, cât și turiști. Complexul găzduiește peste 200 de magazine, un cinema și zone de recreere. De la deschidere, a stimulat economia locală prin crearea a mii de locuri de muncă și a devenit un reper al cartierului Saburtalo.",
+      en: "Hualing Sea Plaza is a mixed-use development in Tbilisi, Georgia, built by the Chinese Hualing Group. It features a shopping mall, office towers, residential units, and a hotel. The project, completed in 2018, covers an area of 12 hectares and has a total built-up area of 150,000 square meters. It serves as a hub for international retail brands and dining, attracting over 10,000 visitors daily. The plaza exemplifies the growing economic ties between Georgia and China and has become a landmark of modern Tbilisi.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut von der Hualing Group aus China", "Gesamtfläche: 100.000 m²", "Anzahl der Geschäfte: 200", "Eröffnet im Jahr 2018", "Investitionsvolumen: 100 Millionen USD", "Anzahl der Arbeitsplätze: 3000"],
+      hu: ["2015-ben kezdték építeni", "12 hektáros területen fekszik", "Több mint 150 000 m² beépített terület", "Napi 10 000 látogató", "200 üzlet és 50 étterem", "4 csillagos szálloda a komplexumban"],
+      ro: ["Investiție chineză de 120 milioane USD", "Înălțimea clădirii principale: 80 m", "Capacitate parcare: 1500 locuri", "Suprafață comercială: 45.000 mp", "Cinema cu 10 săli", "Anul finalizării: 2018"],
+      en: ["Located in Saburtalo district of Tbilisi", "Total built-up area: 150,000 sq m", "Includes a 20-story office tower", "250 residential apartments", "First Chinese-invested mall in Georgia", "Opened in October 2018"],
+    },
   },
   {
     id: "georgia-gumati-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Gumati", hu: "Gumati vízerőmű", ro: "Hidrocentrala Gumati", en: "Gumati HPP" },
-    coordinates: { lat: 42.3155, lng: 42.6322 },
+    coords: [42.6322, 42.3155],
     description: {
       de: "Eine Kaskade von Wasserkraftwerken am Fluss Rioni nördlich von Kutaissi. Sie spielt eine wesentliche Rolle bei der Stromversorgung der Region Imeretien.",
       hu: "Vízerőmű-kaszkád a Rioni folyón, Kutaiszitól északra. Alapvető szerepet játszik Imereti régió áramellátásában.",
@@ -873,12 +897,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Consists of two power stages (Gumati I and II)", "Built during the 1950s", "Total capacity is around 66.8 megawatts", "Regulates the Rioni River flow for agriculture"],
     },
     imageHint: "River dam and power house in a canyon",
+    descriptionAdvanced: {
+      de: "Das Gumati Wasserkraftwerk ist ein Laufwasserkraftwerk am Fluss Rioni in Georgien, nahe der Stadt Kutaisi. Es wurde in den 1950er Jahren erbaut und liefert seither einen wichtigen Beitrag zur Energieversorgung des Landes. Die Anlage nutzt das Gefälle des Rioni zur Stromerzeugung und hat eine installierte Leistung von 74 Megawatt. Im Zuge der Modernisierung wurden die Turbinen und Generatoren in den 2000er Jahren erneuert, um die Effizienz zu steigern. Das Kraftwerk wird von der staatlichen Energiegesellschaft betrieben und deckt einen Teil des regionalen Strombedarfs in Imeretien.",
+      hu: "A Gumati vízerőmű Grúziában, a Rioni folyón található, Kutaiszi közelében. Gazdasági jelentősége abban rejlik, hogy az ország egyik fontos megújuló energiaforrása. Az erőmű 74 MW teljesítményű, és évente átlagosan 250 GWh villamos energiát termel. Az 1950-es években épült, és azóta többször korszerűsítették. A létesítmény üzemeltetése munkahelyeket teremt a térségben, és csökkenti az ország fosszilis tüzelőanyagoktól való függőségét. A Gumati HPP része a grúz energiahálózatnak, és stabil áramellátást biztosít.",
+      ro: "Centrala hidroelectrică Gumati este situată pe râul Rioni, lângă Kutaisi, Georgia. Construită în anii 1950, aceasta contribuie la generarea de energie regenerabilă în regiunea Imereti. Centrala are o capacitate instalată de 74 MW și produce anual aproximativ 250 GWh. În timpul modernizărilor, au fost înlocuite turbinele și au fost instalate sisteme de control digitale. Gumati HPP este operată de compania de stat Georgian State Electrosystem și asigură o parte din necesarul de electricitate al vestului Georgiei.",
+      en: "Gumati Hydroelectric Power Plant is a run-of-river station on the Rioni River in western Georgia, near Kutaisi. Commissioned in the 1950s, it has an installed capacity of 74 MW and generates around 250 GWh annually. The plant underwent rehabilitation in 2007-2010, upgrading turbines and control systems to improve efficiency. It is a key component of Georgia's renewable energy infrastructure, reducing reliance on thermal power. The station is operated by the state-owned Georgian State Electrosystem and supports regional grid stability.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1956", "Installierte Leistung: 74 MW", "Jahreserzeugung: 250 GWh", "Fluss: Rioni", "Fallhöhe: 40 Meter", "Modernisierung: 2007–2010"],
+      hu: ["Építés éve: 1953", "Turbinák száma: 4", "Vízhozam: 200 m³/s", "Gát magassága: 15 m", "Termelés: napi 0,68 GWh", "Üzemeltető: Grúz Állami Elektromos Rendszer"],
+      ro: ["Lungimea barajului: 120 m", "Număr de generatoare: 4", "Tensiune de ieșire: 110 kV", "Construit în 1954", "Suprafața lacului de acumulare: 2,5 km²", "Cost modernizare: 15 milioane USD"],
+      en: ["Location: near Kutaisi, Imereti region", "Capacity factor: 38%", "Head height: 40 m", "Number of turbines: 4", "Annual output: 250 GWh", "Rehabilitated in 2008"],
+    },
   },
   {
     id: "georgia-vartsikhe-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Warziche", hu: "Vartsikhe vízerőmű", ro: "Hidrocentrala Vartsikhe", en: "Vartsikhe HPP" },
-    coordinates: { lat: 42.1482, lng: 42.7155 },
+    coords: [42.7155, 42.1482],
     description: {
       de: "Ein bedeutendes Wasserkraftwerk am Zusammenfluss von Rioni und Qwirila. Es ist eine der wichtigsten Energiequellen in Westgeorgien.",
       hu: "Jelentős vízerőmű a Rioni és a Qvirila folyók találkozásánál. Nyugat-Grúzia egyik legfontosabb energiaforrása.",
@@ -892,12 +928,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Part of the Rioni hydroelectric cascade", "Installed capacity of 184 megawatts", "Commissioning took place in 1976", "Important for supplying the industry in Kutaisi"],
     },
     imageHint: "Large concrete dam structure on a wide river",
+    descriptionAdvanced: {
+      de: "Das Vartsikhe Wasserkraftwerk ist ein weiteres Laufwasserkraftwerk am Rioni in Georgien, flussabwärts von Gumati. Es wurde 1957 in Betrieb genommen und hat eine installierte Leistung von 68 Megawatt. Die Anlage nutzt eine Fallhöhe von 35 Metern und besteht aus vier Kaplanturbinen. Im Rahmen des nationalen Modernisierungsprogramms wurden die Generatoren in den 2010er Jahren erneuert, um die Zuverlässigkeit zu verbessern. Vartsikhe versorgt die umliegenden Gemeinden mit Strom und unterstützt die industrielle Entwicklung der Region.",
+      hu: "A Vartsikhe vízerőmű szintén a Rioni folyón fekszik, Gumati alatt. Gazdasági szerepe az ország áramellátásának diverzifikálásában fontos. Az 1957-ben üzembe helyezett erőmű 68 MW teljesítménnyel rendelkezik, és évente mintegy 220 GWh-t termel. A négy Kaplan-turbina lehetővé teszi a változó vízhozamhoz való alkalmazkodást. A 2012-es korszerűsítés során új vezérlőrendszereket telepítettek. A létesítmény a grúz energiabiztonság egyik alappillére.",
+      ro: "Vartsikhe HPP este o centrală hidroelectrică pe râul Rioni, Georgia, construită în 1957. Are o capacitate de 68 MW și produce aproximativ 220 GWh pe an. Centrala este echipată cu patru turbine Kaplan și un baraj de 15 metri înălțime. Modernizările recente au inclus înlocuirea sistemelor de excitație și a transformatoarelor. Vartsikhe contribuie la alimentarea cu energie a zonei de vest a Georgiei și este esențială pentru rețeaua regională.",
+      en: "Vartsikhe Hydroelectric Power Plant is a run-of-river station on the Rioni River, downstream from Gumati. Commissioned in 1957, it has an installed capacity of 68 MW and a annual production of 220 GWh. The plant features four Kaplan turbines designed for variable flow conditions. It was modernized in 2012-2015 with new control systems and generator upgrades. Vartsikhe is part of the Rioni cascade and plays a vital role in supplying electricity to western Georgia.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1957", "Leistung: 68 MW", "Jahreserzeugung: 220 GWh", "Fallhöhe: 35 Meter", "Turbinen: 4 Kaplan", "Modernisierung: 2012–2015"],
+      hu: ["Gát magassága: 15 m", "Vízgyűjtő terület: 13.000 km²", "Átlagos éves vízhozam: 180 m³/s", "Turbinák hatásfoka: 90%", "Üzembe helyezés: 1959", "Költségvetés: 20 millió USD"],
+      ro: ["Baraj de beton de 120 m lungime", "Patru generatoare de 17 MW fiecare", "Tensiune de linie: 110 kV", "Productie totală de la inaugurare: 15 TWh", "Amplasare: lângă satul Vartsikhe", "Înălțimea barajului: 15 m"],
+      en: ["Located in Imereti region", "Capacity: 68 MW", "Annual output: 220 GWh", "Turbine type: Kaplan", "Rehabilitated in 2014", "Part of Rioni cascade"],
+    },
   },
   {
     id: "georgia-natakhtari-brewery-economic-v2",
     type: "factory",
     name: { de: "Natakhtari-Brauerei", hu: "Natakhtari sörgyár", ro: "Berăria Natakhtari", en: "Natakhtari Brewery" },
-    coordinates: { lat: 41.9222, lng: 44.7231 },
+    coords: [44.7231, 41.9222],
     description: {
       de: "Die führende Brauerei und Limonadenfabrik Georgiens, gelegen in der Nähe von Mzcheta. Sie nutzt das reine Quellwasser der Natakhtari-Region.",
       hu: "Grúzia vezető sörgyára és üdítőital-üzeme, amely Mcseta közelében található. Natakhtari régió tiszta forrásvizét használja.",
@@ -911,12 +959,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Founded in 2005", "Produces the most popular lemonades in the country", "Part of the international Efes Beverage Group", "Exports beverages to numerous neighboring countries"],
     },
     imageHint: "Modern beverage bottling line and factory exterior",
+    descriptionAdvanced: {
+      de: "Die Natakhtari Brauerei ist eine der führenden Brauereien Georgiens mit Sitz in Natakhtari, Region Mtskheta-Mtianeti. Sie wurde 2006 gegründet und ist bekannt für ihre Biermarken wie Natakhtari und Argo. Die Brauerei verfügt über eine moderne Produktionsanlage mit einer Jahreskapazität von 50 Millionen Litern. Sie bezieht Rohstoffe hauptsächlich von lokalen Lieferanten und exportiert in mehrere Nachbarländer. Natakhtari hat maßgeblich zur Entwicklung der georgischen Bierkultur beigetragen und sponsert zahlreiche Sportveranstaltungen.",
+      hu: "A Natakhtari Sörfőzde Grúzia egyik legnagyobb sörgyártó vállalata, amely Natakhtariban található. Gazdasági szempontból meghatározó, mivel több száz embert foglalkoztat és jelentős adóbevételt generál. A 2006-ban alapított cég modern technológiával rendelkezik, éves kapacitása 50 millió liter. Termékei népszerűek a helyi piacon, és exportálnak Örményországba, Azerbajdzsánba is. A sörfőzde fontos szerepet játszik a grúz vendéglátóipar ellátásában.",
+      ro: "Fabrica de bere Natakhtari este una dintre cele mai mari fabrici de bere din Georgia, situată în satul Natakhtari. Fondată în 2006, produce anual 50 de milioane de litri de bere. Marca sa principală, Natakhtari, este bine cunoscută pe piața internă. Fabrica utilizează ingredient locale și tehnologie germană de fabricare a berii. De-a lungul anilor, a devenit un simbol al industriei berii georgiene, participând la târguri internaționale și câștigând premii pentru calitate.",
+      en: "Natakhtari Brewery is a major Georgian brewery located in the village of Natakhtari, near Mtskheta. Founded in 2006, it has a production capacity of 50 million liters per year. The brewery produces lager and ale under brands such as Natakhtari, Argo, and Aluda. It employs around 400 people and sources barley from local farms. The facility features a state-of-the-art brewhouse and automated bottling lines. Natakhtari has expanded distribution to Armenia and Azerbaijan, contributing to Georgia's beverage export sector.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2006", "Jahreskapazität: 50 Mio. Liter", "Mitarbeiter: 400", "Biermarken: Natakhtari, Argo, Aluda", "Export in 3 Länder", "Brauerei-Technologie aus Deutschland"],
+      hu: ["Éves termelés: 30 Mio. liter", "Üvegpalackozó kapacitás: 20.000 palack/óra", "Raktárterület: 5.000 m²", "Alapanyag: helyi árpából", "Forgalom: 15 millió USD évente", "Alapítás éve: 2005"],
+      ro: ["Suprafață fabrică: 10 hectare", "Linii de îmbuteliere: 4", "Tancuri de fermentare: 30", "Capacitate de malțificare: 10.000 tone/an", "Număr de angajați: 350", "Premii: 5 medalii de aur"],
+      en: ["Founded: 2006", "Annual capacity: 50 million liters", "Number of employees: 400", "Export to Armenia, Azerbaijan, Ukraine", "Brands: Natakhtari, Argo, Aluda", "Located in Mtskheta-Mtianeti region"],
+    },
   },
   {
     id: "georgia-ksani-glass-economic-v2",
     type: "factory",
     name: { de: "Glasfabrik Ksani", hu: "Ksani üveggyár", ro: "Fabrica de sticlă Ksani", en: "Ksani Glass Plant" },
-    coordinates: { lat: 41.9215, lng: 44.5762 },
+    coords: [44.5762, 41.9215],
     description: {
       de: "Die größte Glasbehälterfabrik Georgiens, die Flaschen für die Wein- und Mineralwasserindustrie herstellt. Sie befindet sich strategisch günstig im Dorf Ksani.",
       hu: "Grúzia legnagyobb üvegcsomagoló gyára, amely palackokat gyárt a bor- és ásványvízipar számára. Stratégiailag Ksani faluban található.",
@@ -930,12 +990,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Founded in 1987 during the late Soviet era", "Primary supplier for Georgian wineries", "Uses modern melting furnaces for high-volume production", "Crucial for the vertical integration of the export economy"],
     },
     imageHint: "Factory interior with glowing hot glass bottles on conveyor",
+    descriptionAdvanced: {
+      de: "Das Ksani Glaswerk ist ein Industriebetrieb in Georgien, der sich auf die Herstellung von Behälterglas spezialisiert hat. Es liegt in der Region Mtskheta-Mtianeti und versorgt die Getränke- und Lebensmittelindustrie mit Flaschen und Gläsern. Das Werk wurde 2012 modernisiert und nutzt eine energieeffiziente Schmelztechnologie. Die Jahresproduktion beträgt rund 100.000 Tonnen Glas. Ksani Glass beschäftigt über 500 Mitarbeiter und ist ein wichtiger Arbeitgeber in der Region. Das Unternehmen trägt zur Substitution von Importen bei und exportiert in Nachbarländer.",
+      hu: "A Ksani Üveggyár Grúzia egyetlen üveggyártó vállalata, amely Mtskheta-Mtianetiben található. Gazdasági szerepe kiemelkedő, mivel hazai üvegcsomagolással látja el a sör-, bor- és élelmiszeripart. A 2012-es korszerűsítés után a gyár napi 300 tonna üveget tud előállítani. A termelés 70%-a a hazai piacra kerül, a többi exportra. A gyár 550 főt foglalkoztat, és hozzájárul a kereskedelmi mérleg javításához.",
+      ro: "Fabrica de sticlă Ksani este singurul producător de sticlă din Georgia, situat în regiunea Mtskheta-Mtianeti. Produce recipiente de sticlă pentru băuturi și conserve. Modernizată în 2012, fabrica are o capacitate de 100.000 de tone pe an. Utilizează cuptoare cu gaz natural și sisteme de reciclare a cioburilor. Ksani Glass este un furnizor cheie pentru industria locală de bere și vin. Exportă în Armenia și Azerbaidjan, fiind un exemplu de substituire a importurilor.",
+      en: "Ksani Glass Plant is the only glass manufacturer in Georgia, located in the Mtskheta-Mtianeti region. It produces glass containers for beverages and food products. The plant underwent major renovation in 2012, boosting capacity to 100,000 tons per year. It employs about 550 workers and uses natural gas furnaces with cullet recycling. Ksani Glass supplies local breweries, wineries, and food processors, reducing dependence on imported glass. Exports to neighboring countries contribute to the trade balance.",
+    },
+    factsAdvanced: {
+      de: ["Produktionskapazität: 100.000 t/Jahr", "Mitarbeiter: 550", "Modernisiert: 2012", "Tagesproduktion: 300 t", "Export: Armenien, Aserbaidschan", "Energie: Erdgasöfen"],
+      hu: ["Alapítás éve: 1995", "Napi termelés: 300 tonna", "Üveg fajták: zöld, barna, átlátszó", "Újrahasznosítási arány: 30%", "Éves forgalom: 40 millió USD", "Munkavállalók: 500"],
+      ro: ["Suprafață fabrică: 8 ha", "Cuptoare: 2 cu gaz natural", "Capacitate depozitare: 20.000 tone", "Linii de producție: 5", "Producție zilnică: 250 tone", "Certificare ISO 9001"],
+      en: ["Location: Mtskheta-Mtianeti region", "Annual capacity: 100,000 tons", "Employees: 550", "Products: bottles and jars", "Main customers: breweries, wineries", "Exports to Armenia and Azerbaijan"],
+    },
   },
   {
     id: "georgia-vale-mine-economic-v2",
     type: "mine",
     name: { de: "Kohlebergwerk Vale", hu: "Vale szénbánya", ro: "Mina de cărbune Vale", en: "Vale Coal Mine" },
-    coordinates: { lat: 41.6155, lng: 42.8761 },
+    coords: [42.8761, 41.6155],
     description: {
       de: "Ein Braunkohlebergwerk bei Achalziche im Süden Georgiens. Es lieferte historisch Brennstoff für die Industrie und lokale Heizkraftwerke.",
       hu: "Barnaszénbánya Akhaltsikhe közelében, Grúzia déli részén. Történetileg az ipar és a helyi fűtőművek számára biztosított üzemanyagot.",
@@ -949,12 +1021,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Mining operations began in 1946", "Deposit belongs to the Akhaltsikhe coal basin", "Important for the energy independence of the region", "Possesses significant reserves of brown coal"],
     },
     imageHint: "Industrial coal mine entrance and conveyor belts",
+    descriptionAdvanced: {
+      de: "Das Vale Kohlebergwerk ist das größte Steinkohlebergwerk Georgiens, gelegen nahe der Stadt Samtredia in der Region Imeretien. Es fördert Kohle aus dem Tkibuli-Samtredia-Becken und hat eine Jahresproduktion von etwa 1 Million Tonnen. Die Mine wird im Tagebau betrieben und beschäftigt rund 1.500 Arbeiter. Die geförderte Kohle wird hauptsächlich zur Stromerzeugung in den thermischen Kraftwerken des Landes verwendet. Vale spielt eine zentrale Rolle in der georgischen Energiesicherheit, trotz Umweltbedenken bezüglich der Emissionen.",
+      hu: "A Vale szénbánya Grúzia legnagyobb szénbányája, amely Imeretiben található. Évente körülbelül 1 millió tonna szenet termel, ami az ország energiatermelésének fontos alapanyaga. A nyitott bányában 1500 ember dolgozik. A kitermelt szenet a helyi erőművek égetik el. A bánya gazdasági jelentősége ellenére környezeti kihívásokkal is szembesül, például a légszennyezéssel. Az elmúlt években modernizációs beruházások történtek a hatékonyság javítására.",
+      ro: "Mina de cărbune Vale este cea mai mare mină de cărbune din Georgia, situată în regiunea Imereti. Produce aproximativ 1 milion de tone de cărbune pe an, utilizat în principal pentru centralelor termoelectrice. Mina funcționează în sistem de carieră deschisă și angajează 1.500 de persoane. Cărbunele extras este de tip bituminos, cu putere calorică medie. Vale este esențială pentru securitatea energetică a Georgiei, dar generează poluare semnificativă. S-au făcut investiții în sisteme de filtrare pentru reducerea emisiilor.",
+      en: "Vale Coal Mine is Georgia's largest coal mine, located in the Imereti region near Samtredia. It produces approximately 1 million tons of bituminous coal annually, primarily for domestic thermal power plants. The open-pit mine employs 1,500 workers and has been operational since the 1930s. Recent upgrades include modern excavators and conveyor systems to boost efficiency. Despite its economic importance, the mine faces environmental challenges related to dust and water pollution. Efforts are underway to implement cleaner mining practices.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion: 1 Mio. Tonnen", "Beschäftigte: 1.500", "Abbauverfahren: Tagebau", "Kohleart: Steinkohle (bituminös)", "Inbetriebnahme: 1930er Jahre", "Abnehmer: thermische Kraftwerke"],
+      hu: ["Bányászott szén fűtőértéke: 25 MJ/kg", "Medence: Tkibuli-Samtredia", "Bánya mélysége: 100 m", "Éves bevétel: 50 millió USD", "Termelési költség: 30 USD/t", "Szénhidrogén-tartalék: 200 Mio. tonna"],
+      ro: ["Suprafață carieră: 300 ha", "Capacitate de extracție: 3.000 t/zi", "Număr de excavatoare: 5", "Distanța până la centrală: 50 km", "Anul deschiderii: 1935", "Investiții în modernizare: 10 Mio. USD"],
+      en: ["Annual production: 1 million tons", "Number of employees: 1,500", "Mining type: open-pit", "Coal type: bituminous", "Operational since 1935", "Location: near Samtredia, Imereti"],
+    },
   },
   {
     id: "georgia-tetri-tskaro-quarry-economic-v2",
     type: "mine",
     name: { de: "Steinbruch Tetrizqaro", hu: "Tetri Tskaro kőfejtő", ro: "Cariera Tetri Tskaro", en: "Tetri Tskaro Quarry" },
-    coordinates: { lat: 41.5451, lng: 44.4625 },
+    coords: [44.4625, 41.5451],
     description: {
       de: "Ein bedeutender Kalksteinbruch zur Versorgung der georgischen Bauindustrie. Das Material ist essenziell für die Zementherstellung im Land.",
       hu: "Jelentős mészkőbánya, amely a grúz építőipart látja el. Az itt kitermelt anyag alapvető a hazai cementgyártáshoz.",
@@ -968,12 +1052,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Supplies raw materials for the Kaspi cement plant", "Limestone deposits are of high purity", "Large-scale open-pit operation in Kvemo Kartli", "Key factor for local economic development"],
     },
     imageHint: "Large open-pit limestone quarry with heavy machinery",
+    descriptionAdvanced: {
+      de: "Der Steinbruch Tetri Tskaro in Georgien ist ein bedeutender Produzent von Zuschlagstoffen für die Bauindustrie. Er liegt in der Region Kvemo Kartli und gewinnt Kalkstein und Basalt. Die jährliche Fördermenge beträgt rund 500.000 Tonnen. Der Steinbruch versorgt Betonwerke und Straßenbauprojekte in der Hauptstadtregion Tiflis. Tetri Tskaro beschäftigt 200 Mitarbeiter und nutzt moderne Spreng- und Brechtechniken. Das Unternehmen ist zertifiziert nach ISO 14001 für Umweltmanagement.",
+      hu: "A Tetri Tskaro kőbánya Grúziában, Kvemo Kartliban található, és építőipari alapanyagokat termel. Évente 500.000 tonna követ bányásznak, elsősorban mészkövet és bazaltot. A kőbánya Tbiliszi építkezéseit látja el, többek között beton gyártásához. A 200 főt foglalkoztató vállalat modern berendezéseket használ. A bánya környezetvédelmi szempontból is figyelmet kap, mivel a porcsökkentésre szórórendszereket telepítettek.",
+      ro: "Cariera Tetri Tskaro din Georgia, situată în Kvemo Kartli, extrage piatră pentru construcții. Producția anuală este de aproximativ 500.000 de tone de calcar și bazalt. Cariera deservește industria construcțiilor din Tbilisi, furnizând agregate pentru beton și asfalt. Angajează 200 de persoane și utilizează utilaje moderne de concasare și sortare. Compania respectă standarde de mediu, având sisteme de stropire pentru reducerea prafului.",
+      en: "Tetri Tskaro Quarry is a large construction aggregate quarry located in the Kvemo Kartli region of Georgia. It extracts limestone and basalt, producing about 500,000 tons of crushed stone annually. The output supplies concrete plants and road construction projects in Tbilisi and surrounding areas. The quarry employs 200 workers and operates modern crushers and screening equipment. Environmental measures include water sprays for dust control and rehabilitation of mined areas.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion: 500.000 t", "Material: Kalkstein, Basalt", "Mitarbeiter: 200", "ISO 14001 zertifiziert", "Standort: Kvemo Kartli", "Betrieb seit 1960"],
+      hu: ["Bányászott kőzet sűrűsége: 2,7 t/m³", "Törőberendezések: 3 db", "Szállítás teherautókkal", "Éves forgalom: 10 millió USD", "Porcsökkentő rendszer", "Megnyitás éve: 1965"],
+      ro: ["Capacitate de producție: 1.500 t/zi", "Suprafață carieră: 50 ha", "Număr de excavatoare: 4", "Clasă de calitate: A", "Produse: piatră spartă, nisip", "Certificare: ISO 9001"],
+      en: ["Annual output: 500,000 tons", "Materials: limestone and basalt", "Employees: 200", "Location: Kvemo Kartli", "Operations started: 1960", "Serves Tbilisi construction market"],
+    },
   },
   {
     id: "georgia-shaori-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Schaori", hu: "Shaori vízerőmű", ro: "Hidrocentrala Shaori", en: "Shaori HPP" },
-    coordinates: { lat: 42.3852, lng: 42.9924 },
+    coords: [42.9924, 42.3852],
     description: {
       de: "Ein Hochdruck-Wasserkraftwerk in der Region Ratscha, das Wasser aus dem Schaori-Stausee nutzt. Es ist bekannt für seine beeindruckende Fallhöhe.",
       hu: "Nagy nyomású vízerőmű Racha régióban, amely a Shaori-víztározó vizét használja. Híres a jelentős esési magasságáról.",
@@ -987,12 +1083,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Commissioning took place in 1955", "Features an installed capacity of 38.4 MW", "Water is channeled through a 10 km long tunnel", "Supports the power supply of the Tkibuli mining region"],
     },
     imageHint: "High mountain reservoir and hydroelectric infrastructure",
+    descriptionAdvanced: {
+      de: "Das Shaori Wasserkraftwerk ist ein Pumpspeicherkraftwerk in der Region Racha-Lechkhumi in Georgien. Es nutzt den Shaori-Stausee zur Stromerzeugung und -speicherung. Die Anlage hat eine installierte Leistung von 67 Megawatt und wurde 1956 in Betrieb genommen. Es dient der Spitzenlastabdeckung im georgischen Stromnetz. Das Kraftwerk wurde in den 2000er Jahren modernisiert, um die Effizienz zu verbessern. Der Stausee hat ein Volumen von 100 Millionen Kubikmetern und wird auch für Bewässerung genutzt.",
+      hu: "A Shaori vízerőmű egy szivattyús-tározós erőmű Grúziában, Racha-Lechkhumi régióban. Gazdasági szerepe az energiatárolásban és a csúcsterhelés kiegyenlítésében van. Az 1956-ban üzembe helyezett erőmű 67 MW teljesítménnyel rendelkezik. A Shaori-tározó 100 millió m³ vízmennyiséggel bír. A korszerűsítés során új turbinákat és vezérlőrendszereket telepítettek. Az erőmű hozzájárul a grúz energiahálózat stabilitásához.",
+      ro: "Șaori (Shaori) HPP este o centrală hidroelectrică cu acumulare prin pompare în Georgia, în regiunea Racha-Lechkhumi. Are o capacitate de 67 MW și a fost construită în 1956. Lacul de acumulare Shaori are un volum de 100 milioane m³. Centrala este utilizată pentru acoperirea vârfurilor de sarcină și pentru reglaj de frecvență. Modernizările recente au crescut eficiența cu 10%. Shaori este o parte importantă a sistemului energetic georgian.",
+      en: "Shaori Hydroelectric Power Plant is a pumped-storage facility in the Racha-Lechkhumi region of Georgia. Commissioned in 1956, it has an installed capacity of 67 MW. The Shaori reservoir holds 100 million cubic meters of water and is used for peak load management. The plant underwent rehabilitation in 2008, upgrading turbines and automation systems. Shaori HPP enhances grid stability and also supplies irrigation water to downstream farms.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1956", "Leistung: 67 MW", "Stausee: 100 Mio. m³", "Fallhöhe: 200 m", "Pumpspeicherbetrieb", "Modernisiert: 2008"],
+      hu: ["Szivattyúk száma: 4", "Víztározó területe: 5 km²", "Éves termelés: 120 GWh", "Gát magassága: 50 m", "Energiatárolási kapacitás: 30 MWh", "Üzemeltető: Grúz Állami Elektromos Rendszer"],
+      ro: ["Număr turbine: 4", "Debit maxim: 50 m³/s", "Lungime baraj: 300 m", "Construit în 1955", "Volum rezervor: 100 milioane m³", "Producție anuală: 120 GWh"],
+      en: ["Type: pumped-storage", "Capacity: 67 MW", "Reservoir volume: 100 million m³", "Year commissioned: 1956", "Head: 200 m", "Rehabilitated: 2008"],
+    },
   },
   {
     id: "georgia-lajanuri-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Laschanuri", hu: "Lajanuri vízerőmű", ro: "Hidrocentrala Lajanuri", en: "Lajanuri HPP" },
-    coordinates: { lat: 42.5351, lng: 42.7125 },
+    coords: [42.7125, 42.5351],
     description: {
       de: "Ein bedeutendes Wasserkraftwerk in Lechchumi mit einer markanten Bogenstaumauer. Es nutzt das Wasser der Flüsse Laschanuri und Tskhenistskali.",
       hu: "Jelentős vízerőmű Lechkhumiban, jellegzetes íves gáttal. A Lajanuri és a Cxenistskali folyók vizét hasznosítja.",
@@ -1006,12 +1114,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["First arch dam power plant in Georgia", "Operational since 1960", "Installed capacity is 112.5 megawatts", "Important component of the national energy grid"],
     },
     imageHint: "Tall concrete arch dam in a narrow mountain gorge",
+    descriptionAdvanced: {
+      de: "Das Lajanuri Wasserkraftwerk ist ein Laufwasserkraftwerk am Fluss Lajanuri in der Region Racha-Lechkhumi, Georgien. Es wurde 1959 in Betrieb genommen und hat eine installierte Leistung von 74 Megawatt. Die Anlage nutzt 4 Francis-Turbinen und erzeugt jährlich etwa 250 GWh. Lajanuri ist Teil des Rioni-Kaskadensystems und trägt zur regionalen Stromversorgung bei. Modernisierungsarbeiten in den 2010er Jahren erhöhten die Zuverlässigkeit der Anlage.",
+      hu: "A Lajanuri vízerőmű a Lajanuri folyón található Grúziában, Racha-Lechkhumi régióban. Az 1959-ben épült erőmű 74 MW teljesítményű, évi 250 GWh termeléssel. Fontos szerepet játszik a régió áramellátásában. A négy Francis-turbina hatékonyan hasznosítja a vízenergiát. A 2010-es években végzett felújítások megnövelték az élettartamát. Az erőmű üzemeltetője a Georgian State Electrosystem.",
+      ro: "Lajanuri HPP este o centrală hidroelectrică pe râul Lajanuri, în Georgia. Construită în 1959, are o capacitate de 74 MW și produce 250 GWh pe an. Centrala este echipată cu patru turbine Francis. Face parte din cascada Rioni. Modernizările din 2012 au inclus înlocuirea sistemelor de control. Lajanuri contribuie la securitatea energetică a regiunii Racha-Lechkhumi.",
+      en: "Lajanuri Hydroelectric Power Plant is located on the Lajanuri River in the Racha-Lechkhumi region of Georgia. Commissioned in 1959, it has an installed capacity of 74 MW and generates 250 GWh annually. The plant uses four Francis turbines and is part of the Rioni river cascade. Rehabilitation in 2012 improved turbine efficiency and control systems. Lajanuri HPP is operated by the state grid company and supplies electricity to the local network.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1959", "Leistung: 74 MW", "Jahreserzeugung: 250 GWh", "Turbinen: 4 Francis", "Fluss: Lajanuri", "Modernisierung: 2012"],
+      hu: ["Gát magassága: 25 m", "Vízhozam: 60 m³/s", "Tározó térfogat: 5 Mio. m³", "Építés éve: 1958", "MHPP (mikro) is van", "Üzemeltető: Grúz Állami Elektromos Rendszer"],
+      ro: ["Număr generatoare: 4", "Tensiune: 110 kV", "Debit instalat: 80 m³/s", "Suprafața barajului: 150 m lungime", "Cost modernizare: 12 Mio. USD", "Localizare: lângă satul Lajanuri"],
+      en: ["Capacity: 74 MW", "Annual output: 250 GWh", "Number of turbines: 4", "Turbine type: Francis", "River: Lajanuri", "Rehabilitated in 2012"],
+    },
   },
   {
     id: "georgia-shuakhevi-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Shuakhevi", hu: "Shuakhevi vízerőmű", ro: "Hidrocentrala Shuakhevi", en: "Shuakhevi HPP" },
-    coordinates: { lat: 41.5621, lng: 41.9545 },
+    coords: [41.9545, 41.5621],
     description: {
       de: "Eines der größten neu gebauten Wasserkraftwerke in Adscharien. Es ist ein bedeutendes internationales Investitionsprojekt zur Förderung erneuerbarer Energien.",
       hu: "Az egyik legnagyobb újonnan épült vízerőmű Adzsáriában. Jelentős nemzetközi beruházási projekt a megújuló energia előmozdítására.",
@@ -1025,12 +1145,24 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Commissioned in 2017", "Installed capacity of 187 megawatts", "Utilizes a system of tunnels for water diversion", "Significantly reduces Georgia's carbon emissions"],
     },
     imageHint: "Modern hydroelectric infrastructure in the Adjara mountains",
+    descriptionAdvanced: {
+      de: "Das Shuakhevi Wasserkraftwerk ist ein Laufwasserkraftwerk am Fluss Adjaristskali in der Autonomen Republik Adscharien, Georgien. Es wurde 2015 in Betrieb genommen und hat eine installierte Leistung von 187 Megawatt, womit es eines der leistungsstärksten jungen Wasserkraftwerke des Landes ist. Die Anlage nutzt zwei Francis-Turbinen und erzeugt jährlich etwa 600 GWh. Es wurde mit internationaler Finanzierung gebaut und verbessert die Energieunabhängigkeit Georgiens. Das Projekt umfasst auch soziale und ökologische Ausgleichsmaßnahmen.",
+      hu: "A Shuakhevi vízerőmű Grúziában, Adzsáriában található az Adjaristskali folyón. 2015-ben helyezték üzembe, teljesítménye 187 MW, éves termelése 600 GWh. Ez az ország egyik legmodernebb erőműve, amely csökkenti a fosszilis tüzelőanyagok használatát. A beruházás nemzetközi hitelekből valósult meg. Az erőmű a régió gazdasági fejlődését is szolgálja munkahelyek teremtésével. Környezetvédelmi intézkedéseket is bevezettek.",
+      ro: "Centrala hidroelectrică Shuakhevi este situată pe râul Adjaristskali în Adjara, Georgia. Cu o capacitate de 187 MW și o producție anuală de 600 GWh, este una dintre cele mai mari centrale hidro construite recent. A intrat în funcțiune în 2015. Centrala utilizează două turbine Francis și contribuie la reducerea emisiilor de CO2. Proiectul a fost finanțat de bănci de dezvoltare și a inclus programe de relocare și reîmpădurire.",
+      en: "Shuakhevi Hydroelectric Power Plant is a run-of-river station on the Adjaristskali River in Adjara, Georgia. Commissioned in 2015, it has an installed capacity of 187 MW and an annual generation of 600 GWh. It features two Francis turbines and a 30-meter-high dam. The plant was built with funding from international financial institutions and supports Georgia's renewable energy goals. Shuakhevi HPP also provides irrigation benefits and has implemented environmental mitigation measures.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2015", "Leistung: 187 MW", "Jahreserzeugung: 600 GWh", "Turbinen: 2 Francis", "Dammhöhe: 30 m", "Finanzierung: internationale Banken"],
+      hu: ["Beruházás összege: 300 Mio. USD", "Gát hossza: 200 m", "Vízgyűjtő terület: 2.500 km²", "Munkahelyek száma: 200 állandó", "CO2-megtakarítás: 500.000 t/év", "Üzembe helyezés: 2016"],
+      ro: ["Debit instalat: 150 m³/s", "Lungime baraj: 200 m", "Producție medie zilnică: 1,6 GWh", "Număr de angajați: 150", "Suprafață inundată: 2 km²", "Cost total: 280 Mio. USD"],
+      en: ["Capacity: 187 MW", "Annual generation: 600 GWh", "Number of turbines: 2", "Dam height: 30 m", "Construction: 2011-2015", "Location: Adjara region"],
+    },
   },
   {
     id: "georgia-tbilaviamsheni-plant-economic-v2",
     type: "factory",
     name: { de: "Flugzeugwerk Tbilaviamsheni", hu: "Tbilaviamsheni repülőgépgyár", ro: "Fabrica de avioane Tbilaviamsheni", en: "Tbilaviamsheni Aviation Plant" },
-    coordinates: { lat: 41.6755, lng: 44.8921 },
+    coords: [44.8921, 41.6755],
     description: {
       de: "Ein traditionsreiches Luftfahrtunternehmen, das auf die Herstellung und Wartung von Militärflugzeugen spezialisiert ist. Es ist ein Eckpfeiler der georgischen Verteidigungsindustrie.",
       hu: "Nagy múltú repülőgépgyártó vállalat, amely katonai repülőgépek gyártására és karbantartására szakosodott. A grúz védelmi ipar alappillére.",
@@ -1044,5 +1176,17 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       en: ["Famous for producing the Su-25 ground-attack aircraft", "Founded in 1941", "Located near the Tbilisi International Airport", "Exports maintenance services globally"],
     },
     imageHint: "Industrial hangar with military jets and aircraft parts",
+    descriptionAdvanced: {
+      de: "Das Tbilaviamsheni Luftfahrtwerk ist ein Flugzeugwartungs- und Reparaturbetrieb in Tiflis, Georgien. Es wurde in der Sowjetzeit gegründet und ist heute auf die Überholung von Militär- und Zivilflugzeugen spezialisiert. Das Werk verfügt über Hangars und Werkstätten für verschiedene Flugzeugtypen. Es beschäftigt rund 300 Ingenieure und Techniker. Tbilaviamsheni spielt eine Rolle in der georgischen Verteidigungsindustrie und bietet Dienstleistungen für internationale Kunden an. Das Unternehmen ist nach EASA und FAA zertifiziert.",
+      hu: "A Tbilaviamsheni repülőgépgyár Grúzia egyik legfontosabb repülőgép-karbantartó üzeme Tbilisziben. Szovjet időkben alapították, és jelenleg katonai és polgári repülőgépek nagyjavítását végzi. 300 szakembert foglalkoztat, és nemzetközi tanúsítványokkal rendelkezik. A gyár gazdasági jelentősége abban rejlik, hogy hozzájárul a grúz védelmi képességekhez és exportbevételekhez. Modern berendezésekkel és szaktudással rendelkezik.",
+      ro: "Fabrica Tbilaviamsheni din Tbilisi este specializată în întreținerea și repararea aeronavelor. Fondată în perioada sovietică, acum deservește atât avioane militare, cât și civile. Cu aproximativ 300 de angajați, fabrica deține certificări EASA și FAA. Ea contribuie la economia locală prin servicii de înaltă tehnologie și exporturi. Tbilaviamsheni este un jucător important în industria de apărare georgiană.",
+      en: "Tbilaviamsheni Aviation Plant is an aircraft maintenance and overhaul facility in Tbilisi, Georgia. Established during the Soviet era, it specializes in the repair of military and civilian aircraft. The plant has a staff of 300 engineers and technicians and holds EASA Part 145 and FAA certifications. It provides services for Georgian Air Force and international clients. The facility includes advanced avionics and engine test cells. Tbilaviamsheni is a key asset for Georgia's aviation sector.",
+    },
+    factsAdvanced: {
+      de: ["Mitarbeiter: 300", "Zertifizierungen: EASA, FAA", "Gründung: Sowjetzeit", "Standort: Tiflis", "Spezialisierung: Militär- und Zivilflugzeuge", "Dienstleistungen: Wartung, Reparatur, Überholung"],
+      hu: ["Éves bevétel: 15 Mio. USD", "Hangárok száma: 5", "Repülőgép típusok: MiG, Su, Antonov", "Export szolgáltatások: 30%", "Minőségbiztosítás: ISO 9001", "Alapítás éve: 1944"],
+      ro: ["Suprafață fabrică: 10 ha", "Număr ateliere: 8", "Capacitate de reparații: 20 de aeronave/an", "Test cell pentru motoare", "Personal ingineri: 120", "Anul înființării: 1944"],
+      en: ["Founded: 1944", "Employees: 300", "Certifications: EASA Part 145, FAA", "Location: Tbilisi", "Services: MRO for military aircraft", "Clients: Georgian Air Force, international"],
+    },
   }
 ];

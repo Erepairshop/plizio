@@ -646,7 +646,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-aitana-relief-v2",
     type: "peak",
     name: { de: "Aitana-Gebirge", hu: "Aitana-hegység", ro: "Muntele Aitana", en: "Mount Aitana" },
-    coordinates: { lat: -8.8423, lng: 126.2714 },
+    coords: [126.2714, -8.8423],
     description: {
       de: "Der Berg Aitana ist eine markante Erhebung im Osten von Timor-Leste. Er prägt das Relief der Gemeinde Viqueque mit seinen zerklüfteten Hängen.",
       hu: "Az Aitana-hegy Kelet-Timor keleti részének egyik meghatározó kiemelkedése. Viqueque község domborzatát uralja meredek és sziklás lejtőivel.",
@@ -665,7 +665,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-leolaco-relief-v2",
     type: "peak",
     name: { de: "Leolaco-Massiv", hu: "Leolaco-masszívum", ro: "Muntele Leolaco", en: "Mount Leolaco" },
-    coordinates: { lat: -8.9341, lng: 125.2256 },
+    coords: [125.2256, -8.9341],
     description: {
       de: "Das Leolaco-Massiv befindet sich im Westen des Landes nahe der Grenze zu Indonesien. Es ist bekannt für seine schroffen Felsformationen und tiefen Schluchten.",
       hu: "A Leolaco-masszívum az ország nyugati részén, az indonéz határ közelében helyezkedik el. Ismert meredek sziklafalairól és mély szakadékairól.",
@@ -684,7 +684,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-fatumasin-relief-v2",
     type: "peak",
     name: { de: "Berg Fatumasin", hu: "Fatumasin-hegy", ro: "Muntele Fatumasin", en: "Mount Fatumasin" },
-    coordinates: { lat: -8.6125, lng: 125.3789 },
+    coords: [125.3789, -8.6125],
     description: {
       de: "Der Fatumasin ist der höchste Berg in der Gemeinde Liquiçá. Er bietet weitreichende Ausblicke auf die Nordküste und das umliegende Hochland von Timor-Leste.",
       hu: "A Fatumasin Liquiçá község legmagasabb hegye. Széles kilátást nyújt az északi partra és Kelet-Timor környező felföldi területeire.",
@@ -703,7 +703,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-guguleur-relief-v2",
     type: "peak",
     name: { de: "Berg Guguleur", hu: "Guguleur-hegy", ro: "Muntele Guguleur", en: "Mount Guguleur" },
-    coordinates: { lat: -8.5487, lng: 125.3312 },
+    coords: [125.3312, -8.5487],
     description: {
       de: "Der Guguleur ist ein markanter Küstenberg im Nordwesten von Timor-Leste. Er fällt steil zum Meer hin ab und prägt das Relief entlang der Straße nach Westen.",
       hu: "A Guguleur egy jellegzetes parti hegy Kelet-Timor északnyugati részén. Meredeken szakad le a tenger felé, meghatározva a nyugati út menti domborzatot.",
@@ -722,7 +722,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-lame-relief-v2",
     type: "peak",
     name: { de: "Berg Lame", hu: "Lame-hegy", ro: "Muntele Lame", en: "Mount Lame" },
-    coordinates: { lat: -8.8156, lng: 125.3842 },
+    coords: [125.3842, -8.8156],
     description: {
       de: "Der Berg Lame ist eine bedeutende Erhebung in den zentralen Hochlanden von Ermera. Er ist von dichten Wäldern und Kaffeekulturen umgeben.",
       hu: "A Lame-hegy jelentős kiemelkedés Ermera központi felföldi területein. Sűrű erdők és kávéültetvények veszik körül.",
@@ -741,7 +741,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-cailaco-relief-v2",
     type: "peak",
     name: { de: "Cailaco-Bergmassiv", hu: "Cailaco-hegytömb", ro: "Muntele Cailaco", en: "Mount Cailaco" },
-    coordinates: { lat: -8.8792, lng: 125.2134 },
+    coords: [125.2134, -8.8792],
     description: {
       de: "Das Cailaco-Bergmassiv ist eine beeindruckende Kalksteinformation im Westen Timors. Seine fast senkrechten Wände ragen markant aus der Ebene des Marobo-Flusses empor.",
       hu: "A Cailaco-hegytömb lenyűgöző mészkőformáció Nyugat-Timorban. Szinte függőleges falai markánsan emelkednek ki a Marobo-folyó síkságából.",
@@ -760,7 +760,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-samoro-relief-v2",
     type: "peak",
     name: { de: "Berg Samoro", hu: "Samoro-hegy", ro: "Muntele Samoro", en: "Mount Samoro" },
-    coordinates: { lat: -8.9102, lng: 125.9245 },
+    coords: [125.9245, -8.9102],
     description: {
       de: "Der Samoro ist ein zentraler Gipfel in der Manatuto-Region. Er ist ein wichtiger Teil des zentralen Gebirgsrückens, der die Insel Timor von West nach Ost durchzieht.",
       hu: "A Samoro egy központi csúcs Manatuto régiójában. A Timor szigetén nyugatról keletre végighúzódó központi hegygerinc fontos része.",
@@ -779,7 +779,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-laueno-relief-v2",
     type: "peak",
     name: { de: "Berg Laueno", hu: "Laueno-hegy", ro: "Muntele Laueno", en: "Mount Laueno" },
-    coordinates: { lat: -9.3254, lng: 124.3123 },
+    coords: [124.3123, -9.3254],
     description: {
       de: "Der Berg Laueno ist die höchste Erhebung in der Exklave Oecusse. Er prägt das zerklüftete Hinterland dieser isolierten Region von Timor-Leste.",
       hu: "A Laueno-hegy az Oecusse exklávé legmagasabb pontja. Meghatározza Kelet-Timor ezen izolált régiójának tagolt hátországát.",
@@ -798,7 +798,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-berau-relief-v2",
     type: "peak",
     name: { de: "Berg Berau", hu: "Berau-hegy", ro: "Muntele Berau", en: "Mount Berau" },
-    coordinates: { lat: -8.5632, lng: 125.5147 },
+    coords: [125.5147, -8.5632],
     description: {
       de: "Der Berau ist ein markanter Berg südlich von Dili. Er gehört zu den nördlichen Ausläufern der zentralen Bergkette und bietet einen Überblick über die Hauptstadt.",
       hu: "A Berau egy jellegzetes hegy Dilitől délre. A központi hegylánc északi nyúlványaihoz tartozik, és rálátást biztosít a fővárosra.",
@@ -817,7 +817,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "timorleste-mount-maubere-relief-v2",
     type: "peak",
     name: { de: "Berg Maubere", hu: "Maubere-hegy", ro: "Muntele Maubere", en: "Mount Maubere" },
-    coordinates: { lat: -9.0215, lng: 125.6841 },
+    coords: [125.6841, -9.0215],
     description: {
       de: "Der Maubere ist ein hoher Gipfel in der Gemeinde Manufahi. Er liegt am südlichen Hang des Ramelau-Massivs und ist durch tief eingeschnittene Täler isoliert.",
       hu: "A Maubere egy magas csúcs Manufahi községben. A Ramelau-masszívum déli lejtőjén fekszik, és mélyen vágott völgyek választják el a környezetétől.",

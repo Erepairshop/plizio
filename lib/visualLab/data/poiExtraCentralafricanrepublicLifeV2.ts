@@ -610,7 +610,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-avakaba-reserve-life-v2",
     type: "wildlife",
     name: { de: "Avakaba Reservat", hu: "Avakaba Rezervátum", ro: "Rezervația Avakaba", en: "Avakaba Reserve" },
-    coordinates: { lat: 6.81, lng: 23.95 },
+    coords: [23.95, 6.81],
     description: {
       de: "Das Avakaba-Reservat liegt im Nordosten der Zentralafrikanischen Republik. Es schützt bedeutende Savannengebiete und beheimatet lokale Wildtierpopulationen.",
       hu: "Az Avakaba-rezervátum a Közép-afrikai Köztársaság északkeleti részén található. Jelentős szavannaterületeket véd, és otthont ad a helyi vadvilágnak.",
@@ -641,7 +641,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-bangoran-wetlands-life-v2",
     type: "park",
     name: { de: "Bangoran Feuchtgebiete", hu: "Bangoran Vizesélőhelyek", ro: "Zonele Umede Bangoran", en: "Bangoran Wetlands" },
-    coordinates: { lat: 8.52, lng: 20.65 },
+    coords: [20.65, 8.52],
     description: {
       de: "Die Bangoran-Feuchtgebiete erstrecken sich entlang des gleichnamigen Flusses im Norden. Sie dienen als wichtiger Lebensraum für zahlreiche Vogel- und Amphibienarten.",
       hu: "A Bangoran vizesélőhelyek az azonos nevű folyó mentén terülnek el északon. Fontos élőhelyként szolgálnak számos madár- és kétéltűfaj számára.",
@@ -672,7 +672,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-gorou-fauna-zone-life-v2",
     type: "wildlife",
     name: { de: "Gorou Fauna Zone", hu: "Gorou Fauna Zóna", ro: "Zona de Faună Gorou", en: "Gorou Fauna Zone" },
-    coordinates: { lat: 7.45, lng: 21.32 },
+    coords: [21.32, 7.45],
     description: {
       de: "Die Gorou-Fauna-Zone dient dem Schutz der regionalen Biodiversität. Sie umfasst dichte Waldgebiete und ist Teil des zentralafrikanischen Ökosystems.",
       hu: "A Gorou Fauna Zóna a regionális biodiverzitás védelmét szolgálja. Sűrű erdőterületeket foglal magában, és a közép-afrikai ökoszisztéma része.",
@@ -703,7 +703,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-kotto-nature-sanctuary-life-v2",
     type: "park",
     name: { de: "Kotto Naturschutzgebiet", hu: "Kotto Természetvédelmi Terület", ro: "Rezervația Naturală Kotto", en: "Kotto Nature Sanctuary" },
-    coordinates: { lat: 6.12, lng: 22.85 },
+    coords: [22.85, 6.12],
     description: {
       de: "Dieses Schutzgebiet am Kotto-Fluss ist für seine vielfältige Flora bekannt. Es bietet Schutz für seltene Pflanzenarten und lokale Insektenpopulationen.",
       hu: "Ez a Kotto folyó mentén fekvő védett terület gazdag növényvilágáról ismert. Védelmet nyújt ritka növényfajok és helyi rovarpopulációk számára.",
@@ -734,7 +734,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-mbere-valley-preserve-life-v2",
     type: "park",
     name: { de: "Mbere Tal Reservat", hu: "Mbere Völgy Rezervátum", ro: "Rezervația Valea Mbere", en: "Mbere Valley Preserve" },
-    coordinates: { lat: 6.95, lng: 15.65 },
+    coords: [15.65, 6.95],
     description: {
       de: "Das Mbere-Tal im Westen der Zentralafrikanischen Republik weist eine abwechslungsreiche Landschaft auf. Es fungiert als Korridor für wandernde Tierherden.",
       hu: "A Közép-afrikai Köztársaság nyugati részén található Mbere-völgy változatos tájképpel rendelkezik. Vándorló állatcsordák számára szolgál folyosóként.",
@@ -765,7 +765,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-ndele-biosphere-life-v2",
     type: "wildlife",
     name: { de: "Ndele Biosphärengebiet", hu: "Ndele Bioszféra-terület", ro: "Rezervația Biosferei Ndele", en: "Ndele Biosphere Area" },
-    coordinates: { lat: 8.41, lng: 20.65 },
+    coords: [20.65, 8.41],
     description: {
       de: "Nahe Ndele gelegen, konzentriert sich dieses Gebiet auf die Erhaltung der lokalen Biodiversität. Es wird intensiv für ökologische Studien genutzt.",
       hu: "Ndele közelében található, ez a terület a helyi biodiverzitás megőrzésére összpontosít. Intenzíven használják ökológiai tanulmányokhoz.",
@@ -779,12 +779,24 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       en: ["Near Ndele", "Ecological research area", "Conservation project", "Wildlife monitoring"],
     },
     imageHint: "research outpost in african savanna",
+    descriptionAdvanced: {
+      de: "Das Biosphärenreservat Ndele in der Zentralafrikanischen Republik ist ein UNESCO-geschütztes Gebiet, das für seine artenreiche Savanne und Feuchtgebiete bekannt ist. Es liegt in der Präfektur Bamingui-Bangoran und umfasst eine Fläche von etwa 1,5 Millionen Hektar. Das Reservat beherbergt Elefanten, Büffel, Antilopen und zahlreiche Vogelarten. Es dient als wichtiger Korridor für Wildtiere zwischen dem Tschad und der Demokratischen Republik Kongo. Die lokalen Gemeinschaften betreiben nachhaltige Landwirtschaft und Jagd. Das Gebiet ist jedoch durch Wilderei und Konflikte bedroht.",
+      hu: "A Közép-afrikai Köztársaságban található Ndele Bioszféra Rezervátum egy UNESCO által védett terület, amely gazdag szavannájáról és vizes élőhelyeiről ismert. Bamingui-Bangoran prefektúrában található, és körülbelül 1,5 millió hektáron terül el. A rezervátum elefántoknak, bivalyoknak, antilopoknak és számos madárfajnak ad otthont. Fontos vadfolyosóként szolgál Csád és a Kongói Demokratikus Köztársaság között. A helyi közösségek fenntartható mezőgazdaságot és vadászatot folytatnak. A területet azonban az orvvadászat és a konfliktusok fenyegetik.",
+      ro: "Rezervația Biosferei Ndele din Republica Centrafricană este o zonă protejată UNESCO, cunoscută pentru savanele și zonele umede bogate în biodiversitate. Se află în prefectura Bamingui-Bangoran și se întinde pe aproximativ 1,5 milioane de hectare. Rezervația adăpostește elefanți, bivoli, antilope și numeroase specii de păsări. Servește ca un coridor important pentru fauna sălbatică între Ciad și Republica Democrată Congo. Comunitățile locale practică agricultura și vânătoarea sustenabilă. Zona este amenințată de braconaj și conflicte.",
+      en: "The Ndele Biosphere Reserve in the Central African Republic is a UNESCO-protected area known for its diverse savanna and wetlands. It lies in the Bamingui-Bangoran prefecture and covers about 1.5 million hectares. The reserve hosts elephants, buffalo, antelopes, and numerous bird species. It serves as an important wildlife corridor between Chad and the Democratic Republic of the Congo. Local communities practice sustainable agriculture and hunting. The area is threatened by poaching and conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat wurde 1979 von der UNESCO anerkannt.", "Es umfasst eine Fläche von 1.500.000 Hektar.", "Die Höhe variiert zwischen 400 und 800 m über dem Meeresspiegel.", "Es beherbergt über 200 Vogelarten.", "Der Fluss Ndele fließt durch das Reservat.", "Die jährliche Niederschlagsmenge beträgt ca. 1.200 mm."],
+      hu: ["A rezervátumot 1979-ben ismerte el az UNESCO.", "Területe 1 500 000 hektár.", "A tengerszint feletti magasság 400 és 800 m között változik.", "Több mint 200 madárfajnak ad otthont.", "A Ndele folyó áthalad a rezervátumon.", "Az éves csapadékmennyiség körülbelül 1200 mm."],
+      ro: ["Rezervația a fost recunoscută de UNESCO în 1979.", "Se întinde pe 1.500.000 hectare.", "Altitudinea variază între 400 și 800 m deasupra nivelului mării.", "Adăpostește peste 200 de specii de păsări.", "Râul Ndele traversează rezervația.", "Precipitațiile anuale sunt de aproximativ 1.200 mm."],
+      en: ["The reserve was recognized by UNESCO in 1979.", "It covers an area of 1,500,000 hectares.", "Elevation ranges between 400 and 800 m above sea level.", "It hosts over 200 bird species.", "The Ndele River flows through the reserve.", "Annual rainfall is approximately 1,200 mm."],
+    },
   },
   {
     id: "centralafricanrepublic-ouham-riverine-reserve-life-v2",
     type: "river",
     name: { de: "Ouham Flussreservat", hu: "Ouham Folyami Rezervátum", ro: "Rezervația Riverană Ouham", en: "Ouham Riverine Reserve" },
-    coordinates: { lat: 7.15, lng: 18.25 },
+    coords: [18.25, 7.15],
     description: {
       de: "Dieses Flussreservat schützt die Uferbereiche des Ouham-Flusses. Es spielt eine zentrale Rolle für die Wasserversorgung lokaler Ökosysteme.",
       hu: "Ez a folyami rezervátum védi az Ouham folyó part menti területeit. Központi szerepet játszik a helyi ökoszisztémák vízellátásában.",
@@ -815,7 +827,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-pende-savanna-park-life-v2",
     type: "park",
     name: { de: "Pende Savannenpark", hu: "Pende Szavannapark", ro: "Parcul de Savană Pende", en: "Pende Savanna Park" },
-    coordinates: { lat: 7.25, lng: 16.55 },
+    coords: [16.55, 7.25],
     description: {
       de: "Der Pende-Savannenpark im Nordwesten ist ein wichtiges Schutzgebiet für Graslandarten. Die Region zeichnet sich durch saisonale Trockenperioden aus.",
       hu: "Az északnyugati Pende Szavannapark fontos védett terület a gyeplakó fajok számára. A régiót szezonális száraz időszakok jellemzik.",
@@ -846,7 +858,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-sangha-forest-outpost-life-v2",
     type: "forest",
     name: { de: "Sangha Waldaußenposten", hu: "Sangha Erdei Előőrs", ro: "Avanpostul Forestier Sangha", en: "Sangha Forest Outpost" },
-    coordinates: { lat: 3.85, lng: 16.35 },
+    coords: [16.35, 3.85],
     description: {
       de: "In der Nähe der Sangha-Region gelegen, dient dieser Ort der Beobachtung von Regenwaldtieren. Er ist ein kritischer Punkt für den Naturschutz.",
       hu: "A Sangha régió közelében található, ez a hely esőerdei állatok megfigyelésére szolgál. Kritikus pont a természetvédelem számára.",
@@ -877,7 +889,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     id: "centralafricanrepublic-zemongo-wildlife-corridor-life-v2",
     type: "wildlife",
     name: { de: "Zemongo Wildtierkorridor", hu: "Zemongo Vadvilág Folyosó", ro: "Coridorul de Faună Zemongo", en: "Zemongo Wildlife Corridor" },
-    coordinates: { lat: 5.45, lng: 25.15 },
+    coords: [25.15, 5.45],
     description: {
       de: "Dieser Korridor im Osten verbindet isolierte Waldinseln. Er ermöglicht den genetischen Austausch unter den dort lebenden Tierpopulationen.",
       hu: "Ez a keleti folyosó összeköti az elszigetelt erdőszigeteket. Lehetővé teszi az ott élő állatpopulációk közötti genetikai cserét.",

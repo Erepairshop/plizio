@@ -1046,7 +1046,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-sangtuda-2-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Sangtuda 2", hu: "Szangtuda–2 vízerőmű", ro: "Hidrocentrala Sangtuda 2", en: "Sangtuda 2 Hydroelectric Power Plant" },
-    coordinates: { lat: 38.0267, lng: 68.9633 },
+    coords: [68.9633, 38.0267],
     description: {
       de: "Dieses Kraftwerk am Fluss Wachsch wurde mit iranischer Unterstützung gebaut. Es trägt wesentlich zur Stromversorgung im Süden Tadschikistans bei.",
       hu: "A Vahs folyón épült vízerőmű iráni támogatással valósult meg. Jelentősen hozzájárul Tádzsikisztán déli részének energiaellátásához.",
@@ -1065,7 +1065,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-baipaza-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Baipaza", hu: "Baipaza vízerőmű", ro: "Hidrocentrala Baipaza", en: "Baipaza Hydroelectric Power Plant" },
-    coordinates: { lat: 38.3, lng: 69.1 },
+    coords: [69.1, 38.3],
     description: {
       de: "Die Baipaza-Talsperre dient sowohl der Stromerzeugung als auch der Bewässerung landwirtschaftlicher Flächen. Sie liegt unterhalb der Nurek-Talsperre.",
       hu: "A Baipaza-gát energiatermelésre és mezőgazdasági területek öntözésére egyaránt szolgál. A Nureki-gát alatt helyezkedik el.",
@@ -1084,7 +1084,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-anzob-metallurgy-economic-v2",
     type: "mine",
     name: { de: "Anzob-Hüttenwerk", hu: "Anzob Kohászati Kombinát", ro: "Combinatul Metalurgic Anzob", en: "Anzob Metallurgy Combine" },
-    coordinates: { lat: 39.2, lng: 68.5 },
+    coords: [68.5, 39.2],
     description: {
       de: "Dieses Werk ist ein führender Produzent von Antimon und Quecksilber in Zentralasien. Es verarbeitet Erze aus dem nahegelegenen Anzob-Pass.",
       hu: "Ez az üzem Közép-Ázsia egyik vezető antimon- és higanytermelője. A közeli Anzob-hágó érceit dolgozza fel.",
@@ -1103,7 +1103,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-bolshoi-konimansur-mine-economic-v2",
     type: "mine",
     name: { de: "Groß-Konimansur Silbermine", hu: "Nagy-Konimanszur ezüstbánya", ro: "Mina de argint Bolshoi Konimansur", en: "Bolshoi Konimansur Silver Mine" },
-    coordinates: { lat: 40.5, lng: 70.5 },
+    coords: [70.5, 40.5],
     description: {
       de: "Eines der weltweit größten Silbervorkommen befindet sich hier im Norden Tadschikistans. Die Lagerstätte enthält auch Blei und Zink.",
       hu: "A világ egyik legnagyobb ezüstlelőhelye Tádzsikisztán északi részén található. A lelőhely ólmot és cinket is tartalmaz.",
@@ -1122,7 +1122,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-korvon-bazaar-economic-v2",
     type: "landmark",
     name: { de: "Korvon-Basar", hu: "Korvon bazár", ro: "Bazarul Korvon", en: "Korvon Bazaar" },
-    coordinates: { lat: 38.5, lng: 68.75 },
+    coords: [68.75, 38.5],
     description: {
       de: "Der Korvon-Basar ist der größte Großhandelsmarkt in Duschanbe und ein Zentrum für Textilien. Er ist ein wichtiger Motor für den regionalen Handel.",
       hu: "A Korvon bazár Dusanbe legnagyobb nagybani piaca és a textilkereskedelem központja. A regionális gazdaság fontos motorja.",
@@ -1141,7 +1141,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-spitamen-textiles-economic-v2",
     type: "factory",
     name: { de: "Spitamen Textilfabrik", hu: "Spitamen textilgyár", ro: "Fabrica de textile Spitamen", en: "Spitamen Textiles" },
-    coordinates: { lat: 40.1, lng: 69.3 },
+    coords: [69.3, 40.1],
     description: {
       de: "Dieses moderne Textilwerk verarbeitet tadschikische Baumwolle zu hochwertigen Garnen. Es ist ein Beispiel für den Ausbau der lokalen Wertschöpfung.",
       hu: "Ez a modern textilüzem tádzsik gyapotot dolgoz fel kiváló minőségű fonallá. A helyi hozzáadott érték növelésének példája.",
@@ -1160,7 +1160,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-tojik-azot-plant-economic-v2",
     type: "factory",
     name: { de: "Tojik-Azot Düngemittelwerk", hu: "Todzsik-Azot műtrágyagyár", ro: "Combinatul chimic Tojik-Azot", en: "Tojik-Azot Fertilizer Plant" },
-    coordinates: { lat: 37.8, lng: 68.8 },
+    coords: [68.8, 37.8],
     description: {
       de: "Die einzige große Anlage zur Herstellung von Stickstoffdüngemitteln in Tadschikistan. Sie ist entscheidend für die Produktivität der Landwirtschaft.",
       hu: "Tádzsikisztán egyetlen nagy nitrogénműtrágya-gyártó létesítménye. Meghatározó a mezőgazdaság termelékenysége szempontjából.",
@@ -1179,7 +1179,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-isfara-fruit-processing-economic-v2",
     type: "factory",
     name: { de: "Isfara Fruchtverarbeitung", hu: "Iszfarai gyümölcsfeldolgozó", ro: "Procesarea fructelor Isfara", en: "Isfara Fruit Processing" },
-    coordinates: { lat: 40.12, lng: 70.62 },
+    coords: [70.62, 40.12],
     description: {
       de: "Isfara ist das Zentrum für getrocknete Früchte und Konserven in Tadschikistan. Die Region ist berühmt für ihre hochwertigen Aprikosen.",
       hu: "Iszfara a szárított gyümölcsök és konzervek központja Tádzsikisztánban. A régió híres kiváló minőségű sárgabarackjáról.",
@@ -1198,7 +1198,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-javoni-textile-factory-economic-v2",
     type: "factory",
     name: { de: "Javoni Textilfabrik", hu: "Javoni textilgyár", ro: "Fabrica de textile Javoni", en: "Javoni Textile Factory" },
-    coordinates: { lat: 40.28, lng: 69.62 },
+    coords: [69.62, 40.28],
     description: {
       de: "Ein tadschikisch-italienisches Gemeinschaftsunternehmen in Chudschand. Es produziert hochwertige Kleidung für internationale Marken.",
       hu: "Tádzsik-olasz vegyesvállalat Hudzsandban. Kiváló minőségű ruházati cikkeket gyárt nemzetközi márkák számára.",
@@ -1217,7 +1217,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-chorukh-dairon-mine-economic-v2",
     type: "mine",
     name: { de: "Wolframmine Chorukh-Dairon", hu: "Csoruh-Dairon volfrámbánya", ro: "Mina de tungsten Chorukh-Dairon", en: "Chorukh-Dairon Mining Area" },
-    coordinates: { lat: 40.35, lng: 69.8 },
+    coords: [69.8, 40.35],
     description: {
       de: "Ein historisch wichtiges Bergbaugebiet für Wolfram und Molybdän. Die Lagerstätten waren entscheidend für die sowjetische Schwerindustrie.",
       hu: "Történelmileg fontos volfrám- és molibdénbányászati terület. A lelőhelyek meghatározóak voltak a szovjet nehézipar számára.",
@@ -1236,7 +1236,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-kulma-pass-trade-economic-v2",
     type: "landmark",
     name: { de: "Kulma-Pass Handelsstation", hu: "Kulma-hágó kereskedelmi pont", ro: "Punctul comercial Pasul Kulma", en: "Kulma Pass Trade Crossing" },
-    coordinates: { lat: 38.15, lng: 74.8 },
+    coords: [74.8, 38.15],
     description: {
       de: "Der einzige Grenzübergang zwischen Tadschikistan und China auf über 4.300 Metern Höhe. Er ist die wichtigste Lebensader für Importwaren.",
       hu: "Az egyetlen határátkelő Tádzsikisztán és Kína között, több mint 4300 méter magasságban. Az importáruk legfőbb útvonala.",
@@ -1255,7 +1255,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-kulob-central-market-economic-v2",
     type: "landmark",
     name: { de: "Zentralmarkt von Kulob", hu: "Kulobi központi piac", ro: "Piața centrală din Kulob", en: "Kulob Central Market" },
-    coordinates: { lat: 37.9, lng: 69.78 },
+    coords: [69.78, 37.9],
     description: {
       de: "Das wirtschaftliche Herz der Region Chatlon. Dieser Basar ist ein wichtiges Handelszentrum für Agrarprodukte aus dem Süden.",
       hu: "Hatlon régió gazdasági szíve. Ez a bazár a déli mezőgazdasági termékek legfontosabb kereskedelmi központja.",
@@ -1274,7 +1274,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-maykhura-mine-economic-v2",
     type: "mine",
     name: { de: "Maykhura Wolframmine", hu: "Majhura volfrámbánya", ro: "Mina de tungsten Maykhura", en: "Maykhura Mine" },
-    coordinates: { lat: 38.9, lng: 68.9 },
+    coords: [68.9, 38.9],
     description: {
       de: "Eine hochgelegene Mine im Hissargebirge, die für ihre Wolframvorkommen bekannt ist. Sie spielt eine Rolle in der nationalen Rohstoffstrategie.",
       hu: "Magasan fekvő bánya a Gisszar-hegységben, amely volfrámkészleteiről ismert. Fontos szerepet játszik a nemzeti nyersanyagstratégiában.",
@@ -1293,7 +1293,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-varzob-1-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Varzob-1", hu: "Varzob–1 vízerőmű", ro: "Hidrocentrala Varzob-1", en: "Varzob-1 Hydroelectric Power Plant" },
-    coordinates: { lat: 38.6, lng: 68.8 },
+    coords: [68.8, 38.6],
     description: {
       de: "Das älteste Wasserkraftwerk Tadschikistans, das die Hauptstadt Duschanbe seit Jahrzehnten versorgt. Es wurde kürzlich modernisiert.",
       hu: "Tádzsikisztán legrégebbi vízerőműve, amely évtizedek óta látja el Dusanbét. Nemrégiben teljes körűen felújították.",
@@ -1312,7 +1312,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-khatlon-cotton-plant-economic-v2",
     type: "factory",
     name: { de: "Baumwollwerk Chatlon", hu: "Hatlon gyapotfeldolgozó", ro: "Fabrica de bumbac Khatlon", en: "Khatlon Cotton Ginning" },
-    coordinates: { lat: 37.8, lng: 68.8 },
+    coords: [68.8, 37.8],
     description: {
       de: "Ein zentraler Betrieb für die Entkörnung und Verarbeitung von Rohbaumwolle im Süden. Er ist die Basis für die tadschikische Textilkette.",
       hu: "Központi üzem a nyersgyapot tisztítására és feldolgozására délen. Ez képezi a tádzsik textillánc alapját.",
@@ -1331,7 +1331,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-spitamen-oil-refinery-economic-v2",
     type: "industry",
     name: { de: "Ölraffinerie Spitamen", hu: "Spitamen olajfinomító", ro: "Rafinăria de petrol Spitamen", en: "Spitamen Oil Refinery" },
-    coordinates: { lat: 40.1, lng: 69.3 },
+    coords: [69.3, 40.1],
     description: {
       de: "Eine der wenigen Anlagen zur Erdölverarbeitung im Land. Sie zielt darauf ab, die Abhängigkeit von Treibstoffimporten zu verringern.",
       hu: "Az ország kevés kőolajfeldolgozó létesítményének egyike. Célja az üzemanyag-importtól való függőség csökkentése.",
@@ -1350,7 +1350,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-takob-ore-processing-economic-v2",
     type: "industry",
     name: { de: "Takob Erzaufbereitung", hu: "Takobi ércdúsító", ro: "Procesarea minereului Takob", en: "Takob Ore Processing" },
-    coordinates: { lat: 38.8, lng: 68.9 },
+    coords: [68.9, 38.8],
     description: {
       de: "Diese Anlage verarbeitet Flussspat, ein wichtiges Mineral für die Aluminiumproduktion bei TALCO. Sie ist ein Glied der Schwerindustriekette.",
       hu: "Ez az üzem folypátot dolgoz fel, amely a TALCO alumíniumgyártásának kulcsfontosságú ásványa. A nehézipari lánc fontos szeme.",
@@ -1369,7 +1369,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-sarband-hpp-economic-v2",
     type: "industry",
     name: { de: "Wasserkraftwerk Sarband", hu: "Sarbandi vízerőmű", ro: "Hidrocentrala Sarband", en: "Sarband Hydroelectric Plant" },
-    coordinates: { lat: 37.85, lng: 68.95 },
+    coords: [68.95, 37.85],
     description: {
       de: "Ein wichtiger Bestandteil der Kraftwerkskaskade am Fluss Wachsch. Es wurde modernisiert, um die Effizienz der Stromerzeugung zu steigern.",
       hu: "A Vahs folyó vízerőmű-kaszkádjának fontos eleme. Az energiatermelés hatékonyságának növelése érdekében modernizálták.",
@@ -1388,7 +1388,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "tajikistan-kayrakkum-carpet-factory-economic-v2",
     type: "factory",
     name: { de: "Teppichfabrik Kayrakkum", hu: "Kajrakkum-i szőnyeggyár", ro: "Fabrica de covoare Kayrakkum", en: "Kayrakkum Carpet Factory" },
-    coordinates: { lat: 40.27, lng: 69.8 },
+    coords: [69.8, 40.27],
     description: {
       de: "Berühmte Fabrik in Guliston, die für ihre tadschikischen Teppiche bekannt ist. Sie exportiert ihre Produkte in die gesamte Region.",
       hu: "Híres gyár Gulisztonban, amely tádzsik szőnyegeiről ismert. Termékeit az egész régióba exportálja.",

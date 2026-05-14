@@ -633,7 +633,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-greater-caucasus-range-relief-v2",
     type: "mountain",
     name: { de: "Großer Kaukasus", hu: "Nagy-Kaukázus", ro: "Marele Caucaz", en: "Greater Caucasus Range" },
-    coordinates: { lat: 41.0, lng: 48.0 },
+    coords: [48.0, 41.0],
     description: {
       de: "Dieses Faltengebirge erstreckt sich über den Norden Aserbaidschans und bildet die natürliche Grenze zu Russland. Es beherbergt die höchsten Gipfel des Landes und ist durch alpine Landschaften geprägt.",
       hu: "Ez a gyűrt hegylánc Azerbajdzsán északi részén húzódik, természetes határt alkotva Oroszországgal. Itt találhatók az ország legmagasabb csúcsai és alpesi tájai.",
@@ -664,7 +664,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-lesser-caucasus-range-relief-v2",
     type: "mountain",
     name: { de: "Kleiner Kaukasus", hu: "Kis-Kaukázus", ro: "Caucazul Mic", en: "Lesser Caucasus Range" },
-    coordinates: { lat: 40.0, lng: 46.5 },
+    coords: [46.5, 40.0],
     description: {
       de: "Der Kleine Kaukasus verläuft parallel zum Großen Kaukasus im Südwesten Aserbaidschans. Das Gebirge zeichnet sich durch vulkanische Plateaus und tief eingeschnittene Flusstäler aus.",
       hu: "A Kis-Kaukázus a Nagy-Kaukázussal párhuzamosan fut Azerbajdzsán délnyugati részén. A hegységet vulkáni fennsíkok és mélyen bevágott folyóvölgyek jellemzik.",
@@ -695,7 +695,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-hinaldag-mountain-relief-v2",
     type: "peak",
     name: { de: "Hinaldag", hu: "Hinaldag", ro: "Hinaldag", en: "Hinaldag" },
-    coordinates: { lat: 40.302, lng: 46.031 },
+    coords: [46.031, 40.302],
     description: {
       de: "Der Hinaldag ist ein prominenter Gipfel im Kleinen Kaukasus an der Grenze der Bezirke Dashkasan und Kalbajar. Er erreicht eine Höhe von über 3300 Metern über dem Meeresspiegel.",
       hu: "A Hinaldag a Kis-Kaukázus egyik kiemelkedő csúcsa a Dashkasan és Kalbajar járások határán. Magassága meghaladja a 3300 métert a tengerszint felett.",
@@ -726,7 +726,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-yarudag-mountain-relief-v2",
     type: "peak",
     name: { de: "Yarudag", hu: "Jarudag", ro: "Yarudag", en: "Mount Yarudag" },
-    coordinates: { lat: 41.222, lng: 47.962 },
+    coords: [47.962, 41.222],
     description: {
       de: "Der Yarudag ist einer der höchsten Gipfel im aserbaidschanischen Teil des Großen Kaukasus. Er befindet sich im Bezirk Qusar nahe der Grenze zu Dagestan.",
       hu: "A Jarudag a Nagy-Kaukázus azerbajdzsáni részének egyik legmagasabb csúcsa. A Qusar járásban található, az oroszországi Dagesztán határának közelében.",
@@ -757,7 +757,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-samur-devechi-lowland-relief-v2",
     type: "valley",
     name: { de: "Samur-Devechi-Tiefland", hu: "Szamur-Devechi-alföld", ro: "Câmpia Samur-Devechi", en: "Samur-Devechi Lowland" },
-    coordinates: { lat: 41.3, lng: 48.8 },
+    coords: [48.8, 41.3],
     description: {
       de: "Dieses Tiefland erstreckt sich entlang der Küste des Kaspischen Meeres im Nordosten Aserbaidschans. Es liegt teilweise unter dem Meeresspiegel und ist von Schwemmland geprägt.",
       hu: "Ez az alföld a Kaszpi-tenger partja mentén húzódik Azerbajdzsán északkeleti részén. Részben a tengerszint alatt fekszik, és hordalékos talaj jellemzi.",
@@ -788,7 +788,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-lankaran-lowland-relief-v2",
     type: "valley",
     name: { de: "Lankaran-Tiefland", hu: "Lenkoráni-alföld", ro: "Câmpia Lankaran", en: "Lankaran Lowland" },
-    coordinates: { lat: 38.8, lng: 48.8 },
+    coords: [48.8, 38.8],
     description: {
       de: "Das Lankaran-Tiefland ist ein schmaler Küstenstreifen im Südosten Aserbaidschans zwischen dem Kaspischen Meer und den Talysch-Bergen. Es ist bekannt für sein feuchtes subtropisches Klima.",
       hu: "A Lenkoráni-alföld egy keskeny parti sáv Azerbajdzsán délkeleti részén, a Kaszpi-tenger és a Talis-hegység között. Nedves szubtrópusi éghajlatáról ismert.",
@@ -819,7 +819,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-ganja-gazakh-plain-relief-v2",
     type: "valley",
     name: { de: "Ganja-Gazakh-Ebene", hu: "Ganja-Gazakh-síkság", ro: "Câmpia Ganja-Gazakh", en: "Ganja-Gazakh Plain" },
-    coordinates: { lat: 40.7, lng: 46.0 },
+    coords: [46.0, 40.7],
     description: {
       de: "Diese Ebene liegt im Westen Aserbaidschans am Fuße des Kleinen Kaukasus. Sie wird von zahlreichen Nebenflüssen des Kura durchquert und ist ein Zentrum der Industrie und Landwirtschaft.",
       hu: "Ez a síkság Azerbajdzsán nyugati részén, a Kis-Kaukázus lábánál fekszik. A Kura folyó számos mellékfolyója szeli át, és jelentős ipari és mezőgazdasági központ.",
@@ -850,7 +850,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-jeyranchol-foothills-relief-v2",
     type: "mountain",
     name: { de: "Jeyranchol-Vorberge", hu: "Jeyranchol-előkhegység", ro: "Colinele Jeyranchol", en: "Jeyranchol Foothills" },
-    coordinates: { lat: 41.0, lng: 45.5 },
+    coords: [45.5, 41.0],
     description: {
       de: "Das Jeyranchol-Plateau und seine Vorberge liegen im Nordwesten Aserbaidschans zwischen den Flüssen Kura und Iori. Das Relief ist durch welliges Gelände und Halbwüstenvegetation geprägt.",
       hu: "A Jeyranchol-fennsík és előhegyei Azerbajdzsán északnyugati részén találhatók a Kura és Iori folyók között. A domborzatot hullámos vidék és félsivatagi növényzet jellemzi.",
@@ -864,12 +864,24 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       en: ["The maximum elevation reaches about 800 to 900 meters.", "It is a traditional winter pasture area for sheep.", "The area is rich in steppe grasses and wormwood plants.", "Traces of early human settlement have been found in the region."],
     },
     imageHint: "Jeyranchol foothills hills Azerbaijan landscape",
+    descriptionAdvanced: {
+      de: "Die Dschejrançol-Hügel (Jeyranchol) sind eine Hügelkette im zentralen Aserbaidschan, die sich zwischen dem Kura-Fluss und dem Kleinen Kaukasus erstreckt. Die Region ist durch eine abwechslungsreiche Landschaft mit sanften Hügeln, Schluchten und Trockentälern gekennzeichnet. Die Höhen liegen zwischen 200 und 500 Metern über dem Meeresspiegel. Das Gebiet wird überwiegend für die Viehzucht genutzt, insbesondere für Schafe und Ziegen. Die Vegetation besteht aus Halbwüsten- und Steppenpflanzen. Die Hügel sind auch für ihre archäologischen Stätten bekannt, darunter alte Grabhügel und Siedlungen aus der Bronzezeit.",
+      hu: "A Jeyranchol-dombság Azerbajdzsán középső részén található, a Kura folyó és a Kis-Kaukázus között. A tájat enyhe lejtők, szurdokok és száraz völgyek jellemzik. A magasság 200 és 500 méter között változik. A terület elsősorban legeltetésre szolgál, különösen juh- és kecsketartásra. A növényzet félsivatagi és sztyeppei fajokból áll. A dombok régészeti lelőhelyekben gazdagok, bronzkori halmok és települések maradványaival.",
+      ro: "Dealurile Jeyranchol (Jeyranchol) sunt o formațiune deluroasă în centrul Azerbaidjanului, situată între râul Kura și Caucazul Mic. Relief dominant este de coline blânde cu înălțimi între 200 și 500 m. Zona este folosită pentru pășunatul oilor și caprelor. Vegetația este specifică semideșerturilor și stepelor. Există numeroase situri arheologice, inclusiv tumuli și așezări din epoca bronzului.",
+      en: "The Jeyranchol Hills are a range of foothills in central Azerbaijan, lying between the Kura River and the Lesser Caucasus. Elevations range from 200 to 500 m, with a landscape of gentle slopes, gullies, and dry valleys. The area is primarily used for livestock grazing, especially sheep and goats. Vegetation consists of semi-desert and steppe plants. The hills contain archaeological sites such as Bronze Age burial mounds and settlements, indicating early human habitation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe 200-500 m", "Fläche ca. 1.200 km²", "Klimatisch semi-arid", "Jahresniederschlag unter 300 mm", "Durchschnittstemperatur 14 °C", "Gestein: überwiegend tertiäre Sedimente"],
+      hu: ["Magasság 200-500 m", "Terület kb. 1200 km²", "Félszáraz éghajlat", "Évi csapadék 300 mm alatt", "Átlaghőmérséklet 14 °C", "Kőzet: harmadkori üledék"],
+      ro: ["Altitudine 200-500 m", "Suprafață aprox. 1.200 km²", "Climat semiarid", "Precipitații anuale sub 300 mm", "Temperatura medie 14 °C", "Rocă: sedimente terțiare"],
+      en: ["Elevation 200-500 m", "Area approx. 1,200 km²", "Semiarid climate", "Annual precipitation below 300 mm", "Average temperature 14 °C", "Rock type: tertiary sediments"],
+    },
   },
   {
     id: "azerbaijan-ilandag-mountain-relief-v2",
     type: "peak",
     name: { de: "Ilandag", hu: "Ilandag", ro: "Ilandag", en: "Mount Ilandag" },
-    coordinates: { lat: 39.155, lng: 45.625 },
+    coords: [45.625, 39.155],
     description: {
       de: "Der Ilandag, auch bekannt als Schlangenberg, ist ein markanter Inselberg in der Autonomen Republik Nachitschewan. Sein charakteristisches, gespaltenes Profil dominiert die umliegende Ebene.",
       hu: "Az Ilandag, más néven Kígyó-hegy, egy jellegzetes tanúhegy a Nahicseváni Autonóm Köztársaságban. Sajátos, kettéhasadt profilja uralja a környező síkságot.",
@@ -888,7 +900,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-gusar-plain-relief-v2",
     type: "valley",
     name: { de: "Gusar-Ebene", hu: "Guszári-síkság", ro: "Câmpia Gusar", en: "Gusar Inclined Plain" },
-    coordinates: { lat: 41.4, lng: 48.4 },
+    coords: [48.4, 41.4],
     description: {
       de: "Diese geneigte Ebene liegt im äußersten Norden Aserbaidschans am Übergang vom Großen Kaukasus zum Samur-Devechi-Tiefland. Sie zeichnet sich durch ein stufenförmiges Relief aus.",
       hu: "Ez a lejtős síkság Azerbajdzsán legészakibb részén fekszik, a Nagy-Kaukázus és a Szamur-Devechi-alföld közötti átmenetnél. Lépcsőzetes domborzat jellemzi.",
@@ -919,7 +931,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-mount-gyamysh-relief-v2",
     type: "peak",
     name: { de: "Gyamysh", hu: "Gjamis", ro: "Gyamysh", en: "Mount Gyamysh" },
-    coordinates: { lat: 40.28, lng: 46.31 },
+    coords: [46.31, 40.28],
     description: {
       de: "Der Gyamysh ist der höchste Gipfel der Murovdag-Kette im Kleinen Kaukasus. Er stellt einen markanten topographischen Punkt im zentralen Westen Aserbaidschans dar.",
       hu: "A Gjamis a Murovdag-lánc legmagasabb csúcsa a Kis-Kaukázusban. Azerbajdzsán középső nyugati részének egyik legjelentősebb domborzati pontja.",
@@ -938,7 +950,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     id: "azerbaijan-dibrar-mountain-relief-v2",
     type: "mountain",
     name: { de: "Dibrar", hu: "Dibrar", ro: "Dibrar", en: "Dibrar Mountain" },
-    coordinates: { lat: 40.855, lng: 48.855 },
+    coords: [48.855, 40.855],
     description: {
       de: "Der Dibrar ist ein markanter Berg im östlichen Teil des Großen Kaukasus. Er liegt nordwestlich von Baku und dient als wichtiger Orientierungspunkt in der Region Abscheron.",
       hu: "A Dibrar a Nagy-Kaukázus keleti részének egyik jellegzetes hegye. Bakutól északnyugatra fekszik, és fontos tájékozódási pont az Abseron-régióban.",

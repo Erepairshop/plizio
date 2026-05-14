@@ -546,7 +546,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-rabati-malik-history-v2",
     type: "ruins",
     name: { de: "Rabati Malik Karawanserei", hu: "Rabati Malik karavánszeráj", ro: "Caravanseraul Rabati Malik", en: "Rabati Malik Caravanserai" },
-    coordinates: { lat: 40.1205, lng: 65.1508 },
+    coords: [65.1508, 40.1205],
     description: {
       de: "Diese befestigte Karawanserei aus dem 11. Jahrhundert war ein wichtiger Rastplatz an der Seidenstraße.",
       hu: "Ez a 11. századi erődített karavánszeráj a Selyemút egyik fontos pihenőhelye volt Navoiy közelében.",
@@ -565,7 +565,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sardoba-malik-history-v2",
     type: "landmark",
     name: { de: "Sardoba Malik", hu: "Szardoba Malik", ro: "Sardoba Malik", en: "Sardoba Malik" },
-    coordinates: { lat: 40.1215, lng: 65.1525 },
+    coords: [65.1525, 40.1215],
     description: {
       de: "Ein riesiger unterirdischer Wasserspeicher aus dem 11. Jahrhundert, der Karawanen mit frischem Wasser versorgte.",
       hu: "Hatalmas 11. századi földalatti víztározó, amely friss vízzel látta el a Selyemúton haladó karavánokat.",
@@ -584,7 +584,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sultan-saodat-history-v2",
     type: "monument",
     name: { de: "Sultan Saodat Komplex", hu: "Szultán Szaodat komplexum", ro: "Complexul Sultan Saodat", en: "Sultan Saodat Complex" },
-    coordinates: { lat: 37.2628, lng: 67.3155 },
+    coords: [67.3155, 37.2628],
     description: {
       de: "Ein religiöser Komplex in Termez, der die Mausoleen der Sayyid-Dynastie aus mehreren Jahrhunderten beherbergt.",
       hu: "Vallási épületegyüttes Termezben, amely a Szeid-dinasztia mauzóleumait foglalja magában több évszázadból.",
@@ -603,7 +603,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kirk-kyiz-fortress-history-v2",
     type: "castle",
     name: { de: "Kirk-Kyiz Festung", hu: "Kirk-Kjiz erőd", ro: "Cetatea Kirk-Kyiz", en: "Kirk-Kyiz Fortress" },
-    coordinates: { lat: 37.2655, lng: 67.3061 },
+    coords: [67.3061, 37.2655],
     description: {
       de: "Eine mysteriöse Lehmziegelruine bei Termez, die vermutlich als Kloster oder Palast diente.",
       hu: "Rejtélyes vályogtégla rom Termez mellett, amely valószínűleg kolostorként vagy palotaként szolgált.",
@@ -622,7 +622,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-jarkurgan-minaret-history-v2",
     type: "tower",
     name: { de: "Jarkurgan Minarett", hu: "Zsarkurgan-minaret", ro: "Minaretul Jarkurgan", en: "Jarkurgan Minaret" },
-    coordinates: { lat: 37.5028, lng: 67.1436 },
+    coords: [67.1436, 37.5028],
     description: {
       de: "Ein einzigartiges Minarett aus dem 12. Jahrhundert, bekannt für seine dekorative, gewellte Ziegelstruktur.",
       hu: "Egyedülálló 12. századi minaret, amely dekoratív, hullámos téglafalazatáról híres.",
@@ -641,7 +641,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-chor-bakr-history-v2",
     type: "landmark",
     name: { de: "Chor-Bakr Nekropole", hu: "Csor-Bakr nekropolisz", ro: "Necropola Chor-Bakr", en: "Chor-Bakr Necropolis" },
-    coordinates: { lat: 39.7753, lng: 64.3358 },
+    coords: [64.3358, 39.7753],
     description: {
       de: "Die 'Stadt der Toten' bei Buchara ist ein weitläufiger Begräbniskomplex der Scheichs von Dschuibar.",
       hu: "A Buhara melletti 'Holtak városa' a Dzsuibár-sejkek kiterjedt temetkezési helye.",
@@ -660,7 +660,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-bakhautdin-naqshband-history-v2",
     type: "landmark",
     name: { de: "Bakhautdin-Naqshband Komplex", hu: "Bahautdin Nakshband komplexum", ro: "Complexul Bakhautdin Naqshband", en: "Bakhautdin Naqshband Complex" },
-    coordinates: { lat: 39.8025, lng: 64.5361 },
+    coords: [64.5361, 39.8025],
     description: {
       de: "Das spirituelle Zentrum des Naqshbandi-Ordens und Begräbnisstätte seines Gründers bei Buchara.",
       hu: "A naksbandi szúfi rend spirituális központja és alapítójának sírhelye Buhara közelében.",
@@ -679,7 +679,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-vabkent-minaret-history-v2",
     type: "tower",
     name: { de: "Vabkent Minarett", hu: "Vabkent-minaret", ro: "Minaretul Vabkent", en: "Vabkent Minaret" },
-    coordinates: { lat: 40.0222, lng: 64.5125 },
+    coords: [64.5125, 40.0222],
     description: {
       de: "Ein elegantes Minarett aus dem 12. Jahrhundert, das dem berühmten Kalon-Minarett in Buchara ähnelt.",
       hu: "Elegáns 12. századi minaret, amely a buharai Kalon-minaret stílusát idézi.",
@@ -698,7 +698,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-nurota-fortress-history-v2",
     type: "castle",
     name: { de: "Alexander-Festung Nurota", hu: "Nurota Sándor-erőd", ro: "Cetatea lui Alexandru din Nurota", en: "Alexander's Fortress Nurota" },
-    coordinates: { lat: 40.5639, lng: 65.6881 },
+    coords: [65.6881, 40.5639],
     description: {
       de: "Antike Ruinen einer Festung, die traditionell Alexander dem Großen zugeschrieben wird.",
       hu: "Egy ősi erőd romjai, amelyet a hagyomány Nagy Sándornak tulajdonít.",
@@ -717,7 +717,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-akhsikent-history-v2",
     type: "ruins",
     name: { de: "Antikes Akhsikent", hu: "Ősi Ahszikent", ro: "Vechiul Akhsikent", en: "Ancient Akhsikent" },
-    coordinates: { lat: 40.8885, lng: 71.3533 },
+    coords: [71.3533, 40.8885],
     description: {
       de: "Die einstige Hauptstadt des Fergana-Tals und Geburtsort von Babur, dem Gründer des Mogulreiches.",
       hu: "A Fergana-völgy egykori fővárosa és Babur, a Mogul Birodalom alapítójának szülőhelye.",
@@ -736,7 +736,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-imam-al-bukhari-history-v2",
     type: "landmark",
     name: { de: "Imam al-Bukhari Komplex", hu: "Imám al-Buhari komplexum", ro: "Complexul Imam al-Bukhari", en: "Imam al-Bukhari Complex" },
-    coordinates: { lat: 39.8119, lng: 66.8294 },
+    coords: [66.8294, 39.8119],
     description: {
       de: "Ein prachtvolles Mausoleum bei Samarkand, gewidmet dem berühmten Gelehrten der Hadith-Sammlungen.",
       hu: "Pompás mauzóleum Szamarkand közelében, a híres hadísz-tudós emlékére.",
@@ -755,7 +755,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-koy-krylgan-kala-history-v2",
     type: "ruins",
     name: { de: "Koy Krylgan Kala", hu: "Koj Krylgan Kala", ro: "Koy Krylgan Kala", en: "Koy Krylgan Kala" },
-    coordinates: { lat: 41.7533, lng: 61.1211 },
+    coords: [61.1211, 41.7533],
     description: {
       de: "Eine einzigartige, kreisförmige Ruine in Karakalpakistan, die als Tempel und Observatorium diente.",
       hu: "Egyedülálló kör alakú erődrom Karakalpaksztánban, amely templomként és obszervatóriumként szolgált.",
@@ -774,7 +774,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-dalverzin-tepe-history-v2",
     type: "ruins",
     name: { de: "Dalverzin-Tepe", hu: "Dalverzin-tepe", ro: "Dalverzin-Tepe", en: "Dalverzin-Tepe" },
-    coordinates: { lat: 38.1158, lng: 67.8614 },
+    coords: [67.8614, 38.1158],
     description: {
       de: "Eine bedeutende archäologische Stätte aus der Kuschan-Ära im Süden Usbekistans.",
       hu: "Jelentős régészeti lelőhely a Kusán-korszakból Üzbegisztán déli részén.",
@@ -793,7 +793,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-varakhsha-history-v2",
     type: "ruins",
     name: { de: "Varakhsha Ruinen", hu: "Varakhsha romok", ro: "Ruinele Varakhsha", en: "Varakhsha Ruins" },
-    coordinates: { lat: 39.8633, lng: 64.0725 },
+    coords: [64.0725, 39.8633],
     description: {
       de: "Die einstige Residenz der Buchara-Chudat-Könige vor der arabischen Eroberung.",
       hu: "A buharai királyok egykori rezidenciája az arab hódítás előtti időkből.",
@@ -812,7 +812,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-paykend-history-v2",
     type: "ruins",
     name: { de: "Paykend", hu: "Pajkend", ro: "Paykend", en: "Paykend" },
-    coordinates: { lat: 39.5858, lng: 64.0108 },
+    coords: [64.0108, 39.5858],
     description: {
       de: "Paykend, einst als 'kupferne Stadt' bekannt, war ein reiches Handelszentrum an der Seidenstraße.",
       hu: "Pajkend, az egykori 'rézváros', a Selyemút gazdag kereskedelmi központja volt.",
@@ -831,7 +831,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-janbas-kala-history-v2",
     type: "ruins",
     name: { de: "Janbas Kala", hu: "Janbasz Kala", ro: "Janbas Kala", en: "Janbas Kala" },
-    coordinates: { lat: 41.8517, lng: 61.3114 },
+    coords: [61.3114, 41.8517],
     description: {
       de: "Eine der ältesten Festungen Chorezmiens, die ohne Ecktürme für die Verteidigung konzipiert wurde.",
       hu: "Horezm egyik legrégebbi erődje, amelyet saroktornyok nélkül terveztek a védelemre.",
@@ -850,7 +850,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-guldursun-kala-history-v2",
     type: "ruins",
     name: { de: "Guldursun Kala", hu: "Guldurszun Kala", ro: "Guldursun Kala", en: "Guldursun Kala" },
-    coordinates: { lat: 41.6914, lng: 60.9767 },
+    coords: [60.9767, 41.6914],
     description: {
       de: "Eine massive Festung, die zu den größten Ruinen der antiken chorezmischen Zivilisation zählt.",
       hu: "Hatalmas erődrendszer, amely az ókori Horezm civilizáció egyik legnagyobb romja.",
@@ -869,7 +869,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kizil-kala-history-v2",
     type: "castle",
     name: { de: "Kizil Kala (Rote Festung)", hu: "Kizil Kala (Vörös erőd)", ro: "Kizil Kala (Cetatea Roșie)", en: "Kizil Kala (Red Fortress)" },
-    coordinates: { lat: 41.9317, lng: 60.7853 },
+    coords: [60.7853, 41.9317],
     description: {
       de: "Eine gut erhaltene Grenzbefestigung des antiken Chorezmien, bekannt für ihre rötliche Färbung.",
       hu: "Az ókori Horezm jól megőrzött határerődítménye, amely vöröses színéről kapta a nevét.",
@@ -888,7 +888,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-khalchayan-history-v2",
     type: "ruins",
     name: { de: "Khalchayan", hu: "Halcsaján", ro: "Khalchayan", en: "Khalchayan" },
-    coordinates: { lat: 38.2917, lng: 67.9711 },
+    coords: [67.9711, 38.2917],
     description: {
       de: "Ein antiker Palast und Tempelkomplex, der wichtige Einblicke in die Kunst der frühen Kuschanen bietet.",
       hu: "Ősi palota- és templomegyüttes, amely fontos betekintést nyújt a korai kusán művészetbe.",
@@ -907,7 +907,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-airtam-history-v2",
     type: "ruins",
     name: { de: "Airtam", hu: "Airtam", ro: "Airtam", en: "Airtam" },
-    coordinates: { lat: 37.2611, lng: 67.4333 },
+    coords: [67.4333, 37.2611],
     description: {
       de: "Ein buddhistisches Zentrum aus der Antike am Ufer des Amu Darja, bekannt für seinen Steinfries.",
       hu: "Antik buddhista központ az Amu-darja partján, amely kőfaragványairól ismert.",
@@ -926,7 +926,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-khodja-mashad-history-v2",
     type: "monument",
     name: { de: "Khodja Mashad Mausoleum", hu: "Hodzsa Masad mauzóleum", ro: "Mausoleul Khodja Mashad", en: "Khodja Mashad Mausoleum" },
-    coordinates: { lat: 37.3333, lng: 67.2833 },
+    coords: [67.2833, 37.3333],
     description: {
       de: "Ein seltenes Doppel-Mausoleum aus der Karachaniden-Zeit, das für seine Ziegelornamentik bekannt ist.",
       hu: "Ritka kettős mauzóleum a Karahanida-korból, amely téglaornamentikájáról nevezetes.",
@@ -945,7 +945,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-ishratkhana-history-v2",
     type: "ruins",
     name: { de: "Ishratkhana Mausoleum", hu: "Isratkhana mauzóleum", ro: "Mausoleul Ishratkhana", en: "Ishratkhana Mausoleum" },
-    coordinates: { lat: 39.6458, lng: 66.9858 },
+    coords: [66.9858, 39.6458],
     description: {
       de: "Die eindrucksvollen Ruinen eines timuridischen Frauengrabmals in Samarkand.",
       hu: "Egy timurida női mauzóleum lenyűgöző romjai Szamarkandban.",
@@ -964,7 +964,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-rukhobod-history-v2",
     type: "monument",
     name: { de: "Rukhobod Mausoleum", hu: "Rukhobod mauzóleum", ro: "Mausoleul Rukhobod", en: "Rukhobod Mausoleum" },
-    coordinates: { lat: 39.6508, lng: 66.9744 },
+    coords: [66.9744, 39.6508],
     description: {
       de: "Ein schlichtes, aber heiliges Mausoleum in Samarkand, in dem der Gelehrte Burkhaneddin Sagardzhi ruht.",
       hu: "Egyszerű, de szent mauzóleum Szamarkandban, ahol Burhaneddin Szagardzsi tudós nyugszik.",
@@ -983,7 +983,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-ak-saray-mausoleum-history-v2",
     type: "monument",
     name: { de: "Ak-Saray Mausoleum (Samarkand)", hu: "Ak-Szaraj mauzóleum (Szamarkand)", ro: "Mausoleul Ak-Saray (Samarkand)", en: "Ak-Saray Mausoleum (Samarkand)" },
-    coordinates: { lat: 39.6483, lng: 66.9744 },
+    coords: [66.9744, 39.6483],
     description: {
       de: "Ein verstecktes Juwel der timuridischen Architektur, berühmt für seine prachtvollen Goldmalereien im Inneren.",
       hu: "A timurida építészet rejtett ékköve, amely pazar belső aranystukkóiról híres.",
@@ -1002,7 +1002,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-namozgoh-mosque-history-v2",
     type: "church",
     name: { de: "Namozgoh Moschee", hu: "Namozgoh-mecset", ro: "Moscheea Namozgoh", en: "Namozgoh Mosque" },
-    coordinates: { lat: 39.6272, lng: 66.9536 },
+    coords: [66.9536, 39.6272],
     description: {
       de: "Eine historische Freiluft-Moschee in Samarkand, die für große religiöse Feste genutzt wurde.",
       hu: "Történelmi szabadtéri mecset Szamarkandban, amelyet nagy vallási ünnepek idején használtak.",
@@ -1021,7 +1021,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-khoja-akhrar-vali-history-v2",
     type: "landmark",
     name: { de: "Khoja Akhrar Vali Komplex", hu: "Hodzsa Akhrar Vali komplexum", ro: "Complexul Khoja Akhrar Vali", en: "Khoja Akhrar Vali Complex" },
-    coordinates: { lat: 39.6167, lng: 66.9333 },
+    coords: [66.9333, 39.6167],
     description: {
       de: "Ein bedeutendes religiöses Zentrum in Samarkand, gewidmet dem Führer des Naqshbandi-Ordens.",
       hu: "Jelentős vallási központ Szamarkandban, a naksbandi rend vezetőjének szentelve.",
@@ -1040,7 +1040,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-abdulaziz-khan-madrasah-history-v2",
     type: "landmark",
     name: { de: "Abdulaziz-Khan-Medrese", hu: "Abdulaziz kán medresze", ro: "Medresa Abdulaziz Khan", en: "Abdulaziz Khan Madrasah" },
-    coordinates: { lat: 39.7767, lng: 64.4178 },
+    coords: [64.4178, 39.7767],
     description: {
       de: "Eine prachtvolle Medrese in Buchara, bekannt für ihre reichen Mosaike und die Abkehr von klassischen Mustern.",
       hu: "Pompás medresze Buharában, amely gazdag mozaikjairól és a klasszikus mintáktól való eltérésről ismert.",
@@ -1059,7 +1059,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-ulugbek-madrasah-gijduvan-history-v2",
     type: "landmark",
     name: { de: "Ulugbek-Medrese (Gijduvan)", hu: "Ulugbek-medresze (Gidzsduvan)", ro: "Medresa Ulugbek (Gijduvan)", en: "Ulugbek Madrasah (Gijduvan)" },
-    coordinates: { lat: 40.1028, lng: 64.6767 },
+    coords: [64.6767, 40.1028],
     description: {
       de: "Die dritte und kleinste der von Ulugbek erbauten Medresen, gelegen in der Stadt Gijduvan.",
       hu: "Az Ulugbek által építtetett három medresze közül a legkisebb, Gidzsduvan városában.",
@@ -1078,7 +1078,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sayyid-amir-kulal-history-v2",
     type: "monument",
     name: { de: "Sayyid Amir Kulal Komplex", hu: "Szeid Amir Kulal komplexum", ro: "Complexul Sayyid Amir Kulal", en: "Sayyid Amir Kulal Complex" },
-    coordinates: { lat: 39.8711, lng: 64.5528 },
+    coords: [64.5528, 39.8711],
     description: {
       de: "Begräbnisstätte eines bedeutenden Sufi-Lehrers, der auch der Mentor von Bahauddin Naqshband war.",
       hu: "Jelentős szúfi tanító sírhelye, aki Bahauddin Nakshband mentora is volt.",
@@ -1097,7 +1097,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-odina-mosque-history-v2",
     type: "church",
     name: { de: "Odina Moschee", hu: "Odina-mecset", ro: "Moscheea Odina", en: "Odina Mosque" },
-    coordinates: { lat: 38.8611, lng: 65.8011 },
+    coords: [65.8011, 38.8611],
     description: {
       de: "Eine historische Moschee in Karshi, die an der Stelle eines alten Mongolenpalastes errichtet wurde.",
       hu: "Történelmi mecset Karsiban, amelyet egy régi mongol palota helyén építettek.",
@@ -1116,7 +1116,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-karshi-bridge-history-v2",
     type: "bridge",
     name: { de: "Amir-Timur-Brücke Karshi", hu: "Amir Timur híd Karsi", ro: "Podul Amir Timur din Karshi", en: "Amir Timur Bridge Karshi" },
-    coordinates: { lat: 38.8417, lng: 65.7861 },
+    coords: [65.7861, 38.8417],
     description: {
       de: "Eine beeindruckende mittelalterliche Backsteinbrücke, die den Fluss Kaschkadarja überspannt.",
       hu: "Lenyűgöző középkori tégla híd, amely a Kaskadarja-folyón ível át.",
@@ -1135,7 +1135,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kok-gumbaz-karshi-history-v2",
     type: "church",
     name: { de: "Kok-Gumbaz Moschee (Karshi)", hu: "Kék Kupola mecset (Karsi)", ro: "Moscheea Kok-Gumbaz (Karshi)", en: "Kok-Gumbaz Mosque (Karshi)" },
-    coordinates: { lat: 38.8625, lng: 65.8028 },
+    coords: [65.8028, 38.8625],
     description: {
       de: "Die größte Moschee in Karshi, erbaut von Ulugbek im 16. Jahrhundert auf älteren Fundamenten.",
       hu: "Karsi legnagyobb mecsete, amelyet Ulugbek építtetett a 16. században korábbi alapokra.",
@@ -1154,7 +1154,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-mingtepa-history-v2",
     type: "ruins",
     name: { de: "Mingtepa Ruinen", hu: "Mingtepa romok", ro: "Ruinele Mingtepa", en: "Mingtepa Ruins" },
-    coordinates: { lat: 40.7111, lng: 72.3528 },
+    coords: [72.3528, 40.7111],
     description: {
       de: "Antike Stadtanlage im Fergana-Tal, die vermutlich die Hauptstadt des Staates Davan war.",
       hu: "Ősi várostöredék a Fergana-völgyben, amely feltehetően a Davan állam fővárosa volt.",
@@ -1173,7 +1173,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kanka-history-v2",
     type: "ruins",
     name: { de: "Kanka Siedlung", hu: "Kanka település", ro: "Așezarea Kanka", en: "Kanka Settlement" },
-    coordinates: { lat: 40.8528, lng: 69.1111 },
+    coords: [69.1111, 40.8528],
     description: {
       de: "Eines der größten antiken urbanen Zentren in der Oase von Taschkent.",
       hu: "Táskent oázisának egyik legnagyobb ókori városi központja.",
@@ -1192,7 +1192,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-said-ahmad-khoja-history-v2",
     type: "landmark",
     name: { de: "Said Ahmad-Khoja Medrese", hu: "Szeid Ahmad-Hodzsa medresze", ro: "Medresa Said Ahmad-Khoja", en: "Said Ahmad-Khoja Madrasah" },
-    coordinates: { lat: 40.48, lng: 71.72 },
+    coords: [71.72, 40.48],
     description: {
       de: "Eine historische Medrese in Margilan, bekannt für ihre traditionelle Holzarchitektur.",
       hu: "Történelmi medresze Margilanban, amely hagyományos faépítészetéről ismert.",
@@ -1211,7 +1211,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-jami-mosque-andijan-history-v2",
     type: "landmark",
     name: { de: "Jami Komplex Andijan", hu: "Dzsámi komplexum Andizsán", ro: "Complexul Jami din Andijan", en: "Jami Complex Andijan" },
-    coordinates: { lat: 40.785, lng: 72.3583 },
+    coords: [72.3583, 40.785],
     description: {
       de: "Das größte religiöse Bauwerk im Fergana-Tal, bestehend aus Moschee, Medrese und Minarett.",
       hu: "A Fergana-völgy legnagyobb vallási építménye, amely mecsetből, medreszéből és minaretből áll.",
@@ -1230,7 +1230,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sheikh-mukhtar-vali-history-v2",
     type: "monument",
     name: { de: "Sheikh Mukhtar-Vali Mausoleum", hu: "Sejk Mukhtar-Vali mauzóleum", ro: "Mausoleul Sheikh Mukhtar-Vali", en: "Sheikh Mukhtar-Vali Mausoleum" },
-    coordinates: { lat: 41.3111, lng: 60.5889 },
+    coords: [60.5889, 41.3111],
     description: {
       de: "Ein bedeutendes Grabmal in Chorezmien, das für seine außergewöhnliche Holzarchitektur bekannt ist.",
       hu: "Jelentős síremlék Horezmben, amely rendkívüli faépítészetéről ismert.",
@@ -1249,7 +1249,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-erkurgan-history-v2",
     type: "ruins",
     name: { de: "Erkurgan Ruinen", hu: "Erkurgan romok", ro: "Ruinele Erkurgan", en: "Erkurgan Ruins" },
-    coordinates: { lat: 38.85, lng: 65.7333 },
+    coords: [65.7333, 38.85],
     description: {
       de: "Die massiven Ruinen einer der größten antiken Hauptstädte Zentralasiens bei Karshi.",
       hu: "Közép-Ázsia egyik legnagyobb ókori fővárosának hatalmas romjai Karsi mellett.",
@@ -1268,7 +1268,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-shakhruhiya-history-v2",
     type: "ruins",
     name: { de: "Shakhruhiya Siedlung", hu: "Sahruhija település", ro: "Așezarea Shakhruhiya", en: "Shakhruhiya Settlement" },
-    coordinates: { lat: 40.7667, lng: 68.9667 },
+    coords: [68.9667, 40.7667],
     description: {
       de: "Eine ehemals blühende Stadt am Fluss Syrdarja, benannt nach dem Sohn von Timur.",
       hu: "Egykor virágzó város a Szirdarja partján, amelyet Timur fiáról neveztek el.",
@@ -1287,7 +1287,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-zar-tepe-history-v2",
     type: "ruins",
     name: { de: "Zar-tepe", hu: "Zar-tepe", ro: "Zar-tepe", en: "Zar-tepe" },
-    coordinates: { lat: 37.3333, lng: 67.1667 },
+    coords: [67.1667, 37.3333],
     description: {
       de: "Eine bedeutende antike Stadt im Norden von Termez, ein Zentrum des Kushan-Reiches.",
       hu: "Jelentős ókori város Termeztől északra, a Kusán Birodalom egyik központja.",
@@ -1306,7 +1306,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-chingiz-tepe-history-v2",
     type: "ruins",
     name: { de: "Chingiz-tepe", hu: "Csingiz-tepe", ro: "Chingiz-tepe", en: "Chingiz-tepe" },
-    coordinates: { lat: 37.2833, lng: 67.1833 },
+    coords: [67.1833, 37.2833],
     description: {
       de: "Ein Hügel am Rande von Alt-Termez, der Zeugnis von der Zerstörung durch Dschingis Khan ablegt.",
       hu: "Domb Alt-Termez szélén, amely Dzsingisz kán pusztításának emlékét őrzi.",
@@ -1325,7 +1325,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-pap-settlement-history-v2",
     type: "ruins",
     name: { de: "Antikes Pap", hu: "Ősi Pap", ro: "Vechiul Pap", en: "Ancient Pap" },
-    coordinates: { lat: 40.875, lng: 71.1083 },
+    coords: [71.1083, 40.875],
     description: {
       de: "Eine bedeutende Siedlung im Fergana-Tal mit einzigartigen archäologischen Bestattungsfunden.",
       hu: "Jelentős település a Fergana-völgyben, egyedülálló régészeti temetkezési leletekkel.",
@@ -1344,7 +1344,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-eykulat-history-v2",
     type: "ruins",
     name: { de: "Eykulat", hu: "Ejkulat", ro: "Eykulat", en: "Eykulat" },
-    coordinates: { lat: 40.75, lng: 72.3333 },
+    coords: [72.3333, 40.75],
     description: {
       de: "Eine antike Festungsruine im Fergana-Tal, die Teil des Davan-Staates war.",
       hu: "Ősi erődrom a Fergana-völgyben, amely a Davan állam része volt.",
@@ -1363,7 +1363,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-ayaz-kala-2-history-v2",
     type: "castle",
     name: { de: "Ayaz Kala 2", hu: "Ayaz Kala 2", ro: "Ayaz Kala 2", en: "Ayaz Kala 2" },
-    coordinates: { lat: 41.9214, lng: 60.5736 },
+    coords: [60.5736, 41.9214],
     description: {
       de: "Die zweite von drei Festungen im Ayaz-Kala-Komplex, bekannt für ihre strategische Lage auf einem Hügel.",
       hu: "Az Ayaz Kala komplexum három erődje közül a második, dombtetőn lévő elhelyezkedéséről ismert.",
@@ -1382,7 +1382,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-ayaz-kala-3-history-v2",
     type: "ruins",
     name: { de: "Ayaz Kala 3", hu: "Ayaz Kala 3", ro: "Ayaz Kala 3", en: "Ayaz Kala 3" },
-    coordinates: { lat: 41.9183, lng: 60.5783 },
+    coords: [60.5783, 41.9183],
     description: {
       de: "Die größte, aber flachste Festung des Ayaz-Kala-Ensembles am Fuße der Hügelkette.",
       hu: "Az Ayaz Kala együttes legnagyobb, de legalacsonyabb erődje a dombok lábánál.",
@@ -1401,7 +1401,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-zka-kala-history-v2",
     type: "ruins",
     name: { de: "Zka Kala", hu: "Zka Kala", ro: "Zka Kala", en: "Zka Kala" },
-    coordinates: { lat: 41.8833, lng: 60.9167 },
+    coords: [60.9167, 41.8833],
     description: {
       de: "Eine antike Festung in der Ellik-Kala-Gruppe, die Teil des Verteidigungssystems von Chorezmien war.",
       hu: "Az Ellik-Kala csoport egyik ókori erődje, a horezmi védelmi rendszer része.",
@@ -1420,7 +1420,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-angka-kala-history-v2",
     type: "ruins",
     name: { de: "Angka Kala", hu: "Angka Kala", ro: "Angka Kala", en: "Angka Kala" },
-    coordinates: { lat: 41.95, lng: 60.8333 },
+    coords: [60.8333, 41.95],
     description: {
       de: "Eine kleine, aber gut befestigte Anlage aus der Antike in der Region Karakalpakistan.",
       hu: "Kicsi, de jól megerősített ókori építmény Karakalpaksztán régiójában.",
@@ -1439,7 +1439,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-big-kirk-kyiz-kala-history-v2",
     type: "ruins",
     name: { de: "Große Kirk-Kyiz-Kala", hu: "Nagy Kirk-Kjiz-Kala", ro: "Marea Kirk-Kyiz-Kala", en: "Big Kirk-Kyiz-Kala" },
-    coordinates: { lat: 41.9667, lng: 60.9 },
+    coords: [60.9, 41.9667],
     description: {
       de: "Eine monumentale Festungsruine in Chorezmien, nicht zu verwechseln mit der Festung in Termez.",
       hu: "Monumentális erődrom Horezmben, nem összetévesztendő a termezi erőddel.",
@@ -1458,7 +1458,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kyzyl-tepa-history-v2",
     type: "ruins",
     name: { de: "Kyzyl-tepa", hu: "Kizil-tepa", ro: "Kyzyl-tepa", en: "Kyzyl-tepa" },
-    coordinates: { lat: 40.0167, lng: 64.6667 },
+    coords: [64.6667, 40.0167],
     description: {
       de: "Ein antiker Siedlungshügel in der Nähe von Buchara, der für seine Schichten aus verschiedenen Epochen bekannt ist.",
       hu: "Ősi településhalom Buhara közelében, amely különböző korszakok rétegeiről ismert.",
@@ -1477,7 +1477,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-koy-krylgan-kala-2-history-v2",
     type: "landmark",
     name: { de: "Koy-Krylgan-Kala (Zentrum)", hu: "Koj-Krylgan-Kala (Központ)", ro: "Koy-Krylgan-Kala (Centru)", en: "Koy-Krylgan-Kala (Center)" },
-    coordinates: { lat: 41.7533, lng: 61.1211 },
+    coords: [61.1211, 41.7533],
     description: {
       de: "Das zeremonielle Zentrum der Koy-Krylgan-Festung, bekannt für seine astronomische Ausrichtung.",
       hu: "A Koj-Krylgan erőd ceremoniális központja, amely csillagászati tájolásáról ismert.",
@@ -1496,7 +1496,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-nur-ancient-city-history-v2",
     type: "ruins",
     name: { de: "Antike Stadt Nur", hu: "Nur ősi városa", ro: "Orașul antic Nur", en: "Ancient City of Nur" },
-    coordinates: { lat: 40.565, lng: 65.685 },
+    coords: [65.685, 40.565],
     description: {
       de: "Die antike Stadt Nur, heute Nurota, war ein wichtiger Stützpunkt an der Grenze zur Steppe.",
       hu: "Nur ősi városa, a mai Nurota, fontos támaszpont volt a sztyeppe határán.",
@@ -1515,7 +1515,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-vabkent-minaret-ensemble-history-v2",
     type: "landmark",
     name: { de: "Vabkent Minarett-Ensemble", hu: "Vabkenti minaret-együttes", ro: "Ansamblul Minaretului Vabkent", en: "Vabkent Minaret Ensemble" },
-    coordinates: { lat: 40.0222, lng: 64.5125 },
+    coords: [64.5125, 40.0222],
     description: {
       de: "Das historische Zentrum von Vabkent, dominiert vom hochragenden Minarett der Karachaniden.",
       hu: "Vabkent történelmi központja, amelyet a Karahanidák magasodó minaretje ural.",
@@ -1534,7 +1534,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-odina-complex-karshi-history-v2",
     type: "landmark",
     name: { de: "Odina Komplex Karshi", hu: "Odina komplexum Karsi", ro: "Complexul Odina din Karshi", en: "Odina Complex Karshi" },
-    coordinates: { lat: 38.8611, lng: 65.8011 },
+    coords: [65.8011, 38.8611],
     description: {
       de: "Ein historisches Ensemble in Karshi, das Moschee, Medrese und ein Sardoba (Wasserspeicher) umfasst.",
       hu: "Történelmi együttes Karsiban, amely mecsetet, medreszét és víztározót (szardoba) foglal magában.",
@@ -1553,7 +1553,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-makhdumi-azam-dahbid-history-v2",
     type: "monument",
     name: { de: "Makhdumi Azam Schrein", hu: "Mahdumi Azam kegyhely", ro: "Sanctuarul Makhdumi Azam", en: "Makhdumi Azam Shrine" },
-    coordinates: { lat: 39.7833, lng: 66.85 },
+    coords: [66.85, 39.7833],
     description: {
       de: "Ein spirituelles Zentrum in Dahbid, das den Schrein des Sufi-Meisters Makhdumi Azam beherbergt.",
       hu: "Spirituális központ Dahbidban, amely Mahdumi Azam szúfi mester kegyhelyét őrzi.",
@@ -1572,7 +1572,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-jami-ensemble-andijan-history-v2",
     type: "landmark",
     name: { de: "Jami Ensemble Andijan", hu: "Dzsámi együttes Andizsán", ro: "Ansamblul Jami din Andijan", en: "Jami Ensemble Andijan" },
-    coordinates: { lat: 40.785, lng: 72.3583 },
+    coords: [72.3583, 40.785],
     description: {
       de: "Ein monumentaler Baukomplex im Zentrum von Andijan, ein Meilenstein der späten islamischen Architektur.",
       hu: "Monumentális épületegyüttes Andizsán központjában, a késői iszlám építészet mérföldköve.",
@@ -1591,7 +1591,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sheikh-mukhtar-vali-monument-history-v2",
     type: "monument",
     name: { de: "Sheikh Mukhtar-Vali Schrein", hu: "Sejk Mukhtar-Vali kegyhely", ro: "Sanctuarul Sheikh Mukhtar-Vali", en: "Sheikh Mukhtar-Vali Shrine" },
-    coordinates: { lat: 41.3111, lng: 60.5889 },
+    coords: [60.5889, 41.3111],
     description: {
       de: "Das 700 Jahre alte Mausoleum eines verehrten Heiligen in Chorezmien, ein Ort der Ruhe und des Gebets.",
       hu: "Horezm egy tisztelt szentjének 700 éves mauzóleuma, a nyugalom és az ima helye.",
@@ -1610,7 +1610,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-erkurgan-ancient-capital-history-v2",
     type: "ruins",
     name: { de: "Antikes Erkurgan", hu: "Ősi Erkurgan", ro: "Orașul antic Erkurgan", en: "Ancient Erkurgan" },
-    coordinates: { lat: 38.85, lng: 65.7333 },
+    coords: [65.7333, 38.85],
     description: {
       de: "Die weitläufigen Ruinen von Erkurgan bieten Einblicke in die städtebauliche Planung der sogdischen Zeit.",
       hu: "Erkurgan kiterjedt romjai betekintést nyújtanak a szogd korszak várostervezésébe.",
@@ -1629,7 +1629,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-shakhruhiya-ruins-history-v2",
     type: "ruins",
     name: { de: "Shakhruhiya-Ruinen", hu: "Sahruhija-romok", ro: "Ruinele Shakhruhiya", en: "Shakhruhiya Ruins" },
-    coordinates: { lat: 40.7667, lng: 68.9667 },
+    coords: [68.9667, 40.7667],
     description: {
       de: "Überreste der einstigen timuridischen Stadt Shakhruhiya, die die Handelswege am Syrdarja kontrollierte.",
       hu: "Az egykori timurida város, Sahruhija maradványai, amely a Szirdarja menti utakat ellenőrizte.",
@@ -1648,7 +1648,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-zar-tepe-fortress-history-v2",
     type: "castle",
     name: { de: "Zar-tepe Festung", hu: "Zar-tepe erőd", ro: "Cetatea Zar-tepe", en: "Zar-tepe Fortress" },
-    coordinates: { lat: 37.3333, lng: 67.1667 },
+    coords: [67.1667, 37.3333],
     description: {
       de: "Die Zitadelle der antiken Stadt Zar-tepe, die den Schutz der Region Baktrien gewährleistete.",
       hu: "Az ókori Zar-tepe város citadellája, amely Baktria régió védelmét biztosította.",
@@ -1667,7 +1667,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-chingiz-tepe-hill-history-v2",
     type: "monument",
     name: { de: "Chingiz-tepe Hügel", hu: "Csingiz-tepe domb", ro: "Dealul Chingiz-tepe", en: "Chingiz-tepe Hill" },
-    coordinates: { lat: 37.2833, lng: 67.1833 },
+    coords: [67.1833, 37.2833],
     description: {
       de: "Der historische Hügel in Termez, der den tragischen Fall der Stadt während des Mongolensturms symbolisiert.",
       hu: "Történelmi domb Termezben, amely a város mongol hódítás alatti tragikus bukását jelképezi.",
@@ -1686,7 +1686,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-pap-burial-site-history-v2",
     type: "landmark",
     name: { de: "Pap-Nekropole", hu: "Papi nekropolisz", ro: "Necropola din Pap", en: "Pap Necropolis" },
-    coordinates: { lat: 40.875, lng: 71.1083 },
+    coords: [71.1083, 40.875],
     description: {
       de: "Die Nekropole von Pap lieferte spektakuläre Funde gut erhaltener Textilien und Alltagsgegenstände.",
       hu: "Pap nekropolisza látványos leleteket szolgáltatott jól megőrzött textilekből és használati tárgyakból.",
@@ -1705,7 +1705,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-eykulat-fort-history-v2",
     type: "castle",
     name: { de: "Eykulat-Festung", hu: "Ejkulat-erőd", ro: "Cetatea Eykulat", en: "Eykulat Fort" },
-    coordinates: { lat: 40.75, lng: 72.3333 },
+    coords: [72.3333, 40.75],
     description: {
       de: "Eine antike Festung, die den Eingang zum Fergana-Tal bewachte und Teil des Davan-Staates war.",
       hu: "Ősi erőd, amely a Fergana-völgy bejáratát őrizte a Davan állam idején.",
@@ -1724,7 +1724,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-rabati-malik-portal-history-v2",
     type: "monument",
     name: { de: "Rabati Malik Portal", hu: "Rabati Malik kapu", ro: "Portalul Rabati Malik", en: "Rabati Malik Portal" },
-    coordinates: { lat: 40.1205, lng: 65.1508 },
+    coords: [65.1508, 40.1205],
     description: {
       de: "Das einzige erhaltene Monumentalportal der Karachaniden-Karawanserei Rabati Malik.",
       hu: "A Rabati Malik karavánszeráj egyetlen épségben maradt monumentális kapuja.",
@@ -1743,7 +1743,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sardoba-malik-cistern-history-v2",
     type: "landmark",
     name: { de: "Sardoba Malik Zisterne", hu: "Sardoba Malik víztározó", ro: "Cisterna Sardoba Malik", en: "Sardoba Malik Cistern" },
-    coordinates: { lat: 40.1215, lng: 65.1525 },
+    coords: [65.1525, 40.1215],
     description: {
       de: "Eine beeindruckende technische Leistung des 11. Jahrhunderts zur Wasserspeicherung in der Wüste.",
       hu: "Lenyűgöző 11. századi mérnöki teljesítmény a sivatagi víztárolás érdekében.",
@@ -1762,7 +1762,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-sultan-saodat-necropolis-history-v2",
     type: "landmark",
     name: { de: "Sultan Saodat Nekropole", hu: "Szultán Szaodat nekropolisz", ro: "Necropola Sultan Saodat", en: "Sultan Saodat Necropolis" },
-    coordinates: { lat: 37.2628, lng: 67.3155 },
+    coords: [67.3155, 37.2628],
     description: {
       de: "Die weitläufige Nekropole der Sayyid-Dynastie in Termez mit Gebäuden aus sieben Jahrhunderten.",
       hu: "A Szeid-dinasztia kiterjedt nekropolisza Termezben, hét évszázad épületeivel.",
@@ -1781,7 +1781,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-kirk-kyiz-ruins-history-v2",
     type: "ruins",
     name: { de: "Kirk-Kyiz-Ruinen (Termez)", hu: "Kirk-Kjiz-romok (Termez)", ro: "Ruinele Kirk-Kyiz (Termez)", en: "Kirk-Kyiz Ruins (Termez)" },
-    coordinates: { lat: 37.2655, lng: 67.3061 },
+    coords: [67.3061, 37.2655],
     description: {
       de: "Die Ruinen von Kirk-Kyiz sind eines der rätselhaftesten Bauwerke Zentralasiens.",
       hu: "Kirk-Kjiz romjai Közép-Ázsia egyik legrejtélyesebb építményének számítanak.",
@@ -1800,7 +1800,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "uzbekistan-jarkurgan-monument-history-v2",
     type: "monument",
     name: { de: "Jarkurgan-Gedenkstätte", hu: "Zsarkurgan-emlékhely", ro: "Monumentul Jarkurgan", en: "Jarkurgan Monument" },
-    coordinates: { lat: 37.5028, lng: 67.1436 },
+    coords: [67.1436, 37.5028],
     description: {
       de: "Die Umgebung des Jarkurgan-Minaretts birgt Reste einer ehemals bedeutenden Moschee.",
       hu: "A zsarkurgani minaret környéke egy egykor jelentős mecset maradványait őrzi.",

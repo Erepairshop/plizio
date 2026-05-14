@@ -5,7 +5,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-vatthe-conservation-area-life-v2",
     type: "park",
     name: { de: "Vatthe-Naturschutzgebiet", hu: "Vatthe Természetvédelmi Terület", ro: "Aria de Conservare Vatthe", en: "Vatthe Conservation Area" },
-    coordinates: { lat: -15.11, lng: 167.01 },
+    coords: [167.01, -15.11],
     description: {
       de: "Das Vatthe-Naturschutzgebiet ist Vanuatus erstes nationales Schutzgebiet und umfasst unberührten Tieflandregenwald.",
       hu: "A Vatthe Természetvédelmi Terület Vanuatu első nemzeti parkja, amely érintetlen síkvidéki esőerdőknek ad otthont.",
@@ -24,7 +24,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-loru-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Loru-Naturschutzgebiet", hu: "Loru Természetvédelmi Terület", ro: "Aria de Conservare Loru", en: "Loru Conservation Area" },
-    coordinates: { lat: -15.15, lng: 167.14 },
+    coords: [167.14, -15.15],
     description: {
       de: "Loru schützt einen der letzten Küstenregenwälder auf Espiritu Santo und bietet Lebensraum für seltene Fledermausarten.",
       hu: "A Loru terület Espiritu Santo utolsó parti esőerdőinek egyikét védi, ritka denevérfajoknak nyújtva menedéket.",
@@ -43,7 +43,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-hideaway-island-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Hideaway Island Meeresschutzgebiet", hu: "Hideaway Island Tengeri Rezervátum", ro: "Sanctuarul Marin Insula Hideaway", en: "Hideaway Island Marine Sanctuary" },
-    coordinates: { lat: -17.7, lng: 168.26 },
+    coords: [168.26, -17.7],
     description: {
       de: "Dieses Schutzgebiet vor Efate ist bekannt für seine lebhaften Korallenriffe und das weltweit einzige Unterwasserpostamt.",
       hu: "Ez az Efate melletti rezervátum élénk korallzátonyairól és a világ egyetlen víz alatti postájáról ismert.",
@@ -62,7 +62,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-moso-island-turtles-life-v2",
     type: "wildlife",
     name: { de: "Moso Island Schildkrötenschutz", hu: "Moso-szigeti Teknősrezervátum", ro: "Rezervația de Broaște Țestoase Moso", en: "Moso Island Turtle Sanctuary" },
-    coordinates: { lat: -17.53, lng: 168.25 },
+    coords: [168.25, -17.53],
     description: {
       de: "Moso Island dient als wichtiger Nistplatz für Grüne Meeresschildkröten und Echte Karettschildkröten im Pazifik.",
       hu: "Moso-sziget a zöld levesteknősök és a közönséges cserepesteknősök fontos fészkelőhelye a Csendes-óceánon.",
@@ -81,7 +81,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-million-dollar-point-reef-life-v2",
     type: "ruins",
     name: { de: "Million Dollar Point Korallenriff", hu: "Million Dollar Point Korallzátony", ro: "Reciful Million Dollar Point", en: "Million Dollar Point Reef" },
-    coordinates: { lat: -15.52, lng: 167.24 },
+    coords: [167.24, -15.52],
     description: {
       de: "Nach dem Zweiten Weltkrieg versenkte US-Ausrüstung hat hier ein einzigartiges künstliches Riff mit hoher Artenvielfalt gebildet.",
       hu: "A második világháború után elsüllyesztett amerikai felszerelések egyedülálló mesterséges zátonyt hoztak létre.",
@@ -100,7 +100,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-president-coolidge-reef-life-v2",
     type: "ruins",
     name: { de: "SS President Coolidge Korallenwelt", hu: "SS President Coolidge Korallvilág", ro: "Reciful SS President Coolidge", en: "SS President Coolidge Reef" },
-    coordinates: { lat: -15.53, lng: 167.24 },
+    coords: [167.24, -15.53],
     description: {
       de: "Das Wrack der SS President Coolidge ist heute ein riesiges künstliches Ökosystem für Meereslebewesen vor Espiritu Santo.",
       hu: "Az SS President Coolidge roncsa ma egy hatalmas mesterséges ökoszisztéma Espiritu Santo partjainál.",
@@ -119,7 +119,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-mele-cascades-nature-life-v2",
     type: "park",
     name: { de: "Mele Cascades Naturpark", hu: "Mele Cascades Természetvédelmi Park", ro: "Parcul Natural Cascadele Mele", en: "Mele Cascades Nature Park" },
-    coordinates: { lat: -17.68, lng: 168.25 },
+    coords: [168.25, -17.68],
     description: {
       de: "Diese Kalksteinterrassen und Wasserfälle beherbergen eine reiche Flora mit tropischen Farnen und seltenen Orchideenarten.",
       hu: "Ezek a mészkőteraszok és vízesések gazdag flórának, trópusi páfrányoknak és orchideáknak adnak otthont.",
@@ -138,7 +138,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-nanda-blue-hole-life-v2",
     type: "lake",
     name: { de: "Nanda Blue Hole Biotop", hu: "Nanda Blue Hole Biotóp", ro: "Biotopul Nanda Blue Hole", en: "Nanda Blue Hole" },
-    coordinates: { lat: -15.31, lng: 167.17 },
+    coords: [167.17, -15.31],
     description: {
       de: "Ein natürliches Kalksteinbecken mit kristallklarem Wasser, das ein isoliertes Ökosystem für Süßwasserlebewesen bildet.",
       hu: "Természetes mészkőmedence kristálytiszta vízzel, amely izolált ökoszisztémát alkot az édesvízi élőlényeknek.",
@@ -157,7 +157,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-matevulu-blue-hole-life-v2",
     type: "lake",
     name: { de: "Matevulu Blue Hole", hu: "Matevulu Blue Hole", ro: "Matevulu Blue Hole", en: "Matevulu Blue Hole" },
-    coordinates: { lat: -15.42, lng: 167.19 },
+    coords: [167.19, -15.42],
     description: {
       de: "Matevulu ist eines der größten blauen Löcher auf Santo und bekannt für seine üppigen Mangroven am Ufer.",
       hu: "A Matevulu Santo egyik legnagyobb kék lyuka, amely partmenti buja mangrovéiról ismert.",
@@ -176,7 +176,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-riri-blue-hole-life-v2",
     type: "lake",
     name: { de: "Riri Blue Hole Ökosystem", hu: "Riri Blue Hole Ökoszisztéma", ro: "Ecosistemul Riri Blue Hole", en: "Riri Blue Hole" },
-    coordinates: { lat: -15.43, lng: 167.2 },
+    coords: [167.2, -15.43],
     description: {
       de: "Das Riri Blue Hole ist über einen flachen Flusslauf erreichbar, der reich an Mangroven und Ufervegetation ist.",
       hu: "A Riri Blue Hole egy sekély folyón keresztül érhető el, amely mangrovékban és parti növényzetben gazdag.",
@@ -195,7 +195,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-champagne-beach-reefs-life-v2",
     type: "landmark",
     name: { de: "Champagne Beach Riffe", hu: "Champagne Beach Zátonyok", ro: "Recifele Champagne Beach", en: "Champagne Beach Reefs" },
-    coordinates: { lat: -15.14, lng: 167.12 },
+    coords: [167.12, -15.14],
     description: {
       de: "Berühmt für vulkanische Gase, die im flachen Wasser aufsteigen und eine einzigartige marine Umgebung schaffen.",
       hu: "A sekély vízben felszálló vulkáni gázokról híres, amelyek egyedülálló tengeri környezetet hoznak létre.",
@@ -214,7 +214,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-mystery-island-reserve-life-v2",
     type: "park",
     name: { de: "Mystery Island Meeresschutzgebiet", hu: "Mystery Island Tengeri Rezervátum", ro: "Rezervația Marină Insula Mystery", en: "Mystery Island Marine Reserve" },
-    coordinates: { lat: -20.25, lng: 169.77 },
+    coords: [169.77, -20.25],
     description: {
       de: "Diese unbewohnte Insel im Süden ist von einem riesigen, intakten Korallenriff mit hoher Biodiversität umgeben.",
       hu: "Ez a lakatlan déli sziget egy hatalmas, érintetlen és biodiverz korallzátony közepén fekszik.",
@@ -233,7 +233,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-nguna-pele-protected-area-life-v2",
     type: "wildlife",
     name: { de: "Nguna-Pele Meeresschutzgebiet", hu: "Nguna-Pele Tengeri Természetvédelmi Terület", ro: "Aria Protejată Nguna-Pele", en: "Nguna-Pele Marine Protected Area" },
-    coordinates: { lat: -17.45, lng: 168.35 },
+    coords: [168.35, -17.45],
     description: {
       de: "Eine von der Gemeinschaft verwaltete Region, die Seegraswiesen, Mangroven und vulkanische Riffe schützt.",
       hu: "Közösségi kezelésű terület, amely tengerifű-mezőket, mangrovékat és vulkáni zátonyokat véd.",
@@ -252,7 +252,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-lelepa-island-reefs-life-v2",
     type: "landmark",
     name: { de: "Lelepa Island Riffe", hu: "Lelepa-szigeti Zátonyok", ro: "Recifele Insulei Lelepa", en: "Lelepa Island Reefs" },
-    coordinates: { lat: -17.6, lng: 168.2 },
+    coords: [168.2, -17.6],
     description: {
       de: "Die Gewässer um Lelepa beherbergen unberührte Korallengärten und sind Teil des UNESCO-Weltkulturerbes von Chief Roi Mata.",
       hu: "Lelepa vizei érintetlen korallkerteknek adnak otthont, és Roi Mata főnök UNESCO világörökségi helyszínének részei.",
@@ -271,7 +271,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-erakor-lagoon-mangroves-life-v2",
     type: "lake",
     name: { de: "Erakor-Lagune Mangroven", hu: "Erakor-lagúna Mangrovék", ro: "Mangrovele Lagunei Erakor", en: "Erakor Lagoon Mangroves" },
-    coordinates: { lat: -17.76, lng: 168.32 },
+    coords: [168.32, -17.76],
     description: {
       de: "Dieses flache Lagunensystem dient als kritische Kinderstube für viele Rifffischarten und beherbergt Seegraswiesen.",
       hu: "Ez a sekély lagúnarendszer számos zátonyhalfaj bölcsődéje, és tengerifű-mezőknek ad otthont.",
@@ -290,7 +290,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-port-havannah-dugongs-life-v2",
     type: "port",
     name: { de: "Port Havannah Dugong-Habitat", hu: "Port Havannah Dugong-élőhely", ro: "Habitatul de Dugongi Port Havannah", en: "Port Havannah Dugongs" },
-    coordinates: { lat: -17.58, lng: 168.25 },
+    coords: [168.25, -17.58],
     description: {
       de: "Der tiefe Naturhafen von Port Havannah ist für seine Seegraswiesen bekannt, die Nahrung für seltene Dugongs bieten.",
       hu: "Port Havannah mély természetes kikötője tengerifű-mezőiről ismert, amelyek a ritka dugongokat táplálják.",
@@ -309,7 +309,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-lonnoc-beach-coral-life-v2",
     type: "landmark",
     name: { de: "Lonnoc Beach Korallengarten", hu: "Lonnoc Beach Korallkert", ro: "Grădina de Corali Plaja Lonnoc", en: "Lonnoc Beach Coral Garden" },
-    coordinates: { lat: -15.15, lng: 167.12 },
+    coords: [167.12, -15.15],
     description: {
       de: "Lonnoc bietet ein geschütztes Riffsystem mit einer außergewöhnlich hohen Dichte an Weichkorallen und Rifffischen.",
       hu: "Lonnoc védett zátonyrendszert kínál, ahol kiemelkedően sűrűn találhatók lágykorallok és zátonyhalak.",
@@ -328,7 +328,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-crab-bay-reserve-life-v2",
     type: "wildlife",
     name: { de: "Crab Bay Naturschutzgebiet", hu: "Crab Bay Természetvédelmi Terület", ro: "Rezervația Crab Bay", en: "Crab Bay Conservation Area" },
-    coordinates: { lat: -16.18, lng: 167.53 },
+    coords: [167.53, -16.18],
     description: {
       de: "Dieses Schutzgebiet auf Malekula ist auf den Erhalt der Landkrabben-Populationen und Mangrovenwälder spezialisiert.",
       hu: "Ez a Malekula-szigeti rezervátum a szárazföldi rákpopulációk és mangroveerdők megőrzésére szakosodott.",
@@ -347,7 +347,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-maskelyne-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Maskelyne-Inseln Mangroven", hu: "Maskelyne-szigetek Mangrovéi", ro: "Mangrovele Insulelor Maskelyne", en: "Maskelyne Islands Mangroves" },
-    coordinates: { lat: -16.53, lng: 167.81 },
+    coords: [167.81, -16.53],
     description: {
       de: "Die Maskelynes beherbergen einige der dichtesten Mangrovenwälder Vanuatus, die als Haifisch-Kinderstube dienen.",
       hu: "A Maskelyne-szigetek Vanuatu legsűrűbb mangrovéinak otthonai, amelyek cápabölcsődeként szolgálnak.",
@@ -366,7 +366,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-erromango-cloud-forest-life-v2",
     type: "forest",
     name: { de: "Erromango Nebelwald", hu: "Erromango-szigeti Köderdő", ro: "Pădurea de Nor Erromango", en: "Erromango Cloud Forest" },
-    coordinates: { lat: -18.82, lng: 169.18 },
+    coords: [169.18, -18.82],
     description: {
       de: "In den Höhenlagen von Erromango wachsen seltene Kauri-Bäume in einem permanent feuchten Nebelwald-Ökosystem.",
       hu: "Erromango magaslatain ritka kaurifák nőnek egy állandóan párás köderdő-ökoszisztémában.",
@@ -385,7 +385,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-tanna-giant-banyan-life-v2",
     type: "landmark",
     name: { de: "Riesen-Banyan-Baum von Tanna", hu: "Tannai óriás banyánfa", ro: "Arborele Banyan Uriaș din Tanna", en: "Tanna Giant Banyan Tree" },
-    coordinates: { lat: -19.53, lng: 169.3 },
+    coords: [169.3, -19.53],
     description: {
       de: "Einer der größten Banyan-Bäume der Welt bildet auf Tanna ein eigenes kleines Waldökosystem mit hunderten Stämmen.",
       hu: "A világ egyik legnagyobb banyánfája Tannán egy saját kis erdei ökoszisztémát alkot több száz törzzsel.",
@@ -404,7 +404,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-epi-dugong-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Epi Island Dugong-Schutzgebiet", hu: "Epi-szigeti Dugong-rezervátum", ro: "Sanctuarul de Dugongi Insula Epi", en: "Epi Island Dugong Sanctuary" },
-    coordinates: { lat: -16.73, lng: 168.12 },
+    coords: [168.12, -16.73],
     description: {
       de: "Die Lamen Bay auf Epi ist weltweit bekannt für ihre ortstreue Dugong-Population, die in den Seegraswiesen lebt.",
       hu: "Az Epi-szigeti Lamen-öböl világszerte ismert az itt élő, tengerifüvet legelő dugong-populációjáról.",
@@ -423,7 +423,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-lake-letas-biodiversity-life-v2",
     type: "lake",
     name: { de: "Lake Letas Biodiversitätszone", hu: "Letas-tó Biodiverzitási Zóna", ro: "Zona de Biodiversitate Lacul Letas", en: "Lake Letas Biodiversity Zone" },
-    coordinates: { lat: -14.28, lng: 167.52 },
+    coords: [167.52, -14.28],
     description: {
       de: "Der größte Süßwassersee Vanuatus füllt den Krater der Insel Gaua und ist von dichtem Primärwald umgeben.",
       hu: "Vanuatu legnagyobb édesvízi tava a Gaua-sziget kráterében található, sűrű őserdővel körülvéve.",
@@ -442,7 +442,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-port-olry-reserve-life-v2",
     type: "wildlife",
     name: { de: "Port Olry Meeresschutzgebiet", hu: "Port Olry Tengeri Rezervátum", ro: "Rezervația Marină Port Olry", en: "Port Olry Marine Reserve" },
-    coordinates: { lat: -15.04, lng: 167.07 },
+    coords: [167.07, -15.04],
     description: {
       de: "Dieses Gebiet schützt ausgedehnte Korallenriffe und dient als Zufluchtsort für zahlreiche tropische Fischarten.",
       hu: "Ez a terület kiterjedt korallzátonyokat véd, és számos trópusi halfajnak nyújt menedéket.",
@@ -461,7 +461,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-aore-island-reefs-life-v2",
     type: "wildlife",
     name: { de: "Aore Island Riffe", hu: "Aore-szigeti Zátonyok", ro: "Recifele Insulei Aore", en: "Aore Island Reefs" },
-    coordinates: { lat: -15.57, lng: 167.2 },
+    coords: [167.2, -15.57],
     description: {
       de: "Die Küstengewässer von Aore sind reich an Hirnkorallen und bieten Lebensraum für diverse wirbellose Meerestiere.",
       hu: "Aore parti vizei agykorallokban gazdagok, és változatos tengeri gerincteleneknek adnak otthont.",
@@ -480,7 +480,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-bokissa-island-reserve-life-v2",
     type: "wildlife",
     name: { de: "Bokissa Island Schutzgebiet", hu: "Bokissa-szigeti Rezervátum", ro: "Rezervația Insulei Bokissa", en: "Bokissa Island Marine Reserve" },
-    coordinates: { lat: -15.6, lng: 167.25 },
+    coords: [167.25, -15.6],
     description: {
       de: "Eine private Insel, die sich der Erhaltung von Schildkröten-Nistplätzen und dem Schutz von Dugongs verschrieben hat.",
       hu: "Magánkézben lévő sziget, amely a teknősök fészkelőhelyeinek és a dugongok védelmének szentelte magát.",
@@ -499,7 +499,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-ratua-wildlife-reserve-life-v2",
     type: "wildlife",
     name: { de: "Ratua Island Wildreservat", hu: "Ratua-szigeti Vadrezervátum", ro: "Rezervația de Faună Insula Ratua", en: "Ratua Wildlife Reserve" },
-    coordinates: { lat: -15.61, lng: 167.18 },
+    coords: [167.18, -15.61],
     description: {
       de: "Ratua kombiniert nachhaltigen Tourismus mit dem Schutz von Wildpferden und tropischen Vogelarten.",
       hu: "Ratua ötvözi a fenntartható turizmust a vadlovak és trópusi madárfajok védelmével.",
@@ -518,7 +518,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-oyster-island-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Oyster Island Mangrovenschutz", hu: "Oyster-szigeti Mangrovevédelmi Terület", ro: "Protecția Mangrovelor Insula Oyster", en: "Oyster Island Mangroves" },
-    coordinates: { lat: -15.37, lng: 167.19 },
+    coords: [167.19, -15.37],
     description: {
       de: "Diese kleine Insel bei Santo beherbergt ein wichtiges Ökosystem für Austern und andere Schalentiere in den Mangroven.",
       hu: "Ez a Santo melletti kis sziget fontos ökoszisztémát biztosít az osztrigáknak és más kagylóknak a mangrovék között.",
@@ -537,7 +537,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-circe-blue-hole-life-v2",
     type: "lake",
     name: { de: "Circe Blue Hole", hu: "Circe Blue Hole", ro: "Circe Blue Hole", en: "Circe Blue Hole" },
-    coordinates: { lat: -15.4, lng: 167.2 },
+    coords: [167.2, -15.4],
     description: {
       de: "Ein weniger bekanntes blaues Loch, das durch seinen extrem tiefblauen Farbton und die umgebende ungestörte Wildnis besticht.",
       hu: "Kevésbé ismert kék lyuk, amely rendkívül mélykék színével és a zavartalan vadonnal nyűgöz le.",
@@ -556,7 +556,7 @@ export const vanuatuLifeV2: POI[] = [
     id: "vanuatu-south-malekula-seagrass-life-v2",
     type: "wildlife",
     name: { de: "Süd-Malekula Seegraswiesen", hu: "Dél-malekulai Tengerifű-mezők", ro: "Pajiștile Marine din Sudul Malekulei", en: "South Malekula Seagrass" },
-    coordinates: { lat: -16.5, lng: 167.75 },
+    coords: [167.75, -16.5],
     description: {
       de: "Diese ausgedehnten Unterwasserwiesen sind lebenswichtig für die Erhaltung der Dugong-Bestände im Malampa-Archipel.",
       hu: "Ezek a kiterjedt víz alatti mezők létfontosságúak a Malampa-szigetcsoport dugong-állományának megőrzéséhez.",

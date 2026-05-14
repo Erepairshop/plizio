@@ -1030,7 +1030,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-karachi-cities-v2",
     type: "city",
     name: { de: "Karatschi", hu: "Karacsi", ro: "Karachi", en: "Karachi" },
-    coordinates: { lat: 24.8607, lng: 67.0011 },
+    coords: [67.0011, 24.8607],
     description: {
       de: "Karatschi ist die bevölkerungsreichste Stadt Pakistans und das wichtigste Finanz- und Industriezentrum am Arabischen Meer.",
       hu: "Karacsi Pakisztán legnépesebb városa, az ország legfontosabb pénzügyi és ipari központja az Arab-tenger partján.",
@@ -1049,7 +1049,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-lahore-cities-v2",
     type: "city",
     name: { de: "Lahore", hu: "Lahore", ro: "Lahore", en: "Lahore" },
-    coordinates: { lat: 31.5204, lng: 74.3587 },
+    coords: [74.3587, 31.5204],
     description: {
       de: "Lahore gilt als das kulturelle Herz Pakistans und ist berühmt für seine reiche Architektur aus der Mogulzeit.",
       hu: "Lahore Pakisztán kulturális szíve, amely híres a mogul korszakból származó gazdag építészeti örökségéről.",
@@ -1068,7 +1068,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-faisalabad-cities-v2",
     type: "city",
     name: { de: "Faisalabad", hu: "Faisalabad", ro: "Faisalabad", en: "Faisalabad" },
-    coordinates: { lat: 31.4504, lng: 73.135 },
+    coords: [73.135, 31.4504],
     description: {
       de: "Faisalabad ist das Manchester Pakistans und dient als wichtigstes Zentrum für die Textilindustrie des Landes.",
       hu: "Faisalabad Pakisztán Manchestere, amely az ország textiliparának legfontosabb központjaként szolgál.",
@@ -1087,7 +1087,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-rawalpindi-cities-v2",
     type: "city",
     name: { de: "Rawalpindi", hu: "Ravalpindi", ro: "Rawalpindi", en: "Rawalpindi" },
-    coordinates: { lat: 33.6007, lng: 73.0411 },
+    coords: [73.0411, 33.6007],
     description: {
       de: "Rawalpindi ist eine bedeutende Militärstadt und das Hauptquartier der pakistanischen Streitkräfte in direkter Nähe zu Islamabad.",
       hu: "Ravalpindi jelentős katonai város és a pakisztáni fegyveres erők főhadiszállása Iszlámábád közvetlen szomszédságában.",
@@ -1106,7 +1106,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-gujranwala-cities-v2",
     type: "city",
     name: { de: "Gujranwala", hu: "Gudzsranvala", ro: "Gujranwala", en: "Gujranwala" },
-    coordinates: { lat: 32.1877, lng: 74.1945 },
+    coords: [74.1945, 32.1877],
     description: {
       de: "Gujranwala ist ein industrielles Kraftzentrum, das besonders für seine Produktion von Keramik, Stahl und landwirtschaftlichen Geräten bekannt ist.",
       hu: "Gudzsranvala egy ipari központ, amely különösen a kerámia-, acél- és mezőgazdasági gépgyártásáról nevezetes.",
@@ -1125,7 +1125,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-peshawar-cities-v2",
     type: "city",
     name: { de: "Peschawar", hu: "Pesavar", ro: "Peshawar", en: "Peshawar" },
-    coordinates: { lat: 34.0151, lng: 71.5249 },
+    coords: [71.5249, 34.0151],
     description: {
       de: "Peschawar ist eine der ältesten lebenden Städte Südasiens und das Tor zum Khyber-Pass an der Grenze zu Afghanistan.",
       hu: "Pesavar Dél-Ázsia egyik legrégebbi lakott városa és a Haibar-hágó kapuja az afgán határnál.",
@@ -1144,7 +1144,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-multan-cities-v2",
     type: "city",
     name: { de: "Multan", hu: "Multán", ro: "Multan", en: "Multan" },
-    coordinates: { lat: 30.1575, lng: 71.5249 },
+    coords: [71.5249, 30.1575],
     description: {
       de: "Multan ist als die Stadt der Heiligen bekannt und berühmt für seine Sufi-Schreine und die charakteristische blaue Keramik.",
       hu: "Multán a szentek városaként ismert, híres szúfi kegyhelyeiről és jellegzetes kék kerámiájáról.",
@@ -1163,7 +1163,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-hyderabad-cities-v2",
     type: "city",
     name: { de: "Hyderabad", hu: "Haidarábád", ro: "Hyderabad", en: "Hyderabad" },
-    coordinates: { lat: 25.396, lng: 68.3578 },
+    coords: [68.3578, 25.396],
     description: {
       de: "Hyderabad ist die zweitgrößte Stadt in der Provinz Sindh und ein bedeutendes kulturelles sowie kommerzielles Zentrum.",
       hu: "Haidarábád Szindh tartomány második legnagyobb városa, jelentős kulturális és kereskedelmi központ.",
@@ -1182,7 +1182,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-islamabad-cities-v2",
     type: "capital",
     name: { de: "Islamabad", hu: "Iszlámábád", ro: "Islamabad", en: "Islamabad" },
-    coordinates: { lat: 33.6844, lng: 73.0479 },
+    coords: [73.0479, 33.6844],
     description: {
       de: "Islamabad ist die planmäßig errichtete Hauptstadt Pakistans, bekannt für ihre weiten Grünflächen und moderne Infrastruktur.",
       hu: "Iszlámábád Pakisztán tervezett fővárosa, amely tágas zöldfelületeiről és modern infrastruktúrájáról ismert.",
@@ -1201,7 +1201,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-quetta-cities-v2",
     type: "city",
     name: { de: "Quetta", hu: "Kvetta", ro: "Quetta", en: "Quetta" },
-    coordinates: { lat: 30.1798, lng: 66.975 },
+    coords: [66.975, 30.1798],
     description: {
       de: "Quetta ist die Hauptstadt Belutschistans und liegt in einem Hochtal nahe der strategischen Bolan-Pass-Route.",
       hu: "Kvetta Beludzsisztán fővárosa, amely egy magasan fekvő völgyben található a stratégiai Bolán-hágó közelében.",
@@ -1220,7 +1220,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-bahawalpur-cities-v2",
     type: "city",
     name: { de: "Bahawalpur", hu: "Bahavalpur", ro: "Bahawalpur", en: "Bahawalpur" },
-    coordinates: { lat: 29.3544, lng: 71.6911 },
+    coords: [71.6911, 29.3544],
     description: {
       de: "Bahawalpur war einst die Hauptstadt eines bedeutenden Fürstenstaates und ist heute für seine prächtigen Paläste bekannt.",
       hu: "Bahavalpur egykor egy jelentős hercegi állam fővárosa volt, ma pedig pompás palotáiról ismert.",
@@ -1239,7 +1239,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-sargodha-cities-v2",
     type: "city",
     name: { de: "Sargodha", hu: "Szargodha", ro: "Sargodha", en: "Sargodha" },
-    coordinates: { lat: 32.0836, lng: 72.6711 },
+    coords: [72.6711, 32.0836],
     description: {
       de: "Sargodha ist als die Stadt der Adler bekannt und beherbergt den größten Luftwaffenstützpunkt Pakistans.",
       hu: "Szargodha a sasok városaként ismert, itt található Pakisztán legnagyobb légitámaszpontja.",
@@ -1258,7 +1258,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-sukkur-cities-v2",
     type: "city",
     name: { de: "Sukkur", hu: "Szukkur", ro: "Sukkur", en: "Sukkur" },
-    coordinates: { lat: 27.7244, lng: 68.8228 },
+    coords: [68.8228, 27.7244],
     description: {
       de: "Sukkur ist ein strategischer Verkehrsknotenpunkt am Indus, berühmt für sein massives Stauwerk aus der britischen Ära.",
       hu: "Szukkur egy stratégiai közlekedési csomópont az Indus mentén, híres a brit korszakból származó hatalmas gátjáról.",
@@ -1277,7 +1277,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-larkana-cities-v2",
     type: "city",
     name: { de: "Larkana", hu: "Larkana", ro: "Larkana", en: "Larkana" },
-    coordinates: { lat: 27.557, lng: 68.212 },
+    coords: [68.212, 27.557],
     description: {
       de: "Larkana ist eine historische Stadt in Sindh, die als Tor zu den antiken Ruinen von Mohenjo-Daro dient.",
       hu: "Larkana egy történelmi város Szindhben, amely az ősi Mohendzsodáro romjaihoz vezető kapuként szolgál.",
@@ -1296,7 +1296,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-sheikhupura-cities-v2",
     type: "city",
     name: { de: "Sheikhupura", hu: "Sejhupura", ro: "Sheikhupura", en: "Sheikhupura" },
-    coordinates: { lat: 31.7131, lng: 73.9783 },
+    coords: [73.9783, 31.7131],
     description: {
       de: "Sheikhupura ist eine Industriestadt in Punjab, bekannt für ihre historische Festung und den Hiran-Minar-Komplex.",
       hu: "Sejhupura ipari város Pandzsábban, híres történelmi erődjéről és a Hiran Minar komplexumról.",
@@ -1315,7 +1315,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-rahim-yar-khan-cities-v2",
     type: "city",
     name: { de: "Rahim Yar Khan", hu: "Rahim Jar Han", ro: "Rahim Yar Khan", en: "Rahim Yar Khan" },
-    coordinates: { lat: 28.4211, lng: 70.3022 },
+    coords: [70.3022, 28.4211],
     description: {
       de: "Rahim Yar Khan ist ein wichtiges Handels- und Landwirtschaftszentrum im südlichsten Teil der Provinz Punjab.",
       hu: "Rahim Jar Han fontos kereskedelmi és mezőgazdasági központ Pandzsáb tartomány legdélebbi részén.",
@@ -1334,7 +1334,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-mardan-cities-v2",
     type: "city",
     name: { de: "Mardan", hu: "Mardan", ro: "Mardan", en: "Mardan" },
-    coordinates: { lat: 34.1989, lng: 72.0404 },
+    coords: [72.0404, 34.1989],
     description: {
       de: "Mardan ist die zweitgrößte Stadt in Khyber Pakhtunkhwa und ein bedeutendes Zentrum für die Tabakindustrie.",
       hu: "Mardan Haibar-Pahtunhva második legnagyobb városa és a dohányipar jelentős központja.",
@@ -1353,7 +1353,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-gujrat-cities-v2",
     type: "city",
     name: { de: "Gujrat", hu: "Gudzsrat", ro: "Gujrat", en: "Gujrat" },
-    coordinates: { lat: 32.5742, lng: 74.0754 },
+    coords: [74.0754, 32.5742],
     description: {
       de: "Gujrat ist eine historische Stadt zwischen den Flüssen Jhelum und Chenab, bekannt für ihre Handwerkskunst.",
       hu: "Gudzsrat egy történelmi város a Jhelum és Chenab folyók között, híres kézművesiparáról.",
@@ -1372,7 +1372,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-kasur-cities-v2",
     type: "city",
     name: { de: "Kasur", hu: "Kaszur", ro: "Kasur", en: "Kasur" },
-    coordinates: { lat: 31.1179, lng: 74.4408 },
+    coords: [74.4408, 31.1179],
     description: {
       de: "Kasur ist eine antike Stadt nahe der Grenze zu Indien, berühmt als Ruhestätte des Sufi-Dichters Bulleh Shah.",
       hu: "Kaszur egy ősi város az indiai határ közelében, amely Bulleh Shah szúfi költő nyughelyeként híres.",
@@ -1391,7 +1391,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-wah-cantonment-cities-v2",
     type: "city",
     name: { de: "Wah Cantonment", hu: "Wah Cantonment", ro: "Wah Cantonment", en: "Wah Cantonment" },
-    coordinates: { lat: 33.7744, lng: 72.7522 },
+    coords: [72.7522, 33.7744],
     description: {
       de: "Wah Cantonment ist eine bedeutende Industriestadt, die für ihre Rüstungsfabriken und historischen Gärten bekannt ist.",
       hu: "Wah Cantonment egy jelentős ipari város, amely fegyvergyárairól és történelmi kertjeiről ismert.",
@@ -1410,7 +1410,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-dera-ghazi-khan-cities-v2",
     type: "city",
     name: { de: "Dera Ghazi Khan", hu: "Dera Gázi Han", ro: "Dera Ghazi Khan", en: "Dera Ghazi Khan" },
-    coordinates: { lat: 30.0489, lng: 70.6389 },
+    coords: [70.6389, 30.0489],
     description: {
       de: "Dera Ghazi Khan liegt am westlichen Ufer des Indus und ist ein wichtiges landwirtschaftliches Zentrum im südlichen Punjab.",
       hu: "Dera Gázi Han az Indus nyugati partján fekszik, és Dél-Pandzsáb fontos mezőgazdasági központja.",
@@ -1429,7 +1429,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-okara-cities-v2",
     type: "city",
     name: { de: "Okara", hu: "Okara", ro: "Okara", en: "Okara" },
-    coordinates: { lat: 30.8081, lng: 73.4508 },
+    coords: [73.4508, 30.8081],
     description: {
       de: "Okara ist bekannt für seine fortschrittliche Landwirtschaft und ist ein führender Produzent von Milchprodukten in Pakistan.",
       hu: "Okara fejlett mezőgazdaságáról ismert, és Pakisztán egyik vezető tejtermék-előállítója.",
@@ -1448,7 +1448,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-abbottabad-cities-v2",
     type: "city",
     name: { de: "Abbottabad", hu: "Abbottábád", ro: "Abbottabad", en: "Abbottabad" },
-    coordinates: { lat: 34.1688, lng: 73.2215 },
+    coords: [73.2215, 34.1688],
     description: {
       de: "Abbottabad ist eine beliebte Bergstadt, die für ihr angenehmes Klima und ihre zahlreichen Bildungseinrichtungen bekannt ist.",
       hu: "Abbottábád egy népszerű hegyi város, amely kellemes klímájáról és számos oktatási intézményéről ismert.",
@@ -1467,7 +1467,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-muzaffarabad-cities-v2",
     type: "capital",
     name: { de: "Muzaffarabad", hu: "Muzaffarábád", ro: "Muzaffarabad", en: "Muzaffarabad" },
-    coordinates: { lat: 34.37, lng: 73.4708 },
+    coords: [73.4708, 34.37],
     description: {
       de: "Muzaffarabad ist die Hauptstadt von Asad Kaschmir und liegt malerisch am Zusammenfluss der Flüsse Jhelum und Neelum.",
       hu: "Muzaffarábád Azad Kasmír fővárosa, amely festői helyen, a Jhelum és Neelum folyók összefolyásánál fekszik.",
@@ -1486,7 +1486,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-nawabshah-cities-v2",
     type: "city",
     name: { de: "Nawabshah", hu: "Navabsáh", ro: "Nawabshah", en: "Nawabshah" },
-    coordinates: { lat: 26.2483, lng: 68.4097 },
+    coords: [68.4097, 26.2483],
     description: {
       de: "Nawabshah ist ein wichtiges landwirtschaftliches Zentrum in Sindh, oft als das geografische Zentrum der Provinz bezeichnet.",
       hu: "Navabsáh fontos mezőgazdasági központ Szindhben, amelyet gyakran a tartomány földrajzi középpontjaként emlegetnek.",
@@ -1505,7 +1505,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-jhang-cities-v2",
     type: "city",
     name: { de: "Jhang", hu: "Dzshang", ro: "Jhang", en: "Jhang" },
-    coordinates: { lat: 31.2781, lng: 72.3317 },
+    coords: [72.3317, 31.2781],
     description: {
       de: "Jhang ist eine historische Stadt am Zusammenfluss von Jhelum und Chenab, bekannt für ihre Sufi-Traditionen.",
       hu: "Dzshang egy történelmi város a Jhelum és Chenab folyók összefolyásánál, híres szúfi hagyományairól.",
@@ -1524,7 +1524,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-swabi-cities-v2",
     type: "city",
     name: { de: "Swabi", hu: "Szvabi", ro: "Swabi", en: "Swabi" },
-    coordinates: { lat: 34.1201, lng: 72.4698 },
+    coords: [72.4698, 34.1201],
     description: {
       de: "Swabi ist ein wichtiges landwirtschaftliches Zentrum in Khyber Pakhtunkhwa, berühmt für seinen Tabak- und Weizenanbau.",
       hu: "Szvabi Haibar-Pahtunhva fontos mezőgazdasági központja, híres a dohány- és búzatermesztéséről.",
@@ -1543,7 +1543,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-attock-cities-v2",
     type: "city",
     name: { de: "Attock", hu: "Attock", ro: "Attock", en: "Attock" },
-    coordinates: { lat: 33.7656, lng: 72.3614 },
+    coords: [72.3614, 33.7656],
     description: {
       de: "Attock ist eine strategische Stadt am Indus, berühmt für ihre Festung, die den Übergang nach Nordwesten bewacht.",
       hu: "Attock egy stratégiai város az Indus mentén, híres erődjéről, amely az északnyugati átjárót őrzi.",
@@ -1562,7 +1562,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-bhalwal-cities-v2",
     type: "city",
     name: { de: "Bhalwal", hu: "Bhalval", ro: "Bhalwal", en: "Bhalwal" },
-    coordinates: { lat: 32.2741, lng: 72.9031 },
+    coords: [72.9031, 32.2741],
     description: {
       de: "Bhalwal ist weltweit als das Zentrum der Kinnow-Mandarin-Produktion in Pakistan bekannt.",
       hu: "Bhalval világszerte a pakisztáni Kinnow mandarin termesztésének központjaként ismert.",
@@ -1581,7 +1581,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-gilgit-cities-v2",
     type: "city",
     name: { de: "Gilgit", hu: "Gilgit", ro: "Gilgit", en: "Gilgit" },
-    coordinates: { lat: 35.9221, lng: 74.3105 },
+    coords: [74.3105, 35.9221],
     description: {
       de: "Gilgit ist das Verwaltungszentrum von Gilgit-Baltistan und ein wichtiger Stopp an der historischen Seidenstraße.",
       hu: "Gilgit Gilgit-Baltisztán közigazgatási központja és a történelmi selyemút egyik fontos állomása.",
@@ -1600,7 +1600,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-skardu-cities-v2",
     type: "city",
     name: { de: "Skardu", hu: "Skardu", ro: "Skardu", en: "Skardu" },
-    coordinates: { lat: 35.298, lng: 75.6333 },
+    coords: [75.6333, 35.298],
     description: {
       de: "Skardu ist das touristische Zentrum von Baltistan und dient als Basislager für K2-Expeditionen.",
       hu: "Skardu Baltisztán turisztikai központja, amely a K2-expedíciók bázisául szolgál.",
@@ -1619,7 +1619,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
     id: "pakistan-bannu-cities-v2",
     type: "city",
     name: { de: "Bannu", hu: "Bannu", ro: "Bannu", en: "Bannu" },
-    coordinates: { lat: 32.985, lng: 70.6028 },
+    coords: [70.6028, 32.985],
     description: {
       de: "Bannu ist ein wichtiges Handelszentrum im Süden von Khyber Pakhtunkhwa, bekannt für seine strategische Lage.",
       hu: "Bannu Haibar-Pahtunhva déli részének fontos kereskedelmi központja, amely stratégiai elhelyezkedéséről ismert.",

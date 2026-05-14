@@ -1015,7 +1015,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-vinh-cities-v2",
     type: "city",
     name: { de: "Vinh", hu: "Vinh", ro: "Vinh", en: "Vinh" },
-    coordinates: { lat: 18.6667, lng: 105.6667 },
+    coords: [105.6667, 18.6667],
     description: {
       de: "Vinh ist das wirtschaftliche Zentrum der Provinz Nghe An. Es liegt am Lam-Fluss und ist ein bedeutender Verkehrsknotenpunkt.",
       hu: "Vinh Nghe An tartomány gazdasági és kulturális központja. A Lam-folyó partján fekvő város fontos közlekedési csomópont.",
@@ -1034,7 +1034,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-thanh-hoa-cities-v2",
     type: "city",
     name: { de: "Thanh Hóa", hu: "Thanh Hóa", ro: "Thanh Hóa", en: "Thanh Hóa" },
-    coordinates: { lat: 19.8075, lng: 105.7764 },
+    coords: [105.7764, 19.8075],
     description: {
       de: "Thanh Hóa ist eine historische Stadt im Norden Zentralvietnams. Sie dient als wichtiges Handelszentrum für die umliegende Agrarregion.",
       hu: "Thanh Hóa egy történelmi város Észak-Közép-Vietnámban. A környékbeli mezőgazdasági régió fontos kereskedelmi központja.",
@@ -1053,7 +1053,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-buon-ma-thuot-city-cities-v2",
     type: "city",
     name: { de: "Buôn Ma Thuột", hu: "Buôn Ma Thuột", ro: "Buôn Ma Thuột", en: "Buon Ma Thuot City" },
-    coordinates: { lat: 12.6667, lng: 108.05 },
+    coords: [108.05, 12.6667],
     description: {
       de: "Die Stadt liegt im zentralen Hochland und ist als Hauptstadt des Kaffees bekannt. Sie ist das Tor zu den umliegenden Nationalparks.",
       hu: "A központi felföldön fekvő város Vietnám kávéfővárosaként ismert. A település kaput jelent a környező nemzeti parkokhoz.",
@@ -1072,7 +1072,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-rach-gia-cities-v2",
     type: "city",
     name: { de: "Rạch Giá", hu: "Rạch Giá", ro: "Rạch Giá", en: "Rach Gia" },
-    coordinates: { lat: 10.0125, lng: 105.0808 },
+    coords: [105.0808, 10.0125],
     description: {
       de: "Rạch Giá ist eine Küstenstadt am Golf von Thailand im Mekong-Delta. Sie ist berühmt für ihre künstlichen Erweiterungen ins Meer.",
       hu: "Rạch Giá egy kikötőváros a Thai-öböl partján, a Mekong-deltában. Híres a tengerből visszanyert lakóövezeteiről.",
@@ -1091,7 +1091,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-long-xuyen-cities-v2",
     type: "city",
     name: { de: "Long Xuyên", hu: "Long Xuyên", ro: "Long Xuyên", en: "Long Xuyen" },
-    coordinates: { lat: 10.3833, lng: 105.4333 },
+    coords: [105.4333, 10.3833],
     description: {
       de: "Long Xuyên liegt am Bassac-Fluss im Mekong-Delta. Es ist ein bedeutendes Zentrum für die Reis- und Fischverarbeitung.",
       hu: "Long Xuyên a Bassac-folyó partján fekszik a Mekong-deltában. A rizs- és falfeldolgozás egyik legfontosabb központja.",
@@ -1110,7 +1110,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-quy-nhon-city-cities-v2",
     type: "city",
     name: { de: "Quy Nhơn", hu: "Quy Nhơn", ro: "Quy Nhơn", en: "Quy Nhon City" },
-    coordinates: { lat: 13.775, lng: 109.23 },
+    coords: [109.23, 13.775],
     description: {
       de: "Quy Nhơn ist eine Küstenstadt in Zentrallvietnam mit einer Mischung aus Bergen und Meer. Sie ist für ihre unberührten Strände bekannt.",
       hu: "Quy Nhơn egy tengerparti város Közép-Vietnámban, ahol a hegyek és a tenger találkoznak. Érintetlen strandjairól ismert.",
@@ -1129,7 +1129,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-pleiku-cities-v2",
     type: "city",
     name: { de: "Pleiku", hu: "Pleiku", ro: "Pleiku", en: "Pleiku" },
-    coordinates: { lat: 13.9833, lng: 108.0 },
+    coords: [108.0, 13.9833],
     description: {
       de: "Pleiku liegt im zentralen Hochland Vietnams auf einem vulkanischen Plateau. Die Stadt ist von Kaffee- und Teeplantagen umgeben.",
       hu: "Pleiku Vietnám központi felföldjén fekszik egy vulkáni platón. A várost kávé- és teaültetvények veszik körül.",
@@ -1148,7 +1148,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-phan-thiet-cities-v2",
     type: "city",
     name: { de: "Phan Thiết", hu: "Phan Thiết", ro: "Phan Thiết", en: "Phan Thiet" },
-    coordinates: { lat: 10.9333, lng: 108.1 },
+    coords: [108.1, 10.9333],
     description: {
       de: "Phan Thiết ist eine Küstenstadt im Süden, die für ihre Fischsauce-Produktion bekannt ist. Sie ist das Tor zu den Dünen von Mui Ne.",
       hu: "Phan Thiết egy déli parti város, amely halmártás-termeléséről híres. Ez a város a kapu a Mui Ne-i homokdűnékhez.",
@@ -1167,7 +1167,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-ca-mau-cities-v2",
     type: "city",
     name: { de: "Cà Mau", hu: "Cà Mau", ro: "Cà Mau", en: "Ca Mau" },
-    coordinates: { lat: 9.1764, lng: 105.15 },
+    coords: [105.15, 9.1764],
     description: {
       de: "Cà Mau ist die südlichste Stadt Vietnams und liegt in einer Region voller Kanäle und Mangrovenwälder im Mekong-Delta.",
       hu: "Cà Mau Vietnám legdélebbi városa, csatornákkal és mangroveerdőkkel teli régióban fekszik a Mekong-deltában.",
@@ -1186,7 +1186,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-phan-rang-thap-cham-cities-v2",
     type: "city",
     name: { de: "Phan Rang-Tháp Chàm", hu: "Phan Rang-Tháp Chàm", ro: "Phan Rang-Tháp Chàm", en: "Phan Rang-Thap Cham" },
-    coordinates: { lat: 11.5667, lng: 108.9833 },
+    coords: [108.9833, 11.5667],
     description: {
       de: "Diese Stadt ist das Zentrum der Cham-Kultur in Vietnam. Sie liegt in einer der trockensten Regionen des Landes direkt an der Küste.",
       hu: "Ez a város a vietnámi csampa kultúra központja. Az ország egyik legszárazabb régiójában, közvetlenül a tengerparton fekszik.",
@@ -1205,7 +1205,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-tuy-hoa-cities-v2",
     type: "city",
     name: { de: "Tuy Hòa", hu: "Tuy Hòa", ro: "Tuy Hòa", en: "Tuy Hoa" },
-    coordinates: { lat: 13.0833, lng: 109.3 },
+    coords: [109.3, 13.0833],
     description: {
       de: "Tuy Hòa ist eine friedliche Küstenstadt im Süden Zentralvietnams. Sie liegt am Fuße des Nhan-Berges und an der Mündung des Da-Rang-Flusses.",
       hu: "Tuy Hòa egy békés tengerparti város Dél-Közép-Vietnámban. A Nhan-hegy lábánál és a Da Rang-folyó torkolatánál fekszik.",
@@ -1224,7 +1224,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-cam-ranh-cities-v2",
     type: "city",
     name: { de: "Cam Ranh", hu: "Cam Ranh", ro: "Cam Ranh", en: "Cam Ranh" },
-    coordinates: { lat: 11.9133, lng: 109.1483 },
+    coords: [109.1483, 11.9133],
     description: {
       de: "Cam Ranh ist bekannt für seine strategisch wichtige Tiefwasserbucht. Die Stadt beherbergt einen bedeutenden internationalen Flughafen.",
       hu: "Cam Ranh stratégiailag fontos mélyvízi öbléről ismert. A városban található egy jelentős nemzetközi repülőtér is.",
@@ -1243,7 +1243,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-my-tho-cities-v2",
     type: "city",
     name: { de: "Mỹ Tho", hu: "Mỹ Tho", ro: "Mỹ Tho", en: "My Tho" },
-    coordinates: { lat: 10.35, lng: 106.35 },
+    coords: [106.35, 10.35],
     description: {
       de: "Mỹ Tho ist eine Stadt im Mekong-Delta, die im 17. Jahrhundert gegründet wurde. Sie ist ein beliebtes Ziel für Tagestouren ab Saigon.",
       hu: "Mỹ Tho egy a 17. században alapított város a Mekong-deltában. Kedvelt célpontja a Saigonból induló egynapos túráknak.",
@@ -1262,7 +1262,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-tan-an-cities-v2",
     type: "city",
     name: { de: "Tân An", hu: "Tân An", ro: "Tân An", en: "Tan An" },
-    coordinates: { lat: 10.5333, lng: 106.4167 },
+    coords: [106.4167, 10.5333],
     description: {
       de: "Tân An ist das Verwaltungszentrum der Provinz Long An und dient als Tor zwischen Ho-Chi-Minh-Stadt und dem Mekong-Delta.",
       hu: "Tân An Long An tartomány adminisztratív központja, amely kapuként szolgál Ho Si Minh-város és a Mekong-delta között.",
@@ -1281,7 +1281,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-soc-trang-cities-v2",
     type: "city",
     name: { de: "Sóc Trăng", hu: "Sóc Trăng", ro: "Sóc Trăng", en: "Soc Trang" },
-    coordinates: { lat: 9.6, lng: 105.9667 },
+    coords: [105.9667, 9.6],
     description: {
       de: "Sóc Trăng ist bekannt für sein reiches kulturelles Erbe der Khmer-Minderheit. Die Stadt beherbergt zahlreiche kunstvolle Pagoden.",
       hu: "Sóc Trăng a Khmer kisebbség gazdag kulturális örökségéről ismert. A város számos díszes pagodának ad otthont.",
@@ -1300,7 +1300,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-dong-hoi-cities-v2",
     type: "city",
     name: { de: "Đồng Hới", hu: "Đồng Hới", ro: "Đồng Hới", en: "Dong Hoi" },
-    coordinates: { lat: 17.4833, lng: 106.6 },
+    coords: [106.6, 17.4833],
     description: {
       de: "Đồng Hới ist eine Küstenstadt in Zentralvietnam, die für ihre weißen Sandstrände bekannt ist. Sie ist der Ausgangspunkt für Touren zum Phong Nha Nationalpark.",
       hu: "Đồng Hới egy tengerparti város Közép-Vietnámban, fehér homokos strandjairól ismert. Ez a kiindulópontja a Phong Nha Nemzeti Parkba induló túráknak.",
@@ -1319,7 +1319,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-quang-ngai-cities-v2",
     type: "city",
     name: { de: "Quảng Ngãi", hu: "Quảng Ngãi", ro: "Quảng Ngãi", en: "Quang Ngai" },
-    coordinates: { lat: 15.1167, lng: 108.8 },
+    coords: [108.8, 15.1167],
     description: {
       de: "Quảng Ngãi liegt in der südzentralen Küstenregion Vietnams. Die Stadt ist ein wichtiges Zentrum für die regionale Landwirtschaft und Industrie.",
       hu: "Quảng Ngãi Vietnám dél-középső parti régiójában fekszik. A város a regionális mezőgazdaság és ipar fontos központja.",
@@ -1338,7 +1338,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-yen-bai-cities-v2",
     type: "city",
     name: { de: "Yên Bái", hu: "Yên Bái", ro: "Yên Bái", en: "Yen Bai" },
-    coordinates: { lat: 21.7, lng: 104.8667 },
+    coords: [104.8667, 21.7],
     description: {
       de: "Yên Bái ist eine Bergstadt im Nordwesten Vietnams. Sie liegt am Roten Fluss und ist bekannt für ihre Rolle im Widerstand gegen die Kolonialherrschaft.",
       hu: "Yên Bái egy hegyvidéki város Vietnám északnyugati részén. A Vörös-folyó partján fekszik, és a gyarmati ellenállásban betöltött szerepéről ismert.",
@@ -1357,7 +1357,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-tuyen-quang-cities-v2",
     type: "city",
     name: { de: "Tuyên Quang", hu: "Tuyên Quang", ro: "Tuyên Quang", en: "Tuyen Quang" },
-    coordinates: { lat: 21.8167, lng: 105.2167 },
+    coords: [105.2167, 21.8167],
     description: {
       de: "Tuyên Quang liegt im bergigen Norden Vietnams am Lo-Fluss. Die Stadt hat eine tiefe historische Bedeutung als revolutionäre Basis.",
       hu: "Tuyên Quang Vietnám hegyvidéki északi részén, a Lo-folyó mentén fekszik. A város mély történelmi jelentőséggel bír mint forradalmi bázis.",
@@ -1376,7 +1376,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-ha-giang-cities-v2",
     type: "city",
     name: { de: "Hà Giang", hu: "Hà Giang", ro: "Hà Giang", en: "Ha Giang" },
-    coordinates: { lat: 22.8233, lng: 104.9833 },
+    coords: [104.9833, 22.8233],
     description: {
       de: "Hà Giang ist die nördlichste Stadt Vietnams und liegt in einem dramatischen Tal am Lo-Fluss. Sie ist der Startpunkt für die berühmte Gebirgsschleife.",
       hu: "Hà Giang Vietnám legészakibb városa, a Lo-folyó mentén egy látványos völgyben fekszik. Innen indul a híres hegyi motoros körút.",
@@ -1395,7 +1395,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-lang-son-cities-v2",
     type: "city",
     name: { de: "Lạng Sơn", hu: "Lạng Sơn", ro: "Lạng Sơn", en: "Lang Son" },
-    coordinates: { lat: 21.85, lng: 106.75 },
+    coords: [106.75, 21.85],
     description: {
       de: "Lạng Sơn ist eine strategisch wichtige Grenzstadt zu China im Norden Vietnams. Sie ist ein Zentrum des grenzüberschreitenden Handels.",
       hu: "Lạng Sơn egy stratégiailag fontos határváros Kína mellett, Észak-Vietnámban. A határokon átnyúló kereskedelem egyik központja.",
@@ -1414,7 +1414,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "vietnam-cao-bang-cities-v2",
     type: "city",
     name: { de: "Cao Bằng", hu: "Cao Bằng", ro: "Cao Bằng", en: "Cao Bang" },
-    coordinates: { lat: 22.6667, lng: 106.25 },
+    coords: [106.25, 22.6667],
     description: {
       de: "Cao Bằng ist eine Bergstadt im hohen Norden Vietnams. Sie liegt am Bang-Giang-Fluss und ist berühmt für ihre natürliche Schönheit.",
       hu: "Cao Bằng egy hegyvidéki város Vietnám távoli északi részén. A Bang Giang-folyó partján fekszik, és természeti szépségéről híres.",

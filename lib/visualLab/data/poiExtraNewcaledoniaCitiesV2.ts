@@ -5,7 +5,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-noumea-cities-v2",
     type: "capital",
     name: { de: "Nouméa", hu: "Nouméa", ro: "Nouméa", en: "Nouméa" },
-    coordinates: { lat: -22.2736, lng: 166.4444 },
+    coords: [166.4444, -22.2736],
     description: {
       de: "Nouméa ist die Hauptstadt von Neukaledonien und liegt auf einer Halbinsel im Südwesten der Hauptinsel Grande Terre.",
       hu: "Nouméa Új-Kaledónia fővárosa és legnagyobb városa, amely a fősziget délnyugati részén egy félszigeten terül el.",
@@ -24,7 +24,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-dumbea-cities-v2",
     type: "city",
     name: { de: "Dumbéa", hu: "Dumbéa", ro: "Dumbéa", en: "Dumbéa" },
-    coordinates: { lat: -22.15, lng: 166.45 },
+    coords: [166.45, -22.15],
     description: {
       de: "Dumbéa ist eine schnell wachsende Vorstadt von Nouméa und gehört zum Ballungsraum Groß-Nouméa.",
       hu: "Dumbéa Új-Kaledónia leggyorsabban növekvő városa, amely a fővárosi agglomeráció északi részén fekszik.",
@@ -43,7 +43,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-paita-cities-v2",
     type: "city",
     name: { de: "Païta", hu: "Païta", ro: "Païta", en: "Païta" },
-    coordinates: { lat: -22.1333, lng: 166.3667 },
+    coords: [166.3667, -22.1333],
     description: {
       de: "Païta liegt im Westen von Nouméa und beherbergt den wichtigsten internationalen Flughafen des Territoriums.",
       hu: "Païta Nouméától északnyugatra található, és itt működik a terület legfontosabb nemzetközi repülőtere.",
@@ -62,7 +62,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-kone-cities-v2",
     type: "city",
     name: { de: "Koné", hu: "Koné", ro: "Koné", en: "Koné" },
-    coordinates: { lat: -21.0594, lng: 164.8658 },
+    coords: [164.8658, -21.0594],
     description: {
       de: "Koné ist der Hauptort der Nordprovinz und ein wichtiges Zentrum für die Nickelindustrie im Norden.",
       hu: "Koné az Északi tartomány székhelye és a terület északi részének legfontosabb ipari központja.",
@@ -81,7 +81,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-bourail-cities-v2",
     type: "town",
     name: { de: "Bourail", hu: "Bourail", ro: "Bourail", en: "Bourail" },
-    coordinates: { lat: -21.5667, lng: 165.4833 },
+    coords: [165.4833, -21.5667],
     description: {
       de: "Bourail ist eine bedeutende Stadt an der Westküste, bekannt für ihre Viehzucht und touristischen Attraktionen.",
       hu: "Bourail a nyugati part egyik legfontosabb városa, amely állattenyésztéséről és turisztikai látványosságairól híres.",
@@ -100,7 +100,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-koumac-cities-v2",
     type: "town",
     name: { de: "Koumac", hu: "Koumac", ro: "Koumac", en: "Koumac" },
-    coordinates: { lat: -20.5567, lng: 164.2831 },
+    coords: [164.2831, -20.5567],
     description: {
       de: "Koumac ist ein wichtiges Versorgungszentrum im hohen Norden der Hauptinsel Grande Terre.",
       hu: "Koumac a Grande Terre fősziget távoli északi részének legfontosabb szolgáltatási központja.",
@@ -119,7 +119,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-poindimie-cities-v2",
     type: "town",
     name: { de: "Poindimié", hu: "Poindimié", ro: "Poindimié", en: "Poindimié" },
-    coordinates: { lat: -20.9333, lng: 165.3333 },
+    coords: [165.3333, -20.9333],
     description: {
       de: "Poindimié ist das wichtigste wirtschaftliche und administrative Zentrum an der Nordostküste der Hauptinsel.",
       hu: "Poindimié a fősziget északkeleti partjának legfontosabb gazdasági és közigazgatási központja.",
@@ -138,7 +138,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-houailou-cities-v2",
     type: "town",
     name: { de: "Houaïlou", hu: "Houaïlou", ro: "Houaïlou", en: "Houaïlou" },
-    coordinates: { lat: -21.2833, lng: 165.6167 },
+    coords: [165.6167, -21.2833],
     description: {
       de: "Houaïlou ist eine Stadt an der Ostküste, die für ihren Lychee-Anbau und ihre Bergbautradition bekannt ist.",
       hu: "Houaïlou a keleti part egyik városa, amely licsitermesztéséről és bányászati hagyományairól nevezetes.",
@@ -157,7 +157,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-canala-cities-v2",
     type: "town",
     name: { de: "Canala", hu: "Canala", ro: "Canala", en: "Canala" },
-    coordinates: { lat: -21.5167, lng: 165.95 },
+    coords: [165.95, -21.5167],
     description: {
       de: "Canala ist ein historisches Zentrum des Nickelbergbaus an der Ostküste von Neukaledonien.",
       hu: "Canala a nikkelbányászat egyik történelmi központja Új-Kaledónia keleti partján.",
@@ -176,7 +176,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-thio-cities-v2",
     type: "town",
     name: { de: "Thio", hu: "Thio", ro: "Thio", en: "Thio" },
-    coordinates: { lat: -21.6167, lng: 166.2167 },
+    coords: [166.2167, -21.6167],
     description: {
       de: "Thio gilt als die Wiege des Nickelbergbaus in Neukaledonien und liegt an der Südostküste.",
       hu: "Thio Új-Kaledónia nikkelbányászatának bölcsője, amely a délkeleti parton fekszik.",
@@ -195,7 +195,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-hienghene-cities-v2",
     type: "town",
     name: { de: "Hienghène", hu: "Hienghène", ro: "Hienghène", en: "Hienghène" },
-    coordinates: { lat: -20.6833, lng: 164.9333 },
+    coords: [164.9333, -20.6833],
     description: {
       de: "Hienghène ist eine malerische Stadt an der Nordostküste, bekannt für ihre spektakulären Felsformationen.",
       hu: "Hienghène egy festői város az északkeleti parton, amely látványos sziklaalakzatairól ismert.",
@@ -214,7 +214,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-la-foa-cities-v2",
     type: "town",
     name: { de: "La Foa", hu: "La Foa", ro: "La Foa", en: "La Foa" },
-    coordinates: { lat: -21.7111, lng: 165.8278 },
+    coords: [165.8278, -21.7111],
     description: {
       de: "La Foa ist ein landwirtschaftliches Zentrum im zentralen Westen von Grande Terre.",
       hu: "La Foa egy mezőgazdasági központ Grande Terre szigetének középső-nyugati részén.",
@@ -233,7 +233,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-voh-cities-v2",
     type: "town",
     name: { de: "Voh", hu: "Voh", ro: "Voh", en: "Voh" },
-    coordinates: { lat: -20.9667, lng: 164.7 },
+    coords: [164.7, -20.9667],
     description: {
       de: "Voh ist eine Gemeinde im Norden, die weltberühmt für eine natürliche Herzform in ihren Mangroven ist.",
       hu: "Voh egy északi község, amely a mangrovéerdőben kialakult természetes szívformáról világhírű.",
@@ -252,7 +252,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-pouembout-cities-v2",
     type: "town",
     name: { de: "Pouembout", hu: "Pouembout", ro: "Pouembout", en: "Pouembout" },
-    coordinates: { lat: -21.1333, lng: 164.9 },
+    coords: [164.9, -21.1333],
     description: {
       de: "Pouembout ist eine wachsende Stadt in der Nordprovinz, die eng mit der Entwicklung von Koné verbunden ist.",
       hu: "Pouembout egy növekvő város az Északi tartományban, amely szorosan kapcsolódik Koné fejlődéséhez.",
@@ -271,7 +271,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ouegoa-cities-v2",
     type: "town",
     name: { de: "Ouégoa", hu: "Ouégoa", ro: "Ouégoa", en: "Ouégoa" },
-    coordinates: { lat: -20.35, lng: 164.4333 },
+    coords: [164.4333, -20.35],
     description: {
       de: "Ouégoa ist eine historische Goldgräberstadt im Norden von Grande Terre am Ufer des Diahot-Flusses.",
       hu: "Ouégoa egy történelmi aranybányász város Grande Terre északi részén, a Diahot-folyó partján.",
@@ -290,7 +290,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-puebo-cities-v2",
     type: "town",
     name: { de: "Pouébo", hu: "Pouébo", ro: "Pouébo", en: "Pouébo" },
-    coordinates: { lat: -20.3833, lng: 164.5667 },
+    coords: [164.5667, -20.3833],
     description: {
       de: "Pouébo ist ein historisch bedeutsamer Ort an der Nordostküste, wo Frankreich offiziell Besitz von der Insel ergriff.",
       hu: "Pouébo történelmi jelentőségű település az északkeleti parton, ahol Franciaország hivatalosan birtokba vette a szigetet.",
@@ -309,7 +309,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-touho-cities-v2",
     type: "town",
     name: { de: "Touho", hu: "Touho", ro: "Touho", en: "Touho" },
-    coordinates: { lat: -20.7833, lng: 165.25 },
+    coords: [165.25, -20.7833],
     description: {
       de: "Touho ist eine charmante Küstenstadt an der Ostküste mit einem wichtigen regionalen Flugplatz.",
       hu: "Touho egy bájos parti város a keleti parton, amely fontos regionális repülőtérrel rendelkezik.",
@@ -328,7 +328,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ponerihouen-cities-v2",
     type: "town",
     name: { de: "Ponérihouen", hu: "Ponérihouen", ro: "Ponérihouen", en: "Ponérihouen" },
-    coordinates: { lat: -21.0667, lng: 165.4 },
+    coords: [165.4, -21.0667],
     description: {
       de: "Ponérihouen ist eine traditionelle Kanak-Gemeinde an der Ostküste, bekannt für ihre üppige Vegetation.",
       hu: "Ponérihouen egy hagyományos kanak község a keleti parton, amely dús növényzetéről ismert.",
@@ -347,7 +347,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-poya-cities-v2",
     type: "town",
     name: { de: "Poya", hu: "Poya", ro: "Poya", en: "Poya" },
-    coordinates: { lat: -21.35, lng: 165.15 },
+    coords: [165.15, -21.35],
     description: {
       de: "Poya ist eine Stadt an der Westküste, deren Gemeindegebiet sich über zwei Provinzen erstreckt.",
       hu: "Poya egy város a nyugati parton, amelynek területe két tartományra oszlik.",
@@ -366,7 +366,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-kaala-gomen-cities-v2",
     type: "town",
     name: { de: "Kaala-Gomen", hu: "Kaala-Gomen", ro: "Kaala-Gomen", en: "Kaala-Gomen" },
-    coordinates: { lat: -20.6667, lng: 164.4 },
+    coords: [164.4, -20.6667],
     description: {
       de: "Kaala-Gomen ist eine ländliche Gemeinde im Nordwesten mit einer starken Bergbau- und Viehzuchttradition.",
       hu: "Kaala-Gomen egy vidéki község északnyugaton, erős bányászati és állattenyésztési hagyományokkal.",
@@ -385,7 +385,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-boulouparis-cities-v2",
     type: "town",
     name: { de: "Boulouparis", hu: "Boulouparis", ro: "Boulouparis", en: "Boulouparis" },
-    coordinates: { lat: -21.8667, lng: 166.05 },
+    coords: [166.05, -21.8667],
     description: {
       de: "Boulouparis ist eine strategisch gelegene Stadt im Südwesten, die als Tor zur Westküste gilt.",
       hu: "Boulouparis egy stratégiai fekvésű város délnyugaton, amelyet a nyugati part kapujának tartanak.",
@@ -404,7 +404,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-yate-cities-v2",
     type: "town",
     name: { de: "Yaté", hu: "Yaté", ro: "Yaté", en: "Yaté" },
-    coordinates: { lat: -22.15, lng: 166.9167 },
+    coords: [166.9167, -22.15],
     description: {
       de: "Yaté ist eine Gemeinde im äußersten Südosten, bekannt für ihren großen Staudamm und den Nationalpark.",
       hu: "Yaté egy község a távoli délkeleten, amely hatalmas gátjáról és nemzeti parkjáról ismert.",
@@ -423,7 +423,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-sarramea-cities-v2",
     type: "village",
     name: { de: "Sarraméa", hu: "Sarraméa", ro: "Sarraméa", en: "Sarraméa" },
-    coordinates: { lat: -21.65, lng: 165.85 },
+    coords: [165.85, -21.65],
     description: {
       de: "Sarraméa ist ein ruhiges Bergdorf im Landesinneren, bekannt für seine Kaffeetradition und Natur.",
       hu: "Sarraméa egy csendes hegyi falu a sziget belsejében, amely kávéhagyományairól és természetéről ismert.",
@@ -442,7 +442,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-farino-cities-v2",
     type: "village",
     name: { de: "Farino", hu: "Farino", ro: "Farino", en: "Farino" },
-    coordinates: { lat: -21.6667, lng: 165.7833 },
+    coords: [165.7833, -21.6667],
     description: {
       de: "Farino ist die flächenmäßig kleinste Gemeinde Neukaledoniens und liegt eingebettet in den Bergen.",
       hu: "Farino Új-Kaledónia területileg legkisebb községe, amely a hegyek között bújik meg.",
@@ -461,7 +461,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-moindou-cities-v2",
     type: "town",
     name: { de: "Moindou", hu: "Moindou", ro: "Moindou", en: "Moindou" },
-    coordinates: { lat: -21.55, lng: 165.6833 },
+    coords: [165.6833, -21.55],
     description: {
       de: "Moindou ist eine historische Stadt an der Westküste, die für ihr Erbe aus der Kolonialzeit bekannt ist.",
       hu: "Moindou egy történelmi város a nyugati parton, amely a gyarmati korszakból származó örökségéről ismert.",
@@ -480,7 +480,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-poum-cities-v2",
     type: "town",
     name: { de: "Poum", hu: "Poum", ro: "Poum", en: "Poum" },
-    coordinates: { lat: -20.2333, lng: 164.0167 },
+    coords: [164.0167, -20.2333],
     description: {
       de: "Poum ist die nördlichste Gemeinde auf der Hauptinsel Grande Terre und bekannt für ihre weißen Sandstrände.",
       hu: "Poum Grande Terre fősziget legészakibb községe, amely fehér homokos strandjairól ismert.",
@@ -499,7 +499,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-kouaoua-cities-v2",
     type: "town",
     name: { de: "Kouaoua", hu: "Kouaoua", ro: "Kouaoua", en: "Kouaoua" },
-    coordinates: { lat: -21.4, lng: 165.8333 },
+    coords: [165.8333, -21.4],
     description: {
       de: "Kouaoua ist eine Bergbaustadt an der Ostküste, bekannt für eines der längsten Förderbänder der Welt.",
       hu: "Kouaoua egy bányászváros a keleti parton, amely a világ egyik leghosszabb szállítószalagjáról ismert.",
@@ -518,7 +518,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-lifou-cities-v2",
     type: "island",
     name: { de: "Lifou", hu: "Lifou", ro: "Lifou", en: "Lifou" },
-    coordinates: { lat: -20.9167, lng: 167.2667 },
+    coords: [167.2667, -20.9167],
     description: {
       de: "Lifou ist die größte und bevölkerungsreichste der Loyalitätsinseln und ein wichtiges Touristenziel.",
       hu: "Lifou a Hűség-szigetek legnagyobb és legnépesebb tagja, egyben fontos turisztikai célpont.",
@@ -537,7 +537,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-mare-cities-v2",
     type: "island",
     name: { de: "Maré", hu: "Maré", ro: "Maré", en: "Maré" },
-    coordinates: { lat: -21.55, lng: 167.8833 },
+    coords: [167.8833, -21.55],
     description: {
       de: "Maré ist die zweitgrößte der Loyalitätsinseln, bekannt für ihre wilden Landschaften und tiefen Abgründe.",
       hu: "Maré a Hűség-szigetek második legnagyobb tagja, amely vad tájairól és mély szakadékairól ismert.",
@@ -556,7 +556,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ouvea-cities-v2",
     type: "island",
     name: { de: "Ouvéa", hu: "Ouvéa", ro: "Ouvéa", en: "Ouvéa" },
-    coordinates: { lat: -20.65, lng: 166.5333 },
+    coords: [166.5333, -20.65],
     description: {
       de: "Ouvéa ist ein atemberaubendes Korallenatoll der Loyalitätsinseln mit einem 25 Kilometer langen Sandstrand.",
       hu: "Ouvéa a Hűség-szigetek egyik lélegzetelállító korallatollja, 25 kilométer hosszú homokos tengerparttal.",
@@ -575,7 +575,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ile-des-pins-cities-v2",
     type: "island",
     name: { de: "Île des Pins", hu: "Fenyő-sziget", ro: "Insula Pinilor", en: "Isle of Pines" },
-    coordinates: { lat: -22.6167, lng: 167.4833 },
+    coords: [167.4833, -22.6167],
     description: {
       de: "Die Île des Pins ist eine weltberühmte Touristeninsel südlich von Grande Terre, bekannt für ihre Araukarien.",
       hu: "A Fenyő-sziget egy világhírű turisztikai célpont Grande Terre-től délre, amely különleges fenyőféléiről ismert.",
@@ -594,7 +594,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-belep-cities-v2",
     type: "island",
     name: { de: "Bélep", hu: "Bélep", ro: "Bélep", en: "Bélep" },
-    coordinates: { lat: -19.7167, lng: 163.6667 },
+    coords: [163.6667, -19.7167],
     description: {
       de: "Bélep ist eine abgelegene Inselgruppe im hohen Norden von Neukaledonien mit einer reichen Fischereitradition.",
       hu: "Bélep egy távoli szigetcsoport Új-Kaledónia északi részén, gazdag halászati hagyományokkal.",
@@ -613,7 +613,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-tadine-cities-v2",
     type: "town",
     name: { de: "Tadine", hu: "Tadine", ro: "Tadine", en: "Tadine" },
-    coordinates: { lat: -21.551, lng: 167.882 },
+    coords: [167.882, -21.551],
     description: {
       de: "Tadine ist der Hauptort der Insel Maré und der wichtigste Ankunftspunkt für Schiffe.",
       hu: "Tadine Maré szigetének fő települése és a hajók legfontosabb érkezési pontja.",
@@ -632,7 +632,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-fayaoue-cities-v2",
     type: "town",
     name: { de: "Fayaoué", hu: "Fayaoué", ro: "Fayaoué", en: "Fayaoué" },
-    coordinates: { lat: -20.655, lng: 166.535 },
+    coords: [166.535, -20.655],
     description: {
       de: "Fayaoué ist das administrative Zentrum von Ouvéa und liegt an einem spektakulären 25 km langen Strand.",
       hu: "Fayaoué Ouvéa közigazgatási központja, amely egy látványos, 25 km hosszú strand mentén fekszik.",
@@ -651,7 +651,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vao-cities-v2",
     type: "village",
     name: { de: "Vao", hu: "Vao", ro: "Vao", en: "Vao" },
-    coordinates: { lat: -22.666, lng: 167.516 },
+    coords: [167.516, -22.666],
     description: {
       de: "Vao ist das Hauptdorf der Île des Pins und das spirituelle Herz der Insel mit einer markanten Kirche.",
       hu: "Vao a Fenyő-sziget fő faluja és spirituális központja, amelynek jellegzetes temploma van.",
@@ -670,7 +670,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-tontouta-cities-v2",
     type: "town",
     name: { de: "La Tontouta", hu: "La Tontouta", ro: "La Tontouta", en: "La Tontouta" },
-    coordinates: { lat: -22.016, lng: 166.216 },
+    coords: [166.216, -22.016],
     description: {
       de: "La Tontouta ist bekannt als Standort des internationalen Flughafens von Neukaledonien, etwa 50 km von Nouméa entfernt.",
       hu: "La Tontouta leginkább Új-Kaledónia nemzetközi repülőterének helyszínéről ismert, kb. 50 km-re Nouméától.",
@@ -689,7 +689,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-plum-cities-v2",
     type: "town",
     name: { de: "Plum", hu: "Plum", ro: "Plum", en: "Plum" },
-    coordinates: { lat: -22.283, lng: 166.633 },
+    coords: [166.633, -22.283],
     description: {
       de: "Plum ist eine Küstensiedlung in der Gemeinde Mont-Dore, bekannt für ihre berühmte Quelle und den Strand.",
       hu: "Plum egy tengerparti település Mont-Dore községben, amely híres forrásáról és strandjáról nevezetes.",
@@ -708,7 +708,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-prony-cities-v2",
     type: "village",
     name: { de: "Prony", hu: "Prony", ro: "Prony", en: "Prony" },
-    coordinates: { lat: -22.316, lng: 166.816 },
+    coords: [166.816, -22.316],
     description: {
       de: "Prony ist ein historisches Dorf im äußersten Süden, bekannt für seine ehemalige Strafanstalt und die Nickelindustrie.",
       hu: "Prony egy történelmi falu a távoli délen, amely egykori börtöntelepéről és a nikkeliparról ismert.",
@@ -727,7 +727,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-goro-cities-v2",
     type: "village",
     name: { de: "Goro", hu: "Goro", ro: "Goro", en: "Goro" },
-    coordinates: { lat: -22.3, lng: 166.983 },
+    coords: [166.983, -22.3],
     description: {
       de: "Goro ist ein traditionelles Kanak-Dorf im Süden, das heute durch eine der größten Nickelminen der Welt geprägt ist.",
       hu: "Goro egy hagyományos kanak falu délen, amelyet ma a világ egyik legnagyobb nikkelbányája határoz meg.",
@@ -746,7 +746,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-chepenehe-cities-v2",
     type: "village",
     name: { de: "Chépénéhé", hu: "Chépénéhé", ro: "Chépénéhé", en: "Chépénéhé" },
-    coordinates: { lat: -20.916, lng: 167.116 },
+    coords: [167.116, -20.916],
     description: {
       de: "Chépénéhé ist ein wichtiges Dorf an der Westküste von Lifou, bekannt als Anlegestelle für Kreuzfahrtschiffe.",
       hu: "Chépénéhé egy fontos falu Lifou nyugati partján, amely az óceánjáró hajók kikötőhelyeként ismert.",
@@ -765,7 +765,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-mouli-cities-v2",
     type: "village",
     name: { de: "Mouli", hu: "Mouli", ro: "Mouli", en: "Mouli" },
-    coordinates: { lat: -20.716, lng: 166.416 },
+    coords: [166.416, -20.716],
     description: {
       de: "Mouli ist ein idyllisches Dorf auf der Insel Ouvéa, bekannt für seine berühmte Brücke und kristallklares Wasser.",
       hu: "Mouli egy idilli falu Ouvéa szigetén, amely híres hídjáról és kristálytiszta vizéről ismert.",
@@ -784,7 +784,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-la-roche-cities-v2",
     type: "village",
     name: { de: "La Roche", hu: "La Roche", ro: "La Roche", en: "La Roche" },
-    coordinates: { lat: -21.466, lng: 168.033 },
+    coords: [168.033, -21.466],
     description: {
       de: "La Roche ist ein historisches Dorf auf der Insel Maré, bekannt für seinen markanten Felsen und die alte Mission.",
       hu: "La Roche egy történelmi falu Maré szigetén, amely jellegzetes sziklájáról és régi missziójáról ismert.",
@@ -803,7 +803,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-eni-cities-v2",
     type: "village",
     name: { de: "Eni", hu: "Eni", ro: "Eni", en: "Eni" },
-    coordinates: { lat: -21.616, lng: 167.983 },
+    coords: [167.983, -21.616],
     description: {
       de: "Eni ist ein malerisches Dorf im Süden von Maré, bekannt für seine schönen Buchten und Korallenriffe.",
       hu: "Eni egy festői falu Maré déli részén, amely gyönyörű öbleiről és korallzátonyairól ismert.",
@@ -822,7 +822,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-anse-vata-cities-v2",
     type: "town",
     name: { de: "Anse Vata", hu: "Anse Vata", ro: "Anse Vata", en: "Anse Vata" },
-    coordinates: { lat: -22.3, lng: 166.444 },
+    coords: [166.444, -22.3],
     description: {
       de: "Anse Vata ist das touristische Herz von Nouméa, geprägt von Hotels, Restaurants und einem langen Strand.",
       hu: "Anse Vata Nouméa turisztikai központja, amelyet szállodák, éttermek és egy hosszú strand jellemez.",
@@ -841,7 +841,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-baie-des-citrons-cities-v2",
     type: "town",
     name: { de: "Baie des Citrons", hu: "Citrom-öböl", ro: "Baie des Citrons", en: "Lemon Bay" },
-    coordinates: { lat: -22.293, lng: 166.436 },
+    coords: [166.436, -22.293],
     description: {
       de: "Die Baie des Citrons ist ein beliebtes Viertel in Nouméa mit einer geschützten Bucht zum Schwimmen.",
       hu: "A Citrom-öböl Nouméa egyik népszerű negyede, amely védett, úszásra kiválóan alkalmas öböllel rendelkezik.",
@@ -860,7 +860,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ducos-cities-v2",
     type: "industry",
     name: { de: "Ducos", hu: "Ducos", ro: "Ducos", en: "Ducos" },
-    coordinates: { lat: -22.25, lng: 166.433 },
+    coords: [166.433, -22.25],
     description: {
       de: "Ducos ist das wichtigste Industrie- und Gewerbegebiet von Nouméa auf einer eigenen Halbinsel.",
       hu: "Ducos Nouméa legfontosabb ipari és kereskedelmi övezete, amely egy saját félszigeten fekszik.",
@@ -879,7 +879,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-magenta-cities-v2",
     type: "town",
     name: { de: "Magenta", hu: "Magenta", ro: "Magenta", en: "Magenta" },
-    coordinates: { lat: -22.258, lng: 166.475 },
+    coords: [166.475, -22.258],
     description: {
       de: "Magenta ist ein Stadtteil von Nouméa, in dem sich der Inlandsflughafen des Territoriums befindet.",
       hu: "Magenta Nouméa egyik városrésze, ahol a terület belföldi repülőtere található.",
@@ -898,7 +898,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-riviere-salee-cities-v2",
     type: "town",
     name: { de: "Rivière-Salée", hu: "Rivière-Salée", ro: "Rivière-Salée", en: "Rivière-Salée" },
-    coordinates: { lat: -22.233, lng: 166.458 },
+    coords: [166.458, -22.233],
     description: {
       de: "Rivière-Salée ist ein großes Wohnviertel im Norden von Nouméa, benannt nach dem dort fließenden 'salzigen Fluss'.",
       hu: "Rivière-Salée Nouméa északi részén fekvő nagy lakónegyed, amely a területén átfolyó 'sós folyóról' kapta nevét.",
@@ -917,7 +917,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vallee-des-colons-cities-v2",
     type: "town",
     name: { de: "Vallée des Colons", hu: "Vallée des Colons", ro: "Vallée des Colons", en: "Vallée des Colons" },
-    coordinates: { lat: -22.266, lng: 166.458 },
+    coords: [166.458, -22.266],
     description: {
       de: "Vallée des Colons ist ein historisches Wohnviertel in Nouméa mit vielen traditionellen Kolonialhäusern.",
       hu: "Vallée des Colons Nouméa egyik történelmi lakónegyede, ahol számos hagyományos gyarmati stílusú ház található.",
@@ -936,7 +936,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-koutio-cities-v2",
     type: "town",
     name: { de: "Koutio", hu: "Koutio", ro: "Koutio", en: "Koutio" },
-    coordinates: { lat: -22.216, lng: 166.466 },
+    coords: [166.466, -22.216],
     description: {
       de: "Koutio ist ein bedeutender Vorort in der Gemeinde Dumbéa, der als Bindeglied zu Nouméa fungiert.",
       hu: "Koutio Dumbéa község egyik jelentős külvárosa, amely összekötő kapocsként szolgál Nouméa felé.",
@@ -955,7 +955,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-yahoue-cities-v2",
     type: "town",
     name: { de: "Yahoué", hu: "Yahoué", ro: "Yahoué", en: "Yahoué" },
-    coordinates: { lat: -22.216, lng: 166.491 },
+    coords: [166.491, -22.216],
     description: {
       de: "Yahoué ist ein grünes Wohnviertel in Dumbéa, das am Fuße der Berge liegt und für seine Ruhe bekannt ist.",
       hu: "Yahoué Dumbéa egyik zöld lakónegyede, amely a hegyek lábánál fekszik és nyugalmáról ismert.",
@@ -974,7 +974,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-robinson-cities-v2",
     type: "town",
     name: { de: "Robinson", hu: "Robinson", ro: "Robinson", en: "Robinson" },
-    coordinates: { lat: -22.258, lng: 166.525 },
+    coords: [166.525, -22.258],
     description: {
       de: "Robinson ist ein bedeutender Stadtteil von Mont-Dore, der direkt an das Stadtgebiet von Nouméa grenzt.",
       hu: "Robinson Mont-Dore egyik jelentős városrésze, amely közvetlenül határos Nouméa városi területével.",
@@ -993,7 +993,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-boulari-cities-v2",
     type: "town",
     name: { de: "Boulari", hu: "Boulari", ro: "Boulari", en: "Boulari" },
-    coordinates: { lat: -22.275, lng: 166.533 },
+    coords: [166.533, -22.275],
     description: {
       de: "Boulari ist das administrative Zentrum der Gemeinde Mont-Dore, gelegen an einer malerischen Bucht.",
       hu: "Boulari Mont-Dore község közigazgatási központja, amely egy festői öböl partján fekszik.",
@@ -1012,7 +1012,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-doniambo-cities-v2",
     type: "industry",
     name: { de: "Doniambo", hu: "Doniambo", ro: "Doniambo", en: "Doniambo" },
-    coordinates: { lat: -22.258, lng: 166.433 },
+    coords: [166.433, -22.258],
     description: {
       de: "Doniambo ist das industrielle Herz von Nouméa und beherbergt die riesige Nickelhütte der Firma SLN.",
       hu: "Doniambo Nouméa ipari szíve, itt található az SLN vállalat hatalmas nikkelkohója.",
@@ -1031,7 +1031,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-tina-cities-v2",
     type: "town",
     name: { de: "Tina", hu: "Tina", ro: "Tina", en: "Tina" },
-    coordinates: { lat: -22.25, lng: 166.491 },
+    coords: [166.491, -22.25],
     description: {
       de: "Tina ist ein gehobener Stadtteil von Nouméa, bekannt für seinen Golfplatz und das Kulturzentrum Tjibaou.",
       hu: "Tina Nouméa egyik előkelő negyede, amely golfpályájáról és a Tjibaou Kulturális Központról ismert.",
@@ -1050,7 +1050,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-normandia-cities-v2",
     type: "town",
     name: { de: "Normandia", hu: "Normandia", ro: "Normandia", en: "Normandia" },
-    coordinates: { lat: -22.216, lng: 166.475 },
+    coords: [166.475, -22.216],
     description: {
       de: "Normandia ist ein wachsendes Wohnviertel in Dumbéa, das für seine moderne Infrastruktur bekannt ist.",
       hu: "Normandia egy növekvő lakónegyed Dumbéában, amely modern infrastruktúrájáról ismert.",
@@ -1069,7 +1069,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-port-boise-cities-v2",
     type: "village",
     name: { de: "Port-Boisé", hu: "Port-Boisé", ro: "Port-Boisé", en: "Port-Boisé" },
-    coordinates: { lat: -22.35, lng: 166.966 },
+    coords: [166.966, -22.35],
     description: {
       de: "Port-Boisé ist ein abgelegenes Küstendorf im äußersten Süden, bekannt für seine wilde Schönheit und Ökolodges.",
       hu: "Port-Boisé egy távoli parti falu a távoli délen, amely vad szépségéről és ökolodzsairól ismert.",
@@ -1088,7 +1088,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-nessadiou-cities-v2",
     type: "village",
     name: { de: "Nessadiou", hu: "Nessadiou", ro: "Nessadiou", en: "Nessadiou" },
-    coordinates: { lat: -21.616, lng: 165.533 },
+    coords: [165.533, -21.616],
     description: {
       de: "Nessadiou ist ein Dorf in der Gemeinde Bourail, bekannt für seine arabische Gemeinschaft und den Friedhof.",
       hu: "Nessadiou Bourail község egyik faluja, amely arab közösségéről és temetőjéről ismert.",
@@ -1107,7 +1107,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-la-conception-cities-v2",
     type: "village",
     name: { de: "La Conception", hu: "La Conception", ro: "La Conception", en: "La Conception" },
-    coordinates: { lat: -22.25, lng: 166.516 },
+    coords: [166.516, -22.25],
     description: {
       de: "La Conception ist ein Missionsdorf in Mont-Dore mit einer bedeutenden religiösen Geschichte.",
       hu: "La Conception egy missziós falu Mont-Dore-ban, jelentős vallási múlttal.",
@@ -1126,7 +1126,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-port-laguerre-cities-v2",
     type: "village",
     name: { de: "Port-Laguerre", hu: "Port-Laguerre", ro: "Port-Laguerre", en: "Port-Laguerre" },
-    coordinates: { lat: -22.1, lng: 166.3 },
+    coords: [166.3, -22.1],
     description: {
       de: "Port-Laguerre ist ein landwirtschaftliches Gebiet in Païta, bekannt für seine Forschungseinrichtungen.",
       hu: "Port-Laguerre egy mezőgazdasági terület Païta községben, amely kutatóintézeteiről ismert.",
@@ -1145,7 +1145,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-gadji-cities-v2",
     type: "village",
     name: { de: "Gadji", hu: "Gadji", ro: "Gadji", en: "Gadji" },
-    coordinates: { lat: -22.183, lng: 166.35 },
+    coords: [166.35, -22.183],
     description: {
       de: "Gadji ist ein wachsendes Viertel in Païta, das modernen Wohnraum in der Nähe von Nouméa bietet.",
       hu: "Gadji egy növekvő negyed Païta községben, amely modern lakóhelyet kínál Nouméa közelében.",
@@ -1164,7 +1164,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-yahoue-bridge-cities-v2",
     type: "town",
     name: { de: "Pont de Yahoué", hu: "Yahoué-híd", ro: "Pont de Yahoué", en: "Yahoué Bridge" },
-    coordinates: { lat: -22.216, lng: 166.475 },
+    coords: [166.475, -22.216],
     description: {
       de: "Pont de Yahoué ist ein geschäftiges Viertel an der Grenze zwischen Nouméa und Dumbéa.",
       hu: "Pont de Yahoué egy forgalmas negyed Nouméa és Dumbéa határán.",
@@ -1183,7 +1183,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-tina-sur-mer-cities-v2",
     type: "town",
     name: { de: "Tina-sur-Mer", hu: "Tina-sur-Mer", ro: "Tina-sur-Mer", en: "Tina-sur-Mer" },
-    coordinates: { lat: -22.241, lng: 166.491 },
+    coords: [166.491, -22.241],
     description: {
       de: "Tina-sur-Mer ist eine exklusive Wohngegend in Nouméa, die direkt an die Lagune angrenzt.",
       hu: "Tina-sur-Mer egy exkluzív lakóövezet Nouméában, amely közvetlenül a lagúna mellett fekszik.",
@@ -1202,7 +1202,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vallee-du-tir-cities-v2",
     type: "town",
     name: { de: "Vallée du Tir", hu: "Vallée du Tir", ro: "Vallée du Tir", en: "Vallée du Tir" },
-    coordinates: { lat: -22.258, lng: 166.441 },
+    coords: [166.441, -22.258],
     description: {
       de: "Vallée du Tir ist ein volkstümliches und historisches Viertel von Nouméa, nahe dem Hafen gelegen.",
       hu: "Vallée du Tir Nouméa egyik népszerű és történelmi negyede, a kikötő közelében.",
@@ -1221,7 +1221,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ouemo-cities-v2",
     type: "town",
     name: { de: "Ouémo", hu: "Ouémo", ro: "Ouémo", en: "Ouémo" },
-    coordinates: { lat: -22.275, lng: 166.475 },
+    coords: [166.475, -22.275],
     description: {
       de: "Ouémo ist eine ruhige Halbinsel innerhalb von Nouméa, bekannt für ihre Wohnqualität und den Meerblick.",
       hu: "Ouémo egy csendes félsziget Nouméán belül, amely lakóövezeti minőségéről és tengeri kilátásáról ismert.",
@@ -1240,7 +1240,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-normandie-cities-v2",
     type: "town",
     name: { de: "Normandie", hu: "Normandie", ro: "Normandie", en: "Normandie" },
-    coordinates: { lat: -22.216, lng: 166.483 },
+    coords: [166.483, -22.216],
     description: {
       de: "Normandie ist ein Stadtteil im Norden von Nouméa, der an die Gemeinde Dumbéa grenzt.",
       hu: "Normandie Nouméa északi városrésze, amely Dumbéa községgel határos.",
@@ -1259,7 +1259,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-port-laguerre-center-cities-v2",
     type: "village",
     name: { de: "Village de Port-Laguerre", hu: "Port-Laguerre falu", ro: "Satul Port-Laguerre", en: "Port-Laguerre Village" },
-    coordinates: { lat: -22.108, lng: 166.308 },
+    coords: [166.308, -22.108],
     description: {
       de: "Port-Laguerre Village ist das kleine ländliche Zentrum innerhalb des gleichnamigen landwirtschaftlichen Gebiets.",
       hu: "Port-Laguerre falu egy kis vidéki központ az azonos nevű mezőgazdasági területen belül.",
@@ -1278,7 +1278,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-pont-des-francais-cities-v2",
     type: "town",
     name: { de: "Pont-des-Français", hu: "Pont-des-Français", ro: "Pont-des-Français", en: "Pont-des-Français" },
-    coordinates: { lat: -22.25, lng: 166.5 },
+    coords: [166.5, -22.25],
     description: {
       de: "Pont-des-Français ist ein strategisches Viertel am Eingang von Mont-Dore, bekannt für seinen Handel.",
       hu: "Pont-des-Français Mont-Dore bejáratánál fekvő stratégiai negyed, amely kereskedelméről ismert.",
@@ -1297,7 +1297,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-sainte-marie-cities-v2",
     type: "town",
     name: { de: "Sainte-Marie", hu: "Sainte-Marie", ro: "Sainte-Marie", en: "Sainte-Marie" },
-    coordinates: { lat: -22.283, lng: 166.475 },
+    coords: [166.475, -22.283],
     description: {
       de: "Sainte-Marie ist ein Stadtteil von Nouméa, der an der gleichnamigen Bucht liegt und für seine Wassersportmöglichkeiten bekannt ist.",
       hu: "Sainte-Marie Nouméa egyik városrésze az azonos nevű öböl partján, amely vízisport-lehetőségeiről ismert.",
@@ -1316,7 +1316,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ouemo-pointe-cities-v2",
     type: "town",
     name: { de: "Pointe d'Ouémo", hu: "Ouémo-fok", ro: "Pointe d'Ouémo", en: "Ouémo Point" },
-    coordinates: { lat: -22.283, lng: 166.483 },
+    coords: [166.483, -22.283],
     description: {
       de: "Die Pointe d'Ouémo ist die äußerste Spitze der Ouémo-Halbinsel und bietet einen spektakulären Blick auf die Lagune.",
       hu: "Az Ouémo-fok az Ouémo-félsziget legkülső csúcsa, ahonnan látványos kilátás nyílik a lagúnára.",
@@ -1335,7 +1335,7 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vallee-des-colons-east-cities-v2",
     type: "town",
     name: { de: "Vallée des Colons Est", hu: "Kelet-Vallée des Colons", ro: "Vallée des Colons Est", en: "East Vallée des Colons" },
-    coordinates: { lat: -22.266, lng: 166.466 },
+    coords: [166.466, -22.266],
     description: {
       de: "East Vallée des Colons ist die Erweiterung des historischen Viertels in Richtung der Hügel von Nouméa.",
       hu: "Kelet-Vallée des Colons a történelmi negyed kiterjedése Nouméa dombjai felé.",

@@ -906,7 +906,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-modipe-hill-history-v2",
     type: "ruins",
     name: { de: "Modipe Hill", hu: "Modipe-hegy", ro: "Modipe Hill", en: "Modipe Hill" },
-    coordinates: { lat: -24.646, lng: 26.155 },
+    coords: [26.155, -24.646],
     description: {
       de: "Ein bedeutender archäologischer Fundort der Eisenzeit nahe Modipane. Der Hügel ist bekannt für seine historischen Felszeichnungen und alten Siedlungsspuren.",
       hu: "Jelentős vaskori régészeti lelőhely Modipane közelében. A domb történelmi sziklarajzairól és ősi településnyomairól ismert a kutatók körében.",
@@ -937,7 +937,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-bosutswe-history-v2",
     type: "ruins",
     name: { de: "Bosutswe Archäologische Stätte", hu: "Bosutswe régészeti lelőhely", ro: "Sit Arheologic Bosutswe", en: "Bosutswe Archaeological Site" },
-    coordinates: { lat: -21.49, lng: 25.45 },
+    coords: [25.45, -21.49],
     description: {
       de: "Ein prähistorischer Siedlungshügel im Distrikt Central. Er diente über Jahrhunderte als wichtiges Handelszentrum zwischen der Kalahari und dem Indischen Ozean.",
       hu: "Prehisztorikus településdomb a Központi körzetben. Évszázadokon át fontos kereskedelmi központként szolgált a Kalahári és az Indiai-óceán között.",
@@ -968,7 +968,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-majojo-ruins-history-v2",
     type: "ruins",
     name: { de: "Majojo-Ruinen", hu: "Majojo-romok", ro: "Ruinele Majojo", en: "Majojo Ruins" },
-    coordinates: { lat: -21.37, lng: 27.18 },
+    coords: [27.18, -21.37],
     description: {
       de: "Diese Steinruinen im Khami-Stil stammen aus dem 15. Jahrhundert. Sie repräsentieren die historische Ausdehnung des Butua-Königreichs in das heutige Botswana.",
       hu: "Ezek a Khami-stílusú kőromok a 15. századból származnak. A Butua Királyság történelmi kiterjedését képviselik a mai Botswana területén.",
@@ -999,7 +999,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-seoke-ruins-history-v2",
     type: "ruins",
     name: { de: "Seoke-Ruinen", hu: "Seoke-romok", ro: "Ruinele Seoke", en: "Seoke Ruins" },
-    coordinates: { lat: -24.99, lng: 25.36 },
+    coords: [25.36, -24.99],
     description: {
       de: "Die Überreste einer befestigten Siedlung der Ngwaketse aus dem 18. Jahrhundert nahe Kanye. Die Anlage zeigt komplexe Steinmauern zur Verteidigung.",
       hu: "Egy 18. századi erődített Ngwaketse település maradványai Kanye közelében. A komplexum védelmi célú kőfalakat mutat be.",
@@ -1030,7 +1030,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-pitsane-potlhoko-history-v2",
     type: "landmark",
     name: { de: "Pitsane Potlhoko", hu: "Pitsane Potlhoko", ro: "Pitsane Potlhoko", en: "Pitsane Potlhoko" },
-    coordinates: { lat: -25.43, lng: 25.56 },
+    coords: [25.56, -25.43],
     description: {
       de: "Historischer Ort im Southern District, der als Ausgangspunkt für den Jameson Raid von 1895 bekannt ist. Dieses Ereignis verschärfte die Spannungen vor dem Burenkrieg.",
       hu: "Történelmi helyszín a Déli körzetben, amely az 1895-ös Jameson-rajtaütés kiindulópontjaként ismert. Az esemény fokozta a feszültséget a búr háború előtt.",
@@ -1061,7 +1061,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-old-tati-settlement-history-v2",
     type: "ruins",
     name: { de: "Alte Tati-Siedlung", hu: "Régi Tati település", ro: "Vechea Așezare Tati", en: "Old Tati Settlement" },
-    coordinates: { lat: -21.45, lng: 27.75 },
+    coords: [27.75, -21.45],
     description: {
       de: "Die Stätte des ersten Goldrauschs im südlichen Afrika in den 1860er Jahren. Es war eine der ersten europäischen Siedlungen im heutigen Botswana.",
       hu: "Az első dél-afrikai aranyláz helyszíne az 1860-as években. Ez volt az egyik első európai település a mai Botswana területén.",
@@ -1092,7 +1092,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-kobokwe-cave-history-v2",
     type: "landmark",
     name: { de: "Kobokwe-Höhle", hu: "Kobokwe-barlang", ro: "Peștera Kobokwe", en: "Kobokwe Cave" },
-    coordinates: { lat: -24.41, lng: 25.48 },
+    coords: [25.48, -24.41],
     description: {
       de: "Eine historisch bedeutsame Höhle nahe Molepolole, auch bekannt als Livingstones Höhle. Hier soll David Livingstone den Bakwena-Häuptling Sechele bekehrt haben.",
       hu: "Történelmileg jelentős barlang Molepolole közelében, Livingstone-barlangként is ismert. Itt térítette meg David Livingstone Sechele Bakwena főnököt.",
@@ -1123,7 +1123,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-lobatse-railway-station-history-v2",
     type: "landmark",
     name: { de: "Alter Bahnhof Lobatse", hu: "Lobatse vasútállomás", ro: "Gara din Lobatse", en: "Lobatse Railway Station" },
-    coordinates: { lat: -25.21, lng: 25.67 },
+    coords: [25.67, -25.21],
     description: {
       de: "Ein historischer Bahnhof an der Strecke von Mafeking nach Bulawayo, fertiggestellt im Jahr 1897. Er war ein entscheidender Knotenpunkt für den Handel.",
       hu: "Történelmi vasútállomás a Mafeking és Bulawayo közötti vonalon, 1897-ben készült el. Kulcsfontosságú csomópont volt a kereskedelemben.",
@@ -1154,7 +1154,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-st-conrads-mission-history-v2",
     type: "church",
     name: { de: "St. Conrad's Mission", hu: "Szent Konrád-misszió", ro: "Misiunea Sf. Conrad", en: "St. Conrad's Mission" },
-    coordinates: { lat: -24.85, lng: 25.86 },
+    coords: [25.86, -24.85],
     description: {
       de: "Eine historische katholische Mission in Ramotswa, gegründet in den 1930er Jahren. Die Kirche ist für ihre markante Architektur und soziale Arbeit bekannt.",
       hu: "Történelmi katolikus misszió Ramotswában, az 1930-as években alapították. A templom jellegzetes építészetéről és szociális munkájáról ismert.",
@@ -1185,7 +1185,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-shashe-stone-ruins-history-v2",
     type: "ruins",
     name: { de: "Shashe-Steinruinen", hu: "Shashe kőromok", ro: "Ruinele de piatră Shashe", en: "Shashe Stone Ruins" },
-    coordinates: { lat: -21.35, lng: 27.46 },
+    coords: [27.46, -21.35],
     description: {
       de: "Archäologische Stätte aus der späten Eisenzeit nahe dem Shashe-Fluss. Sie besteht aus mehreren Steingehegen, die einst Vieh und Menschen schützten.",
       hu: "Késő vaskori régészeti lelőhely a Shashe-folyó közelében. Több kőkarámból áll, amelyek egykor embereket és állatokat védtek.",
@@ -1216,7 +1216,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-vumba-hill-ruins-history-v2",
     type: "ruins",
     name: { de: "Vumba Hill Ruinen", hu: "Vumba-hegyi romok", ro: "Ruinele Vumba Hill", en: "Vumba Hill Ruins" },
-    coordinates: { lat: -21.23, lng: 27.57 },
+    coords: [27.57, -21.23],
     description: {
       de: "Ein Komplex aus Steinmauern auf dem Vumba Hill nahe Francistown. Diese Ruinen gehören zur Leopard’s Kopje Kultur der späten Eisenzeit.",
       hu: "Kőfalak komplexuma a Vumba-dombon, Francistown közelében. Ezek a romok a késő vaskori Leopard’s Kopje kultúrához tartoznak.",
@@ -1247,7 +1247,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-lose-ruins-history-v2",
     type: "ruins",
     name: { de: "Lose-Ruinen", hu: "Lose-romok", ro: "Ruinele Lose", en: "Lose Ruins" },
-    coordinates: { lat: -23.12, lng: 26.78 },
+    coords: [26.78, -23.12],
     description: {
       de: "Archäologische Steinruinen bei Mahalapye, die Teil der regionalen Tswana-Geschichte sind. Sie dienten als Residenz für lokale Adlige im 18. Jahrhundert.",
       hu: "Régészeti kőromok Mahalapye közelében, amelyek a regionális tswana történelem részei. A 18. században helyi nemesek rezidenciájaként szolgáltak.",
@@ -1278,7 +1278,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-dithepane-rock-art-history-v2",
     type: "landmark",
     name: { de: "Dithepane-Felsbilder", hu: "Dithepane sziklarajzok", ro: "Arta Rupestră Dithepane", en: "Dithepane Rock Art" },
-    coordinates: { lat: -24.38, lng: 25.22 },
+    coords: [25.22, -24.38],
     description: {
       de: "Ein abgelegener Ort mit antiken Felsmalereien der San in der Nähe von Molepolole. Die Bilder zeigen Tiere und Szenen aus dem Leben der Jäger und Sammler.",
       hu: "Egy távoli helyszín ősi szan sziklafestményekkel Molepolole közelében. A képek állatokat és a vadászó-gyűjtögető életmód jeleneteit ábrázolják.",
@@ -1309,7 +1309,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-ghanzi-old-boma-history-v2",
     type: "landmark",
     name: { de: "Altes Boma von Ghanzi", hu: "Ghanzi régi Boma", ro: "Vechiul Boma din Ghanzi", en: "Ghanzi Old Boma" },
-    coordinates: { lat: -21.69, lng: 21.64 },
+    coords: [21.64, -21.69],
     description: {
       de: "Das ursprüngliche Verwaltungszentrum der Kolonialzeit in Ghanzi, erbaut Anfang des 20. Jahrhunderts. Es zeugt von der frühen Besiedlung durch europäische Farmer.",
       hu: "Ghanzi eredeti gyarmati közigazgatási központja, a 20. század elején épült. Az európai farmerek korai betelepülésének tanúja.",
@@ -1340,7 +1340,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-kazungula-prison-tree-history-v2",
     type: "landmark",
     name: { de: "Gefängnisbaum von Kazungula", hu: "Kazungula börtönfa", ro: "Copacul-Închisoare din Kazungula", en: "Kazungula Prison Tree" },
-    coordinates: { lat: -17.78, lng: 25.22 },
+    coords: [25.22, -17.78],
     description: {
       de: "Ein riesiger hohler Affenbrotbaum, der früher als vorübergehendes Gefängnis für Gefangene genutzt wurde. Er befindet sich nahe dem Grenzort Kazungula.",
       hu: "Egy hatalmas odvas majomkenyérfa, amelyet korábban ideiglenes börtönként használtak a foglyok számára. Kazungula határváros közelében található.",
@@ -1371,7 +1371,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-mahalapye-railway-sheds-history-v2",
     type: "landmark",
     name: { de: "Bahnbetriebswerk Mahalapye", hu: "Mahalapye vasúti műhelyek", ro: "Depoul feroviar Mahalapye", en: "Mahalapye Railway Sheds" },
-    coordinates: { lat: -23.1, lng: 26.83 },
+    coords: [26.83, -23.1],
     description: {
       de: "Historische Wartungshallen der Eisenbahn aus der Dampflok-Ära. Mahalapye war über Jahrzehnte das Herzstück des Schienenverkehrs in Botswana.",
       hu: "Történelmi vasúti karbantartó csarnokok a gőzmozdonyok korszakából. Mahalapye évtizedeken át Botswana vasúti közlekedésének szíve volt.",
@@ -1402,7 +1402,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-tumasera-stone-walls-history-v2",
     type: "ruins",
     name: { de: "Steinmauern von Tumasera", hu: "Tumasera kőfalak", ro: "Zidurile de piatră din Tumasera", en: "Tumasera Stone Walls" },
-    coordinates: { lat: -22.72, lng: 27.65 },
+    coords: [27.65, -22.72],
     description: {
       de: "Einzigartige Steinmauern in den Tswapong Hills, die von den Batswapong-Vorfahren errichtet wurden. Sie dienten als Schutzwälle gegen Angreifer.",
       hu: "Egyedülálló kőfalak a Tswapong-dombságban, melyeket a batswapong ősök építettek. Védőfalként szolgáltak a támadók ellen.",
@@ -1433,7 +1433,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-kanye-fortifications-history-v2",
     type: "landmark",
     name: { de: "Befestigungen von Kanye", hu: "Kanye erődítményei", ro: "Fortificațiile din Kanye", en: "Kanye Fortifications" },
-    coordinates: { lat: -24.97, lng: 25.33 },
+    coords: [25.33, -24.97],
     description: {
       de: "Historische Verteidigungsanlagen auf dem Hügel von Kanye aus den 1890er Jahren. Sie wurden von den Ngwaketse zum Schutz vor bürischen Überfällen gebaut.",
       hu: "Történelmi védművek a Kanye-dombon az 1890-es évekből. A Ngwaketse nép építette őket a búr rajtaütések elleni védekezésül.",
@@ -1464,7 +1464,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-serondela-settlement-history-v2",
     type: "ruins",
     name: { de: "Serondela-Siedlung", hu: "Serondela település", ro: "Așezarea Serondela", en: "Serondela Settlement" },
-    coordinates: { lat: -17.82, lng: 24.81 },
+    coords: [24.81, -17.82],
     description: {
       de: "Die einstige Hauptstadt des Chobe-Distrikts, bevor sie aus Naturschutzgründen aufgegeben wurde. Heute finden sich dort Ruinen und alte Gärten am Chobe-Fluss.",
       hu: "A Chobe-körzet egykori fővárosa, mielőtt természetvédelmi okokból elhagyták. Ma romok és régi kertek találhatók itt a Chobe-folyó partján.",
@@ -1495,7 +1495,7 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     id: "botswana-pandamatenga-rest-camp-history-v2",
     type: "landmark",
     name: { de: "Pandamatenga Rasthaus", hu: "Pandamatenga pihenőhely", ro: "Popasul Pandamatenga", en: "Pandamatenga Rest Camp" },
-    coordinates: { lat: -18.52, lng: 25.63 },
+    coords: [25.63, -18.52],
     description: {
       de: "Ein historischer Rastplatz für Jäger und Händler auf dem Weg zu den Victoriafällen. Er war im 19. Jahrhundert ein wichtiger Treffpunkt in der Wildnis.",
       hu: "Történelmi pihenőhely vadászok és kereskedők számára a Viktória-vízesés felé vezető úton. A 19. században fontos találkozóhely volt a vadonban.",

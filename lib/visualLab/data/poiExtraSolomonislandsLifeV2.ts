@@ -5,7 +5,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-tetepare-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Tetepare", hu: "Tetepare-sziget", ro: "Insula Tetepare", en: "Tetepare Island" },
-    coordinates: { lat: -8.7167, lng: 157.55 },
+    coords: [157.55, -8.7167],
     description: {
       de: "Tetepare ist die größte unbewohnte tropische Insel im Südpazifik und ein bedeutendes Naturschutzgebiet.",
       hu: "Tetepare a Dél-Csendes-óceán legnagyobb lakatlan trópusi szigete, amely kiemelkedő természetvédelmi terület.",
@@ -24,7 +24,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-arnavon-islands-life-v2",
     type: "wildlife",
     name: { de: "Arnavon-Inseln", hu: "Arnavon-szigetek", ro: "Insulele Arnavon", en: "Arnavon Islands" },
-    coordinates: { lat: -7.45, lng: 158.0 },
+    coords: [158.0, -7.45],
     description: {
       de: "Diese Inselgruppe beherbergt den größten Nistplatz für Echte Karettschildkröten im Westpazifik.",
       hu: "Ez a szigetcsoport ad otthont a nyugati Csendes-óceán legnagyobb közönséges cserepesteknős-fészkelőhelyének.",
@@ -43,7 +43,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-east-rennell-life-v2",
     type: "park",
     name: { de: "Ost-Rennell", hu: "Kelet-Rennell", ro: "Rennell de Est", en: "East Rennell" },
-    coordinates: { lat: -11.75, lng: 160.45 },
+    coords: [160.45, -11.75],
     description: {
       de: "Das UNESCO-Weltnaturerbe Ost-Rennell umfasst den Te Nggano-See, den größten Binnensee im Pazifik.",
       hu: "Az UNESCO világörökségi Kelet-Rennell magában foglalja a Te Nggano-tavat, a Csendes-óceán legnagyobb tavát.",
@@ -62,7 +62,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-mt-popomanaseu-life-v2",
     type: "peak",
     name: { de: "Berg Popomanaseu", hu: "Popomanaseu-hegy", ro: "Muntele Popomanaseu", en: "Mt Popomanaseu" },
-    coordinates: { lat: -9.7031, lng: 160.0522 },
+    coords: [160.0522, -9.7031],
     description: {
       de: "Der Berg Popomanaseu ist der höchste Gipfel der Salomonen und ein Hotspot für Bergwald-Biodiversität.",
       hu: "A Popomanaseu-hegy a Salamon-szigetek legmagasabb csúcsa és a hegyi esőerdők biodiverzitásának gócpontja.",
@@ -81,7 +81,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-kolombangara-forest-life-v2",
     type: "forest",
     name: { de: "Kolombangara-Wald", hu: "Kolombangara-erdő", ro: "Pădurea Kolombangara", en: "Kolombangara Forest" },
-    coordinates: { lat: -7.95, lng: 157.0833 },
+    coords: [157.0833, -7.95],
     description: {
       de: "Der Wald auf dem Vulkan Kolombangara beherbergt einzigartige Arten in verschiedenen Höhenstufen.",
       hu: "A Kolombangara-vulkán erdőségei egyedülálló fajoknak adnak otthont különböző magassági szinteken.",
@@ -100,7 +100,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-makira-natural-park-life-v2",
     type: "park",
     name: { de: "Makira-Naturpark", hu: "Makira Natúrpark", ro: "Parcul Natural Makira", en: "Makira Natural Park" },
-    coordinates: { lat: -10.55, lng: 161.75 },
+    coords: [161.75, -10.55],
     description: {
       de: "Dieser Park schützt die Bauro-Hochlandwälder, die für ihre hohe Anzahl an endemischen Vogelarten bekannt sind.",
       hu: "Ez a park a Bauro-fennsík erdeit védi, amelyek a magas számú endemikus madárfajról híresek.",
@@ -119,7 +119,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-zaira-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Zaira-Schutzgebiet", hu: "Zaira Természetvédelmi Terület", ro: "Aria de Conservare Zaira", en: "Zaira Conservation Area" },
-    coordinates: { lat: -8.65, lng: 157.95 },
+    coords: [157.95, -8.65],
     description: {
       de: "Das Zaira-Schutzgebiet auf Vangunu ist bekannt für seine unberührten Korallenriffe und Lederschildkröten-Nistplätze.",
       hu: "A Vangunu-szigeten található Zaira terület híres érintetlen korallzátonyairól és kérgesteknős-fészkelőhelyeiről.",
@@ -138,7 +138,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-bauani-conservation-area-life-v2",
     type: "wildlife",
     name: { de: "Bauani-Schutzgebiet", hu: "Bauani Természetvédelmi Terület", ro: "Aria de Conservare Bauani", en: "Bauani Conservation Area" },
-    coordinates: { lat: -8.1, lng: 159.1 },
+    coords: [159.1, -8.1],
     description: {
       de: "Dieses Schutzgebiet auf Santa Isabel bewahrt wichtige Mangroven- und Küstenökosysteme.",
       hu: "Ez a Santa Isabel-szigeten lévő terület fontos mangrove- és tengerparti ökoszisztémákat őriz meg.",
@@ -157,7 +157,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-lauvi-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Lauvi-Lagune", hu: "Lauvi-lagúna", ro: "Laguna Lauvi", en: "Lauvi Lagoon" },
-    coordinates: { lat: -9.8, lng: 160.45 },
+    coords: [160.45, -9.8],
     description: {
       de: "Die Lauvi-Lagune auf Guadalcanal ist eines der größten Feuchtgebiete der Insel und reich an Wasservögeln.",
       hu: "A Guadalcanal-szigeti Lauvi-lagúna a sziget egyik legnagyobb vizes élőhelye, gazdag vízimadár-világgal.",
@@ -176,7 +176,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-ontong-java-atoll-life-v2",
     type: "wildlife",
     name: { de: "Ontong Java Atoll", hu: "Ontong Java-atoll", ro: "Atolul Ontong Java", en: "Ontong Java Atoll" },
-    coordinates: { lat: -5.35, lng: 159.35 },
+    coords: [159.35, -5.35],
     description: {
       de: "Ontong Java ist eines der weltweit größten Atolle und beherbergt eine außergewöhnliche marine Artenvielfalt.",
       hu: "Az Ontong Java a világ egyik legnagyobb atollja, amely rendkívüli tengeri biodiverzitásnak ad otthont.",
@@ -195,7 +195,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-vonavona-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Vonavona-Lagune", hu: "Vonavona-lagúna", ro: "Laguna Vonavona", en: "Vonavona Lagoon" },
-    coordinates: { lat: -8.3333, lng: 157.25 },
+    coords: [157.25, -8.3333],
     description: {
       de: "Diese flache Lagune ist berühmt für ihre dichten Mangrovenwälder und kristallklares Wasser mit Korallen.",
       hu: "Ez a sekély lagúna sűrű mangroveerdőiről és kristálytiszta, korallos vizéről híres.",
@@ -214,7 +214,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-russell-islands-life-v2",
     type: "wildlife",
     name: { de: "Russell-Inseln", hu: "Russell-szigetek", ro: "Insulele Russell", en: "Russell Islands" },
-    coordinates: { lat: -9.05, lng: 159.15 },
+    coords: [159.15, -9.05],
     description: {
       de: "Die Russell-Inseln bieten eine Mischung aus Kokosnussplantagen und unberührten Korallenwänden.",
       hu: "A Russell-szigetek a kókuszültetvények és az érintetlen korallfalak keverékét kínálják.",
@@ -233,7 +233,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-santa-ana-lake-life-v2",
     type: "lake",
     name: { de: "Santa Ana See", hu: "Santa Ana-tó", ro: "Lacul Santa Ana", en: "Santa Ana Lake" },
-    coordinates: { lat: -10.83, lng: 162.47 },
+    coords: [162.47, -10.83],
     description: {
       de: "Der Wari-Qalo-See auf der Insel Santa Ana ist ein seltener Süßwassersee vulkanischen Ursprungs.",
       hu: "A Santa Ana-szigeti Wari-Qalo-tó egy ritka, vulkáni eredetű édesvízi tó.",
@@ -252,7 +252,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-ugi-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Ugi", hu: "Ugi-sziget", ro: "Insula Ugi", en: "Ugi Island" },
-    coordinates: { lat: -10.25, lng: 161.73 },
+    coords: [161.73, -10.25],
     description: {
       de: "Ugi ist bekannt für seine hohe Dichte an endemischen Arten, insbesondere Vögel und Reptilien.",
       hu: "Az Ugi-sziget az endemikus fajok, különösen a madarak és hüllők nagy sűrűségéről ismert.",
@@ -271,7 +271,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-roviana-lagoon-life-v2",
     type: "wildlife",
     name: { de: "Roviana-Lagune", hu: "Roviana-lagúna", ro: "Laguna Roviana", en: "Roviana Lagoon" },
-    coordinates: { lat: -8.38, lng: 157.35 },
+    coords: [157.35, -8.38],
     description: {
       de: "Die Roviana-Lagune bietet ausgedehnte Korallenriffe und ist ein Zentrum der melanesischen Kultur.",
       hu: "A Roviana-lagúna kiterjedt korallzátonyokat kínál, és a melanéz kultúra egyik központja.",
@@ -290,7 +290,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-lavoro-conservation-area-life-v2",
     type: "forest",
     name: { de: "Lavoro-Schutzgebiet", hu: "Lavoro Természetvédelmi Terület", ro: "Aria de Conservare Lavoro", en: "Lavoro Conservation Area" },
-    coordinates: { lat: -9.35, lng: 159.65 },
+    coords: [159.65, -9.35],
     description: {
       de: "Lavoro schützt einen der letzten primären Regenwälder im Nordwesten von Guadalcanal.",
       hu: "A Lavoro terület Guadalcanal északnyugati részének egyik utolsó elsődleges esőerdőjét védi.",
@@ -309,7 +309,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-mt-maetambe-life-v2",
     type: "peak",
     name: { de: "Berg Maetambe", hu: "Maetambe-hegy", ro: "Muntele Maetambe", en: "Mt Maetambe" },
-    coordinates: { lat: -7.1, lng: 156.95 },
+    coords: [156.95, -7.1],
     description: {
       de: "Der Berg Maetambe auf Choiseul ist ein bedeutendes Schutzgebiet für den Tieflandregenwald.",
       hu: "A Choiseul-szigeti Maetambe-hegy az alföldi esőerdők jelentős védett területe.",
@@ -328,7 +328,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-buala-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Buala-Feuchtgebiete", hu: "Bualai vizes élőhelyek", ro: "Zonele umede Buala", en: "Buala Wetlands" },
-    coordinates: { lat: -8.13, lng: 159.58 },
+    coords: [159.58, -8.13],
     description: {
       de: "Die Feuchtgebiete um Buala auf Santa Isabel sind entscheidend für den Schutz von Süßwasser-Ökosystemen.",
       hu: "A Santa Isabel-szigeti Buala környéki vizes élőhelyek döntőek az édesvízi ökoszisztémák védelmében.",
@@ -347,7 +347,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-auki-mangroves-life-v2",
     type: "forest",
     name: { de: "Auki-Mangroven", hu: "Aukii mangroveerdők", ro: "Mangrovele din Auki", en: "Auki Mangroves" },
-    coordinates: { lat: -8.76, lng: 160.7 },
+    coords: [160.7, -8.76],
     description: {
       de: "Die Mangrovenwälder bei Auki auf Malaita sind ein vitales Ökosystem für marine Arten und Küstenschutz.",
       hu: "A Malaita-szigeti Auki melletti mangroveerdők létfontosságúak a tengeri fajok és a partvédelem számára.",
@@ -366,7 +366,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-ndende-island-forest-life-v2",
     type: "forest",
     name: { de: "Ndende-Inselwald", hu: "Ndende-szigeti erdő", ro: "Pădurea insulei Ndende", en: "Ndende Island Forest" },
-    coordinates: { lat: -10.7, lng: 165.8 },
+    coords: [165.8, -10.7],
     description: {
       de: "Die Wälder der Insel Ndende in den Santa-Cruz-Inseln beherbergen extrem seltene, endemische Arten.",
       hu: "A Santa Cruz-szigetekhez tartozó Ndende-sziget erdői rendkívül ritka, endemikus fajoknak adnak otthont.",
@@ -385,7 +385,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-vanikoro-forest-life-v2",
     type: "forest",
     name: { de: "Vanikoro-Wald", hu: "Vanikoro-erdő", ro: "Pădurea Vanikoro", en: "Vanikoro Forest" },
-    coordinates: { lat: -11.65, lng: 166.9 },
+    coords: [166.9, -11.65],
     description: {
       de: "Der Vanikoro-Wald ist berühmt für seinen hohen Endemismus und die historische Verbindung zu La Pérouse.",
       hu: "A Vanikoro-erdő híres magas fokú endemizmusáról és a La Pérouse-expedícióhoz fűződő kapcsolatáról.",
@@ -404,7 +404,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-duff-islands-life-v2",
     type: "wildlife",
     name: { de: "Duff-Inseln", hu: "Duff-szigetek", ro: "Insulele Duff", en: "Duff Islands" },
-    coordinates: { lat: -9.8, lng: 167.1 },
+    coords: [167.1, -9.8],
     description: {
       de: "Diese abgelegenen Inseln bewahren eine einzigartige Flora und Fauna, die an extrem isolierte Bedingungen angepasst ist.",
       hu: "Ezek a távoli szigetek egyedülálló flórát és faunát őriznek, amely az extrém izolációhoz alkalmazkodott.",
@@ -423,7 +423,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-reef-islands-life-v2",
     type: "wildlife",
     name: { de: "Reef-Inseln", hu: "Reef-szigetek", ro: "Insulele Reef", en: "Reef Islands" },
-    coordinates: { lat: -10.25, lng: 166.2 },
+    coords: [166.2, -10.25],
     description: {
       de: "Die Reef-Inseln sind ein komplexes Netzwerk aus Koralleninseln und flachen Riffen mit hoher Artenvielfalt.",
       hu: "A Reef-szigetek korallszigetek és sekély zátonyok összetett hálózata, magas biodiverzitással.",
@@ -442,7 +442,7 @@ export const solomonislandsLifeV2: POI[] = [
     id: "solomonislands-tikopia-island-life-v2",
     type: "wildlife",
     name: { de: "Insel Tikopia", hu: "Tikopia-sziget", ro: "Insula Tikopia", en: "Tikopia Island" },
-    coordinates: { lat: -12.3, lng: 168.83 },
+    coords: [168.83, -12.3],
     description: {
       de: "Tikopia ist ein Beispiel für nachhaltige Landwirtschaft und die Erhaltung der indigenen Flora.",
       hu: "Tikopia a fenntartható mezőgazdaság és az őshonos flóra megőrzésének mintapéldája.",

@@ -646,7 +646,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-aitana-forest-life-v2",
     type: "forest",
     name: { de: "Aitana-Waldreservat", hu: "Aitana Erdőrezervátum", ro: "Rezervația Forestieră Aitana", en: "Aitana Forest Reserve" },
-    coordinates: { lat: -8.8921, lng: 126.3145 },
+    coords: [126.3145, -8.8921],
     description: {
       de: "Das Aitana-Waldreservat in Viqueque ist ein wichtiger Lebensraum für endemische Vögel. Es umfasst primären Tropenwald in verschiedenen Höhenlagen.",
       hu: "Az Aitana erdőrezervátum Viqueque körzetében található fontos madárvédelmi terület. Elsődleges trópusi erdők jellemzik változatos magasságokban.",
@@ -665,7 +665,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-burabo-nature-life-v2",
     type: "wildlife",
     name: { de: "Burabo-Naturgebiet", hu: "Burabo természetvédelmi terület", ro: "Zona naturală Burabo", en: "Burabo Nature Area" },
-    coordinates: { lat: -8.8756, lng: 126.1932 },
+    coords: [126.1932, -8.8756],
     description: {
       de: "Burabo ist ein Biodiversitäts-Hotspot in Zentral-Timor. Es schützt seltene Flora und Fauna in einem bergigen Gelände.",
       hu: "Burabo egy biodiverzitási forró pont Közép-Timorban. Ritka növény- és állatvilágot védelmez a hegyvidéki területen.",
@@ -684,7 +684,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-loelaco-birds-life-v2",
     type: "wildlife",
     name: { de: "Loelaco-Vogelschutzgebiet", hu: "Loelaco madárrezervátum", ro: "Sanctuarul de păsări Loelaco", en: "Loelaco Bird Sanctuary" },
-    coordinates: { lat: -9.3102, lng: 124.3215 },
+    coords: [124.3215, -9.3102],
     description: {
       de: "Das Loelaco-Gebiet in der Enklave Oecusse ist ein Refugium für seltene Vögel. Es zeichnet sich durch seine trockenen Laubwälder aus.",
       hu: "A Loelaco terület az Oecusse enklávéban ritka madarak menedéke. Különlegessége a száraz lombhullató erdőtársulás.",
@@ -703,7 +703,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-guguleur-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Guguleur-Wildschutzgebiet", hu: "Guguleur vadrezervátum", ro: "Rezervația de faună Guguleur", en: "Guguleur Wildlife Reserve" },
-    coordinates: { lat: -8.5834, lng: 125.3256 },
+    coords: [125.3256, -8.5834],
     description: {
       de: "Guguleur in der Gemeinde Liquiça schützt montane Wälder und endemische Bergvögel. Es ist bekannt für seine steilen, bewaldeten Grate.",
       hu: "A Liquiça községben található Guguleur hegyi erdőket és endemikus madarakat védelmez. Meredek, erdős gerinceiről ismert.",
@@ -722,7 +722,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-makabau-reserve-life-v2",
     type: "wildlife",
     name: { de: "Makabau-Tropenreservat", hu: "Makabau trópusi rezervátum", ro: "Rezervația tropicală Makabau", en: "Makabau Tropical Reserve" },
-    coordinates: { lat: -8.4123, lng: 127.0234 },
+    coords: [127.0234, -8.4123],
     description: {
       de: "Makabau liegt im äußersten Osten bei Lautém. Das Reservat schützt dichte Tiefland-Regenwälder und eine reiche Küstenfauna.",
       hu: "Makabau a legkeletibb részen, Lautém közelében található. A rezervátum sűrű alföldi esőerdőket és gazdag parti faunát véd.",
@@ -741,7 +741,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-maubere-highland-life-v2",
     type: "forest",
     name: { de: "Maubere-Bergwald", hu: "Maubere hegyi erdő", ro: "Pădurea montană Maubere", en: "Maubere Highland Forest" },
-    coordinates: { lat: -8.8345, lng: 126.0412 },
+    coords: [126.0412, -8.8345],
     description: {
       de: "Der Maubere-Bergwald liegt in den zentralen Highlands. Er ist bekannt für seine nebelverhangenen Landschaften und moosbedeckten Bäume.",
       hu: "A Maubere hegyi erdő a központi felföldön található. Ködös tájairól és mohával borított fáiról ismert.",
@@ -760,7 +760,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-behedan-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Behedan-Feuchtgebiete", hu: "Behedan mocsárvidék", ro: "Zonele umede Behedan", en: "Behedan Wetlands" },
-    coordinates: { lat: -8.7812, lng: 126.1134 },
+    coords: [126.1134, -8.7812],
     description: {
       de: "Die Behedan-Feuchtgebiete sind eine flache Lagunen- und Sumpflandschaft an der Südküste. Sie sind ein wichtiger Rastplatz für Zugvögel.",
       hu: "A Behedan mocsárvidék egy lapos lagúnás és lápos terület a déli parton. Fontos pihenőhely a költöző madarak számára.",
@@ -779,7 +779,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-clere-sanctuary-life-v2",
     type: "wildlife",
     name: { de: "Clere-Flussschutzgebiet", hu: "Clere-folyó rezervátum", ro: "Sanctuarul râului Clere", en: "Clere River Sanctuary" },
-    coordinates: { lat: -9.0345, lng: 125.8212 },
+    coords: [125.8212, -9.0345],
     description: {
       de: "Das Clere-Schutzgebiet an der Südküste umfasst Flussmündungen und Mangrovenwälder. Es ist ein Paradies für Wasservögel und Reptilien.",
       hu: "A déli parton fekvő Clere rezervátum folyótorkolatokat és mangrovékat foglal magában. A vízi madarak és hüllők paradicsoma.",
@@ -798,7 +798,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-modomahut-coastal-life-v2",
     type: "wildlife",
     name: { de: "Modomahut-Küstenreservat", hu: "Modomahut parti rezervátum", ro: "Rezervația costieră Modomahut", en: "Modomahut Coastal Reserve" },
-    coordinates: { lat: -9.1123, lng: 125.4345 },
+    coords: [125.4345, -9.1123],
     description: {
       de: "Modomahut ist ein wertvoller Küstenstreifen in Ainaro. Es schützt Sanddünen, Mangroven und seltene Seevögel.",
       hu: "Modomahut egy értékes tengerparti sáv Ainaro körzetében. Homokdűnéket, mangrovékat és ritka tengeri madarakat védelmez.",
@@ -817,7 +817,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-surolau-nature-life-v2",
     type: "wildlife",
     name: { de: "Suro-lau-Naturgebiet", hu: "Suro-lau természetvédelmi terület", ro: "Zona naturală Suro-lau", en: "Suro-lau Nature Area" },
-    coordinates: { lat: -8.9912, lng: 125.5934 },
+    coords: [125.5934, -8.9912],
     description: {
       de: "Suro-lau ist ein gebirgiger Biodiversitäts-Spot in Ainaro. Es schützt primäre Bergwälder und ist ein Paradies für Orchideen.",
       hu: "Suro-lau egy hegyvidéki biodiverzitási pont Ainaro körzetében. Elsődleges hegyi erdőket véd és az orchideák paradicsoma.",
@@ -836,7 +836,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-watabo-birds-life-v2",
     type: "wildlife",
     name: { de: "Watabo-Vogelgebiet", hu: "Watabo madárvédelmi terület", ro: "Zona de păsări Watabo", en: "Watabo Bird Area" },
-    coordinates: { lat: -8.5145, lng: 126.6812 },
+    coords: [126.6812, -8.5145],
     description: {
       de: "Watabo bei Lautém ist ein wichtiges Habitat für Tiefland- und Küstenvögel. Das Gebiet umfasst Waldfragmente und offene Savannen.",
       hu: "A Lautém közeli Watabo az alföldi és parti madarak fontos élőhelye. Erdőfoltokat és nyílt szavannákat foglal magában.",
@@ -855,7 +855,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-metinaro-mangroves-life-v2",
     type: "wildlife",
     name: { de: "Metinaro-Mangrovenwald", hu: "Metinaro mangrovéerdő", ro: "Pădurea de mangrove Metinaro", en: "Metinaro Mangrove Forest" },
-    coordinates: { lat: -8.5256, lng: 125.8432 },
+    coords: [125.8432, -8.5256],
     description: {
       de: "Der Metinaro-Mangrovenwald östlich von Dili ist eines der wichtigsten Küstenökosysteme. Er dient als Brutstätte für Fische und Korallenvögel.",
       hu: "A Dilitől keletre fekvő Metinaro mangrovéerdő az egyik legfontosabb parti ökoszisztéma. Halak és parti madarak szaporodóhelye.",
@@ -874,7 +874,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-mount-lame-forest-life-v2",
     type: "forest",
     name: { de: "Mount-Lame-Wald", hu: "Mount Lame erdő", ro: "Pădurea Muntelui Lame", en: "Mount Lame Forest" },
-    coordinates: { lat: -9.0812, lng: 125.3145 },
+    coords: [125.3145, -9.0812],
     description: {
       de: "Der Mount-Lame-Wald im Südwesten schützt seltene Hochland-Vegetation. Er ist ein abgelegenes Rückzugsgebiet für die Fauna der Insel.",
       hu: "A délnyugaton fekvő Mount Lame erdő ritka felföldi vegetációt védelmez. A sziget faunájának elszigetelt menedékhelye.",
@@ -893,7 +893,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-fatumasin-reserve-life-v2",
     type: "wildlife",
     name: { de: "Fatumasin-Naturreservat", hu: "Fatumasin természetvédelmi terület", ro: "Rezervația naturală Fatumasin", en: "Fatumasin Nature Reserve" },
-    coordinates: { lat: -8.6234, lng: 125.3345 },
+    coords: [125.3345, -8.6234],
     description: {
       de: "Fatumasin in Liquiça schützt primäre Bergwälder und ist ein Hotspot für Endemiten. Es beherbergt seltene Vogel- und Reptilienarten.",
       hu: "A Liquiça körzetben található Fatumasin elsődleges hegyi erdőket véd és endemikus fajok központja. Ritka madár- és hüllőfajok otthona.",
@@ -912,7 +912,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-mount-umun-forest-life-v2",
     type: "forest",
     name: { de: "Mount-Umun-Wald", hu: "Mount Umun erdő", ro: "Pădurea Muntelui Umun", en: "Mount Umun Forest" },
-    coordinates: { lat: -8.6512, lng: 126.8234 },
+    coords: [126.8234, -8.6512],
     description: {
       de: "Der Mount-Umun-Wald im Osten schützt isolierte Bergwaldinseln. Er ist ein wichtiger Lebensraum für die Avifauna von Lautém.",
       hu: "A keleten fekvő Mount Umun erdő elszigetelt hegyi erdőfoltokat védelmez. Fontos élőhelye Lautém madárvilágának.",
@@ -931,7 +931,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     id: "timorleste-mount-kaimau-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Mount-Kaimau-Wildgebiet", hu: "Mount Kaimau vadrezervátum", ro: "Zona de faună Muntele Kaimau", en: "Mount Kaimau Wildlife Area" },
-    coordinates: { lat: -8.7245, lng: 126.4132 },
+    coords: [126.4132, -8.7245],
     description: {
       de: "Das Mount-Kaimau-Wildgebiet in Baucau schützt vielfältige Ökosysteme von der Küste bis ins Gebirge. Es ist reich an endemischer Flora.",
       hu: "A Baucau körzetben található Mount Kaimau vadrezervátum változatos ökoszisztémákat véd a parttól a hegységig. Endemikus flórában gazdag.",

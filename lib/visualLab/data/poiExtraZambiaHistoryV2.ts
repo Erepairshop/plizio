@@ -1063,7 +1063,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-ingombe-ilede-history-v2",
     type: "ruins",
     name: { de: "Ingombe Ilede", hu: "Ingombe Ilede", ro: "Ingombe Ilede", en: "Ingombe Ilede" },
-    coordinates: { lat: -16.0333, lng: 28.7833 },
+    coords: [28.7833, -16.0333],
     description: {
       de: "Diese archäologische Stätte aus der Eisenzeit war ein wichtiges Handelszentrum am Sambesi. Gold und Kupferfunde belegen frühe Handelsverbindungen.",
       hu: "Ez a vaskori régészeti lelőhely fontos kereskedelmi központ volt a Zambézi mentén. Az arany- és rézleletek korai kereskedelmi kapcsolatokat igazolnak.",
@@ -1082,7 +1082,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-gwisho-hot-springs-history-v2",
     type: "ruins",
     name: { de: "Gwisho-Heißwasserquellen", hu: "Gwisho-hőforrások", ro: "Izvoarele Termale Gwisho", en: "Gwisho Hot Springs" },
-    coordinates: { lat: -15.98, lng: 27.23 },
+    coords: [27.23, -15.98],
     description: {
       de: "Einzigartige steinzeitliche Siedlung, in der organisches Material durch die Mineralien der Quellen konserviert wurde. Es ist eine der besterhaltenen Stätten.",
       hu: "Egyedülálló kőkorszaki település, ahol a források ásványi anyagai megőrizték a szerves anyagokat. Ez az egyik legjobb állapotú lelőhely.",
@@ -1101,7 +1101,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-niamkolo-church-history-v2",
     type: "church",
     name: { de: "Niamkolo-Kirche", hu: "Niamkolo-templom", ro: "Biserica Niamkolo", en: "Niamkolo Church" },
-    coordinates: { lat: -8.7611, lng: 31.0825 },
+    coords: [31.0825, -8.7611],
     description: {
       de: "Die älteste Steinkirche Sambias wurde 1895 von der London Missionary Society erbaut. Ihre Ruinen stehen am Ufer des Tanganjikasees.",
       hu: "Zambia legrégebbi kőtemploma, amelyet 1895-ben épített a Londoni Missziós Társaság. Romjai a Tanganyika-tó partján állnak.",
@@ -1120,7 +1120,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-dag-hammarskjold-memorial-history-v2",
     type: "monument",
     name: { de: "Dag-Hammarskjöld-Gedenkstätte", hu: "Dag Hammarskjöld-emlékhely", ro: "Memorialul Dag Hammarskjöld", en: "Dag Hammarskjöld Memorial" },
-    coordinates: { lat: -12.9692, lng: 28.5225 },
+    coords: [28.5225, -12.9692],
     description: {
       de: "Ort des Flugzeugabsturzes von UN-Generalsekretär Dag Hammarskjöld im Jahr 1961. Er starb hier während einer Friedensmission für den Kongo.",
       hu: "Dag Hammarskjöld ENSZ-főtitkár 1961-es repülőgép-szerencsétlenségének helyszíne. Egy kongói békemisszió során vesztette életét.",
@@ -1139,7 +1139,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-broken-hill-discovery-site-history-v2",
     type: "landmark",
     name: { de: "Broken-Hill-Fundstätte", hu: "Broken Hill-lelőhely", ro: "Situl Descoperirii Broken Hill", en: "Broken Hill Discovery Site" },
-    coordinates: { lat: -14.4514, lng: 28.4419 },
+    coords: [28.4419, -14.4514],
     description: {
       de: "Hier wurde 1921 der Schädel des 'Homo rhodesiensis' entdeckt. Er gilt als einer der wichtigsten paläontologischen Funde Afrikas.",
       hu: "Itt fedezték fel 1921-ben a 'Homo rhodesiensis' koponyáját. Afrika egyik legfontosabb őslénytani leleteként tartják számon.",
@@ -1158,7 +1158,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-nsalu-cave-history-v2",
     type: "landmark",
     name: { de: "Nsalu-Höhle", hu: "Nsalu-barlang", ro: "Peștera Nsalu", en: "Nsalu Cave" },
-    coordinates: { lat: -12.95, lng: 30.75 },
+    coords: [30.75, -12.95],
     description: {
       de: "Bekannt für ihre umfangreichen schematischen Felsmalereien aus der späten Steinzeit. Die Darstellungen zeigen geometrische Muster und Linien.",
       hu: "Kiterjedt, késő kőkorszaki semmatikus sziklarajzairól ismert. Az ábrázolások geometriai mintákat és vonalakat mutatnak be.",
@@ -1177,7 +1177,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-nachikufu-cave-history-v2",
     type: "landmark",
     name: { de: "Nachikufu-Höhle", hu: "Nachikufu-barlang", ro: "Peștera Nachikufu", en: "Nachikufu Cave" },
-    coordinates: { lat: -12.25, lng: 31.25 },
+    coords: [31.25, -12.25],
     description: {
       de: "Wichtige archäologische Ausgrabungsstätte, die eine kontinuierliche Besiedlung über 18.000 Jahre dokumentiert. Sie gab der Nachikufu-Kultur ihren Namen.",
       hu: "Fontos régészeti lelőhely, amely 18 000 év folyamatos lakottságát dokumentálja. Erről kapta nevét a Nachikufu-kultúra.",
@@ -1196,7 +1196,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-thandwe-rock-shelter-history-v2",
     type: "landmark",
     name: { de: "Thandwe-Felsunterstand", hu: "Thandwe-sziklatető", ro: "Adăpostul Rupestru Thandwe", en: "Thandwe Rock Shelter" },
-    coordinates: { lat: -13.82, lng: 32.41 },
+    coords: [32.41, -13.82],
     description: {
       de: "Diese Felswand in der Ostprovinz zeigt sowohl weiße als auch rote Malereien, die oft mit Initiationsriten der lokalen Stämme verbunden sind.",
       hu: "Ez a sziklafal a Keleti tartományban fehér és vörös festményeket mutat, amelyek gyakran a helyi törzsek beavatási rítusaihoz kapcsolódnak.",
@@ -1215,7 +1215,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-chifubwa-stream-cave-history-v2",
     type: "ruins",
     name: { de: "Chifubwa-Bach-Höhle", hu: "Chifubwa-patak barlangja", ro: "Peștera Pârâului Chifubwa", en: "Chifubwa Stream Cave" },
-    coordinates: { lat: -12.185, lng: 26.388 },
+    coords: [26.388, -12.185],
     description: {
       de: "Einzigartige prähistorische Gravuren in einem Felsunterstand, die teilweise durch eine tiefe Sedimentschicht verdeckt waren. Sie sind rot bemalt.",
       hu: "Egyedülálló őskori gravírozások egy sziklatető alatt, amelyeket részben mély üledékréteg borított. Vörösre vannak festve.",
@@ -1234,7 +1234,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-fort-monze-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Fort Monze", hu: "Fort Monze romjai", ro: "Ruinele Fort Monze", en: "Fort Monze Ruins" },
-    coordinates: { lat: -16.269, lng: 27.275 },
+    coords: [27.275, -16.269],
     description: {
       de: "Eines der frühesten kolonialen Polizeigefängnisse in Nordrhodesien, errichtet in den 1890er Jahren zur Überwachung der Region.",
       hu: "Az egyik legkorábbi gyarmati rendőrségi erőd Észak-Rodéziában, amelyet az 1890-es években építettek a régió felügyeletére.",
@@ -1253,7 +1253,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-shiwa-ngandu-manor-history-v2",
     type: "palace",
     name: { de: "Shiwa Ngandu Herrenhaus", hu: "Shiwa Ngandu udvarház", ro: "Conacul Shiwa Ngandu", en: "Shiwa Ngandu Manor" },
-    coordinates: { lat: -11.189, lng: 31.761 },
+    coords: [31.761, -11.189],
     description: {
       de: "Ein prachtvolles englisches Herrenhaus im italienischen Stil, erbaut von Sir Stewart Gore-Browne in der abgelegenen Landschaft von Muchinga.",
       hu: "Egy pompás, olasz stílusú angol udvarház, amelyet Sir Stewart Gore-Browne épített Muchinga távoli vidékén.",
@@ -1272,7 +1272,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-kalambo-archaeological-site-history-v2",
     type: "ruins",
     name: { de: "Archäologische Stätte Kalambo-Fälle", hu: "Kalambo-vízesés régészeti lelőhely", ro: "Situl Arheologic Cascadele Kalambo", en: "Kalambo Falls Archaeological Site" },
-    coordinates: { lat: -8.591, lng: 31.246 },
+    coords: [31.246, -8.591],
     description: {
       de: "Weltberühmte Stätte, die die früheste Nutzung von Holz durch Menschen vor fast 500.000 Jahren belegt. Die Funde sind im Schlamm konserviert worden.",
       hu: "Világhírű lelőhely, amely az emberiség legkorábbi fahasználatát bizonyítja közel 500 000 évvel ezelőttről. A leleteket az iszap őrizte meg.",
@@ -1291,7 +1291,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-mumbwa-caves-history-v2",
     type: "landmark",
     name: { de: "Mumbwa-Höhlen", hu: "Mumbwa-barlangok", ro: "Peșterile Mumbwa", en: "Mumbwa Caves" },
-    coordinates: { lat: -14.981, lng: 27.021 },
+    coords: [27.021, -14.981],
     description: {
       de: "Diese Höhlen enthalten Beweise für die Eisenverhüttung und menschliche Besiedlung von der Steinzeit bis in die jüngere Vergangenheit.",
       hu: "Ezek a barlangok a vasolvasztás és az emberi lakottság bizonyítékait tartalmazzák a kőkorszaktól a közelmúltig.",
@@ -1310,7 +1310,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-mongu-old-boma-history-v2",
     type: "landmark",
     name: { de: "Altes Boma Mongu", hu: "Mongu régi Boma épülete", ro: "Vechiul Boma din Mongu", en: "Mongu Old Boma" },
-    coordinates: { lat: -15.281, lng: 23.131 },
+    coords: [23.131, -15.281],
     description: {
       de: "Historisches britisches Verwaltungsgebäude auf einem Hügel mit Blick auf die Barotse-Flussebene. Es diente als Zentrum der Kolonialmacht.",
       hu: "Történelmi brit közigazgatási épület egy dombon, kilátással a Barotse-ártérre. A gyarmati hatalom központjaként szolgált.",
@@ -1329,7 +1329,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-mbala-old-boma-history-v2",
     type: "landmark",
     name: { de: "Altes Boma Mbala", hu: "Mbala régi Boma épülete", ro: "Vechiul Boma din Mbala", en: "Mbala Old Boma" },
-    coordinates: { lat: -8.841, lng: 31.371 },
+    coords: [31.371, -8.841],
     description: {
       de: "Dieses Gebäude war ein Schlüsselposten während des Ersten Weltkriegs in Afrika und markiert den Übergang von deutscher zu britischer Kontrolle.",
       hu: "Ez az épület kulcsfontosságú poszt volt az első világháború alatt Afrikában, és a németről a brit ellenőrzésre való átmenetet jelzi.",
@@ -1348,7 +1348,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-kunda-rock-art-history-v2",
     type: "landmark",
     name: { de: "Kunda-Felskunst", hu: "Kunda sziklaművészet", ro: "Arta Rupestră Kunda", en: "Kunda Rock Art" },
-    coordinates: { lat: -13.535, lng: 32.525 },
+    coords: [32.525, -13.535],
     description: {
       de: "Versteckte Felsmalereien in der Ostprovinz, die Tierfiguren und mythologische Wesen in lebhaften Farben darstellen.",
       hu: "Rejtett sziklarajzok a Keleti tartományban, amelyek állatfigurákat és mitológiai lényeket ábrázolnak élénk színekkel.",
@@ -1367,7 +1367,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-good-news-monument-history-v2",
     type: "monument",
     name: { de: "Good-News-Denkmal", hu: "Good News emlékmű", ro: "Monumentul Good News", en: "Good News Monument" },
-    coordinates: { lat: -8.815, lng: 31.145 },
+    coords: [31.145, -8.815],
     description: {
       de: "Erinnert an das erste Dampfschiff auf dem Tanganjikasee, das 1884 von Missionaren zu Fuß über Land transportiert und hier montiert wurde.",
       hu: "A Tanganyika-tó első gőzhajójára emlékeztet, amelyet 1884-ben misszionáriusok gyalog szállítottak a szárazföldön, és itt szereltek össze.",
@@ -1386,7 +1386,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-filigiano-homestead-history-v2",
     type: "landmark",
     name: { de: "Filigiano-Anwesen", hu: "Filigiano-birtok", ro: "Ferma Filigiano", en: "Filigiano Homestead" },
-    coordinates: { lat: -15.422, lng: 28.291 },
+    coords: [28.291, -15.422],
     description: {
       de: "Ein gut erhaltenes Beispiel für die frühe Siedlerarchitektur in der Nähe von Lusaka, das heute ein kleines privates Museum beherbergt.",
       hu: "A korai telepes építészet jól megőrzött példája Lusaka közelében, amely ma egy kis magánmúzeumnak ad otthont.",
@@ -1405,7 +1405,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-slave-tree-ndola-history-v2",
     type: "landmark",
     name: { de: "Sklavenbaum von Ndola", hu: "Ndolai rabszolga-fa", ro: "Copacul Sclavilor din Ndola", en: "Slave Tree (Ndola)" },
-    coordinates: { lat: -12.971, lng: 28.641 },
+    coords: [28.641, -12.971],
     description: {
       de: "Ein uralter Feigenbaum, unter dem arabische Sklavenhändler im 19. Jahrhundert ihre Märkte abhielten und über Menschenleben verhandelten.",
       hu: "Egy ősi fügefa, amely alatt az arab rabszolgakereskedők a 19. században piacaikat tartották és emberéletekről tárgyaltak.",
@@ -1424,7 +1424,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     id: "zambia-mfuwe-fossil-site-history-v2",
     type: "landmark",
     name: { de: "Mfuwe-Fossilienstätte", hu: "Mfuwe-fosszília lelőhely", ro: "Situl Fosilier Mfuwe", en: "Mfuwe Fossil Site" },
-    coordinates: { lat: -13.065, lng: 31.795 },
+    coords: [31.795, -13.065],
     description: {
       de: "Bedeutende Fundstätte für Wirbeltierfossilien aus dem Perm, darunter Therapsiden, die wichtige Erkenntnisse über die Entwicklung der Säugetiere liefern.",
       hu: "Fontos leletehely a permi időszak gerinces fosszíliái számára, beleértve a Therapsidákat, amelyek fontos adatokat szolgáltatnak az emlősök fejlődéséről.",

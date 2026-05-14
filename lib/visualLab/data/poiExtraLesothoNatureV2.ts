@@ -857,7 +857,7 @@ export const poiExtraLesothoNatureV2: POI[] = [
     id: "lesotho-sani-pass-nature-v2",
     type: "peak",
     name: { de: "Sani Pass", hu: "Sani-hágó", ro: "Pasul Sani", en: "Sani Pass" },
-    coordinates: { lat: -29.5847, lng: 29.2878 },
+    coords: [29.2878, -29.5847],
     description: {
       de: "Der Sani Pass ist ein Gebirgspass in den Drakensbergen auf einer Höhe von 2874 Metern. Er verbindet Lesotho mit der südafrikanischen Provinz KwaZulu-Natal.",
       hu: "A Sani-hágó egy 2874 méter magasságban fekvő hegyi hágó a Sárkány-hegységben. Lesotho és a dél-afrikai KwaZulu-Natal tartomány közötti összeköttetést biztosítja.",
@@ -871,12 +871,24 @@ export const poiExtraLesothoNatureV2: POI[] = [
       en: ["Highest elevation reaches 2,874 meters above sea level.", "Strictly restricted to 4x4 vehicles due to steep terrain.", "Home to the Sani Mountain Lodge, Africa's highest pub.", "Key transport route between Lesotho and South Africa."],
     },
     imageHint: "Sani Pass winding mountain road with steep cliffs",
+    descriptionAdvanced: {
+      de: "Der Sani Pass ist eine berühmte Gebirgspassstraße in den Maloti-Bergen, die Lesotho mit der südafrikanischen Provinz KwaZulu-Natal verbindet. Er wurde in den 1950er Jahren als Handelsroute erbaut und erreicht eine Höhe von 2.876 m über dem Meeresspiegel. Die Strecke ist bekannt für ihre extremen Steigungen, engen Kurven und atemberaubenden Ausblicke auf das Drakensberg-Massiv. Der Pass ist ein wichtiger Zugangspunkt zum Sani-Tal und zum Mokhotlong-Distrikt. Er wird von Abenteuerreisenden aufgrund seiner schwierigen Fahrbedingungen geschätzt, und es verkehren regelmäßig Geländewagen. Der Sani Pass ist auch ein Ausgangspunkt für Wanderungen zum benachbarten Gipfel des Mafadi. Die Region ist reich an Vogelarten und endemischer Flora.",
+      hu: "A Sani-hágó Lesotho és a dél-afrikai KwaZulu-Natal tartomány közötti hegyi út, amely a Maloti-hegységen keresztül vezet. Az utat az 1950-es években építették, hogy összekösse a magasföldi területeket a partvidékkel. A hágó tengerszint feletti magassága 2876 méter, és a Drakensberg-hegység egyik leglátványosabb útvonala. A terület fontos a basuto pásztorok számára, akik nyáron felhajtják állataikat a magasabb legelőkre. Az út nehéz terepe miatt csak 4x4 járművekkel járható, és a határátkelőhely régóta működik. A Sani-hágó a Sani-völgy kapuja, ahonnan túrák indulnak a közeli csúcsokra. A régióban ritka növényfajok, például a Drakensbergi aloé élnek.",
+      ro: "Pasul Sani este un drum montan legendar care leagă Lesotho de provincia KwaZulu-Natal din Africa de Sud, traversând Munții Maloti. Construit în anii 1950, acesta atinge o altitudine de 2.876 m, fiind unul dintre cele mai înalte puncte de trecere din Africa de Sud. Drumul este renumit pentru serpentinele sale strânse și pantele abrupte, fiind accesibil doar vehiculelor cu tracțiune integrală. Pasul este o rută vitală pentru comerțul local și turism, oferind vederi spectaculoase asupra Văii Sani și a Munților Drakensberg. Regiunea este bogată în biodiversitate, găzduind specii endemice de păsări și plante. De asemenea, este un punct de plecare pentru drumeții către Vârful Mafadi, cel mai înalt vârf al Africii de Sud.",
+      en: "Sani Pass is a high mountain pass in the Maloti Mountains, connecting Lesotho to South Africa's KwaZulu-Natal province. Built in the 1950s for trade and transport, it reaches an elevation of 2,876 m (9,436 ft) and is known for its challenging gravel road with numerous hairpin bends. The pass serves as a key entry point to the Mokhotlong district and is popular among 4x4 enthusiasts and hikers. It offers panoramic views of the Drakensberg escarpment and the Sani Valley. The area is culturally significant to the Basotho people, who use the highlands for grazing. The pass also provides access to the Mafadi peak, the highest point in South Africa at 3,450 m.",
+    },
+    factsAdvanced: {
+      de: ["Der Sani Pass erreicht eine Höhe von 2.876 m ü. M.", "Die Straße wurde in den 1950er Jahren erbaut.", "Die Länge des Passes beträgt etwa 9 km von der Grenze bis zur Spitze.", "Die maximale Steigung beträgt 1:3 (33%).", "Der Pass verbindet Lesotho mit der südafrikanischen Provinz KwaZulu-Natal.", "Jährlich überqueren etwa 30.000 Fahrzeuge den Pass."],
+      hu: ["A Sani-hágó magassága 2876 méter.", "Az utat az 1950-es években építették.", "A hágó hossza körülbelül 9 km a határtól a csúcsig.", "A maximális emelkedés 33% (1:3).", "A hágó Lesothót és a dél-afrikai KwaZulu-Natal tartományt köti össze.", "Évente mintegy 30 000 jármű halad át a hágón."],
+      ro: ["Pasul Sani are o altitudine de 2.876 m.", "Drumul a fost construit în anii 1950.", "Lungimea pasului este de aproximativ 9 km de la graniță până la vârf.", "Panta maximă este de 33% (1:3).", "Pasul leagă Lesotho de provincia KwaZulu-Natal din Africa de Sud.", "Aproximativ 30.000 de vehicule traversează pasul anual."],
+      en: ["Sani Pass elevation is 2,876 m (9,436 ft).", "The road was constructed in the 1950s.", "The pass is about 9 km long from the border to the top.", "Maximum gradient is 1:3 (33%).", "It links Lesotho to South Africa's KwaZulu-Natal province.", "Approximately 30,000 vehicles cross the pass annually."],
+    },
   },
   {
     id: "lesotho-ketane-falls-nature-v2",
     type: "landmark",
     name: { de: "Ketane-Wasserfälle", hu: "Ketane-vízesés", ro: "Cascada Ketane", en: "Ketane Falls" },
-    coordinates: { lat: -29.7711, lng: 28.1633 },
+    coords: [28.1633, -29.7711],
     description: {
       de: "Die Ketane-Wasserfälle stürzen über eine Basaltklippe etwa 122 Meter in die Tiefe. Sie befinden sich in einer abgelegenen Region des Maloti-Gebirges.",
       hu: "A Ketane-vízesés egy bazaltszikláról zúdul alá körülbelül 122 méter magasságból. A Maloti-hegység egyik távoli, nehezen megközelíthető régiójában található.",
@@ -890,12 +902,24 @@ export const poiExtraLesothoNatureV2: POI[] = [
       en: ["The waterfall has a total drop of about 122 meters.", "Located in a remote wilderness of the Maloti Mountains.", "Accessible mainly via multi-day pony trekking routes.", "Falls over a dramatic precipice of volcanic basalt."],
     },
     imageHint: "Remote waterfall dropping from basalt cliffs in Lesotho",
+    descriptionAdvanced: {
+      de: "Die Ketane-Wasserfälle liegen im Südosten Lesothos am Ketane-Fluss, einem Nebenfluss des Senqu. Sie stürzen über eine Klippe des Drakensberg-Plateaus und bilden einen der höchsten einstufigen Wasserfälle im südlichen Afrika. Die Fallhöhe beträgt etwa 134 Meter. Die Fälle sind von einer abgelegenen, unberührten Natur umgeben, mit Felsformationen und Alpenwiesen. Der Zugang erfolgt über eine Wanderung von etwa 10 Kilometern von der nächsten Straße. Die Region ist Teil des Sehlabathebe-Nationalparks. Die Wasserfälle sind besonders nach Regenfällen beeindruckend, wenn die Wassermenge zunimmt. Sie sind ein Ziel für Ökotourismus und Fotografie.",
+      hu: "A Ketane-vízesés Lesotho délkeleti részén található, a Ketane folyón, amely a Senqu mellékfolyója. A vízesés magassága körülbelül 134 méter, így az egyik legmagasabb egyszintű vízesés Dél-Afrikában. A környék távoli és érintetlen, sziklás formációkkal és alpesi rétekkel. A vízeséshez egy 10 km-es túra vezet a legközelebbi úttól. A terület a Sehlabathebe Nemzeti Park része. Az esős évszakban a vízhozam jelentősen megnő, ami látványos zuhatagot eredményez. A Ketane-vízesés kevésbé ismert, mint a Maletsunyane-vízesés, de hasonlóan lenyűgöző.",
+      ro: "Cascadele Ketane sunt situate în sud-estul Lesothoului, pe râul Ketane, un afluent al Senqu-ului. Cu o înălțime de aproximativ 134 m, ele sunt una dintre cele mai înalte cascade cu o singură cădere din Africa de Sud. Cascada este înconjurată de peisaje sălbatice, cu stânci și pajiști alpine. Accesul se face pe jos, pe o potecă de aproximativ 10 km de la cel mai apropiat drum. Zona face parte din Parcul Național Sehlabathebe. Debitul crește semnificativ în sezonul ploios. Cascadele sunt o destinație pentru drumeții și fotografie, oferind o priveliște spectaculoasă asupra cheii adânci.",
+      en: "Ketane Falls is a waterfall on the Ketane River, a tributary of the Senqu, in southeastern Lesotho. With a drop of approximately 134 m (440 ft), it ranks among the highest single-drop waterfalls in Southern Africa. The falls are located in a remote area within the Sehlabathebe National Park, accessible only by a 10 km hike. The surrounding landscape features basalt cliffs and alpine grasslands. The waterfall is most impressive during the rainy season when the volume of water increases. It is less frequented than the Maletsunyane Falls, offering a pristine experience for hikers and nature photographers.",
+    },
+    factsAdvanced: {
+      de: ["Die Fallhöhe der Ketane-Fälle beträgt 134 m.", "Sie liegen im Sehlabathebe-Nationalpark.", "Der Ketane-Fluss ist ein Nebenfluss des Senqu.", "Die Entfernung vom nächsten Parkplatz beträgt 10 km Wanderweg.", "Die geographische Lage: 29°50' S, 29°08' O.", "Die maximale Breite des Wasserfalls beträgt etwa 15 m."],
+      hu: ["A Ketane-vízesés magassága 134 méter.", "A Sehlabathebe Nemzeti Parkban található.", "A Ketane folyó a Senqu mellékfolyója.", "A legközelebbi parkolótól 10 km-es túraútvonal vezet hozzá.", "Földrajzi elhelyezkedés: 29°50' D, 29°08' K.", "A vízesés szélessége körülbelül 15 méter."],
+      ro: ["Cascada Ketane are o înălțime de 134 m.", "Se află în Parcul Național Sehlabathebe.", "Râul Ketane este un afluent al Senqu-ului.", "Distanța de la cea mai apropiată parcare este de 10 km pe potecă.", "Coordonate: 29°50' S, 29°08' E.", "Lățimea maximă a cascadei este de aproximativ 15 m."],
+      en: ["Ketane Falls drops 134 m (440 ft).", "It is located in Sehlabathebe National Park.", "The Ketane River is a tributary of the Senqu River.", "The hike from the nearest road is 10 km (6.2 mi).", "Coordinates: 29°50' S, 29°08' E.", "Maximum width of the falls is about 15 m (49 ft)."],
+    },
   },
   {
     id: "lesotho-muela-dam-nature-v2",
     type: "lake",
     name: { de: "Muela-Talsperre", hu: "Muela-gát", ro: "Barajul Muela", en: "Muela Dam" },
-    coordinates: { lat: -28.7758, lng: 28.455 },
+    coords: [28.455, -28.7758],
     description: {
       de: "Die Muela-Talsperre ist Teil des Lesotho Highlands Water Project und dient der Stromerzeugung. Der Damm hat eine Höhe von 55 Metern und staut ein wichtiges Reservoir auf.",
       hu: "A Muela-gát a Lesotho-felföldi Vízgazdálkodási Projekt része, és elektromos áram előállítására szolgál. Az 55 méter magas gát egy jelentős víztározót hoz létre.",
@@ -909,6 +933,18 @@ export const poiExtraLesothoNatureV2: POI[] = [
       en: ["The dam has a structural height of 55 meters.", "The hydropower plant generates 72 megawatts of electricity.", "Construction of phase 1A was completed in 1998.", "A key component of the Lesotho Highlands Water Project."],
     },
     imageHint: "Large hydroelectric dam and reservoir in the Lesotho highlands",
+    descriptionAdvanced: {
+      de: "Der Muela-Staudamm (auch 'Muela Dam' genannt) ist eine Talsperre am Senqu-Fluss im Norden Lesothos. Er ist Teil des Lesotho Highlands Water Projects, das Wasser nach Südafrika liefert. Der Staudamm wurde 2003 fertiggestellt und hat eine Höhe von 55 m. Der Stausee erstreckt sich über 14 km Länge und hat ein Fassungsvermögen von 107 Millionen Kubikmetern. Das angeschlossene Wasserkraftwerk Muela erzeugt 72 Megawatt Strom. Die Region ist geprägt von Felsklippen und Grasland. Der Damm spielt eine wichtige Rolle für die regionale Wasserversorgung und wirtschaftliche Entwicklung. Er ist auch ein Angelort und ein Ziel für Vogelbeobachter.",
+      hu: "A Muela-gát (Muela Dam) a Senqu folyón épült, Észak-Lesothóban, a Lesothói Felvidék Víziprojekt részeként. A gát 2003-ban készült el, magassága 55 méter. A víztározó hossza 14 km, térfogata 107 millió köbméter. A hozzátartozó Muela vízerőmű 72 megawatt áramot termel. A környék sziklás és füves pusztaság. A gát fontos szerepet játszik a vízellátásban és a gazdaságban. Horgászati lehetőségeket és madármegfigyelést is kínál. A projekt jelentős hatással volt a helyi közösségekre, mivel kárpótlási programok indultak.",
+      ro: "Barajul Muela (Muela Dam) este situat pe râul Senqu, în nordul Lesothoului, făcând parte din Proiectul de Apă al Podișului Lesotho. Construit în 2003, barajul are o înălțime de 55 m. Lacul de acumulare are o lungime de 14 km și o capacitate de 107 milioane de metri cubi. Centrala hidroelectrică Muela produce 72 MW de electricitate. Zona este caracterizată de stânci și pajiști. Barajul este crucial pentru aprovizionarea cu apă și dezvoltarea economică regională. De asemenea, este un loc popular pentru pescuit și observarea păsărilor.",
+      en: "Muela Dam is a concrete gravity dam on the Senqu River in northern Lesotho, completed in 2003 as part of the Lesotho Highlands Water Project. It stands 55 m (180 ft) high and creates a reservoir 14 km long with a capacity of 107 million cubic meters. The dam's hydroelectric power station generates 72 MW of electricity. The surrounding landscape consists of rocky outcrops and grasslands. The dam is essential for water transfer to South Africa and provides local fishing and birdwatching opportunities. Its construction involved relocation of communities and environmental mitigation measures.",
+    },
+    factsAdvanced: {
+      de: ["Der Muela-Staudamm wurde 2003 fertiggestellt.", "Die Höhe des Damms beträgt 55 m.", "Der Stausee hat eine Länge von 14 km.", "Das Fassungsvermögen beträgt 107 Millionen Kubikmeter.", "Das Wasserkraftwerk Muela leistet 72 MW.", "Der Damm ist Teil des Lesotho Highlands Water Projects."],
+      hu: ["A Muela-gát 2003-ban készült el.", "A gát magassága 55 méter.", "A víztározó hossza 14 km.", "A tározó térfogata 107 millió köbméter.", "A Muela erőmű teljesítménye 72 MW.", "A gát a Lesothói Felvidék Víziprojekt része."],
+      ro: ["Barajul Muela a fost finalizat în 2003.", "Înălțimea barajului este de 55 m.", "Lacul de acumulare are o lungime de 14 km.", "Capacitatea lacului este de 107 milioane m³.", "Centrala hidroelectrică Muela produce 72 MW.", "Barajul face parte din Proiectul de Apă al Podișului Lesotho."],
+      en: ["Muela Dam was completed in 2003.", "Dam height is 55 m (180 ft).", "Reservoir length is 14 km (8.7 mi).", "Reservoir capacity is 107 million m³.", "Muela hydroelectric plant generates 72 MW.", "The dam is part of the Lesotho Highlands Water Project."],
+    },
   }
 ];
 

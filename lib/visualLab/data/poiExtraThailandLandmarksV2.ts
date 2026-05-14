@@ -709,7 +709,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-mahanakhon-tower-landmarks-v2",
     type: "tower",
     name: { de: "MahaNakhon", hu: "MahaNakhon torony", ro: "Turnul MahaNakhon", en: "MahaNakhon" },
-    coordinates: { lat: 13.7236, lng: 100.5284 },
+    coords: [100.5284, 13.7236],
     description: {
       de: "Dieser markante Wolkenkratzer in Bangkok hat eine unverwechselbare Pixel-Fassade. Er verfügt über eine gläserne Aussichtsplattform in 314 Metern Höhe.",
       hu: "Ez a jellegzetes bangkoki felhőkarcoló egyedi, pixeles homlokzattal rendelkezik. 314 méter magasan egy üvegpadlós kilátó található.",
@@ -728,7 +728,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-bhumibol-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Bhumibol-Brücke", hu: "Bhumibol híd", ro: "Podul Bhumibol", en: "Bhumibol Bridge" },
-    coordinates: { lat: 13.6664, lng: 100.5385 },
+    coords: [100.5385, 13.6664],
     description: {
       de: "Diese Schrägseilbrücke in Bangkok überspannt den Chao Phraya Fluss zweimal. Sie ist Teil der industriellen Ringstraße der Hauptstadt.",
       hu: "Ez a bangkoki ferdekábeles híd kétszer is átível a Chao Phraya folyón. A fővárosi ipari körgyűrű része.",
@@ -747,7 +747,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-royal-barges-museum-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum der königlichen Prunkboote", hu: "Királyi bárkák múzeuma", ro: "Muzeul Național al Barajelor Regale", en: "National Museum of Royal Barges" },
-    coordinates: { lat: 13.7621, lng: 100.4842 },
+    coords: [100.4842, 13.7621],
     description: {
       de: "Dieses Museum in Bangkok stellt die prachtvoll geschnitzten Boote der königlichen Prozession aus. Sie werden auf dem Chao Phraya eingesetzt.",
       hu: "Ez a bangkoki múzeum a királyi felvonulás pompásan faragott bárkáit mutatja be. Ezeket a Chao Phraya folyón használják.",
@@ -766,7 +766,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-hua-lamphong-station-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof Hua Lamphong", hu: "Hua Lamphong pályaudvar", ro: "Gara Hua Lamphong", en: "Hua Lamphong Railway Station" },
-    coordinates: { lat: 13.7392, lng: 100.5164 },
+    coords: [100.5164, 13.7392],
     description: {
       de: "Der historische Hauptbahnhof von Bangkok ist für sein neoklassizistisches Design bekannt. Er wurde im Jahr 1916 eröffnet.",
       hu: "Bangkok történelmi központi pályaudvara neoklasszicista stílusáról ismert. 1916-ban nyitották meg a forgalom előtt.",
@@ -785,7 +785,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-suthat-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Suthat Thepwararam", hu: "Wat Suthat", ro: "Wat Suthat", en: "Wat Suthat" },
-    coordinates: { lat: 13.7512, lng: 100.5011 },
+    coords: [100.5011, 13.7512],
     description: {
       de: "Einer der ältesten und größten Tempel in Bangkok, berühmt für seine Wandmalereien. Er befindet sich direkt neben der Riesenschaukel.",
       hu: "Bangkok egyik legrégebbi és legnagyobb temploma, falfestményeiről híres. Közvetlenül az Óriáshinta mellett található.",
@@ -804,7 +804,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-loha-prasat-landmarks-v2",
     type: "landmark",
     name: { de: "Loha Prasat", hu: "Loha Prasat", ro: "Loha Prasat", en: "Loha Prasat" },
-    coordinates: { lat: 13.7551, lng: 100.5042 },
+    coords: [100.5042, 13.7551],
     description: {
       de: "Diese einzigartige Struktur im Wat Ratchanatdaram ist als 'Metallschloss' bekannt. Sie besitzt 37 goldene Spitzen, die die Erleuchtung symbolisieren.",
       hu: "Ez az egyedülálló építmény a Wat Ratchanatdaram területén 'fémpalota' néven ismert. 37 arany csúcsa a megvilágosodást jelképezi.",
@@ -823,7 +823,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-ancient-city-landmarks-v2",
     type: "museum",
     name: { de: "Mueang Boran (Alte Stadt)", hu: "Mueang Boran (Ősi Város)", ro: "Orașul Antic Mueang Boran", en: "The Ancient City (Mueang Boran)" },
-    coordinates: { lat: 13.5393, lng: 100.6227 },
+    coords: [100.6227, 13.5393],
     description: {
       de: "Das größte Freilichtmuseum der Welt zeigt verkleinerte oder originalgetreue Nachbauten thailändischer Denkmäler. Es liegt in Samut Prakan.",
       hu: "A világ legnagyobb szabadtéri múzeuma thaiföldi műemlékek kicsinyített vagy mérethű másolatait mutatja be Samut Prakanban.",
@@ -842,7 +842,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-rama-viii-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Rama-VIII-Brücke", hu: "VIII. Ráma híd", ro: "Podul Rama VIII", en: "Rama VIII Bridge" },
-    coordinates: { lat: 13.7694, lng: 100.4969 },
+    coords: [100.4969, 13.7694],
     description: {
       de: "Diese asymmetrische Schrägseilbrücke in Bangkok ist ein markantes Wahrzeichen über dem Chao Phraya. Sie wurde 2002 eingeweiht.",
       hu: "Ez az aszimmetrikus ferdekábeles híd Bangkok egyik jellegzetes építménye a Chao Phraya felett. 2002-ben adták át.",
@@ -861,7 +861,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-yannawa-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Yannawa", hu: "Wat Yannawa (Hajó-templom)", ro: "Wat Yannawa", en: "Wat Yannawa" },
-    coordinates: { lat: 13.7171, lng: 100.5137 },
+    coords: [100.5137, 13.7171],
     description: {
       de: "Dieser Tempel in Bangkok ist für sein Gebäude in Form einer chinesischen Dschunke bekannt. Er wurde von König Rama III. erbaut.",
       hu: "Ez a bangkoki templom egy kínai dzsunka hajót formázó épületéről ismert. III. Ráma király építtette.",
@@ -880,7 +880,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-baandam-museum-landmarks-v2",
     type: "museum",
     name: { de: "Baandam-Museum (Schwarzes Haus)", hu: "Baandam Múzeum (Fekete Ház)", ro: "Muzeul Baandam", en: "Baandam Museum (Black House)" },
-    coordinates: { lat: 19.992, lng: 99.8605 },
+    coords: [99.8605, 19.992],
     description: {
       de: "Ein Komplex aus dunklen Holzgebäuden in Chiang Rai, geschaffen vom Künstler Thawan Duchanee. Er zeigt eine Sammlung bizarrer Kunstobjekte.",
       hu: "Sötét faépületekből álló komplexum Chiang Rai-ban, Thawan Duchanee művész alkotása. Különös műtárgyakat mutat be.",
@@ -899,7 +899,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-hall-of-opium-landmarks-v2",
     type: "museum",
     name: { de: "Opiummuseum (Hall of Opium)", hu: "Ópium Múzeum", ro: "Sala Opiumului", en: "Hall of Opium" },
-    coordinates: { lat: 20.3516, lng: 100.0811 },
+    coords: [100.0811, 20.3516],
     description: {
       de: "Dieses Museum im Goldenen Dreieck dokumentiert die Geschichte des Opiumhandels. Es bietet multimediale Einblicke in den Drogenanbau.",
       hu: "Az Aranyháromszögben található múzeum az ópiumkereskedelem történetét mutatja be multimédiás eszközökkel.",
@@ -918,7 +918,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-phra-mahathat-nakhon-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Phra Mahathat Woramahawihan", hu: "Wat Phra Mahathat (Nakhon Si Thammarat)", ro: "Wat Phra Mahathat", en: "Wat Phra Mahathat" },
-    coordinates: { lat: 8.4109, lng: 99.9664 },
+    coords: [99.9664, 8.4109],
     description: {
       de: "Der wichtigste Tempel Südthailands in Nakhon Si Thammarat. Sein großer Chedi ist mit einer Spitze aus purem Gold gekrönt.",
       hu: "Dél-Thaiföld legfontosabb temploma Nakhon Si Thammaratban. Hatalmas cedijét tiszta arany csúcs díszíti.",
@@ -937,7 +937,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-bangkok-art-culture-centre-landmarks-v2",
     type: "museum",
     name: { de: "Bangkoker Kunst- und Kulturzentrum", hu: "Bangkoki Művészeti és Kulturális Központ", ro: "Centrul de Artă și Cultură din Bangkok", en: "Bangkok Art and Culture Centre (BACC)" },
-    coordinates: { lat: 13.7468, lng: 100.5303 },
+    coords: [100.5303, 13.7468],
     description: {
       de: "Ein zeitgenössisches Kunstzentrum im Herzen von Bangkok. Die spiralförmige Architektur erinnert an das Guggenheim Museum.",
       hu: "Kortárs művészeti központ Bangkok szívében. Spirális belső kialakítása a Guggenheim Múzeumra emlékeztet.",
@@ -956,7 +956,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-niwet-thammaprawat-landmarks-v2",
     type: "church",
     name: { de: "Wat Niwet Thammaprawat", hu: "Wat Niwet Thammaprawat", ro: "Wat Niwet Thammaprawat", en: "Wat Niwet Thammaprawat" },
-    coordinates: { lat: 14.2291, lng: 100.5758 },
+    coords: [100.5758, 14.2291],
     description: {
       de: "Dieser ungewöhnliche Tempel in Ayutthaya sieht von außen wie eine gotische Kathedrale aus. Er wurde von König Rama V. erbaut.",
       hu: "Ez a szokatlan Ayutthaya-i templom kívülről gótikus katedrálisnak tűnik. V. Ráma király építtette.",
@@ -975,7 +975,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-huay-pla-kang-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Huay Pla Kang", hu: "Wat Huay Pla Kang", ro: "Wat Huay Pla Kang", en: "Wat Huay Pla Kang" },
-    coordinates: { lat: 19.9507, lng: 99.8085 },
+    coords: [99.8085, 19.9507],
     description: {
       de: "Dieser Tempel in Chiang Rai ist für seine massive weiße Statue der Göttin der Barmherzigkeit bekannt. Er bietet eine weite Aussicht.",
       hu: "Ez a templom Chiang Rai-ban az Irgalmasság Istennőjének hatalmas fehér szobráról ismert. Széles kilátást nyújt a környékre.",
@@ -994,7 +994,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-bowonniwet-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Bowonniwet Vihara", hu: "Wat Bowonniwet", ro: "Wat Bowonniwet", en: "Wat Bowonniwet" },
-    coordinates: { lat: 13.7602, lng: 100.4996 },
+    coords: [100.4996, 13.7602],
     description: {
       de: "Ein bedeutender königlicher Tempel in Bangkok, der eng mit der Chakri-Dynastie verbunden ist. Viele Könige dienten hier als Mönche.",
       hu: "Jelentős királyi templom Bangkokban, amely szorosan kötődik a Csakri-dinasztiához. Számos király szolgált itt szerzetesként.",
@@ -1013,7 +1013,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-suan-pakkad-palace-landmarks-v2",
     type: "museum",
     name: { de: "Suan-Pakkad-Palast", hu: "Suan Pakkad palota", ro: "Palatul Suan Pakkad", en: "Suan Pakkad Palace" },
-    coordinates: { lat: 13.7562, lng: 100.5372 },
+    coords: [100.5372, 13.7562],
     description: {
       de: "Dieses Museum in Bangkok besteht aus acht traditionellen thailändischen Häusern. Es zeigt eine Sammlung von Antiquitäten und Kunst.",
       hu: "Ez a bangkoki múzeum nyolc hagyományos thaiföldi házból áll. Régiségeket és műtárgyakat mutat be egy trópusi kertben.",
@@ -1032,7 +1032,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-museum-siam-landmarks-v2",
     type: "museum",
     name: { de: "Museum Siam", hu: "Sziám Múzeum", ro: "Muzeul Siam", en: "Museum Siam" },
-    coordinates: { lat: 13.7441, lng: 100.4941 },
+    coords: [100.4941, 13.7441],
     description: {
       de: "Ein modernes Entdeckungsmuseum in einem neoklassizistischen Gebäude. Es befasst sich mit der Identität und Geschichte des thailändischen Volkes.",
       hu: "Modern felfedező múzeum egy neoklasszicista épületben. A thaiföldi nép identitásával és történelmével foglalkozik.",
@@ -1051,7 +1051,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-rajabhakti-park-landmarks-v2",
     type: "monument",
     name: { de: "Rajabhakti-Park", hu: "Rajabhakti Park", ro: "Parcul Rajabhakti", en: "Rajabhakti Park" },
-    coordinates: { lat: 12.5028, lng: 99.9675 },
+    coords: [99.9675, 12.5028],
     description: {
       de: "Ein historischer Park in Hua Hin, der sieben bedeutende thailändische Könige ehrt. Er zeigt massive Bronzestatuen auf einem weiten Platz.",
       hu: "Történelmi park Hua Hinben, amely hét jelentős thaiföldi király előtt tiszteleg. Hatalmas bronzszobrok állnak a téren.",
@@ -1070,7 +1070,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-death-railway-museum-landmarks-v2",
     type: "museum",
     name: { de: "Thailand-Burma-Eisenbahnmuseum", hu: "Thaiföld-Burma vasúti múzeum", ro: "Muzeul Căii Ferate Thailanda-Birmania", en: "Thailand-Burma Railway Centre" },
-    coordinates: { lat: 14.0321, lng: 99.5255 },
+    coords: [99.5255, 14.0321],
     description: {
       de: "Ein Museum in Kanchanaburi, das die Geschichte der Todeseisenbahn dokumentiert. Es liegt direkt neben dem alliierten Kriegsfriedhof.",
       hu: "Kanchanaburi-i múzeum, amely a Halálvasút történetét dokumentálja. Közvetlenül a szövetséges haditemető mellett található.",
@@ -1089,7 +1089,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-kamphaeng-phet-historical-park-landmarks-v2",
     type: "ruins",
     name: { de: "Geschichtspark Kamphaeng Phet", hu: "Kamphaeng Phet történelmi emlékpark", ro: "Parcul Istoric Kamphaeng Phet", en: "Kamphaeng Phet Historical Park" },
-    coordinates: { lat: 16.4883, lng: 99.5167 },
+    coords: [99.5167, 16.4883],
     description: {
       de: "Dieser archäologische Park umfasst die Ruinen einer wichtigen Festungsstadt. Er gehört zum UNESCO-Weltkulturerbe von Sukhothai.",
       hu: "Ez a régészeti park egy fontos erődváros romjait tartalmazza. A Sukhothai UNESCO Világörökségi helyszín része.",
@@ -1108,7 +1108,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-sukhothai-historical-park-landmarks-v2",
     type: "ruins",
     name: { de: "Geschichtspark Sukhothai", hu: "Szukhothaj történelmi emlékpark", ro: "Parcul Istoric Sukhothai", en: "Sukhothai Historical Park" },
-    coordinates: { lat: 17.0175, lng: 99.7033 },
+    coords: [99.7033, 17.0175],
     description: {
       de: "Die Ruinen der ersten Hauptstadt Siams aus dem 13. Jahrhundert. Der Park zeigt die Blütezeit der thailändischen Kunst und Architektur.",
       hu: "Sziám első, 13. századi fővárosának romjai. A park a thaiföldi művészet és építészet fénykorát mutatja be.",
@@ -1127,7 +1127,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-si-satchanalai-historical-park-landmarks-v2",
     type: "ruins",
     name: { de: "Geschichtspark Si Satchanalai", hu: "Si Satchanalai történelmi emlékpark", ro: "Parcul Istoric Si Satchanalai", en: "Si Satchanalai Historical Park" },
-    coordinates: { lat: 17.43, lng: 99.7864 },
+    coords: [99.7864, 17.43],
     description: {
       de: "Diese Ruinenstadt war das spirituelle Zentrum des Sukhothai-Reiches. Sie liegt malerisch an den Ufern des Yom-Flusses.",
       hu: "Ez a romváros a Szukhothaj királyság spirituális központja volt. Festői helyen, a Yom folyó partján fekszik.",
@@ -1146,7 +1146,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-phra-prang-sam-yod-landmarks-v2",
     type: "ruins",
     name: { de: "Phra Prang Sam Yod", hu: "Phra Prang Sam Yod", ro: "Phra Prang Sam Yod", en: "Phra Prang Sam Yod" },
-    coordinates: { lat: 14.8033, lng: 100.6142 },
+    coords: [100.6142, 14.8033],
     description: {
       de: "Das Wahrzeichen von Lopburi, bestehend aus drei massiven Khmer-Türmen. Es ist weltberühmt für die Hunderten von Makaken, die dort leben.",
       hu: "Lopburi jelképe, amely három hatalmas khmer toronyból áll. Világhírű a területén élő több száz makákóról.",
@@ -1165,7 +1165,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-jim-thompson-house-landmarks-v2",
     type: "museum",
     name: { de: "Jim-Thompson-Haus", hu: "Jim Thompson ház", ro: "Casa Jim Thompson", en: "Jim Thompson House" },
-    coordinates: { lat: 13.7492, lng: 100.5284 },
+    coords: [100.5284, 13.7492],
     description: {
       de: "Ein Komplex aus sechs traditionellen thailändischen Häusern in Bangkok. Er gehörte dem Amerikaner, der die thailändische Seidenindustrie belebte.",
       hu: "Hat hagyományos thaiföldi házból álló komplexum Bangkokban. Az amerikai üzletemberé volt, aki újjáélesztette a thai selyemipart.",
@@ -1184,7 +1184,7 @@ export const poiExtraThailandLandmarksV2: POI[] = [
     id: "thailand-wat-phra-that-doi-kong-mu-landmarks-v2",
     type: "landmark",
     name: { de: "Wat Phra That Doi Kong Mu", hu: "Wat Phra That Doi Kong Mu", ro: "Wat Phra That Doi Kong Mu", en: "Wat Phra That Doi Kong Mu" },
-    coordinates: { lat: 19.2995, lng: 97.9601 },
+    coords: [97.9601, 19.2995],
     description: {
       de: "Dieser Tempel liegt auf einem Hügel über Mae Hong Son. Er ist bekannt für seine zwei weißen Chedis im Shan-Stil.",
       hu: "Ez a templom egy dombtetőn fekszik Mae Hong Son felett. Két fehér, Shan stílusú cedijéről ismert.",

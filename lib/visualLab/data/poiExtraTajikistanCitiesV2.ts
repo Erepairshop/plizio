@@ -1480,7 +1480,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-istiqlol-cities-v2",
     type: "city",
     name: { de: "Istiqlol", hu: "Isztiklol", ro: "Istiqlol", en: "Istiqlol" },
-    coordinates: { lat: 40.583, lng: 69.75 },
+    coords: [69.75, 40.583],
     description: {
       de: "Istiqlol ist eine Industriestadt im Norden Tadschikistans, die früher als Taboshar bekannt war.",
       hu: "Isztiklol egy iparváros Tádzsikisztán északi részén, amely korábban Tabosar néven volt ismert.",
@@ -1499,7 +1499,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-somoniyon-cities-v2",
     type: "town",
     name: { de: "Somoniyon", hu: "Szomonijon", ro: "Somoniyon", en: "Somoniyon" },
-    coordinates: { lat: 38.441, lng: 68.706 },
+    coords: [68.706, 38.441],
     description: {
       de: "Somoniyon ist ein wichtiges Verwaltungszentrum in der Nähe der Hauptstadt Dushanbe.",
       hu: "Szomonijon egy fontos közigazgatási központ a főváros, Dusanbe közelében.",
@@ -1518,7 +1518,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-panj-cities-v2",
     type: "town",
     name: { de: "Panj", hu: "Pandzs", ro: "Panj", en: "Panj" },
-    coordinates: { lat: 37.233, lng: 69.1 },
+    coords: [69.1, 37.233],
     description: {
       de: "Panj ist eine Grenzstadt im Süden Tadschikistans, die direkt am Fluss Pjandsch liegt.",
       hu: "Pandzs egy határmenti város Tádzsikisztán déli részén, közvetlenül a Pandzs-folyó partján.",
@@ -1537,7 +1537,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-dusti-cities-v2",
     type: "town",
     name: { de: "Dusti", hu: "Duszti", ro: "Dusti", en: "Dusti" },
-    coordinates: { lat: 37.348, lng: 68.664 },
+    coords: [68.664, 37.348],
     description: {
       de: "Dusti ist das Verwaltungszentrum des Distrikts Jaihun in der Region Khatlon.",
       hu: "Duszti a Hatlon régióban található Jaihun kerület közigazgatási központja.",
@@ -1556,7 +1556,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-abdurahmoni-jomi-cities-v2",
     type: "town",
     name: { de: "Abdurahmoni Jomi", hu: "Abdurahmoni Dzsomi", ro: "Abdurahmoni Jomi", en: "Abdurahmoni Jomi" },
-    coordinates: { lat: 37.946, lng: 68.809 },
+    coords: [68.809, 37.946],
     description: {
       de: "Diese Stadt ist nach dem berühmten persischen Dichter Jami benannt und liegt im Vakhsh-Tal.",
       hu: "Ezt a várost a híres perzsa költőről, Dzsámiról nevezték el, és a Vahs-völgyben fekszik.",
@@ -1575,7 +1575,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-lakhsh-cities-v2",
     type: "town",
     name: { de: "Lakhsh", hu: "Lahsh", ro: "Lakhsh", en: "Lakhsh" },
-    coordinates: { lat: 39.231, lng: 71.385 },
+    coords: [71.385, 39.231],
     description: {
       de: "Lakhsh, ehemals Jirgatol, ist eine Gebirgsstadt im Norden Tadschikistans an der kirgisischen Grenze.",
       hu: "Lahsh, korábban Dzsirgatol, egy hegyi város Tádzsikisztán északi részén, a kirgiz határnál.",
@@ -1594,7 +1594,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-qalai-khumb-cities-v2",
     type: "town",
     name: { de: "Qal'ai Khumb", hu: "Kalai Humb", ro: "Qal'ai Khumb", en: "Qal'ai Khumb" },
-    coordinates: { lat: 38.454, lng: 70.787 },
+    coords: [70.787, 38.454],
     description: {
       de: "Qal'ai Khumb ist ein malerischer Ort am Pamir Highway und ein Tor zur autonomen Region Berg-Badachschan.",
       hu: "Kalai Humb egy festői település a Pamír-úton, és a Hegyi-Badahsán autonóm terület kapuja.",
@@ -1613,7 +1613,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-rushon-cities-v2",
     type: "town",
     name: { de: "Rushon", hu: "Ruson", ro: "Rushon", en: "Rushon" },
-    coordinates: { lat: 37.943, lng: 71.554 },
+    coords: [71.554, 37.943],
     description: {
       de: "Rushon ist das Zentrum des gleichnamigen Distrikts im Pamir-Gebirge direkt am Fluss Pjandsch.",
       hu: "Ruson az azonos nevű kerület központja a Pamír-hegységben, közvetlenül a Pandzs-folyó partján.",
@@ -1632,7 +1632,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-vanj-cities-v2",
     type: "town",
     name: { de: "Vanj", hu: "Vandzs", ro: "Vanj", en: "Vanj" },
-    coordinates: { lat: 38.384, lng: 71.45 },
+    coords: [71.45, 38.384],
     description: {
       de: "Vanj ist eine Bergsiedlung in einem schmalen Tal, das für seine eigene Sprache und Traditionen bekannt ist.",
       hu: "Vandzs egy hegyi település egy szűk völgyben, amely saját nyelvéről és hagyományairól ismert.",
@@ -1651,7 +1651,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-muminobod-cities-v2",
     type: "town",
     name: { de: "Muminobod", hu: "Muminobod", ro: "Muminobod", en: "Muminobod" },
-    coordinates: { lat: 38.113, lng: 70.033 },
+    coords: [70.033, 38.113],
     description: {
       de: "Muminobod ist bekannt für seine wunderschöne hügelige Landschaft und das große Muminobod-Reservoir.",
       hu: "Muminobod híres gyönyörű dombos tájáról és a nagy Muminobodi-víztározóról.",
@@ -1670,7 +1670,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-khovaling-cities-v2",
     type: "village",
     name: { de: "Khovaling", hu: "Hovaling", ro: "Khovaling", en: "Khovaling" },
-    coordinates: { lat: 38.331, lng: 70.211 },
+    coords: [70.211, 38.331],
     description: {
       de: "Khovaling ist ein historisches Dorf in den Bergen, das für seine archäologischen Stätten bekannt ist.",
       hu: "Hovaling egy történelmi hegyi falu, amely régészeti lelőhelyeiről ismert.",
@@ -1689,7 +1689,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-baljuvon-cities-v2",
     type: "village",
     name: { de: "Baljuvon", hu: "Baldzsuvon", ro: "Baljuvon", en: "Baljuvon" },
-    coordinates: { lat: 38.312, lng: 69.663 },
+    coords: [69.663, 38.312],
     description: {
       de: "Baljuvon ist ein ländliches Zentrum in einer Region, die für ökologischen Tourismus und weite Weiden bekannt ist.",
       hu: "Baldzsuvon egy vidéki központ egy olyan régióban, amely ökoturizmusáról és kiterjedt legelőiről híres.",
@@ -1708,7 +1708,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-shahriston-cities-v2",
     type: "town",
     name: { de: "Shahriston", hu: "Sahriszton", ro: "Shahriston", en: "Shahriston" },
-    coordinates: { lat: 39.752, lng: 68.814 },
+    coords: [68.814, 39.752],
     description: {
       de: "Shahriston liegt an einer wichtigen Gebirgsstraße und ist für seine reiche mittelalterliche Geschichte bekannt.",
       hu: "Sahriszton egy fontos hegyi út mentén fekszik, és gazdag középkori történelméről ismert.",
@@ -1727,7 +1727,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-devashtich-cities-v2",
     type: "town",
     name: { de: "Devashtich", hu: "Devastic", ro: "Devashtich", en: "Devashtich" },
-    coordinates: { lat: 39.566, lng: 69.043 },
+    coords: [69.043, 39.566],
     description: {
       de: "Die Stadt Devashtich, früher als Ghonchi bekannt, ist ein landwirtschaftliches Zentrum im Norden.",
       hu: "Devastic városa, korábban Goncsi néven ismert, egy mezőgazdasági központ északon.",
@@ -1746,7 +1746,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-asht-cities-v2",
     type: "town",
     name: { de: "Asht", hu: "Ast", ro: "Asht", en: "Asht" },
-    coordinates: { lat: 40.665, lng: 70.521 },
+    coords: [70.521, 40.665],
     description: {
       de: "Asht ist eine Stadt im Fergana-Tal, die für ihre Salzproduktion und weiten Landschaften bekannt ist.",
       hu: "Ast egy város a Fergana-völgyben, amely sótermeléséről és tágas tájairól ismert.",
@@ -1765,7 +1765,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-mastchoh-cities-v2",
     type: "town",
     name: { de: "Mastchoh", hu: "Masztcsoh", ro: "Mastchoh", en: "Mastchoh" },
-    coordinates: { lat: 40.733, lng: 69.373 },
+    coords: [69.373, 40.733],
     description: {
       de: "Mastchoh ist ein wichtiges Baumwollzentrum im Norden, dessen Zentrum die Siedlung Dilshod ist.",
       hu: "Masztcsoh egy fontos gyapotközpont északon, amelynek központja Dilsod település.",
@@ -1784,7 +1784,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-shahrinav-cities-v2",
     type: "town",
     name: { de: "Shahrinav", hu: "Sahrinav", ro: "Shahrinav", en: "Shahrinav" },
-    coordinates: { lat: 38.566, lng: 68.324 },
+    coords: [68.324, 38.566],
     description: {
       de: "Shahrinav liegt westlich von Dushanbe und ist ein blühendes Zentrum für Landwirtschaft und Weinbau.",
       hu: "Sahrinav Dusanbétól nyugatra fekszik, és a mezőgazdaság és szőlészet virágzó központja.",
@@ -1803,7 +1803,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-faizobod-cities-v2",
     type: "town",
     name: { de: "Faizobod", hu: "Faizobod", ro: "Faizobod", en: "Faizobod" },
-    coordinates: { lat: 38.553, lng: 69.317 },
+    coords: [69.317, 38.553],
     description: {
       de: "Faizobod liegt in einem malerischen Tal östlich von Dushanbe und ist für sein mildes Klima bekannt.",
       hu: "Faizobod egy festői völgyben fekszik Dusanbétól keletre, és enyhe éghajlatáról ismert.",
@@ -1822,7 +1822,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-obigarm-cities-v2",
     type: "town",
     name: { de: "Obigarm", hu: "Obigarm", ro: "Obigarm", en: "Obigarm" },
-    coordinates: { lat: 38.711, lng: 69.713 },
+    coords: [69.713, 38.711],
     description: {
       de: "Obigarm ist eine Kurstadt, die für ihre natürlichen heißen Quellen und Heilschlämme bekannt ist.",
       hu: "Obigarm egy üdülőváros, amely természetes hőforrásairól és gyógyiszapjáról híres.",
@@ -1841,7 +1841,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-navobod-cities-v2",
     type: "town",
     name: { de: "Navobod", hu: "Navobod", ro: "Navobod", en: "Navobod" },
-    coordinates: { lat: 38.932, lng: 70.324 },
+    coords: [70.324, 38.932],
     description: {
       de: "Navobod ist eine Kleinstadt im zentralen Tadschikistan, die als regionales Verwaltungszentrum dient.",
       hu: "Navobod egy kisváros Közép-Tádzsikisztánban, amely regionális közigazgatási központként szolgál.",
@@ -1860,7 +1860,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-tavildara-cities-v2",
     type: "village",
     name: { de: "Tavildara", hu: "Tavildara", ro: "Tavildara", en: "Tavildara" },
-    coordinates: { lat: 38.694, lng: 70.485 },
+    coords: [70.485, 38.694],
     description: {
       de: "Tavildara ist ein abgelegenes Bergdorf im Zentrum Tadschikistans, umgeben von hohen Gipfeln.",
       hu: "Tavildara egy távoli hegyi falu Közép-Tádzsikisztánban, magas hegycsúcsokkal körülvéve.",
@@ -1879,7 +1879,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-roshtqala-cities-v2",
     type: "village",
     name: { de: "Roshtqala", hu: "Rostkala", ro: "Roshtqala", en: "Roshtqala" },
-    coordinates: { lat: 37.436, lng: 71.841 },
+    coords: [71.841, 37.436],
     description: {
       de: "Roshtqala ist eine Siedlung im Shakhdara-Tal des Pamir-Gebirges, bekannt für ihre dramatische Landschaft.",
       hu: "Rostkala egy település a Pamír-hegység Sahdara-völgyében, amely drámai tájairól ismert.",
@@ -1898,7 +1898,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-spitamen-cities-v2",
     type: "town",
     name: { de: "Spitamen", hu: "Spitamen", ro: "Spitamen", en: "Spitamen" },
-    coordinates: { lat: 40.133, lng: 69.348 },
+    coords: [69.348, 40.133],
     description: {
       de: "Die Stadt Spitamen, früher als Nau bekannt, ist ein wichtiges Handels- und Transportzentrum im Norden.",
       hu: "Spitamen városa, korábban Nau néven ismert, fontos kereskedelmi és közlekedési központ északon.",
@@ -1917,7 +1917,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-jabbor-rasulov-cities-v2",
     type: "town",
     name: { de: "Jabbor Rasulov", hu: "Dzsabbor Raszulov", ro: "Jabbor Rasulov", en: "Jabbor Rasulov" },
-    coordinates: { lat: 40.125, lng: 69.497 },
+    coords: [69.497, 40.125],
     description: {
       de: "Jabbor Rasulov ist ein industrielles und landwirtschaftliches Zentrum nahe der usbekischen Grenze.",
       hu: "Dzsabbor Raszulov egy ipari és mezőgazdasági központ az üzbég határ közelében.",
@@ -1936,7 +1936,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-khuroson-cities-v2",
     type: "town",
     name: { de: "Khuroson", hu: "Huroszon", ro: "Khuroson", en: "Khuroson" },
-    coordinates: { lat: 37.941, lng: 68.252 },
+    coords: [68.252, 37.941],
     description: {
       de: "Khuroson ist eine Stadt in der Region Khatlon, die als administratives Zentrum des gleichnamigen Distrikts dient.",
       hu: "Huroszon egy város a Hatlon régióban, amely az azonos nevű kerület közigazgatási központja.",
@@ -1955,7 +1955,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-temurmalik-cities-v2",
     type: "town",
     name: { de: "Temurmalik", hu: "Temurmalik", ro: "Temurmalik", en: "Temurmalik" },
-    coordinates: { lat: 38.358, lng: 69.574 },
+    coords: [69.574, 38.358],
     description: {
       de: "Die Stadt Temurmalik liegt im Flusstal des Surkhob und ist nach einem tadschikischen Nationalhelden benannt.",
       hu: "Temurmalik városa a Szurhob-folyó völgyében fekszik, és egy tádzsik nemzeti hősről nevezték el.",
@@ -1974,7 +1974,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-varzob-cities-v2",
     type: "village",
     name: { de: "Varzob", hu: "Varzob", ro: "Varzob", en: "Varzob" },
-    coordinates: { lat: 38.775, lng: 68.824 },
+    coords: [68.824, 38.775],
     description: {
       de: "Varzob ist ein beliebtes Erholungsgebiet nördlich von Dushanbe, bekannt für seine Flüsse und Schluchten.",
       hu: "Varzob egy népszerű üdülőövezet Dusanbétól északra, amely folyóiról és szurdokairól ismert.",
@@ -1993,7 +1993,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-chorukh-dayron-cities-v2",
     type: "town",
     name: { de: "Chorukh-Dayron", hu: "Csoruh-Dajron", ro: "Chorukh-Dayron", en: "Chorukh-Dayron" },
-    coordinates: { lat: 40.354, lng: 69.831 },
+    coords: [69.831, 40.354],
     description: {
       de: "Chorukh-Dayron ist eine Bergbaustadt im Norden, die für ihre Produktion von Metallerzen bekannt war.",
       hu: "Csoruh-Dajron egy bányászváros északon, amely fémércek termeléséről volt ismert.",
@@ -2012,7 +2012,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-mehnatobod-cities-v2",
     type: "town",
     name: { de: "Mehnatobod", hu: "Mehnatobod", ro: "Mehnatobod", en: "Mehnatobod" },
-    coordinates: { lat: 40.211, lng: 69.314 },
+    coords: [69.314, 40.211],
     description: {
       de: "Mehnatobod ist eine landwirtschaftliche Stadt im Norden Tadschikistans, nahe der Grenze zu Usbekistan.",
       hu: "Mehnatobod egy mezőgazdasági város Tádzsikisztán északi részén, az üzbég határ közelében.",
@@ -2031,7 +2031,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     id: "tajikistan-kansay-cities-v2",
     type: "town",
     name: { de: "Kansay", hu: "Kanszaj", ro: "Kansay", en: "Kansay" },
-    coordinates: { lat: 40.533, lng: 69.694 },
+    coords: [69.694, 40.533],
     description: {
       de: "Kansay ist eine Bergbausiedlung im Norden des Landes, die für ihre reichen Blei- und Zinkvorkommen bekannt ist.",
       hu: "Kanszaj egy bányásztelepülés az ország északi részén, amely gazdag ólom- és cinklelőhelyeiről ismert.",

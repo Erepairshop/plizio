@@ -546,7 +546,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-tonle-sap-basin-relief-v2",
     type: "valley",
     name: { de: "Tonle-Sap-Becken", hu: "Tonle Sap-medence", ro: "Bazinul Tonle Sap", en: "Tonle Sap Basin" },
-    coordinates: { lat: 12.6, lng: 104.3 },
+    coords: [104.3, 12.6],
     description: {
       de: "Das zentrale Tiefland Kambodschas ist eine flache Schwemmlandebene. Sie wird durch die jährlichen Überschwemmungen des Mekong geprägt.",
       hu: "Kambodzsa központi alföldje egy lapos hordalékos síkság. A területet a Mekong folyó éves áradásai és üledéke formálta.",
@@ -577,7 +577,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-phnom-tbeng-relief-v2",
     type: "mountain",
     name: { de: "Phnom-Tbeng-Plateau", hu: "Phnom Tbeng-fennsík", ro: "Podișul Phnom Tbeng", en: "Phnom Tbeng Plateau" },
-    coordinates: { lat: 13.82, lng: 104.92 },
+    coords: [104.92, 13.82],
     description: {
       de: "Ein markantes Sandsteinplateau in der Provinz Preah Vihear. Es erhebt sich steil aus der umgebenden Ebene auf rund 400 Meter.",
       hu: "Preah Vihear tartomány jellegzetes homokkő fennsíkja. Meredeken emelkedik ki a síkságból körülbelül 400 méteres magasságba.",
@@ -608,7 +608,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-phnom-tumpor-relief-v2",
     type: "peak",
     name: { de: "Phnom Tumpor", hu: "Phnom Tumpor", ro: "Phnom Tumpor", en: "Phnom Tumpor" },
-    coordinates: { lat: 12.37, lng: 103.04 },
+    coords: [103.04, 12.37],
     description: {
       de: "Der zweithöchste Gipfel Kambodschas im Kardamom-Gebirge. Er erreicht eine Höhe von 1.551 Metern und ist sehr unwegsam.",
       hu: "Kambodzsa második legmagasabb csúcsa a Krâvanh-hegységben. 1551 méteres magasságával nehezen megközelíthető vidék.",
@@ -639,7 +639,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-khnong-phsar-relief-v2",
     type: "peak",
     name: { de: "Khnong-Phsar-Hochland", hu: "Khnong Phsar-felföld", ro: "Podișul Khnong Phsar", en: "Khnong Phsar Highlands" },
-    coordinates: { lat: 12.02, lng: 103.58 },
+    coords: [103.58, 12.02],
     description: {
       de: "Ein spektakuläres Hochplateau an der Grenze dreier Provinzen. Es ist bekannt für seine weiten Graslandschaften in über 1.000 Metern Höhe.",
       hu: "Látványos fennsík három tartomány határán. Híres kiterjedt füves területeiről 1000 méter feletti magasságban.",
@@ -670,7 +670,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-phnom-chi-relief-v2",
     type: "mountain",
     name: { de: "Phnom Chi", hu: "Phnom Chi", ro: "Phnom Chi", en: "Phnom Chi" },
-    coordinates: { lat: 12.85, lng: 105.45 },
+    coords: [105.45, 12.85],
     description: {
       de: "Ein isolierter Berg im Prey-Lang-Wald. Er ragt als markanter Härtling aus der ansonsten flachen Ebene von Kampong Thom heraus.",
       hu: "Szigethegy a Prey Lang-erdőben. Jellegzetes tanúhegyként emelkedik ki Kampong Thom egyébként lapos síkságából.",
@@ -701,7 +701,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-phnom-nam-lyr-relief-v2",
     type: "peak",
     name: { de: "Phnom Nam Lyr", hu: "Phnom Nam Lyr", ro: "Phnom Nam Lyr", en: "Phnom Nam Lyr" },
-    coordinates: { lat: 12.44, lng: 107.56 },
+    coords: [107.56, 12.44],
     description: {
       de: "Ein gewaltiger Granitfels in der Provinz Mondulkiri. Dieser isolierte Berg ist ein markantes Merkmal des östlichen Hochlands.",
       hu: "Hatalmas gránitszikla Mondulkiri tartományban. Ez az elszigetelt hegy a keleti felföld jellegzetes eleme.",
@@ -732,7 +732,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-chhlong-plateau-relief-v2",
     type: "valley",
     name: { de: "Chhlong-Plateau", hu: "Chhlong-fennsík", ro: "Podișul Chhlong", en: "Chhlong Plateau" },
-    coordinates: { lat: 12.35, lng: 106.35 },
+    coords: [106.35, 12.35],
     description: {
       de: "Ein basaltisches Hochplateau im Osten Kambodschas. Es ist bekannt für seine fruchtbaren roten Böden und sanften Hügelketten.",
       hu: "Bazaltos fennsík Kelet-Kambodzsában. Termékeny vörös talajáról és szelíd dombvonulatairól ismert.",
@@ -763,7 +763,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-bassac-lowlands-relief-v2",
     type: "valley",
     name: { de: "Bassac-Tiefland", hu: "Bassac-alföld", ro: "Câmpiile Bassac", en: "Bassac River Lowlands" },
-    coordinates: { lat: 11.15, lng: 105.1 },
+    coords: [105.1, 11.15],
     description: {
       de: "Die südlichste Region Kambodschas, geprägt durch die Verzweigung von Mekong und Bassac. Es ist ein flaches Delta-Relief.",
       hu: "Kambodzsa legdélibb régiója, amelyet a Mekong és a Bassac kettéválása határoz meg. Lapos delta-domborzat.",
@@ -794,7 +794,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     id: "cambodia-phnom-yat-relief-v2",
     type: "mountain",
     name: { de: "Phnom Yat", hu: "Phnom Yat", ro: "Phnom Yat", en: "Phnom Yat" },
-    coordinates: { lat: 12.845, lng: 102.61 },
+    coords: [102.61, 12.845],
     description: {
       de: "Ein historisch bedeutender Hügel in Pailin. Er ist ein Überrest vulkanischer Aktivität und bekannt für seine Edelsteinvorkommen.",
       hu: "Történelmileg jelentős domb Pailinban. Vulkáni tevékenység maradványa, amely drágakőlelőhelyeiről ismert.",

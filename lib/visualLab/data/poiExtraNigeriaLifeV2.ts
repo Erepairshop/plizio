@@ -793,7 +793,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     id: "nigeria-oki-forest-life-v2",
     type: "forest",
     name: { de: "Oki Waldreservat", hu: "Oki Erdőrezervátum", ro: "Rezervația Forestieră Oki", en: "Oki Forest Reserve" },
-    coordinates: { lat: 7.4215, lng: 4.5833 },
+    coords: [4.5833, 7.4215],
     description: {
       de: "Das Oki Waldreservat erstreckt sich in der Region Osun und schützt ein bedeutendes Stück des ursprünglichen tropischen Regenwaldes. Es dient der Erhaltung lokaler Baumarten und bietet einen Rückzugsort für verschiedene bedrohte Vogelarten.",
       hu: "Az Oszun régióban található Oki Erdőrezervátum az őshonos trópusi esőerdő egy jelentős részét védi. A terület a helyi fafajok megőrzését szolgálja, és számos veszélyeztetett madárfajnak nyújt élőhelyet.",

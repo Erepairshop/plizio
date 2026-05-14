@@ -5,7 +5,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-rock-islands-life-v2",
     type: "park",
     name: { de: "Rock Islands Südliche Lagune", hu: "Szikla-szigetek déli lagúnája", ro: "Laguna sudică a Insulelor Rock", en: "Rock Islands Southern Lagoon" },
-    coordinates: { lat: 7.148, lng: 134.301 },
+    coords: [134.301, 7.148],
     description: {
       de: "Dieses UNESCO-Erbe umfasst hunderte Kalksteininseln. Die Lagune beherbergt eine außergewöhnlich hohe marine Artenvielfalt.",
       hu: "Ez az UNESCO világörökség több száz mészkőszigetet foglal magában. A lagúna kivételesen gazdag tengeri élővilágnak ad otthont.",
@@ -24,7 +24,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-jellyfish-lake-life-v2",
     type: "lake",
     name: { de: "Quallensee", hu: "Medúza-tó", ro: "Lacul Meduzelor", en: "Jellyfish Lake" },
-    coordinates: { lat: 7.161, lng: 134.376 },
+    coords: [134.376, 7.161],
     description: {
       de: "Ein isolierter mariner See auf der Insel Eil Malk. Er ist berühmt für Millionen von goldenen Quallen, die täglich im Wasser wandern.",
       hu: "Egy izolált tengeri tó Eil Malk szigetén. Világhírű az arany medúzák millióiról, amelyek naponta vándorolnak a vízben.",
@@ -43,7 +43,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-lake-ngardok-life-v2",
     type: "wildlife",
     name: { de: "Ngardok-See Naturschutzgebiet", hu: "Ngardok-tó Természetvédelmi Terület", ro: "Rezervația Naturală Lacul Ngardok", en: "Lake Ngardok Nature Reserve" },
-    coordinates: { lat: 7.585, lng: 134.613 },
+    coords: [134.613, 7.585],
     description: {
       de: "Der größte Süßwassersee in Mikronesien liegt auf Babeldaob. Er ist ein wichtiges Schutzgebiet für Leistenkrokodile und Vögel.",
       hu: "Mikronézia legnagyobb édesvízi tava Babeldaob szigetén található. Fontos védett terület a bordás krokodilok és madarak számára.",
@@ -62,7 +62,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ngardmau-falls-life-v2",
     type: "wildlife",
     name: { de: "Ngardmau-Wasserfall", hu: "Ngardmau-vízesés", ro: "Cascada Ngardmau", en: "Ngardmau Waterfall" },
-    coordinates: { lat: 7.597, lng: 134.562 },
+    coords: [134.562, 7.597],
     description: {
       de: "Der höchste Wasserfall Palaus stürzt vom Mount Ngerchelchuus herab. Das umliegende Gebiet ist reich an endemischen Pflanzenarten.",
       hu: "Palau legmagasabb vízesése a Ngerchelchuus-hegyről zúdul le. A környező terület gazdag endemikus növényfajokban.",
@@ -81,7 +81,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-kayangel-atoll-life-v2",
     type: "wildlife",
     name: { de: "Kayangel-Atoll", hu: "Kayangel-atoll", ro: "Atolul Kayangel", en: "Kayangel Atoll" },
-    coordinates: { lat: 8.083, lng: 134.716 },
+    coords: [134.716, 8.083],
     description: {
       de: "Das nördlichste Atoll Palaus ist für seine unberührten Korallenriffe bekannt. Es ist ein bedeutender Nistplatz für Meeresschildkröten.",
       hu: "Palau legészakibb atollja érintetlen korallzátonyairól ismert. Jelentős fészkelőhely a tengeri teknősök számára.",
@@ -100,7 +100,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-blue-corner-life-v2",
     type: "wildlife",
     name: { de: "Blue Corner", hu: "Kék sarok", ro: "Blue Corner", en: "Blue Corner" },
-    coordinates: { lat: 7.135, lng: 134.212 },
+    coords: [134.212, 7.135],
     description: {
       de: "Eines der berühmtesten Tauchgebiete der Welt mit enormer Fischdichte. Starke Strömungen bringen nährstoffreiches Wasser für Haie.",
       hu: "A világ egyik leghíresebb merülőhelye hatalmas halcsoportokkal. Az erős áramlatok tápanyagot és cápákat hoznak ide.",
@@ -119,7 +119,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-helen-reef-life-v2",
     type: "wildlife",
     name: { de: "Helen-Riff Schutzgebiet", hu: "Helen-zátony Természetvédelmi Terület", ro: "Aria Protejată Reciful Helen", en: "Helen Reef Marine Protected Area" },
-    coordinates: { lat: 2.983, lng: 131.783 },
+    coords: [131.783, 2.983],
     description: {
       de: "Ein abgelegenes Atoll im äußersten Süden Palaus. Es beherbergt eine der höchsten Konzentrationen an Meeresschildkröten in der Region.",
       hu: "Egy távoli atoll Palau legdélebbi részén. A régió egyik legnagyobb tengeri teknős populációjának ad otthont.",
@@ -138,7 +138,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ngerukewid-islands-life-v2",
     type: "wildlife",
     name: { de: "Ngerukewid-Inseln (70 Islands)", hu: "Ngerukewid-szigetek (70 sziget)", ro: "Insulele Ngerukewid (70 de Insule)", en: "Ngerukewid Islands (70 Islands)" },
-    coordinates: { lat: 7.185, lng: 134.281 },
+    coords: [134.281, 7.185],
     description: {
       de: "Ein streng geschütztes Wildtierreservat innerhalb der Rock Islands. Das Betreten der Inseln ist zum Schutz der Fauna streng verboten.",
       hu: "Szigorúan védett vadvédelmi terület a Szikla-szigeteken belül. A szigetekre lépés tilos az élővilág védelme érdekében.",
@@ -157,7 +157,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-angaur-forest-life-v2",
     type: "forest",
     name: { de: "Angaur Waldreservat", hu: "Angaur-erdőrezervátum", ro: "Rezervația Forestieră Angaur", en: "Angaur Forest Reserve" },
-    coordinates: { lat: 6.911, lng: 134.132 },
+    coords: [134.132, 6.911],
     description: {
       de: "Die Insel Angaur besitzt dichte Wälder, in denen Makaken leben, die einst von den Deutschen eingeführt wurden.",
       hu: "Angaur szigete sűrű erdőkkel rendelkezik, ahol a németek által egykor betelepített makákók élnek.",
@@ -176,7 +176,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ngaremeduu-area-life-v2",
     type: "wildlife",
     name: { de: "Ngaremeduu-Schutzgebiet", hu: "Ngaremeduu Természetvédelmi Terület", ro: "Aria de Conservare Ngaremeduu", en: "Ngaremeduu Conservation Area" },
-    coordinates: { lat: 7.525, lng: 134.502 },
+    coords: [134.502, 7.525],
     description: {
       de: "Dieses Gebiet umfasst das größte Mündungsökosystem in Palau mit Mangrovenwäldern und Seegraswiesen.",
       hu: "Ez a terület Palau legnagyobb torkolati ökoszisztémáját foglalja magában mangroveerdőkkel és tengerifű-mezőkkel.",
@@ -195,7 +195,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ulong-island-life-v2",
     type: "wildlife",
     name: { de: "Ulong-Insel", hu: "Ulong-sziget", ro: "Insula Ulong", en: "Ulong Island" },
-    coordinates: { lat: 7.288, lng: 134.295 },
+    coords: [134.295, 7.288],
     description: {
       de: "Bekannt für seine Felsmalereien und die reiche Flora. Die Insel ist ein wichtiger Nistplatz für Vögel und Schildkröten.",
       hu: "Sziklarajzairól és gazdag flórájáról ismert. A sziget fontos fészkelőhely madarak és teknősök számára.",
@@ -214,7 +214,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ngermid-bay-life-v2",
     type: "wildlife",
     name: { de: "Ngermid-Bucht", hu: "Ngermid-öböl", ro: "Golful Ngermid", en: "Ngermid Bay" },
-    coordinates: { lat: 7.352, lng: 134.505 },
+    coords: [134.505, 7.352],
     description: {
       de: "Eine geschützte Bucht mit einer hohen Vielfalt an Korallen, die gegen höhere Wassertemperaturen resistent sind.",
       hu: "Védett öböl magas korall-diverzitással, amelyek ellenállóak a magasabb vízhőmérséklettel szemben.",
@@ -233,7 +233,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-ngerumekaol-life-v2",
     type: "wildlife",
     name: { de: "Ngerumekaol Laichkanal", hu: "Ngerumekaol-ívócsatorna", ro: "Canalul de depunere Ngerumekaol", en: "Ngerumekaol Spawning Channel" },
-    coordinates: { lat: 7.132, lng: 134.234 },
+    coords: [134.234, 7.132],
     description: {
       de: "Ein kritischer Lebensraum für Zackenbarsche während ihrer Laichzeit. Das Gebiet ist während dieser Zeit streng geschützt.",
       hu: "Kritikus élőhely a fűrészfogas sügérek számára az ívási időszakban. A terület ilyenkor szigorúan védett.",
@@ -252,7 +252,7 @@ export const palauLifeV2: POI[] = [
     id: "palau-carp-island-life-v2",
     type: "wildlife",
     name: { de: "Carp-Insel Reservat", hu: "Carp-szigeti rezervátum", ro: "Rezervația Insulei Carp", en: "Carp Island Reserve" },
-    coordinates: { lat: 7.098, lng: 134.288 },
+    coords: [134.288, 7.098],
     description: {
       de: "Eine sichelförmige Insel mit reichen Korallengärten und Mangroven. Sie dient als Zufluchtsort für viele Vogelarten.",
       hu: "Sarló alakú sziget gazdag korallkertekkel és mangroveerdőkkel. Számos madárfaj menedékhelyeként szolgál.",

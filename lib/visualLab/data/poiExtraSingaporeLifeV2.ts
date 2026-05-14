@@ -727,7 +727,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-singapore-zoo-life-v2",
     type: "wildlife",
     name: { de: "Singapore Zoo", hu: "Szingapúri Állatkert", ro: "Grădina Zoologică din Singapore", en: "Singapore Zoo" },
-    coordinates: { lat: 1.4044, lng: 103.793 },
+    coords: [103.793, 1.4044],
     description: {
       de: "Ein 26 Hektar großer zoologischer Garten, der für sein Open-Zoo-Konzept bekannt ist. Er beherbergt über 2.800 Tiere in natürlichen Lebensräumen.",
       hu: "Egy 26 hektáros állatkert, amely a nyitott kifutóiról híres. Több mint 2800 állatnak ad otthont természeteshez közeli környezetben.",
@@ -746,7 +746,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-night-safari-life-v2",
     type: "wildlife",
     name: { de: "Night Safari", hu: "Éjszakai Szafari", ro: "Night Safari", en: "Night Safari" },
-    coordinates: { lat: 1.4022, lng: 103.788 },
+    coords: [103.788, 1.4022],
     description: {
       de: "Der weltweit erste Park für nachtaktive Tiere bietet Einblicke in das Leben nach der Dämmerung. Besucher erkunden den Park per Tram oder zu Fuß.",
       hu: "A világ első éjszakai állatkertje, amely a sötedés utáni életbe enged betekintést. A park villamossal vagy gyalogosan is bejárható.",
@@ -765,7 +765,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-river-wonders-life-v2",
     type: "wildlife",
     name: { de: "River Wonders", hu: "Folyami Csodák", ro: "River Wonders", en: "River Wonders" },
-    coordinates: { lat: 1.4035, lng: 103.7905 },
+    coords: [103.7905, 1.4035],
     description: {
       de: "Ein flussorientierter Wildtierpark, der berühmte Flusssysteme der Welt nachbildet. Er ist die Heimat der Großen Pandas Kai Kai und Jia Jia.",
       hu: "Egy folyami tematikájú vadaspark, amely a világ híres folyóit mutatja be. Itt élnek a híres óriáspandák, Kai Kai és Jia Jia.",
@@ -784,7 +784,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-bird-paradise-life-v2",
     type: "wildlife",
     name: { de: "Bird Paradise", hu: "Madárparadicsom", ro: "Bird Paradise", en: "Bird Paradise" },
-    coordinates: { lat: 1.401, lng: 103.7815 },
+    coords: [103.7815, 1.401],
     description: {
       de: "Ein weitläufiger Vogelpark in Mandai mit begehbaren Volieren. Er ersetzte den alten Jurong Bird Park und bietet modernste Anlagen für Vögel.",
       hu: "Egy hatalmas madárpark Mandai területén, bejárható röpdékkel. A régi Jurongi madárparkot váltotta fel modern létesítményekkel.",
@@ -803,7 +803,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-thomson-nature-park-life-v2",
     type: "park",
     name: { de: "Thomson Nature Park", hu: "Thomson Természeti Park", ro: "Parcul Natural Thomson", en: "Thomson Nature Park" },
-    coordinates: { lat: 1.3888, lng: 103.8188 },
+    coords: [103.8188, 1.3888],
     description: {
       de: "Dieser Park beherbergt die Ruinen eines ehemaligen hainanesischen Dorfes. Er dient als wichtiger Puffer für das Central Catchment Nature Reserve.",
       hu: "Ez a park egy egykori hainani falu romjait őrzi. Fontos pufferzónaként szolgál a Központi Vízgyűjtő Természetvédelmi Terület számára.",
@@ -822,7 +822,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-upper-peirce-reservoir-park-life-v2",
     type: "park",
     name: { de: "Upper Peirce Reservoir Park", hu: "Upper Peirce víztározó park", ro: "Parcul Rezervorului Upper Peirce", en: "Upper Peirce Reservoir Park" },
-    coordinates: { lat: 1.3735, lng: 103.8055 },
+    coords: [103.8055, 1.3735],
     description: {
       de: "Ein ruhiger Park am Ufer des zweitgrößten Stausees Singapurs. Er ist bekannt für seine malerische Aussicht und die üppige grüne Umgebung.",
       hu: "Egy csendes park Szingapúr második legnagyobb víztározójának partján. Festői kilátásáról és buja zöld környezetéről ismert.",
@@ -841,7 +841,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-zhenghua-nature-park-life-v2",
     type: "park",
     name: { de: "Zhenghua Nature Park", hu: "Zhenghua Természeti Park", ro: "Parcul Natural Zhenghua", en: "Zhenghua Nature Park" },
-    coordinates: { lat: 1.378, lng: 103.774 },
+    coords: [103.774, 1.378],
     description: {
       de: "Ein linearer Naturpark, der sich entlang des BKE-Expressway erstreckt. Er dient als ökologischer Korridor für Wildtiere zwischen den Reservaten.",
       hu: "Egy lineáris természetvédelmi park, amely a BKE autópálya mentén húzódik. Ökológiai folyosóként szolgál a vadon élő állatok számára.",
@@ -860,7 +860,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-hindhede-nature-park-life-v2",
     type: "park",
     name: { de: "Hindhede Nature Park", hu: "Hindhede Természeti Park", ro: "Parcul Natural Hindhede", en: "Hindhede Nature Park" },
-    coordinates: { lat: 1.3485, lng: 103.7765 },
+    coords: [103.7765, 1.3485],
     description: {
       de: "Ein kleiner Park neben dem Bukit Timah Nature Reserve. Er ist bekannt für den Hindhede Quarry, einen ehemaligen Steinbruch mit einem See.",
       hu: "Egy kisebb park a Bukit Timah természetvédelmi terület mellett. Fő látványossága a Hindhede-kőfejtő és a benne kialakult tó.",
@@ -879,7 +879,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-rifle-range-nature-park-life-v2",
     type: "park",
     name: { de: "Rifle Range Nature Park", hu: "Rifle Range Természeti Park", ro: "Parcul Natural Rifle Range", en: "Rifle Range Nature Park" },
-    coordinates: { lat: 1.3435, lng: 103.785 },
+    coords: [103.785, 1.3435],
     description: {
       de: "Dieser 2022 eröffnete Park dient als Pufferzone für das Bukit Timah Reservat. Er verfügt über einen erhöhten Steg und einen Steinbruch-Feuchtgebiet.",
       hu: "Ez a 2022-ben nyílt park a Bukit Timah rezervátum pufferzónája. Emelt sétánnyal és egy vizes élőhellyé alakított kőfejtővel rendelkezik.",
@@ -898,7 +898,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-marsiling-park-life-v2",
     type: "park",
     name: { de: "Marsiling Park", hu: "Marsiling Park", ro: "Parcul Marsiling", en: "Marsiling Park" },
-    coordinates: { lat: 1.4385, lng: 103.7735 },
+    coords: [103.7735, 1.4385],
     description: {
       de: "Ein Stadtpark im Norden Singapurs mit einem großen zentralen See. Er ist bekannt für seine ruhige Atmosphäre und die hölzernen Pavillons.",
       hu: "Városi park Szingapúr északi részén, egy nagy központi tóval. Nyugodt légköréről és fából készült pavilonjairól ismert.",
@@ -917,7 +917,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-west-coast-park-life-v2",
     type: "park",
     name: { de: "West Coast Park", hu: "West Coast Park", ro: "Parcul West Coast", en: "West Coast Park" },
-    coordinates: { lat: 1.2965, lng: 103.7635 },
+    coords: [103.7635, 1.2965],
     description: {
       de: "Ein großer Regionalpark im Westen Singapurs, bekannt als Spielzentrum. Er verfügt über einen riesigen Abenteuerspielplatz und ein Vogelschutzgebiet.",
       hu: "Nagy regionális park Szingapúr nyugati részén, játszóközpontként ismert. Hatalmas kalandjátszótérrel és madárrezervátummal rendelkezik.",
@@ -936,7 +936,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-khatib-bongsu-nature-park-life-v2",
     type: "park",
     name: { de: "Khatib Bongsu Nature Park", hu: "Khatib Bongsu Természeti Park", ro: "Parcul Natural Khatib Bongsu", en: "Khatib Bongsu Nature Park" },
-    coordinates: { lat: 1.449, lng: 103.8475 },
+    coords: [103.8475, 1.449],
     description: {
       de: "Ein 150 Hektar großer Park in Yishun mit großen Mangrovengebieten. Er ist ein beliebter Ort für Kajakfahren und Vogelbeobachtungen im Norden.",
       hu: "Egy 150 hektáros park Yishunban, hatalmas mangroveerdőkkel. Népszerű hely kajakozásra és madármegfigyelésre Észak-Szingapúrban.",
@@ -955,7 +955,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-pearls-hill-city-park-life-v2",
     type: "park",
     name: { de: "Pearl's Hill City Park", hu: "Pearl's Hill Városi Park", ro: "Parcul Pearl's Hill City", en: "Pearl's Hill City Park" },
-    coordinates: { lat: 1.2855, lng: 103.8395 },
+    coords: [103.8395, 1.2855],
     description: {
       de: "Ein versteckter Park auf einem Hügel in der Nähe von Chinatown. Er bietet einen friedlichen Rückzugsort mit einem Lotusteich und altem Baumbestand.",
       hu: "Egy rejtett park egy dombtetőn, Chinatown közelében. Békés pihenőhelyet kínál lótuszos tavával és idős erdei fáival.",
@@ -974,7 +974,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-lazarus-island-life-v2",
     type: "park",
     name: { de: "Lazarus Island", hu: "Lázár-sziget", ro: "Insula Lazarus", en: "Lazarus Island" },
-    coordinates: { lat: 1.225, lng: 103.855 },
+    coords: [103.855, 1.225],
     description: {
       de: "Eine abgelegene Insel mit einem der schönsten weißen Sandstrände Singapurs. Sie ist über einen Damm direkt mit St. John's Island verbunden.",
       hu: "Egy távoli sziget, amely Szingapúr egyik legszebb fehér homokos strandjával büszkélkedhet. Gáttal kapcsolódik a Szent János-szigethez.",
@@ -993,7 +993,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-pulau-hantu-life-v2",
     type: "park",
     name: { de: "Pulau Hantu", hu: "Pulau Hantu", ro: "Pulau Hantu", en: "Pulau Hantu" },
-    coordinates: { lat: 1.226, lng: 103.747 },
+    coords: [103.747, 1.226],
     description: {
       de: "Zwei kleine Inseln im Süden Singapurs, die für ihre Korallenriffe bekannt sind. Ein beliebter Ort zum Tauchen und Schnorcheln in lokalen Gewässern.",
       hu: "Két kis sziget Szingapúr déli részén, amelyek korallzátonyaikról ismertek. Népszerű hely búvárkodásra és sznorkelezésre a környéken.",
@@ -1012,7 +1012,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
     id: "singapore-berlayer-creek-life-v2",
     type: "wildlife",
     name: { de: "Berlayer Creek", hu: "Berlayer Creek", ro: "Berlayer Creek", en: "Berlayer Creek" },
-    coordinates: { lat: 1.267, lng: 103.803 },
+    coords: [103.803, 1.267],
     description: {
       de: "Ein Mangroven-Feuchtgebiet in der Nähe des Labrador Parks mit einem erhöhten Holzsteg. Er beherbergt eine vielfältige Flora und Fauna der Küstenregion.",
       hu: "Egy mangrove mocsár a Labrador Park közelében, emelt fapallós sétánnyal. Gazdag parti növény- és állatvilágnak ad otthont.",

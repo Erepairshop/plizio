@@ -1627,7 +1627,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-panadura-cities-v2",
     type: "city",
     name: { de: "Panadura", hu: "Panadura", ro: "Panadura", en: "Panadura" },
-    coordinates: { lat: 6.7106, lng: 79.9074 },
+    coords: [79.9074, 6.7106],
     description: {
       de: "Bedeutende Stadt im Distrikt Kalutara, historisch bekannt für die religiöse Debatte von 1873.",
       hu: "Fontos város Kalutara kerületben, amely az 1873-as híres vallási vitáról nevezetes.",
@@ -1646,7 +1646,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-wattala-cities-v2",
     type: "city",
     name: { de: "Wattala", hu: "Wattala", ro: "Wattala", en: "Wattala" },
-    coordinates: { lat: 6.9833, lng: 79.8833 },
+    coords: [79.8833, 6.9833],
     description: {
       de: "Ein großer Vorort von Colombo, der für seine Handels- und Industrieaktivitäten bekannt ist.",
       hu: "Colombo nagy elővárosa, amely kereskedelmi és ipari központként ismert.",
@@ -1665,7 +1665,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-ja-ela-cities-v2",
     type: "town",
     name: { de: "Ja-Ela", hu: "Ja-Ela", ro: "Ja-Ela", en: "Ja-Ela" },
-    coordinates: { lat: 7.0747, lng: 79.8914 },
+    coords: [79.8914, 7.0747],
     description: {
       de: "Eine Stadt nördlich von Colombo, günstig gelegen an der Schnellstraße zum Flughafen.",
       hu: "Colombótól északra fekvő város, amely a repülőtéri autópálya mentén helyezkedik el.",
@@ -1684,7 +1684,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-peliyagoda-cities-v2",
     type: "town",
     name: { de: "Peliyagoda", hu: "Peliyagoda", ro: "Peliyagoda", en: "Peliyagoda" },
-    coordinates: { lat: 6.9536, lng: 79.8833 },
+    coords: [79.8833, 6.9536],
     description: {
       de: "Ein wichtiges Industrie- und Logistikzentrum am nördlichen Eingang von Colombo.",
       hu: "Fontos ipari és logisztikai központ Colombo északi bejáratánál.",
@@ -1703,7 +1703,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-bentota-cities-v2",
     type: "town",
     name: { de: "Bentota", hu: "Bentota", ro: "Bentota", en: "Bentota" },
-    coordinates: { lat: 6.4255, lng: 80.0003 },
+    coords: [80.0003, 6.4255],
     description: {
       de: "Ein beliebter Küstenort, der für seine goldenen Sandstrände und den Bentota-Fluss bekannt ist.",
       hu: "Népszerű tengerparti üdülőhely, amely aranyhomokos strandjairól és a Bentota-folyóról ismert.",
@@ -1722,7 +1722,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-weligama-cities-v2",
     type: "town",
     name: { de: "Weligama", hu: "Weligama", ro: "Weligama", en: "Weligama" },
-    coordinates: { lat: 5.9722, lng: 80.4286 },
+    coords: [80.4286, 5.9722],
     description: {
       de: "Eine charmante Küstenstadt im Süden, berühmt für Stelzenfischer und Surfmöglichkeiten.",
       hu: "Bájos déli parti város, amely a cölöphorgászokról és a szörfözési lehetőségekről híres.",
@@ -1741,7 +1741,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-tangalle-cities-v2",
     type: "town",
     name: { de: "Tangalle", hu: "Tangalle", ro: "Tangalle", en: "Tangalle" },
-    coordinates: { lat: 6.0242, lng: 80.7911 },
+    coords: [80.7911, 6.0242],
     description: {
       de: "Ein wichtiger Fischereihafen und regionales Zentrum im Distrikt Hambantota im Süden.",
       hu: "Fontos halászkikötő és regionális központ a déli Hambantota kerületben.",
@@ -1760,7 +1760,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-kataragama-cities-v2",
     type: "town",
     name: { de: "Kataragama", hu: "Kataragama", ro: "Kataragama", en: "Kataragama" },
-    coordinates: { lat: 6.4136, lng: 81.3323 },
+    coords: [81.3323, 6.4136],
     description: {
       de: "Eine heilige Stadt, die Pilger aller großen Religionen Sri Lankas anzieht.",
       hu: "Szent város, amely Srí Lanka minden jelentős vallásának zarándokait vonzza.",
@@ -1779,7 +1779,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-avissawella-cities-v2",
     type: "town",
     name: { de: "Avissawella", hu: "Avissawella", ro: "Avissawella", en: "Avissawella" },
-    coordinates: { lat: 6.9542, lng: 80.2114 },
+    coords: [80.2114, 6.9542],
     description: {
       de: "Eine Marktstadt am Ufer des Kelani-Flusses, historisch als Seethawakapura bekannt.",
       hu: "A Kelani-folyó partján fekvő mezőváros, történelmi neve Seethawakapura.",
@@ -1798,7 +1798,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-bandarawela-cities-v2",
     type: "city",
     name: { de: "Bandarawela", hu: "Bandarawela", ro: "Bandarawela", en: "Bandarawela" },
-    coordinates: { lat: 6.8333, lng: 80.9833 },
+    coords: [80.9833, 6.8333],
     description: {
       de: "Eine bedeutende Stadt im zentralen Hochland, bekannt für ihr mildes Klima und ihre Tee-Produktion.",
       hu: "Jelentős város a központi felföldön, amely enyhe klímájáról és teatermeléséről ismert.",
@@ -1817,7 +1817,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-haputale-cities-v2",
     type: "town",
     name: { de: "Haputale", hu: "Haputale", ro: "Haputale", en: "Haputale" },
-    coordinates: { lat: 6.7667, lng: 80.95 },
+    coords: [80.95, 6.7667],
     description: {
       de: "Eine Hochgebirgsstadt auf einem Bergrücken mit spektakulärem Blick auf die südlichen Ebenen.",
       hu: "Magaslati város egy hegygerincen, látványos kilátással a déli síkságokra.",
@@ -1836,7 +1836,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-hatton-cities-v2",
     type: "town",
     name: { de: "Hatton", hu: "Hatton", ro: "Hatton", en: "Hatton" },
-    coordinates: { lat: 6.8833, lng: 80.6 },
+    coords: [80.6, 6.8833],
     description: {
       de: "Ein wichtiges Zentrum der Teeindustrie und das Tor zum heiligen Berg Adam's Peak.",
       hu: "A teaipar fontos központja és a szent Ádám-csúcs felé vezető kapu.",
@@ -1855,7 +1855,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-horana-cities-v2",
     type: "town",
     name: { de: "Horana", hu: "Horana", ro: "Horana", en: "Horana" },
-    coordinates: { lat: 6.7167, lng: 80.0667 },
+    coords: [80.0667, 6.7167],
     description: {
       de: "Ein geschäftiges Handelszentrum im Distrikt Kalutara, umgeben von Kautschukplantagen.",
       hu: "Nyüzsgő kereskedelmi központ Kalutara kerületben, gumiültetvényekkel körülvéve.",
@@ -1874,7 +1874,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-maharagama-cities-v2",
     type: "city",
     name: { de: "Maharagama", hu: "Maharagama", ro: "Maharagama", en: "Maharagama" },
-    coordinates: { lat: 6.85, lng: 79.9333 },
+    coords: [79.9333, 6.85],
     description: {
       de: "Ein großer Vorort von Colombo, bekannt für das nationale Krebskrankenhaus und Textilmärkte.",
       hu: "Colombo nagy elővárosa, amely a nemzeti rákos megbetegedések kórházáról és textilpiacairól ismert.",
@@ -1893,7 +1893,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-kolonnawa-cities-v2",
     type: "city",
     name: { de: "Kolonnawa", hu: "Kolonnawa", ro: "Kolonnawa", en: "Kolonnawa" },
-    coordinates: { lat: 6.9333, lng: 79.8833 },
+    coords: [79.8833, 6.9333],
     description: {
       de: "Ein industrieller Vorort von Colombo, in dem sich die wichtigsten Öllageranlagen des Landes befinden.",
       hu: "Colombo ipari elővárosa, ahol az ország legfontosabb olajtárolói találhatók.",
@@ -1912,7 +1912,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-minuwangoda-cities-v2",
     type: "town",
     name: { de: "Minuwangoda", hu: "Minuwangoda", ro: "Minuwangoda", en: "Minuwangoda" },
-    coordinates: { lat: 7.17, lng: 79.95 },
+    coords: [79.95, 7.17],
     description: {
       de: "Ein wichtiges Handelszentrum im Distrikt Gampaha, strategisch günstig an Straßenkreuzungen gelegen.",
       hu: "Fontos kereskedelmi központ Gampaha kerületben, stratégiai útkereszteződésekben.",
@@ -1931,7 +1931,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-kuliyapitiya-cities-v2",
     type: "city",
     name: { de: "Kuliyapitiya", hu: "Kuliyapitiya", ro: "Kuliyapitiya", en: "Kuliyapitiya" },
-    coordinates: { lat: 7.4686, lng: 80.04 },
+    coords: [80.04, 7.4686],
     description: {
       de: "Ein wichtiges akademisches und kommerzielles Zentrum im Distrikt Kurunegala.",
       hu: "Fontos akadémiai és kereskedelmi központ Kurunegala kerületben.",
@@ -1950,7 +1950,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-balangoda-cities-v2",
     type: "town",
     name: { de: "Balangoda", hu: "Balangoda", ro: "Balangoda", en: "Balangoda" },
-    coordinates: { lat: 6.65, lng: 80.7 },
+    coords: [80.7, 6.65],
     description: {
       de: "Eine Stadt im Distrikt Ratnapura, bekannt für Edelsteinabbau und Teeplantagen.",
       hu: "Város Ratnapura kerületben, amely drágakőbányászatáról és teaültetvényeiről ismert.",
@@ -1969,7 +1969,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-embilipitiya-cities-v2",
     type: "city",
     name: { de: "Embilipitiya", hu: "Embilipitiya", ro: "Embilipitiya", en: "Embilipitiya" },
-    coordinates: { lat: 6.3386, lng: 80.8497 },
+    coords: [80.8497, 6.3386],
     description: {
       de: "Ein wichtiges landwirtschaftliches Zentrum im Süden, das durch ein großes Bewässerungsprojekt entwickelt wurde.",
       hu: "Fontos mezőgazdasági központ délen, amelyet egy nagy öntözési projekt keretében fejlesztettek ki.",
@@ -1988,7 +1988,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-welimada-cities-v2",
     type: "town",
     name: { de: "Welimada", hu: "Welimada", ro: "Welimada", en: "Welimada" },
-    coordinates: { lat: 6.9, lng: 80.9167 },
+    coords: [80.9167, 6.9],
     description: {
       de: "Eine Stadt im Distrikt Badulla, bekannt für den Anbau von Kartoffeln und kühles Wetter.",
       hu: "Város Badulla kerületben, burgonyatermesztéséről és hűvös időjárásáról ismert.",
@@ -2007,7 +2007,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-wellawaya-cities-v2",
     type: "town",
     name: { de: "Wellawaya", hu: "Wellawaya", ro: "Wellawaya", en: "Wellawaya" },
-    coordinates: { lat: 6.7411, lng: 81.1042 },
+    coords: [81.1042, 6.7411],
     description: {
       de: "Ein strategischer Knotenpunkt in der Provinz Uva, wo sich wichtige Autobahnen kreuzen.",
       hu: "Stratégiai közlekedési csomópont Uva tartományban, ahol fontos autópályák találkoznak.",
@@ -2026,7 +2026,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-bibile-cities-v2",
     type: "town",
     name: { de: "Bibile", hu: "Bibile", ro: "Bibile", en: "Bibile" },
-    coordinates: { lat: 7.1581, lng: 81.2178 },
+    coords: [81.2178, 7.1581],
     description: {
       de: "Bekannt als das Zentrum des Orangen- und Zitrusanbaus in Sri Lanka.",
       hu: "Srí Lanka narancs- és citrusfélék termesztésének központjaként ismert.",
@@ -2045,7 +2045,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-chavakachcheri-cities-v2",
     type: "town",
     name: { de: "Chavakachcheri", hu: "Chavakachcheri", ro: "Chavakachcheri", en: "Chavakachcheri" },
-    coordinates: { lat: 9.6667, lng: 80.15 },
+    coords: [80.15, 9.6667],
     description: {
       de: "Die zweitgrößte Stadt auf der Halbinsel Jaffna, ein wichtiges landwirtschaftliches Zentrum.",
       hu: "A Jaffna-félsziget második legnagyobb városa, fontos mezőgazdasági központ.",
@@ -2064,7 +2064,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-valvettithurai-cities-v2",
     type: "town",
     name: { de: "Valvettithurai", hu: "Valvettithurai", ro: "Valvettithurai", en: "Valvettithurai" },
-    coordinates: { lat: 9.8167, lng: 80.1667 },
+    coords: [80.1667, 9.8167],
     description: {
       de: "Eine Küstenstadt im Norden, historisch bekannt für den Schiffbau und die Seefahrt.",
       hu: "Északi parti város, történelmileg hajóépítéséről és tengerészetéről ismert.",
@@ -2083,7 +2083,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-eravur-cities-v2",
     type: "town",
     name: { de: "Eravur", hu: "Eravur", ro: "Eravur", en: "Eravur" },
-    coordinates: { lat: 7.7667, lng: 81.6 },
+    coords: [81.6, 7.7667],
     description: {
       de: "Eine Stadt an der Ostküste nördlich von Batticaloa mit einer vielfältigen Bevölkerung.",
       hu: "Keleti parti város Batticaloától északra, sokszínű lakossággal.",
@@ -2102,7 +2102,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-kattankudy-cities-v2",
     type: "city",
     name: { de: "Kattankudy", hu: "Kattankudy", ro: "Kattankudy", en: "Kattankudy" },
-    coordinates: { lat: 7.6833, lng: 81.7333 },
+    coords: [81.7333, 7.6833],
     description: {
       de: "Eine der am dichtesten besiedelten Städte Sri Lankas, ein Zentrum des islamischen Handels an der Ostküste.",
       hu: "Srí Lanka egyik legsűrűbben lakott városa, az iszlám kereskedelem központja a keleti parton.",
@@ -2121,7 +2121,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-kalmunai-cities-v2",
     type: "city",
     name: { de: "Kalmunai", hu: "Kalmunai", ro: "Kalmunai", en: "Kalmunai" },
-    coordinates: { lat: 7.4167, lng: 81.8333 },
+    coords: [81.8333, 7.4167],
     description: {
       de: "Die größte Stadt im Distrikt Ampara und ein wichtiges Handelszentrum im Osten.",
       hu: "Ampara kerület legnagyobb városa és fontos kereskedelmi központ keleten.",
@@ -2140,7 +2140,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-akkaraipattu-cities-v2",
     type: "town",
     name: { de: "Akkaraipattu", hu: "Akkaraipattu", ro: "Akkaraipattu", en: "Akkaraipattu" },
-    coordinates: { lat: 7.2167, lng: 81.85 },
+    coords: [81.85, 7.2167],
     description: {
       de: "Eine blühende Stadt im Distrikt Ampara, bekannt für Reisanbau und Handel.",
       hu: "Virágzó város Ampara kerületben, rizstermesztéséről és kereskedelméről ismert.",
@@ -2159,7 +2159,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-tissamaharama-cities-v2",
     type: "city",
     name: { de: "Tissamaharama", hu: "Tissamaharama", ro: "Tissamaharama", en: "Tissamaharama" },
-    coordinates: { lat: 6.275, lng: 81.2872 },
+    coords: [81.2872, 6.275],
     description: {
       de: "Ehemalige Hauptstadt des Königreichs Ruhuna, heute ein Zentrum für Tourismus und Landwirtschaft.",
       hu: "A Ruhuna Királyság egykori fővárosa, ma a turizmus és a mezőgazdaság központja.",
@@ -2178,7 +2178,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "srilanka-talawakele-cities-v2",
     type: "town",
     name: { de: "Talawakele", hu: "Talawakele", ro: "Talawakele", en: "Talawakele" },
-    coordinates: { lat: 6.9367, lng: 80.6558 },
+    coords: [80.6558, 6.9367],
     description: {
       de: "Eine Bergstadt im Distrikt Nuwara Eliya, das Herz der Tee-Forschungsregion.",
       hu: "Hegyi város Nuwara Eliya kerületben, a teakutatási régió szíve.",

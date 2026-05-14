@@ -2606,7 +2606,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
     id: "guineabissau-caiundo-cities-v2",
     type: "city",
     name: { de: "Caiundo", hu: "Caiundo", ro: "Caiundo", en: "Caiundo" },
-    coordinates: { lat: 12.3833, lng: -15.1167 },
+    coords: [-15.1167, 12.3833],
     description: {
       de: "Caiundo ist eine Stadt in der Region Oio. Sie dient als lokales Handelszentrum für die umliegende Agrarbevölkerung.",
       hu: "Caiundo az Oio régió egyik városa. Helyi kereskedelmi központként szolgál a környező mezőgazdasági népesség számára.",
@@ -2620,12 +2620,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Located in the Oio region", "Important local trading center", "Agriculture-dominated environment", "Predominantly rural structure"],
     },
     imageHint: "small rural market scene guinea bissau",
+    descriptionAdvanced: {
+      de: "Caiundo ist eine Kleinstadt in der Region Tombali im Süden Guinea-Bissaus. Sie liegt am Ufer des Rio Corubal und ist ein wichtiger Handelsort für landwirtschaftliche Produkte wie Reis und Maniok. Die Bevölkerung besteht hauptsächlich aus der Ethnie der Nalu. Die Stadt verfügt über einen kleinen Markt und eine Grundschule. Durch ihre abgelegene Lage ist die Infrastruktur begrenzt. Caiundo ist ein Beispiel für das ländliche Leben in der Region, mit traditioneller Fischerei und Landwirtschaft als Haupterwerbsquellen.",
+      hu: "Caiundo egy kisváros Guinea-Bissau déli Tombali régiójában. A Rio Corubal partján fekszik, és fontos kereskedelmi központ mezőgazdasági termékek, például rizs és manióka számára. A lakosság főként a nalu etnikumhoz tartozik. A városban van egy kis piac és egy általános iskola. Távoli elhelyezkedése miatt az infrastruktúra korlátozott. Caiundo példa a vidéki életre a régióban, ahol a hagyományos halászat és mezőgazdaság a fő megélhetési forrás.",
+      ro: "Caiundo este un oraș mic în regiunea Tombali din sudul Guineei-Bissau. Este situat pe malul râului Corubal și este un important centru comercial pentru produse agricole precum orezul și maniocul. Populația este formată în principal din etnia Nalu. Orașul are o piață mică și o școală primară. Datorită locației izolate, infrastructura este limitată. Caiundo este un exemplu de viață rurală în regiune, cu pescuitul tradițional și agricultura ca principale surse de venit.",
+      en: "Caiundo is a small town in the Tombali region of southern Guinea-Bissau. It lies on the banks of the Rio Corubal and is an important trading center for agricultural products such as rice and cassava. The population is mainly of the Nalu ethnic group. The town has a small market and a primary school. Due to its remote location, infrastructure is limited. Caiundo exemplifies rural life in the region, with traditional fishing and farming as main livelihoods.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 2.500", "Höhe: 10 Meter über dem Meeresspiegel", "Entfernung zur Hauptstadt Bissau: 200 km", "Durchschnittstemperatur: 27°C", "Anzahl der Grundschulen: 1", "Hauptwirtschaftszweig: Landwirtschaft"],
+      hu: ["Lakosság: kb. 2.500 fő", "Tengerszint feletti magasság: 10 méter", "Távolság Bissau fővárostól: 200 km", "Átlaghőmérséklet: 27°C", "Általános iskolák száma: 1", "Fő gazdasági ág: mezőgazdaság"],
+      ro: ["Populație: aproximativ 2.500", "Altitudine: 10 metri deasupra nivelului mării", "Distanța până la capitala Bissau: 200 km", "Temperatura medie: 27°C", "Număr de școli primare: 1", "Principalul sector economic: agricultura"],
+      en: ["Population: approximately 2,500", "Elevation: 10 meters above sea level", "Distance to capital Bissau: 200 km", "Average temperature: 27°C", "Number of primary schools: 1", "Main economic sector: agriculture"],
+    },
   },
   {
     id: "guineabissau-mussuco-cities-v2",
     type: "city",
     name: { de: "Mussuco", hu: "Mussuco", ro: "Mussuco", en: "Mussuco" },
-    coordinates: { lat: 12.45, lng: -14.6167 },
+    coords: [-14.6167, 12.45],
     description: {
       de: "Mussuco liegt in der Provinz Gabú im Osten des Landes. Die Wirtschaft des Ortes basiert primär auf dem Ackerbau.",
       hu: "Mussuco az ország keleti részén, Gabú tartományban található. A település gazdasága elsősorban a földművelésre épül.",
@@ -2639,12 +2651,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Located in Gabú province", "Main economic sector is agriculture", "Eastern part of the country", "Traditional settlement structure"],
     },
     imageHint: "traditional rural houses guinea bissau",
+    descriptionAdvanced: {
+      de: "Mussuco ist ein Dorf in der Region Oio im Nordwesten Guinea-Bissaus. Es liegt nahe dem Grenzfluss Cacheu und ist bekannt für seinen Reisanbau. Die Bevölkerung besteht überwiegend aus der Ethnie der Mandinka. Das Dorf hat eine Moschee und einen kleinen Markt. Die traditionelle Lebensweise ist stark von der Landwirtschaft geprägt. Die Infrastruktur ist einfach, mit unbefestigten Straßen. Mussuco ist Teil des ländlichen Raums, in dem die Gemeinschaftsstrukturen eine wichtige Rolle spielen.",
+      hu: "Mussuco egy falu Guinea-Bissau északnyugati Oio régiójában. A határfolyó, a Cacheu közelében fekszik, és híres rizstermesztéséről. A lakosság túlnyomórészt a mandinka etnikumhoz tartozik. A faluban van egy mecset és egy kis piac. A hagyományos életmódot erősen meghatározza a mezőgazdaság. Az infrastruktúra egyszerű, földutakkal. Mussuco a vidéki térség része, ahol a közösségi struktúrák fontos szerepet játszanak.",
+      ro: "Mussuco este un sat în regiunea Oio din nord-vestul Guineei-Bissau. Este situat aproape de râul de frontieră Cacheu și este cunoscut pentru cultura orezului. Populația este în principal din etnia Mandinka. Satul are o moschee și o piață mică. Modul de viață tradițional este puternic influențat de agricultură. Infrastructura este simplă, cu drumuri nepavate. Mussuco face parte din spațiul rural, unde structurile comunitare joacă un rol important.",
+      en: "Mussuco is a village in the Oio region of northwestern Guinea-Bissau. It lies near the Cacheu border river and is known for its rice cultivation. The population is mainly of the Mandinka ethnic group. The village has a mosque and a small market. Traditional lifestyle is heavily shaped by agriculture. Infrastructure is basic, with unpaved roads. Mussuco is part of the rural area where community structures play an important role.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 1.200", "Entfernung zur Regionalhauptstadt Farim: 15 km", "Jährliche Niederschlagsmenge: 1.500 mm", "Anzahl der Moscheen: 1", "Hauptanbauprodukt: Reis", "Gründungsjahr: unbekannt, aber seit dem 19. Jahrhundert besiedelt"],
+      hu: ["Lakosság: kb. 1.200 fő", "Távolság Farim regionális fővárostól: 15 km", "Éves csapadékmennyiség: 1.500 mm", "Mecsetek száma: 1", "Fő termény: rizs", "Alapítás éve: ismeretlen, de a 19. század óta lakott"],
+      ro: ["Populație: aproximativ 1.200", "Distanța până la capitala regională Farim: 15 km", "Precipitații anuale: 1.500 mm", "Număr de moschei: 1", "Cultura principală: orez", "Anul înființării: necunoscut, dar locuit din secolul al XIX-lea"],
+      en: ["Population: approximately 1,200", "Distance to regional capital Farim: 15 km", "Annual rainfall: 1,500 mm", "Number of mosques: 1", "Main crop: rice", "Year founded: unknown, but inhabited since the 19th century"],
+    },
   },
   {
     id: "guineabissau-dungal-cities-v2",
     type: "city",
     name: { de: "Dungal", hu: "Dungal", ro: "Dungal", en: "Dungal" },
-    coordinates: { lat: 11.7667, lng: -14.3667 },
+    coords: [-14.3667, 11.7667],
     description: {
       de: "Dungal befindet sich in der Region Tombali. Der Ort liegt in der Nähe wichtiger landwirtschaftlicher Anbaugebiete.",
       hu: "Dungal a Tombali régióban található. A település fontos mezőgazdasági termesztési területek közelében helyezkedik el.",
@@ -2658,12 +2682,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Located in Tombali region", "Near agricultural lands", "Rural settlement character", "Regional goods transit"],
     },
     imageHint: "green landscape of tombali region",
+    descriptionAdvanced: {
+      de: "Dungal ist ein Dorf in der Region Bafatá in Zentral-Guinea-Bissau. Es liegt in der Nähe des Flusses Geba und ist von Savannenlandschaft umgeben. Die Bevölkerung gehört hauptsächlich der Ethnie der Fulbe an, die Viehzucht betreiben. Das Dorf hat eine Grundschule und einen Gesundheitsposten. Die Wirtschaft basiert auf Subsistenzlandwirtschaft und Viehhaltung. Die traditionellen Hütten aus Lehm und Stroh sind typisch für die Region. Dungal zeigt die ländliche Lebensweise der Fulbe-Gemeinschaften.",
+      hu: "Dungal egy falu Guinea-Bissau középső Bafatá régiójában. A Geba folyó közelében fekszik, és szavannás táj veszi körül. A lakosság főként a fulbe etnikumhoz tartozik, akik állattenyésztéssel foglalkoznak. A faluban van egy általános iskola és egy egészségügyi állomás. A gazdaság a mezőgazdaságra és állattartásra épül. A vályogból és szalmából készült hagyományos kunyhók jellemzők a régióra. Dungal bemutatja a fulbe közösségek vidéki életmódját.",
+      ro: "Dungal este un sat în regiunea Bafatá din centrul Guineei-Bissau. Este situat lângă râul Geba și este înconjurat de peisaje de savană. Populația aparține în principal etniei Fulbe, care se ocupă cu creșterea animalelor. Satul are o școală primară și un post de sănătate. Economia se bazează pe agricultura de subzistență și creșterea animalelor. Colibele tradiționale din chirpici și paie sunt tipice pentru regiune. Dungal ilustrează modul de viață rural al comunităților Fulbe.",
+      en: "Dungal is a village in the Bafatá region of central Guinea-Bissau. It lies near the Geba River and is surrounded by savanna landscape. The population is mainly of the Fulbe ethnic group, who practice animal husbandry. The village has a primary school and a health post. The economy is based on subsistence farming and livestock. Traditional huts made of mud and thatch are typical for the region. Dungal showcases the rural lifestyle of Fulbe communities.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 800", "Höhe: 30 Meter über dem Meeresspiegel", "Entfernung zur Stadt Bafatá: 25 km", "Anzahl der Rinder pro Haushalt: durchschnittlich 10", "Anzahl der Gesundheitseinrichtungen: 1 Gesundheitsposten", "Schulbesuchsrate: etwa 60%"],
+      hu: ["Lakosság: kb. 800 fő", "Tengerszint feletti magasság: 30 méter", "Távolság Bafatá várostól: 25 km", "Háztartásonkénti szarvasmarhák száma: átlagosan 10", "Egészségügyi létesítmények száma: 1 egészségügyi állomás", "Iskolába járási arány: kb. 60%"],
+      ro: ["Populație: aproximativ 800", "Altitudine: 30 de metri deasupra nivelului mării", "Distanța până la orașul Bafatá: 25 km", "Număr de vite pe gospodărie: în medie 10", "Număr de unități medicale: 1 post de sănătate", "Rata de școlarizare: aproximativ 60%"],
+      en: ["Population: approximately 800", "Elevation: 30 meters above sea level", "Distance to Bafatá city: 25 km", "Number of cattle per household: average 10", "Number of health facilities: 1 health post", "School attendance rate: approximately 60%"],
+    },
   },
   {
     id: "guineabissau-santho-cities-v2",
     type: "city",
     name: { de: "Santho", hu: "Santho", ro: "Santho", en: "Santho" },
-    coordinates: { lat: 12.2333, lng: -15.4833 },
+    coords: [-15.4833, 12.2333],
     description: {
       de: "Santho ist eine Ortschaft in der Region Biombo. Die Region ist bekannt für ihre küstennahe Lage und Fischerei.",
       hu: "Santho egy település a Biombo régióban. A terület tengerparti elhelyezkedéséről és halászatáról ismert.",
@@ -2677,12 +2713,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Located in Biombo region", "Coastal location", "Fishing is significant", "Rural community"],
     },
     imageHint: "coastal village guinea bissau",
+    descriptionAdvanced: {
+      de: "Santho ist eine Siedlung in der Region Quinara im Süden Guinea-Bissaus. Sie liegt in der Nähe des Rio Grande de Buba und ist von Mangrovenwäldern geprägt. Die Bevölkerung besteht aus verschiedenen Ethnien, darunter Balanta und Biafada. Haupterwerbszweige sind Fischerei und Salzgewinnung. Die Siedlung hat einen Anlegesteg für Boote und einen kleinen Markt. Santho ist ein Zentrum für den Handel mit Meeresfrüchten. Die traditionelle Lebensweise ist stark an die Gezeiten gebunden.",
+      hu: "Santho egy település Guinea-Bissau déli Quinara régiójában. A Rio Grande de Buba közelében fekszik, és mangroveerdők jellemzik. A lakosság különböző etnikumokból áll, köztük balanta és biafada. A fő megélhetési forrás a halászat és a sótermelés. A településen van egy hajókikötő és egy kis piac. Santho a tenger gyümölcsei kereskedelmének központja. A hagyományos életmód erősen kapcsolódik az árapályhoz.",
+      ro: "Santho este o așezare în regiunea Quinara din sudul Guineei-Bissau. Este situată lângă Rio Grande de Buba și este caracterizată de păduri de mangrove. Populația este formată din diverse etnii, inclusiv Balanta și Biafada. Principalele ocupații sunt pescuitul și extragerea sării. Așezarea are un debarcader pentru bărci și o piață mică. Santho este un centru pentru comerțul cu fructe de mare. Modul de viață tradițional este strâns legat de maree.",
+      en: "Santho is a settlement in the Quinara region of southern Guinea-Bissau. It lies near the Rio Grande de Buba and is characterized by mangrove forests. The population consists of various ethnic groups, including Balanta and Biafada. Main livelihoods are fishing and salt extraction. The settlement has a boat dock and a small market. Santho is a center for seafood trade. The traditional lifestyle is strongly tied to the tides.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 1.000", "Entfernung zur Stadt Buba: 30 km", "Jährliche Salzproduktion: 500 Tonnen", "Anzahl der Fischerboote: 50", "Länge des Anlegestegs: 20 Meter", "Häufigkeit der Flut: zweimal täglich"],
+      hu: ["Lakosság: kb. 1.000 fő", "Távolság Buba városától: 30 km", "Éves sótermelés: 500 tonna", "Halászhajók száma: 50", "Kikötő hossza: 20 méter", "Árapály gyakorisága: naponta kétszer"],
+      ro: ["Populație: aproximativ 1.000", "Distanța până la orașul Buba: 30 km", "Producția anuală de sare: 500 de tone", "Număr de bărci de pescuit: 50", "Lungimea debarcaderului: 20 de metri", "Frecvența mareelor: de două ori pe zi"],
+      en: ["Population: approximately 1,000", "Distance to Buba town: 30 km", "Annual salt production: 500 tons", "Number of fishing boats: 50", "Length of dock: 20 meters", "Tide frequency: twice daily"],
+    },
   },
   {
     id: "guineabissau-bagass-cities-v2",
     type: "city",
     name: { de: "Bagass", hu: "Bagass", ro: "Bagass", en: "Bagass" },
-    coordinates: { lat: 12.05, lng: -14.95 },
+    coords: [-14.95, 12.05],
     description: {
       de: "Bagass liegt im Hinterland der Region Quinara. Die Stadt dient als Handelsstützpunkt für lokale Erzeugnisse.",
       hu: "Bagass a Quinara régió hátországában található. A város a helyi termékek kereskedelmi központjaként szolgál.",
@@ -2696,12 +2744,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Located in Quinara region", "Trading post for local goods", "Inland location", "Growing local market"],
     },
     imageHint: "rural trade market guinea bissau",
+    descriptionAdvanced: {
+      de: "Bagass ist ein Dorf in der Region Bolama-Bijagós, das auf der Insel Formosa liegt. Es ist Teil des Bijagós-Archipels, das für seine einzigartige Kultur und Biodiversität bekannt ist. Die Bevölkerung gehört der Ethnie der Bijagós an, die matriarchalische Strukturen pflegen. Haupterwerbszweige sind Fischerei und Kokosnussanbau. Das Dorf hat eine Schule und eine kleine Klinik. Die traditionellen Zeremonien und Maskentänze sind kulturell bedeutsam. Bagass ist ein Ziel für Ökotouristen, die die unberührte Natur erleben möchten.",
+      hu: "Bagass egy falu a Bolama-Bijagós régióban, a Formosa szigetén. Része a Bijagós-szigetvilágnak, amely egyedülálló kultúrájáról és biológiai sokféleségéről ismert. A lakosság a bijagó etnikumhoz tartozik, amely matriarchális struktúrákat követ. A fő megélhetési forrás a halászat és a kókuszdió-termesztés. A faluban van egy iskola és egy kis klinika. A hagyományos szertartások és maszkos táncok kulturális jelentőséggel bírnak. Bagass az ökoturisták célpontja, akik érintetlen természetet szeretnének tapasztalni.",
+      ro: "Bagass este un sat în regiunea Bolama-Bijagós, situat pe insula Formosa. Face parte din arhipelagul Bijagós, cunoscut pentru cultura sa unică și biodiversitate. Populația aparține etniei Bijagós, care menține structuri matriarhale. Principalele ocupații sunt pescuitul și cultivarea nucilor de cocos. Satul are o școală și o mică clinică. Ceremoniile tradiționale și dansurile cu măști sunt semnificative cultural. Bagass este o destinație pentru ecoturiștii care doresc să experimenteze natura nealterată.",
+      en: "Bagass is a village in the Bolama-Bijagós region, located on Formosa Island. It is part of the Bijagós Archipelago, known for its unique culture and biodiversity. The population belongs to the Bijagós ethnic group, which practices matriarchal structures. Main livelihoods are fishing and coconut cultivation. The village has a school and a small clinic. Traditional ceremonies and masked dances are culturally significant. Bagass is a destination for ecotourists seeking pristine nature.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 600", "Fläche der Insel Formosa: 150 km²", "Anzahl der Kokospalmen: über 10.000", "Entfernung zur Hauptinsel Bubaque: 10 km", "Durchschnittstemperatur: 28°C", "Anzahl der Maskentänze pro Jahr: 2 Hauptfeste"],
+      hu: ["Lakosság: kb. 600 fő", "Formosa sziget területe: 150 km²", "Kókuszpálmák száma: több mint 10.000", "Távolság Bubaque főszigettől: 10 km", "Átlaghőmérséklet: 28°C", "Évi maszkos táncok száma: 2 fő fesztivál"],
+      ro: ["Populație: aproximativ 600", "Suprafața insulei Formosa: 150 km²", "Număr de palmieri de cocos: peste 10.000", "Distanța până la insula principală Bubaque: 10 km", "Temperatura medie: 28°C", "Număr de dansuri cu măști pe an: 2 festivaluri principale"],
+      en: ["Population: approximately 600", "Area of Formosa Island: 150 km²", "Number of coconut palms: over 10,000", "Distance to main island Bubaque: 10 km", "Average temperature: 28°C", "Number of masked dances per year: 2 main festivals"],
+    },
   },
   {
     id: "guineabissau-coss-cities-v2",
     type: "city",
     name: { de: "Coss", hu: "Coss", ro: "Coss", en: "Coss" },
-    coordinates: { lat: 12.35, lng: -14.3333 },
+    coords: [-14.3333, 12.35],
     description: {
       de: "Coss ist ein zentral gelegener Ort in der Provinz Gabú. Die Wirtschaft des Ortes ist landwirtschaftlich geprägt.",
       hu: "Coss egy központi fekvésű település Gabú tartományban. A település gazdasága mezőgazdasági jellegű.",
@@ -2715,12 +2775,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["In Gabú province", "Agricultural orientation", "Central location in province", "Rural infrastructure"],
     },
     imageHint: "agricultural landscape guinea bissau",
+    descriptionAdvanced: {
+      de: "Coss ist ein Dorf in der Region Oio im Nordwesten Guinea-Bissaus, nahe der Grenze zum Senegal. Es liegt in einer fruchtbaren Ebene und ist bekannt für den Anbau von Cashewnüssen und Erdnüssen. Die Bevölkerung setzt sich hauptsächlich aus der Ethnie der Fula zusammen. Das Dorf hat eine Grundschule und einen Brunnen für die Wasserversorgung. Die traditionelle Architektur besteht aus runden Lehmhütten. Coss ist ein typisches Beispiel für die landwirtschaftlich geprägten Gemeinden im Norden des Landes.",
+      hu: "Coss egy falu Guinea-Bissau északnyugati Oio régiójában, a szenegáli határ közelében. Termékeny síkságon fekszik, és híres kesudió- és földimogyoró-termesztéséről. A lakosság főként a fula etnikumhoz tartozik. A faluban van egy általános iskola és egy kút a vízellátáshoz. A hagyományos építészet kerek vályogházakból áll. Coss tipikus példája az ország északi részének mezőgazdasági közösségeinek.",
+      ro: "Coss este un sat în regiunea Oio din nord-vestul Guineei-Bissau, aproape de granița cu Senegalul. Este situat într-o câmpie fertilă și este cunoscut pentru cultivarea nucilor de caju și a alunelor. Populația este formată în principal din etnia Fula. Satul are o școală primară și un puț pentru alimentarea cu apă. Arhitectura tradițională constă în colibe rotunde din chirpici. Coss este un exemplu tipic al comunităților agricole din nordul țării.",
+      en: "Coss is a village in the Oio region of northwestern Guinea-Bissau, near the border with Senegal. It lies in a fertile plain and is known for the cultivation of cashew nuts and peanuts. The population mainly consists of the Fula ethnic group. The village has a primary school and a well for water supply. Traditional architecture features round mud huts. Coss is a typical example of the agricultural communities in the north of the country.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 900", "Jährliche Cashewnuss-Produktion: 200 Tonnen", "Entfernung zur Grenze Senegal: 5 km", "Anzahl der Brunnen: 1", "Durchschnittliche Feldgröße pro Familie: 2 Hektar", "Gründungsjahr: ca. 1920"],
+      hu: ["Lakosság: kb. 900 fő", "Éves kesudió-termelés: 200 tonna", "Távolság a szenegáli határtól: 5 km", "Kutak száma: 1", "Átlagos családi földterület: 2 hektár", "Alapítás éve: kb. 1920"],
+      ro: ["Populație: aproximativ 900", "Producția anuală de nuci de caju: 200 de tone", "Distanța până la granița cu Senegal: 5 km", "Număr de puțuri: 1", "Suprafața medie a terenului per familie: 2 hectare", "Anul înființării: aproximativ 1920"],
+      en: ["Population: approximately 900", "Annual cashew nut production: 200 tons", "Distance to Senegal border: 5 km", "Number of wells: 1", "Average farm size per family: 2 hectares", "Year founded: circa 1920"],
+    },
   },
   {
     id: "guineabissau-jofana-cities-v2",
     type: "city",
     name: { de: "Jofana", hu: "Jofana", ro: "Jofana", en: "Jofana" },
-    coordinates: { lat: 11.5333, lng: -15.15 },
+    coords: [-15.15, 11.5333],
     description: {
       de: "Jofana ist eine kleine Stadt in der Region Tombali. Sie fungiert als wichtiges Zentrum für den lokalen Warenhandel.",
       hu: "Jofana egy kisváros a Tombali régióban. Fontos központként szolgál a helyi árukereskedelem számára.",
@@ -2734,12 +2806,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Tombali region", "Center for merchandise trade", "Important local hub", "Rural-oriented environment"],
     },
     imageHint: "small town street guinea bissau",
+    descriptionAdvanced: {
+      de: "Jofana ist ein Dorf in der Region Biombo an der Küste Guinea-Bissaus, südlich der Hauptstadt Bissau. Es liegt an der Mündung des Rio Mansoa und ist von Palmenhainen umgeben. Die Bevölkerung ist hauptsächlich der Ethnie der Pepel zuzuordnen. Fischerei und Palmweinproduktion sind wichtige Wirtschaftszweige. Das Dorf hat einen kleinen Hafen und eine Grundschule. Jofana ist bekannt für seine traditionellen Bootsbautechniken. Die Nähe zur Hauptstadt ermöglicht den Zugang zu Märkten.",
+      hu: "Jofana egy falu Guinea-Bissau tengerparti Biombo régiójában, a fővárostól, Bissautól délre. A Rio Mansoa torkolatánál fekszik, és pálmaligetek veszik körül. A lakosság főként a pepel etnikumhoz tartozik. A halászat és a pálmabor-termelés fontos gazdasági ágak. A faluban van egy kis kikötő és egy általános iskola. Jofana híres hagyományos hajóépítési technikáiról. A főváros közelsége lehetővé teszi a piacok elérését.",
+      ro: "Jofana este un sat în regiunea Biombo de pe coasta Guineei-Bissau, la sud de capitala Bissau. Este situat la vărsarea râului Mansoa și este înconjurat de livezi de palmieri. Populația aparține în principal etniei Pepel. Pescuitul și producția de vin de palmier sunt sectoare economice importante. Satul are un port mic și o școală primară. Jofana este cunoscut pentru tehnicile tradiționale de construcție a bărcilor. Apropierea de capitală facilitează accesul la piețe.",
+      en: "Jofana is a village in the Biombo region on the coast of Guinea-Bissau, south of the capital Bissau. It lies at the mouth of the Mansoa River and is surrounded by palm groves. The population is mainly of the Pepel ethnic group. Fishing and palm wine production are important economic activities. The village has a small port and a primary school. Jofana is known for its traditional boat-building techniques. Proximity to the capital provides access to markets.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 1.500", "Entfernung nach Bissau: 10 km", "Anzahl der Fischerboote: 30", "Jährliche Palmweinproduktion: 10.000 Liter", "Anzahl der Schulen: 1", "Länge des Hafens: 15 Meter"],
+      hu: ["Lakosság: kb. 1.500 fő", "Távolság Bissautól: 10 km", "Halászhajók száma: 30", "Éves pálmabor-termelés: 10.000 liter", "Iskolák száma: 1", "Kikötő hossza: 15 méter"],
+      ro: ["Populație: aproximativ 1.500", "Distanța până la Bissau: 10 km", "Număr de bărci de pescuit: 30", "Producția anuală de vin de palmier: 10.000 de litri", "Număr de școli: 1", "Lungimea portului: 15 metri"],
+      en: ["Population: approximately 1,500", "Distance to Bissau: 10 km", "Number of fishing boats: 30", "Annual palm wine production: 10,000 liters", "Number of schools: 1", "Length of port: 15 meters"],
+    },
   },
   {
     id: "guineabissau-pancudo-cities-v2",
     type: "city",
     name: { de: "Pancudo", hu: "Pancudo", ro: "Pancudo", en: "Pancudo" },
-    coordinates: { lat: 12.1667, lng: -14.65 },
+    coords: [-14.65, 12.1667],
     description: {
       de: "Pancudo liegt in der Provinz Oio. Die Stadt profitiert von der lokalen Landwirtschaft und der Nähe zu Handelsrouten.",
       hu: "Pancudo az Oio tartományban található. A város a helyi mezőgazdaságból és a kereskedelmi utak közelségéből profitál.",
@@ -2753,12 +2837,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Oio province", "Benefits from trade routes", "Agriculturally oriented", "Rural settlement"],
     },
     imageHint: "scenic rural road guinea bissau",
+    descriptionAdvanced: {
+      de: "Pancudo ist ein Dorf in der Region Cacheu im Nordwesten Guinea-Bissaus, nahe dem gleichnamigen Fluss. Es ist von Reisfeldern und Cashewplantagen umgeben. Die Bevölkerung setzt sich aus verschiedenen Ethnien zusammen, vor allem Balanta und Manjaco. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht. Das Dorf hat eine Grundschule und ein Gesundheitszentrum. Pancudo ist bekannt für sein traditionelles Handwerk, insbesondere Korbflechterei. Die Gemeinde ist teilweise von der Selbstversorgung geprägt.",
+      hu: "Pancudo egy falu Guinea-Bissau északnyugati Cacheu régiójában, a Cacheu folyó közelében. Rizsföldek és kesudió-ültetvények veszik körül. A lakosság különböző etnikumokból áll, főleg balanta és manjaco. A gazdaság a mezőgazdaságra és állattenyésztésre épül. A faluban van egy általános iskola és egy egészségügyi központ. Pancudo híres hagyományos kézművességéről, különösen a kosárfonásról. A közösség részben önellátó.",
+      ro: "Pancudo este un sat în regiunea Cacheu din nord-vestul Guineei-Bissau, aproape de râul Cacheu. Este înconjurat de orezării și plantații de caju. Populația este formată din diverse etnii, în special Balanta și Manjaco. Economia se bazează pe agricultură și creșterea animalelor. Satul are o școală primară și un centru de sănătate. Pancudo este cunoscut pentru meșteșugurile tradiționale, în special împletiturile de coșuri. Comunitatea este parțial autosuficientă.",
+      en: "Pancudo is a village in the Cacheu region of northwestern Guinea-Bissau, near the Cacheu River. It is surrounded by rice paddies and cashew plantations. The population consists of various ethnic groups, mainly Balanta and Manjaco. The economy is based on agriculture and livestock. The village has a primary school and a health center. Pancudo is known for its traditional handicrafts, especially basket weaving. The community is partly self-sufficient.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 1.100", "Fläche des Dorfes: 5 km²", "Anzahl der Cashewbäume: über 5.000", "Entfernung zur Stadt Cacheu: 20 km", "Jährliche Reisproduktion: 300 Tonnen", "Anzahl der Gesundheitszentren: 1"],
+      hu: ["Lakosság: kb. 1.100 fő", "Falu területe: 5 km²", "Kesudiófák száma: több mint 5.000", "Távolság Cacheu várostól: 20 km", "Éves rizstermelés: 300 tonna", "Egészségügyi központok száma: 1"],
+      ro: ["Populație: aproximativ 1.100", "Suprafața satului: 5 km²", "Număr de pomi de caju: peste 5.000", "Distanța până la orașul Cacheu: 20 km", "Producția anuală de orez: 300 de tone", "Număr de centre de sănătate: 1"],
+      en: ["Population: approximately 1,100", "Village area: 5 km²", "Number of cashew trees: over 5,000", "Distance to Cacheu town: 20 km", "Annual rice production: 300 tons", "Number of health centers: 1"],
+    },
   },
   {
     id: "guineabissau-tambe-cities-v2",
     type: "city",
     name: { de: "També", hu: "També", ro: "També", en: "També" },
-    coordinates: { lat: 11.8333, lng: -15.2667 },
+    coords: [-15.2667, 11.8333],
     description: {
       de: "També befindet sich in der Region Quinara. Der Ort ist bekannt für seine traditionellen Märkte und den lokalen Handel.",
       hu: "També a Quinara régióban található. A település hagyományos piacairól és helyi kereskedelméről ismert.",
@@ -2772,12 +2868,24 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Quinara region", "Traditional markets", "Local trade hub", "Rural setting"],
     },
     imageHint: "traditional market guinea bissau",
+    descriptionAdvanced: {
+      de: "També ist ein Dorf in der Region Gabu im Osten Guinea-Bissaus, nahe der Grenze zu Guinea. Es liegt in der Savannenzone und ist von Akazienbäumen geprägt. Die Bevölkerung gehört überwiegend der Ethnie der Fulbe an, die traditionell Viehhaltung betreiben. Das Dorf hat eine Moschee und eine Grundschule. Die Wirtschaft stützt sich auf Viehzucht und den Anbau von Hirse. També ist ein wichtiger Umschlagplatz für Vieh auf lokalen Märkten. Die Region ist von saisonaler Trockenheit betroffen.",
+      hu: "També egy falu Guinea-Bissau keleti Gabu régiójában, a guineai határ közelében. A szavanna övezetben fekszik, és akácfák jellemzik. A lakosság túlnyomórészt a fulbe etnikumhoz tartozik, akik hagyományosan állattenyésztéssel foglalkoznak. A faluban van egy mecset és egy általános iskola. A gazdaság az állattartásra és a köles termesztésére épül. També fontos állatkereskedelmi központ a helyi piacokon. A régiót szezonális szárazság sújtja.",
+      ro: "També este un sat în regiunea Gabu din estul Guineei-Bissau, aproape de granița cu Guineea. Este situat în zona de savană și este caracterizat de arbori de salcâm. Populația aparține în principal etniei Fulbe, care se ocupă în mod tradițional cu creșterea animalelor. Satul are o moschee și o școală primară. Economia se bazează pe creșterea animalelor și cultivarea meiului. També este un centru important de tranzacționare a vitelor pe piețele locale. Regiunea este afectată de secetă sezonieră.",
+      en: "També is a village in the Gabu region of eastern Guinea-Bissau, near the border with Guinea. It lies in the savanna zone and is characterized by acacia trees. The population mostly belongs to the Fulbe ethnic group, who traditionally practice cattle herding. The village has a mosque and a primary school. The economy relies on livestock farming and millet cultivation. També is an important livestock trading hub on local markets. The region experiences seasonal drought.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: etwa 700", "Entfernung zur Grenze Guinea: 10 km", "Anzahl der Rinder: über 2.000", "Jährliche Hirseproduktion: 100 Tonnen", "Anzahl der Moscheen: 1", "Durchschnittlicher Niederschlag: 1.000 mm pro Jahr"],
+      hu: ["Lakosság: kb. 700 fő", "Távolság a guineai határtól: 10 km", "Szarvasmarhák száma: több mint 2.000", "Éves kölestermelés: 100 tonna", "Mecsetek száma: 1", "Átlagos csapadékmennyiség: 1.000 mm évente"],
+      ro: ["Populație: aproximativ 700", "Distanța până la granița cu Guineea: 10 km", "Număr de vite: peste 2.000", "Producția anuală de mei: 100 de tone", "Număr de moschei: 1", "Precipitații medii: 1.000 mm pe an"],
+      en: ["Population: approximately 700", "Distance to Guinea border: 10 km", "Number of cattle: over 2,000", "Annual millet production: 100 tons", "Number of mosques: 1", "Average rainfall: 1,000 mm per year"],
+    },
   },
   {
     id: "guineabissau-bissau-velho-cities-v2",
     type: "city",
     name: { de: "Bissau Velho", hu: "Bissau Velho", ro: "Bissau Velho", en: "Bissau Velho" },
-    coordinates: { lat: 11.85, lng: -15.5833 },
+    coords: [-15.5833, 11.85],
     description: {
       de: "Bissau Velho ist ein Stadtteil innerhalb des Großraums der Hauptstadt Bissau. Es ist ein historisch gewachsenes Viertel.",
       hu: "Bissau Velho egy városrész Bissau főváros agglomerációján belül. Ez egy történelmileg kialakult negyed.",
@@ -2791,6 +2899,18 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       en: ["Part of Bissau", "Historic quarter", "Urban center", "Good infrastructure"],
     },
     imageHint: "old quarter of bissau city",
+    descriptionAdvanced: {
+      de: "Bissau Velho ist der historische Kern der Hauptstadt Bissau in Guinea-Bissau. Das Viertel liegt auf einer Halbinsel am Fluss Geba und beherbergt viele Gebäude aus der portugiesischen Kolonialzeit. Es ist bekannt für seine engen Gassen und den portugiesischen Baustil. Die Bevölkerung ist ethnisch gemischt. Bissau Velho ist ein Zentrum für Handel und Verwaltung. Sehenswürdigkeiten sind das Präsidentenpalast und der Hafen. Das Viertel leidet unter Vernachlässigung, aber es gibt Bemühungen zur Wiederbelebung.",
+      hu: "Bissau Velho Guinea-Bissau fővárosának, Bissau-nak a történelmi magja. A negyed egy félszigeten fekszik a Geba folyón, és számos portugál gyarmati korból származó épületnek ad otthont. Keskeny utcáiról és portugál építészeti stílusáról ismert. A lakosság etnikailag vegyes. Bissau Velho a kereskedelem és a közigazgatás központja. Látnivalók közé tartozik az Elnöki Palota és a kikötő. A negyed elhanyagoltságtól szenved, de vannak újjáélesztési erőfeszítések.",
+      ro: "Bissau Velho este nucleul istoric al capitalei Guineei-Bissau, Bissau. Cartierul este situat pe o peninsulă pe râul Geba și găzduiește multe clădiri din perioada colonială portugheză. Este cunoscut pentru străzile sale înguste și stilul arhitectural portughez. Populația este mixtă din punct de vedere etnic. Bissau Velho este un centru pentru comerț și administrație. Atracții includ Palatul Prezidențial și portul. Cartierul suferă de neglijare, dar există eforturi de revitalizare.",
+      en: "Bissau Velho is the historic core of the capital Bissau in Guinea-Bissau. The neighborhood lies on a peninsula on the Geba River and houses many buildings from the Portuguese colonial period. It is known for its narrow streets and Portuguese architectural style. The population is ethnically mixed. Bissau Velho is a center for trade and administration. Sights include the Presidential Palace and the port. The area suffers from neglect, but there are revitalization efforts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 0,5 km²", "Bevölkerung: etwa 3.000", "Anzahl der kolonialen Gebäude: über 50", "Höhe über dem Meeresspiegel: 5 Meter", "Gründung: 1687 als portugiesische Siedlung", "Anzahl der Kirchen aus der Kolonialzeit: 3"],
+      hu: ["Terület: 0,5 km²", "Lakosság: kb. 3.000 fő", "Gyarmati épületek száma: több mint 50", "Tengerszint feletti magasság: 5 méter", "Alapítás: 1687 portugál településként", "Gyarmati kori templomok száma: 3"],
+      ro: ["Suprafață: 0,5 km²", "Populație: aproximativ 3.000", "Număr de clădiri coloniale: peste 50", "Altitudine: 5 metri deasupra nivelului mării", "Întemeiere: 1687 ca așezare portugheză", "Număr de biserici din perioada colonială: 3"],
+      en: ["Area: 0.5 km²", "Population: approximately 3,000", "Number of colonial buildings: over 50", "Elevation: 5 meters above sea level", "Founded: 1687 as a Portuguese settlement", "Number of colonial-era churches: 3"],
+    },
   }
 ];
 

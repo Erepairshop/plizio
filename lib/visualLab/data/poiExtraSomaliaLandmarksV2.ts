@@ -1687,7 +1687,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-kismayo-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kismayo Museum", hu: "Kismáji Múzeum", ro: "Muzeul Kismayo", en: "Kismayo Museum" },
-    coordinates: { lat: -0.358, lng: 42.545 },
+    coords: [42.545, -0.358],
     description: {
       de: "Das Museum in Kismayo beherbergt historische Exponate der Region Jubaland. Es dokumentiert die lokale Geschichte und kulturelle Traditionen.",
       hu: "A Kismáji Múzeum a Jubaland régió történelmi tárgyait őrzi. Dokumentálja a helyi történelmet és a kulturális hagyományokat.",
@@ -1706,7 +1706,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-bosaso-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Bosaso Leuchtturm", hu: "Boosaaso világítótorony", ro: "Farul din Bosaso", en: "Bosaso Lighthouse" },
-    coordinates: { lat: 11.282, lng: 49.183 },
+    coords: [49.183, 11.282],
     description: {
       de: "Dieser Leuchtturm dient der Navigation am Golf von Aden bei Bosaso. Er ist ein markanter Orientierungspunkt an der nordöstlichen Küste.",
       hu: "Ez a világítótorony az Ádeni-öbölbeli hajózást segíti Boosaaso közelében. Jellegzetes tájékozódási pont az északkeleti partvidéken.",
@@ -1725,7 +1725,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-garowe-monument-peace-landmarks-v2",
     type: "monument",
     name: { de: "Garowe Friedensdenkmal", hu: "Garowei Béke-emlékmű", ro: "Monumentul Păcii din Garowe", en: "Garowe Peace Monument" },
-    coordinates: { lat: 8.411, lng: 48.483 },
+    coords: [48.483, 8.411],
     description: {
       de: "Das Denkmal in Garowe symbolisiert den regionalen Wunsch nach Stabilität. Es befindet sich im Zentrum der Stadt.",
       hu: "A garowei emlékmű a régió stabilitás iránti vágyát jelképezi. A város központjában található.",
@@ -1744,7 +1744,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-barawe-mosque-ancient-landmarks-v2",
     type: "church",
     name: { de: "Barawe Altstadt Moschee", hu: "Barawe óvárosi mecset", ro: "Moscheea din orașul vechi Barawe", en: "Barawe Old Town Mosque" },
-    coordinates: { lat: 1.11, lng: 44.02 },
+    coords: [44.02, 1.11],
     description: {
       de: "Diese historische Moschee in Barawe stammt aus der Zeit der frühen Handelsbeziehungen. Sie spiegelt die Swahili-Architektur wider.",
       hu: "Ez a barawei történelmi mecset a korai kereskedelmi kapcsolatok idejéből származik. A szuahéli építészetet tükrözi.",
@@ -1763,7 +1763,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-baidoa-clock-tower-landmarks-v2",
     type: "tower",
     name: { de: "Baidoa Uhrturm", hu: "Baidoai óratorony", ro: "Turnul cu ceas din Baidoa", en: "Baidoa Clock Tower" },
-    coordinates: { lat: 3.118, lng: 43.655 },
+    coords: [43.655, 3.118],
     description: {
       de: "Der Uhrturm in Baidoa ist ein zentrales Bauwerk der Stadt. Er dient als lokaler Treffpunkt und Orientierungspunkt.",
       hu: "A baidoai óratorony a város központi építménye. Helyi találkozóhelyként és tájékozódási pontként szolgál.",
@@ -1782,7 +1782,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-mogadishu-library-national-landmarks-v2",
     type: "museum",
     name: { de: "Mogadischu Nationalbibliothek", hu: "Mogadishu Nemzeti Könyvtár", ro: "Biblioteca Națională din Mogadishu", en: "Mogadishu National Library" },
-    coordinates: { lat: 2.041, lng: 45.334 },
+    coords: [45.334, 2.041],
     description: {
       de: "Die Nationalbibliothek in Mogadischu bewahrt somalische Literatur und historische Dokumente. Sie ist ein Zentrum für Forschung.",
       hu: "A mogadishui nemzeti könyvtár szomáliai irodalmat és történelmi dokumentumokat őriz. A kutatás központja.",
@@ -1801,7 +1801,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-borama-university-campus-landmarks-v2",
     type: "university",
     name: { de: "Borama Universitätsgelände", hu: "Boramai Egyetemi Campus", ro: "Campusul Universitar Borama", en: "Borama University Campus" },
-    coordinates: { lat: 9.93, lng: 43.19 },
+    coords: [43.19, 9.93],
     description: {
       de: "Der Campus der Amoud Universität in Borama ist ein bedeutendes Bildungszentrum. Die Anlage umfasst zahlreiche Fakultätsgebäude.",
       hu: "A boramai Amoud Egyetem campusa jelentős oktatási központ. A létesítmény számos kari épületet foglal magában.",
@@ -1820,7 +1820,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-marka-old-port-gate-landmarks-v2",
     type: "monument",
     name: { de: "Marka Hafentor", hu: "Markai kikötőkapu", ro: "Poarta portului din Marka", en: "Marka Port Gate" },
-    coordinates: { lat: 1.705, lng: 44.771 },
+    coords: [44.771, 1.705],
     description: {
       de: "Das alte Hafentor in Marka zeugt von der Bedeutung der Stadt als Handelshafen. Es ist ein bauliches Relikt der Kolonialzeit.",
       hu: "A régi markai kikötőkapu a város kereskedelmi kikötőként betöltött jelentőségéről tanúskodik. A gyarmati kor építészeti emléke.",
@@ -1839,7 +1839,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-galkayo-hospital-landmark-landmarks-v2",
     type: "landmark",
     name: { de: "Galkayo Zentralkrankenhaus", hu: "Galkayo Központi Kórház", ro: "Spitalul Central din Galkayo", en: "Galkayo Central Hospital" },
-    coordinates: { lat: 6.76, lng: 47.42 },
+    coords: [47.42, 6.76],
     description: {
       de: "Das Zentralkrankenhaus in Galkayo ist eine wichtige Gesundheitseinrichtung der Region Mudug. Es bietet medizinische Grundversorgung.",
       hu: "A galkayói központi kórház a Mudug régió fontos egészségügyi intézménye. Alapvető orvosi ellátást nyújt.",
@@ -1858,7 +1858,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-jowhar-sugar-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Jowhar Fabriktor", hu: "Jowhari gyárkapu", ro: "Poarta fabricii din Jowhar", en: "Jowhar Factory Gate" },
-    coordinates: { lat: 2.78, lng: 45.5 },
+    coords: [45.5, 2.78],
     description: {
       de: "Das markante Fabriktor steht für den industriellen Hintergrund von Jowhar. Die Stadt ist bekannt für ihre landwirtschaftliche Verarbeitung.",
       hu: "A jellegzetes gyárkapu Jowhar ipari hátterét jelképezi. A város a mezőgazdasági feldolgozásáról ismert.",
@@ -1877,7 +1877,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-erigavo-monument-landmarks-v2",
     type: "monument",
     name: { de: "Erigavo Stadtdenkmal", hu: "Erigavói városi emlékmű", ro: "Monumentul orașului Erigavo", en: "Erigavo City Monument" },
-    coordinates: { lat: 10.63, lng: 47.37 },
+    coords: [47.37, 10.63],
     description: {
       de: "Dieses Denkmal im Zentrum von Erigavo repräsentiert die lokale Identität. Es ist ein zentraler Treffpunkt der Einwohner.",
       hu: "Ez az emlékmű Erigavo központjában a helyi identitást képviseli. A lakosok központi találkozóhelye.",
@@ -1896,7 +1896,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-las-anod-library-landmarks-v2",
     type: "museum",
     name: { de: "Las Anod Bibliothek", hu: "Las Anodi Könyvtár", ro: "Biblioteca din Las Anod", en: "Las Anod Library" },
-    coordinates: { lat: 8.47, lng: 47.35 },
+    coords: [47.35, 8.47],
     description: {
       de: "Die Bibliothek in Las Anod dient der Bildung der lokalen Jugend. Sie beherbergt eine Sammlung von Fachbüchern.",
       hu: "A las anodi könyvtár a helyi fiatalok oktatását szolgálja. Szakkönyvek gyűjteményét őrzi.",
@@ -1915,7 +1915,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-xuddur-mosque-landmarks-v2",
     type: "church",
     name: { de: "Xuddur Zentralmoschee", hu: "Xudduri központi mecset", ro: "Marea Moschee din Xuddur", en: "Xuddur Central Mosque" },
-    coordinates: { lat: 4.12, lng: 43.89 },
+    coords: [43.89, 4.12],
     description: {
       de: "Die Zentralmoschee in Xuddur ist das religiöse Zentrum der Stadt. Sie dient als Ort für Gebete und Versammlungen.",
       hu: "A xudduri központi mecset a város vallási központja. Az imák és összejövetelek helyszíne.",
@@ -1934,7 +1934,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-qardho-monument-landmarks-v2",
     type: "monument",
     name: { de: "Qardho Stadtsäule", hu: "Qardhói várososzlop", ro: "Coloana orașului Qardho", en: "Qardho City Column" },
-    coordinates: { lat: 9.5, lng: 49.09 },
+    coords: [49.09, 9.5],
     description: {
       de: "Die Stadtsäule in Qardho ist ein Wahrzeichen an einer der Hauptkreuzungen. Sie dient der städtischen Orientierung.",
       hu: "A qardhói várososzlop egy fontos kereszteződésnél álló látnivaló. A városi tájékozódást segíti.",
@@ -1953,7 +1953,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-afgooye-stone-arch-landmarks-v2",
     type: "landmark",
     name: { de: "Afgooye Steinbogen", hu: "Afgooye-i kőív", ro: "Arcada de piatră din Afgooye", en: "Afgooye Stone Arch" },
-    coordinates: { lat: 2.13, lng: 45.12 },
+    coords: [45.12, 2.13],
     description: {
       de: "Der Steinbogen in Afgooye ist ein Relikt historischer Baukunst. Er markiert den Eingang zu einem traditionellen Viertel.",
       hu: "Az afgooye-i kőív a történelmi építészet emléke. Egy hagyományos városrész bejáratát jelöli.",
@@ -1972,7 +1972,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-jilib-water-tower-landmarks-v2",
     type: "tower",
     name: { de: "Jilib Wasserturm", hu: "Jilibi víztorony", ro: "Turnul de apă din Jilib", en: "Jilib Water Tower" },
-    coordinates: { lat: 0.51, lng: 42.75 },
+    coords: [42.75, 0.51],
     description: {
       de: "Der Wasserturm in Jilib ist eine zentrale Infrastruktureinrichtung. Er prägt das Stadtbild der Region.",
       hu: "A jilibi víztorony központi infrastrukturális létesítmény. Meghatározza a régió városképét.",
@@ -1991,7 +1991,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-balcad-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Balcad Brücke", hu: "Balcadi híd", ro: "Podul din Balcad", en: "Balcad Bridge" },
-    coordinates: { lat: 2.36, lng: 45.41 },
+    coords: [45.41, 2.36],
     description: {
       de: "Die Brücke in Balcad überquert einen wichtigen Wasserlauf. Sie ist entscheidend für den lokalen Transport.",
       hu: "A balcadi híd egy fontos vízfolyást ível át. Döntő fontosságú a helyi közlekedés számára.",
@@ -2010,7 +2010,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-luuq-trading-gate-landmarks-v2",
     type: "landmark",
     name: { de: "Luuq Handeltor", hu: "Luuqi kereskedelmi kapu", ro: "Poarta comercială din Luuq", en: "Luuq Trading Gate" },
-    coordinates: { lat: 3.79, lng: 42.54 },
+    coords: [42.54, 3.79],
     description: {
       de: "Das Handeltor in Luuq ist ein historischer Zugangspunkt. Es erinnert an die Ära der Karawanenrouten.",
       hu: "A luuqi kereskedelmi kapu egy történelmi belépési pont. A karavánutak korát idézi.",
@@ -2029,7 +2029,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-zeila-mosque-ancient-landmarks-v2",
     type: "church",
     name: { de: "Zeila Historische Moschee", hu: "Zeila történelmi mecset", ro: "Moscheea istorică din Zeila", en: "Zeila Historic Mosque" },
-    coordinates: { lat: 11.35, lng: 43.47 },
+    coords: [43.47, 11.35],
     description: {
       de: "Diese Moschee in Zeila ist eine der ältesten in Somalia. Sie zeugt von der tiefen islamischen Geschichte an der Küste.",
       hu: "Ez a zeilai mecset az egyik legrégebbi Szomáliában. A tengerparti mély iszlám történelemről tanúskodik.",
@@ -2048,7 +2048,7 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
     id: "somalia-dhusamareb-monument-landmarks-v2",
     type: "monument",
     name: { de: "Dhusamareb Stadtdenkmal", hu: "Dhusamarebi városi emlékmű", ro: "Monumentul orașului Dhusamareb", en: "Dhusamareb City Monument" },
-    coordinates: { lat: 5.53, lng: 46.38 },
+    coords: [46.38, 5.53],
     description: {
       de: "Das Denkmal in Dhusamareb ist ein markantes Bauwerk im Zentrum. Es repräsentiert die lokale Gemeinschaft.",
       hu: "A dhusamarebi emlékmű a központ meghatározó építménye. A helyi közösséget reprezentálja.",

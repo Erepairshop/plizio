@@ -1802,7 +1802,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-jalle-cities-v2",
     type: "city",
     name: { de: "Jalle", hu: "Jalle", ro: "Jalle", en: "Jalle" },
-    coordinates: { lat: 6.7865, lng: 31.6212 },
+    coords: [31.6212, 6.7865],
     description: {
       de: "Jalle ist eine Siedlung im Bundesstaat Jonglei. Die lokale Wirtschaft basiert primär auf Viehzucht und subsistenzorientierter Landwirtschaft.",
       hu: "Jalle egy település Jonglei államban. A helyi gazdaság alapja az állattenyésztés és az önellátó mezőgazdaság.",
@@ -1821,7 +1821,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-maban-cities-v2",
     type: "city",
     name: { de: "Bunj", hu: "Bunj", ro: "Bunj", en: "Bunj" },
-    coordinates: { lat: 10.2833, lng: 33.2 },
+    coords: [33.2, 10.2833],
     description: {
       de: "Bunj ist das Verwaltungszentrum des Maban County im Bundesstaat Upper Nile. Der Ort dient als Versorgungszentrum für die Region.",
       hu: "Bunj Maban megye közigazgatási központja Upper Nile államban. A település a régió ellátási központjaként szolgál.",
@@ -1840,7 +1840,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-panyikang-cities-v2",
     type: "city",
     name: { de: "Panyikang", hu: "Panyikang", ro: "Panyikang", en: "Panyikang" },
-    coordinates: { lat: 9.45, lng: 31.8667 },
+    coords: [31.8667, 9.45],
     description: {
       de: "Panyikang liegt im Bundesstaat Upper Nile nahe dem Weißen Nil. Die Siedlung ist durch ihre Nähe zu den Flussauen geprägt.",
       hu: "Panyikang Upper Nile államban található, a Fehér-Nílus közelében. A települést a folyó menti ártéri környezet határozza meg.",
@@ -1859,7 +1859,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-longochuk-cities-v2",
     type: "city",
     name: { de: "Longochuk", hu: "Longochuk", ro: "Longochuk", en: "Longochuk" },
-    coordinates: { lat: 9.85, lng: 33.7833 },
+    coords: [33.7833, 9.85],
     description: {
       de: "Longochuk ist ein Ort im Bundesstaat Upper Nile an der Grenze zu Äthiopien. Die Region ist primär agrarisch strukturiert.",
       hu: "Longochuk egy település Upper Nile államban, az etióp határ közelében. A régió gazdasága elsősorban mezőgazdasági jellegű.",
@@ -1878,7 +1878,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-wulu-cities-v2",
     type: "city",
     name: { de: "Wulu", hu: "Wulu", ro: "Wulu", en: "Wulu" },
-    coordinates: { lat: 6.85, lng: 29.8333 },
+    coords: [29.8333, 6.85],
     description: {
       de: "Wulu ist eine Stadt im Bundesstaat Lakes. Der Ort liegt in einer waldreichen Gegend und ist ein lokaler Marktstandort.",
       hu: "Wulu egy város Lakes államban. A település erdős területen fekszik, és helyi piaci központként szolgál.",
@@ -1897,7 +1897,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-abyei-cities-v2",
     type: "city",
     name: { de: "Abyei", hu: "Abyei", ro: "Abyei", en: "Abyei" },
-    coordinates: { lat: 9.6386, lng: 28.5086 },
+    coords: [28.5086, 9.6386],
     description: {
       de: "Abyei ist der Hauptort einer Sonderverwaltungsregion. Der Ort ist historisch bedeutend für die Viehzucht und Grenzlandkultur.",
       hu: "Abyei egy különleges igazgatású régió központja. A település történelmileg jelentős az állattenyésztés és a határvidéki kultúra szempontjából.",
@@ -1916,7 +1916,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-pathai-cities-v2",
     type: "city",
     name: { de: "Pathai", hu: "Pathai", ro: "Pathai", en: "Pathai" },
-    coordinates: { lat: 8.05, lng: 32.2 },
+    coords: [32.2, 8.05],
     description: {
       de: "Pathai ist eine Siedlung im Bundesstaat Jonglei. Der Ort dient als lokales Verwaltungszentrum für die umliegenden ländlichen Gemeinden.",
       hu: "Pathai egy település Jonglei államban. A helység a környező vidéki közösségek helyi közigazgatási központjaként szolgál.",
@@ -1935,7 +1935,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-akobo-new-cities-v2",
     type: "city",
     name: { de: "Akobo Port", hu: "Akobo Port", ro: "Akobo Port", en: "Akobo Port" },
-    coordinates: { lat: 7.7833, lng: 33.0 },
+    coords: [33.0, 7.7833],
     description: {
       de: "Akobo Port ist eine Siedlung am Akobo-Fluss im Bundesstaat Jonglei. Die Lage am Fluss ist für den lokalen Handel essenziell.",
       hu: "Akobo Port egy település az Akobo folyó mentén, Jonglei államban. A folyóparti elhelyezkedés alapvető a helyi kereskedelem számára.",
@@ -1954,7 +1954,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     id: "southsudan-ler-cities-v2",
     type: "city",
     name: { de: "Ler", hu: "Ler", ro: "Ler", en: "Ler" },
-    coordinates: { lat: 8.35, lng: 30.15 },
+    coords: [30.15, 8.35],
     description: {
       de: "Ler ist eine Ortschaft im Bundesstaat Unity. Die Gegend ist für ihre vielfältigen ökosysteme nahe der Sudd-Sümpfe bekannt.",
       hu: "Ler egy település Unity államban. A terület a Sudd-mocsarak közeli változatos ökoszisztémáiról ismert.",

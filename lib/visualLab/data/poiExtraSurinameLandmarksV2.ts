@@ -358,7 +358,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-waaggebouw-landmarks-v2",
     type: "landmark",
     name: { de: "Waaggebouw", hu: "Waaggebouw", ro: "Waaggebouw", en: "Waaggebouw" },
-    coordinates: { lat: 5.8309, lng: -55.1555 },
+    coords: [-55.1555, 5.8309],
     description: {
       de: "Das Waaggebouw ist ein historisches Gebäude in Paramaribo aus dem Jahr 1821. Es diente früher als Waagehaus für den Handel.",
       hu: "A Waaggebouw egy történelmi épület Paramaribóban, 1821-ből. Régen mérlegházként szolgált a kereskedelemhez.",
@@ -377,7 +377,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-kathedraal-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kathedralenmuseum", hu: "Székesegyházi Múzeum", ro: "Muzeul Catedralei", en: "Cathedral Museum" },
-    coordinates: { lat: 5.8315, lng: -55.1528 },
+    coords: [-55.1528, 5.8315],
     description: {
       de: "Ein Museum in der Nähe der Peter-und-Paulus-Kathedrale in Paramaribo. Es beherbergt Exponate zur katholischen Geschichte Surinames.",
       hu: "Múzeum a paramaribói Szent Péter és Pál székesegyház közelében. A suriname-i katolikus történelem tárgyait őrzi.",
@@ -396,7 +396,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-surinaams-museum-landmarks-v2",
     type: "museum",
     name: { de: "Surinaams Museum", hu: "Suriname Múzeum", ro: "Muzeul Surinam", en: "Suriname Museum" },
-    coordinates: { lat: 5.8425, lng: -55.1782 },
+    coords: [-55.1782, 5.8425],
     description: {
       de: "Das Surinaams Museum befindet sich auf dem Gelände von Fort Zeelandia. Es dokumentiert die Geschichte und Kultur des Landes.",
       hu: "A Suriname Múzeum a Fort Zeelandia területén található. Az ország történelmét és kultúráját dokumentálja.",
@@ -415,7 +415,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-hervormde-kerk-landmarks-v2",
     type: "church",
     name: { de: "Reformierte Kirche Paramaribo", hu: "Paramaribói Református Templom", ro: "Biserica Reformată din Paramaribo", en: "Reformist Church Paramaribo" },
-    coordinates: { lat: 5.8304, lng: -55.1581 },
+    coords: [-55.1581, 5.8304],
     description: {
       de: "Eine historische Backsteinkirche aus dem Jahr 1835. Sie ist ein markantes Bauwerk im Zentrum von Paramaribo.",
       hu: "Egy 1835-ből származó történelmi téglaépítésű templom. Jellegzetes építmény Paramaribo központjában.",
@@ -434,7 +434,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-tucanana-monument-landmarks-v2",
     type: "monument",
     name: { de: "Tucanana-Denkmal", hu: "Tucanana-emlékmű", ro: "Monumentul Tucanana", en: "Tucanana Monument" },
-    coordinates: { lat: 5.8285, lng: -55.1625 },
+    coords: [-55.1625, 5.8285],
     description: {
       de: "Ein moderneres Denkmal in Paramaribo. Es ehrt die indigenen Wurzeln und die Geschichte der ersten Bewohner des Landes.",
       hu: "Egy modernebb emlékmű Paramaribóban. A bennszülött gyökereket és az ország első lakóinak történelmét tiszteli.",
@@ -453,7 +453,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-fort-sommelsdijk-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Sommelsdijk-Brücke", hu: "Sommelsdijk-híd", ro: "Podul Sommelsdijk", en: "Sommelsdijk Bridge" },
-    coordinates: { lat: 5.8612, lng: -55.0935 },
+    coords: [-55.0935, 5.8612],
     description: {
       de: "Eine Brücke über einen Seitenarm des Commewijne-Flusses bei Nieuw Amsterdam. Sie verbindet lokale historische Stätten.",
       hu: "Híd a Commewijne folyó egyik mellékága felett Nieuw Amsterdam közelében. Összeköti a helyi történelmi helyszíneket.",
@@ -472,7 +472,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-hervormde-pastorie-landmarks-v2",
     type: "landmark",
     name: { de: "Reformiertes Pfarrhaus", hu: "Református Parókia", ro: "Casa Parohială Reformată", en: "Reformist Parsonage" },
-    coordinates: { lat: 5.8306, lng: -55.1583 },
+    coords: [-55.1583, 5.8306],
     description: {
       de: "Ein historisches Gebäude neben der reformierten Kirche in Paramaribo. Es stammt aus dem 19. Jahrhundert.",
       hu: "Történelmi épület a paramaribói református templom mellett. A 19. századból származik.",
@@ -491,7 +491,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-stadstuin-paramaribo-landmarks-v2",
     type: "park",
     name: { de: "Stadtgarten Paramaribo", hu: "Paramaribói Városkert", ro: "Grădina Urbană Paramaribo", en: "Paramaribo City Garden" },
-    coordinates: { lat: 5.8322, lng: -55.1552 },
+    coords: [-55.1552, 5.8322],
     description: {
       de: "Eine grüne Oase im Herzen von Paramaribo. Der Garten bietet einen ruhigen Rückzugsort in der Stadt.",
       hu: "Zöld oázis Paramaribo szívében. A kert csendes menedéket nyújt a városban.",
@@ -510,7 +510,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-politie-kantoor-landmarks-v2",
     type: "landmark",
     name: { de: "Historisches Polizeigebäude", hu: "Történelmi rendőrségi épület", ro: "Clădirea istorică a poliției", en: "Historic Police Building" },
-    coordinates: { lat: 5.8302, lng: -55.1548 },
+    coords: [-55.1548, 5.8302],
     description: {
       de: "Ein denkmalgeschütztes Gebäude in Paramaribo, das historisch als Polizeistation genutzt wurde.",
       hu: "Műemlék épület Paramaribóban, amelyet történelmileg rendőrőrsként használtak.",
@@ -529,7 +529,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-oude-stadsbibliotheek-landmarks-v2",
     type: "museum",
     name: { de: "Alte Stadtbibliothek", hu: "Régi Városi Könyvtár", ro: "Vechea Bibliotecă Urbană", en: "Old City Library" },
-    coordinates: { lat: 5.8325, lng: -55.1535 },
+    coords: [-55.1535, 5.8325],
     description: {
       de: "Ein Gebäude im Zentrum von Paramaribo, das früher als öffentliche Bibliothek diente und nun kulturelle Zwecke erfüllt.",
       hu: "Épület Paramaribo központjában, amely korábban közkönyvtárként szolgált, ma kulturális célokat szolgál.",
@@ -548,7 +548,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-hervormde-school-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemalige Reformierte Schule", hu: "Volt Református Iskola", ro: "Fosta Școală Reformată", en: "Former Reformist School" },
-    coordinates: { lat: 5.8308, lng: -55.1585 },
+    coords: [-55.1585, 5.8308],
     description: {
       de: "Ein historisches Schulgebäude in der Nähe der reformierten Kirche, das das Bildungswesen des 19. Jahrhunderts repräsentiert.",
       hu: "Történelmi iskolaépület a református templom közelében, amely a 19. századi oktatást képviseli.",
@@ -567,7 +567,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-nickerie-vuurtoren-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Nieuw Nickerie", hu: "Nieuw Nickerie világítótorony", ro: "Farul Nieuw Nickerie", en: "Nieuw Nickerie Lighthouse" },
-    coordinates: { lat: 5.9572, lng: -56.9891 },
+    coords: [-56.9891, 5.9572],
     description: {
       de: "Ein Leuchtturm an der Küste von Nieuw Nickerie. Er dient der Schifffahrt als Orientierungshilfe an der Mündung des Nickerie-Flusses.",
       hu: "Világítótorony Nieuw Nickerie partján. Orientációs pontként szolgál a hajózás számára a Nickerie folyó torkolatánál.",
@@ -586,7 +586,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-moengo-theater-landmarks-v2",
     type: "theater",
     name: { de: "Theater Moengo", hu: "Moengo Színház", ro: "Teatrul Moengo", en: "Moengo Theater" },
-    coordinates: { lat: 5.6135, lng: -54.3985 },
+    coords: [-54.3985, 5.6135],
     description: {
       de: "Ein kulturelles Zentrum und Theater in der Bergbaustadt Moengo. Es fördert lokale Kunst und Aufführungen.",
       hu: "Kulturális központ és színház Moengo bányászvárosban. Támogatja a helyi művészetet és előadásokat.",
@@ -605,7 +605,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-bauxite-monument-moengo-landmarks-v2",
     type: "monument",
     name: { de: "Bauxit-Denkmal Moengo", hu: "Bauxit-emlékmű Moengo", ro: "Monumentul Bauxitei Moengo", en: "Bauxite Monument Moengo" },
-    coordinates: { lat: 5.6152, lng: -54.3968 },
+    coords: [-54.3968, 5.6152],
     description: {
       de: "Ein Denkmal in Moengo, das an die Bedeutung des Bauxitabbaus für die wirtschaftliche Entwicklung der Region erinnert.",
       hu: "Emlékmű Moengóban, amely a bauxitbányászatnak a régió gazdasági fejlődésében betöltött jelentőségére emlékeztet.",
@@ -624,7 +624,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-marienburg-ruinen-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Mariënburg", hu: "Mariënburg romjai", ro: "Ruinele Mariënburg", en: "Ruins of Mariënburg" },
-    coordinates: { lat: 5.8645, lng: -55.0512 },
+    coords: [-55.0512, 5.8645],
     description: {
       de: "Die Überreste der ehemaligen Zuckerfabrik Mariënburg. Sie sind ein Zeugnis der kolonialen Plantagenwirtschaft.",
       hu: "A volt Mariënburg cukorgyár maradványai. A gyarmati ültetvénygazdálkodás tanúbizonyságai.",
@@ -643,7 +643,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-groningen-fort-landmarks-v2",
     type: "fort",
     name: { de: "Fort Groningen", hu: "Fort Groningen", ro: "Fort Groningen", en: "Fort Groningen" },
-    coordinates: { lat: 5.8055, lng: -55.4665 },
+    coords: [-55.4665, 5.8055],
     description: {
       de: "Ein historisches Fort in Groningen, Suriname. Es spielte eine Rolle bei der Verteidigung der Region entlang des Saramacca-Flusses.",
       hu: "Történelmi erőd Groningenben, Suriname-ban. Szerepe volt a Saramacca folyó menti régió védelmében.",
@@ -662,7 +662,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-hervormde-gebouw-landmarks-v2",
     type: "landmark",
     name: { de: "Reformiertes Gemeindehaus", hu: "Református Közösségi Ház", ro: "Centrul Comunitar Reformat", en: "Reformist Community Hall" },
-    coordinates: { lat: 5.8307, lng: -55.1588 },
+    coords: [-55.1588, 5.8307],
     description: {
       de: "Ein historisches Nebengebäude der reformierten Kirche in Paramaribo, das für gemeinschaftliche Zwecke genutzt wird.",
       hu: "Történelmi melléképület a református templom mellett Paramaribóban, amelyet közösségi célokra használnak.",
@@ -681,7 +681,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-bakhuys-basis-landmarks-v2",
     type: "landmark",
     name: { de: "Bakhuys-Basis", hu: "Bakhuys Bázis", ro: "Baza Bakhuys", en: "Bakhuys Base" },
-    coordinates: { lat: 4.1205, lng: -56.7325 },
+    coords: [-56.7325, 4.1205],
     description: {
       de: "Ein ehemaliger Erkundungsstandort im Bakhuys-Gebirge, der die geologische Erschließung des Hinterlandes dokumentiert.",
       hu: "Korábbi kutatási helyszín a Bakhuys-hegységben, amely az ország belsejének geológiai feltárását dokumentálja.",
@@ -700,7 +700,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-zanderij-vliegveld-historie-landmarks-v2",
     type: "landmark",
     name: { de: "Historisches Zanderij-Terminal", hu: "Történelmi Zanderij terminál", ro: "Terminalul istoric Zanderij", en: "Historic Zanderij Terminal" },
-    coordinates: { lat: 5.4532, lng: -55.1955 },
+    coords: [-55.1955, 5.4532],
     description: {
       de: "Das ursprüngliche Terminal des Flughafens Zanderij. Es steht für die Anfänge der Luftfahrtverbindung in Suriname.",
       hu: "A Zanderij repülőtér eredeti terminálja. Suriname légi közlekedési kapcsolatainak kezdetét jelképezi.",
@@ -719,7 +719,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-peperpot-brievenbus-landmarks-v2",
     type: "landmark",
     name: { de: "Historischer Briefkasten Peperpot", hu: "Történelmi Peperpot postaláda", ro: "Cutie poștală istorică Peperpot", en: "Historic Peperpot Mailbox" },
-    coordinates: { lat: 5.8085, lng: -55.1225 },
+    coords: [-55.1225, 5.8085],
     description: {
       de: "Ein alter Briefkasten auf der Plantage Peperpot. Er erinnert an die koloniale Postzustellung in dieser Region.",
       hu: "Régi postaláda a Peperpot ültetvényen. Emlékeztet a gyarmati postai kézbesítésre ebben a régióban.",
@@ -738,7 +738,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-brouwerij-poort-landmarks-v2",
     type: "landmark",
     name: { de: "Historisches Brauereitor", hu: "Történelmi Sörgyárkapu", ro: "Poarta istorică a berăriei", en: "Historic Brewery Gate" },
-    coordinates: { lat: 5.8288, lng: -55.1785 },
+    coords: [-55.1785, 5.8288],
     description: {
       de: "Das alte Eingangstor der surinamischen Brauerei in Paramaribo. Es zeugt von der frühen industriellen Präsenz.",
       hu: "A régi bejárati kapu a suriname-i sörgyárnál, Paramaribóban. A korai ipari jelenlét tanúja.",
@@ -757,7 +757,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-katwijk-brug-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke Katwijk", hu: "Katwijk híd", ro: "Podul Katwijk", en: "Katwijk Bridge" },
-    coordinates: { lat: 5.8552, lng: -55.0325 },
+    coords: [-55.0325, 5.8552],
     description: {
       de: "Eine Brücke bei der ehemaligen Plantage Katwijk. Sie ist ein Beispiel für die Infrastruktur der historischen Plantagenwirtschaft.",
       hu: "Híd a volt Katwijk ültetvény közelében. Példa a történelmi ültetvénygazdálkodás infrastruktúrájára.",
@@ -776,7 +776,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-suzanna-steig-landmarks-v2",
     type: "landmark",
     name: { de: "Steg Suzannas Daal", hu: "Suzannas Daal móló", ro: "Pontonul Suzannas Daal", en: "Suzannas Daal Pier" },
-    coordinates: { lat: 5.8455, lng: -55.0125 },
+    coords: [-55.0125, 5.8455],
     description: {
       de: "Ein alter Anlegesteg der ehemaligen Plantage Suzannas Daal. Er wurde für den Transport von Plantagenerzeugnissen genutzt.",
       hu: "Régi móló a volt Suzannas Daal ültetvényen. Az ültetvénytermékek szállítására használták.",
@@ -795,7 +795,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-margaretha-sluis-landmarks-v2",
     type: "landmark",
     name: { de: "Schleuse Margaretha", hu: "Margaretha zsilipe", ro: "Ecluza Margaretha", en: "Margaretha Sluice" },
-    coordinates: { lat: 5.8752, lng: -55.0685 },
+    coords: [-55.0685, 5.8752],
     description: {
       de: "Eine historische Schleuse bei der ehemaligen Plantage Margaretha. Sie diente der Wasserregulierung in den Plantagengebieten.",
       hu: "Történelmi zsilip a volt Margaretha ültetvényen. A vízszabályozást szolgálta az ültetvényterületeken.",
@@ -814,7 +814,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-laarwijk-steg-landmarks-v2",
     type: "landmark",
     name: { de: "Steg Laarwijk", hu: "Laarwijk móló", ro: "Pontonul Laarwijk", en: "Laarwijk Pier" },
-    coordinates: { lat: 5.7682, lng: -55.0845 },
+    coords: [-55.0845, 5.7682],
     description: {
       de: "Ein historischer Anlegesteg an der Plantage Laarwijk. Er ist ein Relikt des früheren Transports über den Fluss.",
       hu: "Történelmi móló a Laarwijk ültetvényen. A folyami szállítás korábbi relikviája.",
@@ -833,7 +833,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-rust-en-werk-sluis-landmarks-v2",
     type: "landmark",
     name: { de: "Schleuse Rust en Werk", hu: "Rust en Werk zsilipe", ro: "Ecluza Rust en Werk", en: "Rust en Werk Sluice" },
-    coordinates: { lat: 5.8785, lng: -55.0245 },
+    coords: [-55.0245, 5.8785],
     description: {
       de: "Eine historische Schleuse, die den Wasserzugang zur Plantage Rust en Werk kontrollierte.",
       hu: "Történelmi zsilip, amely ellenőrizte a víz hozzáférését a Rust en Werk ültetvényhez.",
@@ -852,7 +852,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-kroonenburg-steig-landmarks-v2",
     type: "landmark",
     name: { de: "Steg Kroonenburg", hu: "Kroonenburg móló", ro: "Pontonul Kroonenburg", en: "Kroonenburg Pier" },
-    coordinates: { lat: 5.8685, lng: -55.0745 },
+    coords: [-55.0745, 5.8685],
     description: {
       de: "Ein alter Anlegesteg, der einst der Plantage Kroonenburg als Verbindung zum Wasserweg diente.",
       hu: "Régi móló, amely egykor a Kroonenburg ültetvény összeköttetéseként szolgált a vízi úthoz.",
@@ -871,7 +871,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-alliance-sluis-landmarks-v2",
     type: "landmark",
     name: { de: "Schleuse Alliance", hu: "Alliance zsilipe", ro: "Ecluza Alliance", en: "Alliance Sluice" },
-    coordinates: { lat: 5.8855, lng: -54.9845 },
+    coords: [-54.9845, 5.8855],
     description: {
       de: "Eine historische Schleuse bei der Plantage Alliance. Sie ist Teil der Wasserinfrastruktur entlang der Küste.",
       hu: "Történelmi zsilip az Alliance ültetvény közelében. A part menti vízi infrastruktúra része.",
@@ -890,7 +890,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-ma-retraite-bunker-landmarks-v2",
     type: "landmark",
     name: { de: "Bunker Ma Retraite", hu: "Ma Retraite bunker", ro: "Buncărul Ma Retraite", en: "Ma Retraite Bunker" },
-    coordinates: { lat: 5.8522, lng: -55.1245 },
+    coords: [-55.1245, 5.8522],
     description: {
       de: "Ein Überrest militärischer Infrastruktur bei Ma Retraite, der die Verteidigungsgeschichte in der Nähe von Paramaribo beleuchtet.",
       hu: "Katonai infrastruktúra maradványa Ma Retraite közelében, amely megvilágítja a Paramaribo környéki védelmi történelmet.",
@@ -909,7 +909,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-tourtonne-sluis-landmarks-v2",
     type: "landmark",
     name: { de: "Schleuse Tourtonne", hu: "Tourtonne zsilipe", ro: "Ecluza Tourtonne", en: "Tourtonne Sluice" },
-    coordinates: { lat: 5.8585, lng: -55.1385 },
+    coords: [-55.1385, 5.8585],
     description: {
       de: "Eine historische Wasserbauanlage in Tourtonne, die zur Entwässerung der umliegenden Plantagenflächen diente.",
       hu: "Történelmi vízépítési létesítmény Tourtonne-ban, amely a környező ültetvényterületek vízelvezetését szolgálta.",
@@ -928,7 +928,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-zorg-en-hoop-bunker-landmarks-v2",
     type: "landmark",
     name: { de: "Bunker Zorg en Hoop", hu: "Zorg en Hoop bunker", ro: "Buncărul Zorg en Hoop", en: "Zorg en Hoop Bunker" },
-    coordinates: { lat: 5.8155, lng: -55.1885 },
+    coords: [-55.1885, 5.8155],
     description: {
       de: "Ein ehemaliger Bunker im Stadtteil Zorg en Hoop, der aus einer Zeit verstärkter militärischer Wachsamkeit stammt.",
       hu: "Volt bunker a Zorg en Hoop kerületben, amely a fokozott katonai éberség időszakából származik.",
@@ -947,7 +947,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-hazard-steig-landmarks-v2",
     type: "landmark",
     name: { de: "Steg Hazard", hu: "Hazard móló", ro: "Pontonul Hazard", en: "Hazard Pier" },
-    coordinates: { lat: 5.9252, lng: -57.0145 },
+    coords: [-57.0145, 5.9252],
     description: {
       de: "Ein alter Anlegesteg der ehemaligen Plantage Hazard im Westen Surinames.",
       hu: "Régi móló a volt Hazard ültetvényen, Suriname nyugati részén.",
@@ -966,7 +966,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-paranam-steig-landmarks-v2",
     type: "landmark",
     name: { de: "Steg Paranam", hu: "Paranam móló", ro: "Pontonul Paranam", en: "Paranam Pier" },
-    coordinates: { lat: 5.6655, lng: -55.0925 },
+    coords: [-55.0925, 5.6655],
     description: {
       de: "Ein ehemaliger Anlegesteg an der Suriname-Fluss-Verladestelle in Paranam.",
       hu: "Volt móló a Suriname folyó menti rakodóhelynél, Paranamban.",
@@ -985,7 +985,7 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
     id: "suriname-kamp-52-ruinen-landmarks-v2",
     type: "ruins",
     name: { de: "Ruinen von Kamp 52", hu: "Kamp 52 romjai", ro: "Ruinele Kamp 52", en: "Ruins of Camp 52" },
-    coordinates: { lat: 5.4855, lng: -55.1845 },
+    coords: [-55.1845, 5.4855],
     description: {
       de: "Die Überreste des Lagers 52, eines historischen Standorts, der im Zusammenhang mit der Arbeitsgeschichte in Suriname steht.",
       hu: "Az 52-es tábor maradványai, egy történelmi helyszín, amely összefüggésben áll Suriname munkatörténetével.",

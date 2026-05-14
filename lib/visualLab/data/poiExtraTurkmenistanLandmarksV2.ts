@@ -1046,7 +1046,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-broadcasting-center-landmarks-v2",
     type: "tower",
     name: { de: "Fernsehturm Turkmenistan", hu: "Türkmenisztáni műsorszóró központ", ro: "Centrul de radiodifuziune din Turkmenistan", en: "Turkmenistan Broadcasting Center" },
-    coordinates: { lat: 37.8631, lng: 58.2411 },
+    coords: [58.2411, 37.8631],
     description: {
       de: "Dieser 211 Meter hohe Turm steht auf einem Hügel des Kopet-Dag-Gebirges. Er besitzt eine markante sternförmige Struktur namens Stern von Oguz Khan.",
       hu: "Ez a 211 méter magas torony a Kopet-dag egyik dombján áll. Jellegzetessége a csillag alakú szerkezet, amelyet Oguz kán csillagának neveznek.",
@@ -1065,7 +1065,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-constitution-monument-landmarks-v2",
     type: "monument",
     name: { de: "Verfassungsdenkmal", hu: "Alkotmány-emlékmű", ro: "Monumentul Constituției", en: "Constitution Monument" },
-    coordinates: { lat: 37.8824, lng: 58.2528 },
+    coords: [58.2528, 37.8824],
     description: {
       de: "Das Verfassungsdenkmal in Aschgabat ist 185 Meter hoch und mit weißem Marmor verkleidet. Das Gebäude beherbergt ein Museum und Konferenzsäle.",
       hu: "Az asgábáti Alkotmány-emlékmű 185 méter magas, és fehér márvánnyal borított. Az épületben múzeum és konferenciatermek találhatók.",
@@ -1084,7 +1084,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-ruhnama-monument-landmarks-v2",
     type: "monument",
     name: { de: "Ruhnama-Denkmal", hu: "Ruhnama-emlékmű", ro: "Monumentul Ruhnama", en: "Ruhnama Monument" },
-    coordinates: { lat: 37.8931, lng: 58.3392 },
+    coords: [58.3392, 37.8931],
     description: {
       de: "Das Denkmal stellt eine riesige Kopie des Buches Ruhnama dar, das vom ehemaligen Präsidenten verfasst wurde. Es steht im Unabhängigkeitspark von Aschgabat.",
       hu: "Az emlékmű a volt elnök által írt Ruhnama könyv óriási másolatát ábrázolja. Az asgábáti Függetlenségi parkban található.",
@@ -1103,7 +1103,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-health-path-landmarks-v2",
     type: "landmark",
     name: { de: "Gesundheitspfad Serdar", hu: "Serdar egészségút", ro: "Calea Sănătății Serdar", en: "Serdar Health Path" },
-    coordinates: { lat: 37.8582, lng: 58.3055 },
+    coords: [58.3055, 37.8582],
     description: {
       de: "Dies ist ein betonierter Treppenweg in den Ausläufern des Kopet-Dag-Gebirges. Er wurde gebaut, um die körperliche Fitness der Bürger zu fördern.",
       hu: "Ez egy betonozott lépcsősor a Kopet-dag lábánál. Az állampolgárok fizikai erőnlétének javítására épült.",
@@ -1122,7 +1122,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-oguzhan-palace-landmarks-v2",
     type: "palace",
     name: { de: "Oguzhan-Palast", hu: "Oguzhan-palota", ro: "Palatul Oguzhan", en: "Oguzhan Presidential Palace" },
-    coordinates: { lat: 37.9421, lng: 58.3842 },
+    coords: [58.3842, 37.9421],
     description: {
       de: "Der Oguzhan-Palast ist der offizielle Amtssitz des Präsidenten von Turkmenistan. Der Bau zeichnet sich durch seine goldenen Kuppeln und weißen Marmor aus.",
       hu: "Az Oguzhan-palota Türkmenisztán elnökének hivatalos rezidenciája. Az épületet aranykupolák és fehér márvány jellemzi.",
@@ -1141,7 +1141,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-olympic-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "Olympiastadion Aschgabat", hu: "Asgábáti Olimpiai Stadion", ro: "Stadionul Olimpic din Ashgabat", en: "Ashgabat Olympic Stadium" },
-    coordinates: { lat: 37.9102, lng: 58.3732 },
+    coords: [58.3732, 37.9102],
     description: {
       de: "Dieses Mehrzweckstadion ist das Herzstück des olympischen Komplexes in Aschgabat. Es verfügt über einen markanten Pferdekopf, der das Dach krönt.",
       hu: "Ez a többfunkciós stadion az asgábáti olimpiai komplexum szíve. Tetőszerkezetét egy jellegzetes lófej díszíti.",
@@ -1160,7 +1160,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-fine-arts-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Schönen Künste", hu: "Szépművészeti Múzeum", ro: "Muzeul de Arte Frumoase", en: "Museum of Fine Arts of Turkmenistan" },
-    coordinates: { lat: 37.9351, lng: 58.3888 },
+    coords: [58.3888, 37.9351],
     description: {
       de: "Das Museum beherbergt eine umfangreiche Sammlung turkmenischer und internationaler Kunst. Es befindet sich in einem monumentalen klassizistischen Gebäude.",
       hu: "A múzeum a türkmén és a nemzetközi művészet kiterjedt gyűjteményének ad otthont. Egy monumentális klasszicista épületben található.",
@@ -1179,7 +1179,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-gurbanguly-hajji-mosque-landmarks-v2",
     type: "church",
     name: { de: "Gurbanguly-Hadschi-Moschee", hu: "Gurbanguly Hajji mecset", ro: "Moscheea Gurbanguly Hajji", en: "Gurbanguly Hajji Mosque" },
-    coordinates: { lat: 37.6015, lng: 61.8344 },
+    coords: [61.8344, 37.6015],
     description: {
       de: "Diese Moschee ist das religiöse Zentrum der Stadt Mary. Sie ist nach dem ehemaligen Präsidenten benannt und verfügt über vier markante Minarette.",
       hu: "Ez a mecset Mary városának vallási központja. A volt elnökről nevezték el, és négy jellegzetes minarettel rendelkezik.",
@@ -1198,7 +1198,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-dashoguz-mosque-landmarks-v2",
     type: "church",
     name: { de: "Dashoguz-Moschee", hu: "Dasoguz mecset", ro: "Moscheea din Dashoguz", en: "Dashoguz Mosque" },
-    coordinates: { lat: 41.8332, lng: 59.9411 },
+    coords: [59.9411, 41.8332],
     description: {
       de: "Die Hauptmoschee von Dashoguz ist ein monumentaler Neubau mit einer großen zentralen Kuppel. Sie dient als spiritueller Treffpunkt der Region.",
       hu: "Dasoguz főmecsetje egy monumentális új épület nagy központi kupolával. A régió spirituális találkozóhelyeként szolgál.",
@@ -1217,7 +1217,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-balkanabat-mosque-landmarks-v2",
     type: "church",
     name: { de: "Balkanabat-Moschee", hu: "Balkanabat mecset", ro: "Moscheea din Balkanabat", en: "Balkanabat Mosque" },
-    coordinates: { lat: 39.5101, lng: 54.3325 },
+    coords: [54.3325, 39.5101],
     description: {
       de: "Diese moderne Moschee befindet sich am Fuße des Großen Balkan-Gebirges. Sie ist bekannt für ihre elegante Architektur und die weißen Marmorwände.",
       hu: "Ez a modern mecset a Nagy-Balkán-hegység lábánál található. Elegáns építészetéről és fehér márványfalairól ismert.",
@@ -1236,7 +1236,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-oguzkhan-fountain-landmarks-v2",
     type: "landmark",
     name: { de: "Oguzkhan-Brunnenkomplex", hu: "Oguzkhan szökőkút-komplexum", ro: "Complexul de fântâni Oguzkhan", en: "Oguzkhan and Sons Fountain Complex" },
-    coordinates: { lat: 37.9621, lng: 58.4105 },
+    coords: [58.4105, 37.9621],
     description: {
       de: "Dieser monumentale Brunnenkomplex befindet sich in der Nähe des Flughafens von Aschgabat. Er zeigt Statuen von Oguz Khan und seinen Söhnen.",
       hu: "Ez a monumentális szökőkút-komplexum az asgábáti repülőtér közelében található. Oguz kánt és fiait ábrázoló szobrokat tartalmaz.",
@@ -1255,7 +1255,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-lenin-statue-landmarks-v2",
     type: "monument",
     name: { de: "Lenin-Statue", hu: "Lenin-szobor", ro: "Statuia lui Lenin", en: "Lenin Statue Ashgabat" },
-    coordinates: { lat: 37.9405, lng: 58.3908 },
+    coords: [58.3908, 37.9405],
     description: {
       de: "Diese Bronzestatue ist bekannt für ihren aufwendig mit traditionellen Teppichmustern verzierten Mosaiksockel. Sie ist ein Relikt aus der Sowjetzeit.",
       hu: "Ez a bronzszobor a hagyományos szőnyegmintákkal gazdagon díszített mozaik talapzatáról ismert. A szovjet korszak egyik emléke.",
@@ -1274,7 +1274,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-puppet-theater-landmarks-v2",
     type: "theater",
     name: { de: "Turkmenisches Staatliches Puppentheater", hu: "Türkmén Állami Bábszínház", ro: "Teatrul de Păpuși de Stat din Turkmenistan", en: "Turkmen State Puppet Theater" },
-    coordinates: { lat: 37.9224, lng: 58.4215 },
+    coords: [58.4215, 37.9224],
     description: {
       de: "Das Puppentheater in Aschgabat ist ein farbenfrohes Gebäude, das speziell für Kinderaufführungen konzipiert wurde. Es ist das einzige Theater seiner Art im Land.",
       hu: "Az asgábáti bábszínház egy színes épület, amelyet kifejezetten gyermekelőadásokra terveztek. Ez az egyetlen ilyen típusú színház az országban.",
@@ -1293,7 +1293,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-magtymguly-theater-landmarks-v2",
     type: "theater",
     name: { de: "Magtymguly-Theater", hu: "Magtymguly Nemzeti Színház", ro: "Teatrul Național Magtymguly", en: "Magtymguly National Music and Drama Theater" },
-    coordinates: { lat: 37.9422, lng: 58.3811 },
+    coords: [58.3811, 37.9422],
     description: {
       de: "Dieses Theater ist nach dem berühmten turkmenischen Dichter Magtymguly Pyragy benannt. Es ist ein bedeutendes kulturelles Zentrum für Musik und Drama.",
       hu: "Ez a színház a híres türkmén költőről, Magtymguly Pyragyról kapta a nevét. A zene és a dráma fontos kulturális központja.",
@@ -1312,7 +1312,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-ashgabat-railway-station-landmarks-v2",
     type: "landmark",
     name: { de: "Bahnhof Aschgabat", hu: "Asgábáti vasútállomás", ro: "Gara Ashgabat", en: "Ashgabat Railway Station" },
-    coordinates: { lat: 37.9401, lng: 58.4022 },
+    coords: [58.4022, 37.9401],
     description: {
       de: "Der Hauptbahnhof von Aschgabat ist ein markantes Gebäude, das den wichtigsten Eisenbahnknotenpunkt des Landes darstellt. Er verbindet die Hauptstadt mit dem Kaspischen Meer.",
       hu: "Asgábát főpályaudvara egy jellegzetes épület, az ország legfontosabb vasúti csomópontja. Összeköti a fővárost a Kaszpi-tengerrel.",
@@ -1331,7 +1331,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-mary-museum-landmarks-v2",
     type: "museum",
     name: { de: "Mary Regionalmuseum", hu: "Mary tartományi múzeum", ro: "Muzeul Regional Mary", en: "Mary Regional Museum" },
-    coordinates: { lat: 37.5955, lng: 61.8512 },
+    coords: [61.8512, 37.5955],
     description: {
       de: "Dieses Museum in Mary zeigt archäologische Funde aus der antiken Stadt Merw und regionale Volkskunst. Es ist in einem modernen Marmorgebäude untergebracht.",
       hu: "Ez a Maryben található múzeum az ókori Merv városából származó régészeti leleteket és helyi népművészetet mutat be. Egy modern márványépületben kapott helyet.",
@@ -1350,7 +1350,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-balkanabat-museum-landmarks-v2",
     type: "museum",
     name: { de: "Balkanabat Heimatmuseum", hu: "Balkanabat helytörténeti múzeum", ro: "Muzeul de Istorie din Balkanabat", en: "Balkanabat Museum of Local Lore" },
-    coordinates: { lat: 39.5122, lng: 54.3641 },
+    coords: [54.3641, 39.5122],
     description: {
       de: "Das Museum in Balkanabat widmet sich der Geschichte der Erdölförderung und der regionalen Ethnographie. Es zeigt die Entwicklung der Region Balkan.",
       hu: "A balkanabati múzeum az olajbányászat történetének és a regionális etnográfiának szenteli gyűjteményét. A Balkán régió fejlődését mutatja be.",
@@ -1369,7 +1369,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-dashoguz-museum-landmarks-v2",
     type: "museum",
     name: { de: "Dashoguz Regionalmuseum", hu: "Dasoguz tartományi múzeum", ro: "Muzeul Regional Dashoguz", en: "Dashoguz Regional Museum" },
-    coordinates: { lat: 41.8415, lng: 59.9722 },
+    coords: [59.9722, 41.8415],
     description: {
       de: "Das Regionalmuseum von Dashoguz beherbergt Artefakte aus Kunya-Urgench und Exponate zur Kultur von Choresmien. Es ist ein wichtiger Ort für die Geschichte Nordturkmenistans.",
       hu: "Dasoguz tartományi múzeuma Köneürgençből származó műtárgyaknak és a horezmi kultúra emlékeinek ad otthont. Észak-Türkmenisztán történelmének fontos helyszíne.",
@@ -1388,7 +1388,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-state-circus-landmarks-v2",
     type: "theater",
     name: { de: "Turkmenischer Staatszirkus", hu: "Türkmén Állami Cirkusz", ro: "Circul de Stat din Turkmenistan", en: "Turkmen State Circus" },
-    coordinates: { lat: 37.9315, lng: 58.3621 },
+    coords: [58.3621, 37.9315],
     description: {
       de: "Der Staatszirkus in Aschgabat ist ein markantes Rundgebäude mit einer silbernen Kuppel. Er ist berühmt für seine Vorführungen mit Akhal-Teke-Pferden.",
       hu: "Az asgábáti állami cirkusz egy jellegzetes, ezüst kupolás kerek épület. Híres az ahal-teke lovas bemutatóiról.",
@@ -1407,7 +1407,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-pushkin-theater-landmarks-v2",
     type: "theater",
     name: { de: "Puschkin Russisches Dramentheater", hu: "Puskin Orosz Drámai Színház", ro: "Teatrul Rus de Dramă Pușkin", en: "Pushkin Russian Drama Theater" },
-    coordinates: { lat: 37.9431, lng: 58.3915 },
+    coords: [58.3915, 37.9431],
     description: {
       de: "Dieses Theater ist das Zentrum für russischsprachige Kultur und Drama in Aschgabat. Es wurde bereits in der Sowjetzeit gegründet und ist nach Alexander Puschkin benannt.",
       hu: "Ez a színház az orosz nyelvű kultúra és dráma központja Asgábátban. Már a szovjet korszakban megalapították, és Alekszandr Puskinról nevezték el.",
@@ -1426,7 +1426,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-cultural-center-landmarks-v2",
     type: "landmark",
     name: { de: "Nationales Kulturzentrum", hu: "Nemzeti Kulturális Központ", ro: "Centrul Cultural Național", en: "Turkmenistan National Cultural Center" },
-    coordinates: { lat: 37.8922, lng: 58.3444 },
+    coords: [58.3444, 37.8922],
     description: {
       de: "Das Nationale Kulturzentrum ist ein großer Komplex, der die Staatsbibliothek und Museen umfasst. Es ist ein Symbol für die kulturelle Identität des modernen Turkmenistans.",
       hu: "A Nemzeti Kulturális Központ egy nagy komplexum, amely az Állami Könyvtárat és múzeumokat foglalja magában. A modern Türkmenisztán kulturális identitásának jelképe.",
@@ -1445,7 +1445,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-ashgabat-monorail-landmarks-v2",
     type: "landmark",
     name: { de: "Aschgabat Einschienenbahn", hu: "Asgábáti egysínű vasút", ro: "Monoraiul din Ashgabat", en: "Ashgabat Monorail" },
-    coordinates: { lat: 37.9122, lng: 58.3755 },
+    coords: [58.3755, 37.9122],
     description: {
       de: "Die Einschienenbahn verbindet die verschiedenen Sportstätten innerhalb des olympischen Komplexes. Sie bietet Besuchern eine bequeme Transportmöglichkeit.",
       hu: "Az egysínű vasút az olimpiai komplexum különböző sportlétesítményeit köti össze. Kényelmes szállítási lehetőséget biztosít a látogatóknak.",
@@ -1464,7 +1464,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-berkarar-mall-landmarks-v2",
     type: "landmark",
     name: { de: "Berkarar-Einkaufszentrum", hu: "Berkarar bevásárlóközpont", ro: "Centrul Comercial Berkarar", en: "Berkarar Mall and Business Center" },
-    coordinates: { lat: 37.9215, lng: 58.3412 },
+    coords: [58.3412, 37.9215],
     description: {
       de: "Dieses große Einkaufszentrum ist ein Wahrzeichen des modernen Aschgabat. Es kombiniert Einzelhandel, Unterhaltung und ein markantes Bürogebäude.",
       hu: "Ez a hatalmas bevásárlóközpont a modern Asgábát egyik jelképe. Kiskereskedelmet, szórakozást és egy jellegzetes irodaházat ötvöz.",
@@ -1483,7 +1483,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-yyldyz-hotel-landmarks-v2",
     type: "landmark",
     name: { de: "Hotel Yyldyz", hu: "Yyldyz Hotel", ro: "Hotelul Yyldyz", en: "Yyldyz Hotel" },
-    coordinates: { lat: 37.9111, lng: 58.3244 },
+    coords: [58.3244, 37.9111],
     description: {
       de: "Das Yyldyz-Hotel ist für seine außergewöhnliche Tropfenform bekannt und thront über der Stadt Aschgabat. Es ist eines der luxuriösesten Hotels in Zentralasien.",
       hu: "Az Yyldyz Hotel különleges csepp alakjáról ismert, és Asgábát városa fölé magasodik. Közép-Ázsia egyik legfényűzőbb szállodája.",
@@ -1502,7 +1502,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-olympic-aquatics-landmarks-v2",
     type: "landmark",
     name: { de: "Wassersportzentrum Aschgabat", hu: "Asgábáti vízi sportközpont", ro: "Centrul de sporturi nautice din Ashgabat", en: "Olympic Complex Aquatics Center" },
-    coordinates: { lat: 37.9052, lng: 58.3821 },
+    coords: [58.3821, 37.9052],
     description: {
       de: "Dieses moderne Wassersportzentrum gehört zum olympischen Komplex und verfügt über mehrere Schwimmbecken. Es erfüllt höchste internationale Standards.",
       hu: "Ez a modern vízi sportközpont az olimpiai komplexum része, és több úszómedencével rendelkezik. Megfelel a legmagasabb nemzetközi szabványoknak.",
@@ -1521,7 +1521,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-ruhyiyet-palace-landmarks-v2",
     type: "palace",
     name: { de: "Ruhyiyet-Palast", hu: "Rukhiyet-palota", ro: "Palatul Ruhyiyet", en: "Ruhyiyet Palace" },
-    coordinates: { lat: 37.9402, lng: 58.3861 },
+    coords: [58.3861, 37.9402],
     description: {
       de: "Der Ruhyiyet-Palast ist ein monumentaler Bau in Aschgabat, der für offizielle Staatsbesuche und Konferenzen genutzt wird. Er zeichnet sich durch seine türkisfarbenen Kuppeln aus.",
       hu: "A Rukhiyet-palota egy monumentális épület Asgábátban, amelyet hivatalos állami látogatásokra és konferenciákra használnak. Türkizkék kupoláiról nevezetes.",
@@ -1540,7 +1540,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-academy-arts-museum-landmarks-v2",
     type: "museum",
     name: { de: "Museum der Kunstakademie", hu: "Művészeti Akadémia Múzeuma", ro: "Muzeul Academiei de Arte", en: "Museum of the Academy of Arts" },
-    coordinates: { lat: 37.9322, lng: 58.3551 },
+    coords: [58.3551, 37.9322],
     description: {
       de: "Das Museum der staatlichen Kunstakademie zeigt Werke junger turkmenischer Talente und etablierter Dozenten. Es fördert zeitgenössische Kunst im Land.",
       hu: "Az Állami Művészeti Akadémia múzeuma fiatal türkmén tehetségek és neves oktatók műveit mutatja be. Támogatja a kortárs művészetet az országban.",
@@ -1559,7 +1559,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-akhal-teke-monument-landmarks-v2",
     type: "monument",
     name: { de: "Achal-Tekkiner-Denkmal", hu: "Ahal-teke emlékmű", ro: "Monumentul Cailor Akhal-Teke", en: "Monument to Akhal-Teke Horses" },
-    coordinates: { lat: 37.8712, lng: 58.3325 },
+    coords: [58.3325, 37.8712],
     description: {
       de: "Dieses monumentale Denkmal zeigt eine Gruppe goldener Achal-Tekkiner-Pferde auf einem Podest. Es feiert den Stolz Turkmenistans auf seine berühmte Pferderasse.",
       hu: "Ez a monumentális emlékmű aranyozott ahal-teke lovak csoportját ábrázolja egy talapzaton. Türkmenisztán büszkeségét ünnepli híres lófajtájára.",
@@ -1578,7 +1578,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-ashgabat-equestrian-complex-landmarks-v2",
     type: "landmark",
     name: { de: "Reitsportkomplex Aschgabat", hu: "Asgábáti lovas komplexum", ro: "Complexul ecvestru din Ashgabat", en: "Ashgabat Equestrian Complex" },
-    coordinates: { lat: 37.8211, lng: 58.2831 },
+    coords: [58.2831, 37.8211],
     description: {
       de: "Dieser moderne Komplex ist den berühmten turkmenischen Pferden gewidmet und umfasst Rennbahnen und Ställe. Er ist ein Zentrum für Pferderennen und Zucht.",
       hu: "Ez a modern komplexum a híres türkmén lovaknak van szentelve, versenypályákat és istállókat foglal magában. A lóversenyzés és tenyésztés központja.",
@@ -1597,7 +1597,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     id: "turkmenistan-kerki-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Kerki-Eisenbahnbrücke", hu: "Kerki vasúti híd", ro: "Podul feroviar din Kerki", en: "Kerki Railway Bridge" },
-    coordinates: { lat: 37.8444, lng: 65.2212 },
+    coords: [65.2212, 37.8444],
     description: {
       de: "Diese wichtige Brücke überquert den Fluss Amudarja in der Nähe der Stadt Kerki. Sie ist ein lebenswichtiger Teil der Eisenbahnverbindung nach Afghanistan.",
       hu: "Ez a fontos híd az Amu-darja folyón ível át Kerki városa közelében. Az Afganisztán felé tartó vasúti összeköttetés létfontosságú része.",

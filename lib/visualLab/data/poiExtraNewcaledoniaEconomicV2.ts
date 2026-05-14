@@ -5,7 +5,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-doniambo-smelter-economic-v2",
     type: "factory",
     name: { de: "Doniambo-Hütte", hu: "Doniambo nikkelkohó", ro: "Combinatul Doniambo", en: "Doniambo Smelter" },
-    coordinates: { lat: -22.2572, lng: 166.4354 },
+    coords: [166.4354, -22.2572],
     description: {
       de: "Die Doniambo-Hütte in Nouméa ist ein Zentrum der Nickelverarbeitung. Seit 1910 produziert das Werk hochwertiges Ferronickel für den Weltmarkt.",
       hu: "A nouméai Doniambo kohó a világ egyik legnagyobb nikkel-feldolgozó üzeme. Az 1910-ben alapított létesítmény meghatározó a globális fémpiacon.",
@@ -24,7 +24,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-port-of-noumea-economic-v2",
     type: "port",
     name: { de: "Hafen von Nouméa", hu: "Nouméa kikötője", ro: "Portul Nouméa", en: "Port of Noumea" },
-    coordinates: { lat: -22.2685, lng: 166.4391 },
+    coords: [166.4391, -22.2685],
     description: {
       de: "Der Hafen von Nouméa ist das logistische Herz Neukaledoniens. Er wickelt fast den gesamten Import und den Export von Mineralien des Landes ab.",
       hu: "Nouméa kikötője Új-Kaledónia logisztikai központja. Itt halad át az ország teljes importja és az ásványkincsek jelentős exportja is.",
@@ -43,7 +43,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-goro-nickel-plant-economic-v2",
     type: "factory",
     name: { de: "Goro-Nickel-Werk", hu: "Goro nikkelüzem", ro: "Uzina Goro Nickel", en: "Goro Nickel Plant" },
-    coordinates: { lat: -22.3167, lng: 166.9167 },
+    coords: [166.9167, -22.3167],
     description: {
       de: "Die Goro-Anlage im Süden nutzt fortschrittliche Hydrometallurgie zur Nickelgewinnung. Sie ist eine der modernsten Industrieanlagen der Region.",
       hu: "A déli Goro-üzem fejlett hidrometallurgiai eljárást alkalmaz a nikkel kinyerésére. A régió egyik legmodernebb ipari létesítménye.",
@@ -62,7 +62,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-koniambo-nickel-plant-economic-v2",
     type: "factory",
     name: { de: "Koniambo-Nickel-Werk", hu: "Koniambo nikkelüzem", ro: "Uzina Koniambo Nickel", en: "Koniambo Nickel Plant" },
-    coordinates: { lat: -20.9583, lng: 164.7125 },
+    coords: [164.7125, -20.9583],
     description: {
       de: "Koniambo Nickel ist ein gigantisches Industrieprojekt in der Nordprovinz. Es spielt eine Schlüsselrolle bei der wirtschaftlichen Entwicklung des Nordens.",
       hu: "A Koniambo Nickel egy hatalmas ipari projekt az Északi Tartományban. Kulcsszerepet játszik az északi országrész gazdasági fejlődésében.",
@@ -81,7 +81,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-thio-nickel-mines-economic-v2",
     type: "mine",
     name: { de: "Nickelminen von Thio", hu: "Thio nikkelbányái", ro: "Minele de nichel din Thio", en: "Thio Nickel Mines" },
-    coordinates: { lat: -21.6114, lng: 166.2167 },
+    coords: [166.2167, -21.6114],
     description: {
       de: "Thio gilt als die Wiege des neukaledonischen Nickelbergbaus. Die Minen hier sind seit dem späten 19. Jahrhundert kontinuierlich in Betrieb.",
       hu: "Thio az új-kaledóniai nikkelbányászat bölcsője. A bányák a 19. század vége óta folyamatosan működnek ezen a területen.",
@@ -100,7 +100,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-yate-dam-economic-v2",
     type: "industry",
     name: { de: "Yaté-Talsperre", hu: "Yaté-gát", ro: "Barajul Yaté", en: "Yate Dam" },
-    coordinates: { lat: -22.1583, lng: 166.9083 },
+    coords: [166.9083, -22.1583],
     description: {
       de: "Die Yaté-Talsperre ist das größte Wasserkraftwerk Neukaledoniens. Sie liefert einen Großteil der Energie für die Nickelindustrie in Nouméa.",
       hu: "A Yaté-gát Új-Kaledónia legnagyobb vízierőműve. Ez a létesítmény biztosítja a nouméai nikkelipar energiaellátásának jelentős részét.",
@@ -119,7 +119,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-kouaoua-serpentine-economic-v2",
     type: "industry",
     name: { de: "Kouaoua-Serpentine", hu: "Kouaoua Serpentine", ro: "Serpentina Kouaoua", en: "Kouaoua Serpentine" },
-    coordinates: { lat: -21.3917, lng: 165.8283 },
+    coords: [165.8283, -21.3917],
     description: {
       de: "Die Kouaoua-Serpentine ist ein beeindruckendes, 11 Kilometer langes Förderband. Es transportiert Nickelerz direkt von der Mine zum Hafen.",
       hu: "A Kouaoua Serpentine egy lenyűgöző, 11 kilométer hosszú szállítószalag. A nikkelércet közvetlenül a bányából szállítja a kikötőbe.",
@@ -138,7 +138,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-nepoui-nickel-port-economic-v2",
     type: "port",
     name: { de: "Exporthafen Népoui", hu: "Népoui nikkelkikötő", ro: "Portul de nichel Népoui", en: "Nepoui Nickel Port" },
-    coordinates: { lat: -21.3325, lng: 165.0042 },
+    coords: [165.0042, -21.3325],
     description: {
       de: "Der Hafen von Népoui ist ein wichtiger Verladepunkt für Nickelerze an der Westküste. Er dient als maritimes Tor für die umliegenden Minen.",
       hu: "Népoui kikötője a nyugati part fontos nikkelérc-rakodóhelye. Tengeri kapuként szolgál a környező bányák számára.",
@@ -157,7 +157,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-poro-mining-center-economic-v2",
     type: "mine",
     name: { de: "Bergbauzentrum Poro", hu: "Poro bányászati központ", ro: "Centrul minier Poro", en: "Poro Mining Center" },
-    coordinates: { lat: -21.2958, lng: 165.7167 },
+    coords: [165.7167, -21.2958],
     description: {
       de: "Poro ist ein bedeutender Bergbaustandort an der Ostküste Neukaledoniens. Das Zentrum umfasst ausgedehnte Abbaugebiete und Verladeeinrichtungen.",
       hu: "Poro egy jelentős bányászati helyszín Új-Kaledónia keleti partján. A központ kiterjedt bányaterületeket és rakodóhelyeket foglal magában.",
@@ -176,7 +176,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-kopeto-mine-economic-v2",
     type: "mine",
     name: { de: "Kopéto-Mine", hu: "Kopéto-bánya", ro: "Mina Kopéto", en: "Kopeto Mine" },
-    coordinates: { lat: -21.1833, lng: 165.0167 },
+    coords: [165.0167, -21.1833],
     description: {
       de: "Die Kopéto-Mine ist eine der höchstgelegenen Nickelminen der Welt. Sie liefert hochwertiges Erz für die Verarbeitungsanlagen in der Region.",
       hu: "A Kopéto-bánya a világ egyik legmagasabban fekvő nikkelbányája. Kiváló minőségű ércet szolgáltat a régió feldolgozóüzemei számára.",
@@ -195,7 +195,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-tontouta-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum La Tontouta", hu: "La Tontouta logisztikai központ", ro: "Centrul logistic La Tontouta", en: "Tontouta Logistics Center" },
-    coordinates: { lat: -22.0158, lng: 166.2133 },
+    coords: [166.2133, -22.0158],
     description: {
       de: "Rund um den internationalen Flughafen gelegen, ist La Tontouta die Drehscheibe für Luftfracht. Es ist entscheidend für den Import von Ersatzteilen.",
       hu: "A nemzetközi repülőtér körül elhelyezkedő La Tontouta a légi áruszállítás központja. Kulcsfontosságú az ipari alkatrészek importjában.",
@@ -214,7 +214,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-ducos-industrial-zone-economic-v2",
     type: "industry",
     name: { de: "Industriezone Ducos", hu: "Ducos ipari zóna", ro: "Zona industrială Ducos", en: "Ducos Industrial Zone" },
-    coordinates: { lat: -22.2458, lng: 166.4258 },
+    coords: [166.4258, -22.2458],
     description: {
       de: "Ducos ist das größte Gewerbegebiet in Nouméa. Hier konzentrieren sich hunderte Unternehmen aus den Bereichen Handel, Bau und Dienstleistungen.",
       hu: "Ducos Nouméa legnagyobb kereskedelmi negyede. Több száz kereskedelmi, építőipari és szolgáltató vállalat összpontosul itt.",
@@ -233,7 +233,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-numbo-shipyards-economic-v2",
     type: "factory",
     name: { de: "Schiffswerften von Numbo", hu: "Numbo hajógyárai", ro: "Șantierele navale din Numbo", en: "Numbo Shipyards" },
-    coordinates: { lat: -22.2417, lng: 166.4167 },
+    coords: [166.4167, -22.2417],
     description: {
       de: "Numbo ist das Zentrum des Schiffbaus und der Wartung in Neukaledonien. Die Werften sind entscheidend für die lokale Fischerei- und Erzflotte.",
       hu: "Numbo Új-Kaledónia hajóépítési és karbantartási központja. A hajógyárak létfontosságúak a helyi halász- és ércszállító flotta számára.",
@@ -252,7 +252,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-mont-dore-bottling-economic-v2",
     type: "factory",
     name: { de: "Abfüllwerk Mont-Dore", hu: "Mont-Dore palackozóüzem", ro: "Fabrica de îmbuteliere Mont-Dore", en: "Mont-Dore Bottling Plant" },
-    coordinates: { lat: -22.2717, lng: 166.5833 },
+    coords: [166.5833, -22.2717],
     description: {
       de: "Dieses Werk füllt das berühmte Mineralwasser vom Mont-Dore ab. Es ist eines der erfolgreichsten Unternehmen der lokalen Lebensmittelindustrie.",
       hu: "Ez az üzem palackozza a híres Mont-Dore ásványvizet. A helyi élelmiszeripar egyik legsikeresebb vállalata.",
@@ -271,7 +271,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-boulouparis-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarpark Boulouparis", hu: "Boulouparis napelemfarm", ro: "Parcul solar Boulouparis", en: "Boulouparis Solar Farm" },
-    coordinates: { lat: -21.875, lng: 166.0417 },
+    coords: [166.0417, -21.875],
     description: {
       de: "Der Solarpark Boulouparis ist eine der größten Photovoltaikanlagen im Pazifik. Er markiert den Übergang des Landes zu erneuerbaren Energien.",
       hu: "A Boulouparis napelemfarm a Csendes-óceáni térség egyik legnagyobb fotovoltaikus létesítménye. Az ország megújuló energiaváltását jelképezi.",
@@ -290,7 +290,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-kone-economic-pole-economic-v2",
     type: "city",
     name: { de: "Wirtschaftszentrum Koné", hu: "Koné gazdasági központja", ro: "Polul economic Koné", en: "Kone Economic Pole" },
-    coordinates: { lat: -21.0583, lng: 164.8667 },
+    coords: [164.8667, -21.0583],
     description: {
       de: "Koné hat sich zum wichtigsten Wirtschaftszentrum der Nordprovinz entwickelt. Die Stadt profitiert massiv vom Koniambo-Nickelprojekt.",
       hu: "Koné az Északi Tartomány legfontosabb gazdasági központjává fejlődött. A város sokat profitál a Koniambo nikkelprojektből.",
@@ -309,7 +309,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-port-of-we-economic-v2",
     type: "port",
     name: { de: "Hafen von Wé", hu: "Wé kikötője", ro: "Portul din Wé", en: "Port of We" },
-    coordinates: { lat: -20.915, lng: 167.265 },
+    coords: [167.265, -20.915],
     description: {
       de: "Der Hafen von Wé auf Lifou ist die wirtschaftliche Lebensader der Loyalitätsinseln. Er dient der Versorgung der Bevölkerung und dem Tourismus.",
       hu: "A lifoui Wé kikötője a Hűség-szigetek gazdasági ütőere. Ez a létesítmény biztosítja a lakosság ellátását és a turizmust.",
@@ -328,7 +328,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-port-of-tadine-economic-v2",
     type: "port",
     name: { de: "Hafen von Tadine", hu: "Tadine kikötője", ro: "Portul din Tadine", en: "Port of Tadine" },
-    coordinates: { lat: -21.5517, lng: 167.8817 },
+    coords: [167.8817, -21.5517],
     description: {
       de: "Tadine ist der wichtigste Hafen auf der Insel Maré. Er ermöglicht den Handel zwischen den Inseln und den Transport von Agrarprodukten.",
       hu: "Tadine Maré szigetének legfontosabb kikötője. Lehetővé teszi a szigetek közötti kereskedelmet és a mezőgazdasági termékek szállítását.",
@@ -347,7 +347,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-poum-mining-site-economic-v2",
     type: "mine",
     name: { de: "Bergbaustandort Poum", hu: "Poum bányászati terület", ro: "Situl minier Poum", en: "Poum Mining Site" },
-    coordinates: { lat: -20.2317, lng: 164.0217 },
+    coords: [164.0217, -20.2317],
     description: {
       de: "Poum im äußersten Norden ist ein bedeutendes Gebiet für den Nickelabbau. Die Minen hier sind für die Wirtschaft der Nordprovinz essenziell.",
       hu: "A távoli északon fekvő Poum jelentős nikkelbányászati terület. Az itteni bányák létfontosságúak az Északi Tartomány gazdasága számára.",
@@ -366,7 +366,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-nakety-mine-economic-v2",
     type: "mine",
     name: { de: "Nakéty-Mine", hu: "Nakéty-bánya", ro: "Mina Nakéty", en: "Nakety Mine" },
-    coordinates: { lat: -21.5233, lng: 165.9867 },
+    coords: [165.9867, -21.5233],
     description: {
       de: "Die Nakéty-Mine bei Canala ist ein traditionsreicher Standort des Bergbaus. Sie liefert Erz, das oft direkt per Schiff ins Ausland exportiert wird.",
       hu: "A canala-i Nakéty-bánya hagyományos bányászati helyszín. Az innen származó ércet gyakran közvetlenül hajón exportálják külföldre.",
@@ -385,7 +385,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-ouaco-cattle-station-economic-v2",
     type: "village",
     name: { de: "Viehzuchtstation Ouaco", hu: "Ouaco állattenyésztő telep", ro: "Stația de creștere a vitelor Ouaco", en: "Ouaco Cattle Station" },
-    coordinates: { lat: -20.8583, lng: 164.4583 },
+    coords: [164.4583, -20.8583],
     description: {
       de: "Ouaco ist historisch eines der wichtigsten Zentren der Viehzucht in Neukaledonien. Hier befand sich einst eine bedeutende Konservenfabrik.",
       hu: "Ouaco történelmileg Új-Kaledónia egyik legfontosabb állattenyésztési központja. Valaha jelentős konzervgyár működött itt.",
@@ -404,7 +404,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-moindou-prawn-farm-economic-v2",
     type: "industry",
     name: { de: "Garnelenfarm Moindou", hu: "Moindou garnélafarm", ro: "Ferma de creveți Moindou", en: "Moindou Prawn Farm" },
-    coordinates: { lat: -21.5583, lng: 165.675 },
+    coords: [165.675, -21.5583],
     description: {
       de: "In Moindou befindet sich eines der Zentren der Aquakultur für blaue Garnelen. Diese sind ein wichtiges Exportprodukt Neukaledoniens.",
       hu: "Moindouban található a kék garnélarák-tenyésztés egyik központja. Ezek Új-Kaledónia egyik legfontosabb exporttermékei.",
@@ -423,7 +423,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-prony-wind-farm-economic-v2",
     type: "industry",
     name: { de: "Windpark Prony", hu: "Prony szélfarm", ro: "Parcul eolian Prony", en: "Prony Wind Farm" },
-    coordinates: { lat: -22.3417, lng: 166.825 },
+    coords: [166.825, -22.3417],
     description: {
       de: "Der Windpark Prony nutzt die starken Passatwinde im Süden zur Stromerzeugung. Er trägt zur Senkung der CO2-Emissionen des Landes bei.",
       hu: "A Prony szélfarm a déli erős passzátszeleket használja áramtermelésre. Hozzájárul az ország szén-dioxid-kibocsátásának csökkentéséhez.",
@@ -442,7 +442,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-port-of-touho-economic-v2",
     type: "port",
     name: { de: "Hafen von Touho", hu: "Touho kikötője", ro: "Portul din Touho", en: "Port of Touho" },
-    coordinates: { lat: -20.7817, lng: 165.2333 },
+    coords: [165.2333, -20.7817],
     description: {
       de: "Der Hafen von Touho ist ein regionaler Handelsplatz an der Nordostküste. Er dient als Anlaufpunkt für Küstenmotorschiffe und Fischer.",
       hu: "Touho kikötője egy regionális kereskedelmi helyszín az északkeleti parton. Parti hajók és halászok számára szolgál bázisként.",
@@ -461,7 +461,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-goro-port-economic-v2",
     type: "port",
     name: { de: "Industriehafen Goro", hu: "Goro ipari kikötője", ro: "Portul industrial Goro", en: "Goro Industrial Port" },
-    coordinates: { lat: -22.3333, lng: 166.9333 },
+    coords: [166.9333, -22.3333],
     description: {
       de: "Der Hafen von Goro wurde speziell für das Goro-Nickel-Werk errichtet. Er ermöglicht den Import von Chemikalien und den Export von Nickelprodukten.",
       hu: "Goro kikötője kifejezetten a Goro nikkelüzem számára épült. Lehetővé teszi a vegyszerek importját és a nikkeltermékek exportját.",
@@ -480,7 +480,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-paita-meat-processing-economic-v2",
     type: "factory",
     name: { de: "Fleischverarbeitungszentrum Païta", hu: "Païta húsfeldolgozó központ", ro: "Centrul de procesare a cărnii Païta", en: "Paita Meat Processing Center" },
-    coordinates: { lat: -22.1333, lng: 166.3667 },
+    coords: [166.3667, -22.1333],
     description: {
       de: "In Païta befindet sich der Hauptschlachthof Neukaledoniens. Das Zentrum ist entscheidend für die Lebensmittelautonomie des Territoriums.",
       hu: "Païtában található Új-Kaledónia központi vágóhídja. Ez a központ döntő fontosságú a terület élelmiszer-önrendelkezése szempontjából.",
@@ -499,7 +499,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-port-moselle-commercial-economic-v2",
     type: "port",
     name: { de: "Handelshafen Port Moselle", hu: "Port Moselle kereskedelmi kikötő", ro: "Port Moselle - sectorul comercial", en: "Port Moselle Commercial Hub" },
-    coordinates: { lat: -22.275, lng: 166.4417 },
+    coords: [166.4417, -22.275],
     description: {
       de: "Port Moselle ist der kommerzielle Knotenpunkt für Fischerei und Küstenhandel in Nouméa. Hier befindet sich auch der große tägliche Markt.",
       hu: "Port Moselle a nouméai halászat és parti kereskedelem kereskedelmi csomópontja. Itt található a nagy napi piac is.",
@@ -518,7 +518,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-vavouto-industrial-area-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Vavouto", hu: "Vavouto ipari terület", ro: "Zona industrială Vavouto", en: "Vavouto Industrial Area" },
-    coordinates: { lat: -20.9833, lng: 164.7167 },
+    coords: [164.7167, -20.9833],
     description: {
       de: "Vavouto ist der Industriekomplex, der das Koniambo-Nickel-Werk beherbergt. Es umfasst Hafenanlagen, Kraftwerke und Entsalzungsanlagen.",
       hu: "Vavouto az az ipari komplexum, amely a Koniambo nikkelüzemet befogadja. Kikötőt, erőművet és sótalanítót is magában foglal.",
@@ -537,7 +537,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-sln-plateau-mine-economic-v2",
     type: "mine",
     name: { de: "Plateau-Mine (SLN)", hu: "Plateau-bánya (SLN)", ro: "Mina Plateau (SLN)", en: "Plateau Mine (SLN)" },
-    coordinates: { lat: -21.5833, lng: 166.1833 },
+    coords: [166.1833, -21.5833],
     description: {
       de: "Die Plateau-Mine in Thio ist ein historisches Symbol für die industrielle Stärke Neukaledoniens. Sie wird seit Generationen von der SLN betrieben.",
       hu: "A thio-i Plateau-bánya Új-Kaledónia ipari erejének történelmi szimbóluma. Az SLN generációk óta üzemelteti.",
@@ -556,7 +556,7 @@ export const newcaledoniaEconomicV2: POI[] = [
     id: "newcaledonia-tiebaghi-mine-economic-v2",
     type: "mine",
     name: { de: "Tiébaghi-Mine", hu: "Tiébaghi-bánya", ro: "Mina Tiébaghi", en: "Tiebaghi Mine" },
-    coordinates: { lat: -20.4417, lng: 164.2167 },
+    coords: [164.2167, -20.4417],
     description: {
       de: "Die Tiébaghi-Mine bei Koumac verfügt über eine der weltweit reichsten Chrom- und Nickellagerstätten. Sie ist ein Pfeiler der nördlichen Wirtschaft.",
       hu: "A Koumac melletti Tiébaghi-bánya a világ egyik leggazdagabb króm- és nikkellelőhelye. Az északi gazdaság egyik tartóoszlopa.",

@@ -1685,7 +1685,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-bria-nord-cities-v2",
     type: "city",
     name: { de: "Bria-Nord", hu: "Bria-Nord", ro: "Bria-Nord", en: "Bria-Nord" },
-    coordinates: { lat: 6.55, lng: 21.98 },
+    coords: [21.98, 6.55],
     description: {
       de: "Bria-Nord ist ein Stadtteil nördlich des Zentrums von Bria. Das Gebiet ist ein lokaler Handelsknotenpunkt für landwirtschaftliche Erzeugnisse.",
       hu: "Bria-Nord Bria központjától északra fekvő városrész. A terület mezőgazdasági termékek helyi kereskedelmi csomópontja.",
@@ -1716,7 +1716,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-bambari-sud-cities-v2",
     type: "city",
     name: { de: "Bambari-Sud", hu: "Bambari-Sud", ro: "Bambari-Sud", en: "Bambari-Sud" },
-    coordinates: { lat: 5.76, lng: 20.67 },
+    coords: [20.67, 5.76],
     description: {
       de: "Bambari-Sud liegt am südlichen Ufer des Ouaka-Flusses. Die Gegend ist für ihre Nähe zu lokalen Märkten und kleinen Handelsbetrieben bekannt.",
       hu: "Bambari-Sud az Ouaka folyó déli partján fekszik. A terület a helyi piacok és kisebb kereskedelmi vállalkozások közelségéről ismert.",
@@ -1747,7 +1747,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-berberati-est-cities-v2",
     type: "city",
     name: { de: "Berbérati-Est", hu: "Berbérati-Est", ro: "Berbérati-Est", en: "Berbérati-Est" },
-    coordinates: { lat: 4.27, lng: 15.8 },
+    coords: [15.8, 4.27],
     description: {
       de: "Berbérati-Est bildet den östlichen Teil der Stadt Berbérati. Hier befinden sich administrative Gebäude und lokale Versorgungseinrichtungen.",
       hu: "Berbérati-Est Berbérati város keleti részét alkotja. Itt találhatók közigazgatási épületek és helyi ellátó létesítmények.",
@@ -1778,7 +1778,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-bangassou-ouest-cities-v2",
     type: "city",
     name: { de: "Bangassou-Ouest", hu: "Bangassou-Ouest", ro: "Bangassou-Ouest", en: "Bangassou-Ouest" },
-    coordinates: { lat: 4.74, lng: 22.8 },
+    coords: [22.8, 4.74],
     description: {
       de: "Bangassou-Ouest ist ein Stadtviertel im Westen von Bangassou. Es ist an das Straßennetz angebunden und dient dem Handel mit Gütern.",
       hu: "Bangassou-Ouest egy városnegyed Bangassou nyugati részén. Közúti összeköttetéssel rendelkezik és árukereskedelemmel foglalkozik.",
@@ -1809,7 +1809,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-bossembele-nord-cities-v2",
     type: "city",
     name: { de: "Bossembélé-Nord", hu: "Bossembélé-Nord", ro: "Bossembélé-Nord", en: "Bossembélé-Nord" },
-    coordinates: { lat: 5.29, lng: 17.65 },
+    coords: [17.65, 5.29],
     description: {
       de: "Bossembélé-Nord ist der nördliche Bereich der Stadt Bossembélé. Die Stadt liegt an einer strategischen Verkehrsverbindung nach Bangui.",
       hu: "Bossembélé-Nord Bossembélé város északi része. A város stratégiai közlekedési összeköttetésen fekszik Bangui felé.",
@@ -1840,7 +1840,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-bossangoa-est-cities-v2",
     type: "city",
     name: { de: "Bossangoa-Est", hu: "Bossangoa-Est", ro: "Bossangoa-Est", en: "Bossangoa-Est" },
-    coordinates: { lat: 6.49, lng: 17.47 },
+    coords: [17.47, 6.49],
     description: {
       de: "Bossangoa-Est liegt östlich des Stadtkerns von Bossangoa. Die Region ist landwirtschaftlich geprägt und ein Zentrum für Baumwollverarbeitung.",
       hu: "Bossangoa-Est Bossangoa városközpontjától keletre fekszik. A régió mezőgazdasági jellegű és a gyapotfeldolgozás központja.",
@@ -1871,7 +1871,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-sibut-sud-cities-v2",
     type: "city",
     name: { de: "Sibut-Sud", hu: "Sibut-Sud", ro: "Sibut-Sud", en: "Sibut-Sud" },
-    coordinates: { lat: 5.71, lng: 19.07 },
+    coords: [19.07, 5.71],
     description: {
       de: "Sibut-Sud bildet den südlichen Teil von Sibut. Der Ort ist ein wichtiger Kreuzungspunkt für den Transport zwischen verschiedenen Provinzen.",
       hu: "Sibut-Sud Sibut déli részét alkotja. A település fontos csomópont a különböző tartományok közötti szállításban.",
@@ -1902,7 +1902,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-kaga-bandoro-ouest-cities-v2",
     type: "city",
     name: { de: "Kaga-Bandoro-Ouest", hu: "Kaga-Bandoro-Ouest", ro: "Kaga-Bandoro-Ouest", en: "Kaga-Bandoro-Ouest" },
-    coordinates: { lat: 6.97, lng: 19.19 },
+    coords: [19.19, 6.97],
     description: {
       de: "Kaga-Bandoro-Ouest liegt im Westen der Stadt Kaga-Bandoro. Das Gebiet dient als Wohnraum für die lokale Bevölkerung.",
       hu: "Kaga-Bandoro-Ouest Kaga-Bandoro város nyugati részén fekszik. A terület a helyi lakosság lakóhelyeként szolgál.",
@@ -1933,7 +1933,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-boali-nord-cities-v2",
     type: "city",
     name: { de: "Boali-Nord", hu: "Boali-Nord", ro: "Boali-Nord", en: "Boali-Nord" },
-    coordinates: { lat: 4.81, lng: 18.13 },
+    coords: [18.13, 4.81],
     description: {
       de: "Boali-Nord ist der nördliche Teil der Stadt Boali. Der Ort ist durch die nahegelegenen Wasserfälle und die Stromerzeugung bekannt.",
       hu: "Boali-Nord Boali város északi része. A település a közeli vízesésekről és az áramtermelésről ismert.",
@@ -1964,7 +1964,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
     id: "centralafricanrepublic-mbaiki-nord-cities-v2",
     type: "city",
     name: { de: "Mbaïki-Nord", hu: "Mbaïki-Nord", ro: "Mbaïki-Nord", en: "Mbaïki-Nord" },
-    coordinates: { lat: 3.88, lng: 18.0 },
+    coords: [18.0, 3.88],
     description: {
       de: "Mbaïki-Nord bildet den nördlichen Rand der Stadt Mbaïki. Die Gegend liegt am Rande der dichten Waldgebiete der Lobaye-Region.",
       hu: "Mbaïki-Nord Mbaïki város északi szélét alkotja. A terület a Lobaye régió sűrű erdőségeinek szélén fekszik.",

@@ -1462,7 +1462,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-eden-island-cities-v2",
     type: "city",
     name: { de: "Eden Island", hu: "Eden-sziget", ro: "Insula Eden", en: "Eden Island" },
-    coordinates: { lat: -4.636, lng: 55.467 },
+    coords: [55.467, -4.636],
     description: {
       de: "Eden Island ist eine künstliche Insel bei Victoria. Sie wurde auf Landgewinnungsflächen erbaut und besitzt einen großen Jachthafen.",
       hu: "Az Eden Island egy mesterséges sziget Victoria mellett. Feltöltött területen épült, és egy jelentős jachtkikötőnek ad otthont a parton.",
@@ -1481,7 +1481,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-pointe-au-sel-cities-v2",
     type: "village",
     name: { de: "Pointe au Sel", hu: "Pointe au Sel", ro: "Pointe au Sel", en: "Pointe au Sel" },
-    coordinates: { lat: -4.721, lng: 55.517 },
+    coords: [55.517, -4.721],
     description: {
       de: "Pointe au Sel liegt im Südosten von Mahé an der Küste. Die Region beherbergt historische Plantagen und einen flachen, ruhigen Strandabschnitt.",
       hu: "Pointe au Sel Mahé délkeleti partján helyezkedik el. A régió történelmi ültetvényeknek és egy sekély, nyugodt strandnak ad otthont.",
@@ -1500,7 +1500,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-anse-volbert-cities-v2",
     type: "town",
     name: { de: "Anse Volbert", hu: "Anse Volbert", ro: "Anse Volbert", en: "Anse Volbert" },
-    coordinates: { lat: -4.316, lng: 55.748 },
+    coords: [55.748, -4.316],
     description: {
       de: "Anse Volbert ist das touristische Zentrum der Insel Praslin. Der Ort liegt an der Cote d'Or und bietet zahlreiche Hotels und Restaurants.",
       hu: "Anse Volbert Praslin szigetének turisztikai központja. A település a Cote d'Or mentén fekszik, számos szállodát és éttermet kínálva.",
@@ -1519,7 +1519,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-anse-forbans-cities-v2",
     type: "village",
     name: { de: "Anse Forbans", hu: "Anse Forbans", ro: "Anse Forbans", en: "Anse Forbans" },
-    coordinates: { lat: -4.782, lng: 55.52 },
+    coords: [55.52, -4.782],
     description: {
       de: "Anse Forbans ist eine ruhige Siedlung im Süden von Mahé. Die Gegend war früher als Piratenversteck bekannt und bietet heute Naturstrände.",
       hu: "Anse Forbans egy csendes település Mahé déli részén. A környék korábban kalózok rejtekhelyeként volt ismert, ma természetes strandokat kínál.",
@@ -1538,7 +1538,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-anse-reunion-cities-v2",
     type: "village",
     name: { de: "Anse Reunion", hu: "Anse Reunion", ro: "Anse Reunion", en: "Anse Reunion" },
-    coordinates: { lat: -4.356, lng: 55.828 },
+    coords: [55.828, -4.356],
     description: {
       de: "Anse Reunion ist das bevölkerungsreichste Dorf auf La Digue. Es liegt an der Westküste und beherbergt wichtige lokale Dienstleistungseinrichtungen.",
       hu: "Anse Reunion La Digue legnépesebb faluja a nyugati parton. Itt találhatók a legfontosabb helyi szolgáltatások és lakóövezetek a szigeten.",
@@ -1557,7 +1557,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-la-retraite-cities-v2",
     type: "village",
     name: { de: "La Retraite", hu: "La Retraite", ro: "La Retraite", en: "La Retraite" },
-    coordinates: { lat: -4.595, lng: 55.457 },
+    coords: [55.457, -4.595],
     description: {
       de: "La Retraite ist eine Siedlung an der Nordostküste von Mahé. Das Gebiet ist überwiegend ein Wohnviertel und liegt in der Nähe von Anse Etoile.",
       hu: "La Retraite egy település Mahé északkeleti partján. A terület túlnyomórészt lakóövezet, és Anse Etoile közvetlen közelében található.",
@@ -1576,7 +1576,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-north-east-point-cities-v2",
     type: "village",
     name: { de: "North East Point", hu: "North East Point", ro: "North East Point", en: "North East Point" },
-    coordinates: { lat: -4.582, lng: 55.463 },
+    coords: [55.463, -4.582],
     description: {
       de: "North East Point ist eine Siedlung am nördlichen Ende von Mahé. Das Gebiet ist bekannt für seine felsige Küste und das lokale Reha-Zentrum.",
       hu: "North East Point egy település Mahé északaki végén. A terület a sziklás partvonaláról és a helyi rehabilitációs központról nevezetes.",
@@ -1595,7 +1595,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-les-canelles-cities-v2",
     type: "village",
     name: { de: "Les Canelles", hu: "Les Canelles", ro: "Les Canelles", en: "Les Canelles" },
-    coordinates: { lat: -4.717, lng: 55.498 },
+    coords: [55.498, -4.717],
     description: {
       de: "Les Canelles ist ein Dorf in den Hügeln zwischen Anse Royale und Anse Boileau. Die Straße bietet Ausblicke auf die tropische Vegetation.",
       hu: "Les Canelles egy falu a dombok között Anse Royale és Anse Boileau között. Az út lenyűgöző kilátást nyújt a trópusi növényzetre.",
@@ -1614,7 +1614,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-anse-possession-cities-v2",
     type: "village",
     name: { de: "Anse Possession", hu: "Anse Possession", ro: "Anse Possession", en: "Anse Possession" },
-    coordinates: { lat: -4.303, lng: 55.728 },
+    coords: [55.728, -4.303],
     description: {
       de: "Anse Possession ist eine Küstengemeinde im Nordosten von Praslin. Der Ort liegt geschützt in einer Bucht mit flachem, ruhigem Wasser.",
       hu: "Anse Possession egy tengerparti közösség Praslin északkeleti részén. A település egy védett öbölben fekszik, nyugodt vizekkel.",
@@ -1633,7 +1633,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "seychelles-anse-louis-cities-v2",
     type: "village",
     name: { de: "Anse Louis", hu: "Anse Louis", ro: "Anse Louis", en: "Anse Louis" },
-    coordinates: { lat: -4.715, lng: 55.475 },
+    coords: [55.475, -4.715],
     description: {
       de: "Anse Louis ist eine kleine Siedlung an der Westküste der Insel Mahé. Sie ist bekannt für ihre Granitformationen und ein exklusives Resort.",
       hu: "Anse Louis egy kis település Mahé szigetének nyugati partján. Híres gránitképződményeiről és egy exkluzív üdülőhelynek ad otthont.",

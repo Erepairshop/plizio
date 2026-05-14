@@ -1046,7 +1046,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-al-badiyah-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Badiyah-Moschee", hu: "Al-Badiyah mecset", ro: "Moscheea Al Badiyah", en: "Al Badiyah Mosque" },
-    coordinates: { lat: 25.4394, lng: 56.3539 },
+    coords: [56.3539, 25.4394],
     description: {
       de: "Dies ist die älteste bekannte Moschee der Vereinigten Arabischen Emirate, erbaut im 15. Jahrhundert aus Lehm und Stein.",
       hu: "Ez az Egyesült Arab Emírségek legrégebbi ismert mecsete, amely a 15. századból származik, vályogból és kőből épült.",
@@ -1065,7 +1065,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-sheikh-zayed-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Scheich-Zayed-Brücke", hu: "Zájed sejk híd", ro: "Podul Sheikh Zayed", en: "Sheikh Zayed Bridge" },
-    coordinates: { lat: 24.4532, lng: 54.4921 },
+    coords: [54.4921, 24.4532],
     description: {
       de: "Eine beeindruckende Bogenbrücke in Abu Dhabi, entworfen von Zaha Hadid, die die Insel mit dem Festland verbindet.",
       hu: "Abu Dhabi lenyűgöző ívhídja, amelyet Zaha Hadid tervezett, és a szigetet köti össze a szárazfölddel.",
@@ -1084,7 +1084,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-sharjah-art-museum-landmarks-v2",
     type: "museum",
     name: { de: "Kunstmuseum Schardscha", hu: "Sardzsa Művészeti Múzeum", ro: "Muzeul de Artă din Sharjah", en: "Sharjah Art Museum" },
-    coordinates: { lat: 25.3585, lng: 55.3852 },
+    coords: [55.3852, 25.3585],
     description: {
       de: "Eines der größten Kunstmuseen in der Region, das eine umfangreiche Sammlung arabischer Kunstwerke beherbergt.",
       hu: "A régió egyik legnagyobb művészeti múzeuma, amely arab műalkotások széles gyűjteményének ad otthont.",
@@ -1103,7 +1103,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-dubai-opera-landmarks-v2",
     type: "theater",
     name: { de: "Opernhaus Dubai", hu: "Dubaji Operaház", ro: "Opera din Dubai", en: "Dubai Opera" },
-    coordinates: { lat: 25.1965, lng: 55.2774 },
+    coords: [55.2774, 25.1965],
     description: {
       de: "Ein hochmodernes Zentrum für darstellende Künste in Dubai, dessen Design einer traditionellen Dau nachempfunden ist.",
       hu: "Modern előadó-művészeti központ Dubajban, amelynek kialakítása egy hagyományos dhow hajót idéz.",
@@ -1122,7 +1122,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-cayan-tower-landmarks-v2",
     type: "tower",
     name: { de: "Cayan Tower", hu: "Cayan-torony", ro: "Turnul Cayan", en: "Cayan Tower" },
-    coordinates: { lat: 25.0864, lng: 55.1452 },
+    coords: [55.1452, 25.0864],
     description: {
       de: "Ein markanter, um 90 Grad gedrehter Wolkenkratzer in der Dubai Marina, bekannt für seine spiralförmige Architektur.",
       hu: "Egy jellegzetes, 90 fokkal elcsavart felhőkarcoló a Dubai Marinában, amely spirális építészetéről ismert.",
@@ -1141,7 +1141,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-bridge-of-tolerance-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke der Toleranz", hu: "A Tolerancia hídja", ro: "Podul Toleranței", en: "Bridge of Tolerance" },
-    coordinates: { lat: 25.1878, lng: 55.2497 },
+    coords: [55.2497, 25.1878],
     description: {
       de: "Eine elegante Fußgängerbrücke über den Dubai Water Canal, die zum Internationalen Tag der Toleranz benannt wurde.",
       hu: "Elegáns gyalogoshíd a Dubaji Vízi-csatorna felett, amelyet a Tolerancia Nemzetközi Napja alkalmából neveztek el.",
@@ -1160,7 +1160,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-house-of-wisdom-landmarks-v2",
     type: "landmark",
     name: { de: "Haus der Weisheit", hu: "A Bölcsesség Háza", ro: "Casa Înțelepciunii", en: "House of Wisdom" },
-    coordinates: { lat: 25.3121, lng: 55.4835 },
+    coords: [55.4835, 25.3121],
     description: {
       de: "Ein modernes Bibliotheks- und Kulturzentrum in Schardscha, das zur Feier der Welthauptstadt des Buches errichtet wurde.",
       hu: "Modern könyvtár és kulturális központ Sardzsában, amelyet a Könyv Világfővárosa cím tiszteletére emeltek.",
@@ -1179,7 +1179,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-meydan-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Meydan-Brücke", hu: "Meydan híd", ro: "Podul Meydan", en: "Meydan Bridge" },
-    coordinates: { lat: 25.1584, lng: 55.3052 },
+    coords: [55.3052, 25.1584],
     description: {
       de: "Eine futuristische Schrägseilbrücke in Dubai, die besonders für ihre wellenförmige blaue LED-Beleuchtung bekannt ist.",
       hu: "Futurisztikus ferdekábeles híd Dubajban, amely különösen hullámzó kék LED-világításáról ismert.",
@@ -1198,7 +1198,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-yas-marina-circuit-landmarks-v2",
     type: "landmark",
     name: { de: "Yas Marina Circuit", hu: "Yas Marina versenypálya", ro: "Circuitul Yas Marina", en: "Yas Marina Circuit" },
-    coordinates: { lat: 24.4672, lng: 54.6031 },
+    coords: [54.6031, 24.4672],
     description: {
       de: "Die offizielle Rennstrecke des Großen Preises von Abu Dhabi der Formel 1, gelegen auf der Yas-Insel.",
       hu: "A Forma-1-es Abu-dzabi Nagydíj hivatalos helyszíne, amely a Yas-szigeten található.",
@@ -1217,7 +1217,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-abrahamic-family-house-landmarks-v2",
     type: "landmark",
     name: { de: "Abrahamic Family House", hu: "Ábrahámi Család Háza", ro: "Casa Familiei Abrahamice", en: "Abrahamic Family House" },
-    coordinates: { lat: 24.5365, lng: 54.4024 },
+    coords: [54.4024, 24.5365],
     description: {
       de: "Ein religiöser Komplex in Abu Dhabi, der eine Moschee, eine Kirche und eine Synagoge an einem Ort vereint.",
       hu: "Vallási komplexum Abu Dhabiban, amely egy mecsetet, egy templomot és egy zsinagógát egyesít egy helyen.",
@@ -1236,7 +1236,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-al-noor-mosque-sharjah-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Noor-Moschee", hu: "Al Noor mecset", ro: "Moscheea Al Noor", en: "Al Noor Mosque" },
-    coordinates: { lat: 25.3468, lng: 55.3835 },
+    coords: [55.3835, 25.3468],
     description: {
       de: "Eine elegante Moschee in Schardscha im osmanischen Stil, die direkt an der Khalid-Lagune liegt.",
       hu: "Elegáns oszmán stílusú mecset Sardzsában, amely közvetlenül a Khalid-lagúna partján fekszik.",
@@ -1255,7 +1255,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-king-faisal-mosque-sharjah-landmarks-v2",
     type: "landmark",
     name: { de: "König-Faisal-Moschee", hu: "Fajszál király mecset", ro: "Moscheea Regele Faisal", en: "King Faisal Mosque" },
-    coordinates: { lat: 25.3508, lng: 55.3912 },
+    coords: [55.3912, 25.3508],
     description: {
       de: "Einst die größte Moschee der Emirate, benannt nach dem saudi-arabischen König Faisal bin Abdulaziz.",
       hu: "Egykor az Emírségek legnagyobb mecsete, amelyet Fajszál bin Abdul-Aziz szaúdi királyról neveztek el.",
@@ -1274,7 +1274,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-mohammed-bin-rashid-library-landmarks-v2",
     type: "landmark",
     name: { de: "Mohammed-bin-Rashid-Bibliothek", hu: "Mohammed bin Rasid Könyvtár", ro: "Biblioteca Mohammed bin Rashid", en: "Mohammed Bin Rashid Library" },
-    coordinates: { lat: 25.2315, lng: 55.3378 },
+    coords: [55.3378, 25.2315],
     description: {
       de: "Eine monumentale Bibliothek in Dubai am Dubai Creek, deren Architektur einem aufgeschlagenen Buch ähnelt.",
       hu: "Monumentális könyvtár Dubajban, a Dubai Creek partján, melynek építészete egy nyitott könyvre hasonlít.",
@@ -1293,7 +1293,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-seaworld-abu-dhabi-landmarks-v2",
     type: "landmark",
     name: { de: "SeaWorld Abu Dhabi", hu: "SeaWorld Abu Dhabi", ro: "SeaWorld Abu Dhabi", en: "SeaWorld Abu Dhabi" },
-    coordinates: { lat: 24.4842, lng: 54.5885 },
+    coords: [54.5885, 24.4842],
     description: {
       de: "Ein riesiger mariner Themenpark auf der Insel Yas, der das weltweit größte Aquarium beherbergt.",
       hu: "Hatalmas tengeri élménypark a Yas-szigeten, amely a világ legnagyobb akváriumának ad otthont.",
@@ -1312,7 +1312,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-warner-bros-world-abu-dhabi-landmarks-v2",
     type: "landmark",
     name: { de: "Warner Bros. World Abu Dhabi", hu: "Warner Bros. World Abu Dhabi", ro: "Warner Bros. World Abu Dhabi", en: "Warner Bros. World Abu Dhabi" },
-    coordinates: { lat: 24.4915, lng: 54.5912 },
+    coords: [54.5912, 24.4915],
     description: {
       de: "Der weltweit erste Indoor-Themenpark von Warner Bros., der bekannte Filmcharaktere und Welten zum Leben erweckt.",
       hu: "A világ első Warner Bros. fedett élményparkja, amely ismert filmkaraktereket és világokat kelt életre.",
@@ -1331,7 +1331,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-jumeirah-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Dschumeira-Moschee", hu: "Dzsumeira mecset", ro: "Moscheea Jumeirah", en: "Jumeirah Mosque" },
-    coordinates: { lat: 25.2341, lng: 55.2785 },
+    coords: [55.2785, 25.2341],
     description: {
       de: "Eine der meistfotografierten Moscheen Dubais, erbaut im mittelalterlichen fatimidischen Architekturstil.",
       hu: "Dubaj egyik legtöbbet fényképezett mecsete, amely középkori fatimida építészeti stílusban épült.",
@@ -1350,7 +1350,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     id: "uae-the-founders-memorial-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal des Gründers", hu: "Az alapító emlékműve", ro: "Memorialul Fondatorului", en: "The Founder's Memorial" },
-    coordinates: { lat: 24.4618, lng: 54.3215 },
+    coords: [54.3215, 24.4618],
     description: {
       de: "Ein kulturelles Denkmal in Abu Dhabi, das dem Leben und Erbe von Scheich Zayed bin Sultan Al Nahyan gewidmet ist.",
       hu: "Kulturális emlékmű Abu Dhabiban, amelyet Zájed bin Szultán Ál Nahján sejk életének és örökségének szenteltek.",

@@ -5,7 +5,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-natural-history-museum-landmarks-v2",
     type: "museum",
     name: { de: "Naturkundemuseum", hu: "Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală", en: "Natural History Museum" },
-    coordinates: { lat: -20.1636, lng: 57.5028 },
+    coords: [57.5028, -20.1636],
     description: {
       de: "Das Naturkundemuseum von Port Louis ist das älteste Museum des Landes. Es ist berühmt für seine Exponate zur ausgestorbenen Dronte (Dodo).",
       hu: "A Port Louis-i Természettudományi Múzeum az ország legrégebbi múzeuma. Híres a kihalt dodó madárról szóló kiállításairól.",
@@ -24,7 +24,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-port-louis-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Theater von Port Louis", hu: "Port Louis-i Színház", ro: "Teatrul din Port Louis", en: "Port Louis Theatre" },
-    coordinates: { lat: -20.1641, lng: 57.5042 },
+    coords: [57.5042, -20.1641],
     description: {
       de: "Dieses klassizistische Theater wurde im 19. Jahrhundert erbaut und ist eines der ältesten in der südlichen Hemisphäre. Es ist ein Symbol der mauritischen Kultur.",
       hu: "Ez a 19. századi klasszicista színház a déli félteke egyik legrégebbi ilyen intézménye. A mauritiusi kulturális élet egyik legfontosabb jelképe.",
@@ -43,7 +43,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-champ-de-mars-landmarks-v2",
     type: "monument",
     name: { de: "Champ de Mars", hu: "Champ de Mars lóversenypálya", ro: "Champ de Mars", en: "Champ de Mars Racecourse" },
-    coordinates: { lat: -20.1691, lng: 57.5144 },
+    coords: [57.5144, -20.1691],
     description: {
       de: "Die älteste Pferderennbahn der südlichen Hemisphäre befindet sich in Port Louis. Sie war 1968 Schauplatz der Unabhängigkeitserklärung von Mauritius.",
       hu: "A déli félteke legrégebbi lóversenypályája Port Louis-ban található. Itt kiáltották ki Mauritius függetlenségét 1968-ben.",
@@ -62,7 +62,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-supreme-court-landmarks-v2",
     type: "landmark",
     name: { de: "Oberster Gerichtshof", hu: "Legfelsőbb Bíróság", ro: "Curtea Supremă", en: "Supreme Court Building" },
-    coordinates: { lat: -20.1651, lng: 57.5041 },
+    coords: [57.5041, -20.1651],
     description: {
       de: "Das Gebäude des Obersten Gerichtshofs in Port Louis ist ein beeindruckendes Beispiel kolonialer Architektur. Es beherbergt die höchste Justizinstanz des Landes.",
       hu: "A Port Louis-i Legfelsőbb Bíróság épülete a gyarmati építészet lenyűgöző példája. Az ország legmagasabb szintű igazságszolgáltatási szerve.",
@@ -81,7 +81,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-central-post-office-landmarks-v2",
     type: "landmark",
     name: { de: "Hauptpostamt Port Louis", hu: "Központi Posta", ro: "Poșta Centrală", en: "Port Louis Central Post Office" },
-    coordinates: { lat: -20.1594, lng: 57.5024 },
+    coords: [57.5024, -20.1594],
     description: {
       de: "Das historische Hauptpostamt von Port Louis ist ein markantes Steingebäude am Hafen. Es beherbergt heute auch das Postmuseum des Landes.",
       hu: "Port Louis történelmi központi postaépülete egy jellegzetes kőépület a kikötőnél. Ma a nemzeti postamúzeumnak is helyet ad.",
@@ -100,7 +100,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-st-francois-assise-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. François d'Assise", hu: "Szent Ferenc-templom", ro: "Biserica Sfântul Francisc", en: "St. Francois d'Assise Church" },
-    coordinates: { lat: -20.1064, lng: 57.5702 },
+    coords: [57.5702, -20.1064],
     description: {
       de: "Die Kirche in Pamplemousses ist eine der ältesten Kirchen der Insel. Sie ist bekannt für ihre schlichte Steinarchitektur und historische Bedeutung.",
       hu: "Ez a Pamplemousses-ben található templom a sziget egyik legrégebbi keresztény imaháza. Egyszerű kőépítészetéről és történelmi jelentőségéről ismert.",
@@ -119,7 +119,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-maison-eureka-landmarks-v2",
     type: "museum",
     name: { de: "Maison Eureka", hu: "Eureka-ház", ro: "Casa Eureka", en: "Maison Eureka" },
-    coordinates: { lat: -20.2078, lng: 57.5022 },
+    coords: [57.5022, -20.2078],
     description: {
       de: "Ein historisches kreolisches Haus in Moka, das 1830 erbaut wurde. Es ist bekannt für seine 109 Türen und die Lage am Ufer des Moka-Flusses.",
       hu: "Egy történelmi kreol ház Mokában, amely 1830-ban épült. Híres a 109 ajtajáról és a Moka-folyó partján fekvő gyönyörű kertjéről.",
@@ -138,7 +138,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-fort-frederik-hendrik-landmarks-v2",
     type: "ruins",
     name: { de: "Fort Frederik Hendrik", hu: "Frederik Hendrik-erőd", ro: "Fortul Frederik Hendrik", en: "Fort Frederik Hendrik" },
-    coordinates: { lat: -20.3752, lng: 57.7301 },
+    coords: [57.7301, -20.3752],
     description: {
       de: "Die Ruinen dieses Forts in Vieux Grand Port markieren den Ort der ersten niederländischen Besiedlung. Es ist eine wichtige historische Stätte.",
       hu: "Az erőd romjai Vieux Grand Port-ban az első holland település helyszínét jelölik. Fontos történelmi emlékhely a sziget délkeleti részén.",
@@ -157,7 +157,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-dutch-landing-monument-landmarks-v2",
     type: "monument",
     name: { de: "Niederländisches Landungsmonument", hu: "Holland partraszállási emlékmű", ro: "Monumentul Debarcării Olandeze", en: "Dutch First Landing Monument" },
-    coordinates: { lat: -20.3705, lng: 57.7202 },
+    coords: [57.7202, -20.3705],
     description: {
       de: "Dieses Denkmal in Ferney erinnert an die erste Landung der Niederländer auf Mauritius im Jahr 1598. Es markiert den Beginn der europäischen Präsenz.",
       hu: "Ez a Ferney-ben található emlékmű a hollandok 1598-as első partraszállásának állít emléket. Az európai jelenlét kezdetét jelzi a szigeten.",
@@ -176,7 +176,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-naval-museum-mahebourg-landmarks-v2",
     type: "museum",
     name: { de: "Nationales Marinemuseum", hu: "Nemzeti Tengerészeti Múzeum", ro: "Muzeul Național de Marină", en: "Mahebourg Naval Museum" },
-    coordinates: { lat: -20.4072, lng: 57.7051 },
+    coords: [57.7051, -20.4072],
     description: {
       de: "Das Marinemuseum in Mahebourg ist in einem kolonialen Herrenhaus untergebracht. Es zeigt Artefakte aus der berühmten Seeschlacht von Grand Port.",
       hu: "A Mahébourg-i tengerészeti múzeum egy gyarmati kúriában kapott helyet. A híres Grand Port-i tengeri csata emlékeit mutatja be.",
@@ -195,7 +195,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-notre-dame-auxiliatrice-landmarks-v2",
     type: "church",
     name: { de: "Notre-Dame Auxiliatrice", hu: "Notre-Dame Auxiliatrice kápolna", ro: "Notre Dame de l'Auxiliatrice", en: "Notre Dame de l'Auxiliatrice" },
-    coordinates: { lat: -19.9882, lng: 57.6225 },
+    coords: [57.6225, -19.9882],
     description: {
       de: "Diese Kapelle in Cap Malheureux ist berühmt für ihr leuchtend rotes Dach und die Lage direkt am türkisfarbenen Meer. Sie ist ein Wahrzeichen des Nordens.",
       hu: "Ez a Cap Malheureux-ban található kápolna híres élénkvörös tetőjéről és a türkizkék tengerparton fekvő elhelyezkedéséről. Észak jelképe.",
@@ -214,7 +214,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-laventure-du-sucre-landmarks-v2",
     type: "museum",
     name: { de: "L'Aventure du Sucre", hu: "L'Aventure du Sucre", ro: "L'Aventure du Sucre", en: "L'Aventure du Sucre" },
-    coordinates: { lat: -20.0985, lng: 57.5721 },
+    coords: [57.5721, -20.0985],
     description: {
       de: "Diese ehemalige Zuckerfabrik wurde in ein modernes Museum umgewandelt. Es erzählt die Geschichte der Zuckerproduktion und ihrer Bedeutung für Mauritius.",
       hu: "Ezt az egykori cukorgyárat modern múzeummá alakították. A cukorgyártás történetét és Mauritius életében betöltött szerepét mutatja be.",
@@ -233,7 +233,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-photography-museum-landmarks-v2",
     type: "museum",
     name: { de: "Fotomuseum", hu: "Fotómúzeum", ro: "Muzeul de Fotografie", en: "Mauritius Photography Museum" },
-    coordinates: { lat: -20.1622, lng: 57.5011 },
+    coords: [57.5011, -20.1622],
     description: {
       de: "Ein kleines Museum in Port Louis, das eine beeindruckende Sammlung alter Kameras und Fotografien besitzt. Es bewahrt die visuelle Geschichte der Insel.",
       hu: "Egy kis múzeum Port Louis-ban, amely régi fényképezőgépek és fotók lenyűgöző gyűjteményével rendelkezik. A sziget vizuális múltját őrzi.",
@@ -252,7 +252,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-postal-museum-landmarks-v2",
     type: "museum",
     name: { de: "Postmuseum", hu: "Postamúzeum", ro: "Muzeul Poștal", en: "Mauritius Postal Museum" },
-    coordinates: { lat: -20.1592, lng: 57.5018 },
+    coords: [57.5018, -20.1592],
     description: {
       de: "Das Museum befindet sich im alten Hauptpostamt von Port Louis. Es zeigt die Entwicklung des Postwesens und seltene philatelistische Schätze.",
       hu: "A múzeum Port Louis régi központi postaépületében található. A postai szolgáltatások fejlődését és ritka bélyegkincseket mutat be.",
@@ -271,7 +271,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-ssr-statue-landmarks-v2",
     type: "monument",
     name: { de: "Statue von Sir Seewoosagur Ramgoolam", hu: "Sir Seewoosagur Ramgoolam szobra", ro: "Statuia lui Sir Seewoosagur Ramgoolam", en: "Statue of Sir Seewoosagur Ramgoolam" },
-    coordinates: { lat: -20.1605, lng: 57.4985 },
+    coords: [57.4985, -20.1605],
     description: {
       de: "Diese Statue ehrt den 'Vater der Nation', der Mauritius in die Unabhängigkeit führte. Sie steht an prominenter Stelle an der Waterfront von Port Louis.",
       hu: "Ez a szobor a 'nemzet atyjának' állít emléket, aki a függetlenségbe vezette Mauritiust. Port Louis vízpartján, központi helyen áll.",
@@ -290,7 +290,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-slave-route-monument-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal der Sklaverei", hu: "Rabszolgaság emlékműve", ro: "Monumentul Drumul Sclavilor", en: "International Slave Route Monument" },
-    coordinates: { lat: -20.4552, lng: 57.3155 },
+    coords: [57.3155, -20.4552],
     description: {
       de: "Dieses Denkmal am Fuße des Berges Le Morne erinnert an den Kampf gegen die Sklaverei. Es besteht aus verschiedenen Skulpturen internationaler Künstler.",
       hu: "Ez a Le Morne-hegy lábánál található emlékmű a rabszolgaság elleni küzdelemnek állít emléket. Nemzetközi művészek szobrai alkotják.",
@@ -309,7 +309,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-domaine-aubineaux-landmarks-v2",
     type: "palace",
     name: { de: "Le Domaine des Aubineaux", hu: "Le Domaine des Aubineaux", ro: "Le Domaine des Aubineaux", en: "Le Domaine des Aubineaux" },
-    coordinates: { lat: -20.3125, lng: 57.5242 },
+    coords: [57.5242, -20.3125],
     description: {
       de: "Ein prächtiges Kolonialhaus in Curepipe, das Ende des 19. Jahrhunderts erbaut wurde. Es ist Teil der 'Route du Thé' und zeigt antike Möbel.",
       hu: "Egy pompás gyarmati ház Curepipe-ben, amely a 19. század végén épült. A 'Teaút' része, és antik bútorokat mutat be.",
@@ -328,7 +328,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-domaine-bois-cheri-landmarks-v2",
     type: "landmark",
     name: { de: "Le Domaine de Bois Chéri", hu: "Le Domaine de Bois Chéri", ro: "Le Domaine de Bois Chéri", en: "Le Domaine de Bois Chéri" },
-    coordinates: { lat: -20.4285, lng: 57.5502 },
+    coords: [57.5502, -20.4285],
     description: {
       de: "Das älteste Teeanbaugebiet der Insel beherbergt eine Fabrik und ein Museum. Es bietet Einblicke in die traditionelle mauritische Teekultur.",
       hu: "A sziget legrégebbi teatermelő vidéke, ahol gyár és múzeum is található. Betekintést nyújt a hagyományos mauritiusi teakultúrába.",
@@ -347,7 +347,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-domaine-saint-aubin-landmarks-v2",
     type: "palace",
     name: { de: "Le Domaine de Saint Aubin", hu: "Le Domaine de Saint Aubin", ro: "Le Domaine de Saint Aubin", en: "Le Domaine de Saint Aubin" },
-    coordinates: { lat: -20.4852, lng: 57.5515 },
+    coords: [57.5515, -20.4852],
     description: {
       de: "Ein historisches Anwesen im Süden der Insel, das für seine Vanilleplantage und ein traditionelles Herrenhaus von 1819 bekannt ist.",
       hu: "A sziget déli részén található történelmi birtok, amely vaníliaültetvényéről és egy 1819-ben épült hagyományos kúriáról ismert.",
@@ -366,7 +366,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-robert-hart-museum-landmarks-v2",
     type: "museum",
     name: { de: "Robert Edward Hart Museum", hu: "Robert Edward Hart Múzeum", ro: "Muzeul Robert Edward Hart", en: "Robert Edward Hart Museum" },
-    coordinates: { lat: -20.5105, lng: 57.5182 },
+    coords: [57.5182, -20.5105],
     description: {
       de: "Das Museum 'La Nef' in Souillac ist dem mauritischen Dichter Robert Edward Hart gewidmet. Es ist ein ungewöhnliches Haus aus Korallensteinen.",
       hu: "A Souillacban található 'La Nef' múzeum Robert Edward Hart mauritiusi költőnek állít emléket. Egy különleges, korallkőből épült házban működik.",
@@ -385,7 +385,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-pointe-du-diable-landmarks-v2",
     type: "ruins",
     name: { de: "Pointe du Diable Batterie", hu: "Pointe du Diable üteg", ro: "Bateria Pointe du Diable", en: "Pointe du Diable Battery" },
-    coordinates: { lat: -20.3455, lng: 57.7652 },
+    coords: [57.7652, -20.3455],
     description: {
       de: "Eine historische Küstenbatterie im Osten, die während der französischen Kolonialzeit zur Verteidigung errichtet wurde. Sie beherbergt noch alte Kanonen.",
       hu: "Történelmi parti üteg keleten, amelyet a francia gyarmati időkben építettek védekezésre. Még mindig láthatók itt a régi ágyúk.",
@@ -404,7 +404,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-ile-de-la-passe-landmarks-v2",
     type: "ruins",
     name: { de: "Ile de la Passe Befestigung", hu: "Ile de la Passe erődítmény", ro: "Fortificațiile Ile de la Passe", en: "Ile de la Passe Fortifications" },
-    coordinates: { lat: -20.3985, lng: 57.7882 },
+    coords: [57.7882, -20.3985],
     description: {
       de: "Diese kleine Insel in der Bucht von Grand Port spielte eine entscheidende Rolle in der berühmten Seeschlacht von 1810. Sie beherbergt militärische Ruinen.",
       hu: "Ez a kis sziget a Grand Port-i öbölben döntő szerepet játszott az 1810-es híres tengeri csatában. Katonai erődítmények romjai láthatók rajta.",
@@ -423,7 +423,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-ile-aux-fouquets-lighthouse-landmarks-v2",
     type: "tower",
     name: { de: "Leuchtturm Ile aux Fouquets", hu: "Ile aux Fouquets világítótorony", ro: "Farul Ile aux Fouquets", en: "Ile aux Fouquets Lighthouse" },
-    coordinates: { lat: -20.3958, lng: 57.7925 },
+    coords: [57.7925, -20.3958],
     description: {
       de: "Ein verlassener Leuchtturm auf einer Insel bei Grand Port, der auch als 'Ile au Phare' bekannt ist. Er ist ein markantes Denkmal der Seefahrt.",
       hu: "Egy elhagyatott világítótorony a Grand Port melletti szigeten, amelyet 'Ile au Phare'-ként is ismernek. A tengerhajózás egyik fontos emléke.",
@@ -442,7 +442,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-st-gabriel-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale St. Gabriel", hu: "Szent Gábriel-székesegyház", ro: "Catedrala Sfântul Gabriel", en: "St. Gabriel Cathedral" },
-    coordinates: { lat: -19.7215, lng: 63.4442 },
+    coords: [63.4442, -19.7215],
     description: {
       de: "Die größte Kirche auf der Insel Rodrigues ist ein beeindruckendes Steingebäude. Sie dient als spirituelles Zentrum für die Bevölkerung von Rodrigues.",
       hu: "Rodrigues szigetének legnagyobb temploma egy lenyűgöző kőépület. A helyi lakosság legfontosabb vallási központja.",
@@ -461,7 +461,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-maheswarnath-mandir-landmarks-v2",
     type: "landmark",
     name: { de: "Maheswarnath Mandir", hu: "Maheswarnath Mandir", ro: "Maheswarnath Mandir", en: "Maheswarnath Mandir" },
-    coordinates: { lat: -20.0465, lng: 57.5522 },
+    coords: [57.5522, -20.0465],
     description: {
       de: "Der älteste und größte Hindu-Tempelkomplex auf Mauritius befindet sich in Triolet. Er ist Shiva gewidmet und beeindruckt durch seine Architektur.",
       hu: "Mauritius legrégebbi és legnagyobb hindu templomkomplexuma Triolet-ben található. Sivának szentelték, és lenyűgöző az építészete.",
@@ -480,7 +480,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-kaylasson-temple-landmarks-v2",
     type: "landmark",
     name: { de: "Kaylasson Tempel", hu: "Kaylasson-templom", ro: "Templul Kaylasson", en: "Kaylasson Temple" },
-    coordinates: { lat: -20.1575, lng: 57.5185 },
+    coords: [57.5185, -20.1575],
     description: {
       de: "Dieser tamilische Tempel in Port Louis ist bekannt für seine farbenfrohen Gipurams und feinen Schnitzereien. Er ist ein bedeutendes religiöses Zentrum.",
       hu: "Ez a Port Louis-i tamil templom színes gopuramaival és finom faragványaival tűnik ki. Jelentős vallási és kulturális központ.",
@@ -499,7 +499,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-sagar-shiv-mandir-landmarks-v2",
     type: "landmark",
     name: { de: "Sagar Shiv Mandir", hu: "Sagar Shiv Mandir", ro: "Sagar Shiv Mandir", en: "Sagar Shiv Mandir" },
-    coordinates: { lat: -20.1585, lng: 57.7428 },
+    coords: [57.7428, -20.1585],
     description: {
       de: "Ein spektakulärer Hindu-Tempel auf einer kleinen Insel in der Lagune von Poste de Flacq. Er bietet eine ruhige Atmosphäre direkt am Wasser.",
       hu: "Látványos hindu templom egy kis szigeten, a Poste de Flacq lagúnájában. Egyedülálló, vízközeli fekvése különleges hangulatot áraszt.",
@@ -518,7 +518,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-siv-soopramaniar-kovil-landmarks-v2",
     type: "landmark",
     name: { de: "Siv Soopramaniar Kovil", hu: "Siv Soopramaniar Kovil", ro: "Siv Soopramaniar Kovil", en: "Siv Soopramaniar Kovil" },
-    coordinates: { lat: -20.3205, lng: 57.5202 },
+    coords: [57.5202, -20.3205],
     description: {
       de: "Ein bedeutender tamilischer Tempel in Curepipe, der für seine kunstvollen Verzierungen bekannt ist. Er ist ein Zentrum für tamilische Feste.",
       hu: "Curepipe egyik jelentős tamil temploma, amely művészi díszítéseiről ismert. A tamil ünnepek fontos helyszíne a városban.",
@@ -537,7 +537,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-st-therese-church-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Thérèse", hu: "Szent Teréz-templom", ro: "Biserica Sfânta Tereza", en: "St. Therese Church" },
-    coordinates: { lat: -20.3188, lng: 57.5235 },
+    coords: [57.5235, -20.3188],
     description: {
       de: "Eine markante katholische Kirche im Zentrum von Curepipe, bekannt für ihre Architektur im gotischen Stil und ihre zentrale Lage.",
       hu: "Jellegzetes katolikus templom Curepipe központjában, amely gótikus stílusú építészetéről és központi elhelyezkedéséről ismert.",
@@ -556,7 +556,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-glass-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Mauritius Glaskunst-Galerie", hu: "Mauritius Üveggaléria", ro: "Galeria de Sticlă Mauritius", en: "Mauritius Glass Gallery" },
-    coordinates: { lat: -20.2855, lng: 57.4902 },
+    coords: [57.4902, -20.2855],
     description: {
       de: "Diese Glasgalerie in Phoenix ist bekannt für ihre Kunstwerke aus recyceltem Glas. Besucher können Glasbläsern bei der Arbeit zusehen.",
       hu: "Ez a Phoenix-ben található üveggaléria az újrahasznosított üvegből készült műalkotásairól ismert. Az üvegfúvás mesterségét is bemutatják.",
@@ -575,7 +575,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-queen-victoria-statue-landmarks-v2",
     type: "monument",
     name: { de: "Statue von Königin Victoria", hu: "Viktória királynő szobra", ro: "Statuia Reginei Victoria", en: "Statue of Queen Victoria" },
-    coordinates: { lat: -20.1635, lng: 57.5028 },
+    coords: [57.5028, -20.1635],
     description: {
       de: "Diese Statue vor dem Government House ehrt Königin Victoria. Sie erinnert an die lange britische Kolonialgeschichte von Mauritius.",
       hu: "Ez a Kormányzati épület előtt álló szobor Viktória királynőt ábrázolja. Mauritius hosszú brit gyarmati múltjára emlékeztet.",
@@ -594,7 +594,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-plaza-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Plaza Theater", hu: "Plaza Színház", ro: "Teatrul Plaza", en: "Plaza Theatre" },
-    coordinates: { lat: -20.2392, lng: 57.4775 },
+    coords: [57.4775, -20.2392],
     description: {
       de: "Das Plaza Theater in Rose Hill ist ein architektonisches Juwel und ein wichtiges Zentrum für darstellende Künste in der Region Plaines Wilhems.",
       hu: "A Rose Hill-i Plaza Színház építészeti ékszerdoboz és a Plaines Wilhems körzet legfontosabb előadóművészeti központja.",
@@ -613,7 +613,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-institute-landmarks-v2",
     type: "landmark",
     name: { de: "Mauritius Institute", hu: "Mauritius Intézet", ro: "Institutul Mauritius", en: "Mauritius Institute" },
-    coordinates: { lat: -20.1638, lng: 57.5025 },
+    coords: [57.5025, -20.1638],
     description: {
       de: "Ein markantes Steingebäude im Zentrum von Port Louis, das wissenschaftliche und kulturelle Sammlungen sowie die Nationalbibliothek beherbergt.",
       hu: "Jellegzetes kőépület Port Louis központjában, amely tudományos és kulturális gyűjteményeknek, valamint a Nemzeti Könyvtárnak ad otthont.",
@@ -632,7 +632,7 @@ export const mauritiusLandmarksV2: POI[] = [
     id: "mauritius-maconde-structure-landmarks-v2",
     type: "landmark",
     name: { de: "Maconde Aussichtspunkt", hu: "Maconde kilátó", ro: "Punctul de belvedere Maconde", en: "Maconde Viewpoint" },
-    coordinates: { lat: -20.4892, lng: 57.3718 },
+    coords: [57.3718, -20.4892],
     description: {
       de: "Dieser markante Aussichtspunkt liegt an einer extremen Kurve der Küstenstraße im Südwesten. Eine Treppe führt auf den Felsen über dem Meer.",
       hu: "Ez a jellegzetes kilátópont a délnyugati part menti út egyik éles kanyarjában található. Egy lépcsősor vezet fel a tenger feletti sziklára.",

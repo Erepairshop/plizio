@@ -546,7 +546,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-hsinchu-zoo-life-v2",
     type: "wildlife",
     name: { de: "Hsinchu Zoo", hu: "Hszincsu Állatkert", ro: "Grădina Zoologică Hsinchu", en: "Hsinchu Zoo" },
-    coordinates: { lat: 24.8016, lng: 120.9789 },
+    coords: [120.9789, 24.8016],
     description: {
       de: "Der älteste Zoo Taiwans wurde 1936 gegründet und beherbergt heute über 70 Tierarten. Die Anlage verzichtet weitgehend auf Käfige.",
       hu: "Tajvan legrégebbi állatkertje 1936-ban nyílt meg, és több mint 70 állatfajnak ad otthont. A területen kerülik a hagyományos rácsokat.",
@@ -565,7 +565,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-wanpi-world-life-v2",
     type: "wildlife",
     name: { de: "Wanpi World Safari-Zoo", hu: "Wanpi World Szafaripark", ro: "Wanpi World Safari Zoo", en: "Wanpi World Safari Zoo" },
-    coordinates: { lat: 23.2798, lng: 120.1812 },
+    coords: [120.1812, 23.2798],
     description: {
       de: "Ein privater Safaripark in Tainan, der für seine Wasserschweine und interaktiven Tierbegegnungen bekannt ist. Er beherbergt über 300 Tierarten.",
       hu: "Tainan magán szafariparkja, amely vízidisznóiról és interaktív programjairól ismert. Több mint 300 állatfaj él itt.",
@@ -584,7 +584,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-taipei-botanical-garden-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Taipeh", hu: "Tajpeji Botanikus Kert", ro: "Grădina Botanică Taipei", en: "Taipei Botanical Garden" },
-    coordinates: { lat: 25.0325, lng: 121.5103 },
+    coords: [121.5103, 25.0325],
     description: {
       de: "Gegründet 1896, beherbergt dieser Garten im Zentrum von Taipeh über 2.000 Pflanzenarten und historische Gebäude aus der Qing-Dynastie.",
       hu: "Az 1896-ban alapított kert Tajpej központjában több mint 2000 növényfajnak és Csing-dinasztia korabeli épületeknek ad otthont.",
@@ -603,7 +603,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-fushan-botanical-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Fushan", hu: "Fushan Botanikus Kert", ro: "Grădina Botanică Fushan", en: "Fushan Botanical Garden" },
-    coordinates: { lat: 24.7584, lng: 121.5796 },
+    coords: [121.5796, 24.7584],
     description: {
       de: "Ein bedeutendes Forschungszentrum in den Bergen von Yilan, das den Zugang für Besucher zum Schutz der Biodiversität stark begrenzt.",
       hu: "Jelentős kutatóközpont Yilan hegyeiben, amely a biodiverzitás védelme érdekében szigorúan korlátozza a látogatók számát.",
@@ -622,7 +622,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-kenting-forest-life-v2",
     type: "forest",
     name: { de: "Kenting Nationales Walderholungsgebiet", hu: "Kenting Erdei Üdülőövezet", ro: "Zona Recreativă Kenting", en: "Kenting National Forest Recreation Area" },
-    coordinates: { lat: 21.9611, lng: 120.8166 },
+    coords: [120.8166, 21.9611],
     description: {
       de: "Dieses Gebiet in Pingtung ist bekannt für seine Kalksteinformationen aus Korallenriffen und eine reiche tropische Flora.",
       hu: "Ez a Pingtung megyei terület korallzátonyokból kialakult mészkőformációiról és gazdag trópusi növényvilágáról ismert.",
@@ -641,7 +641,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-aowanda-forest-life-v2",
     type: "forest",
     name: { de: "Aowanda Nationales Walderholungsgebiet", hu: "Aowanda Erdei Üdülőövezet", ro: "Zona Recreativă Aowanda", en: "Aowanda National Forest Recreation Area" },
-    coordinates: { lat: 23.9482, lng: 121.1738 },
+    coords: [121.1738, 23.9482],
     description: {
       de: "Aowanda ist als Heimat des Ahorns bekannt und zieht im Herbst Besucher an, die die Laubfärbung in den zentraltaiwanischen Bergen bewundern.",
       hu: "Aowanda a juharfák hazájaként ismert, és ősszel tömegeket vonz, akik a Tajvan középső hegyeiben látható lombhullást csodálják.",
@@ -660,7 +660,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-jhihben-forest-life-v2",
     type: "forest",
     name: { de: "Jhihben Nationales Walderholungsgebiet", hu: "Csepen Erdei Üdülőövezet", ro: "Zona Recreativă Jhihben", en: "Jhihben National Forest Recreation Area" },
-    coordinates: { lat: 22.6958, lng: 121.0152 },
+    coords: [121.0152, 22.6958],
     description: {
       de: "In der Nähe von Taitung gelegen, ist dieses Gebiet bekannt für seine jahrhundertealten Banyan-Bäume und Heilpflanzengärten.",
       hu: "Taitung közelében található terület, amely évszázados banyánfáiról és gyógynövénykertjeiről ismert.",
@@ -679,7 +679,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-fuyuan-forest-life-v2",
     type: "forest",
     name: { de: "Fuyuan Walderholungsgebiet", hu: "Fuyuan Erdei Üdülőövezet", ro: "Zona Recreativă Fuyuan", en: "Fuyuan National Forest Recreation Area" },
-    coordinates: { lat: 23.5936, lng: 121.3283 },
+    coords: [121.3283, 23.5936],
     description: {
       de: "Auch bekannt als Schmetterlingstal, beherbergt dieses Gebiet in Hualien dichte Kampferwälder und zahlreiche Wasserfälle.",
       hu: "Pillangó-völgyként is ismert terület Hualien megyében, sűrű kámforerdőkkel és számos vízeséssel.",
@@ -698,7 +698,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-manyueyuan-forest-life-v2",
     type: "forest",
     name: { de: "Manyueyuan Walderholungsgebiet", hu: "Manyueyuan Erdei Üdülőövezet", ro: "Zona Recreativă Manyueyuan", en: "Manyueyuan National Forest Recreation Area" },
-    coordinates: { lat: 24.8354, lng: 121.4391 },
+    coords: [121.4391, 24.8354],
     description: {
       de: "Ein bewaldetes Tal in New Taipei, das für seine Wasserfälle und die kühle Bergatmosphäre bekannt ist.",
       hu: "Erdős völgy Új-Tajpejben, amely vízeséseiről és hűvös hegyi levegőjéről ismert.",
@@ -717,7 +717,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-neidong-forest-life-v2",
     type: "forest",
     name: { de: "Neidong Walderholungsgebiet", hu: "Neidong Erdei Üdülőövezet", ro: "Zona Recreativă Neidong", en: "Neidong National Forest Recreation Area" },
-    coordinates: { lat: 24.8342, lng: 121.5284 },
+    coords: [121.5284, 24.8342],
     description: {
       de: "Dieses Gebiet in Wulai ist berühmt für seine hohe Konzentration an negativen Ionen in der Luft durch die Neidong-Wasserfälle.",
       hu: "Ez az ulaji terület a Neidong-vízesések által keltett magas negatív ionkoncentrációjáról híres.",
@@ -736,7 +736,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-shuangxi-botanical-life-v2",
     type: "park",
     name: { de: "Tropischer Botanischer Garten Shuangxi", hu: "Suangszi Trópusi Botanikus Kert", ro: "Grădina Botanică Tropicală Shuangxi", en: "Shuangxi Tropical Botanical Garden" },
-    coordinates: { lat: 22.9551, lng: 120.3541 },
+    coords: [120.3541, 22.9551],
     description: {
       de: "Ein historischer Garten in Kaohsiung, der während der japanischen Kolonialzeit zur Erforschung tropischer Nutzhölzer angelegt wurde.",
       hu: "Kaohsiung történelmi kertje, amelyet a japán gyarmati időszakban alapítottak trópusi haszonfák kutatására.",
@@ -755,7 +755,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-xiangshan-wetland-life-v2",
     type: "wildlife",
     name: { de: "Xiangshan Feuchtgebiet", hu: "Sziangsan Mocsárvidék", ro: "Zona Umedă Xiangshan", en: "Xiangshan Wetland" },
-    coordinates: { lat: 24.7705, lng: 120.9102 },
+    coords: [120.9102, 24.7705],
     description: {
       de: "Ein riesiges Küstenfeuchtgebiet in Hsinchu, das für seine Krabbenpopulation und als Rastplatz für Zugvögel von Bedeutung ist.",
       hu: "Hatalmas parti mocsárvidék Hszincsuban, amely rákpopulációjáról és vándormadarak pihenőhelyeként ismert.",
@@ -774,7 +774,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-tengzhi-forest-life-v2",
     type: "forest",
     name: { de: "Tengzhi Walderholungsgebiet", hu: "Tengzhi Erdei Üdülőövezet", ro: "Zona Recreativă Tengzhi", en: "Tengzhi National Forest Recreation Area" },
-    coordinates: { lat: 23.0645, lng: 120.7571 },
+    coords: [120.7571, 23.0645],
     description: {
       de: "Das auf 1.500 Metern gelegene Tengzhi in Kaohsiung ist bekannt für seine Wolkenwälder und die reiche Vielfalt an Gebirgspflanzen.",
       hu: "Az 1500 méter magasan fekvő Tengzhi Kaohsiungban köderdőiről és a hegyi növények gazdag választékáról ismert.",
@@ -793,7 +793,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     id: "taiwan-taichung-botanical-life-v2",
     type: "park",
     name: { de: "Botanischer Garten Taichung", hu: "Tajcsungi Botanikus Kert", ro: "Grădina Botanică Taichung", en: "Taichung Botanical Garden" },
-    coordinates: { lat: 24.1592, lng: 120.6635 },
+    coords: [120.6635, 24.1592],
     description: {
       de: "Dieser Garten in Taichung gehört zum Naturwissenschaftlichen Museum und verfügt über ein markantes 31 Meter hohes Glashaus für Regenwaldpflanzen.",
       hu: "Ez a tajcsungi kert a Természettudományi Múzeum része, és egy jellegzetes, 31 méter magas üvegházzal rendelkezik az esőerdei növényeknek.",

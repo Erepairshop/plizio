@@ -5,7 +5,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-ronphos-hq-economic-v2",
     type: "industry",
     name: { de: "RONPHOS-Hauptquartier", hu: "RONPHOS Központ", ro: "Sediul Central RONPHOS", en: "RONPHOS Headquarters" },
-    coordinates: { lat: -0.5332, lng: 166.9134 },
+    coords: [166.9134, -0.5332],
     description: {
       de: "Das RONPHOS-Zentrum koordiniert die gesamte Phosphatgewinnung auf Nauru. Es ist der administrative Kern des wichtigsten Wirtschaftszweiges des Inselstaates.",
       hu: "A RONPHOS központja koordinálja Nauru teljes foszfátkitermelését. Ez az intézmény a szigetország legfontosabb gazdasági ágazatának adminisztratív magja.",
@@ -24,7 +24,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-aiwo-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Aiwo", hu: "Aiwo kikötő", ro: "Portul Aiwo", en: "Aiwo Port" },
-    coordinates: { lat: -0.5361, lng: 166.9112 },
+    coords: [166.9112, -0.5361],
     description: {
       de: "Der Hafen von Aiwo ist das wichtigste maritime Tor für den Außenhandel und die Versorgung der Insel. Er schlägt Phosphatexporte und Treibstoffimporte um.",
       hu: "Az aiwoi kikötő a sziget külkereskedelmének és ellátásának legfontosabb tengeri kapuja. Itt bonyolítják a foszfátexportot és az üzemanyag-behozatalt.",
@@ -43,7 +43,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-anibare-harbour-economic-v2",
     type: "port",
     name: { de: "Bootshafen Anibare", hu: "Anibare kikötő", ro: "Portul Anibare", en: "Anibare Boat Harbour" },
-    coordinates: { lat: -0.5378, lng: 166.9535 },
+    coords: [166.9535, -0.5378],
     description: {
       de: "Der Hafen von Anibare unterstützt die lokale Fischereiindustrie und den aufstrebenden Tourismussektor. Er bietet Schutz für kleinere Schiffe und Motorboote.",
       hu: "Az anibare-i kikötő támogatja a helyi halászatot és a feltörekvő turizmust. Védelmet nyújt a kisebb hajók és motorcsónakok számára.",
@@ -62,7 +62,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-solar-plant-economic-v2",
     type: "industry",
     name: { de: "Nauru Solarpark", hu: "Nauru naperőmű", ro: "Parcul Solar Nauru", en: "Nauru Solar Plant" },
-    coordinates: { lat: -0.5485, lng: 166.9201 },
+    coords: [166.9201, -0.5485],
     description: {
       de: "Diese Solaranlage ist ein zentraler Bestandteil von Naurus Strategie für erneuerbare Energien. Sie reduziert die Abhängigkeit von teuren Dieselimporten zur Stromerzeugung.",
       hu: "Ez a naperőmű központi eleme Nauru megújuló energia stratégiájának. Csökkenti a drága dízelimporttól való függőséget az áramtermelésben.",
@@ -81,7 +81,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-nrc-hq-economic-v2",
     type: "industry",
     name: { de: "Nauru Rehabilitation Corporation (NRC)", hu: "Nauru Rehabilitációs Vállalat (NRC)", ro: "Corporația de Reabilitare Nauru (NRC)", en: "Nauru Rehabilitation Corporation (NRC)" },
-    coordinates: { lat: -0.5325, lng: 166.9198 },
+    coords: [166.9198, -0.5325],
     description: {
       de: "Die NRC ist für die Wiederherstellung der durch den Bergbau zerstörten Landflächen verantwortlich. Sie betreibt zudem sekundären Phosphatabbau in ehemals genutzten Gebieten.",
       hu: "Az NRC felelős a bányászat által tönkretett földterületek helyreállításáért. Emellett másodlagos foszfátkitermelést folytat a korábban használt területeken.",
@@ -100,7 +100,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-eigigu-supermarket-economic-v2",
     type: "landmark",
     name: { de: "Eigigu-Supermarkt", hu: "Eigigu szupermarket", ro: "Supermarketul Eigigu", en: "Eigigu Supermarket" },
-    coordinates: { lat: -0.5255, lng: 166.9142 },
+    coords: [166.9142, -0.5255],
     description: {
       de: "Der Eigigu-Supermarkt ist das größte Handelszentrum der Insel für Konsumgüter. Er wird von der staatlichen Eigigu Holdings Corporation betrieben.",
       hu: "Az Eigigu szupermarket a sziget legnagyobb fogyasztási cikkekkel foglalkozó kereskedelmi központja. Az állami Eigigu Holdings működteti.",
@@ -119,7 +119,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-phosphate-cantilever-economic-v2",
     type: "industry",
     name: { de: "Phosphat-Verladebrücken", hu: "Foszfátrakodó konzolok", ro: "Cantileverul de Fofat", en: "Phosphate Cantilevers" },
-    coordinates: { lat: -0.5358, lng: 166.9105 },
+    coords: [166.9105, -0.5358],
     description: {
       de: "Diese markanten Verladebrücken ermöglichen das Beladen von Frachtschiffen direkt vor der Küste. Sie sind das ikonische Symbol der nauruischen Bergbauwirtschaft.",
       hu: "Ezek a jellegzetes rakodókonzolok lehetővé teszik a teherhajók közvetlen rakodását a part mellett. A naurui bányászat ikonikus szimbólumai.",
@@ -138,7 +138,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-utilities-corp-economic-v2",
     type: "industry",
     name: { de: "Nauru Utilities Corporation (NUC)", hu: "Nauru Közművállalat (NUC)", ro: "Corporația de Utilități Nauru (NUC)", en: "Nauru Utilities Corporation (NUC)" },
-    coordinates: { lat: -0.5345, lng: 166.9125 },
+    coords: [166.9125, -0.5345],
     description: {
       de: "Die NUC ist der alleinige Anbieter von Strom und Wasser auf der Insel. Sie betreibt das zentrale Kraftwerk und die lebensnotwendige Entsalzungsanlage.",
       hu: "A NUC a sziget egyetlen áram- és vízellátója. Ez működteti a központi erőművet és a létfontosságú sótalanító berendezést.",
@@ -157,7 +157,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-nfmra-economic-v2",
     type: "landmark",
     name: { de: "Fischereibehörde (NFMRA)", hu: "Halászati Hatóság (NFMRA)", ro: "Autoritatea de Pescuit (NFMRA)", en: "Fisheries Authority (NFMRA)" },
-    coordinates: { lat: -0.5385, lng: 166.9528 },
+    coords: [166.9528, -0.5385],
     description: {
       de: "Die NFMRA verwaltet die reichen Fischgründe in Naurus exklusiver Wirtschaftszone. Sie ist eine wichtige Einnahmequelle durch die Vergabe von Fanglizenzen.",
       hu: "Az NFMRA kezeli Nauru exkluzív gazdasági övezetének gazdag halászati területeit. Fontos bevételi forrás a halászati engedélyek értékesítése révén.",
@@ -176,7 +176,7 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-denig-settlement-economic-v2",
     type: "village",
     name: { de: "Siedlung Denigomodu", hu: "Denigomodu település", ro: "Așezarea Denigomodu", en: "Denigomodu Settlement" },
-    coordinates: { lat: -0.5245, lng: 166.9155 },
+    coords: [166.9155, -0.5245],
     description: {
       de: "Denigomodu ist das wirtschaftliche Wohnzentrum für die Beschäftigten der Phosphatindustrie. Hier befinden sich wichtige Einzelhandelsgeschäfte und Bankfilialen.",
       hu: "Denigomodu a foszfátiparban dolgozók gazdasági és lakóközpontja. Itt találhatók a fontos kiskereskedelmi üzletek és bankfiókok.",

@@ -631,7 +631,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-hamgyong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Hamgyong-Gebirge", hu: "Hamgjong-hegység", ro: "Munții Hamgyong", en: "Hamgyong Mountains" },
-    coordinates: { lat: 41.5, lng: 129.0 },
+    coords: [129.0, 41.5],
     description: {
       de: "Das Hamgyong-Gebirge erstreckt sich entlang der Nordostküste Nordkoreas und bildet das zerklüftete Rückgrat der Region.",
       hu: "A Hamgjong-hegység Észak-Korea északkeleti partvidékén húzódik, és a régió rögös gerincét alkotja.",
@@ -650,7 +650,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-kwanmo-peak-relief-v2",
     type: "peak",
     name: { de: "Kwanmobong", hu: "Kwanmobong", ro: "Vârful Kwanmo", en: "Kwanmo Peak" },
-    coordinates: { lat: 41.516, lng: 129.214 },
+    coords: [129.214, 41.516],
     description: {
       de: "Mit 2.540 Metern ist der Kwanmobong der höchste Gipfel des Hamgyong-Gebirges und der zweithöchste Berg des Landes.",
       hu: "A 2540 méter magas Kwanmobong a Hamgjong-hegység legmagasabb csúcsa és az ország második legmagasabb hegye.",
@@ -669,7 +669,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-ahobiryong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Ahobiryong-Gebirge", hu: "Ahobirjong-hegység", ro: "Munții Ahobiryong", en: "Ahobiryong Mountains" },
-    coordinates: { lat: 38.4, lng: 126.6 },
+    coords: [126.6, 38.4],
     description: {
       de: "Das Ahobiryong-Gebirge ist ein Mittelgebirgszug im Süden des Landes, der für seine dichten Wälder und steilen Hänge bekannt ist.",
       hu: "Az Ahobirjong-hegység egy középhegység az ország déli részén, amely sűrű erdőiről és meredek lejtőiről ismert.",
@@ -688,7 +688,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-pukdaebong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Pukdaebong-Gebirge", hu: "Pukdebong-hegység", ro: "Munții Pukdaebong", en: "Pukdaebong Mountains" },
-    coordinates: { lat: 39.4, lng: 126.9 },
+    coords: [126.9, 39.4],
     description: {
       de: "Dieses Gebirge fungiert als klimatische Trennlinie zwischen den feuchteren Küstengebieten und dem trockeneren Binnenland.",
       hu: "Ez a hegység éghajlati választóvonalként funkcionál a nedvesebb tengerparti területek és a szárazabb belső vidékek között.",
@@ -707,7 +707,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-pujonryong-mountains-relief-v2",
     type: "mountain",
     name: { de: "Pujonryong-Gebirge", hu: "Phudzsonrjong-hegység", ro: "Munții Pujonryong", en: "Pujonryong Mountains" },
-    coordinates: { lat: 40.5, lng: 127.4 },
+    coords: [127.4, 40.5],
     description: {
       de: "Das Pujonryong-Gebirge zeichnet sich durch seine asymmetrische Form mit einem steilen Osthang und einem sanfteren Westhang aus.",
       hu: "A Phudzsonrjong-hegység aszimmetrikus formájával tűnik ki, meredek keleti lejtővel és lankásabb nyugati oldallal.",
@@ -726,7 +726,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-hyesan-basin-relief-v2",
     type: "valley",
     name: { de: "Hyesan-Becken", hu: "Hjeszan-medence", ro: "Bazinul Hyesan", en: "Hyesan Basin" },
-    coordinates: { lat: 41.3, lng: 128.2 },
+    coords: [128.2, 41.3],
     description: {
       de: "Das Hyesan-Becken ist eine tektonische Senke am Oberlauf des Yalu-Flusses, die eine wichtige landwirtschaftliche Fläche bildet.",
       hu: "A Hjeszan-medence egy tektonikus süllyedék a Jalu folyó felső szakaszánál, amely fontos mezőgazdasági területet alkot.",
@@ -745,7 +745,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     id: "northkorea-osong-mountain-relief-v2",
     type: "peak",
     name: { de: "Osongsan", hu: "Oszong-szan", ro: "Muntele Osong", en: "Mount Osong" },
-    coordinates: { lat: 38.35, lng: 127.35 },
+    coords: [127.35, 38.35],
     description: {
       de: "Der Osongsan ist ein strategisch bedeutender Berg in der Nähe der Demilitarisierten Zone mit weitem Blick über das Umland.",
       hu: "Az Oszong-szan egy stratégiailag jelentős hegy a demilitarizált övezet közelében, széles kilátással a környező vidékre.",

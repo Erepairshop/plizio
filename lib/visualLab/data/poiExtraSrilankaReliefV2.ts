@@ -966,7 +966,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-great-western-mountain-relief-v2",
     type: "peak",
     name: { de: "Great Western Mountain", hu: "Great Western-hegy", ro: "Muntele Great Western", en: "Great Western Mountain" },
-    coordinates: { lat: 6.9667, lng: 80.6667 },
+    coords: [80.6667, 6.9667],
     description: {
       de: "Der Great Western Mountain ist mit 2.212 Metern der sechsthöchste Gipfel Sri Lankas. Er liegt im Distrikt Nuwara Eliya im zentralen Hochland.",
       hu: "A Great Western-hegy Srí Lanka hatodik legmagasabb csúcsa, amely 2212 méteres magasságba emelkedik. Nuwara Eliya körzetében található.",
@@ -985,7 +985,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-kabaragala-relief-v2",
     type: "peak",
     name: { de: "Kabaragala", hu: "Kabaragala", ro: "Kabaragala", en: "Kabaragala" },
-    coordinates: { lat: 7.07, lng: 80.49 },
+    coords: [80.49, 7.07],
     description: {
       de: "Kabaragala ist der höchste Gipfel der Dolosbage-Bergkette auf einer Höhe von 1.506 Metern. Er ist durch ein flaches Gipfelplateau gekennzeichnet.",
       hu: "A Kabaragala a Dolosbage-hegység legmagasabb csúcsa 1506 méteres magasságban. Jellegzetessége a lapos hegytető és a meredek sziklafalak.",
@@ -1004,7 +1004,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-hanthana-mountain-range-relief-v2",
     type: "mountain",
     name: { de: "Hanthana-Bergkette", hu: "Hanthana-hegység", ro: "Lanțul muntos Hanthana", en: "Hanthana Mountain Range" },
-    coordinates: { lat: 7.25, lng: 80.63 },
+    coords: [80.63, 7.25],
     description: {
       de: "Die Hanthana-Bergkette liegt südlich von Kandy und besteht aus sieben Gipfeln. Sie dient als wichtiges Wassereinzugsgebiet für die Region.",
       hu: "A Hanthana-hegység Kandy városától délre fekszik, és hét csúcsból áll. A régió fontos vízgyűjtő területeként funkcionál.",
@@ -1023,7 +1023,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-alagalla-mountain-relief-v2",
     type: "peak",
     name: { de: "Alagalla-Berg", hu: "Alagalla-hegy", ro: "Muntele Alagalla", en: "Alagalla Mountain" },
-    coordinates: { lat: 7.275, lng: 80.485 },
+    coords: [80.485, 7.275],
     description: {
       de: "Der Alagalla-Berg, auch Potato Range genannt, ragt 1.140 Meter hoch empor. Er liegt an der Grenze zwischen den Provinzen Central und Sabaragamuwa.",
       hu: "Az Alagalla-hegy, más néven Potato Range, 1140 méter magasra emelkedik. A Központi és Sabaragamuwa tartományok határán található.",
@@ -1042,7 +1042,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-hunnasgiriya-mountain-relief-v2",
     type: "peak",
     name: { de: "Hunnasgiriya", hu: "Hunnasgiriya", ro: "Hunnasgiriya", en: "Hunnasgiriya Mountain" },
-    coordinates: { lat: 7.3, lng: 80.72 },
+    coords: [80.72, 7.3],
     description: {
       de: "Der Hunnasgiriya ist ein 1.490 Meter hoher Berg im Distrikt Kandy. Er gilt als das Tor zur zerklüfteten Knuckles-Bergkette.",
       hu: "A Hunnasgiriya egy 1490 méter magas hegycsúcs Kandy körzetében. A Knuckles-hegység kapujának tekintik.",
@@ -1061,7 +1061,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-single-tree-hill-relief-v2",
     type: "peak",
     name: { de: "Single Tree Hill", hu: "Single Tree Hill", ro: "Single Tree Hill", en: "Single Tree Hill" },
-    coordinates: { lat: 6.958, lng: 80.768 },
+    coords: [80.768, 6.958],
     description: {
       de: "Der Single Tree Hill ist mit 2.100 Metern der zehnthöchste Gipfel Sri Lankas. Er erhebt sich direkt über der Stadt Nuwara Eliya.",
       hu: "A Single Tree Hill Srí Lanka tizedik legmagasabb csúcsa, magassága 2100 méter. Közvetlenül Nuwara Eliya városa felett magasodik.",
@@ -1080,7 +1080,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-kudahagala-relief-v2",
     type: "peak",
     name: { de: "Kudahagala", hu: "Kudahagala", ro: "Kudahagala", en: "Kudahagala" },
-    coordinates: { lat: 6.815, lng: 80.785 },
+    coords: [80.785, 6.815],
     description: {
       de: "Kudahagala ist der siebthöchste Berg Sri Lankas und liegt im Horton-Plains-Nationalpark. Er erreicht eine Höhe von 2.103 Metern.",
       hu: "A Kudahagala Srí Lanka hetedik legmagasabb hegye, a Horton Plains Nemzeti Park területén található. Magassága 2103 méter.",
@@ -1099,7 +1099,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-kadugannawa-pass-relief-v2",
     type: "valley",
     name: { de: "Kadugannawa-Pass", hu: "Kadugannawa-hágó", ro: "Trecătoarea Kadugannawa", en: "Kadugannawa Pass" },
-    coordinates: { lat: 7.255, lng: 80.458 },
+    coords: [80.458, 7.255],
     description: {
       de: "Der Kadugannawa-Pass ist eine strategische Berglücke, die das Küstentiefland mit dem Hochland verbindet. Er war historisch der Hauptzugang nach Kandy.",
       hu: "A Kadugannawa-hágó egy stratégiai hegyi átjáró, amely az alföldet köti össze a felfölddel. Történelmileg ez volt Kandy fő bejárata.",
@@ -1118,7 +1118,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-uva-basin-relief-v2",
     type: "valley",
     name: { de: "Uva-Becken", hu: "Uva-medence", ro: "Bazinul Uva", en: "Uva Basin" },
-    coordinates: { lat: 6.85, lng: 81.0 },
+    coords: [81.0, 6.85],
     description: {
       de: "Das Uva-Becken ist eine weite, von Gebirgen umschlossene Senke im zentralen Hochland. Es liegt auf einer durchschnittlichen Höhe von 1.000 bis 1.500 Metern.",
       hu: "Az Uva-medence egy széles, hegyekkel körülvett mélyedés a központi felföldön. Átlagosan 1000-1500 méteres tengerszint feletti magasságban fekszik.",
@@ -1137,7 +1137,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     id: "srilanka-rakwana-massif-relief-v2",
     type: "mountain",
     name: { de: "Rakwana-Massiv", hu: "Rakwana-masszívum", ro: "Masivul Rakwana", en: "Rakwana Massif" },
-    coordinates: { lat: 6.45, lng: 80.6 },
+    coords: [80.6, 6.45],
     description: {
       de: "Das Rakwana-Massiv ist ein isolierter Gebirgsblock im Süden Sri Lankas. Es beherbergt wichtige Waldreservate und Gipfel über 1.000 Meter.",
       hu: "A Rakwana-masszívum egy izolált hegytömb Srí Lanka déli részén. Fontos erdőrezervátumoknak és 1000 méter feletti csúcsoknak ad otthont.",

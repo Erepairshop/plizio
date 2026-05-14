@@ -546,7 +546,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-damascus-securities-exchange-economic-v2",
     type: "industry",
     name: { de: "Wertpapierbörse Damaskus", hu: "Damaszkuszi Értéktőzsde", ro: "Bursa de Valori din Damasc", en: "Damascus Securities Exchange" },
-    coordinates: { lat: 33.5414, lng: 36.3119 },
+    coords: [36.3119, 33.5414],
     description: {
       de: "Die Wertpapierbörse Damaskus ist der zentrale Handelsplatz für Aktien und Wertpapiere in Syrien.",
       hu: "A Damaszkuszi Értéktőzsde Szíria központi részvény- és értékpapír-kereskedelmi helyszíne.",
@@ -565,7 +565,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-damascus-international-fairground-economic-v2",
     type: "industry",
     name: { de: "Internationales Messegelände Damaskus", hu: "Damaszkuszi Nemzetközi Vásárterület", ro: "Centrul Expozițional Internațional Damasc", en: "Damascus International Fairground" },
-    coordinates: { lat: 33.4286, lng: 36.4714 },
+    coords: [36.4714, 33.4286],
     description: {
       de: "Dieses großflächige Messegelände nahe dem Flughafen dient als wichtigstes Schaufenster für die syrische Wirtschaft.",
       hu: "Ez a repülőtér közeli tágas vásárterület a szíriai gazdaság legfontosabb bemutatóhelyeként szolgál.",
@@ -584,7 +584,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-muhardeh-power-plant-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Muhardeh", hu: "Muhardeh Erőmű", ro: "Centrala Electrică Muhardeh", en: "Muhardeh Power Plant" },
-    coordinates: { lat: 35.2472, lng: 36.5744 },
+    coords: [36.5744, 35.2472],
     description: {
       de: "Das Kraftwerk Muhardeh ist eine der größten thermischen Energieerzeugungsanlagen in der Provinz Hama.",
       hu: "A Muhardeh erőmű Hama tartomány egyik legnagyobb termikus energiatermelő létesítménye.",
@@ -603,7 +603,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-lake-16-tishreen-dam-economic-v2",
     type: "lake",
     name: { de: "Talsperre 16. Oktober", hu: "Október 16. gát", ro: "Barajul 16 Octombrie", en: "October 16th Dam" },
-    coordinates: { lat: 35.5303, lng: 35.9806 },
+    coords: [35.9806, 35.5303],
     description: {
       de: "Dieser Staudamm in der Nähe von Latakia bildet einen Stausee, der für die Bewässerung und Stromerzeugung genutzt wird.",
       hu: "Ez a Latakia közeli gát egy víztározót alkot, amelyet öntözésre és áramtermelésre használnak.",
@@ -622,7 +622,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-homs-sugar-factory-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Homs", hu: "Homszi Cukorgyár", ro: "Fabrica de Zahăr din Homs", en: "Homs Sugar Factory" },
-    coordinates: { lat: 34.7225, lng: 36.7028 },
+    coords: [36.7028, 34.7225],
     description: {
       de: "Die staatliche Zuckerfabrik in Homs ist ein Eckpfeiler der syrischen Lebensmittelindustrie.",
       hu: "A homszi állami cukorgyár a szíriai élelmiszeripar egyik tartóoszlopa.",
@@ -641,7 +641,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-latakia-free-zone-economic-v2",
     type: "port",
     name: { de: "Freizone Latakia", hu: "Latakiai Szabadövezet", ro: "Zona Liberă Latakia", en: "Latakia Free Zone" },
-    coordinates: { lat: 35.5492, lng: 35.7917 },
+    coords: [35.7917, 35.5492],
     description: {
       de: "Diese Sonderwirtschaftszone im Hafen von Latakia bietet steuerliche Anreize für internationalen Handel und Logistik.",
       hu: "Ez a latakiai kikötőben található különleges gazdasági övezet adókedvezményeket kínál a nemzetközi kereskedelemhez.",
@@ -660,7 +660,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-hayan-gas-plant-economic-v2",
     type: "factory",
     name: { de: "Gasanlage Hayan", hu: "Hayan Gázfeldolgozó", ro: "Instalația de Gaze Hayan", en: "Hayan Gas Plant" },
-    coordinates: { lat: 34.6983, lng: 37.7958 },
+    coords: [37.7958, 34.6983],
     description: {
       de: "Die Hayan-Gasanlage östlich von Homs ist entscheidend für die Erdgasversorgung des syrischen Stromnetzes.",
       hu: "A Homssztól keletre fekvő Hayan gázüzem döntő fontosságú a szíriai elektromos hálózat földgázellátásában.",
@@ -679,7 +679,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-baniyas-thermal-power-station-economic-v2",
     type: "factory",
     name: { de: "Thermisches Kraftwerk Baniyas", hu: "Baniyaszi Hőerőmű", ro: "Centrala Termoelectrică Baniyas", en: "Baniyas Thermal Power Station" },
-    coordinates: { lat: 35.1917, lng: 35.9419 },
+    coords: [35.9419, 35.1917],
     description: {
       de: "Dieses an der Küste gelegene Kraftwerk versorgt die Raffinerie von Baniyas und die Küstenregion mit Strom.",
       hu: "Ez a tengerparti erőmű látja el árammal a baniyaszi finomítót és a partmenti régiót.",
@@ -698,7 +698,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-jebel-al-wastani-olive-mills-economic-v2",
     type: "industry",
     name: { de: "Olivenmühlen von Jebel al-Wastani", hu: "Jebel al-Wastani olajütők", ro: "Presele de măsline din Jebel al-Wastani", en: "Jebel al-Wastani Olive Mills" },
-    coordinates: { lat: 35.9083, lng: 36.4833 },
+    coords: [36.4833, 35.9083],
     description: {
       de: "Dieses Gebirgsareal in Idlib ist das Zentrum der Olivenölproduktion mit zahlreichen modernen und traditionellen Mühlen.",
       hu: "Ez az idlibi hegyvidéki terület az olívaolaj-termelés központja számos modern és hagyományos malommal.",
@@ -717,7 +717,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-maskaneh-irrigation-project-economic-v2",
     type: "industry",
     name: { de: "Bewässerungsprojekt Maskaneh", hu: "Maszkanai öntözési projekt", ro: "Proiectul de irigații Maskaneh", en: "Maskaneh Irrigation Project" },
-    coordinates: { lat: 35.9556, lng: 38.0583 },
+    coords: [38.0583, 35.9556],
     description: {
       de: "Das Maskaneh-Projekt nutzt das Wasser des Euphrat, um weite Wüstengebiete in fruchtbares Ackerland zu verwandeln.",
       hu: "A maszkanai projekt az Eufrátesz vizét használja fel, hogy hatalmas sivatagi területeket termékeny földdé alakítson.",
@@ -736,7 +736,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-aleppo-textile-mills-economic-v2",
     type: "factory",
     name: { de: "Textilfabriken von Aleppo", hu: "Aleppói Textilgyárak", ro: "Fabricile de Textile din Alep", en: "Aleppo Textile Mills" },
-    coordinates: { lat: 36.2167, lng: 37.1667 },
+    coords: [37.1667, 36.2167],
     description: {
       de: "Aleppo ist historisch das Zentrum der syrischen Textilindustrie, bekannt für Baumwollgarne und hochwertige Stoffe.",
       hu: "Aleppo történelmileg a szíriai textilipar központja, híres pamutfonalairól és kiváló minőségű szöveteiről.",
@@ -755,7 +755,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-tartus-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Tartus", hu: "Tartuszi Cementgyár", ro: "Fabrica de Ciment din Tartus", en: "Tartus Cement Factory" },
-    coordinates: { lat: 34.9583, lng: 35.9167 },
+    coords: [35.9167, 34.9583],
     description: {
       de: "Das Zementwerk von Tartus ist einer der wichtigsten Produzenten von Baumaterialien für den syrischen Wiederaufbau.",
       hu: "A tartuszi cementgyár a szíriai újjáépítéshez szükséges építőanyagok egyik legfontosabb előállítója.",
@@ -774,7 +774,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-damascus-airport-logistics-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Flughafen Damaskus", hu: "Damaszkuszi Repülőtér Logisztikai Központ", ro: "Centrul Logistic al Aeroportului Damasc", en: "Damascus Airport Logistics Hub" },
-    coordinates: { lat: 33.4111, lng: 36.5133 },
+    coords: [36.5133, 33.4111],
     description: {
       de: "Der Bereich um den Flughafen Damaskus dient als zentraler Umschlagplatz für Luftfracht und internationale Kurierdienste.",
       hu: "A damaszkuszi repülőtér környéke a légi szállítmányozás és a nemzetközi futárszolgálatok központi átrakodóhelye.",
@@ -793,7 +793,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-akkar-plain-agriculture-economic-v2",
     type: "industry",
     name: { de: "Agrarregion Akkar-Ebene", hu: "Akkar-síkság mezőgazdasága", ro: "Regiunea Agricolă Câmpia Akkar", en: "Akkar Plain Agriculture" },
-    coordinates: { lat: 34.6833, lng: 36.0333 },
+    coords: [36.0333, 34.6833],
     description: {
       de: "Die Akkar-Ebene an der Küste ist eine der fruchtbarsten Regionen Syriens, spezialisiert auf Treibhauskulturen.",
       hu: "A partmenti Akkar-síkság Szíria egyik legtermékenyebb régiója, amely üvegházi termesztésre szakosodott.",
@@ -812,7 +812,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-salamiyah-agriculture-economic-v2",
     type: "industry",
     name: { de: "Landwirtschaftszentrum Salamiyah", hu: "Szalimijai Mezőgazdasági Központ", ro: "Centrul Agricol Salamiyah", en: "Salamiyah Agricultural Center" },
-    coordinates: { lat: 35.0111, lng: 37.0533 },
+    coords: [37.0533, 35.0111],
     description: {
       de: "Salamiyah ist ein wichtiges Zentrum für den Anbau von Zwiebeln und Kreuzkümmel in der Übergangszone zur Wüste.",
       hu: "Szalimija a hagyma és a római kömény termesztésének fontos központja a sivatagi átmeneti zónában.",
@@ -831,7 +831,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-deir-ali-power-plant-economic-v2",
     type: "factory",
     name: { de: "Kraftwerk Deir Ali", hu: "Deir Ali Erőmű", ro: "Centrala Electrică Deir Ali", en: "Deir Ali Power Plant" },
-    coordinates: { lat: 33.2514, lng: 36.4028 },
+    coords: [36.4028, 33.2514],
     description: {
       de: "Deir Ali ist ein hochmodernes Kombikraftwerk südlich von Damaskus, das einen Großteil der Hauptstadt versorgt.",
       hu: "Deir Ali egy ultramodern kombinált ciklusú erőmű Damaszkusztól délre, amely a főváros nagy részét ellátja.",
@@ -850,7 +850,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-nasib-border-crossing-economic-v2",
     type: "industry",
     name: { de: "Grenzübergang Nasib", hu: "Naszibi határátkelő", ro: "Punctul de Trecere Nasib", en: "Nasib Border Crossing" },
-    coordinates: { lat: 32.5333, lng: 36.2028 },
+    coords: [36.2028, 32.5333],
     description: {
       de: "Der Grenzübergang Nasib ist das wichtigste wirtschaftliche Tor zwischen Syrien, Jordanien und den Golfstaaten.",
       hu: "A naszibi határátkelő a legfontosabb gazdasági kapu Szíria, Jordánia és az Öböl-menti államok között.",
@@ -869,7 +869,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-ebla-gas-plant-economic-v2",
     type: "factory",
     name: { de: "Gasanlage Ebla", hu: "Ebla Gázfeldolgozó", ro: "Instalația de Gaze Ebla", en: "Ebla Gas Plant" },
-    coordinates: { lat: 34.875, lng: 37.3167 },
+    coords: [37.3167, 34.875],
     description: {
       de: "Die Ebla-Gasanlage verarbeitet Erdgas aus den Feldern von Ash-Shaer, um Kraftwerke im ganzen Land zu speisen.",
       hu: "Az Ebla gázüzem az Ash-Shaer mezőkről származó földgázt dolgozza fel az ország erőműveinek ellátására.",
@@ -888,7 +888,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-homs-phosphate-processing-economic-v2",
     type: "factory",
     name: { de: "Phosphat-Verarbeitungswerk Homs", hu: "Homszi Foszfátfeldolgozó", ro: "Instalația de Procesare a Fosfaților Homs", en: "Homs Phosphate Processing Plant" },
-    coordinates: { lat: 34.6833, lng: 36.7583 },
+    coords: [36.7583, 34.6833],
     description: {
       de: "Dieses Werk veredelt Rohphosphate aus den Minen der Syrischen Wüste zu Düngemitteln für den Export.",
       hu: "Ez az üzem a szíriai sivatag bányáiból származó nyersfoszfátot dolgozza fel exportra szánt műtrágyává.",
@@ -907,7 +907,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-al-kiswa-industrial-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Al-Kiswa", hu: "Al-Kiswa ipari negyed", ro: "Zona Industrială Al-Kiswa", en: "Al-Kiswa Industrial Area" },
-    coordinates: { lat: 33.3556, lng: 36.2417 },
+    coords: [36.2417, 33.3556],
     description: {
       de: "Das Industriegebiet Al-Kiswa südlich von Damaskus beherbergt zahlreiche Leichtindustrien und Metallbetriebe.",
       hu: "A Damaszkusztól délre fekvő Al-Kiswa ipari terület számos könnyűipari és fémipari üzemnek ad otthont.",
@@ -926,7 +926,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     id: "syria-lattakia-citrus-packing-economic-v2",
     type: "industry",
     name: { de: "Zitrusfrucht-Verpackungszentrum Latakia", hu: "Latakiai Citromoscsomagoló Központ", ro: "Centrul de Ambalare a Citricelor Latakia", en: "Latakia Citrus Packing Center" },
-    coordinates: { lat: 35.5833, lng: 35.8333 },
+    coords: [35.8333, 35.5833],
     description: {
       de: "In diesem modernen Zentrum werden Zitrusfrüchte aus der Küstenregion für den internationalen Export vorbereitet.",
       hu: "Ebben a modern központban a partmenti régió citrusféléit készítik elő a nemzetközi exporthoz.",

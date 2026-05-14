@@ -5,7 +5,7 @@ export const marshallislandsReliefV2: POI[] = [
     id: "marshallislands-likiep-highest-point-relief-v2",
     type: "peak",
     name: { de: "Likiep Höchster Punkt", hu: "Likiep legmagasabb pontja", ro: "Punctul maxim Likiep", en: "Likiep Highest Point" },
-    coordinates: { lat: 9.821, lng: 169.142 },
+    coords: [169.142, 9.821],
     description: {
       de: "Der höchste Punkt der Marshallinseln liegt auf dem Likiep-Atoll und erreicht eine bescheidene Höhe von nur 10 Metern.",
       hu: "A Marshall-szigetek legmagasabb pontja a Likiep-atoll egyik névtelen szigetén található, mindössze 10 méterrel a tengerszint felett.",
@@ -19,12 +19,24 @@ export const marshallislandsReliefV2: POI[] = [
       en: ["Elevation: 10 meters", "Part of Ratak Chain", "Coral limestone base", "World's lowest high point"],
     },
     imageHint: "Likiep Atoll aerial view coral reef",
+    descriptionAdvanced: {
+      de: "Der höchste Punkt von Likiep-Atoll liegt auf nur etwa 10 Metern über dem Meeresspiegel, was für die Marshallinseln ungewöhnlich hoch ist. Das Atoll selbst besteht aus 63 Inseln mit einer Landfläche von 10,26 km². Die Erhebung befindet sich auf der Hauptinsel Likiep und ist ein niedriger Hügel aus korallenem Kalkstein. Diese relative Höhe bietet einen seltenen Ausblick über die umliegende Lagune. Aufgrund des Klimawandels ist selbst diese Höhe bedroht. Die ansässige Bevölkerung von etwa 500 Menschen nutzt die höheren Lagen für den Anbau von Kokosnüssen und Brotfrüchten. Der Name Likiep bedeutet in der marshallesischen Sprache so viel wie \"Sandbank\".",
+      hu: "A Likiep-atoll legmagasabb pontja körülbelül 10 méterrel emelkedik a tengerszint fölé, ami kiemelkedő a Marshall-szigeteken. Az atoll 63 szigetből áll, szárazföldi területe 10,26 km². A kiemelkedés a Likiep nevű főszigeten található, egy alacsony korallmészkő domb. Ez a relatív magasság ritka kilátást nyújt a lagúnára. A klímaváltozás miatt ez a magasság is veszélyben van. A mintegy 500 lakos a magasabb területeken termeszt kókuszdiót és kenyérgyümölcsöt. A Likiep név jelentése \"homokpad\".",
+      ro: "Cel mai înalt punct al atolului Likiep se ridică la aproximativ 10 metri deasupra nivelului mării, ceea ce este neobișnuit de mult pentru Insulele Marshall. Atolul are 63 de insule cu o suprafață totală de 10,26 km². Acest punct se află pe insula principală Likiep, fiind o colină joasă de calcar coralifer. Oferă o panoramă rară asupra lagunei. Schimbările climatice amenință și această altitudine. Cei aproximativ 500 de locuitori cultivă nuci de cocos și fructe de pâine pe terenurile mai înalte. Numele Likiep înseamnă „banc de nisip” în marshallese.",
+      en: "Likiep Atoll's highest point reaches about 10 meters above sea level, notably high for the Marshall Islands. The atoll comprises 63 islands with a total land area of 10.26 km². The elevation is on Likiep Island, a low coral limestone hill offering rare views over the lagoon. Climate change threatens even this modest height. Around 500 residents cultivate coconuts and breadfruit on higher ground. The name Likiep means \"sandbank\" in Marshallese, reflecting its geography.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 10 m über NN", "Anzahl Inseln: 63", "Landfläche: 10,26 km²", "Einwohnerzahl: ca. 500", "Lagunenfläche: 424 km²", "Länge des Atolls: 35 km"],
+      hu: ["legmagasabb pont: 10 m tengerszint felett", "szigetek száma: 63", "szárazföld területe: 10,26 km²", "lakosok száma: kb. 500", "lagúna területe: 424 km²", "atoll hossza: 35 km"],
+      ro: ["altitudinea maximă: 10 m deasupra nivelului mării", "număr de insule: 63", "suprafața terestră: 10,26 km²", "populație: aprox. 500", "suprafața lagunei: 424 km²", "lungimea atolului: 35 km"],
+      en: ["highest elevation: 10 m above sea level", "number of islands: 63", "land area: 10.26 km²", "population: approx. 500", "lagoon area: 424 km²", "atoll length: 35 km"],
+    },
   },
   {
     id: "marshallislands-kwajalein-lagoon-relief-v2",
     type: "landmark",
     name: { de: "Kwajalein-Lagune", hu: "Kwajalein-lagúna", ro: "Laguna Kwajalein", en: "Kwajalein Lagoon" },
-    coordinates: { lat: 9.108, lng: 167.442 },
+    coords: [167.442, 9.108],
     description: {
       de: "Die Kwajalein-Lagune ist eine der größten Korallenlagunen der Welt und bildet eine markante topographische Senke im Ozean.",
       hu: "A Kwajalein-lagúna a világ egyik legnagyobb korall-lagúnája, amely jelentős domborzati mélyedést alkot az óceán közepén.",
@@ -38,12 +50,24 @@ export const marshallislandsReliefV2: POI[] = [
       en: ["Area: 2,174 km²", "Circumference: 130 km", "Comprises 97 islets", "Major marine relief feature"],
     },
     imageHint: "Kwajalein Atoll massive lagoon satellite",
+    descriptionAdvanced: {
+      de: "Die Kwajalein-Lagune ist eine der größten Lagunen der Welt mit einer Fläche von 2.174 km² und einer Länge von etwa 120 km. Sie umschließt das gleichnamige Atoll, das aus 97 Inseln mit einer Landfläche von 16,4 km² besteht. Die Lagune dient als strategischer Militärstützpunkt der USA für Raketentests. Ihre Tiefe variiert, der größte Teil ist flach (< 30 m), es gibt aber tiefere Kanäle. Das Riff ist gut entwickelt und beherbergt eine reiche Meeresfauna. Die Lagune war Schauplatz historischer Schlachten im Zweiten Weltkrieg. Heute ist der Zugang für die einheimische Bevölkerung eingeschränkt.",
+      hu: "A Kwajalein-lagúna a világ egyik legnagyobb lagúnája, területe 2.174 km², hossza körülbelül 120 km. Az azonos nevű atoll 97 szigetből áll, szárazföldi területe 16,4 km². A lagúnát az Egyesült Államok rakétakísérletekhez használja. Mélysége változó, általában sekély (<30 m), de mélyebb csatornák is vannak. A zátony gazdag tengeri élővilágnak ad otthont. A második világháborúban fontos csaták színtere volt. Ma a helyiek számára korlátozott a hozzáférés.",
+      ro: "Laguna Kwajalein este una dintre cele mai mari lagune din lume, cu o suprafață de 2.174 km² și o lungime de aproximativ 120 km. Ea înconjoară atolul omonim, format din 97 de insule cu o suprafață terestră de 16,4 km². Laguna este utilizată de Statele Unite ca bază militară pentru teste de rachete. Adâncimea este preponderent mică (<30 m), dar există canale mai adânci. Reciful este bine dezvoltat, găzduind o faună marină bogată. Laguna a fost scena unor bătălii istorice în al Doilea Război Mondial. Astăzi, accesul populației locale este restricționat.",
+      en: "Kwajalein Lagoon is one of the world's largest lagoons, covering 2,174 km² and stretching about 120 km in length. It surrounds Kwajalein Atoll, which comprises 97 islands with a land area of 16.4 km². The lagoon is used by the US military for missile testing. Depths are mostly shallow (<30 m) but include deeper channels. The reef supports diverse marine life. During WWII, the lagoon was the site of the Battle of Kwajalein. Access is restricted for locals due to military operations.",
+    },
+    factsAdvanced: {
+      de: ["Lagunenfläche: 2.174 km²", "Länge der Lagune: 120 km", "Anzahl Inseln: 97", "Landfläche: 16,4 km²", "Maximale Tiefe: ? (diverse Angaben)", "Nutzung: US-Raketentestgelände"],
+      hu: ["lagúna területe: 2.174 km²", "lagúna hossza: 120 km", "szigetek száma: 97", "szárazföld területe: 16,4 km²", "maximális mélység: kb. 37 m (egy forrás szerint)", "használat: amerikai rakétakísérletek"],
+      ro: ["suprafața lagunei: 2.174 km²", "lungimea lagunei: 120 km", "număr de insule: 97", "suprafața terestră: 16,4 km²", "adâncimea maximă: cca. 37 m (conform unor surse)", "utilizare: bază de testare rachete a SUA"],
+      en: ["lagoon area: 2,174 km²", "lagoon length: 120 km", "number of islands: 97", "land area: 16.4 km²", "maximum depth: approx. 37 m (varies)", "use: US missile testing range"],
+    },
   },
   {
     id: "marshallislands-ratak-chain-relief-v2",
     type: "landmark",
     name: { de: "Ratak-Kette", hu: "Ratak-lánc", ro: "Lanțul Ratak", en: "Ratak Chain" },
-    coordinates: { lat: 10.0, lng: 171.0 },
+    coords: [171.0, 10.0],
     description: {
       de: "Die Ratak-Kette, auch Sonnenaufgangskette genannt, bildet den östlichen Teil der submarinen Gebirgsstruktur des Archipels.",
       hu: "A Ratak-lánc, vagyis a Napkelte-lánc, a szigetcsoport víz alatti hegyszerkezetének keleti vonulatát alkotja.",
@@ -57,12 +81,24 @@ export const marshallislandsReliefV2: POI[] = [
       en: ["Eastern island group", "Consists of 14 atolls", "Submarine ridge feature", "Home to capital Majuro"],
     },
     imageHint: "Ratak Chain Marshall Islands map view",
+    descriptionAdvanced: {
+      de: "Die Ratak-Kette ist eine der beiden parallelen Inselketten der Marshallinseln, die sich über etwa 1.300 km von Norden nach Süden erstreckt. Sie umfasst 16 Atolle und 2 isolierte Inseln, darunter Majuro, die Hauptstadt. Die Kette liegt östlich der Ralik-Kette und ist geologisch durch Korallenwachstum auf erloschenen Vulkanen entstanden. Die Landhöhen sind minimal, meist unter 5 m. Die Ratak-Kette ist bekannt für ihre reichen Fischgründe und die traditionelle Kultur, besonders die Navigation mit Stabkarten. Der Name Ratak bedeutet in marshallesischer Sprache \"Sonnenaufgang\" (Osten).",
+      hu: "A Ratak-lánc a Marshall-szigetek két párhuzamos szigetsorának egyike, mintegy 1.300 km hosszan húzódik észak-déli irányban. 16 atollból és 2 elszigetelt szigetből áll, köztük Majuróval, a fővárossal. A lánc a Ralik-lánctól keletre fekszik, geológiailag kihalt vulkánokra épülő korallzátonyok alkotják. A magasságok minimálisak, általában 5 m alatt. A Ratak-lánc gazdag halászati területeiről és hagyományos kultúrájáról ismert, különösen a csillagnavigációs technikákról. A Ratak név jelentése \"napfelkelte\" (kelet).",
+      ro: "Lanțul Ratak este una dintre cele două lanțuri paralele de insule ale Insulelor Marshall, întinzându-se pe aproximativ 1.300 km de la nord la sud. Cuprinde 16 atoli și 2 insule izolate, inclusiv Majuro, capitala. Lanțul se află la est de lanțul Ralik și este format din creșteri de corali pe vulcani stinși. Altitudinile sunt minime, de obicei sub 5 m. Lanțul Ratak este cunoscut pentru zonele de pescuit bogate și cultura tradițională, în special navigația stelară. Numele Ratak înseamnă „răsărit” (est) în marshallese.",
+      en: "The Ratak Chain is one of the two parallel island chains of the Marshall Islands, stretching about 1,300 km north-south. It comprises 16 atolls and 2 isolated islands, including Majuro, the capital. The chain lies east of the Ralik Chain and was formed by coral growth on extinct volcanoes. Elevations are minimal, mostly below 5 m. The Ratak Chain is known for its rich fishing grounds and traditional culture, particularly stick chart navigation. The name Ratak means \"sunrise\" (east) in Marshallese.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Kette: ca. 1.300 km", "Anzahl Atolle: 16", "Isolierte Inseln: 2", "Höchster Punkt: unter 5 m", "Hauptstadt: Majuro", "Östliche Kette"],
+      hu: ["lánc hossza: kb. 1.300 km", "atollok száma: 16", "elszigetelt szigetek: 2", "legmagasabb pont: 5 m alatt", "főváros: Majuro", "keleti lánc"],
+      ro: ["lungimea lanțului: aprox. 1.300 km", "număr de atoli: 16", "insule izolate: 2", "punctul cel mai înalt: sub 5 m", "capitala: Majuro", "lanț estic"],
+      en: ["chain length: approx. 1,300 km", "number of atolls: 16", "isolated islands: 2", "highest point: below 5 m", "capital: Majuro", "eastern chain"],
+    },
   },
   {
     id: "marshallislands-ralik-chain-relief-v2",
     type: "landmark",
     name: { de: "Ralik-Kette", hu: "Ralik-lánc", ro: "Lanțul Ralik", en: "Ralik Chain" },
-    coordinates: { lat: 8.0, lng: 167.0 },
+    coords: [167.0, 8.0],
     description: {
       de: "Die Ralik-Kette bildet den westlichen Teil der Marshallinseln und besteht aus Atollen, die auf einem unterseeischen Rücken ruhen.",
       hu: "A Ralik-lánc a Marshall-szigetek nyugati vonulata, amely egy hatalmas víz alatti hátság mentén elhelyezkedő atollokból áll.",
@@ -76,5 +112,17 @@ export const marshallislandsReliefV2: POI[] = [
       en: ["Western island group", "Means Sunset Chain", "15 atolls and islands", "Deep ocean basins nearby"],
     },
     imageHint: "Ralik Chain islands aerial sunset",
+    descriptionAdvanced: {
+      de: "Die Ralik-Kette ist die westliche der beiden Inselketten der Marshallinseln. Sie erstreckt sich rund 1.300 km von Nord nach Süd und umfasst 15 Atolle und 3 isolierte Inseln, darunter Kwajalein, die größte Lagune der Welt. Die Kette ist geologisch durch Korallenwachstum auf submarinen Vulkanen entstanden. Die Landhöhen sind extrem niedrig, oft unter 3 m. Die Ralik-Kette hat eine reiche Kulturgeschichte mit traditionellen Häuptlingstümern. Der Name Ralik bedeutet \"Sonnenuntergang\" (Westen). Die Atolle sind dicht besiedelt im Vergleich zu Ratak, mit Schwerpunkt auf Kokosnussanbau und Fischerei.",
+      hu: "A Ralik-lánc a Marshall-szigetek nyugati szigetsora, hossza mintegy 1.300 km észak-déli irányban. 15 atollból és 3 elszigetelt szigetből áll, köztük Kwajaleinnal, a világ legnagyobb lagúnájával. A lánc geológiailag tenger alatti vulkánokra épülő korallzátonyokból áll. A magasságok nagyon alacsonyak, gyakran 3 m alatt. A Ralik-lánc gazdag kulturális örökséggel bír, hagyományos törzsi vezetőséggel. A név jelentése \"naplemente\" (nyugat). Az atollok sűrűbben lakottak, mint a Ratak-láncban, a gazdaság a kókusztermesztésre és halászatra épül.",
+      ro: "Lanțul Ralik este lanțul vestic de insule al Insulelor Marshall, întinzându-se pe aproximativ 1.300 km de la nord la sud. Cuprinde 15 atoli și 3 insule izolate, inclusiv Kwajalein, cea mai mare lagună din lume. Lanțul s-a format prin creșterea coralilor pe vulcani submarini. Altitudinile sunt foarte joase, adesea sub 3 m. Ralik are o bogată istorie culturală, cu căpetenii tradiționale. Numele Ralik înseamnă „apus” (vest) în marshallese. Atolii sunt mai dens populați decât în lanțul Ratak, economia bazându-se pe cocotieri și pescuit.",
+      en: "The Ralik Chain is the western chain of the Marshall Islands, stretching about 1,300 km north-south. It comprises 15 atolls and 3 isolated islands, including Kwajalein, home to the world's largest lagoon. The chain was formed by coral growth on submerged volcanoes. Elevations are very low, often below 3 m. The Ralik Chain has a rich cultural history with traditional chiefdoms. The name Ralik means \"sunset\" (west) in Marshallese. Atolls are more densely populated than those in the Ratak Chain, with economies based on coconut cultivation and fishing.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Kette: ca. 1.300 km", "Anzahl Atolle: 15", "Isolierte Inseln: 3", "Höchster Punkt: unter 3 m", "Größte Lagune: Kwajalein", "Westliche Kette"],
+      hu: ["lánc hossza: kb. 1.300 km", "atollok száma: 15", "elszigetelt szigetek: 3", "legmagasabb pont: 3 m alatt", "legnagyobb lagúna: Kwajalein", "nyugati lánc"],
+      ro: ["lungimea lanțului: aprox. 1.300 km", "număr de atoli: 15", "insule izolate: 3", "punctul cel mai înalt: sub 3 m", "cea mai mare lagună: Kwajalein", "lanț vestic"],
+      en: ["chain length: approx. 1,300 km", "number of atolls: 15", "isolated islands: 3", "highest point: below 3 m", "largest lagoon: Kwajalein", "western chain"],
+    },
   }
 ];

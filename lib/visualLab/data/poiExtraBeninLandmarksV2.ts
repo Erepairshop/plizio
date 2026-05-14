@@ -813,7 +813,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-monument-bio-guerra-landmarks-v2",
     type: "monument",
     name: { de: "Bio-Guerra-Denkmal", hu: "Bio Guerra-emlékmű", ro: "Monumentul Bio Guerra", en: "Bio Guerra Monument" },
-    coordinates: { lat: 9.3333, lng: 2.6333 },
+    coords: [2.6333, 9.3333],
     description: {
       de: "Dieses Denkmal in Parakou ehrt den Anführer des Widerstands gegen die französische Kolonialherrschaft. Es erinnert an den Kampf der Wasangari-Krieger.",
       hu: "Ez a parakoui emlékmű a francia gyarmati uralom elleni ellenállás vezetőjét tiszteli. A vasangari harcosok küzdelmének állít emléket.",
@@ -844,7 +844,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-mosquee-centrale-parakou-landmarks-v2",
     type: "church",
     name: { de: "Zentralmoschee von Parakou", hu: "Parakou Központi Mecset", ro: "Moscheea Centrală din Parakou", en: "Central Mosque of Parakou" },
-    coordinates: { lat: 9.352, lng: 2.628 },
+    coords: [2.628, 9.352],
     description: {
       de: "Die Zentralmoschee von Parakou ist ein bedeutendes religiöses Gebäude für die muslimische Gemeinschaft im Norden Benins. Sie zeichnet sich durch ihren markanten Turm aus.",
       hu: "A parakoui Központi Mecset fontos vallási épület Benin északi részének muszlim közössége számára. Jellegzetes tornya messziről látható.",
@@ -875,7 +875,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-cathedrale-porto-novo-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Porto-Novo", hu: "Porto-Novo-i székesegyház", ro: "Catedrala din Porto-Novo", en: "Cathedral of Porto-Novo" },
-    coordinates: { lat: 6.495, lng: 2.615 },
+    coords: [2.615, 6.495],
     description: {
       de: "Die Kathedrale von Porto-Novo ist die Hauptkirche des römisch-katholischen Bistums in der Hauptstadt. Sie wurde in der Kolonialzeit errichtet.",
       hu: "A Porto-Novo-i székesegyház a fővárosi római katolikus egyházmegye központi temploma. A gyarmati időszakban épült.",
@@ -906,7 +906,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-musee-da-silva-porto-novo-landmarks-v2",
     type: "museum",
     name: { de: "Da Silva Museum Porto-Novo", hu: "Da Silva Múzeum Porto-Novo", ro: "Muzeul Da Silva Porto-Novo", en: "Da Silva Museum Porto-Novo" },
-    coordinates: { lat: 6.498, lng: 2.622 },
+    coords: [2.622, 6.498],
     description: {
       de: "Das Da Silva Museum befindet sich in einem restaurierten kolonialen Herrenhaus in Porto-Novo. Es dokumentiert die Geschichte des Sklavenhandels.",
       hu: "A Da Silva Múzeum egy felújított gyarmati kúriában található Porto-Novóban. A rabszolga-kereskedelem történetét mutatja be.",
@@ -937,7 +937,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-prefecture-ouidah-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemalige Präfektur von Ouidah", hu: "Ouidah volt prefektúrája", ro: "Fosta prefectură din Ouidah", en: "Former Prefecture of Ouidah" },
-    coordinates: { lat: 6.368, lng: 2.087 },
+    coords: [2.087, 6.368],
     description: {
       de: "Dieses historische Gebäude in Ouidah diente in der Kolonialzeit als Verwaltungszentrum. Es ist ein Beispiel für den architektonischen Einfluss der Ära.",
       hu: "Ez az ouidahi történelmi épület közigazgatási központként szolgált a gyarmati időszakban. Példa a korszak építészeti hatására.",
@@ -968,7 +968,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-place-toussaint-louverture-allada-landmarks-v2",
     type: "landmark",
     name: { de: "Toussaint-Louverture-Platz Allada", hu: "Toussaint Louverture tér Allada", ro: "Piața Toussaint Louverture Allada", en: "Toussaint Louverture Square Allada" },
-    coordinates: { lat: 6.666, lng: 2.152 },
+    coords: [2.152, 6.666],
     description: {
       de: "Dieser Platz in Allada ist zu Ehren von Toussaint Louverture benannt, einer Schlüsselfigur der haitianischen Revolution mit Wurzeln im Königreich Dahomey.",
       hu: "Ez az alladai tér Toussaint Louverture-ről kapta a nevét, aki a haiti forradalom kulcsfigurája volt, és a Dahomey Királyságból származott.",
@@ -999,7 +999,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-stade-gassou-djougou-landmarks-v2",
     type: "landmark",
     name: { de: "Gassou-Stadion Djougou", hu: "Gassou Stadion Djougou", ro: "Stadionul Gassou Djougou", en: "Gassou Stadium Djougou" },
-    coordinates: { lat: 9.705, lng: 1.666 },
+    coords: [1.666, 9.705],
     description: {
       de: "Das Gassou-Stadion in Djougou ist eine wichtige Sportstätte für die Region. Es wird für Fußballspiele und lokale Veranstaltungen genutzt.",
       hu: "A djougoui Gassou Stadion a régió egyik fontos sportlétesítménye. Labdarúgó-mérkőzésekre és helyi rendezvényekre használják.",
@@ -1030,7 +1030,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-douane-grand-popo-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemaliges Zollhaus Grand-Popo", hu: "Volt vámhivatal Grand-Popo", ro: "Fosta clădire vamală Grand-Popo", en: "Former Customs House Grand-Popo" },
-    coordinates: { lat: 6.28, lng: 1.83 },
+    coords: [1.83, 6.28],
     description: {
       de: "Das alte Zollgebäude in Grand-Popo ist ein Überbleibsel der kolonialen Handelsgeschichte. Es liegt malerisch nahe der Küste.",
       hu: "A régi vámépület Grand-Popóban a gyarmati kereskedelmi történelem egyik emléke. Festői módon a part közelében fekszik.",
@@ -1061,7 +1061,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-monument-natitingou-landmarks-v2",
     type: "monument",
     name: { de: "Resistance-Denkmal Natitingou", hu: "Natitingou-i Ellenállási Emlékmű", ro: "Monumentul Rezistenței din Natitingou", en: "Resistance Monument Natitingou" },
-    coordinates: { lat: 10.305, lng: 1.378 },
+    coords: [1.378, 10.305],
     description: {
       de: "Dieses Denkmal in Natitingou würdigt den Widerstand der lokalen Bevölkerung gegen koloniale Bestrebungen im Norden Benins.",
       hu: "Ez a natitingou-i emlékmű a helyi lakosság koloniális törekvésekkel szembeni ellenállását méltatja Benin északi részén.",
@@ -1092,7 +1092,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-musee-ethnographique-parakou-landmarks-v2",
     type: "museum",
     name: { de: "Ethnografisches Museum Parakou", hu: "Parakoui Néprajzi Múzeum", ro: "Muzeul Etnografic din Parakou", en: "Ethnographic Museum of Parakou" },
-    coordinates: { lat: 9.35, lng: 2.63 },
+    coords: [2.63, 9.35],
     description: {
       de: "Das ethnografische Museum in Parakou bewahrt die kulturelle Identität der verschiedenen Ethnien im Norden Benins durch Ausstellungen von Objekten.",
       hu: "A parakoui néprajzi múzeum kiállítási tárgyakkal őrzi Benin északi részének különböző népcsoportjainak kulturális identitását.",
@@ -1123,7 +1123,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-mairie-djougou-landmarks-v2",
     type: "landmark",
     name: { de: "Rathaus von Djougou", hu: "Djougou Városháza", ro: "Primăria din Djougou", en: "Town Hall of Djougou" },
-    coordinates: { lat: 9.702, lng: 1.664 },
+    coords: [1.664, 9.702],
     description: {
       de: "Das Rathaus von Djougou dient als Sitz der lokalen Verwaltung und repräsentiert die kommunale Organisation der Stadt.",
       hu: "Djougou városházája a helyi közigazgatás székhelyeként szolgál, és a városi önkormányzatot képviseli.",
@@ -1154,7 +1154,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-poste-ouidah-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemaliges Postgebäude Ouidah", hu: "Volt Postaépület Ouidah", ro: "Fosta clădire poștală Ouidah", en: "Former Post Office Ouidah" },
-    coordinates: { lat: 6.365, lng: 2.085 },
+    coords: [2.085, 6.365],
     description: {
       de: "Das ehemalige Postgebäude in Ouidah ist ein historisches Zeugnis für die Infrastrukturentwicklung in der Kolonialzeit.",
       hu: "Az ouidahi volt postaépület történelmi tanúja a gyarmati kori infrastruktúra-fejlesztésnek.",
@@ -1185,7 +1185,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-palais-gouverneur-ouidah-landmarks-v2",
     type: "palace",
     name: { de: "Gouverneurspalast Ouidah", hu: "Ouidah Kormányzói Palota", ro: "Palatul Guvernatorului Ouidah", en: "Governor's Palace Ouidah" },
-    coordinates: { lat: 6.37, lng: 2.09 },
+    coords: [2.09, 6.37],
     description: {
       de: "Dieser Palast diente während der Kolonialherrschaft als Wohnsitz und Verwaltungsgebäude für koloniale Verwalter in der Region.",
       hu: "Ez a palota a gyarmati uralom idején a régió gyarmati adminisztrátorainak lakhelyéül és közigazgatási épületéül szolgált.",
@@ -1216,7 +1216,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-eglise-saint-michel-cotonou-landmarks-v2",
     type: "church",
     name: { de: "Kirche Saint-Michel Cotonou", hu: "Saint-Michel templom Cotonou", ro: "Biserica Saint-Michel Cotonou", en: "Saint-Michel Church Cotonou" },
-    coordinates: { lat: 6.368, lng: 2.428 },
+    coords: [2.428, 6.368],
     description: {
       de: "Die Kirche Saint-Michel in Cotonou ist ein bedeutendes religiöses Zentrum und für ihre Architektur in der Stadt bekannt.",
       hu: "A cotonou-i Saint-Michel templom jelentős vallási központ, és a városban ismert építészetéről.",
@@ -1247,7 +1247,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-monument-savalou-landmarks-v2",
     type: "monument",
     name: { de: "Savalou-Denkmal", hu: "Savalou emlékmű", ro: "Monumentul Savalou", en: "Savalou Monument" },
-    coordinates: { lat: 7.933, lng: 1.966 },
+    coords: [1.966, 7.933],
     description: {
       de: "Das Denkmal in Savalou markiert die Bedeutung der Region und würdigt die lokale Geschichte der Stadt.",
       hu: "A Savalouban található emlékmű a régió jelentőségét jelzi, és a város helyi történelmét méltatja.",
@@ -1278,7 +1278,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-tribunal-porto-novo-landmarks-v2",
     type: "landmark",
     name: { de: "Gerichtshof von Porto-Novo", hu: "Porto-Novo-i Bíróság", ro: "Curtea de justiție din Porto-Novo", en: "Court of Justice Porto-Novo" },
-    coordinates: { lat: 6.497, lng: 2.625 },
+    coords: [2.625, 6.497],
     description: {
       de: "Der Gerichtshof von Porto-Novo ist ein bedeutendes öffentliches Gebäude, das die juristische Infrastruktur der Hauptstadt repräsentiert.",
       hu: "A Porto-Novo-i bíróság jelentős középület, amely a főváros igazságügyi infrastruktúráját képviseli.",
@@ -1309,7 +1309,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-gare-ouidah-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemaliger Bahnhof Ouidah", hu: "Volt Ouidah vasútállomás", ro: "Fosta gară din Ouidah", en: "Former Railway Station Ouidah" },
-    coordinates: { lat: 6.36, lng: 2.08 },
+    coords: [2.08, 6.36],
     description: {
       de: "Die alte Station in Ouidah ist ein Relikt der ehemaligen Eisenbahnverbindungen, die einst die Küstenregion mit dem Landesinneren verbanden.",
       hu: "Az ouidahi régi állomás a volt vasúti összeköttetések emléke, amelyek egykor összekötötték a partvidéket a belterülettel.",
@@ -1340,7 +1340,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-mosquee-centrale-cotonou-landmarks-v2",
     type: "church",
     name: { de: "Zentralmoschee von Cotonou", hu: "Cotonou Központi Mecset", ro: "Moscheea Centrală din Cotonou", en: "Central Mosque of Cotonou" },
-    coordinates: { lat: 6.375, lng: 2.43 },
+    coords: [2.43, 6.375],
     description: {
       de: "Die Zentralmoschee in Cotonou ist eines der wichtigsten religiösen Bauwerke der Stadt für die muslimische Gemeinschaft.",
       hu: "A cotonou-i Központi Mecset a város egyik legfontosabb vallási épülete a muszlim közösség számára.",
@@ -1371,7 +1371,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-palais-roi-djougou-landmarks-v2",
     type: "palace",
     name: { de: "Palast des Königs von Djougou", hu: "Djougou Királyának Palotája", ro: "Palatul Regelui din Djougou", en: "Palace of the King of Djougou" },
-    coordinates: { lat: 9.71, lng: 1.67 },
+    coords: [1.67, 9.71],
     description: {
       de: "Der Palast des Königs von Djougou ist ein kulturelles und historisches Zentrum, das die Traditionen des lokalen Herrschaftssystems widerspiegelt.",
       hu: "Djougou királyának palotája kulturális és történelmi központ, amely tükrözi a helyi uralkodói rendszer hagyományait.",
@@ -1402,7 +1402,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-ecole-porto-novo-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemalige Schule Porto-Novo", hu: "Volt iskola Porto-Novo", ro: "Fosta școală din Porto-Novo", en: "Former School Porto-Novo" },
-    coordinates: { lat: 6.499, lng: 2.628 },
+    coords: [2.628, 6.499],
     description: {
       de: "Dieses historische Gebäude in Porto-Novo wurde früher als Bildungseinrichtung genutzt und zeugt von der Entwicklung des Schulwesens.",
       hu: "Ezt a Porto-Novó-i történelmi épületet korábban oktatási intézményként használták, és az iskolarendszer fejlődésének tanúja.",
@@ -1433,7 +1433,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-bibliotheque-cotonou-landmarks-v2",
     type: "museum",
     name: { de: "Nationalbibliothek Cotonou", hu: "Cotonou Nemzeti Könyvtár", ro: "Biblioteca Națională din Cotonou", en: "National Library Cotonou" },
-    coordinates: { lat: 6.372, lng: 2.435 },
+    coords: [2.435, 6.372],
     description: {
       de: "Die Nationalbibliothek in Cotonou ist eine zentrale Einrichtung zur Bewahrung von Literatur und Dokumenten des nationalen Erbes.",
       hu: "A cotonou-i Nemzeti Könyvtár központi intézmény a nemzeti örökség irodalmának és dokumentumainak megőrzésére.",
@@ -1464,7 +1464,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-monument-kandi-landmarks-v2",
     type: "monument",
     name: { de: "Kandi-Denkmal", hu: "Kandi emlékmű", ro: "Monumentul Kandi", en: "Kandi Monument" },
-    coordinates: { lat: 11.13, lng: 2.93 },
+    coords: [2.93, 11.13],
     description: {
       de: "Das Denkmal in Kandi repräsentiert die regionale Identität und die Bedeutung der Stadt im Norden des Landes.",
       hu: "A Kandiban található emlékmű a regionális identitást és a város jelentőségét jelképezi az ország északi részén.",
@@ -1495,7 +1495,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-ancienne-prison-ouidah-landmarks-v2",
     type: "landmark",
     name: { de: "Ehemaliges Gefängnis Ouidah", hu: "Volt Ouidah börtön", ro: "Fosta închisoare din Ouidah", en: "Former Prison Ouidah" },
-    coordinates: { lat: 6.362, lng: 2.083 },
+    coords: [2.083, 6.362],
     description: {
       de: "Das ehemalige Gefängnis in Ouidah ist ein historisch bedeutsamer Ort, der die dunklen Aspekte der Kolonialgeschichte reflektiert.",
       hu: "Az ouidahi volt börtön történelmileg jelentős hely, amely tükrözi a gyarmati történelem sötét aspektusait.",
@@ -1526,7 +1526,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     id: "benin-mosquee-centrale-allada-landmarks-v2",
     type: "church",
     name: { de: "Zentralmoschee von Allada", hu: "Allada Központi Mecset", ro: "Moscheea Centrală din Allada", en: "Central Mosque of Allada" },
-    coordinates: { lat: 6.664, lng: 2.155 },
+    coords: [2.155, 6.664],
     description: {
       de: "Die Zentralmoschee in Allada ist ein wichtiger Ort für die muslimische Gemeinschaft in der Region und durch ihre Bauweise bekannt.",
       hu: "Az alladai Központi Mecset fontos hely a régió muszlim közössége számára, és ismert építési stílusáról.",

@@ -1349,7 +1349,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-bebedjia-cities-v2",
     type: "city",
     name: { de: "Bébédjia", hu: "Bébédjia", ro: "Bébédjia", en: "Bébédjia" },
-    coordinates: { lat: 8.6667, lng: 16.55 },
+    coords: [16.55, 8.6667],
     description: {
       de: "Bébédjia liegt im Südwesten des Tschad in der Provinz Logone Oriental. Die Stadt ist ein lokaler Marktort für die umliegenden landwirtschaftlichen Gebiete.",
       hu: "Bébédjia Csád délnyugati részén, Logone Oriental tartományban található. A város helyi piaci központ a környező mezőgazdasági területek számára.",
@@ -1380,7 +1380,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-dara-cities-v2",
     type: "town",
     name: { de: "Dara", hu: "Dara", ro: "Dara", en: "Dara" },
-    coordinates: { lat: 12.0167, lng: 18.3167 },
+    coords: [18.3167, 12.0167],
     description: {
       de: "Dara ist eine Kleinstadt im zentralen Tschad in der Provinz Guéra. Sie dient als Sammelpunkt für die lokale Bevölkerung der Region.",
       hu: "Dara egy kisváros Csád középső részén, Guéra tartományban. A régió helyi lakosságának gyűjtőpontjaként szolgál.",
@@ -1411,7 +1411,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-koukou-angarana-cities-v2",
     type: "city",
     name: { de: "Koukou Angarana", hu: "Koukou Angarana", ro: "Koukou Angarana", en: "Koukou Angarana" },
-    coordinates: { lat: 12.35, lng: 22.2167 },
+    coords: [22.2167, 12.35],
     description: {
       de: "Koukou Angarana ist eine Stadt im Osten des Tschad in der Provinz Sila. Sie liegt in einer Region nahe der Grenze zum Sudan.",
       hu: "Koukou Angarana Csád keleti részén, Sila tartományban található. A város Szudán határának közelében fekszik.",
@@ -1442,7 +1442,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-guelendeng-cities-v2",
     type: "town",
     name: { de: "Guelendeng", hu: "Guelendeng", ro: "Guelendeng", en: "Guelendeng" },
-    coordinates: { lat: 10.9167, lng: 15.55 },
+    coords: [15.55, 10.9167],
     description: {
       de: "Guelendeng ist eine Stadt in der Provinz Chari-Baguirmi, südlich von N'Djamena gelegen. Sie befindet sich am Ufer des Logone-Flusses.",
       hu: "Guelendeng város a Chari-Baguirmi tartományban, N'Djamenától délre. A Logone folyó partján fekszik.",
@@ -1473,7 +1473,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-doyaba-cities-v2",
     type: "village",
     name: { de: "Doyaba", hu: "Doyaba", ro: "Doyaba", en: "Doyaba" },
-    coordinates: { lat: 8.7833, lng: 16.7 },
+    coords: [16.7, 8.7833],
     description: {
       de: "Doyaba ist eine kleine Siedlung in der Provinz Logone Oriental. Sie liegt im landwirtschaftlich geprägten Süden des Tschad.",
       hu: "Doyaba egy kis település Logone Oriental tartományban. Csád mezőgazdaságilag művelt déli részén található.",
@@ -1504,7 +1504,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-tata-wa-cities-v2",
     type: "town",
     name: { de: "Tata Wa", hu: "Tata Wa", ro: "Tata Wa", en: "Tata Wa" },
-    coordinates: { lat: 11.2333, lng: 18.0667 },
+    coords: [18.0667, 11.2333],
     description: {
       de: "Tata Wa ist eine Ortschaft in der Provinz Guéra im zentralen Tschad. Die Region ist durch Trockensavanne und Weideflächen geprägt.",
       hu: "Tata Wa egy település Csád középső részén, Guéra tartományban. A régiót száraz szavanna és legelők jellemzik.",
@@ -1535,7 +1535,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-koundjourou-cities-v2",
     type: "town",
     name: { de: "Koundjourou", hu: "Koundjourou", ro: "Koundjourou", en: "Koundjourou" },
-    coordinates: { lat: 12.6333, lng: 19.3 },
+    coords: [19.3, 12.6333],
     description: {
       de: "Koundjourou ist ein Ort in der Provinz Batha im mittleren Tschad. Er dient als lokales Zentrum für die ansässige Bevölkerung.",
       hu: "Koundjourou település a Batha tartományban, Csád középső részén. Helyi központként szolgál az ott élő lakosság számára.",
@@ -1566,7 +1566,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-dagana-cities-v2",
     type: "village",
     name: { de: "Dagana", hu: "Dagana", ro: "Dagana", en: "Dagana" },
-    coordinates: { lat: 12.9167, lng: 16.4833 },
+    coords: [16.4833, 12.9167],
     description: {
       de: "Dagana ist ein kleines Dorf in der Provinz Hadjer-Lamis. Es liegt nordöstlich der tschadischen Hauptstadt N'Djamena.",
       hu: "Dagana egy kis falu Hadjer-Lamis tartományban. Csád fővárosától, N'Djamenától északkeletre fekszik.",
@@ -1597,7 +1597,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "chad-bousso-cities-v2",
     type: "city",
     name: { de: "Bousso", hu: "Bousso", ro: "Bousso", en: "Bousso" },
-    coordinates: { lat: 10.4833, lng: 16.7 },
+    coords: [16.7, 10.4833],
     description: {
       de: "Bousso ist eine Stadt in der Provinz Chari-Baguirmi. Sie liegt strategisch günstig am Ufer des Flusses Chari.",
       hu: "Bousso város a Chari-Baguirmi tartományban. Stratégiailag előnyös helyen, a Chari folyó partján fekszik.",

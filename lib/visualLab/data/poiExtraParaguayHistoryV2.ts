@@ -5,7 +5,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-humaita-history-v2",
     type: "ruins",
     name: { de: "Ruinas de Humaitá", hu: "Humaitá romjai", ro: "Ruinele Humaitá", en: "Humaitá Ruins" },
-    coordinates: { lat: -27.062, lng: -58.502 },
+    coords: [-58.502, -27.062],
     description: {
       de: "Überreste der historischen Festung Humaitá, die während des Tripel-Allianz-Krieges zerstört wurde. Die Anlage diente einst zur Verteidigung des Paraguay-Flusses.",
       hu: "A hármas szövetség háborúja során elpusztult történelmi Humaitá-erőd maradványai. Az építmény egykor a Paraguay folyó védelmét szolgálta.",
@@ -24,7 +24,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-del-barro-history-v2",
     type: "museum",
     name: { de: "Museo del Barro", hu: "Museo del Barro", ro: "Museo del Barro", en: "Museo del Barro" },
-    coordinates: { lat: -25.274, lng: -57.575 },
+    coords: [-57.575, -25.274],
     description: {
       de: "Museum für präkolumbische Kunst und zeitgenössisches paraguayisches Handwerk. Es bewahrt kulturelle Artefakte aus verschiedenen historischen Epochen.",
       hu: "Prekolumbán művészeti és kortárs paraguayi kézműves múzeum. Különböző történelmi korszakokból származó kulturális tárgyakat őriz.",
@@ -43,7 +43,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-panteon-nacional-de-los-heroes-history-v2",
     type: "monument",
     name: { de: "Panteón Nacional de los Héroes", hu: "Hősök Nemzeti Panteonja", ro: "Panteonul Național al Eroilor", en: "National Pantheon of Heroes" },
-    coordinates: { lat: -25.28, lng: -57.635 },
+    coords: [-57.635, -25.28],
     description: {
       de: "Mausoleum für die bedeutendsten Helden der paraguayischen Geschichte. Der Bau wurde im späten 19. Jahrhundert begonnen und später fertiggestellt.",
       hu: "Mauzóleum a paraguayi történelem legjelentősebb hősei számára. Az építkezést a 19. század végén kezdték, majd később fejezték be.",
@@ -62,7 +62,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-misiones-jesuiticas-de-trinidad-history-v2",
     type: "ruins",
     name: { de: "Jesuitenmission Trinidad", hu: "Trinidad jezsuita misszió", ro: "Misiunea iezuită Trinidad", en: "Trinidad Jesuit Mission" },
-    coordinates: { lat: -27.132, lng: -55.701 },
+    coords: [-55.701, -27.132],
     description: {
       de: "UNESCO-Welterbestätte bestehend aus den Ruinen einer Jesuitenreduktion aus dem 18. Jahrhundert. Sie zeugen von der missionarischen Kolonialzeit.",
       hu: "UNESCO-világörökség részét képező, 18. századi jezsuita misszió romjai. A gyarmati kori missziós korszak bizonyítékai.",
@@ -81,7 +81,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-campo-de-batalla-de-curupayty-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Curupayty", hu: "Curupayty-i csatatér", ro: "Câmpul de luptă Curupayty", en: "Curupayty Battlefield" },
-    coordinates: { lat: -27.01, lng: -58.48 },
+    coords: [-58.48, -27.01],
     description: {
       de: "Ort einer bedeutenden Schlacht im Tripel-Allianz-Krieg im Jahr 1866. Paraguay errang hier einen bemerkenswerten, aber kurzzeitigen militärischen Erfolg.",
       hu: "Az 1866-os hármas szövetség háborúja egyik jelentős csatájának helyszíne. Paraguay itt figyelemre méltó, de rövid életű katonai sikert ért el.",
@@ -100,7 +100,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-antigua-estacion-ferrocarril-asuncion-history-v2",
     type: "museum",
     name: { de: "Alte Eisenbahnstation Asunción", hu: "Régi Asuncióni Vasútállomás", ro: "Vechea Gară Asuncion", en: "Old Asunción Railway Station" },
-    coordinates: { lat: -25.285, lng: -57.63 },
+    coords: [-57.63, -25.285],
     description: {
       de: "Historischer Bahnhof aus dem 19. Jahrhundert, der den Beginn des Eisenbahnzeitalters in Paraguay markierte. Heute dient er als technisches Museum.",
       hu: "19. századi történelmi vasútállomás, amely Paraguay vasúti korszakának kezdetét jelölte. Ma technikai múzeumként működik.",
@@ -119,7 +119,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-oratorio-de-don-carlos-antonio-lopez-history-v2",
     type: "church",
     name: { de: "Oratorium von Carlos Antonio López", hu: "Carlos Antonio López oratóriuma", ro: "Oratoriul lui Carlos Antonio López", en: "Oratory of Carlos Antonio López" },
-    coordinates: { lat: -25.29, lng: -57.64 },
+    coords: [-57.64, -25.29],
     description: {
       de: "Historisches Oratorium, das mit dem ehemaligen Präsidenten Carlos Antonio López verbunden ist. Es spiegelt die religiöse Architektur des 19. Jahrhunderts wider.",
       hu: "Történelmi oratórium, amely a volt elnökhöz, Carlos Antonio Lópezhez kötődik. A 19. századi vallási építészetet tükrözi.",
@@ -138,7 +138,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-fuerte-san-carlos-del-apa-history-v2",
     type: "ruins",
     name: { de: "Fuerte San Carlos del Apa", hu: "San Carlos del Apa erőd", ro: "Fortăreața San Carlos del Apa", en: "Fort San Carlos del Apa" },
-    coordinates: { lat: -22.58, lng: -57.26 },
+    coords: [-57.26, -22.58],
     description: {
       de: "Ehemalige Festung an der Nordgrenze Paraguays, die zur Verteidigung gegen portugiesische Expansionen im 18. Jahrhundert errichtet wurde.",
       hu: "Egykori erőd Paraguay északi határán, amelyet a 18. században építettek a portugál terjeszkedés elleni védekezésre.",
@@ -157,7 +157,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-historia-natural-history-v2",
     type: "museum",
     name: { de: "Museo de Historia Natural", hu: "Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală", en: "Museum of Natural History" },
-    coordinates: { lat: -25.32, lng: -57.54 },
+    coords: [-57.54, -25.32],
     description: {
       de: "Museum, das sich auf die Flora und Fauna Paraguays sowie dessen geologische Vergangenheit konzentriert. Es bietet Einblicke in die natürliche Entwicklung.",
       hu: "Múzeum, amely Paraguay növény- és állatvilágára, valamint geológiai múltjára összpontosít. Betekintést nyújt a természetes fejlődésbe.",
@@ -176,7 +176,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-yaguaron-history-v2",
     type: "church",
     name: { de: "Iglesia de Yaguarón", hu: "Yaguaróni templom", ro: "Biserica Yaguarón", en: "Yaguarón Church" },
-    coordinates: { lat: -25.56, lng: -57.27 },
+    coords: [-57.27, -25.56],
     description: {
       de: "Historische Kirche aus dem 18. Jahrhundert, bekannt für ihre beeindruckende barocke Holzschnitzkunst und Architektur. Ein Zeugnis franziskanischer Missionsarbeit.",
       hu: "18. századi történelmi templom, amely lenyűgöző barokk fafaragásairól és építészetéről ismert. A ferences missziós munka bizonyítéka.",
@@ -195,7 +195,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-bicentenario-de-la-musica-history-v2",
     type: "museum",
     name: { de: "Casa Bicentenario de la Música", hu: "Zenei Kétszázéves Ház", ro: "Casa Bicentenario de la Música", en: "Bicentennial House of Music" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Kulturelles Zentrum, das die musikalische Geschichte Paraguays bewahrt. Das Haus dient als Gedenkort zum zweihundertjährigen Unabhängigkeitsjubiläum.",
       hu: "Kulturális központ, amely megőrzi Paraguay zenei történetét. A ház a függetlenség kétszázadik évfordulójának emlékhelye.",
@@ -214,7 +214,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-fuerte-borbon-history-v2",
     type: "ruins",
     name: { de: "Fuerte Borbón", hu: "Borbón erőd", ro: "Fortăreața Borbón", en: "Fort Borbón" },
-    coordinates: { lat: -20.19, lng: -58.15 },
+    coords: [-58.15, -20.19],
     description: {
       de: "Historische Befestigung am Paraguay-Fluss, die zur Sicherung der Grenzen gegen feindliche Invasionen im 18. Jahrhundert diente.",
       hu: "Történelmi erődítmény a Paraguay folyón, amely a 18. században a határok ellenséges inváziókkal szembeni biztosítására szolgált.",
@@ -233,7 +233,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-artesanias-populares-history-v2",
     type: "museum",
     name: { de: "Museum der Volkskunst", hu: "Népművészeti Múzeum", ro: "Muzeul Artelor Populare", en: "Museum of Popular Arts" },
-    coordinates: { lat: -25.29, lng: -57.61 },
+    coords: [-57.61, -25.29],
     description: {
       de: "Sammlung von Kunsthandwerk, das die soziokulturelle Entwicklung und historische Handwerkstraditionen Paraguays dokumentiert.",
       hu: "Kézműves gyűjtemény, amely dokumentálja Paraguay szociokulturális fejlődését és történelmi kézműves hagyományait.",
@@ -252,7 +252,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-la-encarnacion-history-v2",
     type: "church",
     name: { de: "Iglesia de la Encarnación", hu: "Encarnación templom", ro: "Biserica Encarnación", en: "Encarnación Church" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Historische Kirche in Asunción mit neoklassizistischen Elementen. Sie ist ein wichtiges architektonisches Denkmal des frühen 20. Jahrhunderts.",
       hu: "Történelmi templom Asunciónban, neoklasszikus elemekkel. A kora 20. század fontos építészeti emlékműve.",
@@ -271,7 +271,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-estancia-de-blas-garay-history-v2",
     type: "museum",
     name: { de: "Estancia de Blas Garay", hu: "Blas Garay Estancia", ro: "Estancia lui Blas Garay", en: "Blas Garay Estancia" },
-    coordinates: { lat: -25.41, lng: -56.51 },
+    coords: [-56.51, -25.41],
     description: {
       de: "Historischer Gutshof, der mit dem Leben des paraguayischen Historikers und Schriftstellers Blas Garay verbunden ist. Ein Ort zur Pflege nationaler Identität.",
       hu: "Történelmi birtok, amely Blas Garay paraguayi történész és író életéhez kötődik. A nemzeti identitás ápolásának helyszíne.",
@@ -290,7 +290,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-del-futbol-paraguayo-history-v2",
     type: "museum",
     name: { de: "Museo del Fútbol", hu: "Labdarúgó Múzeum", ro: "Muzeul Fotbalului", en: "Football Museum" },
-    coordinates: { lat: -25.22, lng: -57.51 },
+    coords: [-57.51, -25.22],
     description: {
       de: "Museum, das die sportliche Geschichte und die Entwicklung des Fußballs in Paraguay dokumentiert. Ein wichtiger Teil der modernen Nationalkultur.",
       hu: "Múzeum, amely dokumentálja Paraguay sporttörténetét és a labdarúgás fejlődését. A modern nemzeti kultúra fontos része.",
@@ -309,7 +309,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-cosme-y-damian-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Cosme y Damián", hu: "San Cosme y Damián romjai", ro: "Ruinele San Cosme y Damián", en: "San Cosme y Damián Ruins" },
-    coordinates: { lat: -27.31, lng: -56.34 },
+    coords: [-56.34, -27.31],
     description: {
       de: "Ehemalige Jesuitenreduktion, die für ihr historisches astronomisches Observatorium bekannt ist. Sie zeugt von wissenschaftlicher Arbeit im 18. Jahrhundert.",
       hu: "Egykori jezsuita misszió, amely történelmi csillagvizsgálójáról ismert. A 18. századi tudományos munka bizonyítéka.",
@@ -328,7 +328,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-de-la-cultura-fuerte-olimpo-history-v2",
     type: "museum",
     name: { de: "Haus der Kultur in Fuerte Olimpo", hu: "Fuerte Olimpoi Kulturális Ház", ro: "Casa Culturii din Fuerte Olimpo", en: "House of Culture Fuerte Olimpo" },
-    coordinates: { lat: -21.03, lng: -57.87 },
+    coords: [-57.87, -21.03],
     description: {
       de: "Kulturelle Einrichtung in einer historisch bedeutsamen Grenzregion. Sie bewahrt Dokumente und Artefakte der lokalen Verteidigungs- und Siedlungsgeschichte.",
       hu: "Kulturális intézmény egy történelmileg jelentős határ menti régióban. Megőrzi a helyi védelmi és letelepedési történelem dokumentumait és tárgyait.",
@@ -347,7 +347,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-san-buenaventura-history-v2",
     type: "church",
     name: { de: "Iglesia de San Buenaventura", hu: "San Buenaventura templom", ro: "Biserica San Buenaventura", en: "San Buenaventura Church" },
-    coordinates: { lat: -25.26, lng: -57.06 },
+    coords: [-57.06, -25.26],
     description: {
       de: "Historische Kirche, die für ihre koloniale Architektur und religiöse Bedeutung in der Region bekannt ist. Ein Ort bewahrter Traditionen.",
       hu: "Történelmi templom, amely koloniális építészetéről és a régióban betöltött vallási jelentőségéről ismert. A megőrzött hagyományok helyszíne.",
@@ -366,7 +366,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-historico-de-villa-hayes-history-v2",
     type: "museum",
     name: { de: "Historisches Museum von Villa Hayes", hu: "Villa Hayes Történelmi Múzeuma", ro: "Muzeul Istoric din Villa Hayes", en: "Historical Museum of Villa Hayes" },
-    coordinates: { lat: -25.09, lng: -57.57 },
+    coords: [-57.57, -25.09],
     description: {
       de: "Museum, das sich der Geschichte der Stadt Villa Hayes und der Bedeutung des Chaco-Gebietes für Paraguay widmet.",
       hu: "Múzeum, amely Villa Hayes városának történetével és a Chaco-régió Paraguay számára való jelentőségével foglalkozik.",
@@ -385,7 +385,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-fuerte-sao-joao-history-v2",
     type: "ruins",
     name: { de: "Fuerte São João", hu: "São João erőd", ro: "Fortăreața São João", en: "Fort São João" },
-    coordinates: { lat: -22.3, lng: -57.3 },
+    coords: [-57.3, -22.3],
     description: {
       de: "Überreste einer historischen Befestigung, die zur Kontrolle strategischer Routen an der paraguayischen Grenze diente.",
       hu: "Egy történelmi erődítmény maradványai, amely a paraguayi határ stratégiai útvonalainak ellenőrzésére szolgált.",
@@ -404,7 +404,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-bicentenario-del-teatro-history-v2",
     type: "theater",
     name: { de: "Casa Bicentenario del Teatro", hu: "Színházi Kétszázéves Ház", ro: "Casa Bicentenario del Teatro", en: "Bicentennial House of Theater" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Ein Ort, der die Entwicklung der darstellenden Künste in Paraguay seit der Unabhängigkeit dokumentiert und fördert.",
       hu: "Egy hely, amely a függetlenség óta dokumentálja és támogatja a paraguayi előadóművészet fejlődését.",
@@ -423,7 +423,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-la-recoleccion-history-v2",
     type: "church",
     name: { de: "Iglesia de la Recoleta", hu: "Recoleta templom", ro: "Biserica Recoleta", en: "Recoleta Church" },
-    coordinates: { lat: -25.29, lng: -57.59 },
+    coords: [-57.59, -25.29],
     description: {
       de: "Historische Kirche in Asunción, die für ihre barocke Gestaltung und ihr angrenzendes historisches Friedhofsgelände bekannt ist.",
       hu: "Történelmi templom Asunciónban, amely barokk stílusáról és a mellette lévő történelmi temetőről ismert.",
@@ -442,7 +442,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-estancia-jerusalen-history-v2",
     type: "museum",
     name: { de: "Estancia Jerusalén", hu: "Jerusalén Estancia", ro: "Estancia Jerusalén", en: "Estancia Jerusalén" },
-    coordinates: { lat: -26.9, lng: -56.0 },
+    coords: [-56.0, -26.9],
     description: {
       de: "Historisches Anwesen, das Einblicke in die landwirtschaftliche Geschichte und die koloniale Siedlungsstruktur im Süden Paraguays gibt.",
       hu: "Történelmi birtok, amely betekintést nyújt Paraguay déli részének mezőgazdasági történetébe és gyarmati településszerkezetébe.",
@@ -461,7 +461,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-antonio-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Antonio", hu: "San Antonio romjai", ro: "Ruinele San Antonio", en: "San Antonio Ruins" },
-    coordinates: { lat: -26.2, lng: -57.5 },
+    coords: [-57.5, -26.2],
     description: {
       de: "Überreste einer historischen Siedlung, die von der frühen kolonialen Zeit und der religiösen Missionierung in Paraguay zeugen.",
       hu: "Egy történelmi település maradványai, amelyek a korai gyarmati időszakról és a paraguayi vallási misszióról tanúskodnak.",
@@ -480,7 +480,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-del-cacao-history-v2",
     type: "museum",
     name: { de: "Kakaomuseum", hu: "Kakaó Múzeum", ro: "Muzeul Cacao", en: "Cacao Museum" },
-    coordinates: { lat: -25.27, lng: -57.63 },
+    coords: [-57.63, -25.27],
     description: {
       de: "Ein Museum, das die historische Rolle des Kakaos und der lokalen landwirtschaftlichen Produktion in Paraguay beleuchtet.",
       hu: "Múzeum, amely bemutatja a kakaó történelmi szerepét és a helyi mezőgazdasági termelést Paraguayban.",
@@ -499,7 +499,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-bicentenario-del-artesano-history-v2",
     type: "museum",
     name: { de: "Casa Bicentenario del Artesano", hu: "Kézművesek Kétszázéves Háza", ro: "Casa Bicentenario del Artesano", en: "Bicentennial House of the Artisan" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Zentrum zur Bewahrung des traditionellen paraguayischen Kunsthandwerks, das zur zweihundertjährigen Unabhängigkeitsfeier etabliert wurde.",
       hu: "Központ a hagyományos paraguayi kézművesség megőrzésére, amelyet a kétszázéves függetlenségi évfordulóra hoztak létre.",
@@ -518,7 +518,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-nuestra-senora-de-tara-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Nuestra Señora de Tara", hu: "Nuestra Señora de Tara romjai", ro: "Ruinele Nuestra Señora de Tara", en: "Nuestra Señora de Tara Ruins" },
-    coordinates: { lat: -26.5, lng: -57.0 },
+    coords: [-57.0, -26.5],
     description: {
       de: "Überreste einer historischen Missionssiedlung, die Einblicke in die religiöse Organisation und Siedlungsgeschichte Paraguays gibt.",
       hu: "Egy történelmi missziós település maradványai, amely betekintést nyújt Paraguay vallási szervezetébe és településtörténetébe.",
@@ -537,7 +537,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-numismatica-history-v2",
     type: "museum",
     name: { de: "Numismatisches Museum", hu: "Numizmatikai Múzeum", ro: "Muzeul Numismatic", en: "Numismatic Museum" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Museum, das die Geschichte des Geldes und der Währungen in Paraguay dokumentiert. Ein wichtiger Ort für Wirtschaftsgeschichte.",
       hu: "Múzeum, amely dokumentálja Paraguay pénz- és valutatörténetét. A gazdaságtörténet fontos helyszíne.",
@@ -556,7 +556,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-estancia-de-los-jesuitas-history-v2",
     type: "museum",
     name: { de: "Estancia der Jesuiten", hu: "Jezsuita Estancia", ro: "Estancia iezuiților", en: "Jesuit Estancia" },
-    coordinates: { lat: -27.2, lng: -56.5 },
+    coords: [-56.5, -27.2],
     description: {
       de: "Historische Farm, die von jesuitischen Missionaren betrieben wurde. Ein Zeugnis der wirtschaftlichen Autarkie und kolonialen Siedlungskunst.",
       hu: "Történelmi farm, amelyet jezsuita misszionáriusok működtettek. A gazdasági önellátás és a gyarmati települési művészet bizonyítéka.",
@@ -575,7 +575,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-javier-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Javier", hu: "San Javier romjai", ro: "Ruinele San Javier", en: "San Javier Ruins" },
-    coordinates: { lat: -26.8, lng: -56.9 },
+    coords: [-56.9, -26.8],
     description: {
       de: "Überreste einer historischen Missionsstation, die die Ausbreitung religiöser Einflüsse und kolonialer Siedlungen in Paraguay dokumentiert.",
       hu: "Egy történelmi missziós állomás maradványai, amely dokumentálja a vallási befolyás és a gyarmati települések terjedését Paraguayban.",
@@ -594,7 +594,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-casa-de-la-historia-politica-history-v2",
     type: "museum",
     name: { de: "Haus der politischen Geschichte", hu: "Politikatörténeti Ház", ro: "Casa Istoriei Politice", en: "House of Political History" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Ein Museum, das die Entwicklung der politischen Systeme und die Geschichte der Regierungsformen in Paraguay aufarbeitet.",
       hu: "Múzeum, amely feldolgozza a politikai rendszerek fejlődését és a kormányzati formák történetét Paraguayban.",
@@ -613,7 +613,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-estancia-de-los-franciscanos-history-v2",
     type: "museum",
     name: { de: "Estancia der Franziskaner", hu: "Ferences Estancia", ro: "Estancia franciscanilor", en: "Franciscan Estancia" },
-    coordinates: { lat: -25.5, lng: -57.2 },
+    coords: [-57.2, -25.5],
     description: {
       de: "Historisches Anwesen, das einst von franziskanischen Mönchen verwaltet wurde. Zeugnis der sozioökonomischen Geschichte der Missionen.",
       hu: "Történelmi birtok, amelyet egykor ferences szerzetesek kezeltek. A missziók társadalmi-gazdasági történetének bizonyítéka.",
@@ -632,7 +632,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-lorenzo-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Lorenzo", hu: "San Lorenzo romjai", ro: "Ruinele San Lorenzo", en: "San Lorenzo Ruins" },
-    coordinates: { lat: -26.9, lng: -57.2 },
+    coords: [-57.2, -26.9],
     description: {
       de: "Überreste einer historischen Siedlung, die von den frühen religiösen Missionen und dem Kolonisationsprozess im Land zeugen.",
       hu: "Egy történelmi település maradványai, amelyek a korai vallási missziókról és az ország kolonizációs folyamatáról tanúskodnak.",
@@ -651,7 +651,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-ciudad-asuncion-history-v2",
     type: "museum",
     name: { de: "Stadtmuseum Asunción", hu: "Asuncióni Városi Múzeum", ro: "Muzeul Orașului Asunción", en: "Asunción City Museum" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Ein Museum, das die historische Entwicklung der Hauptstadt Asunción dokumentiert. Es zeigt das soziale und kulturelle Wachstum.",
       hu: "Múzeum, amely dokumentálja Asunción főváros történelmi fejlődését. Bemutatja a társadalmi és kulturális növekedést.",
@@ -670,7 +670,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-juan-bautista-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Juan Bautista", hu: "San Juan Bautista romjai", ro: "Ruinele San Juan Bautista", en: "San Juan Bautista Ruins" },
-    coordinates: { lat: -26.6, lng: -57.1 },
+    coords: [-57.1, -26.6],
     description: {
       de: "Überreste einer historischen Missionssiedlung, die Einblicke in die religiöse Organisation Paraguays in der Kolonialzeit geben.",
       hu: "Egy történelmi missziós település maradványai, amelyek betekintést nyújtanak Paraguay vallási szervezetébe a gyarmati időszakban.",
@@ -689,7 +689,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-memoria-historica-history-v2",
     type: "museum",
     name: { de: "Museum der historischen Erinnerung", hu: "Történelmi Emlékezet Múzeuma", ro: "Muzeul Memoriei Istorice", en: "Museum of Historical Memory" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Ein Museum, das die schwierigen Phasen der paraguayischen Geschichte aufarbeitet, um das Bewusstsein für die Vergangenheit zu fördern.",
       hu: "Múzeum, amely Paraguay történelmének nehéz időszakait dolgozza fel, hogy ösztönözze a múlt tudatosítását.",
@@ -708,7 +708,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-la-santisima-trinidad-history-v2",
     type: "church",
     name: { de: "Iglesia de la Santísima Trinidad", hu: "Santísima Trinidad templom", ro: "Biserica Santísima Trinidad", en: "Santísima Trinidad Church" },
-    coordinates: { lat: -25.27, lng: -57.58 },
+    coords: [-57.58, -25.27],
     description: {
       de: "Historische Kirche in Asunción mit signifikanter architektonischer und kultureller Bedeutung für das religiöse Erbe des Landes.",
       hu: "Történelmi templom Asunciónban, jelentős építészeti és kulturális jelentőséggel az ország vallási öröksége számára.",
@@ -727,7 +727,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-ignacio-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Ignacio", hu: "San Ignacio romjai", ro: "Ruinele San Ignacio", en: "San Ignacio Ruins" },
-    coordinates: { lat: -26.8, lng: -57.0 },
+    coords: [-57.0, -26.8],
     description: {
       de: "Überreste einer historischen Jesuitenreduktion, die den religiösen und kolonialen Einfluss in dieser Region belegen.",
       hu: "Egy történelmi jezsuita redukció maradványai, amelyek bizonyítják a vallási és gyarmati befolyást ebben a régióban.",
@@ -746,7 +746,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-ciudad-encarnacion-history-v2",
     type: "museum",
     name: { de: "Stadtmuseum Encarnación", hu: "Encarnacióni Városi Múzeum", ro: "Muzeul Orașului Encarnación", en: "Encarnación City Museum" },
-    coordinates: { lat: -27.33, lng: -55.87 },
+    coords: [-55.87, -27.33],
     description: {
       de: "Ein Museum, das die historische und soziale Entwicklung der Stadt Encarnación im Süden Paraguays dokumentiert.",
       hu: "Múzeum, amely dokumentálja Encarnación városának történelmi és társadalmi fejlődését Paraguay déli részén.",
@@ -765,7 +765,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-la-asuncion-history-v2",
     type: "church",
     name: { de: "Iglesia de la Asunción", hu: "Asunción templom", ro: "Biserica Asunción", en: "Asunción Church" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Historische Kirche in der Hauptstadt, die für ihren architektonischen Beitrag zum städtischen Kulturerbe bekannt ist.",
       hu: "Történelmi templom a fővárosban, amely építészeti hozzájárulásáról ismert a városi kulturális örökséghez.",
@@ -784,7 +784,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-santa-rosa-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Santa Rosa", hu: "Santa Rosa romjai", ro: "Ruinele Santa Rosa", en: "Santa Rosa Ruins" },
-    coordinates: { lat: -26.5, lng: -56.8 },
+    coords: [-56.8, -26.5],
     description: {
       de: "Überreste einer historischen Siedlung, die von der kolonialen und missionarischen Geschichte dieser paraguayischen Region zeugen.",
       hu: "Egy történelmi település maradványai, amelyek a paraguayi régió gyarmati és missziós történetéről tanúskodnak.",
@@ -803,7 +803,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-independencia-encarnacion-history-v2",
     type: "museum",
     name: { de: "Unabhängigkeitsmuseum Encarnación", hu: "Encarnacióni Függetlenségi Múzeum", ro: "Muzeul Independenței din Encarnación", en: "Encarnación Independence Museum" },
-    coordinates: { lat: -27.33, lng: -55.87 },
+    coords: [-55.87, -27.33],
     description: {
       de: "Museum, das sich auf die lokale Geschichte der Unabhängigkeitsbewegung und die Rolle der Stadt Encarnación konzentriert.",
       hu: "Múzeum, amely a függetlenségi mozgalom helyi történetére és Encarnación városának szerepére összpontosít.",
@@ -822,7 +822,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-iglesia-de-san-jose-history-v2",
     type: "church",
     name: { de: "Iglesia de San José", hu: "San José templom", ro: "Biserica San José", en: "San José Church" },
-    coordinates: { lat: -25.29, lng: -57.64 },
+    coords: [-57.64, -25.29],
     description: {
       de: "Historische Kirche, die für ihre kulturelle Bedeutung und ihren Platz in der religiösen Geschichte Asuncións bekannt ist.",
       hu: "Történelmi templom, amely kulturális jelentőségéről és Asunción vallástörténetében betöltött helyéről ismert.",
@@ -841,7 +841,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-ruinas-de-san-miguel-history-v2",
     type: "ruins",
     name: { de: "Ruinen von San Miguel", hu: "San Miguel romjai", ro: "Ruinele San Miguel", en: "San Miguel Ruins" },
-    coordinates: { lat: -26.4, lng: -57.2 },
+    coords: [-57.2, -26.4],
     description: {
       de: "Überreste einer historischen Missionssiedlung, die von religiöser Aktivität und der kolonialen Siedlungsstruktur zeugen.",
       hu: "Egy történelmi missziós település maradványai, amelyek vallási tevékenységről és a gyarmati településszerkezetről tanúskodnak.",
@@ -860,7 +860,7 @@ export const poiExtraParaguayHistoryV2: POI[] = [
     id: "paraguay-museo-de-la-historia-social-history-v2",
     type: "museum",
     name: { de: "Sozialgeschichtliches Museum", hu: "Szociáltörténeti Múzeum", ro: "Muzeul de Istorie Socială", en: "Museum of Social History" },
-    coordinates: { lat: -25.28, lng: -57.63 },
+    coords: [-57.63, -25.28],
     description: {
       de: "Museum, das sich auf das alltägliche Leben, die sozialen Strukturen und den Wandel der paraguayischen Gesellschaft konzentriert.",
       hu: "Múzeum, amely a mindennapi életre, a társadalmi struktúrákra és a paraguayi társadalom változására összpontosít.",

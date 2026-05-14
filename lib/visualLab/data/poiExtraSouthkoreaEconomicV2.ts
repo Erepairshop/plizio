@@ -727,7 +727,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-songdo-business-district-economic-v2",
     type: "city",
     name: { de: "Songdo Geschäftsviertel", hu: "Songdo üzleti negyed", ro: "Districtul de afaceri Songdo", en: "Songdo Business District" },
-    coordinates: { lat: 37.392, lng: 126.639 },
+    coords: [126.639, 37.392],
     description: {
       de: "Ein hochmodernes Smart-City-Viertel in Incheon, das auf künstlich gewonnenem Land errichtet wurde. Es beherbergt zahlreiche internationale Unternehmen und grüne Parkanlagen.",
       hu: "Incheon ultramodern okosváros-negyede, amely mesterségesen feltöltött területen épült. Számos nemzetközi vállalatnak és hatalmas zöld parkoknak ad otthont.",
@@ -746,7 +746,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-yeouido-financial-district-economic-v2",
     type: "city",
     name: { de: "Yeouido Finanzviertel", hu: "Yeouido pénzügyi negyed", ro: "Districtul financiar Yeouido", en: "Yeouido Financial District" },
-    coordinates: { lat: 37.521, lng: 126.924 },
+    coords: [126.924, 37.521],
     description: {
       de: "Das wichtigste Finanz- und Investmentzentrum Seouls auf einer Insel im Han-Fluss. Hier befinden sich die koreanische Börse und die Nationalversammlung.",
       hu: "Szöul legfontosabb pénzügyi és befektetési központja a Han-folyó egyik szigetén. Itt található a koreai tőzsde és a nemzetgyűlés épülete is.",
@@ -765,7 +765,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-wolseong-nuclear-power-plant-economic-v2",
     type: "industry",
     name: { de: "Kernkraftwerk Wolseong", hu: "Wolseong atomerőmű", ro: "Centrala nucleară Wolseong", en: "Wolseong Nuclear Power Plant" },
-    coordinates: { lat: 35.712, lng: 129.475 },
+    coords: [129.475, 35.712],
     description: {
       de: "Eine bedeutende Atomanlage an der Ostküste bei Gyeongju, die Schwerwasserreaktoren nutzt. Sie leistet einen wesentlichen Beitrag zur Energieversorgung der Industrieregion.",
       hu: "Gyeongju melletti jelentős atomerőmű a keleti parton, amely nehézvizes reaktorokat használ. Alapvető szerepet játszik az ipari régió áramellátásában.",
@@ -784,7 +784,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-saemangeum-reclamation-area-economic-v2",
     type: "landmark",
     name: { de: "Saemangeum Neulandgebiet", hu: "Saemangeum meliorációs terület", ro: "Zona de recuperare Saemangeum", en: "Saemangeum Reclamation Area" },
-    coordinates: { lat: 35.815, lng: 126.652 },
+    coords: [126.652, 35.815],
     description: {
       de: "Ein gewaltiges Projekt zur Landgewinnung an der Westküste, das durch den längsten Deich der Welt geschützt wird. Es soll ein Zentrum für Industrie und Tourismus werden.",
       hu: "Hatalmas területfeltöltési projekt a nyugati parton, amelyet a világ leghosszabb gátja védelmez. Iparági és turisztikai központnak szánják.",
@@ -803,7 +803,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-masan-free-trade-zone-economic-v2",
     type: "industry",
     name: { de: "Freihandelszone Masan", hu: "Masani szabadkereskedelmi övezet", ro: "Zona de Liber Schimb Masan", en: "Masan Free Trade Zone" },
-    coordinates: { lat: 35.215, lng: 128.586 },
+    coords: [128.586, 35.215],
     description: {
       de: "Die erste Export-Freihandelszone Südkoreas in Changwon, die 1970 gegründet wurde. Sie spielt eine Schlüsselrolle in der Elektronik- und Maschinenbauindustrie.",
       hu: "Dél-Korea első export-szabadkereskedelmi övezete Changwonban, amelyet 1970-ben alapítottak. Kulcsszerepet játszik az elektronikai és gépiparban.",
@@ -822,7 +822,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-osong-bio-valley-economic-v2",
     type: "industry",
     name: { de: "Bio-Tal Osong", hu: "Osong Bio-völgy", ro: "Valea Bio Osong", en: "Osong Bio Valley" },
-    coordinates: { lat: 36.626, lng: 127.327 },
+    coords: [127.327, 36.626],
     description: {
       de: "Ein führendes Zentrum für Biotechnologie und Pharmaindustrie in Cheongju. Es beherbergt staatliche Behörden für Lebensmittelsicherheit und Krankheitskontrolle.",
       hu: "A biotechnológia és a gyógyszeripar vezető központja Cheongjuban. Itt találhatók az élelmiszerbiztonsági és járványügyi kormányzati szervek.",
@@ -841,7 +841,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-hanbit-nuclear-power-plant-economic-v2",
     type: "industry",
     name: { de: "Kernkraftwerk Hanbit", hu: "Hanbit atomerőmű", ro: "Centrala nucleară Hanbit", en: "Hanbit Nuclear Power Plant" },
-    coordinates: { lat: 35.412, lng: 126.421 },
+    coords: [126.421, 35.412],
     description: {
       de: "Eine der größten Kernkraftanlagen Koreas an der Westküste in Yeonggwang. Sie besteht aus sechs Reaktoren und liefert Strom für die südwestlichen Provinzen.",
       hu: "Korea egyik legnagyobb atomerőműve Yeonggwangban, a nyugati parton. Hat reaktorból áll, és a délnyugati tartományok áramellátását biztosítja.",
@@ -860,7 +860,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-daegu-dyeing-industrial-complex-economic-v2",
     type: "industry",
     name: { de: "Färberei-Industriekomplex Daegu", hu: "Daegu festőipari komplexum", ro: "Complexul industrial de vopsitorie Daegu", en: "Daegu Dyeing Industrial Complex" },
-    coordinates: { lat: 35.885, lng: 128.541 },
+    coords: [128.541, 35.885],
     description: {
       de: "Ein spezialisiertes Industriegebiet in Daegu, das das Zentrum der koreanischen Textil- und Färbeindustrie bildet. Es beherbergt hunderte spezialisierte Betriebe.",
       hu: "Speciális ipari övezet Daeguban, amely a koreai textil- és festőipar központja. Több száz szakosodott üzemnek ad otthont.",
@@ -879,7 +879,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-daedeok-innopolis-economic-v2",
     type: "university",
     name: { de: "Daedeok Innopolis Forschungszentrum", hu: "Daedeok Innopolis kutatóközpont", ro: "Centrul de cercetare Daedeok Innopolis", en: "Daedeok Innopolis" },
-    coordinates: { lat: 36.391, lng: 127.394 },
+    coords: [127.394, 36.391],
     description: {
       de: "Das größte Zentrum für Forschung und Entwicklung in Südkorea, gelegen in Daejeon. Es beherbergt über 20 staatliche Forschungsinstitute und Spitzenuniversitäten.",
       hu: "Dél-Korea legnagyobb kutatás-fejlesztési központja Daejeonban. Több mint 20 állami kutatóintézetnek és elit egyetemnek ad otthont.",
@@ -898,7 +898,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-teheran-ro-business-district-economic-v2",
     type: "city",
     name: { de: "Teheran-ro Geschäftsviertel", hu: "Teherán-ro üzleti negyed", ro: "Districtul de afaceri Teheran-ro", en: "Teheran-ro Business District" },
-    coordinates: { lat: 37.503, lng: 127.042 },
+    coords: [127.042, 37.503],
     description: {
       de: "Eine belebte Straße im Stadtteil Gangnam in Seoul, bekannt als Zentrum für Technologieunternehmen und Start-ups. Sie ist ein Symbol für Koreas IT-Boom.",
       hu: "Szöul Gangnam negyedének forgalmas útja, amely a technológiai vállalatok és startupok központjaként ismert. A koreai IT-bumm szimbóluma.",
@@ -917,7 +917,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-gunsan-industrial-complex-economic-v2",
     type: "industry",
     name: { de: "Industriekomplex Gunsan", hu: "Gunsan ipari komplexum", ro: "Complexul industrial Gunsan", en: "Gunsan Industrial Complex" },
-    coordinates: { lat: 35.975, lng: 126.612 },
+    coords: [126.612, 35.975],
     description: {
       de: "Ein bedeutendes Industrie- und Logistikzentrum an der Westküste. Es konzentriert sich auf Automobilbau, Schwermaschinen und erneuerbare Energien.",
       hu: "Jelentős ipari és logisztikai központ a nyugati parton. Az autógyártásra, a nehézgépekre és a megújuló energiára összpontosít.",
@@ -936,7 +936,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-banwol-industrial-complex-economic-v2",
     type: "factory",
     name: { de: "Industriekomplex Banwol", hu: "Banwol ipari komplexum", ro: "Complexul industrial Banwol", en: "Banwol Industrial Complex" },
-    coordinates: { lat: 37.302, lng: 126.784 },
+    coords: [126.784, 37.302],
     description: {
       de: "Ein riesiges Industriegebiet in Ansan, das speziell für kleine und mittlere Unternehmen (KMU) konzipiert wurde. Es ist ein Motor der Zulieferindustrie.",
       hu: "Hatalmas ipari övezet Ansanban, amelyet kifejezetten kis- és középvállalkozások (KKV) számára terveztek. A beszállítói ipar motorja.",
@@ -955,7 +955,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-ochang-scientific-industrial-complex-economic-v2",
     type: "industry",
     name: { de: "Wissenschaftskomplex Ochang", hu: "Ochang tudományos ipari komplexum", ro: "Complexul industrial științific Ochang", en: "Ochang Scientific Industrial Complex" },
-    coordinates: { lat: 36.712, lng: 127.435 },
+    coords: [127.435, 36.712],
     description: {
       de: "Ein High-Tech-Industriezentrum in Cheongju, das auf Informationstechnologie und Batterietechnik spezialisiert ist. Es beherbergt große Werke von LG Energy Solution.",
       hu: "Csúcstechnológiai ipari központ Cheongjuban, amely az informatikára és az akkumulátortechnológiára szakosodott. Itt találhatók az LG Energy Solution nagy gyárai.",
@@ -974,7 +974,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-namdong-industrial-complex-economic-v2",
     type: "factory",
     name: { de: "Industriekomplex Namdong", hu: "Namdong ipari komplexum", ro: "Complexul industrial Namdong", en: "Namdong Industrial Complex" },
-    coordinates: { lat: 37.402, lng: 126.705 },
+    coords: [126.705, 37.402],
     description: {
       de: "Ein weitläufiges Industriegebiet in Incheon, das eine Schlüsselrolle in der verarbeitenden Industrie Koreas spielt. Es beherbergt tausende Produktionsbetriebe.",
       hu: "Incheon kiterjedt ipari övezete, amely kulcsszerepet játszik Korea feldolgozóiparában. Több ezer gyártóüzemnek ad otthont.",
@@ -993,7 +993,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-shilla-duty-free-hub-economic-v2",
     type: "landmark",
     name: { de: "Shilla Duty Free Zentrum", hu: "Shilla Duty Free központ", ro: "Centrul Shilla Duty Free", en: "Shilla Duty Free Hub" },
-    coordinates: { lat: 37.559, lng: 127.004 },
+    coords: [127.004, 37.559],
     description: {
       de: "Ein weltweit führendes Zentrum für den steuerfreien Handel in Seoul. Es ist ein Symbol für den kommerziellen Erfolg Koreas im internationalen Tourismus und Einzelhandel.",
       hu: "Világviszonylatban is vezető vámmentes kereskedelmi központ Szöulban. A koreai nemzetközi turizmus és kiskereskedelem sikerének szimbóluma.",
@@ -1012,7 +1012,7 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
     id: "southkorea-gasan-digital-complex-economic-v2",
     type: "industry",
     name: { de: "Gasan Digitaler Komplex", hu: "Gasan digitális komplexum", ro: "Complexul digital Gasan", en: "Gasan Digital Complex" },
-    coordinates: { lat: 37.481, lng: 126.882 },
+    coords: [126.882, 37.481],
     description: {
       de: "Ein modernes IT- und Industriezentrum im Südwesten Seouls, das aus einem ehemaligen Textilviertel hervorging. Heute ist es Sitz zahlreicher Technologie- und Modefirmen.",
       hu: "Modern informatikai és ipari központ Szöul délnyugati részén, amely egy egykori textilnegyedből alakult ki. Számos technológiai és divatcég székhelye.",

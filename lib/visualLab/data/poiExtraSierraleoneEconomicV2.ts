@@ -1046,7 +1046,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-makeni-solar-plant-economic-v2",
     type: "factory",
     name: { de: "Solarkraftwerk Makeni", hu: "Makeni Naperőmű", ro: "Centrala Solară Makeni", en: "Makeni Solar Plant" },
-    coordinates: { lat: 8.8742, lng: -12.0354 },
+    coords: [-12.0354, 8.8742],
     description: {
       de: "Großflächiges Solarenergieprojekt in der Nähe von Makeni zur Stromversorgung der nördlichen Region. Die Anlage trägt zur Stabilität des lokalen Energienetzes bei.",
       hu: "Nagy kiterjedésű napenergia-projekt Makeni közelében az északi régió áramellátásáért. A létesítmény hozzájárul a helyi energiahálózat stabilitásához.",
@@ -1065,7 +1065,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-kambia-market-hub-economic-v2",
     type: "city",
     name: { de: "Handelszentrum Kambia", hu: "Kambia Kereskedelmi Központ", ro: "Centru Comercial Kambia", en: "Kambia Trading Hub" },
-    coordinates: { lat: 9.1231, lng: -12.9205 },
+    coords: [-12.9205, 9.1231],
     description: {
       de: "Wichtiger grenzüberschreitender Umschlagplatz für Agrarprodukte nahe der Grenze zu Guinea. Der Markt ist ein zentraler Ort für regionalen Handel.",
       hu: "Fontos határokon átnyúló átrakodóhely mezőgazdasági termékek számára Guinea határának közelében. A piac a regionális kereskedelem központja.",
@@ -1084,7 +1084,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-magburaka-logistics-center-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Magburaka", hu: "Magburaka Logisztikai Központ", ro: "Centru Logistic Magburaka", en: "Magburaka Logistics Center" },
-    coordinates: { lat: 8.7115, lng: -11.9534 },
+    coords: [-11.9534, 8.7115],
     description: {
       de: "Verkehrsknotenpunkt im Distrikt Tonkolili, der die Verbindung zwischen den Minenregionen und der Küste unterstützt. Dient der Lagerung und Verteilung.",
       hu: "Közlekedési csomópont a Tonkolili körzetben, amely támogatja a bányászati régiók és a part közötti kapcsolatot. Tárolásra és elosztásra szolgál.",
@@ -1103,7 +1103,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-moyamba-palm-mill-economic-v2",
     type: "factory",
     name: { de: "Ölmühle Moyamba", hu: "Moyamba Olajütő", ro: "Presă de Ulei Moyamba", en: "Moyamba Palm Oil Mill" },
-    coordinates: { lat: 8.1633, lng: -12.4341 },
+    coords: [-12.4341, 8.1633],
     description: {
       de: "Industrielle Verarbeitungsanlage für Ölpalmenfrüchte im Moyamba-Distrikt. Die Fabrik produziert Palmöl für den nationalen und internationalen Markt.",
       hu: "Ipari feldolgozóüzem olajpálma gyümölcsök számára a Moyamba körzetben. A gyár pálmaolajat állít elő a hazai és a nemzetközi piacra.",
@@ -1122,7 +1122,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-waterloo-industrial-hub-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Waterloo", hu: "Waterloo Ipartelep", ro: "Zonă Industrială Waterloo", en: "Waterloo Industrial Hub" },
-    coordinates: { lat: 8.3392, lng: -13.0655 },
+    coords: [-13.0655, 8.3392],
     description: {
       de: "Wachsendes Gewerbegebiet nahe der Hauptstadt Freetown. Hier befinden sich Lagerhäuser und kleine Produktionsbetriebe für Konsumgüter.",
       hu: "Növekvő ipari övezet a főváros, Freetown közelében. Itt raktárak és kis fogyasztási cikkeket gyártó üzemek találhatók.",
@@ -1141,7 +1141,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-bo-commercial-district-economic-v2",
     type: "city",
     name: { de: "Geschäftsviertel Bo", hu: "Bo Üzleti Negyed", ro: "District Comercial Bo", en: "Bo Commercial District" },
-    coordinates: { lat: 7.9625, lng: -11.7375 },
+    coords: [-11.7375, 7.9625],
     description: {
       de: "Das primäre wirtschaftliche Zentrum des Südens. Beherbergt Banken, Handelsfirmen und bildet den Mittelpunkt für den Binnenhandel.",
       hu: "Dél elsődleges gazdasági központja. Bankoknak, kereskedelmi cégeknek ad otthont, és a belkereskedelem központja.",
@@ -1160,7 +1160,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-kenema-cocoa-center-economic-v2",
     type: "industry",
     name: { de: "Kakaozentrum Kenema", hu: "Kenema Kakaóközpont", ro: "Centru de Cacao Kenema", en: "Kenema Cocoa Center" },
-    coordinates: { lat: 7.8761, lng: -11.1914 },
+    coords: [-11.1914, 7.8761],
     description: {
       de: "Zentraler Umschlagplatz für die Kakaoernte des Ostens. Das Zentrum koordiniert die Qualitätskontrolle und den Export von Kakaobohnen.",
       hu: "A keleti vidék kakaótermésének központi átrakodóhelye. A központ koordinálja a kakaóbab minőségellenőrzését és exportját.",
@@ -1179,7 +1179,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-lunsar-transport-node-economic-v2",
     type: "industry",
     name: { de: "Verkehrsknotenpunkt Lunsar", hu: "Lunsar Közlekedési Csomópont", ro: "Nod de Transport Lunsar", en: "Lunsar Transport Node" },
-    coordinates: { lat: 8.6833, lng: -12.5333 },
+    coords: [-12.5333, 8.6833],
     description: {
       de: "Strategischer Punkt für den Transport mineralischer Ressourcen von umliegenden Minen Richtung Freetown. Unterstützt den Güterverkehr der Region.",
       hu: "Stratégiai pont az ásványi erőforrások szállítására a környező bányákból Freetown felé. Támogatja a régió áruforgalmát.",
@@ -1198,7 +1198,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-koidu-market-district-economic-v2",
     type: "city",
     name: { de: "Handelsviertel Koidu", hu: "Koidu Kereskedelmi Negyed", ro: "District Comercial Koidu", en: "Koidu Market District" },
-    coordinates: { lat: 8.6461, lng: -10.9631 },
+    coords: [-10.9631, 8.6461],
     description: {
       de: "Lebhaftes Handelszentrum im Diamantengebiet. Der Markt versorgt die Minengemeinden mit notwendigen Handelsgütern und Dienstleistungen.",
       hu: "Élénk kereskedelmi központ a gyémántterületen. A piac ellátja a bányásztelepüléseket szükséges árukkal és szolgáltatásokkal.",
@@ -1217,7 +1217,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
     id: "sierraleone-pepel-shipping-terminal-economic-v2",
     type: "port",
     name: { de: "Schiffsterminal Pepel", hu: "Pepel Hajózási Terminál", ro: "Terminal Maritim Pepel", en: "Pepel Shipping Terminal" },
-    coordinates: { lat: 8.5639, lng: -12.9467 },
+    coords: [-12.9467, 8.5639],
     description: {
       de: "Wichtiger Tiefseehafen für den Export von Eisenerz. Die Anlage ermöglicht den Umschlag großer Frachtschiffe für den internationalen Markt.",
       hu: "Fontos mélytengeri kikötő vasérc exportjára. A létesítmény lehetővé teszi nagy teherhajók átrakodását a nemzetközi piac számára.",

@@ -5,7 +5,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-kedia-idjil-relief-v2",
     type: "peak",
     name: { de: "Kedia d'Idjil", hu: "Kedia d'Idjil", ro: "Kedia d'Idjil", en: "Kedia d'Idjil" },
-    coordinates: { lat: 22.68, lng: -12.63 },
+    coords: [-12.63, 22.68],
     description: {
       de: "Der Kedia d'Idjil ist ein markantes Bergmassiv nahe F'dérik. Er erreicht eine Höhe von 915 Metern über dem Meeresspiegel.",
       hu: "A Kedia d'Idjil egy kiemelkedő hegytömb F'dérik közelében. Tengerszint feletti magassága eléri a 915 métert.",
@@ -24,7 +24,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-baba-mountain-relief-v2",
     type: "mountain",
     name: { de: "Baba-Gebirge", hu: "Baba-hegység", ro: "Munții Baba", en: "Baba Mountains" },
-    coordinates: { lat: 16.5, lng: -10.5 },
+    coords: [-10.5, 16.5],
     description: {
       de: "Die Baba-Berge bilden eine Hügelkette im Südosten Mauretaniens. Sie bestehen überwiegend aus sedimentärem Gestein.",
       hu: "A Baba-hegység egy dombvonulat Mauritánia délkeleti részén. Főleg üledékes kőzetekből épül fel.",
@@ -43,7 +43,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-dhar-tichitt-relief-v2",
     type: "mountain",
     name: { de: "Dhar Tichitt", hu: "Dhar Tichitt", ro: "Dhar Tichitt", en: "Dhar Tichitt" },
-    coordinates: { lat: 18.4, lng: -9.5 },
+    coords: [-9.5, 18.4],
     description: {
       de: "Der Dhar Tichitt ist ein Sandsteinfelsen, der die Umgebung überragt. Er bildet eine natürliche Barriere in der Region Tagant.",
       hu: "A Dhar Tichitt egy homokkő sziklafal, amely kiemelkedik a környezetéből. Természetes akadályt képez a Tagant régióban.",
@@ -62,7 +62,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-guelta-d-archei-relief-v2",
     type: "valley",
     name: { de: "Guelta d'Archei", hu: "Guelta d'Archei", ro: "Guelta d'Archei", en: "Guelta d'Archei" },
-    coordinates: { lat: 19.1, lng: -13.0 },
+    coords: [-13.0, 19.1],
     description: {
       de: "Die Guelta d'Archei ist ein verstecktes Wasserbecken inmitten hoher Felswände. Sie liegt im Herzen des Adrar-Massivs.",
       hu: "A Guelta d'Archei egy rejtett vízmedence magas sziklafalak között. Az Adrar-hegység szívében található.",
@@ -81,7 +81,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-akjoujt-plain-relief-v2",
     type: "valley",
     name: { de: "Akjoujt-Ebene", hu: "Akjoujt-alföld", ro: "Câmpia Akjoujt", en: "Akjoujt Plain" },
-    coordinates: { lat: 19.7, lng: -14.4 },
+    coords: [-14.4, 19.7],
     description: {
       de: "Die Akjoujt-Ebene ist eine flache, wüstenartige Region nordöstlich von Nouakchott. Das Gebiet ist bekannt für seine Kupfervorkommen.",
       hu: "Az Akjoujt-alföld egy lapos, sivatagos régió Nouakchottól északkeletre. A terület rézlelőhelyeiről ismert.",
@@ -100,7 +100,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-el-djouf-relief-v2",
     type: "mountain",
     name: { de: "El Djouf", hu: "El Djouf", ro: "El Djouf", en: "El Djouf" },
-    coordinates: { lat: 21.0, lng: -8.0 },
+    coords: [-8.0, 21.0],
     description: {
       de: "El Djouf ist eine riesige, trockene Senke in der Sahara, die weite Teile Nord- und Ostmauretaniens bedeckt. Sie besteht aus Sand und Geröll.",
       hu: "Az El Djouf egy hatalmas, száraz sivatagi medence a Szaharában, amely Észak- és Kelet-Mauritánia nagy részét lefedi. Homokból és törmelékből áll.",
@@ -119,7 +119,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-tiris-plain-relief-v2",
     type: "mountain",
     name: { de: "Tiris-Ebene", hu: "Tiris-alföld", ro: "Câmpia Tiris", en: "Tiris Plain" },
-    coordinates: { lat: 22.0, lng: -11.0 },
+    coords: [-11.0, 22.0],
     description: {
       de: "Die Tiris-Ebene liegt im hohen Norden Mauretaniens. Sie ist eine Steinwüste, die durch ihre weite, ebene Oberfläche beeindruckt.",
       hu: "A Tiris-alföld Mauritánia távoli északi részén található. Ez egy kősivatag, amely kiterjedt, lapos felszínével nyűgöz le.",
@@ -138,7 +138,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-inchiri-relief-v2",
     type: "mountain",
     name: { de: "Inchiri-Region", hu: "Inchiri régió", ro: "Regiunea Inchiri", en: "Inchiri Region" },
-    coordinates: { lat: 19.5, lng: -15.0 },
+    coords: [-15.0, 19.5],
     description: {
       de: "Die Inchiri-Region ist ein trockenes Tiefland im Westen Mauretaniens. Es grenzt an den Atlantischen Ozean und besteht aus Sanddünen.",
       hu: "Az Inchiri régió egy száraz alföld Mauritánia nyugati részén. Az Atlanti-óceánnal határos, és homokdűnékből áll.",
@@ -157,7 +157,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-aftout-es-sahel-relief-v2",
     type: "valley",
     name: { de: "Aftout es-Sahel", hu: "Aftout es-Sahel", ro: "Aftout es-Sahel", en: "Aftout es-Sahel" },
-    coordinates: { lat: 17.5, lng: -15.5 },
+    coords: [-15.5, 17.5],
     description: {
       de: "Aftout es-Sahel ist ein langgestrecktes Becken im Südwesten Mauretaniens. Es ist ein wichtiges Gebiet für die landwirtschaftliche Bewässerung.",
       hu: "Az Aftout es-Sahel egy elnyújtott medence Mauritánia délnyugati részén. Fontos terület a mezőgazdasági öntözés számára.",
@@ -176,7 +176,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-banc-d-arguin-coast-relief-v2",
     type: "mountain",
     name: { de: "Banc d'Arguin Küste", hu: "Banc d'Arguin partvidék", ro: "Coasta Banc d'Arguin", en: "Banc d'Arguin Coast" },
-    coordinates: { lat: 20.2, lng: -16.3 },
+    coords: [-16.3, 20.2],
     description: {
       de: "Die Küste des Banc d'Arguin ist eine flache, gezeitenabhängige Region. Sie besteht aus Sandbänken und flachen Gewässern.",
       hu: "A Banc d'Arguin partvidéke egy lapos, árapály-függő régió. Homokpadokból és sekély vizekből áll.",
@@ -195,7 +195,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-trarza-dunes-relief-v2",
     type: "mountain",
     name: { de: "Trarza-Dünen", hu: "Trarza-dűnék", ro: "Dunele Trarza", en: "Trarza Dunes" },
-    coordinates: { lat: 17.0, lng: -14.0 },
+    coords: [-14.0, 17.0],
     description: {
       de: "Die Trarza-Dünen sind ein weitläufiges Sandgebiet im Südwesten Mauretaniens. Die Landschaft wird von riesigen Wanderdünen dominiert.",
       hu: "A Trarza-dűnék egy kiterjedt homokos terület Mauritánia délnyugati részén. A tájat hatalmas vándordűnék uralják.",
@@ -214,7 +214,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-brakna-plain-relief-v2",
     type: "valley",
     name: { de: "Brakna-Ebene", hu: "Brakna-alföld", ro: "Câmpia Brakna", en: "Brakna Plain" },
-    coordinates: { lat: 17.2, lng: -13.0 },
+    coords: [-13.0, 17.2],
     description: {
       de: "Die Brakna-Ebene ist eine flache Region südlich des Tagant-Plateaus. Sie ist durch eine Gras- und Strauchsavanne geprägt.",
       hu: "A Brakna-alföld egy lapos régió a Tagant-fennsíktól délre. Füves és bokros szavanna jellemzi.",
@@ -233,7 +233,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-gorgol-valley-relief-v2",
     type: "valley",
     name: { de: "Gorgol-Tal", hu: "Gorgol-völgy", ro: "Valea Gorgol", en: "Gorgol Valley" },
-    coordinates: { lat: 16.0, lng: -12.5 },
+    coords: [-12.5, 16.0],
     description: {
       de: "Das Gorgol-Tal ist ein fruchtbares Gebiet im Süden Mauretaniens. Der Gorgol-Fluss schafft hier eine wichtige landwirtschaftliche Oase.",
       hu: "A Gorgol-völgy egy termékeny terület Mauritánia déli részén. A Gorgol-folyó itt fontos mezőgazdasági oázist hoz létre.",
@@ -252,7 +252,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-assaba-hills-relief-v2",
     type: "mountain",
     name: { de: "Assaba-Hügel", hu: "Assaba-dombság", ro: "Dealurile Assaba", en: "Assaba Hills" },
-    coordinates: { lat: 16.8, lng: -11.5 },
+    coords: [-11.5, 16.8],
     description: {
       de: "Die Assaba-Hügel bilden eine sanfte Berglandschaft im Süden Mauretaniens. Sie sind bekannt für ihre felsigen Plateaus.",
       hu: "Az Assaba-dombság egy lágy hegyvidéki táj Mauritánia déli részén. Sziklás fennsíkjairól ismert.",
@@ -271,7 +271,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-guidimaka-plateau-relief-v2",
     type: "mountain",
     name: { de: "Guidimaka-Plateau", hu: "Guidimaka-fennsík", ro: "Podișul Guidimaka", en: "Guidimaka Plateau" },
-    coordinates: { lat: 15.5, lng: -12.0 },
+    coords: [-12.0, 15.5],
     description: {
       de: "Das Guidimaka-Plateau ist eine hügelige Hochebene im extremen Süden Mauretaniens. Die Region ist grüner als der Norden.",
       hu: "A Guidimaka-fennsík egy dombos fennsík Mauritánia legdélebbi részén. A régió zöldebb, mint az északi területek.",
@@ -290,7 +290,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-dhar-nema-relief-v2",
     type: "mountain",
     name: { de: "Dhar Nema", hu: "Dhar Nema", ro: "Dhar Nema", en: "Dhar Nema" },
-    coordinates: { lat: 16.6, lng: -7.2 },
+    coords: [-7.2, 16.6],
     description: {
       de: "Der Dhar Nema ist eine markante Felskante im Südosten. Er bietet einen weiten Blick über die umliegende Savannenlandschaft.",
       hu: "A Dhar Nema egy kiemelkedő sziklafal délkeleten. Széles kilátást nyújt a környező szavannás tájra.",
@@ -309,7 +309,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-adrar-dunes-relief-v2",
     type: "mountain",
     name: { de: "Adrar-Dünen", hu: "Adrar-dűnék", ro: "Dunele Adrar", en: "Adrar Dunes" },
-    coordinates: { lat: 20.7, lng: -12.5 },
+    coords: [-12.5, 20.7],
     description: {
       de: "Die Adrar-Dünen sind ein weitläufiges Dünenfeld im Norden des Adrar-Plateaus. Die Sandberge erreichen beachtliche Höhen.",
       hu: "Az Adrar-dűnék egy kiterjedt dűnamező az Adrar-fennsík északi részén. A homokhegyek jelentős magasságot érnek el.",
@@ -328,7 +328,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-tiris-zemmour-relief-v2",
     type: "mountain",
     name: { de: "Tiris Zemmour Plateau", hu: "Tiris Zemmour-fennsík", ro: "Podișul Tiris Zemmour", en: "Tiris Zemmour Plateau" },
-    coordinates: { lat: 23.0, lng: -10.0 },
+    coords: [-10.0, 23.0],
     description: {
       de: "Das Tiris Zemmour Plateau ist eine isolierte, felsige Hochebene ganz im Norden. Die Landschaft ist extrem karg.",
       hu: "A Tiris Zemmour-fennsík egy elszigetelt, sziklás fennsík egészen északon. A táj rendkívül kopár.",
@@ -347,7 +347,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-tagant-escarpment-relief-v2",
     type: "mountain",
     name: { de: "Tagant-Stufe", hu: "Tagant-lépcső", ro: "Escarpa Tagant", en: "Tagant Escarpment" },
-    coordinates: { lat: 17.8, lng: -11.8 },
+    coords: [-11.8, 17.8],
     description: {
       de: "Die Tagant-Stufe ist eine steile Felswand, die das Plateau abgrenzt. Sie dient als wichtiger geologischer Marker.",
       hu: "A Tagant-lépcső egy meredek sziklafal, amely elhatárolja a fennsíkot. Fontos geológiai jelölőként szolgál.",
@@ -366,7 +366,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-aouker-dunes-relief-v2",
     type: "mountain",
     name: { de: "Aouker-Dünen", hu: "Aouker-dűnék", ro: "Dunele Aouker", en: "Aouker Dunes" },
-    coordinates: { lat: 18.0, lng: -10.5 },
+    coords: [-10.5, 18.0],
     description: {
       de: "Die Aouker-Dünen sind ein sandiges Gebiet am Rand des Aouker-Beckens. Die Region ist sehr abgelegen.",
       hu: "Az Aouker-dűnék egy homokos terület az Aouker-medence peremén. A régió nagyon távoli.",
@@ -385,7 +385,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-tidjikja-valley-relief-v2",
     type: "valley",
     name: { de: "Tidjikja-Tal", hu: "Tidjikja-völgy", ro: "Valea Tidjikja", en: "Tidjikja Valley" },
-    coordinates: { lat: 18.5, lng: -11.4 },
+    coords: [-11.4, 18.5],
     description: {
       de: "Das Tidjikja-Tal ist eine grüne Oase im felsigen Tagant-Plateau. Hier findet man Dattelpalmen und Wasserquellen.",
       hu: "A Tidjikja-völgy egy zöld oázis a sziklás Tagant-fennsíkon. Datolyapálmákat és vízforrásokat találunk itt.",
@@ -404,7 +404,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-guir-plateau-relief-v2",
     type: "mountain",
     name: { de: "Guir-Plateau", hu: "Guir-fennsík", ro: "Podișul Guir", en: "Guir Plateau" },
-    coordinates: { lat: 19.5, lng: -12.0 },
+    coords: [-12.0, 19.5],
     description: {
       de: "Das Guir-Plateau ist eine felsige Hochebene im Adrar. Es bietet eine karge, aber beeindruckende Wüstenlandschaft.",
       hu: "A Guir-fennsík egy sziklás fennsík az Adrarban. Kopár, de lenyűgöző sivatagi tájat kínál.",
@@ -423,7 +423,7 @@ export const mauritaniaReliefV2: POI[] = [
     id: "mauritania-zini-hills-relief-v2",
     type: "mountain",
     name: { de: "Zini-Hügel", hu: "Zini-dombok", ro: "Dealurile Zini", en: "Zini Hills" },
-    coordinates: { lat: 17.5, lng: -10.0 },
+    coords: [-10.0, 17.5],
     description: {
       de: "Die Zini-Hügel liegen in der Region Tagant. Sie bestehen aus kleinen Felskuppen in einer trockenen Ebene.",
       hu: "A Zini-dombok a Tagant régióban találhatók. Apró sziklacsúcsokból állnak egy száraz alföldön.",

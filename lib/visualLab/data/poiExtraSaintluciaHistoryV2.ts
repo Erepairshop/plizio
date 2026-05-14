@@ -5,7 +5,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-fort-rodney-history-v2",
     type: "landmark",
     name: { de: "Fort Rodney", hu: "Rodney-erőd", ro: "Fort Rodney", en: "Fort Rodney" },
-    coordinates: { lat: 14.0915, lng: -60.9652 },
+    coords: [-60.9652, 14.0915],
     description: {
       de: "Diese britische Festung auf Pigeon Island wurde 1778 von Admiral George Rodney erbaut. Sie diente zur Überwachung der französischen Flotte im benachbarten Martinique.",
       hu: "A Pigeon-szigeten található brit erődöt 1778-ban építette George Rodney admirális. Stratégiai pontként szolgált a szomszédos Martinique francia flottájának megfigyelésére.",
@@ -24,7 +24,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-inniskilling-monument-history-v2",
     type: "monument",
     name: { de: "Inniskilling-Denkmal", hu: "Inniskilling-emlékmű", ro: "Monumentul Inniskilling", en: "Inniskilling Monument" },
-    coordinates: { lat: 13.9995, lng: -61.0005 },
+    coords: [-61.0005, 13.9995],
     description: {
       de: "Dieses Denkmal auf dem Morne Fortune erinnert an das 27. Inniskilling-Regiment. Es markiert den Sieg über die französischen Truppen im Jahr 1796.",
       hu: "A Morne Fortune-hegyen álló emlékmű a 27. Inniskilling ezrednek állít emléket. Az 1796-os francia csapatok feletti győzelmet jelöli.",
@@ -43,7 +43,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-derek-walcott-square-history-v2",
     type: "landmark",
     name: { de: "Derek Walcott Square", hu: "Derek Walcott tér", ro: "Piața Derek Walcott", en: "Derek Walcott Square" },
-    coordinates: { lat: 14.0088, lng: -60.9912 },
+    coords: [-60.9912, 14.0088],
     description: {
       de: "Früher als Place d'Armes bekannt, wurde dieser zentrale Platz in Castries nach dem Nobelpreisträger Derek Walcott benannt. Er ist das Herz der historischen Altstadt.",
       hu: "A korábban Place d'Armes néven ismert központi tér Castries-ban a Nobel-díjas Derek Walcottról kapta nevét. Ez a történelmi óváros szíve.",
@@ -62,7 +62,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-diamond-falls-baths-history-v2",
     type: "ruins",
     name: { de: "Königsbäder von Diamond Falls", hu: "Diamond Falls Királyi Fürdők", ro: "Băile Regale Diamond Falls", en: "Diamond Falls Royal Baths" },
-    coordinates: { lat: 13.8532, lng: -61.0475 },
+    coords: [-61.0475, 13.8532],
     description: {
       de: "Diese Thermalbäder wurden 1784 auf Befehl von König Ludwig XVI. von Frankreich errichtet. Sie dienten der Erholung der französischen Truppen in der Karibik.",
       hu: "Ezeket a termálfürdőket 1784-ben építették XVI. Lajos francia király parancsára. A francia csapatok pihenését szolgálták a Karib-térségben.",
@@ -81,7 +81,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-balenbouche-estate-history-v2",
     type: "ruins",
     name: { de: "Balenbouche Anwesen", hu: "Balenbouche birtok", ro: "Domeniul Balenbouche", en: "Balenbouche Estate" },
-    coordinates: { lat: 13.7548, lng: -61.0255 },
+    coords: [-61.0255, 13.7548],
     description: {
       de: "Ein historisches Plantagenanwesen im Süden von St. Lucia mit den Ruinen einer alten Zuckermühle. Es bietet Einblicke in die koloniale Agrargeschichte der Insel.",
       hu: "Egy történelmi ültetvénybirtok Saint Lucia déli részén, egy régi cukormalom romjaival. Betekintést nyújt a sziget gyarmati mezőgazdasági történelmébe.",
@@ -100,7 +100,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-morne-coubaril-estate-history-v2",
     type: "museum",
     name: { de: "Morne Coubaril Anwesen", hu: "Morne Coubaril birtok", ro: "Domeniul Morne Coubaril", en: "Morne Coubaril Estate" },
-    coordinates: { lat: 13.8435, lng: -61.0558 },
+    coords: [-61.0558, 13.8435],
     description: {
       de: "Dieses Anwesen aus dem 18. Jahrhundert ist eine der ältesten Plantagen in Soufrière. Es zeigt originalgetreue Rekonstruktionen von Arbeiterhütten und Produktionsstätten.",
       hu: "Ez a 18. századi birtok Soufrière egyik legrégebbi ültetvénye. Munkáskunyhók és termelőhelyek élethű rekonstrukcióit mutatja be.",
@@ -119,7 +119,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-la-toc-battery-history-v2",
     type: "battlefield",
     name: { de: "La Toc Batterie", hu: "La Toc üteg", ro: "Bateria La Toc", en: "La Toc Battery" },
-    coordinates: { lat: 14.0042, lng: -61.0098 },
+    coords: [-61.0098, 14.0042],
     description: {
       de: "Diese Küstenbatterie wurde im späten 19. Jahrhundert zum Schutz des Hafens von Castries errichtet. Sie beherbergte schwere Kanonen zur Verteidigung gegen Marineangriffe.",
       hu: "Ezt a parti üteget a 19. század végén építették Castries kikötőjének védelmére. Nehézágyúknak adott otthont a tengeri támadások elleni védekezéshez.",
@@ -138,7 +138,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-vigie-lighthouse-history-v2",
     type: "tower",
     name: { de: "Vigie Leuchtturm", hu: "Vigie világítótorony", ro: "Farul Vigie", en: "Vigie Lighthouse" },
-    coordinates: { lat: 14.0225, lng: -61.0112 },
+    coords: [-61.0112, 14.0225],
     description: {
       de: "Der 1883 erbaute Vigie-Leuchtturm markiert die Einfahrt zum Hafen von Castries. Er steht auf der historischen Vigie-Halbinsel, die oft Schauplatz kolonialer Schlachten war.",
       hu: "Az 1883-ban épült Vigie világítótorony jelzi a castries-i kikötő bejáratát. A történelmi Vigie-félszigeten áll, amely gyakran volt gyarmati csaták helyszíne.",
@@ -157,7 +157,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-vigie-military-cemetery-history-v2",
     type: "landmark",
     name: { de: "Militärfriedhof Vigie", hu: "Vigie katonai temető", ro: "Cimitirul Militar Vigie", en: "Vigie Military Cemetery" },
-    coordinates: { lat: 14.0205, lng: -61.0085 },
+    coords: [-61.0085, 14.0205],
     description: {
       de: "Dieser Friedhof auf der Vigie-Halbinsel ist die letzte Ruhestätte für britische Soldaten und Seeleute des 18. und 19. Jahrhunderts. Er zeugt von der turbulenten Militärgeschichte der Insel.",
       hu: "Ez a Vigie-félszigeten található temető a 18. és 19. századi brit katonák és tengerészek végső nyughelye. A sziget viharos katonai történelméről tanúskodik.",
@@ -176,7 +176,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-soufriere-old-courthouse-history-v2",
     type: "landmark",
     name: { de: "Altes Gerichtsgebäude Soufrière", hu: "Soufrière régi bírósági épülete", ro: "Vechea Curte de Justiție din Soufrière", en: "Soufrière Old Courthouse" },
-    coordinates: { lat: 13.8562, lng: -61.0565 },
+    coords: [-61.0565, 13.8562],
     description: {
       de: "Dieses historische Gebäude in der Küstenstadt Soufrière diente einst als administratives Zentrum. Es spiegelt den kolonialen französischen Architekturstil der ehemaligen Hauptstadt wider.",
       hu: "Ez a történelmi épület Soufrière kikötővárosában egykor adminisztratív központként szolgált. Az egykori főváros gyarmati francia építészeti stílusát tükrözi.",
@@ -195,7 +195,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-fond-doux-plantation-history-v2",
     type: "landmark",
     name: { de: "Fond Doux Plantage", hu: "Fond Doux ültetvény", ro: "Plantația Fond Doux", en: "Fond Doux Plantation" },
-    coordinates: { lat: 13.8325, lng: -61.0512 },
+    coords: [-61.0512, 13.8325],
     description: {
       de: "Eine 250 Jahre alte, noch aktive Plantage, die für ihre Kakaoproduktion berühmt ist. Sie bewahrt traditionelle karibische Anbaumethoden und historische Gebäude.",
       hu: "Egy 250 éves, ma is működő ültetvény, amely kakaótermeléséről híres. Megőrzi a hagyományos karibi gazdálkodási módszereket és történelmi épületeket.",
@@ -214,7 +214,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-anse-la-raye-village-history-v2",
     type: "village",
     name: { de: "Anse La Raye Fischerdorf", hu: "Anse La Raye halászfalu", ro: "Satul pescăresc Anse La Raye", en: "Anse La Raye Fishing Village" },
-    coordinates: { lat: 13.9395, lng: -61.0398 },
+    coords: [-61.0398, 13.9395],
     description: {
       de: "Anse La Raye ist bekannt für seine gut erhaltene Holzarchitektur aus der Kolonialzeit. Der Name leitet sich von den Rochen ab, die in der Bucht vorkommen.",
       hu: "Anse La Raye a jól megőrzött gyarmati kori faépítészetéről ismert. Neve az öbölben található rájákról származik.",
@@ -233,7 +233,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-cape-moule-a-chique-lighthouse-history-v2",
     type: "tower",
     name: { de: "Moule-a-Chique Leuchtturm", hu: "Moule-a-Chique világítótorony", ro: "Farul Moule-a-Chique", en: "Moule-a-Chique Lighthouse" },
-    coordinates: { lat: 13.7125, lng: -60.9415 },
+    coords: [-60.9415, 13.7125],
     description: {
       de: "Dieser 1912 erbaute Leuchtturm steht auf der südlichsten Spitze der Insel. Mit 223 Metern über dem Meeresspiegel ist er einer der am höchsten gelegenen der Welt.",
       hu: "Ez az 1912-ben épült világítótorony a sziget legdélebbi csücskén áll. A tengerszint feletti 223 méteres magasságával a világ egyik legmagasabban fekvő világítótornya.",
@@ -252,7 +252,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-maria-islands-archaeology-history-v2",
     type: "ruins",
     name: { de: "Maria Islands Archäologische Stätte", hu: "Maria-szigetek régészeti lelőhely", ro: "Situl arheologic Insulele Maria", en: "Maria Islands Archaeological Site" },
-    coordinates: { lat: 13.7255, lng: -60.9312 },
+    coords: [-60.9312, 13.7255],
     description: {
       de: "Diese kleinen Inseln vor Vieux Fort beherbergen bedeutende Funde der Amerindier. Archäologen entdeckten hier Keramiken und Werkzeuge der frühen Arawak-Siedler.",
       hu: "Ezek a Vieux Fort előtti kis szigetek jelentős amerindián leleteket őriznek. A régészek korai arawak telepesek kerámiáit és eszközeit fedezték fel itt.",
@@ -271,7 +271,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-beane-field-wwii-history-v2",
     type: "battlefield",
     name: { de: "Beane Field WWII Stützpunkt", hu: "Beane Field II. világháborús bázis", ro: "Baza WWII Beane Field", en: "Beane Field WWII Base" },
-    coordinates: { lat: 13.7335, lng: -60.9525 },
+    coords: [-60.9525, 13.7335],
     description: {
       de: "Während des Zweiten Weltkriegs errichteten die USA diesen Luftwaffenstützpunkt im Süden der Insel. Er diente dem Schutz des Panamakanals und der Überwachung deutscher U-Boote.",
       hu: "A második világháború alatt az USA ezt a légibázist építette a sziget déli részén. A Panaman-csatorna védelmét és a német tengeralattjárók megfigyelését szolgálta.",
@@ -290,7 +290,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marquis-estate-history-v2",
     type: "ruins",
     name: { de: "Marquis Anwesen", hu: "Marquis birtok", ro: "Domeniul Marquis", en: "Marquis Estate" },
-    coordinates: { lat: 14.0455, lng: -60.9125 },
+    coords: [-60.9125, 14.0455],
     description: {
       de: "Das Marquis Estate war einst die größte Plantage der Insel und blickt auf eine lange Geschichte zurück. Es liegt an der Nordostküste und enthält Ruinen aus der Sklavenzeit.",
       hu: "A Marquis-birtok egykor a sziget legnagyobb ültetvénye volt, és hosszú múltra tekint vissza. Az északkeleti parton fekszik, és a rabszolgaság korából származó romokat tartalmaz.",
@@ -309,7 +309,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-rat-island-quarantine-history-v2",
     type: "ruins",
     name: { de: "Rat Island Quarantänestation", hu: "Rat Island karanténállomás", ro: "Stația de carantină Rat Island", en: "Rat Island Quarantine Station" },
-    coordinates: { lat: 14.0325, lng: -60.9895 },
+    coords: [-60.9895, 14.0325],
     description: {
       de: "Diese kleine Insel vor der Küste wurde im 19. Jahrhundert als Quarantänestation für Schiffsreisende genutzt. Hier wurden Menschen mit ansteckenden Krankheiten wie Gelbfieber isoliert.",
       hu: "Ezt a part menti kis szigetet a 19. században karanténállomásként használták a hajósok számára. Itt különítették el a fertőző betegségekben, például sárgalázban szenvedőket.",
@@ -328,7 +328,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-choiseul-petroglyphs-history-v2",
     type: "ruins",
     name: { de: "Choiseul Petroglyphen", hu: "Choiseul-i sziklarajzok", ro: "Petroglifele din Choiseul", en: "Choiseul Petroglyphs" },
-    coordinates: { lat: 13.7825, lng: -61.0495 },
+    coords: [-61.0495, 13.7825],
     description: {
       de: "In der Nähe von Choiseul befinden sich antike Felsritzungen der Amerindier. Diese Petroglyphen geben wertvolle Hinweise auf die Spiritualität und Kultur der Ureinwohner.",
       hu: "Choiseul közelében az amerindiánok ősi sziklavésetei találhatók. Ezek a sziklarajzok értékes információkat nyújtanak az őslakosok spiritualitásáról és kultúrájáról.",
@@ -347,7 +347,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-laborie-parish-church-history-v2",
     type: "church",
     name: { de: "Pfarrkirche von Laborie", hu: "Laborie plébániatemplom", ro: "Biserica parohială din Laborie", en: "Laborie Parish Church" },
-    coordinates: { lat: 13.7482, lng: -60.9952 },
+    coords: [-60.9952, 13.7482],
     description: {
       de: "Die dem heiligen Januarius geweihte Kirche ist das Wahrzeichen des malerischen Dorfes Laborie. Sie wurde im späten 19. Jahrhundert erbaut und beherrscht das Dorfbild.",
       hu: "A Szent Januáriusz tiszteletére szentelt templom a festői Laborie falu jelképe. A 19. század végén épült, és meghatározza a faluképet.",
@@ -366,7 +366,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-officers-quarters-history-v2",
     type: "ruins",
     name: { de: "Offiziersunterkünfte Pigeon Island", hu: "Pigeon-szigeti tiszti lakások", ro: "Cartierul Ofițerilor Pigeon Island", en: "Pigeon Island Officers' Quarters" },
-    coordinates: { lat: 14.0905, lng: -60.9635 },
+    coords: [-60.9635, 14.0905],
     description: {
       de: "Diese Ruinen auf Pigeon Island waren einst die komfortablen Unterkünfte der britischen Offiziere. Sie bieten einen Einblick in den Alltag des Militärs im 18. Jahrhundert.",
       hu: "Ezek a Pigeon-szigeti romok egykor a brit tisztek kényelmes szállásai voltak. Betekintést nyújtanak a 18. századi katonaság mindennapjaiba.",
@@ -385,7 +385,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-powder-magazine-history-v2",
     type: "landmark",
     name: { de: "Pulvermagazin Pigeon Island", hu: "Pigeon-szigeti lőportár", ro: "Magazia de pulbere Pigeon Island", en: "Pigeon Island Powder Magazine" },
-    coordinates: { lat: 14.0912, lng: -60.9645 },
+    coords: [-60.9645, 14.0912],
     description: {
       de: "Das massive Pulvermagazin diente der sicheren Lagerung von Schießpulver für die Kanonen der Insel. Es wurde mit dicken Wänden gebaut, um Explosionen standzuhalten.",
       hu: "A masszív lőportár a sziget ágyúihoz szükséges lőpor biztonságos tárolására szolgált. Vastag falakkal építették, hogy ellenálljon a robbanásoknak.",
@@ -404,7 +404,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marigot-bay-rodney-history-v2",
     type: "landmark",
     name: { de: "Admiral Rodneys Versteck (Marigot Bay)", hu: "Rodney admirális rejtekhelye (Marigot-öböl)", ro: "Ascunzătoarea amiralului Rodney (Marigot Bay)", en: "Admiral Rodney's Hiding Spot (Marigot Bay)" },
-    coordinates: { lat: 13.9645, lng: -61.0255 },
+    coords: [-61.0255, 13.9645],
     description: {
       de: "Marigot Bay ist berühmt dafür, dass Admiral Rodney hier 1778 seine Flotte vor den Franzosen versteckte. Die Masten der Schiffe wurden mit Palmwedeln getarnt.",
       hu: "A Marigot-öböl arról híres, hogy Rodney admirális 1778-ban itt rejtette el flottáját a franciák elől. A hajók árbocait pálmalevelekkel álcázták.",
@@ -423,7 +423,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-morne-fortune-powder-magazine-history-v2",
     type: "landmark",
     name: { de: "Pulvermagazin Morne Fortune", hu: "Morne Fortune lőportár", ro: "Magazia de pulbere Morne Fortune", en: "Morne Fortune Powder Magazine" },
-    coordinates: { lat: 13.9998, lng: -61.0008 },
+    coords: [-61.0008, 13.9998],
     description: {
       de: "Dieses gut erhaltene Gebäude auf dem Morne Fortune wurde von den Franzosen im 18. Jahrhundert zur Lagerung von Munition errichtet. Es zeigt die militärische Architektur der Kolonialzeit.",
       hu: "Ez a Morne Fortune-hegyen található, jól megőrzött épületet a franciák építették a 18. században lőszer tárolására. A gyarmati kor katonai építészetét mutatja be.",
@@ -442,7 +442,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-apostles-battery-history-v2",
     type: "battlefield",
     name: { de: "Apostel-Batterie", hu: "Apostolok-ütege", ro: "Bateria Apostolilor", en: "Apostles' Battery" },
-    coordinates: { lat: 14.0005, lng: -61.0012 },
+    coords: [-61.0012, 14.0005],
     description: {
       de: "Die Apostel-Batterie auf Morne Fortune erhielt ihren Namen von den ursprünglich dort aufgestellten zwölf Kanonen. Sie war ein entscheidender Verteidigungspunkt für Castries.",
       hu: "A Morne Fortune-on található Apostolok-ütege az eredetileg ott elhelyezett tizenkét ágyúról kapta a nevét. Castries védelmének döntő pontja volt.",
@@ -461,7 +461,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-gros-islet-old-town-history-v2",
     type: "town",
     name: { de: "Altstadt von Gros Islet", hu: "Gros Islet óváros", ro: "Centrul vechi din Gros Islet", en: "Gros Islet Old Town" },
-    coordinates: { lat: 14.0815, lng: -60.9525 },
+    coords: [-60.9525, 14.0815],
     description: {
       de: "Gros Islet war ursprünglich ein kleines Fischerdorf und wurde unter französischer Herrschaft zur Pfarrei erhoben. Es bewahrt viele historische Holzhäuser in engen Gassen.",
       hu: "Gros Islet eredetileg egy kis halászfalu volt, és a francia uralom alatt vált plébániává. Sok történelmi faházat őriz szűk utcáiban.",
@@ -480,7 +480,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-vieux-fort-old-town-history-v2",
     type: "town",
     name: { de: "Altstadt von Vieux Fort", hu: "Vieux Fort óváros", ro: "Centrul vechi din Vieux Fort", en: "Vieux Fort Old Town" },
-    coordinates: { lat: 13.7195, lng: -60.9485 },
+    coords: [-60.9485, 13.7195],
     description: {
       de: "Vieux Fort ist nach einer alten französischen Festung benannt, die im 17. Jahrhundert zum Schutz des Südens erbaut wurde. Es ist das historische Handelszentrum der Region.",
       hu: "Vieux Fort egy régi francia erődről kapta a nevét, amelyet a 17. században építettek a déli rész védelmére. A régió történelmi kereskedelmi központja.",
@@ -499,7 +499,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marquis-river-archaeology-history-v2",
     type: "ruins",
     name: { de: "Marquis River Archäologische Stätte", hu: "Marquis-folyó régészeti lelőhely", ro: "Situl arheologic Râul Marquis", en: "Marquis River Archaeological Site" },
-    coordinates: { lat: 14.0482, lng: -60.9155 },
+    coords: [-60.9155, 14.0482],
     description: {
       de: "Das Marquis River Tal ist reich an präkolumbianischen Artefakten. Archäologen fanden hier Siedlungsspuren, die auf die Bedeutung des Flusses für die Ureinwohner hinweisen.",
       hu: "A Marquis-folyó völgye gazdag prekolumbián leletekben. A régészek településnyomokat találtak itt, amelyek a folyó őslakosok számára való fontosságára utalnak.",
@@ -518,7 +518,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-victorian-library-castries-history-v2",
     type: "landmark",
     name: { de: "Viktorianische Bibliothek Castries", hu: "Viktoriánus Könyvtár Castries", ro: "Biblioteca Victoriană din Castries", en: "Victorian Library Castries" },
-    coordinates: { lat: 14.0092, lng: -60.9918 },
+    coords: [-60.9918, 14.0092],
     description: {
       de: "Die Nationalbibliothek von St. Lucia ist in einem wunderschönen viktorianischen Gebäude untergebracht. Es wurde 1916 mit Unterstützung von Andrew Carnegie erbaut.",
       hu: "Saint Lucia Nemzeti Könyvtára egy gyönyörű viktoriánus épületben található. 1916-ban épült Andrew Carnegie támogatásával.",
@@ -537,7 +537,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-mamiku-gardens-estate-history-v2",
     type: "landmark",
     name: { de: "Mamiku Gärten (Historisches Anwesen)", hu: "Mamiku-kertek (Történelmi birtok)", ro: "Grădinile Mamiku (Domeniu istoric)", en: "Mamiku Gardens (Historic Estate)" },
-    coordinates: { lat: 13.8825, lng: -60.8995 },
+    coords: [-60.8995, 13.8825],
     description: {
       de: "Mamiku Gardens liegt auf dem Gelände einer ehemaligen französischen Militärstation aus dem 18. Jahrhundert. Es verbindet botanische Vielfalt mit kolonialen Ruinen.",
       hu: "A Mamiku-kertek egy korábbi 18. századi francia katonai állomás területén találhatók. A botanikai sokszínűséget ötvözi a gyarmati romokkal.",
@@ -556,7 +556,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-dennery-old-village-history-v2",
     type: "village",
     name: { de: "Historisches Dorf Dennery", hu: "Dennery történelmi falu", ro: "Satul istoric Dennery", en: "Dennery Old Village" },
-    coordinates: { lat: 13.9125, lng: -60.8885 },
+    coords: [-60.8885, 13.9125],
     description: {
       de: "Dennery an der Ostküste wurde nach dem französischen Grafen d'Ennery benannt. Das Dorf spielte eine wichtige Rolle bei der Besiedlung der windzugewandten Seite der Insel.",
       hu: "A keleti parton fekvő Dennery d'Ennery francia grófról kapta a nevét. A falu fontos szerepet játszott a sziget szeles oldalának benépesítésében.",
@@ -575,7 +575,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-roseau-sugar-mill-ruins-history-v2",
     type: "ruins",
     name: { de: "Roseau Zuckermühlenruinen", hu: "Roseau cukormalom romok", ro: "Ruinele morii de zahăr din Roseau", en: "Roseau Sugar Mill Ruins" },
-    coordinates: { lat: 13.9555, lng: -61.0212 },
+    coords: [-61.0212, 13.9555],
     description: {
       de: "Im fruchtbaren Roseau Valley befinden sich die Überreste einer einst mächtigen Zuckerfabrik. Sie zeugen von der Ära, in der Zucker das 'weiße Gold' der Karibik war.",
       hu: "A termékeny Roseau-völgyben egy egykor hatalmas cukorgyár maradványai találhatók. Tanúskodnak arról a korszakról, amikor a cukor a Karib-térség 'fehér aranya' volt.",
@@ -594,7 +594,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-micoud-parish-church-history-v2",
     type: "church",
     name: { de: "Pfarrkirche von Micoud", hu: "Micoud plébániatemplom", ro: "Biserica parohială din Micoud", en: "Micoud Parish Church" },
-    coordinates: { lat: 13.8165, lng: -60.9025 },
+    coords: [-60.9025, 13.8165],
     description: {
       de: "Die dem heiligen Johannes dem Täufer geweihte Kirche steht im Zentrum von Micoud. Sie ist ein historischer Fixpunkt für die Gemeinden an der Südostküste.",
       hu: "A Keresztelő Szent Jánosnak szentelt templom Micoud központjában áll. A délkeleti parti közösségek történelmi tájékozódási pontja.",
@@ -613,7 +613,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-praslin-island-pirate-history-v2",
     type: "landmark",
     name: { de: "Praslin Island (Piratengeschichte)", hu: "Praslin-sziget (Kalóztörténelem)", ro: "Insula Praslin (Istoria piraților)", en: "Praslin Island (Pirate History)" },
-    coordinates: { lat: 13.8755, lng: -60.8912 },
+    coords: [-60.8912, 13.8755],
     description: {
       de: "Die kleine Insel in der Praslin-Bucht hat eine bewegte Geschichte als Versteck für Schmuggler und Piraten. Ihre geschützte Lage machte sie ideal für maritime Operationen.",
       hu: "A Praslin-öbölben található kis sziget mozgalmas múltra tekint vissza csempészek és kalózok rejtekhelyeként. Védett fekvése ideálissá tette a tengeri műveletekhez.",
@@ -632,7 +632,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-savannes-bay-arawak-history-v2",
     type: "ruins",
     name: { de: "Savannes Bay Arawak Siedlung", hu: "Savannes Bay arawak település", ro: "Așezarea Arawak din Savannes Bay", en: "Savannes Bay Arawak Settlement" },
-    coordinates: { lat: 13.7555, lng: -60.9155 },
+    coords: [-60.9155, 13.7555],
     description: {
       de: "Savannes Bay ist eine bedeutende archäologische Stätte der Amerindier im Südosten der Insel. Hier wurden zahlreiche Überreste von Siedlungen der Arawak-Kultur gefunden.",
       hu: "A Savannes-öböl jelentős amerindián régészeti lelőhely a sziget délkeleti részén. Itt számos arawak kultúrából származó településmaradványt találtak.",
@@ -651,7 +651,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-paix-bouche-colonial-history-v2",
     type: "landmark",
     name: { de: "Paix Bouche (Historische Stätte)", hu: "Paix Bouche (Történelmi helyszín)", ro: "Paix Bouche (Sit istoric)", en: "Paix Bouche (Historic Site)" },
-    coordinates: { lat: 14.0325, lng: -60.9412 },
+    coords: [-60.9412, 14.0325],
     description: {
       de: "Paix Bouche ist eine historische Gegend in den Hügeln von Babonneau. Der Name deutet auf einen Ort der Stille oder des Friedens in der kolonialen Ära hin.",
       hu: "Paix Bouche egy történelmi terület Babonneau dombjai között. A név a gyarmati kor egy csendes vagy békés helyére utal.",
@@ -670,7 +670,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-troumassee-estate-ruins-history-v2",
     type: "ruins",
     name: { de: "Troumassee Anwesen Ruinen", hu: "Troumassee birtok romok", ro: "Ruinele domeniului Troumassee", en: "Troumassee Estate Ruins" },
-    coordinates: { lat: 13.8225, lng: -60.9125 },
+    coords: [-60.9125, 13.8225],
     description: {
       de: "Dieses ehemalige Plantagenanwesen nahe Micoud beherbergt Ruinen aus der Blütezeit der Zuckerwirtschaft. Es ist ein wichtiger Teil des industriellen Erbes der Südostküste.",
       hu: "Ez az egykori ültetvénybirtok Micoud közelében a cukorgazdaság fénykorából származó romokat őriz. A délkeleti part ipari örökségének fontos része.",
@@ -689,7 +689,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-tapion-point-battery-history-v2",
     type: "battlefield",
     name: { de: "Tapion Point Batterie", hu: "Tapion Point üteg", ro: "Bateria Tapion Point", en: "Tapion Point Battery" },
-    coordinates: { lat: 14.0125, lng: -61.0025 },
+    coords: [-61.0025, 14.0125],
     description: {
       de: "Tapion Point am Eingang des Hafens von Castries beherbergte eine wichtige britische Batterie. Sie diente als Gegengewicht zur Vigie-Batterie auf der anderen Hafenseite.",
       hu: "A castries-i kikötő bejáratánál található Tapion Point egy fontos brit ütegnek adott otthont. A kikötő túloldalán lévő Vigie-üteg ellensúlyaként szolgált.",
@@ -708,7 +708,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-choc-bay-battlefield-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Choc Bay", hu: "Choc Bay csatatér", ro: "Câmpul de luptă Choc Bay", en: "Choc Bay Battlefield" },
-    coordinates: { lat: 14.0355, lng: -60.9755 },
+    coords: [-60.9755, 14.0355],
     description: {
       de: "In der Choc Bay fanden 1778 entscheidende Landungen britischer Truppen während der Schlacht von St. Lucia statt. Das Gebiet war ein Schlüsselpunkt für den Angriff auf die Vigie-Höhen.",
       hu: "A Choc-öbölben 1778-ban döntő brit csapatpartraszállások történtek a Saint Lucia-i csata során. A terület kulcsfontosságú volt a Vigie-magaslatok elleni támadáshoz.",
@@ -727,7 +727,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-cul-de-sac-valley-sugar-history-v2",
     type: "landmark",
     name: { de: "Cul de Sac Tal (Zuckergeschichte)", hu: "Cul de Sac-völgy (Cukortörténelem)", ro: "Valea Cul de Sac (Istoria zahărului)", en: "Cul de Sac Valley (Sugar History)" },
-    coordinates: { lat: 13.9855, lng: -61.0055 },
+    coords: [-61.0055, 13.9855],
     description: {
       de: "Das Cul de Sac Tal war über Jahrhunderte das Herz der Zuckerproduktion von St. Lucia. Es beherbergte zahlreiche große Anwesen und moderne Fabriken des 19. Jahrhunderts.",
       hu: "A Cul de Sac-völgy évszázadokon át Saint Lucia cukortermelésének szíve volt. Számos nagy birtoknak és modern 19. századi gyárnak adott otthont.",
@@ -746,7 +746,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-soldiers-barracks-history-v2",
     type: "ruins",
     name: { de: "Soldatenbaracken Pigeon Island", hu: "Pigeon-szigeti katonai laktanyák", ro: "Cazărmile soldaților Pigeon Island", en: "Pigeon Island Soldiers' Barracks" },
-    coordinates: { lat: 14.0915, lng: -60.9625 },
+    coords: [-60.9625, 14.0915],
     description: {
       de: "Die Ruinen der Soldatenbaracken auf Pigeon Island zeigen die spartanischen Lebensbedingungen des gemeinen Fußvolks. Sie wurden im 18. Jahrhundert aus massivem Stein errichtet.",
       hu: "A Pigeon-szigeti katonai laktanyák romjai a közkatonák spártai életkörülményeit mutatják be. A 18. században épültek masszív kőből.",
@@ -765,7 +765,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-musket-redoubt-history-v2",
     type: "battlefield",
     name: { de: "Musketen-Redoute Pigeon Island", hu: "Pigeon-szigeti muskétás sánc", ro: "Reduta pentru mușchete Pigeon Island", en: "Pigeon Island Musket Redoubt" },
-    coordinates: { lat: 14.0925, lng: -60.9632 },
+    coords: [-60.9632, 14.0925],
     description: {
       de: "Diese kleine Befestigungsanlage diente der Verteidigung von Pigeon Island gegen Infanterieangriffe. Sie ist mit Schießscharten für Musketenschützen ausgestattet.",
       hu: "Ez a kis erődítmény a Pigeon-sziget gyalogsági támadások elleni védelmére szolgált. Muskétások számára kialakított lőrésekkel van ellátva.",
@@ -784,7 +784,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-st-joseph-worker-church-history-v2",
     type: "church",
     name: { de: "Kirche St. Joseph der Arbeiter", hu: "Munkás Szent József-templom", ro: "Biserica Sfântul Iosif Muncitorul", en: "St. Joseph the Worker Church" },
-    coordinates: { lat: 14.0822, lng: -60.9532 },
+    coords: [-60.9532, 14.0822],
     description: {
       de: "Diese Kirche in Gros Islet ist das spirituelle Herz der Gemeinde. Sie steht an der Stelle früherer Kapellen, die bis in die französische Kolonialzeit zurückreichen.",
       hu: "Ez a Gros Islet-i templom a közösség spirituális szíve. Korábbi kápolnák helyén áll, amelyek egészen a francia gyarmati korig nyúlnak vissza.",
@@ -803,7 +803,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-morne-le-blanc-lookout-history-v2",
     type: "landmark",
     name: { de: "Morne Le Blanc Aussichtspunkt", hu: "Morne Le Blanc kilátó", ro: "Punctul de observație Morne Le Blanc", en: "Morne Le Blanc Lookout" },
-    coordinates: { lat: 13.7855, lng: -61.0415 },
+    coords: [-61.0415, 13.7855],
     description: {
       de: "Dieser Hügel über Choiseul diente in der Kolonialzeit als strategischer Ausguck. Er bietet einen weiten Blick über die Südküste bis hin zur Insel St. Vincent.",
       hu: "Ez a Choiseul feletti domb a gyarmati korban stratégiai kilátóként szolgált. Széles kilátást nyújt a déli partra, egészen St. Vincent szigetéig.",
@@ -822,7 +822,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marquis-estate-sugar-mill-history-v2",
     type: "ruins",
     name: { de: "Marquis Zuckermühle", hu: "Marquis cukormalom", ro: "Moara de zahăr Marquis", en: "Marquis Sugar Mill" },
-    coordinates: { lat: 14.0442, lng: -60.9135 },
+    coords: [-60.9135, 14.0442],
     description: {
       de: "Die Ruinen der Marquis Zuckermühle sind Überreste des ehemals größten Plantagenkomplexes im Norden. Die massiven Steinkonstruktionen zeugen von der industriellen Macht der Kolonialzeit.",
       hu: "A Marquis cukormalom romjai az északi rész egykor legnagyobb ültetvénykomplexumának maradványai. A masszív kőszerkezetek a gyarmati kor ipari hatalmáról tanúskodnak.",
@@ -841,7 +841,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-provost-redoubt-history-v2",
     type: "battlefield",
     name: { de: "Provost-Redoute", hu: "Provost-sánc", ro: "Reduta Provost", en: "Provost's Redoubt" },
-    coordinates: { lat: 13.9992, lng: -61.0015 },
+    coords: [-61.0015, 13.9992],
     description: {
       de: "Die Provost-Redoute war eine wichtige Verteidigungsstellung auf dem Morne Fortune. Sie wurde nach General Provost benannt, der in den kolonialen Kriegen eine Rolle spielte.",
       hu: "A Provost-sánc egy fontos védelmi állás volt a Morne Fortune-hegyen. Provost tábornokról nevezték el, aki fontos szerepet játszott a gyarmati háborúkban.",
@@ -860,7 +860,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-rabot-estate-history-v2",
     type: "landmark",
     name: { de: "Rabot Anwesen", hu: "Rabot birtok", ro: "Domeniul Rabot", en: "Rabot Estate" },
-    coordinates: { lat: 13.8355, lng: -61.0455 },
+    coords: [-61.0455, 13.8355],
     description: {
       de: "Das Rabot Estate ist eine der höchstgelegenen Kakaoplantagen der Insel und blickt auf eine lange Tradition zurück. Es bietet Einblicke in die Agrargeschichte Soufrières.",
       hu: "A Rabot-birtok a sziget egyik legmagasabban fekvő kakaóültetvénye, és hosszú hagyományokra tekint vissza. Betekintést nyújt Soufrière mezőgazdasági történelmébe.",
@@ -879,7 +879,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-canaries-sugar-mill-history-v2",
     type: "ruins",
     name: { de: "Canaries Zuckermühlenruinen", hu: "Canaries cukormalom romok", ro: "Ruinele morii de zahăr din Canaries", en: "Canaries Sugar Mill Ruins" },
-    coordinates: { lat: 13.9055, lng: -61.0625 },
+    coords: [-61.0625, 13.9055],
     description: {
       de: "Die Ruinen der alten Zuckermühle in Canaries zeugen von der landwirtschaftlichen Vergangenheit des Dorfes. Sie befinden sich in einem dicht bewaldeten Tal nahe der Küste.",
       hu: "A Canaries-i régi cukormalom romjai a falu mezőgazdasági múltjáról tanúskodnak. Egy sűrűn erdős völgyben találhatók a part közelében.",
@@ -898,7 +898,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-union-agricultural-station-history-v2",
     type: "landmark",
     name: { de: "Union Landwirtschaftliche Station (Historisch)", hu: "Union Mezőgazdasági Állomás (Történelmi)", ro: "Stația Agricolă Union (Istorică)", en: "Union Agricultural Station (Historic)" },
-    coordinates: { lat: 14.0382, lng: -60.9655 },
+    coords: [-60.9655, 14.0382],
     description: {
       de: "Die landwirtschaftliche Station in Union wurde im 19. Jahrhundert zur Erforschung neuer Nutzpflanzen gegründet. Sie ist ein bedeutender Ort für die botanische Geschichte der Insel.",
       hu: "Az Union mezőgazdasági állomást a 19. században alapították új haszonnövények kutatására. A sziget botanikai történelmének jelentős helyszíne.",
@@ -917,7 +917,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-royal-military-cemetery-morne-fortune-history-v2",
     type: "landmark",
     name: { de: "Königlicher Militärfriedhof Morne Fortune", hu: "Morne Fortune királyi katonai temető", ro: "Cimitirul Militar Regal Morne Fortune", en: "Royal Military Cemetery Morne Fortune" },
-    coordinates: { lat: 14.0015, lng: -60.9995 },
+    coords: [-60.9995, 14.0015],
     description: {
       de: "Auf diesem Friedhof ruhen britische Offiziere und Soldaten, die bei den Schlachten um Morne Fortune fielen. Er ist eine feierliche Gedenkstätte der Militärgeschichte.",
       hu: "Ebben a temetőben nyugszanak azok a brit tisztek és katonák, akik a Morne Fortune-ért folytatott csatákban estek el. A katonai történelem ünnepélyes emlékhelye.",
@@ -936,7 +936,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-causeway-history-v2",
     type: "landmark",
     name: { de: "Pigeon Island Damm", hu: "Pigeon-szigeti gát", ro: "Digul Pigeon Island", en: "Pigeon Island Causeway" },
-    coordinates: { lat: 14.0865, lng: -60.9555 },
+    coords: [-60.9555, 14.0865],
     description: {
       de: "Der Damm verbindet Pigeon Island dauerhaft mit dem Festland von St. Lucia. Er wurde in den 1970er Jahren aufgeschüttet und beendete den Status als isolierte Insel.",
       hu: "A gát tartósan összeköti a Pigeon-szigetet Saint Lucia szárazföldjével. Az 1970-es években építették, véget vetve az elszigetelt sziget státusznak.",
@@ -955,7 +955,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-ferrands-estate-history-v2",
     type: "landmark",
     name: { de: "Ferrands Anwesen", hu: "Ferrands birtok", ro: "Domeniul Ferrands", en: "Ferrands Estate" },
-    coordinates: { lat: 13.9755, lng: -61.0012 },
+    coords: [-61.0012, 13.9755],
     description: {
       de: "Das Ferrands Estate im Cul de Sac Tal ist ein historisches Zentrum der Landwirtschaft. Es spiegelt den Reichtum der französischen Siedlerfamilien wider.",
       hu: "A Cul de Sac-völgyben található Ferrands-birtok a mezőgazdaság történelmi központja. A francia telepes családok gazdagságát tükrözi.",
@@ -974,7 +974,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-lazaretto-history-v2",
     type: "ruins",
     name: { de: "Ehemaliges Lazarett Pigeon Island", hu: "Pigeon-szigeti egykori lazáret", ro: "Fostul lazaret din Pigeon Island", en: "Pigeon Island Former Lazaretto" },
-    coordinates: { lat: 14.0908, lng: -60.9615 },
+    coords: [-60.9615, 14.0908],
     description: {
       de: "Dieses Gebäude wurde im 19. Jahrhundert als Lazarett und Quarantänestation für Seeleute genutzt. Es zeigt die Bedeutung der Gesundheitsvorsorge für das Militär.",
       hu: "Ezt az épületet a 19. században lazáretként és a tengerészek karanténállomásaként használták. A katonai egészségügyi ellátás fontosságát mutatja.",
@@ -993,7 +993,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-vieux-fort-sugar-factory-history-v2",
     type: "industry",
     name: { de: "Zuckerfabrik Vieux Fort", hu: "Vieux Fort cukorgyár", ro: "Fabrica de zahăr Vieux Fort", en: "Vieux Fort Sugar Factory" },
-    coordinates: { lat: 13.7225, lng: -60.9515 },
+    coords: [-60.9515, 13.7225],
     description: {
       de: "Diese Ruinen markieren den Standort der ersten großen Dampf-Zuckerfabrik der Insel im 19. Jahrhundert. Sie war ein Symbol für den industriellen Fortschritt im Süden.",
       hu: "Ezek a romok jelölik a sziget első nagy gőzhajtású cukorgyárának helyszínét a 19. században. A déli ipari fejlődés szimbóluma volt.",
@@ -1012,7 +1012,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-monchy-old-estate-history-v2",
     type: "landmark",
     name: { de: "Altes Anwesen Monchy", hu: "Monchy régi birtoka", ro: "Vechiul domeniu Monchy", en: "Monchy Old Estate" },
-    coordinates: { lat: 14.0625, lng: -60.9325 },
+    coords: [-60.9325, 14.0625],
     description: {
       de: "Monchy ist eine historische Siedlung im Norden, die um ein altes Plantagenanwesen herum entstand. Die Gegend bewahrt den Geist der frühen ländlichen Entwicklung.",
       hu: "Monchy egy északi történelmi település, amely egy régi ültetvénybirtok köré épült. A terület őrzi a korai vidéki fejlődés szellemét.",
@@ -1031,7 +1031,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pointe-du-cap-battery-history-v2",
     type: "battlefield",
     name: { de: "Pointe du Cap Batterie", hu: "Pointe du Cap üteg", ro: "Bateria Pointe du Cap", en: "Pointe du Cap Battery" },
-    coordinates: { lat: 14.1085, lng: -60.9412 },
+    coords: [-60.9412, 14.1085],
     description: {
       de: "Die Pointe du Cap Batterie liegt an der nördlichsten Spitze von St. Lucia. Sie diente der Überwachung des Kanals von Martinique und dem Schutz vor Invasionen aus dem Norden.",
       hu: "A Pointe du Cap-üteg Saint Lucia legészakibb csücskén található. A Martinique-csatorna megfigyelésére és az északi inváziók elleni védelemre szolgált.",
@@ -1050,7 +1050,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-babonneau-historic-district-history-v2",
     type: "landmark",
     name: { de: "Historisches Viertel Babonneau", hu: "Babonneau történelmi negyed", ro: "Districtul istoric Babonneau", en: "Babonneau Historic District" },
-    coordinates: { lat: 14.0155, lng: -60.9485 },
+    coords: [-60.9485, 14.0155],
     description: {
       de: "Babonneau ist eine geschichtsträchtige Gemeinde im Landesinneren, die für ihre starke kulturelle Identität bekannt ist. Die Gegend wurde früh von freien Siedlern kultiviert.",
       hu: "Babonneau egy történelmi belső település, amely erős kulturális identitásáról ismert. A területet korán szabad telepesek vették művelés alá.",
@@ -1069,7 +1069,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-morne-fortune-military-barracks-history-v2",
     type: "ruins",
     name: { de: "Militärbaracken Morne Fortune", hu: "Morne Fortune katonai laktanyák", ro: "Cazărmile militare Morne Fortune", en: "Morne Fortune Military Barracks" },
-    coordinates: { lat: 14.0002, lng: -61.0002 },
+    coords: [-61.0002, 14.0002],
     description: {
       de: "Diese Ruinen waren einst die Hauptunterkunft für das britische Regiment auf dem Morne Fortune Hügel. Die massiven Mauern boten Schutz gegen feindliches Feuer und Stürme.",
       hu: "Ezek a romok egykor a Morne Fortune-dombon állomásozó brit ezred főszállásai voltak. A masszív falak védelmet nyújtottak az ellenséges tűz és a viharok ellen.",
@@ -1088,7 +1088,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-errard-estate-history-v2",
     type: "landmark",
     name: { de: "Errard Anwesen", hu: "Errard birtok", ro: "Domeniul Errard", en: "Errard Estate" },
-    coordinates: { lat: 13.9182, lng: -60.9155 },
+    coords: [-60.9155, 13.9182],
     description: {
       de: "Das Errard Estate ist eine historische Plantage im Zentrum der Insel, die für ihre Kakao- und Gewürzproduktion bekannt ist. Es bewahrt den ländlichen Charme vergangener Zeiten.",
       hu: "Az Errard-birtok egy történelmi ültetvény a sziget közepén, amely kakaó- és fűszertermeléséről ismert. Megőrzi az elmúlt idők vidéki báját.",
@@ -1107,7 +1107,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-paix-bouche-war-memorial-history-v2",
     type: "monument",
     name: { de: "Kriegsdenkmal Paix Bouche", hu: "Paix Bouche háborús emlékmű", ro: "Monumentul de război din Paix Bouche", en: "Paix Bouche War Memorial" },
-    coordinates: { lat: 14.0332, lng: -60.9425 },
+    coords: [-60.9425, 14.0332],
     description: {
       de: "Dieses kleine Denkmal in der Gemeinde Paix Bouche ehrt die lokalen Männer, die in den Weltkriegen dienten. Es ist ein stiller Ort des Gedenkens in der ländlichen Region.",
       hu: "Ez a Paix Bouche-i kis emlékmű a világháborúkban szolgált helyi férfiaknak állít emléket. A vidéki régió csendes emlékhelye.",
@@ -1126,7 +1126,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-beausejour-military-history-v2",
     type: "landmark",
     name: { de: "Historisches Beausejour", hu: "Történelmi Beausejour", ro: "Beausejour istoric", en: "Historic Beausejour" },
-    coordinates: { lat: 14.0725, lng: -60.9385 },
+    coords: [-60.9385, 14.0725],
     description: {
       de: "Beausejour im Norden war ursprünglich ein großes Plantagengebiet. Während der kolonialen Konflikte diente die Gegend oft als Lagerplatz für Truppen vor Angriffen auf Pigeon Island.",
       hu: "Az északi Beausejour eredetileg egy hatalmas ültetvényterület volt. A gyarmati konfliktusok során a terület gyakran szolgált a csapatok táborhelyéül a Pigeon-sziget elleni támadások előtt.",
@@ -1145,7 +1145,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marquis-estate-chapel-history-v2",
     type: "ruins",
     name: { de: "Kapelle des Marquis Anwesens", hu: "Marquis-birtok kápolnája", ro: "Capela domeniului Marquis", en: "Marquis Estate Chapel" },
-    coordinates: { lat: 14.0452, lng: -60.9132 },
+    coords: [-60.9132, 14.0452],
     description: {
       de: "Die kleine Steinkapelle auf dem Marquis Estate diente der religiösen Versorgung der Plantagengemeinschaft. Sie ist eines der ältesten religiösen Gebäude im Norden der Insel.",
       hu: "A Marquis-birtok kis kőkápolnája az ültetvényi közösség vallási életét szolgálta. A sziget északi részének egyik legrégebbi vallási épülete.",
@@ -1164,7 +1164,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pigeon-island-military-kitchen-history-v2",
     type: "ruins",
     name: { de: "Militärküche Pigeon Island", hu: "Pigeon-szigeti katonai konyha", ro: "Bucătăria militară din Pigeon Island", en: "Pigeon Island Military Kitchen" },
-    coordinates: { lat: 14.0918, lng: -60.9638 },
+    coords: [-60.9638, 14.0918],
     description: {
       de: "Die Überreste der Militärküche auf Pigeon Island zeigen, wie hunderte Soldaten täglich versorgt wurden. Die massiven Feuerstellen sind noch heute erkennbar.",
       hu: "A Pigeon-szigeti katonai konyha maradványai bemutatják, hogyan láttak el naponta katonák százait. A masszív tűzhelyek ma is felismerhetők.",
@@ -1183,7 +1183,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-marquis-estate-slave-quarters-history-v2",
     type: "ruins",
     name: { de: "Sklavenunterkünfte Marquis Anwesen", hu: "Marquis-birtok rabszolgaszállásai", ro: "Cazărmile sclavilor de pe domeniul Marquis", en: "Marquis Estate Slave Quarters" },
-    coordinates: { lat: 14.0435, lng: -60.9142 },
+    coords: [-60.9142, 14.0435],
     description: {
       de: "Die Fundamente der Sklavenunterkünfte auf dem Marquis Estate sind ein mahnendes Zeugnis der Geschichte. Sie verdeutlichen die soziale Struktur der Plantagenwirtschaft.",
       hu: "A Marquis-birtok rabszolgaszállásainak alapjai a történelem figyelmeztető tanújelei. Megvilágítják az ültetvényes gazdálkodás társadalmi szerkezetét.",
@@ -1202,7 +1202,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-morne-fortune-signal-station-history-v2",
     type: "landmark",
     name: { de: "Signalstation Morne Fortune", hu: "Morne Fortune jelzőállomás", ro: "Stația de semnalizare Morne Fortune", en: "Morne Fortune Signal Station" },
-    coordinates: { lat: 14.0008, lng: -61.0005 },
+    coords: [-61.0005, 14.0008],
     description: {
       de: "Diese Station auf dem Gipfel des Morne Fortune diente der schnellen Kommunikation zwischen den Befestigungsanlagen. Signale wurden per Flagge oder Licht übermittelt.",
       hu: "Ez a Morne Fortune csúcsán található állomás az erődítmények közötti gyors kommunikációt szolgálta. A jeleket zászlókkal vagy fényekkel továbbították.",
@@ -1221,7 +1221,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-black-bay-amerindian-site-history-v2",
     type: "ruins",
     name: { de: "Amerindische Stätte Black Bay", hu: "Black Bay amerindián lelőhely", ro: "Situl amerindian Black Bay", en: "Black Bay Amerindian Site" },
-    coordinates: { lat: 13.7325, lng: -60.9855 },
+    coords: [-60.9855, 13.7325],
     description: {
       de: "Black Bay an der Südküste ist bekannt für bedeutende Funde aus der Arawak- und Carib-Zeit. Die Gegend war aufgrund ihrer Ressourcen ein bevorzugter Siedlungsplatz.",
       hu: "A déli parton található Black Bay az arawak és karib korszakból származó jelentős leleteiről ismert. A terület erőforrásai miatt kedvelt települési hely volt.",
@@ -1240,7 +1240,7 @@ export const saintluciaHistoryV2: POI[] = [
     id: "saintlucia-pointe-seraphine-maritime-history-v2",
     type: "port",
     name: { de: "Pointe Seraphine (Maritime Geschichte)", hu: "Pointe Seraphine (Tengerészeti történelem)", ro: "Pointe Seraphine (Istorie maritimă)", en: "Pointe Seraphine (Maritime History)" },
-    coordinates: { lat: 14.0125, lng: -60.9955 },
+    coords: [-60.9955, 14.0125],
     description: {
       de: "Pointe Seraphine war historisch ein wichtiger Anlegepunkt im Hafen von Castries. Die Gegend entwickelte sich von einem militärischen Vorposten zum modernen Seehafen.",
       hu: "Pointe Seraphine történelmileg fontos kikötőhely volt Castries kikötőjében. A terület katonai előőrsből vált modern tengeri kikötővé.",

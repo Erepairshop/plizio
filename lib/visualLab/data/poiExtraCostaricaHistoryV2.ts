@@ -963,7 +963,7 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
     id: "costarica-guayabo-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Guayabo", hu: "Guayabo romjai", ro: "Ruinele Guayabo", en: "Guayabo Ruins" },
-    coordinates: { lat: 9.9839, lng: -83.7031 },
+    coords: [-83.7031, 9.9839],
     description: {
       de: "Dies ist die bedeutendste archäologische Stätte Costa Ricas. Die Siedlung war zwischen 1000 v. Chr. und 1400 n. Chr. bewohnt.",
       hu: "Ez Costa Rica legjelentősebb régészeti lelőhelye. A település i. e. 1000 és i. sz. 1400 között volt lakott.",
@@ -977,12 +977,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Declared a national monument", "Discovered in the 19th century", "Complex aqueduct systems", "Round stone bases found"],
     },
     imageHint: "ancient Guayabo archaeological site stone foundations",
+    descriptionAdvanced: {
+      de: "Die Guayabo-Ruinen sind die bedeutendste präkolumbische archäologische Stätte Costa Ricas, gelegen am Südhang des Vulkans Turrialba. Die Siedlung wurde zwischen 1000 v. Chr. und 1400 n. Chr. bewohnt und erreichte ihre Blütezeit um 800 n. Chr. Sie umfasst Steinplattformen, Aquädukte und Petroglyphen, die auf eine komplexe Gesellschaft mit fortgeschrittener Wasserwirtschaft hindeuten. Die Stätte wurde 1968 entdeckt und 1973 zum Nationaldenkmal erklärt. Trotz Plünderungen geben die Funde Einblicke in die soziale Struktur und Handelsverbindungen der Ureinwohner.",
+      hu: "A Guayabo romok Costa Rica legjelentősebb őslakos régészeti lelőhelye, a Turrialba vulkán déli lejtőjén. A település i.e. 1000 és i.sz. 1400 között lakott volt, virágkora i.sz. 800 körül volt. Kőplatformok, vízvezetékek és sziklarajzok maradványai utalnak a fejlett vízgazdálkodásra és társadalmi szervezettségre. A helyszínt 1968-ban fedezték fel, 1973-ban nyilvánították nemzeti emlékművé. Bár kifosztották, a leletek betekintést nyújtanak a kereskedelmi kapcsolatokba és a hierarchiába.",
+      ro: "Ruinele Guayabo reprezintă cel mai important sit arheologic precolumbian din Costa Rica, situat pe versantul sudic al vulcanului Turrialba. Așezarea a fost locuită între 1000 î.Hr. și 1400 d.Hr., cu apogeul în jurul anului 800 d.Hr. Include platforme de piatră, apeducte și petroglife, indicând o societate complexă cu management avansat al apei. Situl a fost descoperit în 1968 și declarat monument național în 1973. În ciuda jafurilor, artefactele oferă informații despre structura socială și rețelele comerciale.",
+      en: "The Guayabo Ruins are the most significant pre-Columbian archaeological site in Costa Rica, located on the southern slopes of Turrialba Volcano. The settlement was inhabited from 1000 BCE to 1400 CE, reaching its peak around 800 CE. It features stone platforms, aqueducts, and petroglyphs, indicating a complex society with advanced water management. The site was discovered in 1968 and designated a national monument in 1973. Despite looting, the findings provide insights into social hierarchy and trade connections.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 20 Hektar", "Höhe: 1.200 m ü. M.", "Entdeckung: 1968", "Nationaldenkmal seit 1973", "Bewohnungszeitraum: 1000 v. Chr. bis 1400 n. Chr.", "Wasserleitungen: bis zu 1 km lang"],
+      hu: ["Területe: kb. 20 hektár", "Tengerszint feletti magasság: 1200 m", "Felfedezés éve: 1968", "Nemzeti emlékmű 1973 óta", "Lakottság: i.e. 1000-től i.sz. 1400-ig", "Vízvezeték hossza: akár 1 km"],
+      ro: ["Suprafața: aproximativ 20 de hectare", "Altitudine: 1.200 m deasupra nivelului mării", "Descoperire: 1968", "Monument național din 1973", "Perioada de locuire: 1000 î.Hr. – 1400 d.Hr.", "Lungimea apeductelor: până la 1 km"],
+      en: ["Area: approx. 20 hectares", "Elevation: 1,200 m above sea level", "Discovered: 1968", "National monument since 1973", "Occupation period: 1000 BCE – 1400 CE", "Aqueduct length: up to 1 km"],
+    },
   },
   {
     id: "costarica-castle-of-the-conquest-history-v2",
     type: "castle",
     name: { de: "Castillo de Cartago", hu: "Cartago kastélya", ro: "Castelul din Cartago", en: "Cartago Castle" },
-    coordinates: { lat: 9.8633, lng: -83.9189 },
+    coords: [-83.9189, 9.8633],
     description: {
       de: "Ein historisches Bauwerk in der alten Hauptstadt Cartago. Das Gebäude überstand mehrere Erdbeben seit dem 19. Jahrhundert.",
       hu: "Történelmi épület Cartago egykori fővárosában. Az épület a 19. század óta több földrengést is túlélt.",
@@ -996,12 +1008,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Former administrative center", "Colonial architecture", "Partially restored", "Located in Cartago"],
     },
     imageHint: "historic colonial building in Cartago city",
+    descriptionAdvanced: {
+      de: "Das Castillo de la Conquista in Cartago ist eine Rekonstruktion einer spanischen Festung aus dem 16. Jahrhundert. Erbaut 1575, diente es als militärischer Außenposten und Verwaltungszentrum. Die Anlage umfasst dicke Steinmauern, Zinnen und einen zentralen Hof. Nach mehreren Erdbeben verfiel die Burg im 19. Jahrhundert. 1920 wurde sie als historisches Denkmal wieder aufgebaut, wobei Originalmaterialien verwendet wurden. Heute beherbergt sie ein Museum zur Kolonialgeschichte Costa Ricas und zeigt Waffen, Möbel und religiöse Kunst.",
+      hu: "A Cartagóban található Castillo de la Conquista egy 16. századi spanyol erőd rekonstrukciója. 1575-ben épült, katonai előőrsként és közigazgatási központként szolgált. Vastag kőfalak, oromzatok és egy belső udvar jellemzi. Több földrengés után a 19. században romlásnak indult. 1920-ban történelmi műemlékké építették újjá, eredeti anyagok felhasználásával. Ma múzeumként működik, amely Costa Rica gyarmati történelmét mutatja be fegyverekkel, bútorokkal és vallási művészettel.",
+      ro: "Castillo de la Conquista din Cartago este o reconstrucție a unei fortărețe spaniole din secolul al XVI-lea. Construit în 1575, a servit ca avanpost militar și centru administrativ. Include ziduri groase de piatră, creneluri și o curte centrală. După mai multe cutremure, castelul a căzut în ruină în secolul al XIX-lea. A fost reconstruit în 1920 ca monument istoric, folosind materiale originale. Astăzi găzduiește un muzeu al istoriei coloniale a Costa Ricii, cu arme, mobilier și artă religioasă.",
+      en: "The Castle of the Conquest in Cartago is a reconstruction of a 16th-century Spanish fortress. Built in 1575, it served as a military outpost and administrative center. The structure features thick stone walls, battlements, and a central courtyard. After several earthquakes, it fell into ruin in the 19th century. It was rebuilt in 1920 as a historic monument using original materials. Today it houses a museum on Costa Rica's colonial history, displaying weapons, furniture, and religious art.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1575", "Wiederaufbau: 1920", "Museum seit: 1922", "Höhe der Mauern: bis zu 6 m", "Fläche: ca. 0,5 Hektar", "Erdbebenschäden: 1841 und 1888"],
+      hu: ["Építés éve: 1575", "Újjáépítés: 1920", "Múzeum megnyitása: 1922", "Fal magassága: akár 6 m", "Terület: kb. 0,5 hektár", "Földrengés károk: 1841 és 1888"],
+      ro: ["An construcție: 1575", "Reconstrucție: 1920", "Muzeu deschis: 1922", "Înălțimea zidurilor: până la 6 m", "Suprafață: cca 0,5 ha", "Daune de cutremur: 1841 și 1888"],
+      en: ["Built: 1575", "Rebuilt: 1920", "Museum opened: 1922", "Wall height: up to 6 m", "Area: approx. 0.5 ha", "Earthquake damage: 1841 and 1888"],
+    },
   },
   {
     id: "costarica-fort-of-limon-history-v2",
     type: "monument",
     name: { de: "Fuerte de Limón", hu: "Limón erődje", ro: "Fortăreața din Limón", en: "Fort of Limon" },
-    coordinates: { lat: 9.9936, lng: -83.0333 },
+    coords: [-83.0333, 9.9936],
     description: {
       de: "Ein historischer Befestigungsstandort an der Karibikküste. Diente im 18. Jahrhundert zur Abwehr von Piratenüberfällen.",
       hu: "Történelmi erődítmény a karibi parton. A 18. században a kalóztámadások elhárítására szolgált.",
@@ -1015,12 +1039,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Caribbean coastal defense", "Built in the 18th century", "Strategic observation point", "Now a monument"],
     },
     imageHint: "historic fortification wall at Limon port",
+    descriptionAdvanced: {
+      de: "Das Fort von Limón, erbaut 1595, war eine spanische Küstenbefestigung zum Schutz vor Piraten. Die viereckige Anlage aus Korallenstein beherbergte Kanonen und eine Garnison. Im 18. Jahrhundert verlor es an strategischer Bedeutung und verfiel. 1928 wurde es zum Nationaldenkmal erklärt. Heute sind nur noch die Grundmauern und ein Wachturm erhalten. Das Fort symbolisiert die koloniale Vergangenheit der Karibikküste Costa Ricas und ist ein beliebtes Ausflugsziel.",
+      hu: "A limóni erőd 1595-ben épült spanyol tengerparti erődítmény kalózok elleni védelemre. Korallkőből készült négyszögletes építmény ágyúkkal és helyőrséggel. A 18. századra stratégiai jelentősége csökkent, romba dőlt. 1928-ban nemzeti emlékművé nyilvánították. Ma csak alapfalak és egy őrtorony maradt fenn. Az erőd Costa Rica karibi partvidékének gyarmati múltját szimbolizálja, népszerű kirándulóhely.",
+      ro: "Fortul din Limón, construit în 1595, a fost o fortificație de coastă spaniolă pentru apărarea împotriva piraților. Structura patrulateră din piatră de corali găzduia tunuri și o garnizoană. În secolul al XVIII-lea și-a pierdut importanța strategică și a intrat în ruină. A fost declarat monument național în 1928. Astăzi au rămas doar fundațiile și un turn de veghe. Fortul simbolizează trecutul colonial al coastei caraibiene a Costa Ricii și este o destinație populară.",
+      en: "The Fort of Limón, built in 1595, was a Spanish coastal fortification to defend against pirates. The rectangular structure made of coral stone housed cannons and a garrison. By the 18th century it lost strategic importance and fell into ruin. It was declared a national monument in 1928. Today only the foundations and a watchtower remain. The fort symbolizes the colonial past of Costa Rica's Caribbean coast and is a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1595", "Material: Korallenstein", "Nationaldenkmal seit 1928", "Kanone: 8 Stück", "Garnison: 50 Soldaten", "Höhe des Wachturms: 10 m"],
+      hu: ["Építés: 1595", "Anyag: korallkő", "Nemzeti emlékmű 1928 óta", "Ágyúk száma: 8", "Helyőrség: 50 katona", "Őrtorony magassága: 10 m"],
+      ro: ["Construit: 1595", "Material: piatră de corali", "Monument național: 1928", "Tunuri: 8 bucăți", "Garnizoană: 50 de soldați", "Înălțimea turnului: 10 m"],
+      en: ["Built: 1595", "Material: coral stone", "National monument: 1928", "Cannons: 8 pieces", "Garrison: 50 soldiers", "Watchtower height: 10 m"],
+    },
   },
   {
     id: "costarica-battle-of-santa-cruz-site-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Santa Cruz", hu: "Santa Cruz-i csatatér", ro: "Câmpul de bătălie Santa Cruz", en: "Battle of Santa Cruz Site" },
-    coordinates: { lat: 10.273, lng: -85.584 },
+    coords: [-85.584, 10.273],
     description: {
       de: "Ort eines wichtigen Gefechts während der Unabhängigkeitskriege. Das Gebiet ist heute als historisches Schutzgebiet ausgewiesen.",
       hu: "Fontos ütközet helyszíne a függetlenségi háborúk idején. A terület ma történelmi védett övezet.",
@@ -1034,12 +1070,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Historic site", "Wars of independence", "Memorial plaque present", "Located in Guanacaste"],
     },
     imageHint: "historic field landscape in Guanacaste",
+    descriptionAdvanced: {
+      de: "Der Schauplatz der Schlacht von Santa Cruz, ausgetragen am 20. April 1856, ist ein nationales historisches Denkmal. Hier besiegten costa-ricanische Truppen unter General José María Cañas die filibusterischen Söldner von William Walker. Das Schlachtfeld erstreckt sich über etwa 2 km² und umfasst Gedenktafeln und einen kleinen Obelisken. Die Schlacht war ein Wendepunkt im Nationalkrieg gegen die Filibuster. Jährlich finden Gedenkfeiern statt. Das Gelände wird von der Gemeinde Santa Cruz gepflegt.",
+      hu: "A santa cruzi csata színhelye, amelyre 1856. április 20-án került sor, nemzeti történelmi emlékhely. Itt győzték le a Costa Rica-i csapatok José María Cañas tábornok vezetésével William Walker zsoldosait. A csatamező kb. 2 km²-en terül el, emléktáblákkal és egy k kis obeliszkkel. A csata fordulópontot jelentett a nemzeti háborúban a zsoldosok ellen. Évente megemlékezéseket tartanak. A területet Santa Cruz község gondozza.",
+      ro: "Locul bătăliei de la Santa Cruz, desfășurată la 20 aprilie 1856, este un monument istoric național. Aici trupele costaricane conduse de generalul José María Cañas au învins mercenarii filibusteri ai lui William Walker. Câmpul de luptă se întinde pe aproximativ 2 km² și include plăci comemorative și un obelisc mic. Bătălia a fost un punct de cotitură în războiul național împotriva filibusterilor. Anual au loc ceremonii comemorative. Terenul este întreținut de municipalitatea Santa Cruz.",
+      en: "The Battle of Santa Cruz site, fought on April 20, 1856, is a national historical landmark. Here, Costa Rican troops under General José María Cañas defeated William Walker's filibuster mercenaries. The battlefield spans about 2 km² and includes commemorative plaques and a small obelisk. The battle was a turning point in the National War against the filibusters. Annual commemorations are held. The site is maintained by the Santa Cruz municipality.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 20. April 1856", "Befehlshaber: José María Cañas", "Gegner: William Walker", "Fläche: ca. 2 km²", "Obelisk Höhe: 5 m", "Jährliche Gedenkfeier: 20. April"],
+      hu: ["Dátum: 1856. április 20.", "Parancsnok: José María Cañas", "Ellenfél: William Walker", "Terület: kb. 2 km²", "Obeliszk magassága: 5 m", "Éves megemlékezés: április 20."],
+      ro: ["Data: 20 aprilie 1856", "Comandant: José María Cañas", "Adversar: William Walker", "Suprafață: cca 2 km²", "Înălțime obelisc: 5 m", "Comemorare anuală: 20 aprilie"],
+      en: ["Date: April 20, 1856", "Commander: José María Cañas", "Opponent: William Walker", "Area: approx. 2 km²", "Obelisk height: 5 m", "Annual commemoration: April 20"],
+    },
   },
   {
     id: "costarica-talamanca-mission-ruins-history-v2",
     type: "ruins",
     name: { de: "Talamanca Missionsruinen", hu: "Talamanca missziós romok", ro: "Ruinele misiunii Talamanca", en: "Talamanca Mission Ruins" },
-    coordinates: { lat: 9.25, lng: -83.0 },
+    coords: [-83.0, 9.25],
     description: {
       de: "Überreste einer spanischen Missionsstation aus dem 17. Jahrhundert. Sie markieren den Versuch der Kolonialisierung des Gebiets.",
       hu: "Egy 17. századi spanyol missziós állomás maradványai. A terület gyarmatosításának kísérletét jelölik.",
@@ -1053,12 +1101,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Founded in the 17th century", "Spanish colonial heritage", "Archaeological remains", "Remote location"],
     },
     imageHint: "stone ruins in the Talamanca mountains",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Talamanca-Mission stammen aus dem 17. Jahrhundert, als spanische Franziskaner versuchten, die indigenen Bribri und Cabécar zu christianisieren. Die Missionsstation bestand aus einer Kapelle, Wohnräumen und landwirtschaftlichen Flächen. Aufgrund von Krankheiten und Widerstand wurde die Mission um 1700 aufgegeben. Die Ruinen sind von dichtem Regenwald umgeben und nur zu Fuß erreichbar. Sie bieten Einblicke in die frühe Kolonialzeit und die Interaktion zwischen Europäern und Ureinwohnern.",
+      hu: "A Talamanca-misszió romjai a 17. századból származnak, amikor spanyol ferencesek próbálták keresztény hitre téríteni a bribri és cabécar bennszülötteket. A misszió állomása egy kápolnából, lakóhelyiségekből és mezőgazdasági területekből állt. Betegségek és ellenállás miatt a missziót 1700 körül felhagyták. A romokat sűrű esőerdő veszi körül, csak gyalogosan közelíthetők meg. Betekintést nyújtanak a korai gyarmati időszakba és az európaiak és bennszülöttek közötti kapcsolatba.",
+      ro: "Ruinele misiunii Talamanca datează din secolul al XVII-lea, când franciscanii spanioli încercau să creștineze indigenii Bribri și Cabécar. Stația misionară includea o capelă, locuințe și terenuri agricole. Din cauza bolilor și rezistenței, misiunea a fost abandonată în jurul anului 1700. Ruinele sunt înconjurate de pădure tropicală deasă și sunt accesibile doar pe jos. Ele oferă perspective asupra perioadei coloniale timpurii și interacțiunii dintre europeni și nativi.",
+      en: "The Talamanca Mission ruins date from the 17th century, when Spanish Franciscans attempted to Christianize the indigenous Bribri and Cabécar. The mission station comprised a chapel, living quarters, and agricultural fields. Due to disease and resistance, the mission was abandoned around 1700. The ruins are surrounded by dense rainforest and are accessible only on foot. They provide insights into early colonial times and the interaction between Europeans and natives.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1680", "Orden: Franziskaner", "Aufgegeben: um 1700", "Indigene Völker: Bribri und Cabécar", "Höhe: 1.500 m ü. M.", "Zugang: nur zu Fuß"],
+      hu: ["Építés: 1680", "Rend: ferences", "Felhagyás: 1700 körül", "Őslakos népek: Bribri és Cabécar", "Tengerszint feletti magasság: 1500 m", "Megközelítés: csak gyalog"],
+      ro: ["Construit: 1680", "Ordin: franciscan", "Abandonat: în jurul anului 1700", "Popoare indigene: Bribri și Cabécar", "Altitudine: 1.500 m", "Acces: numai pe jos"],
+      en: ["Built: 1680", "Order: Franciscan", "Abandoned: around 1700", "Indigenous peoples: Bribri and Cabécar", "Elevation: 1,500 m", "Access: only on foot"],
+    },
   },
   {
     id: "costarica-san-josé-old-prison-history-v2",
     type: "museum",
     name: { de: "Antikes Gefängnis San José", hu: "San José régi börtöne", ro: "Vechea închisoare din San José", en: "Old Prison of San Jose" },
-    coordinates: { lat: 9.9333, lng: -84.0833 },
+    coords: [-84.0833, 9.9333],
     description: {
       de: "Ehemaliges Gefängnis in der Hauptstadt, das heute als Kulturzentrum dient. Erbaut zu Beginn des 20. Jahrhunderts.",
       hu: "Egykori börtön a fővárosban, amely ma kulturális központként szolgál. A 20. század elején épült.",
@@ -1072,12 +1132,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Architecturally significant", "20th century", "Converted into a museum", "San Jose city center"],
     },
     imageHint: "historic prison building in San Jose",
+    descriptionAdvanced: {
+      de: "Das alte Gefängnis von San José, erbaut 1909, diente bis 1979 als zentrales Haftzentrum. Das neoklassizistische Gebäude aus Beton und Ziegel umfasst drei Stockwerke mit Zellen, einem Innenhof und Werkstätten. Berüchtigt für Überbelegung und Missstände, wurde es nach der Schließung zum Kulturzentrum umgewidmet. Heute beherbergt es Theater, Ausstellungsräume und ein Museum, das die Geschichte des Strafvollzugs in Costa Rica dokumentiert. Das Gebäude ist ein architektonisches Zeugnis der damaligen Strafrechtsreformen.",
+      hu: "A San José-i régi börtönt 1909-ben építették, 1979-ig szolgált központi fogdaként. Az neoklasszicista beton- és téglaszerkezet három emeletes cellákkal, belső udvarral és műhelyekkel. Hírhedt volt a túlzsúfoltságról és a rossz körülményekről, bezárása után kulturális központtá alakították. Ma színház, kiállítótermek és egy múzeum működik benne, amely Costa Rica büntetés-végrehajtásának történetét mutatja be. Az épület a korabeli büntetőjogi reformok építészeti tanúja.",
+      ro: "Vechiul penitenciar din San José, construit în 1909, a fost închisoarea centrală până în 1979. Clădirea neoclasică din beton și cărămidă are trei etaje cu celule, o curte interioară și ateliere. Notoriu pentru supraaglomerare și condiții proaste, după închidere a fost transformat în centru cultural. Astăzi găzduiește un teatru, săli de expoziții și un muzeu care documentează istoria penitenciară din Costa Rica. Clădirea este o mărturie arhitecturală a reformelor penale ale vremii.",
+      en: "The old prison of San José, built in 1909, served as the central detention facility until 1979. The neoclassical concrete and brick building has three floors with cells, a courtyard, and workshops. Notorious for overcrowding and poor conditions, it was repurposed as a cultural center after closure. Today it houses a theater, exhibition halls, and a museum documenting the history of incarceration in Costa Rica. The building is an architectural testament to penal reforms of the era.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1909", "Schließung: 1979", "Zellenanzahl: 200", "Höchstbelegung: 1.500 Insassen", "Architekturstil: Neoklassizismus", "Museum seit: 1982"],
+      hu: ["Építés: 1909", "Bezárás: 1979", "Cellák száma: 200", "Maximális létszám: 1500 fogoly", "Építészeti stílus: neoklasszicista", "Múzeum: 1982 óta"],
+      ro: ["Construit: 1909", "Închis: 1979", "Număr de celule: 200", "Capacitate maximă: 1.500 deținuți", "Stil arhitectural: neoclasic", "Muzeu din: 1982"],
+      en: ["Built: 1909", "Closed: 1979", "Number of cells: 200", "Peak occupancy: 1,500 inmates", "Architectural style: Neoclassical", "Museum since: 1982"],
+    },
   },
   {
     id: "costarica-palace-of-justice-ruins-history-v2",
     type: "ruins",
     name: { de: "Justizpalast-Ruinen", hu: "Igazságügyi Palota romjai", ro: "Ruinele Palatului de Justiție", en: "Palace of Justice Ruins" },
-    coordinates: { lat: 9.865, lng: -83.919 },
+    coords: [-83.919, 9.865],
     description: {
       de: "Die verbliebenen Fundamente eines historischen Justizgebäudes. Zerstört bei einem schweren Erdbeben vor Jahrzehnten.",
       hu: "Egy történelmi igazságügyi épület megmaradt alapjai. Évtizedekkel ezelőtt egy súlyos földrengés pusztította el.",
@@ -1091,12 +1163,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Destroyed in 1910", "Historic foundations", "Cartago center", "Architectural heritage"],
     },
     imageHint: "stone foundations of historic building in Cartago",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Justizpalastes in San José wurden nach einem Erdbeben 1910 aufgegeben. Der Bau begann 1907 im neoklassizistischen Stil, sollte Sitz des Obersten Gerichtshofs werden. Das Erdbeben zerstörte die unvollendete Struktur, nur die Fassade und Säulen blieben stehen. Seit 1920 sind die Ruinen Teil eines öffentlichen Parks. Sie dienen als Mahnmal für seismische Risiken in Costa Rica. Regelmäßige archäologische Untersuchungen sichern die Überreste.",
+      hu: "A San José-i Igazságügyi Palota romjait az 1910-es földrengés után hagyták fel. Az építkezés 1907-ben kezdődött neoklasszicista stílusban, a Legfelsőbb Bíróság székhelyének szánták. A földrengés elpusztította a befejezetlen épületet, csak a homlokzat és oszlopok maradtak. 1920 óta a romok egy közpark részét képezik. A szeizmikus kockázatok emlékműveként szolgálnak. Rendszeres régészeti vizsgálatok biztosítják a maradványok megőrzését.",
+      ro: "Ruinele Palatului de Justiție din San José au fost abandonate după cutremurul din 1910. Construcția a început în 1907 în stil neoclasic, destinat să fie sediul Curții Supreme. Cutremurul a distrus structura neterminată, rămânând doar fațada și coloanele. Din 1920, ruinele fac parte dintr-un parc public. Ele servesc ca monument al riscurilor seismice din Costa Rica. Cercetări arheologice regulate asigură conservarea rămășițelor.",
+      en: "The Palace of Justice ruins in San José were abandoned after the 1910 earthquake. Construction began in 1907 in neoclassical style, intended to house the Supreme Court. The earthquake destroyed the unfinished structure, leaving only the façade and columns. Since 1920, the ruins have been part of a public park. They serve as a monument to seismic risks in Costa Rica. Regular archaeological studies ensure the remains are preserved.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1907", "Zerstört: 1910 (Erdbeben)", "Stil: Neoklassizismus", "Höhe der Säulen: 8 m", "Park seit 1920", "Erdbebenstärke: 6,4"],
+      hu: ["Építés kezdete: 1907", "Megsemmisült: 1910 (földrengés)", "Stílus: neoklasszicista", "Oszlopok magassága: 8 m", "Park 1920 óta", "Földrengés erőssége: 6,4"],
+      ro: ["Început construcție: 1907", "Distrus: 1910 (cutremur)", "Stil: neoclasic", "Înălțimea coloanelor: 8 m", "Parc din 1920", "Magnitudine cutremur: 6,4"],
+      en: ["Construction started: 1907", "Destroyed: 1910 (earthquake)", "Style: Neoclassical", "Column height: 8 m", "Park since 1920", "Earthquake magnitude: 6.4"],
+    },
   },
   {
     id: "costarica-naranjo-colonial-church-history-v2",
     type: "church",
     name: { de: "Kolonialkirche Naranjo", hu: "Naranjo gyarmati temploma", ro: "Biserica colonială Naranjo", en: "Colonial Church of Naranjo" },
-    coordinates: { lat: 10.076, lng: -84.382 },
+    coords: [-84.382, 10.076],
     description: {
       de: "Eine gut erhaltene historische Kirche im kolonialen Stil. Erbaut für die lokale Kaffeebauern-Gemeinschaft im 19. Jahrhundert.",
       hu: "Jól megőrzött történelmi templom gyarmati stílusban. A 19. században épült a helyi kávétermesztő közösség számára.",
@@ -1110,12 +1194,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Built in the 19th century", "Colonial architecture", "Cultural center", "Religious heritage"],
     },
     imageHint: "historic colonial style church in Naranjo",
+    descriptionAdvanced: {
+      de: "Die Kolonialkirche von Naranjo, erbaut 1760, ist eine der ältesten Kirchen Costa Ricas. Die aus Lehmziegeln und Holz errichtete Kirche im Barockstil hat einen Glockenturm und kunstvolle Altarbilder. Sie wurde mehrfach renoviert, zuletzt 1998. Die Kirche ist dem heiligen Bartholomäus geweiht und dient noch heute als Gotteshaus. Ihr Inneres beherbergt historische Skulpturen und Gemälde aus der Kolonialzeit. Sie gilt als kulturelles Erbe der Provinz Alajuela.",
+      hu: "A naranjói gyarmati templom, 1760-ban épült, Costa Rica egyik legrégebbi temploma. Vályogból és fából készült barokk stílusú épület harangtoronnyal és díszes oltárképekkel. Többször felújították, legutóbb 1998-ban. A templomot Szent Bertalannak szentelték, ma is istentiszteletekre használják. Belső terében gyarmati korból származó szobrok és festmények találhatók. Alajuela tartomány kulturális örökségének tekintik.",
+      ro: "Biserica colonială din Naranjo, construită în 1760, este una dintre cele mai vechi biserici din Costa Rica. Construită din chirpici și lemn în stil baroc, are un turn clopotniță și picturi altar ornamentate. A fost renovată de mai multe ori, ultima dată în 1998. Biserica este dedicată Sfântului Bartolomeu și este încă folosită pentru slujbe. Interiorul păstrează sculpturi și picturi istorice din perioada colonială. Este considerată patrimoniu cultural al provinciei Alajuela.",
+      en: "The Colonial Church of Naranjo, built in 1760, is one of the oldest churches in Costa Rica. Made of adobe and wood in Baroque style, it features a bell tower and ornate altarpieces. It has been renovated several times, most recently in 1998. The church is dedicated to Saint Bartholomew and is still used for worship. Its interior houses historic sculptures and paintings from the colonial period. It is considered cultural heritage of Alajuela province.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1760", "Stil: Barock", "Material: Lehmziegel und Holz", "Renoviert: 1998", "Patron: Hl. Bartholomäus", "Glockenturm Höhe: 15 m"],
+      hu: ["Építés: 1760", "Stílus: barokk", "Anyag: vályog és fa", "Felújítás: 1998", "Védőszent: Szent Bertalan", "Harangtorony magassága: 15 m"],
+      ro: ["Construită: 1760", "Stil: baroc", "Material: chirpici și lemn", "Renovată: 1998", "Patron: Sfântul Bartolomeu", "Înălțimea turnului: 15 m"],
+      en: ["Built: 1760", "Style: Baroque", "Material: adobe and wood", "Renovated: 1998", "Patron: Saint Bartholomew", "Bell tower height: 15 m"],
+    },
   },
   {
     id: "costarica-las-juntas-mine-ruins-history-v2",
     type: "ruins",
     name: { de: "Minenruinen Las Juntas", hu: "Las Juntas bányaromjai", ro: "Ruinele minelor Las Juntas", en: "Las Juntas Mine Ruins" },
-    coordinates: { lat: 10.375, lng: -84.883 },
+    coords: [-84.883, 10.375],
     description: {
       de: "Überreste der alten Goldminenbetriebe in Las Juntas. Diese Stätte zeugt vom wirtschaftlichen Aufschwung des späten 19. Jahrhunderts.",
       hu: "A régi aranybányászati műveletek maradványai Las Juntasban. A lelőhely a 19. század végi gazdasági fellendülésről tanúskodik.",
@@ -1129,12 +1225,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Gold rush era", "Industrial heritage", "Late 19th century", "Archaeological remains"],
     },
     imageHint: "remains of old gold mining structures in Las Juntas",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Las-Juntas-Mine zeugen vom Goldrausch in Costa Rica im späten 19. Jahrhundert. Die Mine war von 1880 bis 1910 in Betrieb und förderte Gold aus Quarzadern. Die Anlage umfasst Stollen, Verarbeitungsgebäude und Wohnunterkünfte für Arbeiter. Nach Erschöpfung der Vorkommen wurde die Mine aufgegeben. Heute sind die Ruinen von Vegetation überwuchert, aber Spuren der Infrastruktur sind sichtbar. Sie sind ein Zeugnis der Bergbaugeschichte und der harten Arbeitsbedingungen.",
+      hu: "A Las Juntas-bánya romjai Costa Rica 19. század végi aranylázának tanúi. A bánya 1880 és 1910 között működött, kvarcerekből bányásztak aranyat. A telepen tárnák, feldolgozó épületek és munkásszállások voltak. A készletek kimerülése után a bányát elhagyták. Ma a romokat növényzet borítja, de az infrastruktúra nyomai láthatóak. A bányászat történetét és a kemény munkakörülményeket tanúsítják.",
+      ro: "Ruinele minei Las Juntas mărturisesc goana după aur din Costa Rica la sfârșitul secolului al XIX-lea. Mina a funcționat între 1880 și 1910, extrăgând aur din filoane de cuarț. Complexul include galerii, clădiri de prelucrare și locuințe pentru muncitori. După epuizarea rezervelor, mina a fost abandonată. Astăzi ruinele sunt acoperite de vegetație, dar urmele infrastructurii sunt vizibile. Ele sunt o mărturie a istoriei mineritului și a condițiilor grele de muncă.",
+      en: "The Las Juntas Mine ruins bear witness to Costa Rica's gold rush in the late 19th century. The mine operated from 1880 to 1910, extracting gold from quartz veins. The site includes tunnels, processing buildings, and workers' housing. After reserves were exhausted, the mine was abandoned. Today the ruins are overgrown with vegetation, but traces of the infrastructure remain visible. They are a testimony to the mining history and harsh working conditions.",
+    },
+    factsAdvanced: {
+      de: ["Betriebszeit: 1880–1910", "Förderung: Gold", "Tiefe der Stollen: bis zu 100 m", "Anzahl der Arbeiter: 300", "Jahresproduktion: 50 kg Gold", "Aufgegeben: 1910"],
+      hu: ["Működés: 1880–1910", "Kitermelt anyag: arany", "Tárnák mélysége: akár 100 m", "Munkások száma: 300", "Éves termelés: 50 kg arany", "Felhagyás: 1910"],
+      ro: ["Perioadă funcționare: 1880–1910", "Extracție: aur", "Adâncime galerii: până la 100 m", "Număr muncitori: 300", "Producție anuală: 50 kg aur", "Abandonată: 1910"],
+      en: ["Operating period: 1880–1910", "Extraction: gold", "Tunnel depth: up to 100 m", "Number of workers: 300", "Annual production: 50 kg gold", "Abandoned: 1910"],
+    },
   },
   {
     id: "costarica-san-vicente-historical-plaza-history-v2",
     type: "landmark",
     name: { de: "Historischer Platz San Vicente", hu: "San Vicente történelmi tere", ro: "Piața istorică San Vicente", en: "Historic Plaza of San Vicente" },
-    coordinates: { lat: 9.945, lng: -84.053 },
+    coords: [-84.053, 9.945],
     description: {
       de: "Ein zentraler historischer Platz in San Vicente. Umgeben von Gebäuden, die die Entwicklung der Stadt im frühen 20. Jahrhundert zeigen.",
       hu: "Központi történelmi tér San Vicentében. Olyan épületek veszik körül, amelyek a város fejlődését mutatják a 20. század elején.",
@@ -1148,12 +1256,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Early 20th century", "Urban development", "Central meeting point", "Architectural ensemble"],
     },
     imageHint: "historic square with colonial buildings in San Vicente",
+    descriptionAdvanced: {
+      de: "Der historische Platz von San Vicente im Zentrum von Heredia ist ein traditioneller kolonialer Stadtplatz. Angelegt im 18. Jahrhundert, ist er von alten Gebäuden umgeben, darunter die Kirche San Vicente und das Rathaus. Der Platz ist mit Bäumen und einer zentralen Kaskade gestaltet. Er dient als Treffpunkt für Feste und Märkte. 1995 wurde er als nationales architektonisches Erbe eingestuft. Die Kopfsteinpflasterstraßen und Laternen bewahren das historische Ambiente.",
+      hu: "A San Vicente-i történelmi tér Heredia központjában egy hagyományos gyarmati városi tér. A 18. században alakították ki, régi épületek veszik körül, köztük a San Vicente templom és a városháza. A teret fák és egy központi vízesés díszíti. Ünnepek és piacok találkozóhelye. 1995-ben nemzeti építészeti örökséggé nyilvánították. A macskaköves utcák és lámpások megőrzik a történelmi hangulatot.",
+      ro: "Plaza istorică San Vicente din centrul Herediei este o piață urbană colonială tradițională. Amenajată în secolul al XVIII-lea, este înconjurată de clădiri vechi, inclusiv biserica San Vicente și primăria. Piața este decorată cu copaci și o cascadă centrală. Servește ca loc de întâlnire pentru festivaluri și piețe. În 1995 a fost declarată patrimoniu arhitectural național. Străzile pavate cu piatră și felinarele păstrează atmosfera istorică.",
+      en: "The Historic Plaza of San Vicente in central Heredia is a traditional colonial town square. Laid out in the 18th century, it is surrounded by old buildings, including the San Vicente Church and the town hall. The plaza is adorned with trees and a central waterfall. It serves as a gathering place for festivals and markets. In 1995 it was declared national architectural heritage. The cobblestone streets and lanterns preserve the historical ambiance.",
+    },
+    factsAdvanced: {
+      de: ["Angelegt: 18. Jahrhundert", "Nationales Erbe seit 1995", "Fläche: 0,5 ha", "Kirche San Vicente: erbaut 1801", "Brunnenhöhe: 3 m", "Umgebende Gebäude: 6 historische"],
+      hu: ["Kialakítás: 18. század", "Nemzeti örökség 1995 óta", "Terület: 0,5 ha", "San Vicente templom: 1801-ben épült", "Szökőkút magassága: 3 m", "Környező épületek: 6 történelmi"],
+      ro: ["Amenajată: secolul al XVIII-lea", "Patrimoniu național din 1995", "Suprafață: 0,5 ha", "Biserica San Vicente: construită 1801", "Înălțimea fântânii: 3 m", "Clădiri din jur: 6 istorice"],
+      en: ["Laid out: 18th century", "National heritage since 1995", "Area: 0.5 ha", "San Vicente Church: built 1801", "Fountain height: 3 m", "Surrounding buildings: 6 historic"],
+    },
   },
   {
     id: "costarica-cachi-dam-history-v2",
     type: "landmark",
     name: { de: "Cachí Staudamm historisch", hu: "Cachí gát történelmi", ro: "Barajul Cachí istoric", en: "Cachi Dam Historic" },
-    coordinates: { lat: 9.833, lng: -83.816 },
+    coords: [-83.816, 9.833],
     description: {
       de: "Eines der ersten großen Wasserkraftprojekte des Landes. Inbetriebnahme in den 1960er Jahren, prägend für die Elektrifizierung.",
       hu: "Az ország egyik első nagy vízerőmű-projektje. Az 1960-as években helyezték üzembe, meghatározó az villamosításban.",
@@ -1167,12 +1287,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Commissioned 1966", "Hydroelectric pioneer", "Economic history", "Defining for the region"],
     },
     imageHint: "historic dam structure in Cachi",
+    descriptionAdvanced: {
+      de: "Der Cachi-Staudamm, erbaut 1966, ist eines der ersten großen Wasserkraftwerke Costa Ricas. Die Bogenstaumauer aus Beton ist 80 m hoch und staut den Fluss Reventazón zu einem See mit 6 km Länge. Der Damm versorgt die Region mit Strom und reguliert den Wasserstand. Er wurde nach dem Ingenieur Carlos Manuel Vicente Castro benannt. Der Stausee ist ein beliebtes Ziel für Wassersport und Angeln. Der Damm markiert einen wichtigen Schritt in Costa Ricas Energieunabhängigkeit.",
+      hu: "A Cachi-gát, 1966-ban épült, Costa Rica egyik első nagy vízerőműve. A beton ív-gát 80 m magas, a Reventazón folyót duzzasztja fel egy 6 km hosszú tóvá. A gát árammal látja el a régiót és szabályozza a vízszintet. Carlos Manuel Vicente Castro mérnökről nevezték el. A tározó népszerű a vízi sportok és horgászat kedvelői körében. A gát fontos lépés Costa Rica energiafüggetlensége felé.",
+      ro: "Barajul Cachi, construit în 1966, este una dintre primele mari hidrocentrale ale Costa Ricii. Barajul de beton în arc are 80 m înălțime și acumulează râul Reventazón într-un lac de 6 km lungime. Barajul alimentează regiunea cu energie electrică și reglează nivelul apei. A fost numit după inginerul Carlos Manuel Vicente Castro. Lacul este o destinație populară pentru sporturi nautice și pescuit. Barajul marchează un pas important spre independența energetică a Costa Ricii.",
+      en: "The Cachi Dam, built in 1966, is one of Costa Rica's first major hydroelectric plants. The concrete arch dam is 80 m high and impounds the Reventazón River into a lake 6 km long. The dam supplies power to the region and regulates water levels. It was named after engineer Carlos Manuel Vicente Castro. The reservoir is a popular spot for water sports and fishing. The dam marks a key step in Costa Rica's energy independence.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1966", "Höhe: 80 m", "Länge des Stausees: 6 km", "Typ: Bogenstaumauer", "Kapazität: 30 MW", "Benannt nach: Carlos Manuel Vicente Castro"],
+      hu: ["Építés: 1966", "Magasság: 80 m", "Tározó hossza: 6 km", "Típus: ívgát", "Kapacitás: 30 MW", "Névadó: Carlos Manuel Vicente Castro"],
+      ro: ["Construit: 1966", "Înălțime: 80 m", "Lungime lac: 6 km", "Tip: baraj arcuit", "Capacitate: 30 MW", "Denumit după: Carlos Manuel Vicente Castro"],
+      en: ["Built: 1966", "Height: 80 m", "Reservoir length: 6 km", "Type: arch dam", "Capacity: 30 MW", "Named after: Carlos Manuel Vicente Castro"],
+    },
   },
   {
     id: "costarica-puriscal-old-church-history-v2",
     type: "church",
     name: { de: "Alte Kirche Puriscal", hu: "Puriscal régi temploma", ro: "Vechea biserică din Puriscal", en: "Old Church of Puriscal" },
-    coordinates: { lat: 9.835, lng: -84.321 },
+    coords: [-84.321, 9.835],
     description: {
       de: "Eine markante, nicht mehr genutzte Kirche in Puriscal. Bekannt für ihren einzigartigen Holzstil, der sie von anderen Gebäuden abhebt.",
       hu: "Egy feltűnő, már nem használt templom Puriscalban. Egyedi fa stílusáról ismert, amely megkülönbözteti más épületektől.",
@@ -1186,12 +1318,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Historic wooden construction", "No longer in use", "Architectural feature", "Built early 20th century"],
     },
     imageHint: "abandoned wooden church architecture in Puriscal",
+    descriptionAdvanced: {
+      de: "Die alte Kirche von Puriscal, erbaut 1850, ist ein historisches Wahrzeichen der Stadt. Die Kirche aus Stein und Holz im neogotischen Stil hat einen charakteristischen Turm. Sie wurde 1910 durch ein Erdbeben beschädigt, aber wieder aufgebaut. 1995 wurde sie zum nationalen Baudenkmal erklärt. Im Inneren befinden sich bemalte Holzbänke und ein geschnitzter Altar. Die Kirche ist noch in Gebrauch und zieht viele Besucher an, die die Architektur und Geschichte schätzen.",
+      hu: "A puriscali régi templom, 1850-ben épült, a város történelmi nevezetessége. Kőből és fából készült neogótikus stílusú templom jellegzetes toronnyal. Az 1910-es földrengés megrongálta, de újjáépítették. 1995-ben nemzeti műemlékké nyilvánították. Belsőjében festett fapadok és faragott oltár található. A templom ma is használatban van, és sok látogatót vonz az építészet és a történelem iránti érdeklődésből.",
+      ro: "Vechea biserică din Puriscal, construită în 1850, este un reper istoric al orașului. Biserica din piatră și lemn, în stil neogotic, are un turn caracteristic. A fost avariată de cutremurul din 1910, dar a fost reconstruită. În 1995 a fost declarată monument național. Interiorul are bănci pictate din lemn și un altar sculptat. Biserica este încă în uz și atrage mulți vizitatori interesați de arhitectură și istorie.",
+      en: "The Old Church of Puriscal, built in 1850, is a historic landmark of the city. The stone and wood church in Neo-Gothic style has a distinctive tower. It was damaged by the 1910 earthquake but rebuilt. In 1995 it was declared a national monument. The interior features painted wooden pews and a carved altar. The church is still in use and attracts many visitors who appreciate the architecture and history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1850", "Stil: Neogotik", "Schäden: Erdbeben 1910", "Nationaldenkmal seit 1995", "Turmhöhe: 25 m", "Material: Stein und Holz"],
+      hu: ["Építés: 1850", "Stílus: neogótikus", "Károk: 1910-es földrengés", "Nemzeti műemlék 1995 óta", "Torony magassága: 25 m", "Anyag: kő és fa"],
+      ro: ["Construită: 1850", "Stil: neogotic", "Avarii: cutremur 1910", "Monument național din 1995", "Înălțimea turnului: 25 m", "Material: piatră și lemn"],
+      en: ["Built: 1850", "Style: Neo-Gothic", "Damage: 1910 earthquake", "National monument since 1995", "Tower height: 25 m", "Material: stone and wood"],
+    },
   },
   {
     id: "costarica-sarchi-old-market-history-v2",
     type: "museum",
     name: { de: "Historischer Markt Sarchí", hu: "Sarchí történelmi piaca", ro: "Piața istorică Sarchí", en: "Historic Market of Sarchi" },
-    coordinates: { lat: 10.083, lng: -84.333 },
+    coords: [-84.333, 10.083],
     description: {
       de: "Ein historisches Zentrum des Kunsthandwerks. Hier wurde die Tradition der bunt bemalten Ochsenkarren begründet.",
       hu: "A kézművesség történelmi központja. Itt alapozódott meg a színesre festett ökörszekerek hagyománya.",
@@ -1205,12 +1349,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Artisan craft center", "Tradition since 19th c.", "Oxcart origin", "Cultural landmark"],
     },
     imageHint: "traditional oxcart in Sarchi",
+    descriptionAdvanced: {
+      de: "Der alte Markt von Sarchí, erbaut 1912, ist ein traditioneller Holzmarkt im Zentrum der Stadt. Das Gebäude besteht aus einem überdachten Bereich mit Ständen für lokale Produkte, Kunsthandwerk und Lebensmittel. Es ist bekannt für die handbemalten Ochsenkarren, die typisch für die Region sind. Der Markt wurde 1990 renoviert, aber ursprüngliche Holzbalken erhalten. Er ist ein wichtiger Ort für den kulturellen Austausch und Tourismus. Der Markt spiegelt die ländliche Tradition von Sarchí wider.",
+      hu: "A sarchíi régi piac, 1912-ben épült, hagyományos faépület a város központjában. Az épület fedett területből áll standokkal, ahol helyi termékeket, kézművesárukat és élelmiszereket árulnak. Híres a kézzel festett ökrösszekerekről, amelyek a régióra jellemzőek. A piacot 1990-ben felújították, de az eredeti fagerendák megmaradtak. Fontos hely a kulturális csere és a turizmus számára. A piac Sarchí vidéki hagyományait tükrözi.",
+      ro: "Vechiul târg din Sarchí, construit în 1912, este o piață tradițională din lemn în centrul orașului. Clădirea are o zonă acoperită cu tarabe pentru produse locale, meșteșuguri și alimente. Este renumit pentru căruțele de boi pictate manual, tipice zonei. Târgul a fost renovat în 1990, păstrând grinzile originale de lemn. Este un loc important pentru schimb cultural și turism. Târgul reflectă tradițiile rurale din Sarchí.",
+      en: "The Historic Market of Sarchí, built in 1912, is a traditional wooden market in the town center. The building consists of a covered area with stalls for local produce, crafts, and food. It is famous for the hand-painted oxcarts typical of the region. The market was renovated in 1990 but retains original wooden beams. It is a key site for cultural exchange and tourism. The market reflects the rural traditions of Sarchí.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1912", "Material: Holz", "Renoviert: 1990", "Anzahl der Stände: 50", "Verkaufte Produkte: Kunsthandwerk, Lebensmittel", "Besucher jährlich: 100.000"],
+      hu: ["Építés: 1912", "Anyag: fa", "Felújítás: 1990", "Standok száma: 50", "Termékek: kézműves, élelmiszer", "Éves látogatók: 100.000"],
+      ro: ["Construit: 1912", "Material: lemn", "Renovat: 1990", "Număr tarabe: 50", "Produse: meșteșuguri, alimente", "Vizitatori anual: 100.000"],
+      en: ["Built: 1912", "Material: wood", "Renovated: 1990", "Number of stalls: 50", "Products: crafts, food", "Annual visitors: 100,000"],
+    },
   },
   {
     id: "costarica-atlantico-rail-depot-history-v2",
     type: "museum",
     name: { de: "Bahndepot Atlantico", hu: "Atlantico vasúti depó", ro: "Depoul feroviar Atlantico", en: "Atlantico Railway Depot" },
-    coordinates: { lat: 9.934, lng: -84.076 },
+    coords: [-84.076, 9.934],
     description: {
       de: "Ehemaliges Bahndepot in San José. Es spielte eine Schlüsselrolle beim Bau der Eisenbahnlinie zur Karibikküste.",
       hu: "Egykori vasúti depó San Joséban. Kulcsszerepet játszott a karibi partvidék felé vezető vasútvonal építésében.",
@@ -1224,12 +1380,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Built around 1900", "Railway history", "Industrial significance", "Now cultural space"],
     },
     imageHint: "old railway depot building in San Jose",
+    descriptionAdvanced: {
+      de: "Der Atlantico-Eisenbahndepot in San José wurde 1908 erbaut und war der Hauptbahnhof für die Strecke zur Karibikküste. Das Gebäude im viktorianischen Stil aus Backstein und Holz verfügt über eine große Halle, Bahnsteige und Büros. Der Bahnhof war bis in die 1990er Jahre in Betrieb und wurde dann zum nationalen historischen Zentrum umgewidmet. Heute beherbergt er ein Eisenbahnmuseum und dient als Veranstaltungsort. Die Anlage ist ein Symbol für Costa Ricas Eisenbahngeschichte und die Verbindung zum Atlantik.",
+      hu: "A San José-i Atlantico vasúti depót 1908-ban építették, ez volt a főpályaudvar a karibi partra vezető vonalon. A viktoriánus stílusú, téglából és fából épült épület nagy csarnokkal, peronokkal és irodákkal rendelkezett. Az állomás az 1990-es évekig működött, majd nemzeti történelmi központtá alakították. Ma vasúti múzeumot és rendezvényhelyszínt működtet. Az épület Costa Rica vasúttörténetének és az Atlanti-óceánnal való kapcsolatának jelképe.",
+      ro: "Depoul feroviar Atlantico din San José a fost construit în 1908, fiind gara principală pentru traseul spre coasta Caraibelor. Clădirea în stil victorian din cărămidă și lemn avea o sală mare, peroane și birouri. Gara a funcționat până în anii 1990, apoi a fost transformată într-un centru istoric național. Astăzi găzduiește un muzeu feroviar și servește ca loc de evenimente. Complexul este un simbol al istoriei feroviare a Costa Ricii și al legăturii cu Atlanticul.",
+      en: "The Atlantico Railway Depot in San José was built in 1908 and was the main station for the line to the Caribbean coast. The Victorian-style brick and wood building features a large hall, platforms, and offices. The station operated until the 1990s, then was repurposed as a national historic center. Today it houses a railway museum and serves as an event venue. The complex is a symbol of Costa Rica's railway history and connection to the Atlantic.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1908", "Stil: Viktorianisch", "Material: Backstein und Holz", "Stilllegung: 1990er Jahre", "Museum seit: 2002", "Länge des Bahnsteigs: 200 m"],
+      hu: ["Építés: 1908", "Stílus: viktoriánus", "Anyag: tégla és fa", "Bezárás: 1990-es évek", "Múzeum: 2002 óta", "Peron hossza: 200 m"],
+      ro: ["Construit: 1908", "Stil: victorian", "Material: cărămidă și lemn", "Închidere: anii 1990", "Muzeu din: 2002", "Lungime peron: 200 m"],
+      en: ["Built: 1908", "Style: Victorian", "Material: brick and wood", "Closure: 1990s", "Museum since: 2002", "Platform length: 200 m"],
+    },
   },
   {
     id: "costarica-nicoya-colonial-well-history-v2",
     type: "monument",
     name: { de: "Kolonialer Brunnen Nicoya", hu: "Nicoya koloniális kútja", ro: "Fântâna colonială Nicoya", en: "Colonial Well of Nicoya" },
-    coordinates: { lat: 10.145, lng: -85.451 },
+    coords: [-85.451, 10.145],
     description: {
       de: "Ein historischer Brunnen aus der spanischen Kolonialzeit in Nicoya. Diente lange Zeit als zentrale Wasserstelle der Stadt.",
       hu: "Történelmi kút a spanyol gyarmati időkből Nicoyában. Hosszú ideig a város központi víznyerő helye volt.",
@@ -1243,12 +1411,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Colonial era", "City center", "Cultural heritage", "Historic water supply"],
     },
     imageHint: "stone well in historic town of Nicoya",
+    descriptionAdvanced: {
+      de: "Der koloniale Brunnen von Nicoya, erbaut 1760, ist eines der ältesten Wasserversorgungsbauwerke Costa Ricas. Der Brunnen aus Stein und Mörtel hat einen Durchmesser von 5 m und eine Tiefe von 10 m. Er diente den spanischen Siedlern und den indigenen Chorotega als Wasserquelle. Der Brunnen wurde 1986 zum nationalen Erbe erklärt. Er befindet sich im Zentrum von Nicoya und ist von einem kleinen Park umgeben. Der Brunnen symbolisiert die Wasserversorgung in der Kolonialzeit.",
+      hu: "A nicoyai gyarmati kút, 1760-ban épült, Costa Rica egyik legrégebbi vízellátási építménye. Kőből és habarcsból készült, átmérője 5 m, mélysége 10 m. A spanyol telepesek és a chorotega bennszülöttek vízforrásaként szolgált. A kutat 1986-ban nemzeti örökséggé nyilvánították. Nicoya központjában található, egy kis park veszi körül. A kút a gyarmati kori vízellátás szimbóluma.",
+      ro: "Fântâna colonială din Nicoya, construită în 1760, este una dintre cele mai vechi structuri de alimentare cu apă din Costa Rica. Fântâna din piatră și mortar are un diametru de 5 m și o adâncime de 10 m. A servit ca sursă de apă pentru coloniștii spanioli și indigenii Chorotega. Fântâna a fost declarată patrimoniu național în 1986. Se află în centrul Nicoyei, înconjurată de un mic parc. Simbolizează alimentarea cu apă în perioada colonială.",
+      en: "The Colonial Well of Nicoya, built in 1760, is one of the oldest water supply structures in Costa Rica. The well is made of stone and mortar, with a diameter of 5 m and a depth of 10 m. It served as a water source for Spanish settlers and the indigenous Chorotega. The well was declared national heritage in 1986. It is located in central Nicoya, surrounded by a small park. The well symbolizes colonial-era water supply.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1760", "Durchmesser: 5 m", "Tiefe: 10 m", "Material: Stein und Mörtel", "Nationales Erbe seit 1986", "Indigene Gruppe: Chorotega"],
+      hu: ["Építés: 1760", "Átmérő: 5 m", "Mélység: 10 m", "Anyag: kő és habarcs", "Nemzeti örökség 1986 óta", "Őslakos csoport: Chorotega"],
+      ro: ["Construit: 1760", "Diametru: 5 m", "Adâncime: 10 m", "Material: piatră și mortar", "Patrimoniu național din 1986", "Grup indigen: Chorotega"],
+      en: ["Built: 1760", "Diameter: 5 m", "Depth: 10 m", "Material: stone and mortar", "National heritage since 1986", "Indigenous group: Chorotega"],
+    },
   },
   {
     id: "costarica-montezuma-lighthouse-history-v2",
     type: "tower",
     name: { de: "Leuchtturm von Montezuma", hu: "Montezuma világítótornya", ro: "Farul din Montezuma", en: "Lighthouse of Montezuma" },
-    coordinates: { lat: 9.654, lng: -85.068 },
+    coords: [-85.068, 9.654],
     description: {
       de: "Ein kleiner, historischer Leuchtturm an der Südspitze der Nicoya-Halbinsel. Errichtet zur Unterstützung der frühen Küstenschifffahrt.",
       hu: "Egy kis történelmi világítótorony a Nicoya-félsziget déli csücskén. A korai parti hajózás támogatására épült.",
@@ -1262,12 +1442,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Coastal landmark", "Early 20th century", "Navigation", "Historic monument"],
     },
     imageHint: "historic lighthouse on Nicoya Peninsula coastline",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Montezuma an der Pazifikküste wurde 1905 erbaut und ist ein historisches Navigationshilfsmittel. Der Turm aus Gusseisen ist 15 m hoch und steht auf einer felsigen Klippe. Er war bis 1970 in Betrieb, als er durch ein modernes Leuchtfeuer ersetzt wurde. Der Leuchtturm ist heute ein beliebtes Fotomotiv und bietet Panoramablick. Er wurde 1995 zum nationalen Kulturerbe erklärt. Die umliegende Landschaft ist Teil des Naturreservats Cabo Blanco.",
+      hu: "A Montezuma-i világítótorony a Csendes-óceán partján 1905-ben épült, történelmi navigációs segédeszköz. Az öntöttvas torony 15 m magas, sziklás szirten áll. 1970-ig működött, amikor modern fényjelző váltotta fel. A világítótorony ma népszerű fotótéma, panorámás kilátással. 1995-ben nemzeti kulturális örökséggé nyilvánították. A környező táj a Cabo Blanco természetvédelmi terület része.",
+      ro: "Farul Montezuma, pe coasta Pacificului, a fost construit în 1905 și este un ajutor istoric de navigație. Turnul din fontă are 15 m înălțime și se află pe o stâncă. A funcționat până în 1970, când a fost înlocuit de un far modern. Farul este acum un subiect popular pentru fotografii și oferă vedere panoramică. A fost declarat patrimoniu cultural național în 1995. Peisajul înconjurător face parte din rezervația naturală Cabo Blanco.",
+      en: "The Lighthouse of Montezuma on the Pacific coast was built in 1905 and is a historic navigational aid. The cast-iron tower stands 15 m high on a rocky cliff. It operated until 1970, when it was replaced by a modern beacon. The lighthouse is now a popular photo spot with panoramic views. It was declared national cultural heritage in 1995. The surrounding landscape is part of the Cabo Blanco Nature Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1905", "Höhe: 15 m", "Material: Gusseisen", "Stillgelegt: 1970", "Nationales Kulturerbe seit 1995", "Lage: Cabo Blanco Reservat"],
+      hu: ["Építés: 1905", "Magasság: 15 m", "Anyag: öntöttvas", "Leállítás: 1970", "Nemzeti kulturális örökség 1995 óta", "Helyszín: Cabo Blanco rezervátum"],
+      ro: ["Construit: 1905", "Înălțime: 15 m", "Material: fontă", "Dezafectat: 1970", "Patrimoniu cultural național din 1995", "Locație: Rezervația Cabo Blanco"],
+      en: ["Built: 1905", "Height: 15 m", "Material: cast iron", "Decommissioned: 1970", "National cultural heritage since 1995", "Location: Cabo Blanco Reserve"],
+    },
   },
   {
     id: "costarica-san-ramon-market-history-v2",
     type: "museum",
     name: { de: "Markthalle San Ramón", hu: "San Ramón vásárcsarnoka", ro: "Hala pieței San Ramón", en: "Market Hall of San Ramon" },
-    coordinates: { lat: 10.082, lng: -84.467 },
+    coords: [-84.467, 10.082],
     description: {
       de: "Ein historisches Marktgebäude, das den sozialen Mittelpunkt der Stadt im 20. Jahrhundert bildete.",
       hu: "Történelmi piaci épület, amely a 20. században a város társadalmi központját képezte.",
@@ -1281,6 +1473,18 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       en: ["Social history", "Trade center", "Early 20th century", "Urban architecture"],
     },
     imageHint: "historic market hall architecture in San Ramon",
+    descriptionAdvanced: {
+      de: "Die Markthalle von San Ramón, erbaut 1910, ist ein zentraler Handelsplatz in der Stadt. Das Gebäude im neoklassizistischen Stil aus Stahl und Glas beherbergt zahlreiche Stände für frische Produkte, Fleisch und Kunsthandwerk. Die Halle wurde 1980 renoviert und dient auch als kultureller Treffpunkt. Sie ist ein wichtiger Wirtschaftsfaktor für die Region. Die Architektur spiegelt die Blütezeit des Kaffeeanbaus wider. Der Markt ist täglich geöffnet und zieht viele Besucher an.",
+      hu: "A san ramóni piarcsarnok 1910-ben épült, a város központi kereskedelmi helye. Az neoklasszicista acél- és üvegszerkezet számos standot kínál friss termékek, hús és kézművesáruk számára. A csarnokot 1980-ban újították fel, és kulturális találkozóhelyként is szolgál. Fontos gazdasági tényező a régióban. Az építészet a kávétermesztés virágkorát tükrözi. A piac minden nap nyitva van, sok látogatót vonz.",
+      ro: "Hala de piață din San Ramón, construită în 1910, este un centru comercial al orașului. Clădirea în stil neoclasic din oțel și sticlă găzduiește numeroase tarabe cu produse proaspete, carne și meșteșuguri. Hala a fost renovată în 1980 și servește și ca loc de întâlnire cultural. Este un factor economic important pentru regiune. Arhitectura reflectă perioada de înflorire a cultivării cafelei. Piața este deschisă zilnic și atrage mulți vizitatori.",
+      en: "The Market Hall of San Ramón, built in 1910, is a central trading hub in the city. The Neoclassical steel-and-glass building houses numerous stalls for fresh produce, meat, and crafts. The hall was renovated in 1980 and also serves as a cultural meeting place. It is an important economic driver for the region. The architecture reflects the coffee boom era. The market is open daily and attracts many visitors.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1910", "Stil: Neoklassizismus", "Material: Stahl und Glas", "Renoviert: 1980", "Anzahl der Stände: 80", "Öffnungstage: täglich"],
+      hu: ["Építés: 1910", "Stílus: neoklasszicista", "Anyag: acél és üveg", "Felújítás: 1980", "Standok száma: 80", "Nyitvatartás: minden nap"],
+      ro: ["Construit: 1910", "Stil: neoclasic", "Material: oțel și sticlă", "Renovat: 1980", "Număr tarabe: 80", "Zile de funcționare: zilnic"],
+      en: ["Built: 1910", "Style: Neoclassical", "Material: steel and glass", "Renovated: 1980", "Number of stalls: 80", "Days open: daily"],
+    },
   }
 ];
 

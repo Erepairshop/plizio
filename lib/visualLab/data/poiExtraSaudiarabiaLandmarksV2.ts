@@ -646,7 +646,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-floating-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Schwimmende Moschee", hu: "Lebegő mecset", ro: "Moscheea Plutitoare", en: "Floating Mosque" },
-    coordinates: { lat: 21.6167, lng: 39.1111 },
+    coords: [39.1111, 21.6167],
     description: {
       de: "Die Al-Rahmah-Moschee in Dschidda wurde auf Stelzen über dem Roten Meer errichtet und wirkt bei Flut schwebend.",
       hu: "A dzsiddai Al-Rahmah mecset a Vörös-tenger fölé épült cölöpökre, dagálykor lebegő hatást keltve.",
@@ -665,7 +665,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-shubra-palace-landmarks-v2",
     type: "palace",
     name: { de: "Shubra-Palast", hu: "Subra palota", ro: "Palatul Shubra", en: "Shubra Palace" },
-    coordinates: { lat: 21.2828, lng: 40.4136 },
+    coords: [40.4136, 21.2828],
     description: {
       de: "Ein historisches Gebäude in Taif, das einst als Sommerresidenz für saudi-arabische Könige diente.",
       hu: "Történelmi épület Taifban, amely egykor a szaúdi királyok nyári rezidenciájaként szolgált.",
@@ -684,7 +684,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-al-qishla-palace-landmarks-v2",
     type: "castle",
     name: { de: "Al-Qishla-Palast", hu: "Al-Qishla palota", ro: "Palatul Al-Qishla", en: "Al-Qishla Palace" },
-    coordinates: { lat: 27.5217, lng: 41.6917 },
+    coords: [41.6917, 27.5217],
     description: {
       de: "Eine massive Lehmfestung im Zentrum von Ha'il, die ursprünglich als Kaserne für das Militär genutzt wurde.",
       hu: "Masszív vályogerőd Ha'il központjában, amelyet eredetileg katonai laktanyaként használtak.",
@@ -703,7 +703,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-king-fahd-stadium-landmarks-v2",
     type: "landmark",
     name: { de: "König-Fahd-Stadion", hu: "Fahd király stadion", ro: "Stadionul Regele Fahd", en: "King Fahd Stadium" },
-    coordinates: { lat: 24.7886, lng: 46.8389 },
+    coords: [46.8389, 24.7886],
     description: {
       de: "Ein Mehrzweckstadion in Riad, bekannt für seine einzigartige Dachkonstruktion in Form von Zelten.",
       hu: "Többfunkciós stadion Rijádban, amely egyedülálló, sátor alakú tetőszerkezetéről ismert.",
@@ -722,7 +722,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-national-museum-building-landmarks-v2",
     type: "museum",
     name: { de: "Nationalmuseum von Saudi-Arabien", hu: "Szaúd-Arábiai Nemzeti Múzeum", ro: "Muzeul Național al Arabiei Saudite", en: "National Museum of Saudi Arabia" },
-    coordinates: { lat: 24.6483, lng: 46.7108 },
+    coords: [46.7108, 24.6483],
     description: {
       de: "Das bedeutendste Museum in Riad, das die Geschichte der Arabischen Halbinsel von der Antike bis heute zeigt.",
       hu: "Rijád legjelentősebb múzeuma, amely az Arab-félsziget történelmét mutatja be az ókortól napjainkig.",
@@ -741,7 +741,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-jeddah-tower-landmarks-v2",
     type: "tower",
     name: { de: "Dschidda-Turm", hu: "Dzsidda-torony", ro: "Turnul Jeddah", en: "Jeddah Tower" },
-    coordinates: { lat: 21.7331, lng: 39.0833 },
+    coords: [39.0833, 21.7331],
     description: {
       de: "Ein im Bau befindlicher Wolkenkratzer, der nach seiner Fertigstellung das höchste Gebäude der Welt sein soll.",
       hu: "Építés alatt álló felhőkarcoló, amely elkészülte után a világ legmagasabb épülete lesz.",
@@ -760,7 +760,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-al-shafii-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Shafi'i-Moschee", hu: "Al-Sáfií mecset", ro: "Moscheea Al-Shafi'i", en: "Al-Shafi'i Mosque" },
-    coordinates: { lat: 21.4844, lng: 39.1864 },
+    coords: [39.1864, 21.4844],
     description: {
       de: "Eine der bedeutendsten historischen Moscheen im Al-Balad-Viertel von Dschidda.",
       hu: "Dzsidda Al-Balad negyedének egyik legjelentősebb történelmi mecsete.",
@@ -779,7 +779,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-amarah-palace-landmarks-v2",
     type: "monument",
     name: { de: "Amarah-Palast", hu: "Amarah palota", ro: "Palatul Amarah", en: "Amarah Palace" },
-    coordinates: { lat: 17.5028, lng: 44.1278 },
+    coords: [44.1278, 17.5028],
     description: {
       de: "Ein markantes Gebäude im Zentrum von Najran, das für seine traditionelle lokale Architektur bekannt ist.",
       hu: "Najran központjában található jellegzetes épület, amely hagyományos helyi építészetéről ismert.",
@@ -798,7 +798,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-haddaj-well-landmarks-v2",
     type: "ruins",
     name: { de: "Haddaj-Brunnen", hu: "Haddadzs kút", ro: "Fântâna Haddaj", en: "Haddaj Well" },
-    coordinates: { lat: 27.6294, lng: 38.5475 },
+    coords: [38.5475, 27.6294],
     description: {
       de: "Einer der größten und bekanntesten antiken Brunnen der Welt, gelegen in der Oase Tayma.",
       hu: "A világ egyik legnagyobb és legismertebb ókori kútja, amely a Tayma oázisban található.",
@@ -817,7 +817,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-zaabal-castle-landmarks-v2",
     type: "castle",
     name: { de: "Za'abal-Burg", hu: "Za'abal vára", ro: "Castelul Za'abal", en: "Za'abal Castle" },
-    coordinates: { lat: 29.9758, lng: 40.2106 },
+    coords: [40.2106, 29.9758],
     description: {
       de: "Eine auf einem Hügel gelegene Festung in Sakakah, die die Region Al-Jouf überblickt.",
       hu: "Sakakah dombtetőn álló erődje, amely az Al-Jouf régióra néz.",
@@ -836,7 +836,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-tuwaiq-palace-landmarks-v2",
     type: "palace",
     name: { de: "Tuwaiq-Palast", hu: "Tuwaiq palota", ro: "Palatul Tuwaiq", en: "Tuwaiq Palace" },
-    coordinates: { lat: 24.6789, lng: 46.6667 },
+    coords: [46.6667, 24.6789],
     description: {
       de: "Ein preisgekröntes Gebäude im Diplomatenviertel von Riad, bekannt für seine geschwungene Form.",
       hu: "Díjnyertes épület Rijád diplomatanegyedében, amely íves formájáról ismert.",
@@ -855,7 +855,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-scitech-museum-landmarks-v2",
     type: "museum",
     name: { de: "Scitech Museum", hu: "Scitech Múzeum", ro: "Muzeul Scitech", en: "Scitech Museum" },
-    coordinates: { lat: 26.2978, lng: 50.2189 },
+    coords: [50.2189, 26.2978],
     description: {
       de: "Ein Zentrum für Wissenschaft und Technologie in Al Khobar mit interaktiven Ausstellungen.",
       hu: "Tudományos és technológiai központ Al Khobarban, interaktív kiállításokkal.",
@@ -874,7 +874,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-ottoman-fort-farasan-landmarks-v2",
     type: "castle",
     name: { de: "Osmanische Festung Farasan", hu: "Farasan oszmán erőd", ro: "Fortăreața Otomană Farasan", en: "Ottoman Fort Farasan" },
-    coordinates: { lat: 16.7078, lng: 42.1189 },
+    coords: [42.1189, 16.7078],
     description: {
       de: "Eine historische Militärfestung auf den Farasan-Inseln, die während der osmanischen Herrschaft genutzt wurde.",
       hu: "Történelmi katonai erőd a Farasan-szigeteken, amelyet az oszmán uralom alatt használtak.",
@@ -893,7 +893,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-al-anan-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Al-Anane-Moschee", hu: "Al-Anane mecset", ro: "Moscheea Al-Anane", en: "Al-Anane Mosque" },
-    coordinates: { lat: 21.5208, lng: 39.1556 },
+    coords: [39.1556, 21.5208],
     description: {
       de: "Eine ikonische Moschee am Corniche von Dschidda, bekannt für ihre moderne und elegante Architektur.",
       hu: "Dzsidda tengerparti sétányának ikonikus mecsete, amely modern és elegáns építészetéről ismert.",
@@ -912,7 +912,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-king-khalid-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "König-Khalid-Moschee", hu: "Khalid király mecset", ro: "Moscheea Regele Khalid", en: "King Khalid Mosque" },
-    coordinates: { lat: 24.6989, lng: 46.6603 },
+    coords: [46.6603, 24.6989],
     description: {
       de: "Eine der größten und bekanntesten Moscheen in Riad, benannt nach dem vierten König Saudi-Arabiens.",
       hu: "Rijád egyik legnagyobb és legismertebb mecsete, amelyet Szaúd-Arábia negyedik királyáról neveztek el.",
@@ -931,7 +931,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-tayebat-museum-landmarks-v2",
     type: "museum",
     name: { de: "Al-Tayebat-Museum", hu: "Al-Tayebat Múzeum", ro: "Muzeul Al-Tayebat", en: "Al-Tayebat Museum" },
-    coordinates: { lat: 21.5764, lng: 39.1969 },
+    coords: [39.1969, 21.5764],
     description: {
       de: "Ein riesiger privater Museumskomplex in Dschidda, der die Geschichte und Kultur der Region zeigt.",
       hu: "Hatalmas magánmúzeumi komplexum Dzsiddában, amely a régió történelmét és kultúráját mutatja be.",
@@ -950,7 +950,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-dar-al-madinah-museum-landmarks-v2",
     type: "museum",
     name: { de: "Dar Al Madinah Museum", hu: "Dar Al Madinah Múzeum", ro: "Muzeul Dar Al Madinah", en: "Dar Al Madinah Museum" },
-    coordinates: { lat: 24.4789, lng: 39.6789 },
+    coords: [39.6789, 24.4789],
     description: {
       de: "Das erste spezialisierte Museum zur Geschichte Madinas und seiner architektonischen Entwicklung.",
       hu: "Az első specializált múzeum Medina történelméről és építészeti fejlődéséről.",
@@ -969,7 +969,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-yanbu-night-market-landmarks-v2",
     type: "landmark",
     name: { de: "Historischer Nachtmarkt Yanbu", hu: "Yanbu történelmi éjszakai piac", ro: "Piața de noapte Yanbu", en: "Yanbu Historical Night Market" },
-    coordinates: { lat: 24.0889, lng: 38.0614 },
+    coords: [38.0614, 24.0889],
     description: {
       de: "Ein restaurierter historischer Markt in Yanbu, der früher ein wichtiges Handelszentrum für Seefahrer war.",
       hu: "Yanbu restaurált történelmi piaca, amely egykor a tengerészek fontos kereskedelmi központja volt.",
@@ -988,7 +988,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-king-fahd-cultural-center-landmarks-v2",
     type: "theater",
     name: { de: "König-Fahd-Kulturzentrum", hu: "Fahd király kulturális központ", ro: "Centrul Cultural Regele Fahd", en: "King Fahd Cultural Center" },
-    coordinates: { lat: 24.6433, lng: 46.6347 },
+    coords: [46.6347, 24.6433],
     description: {
       de: "Ein bedeutendes Zentrum für Kunst und Kultur in Riad mit Theatern und Ausstellungsflächen.",
       hu: "Rijád jelentős művészeti és kulturális központja színházakkal és kiállítóterekkel.",
@@ -1007,7 +1007,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-al-ahsa-museum-landmarks-v2",
     type: "museum",
     name: { de: "Al-Ahsa Museum", hu: "Al-Ahsa Múzeum", ro: "Muzeul Al-Ahsa", en: "Al-Ahsa Museum" },
-    coordinates: { lat: 25.3789, lng: 49.5911 },
+    coords: [49.5911, 25.3789],
     description: {
       de: "Ein Museum in Al-Hofuf, das die Archäologie und das Erbe der größten Oase der Welt bewahrt.",
       hu: "Al-Hofufban található múzeum, amely a világ legnagyobb oázisának régészeti emlékeit őrzi.",
@@ -1026,7 +1026,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-grand-mosque-gate-landmarks-v2",
     type: "monument",
     name: { de: "King Abdulaziz Tor", hu: "Abdulaziz király kapu", ro: "Poarta Regele Abdulaziz", en: "King Abdulaziz Gate" },
-    coordinates: { lat: 21.4214, lng: 39.8258 },
+    coords: [39.8258, 21.4214],
     description: {
       de: "Eines der imposantesten Eingangstore zur Heiligen Moschee Al-Masjid al-Haram in Mekka.",
       hu: "A mekkai Al-Masjid al-Haram nagymecset egyik legimpozánsabb bejárati kapuja.",
@@ -1045,7 +1045,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-bicycle-roundabout-landmarks-v2",
     type: "monument",
     name: { de: "Fahrrad-Kreisverkehr", hu: "Kerékpár körforgalom", ro: "Sensul giratoriu Bicicleta", en: "Bicycle Roundabout" },
-    coordinates: { lat: 21.5544, lng: 39.1917 },
+    coords: [39.1917, 21.5544],
     description: {
       de: "Eine berühmte Skulptur eines riesigen Fahrrads, die als Landmarke in der Stadt Dschidda dient.",
       hu: "Egy óriási kerékpárt ábrázoló híres szobor, amely Dzsidda városának egyik jelképe.",
@@ -1064,7 +1064,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     id: "saudiarabia-globe-roundabout-landmarks-v2",
     type: "monument",
     name: { de: "Globus-Kreisverkehr", hu: "Glóbusz körforgalom", ro: "Sensul giratoriu Globul", en: "Globe Roundabout" },
-    coordinates: { lat: 21.6144, lng: 39.1306 },
+    coords: [39.1306, 21.6144],
     description: {
       de: "Ein monumentaler Kreisverkehr in Dschidda mit einem großen, beleuchteten Globus in der Mitte.",
       hu: "Monumentális körforgalom Dzsiddában, amelynek közepén egy hatalmas, kivilágított földgömb áll.",

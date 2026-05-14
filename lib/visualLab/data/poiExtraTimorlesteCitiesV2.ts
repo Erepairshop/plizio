@@ -966,7 +966,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-hato-udo-cities-v2",
     type: "town",
     name: { de: "Hato-Udo", hu: "Hato-Udo", ro: "Hato-Udo", en: "Hato-Udo" },
-    coordinates: { lat: -9.1172, lng: 125.6022 },
+    coords: [125.6022, -9.1172],
     description: {
       de: "Hato-Udo ist eine wichtige Stadt im Verwaltungsbezirk Ainaro im Süden des Landes. Sie dient als landwirtschaftliches Zentrum für den Anbau von Reis und Mais.",
       hu: "Hato-Udo egy fontos város az ország déli részén, Ainaro községben. A környék mezőgazdasági központjaként szolgál, főleg rizs és kukorica termesztésével.",
@@ -985,7 +985,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-quelicai-cities-v2",
     type: "town",
     name: { de: "Quelicai", hu: "Quelicai", ro: "Quelicai", en: "Quelicai" },
-    coordinates: { lat: -8.6017, lng: 126.5614 },
+    coords: [126.5614, -8.6017],
     description: {
       de: "Quelicai liegt am Fuße des Matebian-Gebirges im Osten von Timor-Leste. Die Stadt ist bekannt für ihre spektakuläre Bergkulisse und kühleres Klima.",
       hu: "Quelicai a Matebian-hegység lábánál fekszik Kelet-Timor keleti részén. A város látványos hegyi környezetéről és hűvösebb klímájáról ismert.",
@@ -1004,7 +1004,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-vemasse-cities-v2",
     type: "town",
     name: { de: "Vemasse", hu: "Vemasse", ro: "Vemasse", en: "Vemasse" },
-    coordinates: { lat: -8.5117, lng: 126.2133 },
+    coords: [126.2133, -8.5117],
     description: {
       de: "Vemasse ist eine Küstenstadt an der Nordstraße zwischen Dili und Baucau. Sie beherbergt Ruinen aus der portugiesischen Kolonialzeit und eine historische Kirche.",
       hu: "Vemasse egy parti város a Dili és Baucau közötti északi úton. Portugál gyarmati romoknak és egy történelmi templomnak ad otthont.",
@@ -1023,7 +1023,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-lolotoe-cities-v2",
     type: "town",
     name: { de: "Lolotoe", hu: "Lolotoe", ro: "Lolotoe", en: "Lolotoe" },
-    coordinates: { lat: -9.1672, lng: 125.2706 },
+    coords: [125.2706, -9.1672],
     description: {
       de: "Lolotoe ist eine abgelegene Bergstadt in der Gemeinde Bobonaro nahe der indonesischen Grenze. Sie ist bekannt für ihre Kaffeeproduktion und dichten Wälder.",
       hu: "Lolotoe egy félreeső hegyi város Bobonaro községben, az indonéz határ közelében. Kávétermeléséről és sűrű erdőiről ismert.",
@@ -1042,7 +1042,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-atabae-cities-v2",
     type: "town",
     name: { de: "Atabae", hu: "Atabae", ro: "Atabae", en: "Atabae" },
-    coordinates: { lat: -8.8111, lng: 125.1011 },
+    coords: [125.1011, -8.8111],
     description: {
       de: "Atabae ist eine strategisch wichtige Stadt an der Westküste im Verwaltungsbezirk Bobonaro. Sie liegt am Fuße markanter Kalksteinfelsen.",
       hu: "Atabae egy stratégiailag fontos város a nyugati parton, Bobonaro közigazgatási körzetében. Jellegzetes mészkősziklák lábánál fekszik.",
@@ -1061,7 +1061,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-cailaco-cities-v2",
     type: "town",
     name: { de: "Cailaco", hu: "Cailaco", ro: "Cailaco", en: "Cailaco" },
-    coordinates: { lat: -8.9, lng: 125.2833 },
+    coords: [125.2833, -8.9],
     description: {
       de: "Cailaco liegt im Hinterland von Bobonaro und wird vom beeindruckenden Cailaco-Massiv überragt. Die Stadt ist für ihre reiche mündliche Überlieferung bekannt.",
       hu: "Cailaco Bobonaro belső területén fekszik, a lenyűgöző Cailaco-masszívum árnyékában. A város gazdag szóbeli hagyományairól ismert.",
@@ -1080,7 +1080,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-metinaro-cities-v2",
     type: "town",
     name: { de: "Metinaro", hu: "Metinaro", ro: "Metinaro", en: "Metinaro" },
-    coordinates: { lat: -8.5306, lng: 125.7511 },
+    coords: [125.7511, -8.5306],
     description: {
       de: "Metinaro liegt östlich der Hauptstadt Dili und ist Standort der wichtigsten Militärbasis des Landes. Die Stadt ist von Mangrovenwäldern umgeben.",
       hu: "Metinaro a fővárostól, Dilitől keletre fekszik, és az ország legfontosabb katonai bázisának ad otthont. A várost mangroveerdők veszik körül.",
@@ -1099,7 +1099,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-bazartete-cities-v2",
     type: "town",
     name: { de: "Bazartete", hu: "Bazartete", ro: "Bazartete", en: "Bazartete" },
-    coordinates: { lat: -8.6256, lng: 125.3853 },
+    coords: [125.3853, -8.6256],
     description: {
       de: "Bazartete ist eine Bergstadt in der Gemeinde Liquiça mit weitem Blick auf die Küste. Sie ist ein traditionelles Zentrum für Kaffee und Obst.",
       hu: "Bazartete egy hegyi város Liquiça községben, tágas kilátással a partvidékre. A kávé és a gyümölcsök hagyományos központja.",
@@ -1118,7 +1118,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-hatolia-cities-v2",
     type: "town",
     name: { de: "Hatolia", hu: "Hatolia", ro: "Hatolia", en: "Hatolia" },
-    coordinates: { lat: -8.8144, lng: 125.3183 },
+    coords: [125.3183, -8.8144],
     description: {
       de: "Hatolia ist ein wichtiges Zentrum der Kaffeeproduktion in der Gemeinde Ermera. Die Stadt liegt in einer nebligen Bergregion mit fruchtbaren Böden.",
       hu: "Hatolia az Ermera község egyik fontos kávétermelő központja. A város egy ködös hegyi régióban fekszik, ahol a talaj igen termékeny.",
@@ -1137,7 +1137,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-atsabe-cities-v2",
     type: "town",
     name: { de: "Atsabe", hu: "Atsabe", ro: "Atsabe", en: "Atsabe" },
-    coordinates: { lat: -8.9283, lng: 125.4014 },
+    coords: [125.4014, -8.9283],
     description: {
       de: "Atsabe ist eine Stadt in großer Höhe im Distrikt Ermera, bekannt für ihre Tais-Weberei. Sie liegt nahe dem Berg Ramelau und ist von steilen Hängen umgeben.",
       hu: "Atsabe egy magasan fekvő város Ermera körzetében, amely a Tais-szövéséről híres. A Ramelau-hegy közelében fekszik, meredek lejtőkkel övezve.",
@@ -1156,7 +1156,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-railaco-cities-v2",
     type: "town",
     name: { de: "Railaco", hu: "Railaco", ro: "Railaco", en: "Railaco" },
-    coordinates: { lat: -8.6575, lng: 125.4533 },
+    coords: [125.4533, -8.6575],
     description: {
       de: "Railaco liegt an der Hauptstraße von Dili nach Gleno im Hochland von Ermera. Es ist bekannt für seine Jesuitenmission und soziale Projekte.",
       hu: "Railaco a Dili és Gleno közötti főút mentén fekszik Ermera felföldjén. Jezsuita missziójáról és szociális projektjeiről ismert.",
@@ -1175,7 +1175,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-barique-cities-v2",
     type: "town",
     name: { de: "Barique", hu: "Barique", ro: "Barique", en: "Barique" },
-    coordinates: { lat: -8.8344, lng: 126.0644 },
+    coords: [126.0644, -8.8344],
     description: {
       de: "Barique ist eine Stadt im Landesinneren von Manatuto, umgeben von zerklüfteten Bergen. Sie liegt in einer historisch bedeutsamen Region für den Widerstand.",
       hu: "Barique egy Manatuto belső részén fekvő város, amelyet csipkés hegyek vesznek körül. Történelmileg jelentős ellenállási területen található.",
@@ -1194,7 +1194,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-natarbora-cities-v2",
     type: "town",
     name: { de: "Natarbora", hu: "Natarbora", ro: "Natarbora", en: "Natarbora" },
-    coordinates: { lat: -8.9833, lng: 126.0444 },
+    coords: [126.0444, -8.9833],
     description: {
       de: "Natarbora ist eine Siedlung an der Südküste im Verwaltungsbezirk Manatuto. Die Region verfügt über weite Ebenen, die für die Viehzucht genutzt werden.",
       hu: "Natarbora egy település a déli parton, Manatuto közigazgatási körzetében. A régió tágas síkságokkal rendelkezik, amelyeket állattenyésztésre használnak.",
@@ -1213,7 +1213,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-uato-lari-cities-v2",
     type: "town",
     name: { de: "Uato-Lari", hu: "Uato-Lari", ro: "Uato-Lari", en: "Uato-Lari" },
-    coordinates: { lat: -8.8833, lng: 126.5167 },
+    coords: [126.5167, -8.8833],
     description: {
       de: "Uato-Lari ist eine bedeutende Stadt im Süden der Gemeinde Viqueque. Sie ist bekannt für ihre Reisfelder und die Nähe zu Kalksteinhöhlen.",
       hu: "Uato-Lari egy jelentős város Viqueque község déli részén. Rizsföldjeiről és a mészkőbarlangok közelségéről ismert.",
@@ -1232,7 +1232,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-lacluta-cities-v2",
     type: "town",
     name: { de: "Lacluta", hu: "Lacluta", ro: "Lacluta", en: "Lacluta" },
-    coordinates: { lat: -8.79, lng: 126.13 },
+    coords: [126.13, -8.79],
     description: {
       de: "Lacluta ist eine abgelegene Stadt im Hinterland von Viqueque. Die Region ist dünn besiedelt und zeichnet sich durch unberührte Natur aus.",
       hu: "Lacluta egy félreeső város Viqueque belső területén. A régió ritkán lakott, és érintetlen természeti adottságok jellemzik.",
@@ -1251,7 +1251,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-fatululic-cities-v2",
     type: "town",
     name: { de: "Fatululic", hu: "Fatululic", ro: "Fatululic", en: "Fatululic" },
-    coordinates: { lat: -9.1767, lng: 125.1333 },
+    coords: [125.1333, -9.1767],
     description: {
       de: "Fatululic ist eine Bergstadt in der Gemeinde Cova Lima an der Grenze zu West-Timor. Sie ist bekannt für ihre steilen Hänge und die kühle Luft.",
       hu: "Fatululic egy hegyi város Cova Lima községben, a nyugat-timori határ mentén. Meredek lejtőiről és hűvös levegőjéről ismert.",
@@ -1270,7 +1270,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-fatumean-cities-v2",
     type: "town",
     name: { de: "Fatumean", hu: "Fatumean", ro: "Fatumean", en: "Fatumean" },
-    coordinates: { lat: -9.2311, lng: 125.0381 },
+    coords: [125.0381, -9.2311],
     description: {
       de: "Fatumean liegt im äußersten Westen von Cova Lima und ist eine Grenzstadt mit traditioneller Architektur. Die Stadt liegt auf einem Bergrücken.",
       hu: "Fatumean Cova Lima legnyugatibb részén fekszik, és egy hagyományos építészetű határváros. A város egy hegygerincen helyezkedik el.",
@@ -1289,7 +1289,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-maucatar-cities-v2",
     type: "town",
     name: { de: "Maucatar", hu: "Maucatar", ro: "Maucatar", en: "Maucatar" },
-    coordinates: { lat: -9.2636, lng: 125.2514 },
+    coords: [125.2514, -9.2636],
     description: {
       de: "Maucatar liegt in der Küstenebene von Cova Lima nahe der Stadt Suai. Es ist ein Zentrum für Landwirtschaft und Handel in der Region.",
       hu: "Maucatar Cova Lima parti síkságán fekszik, Suai városa közelében. A régió mezőgazdasági és kereskedelmi központja.",
@@ -1308,7 +1308,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-remexio-cities-v2",
     type: "town",
     name: { de: "Remexio", hu: "Remexio", ro: "Remexio", en: "Remexio" },
-    coordinates: { lat: -8.6144, lng: 125.6631 },
+    coords: [125.6631, -8.6144],
     description: {
       de: "Remexio ist eine Bergstadt südlich von Dili in der Gemeinde Aileu. Sie bietet kühles Klima und ist ein beliebtes Ziel für Wochenendausflüge.",
       hu: "Remexio egy hegyi város Dilitől délre, Aileu községben. Hűvös klímát kínál, és népszerű célpont hétvégi kirándulásokhoz.",
@@ -1327,7 +1327,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-laulara-cities-v2",
     type: "town",
     name: { de: "Laulara", hu: "Laulara", ro: "Laulara", en: "Laulara" },
-    coordinates: { lat: -8.6047, lng: 125.5947 },
+    coords: [125.5947, -8.6047],
     description: {
       de: "Laulara liegt am steilen Aufstieg von Dili nach Aileu und ist bekannt für seine spektakulären Aussichtspunkte. Die Stadt liegt oft im Nebel.",
       hu: "Laulara a Dili és Aileu közötti meredek emelkedőn fekszik, és látványos kilátópontjairól ismert. A várost gyakran köd borítja.",
@@ -1346,7 +1346,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-nitibe-cities-v2",
     type: "town",
     name: { de: "Nitibe", hu: "Nitibe", ro: "Nitibe", en: "Nitibe" },
-    coordinates: { lat: -9.2844, lng: 124.1844 },
+    coords: [124.1844, -9.2844],
     description: {
       de: "Nitibe ist eine Küstenstadt im westlichen Teil der Exklave Oecusse. Sie ist für ihre unberührten Strände und traditionelle Fischerei bekannt.",
       hu: "Nitibe egy parti város az Oecusse exklávé nyugati részén. Érintetlen strandjairól és hagyományos halászatáról ismert.",
@@ -1365,7 +1365,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-oesilo-cities-v2",
     type: "town",
     name: { de: "Oesilo", hu: "Oesilo", ro: "Oesilo", en: "Oesilo" },
-    coordinates: { lat: -9.3514, lng: 124.3781 },
+    coords: [124.3781, -9.3514],
     description: {
       de: "Oesilo ist eine Grenzstadt im Landesinneren der Exklave Oecusse. Sie ist ein wichtiger Übergangspunkt für den Handel mit dem indonesischen West-Timor.",
       hu: "Oesilo egy belső határváros az Oecusse exklávéban. Fontos átkelőhely az indonéz Nyugat-Timorral való kereskedelemben.",
@@ -1384,7 +1384,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-passabe-cities-v2",
     type: "town",
     name: { de: "Passabe", hu: "Passabe", ro: "Passabe", en: "Passabe" },
-    coordinates: { lat: -9.4583, lng: 124.3414 },
+    coords: [124.3414, -9.4583],
     description: {
       de: "Passabe ist die südlichste Stadt der Exklave Oecusse und liegt in einer malerischen Berglandschaft. Sie ist von indonesischem Gebiet umschlossen.",
       hu: "Passabe az Oecusse exklávé legdélebbi városa, amely festői hegyvidéken fekszik. Minden oldalról indonéz terület veszi körül.",
@@ -1403,7 +1403,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-lequidoe-cities-v2",
     type: "town",
     name: { de: "Lequidoe", hu: "Lequidoe", ro: "Lequidoe", en: "Lequidoe" },
-    coordinates: { lat: -8.7183, lng: 125.6414 },
+    coords: [125.6414, -8.7183],
     description: {
       de: "Lequidoe ist eine abgelegene Gemeinde im Distrikt Aileu. Die Stadt ist für ihre steilen Hänge und die Produktion von Bio-Gemüse bekannt.",
       hu: "Lequidoe egy félreeső közösség Aileu körzetében. A város meredek lejtőiről és biozöldség-termeléséről ismert.",
@@ -1422,7 +1422,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-bucoli-cities-v2",
     type: "town",
     name: { de: "Bucoli", hu: "Bucoli", ro: "Bucoli", en: "Bucoli" },
-    coordinates: { lat: -8.49, lng: 126.34 },
+    coords: [126.34, -8.49],
     description: {
       de: "Bucoli ist eine Stadt in der Gemeinde Baucau, die für ihre historische Bedeutung im Unabhängigkeitskampf bekannt ist. Sie liegt an der nördlichen Hauptstraße.",
       hu: "Bucoli egy város Baucau községben, amely a függetlenségi harcban betöltött történelmi szerepéről ismert. Az északi főút mentén fekszik.",
@@ -1441,7 +1441,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-gari-uai-cities-v2",
     type: "town",
     name: { de: "Gari-uai", hu: "Gari-uai", ro: "Gari-uai", en: "Gari-uai" },
-    coordinates: { lat: -8.59, lng: 126.37 },
+    coords: [126.37, -8.59],
     description: {
       de: "Gari-uai liegt auf dem Baucau-Plateau und ist bekannt für seine weiten Felder und das kühle Hochlandklima. Die Stadt ist ein landwirtschaftliches Zentrum.",
       hu: "Gari-uai a Baucau-fennsíkon fekszik, híres tágas mezőiről és hűvös felföldi klímájáról. A város mezőgazdasági központ.",
@@ -1460,7 +1460,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-fatubessi-cities-v2",
     type: "town",
     name: { de: "Fatubessi", hu: "Fatubessi", ro: "Fatubessi", en: "Fatubessi" },
-    coordinates: { lat: -8.75, lng: 125.3333 },
+    coords: [125.3333, -8.75],
     description: {
       de: "Fatubessi ist eine bedeutende Kaffeestadt im Distrikt Ermera. Sie liegt in einer bergigen Region, die für ihre historischen Plantagen bekannt ist.",
       hu: "Fatubessi egy jelentős kávéváros Ermera körzetében. Hegyes vidéken fekszik, amely történelmi ültetvényeiről híres.",
@@ -1479,7 +1479,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-bobonaro-cities-v2",
     type: "town",
     name: { de: "Bobonaro", hu: "Bobonaro", ro: "Bobonaro", en: "Bobonaro" },
-    coordinates: { lat: -9.0322, lng: 125.3253 },
+    coords: [125.3253, -9.0322],
     description: {
       de: "Bobonaro ist die historische namensgebende Stadt der Gemeinde, obwohl Maliana heute das Verwaltungszentrum ist. Sie liegt hoch in den Bergen.",
       hu: "Bobonaro a község történelmi névadó városa, bár ma Maliana a közigazgatási központ. Magasan a hegyekben fekszik.",
@@ -1498,7 +1498,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-batugade-cities-v2",
     type: "town",
     name: { de: "Batugade", hu: "Batugade", ro: "Batugade", en: "Batugade" },
-    coordinates: { lat: -8.9469, lng: 124.9719 },
+    coords: [124.9719, -8.9469],
     description: {
       de: "Batugade ist die wichtigste Grenzstadt im Westen von Timor-Leste. Sie liegt direkt an der Küstenstraße nach Indonesien und beherbergt eine historische Festung.",
       hu: "Batugade Kelet-Timor legfontosabb nyugati határvárosa. Közvetlenül az Indonéziába vezető parti út mentén fekszik, és egy történelmi erődnek ad otthont.",
@@ -1517,7 +1517,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "timorleste-ritabou-cities-v2",
     type: "town",
     name: { de: "Ritabou", hu: "Ritabou", ro: "Ritabou", en: "Ritabou" },
-    coordinates: { lat: -8.9167, lng: 125.2167 },
+    coords: [125.2167, -8.9167],
     description: {
       de: "Ritabou ist eine wachsende Stadt in der Nähe von Maliana in der Gemeinde Bobonaro. Sie liegt in einem fruchtbaren Tal, das für den Reisanbau genutzt wird.",
       hu: "Ritabou egy növekvő város Maliana közelében, Bobonaro községben. Egy termékeny völgyben fekszik, amelyet rizstermesztésre használnak.",

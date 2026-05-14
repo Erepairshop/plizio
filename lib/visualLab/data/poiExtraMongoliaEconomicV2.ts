@@ -966,7 +966,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-nariin-sukhait-mine-economic-v2",
     type: "mine",
     name: { de: "Kohlebergwerk Nariin Sukhait", hu: "Nariin Sukhait szénbánya", ro: "Mina de cărbune Nariin Sukhait", en: "Nariin Sukhait Coal Mine" },
-    coordinates: { lat: 43.011, lng: 101.258 },
+    coords: [101.258, 43.011],
     description: {
       de: "Eines der größten Kohlebergwerke in der Region Gurvantes im Süden der Wüste Gobi.",
       hu: "Dél-Góbi egyik legnagyobb szénbányája, amely fontos szerepet játszik az exportban.",
@@ -985,7 +985,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-tumurtiin-ovoo-mine-economic-v2",
     type: "mine",
     name: { de: "Zinkmine Tumurtiin Ovoo", hu: "Tumurtiin Ovoo cinkbánya", ro: "Mina de zinc Tumurtiin Ovoo", en: "Tumurtiin Ovoo Zinc Mine" },
-    coordinates: { lat: 46.368, lng: 113.468 },
+    coords: [113.468, 46.368],
     description: {
       de: "Ein bedeutender Standort für den Zinkabbau in der Provinz Süchbaatar im Osten der Mongolei.",
       hu: "Jelentős cinkbányászati helyszín Sükhbaatar tartományban, Mongólia keleti részén.",
@@ -1004,7 +1004,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-khukh-tsav-cement-economic-v2",
     type: "factory",
     name: { de: "Zementwerk Khukh Tsav", hu: "Khukh Tsav cementgyár", ro: "Fabrica de ciment Khukh Tsav", en: "Khukh Tsav Cement Plant" },
-    coordinates: { lat: 44.381, lng: 109.112 },
+    coords: [109.112, 44.381],
     description: {
       de: "Eine moderne Industrieanlage zur Zementherstellung in der Provinz Dorno-Gobi.",
       hu: "Modern cementgyártó üzem Dorno-Gobi tartományban, a belföldi igények kiszolgálására.",
@@ -1023,7 +1023,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-gashuun-sukhait-port-economic-v2",
     type: "port",
     name: { de: "Grenzhafen Gashuun Sukhait", hu: "Gashuun Sukhait határkikötő", ro: "Portul de frontieră Gashuun Sukhait", en: "Gashuun Sukhait Border Port" },
-    coordinates: { lat: 42.548, lng: 107.512 },
+    coords: [107.512, 42.548],
     description: {
       de: "Der wichtigste Grenzübergang für den Export von Bodenschätzen nach China.",
       hu: "A legfontosabb határátkelőhely az ásványkincsek Kínába történő exportálásához.",
@@ -1042,7 +1042,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-shivee-khuren-port-economic-v2",
     type: "port",
     name: { de: "Grenzhafen Shivee Khuren", hu: "Shivee Khuren határkikötő", ro: "Portul de frontieră Shivee Khuren", en: "Shivee Khuren Border Port" },
-    coordinates: { lat: 42.428, lng: 101.521 },
+    coords: [101.521, 42.428],
     description: {
       de: "Ein strategischer Handelsstützpunkt an der mongolisch-chinesischen Grenze in der Süd-Gobi.",
       hu: "Stratégiai kereskedelmi bázis a mongol-kínai határon, Dél-Góbi területén.",
@@ -1061,7 +1061,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-erdenet-carpet-factory-economic-v2",
     type: "factory",
     name: { de: "Teppichfabrik Erdenet", hu: "Erdeneti szőnyeggyár", ro: "Fabrica de covoare Erdenet", en: "Erdenet Carpet Factory" },
-    coordinates: { lat: 49.023, lng: 104.051 },
+    coords: [104.051, 49.023],
     description: {
       de: "Mongoliens größte Anlage zur Herstellung von Wollteppichen mit langer Tradition.",
       hu: "Mongólia legnagyobb gyapjúszőnyeg-gyártó üzeme, amely nagy múltra tekint vissza.",
@@ -1080,7 +1080,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-darkhan-solar-plant-economic-v2",
     type: "industry",
     name: { de: "Solarkraftwerk Darkhan", hu: "Darkhan napelem park", ro: "Centrala solară Darkhan", en: "Darkhan Solar Power Plant" },
-    coordinates: { lat: 49.521, lng: 105.955 },
+    coords: [105.955, 49.521],
     description: {
       de: "Das erste große Solarkraftwerk der Mongolei zur Förderung erneuerbarer Energien.",
       hu: "Mongólia első nagyméretű napelemes erőműve a megújuló energia előmozdítására.",
@@ -1099,7 +1099,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-apu-factory-economic-v2",
     type: "factory",
     name: { de: "APU Getränkewerk", hu: "APU italgyár", ro: "Fabrica APU", en: "APU Beverages Factory" },
-    coordinates: { lat: 47.905, lng: 106.901 },
+    coords: [106.901, 47.905],
     description: {
       de: "Eines der ältesten und erfolgreichsten Lebensmittelunternehmen in Ulaanbaatar.",
       hu: "Ulaanbaatar egyik legrégebbi és legsikeresebb élelmiszeripari vállalata.",
@@ -1118,7 +1118,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-ub-power-plant-3-economic-v2",
     type: "industry",
     name: { de: "Wärmekraftwerk Nr. 3 Ulaanbaatar", hu: "3. számú hőközpont, Ulánbátor", ro: "Centrala termică nr. 3 Ulaanbaatar", en: "Ulaanbaatar Thermal Power Plant No. 3" },
-    coordinates: { lat: 47.898, lng: 106.845 },
+    coords: [106.845, 47.898],
     description: {
       de: "Ein zentraler Bestandteil der Energieversorgung für die mongolische Hauptstadt.",
       hu: "A mongol főváros energiaellátásának egyik központi eleme.",
@@ -1137,7 +1137,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-bichigt-port-economic-v2",
     type: "port",
     name: { de: "Grenzhafen Bichigt", hu: "Bichigt határkikötő", ro: "Portul de frontieră Bichigt", en: "Bichigt Border Port" },
-    coordinates: { lat: 45.334, lng: 116.155 },
+    coords: [116.155, 45.334],
     description: {
       de: "Ein wichtiger Grenzübergang im Osten des Landes für den Handel mit China.",
       hu: "Fontos határátkelőhely az ország keleti részén a Kínával folytatott kereskedelemhez.",
@@ -1156,7 +1156,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-darkhan-leather-economic-v2",
     type: "factory",
     name: { de: "Lederkomplex Darkhan", hu: "Darkhani bőrfeldolgozó", ro: "Complexul de piele Darkhan", en: "Darkhan Leather Complex" },
-    coordinates: { lat: 49.445, lng: 105.882 },
+    coords: [105.882, 49.445],
     description: {
       de: "Ein historisches Zentrum der Lederverarbeitung im Norden der Mongolei.",
       hu: "A bőrfeldolgozás történelmi központja Mongólia északi részén.",
@@ -1175,7 +1175,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-monkh-ondoor-mine-economic-v2",
     type: "mine",
     name: { de: "Goldmine Monkh-Ondoor", hu: "Monkh-Ondoor aranybánya", ro: "Mina de aur Monkh-Ondoor", en: "Monkh-Ondoor Gold Mine" },
-    coordinates: { lat: 48.251, lng: 101.815 },
+    coords: [101.815, 48.251],
     description: {
       de: "Ein Bergbaustandort zur Gewinnung von Gold in der Provinz Archangai.",
       hu: "Aranykitermelésre szolgáló bányászati helyszín Arkhangai tartományban.",
@@ -1194,7 +1194,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-ub-meat-processing-economic-v2",
     type: "factory",
     name: { de: "Fleischverarbeitung Ulaanbaatar", hu: "Ulánbátori húsüzem", ro: "Fabrica de procesare a cărnii Ulaanbaatar", en: "Ulaanbaatar Meat Processing Plant" },
-    coordinates: { lat: 47.912, lng: 107.025 },
+    coords: [107.025, 47.912],
     description: {
       de: "Ein zentraler Betrieb für die Verarbeitung und den Export von Fleischprodukten.",
       hu: "Központi üzem a húskészítmények feldolgozására és exportálására.",
@@ -1213,7 +1213,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-bulgan-flour-mill-economic-v2",
     type: "factory",
     name: { de: "Mehlmühle Bulgan", hu: "Bulgani malom", ro: "Moara din Bulgan", en: "Bulgan Flour Mill" },
-    coordinates: { lat: 48.815, lng: 103.522 },
+    coords: [103.522, 48.815],
     description: {
       de: "Eine bedeutende Mühle zur Getreideverarbeitung in Zentralmongolien.",
       hu: "Jelentős gabonafeldolgozó malom Mongólia középső részén.",
@@ -1232,7 +1232,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-hushaat-agriculture-economic-v2",
     type: "industry",
     name: { de: "Agrarzone Hushaat", hu: "Hushaat mezőgazdasági övezet", ro: "Zona agricolă Hushaat", en: "Hushaat Agricultural Zone" },
-    coordinates: { lat: 49.612, lng: 105.415 },
+    coords: [105.415, 49.612],
     description: {
       de: "Ein fruchtbares Gebiet in der Provinz Selenge, das für intensiven Ackerbau bekannt ist.",
       hu: "Termékeny terület Selenge tartományban, amely intenzív szántóföldi növénytermesztéséről ismert.",
@@ -1251,7 +1251,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-tsagaannuur-trade-zone-economic-v2",
     type: "industry",
     name: { de: "Handelszone Tsagaannuur", hu: "Tsagaannuur kereskedelmi övezet", ro: "Zona comercială Tsagaannuur", en: "Tsagaannuur Free Trade Zone" },
-    coordinates: { lat: 49.495, lng: 89.782 },
+    coords: [89.782, 49.495],
     description: {
       de: "Eine Freihandelszone im Westen der Mongolei an der Grenze zu Russland.",
       hu: "Szabadkereskedelmi övezet Mongólia nyugati részén, az orosz határ közelében.",
@@ -1270,7 +1270,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
     id: "mongolia-choir-logistics-center-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Choir", hu: "Choiri logisztikai központ", ro: "Centrul logistic Choir", en: "Choir Logistics Center" },
-    coordinates: { lat: 46.355, lng: 108.365 },
+    coords: [108.365, 46.355],
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt an der transmongolischen Eisenbahn.",
       hu: "Fontos közlekedési csomópont a transzmongol vasútvonal mentén.",

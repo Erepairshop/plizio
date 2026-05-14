@@ -595,7 +595,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-forte-sao-jose-maio-history-v2",
     type: "castle",
     name: { de: "Forte de São José", hu: "Forte de São José", ro: "Forte de São José", en: "Fort of São José" },
-    coordinates: { lat: 15.135, lng: -23.218 },
+    coords: [-23.218, 15.135],
     description: {
       de: "Diese Festung aus dem 18. Jahrhundert wurde erbaut, um die Insel Maio vor Piratenangriffen zu schützen.",
       hu: "Ez a 18. századi erődítmény a Maio-sziget védelmére épült a kalóztámadások ellen.",
@@ -626,7 +626,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-farol-morro-negro-history-v2",
     type: "tower",
     name: { de: "Farol de Morro Negro", hu: "Farol de Morro Negro", ro: "Farol de Morro Negro", en: "Morro Negro Lighthouse" },
-    coordinates: { lat: 16.082, lng: -22.668 },
+    coords: [-22.668, 16.082],
     description: {
       de: "Der Leuchtturm Morro Negro auf der Insel Boa Vista wurde in den 1930er Jahren in markanter Lage errichtet.",
       hu: "A Boa Vista szigetén található Morro Negro világítótorony az 1930-as években épült egy kiemelkedő ponton.",
@@ -657,7 +657,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-casa-amilcar-cabral-santiago-history-v2",
     type: "landmark",
     name: { de: "Casa de Amílcar Cabral", hu: "Amílcar Cabral háza", ro: "Casa lui Amílcar Cabral", en: "Amílcar Cabral House" },
-    coordinates: { lat: 15.101, lng: -23.684 },
+    coords: [-23.684, 15.101],
     description: {
       de: "Das ehemalige Wohnhaus des Nationalhelden Amílcar Cabral in Santa Catarina ist heute ein bedeutender Gedenkort.",
       hu: "Amílcar Cabral nemzeti hős egykori lakóháza Santa Catarinában ma fontos emlékhely és múzeum.",
@@ -688,7 +688,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-farol-ponta-sino-history-v2",
     type: "tower",
     name: { de: "Farol de Ponta do Sinó", hu: "Farol de Ponta do Sinó", ro: "Farol de Ponta do Sinó", en: "Ponta do Sinó Lighthouse" },
-    coordinates: { lat: 16.591, lng: -22.924 },
+    coords: [-22.924, 16.591],
     description: {
       de: "Dieser Leuchtturm markiert den südlichsten Punkt der Insel Sal und ist ein Zeugnis der maritimen Geschichte.",
       hu: "Ez a világítótorony Sal szigetének legdélebbi pontját jelöli, és a tengerészeti történelem tanúja.",
@@ -719,7 +719,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-ns-ajuda-boavista-history-v2",
     type: "church",
     name: { de: "Igreja de Nossa Senhora da Ajuda", hu: "Igreja de Nossa Senhora da Ajuda", ro: "Igreja de Nossa Senhora da Ajuda", en: "Church of Our Lady of Help" },
-    coordinates: { lat: 16.204, lng: -22.912 },
+    coords: [-22.912, 16.204],
     description: {
       de: "Diese Kirche auf Boa Vista ist eine der ältesten Sakralbauten der Insel und stammt ursprünglich aus dem 16. Jahrhundert.",
       hu: "Ez a Boa Vista-i templom a sziget egyik legrégebbi egyházi épülete, gyökerei a 16. századig nyúlnak vissza.",
@@ -750,7 +750,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-santa-isabel-sal-rei-history-v2",
     type: "church",
     name: { de: "Igreja de Santa Isabel", hu: "Igreja de Santa Isabel", ro: "Igreja de Santa Isabel", en: "Church of Saint Isabel" },
-    coordinates: { lat: 16.177, lng: -22.916 },
+    coords: [-22.916, 16.177],
     description: {
       de: "Die Hauptkirche von Sal Rei besticht durch ihre farbenfrohe Fassade und ihre zentrale Rolle im Stadtleben.",
       hu: "Sal Rei főtemploma színes homlokzatával és a városi életben betöltött központi szerepével tűnik ki.",
@@ -781,7 +781,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-cais-alfandega-mindelo-history-v2",
     type: "port",
     name: { de: "Cais da Alfândega", hu: "Cais da Alfândega", ro: "Cais da Alfândega", en: "Old Customs Pier" },
-    coordinates: { lat: 16.888, lng: -24.99 },
+    coords: [-24.99, 16.888],
     description: {
       de: "Dieser historische Pier in Mindelo war einst das Tor für den gesamten Warenverkehr der Insel São Vicente.",
       hu: "Ez a történelmi móló Mindelóban egykor a São Vicente-sziget teljes áruforgalmának kapuja volt.",
@@ -812,7 +812,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-monumento-diogo-afonso-history-v2",
     type: "monument",
     name: { de: "Monumento de Diogo Afonso", hu: "Diogo Afonso emlékmű", ro: "Monumentul lui Diogo Afonso", en: "Diogo Afonso Monument" },
-    coordinates: { lat: 16.885, lng: -24.994 },
+    coords: [-24.994, 16.885],
     description: {
       de: "Dieses Denkmal in Mindelo ehrt den Entdecker Diogo Afonso, der die westlichen Inseln des Archipels sichtete.",
       hu: "Ez a mindelói emlékmű Diogo Afonso felfedező előtt tiszteleg, aki a szigetcsoport nyugati szigeteit felfedezte.",
@@ -843,7 +843,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-matriz-picos-history-v2",
     type: "church",
     name: { de: "Igreja de São Salvador do Mundo", hu: "São Salvador do Mundo templom", ro: "Igreja de São Salvador do Mundo", en: "Church of São Salvador do Mundo" },
-    coordinates: { lat: 15.084, lng: -23.633 },
+    coords: [-23.633, 15.084],
     description: {
       de: "Diese historische Matrix-Kirche in Picos ist das religiöse Zentrum der Region Santiago Nord.",
       hu: "Ez a történelmi anyatemplom Picosban Santiago északi régiójának vallási központja.",
@@ -874,7 +874,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-lazareto-mindelo-history-v2",
     type: "ruins",
     name: { de: "Lazareto de Mindelo", hu: "Lazareto de Mindelo", ro: "Lazareto de Mindelo", en: "Mindelo Lazaretto" },
-    coordinates: { lat: 16.877, lng: -25.013 },
+    coords: [-25.013, 16.877],
     description: {
       de: "Das Lazareto diente im 19. Jahrhundert als Quarantänestation für Seeleute, um den Ausbruch von Seuchen zu verhindern.",
       hu: "A Lazareto a 19. században karanténállomásként szolgált a tengerészek számára a járványok megelőzésére.",
@@ -905,7 +905,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-seminario-sao-jose-sn-history-v2",
     type: "university",
     name: { de: "Seminário de São José", hu: "Szent József Szeminárium", ro: "Seminarul São José", en: "São José Seminary" },
-    coordinates: { lat: 16.618, lng: -24.298 },
+    coords: [-24.298, 16.618],
     description: {
       de: "Dieses ehemalige Priesterseminar in Ribeira Brava war einst das wichtigste Bildungszentrum Westafrikas.",
       hu: "Ez az egykori papnevelde Ribeira Bravában egykor Nyugat-Afrika legfontosabb oktatási központja volt.",
@@ -936,7 +936,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-ns-monte-brava-history-v2",
     type: "church",
     name: { de: "Igreja de Nossa Senhora do Monte", hu: "Nossa Senhora do Monte templom", ro: "Biserica Nossa Senhora do Monte", en: "Church of Our Lady of the Mount" },
-    coordinates: { lat: 14.867, lng: -24.697 },
+    coords: [-24.697, 14.867],
     description: {
       de: "Die Bergkirche auf der Insel Brava ist ein Wahrzeichen der Insel und Ziel vieler Prozessionen.",
       hu: "A Brava szigetén található hegyi templom a sziget egyik jelképe és számos körmenet célpontja.",
@@ -967,7 +967,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-farol-nho-martinho-history-v2",
     type: "tower",
     name: { de: "Farol de Ponta de Nhô Martinho", hu: "Farol de Ponta de Nhô Martinho", ro: "Farol de Ponta de Nhô Martinho", en: "Nhô Martinho Lighthouse" },
-    coordinates: { lat: 14.814, lng: -24.699 },
+    coords: [-24.699, 14.814],
     description: {
       de: "Dieser Leuchtturm am südlichsten Ende der Insel Brava ist der südlichste Punkt des gesamten Archipels.",
       hu: "Ez a Brava sziget legdélebbi végén található világítótorony a teljes szigetcsoport legdélebbi pontja.",
@@ -998,7 +998,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-pelourinho-sao-filipe-history-v2",
     type: "monument",
     name: { de: "Pelourinho de São Filipe", hu: "São Filipe-i szégyenoszlop", ro: "Pelourinho de São Filipe", en: "São Filipe Pillory" },
-    coordinates: { lat: 14.896, lng: -24.498 },
+    coords: [-24.498, 14.896],
     description: {
       de: "Der Pelourinho in São Filipe ist ein historisches Symbol der kolonialen Gerichtsbarkeit und Macht auf der Insel Fogo.",
       hu: "A São Filipe-i szégyenoszlop a gyarmati igazságszolgáltatás és hatalom történelmi jelképe Fogo szigetén.",
@@ -1029,7 +1029,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-cais-velho-sal-rei-history-v2",
     type: "port",
     name: { de: "Cais Velho de Sal Rei", hu: "Sal Rei régi mólója", ro: "Cais Velho din Sal Rei", en: "Old Pier of Sal Rei" },
-    coordinates: { lat: 16.178, lng: -22.919 },
+    coords: [-22.919, 16.178],
     description: {
       de: "Die Überreste des alten Piers von Sal Rei erinnern an die Blütezeit des Salzhandels auf Boa Vista.",
       hu: "A sal rei-i régi móló maradványai a Boa Vista-i sókereskedelem virágkorára emlékeztetnek.",
@@ -1060,7 +1060,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-edificio-alfandega-praia-history-v2",
     type: "landmark",
     name: { de: "Edifício da Alfândega", hu: "Régi vámház", ro: "Clădirea Vămii", en: "Old Customs Building" },
-    coordinates: { lat: 14.916, lng: -23.507 },
+    coords: [-23.507, 14.916],
     description: {
       de: "Das historische Zollgebäude von Praia war das administrative Zentrum für den Handel in der Hauptstadt.",
       hu: "Praia történelmi vámháza a fővárosi kereskedelem adminisztratív központja volt.",
@@ -1091,7 +1091,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-liceu-velho-mindelo-history-v2",
     type: "university",
     name: { de: "Liceu Velho", hu: "Régi Líceum", ro: "Liceul Vechi", en: "Old High School" },
-    coordinates: { lat: 16.886, lng: -24.988 },
+    coords: [-24.988, 16.886],
     description: {
       de: "Das Liceu Velho in Mindelo war die erste höhere Bildungseinrichtung Kap Verdes und prägte Generationen von Intellektuellen.",
       hu: "A mindelói Régi Líceum volt a Zöld-foki Köztársaság első középiskolája, amely értelmiségiek generációit nevelte ki.",
@@ -1122,7 +1122,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-ns-luz-maio-history-v2",
     type: "church",
     name: { de: "Igreja de Nossa Senhora da Luz", hu: "Nossa Senhora da Luz templom", ro: "Igreja de Nossa Senhora da Luz", en: "Church of Our Lady of Light" },
-    coordinates: { lat: 15.134, lng: -23.214 },
+    coords: [-23.214, 15.134],
     description: {
       de: "Die Hauptkirche von Vila do Maio ist bekannt für ihren prächtigen Altar und ihre zentrale Lage auf dem Marktplatz.",
       hu: "Vila do Maio főtemploma pompás oltáráról és a piactéren elfoglalt központi helyéről ismert.",
@@ -1153,7 +1153,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-fortim-sao-lourenco-history-v2",
     type: "ruins",
     name: { de: "Fortim de São Lourenço", hu: "Szent Lőrinc erőd", ro: "Fortim de São Lourenço", en: "Fortim of São Lourenço" },
-    coordinates: { lat: 16.173, lng: -22.918 },
+    coords: [-22.918, 16.173],
     description: {
       de: "Diese kleine Küstenfestung schützte den Hafen von Sal Rei vor Angriffen vom Meer aus.",
       hu: "Ez a kis tengerparti erődítmény Sal Rei kikötőjét védte a tenger felőli támadások ellen.",
@@ -1184,7 +1184,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-cemiterio-judeus-praia-history-v2",
     type: "landmark",
     name: { de: "Cemitério dos Judeus", hu: "Zsidó temető", ro: "Cimitirul Evreiesc", en: "Jewish Cemetery" },
-    coordinates: { lat: 14.925, lng: -23.515 },
+    coords: [-23.515, 14.925],
     description: {
       de: "Der jüdische Friedhof in Praia ist ein Zeugnis der Anwesenheit jüdischer Händler auf den Kapverden im 19. Jahrhundert.",
       hu: "A praiai zsidó temető a 19. századi zsidó kereskedők jelenlétéről tanúskodik a Zöld-foki-szigeteken.",
@@ -1215,7 +1215,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-solar-salgueiros-sn-history-v2",
     type: "palace",
     name: { de: "Solar dos Salgueiros", hu: "Salgueiros-kúria", ro: "Solar dos Salgueiros", en: "Solar of Salgueiros" },
-    coordinates: { lat: 16.619, lng: -24.296 },
+    coords: [-24.296, 16.619],
     description: {
       de: "Dieses herrschaftliche Haus in Ribeira Brava ist ein hervorragendes Beispiel für die koloniale Architektur der Oberschicht.",
       hu: "Ez a ribeira bravai úri lak a gyarmati felsőosztály építészetének kiváló példája.",
@@ -1246,7 +1246,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-capela-santo-antonio-cv-history-v2",
     type: "church",
     name: { de: "Capela de Santo António", hu: "Szent Antal-kápolna", ro: "Capela de Santo António", en: "Chapel of Saint Anthony" },
-    coordinates: { lat: 14.915, lng: -23.606 },
+    coords: [-23.606, 14.915],
     description: {
       de: "Diese kleine Kappelle in Cidade Velha ist einer der ältesten Orte der Marienverehrung auf dem Archipel.",
       hu: "Ez a kis kápolna Cidade Velhában a Mária-tisztelet egyik legrégebbi helyszíne a szigetcsoporton.",
@@ -1277,7 +1277,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-farol-ponta-sol-history-v2",
     type: "tower",
     name: { de: "Farol de Ponta do Sol", hu: "Farol de Ponta do Sol", ro: "Farol de Ponta do Sol", en: "Ponta do Sol Lighthouse" },
-    coordinates: { lat: 17.202, lng: -25.091 },
+    coords: [-25.091, 17.202],
     description: {
       de: "An der Nordspitze von Santo Antão gelegen, leitet dieser Turm seit über einem Jahrhundert Schiffe sicher um die Insel.",
       hu: "Santo Antão északi csücskén található, ez a torony több mint egy évszázada vezeti biztonságban a hajókat.",
@@ -1308,7 +1308,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-igreja-santo-antonio-picos-history-v2",
     type: "church",
     name: { de: "Igreja de Santo António de Pádua", hu: "Páduai Szent Antal-templom", ro: "Biserica Sfântul Anton de Padova", en: "Church of Saint Anthony of Padua" },
-    coordinates: { lat: 15.083, lng: -23.634 },
+    coords: [-23.634, 15.083],
     description: {
       de: "Diese Kirche in der Gemeinde São Salvador do Mundo ist ein zentraler Treffpunkt für die ländliche Bevölkerung.",
       hu: "Ez a templom São Salvador do Mundo községben a vidéki lakosság központi találkozóhelye.",
@@ -1339,7 +1339,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-memorial-13-janeiro-history-v2",
     type: "monument",
     name: { de: "Memorial de 13 de Janeiro", hu: "Január 13. emlékmű", ro: "Memorialul de 13 Ianuarie", en: "January 13th Memorial" },
-    coordinates: { lat: 14.922, lng: -23.518 },
+    coords: [-23.518, 14.922],
     description: {
       de: "Das Denkmal erinnert an den Tag der Demokratie und die ersten freien Wahlen auf den Kapverden im Jahr 1991.",
       hu: "Az emlékmű a demokrácia napjára és az első szabad zöld-foki választásokra emlékeztet (1991).",
@@ -1370,7 +1370,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-convento-sao-francisco-ruins-history-v2",
     type: "ruins",
     name: { de: "Ruínas do Convento de São Francisco", hu: "Szent Ferenc-kolostor romjai", ro: "Ruinele Conventului São Francisco", en: "Ruins of Saint Francis Convent" },
-    coordinates: { lat: 14.918, lng: -23.601 },
+    coords: [-23.601, 14.918],
     description: {
       de: "Diese Ruinen in Cidade Velha sind Überreste eines Klosters, das im 17. Jahrhundert ein bedeutendes religiöses Zentrum war.",
       hu: "Ezek a romok Cidade Velhában egy 17. századi kolostor maradványai, amely fontos vallási központ volt.",
@@ -1401,7 +1401,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-casa-governador-fogo-history-v2",
     type: "palace",
     name: { de: "Casa do Governador", hu: "Kormányzói ház", ro: "Casa Guvernatorului", en: "Governor's House" },
-    coordinates: { lat: 14.897, lng: -24.497 },
+    coords: [-24.497, 14.897],
     description: {
       de: "Die ehemalige Gouverneursresidenz in São Filipe spiegelt den kolonialen Glanz der Insel Fogo wider.",
       hu: "Az egykori kormányzói rezidencia São Filipében Fogo szigetének gyarmati pompáját tükrözi.",
@@ -1432,7 +1432,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-porto-preguica-history-v2",
     type: "port",
     name: { de: "Porto de Preguiça", hu: "Porto de Preguiça", ro: "Porto de Preguiça", en: "Port of Preguiça" },
-    coordinates: { lat: 16.567, lng: -24.275 },
+    coords: [-24.275, 16.567],
     description: {
       de: "Dieser Hafen auf São Nicolau war im 19. Jahrhundert einer der wichtigsten Umschlagplätze des Archipels.",
       hu: "Ez a São Nicolau-i kikötő a 19. században a szigetcsoport egyik legfontosabb kereskedelmi csomópontja volt.",
@@ -1463,7 +1463,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-busto-amilcar-cabral-sv-history-v2",
     type: "monument",
     name: { de: "Busto de Amílcar Cabral", hu: "Amílcar Cabral-mellszobor", ro: "Bustul lui Amílcar Cabral", en: "Amílcar Cabral Bust" },
-    coordinates: { lat: 16.887, lng: -24.989 },
+    coords: [-24.989, 16.887],
     description: {
       de: "Diese Büste im Zentrum von Mindelo ehrt den Vordenker der Unabhängigkeit Kap Verdes und Guinea-Bissaus.",
       hu: "Ez a mindelói mellszobor a Zöld-foki Köztársaság és Bissau-Guinea függetlenségi atyja előtt tiszteleg.",
@@ -1494,7 +1494,7 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     id: "capeverde-monumento-emigrante-history-v2",
     type: "monument",
     name: { de: "Monumento ao Emigrante", hu: "Emigránsok emlékműve", ro: "Monumentul Emigrantului", en: "Emigrant Monument" },
-    coordinates: { lat: 16.886, lng: -24.992 },
+    coords: [-24.992, 16.886],
     description: {
       de: "Dieses Denkmal in Mindelo würdigt die Millionen von Kapverdianern, die über die Meere ausgewandert sind.",
       hu: "Ez a mindelói emlékmű annak a több millió zöld-fokinak állít emléket, akik a tengeren túlra emigráltak.",

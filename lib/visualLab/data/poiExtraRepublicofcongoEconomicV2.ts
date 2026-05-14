@@ -5,7 +5,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-maya-maya-airport-economic-v2",
     type: "landmark",
     name: { de: "Flughafen Maya-Maya", hu: "Maya-Maya repülőtér", ro: "Aeroportul Maya-Maya", en: "Maya-Maya Airport" },
-    coordinates: { lat: -4.2517, lng: 15.2531 },
+    coords: [15.2531, -4.2517],
     description: {
       de: "Der internationale Flughafen von Brazzaville ist das wichtigste Luftverkehrsdrehkreuz des Landes. Er verbindet den Kongo mit Afrika und Europa.",
       hu: "Brazzaville nemzetközi repülőtere az ország legfontosabb légiközlekedési csomópontja. Összeköti Kongót Afrikával és Európával.",
@@ -24,7 +24,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-imboulou-dam-economic-v2",
     type: "landmark",
     name: { de: "Imboulou-Talsperre", hu: "Imboulou-gát", ro: "Barajul Imboulou", en: "Imboulou Dam" },
-    coordinates: { lat: -3.2355, lng: 16.1261 },
+    coords: [16.1261, -3.2355],
     description: {
       de: "Das Wasserkraftwerk am Fluss Léfini ist eine der größten Energiequellen des Landes. Es versorgt Brazzaville und umliegende Regionen mit Strom.",
       hu: "A Léfini-folyón található vízerőmű az ország egyik legnagyobb energiaforrása. Brazzaville-t és a környező régiókat látja el árammal.",
@@ -43,7 +43,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-nkayi-sugar-factory-economic-v2",
     type: "factory",
     name: { de: "Zuckerfabrik Nkayi", hu: "Nkayi cukorgyár", ro: "Fabrica de zahăr Nkayi", en: "Nkayi Sugar Factory" },
-    coordinates: { lat: -4.1833, lng: 13.2916 },
+    coords: [13.2916, -4.1833],
     description: {
       de: "Nkayi ist das Zentrum der Zuckerproduktion im Kongo. Die Fabrik von SARIS-Congo verarbeitet das Zuckerrohr der umliegenden Plantagen.",
       hu: "Nkayi a kongói cukortermelés központja. A SARIS-Congo gyára a környező ültetvényekről származó cukornádat dolgozza fel.",
@@ -62,7 +62,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-brazzaville-river-port-economic-v2",
     type: "port",
     name: { de: "Flusshafen von Brazzaville", hu: "Brazzaville folyami kikötője", ro: "Portul fluvial Brazzaville", en: "Brazzaville River Port" },
-    coordinates: { lat: -4.2825, lng: 15.3012 },
+    coords: [15.3012, -4.2825],
     description: {
       de: "Dieser Hafen am Kongo-Fluss ist der wichtigste logistische Knotenpunkt für den Handel mit dem Norden des Landes und der DR Kongo.",
       hu: "Ez a Kongó-folyó menti kikötő az északi kereskedelem és a Kongói Demokratikus Köztársaság felé irányuló áruforgalom fő csomópontja.",
@@ -81,7 +81,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-maloukou-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Maloukou", hu: "Maloukou különleges gazdasági övezet", ro: "Zona Economică Specială Maloukou", en: "Maloukou Special Economic Zone" },
-    coordinates: { lat: -4.0841, lng: 15.5322 },
+    coords: [15.5322, -4.0841],
     description: {
       de: "Dieses Industriegebiet nördlich von Brazzaville wurde geschaffen, um die Wirtschaft zu diversifizieren und neue Industrien anzusiedeln.",
       hu: "Ezt a Brazzaville-től északra fekvő ipari területet a gazdaság diverzifikálása és új iparágak betelepítése céljából hozták létre.",
@@ -100,7 +100,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-mindouli-copper-mines-economic-v2",
     type: "mine",
     name: { de: "Kupferminen von Mindouli", hu: "Mindouli rézbányák", ro: "Minele de cupru din Mindouli", en: "Mindouli Copper Mines" },
-    coordinates: { lat: -4.4333, lng: 14.3667 },
+    coords: [14.3667, -4.4333],
     description: {
       de: "Die Minen von Mindouli sind bekannt für ihre Kupfervorkommen. Sie liegen strategisch günstig an der Eisenbahnlinie nach Pointe-Noire.",
       hu: "Mindouli bányái a rézkészleteikről ismertek. Stratégiai helyen, a Pointe-Noire-ba vezető vasútvonal mentén találhatók.",
@@ -119,7 +119,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-ifo-ngombe-sawmill-economic-v2",
     type: "factory",
     name: { de: "Ngombe Sägewerk (IFO)", hu: "Ngombe fűrészüzem (IFO)", ro: "Gaterul Ngombe (IFO)", en: "Ngombe Sawmill (IFO)" },
-    coordinates: { lat: 1.6112, lng: 16.0521 },
+    coords: [16.0521, 1.6112],
     description: {
       de: "Dieses große Sägewerk in Ngombe gehört zur Industrie Forestière d'Ouesso. Es verarbeitet zertifiziertes Tropenholz für den Weltmarkt.",
       hu: "Ez a hatalmas ngombei fűrészüzem az Industrie Forestière d'Ouesso tulajdona. Minősített trópusi fát dolgoz fel a világpiacra.",
@@ -138,7 +138,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-zanaga-iron-project-economic-v2",
     type: "mine",
     name: { de: "Zanaga Eisenprojekt", hu: "Zanaga vasérc-projekt", ro: "Proiectul de fier Zanaga", en: "Zanaga Iron Project" },
-    coordinates: { lat: -2.8455, lng: 13.8422 },
+    coords: [13.8422, -2.8455],
     description: {
       de: "Das Zanaga-Projekt ist eines der größten unerschlossenen Eisenerzvorkommen der Welt. Es liegt im Chaillu-Massiv im Zentrum des Landes.",
       hu: "A Zanaga-projekt a világ egyik legnagyobb feltáratlan vasérckészlete. Az ország közepén, a Chaillu-masszívumban található.",
@@ -157,7 +157,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-moukoukoulou-power-plant-economic-v2",
     type: "landmark",
     name: { de: "Wasserkraftwerk Moukoukoulou", hu: "Moukoukoulou vízerőmű", ro: "Hidrocentrala Moukoukoulou", en: "Moukoukoulou Power Plant" },
-    coordinates: { lat: -3.8967, lng: 13.7544 },
+    coords: [13.7544, -3.8967],
     description: {
       de: "Dies ist das älteste große Wasserkraftwerk des Landes. Es liegt am Fluss Bouenza und versorgt den Süden des Kongo mit Energie.",
       hu: "Ez az ország legrégebbi nagy vízerőműve. A Bouenza-folyón található, és Kongó déli részét látja el energiával.",
@@ -176,7 +176,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-impfondo-river-port-economic-v2",
     type: "port",
     name: { de: "Flusshafen von Impfondo", hu: "Impfondo folyami kikötője", ro: "Portul fluvial Impfondo", en: "Impfondo River Port" },
-    coordinates: { lat: 1.6255, lng: 18.0612 },
+    coords: [18.0612, 1.6255],
     description: {
       de: "Impfondo ist ein vitaler Flusshafen im Nordosten am Ubangi-Fluss. Er ist der zentrale Versorgungspunkt für die gesamte Likouala-Region.",
       hu: "Impfondo létfontosságú folyami kikötő az északkeleti Ubangi-folyón. Az egész Likouala-régió központi ellátóhelye.",
@@ -195,7 +195,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-mossaka-fish-market-economic-v2",
     type: "town",
     name: { de: "Fischmarkt von Mossaka", hu: "Mossaka halpiaca", ro: "Piața de pește din Mossaka", en: "Mossaka Fish Market" },
-    coordinates: { lat: -1.2333, lng: 16.7912 },
+    coords: [16.7912, -1.2333],
     description: {
       de: "Mossaka ist das Zentrum des Fischhandels im Kongobecken. Die Stadt liegt strategisch günstig an der Mündung des Alima in den Kongo-Fluss.",
       hu: "Mossaka a halkereskedelem központja a Kongó-medencében. A város stratégiai helyen, az Alima és a Kongó találkozásánál fekszik.",
@@ -214,7 +214,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-oyo-alima-port-economic-v2",
     type: "port",
     name: { de: "Hafen von Oyo (Alima)", hu: "Oyo kikötője (Alima)", ro: "Portul Oyo (Alima)", en: "Port of Oyo (Alima)" },
-    coordinates: { lat: -1.1522, lng: 15.9641 },
+    coords: [15.9641, -1.1522],
     description: {
       de: "Oyo verfügt über einen modernen Binnenhafen am Fluss Alima. Er dient als wichtiges Handelszentrum für den zentralen Teil des Landes.",
       hu: "Oyo modern belvízi kikötővel rendelkezik az Alima-folyón. Az ország középső részének fontos kereskedelmi központjaként szolgál.",
@@ -233,7 +233,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-etoumbi-palm-oil-economic-v2",
     type: "factory",
     name: { de: "Palmölwerk Etoumbi", hu: "Etoumbi pálmaolaj-üzem", ro: "Fabrica de ulei de palmier Etoumbi", en: "Etoumbi Palm Oil Plant" },
-    coordinates: { lat: 0.0212, lng: 14.8833 },
+    coords: [14.8833, 0.0212],
     description: {
       de: "Das Werk in Etoumbi verarbeitet die Früchte der umliegenden Palmölplantagen. Es ist ein bedeutender Wirtschaftsfaktor im Westen des Cuvette-Departements.",
       hu: "Az etoumbi üzem a környékbeli pálmaültetvények gyümölcseit dolgozza fel. A Nyugat-Cuvette megye jelentős gazdasági tényezője.",
@@ -252,7 +252,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-pokola-timber-mill-economic-v2",
     type: "factory",
     name: { de: "Pokola Holzkomplex (CIB)", hu: "Pokola fafeldolgozó (CIB)", ro: "Complexul forestier Pokola (CIB)", en: "Pokola Timber Mill (CIB)" },
-    coordinates: { lat: 1.9144, lng: 16.5022 },
+    coords: [16.5022, 1.9144],
     description: {
       de: "Pokola ist ein Zentrum der nachhaltigen Forstwirtschaft durch die Firma CIB. Der Komplex verarbeitet Holz aus riesigen, zertifizierten Konzessionen.",
       hu: "Pokola a CIB cég révén a fenntartható erdőgazdálkodás központja. Az üzem hatalmas, minősített területekről származó fát dolgoz fel.",
@@ -271,7 +271,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-ouesso-trade-center-economic-v2",
     type: "town",
     name: { de: "Handelszentrum Ouesso", hu: "Ouesso kereskedelmi központ", ro: "Centrul comercial Ouesso", en: "Ouesso Trade Center" },
-    coordinates: { lat: 1.6111, lng: 16.0522 },
+    coords: [16.0522, 1.6111],
     description: {
       de: "Ouesso ist der wichtigste Handelsplatz im Norden des Landes. Die Stadt profitiert von der Anbindung an den Sangha-Fluss und den Grenzhandel.",
       hu: "Ouesso az ország északi részének legfontosabb kereskedelmi helyszíne. A város a Sangha-folyó és a határon túli kereskedelem révén fejlődik.",
@@ -290,7 +290,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-dolisie-transport-hub-economic-v2",
     type: "city",
     name: { de: "Verkehrsknotenpunkt Dolisie", hu: "Dolisie közlekedési csomópont", ro: "Nodul de transport Dolisie", en: "Dolisie Transport Hub" },
-    coordinates: { lat: -4.2021, lng: 12.6712 },
+    coords: [12.6712, -4.2021],
     description: {
       de: "Dolisie ist die drittgrößte Stadt und ein entscheidender Knotenpunkt zwischen Bahn und Straße. Sie verbindet Pointe-Noire mit Gabun.",
       hu: "Dolisie a harmadik legnagyobb város, és döntő fontosságú vasúti-közúti csomópont. Összeköti Pointe-Noire-t Gabonnal.",
@@ -309,7 +309,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-kayes-industrial-zone-economic-v2",
     type: "industry",
     name: { de: "Industriegebiet Kayes", hu: "Kayes ipari övezet", ro: "Zona industrială Kayes", en: "Kayes Industrial Zone" },
-    coordinates: { lat: -4.8212, lng: 11.9033 },
+    coords: [11.9033, -4.8212],
     description: {
       de: "Kayes liegt bei Pointe-Noire und beherbergt wichtige Erdöllagerstätten sowie logistische Basisstationen für die Offshore-Industrie.",
       hu: "Kayes Pointe-Noire közelében található, fontos kőolajtárolóknak és az offshore ipar logisztikai bázisainak ad otthont.",
@@ -328,7 +328,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-boko-agriculture-hub-economic-v2",
     type: "town",
     name: { de: "Agrarzentrum Boko", hu: "Boko mezőgazdasági központ", ro: "Hub-ul agricol Boko", en: "Boko Agriculture Hub" },
-    coordinates: { lat: -4.5022, lng: 14.6541 },
+    coords: [14.6541, -4.5022],
     description: {
       de: "Boko im Pool-Departement ist bekannt für seine fruchtbaren Böden. Es ist ein Hauptlieferant für Obst und Gemüse für den Markt in Brazzaville.",
       hu: "A Pool megyében található Boko termékeny talajáról ismert. Brazzaville piacainak egyik fő zöldség- és gyümölcsszállítója.",
@@ -347,7 +347,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-kinkala-trade-center-economic-v2",
     type: "town",
     name: { de: "Handelszentrum Kinkala", hu: "Kinkala kereskedelmi központ", ro: "Centrul comercial Kinkala", en: "Kinkala Trade Center" },
-    coordinates: { lat: -4.3621, lng: 14.7612 },
+    coords: [14.7612, -4.3621],
     description: {
       de: "Kinkala ist das administrative und wirtschaftliche Zentrum des Pool-Departements. Es dient als wichtiger Sammelpunkt für Agrarprodukte.",
       hu: "Kinkala a Pool megye közigazgatási és gazdasági központja. A mezőgazdasági termékek fontos gyűjtőhelyeként szolgál.",
@@ -366,7 +366,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-mvouti-mining-zone-economic-v2",
     type: "mine",
     name: { de: "Bergbauregion Mvouti", hu: "Mvouti bányászati övezet", ro: "Zona minieră Mvouti", en: "Mvouti Mining Zone" },
-    coordinates: { lat: -4.2411, lng: 12.3912 },
+    coords: [12.3912, -4.2411],
     description: {
       de: "Mvouti liegt im Mayombe-Wald und ist für den handwerklichen Goldbergbau sowie die Forstwirtschaft bekannt. Es ist reich an natürlichen Ressourcen.",
       hu: "Mvouti a Mayombe-erdőben található, kézműves aranybányászatáról és erdőgazdálkodásáról ismert. Természeti erőforrásokban gazdag.",
@@ -385,7 +385,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-loandjili-industry-park-economic-v2",
     type: "industry",
     name: { de: "Loandjili Gewerbegebiet", hu: "Loandjili ipari park", ro: "Parcul industrial Loandjili", en: "Loandjili Industry Park" },
-    coordinates: { lat: -4.7622, lng: 11.8741 },
+    coords: [11.8741, -4.7622],
     description: {
       de: "Das Gewerbegebiet in Loandjili ist Teil des Großraums Pointe-Noire. Hier haben sich zahlreiche Bau- und Logistikunternehmen niedergelassen.",
       hu: "A loandjili ipari park Pointe-Noire vonzáskörzetének része. Számos építőipari és logisztikai vállalat telepedett itt le.",
@@ -404,7 +404,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-tchiamba-nzassi-oil-economic-v2",
     type: "mine",
     name: { de: "Ölfeld Tchiamba-Nzassi", hu: "Tchiamba-Nzassi olajmező", ro: "Câmpul petrolifer Tchiamba-Nzassi", en: "Tchiamba-Nzassi Oil Field" },
-    coordinates: { lat: -4.9521, lng: 12.0212 },
+    coords: [12.0212, -4.9521],
     description: {
       de: "Tchiamba-Nzassi ist ein bedeutendes Onshore-Ölfeld im Süden des Landes. Es trägt wesentlich zur täglichen Ölproduktion des Kongo bei.",
       hu: "Tchiamba-Nzassi egy jelentős szárazföldi olajmező az ország déli részén. Jelentősen hozzájárul Kongó napi olajtermeléséhez.",
@@ -423,7 +423,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-yie-substation-economic-v2",
     type: "landmark",
     name: { de: "Umspannwerk Yie", hu: "Yie elektromos alállomás", ro: "Stația electrică Yie", en: "Yie Substation" },
-    coordinates: { lat: -4.1522, lng: 15.3511 },
+    coords: [15.3511, -4.1522],
     description: {
       de: "Das Umspannwerk Yie ist ein kritischer Knotenpunkt im nationalen Stromnetz. Es verteilt Energie von den Staudämmen in die Hauptstadt.",
       hu: "A yie-i alállomás az országos elektromos hálózat kritikus csomópontja. A gátaktól érkező energiát osztja el a fővárosban.",
@@ -442,7 +442,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-mossendjo-timber-zone-economic-v2",
     type: "town",
     name: { de: "Holzzentrum Mossendjo", hu: "Mossendjo fatermelési övezet", ro: "Zona forestieră Mossendjo", en: "Mossendjo Timber Zone" },
-    coordinates: { lat: -2.9511, lng: 12.7212 },
+    coords: [12.7212, -2.9511],
     description: {
       de: "Mossendjo ist eine wichtige Stadt für die Holzindustrie im Niari-Departement. Sie liegt inmitten dichter Tropenwälder und ist durch die Bahn verbunden.",
       hu: "Mossendjo a Niari megye fafeldolgozó iparának egyik fontos városa. Sűrű trópusi erdők veszik körül, és vasúti összeköttetése van.",
@@ -461,7 +461,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-makabana-railway-mining-economic-v2",
     type: "mine",
     name: { de: "Bergbaustation Makabana", hu: "Makabana bányászati állomás", ro: "Stația minieră Makabana", en: "Makabana Railway/Mining" },
-    coordinates: { lat: -3.4811, lng: 12.6222 },
+    coords: [12.6222, -3.4811],
     description: {
       de: "Makabana war historisch ein bedeutender Verladeort für Mangan. Die Stadt spielt eine wichtige Rolle in der Bergbau-Logistik des Niari-Tals.",
       hu: "Makabana történelmileg fontos mangánrakodó hely volt. A város jelentős szerepet játszik a Niari-völgy bányászati logisztikájában.",
@@ -480,7 +480,7 @@ export const republicofcongoEconomicV2: POI[] = [
     id: "republicofcongo-djiri-water-works-economic-v2",
     type: "landmark",
     name: { de: "Wasserwerk Djiri", hu: "Djiri vízmű", ro: "Uzina de apă Djiri", en: "Djiri Water Works" },
-    coordinates: { lat: -4.1812, lng: 15.3111 },
+    coords: [15.3111, -4.1812],
     description: {
       de: "Die Wasseraufbereitungsanlage Djiri ist die wichtigste Infrastruktur für die Trinkwasserversorgung der Hauptstadt Brazzaville.",
       hu: "A djiri víztisztító telep a főváros, Brazzaville ivóvízellátásának legfontosabb infrastruktúrája.",

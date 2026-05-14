@@ -1047,7 +1047,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-moroni-business-district-economic-v2",
     type: "landmark",
     name: { de: "Geschäftsviertel Moroni", hu: "Moroni üzleti negyed", ro: "Districtul de afaceri Moroni", en: "Moroni Business District" },
-    coordinates: { lat: -11.705, lng: 43.245 },
+    coords: [43.245, -11.705],
     description: {
       de: "Das zentrale Geschäftsviertel von Moroni beherbergt wichtige Banken, Ministerien und internationale Vertretungen der Komoren.",
       hu: "Moroni központi üzleti negyede a bankok, minisztériumok és nemzetközi képviseletek székhelye a Comore-szigeteken.",
@@ -1078,7 +1078,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-hahaya-logistics-hub-economic-v2",
     type: "industry",
     name: { de: "Logistikzentrum Hahaya", hu: "Hahaya logisztikai központ", ro: "Hub-ul logistic Hahaya", en: "Hahaya Logistics Hub" },
-    coordinates: { lat: -11.53, lng: 43.275 },
+    coords: [43.275, -11.53],
     description: {
       de: "Dieser Logistikknotenpunkt in der Nähe des internationalen Flughafens koordiniert den Luftfrachtversand und die Warenverteilung.",
       hu: "A nemzetközi repülőtér közelében található logisztikai csomópont koordinálja a légi szállítmányozást és az áruelosztást.",
@@ -1109,7 +1109,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-ouani-oil-refinery-economic-v2",
     type: "factory",
     name: { de: "Ölraffinerie Ouani", hu: "Ouani olajfinomító", ro: "Rafinăria de ulei Ouani", en: "Ouani Essential Oil Refinery" },
-    coordinates: { lat: -12.135, lng: 44.435 },
+    coords: [44.435, -12.135],
     description: {
       de: "In Ouani werden hochwertige ätherische Öle aus Ylang-Ylang und Gewürzen für den weltweiten Export industriell raffiniert.",
       hu: "Ouaniban kiváló minőségű illóolajokat finomítanak ylang-ylangból és fűszerekből a globális export számára.",
@@ -1140,7 +1140,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-fomboni-solar-farm-economic-v2",
     type: "industry",
     name: { de: "Solarpark Fomboni", hu: "Fomboni napelempark", ro: "Parcul solar Fomboni", en: "Fomboni Solar Energy Farm" },
-    coordinates: { lat: -12.285, lng: 43.745 },
+    coords: [43.745, -12.285],
     description: {
       de: "Diese Photovoltaikanlage bei Fomboni ist ein wichtiger Teil der Strategie für erneuerbare Energien auf der Insel Mohéli.",
       hu: "A Fomboni melletti fotovoltaikus telep fontos része a Mohéli-sziget megújuló energia-stratégiájának.",
@@ -1171,7 +1171,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-mutsamudu-trade-zone-economic-v2",
     type: "port",
     name: { de: "Handelszone Mutsamudu", hu: "Mutsamudu kereskedelmi zóna", ro: "Zona comercială Mutsamudu", en: "Mutsamudu Trade Zone" },
-    coordinates: { lat: -12.162, lng: 44.402 },
+    coords: [44.402, -12.162],
     description: {
       de: "Die Handelszone am Hafen von Mutsamudu ist das wirtschaftliche Herz von Anjouan und ein Knotenpunkt für den Regionalhandel.",
       hu: "A mutsamudui kikötő melletti kereskedelmi zóna Anjouan gazdasági szíve és a regionális kereskedelem csomópontja.",
@@ -1202,7 +1202,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-moroni-beverage-plant-economic-v2",
     type: "factory",
     name: { de: "Getränkewerk Moroni", hu: "Moroni italgyár", ro: "Fabrica de băuturi Moroni", en: "Moroni Beverage Production Plant" },
-    coordinates: { lat: -11.715, lng: 43.255 },
+    coords: [43.255, -11.715],
     description: {
       de: "In diesem modernen Industriewerk werden Erfrischungsgetränke und abgefülltes Wasser für den Inlandsmarkt der Komoren produziert.",
       hu: "Ebben a modern ipari üzemben üdítőitalokat és palackozott vizet gyártanak a Comore-szigetek belföldi piaca számára.",
@@ -1233,7 +1233,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-anjouan-clove-processing-economic-v2",
     type: "industry",
     name: { de: "Nelkenverarbeitungszentrum", hu: "Szegfűszeg feldolgozó központ", ro: "Centrul de procesare a cuișoarelor", en: "Anjouan Clove Processing Center" },
-    coordinates: { lat: -12.17, lng: 44.41 },
+    coords: [44.41, -12.17],
     description: {
       de: "Dieses Zentrum koordiniert das Trocknen, Sortieren und Verpacken von Nelken, einem der wichtigsten Exportgüter von Anjouan.",
       hu: "Ez a központ koordinálja a szegfűszeg szárítását, válogatását és csomagolását, amely Anjouan egyik fő exportterméke.",
@@ -1264,7 +1264,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-moheli-cold-storage-economic-v2",
     type: "industry",
     name: { de: "Kühlhaus Mohéli", hu: "Mohéli hűtőház", ro: "Depozitul frigorific Mohéli", en: "Mohéli Cold Storage Facility" },
-    coordinates: { lat: -12.28, lng: 43.75 },
+    coords: [43.75, -12.28],
     description: {
       de: "Das Kühlhaus in Fomboni sichert die Lagerung von Fisch und verderblichen Waren für die lokale Versorgung und den Handel.",
       hu: "A fomboni hűtőház biztosítja a halak és romlandó áruk tárolását a helyi ellátás és kereskedelem számára.",
@@ -1295,7 +1295,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-mitsamiouli-craft-center-economic-v2",
     type: "industry",
     name: { de: "Handwerkszentrum Mitsamiouli", hu: "Mitsamiouli kézműves központ", ro: "Centrul de artizanat Mitsamiouli", en: "Mitsamiouli Craft Production Center" },
-    coordinates: { lat: -11.385, lng: 43.325 },
+    coords: [43.325, -11.385],
     description: {
       de: "In diesem Zentrum werden traditionelle komorische Handwerksprodukte wie Kofia-Mützen und Holzschnitzereien für den Markt hergestellt.",
       hu: "Ebben a központban hagyományos comore-i kézműves termékeket, például kofia sapkákat és fafaragásokat készítenek a piacra.",
@@ -1326,7 +1326,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
     id: "comoros-anjouan-rice-mill-economic-v2",
     type: "factory",
     name: { de: "Reismühle Anjouan", hu: "Anjouan rizsmalom", ro: "Moara de orez Anjouan", en: "Anjouan Rice Milling Unit" },
-    coordinates: { lat: -12.185, lng: 44.425 },
+    coords: [44.425, -12.185],
     description: {
       de: "Die Reismühle auf Anjouan verarbeitet lokal angebauten Reis und trägt zur Selbstversorgung der Inselbevölkerung bei.",
       hu: "Az anjouani rizsmalom a helyben termesztett rizst dolgozza fel, hozzájárulva a sziget lakosságának önellátásához.",

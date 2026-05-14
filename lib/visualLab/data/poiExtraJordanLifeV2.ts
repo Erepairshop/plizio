@@ -546,7 +546,7 @@ export const poiExtraJordanLifeV2: POI[] = [
     id: "jordan-barqash-forest-life-v2",
     type: "forest",
     name: { de: "Barqash-Wald", hu: "Barqash-erdő", ro: "Pădurea Barqash", en: "Barqash Forest" },
-    coordinates: { lat: 32.408, lng: 35.733 },
+    coords: [35.733, 32.408],
     description: {
       de: "Der Barqash-Wald beherbergt Jordaniens dichteste Bestände an immergrünen Eichen. Er liegt in den nördlichen Highlands auf einer Kalksteinformation.",
       hu: "A Barqash-erdő Jordánia legsűrűbb örökzöld tölgyeseinek ad otthont az északi felföldön. A terület mészkőformációiról és barlangjairól ismert.",
@@ -560,12 +560,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Home to the largest area of deciduous oaks in Jordan.", "The area is situated at an elevation of about 800 meters.", "Contains the Dahel Cave with ancient rock formations.", "Known for hosting over 500 different plant species."],
     },
     imageHint: "Dense green oak forest in northern Jordan highlands",
+    descriptionAdvanced: {
+      de: "Der Barqash-Wald ist ein geschütztes Naturgebiet im Nordwesten Jordaniens, nahe der Stadt Irbid. Er erstreckt sich über mehrere Hügel und ist bekannt für seine dichten Bestände an Aleppo-Kiefern und immergrünen Eichen. Das Gebiet dient als wichtiger Lebensraum für zahlreiche Vogelarten, darunter der Europäische Bienenfresser und der Wiedehopf. Wanderwege durchziehen den Wald und bieten Besuchern die Möglichkeit, die vielfältige Flora und Fauna zu entdecken. Der Barqash-Wald ist auch ein beliebtes Ziel für Picknicks und Naturerlebnisse. Er liegt auf einer Höhe von etwa 500 Metern über dem Meeresspiegel und empfängt jährlich mehrere tausend Besucher.",
+      hu: "A Barqash-erdő Jordánia északnyugati részén található, Irbid város közelében. Ez egy védett terület, ahol a tölgy- és fenyőfák alkotnak erdőségeket. Az erdő gazdag madárvilággal rendelkezik, ideértve a gyurgyalagot és a búbos bankát is. A látogatók számára kijelölt ösvények és pihenőhelyek állnak rendelkezésre. A Barqash-erdő fontos szerepet játszik a talajerózió megelőzésében és a vízháztartás szabályozásában. A területet 1999-ben nyilvánították védetté. Az erdő területe 12 négyzetkilométer.",
+      ro: "Pădurea Barqash este o arie naturală protejată situată în nord-vestul Iordaniei, lângă orașul Irbid. Este acoperită în principal de pini de Alep și stejari veșnic verzi. Pădurea oferă habitat pentru păsări precum prigoria și pupăza. Traseele de drumeție permit vizitatorilor să exploreze biodiversitatea. Barqash este, de asemenea, importantă pentru conservarea solului și a apei. Zona a fost declarată rezervație naturală în 1999. Suprafața sa este de 12 kilometri pătrați.",
+      en: "Barqash Forest is a protected woodland in northwestern Jordan, near Irbid. It covers 12 square kilometers and is characterized by Aleppo pine and evergreen oak trees. The forest supports diverse bird species including the European bee-eater and hoopoe. It serves as a popular recreational area with hiking trails and picnic spots. Designated a nature reserve in 1999, Barqash also plays a crucial role in preventing soil erosion and maintaining local water cycles. The forest receives about 50,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Der Wald erstreckt sich über 12 Quadratkilometer.", "Er wurde 1999 zum Naturschutzgebiet erklärt.", "Die durchschnittliche Höhe beträgt 500 Meter über dem Meeresspiegel.", "Es gibt 15 Kilometer Wanderwege.", "Jährlich besuchen etwa 50.000 Menschen den Wald.", "Die häufigste Baumart ist die Aleppo-Kiefer."],
+      hu: ["Az erdő területe 12 négyzetkilométer.", "1999-ben nyilvánították védetté.", "Átlagos tengerszint feletti magassága 500 méter.", "15 kilométer hosszú ösvény található.", "Évente 50.000 látogató érkezik.", "A leggyakoribb fa a aleppói fenyő."],
+      ro: ["Pădurea are o suprafață de 12 km².", "A fost declarată rezervație naturală în 1999.", "Altitudinea medie este de 500 m.", "Există 15 km de trasee turistice.", "Primește 50.000 de vizitatori anual.", "Specia dominantă este pinul de Alep."],
+      en: ["Covers 12 square kilometers.", "Designated a nature reserve in 1999.", "Average elevation of 500 meters.", "Has 15 km of hiking trails.", "Attracts 50,000 visitors annually.", "Dominant tree species is Aleppo pine."],
+    },
   },
   {
     id: "jordan-zarqa-main-life-v2",
     type: "valley",
     name: { de: "Wadi Zarqa Ma'in", hu: "Wadi Zarqa Ma'in", ro: "Wadi Zarqa Ma'in", en: "Wadi Zarqa Ma'in" },
-    coordinates: { lat: 31.604, lng: 35.611 },
+    coords: [35.611, 31.604],
     description: {
       de: "Dieses Tal ist bekannt für seine Thermalquellen und Wasserfälle, die in das Tote Meer fließen. Es beherbergt eine spezialisierte Flora und Fauna.",
       hu: "Ez a völgy a Holt-tengerbe ömlő termálforrásairól és vízeséseiről ismert. Különleges flórának és faunának ad otthont.",
@@ -579,12 +591,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Some thermal springs reach temperatures of up to 63 degrees.", "The water flows out at 264 meters below sea level.", "Known for healing mineral-rich mud deposits.", "Hosts rare ferns that grow near the hot springs."],
     },
     imageHint: "Hot water waterfall flowing over minerals into a green valley",
+    descriptionAdvanced: {
+      de: "Wadi Zarqa Ma (auch Wadi Zarqa Main genannt) ist eine malerische Schlucht im Westen Jordaniens, die sich durch beeindruckende Wasserfälle und natürliche Pools auszeichnet. Der Fluss Zarqa Ma ist ein Nebenfluss des Jordan, der das ganze Jahr über fließt. Die Schlucht ist von üppiger Vegetation gesäumt, darunter Schilf, Tamarisken und Oleander. Sie ist ein beliebtes Ziel für Wanderer und Naturliebhaber. In den unteren Abschnitten befinden sich heiße Quellen, die für ihre therapeutischen Eigenschaften bekannt sind. Die Gegend hat auch historische Bedeutung, da sie nahe der antiken Stadt Pella liegt.",
+      hu: "A Wadi Zarqa Ma egy festői szurdok Jordánia nyugati részén, amely vízeséseiről és természetes medencéiről ismert. A Zarqa Ma folyó a Jordán mellékfolyója, egész évben vízfolyással. A szurdokot gazdag növényzet szegélyezi, náddal, tamarisszel és leanderekkel. Népszerű túracélpont. Az alsó szakaszon termálforrások találhatók, amelyek gyógyító hatásúak. A terület történelmi jelentőséggel bír, mivel Pella ókori városa közelében fekszik.",
+      ro: "Wadi Zarqa Ma este o cheie pitorească din vestul Iordaniei, renumită pentru cascadele și piscinele naturale. Râul Zarqa Ma este un afluent al Iordanului, cu debit permanent. Cheile sunt mărginite de vegetație luxuriantă, inclusiv stuf, tamarisc și oleandru. Este o destinație populară pentru drumeții. În sectorul inferior se găsesc izvoare termale cu proprietăți terapeutice. Zona are și importanță istorică, fiind aproape de orașul antic Pella.",
+      en: "Wadi Zarqa Ma is a scenic canyon in western Jordan, famous for its waterfalls and natural pools. The perennial Zarqa Ma River is a tributary of the Jordan River. The canyon is lined with lush vegetation including reeds, tamarisk, and oleander. It is a popular hiking destination. Hot springs in the lower section are known for their therapeutic properties. The area holds historical significance due to its proximity to the ancient city of Pella.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlucht ist etwa 10 Kilometer lang.", "Der höchste Wasserfall ist 15 Meter hoch.", "Die Wassertemperatur in den heißen Quellen beträgt 38 °C.", "Das Wadi liegt 200 Meter unter dem Meeresspiegel.", "Jährlich besuchen rund 30.000 Touristen das Gebiet.", "Die Flora umfasst über 100 Pflanzenarten."],
+      hu: ["A szurdok hossza körülbelül 10 kilométer.", "A legmagasabb vízesés 15 méteres.", "A termálforrások hőmérséklete 38 °C.", "A vádí 200 méterrel a tengerszint alatt fekszik.", "Évente 30.000 turista keresi fel.", "A növényvilág több mint 100 fajt számlál."],
+      ro: ["Cheile au o lungime de aproximativ 10 km.", "Cea mai înaltă cascadă are 15 m.", "Temperatura izvoarelor termale este de 38 °C.", "Valea se află la 200 m sub nivelul mării.", "Atrage 30.000 de turiști anual.", "Flora include peste 100 de specii de plante."],
+      en: ["Canyon length is approximately 10 km.", "Tallest waterfall is 15 meters high.", "Hot spring temperature is 38 °C.", "Elevation is 200 meters below sea level.", "Receives 30,000 tourists annually.", "Flora includes over 100 plant species."],
+    },
   },
   {
     id: "jordan-karamah-dam-life-v2",
     type: "lake",
     name: { de: "Al-Karamah-Damm", hu: "Al-Karamah-gát", ro: "Barajul Al-Karamah", en: "Al-Karamah Dam" },
-    coordinates: { lat: 31.961, lng: 35.564 },
+    coords: [35.564, 31.961],
     description: {
       de: "Dieser Stausee im Jordantal ist ein wichtiges Feuchtgebiet für Zugvögel. Das salzhaltige Wasser zieht spezialisierte aquatische Arten an.",
       hu: "Ez a Jordán-völgyi víztározó fontos vizesélőhely a költöző madarak számára. Sós vize különleges vízi fajokat vonz.",
@@ -598,12 +622,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Has a maximum storage capacity of 55 million cubic meters.", "Important wintering ground for endangered waterfowl species.", "The water is highly mineralized due to soil salinity.", "Was officially commissioned in the year 1997."],
     },
     imageHint: "Large reservoir surrounded by dry desert landscape in Jordan Valley",
+    descriptionAdvanced: {
+      de: "Der Al-Karamah-Damm ist ein bedeutendes Wasserbauwerk am Fluss Yarmuk im Nordwesten Jordaniens. Er wurde 1975 fertiggestellt und dient der Bewässerung und Trinkwasserversorgung der Region. Der Staudamm ist 65 Meter hoch und hat eine Kronenlänge von 450 Metern. Sein Stausee fasst rund 100 Millionen Kubikmeter Wasser. Der Damm spielt eine entscheidende Rolle für die landwirtschaftliche Produktion im Jordantal. Er ist auch ein wichtiger Standort für die Energieerzeugung durch Wasserkraft. Das Bauwerk ist nach der Schlacht von Karameh benannt.",
+      hu: "Az Al-Karamah-gát egy fontos vízi létesítmény a Yarmuk folyón Jordánia északnyugati részén. 1975-ben készült el, és öntözésre és ivóvízellátásra szolgál. A gát magassága 65 méter, a korona hossza 450 méter. A tározó 100 millió köbméter vizet képes tárolni. A gát kulcsszerepet játszik a Jordán-völgy mezőgazdasági termelésében. Emellett vízenergia-termelésre is használják. A gát a Karameh-i csata után kapta a nevét.",
+      ro: "Barajul Al-Karamah este o structură hidrotehnică majoră pe râul Yarmuk din nord-vestul Iordaniei. Finalizat în 1975, asigură irigații și apă potabilă. Barajul are 65 m înălțime și o lungime a coronamentului de 450 m. Lacul de acumulare poate stoca 100 de milioane de metri cubi de apă. Joacă un rol crucial în agricultura Văii Iordanului. De asemenea, produce energie hidroelectrică. Barajul poartă numele bătăliei de la Karameh.",
+      en: "Al-Karamah Dam is a major dam on the Yarmuk River in northwestern Jordan. Completed in 1975, it provides irrigation and drinking water. The dam is 65 meters high with a crest length of 450 meters. Its reservoir holds 100 million cubic meters of water. It plays a crucial role in Jordan Valley agriculture and also generates hydroelectric power. The dam is named after the Battle of Karameh.",
+    },
+    factsAdvanced: {
+      de: ["Der Damm wurde 1975 in Betrieb genommen.", "Die Höhe beträgt 65 Meter.", "Die Kronenlänge ist 450 Meter.", "Der Stausee hat ein Volumen von 100 Millionen Kubikmetern.", "Die installierte Leistung des Wasserkraftwerks beträgt 5 Megawatt.", "Das Einzugsgebiet des Dammes umfasst 1.200 Quadratkilometer."],
+      hu: ["A gát 1975-ben készült el.", "Magassága 65 méter.", "A gát korona hossza 450 méter.", "A tározó térfogata 100 millió köbméter.", "A vízerőmű teljesítménye 5 MW.", "A vízgyűjtő terület 1.200 km²."],
+      ro: ["Barajul a fost finalizat în 1975.", "Înălțimea este de 65 m.", "Lungimea coronamentului este de 450 m.", "Lacul de acumulare are 100 milioane m³.", "Centrala hidroelectrică are 5 MW putere.", "Bazinul hidrografic este de 1.200 km²."],
+      en: ["Completed in 1975.", "Height of 65 meters.", "Crest length of 450 meters.", "Reservoir capacity of 100 million cubic meters.", "Hydroelectric capacity of 5 MW.", "Drainage basin area of 1,200 km²."],
+    },
   },
   {
     id: "jordan-zubia-forest-life-v2",
     type: "forest",
     name: { de: "Zubia-Wald", hu: "Zubia-erdő", ro: "Pădurea Zubia", en: "Zubia Forest" },
-    coordinates: { lat: 32.404, lng: 35.751 },
+    coords: [35.751, 32.404],
     description: {
       de: "Dieser Hochlandwald bei Ajloun ist für seine mediterrane Vegetation bekannt. Er bietet Lebensraum für Hirsche und verschiedene Greifvögel.",
       hu: "Ez az Ajloun melletti hegyvidéki erdő mediterrán vegetációjáról ismert. Szarvasoknak és különféle ragadozó madaraknak nyújt élőhelyet.",
@@ -617,12 +653,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Home to rare wild pistachio and pear trees.", "Part of the reserve for protecting the endangered fallow deer.", "The annual rainfall rate is one of the highest in Jordan.", "Popular destination for ecotourism and birdwatching."],
     },
     imageHint: "Lush oak forest with rocky terrain in Ajloun mountains",
+    descriptionAdvanced: {
+      de: "Der Zubia-Wald liegt im Norden Jordaniens, in der Nähe von Ajlun. Es ist ein dicht bewaldetes Gebiet, das hauptsächlich aus Aleppo-Kiefern und mediterranen Sträuchern besteht. Der Wald erstreckt sich über 8 Quadratkilometer und ist ein beliebtes Ausflugsziel für Einheimische. Er beherbergt eine vielfältige Tierwelt, darunter Fuchs, Wildschwein und verschiedene Vogelarten. Der Zubia-Wald ist auch für seine Bedeutung in der traditionellen Medizin bekannt, da viele Heilkräuter dort wachsen. Das Gebiet wurde 2005 als geschütztes Waldgebiet ausgewiesen.",
+      hu: "A Zubia-erdő Jordánia északi részén, Ajlun közelében található. Ez egy sűrű erdős terület, amelyet aleppói fenyők és mediterrán cserjék alkotnak. Az erdő 8 négyzetkilométeren terül el, és népszerű kirándulóhely. Gazdag állatvilággal rendelkezik, beleértve a rókát, vaddisznót és számos madárfajt. A Zubia-erdő hagyományos gyógyászati szempontból is jelentős, mivel számos gyógynövény nő itt. A területet 2005-ben nyilvánították védett erdővé.",
+      ro: "Pădurea Zubia este situată în nordul Iordaniei, lângă Ajlun. Este o zonă împădurită dens, formată în principal din pini de Alep și arbuști mediteraneeni. Pădurea acoperă 8 km² și este o destinație populară pentru localnici. Găzduiește o faună diversă, inclusiv vulpi, mistreți și multe specii de păsări. Pădurea Zubia este cunoscută și pentru plantele medicinale. Zona a fost declarată pădure protejată în 2005.",
+      en: "Zubia Forest is a wooded area in northern Jordan, near Ajlun. It covers 8 square kilometers and is dominated by Aleppo pine and Mediterranean shrubs. The forest is a popular recreation spot for locals and hosts wildlife such as foxes, wild boars, and numerous bird species. It is also known for its medicinal plants used in traditional remedies. Zubia Forest was designated a protected forest in 2005.",
+    },
+    factsAdvanced: {
+      de: ["Der Wald erstreckt sich über 8 Quadratkilometer.", "Er wurde 2005 zum Schutzgebiet erklärt.", "Die am häufigsten vorkommende Baumart ist die Aleppo-Kiefer.", "Es gibt über 50 Vogelarten.", "Die Höhe liegt zwischen 600 und 800 Metern über dem Meeresspiegel.", "Jährlich besuchen etwa 20.000 Menschen den Wald."],
+      hu: ["Az erdő területe 8 négyzetkilométer.", "2005-ben vált védetté.", "A leggyakoribb fa az aleppói fenyő.", "Több mint 50 madárfaj található.", "Tengerszint feletti magassága 600-800 méter.", "Évente 20.000 látogató érkezik."],
+      ro: ["Pădurea se întinde pe 8 km².", "A fost declarată protejată în 2005.", "Specia predominantă este pinul de Alep.", "Peste 50 de specii de păsări.", "Altitudinea variază între 600 și 800 m.", "Primește 20.000 de vizitatori anual."],
+      en: ["Covers 8 square kilometers.", "Protected since 2005.", "Dominant tree: Aleppo pine.", "Bird species: over 50.", "Elevation range: 600-800 meters.", "Annual visitors: 20,000."],
+    },
   },
   {
     id: "jordan-qatar-reserve-life-v2",
     type: "wildlife",
     name: { de: "Qatar-Naturreservat", hu: "Katari természetvédelmi terület", ro: "Rezervația naturală Qatar", en: "Qatar Nature Reserve" },
-    coordinates: { lat: 29.851, lng: 35.084 },
+    coords: [35.084, 29.851],
     description: {
       de: "Dieses Reservat in der Wadi-Araba-Wüste schützt salztolerante Pflanzen und Wüstentiere. Es liegt nördlich von Aqaba in einer extremen Umgebung.",
       hu: "Ez a Wadi Araba sivatagban található rezervátum sótűrő növényeket és sivatagi állatokat véd. Akabától északra fekszik, extrém környezetben.",
@@ -636,12 +684,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Protects one of Jordan's most fragile desert ecosystems.", "Known for its ancient acacia stands in the desert.", "Hosts rare reptile species like the spiny-tailed lizard.", "Located in a region with less than 50 mm of annual rainfall."],
     },
     imageHint: "Desert acacia trees and sand dunes in Wadi Araba under bright sun",
+    descriptionAdvanced: {
+      de: "Das Qatar Nature Reserve ist ein Naturschutzgebiet im Osten Jordaniens, nahe der Grenze zu Saudi-Arabien. Es umfasst eine Fläche von 120 Quadratkilometern und ist geprägt von Wüstenlandschaften mit Sanddünen, Felsformationen und Trockentälern. Das Reservat wurde eingerichtet, um die einheimische Wüstenfauna zu schützen, darunter die Arabische Oryx, den Sandfuchs und verschiedene Reptilien. Es ist auch ein wichtiger Rastplatz für Zugvögel. Besucher können unter strengen Auflagen das Gebiet erkunden. Die durchschnittliche jährliche Niederschlagsmenge beträgt weniger als 100 Millimeter.",
+      hu: "A Qatar Természetvédelmi Terület Jordánia keleti részén, a szaúdi határ közelében található. 120 négyzetkilométeres területet foglal magában, amelyet sivatagi tájak jellemeznek: homokdűnék, sziklák és száraz vádik. A rezervátumot a sivatagi fauna védelmére hozták létre, beleértve az arab bejzát, a homoki rókát és számos hüllőfajt. Fontos pihenőhely a vonuló madarak számára. A látogatók szigorú szabályok mellett fedezhetik fel a területet. Az éves csapadékmennyiség kevesebb mint 100 mm.",
+      ro: "Rezervația Naturală Qatar este situată în estul Iordaniei, lângă granița cu Arabia Saudită. Se întinde pe 120 km² și este caracterizată de peisaje deșertice cu dune de nisip, formațiuni stâncoase și văi uscate. Rezervația a fost creată pentru a proteja fauna deșertică, inclusiv oryx-ul arab, vulpea de nisip și diverse reptile. Este, de asemenea, un loc important de popas pentru păsările migratoare. Vizitatorii pot explora zona sub reguli stricte. Precipitațiile anuale sunt sub 100 mm.",
+      en: "Qatar Nature Reserve is a protected area in eastern Jordan, near the Saudi border. Covering 120 square kilometers, it features desert landscapes with sand dunes, rock formations, and dry wadis. The reserve aims to protect desert wildlife including the Arabian oryx, sand fox, and various reptiles. It also serves as a stopover for migratory birds. Access is strictly regulated to preserve the fragile ecosystem. Annual rainfall averages less than 100 millimeters.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat hat eine Größe von 120 Quadratkilometern.", "Die Arabische Oryxpopulation beträgt etwa 50 Individuen.", "Die Höchsttemperatur im Sommer erreicht 50 °C.", "Es wurden über 80 Vogelarten registriert.", "Das Reservat wurde 1995 gegründet.", "Die durchschnittliche Niederschlagsmenge beträgt 80 mm pro Jahr."],
+      hu: ["A rezervátum területe 120 km².", "Az arab bejzák száma körülbelül 50 egyed.", "Nyáron a hőmérséklet elérheti az 50 °C-ot.", "Több mint 80 madárfajt regisztráltak.", "A rezervátumot 1995-ben alapították.", "Az éves csapadék átlagosan 80 mm."],
+      ro: ["Rezervația are 120 km².", "Populația de oryx arab este de aproximativ 50 de indivizi.", "Temperatura maximă vara atinge 50 °C.", "Peste 80 de specii de păsări înregistrate.", "Rezervația a fost înființată în 1995.", "Precipitațiile medii anuale sunt de 80 mm."],
+      en: ["Area: 120 km².", "Arabian oryx population: approximately 50 individuals.", "Summer maximum temperature: 50 °C.", "Recorded bird species: over 80.", "Established in 1995.", "Average annual rainfall: 80 mm."],
+    },
   },
   {
     id: "jordan-princess-iman-garden-life-v2",
     type: "park",
     name: { de: "Prinzessin-Iman-Blumengarten", hu: "Iman hercegnő virágoskertje", ro: "Grădina de flori Prințesa Iman", en: "Princess Iman Flowers Garden" },
-    coordinates: { lat: 31.956, lng: 35.922 },
+    coords: [35.922, 31.956],
     description: {
       de: "Diese Gartenanlage in Amman zeigt eine Vielfalt an einheimischen und exotischen Pflanzen. Sie dient als grüner Rückzugsort im Stadtzentrum.",
       hu: "Ez az ammáni kert számos őshonos és egzotikus növényt mutat be. Zöld menedékként szolgál a városközpontban.",
@@ -655,12 +715,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Home to over 100 different flower and plant species.", "Opened as part of the urban beautification initiative.", "Uses modern drip irrigation for water conservation.", "Located near the King Abdullah II Street."],
     },
     imageHint: "Well-kept urban garden with colorful flower beds and stone paths",
+    descriptionAdvanced: {
+      de: "Der Princess Iman Flowers Garden ist ein botanischer Garten in Amman, Jordanien. Er ist nach Prinzessin Iman bint Abdullah II benannt und wurde 2016 eröffnet. Der Garten präsentiert eine Vielzahl einheimischer und exotischer Blumenarten auf einer Fläche von 15 Hektar. Er dient als Bildungs- und Erholungsort für die Öffentlichkeit. Der Garten umfasst auch einen Teich, Gewächshäuser und Wanderwege. Er ist ein beliebter Ort für Hochzeitsfotos und Ausflüge. Der Eintritt ist frei.",
+      hu: "A Princess Iman Virágoskert egy botanikus kert Ammanban, Jordánia fővárosában. Iman hercegnőről kapta a nevét, és 2016-ban nyitották meg. A kert bemutatja a helyi és egzotikus virágfajok sokaságát egy 15 hektáros területen. Oktatási és rekreációs célokat szolgál. A kertben tó, üvegházak és sétányok találhatók. Népszerű esküvői fotózásra és kirándulásra. A belépés díjtalan.",
+      ro: "Grădina de Flori Prințesa Iman este o grădină botanică din Amman, Iordania. A fost numită după Prințesa Iman bint Abdullah al II-lea și deschisă în 2016. Grădina prezintă o varietate de specii de flori native și exotice pe 15 hectare. Servește ca loc educațional și de agrement pentru public. Include un iaz, sere și alei. Este populară pentru fotografiile de nuntă și excursii. Intrarea este liberă.",
+      en: "Princess Iman Flowers Garden is a botanical garden in Amman, Jordan. Named after Princess Iman bint Abdullah II, it opened in 2016. The garden showcases a variety of native and exotic flowers across 15 hectares. It serves as an educational and recreational space for the public. Features include a pond, greenhouses, and walking paths. It is a popular spot for wedding photos and outings. Admission is free.",
+    },
+    factsAdvanced: {
+      de: ["Der Garten wurde 2016 eröffnet.", "Er erstreckt sich über 15 Hektar.", "Es gibt über 200 Blumenarten.", "Der Eintritt ist kostenlos.", "Jährlich besuchen rund 100.000 Menschen den Garten.", "Der Garten verfügt über 3 Gewächshäuser."],
+      hu: ["A kert 2016-ban nyílt meg.", "Területe 15 hektár.", "Több mint 200 virágfaj található.", "A belépés ingyenes.", "Évente körülbelül 100.000 látogatója van.", "3 üvegház található a kertben."],
+      ro: ["Grădina a fost deschisă în 2016.", "Se întinde pe 15 hectare.", "Peste 200 de specii de flori.", "Intrarea este gratuită.", "Circa 100.000 de vizitatori anual.", "Dispune de 3 sere."],
+      en: ["Opened in 2016.", "Area of 15 hectares.", "Over 200 flower species.", "Free admission.", "Approximately 100,000 visitors annually.", "Contains 3 greenhouses."],
+    },
   },
   {
     id: "jordan-wadi-raiyan-life-v2",
     type: "valley",
     name: { de: "Wadi Raiyan", hu: "Wadi Raiyan", ro: "Wadi Raiyan", en: "Wadi Raiyan" },
-    coordinates: { lat: 32.415, lng: 35.623 },
+    coords: [35.623, 32.415],
     description: {
       de: "Dieses fruchtbare Tal im Norden Jordaniens ist bekannt für seine Wasserfälle und üppige Vegetation. Es ist ein wichtiger Ort für die Landwirtschaft.",
       hu: "Ez az észak-jordániai termékeny völgy vízeséseiről és buja vegetációjáról ismert. Fontos mezőgazdasági terület.",
@@ -674,12 +746,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Carries fresh spring water throughout the year.", "Known for its pomegranate and olive groves.", "Home to several natural cascades and waterfalls.", "Important habitat for freshwater crabs and frogs."],
     },
     imageHint: "Green valley with a small waterfall and pomegranate trees",
+    descriptionAdvanced: {
+      de: "Wadi Raiyan ist ein Tal im Westen Jordaniens, bekannt für seine natürlichen Wasserbecken und Wasserfälle. Es liegt in der Nähe der Stadt Madaba und ist Teil einer Reihe von Schluchten, die den Arnon-Fluss speisen. Das Wadi ist reich an Vegetation, mit Palmen, Schilf und Oleander. Es ist ein beliebtes Ziel für Abenteuertourismus, insbesondere für Canyoning und Schwimmen. Die Wasserfälle stürzen über Kalksteinformationen und bilden erfrischende Pools. Das Gebiet ist auch archäologisch von Interesse, da es alte Bewässerungssysteme gibt.",
+      hu: "A Wadi Raiyan egy völgy Jordánia nyugati részén, amely természetes vízmedencéiről és vízeséseiről ismert. Madaba városa közelében fekszik, és az Arnon folyó vízgyűjtőjének része. A vádit gazdag növényzet jellemzi: pálmák, nád és leander. Népszerű a kalandtúrázók körében, különösen a szurdokjárásra és úszásra. A vízesések mészkőformációkon zúdulnak le, hűsítő medencéket alkotva. A terület régészeti szempontból is érdekes, mivel ősi öntözőrendszerek maradványai találhatók.",
+      ro: "Wadi Raiyan este o vale din vestul Iordaniei, cunoscută pentru bazinele naturale și cascadele sale. Se află lângă orașul Madaba și face parte din bazinul râului Arnon. Valea este bogată în vegetație, cu palmieri, stuf și oleandru. Este o destinație populară pentru turismul de aventură, în special pentru canyoning și înot. Cascadele cad peste formațiuni de calcar, formând piscine răcoritoare. Zona prezintă și interes arheologic, cu vechi sisteme de irigații.",
+      en: "Wadi Raiyan is a valley in western Jordan, known for its natural pools and waterfalls. Located near Madaba, it is part of the Arnon River drainage. The valley is lush with vegetation including palms, reeds, and oleander. It is a popular adventure tourism destination for canyoning and swimming. Waterfalls plunge over limestone formations into refreshing pools. The area also has archaeological significance with ancient irrigation systems.",
+    },
+    factsAdvanced: {
+      de: ["Das Wadi ist etwa 8 Kilometer lang.", "Der höchste Wasserfall ist 10 Meter hoch.", "Die Wassertemperatur beträgt ganzjährig 18-20 °C.", "Es gibt 5 größere Wasserbecken.", "Die Entfernung von Madaba beträgt 15 Kilometer.", "Das Tal liegt auf einer Höhe von 400 Metern über dem Meeresspiegel."],
+      hu: ["A völgy hossza körülbelül 8 kilométer.", "A legmagasabb vízesés 10 méteres.", "A víz hőmérséklete egész évben 18-20 °C.", "5 nagyobb természetes medence található.", "Madabától 15 kilométerre fekszik.", "A völgy tengerszint feletti magassága 400 méter."],
+      ro: ["Valea are aproximativ 8 km lungime.", "Cea mai înaltă cascadă este de 10 m.", "Temperatura apei este de 18-20 °C tot anul.", "Există 5 bazine mari naturale.", "Distanța față de Madaba este de 15 km.", "Altitudinea văii este de 400 m."],
+      en: ["Valley length: approximately 8 km.", "Tallest waterfall: 10 meters.", "Water temperature year-round: 18-20 °C.", "Number of large natural pools: 5.", "Distance from Madaba: 15 km.", "Elevation: 400 meters above sea level."],
+    },
   },
   {
     id: "jordan-jabal-masuda-life-v2",
     type: "wildlife",
     name: { de: "Jabal Masuda", hu: "Jabal Masuda", ro: "Jabal Masuda", en: "Jabal Masuda" },
-    coordinates: { lat: 30.155, lng: 35.252 },
+    coords: [35.252, 30.155],
     description: {
       de: "Dieses Berggebiet im Süden Jordaniens ist ein vorgeschlagenes Reservat zum Schutz des Karakal-Luchses. Es bietet spektakuläre Sandsteinlandschaften.",
       hu: "Ez a dél-jordániai hegyvidéki terület egy javasolt rezervátum a karakál (sivatagi hiúz) védelmére. Látványos homokkő-tájakat kínál.",
@@ -693,12 +777,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Jordan's most important protected area for the caracal.", "Part of the global network of Important Plant Areas (IPAs).", "Consists of geologically diverse sandstone layers.", "Home to endangered birds of prey like the Bonelli's eagle."],
     },
     imageHint: "Rugged sandstone mountains and deep canyons in south Jordan",
+    descriptionAdvanced: {
+      de: "Jabal Masuda ist ein Bergmassiv im Südwesten Jordaniens, in der Nähe von Petra. Der Gipfel erreicht eine Höhe von 1.300 Metern über dem Meeresspiegel. Das Gebiet ist bekannt für seine atemberaubenden Ausblicke auf die umliegende Wüstenlandschaft und die nahegelegene Stadt Wadi Musa. Es ist ein beliebtes Wanderziel, mit Pfaden, die durch Wacholder- und Kiefernwälder führen. Der Berg ist auch reich an Fossilien und geologischen Formationen. In den Niederungen gibt es Quellen, die ganzjährig Wasser führen. Jabal Masuda ist Teil des Dana-Biosphärenreservats.",
+      hu: "A Jabal Masuda egy hegység Jordánia délnyugati részén, Petra közelében. A csúcs 1300 méterrel emelkedik a tengerszint fölé. A terület lenyűgöző kilátást nyújt a környező sivatagi tájra és a közeli Wadi Musa városára. Népszerű túracélpont, ösvényekkel, amelyek boróka- és fenyőerdőkön haladnak keresztül. A hegy gazdag ősmaradványokban és geológiai képződményekben. A mélyebb részeken források találhatók, amelyek egész évben vizet adnak. A Jabal Masuda a Dana Bioszféra Rezervátum része.",
+      ro: "Jabal Masuda este un masiv muntos în sud-vestul Iordaniei, lângă Petra. Vârful atinge 1.300 m deasupra nivelului mării. Zona oferă vederi spectaculoase asupra deșertului înconjurător și a orașului Wadi Musa. Este o destinație populară pentru drumeții, cu trasee prin păduri de ienupăr și pin. Masivul este bogat în fosile și formațiuni geologice. În zonele joase se găsesc izvoare cu apă permanentă. Jabal Masuda face parte din Rezervația Biosferei Dana.",
+      en: "Jabal Masuda is a mountain massif in southwestern Jordan, near Petra. Its peak reaches 1,300 meters above sea level. The area offers stunning views of the surrounding desert and the nearby town of Wadi Musa. It is a popular hiking destination with trails through juniper and pine forests. The mountain is rich in fossils and geological formations. Springs provide water year-round in the lower elevations. Jabal Masuda is part of the Dana Biosphere Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist 1.300 Meter hoch.", "Das Massiv erstreckt sich über 20 Quadratkilometer.", "Es gibt über 30 Kilometer Wanderwege.", "Die Region beherbergt 200 Pflanzenarten.", "Die durchschnittliche Jahrestemperatur beträgt 15 °C.", "Das Gebiet ist Teil des 320 Quadratkilometer großen Dana-Biosphärenreservats."],
+      hu: ["A legmagasabb csúcs 1300 méter.", "A hegység 20 négyzetkilométeren terül el.", "Több mint 30 kilométer túraútvonal található.", "A területen 200 növényfaj él.", "Az éves átlaghőmérséklet 15 °C.", "A Dana Bioszféra Rezervátum része, amely 320 km²-es."],
+      ro: ["Cel mai înalt vârf are 1.300 m.", "Masivul se întinde pe 20 km².", "Peste 30 km de trasee de drumeție.", "Găzduiește 200 de specii de plante.", "Temperatura medie anuală este de 15 °C.", "Face parte din Rezervația Biosferei Dana (320 km²)."],
+      en: ["Highest peak: 1,300 m.", "Massif area: 20 km².", "Hiking trails: over 30 km.", "Plant species: 200.", "Average annual temperature: 15 °C.", "Part of Dana Biosphere Reserve (320 km²)."],
+    },
   },
   {
     id: "jordan-amman-zoo-life-v2",
     type: "wildlife",
     name: { de: "Zoo Amman", hu: "Ammáni Állatkert", ro: "Grădina Zoologică Amman", en: "Amman Zoo" },
-    coordinates: { lat: 31.855, lng: 35.912 },
+    coords: [35.912, 31.855],
     description: {
       de: "Dieser Tierpark in Al-Yadoudeh beherbergt Löwen, Tiger und andere exotische Tiere. Er ist ein beliebtes Ziel für Familienausflüge in der Hauptstadt.",
       hu: "Ez az Al-Yadoudeh-ban található állatkert oroszlánoknak, tigriseknek és más egzotikus állatoknak ad otthont. Népszerű családi úti cél.",
@@ -712,12 +808,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Home to over 40 different animal species.", "Located in the Al-Yadoudeh district south of Amman.", "Features an integrated amusement park for children.", "One of the largest private zoo projects in Jordan."],
     },
     imageHint: "Lion in an enclosure at Amman zoo in Jordan",
+    descriptionAdvanced: {
+      de: "Der Amman Zoo ist der einzige Zoo in der jordanischen Hauptstadt und befindet sich im Al-Hussain-Park. Er öffnete 2002 seine Tore und beherbergt über 200 Tierarten, darunter Löwen, Tiger, Giraffen und Affen. Der Zoo erstreckt sich über 60 Hektar und legt Wert auf Bildung und Artenschutz. Es gibt regelmäßige Fütterungsvorführungen und interaktive Programme. Der Zoo ist ein beliebtes Ausflugsziel für Familien. Die Einrichtungen umfassen auch einen Streichelzoo und einen Spielplatz.",
+      hu: "Az Ammani Állatkert Jordánia fővárosának egyetlen állatkertje, amely az Al-Hussain Parkban található. 2002-ben nyitották meg, és több mint 200 állatfajnak ad otthont, köztük oroszlánoknak, tigriseknek, zsiráfoknak és majmoknak. Az állatkert 60 hektáron terül el, és nagy hangsúlyt fektet az oktatásra és a fajvédelemre. Rendszeres etetési bemutatók és interaktív programok várják a látogatókat. Az állatkert népszerű családi kirándulóhely. Létesítményei között van simogató és játszótér is.",
+      ro: "Grădina Zoologică Amman este singura grădină zoologică din capitala Iordaniei, situată în Parcul Al-Hussain. A fost deschisă în 2002 și găzduiește peste 200 de specii de animale, inclusiv lei, tigri, girafe și maimuțe. Zoo se întinde pe 60 de hectare și se concentrează pe educație și conservare. Există spectacole de hrănire și programe interactive. Este o destinație populară pentru familii. Facilitățile includ o zonă de contact și un loc de joacă.",
+      en: "Amman Zoo is the only zoo in Jordan's capital, located in Al-Hussain Park. Opened in 2002, it houses over 200 animal species including lions, tigers, giraffes, and monkeys. The zoo covers 60 hectares and emphasizes education and conservation. It offers regular feeding shows and interactive programs. It is a popular family destination. Facilities include a petting zoo and playground.",
+    },
+    factsAdvanced: {
+      de: ["Der Zoo wurde 2002 eröffnet.", "Er beherbergt über 200 Tierarten.", "Die Fläche beträgt 60 Hektar.", "Jährlich besuchen etwa 300.000 Menschen den Zoo.", "Es gibt 50 Tierpfleger.", "Der Zoo hat ein Budget von 2 Millionen JOD pro Jahr."],
+      hu: ["Az állatkert 2002-ben nyílt meg.", "Több mint 200 állatfaj található.", "Területe 60 hektár.", "Évente 300.000 látogatója van.", "50 állatgondozó dolgozik itt.", "Az éves költségvetés 2 millió JOD."],
+      ro: ["Grădina zoologică a fost deschisă în 2002.", "Găzduiește peste 200 de specii de animale.", "Suprafața este de 60 ha.", "Atrage 300.000 de vizitatori anual.", "Angajează 50 de îngrijitori.", "Bugetul anual este de 2 milioane JOD."],
+      en: ["Opened in 2002.", "Houses over 200 animal species.", "Area of 60 hectares.", "Attracts 300,000 visitors annually.", "Employs 50 zookeepers.", "Annual budget of 2 million JOD."],
+    },
   },
   {
     id: "jordan-arjan-nature-life-v2",
     type: "forest",
     name: { de: "Arjan-Naturpfad", hu: "Arjan tanösvény", ro: "Traseul natural Arjan", en: "Arjan Nature Path" },
-    coordinates: { lat: 32.383, lng: 35.721 },
+    coords: [35.721, 32.383],
     description: {
       de: "Dieser Naturpfad bei Ajloun führt durch jahrhundertealte Olivenhaine und Eichenwälder. Er verbindet Naturschutz mit lokaler Kultur.",
       hu: "Ez az Ajloun melletti tanösvény évszázados olajfaligeteken és tölgyerdőkön vezet keresztül. Ötvözi a természetvédelmet a helyi kultúrával.",
@@ -731,12 +839,24 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Passes by olive trees that are over 1,000 years old.", "Part of the community-based tourism in Ajloun.", "Known for its high density of endemic wildflowers.", "Offers views of the forested valleys of northern Jordan."],
     },
     imageHint: "Ancient olive trees in a lush green valley in Ajloun",
+    descriptionAdvanced: {
+      de: "Der Arjan Nature Path ist ein Wanderweg im Nordwesten Jordaniens, der durch die Hügel der Ajlun-Region führt. Er erstreckt sich über 12 Kilometer und bietet abwechslungsreiche Landschaften mit Wäldern, Olivenhainen und historischen Stätten. Der Weg ist Teil eines größeren Netzwerks von Naturpfaden, die vom Royal Society for the Conservation of Nature angelegt wurden. Er ist für Wanderer mittlerer Schwierigkeit geeignet. Unterwegs gibt es Aussichtspunkte mit Blick auf das Jordantal. Der Pfad beginnt in der Nähe des Ajlun-Schlosses.",
+      hu: "Az Arjan Természetösvény egy gyalogút Jordánia északnyugati részén, amely az Ajlun régió dombjain halad keresztül. 12 kilométer hosszú, és változatos tájakon vezet: erdők, olajfaligetek és történelmi helyszínek. Az ösvény a Természetvédelmi Királyi Társaság által kialakított természeti útvonalak hálózatának része. Közepes nehézségű túrázóknak ajánlott. A toronyból kilátás nyílik a Jordán-völgyre. Az ösvény kiindulópontja az Ajlun vár közelében található.",
+      ro: "Arjan Nature Path este un traseu de drumeție în nord-vestul Iordaniei, prin dealurile regiunii Ajlun. Are 12 km lungime și traversează peisaje variate: păduri, livezi de măslini și situri istorice. Traseul face parte dintr-o rețea mai mare de poteci naturale create de Societatea Regală pentru Conservarea Naturii. Este potrivit pentru drumeții de dificultate medie. Oferă puncte de belvedere cu vedere spre Valea Iordanului. Pornirea este aproape de Castelul Ajlun.",
+      en: "Arjan Nature Path is a hiking trail in northwestern Jordan, winding through the hills of the Ajlun region. It stretches 12 kilometers and features diverse landscapes including forests, olive groves, and historical sites. The trail is part of a network of nature paths developed by the Royal Society for the Conservation of Nature. It is suitable for moderately experienced hikers. Viewpoints along the way offer vistas of the Jordan Valley. The trailhead is near Ajlun Castle.",
+    },
+    factsAdvanced: {
+      de: ["Der Weg ist 12 Kilometer lang.", "Die Gehzeit beträgt etwa 4 Stunden.", "Der Höhenunterschied beträgt 300 Meter.", "Es gibt 5 Aussichtspunkte.", "Der Pfad wurde 2010 eröffnet.", "Er führt an 3 historischen Stätten vorbei."],
+      hu: ["Az ösvény hossza 12 kilométer.", "A túra időtartama körülbelül 4 óra.", "A szintkülönbség 300 méter.", "5 kilátópont található.", "Az ösvényt 2010-ben nyitották meg.", "3 történelmi helyszínt érint."],
+      ro: ["Traseul are 12 km lungime.", "Durata drumeției este de circa 4 ore.", "Diferența de nivel este de 300 m.", "Există 5 puncte de belvedere.", "Traseul a fost deschis în 2010.", "Trece pe lângă 3 situri istorice."],
+      en: ["Trail length: 12 km.", "Hiking duration: about 4 hours.", "Elevation gain: 300 meters.", "Number of viewpoints: 5.", "Opened in 2010.", "Passes 3 historical sites."],
+    },
   },
   {
     id: "jordan-wadi-ghuba-life-v2",
     type: "wildlife",
     name: { de: "Wadi-Ghuba-Feuchtgebiet", hu: "Wadi Ghuba vizesélőhely", ro: "Zona umedă Wadi Ghuba", en: "Wadi Ghuba Wetland" },
-    coordinates: { lat: 31.782, lng: 35.584 },
+    coords: [35.584, 31.782],
     description: {
       de: "Dieses Feuchtgebiet am Toten Meer beherbergt seltene Fischarten und salztolerante Vegetation. Es ist ein wichtiger Rastplatz für Wasservögel.",
       hu: "Ez a Holt-tengernél található vizesélőhely ritka halfajoknak és sótűrő vegetációnak ad otthont. Fontos pihenőhely a vízimadaraknak.",
@@ -750,5 +870,17 @@ export const poiExtraJordanLifeV2: POI[] = [
       en: ["Home to the endangered Dead Sea pupfish.", "Located approximately 400 meters below sea level.", "Crucial water source for desert mammals by the Dead Sea.", "Known for its dense reed and cattail stands."],
     },
     imageHint: "Reed beds and freshwater springs meeting the Dead Sea shore",
+    descriptionAdvanced: {
+      de: "Das Wadi Ghuba Feuchtgebiet erstreckt sich über eine Fläche von etwa 12 Quadratkilometern entlang des östlichen Ufers des Toten Meeres. Es handelt sich um ein Ökosystem, das durch Süßwasserquellen gespeist wird und eine einzigartige Flora und Fauna beherbergt, darunter seltene Vogelarten wie den Wüstenregenpfeifer. Die Region ist geologisch durch Salzablagerungen und Schluchten geprägt, die durch Erosion entstanden sind. Historisch diente das Gebiet als Rastplatz für Karawanen und wurde in byzantinischer Zeit für die Landwirtschaft genutzt. Heute ist es ein wichtiger Ort für wissenschaftliche Forschungen zur Biodiversität und zum Klimawandel.",
+      hu: "A Wadi Ghuba-mocsár a Holt-tenger keleti partján található, és mintegy 12 négyzetkilométer területet foglal el. A vizes élőhelyet édesvízi források táplálják, amelyek egyedülálló ökoszisztémát hoznak létre, ahol olyan ritka növényfajok élnek, mint a sós mocsári sóvirág. A területet a Holt-tenger süllyedése miatt geológiai aktivitás jellemzi, és fontos madárvonulási útvonal. Az itt található régészeti leletek bizonyítják, hogy a régiót már a neolitikum idején is lakták. A helyi közösségek hagyományosan halászatból és nádszedésből éltek, de a turizmus egyre nagyobb szerepet kap.",
+      ro: "Zona umedă Wadi Ghuba se întinde pe aproximativ 12 kilometri pătrați de-a lungul țărmului estic al Mării Moarte. Acest ecosistem este alimentat de izvoare de apă dulce, susținând o biodiversitate remarcabilă, inclusiv specii endemice de pești și păsări migratoare. Din punct de vedere geologic, zona este caracterizată de formațiuni de sare și canioane erodate, reflectând istoria tectonică a riftului. În trecut, a fost o rută comercială importantă, iar astăzi este protejată ca rezervație naturală. Cercetările ecologice se concentrează pe impactul schimbărilor climatice și al scăderii nivelului apei asupra habitatelor.",
+      en: "Wadi Ghuba Wetland is a 12-square-kilometer freshwater marsh on the eastern shore of the Dead Sea. Fed by springs, it hosts a unique ecosystem adapted to high salinity and arid conditions, including the rare Dead Sea sparrow and several halophytic plants. The wetland serves as a critical stopover for migratory birds along the Afro-Eurasian flyway. Geologically, it lies within the Dead Sea Transform fault system, with visible salt karst formations. Conservation efforts focus on preserving this biodiversity hotspot amid declining water levels due to upstream diversion.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 12 km²", "Höhe: ca. 430 m unter dem Meeresspiegel", "Gespeist von 5 Hauptquellen", "Heimat von über 200 Vogelarten", "Niederschlag: weniger als 100 mm/Jahr", "Geschützte Fläche seit 1998"],
+      hu: ["Terület: 12 km²", "Tengerszint alatti magasság: 430 m", "Édesvízforrások száma: 5", "Madárfajok száma: 200+", "Éves csapadék: 100 mm alatt", "Védetté nyilvánítás éve: 1998"],
+      ro: ["Suprafață: 12 km²", "Altitudine: 430 m sub nivelul mării", "Număr de izvoare principale: 5", "Specii de păsări: peste 200", "Precipitații anuale: sub 100 mm", "Anul declarării ca rezervație: 1998"],
+      en: ["Area: 12 km²", "Elevation: 430 m below sea level", "Main springs: 5", "Bird species recorded: over 200", "Annual precipitation: less than 100 mm", "Year of protected status: 1998"],
+    },
   }
 ];

@@ -5,7 +5,7 @@ export const poiExtraParaguayLandmarksV2: POI[] = [
     id: "paraguay-catedral-asuncion-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Asunción", hu: "Asuncióni székesegyház", ro: "Catedrala din Asunción", en: "Asunción Cathedral" },
-    coordinates: { lat: -25.2797, lng: -57.6348 },
+    coords: [-57.6348, -25.2797],
     description: {
       de: "Die Catedral de Nuestra Señora de la Asunción ist der Hauptsitz des Erzbistums Asunción. Das Gebäude wurde im 19. Jahrhundert fertiggestellt.",
       hu: "A Catedral de Nuestra Señora de la Asunción az asuncióni érsekség székhelye. Az épület a 19. században készült el.",
@@ -24,7 +24,7 @@ export const poiExtraParaguayLandmarksV2: POI[] = [
     id: "paraguay-estadio-defensores-chaco-landmarks-v2",
     type: "landmark",
     name: { de: "Estadio Defensores del Chaco", hu: "Defensores del Chaco Stadion", ro: "Stadionul Defensores del Chaco", en: "Defensores del Chaco Stadium" },
-    coordinates: { lat: -25.2858, lng: -57.6533 },
+    coords: [-57.6533, -25.2858],
     description: {
       de: "Das Estadio Defensores del Chaco ist das wichtigste Fußballstadion in Paraguay. Es befindet sich in Asunción und dient als Nationalstadion.",
       hu: "A Defensores del Chaco Stadion Paraguay legfontosabb labdarúgó-stadionja. Asunciónban található és nemzeti stadionként szolgál.",
@@ -43,7 +43,7 @@ export const poiExtraParaguayLandmarksV2: POI[] = [
     id: "paraguay-cabildo-asuncion-landmarks-v2",
     type: "museum",
     name: { de: "Cabildo von Asunción", hu: "Asuncióni Cabildo", ro: "Cabildo din Asunción", en: "Cabildo of Asunción" },
-    coordinates: { lat: -25.2758, lng: -57.6322 },
+    coords: [-57.6322, -25.2758],
     description: {
       de: "Das Centro Cultural de la República el Cabildo ist ein bedeutendes Kulturzentrum in Asunción. Das Gebäude fungierte früher als Regierungssitz.",
       hu: "A Centro Cultural de la República el Cabildo egy jelentős kulturális központ Asunciónban. Az épület korábban kormányzati székhelyként szolgált.",

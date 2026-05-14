@@ -5,7 +5,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-sabkhat-tichla-life-v2",
     type: "lake",
     name: { de: "Sabkhat Tichla Salzpfanne", hu: "Sabkhat Tichla sósláp", ro: "Depresiunea salină Sabkhat Tichla", en: "Sabkhat Tichla Salt Pan" },
-    coordinates: { lat: 21.613, lng: -14.954 },
+    coords: [-14.954, 21.613],
     description: {
       de: "Sabkhat Tichla ist ein großes natürliches Salzbecken. In Zeiten seltener Regenfälle bilden sich temporäre Wasserflächen.",
       hu: "A Sabkhat Tichla egy nagy természetes sómedence. A ritka esőzések idején átmeneti vízfelületek alakulnak ki.",
@@ -24,7 +24,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-atlantik-küste-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Atlantikküste Küstenstreifen", hu: "Atlanti-óceáni partszakasz", ro: "Fâșia de coastă Atlantic", en: "Atlantic Coast Strip" },
-    coordinates: { lat: 25.5, lng: -14.8 },
+    coords: [-14.8, 25.5],
     description: {
       de: "Der Küstenstreifen am Atlantik bietet Lebensraum für verschiedene Vogelarten. Die nährstoffreichen Gewässer begünstigen maritimes Leben.",
       hu: "Az Atlanti-óceáni partszakasz különféle madárfajoknak biztosít élőhelyet. A tápanyagban gazdag vizek kedveznek a tengeri életnek.",
@@ -43,7 +43,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-guelta-zemmur-oase-life-v2",
     type: "park",
     name: { de: "Guelta Zemmur Oase", hu: "Guelta Zemmur oázis", ro: "Oaza Guelta Zemmur", en: "Guelta Zemmur Oasis" },
-    coordinates: { lat: 25.138, lng: -11.696 },
+    coords: [-11.696, 25.138],
     description: {
       de: "Guelta Zemmur ist eine natürliche Felsformation, die Wasser speichert. Sie bietet eine Lebensgrundlage für Wüstentiere und nomadische Herden.",
       hu: "A Guelta Zemmur egy természetes sziklaformáció, amely vizet tárol. Életfeltételeket biztosít a sivatagi állatoknak és a nomád csordáknak.",
@@ -62,7 +62,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-cap-bojador-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Cap Bojador Felsküste", hu: "Cap Bojador sziklás part", ro: "Cap Bojador coastă stâncoasă", en: "Cap Bojador Rocky Coast" },
-    coordinates: { lat: 26.131, lng: -14.492 },
+    coords: [-14.492, 26.131],
     description: {
       de: "Cap Bojador ist eine markante Landspitze an der Atlantikküste. Die felsigen Abschnitte bieten Nistplätze für verschiedene Seevögel.",
       hu: "A Cap Bojador egy markáns földnyelv az Atlanti-óceán partján. A sziklás szakaszok fészkelőhelyet biztosítanak különböző tengeri madaraknak.",
@@ -81,7 +81,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-sebkhat-dora-salt-life-v2",
     type: "lake",
     name: { de: "Sebkhat Dora Salzpfanne", hu: "Sebkhat Dora sósláp", ro: "Depresiunea salină Sebkhat Dora", en: "Sebkhat Dora Salt Pan" },
-    coordinates: { lat: 27.65, lng: -12.4 },
+    coords: [-12.4, 27.65],
     description: {
       de: "Sebkhat Dora ist eine ausgedehnte Salzpfanne in der Wüstenlandschaft. Sie dient als temporärer Lebensraum bei seltenen Niederschlägen.",
       hu: "A Sebkhat Dora egy kiterjedt sósláp a sivatagi tájban. Ritka csapadék idején átmeneti élőhelyként szolgál.",
@@ -100,7 +100,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-tifariti-wildlife-life-v2",
     type: "park",
     name: { de: "Tifariti Wüstenbecken", hu: "Tifariti sivatagi medence", ro: "Bazinul deșertic Tifariti", en: "Tifariti Desert Basin" },
-    coordinates: { lat: 26.155, lng: -10.553 },
+    coords: [-10.553, 26.155],
     description: {
       de: "Das Tifariti-Becken zeichnet sich durch felsige Gebiete aus, die eine angepasste Flora und Fauna beherbergen. Es ist eine Region mit hoher Trockenheit.",
       hu: "A Tifariti-medencét sziklás területek jellemzik, amelyek alkalmazkodott növény- és állatvilágnak adnak otthont. Magas szárazságú régió.",
@@ -119,7 +119,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-bir-mogrein-oasis-life-v2",
     type: "village",
     name: { de: "Bir Mogrein Oase", hu: "Bir Mogrein oázis", ro: "Oaza Bir Mogrein", en: "Bir Mogrein Oasis" },
-    coordinates: { lat: 25.21, lng: -11.6 },
+    coords: [-11.6, 25.21],
     description: {
       de: "Bir Mogrein ist eine isolierte Oasensiedlung in der nördlichen Wüste. Sie nutzt lokale Grundwasservorkommen für eine begrenzte Vegetation.",
       hu: "Bir Mogrein egy elszigetelt oázis-település az északi sivatagban. Helyi felszín alatti vízkészleteket használ a korlátozott növényzet fenntartására.",
@@ -138,7 +138,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-auserd-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Auserd Wüstenstreifen", hu: "Auserd sivatagi sáv", ro: "Fâșia deșertică Auserd", en: "Auserd Desert Strip" },
-    coordinates: { lat: 22.84, lng: -14.47 },
+    coords: [-14.47, 22.84],
     description: {
       de: "Auserd liegt in einem trockenen Wüstenbereich. Die Umgebung beherbergt spezialisierte Tierarten, die an extreme Hitze angepasst sind.",
       hu: "Auserd egy száraz sivatagi területen fekszik. A környezet speciális állatfajoknak ad otthont, amelyek alkalmazkodtak az extrém hőséghez.",
@@ -157,7 +157,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-laguna-de-naila-life-v2",
     type: "lake",
     name: { de: "Laguna de Naila", hu: "Laguna de Naila", ro: "Laguna de Naila", en: "Laguna de Naila" },
-    coordinates: { lat: 27.915, lng: -12.875 },
+    coords: [-12.875, 27.915],
     description: {
       de: "Die Laguna de Naila ist ein bedeutendes Feuchtgebiet nahe der Atlantikküste. Sie ist ein wichtiger Standort für die lokale Vogelwelt.",
       hu: "A Laguna de Naila egy jelentős vizes élőhely az Atlanti-óceán közelében. Fontos helyszín a helyi madárvilág számára.",
@@ -176,7 +176,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-boujdour-wetlands-life-v2",
     type: "wildlife",
     name: { de: "Boujdour Feuchtgebiete", hu: "Boujdour vizes élőhelyek", ro: "Zonele umede Boujdour", en: "Boujdour Wetlands" },
-    coordinates: { lat: 26.2, lng: -14.5 },
+    coords: [-14.5, 26.2],
     description: {
       de: "Die Küsten-Feuchtgebiete um Boujdour bieten spezialisierten Arten Schutz. Diese Gebiete sind essenziell für regionale Ökosysteme.",
       hu: "A Boujdour körüli parti vizes élőhelyek védelmet nyújtanak a specializált fajoknak. Ezek a területek elengedhetetlenek a regionális ökoszisztémák számára.",
@@ -195,7 +195,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-guelta-de-zoug-life-v2",
     type: "park",
     name: { de: "Guelta de Zoug", hu: "Guelta de Zoug", ro: "Guelta de Zoug", en: "Guelta de Zoug" },
-    coordinates: { lat: 26.55, lng: -10.2 },
+    coords: [-10.2, 26.55],
     description: {
       de: "Guelta de Zoug ist ein natürlicher Wasserpunkt in felsigem Gelände. Er dient als Trinkwasserquelle für die umliegende Fauna.",
       hu: "A Guelta de Zoug egy természetes vízlelőhely sziklás terepen. Ivóvízforrásként szolgál a környező állatvilág számára.",
@@ -214,7 +214,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-dakhla-peninsula-life-v2",
     type: "wildlife",
     name: { de: "Dakhla Halbinsel", hu: "Dakhla-félsziget", ro: "Peninsula Dakhla", en: "Dakhla Peninsula" },
-    coordinates: { lat: 23.82, lng: -15.89 },
+    coords: [-15.89, 23.82],
     description: {
       de: "Die Dakhla-Halbinsel ist eine schmale Landzunge, die reiche Küstenbiotope beheimatet. Sie bietet Schutz vor dem offenen Atlantik.",
       hu: "A Dakhla-félsziget egy keskeny földnyelv, amely gazdag parti biotópoknak ad otthont. Védelmet nyújt a nyílt Atlanti-óceán elől.",
@@ -233,7 +233,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-smara-desert-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Smara Wüstenzone", hu: "Smara sivatagi övezet", ro: "Zona deșertică Smara", en: "Smara Desert Zone" },
-    coordinates: { lat: 26.74, lng: -11.67 },
+    coords: [-11.67, 26.74],
     description: {
       de: "Die Region Smara besteht aus trockenen Steppen und felsigen Wüsten. Die Flora umfasst widerstandsfähige, sukkulente Pflanzenarten.",
       hu: "Smara régiója száraz sztyeppékből és sziklás sivatagokból áll. A flóra ellenálló, pozsgás növényfajokat tartalmaz.",
@@ -252,7 +252,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-cabo-bajador-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Cabo Bajador Küste", hu: "Cabo Bajador part", ro: "Coasta Cabo Bajador", en: "Cabo Bajador Coast" },
-    coordinates: { lat: 26.13, lng: -14.49 },
+    coords: [-14.49, 26.13],
     description: {
       de: "Dieser Küstenabschnitt am Cabo Bajador weist eine hohe biologische Aktivität im Meer auf. Die Küste selbst ist jedoch sehr trocken.",
       hu: "Ez a Cabo Bajador-i partszakasz nagy biológiai aktivitással rendelkezik a tengerben. A part maga azonban nagyon száraz.",
@@ -271,7 +271,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-mahbes-park-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Mahbes Wüstengebiet", hu: "Mahbes sivatagi terület", ro: "Zona deșertică Mahbes", en: "Mahbes Desert Area" },
-    coordinates: { lat: 27.23, lng: -9.92 },
+    coords: [-9.92, 27.23],
     description: {
       de: "Mahbes liegt in einer flachen, steinigen Wüstenumgebung. Das Ökosystem unterstützt nur eine begrenzte Anzahl an Wüstenarten.",
       hu: "Mahbes egy lapos, köves sivatagi környezetben fekszik. Az ökoszisztéma csak korlátozott számú sivatagi fajt támogat.",
@@ -290,7 +290,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-oued-sakia-el-hamra-life-v2",
     type: "river",
     name: { de: "Oued Sakia El Hamra", hu: "Oued Sakia El Hamra", ro: "Oued Sakia El Hamra", en: "Oued Sakia El Hamra" },
-    coordinates: { lat: 27.15, lng: -13.2 },
+    coords: [-13.2, 27.15],
     description: {
       de: "Das Sakia El Hamra-Flussbett ist eine der wichtigsten hydrologischen Achsen der Region. Es bildet bei Wasserführung ein wichtiges Lebensraum-System.",
       hu: "A Sakia El Hamra folyómeder a régió egyik legfontosabb hidrológiai tengelye. Vízjárás esetén fontos élőhely-rendszert alkot.",
@@ -309,7 +309,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-le-zoug-zone-life-v2",
     type: "wildlife",
     name: { de: "Le Zoug Region", hu: "Le Zoug régió", ro: "Regiunea Le Zoug", en: "Le Zoug Region" },
-    coordinates: { lat: 26.58, lng: -10.25 },
+    coords: [-10.25, 26.58],
     description: {
       de: "Die Zone um Le Zoug zeichnet sich durch felsige Strukturen aus. Diese bieten Nischen für kleine Reptilien und spezialisierte Insekten.",
       hu: "Le Zoug környékét sziklás struktúrák jellemzik. Ezek rést kínálnak kis hüllők és specializált rovarok számára.",
@@ -328,7 +328,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-laayoune-coast-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Laayoune Küstenstreifen", hu: "Laayoune partszakasz", ro: "Fâșia de coastă Laayoune", en: "Laayoune Coastal Strip" },
-    coordinates: { lat: 27.15, lng: -13.25 },
+    coords: [-13.25, 27.15],
     description: {
       de: "Der Küstenabschnitt bei Laayoune ist durch offene Sandstrände geprägt. Das marine Ökosystem davor ist für die Nahrungssuche zahlreicher Vögel entscheidend.",
       hu: "A Laayoune melletti partszakaszt nyitott homokos strandok jellemzik. Az előtte lévő tengeri ökoszisztéma döntő jelentőségű számos madár táplálékkeresésében.",
@@ -347,7 +347,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-bou-jdour-rocks-life-v2",
     type: "landmark",
     name: { de: "Boujdour Felsformationen", hu: "Boujdour sziklaképződmények", ro: "Formațiuni stâncoase Boujdour", en: "Boujdour Rock Formations" },
-    coordinates: { lat: 26.13, lng: -14.48 },
+    coords: [-14.48, 26.13],
     description: {
       de: "Die Felsformationen bei Boujdour bieten Schutz vor dem Wind für kleine Lebensformen. Die geologische Struktur ist typisch für die Küstenzone.",
       hu: "A Boujdour melletti sziklaképződmények védelmet nyújtanak a széllel szemben a kis életformák számára. A geológiai struktúra tipikus a parti övezetre.",
@@ -366,7 +366,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-guelta-arouey-life-v2",
     type: "wildlife",
     name: { de: "Guelta Arouey Wasserpunkt", hu: "Guelta Arouey vízlelőhely", ro: "Punct de apă Guelta Arouey", en: "Guelta Arouey Water Point" },
-    coordinates: { lat: 26.65, lng: -10.35 },
+    coords: [-10.35, 26.65],
     description: {
       de: "Guelta Arouey ist ein wesentlicher Wasserpunkt in der trockenen Landschaft. Er unterstützt die lokale Biodiversität nachhaltig.",
       hu: "A Guelta Arouey egy lényeges vízlelőhely a száraz tájban. Fenntartható módon támogatja a helyi biodiverzitást.",
@@ -385,7 +385,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-tichla-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Tichla Wüstenumgebung", hu: "Tichla sivatagi környezet", ro: "Mediu deșertic Tichla", en: "Tichla Desert Environment" },
-    coordinates: { lat: 21.6, lng: -14.9 },
+    coords: [-14.9, 21.6],
     description: {
       de: "Das Gebiet um Tichla zeichnet sich durch seine extremen Bedingungen aus. Nur spezialisierte Pflanzen und Tiere überleben in dieser Einöde.",
       hu: "Tichla környékét szélsőséges körülmények jellemzik. Ebben az elhagyatott területen csak specializált növények és állatok maradnak életben.",
@@ -404,7 +404,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-sebkhat-dora-wetland-life-v2",
     type: "wildlife",
     name: { de: "Sebkhat Dora Feuchtgebiet", hu: "Sebkhat Dora vizes élőhely", ro: "Zonă umedă Sebkhat Dora", en: "Sebkhat Dora Wetland" },
-    coordinates: { lat: 27.68, lng: -12.35 },
+    coords: [-12.35, 27.68],
     description: {
       de: "Sebkhat Dora ist ein temporäres Feuchtgebiet. Bei Regen verwandelt sich das Salzbecken in einen vorübergehenden Lebensraum für wandernde Arten.",
       hu: "A Sebkhat Dora egy átmeneti vizes élőhely. Esőzéskor a sómedence a vándorló fajok átmeneti élőhelyévé változik.",
@@ -423,7 +423,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-bou-jdour-coastal-life-v2",
     type: "wildlife",
     name: { de: "Boujdour Küstenökosystem", hu: "Boujdour parti ökoszisztéma", ro: "Ecosistem costier Boujdour", en: "Boujdour Coastal Ecosystem" },
-    coordinates: { lat: 26.15, lng: -14.45 },
+    coords: [-14.45, 26.15],
     description: {
       de: "Die Küste nahe Boujdour ist ein wichtiger Bereich für maritime Biodiversität. Die Gezeiten beeinflussen die lokale Flora und Fauna stark.",
       hu: "Boujdour melletti part fontos terület a tengeri biodiverzitás számára. Az árapály jelentősen befolyásolja a helyi flórát és faunát.",
@@ -442,7 +442,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-oued-draa-delta-life-v2",
     type: "river",
     name: { de: "Oued Draa Mündung", hu: "Oued Draa torkolat", ro: "Gura Oued Draa", en: "Oued Draa Estuary" },
-    coordinates: { lat: 28.55, lng: -11.0 },
+    coords: [-11.0, 28.55],
     description: {
       de: "Die Mündung des Oued Draa bildet ein einzigartiges Delta. Es ist ein wichtiger Ort für Arten, die das Süß- und Salzwasser benötigen.",
       hu: "Az Oued Draa torkolata egyedülálló deltát képez. Fontos hely azoknak a fajoknak, amelyeknek szükségük van az édes- és sós vízre.",
@@ -461,7 +461,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-tifariti-rock-life-v2",
     type: "landmark",
     name: { de: "Tifariti Felslandschaft", hu: "Tifariti sziklák", ro: "Peisaj stâncos Tifariti", en: "Tifariti Rock Landscape" },
-    coordinates: { lat: 26.16, lng: -10.53 },
+    coords: [-10.53, 26.16],
     description: {
       de: "Die Felslandschaft um Tifariti ist von harten Bedingungen geprägt. Diese bieten jedoch Refugien für kleine, spezialisierte Lebensformen.",
       hu: "Tifariti körüli sziklás tájat kemény feltételek jellemzik. Ezek azonban menedéket kínálnak kicsi, specializált életformák számára.",
@@ -480,7 +480,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-bir-mogrein-wildlife-life-v2",
     type: "wildlife",
     name: { de: "Bir Mogrein Umgebung", hu: "Bir Mogrein környezet", ro: "Împrejurimile Bir Mogrein", en: "Bir Mogrein Surroundings" },
-    coordinates: { lat: 25.2, lng: -11.65 },
+    coords: [-11.65, 25.2],
     description: {
       de: "Die Umgebung von Bir Mogrein umfasst trockene Ebenen und gelegentliche Felsaufschlüsse. Sie ist Heimat für an Trockenheit angepasste Tierarten.",
       hu: "Bir Mogrein környéke száraz síkságokat és alkalmi sziklakibukkanásokat foglal magában. A szárazsághoz alkalmazkodott állatfajok otthona.",
@@ -499,7 +499,7 @@ export const westernsaharaLifeV2: POI[] = [
     id: "westernsahara-guelta-de-zoug-nature-life-v2",
     type: "wildlife",
     name: { de: "Guelta de Zoug Schutzgebiet", hu: "Guelta de Zoug védett terület", ro: "Zonă protejată Guelta de Zoug", en: "Guelta de Zoug Protected Area" },
-    coordinates: { lat: 26.57, lng: -10.22 },
+    coords: [-10.22, 26.57],
     description: {
       de: "Das Schutzgebiet Guelta de Zoug bewahrt eine wichtige natürliche Wasserstelle in der Wüste. Dies ist essenziell für die Erhaltung der lokalen Biodiversität.",
       hu: "A Guelta de Zoug védett terület egy fontos természetes vízlelőhelyet őriz a sivatagban. Ez elengedhetetlen a helyi biodiverzitás megőrzéséhez.",

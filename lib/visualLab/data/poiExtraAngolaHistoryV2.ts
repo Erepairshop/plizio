@@ -1066,7 +1066,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-tomb-queen-nzinga-history-v2",
     type: "ruins",
     name: { de: "Grab von Königin Nzinga", hu: "Nzinga királynő sírja", ro: "Mormântul Reginei Nzinga", en: "Tomb of Queen Nzinga" },
-    coordinates: { lat: -9.317, lng: 16.433 },
+    coords: [16.433, -9.317],
     description: {
       de: "Diese historische Grabstätte in Matamba ist der legendären Königin Nzinga Mbandi gewidmet. Sie leitete im 17. Jahrhundert den Widerstand gegen die Portugiesen.",
       hu: "Ez a matambai történelmi emlékhely a legendás Nzinga Mbandi királynőnek állít emléket. A 17. században ő vezette az ellenállást a portugálok ellen.",
@@ -1097,7 +1097,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-national-museum-slavery-history-v2",
     type: "museum",
     name: { de: "Nationalmuseum der Sklaverei", hu: "Rabszolgaság Nemzeti Múzeuma", ro: "Muzeul Național al Sclaviei", en: "National Museum of Slavery" },
-    coordinates: { lat: -8.973, lng: 13.129 },
+    coords: [13.129, -8.973],
     description: {
       de: "Das Museum befindet sich am Morro da Cruz in Luanda, wo Sklaven vor der Verschiffung getauft wurden. Es dokumentiert die Geschichte des transatlantischen Handels.",
       hu: "A múzeum a luandai Morro da Cruz-nál található, ahol a rabszolgákat megkeresztelték elszállításuk előtt. A transzatlanti kereskedelem történetét mutatja be.",
@@ -1128,7 +1128,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-sao-filipe-history-v2",
     type: "castle",
     name: { de: "Festung São Filipe", hu: "São Filipe erőd", ro: "Fortăreața São Filipe", en: "Fort of São Filipe" },
-    coordinates: { lat: -12.583, lng: 13.394 },
+    coords: [13.394, -12.583],
     description: {
       de: "Diese Festung in Benguela wurde 1617 zum Küstenschutz erbaut. Sie diente jahrhundertelang als wichtiger Stützpunkt für den Handel mit Sklaven und Waren.",
       hu: "Ezt a benguelai erődöt 1617-ben építették a partvédelem céljából. Évszázadokon át a rabszolga- és árukereskedelem fontos bázisaként szolgált.",
@@ -1159,7 +1159,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-sao-nicolau-history-v2",
     type: "castle",
     name: { de: "Festung São Nicolau", hu: "São Nicolau erőd", ro: "Fortăreața São Nicolau", en: "Fort of São Nicolau" },
-    coordinates: { lat: -15.195, lng: 12.148 },
+    coords: [12.148, -15.195],
     description: {
       de: "Die Festung in Namibe wurde im 19. Jahrhundert errichtet, um die Siedlung Moçâmedes zu schützen. Sie blickt direkt auf den Hafen der Stadt.",
       hu: "A namibei erőd a 19. században épült Moçâmedes településének védelmére. Közvetlenül a város kikötőjére néz.",
@@ -1190,7 +1190,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-ambriz-history-v2",
     type: "castle",
     name: { de: "Festung von Ambriz", hu: "Ambriz erőd", ro: "Fortăreața din Ambriz", en: "Fort of Ambriz" },
-    coordinates: { lat: -7.838, lng: 13.102 },
+    coords: [13.102, -7.838],
     description: {
       de: "Diese Küstenfestung im Norden Angolas spielte eine wichtige Rolle bei der Unterdrückung des illegalen Sklavenhandels im 19. Jahrhundert.",
       hu: "Ez az észak-angolai parthoz közeli erőd fontos szerepet játszott az illegális rabszolga-kereskedelem visszaszorításában a 19. században.",
@@ -1221,7 +1221,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-battle-ebo-site-history-v2",
     type: "battlefield",
     name: { de: "Schlachtfeld von Ebo", hu: "Eboi csatatér", ro: "Câmpul de luptă de la Ebo", en: "Battle of Ebo Site" },
-    coordinates: { lat: -11.017, lng: 14.717 },
+    coords: [14.717, -11.017],
     description: {
       de: "Hier fand 1975 eine bedeutende Schlacht des angolanischen Bürgerkriegs statt. Angolanische und kubanische Truppen stoppten den Vormarsch der südafrikanischen Armee.",
       hu: "Itt zajlott 1975-ben az angolai polgárháború egyik jelentős csatája. Az angolai és kubai csapatok megállították a dél-afrikai hadsereg előrenyomulását.",
@@ -1252,7 +1252,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-mission-sanza-pombo-history-v2",
     type: "church",
     name: { de: "Mission von Sanza Pombo", hu: "Sanza Pombo misszió", ro: "Misiunea din Sanza Pombo", en: "Mission of Sanza Pombo" },
-    coordinates: { lat: -7.333, lng: 15.833 },
+    coords: [15.833, -7.333],
     description: {
       de: "Diese katholische Mission in der Provinz Uíge wurde zu Beginn des 20. Jahrhunderts gegründet. Sie spielte eine zentrale Rolle bei der Evangelisierung des Nordens.",
       hu: "Ezt a katolikus missziót Uíge tartományban alapították a 20. század elején. Központi szerepet játszott az északi területek keresztényhitre térítésében.",
@@ -1283,7 +1283,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-palace-king-bailundo-history-v2",
     type: "palace",
     name: { de: "Palast des Königs von Bailundo", hu: "Bailundo királyának palotája", ro: "Palatul Regelui din Bailundo", en: "Palace of the King of Bailundo" },
-    coordinates: { lat: -12.195, lng: 15.856 },
+    coords: [15.856, -12.195],
     description: {
       de: "Der königliche Hof von Bailundo ist das traditionelle Machtzentrum des Ovimbundu-Volkes. Er ist ein bedeutender Ort für die Bewahrung angolanischer Kultur.",
       hu: "A bailundói királyi udvar az ovimbundu nép hagyományos hatalmi központja. Az angolai kultúra megőrzésének egyik legfontosabb helyszíne.",
@@ -1314,7 +1314,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-sao-jose-encoge-history-v2",
     type: "castle",
     name: { de: "Festung São José de Encoge", hu: "São José de Encoge erőd", ro: "Fortăreața São José de Encoge", en: "Fort of São José de Encoge" },
-    coordinates: { lat: -7.617, lng: 15.017 },
+    coords: [15.017, -7.617],
     description: {
       de: "Diese im 18. Jahrhundert im Landesinneren von Uíge erbaute Festung sicherte die Handelswege. Sie diente als Vorposten gegen lokale Königreiche.",
       hu: "Ezt a 18. századi erődöt Uíge belső területein építették a kereskedelmi utak biztosítására. A helyi királyságok elleni előőrs volt.",
@@ -1345,7 +1345,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-pedra-do-feitico-history-v2",
     type: "landmark",
     name: { de: "Pedra do Feitiço", hu: "Pedra do Feitiço", ro: "Pedra do Feitiço", en: "Pedra do Feitiço" },
-    coordinates: { lat: -5.883, lng: 12.867 },
+    coords: [12.867, -5.883],
     description: {
       de: "Die 'Zauberer-Steine' am Ufer des Kongo-Flusses sind ein geschichtsträchtiger Ort. Sie markierten für frühe Entdecker den Beginn des schiffbaren Teils des Flusses.",
       hu: "A Kongó-folyó partján fekvő 'Varázsló-kövek' történelmi jelentőségű hely. A korai felfedezők számára a folyó hajózható szakaszának kezdetét jelezték.",
@@ -1376,7 +1376,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-old-customs-house-luanda-history-v2",
     type: "landmark",
     name: { de: "Altes Zollhaus von Luanda", hu: "Luandai régi vámszékház", ro: "Vechea Vamă din Luanda", en: "Old Customs House of Luanda" },
-    coordinates: { lat: -8.81, lng: 13.235 },
+    coords: [13.235, -8.81],
     description: {
       de: "Dieses Gebäude am Hafen von Luanda zeugt von der wirtschaftlichen Bedeutung der Stadt in der Kolonialzeit. Es war das Zentrum der Warenkontrolle.",
       hu: "Ez a luandai kikötőnél álló épület a város gyarmati kori gazdasági jelentőségét hirdeti. Az áruforgalom ellenőrzésének központja volt.",
@@ -1407,7 +1407,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-church-nossa-senhora-nazare-history-v2",
     type: "church",
     name: { de: "Kirche Nossa Senhora da Nazaré", hu: "Nossa Senhora da Nazaré templom", ro: "Biserica Nossa Senhora da Nazaré", en: "Church of Nossa Senhora da Nazaré" },
-    coordinates: { lat: -8.805, lng: 13.242 },
+    coords: [13.242, -8.805],
     description: {
       de: "Diese kleine Kirche in Luanda ist berühmt für ihre Azulejos, die die Schlacht von Ambuila darstellen. Sie wurde im 17. Jahrhundert erbaut.",
       hu: "Ez a kis luandai templom az ambuilai csatát ábrázoló azulejo-csempéiről híres. A 17. században épült a tengerpart közelében.",
@@ -1438,7 +1438,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-porto-alexandre-history-v2",
     type: "castle",
     name: { de: "Festung Porto Alexandre", hu: "Porto Alexandre erőd", ro: "Fortăreața Porto Alexandre", en: "Fort of Porto Alexandre" },
-    coordinates: { lat: -15.798, lng: 11.838 },
+    coords: [11.838, -15.798],
     description: {
       de: "Die Festung in der heutigen Stadt Tômbua wurde zum Schutz der Fischerdörfer in der Wüste Namibe errichtet. Sie zeugt von der Kolonisierung des Südens.",
       hu: "A mai Tômbua területén álló erődöt a namibei sivatag halászfalvainak védelmére építették. A déli területek gyarmatosításának tanúja.",
@@ -1469,7 +1469,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-tomb-king-ekuikui-ii-history-v2",
     type: "monument",
     name: { de: "Grab von König Ekuikui II.", hu: "II. Ekuikui király sírja", ro: "Mormântul Regelui Ekuikui II", en: "Tomb of King Ekuikui II" },
-    coordinates: { lat: -12.776, lng: 15.733 },
+    coords: [15.733, -12.776],
     description: {
       de: "Diese Grabstätte im Hochland von Huambo ist einem der bedeutendsten Herrscher des Bailundo-Königreichs gewidmet. Sie ist ein Ort großer kultureller Verehrung.",
       hu: "Ez a huambói fennsíkon található sírhely a Bailundo Királyság egyik legjelentősebb uralkodójának állít emléket. Nagy kulturális tisztelet övezi.",
@@ -1500,7 +1500,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-libolo-history-v2",
     type: "castle",
     name: { de: "Festung von Libolo", hu: "Libolo erőd", ro: "Fortăreața din Libolo", en: "Fort of Libolo" },
-    coordinates: { lat: -10.017, lng: 14.983 },
+    coords: [14.983, -10.017],
     description: {
       de: "Diese Festung in der Provinz Cuanza Sul diente zur Kontrolle der Region Libolo. Sie war Schauplatz heftigen Widerstandes gegen die portugiesische Expansion.",
       hu: "Ez a Cuanza Sul tartományban található erőd a Libolo régió ellenőrzését szolgálta. A portugál terjeszkedés elleni heves ellenállás színhelye volt.",
@@ -1531,7 +1531,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-kassanje-kingdom-site-history-v2",
     type: "ruins",
     name: { de: "Historisches Reich Kassanje", hu: "Kassanje Királyság történelmi helyszíne", ro: "Situl istoric al Regatului Kassanje", en: "Kassanje Kingdom Historical Site" },
-    coordinates: { lat: -9.517, lng: 17.517 },
+    coords: [17.517, -9.517],
     description: {
       de: "Das Reich von Kassanje war ein bedeutender Staat der Imbangala im 17. bis 19. Jahrhundert. Das Gebiet ist reich an archäologischen Spuren dieser Ära.",
       hu: "Kassanje az imbangala nép jelentős állama volt a 17. és 19. század között. A terület gazdag e korszak régészeti nyomaiban.",
@@ -1562,7 +1562,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-novo-redondo-history-v2",
     type: "castle",
     name: { de: "Festung Novo Redondo", hu: "Novo Redondo erőd", ro: "Fortăreața Novo Redondo", en: "Fort of Novo Redondo" },
-    coordinates: { lat: -11.201, lng: 13.842 },
+    coords: [13.842, -11.201],
     description: {
       de: "Diese Festung in Sumbe wurde im 18. Jahrhundert zum Schutz vor Angriffen vom Meer aus errichtet. Sie markierte die Gründung der Stadt Novo Redondo.",
       hu: "Ezt a sumbei erődöt a 18. században építették a tengeri támadások elleni védekezésül. Novo Redondo városának alapítását jelölte.",
@@ -1593,7 +1593,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-duque-braganca-history-v2",
     type: "castle",
     name: { de: "Festung Duque de Bragança", hu: "Duque de Bragança erőd", ro: "Fortăreața Duque de Bragança", en: "Fort of Duque de Bragança" },
-    coordinates: { lat: -9.1, lng: 15.95 },
+    coords: [15.95, -9.1],
     description: {
       de: "Diese Festung in der Nähe der Kalandula-Wasserfälle wurde zur Sicherung der Region Malanje erbaut. Sie ist nach dem portugiesischen Herzog von Bragança benannt.",
       hu: "A Kalandula-vízesés közelében található erődöt Malanje régió biztosítására építették. A portugál Bragança hercegről kapta a nevét.",
@@ -1624,7 +1624,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-fort-landana-history-v2",
     type: "castle",
     name: { de: "Festung von Landana", hu: "Landana erőd", ro: "Fortăreața din Landana", en: "Fort of Landana" },
-    coordinates: { lat: -5.217, lng: 12.15 },
+    coords: [12.15, -5.217],
     description: {
       de: "Die Festung im Norden von Cabinda sicherte die portugiesischen Ansprüche in diesem Gebiet. Sie blickt auf den Atlantik und war ein wichtiger Handelsposten.",
       hu: "Ez az észak-kabindai erőd biztosította a portugál igényeket a területre. Az Atlanti-óceánra néz, és fontos kereskedelmi poszt volt.",
@@ -1655,7 +1655,7 @@ export const poiExtraAngolaHistoryV2: POI[] = [
     id: "angola-ruins-of-quizenga-history-v2",
     type: "ruins",
     name: { de: "Ruinen von Quizenga", hu: "Quizenga romjai", ro: "Ruinele din Quizenga", en: "Ruins of Quizenga" },
-    coordinates: { lat: -9.25, lng: 15.117 },
+    coords: [15.117, -9.25],
     description: {
       de: "Diese Ruinen in Malanje zeugen von der frühen portugiesischen Präsenz im Landesinneren. Sie waren Teil einer befestigten Siedlung zur Sicherung des Handels.",
       hu: "Ezek a Malanje tartománybeli romok a korai portugál jelenlétről tanúskodnak a belső területeken. Egy megerősített kereskedelmi település részei voltak.",

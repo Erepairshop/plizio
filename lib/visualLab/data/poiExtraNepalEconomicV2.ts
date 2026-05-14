@@ -647,7 +647,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-dhalkebar-substation-economic-v2",
     type: "industry",
     name: { de: "Dhalkebar Umspannwerk", hu: "Dhalkebar alállomás", ro: "Stația electrică Dhalkebar", en: "Dhalkebar Substation" },
-    coordinates: { lat: 26.7915, lng: 85.9822 },
+    coords: [85.9822, 26.7915],
     description: {
       de: "Das größte Umspannwerk Nepals dient als zentraler Knotenpunkt für den Stromaustausch mit Indien.",
       hu: "Nepál legnagyobb villamosenergia-alállomása az Indiával való áramkereskedelem központi csomópontja.",
@@ -666,7 +666,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-udayapur-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Udayapur Zementfabrik", hu: "Udayapur cementgyár", ro: "Fabrica de ciment Udayapur", en: "Udayapur Cement Factory" },
-    coordinates: { lat: 26.8625, lng: 86.6855 },
+    coords: [86.6855, 26.8625],
     description: {
       de: "Eine der größten staatlichen Zementfabriken Nepals nutzt lokale Kalksteinvorkommen zur Produktion.",
       hu: "Nepál egyik legnagyobb állami cementgyára, amely a helyi mészkőre alapozva termel.",
@@ -685,7 +685,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-khimti-hydropower-economic-v2",
     type: "industry",
     name: { de: "Khimti I Wasserkraftwerk", hu: "Khimti I vízerőmű", ro: "Hidrocentrala Khimti I", en: "Khimti I Hydropower Plant" },
-    coordinates: { lat: 27.5452, lng: 86.1528 },
+    coords: [86.1528, 27.5452],
     description: {
       de: "Das Khimti-Wasserkraftwerk war das erste große private Energieprojekt in der Geschichte Nepals.",
       hu: "A Khimti vízerőmű volt az első jelentős magánszektorbeli energiaprojekt Nepál történelmében.",
@@ -704,7 +704,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-panauti-hydropower-economic-v2",
     type: "industry",
     name: { de: "Panauti Wasserkraftwerk", hu: "Panauti vízerőmű", ro: "Hidrocentrala Panauti", en: "Panauti Hydropower Station" },
-    coordinates: { lat: 27.5855, lng: 85.5152 },
+    coords: [85.5152, 27.5855],
     description: {
       de: "Dieses historische Kraftwerk wurde mit sowjetischer Hilfe gebaut und ist eines der ältesten Nepals.",
       hu: "Ez a történelmi erőmű szovjet segítséggel épült, és Nepál egyik legrégebbi üzeme.",
@@ -723,7 +723,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-amlekhgunj-fuel-depot-economic-v2",
     type: "industry",
     name: { de: "Amlekhgunj Treibstofflager", hu: "Amlekhgunj üzemanyagtároló", ro: "Depozitul de combustibil Amlekhgunj", en: "Amlekhgunj Fuel Depot" },
-    coordinates: { lat: 27.2762, lng: 84.9912 },
+    coords: [84.9912, 27.2762],
     description: {
       de: "Zentraler Terminal der ersten grenzüberschreitenden Ölpipeline zwischen Indien und Nepal.",
       hu: "Az India és Nepál közötti első határon átnyúló olajvezeték központi terminálja.",
@@ -742,7 +742,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-jhapa-tea-estates-economic-v2",
     type: "industry",
     name: { de: "Teeplantagen von Jhapa", hu: "Jhapa teaültetvények", ro: "Plantațiile de ceai din Jhapa", en: "Jhapa Tea Estates" },
-    coordinates: { lat: 26.6521, lng: 88.0015 },
+    coords: [88.0015, 26.6521],
     description: {
       de: "Jhapa ist das Zentrum der nepalesischen Teeproduktion im Flachland, bekannt für CTC-Tee.",
       hu: "Jhapa a nepáli síkvidéki teatermelés központja, amely a CTC teájáról nevezetes.",
@@ -761,7 +761,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-panchkhal-sez-economic-v2",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Panchkhal", hu: "Panchkhal különleges gazdasági övezet", ro: "Zona Economică Specială Panchkhal", en: "Panchkhal Special Economic Zone" },
-    coordinates: { lat: 27.6522, lng: 85.6135 },
+    coords: [85.6135, 27.6522],
     description: {
       de: "Eine strategische Wirtschaftszone zur Förderung des Handels mit China entlang der Araniko-Autobahn.",
       hu: "Stratégiai gazdasági övezet a Kínával folytatott kereskedelem elősegítésére az Araniko úton.",
@@ -780,7 +780,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-mechi-dry-port-economic-v2",
     type: "port",
     name: { de: "Mechi Trockenhafen", hu: "Mechi szárazkikötő", ro: "Portul uscat Mechi", en: "Mechi Dry Port" },
-    coordinates: { lat: 26.6455, lng: 88.1568 },
+    coords: [88.1568, 26.6455],
     description: {
       de: "Wichtiger Binnenhafen in Kakarbhitta, der den Handel mit Indien und Bangladesch abwickelt.",
       hu: "Jelentős belföldi kikötő Kakarbhittában, amely az India és Banglades felé tartó forgalmat kezeli.",
@@ -799,7 +799,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-marsyangdi-hydropower-economic-v2",
     type: "industry",
     name: { de: "Marsyangdi Wasserkraftwerk", hu: "Marsyangdi vízerőmű", ro: "Hidrocentrala Marsyangdi", en: "Marsyangdi Hydropower Station" },
-    coordinates: { lat: 27.9925, lng: 84.4755 },
+    coords: [84.4755, 27.9925],
     description: {
       de: "Ein bedeutendes Grundlastkraftwerk am Marsyangdi-Fluss im Bezirk Tanahu.",
       hu: "Jelentős alapterhelésű vízerőmű a Marsyangdi folyón, Tanahu körzetben.",
@@ -818,7 +818,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-taplejung-cardamom-zone-economic-v2",
     type: "industry",
     name: { de: "Kardamom-Zone Taplejung", hu: "Taplejung kardamom zóna", ro: "Zona de cardamon Taplejung", en: "Taplejung Cardamom Zone" },
-    coordinates: { lat: 27.3555, lng: 87.6712 },
+    coords: [87.6712, 27.3555],
     description: {
       de: "Taplejung ist das weltweit führende Anbaugebiet für schwarzen Kardamom, ein wichtiges Exportgut.",
       hu: "Taplejung a fekete kardamom egyik vezető termőterülete a világon, jelentős exportcikk.",
@@ -837,7 +837,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-hetauda-cement-factory-economic-v2",
     type: "factory",
     name: { de: "Hetauda Zementindustrie", hu: "Hetauda cementipar", ro: "Industria de ciment Hetauda", en: "Hetauda Cement Industry" },
-    coordinates: { lat: 27.4225, lng: 85.0355 },
+    coords: [85.0355, 27.4225],
     description: {
       de: "Diese staatliche Fabrik in Hetauda ist eine der ältesten und größten Zementproduktionsstätten.",
       hu: "Ez az állami gyár Hetaudában az egyik legrégebbi és legnagyobb cementgyártó üzem.",
@@ -856,7 +856,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-biratnagar-sugar-mill-economic-v2",
     type: "factory",
     name: { de: "Biratnagar Zuckerfabrik", hu: "Biratnagar cukorgyár", ro: "Fabrica de zahăr Biratnagar", en: "Biratnagar Sugar Mill" },
-    coordinates: { lat: 26.4855, lng: 87.2765 },
+    coords: [87.2765, 26.4855],
     description: {
       de: "Eine historische Verarbeitungsstätte für Zuckerrohr im industriellen Kernland von Biratnagar.",
       hu: "Történelmi cukornád-feldolgozó üzem Biratnagar ipari központjában.",
@@ -875,7 +875,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-bhotekoshi-hydropower-economic-v2",
     type: "industry",
     name: { de: "Bhotekoshi Wasserkraftwerk", hu: "Bhotekoshi vízerőmű", ro: "Hidrocentrala Bhotekoshi", en: "Bhotekoshi Hydropower Project" },
-    coordinates: { lat: 27.9422, lng: 85.9315 },
+    coords: [85.9315, 27.9422],
     description: {
       de: "Ein privates Wasserkraftprojekt am Bhotekoshi-Fluss, nahe der Grenze zu Tibet.",
       hu: "Magánkézben lévő vízerőmű a Bhotekoshi folyón, a tibeti határ közelében.",
@@ -894,7 +894,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-bara-fish-farms-economic-v2",
     type: "industry",
     name: { de: "Bara Fischzuchtanlagen", hu: "Bara haltenyészetek", ro: "Fermele piscicole din Bara", en: "Bara Fish Farming Hub" },
-    coordinates: { lat: 27.0012, lng: 85.0025 },
+    coords: [85.0025, 27.0012],
     description: {
       de: "Der Bezirk Bara gilt als die Fischhauptstadt Nepals mit tausenden künstlichen Teichen.",
       hu: "Bara körzetet Nepál halközpontjaként ismerik, több ezer mesterséges tóval.",
@@ -913,7 +913,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-durbar-marg-commercial-economic-v2",
     type: "town",
     name: { de: "Durbar Marg Geschäftsviertel", hu: "Durbar Marg üzleti negyed", ro: "Districtul comercial Durbar Marg", en: "Durbar Marg Commercial District" },
-    coordinates: { lat: 27.7112, lng: 85.3168 },
+    coords: [85.3168, 27.7112],
     description: {
       de: "Das exklusivste Handels- und Geschäftsviertel in Kathmandu mit Luxusgeschäften und Banken.",
       hu: "Kathmandu legexkluzívabb kereskedelmi és üzleti negyede luxusüzletekkel és bankokkal.",
@@ -932,7 +932,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-new-baneshwor-financial-economic-v2",
     type: "town",
     name: { de: "Finanzzentrum New Baneshwor", hu: "New Baneshwor pénzügyi központ", ro: "Centrul financiar New Baneshwor", en: "New Baneshwor Financial Hub" },
-    coordinates: { lat: 27.6925, lng: 85.3355 },
+    coords: [85.3355, 27.6925],
     description: {
       de: "Ein wichtiges Finanz- und Verwaltungszentrum in Kathmandu, Sitz vieler Banken und Institutionen.",
       hu: "Jelentős pénzügyi és közigazgatási központ Kathmanduban, számos bank és intézmény székhelye.",
@@ -951,7 +951,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-janakpur-cigarette-factory-economic-v2",
     type: "factory",
     name: { de: "Janakpur Zigarettenfabrik", hu: "Janakpur cigarettagyár", ro: "Fabrica de țigări Janakpur", en: "Janakpur Cigarette Factory" },
-    coordinates: { lat: 26.7125, lng: 85.9415 },
+    coords: [85.9415, 26.7125],
     description: {
       de: "Ehemals die größte Zigarettenfabrik Nepals, heute ein bedeutender Industriekomplex in Janakpur.",
       hu: "Egykor Nepál legnagyobb cigarettagyára, ma jelentős ipari komplexum Janakpurban.",
@@ -970,7 +970,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-arghakhanchi-cement-economic-v2",
     type: "factory",
     name: { de: "Arghakhanchi Zementwerk", hu: "Arghakhanchi cementmű", ro: "Fabrica de ciment Arghakhanchi", en: "Arghakhanchi Cement Plant" },
-    coordinates: { lat: 27.6525, lng: 83.4565 },
+    coords: [83.4565, 27.6525],
     description: {
       de: "Eines der führenden privaten Zementwerke Nepals mit Sitz im Bezirk Rupandehi.",
       hu: "Nepál egyik vezető magánkézben lévő cementgyára Rupandehi körzetben.",
@@ -989,7 +989,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-hongshi-shivam-cement-economic-v2",
     type: "factory",
     name: { de: "Hongshi Shivam Zementwerk", hu: "Hongshi Shivam cementmű", ro: "Fabrica de ciment Hongshi Shivam", en: "Hongshi Shivam Cement Plant" },
-    coordinates: { lat: 27.6015, lng: 84.0025 },
+    coords: [84.0025, 27.6015],
     description: {
       de: "Ein riesiges Joint Venture zwischen Nepal und China, das eine der modernsten Zementfabriken betreibt.",
       hu: "Hatalmas nepáli-kínai vegyesvállalat, amely az egyik legmodernebb cementgyárat üzemelteti.",
@@ -1008,7 +1008,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-devighat-hydropower-economic-v2",
     type: "industry",
     name: { de: "Devighat Wasserkraftwerk", hu: "Devighat vízerőmű", ro: "Hidrocentrala Devighat", en: "Devighat Hydropower Station" },
-    coordinates: { lat: 27.8525, lng: 85.1215 },
+    coords: [85.1215, 27.8525],
     description: {
       de: "Ein wichtiges Wasserkraftwerk am Trishuli-Fluss, das einen wesentlichen Beitrag zum Netz leistet.",
       hu: "Jelentős vízerőmű a Trishuli folyón, amely alapvető hálózati hozzájárulást biztosít.",
@@ -1027,7 +1027,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-puwa-khola-hydropower-economic-v2",
     type: "industry",
     name: { de: "Puwa Khola Wasserkraftwerk", hu: "Puwa Khola vízerőmű", ro: "Hidrocentrala Puwa Khola", en: "Puwa Khola Hydropower Station" },
-    coordinates: { lat: 26.9122, lng: 87.9555 },
+    coords: [87.9555, 26.9122],
     description: {
       de: "Ein bedeutendes Wasserkraftwerk im Bezirk Ilam, das die Energieversorgung in Ostnepal unterstützt.",
       hu: "Jelentős vízerőmű Ilam körzetben, amely Kelet-Nepál energiaellátását segíti.",
@@ -1046,7 +1046,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-ilam-cheese-factory-economic-v2",
     type: "factory",
     name: { de: "Käsefabrik von Ilam", hu: "Ilami sajtgyár", ro: "Fabrica de brânzeturi din Ilam", en: "Ilam Cheese Production Center" },
-    coordinates: { lat: 26.9015, lng: 87.9025 },
+    coords: [87.9025, 26.9015],
     description: {
       de: "Ilam ist berühmt für seine Milchprodukte, insbesondere für handwerklich hergestellten Käse.",
       hu: "Ilam híres tejtermékeiről, különösen a kézműves sajtokról és a tejfeldolgozásról.",
@@ -1065,7 +1065,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-jumla-walnut-orchards-economic-v2",
     type: "industry",
     name: { de: "Walnussplantagen von Jumla", hu: "Jumla dióültetvények", ro: "Livezile de nuci din Jumla", en: "Jumla Walnut Orchards" },
-    coordinates: { lat: 29.2725, lng: 82.1855 },
+    coords: [82.1855, 29.2725],
     description: {
       de: "Die Hochgebirgsregion Jumla ist das Zentrum für den Anbau hochwertiger Walnüsse in Nepal.",
       hu: "Jumla magashegyi régiója a kiváló minőségű dió termesztésének központja Nepálban.",
@@ -1084,7 +1084,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-tansen-coffee-economic-v2",
     type: "industry",
     name: { de: "Kaffeeproduktion Tansen", hu: "Tansen kávétermelés", ro: "Producția de cafea din Tansen", en: "Tansen Coffee Production" },
-    coordinates: { lat: 27.8655, lng: 83.5515 },
+    coords: [83.5515, 27.8655],
     description: {
       de: "Tansen im Bezirk Palpa ist ein Pionierstandort für den kommerziellen Kaffeeanbau in Nepal.",
       hu: "Tansen, Palpa körzetben, a kereskedelmi kávétermesztés egyik úttörő helyszíne Nepálban.",
@@ -1103,7 +1103,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-surkhet-industrial-economic-v2",
     type: "industry",
     name: { de: "Surkhet Gewerbegebiet", hu: "Surkhet ipari terület", ro: "Zona industrială Surkhet", en: "Surkhet Industrial Estate" },
-    coordinates: { lat: 28.5912, lng: 81.6325 },
+    coords: [81.6325, 28.5912],
     description: {
       de: "Das wichtigste Industrie- und Handelszentrum in der Provinz Karnali im Westen Nepals.",
       hu: "Nyugat-Nepál Karnali tartományának legfontosabb ipari és kereskedelmi központja.",
@@ -1122,7 +1122,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-nuwakot-solar-power-economic-v2",
     type: "industry",
     name: { de: "Nuwakot Solarpark", hu: "Nuwakot napelempark", ro: "Parcul solar Nuwakot", en: "Nuwakot Solar Power Station" },
-    coordinates: { lat: 27.9025, lng: 85.1555 },
+    coords: [85.1555, 27.9025],
     description: {
       de: "Das größte Solarenergieprojekt Nepals, das die Abhängigkeit von Wasserkraft diversifiziert.",
       hu: "Nepál legnagyobb napenergia-projektje, amely diverzifikálja a vízerőművektől való függőséget.",
@@ -1141,7 +1141,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "nepal-sunkoshi-marin-diversion-economic-v2",
     type: "industry",
     name: { de: "Sunkoshi-Marin Umleitungsprojekt", hu: "Sunkoshi-Marin terelési projekt", ro: "Proiectul de deviere Sunkoshi-Marin", en: "Sunkoshi Marin Diversion Project" },
-    coordinates: { lat: 27.2515, lng: 85.9125 },
+    coords: [85.9125, 27.2515],
     description: {
       de: "Ein riesiges Infrastrukturprojekt zur Bewässerung und Stromerzeugung in der Terai-Region.",
       hu: "Hatalmas infrastruktúrális projekt öntözésre és áramtermelésre a Terai régióban.",

@@ -1046,7 +1046,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-enco-fuel-storage-economic-v2",
     type: "industry",
     name: { de: "ENCO Treibstofflager", hu: "ENCO üzemanyag-tároló", ro: "Depozitul de combustibil ENCO", en: "ENCO Fuel Storage" },
-    coordinates: { lat: 0.3542, lng: 6.7081 },
+    coords: [6.7081, 0.3542],
     description: {
       de: "Das zentrale Lager für Erdölprodukte verwaltet die Energiereserven des Landes und liegt strategisch günstig an der Nordküste.",
       hu: "A kőolajtermékek központi tárolója kezeli az ország energiatartalékait, és stratégiai helyen, az északi parton található.",
@@ -1065,7 +1065,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-cst-telecom-hub-economic-v2",
     type: "industry",
     name: { de: "CST Telekommunikationszentrum", hu: "CST távközlési központ", ro: "Centrul de telecomunicații CST", en: "CST Communications Hub" },
-    coordinates: { lat: 0.3391, lng: 6.7324 },
+    coords: [6.7324, 0.3391],
     description: {
       de: "Dies ist der wichtigste Knotenpunkt für die digitale Infrastruktur des Landes und beherbergt die Anbindung an Unterseekabel.",
       hu: "Ez az ország digitális infrastruktúrájának legfontosabb csomópontja, amely a tenger alatti kábelek csatlakozását biztosítja.",
@@ -1084,7 +1084,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-emae-power-center-economic-v2",
     type: "industry",
     name: { de: "EMAE Energiezentrum", hu: "EMAE energiaelosztó", ro: "Centrul energetic EMAE", en: "EMAE Power Center" },
-    coordinates: { lat: 0.3315, lng: 6.7242 },
+    coords: [6.7242, 0.3315],
     description: {
       de: "Das Verwaltungs- und Technikzentrum des staatlichen Energieversorgers steuert die Stromverteilung für die gesamte Insel São Tomé.",
       hu: "Az állami energiaszolgáltató adminisztratív és technikai központja irányítja São Tomé szigetének áramelosztását.",
@@ -1103,7 +1103,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-enaport-logistics-economic-v2",
     type: "port",
     name: { de: "ENAPORT Logistikzone", hu: "ENAPORT logisztikai zóna", ro: "Zona logistică ENAPORT", en: "ENAPORT Logistics Zone" },
-    coordinates: { lat: 0.3455, lng: 6.7412 },
+    coords: [6.7412, 0.3455],
     description: {
       de: "Diese Zone am Hafen von Ana Chaves dient als wichtigstes Containerterminal und Abwicklungszentrum für den Seehandel.",
       hu: "Az Ana Chaves-öböl kikötőjében található zóna az ország legfontosabb konténerterminálja és tengeri kereskedelmi központja.",
@@ -1122,7 +1122,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-pague-development-economic-v2",
     type: "industry",
     name: { de: "Pagué Entwicklungsgebiet", hu: "Pagué fejlesztési körzet", ro: "Districtul de dezvoltare Pagué", en: "Pagué Development District" },
-    coordinates: { lat: 1.6358, lng: 7.4125 },
+    coords: [7.4125, 1.6358],
     description: {
       de: "Das wirtschaftliche Zentrum der Insel Príncipe umfasst die Verwaltung und lokale Handelsbetriebe in der Region Pagué.",
       hu: "Príncipe szigetének gazdasági központja magában foglalja Pagué régió adminisztrációját és helyi kereskedelmi egységeit.",
@@ -1141,7 +1141,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-mesquita-processing-economic-v2",
     type: "factory",
     name: { de: "Mesquita Verarbeitungszentrum", hu: "Mesquita feldolgozóüzem", ro: "Centrul de procesare Mesquita", en: "Mesquita Processing Plant" },
-    coordinates: { lat: 0.2921, lng: 6.6745 },
+    coords: [6.6745, 0.2921],
     description: {
       de: "In diesem landwirtschaftlichen Zentrum werden Kakao und Kaffee für den Export vorbereitet und qualitätsgeprüft.",
       hu: "Ebben a mezőgazdasági központban készítik elő és ellenőrzik az exportra szánt kakaót és kávét.",
@@ -1160,7 +1160,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-diogo-nunes-base-economic-v2",
     type: "industry",
     name: { de: "Diogo Nunes Agrarstützpunkt", hu: "Diogo Nunes mezőgazdasági bázis", ro: "Baza agricolă Diogo Nunes", en: "Diogo Nunes Agricultural Base" },
-    coordinates: { lat: 0.3784, lng: 6.6352 },
+    coords: [6.6352, 0.3784],
     description: {
       de: "Dieser Standort im Distrikt Lobata ist ein bedeutendes Zentrum für den Anbau und die erste Verarbeitung von Nutzpflanzen.",
       hu: "Ez a Lobata körzetben található helyszín a haszonnövények termesztésének és elsődleges feldolgozásának jelentős központja.",
@@ -1179,7 +1179,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-vanhulst-estate-economic-v2",
     type: "factory",
     name: { de: "Vanhulst Landgut", hu: "Vanhulst birtok", ro: "Domeniul Vanhulst", en: "Vanhulst Cacao Estate" },
-    coordinates: { lat: 1.5582, lng: 7.3821 },
+    coords: [7.3821, 1.5582],
     description: {
       de: "Dieses Anwesen auf Príncipe ist für seine hochwertige Kakaoproduktion bekannt und umfasst weitläufige Plantagenflächen.",
       hu: "Ez a Príncipe szigetén található birtok kiváló minőségű kakaótermeléséről ismert, és kiterjedt ültetvényekkel rendelkezik.",
@@ -1198,7 +1198,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-ponta-baleia-terminal-economic-v2",
     type: "port",
     name: { de: "Ponta Baleia Terminal", hu: "Ponta Baleia kikötőállomás", ro: "Terminalul Ponta Baleia", en: "Ponta Baleia Terminal" },
-    coordinates: { lat: 0.0385, lng: 6.5412 },
+    coords: [6.5412, 0.0385],
     description: {
       de: "Das Terminal an der Südspitze ist der entscheidende logistische Verbindungspunkt für den Verkehr zur Insel Ilhéu das Rolas.",
       hu: "A déli csücsökben található terminál a legfontosabb logisztikai kapcsolódási pont az Ilhéu das Rolas szigetre irányuló forgalom számára.",
@@ -1217,7 +1217,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
     id: "saotomeandprincipe-morro-carregado-site-economic-v2",
     type: "mine",
     name: { de: "Morro Carregado Industrieareal", hu: "Morro Carregado ipari terület", ro: "Situl industrial Morro Carregado", en: "Morro Carregado Industrial Site" },
-    coordinates: { lat: 0.4182, lng: 6.6435 },
+    coords: [6.6435, 0.4182],
     description: {
       de: "Dieses Gebiet dient der Gewinnung von Baumaterialien und ist ein wichtiger Standort für die lokale Infrastrukturentwicklung.",
       hu: "Ez a terület építőanyagok kitermelésére szolgál, és a helyi infrastruktúra-fejlesztés fontos helyszíne.",

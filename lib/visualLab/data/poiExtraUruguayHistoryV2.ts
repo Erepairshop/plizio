@@ -792,7 +792,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-fuerte-general-artigas-history-v2",
     type: "landmark",
     name: { de: "Fuerte General Artigas", hu: "General Artigas erőd", ro: "Fortăreața General Artigas", en: "General Artigas Fort" },
-    coordinates: { lat: -34.8878, lng: -56.2483 },
+    coords: [-56.2483, -34.8878],
     description: {
       de: "Historische Festungsanlage in Montevideo, die zur Verteidigung des Hafens errichtet wurde. Heute dient sie als militärisches Denkmal.",
       hu: "Montevideóban található történelmi erődítmény, amelyet a kikötő védelmére építettek. Ma katonai emlékműként funkcionál.",
@@ -811,7 +811,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-iglesia-de-carmelo-history-v2",
     type: "church",
     name: { de: "Iglesia de Nuestra Señora del Carmen", hu: "Iglesia de Nuestra Señora del Carmen templom", ro: "Biserica Nuestra Señora del Carmen", en: "Nuestra Señora del Carmen Church" },
-    coordinates: { lat: -33.9961, lng: -58.2778 },
+    coords: [-58.2778, -33.9961],
     description: {
       de: "Historische Kirche in Carmelo aus der Kolonialzeit. Sie ist ein Beispiel für die Architektur der Region im 19. Jahrhundert.",
       hu: "Történelmi templom Carmelo városában, amely a gyarmati időszakból származik. A 19. századi regionális építészet példája.",
@@ -830,7 +830,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-estancia-san-pedro-timote-history-v2",
     type: "landmark",
     name: { de: "Estancia San Pedro de Timote", hu: "Estancia San Pedro de Timote birtok", ro: "Estancia San Pedro de Timote", en: "Estancia San Pedro de Timote" },
-    coordinates: { lat: -33.8211, lng: -56.3472 },
+    coords: [-56.3472, -33.8211],
     description: {
       de: "Eine der ältesten Estancias in Uruguay, die tief in der Geschichte des Landes verwurzelt ist. Sie war ein Zentrum der Viehzucht.",
       hu: "Uruguay egyik legrégebbi estanciája, amely mélyen gyökerezik az ország történelmében. Az állattenyésztés központja volt.",
@@ -849,7 +849,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-fortin-de-san-antonio-history-v2",
     type: "landmark",
     name: { de: "Fortín de San Antonio", hu: "Fortín de San Antonio erődítmény", ro: "Fortín de San Antonio", en: "Fortín de San Antonio" },
-    coordinates: { lat: -34.6853, lng: -54.9125 },
+    coords: [-54.9125, -34.6853],
     description: {
       de: "Ein altes Verteidigungsbauwerk in der Region Rocha, das zur Überwachung der Küstengrenzen diente. Es ist heute eine Ruine.",
       hu: "Régi védelmi építmény Rocha régióban, amelyet a tengerparti határok felügyeletére használtak. Ma már csak rom.",
@@ -868,7 +868,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-monumento-al-gaucho-history-v2",
     type: "monument",
     name: { de: "Monumento al Gaucho", hu: "Monumento al Gaucho emlékmű", ro: "Monumento al Gaucho", en: "Monumento al Gaucho" },
-    coordinates: { lat: -34.9045, lng: -56.1917 },
+    coords: [-56.1917, -34.9045],
     description: {
       de: "Ein prominentes Denkmal in Montevideo zu Ehren der Gaucho-Kultur, die für Uruguay historisch bedeutend ist. Es steht zentral in der Stadt.",
       hu: "Montevideóban található jelentős emlékmű a gaucho kultúra tiszteletére, amely történelmileg fontos Uruguay számára. A város központjában áll.",
@@ -887,7 +887,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-teatro-maccio-history-v2",
     type: "theater",
     name: { de: "Teatro Macció", hu: "Teatro Macció színház", ro: "Teatro Macció", en: "Teatro Macció" },
-    coordinates: { lat: -34.3361, lng: -56.7136 },
+    coords: [-56.7136, -34.3361],
     description: {
       de: "Historisches Theater in San José de Mayo, bekannt für seine klassizistische Architektur. Es wurde Anfang des 20. Jahrhunderts eröffnet.",
       hu: "Történelmi színház San José de Mayo városában, amely klasszicista építészetéről ismert. A 20. század elején nyitották meg.",
@@ -906,7 +906,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-casa-de-rivera-durazno-history-v2",
     type: "museum",
     name: { de: "Museo Histórico Casa de Rivera", hu: "Museo Histórico Casa de Rivera múzeum", ro: "Museo Histórico Casa de Rivera", en: "Casa de Rivera Historic Museum" },
-    coordinates: { lat: -33.3814, lng: -56.4975 },
+    coords: [-56.4975, -33.3814],
     description: {
       de: "Dieses historische Haus in Durazno diente dem ersten Präsidenten Uruguays als Wohnsitz. Heute beherbergt es ein Geschichtsmuseum.",
       hu: "Ez a duraznói történelmi ház Uruguay első elnökének rezidenciájaként szolgált. Ma történeti múzeum található benne.",
@@ -925,7 +925,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-estancia-la-aurora-history-v2",
     type: "landmark",
     name: { de: "Estancia La Aurora", hu: "Estancia La Aurora birtok", ro: "Estancia La Aurora", en: "Estancia La Aurora" },
-    coordinates: { lat: -31.3325, lng: -57.8547 },
+    coords: [-57.8547, -31.3325],
     description: {
       de: "Eine bekannte Estancia in der Nähe von Salto, die für ihre Geschichte und landwirtschaftliche Bedeutung bekannt ist.",
       hu: "Ismert estancia Salto közelében, amely történelméről és mezőgazdasági jelentőségéről híres.",
@@ -944,7 +944,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-puente-colgante-carmelo-history-v2",
     type: "bridge",
     name: { de: "Puente Giratorio de Carmelo", hu: "Puente Giratorio de Carmelo híd", ro: "Puente Giratorio de Carmelo", en: "Carmelo Swinging Bridge" },
-    coordinates: { lat: -40.0019, lng: -58.2694 },
+    coords: [-58.2694, -40.0019],
     description: {
       de: "Eine historische bewegliche Brücke in Carmelo, die eine technologische Errungenschaft des frühen 20. Jahrhunderts darstellt.",
       hu: "Történelmi mozgatható híd Carmelo városában, amely a 20. század eleji technológiai vívmányt képviseli.",
@@ -963,7 +963,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-estancia-santa-elena-history-v2",
     type: "landmark",
     name: { de: "Estancia Santa Elena", hu: "Estancia Santa Elena birtok", ro: "Estancia Santa Elena", en: "Estancia Santa Elena" },
-    coordinates: { lat: -33.9214, lng: -57.4128 },
+    coords: [-57.4128, -33.9214],
     description: {
       de: "Ein historisches Anwesen, das typisch für das ländliche Leben Uruguays im 19. Jahrhundert ist.",
       hu: "Történelmi birtok, amely tipikus Uruguay 19. századi vidéki életére.",
@@ -982,7 +982,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-monumento-batalla-sarandi-history-v2",
     type: "monument",
     name: { de: "Monumento a la Batalla de Sarandí", hu: "Monumento a la Batalla de Sarandí emlékmű", ro: "Monumento a la Batalla de Sarandí", en: "Battle of Sarandí Monument" },
-    coordinates: { lat: -33.3986, lng: -55.6742 },
+    coords: [-55.6742, -33.3986],
     description: {
       de: "Ein Denkmal in der Nähe von Sarandí del Yí zur Erinnerung an die bedeutende Schlacht von Sarandí im Jahr 1825.",
       hu: "Sarandí del Yí közelében található emlékmű az 1825-ös jelentős sarandí-i csata emlékére.",
@@ -1001,7 +1001,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-museo-historico-rocha-history-v2",
     type: "museum",
     name: { de: "Museo Histórico de Rocha", hu: "Museo Histórico de Rocha múzeum", ro: "Museo Histórico de Rocha", en: "Rocha Historic Museum" },
-    coordinates: { lat: -34.4811, lng: -54.3333 },
+    coords: [-54.3333, -34.4811],
     description: {
       de: "Ein Museum in Rocha, das die Geschichte der Region von der Kolonialzeit bis zur Moderne präsentiert.",
       hu: "Rocha városában található múzeum, amely a régió történelmét mutatja be a gyarmati időktől a modern korig.",
@@ -1020,7 +1020,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-iglesia-de-soriano-history-v2",
     type: "church",
     name: { de: "Iglesia de Santo Domingo de Soriano", hu: "Iglesia de Santo Domingo de Soriano templom", ro: "Biserica Santo Domingo de Soriano", en: "Santo Domingo de Soriano Church" },
-    coordinates: { lat: -33.4333, lng: -58.2167 },
+    coords: [-58.2167, -33.4333],
     description: {
       de: "Eine der ältesten Kirchen Uruguays, gelegen im Dorf Villa Soriano, das eine reiche koloniale Vergangenheit hat.",
       hu: "Uruguay egyik legrégebbi temploma, a Villa Soriano faluban található, amely gazdag gyarmati múlttal rendelkezik.",
@@ -1039,7 +1039,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-antigua-estacion-tacuarembo-history-v2",
     type: "landmark",
     name: { de: "Antigua Estación de Ferrocarril de Tacuarembó", hu: "Antigua Estación de Ferrocarril de Tacuarembó vasútállomás", ro: "Antigua Estación de Ferrocarril de Tacuarembó", en: "Old Tacuarembó Railway Station" },
-    coordinates: { lat: -31.7083, lng: -55.9778 },
+    coords: [-55.9778, -31.7083],
     description: {
       de: "Historischer Bahnhof von Tacuarembó, der eine Schlüsselrolle in der wirtschaftlichen Entwicklung der Region spielte.",
       hu: "Tacuarembó történelmi vasútállomása, amely kulcsszerepet játszott a régió gazdasági fejlődésében.",
@@ -1058,7 +1058,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-monumento-a-la-bandera-history-v2",
     type: "monument",
     name: { de: "Monumento a la Bandera", hu: "Monumento a la Bandera emlékmű", ro: "Monumento a la Bandera", en: "Flag Monument" },
-    coordinates: { lat: -34.9081, lng: -56.1742 },
+    coords: [-56.1742, -34.9081],
     description: {
       de: "Ein Denkmal in Montevideo, das der uruguayischen Flagge gewidmet ist und eine wichtige nationale Symbolik trägt.",
       hu: "Montevideóban található emlékmű, amelyet az uruguayi zászlónak szenteltek, és fontos nemzeti szimbolikával bír.",
@@ -1077,7 +1077,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-casa-de-la-cultura-melo-history-v2",
     type: "museum",
     name: { de: "Casa de la Cultura de Melo", hu: "Casa de la Cultura de Melo", ro: "Casa de la Cultura de Melo", en: "Melo Culture House" },
-    coordinates: { lat: -32.3736, lng: -54.1758 },
+    coords: [-54.1758, -32.3736],
     description: {
       de: "Ein historisches Gebäude in Melo, das heute als Kulturzentrum dient und die lokale Kunstszene unterstützt.",
       hu: "Melo történelmi épülete, amely ma kulturális központként szolgál, és támogatja a helyi művészeti életet.",
@@ -1096,7 +1096,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-fuerte-general-artigas-minero-history-v2",
     type: "landmark",
     name: { de: "Fuerte de San Miguel (Minas)", hu: "Fuerte de San Miguel (Minas) erőd", ro: "Fuerte de San Miguel (Minas)", en: "Fort of San Miguel (Minas)" },
-    coordinates: { lat: -34.3731, lng: -55.2347 },
+    coords: [-55.2347, -34.3731],
     description: {
       de: "Ein kleines historisches Fort in der Nähe von Minas, das Teil der alten Verteidigungslinien war.",
       hu: "Egy kis történelmi erőd Minas közelében, amely a régi védelmi vonalak része volt.",
@@ -1115,7 +1115,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
     id: "uruguay-plaza-de-la-democracia-history-v2",
     type: "landmark",
     name: { de: "Plaza de la Democracia", hu: "Plaza de la Democracia tér", ro: "Plaza de la Democracia", en: "Democracy Square" },
-    coordinates: { lat: -34.8911, lng: -56.1658 },
+    coords: [-56.1658, -34.8911],
     description: {
       de: "Ein bedeutender Platz in Montevideo, der den Übergang Uruguays zur modernen Demokratie symbolisiert.",
       hu: "Montevideóban található jelentős tér, amely Uruguay modern demokráciába való átmenetét szimbolizálja.",

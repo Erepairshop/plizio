@@ -872,7 +872,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-yanqul-cities-v2",
     type: "city",
     name: { de: "Janqul", hu: "Jankul", ro: "Yanqul", en: "Yanqul" },
-    coordinates: { lat: 23.5889, lng: 56.5492 },
+    coords: [56.5492, 23.5889],
     description: {
       de: "Janqul liegt in der Region Dhahirah und ist von schroffen Bergen umgeben. Die Stadt ist bekannt für ihre historische Festung Bait al-Marah.",
       hu: "Jankul a Zahira régióban fekszik, zord hegyek által körülvéve. A város a történelmi Bait al-Marah erődítményéről nevezetes.",
@@ -891,7 +891,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-bidbid-cities-v2",
     type: "city",
     name: { de: "Bidbid", hu: "Bidbid", ro: "Bidbid", en: "Bidbid" },
-    coordinates: { lat: 23.4042, lng: 58.1189 },
+    coords: [58.1189, 23.4042],
     description: {
       de: "Bidbid gilt als Tor zum Landesinneren von Maskat aus. Die Stadt ist berühmt für ihre alten Wachtürme und das grüne Wadi-Umfeld.",
       hu: "Bidbid Maszkat felől érkezve a belső területek kapujának számít. A város híres régi őrtornyairól és zöldellő vádi környezetéről.",
@@ -910,7 +910,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-samail-cities-v2",
     type: "city",
     name: { de: "Samail", hu: "Szamail", ro: "Samail", en: "Samail" },
-    coordinates: { lat: 23.3081, lng: 57.9483 },
+    coords: [57.9483, 23.3081],
     description: {
       de: "Samail liegt in einem fruchtbaren Tal und beherbergt die älteste Moschee des Oman. Die Stadt ist für ihre Festung und Dattelplantagen bekannt.",
       hu: "Szamail egy termékeny völgyben fekszik, és itt található Omán legrégebbi mecsetje. A város erődjéről és pálmaligeteiről ismert.",
@@ -929,7 +929,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-khaburah-cities-v2",
     type: "city",
     name: { de: "Al-Chabura", hu: "Al-Habúra", ro: "Al Khaburah", en: "Al Khaburah" },
-    coordinates: { lat: 23.9786, lng: 57.0989 },
+    coords: [57.0989, 23.9786],
     description: {
       de: "Al-Chabura ist eine bedeutende Küstenstadt in der Region Batinah. Sie ist bekannt für den traditionellen Bootsbau und ihre Fischereihäfen.",
       hu: "Al-Habúra jelentős tengerparti város a Bátina régióban. Hagyományos hajóépítéséről és halászkikötőiről nevezetes.",
@@ -948,7 +948,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-hilf-cities-v2",
     type: "city",
     name: { de: "Hilf", hu: "Hilf", ro: "Hilf", en: "Hilf" },
-    coordinates: { lat: 20.6611, lng: 58.8911 },
+    coords: [58.8911, 20.6611],
     description: {
       de: "Hilf ist der Hauptort auf der Insel Masirah und das Zentrum für Handel und Verkehr. Hier legen die Fähren vom Festland an.",
       hu: "Hilf Maszira szigetének fő települése, a kereskedelem és közlekedés központja. Itt kötnek ki a szárazföldről érkező kompok.",
@@ -967,7 +967,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-izki-cities-v2",
     type: "city",
     name: { de: "Izki", hu: "Izki", ro: "Izki", en: "Izki" },
-    coordinates: { lat: 22.9333, lng: 57.7667 },
+    coords: [57.7667, 22.9333],
     description: {
       de: "Izki gilt als eine der ältesten bewohnten Städte Omans. Sie liegt am Fuße des Jebel Akhdar und ist für ihre Falaj-Bewässerung bekannt.",
       hu: "Izki Omán egyik legrégebbi lakott városa. A Dzsebel Ahdar lábánál fekszik, és faladzs-öntözőrendszeréről nevezetes.",
@@ -986,7 +986,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-kamil-cities-v2",
     type: "city",
     name: { de: "Al-Kamil", hu: "Al-Kámil", ro: "Al Kamil", en: "Al Kamil" },
-    coordinates: { lat: 22.2139, lng: 59.2014 },
+    coords: [59.2014, 22.2139],
     description: {
       de: "Al-Kamil ist eine historische Stadt in der Region Scharquiyya, bekannt für ihre traditionelle Architektur. Sie dient als wichtiger Handelsknotenpunkt.",
       hu: "Al-Kámil egy történelmi város a Sarkijja régióban, amely hagyományos építészetéről ismert. Fontos kereskedelmi csomópont.",
@@ -1005,7 +1005,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-jalan-bani-bu-hassan-cities-v2",
     type: "city",
     name: { de: "Jalan Bani Bu Hassan", hu: "Jalan Bani Bu Hassan", ro: "Jalan Bani Bu Hassan", en: "Jalan Bani Bu Hassan" },
-    coordinates: { lat: 22.0833, lng: 59.2667 },
+    coords: [59.2667, 22.0833],
     description: {
       de: "Diese Stadt im Süden der Scharquiyya-Region beherbergt eine massive Festung aus dem 19. Jahrhundert. Sie ist ein Zentrum für Kamelzucht.",
       hu: "Ez a dél-sarkijjai város egy hatalmas 19. századi erődnek ad otthont. A tevétenyésztés egyik regionális központja.",
@@ -1024,7 +1024,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-manah-cities-v2",
     type: "city",
     name: { de: "Manah", hu: "Manah", ro: "Manah", en: "Manah" },
-    coordinates: { lat: 22.7844, lng: 57.5911 },
+    coords: [57.5911, 22.7844],
     description: {
       de: "Manah ist berühmt für die Festung Fiqain und ihre Nähe zu Nizwa. Die Stadt hat eine lange Geschichte als Zentrum für Gelehrte.",
       hu: "Manah a Fiqain-erődéről és Nizwa közelségéről nevezetes. A város hosszú múltra tekint vissza a tudósok és vallási vezetők központjaként.",
@@ -1043,7 +1043,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-bidiyah-cities-v2",
     type: "city",
     name: { de: "Bidija", hu: "Bidija", ro: "Bidiyah", en: "Bidiyah" },
-    coordinates: { lat: 22.4453, lng: 58.8106 },
+    coords: [58.8106, 22.4453],
     description: {
       de: "Bidija ist das Tor zu den Wahiba Sands und ein wichtiger Ausgangspunkt für Wüstensafaris. Die Stadt ist für ihre Datteln und Pferde bekannt.",
       hu: "Bidija a Vahiba-homoksivatag kapuja, a sivatagi szafarik fontos kiindulópontja. A város datolyájáról és lovairól is nevezetes.",
@@ -1062,7 +1062,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-awabi-cities-v2",
     type: "city",
     name: { de: "Al-Awabi", hu: "Al-Avábi", ro: "Al Awabi", en: "Al Awabi" },
-    coordinates: { lat: 23.3167, lng: 57.5167 },
+    coords: [57.5167, 23.3167],
     description: {
       de: "Al-Awabi liegt in einem Tal der Hadschar-Berge und führt zum berühmten Wadi Bani Kharous. Die Stadt ist reich an historischen Inschriften.",
       hu: "Al-Avábi a Hadzsar-hegység egyik völgyében fekszik, a híres Vádi Bani Harúsz felé vezető úton. A város történelmi feliratokban gazdag.",
@@ -1081,7 +1081,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-wadi-al-maawil-cities-v2",
     type: "city",
     name: { de: "Wadi al-Maawil", hu: "Vádi al-Maavil", ro: "Wadi Al Maawil", en: "Wadi Al Maawil" },
-    coordinates: { lat: 23.45, lng: 57.65 },
+    coords: [57.65, 23.45],
     description: {
       de: "Dieses Gebiet beherbergt mehrere historische Festungen und alte Herrenhäuser. Es ist bekannt für seine tiefe Verwurzelung in der omanischen Kultur.",
       hu: "Ez a terület számos történelmi erődnek és régi udvarháznak ad otthont. Mélyen gyökerező ománi kulturális örökségéről ismert.",
@@ -1100,7 +1100,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-musanaah-cities-v2",
     type: "city",
     name: { de: "Al-Musana", hu: "Al-Muszana", ro: "Al Musanaah", en: "Al Musanaah" },
-    coordinates: { lat: 23.75, lng: 57.6 },
+    coords: [57.6, 23.75],
     description: {
       de: "Al-Musana ist eine Küstenstadt mit einer starken maritimen Tradition. Heute ist sie auch als Standort für Luxusresorts und Wassersport bekannt.",
       hu: "Al-Muszana erős tengeri hagyományokkal rendelkező parti város. Ma luxusüdülőhelyeiről és vízi sportjairól is ismert.",
@@ -1119,7 +1119,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-sinaw-cities-v2",
     type: "city",
     name: { de: "Sinaw", hu: "Szináv", ro: "Sinaw", en: "Sinaw" },
-    coordinates: { lat: 22.4833, lng: 58.0333 },
+    coords: [58.0333, 22.4833],
     description: {
       de: "Sinaw ist berühmt für seinen geschäftigen Souq, einen der größten des Landes. Er ist ein wichtiger Treffpunkt für Beduinen und Händler.",
       hu: "Szináv híres nyüzsgő piacáról, amely az ország egyik legnagyobbja. A beduinok és kereskedők fontos találkozóhelye.",
@@ -1138,7 +1138,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-ashkharah-cities-v2",
     type: "city",
     name: { de: "Al-Aschchara", hu: "Al-Askara", ro: "Al Ashkharah", en: "Al Ashkharah" },
-    coordinates: { lat: 21.8333, lng: 59.3 },
+    coords: [59.3, 21.8333],
     description: {
       de: "Diese Küstenstadt am Arabischen Meer ist für ihre kühlen Sommerbrisen bekannt. Sie ist ein wichtiger Fischereihafen und beliebtes Ausflugsziel.",
       hu: "Ez az Arab-tenger partján fekvő város hűvös nyári szellőiről ismert. Fontos halászkikötő és népszerű kirándulóhely.",
@@ -1157,7 +1157,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-sadah-cities-v2",
     type: "city",
     name: { de: "Sada", hu: "Szada", ro: "Sadah", en: "Sadah" },
-    coordinates: { lat: 17.05, lng: 55.0667 },
+    coords: [55.0667, 17.05],
     description: {
       de: "Sada liegt an der Ostküste von Dhofar und blickt auf eine lange Geschichte des Weihrauchhandels zurück. Die Stadt ist von Bergen umgeben.",
       hu: "Szada Dofár keleti partján fekszik, és hosszú múltra tekint vissza a tömjénkereskedelemben. A várost hegyek veszik körül.",
@@ -1176,7 +1176,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-rakhyut-cities-v2",
     type: "city",
     name: { de: "Rachjut", hu: "Rahjut", ro: "Rakhyut", en: "Rakhyut" },
-    coordinates: { lat: 16.75, lng: 53.4167 },
+    coords: [53.4167, 16.75],
     description: {
       de: "Rachjut ist eine malerische Bergstadt im Westen von Dhofar. Während der Khareef-Saison verwandelt sich die Umgebung in ein grünes Paradies.",
       hu: "Rahjut egy festői hegyi város Nyugat-Dofárban. A Hareef-szezon idején a környék zöldellő paradicsommá változik.",
@@ -1195,7 +1195,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-dhalkut-cities-v2",
     type: "city",
     name: { de: "Dalkut", hu: "Dalkut", ro: "Dhalkut", en: "Dhalkut" },
-    coordinates: { lat: 16.7, lng: 53.245 },
+    coords: [53.245, 16.7],
     description: {
       de: "Dalkut ist die westlichste Stadt des Oman an der Grenze zum Jemen. Sie ist berühmt für einen uralten Baobab-Baum und ihre Klippen.",
       hu: "Dalkut Omán legnyugatibb városa a jemeni határnál. Híres egy ősi majomkenyérfáról és hatalmas tengerparti szikláiról.",
@@ -1214,7 +1214,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-muqshin-cities-v2",
     type: "city",
     name: { de: "Mukschin", hu: "Muksin", ro: "Muqshin", en: "Muqshin" },
-    coordinates: { lat: 19.5444, lng: 54.8856 },
+    coords: [54.8856, 19.5444],
     description: {
       de: "Mukschin ist eine Oasenstadt am Rande der Rub al-Chali Wüste. Sie dient als wichtiger Halt für Reisende auf dem Weg in den Süden.",
       hu: "Muksin egy oázisváros a Rub el-Háli sivatag szélén. Fontos pihenőhely a délre tartó utazók számára.",
@@ -1233,7 +1233,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-mazyunah-cities-v2",
     type: "city",
     name: { de: "Al-Masjuna", hu: "Al-Mazjuna", ro: "Al Mazyunah", en: "Al Mazyunah" },
-    coordinates: { lat: 17.8389, lng: 52.6417 },
+    coords: [52.6417, 17.8389],
     description: {
       de: "Al-Masjuna ist eine Grenzstadt zum Jemen und beherbergt eine wichtige Freihandelszone. Sie ist ein Zentrum für grenzüberschreitenden Handel.",
       hu: "Al-Mazjuna egy jemeni határváros, amely egy fontos szabadkereskedelmi zónának ad otthont. A határon átnyúló kereskedelem központja.",
@@ -1252,7 +1252,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-dhank-cities-v2",
     type: "city",
     name: { de: "Dank", hu: "Dank", ro: "Dhank", en: "Dhank" },
-    coordinates: { lat: 23.55, lng: 56.2833 },
+    coords: [56.2833, 23.55],
     description: {
       de: "Dank ist eine landwirtschaftlich geprägte Stadt in der Region Dhahirah. Sie ist bekannt für ihre Wasserkanäle und Festungen.",
       hu: "Dank mezőgazdasági jellegű város a Zahira régióban. Öntözőcsatornáiról és erődítményeiről ismert.",
@@ -1271,7 +1271,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-bukha-cities-v2",
     type: "city",
     name: { de: "Bucha", hu: "Buha", ro: "Bukha", en: "Bukha" },
-    coordinates: { lat: 26.145, lng: 56.15 },
+    coords: [56.15, 26.145],
     description: {
       de: "Bucha liegt an der Westküste der Halbinsel Musandam. Die Stadt wird von einer imposanten Festung überragt, die direkt am Meer liegt.",
       hu: "Buha a Muszandam-félsziget nyugati partján fekszik. A várost egy impozáns, közvetlenül a tengerparton álló erőd uralja.",
@@ -1290,7 +1290,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-madha-cities-v2",
     type: "city",
     name: { de: "Madha", hu: "Madha", ro: "Madha", en: "Madha" },
-    coordinates: { lat: 25.2833, lng: 56.3333 },
+    coords: [56.3333, 25.2833],
     description: {
       de: "Madha ist eine omanische Exklave, die vollständig von den Vereinigten Arabischen Emiraten umgeben ist. Sie hat eine einzigartige geografische Lage.",
       hu: "Madha egy ománi exklávé, amelyet teljesen körülvesz az Egyesült Arab Emírségek. Egyedülálló földrajzi helyzettel rendelkezik.",
@@ -1309,7 +1309,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-birkat-al-mouz-cities-v2",
     type: "city",
     name: { de: "Birkat al-Mauz", hu: "Birkat al-Mauz", ro: "Birkat Al Mouz", en: "Birkat Al Mouz" },
-    coordinates: { lat: 22.9167, lng: 57.6667 },
+    coords: [57.6667, 22.9167],
     description: {
       de: "Diese Stadt liegt am Fuße des Jebel Akhdar und ist berühmt für ihr Falaj-System und die alten Lehmhaussiedlungen.",
       hu: "Ez a város a Dzsebel Ahdar lábánál fekszik, és híres faladzs-rendszeréről, valamint régi agyagházas negyedeiről.",
@@ -1328,7 +1328,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-fanja-cities-v2",
     type: "city",
     name: { de: "Fandscha", hu: "Fandzsa", ro: "Fanja", en: "Fanja" },
-    coordinates: { lat: 23.45, lng: 58.1167 },
+    coords: [58.1167, 23.45],
     description: {
       de: "Fandscha ist bekannt für seine historischen Wachtürme und die traditionellen Souqs direkt an der Autobahn nach Maskat.",
       hu: "Fandzsa történelmi őrtornyairól és a Maszkatba vezető autópálya melletti hagyományos piacairól ismert.",
@@ -1347,7 +1347,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-hadd-cities-v2",
     type: "city",
     name: { de: "Al-Hadd", hu: "Al-Hadd", ro: "Al Hadd", en: "Al Hadd" },
-    coordinates: { lat: 22.5283, lng: 59.7917 },
+    coords: [59.7917, 22.5283],
     description: {
       de: "Al-Hadd liegt am östlichsten Punkt der Arabischen Halbinsel. Die Stadt ist weltberühmt für ihre Schildkröten-Nistplätze.",
       hu: "Al-Hadd az Arab-félsziget legkeletibb pontján fekszik. A város világszerte ismert a teknősök fészkelőhelyeiről.",
@@ -1366,7 +1366,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-shalim-cities-v2",
     type: "city",
     name: { de: "Schalim", hu: "Salim", ro: "Shalim", en: "Shalim" },
-    coordinates: { lat: 18.2111, lng: 55.6256 },
+    coords: [55.6256, 18.2111],
     description: {
       de: "Schalim ist ein Verwaltungszentrum im Nordosten von Dhofar. Die Stadt liegt auf einem Plateau und dient der Öl- und Gasindustrie.",
       hu: "Salim egy közigazgatási központ Északkelet-Dofárban. A város egy fennsíkon fekszik, és az olaj- és gázipart szolgálja ki.",
@@ -1385,7 +1385,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-al-jazir-cities-v2",
     type: "city",
     name: { de: "Al-Dschasir", hu: "Al-Dzsazir", ro: "Al Jazir", en: "Al Jazir" },
-    coordinates: { lat: 18.6333, lng: 56.6333 },
+    coords: [56.6333, 18.6333],
     description: {
       de: "Al-Dschasir ist eine abgelegene Küstenstadt in der Region Al-Wusta. Sie ist bekannt für ihre unberührten Strände und die Fischerei.",
       hu: "Al-Dzsazir egy elszigetelt tengerparti város az El-Vuszta régióban. Érintetlen strandjairól és halászatáról ismert.",
@@ -1404,7 +1404,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "oman-mahout-cities-v2",
     type: "city",
     name: { de: "Mahut", hu: "Mahut", ro: "Mahout", en: "Mahout" },
-    coordinates: { lat: 20.45, lng: 58.2 },
+    coords: [58.2, 20.45],
     description: {
       de: "Mahut liegt an der Küste der Region Al-Wusta und ist von Mangrovenwäldern umgeben. Die Stadt ist ein Tor zum Naturschutzgebiet Barr al-Hikman.",
       hu: "Mahut az El-Vuszta régió partján fekszik, mangroveerdőkkel körülvéve. A város a Barr al-Hikman természetvédelmi terület kapuja.",

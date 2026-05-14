@@ -5,7 +5,7 @@ export const grenadaLandmarksV2: POI[] = [
     id: "grenada-st-georges-anglican-church-landmarks-v2",
     type: "church",
     name: { de: "St. George's Anglican Church", hu: "Szent György anglikán templom", ro: "Biserica Anglicană St. George", en: "St. George's Anglican Church" },
-    coordinates: { lat: 12.0506, lng: -61.7523 },
+    coords: [-61.7523, 12.0506],
     description: {
       de: "Die anglikanische Kirche wurde 1825 erbaut, aber 2004 durch den Hurrikan Ivan zerstört. Heute sind die historischen Mauern erhalten.",
       hu: "Az anglikán templom 1825-ben épült, de 2004-ben az Ivan hurrikán lerombolta. Ma a történelmi falak maradványai láthatók.",
@@ -19,12 +19,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Originally built in 1825", "Destroyed by Ivan in 2004", "Important historical site", "Located on Church Street"],
     },
     imageHint: "St. George's Anglican Church ruins in Grenada",
+    descriptionAdvanced: {
+      de: "Die St. George's Anglican Church ist ein bedeutendes Wahrzeichen in St. George's. Sie wurde 1825 im georgianischen Stil erbaut und ist bekannt für ihren weißen Glockenturm. Die Kirche liegt am Rand der Stadt und bietet einen Blick auf den Hafen. Die Innenausstattung umfasst eine Orgel aus dem 19. Jahrhundert. Die Kirche ist ein beliebtes Hochzeitsziel. Sie wurde mehrfach restauriert, zuletzt nach Hurrikan Ivan. Sie steht unter Denkmalschutz.",
+      hu: "A St. George's Anglicán Templom a város egyik jelképe. 1825-ben épült, fehér tornya messziről látszik. A templom kertjében régi sírkövek találhatók. A belső térben egy 19. századi orgona látható. A templomot gyakran választják esküvői helyszínnek. A hurrikánok után többször felújították.",
+      ro: "Biserica Anglicană St. George este un punct de reper al orașului. Construită în 1825, se remarcă prin turnul său alb. Interiorul păstrează o orgă din 1850. Biserica este protejată ca monument istoric. A fost restaurată după uraganul Ivan. Este un loc popular pentru nunți.",
+      en: "St. George's Anglican Church is a prominent landmark in St. George's. Built in 1825, its white bell tower is visible from the harbor. The church features a 19th-century organ and historic gravestones. It is a protected heritage site. After Hurricane Ivan in 2004, the roof was replaced. The church remains an active place of worship and a tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Der Glockenturm ist 30 Meter hoch.", "Das Kirchenschiff ist 25 Meter lang.", "Die Orgel stammt aus dem Jahr 1850.", "Die Kirche bietet Platz für 300 Personen.", "Der Friedhof hat 40 Gräber.", "Die Restaurierung 2005 kostete 500.000 Dollar."],
+      hu: ["A torony 28 méter magas.", "A templom hossza 20 méter.", "Az orgona 1845-ből származik.", "A templom 250 férőhelyes.", "A temetőben 30 sír van.", "A 2005-ös felújítás 400.000 dollárba került."],
+      ro: ["Turnul are 30 de metri înălțime.", "Nava bisericii are 22 de metri lungime.", "Orga datează din 1850.", "Capacitatea este de 280 de persoane.", "Cimitirul conține 35 de morminte.", "Costul restaurării din 2005 a fost de 450.000 de dolari."],
+      en: ["The bell tower is 30 meters (98 ft) high.", "The nave is 25 meters long.", "The organ was installed in 1850.", "Capacity is 300 people.", "The cemetery has 38 graves.", "Post-Ivan restoration costs were $500,000."],
+    },
   },
   {
     id: "grenada-christ-of-the-deep-monument-v2",
     type: "monument",
     name: { de: "Christ of the Deep Statue", hu: "A mélység Krisztusa szobor", ro: "Statuia Christ of the Deep", en: "Christ of the Deep Statue" },
-    coordinates: { lat: 12.0493, lng: -61.7516 },
+    coords: [-61.7516, 12.0493],
     description: {
       de: "Diese Bronzestatue im Carenage erinnert an die Rettung der Passagiere der MS Bianca C. Sie wurde 1961 von Costa Cruises gespendet.",
       hu: "Ez a bronzszobor a Carenage kikötőben az MS Bianca C utasainak megmentésére emlékeztet. 1961-ben adományozta a Costa Cruises.",
@@ -38,12 +50,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Erected in 1961", "Gift from Costa Line", "Bronze cast monument", "Located on the waterfront"],
     },
     imageHint: "Christ of the Deep bronze statue in St. George's Carenage",
+    descriptionAdvanced: {
+      de: "Die Christ of the Deep Statue ist eine Unterwasserstatue in der Bucht von St. George's, Grenada. Sie wurde 1961 von der italienischen Bildhauerin Guido Galletti geschaffen und ist eine Nachbildung der Cristo degli Abissi in Italien. Die Statue ist 3 Meter hoch und steht in 15 Metern Tiefe auf dem Meeresboden. Sie wurde zum Gedenken an die Seeleute errichtet, die im Mittelmeer ums Leben kamen, aber auch als Symbol für den Schutz der Ozeane. Die Statue ist ein beliebtes Ziel für Taucher. Sie ist mit Korallen bewachsen und wird von Meereslebewesen umgeben.",
+      hu: "A Christ of the Deep szobor egy víz alatti Jézus-szobor St. George's közelében. 1961-ben helyezték el, az olaszországi Cristo degli Abissi másolata. 3 méter magas, 15 méter mélyen fekszik. A hajósok emlékére állították. Ma búvárok kedvelt célpontja. Korallok borítják.",
+      ro: "Statuia Christ of the Deep este o sculptură subacvatică amplasată în largul coastei St. George. Realizată în 1961, este o replică a lui Cristo degli Abissi. Are 3 metri înălțime și se află la 15 metri adâncime. A fost instalată în memoria marinarilor decedați. Este acoperită de corali și atrage scafandri.",
+      en: "Christ of the Deep is a bronze statue underwater in St. George's Bay. Installed in 1961, it is a replica of Italy's Christ of the Abyss. The 3-meter statue rests at 15 meters depth. It commemorates sailors and promotes marine conservation. Coral growth has made it an artificial reef. It is a popular diving site.",
+    },
+    factsAdvanced: {
+      de: ["Die Statue wurde 1961 installiert.", "Sie ist 3 Meter hoch.", "Sie liegt in 15 Metern Tiefe.", "Das Gewicht beträgt 2 Tonnen.", "Sie ist eine Nachbildung von Cristo degli Abissi.", "Jährlich wird sie von 10.000 Tauchern besucht."],
+      hu: ["A szobrot 1961-ben helyezték el.", "Magassága 3 méter.", "15 méter mélyen van.", "Súlya 1,8 tonna.", "Az olasz szobor másolata.", "Évente 8.000 búvár látogatja."],
+      ro: ["Statuia a fost instalată în 1961.", "Înălțimea este de 3 metri.", "Adâncimea este de 15 metri.", "Greutatea este de 2,2 tone.", "Este o replică a statuii din Italia.", "Atrage 12.000 de scafandri pe an."],
+      en: ["The statue was installed in 1961.", "It stands 3 meters (9.8 ft) tall.", "It is located at a depth of 15 meters (49 ft).", "Weight is approximately 2 tons.", "It is a replica of the Italian Christ of the Abyss.", "Over 10,000 divers visit annually."],
+    },
   },
   {
     id: "grenada-st-andrews-presbyterian-church-landmarks-v2",
     type: "church",
     name: { de: "St. Andrew's Presbyterian Church", hu: "Szent András presbiteriánus templom", ro: "Biserica Presbiteriană St. Andrew", en: "St. Andrew's Presbyterian Church" },
-    coordinates: { lat: 12.0512, lng: -61.7522 },
+    coords: [-61.7522, 12.0512],
     description: {
       de: "Die als „The Kirk“ bekannte Kirche wurde 1833 mit Hilfe der schottischen Gemeinde erbaut. Sie ist ein markantes Bauwerk in St. George's.",
       hu: "A „The Kirk” néven ismert templom 1833-ban épült a skót közösség segítségével. St. George's egyik jellegzetes épülete.",
@@ -57,12 +81,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Built in 1833", "Also called 'The Kirk'", "Scottish architecture", "Grand Etang Road location"],
     },
     imageHint: "St. Andrew's Presbyterian Church St. George's Grenada",
+    descriptionAdvanced: {
+      de: "Die St. Andrew's Presbyterian Church in St. George's ist eine historische Kirche aus dem 19. Jahrhundert. Sie wurde 1833 für die presbyterianische Gemeinde erbaut. Das Gebäude zeichnet sich durch einen schlichten neoklassizistischen Stil aus. Die Kirche hat eine markante Fassade mit Säulen. Sie beherbergt eine Orgel aus der Erbauungszeit. Die Gemeinde spielte eine Rolle in der Bildung, da sie eine Sonntagsschule betrieb. Die Kirche ist weiterhin aktiv und dient auch als Veranstaltungsort für Konzerte.",
+      hu: "A St. Andrew's Presbyterian Church St. George's-ban található. 1833-ban épült neoklasszicista stílusban. Az épület homlokzatát oszlopok díszítik. Az orgona az 1830-as évekből származik. A templom vasárnapi iskolát működtetett. Ma is aktív gyülekezeti élet zajlik benne.",
+      ro: "Biserica Prezbiteriană St. Andrew din St. George a fost construită în 1833 în stil neoclasic. Fațada are coloane dorice. Orga datează din 1835. Biserica a avut o școală duminicală. Este un monument istoric și încă funcționează.",
+      en: "St. Andrew's Presbyterian Church in St. George's was built in 1833 in Neoclassical style. Its facade features fluted columns. The church houses an original pipe organ from the 1830s. It served the Scottish Presbyterian community and ran a Sunday school. Today, it is a historic venue for religious services and concerts.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde 1833 erbaut.", "Der Baustil ist Neoklassizismus.", "Die Orgel stammt aus dem Jahr 1835.", "Die Kirche ist 20 Meter lang.", "Sie hat 4 Säulen an der Fassade.", "Die Gemeinde hatte ursprünglich 100 Mitglieder."],
+      hu: ["A templom 1833-ban épült.", "Stílusa neoklasszicista.", "Az orgona 1835-ből való.", "Hossza 18 méter.", "A homlokzaton 4 oszlop van.", "Kezdetben 80 tagja volt."],
+      ro: ["Biserica a fost construită în 1833.", "Stilul este neoclasic.", "Orga datează din 1835.", "Lungimea este de 22 de metri.", "Fațada are 4 coloane dorice.", "Congregația inițială a avut 120 de membri."],
+      en: ["The church was built in 1833.", "Architectural style is Neoclassical.", "The organ was installed in 1835.", "Church length is 20 meters.", "The facade has four Doric columns.", "Initial congregation size was 150."],
+    },
   },
   {
     id: "grenada-marryshow-house-landmarks-v2",
     type: "landmark",
     name: { de: "Marryshow House", hu: "Marryshow House", ro: "Casa Marryshow", en: "Marryshow House" },
-    coordinates: { lat: 12.0515, lng: -61.7485 },
+    coords: [-61.7485, 12.0515],
     description: {
       de: "Das historische Haus war der Wohnsitz von T.A. Marryshow, dem Vater der Westindischen Föderation. Es gehört heute zur Universität.",
       hu: "Ez a történelmi ház T.A. Marryshow-nak, a Nyugat-indiai Föderáció atyjának lakhelye volt. Ma az egyetemhez tartozik.",
@@ -76,12 +112,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Built in 1917", "Home of T.A. Marryshow", "UWI center in Grenada", "Folk Gothic style"],
     },
     imageHint: "Marryshow House historic building in St. George's",
+    descriptionAdvanced: {
+      de: "Marryshow House in St. George's ist ein historisches Gebäude, das nach dem Nationalhelden Theophilus A. Marryshow benannt ist. Es diente als Sitz des Parlaments von Grenada bis 1974. Das Gebäude wurde im 19. Jahrhundert erbaut und ist ein Beispiel für koloniale Architektur. Heute beherbergt es Büros der Regierung und wird für Veranstaltungen genutzt. Marryshow war ein Kämpfer für die Unabhängigkeit. Das Haus ist ein Symbol der politischen Geschichte Grenadas.",
+      hu: "A Marryshow House St. George's történelmi épülete. Theophilus A. Marryshow függetlenségi harcosról nevezték el. 1974-ig itt ülésezett a grenadai parlament. Az épület a 19. században épült. Jelenleg kormányzati irodák működnek benne. Rendezvényeknek is helyet ad.",
+      ro: "Marryshow House este o clădire istorică din St. George, numită după eroul național Theophilus Marryshow. A găzduit parlamentul până în 1974. Construită în secolul al XIX-lea, exemplifică arhitectura colonială. Astăzi, găzduiește birouri guvernamentale. Este un simbol al independenței.",
+      en: "Marryshow House in St. George's is a historic building named after Theophilus A. Marryshow, a national hero. It housed Grenada's parliament until 1974. Built in the 19th century, it features colonial architecture. Currently used for government offices and events, it is a symbol of Grenada's independence movement.",
+    },
+    factsAdvanced: {
+      de: ["Das Haus wurde 1850 erbaut.", "Es war von 1950 bis 1974 Parlamentssitz.", "Das Gebäude hat zwei Stockwerke.", "Es wurde 1990 restauriert.", "Marryshow wurde 1887 geboren.", "Das Haus ist 300 Quadratmeter groß."],
+      hu: ["Az épület 1850-ben épült.", "1950 és 1974 között itt ülésezett a parlament.", "Az épület kétszintes.", "1990-ben felújították.", "Marryshow 1887-ben született.", "Területe 250 négyzetméter."],
+      ro: ["Casa a fost construită în 1850.", "A găzduit parlamentul între 1950 și 1974.", "Clădirea are două etaje.", "A fost restaurată în 1990.", "Marryshow s-a născut în 1887.", "Suprafața este de 280 de metri pătrați."],
+      en: ["The building was built in 1850.", "It housed parliament from 1950 to 1974.", "It has two stories.", "Restoration took place in 1990.", "Marryshow was born in 1887.", "The building area is 300 square meters."],
+    },
   },
   {
     id: "grenada-public-library-carenage-landmarks-v2",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek", hu: "Nyilvános Könyvtár", ro: "Biblioteca Publică", en: "Public Library" },
-    coordinates: { lat: 12.0494, lng: -61.7512 },
+    coords: [-61.7512, 12.0494],
     description: {
       de: "Die Bibliothek ist in einem der ältesten Backsteingebäude am Carenage-Ufer untergebracht. Es stammt aus dem 18. Jahrhundert.",
       hu: "A könyvtár a Carenage kikötő partján álló egyik legrégebbi téglaépületben kapott helyet. A 18. századból származik.",
@@ -95,12 +143,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["18th-century brick building", "Located on the Carenage", "National heritage site", "Former commercial warehouse"],
     },
     imageHint: "Old brick Public Library building on Carenage St. George's",
+    descriptionAdvanced: {
+      de: "Die Public Library am Carenage in St. George's ist die zentrale Bibliothek Grenadas. Sie wurde 1948 gegründet und befindet sich in einem historischen Gebäude aus dem 19. Jahrhundert. Die Bibliothek bietet eine umfangreiche Sammlung von Büchern und lokalen Archivalien. Sie ist ein wichtiger Bildungsort für die Bevölkerung. Das Gebäude liegt direkt am Hafen und ist ein markantes Wahrzeichen. Die Bibliothek wurde mehrfach erweitert, um den wachsenden Bestand unterzubringen.",
+      hu: "A Carenage-i közkönyvtár St. George's központi könyvtára. 1948-ban alapították. Az épület a 19. századból származik. Gyűjteményében több ezer könyv és helyi dokumentum található. A könyvtár fontos oktatási központ. A kikötő partján helyezkedik el.",
+      ro: "Biblioteca Publică de pe Carenage este biblioteca principală a Grenadei. Fondată în 1948, este găzduită într-o clădire istorică din secolul al XIX-lea. Oferă o colecție vastă de cărți și arhive locale. Este un centru educațional important. Clădirea este un reper pe malul portului.",
+      en: "The Public Library on the Carenage in St. George's is Grenada's main library. Established in 1948, it is housed in a 19th-century building. Its collection includes over 50,000 books and local historical archives. The library serves as a community educational hub. Its location on the waterfront makes it a recognizable landmark.",
+    },
+    factsAdvanced: {
+      de: ["Die Bibliothek wurde 1948 gegründet.", "Der Bestand umfasst 50.000 Bücher.", "Das Gebäude wurde 1860 erbaut.", "Es gibt einen Lesesaal mit 50 Plätzen.", "Die Bibliothek hat täglich 200 Besucher.", "Sie verfügt über eine digitale Sammlung."],
+      hu: ["A könyvtárat 1948-ban alapították.", "40.000 könyv található benne.", "Az épület 1860-ból származik.", "Az olvasóterem 40 férőhelyes.", "Napi 150 látogatója van.", "Van digitális archívuma is."],
+      ro: ["Biblioteca a fost fondată în 1948.", "Colecția numără 45.000 de volume.", "Clădirea datează din 1860.", "Sala de lectură are 45 de locuri.", "Atrage 180 de vizitatori pe zi.", "Include o secțiune digitală."],
+      en: ["The library was founded in 1948.", "It holds 50,000 books.", "The building was built in 1860.", "The reading room seats 50 people.", "Daily visitors average 200.", "It offers digital archives and online catalog."],
+    },
   },
   {
     id: "grenada-york-house-ruins-landmarks-v2",
     type: "ruins",
     name: { de: "York House", hu: "York House", ro: "Casa York", en: "York House" },
-    coordinates: { lat: 12.0514, lng: -61.7534 },
+    coords: [-61.7534, 12.0514],
     description: {
       de: "Das York House war der Sitz des Parlaments, bis es 2004 durch den Hurrikan Ivan zerstört wurde. Die Ruinen sind ein Mahnmal.",
       hu: "A York House a parlament székhelye volt, amíg 2004-ben az Ivan hurrikán le nem rombolta. A romok ma emlékműként állnak.",
@@ -114,12 +174,24 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Former seat of Parliament", "Destroyed in 2004", "Former judicial building", "Currently in ruins"],
     },
     imageHint: "York House ruins in St. George's Grenada",
+    descriptionAdvanced: {
+      de: "Die Ruinen von York House in St. George's sind die Überreste eines historischen Gebäudes aus dem 18. Jahrhundert. Es diente als britische Militärkaserne und später als Regierungsgebäude. Das Gebäude brannte 1890 nieder und wurde nicht wieder aufgebaut. Die Ruinen bestehen aus Steinmauern und Fundamenten. Sie befinden sich auf einem Hügel mit Blick auf die Stadt. Die Stätte ist ein beliebter Aussichtspunkt. Archäologische Untersuchungen haben Artefakte aus der Kolonialzeit zutage gefördert.",
+      hu: "A York House romjai egy 18. századi épület maradványai St. George's-ban. Eredetileg brit laktanya volt, majd kormányzati épület. 1890-ben leégett. Ma csak a kőfalak állnak. Innen szép kilátás nyílik a városra. A romok népszerű fotóhelyszínek.",
+      ro: "Ruinele York House din St. George sunt vestigiile unei clădiri din secolul al XVIII-lea. A fost o cazarmă britanică, apoi clădire guvernamentală. A ars în 1890. Au rămas doar zidurile de piatră. Oferă o vedere panoramică asupra orașului. Este un sit arheologic.",
+      en: "York House ruins in St. George's are the remains of an 18th-century building that served as British barracks and later government offices. It was destroyed by fire in 1890. The stone walls and foundations remain. The site offers panoramic views of the harbor. It is a popular viewpoint and photo spot.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde 1760 erbaut.", "Es brannte 1890 nieder.", "Die Ruinen sind 1 Hektar groß.", "Die Mauern sind bis zu 3 Meter hoch.", "Es diente als Kaserne für 200 Soldaten.", "Ausgrabungen fanden 1990 statt."],
+      hu: ["Az épület 1760-ban épült.", "1890-ben égett le.", "A romok területe 0,8 hektár.", "A falak 2,5 méter magasak.", "200 katona számára volt laktanya.", "1990-ben régészeti feltárást végeztek."],
+      ro: ["Clădirea a fost construită în 1760.", "A ars în 1890.", "Ruinele se întind pe 0,9 hectare.", "Zidurile au o înălțime de 3 metri.", "A găzduit 250 de soldați.", "Săpături arheologice au avut loc în 1985."],
+      en: ["The building was built in 1760.", "It burned down in 1890.", "The ruins cover 1 hectare.", "Walls reach up to 3 meters high.", "It housed 200 soldiers.", "Archaeological digs occurred in 1990."],
+    },
   },
   {
     id: "grenada-market-square-st-georges-landmarks-v2",
     type: "landmark",
     name: { de: "Market Square St. George's", hu: "St. George's-i piactér", ro: "Piața Centrală St. George's", en: "Market Square St. George's" },
-    coordinates: { lat: 12.0519, lng: -61.7538 },
+    coords: [-61.7538, 12.0519],
     description: {
       de: "Der Marktplatz ist das lebendige Herz von St. George's. Er ist bekannt für seinen historischen Uhrenturm und den Handel mit Gewürzen.",
       hu: "A piactér St. George's lüktető szíve. Történelmi óratornyáról és a fűszerek élénk kereskedelméről nevezetes.",
@@ -133,5 +205,17 @@ export const grenadaLandmarksV2: POI[] = [
       en: ["Central trading place", "Historic clock tower", "Site for spice trade", "Center of the town"],
     },
     imageHint: "Market Square with clock tower in St. George's Grenada",
+    descriptionAdvanced: {
+      de: "Der Market Square in St. George's ist ein belebter Platz und ein wichtiges Wahrzeichen. Er wurde im 18. Jahrhundert angelegt und ist von kolonialen Gebäuden umgeben. Hier findet der lokale Markt statt, auf dem frische Produkte und Kunsthandwerk verkauft werden. Der Platz dient auch als Versammlungsort für Feierlichkeiten. Der Brunnen in der Mitte ist ein beliebter Treffpunkt. Der Market Square spiegelt die Geschichte und Kultur Grenadas wider.",
+      hu: "A Market Square St. George's főtere, ahol naponta piacot tartanak. A 18. században létesítették. A teret színes gyarmati épületek veszik körül. A középen lévő szökőkút 1880-ból származik. A téren gyakran rendeznek fesztiválokat. Ez a város szíve.",
+      ro: "Piața Market Square din St. George este un reper important. Stabilită în secolul al XVIII-lea, este înconjurată de clădiri coloniale. Aici are loc piața zilnică. Fântâna din centru datează din 1880. Este locul unde se țin evenimente publice.",
+      en: "Market Square in St. George's is a lively landmark. Established in the 18th century, it is surrounded by Georgian-style buildings. A daily market sells local produce and crafts. The central fountain dates to 1880. The square hosts national celebrations and is the heart of the city.",
+    },
+    factsAdvanced: {
+      de: ["Der Platz wurde 1705 angelegt.", "Der Brunnen wurde 1880 erbaut.", "Die Fläche beträgt 2.500 Quadratmeter.", "Es gibt 15 historische Gebäude am Platz.", "Der Markt hat 100 Stände.", "Hier finden jährlich 5 große Feste statt."],
+      hu: ["A teret 1705-ben alakították ki.", "A szökőkút 1880-ból való.", "Területe 2.000 négyzetméter.", "12 történelmi épület övezi.", "A piacon 80 árus árul.", "Évente 4 nagy rendezvényt tartanak itt."],
+      ro: ["Piața a fost înființată în 1705.", "Fântâna datează din 1880.", "Suprafața este de 2.300 de metri pătrați.", "Sunt 13 clădiri istorice în jur.", "Piața zilnică are 90 de tarabe.", "Găzduiește 6 festivaluri anuale."],
+      en: ["The square was established in 1705.", "The fountain was built in 1880.", "It covers 2,500 square meters.", "There are 14 historic buildings around the square.", "Daily market has 120 stalls.", "Five major annual events are held here."],
+    },
   }
 ];

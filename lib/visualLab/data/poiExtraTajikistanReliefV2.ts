@@ -713,7 +713,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     id: "tajikistan-fedchenko-glacier-relief-v2",
     type: "mountain",
     name: { de: "Fedtschenko-Gletscher", hu: "Fedcsenko-gleccser", ro: "Ghețarul Fedcenko", en: "Fedchenko Glacier" },
-    coordinates: { lat: 38.77, lng: 72.28 },
+    coords: [72.28, 38.77],
     description: {
       de: "Der Fedtschenko-Gletscher im Pamir ist der längste Gletscher außerhalb der Polargebiete. Er erstreckt sich über 77 km Länge.",
       hu: "A Fedcsenko-gleccser a Pamír hegységben a világ leghosszabb gleccsere a sarkvidékeken kívül. Hossza eléri a 77 kilométert.",
@@ -732,7 +732,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     id: "tajikistan-peter-first-range-relief-v2",
     type: "mountain",
     name: { de: "Peter-I.-Kette", hu: "I. Péter-hegység", ro: "Munții Petru I", en: "Peter I Range" },
-    coordinates: { lat: 38.9, lng: 71.3 },
+    coords: [71.3, 38.9],
     description: {
       de: "Die Peter-I.-Kette ist ein Gebirgszug im westlichen Pamir. Er erreicht Höhen von über 6700 Metern und hat steile Felswände.",
       hu: "Az I. Péter-hegység a nyugati Pamír egyik vonulata. Több mint 6700 méteres magasságot ér el, és meredek sziklafalai vannak.",
@@ -751,7 +751,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     id: "tajikistan-shakhdara-range-relief-v2",
     type: "mountain",
     name: { de: "Schachdara-Kette", hu: "Sahdara-hegység", ro: "Munții Șahdara", en: "Shakhdara Range" },
-    coordinates: { lat: 37.2, lng: 72.3 },
+    coords: [72.3, 37.2],
     description: {
       de: "Die Schachdara-Kette im Süd-Pamir umfasst die hohen Gipfel Karl Marx und Friedrich Engels. Sie ist tektonisch sehr aktiv.",
       hu: "A Sahdara-hegység a déli Pamírban található, magában foglalva a Karl Marx és Friedrich Engels csúcsokat. Tektonikailag aktív.",
@@ -770,7 +770,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     id: "tajikistan-karl-marx-peak-relief-v2",
     type: "peak",
     name: { de: "Karl-Marx-Spitze", hu: "Karl Marx-csúcs", ro: "Vârful Karl Marx", en: "Karl Marx Peak" },
-    coordinates: { lat: 37.05, lng: 72.48 },
+    coords: [72.48, 37.05],
     description: {
       de: "Die Karl-Marx-Spitze ist mit 6723 Metern der höchste Berg der Schachdara-Kette. Er wurde 1946 erstmals offiziell bestiegen.",
       hu: "A Karl Marx-csúcs 6723 méteres magasságával a Sahdara-hegység legmagasabb pontja. 1946-ban mászták meg először.",
@@ -789,7 +789,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     id: "tajikistan-vakhsh-range-relief-v2",
     type: "mountain",
     name: { de: "Wachsch-Kette", hu: "Vahs-hegység", ro: "Munții Vahș", en: "Vakhsh Range" },
-    coordinates: { lat: 38.3, lng: 69.4 },
+    coords: [69.4, 38.3],
     description: {
       de: "Die Wachsch-Kette liegt im Süden des Landes. Sie verläuft parallel zum Wachsch-Fluss und besteht vorwiegend aus Sedimentgestein.",
       hu: "A Vahs-hegység az ország déli részén található. Párhuzamosan fut a Vahs-folyóval, és főként üledékes kőzetből áll.",

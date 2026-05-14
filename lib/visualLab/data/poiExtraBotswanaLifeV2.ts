@@ -592,7 +592,7 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     id: "botswana-khutse-game-reserve-life-v2",
     type: "wildlife",
     name: { de: "Khutse-Wildreservat", hu: "Khutse Vadvédelmi Rezervátum", ro: "Rezervația de vânătoare Khutse", en: "Khutse Game Reserve" },
-    coordinates: { lat: -23.35, lng: 24.42 },
+    coords: [24.42, -23.35],
     description: {
       de: "Das Khutse-Wildreservat umfasst 2.500 Quadratkilometer Kalahari-Savanne. Es wurde 1971 zum Schutz der Tierwelt und wichtiger Wasserpfannen gegründet.",
       hu: "A Khutse Vadvédelmi Rezervátum 2500 négyzetkilométernyi Kalahári-szavannát foglal magában. 1971-ben alapították a vadvilág és a sós síkságok védelmére.",

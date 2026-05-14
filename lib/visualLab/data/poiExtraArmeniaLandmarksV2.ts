@@ -806,7 +806,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-goshavank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Goschawank", hu: "Goshavank kolostor", ro: "Mănăstirea Goșavank", en: "Goshavank Monastery" },
-    coordinates: { lat: 40.73, lng: 44.997 },
+    coords: [44.997, 40.73],
     description: {
       de: "Goschawank ist ein mittelalterliches Klosterkomplex aus dem 12. Jahrhundert im Dorf Gosch.",
       hu: "A 12. századi örmény kolostoregyüttes Gosh faluban található, egykor fontos oktatási központ volt.",
@@ -837,7 +837,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-kecharis-landmarks-v2",
     type: "church",
     name: { de: "Kloster Ketscharis", hu: "Kecharis kolostor", ro: "Mănăstirea Kecharis", en: "Kecharis Monastery" },
-    coordinates: { lat: 40.533, lng: 44.711 },
+    coords: [44.711, 40.533],
     description: {
       de: "Ketscharis ist ein mittelalterlicher Klosterkomplex im Wintersportort Zaghkadsor aus dem 11. Jahrhundert.",
       hu: "A 11. században alapított kolostoregyüttes Tsaghkadzor városában található, négy templomból áll.",
@@ -868,7 +868,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-marmashen-landmarks-v2",
     type: "church",
     name: { de: "Kloster Marmaschen", hu: "Marmashen kolostor", ro: "Mănăstirea Marmashen", en: "Marmashen Monastery" },
-    coordinates: { lat: 40.842, lng: 43.758 },
+    coords: [43.758, 40.842],
     description: {
       de: "Marmaschen ist ein armenisches Kloster am Ufer des Flusses Achurjan bei Gjumri.",
       hu: "A 10. századi kolostoregyüttes az Ahurjan folyó partján fekszik, Gjumri városának közelében.",
@@ -899,7 +899,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-harichavank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Haritschawank", hu: "Harichavank kolostor", ro: "Mănăstirea Harichavank", en: "Harichavank Monastery" },
-    coordinates: { lat: 40.607, lng: 43.999 },
+    coords: [43.999, 40.607],
     description: {
       de: "Haritschawank ist ein mittelalterlicher Klosterkomplex aus dem 7. Jahrhundert im Dorf Haritsch.",
       hu: "A 7. században alapított kolostor Harich faluban található, híres monumentális építészetéről.",
@@ -930,7 +930,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-saghmosavank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Saghmosawank", hu: "Saghmosavank kolostor", ro: "Mănăstirea Saghmosavank", en: "Saghmosavank Monastery" },
-    coordinates: { lat: 40.38, lng: 44.397 },
+    coords: [44.397, 40.38],
     description: {
       de: "Saghmosawank, das 'Kloster der Psalmen', thront über der Schlucht des Flusses Kasach.",
       hu: "A 'zsoltárok kolostoraként' ismert épületegyüttes a Kaszakh-folyó kanyonja felett áll.",
@@ -961,7 +961,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-hovhannavank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Howhannawank", hu: "Hovhannavank kolostor", ro: "Mănăstirea Hovhannavank", en: "Hovhannavank Monastery" },
-    coordinates: { lat: 40.339, lng: 44.388 },
+    coords: [44.388, 40.339],
     description: {
       de: "Howhannawank ist ein bedeutendes mittelalterliches Kloster oberhalb der Kasach-Schlucht.",
       hu: "A Keresztelő Szent Jánosnak szentelt kolostor a Kaszakh-folyó szurdoka felett épült.",
@@ -992,7 +992,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-lori-berd-landmarks-v2",
     type: "ruins",
     name: { de: "Festung Lori Berd", hu: "Lori Berd erőd", ro: "Cetatea Lori Berd", en: "Lori Berd Fortress" },
-    coordinates: { lat: 41.023, lng: 44.428 },
+    coords: [44.428, 41.023],
     description: {
       de: "Lori Berd ist eine mittelalterliche Festungsstadt auf einem Hochplateau in der Provinz Lori.",
       hu: "Lori Berd egy középkori erődített város romja, amely egy mély szurdokok által határolt platón fekszik.",
@@ -1023,7 +1023,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-bjni-fortress-landmarks-v2",
     type: "castle",
     name: { de: "Festung Bschni", hu: "Bjni erőd", ro: "Cetatea Bjni", en: "Bjni Fortress" },
-    coordinates: { lat: 40.459, lng: 44.647 },
+    coords: [44.647, 40.459],
     description: {
       de: "Die Festung Bschni ist eine mittelalterliche Verteidigungsanlage auf einem Felsplateau über dem Fluss Hrasdan.",
       hu: "Bjni erődje egy középkori védelmi építmény, amely a Hrazdan-folyó feletti sziklákon magasodik.",
@@ -1054,7 +1054,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-noratus-cemetery-landmarks-v2",
     type: "monument",
     name: { de: "Friedhof von Noratus", hu: "Noratusi temető", ro: "Cimitirul din Noratus", en: "Noratus Cemetery" },
-    coordinates: { lat: 40.375, lng: 45.182 },
+    coords: [45.182, 40.375],
     description: {
       de: "Noratus ist das weltweit größte Feld mit mittelalterlichen Kreuzsteinen (Chatschkaren) am Sewansee.",
       hu: "Noratus a világ legnagyobb hacskar-mezője, ahol több száz középkori örmény sírkő látható.",
@@ -1068,12 +1068,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Contains over 800 historic khachkars from various centuries.", "The oldest stones in the cemetery date back to the 9th century.", "Renowned for its intricate carvings and 'Shepherd's Cross' legends.", "Located near the western shores of Lake Sevan."],
     },
     imageHint: "Noratus Cemetery khachkars Armenia",
+    descriptionAdvanced: {
+      de: "Der Noratus-Friedhof in der armenischen Provinz Gegharkunik ist eine der bedeutendsten historischen Begräbnisstätten des Landes. Er liegt am Ufer des Sewansees auf einer Höhe von etwa 1.920 Metern. Der Friedhof ist berühmt für seine über 900 Chatschkare (Kreuzsteine), die aus dem 9. bis 17. Jahrhundert stammen. Diese kunstvoll verzierten Steine zeigen religiöse Motive, geometrische Muster und Inschriften. Der älteste Chatschkar datiert auf das Jahr 881. Der Friedhof wird noch heute genutzt und dient als Zeugnis der armenischen Handwerkskunst. Er umfasst eine Fläche von etwa 2 Hektar. Viele der Kreuze sind mit Motiven wie dem Baum des Lebens und der Auferstehung verziert. Der Ort ist auch Schauplatz des jährlichen Festes „Chatschkar-Tag“. Noratus ist ein beliebtes Ziel für Touristen und Historiker. Die starke Konzentration an Chatschkaren macht den Friedhof zu einem einzigartigen Denkmal mittelalterlicher armenischer Kultur.",
+      hu: "A Noratus temető Örményország Gegharkunik tartományában az ország egyik legjelentősebb történelmi temetkezési helye. A Szeván-tó partján fekszik, 1920 méteres tengerszint feletti magasságban. A temető híres több mint 900 khacskárjáról (keresztkő), amelyek a 9–17. századból származnak. A díszesen faragott köveken vallási motívumok, geometrikus minták és feliratok láthatók. A legrégebbi khacskár 881-ből való. A temető ma is használatban van, és az örmény kézművesség bizonyítéka. Területe körülbelül 2 hektár. A kereszteket gyakran életfa és feltámadás motívumok díszítik. A helyszín ad otthont az éves „Khacskár-nap” fesztiválnak. Noratus népszerű célpont turisták és történészek számára. A khacskárok sűrű koncentrációja egyedülálló emlékművé teszi a középkori örmény kultúrának.",
+      ro: "Cimitirul Noratus din provincia Gegharkunik din Armenia este una dintre cele mai importante necropole istorice ale țării. Este situat pe malul Lacului Sevan, la o altitudine de aproximativ 1.920 de metri. Cimitirul este renumit pentru cele peste 900 de khachkar (pietre de cruce), datând din secolele IX-XVII. Aceste pietre ornamentate prezintă motive religioase, modele geometrice și inscripții. Cel mai vechi khachkar datează din anul 881. Cimitirul este încă folosit și mărturisește măiestria armeană. Acoperă o suprafață de aproximativ 2 hectare. Crucile sunt adesea decorate cu motivul arborelui vieții și al învierii. Locul găzduiește festivalul anual „Ziua Khachkar”. Noratus este o destinație populară pentru turiști și istorici. Concentrarea mare de khachkar face din cimitir un monument unic al culturii armene medievale.",
+      en: "Noratus Cemetery in Armenia's Gegharkunik Province is a historic burial ground renowned for its collection of over 900 khachkars (cross-stones) dating from the 9th to 17th centuries. Located on the shores of Lake Sevan at an elevation of about 1,920 meters, the cemetery covers approximately 2 hectares. The oldest khachkar dates to 881. These intricately carved stones feature religious motifs, geometric patterns, and inscriptions. The site remains active for burials today. The khachkars often depict the Tree of Life and resurrection themes. The annual Khachkar Day festival celebrates this cultural heritage. Noratus is a major tourist attraction, offering insight into medieval Armenian artistry and symbolism. The high density of khachkars makes it an unparalleled open-air museum of Armenian stone carving.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Chatschkare: über 900", "Ältester Chatschkar aus dem Jahr 881", "Höhe: 1.920 m über dem Meeresspiegel", "Fläche: ca. 2 Hektar", "Zeitraum der Kreuze: 9. bis 17. Jahrhundert", "Jährliches Festival: Chatschkar-Tag"],
+      hu: ["Khacskárok száma: több mint 900", "Legrégebbi khacskár: 881-ből", "Tengerszint feletti magasság: 1920 m", "Terület: kb. 2 hektár", "Keresztkövek kora: 9–17. század", "Éves fesztivál: Khacskár-nap"],
+      ro: ["Număr de khachkar: peste 900", "Cel mai vechi khachkar din anul 881", "Altitudine: 1.920 m", "Suprafață: circa 2 hectare", "Perioada crucilor: secolele IX-XVII", "Festival anual: Ziua Khachkar"],
+      en: ["Number of khachkars: over 900", "Oldest khachkar from 881", "Elevation: 1,920 m", "Area: approx. 2 hectares", "Period of crosses: 9th-17th century", "Annual festival: Khachkar Day"],
+    },
   },
   {
     id: "armenia-st-hripsime-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Hripsime", hu: "Szent Hripszime-templom", ro: "Biserica Sfânta Hripsime", en: "Saint Hripsime Church" },
-    coordinates: { lat: 40.167, lng: 44.309 },
+    coords: [44.309, 40.167],
     description: {
       de: "St. Hripsime ist ein Meisterwerk der armenischen Sakralarchitektur in Etschmiadsin.",
       hu: "A 7. századi örmény templom Ecsmiadzin városában található, az UNESCO Világörökség része.",
@@ -1104,7 +1116,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-st-gayane-landmarks-v2",
     type: "church",
     name: { de: "Kirche St. Gajane", hu: "Szent Gajane-templom", ro: "Biserica Sfânta Gaiane", en: "Saint Gayane Church" },
-    coordinates: { lat: 40.157, lng: 44.305 },
+    coords: [44.305, 40.157],
     description: {
       de: "St. Gajane ist eine historische Kirche in Etschmiadsin, die im Jahr 630 erbaut wurde.",
       hu: "A 7. században épült bazilika Szent Gajane vértanú emlékére emelték Ecsmiadzinban.",
@@ -1135,7 +1147,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-shoghakat-landmarks-v2",
     type: "church",
     name: { de: "Schoghakat-Kirche", hu: "Soghakat-templom", ro: "Biserica Șoghakat", en: "Shoghakat Church" },
-    coordinates: { lat: 40.168, lng: 44.305 },
+    coords: [44.305, 40.168],
     description: {
       de: "Schoghakat ist eine spätmittelalterliche Kirche in Etschmiadsin, bekannt für ihr schlichtes Design.",
       hu: "Az 1694-ben épült örmény templom Ecsmiadzinban található, nevét a 'fény sugárzásáról' kapta.",
@@ -1166,7 +1178,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-blue-mosque-landmarks-v2",
     type: "landmark",
     name: { de: "Blaue Moschee Eriwan", hu: "Kék mecset Jereván", ro: "Moscheea Albastră din Erevan", en: "Blue Mosque Yerevan" },
-    coordinates: { lat: 40.178, lng: 44.505 },
+    coords: [44.505, 40.178],
     description: {
       de: "Die Blaue Moschee ist eine schiitische Moschee aus dem 18. Jahrhundert im Zentrum von Eriwan.",
       hu: "Jereván egyetlen fennmaradt mecsete a 18. század közepén épült iráni stílusban.",
@@ -1197,7 +1209,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-national-gallery-landmarks-v2",
     type: "museum",
     name: { de: "Armenische Nationalgalerie", hu: "Örmény Nemzeti Galéria", ro: "Galeria Națională a Armeniei", en: "National Gallery of Armenia" },
-    coordinates: { lat: 40.178, lng: 44.514 },
+    coords: [44.514, 40.178],
     description: {
       de: "Die Nationalgalerie am Platz der Republik beherbergt die größte Kunstsammlung Armeniens.",
       hu: "A Köztársaság téren található galéria az ország legjelentősebb művészeti gyűjteménye.",
@@ -1228,7 +1240,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-opera-theatre-landmarks-v2",
     type: "theater",
     name: { de: "Opernhaus Eriwan", hu: "Jereváni Operaház", ro: "Opera din Erevan", en: "Opera and Ballet Theatre" },
-    coordinates: { lat: 40.185, lng: 44.515 },
+    coords: [44.515, 40.185],
     description: {
       de: "Das Armenische Opern- und Ballett-Theater ist ein architektonisches Wahrzeichen im Zentrum von Eriwan.",
       hu: "A jereváni operaház az ország kulturális szimbóluma, Alexander Tamanjan tervei alapján épült.",
@@ -1242,12 +1254,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Designed by Alexander Tamanian and officially opened in 1933.", "Houses two separate halls: the Opera hall and the Concert hall.", "Awarded the Grand Prix at the 1937 Paris World Exhibition.", "Located adjacent to Freedom Square and the Swan Lake park."],
     },
     imageHint: "Yerevan Opera House and Freedom Square Armenia",
+    descriptionAdvanced: {
+      de: "Das Opern- und Balletttheater in Jerewan, auch bekannt als Alexander-Spendiaryan-Opernhaus, ist das wichtigste Kulturzentrum Armeniens. Es wurde 1933 nach einem Entwurf des Architekten Alexander Tamanjan erbaut und 1939 eröffnet. Das Gebäude ist ein Meisterwerk der sowjetischen Architektur mit armenischen Einflüssen, gekennzeichnet durch die große Kuppel und die monumentale Fassade. Es beherbergt zwei Säle: den Großen Saal mit 1.400 Plätzen und den Kleinen Saal mit 500 Plätzen. Das Theater ist die Heimat des Nationalen Opern- und Ballettensembles. Jährlich werden über 200 Aufführungen geboten. Die Akustik des Saals gilt als hervorragend. Der angrenzende Opernplatz ist ein beliebter Treffpunkt. Das Gebäude wurde mehrfach renoviert, zuletzt 2015. Es ist ein Symbol der armenischen Kultur und ein wichtiges Wahrzeichen der Stadt.",
+      hu: "Az operaház és balettszínház Jerevánban, közismert nevén a Szpendiarján Operaház, Örményország legfontosabb kulturális központja. 1933-ban épült Alekszandr Tamanjan tervei alapján, és 1939-ben nyitották meg. Az épület a szovjet építészet remekműve örmény hatásokkal, jellemzője a nagy kupola és a monumentális homlokzat. Két termet foglal magában: a nagytermet 1400 férőhellyel és a kistermet 500 férőhellyel. A színház a Nemzeti Opera- és Balettegyüttes otthona. Évente több mint 200 előadást tartanak. A terem akusztikája kiváló. A szomszédos Operaház tér népszerű találkozóhely. Az épületet többször felújították, legutóbb 2015-ben. Az örmény kultúra szimbóluma és a város fontos nevezetessége.",
+      ro: "Teatrul de Operă și Balet din Erevan, cunoscut și sub numele de Opera Spendiarian, este cel mai important centru cultural al Armeniei. A fost construit în 1933 după planurile arhitectului Alexander Tamanian și deschis în 1939. Clădirea este o capodoperă a arhitecturii sovietice cu influențe armene, caracterizată prin cupola mare și fațada monumentală. Adăpostește două săli: Sala Mare cu 1.400 de locuri și Sala Mică cu 500 de locuri. Teatrul găzduiește Ansamblul Național de Operă și Balet. Anual se susțin peste 200 de spectacole. Acustica sălii este remarcabilă. Piața Operei alăturată este un loc de întâlnire popular. Clădirea a fost renovată de mai multe ori, ultima dată în 2015. Este un simbol al culturii armene și un reper important al orașului.",
+      en: "The Opera and Ballet Theatre in Yerevan, officially the Alexander Spendiaryan Opera House, is Armenia's premier cultural venue. Designed by architect Alexander Tamanian, construction began in 1933 and the theatre opened in 1939. The building is a masterpiece of Soviet architecture blended with Armenian motifs, featuring a large dome and a monumental facade. It houses two halls: the Great Hall (1,400 seats) and the Chamber Hall (500 seats). The theatre is home to the National Opera and Ballet Ensemble, performing over 200 shows annually. The acoustics are highly acclaimed. The surrounding Opera Square is a popular gathering spot. Renovations have been carried out, most recently in 2015. The Opera House stands as a symbol of Armenian cultural identity and a major Yerevan landmark.",
+    },
+    factsAdvanced: {
+      de: ["Architekt: Alexander Tamanjan", "Eröffnungsjahr: 1939", "Großer Saal: 1.400 Plätze", "Kleiner Saal: 500 Plätze", "Jährliche Aufführungen: über 200", "Letzte Renovierung: 2015"],
+      hu: ["Építész: Alekszandr Tamanjan", "Megnyitás éve: 1939", "Nagyterem: 1400 férőhely", "Kisterem: 500 férőhely", "Éves előadások: több mint 200", "Utolsó felújítás: 2015"],
+      ro: ["Arhitect: Alexander Tamanian", "Anul deschiderii: 1939", "Sala Mare: 1.400 de locuri", "Sala Mică: 500 de locuri", "Spectacole anuale: peste 200", "Ultima renovare: 2015"],
+      en: ["Architect: Alexander Tamanian", "Opened: 1939", "Great Hall: 1,400 seats", "Chamber Hall: 500 seats", "Annual performances: over 200", "Last renovation: 2015"],
+    },
   },
   {
     id: "armenia-sanahin-bridge-landmarks-v2",
     type: "bridge",
     name: { de: "Brücke von Sanahin", hu: "Szanahini híd", ro: "Podul din Sanahin", en: "Sanahin Bridge" },
-    coordinates: { lat: 41.096, lng: 44.655 },
+    coords: [44.655, 41.096],
     description: {
       de: "Die Brücke von Sanahin ist eine mittelalterliche Steinbogenbrücke über den Fluss Debed aus dem 12. Jahrhundert.",
       hu: "A 12. századi kőhíd Alaverdi városában található, az örmény mérnöki művészet remekműve.",
@@ -1261,12 +1285,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Built in 1192 by Queen Vaneni to commemorate her husband.", "Features a single large arch spanning about 18 meters.", "Decorated with sculptures of lions on the parapets.", "Connects the city of Alaverdi to the Sanahin monastery area."],
     },
     imageHint: "Medieval stone Sanahin Bridge Alaverdi Armenia",
+    descriptionAdvanced: {
+      de: "Die Sanahin-Brücke in der armenischen Provinz Lori ist eine mittelalterliche Steinbrücke aus dem 12. Jahrhundert. Sie überspannt den Fluss Debed in der Nähe des Klosters Sanahin. Die Brücke wurde 1192 erbaut und ist ein hervorragendes Beispiel der armenischen Brückenbaukunst des Mittelalters. Sie besteht aus einem einzigen Bogen, der aus sorgfältig behauenen Basaltblöcken gefertigt ist. Die Bogenspannweite beträgt etwa 17 Meter, die Breite 3 Meter. Die Brücke war Teil der historischen Seidenstraße und diente dem Transport von Waren und Reisenden. Sie ist bis heute gut erhalten und wird von Fußgängern genutzt. Die Umgebung ist malerisch, mit dichten Wäldern und dem Fluss Debed. Die Brücke ist ein geschütztes Kulturdenkmal Armeniens. In der Nähe befinden sich auch das Kloster Sanahin und die Stadt Alawerdi.",
+      hu: "A sanahini híd Örményország Lori tartományában egy középkori kőhíd a 12. századból. A Debed folyó felett ível át a Sanahin kolostor közelében. A hidat 1192-ben építették, és kiváló példája a középkori örmény hídépítés művészetének. Egyetlen, gondosan faragott bazalt tömbökből épült ívből áll. Az ív fesztávolsága körülbelül 17 méter, szélessége 3 méter. A híd a történelmi Selyemút része volt, és áruk és utazók szállítására szolgált. A mai napig jó állapotban fennmaradt, és gyalogosok használják. A környék festői, sűrű erdőkkel és a Debed folyóval. A híd Örményország védett műemléke. A közelben található a Sanahin kolostor és Alaverdi városa.",
+      ro: "Podul Sanahin din provincia Lori din Armenia este un pod medieval de piatră construit în secolul al XII-lea. Traversează râul Debed, în apropierea mănăstirii Sanahin. Podul a fost construit în 1192 și este un exemplu excelent al artei de construcție a podurilor armenești medievale. Este alcătuit dintr-un singur arc, realizat din blocuri de bazalt cioplite cu grijă. Deschiderea arcului este de aproximativ 17 metri, iar lățimea de 3 metri. Podul a făcut parte din Drumul Mătăsii istoric, servind la transportul de mărfuri și călători. Este bine conservat și încă utilizat de pietoni. Zona înconjurătoare este pitorească, cu păduri dese și râul Debed. Podul este un monument cultural protejat al Armeniei. În apropiere se află mănăstirea Sanahin și orașul Alaverdi.",
+      en: "Sanahin Bridge in Armenia's Lori Province is a medieval stone bridge dating from the 12th century. It spans the Debed River near the Sanahin Monastery. Built in 1192, it exemplifies medieval Armenian bridge engineering. The bridge consists of a single arch made of carefully cut basalt blocks. The arch has a span of about 17 meters and a width of 3 meters. It was part of the historic Silk Road, facilitating trade and travel. The bridge is well-preserved and still used by pedestrians. The surrounding landscape features lush forests and the Debed River. Sanahin Bridge is a protected cultural monument of Armenia. Nearby attractions include the Sanahin Monastery complex and the town of Alaverdi.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1192", "Bogenlänge: 17 m", "Breite: 3 m", "Material: Basalt", "Einbogige Konstruktion", "Teil der Seidenstraße"],
+      hu: ["Építés éve: 1192", "Ív fesztávolsága: 17 m", "Szélesség: 3 m", "Anyag: bazalt", "Egynyílású szerkezet", "A Selyemút része"],
+      ro: ["Anul construcției: 1192", "Deschiderea arcului: 17 m", "Lățime: 3 m", "Material: bazalt", "Construcție cu un singur arc", "Parte a Drumului Mătăsii"],
+      en: ["Built: 1192", "Arch span: 17 m", "Width: 3 m", "Material: basalt", "Single-arch construction", "Part of the Silk Road"],
+    },
   },
   {
     id: "armenia-makaravank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Makarawank", hu: "Makaravank kolostor", ro: "Mănăstirea Makaravank", en: "Makaravank Monastery" },
-    coordinates: { lat: 40.974, lng: 45.127 },
+    coords: [45.127, 40.974],
     description: {
       de: "Makarawank ist ein Klosterkomplex aus dem 10. bis 13. Jahrhundert in der Nähe der Stadt Idjewan.",
       hu: "A 10-13. századi kolostor az ország északkeleti részén, erdős hegyek között fekszik.",
@@ -1280,12 +1316,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Known for its exceptionally fine and unique stone carvings.", "The main church was built in 1205 using pink and green stone.", "Hidden in the dense forests of the Pambak mountain range.", "Features rare mythological animal reliefs inside the altar area."],
     },
     imageHint: "Makaravank Monastery forest Armenia",
+    descriptionAdvanced: {
+      de: "Das Makaravank-Kloster in der armenischen Provinz Tawusch ist ein bedeutendes mittelalterliches Kloster aus dem 10. bis 13. Jahrhundert. Es liegt in einem dichten Waldgebiet auf einer Höhe von etwa 1.200 Metern. Der Komplex besteht aus mehreren Kirchen, einer Vorhalle und einer Mauer. Die Hauptkirche, Surb Astvatsatsin, wurde 1205 erbaut. Die Kirche ist bekannt für ihre reichen Steinmetzarbeiten, darunter komplizierte geometrische Muster und Tierdarstellungen. Besonders bemerkenswert ist die Kuppel mit ihrem achteckigen Tambour. Das Kloster war ein Zentrum der Gelehrsamkeit und Skriptorium. Nach mehreren Erdbeben wurde es im 17. Jahrhundert aufgegeben. Im 20. Jahrhundert fanden umfangreiche Restaurierungen statt. Makaravank ist ein Zeugnis der mittelalterlichen armenischen Architektur und ein beliebtes Touristenziel. Die abgelegene Lage verleiht dem Ort eine ruhige Atmosphäre.",
+      hu: "A Makaravank kolostor Örményország Tavus tartományában a 10–13. századból származó jelentős középkori kolostor. Sűrű erdőben fekszik, körülbelül 1200 méteres tengerszint feletti magasságban. Az együttes több templomból, előcsarnokból és falból áll. A főtemplomot, Surb Astvatsatsint 1205-ben építették. A templom híres gazdag kőfaragásairól, köztük bonyolult geometrikus mintákról és állatábrázolásokról. Különösen figyelemre méltó a nyolcszögletű dobon nyugvó kupola. A kolostor a tudományosság és a scriptorium központja volt. Több földrengés után a 17. században elhagyták. A 20. században nagy felújításokon esett át. Makaravank a középkori örmény építészet bizonyítéka és népszerű turisztikai célpont. A távoli elhelyezkedés nyugodt légkört biztosít.",
+      ro: "Mănăstirea Makaravank din provincia Tavush din Armenia este o importantă mănăstire medievală datând din secolele X-XIII. Este situată într-o zonă împădurită dens, la o altitudine de aproximativ 1.200 de metri. Complexul include mai multe biserici, un pridvor și un zid. Biserica principală, Surb Astvatsatsin, a fost construită în 1205. Este renumită pentru sculpturile sale bogate în piatră, inclusiv motive geometrice complexe și reprezentări de animale. Cupola se sprijină pe un tambur octogonal. Mănăstirea a fost un centru de învățătură și scriptoriu. După mai multe cutremure, a fost abandonată în secolul al XVII-lea. În secolul al XX-lea au avut loc restaurări ample. Makaravank este o mărturie a arhitecturii medievale armene și o destinație turistică populară. Izolarea conferă locului o atmosferă liniștită.",
+      en: "Makaravank Monastery in Armenia's Tavush Province is a medieval monastic complex dating from the 10th to 13th centuries. Set in dense forest at an elevation of about 1,200 meters, the compound includes several churches, a narthex, and a surrounding wall. The main church, Surb Astvatsatsin, was built in 1205. It is renowned for its intricate stone carvings featuring geometric patterns and animal motifs. The dome rests on an octagonal drum. The monastery served as a center of learning and manuscript production. Abandoned in the 17th century after earthquakes, it underwent extensive restoration in the 20th century. Makaravank exemplifies medieval Armenian architecture and is a popular tourist site. Its secluded location offers a tranquil atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Hauptkirche: 1205", "Höhe: 1.200 m über dem Meeresspiegel", "Anzahl der Kirchen: 3", "Erste Erwähnung: 10. Jahrhundert", "Aufgabe: 17. Jahrhundert", "Kuppel: achteckiger Tambour"],
+      hu: ["Főtemplom építése: 1205", "Tengerszint feletti magasság: 1200 m", "Templomok száma: 3", "Első említés: 10. század", "Elhagyás: 17. század", "Kupola: nyolcszögletű dob"],
+      ro: ["Construcția bisericii principale: 1205", "Altitudine: 1.200 m", "Număr de biserici: 3", "Prima mențiune: secolul X", "Abandonare: secolul XVII", "Cupolă: tambur octogonal"],
+      en: ["Main church built: 1205", "Elevation: 1,200 m", "Number of churches: 3", "First mentioned: 10th century", "Abandoned: 17th century", "Dome: octagonal drum"],
+    },
   },
   {
     id: "armenia-tegher-monastery-landmarks-v2",
     type: "church",
     name: { de: "Kloster Tegher", hu: "Tegher kolostor", ro: "Mănăstirea Tegher", en: "Tegher Monastery" },
-    coordinates: { lat: 40.345, lng: 44.241 },
+    coords: [44.241, 40.345],
     description: {
       de: "Tegher ist ein burgähnliches Kloster am Südhang des Berges Aragaz aus dem 13. Jahrhundert.",
       hu: "A 13. századi erődített kolostor az Aragac-hegy déli lejtőjén, Tegher faluban található.",
@@ -1299,12 +1347,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Founded in 1213 by Princess Mamakhatun.", "Built using dark grey basalt, giving it a sturdy, fortress-like look.", "Features two unique small chapels built on top of the narthex roof.", "Provides a wide view of the Byurakan Observatory area."],
     },
     imageHint: "Tegher Monastery on Mount Aragats slopes Armenia",
+    descriptionAdvanced: {
+      de: "Das Tegher-Kloster in der armenischen Provinz Aragazotn ist ein mittelalterliches Kloster aus dem 13. Jahrhundert. Es liegt am Südhang des Berges Aragaz auf einer Höhe von etwa 1.700 Metern. Der Komplex wurde zwischen 1213 und 1232 unter der Schirmherrschaft von Fürst Vache Vachutyan erbaut. Er besteht aus der Kirche Surb Astvatsatsin, einer Vorhalle und einem angrenzenden Friedhof. Die Kirche ist ein Kreuzkuppelbau mit einem rechteckigen Grundriss. Die Außenwände sind mit schlichten Steinmetzarbeiten verziert. Besonders bemerkenswert ist der Glockenturm, der im 19. Jahrhundert hinzugefügt wurde. Das Kloster war ein bedeutendes religiöses Zentrum und wurde im 17. Jahrhundert nach einem Erdbeben teilweise zerstört. Restaurierungen fanden im 20. Jahrhundert statt. Die Umgebung bietet einen weiten Blick über die Ararat-Ebene. Tegher ist wegen seiner Lage und Architektur ein beliebtes Ziel für Wanderer.",
+      hu: "A Tegher kolostor Örményország Aragacotn tartományában egy 13. századi középkori kolostor. Az Aragac-hegy déli lejtőjén, körülbelül 1700 méteres tengerszint feletti magasságban fekszik. Az együttest 1213 és 1232 között építették Vache Vachutyan herceg támogatásával. A Surb Astvatsatsin templomból, egy előcsarnokból és egy szomszédos temetőből áll. A templom keresztkupolás építmény, téglalap alaprajzzal. A külső falakat egyszerű kőfaragványok díszítik. Különösen figyelemre méltó a harangtorony, amelyet a 19. században adtak hozzá. A kolostor jelentős vallási központ volt, és a 17. században egy földrengés részben elpusztította. A 20. században felújították. A környékről szép kilátás nyílik az Ararát-síkságra. Tegher elhelyezkedése és építészete miatt népszerű a túrázók körében.",
+      ro: "Mănăstirea Tegher din provincia Aragatsotn din Armenia este o mănăstire medievală din secolul al XIII-lea. Este situată pe versantul sudic al Muntelui Aragats, la o altitudine de aproximativ 1.700 de metri. Complexul a fost construit între 1213 și 1232 sub patronajul prințului Vache Vachutyan. Include biserica Surb Astvatsatsin, un pridvor și un cimitir adiacent. Biserica este o construcție în formă de cruce cu cupolă, cu plan dreptunghiular. Pereții exteriori sunt decorați cu sculpturi simple în piatră. Deosebit de remarcabil este turnul clopotniță, adăugat în secolul al XIX-lea. Mănăstirea a fost un important centru religios, parțial distrus de un cutremur în secolul al XVII-lea. Restaurări au avut loc în secolul al XX-lea. Zona oferă o panoramă a Câmpiei Ararat. Tegher este popular pentru drumeții datorită locației și arhitecturii sale.",
+      en: "Tegher Monastery in Armenia's Aragatsotn Province is a 13th-century medieval monastery. Located on the southern slope of Mount Aragats at an elevation of about 1,700 meters, the complex was built between 1213 and 1232 under Prince Vache Vachutyan. It comprises the Surb Astvatsatsin Church, a narthex, and an adjacent cemetery. The church is a cross-in-square plan with a dome. Exterior walls feature simple stone carvings. A bell tower was added in the 19th century. The monastery was a religious center and suffered partial destruction from an earthquake in the 17th century. Restorations took place in the 20th century. The site offers panoramic views of the Ararat Plain. Tegher is popular with hikers for its scenic location and architectural significance.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1213–1232", "Höhe: 1.700 m über dem Meeresspiegel", "Stifter: Fürst Vache Vachutyan", "Kirche: Surb Astvatsatsin", "Glockenturm hinzugefügt: 19. Jahrhundert", "Zerstörung: Erdbeben 17. Jahrhundert"],
+      hu: ["Építési idő: 1213–1232", "Tengerszint feletti magasság: 1700 m", "Alapító: Vache Vachutyan herceg", "Templom: Surb Astvatsatsin", "Harangtorony hozzáadva: 19. század", "Pusztulás: földrengés a 17. században"],
+      ro: ["Perioada construcției: 1213–1232", "Altitudine: 1.700 m", "Patron: Prințul Vache Vachutyan", "Biserică: Surb Astvatsatsin", "Clopotniță adăugată: secolul XIX", "Distrugere: cutremur în secolul XVII"],
+      en: ["Construction period: 1213–1232", "Elevation: 1,700 m", "Patron: Prince Vache Vachutyan", "Church: Surb Astvatsatsin", "Bell tower added: 19th century", "Destruction: 17th-century earthquake"],
+    },
   },
   {
     id: "armenia-lmbatavank-landmarks-v2",
     type: "church",
     name: { de: "Lmbatavank-Kirche", hu: "Lmbatavank-templom", ro: "Biserica Lmbatavank", en: "Lmbatavank Church" },
-    coordinates: { lat: 40.612, lng: 43.916 },
+    coords: [43.916, 40.612],
     description: {
       de: "Lmbatavank ist eine kleine, bedeutende Kreuzkuppelkirche aus dem 7. Jahrhundert bei Artik.",
       hu: "A 7. századi kisméretű örmény templom Artik városának közelében fekszik, híres freskóiról.",
@@ -1318,12 +1378,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Famous for its rare 7th-century wall paintings (frescoes).", "The frescoes depict Christ in Majesty and equestrian saints.", "A small cruciform structure built from reddish tuff stone.", "Dedicated to Saint Stephen (Surb Stepanos)."],
     },
     imageHint: "Lmbatavank Church Artik Armenia",
+    descriptionAdvanced: {
+      de: "Die Lmbatavank-Kirche in der armenischen Provinz Aragazotn ist eine frühchristliche Kirche aus dem 7. Jahrhundert. Sie liegt auf einem Hügel in der Nähe des Dorfes Lmbatavank. Die Kirche ist ein einfacher rechteckiger Bau mit einer Apsis im Osten und einem Bogen im Westen. Sie wurde aus grob behauenem Tuffstein erbaut. Das Innere ist mit Fresken aus dem 7. Jahrhundert geschmückt, die Szenen aus dem Leben Christi zeigen. Die Kirche wurde im 10. Jahrhundert renoviert. Sie ist ein bedeutendes Beispiel frühchristlicher armenischer Architektur. Die Umgebung bietet einen weiten Blick auf das Tal von Aragazotn. Lmbatavank ist ein beliebtes Ziel für Archäologen und historisch Interessierte. Die Kirche ist auch für ihre Akustik bekannt. Das Bauwerk ist in gutem Zustand und wird für gelegentliche Gottesdienste genutzt.",
+      hu: "A Lmbatavank templom Örményország Aragacotn tartományában egy 7. századi ókeresztény templom. Lmbatavank falu közelében, egy dombon fekszik. A templom egy egyszerű négyszögletes épület, keleti apszissal és nyugati ívvel. Durván faragott tufából épült. Belsejét 7. századi freskók díszítik, amelyek Krisztus életének jeleneteit ábrázolják. A templomot a 10. században felújították. Az ókeresztény örmény építészet fontos példája. A környékről szép kilátás nyílik az Aragacotn-völgyre. Lmbatavank népszerű a régészek és a történelem iránt érdeklődők körében. A templom akusztikájáról is ismert. Az épület jó állapotban van, és alkalmanként istentiszteleteket tartanak benne.",
+      ro: "Biserica Lmbatavank din provincia Aragatsotn din Armenia este o biserică paleocreștină din secolul al VII-lea. Este situată pe o colină lângă satul Lmbatavank. Biserica este o construcție dreptunghiulară simplă, cu o absidă la est și un arc la vest. A fost construită din tuf cioplit grosier. Interiorul este decorat cu fresce din secolul al VII-lea care înfățișează scene din viața lui Hristos. Biserica a fost renovată în secolul al X-lea. Este un exemplu important al arhitecturii armene paleocreștine. Zona oferă o panoramă a văii Aragatsotn. Lmbatavank este populară printre arheologi și pasionații de istorie. Biserica este cunoscută și pentru acustica sa. Edificiul este în stare bună și este folosit ocazional pentru slujbe.",
+      en: "Lmbatavank Church in Armenia's Aragatsotn Province is a 7th-century early Christian church. Located on a hill near the village of Lmbatavank, it is a simple rectangular structure with an eastern apse and a western arch. Built from roughly hewn tuff, the interior features 7th-century frescoes depicting scenes from the life of Christ. The church was renovated in the 10th century. It is a key example of early Armenian Christian architecture. The site offers panoramic views of the Aragatsotn valley. Lmbatavank is popular with archaeologists and history enthusiasts. The church is also noted for its acoustics. It remains in good condition and is used for occasional services.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 7. Jahrhundert", "Material: Tuffstein", "Renovierung: 10. Jahrhundert", "Fresken aus dem 7. Jahrhundert", "Form: rechteckig mit Apsis", "Nutzung: gelegentliche Gottesdienste"],
+      hu: ["Építés ideje: 7. század", "Anyag: tufa", "Felújítás: 10. század", "Freskók a 7. századból", "Forma: téglalap apszissal", "Használat: alkalmankénti istentiszteletek"],
+      ro: ["Perioada construcției: secolul VII", "Material: tuf", "Renovare: secolul X", "Fresce din secolul VII", "Formă: dreptunghiulară cu absidă", "Utilizare: slujbe ocazionale"],
+      en: ["Built: 7th century", "Material: tuff", "Renovated: 10th century", "Frescoes from 7th century", "Shape: rectangular with apse", "Usage: occasional services"],
+    },
   },
   {
     id: "armenia-talin-cathedral-landmarks-v2",
     type: "cathedral",
     name: { de: "Kathedrale von Talin", hu: "Talini székesegyház", ro: "Catedrala din Talin", en: "Talin Cathedral" },
-    coordinates: { lat: 40.386, lng: 43.875 },
+    coords: [43.875, 40.386],
     description: {
       de: "Die Kathedrale von Talin ist eine monumentale Kirchenruine aus dem 7. Jahrhundert.",
       hu: "A 7. századi monumentális bazilika romjai Talin városában találhatók, az örmény építészet egyik csúcspontja.",
@@ -1337,12 +1409,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Built in the 7th century by the Kamsarakan noble family.", "One of the largest Armenian churches from the early Middle Ages.", "Suffered significant damage during the earthquake of 1840.", "Features intricate carvings and remains of medieval frescoes."],
     },
     imageHint: "Talin Cathedral ruins Armenia",
+    descriptionAdvanced: {
+      de: "Die Talin-Kathedrale in der armenischen Provinz Aragazotn ist eine der größten mittelalterlichen Kirchen Armeniens. Sie wurde im 7. Jahrhundert erbaut und ist der Heiligen Maria geweiht. Die Kathedrale hat einen kreuzförmigen Grundriss mit einer zentralen Kuppel auf einem Tambour. Die Außenwände sind aus rosa und gelbem Tuffstein. Das Innere war einst reich mit Fresken verziert, von denen nur wenige Fragmente erhalten sind. Die Kathedrale wurde im 19. Jahrhundert teilweise restauriert. Sie ist bekannt für ihre monumentale Größe: Die Länge beträgt 36 Meter, die Breite 24 Meter. Die Kuppel erreicht eine Höhe von 26 Metern. Trotz teilweiser Zerstörung durch Erdbeben ist die Kathedrale ein imposantes Bauwerk. In der Nähe befinden sich die Ruinen des Klosters Talin. Die Kathedrale ist ein wichtiges Symbol der armenischen Sakralarchitektur. Sie wird heute nicht mehr genutzt, aber regelmäßig von Touristen besucht.",
+      hu: "A talini katedrális Örményország Aragacotn tartományában a középkori Örményország egyik legnagyobb temploma. A 7. században épült, és Szűz Máriának van szentelve. A katedrális kereszt alaprajzú, központi kupolával, amely egy dobon nyugszik. A külső falak rózsaszín és sárga tufából készültek. A belső teret egykor gazdag freskók díszítették, de ezekből csak néhány töredék maradt fenn. A katedrálist a 19. században részben felújították. Monumentális méreteiről ismert: hossza 36 méter, szélessége 24 méter. A kupola magassága 26 méter. A földrengések által részben elpusztított katedrális így is impozáns építmény. A közelben találhatók a Talin kolostor romjai. A katedrális az örmény szakrális építészet fontos szimbóluma. Ma már nem használják, de rendszeresen látogatják a turisták.",
+      ro: "Catedrala Talin din provincia Aragatsotn din Armenia este una dintre cele mai mari biserici medievale din Armenia. A fost construită în secolul al VII-lea și este dedicată Sfintei Maria. Catedrala are un plan în formă de cruce, cu o cupolă centrală pe un tambur. Pereții exteriori sunt din tuf roz și galben. Interiorul era odată decorat cu fresce bogate, din care au rămas doar câteva fragmente. Catedrala a fost parțial restaurată în secolul al XIX-lea. Este cunoscută pentru dimensiunile monumentale: lungimea de 36 de metri, lățimea de 24 de metri. Cupola atinge o înălțime de 26 de metri. Deși parțial distrusă de cutremure, catedrala rămâne impunătoare. În apropiere se află ruinele mănăstirii Talin. Catedrala este un simbol important al arhitecturii sacrale armene. Nu mai este folosită, dar este vizitată frecvent de turiști.",
+      en: "Talin Cathedral in Armenia's Aragatsotn Province is one of the largest medieval churches in Armenia. Built in the 7th century and dedicated to the Holy Mother of God, the cathedral has a cruciform plan with a central dome on a tambour. The exterior walls are made of pink and yellow tuff. The interior was once adorned with frescoes, of which only fragments remain. The cathedral was partially restored in the 19th century. Its dimensions are impressive: length 36 meters, width 24 meters, and dome height 26 meters. Despite earthquake damage, it remains imposing. Nearby are the ruins of Talin Monastery. The cathedral is a key symbol of Armenian sacred architecture. No longer in active use, it is a popular tourist destination.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 7. Jahrhundert", "Länge: 36 m", "Breite: 24 m", "Kuppelhöhe: 26 m", "Material: rosa und gelber Tuffstein", "Teilrestaurierung: 19. Jahrhundert"],
+      hu: ["Építés ideje: 7. század", "Hossz: 36 m", "Szélesség: 24 m", "Kupolamagasság: 26 m", "Anyag: rózsaszín és sárga tufa", "Részleges felújítás: 19. század"],
+      ro: ["Perioada construcției: secolul VII", "Lungime: 36 m", "Lățime: 24 m", "Înălțimea cupolei: 26 m", "Material: tuf roz și galben", "Restaurare parțială: secolul XIX"],
+      en: ["Built: 7th century", "Length: 36 m", "Width: 24 m", "Dome height: 26 m", "Material: pink and yellow tuff", "Partial restoration: 19th century"],
+    },
   },
   {
     id: "armenia-yererouk-basilica-landmarks-v2",
     type: "ruins",
     name: { de: "Basilika von Jereruk", hu: "Jereruk-bazilika", ro: "Bazilica Yererouk", en: "Yererouk Basilica" },
-    coordinates: { lat: 40.439, lng: 43.609 },
+    coords: [43.609, 40.439],
     description: {
       de: "Jereruk ist eine der ältesten christlichen Kirchenruinen Armeniens aus dem 4. bis 5. Jahrhundert.",
       hu: "A Jereruk-bazilika Örményország egyik legősibb keresztény templomának romja az Anipemza faluban.",
@@ -1356,12 +1440,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["One of the earliest Christian monuments in Armenia (4th-5th c.).", "A rare example of a three-aisled basilica in the region.", "Located on a hill overlooking the border with Turkey.", "On the tentative list for UNESCO World Heritage status."],
     },
     imageHint: "Yererouk Basilica ancient ruins Armenia",
+    descriptionAdvanced: {
+      de: "Die Yererouk-Basilika in der armenischen Provinz Schirak ist eine frühchristliche Basilika aus dem 4. Jahrhundert, eine der ältesten in Armenien. Sie liegt in der Nähe des Dorfes Yererouk. Die Basilika ist teilweise erhalten, mit den Überresten von drei Schiffen, Apsiden und Säulen. Sie wurde aus Basalt und Tuffstein gebaut. Die Struktur zeigt Einflüsse der römischen und syrischen Architektur. Die Basilika war ein wichtiges religiöses Zentrum frühchristlicher Zeit. Sie wurde durch Erdbeben zerstört, wahrscheinlich im 7. Jahrhundert. Archäologische Ausgrabungen haben Münzen und Keramik aus dem 4. Jahrhundert freigelegt. Die Basilika ist von einer Mauer umgeben, die später hinzugefügt wurde. Der Ort ist ein nationales Wahrzeichen und Teil des UNESCO-Weltkulturerbe-Kandidaten. Yererouk bietet Einblicke in die frühe christliche Architektur Armeniens und ist ein wichtiger Anziehungspunkt für Archäologen.",
+      hu: "A Jereruk bazilika Örményország Sirák tartományában egy 4. századi ókeresztény bazilika, Örményország egyik legrégebbi temploma. Jereruk falu közelében fekszik. A bazilika részben megőrzött, három hajó, apszisok és oszlopok maradványaival. Bazaltból és tufából épült. A szerkezet római és szíriai hatásokat mutat. A bazilika az ókeresztény kor fontos vallási központja volt. Földrengések pusztították el, valószínűleg a 7. században. Régészeti ásatások 4. századi érméket és kerámiákat tártak fel. A bazilikát később hozzáadott fal veszi körül. A helyszín nemzeti emlékmű és az UNESCO világörökségi jelöltje. Jereruk bepillantást nyújt Örményország korai keresztény építészetébe, és fontos a régészek számára.",
+      ro: "Basilica Yererouk din provincia Shirak din Armenia este o bazilică paleocreștină din secolul al IV-lea, una dintre cele mai vechi din Armenia. Este situată lângă satul Yererouk. Bazilica este parțial păstrată, cu rămășițe ale trei nave, abside și coloane. A fost construită din bazalt și tuf. Structura prezintă influențe romane și siriene. Bazilica a fost un important centru religios al creștinismului timpuriu. A fost distrusă de cutremure, probabil în secolul al VII-lea. Săpăturile arheologice au scos la lumină monede și ceramică din secolul al IV-lea. Bazilica este înconjurată de un zid adăugat ulterior. Locul este un monument național și candidat la patrimoniul UNESCO. Yererouk oferă perspective asupra arhitecturii creștine timpurii din Armenia și atrage arheologi.",
+      en: "Yererouk Basilica in Armenia's Shirak Province is an early Christian basilica from the 4th century, one of the oldest in Armenia. Located near the village of Yererouk, the basilica is partially preserved, with remains of three aisles, apses, and columns. It was built from basalt and tuff. The structure shows Roman and Syrian influences. The basilica was an important early Christian religious center, destroyed by earthquakes likely in the 7th century. Archaeological excavations have uncovered 4th-century coins and pottery. The site is surrounded by a later-added wall. It is a national monument and a UNESCO World Heritage tentative site. Yererouk provides insights into early Christian architecture in Armenia and is a key attraction for archaeologists.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 4. Jahrhundert", "Material: Basalt und Tuffstein", "Drei Schiffe", "Zerstört durch Erdbeben im 7. Jahrhundert", "Ausgrabungen: Münzen aus dem 4. Jahrhundert", "UNESCO-Kandidat"],
+      hu: ["Építés ideje: 4. század", "Anyag: bazalt és tufa", "Három hajó", "Földrengés pusztította el a 7. században", "Ásatások: 4. századi érmék", "UNESCO-jelölt"],
+      ro: ["Perioada construcției: secolul IV", "Material: bazalt și tuf", "Trei nave", "Distrusă de cutremur în secolul VII", "Săpături: monede din secolul IV", "Candidat UNESCO"],
+      en: ["Built: 4th century", "Material: basalt and tuff", "Three aisles", "Destroyed by earthquake in 7th century", "Excavations: 4th-century coins", "UNESCO tentative site"],
+    },
   },
   {
     id: "armenia-mastara-church-landmarks-v2",
     type: "church",
     name: { de: "Johanneskirche von Mastara", hu: "Masztarai Szent János-templom", ro: "Biserica Sfântul Ioan din Mastara", en: "Mastara Church" },
-    coordinates: { lat: 40.452, lng: 43.882 },
+    coords: [43.882, 40.452],
     description: {
       de: "Die Mastara-Kirche ist ein bedeutendes religiöses Bauwerk aus dem 7. Jahrhundert im Dorf Mastara.",
       hu: "A masztarai templom a 7. századi örmény építészet egyik legfontosabb példája a Shirak-fennsíkon.",
@@ -1375,12 +1471,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Tradition states it was built over relics of John the Baptist.", "Features one of the widest domes in early medieval Armenian art.", "Built with massive, precisely cut stone blocks.", "The church has survived for 14 centuries without major changes."],
     },
     imageHint: "Mastara Church ancient stone architecture Armenia",
+    descriptionAdvanced: {
+      de: "Die Mastara-Kirche in der armenischen Provinz Aragazotn ist eine der ältesten erhaltenen Kirchen Armeniens, erbaut im 5. bis 7. Jahrhundert. Sie liegt im Dorf Mastara. Die Kirche ist ein zentraler Kuppelbau mit einem kreuzförmigen Grundriss. Sie wurde aus grauem Basalt errichtet. Die Kuppel ruht auf einem achteckigen Tambour. Die Außenwände sind schlicht, die Innenräume waren einst mit Fresken geschmückt, die jedoch nicht erhalten sind. Die Kirche ist bekannt für ihre gut erhaltene ursprüngliche Architektur, die den Übergang von frühchristlichen Basiliken zur kreuzförmigen Bauweise zeigt. Im 19. Jahrhundert wurden Renovierungen durchgeführt. Die Mastara-Kirche ist ein bedeutendes Denkmal der armenischen Kirchenarchitektur. Sie wird heute noch für Gottesdienste genutzt. In der Umgebung gibt es einen alten Friedhof und eine Kapelle. Die Kirche ist ein beliebtes Ziel für Touristen und Pilger.",
+      hu: "A mastarai templom Örményország Aragacotn tartományában Örményország egyik legrégebbi fennmaradt temploma, amely az 5–7. században épült. Mastara faluban található. A templom központi kupolás épület, kereszt alaprajzzal. Szürke bazaltból épült. A kupola nyolcszögletű dobon nyugszik. A külső falak egyszerűek, a belső tereket egykor freskók díszítették, de ezek nem maradtak fenn. A templom jól megőrzött eredeti építészetéről ismert, amely az ókeresztény bazilikákról a kereszt alakú építkezésre való áttérést mutatja. A 19. században felújításokat végeztek. A mastarai templom az örmény templomépítészet fontos emléke. Ma is használják istentiszteletekre. A környéken régi temető és kápolna található. A templom népszerű a turisták és zarándokok körében.",
+      ro: "Biserica Mastara din provincia Aragatsotn din Armenia este una dintre cele mai vechi biserici păstrate din Armenia, construită între secolele V și VII. Este situată în satul Mastara. Biserica este o construcție centrală cu cupolă, cu plan în formă de cruce. A fost construită din bazalt gri. Cupola se sprijină pe un tambur octogonal. Pereții exteriori sunt simpli, iar interiorul era odată decorat cu fresce, care nu s-au păstrat. Biserica este cunoscută pentru arhitectura originală bine păstrată, care arată tranziția de la bazilicile paleocreștine la planul în cruce. Renovări au avut loc în secolul al XIX-lea. Biserica Mastara este un monument important al arhitecturii bisericești armene. Este încă folosită pentru slujbe. În apropiere se află un cimitir vechi și o capelă. Biserica este populară printre turiști și pelerini.",
+      en: "Mastara Church in Armenia's Aragatsotn Province is one of the oldest surviving churches in Armenia, built between the 5th and 7th centuries. Located in the village of Mastara, the church is a central-domed structure with a cruciform plan. It is built from gray basalt. The dome rests on an octagonal drum. The exterior is plain; interior frescoes have not survived. The church is noted for its well-preserved original architecture, illustrating the transition from early Christian basilicas to the cross-in-square plan. Renovations were done in the 19th century. Mastara Church is a significant monument of Armenian ecclesiastical architecture, still used for services. Nearby are an old cemetery and a chapel. It is popular with tourists and pilgrims.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 5.–7. Jahrhundert", "Material: grauer Basalt", "Grundriss: Kreuzform", "Kuppel auf achteckigem Tambour", "Renovierung: 19. Jahrhundert", "Noch in Nutzung"],
+      hu: ["Építés ideje: 5–7. század", "Anyag: szürke bazalt", "Alaprajz: kereszt alakú", "Kupola nyolcszögletű dob", "Felújítás: 19. század", "Még használatban"],
+      ro: ["Perioada construcției: secolele V-VII", "Material: bazalt gri", "Plan: în formă de cruce", "Cupolă pe tambur octogonal", "Renovare: secolul XIX", "Încă în uz"],
+      en: ["Built: 5th-7th century", "Material: gray basalt", "Plan: cruciform", "Dome on octagonal drum", "Renovated: 19th century", "Still in use"],
+    },
   },
   {
     id: "armenia-halidzor-fortress-landmarks-v2",
     type: "castle",
     name: { de: "Festung Halidsor", hu: "Halidzor erőd", ro: "Cetatea Halidzor", en: "Halidzor Fortress" },
-    coordinates: { lat: 39.213, lng: 46.331 },
+    coords: [46.331, 39.213],
     description: {
       de: "Halidsor ist eine Festung aus dem 17. Jahrhundert im Süden Armeniens, nahe der Stadt Kapan.",
       hu: "Halidzor vára a 17. században épült a Voghji-folyó völgyében, fontos védelmi központ volt.",
@@ -1394,12 +1502,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Originally built as a convent, later converted into a fortress.", "Served as the military headquarters of David Bek in the 1720s.", "Famous for the Battle of Halidzor in 1727 against the Ottomans.", "Strategically positioned on a hill overlooking the Voghji River valley."],
     },
     imageHint: "Halidzor Fortress Syunik Armenia",
+    descriptionAdvanced: {
+      de: "Die Festung Halidzor in der armenischen Provinz Sjunik ist eine mittelalterliche Bergfestung aus dem 17. Jahrhundert. Sie liegt auf einem Hügel über dem Dorf Halidzor, auf einer Höhe von etwa 1.300 Metern. Die Festung wurde zwischen 1600 und 1637 erbaut, um die Region vor osmanischen und persischen Einfällen zu schützen. Sie besteht aus massiven Steinmauern, einem Wachturm und einem unterirdischen Gang. Die Mauern sind bis zu 6 Meter dick. Die Festung diente als wichtiger militärischer Stützpunkt. Im 18. Jahrhundert wurde sie aufgegeben und verfiel. Restaurierungen begannen in den 1970er Jahren. Heute ist Halidzor ein beliebtes Touristenziel. Die Aussicht von der Festung reicht bis zum Tal des Vorotan-Flusses. Die Festung ist auch für ihre Rolle im armenischen Befreiungskampf bekannt. In der Nähe befinden sich das Kloster Tatew und die Höhle von Halidzor.",
+      hu: "A Halidzor erőd Örményország Szjunik tartományában egy 17. századi középkori hegyi erőd. Halidzor falu feletti dombon fekszik, körülbelül 1300 méteres tengerszint feletti magasságban. Az erődöt 1600 és 1637 között építették a régió védelmére oszmán és perzsa betörések ellen. Masszív kőfalakból, egy őrtoronyból és egy földalatti folyosóból áll. A falak vastagsága eléri a 6 métert. Az erőd fontos katonai támaszpontként szolgált. A 18. században elhagyták és romba dőlt. A felújítások az 1970-es években kezdődtek. Ma Halidzor népszerű turisztikai célpont. Az erődből kilátás nyílik a Vorotán-völgyre. Az erőd az örmény felszabadító harcban is szerepet játszott. A közelben található a Tatev kolostor és a Halidzor-barlang.",
+      ro: "Fortăreața Halidzor din provincia Syunik din Armenia este o cetate montană medievală din secolul al XVII-lea. Este situată pe o colină deasupra satului Halidzor, la o altitudine de aproximativ 1.300 de metri. Fortăreața a fost construită între 1600 și 1637 pentru a proteja regiunea de invaziile otomane și persane. Ea constă din ziduri masive de piatră, un turn de pază și un pasaj subteran. Zidurile au o grosime de până la 6 metri. Cetatea a servit ca bază militară importantă. A fost abandonată în secolul al XVIII-lea și a căzut în ruină. Restaurările au început în anii 1970. Astăzi, Halidzor este o destinație turistică populară. Priveliștea se întinde până la valea râului Vorotan. Fortăreața este cunoscută și pentru rolul său în lupta de eliberare armeană. În apropiere se află mănăstirea Tatev și peștera Halidzor.",
+      en: "Halidzor Fortress in Armenia's Syunik Province is a 17th-century medieval mountain fortress. Perched on a hill above the village of Halidzor at an elevation of about 1,300 meters, it was built between 1600 and 1637 to defend against Ottoman and Persian incursions. The fortress features massive stone walls (up to 6 meters thick), a watchtower, and an underground passage. It served as a key military stronghold. Abandoned in the 18th century, it fell into ruin. Restoration began in the 1970s. Today, Halidzor is a popular tourist attraction offering views of the Vorotan River valley. It is also notable for its role in the Armenian liberation movement. Nearby attractions include Tatev Monastery and Halidzor Cave.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1600–1637", "Höhe: 1.300 m über dem Meeresspiegel", "Mauerstärke: bis zu 6 m", "Aufgabe: 18. Jahrhundert", "Restaurierung: seit 1970er Jahren", "Enthält unterirdischen Gang"],
+      hu: ["Építési idő: 1600–1637", "Tengerszint feletti magasság: 1300 m", "Falvastagság: akár 6 m", "Elhagyás: 18. század", "Felújítás: 1970-es évek óta", "Földalatti folyosóval"],
+      ro: ["Perioada construcției: 1600-1637", "Altitudine: 1.300 m", "Grosimea zidurilor: până la 6 m", "Abandonare: secolul XVIII", "Restaurare: din anii 1970", "Include un pasaj subteran"],
+      en: ["Built: 1600–1637", "Elevation: 1,300 m", "Wall thickness: up to 6 m", "Abandoned: 18th century", "Restoration: since 1970s", "Includes underground passage"],
+    },
   },
   {
     id: "armenia-baghaberd-fortress-landmarks-v2",
     type: "ruins",
     name: { de: "Festung Baghaberd", hu: "Baghaberd erőd", ro: "Cetatea Baghaberd", en: "Baghaberd Fortress" },
-    coordinates: { lat: 39.201, lng: 46.257 },
+    coords: [46.257, 39.201],
     description: {
       de: "Baghaberd ist eine antike und mittelalterliche Festung, die oft als die größte im Sjunik-Gebiet bezeichnet wird.",
       hu: "Baghaberd egy hatalmas középkori erőd romja Sjunik tartományban, a Voghji-folyó felett.",
@@ -1413,12 +1533,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["The fortress origins date back as far as the 4th century.", "Served as the last capital and refuge of the Syunik Kingdom.", "Destroyed by Seljuk invaders in 1170 AD.", "Features massive double walls and defensive towers on steep terrain."],
     },
     imageHint: "Baghaberd Fortress ruins Syunik Armenia",
+    descriptionAdvanced: {
+      de: "Die Festung Baghaberd in der armenischen Provinz Sjunik ist eine antike Festung, deren Ursprünge bis ins 4. Jahrhundert zurückreichen. Sie liegt auf einem steilen Felsvorsprung am Ufer des Vorotan-Flusses. Die Festung wurde im Mittelalter mehrmals erweitert. Sie diente als Residenz der Fürsten von Sjunik. Die Mauern bestehen aus großen Basaltblöcken. Im 11. Jahrhundert wurde die Festung von den Seldschuken erobert. Später wurde sie von den Orbelian-Dynastien genutzt. Heute sind nur noch Ruinen erhalten, darunter Teile der Mauern, Türme und ein unterirdischer Gang. Die Festung war schwer zugänglich und galt als uneinnehmbar. Archäologische Funde umfassen Keramik und Waffen. Baghaberd bietet einen spektakulären Blick auf das Vorotan-Tal. Die Festung ist ein geschütztes historisches Denkmal und ein beliebtes Ziel für Wanderer und Geschichtsinteressierte. Die Umgebung ist reich an Flora und Fauna.",
+      hu: "A Baghaberd erőd Örményország Szjunik tartományában egy ókori erőd, amelynek gyökerei a 4. századig nyúlnak vissza. A Vorotán-folyó partján, egy meredek sziklás kiszögellésen fekszik. Az erődöt a középkorban többször bővítették. A szjuniki hercegek rezidenciájaként szolgált. A falak nagy bazalttömbökből készültek. A 11. században a szeldzsukok elfoglalták. Később az Orbélian dinasztia használta. Mára csak romok maradtak, köztük falszakaszok, tornyok és egy földalatti folyosó. Az erőd nehezen megközelíthető volt és bevehetetlennek tartották. A régészeti leletek között kerámia és fegyverek találhatók. Baghaberd lenyűgöző kilátást nyújt a Vorotán-völgyre. Az erőd védett történelmi emlék, és népszerű a túrázók és történelemrajongók körében. A környék gazdag növény- és állatvilágban.",
+      ro: "Fortăreața Baghaberd din provincia Syunik din Armenia este o cetate antică ale cărei origini datează din secolul al IV-lea. Este situată pe o stâncă abruptă pe malul râului Vorotan. Fortăreața a fost extinsă de mai multe ori în Evul Mediu. A servit drept reședință a prinților de Syunik. Zidurile sunt făcute din blocuri mari de bazalt. În secolul al XI-lea, cetatea a fost cucerită de selgiucizi. Mai târziu a fost utilizată de dinastia Orbelian. Astăzi au rămas doar ruine, incluzând porțiuni de ziduri, turnuri și un pasaj subteran. Fortăreața era greu accesibilă și considerată inexpugnabilă. Descoperirile arheologice includ ceramică și arme. Baghaberd oferă o priveliște spectaculoasă asupra văii Vorotan. Cetatea este un monument istoric protejat și o destinație populară pentru drumeți și pasionații de istorie. Zona este bogată în floră și faună.",
+      en: "Baghaberd Fortress in Armenia's Syunik Province is an ancient fortress dating back to the 4th century. Perched on a steep rock spur above the Vorotan River, the fortress was expanded in the medieval period and served as the residence of the Syunik princes. The walls are built from large basalt blocks. In the 11th century, it was captured by the Seljuks, and later used by the Orbelian dynasty. Today only ruins remain, including sections of walls, towers, and an underground passage. The fortress was considered impregnable due to its location. Archaeological finds include pottery and weapons. Baghaberd offers spectacular views of the Vorotan Valley. It is a protected historical monument and popular for hiking and history tourism. The surrounding area is rich in biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung: 4. Jahrhundert", "Material: Basaltblöcke", "Erobert von Seldschuken im 11. Jahrhundert", "Höhe der Mauern: Reste bis zu 5 m", "Unterirdischer Gang vorhanden", "Geschütztes Denkmal seit 1970"],
+      hu: ["Eredet: 4. század", "Anyag: bazalt tömbök", "Szeldzsukok foglalták el a 11. században", "Falmaradványok magassága: akár 5 m", "Földalatti folyosó létezik", "Védett emlék 1970 óta"],
+      ro: ["Origine: secolul IV", "Material: blocuri de bazalt", "Cucerit de selgiucizi în secolul XI", "Înălțimea zidurilor rămase: până la 5 m", "Pasaj subteran existent", "Monument protejat din 1970"],
+      en: ["Origins: 4th century", "Material: basalt blocks", "Captured by Seljuks in 11th century", "Remaining wall height: up to 5 m", "Underground passage exists", "Protected monument since 1970"],
+    },
   },
   {
     id: "armenia-vorotnavank-landmarks-v2",
     type: "church",
     name: { de: "Kloster Worotnawank", hu: "Vorotnavank kolostor", ro: "Mănăstirea Vorotnavank", en: "Vorotnavank Monastery" },
-    coordinates: { lat: 39.489, lng: 46.126 },
+    coords: [46.126, 39.489],
     description: {
       de: "Worotnawank ist ein befestigter Klosterkomplex am Rande der Worotan-Schlucht.",
       hu: "A Vorotan-szurdok partján fekvő erődített kolostor a 10. században épült Sjunikban.",
@@ -1437,7 +1569,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-tsaghats-kar-landmarks-v2",
     type: "church",
     name: { de: "Kloster Zaghats Kar", hu: "Tsaghats Kar kolostor", ro: "Mănăstirea Tsaghats Kar", en: "Tsaghats Kar Monastery" },
-    coordinates: { lat: 39.885, lng: 45.348 },
+    coords: [45.348, 39.885],
     description: {
       de: "Zaghats Kar ist ein abgelegenes Kloster aus dem 10. Jahrhundert in den Bergen von Wajoz Dsor.",
       hu: "A 10. századi kolostor Vayots Dzor hegyei között, elszigetelt helyen található.",
@@ -1456,7 +1588,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-arates-monastery-landmarks-v2",
     type: "ruins",
     name: { de: "Kloster Arates", hu: "Arates kolostor", ro: "Mănăstirea Arates", en: "Arates Monastery" },
-    coordinates: { lat: 39.905, lng: 45.438 },
+    coords: [45.438, 39.905],
     description: {
       de: "Arates ist eine Klosterruine aus dem 7. bis 13. Jahrhundert in der malerischen Provinz Wajoz Dsor.",
       hu: "A 7-13. századi kolostor romjai az Arates-folyó völgyében, festői környezetben fekszenek.",
@@ -1475,7 +1607,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-tanahat-monastery-landmarks-v2",
     type: "church",
     name: { de: "Kloster Tanahat", hu: "Tanahat kolostor", ro: "Mănăstirea Tanahat", en: "Tanahat Monastery" },
-    coordinates: { lat: 39.914, lng: 45.397 },
+    coords: [45.397, 39.914],
     description: {
       de: "Tanahat ist ein Kloster aus dem 13. Jahrhundert, das eng mit der Geschichte der Universität Gladsor verbunden ist.",
       hu: "A 13. századi Tanahat kolostor az egykori Gladzor Egyetem központi helyszíne volt.",
@@ -1489,12 +1621,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["The main church, Surb Stepanos, was completed in 1273.", "Site of the famous medieval Gladzor University (1282–1338).", "Built entirely from polished black basalt stone.", "Features intricate exterior carvings of hunting scenes and animals."],
     },
     imageHint: "Tanahat Monastery and Gladzor University site Armenia",
+    descriptionAdvanced: {
+      de: "Das Tanahat-Kloster liegt in der Provinz Wajoz Dsor in Armenien, etwa 5 Kilometer südwestlich des Dorfes Gladzor. Es wurde im 8. Jahrhundert gegründet und erlebte seine Blütezeit im 13. Jahrhundert unter der Herrschaft der Proschjan-Dynastie. Der Komplex besteht aus der Hauptkirche Surb Astwazazin (Heilige Mutter Gottes), einer kleinen Kirche, einem Gawit (Vorraum) und verschiedenen Nebengebäuden. Die Architektur zeigt typisch armenische Merkmale wie Kreuzkuppelbauweise und reiche Steinmetzarbeiten. Das Kloster war ein bedeutendes Bildungszentrum und beherbergte eine Handschriftenwerkstatt. Es wurde im 17. Jahrhundert aufgegeben und verfiel allmählich. In den letzten Jahrzehnten fanden Restaurierungsarbeiten statt.",
+      hu: "A Tanahat-kolostor Örményország Vajoc Dzor tartományában található, Gladzor falutól mintegy 5 kilométerre délnyugatra. A kolostort a 8. században alapították, de fénykora a 13. századra esett, amikor a Proshjan-dinasztia uralkodott. A komplexum fő épülete a Szent Anyisten szülőtemplom (Surb Astvatsatsin), egy kisebb templom, egy gavit (előcsarnok) és egyéb épületek. Az építészeti stílus az örmény keresztkupolás hagyományokat követi, gazdag faragványokkal. A kolostor fontos oktatási központ volt, ahol kéziratokat másoltak. A 17. században elhagyták, és fokozatosan romba dőlt. Az elmúlt évtizedekben felújítási munkálatokat végeztek.",
+      ro: "Mănăstirea Tanahat este situată în provincia Vayots Dzor din Armenia, la aproximativ 5 kilometri sud-vest de satul Gladzor. A fost fondată în secolul al VIII-lea, dar perioada sa de glorie a fost în secolul al XIII-lea sub dinastia Proshyan. Complexul include biserica principală Sfânta Născătoare de Dumnezeu (Surb Astvatsatsin), o biserică mai mică, un gavit (pridvor) și anexe. Arhitectura este tipic armeană, cu plan în cruce și cupolă centrală, împodobită cu sculpturi în piatră. Mănăstirea a fost un important centru de învățământ și scriptoriu. A fost abandonată în secolul al XVII-lea și a căzut treptat în ruină. În ultimele decenii au avut loc lucrări de restaurare.",
+      en: "Tanahat Monastery is an 8th-century Armenian monastic complex located in Vayots Dzor Province. It flourished in the 13th century under the patronage of the Proshyan dynasty, serving as a major educational center with a renowned scriptorium. The main church, Surb Astvatsatsin (Holy Mother of God), features a cross-in-square plan with a central dome, typical of Armenian medieval architecture. The complex also includes a gavit (narthex) and subsidiary structures. After the 17th century, the monastery declined and fell into disrepair. Recent restoration efforts have stabilized the ruins, revealing intricate stone carvings and inscriptions. The site offers insights into medieval Armenian monastic life and manuscript illumination.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 8. Jahrhundert n. Chr.", "Hauptkirche Surb Astwazazin hat eine Kuppelhöhe von 12 Metern.", "Die Innenmaße des Gawits betragen 10,5 x 8,2 Meter.", "Die Klosteranlage bedeckt eine Fläche von etwa 1500 m².", "Die Proschjan-Dynastie förderte den Bau im 13. Jahrhundert.", "Die Ruinen wurden 2015 teilweise restauriert."],
+      hu: ["A kolostort a 8. században alapították.", "A főtemplom (Surb Astvatsatsin) kupolájának magassága 12 méter.", "A gavit alapterülete 10,5 x 8,2 méter.", "A komplexum teljes területe körülbelül 1500 négyzetméter.", "A Proshjan-dinasztia a 13. században támogatta az építkezéseket.", "A romokat 2015-ben részben helyreállították."],
+      ro: ["Fondată în secolul al VIII-lea d.Hr.", "Biserica principală Surb Astvatsatsin are o cupolă înaltă de 12 metri.", "Gavitul măsoară 10,5 x 8,2 metri în interior.", "Complexul acoperă aproximativ 1500 m².", "Dinastia Proshyan a sponsorizat construcțiile în secolul al XIII-lea.", "Ruinele au fost parțial restaurate în 2015."],
+      en: ["Founded in the 8th century CE.", "Main church dome reaches 12 meters in height.", "The gavit measures 10.5 by 8.2 meters internally.", "Complex covers approximately 1500 square meters.", "Proshyan dynasty sponsored construction in the 13th century.", "Partial restoration of ruins took place in 2015."],
+    },
   },
   {
     id: "armenia-gladzor-university-landmarks-v2",
     type: "museum",
     name: { de: "Gladsor-Universität Museum", hu: "Gladzor Egyetem Múzeum", ro: "Muzeul Universității Gladzor", en: "Gladzor University Museum" },
-    coordinates: { lat: 39.795, lng: 45.356 },
+    coords: [45.356, 39.795],
     description: {
       de: "Das Museum in Jeghegnadsor erinnert an die bedeutende mittelalterliche Universität von Gladsor.",
       hu: "A Jeregnadzorban található múzeum a középkori örmény felsőoktatás legfontosabb központját mutatja be.",
@@ -1508,12 +1652,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["The university was founded in the late 13th century.", "Nicknamed the 'Second Athens' by medieval Armenian scholars.", "The museum is housed in the restored 17th-century St. James Church.", "Displays exhibits on medieval calligraphy, philosophy, and sciences."],
     },
     imageHint: "Gladzor University Museum Yeghegnadzor Armenia",
+    descriptionAdvanced: {
+      de: "Die Gladzor-Universität (auch Gladzor-Manuskriptzentrum) befindet sich im Dorf Gladzor in der armenischen Provinz Wajoz Dsor. Sie wurde 1281 von dem Mönch und Gelehrten Nerses Mshetsi gegründet. Sie war eine der bedeutendsten mittelalterlichen armenischen Hochschulen und ein Zentrum für Theologie, Philosophie, Grammatik und Manuskriptkunst. Das Seminar war dem Kloster Tanahat angegliedert. Berühmte Gelehrte wie Hovhannes Vorotnetsi lehrten hier. Die Universität produzierte zahlreiche illuminierte Handschriften, die heute in Museen weltweit aufbewahrt werden. Der Campus umfasst ein Hauptgebäude, eine Kirche und eine Bibliothek. 1348 nach dem Tod des letzten Rektors wurde die Universität geschlossen.",
+      hu: "A Gladzor Egyetem (más néven Gladzor Kéziratközpont) Örményország Vajoc Dzor tartományában, Gladzor faluban található. Nerses Mshetsi szerzetes és tudós alapította 1281-ben. Ez a középkori örmény felsőoktatás egyik legfontosabb intézménye volt, ahol teológiát, filozófiát, nyelvtant és kéziratművészetet oktattak. A szeminárium a szomszédos Tanahat-kolostorhoz tartozott. Itt tanított Hovhannes Vorotnetsi híres tudós. Az egyetem számos díszített kéziratot készített, amelyek ma világszerte múzeumokban találhatók. 1348-ban, az utolsó rektor halála után bezárták.",
+      ro: "Universitatea Gladzor (cunoscută și ca Centrul de Manuscrise Gladzor) este situată în satul Gladzor din provincia Vayots Dzor, Armenia. A fost fondată în 1281 de călugărul și cărturarul Nerses Mshetsi. A fost una dintre cele mai importante instituții de învățământ superior medievale armene, specializată în teologie, filozofie, gramatică și arta manuscriselor. Seminarul era afiliat mănăstirii Tanahat. Aici a predat renumitul savant Hovhannes Vorotnetsi. Universitatea a produs numeroase manuscrise iluminate, păstrate astăzi în muzee din întreaga lume. A fost închisă în 1348, după moartea ultimului rector.",
+      en: "Gladzor University, also known as the Gladzor Manuscript Center, was founded in 1281 by Nerses Mshetsi in the village of Gladzor, Vayots Dzor Province. It was a premier medieval Armenian institution of higher learning, focusing on theology, philosophy, grammar, and manuscript illumination. Affiliated with Tanahat Monastery, it attracted scholars like Hovhannes Vorotnetsi. The university produced richly illuminated manuscripts, many now in museums globally. Its curriculum included Bible commentary, law, and history. The complex includes a church, library, and classrooms. After a devastating earthquake in 1348 and the death of its last rector, the university ceased operations. Today, efforts preserve its legacy as a UNESCO tentative site.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1281 von Nerses Mshetsi.", "Höhepunkt der Aktivität im 13.-14. Jahrhundert.", "Bekannte Gelehrte: Hovhannes Vorotnetsi.", "Es wurden über 70 illuminierte Handschriften produziert.", "Der Campus umfasst eine Fläche von etwa 2000 m².", "Das Seminar wurde 1348 nach einem Erdbeben geschlossen."],
+      hu: ["Nerses Mshetsi alapította 1281-ben.", "Fénykora a 13-14. századra esett.", "Itt tanított Hovhannes Vorotnetsi híres tudós.", "Több mint 70 díszített kéziratot készítettek itt.", "Az egyetem területe körülbelül 2000 négyzetméter.", "1348-ban egy földrengés után zárták be."],
+      ro: ["Fondată în 1281 de Nerses Mshetsi.", "Perioada de glorie în secolele XIII-XIV.", "Profesor celebru: Hovhannes Vorotnetsi.", "A produs peste 70 de manuscrise iluminate.", "Campusul se întinde pe aproximativ 2000 m².", "A fost închisă în 1348 după un cutremur."],
+      en: ["Founded in 1281 by Nerses Mshetsi.", "Peak activity in the 13th-14th centuries.", "Prominent scholar Hovhannes Vorotnetsi taught there.", "Produced over 70 illuminated manuscripts.", "Campus area approximately 2000 square meters.", "Ceased operations in 1348 following an earthquake."],
+    },
   },
   {
     id: "armenia-david-of-sassoun-landmarks-v2",
     type: "monument",
     name: { de: "Denkmal David von Sasun", hu: "Szasszuni Dávid emlékmű", ro: "Statuia lui David din Sasun", en: "David of Sassoun Statue" },
-    coordinates: { lat: 40.155, lng: 44.508 },
+    coords: [44.508, 40.155],
     description: {
       de: "Die Reiterstatue von David von Sasun ist ein Symbol für den armenischen Freiheitsgeist in Eriwan.",
       hu: "Szasszuni Dávid lovasszobra az örmény nemzeti eposz hősét ábrázolja a jereváni vasútállomás előtt.",
@@ -1527,12 +1683,24 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       en: ["Created by sculptor Yervand Kochar and unveiled in 1959.", "Located in the square in front of the Yerevan Railway Station.", "Represents the main protagonist of the Armenian national epic.", "Made of copper and mounted on a massive basalt rock base."],
     },
     imageHint: "David of Sassoun statue Yerevan Railway Station Armenia",
+    descriptionAdvanced: {
+      de: "Die David von Sassoun Statue ist ein monumentales Reiterstandbild, das den armenischen Nationalepos-Helden David von Sassoun darstellt. Es steht am Platz der Republik in Jerewan, der Hauptstadt Armeniens. Die Statue wurde 1959 von dem Bildhauer Yervand Kochar geschaffen und ist aus Bronze gegossen. Sie zeigt David auf seinem Pferd Djalali, die rechte Hand mit einem Schwert erhoben. Das Denkmal ist 12 Meter hoch und wiegt etwa 3,5 Tonnen. Es steht auf einem hohen Sockel aus schwarzem Granit. Die Statue ist ein Symbol des armenischen Widerstands und Heldentums. Sie zieht viele Touristen an und ist ein beliebter Treffpunkt.",
+      hu: "A Dávid szászországi szobra egy monumentális lovasszobor, amely az örmény nemzeti eposz hősét, Dávidot ábrázolja. Jerevánban, a Köztársaság terén található. A szobrot 1959-ben készítette Yervand Kochar szobrász, bronzból öntötték. Dávidot lován, Dzsalalival ábrázolja, jobb kezében kardot emelve. A szobor magassága 12 méter, súlya körülbelül 3,5 tonna. Fekete gránit talapzaton áll. A szobor az örmény ellenállás és hősiesség szimbóluma. Sok turistát vonz, népszerű találkozóhely.",
+      ro: "Statuia lui David de Sassoun este un monument ecvestru monumental care îl înfățișează pe eroul epopeii naționale armene, David de Sassoun. Se află în Piața Republicii din Erevan, capitala Armeniei. A fost creată în 1959 de sculptorul Yervand Kochar, turnată în bronz. Îl arată pe David pe calul său Djalali, mâna dreaptă ridicată cu o sabie. Statuia are 12 metri înălțime și cântărește aproximativ 3,5 tone. Se sprijină pe un soclu de granit negru. Este un simbol al rezistenței și eroismului armean. Atrage mulți turiști și este un loc popular de întâlnire.",
+      en: "The David of Sassoun statue is a monumental bronze equestrian statue in Yerevan, Armenia, depicting the hero of the Armenian national epic 'Daredevils of Sassoun'. Created by sculptor Yervand Kochar in 1959, it stands 12 meters tall and weighs 3.5 tons, mounted on a black granite pedestal. David is shown raising his sword on his horse Djalali. The statue was erected during the Soviet era to symbolize Armenian national pride and resistance. It is a major landmark in Republic Square, frequently photographed by visitors. The sculpture is stylized with elements of Armenian medieval manuscript art, reflecting Kochar's modernist approach.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet im Jahr 1959.", "Höhe: 12 Meter, inklusive Sockel.", "Gewicht: ca. 3,5 Tonnen.", "Material: Bronze und Granit.", "Bildhauer: Yervand Kochar (1909-2003).", "Standort: Platz der Republik, Jerewan."],
+      hu: ["1959-ben avatták fel.", "Magassága: 12 méter (talapzattal együtt).", "Súlya: körülbelül 3,5 tonna.", "Anyaga: bronz és gránit.", "Szobrász: Yervand Kochar (1909-2003).", "Helyszín: Köztársaság tér, Jereván."],
+      ro: ["Inaugurată în anul 1959.", "Înălțime: 12 metri (cu soclu).", "Greutate: aproximativ 3,5 tone.", "Material: bronz și granit.", "Sculptor: Yervand Kochar (1909-2003).", "Locație: Piața Republicii, Erevan."],
+      en: ["Erected in 1959.", "Total height 12 meters including pedestal.", "Weighs approximately 3.5 tons.", "Materials: bronze and black granite.", "Sculptor Yervand Kochar lived 1909-2003.", "Located at Republic Square, Yerevan."],
+    },
   },
   {
     id: "armenia-parajanov-museum-landmarks-v2",
     type: "museum",
     name: { de: "Sergei-Paradschanow-Museum", hu: "Szergej Paradzsanov Múzeum", ro: "Muzeul Sergei Parajanov", en: "Sergei Parajanov Museum" },
-    coordinates: { lat: 40.178, lng: 44.499 },
+    coords: [44.499, 40.178],
     description: {
       de: "Das Museum ist dem Werk des weltberühmten Regisseurs Sergei Paradschanow gewidmet.",
       hu: "A múzeum Szergej Paradzsanov világhírű filmrendező különleges képzőművészeti hagyatékát őrzi.",
@@ -1563,7 +1731,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-history-museum-landmarks-v2",
     type: "museum",
     name: { de: "Historisches Museum von Armenien", hu: "Örmény Történeti Múzeum", ro: "Muzeul de Istorie al Armeniei", en: "History Museum of Armenia" },
-    coordinates: { lat: 40.178, lng: 44.514 },
+    coords: [44.514, 40.178],
     description: {
       de: "Das Historische Museum am Platz der Republik zeigt die Geschichte Armeniens von der Steinzeit bis heute.",
       hu: "A Köztársaság téren található múzeum Örményország történelmét mutatja be az őskortól napjainkig.",
@@ -1594,7 +1762,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-mughni-church-landmarks-v2",
     type: "church",
     name: { de: "Sankt-Georg-Kirche von Mughni", hu: "Mughni Szent György-templom", ro: "Biserica Sfântul Gheorghe din Mughni", en: "Mughni Church" },
-    coordinates: { lat: 40.313, lng: 44.372 },
+    coords: [44.372, 40.313],
     description: {
       de: "Die Mughni-Kirche ist ein bedeutender Wallfahrtsort aus dem 17. Jahrhundert bei Ashtarak.",
       hu: "A 17. századi Szent György-templom Mughni faluban híres építészeti díszítéseiről.",
@@ -1625,7 +1793,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     id: "armenia-st-gayane-vagharshapat-landmarks-v2",
     type: "church",
     name: { de: "Kloster Karbi Surb Astvatsatsin", hu: "Karbi Szent Istenszülő-templom", ro: "Biserica Surb Astvatsatsin din Karbi", en: "Karbi Church" },
-    coordinates: { lat: 40.324, lng: 44.382 },
+    coords: [44.382, 40.324],
     description: {
       de: "Die Surb Astvatsatsin Kirche in Karbi ist eine spätmittelalterliche Basilika mit einem einzigartigen Glockenturm.",
       hu: "A Karbi faluban található 17. századi templom különlegessége a monumentális harangtornya.",
