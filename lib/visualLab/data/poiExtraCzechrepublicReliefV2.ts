@@ -1037,8 +1037,7 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/czechrepublic-bohemian-moravian-highlands-relief-v2.webp"},
   {
     id: "czechrepublic-broumov-highlands-relief-v2",
     parent: "CZ",
@@ -1069,8 +1068,7 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/czechrepublic-broumov-highlands-relief-v2.webp"},
   {
     id: "czechrepublic-upper-morava-valley-relief-v2",
     parent: "CZ",
@@ -1101,8 +1099,7 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/czechrepublic-upper-morava-valley-relief-v2.webp"},
   {
     id: "czechrepublic-trebon-basin-relief-v2",
     parent: "CZ",
@@ -1133,8 +1130,7 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/czechrepublic-trebon-basin-relief-v2.webp"},
   {
     id: "czechrepublic-low-jesenik-relief-v2",
     parent: "CZ",

@@ -988,8 +988,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-wark-river-nature-v2.webp"},
   {
     id: "luxembourg-woltz-river-nature-v2",
     parent: "LU",
@@ -1020,8 +1019,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-woltz-river-nature-v2.webp"},
   {
     id: "luxembourg-gander-river-nature-v2",
     parent: "LU",
@@ -1052,8 +1050,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-gander-river-nature-v2.webp"},
   {
     id: "luxembourg-blees-river-nature-v2",
     parent: "LU",
@@ -1084,8 +1081,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-blees-river-nature-v2.webp"},
   {
     id: "luxembourg-molberlee-nature-v2",
     parent: "LU",
@@ -1116,8 +1112,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-molberlee-nature-v2.webp"},
   {
     id: "luxembourg-hockslay-nature-v2",
     parent: "LU",
@@ -1148,8 +1143,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-hockslay-nature-v2.webp"},
   {
     id: "luxembourg-noumerleeen-nature-v2",
     parent: "LU",
@@ -1181,8 +1175,7 @@ imageHint: "Panoramic view of the Eisch valley",
       ro: [],
       en: [],
 //       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-noumerleeen-nature-v2.webp"},
   {
     id: "luxembourg-kierchbierg-forest-nature-v2",
     parent: "LU",
@@ -1245,8 +1238,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-akelsbech-nature-v2.webp"},
   {
     id: "luxembourg-pallembierg-nature-v2",
     parent: "LU",
@@ -1277,8 +1269,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-pallembierg-nature-v2.webp"},
   {
     id: "luxembourg-lallengerbierg-nature-v2",
     parent: "LU",
@@ -1309,8 +1300,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-lallengerbierg-nature-v2.webp"},
   {
     id: "luxembourg-strutzbierg-nature-v2",
     parent: "LU",
@@ -1373,8 +1363,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-amberkneppchen-nature-v2.webp"},
   {
     id: "luxembourg-helperknapp-nature-v2",
     parent: "LU",
@@ -1405,8 +1394,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-helperknapp-nature-v2.webp"},
   {
     id: "luxembourg-titelberg-nature-v2",
     parent: "LU",
@@ -1437,8 +1425,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-titelberg-nature-v2.webp"},
   {
     id: "luxembourg-zolwerknapp-nature-v2",
     parent: "LU",
@@ -1469,8 +1456,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-zolwerknapp-nature-v2.webp"},
   {
     id: "luxembourg-gaalgebierg-belvaux-nature-v2",
     parent: "LU",
@@ -1533,8 +1519,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-reimecherbierg-nature-v2.webp"},
   {
     id: "luxembourg-greiveldange-hills-nature-v2",
     parent: "LU",
@@ -1565,8 +1550,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-greiveldange-hills-nature-v2.webp"},
   {
     id: "luxembourg-ehnen-valley-nature-v2",
     parent: "LU",
@@ -1597,8 +1581,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-ehnen-valley-nature-v2.webp"},
   {
     id: "luxembourg-machtum-rocks-nature-v2",
     parent: "LU",
@@ -1629,8 +1612,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-machtum-rocks-nature-v2.webp"},
   {
     id: "luxembourg-wasserbillig-moselle-bend-nature-v2",
     parent: "LU",
@@ -1661,8 +1643,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-wasserbillig-moselle-bend-nature-v2.webp"},
   {
     id: "luxembourg-born-sure-valley-nature-v2",
     parent: "LU",
@@ -1725,8 +1706,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-rosport-sure-valley-nature-v2.webp"},
   {
     id: "luxembourg-moersdorf-nature-area-nature-v2",
     parent: "LU",
@@ -1789,8 +1769,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-girsterklaus-hill-nature-v2.webp"},
   {
     id: "luxembourg-tretterbaach-nature-v2",
     parent: "LU",
@@ -1822,8 +1801,7 @@ imageHint: "Panoramic view of the Eisch valley",
       ro: [],
       en: [],
 //       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-tretterbaach-nature-v2.webp"},
   {
     id: "luxembourg-eltz-river-nature-v2",
     parent: "LU",
@@ -1854,8 +1832,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-eltz-river-nature-v2.webp"},
   {
     id: "luxembourg-mont-st-nicolas-nature-v2",
     parent: "LU",
@@ -1886,8 +1863,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mont-st-nicolas-nature-v2.webp"},
   {
     id: "luxembourg-wark-valley-nature-v2",
     parent: "LU",
@@ -1918,8 +1894,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-wark-valley-nature-v2.webp"},
   {
     id: "luxembourg-mess-valley-nature-v2",
     parent: "LU",
@@ -1951,8 +1926,7 @@ imageHint: "Panoramic view of the Eisch valley",
       ro: [],
       en: [],
 //       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mess-valley-nature-v2.webp"},
   {
     id: "luxembourg-tretterbaach-valley-nature-v2",
     parent: "LU",
@@ -1983,8 +1957,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-tretterbaach-valley-nature-v2.webp"},
   {
     id: "luxembourg-blees-valley-nature-v2",
     parent: "LU",
@@ -2015,8 +1988,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-blees-valley-nature-v2.webp"},
   {
     id: "luxembourg-gander-valley-nature-v2",
     parent: "LU",
@@ -2048,8 +2020,7 @@ imageHint: "Panoramic view of the Eisch valley",
       ro: [],
       en: [],
 //       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-gander-valley-nature-v2.webp"},
   {
     id: "luxembourg-woltz-valley-nature-v2",
     parent: "LU",

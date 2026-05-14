@@ -1065,8 +1065,7 @@ export const moldovaNatureV2: POI[] = [
       hu: ["Vízhozama kb. 400 l/s", "A Moldovai Köztársaság legnagyobb forrása", "A víz hőmérséklete állandóan 9-11°C", "Orhei városát látja el ivóvízzel", "Hidrológiai természetvédelmi emlékként védett", "A Răut folyó völgyében található", "Kicsi, tiszta vizű tavat alkot", "Népszerű helyi üdülőhely"],
       ro: ["Debit de aproximativ 400 l/s", "Cel mai mare izvor din Republica Moldova", "Temperatura apei este constantă, 9-11°C", "Alimentează orașul Orhei cu apă potabilă", "Protejat ca monument hidrologic al naturii", "Situat în valea râului Răut", "Formează un lac mic și limpede la izvor", "Un loc popular de agrement local"],
       en: ["Discharge rate of approximately 400 l/s", "Largest spring in the Republic of Moldova", "Water temperature is a constant 9-11°C", "Supplies drinking water to the city of Orhei", "Protected as a hydrological monument of nature", "Located in the valley of the Răut River", "Forms a small, clear lake at its source", "A popular local spot for recreation and leisure"]
-    }
-  },
+    }, image: "/poi-images/moldova-jeloboc-spring-nature-v2.webp"},
   {
     id: "moldova-cubolta-river-nature-v2",
     parent: "MD",
@@ -1193,8 +1192,7 @@ export const moldovaNatureV2: POI[] = [
       hu: ["A Bîc folyó Dnyeszterbe való torkolatánál található", "Nemzetközi jelentőségű Ramsari területnek minősül", "Kritikus pihenőhely a vonuló madarak számára", "Gazdag vizes élőhelyekben, például holtágakban", "Nagy gém- és kormoránpopulációknak ad otthont", "Kulcsszerepet játszik a természetes vízszűrésben", "Természetes pufferzónaként működik az árvízvédelemben", "A teljes védett terület 520 hektár"],
       ro: ["Situată la gura de vărsare a râului Bîc în Nistru", "Desemnată ca sit Ramsar de importanță internațională", "Un punct de oprire critic pentru păsările migratoare", "Bogat în habitate de zone umede, cum ar fi brațele moarte", "Susține populații mari de stârci și cormorani", "Joacă un rol cheie în filtrarea naturală a apei", "Acționează ca o zonă tampon naturală pentru controlul inundațiilor", "Suprafața totală protejată acoperă 520 de hectare"],
       en: ["Located at the mouth of the Bîc River into the Dniester", "Designated as a Ramsar site of international importance", "A critical stopover point for migratory birds", "Rich in wetland habitats like oxbow lakes and reed beds", "Supports large populations of herons and cormorants", "Plays a key role in natural water filtration", "Acts as a natural buffer zone for flood control", "Total protected area covers 520 hectares"]
-    }
-  },
+    }, image: "/poi-images/moldova-gura-bicului-reserve-nature-v2.webp"},
   {
     id: "moldova-calaraseuca-cliffs-nature-v2",
     parent: "MD",
@@ -1225,8 +1223,7 @@ export const moldovaNatureV2: POI[] = [
       hu: ["Az Ocnița járásban, Észak-Moldovában található", "A Dnyeszter-sziklák egy 2 kilométeres szakaszát védi", "A sziklák szarmata mészkőlerakódásokat tárnak fel", "Ritka és endemikus növényfajok otthona", "Több barlanggal rendelkezik, némelyiket remetelakként használták", "Panorámás kilátást nyújt a Dnyeszter folyó völgyére", "A terület kijelölt tájvédelmi körzet", "Geológiai, biológiai és kulturális jelentőséget ötvöz"],
       ro: ["Situată în raionul Ocnița din nordul Moldovei", "Protejează o porțiune de 2 kilometri de stânci ale Nistrului", "Stâncile expun depozite de calcar sarmațian", "Adăpostește specii de plante rare și endemice", "Prezintă mai multe peșteri, unele folosite ca schituri", "Oferă vederi panoramice ale văii râului Nistru", "Zona este o rezervație peisagistică desemnată", "Combină importanța geologică, biologică și culturală"],
       en: ["Located in the Ocnița district in northern Moldova", "Protects a 2-kilometer stretch of Dniester cliffs", "Cliffs expose Sarmatian limestone deposits", "Home to rare and endemic plant species", "Features several caves, some used as hermitages", "Offers panoramic views of the Dniester River valley", "Area is a designated landscape reserve", "Combines geological, biological, and cultural significance"]
-    }
-  },
+    }, image: "/poi-images/moldova-calaraseuca-cliffs-nature-v2.webp"},
   {
     id: "moldova-valea-adinca-gorge-nature-v2",
     parent: "MD",

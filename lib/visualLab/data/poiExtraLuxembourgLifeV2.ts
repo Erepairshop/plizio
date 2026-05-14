@@ -1062,7 +1062,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Kostenloser und öffentlicher Zugang",
     "Dient der Bildung und Forschung",
     "Eine grüne Oase in der Stadt"
-]},
+], image: "/poi-images/luxembourg-jardin-botanique-life-v2.webp"},
   {
     id: "luxembourg-grouf-life-v2",
     parent: "LU",
@@ -1098,7 +1098,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Teil eines grenzüberschreitenden Biotopverbunds",
     "Steile Hänge und Felsformationen",
     "Fördert die Biodiversität der Weinbauregion"
-]},
+], image: "/poi-images/luxembourg-grouf-life-v2.webp"},
   {
     id: "luxembourg-kelsbaach-life-v2",
     parent: "LU",
@@ -1134,7 +1134,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Teil des Natur- & Geoparks Mëllerdall",
     "Beliebter Wanderweg 'Kelsbaach'",
     "Spektakuläre Ausblicke ins Moseltal"
-]},
+], image: "/poi-images/luxembourg-kelsbaach-life-v2.webp"},
   {
     id: "luxembourg-pettenberbesch-life-v2",
     parent: "LU",
@@ -1170,7 +1170,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Nahe dem historischen Schloss Pittingen",
     "Bedeutend für Insekten und Pilze",
     "Teil des nationalen Biotopverbunds"
-]},
+], image: "/poi-images/luxembourg-pettenberbesch-life-v2.webp"},
   {
     id: "luxembourg-hierberbesch-life-v2",
     parent: "LU",
@@ -1206,7 +1206,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Beliebtes Wandergebiet im Osten",
     "Hotspot der lokalen Biodiversität",
     "Ruhige und naturbelassene Atmosphäre"
-]},
+], image: "/poi-images/luxembourg-hierberbesch-life-v2.webp"},
   {
     id: "luxembourg-lensterbierg-life-v2",
     parent: "LU",
@@ -1242,7 +1242,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Teil des Natura 2000-Netzwerks",
     "Gut ausgebaute Wanderwege",
     "Hohe floristische Artenvielfalt"
-]},
+], image: "/poi-images/luxembourg-lensterbierg-life-v2.webp"},
   {
     id: "luxembourg-obeler-life-v2",
     parent: "LU",
@@ -1314,7 +1314,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Reich an alten Obstbaumsorten",
     "Hohe strukturelle Vielfalt",
     "Beispiel für extensive Landnutzung"
-]},
+], image: "/poi-images/luxembourg-peffeschhaff-life-v2.webp"},
   {
     id: "luxembourg-millebierg-life-v2",
     parent: "LU",
@@ -1350,7 +1350,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Wichtig für wärmeliebende Insekten",
     "Beliebtes stadtnahes Wandergebiet",
     "Teil eines regionalen Schutzgebietsnetzes"
-]},
+], image: "/poi-images/luxembourg-millebierg-life-v2.webp"},
   {
     id: "luxembourg-millewiesen-life-v2",
     parent: "LU",
@@ -1386,7 +1386,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Teil eines größeren Wasserschutzgebiets",
     "Lebensraum für seltene Vögel und Insekten",
     "Nahe der Ortschaft Brouch"
-]},
+], image: "/poi-images/luxembourg-millewiesen-life-v2.webp"},
   {
     id: "luxembourg-hirschbierg-life-v2",
     parent: "LU",
@@ -1422,7 +1422,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Hohe Insektenvielfalt",
     "Schöne Aussichtspunkte ins Sauertal",
     "Charakteristisch für die Ösling-Region"
-]},
+], image: "/poi-images/luxembourg-hirschbierg-life-v2.webp"},
   {
     id: "luxembourg-ourmündung-life-v2",
     parent: "LU",
@@ -1458,7 +1458,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Weichholz-Auenwälder und Kiesbänke",
     "Beobachtungstürme für Besucher",
     "Grenzüberschreitendes Naturerlebnis"
-]},
+], image: "/poi-images/luxembourg-ourmündung-life-v2.webp"},
   {
     id: "luxembourg-hallerbachtal-life-v2",
     parent: "LU",
@@ -1494,7 +1494,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Wanderweg entlang des Bachlaufs",
     "Hohe Luftfeuchtigkeit, reiche Moosflora",
     "Nahe der Ortschaft Haller gelegen"
-]},
+], image: "/poi-images/luxembourg-hallerbachtal-life-v2.webp"},
   {
     id: "luxembourg-manzebaach-life-v2",
     parent: "LU",
@@ -1530,7 +1530,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Wichtig für Amphibien und Wasserinsekten",
     "Beispiel für Renaturierungsmaßnahmen",
     "Geringe landwirtschaftliche Nutzung"
-]},
+], image: "/poi-images/luxembourg-manzebaach-life-v2.webp"},
   {
     id: "luxembourg-osterbour-life-v2",
     parent: "LU",
@@ -1566,7 +1566,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Umgaben von schattigem Schluchtwald",
     "Wichtig für die hydrologische Forschung",
     "Kleines, aber hochspezialisiertes Biotop"
-]},
+], image: "/poi-images/luxembourg-osterbour-life-v2.webp"},
   {
     id: "luxembourg-marscherwald-life-v2",
     parent: "LU",
@@ -1602,7 +1602,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Naturnahe Waldbewirtschaftung",
     "Wichtiges Naherholungsgebiet",
     "Vielfältige Pilzflora"
-]},
+], image: "/poi-images/luxembourg-marscherwald-life-v2.webp"},
   {
     id: "luxembourg-elteschmuel-life-v2",
     parent: "LU",
@@ -1638,7 +1638,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Verbessert den Hochwasserschutz",
     "Beobachtungsturm für Naturfreunde",
     "Erfolgreiches Renaturierungsprojekt"
-]},
+], image: "/poi-images/luxembourg-elteschmuel-life-v2.webp"},
   {
     id: "luxembourg-gourmangslee-life-v2",
     parent: "LU",
@@ -1674,7 +1674,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Typische Landschaft der Ardennen",
     "Hohe Bedeutung für Insekten",
     "Beispiel für traditionelle Landnutzung"
-]},
+], image: "/poi-images/luxembourg-gourmangslee-life-v2.webp"},
   {
     id: "luxembourg-grousswiss-life-v2",
     parent: "LU",
@@ -1710,7 +1710,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Reiche Vorkommen an Sumpf-Dotterblumen",
     "Erhaltung durch extensive Landwirtschaft",
     "Wichtig für Amphibien und Insekten"
-]},
+], image: "/poi-images/luxembourg-grousswiss-life-v2.webp"},
   {
     id: "luxembourg-saueruecht-life-v2",
     parent: "LU",
@@ -1746,7 +1746,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Teil eines internationalen Schutzgebiets-Netzwerks",
     "Hohe Bedeutung für Wiesenbrüter",
     "Vorzeigeprojekt für den Artenschutz"
-]},
+], image: "/poi-images/luxembourg-saueruecht-life-v2.webp"},
   {
     id: "luxembourg-diekirch-haardt-life-v2",
     parent: "LU",
@@ -1818,7 +1818,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Extreme Trockenheit und Sonneneinstrahlung",
     "Teil des Naturparks Our",
     "Einzigartige geologische Bedingungen"
-]},
+], image: "/poi-images/luxembourg-niklosbierg-life-v2.webp"},
   {
     id: "luxembourg-stolzembourg-nature-life-v2",
     parent: "LU",
@@ -1854,7 +1854,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Kombination aus Industrie- und Naturerbe",
     "Lehrpfad zum Bergbau",
     "Einzigartige geologische Bedingungen"
-]},
+], image: "/poi-images/luxembourg-stolzembourg-nature-life-v2.webp"},
   {
     id: "luxembourg-tuebebierg-life-v2",
     parent: "LU",
@@ -1885,8 +1885,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-tuebebierg-life-v2.webp"},
   {
     id: "luxembourg-parc-gaalgebierg-life-v2",
     parent: "LU",
@@ -1917,8 +1916,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-parc-gaalgebierg-life-v2.webp"},
   {
     id: "luxembourg-stromberg-life-v2",
     parent: "LU",
@@ -1981,8 +1979,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-hopelslay-life-v2.webp"},
   {
     id: "luxembourg-scheierbierg-life-v2",
     parent: "LU",
@@ -2013,8 +2010,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-scheierbierg-life-v2.webp"},
   {
     id: "luxembourg-jongenbesch-life-v2",
     parent: "LU",
@@ -2045,8 +2041,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-jongenbesch-life-v2.webp"},
   {
     id: "luxembourg-brouch-millewiesen-life-v2",
     parent: "LU",
@@ -2077,8 +2072,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: ["Eisch-folyó revitalizációja", "Natura 2000 hálózat része", "Bíbic fészkelőhelye", "12 hektáros kiterjedés"],
       ro: ["Restaurarea râului Eisch", "Sit protejat Natura 2000", "Habitat pentru nagâț", "Suprafață de circa 12 ha"],
       en: ["Eisch river restoration", "Natura 2000 network site", "Northern Lapwing habitat", "Area of approx. 12 hectares"],
-    },
-  },
+    }, image: "/poi-images/luxembourg-brouch-millewiesen-life-v2.webp"},
   {
     id: "luxembourg-elteschmuel-wetland-life-v2",
     parent: "LU",
@@ -2109,8 +2103,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: ["1990 utáni rekonstrukció", "Zöld levelibéka élőhelye", "Árvízvédelmi pufferzóna", "Az Alzette-völgy része"],
       ro: ["Restaurare după anul 1990", "Prezența broaștei de copac", "Zonă tampon contra inundațiilor", "Situat în lunca râului Alzette"],
       en: ["Restoration post-1990", "European tree frog habitat", "Flood protection buffer zone", "Part of the Alzette valley"],
-    },
-  },
+    }, image: "/poi-images/luxembourg-elteschmuel-wetland-life-v2.webp"},
   {
     id: "luxembourg-bissen-grousswiss-life-v2",
     parent: "LU",
@@ -2141,8 +2134,7 @@ imageHint: "Mirador Steinfort nature center building",
       hu: ["130 hektáros kiterjedés", "Attert folyó völgyében fekszik", "Nagy póling fészkelőhelye", "1990-es védetté nyilvánítás", "Jelentős mocsárréti ökoszisztéma", "Közép-luxemburgi elhelyezkedés"],
       ro: ["Suprafață de 130 hectare", "Situată în valea râului Attert", "Habitat pentru Numenius arquata", "Protejată legal din anul 1990", "Sistem complex de pajiști umede", "Inclusă în rețeaua Natura 2000"],
       en: ["Covers roughly 130 hectares", "Located in the Attert river valley", "Key Eurasian curlew nesting area", "Designated protected area in 1990", "Preserves rare wetland habitats", "Part of the national bird reserve"],
-    },
-  },
+    }, image: "/poi-images/luxembourg-bissen-grousswiss-life-v2.webp"},
   {
     id: "luxembourg-diekirch-haardt-forest-life-v2",
     parent: "LU",

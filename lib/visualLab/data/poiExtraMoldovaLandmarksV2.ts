@@ -890,8 +890,7 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["1981. április 25-én nyílt meg.", "Tervezők: Szemjon Sojhet és Ala Kirilenko.", "Nézőtér kapacitása: 1900 fő.", "A Szovjetunió negyedik legjobb cirkuszának számított.", "Stílus: szovjet brutalizmus.", "Homlokzatát akrobata domborművek díszítik.", "Átalakítható vízi arénával rendelkezett.", "2014-ben egy kisebb arénát újra megnyitottak."],
           ro: ["Inaugurat la 25 aprilie 1981.", "Arhitecți: Semion Șoihet și Ala Kirilenko.", "Capacitate de 1.900 de spectatori.", "Considerat al patrulea cel mai bun circ din URSS.", "Stil: brutalism sovietic.", "Fațadă decorată cu reliefuri de acrobați.", "Dispunea de o arenă transformabilă în bazin acvatic.", "O arenă mai mică a fost redeschisă în 2014."],
           en: ["Opened on April 25, 1981.", "Architects: Semyon Shoikhet and Ala Kirilenko.", "Seating capacity of 1,900.", "Considered the fourth best circus in the USSR.", "Style: Soviet Brutalism.", "Facade decorated with acrobat reliefs.", "Featured a convertible water arena.", "A smaller arena was reopened in 2014."]
-    }
-  },
+    }, image: "/poi-images/moldova-chisinau-circus-landmarks-v2.webp"},
   {
     id: "moldova-ciuflea-monastery-landmarks-v2",
     parent: "MD",
@@ -954,8 +953,7 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["Ion Druță író kezdeményezte.", "2004-ben avatták fel.", "Magassága 29,5 méter.", "Kb. 600 lépcső vezet fel hozzá.", "A kultúra megőrzői iránti hálát szimbolizálja.", "Panorámás kilátást nyújt a Dnyeszterre.", "Egy hatalmas gyertyát formáz.", "Soroca városa közelében található."],
           ro: ["Inițiat de scriitorul Ion Druță.", "Inaugurat în anul 2004.", "Înălțime: 29,5 metri.", "Aproximativ 600 de trepte duc la monument.", "Simbolizează recunoștința față de păstrătorii culturii.", "Oferă o vedere panoramică asupra Nistrului.", "Reprezintă o lumânare uriașă.", "Situat lângă orașul Soroca."],
           en: ["Initiated by writer Ion Druță.", "Inaugurated in 2004.", "Height: 29.5 meters.", "Approx. 600 steps lead to the monument.", "Symbolizes gratitude to the preservers of culture.", "Offers a panoramic view of the Dniester River.", "Represents a giant candle.", "Located near the city of Soroca."]
-    }
-  },
+    }, image: "/poi-images/moldova-candle-of-gratitude-landmarks-v2.webp"},
   {
     id: "moldova-st-teodora-de-la-sihla-landmarks-v2",
     parent: "MD",
@@ -986,8 +984,7 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["Alexandru Bernardazzi építész tervezte.", "1895-ben épült.", "Stílus: neobizánci.", "Eredetileg egy leánygimnázium kápolnája volt.", "Szent Teodora de la Sihla nevét viseli.", "Kisinyov központjában található.", "Teljeskörűen felújították és plébániatemplomként nyitották meg újra.", "Részletes kőfaragásairól ismert."],
           ro: ["Proiectată de arhitectul Alexandru Bernardazzi.", "Construită în anul 1895.", "Stil: neobizantin.", "Inițial capela unui gimnaziu de fete.", "Numită după Sfânta Teodora de la Sihla.", "Situată în centrul Chișinăului.", "Restaurată complet și redeschisă ca biserică parohială.", "Renumită pentru sculpturile detaliate în piatră."],
           en: ["Designed by architect Alexandru Bernardazzi.", "Built in 1895.", "Style: Neo-Byzantine.", "Originally the chapel of a girls' gymnasium.", "Named after Saint Teodora de la Sihla.", "Located in the center of Chișinău.", "Comprehensively restored and reopened as a parish church.", "Known for its detailed stone carvings."]
-    }
-  },
+    }, image: "/poi-images/moldova-st-teodora-de-la-sihla-landmarks-v2.webp"},
   {
     id: "moldova-mihai-eminescu-theatre-landmarks-v2",
     parent: "MD",
@@ -1018,8 +1015,7 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["A társulatot 1921-ben alapították.", "A jelenlegi épület 1954-ben készült el.", "Szovjet neoklasszicista építészeti stílus.", "Mihai Eminescu költőről nevezték el.", "A román nyelvű színházművészet vezető színpada Moldovában.", "A Ștefan cel Mare sugárúton található.", "A második világháború után épült újjá.", "Központi szerepet játszik a főváros kulturális életében."],
           ro: ["Trupa de teatru a fost fondată în 1921.", "Clădirea actuală a fost finalizată în 1954.", "Arhitectură în stilul neoclasicismului sovietic.", "Numit după poetul Mihai Eminescu.", "Scena principală pentru teatrul în limba română din Moldova.", "Situat pe bulevardul Ștefan cel Mare.", "Reconstruit după al Doilea Război Mondial.", "Joacă un rol central în viața culturală a capitalei."],
           en: ["The theatre troupe was founded in 1921.", "The current building was completed in 1954.", "Soviet Neoclassical architectural style.", "Named after the poet Mihai Eminescu.", "Leading stage for Romanian-language theatre in Moldova.", "Located on Ștefan cel Mare Boulevard.", "Rebuilt after World War II.", "Plays a central role in the capital's cultural life."]
-    }
-  },
+    }, image: "/poi-images/moldova-mihai-eminescu-theatre-landmarks-v2.webp"},
   {
     id: "moldova-balti-cathedral-landmarks-v2",
     parent: "MD",

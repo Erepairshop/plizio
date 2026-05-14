@@ -31,8 +31,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-adolphe-bridge-landmarks-v2.webp"},
   {
     id: "luxembourg-passerelle-viaduct-landmarks-v2",
     parent: "LU",
@@ -63,8 +62,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-passerelle-viaduct-landmarks-v2.webp"},
   {
     id: "luxembourg-philharmonie-landmarks-v2",
     parent: "LU",
@@ -95,8 +93,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-philharmonie-landmarks-v2.webp"},
   {
     id: "luxembourg-mudam-museum-landmarks-v2",
     parent: "LU",
@@ -127,8 +124,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mudam-museum-landmarks-v2.webp"},
   {
     id: "luxembourg-mnha-museum-landmarks-v2",
     parent: "LU",
@@ -159,8 +155,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mnha-museum-landmarks-v2.webp"},
   {
     id: "luxembourg-old-ansembourg-castle-landmarks-v2",
     parent: "LU",
@@ -191,8 +186,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-old-ansembourg-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-meysembourg-castle-landmarks-v2",
     parent: "LU",
@@ -223,8 +217,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-meysembourg-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-septfontaines-castle-landmarks-v2",
     parent: "LU",
@@ -287,8 +280,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mersch-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-bettembourg-castle-landmarks-v2",
     parent: "LU",
@@ -319,8 +311,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-bettembourg-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-sanem-castle-landmarks-v2",
     parent: "LU",
@@ -351,8 +342,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-sanem-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-berg-castle-landmarks-v2",
     parent: "LU",
@@ -383,8 +373,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-berg-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-belval-blast-furnaces-landmarks-v2",
     parent: "LU",
@@ -416,8 +405,7 @@ export const luxembourgLandmarksV2: POI[] = [
       ro: [],
       en: [],
 //       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-belval-blast-furnaces-landmarks-v2.webp"},
   {
     id: "luxembourg-rumelange-mining-museum-landmarks-v2",
     parent: "LU",
@@ -448,8 +436,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-rumelange-mining-museum-landmarks-v2.webp"},
   {
     id: "luxembourg-slate-museum-martelange-landmarks-v2",
     parent: "LU",
@@ -480,8 +467,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-slate-museum-martelange-landmarks-v2.webp"},
   {
     id: "luxembourg-st-michaels-church-landmarks-v2",
     parent: "LU",
@@ -512,8 +498,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-st-michaels-church-landmarks-v2.webp"},
   {
     id: "luxembourg-luxembourg-city-hall-landmarks-v2",
     parent: "LU",
@@ -544,8 +529,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-luxembourg-city-hall-landmarks-v2.webp"},
   {
     id: "luxembourg-place-guillaume-ii-landmarks-v2",
     parent: "LU",
@@ -576,8 +560,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-place-guillaume-ii-landmarks-v2.webp"},
   {
     id: "luxembourg-cercle-cite-landmarks-v2",
     parent: "LU",
@@ -608,8 +591,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-cercle-cite-landmarks-v2.webp"},
   {
     id: "luxembourg-solidarity-monument-landmarks-v2",
     parent: "LU",
@@ -640,8 +622,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-solidarity-monument-landmarks-v2.webp"},
   {
     id: "luxembourg-three-towers-landmarks-v2",
     parent: "LU",
@@ -672,8 +653,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-three-towers-landmarks-v2.webp"},
   {
     id: "luxembourg-malakoff-tower-landmarks-v2",
     parent: "LU",
@@ -704,8 +684,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-malakoff-tower-landmarks-v2.webp"},
   {
     id: "luxembourg-spanish-towers-landmarks-v2",
     parent: "LU",
@@ -736,8 +715,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-spanish-towers-landmarks-v2.webp"},
   {
     id: "luxembourg-villa-vauban-museum-landmarks-v2",
     parent: "LU",
@@ -768,8 +746,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-villa-vauban-museum-landmarks-v2.webp"},
   {
     id: "luxembourg-casino-luxembourg-landmarks-v2",
     parent: "LU",
@@ -800,8 +777,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-casino-luxembourg-landmarks-v2.webp"},
   {
     id: "luxembourg-grand-theatre-landmarks-v2",
     parent: "LU",
@@ -832,8 +808,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-grand-theatre-landmarks-v2.webp"},
   {
     id: "luxembourg-aspelt-castle-landmarks-v2",
     parent: "LU",
@@ -864,8 +839,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-aspelt-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-erpeldange-castle-landmarks-v2",
     parent: "LU",
@@ -896,8 +870,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-erpeldange-castle-landmarks-v2.webp"},
   {
     id: "luxembourg-mersch-tower-landmarks-v2",
     parent: "LU",
@@ -928,8 +901,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-mersch-tower-landmarks-v2.webp"},
   {
     id: "luxembourg-national-solidarity-altar-landmarks-v2",
     parent: "LU",
@@ -960,8 +932,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-national-solidarity-altar-landmarks-v2.webp"},
   {
     id: "luxembourg-petrusse-casemates-landmarks-v2",
     parent: "LU",
@@ -992,8 +963,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-petrusse-casemates-landmarks-v2.webp"},
   {
     id: "luxembourg-willibrord-basilica-landmarks-v2",
     parent: "LU",
@@ -1024,8 +994,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-willibrord-basilica-landmarks-v2.webp"},
   {
     id: "luxembourg-grand-ducal-museum-history-landmarks-v2",
     parent: "LU",
@@ -1088,8 +1057,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-vauban-circular-walk-landmarks-v2.webp"},
   {
     id: "luxembourg-european-court-justice-landmarks-v2",
     parent: "LU",
@@ -1120,8 +1088,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-european-court-justice-landmarks-v2.webp"},
   {
     id: "luxembourg-schuman-building-landmarks-v2",
     parent: "LU",
@@ -1152,8 +1119,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-schuman-building-landmarks-v2.webp"},
   {
     id: "luxembourg-grand-duc-monument-landmarks-v2",
     parent: "LU",
@@ -1184,8 +1150,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luxembourg-grand-duc-monument-landmarks-v2.webp"},
   {
     id: "luxembourg-saint-nicholas-church-vianden-landmarks-v2",
     parent: "LU",
