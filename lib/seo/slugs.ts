@@ -17,7 +17,11 @@ function isDefinedPoi(poi: POI | null | undefined): poi is POI {
 // Plus: all other countries via ALL_COUNTRY_POIS aggregate.
 // De-duplicate by id (RO/HU/Vatican already in the aggregate list too, keep first occurrence).
 const _poiById = new Map<string, POI>();
-for (const p of [...dePois, ...ALL_DE_EXTRA_POIS, ...romaniaAllPois, ...hungaryAllPoi, vaticanCountry, ...vaticanPois, ...ALL_COUNTRY_POIS]) {
+// Build via concat — spread of 50K+ items hits V8 stack limit.
+const _allSources: POI[] = ([] as POI[]).concat(
+  dePois, ALL_DE_EXTRA_POIS, romaniaAllPois, hungaryAllPoi, [vaticanCountry], vaticanPois, ALL_COUNTRY_POIS,
+);
+for (const p of _allSources) {
   if (p && p.id && !_poiById.has(p.id)) _poiById.set(p.id, p);
 }
 // GPS-alapú dedup: ha 2 POI ugyanazon koordinátán (~50m radius), keep az
@@ -54,7 +58,7 @@ for (const p of _poiById.values()) {
     _seenCoords.set(key, p);
   }
 }
-export const pois: POI[] = [..._passthrough, ...Array.from(_seenCoords.values())];
+export const pois: POI[] = _passthrough.concat(Array.from(_seenCoords.values()));
 
 // Lightweight POI shape for client-side bundles (maps, globes, interactive views).
 // Excludes the heavy text fields (`description`, `facts`, `descriptionAdvanced`,
