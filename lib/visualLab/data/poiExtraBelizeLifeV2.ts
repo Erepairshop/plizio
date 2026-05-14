@@ -903,5 +903,101 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       en: []
     }
   }
+,
+  {
+    id: "belize-cockscomb-basin-sanctuary-life-v2",
+    type: "wildlife",
+    name: { de: "Cockscomb Basin Schutzgebiet", hu: "Cockscomb-medence Természetvédelmi Terület", ro: "Rezervația Naturală Cockscomb Basin", en: "Cockscomb Basin Wildlife Sanctuary" },
+    coordinates: { lat: 16.7833, lng: -88.5 },
+    description: {
+      de: "Das 1986 gegründete Schutzgebiet ist das weltweit erste offizielle Reservat für Jaguare. Es schützt über 400 Quadratkilometer tropischen Regenwald im Stann Creek Distrikt.",
+      hu: "Az 1986-ban alapított terület a világ első hivatalos jaguárrezervátuma. Több mint 400 négyzetkilométernyi trópusi esőerdőt véd a Stann Creek körzetben.",
+      ro: "Înființată în 1986, aceasta este prima rezervație oficială pentru jaguari din lume. Protejează peste 400 de kilometri pătrați de pădure tropicală în districtul Stann Creek.",
+      en: "Established in 1986, this is the world's first official jaguar reserve. It protects over 400 square kilometers of tropical rainforest in the Stann Creek district.",
+    },
+    facts: {
+      de: ["Weltweit erstes Jaguarschutzgebiet", "Gegründet im Jahr 1986", "Fläche ca. 400 km²", "Heimat des Victoria Peak"],
+      hu: ["A világ első jaguárrezervátuma", "1986-ban alapítva", "Területe kb. 400 km²", "Itt található a Victoria-csúcs"],
+      ro: ["Prima rezervație de jaguari din lume", "Înființată în 1986", "Suprafață de aprox. 400 km²", "Găzduiește vârful Victoria Peak"],
+      en: ["World's first jaguar reserve", "Established in 1986", "Area approx 400 km²", "Home to Victoria Peak"],
+    },
+    imageHint: "jaguar in cockscomb basin jungle",
+  },
+  {
+    id: "belize-half-moon-caye-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Half Moon Caye Naturschutzgebiet", hu: "Half Moon Caye Természetvédelmi Terület", ro: "Rezervația Naturală Half Moon Caye", en: "Half Moon Caye Natural Monument" },
+    coordinates: { lat: 17.2, lng: -87.53 },
+    description: {
+      de: "Dieses Naturschutzgebiet wurde 1982 gegründet und ist der Nistplatz der seltenen Rotfußtölpel. Es umfasst sowohl den landgestützten Lebensraum als auch die umliegenden Korallenriffe.",
+      hu: "Az 1982-ben alapított terület a ritka vöröslábú szula költőhelye. A védett zóna magában foglalja a szigetet és a környező korallzátonyokat.",
+      ro: "Înființată în 1982, această rezervație este locul de cuibărit al rarei păsări picior-roșu. Zona protejată include insula și recifele de corali din jur.",
+      en: "Established in 1982, this reserve is the nesting site of the rare red-footed booby. The protected area includes the land and surrounding coral reefs.",
+    },
+    facts: {
+      de: ["Erstes Naturschutzgebiet in Belize", "Wichtiger Nistplatz für Seevögel", "Schützt gefährdete Rotfußtölpel", "Teil des Weltnaturerbes"],
+      hu: ["Belize első természetvédelmi területe", "Fontos tengeri madár költőhely", "Védett vöröslábú szula állomány", "Világörökségi helyszín része"],
+      ro: ["Prima rezervație naturală din Belize", "Loc important de cuibărit pentru păsări", "Protejează specia picior-roșu", "Parte a Patrimoniului Mondial"],
+      en: ["Belize's first nature reserve", "Key seabird nesting site", "Protects red-footed booby population", "Part of World Heritage Site"],
+    },
+    imageHint: "red-footed booby on half moon caye",
+  },
+  {
+    id: "belize-mayflower-bocawina-park-life-v2",
+    type: "park",
+    name: { de: "Mayflower Bocawina Nationalpark", hu: "Mayflower Bocawina Nemzeti Park", ro: "Parcul Național Mayflower Bocawina", en: "Mayflower Bocawina National Park" },
+    coordinates: { lat: 16.83, lng: -88.45 },
+    description: {
+      de: "Der 2001 eingerichtete Park umfasst 29 Quadratkilometer tropischen Regenwald und mehrere Wasserfälle. Das Gebiet beherbergt archäologische Ruinen der Maya und diverse Wildtiere.",
+      hu: "A 2001-ben létrehozott park 29 négyzetkilométernyi trópusi esőerdőt és több vízesést foglal magában. A terület maja romokat és változatos állatvilágot rejt.",
+      ro: "Înființat în 2001, parcul acoperă 29 de kilometri pătrați de pădure tropicală și mai multe cascade. Zona găzduiește ruine mayașe și o faună diversă.",
+      en: "Established in 2001, the park covers 29 square kilometers of tropical rainforest and several waterfalls. The area features Mayan archaeological ruins and diverse wildlife.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 2001", "Fläche von 29 km²", "Bekannt für seine Wasserfälle", "Maya-Ruinen im Parkgebiet"],
+      hu: ["2001-ben alapítva", "29 km²-es terület", "Vízeséseiről ismert", "Maja romok a park területén"],
+      ro: ["Înființat în 2001", "Suprafață de 29 km²", "Cunoscut pentru cascadele sale", "Ruine mayașe în parc"],
+      en: ["Established in 2001", "Area of 29 km²", "Known for its waterfalls", "Maya ruins within the park"],
+    },
+    imageHint: "bocawina falls belize",
+  },
+  {
+    id: "belize-peccary-hills-reserve-life-v2",
+    type: "wildlife",
+    name: { de: "Peccary Hills Naturschutzgebiet", hu: "Peccary Hills Természetvédelmi Terület", ro: "Rezervația Peccary Hills", en: "Peccary Hills Reserve" },
+    coordinates: { lat: 17.38, lng: -88.35 },
+    description: {
+      de: "Dieses Reservat schützt ein wichtiges Feuchtgebiet und bewaldete Hügel nahe der Küste. Es bietet Lebensraum für Tapire, Pekaris und zahlreiche Vogelarten.",
+      hu: "Ez a rezervátum egy fontos vizes élőhelyet és erdős dombokat véd a tengerpart közelében. Tapírok, pekarik és számos madárfaj élőhelye.",
+      ro: "Această rezervație protejează o zonă umedă importantă și dealuri împădurite în apropierea coastei. Găzduiește tapiri, pecari și numeroase specii de păsări.",
+      en: "This reserve protects an important wetland and forested hills near the coast. It provides habitat for tapirs, peccaries, and numerous bird species.",
+    },
+    facts: {
+      de: ["Küstennahes Naturschutzgebiet", "Lebensraum für Tapire", "Feuchtgebietsökosystem", "Wichtiger Korridor für Wildtiere"],
+      hu: ["Tengerparti természetvédelmi terület", "Tapírok élőhelye", "Vizes élőhely ökoszisztéma", "Fontos állatvándorlási folyosó"],
+      ro: ["Rezervație naturală de coastă", "Habitat pentru tapiri", "Ecosistem de zonă umedă", "Coridor important pentru faună"],
+      en: ["Coastal nature reserve", "Habitat for tapirs", "Wetland ecosystem", "Important wildlife corridor"],
+    },
+    imageHint: "white-lipped peccary in forest",
+  },
+  {
+    id: "belize-private-forest-conservation-life-v2",
+    type: "forest",
+    name: { de: "Privater Waldschutz Rio Bravo", hu: "Rio Bravo Magánerdő-védelmi Terület", ro: "Rezervația Forestieră Privată Rio Bravo", en: "Rio Bravo Private Forest Conservation Area" },
+    coordinates: { lat: 17.88, lng: -88.95 },
+    description: {
+      de: "Das Gebiet ist eines der größten privaten Naturschutzprojekte in Belize. Es bewahrt einen bedeutenden Teil des tropischen Tieflandwaldes vor Abholzung.",
+      hu: "A terület Belize egyik legnagyobb magán természetvédelmi projektje. Jelentős trópusi alföldi esőerdőt véd a fakitermeléstől.",
+      ro: "Această zonă este unul dintre cele mai mari proiecte private de conservare din Belize. Protejează o parte semnificativă din pădurea tropicală de câmpie împotriva defrișărilor.",
+      en: "This area is one of the largest private conservation projects in Belize. It preserves a significant portion of tropical lowland forest from deforestation.",
+    },
+    facts: {
+      de: ["Größtes privates Schutzgebiet des Landes", "Schützt tropische Tieflandwälder", "Umfasst tausende Hektar Wald", "Zusammenarbeit mit lokalen NGOs"],
+      hu: ["Az ország legnagyobb magánrezervátuma", "Védi a trópusi alföldi erdőket", "Többezer hektárnyi erdő", "Együttműködés helyi civil szervezetekkel"],
+      ro: ["Cea mai mare rezervație privată din țară", "Protejează pădurile tropicale de câmpie", "Acoperă mii de hectare de pădure", "Colaborare cu ONG-uri locale"],
+      en: ["Largest private reserve in the country", "Protects tropical lowland forests", "Covers thousands of hectares", "Partnership with local NGOs"],
+    },
+    imageHint: "rio bravo forest canopy",
+  }
 ];
 

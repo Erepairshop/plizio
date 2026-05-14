@@ -541,4 +541,43 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       en: ["The park was declared a national park in 1995.", "Area covers 234 km².", "Reservoir capacity is 60 million m³.", "Elephant population estimated at 200–300 individuals.", "Over 120 bird species recorded.", "Elevation ranges from 100 to 400 m."],
     },
   }
+,
+  {
+    id: "srilanka-st-clairs-falls-nature-v2",
+    type: "landmark",
+    name: { de: "St. Clair's Falls", hu: "St. Clair-vízesés", ro: "Cascada St. Clair", en: "St. Clair's Falls" },
+    coordinates: { lat: 6.9405, lng: 80.6322 },
+    description: {
+      de: "Die St. Clair's Falls sind ein breiter Wasserfall im Distrikt Nuwara Eliya. Er besteht aus zwei Stufen und ist von Teekulturen umgeben.",
+      hu: "A St. Clair-vízesés egy széles vízesés Nuwara Eliya körzetében. Két lépcsőből áll, és kiterjedt teakertek veszik körül a hegyvidéken.",
+      ro: "Cascada St. Clair este o cascadă lată situată în districtul Nuwara Eliya. Aceasta are două trepte și este înconjurată de plantații de ceai.",
+      en: "St. Clair's Falls is a wide waterfall located in the Nuwara Eliya District. It has two tiers and is surrounded by extensive tea plantations.",
+    },
+    facts: {
+      de: ["Breite von etwa 50 Metern", "Gesamthöhe von 80 Metern", "Gespeist durch den Fluss Kotmale Oya", "Bekannt als das kleine Niagara Sri Lankas"],
+      hu: ["Körülbelül 50 méter széles", "Teljes magassága 80 méter", "A Kotmale Oya folyó táplálja", "Sri Lanka Kis-Niagarájaként ismert"],
+      ro: ["Lățime de aproximativ 50 de metri", "Înălțime totală de 80 de metri", "Alimentată de râul Kotmale Oya", "Cunoscută ca Mica Niagara din Sri Lanka"],
+      en: ["Width of approximately 50 meters", "Total height of 80 meters", "Fed by the Kotmale Oya river", "Known as the Little Niagara of Sri Lanka"],
+    },
+    imageHint: "St. Clair's Falls with tea plantations",
+  },
+  {
+    id: "srilanka-delft-island-nature-v2",
+    type: "wildlife",
+    name: { de: "Delft Island", hu: "Delft-sziget", ro: "Insula Delft", en: "Delft Island" },
+    coordinates: { lat: 9.518, lng: 79.693 },
+    description: {
+      de: "Delft Island ist eine Koralleninsel in der Palkstraße nördlich von Sri Lanka. Sie ist bekannt für ihre wilden Ponys und Korallensteinmauern.",
+      hu: "Delft-sziget egy korallsziget a Palk-szorosban, Sri Lanka északi részén. Vadon élő pónijairól és korallkőből emelt kerítéseiről nevezetes.",
+      ro: "Insula Delft este o insulă de corali din strâmtoarea Palk, în nordul Sri Lankăi. Este cunoscută pentru poneii sălbatici și zidurile de corali.",
+      en: "Delft Island is a coral island in the Palk Strait, north of Sri Lanka. It is famous for its wild ponies and walls made of coral limestone.",
+    },
+    facts: {
+      de: ["Fläche von 45 Quadratkilometern", "Lokaler Name ist Neduntheevu", "Wilde Ponys von Portugiesen eingeführt", "Mauern aus aufgeschichteten Korallenstücken"],
+      hu: ["Területe 45 négyzetkilométer", "Helyi neve Neduntheevu", "A pónikat a portugálok telepítették be", "Korallmészkőből rakott szárazfalak"],
+      ro: ["Suprafață de 45 de kilometri pătrați", "Numele local este Neduntheevu", "Ponei sălbatici introduși de portughezi", "Ziduri construite din bucăți de corali"],
+      en: ["Area of 45 square kilometers", "Local name is Neduntheevu", "Wild ponies introduced by the Portuguese", "Walls constructed from coral limestone"],
+    },
+    imageHint: "Wild ponies on Delft Island Sri Lanka",
+  }
 ];

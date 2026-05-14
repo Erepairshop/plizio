@@ -733,5 +733,82 @@ export const poiExtraKenyaLifeV2: POI[] = [
     
     
   }
+,
+  {
+    id: "kenya-samburu-reserve-life-v2",
+    type: "wildlife",
+    name: { de: "Samburu Nationalreservat", hu: "Samburu Nemzeti Rezervátum", ro: "Rezervația Națională Samburu", en: "Samburu National Reserve" },
+    coordinates: { lat: 0.5731, lng: 37.585 },
+    description: {
+      de: "Dieses Reservat im Norden Kenias ist für seine einzigartigen Wildtierarten am Ewaso Ng'iro Fluss bekannt.",
+      hu: "Ez az észak-kenyai rezervátum az Ewaso Ng'iro folyó mentén élő különleges vadfajairól ismert.",
+      ro: "Această rezervație din nordul Kenyei este cunoscută pentru speciile sale unice de animale de-a lungul râului Ewaso Ng'iro.",
+      en: "This reserve in northern Kenya is known for its unique wildlife species along the Ewaso Ng'iro River.",
+    },
+    facts: {
+      de: ["Beherbergt die 'Special Five' Arten", "Liegt auf einer Höhe von 800 bis 1230 Metern", "Umfasst eine Fläche von etwa 165 Quadratkilometern", "Der Ewaso Ng'iro Fluss ist die Hauptwasserquelle"],
+      hu: ["Otthont ad a 'Különleges Ötös' vadfajnak", "800 és 1230 méter közötti tengerszint feletti magasságban fekszik", "Területe körülbelül 165 négyzetkilométer", "Az Ewaso Ng'iro folyó a legfőbb vízforrása"],
+      ro: ["Găzduiește speciile din grupul 'Special Five'", "Situat la o altitudine între 800 și 1230 de metri", "Acoperă o suprafață de aproximativ 165 de kilometri pătrați", "Râul Ewaso Ng'iro este principala sursă de apă"],
+      en: ["Home to the 'Special Five' wildlife species", "Situated at an altitude of 800 to 1230 meters", "Covers an area of approximately 165 square kilometers", "The Ewaso Ng'iro River is the primary water source"],
+    },
+    imageHint: "Grevy's zebra and Reticulated giraffe in Samburu savannah",
+  },
+  {
+    id: "kenya-kakamega-forest-life-v2",
+    type: "forest",
+    name: { de: "Kakamega-Wald Nationalreservat", hu: "Kakamega-erdő Nemzeti Rezervátum", ro: "Rezervația Națională Pădurea Kakamega", en: "Kakamega Forest National Reserve" },
+    coordinates: { lat: 0.2852, lng: 34.8581 },
+    description: {
+      de: "Kenyas einziges verbliebenes tropisches Regenwaldgebiet beherbergt eine enorme Vielfalt an westafrikanischen Pflanzen und Tieren.",
+      hu: "Kenya egyetlen megmaradt trópusi esőerdője nyugat-afrikai növény- és állatfajok hatalmas választékának ad otthont.",
+      ro: "Singura zonă de pădure tropicală rămasă în Kenya găzduiește o varietate imensă de plante și animale vest-africane.",
+      en: "Kenya's only remaining tropical rainforest area hosts a vast variety of West African plant and animal species.",
+    },
+    facts: {
+      de: ["Letzter Rest des alten guineo-kongolesischen Regenwaldes", "Beherbergt über 400 Vogelarten", "Einige Feigenbäume sind über 700 Jahre alt", "Jahresniederschlag liegt bei etwa 2000 Millimetern"],
+      hu: ["Az ősi guineai-kongói esőerdő utolsó maradványa", "Több mint 400 madárfaj él itt", "Némelyik fügefa kora meghaladja a 700 évet", "Az éves csapadékmennyiség körülbelül 2000 milliméter"],
+      ro: ["Ultima rămășiță a vechii păduri tropicale guineo-congoleze", "Adăpostește peste 400 de specii de păsări", "Unii smochini au o vechime de peste 700 de ani", "Precipitațiile anuale sunt de aproximativ 2000 de milimetri"],
+      en: ["Last remnant of the ancient Guineo-Congolian rainforest", "Home to over 400 species of birds", "Some fig trees are over 700 years old", "Annual rainfall is approximately 2000 millimeters"],
+    },
+    imageHint: "Dense tropical canopy of Kakamega Forest with sunlight filtering through",
+  },
+  {
+    id: "kenya-sibiloi-park-life-v2",
+    type: "park",
+    name: { de: "Sibiloi Nationalpark", hu: "Sibiloi Nemzeti Park", ro: "Parcul Național Sibiloi", en: "Sibiloi National Park" },
+    coordinates: { lat: 3.9314, lng: 36.2552 },
+    description: {
+      de: "Dieser Park am Ostufer des Turkana-Sees schützt wichtige Fossilienfundstätten und Wüstenwildtiere.",
+      hu: "A Turkana-tó keleti partján fekvő park fontos fosszília-lelőhelyeket és sivatagi élővilágot védelmez.",
+      ro: "Acest parc de pe malul estic al lacului Turkana protejează situri fosile importante și fauna de deșert.",
+      en: "This park on the eastern shore of Lake Turkana protects important fossil sites and desert wildlife.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1973 zum Schutz von Fossilien", "Teil der UNESCO-Welterbestätte Turkana-See-Parks", "Wichtiger Brutplatz für das Nilkrokodil", "Umfasst eine Fläche von 1570 Quadratkilometern"],
+      hu: ["1973-ban alapították a fosszíliák védelmére", "Az UNESCO Világörökség részét képező Turkana-tó Nemzeti Parkok tagja", "A nílusi krokodil fontos szaporodóhelye", "Területe 1570 négyzetkilométer"],
+      ro: ["Fondat în 1973 pentru protejarea fosilelor", "Parte din situl UNESCO Parcurile Naționale de la Lacul Turkana", "Loc important de reproducere pentru crocodilul de Nil", "Acoperă o suprafață de 1570 de kilometri pătrați"],
+      en: ["Established in 1973 to protect fossil remains", "Part of the UNESCO World Heritage Lake Turkana National Parks", "Important breeding ground for the Nile crocodile", "Covers an area of 1570 square kilometers"],
+    },
+    imageHint: "Arid landscape of Sibiloi National Park near Lake Turkana",
+  },
+  {
+    id: "kenya-watamu-marine-life-v2",
+    type: "wildlife",
+    name: { de: "Watamu Meeresnationalpark", hu: "Watamu Tengeri Nemzeti Park", ro: "Parcul Național Marin Watamu", en: "Watamu Marine National Park" },
+    coordinates: { lat: -3.3661, lng: 40.0163 },
+    description: {
+      de: "Dieser Küstenpark schützt Korallenriffe und ist ein wichtiger Nistplatz für bedrohte Meeresschildkröten.",
+      hu: "Ez a partmenti park korallzátonyokat védelmez, és a veszélyeztetett tengeri teknősök fontos fészkelőhelye.",
+      ro: "Acest parc de coastă protejează recifele de corali și este un loc important de cuibărit pentru țestoasele marine.",
+      en: "This coastal park protects coral reefs and is a significant nesting site for endangered sea turtles.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1968 als einer der ersten Meeresparks", "Beherbergt über 600 Fischarten in den Korallengärten", "Wichtiger Schutzraum für Grüne Meeresschildkröten", "Teil des Malindi-Watamu UNESCO Biosphärenreservats"],
+      hu: ["1968-ban alapították, az egyik első tengeri parkként", "Több mint 600 halfaj él a korallkertekben", "A közönséges levesteknős fontos menedékhelye", "A Malindi-Watamu UNESCO Bioszféra-rezervátum része"],
+      ro: ["Fondat în 1968, fiind unul dintre primele parcuri marine", "Adăpostește peste 600 de specii de pești în grădinile de corali", "Refugiu important pentru țestoasele verzi", "Parte din Rezervația Biosferei UNESCO Malindi-Watamu"],
+      en: ["Established in 1968 as one of Kenya's first marine parks", "Home to over 600 species of fish in coral gardens", "Major sanctuary for Green sea turtles", "Part of the Malindi-Watamu UNESCO Biosphere Reserve"],
+    },
+    imageHint: "Coral reef with tropical fish and sea turtle underwater in Watamu",
+  }
 ];
 

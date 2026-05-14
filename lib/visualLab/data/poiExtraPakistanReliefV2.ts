@@ -1121,4 +1121,138 @@ export const poiExtraPakistanReliefV2: POI[] = [
       en: ["Spantik was originally named 'Pyramid Peak' by Fanny Bullock Workman after her governess.", "The 'Golden Pillar' route is one of the most climbed routes on a 7000m peak in Pakistan.", "The mountain is located between the Nagar Valley and the Hispar Glacier.", "The normal route requires establishing three high camps.", "The first ascenders were Karl Kramer and five other members of his team.", "The success rate on Spantik is relatively high.", "The trek to base camp passes through the scenic Arandu valley."]
     }
   }
+,
+  {
+    id: "pakistan-salt-range-relief-v2",
+    type: "mountain",
+    name: { de: "Salzgebirge", hu: "Sós-hegység", ro: "Munții Sării", en: "Salt Range" },
+    coordinates: { lat: 32.5333, lng: 72.4667 },
+    description: {
+      de: "Dieses Mittelgebirge in Punjab ist weltberühmt für seine riesigen Steinsalzvorkommen. Es erstreckt sich zwischen den Flüssen Jhelum und Indus.",
+      hu: "Ez a Pandzsábban található középhegység hatalmas kősótelepeiről világhírű. A Dzsehelam és az Indus folyók között húzódik.",
+      ro: "Acest lanț muntos din Punjab este faimos la nivel mondial pentru zăcămintele sale de sare. Se întinde între râurile Jhelum și Indus.",
+      en: "This hill system in Punjab is world-famous for its massive rock salt deposits. It extends between the Jhelum and Indus rivers.",
+    },
+    facts: {
+      de: ["Beherbergt die zweitgrößte Salzmine der Welt", "Höchster Punkt ist der Sakesar mit 1522 Metern", "Reich an Fossilien aus der Perm-Zeit", "Geologisch durch die Kollision Indiens mit Eurasien entstanden"],
+      hu: ["Itt található a világ második legnagyobb sóbányája", "Legmagasabb pontja a Sakesar, 1522 méterrel", "Gazdag a permi időszakból származó kövületekben", "Geológiailag India és Eurázsia ütközése hozta létre"],
+      ro: ["Găzduiește a doua cea mai mare mină de sare din lume", "Cel mai înalt punct este Sakesar, la 1522 de metri", "Bogat în fosile din perioada Permiană", "Format geologic prin coliziunea Indiei cu Eurasia"],
+      en: ["Home to the world's second largest salt mine", "Highest point is Sakesar at 1,522 meters", "Rich in fossils from the Permian period", "Formed geologically by the collision of India and Eurasia"],
+    },
+    imageHint: "Salt Range Punjab mountains landscape",
+  },
+  {
+    id: "pakistan-hindu-kush-range-relief-v2",
+    type: "mountain",
+    name: { de: "Hindukusch-Gebirge", hu: "Hindukus-hegység", ro: "Munții Hindu Kush", en: "Hindu Kush Range" },
+    coordinates: { lat: 36.2, lng: 71.3 },
+    description: {
+      de: "Dieses bedeutende Gebirgssystem bildet die westliche Fortsetzung des Himalayas und trennt das Industal von Zentralasien.",
+      hu: "Ez a jelentős hegységrendszer a Himalája nyugati folytatását alkotja, és elválasztja az Indus-völgyet Közép-Ázsiától.",
+      ro: "Acest sistem muntos major formează continuarea vestică a Himalayei și separă valea Indului de Asia Centrală.",
+      en: "This major mountain system forms the western continuation of the Himalayas and separates the Indus Valley from Central Asia.",
+    },
+    facts: {
+      de: ["Gesamtlänge von etwa 800 Kilometern", "Höchster Gipfel ist der Tirich Mir mit 7708 Metern", "Bildet die Wasserscheide zwischen Indus und Amu Darja", "Bekannt für seine geologische Komplexität und Erdbebenanfälligkeit"],
+      hu: ["Teljes hossza körülbelül 800 kilométer", "Legmagasabb csúcsa a Tirich Mir, 7708 méterrel", "Vízválasztót képez az Indus és az Amu-darja között", "Geológiai összetettségéről és földrengésveszélyességéről ismert"],
+      ro: ["Lungime totală de aproximativ 800 de kilometri", "Cel mai înalt vârf este Tirich Mir, la 7708 metri", "Formează cumpăna apelor între Ind și Amu Daria", "Cunoscut pentru complexitatea sa geologică și activitatea seismică"],
+      en: ["Total length of approximately 800 kilometers", "Highest peak is Tirich Mir at 7,708 meters", "Forms the watershed between the Indus and Amu Darya rivers", "Known for its geological complexity and susceptibility to earthquakes"],
+    },
+    imageHint: "Hindu Kush mountains snow peaks",
+  },
+  {
+    id: "pakistan-suleiman-mountains-relief-v2",
+    type: "mountain",
+    name: { de: "Suleiman-Gebirge", hu: "Szulejmán-hegység", ro: "Munții Suleiman", en: "Suleiman Mountains" },
+    coordinates: { lat: 30.1, lng: 69.8 },
+    description: {
+      de: "Dieses Gebirge bildet den östlichen Rand des iranischen Hochlands und erstreckt sich entlang der Grenze zwischen Belutschistan und Punjab.",
+      hu: "Ez a hegység az Iráni-fennsík keleti peremét alkotja, és Beludzsisztán és Pandzsáb határa mentén húzódik.",
+      ro: "Acești munți formează marginea estică a platoului iranian și se întind de-a lungul graniței dintre Baluchistan și Punjab.",
+      en: "This mountain range forms the eastern edge of the Iranian Plateau and extends along the border between Balochistan and Punjab.",
+    },
+    facts: {
+      de: ["Höchster Punkt ist der Takht-e-Sulaiman mit 3487 Metern", "Besteht hauptsächlich aus Kalkstein und Sedimentgestein", "Wichtige Barriere für feuchte Winde aus dem Indischen Ozean", "Reich an Fossilien und archäologischen Stätten"],
+      hu: ["Legmagasabb pontja a Takht-e-Sulaiman, 3487 méterrel", "Főként mészkőből és üledékes kőzetekből áll", "Fontos akadály az Indiai-óceán felől érkező nedves szelek számára", "Gazdag kövületekben és régészeti lelőhelyekben"],
+      ro: ["Cel mai înalt punct este Takht-e-Sulaiman, la 3487 de metri", "Compus în principal din calcar și roci sedimentare", "Barieră importantă pentru vânturile umede din Oceanul Indian", "Bogat în fosile și situri arheologice"],
+      en: ["Highest point is Takht-e-Sulaiman at 3,487 meters", "Composed mainly of limestone and sedimentary rocks", "Major barrier for moist winds from the Indian Ocean", "Rich in fossils and archaeological sites"],
+    },
+    imageHint: "Suleiman Mountains rocky landscape Pakistan",
+  },
+  {
+    id: "pakistan-kirthar-range-relief-v2",
+    type: "mountain",
+    name: { de: "Kirthar-Gebirge", hu: "Kirthar-hegység", ro: "Munții Kirthar", en: "Kirthar Range" },
+    coordinates: { lat: 26.15, lng: 67.45 },
+    description: {
+      de: "Diese Gebirgskette im Süden Pakistans bildet die Grenze zwischen den Provinzen Sindh und Belutschistan.",
+      hu: "Ez a dél-pakisztáni hegylánc alkotja a határt Szindh és Beludzsisztán tartományok között.",
+      ro: "Acest lanț muntos din sudul Pakistanului formează granița dintre provinciile Sindh și Baluchistan.",
+      en: "This mountain range in southern Pakistan forms the boundary between the provinces of Sindh and Balochistan.",
+    },
+    facts: {
+      de: ["Erstreckt sich über etwa 300 Kilometer von Norden nach Süden", "Höchster Punkt ist die Gorakh Hill Station (1734 Meter)", "Besteht überwiegend aus Kalkstein und Sandstein", "Wird von den Flüssen Gaj und Hub durchquert"],
+      hu: ["Körülbelül 300 kilométer hosszan nyúlik el észak-déli irányban", "Legmagasabb pontja a Gorakh Hill Station (1734 méter)", "Túlnyomórészt mészkőből és homokkőből áll", "A Gaj és a Hub folyók szelik át"],
+      ro: ["Se întinde pe aproximativ 300 de kilometri de la nord la sud", "Cel mai înalt punct este stațiunea Gorakh Hill (1734 metri)", "Compus în principal din calcar și gresie", "Este traversat de râurile Gaj și Hub"],
+      en: ["Stretches for about 300 kilometers from north to south", "Highest point is Gorakh Hill Station at 1,734 meters", "Composed mostly of limestone and sandstone", "Crossed by the Gaj and Hub rivers"],
+    },
+    imageHint: "Kirthar Range mountains Sindh landscape",
+  },
+  {
+    id: "pakistan-passu-cones-relief-v2",
+    type: "peak",
+    name: { de: "Passu Cones", hu: "Passu-kúpok", ro: "Conurile Passu", en: "Passu Cones" },
+    coordinates: { lat: 36.4783, lng: 74.9042 },
+    description: {
+      de: "Diese markanten, kegelförmigen Gipfel im Hunzatal werden auch 'Cathedral Ridge' genannt. Sie sind eines der meistfotografierten Motive am Karakorum Highway.",
+      hu: "Ezek a jellegzetes, kúp alakú csúcsok a Hunza-völgyben 'Katedrális-gerinc' néven is ismertek. A Karakorum Highway egyik legtöbbet fotózott látnivalói.",
+      ro: "Aceste vârfuri distinctive în formă de con din Valea Hunza sunt cunoscute și sub numele de 'Creasta Catedralei'. Sunt printre cele mai fotografiate repere de pe Șoseaua Karakorum.",
+      en: "These distinctive, cone-shaped peaks in the Hunza Valley are also known as 'Cathedral Ridge'. They are one of the most photographed sights along the Karakoram Highway.",
+    },
+    facts: {
+      de: ["Befinden sich im Gojal-Tal in Hunza", "Gipfel erreichen eine Höhe von bis zu 6106 Metern (Passu Sar)", "Charakteristische gezackte Granitformationen", "Vom Dorf Passu aus am besten zu sehen"],
+      hu: ["A Hunza-völgyi Gojal körzetben találhatók", "A csúcsok elérik a 6106 méteres magasságot (Passu Sar)", "Jellegzetes, fűrészes gránitképződmények", "Passu faluból nyílik rájuk a legjobb kilátás"],
+      ro: ["Situate în Valea Gojal din Hunza", "Vârfurile ating o înălțime de până la 6106 metri (Passu Sar)", "Formațiuni caracteristice de granit zimțat", "Cele mai bune priveliști sunt din satul Passu"],
+      en: ["Located in the Gojal Valley of Hunza", "Peaks reach an altitude of up to 6,106 meters (Passu Sar)", "Characteristic jagged granite formations", "Best viewed from the village of Passu"],
+    },
+    imageHint: "Passu Cones Cathedral Ridge Hunza Valley",
+  },
+  {
+    id: "pakistan-trango-towers-relief-v2",
+    type: "peak",
+    name: { de: "Trango-Türme", hu: "Trango-tornyok", ro: "Turnurile Trango", en: "Trango Towers" },
+    coordinates: { lat: 35.7611, lng: 76.1917 },
+    description: {
+      de: "Diese Gruppe von gigantischen Granitpfeilern beherbergt die höchsten vertikalen Felswände der Erde. Sie liegen im Baltoro-Gebiet des Karakorums.",
+      hu: "Ez a gigantikus gránitpillérekből álló csoport a Föld legmagasabb függőleges sziklafalaival büszkélkedhet. A Karakorum Baltoro régiójában találhatók.",
+      ro: "Acest grup de piloni gigantici de granit găzduiește cei mai înalți pereți verticali de stâncă de pe Pământ. Se află în regiunea Baltoro din Karakorum.",
+      en: "This group of gigantic granite pillars boasts the highest vertical cliffs in the world. They are located in the Baltoro region of the Karakoram.",
+    },
+    facts: {
+      de: ["Höchster Punkt ist der Große Trango-Turm (6286 Meter)", "Beherbergen eine 1340 Meter hohe, fast senkrechte Wand", "Liegen nördlich des Baltoro-Gletschers", "Erste Besteigung des Großen Trango-Turms erfolgte 1976"],
+      hu: ["Legmagasabb pontja a Nagy Trango-torony (6286 méter)", "Egy 1340 méter magas, szinte függőleges falat foglalnak magukba", "A Baltoro-gleccsertől északra találhatók", "A Nagy Trango-torony első megmászása 1976-ban történt"],
+      ro: ["Cel mai înalt punct este Marele Turn Trango (6286 metri)", "Adăpostesc un perete aproape vertical de 1340 de metri înălțime", "Situate la nord de Ghețarul Baltoro", "Prima ascensiune a Marelui Turn Trango a avut loc în 1976"],
+      en: ["Highest point is Great Trango Tower at 6,286 meters", "Home to a 1,340-meter near-vertical rock face", "Located north of the Baltoro Glacier", "First ascent of Great Trango Tower was in 1976"],
+    },
+    imageHint: "Trango Towers granite spires Pakistan",
+  },
+  {
+    id: "pakistan-safed-koh-relief-v2",
+    type: "mountain",
+    name: { de: "Safed-Koh-Gebirge", hu: "Száfid-kuh-hegység", ro: "Munții Safed Koh", en: "Safed Koh Range" },
+    coordinates: { lat: 33.85, lng: 70.2833 },
+    description: {
+      de: "Dieses Gebirge, auch als 'Weiße Berge' bekannt, bildet die natürliche Grenze zwischen Pakistan und Afghanistan südlich des Flusses Kabul.",
+      hu: "Ez a 'Fehér-hegység' néven is ismert vonulat alkotja a természetes határt Pakisztán és Afganisztán között a Kabul-folyótól délre.",
+      ro: "Acest lanț muntos, cunoscut și sub numele de 'Munții Albi', formează granița naturală între Pakistan și Afganistan, la sud de râul Kabul.",
+      en: "This mountain range, also known as the 'White Mountains', forms the natural border between Pakistan and Afghanistan south of the Kabul River.",
+    },
+    facts: {
+      de: ["Höchster Gipfel ist der Mount Sikaram mit 4761 Metern", "Der Name bezieht sich auf die oft schneebedeckten Gipfel", "Beherbergt den strategisch wichtigen Khyber-Pass in der Nähe", "Bekannt für seine Kiefern- und Zedernwälder in tieferen Lagen"],
+      hu: ["Legmagasabb csúcsa a Sikaram-hegy, 4761 méterrel", "A név a gyakran hófödte csúcsokra utal", "A közelben található a stratégiailag fontos Hajbar-hágó", "Az alacsonyabb szinteken fenyő- és cédruserdőiről ismert"],
+      ro: ["Cel mai înalt vârf este Muntele Sikaram, la 4761 de metri", "Numele se referă la vârfurile adesea acoperite de zăpadă", "Găzduiește în apropiere pasul strategic important Khyber", "Cunoscut pentru pădurile de pini și cedri la altitudini mai joase"],
+      en: ["Highest peak is Mount Sikaram at 4,761 meters", "The name refers to the frequently snow-capped summits", "Hosts the strategically important Khyber Pass nearby", "Known for its pine and cedar forests at lower elevations"],
+    },
+    imageHint: "Safed Koh mountains border Pakistan Afghanistan",
+  }
 ];

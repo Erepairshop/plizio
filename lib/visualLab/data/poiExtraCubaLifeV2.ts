@@ -930,5 +930,25 @@ export const poiExtraCubaLifeV2: POI[] = [
       en: ["Relaxation", "Leisure", "A playground for children in Matanzas.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   }
+,
+  {
+    id: "cuba-parque-naturaleza-topes-life-v2",
+    type: "park",
+    name: { de: "Naturpark Topes de Collantes", hu: "Topes de Collantes Természetvédelmi Park", ro: "Parcul Natural Topes de Collantes", en: "Topes de Collantes Natural Park" },
+    coordinates: { lat: 21.895, lng: -79.99 },
+    description: {
+      de: "Dieser Naturpark liegt im Escambray-Gebirge und schützt eine vielfältige Bergflora sowie verschiedene Wasserfälle. Er umfasst mehrere Schutzgebiete mit endemischen Baumarten und zahlreichen Vogelarten.",
+      hu: "Ez a természeti park az Escambray-hegységben található, védelmezve a változatos hegyi növényvilágot és számos vízesést. Több védett területet foglal magában endemikus fafajokkal és gazdag madárvilággal.",
+      ro: "Acest parc natural este situat în munții Escambray și protejează o floră montană diversă, precum și numeroase cascade. Acesta include mai multe arii protejate cu specii de arbori endemici și păsări.",
+      en: "This natural park is located in the Escambray Mountains and protects diverse mountain flora and several waterfalls. It includes multiple protected areas with endemic tree species and numerous bird species.",
+    },
+    facts: {
+      de: ["Liegt auf über 800 Metern Höhe.", "Bekannt für den Salto del Caburní Wasserfall.", "Beherbergt seltene Orchideenarten.", "Teil des Escambray-Gebirgsmassivs."],
+      hu: ["Több mint 800 méteres tengerszint feletti magasság.", "Ismert a Salto del Caburní vízesésről.", "Ritka orchideafajok otthona.", "Az Escambray-hegység része."],
+      ro: ["Situat la o altitudine de peste 800 de metri.", "Cunoscut pentru cascada Salto del Caburní.", "Găzduiește specii rare de orhidee.", "Face parte din masivul muntos Escambray."],
+      en: ["Located at over 800 meters elevation.", "Known for the Salto del Caburní waterfall.", "Home to rare orchid species.", "Part of the Escambray mountain range."],
+    },
+    imageHint: "Topes de Collantes mountain landscape with waterfall",
+  }
 ];
 

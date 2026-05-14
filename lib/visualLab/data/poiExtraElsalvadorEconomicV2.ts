@@ -839,5 +839,25 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
       en: ["Part of a Ramsar-designated wetland of international importance.", "Hosts one of the most critical and successful sea turtle conservation programs in the country.", "The surrounding waters are a favorite destination for birdwatchers and kayaking enthusiasts.", "Local fishermen use specialized techniques adapted to the unique mangrove environment."]
     }
   }
+,
+  {
+    id: "elsalvador-ciudad-arce-industrial-economic-v2",
+    type: "industry",
+    name: { de: "Ciudad Arce Industriegebiet", hu: "Ciudad Arce ipari övezet", ro: "Zona industrială Ciudad Arce", en: "Ciudad Arce Industrial Zone" },
+    coordinates: { lat: 13.8045, lng: -89.4312 },
+    description: {
+      de: "Ciudad Arce ist ein bedeutendes Zentrum für die Leichtindustrie und Textilherstellung in El Salvador. Die Region beherbergt zahlreiche Produktionsstätten für den Export in den US-amerikanischen Markt.",
+      hu: "Ciudad Arce El Salvador egyik jelentős könnyűipari és textilgyártó központja. A térség számos termelőüzemnek ad otthont, amelyek az amerikai piacra exportálnak.",
+      ro: "Ciudad Arce este un centru important pentru industria ușoară și producția textilă din El Salvador. Regiunea găzduiește numeroase facilități de producție destinate exportului pe piața americană.",
+      en: "Ciudad Arce is a significant center for light industry and textile manufacturing in El Salvador. The region hosts numerous production facilities serving export markets, particularly the United States.",
+    },
+    facts: {
+      de: ["Gelegen im Departamento La Libertad.", "Wichtiger Standort für Freihandelszonen.", "Fokus auf Textilien und Verpackung.", "Strategische Nähe zur Autobahn CA-1."],
+      hu: ["La Libertad megyében található.", "Fontos szabadkereskedelmi övezet.", "Textil- és csomagolóipar jellemzi.", "Stratégiai közelség a CA-1 autópályához."],
+      ro: ["Situat în departamentul La Libertad.", "Locație importantă pentru zonele libere.", "Focus pe textile și ambalaje.", "Proximitate strategică față de autostrada CA-1."],
+      en: ["Located in the La Libertad department.", "Major site for free trade zones.", "Focuses on textiles and packaging.", "Strategically near the CA-1 highway."],
+    },
+    imageHint: "industrial warehouses and factories in El Salvador landscape",
+  }
 ];
 

@@ -653,5 +653,25 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: ["Long river valley with oases.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }
   }
+,
+  {
+    id: "morocco-jbel-sirwa-relief-v2",
+    type: "mountain",
+    name: { de: "Jbel Sirwa", hu: "Jbel Sirwa", ro: "Jbel Sirwa", en: "Jbel Sirwa" },
+    coordinates: { lat: 30.825, lng: -7.533 },
+    description: {
+      de: "Jbel Sirwa ist ein vulkanisches Massiv im Anti-Atlas-Gebirge in Marokko. Es erreicht eine Höhe von 3.305 Metern über dem Meeresspiegel.",
+      hu: "A Jbel Sirwa egy vulkanikus hegység az Anti-Atlasz hegységben, Marokkóban. A tengerszint feletti magassága eléri a 3305 métert.",
+      ro: "Jbel Sirwa este un masiv vulcanic situat în munții Anti-Atlas din Maroc. Acesta atinge o altitudine de 3.305 metri deasupra nivelului mării.",
+      en: "Jbel Sirwa is a volcanic massif located in the Anti-Atlas mountain range in Morocco. It reaches an elevation of 3,305 meters above sea level.",
+    },
+    facts: {
+      de: ["Vulkanischer Ursprung", "Höhe 3.305 Meter", "Teil des Anti-Atlas", "Wichtige Weideregion"],
+      hu: ["Vulkanikus eredetű", "Magasság 3305 méter", "Az Anti-Atlasz része", "Fontos legelőterület"],
+      ro: ["Origine vulcanică", "Altitudine 3.305 metri", "Parte a munților Anti-Atlas", "Regiune de pășunat importantă"],
+      en: ["Volcanic origin", "Elevation 3,305 meters", "Part of the Anti-Atlas", "Important grazing region"],
+    },
+    imageHint: "volcanic mountain peak Jbel Sirwa Morocco landscape",
+  }
 ];
 

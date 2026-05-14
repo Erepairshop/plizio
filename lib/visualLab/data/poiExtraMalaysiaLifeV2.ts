@@ -1334,5 +1334,120 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
       en: ["A large tropical fruit farm in Johor that offers visitors a chance to taste and learn about a variety of Malaysian fruits.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia."]
     }
   }
+,
+  {
+    id: "malaysia-tabin-wildlife-reserve-life-v2",
+    type: "wildlife",
+    name: { de: "Tabin-Wildtierschutzgebiet", hu: "Tabin Vadrezervátum", ro: "Rezervația de Faună Sălbatică Tabin", en: "Tabin Wildlife Reserve" },
+    coordinates: { lat: 5.1878, lng: 118.7389 },
+    description: {
+      de: "Tabin ist Malaysias größtes Schutzgebiet und umfasst 120.500 Hektar. Es ist berühmt für Schlammvulkane und seltene Nashorn-Sichtungen.",
+      hu: "Tabin Malajzia legnagyobb vadrezervátuma, területe 120 500 hektár. Iszapos vulkánjairól és ritka orrszarvú-észleléseiről híres.",
+      ro: "Tabin este cea mai mare rezervație de faună din Malaezia, având 120.500 hectare. Este faimoasă pentru vulcanii noroioși și rinoceri.",
+      en: "Tabin Wildlife Reserve is Malaysia's largest, covering 120,500 hectares. It is famous for mud volcanoes and rare rhinoceros sightings.",
+    },
+    facts: {
+      de: ["Größtes Wildtierschutzgebiet in Malaysia", "Gegründet im Jahr 1984 in Sabah", "Beherbergt aktive Schlammvulkane", "Wichtiger Lebensraum für Zwergelefanten"],
+      hu: ["Malajzia legnagyobb vadrezervátuma", "1984-ben alapították Sabah államban", "Aktív iszapvulkánok találhatók itt", "A törpeelefántok fontos élőhelye"],
+      ro: ["Cea mai mare rezervație naturală din Malaezia", "Înființată în 1984 în statul Sabah", "Adăpostește vulcani noroioși activi", "Habitat crucial pentru elefanții pigmei"],
+      en: ["Largest wildlife reserve in Malaysia", "Established in 1984 in Sabah state", "Home to active mud volcanoes", "Critical habitat for pygmy elephants"],
+    },
+    imageHint: "Active mud volcano surrounded by dense Borneo rainforest",
+  },
+  {
+    id: "malaysia-lambir-hills-national-park-life-v2",
+    type: "park",
+    name: { de: "Lambir-Hills-Nationalpark", hu: "Lambir Hills Nemzeti Park", ro: "Parcul Național Lambir Hills", en: "Lambir Hills National Park" },
+    coordinates: { lat: 4.1983, lng: 113.8406 },
+    description: {
+      de: "Dieser Park ist für eines der komplexesten Waldökosysteme der Welt bekannt. Er beherbergt über 1.000 verschiedene Baumarten.",
+      hu: "Ez a park a világ egyik legösszetettebb erdei ökoszisztémájáról ismert. Több mint 1000 különböző fafajnak ad otthont.",
+      ro: "Acest parc este cunoscut pentru unul dintre cele mai complexe ecosisteme din lume. Adăpostește peste 1.000 de specii de arbori.",
+      en: "Lambir Hills National Park is known for having one of the world's most complex forest ecosystems. It supports over 1,000 species of trees.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1975 in Sarawak", "Fläche von etwa 6.952 Hektar", "Höchster Punkt liegt auf 465 Metern", "Bekannt für zahlreiche Wasserfälle"],
+      hu: ["1975-ben alapították Sarawak államban", "Területe megközelítőleg 6952 hektár", "Legmagasabb pontja 465 méter", "Számos vízeséséről híres"],
+      ro: ["Înființat în 1975 în statul Sarawak", "Suprafață de aproximativ 6.952 hectare", "Cel mai înalt punct are 465 de metri", "Cunoscut pentru numeroasele cascade"],
+      en: ["Established in 1975 in Sarawak", "Total area of 6,952 hectares", "Highest point reaches 465 meters", "Famous for numerous jungle waterfalls"],
+    },
+    imageHint: "Latak Waterfall in Lambir Hills National Park",
+  },
+  {
+    id: "malaysia-paya-indah-wetlands-life-v2",
+    type: "park",
+    name: { de: "Paya Indah Feuchtgebiete", hu: "Paya Indah Vizes Élőhelyek", ro: "Zonele Umede Paya Indah", en: "Paya Indah Wetlands" },
+    coordinates: { lat: 2.8592, lng: 101.6214 },
+    description: {
+      de: "Paya Indah ist ein bedeutendes Naturreservat in Selangor für Vogelbeobachtungen. Es besteht aus 14 miteinander verbundenen Seen.",
+      hu: "A Paya Indah egy jelentős természetvédelmi terület Selangorban, amely madármegfigyelésre alkalmas. Tizennégy összekapcsolt tóból áll.",
+      ro: "Paya Indah este o rezervație naturală majoră din Selangor pentru observarea păsărilor. Cuprinde 14 lacuri interconectate.",
+      en: "Paya Indah Wetlands is a premier nature park in Selangor for birdwatching and wildlife spotting. It consists of 14 interconnected lakes.",
+    },
+    facts: {
+      de: ["Eröffnet im Jahr 1998 in Selangor", "Umfasst eine Fläche von 450 Hektar", "Heimat von Flusspferden und Krokodilen", "Wichtiger Rastplatz für Zugvögel"],
+      hu: ["1998-ban nyílt meg Selangor államban", "Területe 450 hektárt tesz ki", "Vízilovak és krokodilok otthona", "Vándormadarak fontos pihenőhelye"],
+      ro: ["Deschis în 1998 în statul Selangor", "Acoperă o suprafață de 450 hectare", "Adăpostește hipopotami și crocodili", "Popas major pentru păsările migratoare"],
+      en: ["Opened in 1998 in Selangor state", "Covers an area of 450 hectares", "Home to hippopotamuses and crocodiles", "Major stopover for migratory birds"],
+    },
+    imageHint: "Hippopotamus swimming in a wetland lake at Paya Indah",
+  },
+  {
+    id: "malaysia-similajau-national-park-life-v2",
+    type: "park",
+    name: { de: "Similajau-Nationalpark", hu: "Similajau Nemzeti Park", ro: "Parcul Național Similajau", en: "Similajau National Park" },
+    coordinates: { lat: 3.3514, lng: 113.1553 },
+    description: {
+      de: "Der Similajau-Nationalpark bietet goldene Sandstrände und einen einzigartigen Küstenwald. Er ist ein wichtiger Nistplatz für Meeresschildkröten.",
+      hu: "A Similajau Nemzeti Park aranyhomokos strandokkal és egyedi tengerparti erdővel várja a látogatókat. A zöld teknősök fontos fészkelőhelye.",
+      ro: "Parcul Național Similajau are plaje cu nisip auriu și o pădure de coastă unică. Este un loc vital de cuibărit pentru țestoase.",
+      en: "Similajau National Park features golden sand beaches and a unique coastal forest. It is a vital nesting site for green turtles in Sarawak.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1976 in Sarawak", "Fläche von etwa 8.996 Hektar", "Bekannt für seine goldenen Sandstrände", "Lebensraum für Leistenkrokodile"],
+      hu: ["1976-ban alapították Sarawak államban", "Területe 8996 hektár", "Aranyhomokos tengerpartjáról ismert", "Bordás krokodilok élőhelye"],
+      ro: ["Înființat în 1976 în statul Sarawak", "Suprafață de 8.996 hectare", "Cunoscut pentru plajele cu nisip auriu", "Habitat pentru crocodilii de apă sărată"],
+      en: ["Gazetted in 1976 in Sarawak state", "Total area of 8,996 hectares", "Known for its golden sandy beaches", "Home to saltwater crocodiles"],
+    },
+    imageHint: "Golden sandy beach at Similajau National Park",
+  },
+  {
+    id: "malaysia-rimba-ilmu-botanical-garden-life-v2",
+    type: "park",
+    name: { de: "Botanischer Garten Rimba Ilmu", hu: "Rimba Ilmu Botanikus Kert", ro: "Grădina Botanică Rimba Ilmu", en: "Rimba Ilmu Botanical Garden" },
+    coordinates: { lat: 3.1294, lng: 101.6567 },
+    description: {
+      de: "Rimba Ilmu ist ein tropischer Regenwald-Konservatorium an der Universität Malaya. Es beherbergt eine umfangreiche Sammlung von Heilpflanzen.",
+      hu: "A Rimba Ilmu egy trópusi esőerdő-konzervatórium a Maláj Egyetemen. Gyógynövények kiterjedt gyűjteményének ad otthont.",
+      ro: "Rimba Ilmu este un conservator de pădure tropicală la Universitatea Malaya. Deține o colecție vastă de plante medicinale.",
+      en: "Rimba Ilmu Botanical Garden is a rainforest conservatory at the University of Malaya. It houses a vast collection of tropical medicinal plants.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1974 in Kuala Lumpur", "Teil der Universität Malaya", "Über 1.600 verschiedene Pflanzenarten", "Fläche von etwa 80 Hektar"],
+      hu: ["1974-ben alapították Kuala Lumpurban", "A Maláj Egyetem része", "Több mint 1600 növényfaj található itt", "Területe megközelítőleg 80 hektár"],
+      ro: ["Fondată în 1974 în Kuala Lumpur", "Parte a Universității Malaya", "Peste 1.600 de specii de plante", "Suprafață de aproximativ 80 de hectare"],
+      en: ["Founded in 1974 in Kuala Lumpur", "Affiliated with University of Malaya", "Over 1,600 species of plants", "Covers an area of 80 hectares"],
+    },
+    imageHint: "Lush tropical greenhouse at Rimba Ilmu Botanical Garden",
+  },
+  {
+    id: "malaysia-gunung-gading-national-park-life-v2",
+    type: "park",
+    name: { de: "Gunung-Gading-Nationalpark", hu: "Gunung Gading Nemzeti Park", ro: "Parcul Național Gunung Gading", en: "Gunung Gading National Park" },
+    coordinates: { lat: 1.6917, lng: 109.8456 },
+    description: {
+      de: "Dieser Park schützt die Rafflesia, die größte Blume der Welt. Er bietet zudem mehrere Wasserfälle und Wanderwege durch den dichten Dschungel.",
+      hu: "Ez a park védi a Rafflesiát, a világ legnagyobb virágát. Számos vízesést és túraútvonalat kínál a sűrű dzsungelen keresztül.",
+      ro: "Acest parc protejează Rafflesia, cea mai mare floare din lume. Include cascade și trasee de drumeție prin jungla densă.",
+      en: "Gunung Gading National Park protects the Rafflesia, the world's largest flower. It features several waterfalls and rugged jungle hiking trails.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1983 in Sarawak", "Bekanntester Ort für Rafflesia-Blüten", "Fläche von etwa 4.106 Hektar", "Höchster Gipfel liegt auf 906 Metern"],
+      hu: ["1983-ban alapították Sarawak államban", "A Rafflesia virágzásának fő helyszíne", "Területe 4106 hektár", "Legmagasabb csúcsa 906 méter"],
+      ro: ["Înființat în 1983 în statul Sarawak", "Loc faimos pentru înflorirea Rafflesiei", "Suprafață de 4.106 hectare", "Vârful maxim are 906 metri înălțime"],
+      en: ["Established in 1983 in Sarawak state", "Primary site for Rafflesia blooms", "Covers an area of 4,106 hectares", "Highest peak reaches 906 meters"],
+    },
+    imageHint: "Large red Rafflesia flower blooming on the forest floor",
+  }
 ];
 

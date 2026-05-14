@@ -776,5 +776,25 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Panama legnyugatibb kikötője a Csendes-óceánon.", "Történelmileg a banánexport központja volt.", "A Chiquita banánvállalat egykori fő kikötője.", "A kikötő fejlesztése jelenleg is napirenden van.", "Tervek szerint többcélú terminállá alakítanák át.", "Lehetséges jövőbeli szerepe a konténer- és LNG-szállítás.", "Stratégiai elhelyezkedése miatt fontos logisztikai potenciállal bír."]
     }
   }
+,
+  {
+    id: "panama-zona-agricola-penonome-economic-v2",
+    type: "industry",
+    name: { de: "Agrarzone Penonomé", hu: "Penonomé mezőgazdasági övezet", ro: "Zonă agricolă Penonomé", en: "Penonomé Agricultural Zone" },
+    coordinates: { lat: 8.5167, lng: -80.35 },
+    description: {
+      de: "Das Gebiet um Penonomé ist ein Zentrum für den Anbau von Zuckerrohr und Getreide in der Provinz Coclé. Die Region trägt erheblich zur nationalen Nahrungsmittelversorgung bei.",
+      hu: "Penonomé környéke a cukornád- és gabonatermesztés központja Coclé tartományban. A régió jelentősen hozzájárul az országos élelmiszer-ellátáshoz.",
+      ro: "Zona din jurul localității Penonomé este un centru pentru cultivarea trestiei de zahăr și a cerealelor în provincia Coclé. Regiunea contribuie semnificativ la aprovizionarea națională cu alimente.",
+      en: "The area around Penonomé is a center for sugar cane and grain cultivation in Coclé province. The region contributes significantly to national food supply.",
+    },
+    facts: {
+      de: ["Hauptsitz in Coclé", "Zuckerrohrverarbeitung", "Günstiges tropisches Klima", "Wichtige Getreideproduktion"],
+      hu: ["Székhelye Coclé tartományban", "Cukornádfeldolgozás", "Kedvező trópusi éghajlat", "Jelentős gabonatermelés"],
+      ro: ["Sediul în provincia Coclé", "Procesarea trestiei de zahăr", "Climat tropical favorabil", "Producție importantă de cereale"],
+      en: ["Headquartered in Coclé", "Sugar cane processing", "Favorable tropical climate", "Important grain production"],
+    },
+    imageHint: "sugar cane fields panama landscape",
+  }
 ];
 

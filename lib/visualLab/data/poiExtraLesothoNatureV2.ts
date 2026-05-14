@@ -852,5 +852,63 @@ export const poiExtraLesothoNatureV2: POI[] = [
     
     
   }
+,
+  {
+    id: "lesotho-sani-pass-nature-v2",
+    type: "peak",
+    name: { de: "Sani Pass", hu: "Sani-hágó", ro: "Pasul Sani", en: "Sani Pass" },
+    coordinates: { lat: -29.5847, lng: 29.2878 },
+    description: {
+      de: "Der Sani Pass ist ein Gebirgspass in den Drakensbergen auf einer Höhe von 2874 Metern. Er verbindet Lesotho mit der südafrikanischen Provinz KwaZulu-Natal.",
+      hu: "A Sani-hágó egy 2874 méter magasságban fekvő hegyi hágó a Sárkány-hegységben. Lesotho és a dél-afrikai KwaZulu-Natal tartomány közötti összeköttetést biztosítja.",
+      ro: "Pasul Sani este o trecătoare montană situată în Munții Drakensberg la o altitudine de 2874 metri. Aceasta face legătura între Lesotho și provincia sud-africană KwaZulu-Natal.",
+      en: "Sani Pass is a mountain pass in the Drakensberg mountains at an elevation of 2,874 meters. It serves as the primary road link between Lesotho and the South African province of KwaZulu-Natal.",
+    },
+    facts: {
+      de: ["Höchste Erhebung: 2874 Meter über dem Meeresspiegel.", "Nur für Fahrzeuge mit Allradantrieb (4x4) zugelassen.", "Beherbergt den laut Eigenwerbung höchsten Pub Afrikas.", "Wichtige Handelsroute zwischen Lesotho und Südafrika."],
+      hu: ["Legmagasabb pontja 2874 méterrel van a tengerszint felett.", "Kizárólag összkerékhajtású (4x4) járművekkel járható.", "Itt található Afrika legmagasabban fekvő kocsmája.", "Fontos kereskedelmi útvonal Lesotho és Dél-Afrika között."],
+      ro: ["Altitudinea maximă este de 2874 metri peste nivelul mării.", "Accesul este permis doar vehiculelor cu tracțiune integrală.", "Găzduiește cel mai înalt pub din Africa la cota 2874.", "Ruta comercială principală între Lesotho și Africa de Sud."],
+      en: ["Highest elevation reaches 2,874 meters above sea level.", "Strictly restricted to 4x4 vehicles due to steep terrain.", "Home to the Sani Mountain Lodge, Africa's highest pub.", "Key transport route between Lesotho and South Africa."],
+    },
+    imageHint: "Sani Pass winding mountain road with steep cliffs",
+  },
+  {
+    id: "lesotho-ketane-falls-nature-v2",
+    type: "landmark",
+    name: { de: "Ketane-Wasserfälle", hu: "Ketane-vízesés", ro: "Cascada Ketane", en: "Ketane Falls" },
+    coordinates: { lat: -29.7711, lng: 28.1633 },
+    description: {
+      de: "Die Ketane-Wasserfälle stürzen über eine Basaltklippe etwa 122 Meter in die Tiefe. Sie befinden sich in einer abgelegenen Region des Maloti-Gebirges.",
+      hu: "A Ketane-vízesés egy bazaltszikláról zúdul alá körülbelül 122 méter magasságból. A Maloti-hegység egyik távoli, nehezen megközelíthető régiójában található.",
+      ro: "Cascada Ketane cade de pe o stâncă de bazalt de la o înălțime de aproximativ 122 de metri. Aceasta este situată într-o regiune izolată a Munților Maloti.",
+      en: "Ketane Falls drops approximately 122 meters over a basalt cliff in the Maloti Mountains. The waterfall is located in a remote area reachable primarily by pony or foot.",
+    },
+    facts: {
+      de: ["Die Fallhöhe beträgt etwa 122 Meter.", "Liegt tief im zerklüfteten Maloti-Gebirge verborgen.", "Erreichbar durch mehrtägige Pony-Trekking-Touren.", "Besteht aus Basaltgestein vulkanischen Ursprungs."],
+      hu: ["A vízesés teljes magassága megközelítőleg 122 méter.", "A Maloti-hegység távoli és vadregényes részén található.", "Többnapos pónihátas túrákkal közelíthető meg.", "Vulkanikus eredetű bazaltsziklák pereméről zúdul le."],
+      ro: ["Înălțimea totală a căderii de apă este de 122 metri.", "Ascunsă în inima Munților Maloti, într-o zonă izolată.", "Accesibilă în principal prin trekking cu ponei de munte.", "Formarea geologică este compusă din coloane de bazalt."],
+      en: ["The waterfall has a total drop of about 122 meters.", "Located in a remote wilderness of the Maloti Mountains.", "Accessible mainly via multi-day pony trekking routes.", "Falls over a dramatic precipice of volcanic basalt."],
+    },
+    imageHint: "Remote waterfall dropping from basalt cliffs in Lesotho",
+  },
+  {
+    id: "lesotho-muela-dam-nature-v2",
+    type: "lake",
+    name: { de: "Muela-Talsperre", hu: "Muela-gát", ro: "Barajul Muela", en: "Muela Dam" },
+    coordinates: { lat: -28.7758, lng: 28.455 },
+    description: {
+      de: "Die Muela-Talsperre ist Teil des Lesotho Highlands Water Project und dient der Stromerzeugung. Der Damm hat eine Höhe von 55 Metern und staut ein wichtiges Reservoir auf.",
+      hu: "A Muela-gát a Lesotho-felföldi Vízgazdálkodási Projekt része, és elektromos áram előállítására szolgál. Az 55 méter magas gát egy jelentős víztározót hoz létre.",
+      ro: "Barajul Muela face parte din Proiectul de Apă al Podișului Lesotho și este utilizat pentru generarea de energie. Barajul are o înălțime de 55 de metri și formează un rezervor important.",
+      en: "Muela Dam is an integral part of the Lesotho Highlands Water Project used for hydroelectric power generation. The 55-meter high dam creates a key reservoir for the national grid.",
+    },
+    facts: {
+      de: ["Der Damm hat eine strukturelle Höhe von 55 Metern.", "Das zugehörige Kraftwerk erzeugt 72 Megawatt Strom.", "Fertigstellung der ersten Bauphase erfolgte im Jahr 1998.", "Wichtiger Teil des grenzüberschreitenden Wasserprojekts."],
+      hu: ["A gát szerkezeti magassága pontosan 55 méter.", "A vízi erőmű 72 megawatt villamos energiát termel.", "Az első építési szakasz 1998-ban fejeződött be.", "A határokon átnyúló vízügyi projekt egyik fontos eleme."],
+      ro: ["Barajul are o înălțime structurală de 55 de metri.", "Centrala hidroelectrică produce 72 de megawați de energie.", "Finalizarea primei faze a construcției a avut loc în 1998.", "Element vital al Proiectului de Apă al Podișului Lesotho."],
+      en: ["The dam has a structural height of 55 meters.", "The hydropower plant generates 72 megawatts of electricity.", "Construction of phase 1A was completed in 1998.", "A key component of the Lesotho Highlands Water Project."],
+    },
+    imageHint: "Large hydroelectric dam and reservoir in the Lesotho highlands",
+  }
 ];
 

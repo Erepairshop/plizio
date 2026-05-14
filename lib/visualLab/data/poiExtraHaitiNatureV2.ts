@@ -1,3 +1,137 @@
 // @ts-nocheck
 import { POI } from './poi';
-export const poiExtraHaitiNatureV2: POI[] = [];
+export const poiExtraHaitiNatureV2: POI[] = [
+  {
+    id: "haiti-lac-azuei-nature-v2",
+    type: "lake",
+    name: { de: "Lac Azuéi", hu: "Lac Azuéi tó", ro: "Lacul Azuéi", en: "Lake Azuéi" },
+    coordinates: { lat: 18.57, lng: -71.84 },
+    description: {
+      de: "Der Lac Azuéi ist der zweitgrößte See Haitis. Er ist ein hypersaliner See an der Grenze zur Dominikanischen Republik.",
+      hu: "A Lac Azuéi Haiti második legnagyobb tava. Ez egy hipersalin tó a Dominikai Köztársaság határán.",
+      ro: "Lacul Azuéi este al doilea cel mai mare lac din Haiti. Este un lac hipersalin situat la granița cu Republica Dominicană.",
+      en: "Lake Azuéi is the second largest lake in Haiti. It is a hypersaline lake located on the border with the Dominican Republic.",
+    },
+    facts: {
+      de: ["Salzwassersee", "Lebensraum für Flamingos", "Kein natürlicher Abfluss", "Spiegelschwankungen beobachtet"],
+      hu: ["Sós vizű tó", "Flamingók élőhelye", "Nincs természetes lefolyása", "Vízszintingadozás jellemzi"],
+      ro: ["Lac cu apă sărată", "Habitat pentru flamingo", "Fără scurgere naturală", "Fluctuații de nivel observate"],
+      en: ["Saltwater lake", "Flamingo habitat", "No natural outlet", "Level fluctuations observed"],
+    },
+    imageHint: "Lake Azuei aerial view",
+  },
+  {
+    id: "haiti-pic-cabaio-nature-v2",
+    type: "peak",
+    name: { de: "Pic Cabaio", hu: "Pic Cabaio hegy", ro: "Pic Cabaio", en: "Pic Cabaio" },
+    coordinates: { lat: 18.33, lng: -72.25 },
+    description: {
+      de: "Der Pic Cabaio ist einer der höchsten Gipfel in der Chaîne de la Selle. Er liegt im Südosten von Haiti.",
+      hu: "A Pic Cabaio a Chaîne de la Selle egyik legmagasabb csúcsa. Haiti délkeleti részén található.",
+      ro: "Pic Cabaio este unul dintre cele mai înalte vârfuri din lanțul muntos Chaîne de la Selle. Se află în sud-estul statului Haiti.",
+      en: "Pic Cabaio is one of the highest peaks in the Chaîne de la Selle mountain range. It is located in the southeast of Haiti.",
+    },
+    facts: {
+      de: ["Höhe über 2.200 Meter", "Teil der Chaîne de la Selle", "Bergiges Terrain", "Kühleres Klima als an der Küste"],
+      hu: ["Magassága 2200 méter feletti", "A Chaîne de la Selle része", "Hegyvidéki terep", "Hűvösebb klíma, mint a parton"],
+      ro: ["Altitudine peste 2.200 metri", "Parte a Chaîne de la Selle", "Terren muntos", "Climă mai răcoroasă decât la coastă"],
+      en: ["Elevation over 2,200 meters", "Part of the Chaîne de la Selle", "Mountainous terrain", "Cooler climate than coast"],
+    },
+    imageHint: "Pic Cabaio mountain range landscape",
+  },
+  {
+    id: "haiti-grotte-marie-jeanne-nature-v2",
+    type: "landmark",
+    name: { de: "Grotte Marie-Jeanne", hu: "Marie-Jeanne barlang", ro: "Peștera Marie-Jeanne", en: "Marie-Jeanne Cave" },
+    coordinates: { lat: 18.15, lng: -73.7 },
+    description: {
+      de: "Die Grotte Marie-Jeanne ist ein umfangreiches Höhlensystem in der Nähe von Port-à-Piment. Sie ist für ihre geologischen Formationen bekannt.",
+      hu: "A Marie-Jeanne barlang egy kiterjedt barlangrendszer Port-à-Piment közelében. Geológiai képződményeiről ismert.",
+      ro: "Peștera Marie-Jeanne este un sistem extins de peșteri în apropiere de Port-à-Piment. Este renumită pentru formațiunile sale geologice.",
+      en: "Marie-Jeanne Cave is an extensive cave system near Port-à-Piment. It is known for its geological formations.",
+    },
+    facts: {
+      de: ["Größte Höhle Haitis", "Mehrere Kilometer lang", "Kalkstein-Strukturen", "Wissenschaftlich erforscht"],
+      hu: ["Haiti legnagyobb barlangja", "Több kilométer hosszú", "Mészkő struktúrák", "Tudományosan feltárt"],
+      ro: ["Cea mai mare peșteră din Haiti", "Câțiva kilometri lungime", "Structuri de calcar", "Explorată științific"],
+      en: ["Largest cave in Haiti", "Several kilometers long", "Limestone structures", "Scientifically explored"],
+    },
+    imageHint: "Marie-Jeanne Cave interior limestone",
+  },
+  {
+    id: "haiti-saut-d-eau-waterfall-nature-v2",
+    type: "river",
+    name: { de: "Saut-d'Eau-Wasserfall", hu: "Saut-d'Eau vízesés", ro: "Cascada Saut-d'Eau", en: "Saut-d'Eau Waterfall" },
+    coordinates: { lat: 18.83, lng: -72.16 },
+    description: {
+      de: "Der Saut-d'Eau ist ein markanter Wasserfall in der Nähe der Stadt Ville Bonheur. Er ist ein bedeutender Ort für religiöse Pilgerreisen.",
+      hu: "A Saut-d'Eau egy jelentős vízesés Ville Bonheur város közelében. Fontos helyszíne a vallási zarándoklatoknak.",
+      ro: "Saut-d'Eau este o cascadă notabilă lângă orașul Ville Bonheur. Este un loc important pentru pelerinajele religioase.",
+      en: "Saut-d'Eau is a prominent waterfall near the town of Ville Bonheur. It is an important site for religious pilgrimages.",
+    },
+    facts: {
+      de: ["Höhe ca. 30 Meter", "Heiliges Wasser", "Dschungel-Umgebung", "Jährliche Festlichkeiten"],
+      hu: ["Magasság kb. 30 méter", "Szent víz", "Dzsungel környezet", "Éves ünnepségek"],
+      ro: ["Înălțime aprox. 30 metri", "Apă sfântă", "Mediu de junglă", "Festivități anuale"],
+      en: ["Height approx. 30 meters", "Sacred water", "Jungle environment", "Annual festivities"],
+    },
+    imageHint: "Saut-d'Eau waterfall nature",
+  },
+  {
+    id: "haiti-morne-collin-nature-v2",
+    type: "mountain",
+    name: { de: "Morne Collin", hu: "Morne Collin hegy", ro: "Morne Collin", en: "Morne Collin" },
+    coordinates: { lat: 18.3, lng: -72.3 },
+    description: {
+      de: "Morne Collin ist ein Bergmassiv in der Nähe der Chaîne de la Selle. Die Region zeichnet sich durch ihre unberührte Natur aus.",
+      hu: "Morne Collin egy hegytömb a Chaîne de la Selle közelében. A régiót érintetlen természete jellemzi.",
+      ro: "Morne Collin este un masiv muntos în apropierea lanțului Chaîne de la Selle. Regiunea este caracterizată de natura sa nealterată.",
+      en: "Morne Collin is a mountain massif near the Chaîne de la Selle. The region is characterized by its untouched nature.",
+    },
+    facts: {
+      de: ["Höhe über 2.000 Meter", "Dichte Vegetation", "Wandergebiet", "Kühler Nebelwald"],
+      hu: ["Magasság 2000 méter feletti", "Sűrű növényzet", "Túrázóhely", "Hűvös köderdő"],
+      ro: ["Altitudine peste 2.000 metri", "Vegetație densă", "Zonă de drumeție", "Pădure de nori răcoroasă"],
+      en: ["Elevation over 2,000 meters", "Dense vegetation", "Hiking area", "Cool cloud forest"],
+    },
+    imageHint: "Morne Collin mountain range",
+  },
+  {
+    id: "haiti-etang-miragoane-nature-v2",
+    type: "lake",
+    name: { de: "Étang de Miragoâne", hu: "Étang de Miragoâne tó", ro: "Étang de Miragoâne", en: "Miragoâne Lake" },
+    coordinates: { lat: 18.28, lng: -73.08 },
+    description: {
+      de: "Der Étang de Miragoâne ist ein großer Süßwassersee nahe der Stadt Miragoâne. Er spielt eine zentrale Rolle für die lokale Fischerei.",
+      hu: "Az Étang de Miragoâne egy nagy édesvízi tó Miragoâne város közelében. Központi szerepet játszik a helyi halászatban.",
+      ro: "Étang de Miragoâne este un lac mare de apă dulce lângă orașul Miragoâne. Joacă un rol central în pescuitul local.",
+      en: "Étang de Miragoâne is a large freshwater lake near the town of Miragoâne. It plays a central role in local fishing.",
+    },
+    facts: {
+      de: ["Süßwassersee", "Wichtiges Fischereigebiet", "Vogelbeobachtung", "Umland landwirtschaftlich geprägt"],
+      hu: ["Édesvízi tó", "Fontos halászati terület", "Madármegfigyelés", "Mezőgazdasági környezet"],
+      ro: ["Lac cu apă dulce", "Zonă de pescuit importantă", "Observarea păsărilor", "Regiune agricolă"],
+      en: ["Freshwater lake", "Important fishing area", "Bird watching", "Surrounding agriculture"],
+    },
+    imageHint: "Miragoane lake landscape",
+  },
+  {
+    id: "haiti-pointe-a-raquette-nature-v2",
+    type: "landmark",
+    name: { de: "Pointe-à-Raquette", hu: "Pointe-à-Raquette partvidék", ro: "Pointe-à-Raquette", en: "Pointe-à-Raquette Coast" },
+    coordinates: { lat: 18.55, lng: -73.0 },
+    description: {
+      de: "Die Küstenregion Pointe-à-Raquette auf der Insel Gonâve zeichnet sich durch felsige Küstenabschnitte und klare Gewässer aus.",
+      hu: "A Pointe-à-Raquette partvidéki régió a Gonâve-szigeten sziklás szakaszairól és tiszta vizéről ismert.",
+      ro: "Regiunea de coastă Pointe-à-Raquette de pe insula Gonâve se remarcă prin secțiuni de coastă stâncoase și ape clare.",
+      en: "The Pointe-à-Raquette coastal region on Gonâve Island is characterized by rocky coastlines and clear waters.",
+    },
+    facts: {
+      de: ["Insel Gonâve", "Klares Wasser", "Küstenökosystem", "Felsige Ufer"],
+      hu: ["Gonâve-sziget", "Tiszta víz", "Parti ökoszisztéma", "Sziklás partok"],
+      ro: ["Insula Gonâve", "Apă clară", "Ecosistem de coastă", "Țărmuri stâncoase"],
+      en: ["Gonâve Island", "Clear water", "Coastal ecosystem", "Rocky shores"],
+    },
+    imageHint: "Pointe-a-Raquette island coastline",
+  }
+];

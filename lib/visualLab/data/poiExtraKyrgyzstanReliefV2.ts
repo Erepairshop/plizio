@@ -643,4 +643,24 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       en: ["Forms the massive, virtually impenetrable international border with China.", "It is by far the longest continuous mountain chain in the entire Tian Shan system.", "The average crest elevation sits at an extreme 4,500 to 5,000 meters.", "The absolute highest distinct peak in the range is Dankova Peak (5,982 m).", "Numerous icy summits and remote glacial valleys remain completely unexplored.", "Dominated visually by gigantic glacier systems and an unforgiving Arctic climate."]
     }
   }
+,
+  {
+    id: "kyrgyzstan-kyrgyz-ala-too-relief-v2",
+    type: "mountain",
+    name: { de: "Kirgisischer Alatau", hu: "Kirgiz-Alatau", ro: "Munții Ala-Too Kirghiz", en: "Kyrgyz Ala-Too Range" },
+    coordinates: { lat: 42.4833, lng: 74.5167 },
+    description: {
+      de: "Der Kirgisische Alatau ist ein Gebirgszug im nördlichen Tienschan. Er erstreckt sich über 450 km und begrenzt das Tschüi-Tal im Süden.",
+      hu: "A Kirgiz-Alatau az Északi-Tien-san hegylánca, amely 450 km hosszan nyúlik el. A Csu-völgy déli határát alkotja és 4850 méter fölé magasodik.",
+      ro: "Munții Ala-Too Kirghiz reprezintă un lanț muntos din nordul Tian-Șan. Se întinde pe 450 km și atinge altitudini de peste 4.850 de metri.",
+      en: "The Kyrgyz Ala-Too is a major range in the northern Tien Shan, stretching 450 kilometers. It forms the southern boundary of the Chuy Valley.",
+    },
+    facts: {
+      de: ["Der höchste Punkt ist die Alamedin-Spitze mit 4.855 Metern.", "Das Gebirge beherbergt über 500 einzelne Gletscher.", "Es besteht hauptsächlich aus paläozoischem Sedimentgestein.", "Die Kette bildet die Wasserscheide für das Tschüi-Becken."],
+      hu: ["Legmagasabb pontja az Alamedin-csúcs, 4855 méterrel.", "Több mint 500 gleccser található a magashegyi zónákban.", "Főleg paleozoikumi üledékes kőzetekből épül fel.", "Elsődleges vízválasztóként szolgál a Csu-folyó medencéjében."],
+      ro: ["Cel mai înalt punct este vârful Alamedin la 4.855 metri.", "Munții adăpostesc peste 500 de ghețari individuali.", "Sunt compuși în principal din roci sedimentare paleozoice.", "Lanțul formează principala cumpănă de ape pentru bazinul Chuy."],
+      en: ["Highest point is Alamedin Peak at 4,855 meters.", "Contains over 500 glaciers in its high-altitude zones.", "Composed primarily of Paleozoic sedimentary rocks.", "Forms the primary watershed for the Chuy river basin."],
+    },
+    imageHint: "Kyrgyz Ala-Too mountain range snow capped peaks south of Bishkek",
+  }
 ];

@@ -541,4 +541,43 @@ export const poiExtraJordanNatureV2: POI[] = [
       en: ["Length 10 km", "Early Bronze Age settlement (c. 2500 BC)", "Fire destruction preserved grains and artifacts", "Limestone and marl geology", "Annual rainfall below 100 mm", "Archaeological excavations since 1981"],
     },
   }
+,
+  {
+    id: "jordan-wadi-al-hidan-nature-v2",
+    type: "valley",
+    name: { de: "Wadi al-Hidan", hu: "Vádi el-Hidan", ro: "Wadi al-Hidan", en: "Wadi Al-Hidan" },
+    coordinates: { lat: 31.5583, lng: 35.6833 },
+    description: {
+      de: "Diese basaltische Schlucht besitzt natürliche Becken aus schwarzem Vulkangestein. Sie gehört zum Entwässerungssystem des Mujib-Reservats.",
+      hu: "Ez a bazalt kanyon sötét vulkáni kőzetbe vájt természetes medencékkel rendelkezik. A Mudzsib Bioszféra Rezervátum vízhálózatának része.",
+      ro: "Acest canion bazaltic are bazine naturale sculptate în rocă vulcanică neagră. Face parte din sistemul de drenaj al Rezervației Mujib.",
+      en: "This basaltic canyon features natural pools carved through dark volcanic rock. It forms part of the Mujib Biosphere Reserve's drainage system.",
+    },
+    facts: {
+      de: ["15 km Gesamtlänge", "Basalt-Felsformationen", "Natürliche Wasserbecken", "Ganzjähriger Wasserfluss"],
+      hu: ["15 km teljes hosszúság", "Bazalt kőzetformációk", "Természetes vízi medencék", "Egész éves vízáramlás"],
+      ro: ["Lungime totală de 15 km", "Formațiuni de rocă bazaltică", "Bazine naturale cu apă", "Flux de apă pe tot parcursul anului"],
+      en: ["15 km total length", "Basalt rock formations", "Natural water pools", "Year-round water flow"],
+    },
+    imageHint: "Wadi Al-Hidan canyon basalt rocks and water pools",
+  },
+  {
+    id: "jordan-lisan-peninsula-nature-v2",
+    type: "landmark",
+    name: { de: "Lisan-Halbinsel", hu: "Liszan-félsziget", ro: "Peninsula Lisan", en: "Lisan Peninsula" },
+    coordinates: { lat: 31.25, lng: 35.45 },
+    description: {
+      de: "Diese Landmasse trennt das nördliche vom südlichen Becken des Toten Meeres. Sie besteht aus Mergel und Salz und ist wie eine Zunge geformt.",
+      hu: "Ez a terület választja el a Holt-tenger északi és déli medencéjét. Márga és só építi fel, alakja pedig egy kinyújtott nyelvre hasonlít.",
+      ro: "Această masă terestră separă bazinele Mării Moarte. Este compusă din depozite de marnă și sare, având forma unei limbi care intră în apă.",
+      en: "This landmass separates the northern and southern basins of the Dead Sea. It is composed of marl and salt deposits and shaped like a tongue.",
+    },
+    facts: {
+      de: ["Besteht aus Mergel und Salz", "Trennt das Tote Meer", "Liegt im südlichen Becken", "Geologische Ablagerungen"],
+      hu: ["Márga és só alkotja", "Kettéválasztja a Holt-tengert", "A déli medencében található", "Geológiai üledékes képződmény"],
+      ro: ["Compusă din marnă și sare", "Divide bazinele Mării Moarte", "Situată în bazinul sudic", "Formațiune geologică de sedimente"],
+      en: ["Composed of marl and salt", "Divides the Dead Sea basins", "Located in the southern basin", "Significant geological formation"],
+    },
+    imageHint: "Lisan Peninsula Dead Sea aerial view salt deposits",
+  }
 ];

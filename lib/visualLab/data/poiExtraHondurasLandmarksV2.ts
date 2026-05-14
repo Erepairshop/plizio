@@ -1053,5 +1053,101 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   }
+,
+  {
+    id: "honduras-teatro-jorge-tiburcio-carias-landmarks-v2",
+    type: "theater",
+    name: { de: "Jorge Tiburcio Carias Theater", hu: "Jorge Tiburcio Carias Színház", ro: "Teatrul Jorge Tiburcio Carias", en: "Jorge Tiburcio Carias Theater" },
+    coordinates: { lat: 14.1032, lng: -87.2085 },
+    description: {
+      de: "Das Theater befindet sich im Zentrum von Tegucigalpa und dient als Veranstaltungsort für kulturelle Aufführungen. Es ist nach einem ehemaligen Präsidenten benannt.",
+      hu: "A színház Tegucigalpa központjában található, és kulturális előadások helyszínéül szolgál. Nevét egykori elnökéről kapta.",
+      ro: "Teatrul este situat în centrul orașului Tegucigalpa și servește drept locație pentru spectacole culturale. Este numit după un fost președinte.",
+      en: "The theater is located in the center of Tegucigalpa and serves as a venue for cultural performances. It is named after a former president.",
+    },
+    facts: {
+      de: ["Standort: Tegucigalpa", "Kulturelles Zentrum", "Benannt nach Carias", "Architekturstil der 1930er"],
+      hu: ["Helyszín: Tegucigalpa", "Kulturális központ", "Cariasról elnevezve", "1930-as évekbeli építészeti stílus"],
+      ro: ["Locație: Tegucigalpa", "Centru cultural", "Numit după Carias", "Stil arhitectural din anii 1930"],
+      en: ["Location: Tegucigalpa", "Cultural center", "Named after Carias", "1930s architectural style"],
+    },
+    imageHint: "Jorge Tiburcio Carias theater architecture",
+  },
+  {
+    id: "honduras-museo-ferroviario-san-pedro-sula-landmarks-v2",
+    type: "museum",
+    name: { de: "Eisenbahnmuseum San Pedro Sula", hu: "San Pedro Sula-i Vasúti Múzeum", ro: "Muzeul Feroviar din San Pedro Sula", en: "San Pedro Sula Railway Museum" },
+    coordinates: { lat: 15.5035, lng: -88.0255 },
+    description: {
+      de: "Das Museum dokumentiert die Entwicklung der Eisenbahn in Honduras, die maßgeblich zum Export von Bananen beitrug. Es beherbergt historische Lokomotiven.",
+      hu: "A múzeum a hondurasi vasút fejlődését dokumentálja, amely jelentősen hozzájárult a banánexporthoz. Történelmi mozdonyokat állít ki.",
+      ro: "Muzeul documentează dezvoltarea căilor ferate din Honduras, care a contribuit semnificativ la exportul de banane. Găzduiește locomotive istorice.",
+      en: "The museum documents the development of the railway in Honduras, which significantly contributed to banana exports. It houses historical locomotives.",
+    },
+    facts: {
+      de: ["Standort: San Pedro Sula", "Fokus: Eisenbahngeschichte", "Historische Maschinen", "Bananenindustrie"],
+      hu: ["Helyszín: San Pedro Sula", "Téma: vasúttörténet", "Történelmi gépek", "Banánipar"],
+      ro: ["Locație: San Pedro Sula", "Focalizare: istoria căilor ferate", "Mașini istorice", "Industria bananelor"],
+      en: ["Location: San Pedro Sula", "Focus: railway history", "Historical machinery", "Banana industry"],
+    },
+    imageHint: "San Pedro Sula railway museum historical locomotive",
+  },
+  {
+    id: "honduras-museo-antropologia-san-pedro-sula-landmarks-v2",
+    type: "museum",
+    name: { de: "Anthropologisches Museum San Pedro Sula", hu: "San Pedro Sula-i Antropológiai Múzeum", ro: "Muzeul de Antropologie din San Pedro Sula", en: "Anthropological Museum of San Pedro Sula" },
+    coordinates: { lat: 15.505, lng: -88.028 },
+    description: {
+      de: "Das Museum stellt Artefakte der präkolumbianischen Kulturen aus der Region Sula aus. Es bietet Einblicke in die frühe Geschichte von Honduras.",
+      hu: "A múzeum a Sula régió prekolumbiánus kultúráinak műtárgyait mutatja be. Betekintést nyújt Honduras korai történelmébe.",
+      ro: "Muzeul expune artefacte ale culturilor precolumbiene din regiunea Sula. Oferă perspective asupra istoriei timpurii a Hondurasului.",
+      en: "The museum exhibits artifacts of pre-Columbian cultures from the Sula region. It provides insights into the early history of Honduras.",
+    },
+    facts: {
+      de: ["Standort: San Pedro Sula", "Präkolumbianische Artefakte", "Kulturelles Erbe", "Bildungseinrichtung"],
+      hu: ["Helyszín: San Pedro Sula", "Prekolumbiánus műtárgyak", "Kulturális örökség", "Oktatási intézmény"],
+      ro: ["Locație: San Pedro Sula", "Artefacte precolumbiene", "Moștenire culturală", "Instituție educațională"],
+      en: ["Location: San Pedro Sula", "Pre-Columbian artifacts", "Cultural heritage", "Educational institution"],
+    },
+    imageHint: "Anthropological Museum San Pedro Sula exhibits",
+  },
+  {
+    id: "honduras-iglesia-santa-rosa-de-copan-landmarks-v2",
+    type: "cathedral",
+    name: { de: "Kathedrale von Santa Rosa de Copán", hu: "Santa Rosa de Copán-i székesegyház", ro: "Catedrala din Santa Rosa de Copán", en: "Cathedral of Santa Rosa de Copán" },
+    coordinates: { lat: 14.76, lng: -88.77 },
+    description: {
+      de: "Diese Kathedrale ist das wichtigste religiöse Gebäude in Santa Rosa de Copán. Sie zeichnet sich durch ihren neoklassizistischen Baustil aus.",
+      hu: "Ez a katedrális Santa Rosa de Copán legfontosabb vallási épülete. Neoklasszikus építészeti stílusáról ismert.",
+      ro: "Această catedrală este cea mai importantă clădire religioasă din Santa Rosa de Copán. Se distinge prin stilul său arhitectural neoclasic.",
+      en: "This cathedral is the most important religious building in Santa Rosa de Copán. It is distinguished by its neoclassical architectural style.",
+    },
+    facts: {
+      de: ["Standort: Santa Rosa de Copán", "Neoklassizismus", "Wichtige religiöse Stätte", "Architektonisches Erbe"],
+      hu: ["Helyszín: Santa Rosa de Copán", "Neoklasszicizmus", "Fontos vallási helyszín", "Építészeti örökség"],
+      ro: ["Locație: Santa Rosa de Copán", "Neoclasicism", "Loc religios important", "Moștenire arhitecturală"],
+      en: ["Location: Santa Rosa de Copán", "Neoclassicism", "Important religious site", "Architectural heritage"],
+    },
+    imageHint: "Cathedral of Santa Rosa de Copan",
+  },
+  {
+    id: "honduras-torre-de-mercedes-tegucigalpa-landmarks-v2",
+    type: "tower",
+    name: { de: "Torre de Mercedes", hu: "Torre de Mercedes torony", ro: "Turnul Mercedes", en: "Torre de Mercedes" },
+    coordinates: { lat: 14.101, lng: -87.195 },
+    description: {
+      de: "Die Torre de Mercedes ist eines der moderneren Hochhäuser im Finanzviertel von Tegucigalpa. Sie prägt das zeitgenössische Stadtbild der Hauptstadt.",
+      hu: "A Torre de Mercedes Tegucigalpa pénzügyi negyedének egyik modernebb felhőkarcolója. Meghatározza a főváros kortárs városképét.",
+      ro: "Torre de Mercedes este una dintre clădirile moderne mai înalte din cartierul financiar al orașului Tegucigalpa. Definește peisajul urban contemporan al capitalei.",
+      en: "The Torre de Mercedes is one of the more modern skyscrapers in the financial district of Tegucigalpa. It defines the contemporary cityscape of the capital.",
+    },
+    facts: {
+      de: ["Standort: Tegucigalpa", "Finanzviertel", "Modernes Hochhaus", "Stadtbildprägend"],
+      hu: ["Helyszín: Tegucigalpa", "Pénzügyi negyed", "Modern felhőkarcoló", "Városkép-meghatározó"],
+      ro: ["Locație: Tegucigalpa", "Cartier financiar", "Clădire înaltă modernă", "Definitoare pentru peisajul urban"],
+      en: ["Location: Tegucigalpa", "Financial district", "Modern high-rise", "Cityscape defining"],
+    },
+    imageHint: "Torre de Mercedes Tegucigalpa skyscraper",
+  }
 ];
 

@@ -541,4 +541,81 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       en: ["Area: 12 km²", "Grey reef sharks: 100+", "Annual tourism revenue: $1 million", "Fishing restriction zone: 2 km from reef", "Mooring buoys: 10", "Shark feeding banned since: 2018"],
     },
   }
+,
+  {
+    id: "maldives-maaya-thila-nature-v2",
+    type: "wildlife",
+    name: { de: "Maaya Thila", hu: "Maaya Thila", ro: "Maaya Thila", en: "Maaya Thila" },
+    coordinates: { lat: 4.0116, lng: 72.8642 },
+    description: {
+      de: "Ein geschütztes Meeresgebiet im Nord-Ari-Atoll, das für seine reiche Hai-Population und farbenfrohen Korallenriffe bekannt ist.",
+      hu: "Az Északi-Ari-atoll védett tengeri területe, amely gazdag cápapopulációjáról és látványos korallzátonyairól ismert.",
+      ro: "O zonă marină protejată din Atolul Ari de Nord, cunoscută pentru populația diversă de rechini și recifele de corali.",
+      en: "A protected marine area in North Ari Atoll known for its rich shark population and vibrant coral reef formations.",
+    },
+    facts: {
+      de: ["Seit 1995 als Meeresschutzgebiet ausgewiesen", "Der Durchmesser des Riffs beträgt etwa 80 Meter", "Die Tiefe variiert zwischen 6 und 30 Metern", "Berühmt für nächtliche Sichtungen von Weißspitzenhaien"],
+      hu: ["1995 óta hivatalos tengeri védett terület", "A zátony átmérője körülbelül 80 méter", "A mélység 6 és 30 méter között változik", "Híres az éjszakai fehérfoltú szirticápa-észlelésekről"],
+      ro: ["Desemnată zonă marină protejată din 1995", "Diametrul recifului este de aproximativ 80 de metri", "Adâncimea variază între 6 și 30 de metri", "Faimos pentru observarea nocturnă a rechinilor de recif"],
+      en: ["Designated as a Marine Protected Area since 1995", "The reef diameter is approximately 80 meters", "Depth ranges from 6 to 30 meters", "Famous for nocturnal white-tip reef shark sightings"],
+    },
+    imageHint: "Aerial view of a circular turquoise coral reef in the Maldives",
+  },
+  {
+    id: "maldives-fish-head-nature-v2",
+    type: "wildlife",
+    name: { de: "Fish Head (Mushimasmingili)", hu: "Fish Head (Mushimasmingili)", ro: "Fish Head (Mushimasmingili)", en: "Fish Head (Mushimasmingili)" },
+    coordinates: { lat: 3.9352, lng: 72.9304 },
+    description: {
+      de: "Ein markanter Unterwasserberg im Nord-Ari-Atoll, der als einer der besten Orte weltweit für die Beobachtung von Grauen Riffhaien gilt.",
+      hu: "Egy jellegzetes víz alatti hegy az Északi-Ari-atollban, amely világszerte az egyik legjobb hely a szürke szirticápák megfigyelésére.",
+      ro: "Un munte subacvatic distinctiv din Atolul Ari de Nord, considerat una dintre cele mai bune locații pentru observarea rechinilor cenușii.",
+      en: "A distinctive underwater mountain in North Ari Atoll, widely considered one of the top locations for viewing grey reef sharks.",
+    },
+    facts: {
+      de: ["Staatlich geschütztes Meeresökosystem", "Besteht aus einer mehrstufigen Felsnadel", "Beherbergt große Schwärme von Füsilierfischen", "Starke Strömungen fördern das Korallenwachstum"],
+      hu: ["Államilag védett tengeri ökoszisztéma", "Egy többszintes víz alatti sziklatűből áll", "Hatalmas fűszereshal-rajoknak ad otthont", "Az erős áramlatok segítik a korallok növekedését"],
+      ro: ["Ecosistem marin protejat de stat", "Constă dintr-un pinaclu subacvatic cu mai multe niveluri", "Găzduiește bancuri mari de pești fuzilieri", "Curenții puternici favorizează creșterea coralilor"],
+      en: ["Government-protected marine ecosystem", "Consists of a multi-level underwater pinnacle", "Home to massive schools of fusilier fish", "Strong currents promote healthy coral growth"],
+    },
+    imageHint: "Underwater school of grey reef sharks near a coral pinnacle",
+  },
+  {
+    id: "maldives-fotteyo-kandu-nature-v2",
+    type: "wildlife",
+    name: { de: "Fotteyo Kandu", hu: "Fotteyo Kandu", ro: "Fotteyo Kandu", en: "Fotteyo Kandu" },
+    coordinates: { lat: 3.4833, lng: 73.7511 },
+    description: {
+      de: "Ein gewaltiger Meereskanal im Vaavu-Atoll mit tiefen Höhlen, Steilwänden und prachtvollen Gärten aus gelben Weichkorallen.",
+      hu: "Hatalmas tengeri csatorna a Vaavu-atollban, mély barlangokkal, függőleges falakkal és sárga lágykorall-kertekkel.",
+      ro: "Un canal marin masiv în Atolul Vaavu, cu peșteri adânci, pereți verticali și grădini splendide de corali moi galbeni.",
+      en: "A massive marine channel in Vaavu Atoll featuring deep caves, vertical walls, and splendid gardens of yellow soft corals.",
+    },
+    facts: {
+      de: ["Teil des längsten Barriereriffs der Malediven", "Bekannt für seltene Sichtungen von Hammerhaien", "Verfügt über zahlreiche Unterwasserhöhlen", "Die Strömungen können hier extrem stark sein"],
+      hu: ["A Maldív-szigetek leghosszabb gátzátonyának része", "Ritka pörölycápa-észleléseiről nevezetes", "Számos víz alatti barlanggal rendelkezik", "Az áramlatok itt rendkívül erősek lehetnek"],
+      ro: ["Parte a celui mai lung recif barieră din Maldive", "Notabil pentru observări rare de rechini ciocan", "Prezintă numeroase peșteri subacvatice", "Curenții pot fi extrem de puternici în această zonă"],
+      en: ["Part of the longest barrier reef in the Maldives", "Notable for rare hammerhead shark sightings", "Features numerous swim-through caves", "Currents can be extremely powerful in this area"],
+    },
+    imageHint: "Divers exploring a deep underwater cave with soft corals",
+  },
+  {
+    id: "maldives-madivaru-corner-nature-v2",
+    type: "wildlife",
+    name: { de: "Madivaru Corner", hu: "Madivaru Corner", ro: "Madivaru Corner", en: "Madivaru Corner" },
+    coordinates: { lat: 4.2725, lng: 73.0118 },
+    description: {
+      de: "Ein strategischer Riffpunkt im Rasdhoo-Atoll, an dem starke Meeresströmungen eine beeindruckende Vielfalt an pelagischen Fischen anlocken.",
+      hu: "Stratégiai zátonypont a Rasdhoo-atollban, ahol az erős áramlatok a nyílt tengeri halak lenyűgöző változatosságát vonzzák.",
+      ro: "Un punct strategic de recif în Atolul Rasdhoo, unde curenții oceanici atrag o varietate impresionantă de pești pelagici.",
+      en: "A strategic reef point in Rasdhoo Atoll where powerful oceanic currents attract an impressive variety of pelagic fish.",
+    },
+    facts: {
+      de: ["Bekanntester Ort für Hammerhaie im Atoll", "Das Plateau liegt in einer Tiefe von 12 Metern", "Die Riffkante fällt über 200 Meter steil ab", "Beherbergt große Gruppen von Adlerrochen"],
+      hu: ["Az atoll legismertebb pörölycápa-lelőhelye", "A tengeri fennsík 12 méter mélyen található", "A zátonyperem több mint 200 métert zuhan", "Gyakran látni itt sasrájákból álló csoportokat"],
+      ro: ["Cel mai cunoscut loc pentru rechini ciocan din atol", "Platoul se află la o adâncime de 12 metri", "Marginea recifului coboară abrupt peste 200 de metri", "Găzduiește grupuri mari de pisici de mare vultur"],
+      en: ["Most famous site for hammerhead sharks in the atoll", "The reef plateau sits at a depth of 12 meters", "The reef edge drops off steeply over 200 meters", "Home to large schools of eagle rays"],
+    },
+    imageHint: "Hammerhead shark swimming in deep blue ocean water",
+  }
 ];

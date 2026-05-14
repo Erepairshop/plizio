@@ -724,5 +724,25 @@ export const poiExtraGambiaReliefV2: POI[] = [
       en: ["A rugged, remote series of rocky laterite outcrops in the Kiang Central district.", "Provides remarkably distinct, elevated topography in an overwhelmingly flat nation.", "Heavily eroded landscape featuring deep, natural crevices and small cave systems.", "Historically utilized as strategic shelters and vantage points during 19th-century wars.", "The harsh, stony soil makes the area completely unsuitable for agriculture.", "Inadvertently preserved as a wild sanctuary for reptiles, small mammals, and raptors."]
     }
   }
+,
+  {
+    id: "gambia-medina-samsang-ridge-relief-v2",
+    type: "mountain",
+    name: { de: "Medina Samsang Grat", hu: "Medina Samsang-gerinc", ro: "Cresta Medina Samsang", en: "Medina Samsang Ridge" },
+    coordinates: { lat: 13.562, lng: -14.631 },
+    description: {
+      de: "Der Medina Samsang Grat ist eine erhöhte topografische Formation im Osten des Landes. Er besteht aus lateritischen Gesteinsschichten, die das lokale Flusstal überragen.",
+      hu: "A Medina Samsang-gerinc az ország keleti részén található megemelkedett topográfiai képződmény. Laterites kőzetrétegekből áll, amelyek kiemelkednek a környező folyóvölgyből.",
+      ro: "Cresta Medina Samsang este o formațiune topografică ridicată situată în estul țării. Aceasta este compusă din straturi de rocă lateritică ce domină valea fluviului local.",
+      en: "The Medina Samsang Ridge is an elevated topographic formation located in the east of the country. It consists of lateritic rock layers that rise above the local river valley.",
+    },
+    facts: {
+      de: ["Gelegen in der Region Upper River", "Besteht überwiegend aus Lateritboden", "Höhe liegt über dem regionalen Durchschnitt", "Wichtiger Punkt zur Orientierung in der Landschaft"],
+      hu: ["A Felső-Folyó régióban található", "Főként laterites talaj jellemzi", "Magassága meghaladja a környék átlagát", "Fontos tájékozódási pont a vidéken"],
+      ro: ["Situat în regiunea Upper River", "Compus predominant din sol lateritic", "Altitudine peste media regională", "Punct de orientare important în peisaj"],
+      en: ["Located in the Upper River region", "Composed primarily of laterite soil", "Elevation exceeds the regional average", "Important landmark for landscape orientation"],
+    },
+    imageHint: "savanna landscape with low ridges in the Gambia",
+  }
 ];
 

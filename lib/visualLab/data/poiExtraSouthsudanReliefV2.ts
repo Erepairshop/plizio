@@ -722,5 +722,44 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       en: ["Height: 1,600 m", "Rock type: metamorphic", "Minerals: chromite, nickel", "Mountain range: Nuba Mountains", "Annual rainfall: 800 mm", "Ethnic group: Garia"],
     },
   }
+,
+  {
+    id: "southsudan-jebel-boma-relief-v2",
+    type: "mountain",
+    name: { de: "Jebel Boma", hu: "Jebel Boma", ro: "Jebel Boma", en: "Jebel Boma" },
+    coordinates: { lat: 6.25, lng: 34.66 },
+    description: {
+      de: "Das Jebel Boma ist ein markantes Hochlandgebiet im Osten des Südsudan nahe der äthiopischen Grenze. Es bildet einen wichtigen Teil des lokalen Ökosystems mit spezifischen geologischen Formationen.",
+      hu: "A Jebel Boma egy jelentős felföldi terület Dél-Szudán keleti részén, az etióp határ közelében. Fontos részét képezi a helyi ökoszisztémának, jellegzetes geológiai képződményekkel.",
+      ro: "Jebel Boma este o zonă înaltă distinctivă în estul Sudanului de Sud, aproape de granița cu Etiopia. Formează o parte importantă a ecosistemului local, cu formațiuni geologice specifice.",
+      en: "Jebel Boma is a distinctive highland area in eastern South Sudan near the Ethiopian border. It forms an important part of the local ecosystem with specific geological formations.",
+    },
+    facts: {
+      de: ["Liegt im Bundesstaat Boma.", "Erhebt sich über die umliegenden Ebenen.", "Wichtige geologische Struktur der Region.", "Teil des Boma-Nationalparks."],
+      hu: ["A Boma államban található.", "Kiemelkedik a környező síkságokból.", "A régió fontos geológiai szerkezete.", "A Boma Nemzeti Park része."],
+      ro: ["Situat în statul Boma.", "Se ridică deasupra câmpiilor înconjurătoare.", "Structură geologică importantă a regiunii.", "Parte a Parcului Național Boma."],
+      en: ["Located in Boma State.", "Rises above the surrounding plains.", "Important geological structure of the region.", "Part of Boma National Park."],
+    },
+    imageHint: "Jebel Boma landscape aerial view",
+  },
+  {
+    id: "southsudan-jebel-kator-relief-v2",
+    type: "mountain",
+    name: { de: "Jebel Kator", hu: "Jebel Kator", ro: "Jebel Kator", en: "Jebel Kator" },
+    coordinates: { lat: 4.82, lng: 31.55 },
+    description: {
+      de: "Der Jebel Kator ist ein isolierter Hügel in der Nähe der Hauptstadt Juba. Die Erhebung besteht hauptsächlich aus metamorphem Gestein und prägt das Relief am Westufer des Weißen Nils.",
+      hu: "A Jebel Kator egy elszigetelt domb Juba főváros közelében. A kiemelkedés főként metamorf kőzetekből áll, és meghatározza a domborzatot a Fehér-Nílus nyugati partján.",
+      ro: "Jebel Kator este un deal izolat situat în apropierea capitalei Juba. Această formă de relief este alcătuită în principal din roci metamorfice și definește topografia pe malul vestic al Nilului Alb.",
+      en: "Jebel Kator is an isolated hill near the capital city of Juba. The elevation is composed primarily of metamorphic rock and defines the topography on the western bank of the White Nile.",
+    },
+    facts: {
+      de: ["Befindet sich nahe Juba.", "Besteht überwiegend aus metamorphem Gestein.", "Prägt die lokale Topografie.", "Erreichbar über lokale Infrastruktur."],
+      hu: ["Juba közelében található.", "Főként metamorf kőzetekből áll.", "Meghatározza a helyi domborzatot.", "Helyi infrastruktúrán keresztül megközelíthető."],
+      ro: ["Situat în apropiere de Juba.", "Compus în principal din roci metamorfice.", "Definește topografia locală.", "Accesibil prin infrastructura locală."],
+      en: ["Located near Juba.", "Composed primarily of metamorphic rock.", "Defines the local topography.", "Accessible via local infrastructure."],
+    },
+    imageHint: "Jebel Kator hill landscape",
+  }
 ];
 

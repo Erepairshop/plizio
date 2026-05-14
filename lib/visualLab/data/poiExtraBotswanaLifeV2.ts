@@ -587,5 +587,37 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["A gaborone-nature-trail-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   }
+,
+  {
+    id: "botswana-khutse-game-reserve-life-v2",
+    type: "wildlife",
+    name: { de: "Khutse-Wildreservat", hu: "Khutse Vadvédelmi Rezervátum", ro: "Rezervația de vânătoare Khutse", en: "Khutse Game Reserve" },
+    coordinates: { lat: -23.35, lng: 24.42 },
+    description: {
+      de: "Das Khutse-Wildreservat umfasst 2.500 Quadratkilometer Kalahari-Savanne. Es wurde 1971 zum Schutz der Tierwelt und wichtiger Wasserpfannen gegründet.",
+      hu: "A Khutse Vadvédelmi Rezervátum 2500 négyzetkilométernyi Kalahári-szavannát foglal magában. 1971-ben alapították a vadvilág és a sós síkságok védelmére.",
+      ro: "Rezervația Khutse acoperă 2.500 de kilometri pătrați de savană Kalahari. Înființată în 1971, protejează fauna și depresiunile cu apă sezoniere.",
+      en: "Khutse Game Reserve covers 2,500 square kilometers of Kalahari savanna. Established in 1971, it protects wildlife and vital seasonal water pans.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1971", "Fläche von 2.500 km²", "Zahlreiche mineralhaltige Pfannen", "Vorkommen von Löwen und Giraffen"],
+      hu: ["1971-ben alapították", "Területe 2500 négyzetkilométer", "Ásványi anyagokban gazdag síkságok", "Oroszlánok és zsiráfok élőhelye"],
+      ro: ["Înființată în anul 1971", "Suprafață de 2.500 km²", "Depresiuni bogate în minerale", "Adăpostește lei și girafe"],
+      en: ["Established in 1971", "Area of 2,500 square kilometers", "Contains mineral-rich pans", "Habitat for lions and giraffes"],
+    },
+    imageHint: "Khutse Game Reserve savanna and salt pan at sunset",
+    descriptionAdvanced: {
+      de: "Das Khutse Game Reserve liegt im zentralen Kalahari-Becken und wurde 1971 als Jagdreservat eingerichtet. Es erstreckt sich über 2.500 Quadratkilometer und ist bekannt für seine vielfältige Tierwelt, darunter Giraffen, Löwen und Geparden. Die Landschaft besteht aus Akaziensavanne und Salztonebenen. Das Reservat bietet ein authentisches Kalahari-Erlebnis abseits der Massen.",
+      hu: "A Khutse Vadvédelmi Terület a központi Kalahári-medencében található, 1971-ben hozták létre. Területe 2.500 négyzetkilométer, változatos állatvilággal: zsiráfok, oroszlánok, gepárdok. A tájat akácos szavanna és sóstómedrek jellemzik. A rezervátum autentikus Kalahári-élményt kínál kevés turistával.",
+      ro: "Rezervația Naturală Khutse, situată în bazinul central al Kalahari, a fost înființată în 1971. Se întinde pe 2.500 km² și găzduiește o faună diversă: girafe, lei, gheparzi. Peisajul include savană de salcâmi și tăvălugi de sare. Oferă o experiență autentică în Kalahari, departe de aglomerație.",
+      en: "Khutse Game Reserve, established in 1971 in the central Kalahari Basin, covers 2,500 km². It is noted for its Kalahari ecosystems and wildlife including giraffe, lion, and cheetah. The reserve features acacia savanna and salt pans. It provides a remote wilderness experience with fewer visitors than more famous parks like the Central Kalahari Game Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Eingerichtet 1971", "Fläche: 2.500 km²", "Höchster Punkt: 1.100 m ü. d. M.", "Jährliche Niederschlagsmenge: 300 mm", "Anzahl der Löwen: ca. 50", "Entfernung zu Gaborone: 220 km"],
+      hu: ["1971-ben alapították", "Terület: 2.500 km²", "Legmagasabb pont: 1.100 m tszf.", "Éves csapadék: 300 mm", "Oroszlánok száma: kb. 50", "Távolság Gaborone-tól: 220 km"],
+      ro: ["Înființată în 1971", "Suprafață: 2.500 km²", "Altitudine maximă: 1.100 m", "Precipitații anuale: 300 mm", "Număr de lei: aprox. 50", "Distanță față de Gaborone: 220 km"],
+      en: ["Established in 1971", "Area: 2,500 km²", "Highest point: 1,100 m above sea level", "Annual rainfall: 300 mm", "Lion population: approximately 50", "Distance from Gaborone: 220 km"],
+    },
+  }
 ];
 

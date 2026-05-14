@@ -633,5 +633,82 @@ export const poiExtraEritreaReliefV2: POI[] = [
       en: ["The basin covers 20,000 km².", "Annual rainfall averages 300 mm.", "The Barka River is 240 km long.", "Gold reserves are estimated at 50 tons.", "Population is approximately 1.2 million.", "Barentu, the main city, has 20,000 inhabitants."],
     },
   }
+,
+  {
+    id: "eritrea-lalimba-range-relief-v2",
+    type: "mountain",
+    name: { de: "Lalimba-Gebirge", hu: "Lalimba-hegység", ro: "Munții Lalimba", en: "Lalimba Range" },
+    coordinates: { lat: 15.65, lng: 38.65 },
+    description: {
+      de: "Das Lalimba-Gebirge erstreckt sich als Teil des eritreischen Hochlandes nördlich von Asmara. Die Region zeichnet sich durch schroffe Felsformationen und tief eingeschnittene Täler aus.",
+      hu: "A Lalimba-hegység az eritreai felföld része Asmarától északra. A területet meredek sziklaképződmények és mély völgyek jellemzik.",
+      ro: "Munții Lalimba fac parte din podișul eritrean, la nord de Asmara. Regiunea se remarcă prin formațiuni stâncoase abrupte și văi adânci.",
+      en: "The Lalimba Range is part of the Eritrean highlands north of Asmara. The region is characterized by rugged rock formations and deeply incised valleys.",
+    },
+    facts: {
+      de: ["Teil des nördlichen Hochlandes", "Besteht aus vulkanischem Gestein", "Wichtige Wassereinzugsgebiete", "Höhenlagen über 2000 Meter"],
+      hu: ["Az északi felföld része", "Vulkáni kőzetekből áll", "Fontos vízgyűjtő terület", "2000 méter feletti magasság"],
+      ro: ["Parte a podișului nordic", "Compus din roci vulcanice", "Zona importantă de colectare a apei", "Altitudini peste 2000 metri"],
+      en: ["Part of the northern highlands", "Composed of volcanic rock", "Important water catchment area", "Elevations over 2000 meters"],
+    },
+    imageHint: "rugged mountain landscape in Eritrea",
+  },
+  {
+    id: "eritrea-hagar-plateau-relief-v2",
+    type: "mountain",
+    name: { de: "Hagar-Plateau", hu: "Hagar-fennsík", ro: "Podișul Hagar", en: "Hagar Plateau" },
+    coordinates: { lat: 16.12, lng: 37.95 },
+    description: {
+      de: "Das Hagar-Plateau liegt im Nordwesten Eritreas und bildet eine ausgedehnte, flache Hochebene. Es dient als wichtiges Weidegebiet für lokale Viehherden.",
+      hu: "A Hagar-fennsík Eritrea északnyugati részén található, és kiterjedt, lapos fennsíkot alkot. Fontos legelőterületként szolgál a helyi állatállomány számára.",
+      ro: "Podișul Hagar este situat în nord-vestul Eritreii și formează un platou vast și plat. Acesta servește drept zonă importantă de pășunat pentru turmele locale.",
+      en: "The Hagar Plateau is located in northwestern Eritrea and forms an extensive, flat highland area. It serves as an important grazing area for local livestock.",
+    },
+    facts: {
+      de: ["Liegt im Nordwesten", "Trockenes Klima", "Wichtige Weideregion", "Flaches Relief"],
+      hu: ["Északnyugaton fekszik", "Száraz éghajlat", "Fontos legelőterület", "Sík domborzat"],
+      ro: ["Situat în nord-vest", "Climat arid", "Regiune importantă de pășunat", "Relief plat"],
+      en: ["Located in the northwest", "Arid climate", "Important grazing region", "Flat terrain"],
+    },
+    imageHint: "arid highland plateau in Eritrea",
+  },
+  {
+    id: "eritrea-dambala-lowlands-relief-v2",
+    type: "valley",
+    name: { de: "Dambala-Tiefland", hu: "Dambala-alföld", ro: "Câmpia Dambala", en: "Dambala Lowlands" },
+    coordinates: { lat: 14.85, lng: 37.55 },
+    description: {
+      de: "Die Dambala-Tieflandgebiete erstrecken sich entlang der westlichen Grenze Eritreas. Dieses Gebiet wird von saisonalen Wasserläufen durchzogen, die in den Gash-Fluss münden.",
+      hu: "A Dambala-alföld Eritrea nyugati határa mentén húzódik. Ezt a területet időszakos vízfolyások szelik át, amelyek a Gash-folyóba torkollnak.",
+      ro: "Câmpiile Dambala se întind de-a lungul graniței de vest a Eritreii. Această zonă este traversată de cursuri de apă sezoniere care se varsă în râul Gash.",
+      en: "The Dambala Lowlands extend along the western border of Eritrea. This area is crossed by seasonal watercourses that drain into the Gash River.",
+    },
+    facts: {
+      de: ["Westgrenze Eritreas", "Saisonale Niederschläge", "Zufluss zum Gash-Fluss", "Sedimentboden"],
+      hu: ["Eritrea nyugati határa", "Időszakos csapadék", "A Gash-folyó mellékfolyója", "Üledékes talaj"],
+      ro: ["Granița de vest a Eritreii", "Precipitații sezoniere", "Afluent al râului Gash", "Sol sedimentar"],
+      en: ["Western border of Eritrea", "Seasonal rainfall", "Tributary of the Gash River", "Sedimentary soil"],
+    },
+    imageHint: "flat lowland landscape with dry riverbeds",
+  },
+  {
+    id: "eritrea-adi-nefas-highland-relief-v2",
+    type: "mountain",
+    name: { de: "Adi-Nefas-Hochland", hu: "Adi-Nefas-felföld", ro: "Podișul Adi-Nefas", en: "Adi Nefas Highland" },
+    coordinates: { lat: 15.42, lng: 38.92 },
+    description: {
+      de: "Das Adi-Nefas-Hochland liegt nahe der Hauptstadt Asmara und ist Teil der zentralen Gebirgskette. Die Topographie ist geprägt von sanften Hügeln und landwirtschaftlich genutzten Flächen.",
+      hu: "Az Adi-Nefas-felföld Asmara közelében található, a központi hegylánc része. A domborzatot lankás dombok és mezőgazdasági művelés alatt álló területek jellemzik.",
+      ro: "Podișul Adi-Nefas este situat în apropierea capitalei Asmara și face parte din lanțul muntos central. Topografia este marcată de dealuri domoale și zone agricole.",
+      en: "The Adi Nefas Highland is located near the capital Asmara and is part of the central mountain range. The topography is characterized by rolling hills and agricultural land.",
+    },
+    facts: {
+      de: ["Zentrales Hochland", "Landwirtschaftliche Nutzung", "Sanftes Relief", "Nahe der Hauptstadt"],
+      hu: ["Központi felföld", "Mezőgazdasági művelés", "Lankás domborzat", "A főváros közelében"],
+      ro: ["Podiș central", "Utilizare agricolă", "Relief domol", "Aproape de capitală"],
+      en: ["Central highlands", "Agricultural use", "Rolling terrain", "Near the capital"],
+    },
+    imageHint: "rolling highland landscape near Asmara",
+  }
 ];
 

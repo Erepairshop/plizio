@@ -838,5 +838,63 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: ["Named after its jagged, iron-like coral limestone rocks.", "Features the longest stretch of undeveloped beach in the southeast.", "Home to thriving marine biodiversity and healthy reefs.", "Slated for future large-scale sustainable tourism development.", "Climate is notably drier than in the nearby highlands.", "Renowned for its heritage of traditional artisanal boat building."]
     }
   }
+,
+  {
+    id: "haiti-morne-cabaio-relief-v2",
+    type: "peak",
+    name: { de: "Morne Cabaio", hu: "Morne Cabaio", ro: "Morne Cabaio", en: "Morne Cabaio" },
+    coordinates: { lat: 18.3375, lng: -72.2478 },
+    description: {
+      de: "Morne Cabaio ist ein markanter Berggipfel im Massif de la Selle in Haiti. Er erhebt sich über das umliegende Hochland südöstlich der Hauptstadt.",
+      hu: "A Morne Cabaio egy jelentős hegycsúcs Haiti Massif de la Selle hegységében. A fővárostól délkeletre emelkedik a környező felföld fölé.",
+      ro: "Morne Cabaio este un vârf muntos proeminent situat în masivul muntos Massif de la Selle din Haiti. Acesta se ridică deasupra platoului înconjurător la sud-est de capitală.",
+      en: "Morne Cabaio is a prominent mountain peak located in the Massif de la Selle range in Haiti. It rises above the surrounding highlands southeast of the capital.",
+    },
+    facts: {
+      de: ["Höhe ca. 2270 Meter", "Teil des Massif de la Selle", "Region Ouest", "Gebirgsklima"],
+      hu: ["Magassága kb. 2270 méter", "A Massif de la Selle része", "Ouest régió", "Hegyi éghajlat"],
+      ro: ["Altitudine cca. 2270 metri", "Parte a masivului Massif de la Selle", "Regiunea Ouest", "Climat montan"],
+      en: ["Elevation approx. 2270 meters", "Part of the Massif de la Selle", "Ouest region", "Mountain climate"],
+    },
+    imageHint: "mountain peak in Haiti Massif de la Selle",
+  },
+  {
+    id: "haiti-plateau-du-nord-relief-v2",
+    type: "valley",
+    name: { de: "Plateau du Nord", hu: "Plateau du Nord", ro: "Plateau du Nord", en: "Plateau du Nord" },
+    coordinates: { lat: 19.65, lng: -72.1667 },
+    description: {
+      de: "Das Plateau du Nord ist eine ausgedehnte Hochebene im nördlichen Teil von Haiti. Es bildet eine geographische Grenze zwischen verschiedenen Gebirgszügen.",
+      hu: "A Plateau du Nord egy kiterjedt fennsík Haiti északi részén. Földrajzi határt képez a különböző hegyláncok között.",
+      ro: "Plateau du Nord este un platou extins situat în partea de nord a statului Haiti. Acesta formează o barieră geografică între diverse lanțuri muntoase.",
+      en: "Plateau du Nord is an extensive plateau located in the northern part of Haiti. It forms a geographical boundary between various mountain ranges.",
+    },
+    facts: {
+      de: ["Nördliche Region", "Geographische Hochebene", "Agrarregion", "Mittelhöhe"],
+      hu: ["Északi régió", "Földrajzi fennsík", "Mezőgazdasági terület", "Közepes tengerszint feletti magasság"],
+      ro: ["Regiunea de nord", "Platou geografic", "Regiune agricolă", "Altitudine medie"],
+      en: ["Northern region", "Geographical plateau", "Agricultural region", "Medium elevation"],
+    },
+    imageHint: "rolling landscape of northern Haiti plateau",
+  },
+  {
+    id: "haiti-morne-du-chapelet-relief-v2",
+    type: "mountain",
+    name: { de: "Morne du Chapelet", hu: "Morne du Chapelet", ro: "Morne du Chapelet", en: "Morne du Chapelet" },
+    coordinates: { lat: 18.5167, lng: -72.0167 },
+    description: {
+      de: "Morne du Chapelet ist eine Bergformation im Südosten von Haiti. Sie gehört zum komplexen Relief der karibischen Insel Hispaniola.",
+      hu: "A Morne du Chapelet egy hegyképződmény Haiti délkeleti részén. Hispaniola szigetének összetett domborzatához tartozik.",
+      ro: "Morne du Chapelet este o formațiune muntoasă situată în sud-estul statului Haiti. Aceasta aparține reliefului complex al insulei Hispaniola.",
+      en: "Morne du Chapelet is a mountain formation located in the southeast of Haiti. It belongs to the complex relief of the Caribbean island of Hispaniola.",
+    },
+    facts: {
+      de: ["Südöstliche Bergkette", "Hispaniola Geologie", "Kalksteingebirge", "Natürliche Barriere"],
+      hu: ["Délkeleti hegyvonulat", "Hispaniola geológiája", "Mészkőhegység", "Természetes akadály"],
+      ro: ["Lanț muntos sud-estic", "Geologia insulei Hispaniola", "Munți de calcar", "Barieră naturală"],
+      en: ["Southeastern mountain range", "Hispaniola geology", "Limestone mountains", "Natural barrier"],
+    },
+    imageHint: "mountainous terrain in southeastern Haiti",
+  }
 ];
 

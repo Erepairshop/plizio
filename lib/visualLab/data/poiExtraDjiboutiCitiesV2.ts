@@ -1425,5 +1425,139 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       en: ["Important base for drone operations", "Located in the middle of the desert", "Strictly guarded infrastructure"]
     }
   }
+,
+  {
+    id: "djibouti-doudah-cities-v2",
+    type: "city",
+    name: { de: "Doudah", hu: "Doudah", ro: "Doudah", en: "Doudah" },
+    coordinates: { lat: 11.5333, lng: 43.15 },
+    description: {
+      de: "Doudah ist eine Siedlung an der Küste südlich von Dschibuti-Stadt. Sie dient als wichtiger lokaler Knotenpunkt für die umliegende Küstenregion.",
+      hu: "Doudah egy település a part mentén, Dzsibuti várostól délre. Fontos helyi csomópontként szolgál a környező tengerparti régió számára.",
+      ro: "Doudah este o așezare pe coastă, la sud de orașul Djibouti. Acționează ca un nod local important pentru regiunea de coastă înconjurătoare.",
+      en: "Doudah is a settlement on the coast south of Djibouti City. It serves as an important local hub for the surrounding coastal region.",
+    },
+    facts: {
+      de: ["Küstennahe Siedlung", "Südlich der Hauptstadt", "Wichtiger lokaler Knoten", "Fischerei als Erwerb"],
+      hu: ["Tengerparti település", "A fővárostól délre", "Fontos helyi csomópont", "Halászat mint megélhetés"],
+      ro: ["Așezare de coastă", "La sud de capitală", "Nod local important", "Pescuitul ca mijloc de trai"],
+      en: ["Coastal settlement", "South of the capital", "Important local hub", "Fishing as livelihood"],
+    },
+    imageHint: "coastal village scenery Doudah",
+  },
+  {
+    id: "djibouti-yoboki-village-cities-v2",
+    type: "village",
+    name: { de: "Yoboki Village", hu: "Yoboki Village", ro: "Yoboki Village", en: "Yoboki Village" },
+    coordinates: { lat: 11.4833, lng: 42.0667 },
+    description: {
+      de: "Yoboki Village ist eine abgelegene Siedlung im Landesinneren. Sie dient hauptsächlich als Anlaufstelle für lokale Hirten.",
+      hu: "Yoboki Village egy távoli település az ország belsejében. Főként a helyi pásztorok találkozóhelyeként szolgál.",
+      ro: "Yoboki Village este o așezare izolată în interiorul țării. Servește în principal ca punct de întâlnire pentru păstorii locali.",
+      en: "Yoboki Village is a remote settlement in the interior of the country. It primarily serves as a meeting point for local herders.",
+    },
+    facts: {
+      de: ["Abgelegene Lage", "Landesinneres", "Hirtentradition", "Kleine Siedlung"],
+      hu: ["Távoli elhelyezkedés", "Ország belseje", "Pásztor hagyományok", "Kis település"],
+      ro: ["Locație izolată", "Interiorul țării", "Tradiții pastorale", "Așezare mică"],
+      en: ["Remote location", "Inland", "Herding traditions", "Small settlement"],
+    },
+    imageHint: "remote desert village Yoboki",
+  },
+  {
+    id: "djibouti-dorra-settlement-cities-v2",
+    type: "village",
+    name: { de: "Dorra Settlement", hu: "Dorra Settlement", ro: "Dorra Settlement", en: "Dorra Settlement" },
+    coordinates: { lat: 12.1167, lng: 42.45 },
+    description: {
+      de: "Dorra Settlement befindet sich im Norden von Dschibuti. Der Ort liegt in einer gebirgigen Region und wird landwirtschaftlich genutzt.",
+      hu: "Dorra Settlement Dzsibuti északi részén található. A település egy hegyvidéki régióban fekszik, és mezőgazdasági terület.",
+      ro: "Dorra Settlement este situată în nordul Djibouti. Localitatea se află într-o regiune muntoasă și este utilizată pentru agricultură.",
+      en: "Dorra Settlement is located in the north of Djibouti. The town lies in a mountainous region and is used for agriculture.",
+    },
+    facts: {
+      de: ["Nord-Dschibuti", "Gebirgsregion", "Landwirtschaftlicher Fokus", "Ländliche Entwicklung"],
+      hu: ["Észak-Dzsibuti", "Hegyvidék", "Mezőgazdasági fókusz", "Vidéki fejlődés"],
+      ro: ["Nordul Djibouti", "Regiune muntoasă", "Focus agricol", "Dezvoltare rurală"],
+      en: ["North Djibouti", "Mountainous region", "Agricultural focus", "Rural development"],
+    },
+    imageHint: "mountainous area in northern Djibouti",
+  },
+  {
+    id: "djibouti-galafi-town-cities-v2",
+    type: "city",
+    name: { de: "Galafi Town", hu: "Galafi Town", ro: "Galafi Town", en: "Galafi Town" },
+    coordinates: { lat: 11.7833, lng: 41.8333 },
+    description: {
+      de: "Galafi Town liegt an der Grenze zu Äthiopien. Es ist ein wichtiger Grenzpunkt für den Warenverkehr zwischen beiden Ländern.",
+      hu: "Galafi Town az etióp határ mentén fekszik. Fontos határátkelőhely a két ország közötti áruforgalom számára.",
+      ro: "Galafi Town este situat la granița cu Etiopia. Este un punct de trecere important pentru traficul de mărfuri între cele două țări.",
+      en: "Galafi Town is located on the border with Ethiopia. It is an important border crossing point for the flow of goods between the two countries.",
+    },
+    facts: {
+      de: ["Grenzort Äthiopien", "Warenverkehrszentrum", "Transitpunkt", "Hohes Verkehrsaufkommen"],
+      hu: ["Etióp határváros", "Áruforgalmi központ", "Tranzitpont", "Nagy forgalom"],
+      ro: ["Oraș de graniță Etiopia", "Centru comercial", "Punct de tranzit", "Trafic ridicat"],
+      en: ["Ethiopian border town", "Trade center", "Transit point", "High traffic volume"],
+    },
+    imageHint: "border crossing station Galafi",
+  },
+  {
+    id: "djibouti-arta-settlement-cities-v2",
+    type: "city",
+    name: { de: "Arta Settlement", hu: "Arta Settlement", ro: "Arta Settlement", en: "Arta Settlement" },
+    coordinates: { lat: 11.5167, lng: 42.85 },
+    description: {
+      de: "Arta Settlement liegt auf einem Hochplateau. Die Region ist für ihr angenehmeres Klima im Vergleich zu den tiefer gelegenen Gebieten bekannt.",
+      hu: "Arta Settlement egy fennsíkon fekszik. A régió az alacsonyabban fekvő területekhez képest kellemesebb éghajlatáról ismert.",
+      ro: "Arta Settlement este situată pe un platou înalt. Regiunea este cunoscută pentru climatul său mai plăcut comparativ cu zonele joase.",
+      en: "Arta Settlement is situated on a high plateau. The region is known for its milder climate compared to lower-lying areas.",
+    },
+    facts: {
+      de: ["Hochplateau", "Milderes Klima", "Höhenlage", "Regionaler Rückzugsort"],
+      hu: ["Fennsík", "Enyhébb éghajlat", "Magaslati fekvés", "Regionális menedékhely"],
+      ro: ["Platou înalt", "Climat mai blând", "Altitudine", "Refugiu regional"],
+      en: ["High plateau", "Milder climate", "High altitude", "Regional retreat"],
+    },
+    imageHint: "highland plateau landscape Arta",
+  },
+  {
+    id: "djibouti-balho-settlement-cities-v2",
+    type: "village",
+    name: { de: "Balho Settlement", hu: "Balho Settlement", ro: "Balho Settlement", en: "Balho Settlement" },
+    coordinates: { lat: 12.0667, lng: 42.1833 },
+    description: {
+      de: "Balho Settlement liegt im nordwestlichen Teil von Dschibuti. Es ist eine ländliche Gemeinde mit Fokus auf Subsistenzwirtschaft.",
+      hu: "Balho Settlement Dzsibuti északnyugati részén található. Ez egy vidéki közösség, amely az önellátó gazdálkodásra összpontosít.",
+      ro: "Balho Settlement este situată în partea de nord-vest a Djibouti. Este o comunitate rurală axată pe agricultura de subzistență.",
+      en: "Balho Settlement is located in the northwestern part of Djibouti. It is a rural community focused on subsistence farming.",
+    },
+    facts: {
+      de: ["Nordwest-Region", "Ländliche Gemeinde", "Subsistenzwirtschaft", "Abgelegene Lage"],
+      hu: ["Északnyugati régió", "Vidéki közösség", "Önellátó gazdálkodás", "Távoli fekvés"],
+      ro: ["Regiunea nord-vest", "Comunitate rurală", "Agricultură de subzistență", "Locație izolată"],
+      en: ["Northwest region", "Rural community", "Subsistence farming", "Remote location"],
+    },
+    imageHint: "rural village in Balho",
+  },
+  {
+    id: "djibouti-randa-settlement-cities-v2",
+    type: "city",
+    name: { de: "Randa Settlement", hu: "Randa Settlement", ro: "Randa Settlement", en: "Randa Settlement" },
+    coordinates: { lat: 11.8333, lng: 42.6667 },
+    description: {
+      de: "Randa Settlement liegt in den Gebirgszügen nahe der Tadjourah-Region. Die Gegend ist für ihre Wasserquellen und Gärten geschätzt.",
+      hu: "Randa Settlement a Tadjourah régió közelében fekvő hegyláncokban található. A környék a vízforrásairól és kertjeiről ismert.",
+      ro: "Randa Settlement se află în munții din apropierea regiunii Tadjourah. Zona este apreciată pentru izvoarele sale de apă și grădini.",
+      en: "Randa Settlement is located in the mountain ranges near the Tadjourah region. The area is valued for its water sources and gardens.",
+    },
+    facts: {
+      de: ["Gebirgsnähe", "Wasserquellen", "Gartenbau", "Kühle Höhenlage"],
+      hu: ["Hegységek közelsége", "Vízforrások", "Kertészet", "Hűvös magaslat"],
+      ro: ["Aproape de munți", "Izvoare de apă", "Grădinărit", "Altitudine răcoroasă"],
+      en: ["Near mountains", "Water sources", "Gardening", "Cool high altitude"],
+    },
+    imageHint: "mountain landscape with vegetation Randa",
+  }
 ];
 

@@ -721,4 +721,62 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       en: ["Laterite soils with iron content up to 30%", "Area: approximately 50 km²", "Elevation: 300–500 m above sea level", "Annual rainfall: 2,000–3,000 mm", "Known for diamond deposits since the 1930s", "Average temperature: 26°C"],
     },
   }
+,
+  {
+    id: "seychelles-mont-lockyer-relief-v2",
+    type: "peak",
+    name: { de: "Mont Lockyer", hu: "Mont Lockyer", ro: "Mont Lockyer", en: "Mont Lockyer" },
+    coordinates: { lat: -4.485, lng: 55.242 },
+    description: {
+      de: "Mont Lockyer ist mit 455 Metern der zweithöchste Gipfel der Insel Silhouette. Er ist Teil des zentralen Granitgebirges dieser Insel.",
+      hu: "A Mont Lockyer a Silhouette-sziget második legmagasabb csúcsa 455 méteres magassággal. A sziget központi gránit hegyláncához tartozik.",
+      ro: "Mont Lockyer este al doilea vârf ca înălțime de pe insula Silhouette, având 455 metri. Face parte din lanțul muntos central de granit.",
+      en: "Mont Lockyer is the second highest peak on Silhouette Island at 455 meters. It belongs to the island's central granitic mountain range.",
+    },
+    facts: {
+      de: ["Höhe von 455 Metern", "Zweithöchster Punkt Silhouettes", "Granitische Gesteinsformation", "Dichte tropische Vegetation"],
+      hu: ["455 méteres tengerszint feletti magasság", "A Silhouette-sziget második legmagasabb pontja", "Gránit kőzetfelépítés", "Sűrű trópusi erdő borítja"],
+      ro: ["Altitudine de 455 metri", "Al doilea cel mai înalt punct de pe Silhouette", "Formațiune geologică de granit", "Acoperit de vegetație tropicală densă"],
+      en: ["Elevation of 455 meters", "Second highest point on Silhouette Island", "Granitic rock formation", "Covered by dense tropical forest"],
+    },
+    imageHint: "Aerial view of Mont Lockyer peak on Silhouette Island",
+  },
+  {
+    id: "seychelles-mont-gratitude-relief-v2",
+    type: "peak",
+    name: { de: "Mont Gratitude", hu: "Mont Gratitude", ro: "Mont Gratitude", en: "Mont Gratitude" },
+    coordinates: { lat: -4.695, lng: 55.482 },
+    description: {
+      de: "Mont Gratitude ist eine Erhebung im Südosten von Mahé mit etwa 250 Metern Höhe. Er erhebt sich über dem Küstengebiet des Anse Royale Distrikts.",
+      hu: "A Mont Gratitude egy magaslat Mahé délkeleti részén, körülbelül 250 méteres magasságban. Az Anse Royale körzet partmenti területei felett áll.",
+      ro: "Mont Gratitude este o colină în sud-estul insulei Mahé, la aproximativ 250 metri înălțime. Se ridică deasupra zonei de coastă Anse Royale.",
+      en: "Mont Gratitude is an elevation in southeastern Mahé at about 250 meters height. It rises above the coastal area of the Anse Royale district.",
+    },
+    facts: {
+      de: ["Höhe von ca. 250 Metern", "Lage im Südosten von Mahé", "Blick auf die Bucht Anse Royale", "Teil des südlichen Bergmassivs"],
+      hu: ["Kb. 250 méteres magasság", "Mahé délkeleti részén található", "Az Anse Royale-öbölre néz", "A déli hegységrendszer része"],
+      ro: ["Altitudine de aproximativ 250 metri", "Situat în sud-estul insulei Mahé", "Vedere spre golful Anse Royale", "Parte a masivului muntos sudic"],
+      en: ["Approximate elevation of 250 meters", "Located in southeastern Mahé", "Overlooks the Anse Royale bay", "Part of the southern mountain range"],
+    },
+    imageHint: "Green hill slopes of Mont Gratitude in Mahé",
+  },
+  {
+    id: "seychelles-casse-dent-relief-v2",
+    type: "peak",
+    name: { de: "Casse Dent", hu: "Casse Dent", ro: "Casse Dent", en: "Casse Dent" },
+    coordinates: { lat: -4.662, lng: 55.445 },
+    description: {
+      de: "Casse Dent ist ein Berggipfel im zentralen Hochland der Insel Mahé. Er erreicht eine Höhe von über 600 Metern über dem Meeresspiegel.",
+      hu: "A Casse Dent egy hegycsúcs Mahé szigetének központi felföldjén. Magassága meghaladja a 600 métert a tengerszint felett.",
+      ro: "Casse Dent este un vârf muntos situat în zonele înalte centrale ale insulei Mahé. Atinge o altitudine de peste 600 de metri peste nivelul mării.",
+      en: "Casse Dent is a mountain peak situated in the central highlands of Mahé Island. It reaches an elevation of over 600 meters above sea level.",
+    },
+    facts: {
+      de: ["Höhe über 600 Meter", "Im Morne Seychellois Nationalpark", "Zentrales Granitmassiv von Mahé", "Steile und zerklüftete Hänge"],
+      hu: ["600 méter feletti magasság", "A Morne Seychellois Nemzeti Parkban", "Mahé központi gránitmasszívuma", "Meredek és sziklás lejtők"],
+      ro: ["Înălțime de peste 600 metri", "În Parcul Național Morne Seychellois", "Masivul muntos central din Mahé", "Versanți abrupți și stâncoși"],
+      en: ["Elevation exceeding 600 meters", "Inside Morne Seychellois National Park", "Central granite massif of Mahé", "Steep and rugged slopes"],
+    },
+    imageHint: "Mountain ridge of Casse Dent in Mahé tropical forest",
+  }
 ];

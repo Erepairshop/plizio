@@ -541,4 +541,81 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       en: ["Height: 1,500 meters (4,921 feet).", "Located 100 kilometers southwest of Tabuk.", "Rock art dates to the 3rd millennium BCE.", "Harrat al-Uwayrid volcanic field covers 12,000 km².", "Annual rainfall is less than 50 mm (2 inches).", "Granite formations are about 500 million years old."],
     },
   }
+,
+  {
+    id: "saudiarabia-wadi-al-disah-nature-v2",
+    type: "valley",
+    name: { de: "Wadi Al-Disah", hu: "Wadi Al-Disah", ro: "Wadi Al-Disah", en: "Wadi Al-Disah" },
+    coordinates: { lat: 27.595, lng: 36.438 },
+    description: {
+      de: "Ein spektakuläres Tal in der Provinz Tabuk, bekannt für seine massiven roten Sandsteinsäulen. Es liegt auf 400 Metern Höhe und beherbergt ganzjährige Wasserquellen.",
+      hu: "Látványos völgy Tabuk tartományban, amely vörös homokkő oszlopairól ismert. 400 méteres tengerszint feletti magasságban fekszik, és állandó vízforrásokkal rendelkezik.",
+      ro: "O vale spectaculoasă din provincia Tabuk, cunoscută pentru coloanele sale masive de gresie roșie. Situată la 400 de metri altitudine, adăpostește izvoare permanente.",
+      en: "A spectacular valley in the Tabuk province known for its massive red sandstone pillars. It sits at 400 meters above sea level and features year-round water springs.",
+    },
+    facts: {
+      de: ["Länge von ca. 15 Kilometern", "Rote Sandsteinformationen", "Natürliche Süßwasserquellen", "Nabatäische Ruinen in der Nähe"],
+      hu: ["Körülbelül 15 kilométer hosszú", "Vörös homokkő képződmények", "Természetes édesvízforrások", "Nabateus romok a közelben"],
+      ro: ["Lungime de aproximativ 15 km", "Formațiuni de gresie roșie", "Izvoare naturale de apă dulce", "Ruine nabateene în apropiere"],
+      en: ["Length of approximately 15 km", "Red sandstone formations", "Natural freshwater springs", "Nabataean ruins nearby"],
+    },
+    imageHint: "Wadi Al-Disah red sandstone canyon with palm trees",
+  },
+  {
+    id: "saudiarabia-wadi-lajab-nature-v2",
+    type: "valley",
+    name: { de: "Wadi Lajab", hu: "Wadi Lajab", ro: "Wadi Lajab", en: "Wadi Lajab" },
+    coordinates: { lat: 17.592, lng: 42.924 },
+    description: {
+      de: "Eine schmale Schlucht in der Provinz Jizan, die zwischen zwei hohen Bergen liegt. Sie ist bekannt für ihre hängenden Gärten und den permanenten Wasserfluss.",
+      hu: "Egy szűk szurdok Jizan tartományban, amely két magas hegy között húzódik. Függőkertjeiről és az állandó vízfolyásáról nevezetes.",
+      ro: "Un defileu îngust în provincia Jizan, situat între doi munți înalți. Este renumit pentru grădinile sale suspendate și cursul de apă permanent.",
+      en: "A narrow canyon in the Jizan province located between two high mountains. It is famous for its hanging gardens and permanent water flow.",
+    },
+    facts: {
+      de: ["Felswände bis 300 Meter hoch", "Etwa 11 Kilometer Gesamtlänge", "Teil des Tihama-Gebirges", "Süßwasserfische im Bachlauf"],
+      hu: ["300 méter magas sziklafalak", "Kb. 11 kilométeres hosszúság", "A Tihama-hegység része", "Édesvízi halak a patakban"],
+      ro: ["Pereți de stâncă de 300 m", "Lungime de circa 11 kilometri", "Parte din munții Tihama", "Pești de apă dulce în pârâu"],
+      en: ["Cliffs up to 300 meters high", "About 11 kilometers in length", "Part of the Tihama mountains", "Freshwater fish in the stream"],
+    },
+    imageHint: "Wadi Lajab narrow canyon with hanging greenery",
+  },
+  {
+    id: "saudiarabia-jabal-ibrahim-nature-v2",
+    type: "peak",
+    name: { de: "Jabal Ibrahim", hu: "Jabal Ibrahim", ro: "Jabal Ibrahim", en: "Jabal Ibrahim" },
+    coordinates: { lat: 20.418, lng: 41.151 },
+    description: {
+      de: "Ein markanter Granitgipfel im Sarawat-Gebirge, auch als Mount Hebeish bekannt. Er erreicht eine Höhe von 2.222 Metern und liegt in der Region Al Bahah.",
+      hu: "Jellegzetes gránitcsúcs a Sarawat-hegységben, más néven Hebeish-hegy. 2222 méteres magasságot ér el, és Al Bahah régióban található.",
+      ro: "Un vârf de granit distinctiv în munții Sarawat, cunoscut și sub numele de Muntele Hebeish. Atinge o înălțime de 2.222 de metri în regiunea Al Bahah.",
+      en: "A distinctive granite peak in the Sarawat Mountains, also known as Mount Hebeish. It reaches an elevation of 2,222 meters in the Al Bahah region.",
+    },
+    facts: {
+      de: ["Höhe von 2.222 Metern", "Besteht aus weißem Granit", "In der Provinz Al Bahah", "Heimat des seltenen Wacholders"],
+      hu: ["2222 méteres magasság", "Fehér gránitból épül fel", "Al Bahah tartományban van", "Ritka borókafenyők hazája"],
+      ro: ["Înălțime de 2.222 de metri", "Format din granit alb", "În provincia Al Bahah", "Habitat pentru ienupăr rar"],
+      en: ["Elevation of 2,222 meters", "Composed of white granite", "Located in Al Bahah province", "Home to rare juniper trees"],
+    },
+    imageHint: "Jabal Ibrahim granite mountain peak Al Bahah",
+  },
+  {
+    id: "saudiarabia-wadi-tayyib-al-ism-nature-v2",
+    type: "valley",
+    name: { de: "Wadi Tayyib al-Ism", hu: "Wadi Tayyib al-Ism", ro: "Wadi Tayyib al-Ism", en: "Wadi Tayyib al-Ism" },
+    coordinates: { lat: 28.566, lng: 34.808 },
+    description: {
+      de: "Ein Küstental am Golf von Akaba, in dem Granitfelsen direkt auf das Rote Meer treffen. Es beherbergt einen kleinen Bach und zahlreiche Palmenhaine.",
+      hu: "Partmenti völgy az Akabai-öbölnél, ahol a gránitsziklák közvetlenül a Vörös-tengerrel találkoznak. Egy kis pataknak és pálmaligeteknek ad otthont.",
+      ro: "O vale de coastă la Golful Aqaba, unde stâncile de granit întâlnesc direct Marea Roșie. Găzduiește un mic pârâu și numeroase livezi de palmiere.",
+      en: "A coastal valley on the Gulf of Aqaba where granite cliffs meet the Red Sea directly. It houses a small stream and numerous palm groves.",
+    },
+    facts: {
+      de: ["Am Golf von Akaba gelegen", "Hohe Granitfelswände", "Ganzjährig fließender Bach", "In der Nähe von Maqna"],
+      hu: ["Az Akabai-öböl partján", "Magas gránit sziklafalak", "Egész évben folyó patak", "Maqna városa közelében"],
+      ro: ["Situat pe malul Golfului Aqaba", "Pereți înalți de granit", "Pârâu cu debit permanent", "Localizat lângă Maqna"],
+      en: ["Located on the Gulf of Aqaba", "High granite rock walls", "Year-round flowing stream", "Located near Maqna"],
+    },
+    imageHint: "Wadi Tayyib al-Ism granite cliffs meeting the sea",
+  }
 ];

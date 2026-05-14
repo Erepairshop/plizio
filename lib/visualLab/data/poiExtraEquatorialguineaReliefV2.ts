@@ -722,5 +722,63 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       en: ["A prominent mountain rising from the flat Litoral coastal plain.", "Located near the Atlantic coast in the vicinity of Bata.", "Offers spectacular panoramic views of the ocean and coast.", "A significant landmark for regional and coastal navigation.", "Maintains a vital forest habitat near major urban zones.", "Features steep terrain that has limited human encroachment.", "A symbol of the diverse topography of the mainland coast."]
     }
   }
+,
+  {
+    id: "equatorialguinea-rio-campo-becken-relief-v2",
+    type: "valley",
+    name: { de: "Río Campo Becken", hu: "Río Campo-medence", ro: "Bazinul Río Campo", en: "Río Campo Basin" },
+    coordinates: { lat: 2.228, lng: 9.756 },
+    description: {
+      de: "Das Río Campo Becken umfasst das Tiefland entlang des Grenzflusses zu Kamerun. Es zeichnet sich durch feuchte Schwemmlandböden und dichte tropische Vegetation aus.",
+      hu: "A Río Campo-medence a Kamerunnal határos folyó menti alföldet foglalja magában. Nedves hordalékos talaj és sűrű trópusi növényzet jellemzi.",
+      ro: "Bazinul Río Campo cuprinde zona de câmpie de-a lungul râului de frontieră cu Camerun. Se caracterizează prin soluri aluvionare umede și vegetație tropicală densă.",
+      en: "The Río Campo Basin covers the lowlands along the border river with Cameroon. It is characterized by moist alluvial soils and dense tropical vegetation.",
+    },
+    facts: {
+      de: ["Flussbecken an der Grenze", "Schwemmland-Topographie", "Tropische Feuchtgebiete", "Geringe Geländehöhe"],
+      hu: ["Határmenti folyómedence", "Hordalékos topográfia", "Trópusi vizes élőhelyek", "Alacsony tengerszint feletti magasság"],
+      ro: ["Bazin fluvial de frontieră", "Topografie aluvionară", "Zone umede tropicale", "Altitudine joasă"],
+      en: ["Border river basin", "Alluvial topography", "Tropical wetlands", "Low elevation"],
+    },
+    imageHint: "tropical river landscape aerial view",
+  },
+  {
+    id: "equatorialguinea-monte-o-relief-v2",
+    type: "mountain",
+    name: { de: "Monte O", hu: "Monte O", ro: "Monte O", en: "Monte O" },
+    coordinates: { lat: 1.765, lng: 10.432 },
+    description: {
+      de: "Der Monte O ist eine markante Erhebung im zentralen Bergland von Río Muni. Er besteht aus präkambrischem Grundgebirge mit steilen Hängen.",
+      hu: "A Monte O a Río Muni központi hegyvidékének kiemelkedő része. Prekambriumi alapzatból áll, meredek lejtők jellemzik.",
+      ro: "Monte O este o elevație proeminentă în regiunea muntoasă centrală din Río Muni. Este alcătuit din fundament precambrian cu pante abrupte.",
+      en: "Monte O is a prominent elevation in the central highlands of Río Muni. It consists of Precambrian basement rock with steep slopes.",
+    },
+    facts: {
+      de: ["Zentrales Bergland", "Präkambrisches Gestein", "Steile Hangneigung", "Regionale Erhebung"],
+      hu: ["Központi hegyvidék", "Prekambriumi kőzet", "Meredek lejtő", "Regionális kiemelkedés"],
+      ro: ["Regiune muntoasă centrală", "Rocă precambriană", "Pantă abruptă", "Elevație regională"],
+      en: ["Central highlands", "Precambrian rock", "Steep slope", "Regional elevation"],
+    },
+    imageHint: "forested mountain peak in central Africa",
+  },
+  {
+    id: "equatorialguinea-ebeyin-plateau-relief-v2",
+    type: "mountain",
+    name: { de: "Ebeyin-Plateau", hu: "Ebeyin-fennsík", ro: "Podișul Ebeyin", en: "Ebeyin Plateau" },
+    coordinates: { lat: 2.215, lng: 11.238 },
+    description: {
+      de: "Das Ebeyin-Plateau erstreckt sich nahe der nördlichen Landesgrenze. Es handelt sich um ein leicht gewelltes Hochland mit lateritischen Böden.",
+      hu: "Az Ebeyin-fennsík az északi országhatár közelében terül el. Enyhén hullámos felföld, laterites talajjal borítva.",
+      ro: "Podișul Ebeyin se întinde în apropierea frontierei de nord a țării. Este un ținut înalt ușor ondulat, acoperit cu soluri lateritice.",
+      en: "The Ebeyin Plateau extends near the northern national border. It is a gently undulating highland covered with lateritic soils.",
+    },
+    facts: {
+      de: ["Nördliches Hochland", "Lateritische Böden", "Leicht gewelltes Gelände", "Geologische Einheit"],
+      hu: ["Északi felföld", "Laterites talaj", "Enyhén hullámos terep", "Geológiai egység"],
+      ro: ["Podiș nordic", "Soluri lateritice", "Teren ușor ondulat", "Unitate geologică"],
+      en: ["Northern highland", "Lateritic soils", "Gently undulating terrain", "Geological unit"],
+    },
+    imageHint: "undulating plateau landscape with savanna vegetation",
+  }
 ];
 

@@ -739,5 +739,25 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       en: []
     }
   }
+,
+  {
+    id: "costarica-parque-empresarial-forum-economic-v2",
+    type: "industry",
+    name: { de: "Parque Empresarial Forum", hu: "Parque Empresarial Forum", ro: "Parque Empresarial Forum", en: "Parque Empresarial Forum" },
+    coordinates: { lat: 9.9481, lng: -84.1842 },
+    description: {
+      de: "Das Parque Empresarial Forum ist ein bedeutender Geschäftspark in Lindora, Santa Ana. Er beherbergt zahlreiche multinationale Unternehmen und Dienstleistungszentren.",
+      hu: "A Parque Empresarial Forum egy jelentős üzleti park Lindorában, Santa Anában. Számos multinacionális vállalatnak és szolgáltató központnak ad otthont.",
+      ro: "Parque Empresarial Forum este un important parc de afaceri situat în Lindora, Santa Ana. Acesta găzduiește numeroase companii multinaționale și centre de servicii.",
+      en: "Parque Empresarial Forum is a significant business park located in Lindora, Santa Ana. It hosts numerous multinational corporations and service centers.",
+    },
+    facts: {
+      de: ["Liegt in der Region Santa Ana.", "Zentrum für Business Process Outsourcing.", "Wichtiger Standort für multinationale Firmen.", "Fördert den Technologiesektor in Costa Rica."],
+      hu: ["Santa Ana régióban található.", "Üzleti folyamatok kiszervezésének központja.", "Fontos helyszín multinacionális cégek számára.", "Támogatja Costa Rica technológiai szektorát."],
+      ro: ["Situat în regiunea Santa Ana.", "Centru pentru externalizarea proceselor de afaceri.", "Locație cheie pentru companii multinaționale.", "Susține sectorul tehnologic din Costa Rica."],
+      en: ["Located in the Santa Ana region.", "Hub for business process outsourcing.", "Key location for multinational firms.", "Supports Costa Rica's technology sector."],
+    },
+    imageHint: "modern corporate office park buildings in Costa Rica",
+  }
 ];
 

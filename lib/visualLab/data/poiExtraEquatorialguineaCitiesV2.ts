@@ -1497,5 +1497,44 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Regional agricultural center in northern Kie-Ntem Province.", "Located in close proximity to the border with Gabon.", "Hub for the production and trade of tropical crops.", "Provides essential administrative services to the rural area.", "Vibrant point for cross-border cultural and economic exchange.", "Undergoing infrastructure improvements to boost trade.", "Strategically located for regional logistics and transit."]
     }
   }
+,
+  {
+    id: "equatorialguinea-mikomeseng-cities-v2",
+    type: "city",
+    name: { de: "Mikomeseng", hu: "Mikomeseng", ro: "Mikomeseng", en: "Mikomeseng" },
+    coordinates: { lat: 2.15, lng: 10.5 },
+    description: {
+      de: "Mikomeseng liegt in der Provinz Kie-Ntem im Norden des Landes. Die Stadt ist ein lokales Verwaltungszentrum nahe der kamerunischen Grenze.",
+      hu: "Mikomeseng az északi Kie-Ntem tartományban található. A város helyi közigazgatási központ a kameruni határ közelében.",
+      ro: "Mikomeseng se află în provincia Kie-Ntem, în nordul țării. Orașul este un centru administrativ local lângă granița cu Camerun.",
+      en: "Mikomeseng is situated in the Kie-Ntem province in the north of the country. The city serves as a local administrative center near the Cameroonian border.",
+    },
+    facts: {
+      de: ["Provinz: Kie-Ntem", "Grenznah zu Kamerun", "Handelszentrum", "Höhe ca. 600m"],
+      hu: ["Tartomány: Kie-Ntem", "Kameruni határ mellett", "Kereskedelmi központ", "Magasság: kb. 600m"],
+      ro: ["Provincie: Kie-Ntem", "Lângă granița camerunieză", "Centru comercial", "Altitudine: cca. 600m"],
+      en: ["Province: Kie-Ntem", "Near Cameroonian border", "Commercial hub", "Elevation: approx. 600m"],
+    },
+    imageHint: "rural market street in equatorial guinea town",
+  },
+  {
+    id: "equatorialguinea-akurenam-cities-v2",
+    type: "city",
+    name: { de: "Akurenam", hu: "Akurenam", ro: "Akurenam", en: "Akurenam" },
+    coordinates: { lat: 1.45, lng: 10.7 },
+    description: {
+      de: "Akurenam liegt in der Provinz Centro Sur. Es ist ein Knotenpunkt für den lokalen Handel im zentralen Hinterland von Äquatorialguinea.",
+      hu: "Akurenam a Centro Sur tartományban található. A város fontos csomópont a helyi kereskedelem számára az ország középső belvidékén.",
+      ro: "Akurenam este situat în provincia Centro Sur. Este un nod pentru comerțul local în interiorul central al Guineei Ecuatoriale.",
+      en: "Akurenam is situated in the Centro Sur province. It is a hub for local trade in the central hinterland of Equatorial Guinea.",
+    },
+    facts: {
+      de: ["Provinz: Centro Sur", "Zentrale Lage", "Verkehrsknotenpunkt", "Hauptort am Rio Wele"],
+      hu: ["Tartomány: Centro Sur", "Központi fekvés", "Közlekedési csomópont", "Főhely a Wele-folyónál"],
+      ro: ["Provincie: Centro Sur", "Poziție centrală", "Nod de transport", "Localitate pe râul Wele"],
+      en: ["Province: Centro Sur", "Central location", "Traffic junction", "Located near Wele river"],
+    },
+    imageHint: "small town landscape in centro sur province",
+  }
 ];
 

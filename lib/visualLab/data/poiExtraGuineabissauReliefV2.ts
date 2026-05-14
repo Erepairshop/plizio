@@ -717,5 +717,120 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       en: ["The relief constitutes the most stable portion of Galinhas Island.", "The laterite layer protects the island's interior from marine erosion.", "The relief features one of the highest soil densities in the archipelago.", "Natural hollows within the relief serve as freshwater reservoirs for wildlife.", "The vegetation on the relief is characterized by massive kapok trees.", "Geologically, the relief is related to the mainland plateaus near Bolama."]
     }
   }
+,
+  {
+    id: "guineabissau-cogon-river-valley-relief-v2",
+    type: "valley",
+    name: { de: "Cogon-Tal", hu: "Cogon-völgy", ro: "Valea râului Cogon", en: "Cogon River Valley" },
+    coordinates: { lat: 11.55, lng: -14.95 },
+    description: {
+      de: "Das Cogon-Tal erstreckt sich im Südwesten von Guinea-Bissau nahe der Grenze zu Guinea. Es ist eine tiefliegende Region, die durch saisonale Niederschläge geprägt wird.",
+      hu: "A Cogon-völgy Guinea-Bissau délnyugati részén, Guinea határának közelében található. Ez egy mélyebben fekvő terület, amelyet a szezonális csapadék határoz meg.",
+      ro: "Valea râului Cogon se întinde în sud-vestul Guineei-Bissau, aproape de granița cu Guineea. Este o regiune joasă, influențată de precipitațiile sezoniere.",
+      en: "The Cogon River Valley stretches in the southwest of Guinea-Bissau near the border with Guinea. It is a low-lying region shaped by seasonal rainfall.",
+    },
+    facts: {
+      de: ["Lage im Sektor Cacine", "Flussbett bildet eine natürliche Grenze", "Feuchtgebiet mit Sedimentböden", "Regionale Entwässerungszone"],
+      hu: ["Elhelyezkedés a Cacine szektorban", "A meder természetes határt képez", "Üledékes talajú vizes élőhely", "Regionális lefolyási zóna"],
+      ro: ["Situat în sectorul Cacine", "Albia râului formează o graniță naturală", "Zonă umedă cu soluri sedimentare", "Zonă regională de drenaj"],
+      en: ["Located in Cacine sector", "Riverbed forms a natural boundary", "Wetland with sedimentary soils", "Regional drainage zone"],
+    },
+    imageHint: "river valley landscape in west africa",
+  },
+  {
+    id: "guineabissau-pitche-upland-relief-v2",
+    type: "mountain",
+    name: { de: "Pitche-Hochland", hu: "Pitche-felföld", ro: "Podișul Pitche", en: "Pitche Upland" },
+    coordinates: { lat: 12.35, lng: -13.98 },
+    description: {
+      de: "Das Pitche-Hochland befindet sich im östlichen Teil des Landes nahe der Stadt Pitche. Das Gelände zeichnet sich durch moderate Erhebungen über dem umliegenden Tiefland aus.",
+      hu: "A Pitche-felföld az ország keleti részén, Pitche városa közelében található. A terepet az övező alföldnél magasabb, mérsékelt szintkülönbségek jellemzik.",
+      ro: "Podișul Pitche este situat în partea de est a țării, aproape de orașul Pitche. Terenul este caracterizat prin elevații moderate față de câmpia înconjurătoare.",
+      en: "The Pitche Upland is located in the eastern part of the country near the town of Pitche. The terrain is characterized by moderate elevations above the surrounding lowlands.",
+    },
+    facts: {
+      de: ["Durchschnittshöhe über 50 Meter", "Savannenvegetation auf dem Plateau", "Wichtiges Wassereinzugsgebiet", "Geologisch Teil des Gabú-Komplexes"],
+      hu: ["Átlagos magasság 50 méter felett", "Szavanna növényzet a fennsíkon", "Fontos vízgyűjtő terület", "Földtanilag a Gabú-komplexum része"],
+      ro: ["Altitudine medie peste 50 de metri", "Vegetație de savană pe platou", "Bazin hidrografic important", "Geologic face parte din complexul Gabú"],
+      en: ["Average elevation above 50 meters", "Savanna vegetation on the plateau", "Important water catchment area", "Geologically part of the Gabú complex"],
+    },
+    imageHint: "african savanna landscape with rolling hills",
+  },
+  {
+    id: "guineabissau-corubal-alluvial-plain-relief-v2",
+    type: "valley",
+    name: { de: "Corubal-Schwemmlandebene", hu: "Corubal-alluviális síkság", ro: "Câmpia aluvială Corubal", en: "Corubal Alluvial Plain" },
+    coordinates: { lat: 11.95, lng: -14.35 },
+    description: {
+      de: "Die Corubal-Schwemmlandebene erstreckt sich entlang des unteren Laufs des Corubal-Flusses. Das flache Gelände wird durch jährliche Überflutungen und fruchtbare Böden geprägt.",
+      hu: "A Corubal-alluviális síkság a Corubal folyó alsó folyása mentén terül el. A sík területet az éves áradások és a termékeny talaj jellemzi.",
+      ro: "Câmpia aluvială Corubal se întinde de-a lungul cursului inferior al râului Corubal. Terenul plat este modelat de inundațiile anuale și de solurile fertile.",
+      en: "The Corubal Alluvial Plain stretches along the lower course of the Corubal River. The flat terrain is shaped by annual flooding and fertile soils.",
+    },
+    facts: {
+      de: ["Ablagerung von Flusssedimenten", "Hauptanbaugebiet am Flussufer", "Flache topografische Beschaffenheit", "System aus saisonalen Sümpfen"],
+      hu: ["Folyami üledékek lerakódása", "Fő termesztőterület a folyóparton", "Sík domborzati viszonyok", "Szezonális mocsárrendszer"],
+      ro: ["Depunerea sedimentelor fluviale", "Zonă agricolă principală pe malul râului", "Caracter topografic plat", "Sistem de mlaștini sezoniere"],
+      en: ["Deposition of river sediments", "Main cultivation area on riverbank", "Flat topographic nature", "System of seasonal swamps"],
+    },
+    imageHint: "river plain aerial view west africa",
+  },
+  {
+    id: "guineabissau-cai-coast-depression-relief-v2",
+    type: "valley",
+    name: { de: "Caió-Küstensenke", hu: "Caió-parti mélyföld", ro: "Depresiunea de coastă Caió", en: "Caió Coastal Depression" },
+    coordinates: { lat: 11.85, lng: -16.25 },
+    description: {
+      de: "Die Caió-Küstensenke ist ein niedrig gelegenes Gebiet nahe der Atlantikküste im Nordwesten. Diese Region umfasst ausgedehnte Gezeitenzonen und flache Sedimentbecken.",
+      hu: "A Caió-parti mélyföld egy alacsonyan fekvő terület az északnyugati Atlanti-óceán partvidékén. A régió kiterjedt árapályzónákat és sekély üledékmedencéket foglal magában.",
+      ro: "Depresiunea de coastă Caió este o zonă situată la joasă altitudine lângă coasta atlantică în nord-vest. Această regiune cuprinde zone extinse de maree și bazine sedimentare plate.",
+      en: "The Caió Coastal Depression is a low-lying area near the Atlantic coast in the northwest. This region comprises extensive tidal zones and shallow sedimentary basins.",
+    },
+    facts: {
+      de: ["Stark beeinflusst durch Gezeiten", "Schlickhaltige Sedimentböden", "Teil der Cacheu-Küstenregion", "Schutzgebiet für Mangroven"],
+      hu: ["Erősen befolyásolja az árapály", "Iszapos üledékes talaj", "A Cacheu-partvidék része", "Mangrove természetvédelmi terület"],
+      ro: ["Puternic influențată de maree", "Soluri sedimentare lutoase", "Parte a regiunii de coastă Cacheu", "Zonă protejată pentru mangrove"],
+      en: ["Strongly influenced by tides", "Silty sedimentary soils", "Part of Cacheu coastal region", "Protected area for mangroves"],
+    },
+    imageHint: "coastal wetlands mangroves west africa",
+  },
+  {
+    id: "guineabissau-tite-escarpment-relief-v2",
+    type: "mountain",
+    name: { de: "Tite-Steilstufe", hu: "Tite-lépcső", ro: "Escarpamentul Tite", en: "Tite Escarpment" },
+    coordinates: { lat: 11.75, lng: -15.15 },
+    description: {
+      de: "Die Tite-Steilstufe markiert einen abrupten Übergang zwischen dem zentralen Plateau und den südlich gelegenen Flussniederungen. Sie bildet eine markante topografische Grenze.",
+      hu: "A Tite-lépcső hirtelen átmenetet jelöl a központi fennsík és a déli folyómenti alföldek között. Jellegzetes domborzati határt képez.",
+      ro: "Escarpamentul Tite marchează o tranziție bruscă între platoul central și câmpiile aluvionare din sud. Formează o graniță topografică distinctă.",
+      en: "The Tite Escarpment marks an abrupt transition between the central plateau and the southern river lowlands. It forms a distinct topographic boundary.",
+    },
+    facts: {
+      de: ["Steiler Geländesprung nahe Tite", "Erosionsresistente Gesteinsschichten", "Natürlicher Schutz vor Erosion", "Blickpunkt über das Corubal-Becken"],
+      hu: ["Meredek tereplépcső Tite közelében", "Eroziónak ellenálló kőzetrétegek", "Természetes védelem az erózió ellen", "Kilátópont a Corubal-medencére"],
+      ro: ["Diferență de nivel abruptă lângă Tite", "Straturi de rocă rezistente la eroziune", "Protecție naturală împotriva eroziunii", "Punct de observație asupra bazinului Corubal"],
+      en: ["Steep terrain shift near Tite", "Erosion-resistant rock layers", "Natural protection against erosion", "Viewpoint over the Corubal Basin"],
+    },
+    imageHint: "geological escarpment west africa",
+  },
+  {
+    id: "guineabissau-quinhamel-plain-relief-v2",
+    type: "valley",
+    name: { de: "Quinhamel-Ebene", hu: "Quinhamel-síkság", ro: "Câmpia Quinhamel", en: "Quinhamel Plain" },
+    coordinates: { lat: 11.98, lng: -15.88 },
+    description: {
+      de: "Die Quinhamel-Ebene ist eine flache, fruchtbare Region auf der Biombo-Halbinsel. Sie wird durch den Einfluss des Gezeitenflusses des Rio Mansoa topografisch geformt.",
+      hu: "A Quinhamel-síkság egy lapos, termékeny régió a Biombo-félszigeten. Domborzatilag a Rio Mansoa árapályfolyásának hatása formálja.",
+      ro: "Câmpia Quinhamel este o regiune plată și fertilă pe peninsula Biombo. Este modelată topografic de influența râului mareic Rio Mansoa.",
+      en: "The Quinhamel Plain is a flat, fertile region on the Biombo Peninsula. It is topographically shaped by the influence of the tidal Rio Mansoa.",
+    },
+    facts: {
+      de: ["Höhe fast auf Meeresniveau", "Zentrum der lokalen Landwirtschaft", "Umgeben von Mangrovenwäldern", "Teil des Mansoa-Flusssystems"],
+      hu: ["Magasság majdnem tengerszinten", "A helyi mezőgazdaság központja", "Mangroveerdők veszik körül", "A Mansoa folyórendszer része"],
+      ro: ["Altitudine aproape de nivelul mării", "Centrul agriculturii locale", "Înconjurată de păduri de mangrove", "Parte a sistemului hidrografic Mansoa"],
+      en: ["Elevation near sea level", "Center of local agriculture", "Surrounded by mangrove forests", "Part of Mansoa river system"],
+    },
+    imageHint: "flat agricultural landscape near mangroves",
+  }
 ];
 

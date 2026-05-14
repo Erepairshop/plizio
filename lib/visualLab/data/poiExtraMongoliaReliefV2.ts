@@ -961,4 +961,62 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       en: ["Elevation: 1,680 m", "Crater diameter: 500 m", "Last eruption: ~10,000 years ago", "Rock type: basalt", "Region: Khangai volcanic field", "Distance from Tosontsengel: 20 km"],
     },
   }
+,
+  {
+    id: "mongolia-menengiin-steppe-relief-v2",
+    type: "valley",
+    name: { de: "Menengiin-Steppe", hu: "Menengiin-sztyeppe", ro: "Stepa Menengiin", en: "Menengiin Steppe" },
+    coordinates: { lat: 47.7833, lng: 115.35 },
+    description: {
+      de: "Die Menengiin-Steppe ist das größte Flachlandgebiet im Osten der Mongolei. Sie liegt auf einer durchschnittlichen Höhe von etwa 600 Metern.",
+      hu: "A Menengiin-sztyeppe Kelet-Mongólia legnagyobb síksága. Több száz kilométer hosszan terül el 600 méteres tengerszint feletti magasságban.",
+      ro: "Stepa Menengiin este cea mai mare zonă de câmpie din estul Mongoliei. Se întinde pe sute de kilometri la o altitudine de circa 600 de metri.",
+      en: "The Menengiin Steppe is the largest lowland area in eastern Mongolia. It stretches for hundreds of kilometers at an altitude of 600 meters.",
+    },
+    facts: {
+      de: ["Fläche von ca. 570.000 Hektar", "Größte ungestörte Steppe der Welt", "Liegt in der Provinz Dornod", "Wichtiger Lebensraum für die Mongolische Gazelle"],
+      hu: ["Kb. 570 000 hektár kiterjedésű", "A világ egyik legnagyobb érintetlen füves pusztája", "Dornod tartományban található", "A mongol gazellák fontos élőhelye"],
+      ro: ["Suprafață de aproximativ 570.000 de hectare", "Cea mai mare stepă neperturbată din lume", "Situată în provincia Dornod", "Habitat crucial pentru gazela mongolă"],
+      en: ["Area of approximately 570,000 hectares", "One of the largest undisturbed steppes globally", "Located in the Dornod province", "Crucial habitat for the Mongolian gazelle"],
+    },
+    imageHint: "endless flat green mongolian steppe horizon",
+  },
+  {
+    id: "mongolia-turgen-mountain-relief-v2",
+    type: "peak",
+    name: { de: "Turgen-Gebirge", hu: "Turgen-hegy", ro: "Muntele Turgen", en: "Turgen Mountain" },
+    coordinates: { lat: 49.7711, lng: 91.5236 },
+    description: {
+      de: "Das Turgen-Gebirge liegt in der Provinz Uws und erreicht eine Höhe von 3965 Metern. Es ist bekannt für seine Gletscher und alpinen Ökosysteme.",
+      hu: "A Turgen-hegy Uvsz tartományban található, legmagasabb pontja 3965 méter. Gleccsereiről és alpesi ökoszisztémájáról nevezetes.",
+      ro: "Muntele Turgen se află în provincia Uvs și atinge o înălțime de 3965 de metri. Este cunoscut pentru ghețarii săi și flora alpină.",
+      en: "Turgen Mountain is located in Uvs province and reaches a height of 3,965 meters. It is known for its glaciers and alpine ecosystems.",
+    },
+    facts: {
+      de: ["Höchster Punkt ist der Deglii Tsagaan (3965 m)", "Teil des Uws-Nuur-Becken-Weltnaturerbes", "Beherbergt mehrere permanente Gletscher", "Liegt im mongolischen Altai-Gebirgssystem"],
+      hu: ["Legmagasabb csúcsa a Deglii Tsagaan (3965 m)", "Az Uvsz-tó-medence világörökségi helyszín része", "Számos állandó gleccser található rajta", "A Mongol-Altaj hegységrendszerhez tartozik"],
+      ro: ["Cel mai înalt vârf este Deglii Tsagaan (3965 m)", "Parte din patrimoniul mondial Bazinul Uvs Nuur", "Adăpostește mai mulți ghețari permanenți", "Aparține sistemului muntos Altaiul Mongol"],
+      en: ["Highest point is Deglii Tsagaan peak (3,965 m)", "Part of the Uvs Nuur Basin World Heritage site", "Home to several permanent glaciers", "Belongs to the Mongolian Altai mountain system"],
+    },
+    imageHint: "snow capped turgen mountain peak mongolia",
+  },
+  {
+    id: "mongolia-hoh-nuur-basin-relief-v2",
+    type: "valley",
+    name: { de: "Hoh-Nuur-Becken", hu: "Hoh Nuur-medence", ro: "Depresiunea Hoh Nuur", en: "Hoh Nuur Basin" },
+    coordinates: { lat: 49.5111, lng: 115.725 },
+    description: {
+      de: "Das Hoh-Nuur-Becken im Osten der Mongolei enthält den tiefsten Punkt des Landes. Es liegt etwa 560 Meter über dem Meeresspiegel.",
+      hu: "A Kelet-Mongóliában található Hoh Nuur-medence az ország legmélyebb pontja. Körülbelül 560 méterrel fekszik a tengerszint felett.",
+      ro: "Depresiunea Hoh Nuur din estul Mongoliei conține cel mai de jos punct al țării. Se află la circa 560 de metri deasupra mării.",
+      en: "The Hoh Nuur Basin in eastern Mongolia contains the lowest point of the country. It lies approximately 560 meters above sea level.",
+    },
+    facts: {
+      de: ["Tiefster Punkt der Mongolei (560 m)", "Liegt in der Provinz Dornod", "Endorheisches Becken mit einem Salzsee", "Teil der weiten ostmongolischen Tiefebene"],
+      hu: ["Mongólia legmélyebb pontja (560 m)", "Dornod tartomány területén fekszik", "Lefolyástalan medence sós tóval", "A kelet-mongol alföld részét képezi"],
+      ro: ["Cel mai de jos punct din Mongolia (560 m)", "Situată în provincia Dornod", "Bazin endoreic cu un lac sărat", "Face parte din marea câmpie a Mongoliei de Est"],
+      en: ["Lowest point of Mongolia at 560 meters", "Located in the Dornod province", "Endorheic basin featuring a salt lake", "Part of the vast Eastern Mongolian plains"],
+    },
+    imageHint: "hoh nuur lake basin eastern mongolia plains",
+  }
 ];

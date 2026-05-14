@@ -251,5 +251,82 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       ro: ["Înălțime de 830 m.", "Munte tipic cu vârf plat (tepui)."],
       en: ["Height of 830 m.", "Typical tabletop mountain (tepui)."]
     }, image: "/poi-images/sommet-tabulaire-nature-v2.webp"}
+,
+  {
+    id: "frenchguiana-crique-gabaret-nature-v2",
+    type: "river",
+    name: { de: "Crique Gabaret", hu: "Crique Gabaret", ro: "Crique Gabaret", en: "Crique Gabaret" },
+    coordinates: { lat: 4.8833, lng: -52.4833 },
+    description: {
+      de: "Der Crique Gabaret ist ein kleinerer Wasserlauf in der Nähe von Cayenne. Er fließt durch bewaldete Gebiete der Region.",
+      hu: "A Crique Gabaret egy kisebb vízfolyás Cayenne közelében. A régió erdős területein keresztül folyik.",
+      ro: "Crique Gabaret este un curs de apă mai mic din apropierea localității Cayenne. Acesta traversează zonele împădurite ale regiunii.",
+      en: "Crique Gabaret is a smaller watercourse located near Cayenne. It flows through forested areas of the region.",
+    },
+    facts: {
+      de: ["Gehört zum Einzugsgebiet von Cayenne.", "Dient als lokales Ökosystem.", "Von tropischer Vegetation umgeben.", "Wichtiger Lebensraum für Kleintiere."],
+      hu: ["Cayenne vízgyűjtő területéhez tartozik.", "Helyi ökoszisztémaként szolgál.", "Trópusi növényzet veszi körül.", "Fontos élőhely a kisállatok számára."],
+      ro: ["Face parte din bazinul hidrografic Cayenne.", "Servește ca ecosistem local.", "Înconjurat de vegetație tropicală.", "Habitat important pentru animale mici."],
+      en: ["Part of the Cayenne watershed.", "Serves as a local ecosystem.", "Surrounded by tropical vegetation.", "Important habitat for small animals."],
+    },
+    imageHint: "jungle creek in french guiana",
+  },
+  {
+    id: "frenchguiana-inselberg-majari-nature-v2",
+    type: "mountain",
+    name: { de: "Inselberg Majari", hu: "Majari-Inselberg", ro: "Inselberg Majari", en: "Majari Inselberg" },
+    coordinates: { lat: 3.7167, lng: -53.2167 },
+    description: {
+      de: "Der Inselberg Majari ist eine isolierte Granitformation im Landesinneren. Er erhebt sich markant über dem umgebenden Tieflandregenwald.",
+      hu: "A Majari-Inselberg egy elszigetelt gránitképződmény az ország belsejében. Élesen emelkedik ki a környező alföldi esőerdőből.",
+      ro: "Inselberg Majari este o formațiune granitică izolată situată în interiorul țării. Se ridică marcant deasupra pădurii tropicale de câmpie din jur.",
+      en: "Majari Inselberg is an isolated granite formation located in the interior. It rises prominently above the surrounding lowland rainforest.",
+    },
+    facts: {
+      de: ["Granitstruktur prägt die Oberfläche.", "Schutzgebiet für seltene Pflanzen.", "Klimatisch exponierte Lage.", "Geologisch alter Sockel."],
+      hu: ["Gránitszerkezet jellemzi a felszínt.", "Ritka növények védett területe.", "Éghajlatilag kitett helyzet.", "Geológiailag ősi aljzat."],
+      ro: ["Structura granitică definește suprafața.", "Zonă protejată pentru plante rare.", "Poziție climatică expusă.", "Bază geologică veche."],
+      en: ["Granite structure defines the surface.", "Protected area for rare plants.", "Climatically exposed position.", "Geologically ancient base."],
+    },
+    imageHint: "granite inselberg rainforest french guiana",
+  },
+  {
+    id: "frenchguiana-crique-beouf-nature-v2",
+    type: "river",
+    name: { de: "Crique Beouf", hu: "Crique Beouf", ro: "Crique Beouf", en: "Crique Beouf" },
+    coordinates: { lat: 4.15, lng: -52.6667 },
+    description: {
+      de: "Der Crique Beouf ist ein Nebenfluss im östlichen Teil von Französisch-Guayana. Er schlängelt sich durch ein dichtes Waldgebiet.",
+      hu: "A Crique Beouf egy mellékfolyó Francia Guyana keleti részén. Sűrű erdős területen kanyarog keresztül.",
+      ro: "Crique Beouf este un afluent în partea de est a Guianei Franceze. Acesta șerpuiește printr-o zonă forestieră densă.",
+      en: "Crique Beouf is a tributary in the eastern part of French Guiana. It meanders through a dense forest area.",
+    },
+    facts: {
+      de: ["Süßwasserhabitat in bewaldeter Region.", "Speist größere Wasserläufe.", "Wird von endemischen Fischarten bewohnt.", "Erreicht vor allem durch Wanderwege erreichbar."],
+      hu: ["Édesvízi élőhely erdős területen.", "Táplálja a nagyobb vízfolyásokat.", "Endemikus halfajok lakják.", "Főleg túraútvonalakon keresztül érhető el."],
+      ro: ["Habitat de apă dulce în regiune împădurită.", "Alimentează cursuri de apă mai mari.", "Locuit de specii de pești endemice.", "Accesibil în principal prin trasee de drumeție."],
+      en: ["Freshwater habitat in forested region.", "Feeds larger watercourses.", "Inhabited by endemic fish species.", "Accessible mainly via hiking trails."],
+    },
+    imageHint: "river in tropical rainforest",
+  },
+  {
+    id: "frenchguiana-savane-roche-manman-nature-v2",
+    type: "park",
+    name: { de: "Savane Roche Manman", hu: "Savane Roche Manman", ro: "Savane Roche Manman", en: "Savane Roche Manman" },
+    coordinates: { lat: 3.9, lng: -52.95 },
+    description: {
+      de: "Savane Roche Manman ist eine offene Granitfläche mit typischer Savannenvegetation. Sie bietet Lebensraum für spezialisierte Pflanzenarten.",
+      hu: "A Savane Roche Manman egy nyílt gránitfelület tipikus szavannai növényzettel. Életteret biztosít a speciális növényfajok számára.",
+      ro: "Savane Roche Manman este o suprafață granitică deschisă cu vegetație tipică de savană. Oferă habitat pentru specii de plante specializate.",
+      en: "Savane Roche Manman is an open granite surface with typical savanna vegetation. It provides habitat for specialized plant species.",
+    },
+    facts: {
+      de: ["Wüstenartige Bedingungen auf Fels.", "Beheimatet epiphytische Pflanzen.", "Wichtiger ökologischer Standort.", "Geologisch durch Erosion geformt."],
+      hu: ["Sivatagszerű feltételek a sziklán.", "Epifita növényeknek ad otthont.", "Fontos ökológiai helyszín.", "Geológiailag erózió formálta."],
+      ro: ["Condiții de deșert pe stâncă.", "Găzduiește plante epifite.", "Sit ecologic important.", "Format geologic prin eroziune."],
+      en: ["Desert-like conditions on rock.", "Home to epiphytic plants.", "Important ecological site.", "Geologically shaped by erosion."],
+    },
+    imageHint: "granite savanna outcrop french guiana",
+  }
 ];
 

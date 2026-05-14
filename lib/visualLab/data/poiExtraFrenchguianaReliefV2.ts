@@ -779,5 +779,25 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       en: ["Giant granite monolith.", "Offers wide view."]
     }
   }
+,
+  {
+    id: "frenchguiana-mont-belv-d-relief-v2",
+    type: "mountain",
+    name: { de: "Mont Belvédère", hu: "Mont Belvédère", ro: "Mont Belvédère", en: "Mont Belvédère" },
+    coordinates: { lat: 3.7333, lng: -53.2167 },
+    description: {
+      de: "Der Mont Belvédère ist eine Erhebung im Inneren von Französisch-Guayana. Er ist Teil des stark bewaldeten Hochlandes nahe der Grenze zu Suriname.",
+      hu: "A Mont Belvédère egy kiemelkedés Francia Guyana belsejében. A Suriname határához közeli, sűrűn erdősült felföld részét képezi.",
+      ro: "Mont Belvédère este o înălțime situată în interiorul Guyanei Franceze. Face parte din platoul dens împădurit din apropierea graniței cu Surinam.",
+      en: "Mont Belvédère is an elevation located in the interior of French Guiana. It is part of the heavily forested highlands near the border with Suriname.",
+    },
+    facts: {
+      de: ["Liegt im Grenzgebiet zu Suriname", "Gehört zum zentralen Bergland", "Höhe liegt im Bereich der guyanischen Schildes", "Region ist fast unbewohnt"],
+      hu: ["A Suriname-i határ közelében fekszik", "A központi hegyvidék része", "Magassága a Guyanai-pajzshoz köthető", "A régió szinte lakatlan"],
+      ro: ["Situat în zona de graniță cu Surinam", "Parte a munților centrali", "Altitudine legată de Scutul Guyanelor", "Regiune aproape nelocuită"],
+      en: ["Located near the Suriname border", "Part of the central highlands", "Elevation linked to the Guiana Shield", "Region is nearly uninhabited"],
+    },
+    imageHint: "dense rainforest landscape French Guiana mountains",
+  }
 ];
 

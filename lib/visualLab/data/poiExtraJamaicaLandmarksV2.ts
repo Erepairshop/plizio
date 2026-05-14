@@ -771,5 +771,158 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["A híd 1801-ben készült el, elemeit a Walker & Co. öntötte Angliában.", "Ez az amerikai kontinens legrégebbi fennmaradt öntöttvas hídja.", "A híd fesztávolsága 25 méter, és egyetlen elegáns ívből áll.", "Tervezése és kivitelezése a korabeli világ legmodernebb eljárásait alkalmazta.", "A hidat eredetileg a kocsiforgalom számára építették Spanish Town és Kingston között.", "1924-ben nyilvánították nemzeti műemlékké Jamaicában.", "A híd szerkezete különleges rögzítési technikákat tartalmaz, csavarok nélkül.", "A helyszín ma kedvelt pontja a történelmi fotózásoknak és sétáknak."]
     }
   }
+,
+  {
+    id: "jamaica-bellevue-house-landmarks-v2",
+    type: "landmark",
+    name: { de: "Bellevue House", hu: "Bellevue Ház", ro: "Casa Bellevue", en: "Bellevue House" },
+    coordinates: { lat: 18.005, lng: -76.765 },
+    description: {
+      de: "Das Bellevue House ist ein historisches Gebäude in der Nähe von Kingston. Es dient als Zeugnis der kolonialen Architektur auf Jamaika.",
+      hu: "A Bellevue House egy történelmi épület Kingston közelében. A jamaicai gyarmati építészet egyik példája.",
+      ro: "Bellevue House este o clădire istorică situată în apropiere de Kingston. Aceasta servește drept mărturie a arhitecturii coloniale din Jamaica.",
+      en: "Bellevue House is a historical building located near Kingston. It serves as a testimony to colonial architecture in Jamaica.",
+    },
+    facts: {
+      de: ["Erbaut im 19. Jahrhundert", "Gelegen in St. Andrew", "Klassische Architektur", "Privater Besitz"],
+      hu: ["A 19. században épült", "St. Andrew-ban található", "Klasszikus építészet", "Magántulajdon"],
+      ro: ["Construită în secolul al XIX-lea", "Situată în St. Andrew", "Arhitectură clasică", "Proprietate privată"],
+      en: ["Built in the 19th century", "Located in St. Andrew", "Classic architecture", "Private ownership"],
+    },
+    imageHint: "Bellevue House colonial architecture Jamaica",
+  },
+  {
+    id: "jamaica-st-marks-anglican-church-landmarks-v2",
+    type: "church",
+    name: { de: "St. Marks Anglikanische Kirche", hu: "St. Marks anglikán templom", ro: "Biserica Anglicană St. Marks", en: "St. Marks Anglican Church" },
+    coordinates: { lat: 17.985, lng: -77.235 },
+    description: {
+      de: "Die St. Marks Kirche in Mandeville ist ein bedeutendes sakrales Bauwerk. Sie wurde im 19. Jahrhundert fertiggestellt.",
+      hu: "A mandeville-i St. Marks templom jelentős vallási építmény. A 19. században fejezték be az építését.",
+      ro: "Biserica St. Marks din Mandeville este un important edificiu religios. A fost finalizată în secolul al XIX-lea.",
+      en: "St. Marks Church in Mandeville is a significant religious structure. It was completed in the 19th century.",
+    },
+    facts: {
+      de: ["Gegründet 1820", "Standort Mandeville", "Gotischer Stil", "Aktive Gemeinde"],
+      hu: ["1820-ban alapították", "Mandeville helyszín", "Gótikus stílus", "Aktív gyülekezet"],
+      ro: ["Fondată în 1820", "Locație Mandeville", "Stil gotic", "Comunitate activă"],
+      en: ["Founded in 1820", "Location Mandeville", "Gothic style", "Active congregation"],
+    },
+    imageHint: "St. Marks Anglican Church Mandeville Jamaica",
+  },
+  {
+    id: "jamaica-white-hall-great-house-landmarks-v2",
+    type: "castle",
+    name: { de: "White Hall Great House", hu: "White Hall Great House", ro: "White Hall Great House", en: "White Hall Great House" },
+    coordinates: { lat: 18.258, lng: -77.685 },
+    description: {
+      de: "Das White Hall Great House befindet sich in der Nähe von Negril. Es repräsentiert den einstigen Wohlstand der Zuckerplantagenbesitzer.",
+      hu: "A White Hall Great House Negril közelében található. A cukornádültetvény-tulajdonosok egykori jólétét képviseli.",
+      ro: "White Hall Great House este situată în apropiere de Negril. Aceasta reprezintă prosperitatea de odinioară a proprietarilor de plantații de zahăr.",
+      en: "White Hall Great House is located near Negril. It represents the former prosperity of sugar plantation owners.",
+    },
+    facts: {
+      de: ["Erbaut um 1820", "Kalksteinkonstruktion", "In Negril gelegen", "Historische Anlage"],
+      hu: ["Kb. 1820-ban épült", "Mészkő építmény", "Negrilben található", "Történelmi létesítmény"],
+      ro: ["Construită în jurul anului 1820", "Construcție din calcar", "Situată în Negril", "Complex istoric"],
+      en: ["Built circa 1820", "Limestone construction", "Located in Negril", "Historic facility"],
+    },
+    imageHint: "White Hall Great House Negril Jamaica",
+  },
+  {
+    id: "jamaica-trelawny-parish-church-landmarks-v2",
+    type: "church",
+    name: { de: "Trelawny Pfarrkirche", hu: "Trelawny plébániatemplom", ro: "Biserica parohială Trelawny", en: "Trelawny Parish Church" },
+    coordinates: { lat: 18.495, lng: -77.655 },
+    description: {
+      de: "Die Pfarrkirche im Trelawny Parish ist ein markantes religiöses Zentrum. Das Gebäude stammt aus der britischen Kolonialzeit.",
+      hu: "A Trelawny plébániatemplom egy markáns vallási központ. Az épület a brit gyarmati időkből származik.",
+      ro: "Biserica parohială din Trelawny este un centru religios marcat. Clădirea datează din perioada colonială britanică.",
+      en: "The parish church in Trelawny is a prominent religious center. The building dates back to the British colonial period.",
+    },
+    facts: {
+      de: ["Erbaut um 1800", "Standort Falmouth", "Kolonialarchitektur", "Wichtige Kulturerbestätte"],
+      hu: ["Kb. 1800-ban épült", "Falmouth helyszín", "Gyarmati építészet", "Fontos kulturális örökség"],
+      ro: ["Construită în jurul anului 1800", "Locație Falmouth", "Arhitectură colonială", "Importante situri de patrimoniu"],
+      en: ["Built circa 1800", "Location Falmouth", "Colonial architecture", "Important heritage site"],
+    },
+    imageHint: "Trelawny Parish Church Falmouth Jamaica",
+  },
+  {
+    id: "jamaica-gordon-house-monument-landmarks-v2",
+    type: "monument",
+    name: { de: "Gordon House Monument", hu: "Gordon House emlékmű", ro: "Monumentul Gordon House", en: "Gordon House Monument" },
+    coordinates: { lat: 17.962, lng: -76.792 },
+    description: {
+      de: "Das Gordon House Monument erinnert an die politische Geschichte Jamaikas. Es befindet sich im Zentrum der Hauptstadt Kingston.",
+      hu: "A Gordon House emlékmű Jamaica politikai történelmére emlékeztet. A főváros, Kingston központjában található.",
+      ro: "Monumentul Gordon House comemorează istoria politică a Jamaicăi. Este situat în centrul capitalei, Kingston.",
+      en: "The Gordon House Monument commemorates Jamaica's political history. It is located in the center of the capital, Kingston.",
+    },
+    facts: {
+      de: ["Gewidmet George William Gordon", "Standort Kingston", "Politisches Symbol", "Moderne Bauweise"],
+      hu: ["George William Gordonnak szentelve", "Kingston helyszín", "Politikai szimbólum", "Modern építés"],
+      ro: ["Dedicat lui George William Gordon", "Locație Kingston", "Simbol politic", "Construcție modernă"],
+      en: ["Dedicated to George William Gordon", "Location Kingston", "Political symbol", "Modern construction"],
+    },
+    imageHint: "Gordon House Kingston Jamaica",
+  },
+  {
+    id: "jamaica-st-ann-bay-courthouse-landmarks-v2",
+    type: "landmark",
+    name: { de: "St. Ann Bay Gerichtsgebäude", hu: "St. Ann Bay bírósági épület", ro: "Tribunalul din St. Ann Bay", en: "St. Ann Bay Courthouse" },
+    coordinates: { lat: 18.442, lng: -77.212 },
+    description: {
+      de: "Das historische Gerichtsgebäude in St. Ann Bay ist ein bekanntes öffentliches Gebäude. Es steht unter Denkmalschutz.",
+      hu: "A St. Ann Bay-i történelmi bírósági épület egy ismert középület. Műemléki védelem alatt áll.",
+      ro: "Clădirea istorică a tribunalului din St. Ann Bay este un edificiu public cunoscut. Este sub protecția monumentelor.",
+      en: "The historic courthouse in St. Ann Bay is a well-known public building. It is protected as a heritage site.",
+    },
+    facts: {
+      de: ["Erbaut im 19. Jahrhundert", "St. Ann Parish", "Juristische Geschichte", "Architektonisches Wahrzeichen"],
+      hu: ["A 19. században épült", "St. Ann Parish", "Jogi történelem", "Építészeti nevezetesség"],
+      ro: ["Construită în secolul al XIX-lea", "St. Ann Parish", "Istorie juridică", "Monument arhitectural"],
+      en: ["Built in the 19th century", "St. Ann Parish", "Legal history", "Architectural landmark"],
+    },
+    imageHint: "St. Ann Bay Courthouse Jamaica",
+  },
+  {
+    id: "jamaica-falmouth-water-tower-landmarks-v2",
+    type: "tower",
+    name: { de: "Wasserturm von Falmouth", hu: "Falmouth víztorony", ro: "Turnul de apă din Falmouth", en: "Falmouth Water Tower" },
+    coordinates: { lat: 18.492, lng: -77.652 },
+    description: {
+      de: "Der Wasserturm in Falmouth ist ein technisches Denkmal. Er prägt das historische Stadtbild des Ortes seit vielen Jahren.",
+      hu: "A falmouthi víztorony egy technikai műemlék. Sok éve meghatározza a város történelmi arculatát.",
+      ro: "Turnul de apă din Falmouth este un monument tehnic. Acesta a definit peisajul istoric al orașului timp de mulți ani.",
+      en: "The water tower in Falmouth is a technical monument. It has defined the town's historic skyline for many years.",
+    },
+    facts: {
+      de: ["Baujahr ca. 1920", "Standort Falmouth", "Industrielle Architektur", "Wahrzeichen"],
+      hu: ["Kb. 1920-ban épült", "Falmouth helyszín", "Ipari építészet", "Nevezetesség"],
+      ro: ["Construit aprox. 1920", "Locație Falmouth", "Arhitectură industrială", "Simbol"],
+      en: ["Built circa 1920", "Location Falmouth", "Industrial architecture", "Landmark"],
+    },
+    imageHint: "Falmouth Water Tower Jamaica",
+  },
+  {
+    id: "jamaica-port-royal-fort-ruins-landmarks-v2",
+    type: "ruins",
+    name: { de: "Fort Ruinen von Port Royal", hu: "Port Royal erődi romok", ro: "Ruinele fortului din Port Royal", en: "Port Royal Fort Ruins" },
+    coordinates: { lat: 17.938, lng: -76.838 },
+    description: {
+      de: "Die Ruinen von Port Royal zeigen die militärische Vergangenheit. Der Ort war einst eine strategische Festung am Hafen.",
+      hu: "A Port Royal-i romok katonai múltat mutatják be. A hely egykor stratégiai erőd volt a kikötőben.",
+      ro: "Ruinele din Port Royal prezintă trecutul militar. Locul a fost odinioară o fortăreață strategică la port.",
+      en: "The ruins of Port Royal show the military past. The site was once a strategic fortress at the harbor.",
+    },
+    facts: {
+      de: ["Gegründet im 17. Jahrhundert", "Historischer Hafen", "Strategische Bedeutung", "Touristische Stätte"],
+      hu: ["A 17. században alapították", "Történelmi kikötő", "Stratégiai jelentőség", "Turisztikai helyszín"],
+      ro: ["Fondat în secolul al XVII-lea", "Port istoric", "Importanță strategică", "Sit turistic"],
+      en: ["Founded in the 17th century", "Historic port", "Strategic importance", "Tourist site"],
+    },
+    imageHint: "Port Royal historical fort ruins Jamaica",
+  }
 ];
 

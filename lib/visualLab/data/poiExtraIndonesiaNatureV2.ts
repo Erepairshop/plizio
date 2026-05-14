@@ -722,5 +722,120 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       en: ["The most active volcano in Indonesia, erupting roughly every 2 to 5 years.", "Located only 30 kilometers north of the city of Yogyakarta (population 2.5 million).", "Famous for its deadly pyroclastic flows, which can reach temperatures of 600°C.", "The 2010 eruption was the largest in a century, displacing over 350,000 people.", "Monitored 24/7 by the Balai Penyelidikan dan Pengembangan Teknologi Kebencanaan Geologi (BPPTKG).", "Considered a 'Decade Volcano' by international scientists due to its high risk.", "The volcanic ash provides some of the most fertile agricultural soil on Earth.", "A sacred site for the 'Labuhan' ceremony performed by the Yogyakarta Sultanate."]
     }
   }
+,
+  {
+    id: "indonesia-lake-toba-nature-v2",
+    type: "lake",
+    name: { de: "Tobasee", hu: "Toba-tó", ro: "Lacul Toba", en: "Lake Toba" },
+    coordinates: { lat: 2.585, lng: 98.832 },
+    description: {
+      de: "Der Tobasee ist der größte vulkanische See der Welt und liegt im Norden Sumatras. Er entstand vor etwa 74.000 Jahren durch eine gewaltige Supervulkaneruption.",
+      hu: "A Toba-tó a világ legnagyobb vulkáni eredetű tava, amely Szumátra északi részén található. Körülbelül 74 000 évvel ezelőtt jött létre egy szupervulkáni kitörés során.",
+      ro: "Lacul Toba este cel mai mare lac vulcanic din lume, situat în nordul insulei Sumatra. S-a format în urmă cu aproximativ 74.000 de ani în urma unei erupții masive.",
+      en: "Lake Toba is the world's largest volcanic lake, situated in North Sumatra. It was formed approximately 74,000 years ago following a massive supervolcanic eruption.",
+    },
+    facts: {
+      de: ["Fläche von 1.130 Quadratkilometern", "Maximale Tiefe von 505 Metern", "Enthält die Insel Samosir im Zentrum", "Entstanden durch VEI-8 Supervulkan"],
+      hu: ["Felszíne 1130 négyzetkilométer", "Maximális mélysége 505 méter", "Közepén található a Samosir-sziget", "VEI-8-as szupervulkán hozta létre"],
+      ro: ["Suprafață de 1.130 kilometri pătrați", "Adâncime maximă de 505 metri", "Include insula Samosir în centru", "Format de un supervulcan de grad VEI-8"],
+      en: ["Surface area of 1,130 square kilometers", "Maximum depth of 505 meters", "Contains Samosir Island in its center", "Result of a VEI-8 supervolcano eruption"],
+    },
+    imageHint: "Lake Toba panorama with Samosir island in North Sumatra",
+  },
+  {
+    id: "indonesia-mount-kelimutu-nature-v2",
+    type: "mountain",
+    name: { de: "Kelimutu", hu: "Kelimutu", ro: "Kelimutu", en: "Mount Kelimutu" },
+    coordinates: { lat: -8.77, lng: 121.82 },
+    description: {
+      de: "Der Vulkan Kelimutu auf der Insel Flores ist weltberühmt für seine drei Kraterseen, die regelmäßig ihre Farben ändern.",
+      hu: "A Flores-szigeten található Kelimutu vulkán három krátertaváról híres, amelyek rendszeresen változtatják a színüket.",
+      ro: "Vulcanul Kelimutu de pe insula Flores este faimos în întreaga lume pentru cele trei lacuri de crater care își schimbă culoarea.",
+      en: "Mount Kelimutu is a volcano on Flores Island famous for its three crater lakes that periodically change color.",
+    },
+    facts: {
+      de: ["Gipfelhöhe von 1.639 Metern", "Drei verschiedenfarbige Kraterseen", "Farben ändern sich durch Gasaustritt", "Liegt im Kelimutu-Nationalpark"],
+      hu: ["Csúcsmagassága 1639 méter", "Három különböző színű krátertó", "Színváltozás gázreakciók miatt", "A Kelimutu Nemzeti Park része"],
+      ro: ["Altitudine maximă de 1.639 metri", "Trei lacuri de crater colorate diferit", "Culori variabile din cauza gazelor", "Situat în Parcul Național Kelimutu"],
+      en: ["Summit elevation of 1,639 meters", "Three differently colored crater lakes", "Colors change due to gas reactions", "Located within Kelimutu National Park"],
+    },
+    imageHint: "Aerial view of the three colored crater lakes of Mount Kelimutu",
+  },
+  {
+    id: "indonesia-raja-ampat-islands-nature-v2",
+    type: "wildlife",
+    name: { de: "Raja Ampat Inseln", hu: "Raja Ampat-szigetek", ro: "Insulele Raja Ampat", en: "Raja Ampat Islands" },
+    coordinates: { lat: -0.23, lng: 130.52 },
+    description: {
+      de: "Raja Ampat ist ein Archipel in Westpapua, das für die höchste marine Biodiversität der Welt bekannt ist.",
+      hu: "Raja Ampat egy Nyugat-Pápua melletti szigetcsoport, amely a világ leggazdagabb tengeri élővilágáról ismert.",
+      ro: "Raja Ampat este un arhipelag din Papua de Vest, cunoscut pentru cea mai mare biodiversitate marină din lume.",
+      en: "Raja Ampat is an archipelago in West Papua renowned for having the highest marine biodiversity on Earth.",
+    },
+    facts: {
+      de: ["Über 1.500 Inseln im Archipel", "Heimat von 1.400 Fischarten", "75 % aller Korallenarten weltweit", "Teil des Korallendreiecks"],
+      hu: ["Több mint 1500 sziget alkotja", "1400 halfaj él a vizeiben", "A világ korallfajainak 75%-a", "A Korall-háromszög része"],
+      ro: ["Peste 1.500 de insule în arhipelag", "Găzduiește 1.400 de specii de pești", "75% din speciile de corali globale", "Parte a Triunghiului de Coral"],
+      en: ["Over 1,500 islands in the archipelago", "Home to 1,400 species of fish", "Hosts 75% of world's coral species", "Part of the Coral Triangle region"],
+    },
+    imageHint: "Aerial view of karst islands in Piaynemo, Raja Ampat",
+  },
+  {
+    id: "indonesia-mount-batur-nature-v2",
+    type: "mountain",
+    name: { de: "Batur", hu: "Batur-hegy", ro: "Muntele Batur", en: "Mount Batur" },
+    coordinates: { lat: -8.24, lng: 115.38 },
+    description: {
+      de: "Der Mount Batur ist ein aktiver Vulkan auf Bali, der für seinen weiten Blick vom Gipfel und den angrenzenden Batur-See bekannt ist.",
+      hu: "A Batur-hegy egy aktív vulkán Bali szigetén, amely a csúcsáról nyíló kilátásról és a mellette fekvő Batur-tóról ismert.",
+      ro: "Muntele Batur este un vulcan activ în Bali, cunoscut pentru panorama din vârf și lacul Batur situat la poalele sale.",
+      en: "Mount Batur is an active volcano in Bali, famous for its sunrise views and the large crescent-shaped Batur lake.",
+    },
+    facts: {
+      de: ["Höhe von 1.717 Metern", "Große Doppel-Caldera", "26 Ausbrüche seit 1804", "Größter Kratersee auf Bali"],
+      hu: ["1717 méteres magasság", "Hatalmas kettős kaldera", "26 kitörés 1804 óta", "Bali legnagyobb krátertava"],
+      ro: ["Înălțime de 1.717 metri", "Caldeiră dublă masivă", "26 de erupții din 1804", "Cel mai mare lac din Bali"],
+      en: ["Elevation of 1,717 meters", "Large double caldera system", "26 eruptions recorded since 1804", "Bali's largest crater lake"],
+    },
+    imageHint: "Sunrise view of Mount Batur and Lake Batur in Bali",
+  },
+  {
+    id: "indonesia-sianok-canyon-nature-v2",
+    type: "valley",
+    name: { de: "Sianok Schlucht", hu: "Sianok-kanyon", ro: "Canionul Sianok", en: "Sianok Canyon" },
+    coordinates: { lat: -0.307, lng: 100.35 },
+    description: {
+      de: "Die Sianok Schlucht ist ein steiles Tal bei Bukittinggi in Westsumatra, das durch tektonische Aktivitäten entstanden ist.",
+      hu: "A Sianok-kanyon egy meredek völgy Bukittinggi mellett, Nyugat-Szumátrán, amely tektonikai mozgások révén jött létre.",
+      ro: "Canionul Sianok este o vale abruptă lângă Bukittinggi, în Sumatra de Vest, formată prin activitate tectonică.",
+      en: "Sianok Canyon is a steep valley near Bukittinggi in West Sumatra, formed by tectonic activity along the Great Sumatran Fault.",
+    },
+    facts: {
+      de: ["Länge von etwa 15 Kilometern", "Wände sind bis zu 100 Meter tief", "Teil der Sumatra-Verwerfung", "Heimat von Makaken und Wildschweinen"],
+      hu: ["Hossza körülbelül 15 kilométer", "Mélysége eléri a 100 métert", "A Szumátrai-vetődés része", "Makaók és vaddisznók élőhelye"],
+      ro: ["Lungime de aproximativ 15 km", "Pereți de până la 100 metri adâncime", "Parte din Falia Mare a Sumatrei", "Habitat pentru macaci și mistreți"],
+      en: ["Length of approximately 15 kilometers", "Walls drop up to 100 meters deep", "Formed by the Great Sumatran Fault", "Habitat for macaques and wild boars"],
+    },
+    imageHint: "Landscape of Sianok Canyon with vertical cliffs near Bukittinggi",
+  },
+  {
+    id: "indonesia-sipiso-piso-waterfall-nature-v2",
+    type: "landmark",
+    name: { de: "Sipiso-piso Wasserfall", hu: "Sipiso-piso vízesés", ro: "Cascada Sipiso-piso", en: "Sipiso-piso Waterfall" },
+    coordinates: { lat: 2.916, lng: 98.523 },
+    description: {
+      de: "Sipiso-piso ist einer der höchsten Wasserfälle Indonesiens und stürzt 120 Meter in eine Schlucht am Nordrand des Tobasees.",
+      hu: "A Sipiso-piso Indonézia egyik legmagasabb vízesése, amely 120 méter magasból zúdul alá a Toba-tó északi pereménél.",
+      ro: "Sipiso-piso este una dintre cele mai înalte cascade din Indonezia, căzând 120 de metri într-un canion la nord de Lacul Toba.",
+      en: "Sipiso-piso is one of Indonesia's tallest waterfalls, plunging 120 meters into a gorge at the northern rim of Lake Toba.",
+    },
+    facts: {
+      de: ["Fallhöhe von 120 Metern", "Gespeist von unterirdischem Fluss", "Name bedeutet 'Wie ein Messer'", "Liegt im Karo-Hochland"],
+      hu: ["120 méteres esési magasság", "Földalatti folyó táplálja", "Neve 'késhez hasonlót' jelent", "A Karo-fennsíkon található"],
+      ro: ["Înălțime de cădere de 120 metri", "Alimentată de un râu subteran", "Numele înseamnă 'Ca un cuțit'", "Situată în podișul Karo"],
+      en: ["Drop height of 120 meters", "Fed by an underground river", "Name means 'Like a knife'", "Located in the Karo Highlands"],
+    },
+    imageHint: "Vertical view of Sipiso-piso waterfall plunging into the gorge",
+  }
 ];
 

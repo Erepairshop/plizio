@@ -1,0 +1,137 @@
+import { POI } from './poi';
+export const grenadaLandmarksV2: POI[] = [
+
+  {
+    id: "grenada-st-georges-anglican-church-landmarks-v2",
+    type: "church",
+    name: { de: "St. George's Anglican Church", hu: "Szent György anglikán templom", ro: "Biserica Anglicană St. George", en: "St. George's Anglican Church" },
+    coordinates: { lat: 12.0506, lng: -61.7523 },
+    description: {
+      de: "Die anglikanische Kirche wurde 1825 erbaut, aber 2004 durch den Hurrikan Ivan zerstört. Heute sind die historischen Mauern erhalten.",
+      hu: "Az anglikán templom 1825-ben épült, de 2004-ben az Ivan hurrikán lerombolta. Ma a történelmi falak maradványai láthatók.",
+      ro: "Biserica anglicană a fost construită în 1825, dar distrusă de uraganul Ivan în 2004. Astăzi sunt păstrate zidurile istorice.",
+      en: "The Anglican Church was built in 1825, but destroyed by Hurricane Ivan in 2004. Today, the historic walls are preserved.",
+    },
+    facts: {
+      de: ["1825 ursprünglich erbaut", "Zerstört durch Ivan 2004", "Wichtiger historischer Ort", "An der Church Street gelegen"],
+      hu: ["Eredetileg 1825-ben épült", "Az Ivan hurrikán elpusztította", "Fontos történelmi helyszín", "A Church Streeten található"],
+      ro: ["Construită inițial în 1825", "Distrusă de uraganul Ivan", "Sit istoric important", "Situată pe Church Street"],
+      en: ["Originally built in 1825", "Destroyed by Ivan in 2004", "Important historical site", "Located on Church Street"],
+    },
+    imageHint: "St. George's Anglican Church ruins in Grenada",
+  },
+  {
+    id: "grenada-christ-of-the-deep-monument-v2",
+    type: "monument",
+    name: { de: "Christ of the Deep Statue", hu: "A mélység Krisztusa szobor", ro: "Statuia Christ of the Deep", en: "Christ of the Deep Statue" },
+    coordinates: { lat: 12.0493, lng: -61.7516 },
+    description: {
+      de: "Diese Bronzestatue im Carenage erinnert an die Rettung der Passagiere der MS Bianca C. Sie wurde 1961 von Costa Cruises gespendet.",
+      hu: "Ez a bronzszobor a Carenage kikötőben az MS Bianca C utasainak megmentésére emlékeztet. 1961-ben adományozta a Costa Cruises.",
+      ro: "Această statuie de bronz din Carenage comemorează salvarea pasagerilor de pe MS Bianca C. A fost donată în 1961 de Costa Cruises.",
+      en: "This bronze statue in the Carenage commemorates the rescue of passengers from the MS Bianca C. It was donated in 1961 by Costa Cruises.",
+    },
+    facts: {
+      de: ["1961 aufgestellt", "Geschenk der Costa Line", "Bronzeguss-Denkmal", "Steht am Hafenufer"],
+      hu: ["1961-ben állították fel", "A Costa Line ajándéka", "Bronzba öntött emlékmű", "A kikötő partján áll"],
+      ro: ["Ridicată în 1961", "Cadou de la Costa Line", "Monument din bronz", "Situată pe faleza portului"],
+      en: ["Erected in 1961", "Gift from Costa Line", "Bronze cast monument", "Located on the waterfront"],
+    },
+    imageHint: "Christ of the Deep bronze statue in St. George's Carenage",
+  },
+  {
+    id: "grenada-st-andrews-presbyterian-church-landmarks-v2",
+    type: "church",
+    name: { de: "St. Andrew's Presbyterian Church", hu: "Szent András presbiteriánus templom", ro: "Biserica Presbiteriană St. Andrew", en: "St. Andrew's Presbyterian Church" },
+    coordinates: { lat: 12.0512, lng: -61.7522 },
+    description: {
+      de: "Die als „The Kirk“ bekannte Kirche wurde 1833 mit Hilfe der schottischen Gemeinde erbaut. Sie ist ein markantes Bauwerk in St. George's.",
+      hu: "A „The Kirk” néven ismert templom 1833-ban épült a skót közösség segítségével. St. George's egyik jellegzetes épülete.",
+      ro: "Cunoscută sub numele de „The Kirk”, biserica a fost construită în 1833 cu ajutorul comunității scoțiene. Este o clădire marcantă în St. George's.",
+      en: "Known as 'The Kirk', this church was built in 1833 with the help of the Scottish community. It is a landmark building in St. George's.",
+    },
+    facts: {
+      de: ["1833 erbaut", "Auch 'The Kirk' genannt", "Schottische Architektur", "Grand Etang Road Lage"],
+      hu: ["1833-ban épült", "„The Kirk” néven ismerik", "Skót építészeti stílus", "A Grand Etang Roadon van"],
+      ro: ["Construită în 1833", "Numită și „The Kirk”", "Arhitectură scoțiană", "Pe Grand Etang Road"],
+      en: ["Built in 1833", "Also called 'The Kirk'", "Scottish architecture", "Grand Etang Road location"],
+    },
+    imageHint: "St. Andrew's Presbyterian Church St. George's Grenada",
+  },
+  {
+    id: "grenada-marryshow-house-landmarks-v2",
+    type: "landmark",
+    name: { de: "Marryshow House", hu: "Marryshow House", ro: "Casa Marryshow", en: "Marryshow House" },
+    coordinates: { lat: 12.0515, lng: -61.7485 },
+    description: {
+      de: "Das historische Haus war der Wohnsitz von T.A. Marryshow, dem Vater der Westindischen Föderation. Es gehört heute zur Universität.",
+      hu: "Ez a történelmi ház T.A. Marryshow-nak, a Nyugat-indiai Föderáció atyjának lakhelye volt. Ma az egyetemhez tartozik.",
+      ro: "Această casă istorică a fost reședința lui T.A. Marryshow, părintele Federației Indiilor de Vest. Astăzi aparține universității.",
+      en: "This historic house was the residence of T.A. Marryshow, the Father of West Indies Federation. It now belongs to the university.",
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1917", "Wohnhaus von T.A. Marryshow", "UWI-Zentrum in Grenada", "Folk-Gothic-Stil"],
+      hu: ["1917-ben épült", "T.A. Marryshow otthona", "Az UWI grenadai központja", "Népi gótikus stílus"],
+      ro: ["Construită în anul 1917", "Casa lui T.A. Marryshow", "Centru UWI în Grenada", "Stil gotic popular"],
+      en: ["Built in 1917", "Home of T.A. Marryshow", "UWI center in Grenada", "Folk Gothic style"],
+    },
+    imageHint: "Marryshow House historic building in St. George's",
+  },
+  {
+    id: "grenada-public-library-carenage-landmarks-v2",
+    type: "landmark",
+    name: { de: "Öffentliche Bibliothek", hu: "Nyilvános Könyvtár", ro: "Biblioteca Publică", en: "Public Library" },
+    coordinates: { lat: 12.0494, lng: -61.7512 },
+    description: {
+      de: "Die Bibliothek ist in einem der ältesten Backsteingebäude am Carenage-Ufer untergebracht. Es stammt aus dem 18. Jahrhundert.",
+      hu: "A könyvtár a Carenage kikötő partján álló egyik legrégebbi téglaépületben kapott helyet. A 18. századból származik.",
+      ro: "Biblioteca este găzduită într-una dintre cele mai vechi clădiri de cărămidă de pe faleza Carenage. Dată din secolul XVIII.",
+      en: "The library is housed in one of the oldest brick buildings on the Carenage waterfront. It dates back to the 18th century.",
+    },
+    facts: {
+      de: ["Backsteinbau aus dem 18. Jh.", "Am Carenage gelegen", "Nationales Erbe", "Früherer Lagerraum"],
+      hu: ["18. századi téglaépület", "A Carenage-on található", "Nemzeti örökség része", "Korábban raktár volt"],
+      ro: ["Clădire din cărămidă sec. XVIII", "Situată pe Carenage", "Patrimoniu național", "Fost depozit comercial"],
+      en: ["18th-century brick building", "Located on the Carenage", "National heritage site", "Former commercial warehouse"],
+    },
+    imageHint: "Old brick Public Library building on Carenage St. George's",
+  },
+  {
+    id: "grenada-york-house-ruins-landmarks-v2",
+    type: "ruins",
+    name: { de: "York House", hu: "York House", ro: "Casa York", en: "York House" },
+    coordinates: { lat: 12.0514, lng: -61.7534 },
+    description: {
+      de: "Das York House war der Sitz des Parlaments, bis es 2004 durch den Hurrikan Ivan zerstört wurde. Die Ruinen sind ein Mahnmal.",
+      hu: "A York House a parlament székhelye volt, amíg 2004-ben az Ivan hurrikán le nem rombolta. A romok ma emlékműként állnak.",
+      ro: "York House a fost sediul Parlamentului până când a fost distrusă de uraganul Ivan în 2004. Ruinele sunt un monument istoric.",
+      en: "York House was the seat of Parliament until it was destroyed by Hurricane Ivan in 2004. The ruins stand as a historic monument.",
+    },
+    facts: {
+      de: ["Ehemals Parlamentssitz", "Zerstört im Jahr 2004", "Früheres Justizgebäude", "Befindet sich in Trümmern"],
+      hu: ["Korábbi parlamenti székhely", "2004-ben pusztult el", "Egykori igazságügyi épület", "Ma romos állapotban van"],
+      ro: ["Fost sediu al Parlamentului", "Distrusă în anul 2004", "Fostă clădire judiciară", "Se află în stare de ruină"],
+      en: ["Former seat of Parliament", "Destroyed in 2004", "Former judicial building", "Currently in ruins"],
+    },
+    imageHint: "York House ruins in St. George's Grenada",
+  },
+  {
+    id: "grenada-market-square-st-georges-landmarks-v2",
+    type: "landmark",
+    name: { de: "Market Square St. George's", hu: "St. George's-i piactér", ro: "Piața Centrală St. George's", en: "Market Square St. George's" },
+    coordinates: { lat: 12.0519, lng: -61.7538 },
+    description: {
+      de: "Der Marktplatz ist das lebendige Herz von St. George's. Er ist bekannt für seinen historischen Uhrenturm und den Handel mit Gewürzen.",
+      hu: "A piactér St. George's lüktető szíve. Történelmi óratornyáról és a fűszerek élénk kereskedelméről nevezetes.",
+      ro: "Piața centrală este inima vibrantă a orașului St. George's. Este cunoscută pentru turnul cu ceas istoric și comerțul cu condimente.",
+      en: "The market square is the vibrant heart of St. George's. It is known for its historic clock tower and the trade of local spices.",
+    },
+    facts: {
+      de: ["Zentraler Handelsplatz", "Historischer Uhrenturm", "Ort für Gewürzhandel", "Zentrum der Stadt"],
+      hu: ["Központi kereskedelmi hely", "Történelmi óratorony", "Fűszerpiac helyszíne", "A város központja"],
+      ro: ["Loc comercial central", "Turn cu ceas istoric", "Piață de condimente", "Centrul orașului"],
+      en: ["Central trading place", "Historic clock tower", "Site for spice trade", "Center of the town"],
+    },
+    imageHint: "Market Square with clock tower in St. George's Grenada",
+  }
+];

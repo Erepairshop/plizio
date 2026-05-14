@@ -722,5 +722,44 @@ export const poiExtraIndiaNatureV2: POI[] = [
       en: ["Godavari River is located in the state of Maharashtra and is a well-known river.", "The region attracts many visitors each year from India and abroad.", "Local culture and language are closely tied to the identity of Maharashtra."]
     }
   }
+,
+  {
+    id: "india-jog-falls-nature-v2",
+    type: "landmark",
+    name: { de: "Jog-Wasserfälle", hu: "Jog-vízesés", ro: "Cascada Jog", en: "Jog Falls" },
+    coordinates: { lat: 14.2289, lng: 74.8117 },
+    description: {
+      de: "Die Jog-Wasserfälle liegen am Fluss Sharavati in Karnataka. Sie stürzen aus 253 Metern Höhe in vier Kaskaden herab.",
+      hu: "A Jog-vízesés a Sharavati-folyón található Karnataka államban. A víz 253 méter magasból zúdul le négy különálló ágon.",
+      ro: "Cascada Jog este situată pe râul Sharavati în statul Karnataka. Aceasta cade de la o înălțime de 253 de metri în patru segmente.",
+      en: "The Jog Falls are located on the Sharavati River in Karnataka. They fall from a height of 253 meters in four cascades.",
+    },
+    facts: {
+      de: ["Höhe von 253 Metern", "Am Fluss Sharavati gelegen", "Besteht aus vier Kaskaden", "Teil der Westghats"],
+      hu: ["253 méteres magasság", "A Sharavati-folyón található", "Négy ágból áll", "A Nyugati-Gátak része"],
+      ro: ["Înălțime de 253 de metri", "Situată pe râul Sharavati", "Formată din patru cascade", "Parte a Gaților de Vest"],
+      en: ["Height of 253 meters", "Located on Sharavati River", "Consists of four cascades", "Part of the Western Ghats"],
+    },
+    imageHint: "Jog Falls Karnataka panoramic view",
+  },
+  {
+    id: "india-lonar-lake-nature-v2",
+    type: "lake",
+    name: { de: "Lonar-See", hu: "Lonar-tó", ro: "Lacul Lonar", en: "Lonar Lake" },
+    coordinates: { lat: 19.9764, lng: 76.5072 },
+    description: {
+      de: "Der Lonar-See ist ein alkalischer Kratersee in Maharashtra. Er entstand durch einen Meteoriteneinschlag im Pleistozän.",
+      hu: "A Lonar-tó egy sós, lúgos vizű krátertó Maharashtra államban. A pleisztocén korban keletkezett egy meteorit becsapódása után.",
+      ro: "Lacul Lonar este un lac sărat și alcalin situat în Maharashtra. S-a format în urma impactului unui meteorit în timpul pleistocenului.",
+      en: "Lonar Lake is a saline, alkaline crater lake in Maharashtra. It was created by a meteorite impact during the Pleistocene Epoch.",
+    },
+    facts: {
+      de: ["Salzhaltiger Kratersee", "Durch Meteoriteneinschlag entstanden", "Durchmesser von 1,2 Kilometern", "In Maharashtra gelegen"],
+      hu: ["Sós vizű krátertó", "Meteoritbecsapódás hozta létre", "1,2 kilométeres átmérő", "Maharashtra államban fekszik"],
+      ro: ["Lac de crater sărat", "Format prin impactul unui meteorit", "Diametru de 1,2 kilometri", "Situat în statul Maharashtra"],
+      en: ["Saline and alkaline crater lake", "Formed by meteorite impact", "Diameter of 1.2 kilometers", "Located in Maharashtra state"],
+    },
+    imageHint: "Lonar Lake crater Maharashtra aerial view",
+  }
 ];
 

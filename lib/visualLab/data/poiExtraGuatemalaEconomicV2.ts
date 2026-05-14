@@ -602,5 +602,63 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     
     
   }
+,
+  {
+    id: "guatemala-puerto-barrios-terminal-economic-v2",
+    type: "port",
+    name: { de: "Puerto Barrios Terminal", hu: "Puerto Barrios Terminál", ro: "Terminalul Puerto Barrios", en: "Puerto Barrios Terminal" },
+    coordinates: { lat: 15.7317, lng: -88.5955 },
+    description: {
+      de: "Dies ist einer der wichtigsten Tiefseehäfen an der guatemaltekischen Atlantikküste. Er dient als zentraler Umschlagplatz für Container und den Export von Agrarprodukten.",
+      hu: "Ez az egyik legfontosabb mélyvízi kikötő Guatemala atlanti partvidékén. Központi átrakodóhelyként szolgál konténerek és mezőgazdasági termékek számára.",
+      ro: "Acesta este unul dintre cele mai importante porturi de adâncime de pe coasta atlantică a Guatemalei. Servește drept hub central pentru containere și exportul de produse agricole.",
+      en: "This is one of the primary deep-water ports on Guatemala's Atlantic coast. It serves as a major hub for containerized cargo and agricultural exports.",
+    },
+    facts: {
+      de: ["Wichtigster Hafen an der Karibikküste", "Hauptausfuhrpunkt für Bananen", "Verfügt über moderne Containerkräne", "Bedeutend für den Außenhandel"],
+      hu: ["A legfontosabb kikötő a karibi parton", "Fő banánkiviteli pont", "Modern konténerdarukkal felszerelt", "Jelentős a külkereskedelemben"],
+      ro: ["Cel mai important port de la Marea Caraibilor", "Punct principal de export pentru banane", "Dotat cu macarale moderne pentru containere", "Esențial pentru comerțul exterior"],
+      en: ["Primary port on the Caribbean coast", "Major export point for bananas", "Equipped with modern container cranes", "Vital to international trade"],
+    },
+    imageHint: "Puerto Barrios cargo port at sunset",
+  },
+  {
+    id: "guatemala-central-market-capital-economic-v2",
+    type: "city",
+    name: { de: "Zentraler Markt von Guatemala-Stadt", hu: "Guatemalavárosi Központi Piac", ro: "Piața Centrală din Guatemala City", en: "Guatemala City Central Market" },
+    coordinates: { lat: 14.6432, lng: -90.5133 },
+    description: {
+      de: "Der zentrale Markt in der Hauptstadt fungiert als Drehkreuz für den regionalen Handel mit Lebensmitteln und lokal hergestelltem Handwerk. Er ist ein bedeutender Ort für den informellen wirtschaftlichen Sektor.",
+      hu: "A fővárosi központi piac az élelmiszerek és a helyi kézműves termékek regionális kereskedelmi központja. Jelentős szerepet játszik az informális gazdasági szektorban.",
+      ro: "Piața centrală din capitală funcționează ca un nod comercial regional pentru alimente și produse artizanale locale. Este un punct important pentru sectorul economic informal.",
+      en: "The central market in the capital acts as a hub for regional trade in food and locally manufactured crafts. It is a significant site for the informal economic sector.",
+    },
+    facts: {
+      de: ["Größter Markt der Hauptstadt", "Verkaufsort für nationale Agrarprodukte", "Zentrum lokaler Handelsbeziehungen", "Täglich stark frequentiert"],
+      hu: ["A főváros legnagyobb piaca", "Nemzeti mezőgazdasági termékek eladóhelye", "A helyi kereskedelmi kapcsolatok központja", "Naponta nagy forgalmat bonyolít"],
+      ro: ["Cea mai mare piață din capitală", "Loc de vânzare pentru produse agricole naționale", "Centru al relațiilor comerciale locale", "Flux zilnic ridicat de vizitatori"],
+      en: ["Largest market in the capital", "Outlet for national agricultural products", "Center of local trade relations", "High daily foot traffic"],
+    },
+    imageHint: "Guatemala City Central Market stalls",
+  },
+  {
+    id: "guatemala-palm-oil-processing-plant-economic-v2",
+    type: "factory",
+    name: { de: "Palmölverarbeitungsanlage Peten", hu: "Peténi Pálmaolaj-feldolgozó Üzem", ro: "Fabrică de procesare a uleiului de palmier Petén", en: "Peten Palm Oil Processing Plant" },
+    coordinates: { lat: 16.9205, lng: -90.0051 },
+    description: {
+      de: "Diese industrielle Anlage im Norden des Landes ist auf die Extraktion und Veredelung von Palmöl spezialisiert. Sie stellt einen wichtigen Akteur in der lokalen agroindustriellen Wertschöpfungskette dar.",
+      hu: "Ez az északi ipari létesítmény pálmaolaj extrakciójára és finomítására specializálódott. Fontos szereplője a helyi agrár-ipari értékláncnak.",
+      ro: "Această facilitate industrială din nordul țării este specializată în extracția și rafinarea uleiului de palmier. Reprezintă un actor important în lanțul valoric agroindustrial local.",
+      en: "This industrial facility in the north of the country specializes in the extraction and refining of palm oil. It is a key player in the local agro-industrial value chain.",
+    },
+    facts: {
+      de: ["Große Produktionskapazität", "Exportorientierte Industrie", "Beschäftigt zahlreiche lokale Arbeiter", "Technisch fortschrittliche Extraktion"],
+      hu: ["Nagy termelési kapacitás", "Exportorientált ipar", "Számos helyi munkást foglalkoztat", "Technikailag fejlett extrakció"],
+      ro: ["Capacitate mare de producție", "Industrie orientată către export", "Angajează numeroși lucrători locali", "Extracție avansată tehnologic"],
+      en: ["Large production capacity", "Export-oriented industry", "Employs numerous local workers", "Technologically advanced extraction"],
+    },
+    imageHint: "Palm oil plantation and factory facility",
+  }
 ];
 

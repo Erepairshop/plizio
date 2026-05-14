@@ -1043,4 +1043,100 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
       en: []
     }
   }
+,
+  {
+    id: "kazakhstan-bektau-ata-nature-v2",
+    type: "mountain",
+    name: { de: "Bektau-Ata", hu: "Bektau-Ata", ro: "Bektau-Ata", en: "Bektau-Ata" },
+    coordinates: { lat: 47.445, lng: 74.783 },
+    description: {
+      de: "Vulkanisches Gesteinsmassiv in der Region Qaraghandy, das sich über die Steppe erhebt. Bekannt für einzigartige Felsformationen und tiefe Höhlen.",
+      hu: "Vulkanikus kőzettömb a Karaganda régióban, amely markánsan kiemelkedik a sztyeppéből. Különleges sziklaalakzatairól és barlangjairól ismert.",
+      ro: "Masiv stâncos vulcanic în regiunea Karaganda, care se ridică deasupra stepei. Este cunoscut pentru formațiunile sale unice și peșterile adânci.",
+      en: "Volcanic rock massif in the Karaganda region, rising above the surrounding steppe. Known for its unique rock formations and deep caves.",
+    },
+    facts: {
+      de: ["Maximale Höhe von 1217 Metern", "Befindet sich 60 km nördlich von Balchasch", "Beherbergt die 50 Meter tiefe Aulie-Höhle", "Besteht aus rosa Granitgestein"],
+      hu: ["Legmagasabb pontja 1217 méter", "Balkas várostól 60 km-re északra fekszik", "Itt található az 50 méter mély Aulie-barlang", "Rózsaszín gránitkőzetből épül fel"],
+      ro: ["Înălțimea maximă de 1217 metri", "Situat la 60 km nord de orașul Balkhash", "Găzduiește peștera Aulie de 50 metri adâncime", "Compus din formațiuni de granit roz"],
+      en: ["Maximum elevation of 1217 meters", "Located 60 km north of Balkhash city", "Contains the 50-meter deep Aulie cave", "Composed of pink granite rock formations"],
+    },
+    imageHint: "Bektau-Ata rock formations at sunset",
+  },
+  {
+    id: "kazakhstan-bozzhira-valley-nature-v2",
+    type: "valley",
+    name: { de: "Bozzhira-Tal", hu: "Bozzsira-völgy", ro: "Valea Bozzhira", en: "Bozzhira Valley" },
+    coordinates: { lat: 43.411, lng: 54.065 },
+    description: {
+      de: "Tal auf dem Ustjurt-Plateau mit dramatischen Kreidefelsen und weißen Gipfeln. Die Landschaft wurde durch alte Meeressedimente geformt.",
+      hu: "Az Usztyurt-fennsík része, amely drámai krétasziklákkal és fehér csúcsokkal rendelkezik. A tájat ősi tengeri üledékek alakították ki.",
+      ro: "Parte a platoului Ustyurt, această vale prezintă stânci de cretă dramatice și vârfuri albe. Peisajul este format din sedimente marine vechi.",
+      en: "Part of the Ustyurt Plateau, this valley features dramatic chalk cliffs and white peaks. The landscape is formed by ancient marine sediments.",
+    },
+    facts: {
+      de: ["Liegt in der Region Mangghystau", "Einst Teil des antiken Tethys-Ozeans", "Zwei Hauptgipfel werden Die Fänge genannt", "Besteht aus Kalkstein und Kreide"],
+      hu: ["Mangisztau tartomány területén fekszik", "Egykor az ősi Tethys-óceán része volt", "Két fő csúcsát Agyaraknak nevezik", "Mészkőből és krétából épül fel"],
+      ro: ["Situat în regiunea Mangystau", "A făcut parte din vechiul ocean Tethys", "Două vârfuri principale se numesc Colții", "Compus din straturi de calcar și cretă"],
+      en: ["Located in the Mangystau region", "Once part of the ancient Tethys Ocean", "Two main peaks are called The Fangs", "Composed of limestone and chalk layers"],
+    },
+    imageHint: "Bozzhira white chalk cliffs and peaks",
+  },
+  {
+    id: "kazakhstan-kiin-kerish-nature-v2",
+    type: "valley",
+    name: { de: "Kiin-Kerisch", hu: "Kiin-Keris", ro: "Kiin-Kerish", en: "Kiin-Kerish" },
+    coordinates: { lat: 48.131, lng: 84.455 },
+    description: {
+      de: "Ton-Canyon in Ostkasachstan, bekannt für seine roten und orangefarbenen Erosionsschichten. Enthält Fossilien aus dem Mesozoikum und Känozoikum.",
+      hu: "Agyagkanyon Kelet-Kazahsztánban, amely vörös és narancssárga erodált rétegeiről ismert. Mezozoikumból és kenozoikumból származó fosszíliákat rejt.",
+      ro: "Canion de argilă în estul Kazahstanului, cunoscut pentru straturile sale erodate roșii și portocalii. Conține fosile din erele Mezozoic și Cenozoic.",
+      en: "Clay canyon in East Kazakhstan known for its red and orange eroded layers. It contains fossils dating back to the Mesozoic and Cenozoic eras.",
+    },
+    facts: {
+      de: ["Spitzname ist Stadt der Geister", "Umfasst eine Fläche von 300 Hektar", "Liegt im Saisan-Becken", "Rote Tonschichten sind 65 Millionen Jahre alt"],
+      hu: ["Beceneve a Szellemek városa", "Területe megközelítőleg 300 hektár", "A Zajszan-medencében található", "A vörös agyagrétegek 65 millió évesek"],
+      ro: ["Poreclit Orașul Spiritelor", "Acoperă o suprafață de 300 hectare", "Situat în bazinul Zaysan", "Straturile de argilă roșie au 65 milioane ani"],
+      en: ["Nicknamed the City of Spirits", "Covers an area of 300 hectares", "Located in the Zaysan basin", "Red clay layers are 65 million years old"],
+    },
+    imageHint: "Kiin-Kerish red clay canyon landscape",
+  },
+  {
+    id: "kazakhstan-torysh-valley-nature-v2",
+    type: "valley",
+    name: { de: "Torysh (Tal der Bälle)", hu: "Toris (Golyók völgye)", ro: "Torysh (Valea Bilelor)", en: "Torysh (Valley of Balls)" },
+    coordinates: { lat: 44.328, lng: 51.595 },
+    description: {
+      de: "Tal auf der Mangyshlak-Halbinsel mit kugelförmigen Steinkonkretionen verschiedener Größe. Die Entstehung dieser Steinkugeln ist umstritten.",
+      hu: "Völgy a Mangislak-félszigeten, amely tele van különböző méretű gömb alakú kőkonkréciókkal. Ezen kőgolyók eredete még mindig vitatott.",
+      ro: "Vale pe peninsula Mangyshlak plină cu concrețiuni sferice de piatră de diverse dimensiuni. Originea acestor bile de piatră este încă dezbătută.",
+      en: "Valley on the Mangyshlak Peninsula filled with spherical stone concretions of various sizes. The origin of these stone balls is still debated.",
+    },
+    facts: {
+      de: ["Bälle erreichen bis zu 4 Meter Durchmesser", "Geologische Formationen aus der Kreidezeit", "Liegt in der Nähe des Berges Sherkala", "Zehntausende Kugeln liegen im Tal verstreut"],
+      hu: ["A golyók átmérője elérheti a 4 métert", "Krétakori geológiai képződmények", "A Serkala-hegy közelében található", "Golyók tízezrei szóródnak szét a völgyben"],
+      ro: ["Bilele ating diametre de până la 4 metri", "Formațiuni geologice din perioada Cretacică", "Situată în apropierea muntelui Sherkala", "Zeci de mii de bile sunt împrăștiate în vale"],
+      en: ["Balls reach up to 4 meters in diameter", "Geological formations from the Cretaceous", "Located near Sherkala mountain", "Tens of thousands of balls are scattered in the valley"],
+    },
+    imageHint: "Torysh valley stone balls",
+  },
+  {
+    id: "kazakhstan-sherkala-mountain-nature-v2",
+    type: "mountain",
+    name: { de: "Sherkala", hu: "Serkala", ro: "Sherkala", en: "Sherkala" },
+    coordinates: { lat: 44.256, lng: 52.002 },
+    description: {
+      de: "Einsamer Berg in Mangystau, der an eine Jurte oder einen schlafenden Löwen erinnert. Kalksteinformation, geformt durch Millionen Jahre Wind-Erosion.",
+      hu: "Magányos hegy Mangisztau tartományban, amely jurtára vagy alvó oroszlánra emlékeztet. Évmilliók szél-eróziója által formált mészkőképződmény.",
+      ro: "Munte singuratic în Mangystau care seamănă cu o iurtă sau cu un leu care doarme. Este o formațiune de calcar modelată de milioane de ani de eroziune.",
+      en: "Lone mountain in Mangystau that resembles a yurt or a sleeping lion. It is a limestone formation shaped by millions of years of wind erosion.",
+    },
+    facts: {
+      de: ["Der Name bedeutet Löwenfestung", "Erhebt sich 307 Meter über den Meeresspiegel", "Befindet sich an der alten Seidenstraße", "Wurde im Mittelalter als Festung genutzt"],
+      hu: ["A név jelentése Oroszlán-erőd", "Tengerszint feletti magassága 307 méter", "Az egykori Selyemút mentén fekszik", "A középkorban erődként használták"],
+      ro: ["Numele înseamnă Fortăreața Leului", "Se ridică la 307 metri peste nivelul mării", "Situat pe vechiul Drum al Mătăsii", "Folosit ca fortăreață în Evul Mediu"],
+      en: ["The name means Lion Fortress", "Rises 307 meters above sea level", "Located on the ancient Silk Road", "Used as a fortress during the Middle Ages"],
+    },
+    imageHint: "Sherkala mountain yurt shape",
+  }
 ];
