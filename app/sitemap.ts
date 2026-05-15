@@ -92,7 +92,13 @@ export default function sitemap({ id }: { id: number }): MetadataRoute.Sitemap {
     }
   }
 
-  const all = [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];
+  // poiUrls can have 100k+ entries; array-spread with >65k items hits V8's
+  // argument-count limit (RangeError). Use push-loop instead.
+  const all: ReturnType<typeof createEntry>[] = [];
+  for (const u of rootUrls) all.push(u);
+  for (const u of countryUrls) all.push(u);
+  for (const u of stateUrls) all.push(u);
+  for (const u of poiUrls) all.push(u);
   // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.
   const start = id * CHUNK_SIZE;
   return all.slice(start, start + CHUNK_SIZE);

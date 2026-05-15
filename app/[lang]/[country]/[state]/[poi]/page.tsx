@@ -50,24 +50,20 @@ function geographicFacts(poi: POI) {
   ].filter(Boolean) as string[];
 }
 
-// Called by Next.js once per parent {lang, country}. Per-country slicing keeps
-// the returned param count tiny, avoiding the V8 spread-args RangeError that
-// hits when generateStaticParams returns >65k entries from a single call.
-export async function generateStaticParams({ params }: { params: Promise<{ lang: string; country: string }> }) {
-  const { lang, country: countryParam } = await params;
-  if (!SUPPORTED_LANGS.includes(lang as Lang)) return [];
-  const out: { state: string; poi: string }[] = [];
-  for (const poi of pois) {
-    if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
-    if (!hasIndexableContent(poi)) continue;
-    const country = countrySlugFor(lang as Lang, getCountryId(poi.parent!));
-    if (country !== countryParam) continue;
-    const statePath = buildStatePath(lang as Lang, poi.parent!).split("/").filter(Boolean);
-    const poiPath = buildPoiPath(lang as Lang, poi).split("/").filter(Boolean);
-    const state = statePath[2];
-    const poiSlug = poiPath[3];
-    if (!state || !poiSlug) continue;
-    out.push({ state, poi: poiSlug });
+export function generateStaticParams() {
+  const out: { lang: string; country: string; state: string; poi: string }[] = [];
+  for (const lang of SUPPORTED_LANGS) {
+    for (const poi of pois) {
+      if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
+      if (!hasIndexableContent(poi)) continue;
+      const country = countrySlugFor(lang, getCountryId(poi.parent!));
+      const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
+      const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
+      const state = statePath[2];
+      const poiSlug = poiPath[3];
+      if (!lang || !country || !state || !poiSlug) continue;
+      out.push({ lang, country, state, poi: poiSlug });
+    }
   }
   return out;
 }
