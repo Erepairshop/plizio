@@ -15,7 +15,7 @@ concurrency:
 
 env:
   RELEASE_BASE: /home/erik/plizio
-  KEEP_RELEASES: 5
+  KEEP_RELEASES: 2
 
 jobs:
   build-deploy:
@@ -45,9 +45,10 @@ jobs:
 
       - name: Build (static export → out/)
         env:
-          NODE_OPTIONS: --max-old-space-size=12288
+          NODE_OPTIONS: --max-old-space-size=12288 --require=./scripts/v8_apply_patch.js
           NEXT_BUILD_WORKERS: '2'
           NEXT_PRIVATE_WORKER_LIMIT: '2'
+          GSP_LIMIT: '50000'
         run: npm run build
 
       - name: Verify out/ produced
