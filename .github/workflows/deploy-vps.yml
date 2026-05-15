@@ -67,7 +67,7 @@ jobs:
           cp package-lock.json "$REL_DIR"/
           cp ecosystem.config.js "$REL_DIR"/
           # node_modules: install fresh in release dir (production only)
-          (cd "$REL_DIR" && npm ci --omit=dev --no-audit --no-fund --prefer-offline)
+          (cd "$REL_DIR" && HUSKY=0 npm ci --omit=dev --no-audit --no-fund --prefer-offline --ignore-scripts)
           # Permissions
           find "$REL_DIR" -type d -exec chmod 755 {} +
           find "$REL_DIR" -type f -exec chmod 644 {} +
