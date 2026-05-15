@@ -40,11 +40,14 @@ jobs:
 
       - run: npm ci
 
+      - name: Generate V2 POI JSON (avoids V8 stack overflow)
+        run: npx tsx scripts/prepare_v2_data.mjs
+
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288
-          NEXT_BUILD_WORKERS: '2'
-          NEXT_PRIVATE_WORKER_LIMIT: '2'
+          NEXT_BUILD_WORKERS: '5'
+          NEXT_PRIVATE_WORKER_LIMIT: '5'
         run: npx next build
 
       - name: Verify out/ produced
