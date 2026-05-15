@@ -63,3 +63,4 @@ tsfiles.txt
 *.bak
 *_old.ts
 lib/visualLab/data/basic-poi-*.json
+lib/visualLab/data/_all_v2_pois.json
