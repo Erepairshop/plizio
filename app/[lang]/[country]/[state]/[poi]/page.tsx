@@ -51,24 +51,26 @@ function geographicFacts(poi: POI) {
 }
 
 export function generateStaticParams() {
+  // Interleave by POI×lang so a slice cuts fairly across all 4 languages.
+  // Order: [de×poi1, hu×poi1, ro×poi1, en×poi1, de×poi2, hu×poi2, ...] — first
+  // LIMIT/4 POIs get all 4 langs (vs. previous "DE full + HU partial + 0 RO/EN").
   const out: { lang: string; country: string; state: string; poi: string }[] = [];
-  for (const lang of SUPPORTED_LANGS) {
-    for (const poi of pois) {
-      if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
-      if (!hasIndexableContent(poi)) continue;
+  for (const poi of pois) {
+    if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
+    if (!hasIndexableContent(poi)) continue;
+    for (const lang of SUPPORTED_LANGS) {
       const country = countrySlugFor(lang, getCountryId(poi.parent!));
       const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
       const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
       const state = statePath[2];
       const poiSlug = poiPath[3];
-      if (!lang || !country || !state || !poiSlug) continue;
+      if (!country || !state || !poiSlug) continue;
       out.push({ lang, country, state, poi: poiSlug });
     }
   }
-  // DIAG: binary-search the crash threshold for "Collecting page data" RangeError.
   const LIMIT = Number(process.env.GSP_LIMIT || 0);
   if (LIMIT > 0 && out.length > LIMIT) {
-    console.error("[gSP] DIAG limiting", out.length, "→", LIMIT);
+    console.error("[gSP] limiting", out.length, "->", LIMIT, "(interleaved)");
     return out.slice(0, LIMIT);
   }
   console.error("[gSP] returning", out.length);
