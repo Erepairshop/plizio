@@ -51,10 +51,12 @@ function geographicFacts(poi: POI) {
 }
 
 export function generateStaticParams() {
-  // Explicit accumulator loop — flatMap with 50K+ POIs × 4 lang exceeds V8 stack.
+  // DIAGNOSTIC LIMIT: only first 100 POIs to isolate RangeError cause.
+  // TODO: remove `.slice(0, 100)` once root cause found.
   const out: { lang: string; country: string; state: string; poi: string }[] = [];
+  const _diagPois = pois.slice(0, 100);
   for (const lang of SUPPORTED_LANGS) {
-    for (const poi of pois) {
+    for (const poi of _diagPois) {
       if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
       if (!hasIndexableContent(poi)) continue;
       const country = countrySlugFor(lang, getCountryId(poi.parent!));
