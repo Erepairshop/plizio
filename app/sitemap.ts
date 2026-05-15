@@ -34,7 +34,8 @@ function createEntry(url: string, sourceFile: string, priority: number) {
   };
 }
 
-export default function sitemap({ id }: { id: number }): MetadataRoute.Sitemap {
+export default async function sitemap(props: { id: Promise<string> }): Promise<MetadataRoute.Sitemap> {
+  const id = parseInt(await props.id, 10) || 0;
   const countryUrls = SUPPORTED_LANGS.flatMap((lang) => [
     createEntry(buildCountryPath(lang, "germany"), "app/[lang]/[country]/page.tsx", 1),
     createEntry(buildCountryPath(lang, "romania"), "app/[lang]/[country]/page.tsx", 1),
